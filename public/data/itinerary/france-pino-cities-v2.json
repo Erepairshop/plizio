@@ -1,0 +1,474 @@
+{
+  "city_id": "france-pino-cities-v2",
+  "anchor": {
+    "name": "Pino",
+    "coords": [
+      9.3518,
+      42.90807
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:46",
+      "total_km": 2.15,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Château Piccioni",
+            "hu": "Château Piccioni",
+            "ro": "Château Piccioni",
+            "en": "Château Piccioni"
+          },
+          "coords": [
+            9.35089,
+            42.906748
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Architektur des Château Piccioni und tauchen Sie ein in die reiche Geschichte Korsikas, während Sie die Aussicht genießen.",
+            "hu": "Fedezze fel a Château Piccioni lenyűgöző építészetét, és merüljön el Korzika gazdag történelmében, miközben élvezi a környező táj páratlan kilátását.",
+            "ro": "Descoperiți arhitectura fascinantă a Castelului Piccioni și scufundați-vă în istoria bogată a Corsicii în timp ce admirați priveliștea spectaculoasă a împrejurimilor.",
+            "en": "Discover the fascinating architecture of Château Piccioni and immerse yourself in Corsica's rich history while taking in the spectacular surrounding views."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle de confrérie Santa Croce",
+            "hu": "Chapelle de confrérie Santa Croce",
+            "ro": "Chapelle de confrérie Santa Croce",
+            "en": "Chapelle de confrérie Santa Croce"
+          },
+          "coords": [
+            9.351207,
+            42.909983
+          ],
+          "category": "religious",
+          "arrive_at": "10:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Bewundern Sie die spirituelle Atmosphäre der Kapelle, die für ihre historischen Details bekannt ist, und achten Sie besonders auf die kunstvollen Fresken im Inneren.",
+            "hu": "Csodálja meg a kápolna különleges, spirituális atmoszféráját, amely történelmi részleteiről ismert, és fordítson különös figyelmet a belső tér freskóira.",
+            "ro": "Admirați atmosfera spirituală a capelei, cunoscută pentru detaliile sale istorice, și acordați o atenție deosebită frescelor minunate din interior.",
+            "en": "Admire the spiritual atmosphere of the chapel, known for its historic details, and pay special attention to the wonderful frescoes that adorn the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle San Guglielmo",
+            "hu": "Chapelle San Guglielmo",
+            "ro": "Chapelle San Guglielmo",
+            "en": "Chapelle San Guglielmo"
+          },
+          "coords": [
+            9.357438,
+            42.909644
+          ],
+          "category": "religious",
+          "arrive_at": "11:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses charmante religiöse Bauwerk, das Ruhe ausstrahlt, und nutzen Sie das weiche Morgenlicht für perfekte Erinnerungsfotos von der authentischen Fassade.",
+            "hu": "Látogasson el ebbe a bájos vallási épületbe, amely békét sugároz, és használja ki a lágy reggeli fényeket, hogy tökéletes fotókat készítsen az autentikus homlokzatról.",
+            "ro": "Vizitați această fermecătoare clădire religioasă care emană liniște și profitați de lumina blândă a dimineții pentru a face fotografii perfecte ale fațadei sale autentice.",
+            "en": "Visit this charming religious building that exudes peace, and take advantage of the soft morning light to capture perfect memory photos of its authentic facade."
+          }
+        },
+        {
+          "name": {
+            "de": "San Francesco (Ancien couvent)",
+            "hu": "San Francesco (Ancien couvent)",
+            "ro": "San Francesco (Ancien couvent)",
+            "en": "San Francesco (Ancien couvent)"
+          },
+          "coords": [
+            9.345911,
+            42.912038
+          ],
+          "category": "religious",
+          "arrive_at": "12:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieses alten Klosters, das einen tiefen Einblick in das spirituelle Erbe der Region bietet, und genießen Sie die friedliche Umgebung für einen Moment der Stille.",
+            "hu": "Fedezze fel e régi kolostor maradványait, amely mély betekintést nyújt a régió spirituális örökségébe, és élvezze a békés környezetet egy csendes pillanatra.",
+            "ro": "Explorați rămășițele acestei vechi mănăstiri, care oferă o perspectivă profundă asupra moștenirii spirituale a regiunii, și bucurați-vă de împrejurimile pașnice pentru o clipă de liniște.",
+            "en": "Explore the remains of this ancient convent, which offers a deep insight into the spiritual heritage of the region, and enjoy the peaceful surroundings for a moment of silence."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Scalo",
+            "hu": "Plage de Scalo",
+            "ro": "Plage de Scalo",
+            "en": "Plage de Scalo"
+          },
+          "coords": [
+            9.347528,
+            42.912316
+          ],
+          "category": "recreational",
+          "arrive_at": "13:01",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem idyllischen Strand, der für sein kristallklares Wasser bekannt ist, und bringen Sie bequeme Badeschuhe für den kiesigen Untergrund mit.",
+            "hu": "Pihenjen ezen az idilli strandon, amely kristálytiszta vizéről híres, és hozzon magával kényelmes fürdőcipőt a kavicsos part miatt.",
+            "ro": "Relaxați-vă pe această plajă idilică, renumită pentru apele sale cristaline, și aduceți încălțăminte de apă confortabilă pentru malul pietros.",
+            "en": "Relax on this idyllic beach, renowned for its crystal-clear waters, and bring comfortable water shoes for the slightly pebbly shore."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen den Tag im Zentrum von Pino und erkunden das majestätische Château Piccioni. Danach tauchen wir in die spirituelle Welt der nahegelegenen Kapelle Santa Croce ein, deren Fresken eine besondere Geschichte erzählen. Am Nachmittag führt uns der Weg zur Chapelle San Guglielmo und weiter zum alten Kloster San Francesco, bevor wir den Tag entspannt am idyllischen Plage de Scalo ausklingen lassen.",
+        "hu": "A napot Pino központjában kezdjük, ahol felfedezzük a fenséges Château Piccioni-t. Ezt követően elmélyülünk a közeli Santa Croce kápolna spirituális világában, amelynek freskói különleges történetet mesélnek el. Délután utunk a Chapelle San Guglielmo-hoz és a régi San Francesco kolostorhoz vezet, mielőtt a napot nyugodtan lezárnánk az idilli Plage de Scalo-n.",
+        "ro": "Începem ziua în centrul orașului Pino explorând maiestuosul Castel Piccioni. Apoi pătrundem în lumea spirituală a capelei Santa Croce din apropiere, ale cărei fresce spun o poveste specială. După-amiaza, drumul ne duce la Chapelle San Guglielmo și la vechea mănăstire San Francesco, înainte de a încheia ziua relaxant pe plaja idilică de la Scalo.",
+        "en": "We start the day in the center of Pino exploring the majestic Château Piccioni. Afterwards, we dive into the spiritual world of the nearby Santa Croce chapel, whose frescoes tell a very special story. In the afternoon, our path leads us to the Chapelle San Guglielmo and the old San Francesco convent, before calmly ending the day at the idyllic Plage de Scalo."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:51",
+      "total_km": 6.55,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Château Piccioni",
+            "hu": "Château Piccioni",
+            "ro": "Château Piccioni",
+            "en": "Château Piccioni"
+          },
+          "coords": [
+            9.35089,
+            42.906748
+          ],
+          "category": "historical",
+          "arrive_at": "09:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Architektur des Château Piccioni und tauchen Sie ein in die reiche Geschichte Korsikas, während Sie die Aussicht genießen.",
+            "hu": "Fedezze fel a Château Piccioni lenyűgöző építészetét, és merüljön el Korzika gazdag történelmében, miközben élvezi a környező táj páratlan kilátását.",
+            "ro": "Descoperiți arhitectura fascinantă a Castelului Piccioni și scufundați-vă în istoria bogată a Corsicii în timp ce admirați priveliștea spectaculoasă a împrejurimilor.",
+            "en": "Discover the fascinating architecture of Château Piccioni and immerse yourself in Corsica's rich history while taking in the spectacular surrounding views."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle de confrérie Santa Croce",
+            "hu": "Chapelle de confrérie Santa Croce",
+            "ro": "Chapelle de confrérie Santa Croce",
+            "en": "Chapelle de confrérie Santa Croce"
+          },
+          "coords": [
+            9.351207,
+            42.909983
+          ],
+          "category": "religious",
+          "arrive_at": "10:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Bewundern Sie die spirituelle Atmosphäre der Kapelle, die für ihre historischen Details bekannt ist, und achten Sie besonders auf die kunstvollen Fresken im Inneren.",
+            "hu": "Csodálja meg a kápolna különleges, spirituális atmoszféráját, amely történelmi részleteiről ismert, és fordítson különös figyelmet a belső tér freskóira.",
+            "ro": "Admirați atmosfera spirituală a capelei, cunoscută pentru detaliile sale istorice, și acordați o atenție deosebită frescelor minunate din interior.",
+            "en": "Admire the spiritual atmosphere of the chapel, known for its historic details, and pay special attention to the wonderful frescoes that adorn the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour de Sénèque",
+            "hu": "Tour de Sénèque",
+            "ro": "Tour de Sénèque",
+            "en": "Tour de Sénèque"
+          },
+          "coords": [
+            9.372562,
+            42.905132
+          ],
+          "category": "viewpoint",
+          "arrive_at": "11:23",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.83,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diesen historischen Turm, um ein spektakuläres Panorama über das Kap Korsika zu erleben, und tragen Sie windfeste Kleidung, da es oben recht böig sein kann.",
+            "hu": "Mássza meg ezt a történelmi tornyot, hogy megtapasztalja a Korzika-fokra nyíló látványos panorámát, és viseljen szélálló ruházatot, mivel a tetőn erős széllökések lehetnek.",
+            "ro": "Urcați în acest turn istoric pentru a experimenta o panoramă spectaculoasă asupra Capului Corsica și purtați haine rezistente la vânt, deoarece sus poate fi destul de vânt.",
+            "en": "Climb this historic tower to experience a spectacular panorama over Cap Corse, and wear windproof clothing as it can be quite gusty at the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Cappella di Santa Lucia",
+            "hu": "Cappella di Santa Lucia",
+            "ro": "Cappella di Santa Lucia",
+            "en": "Cappella di Santa Lucia"
+          },
+          "coords": [
+            9.374159,
+            42.908775
+          ],
+          "category": "religious",
+          "arrive_at": "11:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.42,
+          "tip_5lang": {
+            "de": "Betrachten Sie die schlichte Eleganz dieser kleinen Kapelle und genießen Sie den atemberaubenden Ausblick auf das Meer, ideal für einen kurzen meditativen Zwischenstopp.",
+            "hu": "Tekintse meg ennek a kis kápolnának az egyszerű eleganciáját, és élvezze a tengerre nyíló lélegzetelállító kilátást, amely ideális egy rövid, meditatív megállóhoz.",
+            "ro": "Contemplați eleganța simplă a acestei mici capele și bucurați-vă de vederea uluitoare la mare, ideală pentru o scurtă oprire meditativă.",
+            "en": "Contemplate the simple elegance of this small chapel and enjoy the breathtaking views of the sea, making it ideal for a short, meditative stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Alisu",
+            "hu": "Alisu",
+            "ro": "Alisu",
+            "en": "Alisu"
+          },
+          "coords": [
+            9.361841,
+            42.924504
+          ],
+          "category": "recreational",
+          "arrive_at": "12:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die natürliche Schönheit dieses malerischen Küstenabschnitts und packen Sie ein leichtes Picknick ein, um die maritime Atmosphäre in vollen Zügen auszukosten.",
+            "hu": "Fedezze fel e festői partszakasz természeti szépségét, és csomagoljon egy könnyű pikniket, hogy a tengerparti atmoszférát a maga teljességében kiélvezhesse.",
+            "ro": "Descoperiți frumusețea naturală a acestei zone de coastă pitorești și pregătiți un picnic ușor pentru a vă bucura din plin de atmosfera maritimă relaxantă.",
+            "en": "Discover the natural beauty of this picturesque coastal stretch and pack a light picnic to fully savor the deeply relaxing and breezy maritime atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Scalo",
+            "hu": "Plage de Scalo",
+            "ro": "Plage de Scalo",
+            "en": "Plage de Scalo"
+          },
+          "coords": [
+            9.347528,
+            42.912316
+          ],
+          "category": "recreational",
+          "arrive_at": "14:06",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.78,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem idyllischen Strand, der für sein kristallklares Wasser bekannt ist, und bringen Sie bequeme Badeschuhe für den kiesigen Untergrund mit.",
+            "hu": "Pihenjen ezen az idilli strandon, amely kristálytiszta vizéről híres, és hozzon magával kényelmes fürdőcipőt a kavicsos part miatt.",
+            "ro": "Relaxați-vă pe această plajă idilică, renumită pentru apele sale cristaline, și aduceți încălțăminte de apă confortabilă pentru malul pietros.",
+            "en": "Relax on this idyllic beach, renowned for its crystal-clear waters, and bring comfortable water shoes for the slightly pebbly shore."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erleben wir Pino aus einer neuen Perspektive. Nach dem Start am Château Piccioni und der Chapelle Santa Croce radeln wir etwas weiter hinauf zur beeindruckenden Tour de Sénèque. Am Nachmittag besuchen wir die abgelegene Cappella di Santa Lucia und das malerische Alisu, bevor eine letzte entspannte Etappe uns zum Sonnenuntergang an den Plage de Scalo führt.",
+        "hu": "Kerékpárral új perspektívából ismerjük meg Pino-t. A Château Piccioni és a Santa Croce kápolna után feltekerünk a lenyűgöző Tour de Sénèque-hez. Délután meglátogatjuk a félreeső Cappella di Santa Lucia-t és a festői Alisu-t, mielőtt egy utolsó, pihentető szakasz elvezetne minket a naplementéhez a Plage de Scalo-n.",
+        "ro": "Cu bicicleta experimentăm Pino dintr-o nouă perspectivă. După startul la Castelul Piccioni și capela Santa Croce, pedalăm mai sus spre impresionantul Turn Sénèque. După-amiaza vizităm capela retrasă Santa Lucia și pitorescul Alisu, înainte ca o ultimă etapă relaxantă să ne ducă la plaja Scalo pentru un apus minunat.",
+        "en": "On our bikes, we experience Pino from a fresh perspective. Starting at Château Piccioni and the Santa Croce chapel, we pedal up to the impressive Tour de Sénèque. In the afternoon, we visit the secluded Cappella di Santa Lucia and picturesque Alisu, before a final relaxing leg takes us to Plage de Scalo for the sunset."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:13",
+      "total_km": 10.79,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Monte Minerbio",
+            "hu": "Monte Minerbio",
+            "ro": "Monte Minerbio",
+            "en": "Monte Minerbio"
+          },
+          "coords": [
+            9.328364,
+            42.894684
+          ],
+          "category": "natural",
+          "arrive_at": "09:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.43,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesem markanten Aussichtspunkt und lassen Sie sich von der unberührten korsischen Natur verzaubern, denken Sie jedoch an ausreichend Trinkwasser.",
+            "hu": "Túrázzon el ehhez a lenyűgöző kilátóponthoz, és hagyja, hogy az érintetlen korzikai természet elvarázsolja, de ne felejtsen el elegendő ivóvizet vinni magával.",
+            "ro": "Faceți o drumeție către acest punct de belvedere impresionant și lăsați-vă fermecați de natura corsicană neatinsă, amintindu-vă să luați suficientă apă de băut.",
+            "en": "Hike to this striking viewpoint and let yourself be enchanted by untouched Corsican nature, just remember to carry enough drinking water for the journey up."
+          }
+        },
+        {
+          "name": {
+            "de": "Monte Cupieta",
+            "hu": "Monte Cupieta",
+            "ro": "Monte Cupieta",
+            "en": "Monte Cupieta"
+          },
+          "coords": [
+            9.351288,
+            42.89258
+          ],
+          "category": "natural",
+          "arrive_at": "09:44",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Genießen Sie die wildromatische Landschaft am Monte Cupieta, die einen großartigen Kontrast zum tiefblauen Meer bildet, ideal für Naturliebhaber und Fotografen.",
+            "hu": "Élvezze a Monte Cupieta vadregényes táját, amely nagyszerű kontrasztot alkot a mélykék tengerrel, tökéletes választás a természet szerelmeseinek és fotósoknak.",
+            "ro": "Bucurați-vă de peisajul sălbatic de la Monte Cupieta, care oferă un contrast minunat cu marea de un albastru profund, ideal pentru iubitorii de natură și fotografi.",
+            "en": "Enjoy the wild and romantic landscape at Monte Cupieta, which provides a great contrast to the deep blue sea, ideal for nature lovers and passionate photographers."
+          }
+        },
+        {
+          "name": {
+            "de": "Château Piccioni",
+            "hu": "Château Piccioni",
+            "ro": "Château Piccioni",
+            "en": "Château Piccioni"
+          },
+          "coords": [
+            9.35089,
+            42.906748
+          ],
+          "category": "historical",
+          "arrive_at": "10:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.57,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Architektur des Château Piccioni und tauchen Sie ein in die reiche Geschichte Korsikas, während Sie die Aussicht genießen.",
+            "hu": "Fedezze fel a Château Piccioni lenyűgöző építészetét, és merüljön el Korzika gazdag történelmében, miközben élvezi a környező táj páratlan kilátását.",
+            "ro": "Descoperiți arhitectura fascinantă a Castelului Piccioni și scufundați-vă în istoria bogată a Corsicii în timp ce admirați priveliștea spectaculoasă a împrejurimilor.",
+            "en": "Discover the fascinating architecture of Château Piccioni and immerse yourself in Corsica's rich history while taking in the spectacular surrounding views."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle de confrérie Santa Croce",
+            "hu": "Chapelle de confrérie Santa Croce",
+            "ro": "Chapelle de confrérie Santa Croce",
+            "en": "Chapelle de confrérie Santa Croce"
+          },
+          "coords": [
+            9.351207,
+            42.909983
+          ],
+          "category": "religious",
+          "arrive_at": "11:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Bewundern Sie die spirituelle Atmosphäre der Kapelle, die für ihre historischen Details bekannt ist, und achten Sie besonders auf die kunstvollen Fresken im Inneren.",
+            "hu": "Csodálja meg a kápolna különleges, spirituális atmoszféráját, amely történelmi részleteiről ismert, és fordítson különös figyelmet a belső tér freskóira.",
+            "ro": "Admirați atmosfera spirituală a capelei, cunoscută pentru detaliile sale istorice, și acordați o atenție deosebită frescelor minunate din interior.",
+            "en": "Admire the spiritual atmosphere of the chapel, known for its historic details, and pay special attention to the wonderful frescoes that adorn the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour de Sénèque",
+            "hu": "Tour de Sénèque",
+            "ro": "Tour de Sénèque",
+            "en": "Tour de Sénèque"
+          },
+          "coords": [
+            9.372562,
+            42.905132
+          ],
+          "category": "viewpoint",
+          "arrive_at": "12:17",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.83,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diesen historischen Turm, um ein spektakuläres Panorama über das Kap Korsika zu erleben, und tragen Sie windfeste Kleidung, da es oben recht böig sein kann.",
+            "hu": "Mássza meg ezt a történelmi tornyot, hogy megtapasztalja a Korzika-fokra nyíló látványos panorámát, és viseljen szélálló ruházatot, mivel a tetőn erős széllökések lehetnek.",
+            "ro": "Urcați în acest turn istoric pentru a experimenta o panoramă spectaculoasă asupra Capului Corsica și purtați haine rezistente la vânt, deoarece sus poate fi destul de vânt.",
+            "en": "Climb this historic tower to experience a spectacular panorama over Cap Corse, and wear windproof clothing as it can be quite gusty at the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Gîtes Sénèque",
+            "hu": "Les Gîtes Sénèque",
+            "ro": "Les Gîtes Sénèque",
+            "en": "Les Gîtes Sénèque"
+          },
+          "coords": [
+            9.375717,
+            42.904762
+          ],
+          "category": "religious",
+          "arrive_at": "12:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erkunden Sie die friedliche Umgebung dieser malerischen Anlage und nutzen Sie die Gelegenheit, um inmitten der üppigen Natur eine erholsame Pause einzulegen.",
+            "hu": "Fedezze fel a festői komplexum békés környezetét, és használja ki a lehetőséget egy pihentető szünetre a buja természet lágy ölén.",
+            "ro": "Explorați împrejurimile liniștite ale acestui complex pitoresc și profitați de ocazie pentru a face o pauză relaxantă în mijlocul naturii luxuriante.",
+            "en": "Explore the peaceful surroundings of this picturesque complex and take the opportunity to enjoy a relaxing break amidst the lush natural setting."
+          }
+        },
+        {
+          "name": {
+            "de": "Alisu",
+            "hu": "Alisu",
+            "ro": "Alisu",
+            "en": "Alisu"
+          },
+          "coords": [
+            9.361841,
+            42.924504
+          ],
+          "category": "recreational",
+          "arrive_at": "13:28",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.45,
+          "tip_5lang": {
+            "de": "Entdecken Sie die natürliche Schönheit dieses malerischen Küstenabschnitts und packen Sie ein leichtes Picknick ein, um die maritime Atmosphäre in vollen Zügen auszukosten.",
+            "hu": "Fedezze fel e festői partszakasz természeti szépségét, és csomagoljon egy könnyű pikniket, hogy a tengerparti atmoszférát a maga teljességében kiélvezhesse.",
+            "ro": "Descoperiți frumusețea naturală a acestei zone de coastă pitorești și pregătiți un picnic ușor pentru a vă bucura din plin de atmosfera maritimă relaxantă.",
+            "en": "Discover the natural beauty of this picturesque coastal stretch and pack a light picnic to fully savor the deeply relaxing and breezy maritime atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unsere Autotour bietet die Möglichkeit, die gesamte Vielfalt des Cap Corse rund um Pino an einem Tag zu sehen. Wir starten mit atemberaubenden Ausblicken vom Monte Minerbio und Monte Cupieta, besuchen dann das historische Herz von Pino. Der Nachmittag gehört der höhergelegenen Tour de Sénèque und einer malerischen Küstenfahrt hinunter nach Alisu für einen unvergesslichen Abschluss.",
+        "hu": "Autós túránk lehetőséget kínál arra, hogy egyetlen nap alatt megcsodálhassuk a Korzika-fok sokszínűségét Pino körül. A Monte Minerbio és a Monte Cupieta lélegzetelállító kilátásával kezdünk, majd Pino történelmi szívébe utazunk. A délután a magasabban fekvő Tour de Sénèque-é és egy festői tengerparti autózásé Alisu-ba egy felejthetetlen befejezésért.",
+        "ro": "Turul nostru cu mașina ne oferă ocazia să vedem întreaga diversitate a Capului Corsica din jurul Pino într-o singură zi. Începem cu priveliști uluitoare de la Monte Minerbio și Monte Cupieta, apoi vizităm inima istorică a Pino. După-amiaza aparține turnului înalt Sénèque și unei plimbări pitorești pe coastă până la Alisu pentru un final memorabil.",
+        "en": "Our car tour provides the opportunity to see the full diversity of Cap Corse around Pino in just one day. We start with breathtaking views from Monte Minerbio and Monte Cupieta, then visit the historic heart of Pino. The afternoon is dedicated to the elevated Tour de Sénèque and a scenic coastal drive down to Alisu for a memorable finish."
+      }
+    }
+  }
+}

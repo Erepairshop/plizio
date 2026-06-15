@@ -1,0 +1,474 @@
+{
+  "city_id": "tournus",
+  "anchor": {
+    "name": "Tournus",
+    "coords": [
+      4.9122,
+      46.5617
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:28",
+      "total_km": 0.79,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Abbaye Saint-Philibert",
+            "hu": "Abbaye Saint-Philibert",
+            "ro": "Abbaye Saint-Philibert",
+            "en": "Abbaye Saint-Philibert"
+          },
+          "coords": [
+            4.909108,
+            46.565581
+          ],
+          "category": "monastic",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckende romanische Architektur dieser alten Abtei und besuchen Sie sie am frühen Morgen, um den ruhigen Kreuzgang ohne Menschenmassen zu genießen.",
+            "hu": "Fedezze fel az ősi apátság lenyűgöző román stílusú építészetét, és érkezzen kora reggel, hogy elkerülje a tömeget a békés kerengőben tett séta során.",
+            "ro": "Explorați arhitectura romanică impresionantă a acestei abații străvechi și vizitați-o dimineața devreme pentru a vă bucura de claustrul liniștit fără mulțimi de turiști.",
+            "en": "Explore the impressive Romanesque architecture of this ancient abbey and visit early in the morning to enjoy the serene cloister without the large crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Eglise Saint-Valérien",
+            "hu": "Eglise Saint-Valérien",
+            "ro": "Eglise Saint-Valérien",
+            "en": "Eglise Saint-Valérien"
+          },
+          "coords": [
+            4.909777,
+            46.564621
+          ],
+          "category": "religious",
+          "arrive_at": "10:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Bewundern Sie die erhaltene Fassade dieser ehemaligen Kirche, die heute für Veranstaltungen genutzt wird, und achten Sie auf die aufwendigen Steinmetzarbeiten am Eingang.",
+            "hu": "Csodálja meg ennek a ma helyi rendezvényeknek otthont adó egykori templomnak a homlokzatát, és figyelje meg a főbejárat feletti bonyolult, részletes kőfaragványokat.",
+            "ro": "Admirați fațada conservată a acestei foste biserici, care acum găzduiește evenimente locale, și priviți îndeaproape sculpturile complicate în piatră de deasupra intrării.",
+            "en": "Admire the preserved facade of this former church from the outside, which now houses local events, and look closely at the intricate stonework above its main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Rue du Passage",
+            "hu": "Rue du Passage",
+            "ro": "Rue du Passage",
+            "en": "Rue du Passage"
+          },
+          "coords": [
+            4.911288,
+            46.563413
+          ],
+          "category": "historical",
+          "arrive_at": "11:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese historische Straße, um versteckte Innenhöfe zu entdecken, und halten Sie Ihre Kamera für die gut erhaltenen mittelalterlichen Fachwerkfassaden bereit.",
+            "hu": "Sétáljon végig ezen a hangulatos történelmi utcán, fedezzen fel rejtett udvarokat, és tartsa készenlétben kameráját a jó állapotban fennmaradt középkori favázas házakhoz.",
+            "ro": "Plimbați-vă pe această stradă istorică fermecătoare pentru a descoperi curți ascunse și pregătiți camera pentru fațadele medievale cu colțar de lemn bine conservate.",
+            "en": "Stroll down this charming historical street to discover hidden courtyards, and keep your camera ready for the well-preserved medieval timber-framed house facades."
+          }
+        },
+        {
+          "name": {
+            "de": "Quais de la Saône",
+            "hu": "Quais de la Saône",
+            "ro": "Quais de la Saône",
+            "en": "Quais de la Saône"
+          },
+          "coords": [
+            4.912079,
+            46.56257
+          ],
+          "category": "recreational",
+          "arrive_at": "12:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Machen Sie einen Spaziergang an den malerischen Flussufern, um den Blick auf das Wasser zu genießen, und bringen Sie ein Picknick mit, das Sie auf einer der Bänke essen können.",
+            "hu": "Tegyen egy pihentető sétát a festői folyóparton, élvezze a vízre nyíló kilátást, és hozzon magával egy kis pikniket, amelyet a számos köztéri pad egyikén fogyaszthat el.",
+            "ro": "Faceți o plimbare relaxantă de-a lungul malurilor pitorești pentru a admira priveliștile apei și aduceți un mic picnic pentru a vă bucura pe una dintre băncile publice.",
+            "en": "Take a relaxing walk along the scenic riverbanks to enjoy picturesque views of the water, and bring a small picnic to enjoy on one of the many available public benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel-Dieu - Musée Greuze",
+            "hu": "Hôtel-Dieu - Musée Greuze",
+            "ro": "Hôtel-Dieu - Musée Greuze",
+            "en": "Hôtel-Dieu - Musée Greuze"
+          },
+          "coords": [
+            4.910925,
+            46.561954
+          ],
+          "category": "museum",
+          "arrive_at": "13:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses zum Museum umgewandelte historische Krankenhaus, um die prächtige Apotheke aus dem 17. Jahrhundert zu sehen, und beginnen Sie im Erdgeschoss.",
+            "hu": "Lépjen be ebbe a múzeummá alakított történelmi kórházba, nézze meg a 17. századi patikát, és kezdje a látogatást a földszinten, hogy megcsodálja az autentikus orvosi eszközöket.",
+            "ro": "Pășiți în acest spital istoric transformat în muzeu pentru a vedea superba farmacie din secolul al XVII-lea și începeți vizita la parter pentru a vedea instrumentele medicale.",
+            "en": "Step into this historic hospital turned museum to see its magnificent 17th-century apothecary, and start your visit on the ground floor to appreciate the authentic medical tools."
+          }
+        },
+        {
+          "name": {
+            "de": "Eglise Sainte-Madeleine",
+            "hu": "Eglise Sainte-Madeleine",
+            "ro": "Eglise Sainte-Madeleine",
+            "en": "Eglise Sainte-Madeleine"
+          },
+          "coords": [
+            4.914094,
+            46.560766
+          ],
+          "category": "religious",
+          "arrive_at": "15:18",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese historische Kirche, um ihre friedliche Atmosphäre zu schätzen, und nehmen Sie sich einen Moment Zeit, um die Details ihrer bemerkenswerten Buntglasfenster zu bewundern.",
+            "hu": "Látogasson el ebbe a gyönyörű történelmi templomba, élvezze a békés belső atmoszférát, és szánjon egy percet arra, hogy megcsodálja a figyelemre méltó ólomüveg ablakok részleteit.",
+            "ro": "Vizitați această frumoasă biserică istorică pentru a-i aprecia atmosfera interioară liniștită și luați-vă un moment pentru a admira detaliile remarcabilelor sale vitralii.",
+            "en": "Visit this beautiful historic church to appreciate its peaceful interior atmosphere, and take a moment to admire the details of its remarkable stained glass windows."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit der Erkundung der Abtei und spüren Sie die Jahrhunderte. Mittags schlendern Sie durch charmante Straßen zum ruhigen Flussufer. Der Nachmittag wird durch das Hôtel-Dieu bereichert. Beenden Sie den Tag an der Kirche Sainte-Madeleine.",
+        "hu": "Kezdje a napot az ikonikus apátság felfedezésével, átérezve az évszázadok súlyát. Délben hangulatos utcákon át a békés folyóparthoz ér. A délutánt a lenyűgöző Hôtel-Dieu teszi gazdagabbá. Zárja a napot a Sainte-Madeleine templom csodálatos részleteivel.",
+        "ro": "Începeți ziua explorând emblematica Abație, simțind greutatea secolelor. La prânz, plimbați-vă pe străzile fermecătoare spre malul liniștit al râului. După-amiaza este îmbogățită de fascinantul Hôtel-Dieu. Încheiați ziua admirând detaliile bisericii Sainte-Madeleine.",
+        "en": "Start your day exploring the iconic Abbey, feeling the weight of centuries. Midday brings you through charming streets to the serene riverside. Your afternoon is enriched by the fascinating Hôtel-Dieu and local museums. Conclude the day marveling at Sainte-Madeleine's details."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:24",
+      "total_km": 1.92,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Grand Bassin",
+            "hu": "Grand Bassin",
+            "ro": "Grand Bassin",
+            "en": "Grand Bassin"
+          },
+          "coords": [
+            4.909374,
+            46.573201
+          ],
+          "category": "family",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie das Grün rund um dieses friedliche Wasserbecken, das sich perfekt für eine Familienpause eignet, und achten Sie auf die einheimischen Vögel, die am Rand nisten.",
+            "hu": "Élvezze a békés vízi medence körüli frissítő növényzetet, amely tökéletes egy csendes családi pihenéshez, és figyelje meg a parton fészkelő helyi madarakat.",
+            "ro": "Bucurați-vă de verdeața din jurul acestui bazin de apă liniștit, perfect pentru o pauză în familie, și observați păsările locale care cuibăresc de-a lungul marginii.",
+            "en": "Enjoy the refreshing greenery around this peaceful water basin, which is perfect for a quiet family break, and watch out for the local birds nesting along the edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Abbaye Saint-Philibert",
+            "hu": "Abbaye Saint-Philibert",
+            "ro": "Abbaye Saint-Philibert",
+            "en": "Abbaye Saint-Philibert"
+          },
+          "coords": [
+            4.909108,
+            46.565581
+          ],
+          "category": "monastic",
+          "arrive_at": "10:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckende romanische Architektur dieser alten Abtei und besuchen Sie sie am frühen Morgen, um den ruhigen Kreuzgang ohne Menschenmassen zu genießen.",
+            "hu": "Fedezze fel az ősi apátság lenyűgöző román stílusú építészetét, és érkezzen kora reggel, hogy elkerülje a tömeget a békés kerengőben tett séta során.",
+            "ro": "Explorați arhitectura romanică impresionantă a acestei abații străvechi și vizitați-o dimineața devreme pentru a vă bucura de claustrul liniștit fără mulțimi de turiști.",
+            "en": "Explore the impressive Romanesque architecture of this ancient abbey and visit early in the morning to enjoy the serene cloister without the large crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Quais de la Saône",
+            "hu": "Quais de la Saône",
+            "ro": "Quais de la Saône",
+            "en": "Quais de la Saône"
+          },
+          "coords": [
+            4.912079,
+            46.56257
+          ],
+          "category": "recreational",
+          "arrive_at": "11:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Machen Sie einen Spaziergang an den malerischen Flussufern, um den Blick auf das Wasser zu genießen, und bringen Sie ein Picknick mit, das Sie auf einer der Bänke essen können.",
+            "hu": "Tegyen egy pihentető sétát a festői folyóparton, élvezze a vízre nyíló kilátást, és hozzon magával egy kis pikniket, amelyet a számos köztéri pad egyikén fogyaszthat el.",
+            "ro": "Faceți o plimbare relaxantă de-a lungul malurilor pitorești pentru a admira priveliștile apei și aduceți un mic picnic pentru a vă bucura pe una dintre băncile publice.",
+            "en": "Take a relaxing walk along the scenic riverbanks to enjoy picturesque views of the water, and bring a small picnic to enjoy on one of the many available public benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel-Dieu - Musée Greuze",
+            "hu": "Hôtel-Dieu - Musée Greuze",
+            "ro": "Hôtel-Dieu - Musée Greuze",
+            "en": "Hôtel-Dieu - Musée Greuze"
+          },
+          "coords": [
+            4.910925,
+            46.561954
+          ],
+          "category": "museum",
+          "arrive_at": "12:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses zum Museum umgewandelte historische Krankenhaus, um die prächtige Apotheke aus dem 17. Jahrhundert zu sehen, und beginnen Sie im Erdgeschoss.",
+            "hu": "Lépjen be ebbe a múzeummá alakított történelmi kórházba, nézze meg a 17. századi patikát, és kezdje a látogatást a földszinten, hogy megcsodálja az autentikus orvosi eszközöket.",
+            "ro": "Pășiți în acest spital istoric transformat în muzeu pentru a vedea superba farmacie din secolul al XVII-lea și începeți vizita la parter pentru a vedea instrumentele medicale.",
+            "en": "Step into this historic hospital turned museum to see its magnificent 17th-century apothecary, and start your visit on the ground floor to appreciate the authentic medical tools."
+          }
+        },
+        {
+          "name": {
+            "de": "Eglise Sainte-Madeleine",
+            "hu": "Eglise Sainte-Madeleine",
+            "ro": "Eglise Sainte-Madeleine",
+            "en": "Eglise Sainte-Madeleine"
+          },
+          "coords": [
+            4.914094,
+            46.560766
+          ],
+          "category": "religious",
+          "arrive_at": "14:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese historische Kirche, um ihre friedliche Atmosphäre zu schätzen, und nehmen Sie sich einen Moment Zeit, um die Details ihrer bemerkenswerten Buntglasfenster zu bewundern.",
+            "hu": "Látogasson el ebbe a gyönyörű történelmi templomba, élvezze a békés belső atmoszférát, és szánjon egy percet arra, hogy megcsodálja a figyelemre méltó ólomüveg ablakok részleteit.",
+            "ro": "Vizitați această frumoasă biserică istorică pentru a-i aprecia atmosfera interioară liniștită și luați-vă un moment pentru a admira detaliile remarcabilelor sale vitralii.",
+            "en": "Visit this beautiful historic church to appreciate its peaceful interior atmosphere, and take a moment to admire the details of its remarkable stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée du Vélo (Michel Grezaud)",
+            "hu": "Musée du Vélo (Michel Grezaud)",
+            "ro": "Musée du Vélo (Michel Grezaud)",
+            "en": "Musée du Vélo (Michel Grezaud)"
+          },
+          "coords": [
+            4.914145,
+            46.558176
+          ],
+          "category": "museum",
+          "arrive_at": "15:14",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.29,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine unglaubliche Sammlung von Vintage-Fahrrädern, die die Entwicklung des Radsports zeigen, und fragen Sie das Personal nach Geschichten über die seltensten Modelle.",
+            "hu": "Fedezze fel a kerékpározás fejlődését bemutató hihetetlen vintage kerékpárgyűjteményt, és kérdezze meg a szenvedélyes személyzetet a kiállított legritkább modellek történeteiről.",
+            "ro": "Descoperiți o colecție incredibilă de biciclete de epocă ce ilustrează evoluția ciclismului și întrebați personalul pasionat despre poveștile celor mai rare modele expuse.",
+            "en": "Discover an incredible collection of vintage bicycles showcasing the evolution of cycling, and ask the passionate staff for stories about the rarest models on display."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens zum ruhigen Grand Bassin, bevor Sie die große Abtei besuchen. Eine mittägliche Fahrt entlang der malerischen Saône verbindet die historischen Stationen. Verbringen Sie den Nachmittag im Hôtel-Dieu. Beenden Sie Ihre Reise bei den historischen Fahrrädern.",
+        "hu": "Tekerjen el a nyugodt Grand Bassinhez a frissítő reggeli kezdéshez, majd irány a hatalmas apátság. A festői Saône mentén tett déli túra összeköti a történelmi megállókat. Délután fedezze fel a Hôtel-Dieu titkait. Zárja utazását a vintage kerékpárok megcsodálásával.",
+        "ro": "Pedalați dimineața spre Grand Bassin pentru un început revigorant, apoi îndreptați-vă spre măreața Abație. O plimbare la prânz de-a lungul râului Saône conectează perfect opririle. Petreceți după-amiaza la Hôtel-Dieu. Încheiați călătoria printre biciclete de epocă.",
+        "en": "Pedal out to the tranquil Grand Bassin for a refreshing morning start before heading to the grand Abbey. A midday ride along the scenic Saône perfectly bridges your historical stops. Spend the afternoon uncovering the secrets of Hôtel-Dieu. End your journey exploring vintage cycles."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:18",
+      "total_km": 2.28,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Musée du Vélo (Michel Grezaud)",
+            "hu": "Musée du Vélo (Michel Grezaud)",
+            "ro": "Musée du Vélo (Michel Grezaud)",
+            "en": "Musée du Vélo (Michel Grezaud)"
+          },
+          "coords": [
+            4.914145,
+            46.558176
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine unglaubliche Sammlung von Vintage-Fahrrädern, die die Entwicklung des Radsports zeigen, und fragen Sie das Personal nach Geschichten über die seltensten Modelle.",
+            "hu": "Fedezze fel a kerékpározás fejlődését bemutató hihetetlen vintage kerékpárgyűjteményt, és kérdezze meg a szenvedélyes személyzetet a kiállított legritkább modellek történeteiről.",
+            "ro": "Descoperiți o colecție incredibilă de biciclete de epocă ce ilustrează evoluția ciclismului și întrebați personalul pasionat despre poveștile celor mai rare modele expuse.",
+            "en": "Discover an incredible collection of vintage bicycles showcasing the evolution of cycling, and ask the passionate staff for stories about the rarest models on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Aire de jeux du stade du Pas Fleury",
+            "hu": "Aire de jeux du stade du Pas Fleury",
+            "ro": "Aire de jeux du stade du Pas Fleury",
+            "en": "Aire de jeux du stade du Pas Fleury"
+          },
+          "coords": [
+            4.916986,
+            46.556956
+          ],
+          "category": "family",
+          "arrive_at": "10:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihre Kinder auf diesem gut ausgestatteten Spielplatz in der Nähe des Stadions Energie abbauen und nutzen Sie die schattigen Sitzbereiche in der Nähe zum Entspannen.",
+            "hu": "Hagyja, hogy gyermekei levezessék az energiájukat ezen a jól felszerelt, stadion melletti játszótéren, és használja a közeli árnyékos ülőhelyeket a pihenésre.",
+            "ro": "Lăsați copiii să-și consume energia la acest loc de joacă bine echipat de lângă stadion și folosiți zonele de relaxare umbrite din apropiere pentru a vă odihni.",
+            "en": "Let your children burn off some energy at this well-equipped playground near the stadium, and use the shaded seating areas nearby to relax while keeping a close watch."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel-Dieu - Musée Greuze",
+            "hu": "Hôtel-Dieu - Musée Greuze",
+            "ro": "Hôtel-Dieu - Musée Greuze",
+            "en": "Hôtel-Dieu - Musée Greuze"
+          },
+          "coords": [
+            4.910925,
+            46.561954
+          ],
+          "category": "museum",
+          "arrive_at": "12:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.72,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses zum Museum umgewandelte historische Krankenhaus, um die prächtige Apotheke aus dem 17. Jahrhundert zu sehen, und beginnen Sie im Erdgeschoss.",
+            "hu": "Lépjen be ebbe a múzeummá alakított történelmi kórházba, nézze meg a 17. századi patikát, és kezdje a látogatást a földszinten, hogy megcsodálja az autentikus orvosi eszközöket.",
+            "ro": "Pășiți în acest spital istoric transformat în muzeu pentru a vedea superba farmacie din secolul al XVII-lea și începeți vizita la parter pentru a vedea instrumentele medicale.",
+            "en": "Step into this historic hospital turned museum to see its magnificent 17th-century apothecary, and start your visit on the ground floor to appreciate the authentic medical tools."
+          }
+        },
+        {
+          "name": {
+            "de": "Rue du Passage",
+            "hu": "Rue du Passage",
+            "ro": "Rue du Passage",
+            "en": "Rue du Passage"
+          },
+          "coords": [
+            4.911288,
+            46.563413
+          ],
+          "category": "historical",
+          "arrive_at": "13:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese historische Straße, um versteckte Innenhöfe zu entdecken, und halten Sie Ihre Kamera für die gut erhaltenen mittelalterlichen Fachwerkfassaden bereit.",
+            "hu": "Sétáljon végig ezen a hangulatos történelmi utcán, fedezzen fel rejtett udvarokat, és tartsa készenlétben kameráját a jó állapotban fennmaradt középkori favázas házakhoz.",
+            "ro": "Plimbați-vă pe această stradă istorică fermecătoare pentru a descoperi curți ascunse și pregătiți camera pentru fațadele medievale cu colțar de lemn bine conservate.",
+            "en": "Stroll down this charming historical street to discover hidden courtyards, and keep your camera ready for the well-preserved medieval timber-framed house facades."
+          }
+        },
+        {
+          "name": {
+            "de": "Abbaye Saint-Philibert",
+            "hu": "Abbaye Saint-Philibert",
+            "ro": "Abbaye Saint-Philibert",
+            "en": "Abbaye Saint-Philibert"
+          },
+          "coords": [
+            4.909108,
+            46.565581
+          ],
+          "category": "monastic",
+          "arrive_at": "15:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckende romanische Architektur dieser alten Abtei und besuchen Sie sie am frühen Morgen, um den ruhigen Kreuzgang ohne Menschenmassen zu genießen.",
+            "hu": "Fedezze fel az ősi apátság lenyűgöző román stílusú építészetét, és érkezzen kora reggel, hogy elkerülje a tömeget a békés kerengőben tett séta során.",
+            "ro": "Explorați arhitectura romanică impresionantă a acestei abații străvechi și vizitați-o dimineața devreme pentru a vă bucura de claustrul liniștit fără mulțimi de turiști.",
+            "en": "Explore the impressive Romanesque architecture of this ancient abbey and visit early in the morning to enjoy the serene cloister without the large crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand Bassin",
+            "hu": "Grand Bassin",
+            "ro": "Grand Bassin",
+            "en": "Grand Bassin"
+          },
+          "coords": [
+            4.909374,
+            46.573201
+          ],
+          "category": "family",
+          "arrive_at": "16:33",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Genießen Sie das Grün rund um dieses friedliche Wasserbecken, das sich perfekt für eine Familienpause eignet, und achten Sie auf die einheimischen Vögel, die am Rand nisten.",
+            "hu": "Élvezze a békés vízi medence körüli frissítő növényzetet, amely tökéletes egy csendes családi pihenéshez, és figyelje meg a parton fészkelő helyi madarakat.",
+            "ro": "Bucurați-vă de verdeața din jurul acestui bazin de apă liniștit, perfect pentru o pauză în familie, și observați păsările locale care cuibăresc de-a lungul marginii.",
+            "en": "Enjoy the refreshing greenery around this peaceful water basin, which is perfect for a quiet family break, and watch out for the local birds nesting along the edge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie ins Radsportmuseum, gefolgt von einem familienfreundlichen Morgen am Spielplatz. Parken Sie mittags beim Hôtel-Dieu, um in die medizinische Vergangenheit einzutauchen. Verbringen Sie den Nachmittag in den alten Straßen zur Abtei. Lassen Sie den Tag am Grand Bassin ausklingen.",
+        "hu": "Vessen egy pillantást a kerékpározás történetére, majd töltsön egy családbarát délelőttöt a játszótéren. Délben parkoljon a Hôtel-Dieu közelében, hogy megismerje az orvosi múltat. Délután sétáljon az apátsághoz vezető régi utcákon. Zárja a napot a békés Grand Bassinnél.",
+        "ro": "Conduceți spre istoria ciclismului la muzeu, urmat de o dimineață în familie la locul de joacă. La prânz, parcați lângă Hôtel-Dieu pentru a explora trecutul medical. Petreceți după-amiaza pe străzile vechi spre Abație. Încheiați ziua relaxant la Grand Bassin.",
+        "en": "Drive straight into cycling history at the museum, followed by a family-friendly morning at the playground. For midday, park near Hôtel-Dieu to dive into the town's medical past. Spend your afternoon wandering the old streets up to the Abbey. Wrap up your day at the peaceful Grand Bassin."
+      }
+    }
+  }
+}

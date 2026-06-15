@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-palmeira-cities-v2",
+  "anchor": {
+    "name": "Palmeira",
+    "coords": [
+      -8.96051,
+      42.57831
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:54",
+      "total_km": 1.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Igrexa de San Pedro de Palmeira",
+            "hu": "Igrexa de San Pedro de Palmeira",
+            "ro": "Igrexa de San Pedro de Palmeira",
+            "en": "Igrexa de San Pedro de Palmeira"
+          },
+          "coords": [
+            -8.959565,
+            42.578604
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die galicische Architektur dieser Kirche, ein historischer Anker, aber kommen Sie früh, um der Mittagssonne zu entgehen.",
+            "hu": "Csodálja meg ennek a központi templomnak a hagyományos galíciai építészetét, de érkezzen korán, hogy elkerülje a déli hőséget.",
+            "ro": "Admirați arhitectura galiciană tradițională a acestei biserici centrale, dar vizitați devreme pentru a evita soarele amiezii.",
+            "en": "Admire the traditional Galician architecture of this central church, a historic anchor of the town, but visit early to avoid the bustling midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradoiro do Castelo",
+            "hu": "Miradoiro do Castelo",
+            "ro": "Miradoiro do Castelo",
+            "en": "Miradoiro do Castelo"
+          },
+          "coords": [
+            -8.95724,
+            42.578819
+          ],
+          "category": "natural",
+          "arrive_at": "09:53",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Ría de Arousa von diesem erhöhten Aussichtspunkt und bringen Sie Ihre Kamera für spektakuläre Fotos mit.",
+            "hu": "Élvezze a Ría de Arousa panorámáját ebből a magasan fekvő kilátóból, és hozzon magával fényképezőgépet a látványos tengerparti fotókhoz.",
+            "ro": "Bucurați-vă de vederile panoramice ale Ría de Arousa din acest punct de belvedere și aduceți camera pentru fotografii spectaculoase.",
+            "en": "Enjoy panoramic views of the Ría de Arousa from this elevated vantage point, and bring your camera for spectacular photos of the rugged coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Cambra",
+            "hu": "Praia da Cambra",
+            "ro": "Praia da Cambra",
+            "en": "Praia da Cambra"
+          },
+          "coords": [
+            -8.959454,
+            42.576837
+          ],
+          "category": "recreational",
+          "arrive_at": "10:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie am weichen Sand dieses malerischen Strandes, aber bringen Sie unbedingt eigenes Wasser und Snacks für einen längeren Aufenthalt mit.",
+            "hu": "Pihenjen ennek a festői strandnak a puha homokján, amely tökéletes napozáshoz, de hosszabb tartózkodáshoz vigyen magával vizet és nasit.",
+            "ro": "Relaxați-vă pe nisipul fin al acestei plaje pitorești, perfectă pentru plajă, dar aduceți-vă propria apă și gustări pentru o ședere mai lungă.",
+            "en": "Relax on the soft sands of this scenic beach, perfect for sunbathing, though packing your own water and snacks is highly recommended for a longer stay."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Supinal",
+            "hu": "Praia de Supinal",
+            "ro": "Praia de Supinal",
+            "en": "Praia de Supinal"
+          },
+          "coords": [
+            -8.961294,
+            42.574699
+          ],
+          "category": "recreational",
+          "arrive_at": "11:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen ruhigen Sandstrand mit flachem Wasser, der sich ideal zum Waten eignet; bringen Sie Wasserschuhe für felsige Abschnitte mit.",
+            "hu": "Fedezze fel ezt a nyugodt homokos strandot, amely sekély vize miatt ideális fürdőzésre; érdemes vízicipőt hozni a sziklás részek miatt.",
+            "ro": "Descoperiți această retragere de nisip liniștită care oferă ape calme pentru scăldat, ideală dacă aduceți încălțăminte de apă pentru pietre.",
+            "en": "Discover this tranquil sandy retreat which offers calm waters for wading, making it ideal to bring water shoes to navigate the occasional rocky patches."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Cruces",
+            "hu": "Praia de Cruces",
+            "ro": "Praia de Cruces",
+            "en": "Praia de Cruces"
+          },
+          "coords": [
+            -8.95819,
+            42.580291
+          ],
+          "category": "recreational",
+          "arrive_at": "13:09",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem Strand, der für seine abendliche Ruhe bekannt ist, und packen Sie eine leichte Jacke für die kühle Atlantikbrise ein.",
+            "hu": "Zárja a napot ezen a festői strandon, amely nyugodt esti hangulatáról ismert, és csomagoljon be egy könnyű kabátot az atlanti szél ellen.",
+            "ro": "Încheiați ziua pe această plajă pitorească cunoscută pentru ambianța sa senină de seară, așa că luați o jachetă ușoară pentru briza Atlanticului.",
+            "en": "End your day on this picturesque beach known for its serene evening ambiance, so pack a light jacket as the Atlantic breeze cools down the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie im Zentrum mit der Kirche und dem Aussichtspunkt. Mittag: Entspannen Sie an der Praia da Cambra am ruhigen Wasser. Nachmittag: Spazieren Sie zur Praia de Supinal für ein Picknick. Abend: Beenden Sie den Tag an der Praia de Cruces beim Sonnenuntergang.",
+        "hu": "Reggel: Kezdje a központban a templom és a kilátó megtekintésével. Dél: Pihenjen a Praia da Cambra homokján és élvezze a lágy hullámokat. Délután: Sétáljon át a Praia de Supinal nyugodt partjára. Este: Zárja a napot a Praia de Cruces festői naplementéjével.",
+        "ro": "Dimineață: Începeți în centru cu biserica și punctul de belvedere. Prânz: Relaxați-vă pe nisipul de la Praia da Cambra, bucurându-vă de valuri. După-amiază: Plimbați-vă spre liniștita Praia de Supinal. Seară: Încheiați ziua la Praia de Cruces cu un apus pitoresc.",
+        "en": "Morning: Start your day in the historic heart of Palmeira by admiring its main church before taking in the coastal views at the castle viewpoint. Midday: Stroll south to Praia da Cambra, a beautiful strip of sand where you can relax by the gentle waves. Afternoon: Continue your leisurely walk to Praia de Supinal, enjoying the peaceful atmosphere. Evening: Wrap up at Praia de Cruces with a sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:14",
+      "total_km": 2.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Igrexa de San Pedro de Palmeira",
+            "hu": "Igrexa de San Pedro de Palmeira",
+            "ro": "Igrexa de San Pedro de Palmeira",
+            "en": "Igrexa de San Pedro de Palmeira"
+          },
+          "coords": [
+            -8.959565,
+            42.578604
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die galicische Architektur dieser Kirche, ein historischer Anker, aber kommen Sie früh, um der Mittagssonne zu entgehen.",
+            "hu": "Csodálja meg ennek a központi templomnak a hagyományos galíciai építészetét, de érkezzen korán, hogy elkerülje a déli hőséget.",
+            "ro": "Admirați arhitectura galiciană tradițională a acestei biserici centrale, dar vizitați devreme pentru a evita soarele amiezii.",
+            "en": "Admire the traditional Galician architecture of this central church, a historic anchor of the town, but visit early to avoid the bustling midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradoiro do Castelo",
+            "hu": "Miradoiro do Castelo",
+            "ro": "Miradoiro do Castelo",
+            "en": "Miradoiro do Castelo"
+          },
+          "coords": [
+            -8.95724,
+            42.578819
+          ],
+          "category": "natural",
+          "arrive_at": "09:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Ría de Arousa von diesem erhöhten Aussichtspunkt und bringen Sie Ihre Kamera für spektakuläre Fotos mit.",
+            "hu": "Élvezze a Ría de Arousa panorámáját ebből a magasan fekvő kilátóból, és hozzon magával fényképezőgépet a látványos tengerparti fotókhoz.",
+            "ro": "Bucurați-vă de vederile panoramice ale Ría de Arousa din acest punct de belvedere și aduceți camera pentru fotografii spectaculoase.",
+            "en": "Enjoy panoramic views of the Ría de Arousa from this elevated vantage point, and bring your camera for spectacular photos of the rugged coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Banda ó Río",
+            "hu": "Praia de Banda ó Río",
+            "ro": "Praia de Banda ó Río",
+            "en": "Praia de Banda ó Río"
+          },
+          "coords": [
+            -8.956681,
+            42.582896
+          ],
+          "category": "recreational",
+          "arrive_at": "10:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen Strand, wo der Fluss ins Meer mündet, und schließen Sie Ihr Fahrrad am Haupteingang sicher an, bevor Sie am Ufer spazieren.",
+            "hu": "Fedezze fel ezt az élénk helyi strandot, ahol a folyó a tengerbe ömlik, és zárja le biztonságosan a kerékpárját a főbejárat közelében.",
+            "ro": "Explorați această plajă plină de viață unde râul întâlnește marea și asigurați-vă bicicleta lângă intrarea principală înainte de plimbare.",
+            "en": "Explore this lively local beach where the river meets the sea, and lock your bike securely near the main entrance before walking along the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Testal",
+            "hu": "Praia de Testal",
+            "ro": "Praia de Testal",
+            "en": "Praia de Testal"
+          },
+          "coords": [
+            -8.953694,
+            42.584297
+          ],
+          "category": "recreational",
+          "arrive_at": "11:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause an diesem Strand, der für die Muschelernte bekannt ist; halten Sie sich von den markierten Erntebereichen fern.",
+            "hu": "Tartsanak pihenőt ezen a széles homokos partszakaszon, amely a kagylógyűjtésről híres, így kerülje el a kijelölt betakarítási területeket.",
+            "ro": "Faceți o pauză pe această întindere de nisip cunoscută pentru tradiția recoltării scoicilor, dar evitați zonele marcate în timpul explorării.",
+            "en": "Take a break at this extensive sandy stretch known for clam digging traditions, so stay clear of the marked harvesting areas while exploring."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Vaqueiro",
+            "hu": "Praia de Vaqueiro",
+            "ro": "Praia de Vaqueiro",
+            "en": "Praia de Vaqueiro"
+          },
+          "coords": [
+            -8.951715,
+            42.584897
+          ],
+          "category": "recreational",
+          "arrive_at": "12:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Umgebung dieser weniger überlaufenen Bucht, ein perfekter Ort für Ruhe, vorausgesetzt Sie bringen ein kleines Handtuch mit.",
+            "hu": "Élvezze ennek a kevésbé zsúfolt öbölnek a békés környezetét, ami kiváló hely a csendes elmélkedéshez, ha hoz magával egy kis törülközőt.",
+            "ro": "Bucurați-vă de mediul liniștit acestui golf mai puțin aglomerat, un loc excelent pentru reflecție dacă aduceți un prosop mic pentru șezut.",
+            "en": "Enjoy the peaceful environment of this less crowded cove, an excellent spot for quiet reflection, provided you bring a small towel to sit on."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Corna",
+            "hu": "Praia da Corna",
+            "ro": "Praia da Corna",
+            "en": "Praia da Corna"
+          },
+          "coords": [
+            -8.945994,
+            42.584602
+          ],
+          "category": "recreational",
+          "arrive_at": "14:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Rasten Sie an diesem weitläufigen Strand, der Natur und Erholung verbindet; bleiben Sie auf den ausgewiesenen Radwegen, um zum Sand zu gelangen.",
+            "hu": "Pihenjen ezen a hatalmas strandon, amely ötvözi a természetet a kikapcsolódással, és feltétlenül a kijelölt kerékpárutakon haladjon a homokig.",
+            "ro": "Odihniți-vă pe această plajă extinsă care îmbină perfect natura și recreerea și asigurați-vă că folosiți pistele de biciclete desemnate.",
+            "en": "Rest along this expansive beach which seamlessly blends nature and recreation, and make sure to stick to the designated bike paths to reach the sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Illa",
+            "hu": "Praia da Illa",
+            "ro": "Praia da Illa",
+            "en": "Praia da Illa"
+          },
+          "coords": [
+            -8.936079,
+            42.584338
+          ],
+          "category": "recreational",
+          "arrive_at": "15:29",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die malerische Aussicht von diesem wunderschönen Küstenpunkt, einem perfekten Ort zum Entspannen, auch wenn die Beleuchtung abends schwach ist.",
+            "hu": "Csodálja meg a szigetre nyíló festői kilátást erről a tengerparti pontról, de vegye figyelembe, hogy a világítás naplemente után nagyon gyenge.",
+            "ro": "Admirați priveliștile pitorești de la acest punct de coastă superb, un loc perfect pentru relaxare, deși iluminatul este slab după lăsarea serii.",
+            "en": "Admire the scenic island views from this gorgeous coastal point, a perfect spot to wind down your ride, though lighting is dim after sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Radeln Sie durch das Zentrum, um die Kirche und den Aussichtspunkt zu besuchen. Mittag: Fahren Sie nach Osten zur Praia de Banda ó Río und Praia de Testal. Nachmittag: Erkunden Sie die Strände Vaqueiro und Corna für mehr Entspannung. Abend: Beenden Sie die Tour an der Praia da Illa bei einem ruhigen Sonnenuntergang.",
+        "hu": "Reggel: Kerekezzen át a központon, hogy meglátogassa a templomot és a kilátót. Dél: Kerékpározzon kelet felé a Praia de Banda ó Río és a Praia de Testal érintésével. Délután: Fedezze fel a Vaqueiro és Corna strandokat. Este: Zárja a kerékpáros kalandot a Praia da Illa nyugodt partján.",
+        "ro": "Dimineață: Pedalați prin centru pentru a vizita biserica și punctul de belvedere. Prânz: Mergeți cu bicicleta spre est, oprindu-vă la plajele Banda ó Río și Testal. După-amiază: Explorați plajele Vaqueiro și Corna pentru relaxare. Seară: Încheiați aventura la Praia da Illa admirând apusul.",
+        "en": "Morning: Pedal through Palmeira’s center to visit the historic church and the scenic viewpoint. Midday: Cycle towards the eastern coastline, stopping at Praia de Banda ó Río and Praia de Testal. Afternoon: Ride further east to explore Praia de Vaqueiro and Praia da Corna. Evening: Conclude your adventure at Praia da Illa with a quiet sunset."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:24",
+      "total_km": 6.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Igrexa de San Pedro de Palmeira",
+            "hu": "Igrexa de San Pedro de Palmeira",
+            "ro": "Igrexa de San Pedro de Palmeira",
+            "en": "Igrexa de San Pedro de Palmeira"
+          },
+          "coords": [
+            -8.959565,
+            42.578604
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die galicische Architektur dieser Kirche, ein historischer Anker, aber kommen Sie früh, um der Mittagssonne zu entgehen.",
+            "hu": "Csodálja meg ennek a központi templomnak a hagyományos galíciai építészetét, de érkezzen korán, hogy elkerülje a déli hőséget.",
+            "ro": "Admirați arhitectura galiciană tradițională a acestei biserici centrale, dar vizitați devreme pentru a evita soarele amiezii.",
+            "en": "Admire the traditional Galician architecture of this central church, a historic anchor of the town, but visit early to avoid the bustling midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradoiro do Castelo",
+            "hu": "Miradoiro do Castelo",
+            "ro": "Miradoiro do Castelo",
+            "en": "Miradoiro do Castelo"
+          },
+          "coords": [
+            -8.95724,
+            42.578819
+          ],
+          "category": "natural",
+          "arrive_at": "09:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Ría de Arousa von diesem erhöhten Aussichtspunkt und bringen Sie Ihre Kamera für spektakuläre Fotos mit.",
+            "hu": "Élvezze a Ría de Arousa panorámáját ebből a magasan fekvő kilátóból, és hozzon magával fényképezőgépet a látványos tengerparti fotókhoz.",
+            "ro": "Bucurați-vă de vederile panoramice ale Ría de Arousa din acest punct de belvedere și aduceți camera pentru fotografii spectaculoase.",
+            "en": "Enjoy panoramic views of the Ría de Arousa from this elevated vantage point, and bring your camera for spectacular photos of the rugged coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Río Azor",
+            "hu": "Praia de Río Azor",
+            "ro": "Praia de Río Azor",
+            "en": "Praia de Río Azor"
+          },
+          "coords": [
+            -8.968499,
+            42.569791
+          ],
+          "category": "recreational",
+          "arrive_at": "10:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem familienfreundlichen, von Kiefern gesäumten Strand mit viel Schatten; parken Sie früh, da die Plätze schnell belegt sind.",
+            "hu": "Töltődjön fel ezen a családbarát, árnyékos fenyőfákkal szegélyezett strandon, és próbáljon meg korán parkolni, mivel a helyek hamar betelnek.",
+            "ro": "Relaxați-vă la această plajă prietenoasă cu familiile, flancată de pini, și încercați să parcați devreme deoarece locurile se ocupă foarte repede.",
+            "en": "Unwind at this family-friendly beach flanked by pine trees offering great shade, and try to park early in the nearby lot as spaces fill up very quickly."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Coroso",
+            "hu": "Praia de Coroso",
+            "ro": "Praia de Coroso",
+            "en": "Praia de Coroso"
+          },
+          "coords": [
+            -8.980894,
+            42.567688
+          ],
+          "category": "recreational",
+          "arrive_at": "11:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der ausgedehnten Promenade dieses beliebten Strandes mit ruhigem Wasser und nutzen Sie die kostenlosen Parkplätze an der Hauptstraße.",
+            "hu": "Sétáljon végig ennek a csendes vizű népszerű strandnak a hosszú sétányán, és használja a főút mellett található ingyenes nyilvános parkolót.",
+            "ro": "Plimbați-vă de-a lungul promenadei extinse a acestei plaje populare și folosiți parcarea publică gratuită situată chiar lângă drumul principal.",
+            "en": "Walk along the extensive promenade of this popular beach which features calm waters, and use the free public parking situated right off the main road."
+          }
+        },
+        {
+          "name": {
+            "de": "Petróglifo da Pedra das Cabras",
+            "hu": "Petróglifo da Pedra das Cabras",
+            "ro": "Petróglifo da Pedra das Cabras",
+            "en": "Petróglifo da Pedra das Cabras"
+          },
+          "coords": [
+            -8.984809,
+            42.577181
+          ],
+          "category": "landmark",
+          "arrive_at": "12:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese antiken Felszeichnungen prähistorischer Tiere, aber tragen Sie feste Schuhe, da der Zugangsweg von der Straße etwas uneben ist.",
+            "hu": "Csodálja meg a történelem előtti vadvilágot ábrázoló ősi sziklarajzokat, de viseljen masszív cipőt, mivel az útról vezető ösvény kissé egyenetlen.",
+            "ro": "Minunați-vă de aceste sculpturi antice în stâncă, dar purtați încălțăminte robustă pentru mers pe jos, deoarece calea de acces este ușor denivelată.",
+            "en": "Marvel at these ancient rock carvings depicting prehistoric wildlife, but wear sturdy walking shoes as the access path from the road is slightly uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Cures",
+            "hu": "Praia de Cures",
+            "ro": "Praia de Cures",
+            "en": "Praia de Cures"
+          },
+          "coords": [
+            -8.95748,
+            42.581722
+          ],
+          "category": "recreational",
+          "arrive_at": "13:39",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die letzten Tagesstunden an diesem ruhigen, gut mit dem Auto erreichbaren Strand und bewahren Sie eine Decke für die Dämmerung im Kofferraum auf.",
+            "hu": "Élvezze a nappal utolsó óráit ezen az autóval könnyen megközelíthető strandon, és tartson egy meleg takarót a csomagtartóban az alkonyathoz.",
+            "ro": "Bucurați-vă de ultimele ore de lumină la această plajă liniștită, ușor accesibilă cu mașina, și păstrați o pătură confortabilă în portbagaj pentru amurg.",
+            "en": "Enjoy the final hours of daylight at this charming and tranquil beach, which is easily accessible by car, so keep a cozy blanket in your trunk for dusk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Fahren Sie ins Zentrum für Kirche und Aussichtspunkt. Mittag: Besuchen Sie die westlichen Strände Río Azor und Coroso mit ausgezeichneten Einrichtungen. Nachmittag: Fahren Sie landeinwärts zum antiken Petróglifo da Pedra das Cabras. Abend: Kehren Sie an die Küste zur entspannten Praia de Cures zurück.",
+        "hu": "Reggel: Autózzon a központba a templom és a kilátó megtekintéséhez. Dél: Látogasson el a nyugati Río Azor és Coroso kiválóan felszerelt strandjaira. Délután: Hajtson beljebb a szárazföldön a Petróglifo da Pedra das Cabras ősi sziklarajzaihoz. Este: Térjen vissza a tengerparthoz, a Praia de Cures békés homokjához.",
+        "ro": "Dimineață: Conduceți în centru pentru biserică și belvedere. Prânz: Vizitați plajele vestice Río Azor și Coroso pentru o plimbare relaxantă. După-amiază: Mergeți spre interior pentru a vedea vechiul Petróglifo da Pedra das Cabras. Seară: Întoarceți-vă pe coastă pentru a vă relaxa la Praia de Cures.",
+        "en": "Morning: Drive to the center to see Palmeira’s church and viewpoint. Midday: Visit the western beaches of Río Azor and Coroso, offering vast stretches of sand. Afternoon: Drive inland to discover the ancient Petróglifo da Pedra das Cabras. Evening: Return to the coast to relax at Praia de Cures for sunset."
+      }
+    }
+  }
+}

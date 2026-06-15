@@ -1,0 +1,543 @@
+{
+  "city_id": "alencon",
+  "anchor": {
+    "name": "Alençon",
+    "coords": [
+      0.0919,
+      48.4297
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:02",
+      "total_km": 3.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Notre-Dame Basilica",
+            "hu": "Notre-Dame Basilica",
+            "ro": "Notre-Dame Basilica",
+            "en": "Notre-Dame Basilica"
+          },
+          "coords": [
+            0.088722,
+            48.4299
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtige gotische Vorhalle, die diese Basilika berühmt gemacht hat, und besuchen Sie sie am besten im Morgenlicht für tolle Fotos.",
+            "hu": "Csodálja meg a bazilika hírnevét megalapozó, lángoló gótikus pompájú tornácot, és próbáljon a reggeli fényekben érkezni a legjobb üvegablakos fotókért.",
+            "ro": "Admirați pridvorul gotic flamboaiant care a adus faima acestei bazilici și încercați să o vizitați în lumina dimineții pentru fotografii perfecte.",
+            "en": "Admire the exquisite flamboyant Gothic porch that earned this basilica its fame, and try to visit during morning light for the best stained glass photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée des Beaux-Arts et de la Dentelle",
+            "hu": "Musée des Beaux-Arts et de la Dentelle",
+            "ro": "Musée des Beaux-Arts et de la Dentelle",
+            "en": "Musée des Beaux-Arts et de la Dentelle"
+          },
+          "coords": [
+            0.083428,
+            48.431582
+          ],
+          "category": "museum",
+          "arrive_at": "09:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die zarte Alençon-Spitze, ein immaterielles UNESCO-Kulturerbe, und buchen Sie Ihr Museumsticket vorab online, um Warteschlangen zu vermeiden.",
+            "hu": "Fedezze fel az UNESCO szellemi örökségét képező finom alençoni csipkét, és foglaljon jegyet előre online, hogy elkerülje a múzeumi sorban állást.",
+            "ro": "Descoperiți delicata dantelă de Alençon, patrimoniu imaterial UNESCO, și rezervați-vă biletul de muzeu online în avans pentru a sări peste eventualele cozi.",
+            "en": "Discover the delicate Alençon lace, a UNESCO intangible heritage, and book your museum ticket online in advance to skip the occasional queue."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc des Promenades",
+            "hu": "Parc des Promenades",
+            "ro": "Parc des Promenades",
+            "en": "Parc des Promenades"
+          },
+          "coords": [
+            0.07944,
+            48.4289
+          ],
+          "category": "recreational",
+          "arrive_at": "11:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen historischen Park mit seinem schönen Musikpavillon aus dem 19. Jahrhundert, und bringen Sie eine leichte Jacke für den Schatten mit.",
+            "hu": "Sétáljon végig ezen a történelmi parkon, hogy megcsodálja a 19. századi zenepavilont, és hozzon magával egy vékony kabátot az árnyékos ösvények miatt.",
+            "ro": "Plimbați-vă prin acest parc istoric pentru a vedea frumosul chioșc muzical din secolul 19 și aduceți o jachetă, deoarece aleile umbrite rămân răcoroase.",
+            "en": "Stroll through this historic park to see the beautiful 19th-century bandstand, and bring a light jacket as the shaded paths stay cool year-round."
+          }
+        },
+        {
+          "name": {
+            "de": "Arboretum Koutiala",
+            "hu": "Arboretum Koutiala",
+            "ro": "Arboretum Koutiala",
+            "en": "Arboretum Koutiala"
+          },
+          "coords": [
+            0.077475,
+            48.424374
+          ],
+          "category": "park",
+          "arrive_at": "13:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die reiche Vielfalt an Baumarten in einer friedlichen Umgebung und tragen Sie bequeme Schuhe, um sich auf dem grasbewachsenen Gelände leicht zu bewegen.",
+            "hu": "Fedezze fel a békés környezetben elültetett fafajok gazdag változatosságát, és viseljen kényelmes sétacipőt a füves terepen való könnyű közlekedéshez.",
+            "ro": "Explorați o diversitate bogată de specii de arbori într-un cadru liniștit și purtați pantofi confortabili pentru a naviga ușor pe terenul înierbat.",
+            "en": "Explore a rich diversity of tree species planted in a peaceful setting, and wear comfortable walking shoes to easily navigate the grassy terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame-de-Lorette",
+            "hu": "Chapelle Notre-Dame-de-Lorette",
+            "ro": "Chapelle Notre-Dame-de-Lorette",
+            "en": "Chapelle Notre-Dame-de-Lorette"
+          },
+          "coords": [
+            0.089493,
+            48.423978
+          ],
+          "category": "landmark",
+          "arrive_at": "14:34",
+          "stay_min": 25,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante kleine Kapelle für einen ruhigen Moment der Besinnung und prüfen Sie vorher die Öffnungszeiten, da diese oft begrenzt sind.",
+            "hu": "Látogasson el ebbe a bájos kis kápolnába, amely csendes elmélkedést kínál, és ellenőrizze a nyitvatartást, mivel az gyakran csak hétvégére korlátozódik.",
+            "ro": "Vizitați această mică capelă fermecătoare care oferă un moment de liniște și verificați programul înainte, deoarece este adesea limitat la weekend-uri.",
+            "en": "Visit this charming small chapel that offers a quiet moment of reflection, and check the opening hours beforehand as they are often limited to weekends."
+          }
+        },
+        {
+          "name": {
+            "de": "Monument aux Morts",
+            "hu": "Monument aux Morts",
+            "ro": "Monument aux Morts",
+            "en": "Monument aux Morts"
+          },
+          "coords": [
+            0.093734,
+            48.434168
+          ],
+          "category": "historical",
+          "arrive_at": "15:17",
+          "stay_min": 45,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Verweilen Sie an diesem ergreifenden Denkmal für die gefallenen Soldaten und nutzen Sie die nahe gelegenen Bänke, um die feierliche Atmosphäre auf sich wirken zu lassen.",
+            "hu": "Álljon meg ennél a megható történelmi emlékműnél, amely az elesett katonák előtt tiszteleg, és használja a közeli padokat a pihenésre az ünnepélyes hangulatban.",
+            "ro": "Opriți-vă la acest monument istoric emoționant închinat soldaților căzuți și folosiți băncile din apropiere pentru a vă odihni în atmosfera solemnă.",
+            "en": "Pause at this poignant historical monument commemorating fallen soldiers, and use the nearby benches to rest while taking in the solemn atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der Bewunderung der exquisiten gotischen Architektur der Notre-Dame-Basilika. Tauchen Sie dann im Museum für Schöne Künste und Spitze in das lokale Erbe ein. Nach einem entspannten mittäglichen Spaziergang durch den Parc des Promenades erkunden Sie das Arboretum Koutiala. Beenden Sie Ihre Tour an der Lorette-Kapelle und dem feierlichen Monument aux Morts.",
+        "hu": "Kezdje a reggelt a Notre-Dame bazilika lenyűgöző gótikus építészetének megcsodálásával. Ezután merüljön el a helyi örökségben a Szépművészeti és Csipkemúzeumban. A Parc des Promenades árnyas fái alatti déli séta után dél felé indulva fedezze fel a Koutiala Arborétum növényvilágát. Zárja gyalogos túráját a Lorette kápolnánál és az ünnepélyes Monument aux Morts emlékműnél.",
+        "ro": "Începeți dimineața admirând arhitectura gotică a Bazilicii Notre-Dame. Apoi, aprofundați patrimoniul local la Muzeul de Arte Frumoase și Dantelă. După o plimbare relaxantă la prânz prin Parc des Promenades, mergeți spre sud pentru a explora flora din Arboretum Koutiala. Încheiați turul la Capela Lorette și la solemnul Monument aux Morts, reflectând asupra istoriei.",
+        "en": "Begin your morning admiring the exquisite Gothic architecture of the Notre-Dame Basilica. Then, delve into local heritage at the Fine Arts and Lace Museum. After a relaxing midday stroll through the shaded Parc des Promenades, head south to explore the diverse plant life of Arboretum Koutiala. Conclude your walking tour with a peaceful stop at the Lorette Chapel and the solemn Monument aux Morts."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:03",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Monument aux Morts",
+            "hu": "Monument aux Morts",
+            "ro": "Monument aux Morts",
+            "en": "Monument aux Morts"
+          },
+          "coords": [
+            0.093734,
+            48.434168
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Verweilen Sie an diesem ergreifenden Denkmal für die gefallenen Soldaten und nutzen Sie die nahe gelegenen Bänke, um die feierliche Atmosphäre auf sich wirken zu lassen.",
+            "hu": "Álljon meg ennél a megható történelmi emlékműnél, amely az elesett katonák előtt tiszteleg, és használja a közeli padokat a pihenésre az ünnepélyes hangulatban.",
+            "ro": "Opriți-vă la acest monument istoric emoționant închinat soldaților căzuți și folosiți băncile din apropiere pentru a vă odihni în atmosfera solemnă.",
+            "en": "Pause at this poignant historical monument commemorating fallen soldiers, and use the nearby benches to rest while taking in the solemn atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame Basilica",
+            "hu": "Notre-Dame Basilica",
+            "ro": "Notre-Dame Basilica",
+            "en": "Notre-Dame Basilica"
+          },
+          "coords": [
+            0.088722,
+            48.4299
+          ],
+          "category": "religious",
+          "arrive_at": "09:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtige gotische Vorhalle, die diese Basilika berühmt gemacht hat, und besuchen Sie sie am besten im Morgenlicht für tolle Fotos.",
+            "hu": "Csodálja meg a bazilika hírnevét megalapozó, lángoló gótikus pompájú tornácot, és próbáljon a reggeli fényekben érkezni a legjobb üvegablakos fotókért.",
+            "ro": "Admirați pridvorul gotic flamboaiant care a adus faima acestei bazilici și încercați să o vizitați în lumina dimineții pentru fotografii perfecte.",
+            "en": "Admire the exquisite flamboyant Gothic porch that earned this basilica its fame, and try to visit during morning light for the best stained glass photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée des Beaux-Arts et de la Dentelle",
+            "hu": "Musée des Beaux-Arts et de la Dentelle",
+            "ro": "Musée des Beaux-Arts et de la Dentelle",
+            "en": "Musée des Beaux-Arts et de la Dentelle"
+          },
+          "coords": [
+            0.083428,
+            48.431582
+          ],
+          "category": "museum",
+          "arrive_at": "10:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die zarte Alençon-Spitze, ein immaterielles UNESCO-Kulturerbe, und buchen Sie Ihr Museumsticket vorab online, um Warteschlangen zu vermeiden.",
+            "hu": "Fedezze fel az UNESCO szellemi örökségét képező finom alençoni csipkét, és foglaljon jegyet előre online, hogy elkerülje a múzeumi sorban állást.",
+            "ro": "Descoperiți delicata dantelă de Alençon, patrimoniu imaterial UNESCO, și rezervați-vă biletul de muzeu online în avans pentru a sări peste eventualele cozi.",
+            "en": "Discover the delicate Alençon lace, a UNESCO intangible heritage, and book your museum ticket online in advance to skip the occasional queue."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc des Promenades",
+            "hu": "Parc des Promenades",
+            "ro": "Parc des Promenades",
+            "en": "Parc des Promenades"
+          },
+          "coords": [
+            0.07944,
+            48.4289
+          ],
+          "category": "recreational",
+          "arrive_at": "11:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen historischen Park mit seinem schönen Musikpavillon aus dem 19. Jahrhundert, und bringen Sie eine leichte Jacke für den Schatten mit.",
+            "hu": "Sétáljon végig ezen a történelmi parkon, hogy megcsodálja a 19. századi zenepavilont, és hozzon magával egy vékony kabátot az árnyékos ösvények miatt.",
+            "ro": "Plimbați-vă prin acest parc istoric pentru a vedea frumosul chioșc muzical din secolul 19 și aduceți o jachetă, deoarece aleile umbrite rămân răcoroase.",
+            "en": "Stroll through this historic park to see the beautiful 19th-century bandstand, and bring a light jacket as the shaded paths stay cool year-round."
+          }
+        },
+        {
+          "name": {
+            "de": "Arboretum Koutiala",
+            "hu": "Arboretum Koutiala",
+            "ro": "Arboretum Koutiala",
+            "en": "Arboretum Koutiala"
+          },
+          "coords": [
+            0.077475,
+            48.424374
+          ],
+          "category": "park",
+          "arrive_at": "13:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die reiche Vielfalt an Baumarten in einer friedlichen Umgebung und tragen Sie bequeme Schuhe, um sich auf dem grasbewachsenen Gelände leicht zu bewegen.",
+            "hu": "Fedezze fel a békés környezetben elültetett fafajok gazdag változatosságát, és viseljen kényelmes sétacipőt a füves terepen való könnyű közlekedéshez.",
+            "ro": "Explorați o diversitate bogată de specii de arbori într-un cadru liniștit și purtați pantofi confortabili pentru a naviga ușor pe terenul înierbat.",
+            "en": "Explore a rich diversity of tree species planted in a peaceful setting, and wear comfortable walking shoes to easily navigate the grassy terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Germain",
+            "hu": "Église Saint-Germain",
+            "ro": "Église Saint-Germain",
+            "en": "Église Saint-Germain"
+          },
+          "coords": [
+            0.061679,
+            48.424346
+          ],
+          "category": "religious",
+          "arrive_at": "14:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Betrachten Sie die beeindruckende regionale Architektur dieser historischen Kirche und nehmen Sie sich Zeit, die feinen Steinmetzarbeiten am Eingang zu bewundern.",
+            "hu": "Tekintse meg ennek a történelmi templomnak a lenyűgöző regionális építészetét, és csodálja meg a főbejárat körüli bonyolult kőfaragásokat.",
+            "ro": "Admirați arhitectura regională impresionantă a acestei biserici istorice și luați-vă un moment pentru a aprecia sculptura în piatră din jurul intrării.",
+            "en": "View the impressive regional architecture of this historical church, and take a moment to admire the intricate stonework around the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Central 8",
+            "hu": "Central 8",
+            "ro": "Central 8",
+            "en": "Central 8"
+          },
+          "coords": [
+            0.063085,
+            48.434904
+          ],
+          "category": "family",
+          "arrive_at": "15:18",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie eine unterhaltsame Pause in diesem familienfreundlichen Freizeitkomplex und kommen Sie am Wochenende früh, um dem Nachmittagsansturm zu entgehen.",
+            "hu": "Élvezze a szórakoztató kikapcsolódást ebben a családbarát beltéri komplexumban, és hétvégén érkezzen korán, hogy elkerülje a délutáni tömeget.",
+            "ro": "Bucurați-vă de o pauză recreativă în acest complex de interior pentru familii și ajungeți devreme în weekend pentru a evita aglomerația de după-amiază.",
+            "en": "Enjoy a fun recreational break at this family-friendly indoor complex, and arrive early on weekends to secure a spot before the afternoon crowds hit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag mit der Ehrung der Geschichte am Monument aux Morts, bevor Sie zur Notre-Dame-Basilika fahren. Entdecken Sie am späten Vormittag die berühmte Handwerkskunst im Spitzenmuseum. Der Nachmittag bringt frische Luft im Parc des Promenades und im Arboretum Koutiala. Zum Abschluss besuchen Sie die Église Saint-Germain und das familienfreundliche Central 8.",
+        "hu": "Kezdje a kerékpáros napot a történelem tiszteletével a Monument aux Morts-nál, majd tekerjen a Notre-Dame bazilikához. Késő délelőtt fedezze fel a régió híres kézműves hagyományait a Csipkemúzeumban. A délután friss levegőt hoz a Parc des Promenades és az Arborétum Koutiala területén. Végül látogasson el a Saint-Germain templomba és a Central 8 komplexumba.",
+        "ro": "Începeți ziua de ciclism onorând istoria la Monument aux Morts înainte de a pedala spre Bazilica Notre-Dame. Petreceți dimineața târzie descoperind măiestria faimoasă la Muzeul Dantelei. După-amiaza aduce aer curat în Parc des Promenades și în Arboretum Koutiala. Încheiați cu vizite la Église Saint-Germain și complexul pentru familii Central 8.",
+        "en": "Start your cycling day honoring history at the Monument aux Morts before riding to the iconic Notre-Dame Basilica. Spend your late morning discovering the region's famous delicate craftsmanship at the Lace Museum. The afternoon brings fresh air at the Parc des Promenades and the leafy Arboretum Koutiala. Finish up with visits to Église Saint-Germain and the family-friendly Central 8."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:46",
+      "total_km": 7.3,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Sainte-Thérèse de Perseigne",
+            "hu": "Église Sainte-Thérèse de Perseigne",
+            "ro": "Église Sainte-Thérèse de Perseigne",
+            "en": "Église Sainte-Thérèse de Perseigne"
+          },
+          "coords": [
+            0.098779,
+            48.415012
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die modernen Linien dieses religiösen Gebäudes aus der Mitte des Jahrhunderts und betrachten Sie die lebhaften Glasfenster von innen.",
+            "hu": "Csodálja meg ennek a századközepi vallási épületnek az egyedi modern vonalait, és nézze meg közelebbről a belülről élénk színű, modern ólomüveg ablakokat.",
+            "ro": "Minunați-vă de liniile moderne unice ale acestei clădiri religioase de la jumătatea secolului și priviți atent vitraliile moderne vibrante din interior.",
+            "en": "Marvel at the unique modern lines of this mid-century religious building, and look closely at the vibrant modern stained glass windows from the inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame-de-Lorette",
+            "hu": "Chapelle Notre-Dame-de-Lorette",
+            "ro": "Chapelle Notre-Dame-de-Lorette",
+            "en": "Chapelle Notre-Dame-de-Lorette"
+          },
+          "coords": [
+            0.089493,
+            48.423978
+          ],
+          "category": "landmark",
+          "arrive_at": "09:53",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante kleine Kapelle für einen ruhigen Moment der Besinnung und prüfen Sie vorher die Öffnungszeiten, da diese oft begrenzt sind.",
+            "hu": "Látogasson el ebbe a bájos kis kápolnába, amely csendes elmélkedést kínál, és ellenőrizze a nyitvatartást, mivel az gyakran csak hétvégére korlátozódik.",
+            "ro": "Vizitați această mică capelă fermecătoare care oferă un moment de liniște și verificați programul înainte, deoarece este adesea limitat la weekend-uri.",
+            "en": "Visit this charming small chapel that offers a quiet moment of reflection, and check the opening hours beforehand as they are often limited to weekends."
+          }
+        },
+        {
+          "name": {
+            "de": "Arboretum Koutiala",
+            "hu": "Arboretum Koutiala",
+            "ro": "Arboretum Koutiala",
+            "en": "Arboretum Koutiala"
+          },
+          "coords": [
+            0.077475,
+            48.424374
+          ],
+          "category": "park",
+          "arrive_at": "10:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie die reiche Vielfalt an Baumarten in einer friedlichen Umgebung und tragen Sie bequeme Schuhe, um sich auf dem grasbewachsenen Gelände leicht zu bewegen.",
+            "hu": "Fedezze fel a békés környezetben elültetett fafajok gazdag változatosságát, és viseljen kényelmes sétacipőt a füves terepen való könnyű közlekedéshez.",
+            "ro": "Explorați o diversitate bogată de specii de arbori într-un cadru liniștit și purtați pantofi confortabili pentru a naviga ușor pe terenul înierbat.",
+            "en": "Explore a rich diversity of tree species planted in a peaceful setting, and wear comfortable walking shoes to easily navigate the grassy terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Germain",
+            "hu": "Église Saint-Germain",
+            "ro": "Église Saint-Germain",
+            "en": "Église Saint-Germain"
+          },
+          "coords": [
+            0.061679,
+            48.424346
+          ],
+          "category": "religious",
+          "arrive_at": "11:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Betrachten Sie die beeindruckende regionale Architektur dieser historischen Kirche und nehmen Sie sich Zeit, die feinen Steinmetzarbeiten am Eingang zu bewundern.",
+            "hu": "Tekintse meg ennek a történelmi templomnak a lenyűgöző regionális építészetét, és csodálja meg a főbejárat körüli bonyolult kőfaragásokat.",
+            "ro": "Admirați arhitectura regională impresionantă a acestei biserici istorice și luați-vă un moment pentru a aprecia sculptura în piatră din jurul intrării.",
+            "en": "View the impressive regional architecture of this historical church, and take a moment to admire the intricate stonework around the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Central 8",
+            "hu": "Central 8",
+            "ro": "Central 8",
+            "en": "Central 8"
+          },
+          "coords": [
+            0.063085,
+            48.434904
+          ],
+          "category": "family",
+          "arrive_at": "12:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie eine unterhaltsame Pause in diesem familienfreundlichen Freizeitkomplex und kommen Sie am Wochenende früh, um dem Nachmittagsansturm zu entgehen.",
+            "hu": "Élvezze a szórakoztató kikapcsolódást ebben a családbarát beltéri komplexumban, és hétvégén érkezzen korán, hogy elkerülje a délutáni tömeget.",
+            "ro": "Bucurați-vă de o pauză recreativă în acest complex de interior pentru familii și ajungeți devreme în weekend pentru a evita aglomerația de după-amiază.",
+            "en": "Enjoy a fun recreational break at this family-friendly indoor complex, and arrive early on weekends to secure a spot before the afternoon crowds hit."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée des Beaux-Arts et de la Dentelle",
+            "hu": "Musée des Beaux-Arts et de la Dentelle",
+            "ro": "Musée des Beaux-Arts et de la Dentelle",
+            "en": "Musée des Beaux-Arts et de la Dentelle"
+          },
+          "coords": [
+            0.083428,
+            48.431582
+          ],
+          "category": "museum",
+          "arrive_at": "13:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die zarte Alençon-Spitze, ein immaterielles UNESCO-Kulturerbe, und buchen Sie Ihr Museumsticket vorab online, um Warteschlangen zu vermeiden.",
+            "hu": "Fedezze fel az UNESCO szellemi örökségét képező finom alençoni csipkét, és foglaljon jegyet előre online, hogy elkerülje a múzeumi sorban állást.",
+            "ro": "Descoperiți delicata dantelă de Alençon, patrimoniu imaterial UNESCO, și rezervați-vă biletul de muzeu online în avans pentru a sări peste eventualele cozi.",
+            "en": "Discover the delicate Alençon lace, a UNESCO intangible heritage, and book your museum ticket online in advance to skip the occasional queue."
+          }
+        },
+        {
+          "name": {
+            "de": "Monument aux Morts",
+            "hu": "Monument aux Morts",
+            "ro": "Monument aux Morts",
+            "en": "Monument aux Morts"
+          },
+          "coords": [
+            0.093734,
+            48.434168
+          ],
+          "category": "historical",
+          "arrive_at": "15:20",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Verweilen Sie an diesem ergreifenden Denkmal für die gefallenen Soldaten und nutzen Sie die nahe gelegenen Bänke, um die feierliche Atmosphäre auf sich wirken zu lassen.",
+            "hu": "Álljon meg ennél a megható történelmi emlékműnél, amely az elesett katonák előtt tiszteleg, és használja a közeli padokat a pihenésre az ünnepélyes hangulatban.",
+            "ro": "Opriți-vă la acest monument istoric emoționant închinat soldaților căzuți și folosiți băncile din apropiere pentru a vă odihni în atmosfera solemnă.",
+            "en": "Pause at this poignant historical monument commemorating fallen soldiers, and use the nearby benches to rest while taking in the solemn atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame Basilica",
+            "hu": "Notre-Dame Basilica",
+            "ro": "Notre-Dame Basilica",
+            "en": "Notre-Dame Basilica"
+          },
+          "coords": [
+            0.088722,
+            48.4299
+          ],
+          "category": "religious",
+          "arrive_at": "15:36",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtige gotische Vorhalle, die diese Basilika berühmt gemacht hat, und besuchen Sie sie am besten im Morgenlicht für tolle Fotos.",
+            "hu": "Csodálja meg a bazilika hírnevét megalapozó, lángoló gótikus pompájú tornácot, és próbáljon a reggeli fényekben érkezni a legjobb üvegablakos fotókért.",
+            "ro": "Admirați pridvorul gotic flamboaiant care a adus faima acestei bazilici și încercați să o vizitați în lumina dimineții pentru fotografii perfecte.",
+            "en": "Admire the exquisite flamboyant Gothic porch that earned this basilica its fame, and try to visit during morning light for the best stained glass photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Roadtrip beginnt an der einzigartig modernen Église Sainte-Thérèse de Perseigne. Fahren Sie in Richtung Stadtzentrum und halten Sie an der Lorette-Kapelle und dem üppigen Arboretum Koutiala. Nach der Église Saint-Germain verbringen Sie den Mittag im Central 8. Tauchen Sie nachmittags im Spitzenmuseum in Alençons Kunstseele ein und enden Sie an der großen Basilika.",
+        "hu": "Autós kirándulása az egyedi modern Église Sainte-Thérèse de Perseigne-nél kezdődik. Vezessen a központ felé, megállva a Lorette kápolnánál és a buja Koutiala Arborétumnál. A Saint-Germain templom után töltsön egy energikus delet a Central 8-ban. Délután merüljön el a Csipkemúzeum művészetében, majd zárjon a Monument aux Morts és a lenyűgöző bazilika meglátogatásával.",
+        "ro": "Călătoria auto începe la moderna Église Sainte-Thérèse de Perseigne. Conduceți spre centru, oprindu-vă la Capela Lorette și la luxuriantul Arboretum Koutiala. După Église Saint-Germain, petreceți un prânz plin de energie la Central 8. După-amiaza, pătrundeți în sufletul artistic la Muzeul Dantelei, terminând la Monument aux Morts și grandioasa Bazilică.",
+        "en": "Your road trip starts at the uniquely modern Église Sainte-Thérèse de Perseigne. Drive towards the city center, stopping by the quaint Lorette Chapel and the lush Arboretum Koutiala. After admiring Église Saint-Germain, spend an energetic midday at Central 8. In the afternoon, dive into Alençon's artistic soul at the Lace Museum, finishing with the Monument aux Morts and the grand Basilica."
+      }
+    }
+  }
+}

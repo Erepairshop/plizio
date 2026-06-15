@@ -1,0 +1,474 @@
+{
+  "city_id": "greece-laconia-cities-v2",
+  "anchor": {
+    "name": "Laconia",
+    "coords": [
+      22.9982,
+      36.9701
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:36",
+      "total_km": 1.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "en": "Proto Avlaki",
+            "de": "Proto Avlaki",
+            "hu": "Proto Avlaki",
+            "ro": "Proto Avlaki"
+          },
+          "coords": [
+            22.996838,
+            36.966509
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Stroll along the tranquil coastline of Proto Avlaki, a wonderful recreational spot offering peaceful vistas, and don't forget your sunscreen and a wide-brimmed hat.",
+            "de": "Schlendern Sie an der ruhigen Küste von Proto Avlaki entlang, einem herrlichen Erholungsort mit friedlichen Ausblicken, und vergessen Sie nicht Ihre Sonnencreme.",
+            "hu": "Sétáljon végig Proto Avlaki békés partvonalán, egy csodálatos pihenőhelyen, és ne felejtse el a naptejet, valamint egy széles karimájú kalapot is hozni.",
+            "ro": "Plimbați-vă de-a lungul coastei liniștite a Proto Avlaki, un loc minunat de recreere cu priveliști pașnice, și nu uitați crema de protecție solară și o pălărie."
+          }
+        },
+        {
+          "name": {
+            "en": "Kalogria castle",
+            "de": "Burg Kalogria",
+            "hu": "Kalogria kastély",
+            "ro": "Castelul Kalogria"
+          },
+          "coords": [
+            22.995232,
+            36.968784
+          ],
+          "category": "castle",
+          "arrive_at": "10:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.29,
+          "tip_5lang": {
+            "en": "Explore the fascinating ruins of Kalogria castle, where history comes alive against a backdrop of the sea, making it an ideal spot for panoramic landscape photography.",
+            "de": "Erkunden Sie die faszinierenden Ruinen der Burg Kalogria, wo Geschichte vor der Kulisse des Meeres lebendig wird, ideal für Panorama-Landschaftsfotografie.",
+            "hu": "Fedezze fel a Kalogria kastély lenyűgöző romjait, ahol a történelem életre kel a tenger hátterében, így ez egy ideális helyszín panorámás tájfotózáshoz.",
+            "ro": "Explorați ruinele fascinante ale castelului Kalogria, unde istoria prinde viață pe fundalul mării, făcându-l un loc ideal pentru fotografia panoramică de peisaj."
+          }
+        },
+        {
+          "name": {
+            "en": "Molos",
+            "de": "Molos",
+            "hu": "Molos",
+            "ro": "Molos"
+          },
+          "coords": [
+            22.994168,
+            36.970894
+          ],
+          "category": "recreational",
+          "arrive_at": "11:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "en": "Relax at Molos, a favored recreational area where locals gather, offering a vibrant atmosphere and nearby cafes perfect for grabbing a quick, authentic Greek snack.",
+            "de": "Entspannen Sie sich in Molos, einem beliebten Erholungsgebiet, wo sich die Einheimischen treffen, mit lebhafter Atmosphäre und gemütlichen Cafés für einen Snack.",
+            "hu": "Pihenjen Molosban, egy kedvelt pihenőövezetben, ahol a helyiek gyülekeznek, élénk hangulatot árasztva, és egy gyors, autentikus görög snack elfogyasztására is jó.",
+            "ro": "Relaxați-vă la Molos, o zonă de recreere favorită unde se adună localnicii, oferind o atmosferă vibrantă și cafenele perfecte pentru o gustare grecească rapidă."
+          }
+        },
+        {
+          "name": {
+            "en": "Megali Ammos",
+            "de": "Megali Ammos",
+            "hu": "Megali Ammos",
+            "ro": "Megali Ammos"
+          },
+          "coords": [
+            22.991189,
+            36.973356
+          ],
+          "category": "recreational",
+          "arrive_at": "13:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "en": "Enjoy the vast expanse of Megali Ammos, a pristine recreational stretch with inviting sands, making it highly recommended to bring your own towel for a comfortable rest.",
+            "de": "Genießen Sie die Weite von Megali Ammos, einem unberührten Erholungsgebiet mit einladendem Sand, für das Sie unbedingt Ihr eigenes Handtuch mitbringen sollten.",
+            "hu": "Élvezze a Megali Ammos hatalmas kiterjedését, egy érintetlen pihenőrészt, hívogató homokkal, ahol mindenképpen ajánlott saját törölközőt hozni a kényelmes pihenéshez.",
+            "ro": "Bucurați-vă de imensitatea Megali Ammos, o zonă de recreere curată cu nisip primitor, fiind foarte recomandat să vă aduceți propriul prosop pentru o odihnă plăcută."
+          }
+        },
+        {
+          "name": {
+            "en": "Kyparissi bay",
+            "de": "Kyparissi-Bucht",
+            "hu": "Kyparissi-öböl",
+            "ro": "Golful Kyparissi"
+          },
+          "coords": [
+            22.999406,
+            36.975575
+          ],
+          "category": "landmark",
+          "arrive_at": "14:41",
+          "stay_min": 55,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.77,
+          "tip_5lang": {
+            "en": "Take in the breathtaking views over Kyparissi bay, a standout landmark that seamlessly merges mountain landscapes with the sea, ideal for an evening stroll as the sun sets.",
+            "de": "Genießen Sie die atemberaubende Aussicht auf die Kyparissi-Bucht, ein herausragendes Wahrzeichen, das ideal für einen Abendspaziergang bei Sonnenuntergang ist.",
+            "hu": "Gyönyörködjön a lélegzetelállító kilátásban a Kyparissi-öbölre, amely egy kiemelkedő tájékozódási pont, és zökkenőmentesen ötvözi a hegyi tájakat a tengerrel.",
+            "ro": "Admirați priveliștile uluitoare asupra golfului Kyparissi, un punct de reper care îmbină peisajele montane cu marea, ideal pentru o plimbare de seară la apus."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Begin your morning with the calming sights of the coastal bays, enjoying the fresh sea breeze. Midday invites you to explore the fascinating historical castles that stand as silent guards over the landscape. In the afternoon, discover vibrant recreational beaches and local gathering spots along the shore. The evening concludes perfectly with tranquil sunset views from hidden coastal gems.",
+        "de": "Beginnen Sie Ihren Morgen mit dem beruhigenden Anblick der Buchten und der frischen Meeresbrise. Die Mittagszeit lädt ein, die faszinierenden historischen Burgen zu erkunden, die als Wachen dienen. Am Nachmittag entdecken Sie lebhafte Strände und lokale Treffpunkte entlang der Küste. Der Abend endet perfekt mit friedlichen Ausblicken auf den Sonnenuntergang von den Buchten.",
+        "hu": "Kezdje a reggelt a tengerparti öblök megnyugtató látványával és a friss tengeri szellővel. A dél a lenyűgöző történelmi kastélyok felfedezésére hív, amelyek némán őrzik a tájat. Délután fedezze fel a nyüzsgő strandokat és a part menti helyi találkozóhelyeket. Az estét tökéletesen zárják a rejtett tengerparti gyöngyszemekről nyíló, csendes naplementés kilátások és emlékek.",
+        "ro": "Începeți dimineața cu priveliștile liniștitoare ale golfurilor, bucurându-vă de briza proaspătă. La amiază sunteți invitați să explorați fascinantele castele istorice care veghează asupra peisajului. După-amiaza, descoperiți plajele de agrement vibrante și locurile de adunare locale de-a lungul coastei. Seara se încheie perfect cu apusuri liniștite din nestematele ascunse."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:57",
+      "total_km": 3.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "en": "Molocha bay",
+            "de": "Molocha-Bucht",
+            "hu": "Molocha-öböl",
+            "ro": "Golful Molocha"
+          },
+          "coords": [
+            23.006487,
+            36.957094
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Marvel at the rugged beauty of Molocha bay and its calm, crystal-clear waters, which are perfect for a refreshing morning dip if you arrive early enough.",
+            "de": "Bestaunen Sie die schroffe Schönheit der Molocha-Bucht und ihr ruhiges, kristallklares Wasser, das sich perfekt für ein erfrischendes morgendliches Bad eignet.",
+            "hu": "Csodálja meg a Molocha-öböl zord szépségét és nyugodt, kristálytiszta vizét, amely tökéletes egy frissítő reggeli csobbanáshoz, ha elég korán érkezik.",
+            "ro": "Admirați frumusețea accidentată a golfului Molocha și apele sale calme și cristaline, care sunt perfecte pentru o baie răcoroasă de dimineață."
+          }
+        },
+        {
+          "name": {
+            "en": "Proto Avlaki",
+            "de": "Proto Avlaki",
+            "hu": "Proto Avlaki",
+            "ro": "Proto Avlaki"
+          },
+          "coords": [
+            22.996838,
+            36.966509
+          ],
+          "category": "recreational",
+          "arrive_at": "09:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.35,
+          "tip_5lang": {
+            "en": "Stroll along the tranquil coastline of Proto Avlaki, a wonderful recreational spot offering peaceful vistas, and don't forget your sunscreen and a wide-brimmed hat.",
+            "de": "Schlendern Sie an der ruhigen Küste von Proto Avlaki entlang, einem herrlichen Erholungsort mit friedlichen Ausblicken, und vergessen Sie nicht Ihre Sonnencreme.",
+            "hu": "Sétáljon végig Proto Avlaki békés partvonalán, egy csodálatos pihenőhelyen, és ne felejtse el a naptejet, valamint egy széles karimájú kalapot is hozni.",
+            "ro": "Plimbați-vă de-a lungul coastei liniștite a Proto Avlaki, un loc minunat de recreere cu priveliști pașnice, și nu uitați crema de protecție solară și o pălărie."
+          }
+        },
+        {
+          "name": {
+            "en": "Kalogria castle",
+            "de": "Burg Kalogria",
+            "hu": "Kalogria kastély",
+            "ro": "Castelul Kalogria"
+          },
+          "coords": [
+            22.995232,
+            36.968784
+          ],
+          "category": "castle",
+          "arrive_at": "10:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.29,
+          "tip_5lang": {
+            "en": "Explore the fascinating ruins of Kalogria castle, where history comes alive against a backdrop of the sea, making it an ideal spot for panoramic landscape photography.",
+            "de": "Erkunden Sie die faszinierenden Ruinen der Burg Kalogria, wo Geschichte vor der Kulisse des Meeres lebendig wird, ideal für Panorama-Landschaftsfotografie.",
+            "hu": "Fedezze fel a Kalogria kastély lenyűgöző romjait, ahol a történelem életre kel a tenger hátterében, így ez egy ideális helyszín panorámás tájfotózáshoz.",
+            "ro": "Explorați ruinele fascinante ale castelului Kalogria, unde istoria prinde viață pe fundalul mării, făcându-l un loc ideal pentru fotografia panoramică de peisaj."
+          }
+        },
+        {
+          "name": {
+            "en": "Kastraki",
+            "de": "Kastraki",
+            "hu": "Kastraki",
+            "ro": "Kastraki"
+          },
+          "coords": [
+            22.992051,
+            36.967959
+          ],
+          "category": "castle",
+          "arrive_at": "12:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "en": "Discover the ancient fortifications of Kastraki, a remarkable historical castle that offers a glimpse into the region's defensive past, best visited with sturdy walking shoes.",
+            "de": "Entdecken Sie die alten Befestigungsanlagen von Kastraki, einer bemerkenswerten historischen Burg, die einen Einblick in die Verteidigungsgeschichte bietet.",
+            "hu": "Fedezze fel Kastraki ősi erődítményeit, egy figyelemre méltó történelmi kastélyt, amely bepillantást enged a régió védelmi múltjába, ideális egy masszív cipővel.",
+            "ro": "Descoperiți fortificațiile antice din Kastraki, un castel istoric remarcabil care oferă o privire în trecutul defensiv al regiunii, cel mai bine vizitat cu pantofi comozi."
+          }
+        },
+        {
+          "name": {
+            "en": "Molos",
+            "de": "Molos",
+            "hu": "Molos",
+            "ro": "Molos"
+          },
+          "coords": [
+            22.994168,
+            36.970894
+          ],
+          "category": "recreational",
+          "arrive_at": "13:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "en": "Relax at Molos, a favored recreational area where locals gather, offering a vibrant atmosphere and nearby cafes perfect for grabbing a quick, authentic Greek snack.",
+            "de": "Entspannen Sie sich in Molos, einem beliebten Erholungsgebiet, wo sich die Einheimischen treffen, mit lebhafter Atmosphäre und gemütlichen Cafés für einen Snack.",
+            "hu": "Pihenjen Molosban, egy kedvelt pihenőövezetben, ahol a helyiek gyülekeznek, élénk hangulatot árasztva, és egy gyors, autentikus görög snack elfogyasztására is jó.",
+            "ro": "Relaxați-vă la Molos, o zonă de recreere favorită unde se adună localnicii, oferind o atmosferă vibrantă și cafenele perfecte pentru o gustare grecească rapidă."
+          }
+        },
+        {
+          "name": {
+            "en": "Kyparissi bay",
+            "de": "Kyparissi-Bucht",
+            "hu": "Kyparissi-öböl",
+            "ro": "Golful Kyparissi"
+          },
+          "coords": [
+            22.999406,
+            36.975575
+          ],
+          "category": "landmark",
+          "arrive_at": "15:02",
+          "stay_min": 55,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "en": "Take in the breathtaking views over Kyparissi bay, a standout landmark that seamlessly merges mountain landscapes with the sea, ideal for an evening stroll as the sun sets.",
+            "de": "Genießen Sie die atemberaubende Aussicht auf die Kyparissi-Bucht, ein herausragendes Wahrzeichen, das ideal für einen Abendspaziergang bei Sonnenuntergang ist.",
+            "hu": "Gyönyörködjön a lélegzetelállító kilátásban a Kyparissi-öbölre, amely egy kiemelkedő tájékozódási pont, és zökkenőmentesen ötvözi a hegyi tájakat a tengerrel.",
+            "ro": "Admirați priveliștile uluitoare asupra golfului Kyparissi, un punct de reper care îmbină peisajele montane cu marea, ideal pentru o plimbare de seară la apus."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Begin your morning with the calming sights of the coastal bays, enjoying the fresh sea breeze. Midday invites you to explore the fascinating historical castles that stand as silent guards over the landscape. In the afternoon, discover vibrant recreational beaches and local gathering spots along the shore. The evening concludes perfectly with tranquil sunset views from hidden coastal gems.",
+        "de": "Beginnen Sie Ihren Morgen mit dem beruhigenden Anblick der Buchten und der frischen Meeresbrise. Die Mittagszeit lädt ein, die faszinierenden historischen Burgen zu erkunden, die als Wachen dienen. Am Nachmittag entdecken Sie lebhafte Strände und lokale Treffpunkte entlang der Küste. Der Abend endet perfekt mit friedlichen Ausblicken auf den Sonnenuntergang von den Buchten.",
+        "hu": "Kezdje a reggelt a tengerparti öblök megnyugtató látványával és a friss tengeri szellővel. A dél a lenyűgöző történelmi kastélyok felfedezésére hív, amelyek némán őrzik a tájat. Délután fedezze fel a nyüzsgő strandokat és a part menti helyi találkozóhelyeket. Az estét tökéletesen zárják a rejtett tengerparti gyöngyszemekről nyíló, csendes naplementés kilátások és emlékek.",
+        "ro": "Începeți dimineața cu priveliștile liniștitoare ale golfurilor, bucurându-vă de briza proaspătă. La amiază sunteți invitați să explorați fascinantele castele istorice care veghează asupra peisajului. După-amiaza, descoperiți plajele de agrement vibrante și locurile de adunare locale de-a lungul coastei. Seara se încheie perfect cu apusuri liniștite din nestematele ascunse."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:56",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "en": "Molocha bay",
+            "de": "Molocha-Bucht",
+            "hu": "Molocha-öböl",
+            "ro": "Golful Molocha"
+          },
+          "coords": [
+            23.006487,
+            36.957094
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Marvel at the rugged beauty of Molocha bay and its calm, crystal-clear waters, which are perfect for a refreshing morning dip if you arrive early enough.",
+            "de": "Bestaunen Sie die schroffe Schönheit der Molocha-Bucht und ihr ruhiges, kristallklares Wasser, das sich perfekt für ein erfrischendes morgendliches Bad eignet.",
+            "hu": "Csodálja meg a Molocha-öböl zord szépségét és nyugodt, kristálytiszta vizét, amely tökéletes egy frissítő reggeli csobbanáshoz, ha elég korán érkezik.",
+            "ro": "Admirați frumusețea accidentată a golfului Molocha și apele sale calme și cristaline, care sunt perfecte pentru o baie răcoroasă de dimineață."
+          }
+        },
+        {
+          "name": {
+            "en": "Proto Avlaki",
+            "de": "Proto Avlaki",
+            "hu": "Proto Avlaki",
+            "ro": "Proto Avlaki"
+          },
+          "coords": [
+            22.996838,
+            36.966509
+          ],
+          "category": "recreational",
+          "arrive_at": "09:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.35,
+          "tip_5lang": {
+            "en": "Stroll along the tranquil coastline of Proto Avlaki, a wonderful recreational spot offering peaceful vistas, and don't forget your sunscreen and a wide-brimmed hat.",
+            "de": "Schlendern Sie an der ruhigen Küste von Proto Avlaki entlang, einem herrlichen Erholungsort mit friedlichen Ausblicken, und vergessen Sie nicht Ihre Sonnencreme.",
+            "hu": "Sétáljon végig Proto Avlaki békés partvonalán, egy csodálatos pihenőhelyen, és ne felejtse el a naptejet, valamint egy széles karimájú kalapot is hozni.",
+            "ro": "Plimbați-vă de-a lungul coastei liniștite a Proto Avlaki, un loc minunat de recreere cu priveliști pașnice, și nu uitați crema de protecție solară și o pălărie."
+          }
+        },
+        {
+          "name": {
+            "en": "Kalogria castle",
+            "de": "Burg Kalogria",
+            "hu": "Kalogria kastély",
+            "ro": "Castelul Kalogria"
+          },
+          "coords": [
+            22.995232,
+            36.968784
+          ],
+          "category": "castle",
+          "arrive_at": "10:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.29,
+          "tip_5lang": {
+            "en": "Explore the fascinating ruins of Kalogria castle, where history comes alive against a backdrop of the sea, making it an ideal spot for panoramic landscape photography.",
+            "de": "Erkunden Sie die faszinierenden Ruinen der Burg Kalogria, wo Geschichte vor der Kulisse des Meeres lebendig wird, ideal für Panorama-Landschaftsfotografie.",
+            "hu": "Fedezze fel a Kalogria kastély lenyűgöző romjait, ahol a történelem életre kel a tenger hátterében, így ez egy ideális helyszín panorámás tájfotózáshoz.",
+            "ro": "Explorați ruinele fascinante ale castelului Kalogria, unde istoria prinde viață pe fundalul mării, făcându-l un loc ideal pentru fotografia panoramică de peisaj."
+          }
+        },
+        {
+          "name": {
+            "en": "Kastraki",
+            "de": "Kastraki",
+            "hu": "Kastraki",
+            "ro": "Kastraki"
+          },
+          "coords": [
+            22.992051,
+            36.967959
+          ],
+          "category": "castle",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "en": "Discover the ancient fortifications of Kastraki, a remarkable historical castle that offers a glimpse into the region's defensive past, best visited with sturdy walking shoes.",
+            "de": "Entdecken Sie die alten Befestigungsanlagen von Kastraki, einer bemerkenswerten historischen Burg, die einen Einblick in die Verteidigungsgeschichte bietet.",
+            "hu": "Fedezze fel Kastraki ősi erődítményeit, egy figyelemre méltó történelmi kastélyt, amely bepillantást enged a régió védelmi múltjába, ideális egy masszív cipővel.",
+            "ro": "Descoperiți fortificațiile antice din Kastraki, un castel istoric remarcabil care oferă o privire în trecutul defensiv al regiunii, cel mai bine vizitat cu pantofi comozi."
+          }
+        },
+        {
+          "name": {
+            "en": "Megali Ammos",
+            "de": "Megali Ammos",
+            "hu": "Megali Ammos",
+            "ro": "Megali Ammos"
+          },
+          "coords": [
+            22.991189,
+            36.973356
+          ],
+          "category": "recreational",
+          "arrive_at": "13:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "en": "Enjoy the vast expanse of Megali Ammos, a pristine recreational stretch with inviting sands, making it highly recommended to bring your own towel for a comfortable rest.",
+            "de": "Genießen Sie die Weite von Megali Ammos, einem unberührten Erholungsgebiet mit einladendem Sand, für das Sie unbedingt Ihr eigenes Handtuch mitbringen sollten.",
+            "hu": "Élvezze a Megali Ammos hatalmas kiterjedését, egy érintetlen pihenőrészt, hívogató homokkal, ahol mindenképpen ajánlott saját törölközőt hozni a kényelmes pihenéshez.",
+            "ro": "Bucurați-vă de imensitatea Megali Ammos, o zonă de recreere curată cu nisip primitor, fiind foarte recomandat să vă aduceți propriul prosop pentru o odihnă plăcută."
+          }
+        },
+        {
+          "name": {
+            "en": "Agia Kyriaki",
+            "de": "Agia Kyriaki",
+            "hu": "Agia Kyriaki",
+            "ro": "Agia Kyriaki"
+          },
+          "coords": [
+            22.996727,
+            36.983766
+          ],
+          "category": "recreational",
+          "arrive_at": "14:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.25,
+          "tip_5lang": {
+            "en": "Experience the serene atmosphere of Agia Kyriaki, a picturesque recreational site framed by nature, where you can unwind and enjoy a peaceful afternoon picnic.",
+            "de": "Erleben Sie die ruhige Atmosphäre von Agia Kyriaki, einem malerischen, von der Natur umrahmten Erholungsort, an dem Sie sich bei einem Picknick entspannen können.",
+            "hu": "Tapasztalja meg Agia Kyriaki nyugodt atmoszféráját, amely egy festői, természet által körülvett pihenőhely, ahol kikapcsolódhat és élvezhet egy békés délutáni pikniket.",
+            "ro": "Experimentați atmosfera senină din Agia Kyriaki, un loc de recreere pitoresc înconjurat de natură, unde vă puteți relaxa și bucura de un picnic liniștit de după-amiază."
+          }
+        },
+        {
+          "name": {
+            "en": "Thyni",
+            "de": "Thyni",
+            "hu": "Thyni",
+            "ro": "Thyni"
+          },
+          "coords": [
+            22.999446,
+            36.985297
+          ],
+          "category": "recreational",
+          "arrive_at": "16:11",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.29,
+          "tip_5lang": {
+            "en": "Conclude your journey at Thyni, a secluded recreational haven that offers an intimate connection with nature; bringing some insect repellent will ensure your comfort here.",
+            "de": "Beenden Sie Ihre Reise in Thyni, einer abgelegenen Erholungsoase, die eine intime Verbindung zur Natur bietet; Insektenschutzmittel sorgt hier für Ihren Komfort.",
+            "hu": "Zárja utazását Thyniben, egy eldugott, rejtett pihenőhelyen, amely meghitt kapcsolatot kínál a természettel; hozzon szúnyogriasztót a maximális kényelem érdekében.",
+            "ro": "Încheiați-vă călătoria la Thyni, un refugiu retras care oferă o conexiune intimă cu natura; aducerea unui repelent de insecte vă va asigura confortul total aici."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Begin your morning with the calming sights of the coastal bays, enjoying the fresh sea breeze. Midday invites you to explore the fascinating historical castles that stand as silent guards over the landscape. In the afternoon, discover vibrant recreational beaches and local gathering spots along the shore. The evening concludes perfectly with tranquil sunset views from hidden coastal gems.",
+        "de": "Beginnen Sie Ihren Morgen mit dem beruhigenden Anblick der Buchten und der frischen Meeresbrise. Die Mittagszeit lädt ein, die faszinierenden historischen Burgen zu erkunden, die als Wachen dienen. Am Nachmittag entdecken Sie lebhafte Strände und lokale Treffpunkte entlang der Küste. Der Abend endet perfekt mit friedlichen Ausblicken auf den Sonnenuntergang von den Buchten.",
+        "hu": "Kezdje a reggelt a tengerparti öblök megnyugtató látványával és a friss tengeri szellővel. A dél a lenyűgöző történelmi kastélyok felfedezésére hív, amelyek némán őrzik a tájat. Délután fedezze fel a nyüzsgő strandokat és a part menti helyi találkozóhelyeket. Az estét tökéletesen zárják a rejtett tengerparti gyöngyszemekről nyíló, csendes naplementés kilátások és emlékek.",
+        "ro": "Începeți dimineața cu priveliștile liniștitoare ale golfurilor, bucurându-vă de briza proaspătă. La amiază sunteți invitați să explorați fascinantele castele istorice care veghează asupra peisajului. După-amiaza, descoperiți plajele de agrement vibrante și locurile de adunare locale de-a lungul coastei. Seara se încheie perfect cu apusuri liniștite din nestematele ascunse."
+      }
+    }
+  }
+}

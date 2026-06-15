@@ -1,0 +1,451 @@
+{
+  "city_id": "bourbon-lancy",
+  "anchor": {
+    "name": "Bourbon-Lancy",
+    "coords": [
+      3.7733,
+      46.6194
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:55",
+      "total_km": 0.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église du Sacré-Cœur",
+            "hu": "Église du Sacré-Cœur",
+            "ro": "Église du Sacré-Cœur",
+            "en": "Église du Sacré-Cœur"
+          },
+          "coords": [
+            3.774866,
+            46.619422
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante neugotische Architektur dieser schönen Kirche, die für ihre kunstvollen Buntglasfenster bekannt ist, und besuchen Sie sie am besten morgens wegen des Lichts.",
+            "hu": "Csodálja meg e gyönyörű templom lenyűgöző neogótikus építészetét és bonyolult ólomüveg ablakait, de mindenképpen a reggeli órákban érkezzen, amikor a fényviszonyok a legjobbak.",
+            "ro": "Admirați arhitectura neogotică impresionantă a acestei biserici frumoase, renumită pentru vitraliile sale complicate, și încercați să o vizitați dimineața, când lumina este optimă.",
+            "en": "Admire the striking neo-Gothic architecture of this beautiful church, renowned for its intricate stained glass windows, and try to visit during the morning when the light is best."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour du beffroi",
+            "hu": "Tour du beffroi",
+            "ro": "Tour du beffroi",
+            "en": "Tour du beffroi"
+          },
+          "coords": [
+            3.772747,
+            46.618791
+          ],
+          "category": "landmark",
+          "arrive_at": "09:53",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Blicken Sie auf diesen historischen mittelalterlichen Belfried, der einst die Stadt bewachte, ein wesentliches Stück lokales Erbe, für das Sie ein gutes Zoomobjektiv mitbringen sollten.",
+            "hu": "Pillantson fel erre a történelmi középkori harangtoronyra, amely egykor a várost őrizte, és hozzon magával egy jó zoomobjektívet, hogy megörökíthesse az óra apróbb részleteit.",
+            "ro": "Priviți acest turn clopotniță istoric medieval care păzea odată orașul, o piesă esențială de patrimoniu local, pentru care ar trebui să aduceți un obiectiv bun pentru detalii.",
+            "en": "Look up at this historic medieval belfry that once guarded the city, an essential piece of local heritage where you should bring a good zoom lens to capture the clock details."
+          }
+        },
+        {
+          "name": {
+            "de": "Château Puzenat",
+            "hu": "Château Puzenat",
+            "ro": "Château Puzenat",
+            "en": "Château Puzenat"
+          },
+          "coords": [
+            3.770909,
+            46.619413
+          ],
+          "category": "castle",
+          "arrive_at": "10:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses elegante Schloss aus dem 19. Jahrhundert inmitten üppiger Anlagen, das die Industriegeschichte der Region zeigt, und tragen Sie bequeme Schuhe für den Park.",
+            "hu": "Fedezze fel ezt az elegáns 19. századi kastélyt, amelyet buja park ölel körbe, bemutatva a régió ipari történelmét, és viseljen kényelmes cipőt a hatalmas terület bejárásához.",
+            "ro": "Explorați acest castel elegant din secolul al XIX-lea, înconjurat de terenuri luxuriante care prezintă istoria industrială, și purtați pantofi confortabili pentru a vă plimba prin parc.",
+            "en": "Explore this elegant 19th-century castle surrounded by lush grounds that showcase the industrial history of the region, and wear comfortable shoes to walk through the wide parkland."
+          }
+        },
+        {
+          "name": {
+            "de": "Thermes of Bourbon-Lancy",
+            "hu": "Thermes of Bourbon-Lancy",
+            "ro": "Thermes of Bourbon-Lancy",
+            "en": "Thermes of Bourbon-Lancy"
+          },
+          "coords": [
+            3.771228,
+            46.617765
+          ],
+          "category": "recreational",
+          "arrive_at": "11:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesen historischen Thermalbädern, deren Heilwasser seit der Römerzeit Besucher anzieht, und denken Sie daran, Ihre Wellnessbehandlung im Voraus zu buchen.",
+            "hu": "Töltődjön fel ezekben a történelmi termálfürdőkben, amelyek gyógyvize már a római kor óta vonzza a látogatókat, és ne felejtse el legalább néhány nappal előre lefoglalni a kezelést.",
+            "ro": "Relaxați-vă la aceste băi termale istorice unde apele vindecătoare au atras vizitatori încă din timpurile romane și amintiți-vă să rezervați tratamentul de wellness în avans.",
+            "en": "Unwind at these historic thermal baths where the healing waters have attracted visitors since Roman times, and remember to book your wellness treatment at least a few days in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Celt'o",
+            "hu": "Celt'o",
+            "ro": "Celt'o",
+            "en": "Celt'o"
+          },
+          "coords": [
+            3.768518,
+            46.618761
+          ],
+          "category": "family",
+          "arrive_at": "12:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Genießen Sie moderne Spa-Einrichtungen in diesem familienfreundlichen Wasserzentrum, das die alten Bäder perfekt ergänzt, aber bringen Sie unbedingt Ihr eigenes Handtuch und Badeschuhe mit.",
+            "hu": "Élvezze a modern wellness szolgáltatásokat ebben a családbarát vízi központban, amely tökéletes kiegészíti az ősi fürdőket, de a kényelem érdekében hozzon saját törölközőt és papucsot.",
+            "ro": "Bucurați-vă de facilitățile moderne de spa la acest centru acvatic prietenos cu familiile, care completează perfect băile antice, dar asigurați-vă că aduceți propriul prosop și șlapi.",
+            "en": "Enjoy modern spa facilities at this family-friendly aquatic center which perfectly complements the ancient baths, but be sure to bring your own towel and flip-flops for convenience."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Thermal",
+            "hu": "Parc Thermal",
+            "ro": "Parc Thermal",
+            "en": "Parc Thermal"
+          },
+          "coords": [
+            3.768901,
+            46.617771
+          ],
+          "category": "park",
+          "arrive_at": "14:10",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Machen Sie einen ruhigen Spaziergang durch diesen wunderschön angelegten Park, der als grünes Herz der Stadt dient, und holen Sie sich einen Kaffee, bevor Sie sich auf eine Bank setzen.",
+            "hu": "Tegyen egy békés sétát ebben a gyönyörűen parkosított kertben, amely a város zöld szíveként szolgál, és vegyen egy kávét egy közeli kávézóban, mielőtt találna egy csendes padot pihenni.",
+            "ro": "Faceți o plimbare liniștită prin acest parc frumos amenajat, care servește drept inima verde a orașului, și luați o cafea de la o cafenea din apropiere înainte de a găsi o bancă.",
+            "en": "Take a peaceful stroll through this beautifully landscaped park that serves as the green heart of the town, and grab a coffee from a nearby café before finding a quiet bench to relax."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit den zentralen Wahrzeichen und erkunden Sie die Église du Sacré-Cœur sowie den mittelalterlichen Tour du beffroi. Mittags lockt das weitläufige Gelände des Château Puzenat. Nachmittags stehen Wellness und Entspannung in den Thermalbädern und Celt'o im Fokus. Beenden Sie den Tag im üppigen Parc Thermal.",
+        "hu": "Kezdje a reggelt a központi nevezetességekkel, különös tekintettel a gyönyörű Église du Sacré-Cœur-re és a középkori Tour du beffroi-ra. Délben a Château Puzenat kiterjedt birtoka várja. Délután fókuszáljon a wellnessre és a pihenésre a termálfürdők és a Celt'o felfedezésével. Zárja a napot a buja Parc Thermal zöldjében.",
+        "ro": "Începeți dimineața explorând reperele centrale, axându-vă pe frumoasa Église du Sacré-Cœur și medievalul Tour du beffroi. La prânz, vizitați domeniul extins al Château Puzenat. După-amiaza, concentrați-vă pe wellness și relaxare explorând băile termale și Celt'o. Încheiați-vă ziua relaxându-vă în luxuriantul Parc Thermal.",
+        "en": "Start your morning exploring the central landmarks, focusing on the beautiful Église du Sacré-Cœur and the medieval Tour du beffroi. Midday brings you to the expansive grounds of Château Puzenat. In the afternoon, focus on wellness and relaxation by exploring the thermal baths and Celt'o. End your day unwinding in the lush Parc Thermal."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:28",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Tour du beffroi",
+            "hu": "Tour du beffroi",
+            "ro": "Tour du beffroi",
+            "en": "Tour du beffroi"
+          },
+          "coords": [
+            3.772747,
+            46.618791
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Blicken Sie auf diesen historischen mittelalterlichen Belfried, der einst die Stadt bewachte, ein wesentliches Stück lokales Erbe, für das Sie ein gutes Zoomobjektiv mitbringen sollten.",
+            "hu": "Pillantson fel erre a történelmi középkori harangtoronyra, amely egykor a várost őrizte, és hozzon magával egy jó zoomobjektívet, hogy megörökíthesse az óra apróbb részleteit.",
+            "ro": "Priviți acest turn clopotniță istoric medieval care păzea odată orașul, o piesă esențială de patrimoniu local, pentru care ar trebui să aduceți un obiectiv bun pentru detalii.",
+            "en": "Look up at this historic medieval belfry that once guarded the city, an essential piece of local heritage where you should bring a good zoom lens to capture the clock details."
+          }
+        },
+        {
+          "name": {
+            "de": "Église du Sacré-Cœur",
+            "hu": "Église du Sacré-Cœur",
+            "ro": "Église du Sacré-Cœur",
+            "en": "Église du Sacré-Cœur"
+          },
+          "coords": [
+            3.774866,
+            46.619422
+          ],
+          "category": "religious",
+          "arrive_at": "09:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante neugotische Architektur dieser schönen Kirche, die für ihre kunstvollen Buntglasfenster bekannt ist, und besuchen Sie sie am besten morgens wegen des Lichts.",
+            "hu": "Csodálja meg e gyönyörű templom lenyűgöző neogótikus építészetét és bonyolult ólomüveg ablakait, de mindenképpen a reggeli órákban érkezzen, amikor a fényviszonyok a legjobbak.",
+            "ro": "Admirați arhitectura neogotică impresionantă a acestei biserici frumoase, renumită pentru vitraliile sale complicate, și încercați să o vizitați dimineața, când lumina este optimă.",
+            "en": "Admire the striking neo-Gothic architecture of this beautiful church, renowned for its intricate stained glass windows, and try to visit during the morning when the light is best."
+          }
+        },
+        {
+          "name": {
+            "de": "Château Puzenat",
+            "hu": "Château Puzenat",
+            "ro": "Château Puzenat",
+            "en": "Château Puzenat"
+          },
+          "coords": [
+            3.770909,
+            46.619413
+          ],
+          "category": "castle",
+          "arrive_at": "10:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses elegante Schloss aus dem 19. Jahrhundert inmitten üppiger Anlagen, das die Industriegeschichte der Region zeigt, und tragen Sie bequeme Schuhe für den Park.",
+            "hu": "Fedezze fel ezt az elegáns 19. századi kastélyt, amelyet buja park ölel körbe, bemutatva a régió ipari történelmét, és viseljen kényelmes cipőt a hatalmas terület bejárásához.",
+            "ro": "Explorați acest castel elegant din secolul al XIX-lea, înconjurat de terenuri luxuriante care prezintă istoria industrială, și purtați pantofi confortabili pentru a vă plimba prin parc.",
+            "en": "Explore this elegant 19th-century castle surrounded by lush grounds that showcase the industrial history of the region, and wear comfortable shoes to walk through the wide parkland."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint Nazaire Church",
+            "hu": "Saint Nazaire Church",
+            "ro": "Saint Nazaire Church",
+            "en": "Saint Nazaire Church"
+          },
+          "coords": [
+            3.766304,
+            46.62097
+          ],
+          "category": "religious",
+          "arrive_at": "11:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.39,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese charmante romanische Kirche, die durch ihre bescheidene, aber tief spirituelle Atmosphäre besticht, und nehmen Sie sich Zeit für die alten Steinmetzarbeiten am Portal.",
+            "hu": "Fedezze fel ezt a bájos román stílusú templomot, amely szerény, de mélyen spirituális légkörével tűnik ki, és szánjon időt a főbejárat melletti ősi kőfaragások alapos megvizsgálására.",
+            "ro": "Descoperiți această fermecătoare biserică romanică care se remarcă prin atmosfera sa modestă, dar profund spirituală, și acordați-vă timp pentru a examina sculpturile antice în piatră.",
+            "en": "Discover this charming Romanesque church that stands out with its modest yet deeply spiritual atmosphere, and take time to examine the ancient stone carvings near the main entrance portal."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Thermal",
+            "hu": "Parc Thermal",
+            "ro": "Parc Thermal",
+            "en": "Parc Thermal"
+          },
+          "coords": [
+            3.768901,
+            46.617771
+          ],
+          "category": "park",
+          "arrive_at": "12:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.41,
+          "tip_5lang": {
+            "de": "Machen Sie einen ruhigen Spaziergang durch diesen wunderschön angelegten Park, der als grünes Herz der Stadt dient, und holen Sie sich einen Kaffee, bevor Sie sich auf eine Bank setzen.",
+            "hu": "Tegyen egy békés sétát ebben a gyönyörűen parkosított kertben, amely a város zöld szíveként szolgál, és vegyen egy kávét egy közeli kávézóban, mielőtt találna egy csendes padot pihenni.",
+            "ro": "Faceți o plimbare liniștită prin acest parc frumos amenajat, care servește drept inima verde a orașului, și luați o cafea de la o cafenea din apropiere înainte de a găsi o bancă.",
+            "en": "Take a peaceful stroll through this beautifully landscaped park that serves as the green heart of the town, and grab a coffee from a nearby café before finding a quiet bench to relax."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Vignault",
+            "hu": "Château de Vignault",
+            "ro": "Château de Vignault",
+            "en": "Château de Vignault"
+          },
+          "coords": [
+            3.762621,
+            46.600643
+          ],
+          "category": "castle",
+          "arrive_at": "13:38",
+          "stay_min": 110,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.96,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das malerische Anwesen des Château de Vignault, das einen Einblick in das ländliche Aristokratenleben bietet, und prüfen Sie den Zeitplan, da der Zugang begrenzt sein kann.",
+            "hu": "Csodálja meg a festői Château de Vignault birtokát, amely bepillantást enged az arisztokratikus vidéki életbe, és ellenőrizze a nyitvatartást, mivel a belső udvar korlátozottan látogatható.",
+            "ro": "Minunați-vă de pitoreasca proprietate Château de Vignault care oferă o privire asupra vieții rurale aristocratice și verificați programul, deoarece accesul în curte poate fi limitat.",
+            "en": "Marvel at the picturesque estate of Château de Vignault which offers a glimpse into aristocratic rural life, and check the local schedule as access to the inner courtyard may be limited."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie durch die Geschichte von Bourbon-Lancy, beginnend mit dem mittelalterlichen Turm und der neogotischen Kirche. Mittags fahren Sie um das Château Puzenat und die Saint Nazaire Kirche. Nachmittagsfahrten führen Sie durch das Grün des Parc Thermal. Beenden Sie den Tag mit einer Radtour zum Château de Vignault.",
+        "hu": "Kerekezzen végig Bourbon-Lancy történelmén, kezdve a középkori toronnyal és a nagyszerű neogótikus templommal. Délre tekerjen el a Château Puzenat és a Saint Nazaire templom körüli utakon. A délutáni túra a Parc Thermal zöldjén vezet át. Zárja a napot egy kellemes biciklizéssel a lenyűgöző Château de Vignault felé.",
+        "ro": "Ciclism prin istoria Bourbon-Lancy începând cu turnul medieval și măreața biserică neogotică. Până la prânz, pedalați pe aleile din jurul Château Puzenat și a Bisericii Saint Nazaire. Plimbările de după-amiază vă duc prin verdeața Parcului Termal. Încheiați ziua cu o plimbare plăcută spre impresionantul Château de Vignault.",
+        "en": "Cycle through Bourbon-Lancy's history starting with the medieval tower and the grand neo-Gothic church. By midday, pedal your way through the paths around Château Puzenat and Saint Nazaire Church. Afternoon rides will take you through the greenery of Parc Thermal. Conclude the day with a pleasant cycle to the impressive Château de Vignault."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Château Puzenat",
+            "hu": "Château Puzenat",
+            "ro": "Château Puzenat",
+            "en": "Château Puzenat"
+          },
+          "coords": [
+            3.770909,
+            46.619413
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses elegante Schloss aus dem 19. Jahrhundert inmitten üppiger Anlagen, das die Industriegeschichte der Region zeigt, und tragen Sie bequeme Schuhe für den Park.",
+            "hu": "Fedezze fel ezt az elegáns 19. századi kastélyt, amelyet buja park ölel körbe, bemutatva a régió ipari történelmét, és viseljen kényelmes cipőt a hatalmas terület bejárásához.",
+            "ro": "Explorați acest castel elegant din secolul al XIX-lea, înconjurat de terenuri luxuriante care prezintă istoria industrială, și purtați pantofi confortabili pentru a vă plimba prin parc.",
+            "en": "Explore this elegant 19th-century castle surrounded by lush grounds that showcase the industrial history of the region, and wear comfortable shoes to walk through the wide parkland."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint Nazaire Church",
+            "hu": "Saint Nazaire Church",
+            "ro": "Saint Nazaire Church",
+            "en": "Saint Nazaire Church"
+          },
+          "coords": [
+            3.766304,
+            46.62097
+          ],
+          "category": "religious",
+          "arrive_at": "10:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.39,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese charmante romanische Kirche, die durch ihre bescheidene, aber tief spirituelle Atmosphäre besticht, und nehmen Sie sich Zeit für die alten Steinmetzarbeiten am Portal.",
+            "hu": "Fedezze fel ezt a bájos román stílusú templomot, amely szerény, de mélyen spirituális légkörével tűnik ki, és szánjon időt a főbejárat melletti ősi kőfaragások alapos megvizsgálására.",
+            "ro": "Descoperiți această fermecătoare biserică romanică care se remarcă prin atmosfera sa modestă, dar profund spirituală, și acordați-vă timp pentru a examina sculpturile antice în piatră.",
+            "en": "Discover this charming Romanesque church that stands out with its modest yet deeply spiritual atmosphere, and take time to examine the ancient stone carvings near the main entrance portal."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Thermal",
+            "hu": "Parc Thermal",
+            "ro": "Parc Thermal",
+            "en": "Parc Thermal"
+          },
+          "coords": [
+            3.768901,
+            46.617771
+          ],
+          "category": "park",
+          "arrive_at": "11:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.41,
+          "tip_5lang": {
+            "de": "Machen Sie einen ruhigen Spaziergang durch diesen wunderschön angelegten Park, der als grünes Herz der Stadt dient, und holen Sie sich einen Kaffee, bevor Sie sich auf eine Bank setzen.",
+            "hu": "Tegyen egy békés sétát ebben a gyönyörűen parkosított kertben, amely a város zöld szíveként szolgál, és vegyen egy kávét egy közeli kávézóban, mielőtt találna egy csendes padot pihenni.",
+            "ro": "Faceți o plimbare liniștită prin acest parc frumos amenajat, care servește drept inima verde a orașului, și luați o cafea de la o cafenea din apropiere înainte de a găsi o bancă.",
+            "en": "Take a peaceful stroll through this beautifully landscaped park that serves as the green heart of the town, and grab a coffee from a nearby café before finding a quiet bench to relax."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Vignault",
+            "hu": "Château de Vignault",
+            "ro": "Château de Vignault",
+            "en": "Château de Vignault"
+          },
+          "coords": [
+            3.762621,
+            46.600643
+          ],
+          "category": "castle",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.96,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das malerische Anwesen des Château de Vignault, das einen Einblick in das ländliche Aristokratenleben bietet, und prüfen Sie den Zeitplan, da der Zugang begrenzt sein kann.",
+            "hu": "Csodálja meg a festői Château de Vignault birtokát, amely bepillantást enged az arisztokratikus vidéki életbe, és ellenőrizze a nyitvatartást, mivel a belső udvar korlátozottan látogatható.",
+            "ro": "Minunați-vă de pitoreasca proprietate Château de Vignault care oferă o privire asupra vieții rurale aristocratice și verificați programul, deoarece accesul în curte poate fi limitat.",
+            "en": "Marvel at the picturesque estate of Château de Vignault which offers a glimpse into aristocratic rural life, and check the local schedule as access to the inner courtyard may be limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Loire Sauvage",
+            "hu": "Loire Sauvage",
+            "ro": "Loire Sauvage",
+            "en": "Loire Sauvage"
+          },
+          "coords": [
+            3.737311,
+            46.611183
+          ],
+          "category": "natural",
+          "arrive_at": "14:00",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.24,
+          "tip_5lang": {
+            "de": "Atmen Sie die frische Luft an diesem unberührten Abschnitt der wilden Loire ein, ideal für Naturliebhaber, und bringen Sie ein Fernglas mit, wenn Sie verschiedene Vogelarten beobachten möchten.",
+            "hu": "Szívja magába a friss levegőt a vad Loire folyó ezen érintetlen szakaszán, amely tökéletes a természetkedvelők számára, és hozzon távcsövet a változatos helyi madárfajok megfigyeléséhez.",
+            "ro": "Respirați aerul proaspăt pe această porțiune virgină a râului sălbatic Loara, perfectă pentru iubitorii de natură, și aduceți binoclul dacă doriți să observați diversele specii de păsări.",
+            "en": "Breathe in the fresh air at this unspoiled stretch of the wild Loire river perfect for nature lovers, and bring a pair of binoculars if you want to spot the diverse local bird species."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie bequem und beginnen Sie den Tag am majestätischen Château Puzenat, um mehr über das lokale industrielle Erbe zu erfahren. Mittags geht es zur historischen Saint Nazaire Kirche und zu einem Spaziergang im Parc Thermal. Nachmittags fahren Sie zum aristokratischen Château de Vignault. Beenden Sie den Tag an der Loire Sauvage.",
+        "hu": "Autózzon kényelmesen és kezdje a napot a fenséges Château Puzenat-nál, megismerve a helyi ipari örökséget. A délidő lehetővé teszi a történelmi Saint Nazaire templom meglátogatását és egy pihentető sétát a Parc Thermal-ban. Délután látogasson el az arisztokratikus Château de Vignault-hoz. Fejezze be a napot a vad Loire Sauvage békés partján.",
+        "ro": "Conduceți confortabil pentru a începe ziua la maiestuosul Château Puzenat, învățând despre moștenirea industrială. Prânzul permite o oprire rapidă la istorica Biserică Saint Nazaire și o plimbare în Parc Thermal. După-amiaza, mergeți la aristocraticul Château de Vignault. Terminați itinerarul conectându-vă cu natura la senina Loire Sauvage.",
+        "en": "Drive comfortably to start your day at the majestic Château Puzenat, learning about local industrial heritage. Midday allows a quick hop to the historic Saint Nazaire Church and a relaxing stroll in Parc Thermal. In the afternoon, take a short drive to the aristocratic Château de Vignault. Finish the itinerary connecting with nature at the serene Loire Sauvage."
+      }
+    }
+  }
+}

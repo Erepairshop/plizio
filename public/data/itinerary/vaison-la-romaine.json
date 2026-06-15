@@ -1,0 +1,589 @@
+{
+  "city_id": "vaison-la-romaine",
+  "anchor": {
+    "name": "Vaison-la-Romaine",
+    "coords": [
+      5.075,
+      44.2408
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "20:36",
+      "total_km": 2.6,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Site de la Villasse",
+            "hu": "Site de la Villasse",
+            "ro": "Site de la Villasse",
+            "en": "Site de la Villasse"
+          },
+          "coords": [
+            5.07142,
+            44.241833
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die weitläufigen römischen Ruinen der Site de la Villasse und tragen Sie bequemes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel a Site de la Villasse kiterjedt római romjait, ősi utcáit és villáit, és viseljen kényelmes cipőt az egyenetlen terep miatt.",
+            "ro": "Explorați ruinele romane vaste de la Site de la Villasse, descoperind străzi antice și vile, și purtați încălțăminte confortabilă pentru terenul denivelat.",
+            "en": "Explore the extensive Roman ruins of Site de la Villasse, uncovering ancient streets and villas, and wear comfortable shoes for uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Cathédrale Notre-Dame-de-Nazareth",
+            "hu": "Cathédrale Notre-Dame-de-Nazareth",
+            "ro": "Catedrala Notre-Dame-de-Nazareth",
+            "en": "Cathédrale Notre-Dame-de-Nazareth"
+          },
+          "coords": [
+            5.068889,
+            44.241667
+          ],
+          "category": "religious",
+          "arrive_at": "10:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtige romanische Architektur dieser ruhigen Kathedrale aus dem 11. Jahrhundert und spazieren Sie durch den gut erhaltenen Kreuzgang.",
+            "hu": "Csodálja meg e békés, 11. századi katedrális pompás román stílusú építészetét, és tegyen egy sétát a gyönyörűen megőrzött kerengőben.",
+            "ro": "Admirați arhitectura romanică magnifică a acestei catedrale liniștite din secolul al XI-lea și faceți o plimbare prin curtea sa interioară perfect conservată.",
+            "en": "Admire the magnificent Romanesque architecture of this tranquil 11th-century cathedral, and take a moment to walk through its beautifully preserved cloister."
+          }
+        },
+        {
+          "name": {
+            "de": "Römerbrücke",
+            "hu": "Római Híd",
+            "ro": "Podul Roman",
+            "en": "Roman Bridge"
+          },
+          "coords": [
+            5.074666,
+            44.238917
+          ],
+          "category": "historical",
+          "arrive_at": "11:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Überqueren Sie die 2000 Jahre alte römische Brücke über die Ouvèze, die zahlreiche Überschwemmungen überstand, und fotografieren Sie vom Südufer aus.",
+            "hu": "Keljen át az Ouvèze folyón ívelő 2000 éves római hídon, amely számos árvizet túlélt, és fényképezzen a déli partról a legjobb szögért.",
+            "ro": "Traversați podul roman vechi de 2.000 de ani peste râul Ouvèze, care a supraviețuit multor inundații, și faceți fotografii de pe malul sudic pentru un unghi ideal.",
+            "en": "Cross the sturdy 2,000-year-old Roman Bridge spanning the Ouvèze river, which survived numerous floods, and snap photos from the southern bank for the best angle."
+          }
+        },
+        {
+          "name": {
+            "de": "Haute-Ville",
+            "hu": "Haute-Ville",
+            "ro": "Haute-Ville",
+            "en": "Haute-Ville"
+          },
+          "coords": [
+            5.074712,
+            44.238483
+          ],
+          "category": "historical",
+          "arrive_at": "12:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch den mittelalterlichen Charme der Haute-Ville mit ihren Kopfsteinpflastergassen, aber stellen Sie sich auf einen steilen Anstieg ein.",
+            "hu": "Sétáljon a Haute-Ville középkori, macskaköves sikátoraiban és kőházai között, de készüljön fel a hegyre vezető meredek kaptatóra.",
+            "ro": "Plimbați-vă prin farmecul medieval din Haute-Ville cu aleile sale pietruite, dar fiți pregătiți pentru o urcare abruptă pe deal.",
+            "en": "Wander through the medieval charm of the Haute-Ville with its cobbled alleys and stone houses, but be prepared for a steep climb up the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss der Grafen von Toulouse",
+            "hu": "Toulouse grófjainak kastélya",
+            "ro": "Castelul Conților de Toulouse",
+            "en": "Castle of the Counts of Toulouse"
+          },
+          "coords": [
+            5.07263,
+            44.23708
+          ],
+          "category": "fortress",
+          "arrive_at": "14:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Steigen Sie zu den Ruinen dieser Festung aus dem 12. Jahrhundert hinauf, um einen tollen Panoramablick zu genießen, und bringen Sie eine Windjacke mit.",
+            "hu": "Másszon fel ennek a 12. századi erődnek a romjaihoz a lenyűgöző körpanorámáért, és hozzon magával széldzsekit, mert a csúcson gyakran fúj a szél.",
+            "ro": "Urcați la ruinele acestei fortărețe din secolul al XII-lea pentru o vedere panoramică superbă și luați o jachetă de vânt, deoarece sus poate fi destul de răcoros.",
+            "en": "Climb up to the ruins of this 12th-century fortress for a commanding panoramic view over the region, and bring a windbreaker as the top can be quite breezy."
+          }
+        },
+        {
+          "name": {
+            "de": "Site du Puymin",
+            "hu": "Site du Puymin",
+            "ro": "Site du Puymin",
+            "en": "Site du Puymin"
+          },
+          "coords": [
+            5.075137,
+            44.24314
+          ],
+          "category": "historical",
+          "arrive_at": "15:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die archäologischen Schätze der Site du Puymin, wo einst wohlhabende Römer lebten, und kaufen Sie ein Kombiticket, um Geld zu sparen.",
+            "hu": "Fedezze fel a Site du Puymin régészeti kincseit, ahol egykor tehetős rómaiak éltek, és érdemes kombinált jegyet venni a kedvezőbb belépésért.",
+            "ro": "Descoperiți comorile arheologice de la Site du Puymin, unde trăiau cetățenii romani bogați, și achiziționați un bilet combinat pentru a economisi la intrare.",
+            "en": "Discover the archaeological treasures of Site du Puymin where wealthy Roman citizens once lived, and consider buying a combined pass to save on entry fees."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Théo Desplans",
+            "hu": "Théo Desplans Régészeti Múzeum",
+            "ro": "Muzeul Arheologic Théo Desplans",
+            "en": "Théo Desplans Archaeological Museum"
+          },
+          "coords": [
+            5.07414,
+            44.2417
+          ],
+          "category": "museum",
+          "arrive_at": "17:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie tiefer in die lokale Geschichte ein, indem Sie ausgegrabene Statuen betrachten, und nutzen Sie den informativen Audioguide an der Rezeption.",
+            "hu": "Merüljön el a helyi történelemben az itt kiásott szobrok és leletek révén, és kérjen egy hasznos audioguide-ot a recepción az alaposabb megértéshez.",
+            "ro": "Aprofundați istoria locală vizionând statuile și artefactele excavate aici și profitați de ghidul audio foarte informativ disponibil la recepție.",
+            "en": "Delve deeper into local history viewing statues and artifacts excavated nearby, and take advantage of the informative English audio guide available at the desk."
+          }
+        },
+        {
+          "name": {
+            "de": "Antikes Theater",
+            "hu": "Ókori Színház",
+            "ro": "Teatrul Antic",
+            "en": "Ancient Theater"
+          },
+          "coords": [
+            5.075367,
+            44.243708
+          ],
+          "category": "historical",
+          "arrive_at": "18:46",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Stehen Sie im prachtvoll restaurierten antiken Theater, das noch heute Sommeraufführungen beherbergt, und testen Sie die brillante Akustik von der Bühne aus.",
+            "hu": "Álljon be a gyönyörűen felújított ókori színházba, amely ma is nyári előadásoknak ad otthont, és próbálja ki a tökéletes akusztikát a színpad közepéről.",
+            "ro": "Stați în magnificul teatru antic restaurat care găzduiește și astăzi spectacole de vară și testați acustica excelentă chiar din centrul scenei.",
+            "en": "Stand inside the magnificent restored ancient theater which still hosts summer performances today, and test the brilliant acoustics from the center of the stage."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen auf den Spuren der Römer in der Site de la Villasse, bevor Sie die Kathedrale erkunden. Mittags überqueren Sie die römische Brücke zur malerischen Haute-Ville. Verbringen Sie den Nachmittag damit, die Burg zu besteigen und die Site du Puymin zu entdecken. Der Tag endet wunderbar mit einem Besuch des antiken Theaters bei Sonnenuntergang.",
+        "hu": "Kezdje a reggelt a rómaiak nyomdokain haladva a Site de la Villasse romjainál, majd fedezze fel a katedrálist. Délben a római hídon át a festői Haute-Ville-be érkezik. A délutánt a vár meghódításával és a lenyűgöző Site du Puymin felfedezésével töltheti. A nap csodálatosan zárul, amikor naplementekor megcsodálja a fenséges ókori színházat.",
+        "ro": "Începeți dimineața pe urmele romanilor la Site de la Villasse, înainte de a explora superba Catedrală. La prânz veți traversa vechiul pod roman spre pitorescul Haute-Ville. Petreceți-vă după-amiaza urcând la castel și descoperind impresionantul Site du Puymin. Ziua se încheie minunat cu o vizită la teatrul antic la apusul soarelui.",
+        "en": "Begin your morning tracing the footsteps of Romans at Site de la Villasse before exploring the magnificent Cathedral. Midday brings you across the resilient Roman Bridge into the picturesque Haute-Ville. Spend your afternoon scaling the castle heights and discovering the impressive Site du Puymin. The day concludes wonderfully with a visit to the ancient theater at sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:56",
+      "total_km": 3.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Cathédrale Notre-Dame-de-Nazareth",
+            "hu": "Cathédrale Notre-Dame-de-Nazareth",
+            "ro": "Catedrala Notre-Dame-de-Nazareth",
+            "en": "Cathédrale Notre-Dame-de-Nazareth"
+          },
+          "coords": [
+            5.068889,
+            44.241667
+          ],
+          "category": "religious",
+          "arrive_at": "09:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtige romanische Architektur dieser ruhigen Kathedrale aus dem 11. Jahrhundert und spazieren Sie durch den gut erhaltenen Kreuzgang.",
+            "hu": "Csodálja meg e békés, 11. századi katedrális pompás román stílusú építészetét, és tegyen egy sétát a gyönyörűen megőrzött kerengőben.",
+            "ro": "Admirați arhitectura romanică magnifică a acestei catedrale liniștite din secolul al XI-lea și faceți o plimbare prin curtea sa interioară perfect conservată.",
+            "en": "Admire the magnificent Romanesque architecture of this tranquil 11th-century cathedral, and take a moment to walk through its beautifully preserved cloister."
+          }
+        },
+        {
+          "name": {
+            "de": "Site de la Villasse",
+            "hu": "Site de la Villasse",
+            "ro": "Site de la Villasse",
+            "en": "Site de la Villasse"
+          },
+          "coords": [
+            5.07142,
+            44.241833
+          ],
+          "category": "historical",
+          "arrive_at": "10:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die weitläufigen römischen Ruinen der Site de la Villasse und tragen Sie bequemes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel a Site de la Villasse kiterjedt római romjait, ősi utcáit és villáit, és viseljen kényelmes cipőt az egyenetlen terep miatt.",
+            "ro": "Explorați ruinele romane vaste de la Site de la Villasse, descoperind străzi antice și vile, și purtați încălțăminte confortabilă pentru terenul denivelat.",
+            "en": "Explore the extensive Roman ruins of Site de la Villasse, uncovering ancient streets and villas, and wear comfortable shoes for uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Römerbrücke",
+            "hu": "Római Híd",
+            "ro": "Podul Roman",
+            "en": "Roman Bridge"
+          },
+          "coords": [
+            5.074666,
+            44.238917
+          ],
+          "category": "historical",
+          "arrive_at": "11:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Überqueren Sie die 2000 Jahre alte römische Brücke über die Ouvèze, die zahlreiche Überschwemmungen überstand, und fotografieren Sie vom Südufer aus.",
+            "hu": "Keljen át az Ouvèze folyón ívelő 2000 éves római hídon, amely számos árvizet túlélt, és fényképezzen a déli partról a legjobb szögért.",
+            "ro": "Traversați podul roman vechi de 2.000 de ani peste râul Ouvèze, care a supraviețuit multor inundații, și faceți fotografii de pe malul sudic pentru un unghi ideal.",
+            "en": "Cross the sturdy 2,000-year-old Roman Bridge spanning the Ouvèze river, which survived numerous floods, and snap photos from the southern bank for the best angle."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss der Grafen von Toulouse",
+            "hu": "Toulouse grófjainak kastélya",
+            "ro": "Castelul Conților de Toulouse",
+            "en": "Castle of the Counts of Toulouse"
+          },
+          "coords": [
+            5.07263,
+            44.23708
+          ],
+          "category": "fortress",
+          "arrive_at": "13:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Steigen Sie zu den Ruinen dieser Festung aus dem 12. Jahrhundert hinauf, um einen tollen Panoramablick zu genießen, und bringen Sie eine Windjacke mit.",
+            "hu": "Másszon fel ennek a 12. századi erődnek a romjaihoz a lenyűgöző körpanorámáért, és hozzon magával széldzsekit, mert a csúcson gyakran fúj a szél.",
+            "ro": "Urcați la ruinele acestei fortărețe din secolul al XII-lea pentru o vedere panoramică superbă și luați o jachetă de vânt, deoarece sus poate fi destul de răcoros.",
+            "en": "Climb up to the ruins of this 12th-century fortress for a commanding panoramic view over the region, and bring a windbreaker as the top can be quite breezy."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Théo Desplans",
+            "hu": "Théo Desplans Régészeti Múzeum",
+            "ro": "Muzeul Arheologic Théo Desplans",
+            "en": "Théo Desplans Archaeological Museum"
+          },
+          "coords": [
+            5.07414,
+            44.2417
+          ],
+          "category": "museum",
+          "arrive_at": "14:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie tiefer in die lokale Geschichte ein, indem Sie ausgegrabene Statuen betrachten, und nutzen Sie den informativen Audioguide an der Rezeption.",
+            "hu": "Merüljön el a helyi történelemben az itt kiásott szobrok és leletek révén, és kérjen egy hasznos audioguide-ot a recepción az alaposabb megértéshez.",
+            "ro": "Aprofundați istoria locală vizionând statuile și artefactele excavate aici și profitați de ghidul audio foarte informativ disponibil la recepție.",
+            "en": "Delve deeper into local history viewing statues and artifacts excavated nearby, and take advantage of the informative English audio guide available at the desk."
+          }
+        },
+        {
+          "name": {
+            "de": "Antikes Theater",
+            "hu": "Ókori Színház",
+            "ro": "Teatrul Antic",
+            "en": "Ancient Theater"
+          },
+          "coords": [
+            5.075367,
+            44.243708
+          ],
+          "category": "historical",
+          "arrive_at": "16:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Stehen Sie im prachtvoll restaurierten antiken Theater, das noch heute Sommeraufführungen beherbergt, und testen Sie die brillante Akustik von der Bühne aus.",
+            "hu": "Álljon be a gyönyörűen felújított ókori színházba, amely ma is nyári előadásoknak ad otthont, és próbálja ki a tökéletes akusztikát a színpad közepéről.",
+            "ro": "Stați în magnificul teatru antic restaurat care găzduiește și astăzi spectacole de vară și testați acustica excelentă chiar din centrul scenei.",
+            "en": "Stand inside the magnificent restored ancient theater which still hosts summer performances today, and test the brilliant acoustics from the center of the stage."
+          }
+        },
+        {
+          "name": {
+            "de": "Square André Noharet",
+            "hu": "Square André Noharet",
+            "ro": "Square André Noharet",
+            "en": "Square André Noharet"
+          },
+          "coords": [
+            5.072301,
+            44.243913
+          ],
+          "category": "family",
+          "arrive_at": "17:39",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf diesem hübschen, von Bäumen gesäumten Platz im Zentrum und holen Sie sich ein Gebäck aus einer nahegelegenen Bäckerei.",
+            "hu": "Pihenjen meg egy rövid időre ezen a kellemes, fás téren a városközpontban, amely tökéletes hely egy közeli pékségből vett sütemény elfogyasztására.",
+            "ro": "Relaxați-vă într-o pauză liniștită în această piațetă plăcută, mărginită de copaci, locul perfect pentru a savura o patiserie luată de la o brutărie din apropiere.",
+            "en": "Relax and enjoy a quiet break in this pleasant tree-lined square in the center of town, perfect for grabbing a quick pastry from a nearby bakery to enjoy outdoors."
+          }
+        },
+        {
+          "name": {
+            "de": "Minigolf du Théos",
+            "hu": "Minigolf du Théos",
+            "ro": "Minigolf du Théos",
+            "en": "Minigolf du Théos"
+          },
+          "coords": [
+            5.059523,
+            44.237899
+          ],
+          "category": "family",
+          "arrive_at": "18:11",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Haben Sie Spaß mit der ganzen Familie auf dieser gepflegten Minigolfanlage am Fluss und besuchen Sie sie am späten Nachmittag, um die Mittagssonne zu meiden.",
+            "hu": "Szórakozzon egy jót a családdal ezen a folyóparti, gondozott minigolf pályán, és érdemes a késő délutáni órákban érkezni a tűző nap elkerülése végett.",
+            "ro": "Distrați-vă cu întreaga familie la acest teren de minigolf bine întreținut de lângă râu și veniți după-amiaza târziu pentru a evita soarele intens de la prânz.",
+            "en": "Have some fun with the whole family at this well-maintained minigolf course near the river, and visit during the late afternoon to avoid the intense midday sun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihr Radabenteuer an der Kathedrale, bevor Sie die weitläufigen Ruinen der Site de la Villasse durchqueren. Mittags radeln Sie über die römische Brücke und genießen die Aussicht an der Burg. Der Nachmittag ist perfekt, um das antike Museum und Theater zu erkunden. Genießen Sie abends eine entspannte Fahrt zu einer lustigen Runde Minigolf am Fluss.",
+        "hu": "Kezdje kerékpáros kalandját a történelmi katedrálisnál, mielőtt áttekerne a Site de la Villasse római romjain. Dél körül hajtson át az ikonikus római hídon, és pihenjen meg a várnál. A délután tökéletes az ókori múzeum és a színház felfedezésére. Végül élvezze a pihentető esti tekerést egy vidám minigolfozás felé a folyó közelében.",
+        "ro": "Începeți aventura pe bicicletă la Catedrala istorică, înainte de a pedala prin ruinele de la Site de la Villasse. Pe la prânz, treceți peste podul roman și faceți o pauză la castel. După-amiaza este perfectă pentru a explora muzeul și teatrul antic. În cele din urmă, bucurați-vă de o plimbare relaxantă spre un minigolf distractiv lângă râu.",
+        "en": "Start your cycling adventure at the historic Cathedral before riding through the extensive Roman ruins of Site de la Villasse. Around midday, pedal across the iconic Roman Bridge and pause for the views at the castle. The afternoon is perfect for exploring the ancient museum and theater. Finally, enjoy a relaxing evening ride towards a fun round of minigolf near the river."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:20",
+      "total_km": 10.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Site de la Villasse",
+            "hu": "Site de la Villasse",
+            "ro": "Site de la Villasse",
+            "en": "Site de la Villasse"
+          },
+          "coords": [
+            5.07142,
+            44.241833
+          ],
+          "category": "historical",
+          "arrive_at": "09:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die weitläufigen römischen Ruinen der Site de la Villasse und tragen Sie bequemes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel a Site de la Villasse kiterjedt római romjait, ősi utcáit és villáit, és viseljen kényelmes cipőt az egyenetlen terep miatt.",
+            "ro": "Explorați ruinele romane vaste de la Site de la Villasse, descoperind străzi antice și vile, și purtați încălțăminte confortabilă pentru terenul denivelat.",
+            "en": "Explore the extensive Roman ruins of Site de la Villasse, uncovering ancient streets and villas, and wear comfortable shoes for uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Site du Puymin",
+            "hu": "Site du Puymin",
+            "ro": "Site du Puymin",
+            "en": "Site du Puymin"
+          },
+          "coords": [
+            5.075137,
+            44.24314
+          ],
+          "category": "historical",
+          "arrive_at": "10:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die archäologischen Schätze der Site du Puymin, wo einst wohlhabende Römer lebten, und kaufen Sie ein Kombiticket, um Geld zu sparen.",
+            "hu": "Fedezze fel a Site du Puymin régészeti kincseit, ahol egykor tehetős rómaiak éltek, és érdemes kombinált jegyet venni a kedvezőbb belépésért.",
+            "ro": "Descoperiți comorile arheologice de la Site du Puymin, unde trăiau cetățenii romani bogați, și achiziționați un bilet combinat pentru a economisi la intrare.",
+            "en": "Discover the archaeological treasures of Site du Puymin where wealthy Roman citizens once lived, and consider buying a combined pass to save on entry fees."
+          }
+        },
+        {
+          "name": {
+            "de": "Antikes Theater",
+            "hu": "Ókori Színház",
+            "ro": "Teatrul Antic",
+            "en": "Ancient Theater"
+          },
+          "coords": [
+            5.075367,
+            44.243708
+          ],
+          "category": "historical",
+          "arrive_at": "11:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Stehen Sie im prachtvoll restaurierten antiken Theater, das noch heute Sommeraufführungen beherbergt, und testen Sie die brillante Akustik von der Bühne aus.",
+            "hu": "Álljon be a gyönyörűen felújított ókori színházba, amely ma is nyári előadásoknak ad otthont, és próbálja ki a tökéletes akusztikát a színpad közepéről.",
+            "ro": "Stați în magnificul teatru antic restaurat care găzduiește și astăzi spectacole de vară și testați acustica excelentă chiar din centrul scenei.",
+            "en": "Stand inside the magnificent restored ancient theater which still hosts summer performances today, and test the brilliant acoustics from the center of the stage."
+          }
+        },
+        {
+          "name": {
+            "de": "Römerbrücke",
+            "hu": "Római Híd",
+            "ro": "Podul Roman",
+            "en": "Roman Bridge"
+          },
+          "coords": [
+            5.074666,
+            44.238917
+          ],
+          "category": "historical",
+          "arrive_at": "13:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Überqueren Sie die 2000 Jahre alte römische Brücke über die Ouvèze, die zahlreiche Überschwemmungen überstand, und fotografieren Sie vom Südufer aus.",
+            "hu": "Keljen át az Ouvèze folyón ívelő 2000 éves római hídon, amely számos árvizet túlélt, és fényképezzen a déli partról a legjobb szögért.",
+            "ro": "Traversați podul roman vechi de 2.000 de ani peste râul Ouvèze, care a supraviețuit multor inundații, și faceți fotografii de pe malul sudic pentru un unghi ideal.",
+            "en": "Cross the sturdy 2,000-year-old Roman Bridge spanning the Ouvèze river, which survived numerous floods, and snap photos from the southern bank for the best angle."
+          }
+        },
+        {
+          "name": {
+            "de": "Château du Crestet",
+            "hu": "Château du Crestet",
+            "ro": "Château du Crestet",
+            "en": "Château du Crestet"
+          },
+          "coords": [
+            5.083767,
+            44.217402
+          ],
+          "category": "castle",
+          "arrive_at": "14:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese imposante historische Burg, die von viel Grün umgeben ist, und fahren Sie vorsichtig auf der schmalen, kurvenreichen Zufahrtsstraße.",
+            "hu": "Látogasson el ehhez a zöldellő növényzettel és lenyűgöző kilátással övezett, impozáns történelmi kastélyhoz, de vezessen óvatosan a kanyargós bekötőúton.",
+            "ro": "Aventurați-vă spre acest castel istoric impunător, înconjurat de verdeață, și conduceți cu prudență pe drumul de acces îngust și sinuos.",
+            "en": "Venture out to this imposing historic castle surrounded by lush greenery and sweeping vistas, and drive carefully along the narrow, winding approach road."
+          }
+        },
+        {
+          "name": {
+            "de": "Cote Lavande",
+            "hu": "Cote Lavande",
+            "ro": "Cote Lavande",
+            "en": "Cote Lavande"
+          },
+          "coords": [
+            5.088243,
+            44.22524
+          ],
+          "category": "family",
+          "arrive_at": "16:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die duftenden Lavendelfelder, kaufen Sie handwerkliche Produkte und denken Sie daran, zwischen Mitte Juni und Juli zur Hauptblütezeit zu kommen.",
+            "hu": "Merüljön el a helyi levendulamezők illatában és színeiben, vásároljon kézműves termékeket, de a teljes virágzásért június közepe és július között érdemes jönni.",
+            "ro": "Cufundați-vă în câmpurile parfumate de lavandă, cumpărați produse artizanale și rețineți să vizitați între mijlocul lui iunie și iulie pentru a prinde înflorirea.",
+            "en": "Immerse yourself in the fragrant, colorful fields of local lavender and pick up some artisanal products, but remember to visit between mid-June and July for full bloom."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac des Palivettes",
+            "hu": "Lac des Palivettes",
+            "ro": "Lac des Palivettes",
+            "en": "Lac des Palivettes"
+          },
+          "coords": [
+            5.128973,
+            44.179829
+          ],
+          "category": "natural",
+          "arrive_at": "17:35",
+          "stay_min": 105,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an diesem friedlichen See ausklingen, wo Sie am Ufer spazieren können, und vergessen Sie nicht, ein natürliches Mückenschutzmittel einzupacken.",
+            "hu": "Zárja a napot ennél a békés tónál, ahol a vízparton sétálhat vagy élvezheti a természetet, és ne felejtsen el természetes szúnyogriasztót csomagolni.",
+            "ro": "Încheiați-vă ziua la acest lac liniștit, unde vă puteți plimba pe mal, și nu uitați să luați cu dumneavoastră un spray natural împotriva țânțarilor.",
+            "en": "Wind down your day at this peaceful lake where you can stroll along the water's edge or simply enjoy nature, and don't forget to pack a natural mosquito repellent."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie direkt ins Herz der Antike und beginnen Sie Ihren Morgen an den römischen Stätten Villasse und Puymin. Mittags geht es am antiken Theater vorbei und über die historische Brücke. Verlassen Sie nachmittags das Zentrum, um das majestätische Château du Crestet und die Lavendelfelder zu besuchen. Beenden Sie Ihren Roadtrip entspannt an einem friedlichen See.",
+        "hu": "Autózzon egyenesen az ókor szívébe, és kezdje a reggelt Villasse és Puymin lenyűgöző római helyszínein. Délben haladjon el a látványos ókori színház és a történelmi híd mellett. Délután hagyja el a belvárost, hogy meglátogassa a fenséges Château du Crestet-t és a színes levendulamezőket. Zárja festői autós kirándulását egy békés tóparton pihenve.",
+        "ro": "Conduceți direct în inima antichității, începând dimineața la siturile romane Villasse și Puymin. La prânz veți trece pe lângă teatrul antic și peste podul istoric. După-amiaza, ieșiți din centrul orașului pentru a vizita maiestuosul Château du Crestet și câmpurile de lavandă. Încheiați-vă excursia pitorească relaxându-vă lângă un lac liniștit.",
+        "en": "Drive directly to the heart of antiquity, starting your morning at the captivating Roman sites of Villasse and Puymin. Midday takes you past the spectacular ancient theater and over the historic bridge. In the afternoon, leave the town center to visit the majestic Château du Crestet and colorful lavender fields. Conclude your picturesque road trip relaxing by a peaceful lake."
+      }
+    }
+  }
+}

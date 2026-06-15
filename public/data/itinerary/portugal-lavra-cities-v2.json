@@ -1,0 +1,497 @@
+{
+  "city_id": "portugal-lavra-cities-v2",
+  "anchor": {
+    "name": "Lavra",
+    "coords": [
+      -8.7169,
+      41.25948
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:19",
+      "total_km": 2.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Auditório de Lavra",
+            "hu": "Auditório de Lavra",
+            "ro": "Auditório de Lavra",
+            "en": "Auditório de Lavra"
+          },
+          "coords": [
+            -8.718049,
+            41.25953
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie moderne kulturelle Darbietungen im zentralen Auditorium von Lavra, wo die lokale Kunst aufblüht, aber kommen Sie früh für die besten Plätze.",
+            "hu": "Élvezze a modern kulturális előadásokat Lavra központi auditóriumában, ahol a helyi művészet virágzik, de érkezzen korán a legjobb esti helyekért.",
+            "ro": "Bucurați-vă de spectacole culturale moderne la auditoriul central din Lavra, unde artele locale înfloresc, dar veniți devreme pentru cele mai bune locuri.",
+            "en": "Enjoy modern cultural performances at Lavra's central auditorium, where local arts thrive, but arrive early to secure the best seats for the evening shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Funtão",
+            "hu": "Praia do Funtão",
+            "ro": "Praia do Funtão",
+            "en": "Praia do Funtão"
+          },
+          "coords": [
+            -8.723917,
+            41.256058
+          ],
+          "category": "recreational",
+          "arrive_at": "10:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sand der Praia do Funtão, einem perfekten Küstenort für Familien, und bringen Sie eine Windjacke für windige Nachmittage mit.",
+            "hu": "Pihenjen a Praia do Funtão aranyhomokján, amely tökéletes tengerparti menedék a családoknak, és hozzon magával széldzsekit a szeles délutánokra.",
+            "ro": "Relaxați-vă pe nisipurile aurii de la Praia do Funtão, o evadare perfectă pe coastă pentru familii, și aduceți o geacă de vânt pentru după-amiezele răcoroase.",
+            "en": "Relax on the golden sands of Praia do Funtão, a perfect coastal escape for families, and bring a windbreaker to stay comfortable during breezy afternoons."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Fischsalztanks",
+            "hu": "Római halsózó medencék",
+            "ro": "Bazine romane de sărare a peștelui",
+            "en": "Roman Fish Salting Tanks"
+          },
+          "coords": [
+            -8.724802,
+            41.261167
+          ],
+          "category": "historical",
+          "arrive_at": "11:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie antike römische Fischsalztanks an der felsigen Küste, die einen Einblick in die maritime Geschichte bieten, am besten bei Ebbe erkundet.",
+            "hu": "Fedezze fel az ősi római halsózó medencéket a sziklás partvonal mentén, amelyek bepillantást engednek a tengeri történelembe, legjobb apálykor látogatni.",
+            "ro": "Descoperiți vechile bazine romane de sărare a peștelui de pe coasta stâncoasă, care oferă o privire în istoria maritimă, ideal de explorat la reflux.",
+            "en": "Discover ancient Roman fish salting tanks scattered along the rocky shoreline, offering a glimpse into maritime history, best explored during low tide."
+          }
+        },
+        {
+          "name": {
+            "de": "Conjunto de tanques cavados nos rochedos da Praia de Angeiras",
+            "hu": "Conjunto de tanques cavados nos rochedos da Praia de Angeiras",
+            "ro": "Conjunto de tanques cavados nos rochedos da Praia de Angeiras",
+            "en": "Conjunto de tanques cavados nos rochedos da Praia de Angeiras"
+          },
+          "coords": [
+            -8.727419,
+            41.265795
+          ],
+          "category": "historical",
+          "arrive_at": "13:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese unglaublichen, in den Fels gehauenen Tanks am Strand von Angeiras, Zeugnisse der antiken Fischerei, und tragen Sie festes Schuhwerk.",
+            "hu": "Csodálja meg ezeket a sziklába vájt medencéket az Angeiras strandon, amelyek az ősi halászatot mutatják be, és viseljen masszív cipőt a sziklákon.",
+            "ro": "Admirați aceste bazine incredibile săpate în stâncă pe plaja Angeiras, dezvăluind pescuitul antic, și purtați încălțăminte robustă pe stâncile alunecoase.",
+            "en": "Marvel at these incredible rock-carved tanks at Angeiras Beach, revealing ancient local fishing industries, and wear sturdy shoes for walking on the rocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Angeiras Norte",
+            "hu": "Praia de Angeiras Norte",
+            "ro": "Praia de Angeiras Norte",
+            "en": "Praia de Angeiras Norte"
+          },
+          "coords": [
+            -8.726933,
+            41.267653
+          ],
+          "category": "recreational",
+          "arrive_at": "14:34",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie am nördlichen Abschnitt des Strandes von Angeiras, um den Fischern beim Einholen des Fangs zuzusehen, und vergessen Sie Ihre Kamera nicht.",
+            "hu": "Sétáljon végig az Angeiras strand északi szakaszán, ahol a helyi halászok hozzák be a napi fogást, és ne felejtse el a fényképezőgépét a látványhoz.",
+            "ro": "Plimbați-vă pe secțiunea nordică a plajei Angeiras pentru a vedea pescarii locali aducând captura zilnică și nu uitați aparatul foto pentru priveliști.",
+            "en": "Stroll along the vibrant northern section of Angeiras Beach to watch local fishermen haul in their daily catch, and don't forget your camera for stunning views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Wanderung im Herzen von Lavra am zentralen Auditorium, bevor Sie sich auf den Weg zur erfrischenden Küstenbrise machen. Der Mittag führt Sie zum goldenen Sand der Praia do Funtão. Ihr Nachmittag ist von Geschichte geprägt, während Sie faszinierende antike römische Salzanlagen entdecken. Beenden Sie Ihren gemütlichen Spaziergang entspannt am nördlichen Strand von Angeiras.",
+        "hu": "Kezdje a gyalogos túrát Lavra szívében a központi auditóriumnál, mielőtt a frissítő tengerparti szellő felé venné az irányt. Délben a Praia do Funtão aranyhomokján pihenhet. A délután a történelemről szól, miközben lenyűgöző ősi római halsózó medencéket fedez fel a sziklás partok mentén. Fejezze be a kényelmes sétát az Angeiras Norte partszakaszon, élvezve az óceán csodás látványát.",
+        "ro": "Începeți călătoria pe jos în inima orașului Lavra la auditoriul central, înainte de a vă îndrepta spre briza răcoroasă a coastei. Amiaza vă aduce pe nisipurile aurii ale Praia do Funtão. După-amiaza este plină de istorie, descoperind fascinantele bazine antice romane de sărare a peștelui împrăștiate pe țărmurile stâncoase. Încheiați plimbarea liniștit de-a lungul plajei Angeiras Norte.",
+        "en": "Begin your walking journey in the heart of Lavra at the central auditorium before making your way towards the refreshing coastal breezes. Midday brings you to the golden sands of Praia do Funtão, leading gently up the coastline. Your afternoon is steeped in history as you uncover fascinating ancient Roman salting tanks scattered across the rocky shores. End your stroll along Angeiras Norte."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:19",
+      "total_km": 2.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Auditório de Lavra",
+            "hu": "Auditório de Lavra",
+            "ro": "Auditório de Lavra",
+            "en": "Auditório de Lavra"
+          },
+          "coords": [
+            -8.718049,
+            41.25953
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie moderne kulturelle Darbietungen im zentralen Auditorium von Lavra, wo die lokale Kunst aufblüht, aber kommen Sie früh für die besten Plätze.",
+            "hu": "Élvezze a modern kulturális előadásokat Lavra központi auditóriumában, ahol a helyi művészet virágzik, de érkezzen korán a legjobb esti helyekért.",
+            "ro": "Bucurați-vă de spectacole culturale moderne la auditoriul central din Lavra, unde artele locale înfloresc, dar veniți devreme pentru cele mai bune locuri.",
+            "en": "Enjoy modern cultural performances at Lavra's central auditorium, where local arts thrive, but arrive early to secure the best seats for the evening shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Funtão",
+            "hu": "Praia do Funtão",
+            "ro": "Praia do Funtão",
+            "en": "Praia do Funtão"
+          },
+          "coords": [
+            -8.723917,
+            41.256058
+          ],
+          "category": "recreational",
+          "arrive_at": "10:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sand der Praia do Funtão, einem perfekten Küstenort für Familien, und bringen Sie eine Windjacke für windige Nachmittage mit.",
+            "hu": "Pihenjen a Praia do Funtão aranyhomokján, amely tökéletes tengerparti menedék a családoknak, és hozzon magával széldzsekit a szeles délutánokra.",
+            "ro": "Relaxați-vă pe nisipurile aurii de la Praia do Funtão, o evadare perfectă pe coastă pentru familii, și aduceți o geacă de vânt pentru după-amiezele răcoroase.",
+            "en": "Relax on the golden sands of Praia do Funtão, a perfect coastal escape for families, and bring a windbreaker to stay comfortable during breezy afternoons."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Fischsalztanks",
+            "hu": "Római halsózó medencék",
+            "ro": "Bazine romane de sărare a peștelui",
+            "en": "Roman Fish Salting Tanks"
+          },
+          "coords": [
+            -8.724802,
+            41.261167
+          ],
+          "category": "historical",
+          "arrive_at": "11:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie antike römische Fischsalztanks an der felsigen Küste, die einen Einblick in die maritime Geschichte bieten, am besten bei Ebbe erkundet.",
+            "hu": "Fedezze fel az ősi római halsózó medencéket a sziklás partvonal mentén, amelyek bepillantást engednek a tengeri történelembe, legjobb apálykor látogatni.",
+            "ro": "Descoperiți vechile bazine romane de sărare a peștelui de pe coasta stâncoasă, care oferă o privire în istoria maritimă, ideal de explorat la reflux.",
+            "en": "Discover ancient Roman fish salting tanks scattered along the rocky shoreline, offering a glimpse into maritime history, best explored during low tide."
+          }
+        },
+        {
+          "name": {
+            "de": "Conjunto de tanques cavados nos rochedos da Praia de Angeiras",
+            "hu": "Conjunto de tanques cavados nos rochedos da Praia de Angeiras",
+            "ro": "Conjunto de tanques cavados nos rochedos da Praia de Angeiras",
+            "en": "Conjunto de tanques cavados nos rochedos da Praia de Angeiras"
+          },
+          "coords": [
+            -8.727419,
+            41.265795
+          ],
+          "category": "historical",
+          "arrive_at": "12:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese unglaublichen, in den Fels gehauenen Tanks am Strand von Angeiras, Zeugnisse der antiken Fischerei, und tragen Sie festes Schuhwerk.",
+            "hu": "Csodálja meg ezeket a sziklába vájt medencéket az Angeiras strandon, amelyek az ősi halászatot mutatják be, és viseljen masszív cipőt a sziklákon.",
+            "ro": "Admirați aceste bazine incredibile săpate în stâncă pe plaja Angeiras, dezvăluind pescuitul antic, și purtați încălțăminte robustă pe stâncile alunecoase.",
+            "en": "Marvel at these incredible rock-carved tanks at Angeiras Beach, revealing ancient local fishing industries, and wear sturdy shoes for walking on the rocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Angeiras Norte",
+            "hu": "Praia de Angeiras Norte",
+            "ro": "Praia de Angeiras Norte",
+            "en": "Praia de Angeiras Norte"
+          },
+          "coords": [
+            -8.726933,
+            41.267653
+          ],
+          "category": "recreational",
+          "arrive_at": "14:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie am nördlichen Abschnitt des Strandes von Angeiras, um den Fischern beim Einholen des Fangs zuzusehen, und vergessen Sie Ihre Kamera nicht.",
+            "hu": "Sétáljon végig az Angeiras strand északi szakaszán, ahol a helyi halászok hozzák be a napi fogást, és ne felejtse el a fényképezőgépét a látványhoz.",
+            "ro": "Plimbați-vă pe secțiunea nordică a plajei Angeiras pentru a vedea pescarii locali aducând captura zilnică și nu uitați aparatul foto pentru priveliști.",
+            "en": "Stroll along the vibrant northern section of Angeiras Beach to watch local fishermen haul in their daily catch, and don't forget your camera for stunning views."
+          }
+        },
+        {
+          "name": {
+            "de": "Devil's Den Beast Exhibition",
+            "hu": "Devil's Den Beast Kiállítás",
+            "ro": "Expoziția Devil's Den Beast",
+            "en": "Devil's Den Beast Exhibition"
+          },
+          "coords": [
+            -8.72653,
+            41.272622
+          ],
+          "category": "cultural",
+          "arrive_at": "15:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Betreten Sie die skurrile Devil's Den Beast Exhibition, um besondere Kunstwerke und mythische Ausstellungen zu bewundern; fragen Sie nach den Legenden.",
+            "hu": "Lépjen be a furcsa Devil's Den Beast Kiállításra, hogy különleges művészeti alkotásokat és mitikus tárlatokat csodáljon meg, és kérdezze a kurátort.",
+            "ro": "Pășiți în excentrica Expoziție Devil's Den Beast pentru a admira creații artistice ciudate și exponate mitice, și asigurați-vă că întrebați de legende.",
+            "en": "Step into the quirky Devil's Den Beast Exhibition to admire peculiar artistic creations and mythical displays, making sure to ask the curator about the lore."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Labruge",
+            "hu": "Praia de Labruge",
+            "ro": "Praia de Labruge",
+            "en": "Praia de Labruge"
+          },
+          "coords": [
+            -8.728173,
+            41.272707
+          ],
+          "category": "recreational",
+          "arrive_at": "16:34",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entspannen Sie an der Praia de Labruge, bekannt für unberührte Dünen und Holzstege, und nehmen Sie sich Zeit für einen ruhigen Sonnenuntergangsspaziergang.",
+            "hu": "Pihenjen meg a Praia de Labruge-n, amely érintetlen dűnéiről és fa sétányairól ismert, és élvezze a csendes naplementét a nyüzsgő tömegtől távol.",
+            "ro": "Relaxați-vă la Praia de Labruge, renumită pentru dunele sale imaculate și trotuarele de lemn, făcând o plimbare liniștită la apus, departe de aglomerație.",
+            "en": "Unwind at Praia de Labruge, renowned for its pristine dunes and wooden boardwalks, taking time to enjoy a quiet sunset walk away from the bustling crowds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am Kulturzentrum von Lavra und radeln Sie schnell zu den einladenden Südstränden. Gegen Mittag folgen Sie den malerischen Küstenpfaden von Praia do Funtão zu den bemerkenswerten römischen Ruinen. Die nachmittägliche Fahrt offenbart weitere in Fels gehauene Geschichte und die skurrile Devil's Den Ausstellung. Beenden Sie Ihr Radabenteuer mit einem Sonnenuntergang in Labruge.",
+        "hu": "Kezdje a tekerést Lavra kulturális központjából a hívogató déli strandok felé. Délben kövesse a Praia do Funtão-t a figyelemre méltó római romokkal összekötő festői parti utakat. A délutáni túra további sziklába vájt történelmi emlékeket és a furcsa Devil's Den kiállítást fedi fel. Fejezze be kerékpáros kalandját egy békés naplementével a gyönyörű Praia de Labruge strand homokdűnéinél.",
+        "ro": "Începeți să pedalați de la centrul cultural, îndreptându-vă rapid spre plajele primitoare. La amiază, urmați cărările de coastă pitorești care leagă Praia do Funtão de ruinele romane remarcabile. Călătoria de după-amiază descoperă mai multă istorie săpată în stâncă și expoziția excentrică Devil's Den. Încheiați aventura cu o priveliște liniștită la apus pe frumoasa Praia de Labruge.",
+        "en": "Start pedaling from Lavra's cultural center, swiftly riding towards the inviting southern beaches. As midday approaches, follow the scenic coastal paths connecting Praia do Funtão to the remarkable Roman ruins. The afternoon ride uncovers more rock-carved history and the quirky Devil's Den exhibition. Conclude your cycling adventure with a peaceful sunset view at the beautiful Praia de Labruge."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 7.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "ARCA - Associação Recreativa e Cultural de Aveleda",
+            "hu": "ARCA - Associação Recreativa e Cultural de Aveleda",
+            "ro": "ARCA - Associação Recreativa e Cultural de Aveleda",
+            "en": "ARCA - Associação Recreativa e Cultural de Aveleda"
+          },
+          "coords": [
+            -8.695542,
+            41.268403
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Engagieren Sie sich in der lebendigen Gemeinde bei ARCA, einem Kulturzentrum mit diversen Veranstaltungen, und prüfen Sie vorab den Zeitplan für Feste.",
+            "hu": "Ismerje meg a nyüzsgő helyi közösséget az ARCA kulturális központban, és előzetesen ellenőrizze a programjukat, hogy elcsípjen egy hagyományos fesztivált.",
+            "ro": "Interacționați cu comunitatea locală vibrantă la ARCA, un centru cultural cu evenimente diverse, și verificați programul pentru a prinde un festival.",
+            "en": "Engage with the vibrant local community at ARCA, a cultural hub hosting diverse events, and check their schedule ahead of time to catch a traditional festival."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditório de Lavra",
+            "hu": "Auditório de Lavra",
+            "ro": "Auditório de Lavra",
+            "en": "Auditório de Lavra"
+          },
+          "coords": [
+            -8.718049,
+            41.25953
+          ],
+          "category": "cultural",
+          "arrive_at": "10:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Genießen Sie moderne kulturelle Darbietungen im zentralen Auditorium von Lavra, wo die lokale Kunst aufblüht, aber kommen Sie früh für die besten Plätze.",
+            "hu": "Élvezze a modern kulturális előadásokat Lavra központi auditóriumában, ahol a helyi művészet virágzik, de érkezzen korán a legjobb esti helyekért.",
+            "ro": "Bucurați-vă de spectacole culturale moderne la auditoriul central din Lavra, unde artele locale înfloresc, dar veniți devreme pentru cele mai bune locuri.",
+            "en": "Enjoy modern cultural performances at Lavra's central auditorium, where local arts thrive, but arrive early to secure the best seats for the evening shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia Pedras da Agudela",
+            "hu": "Praia Pedras da Agudela",
+            "ro": "Praia Pedras da Agudela",
+            "en": "Praia Pedras da Agudela"
+          },
+          "coords": [
+            -8.726771,
+            41.241581
+          ],
+          "category": "recreational",
+          "arrive_at": "11:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die einzigartigen geologischen Felsformationen der Praia Pedras da Agudela, ideal für Gezeitentümpel, also bringen Sie wasserfeste Schuhe mit.",
+            "hu": "Fedezze fel a Praia Pedras da Agudela egyedi geológiai sziklaformációit, amely festői és ideális árapály-medencékhez, így hozzon vízálló cipőt.",
+            "ro": "Explorați formațiunile geologice unice de la Praia Pedras da Agudela, un loc pitoresc ideal pentru observarea bazinelor lăsate de maree la reflux.",
+            "en": "Explore the unique geological rock formations of Praia Pedras da Agudela, a scenic spot ideal for tide-pooling, so bring a small net and waterproof shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Funtão",
+            "hu": "Praia do Funtão",
+            "ro": "Praia do Funtão",
+            "en": "Praia do Funtão"
+          },
+          "coords": [
+            -8.723917,
+            41.256058
+          ],
+          "category": "recreational",
+          "arrive_at": "12:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sand der Praia do Funtão, einem perfekten Küstenort für Familien, und bringen Sie eine Windjacke für windige Nachmittage mit.",
+            "hu": "Pihenjen a Praia do Funtão aranyhomokján, amely tökéletes tengerparti menedék a családoknak, és hozzon magával széldzsekit a szeles délutánokra.",
+            "ro": "Relaxați-vă pe nisipurile aurii de la Praia do Funtão, o evadare perfectă pe coastă pentru familii, și aduceți o geacă de vânt pentru după-amiezele răcoroase.",
+            "en": "Relax on the golden sands of Praia do Funtão, a perfect coastal escape for families, and bring a windbreaker to stay comfortable during breezy afternoons."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Fischsalztanks",
+            "hu": "Római halsózó medencék",
+            "ro": "Bazine romane de sărare a peștelui",
+            "en": "Roman Fish Salting Tanks"
+          },
+          "coords": [
+            -8.724802,
+            41.261167
+          ],
+          "category": "historical",
+          "arrive_at": "13:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie antike römische Fischsalztanks an der felsigen Küste, die einen Einblick in die maritime Geschichte bieten, am besten bei Ebbe erkundet.",
+            "hu": "Fedezze fel az ősi római halsózó medencéket a sziklás partvonal mentén, amelyek bepillantást engednek a tengeri történelembe, legjobb apálykor látogatni.",
+            "ro": "Descoperiți vechile bazine romane de sărare a peștelui de pe coasta stâncoasă, care oferă o privire în istoria maritimă, ideal de explorat la reflux.",
+            "en": "Discover ancient Roman fish salting tanks scattered along the rocky shoreline, offering a glimpse into maritime history, best explored during low tide."
+          }
+        },
+        {
+          "name": {
+            "de": "Conjunto de tanques cavados nos rochedos da Praia de Angeiras",
+            "hu": "Conjunto de tanques cavados nos rochedos da Praia de Angeiras",
+            "ro": "Conjunto de tanques cavados nos rochedos da Praia de Angeiras",
+            "en": "Conjunto de tanques cavados nos rochedos da Praia de Angeiras"
+          },
+          "coords": [
+            -8.727419,
+            41.265795
+          ],
+          "category": "historical",
+          "arrive_at": "15:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese unglaublichen, in den Fels gehauenen Tanks am Strand von Angeiras, Zeugnisse der antiken Fischerei, und tragen Sie festes Schuhwerk.",
+            "hu": "Csodálja meg ezeket a sziklába vájt medencéket az Angeiras strandon, amelyek az ősi halászatot mutatják be, és viseljen masszív cipőt a sziklákon.",
+            "ro": "Admirați aceste bazine incredibile săpate în stâncă pe plaja Angeiras, dezvăluind pescuitul antic, și purtați încălțăminte robustă pe stâncile alunecoase.",
+            "en": "Marvel at these incredible rock-carved tanks at Angeiras Beach, revealing ancient local fishing industries, and wear sturdy shoes for walking on the rocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Devil's Den Beast Exhibition",
+            "hu": "Devil's Den Beast Kiállítás",
+            "ro": "Expoziția Devil's Den Beast",
+            "en": "Devil's Den Beast Exhibition"
+          },
+          "coords": [
+            -8.72653,
+            41.272622
+          ],
+          "category": "cultural",
+          "arrive_at": "16:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Betreten Sie die skurrile Devil's Den Beast Exhibition, um besondere Kunstwerke und mythische Ausstellungen zu bewundern; fragen Sie nach den Legenden.",
+            "hu": "Lépjen be a furcsa Devil's Den Beast Kiállításra, hogy különleges művészeti alkotásokat és mitikus tárlatokat csodáljon meg, és kérdezze a kurátort.",
+            "ro": "Pășiți în excentrica Expoziție Devil's Den Beast pentru a admira creații artistice ciudate și exponate mitice, și asigurați-vă că întrebați de legende.",
+            "en": "Step into the quirky Devil's Den Beast Exhibition to admire peculiar artistic creations and mythical displays, making sure to ask the curator about the lore."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt im Landesinneren bei der lebhaften ARCA Kulturvereinigung, bevor es ins Zentrum von Lavra geht. Mittags fahren Sie zu den geologischen Wundern der Praia Pedras da Agudela und entlang der Sandküste. Der Nachmittag ist der Erkundung des antiken römischen Erbes an den felsigen Ufern gewidmet. Beenden Sie den Tag, indem Sie die Kunst der Devil's Den Ausstellung bewundern.",
+        "hu": "Az autós túra a szárazföld belsejében, a nyüzsgő ARCA kulturális egyesületnél kezdődik, mielőtt Lavra központjába hajtana. Délben a Praia Pedras da Agudela geológiai csodáihoz gurul. A délután az ősi római örökségek felfedezésének van szentelve, amelyek a sziklás partok mentén szóródtak szét. Zárja a napot a különleges Devil's Den kiállítás lenyűgöző mitikus alkotásainak megtekintésével.",
+        "ro": "Turul auto începe cu asociația culturală plină de viață ARCA, înainte de a vă îndrepta spre centrul orașului Lavra. La amiază, veți ajunge la minunile geologice de la Praia Pedras da Agudela și veți explora coasta nisipoasă. După-amiaza este dedicată explorării siturilor de patrimoniu roman antic de-a lungul țărmurilor stâncoase. Încheiați ziua admirând expoziția inedită Devil's Den.",
+        "en": "Your driving tour starts inland at the lively ARCA cultural association before heading into Lavra's main town center. By midday, you'll be cruising down to the geological wonders of Praia Pedras da Agudela and hopping along the sandy coastline. The afternoon is dedicated to exploring ancient Roman heritage sites scattered along the rocky shores. Finish the day marveling at the Devil's Den."
+      }
+    }
+  }
+}

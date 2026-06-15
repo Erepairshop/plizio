@@ -1,0 +1,451 @@
+{
+  "city_id": "italy-san-foca-cities-v2",
+  "anchor": {
+    "name": "San Foca",
+    "coords": [
+      18.40379,
+      40.30186
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 1.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mora Mora Beach",
+            "hu": "Mora Mora Beach",
+            "ro": "Mora Mora Beach",
+            "en": "Mora Mora Beach"
+          },
+          "coords": [
+            18.395256,
+            40.308989
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den unberührten goldenen Sand an diesem ruhigen Strand, der sich perfekt zur morgendlichen Entspannung eignet, aber kommen Sie früh, um sich einen guten Platz zu sichern.",
+            "hu": "Élvezze az érintetlen aranyhomokot ezen a nyugodt strandon, amely tökéletes a reggeli kikapcsolódáshoz, de érkezzen korán, hogy jó helyet biztosítson magának a víz közelében.",
+            "ro": "Bucurați-vă de nisipul auriu impecabil la această plajă liniștită, perfectă pentru relaxarea de dimineață, dar ajungeți devreme pentru a prinde un loc excelent lângă apă.",
+            "en": "Enjoy the pristine golden sands at this tranquil beach, perfect for morning relaxation, but arrive early to secure a prime spot near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Solemar",
+            "hu": "Lido Solemar",
+            "ro": "Lido Solemar",
+            "en": "Lido Solemar"
+          },
+          "coords": [
+            18.401534,
+            40.303625
+          ],
+          "category": "recreational",
+          "arrive_at": "10:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in das klare blaue Wasser dieses familienfreundlichen Küstenabschnitts mit seinen sanften Wellen und mieten Sie sich für maximalen Komfort eine Sonnenliege.",
+            "hu": "Merüljön el ennek a családbarát tengerparti szakasznak a tiszta kék vizében, amely szelíd hullámairól ismert, és a maximális kényelem érdekében béreljen napágyat.",
+            "ro": "Scufundați-vă în apele albastre limpezi ale acestei porțiuni de coastă pentru familii, cunoscută pentru valurile sale blânde, și închiriați un șezlong pentru confort maxim.",
+            "en": "Dive into the clear blue waters of this family-friendly coastal stretch, known for its gentle waves, and consider renting a sunbed for maximum comfort."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Mamalù",
+            "hu": "Lido Mamalù",
+            "ro": "Lido Mamalù",
+            "en": "Lido Mamalù"
+          },
+          "coords": [
+            18.402736,
+            40.303338
+          ],
+          "category": "recreational",
+          "arrive_at": "11:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Strandatmosphäre mit den vielen Einheimischen, was diesen Ort ideal zur Beobachtung der Leute macht, während Sie am Kiosk einen Espresso trinken.",
+            "hu": "Tapasztalja meg a nyüzsgő tengerparti hangulatot a helyiek körében, ami kiválóan alkalmas az emberek megfigyelésére, miközben iszik egy gyors eszpresszót a közeli kioszkban.",
+            "ro": "Experimentați atmosfera vibrantă de pe litoral cu mulțimile locale pline de viață, fiind un loc minunat pentru a privi oamenii în timp ce beți un espresso la chioșcul din apropiere.",
+            "en": "Experience the vibrant seaside atmosphere with lively local crowds, making it a great spot for people-watching while grabbing a quick espresso at the nearby kiosk."
+          }
+        },
+        {
+          "name": {
+            "de": "Eurogarden Beach",
+            "hu": "Eurogarden Beach",
+            "ro": "Eurogarden Beach",
+            "en": "Eurogarden Beach"
+          },
+          "coords": [
+            18.403707,
+            40.303273
+          ],
+          "category": "recreational",
+          "arrive_at": "13:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Schlendern Sie an dieser gepflegten Küste entlang, die Besuchern hervorragende Einrichtungen bietet, und bringen Sie Ihre Schnorchelausrüstung mit, um die Felsen zu erkunden.",
+            "hu": "Sétáljon végig ezen a jól karbantartott partszakaszon, amely kiváló felszereltséget kínál a látogatóknak, ezért hozzon magával búvárfelszerelést a sziklás részek felfedezéséhez.",
+            "ro": "Plimbați-vă de-a lungul acestei coaste bine întreținute, care oferă facilități excelente, așa că aduceți-vă echipamentul de snorkeling pentru a explora aflorimentele stâncoase.",
+            "en": "Stroll along this well-maintained shoreline that offers excellent facilities for visitors, so bring your snorkeling gear to explore the gentle rocky outcrops."
+          }
+        },
+        {
+          "name": {
+            "de": "Li Marangi",
+            "hu": "Li Marangi",
+            "ro": "Li Marangi",
+            "en": "Li Marangi"
+          },
+          "coords": [
+            18.409273,
+            40.29826
+          ],
+          "category": "recreational",
+          "arrive_at": "14:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an dieser malerischen, von natürlicher Vegetation gesäumten Bucht, die eine wunderbare Fotokulisse bietet, aber tragen Sie feste Wasserschuhe für die Kieselsteine.",
+            "hu": "Pihenjen ebben a természetes növényzettel szegélyezett, festői öbölben, amely lenyűgöző hátteret biztosít a fotókhoz, de a kavicsok miatt mindenképpen viseljen masszív vízi cipőt.",
+            "ro": "Relaxați-vă în acest golf pitoresc mărginit de vegetație naturală, creând un fundal superb pentru fotografii, doar asigurați-vă că purtați încălțăminte de apă robustă pentru pietricele.",
+            "en": "Relax at this picturesque cove bordered by natural vegetation, creating a scenic backdrop for photos, just be sure to wear sturdy water shoes for the pebbles."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Solero",
+            "hu": "Lido Solero",
+            "ro": "Lido Solero",
+            "en": "Lido Solero"
+          },
+          "coords": [
+            18.410816,
+            40.297595
+          ],
+          "category": "recreational",
+          "arrive_at": "15:54",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem beliebten Erholungsgebiet, das die typische apulische Sommerstimmung einfängt, und probieren Sie unbedingt das lokale Gelato der Verkäufer an der Promenade.",
+            "hu": "Kapcsolódjon ki ezen a népszerű üdülőterületen, amely megragadja a hamisítatlan pugliai nyári hangulatot, és ne hagyja ki a helyi fagylalt megkóstolását a vízparti árusoktól.",
+            "ro": "Destindeți-vă în această zonă de agrement populară care surprinde atmosfera estivală tipic apuliană și nu ratați să gustați gelato-ul local de la vânzătorii de pe faleză.",
+            "en": "Unwind in this popular recreational area that captures the quintessential Apulian summer vibe, and don't miss trying the local gelato from the waterfront vendors."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einem erfrischenden Spaziergang zum Strand Mora Mora und genießen Sie die frühe Sonne und die ruhige Atmosphäre. Mittags schlendern Sie an den lebhaften Abschnitten von Lido Solemar und Mamalù vorbei und tauchen in die apulische Küstenkultur ein. Am Nachmittag erkunden Sie den gepflegten Sand von Eurogarden und die felsigen Ränder von Li Marangi. Beenden Sie Ihren Tag am Lido Solero und genießen Sie die Wärme des späten Nachmittags mit einem leckeren Gelato in der Hand.",
+        "hu": "Kezdje a reggelt egy frissítő sétával a Mora Mora strandra, élvezve a korai napsütést és a nyugodt tengerparti hangulatot. Délben sétáljon el a Lido Solemar és a Mamalù nyüzsgő szakaszai mellett, elmerülve a pezsgő pugliai tengerparti kultúrában. Délután fedezze fel az Eurogarden gondozott homokját és a Li Marangi festői sziklás széleit. Zárja a napot a Lido Soleron, és egy finom fagylalttal a kezében élvezze a késő délutáni melegséget a parton.",
+        "ro": "Începeți dimineața cu o plimbare revigorantă până la plaja Mora Mora, bucurându-vă de soarele timpuriu și de atmosfera liniștită de coastă. La prânz, plimbați-vă pe lângă secțiunile pline de viață de la Lido Solemar și Mamalù, scufundându-vă în cultura vibrantă de pe litoralul apulian. După-amiaza, explorați nisipul bine întreținut de la Eurogarden și marginile stâncoase pitorești de la Li Marangi. Încheiați ziua la Lido Solero, savurând căldura după-amiezii cu o înghețată delicioasă.",
+        "en": "Start your morning with a refreshing walk to Mora Mora Beach, enjoying the early sun and tranquil coastal atmosphere as the town awakens. By midday, wander past the lively stretches of Lido Solemar and Mamalù, immersing yourself in the vibrant Apulian seaside culture. In the afternoon, explore the well-kept sands of Eurogarden and the scenic rocky borders of Li Marangi for a varied beach experience. Conclude your day at Lido Solero, soaking in the late afternoon warmth with a satisfying gelato in hand."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:35",
+      "total_km": 2.65,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mora Mora Beach",
+            "hu": "Mora Mora Beach",
+            "ro": "Mora Mora Beach",
+            "en": "Mora Mora Beach"
+          },
+          "coords": [
+            18.395256,
+            40.308989
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den unberührten goldenen Sand an diesem ruhigen Strand, der sich perfekt zur morgendlichen Entspannung eignet, aber kommen Sie früh, um sich einen guten Platz zu sichern.",
+            "hu": "Élvezze az érintetlen aranyhomokot ezen a nyugodt strandon, amely tökéletes a reggeli kikapcsolódáshoz, de érkezzen korán, hogy jó helyet biztosítson magának a víz közelében.",
+            "ro": "Bucurați-vă de nisipul auriu impecabil la această plajă liniștită, perfectă pentru relaxarea de dimineață, dar ajungeți devreme pentru a prinde un loc excelent lângă apă.",
+            "en": "Enjoy the pristine golden sands at this tranquil beach, perfect for morning relaxation, but arrive early to secure a prime spot near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Mamalù",
+            "hu": "Lido Mamalù",
+            "ro": "Lido Mamalù",
+            "en": "Lido Mamalù"
+          },
+          "coords": [
+            18.402736,
+            40.303338
+          ],
+          "category": "recreational",
+          "arrive_at": "10:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Strandatmosphäre mit den vielen Einheimischen, was diesen Ort ideal zur Beobachtung der Leute macht, während Sie am Kiosk einen Espresso trinken.",
+            "hu": "Tapasztalja meg a nyüzsgő tengerparti hangulatot a helyiek körében, ami kiválóan alkalmas az emberek megfigyelésére, miközben iszik egy gyors eszpresszót a közeli kioszkban.",
+            "ro": "Experimentați atmosfera vibrantă de pe litoral cu mulțimile locale pline de viață, fiind un loc minunat pentru a privi oamenii în timp ce beți un espresso la chioșcul din apropiere.",
+            "en": "Experience the vibrant seaside atmosphere with lively local crowds, making it a great spot for people-watching while grabbing a quick espresso at the nearby kiosk."
+          }
+        },
+        {
+          "name": {
+            "de": "Li Marangi",
+            "hu": "Li Marangi",
+            "ro": "Li Marangi",
+            "en": "Li Marangi"
+          },
+          "coords": [
+            18.409273,
+            40.29826
+          ],
+          "category": "recreational",
+          "arrive_at": "11:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an dieser malerischen, von natürlicher Vegetation gesäumten Bucht, die eine wunderbare Fotokulisse bietet, aber tragen Sie feste Wasserschuhe für die Kieselsteine.",
+            "hu": "Pihenjen ebben a természetes növényzettel szegélyezett, festői öbölben, amely lenyűgöző hátteret biztosít a fotókhoz, de a kavicsok miatt mindenképpen viseljen masszív vízi cipőt.",
+            "ro": "Relaxați-vă în acest golf pitoresc mărginit de vegetație naturală, creând un fundal superb pentru fotografii, doar asigurați-vă că purtați încălțăminte de apă robustă pentru pietricele.",
+            "en": "Relax at this picturesque cove bordered by natural vegetation, creating a scenic backdrop for photos, just be sure to wear sturdy water shoes for the pebbles."
+          }
+        },
+        {
+          "name": {
+            "de": "Coiba",
+            "hu": "Coiba",
+            "ro": "Coiba",
+            "en": "Coiba"
+          },
+          "coords": [
+            18.414935,
+            40.296484
+          ],
+          "category": "recreational",
+          "arrive_at": "13:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses versteckte Strandjuwel, das für seine ruhige Umgebung abseits der Massen bekannt ist, weshalb es sich anbietet, ein gutes Buch und ein Lunchpaket mitzubringen.",
+            "hu": "Fedezze fel ezt a rejtett tengerparti gyöngyszemet, amely a tömegektől távoli, békés környezetéről ismert, így ideális hely ahhoz, hogy hozzon egy jó könyvet és egy csomagolt ebédet.",
+            "ro": "Descoperiți această bijuterie ascunsă de plajă, cunoscută pentru mediul său liniștit, departe de aglomerație, fiind ideală pentru a aduce o carte bună și un prânz la pachet pentru după-amiază.",
+            "en": "Discover this hidden gem of a beach known for its serene environment away from the crowds, making it ideal to bring a good book and a packed lunch for the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Kum",
+            "hu": "Kum",
+            "ro": "Kum",
+            "en": "Kum"
+          },
+          "coords": [
+            18.419053,
+            40.295218
+          ],
+          "category": "recreational",
+          "arrive_at": "14:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten Küstenformationen an diesem charmanten Uferplatz, der eine erfrischende Brise bietet, und denken Sie an ausreichend Sonnencreme, da der Schatten hier begrenzt ist.",
+            "hu": "Csodálja meg a lenyűgöző part menti képződményeket ezen a bájos, frissítő szellőket kínáló vízparti helyen, és ne felejtsen el sok naptejet használni, mivel az árnyék korlátozott.",
+            "ro": "Admirați formațiunile de coastă impresionante în acest loc fermecător pe malul apei care oferă brize răcoroase și amintiți-vă să aplicați multă cremă de protecție solară, deoarece umbra este limitată.",
+            "en": "Admire the striking coastal formations at this charming waterfront spot that offers refreshing breezes, and remember to apply plenty of sunscreen as shade is limited here."
+          }
+        },
+        {
+          "name": {
+            "de": "Punta Soap Beach",
+            "hu": "Punta Soap Beach",
+            "ro": "Punta Soap Beach",
+            "en": "Punta Soap Beach"
+          },
+          "coords": [
+            18.420664,
+            40.29526
+          ],
+          "category": "landmark",
+          "arrive_at": "15:40",
+          "stay_min": 55,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie dieses markante geografische Wahrzeichen, an dem raue Klippen auf die Adria treffen und wo es spektakuläre Sonnenuntergänge gibt, also bringen Sie Ihre Kamera mit.",
+            "hu": "Csodálja meg ezt a lenyűgöző földrajzi nevezetességet, ahol a sziklás szirtek találkoznak az Adriai-tengerrel, lenyűgöző kilátást nyújtva a naplementére, ezért hozza magával a legjobb fényképezőgépét.",
+            "ro": "Minunați-vă de acest punct de reper geografic impresionant, unde stâncile abrupte întâlnesc Marea Adriatică, oferind vederi spectaculoase la apus, așa că aduceți aparatul foto.",
+            "en": "Marvel at this striking geographical landmark where rugged cliffs meet the Adriatic, offering spectacular sunset views, so bring your best camera for the golden hour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour entlang der Nordküste am Strand Mora Mora, wo die Meeresbrise das perfekte Tempo für den Tag vorgibt. Gegen Mittag radeln Sie zum Lido Mamalù und nach Li Marangi und nehmen zwischen den Fahrten ein kurzes Bad. Der Nachmittag lädt Sie weiter südlich nach Coiba und Kum ein, um ruhigere Ufer und beeindruckende Felsformationen zu entdecken. Ihr Abend gipfelt am Punta Soap Beach, wo Sie beobachten können, wie sich die Farben des Sonnenuntergangs an den Klippen spiegeln.",
+        "hu": "Kezdje kerékpáros utazását az északi part mentén a Mora Mora strandnál, ahol a tengeri szellő tökéletes tempót diktál a naphoz. Dél közeledtével tekerjen le a Lido Mamalù és a Li Marangi felé, és a tengerparti túrák között mártózzon meg a vízben. A délután hívogatja Önt délebbre, Coiba és Kum felé, ahol csendesebb partokat és lenyűgöző sziklaképződményeket fedezhet fel. Az este a Punta Soap Beach-en éri el tetőpontját, ahogy a naplemente színei tükröződnek a sziklás tájon.",
+        "ro": "Începeți călătoria cu bicicleta de-a lungul coastei de nord la plaja Mora Mora, unde briza mării stabilește ritmul perfect. La prânz, pedalați spre Lido Mamalù și Li Marangi, făcând scurte băi răcoritoare între plimbările de coastă. După-amiaza vă invită mai spre sud, la Coiba și Kum, pentru a descoperi țărmuri mai liniștite și formațiuni stâncoase uimitoare. Seara dumneavoastră culminează la Punta Soap Beach, urmărind culorile apusului reflectându-se peisajul stâncos.",
+        "en": "Kick off your cycling journey along the northern coast at Mora Mora Beach, where the sea breeze sets a perfect pace for the day. As midday approaches, pedal down to Lido Mamalù and Li Marangi, taking short refreshing dips between your smooth coastal rides. The afternoon invites you further south to Coiba and Kum, discovering quieter shores and stunning rock formations away from the main hub. Your evening culminates at Punta Soap Beach, watching the sunset colors reflect off the striking cliffside landscape."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:11",
+      "total_km": 2.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Mora Mora Beach",
+            "hu": "Mora Mora Beach",
+            "ro": "Mora Mora Beach",
+            "en": "Mora Mora Beach"
+          },
+          "coords": [
+            18.395256,
+            40.308989
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den unberührten goldenen Sand an diesem ruhigen Strand, der sich perfekt zur morgendlichen Entspannung eignet, aber kommen Sie früh, um sich einen guten Platz zu sichern.",
+            "hu": "Élvezze az érintetlen aranyhomokot ezen a nyugodt strandon, amely tökéletes a reggeli kikapcsolódáshoz, de érkezzen korán, hogy jó helyet biztosítson magának a víz közelében.",
+            "ro": "Bucurați-vă de nisipul auriu impecabil la această plajă liniștită, perfectă pentru relaxarea de dimineață, dar ajungeți devreme pentru a prinde un loc excelent lângă apă.",
+            "en": "Enjoy the pristine golden sands at this tranquil beach, perfect for morning relaxation, but arrive early to secure a prime spot near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Eurogarden Beach",
+            "hu": "Eurogarden Beach",
+            "ro": "Eurogarden Beach",
+            "en": "Eurogarden Beach"
+          },
+          "coords": [
+            18.403707,
+            40.303273
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie an dieser gepflegten Küste entlang, die Besuchern hervorragende Einrichtungen bietet, und bringen Sie Ihre Schnorchelausrüstung mit, um die Felsen zu erkunden.",
+            "hu": "Sétáljon végig ezen a jól karbantartott partszakaszon, amely kiváló felszereltséget kínál a látogatóknak, ezért hozzon magával búvárfelszerelést a sziklás részek felfedezéséhez.",
+            "ro": "Plimbați-vă de-a lungul acestei coaste bine întreținute, care oferă facilități excelente, așa că aduceți-vă echipamentul de snorkeling pentru a explora aflorimentele stâncoase.",
+            "en": "Stroll along this well-maintained shoreline that offers excellent facilities for visitors, so bring your snorkeling gear to explore the gentle rocky outcrops."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Solero",
+            "hu": "Lido Solero",
+            "ro": "Lido Solero",
+            "en": "Lido Solero"
+          },
+          "coords": [
+            18.410816,
+            40.297595
+          ],
+          "category": "recreational",
+          "arrive_at": "11:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem beliebten Erholungsgebiet, das die typische apulische Sommerstimmung einfängt, und probieren Sie unbedingt das lokale Gelato der Verkäufer an der Promenade.",
+            "hu": "Kapcsolódjon ki ezen a népszerű üdülőterületen, amely megragadja a hamisítatlan pugliai nyári hangulatot, és ne hagyja ki a helyi fagylalt megkóstolását a vízparti árusoktól.",
+            "ro": "Destindeți-vă în această zonă de agrement populară care surprinde atmosfera estivală tipic apuliană și nu ratați să gustați gelato-ul local de la vânzătorii de pe faleză.",
+            "en": "Unwind in this popular recreational area that captures the quintessential Apulian summer vibe, and don't miss trying the local gelato from the waterfront vendors."
+          }
+        },
+        {
+          "name": {
+            "de": "Coiba",
+            "hu": "Coiba",
+            "ro": "Coiba",
+            "en": "Coiba"
+          },
+          "coords": [
+            18.414935,
+            40.296484
+          ],
+          "category": "recreational",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses versteckte Strandjuwel, das für seine ruhige Umgebung abseits der Massen bekannt ist, weshalb es sich anbietet, ein gutes Buch und ein Lunchpaket mitzubringen.",
+            "hu": "Fedezze fel ezt a rejtett tengerparti gyöngyszemet, amely a tömegektől távoli, békés környezetéről ismert, így ideális hely ahhoz, hogy hozzon egy jó könyvet és egy csomagolt ebédet.",
+            "ro": "Descoperiți această bijuterie ascunsă de plajă, cunoscută pentru mediul său liniștit, departe de aglomerație, fiind ideală pentru a aduce o carte bună și un prânz la pachet pentru după-amiază.",
+            "en": "Discover this hidden gem of a beach known for its serene environment away from the crowds, making it ideal to bring a good book and a packed lunch for the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Punta Soap Beach",
+            "hu": "Punta Soap Beach",
+            "ro": "Punta Soap Beach",
+            "en": "Punta Soap Beach"
+          },
+          "coords": [
+            18.420664,
+            40.29526
+          ],
+          "category": "landmark",
+          "arrive_at": "14:16",
+          "stay_min": 55,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie dieses markante geografische Wahrzeichen, an dem raue Klippen auf die Adria treffen und wo es spektakuläre Sonnenuntergänge gibt, also bringen Sie Ihre Kamera mit.",
+            "hu": "Csodálja meg ezt a lenyűgöző földrajzi nevezetességet, ahol a sziklás szirtek találkoznak az Adriai-tengerrel, lenyűgöző kilátást nyújtva a naplementére, ezért hozza magával a legjobb fényképezőgépét.",
+            "ro": "Minunați-vă de acest punct de reper geografic impresionant, unde stâncile abrupte întâlnesc Marea Adriatică, oferind vederi spectaculoase la apus, așa că aduceți aparatul foto.",
+            "en": "Marvel at this striking geographical landmark where rugged cliffs meet the Adriatic, offering spectacular sunset views, so bring your best camera for the golden hour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour am ruhigen Strand Mora Mora und genießen Sie ein friedliches morgendliches Bad, bevor die Massen ankommen. Fahren Sie entspannt in die Mittagszeit am Eurogarden Beach, wo Sie ein komfortables Mittagessen am Meer genießen können. Verbringen Sie Ihren Nachmittag mit einer Fahrt zum Lido Solero und dem abgelegenen Strand Coiba. Lassen Sie den Tag ausklingen, indem Sie in der Nähe des Punta Soap Beach parken, um das majestätische Wahrzeichen der Küste im Abendlicht zu bewundern.",
+        "hu": "Kezdje autós túráját a nyugodt Mora Mora strandon, élvezve a békés reggeli úszást, még mielőtt megérkezik a tömeg. Kényelmesen vezessen át a délidőbe az Eurogarden strandra, ahol a kiváló felszereltség kényelmes ebédet tesz lehetővé a tengerparton. Délutánját a Lido Solero és a félreeső Coiba felé autózva töltse, megtapasztalva a régió változatos part menti varázsát. Zárja a napot a Punta Soap Beach közelében parkolva, hogy megcsodálhassa a fenséges nevezetességet az esti fényben.",
+        "ro": "Începeți turul cu mașina la plaja liniștită Mora Mora, bucurându-vă de o înotare pașnică de dimineață înainte de sosirea mulțimilor. Conduceți ușor spre Eurogarden Beach la prânz, unde facilitățile excelente permit un prânz confortabil pe litoral. Petreceți-vă după-amiaza conducând spre Lido Solero și plaja retrasă Coiba, experimentând farmecul divers de coastă al regiunii. Încheiați ziua parcând lângă Punta Soap Beach pentru a admira acest reper de coastă maiestuos.",
+        "en": "Begin your driving tour at the tranquil Mora Mora Beach, enjoying a peaceful morning swim before the crowds arrive. Drive smoothly into midday at Eurogarden Beach, where excellent amenities allow for a comfortable and relaxed seaside lunch. Spend your afternoon cruising to Lido Solero and the secluded Coiba, experiencing the diverse coastal charm of the region. Wrap up the day parking near Punta Soap Beach to admire the majestic coastal landmark under the fading evening light."
+      }
+    }
+  }
+}

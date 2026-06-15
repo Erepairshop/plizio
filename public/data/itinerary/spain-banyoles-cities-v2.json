@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-banyoles-cities-v2",
+  "anchor": {
+    "name": "Banyoles",
+    "coords": [
+      2.76667,
+      42.11667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 1.94,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museu Arqueològic",
+            "hu": "Museu Arqueològic",
+            "ro": "Museu Arqueològic",
+            "en": "Museu Arqueològic"
+          },
+          "coords": [
+            2.766923,
+            42.118735
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die regionale Geschichte in diesem gotischen Gebäude mit antiken Fossilien, aber prüfen Sie unbedingt die Nachmittagsöffnungszeiten vor Ihrem Besuch.",
+            "hu": "Fedezze fel a régió történelmét ebben a gótikus épületben, ahol ősi kövületeket láthat, de ne felejtse el ellenőrizni a délutáni nyitvatartást.",
+            "ro": "Explorați istoria regională în această clădire gotică, care expune fosile antice, dar nu uitați să verificați programul de după-amiază înainte de vizită.",
+            "en": "Explore regional history in this fascinating gothic building, showcasing ancient fossils and tools, but remember to check the restricted afternoon hours before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditori",
+            "hu": "Auditori",
+            "ro": "Auditori",
+            "en": "Auditori"
+          },
+          "coords": [
+            2.76474,
+            42.118656
+          ],
+          "category": "cultural",
+          "arrive_at": "10:53",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante zeitgenössische Architektur dieses Kulturzentrums für großartige Konzerte, und buchen Sie Ihre Tickets am besten weit im Voraus.",
+            "hu": "Csodálja meg e kulturális központ kortárs építészetét, amely remek helyi koncerteknek ad otthont, és próbáljon jó előre jegyet foglalni.",
+            "ro": "Admirați arhitectura contemporană a acestui centru cultural ce găzduiește concerte superbe, și încercați să vă rezervați biletele din timp.",
+            "en": "Admire the striking contemporary architecture of this cultural hub which hosts superb local concerts, and try to book your tickets well in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Mobles Terrades",
+            "hu": "Mobles Terrades",
+            "ro": "Mobles Terrades",
+            "en": "Mobles Terrades"
+          },
+          "coords": [
+            2.762376,
+            42.11755
+          ],
+          "category": "museum",
+          "arrive_at": "11:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Entdecken Sie die künstlerische Entwicklung des Möbeldesigns in diesem einzigartigen Museum, wo das Fotografieren ohne Blitz meistens erlaubt ist.",
+            "hu": "Fedezze fel a bútortervezés művészi fejlődését ebben az egyedülálló múzeumban, ahol a vaku nélküli fényképezés általában megengedett.",
+            "ro": "Descoperiți evoluția artistică a designului de mobilier în acest muzeu specializat, unde fotografierea fără bliț este, de obicei, permisă.",
+            "en": "Discover the artistic evolution of furniture design at this unique specialized museum, where taking photos without flash is generally permitted."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatre Municipal de Banyoles",
+            "hu": "Teatre Municipal de Banyoles",
+            "ro": "Teatre Municipal de Banyoles",
+            "en": "Teatre Municipal de Banyoles"
+          },
+          "coords": [
+            2.763666,
+            42.116199
+          ],
+          "category": "cultural",
+          "arrive_at": "13:39",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte lokale Kunstszene in diesem historischen Stadttheater; kommen Sie zwanzig Minuten früher, um das schöne Foyer zu genießen.",
+            "hu": "Tapasztalja meg a pezsgő helyi művészeti életet ebben a történelmi színházban, ahová érdemes húsz perccel korábban érkezni az előcsarnok miatt.",
+            "ro": "Experimentați scena artistică locală vibrantă la acest teatru municipal istoric, sosind ideal cu douăzeci de minute mai devreme pentru foaier.",
+            "en": "Experience the vibrant local arts scene at this historic municipal theater, ideally arriving twenty minutes early to enjoy the beautiful foyer."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador Joan de Palau",
+            "hu": "Mirador Joan de Palau",
+            "ro": "Mirador Joan de Palau",
+            "en": "Mirador Joan de Palau"
+          },
+          "coords": [
+            2.758586,
+            42.114876
+          ],
+          "category": "natural",
+          "arrive_at": "14:46",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.44,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf den ruhigen See von diesem friedlichen Aussichtspunkt, der im späten Nachmittagslicht magisch wirkt.",
+            "hu": "Élvezze a békés tó lélegzetelállító panorámáját ebből a kilátóból, amely különösen varázslatos a késő délutáni lágy fényekben.",
+            "ro": "Bucurați-vă de priveliștile panoramice uluitoare ale lacului de pe acest punct de belvedere, care este deosebit de magic în lumina blândă a după-amiezii.",
+            "en": "Soak in the breathtaking panoramic views of the serene lake from this peaceful vantage point, which is especially magical in the soft late afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscina del Club Natació Banyoles",
+            "hu": "Piscina del Club Natació Banyoles",
+            "ro": "Piscina del Club Natació Banyoles",
+            "en": "Piscina del Club Natació Banyoles"
+          },
+          "coords": [
+            2.758674,
+            42.12306
+          ],
+          "category": "recreational",
+          "arrive_at": "15:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.91,
+          "tip_5lang": {
+            "de": "Entspannen Sie am legendären Schwimmclub der olympischen Ruderwettbewerbe 1992, ideal für ein erfrischendes Bad oder einen Drink am See.",
+            "hu": "Pihenjen az ikonikus úszóklubnál, ahol az 1992-es olimpiai evezős versenyek zajlottak, ami tökéletes egy frissítő fürdőzéshez vagy italhoz.",
+            "ro": "Relaxați-vă la clubul de înot emblematic unde au avut loc probele olimpice de canotaj din 1992, perfect pentru o baie răcoritoare.",
+            "en": "Relax by the iconic local swimming club where the 1992 Olympic rowing events took place, making it perfect for a refreshing dip or lakeside drink."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen in Banyoles beginnt mit dem faszinierenden archäologischen Museum, bevor es zur modernen kulturellen Architektur weitergeht. Mittags rücken die Künste in den Fokus, mit speziellen Museen und dem großartigen Stadttheater. Am Nachmittag nähern Sie sich dem Wasser und erreichen einen friedlichen Aussichtspunkt über den See. Ihr Tag endet am lebhaften Schwimmclub an den historischen olympischen Rudergewässern.",
+        "hu": "A banyolesi reggel a helyi örökség felfedezésével kezdődik a régészeti múzeumban, majd a modern kulturális építészet felé vesszük az irányt. A délidő a művészetekre fókuszál, múzeumokkal és a nagyszerű városi színházzal. Délután a víz felé haladva egy békés, lassan hömpölygő tóra néző kilátóhoz érünk. A nap a pezsgő úszóklubnál zárul, ahol megpihenhet a történelmi olimpiai evezős vizek mellett.",
+        "ro": "Dimineața în Banyoles începe cu o incursiune în moștenirea locală la muzeul arheologic, înainte de a merge spre arhitectura culturală modernă. Mijlocul zilei se concentrează pe arte, vizitând muzee specializate și marele teatru municipal. După-amiaza, vă veți îndrepta spre apă, ajungând la un punct de belvedere pașnic. Ziua se încheie la clubul de înot vibrant, unde vă puteți relaxa lângă apele istorice.",
+        "en": "Morning in Banyoles begins with a deep dive into local heritage at the archaeological museum before strolling towards modern cultural architecture. Midday shifts focus to the arts, taking in specialized museums and the grand municipal theater. In the afternoon, you will head towards the water, arriving at a peaceful viewpoint overlooking the serene lake. Your day concludes at the vibrant swimming club, where you can unwind by the historic Olympic rowing waters."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:38",
+      "total_km": 6.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Poblat Neolític de La Draga",
+            "hu": "Poblat Neolític de La Draga",
+            "ro": "Poblat Neolític de La Draga",
+            "en": "Poblat Neolític de La Draga"
+          },
+          "coords": [
+            2.758733,
+            42.126701
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in dieser unglaublich gut erhaltenen neolithischen Seesiedlung; eine Führung ist hier sehr zu empfehlen.",
+            "hu": "Lépjen vissza az időben ebben a hihetetlenül megőrzött neolitikus tóparti településen, ahol érdemes vezetett túrán részt venni.",
+            "ro": "Întoarceți-vă în timp la această așezare neolitică pe malul lacului, unde un tur ghidat este foarte recomandat pentru a înțelege stilul de viață antic.",
+            "en": "Step back in time at this incredibly preserved Neolithic lakeside settlement, where joining a guided tour is highly recommended to understand the ancient lifestyle."
+          }
+        },
+        {
+          "name": {
+            "de": "Punta Cuaranya",
+            "hu": "Punta Cuaranya",
+            "ro": "Punta Cuaranya",
+            "en": "Punta Cuaranya"
+          },
+          "coords": [
+            2.75512,
+            42.127984
+          ],
+          "category": "natural",
+          "arrive_at": "10:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Spazieren Sie an dieser ruhigen natürlichen Landzunge mit unberührten Uferwegen entlang; tragen Sie unbedingt bequeme Wanderschuhe.",
+            "hu": "Sétáljon végig ezen a csendes természetes hegyfokon, amely érintetlen vízparti ösvényeket kínál, ezért viseljen kényelmes cipőt.",
+            "ro": "Plimbați-vă de-a lungul acestui promontoriu natural liniștit care oferă poteci riverane imaculate, așa că purtați încălțăminte confortabilă.",
+            "en": "Stroll along this quiet natural promontory offering pristine waterside nature paths, so be sure to wear comfortable walking shoes for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Punta Freixenet",
+            "hu": "Punta Freixenet",
+            "ro": "Punta Freixenet",
+            "en": "Punta Freixenet"
+          },
+          "coords": [
+            2.753004,
+            42.122766
+          ],
+          "category": "natural",
+          "arrive_at": "11:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Finden Sie absolute Ruhe an diesem schattigen Ort am See, der für seine reiche Vogelwelt bekannt ist – ein Fernglas mitzubringen ist ideal.",
+            "hu": "Találjon egy pillanatnyi teljes nyugalmat ezen az árnyékos tóparti helyen, amely gazdag madárvilágáról ismert, így érdemes távcsövet hozni.",
+            "ro": "Găsiți un moment de liniște absolută în acest loc umbrit de pe malul lacului, cunoscut pentru păsările sale, luând cu voi un binoclu.",
+            "en": "Find a moment of complete tranquility at this shaded lakeside spot known for its rich birdlife, making bringing a pair of binoculars a wonderful idea."
+          }
+        },
+        {
+          "name": {
+            "de": "les Estunes",
+            "hu": "les Estunes",
+            "ro": "les Estunes",
+            "en": "les Estunes"
+          },
+          "coords": [
+            2.74603,
+            42.113324
+          ],
+          "category": "landmark",
+          "arrive_at": "12:42",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Wandern Sie durch einen verzauberten Eichenwald voller magischer Travertin-Felsspalten, in denen laut lokaler Legenden Feen leben.",
+            "hu": "Barangoljon egy elvarázsolt tölgyerdőben, tele varázslatos mésztufa sziklahasadékokkal, amelyek a helyi legendák szerint tündéreknek adnak otthont.",
+            "ro": "Rătăciți printr-o pădure fermecată de stejari, plină de crevase magice din travertin, perfectă pentru o retragere răcoroasă la mijlocul zilei.",
+            "en": "Wander through an enchanted oak forest filled with magical travertine rock crevices that local legends say house fairies, perfect for a cool mid-day retreat."
+          }
+        },
+        {
+          "name": {
+            "de": "Església de Santa Magdalena de Noves",
+            "hu": "Església de Santa Magdalena de Noves",
+            "ro": "Església de Santa Magdalena de Noves",
+            "en": "Església de Santa Magdalena de Noves"
+          },
+          "coords": [
+            2.759994,
+            42.098256
+          ],
+          "category": "religious",
+          "arrive_at": "13:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Finden Sie stille Besinnung in dieser charmanten Steinkirche auf dem Land, wo respektvolles Verhalten und bescheidene Kleidung geschätzt werden.",
+            "hu": "Fedezze fel a csendes elmélkedést ebben a bájos vidéki kőtemplomban, ahol a tiszteletteljes viselkedést és a szerény öltözködést nagyra értékelik.",
+            "ro": "Descoperiți reflecția tăcută în această fermecătoare biserică de piatră din mediul rural, unde o ținută modestă este foarte apreciată.",
+            "en": "Discover quiet reflection in this charming stone church nestled in the countryside, where a respectful demeanor and modest clothing are greatly appreciated."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador Joan de Palau",
+            "hu": "Mirador Joan de Palau",
+            "ro": "Mirador Joan de Palau",
+            "en": "Mirador Joan de Palau"
+          },
+          "coords": [
+            2.758586,
+            42.114876
+          ],
+          "category": "natural",
+          "arrive_at": "14:43",
+          "stay_min": 55,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.85,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf den ruhigen See von diesem friedlichen Aussichtspunkt, der im späten Nachmittagslicht magisch wirkt.",
+            "hu": "Élvezze a békés tó lélegzetelállító panorámáját ebből a kilátóból, amely különösen varázslatos a késő délutáni lágy fényekben.",
+            "ro": "Bucurați-vă de priveliștile panoramice uluitoare ale lacului de pe acest punct de belvedere, care este deosebit de magic în lumina blândă a după-amiezii.",
+            "en": "Soak in the breathtaking panoramic views of the serene lake from this peaceful vantage point, which is especially magical in the soft late afternoon light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an der erstaunlichen neolithischen Siedlung direkt am Seeufer, bevor Sie sich auf Ihr Fahrrad schwingen. Mittags radeln Sie durch ruhige natürliche Landzungen wie Punta Cuaranya und genießen unberührte Uferwege. Die Nachmittagsfahrten führen Sie weg vom Wasser zu den bezaubernden Felsformationen von les Estunes. Lassen Sie den aktiven Tag an einer ländlichen Kirche ausklingen, bevor Sie die Sonnenuntergangsfarben bewundern.",
+        "hu": "Kezdje kerékpártúráját a lenyűgöző neolitikus településen közvetlenül a tóparton, magába szívva az ősi történelmet. Délben nyugodt természetes hegyfokok mentén teker, mint a Punta Cuaranya, élvezve az érintetlen partszakaszokat. A délutáni túra a víztől eltávolodva les Estunes varázslatos sziklaképződményeihez vezet. Zárja aktív napját egy csendes vidéki templomnál, mielőtt egy panorámás kilátóról csodálná meg a naplementét.",
+        "ro": "Începeți călătoria cu bicicleta la uimitoarea așezare neolitică de pe malul lacului, absorbind istoria antică. Până la prânz, veți pedala prin promontorii naturale liniștite, bucurându-vă de poteci imaculate. Plimbările de după-amiază vă duc departe de apă, către formațiunile stâncoase fermecătoare din les Estunes. Încheiați ziua activă vizitând o biserică liniștită, înainte de a admira culorile apusului de la un punct de belvedere.",
+        "en": "Kick off your cycling journey at the astonishing Neolithic settlement right on the lakeside, soaking in ancient history before mounting your bike. By midday, you'll pedal through tranquil natural promontories like Punta Cuaranya and Freixenet, enjoying pristine shoreline paths. Afternoon rides take you away from the water to the enchanting rock formations of les Estunes. Wrap up your active day by visiting a quiet country church before witnessing sunset colors from a panoramic viewpoint."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:41",
+      "total_km": 5.09,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mirador de l'Estany",
+            "hu": "Mirador de l'Estany",
+            "ro": "Mirador de l'Estany",
+            "en": "Mirador de l'Estany"
+          },
+          "coords": [
+            2.762107,
+            42.134584
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen hier, um den ungehinderten Blick auf das gesamte Seebecken zu genießen; nutzen Sie die hölzernen Aussichtsplattformen.",
+            "hu": "Kezdje a reggelt itt, hogy lenyűgöző, akadálytalan kilátást kapjon az egész tómedencére, és használja a fából készült kilátóteraszokat.",
+            "ro": "Începeți dimineața aici pentru a surprinde priveliști neobstrucționate ale întregului bazin al lacului, folosind platformele de lemn pentru cele mai bune unghiuri.",
+            "en": "Start your morning here to capture sweeping, unimpeded views of the entire lake basin, utilizing the wooden viewing platforms for the best angles."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de la Torre del Rem",
+            "hu": "Mirador de la Torre del Rem",
+            "ro": "Mirador de la Torre del Rem",
+            "en": "Mirador de la Torre del Rem"
+          },
+          "coords": [
+            2.759818,
+            42.133762
+          ],
+          "category": "natural",
+          "arrive_at": "09:36",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Klettern Sie zu diesem erhöhten Aussichtspunkt hinauf, um die Ruderstrecken von oben zu betrachten und eine tolle Perspektive zu erhalten.",
+            "hu": "Másszon fel erre a magaslati kilátóra, hogy felülről figyelhesse meg az evezős versenypályákat, lenyűgöző perspektívát kínálva a tó sportörökségére.",
+            "ro": "Urcați pe acest punct de belvedere pentru a observa de sus traseele de curse de canotaj, oferind o perspectivă fantastică asupra moștenirii sportive.",
+            "en": "Climb up to this elevated viewpoint to observe the rowing race courses from above, offering a fantastic perspective on the lake's sporting heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Puig de Sant Martirià",
+            "hu": "Puig de Sant Martirià",
+            "ro": "Puig de Sant Martirià",
+            "en": "Puig de Sant Martirià"
+          },
+          "coords": [
+            2.763198,
+            42.131829
+          ],
+          "category": "natural",
+          "arrive_at": "10:02",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Wandern Sie auf diesen markanten Hügel zu den Ruinen eines alten Klosters und spektakulären Talblicken, aber bringen Sie viel Trinkwasser mit.",
+            "hu": "Túrázzon fel erre a kiemelkedő dombra, hogy megtalálja egy régi kolostor romjait és a látványos völgyi kilátást, miközben sok ivóvizet hoz magával.",
+            "ro": "Urcați pe acest deal proeminent pentru a găsi ruinele unei vechi mănăstiri, alături de priveliști spectaculoase ale văii, luând suficientă apă.",
+            "en": "Hike up this prominent hill to find the ruins of an old convent alongside spectacular valley vistas, bringing plenty of drinking water for the ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Poblat Neolític de La Draga",
+            "hu": "Poblat Neolític de La Draga",
+            "ro": "Poblat Neolític de La Draga",
+            "en": "Poblat Neolític de La Draga"
+          },
+          "coords": [
+            2.758733,
+            42.126701
+          ],
+          "category": "historical",
+          "arrive_at": "11:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.68,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in dieser unglaublich gut erhaltenen neolithischen Seesiedlung; eine Führung ist hier sehr zu empfehlen.",
+            "hu": "Lépjen vissza az időben ebben a hihetetlenül megőrzött neolitikus tóparti településen, ahol érdemes vezetett túrán részt venni.",
+            "ro": "Întoarceți-vă în timp la această așezare neolitică pe malul lacului, unde un tur ghidat este foarte recomandat pentru a înțelege stilul de viață antic.",
+            "en": "Step back in time at this incredibly preserved Neolithic lakeside settlement, where joining a guided tour is highly recommended to understand the ancient lifestyle."
+          }
+        },
+        {
+          "name": {
+            "de": "les Estunes",
+            "hu": "les Estunes",
+            "ro": "les Estunes",
+            "en": "les Estunes"
+          },
+          "coords": [
+            2.74603,
+            42.113324
+          ],
+          "category": "landmark",
+          "arrive_at": "12:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.82,
+          "tip_5lang": {
+            "de": "Wandern Sie durch einen verzauberten Eichenwald voller magischer Travertin-Felsspalten, in denen laut lokaler Legenden Feen leben.",
+            "hu": "Barangoljon egy elvarázsolt tölgyerdőben, tele varázslatos mésztufa sziklahasadékokkal, amelyek a helyi legendák szerint tündéreknek adnak otthont.",
+            "ro": "Rătăciți printr-o pădure fermecată de stejari, plină de crevase magice din travertin, perfectă pentru o retragere răcoroasă la mijlocul zilei.",
+            "en": "Wander through an enchanted oak forest filled with magical travertine rock crevices that local legends say house fairies, perfect for a cool mid-day retreat."
+          }
+        },
+        {
+          "name": {
+            "de": "Església de Santa Magdalena de Noves",
+            "hu": "Església de Santa Magdalena de Noves",
+            "ro": "Església de Santa Magdalena de Noves",
+            "en": "Església de Santa Magdalena de Noves"
+          },
+          "coords": [
+            2.759994,
+            42.098256
+          ],
+          "category": "religious",
+          "arrive_at": "13:31",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.03,
+          "tip_5lang": {
+            "de": "Finden Sie stille Besinnung in dieser charmanten Steinkirche auf dem Land, wo respektvolles Verhalten und bescheidene Kleidung geschätzt werden.",
+            "hu": "Fedezze fel a csendes elmélkedést ebben a bájos vidéki kőtemplomban, ahol a tiszteletteljes viselkedést és a szerény öltözködést nagyra értékelik.",
+            "ro": "Descoperiți reflecția tăcută în această fermecătoare biserică de piatră din mediul rural, unde o ținută modestă este foarte apreciată.",
+            "en": "Discover quiet reflection in this charming stone church nestled in the countryside, where a respectful demeanor and modest clothing are greatly appreciated."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt mit weiten morgendlichen Ausblicken von den nördlichen See-Aussichtspunkten auf die Weite des Wassers. Am späten Vormittag bringt Sie eine kurze Fahrt zu den erhöhten Hügelruinen, bevor Sie im neolithischen Dorf in die Urgeschichte eintauchen. Der Nachmittag bietet einen mystischen Spaziergang durch die berühmten Travertinspalten des Waldes. Schließlich ermöglicht eine Fahrt aufs Land stille Kontemplation an einer historischen Kirche.",
+        "hu": "Autós túrája a tó északi kilátóiból nyíló lenyűgöző reggeli panorámával kezdődik, amely befogja az alattunk elterülő hatalmas víztömeget. Késő délelőtt egy rövid utazás a dombtetőn lévő romokhoz vezet, majd a neolitikus faluba látogatunk. A délután egy misztikus sétát tartogat az erdő híres mésztufa hasadékai között. Végül egy békés vidéki autózás csendes elmélkedést kínál egy történelmi kőtemplomnál.",
+        "ro": "Turul dvs. cu mașina începe cu priveliști ample de dimineață de la punctele de belvedere nordice. Până dimineața târziu, un drum scurt vă duce la ruinele de pe deal înainte de a explora preistoria în satul neolitic. După-amiaza vă rezervă o plimbare mistică prin faimoasele crăpături de travertin din pădurea locală. În cele din urmă, o plimbare liniștită în mediul rural vă permite să vizitați o biserică istorică de piatră.",
+        "en": "Your driving tour begins with sweeping morning views from the northern lake lookouts, capturing the vastness of the water below. By late morning, a short drive brings you to the elevated hilltop ruins before diving into deep prehistory at the Neolithic village. The afternoon features a mystical walk through the famed travertine cracks of the local forest area. Finally, a peaceful drive into the countryside allows for quiet contemplation at a historical stone church."
+      }
+    }
+  }
+}

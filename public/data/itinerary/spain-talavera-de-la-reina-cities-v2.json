@@ -1,0 +1,520 @@
+{
+  "city_id": "spain-talavera-de-la-reina-cities-v2",
+  "anchor": {
+    "name": "Talavera de la Reina",
+    "coords": [
+      -4.833702,
+      39.960167
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 0.94,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Iglesia de Santiago el Nuevo",
+            "hu": "Iglesia de Santiago el Nuevo",
+            "ro": "Iglesia de Santiago el Nuevo",
+            "en": "Iglesia de Santiago el Nuevo"
+          },
+          "coords": [
+            -4.831827,
+            39.96213
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Mudéjar-Architektur dieser Kirche und achten Sie auf die kunstvollen Ziegelfassaden, während Sie morgens das ruhige Ambiente genießen.",
+            "hu": "Csodálja meg a templom lenyűgöző mudéjar építészetét és díszes téglafalait, de érkezzen korán, hogy elkerülje a nagyobb turistacsoportokat.",
+            "ro": "Admirați arhitectura mudejară a acestei biserici și fațadele ornamentate din cărămidă; este recomandat să o vizitați dimineața devreme pentru o experiență liniștită.",
+            "en": "Marvel at the Mudejar architecture and ornate brickwork of this church, and try to visit early in the morning to fully enjoy its serene and quiet atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Cultural El Salvador",
+            "hu": "Centro Cultural El Salvador",
+            "ro": "Centro Cultural El Salvador",
+            "en": "Centro Cultural El Salvador"
+          },
+          "coords": [
+            -4.834034,
+            39.959667
+          ],
+          "category": "museum",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte dieses ehemaligen Tempels, der jetzt als Kulturzentrum dient, und fragen Sie am Eingang nach temporären Ausstellungen.",
+            "hu": "Fedezze fel ennek az egykori templomnak a gazdag történelmét, amely ma kulturális központként működik, és érdeklődjön az aktuális időszaki kiállításokról.",
+            "ro": "Explorați istoria bogată a acestui fost templu transformat în centru cultural și nu uitați să întrebați la intrare despre expozițiile temporare actuale.",
+            "en": "Discover the rich history of this former temple turned cultural center, and be sure to ask at the entrance about any fascinating temporary exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Ayuntamiento de Talavera de la Reina",
+            "hu": "Ayuntamiento de Talavera de la Reina",
+            "ro": "Ayuntamiento de Talavera de la Reina",
+            "en": "Ayuntamiento de Talavera de la Reina"
+          },
+          "coords": [
+            -4.83296,
+            39.958359
+          ],
+          "category": "historical",
+          "arrive_at": "11:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Betrachten Sie das beeindruckende historische Rathaus im Herzen der Stadt, ein hervorragender Ort, um faszinierende architektonische Details zu fotografieren.",
+            "hu": "Csodálja meg a lenyűgöző történelmi városházát a város szívében, amely kiváló helyszín a lenyűgöző építészeti részletek és a terek fotózásához.",
+            "ro": "Observați impresionanta primărie istorică situată în inima orașului, un loc excelent pentru a fotografia detalii arhitecturale fascinante ale zonei.",
+            "en": "Admire the impressive historical city hall located right in the heart of the city, which is an excellent spot to capture photos of striking architectural details."
+          }
+        },
+        {
+          "name": {
+            "de": "Colegiata Santa María la Mayor",
+            "hu": "Colegiata Santa María la Mayor",
+            "ro": "Colegiata Santa María la Mayor",
+            "en": "Colegiata Santa María la Mayor"
+          },
+          "coords": [
+            -4.831932,
+            39.9576
+          ],
+          "category": "religious",
+          "arrive_at": "13:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese prächtige Stiftskirche mit ihrer beeindruckenden Rosette; achten Sie auf die Öffnungszeiten am Nachmittag, um das Kirchenschiff zu sehen.",
+            "hu": "Látogasson el ebbe a csodálatos, gyönyörű rózsaablakkal rendelkező társaskáptalanba, és ellenőrizze a délutáni nyitvatartást, ha be szeretne menni.",
+            "ro": "Vizitați această magnifică biserică colegială și uimitoarea sa rozetă; verificați programul de după-amiază pentru a putea explora liniștit nava principală.",
+            "en": "Visit this magnificent collegiate church featuring a beautiful rose window, and be sure to check the afternoon opening hours to explore the grand nave inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Etnográfico de Talavera",
+            "hu": "Museo Etnográfico de Talavera",
+            "ro": "Museo Etnográfico de Talavera",
+            "en": "Museo Etnográfico de Talavera"
+          },
+          "coords": [
+            -4.830406,
+            39.957262
+          ],
+          "category": "museum",
+          "arrive_at": "13:42",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die lokalen Traditionen und das Alltagsleben vergangener Epochen ein; die interaktiven Ausstellungen sind besonders aufschlussreich und detailliert.",
+            "hu": "Merüljön el a helyi hagyományokban és a múlt mindennapi életében; az interaktív kiállítások rendkívül informatívak és részletesen bemutatják a kultúrát.",
+            "ro": "Cufundați-vă în tradițiile locale și în viața de zi cu zi a epocilor trecute; expozițiile interactive sunt deosebit de informative și foarte detaliate.",
+            "en": "Immerse yourself in the local traditions and daily life of past eras; the interactive exhibits are particularly informative and offer a deep dive into culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Cerámica Ruiz de Luna",
+            "hu": "Museo de Cerámica Ruiz de Luna",
+            "ro": "Museo de Cerámica Ruiz de Luna",
+            "en": "Museo de Cerámica Ruiz de Luna"
+          },
+          "coords": [
+            -4.829709,
+            39.958771
+          ],
+          "category": "museum",
+          "arrive_at": "15:25",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Erleben Sie die weltberühmte Talavera-Keramik aus nächster Nähe; der Museumsladen bietet authentische Repliken an, die sich perfekt als Souvenir eignen.",
+            "hu": "Csodálja meg testközelből a világhírű talaverai kerámiákat; a múzeum boltja autentikus másolatokat kínál, amelyek tökéletes és egyedi szuvenírek lehetnek.",
+            "ro": "Experimentați de aproape ceramica de Talavera, faimoasă în întreaga lume; magazinul muzeului oferă replici autentice perfecte pentru suveniruri de neuitat.",
+            "en": "Experience the world-famous Talavera ceramics up close; the museum shop offers authentic replicas that make for absolutely perfect and unique souvenirs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit den wunderschönen Mudéjar-Details der Iglesia de Santiago el Nuevo. Anschließend führt der Weg zum faszinierenden Centro Cultural El Salvador, einem Ort voller Geschichte und Kunstaufführungen.\n\nZur Mittagszeit spazieren wir zum historischen Rathaus. Die prächtige Architektur und das geschäftige Treiben auf dem Platz bilden das perfekte städtische Panorama für eine Pause.\n\nDer Nachmittag ist der Spiritualität und der Kultur gewidmet. Wir bewundern die Colegiata Santa María la Mayor und tauchen danach tief in das Museo Etnográfico de Talavera ein, um Traditionen zu verstehen.\n\nAm Abend erreichen wir den Höhepunkt: das Museo de Cerámica Ruiz de Luna. Die farbenfrohen, weltberühmten Keramiken leuchten in den Sälen und runden diesen kulturvollen und unvergesslichen Spaziergang meisterhaft ab.",
+        "hu": "A reggel az Iglesia de Santiago el Nuevo lenyűgöző mudéjar stílusú részleteivel kezdődik. Ezután a Centro Cultural El Salvador felé vesszük az irányt, amely a város egyik legfontosabb történelmi központja.\n\nDélben megcsodáljuk a város szívében álló történelmi városházát. A lenyűgöző építészet és a tér nyüzsgése kiváló alkalmat ad arra, hogy egy kicsit elmerüljünk a spanyol kisvárosi hangulatban.\n\nA délután a kultúráé: először a Colegiata Santa María la Mayor szépségét fedezzük fel, majd a Museo Etnográfico de Talavera kiállításai repítenek minket vissza az időben a helyi hagyományok világába.\n\nAz este a világhírű Museo de Cerámica Ruiz de Luna termeiben ér véget. A csodálatos, színes kerámiák látványa méltó befejezése ennek a rendkívül gazdag és felejthetetlen kulturális sétának.",
+        "ro": "Dimineața începe cu detaliile mudejare ale Iglesia de Santiago el Nuevo. Traseul continuă spre Centro Cultural El Salvador, un spațiu istoric transformat, ideal pentru a descoperi cultura locală a orașului.\n\nLa prânz, admirăm primăria istorică situată în centrul aglomerat. Arhitectura impresionantă și atmosfera vibrantă a pieței oferă un fundal perfect pentru a simți pulsul autentic al acestui oraș spaniol.\n\nDupă-amiaza explorăm mai întâi magnifica Colegiata Santa María la Mayor. Apoi, vizita la Museo Etnográfico de Talavera ne dezvăluie tradițiile și viața de zi cu zi a generațiilor trecute din această regiune.\n\nSeara culminează la celebrul Museo de Cerámica Ruiz de Luna. Ceramica colorată, recunoscută la nivel mondial, strălucește în sălile muzeului, încheind perfect această zi plină de cultură fascinantă.",
+        "en": "The morning starts with the stunning Mudejar details of the Iglesia de Santiago el Nuevo. The path then leads to the fascinating Centro Cultural El Salvador, a deeply historical space perfect for understanding local heritage.\n\nBy midday, we explore the historic city hall. Its striking architecture and the lively atmosphere of the surrounding square provide the perfect urban backdrop for a midday break and people-watching.\n\nThe afternoon is dedicated to art and culture. We marvel at the beauty of the Colegiata Santa María la Mayor before diving into the Museo Etnográfico de Talavera to discover the daily life and traditions of the region.\n\nThe evening concludes beautifully at the famous Museo de Cerámica Ruiz de Luna. The brilliant, world-renowned colorful ceramics offer an absolutely unforgettable and visually stunning finale to our walking tour."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:51",
+      "total_km": 1.73,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Jardines del Prado",
+            "hu": "Jardines del Prado",
+            "ro": "Jardines del Prado",
+            "en": "Jardines del Prado"
+          },
+          "coords": [
+            -4.822602,
+            39.961103
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Radeln Sie durch diese wunderschönen Gärten mit ihren von Bäumen gesäumten Wegen und nutzen Sie die Morgenbrise für einen erfrischenden Start in den Tag.",
+            "hu": "Kerekezzen át ezeken a gyönyörű, fákkal övezett kerteken, és élvezze a friss reggeli szellőt, amely tökéletes kezdete a város felfedezésének.",
+            "ro": "Pedalați prin aceste grădini frumoase cu alei mărginite de copaci și profitați de briza dimineții pentru un început de zi cu adevărat revigorant.",
+            "en": "Cycle through these beautiful gardens with their tree-lined paths, and take advantage of the fresh morning breeze for a truly refreshing start to the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de Toros de La Caprichosa",
+            "hu": "Plaza de Toros de La Caprichosa",
+            "ro": "Plaza de Toros de La Caprichosa",
+            "en": "Plaza de Toros de La Caprichosa"
+          },
+          "coords": [
+            -4.821174,
+            39.960817
+          ],
+          "category": "landmark",
+          "arrive_at": "10:26",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Halten Sie kurz an dieser ikonischen Stierkampfarena für ein schnelles Foto, da die imposante Struktur einen tiefen Einblick in die spanische Kultur bietet.",
+            "hu": "Álljon meg egy pillanatra ennél az ikonikus bikaviadal-arénánál egy gyors fotó erejéig; a lenyűgöző építmény mély betekintést nyújt a spanyol kultúrába.",
+            "ro": "Opriți-vă scurt la această arenă iconică pentru o fotografie rapidă; structura sa impunătoare oferă o perspectivă profundă asupra culturii tradiționale spaniole.",
+            "en": "Stop briefly at this iconic bullring for a quick photo; its imposing structure offers a profound and interesting insight into traditional Spanish culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Puerta de Sevilla",
+            "hu": "Puerta de Sevilla",
+            "ro": "Puerta de Sevilla",
+            "en": "Puerta de Sevilla"
+          },
+          "coords": [
+            -4.827835,
+            39.958343
+          ],
+          "category": "fortress",
+          "arrive_at": "10:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.63,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses alte Festungstor, das an die mittelalterliche Vergangenheit erinnert; es ist am besten, Ihr Fahrrad in der Nähe sicher abzuschließen.",
+            "hu": "Csodálja meg ezt a középkori múltat idéző ősi erődítménykaput; érdemes a kerékpárt egy közeli biztonságos helyen lezárni, amíg körbesétálja a falakat.",
+            "ro": "Admirați această veche poartă a fortăreței care amintește de trecutul medieval; cel mai bine este să vă asigurați bicicleta în apropiere în timp ce explorați.",
+            "en": "Admire this ancient fortress gate that recalls the medieval past; it is highly recommended to safely lock your bike nearby while exploring the surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Cerámica Ruiz de Luna",
+            "hu": "Museo de Cerámica Ruiz de Luna",
+            "ro": "Museo de Cerámica Ruiz de Luna",
+            "en": "Museo de Cerámica Ruiz de Luna"
+          },
+          "coords": [
+            -4.829709,
+            39.958771
+          ],
+          "category": "museum",
+          "arrive_at": "12:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Erleben Sie die weltberühmte Talavera-Keramik aus nächster Nähe; der Museumsladen bietet authentische Repliken an, die sich perfekt als Souvenir eignen.",
+            "hu": "Csodálja meg testközelből a világhírű talaverai kerámiákat; a múzeum boltja autentikus másolatokat kínál, amelyek tökéletes és egyedi szuvenírek lehetnek.",
+            "ro": "Experimentați de aproape ceramica de Talavera, faimoasă în întreaga lume; magazinul muzeului oferă replici autentice perfecte pentru suveniruri de neuitat.",
+            "en": "Experience the world-famous Talavera ceramics up close; the museum shop offers authentic replicas that make for absolutely perfect and unique souvenirs."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio de los Marqueses de Villatoya",
+            "hu": "Palacio de los Marqueses de Villatoya",
+            "ro": "Palacio de los Marqueses de Villatoya",
+            "en": "Palacio de los Marqueses de Villatoya"
+          },
+          "coords": [
+            -4.831882,
+            39.959482
+          ],
+          "category": "castle",
+          "arrive_at": "13:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betrachten Sie die majestätische Architektur dieses historischen Palastes; achten Sie auf den Verkehr, wenn Sie mit dem Fahrrad durch diese engen Straßen fahren.",
+            "hu": "Tekintse meg ennek a történelmi palotának a fenséges építészetét; legyen óvatos a forgalommal, amikor kerékpárral közlekedik ezeken a szűkebb utcákon.",
+            "ro": "Observați arhitectura maiestuoasă a acestui palat istoric; fiți atenți la trafic atunci când mergeți cu bicicleta prin aceste străzi destul de înguste.",
+            "en": "Observe the majestic architecture of this historical palace, and be sure to pay careful attention to local traffic when cycling through these narrow streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Restos de la Puerta de Mérida",
+            "hu": "Restos de la Puerta de Mérida",
+            "ro": "Restos de la Puerta de Mérida",
+            "en": "Restos de la Puerta de Mérida"
+          },
+          "coords": [
+            -4.835056,
+            39.95773
+          ],
+          "category": "fortress",
+          "arrive_at": "15:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Überreste dieser alten Stadtmauer; es gibt oft ruhige Ecken in der Nähe, die sich perfekt für eine kurze Trinkpause eignen.",
+            "hu": "Fedezze fel ezen ősi városfal lenyűgöző maradványait; a közelben gyakran találhatók csendes sarkok, amelyek tökéletesek egy rövid, frissítő ivószünetre.",
+            "ro": "Explorați rămășițele fascinante ale acestui vechi zid al orașului; există adesea colțuri liniștite în apropiere, perfecte pentru o scurtă pauză de hidratare.",
+            "en": "Explore the fascinating remains of this ancient city wall; you can often find quiet corners nearby that are absolutely perfect for a quick hydration break."
+          }
+        },
+        {
+          "name": {
+            "de": "Colegiata Santa María la Mayor",
+            "hu": "Colegiata Santa María la Mayor",
+            "ro": "Colegiata Santa María la Mayor",
+            "en": "Colegiata Santa María la Mayor"
+          },
+          "coords": [
+            -4.831932,
+            39.9576
+          ],
+          "category": "religious",
+          "arrive_at": "16:41",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese prächtige Stiftskirche mit ihrer beeindruckenden Rosette; achten Sie auf die Öffnungszeiten am Nachmittag, um das Kirchenschiff zu sehen.",
+            "hu": "Látogasson el ebbe a csodálatos, gyönyörű rózsaablakkal rendelkező társaskáptalanba, és ellenőrizze a délutáni nyitvatartást, ha be szeretne menni.",
+            "ro": "Vizitați această magnifică biserică colegială și uimitoarea sa rozetă; verificați programul de după-amiază pentru a putea explora liniștit nava principală.",
+            "en": "Visit this magnificent collegiate church featuring a beautiful rose window, and be sure to check the afternoon opening hours to explore the grand nave inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Radtour beginnt entspannt in den grünen Jardines del Prado. Die frische Luft macht wach, bevor es weiter zur markanten Plaza de Toros geht, wo ein kurzer Fotostopp die spanische Tradition einfängt.\n\nGegen Mittag fahren wir zur historischen Puerta de Sevilla, einem beeindruckenden Festungstor. Die Fahrt dorthin zeigt das städtische Leben, und die alten Mauern erzählen Geschichten aus der maurischen Zeit.\n\nAm Nachmittag wird es kulturell: Nach dem herrlichen Museo de Cerámica radeln wir zum majestätischen Palacio de los Marqueses de Villatoya. Die Gassen sind eng, fordern Aufmerksamkeit, belohnen aber mit Charme.\n\nWir beenden die Tour entlang der alten Stadtmauern an den Restos der Puerta de Mérida und der Colegiata Santa María la Mayor. Das sanfte Abendlicht taucht die historischen Steine in ein goldenes, unvergessliches Licht.",
+        "hu": "A kerékpártúra a zöldellő Jardines del Prado kertjeiben kezdődik. A friss levegő után a Plaza de Toros felé indulunk, ahol a híres bikaviadal-aréna előtt megállva azonnal megérezzük a spanyol hagyományokat.\n\nDélben a lenyűgöző Puerta de Sevilla erődítménykapuhoz tekerünk. A mór időket idéző falak és a környék hangulatos utcái tökéletes lehetőséget adnak a történelmi városrész gyors felfedezésére.\n\nA délután folyamán a kerámia múzeum csodái után a Palacio de los Marqueses de Villatoya épületét csodáljuk meg. A szűk utcákon óvatosan kell tekerni, de a lenyűgöző építészet kárpótol minden fáradozásért.\n\nAz estét a Puerta de Mérida maradványainál és a Colegiata Santa María la Mayor templomnál zárjuk. A lenyugvó nap fénye aranyba öltözteti a köveket, ami tökéletes, nyugodt befejezése a napnak.",
+        "ro": "Turul pe bicicletă începe relaxant în Jardines del Prado. Aerul proaspăt ne energizează înainte de a ajunge la Plaza de Toros, unde facem o scurtă oprire pentru a surprinde esența tradiției spaniole în fotografii.\n\nLa prânz, pedalăm spre istorica Puerta de Sevilla, o poartă de fortăreață impresionantă. Zidurile vechi și atmosfera străzilor ne poartă cu gândul la trecutul bogat și la influențele maure ale orașului.\n\nDupă-amiaza ne aduce la faimosul Museo de Cerámica, urmat de o plimbare spre Palacio de los Marqueses de Villatoya. Străzile înguste necesită atenție, dar arhitectura palatului este o recompensă pe măsură.\n\nZiua se încheie la ruinele Puerta de Mérida și la frumoasa Colegiata Santa María la Mayor. Lumina blândă a serii transformă pietrele antice, oferind un peisaj de o frumusețe aurie și absolut memorabilă.",
+        "en": "The cycling tour begins with a relaxing ride through the lush Jardines del Prado. The fresh air energizes us before a quick photo stop at the iconic Plaza de Toros, perfectly capturing deep-rooted Spanish traditions.\n\nAround midday, we ride towards the impressive Puerta de Sevilla. The ancient fortress walls remind us of the city's Moorish past, and the vibrant surrounding streets make the journey highly enjoyable.\n\nIn the afternoon, we visit the renowned Ceramics Museum before cycling to the majestic Palacio de los Marqueses de Villatoya. Navigating the narrow streets is thrilling and rewards us with stunning medieval architecture.\n\nWe conclude our ride along the historical city walls at the Restos de la Puerta de Mérida and the Colegiata Santa María la Mayor. The evening light casts a beautiful golden glow over the ancient, weathered stones."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:07",
+      "total_km": 2.06,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parque de Gabriel Alonso de Herrera",
+            "hu": "Parque de Gabriel Alonso de Herrera",
+            "ro": "Parque de Gabriel Alonso de Herrera",
+            "en": "Parque de Gabriel Alonso de Herrera"
+          },
+          "coords": [
+            -4.821421,
+            39.959493
+          ],
+          "category": "park",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto in der Nähe und spazieren Sie durch diesen friedlichen Park, der eine willkommene grüne Oase inmitten der städtischen Umgebung bietet.",
+            "hu": "Parkolja le autóját a közelben, és sétáljon egyet ebben a békés parkban, amely igazi zöld oázist kínál a városi környezet sűrű és pezsgő forgatagában.",
+            "ro": "Parcați mașina în apropiere și plimbați-vă prin acest parc liniștit, care oferă o oază verde binevenită în mijlocul agitației mediului urban din împrejurimi.",
+            "en": "Park your car nearby and take a leisurely stroll through this peaceful park, which provides a highly welcome green oasis right in the midst of the urban environment."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de Toros de La Caprichosa",
+            "hu": "Plaza de Toros de La Caprichosa",
+            "ro": "Plaza de Toros de La Caprichosa",
+            "en": "Plaza de Toros de La Caprichosa"
+          },
+          "coords": [
+            -4.821174,
+            39.960817
+          ],
+          "category": "landmark",
+          "arrive_at": "10:26",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Halten Sie kurz an dieser ikonischen Stierkampfarena für ein schnelles Foto, da die imposante Struktur einen tiefen Einblick in die spanische Kultur bietet.",
+            "hu": "Álljon meg egy pillanatra ennél az ikonikus bikaviadal-arénánál egy gyors fotó erejéig; a lenyűgöző építmény mély betekintést nyújt a spanyol kultúrába.",
+            "ro": "Opriți-vă scurt la această arenă iconică pentru o fotografie rapidă; structura sa impunătoare oferă o perspectivă profundă asupra culturii tradiționale spaniole.",
+            "en": "Stop briefly at this iconic bullring for a quick photo; its imposing structure offers a profound and interesting insight into traditional Spanish culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa-Palacio de la Calle Sol",
+            "hu": "Casa-Palacio de la Calle Sol",
+            "ro": "Casa-Palacio de la Calle Sol",
+            "en": "Casa-Palacio de la Calle Sol"
+          },
+          "coords": [
+            -4.828964,
+            39.960756
+          ],
+          "category": "historical",
+          "arrive_at": "10:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.66,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fassade dieses eleganten Palastes; Parkplätze können hier knapp sein, also nutzen Sie am besten die markierten Zonen in den Nebenstraßen.",
+            "hu": "Csodálja meg ezen elegáns palota homlokzatát; a parkolóhelyek itt ritkák lehetnek, ezért érdemes a mellékutcák kijelölt zónáit használni a megálláshoz.",
+            "ro": "Admirați fațada acestui palat elegant; locurile de parcare pot fi puține aici, deci este cel mai bine să folosiți zonele marcate de pe străzile lăturalnice.",
+            "en": "Admire the facade of this elegant palace; parking spots can be scarce here, so it is highly advisable to use the designated zones on the side streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de Santiago el Nuevo",
+            "hu": "Iglesia de Santiago el Nuevo",
+            "ro": "Iglesia de Santiago el Nuevo",
+            "en": "Iglesia de Santiago el Nuevo"
+          },
+          "coords": [
+            -4.831827,
+            39.96213
+          ],
+          "category": "religious",
+          "arrive_at": "12:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.29,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Mudéjar-Architektur dieser Kirche und achten Sie auf die kunstvollen Ziegelfassaden, während Sie morgens das ruhige Ambiente genießen.",
+            "hu": "Csodálja meg a templom lenyűgöző mudéjar építészetét és díszes téglafalait, de érkezzen korán, hogy elkerülje a nagyobb turistacsoportokat.",
+            "ro": "Admirați arhitectura mudejară a acestei biserici și fațadele ornamentate din cărămidă; este recomandat să o vizitați dimineața devreme pentru o experiență liniștită.",
+            "en": "Marvel at the Mudejar architecture and ornate brickwork of this church, and try to visit early in the morning to fully enjoy its serene and quiet atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Cultural El Salvador",
+            "hu": "Centro Cultural El Salvador",
+            "ro": "Centro Cultural El Salvador",
+            "en": "Centro Cultural El Salvador"
+          },
+          "coords": [
+            -4.834034,
+            39.959667
+          ],
+          "category": "museum",
+          "arrive_at": "12:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte dieses ehemaligen Tempels, der jetzt als Kulturzentrum dient, und fragen Sie am Eingang nach temporären Ausstellungen.",
+            "hu": "Fedezze fel ennek az egykori templomnak a gazdag történelmét, amely ma kulturális központként működik, és érdeklődjön az aktuális időszaki kiállításokról.",
+            "ro": "Explorați istoria bogată a acestui fost templu transformat în centru cultural și nu uitați să întrebați la intrare despre expozițiile temporare actuale.",
+            "en": "Discover the rich history of this former temple turned cultural center, and be sure to ask at the entrance about any fascinating temporary exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Restos de la Puerta de Mérida",
+            "hu": "Restos de la Puerta de Mérida",
+            "ro": "Restos de la Puerta de Mérida",
+            "en": "Restos de la Puerta de Mérida"
+          },
+          "coords": [
+            -4.835056,
+            39.95773
+          ],
+          "category": "fortress",
+          "arrive_at": "14:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Überreste dieser alten Stadtmauer; es gibt oft ruhige Ecken in der Nähe, die sich perfekt für eine kurze Trinkpause eignen.",
+            "hu": "Fedezze fel ezen ősi városfal lenyűgöző maradványait; a közelben gyakran találhatók csendes sarkok, amelyek tökéletesek egy rövid, frissítő ivószünetre.",
+            "ro": "Explorați rămășițele fascinante ale acestui vechi zid al orașului; există adesea colțuri liniștite în apropiere, perfecte pentru o scurtă pauză de hidratare.",
+            "en": "Explore the fascinating remains of this ancient city wall; you can often find quiet corners nearby that are absolutely perfect for a quick hydration break."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Etnográfico de Talavera",
+            "hu": "Museo Etnográfico de Talavera",
+            "ro": "Museo Etnográfico de Talavera",
+            "en": "Museo Etnográfico de Talavera"
+          },
+          "coords": [
+            -4.830406,
+            39.957262
+          ],
+          "category": "museum",
+          "arrive_at": "15:57",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die lokalen Traditionen und das Alltagsleben vergangener Epochen ein; die interaktiven Ausstellungen sind besonders aufschlussreich und detailliert.",
+            "hu": "Merüljön el a helyi hagyományokban és a múlt mindennapi életében; az interaktív kiállítások rendkívül informatívak és részletesen bemutatják a kultúrát.",
+            "ro": "Cufundați-vă în tradițiile locale și în viața de zi cu zi a epocilor trecute; expozițiile interactive sunt deosebit de informative și foarte detaliate.",
+            "en": "Immerse yourself in the local traditions and daily life of past eras; the interactive exhibits are particularly informative and offer a deep dive into culture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unsere Autotour startet am idyllischen Parque de Gabriel Alonso de Herrera, wo wir die morgendliche Ruhe genießen. Danach halten wir kurz an der Plaza de Toros für ein beeindruckendes Erinnerungsfoto.\n\nAm Mittag bewundern wir die Fassade der Casa-Palacio de la Calle Sol. Gleich im Anschluss besuchen wir die wunderschöne Iglesia de Santiago el Nuevo, deren Architektur ein wahres Meisterwerk der Mudéjar-Kunst ist.\n\nDer Nachmittag ist für tiefe historische Einblicke reserviert. Wir verbringen Zeit im Centro Cultural El Salvador und erkunden danach die Restos der Puerta de Mérida, die das mittelalterliche Stadtbild stark prägen.\n\nZum Abschluss parken wir nahe dem Museo Etnográfico de Talavera. Die faszinierenden Ausstellungen über das historische Alltagsleben bilden den perfekten, gemütlichen Ausklang eines ereignisreichen Tages mit dem Auto.",
+        "hu": "Az autós túra a békés Parque de Gabriel Alonso de Herrera parknál indul, ahol feltöltődünk a reggeli nyugalomban. Ezt követően a lenyűgöző Plaza de Toros felé vesszük az irányt egy rövid, emlékezetes fotószünetre.\n\nDélben a Casa-Palacio de la Calle Sol elegáns homlokzatát csodáljuk meg, mielőtt átsétálnánk az Iglesia de Santiago el Nuevo templomhoz. Ennek a csodás épületnek a mudéjar stílusa egyszerűen lenyűgöző és egyedi.\n\nA délutánt a város mélyebb történetének szenteljük. A Centro Cultural El Salvador felfedezése után a Puerta de Mérida ősi falmaradványait keressük fel, amelyek hűen őrzik a spanyol város középkori hangulatát.\n\nA napot a Museo Etnográfico de Talavera kiállításainál zárjuk. A helyi hagyományokat és a mindennapi életet bemutató gazdag gyűjtemény méltó és elgondolkodtató lezárása ennek a kényelmes, autós felfedezőútnak.",
+        "ro": "Turul nostru cu mașina începe la Parque de Gabriel Alonso de Herrera, unde ne bucurăm de liniștea dimineții. Urmează o oprire rapidă la Plaza de Toros pentru a captura o fotografie memorabilă cu această arenă istorică.\n\nLa prânz, admirăm fațada elegantă a Casa-Palacio de la Calle Sol. Imediat după, vizităm superba Iglesia de Santiago el Nuevo, o adevărată capodoperă a arhitecturii mudejare care domină orizontul istoric al orașului.\n\nDupă-amiaza este rezervată explorărilor culturale ample. Vizităm Centro Cultural El Salvador, apoi ne îndreptăm spre resturile vechii fortărețe Puerta de Mérida, care amintesc de vremurile medievale zbuciumate.\n\nFinalizăm ziua la Museo Etnográfico de Talavera. Expozițiile sale captivante despre viața de zi cu zi a strămoșilor oferă o încheiere perfectă și profundă a acestei excursii confortabile de o zi cu mașina.",
+        "en": "Our car tour starts at the peaceful Parque de Gabriel Alonso de Herrera, enjoying the quiet morning air. We then take a brief drive to the iconic Plaza de Toros for a fantastic photo opportunity of the grand arena.\n\nBy midday, we admire the elegant exterior of the Casa-Palacio de la Calle Sol. Shortly after, we step into the gorgeous Iglesia de Santiago el Nuevo, marveling at its spectacular and well-preserved Mudejar architecture.\n\nThe afternoon is dedicated to rich historical deep dives. We spend time exploring the Centro Cultural El Salvador before heading to the ancient Restos de la Puerta de Mérida, which powerfully echo the medieval past.\n\nWe wrap up the day at the Museo Etnográfico de Talavera. Its fascinating exhibits detailing local heritage and historical daily life serve as a truly perfect, relaxing conclusion to our comfortable driving itinerary."
+      }
+    }
+  }
+}

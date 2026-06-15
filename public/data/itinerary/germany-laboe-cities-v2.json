@@ -1,0 +1,543 @@
+{
+  "city_id": "germany-laboe-cities-v2",
+  "anchor": {
+    "name": "Laboe",
+    "coords": [
+      10.22566,
+      54.40225
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:06",
+      "total_km": 2.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Anker-Gottes-Kirche",
+            "hu": "Horgonyisten Temploma",
+            "ro": "Biserica Ancorei",
+            "en": "Anchor of God Church"
+          },
+          "coords": [
+            10.22651,
+            54.402401
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ankerförmige Architektur zu Ehren der Seeleute und werfen Sie einen Blick auf das Brett für abendliche Orgelkonzerte.",
+            "hu": "Csodálja meg a helyi tengerészeket tisztelő, horgony témájú építészetet, és nézze meg a hirdetőtáblát az esti orgonakoncertekért.",
+            "ro": "Admirați arhitectura în formă de ancoră care onorează marinarii locali și nu uitați să verificați panoul pentru concertele de orgă de seară.",
+            "en": "Admire the stunning anchor-themed architecture that honors local sailors, and remember to check the notice board for lovely evening organ concerts."
+          }
+        },
+        {
+          "name": {
+            "de": "Musikmuschel",
+            "hu": "Zenepavilon",
+            "ro": "Pavilionul de Muzică",
+            "en": "Music Shell"
+          },
+          "coords": [
+            10.218312,
+            54.404932
+          ],
+          "category": "cultural",
+          "arrive_at": "09:59",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie kostenlose Open-Air-Auftritte in diesem muschelförmigen Pavillon, aber kommen Sie etwas früher für eine Bank am Ufer.",
+            "hu": "Élvezze az ingyenes szabadtéri előadásokat ebben a kagyló alakú pavilonban, de érkezzen korábban, hogy jó helyet kapjon a parton.",
+            "ro": "Bucurați-vă de spectacole gratuite în aer liber în acest pavilion acustic și ajungeți devreme pentru a prinde o bancă lângă apă.",
+            "en": "Enjoy free open-air performances in this shell-shaped acoustic pavilion, but arrive a bit early to secure a good bench near the beautiful waterfront."
+          }
+        },
+        {
+          "name": {
+            "de": "Kurstrand",
+            "hu": "Gyógyfürdő strand",
+            "ro": "Plaja Kurstrand",
+            "en": "Spa Beach"
+          },
+          "coords": [
+            10.220355,
+            54.407214
+          ],
+          "category": "recreational",
+          "arrive_at": "10:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie am feinen weißen Sand dieses gepflegten Kurstrandes und mieten Sie einen traditionellen Strandkorb als perfekten Windschutz.",
+            "hu": "Pihenjen a gondozott fürdőstrand finom fehér homokján, és béreljen egy hagyományos Strandkorbot a hűvösebb szél elleni védelem érdekében.",
+            "ro": "Relaxați-vă pe nisipul alb și fin al acestei plaje balneare și luați în considerare închirierea unui Strandkorb pentru protecție împotriva vântului.",
+            "en": "Relax on the fine white sands of this well-kept spa beach perfect for sunbathing, and consider renting a traditional Strandkorb for wind protection."
+          }
+        },
+        {
+          "name": {
+            "de": "De Laboer Lachmöwen",
+            "hu": "De Laboer Lachmöwen Színház",
+            "ro": "Teatrul De Laboer Lachmöwen",
+            "en": "De Laboer Lachmöwen Theater"
+          },
+          "coords": [
+            10.225155,
+            54.407934
+          ],
+          "category": "cultural",
+          "arrive_at": "11:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die plattdeutsche Kultur in diesen unterhaltsamen Theaterstücken und buchen Sie Ihre Tickets frühzeitig, da sie sehr beliebt sind.",
+            "hu": "Fedezze fel az alnémet kultúrát a rendkívül szórakoztató vígjátékokon keresztül, de foglaljon jegyet előre, mert a helyek gyorsan elfogynak.",
+            "ro": "Descoperiți cultura locală autentică prin piese de teatru de comedie și asigurați-vă că rezervați biletele din timp deoarece se epuizează rapid.",
+            "en": "Discover authentic Low German culture through highly entertaining comedic plays, and try to book your tickets well in advance as seats fill up fast."
+          }
+        },
+        {
+          "name": {
+            "de": "Laboe Strand",
+            "hu": "Laboe tengerpart",
+            "ro": "Plaja Laboe",
+            "en": "Laboe Beach"
+          },
+          "coords": [
+            10.227434,
+            54.411318
+          ],
+          "category": "recreational",
+          "arrive_at": "12:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem lebhaften Küstenabschnitt mit Blick auf Schiffe und holen Sie sich ein leckeres Fischbrötchen an der Promenade.",
+            "hu": "Sétáljon végig az élénk partszakaszon, ahonnan remek kilátás nyílik a hajókra, és vegyen egy finom halas szendvicset a sétányon.",
+            "ro": "Plimbați-vă de-a lungul acestei coaste pline de viață cu vedere la nave și cumpărați un sandviș delicios cu pește de la un chioșc.",
+            "en": "Stroll along this lively coastal stretch offering excellent views of passing ships, and grab a delicious fish sandwich from a nearby promenade kiosk."
+          }
+        },
+        {
+          "name": {
+            "de": "U-995",
+            "hu": "U-995 Tengeralattjáró",
+            "ro": "Submarinul U-995",
+            "en": "U-995 Submarine"
+          },
+          "coords": [
+            10.228856,
+            54.412442
+          ],
+          "category": "landmark",
+          "arrive_at": "13:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses originale U-Boot aus dem Zweiten Weltkrieg, um die Enge zu erleben, und tragen Sie bequeme Schuhe für die schmalen Luken.",
+            "hu": "Lépjen be ebbe az eredeti második világháborús tengeralattjáróba, és viseljen kényelmes cipőt a szűk ajtónyílásokon való átjutáshoz.",
+            "ro": "Pășiți în acest submarin original din al Doilea Război Mondial pentru a vedea condițiile înguste și purtați încălțăminte comodă.",
+            "en": "Step inside this original WWII submarine to experience the incredibly cramped conditions, and wear comfortable shoes to navigate the narrow hatches."
+          }
+        },
+        {
+          "name": {
+            "de": "Marine-Ehrenmal Laboe",
+            "hu": "Laboe Tengerészeti Emlékmű",
+            "ro": "Memorialul Naval Laboe",
+            "en": "Laboe Naval Memorial"
+          },
+          "coords": [
+            10.230775,
+            54.412176
+          ],
+          "category": "historical",
+          "arrive_at": "15:16",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erklimmen Sie den Turm für atemberaubende Ausblicke über die Ostsee und besuchen Sie die unterirdische Gedenkhalle für gefallene Seeleute.",
+            "hu": "Mássza meg az emlékmű tornyát a Balti-tengerre nyíló lélegzetelállító kilátásért, és szánjon időt a tengerészek földalatti emlékcsarnokára is.",
+            "ro": "Urcați în turnul memorialului pentru vederi uluitoare spre Marea Baltică și vizitați sala de reflecție subterană în onoarea marinarilor.",
+            "en": "Climb the imposing memorial tower for breathtaking views across the Baltic Sea, and take time to visit the underground reflection hall honoring lost sailors."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie an der historischen Ankerkirche und spazieren Sie zum Küsten-Musikpavillon. Genießen Sie mittags den erholsamen Kurstrand und entdecken Sie die lokale Kultur bei den Lachmöwen. Nachmittags flanieren Sie am Laboe Strand und erkunden das faszinierende U-Boot U-995. Schließen Sie den Tag am überragenden Marine-Ehrenmal mit Blick auf die abendliche Küste ab.",
+        "hu": "Kezdje a történelmi horgonytemplomnál, majd irány a tengerparti zenepavilon. Élvezze a pihentető Kurstrandot és fedezze fel a helyi kultúrát a Lachmöwen színházban. Délután sétáljon végig a Laboe strandon, mielőtt felfedezné a lenyűgöző U-995 tengeralattjárót. Zárja a napot a magasodó Tengerészeti Emlékműnél a lenyűgöző parti naplemente látványával.",
+        "ro": "Începeți la biserica istorică a ancorei, apoi mergeți la pavilionul de muzică de la malul mării. Bucurați-vă de Kurstrand relaxant și descoperiți cultura locală la teatrul Lachmöwen. După-amiaza, plimbați-vă pe plaja Laboe înainte de a explora submarinul U-995. Încheiați la impresionantul Memorial Naval pentru priveliști superbe de coastă la apus.",
+        "en": "Start at the historic anchor church, then stroll towards the scenic coastal music pavilion. Enjoy the relaxing Kurstrand beach and discover authentic local culture at the Lachmöwen theater. Walk along the vibrant Laboe Strand before stepping inside the fascinating U-995 submarine. Conclude your day at the towering Naval Memorial, taking in stunning twilight coastal views."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:35",
+      "total_km": 3.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Anker-Gottes-Kirche",
+            "hu": "Horgonyisten Temploma",
+            "ro": "Biserica Ancorei",
+            "en": "Anchor of God Church"
+          },
+          "coords": [
+            10.22651,
+            54.402401
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ankerförmige Architektur zu Ehren der Seeleute und werfen Sie einen Blick auf das Brett für abendliche Orgelkonzerte.",
+            "hu": "Csodálja meg a helyi tengerészeket tisztelő, horgony témájú építészetet, és nézze meg a hirdetőtáblát az esti orgonakoncertekért.",
+            "ro": "Admirați arhitectura în formă de ancoră care onorează marinarii locali și nu uitați să verificați panoul pentru concertele de orgă de seară.",
+            "en": "Admire the stunning anchor-themed architecture that honors local sailors, and remember to check the notice board for lovely evening organ concerts."
+          }
+        },
+        {
+          "name": {
+            "de": "Kurstrand",
+            "hu": "Gyógyfürdő strand",
+            "ro": "Plaja Kurstrand",
+            "en": "Spa Beach"
+          },
+          "coords": [
+            10.220355,
+            54.407214
+          ],
+          "category": "recreational",
+          "arrive_at": "09:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie am feinen weißen Sand dieses gepflegten Kurstrandes und mieten Sie einen traditionellen Strandkorb als perfekten Windschutz.",
+            "hu": "Pihenjen a gondozott fürdőstrand finom fehér homokján, és béreljen egy hagyományos Strandkorbot a hűvösebb szél elleni védelem érdekében.",
+            "ro": "Relaxați-vă pe nisipul alb și fin al acestei plaje balneare și luați în considerare închirierea unui Strandkorb pentru protecție împotriva vântului.",
+            "en": "Relax on the fine white sands of this well-kept spa beach perfect for sunbathing, and consider renting a traditional Strandkorb for wind protection."
+          }
+        },
+        {
+          "name": {
+            "de": "Freistrand",
+            "hu": "Szabadstrand",
+            "ro": "Plaja Liberă",
+            "en": "Free Beach"
+          },
+          "coords": [
+            10.225498,
+            54.410084
+          ],
+          "category": "recreational",
+          "arrive_at": "11:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen an diesem Naturstrand mit unberührten Dünen und bringen Sie eine Decke mit, da hier Strandkörbe seltener sind.",
+            "hu": "Meneküljön el a tömeg elől ezen a természetes strandon, és hozzon magával egy pokrócot, mivel itt kevesebb a bérelhető nyugágy.",
+            "ro": "Scăpați de aglomerație la această plajă naturală cu dune imaculate și aduceți o pătură, deoarece șezlongurile nu sunt atât de frecvente aici.",
+            "en": "Escape the main crowds at this expansive natural beach offering pristine dunes, and bring your own blanket since beach chairs aren't widely available here."
+          }
+        },
+        {
+          "name": {
+            "de": "U-995",
+            "hu": "U-995 Tengeralattjáró",
+            "ro": "Submarinul U-995",
+            "en": "U-995 Submarine"
+          },
+          "coords": [
+            10.228856,
+            54.412442
+          ],
+          "category": "landmark",
+          "arrive_at": "12:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses originale U-Boot aus dem Zweiten Weltkrieg, um die Enge zu erleben, und tragen Sie bequeme Schuhe für die schmalen Luken.",
+            "hu": "Lépjen be ebbe az eredeti második világháborús tengeralattjáróba, és viseljen kényelmes cipőt a szűk ajtónyílásokon való átjutáshoz.",
+            "ro": "Pășiți în acest submarin original din al Doilea Război Mondial pentru a vedea condițiile înguste și purtați încălțăminte comodă.",
+            "en": "Step inside this original WWII submarine to experience the incredibly cramped conditions, and wear comfortable shoes to navigate the narrow hatches."
+          }
+        },
+        {
+          "name": {
+            "de": "Marine-Ehrenmal Laboe",
+            "hu": "Laboe Tengerészeti Emlékmű",
+            "ro": "Memorialul Naval Laboe",
+            "en": "Laboe Naval Memorial"
+          },
+          "coords": [
+            10.230775,
+            54.412176
+          ],
+          "category": "historical",
+          "arrive_at": "13:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erklimmen Sie den Turm für atemberaubende Ausblicke über die Ostsee und besuchen Sie die unterirdische Gedenkhalle für gefallene Seeleute.",
+            "hu": "Mássza meg az emlékmű tornyát a Balti-tengerre nyíló lélegzetelállító kilátásért, és szánjon időt a tengerészek földalatti emlékcsarnokára is.",
+            "ro": "Urcați în turnul memorialului pentru vederi uluitoare spre Marea Baltică și vizitați sala de reflecție subterană în onoarea marinarilor.",
+            "en": "Climb the imposing memorial tower for breathtaking views across the Baltic Sea, and take time to visit the underground reflection hall honoring lost sailors."
+          }
+        },
+        {
+          "name": {
+            "de": "Fördepanorama u. Kieler Bucht",
+            "hu": "Kieli-öböl panoráma",
+            "ro": "Panorama Fiordului",
+            "en": "Fjord Panorama"
+          },
+          "coords": [
+            10.241663,
+            54.416106
+          ],
+          "category": "natural",
+          "arrive_at": "15:19",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das Panorama, wo die Kieler Förde auf das Meer trifft, und bringen Sie eine Kamera für spektakuläre Fotos im Sonnenuntergang mit.",
+            "hu": "Csodálja meg a lenyűgöző panorámát, ahol a Kieli-fjord találkozik a tengerrel, és hozzon magával fényképezőgépet a naplemente megörökítéséhez.",
+            "ro": "Admirați panoramele superbe unde fiordul Kiel întâlnește marea și aduceți un aparat foto pentru fotografii spectaculoase la apus.",
+            "en": "Marvel at the sweeping panoramic vistas where the bustling Kiel Fjord meets the sea, and bring a camera for spectacular golden hour photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Strohfigur Laboe",
+            "hu": "Laboe Szalmafigura",
+            "ro": "Figurina de paie Laboe",
+            "en": "Straw figure Laboe"
+          },
+          "coords": [
+            10.232987,
+            54.4102
+          ],
+          "category": "landmark",
+          "arrive_at": "15:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese kunstvoll geflochtenen Kunstwerke zur Feier der Ernte und besuchen Sie sie im Spätsommer für die beste Erfahrung.",
+            "hu": "Csodálja meg az aratást ünneplő, bonyolultan szőtt vidéki művészeti installációkat, és látogasson el nyár végén a legjobb látványért.",
+            "ro": "Admirați aceste instalații de artă rurală împletite care sărbătoresc recolta și vizitați la sfârșitul verii pentru a le vedea în splendoarea lor.",
+            "en": "Marvel at these intricately woven rural art installations celebrating the local harvest, and visit in late summer to see the displays at their best."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie von der friedlichen Kirche zum Kurstrand, um die frische Meeresbrise zu spüren. Fahren Sie weiter zum Freistrand und tauchen Sie beim U-995 in die Geschichte ein. Nachmittags passieren Sie das Ehrenmal für Panoramablicke auf die Kieler Bucht. Beenden Sie den Tag an der einzigartigen Strohfigur, die den ländlichen Charme Laboes perfekt einfängt.",
+        "hu": "Kerékpározzon a templomtól a Kurstrandhoz a friss reggeli tengeri szellőért. Folytassa útját a Freistrand felé, majd merüljön el a tengerészeti történelemben az U-995-nél. Tekerjen el az Emlékmű mellett, majd csodálja meg a panorámát a Kieli-öbölnél. Zárjon a különleges szalmafiguránál, elmerülve Laboe vidéki, tengerparti bájában.",
+        "ro": "Pedalați de la biserică spre Kurstrand pentru a simți briza proaspătă a dimineții. Continuați spre Freistrand și descoperiți istoria navală la uimitorul submarin U-995. Treceți pe lângă Memorialul Naval și urcați pentru vederi panoramice la Kieler Bucht. Terminați la figurina de paie, reflectând la farmecul rural al acestui oraș de coastă.",
+        "en": "Cycle from the peaceful church to Kurstrand to catch the fresh morning sea breeze. Continue your scenic ride to Freistrand before delving into naval history at U-995. Pedal past the iconic Naval Memorial and ride up for sweeping panoramic Kieler Bucht views. Finish by the unique straw figure, perfectly capturing Laboe's rural seaside charm."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:19",
+      "total_km": 8.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Strohfigur der Probsteier Korntage",
+            "hu": "Probsteier Szalmafigura",
+            "ro": "Figurina de paie Probsteier",
+            "en": "Probsteier Straw Figure"
+          },
+          "coords": [
+            10.244441,
+            54.385254
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die massiven Strohskulpturen, die das landwirtschaftliche Erbe ehren, und nutzen Sie die Festivalkarte, um alle Figuren zu finden.",
+            "hu": "Fedezze fel ezeket a hatalmas szalmaszobrokat, amelyek a régió mezőgazdasági örökségét tisztelik, és használja a fesztiváltérképet az összes megtalálásához.",
+            "ro": "Explorați aceste sculpturi masive din paie care onorează moștenirea agricolă și verificați harta festivalului pentru a găsi toate figurinele.",
+            "en": "Explore these massive temporary straw sculptures honoring regional agricultural heritage, and check the local festival map to find all the hidden figures."
+          }
+        },
+        {
+          "name": {
+            "de": "Anker-Gottes-Kirche",
+            "hu": "Horgonyisten Temploma",
+            "ro": "Biserica Ancorei",
+            "en": "Anchor of God Church"
+          },
+          "coords": [
+            10.22651,
+            54.402401
+          ],
+          "category": "religious",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ankerförmige Architektur zu Ehren der Seeleute und werfen Sie einen Blick auf das Brett für abendliche Orgelkonzerte.",
+            "hu": "Csodálja meg a helyi tengerészeket tisztelő, horgony témájú építészetet, és nézze meg a hirdetőtáblát az esti orgonakoncertekért.",
+            "ro": "Admirați arhitectura în formă de ancoră care onorează marinarii locali și nu uitați să verificați panoul pentru concertele de orgă de seară.",
+            "en": "Admire the stunning anchor-themed architecture that honors local sailors, and remember to check the notice board for lovely evening organ concerts."
+          }
+        },
+        {
+          "name": {
+            "de": "De Laboer Lachmöwen",
+            "hu": "De Laboer Lachmöwen Színház",
+            "ro": "Teatrul De Laboer Lachmöwen",
+            "en": "De Laboer Lachmöwen Theater"
+          },
+          "coords": [
+            10.225155,
+            54.407934
+          ],
+          "category": "cultural",
+          "arrive_at": "10:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die plattdeutsche Kultur in diesen unterhaltsamen Theaterstücken und buchen Sie Ihre Tickets frühzeitig, da sie sehr beliebt sind.",
+            "hu": "Fedezze fel az alnémet kultúrát a rendkívül szórakoztató vígjátékokon keresztül, de foglaljon jegyet előre, mert a helyek gyorsan elfogynak.",
+            "ro": "Descoperiți cultura locală autentică prin piese de teatru de comedie și asigurați-vă că rezervați biletele din timp deoarece se epuizează rapid.",
+            "en": "Discover authentic Low German culture through highly entertaining comedic plays, and try to book your tickets well in advance as seats fill up fast."
+          }
+        },
+        {
+          "name": {
+            "de": "U-995",
+            "hu": "U-995 Tengeralattjáró",
+            "ro": "Submarinul U-995",
+            "en": "U-995 Submarine"
+          },
+          "coords": [
+            10.228856,
+            54.412442
+          ],
+          "category": "landmark",
+          "arrive_at": "11:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses originale U-Boot aus dem Zweiten Weltkrieg, um die Enge zu erleben, und tragen Sie bequeme Schuhe für die schmalen Luken.",
+            "hu": "Lépjen be ebbe az eredeti második világháborús tengeralattjáróba, és viseljen kényelmes cipőt a szűk ajtónyílásokon való átjutáshoz.",
+            "ro": "Pășiți în acest submarin original din al Doilea Război Mondial pentru a vedea condițiile înguste și purtați încălțăminte comodă.",
+            "en": "Step inside this original WWII submarine to experience the incredibly cramped conditions, and wear comfortable shoes to navigate the narrow hatches."
+          }
+        },
+        {
+          "name": {
+            "de": "Marine-Ehrenmal Laboe",
+            "hu": "Laboe Tengerészeti Emlékmű",
+            "ro": "Memorialul Naval Laboe",
+            "en": "Laboe Naval Memorial"
+          },
+          "coords": [
+            10.230775,
+            54.412176
+          ],
+          "category": "historical",
+          "arrive_at": "12:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erklimmen Sie den Turm für atemberaubende Ausblicke über die Ostsee und besuchen Sie die unterirdische Gedenkhalle für gefallene Seeleute.",
+            "hu": "Mássza meg az emlékmű tornyát a Balti-tengerre nyíló lélegzetelállító kilátásért, és szánjon időt a tengerészek földalatti emlékcsarnokára is.",
+            "ro": "Urcați în turnul memorialului pentru vederi uluitoare spre Marea Baltică și vizitați sala de reflecție subterană în onoarea marinarilor.",
+            "en": "Climb the imposing memorial tower for breathtaking views across the Baltic Sea, and take time to visit the underground reflection hall honoring lost sailors."
+          }
+        },
+        {
+          "name": {
+            "de": "Fördepanorama u. Kieler Bucht",
+            "hu": "Kieli-öböl panoráma",
+            "ro": "Panorama Fiordului",
+            "en": "Fjord Panorama"
+          },
+          "coords": [
+            10.241663,
+            54.416106
+          ],
+          "category": "natural",
+          "arrive_at": "13:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das Panorama, wo die Kieler Förde auf das Meer trifft, und bringen Sie eine Kamera für spektakuläre Fotos im Sonnenuntergang mit.",
+            "hu": "Csodálja meg a lenyűgöző panorámát, ahol a Kieli-fjord találkozik a tengerrel, és hozzon magával fényképezőgépet a naplemente megörökítéséhez.",
+            "ro": "Admirați panoramele superbe unde fiordul Kiel întâlnește marea și aduceți un aparat foto pentru fotografii spectaculoase la apus.",
+            "en": "Marvel at the sweeping panoramic vistas where the bustling Kiel Fjord meets the sea, and bring a camera for spectacular golden hour photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Kieler Förde",
+            "hu": "Kieli-fjord",
+            "ro": "Fiordul Kiel",
+            "en": "Kiel Fjord"
+          },
+          "coords": [
+            10.196126,
+            54.399798
+          ],
+          "category": "landmark",
+          "arrive_at": "14:24",
+          "stay_min": 55,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie die massiven Fähren und flinken Segelboote und packen Sie eine Windjacke ein, da die Küstenbrise recht frisch sein kann.",
+            "hu": "Nézze meg a hatalmas kompok és vitorlások békés elhaladását, és csomagoljon egy könnyű széldzsekit, mivel a parti szellő elég hűvös lehet.",
+            "ro": "Priviți feriboturile uriașe și bărcile cu pânze alunecând pașnic și luați o jachetă de vânt, deoarece briza de coastă poate fi destul de rece.",
+            "en": "Watch the massive international ferries and nimble sailboats glide peacefully by, and pack a light windbreaker as the coastal breezes can be quite brisk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zu den traditionellen Strohfiguren, bevor Sie die malerische Ankerkirche besuchen. Sehen Sie sich lokales Theater an und fahren Sie zum U-Boot U-995. Am Nachmittag bewundern Sie das imposante Ehrenmal und fahren die Küste für tolle Panoramen hinauf. Beenden Sie Ihre Tour am Kieler Fjord und genießen Sie den maritimen Sonnenuntergang.",
+        "hu": "Vezessen a hagyományos szalmafigurákhoz, majd látogassa meg a hangulatos templomot. Nézze meg a helyi komédiát, majd utazzon az ikonikus U-995 tengeralattjáróhoz. Csodálja meg a Tengerészeti Emlékművet, majd menjen a part mentén a panorámáért. Fejezze be útját a Kieli-fjord mentén, élvezve a békés tengeri naplementét.",
+        "ro": "Conduceți la figurinele tradiționale de paie înainte de a vizita biserica pitorească. Urmăriți comedia locală la Lachmöwen, apoi conduceți la faimosul submarin U-995. Admirați impozantul Memorial Naval și mergeți pe coastă pentru vederi panoramice. Încheiați plimbarea pe malul fiordului Kiel, bucurându-vă de apusul maritim liniștit.",
+        "en": "Drive to the traditional straw figures before visiting the quaint and historic anchor church. Check out the local theater scene, then drive towards the iconic U-995 submarine. Admire the imposing Naval Memorial and head up the scenic coast for sweeping panoramas. Wrap up your scenic drive along the Kiel Fjord, enjoying a peaceful maritime sunset."
+      }
+    }
+  }
+}

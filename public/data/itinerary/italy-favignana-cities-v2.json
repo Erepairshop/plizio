@@ -1,0 +1,428 @@
+{
+  "city_id": "italy-favignana-cities-v2",
+  "anchor": {
+    "name": "Favignana",
+    "coords": [
+      12.32712,
+      37.9332
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:55",
+      "total_km": 2.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa Madre Maria Santissima Immacolata",
+            "hu": "Chiesa Madre Maria Santissima Immacolata",
+            "ro": "Chiesa Madre Maria Santissima Immacolata",
+            "en": "Chiesa Madre Maria Santissima Immacolata"
+          },
+          "coords": [
+            12.328711,
+            37.931924
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Fassade dieser zentralen Kirche aus dem 18. Jahrhundert am Stadtplatz und werfen Sie frühzeitig einen Blick hinein, um der Mittagshitze zu entgehen.",
+            "hu": "Csodálja meg a főtér központjában álló elegáns, 18. századi templom homlokzatát, és térjen be kora délelőtt, hogy a déli hőség előtt élvezhesse a békés, hűvös belső teret.",
+            "ro": "Admirați fațada elegantă a acestei biserici din secolul al XVIII-lea care domină piața și intrați devreme pentru a vă bucura de crucifixul liniștit de lemn înainte de arșiță.",
+            "en": "Admire the elegant facade of this focal 18th-century church that anchors the town square, and peek inside early before the midday heat to appreciate its peaceful wooden crucifix."
+          }
+        },
+        {
+          "name": {
+            "de": "Sant'Anna",
+            "hu": "Sant'Anna",
+            "ro": "Sant'Anna",
+            "en": "Sant'Anna"
+          },
+          "coords": [
+            12.331404,
+            37.931317
+          ],
+          "category": "religious",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses versteckte Juwel einer kleinen Kirche, die abseits der belebten Touristenstraßen einen ruhigen Ort zur Besinnung bietet und perfekt für eine kurze Pause ist.",
+            "hu": "Fedezze fel ezt a rejtett kis templomot, amely a nyüzsgő turistautcáktól távol csendes elmélkedést kínál, így tökéletes egy rövid, pihentető megállóra a városnéző sétája során.",
+            "ro": "Descoperiți această bijuterie ascunsă care oferă un spațiu liniștit de reflecție departe de străzile turistice aglomerate, fiind locul perfect pentru o scurtă pauză relaxantă.",
+            "en": "Discover this hidden gem of a neighborhood church which offers a quiet reflection space away from the main tourist streets, making it perfect for a brief pause during your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Ex stabilimento Florio Museo del Mare",
+            "hu": "Ex stabilimento Florio Museo del Mare",
+            "ro": "Ex stabilimento Florio Museo del Mare",
+            "en": "Ex stabilimento Florio Museo del Mare"
+          },
+          "coords": [
+            12.323539,
+            37.929523
+          ],
+          "category": "museum",
+          "arrive_at": "10:49",
+          "stay_min": 100,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese riesige ehemalige Thunfischfabrik, um Favignanas industrielles Erbe zu verstehen, und buchen Sie eine Führung, um die faszinierenden Geschichten zu hören.",
+            "hu": "Járja be ezt a hatalmas, egykori tonhal-feldolgozót, hogy megismerje a sziget ipari örökségét, és mindenképpen foglaljon vezetett túrát a halászok lenyűgöző történeteiért.",
+            "ro": "Explorați această imensă fostă fabrică de ton pentru a înțelege patrimoniul industrial al insulei și rezervați un tur ghidat pentru a asculta poveștile fascinante ale pescarilor.",
+            "en": "Explore this massive former tuna fishery to understand Favignana's industrial heritage, and be sure to book a guided tour to hear the fascinating oral histories of the fishermen."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia",
+            "hu": "Praia",
+            "ro": "Praia",
+            "en": "Praia"
+          },
+          "coords": [
+            12.325045,
+            37.929188
+          ],
+          "category": "recreational",
+          "arrive_at": "12:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem bequemen Sandstrand direkt neben dem Stadtzentrum und dem Museum, was ihn zum idealen Ort für ein schnelles, erfrischendes Bad ohne weite Wege macht.",
+            "hu": "Pihenjen ezen a központban, a múzeum mellett található homokos strandon, amely ideális választás egy gyors és frissítő úszáshoz, anélkül, hogy messzire kellene gyalogolnia.",
+            "ro": "Relaxați-vă pe această plajă convenabilă chiar lângă centru și muzeu, fiind locul ideal pentru o baie rapidă și răcoritoare fără a avea nevoie de transport sau planificare.",
+            "en": "Relax on this convenient sandy beach right next to the town center and the Florio museum, making it an ideal spot for a quick, refreshing swim without needing transportation."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Santa Caterina",
+            "hu": "Castello Santa Caterina",
+            "ro": "Castello Santa Caterina",
+            "en": "Castello Santa Caterina"
+          },
+          "coords": [
+            12.311968,
+            37.927085
+          ],
+          "category": "historical",
+          "arrive_at": "14:05",
+          "stay_min": 110,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Wandern Sie zu dieser zerklüfteten Festung auf dem Hügel hinauf, um atemberaubende Ausblicke auf die Ägadischen Inseln zu genießen; bringen Sie festes Schuhwerk und Wasser mit.",
+            "hu": "Túrázzon fel ehhez a zord hegytetőn álló erődhöz a lenyűgöző panorámáért az Egadi-szigetekre, de ne felejtsen el kényelmes cipőt húzni és sok vizet vinni a meredek kapaszkodóhoz.",
+            "ro": "Urcați la această fortăreață pe deal pentru a vă bucura de vederi panoramice uluitoare ale Insulelor Egadi, dar nu uitați să purtați încălțăminte solidă și să luați multă apă.",
+            "en": "Hike up to this rugged hilltop fortress to enjoy breathtaking panoramic views of the Egadi Islands, but remember to wear sturdy shoes and bring plenty of water for the steep ascent."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Herzen von Favignana mit der Chiesa Madre und dem Charme von Sant'Anna. Mittags besuchen Sie das riesige Ex stabilimento Florio, um die Geschichte des Thunfischfangs zu entdecken. Nachmittags entspannen Sie am Sandstrand Praia direkt an der Stadt. Gegen Abend belohnt Sie eine Wanderung zum Castello Santa Caterina mit einem atemberaubenden Sonnenuntergang über dem Archipel.",
+        "hu": "A reggel Favignana szívében indul, a Chiesa Madre és a Sant'Anna csendes bájának felfedezésével. Délben a hatalmas Ex stabilimento Florio várja, ahol elmerülhet a tonhalászat történelmében. Délután a közeli Praia homokos partján pihenhet. Ahogy közeledik az este, a Castello Santa Caterina felé vezető túra lenyűgöző, Egadi-szigetekre nyíló naplemente-panorámával jutalmazza meg önt.",
+        "ro": "Dimineața începe în inima orașului, admirând Chiesa Madre și farmecul liniștit al bisericii Sant'Anna. La prânz, vizitați imensa fabrică Florio pentru a descoperi istoria pescuitului de ton. După-amiaza vă relaxați pe țărmurile nisipoase de la Praia, foarte aproape de centru. Spre seară, o drumeție la Castello Santa Caterina vă răsplătește cu apusuri uimitoare peste arhipelagul Egadi.",
+        "en": "Morning begins in the vibrant heart of Favignana, admiring the Chiesa Madre and enjoying the quiet charm of Sant'Anna. Midday takes you to the immense Ex stabilimento Florio, delving deep into the island's historical tuna fishing roots. In the afternoon, you'll relax by the sandy shores of Praia right near town. As evening approaches, a hike up to Castello Santa Caterina rewards you with stunning sunset views across the Egadi archipelago."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:27",
+      "total_km": 7.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa Madre Maria Santissima Immacolata",
+            "hu": "Chiesa Madre Maria Santissima Immacolata",
+            "ro": "Chiesa Madre Maria Santissima Immacolata",
+            "en": "Chiesa Madre Maria Santissima Immacolata"
+          },
+          "coords": [
+            12.328711,
+            37.931924
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Fassade dieser zentralen Kirche aus dem 18. Jahrhundert am Stadtplatz und werfen Sie frühzeitig einen Blick hinein, um der Mittagshitze zu entgehen.",
+            "hu": "Csodálja meg a főtér központjában álló elegáns, 18. századi templom homlokzatát, és térjen be kora délelőtt, hogy a déli hőség előtt élvezhesse a békés, hűvös belső teret.",
+            "ro": "Admirați fațada elegantă a acestei biserici din secolul al XVIII-lea care domină piața și intrați devreme pentru a vă bucura de crucifixul liniștit de lemn înainte de arșiță.",
+            "en": "Admire the elegant facade of this focal 18th-century church that anchors the town square, and peek inside early before the midday heat to appreciate its peaceful wooden crucifix."
+          }
+        },
+        {
+          "name": {
+            "de": "Ex stabilimento Florio Museo del Mare",
+            "hu": "Ex stabilimento Florio Museo del Mare",
+            "ro": "Ex stabilimento Florio Museo del Mare",
+            "en": "Ex stabilimento Florio Museo del Mare"
+          },
+          "coords": [
+            12.323539,
+            37.929523
+          ],
+          "category": "museum",
+          "arrive_at": "09:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese riesige ehemalige Thunfischfabrik, um Favignanas industrielles Erbe zu verstehen, und buchen Sie eine Führung, um die faszinierenden Geschichten zu hören.",
+            "hu": "Járja be ezt a hatalmas, egykori tonhal-feldolgozót, hogy megismerje a sziget ipari örökségét, és mindenképpen foglaljon vezetett túrát a halászok lenyűgöző történeteiért.",
+            "ro": "Explorați această imensă fostă fabrică de ton pentru a înțelege patrimoniul industrial al insulei și rezervați un tur ghidat pentru a asculta poveștile fascinante ale pescarilor.",
+            "en": "Explore this massive former tuna fishery to understand Favignana's industrial heritage, and be sure to book a guided tour to hear the fascinating oral histories of the fishermen."
+          }
+        },
+        {
+          "name": {
+            "de": "Calamoni",
+            "hu": "Calamoni",
+            "ro": "Calamoni",
+            "en": "Calamoni"
+          },
+          "coords": [
+            12.333053,
+            37.920041
+          ],
+          "category": "recreational",
+          "arrive_at": "11:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Schnorcheln Sie im kristallklaren Wasser dieser wunderschönen Felsenküste, wo Sie bei früher Ankunft noch einen bequemen, flachen Felsen zum Sonnenbaden vor dem großen Andrang finden.",
+            "hu": "Szabadtüdős merüljön ezen a gyönyörű sziklás parton a kristálytiszta vízben, és érkezzen korán, hogy biztosítson egy kényelmes, lapos sziklát a napozáshoz a délutáni tömeg előtt.",
+            "ro": "Faceți snorkeling în apele cristaline de pe această coastă stâncoasă, unde sosirea devreme vă asigură o stâncă plată și confortabilă pentru plajă înaintea aglomerației de după-amiază.",
+            "en": "Snorkel in the crystal-clear shallow waters of this beautiful rocky coastline, where arriving early helps you secure a comfortable flat rock for sunbathing before the afternoon crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Burrone",
+            "hu": "Lido Burrone",
+            "ro": "Lido Burrone",
+            "en": "Lido Burrone"
+          },
+          "coords": [
+            12.338437,
+            37.918348
+          ],
+          "category": "recreational",
+          "arrive_at": "12:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie den größten Sandstrand der Insel mit hervorragenden Einrichtungen und ruhigem Wasser, wo sich das Mieten einer Liege für einen rundum entspannten Nachmittag absolut lohnt.",
+            "hu": "Élvezze a sziget legnagyobb homokos strandját kiváló felszereltséggel és nyugodt vízzel, ahol a napágyak bérlése mindenképpen megéri a kényelmes és pihentető délután érdekében.",
+            "ro": "Bucurați-vă de cea mai mare plajă cu nisip a insulei, cu ape calme și facilități excelente, unde închirierea unui șezlong merită din plin pentru o după-amiază de relaxare totală.",
+            "en": "Enjoy the island's largest sandy beach with excellent facilities and calm waters, which makes renting a sunbed well worth the cost for a fully relaxed and comfortable afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscina Approdo di Ulisse",
+            "hu": "Piscina Approdo di Ulisse",
+            "ro": "Piscina Approdo di Ulisse",
+            "en": "Piscina Approdo di Ulisse"
+          },
+          "coords": [
+            12.281041,
+            37.930031
+          ],
+          "category": "recreational",
+          "arrive_at": "14:42",
+          "stay_min": 105,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 5.2,
+          "tip_5lang": {
+            "de": "Schwimmen Sie in diesen natürlichen Felsenpools, die von malerischen Klippen umgeben sind und tolles Schnorcheln bieten; bringen Sie Badeschuhe für die scharfen Steine mit.",
+            "hu": "Fürödjön a lenyűgöző sziklákkal övezett természetes medencékben, amelyek remek sznorkelezést kínálnak, de hozzon magával vízi cipőt az éles, egyenetlen köveken való biztonságos járáshoz.",
+            "ro": "Înotați în aceste piscine naturale înconjurate de stânci pitorești cu condiții excelente de snorkeling și aduceți încălțăminte de apă pentru a naviga în siguranță pe pietrele ascuțite.",
+            "en": "Swim in these natural rock pools enclosed by scenic cliffs which offer incredible snorkeling, and bring water shoes to navigate the sharp, uneven stones safely while exploring."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radabenteuer beginnt an der Chiesa Madre, bevor Sie zum faszinierenden Florio-Museum radeln. Gegen Mittag fahren Sie gen Süden zu den felsigen Buchten von Calamoni. Den Nachmittag verbringen Sie am weitläufigen Sandstrand von Lido Burrone. Eine abendliche Fahrt in den Westen enthüllt schließlich die magischen Naturpools von Piscina Approdo di Ulisse, während der Tag gemütlich ausklingt.",
+        "hu": "Kerékpáros kalandja a Chiesa Madre-nél indul, mielőtt a lenyűgöző Florio múzeumba tekerne. Délben dél felé veszi az irányt, Calamoni hívogató sziklás öbleihez. A délutánt a Lido Burrone kiterjedt homokos partján és kiváló létesítményeiben élvezheti. Végül egy esti tekerés a sziget nyugati végébe felfedi a Piscina Approdo di Ulisse varázslatos természetes medencéit a naplementében.",
+        "ro": "Aventura pe bicicletă începe la Chiesa Madre, urmată de o vizită la fascinantul muzeu Florio. La prânz, pedalați spre sud către golfurile stâncoase primitoare de la Calamoni. După-amiaza este petrecută bucurându-vă de nisipul fin și facilitățile de la Lido Burrone. În cele din urmă, o plimbare de seară spre vest dezvăluie piscinele naturale magice de la Piscina Approdo di Ulisse.",
+        "en": "Your cycling adventure starts at the central Chiesa Madre before pedaling to the fascinating Florio museum to uncover local heritage. By midday, you are riding south towards the inviting rocky coves of Calamoni. The afternoon is spent enjoying the expansive sands and facilities at Lido Burrone. Finally, an evening ride to the far west unveils the magical natural pools of Piscina Approdo di Ulisse as the day winds down."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:33",
+      "total_km": 12.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ex stabilimento Florio Museo del Mare",
+            "hu": "Ex stabilimento Florio Museo del Mare",
+            "ro": "Ex stabilimento Florio Museo del Mare",
+            "en": "Ex stabilimento Florio Museo del Mare"
+          },
+          "coords": [
+            12.323539,
+            37.929523
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese riesige ehemalige Thunfischfabrik, um Favignanas industrielles Erbe zu verstehen, und buchen Sie eine Führung, um die faszinierenden Geschichten zu hören.",
+            "hu": "Járja be ezt a hatalmas, egykori tonhal-feldolgozót, hogy megismerje a sziget ipari örökségét, és mindenképpen foglaljon vezetett túrát a halászok lenyűgöző történeteiért.",
+            "ro": "Explorați această imensă fostă fabrică de ton pentru a înțelege patrimoniul industrial al insulei și rezervați un tur ghidat pentru a asculta poveștile fascinante ale pescarilor.",
+            "en": "Explore this massive former tuna fishery to understand Favignana's industrial heritage, and be sure to book a guided tour to hear the fascinating oral histories of the fishermen."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Santa Caterina",
+            "hu": "Castello Santa Caterina",
+            "ro": "Castello Santa Caterina",
+            "en": "Castello Santa Caterina"
+          },
+          "coords": [
+            12.311968,
+            37.927085
+          ],
+          "category": "historical",
+          "arrive_at": "10:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Wandern Sie zu dieser zerklüfteten Festung auf dem Hügel hinauf, um atemberaubende Ausblicke auf die Ägadischen Inseln zu genießen; bringen Sie festes Schuhwerk und Wasser mit.",
+            "hu": "Túrázzon fel ehhez a zord hegytetőn álló erődhöz a lenyűgöző panorámáért az Egadi-szigetekre, de ne felejtsen el kényelmes cipőt húzni és sok vizet vinni a meredek kapaszkodóhoz.",
+            "ro": "Urcați la această fortăreață pe deal pentru a vă bucura de vederi panoramice uluitoare ale Insulelor Egadi, dar nu uitați să purtați încălțăminte solidă și să luați multă apă.",
+            "en": "Hike up to this rugged hilltop fortress to enjoy breathtaking panoramic views of the Egadi Islands, but remember to wear sturdy shoes and bring plenty of water for the steep ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscina Approdo di Ulisse",
+            "hu": "Piscina Approdo di Ulisse",
+            "ro": "Piscina Approdo di Ulisse",
+            "en": "Piscina Approdo di Ulisse"
+          },
+          "coords": [
+            12.281041,
+            37.930031
+          ],
+          "category": "recreational",
+          "arrive_at": "12:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Schwimmen Sie in diesen natürlichen Felsenpools, die von malerischen Klippen umgeben sind und tolles Schnorcheln bieten; bringen Sie Badeschuhe für die scharfen Steine mit.",
+            "hu": "Fürödjön a lenyűgöző sziklákkal övezett természetes medencékben, amelyek remek sznorkelezést kínálnak, de hozzon magával vízi cipőt az éles, egyenetlen köveken való biztonságos járáshoz.",
+            "ro": "Înotați în aceste piscine naturale înconjurate de stânci pitorești cu condiții excelente de snorkeling și aduceți încălțăminte de apă pentru a naviga în siguranță pe pietrele ascuțite.",
+            "en": "Swim in these natural rock pools enclosed by scenic cliffs which offer incredible snorkeling, and bring water shoes to navigate the sharp, uneven stones safely while exploring."
+          }
+        },
+        {
+          "name": {
+            "de": "Calamoni",
+            "hu": "Calamoni",
+            "ro": "Calamoni",
+            "en": "Calamoni"
+          },
+          "coords": [
+            12.333053,
+            37.920041
+          ],
+          "category": "recreational",
+          "arrive_at": "13:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Schnorcheln Sie im kristallklaren Wasser dieser wunderschönen Felsenküste, wo Sie bei früher Ankunft noch einen bequemen, flachen Felsen zum Sonnenbaden vor dem großen Andrang finden.",
+            "hu": "Szabadtüdős merüljön ezen a gyönyörű sziklás parton a kristálytiszta vízben, és érkezzen korán, hogy biztosítson egy kényelmes, lapos sziklát a napozáshoz a délutáni tömeg előtt.",
+            "ro": "Faceți snorkeling în apele cristaline de pe această coastă stâncoasă, unde sosirea devreme vă asigură o stâncă plată și confortabilă pentru plajă înaintea aglomerației de după-amiază.",
+            "en": "Snorkel in the crystal-clear shallow waters of this beautiful rocky coastline, where arriving early helps you secure a comfortable flat rock for sunbathing before the afternoon crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Burrone",
+            "hu": "Lido Burrone",
+            "ro": "Lido Burrone",
+            "en": "Lido Burrone"
+          },
+          "coords": [
+            12.338437,
+            37.918348
+          ],
+          "category": "recreational",
+          "arrive_at": "15:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie den größten Sandstrand der Insel mit hervorragenden Einrichtungen und ruhigem Wasser, wo sich das Mieten einer Liege für einen rundum entspannten Nachmittag absolut lohnt.",
+            "hu": "Élvezze a sziget legnagyobb homokos strandját kiváló felszereltséggel és nyugodt vízzel, ahol a napágyak bérlése mindenképpen megéri a kényelmes és pihentető délután érdekében.",
+            "ro": "Bucurați-vă de cea mai mare plajă cu nisip a insulei, cu ape calme și facilități excelente, unde închirierea unui șezlong merită din plin pentru o după-amiază de relaxare totală.",
+            "en": "Enjoy the island's largest sandy beach with excellent facilities and calm waters, which makes renting a sunbed well worth the cost for a fully relaxed and comfortable afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Sant'Anna",
+            "hu": "Sant'Anna",
+            "ro": "Sant'Anna",
+            "en": "Sant'Anna"
+          },
+          "coords": [
+            12.331404,
+            37.931317
+          ],
+          "category": "religious",
+          "arrive_at": "16:23",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses versteckte Juwel einer kleinen Kirche, die abseits der belebten Touristenstraßen einen ruhigen Ort zur Besinnung bietet und perfekt für eine kurze Pause ist.",
+            "hu": "Fedezze fel ezt a rejtett kis templomot, amely a nyüzsgő turistautcáktól távol csendes elmélkedést kínál, így tökéletes egy rövid, pihentető megállóra a városnéző sétája során.",
+            "ro": "Descoperiți această bijuterie ascunsă care oferă un spațiu liniștit de reflecție departe de străzile turistice aglomerate, fiind locul perfect pentru o scurtă pauză relaxantă.",
+            "en": "Discover this hidden gem of a neighborhood church which offers a quiet reflection space away from the main tourist streets, making it perfect for a brief pause during your walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Autotour am historischen Florio-Museum und fahren Sie dann bequem zum Castello Santa Caterina für einen tollen Morgenblick. Mittags geht es quer über die Insel zu den Naturpools von Piscina Approdo di Ulisse. Verbringen Sie den Nachmittag mit Strand-Hopping, zuerst beim Schnorcheln in Calamoni, dann am Strand von Lido Burrone. Beenden Sie den Tag abends entspannt bei Sant'Anna.",
+        "hu": "Autós túrája a történelmi Florio múzeumban indul, majd könnyedén felhajthat a Castello Santa Caterina-hoz a pazar reggeli kilátásért. Délben átszeli a szigetet a Piscina Approdo di Ulisse természetes medencéihez. A délutánt strandolással töltheti, előbb sznorkelezve Calamoninál, majd Lido Burrone homokján pihenve. Zárja a napot a városba visszatérve a csendes Sant'Anna esti meglátogatásával.",
+        "ro": "Începeți turul auto la istoricul muzeu Florio, apoi navigați ușor spre Castello Santa Caterina pentru vederi panoramice de dimineață. Prânzul vă duce peste insulă la uimitoarele piscine naturale de la Piscina Approdo di Ulisse. Petreceți după-amiaza explorând plajele, prima dată la Calamoni, apoi la Lido Burrone. Încheiați ziua înapoi în oraș cu o vizită liniștită de seară la biserica Sant'Anna.",
+        "en": "Kick off your driving tour at the historic Florio museum, then easily navigate up to Castello Santa Caterina for sweeping morning views. Midday takes you across the island to the stunning natural pools of Piscina Approdo di Ulisse. Spend your afternoon beach-hopping, first snorkeling at Calamoni, then lounging on the sands of Lido Burrone. Conclude the trip back in town with a peaceful evening visit to Sant'Anna."
+      }
+    }
+  }
+}

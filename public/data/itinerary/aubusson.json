@@ -1,0 +1,474 @@
+{
+  "city_id": "aubusson",
+  "anchor": {
+    "name": "Aubusson",
+    "coords": [
+      2.1675,
+      45.9561
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:12",
+      "total_km": 2.02,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Tour de l'Horloge",
+            "hu": "Tour de l'Horloge",
+            "ro": "Tour de l'Horloge",
+            "en": "Tour de l'Horloge"
+          },
+          "coords": [
+            2.168577,
+            45.95732
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Steigen Sie auf den historischen Uhrenturm, um einen weiten Blick über das Creuse-Tal zu genießen, aber tragen Sie festes Schuhwerk für die unebenen alten Steinstufen.",
+            "hu": "Mássza meg a történelmi óratornyot, hogy élvezze a Creuse-völgyre nyíló lenyűgöző kilátást, de mindenképpen viseljen stabil cipőt az egyenetlen régi kőlépcsőkhöz.",
+            "ro": "Urcați în istoricul turn cu ceas pentru a admira priveliștile ample ale văii Creuse, dar asigurați-vă că purtați încălțăminte rezistentă pentru treptele vechi de piatră.",
+            "en": "Climb the historic clock tower to enjoy sweeping views of the Creuse valley, but be sure to wear sturdy shoes for the uneven ancient stone steps."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainte-Croix Church",
+            "hu": "Sainte-Croix Church",
+            "ro": "Sainte-Croix Church",
+            "en": "Sainte-Croix Church"
+          },
+          "coords": [
+            2.169207,
+            45.955873
+          ],
+          "category": "religious",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisiten Buntglasfenster und das friedliche Innere dieser zentralen Kirche, die Sie am besten morgens besuchen, wenn das Licht die Fenster erleuchtet.",
+            "hu": "Csodálja meg a központi templom gyönyörű ólomüveg ablakait és békés belső terét, amelyet a legérdemesebb reggel meglátogatni, amikor a fény csodásan megvilágítja a színeket.",
+            "ro": "Admirați vitraliile deosebite și interiorul liniștit al acestei biserici centrale, vizitată ideal dimineața, când lumina soarelui iluminează frumos ferestrele colorate.",
+            "en": "Admire the exquisite stained glass and peaceful interior of this central church, ideally visited in the morning when the light beautifully illuminates the colorful windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Chapitre",
+            "hu": "Le Chapitre",
+            "ro": "Le Chapitre",
+            "en": "Le Chapitre"
+          },
+          "coords": [
+            2.172448,
+            45.956457
+          ],
+          "category": "natural",
+          "arrive_at": "10:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese bezaubernde natürliche Enklave, die den mittelalterlichen Grundriss der Stadt bewahrt, und machen Sie an den malerischen Ecken kurze Fotopausen.",
+            "hu": "Sétáljon végig ezen a bájos természeti enklávén, amely őrzi a város középkori elrendezését, és szánjon időt a festői sarkokra, amelyek tökéletesek a gyors fotózáshoz.",
+            "ro": "Plimbați-vă prin această enclavă naturală fermecătoare care păstrează aspectul medieval al orașului, luându-vă timp să vă opriți la colțurile pitorești pentru fotografii.",
+            "en": "Stroll through this charming natural enclave that preserves the town's medieval layout, taking time to pause at the quaint corners perfect for quick photography stops."
+          }
+        },
+        {
+          "name": {
+            "de": "International Tapestry Center",
+            "hu": "International Tapestry Center",
+            "ro": "International Tapestry Center",
+            "en": "International Tapestry Center"
+          },
+          "coords": [
+            2.17105,
+            45.9545
+          ],
+          "category": "museum",
+          "arrive_at": "11:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Entdecken Sie das UNESCO-geschützte Webereierbe von Aubusson durch interaktive Ausstellungen und atemberaubende Wandteppiche, und planen Sie Zeit für die Vorführungen ein.",
+            "hu": "Fedezze fel Aubusson UNESCO-listás szövő örökségét interaktív kiállításokon és lenyűgöző kárpitokon keresztül, és szánjon extra időt a lenyűgöző szövőszék-bemutatókra.",
+            "ro": "Descoperiți moștenirea de țesut a orașului Aubusson prin expoziții interactive și tapiserii uimitoare, alocând timp suplimentar pentru demonstrațiile fascinante de la război.",
+            "en": "Discover the UNESCO-listed weaving heritage of Aubusson through interactive exhibits and stunning tapestries, allocating extra time for the mesmerizing loom demonstrations."
+          }
+        },
+        {
+          "name": {
+            "de": "Ancienne église Saint-Jean de la Cour",
+            "hu": "Ancienne église Saint-Jean de la Cour",
+            "ro": "Ancienne église Saint-Jean de la Cour",
+            "en": "Ancienne église Saint-Jean de la Cour"
+          },
+          "coords": [
+            2.170808,
+            45.951395
+          ],
+          "category": "religious",
+          "arrive_at": "13:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erkunden Sie die architektonischen Überreste dieser alten Kirche, die die Geschichte früher lokaler Gemeinschaften erzählen, und prüfen Sie vorab die Öffnungszeiten.",
+            "hu": "Fedezze fel ezen ősi templom építészeti maradványait, amelyek a korai helyi közösségek történetét mesélik el, és érkezés előtt ellenőrizze a szezonális nyitvatartási időt.",
+            "ro": "Explorați rămășițele arhitecturale ale acestei biserici antice care spun povestea comunităților locale timpurii și verificați orarul de deschidere sezonier înainte de sosire.",
+            "en": "Explore the architectural remnants of this ancient church that tell the story of early local communities, and check the entrance board for seasonal opening hours before arriving."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Chabassière",
+            "hu": "Château de Chabassière",
+            "ro": "Château de Chabassière",
+            "en": "Château de Chabassière"
+          },
+          "coords": [
+            2.159196,
+            45.955433
+          ],
+          "category": "historical",
+          "arrive_at": "14:22",
+          "stay_min": 110,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesem eleganten historischen Anwesen mit seinem gepflegten Gelände und gehen Sie zuerst um das Äußere herum, um seine Pracht zu würdigen.",
+            "hu": "Lépjen vissza az időben ezen az elegáns történelmi birtokon, és mindenképpen sétáljon először körbe a külsején, hogy teljes mértékben értékelni tudja építészeti nagyszerűségét.",
+            "ro": "Pășiți înapoi în timp la această moșie istorică elegantă cu terenurile sale bine conservate, asigurându-vă că vă plimbați mai întâi pe exterior pentru a-i aprecia grandoarea.",
+            "en": "Step back in time at this elegant historical estate with its well-preserved grounds, making sure to walk around the exterior first to fully appreciate its architectural grandeur."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit dem Panoramablick von der Tour de l'Horloge, bevor Sie zur ruhigen Kirche Sainte-Croix für einen Moment der Reflexion aufbrechen. Spazieren Sie dann durch die Naturpfade von Le Chapitre. Der Nachmittag ist dem textilen Erbe im International Tapestry Center gewidmet. Den Abschluss bilden die alte Kirche Saint-Jean de la Cour und das historische Château de Chabassière.",
+        "hu": "Kezdje a reggelt a Tour de l'Horloge panorámájával, mielőtt a békés Sainte-Croix templom felé venné az irányt egy kis elmélkedésre. Ezután sétáljon végig a Le Chapitre természetes ösvényein. A délutánt Aubusson szőtt örökségének, a Nemzetközi Kárpitközpontnak szentelje. Zárja a napot az ősi Saint-Jean de la Cour templom és a történelmi Château de Chabassière meglátogatásával.",
+        "ro": "Începeți dimineața bucurându-vă de vederile panoramice de la Tour de l'Horloge, înainte de a vă îndrepta spre liniștita biserică Sainte-Croix. Apoi, plimbați-vă pe cărările naturale din Le Chapitre. După-amiaza este dedicată moștenirii țesute din Aubusson la Centrul Internațional de Tapiserie. Încheiați cu vizite la vechea biserică Saint-Jean de la Cour și la istoricul Château de Chabassière.",
+        "en": "Begin your morning by soaking in the panoramic views from the Tour de l'Horloge, before heading to the serene Sainte-Croix Church for a moment of quiet reflection. Next, meander through the natural paths of Le Chapitre. The afternoon is dedicated to Aubusson's woven legacy at the International Tapestry Center. Conclude with visits to the ancient Saint-Jean de la Cour church and the historic Château de Chabassière."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 5.27,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Tour de l'Horloge",
+            "hu": "Tour de l'Horloge",
+            "ro": "Tour de l'Horloge",
+            "en": "Tour de l'Horloge"
+          },
+          "coords": [
+            2.168577,
+            45.95732
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Steigen Sie auf den historischen Uhrenturm, um einen weiten Blick über das Creuse-Tal zu genießen, aber tragen Sie festes Schuhwerk für die unebenen alten Steinstufen.",
+            "hu": "Mássza meg a történelmi óratornyot, hogy élvezze a Creuse-völgyre nyíló lenyűgöző kilátást, de mindenképpen viseljen stabil cipőt az egyenetlen régi kőlépcsőkhöz.",
+            "ro": "Urcați în istoricul turn cu ceas pentru a admira priveliștile ample ale văii Creuse, dar asigurați-vă că purtați încălțăminte rezistentă pentru treptele vechi de piatră.",
+            "en": "Climb the historic clock tower to enjoy sweeping views of the Creuse valley, but be sure to wear sturdy shoes for the uneven ancient stone steps."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainte-Croix Church",
+            "hu": "Sainte-Croix Church",
+            "ro": "Sainte-Croix Church",
+            "en": "Sainte-Croix Church"
+          },
+          "coords": [
+            2.169207,
+            45.955873
+          ],
+          "category": "religious",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisiten Buntglasfenster und das friedliche Innere dieser zentralen Kirche, die Sie am besten morgens besuchen, wenn das Licht die Fenster erleuchtet.",
+            "hu": "Csodálja meg a központi templom gyönyörű ólomüveg ablakait és békés belső terét, amelyet a legérdemesebb reggel meglátogatni, amikor a fény csodásan megvilágítja a színeket.",
+            "ro": "Admirați vitraliile deosebite și interiorul liniștit al acestei biserici centrale, vizitată ideal dimineața, când lumina soarelui iluminează frumos ferestrele colorate.",
+            "en": "Admire the exquisite stained glass and peaceful interior of this central church, ideally visited in the morning when the light beautifully illuminates the colorful windows."
+          }
+        },
+        {
+          "name": {
+            "de": "International Tapestry Center",
+            "hu": "International Tapestry Center",
+            "ro": "International Tapestry Center",
+            "en": "International Tapestry Center"
+          },
+          "coords": [
+            2.17105,
+            45.9545
+          ],
+          "category": "museum",
+          "arrive_at": "10:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie das UNESCO-geschützte Webereierbe von Aubusson durch interaktive Ausstellungen und atemberaubende Wandteppiche, und planen Sie Zeit für die Vorführungen ein.",
+            "hu": "Fedezze fel Aubusson UNESCO-listás szövő örökségét interaktív kiállításokon és lenyűgöző kárpitokon keresztül, és szánjon extra időt a lenyűgöző szövőszék-bemutatókra.",
+            "ro": "Descoperiți moștenirea de țesut a orașului Aubusson prin expoziții interactive și tapiserii uimitoare, alocând timp suplimentar pentru demonstrațiile fascinante de la război.",
+            "en": "Discover the UNESCO-listed weaving heritage of Aubusson through interactive exhibits and stunning tapestries, allocating extra time for the mesmerizing loom demonstrations."
+          }
+        },
+        {
+          "name": {
+            "de": "Ancienne église Saint-Jean de la Cour",
+            "hu": "Ancienne église Saint-Jean de la Cour",
+            "ro": "Ancienne église Saint-Jean de la Cour",
+            "en": "Ancienne église Saint-Jean de la Cour"
+          },
+          "coords": [
+            2.170808,
+            45.951395
+          ],
+          "category": "religious",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erkunden Sie die architektonischen Überreste dieser alten Kirche, die die Geschichte früher lokaler Gemeinschaften erzählen, und prüfen Sie vorab die Öffnungszeiten.",
+            "hu": "Fedezze fel ezen ősi templom építészeti maradványait, amelyek a korai helyi közösségek történetét mesélik el, és érkezés előtt ellenőrizze a szezonális nyitvatartási időt.",
+            "ro": "Explorați rămășițele arhitecturale ale acestei biserici antice care spun povestea comunităților locale timpurii și verificați orarul de deschidere sezonier înainte de sosire.",
+            "en": "Explore the architectural remnants of this ancient church that tell the story of early local communities, and check the entrance board for seasonal opening hours before arriving."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Chabassière",
+            "hu": "Château de Chabassière",
+            "ro": "Château de Chabassière",
+            "en": "Château de Chabassière"
+          },
+          "coords": [
+            2.159196,
+            45.955433
+          ],
+          "category": "historical",
+          "arrive_at": "12:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesem eleganten historischen Anwesen mit seinem gepflegten Gelände und gehen Sie zuerst um das Äußere herum, um seine Pracht zu würdigen.",
+            "hu": "Lépjen vissza az időben ezen az elegáns történelmi birtokon, és mindenképpen sétáljon először körbe a külsején, hogy teljes mértékben értékelni tudja építészeti nagyszerűségét.",
+            "ro": "Pășiți înapoi în timp la această moșie istorică elegantă cu terenurile sale bine conservate, asigurându-vă că vă plimbați mai întâi pe exterior pentru a-i aprecia grandoarea.",
+            "en": "Step back in time at this elegant historical estate with its well-preserved grounds, making sure to walk around the exterior first to fully appreciate its architectural grandeur."
+          }
+        },
+        {
+          "name": {
+            "de": "Château du Fôt",
+            "hu": "Château du Fôt",
+            "ro": "Château du Fôt",
+            "en": "Château du Fôt"
+          },
+          "coords": [
+            2.191721,
+            45.976084
+          ],
+          "category": "castle",
+          "arrive_at": "14:25",
+          "stay_min": 110,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Durchstreifen Sie die stimmungsvollen Ruinen und Anlagen dieses östlichen Schlosses, die einen Blick in die feudale Vergangenheit bieten, und tragen Sie geeignetes Schuhwerk.",
+            "hu": "Barangolja be a keleti kastély hangulatos romjait, amelyek bepillantást engednek a régió feudális múltjába, és viseljen megfelelő lábbelit az időnként saras és göröngyös utakra.",
+            "ro": "Cutreierați ruinele pline de atmosferă ale acestui castel estic, care oferă o privire în trecutul feudal al regiunii, purtând încălțăminte adecvată pentru cărările uneori noroioase.",
+            "en": "Roam the atmospheric ruins and grounds of this eastern castle that offer a glimpse into the region's feudal past, wearing appropriate footwear for the sometimes muddy paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour mit einer steilen, aber lohnenden Fahrt zur Tour de l'Horloge, gefolgt von der zentralen Kirche Sainte-Croix. Verbringen Sie die Mittagszeit mit der Erkundung der weltberühmten Tapisserien im Internationalen Zentrum. Radeln Sie später zur Ancienne église Saint-Jean de la Cour und zum eleganten Château de Chabassière. Machen Sie zum Abschluss eine malerische Fahrt zum Château du Fôt.",
+        "hu": "Kezdje kerékpáros túráját a Tour de l'Horloge meredek, de hálás emelkedőjével, amelyet a központi Sainte-Croix templom követ. A delet a Nemzetközi Központ világhírű kárpitgyűjteményeinek felfedezésével töltse. Később tekerjen át a Saint-Jean de la Cour templomhoz és a Château de Chabassière-hez. Végül tegyen egy festői utat az északkeleti peremre, hogy felfedezze a Château du Fôt-t.",
+        "ro": "Începeți călătoria cu bicicleta urcând la Tour de l'Horloge, urmată de biserica centrală Sainte-Croix. Petreceți-vă prânzul explorând colecțiile de tapiserii de renume mondial de la Centrul Internațional. Mai târziu, pedalați către ruinele Ancienne église Saint-Jean de la Cour și elegantul Château de Chabassière. În cele din urmă, faceți o plimbare pitorească până la Château du Fôt.",
+        "en": "Start your cycling journey with a steep but rewarding ride up to the Tour de l'Horloge, followed by the central Sainte-Croix Church. Spend your midday exploring the world-renowned tapestry collections at the International Center. Later, pedal over to the remains of Ancienne église Saint-Jean de la Cour and the elegant Château de Chabassière. Finally, take a scenic ride to the northeastern edge to explore Château du Fôt."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:04",
+      "total_km": 8.22,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Château de la Forêt",
+            "hu": "Château de la Forêt",
+            "ro": "Château de la Forêt",
+            "en": "Château de la Forêt"
+          },
+          "coords": [
+            2.144703,
+            45.974471
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Wandern Sie um die imposanten Mauern dieses abgelegenen nördlichen Schlosses in der Natur und nehmen Sie eine kleine Flasche Wasser mit, da die Erfrischungsmöglichkeiten begrenzt sind.",
+            "hu": "Barangoljon a természet által körülvett, eldugott északi kastély impozáns falai körül, és vigyen magával egy kis üveg vizet, mivel a közeli frissítő lehetőségek nagyon korlátozottak.",
+            "ro": "Plimbați-vă în jurul zidurilor impunătoare ale acestui castel nordic izolat, înconjurat de natură, purtând cu voi o sticlă mică de apă, deoarece opțiunile de răcorire sunt limitate.",
+            "en": "Wander around the imposing walls of this secluded northern castle surrounded by nature, carrying a small bottle of water as nearby refreshment options are very limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour de l'Horloge",
+            "hu": "Tour de l'Horloge",
+            "ro": "Tour de l'Horloge",
+            "en": "Tour de l'Horloge"
+          },
+          "coords": [
+            2.168577,
+            45.95732
+          ],
+          "category": "natural",
+          "arrive_at": "10:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Steigen Sie auf den historischen Uhrenturm, um einen weiten Blick über das Creuse-Tal zu genießen, aber tragen Sie festes Schuhwerk für die unebenen alten Steinstufen.",
+            "hu": "Mássza meg a történelmi óratornyot, hogy élvezze a Creuse-völgyre nyíló lenyűgöző kilátást, de mindenképpen viseljen stabil cipőt az egyenetlen régi kőlépcsőkhöz.",
+            "ro": "Urcați în istoricul turn cu ceas pentru a admira priveliștile ample ale văii Creuse, dar asigurați-vă că purtați încălțăminte rezistentă pentru treptele vechi de piatră.",
+            "en": "Climb the historic clock tower to enjoy sweeping views of the Creuse valley, but be sure to wear sturdy shoes for the uneven ancient stone steps."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainte-Croix Church",
+            "hu": "Sainte-Croix Church",
+            "ro": "Sainte-Croix Church",
+            "en": "Sainte-Croix Church"
+          },
+          "coords": [
+            2.169207,
+            45.955873
+          ],
+          "category": "religious",
+          "arrive_at": "11:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisiten Buntglasfenster und das friedliche Innere dieser zentralen Kirche, die Sie am besten morgens besuchen, wenn das Licht die Fenster erleuchtet.",
+            "hu": "Csodálja meg a központi templom gyönyörű ólomüveg ablakait és békés belső terét, amelyet a legérdemesebb reggel meglátogatni, amikor a fény csodásan megvilágítja a színeket.",
+            "ro": "Admirați vitraliile deosebite și interiorul liniștit al acestei biserici centrale, vizitată ideal dimineața, când lumina soarelui iluminează frumos ferestrele colorate.",
+            "en": "Admire the exquisite stained glass and peaceful interior of this central church, ideally visited in the morning when the light beautifully illuminates the colorful windows."
+          }
+        },
+        {
+          "name": {
+            "de": "International Tapestry Center",
+            "hu": "International Tapestry Center",
+            "ro": "International Tapestry Center",
+            "en": "International Tapestry Center"
+          },
+          "coords": [
+            2.17105,
+            45.9545
+          ],
+          "category": "museum",
+          "arrive_at": "11:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie das UNESCO-geschützte Webereierbe von Aubusson durch interaktive Ausstellungen und atemberaubende Wandteppiche, und planen Sie Zeit für die Vorführungen ein.",
+            "hu": "Fedezze fel Aubusson UNESCO-listás szövő örökségét interaktív kiállításokon és lenyűgöző kárpitokon keresztül, és szánjon extra időt a lenyűgöző szövőszék-bemutatókra.",
+            "ro": "Descoperiți moștenirea de țesut a orașului Aubusson prin expoziții interactive și tapiserii uimitoare, alocând timp suplimentar pentru demonstrațiile fascinante de la război.",
+            "en": "Discover the UNESCO-listed weaving heritage of Aubusson through interactive exhibits and stunning tapestries, allocating extra time for the mesmerizing loom demonstrations."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Chabassière",
+            "hu": "Château de Chabassière",
+            "ro": "Château de Chabassière",
+            "en": "Château de Chabassière"
+          },
+          "coords": [
+            2.159196,
+            45.955433
+          ],
+          "category": "historical",
+          "arrive_at": "13:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesem eleganten historischen Anwesen mit seinem gepflegten Gelände und gehen Sie zuerst um das Äußere herum, um seine Pracht zu würdigen.",
+            "hu": "Lépjen vissza az időben ezen az elegáns történelmi birtokon, és mindenképpen sétáljon először körbe a külsején, hogy teljes mértékben értékelni tudja építészeti nagyszerűségét.",
+            "ro": "Pășiți înapoi în timp la această moșie istorică elegantă cu terenurile sale bine conservate, asigurându-vă că vă plimbați mai întâi pe exterior pentru a-i aprecia grandoarea.",
+            "en": "Step back in time at this elegant historical estate with its well-preserved grounds, making sure to walk around the exterior first to fully appreciate its architectural grandeur."
+          }
+        },
+        {
+          "name": {
+            "de": "Château du Fôt",
+            "hu": "Château du Fôt",
+            "ro": "Château du Fôt",
+            "en": "Château du Fôt"
+          },
+          "coords": [
+            2.191721,
+            45.976084
+          ],
+          "category": "castle",
+          "arrive_at": "15:14",
+          "stay_min": 110,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Durchstreifen Sie die stimmungsvollen Ruinen und Anlagen dieses östlichen Schlosses, die einen Blick in die feudale Vergangenheit bieten, und tragen Sie geeignetes Schuhwerk.",
+            "hu": "Barangolja be a keleti kastély hangulatos romjait, amelyek bepillantást engednek a régió feudális múltjába, és viseljen megfelelő lábbelit az időnként saras és göröngyös utakra.",
+            "ro": "Cutreierați ruinele pline de atmosferă ale acestui castel estic, care oferă o privire în trecutul feudal al regiunii, purtând încălțăminte adecvată pentru cărările uneori noroioase.",
+            "en": "Roam the atmospheric ruins and grounds of this eastern castle that offer a glimpse into the region's feudal past, wearing appropriate footwear for the sometimes muddy paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour beim abgelegenen Château de la Forêt im Nordwesten. Parken Sie danach nahe dem Stadtzentrum, um die Aussicht von der Tour de l'Horloge zu genießen und die Kirche Sainte-Croix zu besuchen. Widmen Sie eine lange Mittagspause dem unglaublichen International Tapestry Center. Fahren Sie am Nachmittag zum Château de Chabassière und beenden Sie den Tag beim stimmungsvollen Château du Fôt.",
+        "hu": "Autós túráját az északnyugati Château de la Forêt-nél kezdje. Ezután parkoljon le a városközpont közelében, hogy megcsodálja a Tour de l'Horloge kilátását, és látogassa meg a Sainte-Croix templomot. Szenteljen egy hosszú ebédszünetet a Nemzetközi Kárpitközpontnak. Délután vezessen el a Château de Chabassière-hez, és fejezze be a napot a hangulatos Château du Fôt felfedezésével.",
+        "ro": "Începeți turul cu mașina la izolatul Château de la Forêt din nord-vest. Apoi, parcați aproape de centrul orașului pentru a admira priveliștea de la Tour de l'Horloge și a vizita biserica Sainte-Croix. Dedicați o lungă pauză la prânz incredibilului Centru Internațional de Tapiserie. După-amiaza, conduceți pentru a admira Château de Chabassière și încheiați ziua explorând Château du Fôt.",
+        "en": "Kick off your driving tour at the secluded Château de la Forêt in the northwest. Next, park near the town center to admire the views from Tour de l'Horloge and visit the nearby Sainte-Croix Church. Dedicate a long, immersive midday break to the incredible International Tapestry Center. In the afternoon, drive out to marvel at Château de Chabassière and end your day exploring the atmospheric Château du Fôt."
+      }
+    }
+  }
+}

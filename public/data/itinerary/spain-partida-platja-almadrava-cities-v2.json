@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-partida-platja-almadrava-cities-v2",
+  "anchor": {
+    "name": "Partida Platja Almadrava",
+    "coords": [
+      0.01644,
+      38.86335
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:29",
+      "total_km": 2.97,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Jaciment Romà de l'Almadrava",
+            "hu": "Jaciment Romà de l'Almadrava",
+            "ro": "Jaciment Romà de l'Almadrava",
+            "en": "Jaciment Romà de l'Almadrava"
+          },
+          "coords": [
+            0.016043,
+            38.86241
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste der antiken römischen Töpferwerkstatt, die von der reichen Handelsgeschichte der Region zeugen, und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel az ősi római fazekasműhely maradványait, amelyek a régió gazdag kereskedelmi történelméről árulkodnak, és viseljen masszív cipőt az egyenetlen terepen való bejáráshoz.",
+            "ro": "Explorați vestigiile vechiului atelier de ceramică romană care dezvăluie bogata istorie comercială a regiunii și purtați încălțăminte rezistentă pentru a naviga în siguranță.",
+            "en": "Explore the ancient Roman pottery workshop remnants that reveal the region's rich trading history, and wear sturdy shoes to safely navigate the uneven archaeological terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de l'Amadrava",
+            "hu": "Platja de l'Amadrava",
+            "ro": "Platja de l'Amadrava",
+            "en": "Platja de l'Amadrava"
+          },
+          "coords": [
+            0.014248,
+            38.864692
+          ],
+          "category": "recreational",
+          "arrive_at": "10:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sandstrand, der perfekte Bedingungen für ein ruhiges Bad abseits der Massen bietet, und bringen Sie Ihren eigenen Sonnenschirm mit, da es hier keine gibt.",
+            "hu": "Pihenjen ezen a békés strandon, amely tökéletes feltételeket kínál a tömegtől távoli úszáshoz, és ne felejtsen el saját napernyőt hozni, mivel a bérlési lehetőségek igen ritkák.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje liniștite, excelentă pentru a înota departe de aglomerație, și nu uitați să aduceți propria umbrelă de soare, deoarece lipsesc chioșcurile.",
+            "en": "Relax on the golden sands of this peaceful beach, which offers perfect conditions for swimming away from the crowds, and remember to bring your own sunshade as rentals are scarce."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de l’Almadrava",
+            "hu": "Torre de l’Almadrava",
+            "ro": "Torre de l’Almadrava",
+            "en": "Torre de l’Almadrava"
+          },
+          "coords": [
+            0.02234,
+            38.86346
+          ],
+          "category": "tower",
+          "arrive_at": "11:59",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.69,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen gut erhaltenen Wachturm, der einst die Küste vor Piraten schützte, und kommen Sie im Morgenlicht, wenn das alte Mauerwerk für Fotos perfekt in Szene gesetzt wird.",
+            "hu": "Csodálja meg ezt a jól megőrzött védelmi őrtornyot, amely egykor a kalóztámadásoktól védte a partot, és próbáljon a reggeli fényben érkezni, hogy tökéletes fotókat készíthessen.",
+            "ro": "Admirați acest turn de veghe bine conservat, care odinioară proteja coasta de atacurile piraților, și vizitați-l în lumina dimineții pentru a fotografia perfect detaliile sale.",
+            "en": "Admire this well-preserved defensive watchtower that once guarded the coast against pirate attacks, and try to visit when the morning light highlights its ancient stonework perfectly."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditori dels Poblets",
+            "hu": "Auditori dels Poblets",
+            "ro": "Auditori dels Poblets",
+            "en": "Auditori dels Poblets"
+          },
+          "coords": [
+            0.021326,
+            38.851511
+          ],
+          "category": "cultural",
+          "arrive_at": "12:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.33,
+          "tip_5lang": {
+            "de": "Entdecken Sie das kulturelle Leben in diesem modernen Auditorium, dem Zentrum lokaler Veranstaltungen, und prüfen Sie die Anschlagtafel auf kommende kostenlose Aufführungen.",
+            "hu": "Ismerje meg a helyi kulturális életet ebben a modern auditóriumban, és mindenképpen ellenőrizze a kinti hirdetőtáblát az esetlegesen ingyenesen megtekinthető előadások miatt.",
+            "ro": "Descoperiți viața culturală locală la acest auditoriu modern, centrul evenimentelor comunitare, și verificați panoul informativ pentru viitoarele spectacole gratuite disponibile.",
+            "en": "Discover local cultural life at this modern auditorium that serves as the heart of community events, and check the notice board outside for upcoming free performances during your stay."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Mira Rosa",
+            "hu": "Torre Mira Rosa",
+            "ro": "Torre Mira Rosa",
+            "en": "Torre Mira Rosa"
+          },
+          "coords": [
+            0.015935,
+            38.847469
+          ],
+          "category": "landmark",
+          "arrive_at": "13:34",
+          "stay_min": 55,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.67,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen historischen Turm inmitten einer wunderschönen ländlichen Landschaft, der das architektonische Erbe repräsentiert, und nutzen Sie ein Weitwinkelobjektiv für Fotos.",
+            "hu": "Csodálja meg a gyönyörű vidéki tájban megbúvó történelmi tornyot, amely a környék építészeti örökségét képviseli, és hozzon magával nagylátószögű objektívet a fotózáshoz.",
+            "ro": "Minunați-vă de acest turn istoric cuibărit în peisaje rurale, reprezentând moștenirea arhitecturală a zonei, și aduceți un obiectiv cu unghi larg pentru a-i surprinde farmecul.",
+            "en": "Marvel at this historic tower nestled amid beautiful rural landscapes, representing the area's architectural heritage, and bring a wide-angle lens to capture its full rustic charm."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit einer Reise in die Römerzeit an den Ruinen der Almadrava. Spazieren Sie gemütlich zum entspannenden Platja de l'Amadrava. Mittags genießen Sie die frische Meeresbrise am historischen Torre de l’Almadrava. Am Nachmittag erleben Sie das lokale kulturelle Flair am Auditori dels Poblets. Beenden Sie den Tag am Torre Mira Rosa im goldenen Abendlicht.",
+        "hu": "Kezdje a reggelt egy utazással a római korba az Almadrava romjainál. Sétáljon kényelmesen a pihentető Platja de l'Amadrava felé. Délben élvezze a friss tengeri szellőt a történelmi Torre de l’Almadrava mellett. Délután tapasztalja meg a helyi kulturális hangulatot az Auditori dels Poblets-nél. Fejezze be a napot a Torre Mira Rosa-nál a varázslatos arany órában.",
+        "ro": "Începeți dimineața cu o călătorie în epoca romană la ruinele din Almadrava. Plimbați-vă apoi spre relaxanta plajă Amadrava. La amiază, bucurați-vă de briza proaspătă a mării la istoricul turn Almadrava. După-amiaza, descoperiți farmecul cultural local la Auditori dels Poblets. Încheiați ziua admirând Torre Mira Rosa în lumina caldă a soarelui de apus, plină de liniște.",
+        "en": "Start your morning with a journey into the Roman era at the Almadrava ruins. Stroll comfortably to the relaxing Platja de l'Amadrava. By midday, enjoy the fresh sea breeze at the historic Torre de l’Almadrava. In the afternoon, experience the local cultural flair at the Auditori dels Poblets. End your day at Torre Mira Rosa, taking in its rustic beauty during the golden hour."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:28",
+      "total_km": 6.01,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Platja de l'Almadrava",
+            "hu": "Platja de l'Almadrava",
+            "ro": "Platja de l'Almadrava",
+            "en": "Platja de l'Almadrava"
+          },
+          "coords": [
+            8.1e-05,
+            38.868039
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhigen Wellen an diesem weitläufigen Sandstrand, einem beliebten Ort für Ruhesuchende, und kommen Sie früh, um sich den besten Platz am sanften Wasser zu sichern.",
+            "hu": "Élvezze a csendes hullámokat ezen a kiterjedt homokos parton, amelyet a nyugalmat keresők imádnak, és érkezzen korán, hogy biztosítsa a legjobb helyet a lágy víz közelében.",
+            "ro": "Bucurați-vă de valurile liniștite de pe această plajă extinsă, un loc iubit de cei care caută pace, și ajungeți devreme pentru a vă asigura cel mai bun loc lângă apa blândă.",
+            "en": "Enjoy the tranquil waves at this expansive sandy shore, a beloved spot for both locals and travelers seeking peace, and arrive early to secure the best spot near the gentle water."
+          }
+        },
+        {
+          "name": {
+            "de": "Jaciment Romà de l'Almadrava",
+            "hu": "Jaciment Romà de l'Almadrava",
+            "ro": "Jaciment Romà de l'Almadrava",
+            "en": "Jaciment Romà de l'Almadrava"
+          },
+          "coords": [
+            0.016043,
+            38.86241
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste der antiken römischen Töpferwerkstatt, die von der reichen Handelsgeschichte der Region zeugen, und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel az ősi római fazekasműhely maradványait, amelyek a régió gazdag kereskedelmi történelméről árulkodnak, és viseljen masszív cipőt az egyenetlen terepen való bejáráshoz.",
+            "ro": "Explorați vestigiile vechiului atelier de ceramică romană care dezvăluie bogata istorie comercială a regiunii și purtați încălțăminte rezistentă pentru a naviga în siguranță.",
+            "en": "Explore the ancient Roman pottery workshop remnants that reveal the region's rich trading history, and wear sturdy shoes to safely navigate the uneven archaeological terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de l’Almadrava",
+            "hu": "Torre de l’Almadrava",
+            "ro": "Torre de l’Almadrava",
+            "en": "Torre de l’Almadrava"
+          },
+          "coords": [
+            0.02234,
+            38.86346
+          ],
+          "category": "tower",
+          "arrive_at": "11:56",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.52,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen gut erhaltenen Wachturm, der einst die Küste vor Piraten schützte, und kommen Sie im Morgenlicht, wenn das alte Mauerwerk für Fotos perfekt in Szene gesetzt wird.",
+            "hu": "Csodálja meg ezt a jól megőrzött védelmi őrtornyot, amely egykor a kalóztámadásoktól védte a partot, és próbáljon a reggeli fényben érkezni, hogy tökéletes fotókat készíthessen.",
+            "ro": "Admirați acest turn de veghe bine conservat, care odinioară proteja coasta de atacurile piraților, și vizitați-l în lumina dimineții pentru a fotografia perfect detaliile sale.",
+            "en": "Admire this well-preserved defensive watchtower that once guarded the coast against pirate attacks, and try to visit when the morning light highlights its ancient stonework perfectly."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja dels Molins",
+            "hu": "Platja dels Molins",
+            "ro": "Platja dels Molins",
+            "en": "Platja dels Molins"
+          },
+          "coords": [
+            0.036475,
+            38.860335
+          ],
+          "category": "recreational",
+          "arrive_at": "12:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.25,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Atmosphäre dieses schönen Strandes, der für seinen feinen Sand und seine Windsurfbedingungen bekannt ist, und mieten Sie sich ein Brett für einen aktiven Tag.",
+            "hu": "Tapasztalja meg ennek a gyönyörű, finom homokjáról és kiváló szörfözési lehetőségeiről ismert strandnak a nyüzsgését, és béreljen deszkát a helyi bódéból egy aktív délutánhoz.",
+            "ro": "Simțiți atmosfera plină de viață a acestei plaje cunoscute pentru nisipul fin și condițiile de windsurfing și închiriați o placă de la cabana locală pentru o după-amiază activă.",
+            "en": "Experience the lively atmosphere of this beautiful beach known for its fine sand and excellent windsurfing conditions, and consider renting a board from the local shack for an active afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditori dels Poblets",
+            "hu": "Auditori dels Poblets",
+            "ro": "Auditori dels Poblets",
+            "en": "Auditori dels Poblets"
+          },
+          "coords": [
+            0.021326,
+            38.851511
+          ],
+          "category": "cultural",
+          "arrive_at": "13:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.64,
+          "tip_5lang": {
+            "de": "Entdecken Sie das kulturelle Leben in diesem modernen Auditorium, dem Zentrum lokaler Veranstaltungen, und prüfen Sie die Anschlagtafel auf kommende kostenlose Aufführungen.",
+            "hu": "Ismerje meg a helyi kulturális életet ebben a modern auditóriumban, és mindenképpen ellenőrizze a kinti hirdetőtáblát az esetlegesen ingyenesen megtekinthető előadások miatt.",
+            "ro": "Descoperiți viața culturală locală la acest auditoriu modern, centrul evenimentelor comunitare, și verificați panoul informativ pentru viitoarele spectacole gratuite disponibile.",
+            "en": "Discover local cultural life at this modern auditorium that serves as the heart of community events, and check the notice board outside for upcoming free performances during your stay."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa del Trapig",
+            "hu": "Casa del Trapig",
+            "ro": "Casa del Trapig",
+            "en": "Casa del Trapig"
+          },
+          "coords": [
+            0.011141,
+            38.845897
+          ],
+          "category": "historical",
+          "arrive_at": "14:38",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Reisen Sie in diesem alten Zuckermühlengebäude in die Vergangenheit, das die landwirtschaftliche Geschichte der Region beleuchtet, und lesen Sie die Tafeln zu den alten Maschinen.",
+            "hu": "Lépjen vissza az időben ennél az ősi cukormalom-épületnél, amely a régió mezőgazdasági múltját mutatja be, és szánjon időt a régi gépeket ismertető információs táblák elolvasására.",
+            "ro": "Pășiți în trecut la această veche fabrică de zahăr care evidențiază istoria agricolă a regiunii și faceți-vă timp să citiți plăcile informative ce explică funcționarea mașinăriilor.",
+            "en": "Step back in time at this ancient sugar mill building that highlights the region's agricultural past, and take a moment to read the informational plaques explaining the old machinery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am weiten Platja de l'Almadrava, bevor Sie die römischen Ruinen erkunden. Fahren Sie am späten Vormittag zum imposanten Torre de l’Almadrava. Mittags bietet der Platja dels Molins eine wunderbare Kulisse für eine Pause. Am Nachmittag radeln Sie zum kulturellen Auditori dels Poblets. Der Abend klingt an der historischen Casa del Trapig wunderbar entspannt aus.",
+        "hu": "Kezdje kerékpártúráját a tágas Platja de l'Almadrava-nál, mielőtt felfedezné a római romokat. Késő délelőtt pedálozzon az impozáns Torre de l’Almadrava felé. Délben a Platja dels Molins csodálatos hátteret biztosít a pihenéshez. Délután tekerjen el a kulturális Auditori dels Poblets-hez. Az estét a történelmi Casa del Trapig-nál töltheti el, élvezve a békés környezetet.",
+        "ro": "Începeți turul cu bicicleta la întinsa plajă Almadrava, înainte de a explora ruinele romane. Spre sfârșitul dimineții, pedalați către impunătorul turn Almadrava. La amiază, Platja dels Molins oferă un fundal minunat pentru o pauză. După-amiaza, mergeți la Auditori dels Poblets. Seara se încheie la istorica Casa del Trapig, reflectând asupra zilei în mijlocul istoriei tăcute.",
+        "en": "Kick off your bike tour at the expansive Platja de l'Almadrava before exploring the ancient Roman ruins. Late morning takes you pedaling to the imposing Torre de l’Almadrava. At midday, Platja dels Molins provides a wonderful backdrop for a relaxing break. In the afternoon, cycle over to the cultural Auditori dels Poblets. Your evening winds down at the historic Casa del Trapig."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:44",
+      "total_km": 5.86,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Meridians de Greenwich",
+            "hu": "Meridians de Greenwich",
+            "ro": "Meridians de Greenwich",
+            "en": "Meridians de Greenwich"
+          },
+          "coords": [
+            -0.001241,
+            38.853384
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Stehen Sie genau auf dem Nullmeridian an diesem einzigartigen geografischen Punkt, der die Hemisphären teilt, und machen Sie ein Foto mit einem Fuß im Osten und dem anderen im Westen.",
+            "hu": "Álljon pontosan a kezdő délkör vonalán ezen az egyedülálló földrajzi ponton, és készítsen egy kreatív fotót úgy, hogy az egyik lába a keleti, a másik a nyugati féltekén van.",
+            "ro": "Stați exact pe linia Primului Meridian la acest punct geografic unic ce împarte emisferele și faceți o fotografie creativă cu un picior în est și celălalt în vestul lumii.",
+            "en": "Stand exactly on the Prime Meridian line marked at this unique geographical point that divides the earth's hemispheres, and snap a creative photo with one foot in the east and one in the west."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre del Blanch de Morell",
+            "hu": "Torre del Blanch de Morell",
+            "ro": "Torre del Blanch de Morell",
+            "en": "Torre del Blanch de Morell"
+          },
+          "coords": [
+            -0.004072,
+            38.851065
+          ],
+          "category": "tower",
+          "arrive_at": "09:36",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Betrachten Sie die robuste Architektur dieses historischen Aussichtsturms im Landesinneren, der Einblicke in die Küstenverteidigung bietet, und nutzen Sie ein Fernglas für die Aussicht.",
+            "hu": "Figyelje meg ennek a történelmi, kissé beljebb fekvő kilátótoronynak a masszív építészetét, és mindenképpen használjon távcsövet a távoli tengeri horizont pásztázásához.",
+            "ro": "Observați arhitectura robustă a acestui turn istoric de veghe situat spre interiorul țării și folosiți un binoclu pentru a admira orizontul mării în depărtare de la baza sa.",
+            "en": "Observe the sturdy architecture of this historical lookout tower set slightly inland, offering insights into coastal defense networks, and use binoculars to spot the distant sea horizon."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditori de l’Associació Musical del Verger",
+            "hu": "Auditori de l’Associació Musical del Verger",
+            "ro": "Auditori de l’Associació Musical del Verger",
+            "en": "Auditori de l’Associació Musical del Verger"
+          },
+          "coords": [
+            0.009621,
+            38.8482
+          ],
+          "category": "cultural",
+          "arrive_at": "10:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.15,
+          "tip_5lang": {
+            "de": "Erleben Sie das lebendige musikalische Erbe der Stadt in diesem engagierten Auditorium und fragen Sie Einheimische nach offenen Proben, denen Sie am Nachmittag diskret lauschen können.",
+            "hu": "Kapcsolódjon be a város pezsgő zenei örökségébe ebben a dedikált auditóriumban, és érdeklődjön a helyiektől, hogy vannak-e olyan nyílt próbák, amelyeket diszkréten meghallgathat.",
+            "ro": "Interacționați cu moștenirea muzicală vibrantă a orașului la acest auditoriu dedicat și întrebați localnicii dacă există repetiții deschise pe care să le puteți asculta discret astăzi.",
+            "en": "Engage with the vibrant musical heritage of the town at this dedicated auditorium, and ask locals if there are any open rehearsals you might discreetly listen to during the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Mira Rosa",
+            "hu": "Torre Mira Rosa",
+            "ro": "Torre Mira Rosa",
+            "en": "Torre Mira Rosa"
+          },
+          "coords": [
+            0.015935,
+            38.847469
+          ],
+          "category": "landmark",
+          "arrive_at": "10:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.52,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen historischen Turm inmitten einer wunderschönen ländlichen Landschaft, der das architektonische Erbe repräsentiert, und nutzen Sie ein Weitwinkelobjektiv für Fotos.",
+            "hu": "Csodálja meg a gyönyörű vidéki tájban megbúvó történelmi tornyot, amely a környék építészeti örökségét képviseli, és hozzon magával nagylátószögű objektívet a fotózáshoz.",
+            "ro": "Minunați-vă de acest turn istoric cuibărit în peisaje rurale, reprezentând moștenirea arhitecturală a zonei, și aduceți un obiectiv cu unghi larg pentru a-i surprinde farmecul.",
+            "en": "Marvel at this historic tower nestled amid beautiful rural landscapes, representing the area's architectural heritage, and bring a wide-angle lens to capture its full rustic charm."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa del Trapig",
+            "hu": "Casa del Trapig",
+            "ro": "Casa del Trapig",
+            "en": "Casa del Trapig"
+          },
+          "coords": [
+            0.011141,
+            38.845897
+          ],
+          "category": "historical",
+          "arrive_at": "11:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Reisen Sie in diesem alten Zuckermühlengebäude in die Vergangenheit, das die landwirtschaftliche Geschichte der Region beleuchtet, und lesen Sie die Tafeln zu den alten Maschinen.",
+            "hu": "Lépjen vissza az időben ennél az ősi cukormalom-épületnél, amely a régió mezőgazdasági múltját mutatja be, és szánjon időt a régi gépeket ismertető információs táblák elolvasására.",
+            "ro": "Pășiți în trecut la această veche fabrică de zahăr care evidențiază istoria agricolă a regiunii și faceți-vă timp să citiți plăcile informative ce explică funcționarea mașinăriilor.",
+            "en": "Step back in time at this ancient sugar mill building that highlights the region's agricultural past, and take a moment to read the informational plaques explaining the old machinery."
+          }
+        },
+        {
+          "name": {
+            "de": "Jaciment Romà de l'Almadrava",
+            "hu": "Jaciment Romà de l'Almadrava",
+            "ro": "Jaciment Romà de l'Almadrava",
+            "en": "Jaciment Romà de l'Almadrava"
+          },
+          "coords": [
+            0.016043,
+            38.86241
+          ],
+          "category": "historical",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.75,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste der antiken römischen Töpferwerkstatt, die von der reichen Handelsgeschichte der Region zeugen, und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel az ősi római fazekasműhely maradványait, amelyek a régió gazdag kereskedelmi történelméről árulkodnak, és viseljen masszív cipőt az egyenetlen terepen való bejáráshoz.",
+            "ro": "Explorați vestigiile vechiului atelier de ceramică romană care dezvăluie bogata istorie comercială a regiunii și purtați încălțăminte rezistentă pentru a naviga în siguranță.",
+            "en": "Explore the ancient Roman pottery workshop remnants that reveal the region's rich trading history, and wear sturdy shoes to safely navigate the uneven archaeological terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja dels Molins",
+            "hu": "Platja dels Molins",
+            "ro": "Platja dels Molins",
+            "en": "Platja dels Molins"
+          },
+          "coords": [
+            0.036475,
+            38.860335
+          ],
+          "category": "recreational",
+          "arrive_at": "13:59",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.71,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Atmosphäre dieses schönen Strandes, der für seinen feinen Sand und seine Windsurfbedingungen bekannt ist, und mieten Sie sich ein Brett für einen aktiven Tag.",
+            "hu": "Tapasztalja meg ennek a gyönyörű, finom homokjáról és kiváló szörfözési lehetőségeiről ismert strandnak a nyüzsgését, és béreljen deszkát a helyi bódéból egy aktív délutánhoz.",
+            "ro": "Simțiți atmosfera plină de viață a acestei plaje cunoscute pentru nisipul fin și condițiile de windsurfing și închiriați o placă de la cabana locală pentru o după-amiază activă.",
+            "en": "Experience the lively atmosphere of this beautiful beach known for its fine sand and excellent windsurfing conditions, and consider renting a board from the local shack for an active afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autofahrt beginnt faszinierend am Nullmeridian, gefolgt von der Architektur des Torre del Blanch. Der Vormittag bringt Sie zur musikalischen Seele am Auditori del Verger. Genießen Sie die Mittagszeit am idyllischen Torre Mira Rosa und tauchen Sie in der Casa del Trapig in die Geschichte ein. Der Nachmittag gehört den römischen Ruinen. Abends entspannen Sie am Strand der Molins.",
+        "hu": "Autós utazása lenyűgözően indul a kezdő délkörnél, majd a Torre del Blanch építészetével folytatódik. A délelőtt a zenei lélekhez, az Auditori del Verger-hez viszi. Élvezze a déli órákat az idilli Torre Mira Rosa-nál, majd merüljön el a történelemben a Casa del Trapig-ban. A délután a római romoké, mielőtt az estét a Platja dels Molins partján pihenné ki kényelmesen.",
+        "ro": "Călătoria cu mașina începe fascinant la Primul Meridian, urmat de arhitectura Torre del Blanch. Dimineața vă aduce la sufletul muzical de la Auditori del Verger. Bucurați-vă de prânz la idilicul turn Mira Rosa și pătrundeți în istorie la Casa del Trapig. După-amiaza aparține ruinelor romane, înainte de a vă relaxa seara pe nisipurile aurii și fine ale plajei Molins.",
+        "en": "Your drive begins fascinatingly at the Prime Meridian line, followed by the sturdy architecture of Torre del Blanch. The morning brings you to the musical soul of Auditori del Verger. Enjoy midday at the idyllic Torre Mira Rosa and dive into deep history at Casa del Trapig. The afternoon belongs to the Roman ruins before spending a relaxing evening along the shores of Platja dels Molins."
+      }
+    }
+  }
+}

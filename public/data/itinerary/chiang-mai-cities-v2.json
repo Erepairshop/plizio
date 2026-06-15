@@ -1,0 +1,428 @@
+{
+  "city_id": "chiang-mai-cities-v2",
+  "anchor": {
+    "name": "Chiang Mai",
+    "coords": [
+      98.9853,
+      18.7883
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:37",
+      "total_km": 1.23,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Wat Phra Singh",
+            "hu": "Wat Phra Singh",
+            "ro": "Wat Phra Singh",
+            "en": "Wat Phra Singh"
+          },
+          "coords": [
+            98.981382,
+            18.788585
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den exquisiten Löwen-Buddha in der wunderschön verzierten Versammlungshalle und kommen Sie früh, um den großen Touristenmassen zu entgehen.",
+            "hu": "Csodálja meg a gyönyörűen díszített csarnokban lévő Oroszlán Buddhát, és érkezzen korán, hogy elkerülje a legnagyobb turistatömeget.",
+            "ro": "Admirați rafinatul Buddha Leu din sala de adunări frumos decorată și veniți devreme pentru a evita marile aglomerații de turiști.",
+            "en": "Admire the exquisite Lion Buddha in the beautifully decorated assembly hall, and visit early to avoid the major tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Pha Bong",
+            "hu": "Wat Pha Bong",
+            "ro": "Wat Pha Bong",
+            "en": "Wat Pha Bong"
+          },
+          "coords": [
+            98.982064,
+            18.789756
+          ],
+          "category": "religious",
+          "arrive_at": "09:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Beachten Sie die feinen Blattgoldschablonen an der Holzfassade dieses ruhigen Tempels und nehmen Sie sich einen Moment Zeit für die friedliche Atmosphäre.",
+            "hu": "Figyelje meg az aranyfüstlemezes mintákat e csendes templom fa homlokzatán, és szánjon egy percet a békés helyi hangulat élvezetére.",
+            "ro": "Observați detaliile din foiță de aur de pe fațada de lemn a acestui templu liniștit și luați-vă un moment pentru a respecta atmosfera pașnică.",
+            "en": "Notice the intricate gold-leaf stenciling on the wooden facade of this quiet temple, taking a moment to sit and respect the peaceful local atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Si Koet",
+            "hu": "Wat Si Koet",
+            "ro": "Wat Si Koet",
+            "en": "Wat Si Koet"
+          },
+          "coords": [
+            98.983877,
+            18.788125
+          ],
+          "category": "religious",
+          "arrive_at": "10:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im schattigen Innenhof dieses wenig besuchten Heiligtums und kleiden Sie sich respektvoll mit bedeckten Schultern und Knien.",
+            "hu": "Pihenjen meg e kevésbé látogatott szentély árnyékos udvarán, és öltözzön szerényen, eltakart vállakkal és térdekkel, hogy beléphessen a főterembe.",
+            "ro": "Relaxați-vă în curtea umbrită a acestui sanctuar mai puțin vizitat și îmbrăcați-vă decent, cu umerii și genunchii acoperiți, pentru a intra.",
+            "en": "Relax in the shaded courtyard of this less-visited sanctuary, and dress modestly with covered shoulders and knees to respectfully enter the main hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Chai Phrakiat",
+            "hu": "Wat Chai Phrakiat",
+            "ro": "Wat Chai Phrakiat",
+            "en": "Wat Chai Phrakiat"
+          },
+          "coords": [
+            98.985891,
+            18.788755
+          ],
+          "category": "religious",
+          "arrive_at": "11:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die historischen Inschriften auf der Tempelglocke und vergessen Sie nicht, die Schuhe auszuziehen, bevor Sie das reich verzierte Hauptgebäude betreten.",
+            "hu": "Vizsgálja meg a történelmi feliratokat a templom harangján, és ne felejtse el levenni a cipőjét, mielőtt belépne a díszes fő imahelyre.",
+            "ro": "Examinați inscripțiile istorice de pe clopotul templului și nu uitați să vă scoateți încălțămintea înainte de a păși în clădirea principală de cult.",
+            "en": "Examine the historical inscriptions on the temple bell, and remember to slip off your shoes before stepping into the ornate main worship building."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Chedi Luang",
+            "hu": "Wat Chedi Luang",
+            "ro": "Wat Chedi Luang",
+            "en": "Wat Chedi Luang"
+          },
+          "coords": [
+            98.986857,
+            18.786973
+          ],
+          "category": "religious",
+          "arrive_at": "12:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Spazieren Sie um die massiven Ruinen dieser alten Stupa, um die Elefantenstatuen zu sehen, aber denken Sie daran, dass das Besteigen streng verboten ist.",
+            "hu": "Sétálja körbe az ősi sztúpa hatalmas romjait az elefántszobrokhoz, de tartsa szem előtt, hogy az építményre felmászni szigorúan tilos.",
+            "ro": "Plimbați-vă în jurul ruinelor masive ale acestei stupe antice pentru a vedea elefanții, dar țineți cont că escaladarea structurii este strict interzisă.",
+            "en": "Walk around the massive restored ruins of this ancient stupa to see the elephant statues, but keep in mind that climbing the structure is strictly forbidden."
+          }
+        },
+        {
+          "name": {
+            "de": "Drei-Könige-Denkmal",
+            "hu": "Három Királyok Emlékműve",
+            "ro": "Monumentul celor Trei Regi",
+            "en": "Three Kings Monument"
+          },
+          "coords": [
+            98.987352,
+            18.79023
+          ],
+          "category": "historical",
+          "arrive_at": "12:47",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto mit den Bronzestatuen der Stadtgründer und nutzen Sie den weiten, offenen Platz, um sich kurz auszuruhen und etwas zu trinken.",
+            "hu": "Készítsen fotót a városalapítók bronzszobraival, és használja ki a tágas teret egy rövid pihenőre vagy egy frissítő ital elfogyasztására a közelben.",
+            "ro": "Faceți o fotografie cu statuile de bronz ale fondatorilor orașului și folosiți piața largă pentru a vă odihni scurt și a lua o băutură răcoritoare.",
+            "en": "Take a photo with the bronze statues of the city's founding fathers, and use the wide, open square to rest briefly and grab a refreshing drink nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit den goldenen Spitzen des Wat Phra Singh und den kunstvollen Schnitzereien des Wat Pha Bong im Herzen der Altstadt.\n\nGegen Mittag schlendern Sie durch die friedlichen Höfe von Wat Si Koet und Wat Chai Phrakiat und tauchen in die traditionelle Lanna-Architektur ein.\n\nDer Nachmittag führt Sie zu den majestätischen Ruinen des Wat Chedi Luang, einer riesigen Pagode, die von der einstigen Größe Chiang Mais erzählt.\n\nLassen Sie Ihren Rundgang am Three Kings Monument ausklingen und genießen Sie die historische Atmosphäre, während das Abendlicht die Stadt erhellt.",
+        "hu": "Kezdje a reggelt a Wat Phra Singh aranytornyainak és a Wat Pha Bong lenyűgöző fafaragásainak felfedezésével az óváros szívében.\n\nDélben sétáljon át a Wat Si Koet és a Wat Chai Phrakiat békés udvaraira, ahol elmélyülhet a hagyományos helyi Lanna építészet szépségeiben.\n\nDélután csodálja meg a fenséges Wat Chedi Luang romjait, egy hatalmas pagodát, amely Chiang Mai ősi dicsőségéről és történelméről mesél.\n\nZárja sétáját a Három Királyok Emlékművénél, élvezve a történelmi hangulatot, ahogy az esti fények megvilágítják a régi városfalakat.",
+        "ro": "Începeți dimineața admirând turlele aurii ale templului Wat Phra Singh și sculpturile complexe de la Wat Pha Bong, în inima orașului vechi.\n\nLa prânz, plimbați-vă prin curțile liniștite de la Wat Si Koet și Wat Chai Phrakiat, cufundându-vă în arhitectura tradițională locală Lanna.\n\nDupă-amiaza vă poartă spre ruinele maiestuoase ale Wat Chedi Luang, o pagodă uriașă care spune poveștile vechiului Chiang Mai și gloria sa.\n\nÎncheiați turul la Monumentul celor Trei Regi, bucurându-vă de atmosfera istorică în timp ce lumina serii îmbrățișează zidurile antice.",
+        "en": "Begin your morning marveling at the golden spires of Wat Phra Singh and the intricate carvings of Wat Pha Bong in the heart of the Old City.\n\nBy midday, wander to the serene grounds of Wat Si Koet and Wat Chai Phrakiat, immersing yourself in local Lanna architecture and peaceful courtyards.\n\nThe afternoon leads you to the majestic ruins of Wat Chedi Luang, a massive pagoda that tells stories of ancient Chiang Mai and its former glory.\n\nConclude your walking tour near the Three Kings Monument, soaking in the historical ambiance as the evening light paints the ancient city walls."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "13:55",
+      "total_km": 2.69,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Wat Lok Molee",
+            "hu": "Wat Lok Molee",
+            "ro": "Wat Lok Molee",
+            "en": "Wat Lok Molee"
+          },
+          "coords": [
+            98.982569,
+            18.796415
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Backsteinstupa und die detaillierten Holzelemente des Tempels und achten Sie auf die einzigartigen Silberornamente auf dem Gelände.",
+            "hu": "Csodálja meg a lenyűgöző tégla sztúpát és a részletgazdag fa templomelemeket, és keresse az egyedi ezüstdíszeket ezen a festői területen.",
+            "ro": "Apreciați stupa impresionantă din cărămidă și elementele din lemn ale templului, căutând ornamentele unice din argint răspândite pe teren.",
+            "en": "Appreciate the impressive unpainted brick stupa and detailed wooden temple features, and look for the unique silver ornaments scattered around the scenic grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Chiang Yuen",
+            "hu": "Wat Chiang Yuen",
+            "ro": "Wat Chiang Yuen",
+            "en": "Wat Chiang Yuen"
+          },
+          "coords": [
+            98.98878,
+            18.796325
+          ],
+          "category": "religious",
+          "arrive_at": "09:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.68,
+          "tip_5lang": {
+            "de": "Entdecken Sie das wunderschön verzierte Chedi, flankiert von Wächterlöwen, und bringen Sie eine kleine Spende mit, um diesen authentischen Ort zu unterstützen.",
+            "hu": "Fedezze fel az őrzőoroszlánokkal szegélyezett, gyönyörűen díszített chedit, és hozzon egy kis adományt, hogy támogassa ezt az autentikus helyi szentélyt.",
+            "ro": "Descoperiți chedi-ul frumos decorat flancat de lei păzitori și aduceți o mică donație pentru a sprijini întreținerea acestui loc autentic și liniștit.",
+            "en": "Discover the beautifully decorated chedi flanked by guardian lions, and bring a small donation to support the upkeep of this tranquil, authentic local spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Chomphu",
+            "hu": "Wat Chomphu",
+            "ro": "Wat Chomphu",
+            "en": "Wat Chomphu"
+          },
+          "coords": [
+            98.99455,
+            18.791206
+          ],
+          "category": "religious",
+          "arrive_at": "10:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das goldene Chedi, das an den Doi Suthep erinnert, und erkunden Sie die friedlichen Seitenstraßen rund um dieses verborgene Juwel.",
+            "hu": "Csodálja meg a Wat Phra That Doi Suthep kisebb mására emlékeztető arany chedit, és fedezze fel az e rejtett gyöngyszem körüli csendes mellékutcákat.",
+            "ro": "Minunați-vă de chedi-ul auriu care seamănă cu Doi Suthep și explorați străzile lăturalnice pașnice din jurul acestei bijuterii ascunse.",
+            "en": "Marvel at the golden chedi that resembles a smaller version of Wat Phra That Doi Suthep, and explore the peaceful side streets surrounding this hidden gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Drei-Könige-Denkmal",
+            "hu": "Három Királyok Emlékműve",
+            "ro": "Monumentul celor Trei Regi",
+            "en": "Three Kings Monument"
+          },
+          "coords": [
+            98.987352,
+            18.79023
+          ],
+          "category": "historical",
+          "arrive_at": "11:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto mit den Bronzestatuen der Stadtgründer und nutzen Sie den weiten, offenen Platz, um sich kurz auszuruhen und etwas zu trinken.",
+            "hu": "Készítsen fotót a városalapítók bronzszobraival, és használja ki a tágas teret egy rövid pihenőre vagy egy frissítő ital elfogyasztására a közelben.",
+            "ro": "Faceți o fotografie cu statuile de bronz ale fondatorilor orașului și folosiți piața largă pentru a vă odihni scurt și a lua o băutură răcoritoare.",
+            "en": "Take a photo with the bronze statues of the city's founding fathers, and use the wide, open square to rest briefly and grab a refreshing drink nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Chedi Luang",
+            "hu": "Wat Chedi Luang",
+            "ro": "Wat Chedi Luang",
+            "en": "Wat Chedi Luang"
+          },
+          "coords": [
+            98.986857,
+            18.786973
+          ],
+          "category": "religious",
+          "arrive_at": "12:45",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Spazieren Sie um die massiven Ruinen dieser alten Stupa, um die Elefantenstatuen zu sehen, aber denken Sie daran, dass das Besteigen streng verboten ist.",
+            "hu": "Sétálja körbe az ősi sztúpa hatalmas romjait az elefántszobrokhoz, de tartsa szem előtt, hogy az építményre felmászni szigorúan tilos.",
+            "ro": "Plimbați-vă în jurul ruinelor masive ale acestei stupe antice pentru a vedea elefanții, dar țineți cont că escaladarea structurii este strict interzisă.",
+            "en": "Walk around the massive restored ruins of this ancient stupa to see the elephant statues, but keep in mind that climbing the structure is strictly forbidden."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am beeindruckenden Wat Lok Molee, der für seinen massiven Stupa und die kunstvollen Teakholz-Pavillons im Morgenlicht bekannt ist.\n\nRadeln Sie am Mittag zum ruhigeren Wat Chiang Yuen und Wat Chomphu, um authentische lokale Spiritualität und nordthailändische Details zu erleben.\n\nVerbringen Sie den Nachmittag am historischen Three Kings Monument, dem einstigen Zentrum des Königreichs, wo das reiche Erbe der Stadt lebendig wird.\n\nBeenden Sie die Fahrt am Wat Chedi Luang bei Einbruch der Dunkelheit, wenn die hoch aufragende, vom Erdbeben gezeichnete Spitze dramatisch wirkt.",
+        "hu": "Kezdje kerékpártúráját a lenyűgöző Wat Lok Molee templomnál, amely híres a hatalmas sztúpájáról és a reggeli fényben fürdő, díszes tíkfa pavilonjairól.\n\nKerekezzen dél felé a csendesebb Wat Chiang Yuen és Wat Chomphu felé, ahol megtapasztalhatja a helyiek hitét és az észak-thai építészet csodáit.\n\nTöltse a délutánt a történelmi Három Királyok Emlékművénél, a királyság egykori központjában, ahol szinte megelevenedik a város gazdag öröksége.\n\nFejezze be az utat a Wat Chedi Luangnál az este közeledtével, amikor a magasba nyúló, földrengés sújtotta torony drámai látványt nyújt a szürkületben.",
+        "ro": "Începeți traseul cu bicicleta la impresionantul Wat Lok Molee, renumit pentru stupa sa masivă și pavilioanele din lemn de tec ce strălucesc dimineața.\n\nPedalați la prânz spre mai liniștitele Wat Chiang Yuen și Wat Chomphu, pentru a experimenta spiritualitatea locală și detaliile nord-thailandeze.\n\nPetreceți după-amiaza la istoricul Monument al celor Trei Regi, fostul centru al regatului, unde patrimoniul bogat al orașului prinde viață.\n\nFinalizați plimbarea la Wat Chedi Luang la lăsarea serii, când turla impunătoare și avariată de cutremur arată spectaculos pe cerul amurgului.",
+        "en": "Kick off your cycling journey at the striking Wat Lok Molee, known for its massive stupa and intricate teak wood pavilions glowing in the morning light.\n\nPedal towards midday to the less-visited Wat Chiang Yuen and Wat Chomphu, experiencing authentic local worship and stunning northern Thai details.\n\nSpend your afternoon at the historic Three Kings Monument square, the former center of the kingdom, where the city's rich heritage comes alive.\n\nFinish the ride at Wat Chedi Luang as evening falls, when the towering, earthquake-damaged spire looks beautifully dramatic against the twilight sky."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:51",
+      "total_km": 5.11,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiang Mai Nationalmuseum",
+            "hu": "Chiang Mai Nemzeti Múzeum",
+            "ro": "Muzeul Național Chiang Mai",
+            "en": "Chiang Mai National Museum"
+          },
+          "coords": [
+            98.976425,
+            18.811607
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Lernen Sie die faszinierende Lanna-Geschichte anhand antiker Artefakte kennen und prüfen Sie die Öffnungstage, da sich die Zeiten gelegentlich ändern können.",
+            "hu": "Ismerje meg a lenyűgöző Lanna történelmet az ősi tárgyakon keresztül, és ellenőrizze a nyitvatartási napokat, mivel a menetrendek olykor váratlanul változhatnak.",
+            "ro": "Învățați despre istoria fascinantă Lanna prin artefacte antice și verificați zilele de deschidere, deoarece programele se pot schimba uneori.",
+            "en": "Learn about the fascinating Lanna history through well-curated ancient artifacts, and check the current opening days as schedules can occasionally change without notice."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Lok Molee",
+            "hu": "Wat Lok Molee",
+            "ro": "Wat Lok Molee",
+            "en": "Wat Lok Molee"
+          },
+          "coords": [
+            98.982569,
+            18.796415
+          ],
+          "category": "religious",
+          "arrive_at": "10:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Backsteinstupa und die detaillierten Holzelemente des Tempels und achten Sie auf die einzigartigen Silberornamente auf dem Gelände.",
+            "hu": "Csodálja meg a lenyűgöző tégla sztúpát és a részletgazdag fa templomelemeket, és keresse az egyedi ezüstdíszeket ezen a festői területen.",
+            "ro": "Apreciați stupa impresionantă din cărămidă și elementele din lemn ale templului, căutând ornamentele unice din argint răspândite pe teren.",
+            "en": "Appreciate the impressive unpainted brick stupa and detailed wooden temple features, and look for the unique silver ornaments scattered around the scenic grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Drei-Könige-Denkmal",
+            "hu": "Három Királyok Emlékműve",
+            "ro": "Monumentul celor Trei Regi",
+            "en": "Three Kings Monument"
+          },
+          "coords": [
+            98.987352,
+            18.79023
+          ],
+          "category": "historical",
+          "arrive_at": "11:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.86,
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto mit den Bronzestatuen der Stadtgründer und nutzen Sie den weiten, offenen Platz, um sich kurz auszuruhen und etwas zu trinken.",
+            "hu": "Készítsen fotót a városalapítók bronzszobraival, és használja ki a tágas teret egy rövid pihenőre vagy egy frissítő ital elfogyasztására a közelben.",
+            "ro": "Faceți o fotografie cu statuile de bronz ale fondatorilor orașului și folosiți piața largă pentru a vă odihni scurt și a lua o băutură răcoritoare.",
+            "en": "Take a photo with the bronze statues of the city's founding fathers, and use the wide, open square to rest briefly and grab a refreshing drink nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Baan Haw Moschee",
+            "hu": "Baan Haw Mecset",
+            "ro": "Moscheea Baan Haw",
+            "en": "Baan Haw Mosque"
+          },
+          "coords": [
+            99.001476,
+            18.786737
+          ],
+          "category": "religious",
+          "arrive_at": "12:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Sehen Sie sich die einzigartige chinesisch-islamische Architektur an und tragen Sie lange Hosen oder Röcke, wenn Sie den Innenhof respektvoll betreten möchten.",
+            "hu": "Tekintse meg a mecset egyedi kínai-iszlám építészetét, és mindenképpen viseljen hosszú nadrágot vagy szoknyát, ha az udvarról szeretne körülnézni.",
+            "ro": "Vedeți arhitectura chinezo-islamică a acestei moschei proeminente și asigurați-vă că purtați pantaloni lungi pentru a observa respectuos din curte.",
+            "en": "View the unique Chinese-Islamic architecture of this prominent mosque, and be sure to wear long pants or skirts if you wish to respectfully observe from the courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "San Pa Koi Moschee",
+            "hu": "San Pa Koi Mecset",
+            "ro": "Moscheea San Pa Koi",
+            "en": "San Pa Koi Mosque"
+          },
+          "coords": [
+            99.007032,
+            18.792073
+          ],
+          "category": "religious",
+          "arrive_at": "13:41",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Erleben Sie das pulsierende Gemeindeleben rund um diese historische Stätte und probieren Sie authentische lokale Halal-Snacks an den nahegelegenen Marktständen.",
+            "hu": "Tapasztalja meg a történelmi vallási hely körüli pezsgő közösségi életet, és kóstoljon meg néhány autentikus helyi halal snacket a közeli piacon.",
+            "ro": "Experimentați viața vibrantă a comunității din jurul acestui sit religios și luați câteva gustări halal autentice de la tarabele din piața aglomerată din apropiere.",
+            "en": "Experience the vibrant community life surrounding this historical religious site, and grab some authentic local halal snacks from the nearby bustling market stalls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt am Chiang Mai National Museum und tauchen Sie am ruhigen Morgen in die tiefe Geschichte und Kultur des Lanna-Königreichs ein.\n\nFahren Sie gegen Mittag zum ikonischen Wat Lok Molee und dem zentralen Three Kings Monument, um die architektonische Entwicklung zu bestaunen.\n\nAm Nachmittag können Sie die spirituelle Vielfalt erkunden, indem Sie die historisch bedeutsame Baan Haw Moschee in den belebten Straßen besuchen.\n\nLassen Sie den Abend an der San Pa Koi Moschee ausklingen und genießen Sie die lebhafte Atmosphäre der Nachbarschaft, bevor Sie zurückkehren.",
+        "hu": "Indítsa az utazást a Chiang Mai Nemzeti Múzeumban, ahol a csendes délelőtt folyamán elmerülhet a Lanna Királyság gazdag történelmében és kultúrájában.\n\nDélben utazzon tovább az ikonikus Wat Lok Molee és a központi Három Királyok Emlékműve felé, megcsodálva az ősi város lenyűgöző építészetét.\n\nDélután fedezze fel a terület vallási sokszínűségét a forgalmas utcák között megbúvó, történelmi jelentőségű Baan Haw mecset meglátogatásával.\n\nZárja az estét a San Pa Koi mecsetnél, élvezve a nyüzsgő helyi környék hangulatát, mielőtt visszatérne a kényelmes szálláshelyére pihenni.",
+        "ro": "Începeți călătoria la Muzeul Național Chiang Mai, aprofundând istoria și cultura bogată a Regatului Lanna în timpul dimineții liniștite.\n\nLa prânz, conduceți spre emblematicul Wat Lok Molee și centralul Monument al celor Trei Regi, observând evoluția arhitecturală a vechiului oraș.\n\nDupă-amiaza, explorați diversitatea spirituală a zonei vizitând moscheea istorică Baan Haw, ascunsă printre străzile pline de viață și culoare.\n\nÎncheiați seara la Moscheea San Pa Koi, bucurându-vă de atmosfera vibrantă a cartierului local înainte de a vă retrage spre locul de cazare.",
+        "en": "Start your drive at the Chiang Mai National Museum, diving into the deep history and rich culture of the Lanna Kingdom during the tranquil morning.\n\nBy midday, cruise to the iconic Wat Lok Molee and the central Three Kings Monument, witnessing the grand architectural evolution of the ancient city.\n\nIn the afternoon, explore the spiritual diversity of the area by visiting the historically significant Baan Haw Mosque tucked away in bustling streets.\n\nWrap up your evening at the San Pa Koi Mosque, enjoying the vibrant local neighborhood atmosphere before heading back to your comfortable accommodation."
+      }
+    }
+  }
+}

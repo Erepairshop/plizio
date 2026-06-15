@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-sistiana-cities-v2",
+  "anchor": {
+    "name": "Sistiana",
+    "coords": [
+      13.63735,
+      45.77157
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:54",
+      "total_km": 6.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "ex Monumento AU",
+            "hu": "ex Monumento AU",
+            "ro": "ex Monumento AU",
+            "en": "ex Monumento AU"
+          },
+          "coords": [
+            13.632455,
+            45.772307
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses historische Denkmal, das die komplexe Vergangenheit der Region markiert, und tragen Sie unbedingt bequeme Schuhe für das Gelände.",
+            "hu": "Csodálja meg ezt a komoly történelmi emlékművet, amely a régió összetett múltját jelzi, és mindenképpen viseljen kényelmes cipőt az egyenetlen talajhoz.",
+            "ro": "Admirați acest monument istoric solemn care marchează trecutul complex al regiunii și asigurați-vă că purtați încălțăminte comodă pentru terenul stâncos.",
+            "en": "Admire this solemn historical remnant that marks the region's complex past, and be sure to wear comfortable shoes for the uneven ground around the site."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelreggio",
+            "hu": "Castelreggio",
+            "ro": "Castelreggio",
+            "en": "Castelreggio"
+          },
+          "coords": [
+            13.632142,
+            45.767353
+          ],
+          "category": "recreational",
+          "arrive_at": "09:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den schönen Kieselstrand und das klare Wasser dieses beliebten Ortes, aber kommen Sie im Sommer früh, um sich einen guten Platz zu sichern.",
+            "hu": "Élvezze a gyönyörű kavicsos strandot és a kristálytiszta vizet, de nyáron érkezzen korán, hogy biztosítson magának egy jó helyet a vízpart közelében.",
+            "ro": "Bucurați-vă de plaja frumoasă cu pietriș și de apele limpezi ale acestui loc popular, dar ajungeți devreme vara pentru a vă asigura un loc bun la mal.",
+            "en": "Enjoy the beautiful pebble beach and clear waters of this popular local spot, but arrive early in the summer to secure a good spot near the waterfront."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturreservat Falesie di Duino",
+            "hu": "Falesie di Duino Természetvédelmi Terület",
+            "ro": "Rezervația Naturală Falesie di Duino",
+            "en": "Falesie di Duino Nature Reserve"
+          },
+          "coords": [
+            13.614227,
+            45.770379
+          ],
+          "category": "natural",
+          "arrive_at": "11:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Wandern Sie auf dem Rilkeweg für Panoramablicke über die Adria und bringen Sie ein Fernglas mit, um die vielfältigen Vogelarten in den Klippen zu sehen.",
+            "hu": "Sétáljon végig a lenyűgöző Rilke-ösvényen, ahonnan panorámás kilátás nyílik az Adriai-tengerre, és hozzon távcsövet a fészkelő madárfajok megfigyelésére.",
+            "ro": "Plimbați-vă pe uimitorul traseu Rilke pentru vederi panoramice asupra Mării Adriatice și aduceți un binoclu pentru a observa păsările de pe stânci.",
+            "en": "Walk the stunning Rilke Trail for panoramic views over the Adriatic Sea, and bring binoculars to spot the diverse local bird species nesting in cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Prähistorische Siedlung Duino Stazione",
+            "hu": "Duino Stazione Történelem Előtti Települése",
+            "ro": "Așezarea Preistorică Duino Stazione",
+            "en": "Duino Stazione Prehistoric Settlement"
+          },
+          "coords": [
+            13.626124,
+            45.777784
+          ],
+          "category": "historical",
+          "arrive_at": "13:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die antiken Wurzeln der Gegend in dieser prähistorischen Siedlung und nehmen Sie sich Zeit für die informativen Tafeln über das Leben.",
+            "hu": "Fedezze fel a terület ősi gyökereit ezen a lenyűgöző történelem előtti településen, és szánjon időt a mindennapi életet bemutató információs táblákra.",
+            "ro": "Descoperiți rădăcinile antice ale zonei la această fascinantă așezare protoistorică și faceți-vă timp pentru a citi panourile informative detaliate.",
+            "en": "Discover the ancient roots of the area at this fascinating protohistoric settlement, and take time to read the informative panels detailing daily life."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelliere di Visogliano",
+            "hu": "Castelliere di Visogliano",
+            "ro": "Castelliere di Visogliano",
+            "en": "Castelliere di Visogliano"
+          },
+          "coords": [
+            13.648316,
+            45.776167
+          ],
+          "category": "historical",
+          "arrive_at": "15:04",
+          "stay_min": 110,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese alten Burgruinen, die einen Einblick in die Bronzezeit bieten, und besuchen Sie sie zur goldenen Stunde für beste Lichtverhältnisse.",
+            "hu": "Fedezze fel ezeket az ősi erődítményromokat, amelyek bepillantást engednek a bronzkorba, és látogasson el az aranyórában a legjobb fotózási fényekért.",
+            "ro": "Explorați aceste ruine antice ale unui fort care oferă o privire în Epoca Bronzului și vizitați-l în timpul orei de aur pentru cea mai bună lumină.",
+            "en": "Explore these ancient hill fort ruins that offer a glimpse into the Bronze Age, and visit during the golden hour for the best lighting for photography."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unser Tag beginnt in der frischen Küstenluft am ex Monumento AU, gefolgt von einem entspannten Spaziergang hinunter zum schönen Strand Castelreggio.\n\nZur Mittagszeit wandern wir weiter entlang der Küste zum atemberaubenden Naturreservat Falesie di Duino, wo die Klippen beeindruckende Ausblicke bieten.\n\nDer Nachmittag widmet sich der antiken Geschichte, wenn wir das prähistorische Siedlungsgebiet von Duino Stazione erkunden und tief in die Vergangenheit eintauchen.\n\nZum Abschluss wandern wir in Richtung Osten zum Castelliere di Visogliano, einer weiteren historischen Stätte, um den Tag mit ruhigen Momenten ausklingen zu lassen.",
+        "hu": "Napunkat a friss tengerparti levegőn kezdjük az ex Monumento AU-nál, majd egy kellemes sétát teszünk le a festői szépségű Castelreggio strandhoz.\n\nDélben tovább túrázunk a part mentén a lenyűgöző Falesie di Duino természetvédelmi területre, ahol a sziklák káprázatos kilátást nyújtanak a tengerre.\n\nA délutánt az ókori történelemnek szenteljük, amikor felfedezzük a Duino Stazione történelem előtti települését, és elmélyedünk a múlt évezredeiben.\n\nZárásként kelet felé sétálunk a Castelliere di Visogliano felé, amely egy újabb történelmi helyszín, hogy békés pillanatokkal fejezzük be a napot.",
+        "ro": "Ziua noastră începe în aerul proaspăt de coastă la ex Monumento AU, urmat de o plimbare relaxantă până la plaja pitorească numită Castelreggio.\n\nLa amiază ne plimbăm de-a lungul coastei către uimitoarea rezervație naturală Falesie di Duino, unde stâncile oferă priveliști uluitoare spre mare.\n\nDupă-amiaza este dedicată istoriei antice, pe măsură ce explorăm așezarea preistorică de la Duino Stazione și ne scufundăm în trecutul îndepărtat.\n\nLa final ne îndreptăm spre est către Castelliere di Visogliano, un alt sit istoric fascinant, pentru a încheia ziua cu momente de liniște deplină.",
+        "en": "Our day begins in the crisp coastal air at the ex Monumento AU, followed by a relaxing stroll down to the scenic and welcoming Castelreggio beach.\n\nMidday sees us hiking further along the coast to the breathtaking Falesie di Duino nature reserve, where the cliffs offer stunning views over the sea.\n\nThe afternoon is dedicated to ancient history as we explore the prehistoric settlement of Duino Stazione and delve deep into the region's ancient past.\n\nWe conclude by walking eastward to the Castelliere di Visogliano, another fascinating historical site, ending our day with peaceful and quiet moments."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:56",
+      "total_km": 6.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Castelreggio",
+            "hu": "Castelreggio",
+            "ro": "Castelreggio",
+            "en": "Castelreggio"
+          },
+          "coords": [
+            13.632142,
+            45.767353
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den schönen Kieselstrand und das klare Wasser dieses beliebten Ortes, aber kommen Sie im Sommer früh, um sich einen guten Platz zu sichern.",
+            "hu": "Élvezze a gyönyörű kavicsos strandot és a kristálytiszta vizet, de nyáron érkezzen korán, hogy biztosítson magának egy jó helyet a vízpart közelében.",
+            "ro": "Bucurați-vă de plaja frumoasă cu pietriș și de apele limpezi ale acestui loc popular, dar ajungeți devreme vara pentru a vă asigura un loc bun la mal.",
+            "en": "Enjoy the beautiful pebble beach and clear waters of this popular local spot, but arrive early in the summer to secure a good spot near the waterfront."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturreservat Falesie di Duino",
+            "hu": "Falesie di Duino Természetvédelmi Terület",
+            "ro": "Rezervația Naturală Falesie di Duino",
+            "en": "Falesie di Duino Nature Reserve"
+          },
+          "coords": [
+            13.614227,
+            45.770379
+          ],
+          "category": "natural",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Wandern Sie auf dem Rilkeweg für Panoramablicke über die Adria und bringen Sie ein Fernglas mit, um die vielfältigen Vogelarten in den Klippen zu sehen.",
+            "hu": "Sétáljon végig a lenyűgöző Rilke-ösvényen, ahonnan panorámás kilátás nyílik az Adriai-tengerre, és hozzon távcsövet a fészkelő madárfajok megfigyelésére.",
+            "ro": "Plimbați-vă pe uimitorul traseu Rilke pentru vederi panoramice asupra Mării Adriatice și aduceți un binoclu pentru a observa păsările de pe stânci.",
+            "en": "Walk the stunning Rilke Trail for panoramic views over the Adriatic Sea, and bring binoculars to spot the diverse local bird species nesting in cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Piscine Bowling Duino",
+            "hu": "Parco Piscine Bowling Duino",
+            "ro": "Parco Piscine Bowling Duino",
+            "en": "Parco Piscine Bowling Duino"
+          },
+          "coords": [
+            13.611232,
+            45.775476
+          ],
+          "category": "recreational",
+          "arrive_at": "11:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem tollen Freizeitkomplex für Familien, aber denken Sie daran, vorab die saisonalen Öffnungszeiten für das Schwimmen zu prüfen.",
+            "hu": "Pihenjen és szórakozzon ebben a családok számára tökéletes rekreációs komplexumban, de ne felejtse el ellenőrizni a szezonális nyitvatartási időket.",
+            "ro": "Relaxați-vă și distrați-vă în acest complex de agrement perfect pentru familii, dar nu uitați să verificați programul de funcționare sezonier înainte.",
+            "en": "Relax and have fun at this engaging recreational complex perfect for families, but remember to check the seasonal opening hours before planning a swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Prähistorische Siedlung Duino Stazione",
+            "hu": "Duino Stazione Történelem Előtti Települése",
+            "ro": "Așezarea Preistorică Duino Stazione",
+            "en": "Duino Stazione Prehistoric Settlement"
+          },
+          "coords": [
+            13.626124,
+            45.777784
+          ],
+          "category": "historical",
+          "arrive_at": "13:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die antiken Wurzeln der Gegend in dieser prähistorischen Siedlung und nehmen Sie sich Zeit für die informativen Tafeln über das Leben.",
+            "hu": "Fedezze fel a terület ősi gyökereit ezen a lenyűgöző történelem előtti településen, és szánjon időt a mindennapi életet bemutató információs táblákra.",
+            "ro": "Descoperiți rădăcinile antice ale zonei la această fascinantă așezare protoistorică și faceți-vă timp pentru a citi panourile informative detaliate.",
+            "en": "Discover the ancient roots of the area at this fascinating protohistoric settlement, and take time to read the informative panels detailing daily life."
+          }
+        },
+        {
+          "name": {
+            "de": "ex Monumento AU",
+            "hu": "ex Monumento AU",
+            "ro": "ex Monumento AU",
+            "en": "ex Monumento AU"
+          },
+          "coords": [
+            13.632455,
+            45.772307
+          ],
+          "category": "historical",
+          "arrive_at": "14:43",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses historische Denkmal, das die komplexe Vergangenheit der Region markiert, und tragen Sie unbedingt bequeme Schuhe für das Gelände.",
+            "hu": "Csodálja meg ezt a komoly történelmi emlékművet, amely a régió összetett múltját jelzi, és mindenképpen viseljen kényelmes cipőt az egyenetlen talajhoz.",
+            "ro": "Admirați acest monument istoric solemn care marchează trecutul complex al regiunii și asigurați-vă că purtați încălțăminte comodă pentru terenul stâncos.",
+            "en": "Admire this solemn historical remnant that marks the region's complex past, and be sure to wear comfortable shoes for the uneven ground around the site."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelliere di Visogliano",
+            "hu": "Castelliere di Visogliano",
+            "ro": "Castelliere di Visogliano",
+            "en": "Castelliere di Visogliano"
+          },
+          "coords": [
+            13.648316,
+            45.776167
+          ],
+          "category": "historical",
+          "arrive_at": "15:06",
+          "stay_min": 110,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese alten Burgruinen, die einen Einblick in die Bronzezeit bieten, und besuchen Sie sie zur goldenen Stunde für beste Lichtverhältnisse.",
+            "hu": "Fedezze fel ezeket az ősi erődítményromokat, amelyek bepillantást engednek a bronzkorba, és látogasson el az aranyórában a legjobb fotózási fényekért.",
+            "ro": "Explorați aceste ruine antice ale unui fort care oferă o privire în Epoca Bronzului și vizitați-l în timpul orei de aur pentru cea mai bună lumină.",
+            "en": "Explore these ancient hill fort ruins that offer a glimpse into the Bronze Age, and visit during the golden hour for the best lighting for photography."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir starten schwungvoll in den Tag am Castelreggio und radeln entlang der Küste zum wunderschönen Naturreservat Falesie di Duino.\n\nAm Mittag legen wir eine aktive Pause im Parco Piscine Bowling Duino ein, wo Erholung und Familienspaß perfekt miteinander kombiniert werden.\n\nNachmittags radeln wir durch die Zeit zum prähistorischen Siedlungsgebiet Duino Stazione und halten kurz am historischen ex Monumento AU an.\n\nAm frühen Abend erreichen wir schließlich das Castelliere di Visogliano, wo antike Ruinen im warmen Licht der untergehenden Sonne erstrahlen.",
+        "hu": "Lendületesen kezdjük a napot a Castelreggio-nál, és a part mentén kerékpározunk a gyönyörű Falesie di Duino természetvédelmi területhez.\n\nDélben egy aktív szünetet tartunk a Parco Piscine Bowling Duino komplexumban, ahol a kikapcsolódás és a családi szórakozás tökéletesen ötvöződik.\n\nDélután átkerekezünk az időn a Duino Stazione történelem előtti településhez, és röviden megállunk a történelmi ex Monumento AU emlékműnél.\n\nKora este végül elérjük a Castelliere di Visogliano romjait, ahol az ősi kövek a lenyugvó nap meleg fényében fürdenek a nyugodt csendben.",
+        "ro": "Începem ziua cu energie la Castelreggio și pedalăm de-a lungul coastei către frumoasa rezervație naturală Falesie di Duino.\n\nLa amiază facem o pauză activă la Parco Piscine Bowling Duino, unde relaxarea și distracția în familie se combină perfect într-un loc minunat.\n\nDupă-amiaza pedalăm prin timp către așezarea preistorică Duino Stazione și facem o scurtă oprire la istoricul ex Monumento AU.\n\nSeara devreme ajungem în sfârșit la Castelliere di Visogliano, unde ruinele antice strălucesc în lumina caldă a soarelui care apune lin.",
+        "en": "We kick off the day with energy at Castelreggio, pedaling along the beautiful coastline to the stunning Falesie di Duino nature reserve.\n\nMidday offers an active break at Parco Piscine Bowling Duino, perfectly combining relaxation and family fun in a vibrant and welcoming setting.\n\nIn the afternoon, we cycle through time to the prehistoric settlement of Duino Stazione and briefly stop at the historic ex Monumento AU.\n\nIn the early evening, we finally reach the Castelliere di Visogliano, where ancient ruins bask in the warm, fading light of the setting sun."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:52",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Naturreservat Falesie di Duino",
+            "hu": "Falesie di Duino Természetvédelmi Terület",
+            "ro": "Rezervația Naturală Falesie di Duino",
+            "en": "Falesie di Duino Nature Reserve"
+          },
+          "coords": [
+            13.614227,
+            45.770379
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Wandern Sie auf dem Rilkeweg für Panoramablicke über die Adria und bringen Sie ein Fernglas mit, um die vielfältigen Vogelarten in den Klippen zu sehen.",
+            "hu": "Sétáljon végig a lenyűgöző Rilke-ösvényen, ahonnan panorámás kilátás nyílik az Adriai-tengerre, és hozzon távcsövet a fészkelő madárfajok megfigyelésére.",
+            "ro": "Plimbați-vă pe uimitorul traseu Rilke pentru vederi panoramice asupra Mării Adriatice și aduceți un binoclu pentru a observa păsările de pe stânci.",
+            "en": "Walk the stunning Rilke Trail for panoramic views over the Adriatic Sea, and bring binoculars to spot the diverse local bird species nesting in cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Piscine Bowling Duino",
+            "hu": "Parco Piscine Bowling Duino",
+            "ro": "Parco Piscine Bowling Duino",
+            "en": "Parco Piscine Bowling Duino"
+          },
+          "coords": [
+            13.611232,
+            45.775476
+          ],
+          "category": "recreational",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem tollen Freizeitkomplex für Familien, aber denken Sie daran, vorab die saisonalen Öffnungszeiten für das Schwimmen zu prüfen.",
+            "hu": "Pihenjen és szórakozzon ebben a családok számára tökéletes rekreációs komplexumban, de ne felejtse el ellenőrizni a szezonális nyitvatartási időket.",
+            "ro": "Relaxați-vă și distrați-vă în acest complex de agrement perfect pentru familii, dar nu uitați să verificați programul de funcționare sezonier înainte.",
+            "en": "Relax and have fun at this engaging recreational complex perfect for families, but remember to check the seasonal opening hours before planning a swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Prähistorische Siedlung Duino Stazione",
+            "hu": "Duino Stazione Történelem Előtti Települése",
+            "ro": "Așezarea Preistorică Duino Stazione",
+            "en": "Duino Stazione Prehistoric Settlement"
+          },
+          "coords": [
+            13.626124,
+            45.777784
+          ],
+          "category": "historical",
+          "arrive_at": "11:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die antiken Wurzeln der Gegend in dieser prähistorischen Siedlung und nehmen Sie sich Zeit für die informativen Tafeln über das Leben.",
+            "hu": "Fedezze fel a terület ősi gyökereit ezen a lenyűgöző történelem előtti településen, és szánjon időt a mindennapi életet bemutató információs táblákra.",
+            "ro": "Descoperiți rădăcinile antice ale zonei la această fascinantă așezare protoistorică și faceți-vă timp pentru a citi panourile informative detaliate.",
+            "en": "Discover the ancient roots of the area at this fascinating protohistoric settlement, and take time to read the informative panels detailing daily life."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelliere di Ceroglie",
+            "hu": "Castelliere di Ceroglie",
+            "ro": "Castelliere di Ceroglie",
+            "en": "Castelliere di Ceroglie"
+          },
+          "coords": [
+            13.633842,
+            45.789821
+          ],
+          "category": "historical",
+          "arrive_at": "13:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine weitere Ebene des prähistorischen Verteidigungsnetzwerks der Region und tragen Sie feste Wanderschuhe für den anspruchsvollen Weg.",
+            "hu": "Fedezze fel a régió történelem előtti védelmi hálózatának egy újabb rétegét ennél az erődnél, és viseljen masszív túracipőt a kihívást jelentő úthoz.",
+            "ro": "Descoperiți un alt strat al rețelei de apărare preistorice a regiunii la acest fort și purtați bocanci de drumeție rezistenți pentru urcarea dificilă.",
+            "en": "Uncover another layer of the region's prehistoric defense network at this fort, and wear sturdy walking boots as the path up can be quite challenging."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle der Heiligen Kyrill und Method",
+            "hu": "Szent Cirill és Metód Kápolna",
+            "ro": "Capela Sfinților Chiril și Metodiu",
+            "en": "Chapel of Saints Cyril and Methodius"
+          },
+          "coords": [
+            13.64362,
+            45.78883
+          ],
+          "category": "religious",
+          "arrive_at": "14:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Verweilen Sie an dieser ruhigen, lokal bedeutsamen religiösen Stätte, die den Slawenaposteln gewidmet ist, und respektieren Sie die Stille der Umgebung.",
+            "hu": "Töltsön el egy békés pillanatot ezen a csendes, helyi jelentőségű vallási helyszínen, amelyet a szlávok apostolainak szenteltek, tisztelve a csendet.",
+            "ro": "Petreceți un moment de pace la acest loc religios liniștit, dedicat apostolilor slavilor, și respectați tăcerea și sfințenia acestei zone pitorești.",
+            "en": "Take a peaceful moment at this quiet, locally significant religious site dedicated to the apostles of the Slavs, and respect the silence of the area."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Nicola",
+            "hu": "San Nicola Templom",
+            "ro": "Biserica San Nicola",
+            "en": "Church of San Nicola"
+          },
+          "coords": [
+            13.660262,
+            45.785266
+          ],
+          "category": "religious",
+          "arrive_at": "15:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Eleganz dieser bezaubernden Dorfkirche und prüfen Sie, ob Sie an einem der traditionellen Sonntagsgottesdienste teilnehmen können.",
+            "hu": "Csodálja meg ennek a bájos falusi templomnak az egyszerű eleganciáját, és nézze meg, részt tud-e venni az egyik hagyományos vasárnapi istentiszteleten.",
+            "ro": "Admirați eleganța simplă a acestei biserici fermecătoare din sat și vedeți dacă puteți participa la una dintre slujbele tradiționale de duminică.",
+            "en": "Admire the simple elegance of this charming village church serving the local community, and see if you can catch one of the traditional Sunday services."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelliere di Visogliano",
+            "hu": "Castelliere di Visogliano",
+            "ro": "Castelliere di Visogliano",
+            "en": "Castelliere di Visogliano"
+          },
+          "coords": [
+            13.648316,
+            45.776167
+          ],
+          "category": "historical",
+          "arrive_at": "16:02",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese alten Burgruinen, die einen Einblick in die Bronzezeit bieten, und besuchen Sie sie zur goldenen Stunde für beste Lichtverhältnisse.",
+            "hu": "Fedezze fel ezeket az ősi erődítményromokat, amelyek bepillantást engednek a bronzkorba, és látogasson el az aranyórában a legjobb fotózási fényekért.",
+            "ro": "Explorați aceste ruine antice ale unui fort care oferă o privire în Epoca Bronzului și vizitați-l în timpul orei de aur pentru cea mai bună lumină.",
+            "en": "Explore these ancient hill fort ruins that offer a glimpse into the Bronze Age, and visit during the golden hour for the best lighting for photography."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unsere komfortable Fahrt beginnt am Naturreservat Falesie di Duino, bevor wir für entspannte Stunden zum Freizeitpark Piscine Bowling Duino fahren.\n\nMittags tauchen wir in die Geschichte ein und besuchen die prähistorische Siedlung Duino Stazione sowie das beeindruckende Castelliere di Ceroglie.\n\nDer Nachmittag ist der spirituellen Kultur gewidmet, mit ruhigen Besuchen in der Kapelle der Heiligen Kyrill und Method sowie der Kirche San Nicola.\n\nDen perfekten Abschluss bildet die Fahrt zum Castelliere di Visogliano, wo sich historische Atmosphäre und abendliche Stille wunderbar vereinen.",
+        "hu": "Kényelmes utunk a Falesie di Duino természetvédelmi területnél kezdődik, mielőtt a Piscine Bowling Duino szabadidőparkba hajtanánk kikapcsolódni.\n\nDélben elmerülünk a történelemben, meglátogatva a Duino Stazione történelem előtti települést és a lenyűgöző Castelliere di Ceroglie erődítményét.\n\nA délután a spirituális kultúrának van szentelve, csendes látogatásokkal a Szent Cirill és Metód kápolnában, valamint a San Nicola templomban.\n\nA tökéletes befejezést a Castelliere di Visogliano felé vezető út jelenti, ahol a történelmi hangulat és az esti csend csodálatosan egyesül.",
+        "ro": "Călătoria noastră confortabilă începe la rezervația naturală Falesie di Duino, înainte de a conduce spre parcul de agrement Piscine Bowling Duino.\n\nLa amiază ne scufundăm în istorie vizitând așezarea preistorică Duino Stazione și impresionantul Castelliere di Ceroglie aflat în apropiere.\n\nDupă-amiaza este dedicată culturii spirituale, cu vizite liniștite la Capela Sfinților Chiril și Metodiu și la biserica San Nicola.\n\nFinalul perfect este drumul către Castelliere di Visogliano, unde atmosfera istorică și liniștea serii se îmbină minunat la final de zi.",
+        "en": "Our comfortable drive begins at the spectacular Falesie di Duino nature reserve before smoothly transitioning to the Piscine Bowling Duino leisure park.\n\nMidday dives straight into regional history, visiting the prehistoric Duino Stazione settlement and the impressive nearby Castelliere di Ceroglie.\n\nThe afternoon is gently dedicated to spiritual culture, featuring quiet visits to the Chapel of Saints Cyril and Methodius and the San Nicola church.\n\nThe perfect conclusion is our drive to Castelliere di Visogliano, where historical atmosphere and evening tranquility blend wonderfully together."
+      }
+    }
+  }
+}

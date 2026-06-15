@@ -1,0 +1,428 @@
+{
+  "city_id": "morteau",
+  "anchor": {
+    "name": "Morteau",
+    "coords": [
+      6.6061,
+      47.0581
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:38",
+      "total_km": 1.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "L'Atalante",
+            "hu": "L'Atalante",
+            "ro": "L'Atalante",
+            "en": "L'Atalante"
+          },
+          "coords": [
+            6.603978,
+            47.056851
+          ],
+          "category": "cultural",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie eine Aufführung in diesem lebendigen Kulturzentrum und überprüfen Sie unbedingt im Voraus das Online-Programm, um Ihre Tickets zu buchen.",
+            "hu": "Élvezzen egy előadást vagy kiállítást ebben a nyüzsgő kulturális központban, de mindenképpen nézze meg előre az online műsort a jegyfoglaláshoz.",
+            "ro": "Bucurați-vă de o expoziție la acest centru cultural vibrant și asigurați-vă că verificați programul online în avans pentru a vă rezerva biletele din timp.",
+            "en": "Enjoy a performance or exhibition at this vibrant cultural center, and be sure to check their online schedule in advance to book your tickets early."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame-de-l'Assomption",
+            "hu": "Notre-Dame-de-l'Assomption templom",
+            "ro": "Biserica Notre-Dame-de-l'Assomption",
+            "en": "Church of Notre-Dame-de-l'Assomption"
+          },
+          "coords": [
+            6.598501,
+            47.05486
+          ],
+          "category": "religious",
+          "arrive_at": "10:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Buntglasfenster dieser historischen Kirche und kommen Sie früh morgens, um das beste natürliche Licht im Inneren zu genießen.",
+            "hu": "Csodálja meg a történelmi templom gyönyörű ólomüveg ablakait és békés hangulatát, majd érkezzen kora reggel a legjobb természetes fényviszonyok érdekében.",
+            "ro": "Admirați vitraliile frumoase și atmosfera senină a acestei biserici istorice și veniți dimineața devreme pentru a vă bucura de cea mai bună lumină.",
+            "en": "Admire the beautiful stained glass and serene atmosphere of this historic church, and visit early in the morning to enjoy the best natural lighting inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Château Pertusier",
+            "hu": "Château Pertusier",
+            "ro": "Château Pertusier",
+            "en": "Château Pertusier"
+          },
+          "coords": [
+            6.6007,
+            47.0542
+          ],
+          "category": "historical",
+          "arrive_at": "11:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die elegante Renaissance-Architektur dieses bemerkenswerten Schlosses und nehmen Sie sich Zeit für einen Spaziergang im umliegenden Park.",
+            "hu": "Fedezze fel ennek a figyelemre méltó kastélynak az elegáns reneszánsz építészetét, és szánjon időt egy sétára a környező parkban a legjobb fotókért.",
+            "ro": "Descoperiți arhitectura renascentistă elegantă a acestui castel remarcabil, făcându-vă timp pentru o plimbare în parcul înconjurător pentru fotografii.",
+            "en": "Discover the elegant Renaissance architecture of this remarkable château, taking time to stroll through the surrounding park for excellent photo opportunities."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrenmuseum",
+            "hu": "Óramúzeum",
+            "ro": "Muzeul Orologeriei",
+            "en": "Watchmaking Museum"
+          },
+          "coords": [
+            6.60076,
+            47.0542
+          ],
+          "category": "museum",
+          "arrive_at": "12:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem Museum Jahrhunderte der Präzisionsuhrmacherei, aber nehmen Sie an einer Führung teil, um die komplexen Details zu verstehen.",
+            "hu": "Fedezze fel az óraipar évszázados precizitását ebben a múzeumban, de mindenképpen csatlakozzon egy tárlatvezetéshez a mechanikai részletek megértéséért.",
+            "ro": "Explorați secole de orologerie de precizie în acest muzeu fascinant, dar alăturați-vă unui tur ghidat pentru a aprecia pe deplin detaliile mecanice.",
+            "en": "Explore centuries of precision horology in this fascinating museum, but remember to join a guided tour to fully appreciate the complex mechanical details."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-Pierre et Saint-Paul",
+            "hu": "Saint-Pierre et Saint-Paul kápolna",
+            "ro": "Capela Saint-Pierre et Saint-Paul",
+            "en": "Chapelle Saint-Pierre et Saint-Paul"
+          },
+          "coords": [
+            6.610422,
+            47.0565
+          ],
+          "category": "religious",
+          "arrive_at": "14:28",
+          "stay_min": 70,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Betreten Sie diese charmante Steinkapelle, um ihre ruhige Atmosphäre zu erleben, aber beachten Sie die unregelmäßigen Öffnungszeiten in den Wintermonaten.",
+            "hu": "Lépjen be ebbe a bájos kőkápolnába, hogy megtapasztalja annak csendes, spirituális hangulatát, de vegye figyelembe az eltérő téli nyitvatartási időt.",
+            "ro": "Intrați în această capelă de piatră fermecătoare pentru a simți ambianța sa spirituală, dar rețineți că programul de iarnă poate fi neregulat.",
+            "en": "Step inside this charming stone chapel to experience its quiet spiritual ambiance, but note that the opening hours are irregular during the winter months."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Rundgang beginnt mit einem tiefen Einblick in die lokale Kultur im L'Atalante.\n\nAls Nächstes spazieren Sie zur historischen Kirche Notre-Dame, um die friedliche Atmosphäre zu genießen.\n\nDer Nachmittag ist dem reichen Erbe von Morteau gewidmet, mit dem eleganten Château Pertusier und dem Uhrenmuseum.\n\nBeenden Sie Ihren Tag mit einem ruhigen Moment der Besinnung in der charmanten Kapelle Saint-Pierre.",
+        "hu": "Gyalogos túrája a helyi kultúra felfedezésével kezdődik a L'Atalante központjában.\n\nEzután sétáljon el a történelmi Notre-Dame-templomhoz, magába szívva annak békés hangulatát.\n\nA délután Morteau gazdag örökségének van szentelve: látogassa meg a Château Pertusier-t és az Óramúzeumot.\n\nVégül zárja a napot egy csendes, elmélkedő pillanattal a bájos Saint-Pierre et Saint-Paul kápolnában.",
+        "ro": "Turul pietonal începe cu o incursiune în cultura locală la L'Atalante.\n\nApoi, veți face o plimbare spre istorica Biserică Notre-Dame, bucurându-vă de atmosfera sa pașnică.\n\nDupă-amiaza este dedicată patrimoniului bogat din Morteau, incluzând elegantul Château Pertusier și Muzeul Orologeriei.\n\nÎn cele din urmă, încheiați ziua cu un moment de reflecție la fermecătoarea Capelă Saint-Pierre et Saint-Paul.",
+        "en": "Your walking tour begins with a deep dive into local culture at L'Atalante.\n\nNext, you'll stroll to the historic Church of Notre-Dame-de-l'Assomption, soaking in its peaceful atmosphere.\n\nThe afternoon is dedicated to Morteau's rich heritage, featuring the elegant Château Pertusier and the fascinating Watchmaking Museum.\n\nFinally, conclude your day with a quiet reflective moment at the charming Chapelle Saint-Pierre et Saint-Paul."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:37",
+      "total_km": 4.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "L'Atalante",
+            "hu": "L'Atalante",
+            "ro": "L'Atalante",
+            "en": "L'Atalante"
+          },
+          "coords": [
+            6.603978,
+            47.056851
+          ],
+          "category": "cultural",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie eine Aufführung in diesem lebendigen Kulturzentrum und überprüfen Sie unbedingt im Voraus das Online-Programm, um Ihre Tickets zu buchen.",
+            "hu": "Élvezzen egy előadást vagy kiállítást ebben a nyüzsgő kulturális központban, de mindenképpen nézze meg előre az online műsort a jegyfoglaláshoz.",
+            "ro": "Bucurați-vă de o expoziție la acest centru cultural vibrant și asigurați-vă că verificați programul online în avans pentru a vă rezerva biletele din timp.",
+            "en": "Enjoy a performance or exhibition at this vibrant cultural center, and be sure to check their online schedule in advance to book your tickets early."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame-de-l'Assomption",
+            "hu": "Notre-Dame-de-l'Assomption templom",
+            "ro": "Biserica Notre-Dame-de-l'Assomption",
+            "en": "Church of Notre-Dame-de-l'Assomption"
+          },
+          "coords": [
+            6.598501,
+            47.05486
+          ],
+          "category": "religious",
+          "arrive_at": "10:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Buntglasfenster dieser historischen Kirche und kommen Sie früh morgens, um das beste natürliche Licht im Inneren zu genießen.",
+            "hu": "Csodálja meg a történelmi templom gyönyörű ólomüveg ablakait és békés hangulatát, majd érkezzen kora reggel a legjobb természetes fényviszonyok érdekében.",
+            "ro": "Admirați vitraliile frumoase și atmosfera senină a acestei biserici istorice și veniți dimineața devreme pentru a vă bucura de cea mai bună lumină.",
+            "en": "Admire the beautiful stained glass and serene atmosphere of this historic church, and visit early in the morning to enjoy the best natural lighting inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrenmuseum",
+            "hu": "Óramúzeum",
+            "ro": "Muzeul Orologeriei",
+            "en": "Watchmaking Museum"
+          },
+          "coords": [
+            6.60076,
+            47.0542
+          ],
+          "category": "museum",
+          "arrive_at": "11:09",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem Museum Jahrhunderte der Präzisionsuhrmacherei, aber nehmen Sie an einer Führung teil, um die komplexen Details zu verstehen.",
+            "hu": "Fedezze fel az óraipar évszázados precizitását ebben a múzeumban, de mindenképpen csatlakozzon egy tárlatvezetéshez a mechanikai részletek megértéséért.",
+            "ro": "Explorați secole de orologerie de precizie în acest muzeu fascinant, dar alăturați-vă unui tur ghidat pentru a aprecia pe deplin detaliile mecanice.",
+            "en": "Explore centuries of precision horology in this fascinating museum, but remember to join a guided tour to fully appreciate the complex mechanical details."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvedere du mont Vouillot",
+            "hu": "Belvedere du mont Vouillot",
+            "ro": "Belvedere du mont Vouillot",
+            "en": "Belvedere du mont Vouillot"
+          },
+          "coords": [
+            6.604169,
+            47.073019
+          ],
+          "category": "natural",
+          "arrive_at": "13:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf das Jura-Gebirge von diesem Aussichtspunkt und bringen Sie eine Windjacke mit, da es oben recht windig werden kann.",
+            "hu": "Szívja magába a Jura-hegység panorámáját erről a csodálatos kilátópontról, de feltétlenül hozzon magával széldzsekit, mert a csúcson hűvös lehet a szél.",
+            "ro": "Bucurați-vă de vederea panoramică asupra munților Jura de la acest punct de belvedere și aduceți o jachetă de vânt, deoarece poate fi destul de răcoare.",
+            "en": "Soak in panoramic views of the Jura mountains from this magnificent viewpoint, and bring a windbreaker jacket as it can get quite breezy at the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Claude",
+            "hu": "Saint-Claude templom",
+            "ro": "Biserica Saint-Claude",
+            "en": "Église Saint-Claude"
+          },
+          "coords": [
+            6.628066,
+            47.078701
+          ],
+          "category": "religious",
+          "arrive_at": "14:27",
+          "stay_min": 70,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Schätzen Sie die traditionelle regionale Architektur dieser Pfarrkirche, die als perfekter ruhiger Halt vor einem Ausflug in die Natur dient.",
+            "hu": "Tekintse meg ennek a plébániatemplomnak a hagyományos regionális építészetét, amely tökéletes csendes megálló a közeli természetbe tett kirándulás előtt.",
+            "ro": "Apreciați arhitectura tradițională a acestei biserici parohiale, care servește drept o oprire liniștită perfectă înainte de a ieși în natura din apropiere.",
+            "en": "Appreciate the traditional regional architecture of this parish church, which serves as a perfect quiet stop before heading out into the nearby nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour mit der Erkundung der Ausstellungen im L'Atalante.\n\nRadeln Sie durch das Zentrum, um die Kirche Notre-Dame zu bewundern und im Uhrenmuseum die Industriegeschichte zu entdecken.\n\nNach dem Mittagessen fahren Sie hinauf zum Belvedere du mont Vouillot, um den Blick über das Tal zu genießen.\n\nLassen Sie den Tag mit einer gemütlichen Fahrt zur ruhigen Église Saint-Claude ausklingen.",
+        "hu": "Kezdje kerékpáros túráját a L'Atalante kiállításainak felfedezésével.\n\nTekerjen át a központon, csodálja meg a Notre-Dame építészetét, és ismerje meg az ipari múltat az Óramúzeumban.\n\nEgy kiadós ebéd után tegye próbára magát egy felfelé vezető úttal a Belvedere du mont Vouillot kilátóhoz.\n\nA nap végén guruljon le a békés Église Saint-Claude templomhoz egy kellemes levezetésként.",
+        "ro": "Începeți călătoria cu bicicleta explorând expozițiile de la L'Atalante.\n\nPedalați prin centru pentru a admira Biserica Notre-Dame și a descoperi istoria industrială la Muzeul Orologeriei.\n\nDupă un prânz copios, acceptați provocarea de a urca la Belvedere du mont Vouillot pentru vederi panoramice.\n\nÎncheiați cu o plimbare relaxantă către liniștita Biserică Saint-Claude înainte de apusul soarelui.",
+        "en": "Kick off your cycling journey by exploring the exhibitions at L'Atalante.\n\nPedal through the center to admire the architecture of Notre-Dame-de-l'Assomption and uncover the area's industrial history at the Watchmaking Museum.\n\nAfter a satisfying lunch, challenge yourself with a ride up to the Belvedere du mont Vouillot for sweeping valley views.\n\nWind down with an easy cruise to the tranquil Église Saint-Claude before sunset."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:26",
+      "total_km": 21.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Château Pertusier",
+            "hu": "Château Pertusier",
+            "ro": "Château Pertusier",
+            "en": "Château Pertusier"
+          },
+          "coords": [
+            6.6007,
+            47.0542
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die elegante Renaissance-Architektur dieses bemerkenswerten Schlosses und nehmen Sie sich Zeit für einen Spaziergang im umliegenden Park.",
+            "hu": "Fedezze fel ennek a figyelemre méltó kastélynak az elegáns reneszánsz építészetét, és szánjon időt egy sétára a környező parkban a legjobb fotókért.",
+            "ro": "Descoperiți arhitectura renascentistă elegantă a acestui castel remarcabil, făcându-vă timp pentru o plimbare în parcul înconjurător pentru fotografii.",
+            "en": "Discover the elegant Renaissance architecture of this remarkable château, taking time to stroll through the surrounding park for excellent photo opportunities."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrenmuseum",
+            "hu": "Óramúzeum",
+            "ro": "Muzeul Orologeriei",
+            "en": "Watchmaking Museum"
+          },
+          "coords": [
+            6.60076,
+            47.0542
+          ],
+          "category": "museum",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem Museum Jahrhunderte der Präzisionsuhrmacherei, aber nehmen Sie an einer Führung teil, um die komplexen Details zu verstehen.",
+            "hu": "Fedezze fel az óraipar évszázados precizitását ebben a múzeumban, de mindenképpen csatlakozzon egy tárlatvezetéshez a mechanikai részletek megértéséért.",
+            "ro": "Explorați secole de orologerie de precizie în acest muzeu fascinant, dar alăturați-vă unui tur ghidat pentru a aprecia pe deplin detaliile mecanice.",
+            "en": "Explore centuries of precision horology in this fascinating museum, but remember to join a guided tour to fully appreciate the complex mechanical details."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvedere du mont Vouillot",
+            "hu": "Belvedere du mont Vouillot",
+            "ro": "Belvedere du mont Vouillot",
+            "en": "Belvedere du mont Vouillot"
+          },
+          "coords": [
+            6.604169,
+            47.073019
+          ],
+          "category": "natural",
+          "arrive_at": "12:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf das Jura-Gebirge von diesem Aussichtspunkt und bringen Sie eine Windjacke mit, da es oben recht windig werden kann.",
+            "hu": "Szívja magába a Jura-hegység panorámáját erről a csodálatos kilátópontról, de feltétlenül hozzon magával széldzsekit, mert a csúcson hűvös lehet a szél.",
+            "ro": "Bucurați-vă de vederea panoramică asupra munților Jura de la acest punct de belvedere și aduceți o jachetă de vânt, deoarece poate fi destul de răcoare.",
+            "en": "Soak in panoramic views of the Jura mountains from this magnificent viewpoint, and bring a windbreaker jacket as it can get quite breezy at the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Claude",
+            "hu": "Saint-Claude templom",
+            "ro": "Biserica Saint-Claude",
+            "en": "Église Saint-Claude"
+          },
+          "coords": [
+            6.628066,
+            47.078701
+          ],
+          "category": "religious",
+          "arrive_at": "12:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Schätzen Sie die traditionelle regionale Architektur dieser Pfarrkirche, die als perfekter ruhiger Halt vor einem Ausflug in die Natur dient.",
+            "hu": "Tekintse meg ennek a plébániatemplomnak a hagyományos regionális építészetét, amely tökéletes csendes megálló a közeli természetbe tett kirándulás előtt.",
+            "ro": "Apreciați arhitectura tradițională a acestei biserici parohiale, care servește drept o oprire liniștită perfectă înainte de a ieși în natura din apropiere.",
+            "en": "Appreciate the traditional regional architecture of this parish church, which serves as a perfect quiet stop before heading out into the nearby nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Doubs-Schluchten",
+            "hu": "Doubs-szurdok",
+            "ro": "Cheile Doubs",
+            "en": "Doubs Gorges"
+          },
+          "coords": [
+            6.71019,
+            47.084
+          ],
+          "category": "natural",
+          "arrive_at": "13:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die dramatischen Kalksteinklippen in diesen atemberaubenden Schluchten und tragen Sie feste Wanderschuhe für die malerischen Wanderwege.",
+            "hu": "Gyönyörködjön a lenyűgöző szurdokok drámai mészkőszikláiban és a kanyargós folyóban, de feltétlenül viseljen masszív túracipőt az ösvények bejárásához.",
+            "ro": "Minunați-vă de stâncile dramatice de calcar din aceste chei uimitoare și purtați bocanci de drumeție rezistenți dacă intenționați să explorați traseele.",
+            "en": "Marvel at the dramatic limestone cliffs and winding river in these stunning gorges, and wear sturdy hiking boots if you plan to explore the scenic trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Michel",
+            "hu": "Saint-Michel templom",
+            "ro": "Biserica Saint-Michel",
+            "en": "Église Saint-Michel"
+          },
+          "coords": [
+            6.607164,
+            47.044963
+          ],
+          "category": "religious",
+          "arrive_at": "15:16",
+          "stay_min": 70,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 10.2,
+          "tip_5lang": {
+            "de": "Verbringen Sie einen ruhigen Moment in dieser gut erhaltenen südlichen Kirche und achten Sie auf die aufwendigen Holzschnitzereien am Hauptaltar.",
+            "hu": "Töltsön el egy békés pillanatot ebben a gyönyörűen megőrzött déli templomban, és figyelje meg a főoltárt díszítő bonyolult fafaragásokat a belső térben.",
+            "ro": "Petreceți un moment liniștit în această biserică sudică frumos conservată și acordați atenție sculpturilor complicate din lemn care decorează altarul.",
+            "en": "Take a peaceful moment at this beautifully preserved southern church, and pay attention to the intricate wooden carvings decorating the main altar area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour mit der prächtigen Architektur des Château Pertusier.\n\nVerbringen Sie den Vormittag damit, im berühmten Uhrenmuseum nebenan in die Wunder der Uhrmacherei einzutauchen.\n\nAm Nachmittag fahren Sie zum Belvedere du mont Vouillot, halten an der Église Saint-Claude und erkunden die Doubs-Schluchten.\n\nIhr malerischer Roadtrip endet perfekt mit einem Besuch in der ruhigen Église Saint-Michel.",
+        "hu": "Autós túrája a Château Pertusier csodálatos reneszánsz építészetének felfedezésével indul.\n\nA késő délelőttöt töltse a közvetlenül mellette található híres Óramúzeum lenyűgöző kiállításainak megtekintésével.\n\nDélután vezessen fel a Belvedere kilátóhoz, álljon meg az Église Saint-Claude-nál, majd fedezze fel a Doubs-szurdokot.\n\nA festői utazás egy tökéletes esti látogatással zárul a csendes Église Saint-Michel templomnál.",
+        "ro": "Începeți turul cu mașina explorând arhitectura magnifică de la Château Pertusier.\n\nPetreceți dimineața târziu admirând minunile orologeriei la celebrul Muzeu al Orologeriei din imediata vecinătate.\n\nDupă-amiaza, conduceți până la Belvedere du mont Vouillot, faceți o oprire la Biserica Saint-Claude și explorați Cheile Doubs.\n\nExcursia dumneavoastră se încheie perfect cu o vizită de seară la liniștita Biserică Saint-Michel.",
+        "en": "Start your driving tour with the magnificent Renaissance architecture of Château Pertusier.\n\nSpend the late morning diving deep into horological wonders at the famous Watchmaking Museum right next door.\n\nIn the afternoon, drive up to Belvedere du mont Vouillot, pause at Église Saint-Claude, and then venture out to the breathtaking Doubs Gorges.\n\nYour scenic road trip concludes perfectly with an evening visit to the quiet Église Saint-Michel."
+      }
+    }
+  }
+}

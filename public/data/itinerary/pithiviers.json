@@ -1,0 +1,520 @@
+{
+  "city_id": "pithiviers",
+  "anchor": {
+    "name": "Pithiviers",
+    "coords": [
+      2.2519,
+      48.1719
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:12",
+      "total_km": 1.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint Salomon Church",
+            "hu": "Saint Salomon Church",
+            "ro": "Saint Salomon Church",
+            "en": "Saint Salomon Church"
+          },
+          "coords": [
+            2.255473,
+            48.173985
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante gotische Architektur dieser historischen Kirche, bevor Sie eintreten und die schönen Buntglasfenster im warmen Morgenlicht auf sich wirken lassen.",
+            "hu": "Csodálja meg e történelmi templom lenyűgöző gótikus építészetét, mielőtt belépne, hogy felfedezze a nyugodt főhajót és a gyönyörű ólomüveg ablakokat a reggeli fényben.",
+            "ro": "Admirați arhitectura gotică impresionantă a acestei biserici istorice înainte de a intra pentru a explora naosul senin, observând frumoasele vitralii în lumina dimineții.",
+            "en": "Admire the striking gothic architecture of this historic church before stepping inside to explore its serene nave, noting the beautiful stained glass windows in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Théâtre du Donjon",
+            "hu": "Théâtre du Donjon",
+            "ro": "Théâtre du Donjon",
+            "en": "Théâtre du Donjon"
+          },
+          "coords": [
+            2.258075,
+            48.173765
+          ],
+          "category": "cultural",
+          "arrive_at": "09:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale Kulturgeschichte in diesem lebendigen Theater in einem historischen Gebäude; prüfen Sie das Ausstellungsprogramm für wunderbare unerwartete Funde.",
+            "hu": "Fedezze fel a helyi kultúrtörténetet ebben a történelmi épületben kialakított színházban, ahol az aktuális kiállítási naptár ellenőrzése kellemes meglepetéseket rejthet.",
+            "ro": "Descoperiți istoria culturală locală la acest teatru vibrant construit într-o structură istorică, unde verificarea programului expozițional vă poate oferi surprize plăcute.",
+            "en": "Discover local cultural history at this vibrant theater built within a historic structure, where checking the current exhibition schedule can lead to delightful unexpected finds."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de l'Ardoise",
+            "hu": "Château de l'Ardoise",
+            "ro": "Château de l'Ardoise",
+            "en": "Château de l'Ardoise"
+          },
+          "coords": [
+            2.257711,
+            48.172159
+          ],
+          "category": "castle",
+          "arrive_at": "11:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die prächtige Fassade und die gepflegten Anlagen dieses klassischen französischen Schlosses, und tragen Sie bequeme Schuhe für einen Spaziergang über das Anwesen.",
+            "hu": "Fedezze fel e klasszikus francia kastély fenséges külsejét és gondozott parkját, és viseljen kényelmes cipőt, hogy teljes mértékben élvezhesse a sétát a gyönyörű birtokon.",
+            "ro": "Explorați exteriorul grandios și terenurile îngrijite ale acestui castel francez clasic, asigurându-vă că purtați încălțăminte comodă pentru o plimbare prin frumoasa proprietate.",
+            "en": "Explore the grand exterior and manicured grounds of this classic French castle, ensuring you wear comfortable shoes to fully enjoy a leisurely stroll around the beautiful estate."
+          }
+        },
+        {
+          "name": {
+            "de": "Pithiviers Memorial",
+            "hu": "Pithiviers Memorial",
+            "ro": "Pithiviers Memorial",
+            "en": "Pithiviers Memorial"
+          },
+          "coords": [
+            2.255237,
+            48.169319
+          ],
+          "category": "historical",
+          "arrive_at": "13:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erweisen Sie an dieser tief bewegenden historischen Gedenkstätte Ihren Respekt und nehmen Sie sich einen Moment Zeit, um die informativen Tafeln zur Erinnerung zu lesen.",
+            "hu": "Rójja le tiszteletét ezen a mélyen megindító történelmi emlékhelyen, és szánjon egy csendes percet az informatív táblák elolvasására, amelyek a közösség emlékeit őrzik.",
+            "ro": "Prezentați-vă omagiile la acest memorial istoric profund emoționant, luându-vă un moment de liniște pentru a citi plăcile informative care păstrează amintirile comunității.",
+            "en": "Pay your respects at this deeply moving historical memorial site, taking a quiet moment to read the informative plaques that preserve the somber memories of the local community."
+          }
+        },
+        {
+          "name": {
+            "de": "Bellecour Park",
+            "hu": "Bellecour Park",
+            "ro": "Bellecour Park",
+            "en": "Bellecour Park"
+          },
+          "coords": [
+            2.253795,
+            48.165676
+          ],
+          "category": "natural",
+          "arrive_at": "14:27",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie nach Ihren historischen Erkundungen auf den grünen Rasenflächen dieses friedlichen Parks, und bringen Sie ein kleines Picknick für eine Pause unter den Bäumen mit.",
+            "hu": "Pihenjen meg a történelmi felfedezések után ennek a békés parknak a zöld pázsitján, és hozzon magával egy kis pikniket, amit az ősi fák terebélyes árnyékában fogyaszthat el.",
+            "ro": "Relaxați-vă pe pajiștile verzi ale acestui parc natural liniștit după explorările istorice, aducând un mic picnic pentru a vă bucura de el la umbra răcoroasă a copacilor bătrâni.",
+            "en": "Relax on the green lawns of this peaceful natural park after your historical explorations, bringing a small picnic to enjoy under the expansive shade of the ancient trees."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im Herzen von Pithiviers an der großen Kirche Saint Salomon, und besuchen Sie dann das Théâtre du Donjon. Mittags bewundern Sie das elegante Château de l'Ardoise. Am Nachmittag erweisen Sie am bewegenden Pithiviers Memorial Ihren Respekt. Beenden Sie den Abend mit einem entspannten Spaziergang unter den alten Bäumen des wunderschön angelegten Parks Bellecour.",
+        "hu": "Kezdje a reggelt Pithiviers szívében a fenséges Saint Salomon templomnál, majd fedezze fel a Théâtre du Donjon kulturális kiállításait. Délben az elegáns Château de l'Ardoise mellett visz az út. Délután rójja le tiszteletét a megható Pithiviers Emlékműnél. Az estét a gyönyörűen parkosított Bellecour Park ősi fái alatti pihentető, kényelmes sétával zárhatja le.",
+        "ro": "Începeți dimineața în Pithiviers la biserica Saint Salomon, apoi explorați exponatele de la Théâtre du Donjon. La amiază treceți pe lângă elegantul Château de l'Ardoise. După-amiaza, aduceți un omagiu la emoționantul Memorial Pithiviers. Încheiați seara cu o plimbare relaxantă și liniștită pe sub copacii seculari din minunatul parc Bellecour, perfect amenajat.",
+        "en": "Begin your morning in the heart of Pithiviers at the grand Saint Salomon Church, then explore the cultural exhibits at the Théâtre du Donjon. Midday takes you past the elegant Château de l'Ardoise. In the afternoon, pay your respects at the moving Pithiviers Memorial. Conclude your evening with a leisurely, relaxing stroll under the ancient trees of the beautifully landscaped Bellecour Park."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:18",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint Salomon Church",
+            "hu": "Saint Salomon Church",
+            "ro": "Saint Salomon Church",
+            "en": "Saint Salomon Church"
+          },
+          "coords": [
+            2.255473,
+            48.173985
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante gotische Architektur dieser historischen Kirche, bevor Sie eintreten und die schönen Buntglasfenster im warmen Morgenlicht auf sich wirken lassen.",
+            "hu": "Csodálja meg e történelmi templom lenyűgöző gótikus építészetét, mielőtt belépne, hogy felfedezze a nyugodt főhajót és a gyönyörű ólomüveg ablakokat a reggeli fényben.",
+            "ro": "Admirați arhitectura gotică impresionantă a acestei biserici istorice înainte de a intra pentru a explora naosul senin, observând frumoasele vitralii în lumina dimineții.",
+            "en": "Admire the striking gothic architecture of this historic church before stepping inside to explore its serene nave, noting the beautiful stained glass windows in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Théâtre du Donjon",
+            "hu": "Théâtre du Donjon",
+            "ro": "Théâtre du Donjon",
+            "en": "Théâtre du Donjon"
+          },
+          "coords": [
+            2.258075,
+            48.173765
+          ],
+          "category": "cultural",
+          "arrive_at": "09:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale Kulturgeschichte in diesem lebendigen Theater in einem historischen Gebäude; prüfen Sie das Ausstellungsprogramm für wunderbare unerwartete Funde.",
+            "hu": "Fedezze fel a helyi kultúrtörténetet ebben a történelmi épületben kialakított színházban, ahol az aktuális kiállítási naptár ellenőrzése kellemes meglepetéseket rejthet.",
+            "ro": "Descoperiți istoria culturală locală la acest teatru vibrant construit într-o structură istorică, unde verificarea programului expozițional vă poate oferi surprize plăcute.",
+            "en": "Discover local cultural history at this vibrant theater built within a historic structure, where checking the current exhibition schedule can lead to delightful unexpected finds."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de l'Ardoise",
+            "hu": "Château de l'Ardoise",
+            "ro": "Château de l'Ardoise",
+            "en": "Château de l'Ardoise"
+          },
+          "coords": [
+            2.257711,
+            48.172159
+          ],
+          "category": "castle",
+          "arrive_at": "11:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die prächtige Fassade und die gepflegten Anlagen dieses klassischen französischen Schlosses, und tragen Sie bequeme Schuhe für einen Spaziergang über das Anwesen.",
+            "hu": "Fedezze fel e klasszikus francia kastély fenséges külsejét és gondozott parkját, és viseljen kényelmes cipőt, hogy teljes mértékben élvezhesse a sétát a gyönyörű birtokon.",
+            "ro": "Explorați exteriorul grandios și terenurile îngrijite ale acestui castel francez clasic, asigurându-vă că purtați încălțăminte comodă pentru o plimbare prin frumoasa proprietate.",
+            "en": "Explore the grand exterior and manicured grounds of this classic French castle, ensuring you wear comfortable shoes to fully enjoy a leisurely stroll around the beautiful estate."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Aignan",
+            "hu": "Église Saint-Aignan",
+            "ro": "Église Saint-Aignan",
+            "en": "Église Saint-Aignan"
+          },
+          "coords": [
+            2.270394,
+            48.175652
+          ],
+          "category": "religious",
+          "arrive_at": "12:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses charmant erhaltene Heiligtum, um die traditionelle Steinhandwerkskunst zu bewundern, und kommen Sie kurz vor Mittag, um die ruhigste Atmosphäre zu genießen.",
+            "hu": "Lépjen be ebbe a bájosan megőrzött szentélybe, hogy megcsodálja a hagyományos kőfaragásokat, és érkezzen kevéssel dél előtt, hogy megtapasztalja a legcsendesebb légkört.",
+            "ro": "Pășiți în acest sanctuar religios fermecător conservat pentru a admira măiestria tradițională în piatră, sosind chiar înainte de prânz pentru a simți atmosfera sa liniștită.",
+            "en": "Step into this charmingly preserved religious sanctuary to admire its traditional stone craftsmanship, arriving just before midday to experience the quietest atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir de la Taille",
+            "hu": "Manoir de la Taille",
+            "ro": "Manoir de la Taille",
+            "en": "Manoir de la Taille"
+          },
+          "coords": [
+            2.27894,
+            48.176754
+          ],
+          "category": "castle",
+          "arrive_at": "13:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die einzigartigen architektonischen Details dieses historischen Herrenhauses von den öffentlichen Wegen aus und halten Sie Ihre Kamera für die schönen Fassaden bereit.",
+            "hu": "Csodálja meg e történelmi udvarház egyedi építészeti részleteit a nyilvános sétányokról, és készítse elő fényképezőgépét, hogy megörökítse a gyönyörű textúrájú homlokzatokat.",
+            "ro": "Minunați-vă de detaliile arhitecturale unice ale acestui conac istoric de pe aleile publice, asigurându-vă că aveți aparatul foto pregătit pentru a surprinde fațadele texturate.",
+            "en": "Marvel at the unique architectural details of this historic manor house from the public pathways, making sure your camera is ready to capture its beautifully textured facades."
+          }
+        },
+        {
+          "name": {
+            "de": "Pithiviers Memorial",
+            "hu": "Pithiviers Memorial",
+            "ro": "Pithiviers Memorial",
+            "en": "Pithiviers Memorial"
+          },
+          "coords": [
+            2.255237,
+            48.169319
+          ],
+          "category": "historical",
+          "arrive_at": "15:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Erweisen Sie an dieser tief bewegenden historischen Gedenkstätte Ihren Respekt und nehmen Sie sich einen Moment Zeit, um die informativen Tafeln zur Erinnerung zu lesen.",
+            "hu": "Rójja le tiszteletét ezen a mélyen megindító történelmi emlékhelyen, és szánjon egy csendes percet az informatív táblák elolvasására, amelyek a közösség emlékeit őrzik.",
+            "ro": "Prezentați-vă omagiile la acest memorial istoric profund emoționant, luându-vă un moment de liniște pentru a citi plăcile informative care păstrează amintirile comunității.",
+            "en": "Pay your respects at this deeply moving historical memorial site, taking a quiet moment to read the informative plaques that preserve the somber memories of the local community."
+          }
+        },
+        {
+          "name": {
+            "de": "Bellecour Park",
+            "hu": "Bellecour Park",
+            "ro": "Bellecour Park",
+            "en": "Bellecour Park"
+          },
+          "coords": [
+            2.253795,
+            48.165676
+          ],
+          "category": "natural",
+          "arrive_at": "16:33",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie nach Ihren historischen Erkundungen auf den grünen Rasenflächen dieses friedlichen Parks, und bringen Sie ein kleines Picknick für eine Pause unter den Bäumen mit.",
+            "hu": "Pihenjen meg a történelmi felfedezések után ennek a békés parknak a zöld pázsitján, és hozzon magával egy kis pikniket, amit az ősi fák terebélyes árnyékában fogyaszthat el.",
+            "ro": "Relaxați-vă pe pajiștile verzi ale acestui parc natural liniștit după explorările istorice, aducând un mic picnic pentru a vă bucura de el la umbra răcoroasă a copacilor bătrâni.",
+            "en": "Relax on the green lawns of this peaceful natural park after your historical explorations, bringing a small picnic to enjoy under the expansive shade of the ancient trees."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Radtag an der Kirche Saint Salomon und dem Théâtre du Donjon. Mittags radeln Sie am Château de l'Ardoise vorbei zur Église Saint-Aignan. Fahren Sie am Nachmittag hinauf zum Manoir de la Taille, bevor Sie zum Pithiviers Memorial zurückkehren. Beenden Sie Ihren aktiven Tag mit einer wohlverdienten Pause im ruhigen Grün des Bellecour Parks am frühen Abend.",
+        "hu": "Kezdje kerékpáros napját a Saint Salomon templomnál és a Théâtre du Donjonnál. Délben tekerjen el a Château de l'Ardoise mellett a bájos Église Saint-Aignanhoz. Délután kerekezzen fel a Manoir de la Taille-hez, majd térjen vissza a Pithiviers Emlékműhöz. Fejezze be aktív napját egy jól megérdemelt pihenéssel a Bellecour Park csendes zöldjében a kora esti órákban.",
+        "ro": "Începeți ziua de ciclism la biserica Saint Salomon și la Théâtre du Donjon. La amiază, pedalați pe lângă Château de l'Ardoise către Église Saint-Aignan. După-amiaza, mergeți să admirați Manoir de la Taille înainte de a reveni la Memorialul Pithiviers. Încheiați-vă ziua activă cu o odihnă binemeritată printre verdeața liniștită a parcului Bellecour, în timpul serii.",
+        "en": "Start your cycling day centrally at Saint Salomon Church and the nearby Théâtre du Donjon. By midday, pedal past Château de l'Ardoise to the charming Église Saint-Aignan. In the afternoon, ride up to admire the Manoir de la Taille before looping back to the Pithiviers Memorial. Finish your active day with a well-deserved rest among the quiet greenery of Bellecour Park in the evening."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:38",
+      "total_km": 6.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Château de Denainvilliers",
+            "hu": "Château de Denainvilliers",
+            "ro": "Château de Denainvilliers",
+            "en": "Château de Denainvilliers"
+          },
+          "coords": [
+            2.241287,
+            48.150285
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schlendern Sie um diese bemerkenswerte Schlossanlage, um das reiche lokale Erbe zu würdigen, und besuchen Sie sie im sanften Morgenlicht, um ihre historische Pracht zu erfassen.",
+            "hu": "Sétáljon e jeles kastélykomplexum körül, hogy értékelje a gazdag helyi örökséget, és látogasson el ide a lágy reggeli fényben, hogy teljes mértékben megértse történelmi nagyságát.",
+            "ro": "Plimbați-vă pe la marginile acestui complex de castele distins pentru a-i aprecia moștenirea, vizitând în lumina blândă a dimineții pentru a-i înțelege pe deplin măreția istorică.",
+            "en": "Wander the outskirts of this distinguished castle complex to appreciate its rich local heritage, visiting in the gentle morning light to fully grasp its historical grandeur."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Denis et Sainte-Mesme",
+            "hu": "Église Saint-Denis et Sainte-Mesme",
+            "ro": "Église Saint-Denis et Sainte-Mesme",
+            "en": "Église Saint-Denis et Sainte-Mesme"
+          },
+          "coords": [
+            2.272044,
+            48.158652
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie den regionalen Stil dieser historischen Kirche, die der Gemeinde seit Generationen dient, und nehmen Sie sich Zeit, um das Gebäude komplett zu umrunden.",
+            "hu": "Csodálja meg ezen a plébániát generációk óta szolgáló történelmi templom egyedi regionális stílusát, és szánjon időt arra, hogy teljesen körbesétálja és megfigyelje a részleteit.",
+            "ro": "Admirați stilul regional distinct al acestei biserici istorice care a servit parohia de generații, făcându-vă timp să o ocoliți complet pentru a-i vedea toate detaliile ascunse.",
+            "en": "Admire the distinct regional style of this historic church that has served the parish for generations, taking time to walk completely around the exterior to see all its details."
+          }
+        },
+        {
+          "name": {
+            "de": "Bellecour Park",
+            "hu": "Bellecour Park",
+            "ro": "Bellecour Park",
+            "en": "Bellecour Park"
+          },
+          "coords": [
+            2.253795,
+            48.165676
+          ],
+          "category": "natural",
+          "arrive_at": "11:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie nach Ihren historischen Erkundungen auf den grünen Rasenflächen dieses friedlichen Parks, und bringen Sie ein kleines Picknick für eine Pause unter den Bäumen mit.",
+            "hu": "Pihenjen meg a történelmi felfedezések után ennek a békés parknak a zöld pázsitján, és hozzon magával egy kis pikniket, amit az ősi fák terebélyes árnyékában fogyaszthat el.",
+            "ro": "Relaxați-vă pe pajiștile verzi ale acestui parc natural liniștit după explorările istorice, aducând un mic picnic pentru a vă bucura de el la umbra răcoroasă a copacilor bătrâni.",
+            "en": "Relax on the green lawns of this peaceful natural park after your historical explorations, bringing a small picnic to enjoy under the expansive shade of the ancient trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Pithiviers Memorial",
+            "hu": "Pithiviers Memorial",
+            "ro": "Pithiviers Memorial",
+            "en": "Pithiviers Memorial"
+          },
+          "coords": [
+            2.255237,
+            48.169319
+          ],
+          "category": "historical",
+          "arrive_at": "12:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erweisen Sie an dieser tief bewegenden historischen Gedenkstätte Ihren Respekt und nehmen Sie sich einen Moment Zeit, um die informativen Tafeln zur Erinnerung zu lesen.",
+            "hu": "Rójja le tiszteletét ezen a mélyen megindító történelmi emlékhelyen, és szánjon egy csendes percet az informatív táblák elolvasására, amelyek a közösség emlékeit őrzik.",
+            "ro": "Prezentați-vă omagiile la acest memorial istoric profund emoționant, luându-vă un moment de liniște pentru a citi plăcile informative care păstrează amintirile comunității.",
+            "en": "Pay your respects at this deeply moving historical memorial site, taking a quiet moment to read the informative plaques that preserve the somber memories of the local community."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint Salomon Church",
+            "hu": "Saint Salomon Church",
+            "ro": "Saint Salomon Church",
+            "en": "Saint Salomon Church"
+          },
+          "coords": [
+            2.255473,
+            48.173985
+          ],
+          "category": "religious",
+          "arrive_at": "13:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante gotische Architektur dieser historischen Kirche, bevor Sie eintreten und die schönen Buntglasfenster im warmen Morgenlicht auf sich wirken lassen.",
+            "hu": "Csodálja meg e történelmi templom lenyűgöző gótikus építészetét, mielőtt belépne, hogy felfedezze a nyugodt főhajót és a gyönyörű ólomüveg ablakokat a reggeli fényben.",
+            "ro": "Admirați arhitectura gotică impresionantă a acestei biserici istorice înainte de a intra pentru a explora naosul senin, observând frumoasele vitralii în lumina dimineții.",
+            "en": "Admire the striking gothic architecture of this historic church before stepping inside to explore its serene nave, noting the beautiful stained glass windows in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Théâtre du Donjon",
+            "hu": "Théâtre du Donjon",
+            "ro": "Théâtre du Donjon",
+            "en": "Théâtre du Donjon"
+          },
+          "coords": [
+            2.258075,
+            48.173765
+          ],
+          "category": "cultural",
+          "arrive_at": "14:42",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale Kulturgeschichte in diesem lebendigen Theater in einem historischen Gebäude; prüfen Sie das Ausstellungsprogramm für wunderbare unerwartete Funde.",
+            "hu": "Fedezze fel a helyi kultúrtörténetet ebben a történelmi épületben kialakított színházban, ahol az aktuális kiállítási naptár ellenőrzése kellemes meglepetéseket rejthet.",
+            "ro": "Descoperiți istoria culturală locală la acest teatru vibrant construit într-o structură istorică, unde verificarea programului expozițional vă poate oferi surprize plăcute.",
+            "en": "Discover local cultural history at this vibrant theater built within a historic structure, where checking the current exhibition schedule can lead to delightful unexpected finds."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de l'Ardoise",
+            "hu": "Château de l'Ardoise",
+            "ro": "Château de l'Ardoise",
+            "en": "Château de l'Ardoise"
+          },
+          "coords": [
+            2.257711,
+            48.172159
+          ],
+          "category": "castle",
+          "arrive_at": "16:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die prächtige Fassade und die gepflegten Anlagen dieses klassischen französischen Schlosses, und tragen Sie bequeme Schuhe für einen Spaziergang über das Anwesen.",
+            "hu": "Fedezze fel e klasszikus francia kastély fenséges külsejét és gondozott parkját, és viseljen kényelmes cipőt, hogy teljes mértékben élvezhesse a sétát a gyönyörű birtokon.",
+            "ro": "Explorați exteriorul grandios și terenurile îngrijite ale acestui castel francez clasic, asigurându-vă că purtați încălțăminte comodă pentru o plimbare prin frumoasa proprietate.",
+            "en": "Explore the grand exterior and manicured grounds of this classic French castle, ensuring you wear comfortable shoes to fully enjoy a leisurely stroll around the beautiful estate."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir de la Taille",
+            "hu": "Manoir de la Taille",
+            "ro": "Manoir de la Taille",
+            "en": "Manoir de la Taille"
+          },
+          "coords": [
+            2.27894,
+            48.176754
+          ],
+          "category": "castle",
+          "arrive_at": "17:48",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die einzigartigen architektonischen Details dieses historischen Herrenhauses von den öffentlichen Wegen aus und halten Sie Ihre Kamera für die schönen Fassaden bereit.",
+            "hu": "Csodálja meg e történelmi udvarház egyedi építészeti részleteit a nyilvános sétányokról, és készítse elő fényképezőgépét, hogy megörökítse a gyönyörű textúrájú homlokzatokat.",
+            "ro": "Minunați-vă de detaliile arhitecturale unice ale acestui conac istoric de pe aleile publice, asigurându-vă că aveți aparatul foto pregătit pentru a surprinde fațadele texturate.",
+            "en": "Marvel at the unique architectural details of this historic manor house from the public pathways, making sure your camera is ready to capture its beautifully textured facades."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie früh zum Château de Denainvilliers und zur Église Saint-Denis. Die Mittagszeit bietet eine Pause im Bellecour Park und einen Besuch am Pithiviers Memorial. Der Nachmittag ist perfekt, um die Kirche Saint Salomon, das Theater und das Château de l'Ardoise im Zentrum zu entdecken. Ihr Abend endet perfekt mit dem klassischen Charme des Manoir de la Taille.",
+        "hu": "Autózzon ki korán a Château de Denainvilliers-hez és a Saint-Denis templomhoz. A délidő békés szünetet kínál a Bellecour Parkban és egy látogatást a Pithiviers Emlékműnél. A délután tökéletes a Saint Salomon templom, a színház és a Château de l'Ardoise központi felfedezésére. Az este tökéletesen zárul a Manoir de la Taille klasszikus és elegáns történelmi bájával.",
+        "ro": "Conduceți devreme spre Château de Denainvilliers și Église Saint-Denis. Amiaza oferă o pauză la parcul Bellecour și o vizită la Memorialul Pithiviers. Orele după-amiezii sunt perfecte pentru a descoperi biserica Saint Salomon, teatrul și Château de l'Ardoise în centru. Seara se încheie perfect, admirând farmecul clasic inconfundabil oferit de Manoir de la Taille.",
+        "en": "Drive out early to the historic Château de Denainvilliers and the parish of Église Saint-Denis. Midday offers a peaceful break at Bellecour Park and a sobering visit to the Pithiviers Memorial. Afternoon hours are perfect for discovering Saint Salomon Church, the theater, and Château de l'Ardoise in the center. Your evening finishes perfectly with the classic charm of Manoir de la Taille."
+      }
+    }
+  }
+}

@@ -1,0 +1,497 @@
+{
+  "city_id": "city-oulu",
+  "anchor": {
+    "name": "Oulu",
+    "coords": [
+      25.4716,
+      65.0121
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 1.65,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Otto Karhin puisto",
+            "hu": "Otto Karhin puisto",
+            "ro": "Otto Karhin puisto",
+            "en": "Otto Karhin puisto"
+          },
+          "coords": [
+            25.474863,
+            65.012243
+          ],
+          "category": "park",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem zentralen Stadtpark mit seinen üppigen Rasenflächen und historischem Charme, aber holen Sie sich vorher einen Kaffee von nebenan.",
+            "hu": "Pihenjen meg ebben a buja gyeppel és történelmi bájjal rendelkező központi parkban, de ne felejtsen el egy kávét hozni a közeli kávézóból a padokra.",
+            "ro": "Relaxați-vă în acest parc central cunoscut pentru peluzele sale luxuriante, dar nu uitați să luați o cafea de la o cafenea din apropiere pentru a o savura.",
+            "en": "Relax in this central urban park known for its lush lawns and historic charm, but remember to grab a coffee from a nearby café to enjoy on the benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Cultural Centre Valve",
+            "hu": "Valve Kulturális Központ",
+            "ro": "Centrul Cultural Valve",
+            "en": "Cultural Centre Valve"
+          },
+          "coords": [
+            25.47028,
+            65.014191
+          ],
+          "category": "cultural",
+          "arrive_at": "10:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie Oulus lebendige Kunstszene bei den ständig wechselnden Ausstellungen hier und prüfen Sie das Tagesprogramm für kostenlose Kurzfilme am Empfang.",
+            "hu": "Fedezze fel Oulu pezsgő művészeti életét az itt található változatos kiállításokon, és ellenőrizze a napi programot a recepción egy ingyenes rövidfilmért.",
+            "ro": "Explorați scena artistică vibrantă din Oulu cu expoziții în continuă schimbare și verificați programul la recepție pentru a prinde un scurtmetraj gratuit.",
+            "en": "Explore Oulu's vibrant arts scene with constantly changing exhibitions here, and check their daily schedule at the reception to catch a free short film."
+          }
+        },
+        {
+          "name": {
+            "de": "Oulu Castle",
+            "hu": "Oului vár",
+            "ro": "Castelul Oulu",
+            "en": "Oulu Castle"
+          },
+          "coords": [
+            25.467309,
+            65.017234
+          ],
+          "category": "historical",
+          "arrive_at": "11:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die restaurierten Ruinen dieser Festung aus dem 16. Jahrhundert auf der Insel und besteigen Sie den kleinen Turm für eine tolle Aussicht.",
+            "hu": "Sétáljon végig a festői szigeten található 16. századi erődítmény restaurált romjai között, és másszon fel a kis obszervatórium tornyába a remek kilátásért.",
+            "ro": "Plimbați-vă prin ruinele restaurate ale acestei fortărețe din secolul al XVI-lea de pe insulă și urcați în micul turn de observare pentru priveliști minunate.",
+            "en": "Wander through the restored ruins of this 16th-century stronghold located on a picturesque island, and climb the small observatory tower for great views."
+          }
+        },
+        {
+          "name": {
+            "de": "Nordösterbotten-Museum",
+            "hu": "Észak-Ostrobothnia Múzeum",
+            "ro": "Muzeul Ostrobotniei de Nord",
+            "en": "Northern Ostrobothnia Museum"
+          },
+          "coords": [
+            25.475301,
+            65.01775
+          ],
+          "category": "museum",
+          "arrive_at": "13:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie mit detaillierten Modellen des alten Oulu tief in die Kulturgeschichte ein und planen Sie mindestens eine Stunde für die samischen Exponate ein.",
+            "hu": "Merüljön el a régió kultúrtörténetében a régi Oulu részletes makettjeivel, és szánjon legalább egy órát a kiterjedt számi kiállítások megtekintésére.",
+            "ro": "Aprofundați istoria culturală a regiunii cu machete detaliate ale vechiului Oulu și alocați cel puțin o oră pentru a vedea expozițiile sami extinse.",
+            "en": "Dive deep into the cultural history of the region with detailed scale models of old Oulu, and allocate at least an hour to see the extensive Sami exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstmuseum Oulu",
+            "hu": "Oului Művészeti Múzeum",
+            "ro": "Muzeul de Artă Oulu",
+            "en": "Oulun taidemuseo"
+          },
+          "coords": [
+            25.482477,
+            65.019026
+          ],
+          "category": "museum",
+          "arrive_at": "14:47",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie überzeugende zeitgenössische Kunst in einem alten Industriegebäude und verpassen Sie nicht den hervorragenden Museumsshop für Designgeschenke.",
+            "hu": "Csodálja meg a régi ipari épületben található kortárs regionális művészeti alkotásokat, és ne hagyja ki a kiváló múzeumi boltot az egyedi design ajándékokért.",
+            "ro": "Admirați opere de artă regională contemporană într-o clădire industrială veche și nu ratați magazinul muzeului pentru cadouri de design local unice.",
+            "en": "Admire compelling contemporary regional artworks housed in an old industrial building, and don't miss the excellent museum shop for unique local design gifts."
+          }
+        },
+        {
+          "name": {
+            "de": "Science Centre Tietomaa",
+            "hu": "Tietomaa Tudományos Központ",
+            "ro": "Centrul de Științe Tietomaa",
+            "en": "Science Centre Tietomaa"
+          },
+          "coords": [
+            25.485161,
+            65.018436
+          ],
+          "category": "museum",
+          "arrive_at": "16:30",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fordern Sie Ihren Geist mit interaktiven Ausstellungen und dem Glasaufzug heraus, aber kommen Sie früh, da die Simulatorfahrten oft lange Warteschlangen haben.",
+            "hu": "Tornáztassa meg az elméjét az interaktív kiállításokkal és a panorámás üveglifttel, de érkezzen kora délután, mivel a szimulátoroknál gyakran hosszú a sor.",
+            "ro": "Stimulați-vă mintea cu expoziții interactive și liftul panoramic din sticlă, dar sosiți devreme deoarece atracțiile cu simulator au adesea cozi lungi.",
+            "en": "Engage your mind with interactive exhibits and the panoramic glass elevator, but arrive early in the afternoon as the simulator rides often have long queues."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im Herzen von Oulu im Otto Karhin puisto und genießen Sie die frische Luft. Mittags besuchen Sie das pulsierende Kulturzentrum Valve und die historischen Ruinen der Burg von Oulu. Tauchen Sie nachmittags im Nordösterbotten-Museum in die lokale Geschichte ein und bewundern Sie die Sammlungen im Kunstmuseum von Oulu. Beenden Sie den Tag im Science Centre Tietomaa.",
+        "hu": "Kezdje a reggelt Oulu szívében, az Otto Karhin puisto parkban, élvezve a friss levegőt. A dél a nyüzsgő Valve Kulturális Központba és az oului vár történelmi romjaihoz vezet. Délután merüljön el a helyi történelemben az Észak-Ostrobothnia Múzeumban, majd csodálja meg az Oului Művészeti Múzeumot. Fejezze be a napot interaktív szórakozással és tanulással a Tietomaa Tudományos Központban.",
+        "ro": "Începeți dimineața în inima orașului Oulu la Otto Karhin puisto, bucurându-vă de aerul proaspăt. La amiază, vizitați vibranta Casă de Cultură Valve și ruinele istorice ale Castelului Oulu. După-amiaza, scufundați-vă în istoria locală la Muzeul Ostrobotniei de Nord și admirați colecțiile de la Muzeul de Artă din Oulu. Încheiați ziua cu distracție interactivă la Centrul de Științe Tietomaa.",
+        "en": "Start your morning in the heart of Oulu at Otto Karhin puisto, enjoying the fresh air. Midday leads you to the vibrant Cultural Centre Valve and the historic ruins of Oulu Castle. In the afternoon, immerse yourself in local history at the Northern Ostrobothnia Museum and admire the collections at the Oulu Museum of Art. Finish the day with interactive fun and learning at the Tietomaa Science Centre."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:00",
+      "total_km": 6.35,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "HopLop",
+            "hu": "HopLop",
+            "ro": "HopLop",
+            "en": "HopLop"
+          },
+          "coords": [
+            25.465823,
+            64.994839
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder in diesem riesigen Indoor-Spielplatz voller Rutschen Energie abbauen und denken Sie daran, dass Erwachsene Socken tragen müssen.",
+            "hu": "Hagyja, hogy a gyerekek levezessék az energiájukat ebben a hatalmas, csúszdákkal teli beltéri játszótéren, és ne feledje, hogy a felnőtteknek zoknit kell viselniük.",
+            "ro": "Lăsați copiii să-și consume energia în acest imens loc de joacă interior plin de tobogane și rețineți că adulții trebuie să poarte șosete în zonele de joacă.",
+            "en": "Let the kids burn off energy in this massive indoor playground full of slides and climbing frames, and remember that adults must wear socks in the play areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Otto Karhin puisto",
+            "hu": "Otto Karhin puisto",
+            "ro": "Otto Karhin puisto",
+            "en": "Otto Karhin puisto"
+          },
+          "coords": [
+            25.474863,
+            65.012243
+          ],
+          "category": "park",
+          "arrive_at": "10:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem zentralen Stadtpark mit seinen üppigen Rasenflächen und historischem Charme, aber holen Sie sich vorher einen Kaffee von nebenan.",
+            "hu": "Pihenjen meg ebben a buja gyeppel és történelmi bájjal rendelkező központi parkban, de ne felejtsen el egy kávét hozni a közeli kávézóból a padokra.",
+            "ro": "Relaxați-vă în acest parc central cunoscut pentru peluzele sale luxuriante, dar nu uitați să luați o cafea de la o cafenea din apropiere pentru a o savura.",
+            "en": "Relax in this central urban park known for its lush lawns and historic charm, but remember to grab a coffee from a nearby café to enjoy on the benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadttheater Oulu",
+            "hu": "Oului Városi Színház",
+            "ro": "Teatrul Orașului Oulu",
+            "en": "Oulu City Theater"
+          },
+          "coords": [
+            25.46238,
+            65.014593
+          ],
+          "category": "cultural",
+          "arrive_at": "12:09",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die monumentale brutalistische Architektur, die sich im Wasser spiegelt, und buchen Sie im Voraus eine Backstage-Tour für tiefere Einblicke.",
+            "hu": "Csodálja meg a vízparton tükröződő monumentális brutalista építészetet, és próbáljon meg előre lefoglalni egy kulisszák mögötti túrát a titkok felfedezéséhez.",
+            "ro": "Admirați arhitectura monumentală brutalistă care se reflectă pe malul apei și încercați să rezervați un tur în culise în avans dacă doriți să vedeți mai multe.",
+            "en": "Marvel at the monumental brutalist architecture reflecting on the waterfront, and try to book a backstage tour in advance if you want to see behind the scenes."
+          }
+        },
+        {
+          "name": {
+            "de": "Seemannshausmuseum",
+            "hu": "Tengerészház Múzeum",
+            "ro": "Muzeul Casei Marinarilor",
+            "en": "Merimiehenkotimuseo"
+          },
+          "coords": [
+            25.458055,
+            65.017312
+          ],
+          "category": "museum",
+          "arrive_at": "13:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem gut erhaltenen Holzhaus auf Pikisaari in das Leben der Seeleute des 19. Jahrhunderts ein und fragen Sie nach der Bootsbaugeschichte.",
+            "hu": "Lépjen be a 19. századi tengerészek életébe ebben a jól megőrzött faépületben Pikisaari szigetén, és kérdezze a barátságos vezetőket a hajóépítő múltról.",
+            "ro": "Pășiți în viața marinarilor din secolul al XIX-lea în această casă de lemn bine conservată de pe Pikisaari și întrebați ghizii despre trecutul construcțiilor navale.",
+            "en": "Step into the 19th-century life of seafarers in this well-preserved wooden house on Pikisaari, and ask the friendly guides about the island's boatbuilding past."
+          }
+        },
+        {
+          "name": {
+            "de": "Oulu Castle",
+            "hu": "Oului vár",
+            "ro": "Castelul Oulu",
+            "en": "Oulu Castle"
+          },
+          "coords": [
+            25.467309,
+            65.017234
+          ],
+          "category": "historical",
+          "arrive_at": "14:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die restaurierten Ruinen dieser Festung aus dem 16. Jahrhundert auf der Insel und besteigen Sie den kleinen Turm für eine tolle Aussicht.",
+            "hu": "Sétáljon végig a festői szigeten található 16. századi erődítmény restaurált romjai között, és másszon fel a kis obszervatórium tornyába a remek kilátásért.",
+            "ro": "Plimbați-vă prin ruinele restaurate ale acestei fortărețe din secolul al XVI-lea de pe insulă și urcați în micul turn de observare pentru priveliști minunate.",
+            "en": "Wander through the restored ruins of this 16th-century stronghold located on a picturesque island, and climb the small observatory tower for great views."
+          }
+        },
+        {
+          "name": {
+            "de": "Sommertheater Hupisaaret",
+            "hu": "Hupisaaret Nyári Színház",
+            "ro": "Teatrul de Vară Hupisaaret",
+            "en": "Hupisaarten kesäteatteri"
+          },
+          "coords": [
+            25.4803,
+            65.020256
+          ],
+          "category": "cultural",
+          "arrive_at": "16:18",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie Freiluftaufführungen umgeben von den üppigen Bächen des Hupisaaret-Parks und bringen Sie eine Jacke mit, da die Abendluft am Wasser schnell abkühlt.",
+            "hu": "Élvezze az elragadó szabadtéri előadásokat a Hupisaaret park buja patakjaival körülvéve, és hozzon egy könnyű kabátot, mivel a vízparti esti levegő gyorsan lehűl.",
+            "ro": "Bucurați-vă de spectacole în aer liber înconjurate de pâraiele luxuriante din parcul Hupisaaret și aduceți o jachetă ușoară, deoarece aerul se răcește rapid seara.",
+            "en": "Enjoy delightful outdoor performances surrounded by the lush streams of the Hupisaaret park, and bring a light jacket as the evening air by the water cools quickly."
+          }
+        },
+        {
+          "name": {
+            "de": "Värtön ranta",
+            "hu": "Värtön ranta",
+            "ro": "Värtön ranta",
+            "en": "Värtön ranta"
+          },
+          "coords": [
+            25.527392,
+            65.017835
+          ],
+          "category": "recreational",
+          "arrive_at": "17:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Flussstrand, der sich perfekt für einen Abendspaziergang eignet, und holen Sie sich einen Snack aus den nahen Sommerkiosken.",
+            "hu": "Kapcsolódjon ki ezen a festői folyóparti strandon, amely tökéletes egy békés esti sétához, és vegyen egy gyors falatot a közeli nyári kioszkokból zárás előtt.",
+            "ro": "Relaxați-vă la această plajă pitorească de pe malul râului, perfectă pentru o plimbare de seară, și luați o gustare de la chioșcurile de vară din apropiere.",
+            "en": "Unwind at this scenic riverside beach perfect for a peaceful evening stroll, and grab a quick bite from the nearby summer kiosks before they close for the night."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag im HopLop, bevor Sie zum grünen Otto Karhin puisto radeln. Mittags fahren Sie ans Wasser zum modernen Stadttheater und tauchen im Seemannshausmuseum in die Vergangenheit ein. Am Nachmittag radeln Sie zur historischen Burg und zum Sommertheater Hupisaaret. Lassen Sie den Abend mit einem entspannten Spaziergang bei Sonnenuntergang am Strand von Värtön ranta ausklingen.",
+        "hu": "Indítsa a napot családi mókával a HopLopban, mielőtt átkerekezik az Otto Karhin puisto zöldjébe. Délben tekerjen a vízpartra a modern Városi Színházhoz, majd utazzon vissza az időben a Tengerészház Múzeumban. A délutáni útja érinti az ikonikus oului várat és a Hupisaaret Nyári Színházat. Zárja az estét egy pihentető naplementés sétával a vízparton, a Värtön ranta strandon.",
+        "ro": "Începeți ziua cu distracție în familie la HopLop, apoi pedalați spre Otto Karhin puisto. La amiază, mergeți spre faleză pentru modernul Teatru al Orașului și Muzeul Casei Marinarilor. Traseul de după-amiază include emblematicul Castel Oulu și Teatrul de Vară Hupisaaret. Încheiați seara relaxându-vă cu o plimbare liniștită la apus de soare pe malul apei la plaja Värtön ranta.",
+        "en": "Kick off your day with family fun at HopLop before pedaling to the central greenery of Otto Karhin puisto. By midday, cycle to the waterfront to admire the modern Oulu City Theater and step back in time at the Sailor's Home Museum. Your afternoon ride includes the iconic Oulu Castle and the Hupisaaret Summer Theater. Wind down your evening with a relaxing sunset walk by the water at Värtön ranta."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:51",
+      "total_km": 9.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saarelan uimaranta",
+            "hu": "Saarelan uimaranta",
+            "ro": "Saarelan uimaranta",
+            "en": "Saarelan uimaranta"
+          },
+          "coords": [
+            25.569764,
+            64.995556
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem ruhigen, familienfreundlichen Strand am Fluss Oulujoki und spazieren Sie die Uferwege entlang für die besten Fotomotive.",
+            "hu": "Kezdje a napot ezen a csendes, családbarát strandon az Oulujoki folyó mentén, és sétáljon egy kicsit a parti ösvényeken a legjobb reggeli fotópontokért.",
+            "ro": "Începeți ziua la această plajă liniștită, ideală pentru familii, de-a lungul râului Oulujoki și plimbați-vă pe cărările de pe țărm pentru cele mai bune fotografii.",
+            "en": "Begin your day at this quiet, family-friendly beach along the Oulujoki river, and walk a bit along the shoreline paths for the best morning photo spots."
+          }
+        },
+        {
+          "name": {
+            "de": "Emännäntien uimaranta",
+            "hu": "Emännäntien uimaranta",
+            "ro": "Emännäntien uimaranta",
+            "en": "Emännäntien uimaranta"
+          },
+          "coords": [
+            25.547911,
+            65.00849
+          ],
+          "category": "recreational",
+          "arrive_at": "10:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Machen Sie eine erfrischende Pause an diesem von Natur umgebenen Badeplatz und achten Sie auf die kleinen Sandbuchten, die sich perfekt zum Steinehüpfen eignen.",
+            "hu": "Tartson egy frissítő szünetet ezen a természettel körülvett helyi fürdőhelyen, és figyelje a kis homokos öblöket, amelyek tökéletesek a kavicsok kacsáztatására.",
+            "ro": "Luați o pauză revigorantă la acest loc de baie local înconjurat de natură și căutați micile intrânduri cu nisip, care sunt perfecte pentru a arunca cu pietre.",
+            "en": "Take a refreshing break at this local bathing spot surrounded by nature, and look out for the small sandy inlets which are perfect for skipping stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Science Centre Tietomaa",
+            "hu": "Tietomaa Tudományos Központ",
+            "ro": "Centrul de Științe Tietomaa",
+            "en": "Science Centre Tietomaa"
+          },
+          "coords": [
+            25.485161,
+            65.018436
+          ],
+          "category": "museum",
+          "arrive_at": "11:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Fordern Sie Ihren Geist mit interaktiven Ausstellungen und dem Glasaufzug heraus, aber kommen Sie früh, da die Simulatorfahrten oft lange Warteschlangen haben.",
+            "hu": "Tornáztassa meg az elméjét az interaktív kiállításokkal és a panorámás üveglifttel, de érkezzen kora délután, mivel a szimulátoroknál gyakran hosszú a sor.",
+            "ro": "Stimulați-vă mintea cu expoziții interactive și liftul panoramic din sticlă, dar sosiți devreme deoarece atracțiile cu simulator au adesea cozi lungi.",
+            "en": "Engage your mind with interactive exhibits and the panoramic glass elevator, but arrive early in the afternoon as the simulator rides often have long queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatteri Rio",
+            "hu": "Teatteri Rio",
+            "ro": "Teatteri Rio",
+            "en": "Teatteri Rio"
+          },
+          "coords": [
+            25.473986,
+            65.013416
+          ],
+          "category": "cultural",
+          "arrive_at": "13:03",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erleben Sie Oulus lebendige Comedy- und Unterhaltungsszene an diesem intimen Ort und reservieren Sie Ihre Tickets an geschäftigen Wochenenden weit im Voraus.",
+            "hu": "Tapasztalja meg Oulu élénk vígjáték- és szórakoztató színterét ezen az intim helyszínen, és gondoskodjon a jegyek előzetes lefoglalásáról a forgalmas hétvégéken.",
+            "ro": "Experimentați scena plină de viață de comedie și divertisment din Oulu în acest loc intim și asigurați-vă că rezervați biletele în avans în weekendurile aglomerate.",
+            "en": "Experience Oulu's lively comedy and entertainment scene at this intimate venue, and make sure to reserve your tickets well in advance during the busy weekends."
+          }
+        },
+        {
+          "name": {
+            "de": "Seemannshausmuseum",
+            "hu": "Tengerészház Múzeum",
+            "ro": "Muzeul Casei Marinarilor",
+            "en": "Merimiehenkotimuseo"
+          },
+          "coords": [
+            25.458055,
+            65.017312
+          ],
+          "category": "museum",
+          "arrive_at": "14:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem gut erhaltenen Holzhaus auf Pikisaari in das Leben der Seeleute des 19. Jahrhunderts ein und fragen Sie nach der Bootsbaugeschichte.",
+            "hu": "Lépjen be a 19. századi tengerészek életébe ebben a jól megőrzött faépületben Pikisaari szigetén, és kérdezze a barátságos vezetőket a hajóépítő múltról.",
+            "ro": "Pășiți în viața marinarilor din secolul al XIX-lea în această casă de lemn bine conservată de pe Pikisaari și întrebați ghizii despre trecutul construcțiilor navale.",
+            "en": "Step into the 19th-century life of seafarers in this well-preserved wooden house on Pikisaari, and ask the friendly guides about the island's boatbuilding past."
+          }
+        },
+        {
+          "name": {
+            "de": "HopLop",
+            "hu": "HopLop",
+            "ro": "HopLop",
+            "en": "HopLop"
+          },
+          "coords": [
+            25.465823,
+            64.994839
+          ],
+          "category": "family",
+          "arrive_at": "15:51",
+          "stay_min": 120,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder in diesem riesigen Indoor-Spielplatz voller Rutschen Energie abbauen und denken Sie daran, dass Erwachsene Socken tragen müssen.",
+            "hu": "Hagyja, hogy a gyerekek levezessék az energiájukat ebben a hatalmas, csúszdákkal teli beltéri játszótéren, és ne feledje, hogy a felnőtteknek zoknit kell viselniük.",
+            "ro": "Lăsați copiii să-și consume energia în acest imens loc de joacă interior plin de tobogane și rețineți că adulții trebuie să poarte șosete în zonele de joacă.",
+            "en": "Let the kids burn off energy in this massive indoor playground full of slides and climbing frames, and remember that adults must wear socks in the play areas."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie ruhig am Fluss Oulujoki am Saarelan uimaranta und besuchen Sie danach den Emännäntien uimaranta. Fahren Sie mittags in die Stadt, um das Science Centre Tietomaa und die Umgebung des Teatteri Rio zu erkunden. Verbringen Sie den Nachmittag damit, die maritime Geschichte im Seemannshausmuseum auf der Insel Pikisaari zu entdecken. Beenden Sie den Tag aktiv im HopLop.",
+        "hu": "Kezdje egy békés reggellel az Oulujoki folyónál a Saarelan uimaranta strandon, majd álljon meg az Emännäntien uimaranta-nál. Vezessen a városba a Tietomaa Tudományos Központ és a Teatteri Rio kulturális hangulata miatt. Töltse a délutánt a tengerészeti történelem felfedezésével a Pikisaari szigeten található Tengerészház Múzeumban. Zárja a napot energikus beltéri programokkal a HopLopban.",
+        "ro": "Începeți cu o dimineață pașnică pe râul Oulujoki la Saarelan uimaranta, urmată de o oprire la Emännäntien uimaranta. Conduceți în oraș pentru a explora Centrul de Științe Tietomaa și atmosfera culturală de la Teatteri Rio. Petreceți după-amiaza descoperind istoria maritimă pe insula Pikisaari la Muzeul Casei Marinarilor. Încheiați cu activități de interior pline de energie la HopLop.",
+        "en": "Start with a peaceful morning by the Oulujoki river at Saarelan uimaranta, followed by a quick stop at Emännäntien uimaranta. Drive into the city for midday exploration at the Tietomaa Science Centre and catch the cultural vibe near Teatteri Rio. Spend your afternoon uncovering maritime history on Pikisaari island at the Sailor's Home Museum. Wrap up with energetic indoor activities at HopLop."
+      }
+    }
+  }
+}

@@ -1,0 +1,543 @@
+{
+  "city_id": "croatia-silba-cities-v2",
+  "anchor": {
+    "name": "Silba",
+    "coords": [
+      14.6972,
+      44.3762
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:39",
+      "total_km": 1.57,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Galerija Marije Ujević Galetović",
+            "hu": "Galerija Marije Ujević Galetović",
+            "ro": "Galerija Marije Ujević Galetović",
+            "en": "Galerija Marije Ujević Galetović"
+          },
+          "coords": [
+            14.697626,
+            44.374057
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese atemberaubende Freiluftgalerie mit bemerkenswerten zeitgenössischen Skulpturen und nutzen Sie das weiche Morgenlicht für perfekte Fotos.",
+            "hu": "Fedezze fel ezt a lenyűgöző szabadtéri galériát a kortárs szobrokkal, és mindenképpen látogasson el ide a reggeli fényben a legjobb fotók készítéséhez.",
+            "ro": "Explorați această galerie impresionantă în aer liber cu sculpturi contemporane și asigurați-vă că o vizitați în lumina dimineții pentru fotografii perfecte.",
+            "en": "Explore this stunning outdoor gallery showcasing remarkable contemporary sculptures, and remember to visit during morning light for the best photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaštel",
+            "hu": "Kaštel",
+            "ro": "Kaštel",
+            "en": "Kaštel"
+          },
+          "coords": [
+            14.696318,
+            44.374531
+          ],
+          "category": "historical",
+          "arrive_at": "10:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche historische Schicht dieser Küstenfestungsruine und tragen Sie unbedingt festes Schuhwerk, da die unebenen Steine oft rutschig sind.",
+            "hu": "Fedezze fel ennek a parti erődromnak a gazdag történelmi rétegeit, de mindenképpen viseljen masszív cipőt, mivel az egyenetlen kövek eléggé csúszósak lehetnek.",
+            "ro": "Descoperiți istoria bogată a acestei cetăți de coastă aflate în ruine și purtați încălțăminte robustă, deoarece pietrele denivelate pot fi destul de alunecoase.",
+            "en": "Uncover the rich historical layers of this coastal fortress ruin, and make sure to wear sturdy shoes as the uneven stones can be quite slippery when exploring."
+          }
+        },
+        {
+          "name": {
+            "de": "Toreta",
+            "hu": "Toreta",
+            "ro": "Toreta",
+            "en": "Toreta"
+          },
+          "coords": [
+            14.695102,
+            44.375121
+          ],
+          "category": "natural",
+          "arrive_at": "12:14",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Besteigen Sie diesen ikonischen Aussichtsturm für ein spektakuläres Panorama der umliegenden Inseln, aber halten Sie Ihren Hut fest, da es oben windig ist.",
+            "hu": "Mássza meg ezt az ikonikus kilátótornyot, hogy élvezze a környező szigetek csodálatos panorámáját, de tartsa a kalapját, mert a tetején meglepően szeles lehet.",
+            "ro": "Urcați pe acest turn de observație iconic pentru o panoramă spectaculoasă a insulelor, dar aveți grijă la pălărie deoarece vântul poate fi destul de puternic.",
+            "en": "Climb this iconic viewing tower to enjoy a spectacular panoramic vista of the surrounding islands, but hold onto your hat as the top can be surprisingly windy."
+          }
+        },
+        {
+          "name": {
+            "de": "Tratica",
+            "hu": "Tratica",
+            "ro": "Tratica",
+            "en": "Tratica"
+          },
+          "coords": [
+            14.691343,
+            44.375971
+          ],
+          "category": "recreational",
+          "arrive_at": "12:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.31,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem friedlichen Kieselstrand mit kristallklarem Wasser und bringen Sie eigenen Schatten mit, da Bäume an der Küste selten sind.",
+            "hu": "Pihenjen ezen a békés kavicsos strandon, melynek kristálytiszta vize tökéletes úszásra, és hozzon magával napernyőt, mivel a parton kevés fa nyújt árnyékot.",
+            "ro": "Relaxați-vă pe această plajă liniștită cu pietriș și ape cristaline, și aduceți o umbrelă de soare, deoarece există foarte puțini copaci chiar pe coastă.",
+            "en": "Relax at this peaceful pebble beach with crystal-clear waters perfect for swimming, and bring your own shade as there are few trees directly by the coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Žalić",
+            "hu": "Žalić",
+            "ro": "Žalić",
+            "en": "Žalić"
+          },
+          "coords": [
+            14.691869,
+            44.374226
+          ],
+          "category": "recreational",
+          "arrive_at": "14:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie ein erfrischendes Bad in dieser lebhaften Bucht und kommen Sie frühzeitig, um sich einen guten Platz nahe der charmanten Bootsstege zu sichern.",
+            "hu": "Élvezze a frissítő fürdőzést ezen a nyüzsgő helyi öbölben, és érkezzen korán, hogy jó helyet biztosítson magának a hangulatos csónakkikötők közelében.",
+            "ro": "Bucurați-vă de o baie revigorantă în acest golf plin de viață și ajungeți mai devreme pentru a vă asigura un loc excelent lângă docurile fermecătoare.",
+            "en": "Enjoy a refreshing dip at this vibrant local bay that hums with coastal life, and consider arriving early to secure a prime spot near the charming boat docks."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Mühle",
+            "hu": "Régi malom",
+            "ro": "Vechea moară",
+            "en": "Old mill"
+          },
+          "coords": [
+            14.695545,
+            44.372489
+          ],
+          "category": "historical",
+          "arrive_at": "15:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie die rustikale Architektur dieser erhaltenen Inselmühle und berühren Sie die verwitterten Steine, um Jahrhunderte lokaler Handwerkskunst zu spüren.",
+            "hu": "Csodálja meg ennek a megőrzött hagyományos szigeti malomnak a rusztikus építészetét, és érintse meg az ősi köveket, hogy érezze a helyi mesterségek múltját.",
+            "ro": "Admirați arhitectura rustică a acestei mori tradiționale conservate și atingeți zidăria veche pentru a simți secole de măiestrie și istorie locală autentică.",
+            "en": "Marvel at the rustic architecture of this preserved traditional island mill, and gently touch the weathered stonework to feel centuries of local craftsmanship."
+          }
+        },
+        {
+          "name": {
+            "de": "Überreste eines Docks mit steinernen Sarkophagen",
+            "hu": "Egy dokk romjai kőszarkofágokkal",
+            "ro": "Rămășițele unui doc cu sarcofage de piatră",
+            "en": "Remains of a dock with stone sarcophagi"
+          },
+          "coords": [
+            14.693414,
+            44.368504
+          ],
+          "category": "historical",
+          "arrive_at": "16:49",
+          "stay_min": 110,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Reisen Sie in die Vergangenheit bei diesen antiken Sarkophagen und bringen Sie Schnorchelausrüstung mit, um historische Spuren unter der Wasseroberfläche zu sehen.",
+            "hu": "Lépjen vissza az időben a régi dokkoknál szétszórt ókori szarkofágok között, és hozzon búvárszemüveget a víz alatti történelmi nyomok közelebbi felfedezéséhez.",
+            "ro": "Pășiți în trecut printre aceste sarcofage antice misterioase și aduceți echipament de snorkeling pentru a descoperi urmele istorice ascunse sub apă limpede.",
+            "en": "Step back in time among these mysterious ancient sarcophagi scattered by the old docks, and bring a snorkel to catch glimpses of underwater historical traces."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit Kultur in der Freiluftgalerie und genießen Sie die ruhigen Dorfwege.\n\nMittags erwartet Sie eine historische Reise zum Kaštel und eine herrliche Aussicht vom Toreta-Turm.\n\nVerbringen Sie den Nachmittag entspannt an den Kieselstränden von Tratica und Žalić und kühlen Sie sich ab.\n\nAm Abend erkunden Sie die alte Mühle und bewundern die antiken Sarkophage, während die Sonne untergeht.",
+        "hu": "Kezdje a reggelt a kultúra elmerülésével a szabadtéri galériában, élvezve a csendes falusi ösvényeket.\n\nA délután történelmi utazást hoz az ősi Kaštelben, majd lenyűgöző kilátás nyílik a Toreta toronyból.\n\nTöltse a délutánt Tratica és Žalić kavicsos partjain pihenve, hagyva, hogy az Adria lehűtse.\n\nAhogy leszáll az est, fedezze fel a régi malmot, és elmélkedjen az ókori szarkofágok mellett a naplementében.",
+        "ro": "Începeți dimineața cufundați în cultură la galeria în aer liber, bucurându-vă de cărările liniștite.\n\nMiezul zilei aduce o călătorie istorică la anticul Kaštel, urmată de o panoramă superbă din turnul Toreta.\n\nPetreceți după-amiaza relaxându-vă pe malurile cu pietriș din Tratica și Žalić, lăsând Adriatica să vă răcorească.\n\nOdată cu lăsarea serii, explorați vechea moară și meditați la sarcofagele antice în timp ce soarele apune.",
+        "en": "Start your morning immersed in culture at the open-air gallery, enjoying the quiet village paths.\n\nMidday brings a journey through history at the ancient Kaštel followed by sweeping views from the Toreta tower.\n\nSpend the afternoon relaxing on the pebbly shores of Tratica and Žalić, letting the Adriatic cool you down.\n\nAs evening falls, explore the old mill and ponder the ancient stone sarcophagi while the sun sets."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:58",
+      "total_km": 4.82,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Luka Papranica",
+            "hu": "Luka Papranica",
+            "ro": "Luka Papranica",
+            "en": "Luka Papranica"
+          },
+          "coords": [
+            14.680181,
+            44.38962
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese unberührte Bucht inmitten von Kiefern und packen Sie ausreichend Wasser und Snacks ein, da es in der Nähe keinerlei Einrichtungen gibt.",
+            "hu": "Fedezze fel ezt az érintetlen kis öblöt, amely sűrű mediterrán fenyők között bújik meg, és hozzon magával elegendő vizet, mivel nincsenek közeli létesítmények.",
+            "ro": "Descoperiți acest golf izolat, ascuns printre pini mediteraneeni, și luați cu voi apă și gustări suficiente, deoarece nu există facilități comerciale în apropiere.",
+            "en": "Discover this secluded, unspoiled cove nestled among dense Mediterranean pine trees, and pack sufficient water and snacks since there are no facilities nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Tratica",
+            "hu": "Tratica",
+            "ro": "Tratica",
+            "en": "Tratica"
+          },
+          "coords": [
+            14.691343,
+            44.375971
+          ],
+          "category": "recreational",
+          "arrive_at": "09:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.75,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem friedlichen Kieselstrand mit kristallklarem Wasser und bringen Sie eigenen Schatten mit, da Bäume an der Küste selten sind.",
+            "hu": "Pihenjen ezen a békés kavicsos strandon, melynek kristálytiszta vize tökéletes úszásra, és hozzon magával napernyőt, mivel a parton kevés fa nyújt árnyékot.",
+            "ro": "Relaxați-vă pe această plajă liniștită cu pietriș și ape cristaline, și aduceți o umbrelă de soare, deoarece există foarte puțini copaci chiar pe coastă.",
+            "en": "Relax at this peaceful pebble beach with crystal-clear waters perfect for swimming, and bring your own shade as there are few trees directly by the coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Toreta",
+            "hu": "Toreta",
+            "ro": "Toreta",
+            "en": "Toreta"
+          },
+          "coords": [
+            14.695102,
+            44.375121
+          ],
+          "category": "natural",
+          "arrive_at": "11:02",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.31,
+          "tip_5lang": {
+            "de": "Besteigen Sie diesen ikonischen Aussichtsturm für ein spektakuläres Panorama der umliegenden Inseln, aber halten Sie Ihren Hut fest, da es oben windig ist.",
+            "hu": "Mássza meg ezt az ikonikus kilátótornyot, hogy élvezze a környező szigetek csodálatos panorámáját, de tartsa a kalapját, mert a tetején meglepően szeles lehet.",
+            "ro": "Urcați pe acest turn de observație iconic pentru o panoramă spectaculoasă a insulelor, dar aveți grijă la pălărie deoarece vântul poate fi destul de puternic.",
+            "en": "Climb this iconic viewing tower to enjoy a spectacular panoramic vista of the surrounding islands, but hold onto your hat as the top can be surprisingly windy."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaštel",
+            "hu": "Kaštel",
+            "ro": "Kaštel",
+            "en": "Kaštel"
+          },
+          "coords": [
+            14.696318,
+            44.374531
+          ],
+          "category": "historical",
+          "arrive_at": "11:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche historische Schicht dieser Küstenfestungsruine und tragen Sie unbedingt festes Schuhwerk, da die unebenen Steine oft rutschig sind.",
+            "hu": "Fedezze fel ennek a parti erődromnak a gazdag történelmi rétegeit, de mindenképpen viseljen masszív cipőt, mivel az egyenetlen kövek eléggé csúszósak lehetnek.",
+            "ro": "Descoperiți istoria bogată a acestei cetăți de coastă aflate în ruine și purtați încălțăminte robustă, deoarece pietrele denivelate pot fi destul de alunecoase.",
+            "en": "Uncover the rich historical layers of this coastal fortress ruin, and make sure to wear sturdy shoes as the uneven stones can be quite slippery when exploring."
+          }
+        },
+        {
+          "name": {
+            "de": "Galerija Marije Ujević Galetović",
+            "hu": "Galerija Marije Ujević Galetović",
+            "ro": "Galerija Marije Ujević Galetović",
+            "en": "Galerija Marije Ujević Galetović"
+          },
+          "coords": [
+            14.697626,
+            44.374057
+          ],
+          "category": "museum",
+          "arrive_at": "12:49",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese atemberaubende Freiluftgalerie mit bemerkenswerten zeitgenössischen Skulpturen und nutzen Sie das weiche Morgenlicht für perfekte Fotos.",
+            "hu": "Fedezze fel ezt a lenyűgöző szabadtéri galériát a kortárs szobrokkal, és mindenképpen látogasson el ide a reggeli fényben a legjobb fotók készítéséhez.",
+            "ro": "Explorați această galerie impresionantă în aer liber cu sculpturi contemporane și asigurați-vă că o vizitați în lumina dimineții pentru fotografii perfecte.",
+            "en": "Explore this stunning outdoor gallery showcasing remarkable contemporary sculptures, and remember to visit during morning light for the best photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Überreste eines Docks mit steinernen Sarkophagen",
+            "hu": "Egy dokk romjai kőszarkofágokkal",
+            "ro": "Rămășițele unui doc cu sarcofage de piatră",
+            "en": "Remains of a dock with stone sarcophagi"
+          },
+          "coords": [
+            14.693414,
+            44.368504
+          ],
+          "category": "historical",
+          "arrive_at": "14:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.69,
+          "tip_5lang": {
+            "de": "Reisen Sie in die Vergangenheit bei diesen antiken Sarkophagen und bringen Sie Schnorchelausrüstung mit, um historische Spuren unter der Wasseroberfläche zu sehen.",
+            "hu": "Lépjen vissza az időben a régi dokkoknál szétszórt ókori szarkofágok között, és hozzon búvárszemüveget a víz alatti történelmi nyomok közelebbi felfedezéséhez.",
+            "ro": "Pășiți în trecut printre aceste sarcofage antice misterioase și aduceți echipament de snorkeling pentru a descoperi urmele istorice ascunse sub apă limpede.",
+            "en": "Step back in time among these mysterious ancient sarcophagi scattered by the old docks, and bring a snorkel to catch glimpses of underwater historical traces."
+          }
+        },
+        {
+          "name": {
+            "de": "Mahove",
+            "hu": "Mahove",
+            "ro": "Mahove",
+            "en": "Mahove"
+          },
+          "coords": [
+            14.713686,
+            44.360456
+          ],
+          "category": "natural",
+          "arrive_at": "16:03",
+          "stay_min": 55,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.83,
+          "tip_5lang": {
+            "de": "Wandern Sie durch diese ruhige Naturlandschaft am Inselrand und planen Sie Ihren Besuch für den späten Nachmittag, um einen goldenen Sonnenuntergang zu sehen.",
+            "hu": "Barangoljon ebben a csendes és nyers természeti tájban a sziget szélén, és időzítse a látogatását a késő délutánra, hogy egy igazán arany naplementét láthasson.",
+            "ro": "Plimbați-vă prin acest peisaj natural sălbatic și liniștit de la marginea insulei, și planificați vizita spre seară pentru a asista la un apus de soare de aur.",
+            "en": "Wander through this tranquil and raw natural landscape at the island edge, and time your visit perfectly for late afternoon to witness a truly golden sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer mit einer Fahrt zur unberührten nördlichen Bucht Luka Papranica.\n\nRadeln Sie zurück ins Zentrum für ein Bad in Tratica und einen Aufstieg auf die berühmte Toreta.\n\nZu den Highlights am Nachmittag zählen das Kaštel und die faszinierende Skulpturengalerie im Freien.\n\nBeenden Sie den Tag im Süden, um Sarkophage zu sehen, bevor Sie die wilde Schönheit von Mahove genießen.",
+        "hu": "Kezdje kerékpáros kalandját egy utazással az érintetlen északi Luka Papranica öbölbe egy csendes kezdésért.\n\nTekerjen vissza a központba egy frissítő fürdőzésre a Tratica strandon és egy gyors mászásra a Toretához.\n\nA délutáni fénypontok közé tartoznak olyan történelmi nevezetességek, mint a Kaštel és a lenyűgöző szoborgaléria.\n\nZárja a napot délre haladva a titokzatos szarkofágokhoz, mielőtt élvezné Mahove vad tengerparti szépségét.",
+        "ro": "Începeți aventura pe bicicletă explorând golful nordic imaculat Luka Papranica pentru un start liniștit.\n\nPedalați înapoi spre centru pentru o baie revigorantă la Tratica și o scurtă urcare pe faimosul turn Toreta.\n\nPunctele de atracție ale după-amiezii includ repere istorice precum Kaštel și fascinanta galerie de sculpturi.\n\nÎncheiați ziua mergând spre sud pentru a examina sarcofagele misterioase înainte de frumusețea din Mahove.",
+        "en": "Kick off your cycling adventure by venturing to the pristine northern cove of Luka Papranica for a quiet start.\n\nPedal back towards the center for a refreshing swim at Tratica and a quick climb up the iconic Toreta.\n\nAfternoon highlights include historical landmarks like the Kaštel and the fascinating open-air sculpture gallery.\n\nEnd the day riding south to examine mysterious sarcophagi before enjoying the wild coastal beauty of Mahove."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:22",
+      "total_km": 4.85,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Luka Papranica",
+            "hu": "Luka Papranica",
+            "ro": "Luka Papranica",
+            "en": "Luka Papranica"
+          },
+          "coords": [
+            14.680181,
+            44.38962
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese unberührte Bucht inmitten von Kiefern und packen Sie ausreichend Wasser und Snacks ein, da es in der Nähe keinerlei Einrichtungen gibt.",
+            "hu": "Fedezze fel ezt az érintetlen kis öblöt, amely sűrű mediterrán fenyők között bújik meg, és hozzon magával elegendő vizet, mivel nincsenek közeli létesítmények.",
+            "ro": "Descoperiți acest golf izolat, ascuns printre pini mediteraneeni, și luați cu voi apă și gustări suficiente, deoarece nu există facilități comerciale în apropiere.",
+            "en": "Discover this secluded, unspoiled cove nestled among dense Mediterranean pine trees, and pack sufficient water and snacks since there are no facilities nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Žalić",
+            "hu": "Žalić",
+            "ro": "Žalić",
+            "en": "Žalić"
+          },
+          "coords": [
+            14.691869,
+            44.374226
+          ],
+          "category": "recreational",
+          "arrive_at": "09:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.93,
+          "tip_5lang": {
+            "de": "Genießen Sie ein erfrischendes Bad in dieser lebhaften Bucht und kommen Sie frühzeitig, um sich einen guten Platz nahe der charmanten Bootsstege zu sichern.",
+            "hu": "Élvezze a frissítő fürdőzést ezen a nyüzsgő helyi öbölben, és érkezzen korán, hogy jó helyet biztosítson magának a hangulatos csónakkikötők közelében.",
+            "ro": "Bucurați-vă de o baie revigorantă în acest golf plin de viață și ajungeți mai devreme pentru a vă asigura un loc excelent lângă docurile fermecătoare.",
+            "en": "Enjoy a refreshing dip at this vibrant local bay that hums with coastal life, and consider arriving early to secure a prime spot near the charming boat docks."
+          }
+        },
+        {
+          "name": {
+            "de": "Toreta",
+            "hu": "Toreta",
+            "ro": "Toreta",
+            "en": "Toreta"
+          },
+          "coords": [
+            14.695102,
+            44.375121
+          ],
+          "category": "natural",
+          "arrive_at": "10:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Besteigen Sie diesen ikonischen Aussichtsturm für ein spektakuläres Panorama der umliegenden Inseln, aber halten Sie Ihren Hut fest, da es oben windig ist.",
+            "hu": "Mássza meg ezt az ikonikus kilátótornyot, hogy élvezze a környező szigetek csodálatos panorámáját, de tartsa a kalapját, mert a tetején meglepően szeles lehet.",
+            "ro": "Urcați pe acest turn de observație iconic pentru o panoramă spectaculoasă a insulelor, dar aveți grijă la pălărie deoarece vântul poate fi destul de puternic.",
+            "en": "Climb this iconic viewing tower to enjoy a spectacular panoramic vista of the surrounding islands, but hold onto your hat as the top can be surprisingly windy."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaštel",
+            "hu": "Kaštel",
+            "ro": "Kaštel",
+            "en": "Kaštel"
+          },
+          "coords": [
+            14.696318,
+            44.374531
+          ],
+          "category": "historical",
+          "arrive_at": "11:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche historische Schicht dieser Küstenfestungsruine und tragen Sie unbedingt festes Schuhwerk, da die unebenen Steine oft rutschig sind.",
+            "hu": "Fedezze fel ennek a parti erődromnak a gazdag történelmi rétegeit, de mindenképpen viseljen masszív cipőt, mivel az egyenetlen kövek eléggé csúszósak lehetnek.",
+            "ro": "Descoperiți istoria bogată a acestei cetăți de coastă aflate în ruine și purtați încălțăminte robustă, deoarece pietrele denivelate pot fi destul de alunecoase.",
+            "en": "Uncover the rich historical layers of this coastal fortress ruin, and make sure to wear sturdy shoes as the uneven stones can be quite slippery when exploring."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Mühle",
+            "hu": "Régi malom",
+            "ro": "Vechea moară",
+            "en": "Old mill"
+          },
+          "coords": [
+            14.695545,
+            44.372489
+          ],
+          "category": "historical",
+          "arrive_at": "12:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Bewundern Sie die rustikale Architektur dieser erhaltenen Inselmühle und berühren Sie die verwitterten Steine, um Jahrhunderte lokaler Handwerkskunst zu spüren.",
+            "hu": "Csodálja meg ennek a megőrzött hagyományos szigeti malomnak a rusztikus építészetét, és érintse meg az ősi köveket, hogy érezze a helyi mesterségek múltját.",
+            "ro": "Admirați arhitectura rustică a acestei mori tradiționale conservate și atingeți zidăria veche pentru a simți secole de măiestrie și istorie locală autentică.",
+            "en": "Marvel at the rustic architecture of this preserved traditional island mill, and gently touch the weathered stonework to feel centuries of local craftsmanship."
+          }
+        },
+        {
+          "name": {
+            "de": "Überreste eines Docks mit steinernen Sarkophagen",
+            "hu": "Egy dokk romjai kőszarkofágokkal",
+            "ro": "Rămășițele unui doc cu sarcofage de piatră",
+            "en": "Remains of a dock with stone sarcophagi"
+          },
+          "coords": [
+            14.693414,
+            44.368504
+          ],
+          "category": "historical",
+          "arrive_at": "14:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Reisen Sie in die Vergangenheit bei diesen antiken Sarkophagen und bringen Sie Schnorchelausrüstung mit, um historische Spuren unter der Wasseroberfläche zu sehen.",
+            "hu": "Lépjen vissza az időben a régi dokkoknál szétszórt ókori szarkofágok között, és hozzon búvárszemüveget a víz alatti történelmi nyomok közelebbi felfedezéséhez.",
+            "ro": "Pășiți în trecut printre aceste sarcofage antice misterioase și aduceți echipament de snorkeling pentru a descoperi urmele istorice ascunse sub apă limpede.",
+            "en": "Step back in time among these mysterious ancient sarcophagi scattered by the old docks, and bring a snorkel to catch glimpses of underwater historical traces."
+          }
+        },
+        {
+          "name": {
+            "de": "Mahove",
+            "hu": "Mahove",
+            "ro": "Mahove",
+            "en": "Mahove"
+          },
+          "coords": [
+            14.713686,
+            44.360456
+          ],
+          "category": "natural",
+          "arrive_at": "15:27",
+          "stay_min": 55,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.83,
+          "tip_5lang": {
+            "de": "Wandern Sie durch diese ruhige Naturlandschaft am Inselrand und planen Sie Ihren Besuch für den späten Nachmittag, um einen goldenen Sonnenuntergang zu sehen.",
+            "hu": "Barangoljon ebben a csendes és nyers természeti tájban a sziget szélén, és időzítse a látogatását a késő délutánra, hogy egy igazán arany naplementét láthasson.",
+            "ro": "Plimbați-vă prin acest peisaj natural sălbatic și liniștit de la marginea insulei, și planificați vizita spre seară pentru a asista la un apus de soare de aur.",
+            "en": "Wander through this tranquil and raw natural landscape at the island edge, and time your visit perfectly for late afternoon to witness a truly golden sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre malerische Fahrt mit einem Besuch der abgelegenen Schönheit von Luka Papranica.\n\nParken Sie mittags in der Nähe des Zentrums, um den Strand Žalić zu genießen und die Toreta zu besteigen.\n\nGehen Sie in den Nachmittag über, indem Sie die Kaštel-Festungsruine und die charmante alte Mühle erkunden.\n\nBeenden Sie den Tag an der Südküste, bewundern Sie Sarkophage und die natürliche Ruhe von Mahove.",
+        "hu": "Kezdje festői utazását a Luka Papranica eldugott természeti szépségének felfedezésével a csendes reggeli levegőn.\n\nParkoljon le a faluközpont közelében délben, hogy élvezze a Žalić strandot, és mássza meg a Történelmi Toretát.\n\nTérjen át a délutánra a Kaštel erődromok és a megőrzött régi malom varázsának felfedezésével.\n\nFejezze be a napi utazást a déli parton, csodálja meg a kőszarkofágokat és a Mahove természetes békéjét.",
+        "ro": "Începeți plimbarea scenică vizitând frumusețea naturală izolată a golfului Luka Papranica în dimineața liniștită.\n\nParcați lângă centrul satului la prânz pentru a vă bucura de plaja Žalić și pentru a urca pe istorica Toreta.\n\nContinuați după-amiaza explorând ruinele cetății Kaštel și farmecul vechii mori excelent conservate.\n\nÎncheiați călătoria zilei pe coasta de sud, admirând sarcofagele din piatră și pacea naturală din Mahove.",
+        "en": "Begin your scenic drive by visiting the secluded natural beauty of Luka Papranica in the tranquil morning air.\n\nPark near the village center midday to enjoy the lively beach of Žalić and climb the historic Toreta.\n\nTransition into the afternoon exploring the Kaštel fortress ruins and the charm of the preserved old mill.\n\nFinish your day's journey at the southern coast, marveling at stone sarcophagi and the natural peace of Mahove."
+      }
+    }
+  }
+}

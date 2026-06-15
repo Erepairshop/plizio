@@ -1,0 +1,566 @@
+{
+  "city_id": "italy-marina-di-san-nicola-cities-v2",
+  "anchor": {
+    "name": "Marina di San Nicola",
+    "coords": [
+      12.12042,
+      41.932
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:12",
+      "total_km": 2.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Alsium",
+            "hu": "Alsium",
+            "ro": "Alsium",
+            "en": "Alsium"
+          },
+          "coords": [
+            12.125231,
+            41.927692
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die antiken römischen Hafenruinen von Alsium, ein faszinierender Blick in die Geschichte, aber tragen Sie festes Schuhwerk für die unebenen Küstenwege.",
+            "hu": "Fedezze fel Alsium ősi római kikötőjének romjait, de viseljen masszív cipőt, mivel a tengerparti ösvények meglehetősen egyenetlenek lehetnek errefelé.",
+            "ro": "Explorați ruinele vechiului port roman Alsium, o incursiune fascinantă în istorie, dar purtați încălțăminte solidă deoarece potecile de coastă pot fi denivelate.",
+            "en": "Explore the ancient Roman port ruins of Alsium, a fascinating glimpse into history, but wear sturdy shoes as the coastal paths can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Stella Marina",
+            "hu": "Stella Marina",
+            "ro": "Stella Marina",
+            "en": "Stella Marina"
+          },
+          "coords": [
+            12.122559,
+            41.927822
+          ],
+          "category": "recreational",
+          "arrive_at": "10:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem schönen Strandclub, ideal zum Schwimmen, und mieten Sie Ihre Sonnenliege an den gut besuchten Sommerwochenenden frühzeitig.",
+            "hu": "Pihenjen ezen a gyönyörű strandon, amely tökéletes úszáshoz és napozáshoz, de a forgalmas nyári hétvégéken mindenképpen béreljen időben napágyat.",
+            "ro": "Relaxați-vă la acest club de plajă frumos, perfect pentru înot, și asigurați-vă că închiriați șezlongul devreme în timpul weekendurilor aglomerate de vară.",
+            "en": "Relax at this beautiful beach club, perfect for swimming and sunbathing, and be sure to rent your sunbed early during the busy summer weekends."
+          }
+        },
+        {
+          "name": {
+            "de": "Luciano",
+            "hu": "Luciano",
+            "ro": "Luciano",
+            "en": "Luciano"
+          },
+          "coords": [
+            12.120453,
+            41.928853
+          ],
+          "category": "recreational",
+          "arrive_at": "11:36",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie eine traditionelle Pause am Meer an diesem lebhaften Ort mit toller Aussicht, und fragen Sie das Personal nach den täglichen Meeresfrüchte-Spezialitäten.",
+            "hu": "Élvezze a hagyományos tengerparti pihenést ezen a nyüzsgő helyen, és rendelés előtt feltétlenül kérdezze meg a személyzetet a napi tengeri különlegességekről.",
+            "ro": "Bucurați-vă de o pauză tradițională la malul mării în acest loc plin de viață, și întrebați personalul despre specialitățile zilnice din fructe de mare.",
+            "en": "Enjoy a traditional seaside break at this lively spot, offering great sea views, and ask the staff about their daily seafood specials before ordering."
+          }
+        },
+        {
+          "name": {
+            "de": "Circolo Velico",
+            "hu": "Circolo Velico",
+            "ro": "Circolo Velico",
+            "en": "Circolo Velico"
+          },
+          "coords": [
+            12.116292,
+            41.930513
+          ],
+          "category": "recreational",
+          "arrive_at": "12:42",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beobachten Sie die bunten Segelboote am Horizont dieses aktiven Segelclubs, und prüfen Sie das schwarze Brett auf Anfängerkurse, falls Sie es ausprobieren möchten.",
+            "hu": "Nézze a horizontot tarkító színes vitorlásokat ennél az aktív klubnál, és ha ki szeretné próbálni, keresse a kezdő órákat a faliújságon.",
+            "ro": "Priviți bărcile cu pânze colorate la acest club de navigație activ, și verificați avizierul pentru lecții de începători dacă doriți să încercați.",
+            "en": "Watch the colorful sailboats dot the horizon at this active sailing club, and check the notice board for beginner lessons if you want to try it out."
+          }
+        },
+        {
+          "name": {
+            "de": "Il Castello",
+            "hu": "Il Castello",
+            "ro": "Il Castello",
+            "en": "Il Castello"
+          },
+          "coords": [
+            12.110618,
+            41.932219
+          ],
+          "category": "recreational",
+          "arrive_at": "13:51",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Machen Sie einen ruhigen Spaziergang in diesem malerischen Erholungsgebiet, und bringen Sie ein kleines Picknick mit, um es unter den erfrischenden Kiefern zu genießen.",
+            "hu": "Tegyen egy nyugodt sétát ezen a festői pihenőhelyen, amely tökéletes a déli pihenéshez, és hozzon magával egy kis pikniket a parti fenyők árnyékába.",
+            "ro": "Faceți o plimbare liniștită prin această zonă pitorească de agrement, și aduceți un mic picnic pentru a-l savura sub pinii răcoroși de pe coastă.",
+            "en": "Take a tranquil stroll around this scenic recreational area, perfect for a midday rest, and bring a small picnic to enjoy under the refreshing coastal pine trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa romana della Posta Vecchia",
+            "hu": "Villa romana della Posta Vecchia",
+            "ro": "Villa romana della Posta Vecchia",
+            "en": "Villa romana della Posta Vecchia"
+          },
+          "coords": [
+            12.104291,
+            41.933174
+          ],
+          "category": "historical",
+          "arrive_at": "14:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die atemberaubenden Mosaike dieser römischen Küstenvilla, aber buchen Sie Ihre Führung im Voraus, da die täglichen Besucherzahlen streng begrenzt sind.",
+            "hu": "Csodálja meg a tengerparti római villa lenyűgöző mozaikjait és ősi alapjait, de előre foglalja le a vezetett túrát, mivel a napi látogatók száma szigorúan korlátozott.",
+            "ro": "Minunați-vă de mozaicurile uimitoare ale acestei vile romane de coastă, dar rezervați-vă turul ghidat în avans, deoarece numărul zilnic de vizitatori este strict limitat.",
+            "en": "Marvel at the stunning mosaics and ancient foundations of this coastal Roman villa, but book your guided tour in advance as daily visitor numbers are strictly limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Odescalchi",
+            "hu": "Castello Odescalchi",
+            "ro": "Castello Odescalchi",
+            "en": "Castello Odescalchi"
+          },
+          "coords": [
+            12.102423,
+            41.932915
+          ],
+          "category": "castle",
+          "arrive_at": "16:22",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposante Architektur dieser historischen Festung, und versuchen Sie, am späten Nachmittag für das beste Fotolicht zu besuchen.",
+            "hu": "Csodálja meg a partvonalat uraló történelmi erődítmény impozáns építészetét, és próbáljon a késő délutáni órákban idelátogatni a legjobb fotós fényekért.",
+            "ro": "Admirați arhitectura impunătoare a acestei fortărețe istorice care domină țărmul, și încercați să vizitați după-amiaza târziu pentru cea mai bună lumină de fotografiat.",
+            "en": "Admire the imposing architecture of this historical fortress that dominates the shoreline, and try to visit during the late afternoon for the best photography lighting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung der antiken Ruinen von Alsium und spüren Sie die Meeresbrise. Der Mittag bringt Entspannung in zentralen Strandclubs wie Stella Marina. Wandern Sie nachmittags nach Westen, um historische Villen und friedliche Erholungsgebiete zu entdecken. Der Abend endet dramatisch am beeindruckenden Castello Odescalchi im goldenen Licht des Sonnenuntergangs.",
+        "hu": "Kezdje a reggelt Alsium ősi romjainak felfedezésével, érezve a tengeri szellőt a történelem nyomai között. A délidő a központi strandokon hoz felüdülést. Délután sétáljon nyugat felé, hogy történelmi villákat és békés pihenőhelyeket fedezzen fel. Az este drámai módon a lenyűgöző Castello Odescalchi kastélynál ér véget, amelyet a lemenő nap aranyfénye fürdet.",
+        "ro": "Începeți dimineața explorând ruinele antice din Alsium, simțind briza mării printre pagini de istorie. Amiaza aduce relaxare la cluburile de plajă centrale precum Stella Marina. După-amiaza, plimbați-vă spre vest pentru a descoperi vile istorice și zone de agrement liniștite. Seara se încheie dramatic la impresionantul Castello Odescalchi, scăldat în lumina aurie a apusului.",
+        "en": "Start your morning exploring the ancient ruins of Alsium, feeling the sea breeze among history. Midday brings relaxation at the central beach clubs like Stella Marina and Luciano. In the afternoon, wander westward to discover historic villas and peaceful recreational areas. The evening concludes dramatically at the impressive Castello Odescalchi, bathed in the golden light of the sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 5.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Castellaccio dei Monteroni",
+            "hu": "Castellaccio dei Monteroni",
+            "ro": "Castellaccio dei Monteroni",
+            "en": "Castellaccio dei Monteroni"
+          },
+          "coords": [
+            12.126156,
+            41.940096
+          ],
+          "category": "castle",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen mittelalterlichen befestigten Bauernhof in der hügeligen Landschaft, und achten Sie auf die Informationstafeln zu seiner landwirtschaftlichen Geschichte.",
+            "hu": "Fedezze fel ezt a dombvidéken fekvő középkori erődített farmot, és figyelje a mezőgazdasági történelmét bemutató informatív táblákat.",
+            "ro": "Descoperiți această fermă fortificată medievală situată în peisajul rural, și fiți atenți la plăcile informative care detaliază istoria sa agricolă.",
+            "en": "Discover this medieval fortified farm set amidst the rolling countryside, and keep an eye out for the informative plaques detailing its agricultural history."
+          }
+        },
+        {
+          "name": {
+            "de": "Tumulo dei Monteroni I",
+            "hu": "Tumulo dei Monteroni I",
+            "ro": "Tumulo dei Monteroni I",
+            "en": "Tumulo dei Monteroni I"
+          },
+          "coords": [
+            12.12502,
+            41.946632
+          ],
+          "category": "historical",
+          "arrive_at": "10:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise zu diesen monumentalen etruskischen Grabhügeln, und bleiben Sie auf den markierten Wegen, um diese empfindlichen archäologischen Stätten zu schützen.",
+            "hu": "Lépjen vissza az időben a tájba simuló monumentális etruszk sírhalmoknál, de maradjon a kijelölt ösvényeken e törékeny régészeti lelőhelyek megóvása érdekében.",
+            "ro": "Întoarceți-vă în timp la aceste movile funerare etrusce ascunse în peisaj, și rămâneți pe potecile marcate pentru a ajuta la conservarea acestor situri arheologice fragile.",
+            "en": "Step back in time at these monumental Etruscan burial mounds hidden in the landscape, and stick to the marked paths to help preserve these fragile archaeological sites."
+          }
+        },
+        {
+          "name": {
+            "de": "Alsium",
+            "hu": "Alsium",
+            "ro": "Alsium",
+            "en": "Alsium"
+          },
+          "coords": [
+            12.125231,
+            41.927692
+          ],
+          "category": "historical",
+          "arrive_at": "12:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die antiken römischen Hafenruinen von Alsium, ein faszinierender Blick in die Geschichte, aber tragen Sie festes Schuhwerk für die unebenen Küstenwege.",
+            "hu": "Fedezze fel Alsium ősi római kikötőjének romjait, de viseljen masszív cipőt, mivel a tengerparti ösvények meglehetősen egyenetlenek lehetnek errefelé.",
+            "ro": "Explorați ruinele vechiului port roman Alsium, o incursiune fascinantă în istorie, dar purtați încălțăminte solidă deoarece potecile de coastă pot fi denivelate.",
+            "en": "Explore the ancient Roman port ruins of Alsium, a fascinating glimpse into history, but wear sturdy shoes as the coastal paths can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Mini Beach",
+            "hu": "Mini Beach",
+            "ro": "Mini Beach",
+            "en": "Mini Beach"
+          },
+          "coords": [
+            12.125222,
+            41.926328
+          ],
+          "category": "recreational",
+          "arrive_at": "13:26",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie ein ruhigeres Meereserlebnis an diesem kleinen Sandstrand, und denken Sie daran, eigenes Wasser und Snacks einzupacken, da die Einrichtungen begrenzt sind.",
+            "hu": "Élvezze a csendesebb tengerparti élményt ezen a kis homokos szakaszon, és ne felejtsen el saját vizet és nassolnivalót hozni, mivel a közelben kevés a létesítmény.",
+            "ro": "Bucurați-vă de o experiență mai liniștită la malul mării pe această mică porțiune de nisip, și amintiți-vă să împachetați apă și gustări, deoarece facilitățile sunt limitate.",
+            "en": "Enjoy a quieter, more intimate seaside experience at this small stretch of sand, and remember to pack your own water and snacks as nearby facilities are quite limited."
+          }
+        },
+        {
+          "name": {
+            "de": "El Pareo Area Relax",
+            "hu": "El Pareo Area Relax",
+            "ro": "El Pareo Area Relax",
+            "en": "El Pareo Area Relax"
+          },
+          "coords": [
+            12.11838,
+            41.92991
+          ],
+          "category": "recreational",
+          "arrive_at": "14:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem hoch bewerteten Ort mit erstklassigen Stranddiensten, und buchen Sie die exklusiven schattigen Cabanas für einen luxuriösen Nachmittag.",
+            "hu": "Kapcsolódjon ki ezen a prémium strandszolgáltatásokat kínáló pihenőhelyen, és fontolja meg exkluzív, árnyékos kabinjaik bérlését egy igazán fényűző délutánhoz.",
+            "ro": "Relaxați-vă în acest loc apreciat ce oferă servicii de plajă premium, și luați în considerare rezervarea cabinelor lor exclusiviste umbrite pentru o după-amiază de lux.",
+            "en": "Unwind at this highly rated relaxation spot offering premium beach services, and consider booking their exclusive shaded cabanas for a truly luxurious afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Da Omar",
+            "hu": "Da Omar",
+            "ro": "Da Omar",
+            "en": "Da Omar"
+          },
+          "coords": [
+            12.109125,
+            41.932703
+          ],
+          "category": "recreational",
+          "arrive_at": "15:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Machen Sie eine angenehme Pause in diesem freundlichen Küstenlokal, und bitten Sie um einen Tisch am Rand, um die ungestörte Meeresbrise zu genießen.",
+            "hu": "Tartson egy kellemes pihenőt ezen a barátságos, vendégszerető légköréről ismert tengerparti helyen, és kérjen egy szélső asztalt a zavartalan tengeri szellőért.",
+            "ro": "Faceți o pauză plăcută la acest local prietenos de pe coastă, și cereți o masă aproape de margine pentru a vă bucura de briza netulburată a mării.",
+            "en": "Take a pleasant break at this friendly coastal establishment known for its welcoming vibe, and ask for a table near the edge to enjoy the unobstructed sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Oasi Bosco di Palo Laziale",
+            "hu": "Oasi Bosco di Palo Laziale",
+            "ro": "Oasi Bosco di Palo Laziale",
+            "en": "Oasi Bosco di Palo Laziale"
+          },
+          "coords": [
+            12.099056,
+            41.937402
+          ],
+          "category": "natural",
+          "arrive_at": "16:40",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses unberührte WWF-Naturschutzgebiet mit alten Bäumen, aber denken Sie besonders in den feuchten Sommermonaten an Mückenschutzmittel.",
+            "hu": "Barangoljon ebben az ősi fákkal teli, érintetlen WWF természetvédelmi területen, de ne felejtsen el szúnyogriasztót hozni, különösen a párás nyári hónapokban.",
+            "ro": "Plimbați-vă prin această rezervație naturală WWF plină de copaci antici, dar amintiți-vă să aduceți repelent împotriva țânțarilor în lunile umede de vară.",
+            "en": "Wander through this pristine WWF nature reserve filled with ancient trees and wildlife, but remember to bring mosquito repellent especially during the humid summer months."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre morgendliche Radtour beginnt im Landesinneren beim mittelalterlichen Castellaccio und den etruskischen Grabhügeln. Radeln Sie mittags zur Küste, um das antike Alsium und die Strände zu genießen. Der Nachmittag wird genutzt, um an der Uferpromenade entlang zu fahren. Suchen Sie abends nach Ruhe auf den üppigen, schattigen Wegen des Naturschutzgebiets Palo Laziale.",
+        "hu": "A reggeli kerékpározás a szárazföld belsejében indul, felfedezve a középkori Castellacciót és az etruszk sírhalmokat. Délre tekerjen le a partra Alsium és a strandok élvezetéhez. A délutánt a festői vízparton való cirkálással töltheti el. Ahogy leszáll az este, találjon nyugalmat a Palo Laziale természetvédelmi terület buja, árnyékos ösvényein tekerve.",
+        "ro": "Ciclismul de dimineață începe în interior, explorând Castellaccio medieval și tumulii etrusci. La amiază, pedalați spre coastă pentru a descoperi Alsium și plajele vii. După-amiaza este petrecută croindu-vă drum de-a lungul malului pitoresc. Odată cu lăsarea serii, găsiți liniște plimbându-vă pe cărările umbrite ale rezervației naturale Palo Laziale.",
+        "en": "Your morning cycle kicks off inland, exploring the medieval Castellaccio and the fascinating Etruscan burial mounds. By midday, pedal down to the coast to discover ancient Alsium and enjoy the lively beaches. The afternoon is spent cruising along the picturesque waterfront towards El Pareo. As evening falls, find tranquility riding through the lush, shaded paths of the Palo Laziale nature reserve."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:16",
+      "total_km": 7.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Tumulo dei Monteroni II",
+            "hu": "Tumulo dei Monteroni II",
+            "ro": "Tumulo dei Monteroni II",
+            "en": "Tumulo dei Monteroni II"
+          },
+          "coords": [
+            12.126128,
+            41.944589
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise zu diesen monumentalen etruskischen Grabhügeln, und bleiben Sie auf den markierten Wegen, um diese empfindlichen archäologischen Stätten zu schützen.",
+            "hu": "Lépjen vissza az időben a tájba simuló monumentális etruszk sírhalmoknál, de maradjon a kijelölt ösvényeken e törékeny régészeti lelőhelyek megóvása érdekében.",
+            "ro": "Întoarceți-vă în timp la aceste movile funerare etrusce ascunse în peisaj, și rămâneți pe potecile marcate pentru a ajuta la conservarea acestor situri arheologice fragile.",
+            "en": "Step back in time at these monumental Etruscan burial mounds hidden in the landscape, and stick to the marked paths to help preserve these fragile archaeological sites."
+          }
+        },
+        {
+          "name": {
+            "de": "Tumulo dei Monteroni I",
+            "hu": "Tumulo dei Monteroni I",
+            "ro": "Tumulo dei Monteroni I",
+            "en": "Tumulo dei Monteroni I"
+          },
+          "coords": [
+            12.12502,
+            41.946632
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Setzen Sie Ihre archäologische Reise bei dieser nahegelegenen Stätte fort und bringen Sie ausreichend Wasser mit, da es im Bereich der Grabhügel kaum Schatten gibt.",
+            "hu": "Folytassa régészeti utazását ezen a közeli helyszínen, és hozzon magával elegendő vizet, mivel a sírhalmok területén alig van árnyék.",
+            "ro": "Continuați călătoria arheologică la acest sit din apropiere și aduceți suficientă apă, deoarece există puțină umbră în zona movilelor.",
+            "en": "Continue your archaeological journey at this nearby site, and ensure you bring plenty of water as there is little shade around the mounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Castellaccio dei Monteroni",
+            "hu": "Castellaccio dei Monteroni",
+            "ro": "Castellaccio dei Monteroni",
+            "en": "Castellaccio dei Monteroni"
+          },
+          "coords": [
+            12.126156,
+            41.940096
+          ],
+          "category": "castle",
+          "arrive_at": "11:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen mittelalterlichen befestigten Bauernhof in der hügeligen Landschaft, und achten Sie auf die Informationstafeln zu seiner landwirtschaftlichen Geschichte.",
+            "hu": "Fedezze fel ezt a dombvidéken fekvő középkori erődített farmot, és figyelje a mezőgazdasági történelmét bemutató informatív táblákat.",
+            "ro": "Descoperiți această fermă fortificată medievală situată în peisajul rural, și fiți atenți la plăcile informative care detaliază istoria sa agricolă.",
+            "en": "Discover this medieval fortified farm set amidst the rolling countryside, and keep an eye out for the informative plaques detailing its agricultural history."
+          }
+        },
+        {
+          "name": {
+            "de": "Oasi Bosco di Palo Laziale",
+            "hu": "Oasi Bosco di Palo Laziale",
+            "ro": "Oasi Bosco di Palo Laziale",
+            "en": "Oasi Bosco di Palo Laziale"
+          },
+          "coords": [
+            12.099056,
+            41.937402
+          ],
+          "category": "natural",
+          "arrive_at": "13:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses unberührte WWF-Naturschutzgebiet mit alten Bäumen, aber denken Sie besonders in den feuchten Sommermonaten an Mückenschutzmittel.",
+            "hu": "Barangoljon ebben az ősi fákkal teli, érintetlen WWF természetvédelmi területen, de ne felejtsen el szúnyogriasztót hozni, különösen a párás nyári hónapokban.",
+            "ro": "Plimbați-vă prin această rezervație naturală WWF plină de copaci antici, dar amintiți-vă să aduceți repelent împotriva țânțarilor în lunile umede de vară.",
+            "en": "Wander through this pristine WWF nature reserve filled with ancient trees and wildlife, but remember to bring mosquito repellent especially during the humid summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Odescalchi",
+            "hu": "Castello Odescalchi",
+            "ro": "Castello Odescalchi",
+            "en": "Castello Odescalchi"
+          },
+          "coords": [
+            12.102423,
+            41.932915
+          ],
+          "category": "castle",
+          "arrive_at": "14:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposante Architektur dieser historischen Festung, und versuchen Sie, am späten Nachmittag für das beste Fotolicht zu besuchen.",
+            "hu": "Csodálja meg a partvonalat uraló történelmi erődítmény impozáns építészetét, és próbáljon a késő délutáni órákban idelátogatni a legjobb fotós fényekért.",
+            "ro": "Admirați arhitectura impunătoare a acestei fortărețe istorice care domină țărmul, și încercați să vizitați după-amiaza târziu pentru cea mai bună lumină de fotografiat.",
+            "en": "Admire the imposing architecture of this historical fortress that dominates the shoreline, and try to visit during the late afternoon for the best photography lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa romana della Posta Vecchia",
+            "hu": "Villa romana della Posta Vecchia",
+            "ro": "Villa romana della Posta Vecchia",
+            "en": "Villa romana della Posta Vecchia"
+          },
+          "coords": [
+            12.104291,
+            41.933174
+          ],
+          "category": "historical",
+          "arrive_at": "16:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die atemberaubenden Mosaike dieser römischen Küstenvilla, aber buchen Sie Ihre Führung im Voraus, da die täglichen Besucherzahlen streng begrenzt sind.",
+            "hu": "Csodálja meg a tengerparti római villa lenyűgöző mozaikjait és ősi alapjait, de előre foglalja le a vezetett túrát, mivel a napi látogatók száma szigorúan korlátozott.",
+            "ro": "Minunați-vă de mozaicurile uimitoare ale acestei vile romane de coastă, dar rezervați-vă turul ghidat în avans, deoarece numărul zilnic de vizitatori este strict limitat.",
+            "en": "Marvel at the stunning mosaics and ancient foundations of this coastal Roman villa, but book your guided tour in advance as daily visitor numbers are strictly limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Alsium",
+            "hu": "Alsium",
+            "ro": "Alsium",
+            "en": "Alsium"
+          },
+          "coords": [
+            12.125231,
+            41.927692
+          ],
+          "category": "historical",
+          "arrive_at": "17:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die antiken römischen Hafenruinen von Alsium, ein faszinierender Blick in die Geschichte, aber tragen Sie festes Schuhwerk für die unebenen Küstenwege.",
+            "hu": "Fedezze fel Alsium ősi római kikötőjének romjait, de viseljen masszív cipőt, mivel a tengerparti ösvények meglehetősen egyenetlenek lehetnek errefelé.",
+            "ro": "Explorați ruinele vechiului port roman Alsium, o incursiune fascinantă în istorie, dar purtați încălțăminte solidă deoarece potecile de coastă pot fi denivelate.",
+            "en": "Explore the ancient Roman port ruins of Alsium, a fascinating glimpse into history, but wear sturdy shoes as the coastal paths can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Stella Marina",
+            "hu": "Stella Marina",
+            "ro": "Stella Marina",
+            "en": "Stella Marina"
+          },
+          "coords": [
+            12.122559,
+            41.927822
+          ],
+          "category": "recreational",
+          "arrive_at": "18:46",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem schönen Strandclub, ideal zum Schwimmen, und mieten Sie Ihre Sonnenliege an den gut besuchten Sommerwochenenden frühzeitig.",
+            "hu": "Pihenjen ezen a gyönyörű strandon, amely tökéletes úszáshoz és napozáshoz, de a forgalmas nyári hétvégéken mindenképpen béreljen időben napágyat.",
+            "ro": "Relaxați-vă la acest club de plajă frumos, perfect pentru înot, și asigurați-vă că închiriați șezlongul devreme în timpul weekendurilor aglomerate de vară.",
+            "en": "Relax at this beautiful beach club, perfect for swimming and sunbathing, and be sure to rent your sunbed early during the busy summer weekends."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie heute Morgen ins Landesinnere, um die Geschichte der Tumulo dei Monteroni Gräber und des mittelalterlichen Castellaccio zu entdecken. Mittags fahren Sie zur Küste, um das Naturschutzgebiet Palo Laziale zu erkunden. Verbringen Sie den Nachmittag damit, die Architektur des Castello Odescalchi zu bewundern. Beenden Sie den Abend an den Stränden nahe den Ruinen von Alsium.",
+        "hu": "Vezessen reggel a szárazföld belsejébe, hogy feltárja a Tumulo dei Monteroni sírok és a középkori Castellaccio történetét. Délben a part felé veszi az irányt a Palo Laziale természetvédelmi területhez. Töltse a délutánt a Castello Odescalchi és a közeli római villa építészetének megcsodálásával. Zárja az estét a strandokon pihenve, az ősi Alsium romjainak közelében.",
+        "ro": "Conduceți spre interior în această dimineață pentru a descoperi istoria mormintelor Tumulo dei Monteroni și a Castellaccio. Amiaza vă duce spre coastă pentru a explora rezervația naturală Palo Laziale. Petreceți-vă după-amiaza minunându-vă de arhitectura Castello Odescalchi și a vilei romane. Încheiați seara relaxându-vă pe plajele de lângă ruinele din Alsium.",
+        "en": "Drive inland this morning to uncover the rich history of the Tumulo dei Monteroni tombs and the medieval Castellaccio. Midday takes you towards the coast to explore the verdant beauty of the Palo Laziale nature reserve. Spend your afternoon marveling at the architecture of Castello Odescalchi and the nearby Roman villa. End your evening unwinding at the beautiful beaches near the ruins of Alsium."
+      }
+    }
+  }
+}

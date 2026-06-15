@@ -1,0 +1,543 @@
+{
+  "city_id": "spain-cuevas-del-almanzora-cities-v2",
+  "anchor": {
+    "name": "Cuevas del Almanzora",
+    "coords": [
+      -1.879722,
+      37.296944
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:12",
+      "total_km": 0.64,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Casa-Cueva y Museo Etnográfico",
+            "hu": "Casa-Cueva y Museo Etnográfico",
+            "ro": "Casa-Cueva y Museo Etnográfico",
+            "en": "Casa-Cueva y Museo Etnográfico"
+          },
+          "coords": [
+            -1.884103,
+            37.297307
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das einzigartige Leben in den typischen Höhlenwohnungen der Region und achten Sie besonders auf die antiken Alltagsgegenstände in den Räumen.",
+            "hu": "Fedezze fel a régió egyedülálló barlanglakásainak mindennapi életét, és figyeljen a kiállított autentikus, korabeli mindennapi használati tárgyakra.",
+            "ro": "Explorați viața unică în locuințele tradiționale din peșteri ale regiunii și acordați atenție obiectelor autentice de zi cu zi expuse în încăperi.",
+            "en": "Discover the unique daily life in the region's traditional cave dwellings, and pay special attention to the authentic antique everyday objects on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Arte \"Antonio Manuel Campoy\"",
+            "hu": "Museo de Arte \"Antonio Manuel Campoy\"",
+            "ro": "Museo de Arte \"Antonio Manuel Campoy\"",
+            "en": "Museo de Arte \"Antonio Manuel Campoy\""
+          },
+          "coords": [
+            -1.882915,
+            37.29698
+          ],
+          "category": "museum",
+          "arrive_at": "10:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Bewundern Sie eine der besten zeitgenössischen Kunstsammlungen Andalusiens im Castillo und nehmen Sie sich Zeit für die beeindruckenden Goya-Radierungen.",
+            "hu": "Csodálja meg Andalúzia egyik legjobb kortárs művészeti gyűjteményét a kastélyban, és szánjon időt a lenyűgöző Goya-rézkarcok alapos tanulmányozására.",
+            "ro": "Admirați una dintre cele mai bune colecții de artă contemporană din Andaluzia în interiorul castelului și alocați timp pentru impresionantele gravuri de Goya.",
+            "en": "Admire one of Andalusia's best contemporary art collections inside the castle, and make sure to take your time studying the impressive Goya etchings."
+          }
+        },
+        {
+          "name": {
+            "de": "Ayuntamiento de Cuevas del Almanzora",
+            "hu": "Ayuntamiento de Cuevas del Almanzora",
+            "ro": "Ayuntamiento de Cuevas del Almanzora",
+            "en": "Ayuntamiento de Cuevas del Almanzora"
+          },
+          "coords": [
+            -1.881267,
+            37.29707
+          ],
+          "category": "historical",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Betrachten Sie die elegante neoklassizistische Architektur des Rathauses von außen und machen Sie Fotos in den ruhigeren Vormittagsstunden für bestes Licht.",
+            "hu": "Tekintse meg a városháza elegáns neoklasszicista építészetét, és a legjobb fényviszonyok érdekében próbáljon a csendesebb délelőtti órákban fotózni.",
+            "ro": "Priviți arhitectura neoclasică elegantă a primăriei din exterior și faceți fotografii în orele mai liniștite ale dimineții pentru a prinde cea mai bună lumină.",
+            "en": "Observe the elegant neoclassical architecture of the town hall from the outside, and aim to take your photographs during the quieter morning hours for the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de Nuestra Señora de la Encarnación",
+            "hu": "Iglesia de Nuestra Señora de la Encarnación",
+            "ro": "Iglesia de Nuestra Señora de la Encarnación",
+            "en": "Iglesia de Nuestra Señora de la Encarnación"
+          },
+          "coords": [
+            -1.879931,
+            37.296902
+          ],
+          "category": "religious",
+          "arrive_at": "13:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Die majestätische Barockkirche beeindruckt mit ihrem prächtigen Altarbild; kleiden Sie sich respektvoll und besuchen Sie sie außerhalb der Gottesdienstzeiten.",
+            "hu": "A fenséges barokk templom lenyűgöző oltárképpel büszkélkedhet; öltözzön tiszteletteljesen, és a misék idején kívül látogasson el ide a nyugodt szemlélődésért.",
+            "ro": "Biserica barocă maiestuoasă impresionează prin altarul său magnific; îmbrăcați-vă decent și vizitați-o în afara orelor de slujbă pentru a vă bucura de liniște.",
+            "en": "The majestic Baroque church impresses with its magnificent altarpiece; dress respectfully and plan your visit outside of mass times for a peaceful experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Taller Emilio Sdun",
+            "hu": "Museo Taller Emilio Sdun",
+            "ro": "Museo Taller Emilio Sdun",
+            "en": "Museo Taller Emilio Sdun"
+          },
+          "coords": [
+            -1.878993,
+            37.296697
+          ],
+          "category": "museum",
+          "arrive_at": "14:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Welt des Buchdrucks und der Typografie ein, aber buchen Sie unbedingt im Voraus, da die Öffnungszeiten oft flexibel gehandhabt werden.",
+            "hu": "Merüljön el a könyvnyomtatás és a tipográfia lenyűgöző világában, de feltétlenül foglaljon előre, mivel a nyitvatartási idő gyakran rugalmasan változhat.",
+            "ro": "Pătrundeți în lumea fascinantă a tipăririi cărților și a tipografiei, dar asigurați-vă că rezervați din timp, deoarece orele de deschidere sunt deseori flexibile.",
+            "en": "Immerse yourself in the fascinating world of book printing and typography, but make sure to book in advance as opening hours are often handled quite flexibly."
+          }
+        },
+        {
+          "name": {
+            "de": "Convento de San Francisco",
+            "hu": "Convento de San Francisco",
+            "ro": "Convento de San Francisco",
+            "en": "Convento de San Francisco"
+          },
+          "coords": [
+            -1.877382,
+            37.29644
+          ],
+          "category": "historical",
+          "arrive_at": "16:22",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre der gut erhaltenen historischen Klosteranlage und spazieren Sie durch den ruhigen Kreuzgang, um der Mittagshitze zu entfliehen.",
+            "hu": "Élvezze a jó állapotban fennmaradt történelmi kolostorkomplexum békés hangulatát, és sétáljon végig a csendes kerengőn, hogy elmeneküljön a déli hőség elől.",
+            "ro": "Bucurați-vă de atmosfera pașnică a complexului monahal istoric bine conservat și plimbați-vă prin claustrul liniștit pentru a scăpa de căldura amiezii.",
+            "en": "Enjoy the peaceful atmosphere of the well-preserved historic monastery complex, and take a stroll through the quiet cloister to escape the intense midday heat."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag in den historischen Höhlenwohnungen, bevor Sie die Kunstsammlung im Castillo bewundern.\n\nMittags beeindruckt das Rathaus mit seiner neoklassizistischen Eleganz.\n\nAm Nachmittag entdecken Sie die prächtige barocke Kirche und die Kunst des Buchdrucks.\n\nDer Tag endet friedlich im historischen Kloster San Francisco.",
+        "hu": "Kezdje a napot az egyedi barlanglakásoknál, majd csodálja meg a kastély kiemelkedő kortárs művészeti gyűjteményét.\n\nDélben a városháza neoklasszicista eleganciája nyújt lenyűgöző látványt.\n\nDélután ismerje meg a barokk templomot és a könyvnyomtatás művészetét.\n\nA nap békésen zárul a San Francisco kolostor történelmi és csendes falai között.",
+        "ro": "Începeți ziua explorând locuințele tradiționale din peșteri și colecția de artă contemporană din castel.\n\nLa prânz, eleganța neoclasică a primăriei vă va impresiona cu siguranță.\n\nDupă-amiaza este dedicată superbei biserici baroce și artei tipăririi cărților.\n\nZiua se încheie liniștit între zidurile istorice ale mănăstirii San Francisco.",
+        "en": "Start your day exploring the cave dwellings, then admire the outstanding contemporary art collection within the castle.\n\nAt midday, the town hall's neoclassical elegance offers a striking sight.\n\nThe afternoon invites you to discover the Baroque church and the art of book printing.\n\nYour day ends peacefully in the historic San Francisco convent."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:47",
+      "total_km": 0.89,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Casa-Cueva y Museo Etnográfico",
+            "hu": "Casa-Cueva y Museo Etnográfico",
+            "ro": "Casa-Cueva y Museo Etnográfico",
+            "en": "Casa-Cueva y Museo Etnográfico"
+          },
+          "coords": [
+            -1.884103,
+            37.297307
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das einzigartige Leben in den typischen Höhlenwohnungen der Region und achten Sie besonders auf die antiken Alltagsgegenstände in den Räumen.",
+            "hu": "Fedezze fel a régió egyedülálló barlanglakásainak mindennapi életét, és figyeljen a kiállított autentikus, korabeli mindennapi használati tárgyakra.",
+            "ro": "Explorați viața unică în locuințele tradiționale din peșteri ale regiunii și acordați atenție obiectelor autentice de zi cu zi expuse în încăperi.",
+            "en": "Discover the unique daily life in the region's traditional cave dwellings, and pay special attention to the authentic antique everyday objects on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Arte \"Antonio Manuel Campoy\"",
+            "hu": "Museo de Arte \"Antonio Manuel Campoy\"",
+            "ro": "Museo de Arte \"Antonio Manuel Campoy\"",
+            "en": "Museo de Arte \"Antonio Manuel Campoy\""
+          },
+          "coords": [
+            -1.882915,
+            37.29698
+          ],
+          "category": "museum",
+          "arrive_at": "10:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Bewundern Sie eine der besten zeitgenössischen Kunstsammlungen Andalusiens im Castillo und nehmen Sie sich Zeit für die beeindruckenden Goya-Radierungen.",
+            "hu": "Csodálja meg Andalúzia egyik legjobb kortárs művészeti gyűjteményét a kastélyban, és szánjon időt a lenyűgöző Goya-rézkarcok alapos tanulmányozására.",
+            "ro": "Admirați una dintre cele mai bune colecții de artă contemporană din Andaluzia în interiorul castelului și alocați timp pentru impresionantele gravuri de Goya.",
+            "en": "Admire one of Andalusia's best contemporary art collections inside the castle, and make sure to take your time studying the impressive Goya etchings."
+          }
+        },
+        {
+          "name": {
+            "de": "Ayuntamiento de Cuevas del Almanzora",
+            "hu": "Ayuntamiento de Cuevas del Almanzora",
+            "ro": "Ayuntamiento de Cuevas del Almanzora",
+            "en": "Ayuntamiento de Cuevas del Almanzora"
+          },
+          "coords": [
+            -1.881267,
+            37.29707
+          ],
+          "category": "historical",
+          "arrive_at": "12:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Betrachten Sie die elegante neoklassizistische Architektur des Rathauses von außen und machen Sie Fotos in den ruhigeren Vormittagsstunden für bestes Licht.",
+            "hu": "Tekintse meg a városháza elegáns neoklasszicista építészetét, és a legjobb fényviszonyok érdekében próbáljon a csendesebb délelőtti órákban fotózni.",
+            "ro": "Priviți arhitectura neoclasică elegantă a primăriei din exterior și faceți fotografii în orele mai liniștite ale dimineții pentru a prinde cea mai bună lumină.",
+            "en": "Observe the elegant neoclassical architecture of the town hall from the outside, and aim to take your photographs during the quieter morning hours for the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de Nuestra Señora de la Encarnación",
+            "hu": "Iglesia de Nuestra Señora de la Encarnación",
+            "ro": "Iglesia de Nuestra Señora de la Encarnación",
+            "en": "Iglesia de Nuestra Señora de la Encarnación"
+          },
+          "coords": [
+            -1.879931,
+            37.296902
+          ],
+          "category": "religious",
+          "arrive_at": "13:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Die majestätische Barockkirche beeindruckt mit ihrem prächtigen Altarbild; kleiden Sie sich respektvoll und besuchen Sie sie außerhalb der Gottesdienstzeiten.",
+            "hu": "A fenséges barokk templom lenyűgöző oltárképpel büszkélkedhet; öltözzön tiszteletteljesen, és a misék idején kívül látogasson el ide a nyugodt szemlélődésért.",
+            "ro": "Biserica barocă maiestuoasă impresionează prin altarul său magnific; îmbrăcați-vă decent și vizitați-o în afara orelor de slujbă pentru a vă bucura de liniște.",
+            "en": "The majestic Baroque church impresses with its magnificent altarpiece; dress respectfully and plan your visit outside of mass times for a peaceful experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Taller Emilio Sdun",
+            "hu": "Museo Taller Emilio Sdun",
+            "ro": "Museo Taller Emilio Sdun",
+            "en": "Museo Taller Emilio Sdun"
+          },
+          "coords": [
+            -1.878993,
+            37.296697
+          ],
+          "category": "museum",
+          "arrive_at": "14:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Welt des Buchdrucks und der Typografie ein, aber buchen Sie unbedingt im Voraus, da die Öffnungszeiten oft flexibel gehandhabt werden.",
+            "hu": "Merüljön el a könyvnyomtatás és a tipográfia lenyűgöző világában, de feltétlenül foglaljon előre, mivel a nyitvatartási idő gyakran rugalmasan változhat.",
+            "ro": "Pătrundeți în lumea fascinantă a tipăririi cărților și a tipografiei, dar asigurați-vă că rezervați din timp, deoarece orele de deschidere sunt deseori flexibile.",
+            "en": "Immerse yourself in the fascinating world of book printing and typography, but make sure to book in advance as opening hours are often handled quite flexibly."
+          }
+        },
+        {
+          "name": {
+            "de": "Convento de San Francisco",
+            "hu": "Convento de San Francisco",
+            "ro": "Convento de San Francisco",
+            "en": "Convento de San Francisco"
+          },
+          "coords": [
+            -1.877382,
+            37.29644
+          ],
+          "category": "historical",
+          "arrive_at": "16:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre der gut erhaltenen historischen Klosteranlage und spazieren Sie durch den ruhigen Kreuzgang, um der Mittagshitze zu entfliehen.",
+            "hu": "Élvezze a jó állapotban fennmaradt történelmi kolostorkomplexum békés hangulatát, és sétáljon végig a csendes kerengőn, hogy elmeneküljön a déli hőség elől.",
+            "ro": "Bucurați-vă de atmosfera pașnică a complexului monahal istoric bine conservat și plimbați-vă prin claustrul liniștit pentru a scăpa de căldura amiezii.",
+            "en": "Enjoy the peaceful atmosphere of the well-preserved historic monastery complex, and take a stroll through the quiet cloister to escape the intense midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de San Antón",
+            "hu": "Iglesia de San Antón",
+            "ro": "Iglesia de San Antón",
+            "en": "Iglesia de San Antón"
+          },
+          "coords": [
+            -1.879182,
+            37.294566
+          ],
+          "category": "religious",
+          "arrive_at": "17:37",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Diese charmante kleine Kirche bietet einen authentischen Einblick in das lokale Glaubensleben; achten Sie auf die schlichten, aber liebevoll gepflegten Details im Inneren.",
+            "hu": "Ez a bájos kis templom hiteles bepillantást enged a helyi hitéletbe; figyeljen a belső tér egyszerű, de szeretettel ápolt és megőrzött apró részleteire.",
+            "ro": "Această mică și fermecătoare biserică oferă o privire autentică asupra vieții religioase locale; observați detaliile simple, dar frumos îngrijite din interior.",
+            "en": "This charming small church offers an authentic glimpse into local religious life; pay attention to the simple yet lovingly maintained details found inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens zu den Höhlenwohnungen und der beeindruckenden Kunstgalerie im Herzen der Stadt.\n\nMittags erkunden Sie die historische Architektur des Rathauses und der Hauptkirche.\n\nDer Nachmittag bringt Sie zur typografischen Werkstatt und zum ruhigen Klosterkomplex.\n\nBeenden Sie die Tour an der charmanten Kirche San Antón im Süden.",
+        "hu": "Kerékpározzon reggel a lenyűgöző barlanglakásokhoz és a város szívében található művészeti galériához.\n\nDélben felfedezheti a városháza és a főtemplom történelmi építészetét.\n\nA délután a tipográfiai műhelyhez és a csendes kolostorkomplexumhoz vezet.\n\nA túrát a déli városrészben található San Antón templomnál zárhatja.",
+        "ro": "Pedalați dimineața către locuințele din peșteri și galeria de artă din inima orașului.\n\nLa prânz, explorați arhitectura istorică a primăriei și a bisericii principale.\n\nDupă-amiaza vă poartă la atelierul de tipografie și la complexul monahal liniștit.\n\nÎncheiați turul la fermecătoarea biserică San Antón din partea de sud.",
+        "en": "Cycle in the morning to the fascinating cave dwellings and the impressive art gallery in the heart of the city.\n\nMidday allows you to easily explore the historic town hall and the main church.\n\nThe afternoon takes you to the typography workshop and the quiet monastery.\n\nFinish your pleasant ride at the charming San Antón church."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:11",
+      "total_km": 1.94,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Despoblado de Almizaraque",
+            "hu": "Despoblado de Almizaraque",
+            "ro": "Despoblado de Almizaraque",
+            "en": "Despoblado de Almizaraque"
+          },
+          "coords": [
+            -1.86896,
+            37.29392
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Überreste dieser prähistorischen Siedlung und tragen Sie festes Schuhwerk, da das Gelände uneben und steinig sein kann.",
+            "hu": "Fedezze fel ennek a történelem előtti településnek a lenyűgöző maradványait, és viseljen masszív lábbelit, mivel a terep meglehetősen egyenetlen és sziklás lehet.",
+            "ro": "Explorați rămășițele fascinante ale acestei așezări preistorice și purtați încălțăminte rezistentă, deoarece terenul din jur poate fi adesea accidentat și stâncos.",
+            "en": "Explore the fascinating remains of this prehistoric settlement, and be sure to wear sturdy footwear as the surrounding terrain can be quite uneven and rocky."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de San Antón",
+            "hu": "Iglesia de San Antón",
+            "ro": "Iglesia de San Antón",
+            "en": "Iglesia de San Antón"
+          },
+          "coords": [
+            -1.879182,
+            37.294566
+          ],
+          "category": "religious",
+          "arrive_at": "10:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Diese charmante kleine Kirche bietet einen authentischen Einblick in das lokale Glaubensleben; achten Sie auf die schlichten, aber liebevoll gepflegten Details im Inneren.",
+            "hu": "Ez a bájos kis templom hiteles bepillantást enged a helyi hitéletbe; figyeljen a belső tér egyszerű, de szeretettel ápolt és megőrzött apró részleteire.",
+            "ro": "Această mică și fermecătoare biserică oferă o privire autentică asupra vieții religioase locale; observați detaliile simple, dar frumos îngrijite din interior.",
+            "en": "This charming small church offers an authentic glimpse into local religious life; pay attention to the simple yet lovingly maintained details found inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Convento de San Francisco",
+            "hu": "Convento de San Francisco",
+            "ro": "Convento de San Francisco",
+            "en": "Convento de San Francisco"
+          },
+          "coords": [
+            -1.877382,
+            37.29644
+          ],
+          "category": "historical",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre der gut erhaltenen historischen Klosteranlage und spazieren Sie durch den ruhigen Kreuzgang, um der Mittagshitze zu entfliehen.",
+            "hu": "Élvezze a jó állapotban fennmaradt történelmi kolostorkomplexum békés hangulatát, és sétáljon végig a csendes kerengőn, hogy elmeneküljön a déli hőség elől.",
+            "ro": "Bucurați-vă de atmosfera pașnică a complexului monahal istoric bine conservat și plimbați-vă prin claustrul liniștit pentru a scăpa de căldura amiezii.",
+            "en": "Enjoy the peaceful atmosphere of the well-preserved historic monastery complex, and take a stroll through the quiet cloister to escape the intense midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Taller Emilio Sdun",
+            "hu": "Museo Taller Emilio Sdun",
+            "ro": "Museo Taller Emilio Sdun",
+            "en": "Museo Taller Emilio Sdun"
+          },
+          "coords": [
+            -1.878993,
+            37.296697
+          ],
+          "category": "museum",
+          "arrive_at": "12:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Welt des Buchdrucks und der Typografie ein, aber buchen Sie unbedingt im Voraus, da die Öffnungszeiten oft flexibel gehandhabt werden.",
+            "hu": "Merüljön el a könyvnyomtatás és a tipográfia lenyűgöző világában, de feltétlenül foglaljon előre, mivel a nyitvatartási idő gyakran rugalmasan változhat.",
+            "ro": "Pătrundeți în lumea fascinantă a tipăririi cărților și a tipografiei, dar asigurați-vă că rezervați din timp, deoarece orele de deschidere sunt deseori flexibile.",
+            "en": "Immerse yourself in the fascinating world of book printing and typography, but make sure to book in advance as opening hours are often handled quite flexibly."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de Nuestra Señora de la Encarnación",
+            "hu": "Iglesia de Nuestra Señora de la Encarnación",
+            "ro": "Iglesia de Nuestra Señora de la Encarnación",
+            "en": "Iglesia de Nuestra Señora de la Encarnación"
+          },
+          "coords": [
+            -1.879931,
+            37.296902
+          ],
+          "category": "religious",
+          "arrive_at": "14:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Die majestätische Barockkirche beeindruckt mit ihrem prächtigen Altarbild; kleiden Sie sich respektvoll und besuchen Sie sie außerhalb der Gottesdienstzeiten.",
+            "hu": "A fenséges barokk templom lenyűgöző oltárképpel büszkélkedhet; öltözzön tiszteletteljesen, és a misék idején kívül látogasson el ide a nyugodt szemlélődésért.",
+            "ro": "Biserica barocă maiestuoasă impresionează prin altarul său magnific; îmbrăcați-vă decent și vizitați-o în afara orelor de slujbă pentru a vă bucura de liniște.",
+            "en": "The majestic Baroque church impresses with its magnificent altarpiece; dress respectfully and plan your visit outside of mass times for a peaceful experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Ayuntamiento de Cuevas del Almanzora",
+            "hu": "Ayuntamiento de Cuevas del Almanzora",
+            "ro": "Ayuntamiento de Cuevas del Almanzora",
+            "en": "Ayuntamiento de Cuevas del Almanzora"
+          },
+          "coords": [
+            -1.881267,
+            37.29707
+          ],
+          "category": "historical",
+          "arrive_at": "14:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Betrachten Sie die elegante neoklassizistische Architektur des Rathauses von außen und machen Sie Fotos in den ruhigeren Vormittagsstunden für bestes Licht.",
+            "hu": "Tekintse meg a városháza elegáns neoklasszicista építészetét, és a legjobb fényviszonyok érdekében próbáljon a csendesebb délelőtti órákban fotózni.",
+            "ro": "Priviți arhitectura neoclasică elegantă a primăriei din exterior și faceți fotografii în orele mai liniștite ale dimineții pentru a prinde cea mai bună lumină.",
+            "en": "Observe the elegant neoclassical architecture of the town hall from the outside, and aim to take your photographs during the quieter morning hours for the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Arte \"Antonio Manuel Campoy\"",
+            "hu": "Museo de Arte \"Antonio Manuel Campoy\"",
+            "ro": "Museo de Arte \"Antonio Manuel Campoy\"",
+            "en": "Museo de Arte \"Antonio Manuel Campoy\""
+          },
+          "coords": [
+            -1.882915,
+            37.29698
+          ],
+          "category": "museum",
+          "arrive_at": "16:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie eine der besten zeitgenössischen Kunstsammlungen Andalusiens im Castillo und nehmen Sie sich Zeit für die beeindruckenden Goya-Radierungen.",
+            "hu": "Csodálja meg Andalúzia egyik legjobb kortárs művészeti gyűjteményét a kastélyban, és szánjon időt a lenyűgöző Goya-rézkarcok alapos tanulmányozására.",
+            "ro": "Admirați una dintre cele mai bune colecții de artă contemporană din Andaluzia în interiorul castelului și alocați timp pentru impresionantele gravuri de Goya.",
+            "en": "Admire one of Andalusia's best contemporary art collections inside the castle, and make sure to take your time studying the impressive Goya etchings."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa-Cueva y Museo Etnográfico",
+            "hu": "Casa-Cueva y Museo Etnográfico",
+            "ro": "Casa-Cueva y Museo Etnográfico",
+            "en": "Casa-Cueva y Museo Etnográfico"
+          },
+          "coords": [
+            -1.884103,
+            37.297307
+          ],
+          "category": "museum",
+          "arrive_at": "18:01",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Entdecken Sie das einzigartige Leben in den typischen Höhlenwohnungen der Region und achten Sie besonders auf die antiken Alltagsgegenstände in den Räumen.",
+            "hu": "Fedezze fel a régió egyedülálló barlanglakásainak mindennapi életét, és figyeljen a kiállított autentikus, korabeli mindennapi használati tárgyakra.",
+            "ro": "Explorați viața unică în locuințele tradiționale din peșteri ale regiunii și acordați atenție obiectelor autentice de zi cu zi expuse în încăperi.",
+            "en": "Discover the unique daily life in the region's traditional cave dwellings, and pay special attention to the authentic antique everyday objects on display."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zu den prähistorischen Ruinen von Almizaraque und zur idyllischen Kirche San Antón.\n\nGegen Mittag erreichen Sie das Zentrum, wo das Kloster und das Druckereimuseum warten.\n\nAm Nachmittag schlendern Sie von der Hauptkirche zum eleganten Rathaus.\n\nDen Abschluss bilden die Kunstsammlung im Castillo und die Höhlenwohnungen.",
+        "hu": "Autózzon reggel Almizaraque őskori romjaihoz, majd látogasson el az idilli San Antón templomhoz.\n\nDél körül érkezik a központba, ahol a kolostor és a nyomdamúzeum várja.\n\nDélután tegyen egy sétát a főtemplomtól az elegáns városházáig.\n\nA napot a kastély gazdag művészeti gyűjteménye és a hagyományos barlanglakások élménye zárja.",
+        "ro": "Conduceți dimineața spre ruinele preistorice din Almizaraque și idilica biserică San Antón.\n\nÎn jurul prânzului ajungeți în centru, unde vă așteaptă mănăstirea și muzeul tipografiei.\n\nDupă-amiaza, faceți o plimbare de la biserica principală la eleganta primărie.\n\nZiua se încheie cu colecția de artă și fascinantele locuințe din peșteri.",
+        "en": "Drive in the morning to the prehistoric ruins of Almizaraque and the idyllic San Antón church.\n\nAround midday, you reach the center to visit the convent and the printing museum.\n\nIn the afternoon, stroll from the main church to the elegant town hall.\n\nThe journey concludes with the castle's art collection and the traditional cave dwellings."
+      }
+    }
+  }
+}

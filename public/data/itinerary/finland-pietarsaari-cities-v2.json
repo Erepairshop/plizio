@@ -1,0 +1,405 @@
+{
+  "city_id": "finland-pietarsaari-cities-v2",
+  "anchor": {
+    "name": "Pietarsaari",
+    "coords": [
+      22.7,
+      63.675
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 2.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Jakobstads Museum",
+            "hu": "Jakobstads Múzeum",
+            "ro": "Muzeul Jakobstads",
+            "en": "Jakobstads Museum"
+          },
+          "coords": [
+            22.703533,
+            63.671851
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche maritime und kulturelle Geschichte Pietarsaaris in diesem Museum und fragen Sie das Personal nach den alten Schiffsbauartefakten.",
+            "hu": "Fedezze fel Pietarsaari gazdag tengerészeti és kulturális történelmét ebben a múzeumban, és mindenképpen kérdezze a személyzetet a régi hajóépítő leletekről.",
+            "ro": "Descoperiți bogata istorie maritimă și culturală a orașului Pietarsaari în acest muzeu și asigurați-vă că întrebați personalul despre vechile artefacte navale.",
+            "en": "Discover the rich maritime and cultural history of Pietarsaari in this fascinating museum, and make sure to ask the staff about the old shipbuilder artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Schaumann Hall",
+            "hu": "Schaumann Hall",
+            "ro": "Schaumann Hall",
+            "en": "Schaumann Hall"
+          },
+          "coords": [
+            22.70469,
+            63.673697
+          ],
+          "category": "cultural",
+          "arrive_at": "10:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie hervorragende Akustik und atemberaubende moderne Architektur in diesem Konzertsaal, also prüfen Sie vorab den Spielplan auf Nachmittagsproben.",
+            "hu": "Élvezze a kiváló akusztikát és a lenyűgöző modern építészetet ebben a koncertteremben, ezért érdemes előre ellenőrizni a délutáni próbák pontos menetrendjét.",
+            "ro": "Bucurați-vă de o acustică excepțională și de arhitectura modernă la această sală de concerte, așa că verificați programul în avans pentru repetițiile de zi.",
+            "en": "Enjoy outstanding acoustics and stunning modern architecture at this premier concert venue, so try to check their schedule in advance for afternoon rehearsals."
+          }
+        },
+        {
+          "name": {
+            "de": "Westmansmors stuga",
+            "hu": "Westmansmors stuga",
+            "ro": "Westmansmors stuga",
+            "en": "Westmansmors stuga"
+          },
+          "coords": [
+            22.701821,
+            63.676174
+          ],
+          "category": "museum",
+          "arrive_at": "12:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesem gut erhaltenen historischen Häuschen von J.L. Runeberg, wo ein paar Fotos im gemütlichen Garten sehr empfehlenswert sind.",
+            "hu": "Lépjen vissza az időben ebben az elképesztően jól megőrzött, J.L. Runeberghez köthető történelmi házikóban, ahol a hangulatos kertben érdemes néhány fotót készíteni.",
+            "ro": "Întoarceți-vă în timp la această căsuță istorică asociată cu J.L. Runeberg, unde fotografierea în grădina confortabilă și autentică este cu adevărat recomandată.",
+            "en": "Step back in time at this incredibly well-preserved historical cottage associated with J.L. Runeberg, where taking photos in the cozy garden is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Pietarsaaren Näyttämö",
+            "hu": "Pietarsaaren Näyttämö",
+            "ro": "Pietarsaaren Näyttämö",
+            "en": "Pietarsaaren Näyttämö"
+          },
+          "coords": [
+            22.702739,
+            63.677563
+          ],
+          "category": "cultural",
+          "arrive_at": "13:24",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie lokale Schauspielkunst und kulturelle Aufführungen auf dieser lebendigen Theaterbühne, wobei Sie frühzeitig für die besten Plätze anreisen sollten.",
+            "hu": "Tapasztalja meg a helyi drámaművészetet és kulturális előadásokat ezen a nyüzsgő színházi színpadon, és érkezzen egy kicsit korábban a legjobb ülőhelyekért.",
+            "ro": "Experimentați arta dramatică locală și spectacolele culturale la această scenă de teatru vibrantă, ajungând puțin mai devreme pentru cele mai bune locuri.",
+            "en": "Experience local dramatic arts and cultural performances at this vibrant theater stage, arriving slightly early to secure the best seats for optimal viewing angles."
+          }
+        },
+        {
+          "name": {
+            "de": "Jacobstads Wapen",
+            "hu": "Jacobstads Wapen",
+            "ro": "Jacobstads Wapen",
+            "en": "Jacobstads Wapen"
+          },
+          "coords": [
+            22.687497,
+            63.68585
+          ],
+          "category": "museum",
+          "arrive_at": "14:47",
+          "stay_min": 130,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie den originalgetreuen Nachbau einer Galeone aus dem 17. Jahrhundert und tragen Sie bequeme, rutschfeste Schuhe, um die Decks sicher zu erkunden.",
+            "hu": "Csodálja meg a 17. századi gálya életnagyságú másolatát, amely a vitorlázás aranykorát idézi, és viseljen kényelmes, csúszásmentes cipőt a fedélzet felfedezéséhez.",
+            "ro": "Admirați replica la scară reală a unui galion din secolul al XVII-lea și purtați încălțăminte confortabilă și antiderapantă pentru a explora punțile în siguranță.",
+            "en": "Marvel at the full-scale replica of a 17th-century galleon that captures the golden age of sailing, and wear comfortable, non-slip shoes to explore its decks safely."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen unseren Tag im Jakobstads Museum, um in die historischen Wurzeln der Stadt einzutauchen. Ein kurzer Spaziergang führt zur Schaumann Hall, wo moderne Architektur auf Kultur trifft.\n\nGegen Mittag spazieren wir zur charmanten Westmansmors stuga und genießen die alte, mit Finnlands Nationaldichter verbundene Atmosphäre.\n\nAm Nachmittag besuchen wir die lebendige Pietarsaaren Näyttämö für lokale Schauspielkunst, bevor wir uns in Richtung des faszinierenden Alten Hafens aufmachen.\n\nWir beenden unsere Tour an der majestätischen Galeone Jacobstads Wapen. Der beeindruckende Schiffsnachbau leuchtet sanft in der Nachmittagssonne und rundet den Tag ab.",
+        "hu": "Napunkat a Jakobstads Múzeumban kezdjük, elmerülve a város gazdag történelmi gyökereiben. Egy rövid sétára található a Schaumann Hall, ahol a modern építészet találkozik a kultúrával.\n\nAhogy közeledik a dél, átsétálunk a bájos Westmansmors stuga-hoz, és átadjuk magunkat a finn nemzeti költőhöz kötődő régi világ hangulatának.\n\nA délután folyamán a nyüzsgő Pietarsaaren Näyttämö felé vesszük az irányt, majd az izgalmas Öreg Kikötő negyed felé indulunk, hogy élvezzük a helyi művészeteket.\n\nSétánkat a fenséges Jacobstads Wapen gályánál fejezzük be. A lenyűgöző hajómásolat lágyan ragyog a késő délutáni napfényben, tökéletes befejezést nyújtva.",
+        "ro": "Ne începem ziua la Muzeul Jakobstads, cufundându-ne în rădăcinile istorice ale orașului. La o scurtă plimbare se află Schaumann Hall, o bijuterie a arhitecturii moderne.\n\nLa prânz, ne plimbăm spre fermecătoarea Westmansmors stuga, absorbind atmosfera veche și pitorească legată de poetul național al Finlandei.\n\nDupă-amiaza ne duce la vibranta Pietarsaaren Näyttämö pentru a aprecia arta dramatică locală, înainte de a ne aventura spre captivantul Port Vechi.\n\nNe încheiem turul la maiestuosul galion Jacobstads Wapen. Aici, replica impresionantă a navei strălucește în soarele de după-amiază, încheind ziua perfect.",
+        "en": "We begin our day at Jakobstads Museum, immersing ourselves in the town's rich historical roots. A short stroll away lies the Schaumann Hall, where modern architecture meets cultural excellence.\n\nAs noon approaches, we walk to the charming Westmansmors stuga, soaking in the quaint, old-world atmosphere linked to Finland's national poet.\n\nThe afternoon takes us to the vibrant Pietarsaaren Näyttämö to appreciate local dramatic arts before we venture towards the captivating Old Harbor district.\n\nWe conclude our walking tour at the majestic Jacobstads Wapen galleon. Here, the impressive ship replica glows softly in the late afternoon sun, ending the day perfectly."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:31",
+      "total_km": 2.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Pedersörenejdens Bygdemuseum",
+            "hu": "Pedersörenejdens Bygdemuseum",
+            "ro": "Pedersörenejdens Bygdemuseum",
+            "en": "Pedersörenejdens Bygdemuseum"
+          },
+          "coords": [
+            22.711991,
+            63.671029
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die große Sammlung regionaler Artefakte über das Landleben und bringen Sie eine Lupe mit, um die feine Handwerkskunst besser zu schätzen.",
+            "hu": "Fedezze fel a vidéki életet bemutató hatalmas regionális leletgyűjteményt, és hozzon magával egy nagyítót, hogy értékelni tudja a finom kézműves részleteket.",
+            "ro": "Explorați o vastă colecție de artefacte regionale care detaliază viața rurală și aduceți o lupă mică pentru a aprecia pe deplin detaliile fine de meșteșugărit.",
+            "en": "Explore a vast collection of regional artifacts detailing rural life across the centuries, and bring a small magnifying glass to appreciate the fine craftsmanship."
+          }
+        },
+        {
+          "name": {
+            "de": "Jakobstads Museum",
+            "hu": "Jakobstads Múzeum",
+            "ro": "Muzeul Jakobstads",
+            "en": "Jakobstads Museum"
+          },
+          "coords": [
+            22.703533,
+            63.671851
+          ],
+          "category": "museum",
+          "arrive_at": "10:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche maritime und kulturelle Geschichte Pietarsaaris in diesem Museum und fragen Sie das Personal nach den alten Schiffsbauartefakten.",
+            "hu": "Fedezze fel Pietarsaari gazdag tengerészeti és kulturális történelmét ebben a múzeumban, és mindenképpen kérdezze a személyzetet a régi hajóépítő leletekről.",
+            "ro": "Descoperiți bogata istorie maritimă și culturală a orașului Pietarsaari în acest muzeu și asigurați-vă că întrebați personalul despre vechile artefacte navale.",
+            "en": "Discover the rich maritime and cultural history of Pietarsaari in this fascinating museum, and make sure to ask the staff about the old shipbuilder artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Westmansmors stuga",
+            "hu": "Westmansmors stuga",
+            "ro": "Westmansmors stuga",
+            "en": "Westmansmors stuga"
+          },
+          "coords": [
+            22.701821,
+            63.676174
+          ],
+          "category": "museum",
+          "arrive_at": "12:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesem gut erhaltenen historischen Häuschen von J.L. Runeberg, wo ein paar Fotos im gemütlichen Garten sehr empfehlenswert sind.",
+            "hu": "Lépjen vissza az időben ebben az elképesztően jól megőrzött, J.L. Runeberghez köthető történelmi házikóban, ahol a hangulatos kertben érdemes néhány fotót készíteni.",
+            "ro": "Întoarceți-vă în timp la această căsuță istorică asociată cu J.L. Runeberg, unde fotografierea în grădina confortabilă și autentică este cu adevărat recomandată.",
+            "en": "Step back in time at this incredibly well-preserved historical cottage associated with J.L. Runeberg, where taking photos in the cozy garden is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Jacobstads Wapen",
+            "hu": "Jacobstads Wapen",
+            "ro": "Jacobstads Wapen",
+            "en": "Jacobstads Wapen"
+          },
+          "coords": [
+            22.687497,
+            63.68585
+          ],
+          "category": "museum",
+          "arrive_at": "14:04",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie den originalgetreuen Nachbau einer Galeone aus dem 17. Jahrhundert und tragen Sie bequeme, rutschfeste Schuhe, um die Decks sicher zu erkunden.",
+            "hu": "Csodálja meg a 17. századi gálya életnagyságú másolatát, amely a vitorlázás aranykorát idézi, és viseljen kényelmes, csúszásmentes cipőt a fedélzet felfedezéséhez.",
+            "ro": "Admirați replica la scară reală a unui galion din secolul al XVII-lea și purtați încălțăminte confortabilă și antiderapantă pentru a explora punțile în siguranță.",
+            "en": "Marvel at the full-scale replica of a 17th-century galleon that captures the golden age of sailing, and wear comfortable, non-slip shoes to explore its decks safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Kittholmen",
+            "hu": "Kittholmen",
+            "ro": "Kittholmen",
+            "en": "Kittholmen"
+          },
+          "coords": [
+            22.689847,
+            63.688205
+          ],
+          "category": "recreational",
+          "arrive_at": "15:46",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf den malerischen Wegen und Sandstränden dieses schönen Erholungsgebiets und packen Sie ein leichtes Picknick für den Sonnenuntergang ein.",
+            "hu": "Pihenjen e gyönyörű sziget festői ösvényein és homokos partjain, és hozzon magával egy könnyű pikniket, amelyet a békés naplemente nézése közben fogyaszthat el.",
+            "ro": "Relaxați-vă pe traseele pitorești și pe țărmurile nisipoase ale acestei zone de agrement, pregătind un mic picnic pentru a-l savura admirând un apus liniștit.",
+            "en": "Relax along the scenic trails and sandy shores of this beautiful recreational island area, packing a light picnic to enjoy while watching the peaceful sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Radtour beginnt am Pedersörenejdens Bygdemuseum. Von dort radeln wir flott zum zentralen Jakobstads Museum, um tiefer in die Lokalgeschichte einzutauchen.\n\nWir setzen unsere Fahrt zur Westmansmors stuga fort, einem malerischen historischen Wahrzeichen, wo wir uns inmitten historischer Holzbauten wunderbar erholen können.\n\nAuf einem schönen Radweg erreichen wir den Alten Hafen, um die Jacobstads Wapen zu bestaunen. Der riesige Schiffsnachbau ist ein atemberaubender Anblick.\n\nUnser Fahrradabenteuer endet im ruhigen Kittholmen. Wir radeln gemütlich durch das Erholungsgebiet, während die Sonne über dem ruhigen Wasser untergeht.",
+        "hu": "A kerékpározás a Pedersörenejdens Bygdemuseumban kezdődik. Innen gyorsan áttekerünk a központi Jakobstads Múzeumhoz, hogy még mélyebbre ássunk a helyi történelemben.\n\nUtunkat a Westmansmors stuga felé folytatjuk, amely egy festői történelmi nevezetesség, ahol megpihenünk a történelmi faépületek és gyönyörű kertek között.\n\nEgy kellemes kerékpárúton haladva érjük el az Öreg Kikötőt, hogy megcsodáljuk a Jacobstads Wapent. A hatalmas hajómásolat lenyűgöző látványt nyújt.\n\nKerékpáros kalandunk a nyugodt Kittholmenben ér véget. Lassan, festői környezetben tekerünk át a pihenőövezeten, ahogy a nap lassan lenyugszik.",
+        "ro": "Turul cu bicicleta începe la Pedersörenejdens Bygdemuseum. De acolo, pedalăm rapid spre Muzeul central Jakobstads pentru a aprofunda istoria locală.\n\nContinuăm călătoria spre Westmansmors stuga, un punct de reper istoric pitoresc unde luăm o pauză relaxantă printre structuri de lemn istorice.\n\nUrmând o pistă plăcută de biciclete, ajungem în Portul Vechi pentru a admira Jacobstads Wapen. Replica masivă a navei este o priveliște uimitoare pe coastă.\n\nAventura noastră cu bicicleta se încheie la liniștitul Kittholmen. Pedalăm încet prin zona de agrement pe măsură ce soarele începe să apună peste apele calme.",
+        "en": "Cycling begins at the Pedersörenejdens Bygdemuseum, exploring extensive rural heritage. From there, we swiftly pedal to the central Jakobstads Museum to dive deeper into local history.\n\nWe continue our ride to Westmansmors stuga, a picturesque historical landmark where we take a restful break amidst historic wooden structures and beautiful gardens.\n\nFollowing a pleasant cycle path, we arrive at the Old Harbor to marvel at the Jacobstads Wapen. The massive ship replica is a stunning sight against the coastal backdrop.\n\nOur cycling adventure wraps up at the tranquil Kittholmen. We take a slow, scenic pedal through the recreational area as the sun begins to set over the calm waters."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 3.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Jakobstads Museum",
+            "hu": "Jakobstads Múzeum",
+            "ro": "Muzeul Jakobstads",
+            "en": "Jakobstads Museum"
+          },
+          "coords": [
+            22.703533,
+            63.671851
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche maritime und kulturelle Geschichte Pietarsaaris in diesem Museum und fragen Sie das Personal nach den alten Schiffsbauartefakten.",
+            "hu": "Fedezze fel Pietarsaari gazdag tengerészeti és kulturális történelmét ebben a múzeumban, és mindenképpen kérdezze a személyzetet a régi hajóépítő leletekről.",
+            "ro": "Descoperiți bogata istorie maritimă și culturală a orașului Pietarsaari în acest muzeu și asigurați-vă că întrebați personalul despre vechile artefacte navale.",
+            "en": "Discover the rich maritime and cultural history of Pietarsaari in this fascinating museum, and make sure to ask the staff about the old shipbuilder artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Pedersörenejdens Bygdemuseum",
+            "hu": "Pedersörenejdens Bygdemuseum",
+            "ro": "Pedersörenejdens Bygdemuseum",
+            "en": "Pedersörenejdens Bygdemuseum"
+          },
+          "coords": [
+            22.711991,
+            63.671029
+          ],
+          "category": "museum",
+          "arrive_at": "10:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die große Sammlung regionaler Artefakte über das Landleben und bringen Sie eine Lupe mit, um die feine Handwerkskunst besser zu schätzen.",
+            "hu": "Fedezze fel a vidéki életet bemutató hatalmas regionális leletgyűjteményt, és hozzon magával egy nagyítót, hogy értékelni tudja a finom kézműves részleteket.",
+            "ro": "Explorați o vastă colecție de artefacte regionale care detaliază viața rurală și aduceți o lupă mică pentru a aprecia pe deplin detaliile fine de meșteșugărit.",
+            "en": "Explore a vast collection of regional artifacts detailing rural life across the centuries, and bring a small magnifying glass to appreciate the fine craftsmanship."
+          }
+        },
+        {
+          "name": {
+            "de": "Maxifun",
+            "hu": "Maxifun",
+            "ro": "Maxifun",
+            "en": "Maxifun"
+          },
+          "coords": [
+            22.708622,
+            63.684821
+          ],
+          "category": "family",
+          "arrive_at": "12:36",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Gönnen Sie den Kindern stundenlangen Spaß auf diesem abwechslungsreichen Indoor-Spielplatz und denken Sie an zusätzliche Socken, da diese hier Pflicht sind.",
+            "hu": "Lepje meg a gyerekeket több órányi felhőtlen szórakozással ezen a fedett játszótéren, és ne felejtsen el plusz zoknit pakolni, mert a játéktereken ez kötelező.",
+            "ro": "Oferiți copiilor ore de distracție și eliberare de energie la acest loc de joacă interior, amintindu-vă să aduceți șosete suplimentare deoarece sunt obligatorii.",
+            "en": "Treat the kids to hours of boundless energy release in this engaging indoor playground, remembering to pack extra socks as they are required for all play areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Jacobstads Wapen",
+            "hu": "Jacobstads Wapen",
+            "ro": "Jacobstads Wapen",
+            "en": "Jacobstads Wapen"
+          },
+          "coords": [
+            22.687497,
+            63.68585
+          ],
+          "category": "museum",
+          "arrive_at": "14:09",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie den originalgetreuen Nachbau einer Galeone aus dem 17. Jahrhundert und tragen Sie bequeme, rutschfeste Schuhe, um die Decks sicher zu erkunden.",
+            "hu": "Csodálja meg a 17. századi gálya életnagyságú másolatát, amely a vitorlázás aranykorát idézi, és viseljen kényelmes, csúszásmentes cipőt a fedélzet felfedezéséhez.",
+            "ro": "Admirați replica la scară reală a unui galion din secolul al XVII-lea și purtați încălțăminte confortabilă și antiderapantă pentru a explora punțile în siguranță.",
+            "en": "Marvel at the full-scale replica of a 17th-century galleon that captures the golden age of sailing, and wear comfortable, non-slip shoes to explore its decks safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Kittholmen",
+            "hu": "Kittholmen",
+            "ro": "Kittholmen",
+            "en": "Kittholmen"
+          },
+          "coords": [
+            22.689847,
+            63.688205
+          ],
+          "category": "recreational",
+          "arrive_at": "15:50",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf den malerischen Wegen und Sandstränden dieses schönen Erholungsgebiets und packen Sie ein leichtes Picknick für den Sonnenuntergang ein.",
+            "hu": "Pihenjen e gyönyörű sziget festői ösvényein és homokos partjain, és hozzon magával egy könnyű pikniket, amelyet a békés naplemente nézése közben fogyaszthat el.",
+            "ro": "Relaxați-vă pe traseele pitorești și pe țărmurile nisipoase ale acestei zone de agrement, pregătind un mic picnic pentru a-l savura admirând un apus liniștit.",
+            "en": "Relax along the scenic trails and sandy shores of this beautiful recreational island area, packing a light picnic to enjoy while watching the peaceful sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir fahren direkt zum Jakobstads Museum. Nach einem umfassenden Besuch bringt uns eine kurze Fahrt zum großen Pedersörenejdens Bygdemuseum außerhalb des Zentrums.\n\nZur Abwechslung lenken wir unser Fahrzeug zu Maxifun. Dies sorgt für einen fantastischen Energieschub am Mittag, besonders toll mit jüngeren Begleitern.\n\nNach einer lebhaften Pause fahren wir zum Küstencharme des Alten Hafens. Die Erkundung der imposanten Galeone Jacobstads Wapen bietet tiefe Einblicke.\n\nWir parken nahe Kittholmen für die letzte Etappe unseres Roadtrips. Ein gemütlicher Spaziergang an den Ufern krönt einen abwechslungsreichen Tag in Pietarsaari.",
+        "hu": "Rögtön a történelembe hajtunk a Jakobstads Múzeumnál. Egy átfogó látogatás után egy gyors út visz a Pedersörenejdens Bygdemuseum hatalmas területéhez.\n\nHogy egy kicsit felrázzuk a dolgokat, a Maxifun felé vesszük az irányt. Ez fantasztikus déli energiabombát jelent, különösen, ha fiatalabbakkal vagy családdal utazunk.\n\nEgy élénk pihenő után az Öreg Kikötő part menti bája felé autózunk. Az impozáns Jacobstads Wapen gálya felfedezése mély bepillantást nyújt a tengerészeti történelembe.\n\nAutóutunk utolsó szakaszán a Kittholmen közelében parkolunk le. A part menti kényelmes séta koronázza meg ezt a változatos, felfedezésekkel teli napot.",
+        "ro": "Conducem direct în istorie la Muzeul Jakobstads. După o vizită cuprinzătoare, o scurtă călătorie ne duce la vastul Pedersörenejdens Bygdemuseum.\n\nPentru o schimbare de ritm, ne îndreptăm vehiculul spre Maxifun. Acest lucru oferă o explozie de energie la prânz, deosebit de minunată pentru familii.\n\nDupă o pauză plină de viață, conducem spre farmecul de coastă al Portului Vechi. Explorarea impozantului galion Jacobstads Wapen oferă o privire profundă în istorie.\n\nParcăm lângă Kittholmen pentru ultima etapă a călătoriei noastre. O plimbare pe îndelete pe țărm încununează o zi diversă de explorare a orașului.",
+        "en": "We drive straight into history at the Jakobstads Museum. After a comprehensive visit, a quick drive takes us to the vast Pedersörenejdens Bygdemuseum just outside the core center.\n\nTo shake things up, we navigate our vehicle to Maxifun. This provides a fantastic midday energetic burst, especially wonderful if traveling with younger companions or family.\n\nAfter a lively break, we drive toward the coastal charm of the Old Harbor area. Exploring the imposing Jacobstads Wapen galleon offers a profound glimpse into nautical history.\n\nWe park near Kittholmen for the final leg of our road trip. A leisurely stroll along the shores caps off a diverse day exploring the many facets of Pietarsaari."
+      }
+    }
+  }
+}

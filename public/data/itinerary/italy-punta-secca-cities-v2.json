@@ -1,0 +1,451 @@
+{
+  "city_id": "italy-punta-secca-cities-v2",
+  "anchor": {
+    "name": "Punta Secca",
+    "coords": [
+      14.4944,
+      36.78806
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:39",
+      "total_km": 2.25,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "en": "House of Inspector Montalbano",
+            "de": "Haus von Commissario Montalbano",
+            "hu": "Montalbano felügyelő háza",
+            "ro": "Casa comisarului Montalbano"
+          },
+          "coords": [
+            14.493023,
+            36.788255
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Admire the exterior of TV's most famous Sicilian detective's house, and snap a quick photo from the beach where the inspector famously swims.",
+            "de": "Bewundern Sie die Fassade des berühmten Hauses aus der TV-Serie und machen Sie ein Foto vom Strand, an dem der Inspektor immer schwimmen geht.",
+            "hu": "Csodálja meg a híres tévés nyomozó szicíliai házának külsejét, és készítsen egy gyors fotót arról a tengerpartról, ahol a felügyelő úszni szokott.",
+            "ro": "Admirați exteriorul casei celui mai faimos detectiv sicilian din televiziune și faceți o fotografie rapidă de pe plaja unde înoată inspectorul."
+          }
+        },
+        {
+          "name": {
+            "en": "Capo Scaramia Lighthouse",
+            "de": "Leuchtturm Capo Scaramia",
+            "hu": "Capo Scaramia világítótorony",
+            "ro": "Farul Capo Scaramia"
+          },
+          "coords": [
+            14.494002,
+            36.787289
+          ],
+          "category": "landmark",
+          "arrive_at": "09:37",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "en": "Look up at this historic 35-meter lighthouse that defines the town's skyline, best viewed during golden hour for truly spectacular lighting.",
+            "de": "Blicken Sie zu diesem historischen, 35 Meter hohen Leuchtturm hinauf, der besonders während der goldenen Stunde ein spektakuläres Fotomotiv bietet.",
+            "hu": "Tekintsen fel erre a 35 méteres történelmi világítótoronyra, amely meghatározza a városképet, és a legjobb fényképeket a kora esti órákban nyújtja.",
+            "ro": "Priviți acest far istoric de 35 de metri care definește orizontul orașului, cel mai bine admirat în timpul orei de aur pentru o lumină spectaculoasă."
+          }
+        },
+        {
+          "name": {
+            "en": "Punta Secca Beach",
+            "de": "Strand von Punta Secca",
+            "hu": "Punta Secca strand",
+            "ro": "Plaja Punta Secca"
+          },
+          "coords": [
+            14.491663,
+            36.789818
+          ],
+          "category": "recreational",
+          "arrive_at": "09:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "en": "Relax on the fine golden sands of this popular central beach, but arrive early in the summer months to secure a good spot near the clear water.",
+            "de": "Entspannen Sie sich am feinen, goldenen Sand dieses beliebten Strandes, aber kommen Sie im Sommer früh, um sich einen guten Platz zu sichern.",
+            "hu": "Pihenjen ennek a népszerű központi strandnak a finom aranyhomokján, de a nyári hónapokban érkezzen korán, hogy jó helyet kapjon a tiszta víz közelében.",
+            "ro": "Relaxați-vă pe nisipul auriu fin al acestei plaje centrale populare, dar ajungeți devreme în lunile de vară pentru a asigura un loc bun lângă apă."
+          }
+        },
+        {
+          "name": {
+            "en": "Punta Secca Beach - Palmento",
+            "de": "Strand von Punta Secca - Palmento",
+            "hu": "Punta Secca strand - Palmento",
+            "ro": "Plaja Punta Secca - Palmento"
+          },
+          "coords": [
+            14.487238,
+            36.793626
+          ],
+          "category": "recreational",
+          "arrive_at": "11:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.58,
+          "tip_5lang": {
+            "en": "Discover this slightly quieter stretch of the coastline offering beautiful sea views, and bring some water shoes for walking around the rocky edges.",
+            "de": "Entdecken Sie diesen ruhigeren Küstenabschnitt mit herrlichem Meerblick und bringen Sie Wasserschuhe mit, um über die felsigen Ränder zu laufen.",
+            "hu": "Fedezze fel ezt a csendesebb partszakaszt, amely gyönyörű kilátást nyújt a tengerre, és hozzon magával vizicipőt a sziklás részek felfedezéséhez.",
+            "ro": "Descoperiți această porțiune de coastă ceva mai liniștită, cu vedere superbă la mare, și aduceți încălțăminte de apă pentru a merge pe marginile stâncoase."
+          }
+        },
+        {
+          "name": {
+            "en": "Anticaglie Beach",
+            "de": "Strand Anticaglie",
+            "hu": "Anticaglie strand",
+            "ro": "Plaja Anticaglie"
+          },
+          "coords": [
+            14.497226,
+            36.786587
+          ],
+          "category": "recreational",
+          "arrive_at": "12:54",
+          "stay_min": 105,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.18,
+          "tip_5lang": {
+            "en": "Enjoy a serene stroll along this atmospheric beach characterized by intriguing rocky formations, perfect for finding colorful seashells at low tide.",
+            "de": "Genießen Sie einen Spaziergang an diesem stimmungsvollen Strand mit seinen faszinierenden Felsformationen, ideal zum Muschelsammeln bei Ebbe.",
+            "hu": "Élvezze a sétát ezen a hangulatos tengerparton, amelyet érdekes sziklaalakzatok jellemeznek, és tökéletes a színes kagylók keresésére apálykor.",
+            "ro": "Bucurați-vă de o plimbare senină de-a lungul acestei plaje atmosferice caracterizate de formațiuni stâncoase, perfectă pentru a găsi scoici la reflux."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Morning: Start your day by exploring the immediate center of Punta Secca, visiting the famous house of Inspector Montalbano and the iconic historic lighthouse.\nMidday: As the sun rises higher, transition to the beautiful golden sands of the main Punta Secca beach to relax, swim, and enjoy the Mediterranean breeze.\nAfternoon: Take a leisurely stroll westward towards the Palmento beach area, taking in the quieter coastal atmosphere and the remnants of old stone structures.\nEvening: Conclude your walking tour at Spiaggia di Anticaglie, watching the sunset cast vibrant colors over the intriguing rocky formations along the shoreline.",
+        "de": "Morgen: Beginnen Sie Ihren Tag im Zentrum von Punta Secca, besuchen Sie das berühmte Haus von Commissario Montalbano und den historischen Leuchtturm.\nMittag: Wenn die Sonne höher steigt, wechseln Sie an den wunderschönen goldenen Sandstrand von Punta Secca, um zu entspannen, zu schwimmen und die Meeresbrise zu genießen.\nNachmittag: Machen Sie einen gemütlichen Spaziergang in Richtung Westen zum Strandgebiet Palmento und genießen Sie die ruhigere Küstenatmosphäre.\nAbend: Beenden Sie Ihren Rundgang an der Spiaggia di Anticaglie und beobachten Sie, wie der Sonnenuntergang leuchtende Farben auf die Felsformationen wirft.",
+        "hu": "Reggel: Kezdje a napot Punta Secca központjának felfedezésével, látogasson el Montalbano felügyelő híres házához és az ikonikus történelmi világítótoronyhoz.\nDél: Ahogy a nap magasabbra emelkedik, térjen át a fő Punta Secca strand gyönyörű aranyhomokjára, hogy pihenjen, ússzon és élvezze a tengeri szellőt.\nDélután: Tegyen egy kényelmes sétát nyugatra a Palmento strand felé, élvezve a csendesebb part menti hangulatot és a régi kőszerkezetek maradványait.\nEste: Fejezze be sétáját a Spiaggia di Anticaglie-n, figyelve, ahogy a naplemente élénk színekkel világítja meg a part menti érdekes sziklaalakzatokat.",
+        "ro": "Dimineața: Începeți-vă ziua explorând centrul orașului Punta Secca, vizitând faimoasa casă a comisarului Montalbano și iconicul far istoric.\nPrânz: Pe măsură ce soarele urcă, treceți pe nisipurile aurii ale plajei principale din Punta Secca pentru a vă relaxa, a înota și a vă bucura de briza mării.\nDupă-amiaza: Faceți o plimbare relaxantă spre vest, spre zona plajei Palmento, admirând atmosfera de coastă mai liniștită și rămășițele vechilor structuri de piatră.\nSeara: Încheiați turul la Spiaggia di Anticaglie, privind cum apusul aruncă culori vibrante peste formațiunile stâncoase intrigante de-a lungul țărmului."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:08",
+      "total_km": 3.08,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "en": "Kaukana Archaeological Park",
+            "de": "Archäologischer Park Kaukana",
+            "hu": "Kaukana Régészeti Park",
+            "ro": "Parcul Arheologic Kaukana"
+          },
+          "coords": [
+            14.507487,
+            36.788896
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Explore the fascinating remnants of this Late Antique port settlement, and follow the well-marked trails to understand ancient Sicilian maritime life.",
+            "de": "Erkunden Sie die faszinierenden Überreste dieser spätantiken Hafensiedlung und folgen Sie den Wegen, um das antike maritime Leben zu verstehen.",
+            "hu": "Fedezze fel ennek a késő ókori kikötői településnek a lenyűgöző maradványait, és kövesse a jól jelzett ösvényeket a tengeri élet megértéséhez.",
+            "ro": "Explorați rămășițele fascinante ale acestei așezări portuare din Antichitatea Târzie și urmați traseele marcate pentru a înțelege viața maritimă antică."
+          }
+        },
+        {
+          "name": {
+            "en": "Kaukana Historic Zone",
+            "de": "Historische Zone Kaukana",
+            "hu": "Kaukana Történelmi Zóna",
+            "ro": "Zona Istorică Kaukana"
+          },
+          "coords": [
+            14.506074,
+            36.788082
+          ],
+          "category": "landmark",
+          "arrive_at": "10:31",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "en": "Wander through this expansive historic zone showcasing ancient ruins, and wear comfortable walking shoes to comfortably navigate the uneven terrain.",
+            "de": "Schlendern Sie durch diese weitläufige historische Zone mit antiken Ruinen und tragen Sie bequeme Schuhe, um das unebene Gelände gut zu bewältigen.",
+            "hu": "Sétáljon végig ezen a kiterjedt történelmi zónán, amely ősi romokat mutat be, és viseljen kényelmes cipőt az egyenetlen terep bejárásához.",
+            "ro": "Plimbați-vă prin această zonă istorică vastă care prezintă ruine antice și purtați pantofi confortabili pentru a naviga ușor pe terenul accidentat."
+          }
+        },
+        {
+          "name": {
+            "en": "Capo Scaramia Lighthouse",
+            "de": "Leuchtturm Capo Scaramia",
+            "hu": "Capo Scaramia világítótorony",
+            "ro": "Farul Capo Scaramia"
+          },
+          "coords": [
+            14.494002,
+            36.787289
+          ],
+          "category": "landmark",
+          "arrive_at": "11:02",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.07,
+          "tip_5lang": {
+            "en": "Look up at this historic 35-meter lighthouse that defines the town's skyline, best viewed during golden hour for truly spectacular lighting.",
+            "de": "Blicken Sie zu diesem historischen, 35 Meter hohen Leuchtturm hinauf, der besonders während der goldenen Stunde ein spektakuläres Fotomotiv bietet.",
+            "hu": "Tekintsen fel erre a 35 méteres történelmi világítótoronyra, amely meghatározza a városképet, és a legjobb fényképeket a kora esti órákban nyújtja.",
+            "ro": "Priviți acest far istoric de 35 de metri care definește orizontul orașului, cel mai bine admirat în timpul orei de aur pentru o lumină spectaculoasă."
+          }
+        },
+        {
+          "name": {
+            "en": "House of Inspector Montalbano",
+            "de": "Haus von Commissario Montalbano",
+            "hu": "Montalbano felügyelő háza",
+            "ro": "Casa comisarului Montalbano"
+          },
+          "coords": [
+            14.493023,
+            36.788255
+          ],
+          "category": "landmark",
+          "arrive_at": "11:18",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "en": "Admire the exterior of TV's most famous Sicilian detective's house, and snap a quick photo from the beach where the inspector famously swims.",
+            "de": "Bewundern Sie die Fassade des berühmten Hauses aus der TV-Serie und machen Sie ein Foto vom Strand, an dem der Inspektor immer schwimmen geht.",
+            "hu": "Csodálja meg a híres tévés nyomozó szicíliai házának külsejét, és készítsen egy gyors fotót arról a tengerpartról, ahol a felügyelő úszni szokott.",
+            "ro": "Admirați exteriorul casei celui mai faimos detectiv sicilian din televiziune și faceți o fotografie rapidă de pe plaja unde înoată inspectorul."
+          }
+        },
+        {
+          "name": {
+            "en": "The Crocodile Rock",
+            "de": "Krokodil-Felsen",
+            "hu": "Krokodil-szikla",
+            "ro": "Stânca Crocodilului"
+          },
+          "coords": [
+            14.485348,
+            36.795161
+          ],
+          "category": "landmark",
+          "arrive_at": "11:49",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.02,
+          "tip_5lang": {
+            "en": "Spot this uniquely shaped rock formation that truly resembles a resting crocodile, making it a fun photography subject during the late afternoon.",
+            "de": "Entdecken Sie diese einzigartige Felsformation, die wirklich einem ruhenden Krokodil ähnelt und sich perfekt als lustiges Fotomotiv am Nachmittag eignet.",
+            "hu": "Keresse meg ezt az egyedi sziklaalakzatot, amely egy pihenő krokodilra hasonlít, és késő délután nagyszerű fotótémát biztosít a látogatóknak.",
+            "ro": "Observați această formațiune stâncoasă unică, care seamănă cu un crocodil care se odihnește, fiind un subiect de fotografie distractiv după-amiaza."
+          }
+        },
+        {
+          "name": {
+            "en": "Torre di Mezzo Watchtower",
+            "de": "Wachturm Torre di Mezzo",
+            "hu": "Torre di Mezzo Őrtorony",
+            "ro": "Turnul de veghe Torre di Mezzo"
+          },
+          "coords": [
+            14.479509,
+            36.799665
+          ],
+          "category": "historical",
+          "arrive_at": "12:18",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.71,
+          "tip_5lang": {
+            "en": "Visit the crumbling yet evocative ruins of this historic coastal defense tower, standing as a silent witness to centuries of Mediterranean history.",
+            "de": "Besuchen Sie die zerfallenen, aber eindrucksvollen Ruinen dieses historischen Küstenverteidigungsturms, der von der Geschichte des Mittelmeers zeugt.",
+            "hu": "Látogassa meg ennek a történelmi partvédelmi toronynak az omladozó, de hangulatos romjait, amely a mediterrán történelem néma tanújaként áll.",
+            "ro": "Vizitați ruinele sfărâmicioase, dar evocatoare, ale acestui turn istoric de apărare pe coastă, martor tăcut al secolelor de istorie mediteraneană."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Morning: Kick off your biking adventure at the ancient Parco Archeologico Kaukana, discovering the fascinating ruins of the Late Antique coastal settlement.\nMidday: Cycle back to the heart of Punta Secca to view the towering Capo Scaramia lighthouse and the charming exterior of Montalbano's famed house.\nAfternoon: Pedal westward along the picturesque coastline, making a quick stop to photograph the unique rock formation famously known as Il Coccodrillo.\nEvening: Finish your ride at the historic Torre di Mezzo, enjoying the serene atmosphere and beautiful sea views from the ruins as the day winds down.",
+        "de": "Morgen: Beginnen Sie Ihr Radabenteuer im antiken Parco Archeologico Kaukana und entdecken Sie die faszinierenden Ruinen der spätantiken Küstensiedlung.\nMittag: Radeln Sie zurück ins Herz von Punta Secca, um den hoch aufragenden Leuchtturm Capo Scaramia und das charmante Haus von Montalbano zu sehen.\nNachmittag: Fahren Sie entlang der malerischen Küste nach Westen und machen Sie einen kurzen Stopp, um die Felsformation Il Coccodrillo zu fotografieren.\nAbend: Beenden Sie Ihre Fahrt an der historischen Torre di Mezzo und genießen Sie die ruhige Atmosphäre und den herrlichen Meerblick von den Ruinen aus.",
+        "hu": "Reggel: Kezdje kerékpáros kalandját az ősi Parco Archeologico Kaukana-ban, felfedezve a késő ókori tengerparti település lenyűgöző romjait.\nDél: Kerékpározzon vissza Punta Secca szívébe, hogy megnézze a magasodó Capo Scaramia világítótornyot és Montalbano híres házának hangulatos külsejét.\nDélután: Tekerjen nyugat felé a festői partvonal mentén, megállva egy gyors fotóra az Il Coccodrillo néven ismert egyedi sziklaalakzatnál.\nEste: Fejezze be utazását a történelmi Torre di Mezzo-nál, élvezve a nyugodt légkört és a gyönyörű tengeri kilátást a romoktól a nap végén.",
+        "ro": "Dimineața: Începeți-vă aventura cu bicicleta la antic Parco Archeologico Kaukana, descoperind ruinele fascinante ale așezării de coastă din Antichitatea Târzie.\nPrânz: Pedalați înapoi în inima orașului Punta Secca pentru a vedea falnicul far Capo Scaramia și exteriorul fermecător al faimoasei case a lui Montalbano.\nDupă-amiaza: Pedalați spre vest de-a lungul coastei pitorești, făcând o oprire rapidă pentru a fotografia formațiunea stâncoasă unică cunoscută sub numele de Il Coccodrillo.\nSeara: Terminați-vă plimbarea la istoricul Torre di Mezzo, bucurându-vă de atmosfera senină și de vederile frumoase la mare de la ruine."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:04",
+      "total_km": 4.82,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "en": "Torre di Mezzo Watchtower",
+            "de": "Wachturm Torre di Mezzo",
+            "hu": "Torre di Mezzo Őrtorony",
+            "ro": "Turnul de veghe Torre di Mezzo"
+          },
+          "coords": [
+            14.479509,
+            36.799665
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Visit the crumbling yet evocative ruins of this historic coastal defense tower, standing as a silent witness to centuries of Mediterranean history.",
+            "de": "Besuchen Sie die zerfallenen, aber eindrucksvollen Ruinen dieses historischen Küstenverteidigungsturms, der von der Geschichte des Mittelmeers zeugt.",
+            "hu": "Látogassa meg ennek a történelmi partvédelmi toronynak az omladozó, de hangulatos romjait, amely a mediterrán történelem néma tanújaként áll.",
+            "ro": "Vizitați ruinele sfărâmicioase, dar evocatoare, ale acestui turn istoric de apărare pe coastă, martor tăcut al secolelor de istorie mediteraneană."
+          }
+        },
+        {
+          "name": {
+            "en": "Torre di Mezzo Beach",
+            "de": "Strand von Torre di Mezzo",
+            "hu": "Torre di Mezzo strand",
+            "ro": "Plaja Torre di Mezzo"
+          },
+          "coords": [
+            14.479808,
+            36.803828
+          ],
+          "category": "recreational",
+          "arrive_at": "10:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "en": "Spend some quality time at this picturesque cove nestled right next to the historic watchtower, offering calmer waters ideal for a refreshing swim.",
+            "de": "Verbringen Sie Zeit in dieser malerischen Bucht direkt neben dem historischen Wachturm, die ruhigeres Wasser bietet und ideal zum Schwimmen ist.",
+            "hu": "Töltsön el egy kis időt ezen a festői öbölben a történelmi őrtorony mellett, amely nyugodtabb vizeket kínál, ideális egy frissítő úszáshoz.",
+            "ro": "Petreceți timp de calitate în acest golf pitoresc situat chiar lângă turnul istoric de veghe, oferind ape mai calme ideale pentru o baie revigorantă."
+          }
+        },
+        {
+          "name": {
+            "en": "Capo Scaramia Lighthouse",
+            "de": "Leuchtturm Capo Scaramia",
+            "hu": "Capo Scaramia világítótorony",
+            "ro": "Farul Capo Scaramia"
+          },
+          "coords": [
+            14.494002,
+            36.787289
+          ],
+          "category": "landmark",
+          "arrive_at": "12:02",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.22,
+          "tip_5lang": {
+            "en": "Look up at this historic 35-meter lighthouse that defines the town's skyline, best viewed during golden hour for truly spectacular lighting.",
+            "de": "Blicken Sie zu diesem historischen, 35 Meter hohen Leuchtturm hinauf, der besonders während der goldenen Stunde ein spektakuläres Fotomotiv bietet.",
+            "hu": "Tekintsen fel erre a 35 méteres történelmi világítótoronyra, amely meghatározza a városképet, és a legjobb fényképeket a kora esti órákban nyújtja.",
+            "ro": "Priviți acest far istoric de 35 de metri care definește orizontul orașului, cel mai bine admirat în timpul orei de aur pentru o lumină spectaculoasă."
+          }
+        },
+        {
+          "name": {
+            "en": "House of Inspector Montalbano",
+            "de": "Haus von Commissario Montalbano",
+            "hu": "Montalbano felügyelő háza",
+            "ro": "Casa comisarului Montalbano"
+          },
+          "coords": [
+            14.493023,
+            36.788255
+          ],
+          "category": "landmark",
+          "arrive_at": "12:19",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "en": "Admire the exterior of TV's most famous Sicilian detective's house, and snap a quick photo from the beach where the inspector famously swims.",
+            "de": "Bewundern Sie die Fassade des berühmten Hauses aus der TV-Serie und machen Sie ein Foto vom Strand, an dem der Inspektor immer schwimmen geht.",
+            "hu": "Csodálja meg a híres tévés nyomozó szicíliai házának külsejét, és készítsen egy gyors fotót arról a tengerpartról, ahol a felügyelő úszni szokott.",
+            "ro": "Admirați exteriorul casei celui mai faimos detectiv sicilian din televiziune și faceți o fotografie rapidă de pe plaja unde înoată inspectorul."
+          }
+        },
+        {
+          "name": {
+            "en": "Caucana Archaeological Area",
+            "de": "Archäologisches Gebiet Caucana",
+            "hu": "Caucana Régészeti Terület",
+            "ro": "Zona Arheologică Caucana"
+          },
+          "coords": [
+            14.507192,
+            36.787868
+          ],
+          "category": "historical",
+          "arrive_at": "12:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.25,
+          "tip_5lang": {
+            "en": "Step back into the Byzantine era at this carefully preserved archaeological site, and bring a hat and sunscreen as there is very little natural shade.",
+            "de": "Tauchen Sie an dieser sorgfältig erhaltenen archäologischen Stätte in die byzantinische Ära ein und bringen Sie einen Hut und Sonnencreme mit.",
+            "hu": "Lépjen vissza a bizánci korba ezen a gondosan megőrzött régészeti lelőhelyen, és hozzon magával kalapot és fényvédőt, mivel kevés az árnyék.",
+            "ro": "Întoarceți-vă în era bizantină la acest sit arheologic atent conservat și aduceți o pălărie și cremă de soare, deoarece există foarte puțină umbră."
+          }
+        },
+        {
+          "name": {
+            "en": "Caucana State Police Beach Center",
+            "de": "Strandzentrum der Staatspolizei Caucana",
+            "hu": "Caucana Állami Rendőrség Strandközpont",
+            "ro": "Centrul Balnear al Poliției de Stat Caucana"
+          },
+          "coords": [
+            14.515697,
+            36.788045
+          ],
+          "category": "recreational",
+          "arrive_at": "14:19",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "en": "Enjoy the structured facilities at this well-maintained coastal spot, where you can easily rent sunbeds and umbrellas for a completely relaxed afternoon.",
+            "de": "Genießen Sie die Einrichtungen an diesem gepflegten Küstenort, wo Sie Liegestühle und Sonnenschirme für einen entspannten Nachmittag mieten können.",
+            "hu": "Élvezze a jól felszerelt létesítményeket ezen a karbantartott partszakaszon, ahol könnyen bérelhet napágyakat egy pihentető délutánhoz.",
+            "ro": "Bucurați-vă de facilitățile structurate de la acest punct de coastă bine întreținut, unde puteți închiria șezlonguri pentru o după-amiază relaxantă."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Morning: Begin your driving route at the western edge of the area, exploring the historic remains of Torre di Mezzo and its neighboring picturesque beach.\nMidday: Drive into the central core of Punta Secca to admire the impressive Capo Scaramia lighthouse and the celebrated Casa del Commissario Montalbano.\nAfternoon: Head eastward to the Area Archeologica di Caucana, stepping back in time as you wander among the well-preserved Late Antique Byzantine ruins.\nEvening: Wrap up your coastal tour at the Centro Balneare della Polizia di Stato Caucana, relaxing by the water as the evening light paints the Mediterranean sky.",
+        "de": "Morgen: Beginnen Sie Ihre Autoroute am westlichen Rand der Region und erkunden Sie die historischen Überreste von Torre di Mezzo und den malerischen Strand.\nMittag: Fahren Sie ins Zentrum von Punta Secca, um den beeindruckenden Leuchtturm Capo Scaramia und die berühmte Casa del Commissario Montalbano zu bewundern.\nNachmittag: Fahren Sie in Richtung Osten zur Area Archeologica di Caucana und reisen Sie in die Vergangenheit, während Sie durch die byzantinischen Ruinen wandern.\nAbend: Beenden Sie Ihre Küstentour am Centro Balneare der Staatspolizei Caucana und entspannen Sie sich am Wasser, während das Abendlicht den Himmel färbt.",
+        "hu": "Reggel: Kezdje autós útvonalát a terület nyugati szélén, felfedezve a Torre di Mezzo történelmi maradványait és a szomszédos festői strandot.\nDél: Hajtson be Punta Secca központi magjába, hogy megcsodálja a lenyűgöző Capo Scaramia világítótornyot és a híres Casa del Commissario Montalbano-t.\nDélután: Induljon kelet felé a Caucana Régészeti Területre, és lépjen vissza az időben, miközben a jól megőrzött késő ókori bizánci romok között sétál.\nEste: Zárja tengerparti túráját az Állami Rendőrség Caucana strandközpontjában, pihenve a vízparton, ahogy az esti fény megfesti az eget.",
+        "ro": "Dimineața: Începeți traseul cu mașina la marginea de vest a zonei, explorând vestigiile istorice ale Torre di Mezzo și plaja sa pitorească vecină.\nPrânz: Conduceți în centrul orașului Punta Secca pentru a admira impresionantul far Capo Scaramia și celebra Casa del Commissario Montalbano.\nDupă-amiaza: Mergeți spre est, la Area Archeologica di Caucana, întorcându-vă în timp în timp ce vă plimbați printre ruinele bizantine bine conservate.\nSeara: Încheiați-vă turul pe coastă la Centro Balneare della Polizia di Stato Caucana, relaxându-vă la malul apei în timp ce lumina serii pictează cerul."
+      }
+    }
+  }
+}

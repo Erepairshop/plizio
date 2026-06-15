@@ -1,0 +1,497 @@
+{
+  "city_id": "moissac",
+  "anchor": {
+    "name": "Moissac",
+    "coords": [
+      1.0853,
+      44.1047
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 1.95,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "en": "Saint-Pierre Abbey",
+            "de": "Saint-Pierre Abbey",
+            "hu": "Saint-Pierre Abbey",
+            "ro": "Saint-Pierre Abbey"
+          },
+          "coords": [
+            1.084786,
+            44.105649
+          ],
+          "category": "monastic",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Admire the magnificent Romanesque portal of this ancient abbey, a true masterpiece of medieval art, and visit early to avoid the afternoon crowds.",
+            "de": "Bewundern Sie das prächtige romanische Portal dieser alten Abtei, ein wahres Meisterwerk mittelalterlicher Kunst, und besuchen Sie es früh, um Menschenmassen zu meiden.",
+            "hu": "Csodálja meg ezen ősi apátság lenyűgöző román stílusú portálját, amely a középkori művészet remeke, és érkezzen korán, hogy elkerülje a tömeget.",
+            "ro": "Admirați portalul romanic magnific al acestei vechi abații, o adevărată capodoperă a artei medievale, și vizitați-o devreme pentru a evita aglomerația."
+          }
+        },
+        {
+          "name": {
+            "en": "Moissac Cloister",
+            "de": "Moissac Cloister",
+            "hu": "Moissac Cloister",
+            "ro": "Moissac Cloister"
+          },
+          "coords": [
+            1.084547,
+            44.105653
+          ],
+          "category": "historical",
+          "arrive_at": "10:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "en": "Stroll through one of the oldest and most beautifully preserved cloisters in the world, paying close attention to the uniquely carved capitals on the pillars.",
+            "de": "Schlendern Sie durch einen der ältesten und am besten erhaltenen Kreuzgänge der Welt und achten Sie besonders auf die einzigartig geschnitzten Kapitelle.",
+            "hu": "Sétáljon végig a világ egyik legrégebbi és legépebben fennmaradt kolostorában, és figyelje meg alaposan az oszlopok egyedien faragott oszlopfőit.",
+            "ro": "Plimbați-vă printr-unul dintre cele mai vechi și bine conservate claustre din lume, acordând atenție deosebită capitelurilor sculptate unic de pe stâlpi."
+          }
+        },
+        {
+          "name": {
+            "en": "Chapelle de l'Hôpital",
+            "de": "Chapelle de l'Hôpital",
+            "hu": "Chapelle de l'Hôpital",
+            "ro": "Chapelle de l'Hôpital"
+          },
+          "coords": [
+            1.088151,
+            44.105069
+          ],
+          "category": "religious",
+          "arrive_at": "11:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "en": "Step into this quiet, modest chapel that once served local hospital patients, offering a serene atmosphere perfect for a brief moment of quiet reflection.",
+            "de": "Betreten Sie diese bescheidene Kapelle, die einst den Patienten des Krankenhauses diente, und genießen Sie die ruhige Atmosphäre für eine kurze Besinnung.",
+            "hu": "Lépjen be ebbe a csendes, szerény kápolnába, amely egykor a helyi kórház betegeit szolgálta, és élvezze a békés légkört egy rövid elmélkedés erejéig.",
+            "ro": "Pășiți în această capelă modestă și liniștită, care a servit cândva pacienților spitalului, oferind o atmosferă senină perfectă pentru o scurtă reflecție."
+          }
+        },
+        {
+          "name": {
+            "en": "Saint-Jacques Church",
+            "de": "Saint-Jacques Church",
+            "hu": "Saint-Jacques Church",
+            "ro": "Saint-Jacques Church"
+          },
+          "coords": [
+            1.086833,
+            44.102231
+          ],
+          "category": "religious",
+          "arrive_at": "12:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "en": "Explore this historic church dedicated to Saint James, an important stop for pilgrims on the Camino de Santiago, and notice its beautiful stained glass windows.",
+            "de": "Erkunden Sie diese historische, dem Heiligen Jakobus gewidmete Kirche, eine wichtige Station für Pilger, und beachten Sie die wunderschönen Buntglasfenster.",
+            "hu": "Fedezze fel ezt a Szent Jakabnak szentelt történelmi templomot, amely a zarándokok fontos állomása, és vegye szemügyre a gyönyörű ólomüveg ablakokat.",
+            "ro": "Explorați această biserică istorică dedicată Sfântului Iacob, o oprire importantă pentru pelerini, și admirați vitraliile sale deosebit de frumoase."
+          }
+        },
+        {
+          "name": {
+            "en": "gite de l'ancien carmel",
+            "de": "gite de l'ancien carmel",
+            "hu": "gite de l'ancien carmel",
+            "ro": "gite de l'ancien carmel"
+          },
+          "coords": [
+            1.082623,
+            44.106402
+          ],
+          "category": "religious",
+          "arrive_at": "13:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "en": "View the exterior of this former Carmelite convent now serving as a peaceful resting place for modern travelers and pilgrims passing through the historic town.",
+            "de": "Betrachten Sie dieses ehemalige Karmeliterkloster, das heute als friedlicher Rastplatz für moderne Reisende und Pilger auf ihrem Weg durch die historische Stadt dient.",
+            "hu": "Tekintse meg az egykori kármelita kolostort, amely ma békés pihenőhelyként szolgál a történelmi városon áthaladó modern utazók és zarándokok számára.",
+            "ro": "Vedeți exteriorul acestei foste mănăstiri carmelite, care acum servește ca un loc de odihnă pașnic pentru călătorii și pelerinii care trec prin orașul istoric."
+          }
+        },
+        {
+          "name": {
+            "en": "Fontaine des 24 Échellons",
+            "de": "Fontaine des 24 Échellons",
+            "hu": "Fontaine des 24 Échellons",
+            "ro": "Fontaine des 24 Échellons"
+          },
+          "coords": [
+            1.089566,
+            44.108923
+          ],
+          "category": "landmark",
+          "arrive_at": "14:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "en": "Climb the steps to reach this historic local fountain, which provided fresh water to residents for centuries, and wear comfortable shoes for the ascent.",
+            "de": "Steigen Sie die Stufen zu diesem historischen Brunnen hinauf, der die Bewohner jahrhundertelang mit Wasser versorgte, und tragen Sie bequeme Schuhe.",
+            "hu": "Mássza meg a lépcsőket ehhez a történelmi kúthoz, amely évszázadokon át friss vízzel látta el a lakosokat, és viseljen kényelmes cipőt az emelkedőhöz.",
+            "ro": "Urcați treptele pentru a ajunge la această fântână istorică ce a furnizat apă proaspătă secole la rând, asigurându-vă că purtați încălțăminte comodă."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Morning begins at the magnificent Saint-Pierre Abbey, setting a deeply historical tone for the day. You will then explore the adjacent Moissac Cloister, world-renowned for its intricate column capitals.\nBy midday, a short stroll brings you to the modest Chapelle de l'Hôpital. From there, you will continue to the Saint-Jacques Church, feeling the enduring spirit of the Camino de Santiago pilgrims.\nIn the afternoon, the route takes you towards the gite de l'ancien carmel, a testament to the town's welcoming nature. The walk is flat and highly accessible for all visitors.\nEvening approaches as you reach the Fontaine des 24 Échellons. The quiet surroundings offer a perfect moment of reflection before you conclude your walking tour through Moissac's heritage.",
+        "de": "Der Morgen beginnt an der prächtigen Abtei Saint-Pierre, die den historischen Ton angibt. Anschließend erkunden Sie den angrenzenden Kreuzgang von Moissac, der für seine kunstvollen Kapitelle bekannt ist.\nGegen Mittag bringt Sie ein kurzer Spaziergang zur bescheidenen Chapelle de l'Hôpital. Von dort geht es weiter zur Kirche Saint-Jacques, wo der Geist der Pilger noch spürbar ist.\nAm Nachmittag führt die Route zum gite de l'ancien carmel, ein Beweis für die Gastfreundschaft der Stadt. Der Weg ist flach und für alle Besucher leicht zugänglich.\nDer Abend nähert sich, wenn Sie die Fontaine des 24 Échellons erreichen. Die ruhige Umgebung bietet den perfekten Moment der Besinnung, bevor Sie Ihre Tour beenden.",
+        "hu": "A reggel a fenséges Saint-Pierre apátságnál kezdődik, amely történelmi alaphangot ad a napnak. Ezután a szomszédos moissaci kolostort fedezi fel, amely világszerte ismert faragott oszlopfőiről.\nDélben egy rövid séta a szerény Chapelle de l'Hôpital felé vezet. Innen a Saint-Jacques templomhoz folytatja útját, átérezve a Szent Jakab-úton járó zarándokok kitartó szellemét.\nDélután az útvonal a gite de l'ancien carmel felé visz, amely a város vendégszeretetének bizonyítéka. A séta sík terepen halad, így minden látogató számára könnyen bejárható.\nAz este közeledtével eléri a Fontaine des 24 Échellons-t. A csendes környezet tökéletes pillanatot kínál az elmélkedésre, mielőtt befejezné a moissaci gyalogtúrát.",
+        "ro": "Dimineața începe la magnifica Abație Saint-Pierre, stabilind un ton profund istoric. Veți explora apoi Claustrul Moissac adiacent, de renume mondial pentru capitelurile sale complicate.\nLa prânz, o scurtă plimbare vă aduce la modesta Chapelle de l'Hôpital. De acolo, veți continua spre Biserica Saint-Jacques, simțind spiritul pelerinilor de pe Camino de Santiago.\nDupă-amiaza, traseul vă duce spre gite de l'ancien carmel, o dovadă a naturii primitoare a orașului. Plimbarea este plată și foarte accesibilă pentru toți vizitatorii.\nSeara se apropie odată cu ajungerea la Fontaine des 24 Échellons. Împrejurimile liniștite oferă un moment perfect de reflecție înainte de a încheia turul pietonal al orașului Moissac."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "en": "Église Saint-Martin",
+            "de": "Église Saint-Martin",
+            "hu": "Église Saint-Martin",
+            "ro": "Église Saint-Martin"
+          },
+          "coords": [
+            1.075374,
+            44.101723
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Discover the ancient ruins of this venerable church, considered one of the oldest religious foundations in the region, and read the informative plaques on site.",
+            "de": "Entdecken Sie die antiken Ruinen dieser ehrwürdigen Kirche, die als eine der ältesten religiösen Stiftungen der Region gilt, und lesen Sie die Informationstafeln.",
+            "hu": "Fedezze fel e tiszteletre méltó templom ősi romjait, amelyet a régió egyik legrégebbi vallási alapításának tartanak, és olvassa el a kihelyezett táblákat.",
+            "ro": "Descoperiți ruinele antice ale acestei biserici venerabile, considerată una dintre cele mai vechi fundații religioase din regiune, citind plăcile informative."
+          }
+        },
+        {
+          "name": {
+            "en": "gite de l'ancien carmel",
+            "de": "gite de l'ancien carmel",
+            "hu": "gite de l'ancien carmel",
+            "ro": "gite de l'ancien carmel"
+          },
+          "coords": [
+            1.082623,
+            44.106402
+          ],
+          "category": "religious",
+          "arrive_at": "10:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "en": "View the exterior of this former Carmelite convent now serving as a peaceful resting place for modern travelers and pilgrims passing through the historic town.",
+            "de": "Betrachten Sie dieses ehemalige Karmeliterkloster, das heute als friedlicher Rastplatz für moderne Reisende und Pilger auf ihrem Weg durch die historische Stadt dient.",
+            "hu": "Tekintse meg az egykori kármelita kolostort, amely ma békés pihenőhelyként szolgál a történelmi városon áthaladó modern utazók és zarándokok számára.",
+            "ro": "Vedeți exteriorul acestei foste mănăstiri carmelite, care acum servește ca un loc de odihnă pașnic pentru călătorii și pelerinii care trec prin orașul istoric."
+          }
+        },
+        {
+          "name": {
+            "en": "Saint-Pierre Abbey",
+            "de": "Saint-Pierre Abbey",
+            "hu": "Saint-Pierre Abbey",
+            "ro": "Saint-Pierre Abbey"
+          },
+          "coords": [
+            1.084786,
+            44.105649
+          ],
+          "category": "monastic",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "en": "Admire the magnificent Romanesque portal of this ancient abbey, a true masterpiece of medieval art, and visit early to avoid the afternoon crowds.",
+            "de": "Bewundern Sie das prächtige romanische Portal dieser alten Abtei, ein wahres Meisterwerk mittelalterlicher Kunst, und besuchen Sie es früh, um Menschenmassen zu meiden.",
+            "hu": "Csodálja meg ezen ősi apátság lenyűgöző román stílusú portálját, amely a középkori művészet remeke, és érkezzen korán, hogy elkerülje a tömeget.",
+            "ro": "Admirați portalul romanic magnific al acestei vechi abații, o adevărată capodoperă a artei medievale, și vizitați-o devreme pentru a evita aglomerația."
+          }
+        },
+        {
+          "name": {
+            "en": "Moissac Cloister",
+            "de": "Moissac Cloister",
+            "hu": "Moissac Cloister",
+            "ro": "Moissac Cloister"
+          },
+          "coords": [
+            1.084547,
+            44.105653
+          ],
+          "category": "historical",
+          "arrive_at": "12:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "en": "Stroll through one of the oldest and most beautifully preserved cloisters in the world, paying close attention to the uniquely carved capitals on the pillars.",
+            "de": "Schlendern Sie durch einen der ältesten und am besten erhaltenen Kreuzgänge der Welt und achten Sie besonders auf die einzigartig geschnitzten Kapitelle.",
+            "hu": "Sétáljon végig a világ egyik legrégebbi és legépebben fennmaradt kolostorában, és figyelje meg alaposan az oszlopok egyedien faragott oszlopfőit.",
+            "ro": "Plimbați-vă printr-unul dintre cele mai vechi și bine conservate claustre din lume, acordând atenție deosebită capitelurilor sculptate unic de pe stâlpi."
+          }
+        },
+        {
+          "name": {
+            "en": "Saint-Jacques Church",
+            "de": "Saint-Jacques Church",
+            "hu": "Saint-Jacques Church",
+            "ro": "Saint-Jacques Church"
+          },
+          "coords": [
+            1.086833,
+            44.102231
+          ],
+          "category": "religious",
+          "arrive_at": "13:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "en": "Explore this historic church dedicated to Saint James, an important stop for pilgrims on the Camino de Santiago, and notice its beautiful stained glass windows.",
+            "de": "Erkunden Sie diese historische, dem Heiligen Jakobus gewidmete Kirche, eine wichtige Station für Pilger, und beachten Sie die wunderschönen Buntglasfenster.",
+            "hu": "Fedezze fel ezt a Szent Jakabnak szentelt történelmi templomot, amely a zarándokok fontos állomása, és vegye szemügyre a gyönyörű ólomüveg ablakokat.",
+            "ro": "Explorați această biserică istorică dedicată Sfântului Iacob, o oprire importantă pentru pelerini, și admirați vitraliile sale deosebit de frumoase."
+          }
+        },
+        {
+          "name": {
+            "en": "Chapelle de l'Hôpital",
+            "de": "Chapelle de l'Hôpital",
+            "hu": "Chapelle de l'Hôpital",
+            "ro": "Chapelle de l'Hôpital"
+          },
+          "coords": [
+            1.088151,
+            44.105069
+          ],
+          "category": "religious",
+          "arrive_at": "14:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "en": "Step into this quiet, modest chapel that once served local hospital patients, offering a serene atmosphere perfect for a brief moment of quiet reflection.",
+            "de": "Betreten Sie diese bescheidene Kapelle, die einst den Patienten des Krankenhauses diente, und genießen Sie die ruhige Atmosphäre für eine kurze Besinnung.",
+            "hu": "Lépjen be ebbe a csendes, szerény kápolnába, amely egykor a helyi kórház betegeit szolgálta, és élvezze a békés légkört egy rövid elmélkedés erejéig.",
+            "ro": "Pășiți în această capelă modestă și liniștită, care a servit cândva pacienților spitalului, oferind o atmosferă senină perfectă pentru o scurtă reflecție."
+          }
+        },
+        {
+          "name": {
+            "en": "Cacor Canal Bridge",
+            "de": "Cacor Canal Bridge",
+            "hu": "Cacor Canal Bridge",
+            "ro": "Cacor Canal Bridge"
+          },
+          "coords": [
+            1.102222,
+            44.091389
+          ],
+          "category": "historical",
+          "arrive_at": "15:25",
+          "stay_min": 110,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "en": "Marvel at this impressive brick aqueduct that carries the canal over the Tarn River, offering excellent photo opportunities from the adjacent pedestrian path.",
+            "de": "Bewundern Sie dieses beeindruckende Backstein-Aquädukt, das den Kanal über den Fluss Tarn führt, und nutzen Sie die hervorragenden Fotomotive vom Fußgängerweg aus.",
+            "hu": "Csodálja meg ezt a lenyűgöző tégla akvaduktot, amely a csatornát a Tarn folyó felett vezeti át, és készítsen nagyszerű fotókat a szomszédos gyalogútról.",
+            "ro": "Admirați acest apeduct impresionant din cărămidă care transportă canalul peste râul Tarn, oferind oportunități excelente de fotografiere de pe aleea pietonală."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Start your biking adventure at the ancient ruins of Église Saint-Martin, away from the immediate town center. A quick ride then takes you to the peaceful gite de l'ancien carmel.\nMidday is dedicated to Moissac's crown jewels: the breathtaking Saint-Pierre Abbey and its world-famous Cloister. Cycling between these central sights is quick and convenient.\nYour afternoon pedal explores the religious heritage further, visiting the Saint-Jacques Church and the quaint Chapelle de l'Hôpital. The bike makes navigating the narrow streets effortless.\nThe day concludes with a scenic ride out to the Cacor Canal Bridge. Watching the sunset colors reflect off the canal waters provides a magical end to your cycling journey.",
+        "de": "Beginnen Sie Ihr Fahrradabenteuer bei den antiken Ruinen der Église Saint-Martin. Eine kurze Fahrt bringt Sie dann zum friedlichen gite de l'ancien carmel am Rande der Altstadt.\nDer Mittag ist den Kronjuwelen von Moissac gewidmet: der atemberaubenden Abtei Saint-Pierre und ihrem weltberühmten Kreuzgang. Das Radeln zwischen diesen zentralen Sehenswürdigkeiten ist sehr bequem.\nAm Nachmittag erkunden Sie das religiöse Erbe weiter und besuchen die Kirche Saint-Jacques sowie die malerische Chapelle de l'Hôpital. Das Fahrrad macht die Navigation mühelos.\nDer Tag endet mit einer malerischen Fahrt zur Kanalbrücke von Cacor. Die Farben des Sonnenuntergangs, die sich im Wasser spiegeln, bilden einen magischen Abschluss.",
+        "hu": "Kezdje kerékpáros kalandját az Église Saint-Martin ősi romjainál, távolabb a városközponttól. Egy gyors tekerés után a békés gite de l'ancien carmel épületéhez érkezik.\nA dél a város ékköveinek van szentelve: a lélegzetelállító Saint-Pierre apátságnak és a világhírű kolostornak. A központi látnivalók közötti kerékpározás gyors és kényelmes.\nDélutáni útja tovább kutatja a vallási örökséget, meglátogatva a Saint-Jacques templomot és a festői Chapelle de l'Hôpital-t. A kerékpárral könnyedén navigálhat a szűk utcákon.\nA nap egy festői utazással zárul a Cacor csatornahídhoz. A csatorna vizén tükröződő naplemente színeinek megtekintése varázslatos befejezése a kerékpáros útnak.",
+        "ro": "Începeți aventura pe bicicletă la ruinele antice ale Église Saint-Martin. O plimbare scurtă vă duce apoi la pașnicul gite de l'ancien carmel, situat aproape de centru.\nPrânzul este dedicat bijuteriilor din Moissac: uluitoarea Abație Saint-Pierre și Claustrul său de renume mondial. Ciclismul între aceste atracții centrale este rapid și extrem de convenabil.\nDupă-amiaza veți explora patrimoniul religios, vizitând Biserica Saint-Jacques și pitoreasca Chapelle de l'Hôpital. Bicicleta face navigarea pe străzile înguste lipsită de efort.\nZiua se încheie cu o plimbare pitorească până la Podul Cacor. Culorile apusului reflectate pe apele canalului oferă un final magic călătoriei dumneavoastră pe bicicletă."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:11",
+      "total_km": 4.75,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "en": "Cacor Canal Bridge",
+            "de": "Cacor Canal Bridge",
+            "hu": "Cacor Canal Bridge",
+            "ro": "Cacor Canal Bridge"
+          },
+          "coords": [
+            1.102222,
+            44.091389
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Marvel at this impressive brick aqueduct that carries the canal over the Tarn River, offering excellent photo opportunities from the adjacent pedestrian path.",
+            "de": "Bewundern Sie dieses beeindruckende Backstein-Aquädukt, das den Kanal über den Fluss Tarn führt, und nutzen Sie die hervorragenden Fotomotive vom Fußgängerweg aus.",
+            "hu": "Csodálja meg ezt a lenyűgöző tégla akvaduktot, amely a csatornát a Tarn folyó felett vezeti át, és készítsen nagyszerű fotókat a szomszédos gyalogútról.",
+            "ro": "Admirați acest apeduct impresionant din cărămidă care transportă canalul peste râul Tarn, oferind oportunități excelente de fotografiere de pe aleea pietonală."
+          }
+        },
+        {
+          "name": {
+            "en": "Saint-Jacques Church",
+            "de": "Saint-Jacques Church",
+            "hu": "Saint-Jacques Church",
+            "ro": "Saint-Jacques Church"
+          },
+          "coords": [
+            1.086833,
+            44.102231
+          ],
+          "category": "religious",
+          "arrive_at": "10:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "en": "Explore this historic church dedicated to Saint James, an important stop for pilgrims on the Camino de Santiago, and notice its beautiful stained glass windows.",
+            "de": "Erkunden Sie diese historische, dem Heiligen Jakobus gewidmete Kirche, eine wichtige Station für Pilger, und beachten Sie die wunderschönen Buntglasfenster.",
+            "hu": "Fedezze fel ezt a Szent Jakabnak szentelt történelmi templomot, amely a zarándokok fontos állomása, és vegye szemügyre a gyönyörű ólomüveg ablakokat.",
+            "ro": "Explorați această biserică istorică dedicată Sfântului Iacob, o oprire importantă pentru pelerini, și admirați vitraliile sale deosebit de frumoase."
+          }
+        },
+        {
+          "name": {
+            "en": "Saint-Pierre Abbey",
+            "de": "Saint-Pierre Abbey",
+            "hu": "Saint-Pierre Abbey",
+            "ro": "Saint-Pierre Abbey"
+          },
+          "coords": [
+            1.084786,
+            44.105649
+          ],
+          "category": "monastic",
+          "arrive_at": "11:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "en": "Admire the magnificent Romanesque portal of this ancient abbey, a true masterpiece of medieval art, and visit early to avoid the afternoon crowds.",
+            "de": "Bewundern Sie das prächtige romanische Portal dieser alten Abtei, ein wahres Meisterwerk mittelalterlicher Kunst, und besuchen Sie es früh, um Menschenmassen zu meiden.",
+            "hu": "Csodálja meg ezen ősi apátság lenyűgöző román stílusú portálját, amely a középkori művészet remeke, és érkezzen korán, hogy elkerülje a tömeget.",
+            "ro": "Admirați portalul romanic magnific al acestei vechi abații, o adevărată capodoperă a artei medievale, și vizitați-o devreme pentru a evita aglomerația."
+          }
+        },
+        {
+          "name": {
+            "en": "Moissac Cloister",
+            "de": "Moissac Cloister",
+            "hu": "Moissac Cloister",
+            "ro": "Moissac Cloister"
+          },
+          "coords": [
+            1.084547,
+            44.105653
+          ],
+          "category": "historical",
+          "arrive_at": "12:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "en": "Stroll through one of the oldest and most beautifully preserved cloisters in the world, paying close attention to the uniquely carved capitals on the pillars.",
+            "de": "Schlendern Sie durch einen der ältesten und am besten erhaltenen Kreuzgänge der Welt und achten Sie besonders auf die einzigartig geschnitzten Kapitelle.",
+            "hu": "Sétáljon végig a világ egyik legrégebbi és legépebben fennmaradt kolostorában, és figyelje meg alaposan az oszlopok egyedien faragott oszlopfőit.",
+            "ro": "Plimbați-vă printr-unul dintre cele mai vechi și bine conservate claustre din lume, acordând atenție deosebită capitelurilor sculptate unic de pe stâlpi."
+          }
+        },
+        {
+          "name": {
+            "en": "Église Saint-Martin",
+            "de": "Église Saint-Martin",
+            "hu": "Église Saint-Martin",
+            "ro": "Église Saint-Martin"
+          },
+          "coords": [
+            1.075374,
+            44.101723
+          ],
+          "category": "historical",
+          "arrive_at": "14:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "en": "Discover the ancient ruins of this venerable church, considered one of the oldest religious foundations in the region, and read the informative plaques on site.",
+            "de": "Entdecken Sie die antiken Ruinen dieser ehrwürdigen Kirche, die als eine der ältesten religiösen Stiftungen der Region gilt, und lesen Sie die Informationstafeln.",
+            "hu": "Fedezze fel e tiszteletre méltó templom ősi romjait, amelyet a régió egyik legrégebbi vallási alapításának tartanak, és olvassa el a kihelyezett táblákat.",
+            "ro": "Descoperiți ruinele antice ale acestei biserici venerabile, considerată una dintre cele mai vechi fundații religioase din regiune, citind plăcile informative."
+          }
+        },
+        {
+          "name": {
+            "en": "Fontaine des 24 Échellons",
+            "de": "Fontaine des 24 Échellons",
+            "hu": "Fontaine des 24 Échellons",
+            "ro": "Fontaine des 24 Échellons"
+          },
+          "coords": [
+            1.089566,
+            44.108923
+          ],
+          "category": "landmark",
+          "arrive_at": "15:26",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "en": "Climb the steps to reach this historic local fountain, which provided fresh water to residents for centuries, and wear comfortable shoes for the ascent.",
+            "de": "Steigen Sie die Stufen zu diesem historischen Brunnen hinauf, der die Bewohner jahrhundertelang mit Wasser versorgte, und tragen Sie bequeme Schuhe.",
+            "hu": "Mássza meg a lépcsőket ehhez a történelmi kúthoz, amely évszázadokon át friss vízzel látta el a lakosokat, és viseljen kényelmes cipőt az emelkedőhöz.",
+            "ro": "Urcați treptele pentru a ajunge la această fântână istorică ce a furnizat apă proaspătă secole la rând, asigurându-vă că purtați încălțăminte comodă."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Your driving tour starts at the impressive Cacor Canal Bridge, where parking is easy. You can marvel at the engineering before heading into the historic heart of Moissac.\nBy midday, park near the town center to visit the Saint-Jacques Church, followed by the monumental Saint-Pierre Abbey and its magnificent Cloister, the highlights of the region.\nIn the afternoon, you will drive westward to discover the ancient ruins of Église Saint-Martin. The car allows you to effortlessly bridge the distances between these diverse historical periods.\nEnd your day driving up towards the Fontaine des 24 Échellons. This slightly elevated spot provides a wonderful historical perspective as evening falls over the beautiful Tarn-et-Garonne landscape.",
+        "de": "Ihre Autotour beginnt an der beeindruckenden Kanalbrücke von Cacor, wo das Parken einfach ist. Bewundern Sie die Ingenieurskunst, bevor Sie in das historische Zentrum fahren.\nGegen Mittag parken Sie in der Nähe des Zentrums, um die Kirche Saint-Jacques sowie die monumentale Abtei Saint-Pierre und ihren prächtigen Kreuzgang zu besuchen.\nAm Nachmittag fahren Sie in Richtung Westen, um die antiken Ruinen der Église Saint-Martin zu entdecken. Das Auto ermöglicht es Ihnen, die Entfernungen mühelos zu überbrücken.\nBeenden Sie Ihren Tag mit einer Fahrt hinauf zur Fontaine des 24 Échellons. Dieser leicht erhöhte Ort bietet einen wunderbaren historischen Blick, wenn der Abend über der Landschaft hereinbricht.",
+        "hu": "Autós túrája a lenyűgöző Cacor csatornahídnál kezdődik, ahol a parkolás is egyszerű. Megcsodálhatja a mérnöki munkát, mielőtt Moissac történelmi szívébe indulna.\nDélben parkoljon le a városközpont közelében, hogy meglátogassa a Saint-Jacques templomot, majd a monumentális Saint-Pierre apátságot és annak csodálatos kolostorát.\nDélután nyugat felé autózik, hogy felfedezze az Église Saint-Martin ősi romjait. Az autó lehetővé teszi, hogy könnyedén áthidalja e különböző történelmi korszakok közötti távolságokat.\nFejezze be a napot a Fontaine des 24 Échellons felé vezetve. Ez a kissé magasabban fekvő hely csodálatos történelmi perspektívát kínál, ahogy az este leszáll a tájra.",
+        "ro": "Turul cu mașina începe la impresionantul Pod Cacor, unde parcarea este ușoară. Puteți admira ingineria înainte de a vă îndrepta spre inima istorică a orașului Moissac.\nLa prânz, parcați aproape de centru pentru a vizita Biserica Saint-Jacques, urmată de monumentala Abație Saint-Pierre și magnificul său Claustru, atracțiile majore ale regiunii.\nDupă-amiaza, veți conduce spre vest pentru a descoperi ruinele antice ale Église Saint-Martin. Mașina vă permite să parcurgeți fără efort distanțele dintre aceste perioade istorice.\nÎncheiați-vă ziua conducând spre Fontaine des 24 Échellons. Acest loc ușor ridicat oferă o perspectivă istorică minunată, în timp ce seara se lasă peste peisajul frumos."
+      }
+    }
+  }
+}

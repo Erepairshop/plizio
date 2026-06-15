@@ -1,0 +1,497 @@
+{
+  "city_id": "city-vantaa",
+  "anchor": {
+    "name": "Vantaa",
+    "coords": [
+      25.0443,
+      60.2934
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:19",
+      "total_km": 1.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Vantaan kaupunginmuseo",
+            "hu": "Vantaan kaupunginmuseo",
+            "ro": "Vantaan kaupunginmuseo",
+            "en": "Vantaan kaupunginmuseo"
+          },
+          "coords": [
+            25.043051,
+            60.290861
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte Vantaas in diesem ehemaligen Bahnhofsgebäude und holen Sie sich unbedingt einen kostenlosen Audioguide für tiefere Einblicke.",
+            "hu": "Fedezze fel Vantaa gazdag történelmét ebben a volt állomásépületben, és mindenképpen kérjen ingyenes audioguide-ot a helyi kulturális örökség megismeréséhez.",
+            "ro": "Descoperiți istoria bogată a orașului Vantaa în această fostă gară și asigurați-vă că luați un ghid audio gratuit pentru o experiență culturală mai profundă.",
+            "en": "Discover Vantaa's rich history in this former station building, and make sure to grab a free audio guide for a deeper dive into local cultural heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Galleria K",
+            "hu": "Galleria K",
+            "ro": "Galleria K",
+            "en": "Galleria K"
+          },
+          "coords": [
+            25.03906,
+            60.293519
+          ],
+          "category": "museum",
+          "arrive_at": "10:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie zeitgenössische finnische Kunst in diesem stilvollen Galerieraum, wobei Sie sich Zeit für die wechselnden Ausstellungen im Erdgeschoss nehmen sollten.",
+            "hu": "Csodálja meg a kortárs finn művészetet ebben a stílusos galériában, ahol érdemes időt szánni a földszinti időszaki kiállítások alapos felfedezésére is.",
+            "ro": "Admirați arta contemporană finlandeză în această galerie elegantă, unde ar trebui să vă faceți timp pentru a explora expozițiile temporare de la parter.",
+            "en": "Admire contemporary Finnish art exhibits in this stylish gallery space, where you should take your time exploring the temporary displays on the ground floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Silkkisali",
+            "hu": "Silkkisali",
+            "ro": "Silkkisali",
+            "en": "Silkkisali"
+          },
+          "coords": [
+            25.037119,
+            60.28907
+          ],
+          "category": "cultural",
+          "arrive_at": "12:44",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erleben Sie lokale darstellende Kunst in diesem stimmungsvollen Kulturzentrum, und kommen Sie etwas früher, um sich vor Beginn der Show einen guten Platz zu sichern.",
+            "hu": "Élvezze a helyi előadó-művészetet ebben a hangulatos kulturális központban, és érkezzen egy kicsit korábban, hogy jó ülőhelyet találjon a délutáni műsorok előtt.",
+            "ro": "Experimentați artele spectacolului local în acest centru cultural plin de atmosferă și ajungeți puțin mai devreme pentru a vă asigura un loc bun înainte de spectacole.",
+            "en": "Experience local performing arts at this atmospheric cultural center, and arrive a bit early to secure a good seat before the engaging afternoon shows begin."
+          }
+        },
+        {
+          "name": {
+            "de": "Arkimeden ruuvi",
+            "hu": "Arkimeden ruuvi",
+            "ro": "Arkimeden ruuvi",
+            "en": "Arkimeden ruuvi"
+          },
+          "coords": [
+            25.039497,
+            60.288089
+          ],
+          "category": "landmark",
+          "arrive_at": "13:47",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Beobachten Sie diese faszinierende kinetische Wasserskulptur, die antike Ingenieurskunst zeigt, und betrachten Sie sie aus verschiedenen Blickwinkeln.",
+            "hu": "Figyelje meg ezt a lenyűgöző kinetikus víziszobrot, amely az ősi mérnöki tudományt mutatja be, és próbálja meg különböző szögekből megcsodálni egyedi kialakítását.",
+            "ro": "Observați această sculptură cinetică fascinantă care ilustrează ingineria antică și încercați să o priviți din diferite unghiuri pentru a-i aprecia designul unic.",
+            "en": "Observe this fascinating kinetic water sculpture showcasing ancient engineering, and try viewing it from different angles to fully appreciate its unique design."
+          }
+        },
+        {
+          "name": {
+            "de": "Science Center Heureka",
+            "hu": "Science Center Heureka",
+            "ro": "Science Center Heureka",
+            "en": "Science Center Heureka"
+          },
+          "coords": [
+            25.040477,
+            60.2875
+          ],
+          "category": "museum",
+          "arrive_at": "14:04",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.08,
+          "tip_5lang": {
+            "de": "Beschäftigen Sie sich mit interaktiven wissenschaftlichen Ausstellungen für alle Altersgruppen und priorisieren Sie die Planetariumsshows für eine spektakuläre Reise.",
+            "hu": "Vegyen részt a minden korosztály számára szórakoztató interaktív tudományos kiállításokon, és mindenképpen nézze meg a lenyűgöző látványt nyújtó planetáriumi műsorokat.",
+            "ro": "Interacționați cu expoziții științifice distractive pentru toate vârstele și acordați prioritate spectacolelor de la planetariu, care oferă o călătorie vizuală spectaculoasă.",
+            "en": "Engage with interactive science exhibits that are fun for all ages, and prioritize the planetarium shows which offer a spectacular and educational visual journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Theater of Tikkurila",
+            "hu": "Theater of Tikkurila",
+            "ro": "Theater of Tikkurila",
+            "en": "Theater of Tikkurila"
+          },
+          "coords": [
+            25.043944,
+            60.289549
+          ],
+          "category": "cultural",
+          "arrive_at": "15:49",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Rundgang an diesem zentralen Theater, das für hervorragende lokale Stücke bekannt ist, und buchen Sie Ihre Tickets am besten im Voraus.",
+            "hu": "Zárja a gyalogos túrát ebben a kiváló helyi darabjairól ismert központi színházban, és fontolja meg a jegyek elővételét, hogy biztosan részt vehessen az előadáson.",
+            "ro": "Încheiați-vă turul pietonal la acest teatru central cunoscut pentru piesele locale excelente și luați în considerare rezervarea biletelor în avans pentru a vă asigura locul.",
+            "en": "Conclude your walking tour at this central theater known for excellent local plays, and consider booking your tickets well in advance to ensure availability."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit lokaler Geschichte im Stadtmuseum und zeitgenössischer Kunst in der Galleria K. Mittags erreichen Sie das kulturelle Zentrum von Tikkurila mit Theatervorführungen im Silkkisali. Verbringen Sie den Nachmittag damit, die archimedische Schraube zu bestaunen und interaktive Ausstellungen im Heureka zu erleben. Der Abend endet am renommierten Tikkurila-Theater.",
+        "hu": "Kezdje a reggelt a helyi történelem megismerésével a városi múzeumban és a kortárs művészetek felfedezésével a Galleria K-ban. Délben Tikkurila kulturális szívébe érkezik, ahol a Silkkisali színházi előadásai várják. Délután csodálja meg Arkhimédész csavarját, és fedezze fel a Heureka interaktív kiállításait. Az estét a híres Tikkurila Színházban zárhatja kellemes hangulatban.",
+        "ro": "Începeți dimineața explorând istoria locală la muzeul orașului și artele vizuale contemporane la Galeria K. La prânz, ajungeți în inima culturală din Tikkurila pentru spectacole la Silkkisali. Petreceți după-amiaza admirând șurubul lui Arhimede și interacționând cu expozițiile remarcabile de la Heureka. Seara se încheie la renumitul Teatru din Tikkurila, savurând o piesă excelentă.",
+        "en": "Start your morning delving into local history at the city museum and exploring contemporary visual arts at Galleria K. Midday brings you to the cultural heart of Tikkurila with atmospheric theater performances at Silkkisali. Spend your afternoon marveling at Archimedes' screw and engaging with world-class interactive exhibits at Heureka. The evening concludes at the renowned Tikkurila Theater."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:41",
+      "total_km": 8.15,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Koivuhaan arboretum",
+            "hu": "Koivuhaan arboretum",
+            "ro": "Koivuhaan arboretum",
+            "en": "Koivuhaan arboretum"
+          },
+          "coords": [
+            25.007607,
+            60.305296
+          ],
+          "category": "park",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Radtag mit der Erkundung der vielfältigen Baumarten in diesem friedlichen Park und bleiben Sie auf den markierten Wegen, um die Flora zu schützen.",
+            "hu": "Kezdje a kerékpározást a változatos fafajok felfedezésével ebben a békés parkban, és maradjon a kijelölt kavicsos ösvényeken a törékeny növényvilág védelme érdekében.",
+            "ro": "Începeți ziua de ciclism explorând speciile diverse de copaci din acest parc liniștit și rămâneți pe potecile de pietriș desemnate pentru a proteja flora delicată.",
+            "en": "Start your cycling day exploring the diverse tree species in this peaceful park, and stay on the designated gravel paths to protect the delicate flora around you."
+          }
+        },
+        {
+          "name": {
+            "de": "Joukkohaudan muistomerkki",
+            "hu": "Joukkohaudan muistomerkki",
+            "ro": "Joukkohaudan muistomerkki",
+            "en": "Joukkohaudan muistomerkki"
+          },
+          "coords": [
+            25.015665,
+            60.274724
+          ],
+          "category": "historical",
+          "arrive_at": "10:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.4,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem ergreifenden historischen Massengrab-Mahnmal inne und nehmen Sie sich einen Moment Zeit, um die Informationstafeln über die lokale Geschichte zu lesen.",
+            "hu": "Emlékezzen meg a múlt eseményeiről ennél a megrendítő történelmi tömegsír-emlékműnél, és szánjon egy percet a helyi történelmet részletező információs táblák elolvasására.",
+            "ro": "Reflectați la acest memorial istoric emoționant al unei gropi comune și faceți-vă timp să citiți plăcile informative care detaliază istoria locală solemnă a zonei.",
+            "en": "Reflect at this poignant historical mass grave memorial, and take a moment to read the informational plaques that detail the solemn local history of the area."
+          }
+        },
+        {
+          "name": {
+            "de": "Silkkisali",
+            "hu": "Silkkisali",
+            "ro": "Silkkisali",
+            "en": "Silkkisali"
+          },
+          "coords": [
+            25.037119,
+            60.28907
+          ],
+          "category": "cultural",
+          "arrive_at": "12:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erleben Sie lokale darstellende Kunst in diesem stimmungsvollen Kulturzentrum, und kommen Sie etwas früher, um sich vor Beginn der Show einen guten Platz zu sichern.",
+            "hu": "Élvezze a helyi előadó-művészetet ebben a hangulatos kulturális központban, és érkezzen egy kicsit korábban, hogy jó ülőhelyet találjon a délutáni műsorok előtt.",
+            "ro": "Experimentați artele spectacolului local în acest centru cultural plin de atmosferă și ajungeți puțin mai devreme pentru a vă asigura un loc bun înainte de spectacole.",
+            "en": "Experience local performing arts at this atmospheric cultural center, and arrive a bit early to secure a good seat before the engaging afternoon shows begin."
+          }
+        },
+        {
+          "name": {
+            "de": "Science Center Heureka",
+            "hu": "Science Center Heureka",
+            "ro": "Science Center Heureka",
+            "en": "Science Center Heureka"
+          },
+          "coords": [
+            25.040477,
+            60.2875
+          ],
+          "category": "museum",
+          "arrive_at": "13:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Beschäftigen Sie sich mit interaktiven wissenschaftlichen Ausstellungen für alle Altersgruppen und priorisieren Sie die Planetariumsshows für eine spektakuläre Reise.",
+            "hu": "Vegyen részt a minden korosztály számára szórakoztató interaktív tudományos kiállításokon, és mindenképpen nézze meg a lenyűgöző látványt nyújtó planetáriumi műsorokat.",
+            "ro": "Interacționați cu expoziții științifice distractive pentru toate vârstele și acordați prioritate spectacolelor de la planetariu, care oferă o călătorie vizuală spectaculoasă.",
+            "en": "Engage with interactive science exhibits that are fun for all ages, and prioritize the planetarium shows which offer a spectacular and educational visual journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Vantaan Näyttämö",
+            "hu": "Vantaan Näyttämö",
+            "ro": "Vantaan Näyttämö",
+            "en": "Vantaan Näyttämö"
+          },
+          "coords": [
+            25.05726,
+            60.299042
+          ],
+          "category": "cultural",
+          "arrive_at": "15:06",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese lokale Bühne, die das Talent des Gemeinschaftstheaters präsentiert, und überprüfen Sie den Spielplan vorab online für mögliche Tagesveranstaltungen.",
+            "hu": "Látogasson el erre a helyi színpadra, amely közösségi színházi tehetségeket mutat be, és előzetesen ellenőrizze az online menetrendet egy nappali próba vagy esemény miatt.",
+            "ro": "Vizitați această scenă locală care prezintă talentul teatrului comunitar și verificați programul online în prealabil pentru a vă alinia vizita cu un eveniment de zi.",
+            "en": "Visit this local performing stage that showcases community theater talent, and check the schedule online beforehand to align your visit with a daytime rehearsal or event."
+          }
+        },
+        {
+          "name": {
+            "de": "Puistokulma",
+            "hu": "Puistokulma",
+            "ro": "Puistokulma",
+            "en": "Puistokulma"
+          },
+          "coords": [
+            25.044269,
+            60.303438
+          ],
+          "category": "cultural",
+          "arrive_at": "16:11",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour an diesem lebendigen Kultur- und Gemeindezentrum, wo Sie Ihr Fahrrad sicher am Eingang abstellen und eine wohlverdiente Erfrischung genießen können.",
+            "hu": "Fejezze be a kerékpártúrát ebben a nyüzsgő kulturális központban, ahol biztonságosan leparkolhatja kerékpárját a bejáratnál, és élvezhet egy jól megérdemelt frissítőt.",
+            "ro": "Încheiați turul cu bicicleta la acest centru cultural și comunitar vibrant, unde vă puteți parca bicicleta în siguranță la intrare și vă puteți bucura de o băutură răcoritoare.",
+            "en": "End your cycling tour at this vibrant community and cultural hub, where you can park your bike safely at the entrance and enjoy a well-deserved refreshment inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens zum friedlichen Arboretum Koivuhaan, bevor Sie ein historisches Denkmal besuchen. Fahren Sie mittags zurück ins lebhafte Zentrum, um die kulturellen Angebote des Silkkisali zu erleben. Der Nachmittag ist den interaktiven Wundern des Heureka Science Centers gewidmet. Beenden Sie Ihren aktiven Tag in lokalen Gemeindezentren und entspannen Sie sich im Puistokulma.",
+        "hu": "Tekerjen be a reggelbe a békés Koivuhaan arborétumban, mielőtt meglátogatna egy megható történelmi emlékművet. Délben kerékpározzon vissza a nyüzsgő központba, hogy élvezze a Silkkisali kulturális kínálatát. A délutánt a Heureka Tudományos Központ hatalmas és interaktív csodáinak szenteljük. Fejezze be aktív napját a helyi közösségi terekben, lazítva a Puistokulma hangulatos falai között.",
+        "ro": "Pedalați dimineața în liniștitul arboret Koivuhaan înainte de a vizita un memorial istoric emoționant. Până la prânz, întoarceți-vă în centrul animat pentru a experimenta ofertele culturale de la Silkkisali. După-amiaza este dedicată minunilor interactive de la Centrul Științific Heureka. Încheiați-vă ziua activă la hub-urile comunitare locale, relaxându-vă în atmosfera vibrantă de la Puistokulma.",
+        "en": "Pedal into the morning at the peaceful Koivuhaan arboretum before visiting a poignant historical memorial. By midday, cycle back towards the lively center to experience the cultural offerings of Silkkisali. The afternoon is dedicated to the expansive and interactive wonders of the Heureka Science Center. Finish your active day at local community hubs, catching a play and relaxing at Puistokulma."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:56",
+      "total_km": 7.75,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Tapionranta",
+            "hu": "Tapionranta",
+            "ro": "Tapionranta",
+            "en": "Tapionranta"
+          },
+          "coords": [
+            25.086942,
+            60.322324
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Fahrt an diesem malerischen Ufererholungsgebiet und bringen Sie bequeme Wanderschuhe mit, um die kurzen Naturpfade am ruhigen Wasser zu genießen.",
+            "hu": "Kezdje az autós túrát ezen a festői folyóparti pihenőhelyen, és hozzon magával kényelmes sétálócipőt, hogy élvezhesse a csendes víz menti rövid természetjáró ösvényeket.",
+            "ro": "Începeți-vă plimbarea la această zonă de recreere pitorească de pe malul râului și aduceți încălțăminte confortabilă pentru a vă bucura de traseele naturale de-a lungul apei.",
+            "en": "Kick off your drive at this scenic riverside recreational area, and bring some comfortable walking shoes to enjoy the short nature trails along the peaceful water."
+          }
+        },
+        {
+          "name": {
+            "de": "Puistokulma",
+            "hu": "Puistokulma",
+            "ro": "Puistokulma",
+            "en": "Puistokulma"
+          },
+          "coords": [
+            25.044269,
+            60.303438
+          ],
+          "category": "cultural",
+          "arrive_at": "10:17",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour an diesem lebendigen Kultur- und Gemeindezentrum, wo Sie Ihr Fahrrad sicher am Eingang abstellen und eine wohlverdiente Erfrischung genießen können.",
+            "hu": "Fejezze be a kerékpártúrát ebben a nyüzsgő kulturális központban, ahol biztonságosan leparkolhatja kerékpárját a bejáratnál, és élvezhet egy jól megérdemelt frissítőt.",
+            "ro": "Încheiați turul cu bicicleta la acest centru cultural și comunitar vibrant, unde vă puteți parca bicicleta în siguranță la intrare și vă puteți bucura de o băutură răcoritoare.",
+            "en": "End your cycling tour at this vibrant community and cultural hub, where you can park your bike safely at the entrance and enjoy a well-deserved refreshment inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Vantaan kaupunginmuseo",
+            "hu": "Vantaan kaupunginmuseo",
+            "ro": "Vantaan kaupunginmuseo",
+            "en": "Vantaan kaupunginmuseo"
+          },
+          "coords": [
+            25.043051,
+            60.290861
+          ],
+          "category": "museum",
+          "arrive_at": "11:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte Vantaas in diesem ehemaligen Bahnhofsgebäude und holen Sie sich unbedingt einen kostenlosen Audioguide für tiefere Einblicke.",
+            "hu": "Fedezze fel Vantaa gazdag történelmét ebben a volt állomásépületben, és mindenképpen kérjen ingyenes audioguide-ot a helyi kulturális örökség megismeréséhez.",
+            "ro": "Descoperiți istoria bogată a orașului Vantaa în această fostă gară și asigurați-vă că luați un ghid audio gratuit pentru o experiență culturală mai profundă.",
+            "en": "Discover Vantaa's rich history in this former station building, and make sure to grab a free audio guide for a deeper dive into local cultural heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Arkimeden ruuvi",
+            "hu": "Arkimeden ruuvi",
+            "ro": "Arkimeden ruuvi",
+            "en": "Arkimeden ruuvi"
+          },
+          "coords": [
+            25.039497,
+            60.288089
+          ],
+          "category": "landmark",
+          "arrive_at": "13:02",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Beobachten Sie diese faszinierende kinetische Wasserskulptur, die antike Ingenieurskunst zeigt, und betrachten Sie sie aus verschiedenen Blickwinkeln.",
+            "hu": "Figyelje meg ezt a lenyűgöző kinetikus víziszobrot, amely az ősi mérnöki tudományt mutatja be, és próbálja meg különböző szögekből megcsodálni egyedi kialakítását.",
+            "ro": "Observați această sculptură cinetică fascinantă care ilustrează ingineria antică și încercați să o priviți din diferite unghiuri pentru a-i aprecia designul unic.",
+            "en": "Observe this fascinating kinetic water sculpture showcasing ancient engineering, and try viewing it from different angles to fully appreciate its unique design."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalkkikallion luonnonsuojelualue",
+            "hu": "Kalkkikallion luonnonsuojelualue",
+            "ro": "Kalkkikallion luonnonsuojelualue",
+            "en": "Kalkkikallion luonnonsuojelualue"
+          },
+          "coords": [
+            25.065635,
+            60.276862
+          ],
+          "category": "natural",
+          "arrive_at": "13:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Wandern Sie durch das zerklüftete Gelände dieses geschützten Kalksteinhügels und achten Sie auf unebenen felsigen Abschnitten auf Ihre Schritte, während Sie die weite Aussicht genießen.",
+            "hu": "Túrázzon ezen a védett mészkőhegyi területen, és óvatosan lépkedjen az egyenetlen sziklás szakaszokon, miközben élvezi a kiterjedt, magaslati kilátást a környékre.",
+            "ro": "Faceți o drumeție pe terenul accidentat al acestui deal protejat de calcar și aveți grijă la secțiunile stâncoase inegale în timp ce vă bucurați de priveliștile extinse.",
+            "en": "Hike the rugged terrain of this protected limestone hill area, and watch your step carefully on the uneven rocky sections while enjoying the expansive elevated views."
+          }
+        },
+        {
+          "name": {
+            "de": "Roosinmäen luonnonsuojelualue",
+            "hu": "Roosinmäen luonnonsuojelualue",
+            "ro": "Roosinmäen luonnonsuojelualue",
+            "en": "Roosinmäen luonnonsuojelualue"
+          },
+          "coords": [
+            25.072805,
+            60.274026
+          ],
+          "category": "natural",
+          "arrive_at": "14:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses wunderschöne Naturschutzgebiet, das für seine unberührte Waldumgebung bekannt ist, und bleiben Sie auf den markierten Wegen, um das Ökosystem zu erhalten.",
+            "hu": "Fedezze fel ezt a gyönyörű, érintetlen erdei környezetéről ismert természetvédelmi területet, és szigorúan maradjon a kijelölt ösvényeken a helyi ökoszisztéma megóvása érdekében.",
+            "ro": "Descoperiți această rezervație naturală superbă, cunoscută pentru mediul său forestier imaculat, și rămâneți pe traseele marcate pentru a păstra ecosistemul local sensibil.",
+            "en": "Discover this beautiful nature reserve known for its pristine forest environment, and stick closely to the marked trails to preserve the sensitive local ecosystem."
+          }
+        },
+        {
+          "name": {
+            "de": "Leo's Helsinki, Outlet",
+            "hu": "Leo's Helsinki, Outlet",
+            "ro": "Leo's Helsinki, Outlet",
+            "en": "Leo's Helsinki, Outlet"
+          },
+          "coords": [
+            25.081197,
+            60.27536
+          ],
+          "category": "family",
+          "arrive_at": "15:56",
+          "stay_min": 120,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Roadtrip mit endlosem Spaß in diesem riesigen Indoor-Familienunterhaltungszentrum und denken Sie an rutschfeste Socken, die für die Spielbereiche erforderlich sind.",
+            "hu": "Zárja az autós kirándulást ebben a hatalmas fedett családi szórakoztatóközpontban, és ne felejtsen el csúszásgátló zoknit hozni, mivel ez kötelező a játszótereken.",
+            "ro": "Încheiați excursia cu mașina cu distracție nesfârșită la acest centru imens de divertisment de familie și nu uitați să aduceți șosete antiderapante pentru zonele de joacă.",
+            "en": "Conclude your road trip with endless fun at this massive indoor family entertainment center, and remember to bring grip socks as they are required for the play areas."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens für einen Spaziergang am Flussufer zum Tapionranta und erkunden Sie dann die Gemeindekultur im Puistokulma. Ihr Mittag ist gefüllt mit Geschichte im Stadtmuseum Vantaa und einem Stopp an einem einzigartigen kinetischen Wahrzeichen. Wandern Sie nachmittags durch zwei verschiedene Naturschutzgebiete. Am Abend kann sich die ganze Familie in Leos Spielland entspannen.",
+        "hu": "Autózzon fel a Tapionrantához egy frissítő folyóparti reggeli sétára, majd induljon délre a Puistokulma felfedezésére. A délidőt a Vantaa Városi Múzeum történelme és egy egyedülálló kinetikus nevezetesség tölti ki. Délután túrázzon két különböző helyi természetvédelmi terület vadregényes ösvényein. Ahogy közeledik az este, hagyja, hogy az egész család kikapcsolódjon a Leo's játszóházban.",
+        "ro": "Conduceți până la Tapionranta pentru o plimbare matinală pe malul râului, apoi mergeți spre sud spre Puistokulma. Prânzul este plin de istorie la Muzeul Orașului Vantaa și o oprire la un reper cinetic unic. Petreceți după-amiaza făcând drumeții pe traseele accidentate a două rezervații naturale locale distincte. Pe măsură ce se apropie seara, lăsați întreaga familie să se relaxeze la Leo's.",
+        "en": "Drive up to Tapionranta for a refreshing riverside morning walk, then head south to explore the community culture at Puistokulma. Your midday is filled with history at the Vantaa City Museum and a quick stop at a unique kinetic landmark. Spend the afternoon hiking through the rugged trails of two distinct local nature reserves. As evening approaches, let the whole family unwind at Leo's Playland."
+      }
+    }
+  }
+}

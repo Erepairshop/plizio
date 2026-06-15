@@ -1,0 +1,474 @@
+{
+  "city_id": "greece-varvara-cities-v2",
+  "anchor": {
+    "name": "Varvara",
+    "coords": [
+      20.70252,
+      37.89767
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:14",
+      "total_km": 3.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Askos Stone Park",
+            "hu": "Askos Kőpark",
+            "ro": "Askos Stone Park",
+            "en": "Askos Stone Park"
+          },
+          "coords": [
+            20.700473,
+            37.897716
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die einheimische Flora und Fauna in diesem weitläufigen Naturreservat und bringen Sie bequeme Schuhe für die felsigen Wege mit.",
+            "hu": "Fedezze fel az őshonos növény- és állatvilágot ebben a kiterjedt természetvédelmi területen, és viseljen kényelmes cipőt a sziklás ösvényeken.",
+            "ro": "Descoperiți flora și fauna nativă în această rezervație naturală vastă și asigurați-vă că aveți încălțăminte confortabilă pentru cărările stâncoase.",
+            "en": "Discover the native flora and fauna in this expansive natural reserve, and bring comfortable shoes for the rocky pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Nikolaos-Volimes Strand",
+            "hu": "Agios Nikolaos-Volimes strand",
+            "ro": "Plaja Agios Nikolaos-Volimes",
+            "en": "Agios Nikolaos-Volimes beach"
+          },
+          "coords": [
+            20.705651,
+            37.9075
+          ],
+          "category": "recreational",
+          "arrive_at": "10:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.17,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den Kieselstränden dieser ruhigen Bucht, wo das kristallklare Wasser perfekt für ein erfrischendes Bad zur Mittagszeit ist.",
+            "hu": "Pihenjen meg ennek a csendes öbölnek a kavicsos partján, ahol a kristálytiszta víz tökéletes egy frissítő déli úszáshoz.",
+            "ro": "Relaxați-vă pe malurile cu pietriș ale acestui golf liniștit, unde apele cristaline sunt perfecte pentru o înotare revigorantă la prânz.",
+            "en": "Relax on the pebbled shores of this tranquil bay, where the crystal-clear waters are perfect for a refreshing midday swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Madrakia Strand",
+            "hu": "Madrakia strand",
+            "ro": "Plaja Madrakia",
+            "en": "Madrakia Beach"
+          },
+          "coords": [
+            20.708809,
+            37.904574
+          ],
+          "category": "recreational",
+          "arrive_at": "12:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.42,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre dieser abgelegenen Bucht und denken Sie daran, eigenes Wasser und Snacks einzupacken, da es kaum Einrichtungen gibt.",
+            "hu": "Élvezze a félreeső öböl nyugodt hangulatát, és mindenképpen hozzon magával vizet és harapnivalót, mivel a szolgáltatások korlátozottak.",
+            "ro": "Bucurați-vă de atmosfera senină a acestui golf retras și asigurați-vă că aveți la voi apă și gustări, deoarece facilitățile sunt limitate.",
+            "en": "Enjoy the serene atmosphere of this secluded cove, and make sure to pack your own water and snacks as amenities are limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Vardiola von Agios Nikolaos",
+            "hu": "Agios Nikolaos Vardiola",
+            "ro": "Vardiola din Agios Nikolaos",
+            "en": "Vardiola of Agios Nikolaos"
+          },
+          "coords": [
+            20.712218,
+            37.905758
+          ],
+          "category": "castle",
+          "arrive_at": "13:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diesen historischen venezianischen Wachturm für einen Panoramablick auf die Küste und halten Sie Ihre Kamera für atemberaubende Landschaftsaufnahmen bereit.",
+            "hu": "Másszon fel erre a történelmi velencei őrtoronyra, ahonnan panorámás kilátás nyílik a partra, és tartsa készenlétben a fényképezőgépét a lenyűgöző felvételekhez.",
+            "ro": "Urcați la acest turn de veghe venețian istoric pentru a admira priveliștile panoramice ale coastei, ținând aparatul foto pregătit pentru cadre uimitoare.",
+            "en": "Climb up to this historic Venetian watchtower for panoramic views of the coastline, keeping your camera ready for stunning landscape shots."
+          }
+        },
+        {
+          "name": {
+            "de": "Windmühle",
+            "hu": "Szélmalom",
+            "ro": "Moara de vânt",
+            "en": "Wind mill"
+          },
+          "coords": [
+            20.700379,
+            37.911777
+          ],
+          "category": "historical",
+          "arrive_at": "14:24",
+          "stay_min": 110,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 1.22,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle Architektur dieser restaurierten Windmühle und planen Sie Ihren Besuch so, dass Sie das spektakuläre Licht der goldenen Stunde einfangen.",
+            "hu": "Vizsgálja meg ennek a felújított szélmalomnak a hagyományos építészetét, és időzítse a látogatást úgy, hogy elcsípje a lenyűgöző aranyórai fényeket a kőszerkezeten.",
+            "ro": "Examinați arhitectura tradițională a acestei mori de vânt restaurate și programați-vă vizita pentru a prinde lumina spectaculoasă a orei de aur pe structura de piatră.",
+            "en": "Examine the traditional architecture of this restored windmill, and time your visit to catch the spectacular golden hour light against the stone structure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im Askos Stone Park, einem beeindruckenden Wildtier- und Botanikreservat. Hier können Sie die natürliche Landschaft von Zakynthos hautnah erleben. Nach einer gemütlichen Erkundung der Flora und Fauna laufen Sie in Richtung der erfrischenden Meeresbrise.\nGegen Mittag erreichen Sie den Strand Agios Nikolaos-Volimes, ideal um auf den Kieseln zu entspannen und ins Ionische Meer einzutauchen. Nach dem Schwimmen führt ein kurzer Spaziergang zum abgelegeneren Madrakia-Strand für eine friedliche Nachmittagspause.\nDie Wanderung führt weiter entlang der malerischen Küste hinauf zur Vardiola von Agios Nikolaos. Dieser historische venezianische Wachturm lädt Sie ein, in die Vergangenheit einzutauchen und die atemberaubende Aussicht auf das weite Meer zu bewundern.\nIhr Rundgang endet an der traditionellen Windmühle, einem wunderschönen Relikt der landwirtschaftlichen Vergangenheit der Insel. Sie hebt sich elegant vom Abendhimmel ab und bietet einen ruhigen Abschluss eines wunderbaren Tages zu Fuß.",
+        "hu": "A nap az Askos Kőparkban kezdődik, egy lenyűgöző vadasparkban és botanikus kertben, ahol kapcsolatba léphet Zakynthos természetével. A növény- és állatvilág ráérős felfedezése után egy rövid sétával eléri a hűsítő parti tengeri szellőt.\nDélben eléri az Agios Nikolaos-Volimes strandot, amely tökéletes hely a kavicsokon való pihenésre és a Jón-tengerben való megmártózásra. Egy frissítő úszás után egy rövid séta elviszi a félreesőbb Madrakia strandra egy nyugodt pihenőre.\nA séta a festői partvidék mentén folytatódik fel az Agios Nikolaos Vardiola felé. Ez a történelmi velencei őrtorony visszarepíti az időben, és lenyűgöző panorámás kilátást kínál a horizont felé nyúló végtelen óceánra.\nA séta a hagyományos szélmalomnál ér véget, amely a sziget mezőgazdasági múltjának gyönyörű emléke. Az esti égbolt hátterében elegánsan magasodva romantikus és nyugodt lezárást nyújt a régió gyalogos felfedezésének.",
+        "ro": "Ziua începe la Askos Stone Park, o rezervație botanică și de animale sălbatice impresionantă. Aici vă puteți conecta cu peisajul natural din Zakynthos. După o explorare relaxantă a florei și faunei, veți merge la scurtă distanță spre briza coastei.\nLa prânz, ajungeți la plaja Agios Nikolaos-Volimes, un loc perfect pentru a vă relaxa pe pietriș și a face o baie în Marea Ionică. După o înotare revigorantă, o scurtă plimbare vă duce la plaja Madrakia, mai retrasă, pentru o pauză liniștită.\nPlimbarea continuă de-a lungul coastei pitorești până la Vardiola din Agios Nikolaos. Acest turn de veghe venețian istoric vă invită să faceți un pas înapoi în timp și să admirați priveliștile panoramice ale oceanului spre orizont.\nTurul de plimbare se încheie la Moara de vânt tradițională, o rămășiță frumoasă a trecutului agricol al insulei. Profilându-se elegant pe cerul de seară, oferă un final romantic și liniștit unei zile minunate de explorare la pas.",
+        "en": "Your day begins at the Askos Stone Park, an impressive wildlife and botanical reserve where you can connect with the natural landscape of Zakynthos. After a leisurely exploration of the flora and fauna, you'll walk a short distance down toward the coastal breeze.\nBy noon, you arrive at Agios Nikolaos-Volimes beach, a perfect spot to relax on the pebbles and dive into the refreshing Ionian Sea. Following a reviving swim, a short stroll takes you to the more secluded Madrakia Beach for a peaceful afternoon break.\nThe walk continues along the scenic coastline up towards the Vardiola of Agios Nikolaos. This historic Venetian watchtower invites you to step back in time and marvel at the panoramic ocean vistas stretching out toward the horizon.\nYour walking tour concludes at the traditional Wind mill, a beautiful remnant of the island's agricultural past. Standing elegantly against the evening sky, it offers a romantic and tranquil ending to a wonderful day exploring the region on foot."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:34",
+      "total_km": 6.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Askos Stone Park",
+            "hu": "Askos Kőpark",
+            "ro": "Askos Stone Park",
+            "en": "Askos Stone Park"
+          },
+          "coords": [
+            20.700473,
+            37.897716
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Tour mit einem Spaziergang durch dieses Tierschutzgebiet und schließen Sie Ihr Fahrrad am Haupteingang sicher ab.",
+            "hu": "Kezdje túráját egy sétával ebben a vadasparkban, és ügyeljen arra, hogy kerékpárját biztonságosan lezárja a főbejáratnál.",
+            "ro": "Începeți plimbarea cu o vizită în acest sanctuar de animale și asigurați-vă că vă blocați bicicleta în siguranță la intrarea principală.",
+            "en": "Start your ride with a stroll through this wildlife sanctuary, making sure to lock your bike securely at the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kremidi Strand",
+            "hu": "Kremidi strand",
+            "ro": "Plaja Kremidi",
+            "en": "Kremidi beach"
+          },
+          "coords": [
+            20.714822,
+            37.891151
+          ],
+          "category": "recreational",
+          "arrive_at": "10:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.43,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause an diesem versteckten Juwel mit auffallend blauem Wasser, aber seien Sie vorsichtig auf der steilen Abfahrt mit Ihrem Fahrrad.",
+            "hu": "Tartsanak pihenőt ezen a lenyűgöző kék vizű rejtett gyöngyszemen, de legyen óvatos a meredek lejtős kerékpáros megközelítésnél.",
+            "ro": "Faceți o pauză la această bijuterie ascunsă cu ape de un albastru izbitor, dar fiți precauți pe coborârea abruptă cu bicicleta.",
+            "en": "Take a break at this hidden gem with striking blue waters, but be cautious on the steep downhill approach with your bicycle."
+          }
+        },
+        {
+          "name": {
+            "de": "Vathi Lagadi Strand",
+            "hu": "Vathi Lagadi strand",
+            "ro": "Plaja Vathi Lagadi",
+            "en": "Vathi Lagadi beach"
+          },
+          "coords": [
+            20.715289,
+            37.889753
+          ],
+          "category": "recreational",
+          "arrive_at": "11:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die dramatischen Felsformationen rund um diesen kleinen Strand und tragen Sie feste Wasserschuhe für den felsigen Meeresboden.",
+            "hu": "Csodálja meg a drámai sziklaalakzatokat e kis strand körül, és viseljen erős vizicipőt a sziklás tengerfenék miatt.",
+            "ro": "Minunați-vă de formațiunile stâncoase dramatice din jurul acestei plaje mici și purtați încălțăminte de apă rezistentă pentru fundul stâncos al mării.",
+            "en": "Marvel at the dramatic rock formations surrounding this tiny beach, and wear sturdy water shoes for the rocky seabed."
+          }
+        },
+        {
+          "name": {
+            "de": "Vardiola von Mikro Nisi",
+            "hu": "Mikro Nisi Vardiola",
+            "ro": "Vardiola din Mikro Nisi",
+            "en": "Vardiola of Mikro Nisi"
+          },
+          "coords": [
+            20.722787,
+            37.883312
+          ],
+          "category": "castle",
+          "arrive_at": "13:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.96,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieses alten maritimen Aussichtspunkts und achten Sie auf das unebene Gelände auf der Suche nach dem besten Aussichtspunkt.",
+            "hu": "Fedezze fel ennek az ősi tengeri kilátónak a romjait, ügyelve az egyenetlen terepre, miközben a legjobb kilátópontot keresi.",
+            "ro": "Explorați ruinele acestui vechi punct de observație maritim, având grijă la terenul accidentat în timp ce căutați cel mai bun unghi de vizualizare.",
+            "en": "Explore the ruins of this ancient maritime lookout, taking care on the uneven terrain as you search for the best vantage point."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Nikolaos-Volimes Strand",
+            "hu": "Agios Nikolaos-Volimes strand",
+            "ro": "Plaja Agios Nikolaos-Volimes",
+            "en": "Agios Nikolaos-Volimes beach"
+          },
+          "coords": [
+            20.705651,
+            37.9075
+          ],
+          "category": "recreational",
+          "arrive_at": "14:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.05,
+          "tip_5lang": {
+            "de": "Radeln Sie entlang der Küstenstraße zu diesem belebten Hafenstrand, wo Sie leicht lokale Tavernen für einen Nachmittagssnack finden können.",
+            "hu": "Tekerjen végig a parti úton, hogy elérje ezt a nyüzsgő kikötői strandot, ahol könnyen talál helyi tavernákat egy késő délutáni harapnivalóhoz.",
+            "ro": "Pedalați de-a lungul drumului de coastă pentru a ajunge la această plajă animată din port, unde puteți găsi cu ușurință taverne locale pentru o gustare.",
+            "en": "Pedal along the coastal road to reach this bustling harbor beach, where you can easily find local tavernas for a late afternoon snack."
+          }
+        },
+        {
+          "name": {
+            "de": "Vardiola von Agios Nikolaos",
+            "hu": "Agios Nikolaos Vardiola",
+            "ro": "Vardiola din Agios Nikolaos",
+            "en": "Vardiola of Agios Nikolaos"
+          },
+          "coords": [
+            20.712218,
+            37.905758
+          ],
+          "category": "castle",
+          "arrive_at": "15:24",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour an diesem malerischen Turm, der eine fantastische Kulisse für ein unvergessliches Sonnenuntergangsfoto über dem Ionischen Meer bietet.",
+            "hu": "Fejezze be kerékpártúráját ennél a festői toronynál, amely fantasztikus hátteret kínál egy emlékezetes naplemente fotóhoz a Jón-tenger felett.",
+            "ro": "Încheiați-vă călătoria cu bicicleta la acest turn pitoresc, care oferă un fundal fantastic pentru o fotografie memorabilă la apus de soare peste Marea Ionică.",
+            "en": "End your cycling journey at this picturesque tower, offering a fantastic backdrop for a memorable sunset photograph over the Ionian Sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour im weitläufigen Askos Stone Park und atmen Sie die frische Morgenluft inmitten der heimischen Tierwelt ein. Von dort aus radeln Sie über malerische Wege hinunter zu den versteckten, atemberaubenden Ufern des Kremidi-Strandes.\nDie Mittagssonne führt Sie weiter an der Küste entlang zum Strand Vathi Lagadi, einer idyllischen Bucht für ein kühlendes Bad. Nach der Entspannung radeln Sie zur Südspitze, um die Ruinen der Vardiola von Mikro Nisi zu erkunden.\nWenn Sie auf den schönen Küstenstraßen nach Norden zurückradeln, finden Sie den belebten Strand Agios Nikolaos-Volimes. Es ist ein hervorragender Ort, um die Fischerboote zu beobachten und die lebhafte Hafenatmosphäre zu genießen.\nIhr aktiver Tag endet an der Vardiola von Agios Nikolaos. Dieser alte maritime Aussichtspunkt bietet einen fantastischen Blick auf den Sonnenuntergang und belohnt Ihre Radtour mit unvergesslichen goldfarbenen Aussichten auf das Ionische Meer.",
+        "hu": "Kezdje kerékpártúráját a kiterjedt Askos Kőparkban, és szívja magába a friss reggeli levegőt a helyi vadvilág körében. Innen pattanjon nyeregbe, és navigáljon a festői ösvényeken a Kremidi strand lélegzetelállító, rejtett partjaihoz.\nA déli napsütés tovább vezeti a part mentén a Vathi Lagadi strandhoz, egy idilli öbölhöz, amely tökéletes egy hűsítő úszáshoz. A sziklaalakzatoknál való pihenés után a déli csücsök felé teker, hogy felfedezze a Mikro Nisi Vardiola romjait.\nAhogy észak felé teker vissza a gyönyörű parti utakon, rátalál a nyüzsgő Agios Nikolaos-Volimes strandra. Kiváló hely arra, hogy megfigyelje a helyi halászhajókat, miközben élvezi a kikötő élénk, napfényes hangulatát.\nAz aktív nap az Agios Nikolaos Vardiolánál zárul. Ez az ősi tengeri kilátó kivételes kilátást nyújt a naplementére, felejthetetlen, aranyba hajló látvánnyal jutalmazva kerékpáros erőfeszítéseit a végtelen Jón-tenger felett.",
+        "ro": "Începeți călătoria cu bicicleta la vastul Askos Stone Park, respirând aerul proaspăt al dimineții printre animalele sălbatice. De acolo, urcați pe bicicletă și navigați pe traseele pitorești până la țărmurile ascunse și uluitoare ale plajei Kremidi.\nSoarele amiezii vă ghidează mai departe de-a lungul coastei spre plaja Vathi Lagadi, un golf idilic perfect pentru o baie răcoroasă. După relaxare, veți pedala spre vârful sudic pentru a explora ruinele Vardiolei din Mikro Nisi.\nPedalând înapoi spre nord pe frumoasele drumuri de coastă, veți găsi plaja animată Agios Nikolaos-Volimes. Este un loc excelent pentru a urmări bărcile de pescuit locale bucurându-vă de atmosfera vibrantă a portului.\nZiua activă se încheie la Vardiola din Agios Nikolaos. Acest vechi punct de observație maritim oferă un unghi excepțional pentru apusul soarelui, recompensându-vă eforturile cu priveliști aurii de neuitat asupra apelor ionice.",
+        "en": "Kick off your cycling journey at the expansive Askos Stone Park, breathing in the fresh morning air among native wildlife. From there, hop on your bike and navigate the scenic trails down to the breathtaking, hidden shores of Kremidi beach.\nThe midday sun guides you further along the coast to Vathi Lagadi beach, an idyllic cove perfect for a cooling swim. After relaxing by the dramatic rock formations, you will ride toward the southern tip to explore the ruins of Vardiola of Mikro Nisi.\nPedaling back north along the beautiful coastal roads, you'll find the bustling Agios Nikolaos-Volimes beach. It is an excellent spot to watch the local fishing boats come and go while enjoying the vibrant, sunny atmosphere of the harbor.\nYour active day wraps up at the Vardiola of Agios Nikolaos. This ancient maritime lookout provides an exceptional vantage point for the sunset, rewarding your cycling efforts with unforgettable, golden-hued views of the endless Ionian waters."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 8.66,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kloster Ag. Nikolaos",
+            "hu": "Ag. Nikolaos kolostor",
+            "ro": "Mănăstirea Ag. Nikolaos",
+            "en": "Ag. Nikolaos monastery"
+          },
+          "coords": [
+            20.675506,
+            37.892944
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die spirituelle Ruhe dieses byzantinischen Klosters und achten Sie auf angemessene Kleidung, die Schultern und Knie bedeckt.",
+            "hu": "Merüljön el ennek a bizánci kolostornak a spirituális békéjében, és ügyeljen a szerény öltözködésre, elfedve vállait és térdeit.",
+            "ro": "Cufundați-vă în pacea spirituală a acestei mănăstiri bizantine, asigurându-vă că vă îmbrăcați modest, acoperindu-vă umerii și genunchii.",
+            "en": "Immerse yourself in the spiritual peace of this Byzantine monastery, making sure to dress modestly by covering your shoulders and knees."
+          }
+        },
+        {
+          "name": {
+            "de": "Askos Stone Park",
+            "hu": "Askos Kőpark",
+            "ro": "Askos Stone Park",
+            "en": "Askos Stone Park"
+          },
+          "coords": [
+            20.700473,
+            37.897716
+          ],
+          "category": "recreational",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.25,
+          "tip_5lang": {
+            "de": "Fahren Sie bis zum Eingang dieses interaktiven Wildparks, wo Kinder und Erwachsene gleichermaßen Freude daran haben, die freilaufenden Hirsche und Pfaue zu füttern.",
+            "hu": "Hajtson fel ennek az interaktív vadasparknak a bejáratához, ahol gyerekek és felnőttek egyaránt élvezhetik a szabadon kószáló szarvasok és pávák etetését.",
+            "ro": "Conduceți până la intrarea acestui parc de viață sălbatică interactiv, unde atât copiii, cât și adulții se pot bucura hrănind căprioarele și păunii.",
+            "en": "Drive up to the entrance of this interactive wildlife park, where kids and adults alike can enjoy feeding the free-roaming deer and peacocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Kremidi Strand",
+            "hu": "Kremidi strand",
+            "ro": "Plaja Kremidi",
+            "en": "Kremidi beach"
+          },
+          "coords": [
+            20.714822,
+            37.891151
+          ],
+          "category": "recreational",
+          "arrive_at": "11:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.43,
+          "tip_5lang": {
+            "de": "Parken Sie an der Hauptstraße und gehen Sie den steilen Weg zu diesem ruhigen Kieselstrand hinunter. Bringen Sie einen Regenschirm mit, da es keinen natürlichen Schatten gibt.",
+            "hu": "Parkoljon a főúton, és sétáljon le a meredek ösvényen ehhez a csendes kavicsos strandhoz, és hozzon magával napernyőt, mivel nincs természetes árnyék.",
+            "ro": "Parcați pe drumul principal și coborâți pe poteca abruptă spre această plajă liniștită cu pietriș, aducând o umbrelă, deoarece nu există umbră naturală.",
+            "en": "Park on the main road and walk down the steep path to this quiet pebble beach, bringing an umbrella as there is no natural shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Vathi Lagadi Strand",
+            "hu": "Vathi Lagadi strand",
+            "ro": "Plaja Vathi Lagadi",
+            "en": "Vathi Lagadi beach"
+          },
+          "coords": [
+            20.715289,
+            37.889753
+          ],
+          "category": "recreational",
+          "arrive_at": "13:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Schwimmen Sie durch die faszinierenden Meereshöhlen in Küstennähe, aber achten Sie auf die gelegentlich starken Unterwasserströmungen in diesem Bereich.",
+            "hu": "Ússzon át a part közeli lenyűgöző tengeri barlangokon, de maradjon éber a területen időnként előforduló erős víz alatti áramlatok miatt.",
+            "ro": "Înotați prin peșterile marine captivante din apropierea țărmului, dar fiți atenți la curenții subacvatici puternici ocazionali din această zonă.",
+            "en": "Swim through the captivating sea caves near the shore, but stay alert for the occasional strong underwater currents in this area."
+          }
+        },
+        {
+          "name": {
+            "de": "Vardiola von Mikro Nisi",
+            "hu": "Mikro Nisi Vardiola",
+            "ro": "Vardiola din Mikro Nisi",
+            "en": "Vardiola of Mikro Nisi"
+          },
+          "coords": [
+            20.722787,
+            37.883312
+          ],
+          "category": "castle",
+          "arrive_at": "14:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.96,
+          "tip_5lang": {
+            "de": "Navigieren Sie über die kurvenreiche Küstenstraße, um diese historische Festung zu erreichen, die ein ununterbrochenes Panorama der Nachbarinseln bietet.",
+            "hu": "Navigáljon a kanyargós parti úton, hogy elérje ezt a történelmi erődítményt, amely zavartalan panorámát nyújt a szomszédos szigetekre.",
+            "ro": "Navigați pe drumul de coastă șerpuitor pentru a ajunge la această fortificație istorică, oferind o panoramă neîntreruptă a insulelor învecinate.",
+            "en": "Navigate the winding coastal road to reach this historical fortification, offering an uninterrupted panorama of the neighboring islands."
+          }
+        },
+        {
+          "name": {
+            "de": "Vardiola von Agios Nikolaos",
+            "hu": "Agios Nikolaos Vardiola",
+            "ro": "Vardiola din Agios Nikolaos",
+            "en": "Vardiola of Agios Nikolaos"
+          },
+          "coords": [
+            20.712218,
+            37.905758
+          ],
+          "category": "castle",
+          "arrive_at": "15:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.64,
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Abstecher zu diesem gut erhaltenen Aussichtsturm, einem perfekten Ort, um sich die Beine zu vertreten und die raue Nordküste zu bewundern.",
+            "hu": "Tegyen egy rövid kitérőt ehhez a jól megőrzött megfigyelőtoronyhoz, amely tökéletes hely a lábnyújtóztatásra és a zord északi partvidék megcsodálására.",
+            "ro": "Faceți un scurt ocol către acest turn de observație bine conservat, un loc perfect pentru a vă întinde picioarele și a admira coasta nordică accidentată.",
+            "en": "Take a short detour to this well-preserved observation tower, a perfect spot to stretch your legs and admire the rugged northern coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Windmühle",
+            "hu": "Szélmalom",
+            "ro": "Moara de vânt",
+            "en": "Wind mill"
+          },
+          "coords": [
+            20.700379,
+            37.911777
+          ],
+          "category": "historical",
+          "arrive_at": "15:55",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.22,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Roadtrip mit der Erkundung der klassischen Steinwindmühle und essen Sie anschließend in einer traditionellen griechischen Taverne im nahegelegenen Dorf zu Abend.",
+            "hu": "Zárja az autós túrát a klasszikus kő szélmalom felfedezésével, majd vacsorázzon meg a faluban található közeli hagyományos görög tavernában.",
+            "ro": "Încheiați excursia explorând moara de vânt clasică din piatră, apoi luați cina la o tavernă grecească tradițională din satul din apropiere.",
+            "en": "Conclude your road trip by exploring the classic stone windmill, then grab dinner at a nearby traditional Greek taverna in the village."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihr Abenteuer im friedlichen Kloster Ag. Nikolaos und genießen Sie die reiche byzantinische Geschichte. Eine kurze Fahrt bringt Sie dann in den lebhaften Askos Stone Park, der eine wunderbare Interaktion mit der lokalen Tierwelt bietet.\nSetzen Sie Ihren Roadtrip zur markanten Küste fort und halten Sie zuerst am ruhigen Strand Kremidi zur Entspannung. Nur eine kurze Fahrt entfernt liegt der Strand Vathi Lagadi, wo Sie im kristallklaren Wasser zwischen den Klippen schwimmen können.\nAm Nachmittag fahren Sie zur Vardiola von Mikro Nisi, um historische venezianische Ruinen mit Blick aufs Meer zu entdecken. Wenn Sie den Küstenkurven nach Norden folgen, erreichen Sie schnell die Vardiola von Agios Nikolaos.\nIhr Tagesausflug endet an der ikonischen Windmühle, die wunderschön erhalten in der Nähe des Dorfes steht. Genießen Sie das Sonnenlicht der goldenen Stunde, ein perfektes Finale vor dem Abendessen in einer lokalen Taverne.",
+        "hu": "Kezdje autós kalandját a békés Ag. Nikolaos kolostorban, ahol elmerülhet a gazdag bizánci történelemben. Egy rövid vezetés után a nyüzsgő Askos Kőparkba ér, amely csodálatos interakciót kínál a helyi vadvilággal.\nFolytassa útját a lenyűgöző partvidék felé, először a csendes Kremidi strandon megállva egy kis pihenésre. Csak egy rövid autóútra van a Vathi Lagadi strand, ahol a drámai sziklák közötti kristálytiszta vízben fürödhet.\nDélután autózzon át a Mikro Nisi Vardiolához, hogy felfedezze a tengerre néző történelmi velencei romokat. A parti kanyarokat észak felé követve hamarosan megérkezik egy másik történelmi gyöngyszemhez, az Agios Nikolaos Vardiolához.\nA kirándulás az ikonikus szélmalomnál ér véget, amely gyönyörűen megőrizve áll a falu közelében. Élvezze, ahogy az aranyóra napfénye lefesti a kőszerkezetet, mint tökéletes befejezést a vacsora előtt egy helyi tavernában.",
+        "ro": "Începeți aventura la volan la mănăstirea pașnică Ag. Nikolaos, absorbind atmosfera senină și istoria bizantină. Un scurt drum cu mașina vă aduce apoi la Askos Stone Park, oferind o interacțiune minunată cu fauna locală.\nContinuați excursia spre coasta impresionantă, oprind mai întâi la liniștita plajă Kremidi pentru relaxare. La o scurtă distanță se află plaja Vathi Lagadi, unde puteți înota în apele cristaline flancate de stânci.\nDupă-amiază, mergeți spre Vardiola din Mikro Nisi pentru a descoperi ruinele venețiene cu vedere la mare. Urmând curbele coastei spre nord, veți ajunge rapid la Vardiola din Agios Nikolaos, cu priveliști uimitoare.\nExcursia se încheie la iconica Moară de vânt, frumos conservată. Bucurați-vă de lumina soarelui de la ora de aur care pictează structura de piatră, un final perfect înainte de a merge la o tavernă locală pentru cină.",
+        "en": "Start your driving adventure at the peaceful Ag. Nikolaos monastery, soaking in the serene atmosphere and rich Byzantine history. A short drive then brings you to the vibrant Askos Stone Park, offering a wonderful interaction with the local wildlife.\nContinue your road trip to the striking coastline, stopping first at the quiet Kremidi beach for a moment of relaxation. Just a short drive away lies Vathi Lagadi beach, where you can swim in crystal-clear waters flanked by dramatic coastal cliffs.\nIn the afternoon, cruise over to the Vardiola of Mikro Nisi to discover historical Venetian ruins overlooking the sea. Following the coastal bends north, you'll quickly arrive at another historic gem, the Vardiola of Agios Nikolaos, with stunning views.\nYour day trip concludes at the iconic Wind mill, beautifully preserved and standing proudly near the village. Enjoy the golden hour sunlight painting the stone structure, a picture-perfect finale before heading to a local taverna for dinner."
+      }
+    }
+  }
+}

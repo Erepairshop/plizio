@@ -1,0 +1,520 @@
+{
+  "city_id": "spain-deba-cities-v2",
+  "anchor": {
+    "name": "Deba",
+    "coords": [
+      -2.35393,
+      43.29414
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:21",
+      "total_km": 2.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Udaletxea",
+            "hu": "Udaletxea",
+            "ro": "Udaletxea",
+            "en": "Udaletxea"
+          },
+          "coords": [
+            -2.354368,
+            43.294192
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Architektur dieses Rathauses, das die Verwaltung repräsentiert, und nutzen Sie das Morgenlicht für Fotos der klassischen Fassade.",
+            "hu": "Csodálja meg a baszk önkormányzatot képviselő központi városháza építészetét, és használja ki a reggeli fényviszonyokat a díszes homlokzat fotózásához.",
+            "ro": "Admirați arhitectura istorică a primăriei centrale care reprezintă guvernanța locală și profitați de lumina dimineții pentru a fotografia fațada sa ornamentată.",
+            "en": "Admire the beautiful historical architecture of this central town hall representing local Basque governance, and start your morning taking photos of its ornate classical facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Maria",
+            "hu": "Santa Maria",
+            "ro": "Santa Maria",
+            "en": "Santa Maria"
+          },
+          "coords": [
+            -2.353288,
+            43.294781
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses gotische Monument, das für seinen detailreichen Portikus berühmt ist, und bringen Sie ein Fernglas mit, um die feinen Steinmetzarbeiten genau zu sehen.",
+            "hu": "Fedezze fel ezt a fenséges gótikus műemléket, amely részletes portikuszáról híres, és hozzon magával távcsövet, hogy jobban megfigyelhesse az apostolok szobrait.",
+            "ro": "Explorați acest monument religios gotic faimos pentru porticul său incredibil de detaliat și aduceți binoclul pentru a observa îndeaproape sculpturile apostolilor.",
+            "en": "Explore this majestic Gothic religious monument famous for its incredibly detailed portico, and bring binoculars to observe the fine stonework of the apostles clearly."
+          }
+        },
+        {
+          "name": {
+            "de": "The Deba Bridge",
+            "hu": "The Deba Bridge",
+            "ro": "The Deba Bridge",
+            "en": "The Deba Bridge"
+          },
+          "coords": [
+            -2.357032,
+            43.292791
+          ],
+          "category": "landmark",
+          "arrive_at": "11:17",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Überqueren Sie dieses Wahrzeichen, das fantastische Ausblicke auf die Flussmündung bietet, und bleiben Sie in der Mitte stehen, um Panoramabilder einzufangen.",
+            "hu": "Sétáljon át a folyópartokat összekötő ikonikus hídon, amely csodálatos kilátást nyújt a torkolatra, és álljon meg a közepén, hogy tökéletes panorámaképeket készítsen.",
+            "ro": "Traversați acest pod emblematic care conectează malurile râului oferind priveliști minunate asupra estuarului și opriți-vă la mijloc pentru fotografii panoramice.",
+            "en": "Cross this iconic landmark that connects the river banks and offers wonderful estuarine views, pausing at the middle span to capture the best panoramic shots of the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Santiago Beach (Deba)",
+            "hu": "Santiago Beach (Deba)",
+            "ro": "Santiago Beach (Deba)",
+            "en": "Santiago Beach (Deba)"
+          },
+          "coords": [
+            -2.353009,
+            43.297974
+          ],
+          "category": "recreational",
+          "arrive_at": "11:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sandstrand dieses für tolle Wellen bekannten Küstenabschnitts, und packen Sie eine Windjacke ein, da die Meeresbrise kühl sein kann.",
+            "hu": "Pihenjen ezen a széles, aranyhomokos partszakaszon, amely a remek hullámokról ismert, de hozzon magával széldzsekit, mert az óceáni szellő kifejezetten hűvös is lehet.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje recunoscute pentru valurile excelente și luați o jachetă de vânt, deoarece briza răcoroasă a oceanului poate deveni rece.",
+            "en": "Relax on the wide golden sands of this recreational coastal stretch known for great waves, and pack a windbreaker because the refreshing ocean breeze can get quite chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Lapari",
+            "hu": "Lapari",
+            "ro": "Lapari",
+            "en": "Lapari"
+          },
+          "coords": [
+            -2.348193,
+            43.299064
+          ],
+          "category": "recreational",
+          "arrive_at": "13:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schlendern Sie an diesem ruhigeren Küstenabschnitt entlang, der für markante Felsen bekannt ist, und kommen Sie bei Ebbe, um die Gezeitentümpel zu erkunden.",
+            "hu": "Sétáljon végig ezen a lenyűgöző sziklaalakzatairól ismert partszakaszon, és időzítse látogatását apályra, hogy biztonságosan felfedezhesse az árapály-medencéket.",
+            "ro": "Plimbați-vă de-a lungul acestei coaste mai liniștite, cunoscută pentru stâncile sale izbitoare, și sosiți la reflux pentru a explora bazinele naturale cu apă.",
+            "en": "Stroll along this quieter stretch of coastline known for its striking rock formations, and time your visit with low tide to safely explore the fascinating little rock pools."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Katalina ermita",
+            "hu": "Santa Katalina ermita",
+            "ro": "Santa Katalina ermita",
+            "en": "Santa Katalina ermita"
+          },
+          "coords": [
+            -2.3427,
+            43.298607
+          ],
+          "category": "natural",
+          "arrive_at": "14:26",
+          "stay_min": 55,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesem reizvollen Aussichtspunkt mit atemberaubendem Meerblick hinauf und bringen Sie etwas Wasser mit, da der letzte Anstieg zu Fuß ziemlich steil ausfällt.",
+            "hu": "Túrázzon fel ehhez a bájos domboldali kilátóhoz, amely lélegzetelállító panorámát nyújt az óceánra, és vigyen magával vizet, mert a végső emelkedő meglehetősen meredek.",
+            "ro": "Urcați spre acest punct de belvedere fermecător care oferă o panoramă uimitoare asupra oceanului și aduceți puțină apă cu voi, deoarece urcarea finală este destul de abruptă.",
+            "en": "Hike up to this charming hillside viewpoint providing breathtaking panoramas of the ocean, and bring some water along as the final pedestrian ascent is quite steep."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen erkundet das lebhafte Zentrum und die majestätische gotische Kirche der Stadt.\n\nMittags erleben Sie den Charme der Flussmündung auf der historischen Brücke.\n\nDer Nachmittag lädt zu tiefer Entspannung an weiten Sandstränden und Felsformationen ein.\n\nDer Abend endet mit einer lohnenden Wanderung für spektakuläre Sonnenuntergänge am Meer.",
+        "hu": "A reggel a város pezsgő központját és a lenyűgöző gótikus templomot fedezi fel.\n\nDélben a folyótorkolat varázsa következik a történelmi hídon átsétálva.\n\nA délután mély pihenésre csábít a széles strandokon és a különleges sziklaalakzatoknál.\n\nAz este egy domboldali túrával zárul, amely felejthetetlen óceáni panorámát nyújt naplementekor.",
+        "ro": "Dimineața explorează inima vibrantă a orașului și biserica sa gotică majestuoasă.\n\nLa prânz, farmecul estuarului vă atrage în timp ce traversați podul istoric.\n\nDupă-amiaza invită la relaxare profundă pe plajele întinse cu formațiuni stâncoase unice.\n\nSeara se încheie cu o drumeție pe deal pentru o panoramă uimitoare a apusului de soare.",
+        "en": "Morning explores the town's vibrant heart and its majestic Gothic church.\n\nMidday transitions to the estuarine charm as you cross the historic bridge toward the sea.\n\nAfternoon invites deep relaxation along sweeping sandy beaches and unique rock formations.\n\nEvening concludes with a rewarding hike up the hillside for spectacular sunset ocean panoramas."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:16",
+      "total_km": 4.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Udaletxea",
+            "hu": "Udaletxea",
+            "ro": "Udaletxea",
+            "en": "Udaletxea"
+          },
+          "coords": [
+            -2.354368,
+            43.294192
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Architektur dieses Rathauses, das die Verwaltung repräsentiert, und nutzen Sie das Morgenlicht für Fotos der klassischen Fassade.",
+            "hu": "Csodálja meg a baszk önkormányzatot képviselő központi városháza építészetét, és használja ki a reggeli fényviszonyokat a díszes homlokzat fotózásához.",
+            "ro": "Admirați arhitectura istorică a primăriei centrale care reprezintă guvernanța locală și profitați de lumina dimineții pentru a fotografia fațada sa ornamentată.",
+            "en": "Admire the beautiful historical architecture of this central town hall representing local Basque governance, and start your morning taking photos of its ornate classical facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de Sasiola",
+            "hu": "Torre de Sasiola",
+            "ro": "Torre de Sasiola",
+            "en": "Torre de Sasiola"
+          },
+          "coords": [
+            -2.356583,
+            43.290895
+          ],
+          "category": "castle",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Überreste dieses mittelalterlichen Turms, der alte Handelsrouten bewachte, und achten Sie auf schlammige Wege, falls es geregnet hat.",
+            "hu": "Csodálja meg a régi kereskedelmi útvonalakat őrző középkori torony maradványait, és óvatosan közlekedjen az ösvényeken, amelyek eső után nagyon sárosak lehetnek.",
+            "ro": "Admirați rămășițele defensive ale acestui turn medieval care păzea vechile rute comerciale și verificați potecile din jur, care pot fi noroioase după ploaie.",
+            "en": "Admire the defensive remnants of this medieval tower guarding the old trade routes, and carefully check the surrounding paths which can be quite muddy after a rain shower."
+          }
+        },
+        {
+          "name": {
+            "de": "The Deba Bridge",
+            "hu": "The Deba Bridge",
+            "ro": "The Deba Bridge",
+            "en": "The Deba Bridge"
+          },
+          "coords": [
+            -2.357032,
+            43.292791
+          ],
+          "category": "landmark",
+          "arrive_at": "11:55",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Überqueren Sie dieses Wahrzeichen, das fantastische Ausblicke auf die Flussmündung bietet, und bleiben Sie in der Mitte stehen, um Panoramabilder einzufangen.",
+            "hu": "Sétáljon át a folyópartokat összekötő ikonikus hídon, amely csodálatos kilátást nyújt a torkolatra, és álljon meg a közepén, hogy tökéletes panorámaképeket készítsen.",
+            "ro": "Traversați acest pod emblematic care conectează malurile râului oferind priveliști minunate asupra estuarului și opriți-vă la mijloc pentru fotografii panoramice.",
+            "en": "Cross this iconic landmark that connects the river banks and offers wonderful estuarine views, pausing at the middle span to capture the best panoramic shots of the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Ondarbeltz hondartza",
+            "hu": "Ondarbeltz hondartza",
+            "ro": "Ondarbeltz hondartza",
+            "en": "Ondarbeltz hondartza"
+          },
+          "coords": [
+            -2.356301,
+            43.300128
+          ],
+          "category": "recreational",
+          "arrive_at": "12:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen wunderschönen dunklen Sandstrand direkt an der Flussmündung und nutzen Sie die Fahrradständer in der Nähe für ein schnelles Bad im Meer.",
+            "hu": "Fedezze fel ezt a gyönyörű, sötét homokos strandot a folyótorkolatnál, és használja a közeli kerékpártárolókat, amíg egy gyors fürdőzést tesz a habokban.",
+            "ro": "Descoperiți această plajă frumoasă cu nisip întunecat la gura râului și utilizați suporturile de biciclete din apropiere pentru a parca în siguranță.",
+            "en": "Discover this beautiful dark-sand beach located right at the river's mouth, and use the dedicated cycle racks nearby to safely park your bike while you take a quick swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Alkolea",
+            "hu": "Alkolea",
+            "ro": "Alkolea",
+            "en": "Alkolea"
+          },
+          "coords": [
+            -2.370982,
+            43.307689
+          ],
+          "category": "recreational",
+          "arrive_at": "13:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die erfrischende Küstenlandschaft an diesem bei Surfern beliebten Ort und halten Sie Ausschau nach kleinen Seevögeln, die in den Klippen nisten.",
+            "hu": "Élvezze a frissítő tengerparti tájat ezen a szörfösök körében népszerű helyen, és figyelje meg a sziklákon fészkelő apró tengeri madarakat pihenés közben.",
+            "ro": "Bucurați-vă de peisajul de coastă revigorant la acest loc popular printre surferi și fiți atenți la micile păsări marine care cuibăresc pe stânci.",
+            "en": "Enjoy the refreshing coastal scenery at this rugged recreational spot popular with surfers, and keep an eye out for the small marine birds nesting in the sea cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Talaixa",
+            "hu": "Talaixa",
+            "ro": "Talaixa",
+            "en": "Talaixa"
+          },
+          "coords": [
+            -2.372848,
+            43.307863
+          ],
+          "category": "natural",
+          "arrive_at": "14:56",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die weiten Naturpanoramen von diesem dramatischen Aussichtspunkt, aber halten Sie Ihre Sachen fest, da die Küstenwinde hier außergewöhnlich stark sind.",
+            "hu": "Tekintse meg a lenyűgöző természeti panorámát erről a drámai sziklás megfigyelőpontról, de fogja erősen az értékeit, mert a parti szél itt rendkívül erős lehet.",
+            "ro": "Admirați panoramele naturale extinse de la acest punct de observație dramatic, dar țineți-vă bine lucrurile deoarece vânturile de coastă sunt foarte puternice.",
+            "en": "Take in the sweeping natural panoramas from this dramatic clifftop observation point, but hold tightly onto your belongings as the coastal winds here are exceptionally strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Santiago Beach (Deba)",
+            "hu": "Santiago Beach (Deba)",
+            "ro": "Santiago Beach (Deba)",
+            "en": "Santiago Beach (Deba)"
+          },
+          "coords": [
+            -2.353009,
+            43.297974
+          ],
+          "category": "recreational",
+          "arrive_at": "15:31",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sandstrand dieses für tolle Wellen bekannten Küstenabschnitts, und packen Sie eine Windjacke ein, da die Meeresbrise kühl sein kann.",
+            "hu": "Pihenjen ezen a széles, aranyhomokos partszakaszon, amely a remek hullámokról ismert, de hozzon magával széldzsekit, mert az óceáni szellő kifejezetten hűvös is lehet.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje recunoscute pentru valurile excelente și luați o jachetă de vânt, deoarece briza răcoroasă a oceanului poate deveni rece.",
+            "en": "Relax on the wide golden sands of this recreational coastal stretch known for great waves, and pack a windbreaker because the refreshing ocean breeze can get quite chilly."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am Rathaus, gefolgt von einer Fahrt zu einem mittelalterlichen Verteidigungsturm.\n\nMittags überqueren Sie die Flussbrücke, um an einem dunklen Sandstrand zu entspannen.\n\nDer Nachmittag lädt zu einer Radtour entlang der Klippen im Nordwesten für dramatische Ausblicke ein.\n\nDer Abend endet am goldenen Hauptstrand mit einem Sonnenuntergang über den Wellen.",
+        "hu": "A reggel a városházánál indul, majd egy rövid tekerés következik a középkori védőtoronyhoz.\n\nDélben átkel a folyón, hogy megpihenjen egy különleges, sötét homokos tengerparton.\n\nA délután izgalmas kerékpározást kínál a zord északnyugati sziklák mentén a drámai kilátásért.\n\nAz este a fő aranyhomokos strandon ér véget, ahonnan csodás naplementét figyelhet a hullámok felett.",
+        "ro": "Dimineața începe la primăria istorică, urmată de o plimbare spre un turn de apărare medieval.\n\nLa prânz traversați podul râului pentru a vă relaxa pe o plajă unică cu nisip întunecat.\n\nDupă-amiaza invită la o cursă pe stâncile nord-vestice pentru a admira panorame dramatice.\n\nSeara se încheie pe plaja aurie principală, privind apusul viu colorat peste valurile oceanului.",
+        "en": "Morning begins at the historic town hall, followed by a short ride to a medieval defense tower.\n\nMidday has you crossing the river bridge to relax on a unique dark-sand beach.\n\nAfternoon invites an exhilarating cycle along the rugged northwestern cliffs for dramatic panoramas.\n\nEvening concludes back at the main golden beach, watching the vivid sunset over rolling waves."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:56",
+      "total_km": 9.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Santa Maria",
+            "hu": "Santa Maria",
+            "ro": "Santa Maria",
+            "en": "Santa Maria"
+          },
+          "coords": [
+            -2.353288,
+            43.294781
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses gotische Monument, das für seinen detailreichen Portikus berühmt ist, und bringen Sie ein Fernglas mit, um die feinen Steinmetzarbeiten genau zu sehen.",
+            "hu": "Fedezze fel ezt a fenséges gótikus műemléket, amely részletes portikuszáról híres, és hozzon magával távcsövet, hogy jobban megfigyelhesse az apostolok szobrait.",
+            "ro": "Explorați acest monument religios gotic faimos pentru porticul său incredibil de detaliat și aduceți binoclul pentru a observa îndeaproape sculpturile apostolilor.",
+            "en": "Explore this majestic Gothic religious monument famous for its incredibly detailed portico, and bring binoculars to observe the fine stonework of the apostles clearly."
+          }
+        },
+        {
+          "name": {
+            "de": "Itxaspe",
+            "hu": "Itxaspe",
+            "ro": "Itxaspe",
+            "en": "Itxaspe"
+          },
+          "coords": [
+            -2.330534,
+            43.298366
+          ],
+          "category": "natural",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die unglaublichen geologischen Formationen dieses Küstenaussichtspunkts, und reisen Sie früh an, um einen der wenigen Parkplätze zu ergattern.",
+            "hu": "Csodálja meg a hihetetlen geológiai formációkat erről a drámai tengerparti kilátópontról, és érkezzen korán, hogy biztosítson magának egyet a kevés parkolóhely közül.",
+            "ro": "Minunați-vă de formațiunile geologice vizibile de la acest punct de belvedere pe coastă și ajungeți devreme pentru a prinde unul dintre puținele locuri de parcare.",
+            "en": "Marvel at the incredible geological formations visible from this dramatic coastal viewpoint, and arrive early in the morning to secure one of the very few available parking spots."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Katalina ermita",
+            "hu": "Santa Katalina ermita",
+            "ro": "Santa Katalina ermita",
+            "en": "Santa Katalina ermita"
+          },
+          "coords": [
+            -2.3427,
+            43.298607
+          ],
+          "category": "natural",
+          "arrive_at": "10:58",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesem reizvollen Aussichtspunkt mit atemberaubendem Meerblick hinauf und bringen Sie etwas Wasser mit, da der letzte Anstieg zu Fuß ziemlich steil ausfällt.",
+            "hu": "Túrázzon fel ehhez a bájos domboldali kilátóhoz, amely lélegzetelállító panorámát nyújt az óceánra, és vigyen magával vizet, mert a végső emelkedő meglehetősen meredek.",
+            "ro": "Urcați spre acest punct de belvedere fermecător care oferă o panoramă uimitoare asupra oceanului și aduceți puțină apă cu voi, deoarece urcarea finală este destul de abruptă.",
+            "en": "Hike up to this charming hillside viewpoint providing breathtaking panoramas of the ocean, and bring some water along as the final pedestrian ascent is quite steep."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de Sasiola",
+            "hu": "Torre de Sasiola",
+            "ro": "Torre de Sasiola",
+            "en": "Torre de Sasiola"
+          },
+          "coords": [
+            -2.356583,
+            43.290895
+          ],
+          "category": "castle",
+          "arrive_at": "11:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Überreste dieses mittelalterlichen Turms, der alte Handelsrouten bewachte, und achten Sie auf schlammige Wege, falls es geregnet hat.",
+            "hu": "Csodálja meg a régi kereskedelmi útvonalakat őrző középkori torony maradványait, és óvatosan közlekedjen az ösvényeken, amelyek eső után nagyon sárosak lehetnek.",
+            "ro": "Admirați rămășițele defensive ale acestui turn medieval care păzea vechile rute comerciale și verificați potecile din jur, care pot fi noroioase după ploaie.",
+            "en": "Admire the defensive remnants of this medieval tower guarding the old trade routes, and carefully check the surrounding paths which can be quite muddy after a rain shower."
+          }
+        },
+        {
+          "name": {
+            "de": "Praileaitz",
+            "hu": "Praileaitz",
+            "ro": "Praileaitz",
+            "en": "Praileaitz"
+          },
+          "coords": [
+            -2.36804,
+            43.277143
+          ],
+          "category": "historical",
+          "arrive_at": "12:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Reisen Sie an dieser archäologischen Höhle in die Altsteinzeit zurück, und tragen Sie festes Schuhwerk, da der unebene Zugangsweg rutschig und schwierig sein kann.",
+            "hu": "Lépjen vissza az időben ezen a paleolitikus régészeti barlanghelyszínen, és viseljen stabil cipőt, mivel az egyenetlen megközelítési út csúszós és kihívást jelentő lehet.",
+            "ro": "Întoarceți-vă în timp la această peșteră arheologică paleolitică și purtați încălțăminte robustă, deoarece calea de acces denivelată poate fi alunecoasă.",
+            "en": "Step back in time at this crucial paleolithic archaeological cave site, and remember to wear sturdy walking shoes as the uneven access path can be slippery and challenging."
+          }
+        },
+        {
+          "name": {
+            "de": "San Andres Eliza",
+            "hu": "San Andres Eliza",
+            "ro": "San Andres Eliza",
+            "en": "San Andres Eliza"
+          },
+          "coords": [
+            -2.376049,
+            43.278781
+          ],
+          "category": "religious",
+          "arrive_at": "14:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese ländliche Kirche inmitten sanfter grüner Hügel und nehmen Sie sich einen Moment Zeit, um den gut erhaltenen Holzportikus am Eingang zu bewundern.",
+            "hu": "Látogasson el ebbe a festői vidéki templomba, amelyet zöld dombok vesznek körül, és szánjon egy percet a gyönyörűen megőrzött fa portikusz megcsodálására a bejáratnál.",
+            "ro": "Vizitați această biserică rurală liniștită înconjurată de dealuri verzi și faceți-vă timp pentru a admira porticul din lemn frumos conservat de lângă intrarea principală.",
+            "en": "Visit this quaint and peaceful rural church surrounded by rolling green hillsides, and take a moment to admire the beautifully preserved wooden portico near the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalbaixo ermita",
+            "hu": "Kalbaixo ermita",
+            "ro": "Kalbaixo ermita",
+            "en": "Kalbaixo ermita"
+          },
+          "coords": [
+            -2.382791,
+            43.298665
+          ],
+          "category": "landmark",
+          "arrive_at": "15:01",
+          "stay_min": 55,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt an dieser abgelegenen Bergkapelle mit weitem Ausblick und fahren Sie auf der Zufahrtsstraße sehr langsam, da die Kurven außergewöhnlich eng sind.",
+            "hu": "Zárja az utazást ennél a hegytetői kápolnánál, amely hihetetlen kilátást kínál, és vezessen nagyon lassan a végső szakaszon, mert a kanyarok rendkívül szűkek.",
+            "ro": "Încheiați-vă drumul la această capelă izolată pe deal oferind priveliști extinse incredibile și conduceți foarte încet pe drumul final deoarece curbele sunt strânse.",
+            "en": "Conclude your drive at this remote hilltop chapel offering incredible sweeping vistas, and drive very slowly on the final approach road because the curves are exceptionally tight."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen startet mit gotischer Schönheit, bevor Sie die atemberaubende Küstengeologie bestaunen.\n\nMittags sehen Sie malerische Kapellen und die mittelalterliche Verteidigungsgeschichte.\n\nDer Nachmittag führt Sie tief in die paläolithische Vergangenheit und grüne ländliche Gegenden.\n\nDer Abend endet an einem abgelegenen Heiligtum mit unvergleichlichem Ausblick.",
+        "hu": "A reggel gótikus szépséggel indul, majd a lenyűgöző tengerparti geológiát csodálhatja meg.\n\nDélben festői kápolnák és a régió középkori védelmi történelme várja.\n\nA délután mélyen a paleolitikus múltba és a hullámzó zöld vidéki tájakra kalauzolja.\n\nAz este egy elszigetelt hegytetői szentélynél ér véget, amely páratlan kilátást nyújt.",
+        "ro": "Dimineața începe cu frumusețea gotică înainte de a conduce pentru a admira geologia coastei.\n\nLa prânz descoperiți capele pitorești și istoria defensivă medievală a regiunii.\n\nDupă-amiaza vă duce în trecutul paleolitic și prin peisajele rurale verzi și deluroase.\n\nSeara se termină la un sanctuar izolat pe deal, oferind priveliști de neegalat la apus.",
+        "en": "Morning starts with Gothic beauty before driving out to marvel at stunning coastal geology.\n\nMidday features scenic hillside chapels and uncovering the region's medieval defensive history.\n\nAfternoon takes you deep into the paleolithic past and rolling green rural landscapes.\n\nEvening finishes at an isolated hilltop sanctuary, offering unmatched vistas of the sunset."
+      }
+    }
+  }
+}

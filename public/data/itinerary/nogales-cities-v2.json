@@ -1,0 +1,497 @@
+{
+  "city_id": "nogales-cities-v2",
+  "anchor": {
+    "name": "Nogales",
+    "coords": [
+      -110.9453,
+      31.3283
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 2.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kunstmuseum Nogales",
+            "hu": "Nogales Művészeti Múzeum",
+            "ro": "Muzeul de Artă Nogales",
+            "en": "Nogales Museum of Art"
+          },
+          "coords": [
+            -110.944426,
+            31.330525
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier vielfältige Kunststile der Grenzregion; kommen Sie früh, um die Galerien in Ruhe zu genießen, und fragen Sie nach Workshops.",
+            "hu": "Fedezze fel itt a változatos határvidéki művészeti stílusokat; érkezzen korán, hogy nyugodtan élvezze a galériákat, és kérdezzen a helyi workshopokról.",
+            "ro": "Descoperiți diverse stiluri de artă aici; sosiți devreme pentru a vă bucura de galerii în liniște și întrebați de atelierele locale de sezon.",
+            "en": "Discover diverse borderland art styles here; arrive early to enjoy the galleries quietly and ask staff about seasonal local workshops."
+          }
+        },
+        {
+          "name": {
+            "de": "Primeria Alta History Museum",
+            "hu": "Primeria Alta Történeti Múzeum",
+            "ro": "Muzeul de Istorie Primeria Alta",
+            "en": "Primeria Alta History Museum"
+          },
+          "coords": [
+            -110.940816,
+            31.33496
+          ],
+          "category": "museum",
+          "arrive_at": "10:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Vergangenheit der Region ein; achten Sie auf den antiken Uhrenturm und prüfen Sie den Zeitplan der Wechselausstellungen.",
+            "hu": "Lépjen be a régió gazdag múltjába az egykori bíróság épületében; figyelje meg az antik óratornyot, és nézze meg az időszaki kiállításokat.",
+            "ro": "Pășiți în trecutul bogat al regiunii într-un vechi tribunal; acordați atenție turnului cu ceas antic și verificați programul expozițiilor temporare.",
+            "en": "Step into the region's rich past housed in an old courthouse; pay attention to the antique clock tower and check their temporary exhibit schedule."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Cruz County Honor Roll",
+            "hu": "Santa Cruz Megyei Dicsőségtábla",
+            "ro": "Panoul de Onoare Santa Cruz County",
+            "en": "Santa Cruz County Honor Roll"
+          },
+          "coords": [
+            -110.931226,
+            31.345929
+          ],
+          "category": "historical",
+          "arrive_at": "13:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Dieses feierliche Denkmal ehrt lokale Veteranen; nähern Sie sich mit Respekt und nehmen Sie sich Zeit, die detaillierten Inschriften zu lesen.",
+            "hu": "Ez az ünnepélyes emlékmű a helyi veteránokat tiszteli; közelítsen tisztelettel, és szánjon időt a részletes feliratok elolvasására.",
+            "ro": "Acest monument solemn onorează veteranii locali; apropiați-vă cu respect și alocați timp pentru a citi inscripțiile detaliate din istoria zonei.",
+            "en": "This solemn monument honors local veterans; approach with respect and take time to read the detailed inscriptions reflecting the area's service history."
+          }
+        },
+        {
+          "name": {
+            "de": "Nogalitos",
+            "hu": "Nogalitos",
+            "ro": "Nogalitos",
+            "en": "Nogalitos"
+          },
+          "coords": [
+            -110.926069,
+            31.349315
+          ],
+          "category": "historical",
+          "arrive_at": "14:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erleben Sie einen klassischen historischen Ort; halten Sie Ausschau nach historischen Gedenktafeln und tragen Sie bequeme Schuhe für die unebenen Wege.",
+            "hu": "Tapasztalja meg a klasszikus történelmi helyet; tartsa nyitva a szemét a történelmi emléktáblákra, és viseljen kényelmes cipőt az egyenetlen utakon.",
+            "ro": "Experimentați un loc istoric clasic; fiți atenți la plăcile istorice și purtați încălțăminte confortabilă pentru potecile denivelate.",
+            "en": "Experience a classic historical spot that defines early settlement days; keep an eye out for historic plaques and wear comfortable shoes for the uneven paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Padre Kino Statue",
+            "hu": "Padre Kino Szobor",
+            "ro": "Statuia Padre Kino",
+            "en": "Padre Kino Statue"
+          },
+          "coords": [
+            -110.92823,
+            31.350527
+          ],
+          "category": "historical",
+          "arrive_at": "15:55",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die hoch aufragende Hommage an den berühmten Jesuitenmissionar; der beste Fotowinkel ist vom leicht erhöhten Weg auf der Südseite.",
+            "hu": "Csodálja meg a híres jezsuita misszionárius előtti tiszteletadást; a legjobb fotószög a déli oldalon lévő kissé megemelt útról nyílik.",
+            "ro": "Admirați omagiul impunător adus faimosului misionar iezuit; cel mai bun unghi foto este de pe calea ușor înălțată din partea de sud.",
+            "en": "Admire the towering tribute to the famous Jesuit missionary; the best photo angle is from the slightly elevated path on the southern side."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am prominenten Kunstmuseum Nogales, einem kulturellen Zentrum, bevor ein kurzer Spaziergang die regionale Geschichte im Primeria Alta History Museum enthüllt. Mittags geht es nach Norden, um die Architektur und die feierliche Atmosphäre am Santa Cruz County Honor Roll zu genießen. Der Nachmittag endet mit einem historischen Eintauchen am Nogalitos und der beeindruckenden Padre Kino Statue. Der Abend bietet Zeit zur entspannten Reflexion über das Erbe der Grenzstadt.",
+        "hu": "A reggel a kiemelkedő Nogales Művészeti Múzeumban kezdődik, amely kulturális központ, mielőtt egy rövid sétával felfedeznénk a Primeria Alta Történeti Múzeumot. A telet északra sétálva töltjük, élvezve a helyi építészetet és az ünnepélyes légkört a Santa Cruz megyei Dicsőségtáblánál. A délutánt történelmi elmélyülés zárja a Nogalitosnál és a Padre Kino szobornál. Az este lehetőséget ad a határváros örökségének nyugodt végiggondolására.",
+        "ro": "Dimineața începe la remarcabilul Muzeu de Artă din Nogales, înainte de o scurtă plimbare pentru a explora istoria regională profundă la Muzeul de Istorie Primeria Alta. La prânz vă îndreptați spre nord, bucurându-vă de arhitectura locală și de atmosfera solemnă de la Santa Cruz County Honor Roll. După-amiaza se încheie cu o incursiune istorică la Nogalitos și la impresionanta Statuie Padre Kino. Seara permite o reflecție relaxată asupra patrimoniului orașului.",
+        "en": "Morning begins at the prominent Nogales Museum of Art, a cultural centerpiece, before a short stroll to explore deep regional history at the Primeria Alta History Museum. Midday is spent walking north, enjoying local architecture and the solemn atmosphere at the Santa Cruz County Honor Roll. The afternoon concludes with historical immersion at Nogalitos and the impressive Padre Kino Statue. Evening allows for a relaxed reflection on the border city's heritage and local dining."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:04",
+      "total_km": 8.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kunstmuseum Nogales",
+            "hu": "Nogales Művészeti Múzeum",
+            "ro": "Muzeul de Artă Nogales",
+            "en": "Nogales Museum of Art"
+          },
+          "coords": [
+            -110.944426,
+            31.330525
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier vielfältige Kunststile der Grenzregion; kommen Sie früh, um die Galerien in Ruhe zu genießen, und fragen Sie nach Workshops.",
+            "hu": "Fedezze fel itt a változatos határvidéki művészeti stílusokat; érkezzen korán, hogy nyugodtan élvezze a galériákat, és kérdezzen a helyi workshopokról.",
+            "ro": "Descoperiți diverse stiluri de artă aici; sosiți devreme pentru a vă bucura de galerii în liniște și întrebați de atelierele locale de sezon.",
+            "en": "Discover diverse borderland art styles here; arrive early to enjoy the galleries quietly and ask staff about seasonal local workshops."
+          }
+        },
+        {
+          "name": {
+            "de": "Primeria Alta History Museum",
+            "hu": "Primeria Alta Történeti Múzeum",
+            "ro": "Muzeul de Istorie Primeria Alta",
+            "en": "Primeria Alta History Museum"
+          },
+          "coords": [
+            -110.940816,
+            31.33496
+          ],
+          "category": "museum",
+          "arrive_at": "10:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Vergangenheit der Region ein; achten Sie auf den antiken Uhrenturm und prüfen Sie den Zeitplan der Wechselausstellungen.",
+            "hu": "Lépjen be a régió gazdag múltjába az egykori bíróság épületében; figyelje meg az antik óratornyot, és nézze meg az időszaki kiállításokat.",
+            "ro": "Pășiți în trecutul bogat al regiunii într-un vechi tribunal; acordați atenție turnului cu ceas antic și verificați programul expozițiilor temporare.",
+            "en": "Step into the region's rich past housed in an old courthouse; pay attention to the antique clock tower and check their temporary exhibit schedule."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Cruz County Honor Roll",
+            "hu": "Santa Cruz Megyei Dicsőségtábla",
+            "ro": "Panoul de Onoare Santa Cruz County",
+            "en": "Santa Cruz County Honor Roll"
+          },
+          "coords": [
+            -110.931226,
+            31.345929
+          ],
+          "category": "historical",
+          "arrive_at": "12:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Dieses feierliche Denkmal ehrt lokale Veteranen; nähern Sie sich mit Respekt und nehmen Sie sich Zeit, die detaillierten Inschriften zu lesen.",
+            "hu": "Ez az ünnepélyes emlékmű a helyi veteránokat tiszteli; közelítsen tisztelettel, és szánjon időt a részletes feliratok elolvasására.",
+            "ro": "Acest monument solemn onorează veteranii locali; apropiați-vă cu respect și alocați timp pentru a citi inscripțiile detaliate din istoria zonei.",
+            "en": "This solemn monument honors local veterans; approach with respect and take time to read the detailed inscriptions reflecting the area's service history."
+          }
+        },
+        {
+          "name": {
+            "de": "Padre Kino Statue",
+            "hu": "Padre Kino Szobor",
+            "ro": "Statuia Padre Kino",
+            "en": "Padre Kino Statue"
+          },
+          "coords": [
+            -110.92823,
+            31.350527
+          ],
+          "category": "historical",
+          "arrive_at": "14:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die hoch aufragende Hommage an den berühmten Jesuitenmissionar; der beste Fotowinkel ist vom leicht erhöhten Weg auf der Südseite.",
+            "hu": "Csodálja meg a híres jezsuita misszionárius előtti tiszteletadást; a legjobb fotószög a déli oldalon lévő kissé megemelt útról nyílik.",
+            "ro": "Admirați omagiul impunător adus faimosului misionar iezuit; cel mai bun unghi foto este de pe calea ușor înălțată din partea de sud.",
+            "en": "Admire the towering tribute to the famous Jesuit missionary; the best photo angle is from the slightly elevated path on the southern side."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a la Ignoracia (MonoBichi)",
+            "hu": "Monumento a la Ignoracia",
+            "ro": "Monumentul Ignoranței",
+            "en": "Monumento a la Ignoracia (MonoBichi)"
+          },
+          "coords": [
+            -110.941743,
+            31.306494
+          ],
+          "category": "historical",
+          "arrive_at": "15:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 5.1,
+          "tip_5lang": {
+            "de": "Diese einzigartige Statue setzt ein mutiges Statement; besuchen Sie sie während der goldenen Stunde für dramatisches Licht und interessante Schatten.",
+            "hu": "Ez az egyedi és vitatott szobor merész kijelentést tesz; látogasson el az aranyórában a drámai megvilágítás és az érdekes árnyékok érdekében.",
+            "ro": "Această statuie unică face o declarație îndrăzneață; vizitați în timpul orei de aur pentru o iluminare dramatică și umbre interesante.",
+            "en": "This unique and somewhat controversial statue makes a bold statement; visit during golden hour for dramatic lighting and interesting shadows."
+          }
+        },
+        {
+          "name": {
+            "de": "Infoculta",
+            "hu": "Infoculta",
+            "ro": "Infoculta",
+            "en": "Infoculta"
+          },
+          "coords": [
+            -110.94045,
+            31.307175
+          ],
+          "category": "cultural",
+          "arrive_at": "17:14",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein wichtiges Zentrum für Gemeindekunst; überprüfen Sie das schwarze Brett am Eingang, um vielleicht eine spontane Abendvorstellung zu erwischen.",
+            "hu": "Létfontosságú központ a közösségi művészetek számára; nézze meg a hirdetőtáblát a bejáratnál, hogy elcsípjen egy rögtönzött esti előadást.",
+            "ro": "Un centru vital pentru arte și evenimente culturale; verificați panoul de la intrare pentru a prinde o reprezentație de seară improvizată.",
+            "en": "A vital hub for community arts and cultural events; check their noticeboard right at the entrance to catch an impromptu evening performance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag mit lokaler Kunst im Museum of Art und radeln Sie dann zum Primeria Alta History Museum für den historischen Kontext. Mittags fahren Sie stetig nach Norden, um das Santa Cruz County Honor Roll und die hoch aufragende Padre Kino Statue zu besuchen. Am Nachmittag fahren Sie nach Süden zum faszinierenden Monumento a la Ignoracia. Beenden Sie den Abend mit einem Schuss Gemeindekultur in der Infoculta.",
+        "hu": "Kezdje kerékpáros napját a Művészeti Múzeumban, majd pedálozzon át a Primeria Alta Történeti Múzeumba a határvidék kontextusáért. Délben egy északi tekerés következik a Santa Cruz megyei Dicsőségtáblához és a magasba tornyosuló Padre Kino szoborhoz. Délután váltson sebességet, és lovagoljon délre a lenyűgöző Monumento a la Ignoracia felé. Zárja az estét egy adag közösségi kultúrával az Infocultában.",
+        "ro": "Începeți-vă ziua de ciclism descoperind arta locală la Muzeul de Artă, apoi pedalați spre Muzeul de Istorie Primeria Alta. La prânz, mergeți spre nord pentru a vizita Santa Cruz County Honor Roll și falnica Statuie Padre Kino. După-amiaza, schimbați direcția spre sud pentru a admira fascinantul Monumento a la Ignoracia. Încheiați-vă seara cu o doză de cultură comunitară la Infoculta.",
+        "en": "Kick off your cycling day delving into local arts at the Museum of Art, then pedal over to the Primeria Alta History Museum for borderland context. Midday brings a steady ride north to visit the Santa Cruz County Honor Roll and the towering Padre Kino Statue. In the afternoon, shift gears and ride south to witness the controversial but fascinating Monumento a la Ignoracia. Wrap up your evening with a dose of community culture at Infoculta before riding back."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "21:16",
+      "total_km": 9.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Alberca Santa Lucia",
+            "hu": "Alberca Santa Lucia",
+            "ro": "Alberca Santa Lucia",
+            "en": "Alberca Santa Lucia"
+          },
+          "coords": [
+            -110.923917,
+            31.282262
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie eine erfrischende Pause an dieser lokalen Freizeitanlage; bringen Sie viel Wasser und einen Hut mit, da Schatten selten sein kann.",
+            "hu": "Élvezze a frissítő pihenőt ezen a helyi szabadidős létesítményen; hozzon magával sok vizet és sapkát, mivel az árnyék ritka lehet a napos órákban.",
+            "ro": "Bucurați-vă de o pauză revigorantă la această facilitate recreativă; aduceți multă apă și o pălărie, deoarece umbra poate fi rară la orele de vârf.",
+            "en": "Enjoy a refreshing break at this local recreational facility; bring plenty of water and a hat as shade can be scarce during peak sunny hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a la Ignoracia (MonoBichi)",
+            "hu": "Monumento a la Ignoracia",
+            "ro": "Monumentul Ignoranței",
+            "en": "Monumento a la Ignoracia (MonoBichi)"
+          },
+          "coords": [
+            -110.941743,
+            31.306494
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Diese einzigartige Statue setzt ein mutiges Statement; besuchen Sie sie während der goldenen Stunde für dramatisches Licht und interessante Schatten.",
+            "hu": "Ez az egyedi és vitatott szobor merész kijelentést tesz; látogasson el az aranyórában a drámai megvilágítás és az érdekes árnyékok érdekében.",
+            "ro": "Această statuie unică face o declarație îndrăzneață; vizitați în timpul orei de aur pentru o iluminare dramatică și umbre interesante.",
+            "en": "This unique and somewhat controversial statue makes a bold statement; visit during golden hour for dramatic lighting and interesting shadows."
+          }
+        },
+        {
+          "name": {
+            "de": "Infoculta",
+            "hu": "Infoculta",
+            "ro": "Infoculta",
+            "en": "Infoculta"
+          },
+          "coords": [
+            -110.94045,
+            31.307175
+          ],
+          "category": "cultural",
+          "arrive_at": "11:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ein wichtiges Zentrum für Gemeindekunst; überprüfen Sie das schwarze Brett am Eingang, um vielleicht eine spontane Abendvorstellung zu erwischen.",
+            "hu": "Létfontosságú központ a közösségi művészetek számára; nézze meg a hirdetőtáblát a bejáratnál, hogy elcsípjen egy rögtönzött esti előadást.",
+            "ro": "Un centru vital pentru arte și evenimente culturale; verificați panoul de la intrare pentru a prinde o reprezentație de seară improvizată.",
+            "en": "A vital hub for community arts and cultural events; check their noticeboard right at the entrance to catch an impromptu evening performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstmuseum Nogales",
+            "hu": "Nogales Művészeti Múzeum",
+            "ro": "Muzeul de Artă Nogales",
+            "en": "Nogales Museum of Art"
+          },
+          "coords": [
+            -110.944426,
+            31.330525
+          ],
+          "category": "museum",
+          "arrive_at": "13:19",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier vielfältige Kunststile der Grenzregion; kommen Sie früh, um die Galerien in Ruhe zu genießen, und fragen Sie nach Workshops.",
+            "hu": "Fedezze fel itt a változatos határvidéki művészeti stílusokat; érkezzen korán, hogy nyugodtan élvezze a galériákat, és kérdezzen a helyi workshopokról.",
+            "ro": "Descoperiți diverse stiluri de artă aici; sosiți devreme pentru a vă bucura de galerii în liniște și întrebați de atelierele locale de sezon.",
+            "en": "Discover diverse borderland art styles here; arrive early to enjoy the galleries quietly and ask staff about seasonal local workshops."
+          }
+        },
+        {
+          "name": {
+            "de": "Primeria Alta History Museum",
+            "hu": "Primeria Alta Történeti Múzeum",
+            "ro": "Muzeul de Istorie Primeria Alta",
+            "en": "Primeria Alta History Museum"
+          },
+          "coords": [
+            -110.940816,
+            31.33496
+          ],
+          "category": "museum",
+          "arrive_at": "15:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Vergangenheit der Region ein; achten Sie auf den antiken Uhrenturm und prüfen Sie den Zeitplan der Wechselausstellungen.",
+            "hu": "Lépjen be a régió gazdag múltjába az egykori bíróság épületében; figyelje meg az antik óratornyot, és nézze meg az időszaki kiállításokat.",
+            "ro": "Pășiți în trecutul bogat al regiunii într-un vechi tribunal; acordați atenție turnului cu ceas antic și verificați programul expozițiilor temporare.",
+            "en": "Step into the region's rich past housed in an old courthouse; pay attention to the antique clock tower and check their temporary exhibit schedule."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Cruz County Honor Roll",
+            "hu": "Santa Cruz Megyei Dicsőségtábla",
+            "ro": "Panoul de Onoare Santa Cruz County",
+            "en": "Santa Cruz County Honor Roll"
+          },
+          "coords": [
+            -110.931226,
+            31.345929
+          ],
+          "category": "historical",
+          "arrive_at": "16:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Dieses feierliche Denkmal ehrt lokale Veteranen; nähern Sie sich mit Respekt und nehmen Sie sich Zeit, die detaillierten Inschriften zu lesen.",
+            "hu": "Ez az ünnepélyes emlékmű a helyi veteránokat tiszteli; közelítsen tisztelettel, és szánjon időt a részletes feliratok elolvasására.",
+            "ro": "Acest monument solemn onorează veteranii locali; apropiați-vă cu respect și alocați timp pentru a citi inscripțiile detaliate din istoria zonei.",
+            "en": "This solemn monument honors local veterans; approach with respect and take time to read the detailed inscriptions reflecting the area's service history."
+          }
+        },
+        {
+          "name": {
+            "de": "Padre Kino Statue",
+            "hu": "Padre Kino Szobor",
+            "ro": "Statuia Padre Kino",
+            "en": "Padre Kino Statue"
+          },
+          "coords": [
+            -110.92823,
+            31.350527
+          ],
+          "category": "historical",
+          "arrive_at": "18:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die hoch aufragende Hommage an den berühmten Jesuitenmissionar; der beste Fotowinkel ist vom leicht erhöhten Weg auf der Südseite.",
+            "hu": "Csodálja meg a híres jezsuita misszionárius előtti tiszteletadást; a legjobb fotószög a déli oldalon lévő kissé megemelt útról nyílik.",
+            "ro": "Admirați omagiul impunător adus faimosului misionar iezuit; cel mai bun unghi foto este de pe calea ușor înălțată din partea de sud.",
+            "en": "Admire the towering tribute to the famous Jesuit missionary; the best photo angle is from the slightly elevated path on the southern side."
+          }
+        },
+        {
+          "name": {
+            "de": "Nogalitos",
+            "hu": "Nogalitos",
+            "ro": "Nogalitos",
+            "en": "Nogalitos"
+          },
+          "coords": [
+            -110.926069,
+            31.349315
+          ],
+          "category": "historical",
+          "arrive_at": "19:26",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie einen klassischen historischen Ort; halten Sie Ausschau nach historischen Gedenktafeln und tragen Sie bequeme Schuhe für die unebenen Wege.",
+            "hu": "Tapasztalja meg a klasszikus történelmi helyet; tartsa nyitva a szemét a történelmi emléktáblákra, és viseljen kényelmes cipőt az egyenetlen utakon.",
+            "ro": "Experimentați un loc istoric clasic; fiți atenți la plăcile istorice și purtați încălțăminte confortabilă pentru potecile denivelate.",
+            "en": "Experience a classic historical spot that defines early settlement days; keep an eye out for historic plaques and wear comfortable shoes for the uneven paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre umfassende Autotour an der Alberca Santa Lucia im Süden, und erreichen Sie bald das Monumento a la Ignoracia und die Infoculta. Mittags parken Sie zentral für das Kunstmuseum und das Primeria Alta History Museum. Am Nachmittag fahren Sie nach Norden, um am Santa Cruz County Honor Roll und der Padre Kino Statue innezuhalten. Beenden Sie Ihren Abend am Nogalitos.",
+        "hu": "Kezdje átfogó autós túráját a déli Alberca Santa Lucia nyugalmánál, majd gyorsan érje el a Monumento a la Ignoracia-t és az Infocultát. Délben parkoljon le középen a Művészeti Múzeum és a Primeria Alta Történeti Múzeum felfedezéséhez. A délutáni vezetés északra viszi a Santa Cruz megyei Dicsőségtáblához és a történelmi Padre Kino szoborhoz. Zárja az estét a Nogalitosnál, élvezve a határ szellemét.",
+        "ro": "Începeți turul cu mașina la liniștita Alberca Santa Lucia din sud, apoi ajungeți rapid la Monumento a la Ignoracia și Infoculta. La prânz, parcați central pentru a explora Muzeul de Artă și iconicul Muzeu de Istorie Primeria Alta. După-amiaza mergeți spre nord pentru a reflecta la Santa Cruz County Honor Roll și la Statuia Padre Kino. Încheiați-vă seara la Nogalitos, apreciind spiritul graniței.",
+        "en": "Start your comprehensive driving tour at the peaceful Alberca Santa Lucia in the south, then quickly reach the Monumento a la Ignoracia and Infoculta. Midday, park centrally to explore the rich exhibits of the Nogales Museum of Art and the iconic Primeria Alta History Museum. Afternoon driving takes you efficiently north to reflect at the Santa Cruz County Honor Roll and the historic Padre Kino Statue. Conclude your evening at Nogalitos, appreciating the enduring spirit of the border."
+      }
+    }
+  }
+}

@@ -1,0 +1,520 @@
+{
+  "city_id": "spain-noia-cities-v2",
+  "anchor": {
+    "name": "Noia",
+    "coords": [
+      -8.88774,
+      42.78508
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:49",
+      "total_km": 3.54,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sociedade Liceo de Noia",
+            "hu": "Sociedade Liceo de Noia",
+            "ro": "Sociedade Liceo de Noia",
+            "en": "Sociedade Liceo de Noia"
+          },
+          "coords": [
+            -8.88746,
+            42.786176
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses historischen Kulturvereins und werfen Sie einen Blick auf das Programm für abendliche Konzerte.",
+            "hu": "Csodálja meg ennek a történelmi kulturális egyesületnek az építészetét, és mindenképpen ellenőrizze az esti koncertek programját.",
+            "ro": "Admirați arhitectura acestei societăți culturale istorice și verificați programul evenimentelor pentru concerte de seară captivante.",
+            "en": "Admire the striking architecture of this historic cultural society, and be sure to check their event schedule for captivating evening concerts."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo das Laudas",
+            "hu": "Museo das Laudas",
+            "ro": "Museo das Laudas",
+            "en": "Museo das Laudas"
+          },
+          "coords": [
+            -8.885966,
+            42.783492
+          ],
+          "category": "museum",
+          "arrive_at": "09:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Sammlung mittelalterlicher Grabsteine in diesem Museum und achten Sie besonders auf die detaillierten Steinmetzarbeiten.",
+            "hu": "Fedezze fel a középkori sírkövek lenyűgöző gyűjteményét ebben a múzeumban, és figyeljen a részletgazdag, ősi kőfaragások apró finomságaira.",
+            "ro": "Descoperiți colecția fascinantă de pietre funerare medievale din acest muzeu și acordați o atenție deosebită detaliilor sculpturilor antice.",
+            "en": "Discover the fascinating collection of medieval tombstones in this unique museum, paying close attention to the intricate details of the stone carvings."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo do Mar de Noia",
+            "hu": "Museo do Mar de Noia",
+            "ro": "Museo do Mar de Noia",
+            "en": "Museo do Mar de Noia"
+          },
+          "coords": [
+            -8.887873,
+            42.781877
+          ],
+          "category": "museum",
+          "arrive_at": "11:24",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die reiche maritime Geschichte von Noia und nehmen Sie an einer geführten Tour teil, um mehr über die lokalen Fischertraditionen zu erfahren.",
+            "hu": "Merüljön el Noia gazdag tengerészeti történelmében, és vegyen részt egy vezetett túrán, hogy többet megtudjon a helyi halászati hagyományokról.",
+            "ro": "Cufundați-vă în bogata istorie maritimă a orașului Noia și participați la un tur ghidat pentru a afla mai multe despre tradițiile locale de pescuit.",
+            "en": "Immerse yourself in Noia's rich maritime history and consider taking a guided tour to gain deeper insights into the town's enduring fishing traditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de Santa Mariña do Obre",
+            "hu": "Igrexa de Santa Mariña do Obre",
+            "ro": "Igrexa de Santa Mariña do Obre",
+            "en": "Igrexa de Santa Mariña do Obre"
+          },
+          "coords": [
+            -8.897716,
+            42.782101
+          ],
+          "category": "religious",
+          "arrive_at": "13:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.79,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante Kirche, um ihre ruhige Atmosphäre zu genießen, und fotografieren Sie die wunderschönen Details der Außenfassade.",
+            "hu": "Látogasson el ebbe a bájos templomba, élvezze a békés hangulatot, és fényképezze le a külső homlokzat gyönyörű részleteit.",
+            "ro": "Vizitați această biserică fermecătoare pentru a vă bucura de atmosfera sa liniștită și fotografiați detaliile frumoase ale fațadei exterioare.",
+            "en": "Visit this charming church to enjoy its peaceful atmosphere, and capture beautiful photographs of the exterior facade details in the soft light."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradoiro do Paseo Marítimo",
+            "hu": "Miradoiro do Paseo Marítimo",
+            "ro": "Miradoiro do Paseo Marítimo",
+            "en": "Miradoiro do Paseo Marítimo"
+          },
+          "coords": [
+            -8.898367,
+            42.790458
+          ],
+          "category": "natural",
+          "arrive_at": "14:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.93,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf das Meer von diesem Aussichtspunkt und bringen Sie ein Fernglas mit, um die vorbeifahrenden Fischerboote zu beobachten.",
+            "hu": "Élvezze a panorámás kilátást a tengerre ebből a kilátóból, és hozzon magával távcsövet, hogy megfigyelhesse az elhaladó halászhajókat.",
+            "ro": "Bucurați-vă de vederea panoramică la ocean de la acest punct de belvedere și aduceți binoclul pentru a observa bărcile de pescari.",
+            "en": "Enjoy the sweeping panoramic views of the ocean from this scenic viewpoint, and bring binoculars to observe the traditional fishing boats passing by."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradoiro de Santa Cristina",
+            "hu": "Miradoiro de Santa Cristina",
+            "ro": "Miradoiro de Santa Cristina",
+            "en": "Miradoiro de Santa Cristina"
+          },
+          "coords": [
+            -8.883071,
+            42.792877
+          ],
+          "category": "natural",
+          "arrive_at": "14:54",
+          "stay_min": 55,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 1.27,
+          "tip_5lang": {
+            "de": "Erleben Sie einen atemberaubenden Ausblick von diesem hochgelegenen Punkt und ziehen Sie sich warm an, da es hier oft etwas windig wird.",
+            "hu": "Élvezze a lélegzetelállító kilátást ebből a magasan fekvő pontból, és öltözzön melegen, mivel az esti órákban gyakran hűvös és szeles lehet az idő.",
+            "ro": "Experimentați o priveliște uluitoare din acest punct înalt și îmbrăcați-vă călduros, deoarece seara devine adesea destul de vântos pe coastă.",
+            "en": "Experience a breathtaking coastal view from this elevated vantage point, and be sure to dress warmly as the coastal breeze can get quite chilly."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im Zentrum von Noia, genießen Sie die Kultur im Sociedade Liceo, bevor Sie im Museo das Laudas in die Geschichte eintauchen. Mittags besuchen Sie das Museo do Mar, wo die maritimen Traditionen lebendig werden. Am Nachmittag spazieren Sie am Paseo Marítimo entlang. Ihr Abend endet mit einem atemberaubenden Blick von Santa Cristina.",
+        "hu": "Kezdje a reggelt Noia központjában, szívja magába a kulturális hangulatot a Sociedade Liceo-ban, mielőtt elmerülne a történelemben a Museo das Laudas-ban. Délben látogasson el a Museo do Mar-ba, ahol megelevenednek a tengerészeti hagyományok. Délután sétáljon végig a Paseo Marítimo-n. Az este gyönyörű kilátással zárul Santa Cristinából.",
+        "ro": "Începeți dimineața în centrul orașului Noia, absorbind vibrațiile culturale la Sociedade Liceo înainte de a explora istoria la Museo das Laudas. La prânz ajungeți la Museo do Mar, unde tradițiile prind viață. După-amiaza vizitați Santa Mariña do Obre și plimbați-vă pe Paseo Marítimo. Seara se încheie cu vederi de coastă uimitoare din Santa Cristina.",
+        "en": "Begin your morning in Noia's center, soaking in the cultural vibes at Sociedade Liceo before diving into local history at Museo das Laudas. Midday brings you to the Museo do Mar, where maritime traditions come alive. In the afternoon, visit the peaceful Santa Mariña do Obre and stroll along the scenic Paseo Marítimo. Your evening concludes beautifully with stunning coastal views from Santa Cristina."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:57",
+      "total_km": 4.91,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo das Laudas",
+            "hu": "Museo das Laudas",
+            "ro": "Museo das Laudas",
+            "en": "Museo das Laudas"
+          },
+          "coords": [
+            -8.885966,
+            42.783492
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Sammlung mittelalterlicher Grabsteine in diesem Museum und achten Sie besonders auf die detaillierten Steinmetzarbeiten.",
+            "hu": "Fedezze fel a középkori sírkövek lenyűgöző gyűjteményét ebben a múzeumban, és figyeljen a részletgazdag, ősi kőfaragások apró finomságaira.",
+            "ro": "Descoperiți colecția fascinantă de pietre funerare medievale din acest muzeu și acordați o atenție deosebită detaliilor sculpturilor antice.",
+            "en": "Discover the fascinating collection of medieval tombstones in this unique museum, paying close attention to the intricate details of the stone carvings."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de Santa Mariña do Obre",
+            "hu": "Igrexa de Santa Mariña do Obre",
+            "ro": "Igrexa de Santa Mariña do Obre",
+            "en": "Igrexa de Santa Mariña do Obre"
+          },
+          "coords": [
+            -8.897716,
+            42.782101
+          ],
+          "category": "religious",
+          "arrive_at": "10:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.96,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante Kirche, um ihre ruhige Atmosphäre zu genießen, und fotografieren Sie die wunderschönen Details der Außenfassade.",
+            "hu": "Látogasson el ebbe a bájos templomba, élvezze a békés hangulatot, és fényképezze le a külső homlokzat gyönyörű részleteit.",
+            "ro": "Vizitați această biserică fermecătoare pentru a vă bucura de atmosfera sa liniștită și fotografiați detaliile frumoase ale fațadei exterioare.",
+            "en": "Visit this charming church to enjoy its peaceful atmosphere, and capture beautiful photographs of the exterior facade details in the soft light."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradoiro do Paseo Marítimo",
+            "hu": "Miradoiro do Paseo Marítimo",
+            "ro": "Miradoiro do Paseo Marítimo",
+            "en": "Miradoiro do Paseo Marítimo"
+          },
+          "coords": [
+            -8.898367,
+            42.790458
+          ],
+          "category": "natural",
+          "arrive_at": "11:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.93,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf das Meer von diesem Aussichtspunkt und bringen Sie ein Fernglas mit, um die vorbeifahrenden Fischerboote zu beobachten.",
+            "hu": "Élvezze a panorámás kilátást a tengerre ebből a kilátóból, és hozzon magával távcsövet, hogy megfigyelhesse az elhaladó halászhajókat.",
+            "ro": "Bucurați-vă de vederea panoramică la ocean de la acest punct de belvedere și aduceți binoclul pentru a observa bărcile de pescari.",
+            "en": "Enjoy the sweeping panoramic views of the ocean from this scenic viewpoint, and bring binoculars to observe the traditional fishing boats passing by."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia Rebordiño",
+            "hu": "Praia Rebordiño",
+            "ro": "Praia Rebordiño",
+            "en": "Praia Rebordiño"
+          },
+          "coords": [
+            -8.907894,
+            42.78913
+          ],
+          "category": "recreational",
+          "arrive_at": "12:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.78,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem ruhigen Strand und machen Sie einen Spaziergang entlang der Küste, um beim Ebbe Muscheln im feinen Sand zu sammeln.",
+            "hu": "Pihenjen ezen a csendes strandon, és tegyen egy sétát a part mentén, hogy kagylókat gyűjtsön a finom homokban, különösen apály idején.",
+            "ro": "Relaxați-vă pe această plajă liniștită și faceți o plimbare de-a lungul coastei pentru a colecta scoici în nisipul fin în timpul refluxului.",
+            "en": "Relax on this quiet beach and take a peaceful stroll along the coastline to collect beautiful seashells hidden in the soft sand during low tide."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Testal",
+            "hu": "Praia do Testal",
+            "ro": "Praia do Testal",
+            "en": "Praia do Testal"
+          },
+          "coords": [
+            -8.913229,
+            42.790567
+          ],
+          "category": "recreational",
+          "arrive_at": "13:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Verbringen Sie entspannte Stunden an diesem malerischen Strand, bringen Sie Picknickutensilien mit und genießen Sie das klare, erfrischende Wasser.",
+            "hu": "Töltsön el néhány pihentető órát ezen a festői strandon, hozzon magával piknikfelszerelést, és élvezze a tiszta, frissítő tengervíz nyújtotta felüdülést.",
+            "ro": "Petreceți câteva ore de relaxare pe această plajă pitorească, aduceți provizii pentru picnic și bucurați-vă de apele clare și răcoroase.",
+            "en": "Spend a few relaxing hours at this picturesque beach, bringing along some picnic supplies to fully enjoy the clear, refreshing ocean waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro da Barquiña",
+            "hu": "Castro da Barquiña",
+            "ro": "Castro da Barquiña",
+            "en": "Castro da Barquiña"
+          },
+          "coords": [
+            -8.900963,
+            42.802143
+          ],
+          "category": "historical",
+          "arrive_at": "14:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.62,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieser alten Siedlung und tragen Sie festes Schuhwerk, da das Gelände beim Wandern zwischen den Steinen recht uneben ist.",
+            "hu": "Fedezze fel ennek az ősi településnek a romjait, és viseljen kényelmes, zárt cipőt, mivel a kövek közötti túrázás során a terep egyenetlen.",
+            "ro": "Explorați ruinele acestei așezări antice și purtați încălțăminte robustă, deoarece terenul este destul de accidentat când mergeți printre pietre.",
+            "en": "Explore the fascinating ruins of this ancient settlement, and make sure to wear sturdy footwear as the terrain is quite uneven around the stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de A Barquiña",
+            "hu": "Praia de A Barquiña",
+            "ro": "Praia de A Barquiña",
+            "en": "Praia de A Barquiña"
+          },
+          "coords": [
+            -8.899349,
+            42.802951
+          ],
+          "category": "recreational",
+          "arrive_at": "16:12",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an diesem wunderschönen Sandstrand ausklingen und probieren Sie unbedingt die lokalen Meeresfrüchte in einer der nahegelegenen Tavernen.",
+            "hu": "Fejezze be a napot ezen a gyönyörű homokos strandon, és mindenképpen kóstolja meg a friss, helyi tengeri ételeket egy közeli, hangulatos tavernában.",
+            "ro": "Încheiați ziua pe această plajă frumoasă cu nisip și asigurați-vă că gustați fructele de mare locale proaspete la una dintre tavernele din apropiere.",
+            "en": "End your day at this beautiful sandy beach, and be absolutely sure to taste the fresh local seafood at one of the welcoming taverns nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt mit der mittelalterlichen Sammlung im Museo das Laudas und führt zur ruhigen Kirche Santa Mariña do Obre. Mittags radeln Sie entlang der Küste mit herrlichem Blick vom Paseo Marítimo und den ruhigen Ufern von Praia Rebordiño. Der Nachmittag geht weiter zur Praia do Testal und endet mit der Erkundung des antiken Castro da Barquiña.",
+        "hu": "Kerékpártúrája a Museo das Laudas lenyűgöző középkori gyűjteményével kezdődik, majd a békés Santa Mariña do Obre templomhoz vezet. Délben a tengerpart mentén pedálozva a Paseo Marítimo és a Praia Rebordiño csendes partjai várják. A délután a Praia do Testal felé folytatódik, és a nap a Castro da Barquiña felfedezésével és strandolással zárul.",
+        "ro": "Turul tău cu bicicleta începe cu colecția medievală de la Museo das Laudas, îndreptându-se apoi spre liniștita biserică Santa Mariña do Obre. La prânz, pedalatul de-a lungul coastei te răsplătește cu vederi de pe Paseo Marítimo și Praia Rebordiño. După-amiaza continuă la Praia do Testal, și se termină explorând anticul Castro da Barquiña lângă plajă.",
+        "en": "Your cycling tour starts with the fascinating medieval collection at Museo das Laudas, heading next to the serene church of Santa Mariña do Obre. By midday, pedaling along the coast rewards you with sweeping views from the Paseo Marítimo and the quiet shores of Praia Rebordiño. The afternoon continues to Praia do Testal, and ends exploring the ancient Castro da Barquiña before relaxing at the beach."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:55",
+      "total_km": 8.64,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "As Eiras do Castro",
+            "hu": "As Eiras do Castro",
+            "ro": "As Eiras do Castro",
+            "en": "As Eiras do Castro"
+          },
+          "coords": [
+            -8.873351,
+            42.77366
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Reise an dieser faszinierenden archäologischen Stätte und kommen Sie früh am Morgen, um das beste Licht für großartige Fotos zu haben.",
+            "hu": "Kezdje utazását ezen a lenyűgöző régészeti lelőhelyen, és érkezzen kora reggel, hogy a legjobb fényviszonyokat élvezhesse a nagyszerű fotókhoz.",
+            "ro": "Începeți călătoria la acest sit arheologic fascinant și sosiți dis-de-dimineață pentru a prinde cea mai bună lumină pentru fotografii spectaculoase de vacanță.",
+            "en": "Begin your journey at this fascinating archaeological site, arriving early in the morning to catch the absolute best light for capturing stunning photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen da Cova da Moura",
+            "hu": "Dolmen da Cova da Moura",
+            "ro": "Dolmen da Cova da Moura",
+            "en": "Dolmen da Cova da Moura"
+          },
+          "coords": [
+            -8.890988,
+            42.768896
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.52,
+          "tip_5lang": {
+            "de": "Besichtigen Sie dieses beeindruckende Megalithgrab und lesen Sie die Informationstafeln, um mehr über die prähistorische Kultur der Region zu erfahren.",
+            "hu": "Látogassa meg ezt a lenyűgöző megalitikus síremléket, és olvassa el az információs táblákat, hogy többet megtudjon a régió őskori kultúrájáról.",
+            "ro": "Vizitați acest mormânt megalitic impresionant și citiți panourile informative pentru a afla mai multe detalii despre cultura preistorică a regiunii.",
+            "en": "Visit this impressive megalithic tomb and take the time to read the informative plaques to learn more about the region's mysterious prehistoric culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro de Sobreviñas",
+            "hu": "Castro de Sobreviñas",
+            "ro": "Castro de Sobreviñas",
+            "en": "Castro de Sobreviñas"
+          },
+          "coords": [
+            -8.890758,
+            42.770327
+          ],
+          "category": "historical",
+          "arrive_at": "11:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die Überreste dieses alten Runddorfes und achten Sie auf die strategisch günstige Lage, die einen hervorragenden Überblick bot.",
+            "hu": "Sétáljon végig ennek az ősi köralakú falunak a maradványain, és figyelje meg a stratégiailag előnyös elhelyezkedést, amely kiváló kilátást biztosított.",
+            "ro": "Plimbați-vă prin rămășițele acestui vechi sat circular și observați locația sa strategică avantajoasă, care oferea o vedere excelentă asupra văii.",
+            "en": "Wander through the remnants of this ancient circular village, noting its highly strategic and advantageous location that offered an excellent defensive overview."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de Santa María de Argalo",
+            "hu": "Igrexa de Santa María de Argalo",
+            "ro": "Igrexa de Santa María de Argalo",
+            "en": "Igrexa de Santa María de Argalo"
+          },
+          "coords": [
+            -8.900868,
+            42.765514
+          ],
+          "category": "religious",
+          "arrive_at": "13:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.98,
+          "tip_5lang": {
+            "de": "Betrachten Sie die schöne Architektur dieser traditionellen Kirche und achten Sie auf die kunstvollen Verzierungen, die typisch für diese Gegend sind.",
+            "hu": "Tekintse meg ennek a hagyományos templomnak a gyönyörű építészetét, és figyelje meg a művészi díszítéseket, amelyek jellemzőek erre a vidéki területre.",
+            "ro": "Admirați arhitectura frumoasă a acestei biserici tradiționale și observați decorațiunile artistice complicate care sunt tipice pentru această zonă rurală.",
+            "en": "Examine the beautiful architecture of this traditional church, paying close attention to the ornate decorations that are highly typical of this rural area."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo do Mar de Noia",
+            "hu": "Museo do Mar de Noia",
+            "ro": "Museo do Mar de Noia",
+            "en": "Museo do Mar de Noia"
+          },
+          "coords": [
+            -8.887873,
+            42.781877
+          ],
+          "category": "museum",
+          "arrive_at": "14:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die reiche maritime Geschichte von Noia und nehmen Sie an einer geführten Tour teil, um mehr über die lokalen Fischertraditionen zu erfahren.",
+            "hu": "Merüljön el Noia gazdag tengerészeti történelmében, és vegyen részt egy vezetett túrán, hogy többet megtudjon a helyi halászati hagyományokról.",
+            "ro": "Cufundați-vă în bogata istorie maritimă a orașului Noia și participați la un tur ghidat pentru a afla mai multe despre tradițiile locale de pescuit.",
+            "en": "Immerse yourself in Noia's rich maritime history and consider taking a guided tour to gain deeper insights into the town's enduring fishing traditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Testal",
+            "hu": "Praia do Testal",
+            "ro": "Praia do Testal",
+            "en": "Praia do Testal"
+          },
+          "coords": [
+            -8.913229,
+            42.790567
+          ],
+          "category": "recreational",
+          "arrive_at": "15:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.26,
+          "tip_5lang": {
+            "de": "Verbringen Sie entspannte Stunden an diesem malerischen Strand, bringen Sie Picknickutensilien mit und genießen Sie das klare, erfrischende Wasser.",
+            "hu": "Töltsön el néhány pihentető órát ezen a festői strandon, hozzon magával piknikfelszerelést, és élvezze a tiszta, frissítő tengervíz nyújtotta felüdülést.",
+            "ro": "Petreceți câteva ore de relaxare pe această plajă pitorească, aduceți provizii pentru picnic și bucurați-vă de apele clare și răcoroase.",
+            "en": "Spend a few relaxing hours at this picturesque beach, bringing along some picnic supplies to fully enjoy the clear, refreshing ocean waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro da Barquiña",
+            "hu": "Castro da Barquiña",
+            "ro": "Castro da Barquiña",
+            "en": "Castro da Barquiña"
+          },
+          "coords": [
+            -8.900963,
+            42.802143
+          ],
+          "category": "historical",
+          "arrive_at": "17:05",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.62,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieser alten Siedlung und tragen Sie festes Schuhwerk, da das Gelände beim Wandern zwischen den Steinen recht uneben ist.",
+            "hu": "Fedezze fel ennek az ősi településnek a romjait, és viseljen kényelmes, zárt cipőt, mivel a kövek közötti túrázás során a terep egyenetlen.",
+            "ro": "Explorați ruinele acestei așezări antice și purtați încălțăminte robustă, deoarece terenul este destul de accidentat când mergeți printre pietre.",
+            "en": "Explore the fascinating ruins of this ancient settlement, and make sure to wear sturdy footwear as the terrain is quite uneven around the stones."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Begeben Sie sich auf eine archäologische Morgenfahrt ab As Eiras do Castro, die nahtlos zum Megalithgrab Dolmen da Cova da Moura führt. Mittags machen Sie eine friedliche Pause in Santa María de Argalo, bevor Sie im Museo do Mar in die Geschichte eintauchen. Verbringen Sie Ihren Nachmittag an der Praia do Testal und beenden Sie den Tag an den Ruinen von Castro da Barquiña.",
+        "hu": "Induljon egy régészeti reggeli autózásra As Eiras do Castro-ból, zökkenőmentesen haladva a Dolmen da Cova da Moura és Castro de Sobreviñas felé. A dél egy békés pihenőt kínál Santa María de Argalo-ban, mielőtt elmerülne a Museo do Mar-ban. Töltse a délutánt a Praia do Testal homokján, és zárja a napot a Castro da Barquiña tengerparti romjainál.",
+        "ro": "Porniți într-o plimbare matinală arheologică începând la As Eiras do Castro, trecând spre Dolmen da Cova da Moura și Castro de Sobreviñas. Prânzul oferă o pauză liniștită la Santa María de Argalo înainte de a pătrunde în istorie la Museo do Mar. Petreceți-vă după-amiaza pe Praia do Testal și încheiați ziua explorând ruinele dramatice de coastă ale Castro da Barquiña.",
+        "en": "Embark on an archaeological morning drive starting at As Eiras do Castro, moving seamlessly to the megalithic Dolmen da Cova da Moura and Castro de Sobreviñas. Midday offers a peaceful break at Santa María de Argalo before delving into maritime history at Museo do Mar. Spend your afternoon on the sands of Praia do Testal, and conclude the day exploring the dramatic coastal ruins of Castro da Barquiña."
+      }
+    }
+  }
+}

@@ -1,0 +1,520 @@
+{
+  "city_id": "spain-viladecans-cities-v2",
+  "anchor": {
+    "name": "Viladecans",
+    "coords": [
+      2.018247,
+      41.317325
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:47",
+      "total_km": 2.48,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Església de Sant Joan",
+            "hu": "Església de Sant Joan",
+            "ro": "Església de Sant Joan",
+            "en": "Església de Sant Joan"
+          },
+          "coords": [
+            2.018591,
+            41.317324
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese moderne neugotische Pfarrkirche und kommen Sie früh, um das wunderschöne Licht der Buntglasfenster zu erleben.",
+            "hu": "Csodálja meg ezt a modern neogótikus plébániatemplomot, és érkezzen korán, hogy láthassa a gyönyörű ólomüveg fényeket.",
+            "ro": "Admirați această biserică parohială neogotică modernă și vizitați dimineața devreme pentru a prinde lumina superbă a vitraliilor.",
+            "en": "Admire this modern neo-Gothic parish church, deeply tied to the city's spiritual life, and visit early to catch the beautiful stained-glass lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre del Baró",
+            "hu": "Torre del Baró",
+            "ro": "Torre del Baró",
+            "en": "Torre del Baró"
+          },
+          "coords": [
+            2.020387,
+            41.316209
+          ],
+          "category": "castle",
+          "arrive_at": "09:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende mittelalterliche Befestigungsanlage und prüfen Sie den Zeitplan des Kulturzentrums für geführte Touren.",
+            "hu": "Fedezze fel ezt a lenyűgöző középkori erődítményt, és ellenőrizze a helyi kulturális központ menetrendjét a vezetett túrákért.",
+            "ro": "Explorați această fortificație medievală fascinantă și verificați programul centrului cultural local pentru acces cu ghid.",
+            "en": "Explore this fascinating medieval fortification which once defended the territory, and check the local cultural center's schedule for guided access."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Roja",
+            "hu": "Torre Roja",
+            "ro": "Torre Roja",
+            "en": "Torre Roja"
+          },
+          "coords": [
+            2.022294,
+            41.320407
+          ],
+          "category": "historical",
+          "arrive_at": "11:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.49,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das markante rote Mauerwerk dieses mittelalterlichen Turms und umrunden Sie seinen restaurierten Verteidigungsring für die besten Fotos.",
+            "hu": "Csodálja meg a történelmi középkori torony jellegzetes piros kőműves munkáját, és sétálja körbe a felújított védelmi falat a legjobb fotókért.",
+            "ro": "Admirați zidăria roșie distinctivă a acestui turn medieval istoric și faceți o plimbare pe perimetrul său defensiv restaurat pentru cele mai bune fotografii.",
+            "en": "Marvel at the distinct red stonework of this historic medieval tower, taking time to walk around its restored defensive perimeter for the best photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Atrium Viladecans",
+            "hu": "Teatro Atrium Viladecans",
+            "ro": "Teatro Atrium Viladecans",
+            "en": "Teatro Atrium Viladecans"
+          },
+          "coords": [
+            2.013192,
+            41.314681
+          ],
+          "category": "cultural",
+          "arrive_at": "12:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.98,
+          "tip_5lang": {
+            "de": "Entdecken Sie das pulsierende Herz der darstellenden Künste in diesem modernen Gebäude und buchen Sie Ihre Tickets im Voraus.",
+            "hu": "Fedezze fel a város előadó-művészetének élénk szívét ebben a modern épületben, és foglalja le jegyeit előre egy esti előadásra.",
+            "ro": "Descoperiți inima vibrantă a artelor spectacolului în această clădire modernă și rezervați-vă biletele în avans pentru un spectacol de seară.",
+            "en": "Discover the vibrant heart of the city's performing arts in this modern venue, and book your tickets in advance to enjoy an evening performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Església de Santa Maria de Sales",
+            "hu": "Església de Santa Maria de Sales",
+            "ro": "Església de Santa Maria de Sales",
+            "en": "Església de Santa Maria de Sales"
+          },
+          "coords": [
+            2.008168,
+            41.311008
+          ],
+          "category": "religious",
+          "arrive_at": "14:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.59,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Moment in dieser romanischen Einsiedelei und achten Sie auf die aufwendigen Steinmetzarbeiten am Haupteingang.",
+            "hu": "Töltsön el egy csendes pillanatot ebben a román stílusú remeteségben, és figyelje meg a fő boltíves bejáratot keretező bonyolult kőműves munkát.",
+            "ro": "Luați-vă un moment de liniște în acest schit romanic și acordați atenție lucrăturii complicate din piatră care încadrează intrarea principală.",
+            "en": "Take a quiet moment in this beautifully preserved Romanesque hermitage, and pay attention to the intricate stonework framing the main arched entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Ateneu de les Arts",
+            "hu": "Ateneu de les Arts",
+            "ro": "Ateneu de les Arts",
+            "en": "Ateneu de les Arts"
+          },
+          "coords": [
+            2.009282,
+            41.309069
+          ],
+          "category": "cultural",
+          "arrive_at": "15:02",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die lokale Kunstszene ein, indem Sie dieses kulturelle Zentrum besuchen, und achten Sie auf kostenlose temporäre Ausstellungen.",
+            "hu": "Merüljön el a helyi művészeti életben ennek a kulturális központnak a meglátogatásával, és mindig keresse az ingyenes időszaki kiállításokat.",
+            "ro": "Scufundați-vă în scena artistică locală vizitând acest centru cultural și verificați întotdeauna panoul pentru expoziții temporare gratuite.",
+            "en": "Dive into the local artistic scene by visiting this cultural hub, where you should always check the notice board for free temporary exhibitions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Herzen von Viladecans mit der Erkundung der ikonischen Església de Sant Joan und dem imposanten Torre del Baró. Mittags lädt ein angenehmer Spaziergang zum historischen Torre Roja ein, der die architektonische Entwicklung zeigt. Der Nachmittag ist der Kultur im Teatro Atrium und der ruhigen Església de Santa Maria de Sales gewidmet. Der Abend klingt im Ateneu de les Arts aus.",
+        "hu": "A reggel Viladecans szívében kezdődik, az ikonikus Església de Sant Joan és az impozáns Torre del Baró felfedezésével. Délben egy kellemes séta a történelmi Torre Roja felé tárja fel a város építészeti fejlődését. A délután a kultúrának van szentelve a Teatro Atrium és a nyugodt Església de Santa Maria de Sales meglátogatásával. Az este az Ateneu de les Arts helyi kreativitásának megtekintésével zárul.",
+        "ro": "Dimineața începe în inima orașului Viladecans, explorând emblematica Església de Sant Joan și impunătorul Torre del Baró. La amiază, o plimbare plăcută spre istoricul Torre Roja dezvăluie evoluția arhitecturală a orașului. După-amiaza este dedicată culturii la Teatro Atrium și serenei Església de Santa Maria de Sales. Seara se încheie la Ateneu de les Arts, bucurându-vă de creativitatea locală.",
+        "en": "Morning starts at the heart of Viladecans, exploring the iconic Església de Sant Joan and the imposing Torre del Baró. Midday invites a pleasant stroll towards the historic Torre Roja, revealing the architectural evolution of the city. Afternoon is dedicated to culture at the Teatro Atrium and the serene Església de Santa Maria de Sales. Evening winds down with a visit to the Ateneu de les Arts, offering a glimpse into local creativity."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:17",
+      "total_km": 4.03,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Centre d'Història de la Ciutat",
+            "hu": "Centre d'Història de la Ciutat",
+            "ro": "Centre d'Història de la Ciutat",
+            "en": "Centre d'Història de la Ciutat"
+          },
+          "coords": [
+            2.005013,
+            41.30608
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem umfassenden Museum in die lokale Geschichte ein und beginnen Sie Ihren Rundgang im Erdgeschoss mit den chronologischen Ausstellungen.",
+            "hu": "Mélyedjen el a helyi történelemben ebben az átfogó múzeumban, és kezdje a túrát a földszinten, hogy kövesse a kronológiai kiállításokat.",
+            "ro": "Pătrundeți în istoria locală în acest muzeu cuprinzător, începând turul la parter pentru a urmări exponatele cronologice.",
+            "en": "Delve into Viladecans' local history inside this comprehensive museum, starting your tour on the ground floor to follow the chronological exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Església de Sant Pere",
+            "hu": "Església de Sant Pere",
+            "ro": "Església de Sant Pere",
+            "en": "Església de Sant Pere"
+          },
+          "coords": [
+            2.003294,
+            41.303515
+          ],
+          "category": "religious",
+          "arrive_at": "10:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese zentrale Kirche, die für ihre schlichte Eleganz bekannt ist, und gehen Sie hinein, wenn gerade keine Gottesdienste stattfinden.",
+            "hu": "Látogassa meg ezt a szerény eleganciájáról ismert központi templomot, és feltétlenül lépjen be, amikor nincsenek vallási szertartások.",
+            "ro": "Vizitați această biserică centrală cunoscută pentru eleganța sa modestă și asigurați-vă că intrați atunci când nu au loc slujbe religioase.",
+            "en": "Visit this central church known for its modest elegance and peaceful atmosphere, making sure to step inside when there are no religious services running."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Arqueològic Mines de Gavà",
+            "hu": "Parc Arqueològic Mines de Gavà",
+            "ro": "Parc Arqueològic Mines de Gavà",
+            "en": "Parc Arqueològic Mines de Gavà"
+          },
+          "coords": [
+            2.000017,
+            41.309983
+          ],
+          "category": "historical",
+          "arrive_at": "11:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.77,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ältesten Stollenminen Europas in diesem spektakulären archäologischen Park und tragen Sie bequeme Schuhe für die unterirdischen Räume.",
+            "hu": "Fedezze fel Európa legrégebbi bányáit ebben a lenyűgöző régészeti parkban, és viseljen kényelmes cipőt a földalatti terek felfedezéséhez.",
+            "ro": "Descoperiți cele mai vechi mine de galerie din Europa în acest parc arheologic spectaculos și purtați încălțăminte comodă pentru a explora subteranul.",
+            "en": "Uncover Europe's oldest gallery mines in this spectacular archaeological park, and wear comfortable shoes to explore the fascinating underground recreated spaces."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de Can Guardiola",
+            "hu": "Parc de Can Guardiola",
+            "ro": "Parc de Can Guardiola",
+            "en": "Parc de Can Guardiola"
+          },
+          "coords": [
+            1.997976,
+            41.313022
+          ],
+          "category": "park",
+          "arrive_at": "12:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.39,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem weitläufigen Stadtpark mit üppigem Grün und bringen Sie ein kleines Picknick mit, um es an den Wasserflächen zu genießen.",
+            "hu": "Pihenjen ebben a tágas városi parkban, amely buja növényzettel rendelkezik, és hozzon magával egy kis pikniket a gyönyű vízparti területekhez.",
+            "ro": "Relaxați-vă în acest parc urban spațios cu verdeață luxuriantă și aduceți un mic picnic pentru a vă bucura de zonele cu apă frumos amenajate.",
+            "en": "Relax in this spacious urban park featuring lush greenery and walking paths, bringing a small picnic to enjoy near the beautifully landscaped water areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Església de Santa Maria de Sales",
+            "hu": "Església de Santa Maria de Sales",
+            "ro": "Església de Santa Maria de Sales",
+            "en": "Església de Santa Maria de Sales"
+          },
+          "coords": [
+            2.008168,
+            41.311008
+          ],
+          "category": "religious",
+          "arrive_at": "14:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.88,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Moment in dieser romanischen Einsiedelei und achten Sie auf die aufwendigen Steinmetzarbeiten am Haupteingang.",
+            "hu": "Töltsön el egy csendes pillanatot ebben a román stílusú remeteségben, és figyelje meg a fő boltíves bejáratot keretező bonyolult kőműves munkát.",
+            "ro": "Luați-vă un moment de liniște în acest schit romanic și acordați atenție lucrăturii complicate din piatră care încadrează intrarea principală.",
+            "en": "Take a quiet moment in this beautifully preserved Romanesque hermitage, and pay attention to the intricate stonework framing the main arched entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre del Baró",
+            "hu": "Torre del Baró",
+            "ro": "Torre del Baró",
+            "en": "Torre del Baró"
+          },
+          "coords": [
+            2.020387,
+            41.316209
+          ],
+          "category": "castle",
+          "arrive_at": "15:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.17,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende mittelalterliche Befestigungsanlage und prüfen Sie den Zeitplan des Kulturzentrums für geführte Touren.",
+            "hu": "Fedezze fel ezt a lenyűgöző középkori erődítményt, és ellenőrizze a helyi kulturális központ menetrendjét a vezetett túrákért.",
+            "ro": "Explorați această fortificație medievală fascinantă și verificați programul centrului cultural local pentru acces cu ghid.",
+            "en": "Explore this fascinating medieval fortification which once defended the territory, and check the local cultural center's schedule for guided access."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Roja",
+            "hu": "Torre Roja",
+            "ro": "Torre Roja",
+            "en": "Torre Roja"
+          },
+          "coords": [
+            2.022294,
+            41.320407
+          ],
+          "category": "historical",
+          "arrive_at": "16:27",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das markante rote Mauerwerk dieses mittelalterlichen Turms und umrunden Sie seinen restaurierten Verteidigungsring für die besten Fotos.",
+            "hu": "Csodálja meg a történelmi középkori torony jellegzetes piros kőműves munkáját, és sétálja körbe a felújított védelmi falat a legjobb fotókért.",
+            "ro": "Admirați zidăria roșie distinctivă a acestui turn medieval istoric și faceți o plimbare pe perimetrul său defensiv restaurat pentru cele mai bune fotografii.",
+            "en": "Marvel at the distinct red stonework of this historic medieval tower, taking time to walk around its restored defensive perimeter for the best photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag im stadtgeschichtlichen Museum, um die reiche Vergangenheit zu begreifen, bevor Sie zur Kirche Sant Pere fahren. Die Mittagsfahrt bringt Sie zum faszinierenden archäologischen Park der Minen von Gavà und zur Oase von Can Guardiola. Fahren Sie am Nachmittag entspannt zur Santa Maria de Sales und zum majestätischen Torre del Baró. Die Reise endet am Torre Roja im Abendlicht.",
+        "hu": "Kezdje a kerékpáros napot a helytörténeti múzeumban, majd tekerjen a hangulatos Sant Pere templomhoz. A déli utazás a gávai bányák lenyűgöző régészeti parkjához és a Can Guardiola zöldellő oázisához vezet. Délután kényelmes tempóban haladjon a Santa Maria de Sales templom és a fenséges Torre del Baró felé. Utazása az impozáns Torre Roja közelében ér véget, ahogy a nap nyugovóra tér.",
+        "ro": "Începeți ziua de ciclism la muzeul de istorie locală pentru a înțelege trecutul bogat, înainte de a vă îndrepta spre biserica Sant Pere. Pedalarea de la amiază vă aduce la parcul arheologic al minelor din Gavà și la oaza verde din Can Guardiola. După-amiaza, navigați ușor spre Santa Maria de Sales și maiestuosul Torre del Baró. Călătoria se încheie lângă impunătorul Torre Roja, la lăsarea serii.",
+        "en": "Kick off your cycling day at the local history museum to grasp the area's rich past before heading to the charming Sant Pere church. Midday pedaling brings you to the fascinating archaeological park of the Gavà mines and the green oasis of Can Guardiola. In the afternoon, smoothly navigate towards Santa Maria de Sales and the majestic Torre del Baró. Your journey concludes near the imposing Torre Roja as the sun begins to set."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:07",
+      "total_km": 5.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Montbaig",
+            "hu": "Montbaig",
+            "ro": "Montbaig",
+            "en": "Montbaig"
+          },
+          "coords": [
+            2.010887,
+            41.337648
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesem natürlichen Aussichtspunkt für einen unvergleichlichen Panoramablick und nehmen Sie besonders in den wärmeren Monaten viel Wasser mit.",
+            "hu": "Túrázzon fel erre a természetes kilátóhelyre, ahonnan páratlan panoráma nyílik a régióra, és vigyen magával bőségesen vizet, különösen melegben.",
+            "ro": "Urcați până la acest punct de belvedere natural pentru vederi panoramice inegalabile și luați multă apă cu dumneavoastră, mai ales în lunile mai calde.",
+            "en": "Hike up to this natural vantage point for unparalleled panoramic views over the entire region, carrying plenty of water especially during the warmer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Barra de Vinya de L'Ermita de Sant Ramon",
+            "hu": "Barra de Vinya de L'Ermita de Sant Ramon",
+            "ro": "Barra de Vinya de L'Ermita de Sant Ramon",
+            "en": "Barra de Vinya de L'Ermita de Sant Ramon"
+          },
+          "coords": [
+            2.013616,
+            41.337958
+          ],
+          "category": "historical",
+          "arrive_at": "10:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese traditionelle Weinhütte, die die landwirtschaftliche Vergangenheit hervorhebt, und nutzen Sie die nahe gelegenen Wege für einen Spaziergang.",
+            "hu": "Tekintse meg ezt a hagyományos szőlőkunyhót, amely a régió mezőgazdasági múltját idézi, és használja a közeli ösvényeket egy festői sétához.",
+            "ro": "Inspectați această colibă tradițională de viță de vie care evidențiază trecutul agricol și folosiți traseele din apropiere pentru o plimbare pitorească.",
+            "en": "Inspect this traditional vine hut which highlights the region's agricultural past, using the nearby trails to enjoy a scenic walk through the old vineyards."
+          }
+        },
+        {
+          "name": {
+            "de": "Barraca de Vinya",
+            "hu": "Barraca de Vinya",
+            "ro": "Barraca de Vinya",
+            "en": "Barraca de Vinya"
+          },
+          "coords": [
+            2.017659,
+            41.338983
+          ],
+          "category": "historical",
+          "arrive_at": "11:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Trockenbauweise dieses authentischen ländlichen Unterstands und nehmen Sie sich Zeit, um die Anpassung der Bauern zu würdigen.",
+            "hu": "Figyelje meg ennek az autentikus vidéki menedéknek a szárazkő építését, és értékelje, hogyan alkalmazkodtak a gazdák a mediterrán tájhoz.",
+            "ro": "Observați construcția din piatră uscată a acestui adăpost rural autentic, apreciind modul în care fermierii s-au adaptat la peisajul mediteranean.",
+            "en": "Observe the dry-stone construction of this authentic rural shelter, taking a moment to appreciate how farmers adapted to the harsh Mediterranean landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Roja",
+            "hu": "Torre Roja",
+            "ro": "Torre Roja",
+            "en": "Torre Roja"
+          },
+          "coords": [
+            2.022294,
+            41.320407
+          ],
+          "category": "historical",
+          "arrive_at": "13:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das markante rote Mauerwerk dieses mittelalterlichen Turms und umrunden Sie seinen restaurierten Verteidigungsring für die besten Fotos.",
+            "hu": "Csodálja meg a történelmi középkori torony jellegzetes piros kőműves munkáját, és sétálja körbe a felújított védelmi falat a legjobb fotókért.",
+            "ro": "Admirați zidăria roșie distinctivă a acestui turn medieval istoric și faceți o plimbare pe perimetrul său defensiv restaurat pentru cele mai bune fotografii.",
+            "en": "Marvel at the distinct red stonework of this historic medieval tower, taking time to walk around its restored defensive perimeter for the best photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre del Baró",
+            "hu": "Torre del Baró",
+            "ro": "Torre del Baró",
+            "en": "Torre del Baró"
+          },
+          "coords": [
+            2.020387,
+            41.316209
+          ],
+          "category": "castle",
+          "arrive_at": "14:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende mittelalterliche Befestigungsanlage und prüfen Sie den Zeitplan des Kulturzentrums für geführte Touren.",
+            "hu": "Fedezze fel ezt a lenyűgöző középkori erődítményt, és ellenőrizze a helyi kulturális központ menetrendjét a vezetett túrákért.",
+            "ro": "Explorați această fortificație medievală fascinantă și verificați programul centrului cultural local pentru acces cu ghid.",
+            "en": "Explore this fascinating medieval fortification which once defended the territory, and check the local cultural center's schedule for guided access."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Arqueològic Mines de Gavà",
+            "hu": "Parc Arqueològic Mines de Gavà",
+            "ro": "Parc Arqueològic Mines de Gavà",
+            "en": "Parc Arqueològic Mines de Gavà"
+          },
+          "coords": [
+            2.000017,
+            41.309983
+          ],
+          "category": "historical",
+          "arrive_at": "15:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.84,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ältesten Stollenminen Europas in diesem spektakulären archäologischen Park und tragen Sie bequeme Schuhe für die unterirdischen Räume.",
+            "hu": "Fedezze fel Európa legrégebbi bányáit ebben a lenyűgöző régészeti parkban, és viseljen kényelmes cipőt a földalatti terek felfedezéséhez.",
+            "ro": "Descoperiți cele mai vechi mine de galerie din Europa în acest parc arheologic spectaculos și purtați încălțăminte comodă pentru a explora subteranul.",
+            "en": "Uncover Europe's oldest gallery mines in this spectacular archaeological park, and wear comfortable shoes to explore the fascinating underground recreated spaces."
+          }
+        },
+        {
+          "name": {
+            "de": "la Font Groga",
+            "hu": "la Font Groga",
+            "ro": "la Font Groga",
+            "en": "la Font Groga"
+          },
+          "coords": [
+            1.999162,
+            41.307681
+          ],
+          "category": "historical",
+          "arrive_at": "17:17",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser historischen natürlichen Quelle, die den Einheimischen seit Generationen den Durst stillt, ein perfekter Rastplatz unter schattigen Bäumen.",
+            "hu": "Álljon meg ennél a történelmi természetes forrásnál, amely generációk óta oltja a helyiek szomját, és pihenjen egyet az árnyas fák alatt.",
+            "ro": "Opriți-vă la acest izvor natural istoric care a potolit setea localnicilor de generații, fiind un loc perfect de odihnă sub copacii umbroși.",
+            "en": "Stop by this historic natural spring that has quenched the thirst of locals for generations, making it a perfect quick rest spot under the shady trees."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre morgendliche Fahrt beginnt mit atemberaubenden Naturansichten am Montbaig, weit über dem städtischen Trubel. Gegen Mittag erkunden Sie die historischen ländlichen Strukturen von Barra de Vinya und Barraca de Vinya. Am Nachmittag kehren Sie an den Stadtrand zurück, um die mittelalterliche Architektur von Torre Roja und Torre del Baró zu bewundern. Der Abend endet am archäologischen Park und der Quelle la Font Groga.",
+        "hu": "A reggeli autózás lélegzetelállító természeti kilátással kezdődik a Montbaig hegyen, távol a város zajától. Dél körül fedezze fel a Barra de Vinya és a Barraca de Vinya történelmi vidéki építményeit. Délután térjen vissza a város határaihoz, hogy megcsodálja a Torre Roja és a Torre del Baró középkori építészetét. Az este a régészeti parknál és a la Font Groga frissítő állomásánál ér véget.",
+        "ro": "Plimbarea de dimineață începe cu priveliști naturale uluitoare la Montbaig, departe de agitația urbană. În jurul prânzului, explorați structurile rurale istorice de la Barra de Vinya și Barraca de Vinya. După-amiaza, reveniți la marginile orașului pentru a admira arhitectura medievală a Torre Roja și Torre del Baró. Seara se încheie la parcul arheologic și o oprire răcoritoare la la Font Groga.",
+        "en": "Your morning drive begins with breathtaking natural vistas at Montbaig, far above the urban bustle. Around midday, explore the historic rural structures of Barra de Vinya and Barraca de Vinya, offering a rustic contrast. In the afternoon, return to the city limits to marvel at the medieval architecture of Torre Roja and Torre del Baró. The evening wraps up at the archaeological park and a refreshing stop at la Font Groga."
+      }
+    }
+  }
+}

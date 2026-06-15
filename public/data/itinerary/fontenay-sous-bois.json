@@ -1,0 +1,428 @@
+{
+  "city_id": "fontenay-sous-bois",
+  "anchor": {
+    "name": "Fontenay-sous-Bois",
+    "coords": [
+      2.4772,
+      48.8517
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:35",
+      "total_km": 1.92,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mediathek Louis-Aragon",
+            "hu": "Louis-Aragon Médiatár",
+            "ro": "Mediateca Louis-Aragon",
+            "en": "Médiathèque Louis-Aragon"
+          },
+          "coords": [
+            2.47585,
+            48.85107
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese lebendige moderne Bibliothek, um lokale Archive zu entdecken, ihre Architektur zu genießen, und sichere dir einen ruhigen Fensterplatz.",
+            "hu": "Fedezd fel ezt a nyüzsgő modern könyvtárat a helyi archívumokért és a lenyűgöző építészetért, majd foglalj egy csendes ablak melletti helyet olvasáshoz.",
+            "ro": "Explorați această bibliotecă modernă vibrantă pentru a descoperi arhivele locale, admirați arhitectura uimitoare și ocupați un loc liniștit la fereastră.",
+            "en": "Explore this vibrant modern library to discover local archives, enjoy its stunning architecture, and grab a quiet window seat for a short reading break."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Fontenay",
+            "hu": "Fontenay Városháza",
+            "ro": "Primăria din Fontenay",
+            "en": "Fontenay Town Hall"
+          },
+          "coords": [
+            2.47498,
+            48.84952
+          ],
+          "category": "civic",
+          "arrive_at": "10:13",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische bürgerliche Architektur des Rathauses als Zentrum der Gemeinde, und mache ein schnelles Foto von der gepflegten Fassade.",
+            "hu": "Csodáld meg a városháza klasszikus polgári építészetét, amely a helyi közösség szívét adja, és készíts egy gyors fotót a gyönyörűen karbantartott homlokzatról.",
+            "ro": "Admirați arhitectura civică clasică a Primăriei care susține spiritul comunității și faceți o fotografie rapidă a fațadei sale frumos întreținute.",
+            "en": "Admire the classic civic architecture of the Town Hall which anchors the local community spirit, and take a quick photo of the beautifully maintained facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Germain-l'Auxerrois",
+            "hu": "Saint-Germain-l'Auxerrois Templom",
+            "ro": "Biserica Saint-Germain-l'Auxerrois",
+            "en": "Church of Saint-Germain-l'Auxerrois"
+          },
+          "coords": [
+            2.4719,
+            48.8477
+          ],
+          "category": "religious",
+          "arrive_at": "10:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Treten Sie in diese historische Pfarrkirche ein, um das friedliche Ambiente zu bewundern, aber besuchen Sie sie außerhalb der Gottesdienste zum Fotografieren.",
+            "hu": "Lépj be ebbe a történelmi plébániatemplomba, hogy megcsodáld a békés hangulatot és az üvegablakokat, de fotózáshoz misén kívüli időpontban érkezz.",
+            "ro": "Pășiți în această biserică parohială istorică pentru a vă minuna de atmosfera sa pașnică, dar asigurați-vă că o vizitați în afara orelor de slujbă.",
+            "en": "Step inside this historic parish church to marvel at its peaceful ambiance and stained glass, but make sure to visit during non-service hours for photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Ökopark des Carrières",
+            "hu": "Éco-parc des Carrières",
+            "ro": "Eco-parcul Carrières",
+            "en": "Éco-parc des Carrières"
+          },
+          "coords": [
+            2.46795,
+            48.8512
+          ],
+          "category": "natural",
+          "arrive_at": "11:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen rekultivierten Ökopark, der die urbane Biodiversität zeigt, und tragen Sie bequeme Schuhe, um die Naturpfade leicht zu bewältigen.",
+            "hu": "Sétálj végig ezen az újrahasznosított ökoparkon, amely bemutatja a városi biodiverzitást, és viselj kényelmes cipőt a tanösvények könnyű bejárásához.",
+            "ro": "Plimbați-vă prin acest eco-parc recuperat care prezintă perfect biodiversitatea urbană și purtați încălțăminte confortabilă pentru a naviga pe trasee.",
+            "en": "Wander through this reclaimed eco-park that showcases urban biodiversity perfectly, and wear comfortable walking shoes to easily navigate the nature trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Kino Le Kosmos",
+            "hu": "Le Kosmos Mozi",
+            "ro": "Cinematograful Le Kosmos",
+            "en": "Cinéma Le Kosmos"
+          },
+          "coords": [
+            2.46765,
+            48.85284
+          ],
+          "category": "cultural",
+          "arrive_at": "12:53",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Erlebe die künstlerische Atmosphäre in diesem beliebten Arthouse-Kino für ausgewählte Filme, und prüfe frühzeitig die Kasse für Nachmittagsvorstellungen.",
+            "hu": "Érezd át a művészi hangulatot ebben a szeretett független moziban, és érdemes korán megnézni a jegypénztárt a különleges délutáni vetítések miatt.",
+            "ro": "Prindeți atmosfera artistică la acest iubit cinematograf local independent și verificați devreme casa de bilete pentru proiecții speciale de după-amiază.",
+            "en": "Catch the artsy vibe at this beloved local independent cinema known for its curated films, and check the box office early for special afternoon matinee tickets."
+          }
+        },
+        {
+          "name": {
+            "de": "Theater Jean-Guerrin",
+            "hu": "Jean-Guerrin Színház",
+            "ro": "Teatrul Jean-Guerrin",
+            "en": "Jean-Guerrin Theater"
+          },
+          "coords": [
+            2.477284,
+            48.849964
+          ],
+          "category": "cultural",
+          "arrive_at": "14:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.78,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an diesem dynamischen Theater mit innovativen Aufführungen, und buchen Sie Tickets im Voraus für die besten Plätze im Saal.",
+            "hu": "Fejezd be a sétát ebben a dinamikus színházban, amely innovatív helyi előadásokat kínál, és foglalj jegyet jó előre, hogy a legjobb helyeket kapd.",
+            "ro": "Încheiați plimbarea la acest teatru dinamic ce oferă spectacole locale inovatoare și rezervați biletele din timp pentru a vă asigura cele mai bune locuri.",
+            "en": "Conclude your walk at this dynamic theater offering innovative local performances, and book your tickets well in advance to secure the best seats in the house."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Herzen von Fontenay, wo Kultur und Bürgersinn aufeinandertreffen. Mittags genießen Sie die Ruhe der Kirche, bevor es in die Natur geht. Der Nachmittag ist dem Ökopark gewidmet, ideal für einen städtischen Spaziergang. Der Abend endet mit einem Eintauchen in die lokale Kunstszene im Kino und im örtlichen Theater.",
+        "hu": "A reggel Fontenay szívében kezdődik, ahol a kultúra és a polgári büszkeség találkozik. A dél kanyarogva vezet a helyi templom csendes elmélkedésén át a természetbe. A délutánt az ökoparknak szenteljük, amely tökéletes egy frissítő sétához. Az este a helyi művészeti életben, a moziban és a színházban tett látogatással zárul.",
+        "ro": "Dimineața începe în inima orașului Fontenay, unde cultura întâlnește mândria civică. Amiaza vă poartă prin reflecția liniștită a bisericii locale, înainte de a îmbrățișa natura. După-amiaza este dedicată parcului ecologic, perfect pentru o plimbare urbană. Seara se încheie cu o imersiune în scena artistică locală, la cinematograf și teatru.",
+        "en": "Morning starts in the heart of Fontenay, where culture meets civic pride around the library and town hall. Midday takes you through the quiet reflection of the local church before embracing nature. Afternoon is dedicated to the ecological park, perfect for a refreshing urban stroll. Evening concludes with an immersion into the local arts scene at the cinema and theater."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "13:58",
+      "total_km": 3.35,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Gefallenendenkmal",
+            "hu": "Hősi Emlékmű",
+            "ro": "Monumentul Eroilor",
+            "en": "Monument aux Morts"
+          },
+          "coords": [
+            2.485439,
+            48.850831
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erweisen Sie an diesem bewegenden Kriegsdenkmal für lokale Helden Ihren Respekt, und lesen Sie die Gedenktafeln, um die historischen Opfer der Stadt zu ehren.",
+            "hu": "Ródd le tiszteletedet ennél a helyi hősöknek szentelt megható háborús emlékműnél, és olvasd el az emléktáblákat a város történelmi áldozatainak megértéséhez.",
+            "ro": "Aduceți-vă omagiul la acest monument emoționant dedicat eroilor locali și citiți plăcile inscripționate pentru a înțelege sacrificiile istorice ale orașului.",
+            "en": "Pay your respects at this poignant war memorial dedicated to local heroes, and read the inscribed plaques carefully to understand the town's historical sacrifices."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort de Nogent",
+            "hu": "Nogent Erőd",
+            "ro": "Fortul din Nogent",
+            "en": "Fort de Nogent"
+          },
+          "coords": [
+            2.4818,
+            48.84479
+          ],
+          "category": "fortress",
+          "arrive_at": "09:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.72,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese Festung aus dem 19. Jahrhundert des Pariser Verteidigungsrings, und besuchen Sie das Museum der französischen Fremdenlegion im Inneren.",
+            "hu": "Fedezd fel ezt a masszív, 19. századi erődítményt, és keresd meg benne a Francia Idegenlégió múzeumát az egyedülálló történelmi élményért.",
+            "ro": "Explorați această fortificație din secolul 19, esențială pentru inelul defensiv al Parisului, și căutați muzeul Legiunii Străine Franceze pentru o istorie unică.",
+            "en": "Explore this massive 19th-century fortification integral to Paris's defensive ring, and look out for the French Foreign Legion museum inside for unique history."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Germain-l'Auxerrois",
+            "hu": "Saint-Germain-l'Auxerrois Templom",
+            "ro": "Biserica Saint-Germain-l'Auxerrois",
+            "en": "Church of Saint-Germain-l'Auxerrois"
+          },
+          "coords": [
+            2.4719,
+            48.8477
+          ],
+          "category": "religious",
+          "arrive_at": "10:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Treten Sie in diese historische Pfarrkirche ein, um das friedliche Ambiente zu bewundern, aber besuchen Sie sie außerhalb der Gottesdienste zum Fotografieren.",
+            "hu": "Lépj be ebbe a történelmi plébániatemplomba, hogy megcsodáld a békés hangulatot és az üvegablakokat, de fotózáshoz misén kívüli időpontban érkezz.",
+            "ro": "Pășiți în această biserică parohială istorică pentru a vă minuna de atmosfera sa pașnică, dar asigurați-vă că o vizitați în afara orelor de slujbă.",
+            "en": "Step inside this historic parish church to marvel at its peaceful ambiance and stained glass, but make sure to visit during non-service hours for photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Fontenay",
+            "hu": "Fontenay Városháza",
+            "ro": "Primăria din Fontenay",
+            "en": "Fontenay Town Hall"
+          },
+          "coords": [
+            2.47498,
+            48.84952
+          ],
+          "category": "civic",
+          "arrive_at": "11:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische bürgerliche Architektur des Rathauses als Zentrum der Gemeinde, und mache ein schnelles Foto von der gepflegten Fassade.",
+            "hu": "Csodáld meg a városháza klasszikus polgári építészetét, amely a helyi közösség szívét adja, és készíts egy gyors fotót a gyönyörűen karbantartott homlokzatról.",
+            "ro": "Admirați arhitectura civică clasică a Primăriei care susține spiritul comunității și faceți o fotografie rapidă a fațadei sale frumos întreținute.",
+            "en": "Admire the classic civic architecture of the Town Hall which anchors the local community spirit, and take a quick photo of the beautifully maintained facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Wald von Vincennes",
+            "hu": "Vincennes-i Erdő",
+            "ro": "Pădurea Vincennes",
+            "en": "Bois de Vincennes"
+          },
+          "coords": [
+            2.471016,
+            48.835982
+          ],
+          "category": "natural",
+          "arrive_at": "12:13",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.53,
+          "tip_5lang": {
+            "de": "Radeln Sie tief in dieses weitläufige Waldgebiet mit Seen und wunderschönen Wegen, und packen Sie ein leichtes Picknick für eine erfrischende Pause am Wasser ein.",
+            "hu": "Biciklizz be a hatalmas, tavakkal és gyönyörű ösvényekkel teli természetes erdőbe, és hozz magaddal egy könnyű pikniket, amit a vízparton elfogyaszthatsz.",
+            "ro": "Ciclati adânc în această pădure naturală vastă ce oferă lacuri și poteci frumoase, și pregătiți un picnic ușor de savurat pe malul apei după-amiaza.",
+            "en": "Cycle deep into this expansive natural woodland offering lakes and beautiful paths, and pack a light picnic to enjoy by the water during a refreshing afternoon break."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am Kriegsdenkmal, bevor es zur massiven historischen Festung geht. Mittags geht es in das elegante Stadtzentrum mit der Kirche und dem Rathaus. Am Nachmittag radeln Sie in Richtung des üppigen Grüns der umliegenden Wälder. Der Abend bietet einen tief entspannenden Rückzugsort im weitläufigen und wunderschönen Bois de Vincennes.",
+        "hu": "A reggel a háborús emlékműnél tett látogatással indul, majd a hatalmas történelmi erőd következik. A dél az elegáns városközpontba vezet a történelmi templommal és városházával. Délután a környező erdők buja zöldjébe biciklizünk tovább. Az este pedig mélyen pihentető elvonulást kínál a hatalmas és gyönyörű Bois de Vincennes-ben.",
+        "ro": "Dimineața debutează la monumentul eroilor înainte de a merge la fortul istoric masiv. Amiaza face trecerea către centrul elegant, vizitând biserica și primăria. După-amiaza schimbați ritmul pedalând spre verdeața luxuriantă a pădurilor înconjurătoare. Seara permite o retragere profund relaxantă în vastul și frumosul Bois de Vincennes.",
+        "en": "Morning kicks off with a sobering visit to the war memorial before heading to the massive historical fort. Midday transitions to the elegant town center, taking in the historical church and town hall. Afternoon shifts gears as you cycle towards the lush greenery of the surrounding forests. Evening allows for a deeply relaxing retreat in the vast and beautiful Bois de Vincennes."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:05",
+      "total_km": 6.67,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "La Fonderie",
+            "hu": "La Fonderie",
+            "ro": "La Fonderie",
+            "en": "La Fonderie"
+          },
+          "coords": [
+            2.443892,
+            48.854933
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese historische Gießerei als Kulturraum mit faszinierenden Ausstellungen, und checken Sie den Online-Plan für temporäre Kunstschauen.",
+            "hu": "Látogass el ebbe az egykori öntödéből lett kulturális térbe, és előzetesen ellenőrizd az online programot egy izgalmas időszaki művészeti kiállításért.",
+            "ro": "Vizitați această turnătorie istorică transformată în spațiu cultural și verificați programul online în prealabil pentru a prinde o expoziție de artă temporară.",
+            "en": "Visit this historic foundry-turned-cultural-space that hosts fascinating exhibitions, and check their online schedule beforehand to catch a temporary art show."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc des Beaumonts",
+            "hu": "Beaumonts Park",
+            "ro": "Parcul Beaumonts",
+            "en": "Beaumonts Park"
+          },
+          "coords": [
+            2.4532,
+            48.8576
+          ],
+          "category": "natural",
+          "arrive_at": "10:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.74,
+          "tip_5lang": {
+            "de": "Fahren Sie zu dieser weitläufigen Grünfläche, die für Biodiversität bekannt ist, und bringen Sie ein Fernglas mit, um lokale Vogelarten in den Wäldern zu beobachten.",
+            "hu": "Vezess el ehhez a hatalmas, biodiverzitásáról ismert zöldterülethez, és hozz magaddal távcsövet a fás területek közelében fészkelő helyi madarak megfigyelésére.",
+            "ro": "Conduceți spre acest spațiu verde expansiv, cunoscut pentru biodiversitatea sa, și aduceți binoclu pentru a observa speciile de păsări locale din zonele împădurite.",
+            "en": "Drive to this expansive green space known for its sweeping views and biodiversity, and bring binoculars to spot local bird species nesting near the wooded areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Ökopark des Carrières",
+            "hu": "Éco-parc des Carrières",
+            "ro": "Eco-parcul Carrières",
+            "en": "Éco-parc des Carrières"
+          },
+          "coords": [
+            2.46795,
+            48.8512
+          ],
+          "category": "natural",
+          "arrive_at": "11:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen rekultivierten Ökopark, der die urbane Biodiversität zeigt, und tragen Sie bequeme Schuhe, um die Naturpfade leicht zu bewältigen.",
+            "hu": "Sétálj végig ezen az újrahasznosított ökoparkon, amely bemutatja a városi biodiverzitást, és viselj kényelmes cipőt a tanösvények könnyű bejárásához.",
+            "ro": "Plimbați-vă prin acest eco-parc recuperat care prezintă perfect biodiversitatea urbană și purtați încălțăminte confortabilă pentru a naviga pe trasee.",
+            "en": "Wander through this reclaimed eco-park that showcases urban biodiversity perfectly, and wear comfortable walking shoes to easily navigate the nature trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadion Georges Le Tiec",
+            "hu": "Georges Le Tiec Stadion",
+            "ro": "Stadionul Georges Le Tiec",
+            "en": "Stade Georges Le Tiec"
+          },
+          "coords": [
+            2.484761,
+            48.846192
+          ],
+          "category": "recreational",
+          "arrive_at": "12:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.35,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebendige Sportatmosphäre in diesem gut ausgestatteten Stadion, und prüfen Sie, ob ein lokales Spiel stattfindet, um echtes Vorstadtflair zu spüren.",
+            "hu": "Tapasztald meg az élénk közösségi sportéletet ebben a jól felszerelt stadionban, és nézd meg, van-e helyi hétvégi meccs az igazi külvárosi hangulatért.",
+            "ro": "Experimentați atmosfera sportivă comunitară la acest stadion bine echipat și verificați dacă există un meci local de weekend pentru o vibrație autentică.",
+            "en": "Experience the lively community sports atmosphere at this well-equipped stadium, and check if there is a local weekend match for a truly authentic suburban vibe."
+          }
+        },
+        {
+          "name": {
+            "de": "Zirkusschule von Fontenay",
+            "hu": "Fontenay-i Cirkusziskola",
+            "ro": "Școala de Circ din Fontenay",
+            "en": "École de Cirque de Fontenay"
+          },
+          "coords": [
+            2.496715,
+            48.874595
+          ],
+          "category": "cultural",
+          "arrive_at": "13:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.28,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag in dieser berühmten Zirkusschule, wo Akrobatik auf Kunst trifft, und buchen Sie einen Einführungsworkshop für ein unvergessliches Erlebnis.",
+            "hu": "Zárd a napot ebben a híres cirkuszi iskolában, ahol az akrobatika találkozik a művészettel, és próbálj meg egy rövid bevezető workshopot is lefoglalni előre.",
+            "ro": "Terminați ziua la această școală celebră de circ unde acrobația întâlnește arta și încercați să rezervați un scurt atelier introductiv pentru o experiență unică.",
+            "en": "Finish the day at this famous circus school where acrobatics meet artistry, and try to book a short introductory workshop if you want an unforgettable experience."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt in einer industriellen Gießerei, die als kreatives Zentrum dient. Mittags fahren Sie in den weitläufigen Park für Naturspaziergänge und weite Ausblicke. Der Nachmittag verbindet ökologische Pfade mit einem lebhaften Halt am lokalen Stadion. Der Abend bietet ein spektakuläres Finale in der einzigartigen Zirkusschule mit Akrobatik.",
+        "hu": "A reggel egy kulturális központtá alakított ipari öntödében kezdődik, megadva a nap kreatív alaphangját. Délben a kiterjedt parkba hajtunk természetjárásra. A délután az ökológiai ösvényeket a helyi közösségi stadionnál tett élénk megállóval ötvözi. Az este látványos finálét tartogat a cirkuszi iskolában, amely a művészetet és a teljesítményt ötvözi.",
+        "ro": "Dimineața începe la o turnătorie industrială devenită centru cultural, stabilind un ton creativ. Amiaza implică o scurtă plimbare către parcul vast pentru natură și priveliști. După-amiaza combină traseele ecologice cu o oprire plină de viață la stadionul local. Seara oferă un final spectaculos la școala unică de circ, îmbinând arta și performanța.",
+        "en": "Morning starts at an industrial foundry turned cultural hub, setting a creative tone for the whole day. Midday involves a short drive to the sprawling park for nature walks and wide viewpoints. Afternoon combines the ecological trails with a lively stop at the local community stadium. Evening provides a spectacular finale at the unique circus school, blending art and performance."
+      }
+    }
+  }
+}

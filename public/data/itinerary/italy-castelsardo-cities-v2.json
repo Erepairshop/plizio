@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-castelsardo-cities-v2",
+  "anchor": {
+    "name": "Castelsardo",
+    "coords": [
+      8.71314,
+      40.91627
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:46",
+      "total_km": 3.45,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Torre di Frigiano",
+            "hu": "Torre di Frigiano",
+            "ro": "Torre di Frigiano",
+            "en": "Torre di Frigiano"
+          },
+          "coords": [
+            8.703325,
+            40.913999
+          ],
+          "category": "tower",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen spanischen Wachturm aus dem 16. Jahrhundert am Jachthafen und bringen Sie eine Windjacke mit, da die Brise stark ist.",
+            "hu": "Csodálja meg ezt a 16. századi spanyol őrtornyot a kikötőnél, és hozzon magával széldzsekit, mert a parti szél itt meglepően erős lehet.",
+            "ro": "Admirați acest turn de veghe spaniol din secolul al XVI-lea care păzește portul și aduceți o jachetă, deoarece briza de coastă este puternică.",
+            "en": "Admire this 16th-century Spanish watchtower guarding the marina, and bring a windbreaker as the coastal breeze here is surprisingly strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello dei Doria",
+            "hu": "Castello dei Doria",
+            "ro": "Castello dei Doria",
+            "en": "Castello dei Doria"
+          },
+          "coords": [
+            8.712284,
+            40.915593
+          ],
+          "category": "museum",
+          "arrive_at": "09:47",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die mittelalterliche Festung mit Panoramablick auf den Golf von Asinara, aber tragen Sie festes Schuhwerk für das Kopfsteinpflaster.",
+            "hu": "Fedezze fel a középkori erődöt, ahonnan panorámás kilátás nyílik az Asinara-öbölre, de viseljen masszív cipőt az egyenetlen macskaköves utakon.",
+            "ro": "Explorați fortăreața medievală cu vedere panoramică la Golful Asinara, dar purtați încălțăminte robustă pentru aleile sale pietruite și inegale.",
+            "en": "Explore the medieval fortress offering panoramic views over the Asinara Gulf, but wear sturdy shoes for navigating its uneven cobblestone pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Concattedrale di Sant'Antonio Abate",
+            "hu": "Concattedrale di Sant'Antonio Abate",
+            "ro": "Concattedrale di Sant'Antonio Abate",
+            "en": "Concattedrale di Sant'Antonio Abate"
+          },
+          "coords": [
+            8.712438,
+            40.916898
+          ],
+          "category": "religious",
+          "arrive_at": "11:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die majolikageflieste Kuppel der Kathedrale über dem Meer und respektieren Sie die Kleiderordnung, indem Sie die Schultern bedecken.",
+            "hu": "Csodálja meg a tenger fölé magasodó majolika kupolás katedrálist, és tartsa tiszteletben az öltözködési szabályokat a vállai eltakarásával.",
+            "ro": "Minunați-vă de cupola de majolică a catedralei care se înalță deasupra mării și respectați codul vestimentar acoperindu-vă umerii în interior.",
+            "en": "Marvel at the cathedral's stunning majolica-tiled dome rising above the sea, and respect the local dress code by covering your shoulders inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Cantareddi",
+            "hu": "Cantareddi",
+            "ro": "Cantareddi",
+            "en": "Cantareddi"
+          },
+          "coords": [
+            8.729012,
+            40.913229
+          ],
+          "category": "recreational",
+          "arrive_at": "12:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Machen Sie einen Spaziergang durch dieses friedliche Erholungsgebiet, das sich ideal für Küstenfotos eignet, besonders am frühen Nachmittag.",
+            "hu": "Tegyen egy pihentető sétát ebben a tengerparti fotózásra tökéletes rekreációs övezetben, és érkezzen kora délután a legjobb fényviszonyokért.",
+            "ro": "Faceți o plimbare relaxantă în această zonă perfectă pentru fotografia de coastă și vizitați la începutul după-amiezii pentru cea mai bună lumină.",
+            "en": "Take a relaxing stroll around this peaceful recreational area perfect for coastal photography, and visit during the early afternoon for the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Baia Ostina",
+            "hu": "Baia Ostina",
+            "ro": "Baia Ostina",
+            "en": "Baia Ostina"
+          },
+          "coords": [
+            8.738623,
+            40.915617
+          ],
+          "category": "recreational",
+          "arrive_at": "14:01",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie in dieser wunderschönen, geschützten Bucht mit kristallklarem Wasser und packen Sie Snacks ein, da die Annehmlichkeiten begrenzt sind.",
+            "hu": "Pihenjen ebben a gyönyörű, védett és kristálytiszta vizű öbölben, de hozzon magával rágcsálnivalót, mivel a közelben kevés a szolgáltatás.",
+            "ro": "Relaxați-vă în acest golf frumos și adăpostit cu ape cristaline și aduceți propriile gustări, deoarece facilitățile din apropiere sunt limitate.",
+            "en": "Relax at this beautiful, sheltered cove boasting crystal-clear waters, and pack your own snacks since nearby amenities are quite limited."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit dem Blick auf die Küste am Turm von Frigiano. Mittags erklimmen Sie das historische Doria-Schloss für mittelalterlichen Charme. Entdecken Sie nachmittags die Kathedrale und schlendern Sie durch die Parks. Der Abend endet mit einem Sonnenuntergang in der malerischen Baia Ostina.",
+        "hu": "Kezdje a reggelt a tengerparti kilátással a Frigiano-toronynál. Délben másszon fel a történelmi Doria-kastélyba a középkori hangulatért. Délután fedezze fel a katedrálist, és sétáljon el a helyi parkok felé. Az este a festői Baia Ostina békés naplementéjével zárul.",
+        "ro": "Începeți dimineața admirând vederea de coastă la turnul Frigiano. La prânz, urcați la castelul istoric Doria pentru farmecul medieval. După-amiaza, descoperiți catedrala și plimbați-vă prin parcurile locale. Seara se încheie cu un apus de soare relaxant la pitorescul Baia Ostina.",
+        "en": "Start your morning admiring the coastal views at the Frigiano tower. Midday brings a climb to the historic Doria Castle to soak in medieval charm. In the afternoon, discover the iconic cathedral and stroll towards the local parks. Your evening concludes with a sunset retreat at the scenic Baia Ostina."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Spiaggia di Ampurias",
+            "hu": "Spiaggia di Ampurias",
+            "ro": "Spiaggia di Ampurias",
+            "en": "Spiaggia di Ampurias"
+          },
+          "coords": [
+            8.689447,
+            40.906404
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Stecken Sie Ihre Zehen in den weichen Sand dieses für seine Sauberkeit bekannten Strandes mit Blauer Flagge und kommen Sie früh für den besten Platz.",
+            "hu": "Élvezze a Kék Zászlós, tisztaságáról híres strand puha homokját, és érkezzen korán, hogy a legjobb helyet szerezze meg közvetlenül a vízparton.",
+            "ro": "Bucurați-vă de nisipul fin al acestei plaje Steagul Albastru, renumită pentru curățenia sa, și ajungeți devreme pentru a prinde un loc pe mal.",
+            "en": "Sink your toes into the soft sand of this Blue Flag beach known for its cleanliness, and arrive early to secure a prime spot near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre di Frigiano",
+            "hu": "Torre di Frigiano",
+            "ro": "Torre di Frigiano",
+            "en": "Torre di Frigiano"
+          },
+          "coords": [
+            8.703325,
+            40.913999
+          ],
+          "category": "tower",
+          "arrive_at": "10:33",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen spanischen Wachturm aus dem 16. Jahrhundert am Jachthafen und bringen Sie eine Windjacke mit, da die Brise stark ist.",
+            "hu": "Csodálja meg ezt a 16. századi spanyol őrtornyot a kikötőnél, és hozzon magával széldzsekit, mert a parti szél itt meglepően erős lehet.",
+            "ro": "Admirați acest turn de veghe spaniol din secolul al XVI-lea care păzește portul și aduceți o jachetă, deoarece briza de coastă este puternică.",
+            "en": "Admire this 16th-century Spanish watchtower guarding the marina, and bring a windbreaker as the coastal breeze here is surprisingly strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello dei Doria",
+            "hu": "Castello dei Doria",
+            "ro": "Castello dei Doria",
+            "en": "Castello dei Doria"
+          },
+          "coords": [
+            8.712284,
+            40.915593
+          ],
+          "category": "museum",
+          "arrive_at": "11:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die mittelalterliche Festung mit Panoramablick auf den Golf von Asinara, aber tragen Sie festes Schuhwerk für das Kopfsteinpflaster.",
+            "hu": "Fedezze fel a középkori erődöt, ahonnan panorámás kilátás nyílik az Asinara-öbölre, de viseljen masszív cipőt az egyenetlen macskaköves utakon.",
+            "ro": "Explorați fortăreața medievală cu vedere panoramică la Golful Asinara, dar purtați încălțăminte robustă pentru aleile sale pietruite și inegale.",
+            "en": "Explore the medieval fortress offering panoramic views over the Asinara Gulf, but wear sturdy shoes for navigating its uneven cobblestone pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Concattedrale di Sant'Antonio Abate",
+            "hu": "Concattedrale di Sant'Antonio Abate",
+            "ro": "Concattedrale di Sant'Antonio Abate",
+            "en": "Concattedrale di Sant'Antonio Abate"
+          },
+          "coords": [
+            8.712438,
+            40.916898
+          ],
+          "category": "religious",
+          "arrive_at": "12:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die majolikageflieste Kuppel der Kathedrale über dem Meer und respektieren Sie die Kleiderordnung, indem Sie die Schultern bedecken.",
+            "hu": "Csodálja meg a tenger fölé magasodó majolika kupolás katedrálist, és tartsa tiszteletben az öltözködési szabályokat a vállai eltakarásával.",
+            "ro": "Minunați-vă de cupola de majolică a catedralei care se înalță deasupra mării și respectați codul vestimentar acoperindu-vă umerii în interior.",
+            "en": "Marvel at the cathedral's stunning majolica-tiled dome rising above the sea, and respect the local dress code by covering your shoulders inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Baia Ostina",
+            "hu": "Baia Ostina",
+            "ro": "Baia Ostina",
+            "en": "Baia Ostina"
+          },
+          "coords": [
+            8.738623,
+            40.915617
+          ],
+          "category": "recreational",
+          "arrive_at": "13:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie in dieser wunderschönen, geschützten Bucht mit kristallklarem Wasser und packen Sie Snacks ein, da die Annehmlichkeiten begrenzt sind.",
+            "hu": "Pihenjen ebben a gyönyörű, védett és kristálytiszta vizű öbölben, de hozzon magával rágcsálnivalót, mivel a közelben kevés a szolgáltatás.",
+            "ro": "Relaxați-vă în acest golf frumos și adăpostit cu ape cristaline și aduceți propriile gustări, deoarece facilitățile din apropiere sunt limitate.",
+            "en": "Relax at this beautiful, sheltered cove boasting crystal-clear waters, and pack your own snacks since nearby amenities are quite limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuraghe Campulandru",
+            "hu": "Nuraghe Campulandru",
+            "ro": "Nuraghe Campulandru",
+            "en": "Nuraghe Campulandru"
+          },
+          "coords": [
+            8.741464,
+            40.913997
+          ],
+          "category": "historical",
+          "arrive_at": "14:55",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die sardische Geschichte an dieser megalithischen Ruine und nutzen Sie GPS, da die Wege dorthin nur unzureichend markiert sind.",
+            "hu": "Fedezze fel az ősi szardíniai történelmet ennél a lenyűgöző megalitikus romnál, és használjon GPS-t, mivel az oda vezető ösvények rosszul jelzettek.",
+            "ro": "Descoperiți istoria antică a Sardiniei la această ruină megalitică fascinantă și folosiți o hartă GPS, deoarece traseele nu sunt bine marcate.",
+            "en": "Discover ancient Sardinian history at this fascinating megalithic ruin, and use a GPS-enabled map as the trails leading to it are poorly marked."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt an den Wellen von Ampurias, bevor Sie zum historischen Turm radeln. Mittags parken Sie das Fahrrad für das Schloss und die Kathedrale. Treten Sie später in die Pedale gen Osten nach Baia Ostina. Beenden Sie den Tag mit einer Reise in die Vergangenheit am Nuraghen Campulandru.",
+        "hu": "A tekerés az Ampurias strand hullámainál kezdődik, majd a történelmi toronyhoz vezet. Dél körül tegye le a bringát a kastély és a katedrális felfedezéséhez. Később tekerjen keletre, és pihenjen a Baia Ostina partján. A napot a múltba tett utazással zárja a Campulandru nuraghénál.",
+        "ro": "Plimbarea începe pe plaja Ampurias înainte de a pedala spre turnul istoric. La prânz, lăsați bicicleta pentru a explora castelul și catedrala. Mai târziu, pedalați spre est spre țărmurile din Baia Ostina. Încheiați ziua cu o călătorie în trecut la anticul nuraghe Campulandru.",
+        "en": "Your ride starts by the waves at Ampurias beach before rolling to the historic tower. Around midday, park your bike to explore the towering castle and cathedral. Later, pedal eastwards to relax along the shores of Baia Ostina. End the day with a journey into the past at the Campulandru nuraghe."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:54",
+      "total_km": 9.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Nuraghe Franzesu",
+            "hu": "Nuraghe Franzesu",
+            "ro": "Nuraghe Franzesu",
+            "en": "Nuraghe Franzesu"
+          },
+          "coords": [
+            8.721195,
+            40.895699
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Versetzen Sie sich in diesem Steinturmkomplex in die Bronzezeit zurück und achten Sie beim Erkunden auf dorniges mediterranes Gestrüpp.",
+            "hu": "Lépjen vissza a bronzkorba ennél a figyelemre méltó kőtorony-komplexumnál, de ügyeljen a tüskés mediterrán bozótosra a környék felfedezésekor.",
+            "ro": "Întoarceți-vă în Epoca Bronzului la acest complex remarcabil de turnuri de piatră și aveți grijă la tufișurile mediteraneene spinoase din jur.",
+            "en": "Step back into the Bronze Age at this remarkable stone tower complex, and watch out for thorny Mediterranean scrub while exploring the perimeter."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Ampurias",
+            "hu": "Spiaggia di Ampurias",
+            "ro": "Spiaggia di Ampurias",
+            "en": "Spiaggia di Ampurias"
+          },
+          "coords": [
+            8.689447,
+            40.906404
+          ],
+          "category": "recreational",
+          "arrive_at": "10:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Stecken Sie Ihre Zehen in den weichen Sand dieses für seine Sauberkeit bekannten Strandes mit Blauer Flagge und kommen Sie früh für den besten Platz.",
+            "hu": "Élvezze a Kék Zászlós, tisztaságáról híres strand puha homokját, és érkezzen korán, hogy a legjobb helyet szerezze meg közvetlenül a vízparton.",
+            "ro": "Bucurați-vă de nisipul fin al acestei plaje Steagul Albastru, renumită pentru curățenia sa, și ajungeți devreme pentru a prinde un loc pe mal.",
+            "en": "Sink your toes into the soft sand of this Blue Flag beach known for its cleanliness, and arrive early to secure a prime spot near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre di Frigiano",
+            "hu": "Torre di Frigiano",
+            "ro": "Torre di Frigiano",
+            "en": "Torre di Frigiano"
+          },
+          "coords": [
+            8.703325,
+            40.913999
+          ],
+          "category": "tower",
+          "arrive_at": "11:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen spanischen Wachturm aus dem 16. Jahrhundert am Jachthafen und bringen Sie eine Windjacke mit, da die Brise stark ist.",
+            "hu": "Csodálja meg ezt a 16. századi spanyol őrtornyot a kikötőnél, és hozzon magával széldzsekit, mert a parti szél itt meglepően erős lehet.",
+            "ro": "Admirați acest turn de veghe spaniol din secolul al XVI-lea care păzește portul și aduceți o jachetă, deoarece briza de coastă este puternică.",
+            "en": "Admire this 16th-century Spanish watchtower guarding the marina, and bring a windbreaker as the coastal breeze here is surprisingly strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello dei Doria",
+            "hu": "Castello dei Doria",
+            "ro": "Castello dei Doria",
+            "en": "Castello dei Doria"
+          },
+          "coords": [
+            8.712284,
+            40.915593
+          ],
+          "category": "museum",
+          "arrive_at": "12:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die mittelalterliche Festung mit Panoramablick auf den Golf von Asinara, aber tragen Sie festes Schuhwerk für das Kopfsteinpflaster.",
+            "hu": "Fedezze fel a középkori erődöt, ahonnan panorámás kilátás nyílik az Asinara-öbölre, de viseljen masszív cipőt az egyenetlen macskaköves utakon.",
+            "ro": "Explorați fortăreața medievală cu vedere panoramică la Golful Asinara, dar purtați încălțăminte robustă pentru aleile sale pietruite și inegale.",
+            "en": "Explore the medieval fortress offering panoramic views over the Asinara Gulf, but wear sturdy shoes for navigating its uneven cobblestone pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Concattedrale di Sant'Antonio Abate",
+            "hu": "Concattedrale di Sant'Antonio Abate",
+            "ro": "Concattedrale di Sant'Antonio Abate",
+            "en": "Concattedrale di Sant'Antonio Abate"
+          },
+          "coords": [
+            8.712438,
+            40.916898
+          ],
+          "category": "religious",
+          "arrive_at": "14:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die majolikageflieste Kuppel der Kathedrale über dem Meer und respektieren Sie die Kleiderordnung, indem Sie die Schultern bedecken.",
+            "hu": "Csodálja meg a tenger fölé magasodó majolika kupolás katedrálist, és tartsa tiszteletben az öltözködési szabályokat a vállai eltakarásával.",
+            "ro": "Minunați-vă de cupola de majolică a catedralei care se înalță deasupra mării și respectați codul vestimentar acoperindu-vă umerii în interior.",
+            "en": "Marvel at the cathedral's stunning majolica-tiled dome rising above the sea, and respect the local dress code by covering your shoulders inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuraghe Campulandru",
+            "hu": "Nuraghe Campulandru",
+            "ro": "Nuraghe Campulandru",
+            "en": "Nuraghe Campulandru"
+          },
+          "coords": [
+            8.741464,
+            40.913997
+          ],
+          "category": "historical",
+          "arrive_at": "14:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die sardische Geschichte an dieser megalithischen Ruine und nutzen Sie GPS, da die Wege dorthin nur unzureichend markiert sind.",
+            "hu": "Fedezze fel az ősi szardíniai történelmet ennél a lenyűgöző megalitikus romnál, és használjon GPS-t, mivel az oda vezető ösvények rosszul jelzettek.",
+            "ro": "Descoperiți istoria antică a Sardiniei la această ruină megalitică fascinantă și folosiți o hartă GPS, deoarece traseele nu sunt bine marcate.",
+            "en": "Discover ancient Sardinian history at this fascinating megalithic ruin, and use a GPS-enabled map as the trails leading to it are poorly marked."
+          }
+        },
+        {
+          "name": {
+            "de": "Baia Ostina",
+            "hu": "Baia Ostina",
+            "ro": "Baia Ostina",
+            "en": "Baia Ostina"
+          },
+          "coords": [
+            8.738623,
+            40.915617
+          ],
+          "category": "recreational",
+          "arrive_at": "16:09",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie in dieser wunderschönen, geschützten Bucht mit kristallklarem Wasser und packen Sie Snacks ein, da die Annehmlichkeiten begrenzt sind.",
+            "hu": "Pihenjen ebben a gyönyörű, védett és kristálytiszta vizű öbölben, de hozzon magával rágcsálnivalót, mivel a közelben kevés a szolgáltatás.",
+            "ro": "Relaxați-vă în acest golf frumos și adăpostit cu ape cristaline și aduceți propriile gustări, deoarece facilitățile din apropiere sunt limitate.",
+            "en": "Relax at this beautiful, sheltered cove boasting crystal-clear waters, and pack your own snacks since nearby amenities are quite limited."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie früh nach Süden, um die mystischen Franzesu-Ruinen zu erkunden, bevor Sie zum Strand von Ampurias fahren. Mittags besuchen Sie den Wachturm und das majestätische Doria-Schloss. Nach der Kathedrale geht es gen Osten nach Campulandru. Lassen Sie den Abend am Meer in der Baia Ostina ausklingen.",
+        "hu": "Korán induljon délre a misztikus Franzesu romokhoz, mielőtt az Ampurias strandra hajtana. A délidő tökéletes az őrtorony és a fenséges Doria-kastély meglátogatására. A katedrális után vezessen keletre Campulandru felé. Vezesse le a napot egy tengerparti estével a Baia Ostina partjainál.",
+        "ro": "Mergeți spre sud pentru a explora ruinele mistice Franzesu înainte de plaja Ampurias. Prânzul este perfect pentru a vizita turnul de veghe și castelul maiestuos Doria. După catedrală, conduceți spre est către Campulandru. Relaxați-vă seara pe malul mării la frumoasa Baia Ostina.",
+        "en": "Drive south early to explore the mystical Franzesu ruins before hitting the Ampurias beach. Midday is perfect for visiting the watchtower and wandering through the majestic Doria Castle. After seeing the cathedral, drive east to the Campulandru site. Wind down with an evening by the sea at Baia Ostina."
+      }
+    }
+  }
+}

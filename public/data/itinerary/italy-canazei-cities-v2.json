@@ -1,0 +1,497 @@
+{
+  "city_id": "italy-canazei-cities-v2",
+  "anchor": {
+    "name": "Canazei",
+    "coords": [
+      11.771075,
+      46.476881
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:30",
+      "total_km": 1.65,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Prezentacja edukacyjna - skały Dolomitów",
+            "hu": "Prezentacja edukacyjna - skały Dolomitów",
+            "ro": "Prezentacja edukacyjna - skały Dolomitów",
+            "en": "Prezentacja edukacyjna - skały Dolomitów"
+          },
+          "coords": [
+            11.771175,
+            46.476377
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erfahren Sie hier mehr über die faszinierende geologische Geschichte der Dolomiten; besuchen Sie es früh, um die Tafeln in Ruhe zu lesen.",
+            "hu": "Ismerje meg a Dolomitok lenyűgöző geológiai történetét ezen a kiállításon; érkezzen korán, hogy elkerülje a tolakodó turistatömeget.",
+            "ro": "Aflați despre istoria geologică fascinantă a Dolomiților aici; încercați să vizitați devreme pentru a citi panourile fără aglomerație.",
+            "en": "Learn about the fascinating geological history of the Dolomites here; try visiting early to read the panels without crowds pushing behind you."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolaondes",
+            "hu": "Dolaondes",
+            "ro": "Dolaondes",
+            "en": "Dolaondes"
+          },
+          "coords": [
+            11.770766,
+            46.475039
+          ],
+          "category": "recreational",
+          "arrive_at": "09:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Dieser moderne Freizeitkomplex bietet tolle Pools; packen Sie unbedingt Badesachen für ein entspannendes Bad nach den ersten Erkundungen ein.",
+            "hu": "Ez a modern rekreációs komplexum remek medencéket kínál, ezért mindenképpen vigyen magával fürdőruhát egy pihentető déli csobbanáshoz.",
+            "ro": "Acest complex modern oferă piscine și zone de wellness uimitoare, așa că împachetați un costum de baie pentru o relaxare binemeritată.",
+            "en": "This modern recreational complex offers amazing pools and wellness areas, so definitely pack your swimsuit and a towel for a relaxing midday soak."
+          }
+        },
+        {
+          "name": {
+            "de": "Old wooden houses",
+            "hu": "Old wooden houses",
+            "ro": "Old wooden houses",
+            "en": "Old wooden houses"
+          },
+          "coords": [
+            11.773817,
+            46.476087
+          ],
+          "category": "landmark",
+          "arrive_at": "10:46",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Diese historischen Holzstrukturen zeigen traditionelle alpine Architektur; bringen Sie ein Weitwinkelobjektiv für schöne Detailaufnahmen mit.",
+            "hu": "Ezek a történelmi faházak a hagyományos alpesi építészetet mutatják be; hozzon nagylátószögű lencsét a különleges részletek megörökítéséhez.",
+            "ro": "Aceste structuri istorice din lemn prezintă arhitectura alpină tradițională; aduceți un obiectiv larg pentru a surprinde detaliile lor unice.",
+            "en": "These historic wooden structures showcase traditional alpine architecture; bring a wide-angle lens to capture their unique details against the mountains."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa del Sacro Cuore di Gesù",
+            "hu": "Chiesa del Sacro Cuore di Gesù",
+            "ro": "Chiesa del Sacro Cuore di Gesù",
+            "en": "Chiesa del Sacro Cuore di Gesù"
+          },
+          "coords": [
+            11.766511,
+            46.477884
+          ],
+          "category": "religious",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Fresken dieser zentralen Kirche, aber denken Sie daran, sich bescheiden zu kleiden und leise zu sprechen.",
+            "hu": "Csodálja meg e központi templom gyönyörű freskóit és békés belsejét, de ne feledjen szerényen öltözködni és halkan beszélni a látogatáskor.",
+            "ro": "Admirați frescele frumoase și interiorul pașnic al acestei biserici centrale, amintindu-vă să vă îmbrăcați modest și să păstrați liniștea.",
+            "en": "Admire the beautiful frescoes and peaceful interior of this central church, but remember to dress modestly and speak quietly during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa della Madonna della Neve",
+            "hu": "Chiesa della Madonna della Neve",
+            "ro": "Chiesa della Madonna della Neve",
+            "en": "Chiesa della Madonna della Neve"
+          },
+          "coords": [
+            11.764216,
+            46.478513
+          ],
+          "category": "religious",
+          "arrive_at": "11:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Diese charmante historische Kirche ist ein ruhiger Ort der Besinnung; prüfen Sie das Schild draußen auf mögliche lokale Chorauftritte.",
+            "hu": "Ez a bájos történelmi templom egy csendes hely az elmélkedésre; érdemes megnézni a kinti hirdetőtáblát a helyi kórusok fellépései miatt.",
+            "ro": "Această fermecătoare biserică istorică este un loc liniștit pentru reflecție; verificați panoul exterior pentru eventuale concerte de cor.",
+            "en": "This charming historical church is a quiet spot for reflection; check the notice board outside for occasional local choir performance schedules."
+          }
+        },
+        {
+          "name": {
+            "de": "Gran Tobia Teater",
+            "hu": "Gran Tobia Teater",
+            "ro": "Gran Tobia Teater",
+            "en": "Gran Tobia Teater"
+          },
+          "coords": [
+            11.758603,
+            46.479368
+          ],
+          "category": "cultural",
+          "arrive_at": "12:40",
+          "stay_min": 110,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Als Zentrum für lokale Veranstaltungen ist dieser Ort geschichtsträchtig; kaufen Sie Tickets immer im Voraus online, falls eine Show ansteht.",
+            "hu": "A helyi kulturális események központjaként ez a helyszín gazdag történelemmel bír; mindig vegyen jegyet előre, ha előadást is megnézne.",
+            "ro": "Ca centru pentru evenimente culturale, acest loc este plin de istorie; cumpărați întotdeauna bilete online în avans dacă este un spectacol.",
+            "en": "As a hub for local cultural events and theater, this venue is rich in history; always buy tickets in advance online if a show is scheduled today."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit einer Präsentation über die Dolomiten, bevor Sie sich im Dolaondes-Komplex entspannen und die herrliche Umgebung genießen. Gegen Mittag können Sie die traditionellen alten Holzhäuser bewundern und die beeindruckende Kirche Chiesa del Sacro Cuore di Gesù besuchen. Verbringen Sie den Nachmittag in der historischen Kirche Madonna della Neve und beenden Sie die Tour mit einem kulturellen Erlebnis im Gran Tobia Teater.",
+        "hu": "Kezdje a reggelt a Dolomitokat bemutató edukációs prezentációval, majd pihenjen egyet a közeli Dolaondes rekreációs központban. Dél körül csodálja meg a hagyományos régi faházakat, majd látogasson el a lenyűgöző Chiesa del Sacro Cuore di Gesù templomba. A délutánt töltse a történelmi Madonna della Neve templom felfedezésével, végül zárja a napot egy kulturális programmal a Gran Tobia Teater falai között.",
+        "ro": "Începeți dimineața învățând despre munții Dolomiți la prezentarea educațională, apoi relaxați-vă la complexul recreațional Dolaondes. La amiază, admirați arhitectura tradițională a vechilor case din lemn și vizitați superba biserică Sacro Cuore di Gesù. Petreceți după-amiaza explorând istorica biserică Madonna della Neve, încheind ziua cu o experiență culturală de neuitat la teatrul Gran Tobia.",
+        "en": "Start your morning by learning about the mighty Dolomites at the educational presentation before heading to the nearby Dolaondes complex for some relaxing recreational time. As midday approaches, admire the traditional architecture of the old wooden houses before visiting the stunning Chiesa del Sacro Cuore di Gesù. Spend your afternoon at the historic Chiesa della Madonna della Neve and finish with an immersive cultural experience at the Gran Tobia Teater."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:33",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo Ladin de Fascia, Il Casino di Bersaglio",
+            "hu": "Museo Ladin de Fascia, Il Casino di Bersaglio",
+            "ro": "Museo Ladin de Fascia, Il Casino di Bersaglio",
+            "en": "Museo Ladin de Fascia, Il Casino di Bersaglio"
+          },
+          "coords": [
+            11.743402,
+            46.475822
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die einzigartige ladinische Kultur durch interaktive Ausstellungen; nehmen Sie am Eingang einen Audioguide für mehr Details.",
+            "hu": "Fedezze fel az egyedülálló ladin kultúrát az interaktív kiállításokon keresztül; a jobb megértés érdekében kérjen audioguide-ot a bejáratnál.",
+            "ro": "Descoperiți cultura și istoria unică Ladin prin exponate interactive; luați un ghid audio la intrare pentru o înțelegere mai detaliată.",
+            "en": "Discover the unique Ladin culture and history through interactive exhibits here; grab an audio guide at the entrance for better understanding."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa dei Santi Giacomo e Filippo",
+            "hu": "Chiesa dei Santi Giacomo e Filippo",
+            "ro": "Chiesa dei Santi Giacomo e Filippo",
+            "en": "Chiesa dei Santi Giacomo e Filippo"
+          },
+          "coords": [
+            11.741777,
+            46.478097
+          ],
+          "category": "religious",
+          "arrive_at": "10:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Diese malerische religiöse Stätte bietet einen Einblick in den lokalen Glauben; besuchen Sie sie am späten Vormittag für das beste Licht.",
+            "hu": "Ez a festői kis vallási helyszín bepillantást enged a helyi hitéletbe; látogasson el késő délelőtt, amikor a napfény csodásan éri az oltárt.",
+            "ro": "Acest mic și pitoresc sit religios oferă o privire asupra credinței locale; vizitați dimineața târziu, când soarele luminează frumos altarul.",
+            "en": "This small yet picturesque religious site offers a glimpse into local faith; visit during the late morning when the sunlight beautifully hits the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Gran Tobia Teater",
+            "hu": "Gran Tobia Teater",
+            "ro": "Gran Tobia Teater",
+            "en": "Gran Tobia Teater"
+          },
+          "coords": [
+            11.758603,
+            46.479368
+          ],
+          "category": "cultural",
+          "arrive_at": "11:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Als Zentrum für lokale Veranstaltungen ist dieser Ort geschichtsträchtig; kaufen Sie Tickets immer im Voraus online, falls eine Show ansteht.",
+            "hu": "A helyi kulturális események központjaként ez a helyszín gazdag történelemmel bír; mindig vegyen jegyet előre, ha előadást is megnézne.",
+            "ro": "Ca centru pentru evenimente culturale, acest loc este plin de istorie; cumpărați întotdeauna bilete online în avans dacă este un spectacol.",
+            "en": "As a hub for local cultural events and theater, this venue is rich in history; always buy tickets in advance online if a show is scheduled today."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa del Sacro Cuore di Gesù",
+            "hu": "Chiesa del Sacro Cuore di Gesù",
+            "ro": "Chiesa del Sacro Cuore di Gesù",
+            "en": "Chiesa del Sacro Cuore di Gesù"
+          },
+          "coords": [
+            11.766511,
+            46.477884
+          ],
+          "category": "religious",
+          "arrive_at": "13:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Fresken dieser zentralen Kirche, aber denken Sie daran, sich bescheiden zu kleiden und leise zu sprechen.",
+            "hu": "Csodálja meg e központi templom gyönyörű freskóit és békés belsejét, de ne feledjen szerényen öltözködni és halkan beszélni a látogatáskor.",
+            "ro": "Admirați frescele frumoase și interiorul pașnic al acestei biserici centrale, amintindu-vă să vă îmbrăcați modest și să păstrați liniștea.",
+            "en": "Admire the beautiful frescoes and peaceful interior of this central church, but remember to dress modestly and speak quietly during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Prezentacja edukacyjna - skały Dolomitów",
+            "hu": "Prezentacja edukacyjna - skały Dolomitów",
+            "ro": "Prezentacja edukacyjna - skały Dolomitów",
+            "en": "Prezentacja edukacyjna - skały Dolomitów"
+          },
+          "coords": [
+            11.771175,
+            46.476377
+          ],
+          "category": "landmark",
+          "arrive_at": "13:44",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erfahren Sie hier mehr über die faszinierende geologische Geschichte der Dolomiten; besuchen Sie es früh, um die Tafeln in Ruhe zu lesen.",
+            "hu": "Ismerje meg a Dolomitok lenyűgöző geológiai történetét ezen a kiállításon; érkezzen korán, hogy elkerülje a tolakodó turistatömeget.",
+            "ro": "Aflați despre istoria geologică fascinantă a Dolomiților aici; încercați să vizitați devreme pentru a citi panourile fără aglomerație.",
+            "en": "Learn about the fascinating geological history of the Dolomites here; try visiting early to read the panels without crowds pushing behind you."
+          }
+        },
+        {
+          "name": {
+            "de": "Old wooden houses",
+            "hu": "Old wooden houses",
+            "ro": "Old wooden houses",
+            "en": "Old wooden houses"
+          },
+          "coords": [
+            11.773817,
+            46.476087
+          ],
+          "category": "landmark",
+          "arrive_at": "14:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Diese historischen Holzstrukturen zeigen traditionelle alpine Architektur; bringen Sie ein Weitwinkelobjektiv für schöne Detailaufnahmen mit.",
+            "hu": "Ezek a történelmi faházak a hagyományos alpesi építészetet mutatják be; hozzon nagylátószögű lencsét a különleges részletek megörökítéséhez.",
+            "ro": "Aceste structuri istorice din lemn prezintă arhitectura alpină tradițională; aduceți un obiectiv larg pentru a surprinde detaliile lor unice.",
+            "en": "These historic wooden structures showcase traditional alpine architecture; bring a wide-angle lens to capture their unique details against the mountains."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Sant'Antonio",
+            "hu": "Chiesa di Sant'Antonio",
+            "ro": "Chiesa di Sant'Antonio",
+            "en": "Chiesa di Sant'Antonio"
+          },
+          "coords": [
+            11.780313,
+            46.463988
+          ],
+          "category": "religious",
+          "arrive_at": "14:23",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Diese versteckte Kirche ist perfekt, um den Massen zu entfliehen; da die Parkplätze begrenzt sind, ist die Anreise mit dem Fahrrad ideal.",
+            "hu": "Ez a csendesebb részen megbúvó templom tökéletes a tömeg elől való menekülésre; mivel a parkolóhely korlátozott, kerékpárral érkezni ideális.",
+            "ro": "Ascunsă într-o zonă liniștită, această biserică este perfectă pentru a scăpa de aglomerație; parcarea fiind limitată, sosirea cu bicicleta este ideală.",
+            "en": "Tucked away in a quieter area, this church is perfect for escaping the crowds; note that parking is limited, so arriving by bike or foot is ideal."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radtag beginnt im Ladiner Museum, gefolgt von einem kurzen Stopp an der charmanten Kirche Santi Giacomo e Filippo. Radeln Sie gegen Mittag zum Gran Tobia Teater, um mehr über die regionale Kultur und Geschichte zu erfahren. Am Nachmittag fahren Sie zurück ins Zentrum, um die Sacro Cuore Kirche, die lehrreiche Präsentation und die alten Holzhäuser zu besichtigen. Beenden Sie den Tag mit einer entspannten Fahrt zur ruhigen Kirche Sant'Antonio.",
+        "hu": "A biciklis nap a Ladin Múzeumban kezdődik, ahol megismerheti a helyi örökséget, majd látogasson el a bájos Santi Giacomo e Filippo templomba. Délben tekerjen el a Gran Tobia színházhoz, ahol elmerülhet a regionális kultúrában. Délután induljon vissza a központ felé, nézze meg a Sacro Cuore templomot, a kőzetbemutatót és a híres faházakat. Zárja az aktív napot egy békés kerékpározással a csendes Sant'Antonio templomhoz.",
+        "ro": "Ziua de ciclism începe la Muzeul Ladin, oferind o incursiune în patrimoniul local, urmată de o oprire la fermecătoarea biserică Santi Giacomo e Filippo. Pedalați spre teatrul Gran Tobia pentru o doză de cultură regională la prânz. După-amiaza, întoarceți-vă în centru pentru a vedea biserica Sacro Cuore, prezentarea rocilor și vechile case din lemn. Încheiați ziua activă cu o plimbare liniștită spre biserica Sant'Antonio.",
+        "en": "Your cycling day starts at the Ladin Museum, offering a deep dive into local heritage, followed by a quick stop at the charming Santi Giacomo e Filippo church. Ride smoothly toward the Gran Tobia Teater for a midday dose of regional culture and history. In the afternoon, pedal back towards the town center to see the Sacro Cuore church, the educational presentation, and the iconic old wooden houses. Conclude your active day with a peaceful evening ride to the serene Sant'Antonio church."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:05",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Guides de Fassa",
+            "hu": "Guides de Fassa",
+            "ro": "Guides de Fassa",
+            "en": "Guides de Fassa"
+          },
+          "coords": [
+            11.74142,
+            46.476596
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Dies ist der wichtigste Treffpunkt für Bergführer in der Region; fragen Sie die Experten nach sicheren Wanderwegen, bevor Sie aufbrechen.",
+            "hu": "Ez a hegyivezetők legfontosabb központja a régióban; ugorjon be, és kérdezze meg a szakértőket a legbiztonságosabb túraútvonalakról indulás előtt.",
+            "ro": "Acesta este reperul principal pentru ghizii montani; opriți-vă pentru a întreba experții despre cele mai sigure trasee de drumeție.",
+            "en": "This is the premier landmark for mountain guides in the region; stop by to ask the experts about the safest hiking trails before heading out."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Ladin de Fascia, Il Casino di Bersaglio",
+            "hu": "Museo Ladin de Fascia, Il Casino di Bersaglio",
+            "ro": "Museo Ladin de Fascia, Il Casino di Bersaglio",
+            "en": "Museo Ladin de Fascia, Il Casino di Bersaglio"
+          },
+          "coords": [
+            11.743402,
+            46.475822
+          ],
+          "category": "museum",
+          "arrive_at": "09:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die einzigartige ladinische Kultur durch interaktive Ausstellungen; nehmen Sie am Eingang einen Audioguide für mehr Details.",
+            "hu": "Fedezze fel az egyedülálló ladin kultúrát az interaktív kiállításokon keresztül; a jobb megértés érdekében kérjen audioguide-ot a bejáratnál.",
+            "ro": "Descoperiți cultura și istoria unică Ladin prin exponate interactive; luați un ghid audio la intrare pentru o înțelegere mai detaliată.",
+            "en": "Discover the unique Ladin culture and history through interactive exhibits here; grab an audio guide at the entrance for better understanding."
+          }
+        },
+        {
+          "name": {
+            "de": "Gran Tobia Teater",
+            "hu": "Gran Tobia Teater",
+            "ro": "Gran Tobia Teater",
+            "en": "Gran Tobia Teater"
+          },
+          "coords": [
+            11.758603,
+            46.479368
+          ],
+          "category": "cultural",
+          "arrive_at": "11:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Als Zentrum für lokale Veranstaltungen ist dieser Ort geschichtsträchtig; kaufen Sie Tickets immer im Voraus online, falls eine Show ansteht.",
+            "hu": "A helyi kulturális események központjaként ez a helyszín gazdag történelemmel bír; mindig vegyen jegyet előre, ha előadást is megnézne.",
+            "ro": "Ca centru pentru evenimente culturale, acest loc este plin de istorie; cumpărați întotdeauna bilete online în avans dacă este un spectacol.",
+            "en": "As a hub for local cultural events and theater, this venue is rich in history; always buy tickets in advance online if a show is scheduled today."
+          }
+        },
+        {
+          "name": {
+            "de": "Prezentacja edukacyjna - skały Dolomitów",
+            "hu": "Prezentacja edukacyjna - skały Dolomitów",
+            "ro": "Prezentacja edukacyjna - skały Dolomitów",
+            "en": "Prezentacja edukacyjna - skały Dolomitów"
+          },
+          "coords": [
+            11.771175,
+            46.476377
+          ],
+          "category": "landmark",
+          "arrive_at": "12:31",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erfahren Sie hier mehr über die faszinierende geologische Geschichte der Dolomiten; besuchen Sie es früh, um die Tafeln in Ruhe zu lesen.",
+            "hu": "Ismerje meg a Dolomitok lenyűgöző geológiai történetét ezen a kiállításon; érkezzen korán, hogy elkerülje a tolakodó turistatömeget.",
+            "ro": "Aflați despre istoria geologică fascinantă a Dolomiților aici; încercați să vizitați devreme pentru a citi panourile fără aglomerație.",
+            "en": "Learn about the fascinating geological history of the Dolomites here; try visiting early to read the panels without crowds pushing behind you."
+          }
+        },
+        {
+          "name": {
+            "de": "Old broken bridge (wooden)",
+            "hu": "Old broken bridge (wooden)",
+            "ro": "Old broken bridge (wooden)",
+            "en": "Old broken bridge (wooden)"
+          },
+          "coords": [
+            11.780725,
+            46.490585
+          ],
+          "category": "landmark",
+          "arrive_at": "12:50",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Diese verwitterte Holzbrücke ist ein fantastisches rustikales Fotomotiv; achten Sie auf Ihre Schritte, da der Boden rutschig sein kann.",
+            "hu": "Ez az időjárás által megviselt fahíd fantasztikus, rusztikus fotótéma; óvatosan lépkedjen, mivel a környező talaj csúszós és egyenetlen lehet.",
+            "ro": "Acest pod din lemn învechit este o oportunitate fantastică pentru fotografii rustice; pășiți cu grijă deoarece pământul poate fi alunecos.",
+            "en": "This weathered wooden bridge is a fantastic rustic photo opportunity; carefully watch your step as the surrounding ground can be slippery and uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Col di Rosc",
+            "hu": "Col di Rosc",
+            "ro": "Col di Rosc",
+            "en": "Col di Rosc"
+          },
+          "coords": [
+            11.802812,
+            46.474479
+          ],
+          "category": "natural",
+          "arrive_at": "13:10",
+          "stay_min": 55,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf die Alpengipfel von diesem Aussichtspunkt; packen Sie eine Windjacke ein, es wird kalt.",
+            "hu": "Élvezze a lélegzetelállító panorámát az alpesi csúcsokra erről a természetes kilátópontról; vigyen magával széldzsekit, mert odafent hűvös van.",
+            "ro": "Bucurați-vă de priveliști panoramice uluitoare asupra vârfurilor alpine de aici; luați o geacă de vânt deoarece devine foarte frig sus.",
+            "en": "Enjoy breathtaking panoramic views of the alpine peaks from this natural vantage point; pack a windbreaker jacket as it gets very chilly at the top."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie am Morgen zum Guides de Fassa und tauchen Sie im umfangreichen Ladiner Museum in die lokale Kultur ein. Parken Sie gegen Mittag in der Nähe des Gran Tobia Teater, um das künstlerische Erbe zu bewundern, und besuchen Sie die Gesteinspräsentation. Fahren Sie am Nachmittag zur malerischen alten Holzbrücke, um einzigartige Fotos zu machen. Zum Abschluss fahren Sie zum Col di Rosc und genießen den atemberaubenden Panoramablick auf die Dolomiten.",
+        "hu": "Reggel vezessen a Guides de Fassa központhoz, majd merüljön el a helyi kultúrában az átfogó Ladin Múzeumban. Dél körül parkoljon le a Gran Tobia színház közelében, hogy megcsodálja a régió művészeti örökségét és a kőzetbemutatót. Délután kocsikázzon el a festői, régi, törött fahídhoz néhány egyedi fotó kedvéért. Végül vezessen fel a Col di Rosc hegyre, és élvezze a Dolomitokra nyíló látványos panorámát.",
+        "ro": "Conduceți dimineața la centrul Guides de Fassa, apoi cufundați-vă în cultura locală la Muzeul Ladin. La amiază, parcați lângă teatrul Gran Tobia pentru a aprecia moștenirea artistică, înainte de a vedea prezentarea educațională a rocilor. După-amiaza, conduceți până la vechiul pod de lemn rupt pentru câteva fotografii unice. În cele din urmă, urcați cu mașina până la Col di Rosc pentru a savura priveliști panoramice spectaculoase.",
+        "en": "Drive out in the morning to the Guides de Fassa center, then immerse yourself in local culture at the comprehensive Ladin Museum. Around midday, park near the Gran Tobia Teater to appreciate the region's artistic heritage before checking out the educational rock presentation. Spend your afternoon driving to the picturesque old broken wooden bridge for some unique photos. Finally, drive up to Col di Rosc to enjoy spectacular panoramic sunset views over the Dolomites."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "mexico-puerto-aventuras-cities-v2",
+  "anchor": {
+    "name": "Puerto Aventuras",
+    "coords": [
+      -87.23006,
+      20.50667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:33",
+      "total_km": 1.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Palenque",
+            "hu": "Palenque",
+            "ro": "Palenque",
+            "en": "Palenque"
+          },
+          "coords": [
+            -87.242244,
+            20.489744
+          ],
+          "category": "cultural",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckende Nachbildung der alten Palenque-Strukturen, die die Geschichte der Maya widerspiegeln, und bringen Sie Ihre Kamera für morgendliche Fotos mit.",
+            "hu": "Fedezze fel az ősi Palenque építmények lenyűgöző másolatát, amelyek a maja történelmet idézik, és hozzon magával fényképezőgépet a reggeli tömeg nélküli fotókhoz.",
+            "ro": "Descoperiți replica impresionantă a structurilor antice Palenque care reflectă istoria mayașă și aduceți aparatul foto pentru cadre matinale fără aglomerație.",
+            "en": "Discover the striking replica of the ancient Palenque structures which echo Mayan history, so bring your camera for morning shots before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Pirates Island",
+            "hu": "Pirates Island",
+            "ro": "Pirates Island",
+            "en": "Pirates Island"
+          },
+          "coords": [
+            -87.244992,
+            20.489508
+          ],
+          "category": "recreational",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Dieser Freizeitort bietet eine unbeschwerte Pause mit Aktivitäten im Piratenstil, also tragen Sie bequeme Schuhe, um alle interaktiven Spiele in vollen Zügen zu genießen.",
+            "hu": "Ez a szórakoztató rekreációs hely könnyed kikapcsolódást kínál kalóz témájú tevékenységekkel, ezért viseljen kényelmes cipőt az interaktív játékokhoz.",
+            "ro": "Acest loc de recreere oferă o pauză relaxantă cu activități cu tematică de pirați, așa că purtați încălțăminte confortabilă pentru a vă bucura de jocurile interactive.",
+            "en": "This fun recreational spot offers a lighthearted break with pirate-themed activities, so wear comfortable shoes to enjoy all the interactive games fully."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulkulkan",
+            "hu": "Kulkulkan",
+            "ro": "Kulkulkan",
+            "en": "Kulkulkan"
+          },
+          "coords": [
+            -87.246362,
+            20.488393
+          ],
+          "category": "cultural",
+          "arrive_at": "11:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die kulturelle Hommage an Kukulcan durch die markante Architektur und besuchen Sie den Ort, wenn die Sonne auf die Steine trifft, um die beste Wirkung zu erzielen.",
+            "hu": "Tapasztalja meg a Kukulcan előtti kulturális tisztelgést a jellegzetes építészeten keresztül, és próbálja meg akkor látogatni, amikor a nap megvilágítja a köveket.",
+            "ro": "Experimentați omagiul cultural adus lui Kukulcan prin arhitectura sa distinctivă și încercați să vizitați când soarele bate pe pietre pentru cel mai bun impact vizual.",
+            "en": "Experience the cultural homage to Kukulcan through its distinctive architecture, and try to visit when the sun hits the stones for the best visual impact."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolphinus Barceló",
+            "hu": "Dolphinus Barceló",
+            "ro": "Dolphinus Barceló",
+            "en": "Dolphinus Barceló"
+          },
+          "coords": [
+            -87.242577,
+            20.486576
+          ],
+          "category": "landmark",
+          "arrive_at": "13:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie die anmutigen Meeressäuger in einer gepflegten Umgebung, aber buchen Sie Ihren Besichtigungstermin im Voraus, um sich den besten Aussichtspunkt zu sichern.",
+            "hu": "Figyelje meg a kecses tengeri emlősöket gondozott környezetben, de mindenképpen foglalja le előre a látogatási időpontot, hogy biztosítsa a legjobb kilátópontot.",
+            "ro": "Priviți mamiferele marine grațioase într-un mediu bine îngrijit, dar asigurați-vă că rezervați slotul de vizionare din timp pentru a prinde cel mai bun punct de observație.",
+            "en": "Watch the graceful marine mammals in a well-kept environment, but make sure to book your viewing slot ahead of time to secure the best vantage point."
+          }
+        },
+        {
+          "name": {
+            "de": "Cenote Cristalino",
+            "hu": "Cenote Cristalino",
+            "ro": "Cenote Cristalino",
+            "en": "Cenote Cristalino"
+          },
+          "coords": [
+            -87.249803,
+            20.490111
+          ],
+          "category": "landmark",
+          "arrive_at": "14:48",
+          "stay_min": 105,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem Bad im kristallklaren Süßwasser dieses natürlichen Erdlochs, aber verwenden Sie biologisch abbaubare Sonnencreme zum Schutz des Ökosystems.",
+            "hu": "Zárja a túrát egy úszással ennek a természetes víznyelőnek a kristálytiszta édesvizében, de ne feledjen biológiailag lebomló naptejet használni az ökoszisztéma védelmében.",
+            "ro": "Încheiați turul înotând în apa dulce și limpede a acestui cenote natural, dar amintiți-vă să folosiți cremă de soare biodegradabilă pentru a proteja ecosistemul fragil.",
+            "en": "End your tour by swimming in the crystal-clear fresh water of this natural sinkhole, but remember to use biodegradable sunscreen to protect the fragile ecosystem."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der Erkundung antiker Echos und Ruinen des Maya-Erbes. Später gehen Sie zu interaktiven historischen Stätten über, die Spaß und Wissen bieten. Am Nachmittag tauchen Sie in die Naturwunder ein und suchen nach kühlem Schatten. Beenden Sie den Tag entspannt am erfrischenden Wasser einer wunderschönen, kristallklaren natürlichen Cenote, um sich abzukühlen.",
+        "hu": "Kezdje a reggelt a maja örökséget tükröző ősi kulturális emlékek és gyönyörű romok felfedezésével. Ahogy melegszik az idő, váltson az interaktív és történelmi helyszínekre, amelyek egyszerre nyújtanak szórakozást és tudást. Délután merüljön el a régió természeti csodáiban, hűs árnyékot és vadvilágot keresve. Zárja a napot egy lenyűgöző természetes cenote frissítő vizének közelében pihenve.",
+        "ro": "Începeți dimineața explorând ecourile culturale antice și ruinele frumoase care reflectă moștenirea mayașă. Pe măsură ce se încălzește, treceți la situri istorice interactive ce oferă distracție și cunoaștere. După-amiaza, scufundați-vă în minunile naturale ale regiunii, căutând umbră și faună sălbatică. Încheiați ziua relaxându-vă lângă apele răcoroase ale unui cenote natural uimitor.",
+        "en": "Begin your morning exploring the ancient cultural echoes and beautiful ruins that reflect Maya heritage. As the day warms up, transition towards interactive and historical sites that offer both fun and knowledge. In the afternoon, dive into the natural wonders of the region, seeking cool shade and wildlife. Conclude the day by relaxing near the refreshing waters of a stunning natural cenote."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 4.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mérida",
+            "hu": "Mérida",
+            "ro": "Mérida",
+            "en": "Mérida"
+          },
+          "coords": [
+            -87.218873,
+            20.504244
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses Wahrzeichen, das die koloniale Eleganz der Region Yucatan repräsentiert, und tragen Sie einen Hut, um sich beim Spazierengehen vor der Mittagssonne zu schützen.",
+            "hu": "Fedezze fel ezt az ikonikus nevezetességet, amely a Yucatán régió gyarmati eleganciáját képviseli, és viseljen kalapot, hogy megvédje magát a déli naptól séta közben.",
+            "ro": "Explorați acest punct de reper iconic care reprezintă eleganța colonială a regiunii Yucatan și purtați o pălărie pentru a vă proteja de soarele amiezii în timpul plimbării.",
+            "en": "Explore this iconic landmark representing the colonial elegance of the Yucatan region, and wear a hat to shield yourself from the midday sun while strolling."
+          }
+        },
+        {
+          "name": {
+            "de": "Chac-hal-al",
+            "hu": "Chac-hal-al",
+            "ro": "Chac-hal-al",
+            "en": "Chac-hal-al"
+          },
+          "coords": [
+            -87.234955,
+            20.494209
+          ],
+          "category": "historical",
+          "arrive_at": "10:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem alten Küstensiedlungsgebiet in die reiche maritime Geschichte ein, wo eine geführte Audiotour Ihr Verständnis für den Ort erheblich vertiefen wird.",
+            "hu": "Merüljön el a gazdag tengeri történelemben ezen az ősi tengerparti településen, ahol egy vezetett audiótúra jelentősen elmélyíti a helyszín megértését.",
+            "ro": "Aprofundați-vă în bogata istorie maritimă la această așezare de coastă antică, unde un tur audio ghidat vă va îmbunătăți considerabil înțelegerea locului.",
+            "en": "Delve into the rich maritime history at this ancient coastal settlement site, where taking a guided audio tour will deeply enhance your understanding."
+          }
+        },
+        {
+          "name": {
+            "de": "Palenque",
+            "hu": "Palenque",
+            "ro": "Palenque",
+            "en": "Palenque"
+          },
+          "coords": [
+            -87.242244,
+            20.489744
+          ],
+          "category": "cultural",
+          "arrive_at": "12:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckende Nachbildung der alten Palenque-Strukturen, die die Geschichte der Maya widerspiegeln, und bringen Sie Ihre Kamera für morgendliche Fotos mit.",
+            "hu": "Fedezze fel az ősi Palenque építmények lenyűgöző másolatát, amelyek a maja történelmet idézik, és hozzon magával fényképezőgépet a reggeli tömeg nélküli fotókhoz.",
+            "ro": "Descoperiți replica impresionantă a structurilor antice Palenque care reflectă istoria mayașă și aduceți aparatul foto pentru cadre matinale fără aglomerație.",
+            "en": "Discover the striking replica of the ancient Palenque structures which echo Mayan history, so bring your camera for morning shots before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Cenote Chikin-Ha",
+            "hu": "Cenote Chikin-Ha",
+            "ro": "Cenote Chikin-Ha",
+            "en": "Cenote Chikin-Ha"
+          },
+          "coords": [
+            -87.247988,
+            20.490993
+          ],
+          "category": "landmark",
+          "arrive_at": "13:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die mystischen Unterwasserhöhlen ein, die eine tiefe historische Bedeutung haben, und bringen Sie Wasserschuhe für einen sichereren Spaziergang auf den Kalksteinfelsen mit.",
+            "hu": "Merüljön el a mély történelmi jelentőséggel bíró misztikus víz alatti barlangokban, és hozzon magával vízi cipőt a csúszós mészkősziklákon való biztonságosabb sétához.",
+            "ro": "Scufundați-vă în peșterile subacvatice mistice care dețin o semnificație istorică profundă și aduceți încălțăminte de apă pentru o plimbare mai sigură pe rocile calcaroase alunecoase.",
+            "en": "Dive into the mystical underwater caves that hold deep historical significance, and bring water shoes for a safer walk on the slippery limestone rocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Ecopark Katun Chi",
+            "hu": "Ecopark Katun Chi",
+            "ro": "Ecopark Katun Chi",
+            "en": "Ecopark Katun Chi"
+          },
+          "coords": [
+            -87.252094,
+            20.491076
+          ],
+          "category": "landmark",
+          "arrive_at": "14:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Wandern Sie auf den üppigen Dschungelpfaden dieses ökologischen Parks voller einheimischer Flora und packen Sie für plötzliche tropische Schauer eine leichte Regenjacke ein.",
+            "hu": "Sétáljon végig az őshonos növényvilággal teli ökológiai park buja dzsungelösvényein, és csomagoljon be egy könnyű esőkabátot a hirtelen trópusi záporok esetére.",
+            "ro": "Plimbați-vă pe traseele din jungla luxuriantă ale acestui parc ecologic plin de floră nativă și puneți în rucsac o pelerină de ploaie ușoară în caz de averse tropicale bruște.",
+            "en": "Wander through the lush jungle trails of this ecological park filled with native flora, and pack a light rain jacket just in case of sudden tropical showers."
+          }
+        },
+        {
+          "name": {
+            "de": "Cenote Cristalino",
+            "hu": "Cenote Cristalino",
+            "ro": "Cenote Cristalino",
+            "en": "Cenote Cristalino"
+          },
+          "coords": [
+            -87.249803,
+            20.490111
+          ],
+          "category": "landmark",
+          "arrive_at": "16:00",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem Bad im kristallklaren Süßwasser dieses natürlichen Erdlochs, aber verwenden Sie biologisch abbaubare Sonnencreme zum Schutz des Ökosystems.",
+            "hu": "Zárja a túrát egy úszással ennek a természetes víznyelőnek a kristálytiszta édesvizében, de ne feledjen biológiailag lebomló naptejet használni az ökoszisztéma védelmében.",
+            "ro": "Încheiați turul înotând în apa dulce și limpede a acestui cenote natural, dar amintiți-vă să folosiți cremă de soare biodegradabilă pentru a proteja ecosistemul fragil.",
+            "en": "End your tour by swimming in the crystal-clear fresh water of this natural sinkhole, but remember to use biodegradable sunscreen to protect the fragile ecosystem."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der Erkundung antiker Echos und Ruinen des Maya-Erbes. Später gehen Sie zu interaktiven historischen Stätten über, die Spaß und Wissen bieten. Am Nachmittag tauchen Sie in die Naturwunder ein und suchen nach kühlem Schatten. Beenden Sie den Tag entspannt am erfrischenden Wasser einer wunderschönen, kristallklaren natürlichen Cenote, um sich abzukühlen.",
+        "hu": "Kezdje a reggelt a maja örökséget tükröző ősi kulturális emlékek és gyönyörű romok felfedezésével. Ahogy melegszik az idő, váltson az interaktív és történelmi helyszínekre, amelyek egyszerre nyújtanak szórakozást és tudást. Délután merüljön el a régió természeti csodáiban, hűs árnyékot és vadvilágot keresve. Zárja a napot egy lenyűgöző természetes cenote frissítő vizének közelében pihenve.",
+        "ro": "Începeți dimineața explorând ecourile culturale antice și ruinele frumoase care reflectă moștenirea mayașă. Pe măsură ce se încălzește, treceți la situri istorice interactive ce oferă distracție și cunoaștere. După-amiaza, scufundați-vă în minunile naturale ale regiunii, căutând umbră și faună sălbatică. Încheiați ziua relaxându-vă lângă apele răcoroase ale unui cenote natural uimitor.",
+        "en": "Begin your morning exploring the ancient cultural echoes and beautiful ruins that reflect Maya heritage. As the day warms up, transition towards interactive and historical sites that offer both fun and knowledge. In the afternoon, dive into the natural wonders of the region, seeking cool shade and wildlife. Conclude the day by relaxing near the refreshing waters of a stunning natural cenote."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:50",
+      "total_km": 6.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Chac-hal-al",
+            "hu": "Chac-hal-al",
+            "ro": "Chac-hal-al",
+            "en": "Chac-hal-al"
+          },
+          "coords": [
+            -87.234955,
+            20.494209
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem alten Küstensiedlungsgebiet in die reiche maritime Geschichte ein, wo eine geführte Audiotour Ihr Verständnis für den Ort erheblich vertiefen wird.",
+            "hu": "Merüljön el a gazdag tengeri történelemben ezen az ősi tengerparti településen, ahol egy vezetett audiótúra jelentősen elmélyíti a helyszín megértését.",
+            "ro": "Aprofundați-vă în bogata istorie maritimă la această așezare de coastă antică, unde un tur audio ghidat vă va îmbunătăți considerabil înțelegerea locului.",
+            "en": "Delve into the rich maritime history at this ancient coastal settlement site, where taking a guided audio tour will deeply enhance your understanding."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolphinus Barceló",
+            "hu": "Dolphinus Barceló",
+            "ro": "Dolphinus Barceló",
+            "en": "Dolphinus Barceló"
+          },
+          "coords": [
+            -87.242577,
+            20.486576
+          ],
+          "category": "landmark",
+          "arrive_at": "10:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Beobachten Sie die anmutigen Meeressäuger in einer gepflegten Umgebung, aber buchen Sie Ihren Besichtigungstermin im Voraus, um sich den besten Aussichtspunkt zu sichern.",
+            "hu": "Figyelje meg a kecses tengeri emlősöket gondozott környezetben, de mindenképpen foglalja le előre a látogatási időpontot, hogy biztosítsa a legjobb kilátópontot.",
+            "ro": "Priviți mamiferele marine grațioase într-un mediu bine îngrijit, dar asigurați-vă că rezervați slotul de vizionare din timp pentru a prinde cel mai bun punct de observație.",
+            "en": "Watch the graceful marine mammals in a well-kept environment, but make sure to book your viewing slot ahead of time to secure the best vantage point."
+          }
+        },
+        {
+          "name": {
+            "de": "Pirates Island",
+            "hu": "Pirates Island",
+            "ro": "Pirates Island",
+            "en": "Pirates Island"
+          },
+          "coords": [
+            -87.244992,
+            20.489508
+          ],
+          "category": "recreational",
+          "arrive_at": "11:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Dieser Freizeitort bietet eine unbeschwerte Pause mit Aktivitäten im Piratenstil, also tragen Sie bequeme Schuhe, um alle interaktiven Spiele in vollen Zügen zu genießen.",
+            "hu": "Ez a szórakoztató rekreációs hely könnyed kikapcsolódást kínál kalóz témájú tevékenységekkel, ezért viseljen kényelmes cipőt az interaktív játékokhoz.",
+            "ro": "Acest loc de recreere oferă o pauză relaxantă cu activități cu tematică de pirați, așa că purtați încălțăminte confortabilă pentru a vă bucura de jocurile interactive.",
+            "en": "This fun recreational spot offers a lighthearted break with pirate-themed activities, so wear comfortable shoes to enjoy all the interactive games fully."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulkulkan",
+            "hu": "Kulkulkan",
+            "ro": "Kulkulkan",
+            "en": "Kulkulkan"
+          },
+          "coords": [
+            -87.246362,
+            20.488393
+          ],
+          "category": "cultural",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die kulturelle Hommage an Kukulcan durch die markante Architektur und besuchen Sie den Ort, wenn die Sonne auf die Steine trifft, um die beste Wirkung zu erzielen.",
+            "hu": "Tapasztalja meg a Kukulcan előtti kulturális tisztelgést a jellegzetes építészeten keresztül, és próbálja meg akkor látogatni, amikor a nap megvilágítja a köveket.",
+            "ro": "Experimentați omagiul cultural adus lui Kukulcan prin arhitectura sa distinctivă și încercați să vizitați când soarele bate pe pietre pentru cel mai bun impact vizual.",
+            "en": "Experience the cultural homage to Kukulcan through its distinctive architecture, and try to visit when the sun hits the stones for the best visual impact."
+          }
+        },
+        {
+          "name": {
+            "de": "Cenote Chikin-Ha",
+            "hu": "Cenote Chikin-Ha",
+            "ro": "Cenote Chikin-Ha",
+            "en": "Cenote Chikin-Ha"
+          },
+          "coords": [
+            -87.247988,
+            20.490993
+          ],
+          "category": "landmark",
+          "arrive_at": "14:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die mystischen Unterwasserhöhlen ein, die eine tiefe historische Bedeutung haben, und bringen Sie Wasserschuhe für einen sichereren Spaziergang auf den Kalksteinfelsen mit.",
+            "hu": "Merüljön el a mély történelmi jelentőséggel bíró misztikus víz alatti barlangokban, és hozzon magával vízi cipőt a csúszós mészkősziklákon való biztonságosabb sétához.",
+            "ro": "Scufundați-vă în peșterile subacvatice mistice care dețin o semnificație istorică profundă și aduceți încălțăminte de apă pentru o plimbare mai sigură pe rocile calcaroase alunecoase.",
+            "en": "Dive into the mystical underwater caves that hold deep historical significance, and bring water shoes for a safer walk on the slippery limestone rocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Ecopark Katun Chi",
+            "hu": "Ecopark Katun Chi",
+            "ro": "Ecopark Katun Chi",
+            "en": "Ecopark Katun Chi"
+          },
+          "coords": [
+            -87.252094,
+            20.491076
+          ],
+          "category": "landmark",
+          "arrive_at": "15:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Wandern Sie auf den üppigen Dschungelpfaden dieses ökologischen Parks voller einheimischer Flora und packen Sie für plötzliche tropische Schauer eine leichte Regenjacke ein.",
+            "hu": "Sétáljon végig az őshonos növényvilággal teli ökológiai park buja dzsungelösvényein, és csomagoljon be egy könnyű esőkabátot a hirtelen trópusi záporok esetére.",
+            "ro": "Plimbați-vă pe traseele din jungla luxuriantă ale acestui parc ecologic plin de floră nativă și puneți în rucsac o pelerină de ploaie ușoară în caz de averse tropicale bruște.",
+            "en": "Wander through the lush jungle trails of this ecological park filled with native flora, and pack a light rain jacket just in case of sudden tropical showers."
+          }
+        },
+        {
+          "name": {
+            "de": "Mérida",
+            "hu": "Mérida",
+            "ro": "Mérida",
+            "en": "Mérida"
+          },
+          "coords": [
+            -87.218873,
+            20.504244
+          ],
+          "category": "landmark",
+          "arrive_at": "17:05",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses Wahrzeichen, das die koloniale Eleganz der Region Yucatan repräsentiert, und tragen Sie einen Hut, um sich beim Spazierengehen vor der Mittagssonne zu schützen.",
+            "hu": "Fedezze fel ezt az ikonikus nevezetességet, amely a Yucatán régió gyarmati eleganciáját képviseli, és viseljen kalapot, hogy megvédje magát a déli naptól séta közben.",
+            "ro": "Explorați acest punct de reper iconic care reprezintă eleganța colonială a regiunii Yucatan și purtați o pălărie pentru a vă proteja de soarele amiezii în timpul plimbării.",
+            "en": "Explore this iconic landmark representing the colonial elegance of the Yucatan region, and wear a hat to shield yourself from the midday sun while strolling."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der Erkundung antiker Echos und Ruinen des Maya-Erbes. Später gehen Sie zu interaktiven historischen Stätten über, die Spaß und Wissen bieten. Am Nachmittag tauchen Sie in die Naturwunder ein und suchen nach kühlem Schatten. Beenden Sie den Tag entspannt am erfrischenden Wasser einer wunderschönen, kristallklaren natürlichen Cenote, um sich abzukühlen.",
+        "hu": "Kezdje a reggelt a maja örökséget tükröző ősi kulturális emlékek és gyönyörű romok felfedezésével. Ahogy melegszik az idő, váltson az interaktív és történelmi helyszínekre, amelyek egyszerre nyújtanak szórakozást és tudást. Délután merüljön el a régió természeti csodáiban, hűs árnyékot és vadvilágot keresve. Zárja a napot egy lenyűgöző természetes cenote frissítő vizének közelében pihenve.",
+        "ro": "Începeți dimineața explorând ecourile culturale antice și ruinele frumoase care reflectă moștenirea mayașă. Pe măsură ce se încălzește, treceți la situri istorice interactive ce oferă distracție și cunoaștere. După-amiaza, scufundați-vă în minunile naturale ale regiunii, căutând umbră și faună sălbatică. Încheiați ziua relaxându-vă lângă apele răcoroase ale unui cenote natural uimitor.",
+        "en": "Begin your morning exploring the ancient cultural echoes and beautiful ruins that reflect Maya heritage. As the day warms up, transition towards interactive and historical sites that offer both fun and knowledge. In the afternoon, dive into the natural wonders of the region, seeking cool shade and wildlife. Conclude the day by relaxing near the refreshing waters of a stunning natural cenote."
+      }
+    }
+  }
+}

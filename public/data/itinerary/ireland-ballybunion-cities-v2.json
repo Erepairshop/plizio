@@ -1,0 +1,451 @@
+{
+  "city_id": "ireland-ballybunion-cities-v2",
+  "anchor": {
+    "name": "Ballybunion",
+    "coords": [
+      -9.672778,
+      52.511389
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:56",
+      "total_km": 1.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint John's",
+            "hu": "Saint John's",
+            "ro": "Saint John's",
+            "en": "Saint John's"
+          },
+          "coords": [
+            -9.67067,
+            52.513731
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese friedliche Kirche, um ihre Architektur zu bewundern, und kommen Sie am besten früh morgens für einen ruhigen Start in den Tag.",
+            "hu": "Látogassa meg ezt a békés templomot, hogy megcsodálja az építészetét, és a legjobb, ha kora reggel érkezik a nap nyugodt indításához.",
+            "ro": "Vizitați această biserică pașnică pentru a-i admira arhitectura și este cel mai bine să sosiți dimineața devreme pentru un început de zi liniștit.",
+            "en": "Visit this peaceful church to admire its architecture, and it is best to arrive early in the morning for a quiet start to your sightseeing day."
+          }
+        },
+        {
+          "name": {
+            "de": "Tinteán Theatre",
+            "hu": "Tinteán Theatre",
+            "ro": "Tinteán Theatre",
+            "en": "Tinteán Theatre"
+          },
+          "coords": [
+            -9.666244,
+            52.511599
+          ],
+          "category": "cultural",
+          "arrive_at": "09:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale Kultur in diesem modernen Theater, und informieren Sie sich am besten vorab über den Spielplan für anstehende Vorführungen.",
+            "hu": "Fedezze fel a helyi kultúrát ebben a modern színházban, és indulás előtt mindenképpen érdemes ellenőrizni az aktuális előadások menetrendjét.",
+            "ro": "Descoperiți cultura locală în acest teatru modern și este cel mai bine să verificați programul în avans pentru a prinde o reprezentație viitoare.",
+            "en": "Discover the local culture at this modern theatre, and it is best to check the schedule in advance to catch an upcoming live performance during your stay."
+          }
+        },
+        {
+          "name": {
+            "de": "Ballybunion Castle",
+            "hu": "Ballybunion Castle",
+            "ro": "Ballybunion Castle",
+            "en": "Ballybunion Castle"
+          },
+          "coords": [
+            -9.677717,
+            52.512028
+          ],
+          "category": "castle",
+          "arrive_at": "11:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Ruinen dieser alten Burg am Rande der Klippen, wo festes Schuhwerk für den unebenen Weg unerlässlich ist.",
+            "hu": "Fedezze fel a sziklák szélén álló régi kastély lenyűgöző romjait, ahol a masszív cipő elengedhetetlen a kissé egyenetlen és meredek ösvényekhez.",
+            "ro": "Explorați ruinele fascinante ale acestui vechi castel de pe marginea stâncii, unde încălțămintea rezistentă este esențială pentru poteca denivelată.",
+            "en": "Explore the fascinating ruins of this old castle situated right on the cliff edge, where sturdy footwear is essential for navigating the uneven paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Ladies' Beach",
+            "hu": "Ladies' Beach",
+            "ro": "Ladies' Beach",
+            "en": "Ladies' Beach"
+          },
+          "coords": [
+            -9.677202,
+            52.513391
+          ],
+          "category": "recreational",
+          "arrive_at": "12:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende Aussicht und die sanften Wellen an diesem wunderschönen Strand, aber denken Sie an Sonnenschutz an klaren Tagen.",
+            "hu": "Élvezze a lenyűgöző kilátást és a szelíd hullámokat ezen a gyönyörű strandon, de ne feledkezzen meg a naptejről a derült és meleg nyári napokon.",
+            "ro": "Bucurați-vă de priveliștile uimitoare și de valurile blânde de pe această plajă frumoasă, dar nu uitați să luați cremă de protecție solară în zilele senine.",
+            "en": "Enjoy the stunning views and gentle waves at this beautiful beach, but make sure to remember your sun protection on clear and bright summer days."
+          }
+        },
+        {
+          "name": {
+            "de": "Men's Beach",
+            "hu": "Men's Beach",
+            "ro": "Men's Beach",
+            "en": "Men's Beach"
+          },
+          "coords": [
+            -9.680102,
+            52.510852
+          ],
+          "category": "recreational",
+          "arrive_at": "14:11",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im goldenen Sand dieses weitläufigen Strandes und nutzen Sie die nahegelegenen Kioske für eine kleine Erfrischung zwischendurch.",
+            "hu": "Pihenjen ennek a tágas strandnak az aranyló homokján, és használja ki a közeli kioszkokat egy gyors frissítőre a hosszú tengerparti séta után.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje spațioase și profitați de chioșcurile din apropiere pentru o băutură răcoritoare rapidă pe parcurs.",
+            "en": "Relax on the golden sands of this spacious beach and take advantage of the nearby kiosks to grab a quick refreshing drink during your coastal stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt ruhig an der Kirche Saint John's, bevor es weiter zum modernen Tinteán Theatre geht, wo Kultur auf Sie wartet. Mittags erreichen Sie die Klippen und erkunden das historische Ballybunion Castle mit seiner atemberaubenden Aussicht. Der Nachmittag ist für entspannte Stunden am Ladies' Beach reserviert, wo Sie die sanfte Meeresbrise genießen können. Abends lassen Sie den Tag am weitläufigen Men's Beach ausklingen, während die Sonne langsam über dem Ozean untergeht.",
+        "hu": "A reggel nyugodtan indul a Saint John's templomnál, mielőtt továbblépne a modern Tinteán Színházba, ahol kultúra várja. Délben eléri a sziklákat, és felfedezi a történelmi Ballybunion kastélyt, ahonnan lélegzetelállító kilátás nyílik. A délután a Ladies' Beach nyugodt óráinak van fenntartva, ahol élvezheti a lágy tengeri szellőt. Este a tágas Men's Beach partján pihenhet, miközben a nap lassan lebukik az óceán felett.",
+        "ro": "Dimineața începe liniștit la biserica Saint John's, înainte de a trece la modernul Teatru Tinteán, unde vă așteaptă cultura. La amiază, ajungeți la stânci și explorați istoricul Castel Ballybunion cu priveliștile sale uluitoare. După-amiaza este rezervată orelor de relaxare la Ladies' Beach, unde vă puteți bucura de briza blândă. Seara, vă relaxați pe plaja spațioasă Men's Beach, în timp ce soarele apune încet peste ocean.",
+        "en": "The morning begins quietly at Saint John's church before moving on to the modern Tinteán Theatre, where local culture awaits you. By midday, you reach the cliffs to explore the historic Ballybunion Castle with its breathtaking coastal views. The afternoon is completely reserved for relaxing hours at Ladies' Beach, where you can enjoy the gentle sea breeze. In the evening, unwind at the spacious Men's Beach as the sun slowly sets over the beautiful ocean."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 2.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Dookeenee Castle",
+            "hu": "Dookeenee Castle",
+            "ro": "Dookeenee Castle",
+            "en": "Dookeenee Castle"
+          },
+          "coords": [
+            -9.678588,
+            52.517149
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen Überreste dieses abgelegenen Schlosses und nehmen Sie unbedingt Ihre Kamera mit, um die raue Küstenlinie festzuhalten.",
+            "hu": "Csodálja meg ennek a félreeső kastélynak a történelmi maradványait, és feltétlenül vigye magával a fényképezőgépét a zord partvonal megörökítéséhez.",
+            "ro": "Admirați rămășițele istorice ale acestui castel retras și asigurați-vă că vă aduceți aparatul foto pentru a surprinde linia de coastă accidentată.",
+            "en": "Admire the historic remains of this secluded castle, and be sure to bring your camera along to perfectly capture the dramatic and rugged coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuns' Beach",
+            "hu": "Nuns' Beach",
+            "ro": "Nuns' Beach",
+            "en": "Nuns' Beach"
+          },
+          "coords": [
+            -9.677126,
+            52.518825
+          ],
+          "category": "recreational",
+          "arrive_at": "10:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese versteckte und malerische Bucht unterhalb der Klippen, wobei Sie beim Abstieg über die steilen Pfade sehr vorsichtig sein sollten.",
+            "hu": "Fedezze fel ezt a rejtett és festői öblöt a sziklák alatt, de mindenképpen legyen nagyon óvatos, amikor leereszkedik a meredek és csúszós ösvényeken.",
+            "ro": "Descoperiți acest golf ascuns și pitoresc de sub stânci, deși ar trebui să fiți foarte atenți la coborârea pe cărările abrupte și alunecoase.",
+            "en": "Discover this hidden and picturesque cove located right beneath the steep cliffs, though you should exercise extreme caution when descending the paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Ballybunion Castle",
+            "hu": "Ballybunion Castle",
+            "ro": "Ballybunion Castle",
+            "en": "Ballybunion Castle"
+          },
+          "coords": [
+            -9.677717,
+            52.512028
+          ],
+          "category": "castle",
+          "arrive_at": "11:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Ruinen dieser alten Burg am Rande der Klippen, wo festes Schuhwerk für den unebenen Weg unerlässlich ist.",
+            "hu": "Fedezze fel a sziklák szélén álló régi kastély lenyűgöző romjait, ahol a masszív cipő elengedhetetlen a kissé egyenetlen és meredek ösvényekhez.",
+            "ro": "Explorați ruinele fascinante ale acestui vechi castel de pe marginea stâncii, unde încălțămintea rezistentă este esențială pentru poteca denivelată.",
+            "en": "Explore the fascinating ruins of this old castle situated right on the cliff edge, where sturdy footwear is essential for navigating the uneven paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint John's",
+            "hu": "Saint John's",
+            "ro": "Saint John's",
+            "en": "Saint John's"
+          },
+          "coords": [
+            -9.67067,
+            52.513731
+          ],
+          "category": "religious",
+          "arrive_at": "13:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese friedliche Kirche, um ihre Architektur zu bewundern, und kommen Sie am besten früh morgens für einen ruhigen Start in den Tag.",
+            "hu": "Látogassa meg ezt a békés templomot, hogy megcsodálja az építészetét, és a legjobb, ha kora reggel érkezik a nap nyugodt indításához.",
+            "ro": "Vizitați această biserică pașnică pentru a-i admira arhitectura și este cel mai bine să sosiți dimineața devreme pentru un început de zi liniștit.",
+            "en": "Visit this peaceful church to admire its architecture, and it is best to arrive early in the morning for a quiet start to your sightseeing day."
+          }
+        },
+        {
+          "name": {
+            "de": "Tinteán Theatre",
+            "hu": "Tinteán Theatre",
+            "ro": "Tinteán Theatre",
+            "en": "Tinteán Theatre"
+          },
+          "coords": [
+            -9.666244,
+            52.511599
+          ],
+          "category": "cultural",
+          "arrive_at": "13:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale Kultur in diesem modernen Theater, und informieren Sie sich am besten vorab über den Spielplan für anstehende Vorführungen.",
+            "hu": "Fedezze fel a helyi kultúrát ebben a modern színházban, és indulás előtt mindenképpen érdemes ellenőrizni az aktuális előadások menetrendjét.",
+            "ro": "Descoperiți cultura locală în acest teatru modern și este cel mai bine să verificați programul în avans pentru a prinde o reprezentație viitoare.",
+            "en": "Discover the local culture at this modern theatre, and it is best to check the schedule in advance to catch an upcoming live performance during your stay."
+          }
+        },
+        {
+          "name": {
+            "de": "Men's Beach",
+            "hu": "Men's Beach",
+            "ro": "Men's Beach",
+            "en": "Men's Beach"
+          },
+          "coords": [
+            -9.680102,
+            52.510852
+          ],
+          "category": "recreational",
+          "arrive_at": "15:20",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im goldenen Sand dieses weitläufigen Strandes und nutzen Sie die nahegelegenen Kioske für eine kleine Erfrischung zwischendurch.",
+            "hu": "Pihenjen ennek a tágas strandnak az aranyló homokján, és használja ki a közeli kioszkokat egy gyors frissítőre a hosszú tengerparti séta után.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje spațioase și profitați de chioșcurile din apropiere pentru o băutură răcoritoare rapidă pe parcurs.",
+            "en": "Relax on the golden sands of this spacious beach and take advantage of the nearby kiosks to grab a quick refreshing drink during your coastal stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag auf dem Rad beginnt am historischen Dookeenee Castle, bevor Sie den versteckten Nuns' Beach unterhalb der Klippen entdecken. Gegen Mittag radeln Sie zum Ballybunion Castle und genießen die frische Brise, bevor Sie an der Kirche Saint John's eine kurze Pause einlegen. Der Nachmittag führt Sie zum kulturellen Tinteán Theatre, wo Sie mehr über die Region erfahren können. Der Abend endet schließlich am Men's Beach, wo Sie die Beine hochlegen und entspannen können.",
+        "hu": "A kerékpáros nap a történelmi Dookeenee kastélynál kezdődik, majd felfedezi a sziklák alatti rejtett Nuns' Beach öblöt. Dél körül a Ballybunion kastélyhoz teker, és élvezi a friss szellőt, mielőtt rövid pihenőt tartana a Saint John's templomnál. A délután a kulturális Tinteán Színházhoz vezeti, ahol többet megtudhat a régióról. Az este végül a Men's Beach partján ér véget, ahol felteheti a lábát és pihenhet a hosszú nap után.",
+        "ro": "Ziua pe bicicletă începe la istoricul Castel Dookeenee înainte de a descoperi ascunsa Nuns' Beach sub stânci. În jurul prânzului, pedalați către Castelul Ballybunion și vă bucurați de briza proaspătă înainte de o scurtă pauză la biserica Saint John's. După-amiaza vă duce la culturalul Teatru Tinteán, unde puteți afla mai multe despre regiune. Seara se încheie în cele din urmă la Men's Beach, unde vă puteți relaxa picioarele după o zi activă.",
+        "en": "Your cycling day starts at the historic Dookeenee Castle before discovering the hidden Nuns' Beach nestled beneath the steep cliffs. Around midday, you will pedal towards Ballybunion Castle to enjoy the fresh breeze, followed by a short break at Saint John's church. The afternoon takes you to the cultural Tinteán Theatre to learn more about the vibrant local arts. The evening finally concludes at Men's Beach, allowing you to relax after an active day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:56",
+      "total_km": 6.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Lislahardane",
+            "hu": "Lislahardane",
+            "ro": "Lislahardane",
+            "en": "Lislahardane"
+          },
+          "coords": [
+            -9.639968,
+            52.515878
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie an dieser archäologischen Stätte tief in die lokale Geschichte ein, wo geführte Touren oft die besten Einblicke in die Vergangenheit bieten.",
+            "hu": "Merüljön el a helyi történelemben ezen a régészeti lelőhelyen, ahol a vezetett túrák nyújtják a legjobb betekintést a régi idők lenyűgöző világába.",
+            "ro": "Pătrundeți adânc în istoria locală în acest sit arheologic, unde tururile ghidate oferă adesea cele mai bune perspective asupra trecutului fascinant.",
+            "en": "Delve deep into local history at this intriguing archaeological site, where guided tours often provide the most fascinating insights into the distant past."
+          }
+        },
+        {
+          "name": {
+            "de": "Lisnasplank",
+            "hu": "Lisnasplank",
+            "ro": "Lisnasplank",
+            "en": "Lisnasplank"
+          },
+          "coords": [
+            -9.644636,
+            52.504225
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die Überreste dieser historischen Siedlung und tragen Sie wetterfeste Kleidung, da die windigen Bedingungen oft unvorhersehbar sind.",
+            "hu": "Sétáljon végig ennek a történelmi településnek a maradványain, és viseljen vízálló ruházatot, mivel a szeles időjárás gyakran eléggé kiszámíthatatlan.",
+            "ro": "Plimbați-vă printre rămășițele acestei așezări istorice și purtați îmbrăcăminte rezistentă la intemperii, deoarece condițiile de vânt sunt imprevizibile.",
+            "en": "Stroll through the remnants of this historic settlement and be sure to wear weatherproof clothing as the coastal winds can often be quite unpredictable."
+          }
+        },
+        {
+          "name": {
+            "de": "Crazy Golf",
+            "hu": "Crazy Golf",
+            "ro": "Crazy Golf",
+            "en": "Crazy Golf"
+          },
+          "coords": [
+            -9.655122,
+            52.494805
+          ],
+          "category": "landmark",
+          "arrive_at": "11:56",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie eine unterhaltsame Runde Minigolf mit der ganzen Familie und versuchen Sie, die Spitzenzeiten zu meiden, um längere Wartezeiten zu umgehen.",
+            "hu": "Élvezze a szórakoztató minigolfot az egész családdal, és próbálja meg elkerülni a csúcsidőszakokat, hogy ne kelljen sokat várnia a játék kezdetére.",
+            "ro": "Bucurați-vă de o rundă distractivă de minigolf cu întreaga familie și încercați să evitați orele de vârf pentru a ocoli timpii lungi de așteptare.",
+            "en": "Enjoy a highly entertaining round of crazy golf with the entire family, and try your best to avoid peak hours to skip the long waiting times."
+          }
+        },
+        {
+          "name": {
+            "de": "Long Strand",
+            "hu": "Long Strand",
+            "ro": "Long Strand",
+            "en": "Long Strand"
+          },
+          "coords": [
+            -9.682919,
+            52.494935
+          ],
+          "category": "recreational",
+          "arrive_at": "12:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Erleben Sie die weite Ausdehnung dieses beeindruckenden Strandes bei einem langen Spaziergang, aber achten Sie dabei stets auf die aktuellen Gezeiten.",
+            "hu": "Tapasztalja meg ennek a lenyűgöző strandnak a hatalmas kiterjedését egy hosszú séta során, de közben mindig figyeljen az aktuális árapály jelzésekre.",
+            "ro": "Experimentați întinderea vastă a acestei plaje impresionante în timpul unei plimbări lungi, dar asigurați-vă că acordați atenție mareelor actuale.",
+            "en": "Experience the vast expanse of this impressive beach during a long walk, but make sure to always pay close attention to the current tide schedules."
+          }
+        },
+        {
+          "name": {
+            "de": "Ballybunion Castle",
+            "hu": "Ballybunion Castle",
+            "ro": "Ballybunion Castle",
+            "en": "Ballybunion Castle"
+          },
+          "coords": [
+            -9.677717,
+            52.512028
+          ],
+          "category": "castle",
+          "arrive_at": "13:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Ruinen dieser alten Burg am Rande der Klippen, wo festes Schuhwerk für den unebenen Weg unerlässlich ist.",
+            "hu": "Fedezze fel a sziklák szélén álló régi kastély lenyűgöző romjait, ahol a masszív cipő elengedhetetlen a kissé egyenetlen és meredek ösvényekhez.",
+            "ro": "Explorați ruinele fascinante ale acestui vechi castel de pe marginea stâncii, unde încălțămintea rezistentă este esențială pentru poteca denivelată.",
+            "en": "Explore the fascinating ruins of this old castle situated right on the cliff edge, where sturdy footwear is essential for navigating the uneven paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Dookeenee Castle",
+            "hu": "Dookeenee Castle",
+            "ro": "Dookeenee Castle",
+            "en": "Dookeenee Castle"
+          },
+          "coords": [
+            -9.678588,
+            52.517149
+          ],
+          "category": "castle",
+          "arrive_at": "15:06",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen Überreste dieses abgelegenen Schlosses und nehmen Sie unbedingt Ihre Kamera mit, um die raue Küstenlinie festzuhalten.",
+            "hu": "Csodálja meg ennek a félreeső kastélynak a történelmi maradványait, és feltétlenül vigye magával a fényképezőgépét a zord partvonal megörökítéséhez.",
+            "ro": "Admirați rămășițele istorice ale acestui castel retras și asigurați-vă că vă aduceți aparatul foto pentru a surprinde linia de coastă accidentată.",
+            "en": "Admire the historic remains of this secluded castle, and be sure to bring your camera along to perfectly capture the dramatic and rugged coastline."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto starten Sie den Tag bei den historischen Überresten von Lislahardane und fahren anschließend weiter zur archäologischen Stätte Lisnasplank. Mittags erwartet Sie ein unterhaltsamer Stopp beim Crazy Golf, bevor Sie die weite Sandfläche des Long Strand erkunden. Der Nachmittag ist der Küste gewidmet, wo Sie die imposanten Ruinen des Ballybunion Castle besichtigen. Den krönenden Abschluss bildet das abgelegene Dookeenee Castle in der goldenen Abendsonne.",
+        "hu": "Autóval a napot Lislahardane történelmi maradványainál kezdi, majd továbbutazik a Lisnasplank régészeti lelőhelyre. Délben egy szórakoztató megálló várja a minigolfnál, mielőtt felfedezné a Long Strand hatalmas homokos területét. A délután a partvidéknek van szentelve, ahol meglátogatja a Ballybunion kastély impozáns romjait. A koronát a napra a félreeső Dookeenee kastély teszi fel a gyönyörű aranyszínű esti napsütésben.",
+        "ro": "Cu mașina, începeți ziua la rămășițele istorice din Lislahardane și apoi continuați spre situl arheologic Lisnasplank. La amiază, vă așteaptă o oprire distractivă la Crazy Golf înainte de a explora întinderea vastă de nisip de la Long Strand. După-amiaza este dedicată coastei, unde veți vizita ruinele impunătoare ale Castelului Ballybunion. Ziua se încheie la izolatul Castel Dookeenee, scăldat în soarele auriu al serii liniștite.",
+        "en": "By car, you start the day at the historical remnants of Lislahardane before driving over to the archaeological site of Lisnasplank. At midday, a fun stop at Crazy Golf awaits you before you explore the vast sandy expanse of the scenic Long Strand. The afternoon is dedicated to the coastline, where you visit the imposing ruins of Ballybunion Castle. The grand finale is the secluded Dookeenee Castle, beautifully bathed in the golden evening sunlight."
+      }
+    }
+  }
+}

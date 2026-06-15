@@ -1,0 +1,589 @@
+{
+  "city_id": "turkey-akyarlar-cities-v2",
+  "anchor": {
+    "name": "Akyarlar",
+    "coords": [
+      27.29068,
+      36.96754
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:58",
+      "total_km": 2.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Akçabük Sahili",
+            "hu": "Akçabük Sahili",
+            "ro": "Akçabük Sahili",
+            "en": "Akçabük Sahili"
+          },
+          "coords": [
+            27.284587,
+            36.966391
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sand dieses unberührten Strandes, einem ruhigen Paradies für Familien, und kommen Sie früh, um sich einen guten Platz zu sichern.",
+            "hu": "Pihenjen ezen az érintetlen, családbarát tengerparton, amely igazi nyugalom szigete, és érkezzen korán, hogy a legjobb helyek egyikét foglalhassa el.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje imaculate, un refugiu liniștit pentru familii, și ajungeți devreme pentru a prinde un loc bun lângă valuri.",
+            "en": "Relax on the golden sands of this pristine beach, a tranquil haven for families, and try to arrive early to secure a prime spot near the gentle waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Sunset",
+            "hu": "Sunset",
+            "ro": "Sunset",
+            "en": "Sunset"
+          },
+          "coords": [
+            27.287373,
+            36.965993
+          ],
+          "category": "natural",
+          "arrive_at": "10:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie den atemberaubenden Panoramablick, wenn die Sonne über der Ägäis untergeht, und bringen Sie eine gute Kamera für perfekte Fotos mit.",
+            "hu": "Csodálja meg a lélegzetelállító panorámát, ahogy a nap alábukik az Égei-tenger horizontján, és hozzon magával fényképezőgépet a tökéletes felvételekhez.",
+            "ro": "Admirați priveliștile panoramice uluitoare la apusul soarelui peste Marea Egee, decorul perfect pentru fotografii, așa că luați-vă aparatul foto.",
+            "en": "Admire the breathtaking panoramic views as the sun dips below the Aegean horizon, providing the perfect backdrop for photography, so bring a good camera."
+          }
+        },
+        {
+          "name": {
+            "de": "Akyarlar Plajı",
+            "hu": "Akyarlar Plajı",
+            "ro": "Akyarlar Plajı",
+            "en": "Akyarlar Plajı"
+          },
+          "coords": [
+            27.290354,
+            36.967085
+          ],
+          "category": "recreational",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Atmosphäre des Hauptstrandes mit seinen Wassersportangeboten und mieten Sie ein Surfbrett, um die hervorragende Brise zu nutzen.",
+            "hu": "Élje át a központi strand nyüzsgő hangulatát, ahol hódolhat a vízi sportoknak, és béreljen szörfdeszkát, hogy kihasználja a kiváló szelet.",
+            "ro": "Simțiți atmosfera vibrantă a plajei centrale, renumită pentru sporturile nautice, și închiriați o placă de windsurf pentru a profita de briza excelentă.",
+            "en": "Experience the vibrant atmosphere of the central beach where water sports thrive, and rent a windsurf board to make the most of the excellent breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Suum Hotel Baech",
+            "hu": "Suum Hotel Baech",
+            "ro": "Suum Hotel Baech",
+            "en": "Suum Hotel Baech"
+          },
+          "coords": [
+            27.29503,
+            36.967583
+          ],
+          "category": "recreational",
+          "arrive_at": "12:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie gehobenen Küstenluxus in diesem exklusiven Strandbereich mit erstklassigen Annehmlichkeiten und buchen Sie zur Hochsaison vorab eine Liege.",
+            "hu": "Élvezze az exkluzív tengerparti luxust és a prémium szolgáltatásokat ezen az elegáns partszakaszon, főszezonban pedig érdemes előre napágyat foglalni.",
+            "ro": "Bucurați-vă de luxul de coastă la această zonă rafinată a clubului pe plajă și luați în considerare rezervarea unui șezlong în avans în plin sezon.",
+            "en": "Enjoy upscale coastal luxury at this refined beach club area where premium amenities await, and consider booking a sun lounger in advance during peak season."
+          }
+        },
+        {
+          "name": {
+            "de": "Kefaluka Resort Beach",
+            "hu": "Kefaluka Resort Beach",
+            "ro": "Kefaluka Resort Beach",
+            "en": "Kefaluka Resort Beach"
+          },
+          "coords": [
+            27.296224,
+            36.963633
+          ],
+          "category": "recreational",
+          "arrive_at": "13:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen makellosen Sandstrand, der von luxuriösen Resort-Einrichtungen gesäumt wird, und erwerben Sie einen Tagespass für maximalen Komfort.",
+            "hu": "Fedezze fel ezt a luxusüdülőhöz tartozó érintetlen homokos partszakaszt, ahol egy napijegy megvásárlásával élvezheti a természet és a kényelem harmóniáját.",
+            "ro": "Descoperiți o porțiune imaculată de nisip, susținută de facilități de lux, oferind frumusețe naturală și confort perfect dacă cumpărați un abonament de o zi.",
+            "en": "Discover a pristine stretch of sand backed by luxurious resort facilities, offering a perfect blend of natural beauty and comfort if you purchase a day pass."
+          }
+        },
+        {
+          "name": {
+            "de": "Karaincir Beach",
+            "hu": "Karaincir Beach",
+            "ro": "Karaincir Beach",
+            "en": "Karaincir Beach"
+          },
+          "coords": [
+            27.300158,
+            36.971281
+          ],
+          "category": "recreational",
+          "arrive_at": "15:13",
+          "stay_min": 105,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Schwimmen Sie im bemerkenswert ruhigen und klaren Wasser dieser geschützten, windfreien Bucht, die ideal für kleine Kinder und entspanntes Schnorcheln ist.",
+            "hu": "Ússzon e védett öböl figyelemre méltóan nyugodt, kristálytiszta és szélmentes vizében, amely ideális választás kisgyermekek és a sznorkelezés kedvelői számára.",
+            "ro": "Înotați în apele calme și limpezi ale acestui golf adăpostit, renumit pentru lipsa vântului, fiind ideal pentru copiii mici și pentru snorkeling relaxant.",
+            "en": "Swim in the remarkably calm and clear waters of this sheltered bay, which is famously wind-free, making it ideal for young children and leisurely snorkeling."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im sanften Licht der Küste und genießen Sie die Ägäis.\n\nMittags tauchen Sie in die Strandkultur ein und können verschiedene Wassersportarten ausprobieren.\n\nVerbringen Sie den warmen Nachmittag in den exklusiven Resorts, die Erholung mit bestem Komfort verbinden.\n\nBeenden Sie den Tag am Meer, während der Sonnenuntergang den Himmel in lebhafte Farben taucht.",
+        "hu": "Kezdje a reggelt a tengerparton, és élvezze az Égei-tenger csodálatos nyugalmát.\n\nDélben merüljön el a pezsgő strandéletben, és próbálja ki a helyi vízi sportokat.\n\nA meleg délutánt töltse az elegáns üdülőövezetekben, ahol a tökéletes pihenés és a luxus találkozik.\n\nZárja a napot a parton, miközben a naplemente csodás színekre festi az eget, örök emléket hagyva.",
+        "ro": "Începeți dimineața simțind soarele blând pe coastă, bucurându-vă de Marea Egee.\n\nLa amiază, explorați cultura vibrantă a plajei și încercați câteva sporturi nautice.\n\nPetreceți după-amiaza caldă explorând resorturile de lux, îmbinând relaxarea cu facilități premium.\n\nÎncheiați pe țărm, în timp ce apusul colorează cerul, lăsându-vă cu amintiri de neuitat din acest refugiu.",
+        "en": "Start your morning feeling the gentle sun on the coast, enjoying the Aegean Sea.\n\nAt midday, immerse yourself in vibrant beach culture and try out some local water sports.\n\nSpend the warm afternoon exploring upscale resort areas, seamlessly blending pure relaxation with premium amenities.\n\nConclude by the shore as sunset paints the sky, leaving you with unforgettable memories of this haven."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:22",
+      "total_km": 5.6,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Hüseyinburnu Lighthouse",
+            "hu": "Hüseyinburnu Lighthouse",
+            "ro": "Hüseyinburnu Lighthouse",
+            "en": "Hüseyinburnu Lighthouse"
+          },
+          "coords": [
+            27.263977,
+            36.964866
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses historische Leuchtfeuer für einen weiten Blick auf die raue Küste und tragen Sie feste Schuhe, da der Weg zum Leuchtturm uneben ist.",
+            "hu": "Látogasson el ehhez a történelmi tengeri világítótoronyhoz, ahonnan pazar kilátás nyílik a sziklás partra, és viseljen túracipőt az egyenetlen ösvény miatt.",
+            "ro": "Vizitați acest far maritim istoric pentru priveliști panoramice asupra coastei stâncoase și purtați încălțăminte comodă, deoarece poteca este denivelată.",
+            "en": "Visit this historic maritime beacon to enjoy sweeping views of the rugged coastline, and wear sturdy walking shoes as the path to the lighthouse is uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Meteor Beach",
+            "hu": "Meteor Beach",
+            "ro": "Meteor Beach",
+            "en": "Meteor Beach"
+          },
+          "coords": [
+            27.277508,
+            36.964529
+          ],
+          "category": "recreational",
+          "arrive_at": "09:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das erfrischend tiefe, blaue Wasser dieses bekannten Strandes ein und bringen Sie Badeschuhe mit, um den steinigen Uferbereich zu meistern.",
+            "hu": "Merüljön el ennek a híresen életteli strandnak a mély, hűsítő vizében, és hozzon magával fürdőcipőt, hogy könnyedén közlekedhessen a kavicsos parton.",
+            "ro": "Scufundați-vă în apele adânci și răcoroase ale acestei plaje faimoase și aduceți încălțăminte de apă pentru a naviga cu ușurință pe țărmul ușor pietros.",
+            "en": "Dive into the deep, refreshing blue waters of this famously vibrant beach, and bring water shoes to navigate the slightly pebbly shore with ease."
+          }
+        },
+        {
+          "name": {
+            "de": "Akçabük Sahili",
+            "hu": "Akçabük Sahili",
+            "ro": "Akçabük Sahili",
+            "en": "Akçabük Sahili"
+          },
+          "coords": [
+            27.284587,
+            36.966391
+          ],
+          "category": "recreational",
+          "arrive_at": "11:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sand dieses unberührten Strandes, einem ruhigen Paradies für Familien, und kommen Sie früh, um sich einen guten Platz zu sichern.",
+            "hu": "Pihenjen ezen az érintetlen, családbarát tengerparton, amely igazi nyugalom szigete, és érkezzen korán, hogy a legjobb helyek egyikét foglalhassa el.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje imaculate, un refugiu liniștit pentru familii, și ajungeți devreme pentru a prinde un loc bun lângă valuri.",
+            "en": "Relax on the golden sands of this pristine beach, a tranquil haven for families, and try to arrive early to secure a prime spot near the gentle waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Akyarlar Plajı",
+            "hu": "Akyarlar Plajı",
+            "ro": "Akyarlar Plajı",
+            "en": "Akyarlar Plajı"
+          },
+          "coords": [
+            27.290354,
+            36.967085
+          ],
+          "category": "recreational",
+          "arrive_at": "12:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Atmosphäre des Hauptstrandes mit seinen Wassersportangeboten und mieten Sie ein Surfbrett, um die hervorragende Brise zu nutzen.",
+            "hu": "Élje át a központi strand nyüzsgő hangulatát, ahol hódolhat a vízi sportoknak, és béreljen szörfdeszkát, hogy kihasználja a kiváló szelet.",
+            "ro": "Simțiți atmosfera vibrantă a plajei centrale, renumită pentru sporturile nautice, și închiriați o placă de windsurf pentru a profita de briza excelentă.",
+            "en": "Experience the vibrant atmosphere of the central beach where water sports thrive, and rent a windsurf board to make the most of the excellent breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Suum Hotel Baech",
+            "hu": "Suum Hotel Baech",
+            "ro": "Suum Hotel Baech",
+            "en": "Suum Hotel Baech"
+          },
+          "coords": [
+            27.29503,
+            36.967583
+          ],
+          "category": "recreational",
+          "arrive_at": "13:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie gehobenen Küstenluxus in diesem exklusiven Strandbereich mit erstklassigen Annehmlichkeiten und buchen Sie zur Hochsaison vorab eine Liege.",
+            "hu": "Élvezze az exkluzív tengerparti luxust és a prémium szolgáltatásokat ezen az elegáns partszakaszon, főszezonban pedig érdemes előre napágyat foglalni.",
+            "ro": "Bucurați-vă de luxul de coastă la această zonă rafinată a clubului pe plajă și luați în considerare rezervarea unui șezlong în avans în plin sezon.",
+            "en": "Enjoy upscale coastal luxury at this refined beach club area where premium amenities await, and consider booking a sun lounger in advance during peak season."
+          }
+        },
+        {
+          "name": {
+            "de": "Kefaluka Resort Beach",
+            "hu": "Kefaluka Resort Beach",
+            "ro": "Kefaluka Resort Beach",
+            "en": "Kefaluka Resort Beach"
+          },
+          "coords": [
+            27.296224,
+            36.963633
+          ],
+          "category": "recreational",
+          "arrive_at": "14:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen makellosen Sandstrand, der von luxuriösen Resort-Einrichtungen gesäumt wird, und erwerben Sie einen Tagespass für maximalen Komfort.",
+            "hu": "Fedezze fel ezt a luxusüdülőhöz tartozó érintetlen homokos partszakaszt, ahol egy napijegy megvásárlásával élvezheti a természet és a kényelem harmóniáját.",
+            "ro": "Descoperiți o porțiune imaculată de nisip, susținută de facilități de lux, oferind frumusețe naturală și confort perfect dacă cumpărați un abonament de o zi.",
+            "en": "Discover a pristine stretch of sand backed by luxurious resort facilities, offering a perfect blend of natural beauty and comfort if you purchase a day pass."
+          }
+        },
+        {
+          "name": {
+            "de": "Karaincir Beach",
+            "hu": "Karaincir Beach",
+            "ro": "Karaincir Beach",
+            "en": "Karaincir Beach"
+          },
+          "coords": [
+            27.300158,
+            36.971281
+          ],
+          "category": "recreational",
+          "arrive_at": "16:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Schwimmen Sie im bemerkenswert ruhigen und klaren Wasser dieser geschützten, windfreien Bucht, die ideal für kleine Kinder und entspanntes Schnorcheln ist.",
+            "hu": "Ússzon e védett öböl figyelemre méltóan nyugodt, kristálytiszta és szélmentes vizében, amely ideális választás kisgyermekek és a sznorkelezés kedvelői számára.",
+            "ro": "Înotați în apele calme și limpezi ale acestui golf adăpostit, renumit pentru lipsa vântului, fiind ideal pentru copiii mici și pentru snorkeling relaxant.",
+            "en": "Swim in the remarkably calm and clear waters of this sheltered bay, which is famously wind-free, making it ideal for young children and leisurely snorkeling."
+          }
+        },
+        {
+          "name": {
+            "de": "Aspat Plajı",
+            "hu": "Aspat Plajı",
+            "ro": "Aspat Plajı",
+            "en": "Aspat Plajı"
+          },
+          "coords": [
+            27.311693,
+            36.978623
+          ],
+          "category": "recreational",
+          "arrive_at": "17:37",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag in dieser üppigen, kulturhistorisch reichen Bucht mit antiken Ruinen, und nehmen Sie sich Zeit, die historischen Festungen zu erkunden.",
+            "hu": "Zárja a napot ezen a buja, történelmi romokkal és friss forrásokkal teli öbölben, és szánjon időt a domboldalon fekvő ősi erődítmények felfedezésére.",
+            "ro": "Încheiați ziua în acest golf luxuriant, plin de ruine antice și izvoare proaspete, și acordați-vă timp pentru a explora fortificațiile istorice de pe deal.",
+            "en": "End your day at this lush, culturally rich bay featuring ancient ruins and fresh springs, and take a moment to explore the historic hillside fortifications."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im sanften Licht der Küste und genießen Sie die Ägäis.\n\nMittags tauchen Sie in die Strandkultur ein und können verschiedene Wassersportarten ausprobieren.\n\nVerbringen Sie den warmen Nachmittag in den exklusiven Resorts, die Erholung mit bestem Komfort verbinden.\n\nBeenden Sie den Tag am Meer, während der Sonnenuntergang den Himmel in lebhafte Farben taucht.",
+        "hu": "Kezdje a reggelt a tengerparton, és élvezze az Égei-tenger csodálatos nyugalmát.\n\nDélben merüljön el a pezsgő strandéletben, és próbálja ki a helyi vízi sportokat.\n\nA meleg délutánt töltse az elegáns üdülőövezetekben, ahol a tökéletes pihenés és a luxus találkozik.\n\nZárja a napot a parton, miközben a naplemente csodás színekre festi az eget, örök emléket hagyva.",
+        "ro": "Începeți dimineața simțind soarele blând pe coastă, bucurându-vă de Marea Egee.\n\nLa amiază, explorați cultura vibrantă a plajei și încercați câteva sporturi nautice.\n\nPetreceți după-amiaza caldă explorând resorturile de lux, îmbinând relaxarea cu facilități premium.\n\nÎncheiați pe țărm, în timp ce apusul colorează cerul, lăsându-vă cu amintiri de neuitat din acest refugiu.",
+        "en": "Start your morning feeling the gentle sun on the coast, enjoying the Aegean Sea.\n\nAt midday, immerse yourself in vibrant beach culture and try out some local water sports.\n\nSpend the warm afternoon exploring upscale resort areas, seamlessly blending pure relaxation with premium amenities.\n\nConclude by the shore as sunset paints the sky, leaving you with unforgettable memories of this haven."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:29",
+      "total_km": 5.6,
+      "stop_count": 9,
+      "stops": [
+        {
+          "name": {
+            "de": "Hüseyinburnu Lighthouse",
+            "hu": "Hüseyinburnu Lighthouse",
+            "ro": "Hüseyinburnu Lighthouse",
+            "en": "Hüseyinburnu Lighthouse"
+          },
+          "coords": [
+            27.263977,
+            36.964866
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses historische Leuchtfeuer für einen weiten Blick auf die raue Küste und tragen Sie feste Schuhe, da der Weg zum Leuchtturm uneben ist.",
+            "hu": "Látogasson el ehhez a történelmi tengeri világítótoronyhoz, ahonnan pazar kilátás nyílik a sziklás partra, és viseljen túracipőt az egyenetlen ösvény miatt.",
+            "ro": "Vizitați acest far maritim istoric pentru priveliști panoramice asupra coastei stâncoase și purtați încălțăminte comodă, deoarece poteca este denivelată.",
+            "en": "Visit this historic maritime beacon to enjoy sweeping views of the rugged coastline, and wear sturdy walking shoes as the path to the lighthouse is uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Meteor Beach",
+            "hu": "Meteor Beach",
+            "ro": "Meteor Beach",
+            "en": "Meteor Beach"
+          },
+          "coords": [
+            27.277508,
+            36.964529
+          ],
+          "category": "recreational",
+          "arrive_at": "09:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das erfrischend tiefe, blaue Wasser dieses bekannten Strandes ein und bringen Sie Badeschuhe mit, um den steinigen Uferbereich zu meistern.",
+            "hu": "Merüljön el ennek a híresen életteli strandnak a mély, hűsítő vizében, és hozzon magával fürdőcipőt, hogy könnyedén közlekedhessen a kavicsos parton.",
+            "ro": "Scufundați-vă în apele adânci și răcoroase ale acestei plaje faimoase și aduceți încălțăminte de apă pentru a naviga cu ușurință pe țărmul ușor pietros.",
+            "en": "Dive into the deep, refreshing blue waters of this famously vibrant beach, and bring water shoes to navigate the slightly pebbly shore with ease."
+          }
+        },
+        {
+          "name": {
+            "de": "Akçabük Sahili",
+            "hu": "Akçabük Sahili",
+            "ro": "Akçabük Sahili",
+            "en": "Akçabük Sahili"
+          },
+          "coords": [
+            27.284587,
+            36.966391
+          ],
+          "category": "recreational",
+          "arrive_at": "10:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sand dieses unberührten Strandes, einem ruhigen Paradies für Familien, und kommen Sie früh, um sich einen guten Platz zu sichern.",
+            "hu": "Pihenjen ezen az érintetlen, családbarát tengerparton, amely igazi nyugalom szigete, és érkezzen korán, hogy a legjobb helyek egyikét foglalhassa el.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje imaculate, un refugiu liniștit pentru familii, și ajungeți devreme pentru a prinde un loc bun lângă valuri.",
+            "en": "Relax on the golden sands of this pristine beach, a tranquil haven for families, and try to arrive early to secure a prime spot near the gentle waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Sunset",
+            "hu": "Sunset",
+            "ro": "Sunset",
+            "en": "Sunset"
+          },
+          "coords": [
+            27.287373,
+            36.965993
+          ],
+          "category": "natural",
+          "arrive_at": "12:11",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie den atemberaubenden Panoramablick, wenn die Sonne über der Ägäis untergeht, und bringen Sie eine gute Kamera für perfekte Fotos mit.",
+            "hu": "Csodálja meg a lélegzetelállító panorámát, ahogy a nap alábukik az Égei-tenger horizontján, és hozzon magával fényképezőgépet a tökéletes felvételekhez.",
+            "ro": "Admirați priveliștile panoramice uluitoare la apusul soarelui peste Marea Egee, decorul perfect pentru fotografii, așa că luați-vă aparatul foto.",
+            "en": "Admire the breathtaking panoramic views as the sun dips below the Aegean horizon, providing the perfect backdrop for photography, so bring a good camera."
+          }
+        },
+        {
+          "name": {
+            "de": "Akyarlar Plajı",
+            "hu": "Akyarlar Plajı",
+            "ro": "Akyarlar Plajı",
+            "en": "Akyarlar Plajı"
+          },
+          "coords": [
+            27.290354,
+            36.967085
+          ],
+          "category": "recreational",
+          "arrive_at": "12:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Atmosphäre des Hauptstrandes mit seinen Wassersportangeboten und mieten Sie ein Surfbrett, um die hervorragende Brise zu nutzen.",
+            "hu": "Élje át a központi strand nyüzsgő hangulatát, ahol hódolhat a vízi sportoknak, és béreljen szörfdeszkát, hogy kihasználja a kiváló szelet.",
+            "ro": "Simțiți atmosfera vibrantă a plajei centrale, renumită pentru sporturile nautice, și închiriați o placă de windsurf pentru a profita de briza excelentă.",
+            "en": "Experience the vibrant atmosphere of the central beach where water sports thrive, and rent a windsurf board to make the most of the excellent breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Suum Hotel Baech",
+            "hu": "Suum Hotel Baech",
+            "ro": "Suum Hotel Baech",
+            "en": "Suum Hotel Baech"
+          },
+          "coords": [
+            27.29503,
+            36.967583
+          ],
+          "category": "recreational",
+          "arrive_at": "13:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie gehobenen Küstenluxus in diesem exklusiven Strandbereich mit erstklassigen Annehmlichkeiten und buchen Sie zur Hochsaison vorab eine Liege.",
+            "hu": "Élvezze az exkluzív tengerparti luxust és a prémium szolgáltatásokat ezen az elegáns partszakaszon, főszezonban pedig érdemes előre napágyat foglalni.",
+            "ro": "Bucurați-vă de luxul de coastă la această zonă rafinată a clubului pe plajă și luați în considerare rezervarea unui șezlong în avans în plin sezon.",
+            "en": "Enjoy upscale coastal luxury at this refined beach club area where premium amenities await, and consider booking a sun lounger in advance during peak season."
+          }
+        },
+        {
+          "name": {
+            "de": "Kefaluka Resort Beach",
+            "hu": "Kefaluka Resort Beach",
+            "ro": "Kefaluka Resort Beach",
+            "en": "Kefaluka Resort Beach"
+          },
+          "coords": [
+            27.296224,
+            36.963633
+          ],
+          "category": "recreational",
+          "arrive_at": "15:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen makellosen Sandstrand, der von luxuriösen Resort-Einrichtungen gesäumt wird, und erwerben Sie einen Tagespass für maximalen Komfort.",
+            "hu": "Fedezze fel ezt a luxusüdülőhöz tartozó érintetlen homokos partszakaszt, ahol egy napijegy megvásárlásával élvezheti a természet és a kényelem harmóniáját.",
+            "ro": "Descoperiți o porțiune imaculată de nisip, susținută de facilități de lux, oferind frumusețe naturală și confort perfect dacă cumpărați un abonament de o zi.",
+            "en": "Discover a pristine stretch of sand backed by luxurious resort facilities, offering a perfect blend of natural beauty and comfort if you purchase a day pass."
+          }
+        },
+        {
+          "name": {
+            "de": "Karaincir Beach",
+            "hu": "Karaincir Beach",
+            "ro": "Karaincir Beach",
+            "en": "Karaincir Beach"
+          },
+          "coords": [
+            27.300158,
+            36.971281
+          ],
+          "category": "recreational",
+          "arrive_at": "16:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Schwimmen Sie im bemerkenswert ruhigen und klaren Wasser dieser geschützten, windfreien Bucht, die ideal für kleine Kinder und entspanntes Schnorcheln ist.",
+            "hu": "Ússzon e védett öböl figyelemre méltóan nyugodt, kristálytiszta és szélmentes vizében, amely ideális választás kisgyermekek és a sznorkelezés kedvelői számára.",
+            "ro": "Înotați în apele calme și limpezi ale acestui golf adăpostit, renumit pentru lipsa vântului, fiind ideal pentru copiii mici și pentru snorkeling relaxant.",
+            "en": "Swim in the remarkably calm and clear waters of this sheltered bay, which is famously wind-free, making it ideal for young children and leisurely snorkeling."
+          }
+        },
+        {
+          "name": {
+            "de": "Aspat Plajı",
+            "hu": "Aspat Plajı",
+            "ro": "Aspat Plajı",
+            "en": "Aspat Plajı"
+          },
+          "coords": [
+            27.311693,
+            36.978623
+          ],
+          "category": "recreational",
+          "arrive_at": "17:44",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag in dieser üppigen, kulturhistorisch reichen Bucht mit antiken Ruinen, und nehmen Sie sich Zeit, die historischen Festungen zu erkunden.",
+            "hu": "Zárja a napot ezen a buja, történelmi romokkal és friss forrásokkal teli öbölben, és szánjon időt a domboldalon fekvő ősi erődítmények felfedezésére.",
+            "ro": "Încheiați ziua în acest golf luxuriant, plin de ruine antice și izvoare proaspete, și acordați-vă timp pentru a explora fortificațiile istorice de pe deal.",
+            "en": "End your day at this lush, culturally rich bay featuring ancient ruins and fresh springs, and take a moment to explore the historic hillside fortifications."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im sanften Licht der Küste und genießen Sie die Ägäis.\n\nMittags tauchen Sie in die Strandkultur ein und können verschiedene Wassersportarten ausprobieren.\n\nVerbringen Sie den warmen Nachmittag in den exklusiven Resorts, die Erholung mit bestem Komfort verbinden.\n\nBeenden Sie den Tag am Meer, während der Sonnenuntergang den Himmel in lebhafte Farben taucht.",
+        "hu": "Kezdje a reggelt a tengerparton, és élvezze az Égei-tenger csodálatos nyugalmát.\n\nDélben merüljön el a pezsgő strandéletben, és próbálja ki a helyi vízi sportokat.\n\nA meleg délutánt töltse az elegáns üdülőövezetekben, ahol a tökéletes pihenés és a luxus találkozik.\n\nZárja a napot a parton, miközben a naplemente csodás színekre festi az eget, örök emléket hagyva.",
+        "ro": "Începeți dimineața simțind soarele blând pe coastă, bucurându-vă de Marea Egee.\n\nLa amiază, explorați cultura vibrantă a plajei și încercați câteva sporturi nautice.\n\nPetreceți după-amiaza caldă explorând resorturile de lux, îmbinând relaxarea cu facilități premium.\n\nÎncheiați pe țărm, în timp ce apusul colorează cerul, lăsându-vă cu amintiri de neuitat din acest refugiu.",
+        "en": "Start your morning feeling the gentle sun on the coast, enjoying the Aegean Sea.\n\nAt midday, immerse yourself in vibrant beach culture and try out some local water sports.\n\nSpend the warm afternoon exploring upscale resort areas, seamlessly blending pure relaxation with premium amenities.\n\nConclude by the shore as sunset paints the sky, leaving you with unforgettable memories of this haven."
+      }
+    }
+  }
+}

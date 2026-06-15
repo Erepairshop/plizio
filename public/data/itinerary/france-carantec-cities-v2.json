@@ -1,0 +1,474 @@
+{
+  "city_id": "france-carantec-cities-v2",
+  "anchor": {
+    "name": "Carantec",
+    "coords": [
+      -3.91428,
+      48.66844
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:12",
+      "total_km": 1.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "La Plage de la Chaise du Curé",
+            "hu": "La Plage de la Chaise du Curé",
+            "ro": "La Plage de la Chaise du Curé",
+            "en": "La Plage de la Chaise du Curé"
+          },
+          "coords": [
+            -3.916509,
+            48.673319
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie diese kleine, geschützte Bucht, die nach dem Felsensitz eines Pfarrers benannt ist, ideal für ein Bad am Morgen, aber prüfen Sie vorher die Gezeiten.",
+            "hu": "Élvezze ezt a kis, védett öblöt, amely egy helyi pap sziklás ülőhelyéről kapta a nevét, ideális egy reggeli csobbanáshoz, de előtte ellenőrizze az árapályt.",
+            "ro": "Bucurați-vă de acest mic golf adăpostit, numit după scaunul stâncos al unui preot, perfect pentru o baie matinală liniștită, dar verificați înainte mareele.",
+            "en": "Enjoy this small, sheltered cove named after a local priest's rocky seat, perfect for a quiet morning dip, but remember to check the local tide charts first."
+          }
+        },
+        {
+          "name": {
+            "de": "La Grève du Pors-Pol",
+            "hu": "La Grève du Pors-Pol",
+            "ro": "La Grève du Pors-Pol",
+            "en": "La Grève du Pors-Pol"
+          },
+          "coords": [
+            -3.918656,
+            48.67374
+          ],
+          "category": "recreational",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen familienfreundlichen Strand mit herrlichem Blick auf die Bucht und bringen Sie Badeschuhe mit, um die freigelegten Felsenpools sicher zu erkunden.",
+            "hu": "Fedezze fel ezt a családbarát strandot, amely csodálatos kilátást nyújt az öbölre, és hozzon magával vízicipőt, hogy biztonságosan felfedezhesse a sziklás medencéket.",
+            "ro": "Descoperiți această plajă potrivită pentru familii, care oferă o priveliște magnifică asupra golfului, și aduceți încălțăminte de apă pentru a explora bazinele stâncoase.",
+            "en": "Discover this family-friendly beach offering magnificent views of the bay, and remember to pack water shoes so you can safely explore the exposed rocky pools."
+          }
+        },
+        {
+          "name": {
+            "de": "La Grève Blanche",
+            "hu": "La Grève Blanche",
+            "ro": "La Grève Blanche",
+            "en": "La Grève Blanche"
+          },
+          "coords": [
+            -3.920532,
+            48.674833
+          ],
+          "category": "recreational",
+          "arrive_at": "11:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem feinen weißen Sand dieses beliebten Küstenabschnitts mit spektakulärem Blick auf das Château du Taureau, aber kommen Sie frühzeitig.",
+            "hu": "Pihenjen ennek a népszerű partszakasznak a finom fehér homokján, ahonnan látványos kilátás nyílik a Château du Taureau-ra, de érkezzen korán a legjobb helyekért.",
+            "ro": "Relaxați-vă pe nisipul alb și fin al acestui loc de coastă popular, cu vederi spectaculoase la Château du Taureau, dar ajungeți devreme pentru a prinde cel mai bun loc.",
+            "en": "Relax on the fine white sand of this popular coastal spot, which boasts spectacular views of the Château du Taureau, but arrive early to secure a prime location."
+          }
+        },
+        {
+          "name": {
+            "de": "Grève du Port",
+            "hu": "Grève du Port",
+            "ro": "Grève du Port",
+            "en": "Grève du Port"
+          },
+          "coords": [
+            -3.922983,
+            48.672106
+          ],
+          "category": "recreational",
+          "arrive_at": "13:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Boote im Hafen an diesem belebten Strand und holen Sie sich ein frisches Gebäck aus dem nahen Stadtzentrum, um es am Wasser zu genießen.",
+            "hu": "Figyelje a helyi kikötőben ringatózó csónakokat ezen a nyüzsgő strandon, és vegyen egy friss péksüteményt a közeli központból, hogy a vízparton elfogyaszthassa.",
+            "ro": "Priviți bărcile legănându-se în portul local la această plajă plină de viață și luați o patiserie proaspătă din centrul orașului din apropiere pentru a o savura pe mal.",
+            "en": "Watch the boats gently bobbing in the local harbor at this bustling beach, and grab a fresh local pastry from the nearby town center to enjoy right by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Porz ar Callot",
+            "hu": "Porz ar Callot",
+            "ro": "Porz ar Callot",
+            "en": "Porz ar Callot"
+          },
+          "coords": [
+            -3.922598,
+            48.675534
+          ],
+          "category": "recreational",
+          "arrive_at": "14:27",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die malerische Île Callot von diesem Küstenabschnitt aus und prüfen Sie den Gezeitenkalender sorgfältig vor einer Überquerung.",
+            "hu": "Élvezze a festői Île Callot-ra nyíló panorámát erről a partszakaszról, és gondosan ellenőrizze az árapály-naptárat, mielőtt megpróbálna gyalogosan átkelni.",
+            "ro": "Admirați vederea panoramică spre pitoreasca Île Callot de pe această porțiune de coastă și verificați cu atenție calendarul mareelor înainte de a încerca să traversați.",
+            "en": "Take in the panoramic, sweeping views towards the picturesque Île Callot from this coastal stretch, and check the tidal calendar carefully before trying to cross."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung der geschützten Buchten nahe dem Stadtzentrum. Gegen Mittag spazieren Sie an den malerischen Stränden entlang und beobachten das Treiben im Hafen. Verbringen Sie den Nachmittag damit, den Panoramablick auf die Île Callot zu genießen und versteckte Felsenpools zu entdecken. Am Abend können Sie einen ruhigen Spaziergang zum Sonnenuntergang am Ufer unternehmen.",
+        "hu": "Kezdje a reggelt a városközponthoz közeli, védett öblök felfedezésével, érezve a friss óceáni szellőt. A dél közeledtével sétáljon a festői strandok mentén, megfigyelve a kikötő nyüzsgését. Délután csodálja meg az Île Callot-ra nyíló panorámát, és fedezzen fel rejtett sziklás medencéket. Ahogy leszáll az este, élvezze a nyugodt naplementés sétát a parton, átadva magát a békés breton hangulatnak.",
+        "ro": "Începeți dimineața explorând golfurile adăpostite din apropierea centrului, simțind briza proaspătă a oceanului. La prânz, plimbați-vă pe plajele pitorești și priviți activitatea din portul local. Petreceți după-amiaza admirând vederea panoramică spre Île Callot, descoperind bazine stâncoase ascunse. Seara, bucurați-vă de o plimbare liniștită la apus de-a lungul țărmului, savurând atmosfera pașnică.",
+        "en": "Start your morning by exploring the sheltered coves near the town center, feeling the crisp ocean breeze. As midday approaches, move along the scenic beaches, taking time to watch the local harbor activity. Spend your afternoon admiring the panoramic views towards Île Callot, discovering hidden rocky pools. As evening falls, enjoy a tranquil sunset stroll along the shoreline, savoring the peaceful Breton atmosphere."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:28",
+      "total_km": 3.26,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "La Grande Grève",
+            "hu": "La Grande Grève",
+            "ro": "La Grande Grève",
+            "en": "La Grande Grève"
+          },
+          "coords": [
+            -3.932066,
+            48.657814
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem weitläufigen Sandstrand entlang, der viel Platz für Strandspiele bietet, aber behalten Sie den Nachmittagswind zum Drachensteigen im Auge.",
+            "hu": "Sétáljon végig ezen a hatalmas homokos partszakaszon, amely rengeteg helyet kínál a strandjátékokhoz, de figyelje a délutáni szelet, ha sárkányt szeretne eregetni.",
+            "ro": "Plimbați-vă de-a lungul acestei coaste nisipoase întinse, care oferă spațiu pentru jocuri relaxante, dar fiți atenți la vântul de după-amiază ideal pentru zmeie.",
+            "en": "Stroll along this expansive stretch of sandy coast that offers plenty of space for relaxing beach games, but keep an eye on the afternoon wind for kite flying."
+          }
+        },
+        {
+          "name": {
+            "de": "Grève du Port",
+            "hu": "Grève du Port",
+            "ro": "Grève du Port",
+            "en": "Grève du Port"
+          },
+          "coords": [
+            -3.922983,
+            48.672106
+          ],
+          "category": "recreational",
+          "arrive_at": "10:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.73,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Boote im Hafen an diesem belebten Strand und holen Sie sich ein frisches Gebäck aus dem nahen Stadtzentrum, um es am Wasser zu genießen.",
+            "hu": "Figyelje a helyi kikötőben ringatózó csónakokat ezen a nyüzsgő strandon, és vegyen egy friss péksüteményt a közeli központból, hogy a vízparton elfogyaszthassa.",
+            "ro": "Priviți bărcile legănându-se în portul local la această plajă plină de viață și luați o patiserie proaspătă din centrul orașului din apropiere pentru a o savura pe mal.",
+            "en": "Watch the boats gently bobbing in the local harbor at this bustling beach, and grab a fresh local pastry from the nearby town center to enjoy right by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "La Grève Blanche",
+            "hu": "La Grève Blanche",
+            "ro": "La Grève Blanche",
+            "en": "La Grève Blanche"
+          },
+          "coords": [
+            -3.920532,
+            48.674833
+          ],
+          "category": "recreational",
+          "arrive_at": "11:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem feinen weißen Sand dieses beliebten Küstenabschnitts mit spektakulärem Blick auf das Château du Taureau, aber kommen Sie frühzeitig.",
+            "hu": "Pihenjen ennek a népszerű partszakasznak a finom fehér homokján, ahonnan látványos kilátás nyílik a Château du Taureau-ra, de érkezzen korán a legjobb helyekért.",
+            "ro": "Relaxați-vă pe nisipul alb și fin al acestui loc de coastă popular, cu vederi spectaculoase la Château du Taureau, dar ajungeți devreme pentru a prinde cel mai bun loc.",
+            "en": "Relax on the fine white sand of this popular coastal spot, which boasts spectacular views of the Château du Taureau, but arrive early to secure a prime location."
+          }
+        },
+        {
+          "name": {
+            "de": "Porz ar Callot",
+            "hu": "Porz ar Callot",
+            "ro": "Porz ar Callot",
+            "en": "Porz ar Callot"
+          },
+          "coords": [
+            -3.922598,
+            48.675534
+          ],
+          "category": "recreational",
+          "arrive_at": "13:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die malerische Île Callot von diesem Küstenabschnitt aus und prüfen Sie den Gezeitenkalender sorgfältig vor einer Überquerung.",
+            "hu": "Élvezze a festői Île Callot-ra nyíló panorámát erről a partszakaszról, és gondosan ellenőrizze az árapály-naptárat, mielőtt megpróbálna gyalogosan átkelni.",
+            "ro": "Admirați vederea panoramică spre pitoreasca Île Callot de pe această porțiune de coastă și verificați cu atenție calendarul mareelor înainte de a încerca să traversați.",
+            "en": "Take in the panoramic, sweeping views towards the picturesque Île Callot from this coastal stretch, and check the tidal calendar carefully before trying to cross."
+          }
+        },
+        {
+          "name": {
+            "de": "Porzienn C'halod",
+            "hu": "Porzienn C'halod",
+            "ro": "Porzienn C'halod",
+            "en": "Porzienn C'halod"
+          },
+          "coords": [
+            -3.924296,
+            48.680132
+          ],
+          "category": "recreational",
+          "arrive_at": "14:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.52,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen ruhigen Ort auf dem Weg zur Insel, der fantastische Möglichkeiten zur Vogelbeobachtung bietet; bringen Sie Ihr Fernglas für das beste Erlebnis mit.",
+            "hu": "Fedezze fel ezt a nyugodt helyet a szigetre vezető úton, amely fantasztikus madármegfigyelési lehetőségeket kínál, így hozza magával a távcsövét a legjobb élményért.",
+            "ro": "Explorați acest loc liniștit pe drumul spre insulă, oferind oportunități fantastice de observare a păsărilor, așa că aduceți-vă binoclul pentru cea mai bună experiență.",
+            "en": "Explore this serene spot on the route to the island, offering fantastic local birdwatching opportunities, so bring your binoculars for the very best experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Four à Gouëmon",
+            "hu": "Four à Gouëmon",
+            "ro": "Four à Gouëmon",
+            "en": "Four à Gouëmon"
+          },
+          "coords": [
+            -3.922862,
+            48.684484
+          ],
+          "category": "landmark",
+          "arrive_at": "15:43",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.49,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diesen historischen Algenbrennofen, der von der Küstengeschichte der Bretagne erzählt und bei einer kurzen Fahrradpause leicht zu erreichen ist.",
+            "hu": "Tekintse meg ezt a történelmi hínárégető kemencét, amely Bretagne tengerparti örökségéről mesél, és amelyet egy rövid kerékpáros pihenővel könnyen elérhet.",
+            "ro": "Inspectați acest cuptor istoric pentru arderea algelor care spune povestea patrimoniului de coastă din Bretania, ușor de accesat făcând o scurtă pauză de la bicicletă.",
+            "en": "Inspect this historic seaweed-burning oven which effectively tells the tale of Brittany's coastal heritage, easily reachable by taking a short break from your bike."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Fahrradabenteuer beginnt an den weitläufigen Sandstränden südlich der Stadt. Am Mittag fahren Sie durch den belebten Hafen und folgen den Küstenpfaden mit spektakulärem Blick auf die Bucht. Nachmittags erreichen Sie den malerischen Übergang zur Île Callot und entdecken historische Algenöfen. Beenden Sie den Tag und radeln Sie mit der Meeresbrise zurück, während das Abendlicht sanfter wird.",
+        "hu": "Kerékpáros kalandja a várostól délre fekvő tágas homokos partszakaszokon kezdődik. Délben a nyüzsgő kikötőn keresztül halad, a kanyargós tengerparti ösvényeken, ahonnan látványos kilátás nyílik az öbölre. Délutánra eléri az Île Callot felé vezető festői átkelőt, útközben történelmi hínársütőket fedezve fel. A napot a tengeri szellő kíséretében fejezze be, ahogy az esti fény lágyan megvilágítja a félszigetet.",
+        "ro": "Aventura pe bicicletă începe pe plajele întinse de nisip la sud de oraș. La prânz, veți pedala prin portul plin de viață, urmând potecile de coastă cu vederi spectaculoase. După-amiaza vă aduce la traversarea pitorească spre Île Callot, descoperind cuptoare istorice pentru alge. Încheiați ziua pedalând înapoi cu briza mării, în timp ce lumina serii se atenuează treptat peste peninsulă.",
+        "en": "Your cycling adventure begins at the expansive sandy stretches south of the town. Midday brings you through the bustling harbor, following the winding coastal paths with spectacular bay views. By afternoon, you'll reach the picturesque crossing to Île Callot, discovering historic seaweed ovens along the way. Finish the day pedaling back with the sea breeze as the evening light softens over the peninsula."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:01",
+      "total_km": 5.12,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "La Grande Grève",
+            "hu": "La Grande Grève",
+            "ro": "La Grande Grève",
+            "en": "La Grande Grève"
+          },
+          "coords": [
+            -3.932066,
+            48.657814
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem weitläufigen Sandstrand entlang, der viel Platz für Strandspiele bietet, aber behalten Sie den Nachmittagswind zum Drachensteigen im Auge.",
+            "hu": "Sétáljon végig ezen a hatalmas homokos partszakaszon, amely rengeteg helyet kínál a strandjátékokhoz, de figyelje a délutáni szelet, ha sárkányt szeretne eregetni.",
+            "ro": "Plimbați-vă de-a lungul acestei coaste nisipoase întinse, care oferă spațiu pentru jocuri relaxante, dar fiți atenți la vântul de după-amiază ideal pentru zmeie.",
+            "en": "Stroll along this expansive stretch of sandy coast that offers plenty of space for relaxing beach games, but keep an eye on the afternoon wind for kite flying."
+          }
+        },
+        {
+          "name": {
+            "de": "La Plage de la Chaise du Curé",
+            "hu": "La Plage de la Chaise du Curé",
+            "ro": "La Plage de la Chaise du Curé",
+            "en": "La Plage de la Chaise du Curé"
+          },
+          "coords": [
+            -3.916509,
+            48.673319
+          ],
+          "category": "recreational",
+          "arrive_at": "10:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.08,
+          "tip_5lang": {
+            "de": "Genießen Sie diese kleine, geschützte Bucht, die nach dem Felsensitz eines Pfarrers benannt ist, ideal für ein Bad am Morgen, aber prüfen Sie vorher die Gezeiten.",
+            "hu": "Élvezze ezt a kis, védett öblöt, amely egy helyi pap sziklás ülőhelyéről kapta a nevét, ideális egy reggeli csobbanáshoz, de előtte ellenőrizze az árapályt.",
+            "ro": "Bucurați-vă de acest mic golf adăpostit, numit după scaunul stâncos al unui preot, perfect pentru o baie matinală liniștită, dar verificați înainte mareele.",
+            "en": "Enjoy this small, sheltered cove named after a local priest's rocky seat, perfect for a quiet morning dip, but remember to check the local tide charts first."
+          }
+        },
+        {
+          "name": {
+            "de": "Grève du Port",
+            "hu": "Grève du Port",
+            "ro": "Grève du Port",
+            "en": "Grève du Port"
+          },
+          "coords": [
+            -3.922983,
+            48.672106
+          ],
+          "category": "recreational",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Boote im Hafen an diesem belebten Strand und holen Sie sich ein frisches Gebäck aus dem nahen Stadtzentrum, um es am Wasser zu genießen.",
+            "hu": "Figyelje a helyi kikötőben ringatózó csónakokat ezen a nyüzsgő strandon, és vegyen egy friss péksüteményt a közeli központból, hogy a vízparton elfogyaszthassa.",
+            "ro": "Priviți bărcile legănându-se în portul local la această plajă plină de viață și luați o patiserie proaspătă din centrul orașului din apropiere pentru a o savura pe mal.",
+            "en": "Watch the boats gently bobbing in the local harbor at this bustling beach, and grab a fresh local pastry from the nearby town center to enjoy right by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Ancienne École",
+            "hu": "Ancienne École",
+            "ro": "Ancienne École",
+            "en": "Ancienne École"
+          },
+          "coords": [
+            -3.924722,
+            48.68655
+          ],
+          "category": "cultural",
+          "arrive_at": "13:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.61,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses ehemalige Schulhaus auf der Insel, das den isolierten Lebensstil vergangener Gemeinden widerspiegelt, und bringen Sie eine Kamera für die Architektur mit.",
+            "hu": "Látogasson el ebbe a bájos egykori szigeti iskolaépületbe, amely a múltbéli közösségek elszigetelt életmódját tükrözi, és hozzon fényképezőgépet a rusztikus építészethez.",
+            "ro": "Vizitați această fostă școală insulară care reflectă stilul de viață izolat al comunităților trecute și aduceți o cameră pentru a surprinde arhitectura rustică din piatră.",
+            "en": "Visit this charming former island schoolhouse that reflects the isolated lifestyle of past communities, and bring a camera to capture the rustic stone architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "an aod ar marc'h",
+            "hu": "an aod ar marc'h",
+            "ro": "an aod ar marc'h",
+            "en": "an aod ar marc'h"
+          },
+          "coords": [
+            -3.920988,
+            48.686126
+          ],
+          "category": "recreational",
+          "arrive_at": "14:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre an der „Pferdeküste“, einer weniger bekannten Bucht, die sich perfekt zum Steinehüpfen eignet; Vorsicht vor rutschigen Algen.",
+            "hu": "Élvezze a hihetetlenül nyugodt légkört a \"Lovak partján\", ezen a kevésbé ismert, kavicskacsázásra tökéletes öbölben, de vigyázzon a csúszós hínárral a szélén.",
+            "ro": "Bucurați-vă de atmosfera liniștită la „Coasta Calului”, un golf mai puțin cunoscut, perfect pentru a arunca pietre pe apă, dar aveți grijă la algele alunecoase de pe margine.",
+            "en": "Enjoy the incredibly tranquil atmosphere at 'Horse's Coast', a lesser-known bay perfect for skipping stones, but be cautious of the slippery seaweed along the edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Park an Aod",
+            "hu": "Park an Aod",
+            "ro": "Park an Aod",
+            "en": "Park an Aod"
+          },
+          "coords": [
+            -3.925999,
+            48.688927
+          ],
+          "category": "recreational",
+          "arrive_at": "16:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Machen Sie eine wohlverdiente Pause in diesem Küstenpark, in dem üppiges Grün auf das dramatische Meer trifft – ein idealer Ort für ein entspanntes Picknick am Nachmittag.",
+            "hu": "Tarts egy jól megérdemelt szünetet ezen a tengerparti parkosított területen, ahol a buja növényzet találkozik a tengerrel, így ideális egy délutáni piknikhez.",
+            "ro": "Luați o pauză bine meritată în acest parc de coastă unde verdeața luxuriantă se întâlnește cu marea dramatică, fiind locul ideal pentru un picnic relaxant de după-amiază.",
+            "en": "Take a well-deserved break at this coastal park area that provides lush greenery meeting the dramatic sea, making it an ideal spot for a relaxing mid-afternoon picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Porz an Iliz",
+            "hu": "Porz an Iliz",
+            "ro": "Porz an Iliz",
+            "en": "Porz an Iliz"
+          },
+          "coords": [
+            -3.923928,
+            48.689677
+          ],
+          "category": "recreational",
+          "arrive_at": "17:16",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an der „Kirchenbucht“, wo das schwindende Abendlicht den Horizont malt, und verweilen Sie an der malerischen Küste für eine magische bretonische Atmosphäre.",
+            "hu": "Fejezze be a napot a \"Templom-öbölben\", ahol a halványuló esti fény festi meg a horizontot, és időzzön a festői partvonal közelében az igazán varázslatos breton hangulatért.",
+            "ro": "Încheiați-vă ziua memorabilă la „Golful Bisericii”, unde lumina estompată a serii pictează orizontul, și zăboviți pe țărmul pitoresc pentru o atmosferă magică bretonă.",
+            "en": "End your memorable day at 'Church Bay' where the fading evening light paints the horizon, and linger near the scenic shoreline for a truly magical Breton atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag mit einer Fahrt zu den weiten südlichen Stränden und genießen Sie die Größe der bretonischen Küste. Mittags fahren Sie näher an das Zentrum heran und halten an historischen Inselschulen und Häfen. Überqueren Sie am Nachmittag den Gezeitendamm, um Küstenparks und nördliche Buchten zu erkunden. Die Reise endet an der Kirchenbucht, wo der Sonnenuntergang eine perfekte Kulisse bietet.",
+        "hu": "Indítsa a napot a déli széles strandok felé autózva, és gyönyörködjön a bretagne-i partok tágasságában. Délben vezessen közelebb a központhoz, megállva a történelmi szigeti iskoláknál és az élénk kikötőknél. Délután keljen át az árapály-úton, hogy felfedezze a buja parkokat és az északi öblöket. Az utazás méltóságteljesen ér véget a Templom-öbölben, ahol a naplemente tökéletes hátteret ad az elmélkedéshez.",
+        "ro": "Începeți ziua conducând spre plajele largi din sud, admirând întinderea coastei Bretaniei. La prânz, apropiați-vă de centru, oprindu-vă la vechi școli insulare și porturi pline de viață. După-amiaza, traversați drumul inundabil pentru a explora parcurile luxuriante și golfurile nordice ascunse. Excursia se încheie frumos la Golful Bisericii, unde apusul creează un decor perfect pentru relaxare.",
+        "en": "Kick off the day driving to the wide southern beaches, taking in the grand expanse of the Brittany coast. For midday, drive closer to the center, stopping by historic island schools and lively harbors. In the afternoon, cross the tidal causeway to explore lush coastal parks and hidden northern coves. The trip concludes gracefully at Church Bay, where the sunset creates a perfect backdrop for reflection."
+      }
+    }
+  }
+}

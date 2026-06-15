@@ -1,0 +1,474 @@
+{
+  "city_id": "france-treveneuc-cities-v2",
+  "anchor": {
+    "name": "Tréveneuc",
+    "coords": [
+      -2.87085,
+      48.66466
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:43",
+      "total_km": 4.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Colomban",
+            "hu": "Église Saint-Colomban",
+            "ro": "Église Saint-Colomban",
+            "en": "Église Saint-Colomban"
+          },
+          "coords": [
+            -2.871662,
+            48.664056
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neugotische Architektur dieser friedlichen Kirche, deren schöne Buntglasfenster im frühen Morgenlicht am besten zur Geltung kommen.",
+            "hu": "Csodálja meg e békés templom neogótikus építészetét, ahol a reggeli fény gyönyörűen megvilágítja az üvegablakokat, ezért érdemes korán érkezni.",
+            "ro": "Admirați arhitectura neogotică a acestei biserici pașnice, unde lumina dimineții evidențiază vitraliile superbe, deci sosiți cât mai devreme.",
+            "en": "Admire the striking neo-Gothic architecture of this peaceful church, where morning light highlights the beautiful stained glass, so arrive early."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Pommorio",
+            "hu": "Château de Pommorio",
+            "ro": "Château de Pommorio",
+            "en": "Château de Pommorio"
+          },
+          "coords": [
+            -2.88192,
+            48.665739
+          ],
+          "category": "historical",
+          "arrive_at": "10:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Gelände dieses eleganten Adelssitzes aus dem 18. Jahrhundert und prüfen Sie den Veranstaltungskalender für Gartenshows.",
+            "hu": "Fedezze fel ennek a 18. századi elegáns nemesi birtoknak a történelmi területét, és érdemes ellenőrizni a naptárat az esetleges kertkiállításokért.",
+            "ro": "Explorați domeniul istoric al acestei moșii nobiliare din secolul al XVIII-lea și verificați calendarul lor de evenimente pentru expoziții florale.",
+            "en": "Explore the historic grounds of this elegant 18th-century noble estate, perfect for a slow stroll, and check their event calendar for garden shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Port Goret",
+            "hu": "Plage du Port Goret",
+            "ro": "Plage du Port Goret",
+            "en": "Plage du Port Goret"
+          },
+          "coords": [
+            -2.864805,
+            48.671858
+          ],
+          "category": "recreational",
+          "arrive_at": "11:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie an dieser malerischen Bucht, die ruhiges Wasser zum Waten bietet, weshalb Sie idealerweise ein leichtes Picknick mitbringen sollten.",
+            "hu": "Pihenjen ezen a festői és védett öbölben, amely nyugodt vizet kínál a gázoláshoz, így érdemes egy könnyű pikniket és vízi cipőt hoznia magával.",
+            "ro": "Relaxați-vă în acest golf pitoresc care oferă ape calme pentru o baie rapidă, fiind ideal să aduceți un mic picnic și încălțăminte de apă.",
+            "en": "Relax at this sheltered and picturesque cove which offers calm waters for wading, making it ideal to pack a light picnic and water shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Pointe du Bec de Vir",
+            "hu": "Pointe du Bec de Vir",
+            "ro": "Pointe du Bec de Vir",
+            "en": "Pointe du Bec de Vir"
+          },
+          "coords": [
+            -2.859409,
+            48.675591
+          ],
+          "category": "viewpoint",
+          "arrive_at": "13:07",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Meerblick von diesen dramatischen Klippen, aber halten Sie Ihren Hut fest, da die Meeresbrise hier sehr stark sein kann.",
+            "hu": "Élvezze a tengerre nyíló panorámát ezekről a drámai sziklákról, de fogja meg a kalapját, mivel a tengeri szellő itt rendkívül erős tud lenni.",
+            "ro": "Bucurați-vă de priveliștile panoramice asupra oceanului de pe aceste stânci dramatice, dar aveți grijă la pălărie deoarece briza poate fi puternică.",
+            "en": "Enjoy sweeping panoramic ocean views from these dramatic coastal cliffs, but hold onto your hat as the sea breeze can be remarkably strong here."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Palus",
+            "hu": "Le Palus",
+            "ro": "Le Palus",
+            "en": "Le Palus"
+          },
+          "coords": [
+            -2.882779,
+            48.675666
+          ],
+          "category": "recreational",
+          "arrive_at": "13:58",
+          "stay_min": 105,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem von hohen Klippen umgebenen, weitläufigen Strand mit einem langen Spaziergang entlang der Küste im Sonnenuntergang.",
+            "hu": "Zárja a napot ezen a hatalmas, magas sziklákkal körülvett strandon, egy hosszú sétát téve a drámai partvonal mentén a lenyugvó nap fényében.",
+            "ro": "Încheiați ziua pe această plajă imensă înconjurată de stânci înalte, făcând o plimbare lungă de-a lungul coastei la lumina apusului.",
+            "en": "End your day at this expansive beach surrounded by towering cliffs, taking a long walk along the dramatic coastline as the sun begins to set."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im Dorfzentrum und bewundern Sie das lokale Erbe. Wechseln Sie mittags zu den Schlossanlagen und spazieren Sie zum Meer. Verbringen Sie den Nachmittag damit, versteckte Küstenbuchten und felsige Klippen zu entdecken. Entspannen Sie sich am Abend am Strand von Le Palus.",
+        "hu": "Kezdje a reggelt a falu központjában, megcsodálva a helyi örökséget. Délben váltson a kastélyra, majd sétáljon a tenger felé. Töltse a délutánt rejtett partmenti öblök és drámai sziklaszirtek felfedezésével. Ahogy közeledik az este, pihenjen le Le Palus nagy strandján a lemenő napfényben.",
+        "ro": "Începeți dimineața în centrul satului admirând patrimoniul local. La prânz, mergeți spre domeniul castelului și plimbați-vă spre mare. Petreceți după-amiaza descoperind golfuri ascunse și stânci dramatice. Pe măsură ce se lasă seara, relaxați-vă pe plaja întinsă din Le Palus.",
+        "en": "Begin your morning in the village center admiring local heritage. By midday, transition to the grand castle grounds and walk towards the sea. Spend your afternoon discovering hidden coastal coves and dramatic rocky points. As evening approaches, unwind at the grand beach of Le Palus under the setting sun."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:48",
+      "total_km": 3.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Colomban",
+            "hu": "Église Saint-Colomban",
+            "ro": "Église Saint-Colomban",
+            "en": "Église Saint-Colomban"
+          },
+          "coords": [
+            -2.871662,
+            48.664056
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neugotische Architektur dieser friedlichen Kirche, deren schöne Buntglasfenster im frühen Morgenlicht am besten zur Geltung kommen.",
+            "hu": "Csodálja meg e békés templom neogótikus építészetét, ahol a reggeli fény gyönyörűen megvilágítja az üvegablakokat, ezért érdemes korán érkezni.",
+            "ro": "Admirați arhitectura neogotică a acestei biserici pașnice, unde lumina dimineții evidențiază vitraliile superbe, deci sosiți cât mai devreme.",
+            "en": "Admire the striking neo-Gothic architecture of this peaceful church, where morning light highlights the beautiful stained glass, so arrive early."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Saint-Marc",
+            "hu": "Plage de Saint-Marc",
+            "ro": "Plage de Saint-Marc",
+            "en": "Plage de Saint-Marc"
+          },
+          "coords": [
+            -2.852769,
+            48.667351
+          ],
+          "category": "recreational",
+          "arrive_at": "09:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre dieses von Küstenvegetation gesäumten Sandstrandes, der sich perfekt eignet, um den sanften Wellen zu lauschen.",
+            "hu": "Szívja magába a nyugodt légkört ezen a part menti növényzettel szegélyezett homokos partszakaszon, ahol érdemes megállni és hallgatni a hullámokat.",
+            "ro": "Bucurați-vă de atmosfera liniștită a acestei plaje de nisip mărginite de vegetație de coastă, un loc perfect pentru a asculta valurile blânde.",
+            "en": "Soak in the tranquil atmosphere of this sandy stretch lined with coastal vegetation, a perfect spot to pause and listen to the gentle waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Marc",
+            "hu": "Chapelle Saint-Marc",
+            "ro": "Chapelle Saint-Marc",
+            "en": "Chapelle Saint-Marc"
+          },
+          "coords": [
+            -2.855057,
+            48.666378
+          ],
+          "category": "religious",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese charmante Kapelle, die tief in der lokalen maritimen Geschichte verwurzelt ist und herrlich ruhig für einen Moment der Besinnung ist.",
+            "hu": "Fedezze fel ezt a bájos és szerény tengerparti kápolnát, amely tele van helyi tengerészeti történelemmel, és csodálatosan csendes a reflexióhoz.",
+            "ro": "Descoperiți această capelă de pe litoral, fermecătoare și modestă, plină de istorie maritimă locală, extrem de liniștită pentru o scurtă reflecție.",
+            "en": "Discover this charming and modest seaside chapel steeped in local maritime history, which is wonderfully quiet for a brief moment of reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Atelier vitrail",
+            "hu": "Atelier vitrail",
+            "ro": "Atelier vitrail",
+            "en": "Atelier vitrail"
+          },
+          "coords": [
+            -2.843681,
+            48.660313
+          ],
+          "category": "cultural",
+          "arrive_at": "12:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese kreative Werkstatt, um die Kunst der Buntglasherstellung zu erleben, und überlegen Sie, ein handgefertigtes Souvenir zu kaufen.",
+            "hu": "Lépjen be ebbe a kreatív műhelybe, hogy szemtanúja legyen az üvegfestés aprólékos mesterségének, és fontolja meg egy egyedi szuvenír vásárlását.",
+            "ro": "Pășiți în acest atelier creativ pentru a asista la meșteșugul meticulos al fabricării vitraliilor și luați în considerare achiziționarea unui suvenir.",
+            "en": "Step inside this creative workshop to witness the meticulous craft of stained glass making, and consider purchasing a unique handcrafted souvenir."
+          }
+        },
+        {
+          "name": {
+            "de": "Grève de Fonteny",
+            "hu": "Grève de Fonteny",
+            "ro": "Grève de Fonteny",
+            "en": "Grève de Fonteny"
+          },
+          "coords": [
+            -2.841486,
+            48.662559
+          ],
+          "category": "recreational",
+          "arrive_at": "13:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem rauen Kieselstrand, wo die ungezähmte Schönheit der bretonischen Küste erstrahlt, idealerweise bei Ebbe für Erkundungen.",
+            "hu": "Sétáljon végig ezen a zord kavicsos parton, ahol a breton partvidék szépsége ragyog, amit ideális esetben apálykor érdemes felfedezni.",
+            "ro": "Plimbați-vă de-a lungul acestui țărm stâncos unde strălucește frumusețea sălbatică a coastei bretone, vizitat ideal în timpul refluxului.",
+            "en": "Walk along this rugged pebble shore where the untamed natural beauty of the Breton coast shines, ideally experienced during low tide for exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc des druides",
+            "hu": "Parc des druides",
+            "ro": "Parc des druides",
+            "en": "Parc des druides"
+          },
+          "coords": [
+            -2.850896,
+            48.659361
+          ],
+          "category": "park",
+          "arrive_at": "15:03",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese mystische Grünfläche voller faszinierender Naturformationen, die in der Nachmittagshitze einen schattigen Rückzugsort bietet.",
+            "hu": "Barangoljon ebben a lenyűgöző természeti képződményekkel teli, misztikus zöldövezetben, amely csodálatosan árnyékos menedéket nyújt a hőségben.",
+            "ro": "Rătăciți prin acest spațiu verde mistic plin de formațiuni naturale intrigante, oferind un refugiu minunat și umbrit în timpul căldurii după-amiezii.",
+            "en": "Wander through this mystical green space filled with intriguing natural formations, providing a wonderfully shaded retreat during the afternoon heat."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an der Dorfkirche, bevor Sie zu den Stränden radeln. Die Mittagszeit bietet einen ruhigen Besuch einer maritimen Kapelle und einer Handwerkswerkstatt. Am Nachmittag fahren Sie an Kieselstränden entlang. Beenden Sie Ihren Tag inmitten der alten Bäume des Druidenparks.",
+        "hu": "Kezdje kerékpártúráját a békés falusi templomnál, mielőtt a strandok felé pedálozna. A délidő csendes látogatást kínál egy tengerészeti kápolnához és egy kézműves műhelyhez. Délután tekerjen a kavicsos partok mentén. Zárja a napot a Druidák parkjának ősi fái között pihenve.",
+        "ro": "Începeți plimbarea cu bicicleta la biserica din sat înainte de a pedala spre plajele dimineții. Prânzul oferă o vizită liniștită la o capelă maritimă și la un atelier artizanal. După-amiaza, mergeți de-a lungul țărmurilor pietroase. Încheiați ziua relaxându-vă printre copacii antici din Parcul Druizilor.",
+        "en": "Kick off your cycling trip at the peaceful village church before pedaling down to the sunlit morning beaches. Midday offers a quiet visit to a maritime chapel and an inspiring artisan workshop. In the afternoon, ride along pebble shores and breathe the fresh sea air. Conclude your day relaxing amidst the ancient trees of the Druids' Park."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:47",
+      "total_km": 7.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Château de Pommorio",
+            "hu": "Château de Pommorio",
+            "ro": "Château de Pommorio",
+            "en": "Château de Pommorio"
+          },
+          "coords": [
+            -2.88192,
+            48.665739
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Gelände dieses eleganten Adelssitzes aus dem 18. Jahrhundert und prüfen Sie den Veranstaltungskalender für Gartenshows.",
+            "hu": "Fedezze fel ennek a 18. századi elegáns nemesi birtoknak a történelmi területét, és érdemes ellenőrizni a naptárat az esetleges kertkiállításokért.",
+            "ro": "Explorați domeniul istoric al acestei moșii nobiliare din secolul al XVIII-lea și verificați calendarul lor de evenimente pentru expoziții florale.",
+            "en": "Explore the historic grounds of this elegant 18th-century noble estate, perfect for a slow stroll, and check their event calendar for garden shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin de Merlet",
+            "hu": "Moulin de Merlet",
+            "ro": "Moulin de Merlet",
+            "en": "Moulin de Merlet"
+          },
+          "coords": [
+            -2.857819,
+            48.650557
+          ],
+          "category": "monument",
+          "arrive_at": "10:36",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Halten Sie inne, um die rustikalen Überreste dieser alten Steinmühle zu fotografieren, die ein malerisches Zeugnis der landwirtschaftlichen Vergangenheit ist.",
+            "hu": "Álljon meg egy pillanatra, hogy lefotózza ennek a régi kőmalomnak a rusztikus maradványait, amely a régió mezőgazdasági múltjának festői emléke.",
+            "ro": "Opriți-vă pentru a fotografia rămășițele rustice ale acestei vechi mori de piatră, care stă ca o mărturie pitorească a trecutului agricol al regiunii.",
+            "en": "Pause to photograph the rustic remnants of this old stone mill which gracefully stands as a picturesque testament to the region's agricultural past."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame-de-la Garde",
+            "hu": "Notre-Dame-de-la Garde",
+            "ro": "Notre-Dame-de-la Garde",
+            "en": "Notre-Dame-de-la Garde"
+          },
+          "coords": [
+            -2.852138,
+            48.658082
+          ],
+          "category": "religious",
+          "arrive_at": "10:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese den Seeleuten gewidmete, erhöht gelegene religiöse Stätte, die ruhige Küstenausblicke bietet – vergessen Sie Ihre Kamera nicht.",
+            "hu": "Látogasson el erre a helyi tengerészek védelmének szentelt magaslati vallási helyszínre, amely békés parti kilátást nyújt, így vigyen fényképezőgépet.",
+            "ro": "Vizitați acest sit religios dedicat protejării marinarilor, oferind priveliști senine ale coastei, așa că asigurați-vă că aveți aparatul foto.",
+            "en": "Visit this elevated religious site dedicated to protecting local sailors, offering serene coastal vistas, so make sure to bring your camera along."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc des druides",
+            "hu": "Parc des druides",
+            "ro": "Parc des druides",
+            "en": "Parc des druides"
+          },
+          "coords": [
+            -2.850896,
+            48.659361
+          ],
+          "category": "park",
+          "arrive_at": "11:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese mystische Grünfläche voller faszinierender Naturformationen, die in der Nachmittagshitze einen schattigen Rückzugsort bietet.",
+            "hu": "Barangoljon ebben a lenyűgöző természeti képződményekkel teli, misztikus zöldövezetben, amely csodálatosan árnyékos menedéket nyújt a hőségben.",
+            "ro": "Rătăciți prin acest spațiu verde mistic plin de formațiuni naturale intrigante, oferind un refugiu minunat și umbrit în timpul căldurii după-amiezii.",
+            "en": "Wander through this mystical green space filled with intriguing natural formations, providing a wonderfully shaded retreat during the afternoon heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Atelier vitrail",
+            "hu": "Atelier vitrail",
+            "ro": "Atelier vitrail",
+            "en": "Atelier vitrail"
+          },
+          "coords": [
+            -2.843681,
+            48.660313
+          ],
+          "category": "cultural",
+          "arrive_at": "12:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese kreative Werkstatt, um die Kunst der Buntglasherstellung zu erleben, und überlegen Sie, ein handgefertigtes Souvenir zu kaufen.",
+            "hu": "Lépjen be ebbe a kreatív műhelybe, hogy szemtanúja legyen az üvegfestés aprólékos mesterségének, és fontolja meg egy egyedi szuvenír vásárlását.",
+            "ro": "Pășiți în acest atelier creativ pentru a asista la meșteșugul meticulos al fabricării vitraliilor și luați în considerare achiziționarea unui suvenir.",
+            "en": "Step inside this creative workshop to witness the meticulous craft of stained glass making, and consider purchasing a unique handcrafted souvenir."
+          }
+        },
+        {
+          "name": {
+            "de": "Grève de Fonteny",
+            "hu": "Grève de Fonteny",
+            "ro": "Grève de Fonteny",
+            "en": "Grève de Fonteny"
+          },
+          "coords": [
+            -2.841486,
+            48.662559
+          ],
+          "category": "recreational",
+          "arrive_at": "14:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem rauen Kieselstrand, wo die ungezähmte Schönheit der bretonischen Küste erstrahlt, idealerweise bei Ebbe für Erkundungen.",
+            "hu": "Sétáljon végig ezen a zord kavicsos parton, ahol a breton partvidék szépsége ragyog, amit ideális esetben apálykor érdemes felfedezni.",
+            "ro": "Plimbați-vă de-a lungul acestui țărm stâncos unde strălucește frumusețea sălbatică a coastei bretone, vizitat ideal în timpul refluxului.",
+            "en": "Walk along this rugged pebble shore where the untamed natural beauty of the Breton coast shines, ideally experienced during low tide for exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Pointe du Bec de Vir",
+            "hu": "Pointe du Bec de Vir",
+            "ro": "Pointe du Bec de Vir",
+            "en": "Pointe du Bec de Vir"
+          },
+          "coords": [
+            -2.859409,
+            48.675591
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:52",
+          "stay_min": 55,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Meerblick von diesen dramatischen Klippen, aber halten Sie Ihren Hut fest, da die Meeresbrise hier sehr stark sein kann.",
+            "hu": "Élvezze a tengerre nyíló panorámát ezekről a drámai sziklákról, de fogja meg a kalapját, mivel a tengeri szellő itt rendkívül erős tud lenni.",
+            "ro": "Bucurați-vă de priveliștile panoramice asupra oceanului de pe aceste stânci dramatice, dar aveți grijă la pălărie deoarece briza poate fi puternică.",
+            "en": "Enjoy sweeping panoramic ocean views from these dramatic coastal cliffs, but hold onto your hat as the sea breeze can be remarkably strong here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Autotour auf dem weitläufigen Gelände des Adelssitzes. Mittags fahren Sie vorbei an rustikalen Mühlen zu einer hügeligen Kirche mit Meerblick. Der Nachmittag ist geprägt von Kunst und felsigen Küsten. Beobachten Sie schließlich das schwindende Tageslicht von den Klippen von Bec de Vir.",
+        "hu": "Kezdje autós túráját a helyi nemesi birtok hatalmas területének felfedezésével. Délben rusztikus malmok mellett halad el egy domboldali templomhoz. A délutánt művészet és a zord partvonal felfedezése tölti ki. Végül nézze a halványuló nappali fényt Bec de Vir lélegzetelállító szikláiról.",
+        "ro": "Începeți turul cu mașina explorând domeniul nobiliar local. Prânzul vă poartă pe lângă mori rustice spre o biserică de pe deal cu vedere la ocean. După-amiaza este plină de artă și explorarea țărmului stâncos. În cele din urmă, priviți apusul de pe stâncile uluitoare de la Bec de Vir.",
+        "en": "Start your driving tour exploring the expansive grounds of the local noble estate. Midday takes you past rustic mills to a prominent hillside church with sweeping ocean vistas. Your afternoon is filled with art and rugged shoreline exploration at nearby coves. Finally, watch the fading daylight from the breathtaking cliffs of Bec de Vir."
+      }
+    }
+  }
+}

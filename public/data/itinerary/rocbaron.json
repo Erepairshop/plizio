@@ -1,0 +1,520 @@
+{
+  "city_id": "rocbaron",
+  "anchor": {
+    "name": "Rocbaron",
+    "coords": [
+      6.0908,
+      43.3042
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 3.96,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Sauveur",
+            "hu": "Église Saint-Sauveur",
+            "ro": "Église Saint-Sauveur",
+            "en": "Église Saint-Sauveur"
+          },
+          "coords": [
+            6.090723,
+            43.304321
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser zentralen Kirche, die das religiöse Erbe der Region widerspiegelt, und achten Sie besonders auf die detaillierten Buntglasfenster, bevor Sie weitergehen.",
+            "hu": "Csodálja meg a központi templom helyi vallási örökséget tükröző békés építészetét, és mindenképpen figyelje meg a részletgazdag ólomüveg ablakokat a továbbindulás előtt.",
+            "ro": "Admirați arhitectura senină a acestei biserici centrale ce reflectă moștenirea religioasă locală și observați detaliile vitraliilor superbe înainte de a vă continua drumul.",
+            "en": "Admire the serene architecture of this central church, reflecting local religious heritage, and make sure to notice the beautifully detailed stained glass windows before continuing."
+          }
+        },
+        {
+          "name": {
+            "de": "Château Saint-Sauveur",
+            "hu": "Château Saint-Sauveur",
+            "ro": "Château Saint-Sauveur",
+            "en": "Château Saint-Sauveur"
+          },
+          "coords": [
+            6.096338,
+            43.300072
+          ],
+          "category": "historical",
+          "arrive_at": "10:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.64,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Ruinen dieses alten Schlosses, das Einblicke in mittelalterliche Verteidigungsstrategien bietet, und tragen Sie festes Schuhwerk für die unebenen Wege.",
+            "hu": "Fedezze fel a középkori védelmi stratégiákba bepillantást engedő ősi kastély történelmi romjait, és viseljen kényelmes túracipőt, mivel a terület körüli ösvények meglehetősen egyenetlenek.",
+            "ro": "Explorați ruinele istorice ale acestui castel antic ce oferă o perspectivă asupra apărării medievale și purtați încălțăminte comodă, deoarece potecile pot fi destul de accidentate.",
+            "en": "Explore the historic ruins of this ancient local château that offers a glimpse into medieval defense strategies, and wear sturdy walking shoes as the pathways around the site can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "le Castellas",
+            "hu": "le Castellas",
+            "ro": "le Castellas",
+            "en": "le Castellas"
+          },
+          "coords": [
+            6.090111,
+            43.3265
+          ],
+          "category": "castle",
+          "arrive_at": "12:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 44,
+          "hop_from_prev_km": 2.94,
+          "tip_5lang": {
+            "de": "Steigen Sie zu diesen faszinierenden Überresten der mittelalterlichen Festung hinauf, die die Landschaft dominiert, und bringen Sie eine Kamera für die atemberaubende Aussicht mit.",
+            "hu": "Másszon fel a helyi tájat uraló, lenyűgöző középkori erődítmény maradványaihoz, és ne felejtsen el fényképezőgépet hozni a völgyre nyíló csodálatos panoráma megörökítéséhez.",
+            "ro": "Urcați la aceste fascinante ruine ale fortificației medievale ce domină peisajul local și luați un aparat foto pentru a surprinde vederea panoramică uluitoare asupra văii.",
+            "en": "Climb up to these fascinating medieval fortification remains which dominate the local landscape, and bring a camera for the stunning panoramic views over the valley below."
+          }
+        },
+        {
+          "name": {
+            "de": "Observatorium von Rocbaron",
+            "hu": "Rocbaron Csillagvizsgáló",
+            "ro": "Observatorul Rocbaron",
+            "en": "Rocbaron Observatory"
+          },
+          "coords": [
+            6.088347,
+            43.323267
+          ],
+          "category": "cultural",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Wunder des Himmels in dieser bekannten Sternwarte mit hochwertigen Teleskopen, und prüfen Sie den Zeitplan für die Sonnenbeobachtung bei einem Besuch am Tag.",
+            "hu": "Fedezze fel az égbolt csodáit a kiváló minőségű távcsöveiről ismert helyi csillagvizsgálóban, és nappali látogatás esetén mindenképpen tájékozódjon a napmegfigyelési programokról.",
+            "ro": "Descoperiți minunile cerului la acest observator renumit pentru telescoapele sale de înaltă calitate și verificați programul de observații solare dacă îl vizitați în timpul zilei.",
+            "en": "Discover the wonders of the night sky at this renowned local observatory, which is known for its high-quality telescopes, so try to check their solar observation schedule if visiting during the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Wald von Rocbaron",
+            "hu": "Rocbaron-erdő",
+            "ro": "Pădurea Rocbaron",
+            "en": "Rocbaron Forest"
+          },
+          "coords": [
+            6.088347,
+            43.323267
+          ],
+          "category": "natural",
+          "arrive_at": "15:10",
+          "stay_min": 105,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die friedliche Natur dieses ausgedehnten Waldökosystems, und packen Sie unbedingt Wasser und Snacks ein, um einen entspannten Spaziergang auf den Wegen zu genießen.",
+            "hu": "Merüljön el a helyi biológiai sokféleséget védő, kiterjedt erdei ökoszisztéma nyugalmában, és hozzon magával vizet, hogy teljes mértékben kiélvezhesse a kijelölt ösvényeken tett sétát.",
+            "ro": "Cufundați-vă în natura liniștită a acestui ecosistem forestier care protejează biodiversitatea locală și luați cu dumneavoastră apă pentru a vă bucura de o plimbare relaxantă pe trasee.",
+            "en": "Immerse yourself in the tranquil nature of this sprawling forest ecosystem that protects local biodiversity, and pack some water and snacks to fully enjoy a relaxing walk along its marked trails."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie Ihre Erkundung von Rocbaron an der charmanten Église Saint-Sauveur, bevor Sie zu den Ruinen des Château Saint-Sauveur weiterziehen.\n\nMittag: Wenn die Sonne höher steigt, machen Sie sich auf den Weg zu den beeindruckenden Überresten von le Castellas für eine erholsame Pause.\n\nNachmittag: Widmen Sie Ihren Nachmittag der Entschlüsselung des Kosmos im Observatorium von Rocbaron.\n\nAbend: Schließen Sie Ihre Reise ab, indem Sie in die unberührte Umgebung des Waldes von Rocbaron eintauchen.",
+        "hu": "Délelőtt: Kezdje Rocbaron felfedezését a bájos Église Saint-Sauveur templomnál, mielőtt a Château Saint-Sauveur romjaihoz indulna.\n\nDél: Ahogy a nap magasabbra hág, vegye az irányt a le Castellas lenyűgöző maradványai felé egy kis déli pihenőre.\n\nDélután: Szentelje a délutánt a kozmosz titkainak feltárására a Rocbaron Csillagvizsgálóban.\n\nEste: Fejezze be utazását a Rocbaron-erdő érintetlen környezetében tett nyugtató sétával.",
+        "ro": "Dimineața: Începeți explorarea orașului Rocbaron la fermecătoarea Église Saint-Sauveur, înainte de a vă îndrepta spre ruinele Château Saint-Sauveur.\n\nAmiaza: Pe măsură ce soarele urcă, îndreptați-vă spre rămășițele impresionante de la le Castellas pentru o odihnă meritată.\n\nDupă-amiaza: Dedicați-vă după-amiaza descifrării cosmosului la Observatorul Rocbaron.\n\nSeara: Încheiați călătoria cufundați în mediul curat și relaxant al Pădurii Rocbaron.",
+        "en": "Morning: Begin your Rocbaron exploration at the charming Église Saint-Sauveur, before heading over to the ruins of Château Saint-Sauveur.\n\nMidday: As the sun climbs, make your way towards the impressive remains of le Castellas for a well-deserved midday rest.\n\nAfternoon: Dedicate your afternoon to unraveling the cosmos at the Rocbaron Observatory.\n\nEvening: Conclude your journey immersed in the pristine environment of the Rocbaron Forest."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:44",
+      "total_km": 9.56,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Sauveur",
+            "hu": "Église Saint-Sauveur",
+            "ro": "Église Saint-Sauveur",
+            "en": "Église Saint-Sauveur"
+          },
+          "coords": [
+            6.090723,
+            43.304321
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser zentralen Kirche, die das religiöse Erbe der Region widerspiegelt, und achten Sie besonders auf die detaillierten Buntglasfenster, bevor Sie weitergehen.",
+            "hu": "Csodálja meg a központi templom helyi vallási örökséget tükröző békés építészetét, és mindenképpen figyelje meg a részletgazdag ólomüveg ablakokat a továbbindulás előtt.",
+            "ro": "Admirați arhitectura senină a acestei biserici centrale ce reflectă moștenirea religioasă locală și observați detaliile vitraliilor superbe înainte de a vă continua drumul.",
+            "en": "Admire the serene architecture of this central church, reflecting local religious heritage, and make sure to notice the beautifully detailed stained glass windows before continuing."
+          }
+        },
+        {
+          "name": {
+            "de": "Château Saint-Sauveur",
+            "hu": "Château Saint-Sauveur",
+            "ro": "Château Saint-Sauveur",
+            "en": "Château Saint-Sauveur"
+          },
+          "coords": [
+            6.096338,
+            43.300072
+          ],
+          "category": "historical",
+          "arrive_at": "09:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.64,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Ruinen dieses alten Schlosses, das Einblicke in mittelalterliche Verteidigungsstrategien bietet, und tragen Sie festes Schuhwerk für die unebenen Wege.",
+            "hu": "Fedezze fel a középkori védelmi stratégiákba bepillantást engedő ősi kastély történelmi romjait, és viseljen kényelmes túracipőt, mivel a terület körüli ösvények meglehetősen egyenetlenek.",
+            "ro": "Explorați ruinele istorice ale acestui castel antic ce oferă o perspectivă asupra apărării medievale și purtați încălțăminte comodă, deoarece potecile pot fi destul de accidentate.",
+            "en": "Explore the historic ruins of this ancient local château that offers a glimpse into medieval defense strategies, and wear sturdy walking shoes as the pathways around the site can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Sainte-Philomène",
+            "hu": "Chapelle Sainte-Philomène",
+            "ro": "Chapelle Sainte-Philomène",
+            "en": "Chapelle Sainte-Philomène"
+          },
+          "coords": [
+            6.101387,
+            43.284745
+          ],
+          "category": "religious",
+          "arrive_at": "11:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.74,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese malerische Kapelle, die von der tiefen ländlichen Spiritualität der Region zeugt, und respektieren Sie die ruhige Atmosphäre, indem Sie Ihr Telefon vorher ausschalten.",
+            "hu": "Látogasson el ebbe a békés kápolnába, amely a régió mély vidéki spiritualitásának állít emléket, és a belépés előtt kapcsolja ki telefonját a csendes légkör tiszteletben tartása érdekében.",
+            "ro": "Vizitați această capelă pitorească și liniștită ce stă mărturie spiritualității rurale profunde a regiunii și respectați atmosfera tăcută închizând telefonul înainte de a păși înăuntru.",
+            "en": "Visit this quaint and peaceful chapel that stands as a testament to the region's deep rural spirituality, and respect the quiet atmosphere by turning off your phone before stepping inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Pelades",
+            "hu": "Les Pelades",
+            "ro": "Les Pelades",
+            "en": "Les Pelades"
+          },
+          "coords": [
+            6.083427,
+            43.279247
+          ],
+          "category": "natural",
+          "arrive_at": "12:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.57,
+          "tip_5lang": {
+            "de": "Machen Sie eine erholsame Pause in diesem wunderschönen Naturschutzgebiet, und bleiben Sie unbedingt auf den ausgewiesenen Wegen, um die empfindliche lokale Flora zu schützen.",
+            "hu": "Tartson egy frissítő szünetet ebben az egyedülálló geológiai képződményeiről ismert gyönyörű természetvédelmi területen, és maradjon a kijelölt ösvényeken az érzékeny flóra védelme érdekében.",
+            "ro": "Faceți o pauză revigorantă în această rezervație naturală recunoscută pentru formațiunile sale geologice unice și rămâneți pe potecile marcate pentru a proteja flora locală delicată.",
+            "en": "Take a revitalizing break at this beautiful natural reserve known for its unique geological formations, and stay on the designated paths to help protect the delicate local flora."
+          }
+        },
+        {
+          "name": {
+            "de": "le Castellas",
+            "hu": "le Castellas",
+            "ro": "le Castellas",
+            "en": "le Castellas"
+          },
+          "coords": [
+            6.090111,
+            43.3265
+          ],
+          "category": "castle",
+          "arrive_at": "13:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 5.23,
+          "tip_5lang": {
+            "de": "Steigen Sie zu diesen faszinierenden Überresten der mittelalterlichen Festung hinauf, die die Landschaft dominiert, und bringen Sie eine Kamera für die atemberaubende Aussicht mit.",
+            "hu": "Másszon fel a helyi tájat uraló, lenyűgöző középkori erődítmény maradványaihoz, és ne felejtsen el fényképezőgépet hozni a völgyre nyíló csodálatos panoráma megörökítéséhez.",
+            "ro": "Urcați la aceste fascinante ruine ale fortificației medievale ce domină peisajul local și luați un aparat foto pentru a surprinde vederea panoramică uluitoare asupra văii.",
+            "en": "Climb up to these fascinating medieval fortification remains which dominate the local landscape, and bring a camera for the stunning panoramic views over the valley below."
+          }
+        },
+        {
+          "name": {
+            "de": "Observatorium von Rocbaron",
+            "hu": "Rocbaron Csillagvizsgáló",
+            "ro": "Observatorul Rocbaron",
+            "en": "Rocbaron Observatory"
+          },
+          "coords": [
+            6.088347,
+            43.323267
+          ],
+          "category": "cultural",
+          "arrive_at": "15:19",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Wunder des Himmels in dieser bekannten Sternwarte mit hochwertigen Teleskopen, und prüfen Sie den Zeitplan für die Sonnenbeobachtung bei einem Besuch am Tag.",
+            "hu": "Fedezze fel az égbolt csodáit a kiváló minőségű távcsöveiről ismert helyi csillagvizsgálóban, és nappali látogatás esetén mindenképpen tájékozódjon a napmegfigyelési programokról.",
+            "ro": "Descoperiți minunile cerului la acest observator renumit pentru telescoapele sale de înaltă calitate și verificați programul de observații solare dacă îl vizitați în timpul zilei.",
+            "en": "Discover the wonders of the night sky at this renowned local observatory, which is known for its high-quality telescopes, so try to check their solar observation schedule if visiting during the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Wald von Rocbaron",
+            "hu": "Rocbaron-erdő",
+            "ro": "Pădurea Rocbaron",
+            "en": "Rocbaron Forest"
+          },
+          "coords": [
+            6.088347,
+            43.323267
+          ],
+          "category": "natural",
+          "arrive_at": "16:59",
+          "stay_min": 105,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die friedliche Natur dieses ausgedehnten Waldökosystems, und packen Sie unbedingt Wasser und Snacks ein, um einen entspannten Spaziergang auf den Wegen zu genießen.",
+            "hu": "Merüljön el a helyi biológiai sokféleséget védő, kiterjedt erdei ökoszisztéma nyugalmában, és hozzon magával vizet, hogy teljes mértékben kiélvezhesse a kijelölt ösvényeken tett sétát.",
+            "ro": "Cufundați-vă în natura liniștită a acestui ecosistem forestier care protejează biodiversitatea locală și luați cu dumneavoastră apă pentru a vă bucura de o plimbare relaxantă pe trasee.",
+            "en": "Immerse yourself in the tranquil nature of this sprawling forest ecosystem that protects local biodiversity, and pack some water and snacks to fully enjoy a relaxing walk along its marked trails."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Radeln Sie zur charmanten Église Saint-Sauveur, und fahren Sie dann hinauf zu den historischen Ruinen des Château Saint-Sauveur.\n\nMittag: Fahren Sie nach Süden zur malerischen Chapelle Sainte-Philomène und genießen Sie eine erfrischende Pause bei Les Pelades.\n\nNachmittag: Stellen Sie sich der sportlichen Fahrt hinauf zu le Castellas, gefolgt von der Sternwarte von Rocbaron.\n\nAbend: Beenden Sie Ihren aktiven Tag mit einer ruhigen Fahrt durch die idyllischen Wege des Waldes von Rocbaron.",
+        "hu": "Délelőtt: Kerékpározzon el a bájos Église Saint-Sauveur templomhoz, majd tekerjen fel a Château Saint-Sauveur történelmi romjaihoz.\n\nDél: Haladjon délre, fedezze fel a festői Chapelle Sainte-Philomène kápolnát, és tartson frissítő szünetet a Les Pelades-nél.\n\nDélután: Tegye próbára magát a le Castellas meredek emelkedőjén, mielőtt lenyűgöző látogatást tesz a Rocbaron Csillagvizsgálóban.\n\nEste: Zárja ezt az aktív napot egy békés kerékpározással a Rocbaron-erdő csendes és varázslatos ösvényein.",
+        "ro": "Dimineața: Pedalați până la fermecătoarea Église Saint-Sauveur, apoi urcați spre ruinele istorice de la Château Saint-Sauveur.\n\nAmiaza: Mergeți spre sud pentru a descoperi pitoreasca Chapelle Sainte-Philomène și bucurați-vă de o pauză revigorantă la Les Pelades.\n\nDupă-amiaza: Provocați-vă cu o cursă până la le Castellas, urmată de o oprire fascinantă la Observatorul Rocbaron.\n\nSeara: Încheiați ziua dumneavoastră activă cu o plimbare pașnică prin traseele liniștite ale Pădurii Rocbaron.",
+        "en": "Morning: Cycle to the charming Église Saint-Sauveur, then pedal up to the historic ruins of Château Saint-Sauveur.\n\nMidday: Ride south to discover the quaint Chapelle Sainte-Philomène and enjoy a refreshing break at Les Pelades.\n\nAfternoon: Challenge yourself with a ride up to le Castellas, followed by a fascinating stop at the Rocbaron Observatory.\n\nEvening: Finish your active day with a peaceful ride through the serene trails of the Rocbaron Forest."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:10",
+      "total_km": 17.45,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Sauveur",
+            "hu": "Église Saint-Sauveur",
+            "ro": "Église Saint-Sauveur",
+            "en": "Église Saint-Sauveur"
+          },
+          "coords": [
+            6.090723,
+            43.304321
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser zentralen Kirche, die das religiöse Erbe der Region widerspiegelt, und achten Sie besonders auf die detaillierten Buntglasfenster, bevor Sie weitergehen.",
+            "hu": "Csodálja meg a központi templom helyi vallási örökséget tükröző békés építészetét, és mindenképpen figyelje meg a részletgazdag ólomüveg ablakokat a továbbindulás előtt.",
+            "ro": "Admirați arhitectura senină a acestei biserici centrale ce reflectă moștenirea religioasă locală și observați detaliile vitraliilor superbe înainte de a vă continua drumul.",
+            "en": "Admire the serene architecture of this central church, reflecting local religious heritage, and make sure to notice the beautifully detailed stained glass windows before continuing."
+          }
+        },
+        {
+          "name": {
+            "de": "Château Saint-Sauveur",
+            "hu": "Château Saint-Sauveur",
+            "ro": "Château Saint-Sauveur",
+            "en": "Château Saint-Sauveur"
+          },
+          "coords": [
+            6.096338,
+            43.300072
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.64,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Ruinen dieses alten Schlosses, das Einblicke in mittelalterliche Verteidigungsstrategien bietet, und tragen Sie festes Schuhwerk für die unebenen Wege.",
+            "hu": "Fedezze fel a középkori védelmi stratégiákba bepillantást engedő ősi kastély történelmi romjait, és viseljen kényelmes túracipőt, mivel a terület körüli ösvények meglehetősen egyenetlenek.",
+            "ro": "Explorați ruinele istorice ale acestui castel antic ce oferă o perspectivă asupra apărării medievale și purtați încălțăminte comodă, deoarece potecile pot fi destul de accidentate.",
+            "en": "Explore the historic ruins of this ancient local château that offers a glimpse into medieval defense strategies, and wear sturdy walking shoes as the pathways around the site can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Sainte-Philomène",
+            "hu": "Chapelle Sainte-Philomène",
+            "ro": "Chapelle Sainte-Philomène",
+            "en": "Chapelle Sainte-Philomène"
+          },
+          "coords": [
+            6.101387,
+            43.284745
+          ],
+          "category": "religious",
+          "arrive_at": "11:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.74,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese malerische Kapelle, die von der tiefen ländlichen Spiritualität der Region zeugt, und respektieren Sie die ruhige Atmosphäre, indem Sie Ihr Telefon vorher ausschalten.",
+            "hu": "Látogasson el ebbe a békés kápolnába, amely a régió mély vidéki spiritualitásának állít emléket, és a belépés előtt kapcsolja ki telefonját a csendes légkör tiszteletben tartása érdekében.",
+            "ro": "Vizitați această capelă pitorească și liniștită ce stă mărturie spiritualității rurale profunde a regiunii și respectați atmosfera tăcută închizând telefonul înainte de a păși înăuntru.",
+            "en": "Visit this quaint and peaceful chapel that stands as a testament to the region's deep rural spirituality, and respect the quiet atmosphere by turning off your phone before stepping inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Pelades",
+            "hu": "Les Pelades",
+            "ro": "Les Pelades",
+            "en": "Les Pelades"
+          },
+          "coords": [
+            6.083427,
+            43.279247
+          ],
+          "category": "natural",
+          "arrive_at": "12:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.57,
+          "tip_5lang": {
+            "de": "Machen Sie eine erholsame Pause in diesem wunderschönen Naturschutzgebiet, und bleiben Sie unbedingt auf den ausgewiesenen Wegen, um die empfindliche lokale Flora zu schützen.",
+            "hu": "Tartson egy frissítő szünetet ebben az egyedülálló geológiai képződményeiről ismert gyönyörű természetvédelmi területen, és maradjon a kijelölt ösvényeken az érzékeny flóra védelme érdekében.",
+            "ro": "Faceți o pauză revigorantă în această rezervație naturală recunoscută pentru formațiunile sale geologice unice și rămâneți pe potecile marcate pentru a proteja flora locală delicată.",
+            "en": "Take a revitalizing break at this beautiful natural reserve known for its unique geological formations, and stay on the designated paths to help protect the delicate local flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Jean-Baptiste",
+            "hu": "Keresztelő Szent János-templom",
+            "ro": "Biserica Saint-Jean-Baptiste",
+            "en": "Saint-Jean-Baptiste Church"
+          },
+          "coords": [
+            6.013059,
+            43.310756
+          ],
+          "category": "religious",
+          "arrive_at": "13:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.68,
+          "tip_5lang": {
+            "de": "Schätzen Sie den historischen Charme dieser etwas abgelegenen Kirche mit ihrem markanten Baustil, und werfen Sie vor dem Gehen einen Blick auf das schwarze Brett für Gemeindeinfos.",
+            "hu": "Értékelje e kissé távolabbi templom történelmi varázsát és jellegzetes építészeti stílusát, és távozás előtt feltétlenül nézze meg a kinti hirdetőtáblát a közösségi eseményekért.",
+            "ro": "Apreciați farmecul istoric al acestei biserici puțin mai îndepărtate cu stilul său arhitectural distinctiv și verificați avizierul de afară pentru evenimentele comunitare înainte de a pleca.",
+            "en": "Appreciate the historical charm of this slightly distant church with its distinctive architectural style, and check the notice board outside for information on community events before leaving."
+          }
+        },
+        {
+          "name": {
+            "de": "le Castellas",
+            "hu": "le Castellas",
+            "ro": "le Castellas",
+            "en": "le Castellas"
+          },
+          "coords": [
+            6.090111,
+            43.3265
+          ],
+          "category": "castle",
+          "arrive_at": "14:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 6.44,
+          "tip_5lang": {
+            "de": "Steigen Sie zu diesen faszinierenden Überresten der mittelalterlichen Festung hinauf, die die Landschaft dominiert, und bringen Sie eine Kamera für die atemberaubende Aussicht mit.",
+            "hu": "Másszon fel a helyi tájat uraló, lenyűgöző középkori erődítmény maradványaihoz, és ne felejtsen el fényképezőgépet hozni a völgyre nyíló csodálatos panoráma megörökítéséhez.",
+            "ro": "Urcați la aceste fascinante ruine ale fortificației medievale ce domină peisajul local și luați un aparat foto pentru a surprinde vederea panoramică uluitoare asupra văii.",
+            "en": "Climb up to these fascinating medieval fortification remains which dominate the local landscape, and bring a camera for the stunning panoramic views over the valley below."
+          }
+        },
+        {
+          "name": {
+            "de": "Observatorium von Rocbaron",
+            "hu": "Rocbaron Csillagvizsgáló",
+            "ro": "Observatorul Rocbaron",
+            "en": "Rocbaron Observatory"
+          },
+          "coords": [
+            6.088347,
+            43.323267
+          ],
+          "category": "cultural",
+          "arrive_at": "15:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Wunder des Himmels in dieser bekannten Sternwarte mit hochwertigen Teleskopen, und prüfen Sie den Zeitplan für die Sonnenbeobachtung bei einem Besuch am Tag.",
+            "hu": "Fedezze fel az égbolt csodáit a kiváló minőségű távcsöveiről ismert helyi csillagvizsgálóban, és nappali látogatás esetén mindenképpen tájékozódjon a napmegfigyelési programokról.",
+            "ro": "Descoperiți minunile cerului la acest observator renumit pentru telescoapele sale de înaltă calitate și verificați programul de observații solare dacă îl vizitați în timpul zilei.",
+            "en": "Discover the wonders of the night sky at this renowned local observatory, which is known for its high-quality telescopes, so try to check their solar observation schedule if visiting during the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Wald von Rocbaron",
+            "hu": "Rocbaron-erdő",
+            "ro": "Pădurea Rocbaron",
+            "en": "Rocbaron Forest"
+          },
+          "coords": [
+            6.088347,
+            43.323267
+          ],
+          "category": "natural",
+          "arrive_at": "17:25",
+          "stay_min": 105,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die friedliche Natur dieses ausgedehnten Waldökosystems, und packen Sie unbedingt Wasser und Snacks ein, um einen entspannten Spaziergang auf den Wegen zu genießen.",
+            "hu": "Merüljön el a helyi biológiai sokféleséget védő, kiterjedt erdei ökoszisztéma nyugalmában, és hozzon magával vizet, hogy teljes mértékben kiélvezhesse a kijelölt ösvényeken tett sétát.",
+            "ro": "Cufundați-vă în natura liniștită a acestui ecosistem forestier care protejează biodiversitatea locală și luați cu dumneavoastră apă pentru a vă bucura de o plimbare relaxantă pe trasee.",
+            "en": "Immerse yourself in the tranquil nature of this sprawling forest ecosystem that protects local biodiversity, and pack some water and snacks to fully enjoy a relaxing walk along its marked trails."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Fahren Sie ins Zentrum zur Église Saint-Sauveur und machen Sie dann einen kurzen Ausflug zum Château Saint-Sauveur.\n\nMittag: Fahren Sie nach Süden zur Chapelle Sainte-Philomène und Les Pelades, und dann westlich zur Saint-Jean-Baptiste-Kirche.\n\nNachmittag: Fahren Sie hinauf zu den majestätischen Ruinen von le Castellas, bevor Sie einen lehrreichen Besuch in der Sternwarte machen.\n\nAbend: Lassen Sie Ihren Roadtrip mit einem ruhigen Spaziergang zum Sonnenuntergang im wunderschönen Wald von Rocbaron ausklingen.",
+        "hu": "Délelőtt: Vezessen a központba, hogy megnézze az Église Saint-Sauveur-t, majd tegyen egy rövid utat a Château Saint-Sauveur felé.\n\nDél: Utazzon délre a Chapelle Sainte-Philomène és a Les Pelades megtekintéséhez, majd haladjon nyugatra a Keresztelő Szent János-templomhoz.\n\nDélután: Látogasson el a le Castellas fenséges romjaihoz, mielőtt egy oktatási célú megállót tartana a Csillagvizsgálóban.\n\nEste: Zárja autós kirándulását egy békés naplementés sétával a Rocbaron-erdő varázslatos és gyönyörű fáinak árnyékában.",
+        "ro": "Dimineața: Conduceți în centru pentru a vizita Église Saint-Sauveur, apoi faceți o scurtă călătorie pentru a explora Château Saint-Sauveur.\n\nAmiaza: Mergeți spre sud pentru Chapelle Sainte-Philomène și Les Pelades, apoi conduceți spre vest la Biserica Saint-Jean-Baptiste.\n\nDupă-amiaza: Conduceți până la ruinele maiestuoase de la le Castellas înainte de o vizită educativă la Observatorul Rocbaron.\n\nSeara: Încheiați-vă călătoria cu mașina printr-o plimbare liniștită la apus în magnifica Pădure Rocbaron.",
+        "en": "Morning: Drive to the center to visit Église Saint-Sauveur, then take a short trip to explore Château Saint-Sauveur.\n\nMidday: Cruise south to see Chapelle Sainte-Philomène and Les Pelades, then drive west to the historic Saint-Jean-Baptiste Church.\n\nAfternoon: Drive up to the majestic ruins of le Castellas before an educational visit to the Rocbaron Observatory.\n\nEvening: Wind down your road trip with a tranquil sunset walk within the beautiful Rocbaron Forest."
+      }
+    }
+  }
+}

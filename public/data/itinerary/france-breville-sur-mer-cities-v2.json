@@ -1,0 +1,543 @@
+{
+  "city_id": "france-breville-sur-mer-cities-v2",
+  "anchor": {
+    "name": "Bréville-sur-Mer",
+    "coords": [
+      -1.5577,
+      48.86511
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:58",
+      "total_km": 3.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Notre-Dame",
+            "hu": "Église Notre-Dame",
+            "ro": "Église Notre-Dame",
+            "en": "Église Notre-Dame"
+          },
+          "coords": [
+            -1.558092,
+            48.863524
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotischen Elemente der Église Notre-Dame und besuchen Sie sie am Vormittag, um das ruhige Innere bei bestem Licht zu fotografieren.",
+            "hu": "Fedezze fel a Notre-Dame templom gótikus elemeit, és látogasson el ide délelőtt, hogy a legjobb fényviszonyok között fényképezhesse a nyugodt belső teret.",
+            "ro": "Explorați elementele gotice ale Bisericii Notre-Dame și vizitați-o dimineața pentru a fotografia interiorul liniștit în cea mai bună lumină.",
+            "en": "Explore the Gothic elements of the Église Notre-Dame and visit in the morning to photograph its peaceful interior in the best lighting conditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir du Vau Février",
+            "hu": "Manoir du Vau Février",
+            "ro": "Manoir du Vau Février",
+            "en": "Manoir du Vau Février"
+          },
+          "coords": [
+            -1.55333,
+            48.864681
+          ],
+          "category": "historical",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Betrachten Sie die traditionelle normannische Architektur dieses Herrenhauses, das ein echtes historisches Juwel ist; achten Sie auf die steinernen Details von der Straße aus.",
+            "hu": "Tekintse meg a hagyományos normann építészetet ezen a történelmi kúrián; figyeljen a kőből faragott részletekre az utcáról nézve.",
+            "ro": "Observați arhitectura tradițională normandă a acestui conac istoric; acordați atenție detaliilor sculptate în piatră vizibile de pe stradă.",
+            "en": "Observe the traditional Norman architecture of this historic manor; pay special attention to the stone-carved details visible from the street."
+          }
+        },
+        {
+          "name": {
+            "de": "Château du Vau Terteux",
+            "hu": "Château du Vau Terteux",
+            "ro": "Château du Vau Terteux",
+            "en": "Château du Vau Terteux"
+          },
+          "coords": [
+            -1.543246,
+            48.869036
+          ],
+          "category": "castle",
+          "arrive_at": "11:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.87,
+          "tip_5lang": {
+            "de": "Entdecken Sie die malerische Fassade dieses Schlosses aus dem 19. Jahrhundert und machen Sie einen Spaziergang entlang der Außenmauer, um die beste Aussicht zu genießen.",
+            "hu": "Fedezze fel ennek a 19. századi kastélynak a festői homlokzatát, és sétáljon végig a külső fal mentén a legjobb kilátásért.",
+            "ro": "Descoperiți fațada pitorească a acestui castel din secolul al XIX-lea și faceți o plimbare de-a lungul zidului exterior pentru cele mai bune priveliști.",
+            "en": "Discover the picturesque facade of this 19th-century castle and take a stroll along the outer wall to enjoy the best panoramic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Longueville",
+            "hu": "Château de Longueville",
+            "ro": "Château de Longueville",
+            "en": "Château de Longueville"
+          },
+          "coords": [
+            -1.533521,
+            48.863474
+          ],
+          "category": "castle",
+          "arrive_at": "13:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.94,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die historischen Mauern von Château de Longueville, die von der reichen Vergangenheit der Region erzählen; bequeme Schuhe sind für das unebene Gelände empfehlenswert.",
+            "hu": "Csodálja meg a Château de Longueville történelmi falait, amelyek a régió gazdag múltjáról mesélnek; kényelmes cipő ajánlott az egyenetlen terep miatt.",
+            "ro": "Minunați-vă de zidurile istorice ale Château de Longueville care povestesc despre trecutul bogat al regiunii; se recomandă încălțăminte comodă pentru terenul accidentat.",
+            "en": "Marvel at the historic walls of Château de Longueville that tell of the region's rich past; comfortable walking shoes are recommended for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            -1.551465,
+            48.852988
+          ],
+          "category": "religious",
+          "arrive_at": "14:48",
+          "stay_min": 70,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.74,
+          "tip_5lang": {
+            "de": "Genießen Sie die spirituelle Atmosphäre der Église Saint-Pierre am späten Nachmittag, wenn das Licht durch die alten Kirchenfenster fällt und eine mystische Stimmung erzeugt.",
+            "hu": "Élvezze a Szent Péter-templom spirituális atmoszféráját a késő délutáni órákban, amikor a fény átsüt az ősi üvegablakokon, misztikus hangulatot teremtve.",
+            "ro": "Bucurați-vă de atmosfera spirituală a Bisericii Saint-Pierre la sfârșitul după-amiezii, când lumina pătrunde prin vitraliile vechi creând o stare mistică.",
+            "en": "Enjoy the spiritual atmosphere of Église Saint-Pierre in the late afternoon, as the light shines through the ancient stained-glass windows creating a mystical mood."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Am Morgen erkunden Sie die beeindruckende Église Notre-Dame und spazieren gemütlich zu den benachbarten historischen Herrenhäusern. Mittags tauchen Sie in die Architektur der Schlösser der Umgebung ein. Der Nachmittag bietet entspannte Spaziergänge zwischen grünen Landschaften und steinernen Monumenten. Am Abend finden Sie innere Ruhe bei einem Besuch der historischen Église Saint-Pierre.",
+        "hu": "Reggel fedezze fel a lenyűgöző Notre-Dame templomot, majd sétáljon át a közeli történelmi kúriákhoz. Délben elmerülhet a környező kastélyok fenséges építészetében. A délután pihentető sétákat kínál a zöldellő tájak és kőműemlékek között. Este találjon belső békére a történelmi Szent Péter-templom meglátogatásával és csendes atmoszférájával.",
+        "ro": "Dimineața veți explora impresionanta Biserică Notre-Dame și vă veți plimba spre conacele istorice vecine. La prânz, vă veți cufunda în arhitectura castelelor din împrejurimi. După-amiaza oferă plimbări relaxante printre peisaje verzi și monumente de piatră. Seara, veți găsi liniște interioară printr-o vizită la istorica Biserică Saint-Pierre.",
+        "en": "In the morning, explore the impressive Église Notre-Dame and stroll leisurely to the neighboring historic manors. At noon, immerse yourself in the architecture of the surrounding castles. The afternoon offers relaxing walks between green landscapes and stone monuments. In the evening, find inner peace with a visit to the historic Église Saint-Pierre."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:14",
+      "total_km": 6.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            -1.551465,
+            48.852988
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Radtour an der Église Saint-Pierre und bewundern Sie den markanten Glockenturm, bevor Sie weiter ins ländliche Umland fahren.",
+            "hu": "Kezdje kerékpártúráját a Szent Péter-templomnál, és csodálja meg a jellegzetes harangtornyot, mielőtt továbbkerekezne a vidéki tájon.",
+            "ro": "Începeți turul cu bicicleta la Biserica Saint-Pierre și admirați turnul cu clopot distinctiv înainte de a pedala mai departe în peisajul rural.",
+            "en": "Start your cycling tour at Église Saint-Pierre and admire the distinctive bell tower before pedaling further into the beautiful countryside."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir dit Pierre Aigüe",
+            "hu": "Menhir dit Pierre Aigüe",
+            "ro": "Menhir dit Pierre Aigüe",
+            "en": "Menhir dit Pierre Aigüe"
+          },
+          "coords": [
+            -1.557685,
+            48.854131
+          ],
+          "category": "historical",
+          "arrive_at": "09:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diesen prähistorischen Menhir, der ein stiller Zeuge der frühen Besiedlung ist, und nutzen Sie den Ort für eine kurze, erholsame Pause.",
+            "hu": "Vizsgálja meg ezt a történelem előtti menhírt, amely a korai letelepedés néma tanúja, és használja a helyszínt egy rövid, pihentető szünetre.",
+            "ro": "Examinați acest menhir preistoric, un martor tăcut al așezărilor timpurii, și folosiți locația pentru o scurtă pauză de relaxare.",
+            "en": "Examine this prehistoric menhir, a silent witness to early human settlement, and use the location for a short, relaxing break."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame",
+            "hu": "Église Notre-Dame",
+            "ro": "Église Notre-Dame",
+            "en": "Église Notre-Dame"
+          },
+          "coords": [
+            -1.558092,
+            48.863524
+          ],
+          "category": "religious",
+          "arrive_at": "11:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.04,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotischen Elemente der Église Notre-Dame und besuchen Sie sie am Vormittag, um das ruhige Innere bei bestem Licht zu fotografieren.",
+            "hu": "Fedezze fel a Notre-Dame templom gótikus elemeit, és látogasson el ide délelőtt, hogy a legjobb fényviszonyok között fényképezhesse a nyugodt belső teret.",
+            "ro": "Explorați elementele gotice ale Bisericii Notre-Dame și vizitați-o dimineața pentru a fotografia interiorul liniștit în cea mai bună lumină.",
+            "en": "Explore the Gothic elements of the Église Notre-Dame and visit in the morning to photograph its peaceful interior in the best lighting conditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir du Vau Février",
+            "hu": "Manoir du Vau Février",
+            "ro": "Manoir du Vau Février",
+            "en": "Manoir du Vau Février"
+          },
+          "coords": [
+            -1.55333,
+            48.864681
+          ],
+          "category": "historical",
+          "arrive_at": "12:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Betrachten Sie die traditionelle normannische Architektur dieses Herrenhauses, das ein echtes historisches Juwel ist; achten Sie auf die steinernen Details von der Straße aus.",
+            "hu": "Tekintse meg a hagyományos normann építészetet ezen a történelmi kúrián; figyeljen a kőből faragott részletekre az utcáról nézve.",
+            "ro": "Observați arhitectura tradițională normandă a acestui conac istoric; acordați atenție detaliilor sculptate în piatră vizibile de pe stradă.",
+            "en": "Observe the traditional Norman architecture of this historic manor; pay special attention to the stone-carved details visible from the street."
+          }
+        },
+        {
+          "name": {
+            "de": "Château du Vau Terteux",
+            "hu": "Château du Vau Terteux",
+            "ro": "Château du Vau Terteux",
+            "en": "Château du Vau Terteux"
+          },
+          "coords": [
+            -1.543246,
+            48.869036
+          ],
+          "category": "castle",
+          "arrive_at": "13:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.87,
+          "tip_5lang": {
+            "de": "Entdecken Sie die malerische Fassade dieses Schlosses aus dem 19. Jahrhundert und machen Sie einen Spaziergang entlang der Außenmauer, um die beste Aussicht zu genießen.",
+            "hu": "Fedezze fel ennek a 19. századi kastélynak a festői homlokzatát, és sétáljon végig a külső fal mentén a legjobb kilátásért.",
+            "ro": "Descoperiți fațada pitorească a acestui castel din secolul al XIX-lea și faceți o plimbare de-a lungul zidului exterior pentru cele mai bune priveliști.",
+            "en": "Discover the picturesque facade of this 19th-century castle and take a stroll along the outer wall to enjoy the best panoramic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Longueville",
+            "hu": "Château de Longueville",
+            "ro": "Château de Longueville",
+            "en": "Château de Longueville"
+          },
+          "coords": [
+            -1.533521,
+            48.863474
+          ],
+          "category": "castle",
+          "arrive_at": "14:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.94,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die historischen Mauern von Château de Longueville, die von der reichen Vergangenheit der Region erzählen; bequeme Schuhe sind für das unebene Gelände empfehlenswert.",
+            "hu": "Csodálja meg a Château de Longueville történelmi falait, amelyek a régió gazdag múltjáról mesélnek; kényelmes cipő ajánlott az egyenetlen terep miatt.",
+            "ro": "Minunați-vă de zidurile istorice ale Château de Longueville care povestesc despre trecutul bogat al regiunii; se recomandă încălțăminte comodă pentru terenul accidentat.",
+            "en": "Marvel at the historic walls of Château de Longueville that tell of the region's rich past; comfortable walking shoes are recommended for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Bréville-sur-Mer",
+            "hu": "Bréville-sur-Mer",
+            "ro": "Bréville-sur-Mer",
+            "en": "Bréville-sur-Mer"
+          },
+          "coords": [
+            -1.574399,
+            48.875308
+          ],
+          "category": "recreational",
+          "arrive_at": "16:29",
+          "stay_min": 105,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.25,
+          "tip_5lang": {
+            "de": "Erholen Sie sich am Strandbereich von Bréville-sur-Mer, genießen Sie die frische Meeresbrise und parken Sie Ihr Fahrrad sicher an der Promenade.",
+            "hu": "Pihenjen meg Bréville-sur-Mer partszakaszán, élvezze a friss tengeri szellőt, és parkolja le biztonságosan kerékpárját a sétányon.",
+            "ro": "Relaxați-vă pe zona de plajă din Bréville-sur-Mer, bucurați-vă de briza proaspătă a mării și parcați-vă bicicleta în siguranță pe promenadă.",
+            "en": "Relax at the beach area of Bréville-sur-Mer, enjoy the fresh sea breeze, and park your bicycle safely along the scenic promenade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Vormittag beginnt spirituell an der Église Saint-Pierre, bevor Sie zum geheimnisvollen prähistorischen Menhir radeln. Mittags genießen Sie die fesselnde Architektur der lokalen Herrenhäuser und Kirchen auf zwei Rädern. Nachmittags führt Sie die Route an majestätischen Schlössern vorbei in die Natur. Der Tag endet mit einer entspannenden Brise am Strand von Bréville-sur-Mer.",
+        "hu": "A délelőtt spirituálisan indul a Szent Péter-templomnál, mielőtt eltekerne a rejtélyes történelem előtti menhírhez. Délben két keréken élvezheti a helyi kúriák és templomok lenyűgöző építészetét. Délután az útvonal fenséges kastélyok mellett vezet a természetbe. A nap Bréville-sur-Mer tengerpartjának pihentető szellőjével és csodálatos naplementéjével zárul.",
+        "ro": "Dimineața începe spiritual la Biserica Saint-Pierre înainte de a pedala spre misteriosul menhir preistoric. La prânz, bucurați-vă de arhitectura captivantă a conacelor și bisericilor locale pe două roți. După-amiaza, traseul vă duce pe lângă castele maiestuoase în natură. Ziua se încheie cu o briză relaxantă pe plaja din Bréville-sur-Mer.",
+        "en": "The morning begins spiritually at Église Saint-Pierre before cycling to the mysterious prehistoric menhir. At noon, enjoy the captivating architecture of local manors and churches on two wheels. In the afternoon, the route leads you past majestic castles into nature. The day concludes with a relaxing sea breeze on the beach of Bréville-sur-Mer."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:17",
+      "total_km": 9.5,
+      "stop_count": 9,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Pair",
+            "hu": "Église Saint-Pair",
+            "ro": "Église Saint-Pair",
+            "en": "Église Saint-Pair"
+          },
+          "coords": [
+            -1.559206,
+            48.84597
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Fahrt an der Église Saint-Pair, wo Sie die schlichte Eleganz der normannischen Bauweise schätzen lernen; nutzen Sie die Parkplätze in der Nähe.",
+            "hu": "Kezdje útját a Saint-Pair templomnál, ahol megismerheti a normann építészet egyszerű eleganciáját; használja a közeli ingyenes parkolókat.",
+            "ro": "Începeți călătoria la Biserica Saint-Pair, unde veți aprecia eleganța simplă a designului normand; utilizați locurile de parcare din apropiere.",
+            "en": "Begin your drive at Église Saint-Pair, where you will appreciate the simple elegance of Norman design; take advantage of the nearby parking spots."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame de Lourdes",
+            "hu": "Église Notre-Dame de Lourdes",
+            "ro": "Église Notre-Dame de Lourdes",
+            "en": "Église Notre-Dame de Lourdes"
+          },
+          "coords": [
+            -1.57677,
+            48.84891
+          ],
+          "category": "religious",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.32,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese charmante lokale Kirche und achten Sie auf die gut erhaltenen Holzdetails; es gibt meist genügend Parkmöglichkeiten direkt vor Ort.",
+            "hu": "Tekintse meg ezt a bájos helyi templomot, és figyelje meg a jól karbantartott fa részleteket; általában elegendő parkolóhely van közvetlenül a helyszínen.",
+            "ro": "Vizitați această biserică locală fermecătoare și observați detaliile din lemn bine conservate; există de obicei suficiente locuri de parcare chiar la fața locului.",
+            "en": "Visit this charming local church and observe the well-preserved wooden details; there is usually ample parking available directly on-site."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Clair",
+            "hu": "Église Saint-Clair",
+            "ro": "Église Saint-Clair",
+            "en": "Église Saint-Clair"
+          },
+          "coords": [
+            -1.568726,
+            48.855488
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.94,
+          "tip_5lang": {
+            "de": "Entdecken Sie die versteckte Église Saint-Clair, ein perfektes Beispiel ländlicher Sakralbauten; fahren Sie vorsichtig auf den engen Zufahrtsstraßen.",
+            "hu": "Fedezze fel a rejtett Saint-Clair templomot, a vidéki szakrális építészet tökéletes példáját; vezessen óvatosan a szűk bekötőutakon.",
+            "ro": "Descoperiți Biserica Saint-Clair ascunsă, un exemplu perfect de arhitectură sacră rurală; conduceți cu atenție pe drumurile de acces înguste.",
+            "en": "Discover the hidden Église Saint-Clair, a perfect example of rural sacred architecture; drive carefully on the narrow access roads leading there."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir dit Pierre Aigüe",
+            "hu": "Menhir dit Pierre Aigüe",
+            "ro": "Menhir dit Pierre Aigüe",
+            "en": "Menhir dit Pierre Aigüe"
+          },
+          "coords": [
+            -1.557685,
+            48.854131
+          ],
+          "category": "historical",
+          "arrive_at": "11:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.82,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diesen prähistorischen Menhir, der ein stiller Zeuge der frühen Besiedlung ist, und nutzen Sie den Ort für eine kurze, erholsame Pause.",
+            "hu": "Vizsgálja meg ezt a történelem előtti menhírt, amely a korai letelepedés néma tanúja, és használja a helyszínt egy rövid, pihentető szünetre.",
+            "ro": "Examinați acest menhir preistoric, un martor tăcut al așezărilor timpurii, și folosiți locația pentru o scurtă pauză de relaxare.",
+            "en": "Examine this prehistoric menhir, a silent witness to early human settlement, and use the location for a short, relaxing break."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir Sainte-Marie",
+            "hu": "Manoir Sainte-Marie",
+            "ro": "Manoir Sainte-Marie",
+            "en": "Manoir Sainte-Marie"
+          },
+          "coords": [
+            -1.53394,
+            48.856866
+          ],
+          "category": "historical",
+          "arrive_at": "12:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.76,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposante Fassade des Manoir Sainte-Marie, das tiefe Einblicke in die lokale Adelsgeschichte bietet; parken Sie respektvoll am Straßenrand.",
+            "hu": "Csodálja meg a Manoir Sainte-Marie impozáns homlokzatát, amely mély betekintést nyújt a helyi nemesség történelmébe; parkoljon tisztelettudóan az út szélén.",
+            "ro": "Admirați fațada impunătoare a Manoir Sainte-Marie, care oferă o perspectivă profundă asupra istoriei nobiliare locale; parcați respectuos pe marginea drumului.",
+            "en": "Admire the imposing facade of Manoir Sainte-Marie, which offers deep insights into local noble history; park respectfully on the edge of the road."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Longueville",
+            "hu": "Château de Longueville",
+            "ro": "Château de Longueville",
+            "en": "Château de Longueville"
+          },
+          "coords": [
+            -1.533521,
+            48.863474
+          ],
+          "category": "castle",
+          "arrive_at": "14:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.73,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die historischen Mauern von Château de Longueville, die von der reichen Vergangenheit der Region erzählen; bequeme Schuhe sind für das unebene Gelände empfehlenswert.",
+            "hu": "Csodálja meg a Château de Longueville történelmi falait, amelyek a régió gazdag múltjáról mesélnek; kényelmes cipő ajánlott az egyenetlen terep miatt.",
+            "ro": "Minunați-vă de zidurile istorice ale Château de Longueville care povestesc despre trecutul bogat al regiunii; se recomandă încălțăminte comodă pentru terenul accidentat.",
+            "en": "Marvel at the historic walls of Château de Longueville that tell of the region's rich past; comfortable walking shoes are recommended for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Château du Vau Terteux",
+            "hu": "Château du Vau Terteux",
+            "ro": "Château du Vau Terteux",
+            "en": "Château du Vau Terteux"
+          },
+          "coords": [
+            -1.543246,
+            48.869036
+          ],
+          "category": "castle",
+          "arrive_at": "15:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.94,
+          "tip_5lang": {
+            "de": "Entdecken Sie die malerische Fassade dieses Schlosses aus dem 19. Jahrhundert und machen Sie einen Spaziergang entlang der Außenmauer, um die beste Aussicht zu genießen.",
+            "hu": "Fedezze fel ennek a 19. századi kastélynak a festői homlokzatát, és sétáljon végig a külső fal mentén a legjobb kilátásért.",
+            "ro": "Descoperiți fațada pitorească a acestui castel din secolul al XIX-lea și faceți o plimbare de-a lungul zidului exterior pentru cele mai bune priveliști.",
+            "en": "Discover the picturesque facade of this 19th-century castle and take a stroll along the outer wall to enjoy the best panoramic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame",
+            "hu": "Église Notre-Dame",
+            "ro": "Église Notre-Dame",
+            "en": "Église Notre-Dame"
+          },
+          "coords": [
+            -1.558092,
+            48.863524
+          ],
+          "category": "religious",
+          "arrive_at": "16:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.24,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotischen Elemente der Église Notre-Dame und besuchen Sie sie am Vormittag, um das ruhige Innere bei bestem Licht zu fotografieren.",
+            "hu": "Fedezze fel a Notre-Dame templom gótikus elemeit, és látogasson el ide délelőtt, hogy a legjobb fényviszonyok között fényképezhesse a nyugodt belső teret.",
+            "ro": "Explorați elementele gotice ale Bisericii Notre-Dame și vizitați-o dimineața pentru a fotografia interiorul liniștit în cea mai bună lumină.",
+            "en": "Explore the Gothic elements of the Église Notre-Dame and visit in the morning to photograph its peaceful interior in the best lighting conditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Bréville-sur-Mer",
+            "hu": "Bréville-sur-Mer",
+            "ro": "Bréville-sur-Mer",
+            "en": "Bréville-sur-Mer"
+          },
+          "coords": [
+            -1.574399,
+            48.875308
+          ],
+          "category": "recreational",
+          "arrive_at": "17:32",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.77,
+          "tip_5lang": {
+            "de": "Erholen Sie sich am Strandbereich von Bréville-sur-Mer, genießen Sie die frische Meeresbrise und parken Sie Ihr Fahrrad sicher an der Promenade.",
+            "hu": "Pihenjen meg Bréville-sur-Mer partszakaszán, élvezze a friss tengeri szellőt, és parkolja le biztonságosan kerékpárját a sétányon.",
+            "ro": "Relaxați-vă pe zona de plajă din Bréville-sur-Mer, bucurați-vă de briza proaspătă a mării și parcați-vă bicicleta în siguranță pe promenadă.",
+            "en": "Relax at the beach area of Bréville-sur-Mer, enjoy the fresh sea breeze, and park your bicycle safely along the scenic promenade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour startet im Süden mit der charmanten Église Saint-Pair und führt Sie zu weiteren ruhigen Dorfkirchen. Die Mittagszeit ist geprägt von den massiven Steinblöcken des Menhirs und historischen Anwesen. Nachmittags durchqueren Sie das Umland, um die prächtigen Schlösser in vollen Zügen zu bewundern. Der Abend klingt an der ruhigen Küstenlinie bei Bréville-sur-Mer sanft aus.",
+        "hu": "Autóstúrája délen kezdődik a bájos Saint-Pair templomnál, és további csendes falusi templomokhoz vezet. A delet a menhír hatalmas kőtömbjei és történelmi birtokok fémjelzik. Délután átszelheti a vidéket, hogy teljes mértékben megcsodálhassa a pompás kastélyokat. Az este lágyan, Bréville-sur-Mer nyugodt partvonalánál ér véget kellemes kikapcsolódással.",
+        "ro": "Turul cu mașina începe în sud cu fermecătoarea Biserică Saint-Pair și vă duce la alte biserici liniștite din sat. Prânzul este marcat de blocurile masive de piatră ale menhirului și de proprietățile istorice. După-amiaza veți traversa peisajul rural pentru a admira castelele magnifice. Seara se încheie blând pe coasta liniștită de la Bréville-sur-Mer.",
+        "en": "Your driving tour starts in the south with the charming Église Saint-Pair and leads you to other quiet village churches. Noon is marked by the massive stone blocks of the menhir and historic estates. In the afternoon, cross the countryside to fully admire the magnificent castles. The evening fades out gently on the tranquil coastline at Bréville-sur-Mer."
+      }
+    }
+  }
+}

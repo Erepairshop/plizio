@@ -1,0 +1,428 @@
+{
+  "city_id": "mataram-cities-v2",
+  "anchor": {
+    "name": "Mataram",
+    "coords": [
+      116.117,
+      -8.583
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:49",
+      "total_km": 2.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Makam Pahlawan Nasional",
+            "hu": "Makam Pahlawan Nasional",
+            "ro": "Makam Pahlawan Nasional",
+            "en": "Makam Pahlawan Nasional"
+          },
+          "coords": [
+            116.12224,
+            -8.580526
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie Matarams Geschichte auf diesem feierlichen Heldenfriedhof zu Ehren lokaler Unabhängigkeitskämpfer, der am besten morgens für kühlere Temperaturen besucht wird.",
+            "hu": "Fedezze fel Mataram történelmét ezen az ünnepélyes hősi temetőn, amely a helyi függetlenségi harcosoknak állít emléket, és amelyet a hűvösebb reggeli órákban érdemes felkeresni.",
+            "ro": "Descoperiți istoria Mataramului la acest cimitir solemn al eroilor, onorând luptătorii locali pentru independență, cel mai bine vizitat dimineața pentru o temperatură plăcută.",
+            "en": "Discover Mataram's history at this solemn heroes' cemetery honoring local independence fighters, best visited early in the morning for cooler temperatures and quiet reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Kencana Warsa Mandika",
+            "hu": "Kencana Warsa Mandika",
+            "ro": "Kencana Warsa Mandika",
+            "en": "Kencana Warsa Mandika"
+          },
+          "coords": [
+            116.11815,
+            -8.586413
+          ],
+          "category": "historical",
+          "arrive_at": "10:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses wichtige historische Wahrzeichen, das das lokale architektonische Erbe zeigt, und bringen Sie unbedingt einen breitkrempigen Hut für die Außenbereiche mit.",
+            "hu": "Fedezze fel ezt a fontos történelmi nevezetességet, amely a helyi építészeti örökséget mutatja be, és ne felejtsen el széles karimájú kalapot hozni a szabadtéri részekhez.",
+            "ro": "Explorați acest important punct de reper istoric care prezintă patrimoniul arhitectural local, asigurându-vă că aduceți o pălărie cu boruri largi pentru secțiunile în aer liber.",
+            "en": "Explore this important historical landmark that showcases local architectural heritage and regional governance history, making sure to bring a wide-brimmed hat for the outdoor sections."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumen General Majoor P.P.H. Van Ham",
+            "hu": "Monumen General Majoor P.P.H. Van Ham",
+            "ro": "Monumen General Majoor P.P.H. Van Ham",
+            "en": "Monumen General Majoor P.P.H. Van Ham"
+          },
+          "coords": [
+            116.118428,
+            -8.588543
+          ],
+          "category": "historical",
+          "arrive_at": "12:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses beeindruckende Denkmal aus der Kolonialzeit, das an die niederländische Militärgeschichte erinnert, wo die Informationstafeln wichtigen Kontext bieten.",
+            "hu": "Tekintse meg ezt a feltűnő gyarmati kori emlékművet, amely a holland hadtörténetre emlékezik Lombokon, ahol az információs táblák elolvasása elengedhetetlen a múlt megértéséhez.",
+            "ro": "Observați acest monument impresionant din epoca colonială care comemorează istoria militară olandeză, unde citirea plăcilor informative oferă un context esențial pentru trecut.",
+            "en": "Observe this striking colonial-era monument commemorating Dutch military history in Lombok, where reading the informational plaques provides essential context for the island's past."
+          }
+        },
+        {
+          "name": {
+            "de": "Gereja Santa Maria Immaculata, Mataram",
+            "hu": "Gereja Santa Maria Immaculata, Mataram",
+            "ro": "Gereja Santa Maria Immaculata, Mataram",
+            "en": "Gereja Santa Maria Immaculata, Mataram"
+          },
+          "coords": [
+            116.110845,
+            -8.583734
+          ],
+          "category": "religious",
+          "arrive_at": "13:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne Architektur dieser friedlichen katholischen Kirche, wobei Sie bedenken sollten, dass bescheidene Kleidung, die Schultern und Knie bedeckt, Pflicht ist.",
+            "hu": "Csodálja meg a helyi közösséget szolgáló békés katolikus templom gyönyörű építészetét, de tartsa szem előtt, hogy a vállakat és térdeket elfedő szerény öltözet szigorúan kötelező.",
+            "ro": "Admirați arhitectura frumoasă a acestei biserici catolice pașnice care servește comunitatea locală, ținând cont că o ținută modestă care acoperă umerii și genunchii este strict necesară.",
+            "en": "Admire the beautiful architecture of this peaceful Catholic church serving the local community, keeping in mind that modest dress covering shoulders and knees is strictly required."
+          }
+        },
+        {
+          "name": {
+            "de": "Sanggar Tari Pharamitha",
+            "hu": "Sanggar Tari Pharamitha",
+            "ro": "Sanggar Tari Pharamitha",
+            "en": "Sanggar Tari Pharamitha"
+          },
+          "coords": [
+            116.106254,
+            -8.585001
+          ],
+          "category": "cultural",
+          "arrive_at": "14:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erleben Sie den lebendigen Rhythmus traditioneller indonesischer Tänze in diesem renommierten Kulturstudio, wo ein Blick auf den Tagesplan eine Live-Probe garantiert.",
+            "hu": "Tapasztalja meg a hagyományos indonéz tánc élénk ritmusát ebben a neves kulturális stúdióban, ahol a napi beosztás előzetes ellenőrzése biztosítja, hogy elcsípjen egy élő próbát.",
+            "ro": "Experimentați ritmul vibrant al dansului tradițional indonezian la acest studio cultural renumit, unde verificarea programului zilnic vă asigură că prindeți o repetiție live.",
+            "en": "Experience the vibrant rhythm of traditional Indonesian dance at this renowned cultural studio, where checking the daily schedule in advance ensures you catch a live rehearsal."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einem respektvollen Spaziergang über den Heldenfriedhof und genießen Sie die kühle Luft. Mittags tauchen Sie in die regionale Geschichte und Kolonialarchitektur ein, während die Stadt erwacht. Der Nachmittag bietet friedliche Besinnung in der örtlichen katholischen Kirche im kühlen Schatten. Beenden Sie Ihren Abend, indem Sie in traditionelle Tanzrhythmen eintauchen und den wahren kulturellen Herzschlag Matarams spüren.",
+        "hu": "Kezdje a reggelt egy tiszteletteljes sétával a hősi temetőben, élvezve a friss levegőt és a csendes elmélkedést. Délben elmerülhet a regionális történelemben és a gyarmati építészetben, ahogy a város felébred. A délután békés szemlélődésre vált a helyi katolikus templom hűs árnyékában. Végül zárja az estét a hagyományos táncritmusokba merülve, megragadva Mataram valódi kulturális lüktetését.",
+        "ro": "Începeți dimineața cu o plimbare respectuoasă prin cimitirul eroilor, bucurându-vă de aerul proaspăt și de reflecția liniștită. La prânz, vă veți scufunda în istoria regională și arhitectura colonială pe măsură ce orașul se trezește. După-amiaza se transformă într-o contemplare pașnică în biserica catolică locală, oferind umbră răcoroasă. În cele din urmă, încheiați-vă seara cufundându-vă în ritmuri de dans tradițional.",
+        "en": "Start your morning with a respectful stroll through the heroes' cemetery, embracing the crisp air and quiet reflection. By midday, you'll be diving into regional history and colonial architecture as the city wakes up around you. The afternoon shifts to peaceful contemplation in the local Catholic church, offering cool shade. Finally, cap off your evening by immersing yourself in traditional dance rhythms, capturing the true cultural heartbeat of Mataram."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:47",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cock fighting",
+            "hu": "Kakasviadal (Cock fighting)",
+            "ro": "Lupte de cocoși",
+            "en": "Cock fighting"
+          },
+          "coords": [
+            116.128661,
+            -8.590008
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erleben Sie ein höchst traditionelles und tief verwurzeltes kulturelles Spektakel, aber seien Sie auf eine sehr laute und intensive Atmosphäre vorbereitet, die nicht für jeden ist.",
+            "hu": "Legyen tanúja egy rendkívül hagyományos és mélyen gyökerező kulturális látványosságnak, de készüljön fel egy nagyon hangos és intenzív légkörre, amely nem mindenkinek való.",
+            "ro": "Asistați la un spectacol cultural extrem de tradițional și profund înrădăcinat, dar fiți pregătiți pentru o atmosferă foarte zgomotoasă și intensă, care nu este pentru oricine.",
+            "en": "Witness a highly traditional and deeply entrenched cultural spectacle unique to local rural life, but be prepared for a very loud and intense atmosphere that is not for everyone."
+          }
+        },
+        {
+          "name": {
+            "de": "Makam Pahlawan Nasional",
+            "hu": "Makam Pahlawan Nasional",
+            "ro": "Makam Pahlawan Nasional",
+            "en": "Makam Pahlawan Nasional"
+          },
+          "coords": [
+            116.12224,
+            -8.580526
+          ],
+          "category": "historical",
+          "arrive_at": "10:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem würdigen Nationalheldenfriedhof inne, um das Erbe lokaler Freiheitskämpfer zu ehren, und nutzen Sie die friedlichen Gartenwege für einen ruhigen Spaziergang.",
+            "hu": "Álljon meg ezen a méltóságteljes nemzeti hősi temetőn, hogy tisztelegjen a helyi szabadságharcosok öröksége előtt, és használja ki a békés kerti utakat egy csendes sétára.",
+            "ro": "Opriți-vă la acest cimitir demn al eroilor naționali pentru a onora moștenirea luptătorilor pentru libertate, profitând de aleile pașnice ale grădinii pentru o plimbare liniștită.",
+            "en": "Pause at this dignified national heroes' cemetery to honor the legacy of local freedom fighters, taking advantage of the peaceful garden pathways for a quiet morning stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Kencana Warsa Mandika",
+            "hu": "Kencana Warsa Mandika",
+            "ro": "Kencana Warsa Mandika",
+            "en": "Kencana Warsa Mandika"
+          },
+          "coords": [
+            116.11815,
+            -8.586413
+          ],
+          "category": "historical",
+          "arrive_at": "11:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die regionale Verwaltungsgeschichte ein, indem Sie diesen gut erhaltenen Komplex besichtigen, wobei ein lokaler Führer am Eingang Ihr Verständnis stark bereichern kann.",
+            "hu": "Merüljön el a regionális közigazgatás történelmében e jól megőrzött komplexum bejárásával, ahol egy helyi idegenvezető fogadása a bejáratnál jelentősen gazdagíthatja a megértést.",
+            "ro": "Scufundați-vă în istoria administrativă regională vizitând acest complex bine conservat, unde angajarea unui ghid local la intrare vă poate îmbogăți semnificativ înțelegerea.",
+            "en": "Dive into the regional administrative history by touring this well-preserved complex, where hiring a local guide at the entrance can significantly enrich your understanding."
+          }
+        },
+        {
+          "name": {
+            "de": "Gereja Santa Maria Immaculata",
+            "hu": "Gereja Santa Maria Immaculata",
+            "ro": "Gereja Santa Maria Immaculata",
+            "en": "Gereja Santa Maria Immaculata"
+          },
+          "coords": [
+            116.110845,
+            -8.583734
+          ],
+          "category": "religious",
+          "arrive_at": "12:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Treten Sie in diese moderne und einladende katholische Kirche ein, um ihr ruhiges Inneres zu schätzen, und denken Sie daran, Ihr Fahrrad sicher außerhalb der Haupttore abzustellen.",
+            "hu": "Lépjen be ebbe a modern és barátságos katolikus templomba, hogy megcsodálja nyugodt belső terét, és ne felejtse el biztonságosan leparkolni a kerékpárját a főkapun kívül.",
+            "ro": "Pășiți în această biserică catolică modernă și primitoare pentru a-i aprecia interiorul senin și nu uitați să parcați bicicleta în siguranță în afara porților principale.",
+            "en": "Step inside this modern and welcoming Catholic church to appreciate its serene interior, and remember to step off your bicycle and park it securely outside the main gates."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Negeri NTB",
+            "hu": "Museum Negeri NTB",
+            "ro": "Museum Negeri NTB",
+            "en": "Museum Negeri NTB"
+          },
+          "coords": [
+            116.085886,
+            -8.585067
+          ],
+          "category": "museum",
+          "arrive_at": "13:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Durchstöbern Sie eine umfangreiche Sammlung antiker Artefakte, wobei Sie mindestens eine Stunde einplanen sollten, um die komplizierten traditionellen Textilien voll zu würdigen.",
+            "hu": "Böngésszen az ősi tárgyak kiterjedt gyűjteményében, és szánjon legalább egy órát arra, hogy teljes mértékben értékelje a bonyolult, hagyományos textíliák lenyűgöző részleteit.",
+            "ro": "Răsfoiți o colecție vastă de artefacte antice, alocând cel puțin o oră pentru a aprecia pe deplin textilele tradiționale complicate și uimitoarea măiestrie locală.",
+            "en": "Browse an extensive collection of ancient artifacts and geological exhibits spanning Nusa Tenggara, dedicating at least an hour to fully appreciate the intricate traditional textiles."
+          }
+        },
+        {
+          "name": {
+            "de": "Gereja Katolik Santo Antonius Padua",
+            "hu": "Gereja Katolik Santo Antonius Padua",
+            "ro": "Gereja Katolik Santo Antonius Padua",
+            "en": "Gereja Katolik Santo Antonius Padua"
+          },
+          "coords": [
+            116.08243,
+            -8.578201
+          ],
+          "category": "religious",
+          "arrive_at": "15:37",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour an dieser wunderschön gestalteten historischen katholischen Gemeinde und ruhen Sie sich im schattigen Innenhof aus, bevor Sie in die Straßen zurückkehren.",
+            "hu": "Fejezze be kerékpáros túráját ennél a gyönyörűen tervezett történelmi katolikus plébániánál, és pihenjen egy pillanatot az árnyékos udvaron, mielőtt visszatérne a nyüzsgő városba.",
+            "ro": "Încheiați-vă călătoria cu bicicleta la această parohie catolică istorică frumos proiectată, odihnindu-vă un moment în curtea umbrită înainte de a vă întoarce în orașul plin de viață.",
+            "en": "End your cycling journey at this beautifully designed historic Catholic parish, taking a moment to rest in the shaded courtyard before heading back into the bustling city streets."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihr Radabenteuer, indem Sie gleich zu Beginn des Morgens die lebhafte und traditionelle Atmosphäre der lokalen Hahnenkämpfe erleben. Wenn der Tag wärmer wird, radeln Sie durch feierliche historische Stätten. Erkunden Sie am Nachmittag die umfangreichen Sammlungen des staatlichen Museums und finden Sie Wissen und klimatisierte Erleichterung. Lassen Sie den Tag an der majestätischen katholischen Pfarrei ausklingen und blicken Sie zurück.",
+        "hu": "Indítsa el kerékpáros kalandját a helyi kakasviadalok élénk és hagyományos légkörének megtekintésével rögtön a reggel kezdetén. Ahogy a nap felmelegszik, tekerjen át az ünnepélyes történelmi helyszíneken. Délután fedezze fel az állami múzeum kiterjedt gyűjteményeit, ahol tudást és légkondicionált megkönnyebbülést is talál. Zárja a napot a fenséges katolikus plébánián, visszatekintve kétkerekű utazására.",
+        "ro": "Începeți aventura cu bicicleta asistând la atmosfera vibrantă și tradițională a luptelor locale de cocoși chiar de dimineață. Pe măsură ce ziua se încălzește, pedalați prin siturile istorice solemne pentru a onora eroii trecutului. După-amiaza, explorați colecțiile vaste ale muzeului de stat, găsind atât cunoaștere, cât și o ușurare aerisită. Încheiați-vă ziua la maiestuoasa parohie catolică, reflectând asupra călătoriei pe două roți.",
+        "en": "Kickstart your cycling adventure by witnessing the vibrant and traditional atmosphere of local cockfighting right as the morning begins. As the day warms up, cycle through the solemn historical sites to honor Mataram's past heroes and legacy. In the afternoon, explore the extensive collections of the state museum, finding both knowledge and air-conditioned relief. Wind down your day at the majestic Catholic parish, reflecting on your two-wheeled journey."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:32",
+      "total_km": 25.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Narmada",
+            "hu": "Narmada",
+            "ro": "Narmada",
+            "en": "Narmada"
+          },
+          "coords": [
+            116.204448,
+            -8.595225
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die üppigen Gärten und königlichen Pools dieses historischen Wasserpalastes und probieren Sie unbedingt das angeblich jugendspendende Quellwasser vor Ort.",
+            "hu": "Sétáljon végig egy balinéz király által épített történelmi vízi palota buja kertjein és királyi medencéin, és feltétlenül kóstolja meg a helyszínen az állítólag ifjúságot adó forrásvizet.",
+            "ro": "Plimbați-vă prin grădinile luxuriante și piscinele regale ale acestui palat istoric al apelor, asigurându-vă că gustați apa de izvor despre care se spune că oferă tinerețe.",
+            "en": "Wander through the lush gardens and royal pools of this historical water palace built by a Balinese king, making sure to taste the supposedly youth-giving spring water on site."
+          }
+        },
+        {
+          "name": {
+            "de": "rismunika astuti art shop",
+            "hu": "rismunika astuti art shop",
+            "ro": "rismunika astuti art shop",
+            "en": "rismunika astuti art shop"
+          },
+          "coords": [
+            116.123394,
+            -8.648552
+          ],
+          "category": "cultural",
+          "arrive_at": "10:53",
+          "stay_min": 50,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 10.6,
+          "tip_5lang": {
+            "de": "Stöbern Sie in diesem charmanten Kunstgeschäft durch eine großartige Auswahl an authentischem lokalem Kunsthandwerk, wo ein wenig Feilschen akzeptabel und Teil des Erlebnisses ist.",
+            "hu": "Böngésszen az autentikus helyi kézműves termékek és ajándéktárgyak csodálatos választékában ebben a bájos művészeti boltban, ahol a finom alkudozás elfogadott és az élmény része.",
+            "ro": "Răsfoiți printr-o selecție magnifică de obiecte de artizanat locale autentice la acest magazin fermecător de artă, unde negocierea ușoară este acceptabilă și face parte din experiență.",
+            "en": "Browse through a magnificent selection of authentic local handicrafts and souvenirs at this charming art shop, where haggling slightly is acceptable and part of the experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Negeri NTB",
+            "hu": "Museum Negeri NTB",
+            "ro": "Museum Negeri NTB",
+            "en": "Museum Negeri NTB"
+          },
+          "coords": [
+            116.085886,
+            -8.585067
+          ],
+          "category": "museum",
+          "arrive_at": "12:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 8.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende kulturelle Geschichte von Lombok anhand umfangreicher Dioramen und halten Sie Ausschau nach der mysteriösen Sammlung von Bronzekesseltrommeln.",
+            "hu": "Fedezze fel Lombok és Sumbawa lenyűgöző kulturális és geológiai történetét kiterjedt diorámákon keresztül, és tartsa nyitva a szemét a titokzatos bronz üstbob-gyűjteményre.",
+            "ro": "Descoperiți fascinanta istorie culturală și geologică din Lombok prin diorame extinse, fiind cu ochii în patru după misterioasa colecție de tobe din bronz antic.",
+            "en": "Discover the fascinating cultural and geological history of Lombok and Sumbawa through extensive dioramas, keeping an eye out for the mysterious bronze kettledrums collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Gedung Hok Kian Kong Hwee",
+            "hu": "Gedung Hok Kian Kong Hwee",
+            "ro": "Gedung Hok Kian Kong Hwee",
+            "en": "Gedung Hok Kian Kong Hwee"
+          },
+          "coords": [
+            116.078191,
+            -8.570774
+          ],
+          "category": "cultural",
+          "arrive_at": "13:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Treten Sie in dieses historische chinesische Vereinsgebäude ein, das die multikulturellen Wurzeln Matarams beleuchtet, und ziehen Sie vor dem Betreten der Gebetshallen die Schuhe aus.",
+            "hu": "Lépjen be ebbe a történelmi kínai egyesületi épületbe, amely kiemeli Mataram mély multikulturális gyökereit, de ne felejtse el levenni a cipőjét, mielőtt belépne az imatermekbe.",
+            "ro": "Pășiți în această clădire istorică a asociației chineze care evidențiază rădăcinile multiculturale ale Mataramului, scoțându-vă pantofii înainte de a intra în sălile de rugăciune.",
+            "en": "Step into this historic Chinese association building that highlights the deep multicultural roots of Mataram, removing your shoes before entering any of the main prayer halls."
+          }
+        },
+        {
+          "name": {
+            "de": "Bukit Munci",
+            "hu": "Bukit Munci",
+            "ro": "Bukit Munci",
+            "en": "Bukit Munci"
+          },
+          "coords": [
+            116.0848,
+            -8.5237
+          ],
+          "category": "natural",
+          "arrive_at": "14:47",
+          "stay_min": 105,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit einer Fahrt auf diesen ruhigen Hügel, der einen spektakulären Panoramablick bietet, und kommen Sie kurz vor Sonnenuntergang für das beste Licht an.",
+            "hu": "Zárja a napot egy autózással erre a nyugodt dombra, amely látványos panorámát nyújt a környező vidékre, és érkezzen közvetlenül naplemente előtt a legjobb fotózási fényekért.",
+            "ro": "Încheiați-vă ziua cu o plimbare până pe acest deal liniștit, care oferă vederi panoramice spectaculoase, ajungând chiar înainte de apus pentru cea mai bună lumină fotografică.",
+            "en": "Conclude your day with a drive up to this tranquil hill offering spectacular panoramic views of the surrounding countryside, arriving just before sunset for the best photography light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie frühmorgens zum herrlichen Narmada-Wasserpalast, um seine königlichen Pools zu erkunden, bevor die Massen eintreffen. Mittags bringt Sie Ihr Fahrzeug zu einem charmanten lokalen Kunstgeschäft, wo Sie auf die Jagd nach authentischen Souvenirs gehen können. Verbringen Sie den Nachmittag damit, im Museum tief in das Erbe der Insel einzutauchen. Ihr Abend gipfelt in einer malerischen Fahrt auf den Bukit Munci für einen spektakulären Sonnenuntergang.",
+        "hu": "Autózzon ki a csodálatos Narmada vízi palotához kora reggel, hogy felfedezze királyi medencéit, mielőtt a tömeg megérkezik. Délben a járműve egy bájos helyi művészeti boltba viszi, ahol tökéletes autentikus ajándéktárgyakra vadászhat. Töltse a délutánt a sziget örökségének mélyreható megismerésével a múzeumban és a történelmi kínai épületben. Az estéje egy festői autózással csúcsosodik ki a Bukit Munci-ra egy látványos naplementéhez.",
+        "ro": "Conduceți până la magnificul palat al apelor Narmada dimineața devreme pentru a explora piscinele sale regale înainte să ajungă mulțimile. La prânz, vehiculul vă duce la un magazin fermecător de artă locală. Petreceți-vă după-amiaza scufundându-vă adânc în patrimoniul insulei la muzeu și la clădirea istorică chineză. Seara culminează cu o plimbare pitorească pe Bukit Munci pentru a prinde un apus de soare panoramic spectaculos.",
+        "en": "Drive out to the magnificent Narmada water palace early in the morning to explore its royal pools before the crowds arrive. By midday, your vehicle takes you to a charming local art shop where you can hunt for perfect authentic souvenirs. Spend your afternoon diving deep into the island's heritage at the museum and the historic Chinese building. Your evening culminates with a scenic drive up Bukit Munci to catch a spectacular panoramic sunset."
+      }
+    }
+  }
+}

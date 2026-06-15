@@ -1,0 +1,474 @@
+{
+  "city_id": "city-leiria",
+  "anchor": {
+    "name": "Leiria",
+    "coords": [
+      -8.807,
+      39.7436
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "19:11",
+      "total_km": 2.02,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zentrum für interkulturellen Dialog von Leiria",
+            "hu": "Leiriai Interkulturális Párbeszéd Központ",
+            "ro": "Centrul de Dialog Intercultural din Leiria",
+            "en": "Leiria Intercultural Dialogue Center"
+          },
+          "coords": [
+            -8.807809,
+            39.745241
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese ehemalige Synagoge, um Leirias mittelalterliches jüdisches Erbe zu entdecken, und lesen Sie unbedingt die detaillierten Zeittafeln.",
+            "hu": "Fedezze fel ezt az egykori zsinagógát, hogy megismerje Leiria középkori zsidó örökségét, és mindenképpen olvassa el az információs idővonalakat.",
+            "ro": "Explorați această fostă sinagogă pentru a descoperi moștenirea evreiască medievală a Leiriei și asigurați-vă că citiți cu atenție panourile istorice.",
+            "en": "Explore this former synagogue to uncover Leiria's medieval Jewish heritage, and be sure to read the timeline panels carefully to understand its history."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des bewegten Bildes - m|i|mo",
+            "hu": "Mozgókép Múzeum - m|i|mo",
+            "ro": "Muzeul Imaginii în Mișcare - m|i|mo",
+            "en": "Moving Image Museum - m|i|mo"
+          },
+          "coords": [
+            -8.807309,
+            39.747561
+          ],
+          "category": "museum",
+          "arrive_at": "10:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte von Kino und Fotografie durch interaktive Exponate, also holen Sie sich einen Audioguide an der Kasse.",
+            "hu": "Fedezze fel a mozi és a fotózás lenyűgöző történetét interaktív kiállításokon keresztül, ezért kérjen audioguide-ot a recepción a részletekért.",
+            "ro": "Descoperiți istoria fascinantă a cinematografiei și fotografiei prin expoziții interactive, așa că luați un ghid audio de la recepție.",
+            "en": "Discover the fascinating history of cinema and photography through interactive exhibits, so grab an audio guide at the reception for extra details."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro José Lúcio da Silva",
+            "hu": "Teatro José Lúcio da Silva",
+            "ro": "Teatro José Lúcio da Silva",
+            "en": "Teatro José Lúcio da Silva"
+          },
+          "coords": [
+            -8.803869,
+            39.746717
+          ],
+          "category": "cultural",
+          "arrive_at": "12:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die modernistische Architektur dieses Kulturzentrums und erkundigen Sie sich an der Kasse nach Abendvorstellungen.",
+            "hu": "Csodálja meg e központi kulturális csomópont modernista építészetét, és ellenőrizze a jegypénztárban az esti előadásokat az itt-tartózkodása alatt.",
+            "ro": "Admirați arhitectura modernistă a acestui centru cultural și verificați la casa de bilete dacă există spectacole de seară în timpul șederii.",
+            "en": "Admire the modernist architecture of this central cultural hub, and check the box office for any evening performances during your stay."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Miguel Franco",
+            "hu": "Teatro Miguel Franco",
+            "ro": "Teatro Miguel Franco",
+            "en": "Teatro Miguel Franco"
+          },
+          "coords": [
+            -8.807656,
+            39.742812
+          ],
+          "category": "cultural",
+          "arrive_at": "14:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.53,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses charmante Theater für lokale Filmvorführungen und ruhen Sie sich einen Moment in seinem gemütlichen Foyer aus.",
+            "hu": "Látogasson el ebbe a bájos színházba, amely helyi filmvetítéseknek ad otthont, és pihenjen egy kicsit a hangulatos előcsarnokában.",
+            "ro": "Vizitați acest teatru fermecător care găzduiește proiecții de filme locale și expoziții de artă, fiind un loc perfect pentru o scurtă odihnă.",
+            "en": "Visit this charming theater that hosts local film screenings and art shows, making it a perfect spot to take a quick rest in its cozy foyer."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Portela",
+            "hu": "Villa Portela",
+            "ro": "Villa Portela",
+            "en": "Villa Portela"
+          },
+          "coords": [
+            -8.809142,
+            39.741251
+          ],
+          "category": "cultural",
+          "arrive_at": "15:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Schlendern Sie um dieses prächtige Anwesen aus dem 19. Jahrhundert und tragen Sie bequeme Schuhe, um die weitläufigen Gärten zu erkunden.",
+            "hu": "Sétáljon ezen a 19. századi birtokon, amely a klasszikus portugál építészetet mutatja be, és viseljen kényelmes cipőt a park bejárásához.",
+            "ro": "Plimbați-vă prin acest domeniu magnific din secolul al XIX-lea, și purtați pantofi confortabili pentru a explora grădinile generoase.",
+            "en": "Stroll around this magnificent 19th-century estate showcasing classical Portuguese architecture, and wear comfortable shoes to walk the grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Papiermühle",
+            "hu": "Papírmalom",
+            "ro": "Moara de Hârtie",
+            "en": "Paper Mill"
+          },
+          "coords": [
+            -8.800653,
+            39.740535
+          ],
+          "category": "museum",
+          "arrive_at": "17:01",
+          "stay_min": 130,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.72,
+          "tip_5lang": {
+            "de": "Erfahren Sie in dieser restaurierten historischen Mühle am Fluss mehr über die traditionelle Papierherstellung und probieren Sie es selbst aus.",
+            "hu": "Ismerje meg a hagyományos papírkészítést ebben a folyóparti, felújított malomban, és próbálja ki a papírmerítést az interaktív foglalkozáson.",
+            "ro": "Aflați despre prelucrarea tradițională a hârtiei în această moară istorică restaurată și încercați să fabricați hârtie la atelierul interactiv.",
+            "en": "Learn about traditional paper milling processes in this restored historical mill by the river, and try your hand at the interactive paper making."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Entdeckung der mittelalterlichen Geheimnisse des jüdischen Viertels und der bildenden Kunst.\n\nGegen Mittag schlendern Sie durch das pulsierende kulturelle Zentrum von Leiria und seine großen Theater.\n\nAm Nachmittag bewundern Sie die elegante Architektur der Villa Portela in aller Ruhe.\n\nLassen Sie den Abend beim beruhigenden Rauschen des Wassers an der alten Papiermühle ausklingen.",
+        "hu": "Kezdje a reggelt a zsidó negyed középkori titkainak és a vizuális művészeteknek a felfedezésével.\n\nDélben sétáljon végig Leiria nyüzsgő kulturális szívén és grandiózus színházain.\n\nDélután csodálja meg a Villa Portela elegáns építészetét, mielőtt a folyóhoz indulna.\n\nEste hallgassa a víz nyugtató csobogását a történelmi papírmalomnál a folyó partján.",
+        "ro": "Începeți dimineața descoperind secretele medievale ale cartierului evreiesc și explorând artele vizuale.\n\nLa prânz, plimbați-vă prin inima culturală vibrantă a Leiriei și teatrele sale grandioase.\n\nDupă-amiaza, admirați arhitectura elegantă de la Villa Portela înainte de a merge spre râu.\n\nÎncheiați seara ascultând susurul apei la moara istorică de hârtie de pe mal.",
+        "en": "Start your morning uncovering the medieval secrets of the Jewish quarter and exploring visual arts.\n\nBy midday, stroll through the vibrant cultural heart of Leiria and its grand theaters.\n\nIn the afternoon, marvel at the elegant architecture of Villa Portela before heading to the river.\n\nConclude the evening listening to the soothing water at the historic paper mill."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:59",
+      "total_km": 2.58,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schaukel im grünen Park von Leiria",
+            "hu": "Leiriai Zöld Park Hinta",
+            "ro": "Leagănul din Parcul Verde din Leiria",
+            "en": "Leiria Green Park Swing"
+          },
+          "coords": [
+            -8.821432,
+            39.739821
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Fahrt mit der Schaukel in diesem grünen Park und bringen Sie Ihre Kamera mit, um die malerische Uferpromenade einzufangen.",
+            "hu": "Kezdje a túrát egy hintázással ebben a gyönyörű zöld parkban, és mindenképpen hozzon fényképezőgépet a festői folyópart megörökítéséhez.",
+            "ro": "Începeți plimbarea cu un leagăn în acest parc verde frumos și aduceți aparatul foto pentru a surprinde peisajul pitoresc de pe malul râului.",
+            "en": "Start your ride with a playful swing at this beautiful green park offering great views, so bring your camera to capture the scenic riverfront."
+          }
+        },
+        {
+          "name": {
+            "de": "Sporting Museum in Leiria",
+            "hu": "Sporting Múzeum Leiriában",
+            "ro": "Muzeul Sporting din Leiria",
+            "en": "Sporting Museum in Leiria"
+          },
+          "coords": [
+            -8.812735,
+            39.746876
+          ],
+          "category": "museum",
+          "arrive_at": "09:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.07,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Museum in die lokale Sportgeschichte ein und nehmen Sie sich Zeit, um die Tafeln über historische Fußballspiele zu lesen.",
+            "hu": "Merüljön el a helyi sporttörténelemben ebben a múzeumban, és szánjon időt a történelmi futballmérkőzéseket bemutató táblák elolvasására.",
+            "ro": "Aprofundați-vă în istoria sportului local la acest muzeu dedicat și acordați-vă timp pentru a citi plăcile despre meciurile istorice de fotbal.",
+            "en": "Delve into local sports history and memorabilia at this dedicated museum, and take time to read the plaques detailing historic football matches."
+          }
+        },
+        {
+          "name": {
+            "de": "Te-Ato",
+            "hu": "Te-Ato",
+            "ro": "Te-Ato",
+            "en": "Te-Ato"
+          },
+          "coords": [
+            -8.811015,
+            39.743724
+          ],
+          "category": "cultural",
+          "arrive_at": "11:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Werfen Sie einen Blick auf die lokale Avantgarde-Kunst in diesem kreativen Raum, wo Sie stets das schwarze Brett für aktuelle Events prüfen sollten.",
+            "hu": "Tekintse meg a helyi avantgárd előadóművészetet ebben a dinamikus térben, és mindig ellenőrizze a hirdetőtáblát az aktuális eseményekért.",
+            "ro": "Aruncați o privire asupra artelor spectacolului de avangardă locală în acest spațiu creativ, unde ar trebui să verificați panoul de evenimente.",
+            "en": "Catch a glimpse of local avant-garde performing arts at this dynamic creative space, where you should always check the notice board for events."
+          }
+        },
+        {
+          "name": {
+            "de": "O Nariz",
+            "hu": "O Nariz",
+            "ro": "O Nariz",
+            "en": "O Nariz"
+          },
+          "coords": [
+            -8.803196,
+            39.740946
+          ],
+          "category": "cultural",
+          "arrive_at": "12:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.73,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebendige freie Theaterszene dieses Kulturvereins und trinken Sie unbedingt noch schnell einen Kaffee in der Nähe, bevor Sie hineingehen.",
+            "hu": "Tapasztalja meg az élénk független színházi szcénát ennél a kulturális egyesületnél, de előtte feltétlenül igyon egy gyors kávét a közelben.",
+            "ro": "Experimentați scena teatrală independentă vibrantă găzduită de această asociație culturală, asigurându-vă că beți o cafea rapidă în apropiere.",
+            "en": "Experience the vibrant independent theater scene hosted by this cultural association, making sure to grab a quick coffee nearby before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Papiermühle",
+            "hu": "Papírmalom",
+            "ro": "Moara de Hârtie",
+            "en": "Paper Mill"
+          },
+          "coords": [
+            -8.800653,
+            39.740535
+          ],
+          "category": "museum",
+          "arrive_at": "14:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Ruhen Sie Ihre Beine am Fluss aus, während Sie die traditionelle Papierherstellung erlernen, und bitten Sie um eine kurze Vorführung des Wasserrads.",
+            "hu": "Pihentesse lábait a folyóparton, miközben megismeri a papírkészítést, és kérje meg a helyi kézművest egy gyors vízikerekes bemutatóra.",
+            "ro": "Odihniți-vă picioarele lângă râu în timp ce învățați meșteșugul tradițional al hârtiei și cereți artizanului o demonstrație a roții de apă.",
+            "en": "Rest your legs by the river while learning traditional paper crafting, and ask the local artisan for a quick demonstration of the water wheel."
+          }
+        },
+        {
+          "name": {
+            "de": "Heiligtum unserer Lieben Frau der Menschwerdung",
+            "hu": "A Megtestesülés Miasszonyunk Szentélye",
+            "ro": "Sanctuarul Maicii Domnului Întrupate",
+            "en": "Sanctuary of Our Lady of Incarnation"
+          },
+          "coords": [
+            -8.79985,
+            39.738797
+          ],
+          "category": "landmark",
+          "arrive_at": "15:49",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Steigen Sie die monumentale Treppe zu diesem Heiligtum auf einem Hügel hinauf und bringen Sie für den Aufstieg am besten eine Flasche Wasser mit.",
+            "hu": "Mássza meg a monumentális lépcsőt ehhez a dombtetőn lévő szentélyhez a lélegzetelállító panorámáért, és hozzon magával egy üveg vizet az útra.",
+            "ro": "Urcați scara monumentală pentru a ajunge la acest sanctuar de pe deal și asigurați-vă că aduceți o sticlă de apă pentru efortul depus la urcare.",
+            "en": "Climb the monumental staircase to reach this hilltop sanctuary for a breathtaking city panorama, preferably bringing a bottle of water for the ascent."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie den Tag mit einer frischen Brise am Fluss und der beliebten Parkschaukel.\n\nRadeln Sie ins Zentrum, um in die lokalen Sporterfolge und das Theaterviertel einzutauchen.\n\nDer Nachmittag führt Sie zum rustikalen Charme der alten Papiermühle am ruhigen Gewässer.\n\nBeenden Sie die Tour mit einem steilen, aber lohnenden Aufstieg zum Heiligtum für das Stadtpanorama.",
+        "hu": "Indítsa a napot egy frissítő folyóparti tekeréssel és egy vidám hintázással a zöld parkban.\n\nKerekezzen be a városközpontba, hogy elmerüljön a helyi sportsikerekben és a színházi világban.\n\nDélután élvezze a régi papírmalom rusztikus varázsát, és pihenjen meg a lágy vizű folyó partján.\n\nFejezze be egy felfelé ívelő úttal a szentélyhez, ahonnan felejthetetlen alkonyati panoráma nyílik.",
+        "ro": "Începeți ziua cu o briză pe malul râului și o plimbare distractivă la leagănul din parcul verde.\n\nPedalați spre centrul orașului pentru a vă cufunda în triumfurile sportive și teatrul dinamic.\n\nDupă-amiaza vă aduce la farmecul rustic al vechii mori de hârtie pentru a vă relaxa lângă ape.\n\nFinalizați cu o urcare energizantă spre sanctuar pentru o panoramă de neuitat la amurg.",
+        "en": "Kick off the day with a breeze by the river and a fun ride at the green park swing.\n\nPedal into the city center to immerse yourself in local sporting triumphs and dynamic theater.\n\nAfternoon brings you to the rustic charms of the old paper mill to relax by the gentle currents.\n\nFinish with an energizing uphill climb to the sanctuary for an unforgettable twilight panorama."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:07",
+      "total_km": 4.59,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Städtische Spielzeugbibliothek Leiria",
+            "hu": "Leiriai Városi Játékkönyvtár",
+            "ro": "Ludoteca Municipală din Leiria",
+            "en": "Leiria Municipal Toy Library"
+          },
+          "coords": [
+            -8.812551,
+            39.751939
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bringen Sie die Kinder in diese lehrreiche Spielzeugbibliothek und kommen Sie früh, um einen guten Parkplatz in der Nähe des Eingangs zu finden.",
+            "hu": "Hozza el a gyerekeket ebbe a fejlesztő játékkönyvtárba, és érkezzen korán, hogy jó parkolóhelyet biztosítson magának a bejárat közelében.",
+            "ro": "Aduceți copiii la această ludotecă educațională plină de activități și ajungeți devreme pentru a vă asigura un loc de parcare bun la intrare.",
+            "en": "Bring the kids to this educational toy library full of engaging activities, and arrive early to secure a good parking spot near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der Kunststoffindustrie",
+            "hu": "A Műanyagipar Emlékműve",
+            "ro": "Monumentul Industriei Plasticelor",
+            "en": "Monument to the Plastics Industry"
+          },
+          "coords": [
+            -8.803431,
+            39.750748
+          ],
+          "category": "landmark",
+          "arrive_at": "10:52",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.78,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses einzigartige Denkmal zur Feier von Leirias Industrieerbe und nehmen Sie sich kurz Zeit, um die historischen Tafeln zu lesen.",
+            "hu": "Figyelje meg ezt a Leiria ipari örökségét ünneplő egyedi emlékművet, és szánjon egy pillanatot a helyi gazdaságtörténetet bemutató táblák elolvasására.",
+            "ro": "Observați acest monument unic care celebrează moștenirea industrială, alocându-vă un moment pentru a citi plăcile despre istoria economică.",
+            "en": "Observe this unique monument celebrating Leiria's industrial heritage, taking a brief moment to read the plaques detailing the local economic history."
+          }
+        },
+        {
+          "name": {
+            "de": "Fonte Quente",
+            "hu": "Fonte Quente",
+            "ro": "Fonte Quente",
+            "en": "Fonte Quente"
+          },
+          "coords": [
+            -8.80136,
+            39.747095
+          ],
+          "category": "landmark",
+          "arrive_at": "11:18",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an dieser historischen Thermalquelle, die eine friedliche städtische Oase bietet und ideal ist, um einen Snack zu genießen.",
+            "hu": "Pihenjen e történelmi hőforrás mellett, amely békés városi oázist kínál, és ideális hely egy padon ülve elfogyasztani a csomagolt uzsonnát.",
+            "ro": "Relaxați-vă lângă această sursă termală istorică ce oferă o oază urbană liniștită, fiind locul ideal pentru a vă bucura de o gustare pe o bancă.",
+            "en": "Relax by this historic thermal spring area that offers a peaceful urban oasis, making it an ideal spot to sit on a bench and enjoy a packed snack."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentrum für interkulturellen Dialog von Leiria",
+            "hu": "Leiriai Interkulturális Párbeszéd Központ",
+            "ro": "Centrul de Dialog Intercultural din Leiria",
+            "en": "Leiria Intercultural Dialogue Center"
+          },
+          "coords": [
+            -8.807809,
+            39.745241
+          ],
+          "category": "museum",
+          "arrive_at": "11:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.58,
+          "tip_5lang": {
+            "de": "Erkunden Sie die multikulturelle Geschichte der Region in diesem restaurierten historischen Gebäude und achten Sie auf die mittelalterlichen Artefakte.",
+            "hu": "Fedezze fel a régió gazdag multikulturális történelmét ebben a felújított történelmi épületben, és keresse a lenyűgöző középkori leleteket.",
+            "ro": "Explorați istoria multiculturală bogată a regiunii în această clădire istorică restaurată și căutați artefactele medievale fascinante expuse.",
+            "en": "Explore the rich multicultural history of the region in this restored historic building, and look out for the fascinating medieval artifacts on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Heiligtum unserer Lieben Frau der Menschwerdung",
+            "hu": "A Megtestesülés Miasszonyunk Szentélye",
+            "ro": "Sanctuarul Maicii Domnului Întrupate",
+            "en": "Sanctuary of Our Lady of Incarnation"
+          },
+          "coords": [
+            -8.79985,
+            39.738797
+          ],
+          "category": "landmark",
+          "arrive_at": "13:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.98,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem Heiligtum auf dem Hügel hinauf, um die weite Aussicht zu genießen, aber seien Sie vorsichtig, da die Zufahrtsstraßen recht eng sind.",
+            "hu": "Hajtson fel ehhez a dombtetőn lévő szentélyhez, hogy élvezze a kilátást a lépcsőmászás nélkül, de vigyázzon, mert a bekötőutak meglehetősen szűkek.",
+            "ro": "Conduceți până la acest sanctuar de pe deal pentru a vă bucura de vederi panoramice peste Leiria, dar aveți grijă deoarece drumurile sunt destul de înguste.",
+            "en": "Drive up to this hilltop shrine to skip the stairs and enjoy sweeping views over Leiria, but be careful as the access roads can be quite narrow."
+          }
+        },
+        {
+          "name": {
+            "de": "Schaukel im grünen Park von Leiria",
+            "hu": "Leiriai Zöld Park Hinta",
+            "ro": "Leagănul din Parcul Verde din Leiria",
+            "en": "Leiria Green Park Swing"
+          },
+          "coords": [
+            -8.821432,
+            39.739821
+          ],
+          "category": "landmark",
+          "arrive_at": "14:12",
+          "stay_min": 55,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.82,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour, indem Sie in der Nähe des Flusses parken, um zu schaukeln und den Sonnenuntergang am ruhigen Wasser fotografisch festzuhalten.",
+            "hu": "Fejezze be a túrát a folyóhoz közeli parkolással, hintázzon egyet, és zárja a napot egy tökéletes fotózási lehetőséggel a nyugodt vízparton naplementekor.",
+            "ro": "Încheiați turul parcând lângă râu pentru a vă legăna și a privi apusul soarelui, finalizând ziua cu o oportunitate perfectă de fotografie lângă apă.",
+            "en": "End your driving tour by parking near the river to swing and watch the sunset, finishing the day with a perfect photo opportunity by the calm waters."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt mit familienfreundlichem Spaß in der Spielzeugbibliothek am Stadtrand.\n\nMittags erkunden Sie einzigartige Industriedenkmäler und die beruhigenden historischen Thermalquellen.\n\nSpäter entdecken Sie den tiefgreifenden multikulturellen Dialog im Herzen des Stadtzentrums.\n\nBeenden Sie den Roadtrip mit dem Panoramablick vom Heiligtum, bevor Sie den Sonnenuntergang sehen.",
+        "hu": "Kezdje az utazást a külvárosi játékkönyvtár családbarát programjaival és interaktív játékokkal.\n\nDélben fedezze fel az egyedülálló ipari műemlékeket és a nyugtató, történelmi termálforrásokat.\n\nKésőbb ismerje meg a város szívében zajló mély, multikulturális párbeszéd gazdag történelmét.\n\nZárja az utat a szentély panorámájával, mielőtt a folyóparti parkban gyönyörködne a naplementében.",
+        "ro": "Începeți cu distracție în familie la ludoteca plină de viață situată la marginea orașului.\n\nLa prânz explorați monumentele industriale unice și izvoarele termale istorice liniștitoare.\n\nMai târziu, descoperiți dialogul multicultural profund găzduit în inima centrului orașului.\n\nÎncheiați excursia admirând sanctuarul înainte de a prinde apusul soarelui în parcul verde.",
+        "en": "Begin your drive with family-friendly fun at the lively toy library on the outskirts.\n\nMidday sees you exploring unique industrial monuments and the calming historic thermal springs.\n\nLater, discover the profound multicultural dialogue housed in the heart of the city center.\n\nEnd the road trip admiring the panoramic sanctuary views before catching sunset at the park."
+      }
+    }
+  }
+}

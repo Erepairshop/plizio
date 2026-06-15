@@ -1,0 +1,474 @@
+{
+  "city_id": "greece-andros-cities-v2",
+  "anchor": {
+    "name": "Andros",
+    "coords": [
+      24.93678,
+      37.83674
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:51",
+      "total_km": 2.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Freilichttheater von Andros",
+            "hu": "Androsz Szabadtéri Színháza",
+            "ro": "Teatrul în Aer Liber din Andros",
+            "en": "Anoikto Theatro Androu"
+          },
+          "coords": [
+            24.935047,
+            37.835332
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende Akustik dieses modernen Freilichttheaters in den Hügeln, wo Sie früh eintreffen sollten, um den besten Platz für die Aufführung zu sichern.",
+            "hu": "Élvezze a dombok között megbúvó modern szabadtéri színház lenyűgöző akusztikáját, ahová érdemes korán érkezni a legjobb kilátást nyújtó helyek biztosítása érdekében.",
+            "ro": "Bucurați-vă de acustica impresionantă a acestui teatru modern în aer liber, unde ar trebui să ajungeți devreme pentru a prinde cel mai bun loc pentru spectacolele la apus.",
+            "en": "Enjoy the stunning acoustics of this modern open-air theatre nestled in the hills, where you should arrive early to grab the best vantage point for sunset performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für zeitgenössische Kunst",
+            "hu": "Kortárs Művészeti Múzeum",
+            "ro": "Muzeul de Artă Contemporană",
+            "en": "Museum of Contemporary Art"
+          },
+          "coords": [
+            24.939255,
+            37.838555
+          ],
+          "category": "museum",
+          "arrive_at": "10:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie erstklassige zeitgenössische Ausstellungen in diesem eleganten Museum und planen Sie unbedingt etwas mehr Zeit für die internationalen Kunstsammlungen ein.",
+            "hu": "Fedezze fel a világszínvonalú kortárs kiállításokat ebben az elegáns múzeumban, és mindenképpen szánjon extra időt a lenyűgöző nemzetközi időszaki művészeti gyűjteményekre.",
+            "ro": "Descoperiți expoziții de artă contemporană de clasă mondială în acest muzeu elegant, alocând timp suplimentar pentru a aprecia colecțiile internaționale de sezon.",
+            "en": "Discover world-class contemporary exhibitions in this elegant museum, making sure to allocate extra time to appreciate the incredible seasonal international art collections."
+          }
+        },
+        {
+          "name": {
+            "de": "Paraporti",
+            "hu": "Paraporti",
+            "ro": "Paraporti",
+            "en": "Paraporti"
+          },
+          "coords": [
+            24.941954,
+            37.83556
+          ],
+          "category": "recreational",
+          "arrive_at": "12:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem windgepeitschten Sandstrand mit weitem Blick auf die historische Chora, aber achten Sie auf die starken Meeresströmungen, falls Sie schwimmen gehen.",
+            "hu": "Sétáljon végig ezen a vad és szeles homokos strandon, ahonnan pazar kilátás nyílik a történelmi Chorára, de úszásnál legyen nagyon óvatos az erős víz alatti áramlatok miatt.",
+            "ro": "Plimbați-vă de-a lungul acestei plaje sălbatice și bătute de vânturi, cu vedere spre Chora istorică, dar fiți precauți la curenții puternici dacă vă decideți să înotați.",
+            "en": "Stroll along this wild and windswept sandy beach with sweeping views of the historic Chora, but be cautious of the strong underwater currents if you decide to go swimming."
+          }
+        },
+        {
+          "name": {
+            "de": "Schifffahrtsmuseum",
+            "hu": "Tengerészeti Múzeum",
+            "ro": "Muzeul Maritim",
+            "en": "Martime museum"
+          },
+          "coords": [
+            24.942669,
+            37.83996
+          ],
+          "category": "museum",
+          "arrive_at": "13:47",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die reiche Marinegeschichte von Andros anhand detaillierter Schiffsmodelle und seltener Artefakte, und verpassen Sie nicht die nautischen Instrumente im ersten Stock.",
+            "hu": "Ismerje meg Androsz gazdag tengerészeti történelmét a részletes hajómodellek és ritka leletek révén, és ne hagyja ki az első emeleten található lenyűgöző navigációs eszközöket.",
+            "ro": "Explorați bogata istorie navală a insulei Andros prin modele detaliate de nave și artefacte maritime rare, fără a rata instrumentele nautice autentice de la primul etaj.",
+            "en": "Explore Andros' rich naval history through detailed ship models and rare maritime artifacts, and do not miss the fascinating authentic nautical instruments on the first floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Untere Burg von Andros",
+            "hu": "Androsz Alsó Erődje",
+            "ro": "Castelul de Jos din Andros",
+            "en": "Lower Castle of Andros"
+          },
+          "coords": [
+            24.943531,
+            37.840884
+          ],
+          "category": "castle",
+          "arrive_at": "15:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Überqueren Sie die ikonische Bogenbrücke zu den dramatischen Ruinen dieser venezianischen Festung und tragen Sie feste Schuhe, um sicher über die unebenen Steinwege zu gehen.",
+            "hu": "Keljen át az ikonikus boltíves hídon, hogy felfedezze e velencei erőd drámai romjait, és viseljen zárt cipőt a sziklás, egyenetlen kőösvényeken való biztonságos közlekedéshez.",
+            "ro": "Traversați podul arcuit iconic pentru a explora ruinele dramatice ale acestei fortărețe venețiene, purtând încălțăminte rezistentă pentru a naviga în siguranță pe aleile pietruite.",
+            "en": "Cross the iconic arched bridge to explore the dramatic ruins of this Venetian fortress, wearing sturdy shoes to safely navigate the uneven, weather-beaten stone pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Tourlites Leuchtturm",
+            "hu": "Tourlites Világítótorony",
+            "ro": "Farul Tourlites",
+            "en": "Pharos Tourlites"
+          },
+          "coords": [
+            24.946534,
+            37.843155
+          ],
+          "category": "landmark",
+          "arrive_at": "16:56",
+          "stay_min": 55,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen märchenhaften Leuchtturm, der wundersam auf einem einsamen Felsen im Meer erbaut wurde, und fotografieren Sie ihn am besten mit einem Zoomobjektiv.",
+            "hu": "Csodálja meg ezt a tengerből kiemelkedő, magányos sziklára épült mesebeli világítótornyot, amelyet egy teleobjektívvel a legérdemesebb fotózni az erődített félsziget csúcsáról.",
+            "ro": "Admirați acest far de basm construit miraculos pe un piedestal de stâncă solitar în mare, cel mai bine fotografiat folosind un teleobiectiv de la marginea peninsulei.",
+            "en": "Admire this fairy-tale lighthouse miraculously built atop a solitary rock pedestal in the sea, best photographed using a zoom lens from the edge of the castle peninsula."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im kulturellen Herzen von Andros, angefangen beim spektakulären Freilichttheater, bevor Sie in die erstklassigen Ausstellungen des Museums für zeitgenössische Kunst eintauchen.\n\nMittags spazieren Sie zum Paraporti-Strand, um die raue Schönheit der windgepeitschten Küste zu genießen und die erfrischende Meeresbrise auf der Haut zu spüren.\n\nDer Nachmittag ist dem maritimen Erbe gewidmet. Entdecken Sie seltene nautische Artefakte im Schifffahrtsmuseum, bevor Sie die Brücke zu den Ruinen der venezianischen Burg überqueren.\n\nWenn der Abend naht, stehen Sie am äußersten Rand der Halbinsel, um den ikonischen Tourlites-Leuchtturm zu bewundern und das perfekte Sonnenuntergangsfoto zu machen.",
+        "hu": "Kezdje a reggelt Androsz kulturális szívében, a látványos szabadtéri színháznál, majd merüljön el a Kortárs Művészeti Múzeum világszínvonalú kiállításaiban.\n\nDélben sétáljon le a Paraporti strandra, hogy élvezze a szélfútta partvidék nyers szépségét, és érezze a frissítő tengeri szellőt, miközben a panorámában gyönyörködik.\n\nA délutánt a sziget tengerészeti örökségének szenteljük: fedezze fel a Tengerészeti Múzeum ritka leleteit, majd keljen át a velencei erőd drámai romjaihoz vezető hídon.\n\nAz este közeledtével álljon ki a félsziget peremére, hogy megcsodálja a tengerből kiemelkedő ikonikus Tourlites világítótornyot, és elkészítse a tökéletes naplementés fotót.",
+        "ro": "Începeți dimineața explorând inima culturală a insulei Andros, pornind de la spectaculosul teatru în aer liber, înainte de a admira expozițiile de la Muzeul de Artă Contemporană.\n\nLa amiază, plimbați-vă până la plaja Paraporti pentru a savura frumusețea brută a coastei, simțind briza mării în timp ce admirați priveliștile panoramice.\n\nDupă-amiaza este dedicată moștenirii maritime. Descoperiți artefacte nautice rare la Muzeul Maritim înainte de a traversa podul spre ruinele castelului venețian.\n\nPe măsură ce se apropie seara, ajungeți la marginea peninsulei pentru a admira iconicul Far Tourlites și pentru a surprinde fotografia perfectă la apus.",
+        "en": "Begin your morning exploring the cultural heart of Andros, starting at the spectacular open-air theatre before immersing yourself in the world-class exhibits at the Museum of Contemporary Art.\n\nAt midday, stroll down to Paraporti beach to enjoy the raw beauty of the windswept coastline, feeling the refreshing sea breeze against your skin as you admire the panoramic views.\n\nYour afternoon is dedicated to the island's maritime legacy, discovering rare nautical artifacts at the Maritime Museum before crossing the bridge to the dramatic Venetian castle ruins.\n\nAs evening approaches, stand at the very edge of the peninsula to admire the iconic Tourlites Lighthouse emerging from the sea, capturing the perfect sunset photograph."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 2.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum für zeitgenössische Kunst",
+            "hu": "Kortárs Művészeti Múzeum",
+            "ro": "Muzeul de Artă Contemporană",
+            "en": "Museum of Contemporary Art"
+          },
+          "coords": [
+            24.939255,
+            37.838555
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie erstklassige zeitgenössische Ausstellungen in diesem eleganten Museum und planen Sie unbedingt etwas mehr Zeit für die internationalen Kunstsammlungen ein.",
+            "hu": "Fedezze fel a világszínvonalú kortárs kiállításokat ebben az elegáns múzeumban, és mindenképpen szánjon extra időt a lenyűgöző nemzetközi időszaki művészeti gyűjteményekre.",
+            "ro": "Descoperiți expoziții de artă contemporană de clasă mondială în acest muzeu elegant, alocând timp suplimentar pentru a aprecia colecțiile internaționale de sezon.",
+            "en": "Discover world-class contemporary exhibitions in this elegant museum, making sure to allocate extra time to appreciate the incredible seasonal international art collections."
+          }
+        },
+        {
+          "name": {
+            "de": "Schifffahrtsmuseum",
+            "hu": "Tengerészeti Múzeum",
+            "ro": "Muzeul Maritim",
+            "en": "Martime museum"
+          },
+          "coords": [
+            24.942669,
+            37.83996
+          ],
+          "category": "museum",
+          "arrive_at": "10:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die reiche Marinegeschichte von Andros anhand detaillierter Schiffsmodelle und seltener Artefakte, und verpassen Sie nicht die nautischen Instrumente im ersten Stock.",
+            "hu": "Ismerje meg Androsz gazdag tengerészeti történelmét a részletes hajómodellek és ritka leletek révén, és ne hagyja ki az első emeleten található lenyűgöző navigációs eszközöket.",
+            "ro": "Explorați bogata istorie navală a insulei Andros prin modele detaliate de nave și artefacte maritime rare, fără a rata instrumentele nautice autentice de la primul etaj.",
+            "en": "Explore Andros' rich naval history through detailed ship models and rare maritime artifacts, and do not miss the fascinating authentic nautical instruments on the first floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Untere Burg von Andros",
+            "hu": "Androsz Alsó Erődje",
+            "ro": "Castelul de Jos din Andros",
+            "en": "Lower Castle of Andros"
+          },
+          "coords": [
+            24.943531,
+            37.840884
+          ],
+          "category": "castle",
+          "arrive_at": "12:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Überqueren Sie die ikonische Bogenbrücke zu den dramatischen Ruinen dieser venezianischen Festung und tragen Sie feste Schuhe, um sicher über die unebenen Steinwege zu gehen.",
+            "hu": "Keljen át az ikonikus boltíves hídon, hogy felfedezze e velencei erőd drámai romjait, és viseljen zárt cipőt a sziklás, egyenetlen kőösvényeken való biztonságos közlekedéshez.",
+            "ro": "Traversați podul arcuit iconic pentru a explora ruinele dramatice ale acestei fortărețe venețiene, purtând încălțăminte rezistentă pentru a naviga în siguranță pe aleile pietruite.",
+            "en": "Cross the iconic arched bridge to explore the dramatic ruins of this Venetian fortress, wearing sturdy shoes to safely navigate the uneven, weather-beaten stone pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Tourlites Leuchtturm",
+            "hu": "Tourlites Világítótorony",
+            "ro": "Farul Tourlites",
+            "en": "Pharos Tourlites"
+          },
+          "coords": [
+            24.946534,
+            37.843155
+          ],
+          "category": "landmark",
+          "arrive_at": "13:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen märchenhaften Leuchtturm, der wundersam auf einem einsamen Felsen im Meer erbaut wurde, und fotografieren Sie ihn am besten mit einem Zoomobjektiv.",
+            "hu": "Csodálja meg ezt a tengerből kiemelkedő, magányos sziklára épült mesebeli világítótornyot, amelyet egy teleobjektívvel a legérdemesebb fotózni az erődített félsziget csúcsáról.",
+            "ro": "Admirați acest far de basm construit miraculos pe un piedestal de stâncă solitar în mare, cel mai bine fotografiat folosind un teleobiectiv de la marginea peninsulei.",
+            "en": "Admire this fairy-tale lighthouse miraculously built atop a solitary rock pedestal in the sea, best photographed using a zoom lens from the edge of the castle peninsula."
+          }
+        },
+        {
+          "name": {
+            "de": "Gualia",
+            "hu": "Gualia",
+            "ro": "Gualia",
+            "en": "Gualia"
+          },
+          "coords": [
+            24.939076,
+            37.852549
+          ],
+          "category": "recreational",
+          "arrive_at": "14:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Kieselstrand inmitten grüner Hügel und bringen Sie Ihren eigenen Sonnenschutz mit, da die touristischen Einrichtungen hier wunderbar spärlich sind.",
+            "hu": "Pihenjen e festői, zöld dombokkal övezett kavicsos strand sima kövein, és hozzon magával árnyékolót és vizet, mivel a turisztikai létesítmények itt még mindig kellemesen ritkák.",
+            "ro": "Relaxați-vă pe pietricelele fine ale acestei plaje pitorești înconjurate de dealuri verzi, aducând propria umbrelă și apă, deoarece facilitățile turistice sunt destul de rare.",
+            "en": "Relax on the smooth pebbles of this picturesque beach surrounded by green hills, bringing your own shade and water since tourist facilities here remain delightfully sparse."
+          }
+        },
+        {
+          "name": {
+            "de": "Piso Gualia",
+            "hu": "Piso Gualia",
+            "ro": "Piso Gualia",
+            "en": "Piso Gualia"
+          },
+          "coords": [
+            24.939535,
+            37.855891
+          ],
+          "category": "recreational",
+          "arrive_at": "15:45",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen in dieser ruhigen, versteckten Bucht mit kristallklarem Wasser, das perfekt zum Schnorcheln ist, auch wenn der Abstieg von der Hauptstraße steil ist.",
+            "hu": "Meneküljön el a tömeg elől ebbe a csendes, rejtett öbölbe, amelynek kristálytiszta vize tökéletes a sznorkelezéshez, bár a főútról való meredek ereszkedésre érdemes felkészülni.",
+            "ro": "Evadați de aglomerație în acest golf ascuns liniștit, cu ape cristaline perfecte pentru snorkeling, deși ar trebui să fiți pregătit pentru o coborâre abruptă de la drumul principal.",
+            "en": "Escape the crowds at this tranquil hidden cove with crystal-clear waters perfect for snorkeling, though you should be prepared for a steep descent from the main access road."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Fahrradabenteuer beginnt mit exquisiten modernen Kunstsammlungen im renommierten Museum, bevor Sie in die maritime Vergangenheit der Insel eintauchen.\n\nAm Mittag erreichen Sie die historische Spitze der Chora. Hier erkunden Sie die verwitterten Burgruinen und blicken auf den spektakulären Tourlites-Leuchtturm.\n\nAm Nachmittag radeln Sie in Richtung Norden zur ruhigen Küste und lassen die lebhafte Stadt hinter sich, um das entspannende Ambiente des Strandes Gualia zu genießen.\n\nBeenden Sie Ihren aktiven Tag an der unberührten Bucht von Piso Gualia mit einem abendlichen Bad im kristallklaren Wasser, während die Sonne langsam untergeht.",
+        "hu": "Kerékpáros kalandja a modern művészet felfedezésével kezdődik a híres múzeumban, mielőtt megismerkedne a sziget tengerészeti múltjával.\n\nDélben elérkezik a Chora történelmi csücskére, ahol felfedezheti az Alsó Erőd romjait, és rápillanthat a sziklára épült, látványos Tourlites világítótoronyra.\n\nDélután észak felé teker, a csendes partvidék irányába. Maga mögött hagyja a nyüzsgő várost, hogy élvezze a Gualia strand kavicsos, nyugtató hangulatát.\n\nZárja az aktív napot az érintetlen Piso Gualia öbölben, és élvezze a békés esti úszást a kristálytiszta vízben, miközben a nap lassan lebukik a horizonton.",
+        "ro": "Aventura pe bicicletă începe la Muzeul de Artă Contemporană, admirând colecțiile înainte de a pătrunde în trecutul naval al insulei la muzeul maritim.\n\nLa amiază, ajungeți la capătul istoric al orașului Chora, explorând ruinele castelului și admirând spectaculosul Far Tourlites cocoțat pe o stâncă.\n\nDupă-amiaza, pedalați spre nord, spre coasta liniștită, lăsând în urmă orașul vibrant pentru ambianța relaxantă și pietricelele fine ale plajei Gualia.\n\nÎncheiați ziua activă la golful retras Piso Gualia, bucurându-vă de o baie liniștită de seară în apele limpezi, în timp ce soarele apune.",
+        "en": "Your cycling adventure starts with a deep dive into modern art, taking in the exquisite contemporary collections at the renowned museum before learning about the island's naval past.\n\nMidday brings you to the historic tip of Chora, where you will explore the weathered ruins of the Lower Castle and gaze out at the spectacular Tourlites Lighthouse perched on a rock.\n\nIn the afternoon, pedal north towards the tranquil coastline, leaving the vibrant town behind for the relaxing ambiance and smooth pebbles of Gualia beach.\n\nConclude your active day by cycling to the pristine and secluded Piso Gualia cove, enjoying a peaceful evening swim in the crystal-clear waters as the sun begins to set."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 4.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bistis-Mouvelas Turm",
+            "hu": "Bistis-Mouvelas Torony",
+            "ro": "Turnul Bistis-Mouvelas",
+            "en": "Bistis-Mouvelas Tower"
+          },
+          "coords": [
+            24.924794,
+            37.853009
+          ],
+          "category": "tower",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise an diesem beeindruckenden mittelalterlichen Wehrturm inmitten üppiger Natur und respektieren Sie beim Fotografieren unbedingt die Privatgrundstücke.",
+            "hu": "Lépjen vissza az időben e lenyűgöző, buja növényzetben magasodó középkori védőtoronynál, és a fényképek készítése közben mindig ügyeljen a magántulajdon határainak tiszteletben tartására.",
+            "ro": "Pășiți înapoi în timp la acest turn defensiv medieval impresionant, situat printre verdeață luxuriantă, amintindu-vă să respectați limitele proprietății private atunci când faceți poze.",
+            "en": "Step back in time at this impressive medieval defensive tower standing tall amid lush greenery, remembering to respect the private property boundaries while taking photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Piso Gualia",
+            "hu": "Piso Gualia",
+            "ro": "Piso Gualia",
+            "en": "Piso Gualia"
+          },
+          "coords": [
+            24.939535,
+            37.855891
+          ],
+          "category": "recreational",
+          "arrive_at": "10:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen in dieser ruhigen, versteckten Bucht mit kristallklarem Wasser, das perfekt zum Schnorcheln ist, auch wenn der Abstieg von der Hauptstraße steil ist.",
+            "hu": "Meneküljön el a tömeg elől ebbe a csendes, rejtett öbölbe, amelynek kristálytiszta vize tökéletes a sznorkelezéshez, bár a főútról való meredek ereszkedésre érdemes felkészülni.",
+            "ro": "Evadați de aglomerație în acest golf ascuns liniștit, cu ape cristaline perfecte pentru snorkeling, deși ar trebui să fiți pregătit pentru o coborâre abruptă de la drumul principal.",
+            "en": "Escape the crowds at this tranquil hidden cove with crystal-clear waters perfect for snorkeling, though you should be prepared for a steep descent from the main access road."
+          }
+        },
+        {
+          "name": {
+            "de": "Gualia",
+            "hu": "Gualia",
+            "ro": "Gualia",
+            "en": "Gualia"
+          },
+          "coords": [
+            24.939076,
+            37.852549
+          ],
+          "category": "recreational",
+          "arrive_at": "11:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Kieselstrand inmitten grüner Hügel und bringen Sie Ihren eigenen Sonnenschutz mit, da die touristischen Einrichtungen hier wunderbar spärlich sind.",
+            "hu": "Pihenjen e festői, zöld dombokkal övezett kavicsos strand sima kövein, és hozzon magával árnyékolót és vizet, mivel a turisztikai létesítmények itt még mindig kellemesen ritkák.",
+            "ro": "Relaxați-vă pe pietricelele fine ale acestei plaje pitorești înconjurate de dealuri verzi, aducând propria umbrelă și apă, deoarece facilitățile turistice sunt destul de rare.",
+            "en": "Relax on the smooth pebbles of this picturesque beach surrounded by green hills, bringing your own shade and water since tourist facilities here remain delightfully sparse."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für zeitgenössische Kunst",
+            "hu": "Kortárs Művészeti Múzeum",
+            "ro": "Muzeul de Artă Contemporană",
+            "en": "Museum of Contemporary Art"
+          },
+          "coords": [
+            24.939255,
+            37.838555
+          ],
+          "category": "museum",
+          "arrive_at": "13:07",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie erstklassige zeitgenössische Ausstellungen in diesem eleganten Museum und planen Sie unbedingt etwas mehr Zeit für die internationalen Kunstsammlungen ein.",
+            "hu": "Fedezze fel a világszínvonalú kortárs kiállításokat ebben az elegáns múzeumban, és mindenképpen szánjon extra időt a lenyűgöző nemzetközi időszaki művészeti gyűjteményekre.",
+            "ro": "Descoperiți expoziții de artă contemporană de clasă mondială în acest muzeu elegant, alocând timp suplimentar pentru a aprecia colecțiile internaționale de sezon.",
+            "en": "Discover world-class contemporary exhibitions in this elegant museum, making sure to allocate extra time to appreciate the incredible seasonal international art collections."
+          }
+        },
+        {
+          "name": {
+            "de": "Untere Burg von Andros",
+            "hu": "Androsz Alsó Erődje",
+            "ro": "Castelul de Jos din Andros",
+            "en": "Lower Castle of Andros"
+          },
+          "coords": [
+            24.943531,
+            37.840884
+          ],
+          "category": "castle",
+          "arrive_at": "14:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Überqueren Sie die ikonische Bogenbrücke zu den dramatischen Ruinen dieser venezianischen Festung und tragen Sie feste Schuhe, um sicher über die unebenen Steinwege zu gehen.",
+            "hu": "Keljen át az ikonikus boltíves hídon, hogy felfedezze e velencei erőd drámai romjait, és viseljen zárt cipőt a sziklás, egyenetlen kőösvényeken való biztonságos közlekedéshez.",
+            "ro": "Traversați podul arcuit iconic pentru a explora ruinele dramatice ale acestei fortărețe venețiene, purtând încălțăminte rezistentă pentru a naviga în siguranță pe aleile pietruite.",
+            "en": "Cross the iconic arched bridge to explore the dramatic ruins of this Venetian fortress, wearing sturdy shoes to safely navigate the uneven, weather-beaten stone pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Tourlites Leuchtturm",
+            "hu": "Tourlites Világítótorony",
+            "ro": "Farul Tourlites",
+            "en": "Pharos Tourlites"
+          },
+          "coords": [
+            24.946534,
+            37.843155
+          ],
+          "category": "landmark",
+          "arrive_at": "16:10",
+          "stay_min": 55,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen märchenhaften Leuchtturm, der wundersam auf einem einsamen Felsen im Meer erbaut wurde, und fotografieren Sie ihn am besten mit einem Zoomobjektiv.",
+            "hu": "Csodálja meg ezt a tengerből kiemelkedő, magányos sziklára épült mesebeli világítótornyot, amelyet egy teleobjektívvel a legérdemesebb fotózni az erődített félsziget csúcsáról.",
+            "ro": "Admirați acest far de basm construit miraculos pe un piedestal de stâncă solitar în mare, cel mai bine fotografiat folosind un teleobiectiv de la marginea peninsulei.",
+            "en": "Admire this fairy-tale lighthouse miraculously built atop a solitary rock pedestal in the sea, best photographed using a zoom lens from the edge of the castle peninsula."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Roadtrip mit einer Fahrt ins grüne Landesinnere, um den historischen Bistis-Mouvelas-Turm zu bestaunen – ein Symbol der mittelalterlichen Architektur.\n\nGegen Mittag fahren Sie an die Nordküste, um die Strände Piso Gualia und Gualia zu erleben. Perfekte Orte, um sich zu entspannen und die Füße ins Wasser zu tauchen.\n\nKehren Sie nachmittags in die elegante Chora zurück, um die Meisterwerke der zeitgenössischen Kunst zu bewundern und die stimmungsvollen Burgruinen zu erkunden.\n\nBeenden Sie Ihre Tour, indem Sie beobachten, wie die Wellen gegen den Felsen des Tourlites-Leuchtturms schlagen – ein magischer Anblick, der den Geist von Andros einfängt.",
+        "hu": "Kezdje autós túráját a zöldellő belső területeken, és csodálja meg a történelmi Bistis-Mouvelas tornyot, a sziget középkori védelmi építészetének szimbólumát.\n\nDélben hajtson le az északi partokra, és élvezze a Piso Gualia és a Gualia strandok derűs szépségét, amelyek tökéletesek egy frissítő tengeri csobbanásra.\n\nDélután térjen vissza az elegáns Chorába, és tekintse meg a Kortárs Művészeti Múzeum remekműveit, majd fedezze fel az Alsó Erőd hangulatos romjait.\n\nZárja a napot a Tourlites világítótorony magányos sziklájának látványával; a varázslatos panoráma tökéletesen megragadja Androsz egyedi szellemét és atmoszféráját.",
+        "ro": "Începeți călătoria cu mașina spre interiorul verde pentru a admira Turnul istoric Bistis-Mouvelas, un simbol uimitor al arhitecturii defensive medievale a insulei.\n\nPână la amiază, conduceți spre țărmurile nordice pentru a experimenta frumusețea plajelor Piso Gualia și Gualia, locuri perfecte pentru a vă relaxa la malul mării.\n\nÎntoarceți-vă în eleganta Chora după-amiaza pentru a admira capodoperele de la Muzeul de Artă Contemporană și pentru a explora ruinele fascinante ale castelului.\n\nTerminați turul admirând valurile care se sparg de stânca solitară a Farului Tourlites, o priveliște magică ce surprinde perfect spiritul insulei Andros.",
+        "en": "Kick off your road trip by driving to the verdant interior to marvel at the historic Bistis-Mouvelas Tower, a towering reminder of the island's medieval defensive architecture.\n\nBy midday, drive down to the northern shores to experience the serene beauty of Piso Gualia and Gualia beaches, perfect spots to relax and dip your toes in the Aegean waters.\n\nHead back into the elegant Chora in the afternoon to admire the masterpieces at the Museum of Contemporary Art and explore the atmospheric ruins of the Lower Castle.\n\nFinish your driving tour by watching the waves crash against the solitary rock of the Tourlites Lighthouse, a magical sight that perfectly captures the spirit of Andros."
+      }
+    }
+  }
+}

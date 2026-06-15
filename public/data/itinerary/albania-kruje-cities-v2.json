@@ -1,0 +1,382 @@
+{
+  "city_id": "albania-kruje-cities-v2",
+  "anchor": {
+    "name": "Krujë",
+    "coords": [
+      19.7925,
+      41.5094
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:02",
+      "total_km": 1.4,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": {
+            "de": "Stonebridge",
+            "hu": "Stonebridge",
+            "ro": "Stonebridge",
+            "en": "Stonebridge"
+          },
+          "coords": [
+            19.792681,
+            41.506202
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die antike Handwerkskunst dieser historischen Brücke der alten Handelsrouten und machen Sie frühmorgens Fotos für das beste Licht.",
+            "hu": "Csodálja meg e történelmi híd ősi kőfalazatát, amely kereskedelmi útvonalakat kötött össze, és fotózzon kora reggel a legjobb természetes fényért.",
+            "ro": "Admirați zidăria veche a acestui pod istoric care lega rute comerciale și faceți fotografii dimineața devreme pentru cea mai bună lumină naturală.",
+            "en": "Admire the ancient stonework of this historical bridge that connected trade routes, and take photos early in the morning for the best natural light."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationales Ethnografisches Museum",
+            "hu": "Nemzeti Néprajzi Múzeum",
+            "ro": "Muzeul Național Etnografic",
+            "en": "National Ethnographic Museum"
+          },
+          "coords": [
+            19.793723,
+            41.506696
+          ],
+          "category": "museum",
+          "arrive_at": "09:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie das traditionelle albanische Leben in einem echten osmanischen Haus und achten Sie besonders auf die Holzarbeiten und Originalfresken.",
+            "hu": "Fedezze fel a hagyományos albán életet egy oszmán kori házban, és szenteljen különös figyelmet a bonyolult fafaragásoknak és eredeti freskóknak.",
+            "ro": "Explorați viața tradițională albaneză într-o casă otomană autentică și acordați atenție deosebită detaliilor din lemn și frescelor originale.",
+            "en": "Explore traditional Albanian life inside an authentic Ottoman-era house, and pay close attention to the intricate woodwork and original frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Basar-Moschee",
+            "hu": "Bazár mecset",
+            "ro": "Moscheea Bazarului",
+            "en": "Bazaar Mosque"
+          },
+          "coords": [
+            19.794561,
+            41.509665
+          ],
+          "category": "religious",
+          "arrive_at": "11:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die friedliche Atmosphäre dieser historischen Moschee neben dem alten Basar, aber denken Sie daran, sich vor dem Betreten bescheiden zu kleiden.",
+            "hu": "Tapasztalja meg e történelmi mecset békés légkörét a nyüzsgő régi bazár mellett, de ne felejtsen el szerény ruházatot viselni a belépés előtt.",
+            "ro": "Experimentați atmosfera senină a acestei moschei istorice de lângă bazarul vechi, dar amintiți-vă să vă îmbrăcați modest înainte de a intra.",
+            "en": "Experience the serene atmosphere of this historic mosque located right next to the vibrant old bazaar, but remember to dress modestly before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt über die Stadt",
+            "hu": "Városi kilátó",
+            "ro": "Punct de belvedere asupra orașului",
+            "en": "View Point over City"
+          },
+          "coords": [
+            19.799703,
+            41.518065
+          ],
+          "category": "viewpoint",
+          "arrive_at": "12:07",
+          "stay_min": 55,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf das Krujë-Tal bis zur Adria und bringen Sie ein Fernglas mit, um ferne Sehenswürdigkeiten zu sehen.",
+            "hu": "Élvezze az Adriai-tengerig nyúló Krujë-völgy lélegzetelállító panorámáját, és hozzon magával távcsövet a távoli nevezetességek felfedezéséhez.",
+            "ro": "Bucurați-vă de vederi panoramice uluitoare ale văii Krujë până la Marea Adriatică și aduceți binoclul pentru a observa obiectivele îndepărtate.",
+            "en": "Take in breathtaking panoramic views of the entire Krujë valley stretching to the Adriatic Sea, and bring binoculars to spot distant landmarks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit antiker Architektur und lokaler Geschichte.\n\nDer Mittag lädt in das Herz der traditionellen Kultur und des Erbes ein.\n\nDer Nachmittag wechselt zu weiten Naturlandschaften und ruhigen Ausblicken.\n\nDer Abend schließt die Reise mit einer stillen Reflexion über die historische Stadt ab.",
+        "hu": "A reggel az ősi kőépítészet és a helyi történelem felfedezésével kezdődik.\n\nA dél a hagyományos kultúra és a vallási örökség szívébe invitál.\n\nA délután lenyűgöző természeti tájakra és békés kilátásokra vált.\n\nAz este egy csendes elmélkedéssel zárja az utazást a történelmi kisváros felett.",
+        "ro": "Dimineața începe cu explorarea arhitecturii din piatră și istoriei locale.\n\nMiezul zilei vă invită în inima culturii tradiționale și a moștenirii religioase.\n\nDupă-amiaza trece la peisaje naturale vaste și vederi senine.\n\nSeara încheie călătoria cu o reflecție liniștită asupra orașului istoric.",
+        "en": "Morning begins with exploring ancient stone architecture and local history.\n\nMidday invites you into the heart of traditional culture and religious heritage.\n\nAfternoon shifts to sweeping natural landscapes and serene views.\n\nEvening wraps up the journey with a quiet reflection over the historical town."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:32",
+      "total_km": 3.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Stonebridge",
+            "hu": "Stonebridge",
+            "ro": "Stonebridge",
+            "en": "Stonebridge"
+          },
+          "coords": [
+            19.792681,
+            41.506202
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die antike Handwerkskunst dieser historischen Brücke der alten Handelsrouten und machen Sie frühmorgens Fotos für das beste Licht.",
+            "hu": "Csodálja meg e történelmi híd ősi kőfalazatát, amely kereskedelmi útvonalakat kötött össze, és fotózzon kora reggel a legjobb természetes fényért.",
+            "ro": "Admirați zidăria veche a acestui pod istoric care lega rute comerciale și faceți fotografii dimineața devreme pentru cea mai bună lumină naturală.",
+            "en": "Admire the ancient stonework of this historical bridge that connected trade routes, and take photos early in the morning for the best natural light."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationales Ethnografisches Museum",
+            "hu": "Nemzeti Néprajzi Múzeum",
+            "ro": "Muzeul Național Etnografic",
+            "en": "National Ethnographic Museum"
+          },
+          "coords": [
+            19.793723,
+            41.506696
+          ],
+          "category": "museum",
+          "arrive_at": "09:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie das traditionelle albanische Leben in einem echten osmanischen Haus und achten Sie besonders auf die Holzarbeiten und Originalfresken.",
+            "hu": "Fedezze fel a hagyományos albán életet egy oszmán kori házban, és szenteljen különös figyelmet a bonyolult fafaragásoknak és eredeti freskóknak.",
+            "ro": "Explorați viața tradițională albaneză într-o casă otomană autentică și acordați atenție deosebită detaliilor din lemn și frescelor originale.",
+            "en": "Explore traditional Albanian life inside an authentic Ottoman-era house, and pay close attention to the intricate woodwork and original frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Basar-Moschee",
+            "hu": "Bazár mecset",
+            "ro": "Moscheea Bazarului",
+            "en": "Bazaar Mosque"
+          },
+          "coords": [
+            19.794561,
+            41.509665
+          ],
+          "category": "religious",
+          "arrive_at": "11:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die friedliche Atmosphäre dieser historischen Moschee neben dem alten Basar, aber denken Sie daran, sich vor dem Betreten bescheiden zu kleiden.",
+            "hu": "Tapasztalja meg e történelmi mecset békés légkörét a nyüzsgő régi bazár mellett, de ne felejtsen el szerény ruházatot viselni a belépés előtt.",
+            "ro": "Experimentați atmosfera senină a acestei moschei istorice de lângă bazarul vechi, dar amintiți-vă să vă îmbrăcați modest înainte de a intra.",
+            "en": "Experience the serene atmosphere of this historic mosque located right next to the vibrant old bazaar, but remember to dress modestly before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Höhle von Sari Salltiku",
+            "hu": "Sari Salltiku barlangja",
+            "ro": "Peștera lui Sari Salltiku",
+            "en": "Sari Salltiku's Cave"
+          },
+          "coords": [
+            19.802136,
+            41.517444
+          ],
+          "category": "landmark",
+          "arrive_at": "11:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses heilige Bergschrein tief in einer Höhle, die Pilger anzieht, und tragen Sie feste Schuhe für den steilen Aufstieg zum Eingang.",
+            "hu": "Látogasson el ebbe a barlang mélyén megbúvó, zarándokokat vonzó hegyi szentélybe, és viseljen masszív cipőt a bejárathoz vezető meredek úthoz.",
+            "ro": "Vizitați acest altar montan sacru ascuns adânc într-o peșteră care atrage pelerini și purtați încălțăminte robustă pentru urcarea abruptă la intrare.",
+            "en": "Visit this sacred mountain shrine nestled deep inside a cave that attracts pilgrims, and wear sturdy shoes for the steep ascent to the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Liqeni i Baruneve",
+            "hu": "Liqeni i Baruneve",
+            "ro": "Liqeni i Baruneve",
+            "en": "Liqeni i Baruneve"
+          },
+          "coords": [
+            19.77479,
+            41.513544
+          ],
+          "category": "natural",
+          "arrive_at": "12:47",
+          "stay_min": 105,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am ruhigen Wasser dieses malerischen Sees, umgeben von Hügeln, und packen Sie ein Picknick für eine friedliche Nachmittagspause ein.",
+            "hu": "Pihenjen e festői helyi tó nyugodt vize mellett, amelyet dombok vesznek körül, és vigyen magával egy kis pikniket a békés délutáni kikapcsolódáshoz.",
+            "ro": "Relaxați-vă pe malul apelor liniștite ale acestui lac pitoresc înconjurat de dealuri și pregătiți un mic picnic pentru o pauză liniștită după-amiaza.",
+            "en": "Relax by the calm waters of this picturesque local lake surrounded by rolling hills, and pack a small picnic to enjoy during a peaceful afternoon break."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit antiker Architektur und lokaler Geschichte.\n\nDer Mittag lädt in das Herz der traditionellen Kultur und des Erbes ein.\n\nDer Nachmittag wechselt zu weiten Naturlandschaften und ruhigen Ausblicken.\n\nDer Abend schließt die Reise mit einer stillen Reflexion über die historische Stadt ab.",
+        "hu": "A reggel az ősi kőépítészet és a helyi történelem felfedezésével kezdődik.\n\nA dél a hagyományos kultúra és a vallási örökség szívébe invitál.\n\nA délután lenyűgöző természeti tájakra és békés kilátásokra vált.\n\nAz este egy csendes elmélkedéssel zárja az utazást a történelmi kisváros felett.",
+        "ro": "Dimineața începe cu explorarea arhitecturii din piatră și istoriei locale.\n\nMiezul zilei vă invită în inima culturii tradiționale și a moștenirii religioase.\n\nDupă-amiaza trece la peisaje naturale vaste și vederi senine.\n\nSeara încheie călătoria cu o reflecție liniștită asupra orașului istoric.",
+        "en": "Morning begins with exploring ancient stone architecture and local history.\n\nMidday invites you into the heart of traditional culture and religious heritage.\n\nAfternoon shifts to sweeping natural landscapes and serene views.\n\nEvening wraps up the journey with a quiet reflection over the historical town."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:35",
+      "total_km": 8.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Basar-Moschee",
+            "hu": "Bazár mecset",
+            "ro": "Moscheea Bazarului",
+            "en": "Bazaar Mosque"
+          },
+          "coords": [
+            19.794561,
+            41.509665
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die friedliche Atmosphäre dieser historischen Moschee neben dem alten Basar, aber denken Sie daran, sich vor dem Betreten bescheiden zu kleiden.",
+            "hu": "Tapasztalja meg e történelmi mecset békés légkörét a nyüzsgő régi bazár mellett, de ne felejtsen el szerény ruházatot viselni a belépés előtt.",
+            "ro": "Experimentați atmosfera senină a acestei moschei istorice de lângă bazarul vechi, dar amintiți-vă să vă îmbrăcați modest înainte de a intra.",
+            "en": "Experience the serene atmosphere of this historic mosque located right next to the vibrant old bazaar, but remember to dress modestly before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationales Ethnografisches Museum",
+            "hu": "Nemzeti Néprajzi Múzeum",
+            "ro": "Muzeul Național Etnografic",
+            "en": "National Ethnographic Museum"
+          },
+          "coords": [
+            19.793723,
+            41.506696
+          ],
+          "category": "museum",
+          "arrive_at": "09:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie das traditionelle albanische Leben in einem echten osmanischen Haus und achten Sie besonders auf die Holzarbeiten und Originalfresken.",
+            "hu": "Fedezze fel a hagyományos albán életet egy oszmán kori házban, és szenteljen különös figyelmet a bonyolult fafaragásoknak és eredeti freskóknak.",
+            "ro": "Explorați viața tradițională albaneză într-o casă otomană autentică și acordați atenție deosebită detaliilor din lemn și frescelor originale.",
+            "en": "Explore traditional Albanian life inside an authentic Ottoman-era house, and pay close attention to the intricate woodwork and original frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Höhle von Sari Salltiku",
+            "hu": "Sari Salltiku barlangja",
+            "ro": "Peștera lui Sari Salltiku",
+            "en": "Sari Salltiku's Cave"
+          },
+          "coords": [
+            19.802136,
+            41.517444
+          ],
+          "category": "landmark",
+          "arrive_at": "11:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses heilige Bergschrein tief in einer Höhle, die Pilger anzieht, und tragen Sie feste Schuhe für den steilen Aufstieg zum Eingang.",
+            "hu": "Látogasson el ebbe a barlang mélyén megbúvó, zarándokokat vonzó hegyi szentélybe, és viseljen masszív cipőt a bejárathoz vezető meredek úthoz.",
+            "ro": "Vizitați acest altar montan sacru ascuns adânc într-o peșteră care atrage pelerini și purtați încălțăminte robustă pentru urcarea abruptă la intrare.",
+            "en": "Visit this sacred mountain shrine nestled deep inside a cave that attracts pilgrims, and wear sturdy shoes for the steep ascent to the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalaja e Irmajt",
+            "hu": "Kalaja e Irmajt",
+            "ro": "Kalaja e Irmajt",
+            "en": "Kalaja e Irmajt"
+          },
+          "coords": [
+            19.779151,
+            41.52795
+          ],
+          "category": "castle",
+          "arrive_at": "12:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die antiken Ruinen dieser weniger bekannten regionalen Burg der mittelalterlichen Verteidigung und bleiben Sie zu Ihrer Sicherheit auf den Wegen.",
+            "hu": "Fedezze fel e kevésbé ismert regionális vár ősi romjait, amely bepillantást enged a középkori védekezésbe, és biztonsága érdekében maradjon a kijelölt utakon.",
+            "ro": "Descoperiți ruinele antice ale acestui castel regional mai puțin cunoscut, care oferă o privire în apărarea medievală, și rămâneți pe poteci pentru siguranță.",
+            "en": "Discover the ancient ruins of this lesser-known regional castle offering a glimpse into medieval defense, and stay on the marked paths for your safety."
+          }
+        },
+        {
+          "name": {
+            "de": "Kraste-Verjon Landschaftsschutzgebiet",
+            "hu": "Kraste-Verjon Tájvédelmi Körzet",
+            "ro": "Aria Protejată Kraste-Verjon",
+            "en": "Kraste-Verjon Protected Landscape"
+          },
+          "coords": [
+            19.776742,
+            41.484583
+          ],
+          "category": "natural",
+          "arrive_at": "13:50",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 4.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die unberührte Biodiversität dieses Naturschutzgebietes voller einheimischer Flora und nehmen Sie genug Wasser für die Wanderwege mit.",
+            "hu": "Merüljön el az őshonos növényvilágban gazdag védett természeti terület érintetlen biodiverzitásában, és vigyen elegendő vizet a hosszú túraútvonalakhoz.",
+            "ro": "Cufundați-vă în biodiversitatea curată a acestei arii naturale protejate pline de floră autohtonă și luați suficientă apă pentru traseele lungi de drumeție.",
+            "en": "Immerse yourself in the pristine biodiversity of this protected natural area full of native flora, and carry enough water for the long hiking trails."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit antiker Architektur und lokaler Geschichte.\n\nDer Mittag lädt in das Herz der traditionellen Kultur und des Erbes ein.\n\nDer Nachmittag wechselt zu weiten Naturlandschaften und ruhigen Ausblicken.\n\nDer Abend schließt die Reise mit einer stillen Reflexion über die historische Stadt ab.",
+        "hu": "A reggel az ősi kőépítészet és a helyi történelem felfedezésével kezdődik.\n\nA dél a hagyományos kultúra és a vallási örökség szívébe invitál.\n\nA délután lenyűgöző természeti tájakra és békés kilátásokra vált.\n\nAz este egy csendes elmélkedéssel zárja az utazást a történelmi kisváros felett.",
+        "ro": "Dimineața începe cu explorarea arhitecturii din piatră și istoriei locale.\n\nMiezul zilei vă invită în inima culturii tradiționale și a moștenirii religioase.\n\nDupă-amiaza trece la peisaje naturale vaste și vederi senine.\n\nSeara încheie călătoria cu o reflecție liniștită asupra orașului istoric.",
+        "en": "Morning begins with exploring ancient stone architecture and local history.\n\nMidday invites you into the heart of traditional culture and religious heritage.\n\nAfternoon shifts to sweeping natural landscapes and serene views.\n\nEvening wraps up the journey with a quiet reflection over the historical town."
+      }
+    }
+  }
+}

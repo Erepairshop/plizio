@@ -1,0 +1,474 @@
+{
+  "city_id": "uk-formby-cities-v2",
+  "anchor": {
+    "name": "Formby",
+    "coords": [
+      -3.0666,
+      53.5586
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 3.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Holy Trinity Church",
+            "hu": "Szentháromság Templom",
+            "ro": "Biserica Sfânta Treime",
+            "en": "Holy Trinity Church"
+          },
+          "coords": [
+            -3.063345,
+            53.556886
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Architektur dieser historischen Pfarrkirche mit ihrem ruhigen Kirchhof und kommen Sie sonntags früh, um den Chor zu hören.",
+            "hu": "Fedezze fel e történelmi plébániatemplom gyönyörű építészetét és békés udvarát, és érkezzen korán vasárnap, hogy meghallgassa a kórust.",
+            "ro": "Descoperiți arhitectura superbă a acestei biserici parohiale istorice, cu curtea sa liniștită, și veniți devreme duminica pentru a asculta corul.",
+            "en": "Discover the beautiful architecture of this historic parish church, known for its tranquil churchyard, and arrive early on Sundays to hear the lovely choir."
+          }
+        },
+        {
+          "name": {
+            "de": "St Luke's Church",
+            "hu": "Szent Lukács Templom",
+            "ro": "Biserica Sfântul Luca",
+            "en": "St Luke's Church"
+          },
+          "coords": [
+            -3.077653,
+            53.549999
+          ],
+          "category": "religious",
+          "arrive_at": "10:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden Buntglasfenster dieser ruhigen Kirche, die von lokaler Geschichte zeugt, und machen Sie einen Spaziergang über den angrenzenden Friedhof.",
+            "hu": "Csodálja meg e békés, helyi történelmet őrző templom lenyűgöző ólomüveg ablakait, és tegyen egy csendes sétát a szomszédos temetőkertben.",
+            "ro": "Admirați vitraliile impresionante ale acestei biserici liniștite ce reflectă istoria locală și faceți o plimbare scurtă prin cimitirul pitoresc alăturat.",
+            "en": "Admire the impressive stained glass windows of this peaceful church that reflects local history, and take a quiet stroll through the adjacent picturesque graveyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Formby Pinienwälder",
+            "hu": "Formby Fenyvesek",
+            "ro": "Pădurile de Pini Formby",
+            "en": "Formby Pinewoods"
+          },
+          "coords": [
+            -3.080951,
+            53.559952
+          ],
+          "category": "natural",
+          "arrive_at": "11:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Wandern Sie durch diesen malerischen Küstenwald, der für seine reiche Flora bekannt ist, und tragen Sie bequeme Wanderschuhe für die unebenen Waldwege.",
+            "hu": "Sétáljon végig ezen a gazdag növényvilágáról ismert, festői tengerparti fenyvesen, és viseljen kényelmes cipőt az egyenetlen erdei ösvényekhez.",
+            "ro": "Plimbați-vă prin această pădure de coastă pitorească, cunoscută pentru flora sa bogată, și purtați încălțăminte confortabilă pentru potecile denivelate.",
+            "en": "Wander through this picturesque coastal forest, known for its rich flora, and make sure to wear comfortable walking shoes for the uneven woodland trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Spargelfelder",
+            "hu": "Spárgaföldek",
+            "ro": "Câmpurile de Sparanghel",
+            "en": "The Asparagus Fields"
+          },
+          "coords": [
+            -3.086968,
+            53.562333
+          ],
+          "category": "historical",
+          "arrive_at": "12:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Felder, wo einst Formbys berühmter Spargel angebaut wurde, und achten Sie auf Informationstafeln zur lokalen Agrargeschichte.",
+            "hu": "Fedezze fel a történelmi földeket, ahol egykor Formby híres spárgáját termesztették, és keresse a helyi agrártörténetet bemutató információs táblákat.",
+            "ro": "Explorați câmpurile istorice unde se cultiva faimosul sparanghel din Formby și căutați panourile informative despre istoria agricolă locală.",
+            "en": "Explore the historic fields where Formby's famous asparagus was once grown, and look out for the information boards detailing the local agricultural history."
+          }
+        },
+        {
+          "name": {
+            "de": "Formby Rotes Eichhörnchen-Reservat",
+            "hu": "Formby Vörösmókus Rezervátum",
+            "ro": "Rezervația de Veverițe Roșii Formby",
+            "en": "Formby Red Squirrel Reserve"
+          },
+          "coords": [
+            -3.091951,
+            53.565252
+          ],
+          "category": "natural",
+          "arrive_at": "13:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie die seltenen roten Eichhörnchen in ihrem natürlichen Lebensraum und kommen Sie früh am Morgen, wenn die Tiere am aktivsten und sichtbarsten sind.",
+            "hu": "Figyelje meg a ritka vörös mókusokat természetes élőhelyükön, és érkezzen kora reggel, amikor az állatok a legaktívabbak és leginkább láthatóak.",
+            "ro": "Observați veverițele roșii rare în habitatul lor natural și veniți dis-de-dimineață, când animalele sunt cel mai active și mai ușor de văzut.",
+            "en": "Observe the rare red squirrels in their natural woodland habitat, and aim to arrive early in the morning when the animals are most active and visible."
+          }
+        },
+        {
+          "name": {
+            "de": "Formby Strand",
+            "hu": "Formby Tengerpart",
+            "ro": "Plaja Formby",
+            "en": "Formby Beach"
+          },
+          "coords": [
+            -3.09716,
+            53.56522
+          ],
+          "category": "natural",
+          "arrive_at": "15:16",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die weiten Sandstrände mit den dramatischen Dünen, aber überprüfen Sie vorher die Gezeiten, um nicht von der Flut überrascht zu werden.",
+            "hu": "Élvezze a tágas homokos strandot és a drámai dűnéket, de indulás előtt ellenőrizze az árapály-táblázatot a kellemetlen meglepetések elkerülése végett.",
+            "ro": "Bucurați-vă de plajele întinse cu nisip și dune spectaculoase, dar verificați mereu graficul mareelor înainte pentru a nu fi surprins de ape.",
+            "en": "Enjoy the expansive sandy beaches backed by dramatic dunes, but always check the local tide times before you visit to avoid being caught by the incoming water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit einem ruhigen Spaziergang durch Formbys charmante Straßen und historische Kirchen. Gegen Mittag führt der Weg in die herrlichen Pinienwälder, wo frische Luft und Natur auf Sie warten. Der Nachmittag ist den berühmten roten Eichhörnchen und den historischen Spargelfeldern gewidmet. Abends lassen Sie den Tag an den weiten Stränden bei einem Spaziergang ausklingen.",
+        "hu": "Kezdje a reggelt egy békés sétával Formby bájos utcáin és történelmi templomainál. Délben az út a gyönyörű fenyőerdőkbe vezet, ahol friss levegő és természet várja. A délutánt a híres vörös mókusoknak és a történelmi spárgaföldeknek szentelheti. Este a végtelen homokos partokon, a dűnék között sétálva zárhatja le a napot.",
+        "ro": "Începeți dimineața cu o plimbare liniștită pe străzile fermecătoare din Formby și printre bisericile sale istorice. La prânz, drumul vă duce în frumoasele păduri de pini, pline de aer proaspăt. După-amiaza este dedicată faimoaselor veverițe roșii și câmpurilor istorice de sparanghel. Seara, relaxați-vă pe plajele întinse, la apus, ascultând valurile mării.",
+        "en": "Start your morning with a peaceful walk through Formby's charming streets and historic churches. By midday, the trail leads into the beautiful pine woods, offering fresh air and nature. The afternoon is dedicated to spotting the famous red squirrels and exploring the historic asparagus fields. In the evening, unwind with a scenic walk along the expansive sandy beaches and rolling dunes."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 5.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Freshfield Dünenheide",
+            "hu": "Freshfield Dűne Fenyér",
+            "ro": "Landa Dunelor Freshfield",
+            "en": "Freshfield Dune Heath"
+          },
+          "coords": [
+            -3.067312,
+            53.573548
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese seltene Heidelandschaft voller einzigartiger Wildtiere und bleiben Sie auf den markierten Pfaden, um das empfindliche Ökosystem zu schützen.",
+            "hu": "Fedezze fel ezt a ritka, különleges vadvilággal teli fenyérvidéket, és maradjon a kijelölt ösvényeken a törékeny ökoszisztéma védelme érdekében.",
+            "ro": "Descoperiți această rezervație rară de landă plină de viață sălbatică unică și rămâneți pe potecile marcate pentru a proteja ecosistemul fragil.",
+            "en": "Discover this rare heathland habitat teeming with unique wildlife, and strictly stay on the marked paths to help protect the fragile local ecosystem."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Spargelfelder",
+            "hu": "Spárgaföldek",
+            "ro": "Câmpurile de Sparanghel",
+            "en": "The Asparagus Fields"
+          },
+          "coords": [
+            -3.086968,
+            53.562333
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Felder, wo einst Formbys berühmter Spargel angebaut wurde, und achten Sie auf Informationstafeln zur lokalen Agrargeschichte.",
+            "hu": "Fedezze fel a történelmi földeket, ahol egykor Formby híres spárgáját termesztették, és keresse a helyi agrártörténetet bemutató információs táblákat.",
+            "ro": "Explorați câmpurile istorice unde se cultiva faimosul sparanghel din Formby și căutați panourile informative despre istoria agricolă locală.",
+            "en": "Explore the historic fields where Formby's famous asparagus was once grown, and look out for the information boards detailing the local agricultural history."
+          }
+        },
+        {
+          "name": {
+            "de": "Formby Rotes Eichhörnchen-Reservat",
+            "hu": "Formby Vörösmókus Rezervátum",
+            "ro": "Rezervația de Veverițe Roșii Formby",
+            "en": "Formby Red Squirrel Reserve"
+          },
+          "coords": [
+            -3.091951,
+            53.565252
+          ],
+          "category": "natural",
+          "arrive_at": "11:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie die seltenen roten Eichhörnchen in ihrem natürlichen Lebensraum und kommen Sie früh am Morgen, wenn die Tiere am aktivsten und sichtbarsten sind.",
+            "hu": "Figyelje meg a ritka vörös mókusokat természetes élőhelyükön, és érkezzen kora reggel, amikor az állatok a legaktívabbak és leginkább láthatóak.",
+            "ro": "Observați veverițele roșii rare în habitatul lor natural și veniți dis-de-dimineață, când animalele sunt cel mai active și mai ușor de văzut.",
+            "en": "Observe the rare red squirrels in their natural woodland habitat, and aim to arrive early in the morning when the animals are most active and visible."
+          }
+        },
+        {
+          "name": {
+            "de": "Formby Strand",
+            "hu": "Formby Tengerpart",
+            "ro": "Plaja Formby",
+            "en": "Formby Beach"
+          },
+          "coords": [
+            -3.09716,
+            53.56522
+          ],
+          "category": "natural",
+          "arrive_at": "13:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die weiten Sandstrände mit den dramatischen Dünen, aber überprüfen Sie vorher die Gezeiten, um nicht von der Flut überrascht zu werden.",
+            "hu": "Élvezze a tágas homokos strandot és a drámai dűnéket, de indulás előtt ellenőrizze az árapály-táblázatot a kellemetlen meglepetések elkerülése végett.",
+            "ro": "Bucurați-vă de plajele întinse cu nisip și dune spectaculoase, dar verificați mereu graficul mareelor înainte pentru a nu fi surprins de ape.",
+            "en": "Enjoy the expansive sandy beaches backed by dramatic dunes, but always check the local tide times before you visit to avoid being caught by the incoming water."
+          }
+        },
+        {
+          "name": {
+            "de": "Lifeboat Road",
+            "hu": "Mentőcsónak Út",
+            "ro": "Drumul Bărcilor de Salvare",
+            "en": "Lifeboat Road"
+          },
+          "coords": [
+            -3.093547,
+            53.550073
+          ],
+          "category": "recreational",
+          "arrive_at": "14:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Folgen Sie diesem historischen Pfad durch die Dünen zum Meer, der ideal für Spaziergänge ist, und nehmen Sie ein Fernglas für die Vogelbeobachtung mit.",
+            "hu": "Kövesse ezt a dűnéken át a tengerhez vezető, sétákra ideális történelmi ösvényt, és hozzon magával távcsövet a partmenti madármegfigyeléshez.",
+            "ro": "Urmați această cărare istorică prin dune către mare, ideală pentru plimbări, și luați cu voi un binoclu pentru observarea păsărilor de coastă.",
+            "en": "Follow this historic path through the sand dunes to the sea, which is ideal for walks, and bring a pair of binoculars for excellent coastal birdwatching."
+          }
+        },
+        {
+          "name": {
+            "de": "St Luke's Church",
+            "hu": "Szent Lukács Templom",
+            "ro": "Biserica Sfântul Luca",
+            "en": "St Luke's Church"
+          },
+          "coords": [
+            -3.077653,
+            53.549999
+          ],
+          "category": "religious",
+          "arrive_at": "16:01",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden Buntglasfenster dieser ruhigen Kirche, die von lokaler Geschichte zeugt, und machen Sie einen Spaziergang über den angrenzenden Friedhof.",
+            "hu": "Csodálja meg e békés, helyi történelmet őrző templom lenyűgöző ólomüveg ablakait, és tegyen egy csendes sétát a szomszédos temetőkertben.",
+            "ro": "Admirați vitraliile impresionante ale acestei biserici liniștite ce reflectă istoria locală și faceți o plimbare scurtă prin cimitirul pitoresc alăturat.",
+            "en": "Admire the impressive stained glass windows of this peaceful church that reflects local history, and take a quiet stroll through the adjacent picturesque graveyard."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit einem ruhigen Spaziergang durch Formbys charmante Straßen und historische Kirchen. Gegen Mittag führt der Weg in die herrlichen Pinienwälder, wo frische Luft und Natur auf Sie warten. Der Nachmittag ist den berühmten roten Eichhörnchen und den historischen Spargelfeldern gewidmet. Abends lassen Sie den Tag an den weiten Stränden bei einem Spaziergang ausklingen.",
+        "hu": "Kezdje a reggelt egy békés sétával Formby bájos utcáin és történelmi templomainál. Délben az út a gyönyörű fenyőerdőkbe vezet, ahol friss levegő és természet várja. A délutánt a híres vörös mókusoknak és a történelmi spárgaföldeknek szentelheti. Este a végtelen homokos partokon, a dűnék között sétálva zárhatja le a napot.",
+        "ro": "Începeți dimineața cu o plimbare liniștită pe străzile fermecătoare din Formby și printre bisericile sale istorice. La prânz, drumul vă duce în frumoasele păduri de pini, pline de aer proaspăt. După-amiaza este dedicată faimoaselor veverițe roșii și câmpurilor istorice de sparanghel. Seara, relaxați-vă pe plajele întinse, la apus, ascultând valurile mării.",
+        "en": "Start your morning with a peaceful walk through Formby's charming streets and historic churches. By midday, the trail leads into the beautiful pine woods, offering fresh air and nature. The afternoon is dedicated to spotting the famous red squirrels and exploring the historic asparagus fields. In the evening, unwind with a scenic walk along the expansive sandy beaches and rolling dunes."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 8.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Long Slack",
+            "hu": "Long Slack",
+            "ro": "Long Slack",
+            "en": "Long Slack"
+          },
+          "coords": [
+            -3.072493,
+            53.58395
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe in diesem abgelegenen Naturgebiet, das sich hervorragend zum Fotografieren eignet, besonders während des magischen Lichts am Nachmittag.",
+            "hu": "Élvezze a csendet ezen a félreeső természeti területen, amely kiválóan alkalmas fotózásra, különösen a délutáni órák varázslatos fényeiben.",
+            "ro": "Bucurați-vă de liniștea acestei zone naturale izolate, perfectă pentru fotografie, în special în timpul luminii magice a orelor de după-amiază.",
+            "en": "Enjoy the tranquility of this secluded natural area that is excellent for photography, especially during the magical light of the late afternoon hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Formby Golfclub",
+            "hu": "Formby Golf Klub",
+            "ro": "Clubul de Golf Formby",
+            "en": "Formby Golf Club"
+          },
+          "coords": [
+            -3.0755,
+            53.569
+          ],
+          "category": "recreational",
+          "arrive_at": "10:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gepflegten Grüns dieses renommierten Golfplatzes von den öffentlichen Wegen aus und respektieren Sie dabei die Ruhe der spielenden Gäste.",
+            "hu": "Csodálja meg e neves golfpálya gondozott pázsitját a nyilvános ösvényekről, miközben tiszteletben tartja a játszó vendégek nyugalmát és a pálya szabályait.",
+            "ro": "Admirați gazonul îngrijit al acestui teren de golf renumit de pe potecile publice, respectând în același timp liniștea oaspeților care joacă.",
+            "en": "Admire the manicured greens of this renowned golf course from the public footpaths, making sure to respect the tranquility of the playing guests."
+          }
+        },
+        {
+          "name": {
+            "de": "Formby Rotes Eichhörnchen-Reservat",
+            "hu": "Formby Vörösmókus Rezervátum",
+            "ro": "Rezervația de Veverițe Roșii Formby",
+            "en": "Formby Red Squirrel Reserve"
+          },
+          "coords": [
+            -3.091951,
+            53.565252
+          ],
+          "category": "natural",
+          "arrive_at": "11:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie die seltenen roten Eichhörnchen in ihrem natürlichen Lebensraum und kommen Sie früh am Morgen, wenn die Tiere am aktivsten und sichtbarsten sind.",
+            "hu": "Figyelje meg a ritka vörös mókusokat természetes élőhelyükön, és érkezzen kora reggel, amikor az állatok a legaktívabbak és leginkább láthatóak.",
+            "ro": "Observați veverițele roșii rare în habitatul lor natural și veniți dis-de-dimineață, când animalele sunt cel mai active și mai ușor de văzut.",
+            "en": "Observe the rare red squirrels in their natural woodland habitat, and aim to arrive early in the morning when the animals are most active and visible."
+          }
+        },
+        {
+          "name": {
+            "de": "Formby Strand",
+            "hu": "Formby Tengerpart",
+            "ro": "Plaja Formby",
+            "en": "Formby Beach"
+          },
+          "coords": [
+            -3.09716,
+            53.56522
+          ],
+          "category": "natural",
+          "arrive_at": "13:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die weiten Sandstrände mit den dramatischen Dünen, aber überprüfen Sie vorher die Gezeiten, um nicht von der Flut überrascht zu werden.",
+            "hu": "Élvezze a tágas homokos strandot és a drámai dűnéket, de indulás előtt ellenőrizze az árapály-táblázatot a kellemetlen meglepetések elkerülése végett.",
+            "ro": "Bucurați-vă de plajele întinse cu nisip și dune spectaculoase, dar verificați mereu graficul mareelor înainte pentru a nu fi surprins de ape.",
+            "en": "Enjoy the expansive sandy beaches backed by dramatic dunes, but always check the local tide times before you visit to avoid being caught by the incoming water."
+          }
+        },
+        {
+          "name": {
+            "de": "Cabin Hill",
+            "hu": "Cabin Hill",
+            "ro": "Cabin Hill",
+            "en": "Cabin Hill"
+          },
+          "coords": [
+            -3.081939,
+            53.538318
+          ],
+          "category": "natural",
+          "arrive_at": "14:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Wandern Sie zu dieser erhöhten Düne, um einen Panoramablick auf die Küste zu genießen, und ziehen Sie sich windfest an, da es hier oben oft sehr stürmisch ist.",
+            "hu": "Túrázzon fel erre a magas dűnére a tengerparti panorámáért, és öltözzön szélálló ruhába, mivel odafent gyakran igen viharos az idő.",
+            "ro": "Urcați pe această dună înaltă pentru o priveliște panoramică a coastei și îmbrăcați-vă rezistent la vânt, deoarece sus este adesea foarte furtunos.",
+            "en": "Hike up to this elevated dune to enjoy a panoramic view of the coastline, and dress in windproof layers as it is often very breezy at the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Taylor's Bank",
+            "hu": "Taylor's Bank",
+            "ro": "Bancul lui Taylor",
+            "en": "Taylor's Bank"
+          },
+          "coords": [
+            -3.115058,
+            53.531947
+          ],
+          "category": "recreational",
+          "arrive_at": "15:45",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen ausgedehnten Küstenabschnitt, der sich perfekt für lange Strandspaziergänge eignet, und achten Sie auf die gefährlichen Strömungen im Wasser.",
+            "hu": "Fedezze fel ezt a kiterjedt tengerparti szakaszt, amely tökéletes a hosszú sétákhoz, és ügyeljen a vízben lévő veszélyes áramlatokra.",
+            "ro": "Descoperiți această secțiune de coastă extinsă, perfectă pentru plimbări lungi pe plajă, și fiți atenți la curenții periculoși din apă.",
+            "en": "Discover this extensive stretch of coastline that is perfect for long beach walks, and be extremely mindful of the dangerous currents if near the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit einem ruhigen Spaziergang durch Formbys charmante Straßen und historische Kirchen. Gegen Mittag führt der Weg in die herrlichen Pinienwälder, wo frische Luft und Natur auf Sie warten. Der Nachmittag ist den berühmten roten Eichhörnchen und den historischen Spargelfeldern gewidmet. Abends lassen Sie den Tag an den weiten Stränden bei einem Spaziergang ausklingen.",
+        "hu": "Kezdje a reggelt egy békés sétával Formby bájos utcáin és történelmi templomainál. Délben az út a gyönyörű fenyőerdőkbe vezet, ahol friss levegő és természet várja. A délutánt a híres vörös mókusoknak és a történelmi spárgaföldeknek szentelheti. Este a végtelen homokos partokon, a dűnék között sétálva zárhatja le a napot.",
+        "ro": "Începeți dimineața cu o plimbare liniștită pe străzile fermecătoare din Formby și printre bisericile sale istorice. La prânz, drumul vă duce în frumoasele păduri de pini, pline de aer proaspăt. După-amiaza este dedicată faimoaselor veverițe roșii și câmpurilor istorice de sparanghel. Seara, relaxați-vă pe plajele întinse, la apus, ascultând valurile mării.",
+        "en": "Start your morning with a peaceful walk through Formby's charming streets and historic churches. By midday, the trail leads into the beautiful pine woods, offering fresh air and nature. The afternoon is dedicated to spotting the famous red squirrels and exploring the historic asparagus fields. In the evening, unwind with a scenic walk along the expansive sandy beaches and rolling dunes."
+      }
+    }
+  }
+}

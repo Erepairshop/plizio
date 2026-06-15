@@ -1,0 +1,474 @@
+{
+  "city_id": "croatia-martinscica-cities-v2",
+  "anchor": {
+    "name": "Martinšćica",
+    "coords": [
+      14.3517,
+      44.8194
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 2.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Luka Martinšćica",
+            "hu": "Luka Martinšćica",
+            "ro": "Luka Martinšćica",
+            "en": "Luka Martinšćica"
+          },
+          "coords": [
+            14.349304,
+            44.818176
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre der malerischen Bucht, die das Zentrum des Ortes bildet, und beobachten Sie die Boote, während Sie bequeme Wanderschuhe tragen.",
+            "hu": "Élvezze a festői öböl békés hangulatát, amely a falu központját alkotja, és figyelje a hajókat, miközben kényelmes sétacipőt visel.",
+            "ro": "Bucurați-vă de atmosfera pașnică a golfului pitoresc care formează centrul satului și priviți bărcile în timp ce purtați pantofi comozi de mers.",
+            "en": "Enjoy the peaceful atmosphere of the picturesque bay that forms the center of the village and watch the boats while wearing comfortable walking shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Muzej Andrije Linardića",
+            "hu": "Muzej Andrije Linardića",
+            "ro": "Muzej Andrije Linardića",
+            "en": "Muzej Andrije Linardića"
+          },
+          "coords": [
+            14.350704,
+            44.819221
+          ],
+          "category": "museum",
+          "arrive_at": "10:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche maritime und kulturelle Geschichte der Insel in diesem faszinierenden Museum, und planen Sie genug Zeit für die historischen Exponate ein.",
+            "hu": "Fedezze fel a sziget gazdag tengerészeti és kulturális történelmét ebben a lenyűgöző múzeumban, és szánjon elegendő időt a történelmi kiállításokra.",
+            "ro": "Descoperiți bogata istorie maritimă și culturală a insulei în acest muzeu fascinant și alocați suficient timp pentru expozițiile istorice detaliate.",
+            "en": "Discover the rich maritime and cultural history of the island in this fascinating museum, and plan enough time for the detailed historical exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Tunera",
+            "hu": "Tunera",
+            "ro": "Tunera",
+            "en": "Tunera"
+          },
+          "coords": [
+            14.347356,
+            44.812426
+          ],
+          "category": "historical",
+          "arrive_at": "12:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen hölzernen Aussichtstürme, die einst für den Thunfischfang unerlässlich waren, am besten mit einem Fernglas ausgestattet.",
+            "hu": "Csodálja meg a történelmi fa kilátótornyokat, amelyek egykor elengedhetetlenek voltak a tonhalhalászathoz, lehetőleg egy jó távcsővel felszerelkezve.",
+            "ro": "Admirați turnurile istorice de observație din lemn care au fost cândva esențiale pentru pescuitul de ton, de preferință echipat cu un binoclu.",
+            "en": "Admire the historic wooden observation towers that were once essential for tuna fishing, best experienced while equipped with a good pair of binoculars."
+          }
+        },
+        {
+          "name": {
+            "de": "Tiha",
+            "hu": "Tiha",
+            "ro": "Tiha",
+            "en": "Tiha"
+          },
+          "coords": [
+            14.341871,
+            44.816293
+          ],
+          "category": "recreational",
+          "arrive_at": "13:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem wunderschönen, ruhigen Küstenabschnitt, der seinem Namen alle Ehre macht, und vergessen Sie nicht, ein gutes Buch mitzubringen.",
+            "hu": "Pihenjen ezen a gyönyörű, csendes tengerparti szakaszon, amely hű a nevéhez, és ne felejtsen el magával hozni egy jó könyvet a délutáni kikapcsolódáshoz.",
+            "ro": "Relaxați-vă pe această porțiune de coastă frumoasă și liniștită, care își respectă numele, și nu uitați să aduceți o carte bună pentru după-amiază.",
+            "en": "Relax on this beautiful, quiet stretch of coastline that truly lives up to its name, and don't forget to bring a good book for the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Slatina",
+            "hu": "Slatina",
+            "ro": "Slatina",
+            "en": "Slatina"
+          },
+          "coords": [
+            14.338847,
+            44.823187
+          ],
+          "category": "recreational",
+          "arrive_at": "15:00",
+          "stay_min": 105,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in das kristallklare Wasser dieses beliebten Strandes und nutzen Sie die hervorragenden Bademöglichkeiten in den frühen Morgenstunden.",
+            "hu": "Merüljön el a népszerű strand kristálytiszta vizében, és használja ki a kiváló fürdési lehetőségeket a kora reggeli vagy késő délutáni órákban.",
+            "ro": "Scufundați-vă în apele cristaline ale acestei plaje populare și profitați de facilitățile excelente de înot în orele de dimineață sau seara.",
+            "en": "Dive into the crystal-clear waters of this popular beach and take advantage of the excellent swimming opportunities during the early morning hours."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt an der malerischen Bucht Luka mit frischer Adrialuft. Danach besuchen Sie das Museum, um das maritime Erbe zu entdecken. Mittags spazieren Sie zu den historischen Thunfischfangtürmen der Tunera. Am Nachmittag wandern Sie entspannt ins friedliche Tiha. Lassen Sie den Tag am Strand Slatina mit einem erfrischenden Abendschwimmen ausklingen.",
+        "hu": "A reggel a festői Luka öbölben indul, élvezve a friss adriai levegőt. Ezután látogasson el a múzeumba a tengerészeti örökség felfedezéséhez. Délben a part menti történelmi Tunera halásztornyokhoz sétál. Délután élvezze a békés sétát a nyugodt Tiha partjaira. Zárja a napot a Slatina strandon egy frissítő esti úszással és a naplemente látványával.",
+        "ro": "Dimineața începe în pitorescul golf Luka, savurând aerul proaspăt al Adriaticii. Apoi vizitați muzeul local pentru a descoperi moștenirea maritimă. La prânz mergeți spre turnurile istorice de pescuit Tunera. După-amiaza, bucurați-vă de o plimbare liniștită spre Tiha pentru relaxare. Încheiați-vă ziua la Slatina, cu o baie răcoroasă de seară.",
+        "en": "Morning begins at the picturesque Luka bay, soaking in the fresh Adriatic air. Next, visit the local museum to uncover the maritime heritage. Midday takes you to the historic Tunera fishing towers along the coast. In the afternoon, enjoy a peaceful stroll to Tiha for ultimate relaxation. Conclude your day at Slatina, enjoying a refreshing evening swim."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:54",
+      "total_km": 4.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Luka Martinšćica",
+            "hu": "Luka Martinšćica",
+            "ro": "Luka Martinšćica",
+            "en": "Luka Martinšćica"
+          },
+          "coords": [
+            14.349304,
+            44.818176
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre der malerischen Bucht, die das Zentrum des Ortes bildet, und beobachten Sie die Boote, während Sie bequeme Wanderschuhe tragen.",
+            "hu": "Élvezze a festői öböl békés hangulatát, amely a falu központját alkotja, és figyelje a hajókat, miközben kényelmes sétacipőt visel.",
+            "ro": "Bucurați-vă de atmosfera pașnică a golfului pitoresc care formează centrul satului și priviți bărcile în timp ce purtați pantofi comozi de mers.",
+            "en": "Enjoy the peaceful atmosphere of the picturesque bay that forms the center of the village and watch the boats while wearing comfortable walking shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Muzej Andrije Linardića",
+            "hu": "Muzej Andrije Linardića",
+            "ro": "Muzej Andrije Linardića",
+            "en": "Muzej Andrije Linardića"
+          },
+          "coords": [
+            14.350704,
+            44.819221
+          ],
+          "category": "museum",
+          "arrive_at": "10:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche maritime und kulturelle Geschichte der Insel in diesem faszinierenden Museum, und planen Sie genug Zeit für die historischen Exponate ein.",
+            "hu": "Fedezze fel a sziget gazdag tengerészeti és kulturális történelmét ebben a lenyűgöző múzeumban, és szánjon elegendő időt a történelmi kiállításokra.",
+            "ro": "Descoperiți bogata istorie maritimă și culturală a insulei în acest muzeu fascinant și alocați suficient timp pentru expozițiile istorice detaliate.",
+            "en": "Discover the rich maritime and cultural history of the island in this fascinating museum, and plan enough time for the detailed historical exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Slatina",
+            "hu": "Slatina",
+            "ro": "Slatina",
+            "en": "Slatina"
+          },
+          "coords": [
+            14.338847,
+            44.823187
+          ],
+          "category": "recreational",
+          "arrive_at": "11:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in das kristallklare Wasser dieses beliebten Strandes und nutzen Sie die hervorragenden Bademöglichkeiten in den frühen Morgenstunden.",
+            "hu": "Merüljön el a népszerű strand kristálytiszta vizében, és használja ki a kiváló fürdési lehetőségeket a kora reggeli vagy késő délutáni órákban.",
+            "ro": "Scufundați-vă în apele cristaline ale acestei plaje populare și profitați de facilitățile excelente de înot în orele de dimineață sau seara.",
+            "en": "Dive into the crystal-clear waters of this popular beach and take advantage of the excellent swimming opportunities during the early morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Tiha",
+            "hu": "Tiha",
+            "ro": "Tiha",
+            "en": "Tiha"
+          },
+          "coords": [
+            14.341871,
+            44.816293
+          ],
+          "category": "recreational",
+          "arrive_at": "13:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem wunderschönen, ruhigen Küstenabschnitt, der seinem Namen alle Ehre macht, und vergessen Sie nicht, ein gutes Buch mitzubringen.",
+            "hu": "Pihenjen ezen a gyönyörű, csendes tengerparti szakaszon, amely hű a nevéhez, és ne felejtsen el magával hozni egy jó könyvet a délutáni kikapcsolódáshoz.",
+            "ro": "Relaxați-vă pe această porțiune de coastă frumoasă și liniștită, care își respectă numele, și nu uitați să aduceți o carte bună pentru după-amiază.",
+            "en": "Relax on this beautiful, quiet stretch of coastline that truly lives up to its name, and don't forget to bring a good book for the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Tunera",
+            "hu": "Tunera",
+            "ro": "Tunera",
+            "en": "Tunera"
+          },
+          "coords": [
+            14.347356,
+            44.812426
+          ],
+          "category": "historical",
+          "arrive_at": "14:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen hölzernen Aussichtstürme, die einst für den Thunfischfang unerlässlich waren, am besten mit einem Fernglas ausgestattet.",
+            "hu": "Csodálja meg a történelmi fa kilátótornyokat, amelyek egykor elengedhetetlenek voltak a tonhalhalászathoz, lehetőleg egy jó távcsővel felszerelkezve.",
+            "ro": "Admirați turnurile istorice de observație din lemn care au fost cândva esențiale pentru pescuitul de ton, de preferință echipat cu un binoclu.",
+            "en": "Admire the historic wooden observation towers that were once essential for tuna fishing, best experienced while equipped with a good pair of binoculars."
+          }
+        },
+        {
+          "name": {
+            "de": "Sveti Kristofor",
+            "hu": "Sveti Kristofor",
+            "ro": "Sveti Kristofor",
+            "en": "Sveti Kristofor"
+          },
+          "coords": [
+            14.369502,
+            44.807944
+          ],
+          "category": "historical",
+          "arrive_at": "16:04",
+          "stay_min": 110,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste der alten Kirche und Festung, die einen fantastischen Blick auf das Meer bieten, und nehmen Sie unbedingt eine Kamera mit.",
+            "hu": "Fedezze fel az ősi templom és erőd maradványait, amelyek fantasztikus kilátást nyújtanak a tengerre, és mindenképpen vigyen magával egy fényképezőgépet.",
+            "ro": "Explorați rămășițele vechii biserici și cetăți care oferă vederi fantastice la mare și asigurați-vă că luați o cameră foto pentru peisaje.",
+            "en": "Explore the remains of the ancient church and fortress offering fantastic views of the sea, and be sure to take a camera for the stunning landscapes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit einer Radtour durch die Bucht Luka, bevor Sie im Museum in die Geschichte eintauchen. Mittags radeln Sie zu den Stränden Slatina und Tiha, um die Meeresbrise zu genießen. Am Nachmittag erkunden Sie die faszinierenden Holzstrukturen der Tunera. Beenden Sie Ihr Radabenteuer bei den historischen Ruinen von Sveti Kristofor in der Abenddämmerung.",
+        "hu": "Kezdje a kerékpározást a bájos Luka öbölben, majd merüljön el a helyi történelemben a múzeumban. Délben tekerjen a gyönyörű Slatina és Tiha strandokhoz a tengerparti kilátásért. Délután fedezze fel a lenyűgöző fa Tunera építményeket a festői útvonalon. Fejezze be kerékpáros kalandját a történelmi Sveti Kristofor romjainál szürkületkor.",
+        "ro": "Începeți prin a pedala prin fermecătorul golf Luka înainte de a vă scufunda în istoria locală la muzeu. La prânz, mergeți cu bicicleta spre plajele Slatina și Tiha. După-amiaza, explorați structurile fascinante din lemn Tunera de-a lungul traseului. Terminați aventura cu bicicleta la ruinele istorice Sveti Kristofor la lăsarea serii.",
+        "en": "Start by pedaling through the charming Luka bay before diving into local history at the museum. Midday brings a breezy ride to the beautiful Slatina and Tiha beaches for coastal views. In the afternoon, explore the fascinating wooden Tunera structures along the scenic path. Finish your cycling adventure at the historical Sveti Kristofor ruins at dusk."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:29",
+      "total_km": 19.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Muzej Andrije Linardića",
+            "hu": "Muzej Andrije Linardića",
+            "ro": "Muzej Andrije Linardića",
+            "en": "Muzej Andrije Linardića"
+          },
+          "coords": [
+            14.350704,
+            44.819221
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche maritime und kulturelle Geschichte der Insel in diesem faszinierenden Museum, und planen Sie genug Zeit für die historischen Exponate ein.",
+            "hu": "Fedezze fel a sziget gazdag tengerészeti és kulturális történelmét ebben a lenyűgöző múzeumban, és szánjon elegendő időt a történelmi kiállításokra.",
+            "ro": "Descoperiți bogata istorie maritimă și culturală a insulei în acest muzeu fascinant și alocați suficient timp pentru expozițiile istorice detaliate.",
+            "en": "Discover the rich maritime and cultural history of the island in this fascinating museum, and plan enough time for the detailed historical exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Luka Martinšćica",
+            "hu": "Luka Martinšćica",
+            "ro": "Luka Martinšćica",
+            "en": "Luka Martinšćica"
+          },
+          "coords": [
+            14.349304,
+            44.818176
+          ],
+          "category": "natural",
+          "arrive_at": "10:51",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre der malerischen Bucht, die das Zentrum des Ortes bildet, und beobachten Sie die Boote, während Sie bequeme Wanderschuhe tragen.",
+            "hu": "Élvezze a festői öböl békés hangulatát, amely a falu központját alkotja, és figyelje a hajókat, miközben kényelmes sétacipőt visel.",
+            "ro": "Bucurați-vă de atmosfera pașnică a golfului pitoresc care formează centrul satului și priviți bărcile în timp ce purtați pantofi comozi de mers.",
+            "en": "Enjoy the peaceful atmosphere of the picturesque bay that forms the center of the village and watch the boats while wearing comfortable walking shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Tunera",
+            "hu": "Tunera",
+            "ro": "Tunera",
+            "en": "Tunera"
+          },
+          "coords": [
+            14.347356,
+            44.812426
+          ],
+          "category": "historical",
+          "arrive_at": "11:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen hölzernen Aussichtstürme, die einst für den Thunfischfang unerlässlich waren, am besten mit einem Fernglas ausgestattet.",
+            "hu": "Csodálja meg a történelmi fa kilátótornyokat, amelyek egykor elengedhetetlenek voltak a tonhalhalászathoz, lehetőleg egy jó távcsővel felszerelkezve.",
+            "ro": "Admirați turnurile istorice de observație din lemn care au fost cândva esențiale pentru pescuitul de ton, de preferință echipat cu un binoclu.",
+            "en": "Admire the historic wooden observation towers that were once essential for tuna fishing, best experienced while equipped with a good pair of binoculars."
+          }
+        },
+        {
+          "name": {
+            "de": "Sveti Kristofor",
+            "hu": "Sveti Kristofor",
+            "ro": "Sveti Kristofor",
+            "en": "Sveti Kristofor"
+          },
+          "coords": [
+            14.369502,
+            44.807944
+          ],
+          "category": "historical",
+          "arrive_at": "13:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste der alten Kirche und Festung, die einen fantastischen Blick auf das Meer bieten, und nehmen Sie unbedingt eine Kamera mit.",
+            "hu": "Fedezze fel az ősi templom és erőd maradványait, amelyek fantasztikus kilátást nyújtanak a tengerre, és mindenképpen vigyen magával egy fényképezőgépet.",
+            "ro": "Explorați rămășițele vechii biserici și cetăți care oferă vederi fantastice la mare și asigurați-vă că luați o cameră foto pentru peisaje.",
+            "en": "Explore the remains of the ancient church and fortress offering fantastic views of the sea, and be sure to take a camera for the stunning landscapes."
+          }
+        },
+        {
+          "name": {
+            "de": "Vransko jezero",
+            "hu": "Vransko jezero",
+            "ro": "Vransko jezero",
+            "en": "Vransko jezero"
+          },
+          "coords": [
+            14.387289,
+            44.855125
+          ],
+          "category": "natural",
+          "arrive_at": "14:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses einzigartige Süßwasserphänomen auf der Insel, bewundern Sie die unberührte Natur und bleiben Sie unbedingt auf den markierten Wegen.",
+            "hu": "Látogasson el erre az egyedülálló édesvízi jelenségre a szigeten, csodálja meg az érintetlen természetet, és feltétlenül maradjon a kijelölt ösvényeken.",
+            "ro": "Vizitați acest fenomen unic de apă dulce de pe insulă, admirați natura neatinsă și asigurați-vă că rămâneți doar pe potecile marcate.",
+            "en": "Visit this unique freshwater phenomenon on the island, admire the untouched nature, and be sure to stay on the marked trails for your safety."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaža Plava Grota",
+            "hu": "Plaža Plava Grota",
+            "ro": "Plaža Plava Grota",
+            "en": "Plaža Plava Grota"
+          },
+          "coords": [
+            14.324028,
+            44.872347
+          ],
+          "category": "recreational",
+          "arrive_at": "16:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die magische Blaue Grotte am abgelegenen Strand, wo das Licht atemberaubend spielt, und mieten Sie ein kleines Boot für den besten Zugang.",
+            "hu": "Tapasztalja meg a varázslatos Kék Barlangot a félreeső strandon, ahol a fény lenyűgözően játszik, és béreljen egy kis csónakot a legjobb hozzáféréshez.",
+            "ro": "Experimentați magica Peșteră Albastră de pe plaja izolată, unde lumina joacă uluitor, și închiriați o barcă mică pentru cel mai bun acces.",
+            "en": "Experience the magical Blue Grotto on the secluded beach, where the light plays stunningly, and rent a small boat for the best possible access."
+          }
+        },
+        {
+          "name": {
+            "de": "Slatina",
+            "hu": "Slatina",
+            "ro": "Slatina",
+            "en": "Slatina"
+          },
+          "coords": [
+            14.338847,
+            44.823187
+          ],
+          "category": "recreational",
+          "arrive_at": "17:44",
+          "stay_min": 105,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in das kristallklare Wasser dieses beliebten Strandes und nutzen Sie die hervorragenden Bademöglichkeiten in den frühen Morgenstunden.",
+            "hu": "Merüljön el a népszerű strand kristálytiszta vizében, és használja ki a kiváló fürdési lehetőségeket a kora reggeli vagy késő délutáni órákban.",
+            "ro": "Scufundați-vă în apele cristaline ale acestei plaje populare și profitați de facilitățile excelente de înot în orele de dimineață sau seara.",
+            "en": "Dive into the crystal-clear waters of this popular beach and take advantage of the excellent swimming opportunities during the early morning hours."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die morgendliche Fahrt führt Sie zum Museum für historische Einblicke, gefolgt von der Bucht Luka. Mittags besuchen Sie die alte Tunera und die Ruinen von Sveti Kristofor. Am Nachmittag genießen Sie eine malerische Fahrt zum unberührten Vrana-See und zur beeindruckenden Blauen Grotte. Beenden Sie Ihren Roadtrip entspannt am Strand Slatina bei Sonnenuntergang.",
+        "hu": "A reggeli autózás a múzeumhoz vezet, majd egy pihentető megálló következik a Luka öbölben. Délben a régi Tunera és az ősi Sveti Kristofor romjainak meglátogatása a program. Délután tegyen egy festői utazást az érintetlen Vransko jezerohoz és a lenyűgöző Kék Barlanghoz. Zárja autós kirándulását a Slatina strandon a naplemente fényében.",
+        "ro": "Dimineața conduceți la muzeul local, urmat de o oprire relaxantă la golful Luka. Prânzul include vizite la vechea Tunera și la ruinele antice Sveti Kristofor. După-amiaza, bucurați-vă de o călătorie pitorească la lacul neatins Vransko jezero și uimitoarea Peșteră Albastră. Încheiați călătoria relaxându-vă pe plaja Slatina la apus.",
+        "en": "Morning driving takes you to the local museum for heritage insights, followed by a relaxing stop at Luka bay. Midday features visits to the old Tunera and the ancient Sveti Kristofor ruins. In the afternoon, enjoy a scenic drive to the pristine Vransko jezero and the stunning Blue Grotto. End your road trip unwinding on Slatina beach at sunset."
+      }
+    }
+  }
+}

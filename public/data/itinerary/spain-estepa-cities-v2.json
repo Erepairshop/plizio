@@ -1,0 +1,520 @@
+{
+  "city_id": "spain-estepa-cities-v2",
+  "anchor": {
+    "name": "Estepa",
+    "coords": [
+      -4.876597,
+      37.288452
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "19:04",
+      "total_km": 2.05,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hügel San Cristóbal",
+            "hu": "San Cristóbal-hegy",
+            "ro": "Dealul San Cristóbal",
+            "en": "San Cristóbal Hill"
+          },
+          "coords": [
+            -4.877838,
+            37.288014
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die andalusische Landschaft von diesem historischen Hügel mit seinen Festungsresten, aber bringen Sie wegen des fehlenden Schattens einen Hut mit.",
+            "hu": "Élvezze az andalúz vidékre nyíló panorámát erről a történelmi dombról, amely egy egykori erőd romjait is őrzi, de mindenképpen vigyen magával kalapot a kevés árnyék miatt.",
+            "ro": "Bucurați-vă de vederea panoramică asupra peisajului andaluz de pe acest deal istoric care adăpostește ruinele unei fortărețe, dar luați o pălărie din cauza lipsei de umbră.",
+            "en": "Enjoy panoramic views of the Andalusian countryside from this historic hill, which holds the remnants of a fortress, but bring a hat as there is little shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Sakrale Kunst",
+            "hu": "Szakrális Művészetek Múzeuma",
+            "ro": "Muzeul de Artă Sacră",
+            "en": "Museum of Sacred Art"
+          },
+          "coords": [
+            -4.876153,
+            37.288457
+          ],
+          "category": "museum",
+          "arrive_at": "09:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisite Sammlung religiöser Kunstwerke und verzierter Artefakte in diesem sakralen Museum, und fragen Sie den Guide unbedingt nach den verborgenen Symbolen.",
+            "hu": "Csodálja meg a vallási művészet és a díszes műtárgyak gyönyörű gyűjteményét ebben a szakrális múzeumban, és mindenképpen kérdezze meg a barátságos tárlatvezetőt a rejtett szimbólumokról.",
+            "ro": "Admirați colecția rafinată de artă religioasă și artefactele ornamentate din acest muzeu sacru și nu uitați să întrebați ghidul prietenos despre detaliile simbolice ascunse.",
+            "en": "Admire the exquisite collection of religious art and ornate artifacts housed in this sacred museum, and be sure to ask the friendly guide about the hidden symbolic details."
+          }
+        },
+        {
+          "name": {
+            "de": "Platz Hermanas de la Cruz",
+            "hu": "Hermanas de la Cruz tér",
+            "ro": "Piața Hermanas de la Cruz",
+            "en": "Hermanas de la Cruz Square"
+          },
+          "coords": [
+            -4.87678,
+            37.290679
+          ],
+          "category": "landmark",
+          "arrive_at": "11:22",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf diesem friedlichen Platz, umgeben von charmanter andalusischer Architektur, und gönnen Sie sich ein lokales Gebäck auf einer der Holzbänke.",
+            "hu": "Pihenjen meg egy pillanatra ezen a hangulatos andalúz építészettel körülvett békés téren, és vásároljon egy helyi süteményt, amelyet az egyik fapadon fogyaszthat el.",
+            "ro": "Relaxați-vă puțin în această piață liniștită, înconjurată de arhitectură tradițională andaluză, și luați o prăjitură locală pentru a o savura pe una dintre băncile de lemn.",
+            "en": "Take a moment to relax in this peaceful square surrounded by charming traditional Andalusian architecture, and consider grabbing a local pastry to enjoy on one of the wooden benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Padre Martín Recio",
+            "hu": "Padre Martín Recio Régészeti Múzeum",
+            "ro": "Muzeul Arheologic Padre Martín Recio",
+            "en": "Padre Martín Recio Archaeological Museum"
+          },
+          "coords": [
+            -4.878459,
+            37.289859
+          ],
+          "category": "museum",
+          "arrive_at": "11:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die antike Vergangenheit der Region durch beeindruckende archäologische Funde, und achten Sie besonders auf die römischen Mosaike, die aus leichter Entfernung am besten wirken.",
+            "hu": "Fedezze fel a régió ősi múltját a lenyűgöző régészeti leleteken keresztül, és szenteljen különös figyelmet a római mozaikoknak, amelyek kissé távolabbról mutatnak a legjobban.",
+            "ro": "Descoperiți trecutul antic al regiunii printr-o gamă impresionantă de descoperiri arheologice și concentrați-vă în special pe mozaicurile romane care se văd cel mai bine de la distanță.",
+            "en": "Discover the region's ancient past through an impressive array of archaeological finds, and focus especially on the Roman mosaics which are best viewed from a slight distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast der Markgrafen von Cerverales",
+            "hu": "Cerverales Márkik Palotája",
+            "ro": "Palatul Marchizilor de Cerverales",
+            "en": "Palace of the Marquises of Cerverales"
+          },
+          "coords": [
+            -4.881127,
+            37.290311
+          ],
+          "category": "landmark",
+          "arrive_at": "13:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise durch die opulenten Räume dieses majestätischen Palastes aus dem 18. Jahrhundert, und achten Sie unbedingt auf die aufwendig geschnitzten Holztüren im Obergeschoss.",
+            "hu": "Lépjen vissza az időben e csodálatos 18. századi palota pazar termeinek felfedezésekor, és mindenképpen figyelje meg a felső emelet bonyolult faragású faajtóit.",
+            "ro": "Întoarceți-vă în timp explorând camerele opulente ale acestui palat maiestuos din secolul al XVIII-lea, având grijă să observați ușile din lemn sculptate complicat de la etajul superior.",
+            "en": "Step back in time as you explore the opulent rooms of this majestic 18th-century palace, making sure to notice the intricately carved wooden doors on the upper floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Mantecado-Museum",
+            "hu": "Mantecado Múzeum",
+            "ro": "Muzeul Mantecado",
+            "en": "Mantecado Museum"
+          },
+          "coords": [
+            -4.87616,
+            37.298529
+          ],
+          "category": "museum",
+          "arrive_at": "15:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem duftenden Museum mehr über die traditionelle Herstellung der berühmten Weihnachtsgebäcke Estepas, und gehen Sie nicht ohne die frischen Kostproben am Ende zu probieren.",
+            "hu": "Ismerje meg Estepa híres karácsonyi édességeinek hagyományos gyártását ebben az illatos múzeumban, és ne távozzon anélkül, hogy megkóstolná a végén kínált frissen sült mintákat.",
+            "ro": "Aflați despre producția tradițională fascinantă a celebrelor dulciuri de Crăciun din Estepa în acest muzeu aromat și nu plecați fără să gustați mostrele proaspăt coapte oferite la final.",
+            "en": "Learn about the fascinating traditional production of Estepa's famous Christmas sweets in this aromatic museum, and don't leave without tasting the freshly baked samples offered at the end."
+          }
+        },
+        {
+          "name": {
+            "de": "Schokoladenmuseum",
+            "hu": "Csokoládémúzeum",
+            "ro": "Muzeul Ciocolatei",
+            "en": "Chocolate Museum"
+          },
+          "coords": [
+            -4.87715,
+            37.299419
+          ],
+          "category": "museum",
+          "arrive_at": "16:54",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Verwöhnen Sie Ihre Naschkatze, indem Sie die reiche Geschichte der Schokoladenherstellung in der Region verfolgen, und nehmen Sie unbedingt eine Schachtel handwerklicher Trüffel als perfektes Souvenir mit.",
+            "hu": "Kényeztesse édesség utáni vágyát a régió csokoládékészítésének gazdag történetének megismerésével, és feltétlenül vegyen egy doboz kézműves szarvasgombát, amely tökéletes szuvenír.",
+            "ro": "Răsfățați-vă pofta de dulce urmărind istoria bogată a fabricării ciocolatei în regiune și asigurați-vă că luați o cutie de trufe artizanale drept suvenirul perfect.",
+            "en": "Indulge your sweet tooth by tracing the rich history of chocolate making in the region, and be sure to pick up a box of artisanal truffles as the perfect souvenir."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im historischen Herzen von Estepa und genießen Sie den weiten Panoramablick vom alten Festungshügel. Die friedliche Atmosphäre gibt den Ton an.\n\nTauchen Sie mittags in das reiche kulturelle Geflecht der Region ein. Wandern Sie durch große Paläste und sakrale Räume, die die Opulenz des andalusischen Adels offenbaren.\n\nVerbringen Sie den Nachmittag damit, das berühmte süße Erbe der Stadt zu erkunden. Schlendern Sie über charmante Plätze, bevor Sie die Geheimnisse lokaler Süßwaren lüften.\n\nLassen Sie den Tag mit den legendären Schokoladen- und Mantecado-Traditionen von Estepa ausklingen. Es ist der perfekte, geschmackvolle Abschluss einer unvergesslichen Reise.",
+        "hu": "Kezdje a reggelt Estepa történelmi szívének felfedezésével, és gyönyörködjön a lenyűgöző panorámában az ősi erődhegyről. A békés hangulat azonnal magával ragadja.\n\nDélben merüljön el a régió gazdag kulturális örökségében. Sétáljon végig a fenséges palotákon és szakrális tereken, amelyek az andalúz nemesség fényűzését tárják elénk.\n\nA délutánt szentelje a város híresen édes örökségének. Sétáljon át a bájos tereken, mielőtt felfedezné a helyi édességek készítésének kézműves titkait.\n\nZárja a napot Estepa legendás csokoládé- és mantecado-hagyományainak megismerésével. Ez egy tökéletes, ízletes befejezése ennek az emlékezetes utazásnak.",
+        "ro": "Începeți dimineața explorând inima istorică a orașului Estepa, admirând priveliștile panoramice ample de pe vechiul deal al fortăreței. Atmosfera liniștită dă tonul zilei.\n\nLa prânz, scufundați-vă în bogăția culturală a regiunii. Plimbați-vă prin palate mărețe și spații sacre care dezvăluie opulența nobilimii andaluze de altădată.\n\nPetreceți după-amiaza descoperind faimoasa moștenire dulce a orașului. Plimbați-vă prin piețe fermecătoare înainte de a afla secretele artizanale ale dulciurilor locale.\n\nÎncheiați-vă ziua savurând tradițiile legendare de ciocolată și mantecado din Estepa. Este concluzia perfectă, plină de savoare, a unei călătorii de neuitat.",
+        "en": "Start your morning exploring the historic heart of Estepa by taking in the sweeping panoramic views from the ancient fortress hill. The peaceful atmosphere sets the tone.\n\nAt midday, immerse yourself in the rich cultural tapestry of the region. Wander through grand palaces and sacred spaces that reveal the opulence of Andalusian nobility.\n\nSpend the afternoon shifting gears towards the town's famously sweet heritage. Stroll through charming plazas before uncovering the artisanal secrets of local confections.\n\nWrap up your day indulging in Estepa’s legendary chocolate and mantecado traditions. It's the perfect, flavorful conclusion to an unforgettable journey."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:26",
+      "total_km": 2.45,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hügel San Cristóbal",
+            "hu": "San Cristóbal-hegy",
+            "ro": "Dealul San Cristóbal",
+            "en": "San Cristóbal Hill"
+          },
+          "coords": [
+            -4.877838,
+            37.288014
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die andalusische Landschaft von diesem historischen Hügel mit seinen Festungsresten, aber bringen Sie wegen des fehlenden Schattens einen Hut mit.",
+            "hu": "Élvezze az andalúz vidékre nyíló panorámát erről a történelmi dombról, amely egy egykori erőd romjait is őrzi, de mindenképpen vigyen magával kalapot a kevés árnyék miatt.",
+            "ro": "Bucurați-vă de vederea panoramică asupra peisajului andaluz de pe acest deal istoric care adăpostește ruinele unei fortărețe, dar luați o pălărie din cauza lipsei de umbră.",
+            "en": "Enjoy panoramic views of the Andalusian countryside from this historic hill, which holds the remnants of a fortress, but bring a hat as there is little shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Sakrale Kunst",
+            "hu": "Szakrális Művészetek Múzeuma",
+            "ro": "Muzeul de Artă Sacră",
+            "en": "Museum of Sacred Art"
+          },
+          "coords": [
+            -4.876153,
+            37.288457
+          ],
+          "category": "museum",
+          "arrive_at": "09:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisite Sammlung religiöser Kunstwerke und verzierter Artefakte in diesem sakralen Museum, und fragen Sie den Guide unbedingt nach den verborgenen Symbolen.",
+            "hu": "Csodálja meg a vallási művészet és a díszes műtárgyak gyönyörű gyűjteményét ebben a szakrális múzeumban, és mindenképpen kérdezze meg a barátságos tárlatvezetőt a rejtett szimbólumokról.",
+            "ro": "Admirați colecția rafinată de artă religioasă și artefactele ornamentate din acest muzeu sacru și nu uitați să întrebați ghidul prietenos despre detaliile simbolice ascunse.",
+            "en": "Admire the exquisite collection of religious art and ornate artifacts housed in this sacred museum, and be sure to ask the friendly guide about the hidden symbolic details."
+          }
+        },
+        {
+          "name": {
+            "de": "Platz Hermanas de la Cruz",
+            "hu": "Hermanas de la Cruz tér",
+            "ro": "Piața Hermanas de la Cruz",
+            "en": "Hermanas de la Cruz Square"
+          },
+          "coords": [
+            -4.87678,
+            37.290679
+          ],
+          "category": "landmark",
+          "arrive_at": "11:18",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf diesem friedlichen Platz, umgeben von charmanter andalusischer Architektur, und gönnen Sie sich ein lokales Gebäck auf einer der Holzbänke.",
+            "hu": "Pihenjen meg egy pillanatra ezen a hangulatos andalúz építészettel körülvett békés téren, és vásároljon egy helyi süteményt, amelyet az egyik fapadon fogyaszthat el.",
+            "ro": "Relaxați-vă puțin în această piață liniștită, înconjurată de arhitectură tradițională andaluză, și luați o prăjitură locală pentru a o savura pe una dintre băncile de lemn.",
+            "en": "Take a moment to relax in this peaceful square surrounded by charming traditional Andalusian architecture, and consider grabbing a local pastry to enjoy on one of the wooden benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast des Markgrafen del Oro",
+            "hu": "Marques del Oro Palota",
+            "ro": "Palatul Marchizului del Oro",
+            "en": "Palace of the Marquis del Oro"
+          },
+          "coords": [
+            -4.883348,
+            37.288907
+          ],
+          "category": "landmark",
+          "arrive_at": "11:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die atemberaubende barocke Fassade und den eleganten Innenhof dieses historischen Juwels, am besten morgens, wenn das Sonnenlicht die goldfarbenen Steine perfekt beleuchtet.",
+            "hu": "Csodálja meg e történelmi gyöngyszem lenyűgöző barokk homlokzatát és elegáns udvarát, és próbáljon reggel érkezni, amikor a napfény tökéletesen megvilágítja aranyszínű köveit.",
+            "ro": "Minunați-vă de fațada barocă uimitoare și de curtea elegantă a acestei bijuterii istorice și încercați să vizitați dimineața, când lumina soarelui luminează perfect pietrele sale aurii.",
+            "en": "Marvel at the stunning baroque facade and elegant courtyard of this historical gem, and try to visit in the morning when the sunlight perfectly illuminates its golden-hued stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast der Markgrafen von Cerverales",
+            "hu": "Cerverales Márkik Palotája",
+            "ro": "Palatul Marchizilor de Cerverales",
+            "en": "Palace of the Marquises of Cerverales"
+          },
+          "coords": [
+            -4.881127,
+            37.290311
+          ],
+          "category": "landmark",
+          "arrive_at": "13:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise durch die opulenten Räume dieses majestätischen Palastes aus dem 18. Jahrhundert, und achten Sie unbedingt auf die aufwendig geschnitzten Holztüren im Obergeschoss.",
+            "hu": "Lépjen vissza az időben e csodálatos 18. századi palota pazar termeinek felfedezésekor, és mindenképpen figyelje meg a felső emelet bonyolult faragású faajtóit.",
+            "ro": "Întoarceți-vă în timp explorând camerele opulente ale acestui palat maiestuos din secolul al XVIII-lea, având grijă să observați ușile din lemn sculptate complicat de la etajul superior.",
+            "en": "Step back in time as you explore the opulent rooms of this majestic 18th-century palace, making sure to notice the intricately carved wooden doors on the upper floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Mantecado-Museum",
+            "hu": "Mantecado Múzeum",
+            "ro": "Muzeul Mantecado",
+            "en": "Mantecado Museum"
+          },
+          "coords": [
+            -4.87616,
+            37.298529
+          ],
+          "category": "museum",
+          "arrive_at": "14:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem duftenden Museum mehr über die traditionelle Herstellung der berühmten Weihnachtsgebäcke Estepas, und gehen Sie nicht ohne die frischen Kostproben am Ende zu probieren.",
+            "hu": "Ismerje meg Estepa híres karácsonyi édességeinek hagyományos gyártását ebben az illatos múzeumban, és ne távozzon anélkül, hogy megkóstolná a végén kínált frissen sült mintákat.",
+            "ro": "Aflați despre producția tradițională fascinantă a celebrelor dulciuri de Crăciun din Estepa în acest muzeu aromat și nu plecați fără să gustați mostrele proaspăt coapte oferite la final.",
+            "en": "Learn about the fascinating traditional production of Estepa's famous Christmas sweets in this aromatic museum, and don't leave without tasting the freshly baked samples offered at the end."
+          }
+        },
+        {
+          "name": {
+            "de": "Schokoladenmuseum",
+            "hu": "Csokoládémúzeum",
+            "ro": "Muzeul Ciocolatei",
+            "en": "Chocolate Museum"
+          },
+          "coords": [
+            -4.87715,
+            37.299419
+          ],
+          "category": "museum",
+          "arrive_at": "16:16",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Verwöhnen Sie Ihre Naschkatze, indem Sie die reiche Geschichte der Schokoladenherstellung in der Region verfolgen, und nehmen Sie unbedingt eine Schachtel handwerklicher Trüffel als perfektes Souvenir mit.",
+            "hu": "Kényeztesse édesség utáni vágyát a régió csokoládékészítésének gazdag történetének megismerésével, és feltétlenül vegyen egy doboz kézműves szarvasgombát, amely tökéletes szuvenír.",
+            "ro": "Răsfățați-vă pofta de dulce urmărind istoria bogată a fabricării ciocolatei în regiune și asigurați-vă că luați o cutie de trufe artizanale drept suvenirul perfect.",
+            "en": "Indulge your sweet tooth by tracing the rich history of chocolate making in the region, and be sure to pick up a box of artisanal truffles as the perfect souvenir."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im historischen Herzen von Estepa und genießen Sie den weiten Panoramablick vom alten Festungshügel. Die friedliche Atmosphäre gibt den Ton an.\n\nTauchen Sie mittags in das reiche kulturelle Geflecht der Region ein. Wandern Sie durch große Paläste und sakrale Räume, die die Opulenz des andalusischen Adels offenbaren.\n\nVerbringen Sie den Nachmittag damit, das berühmte süße Erbe der Stadt zu erkunden. Schlendern Sie über charmante Plätze, bevor Sie die Geheimnisse lokaler Süßwaren lüften.\n\nLassen Sie den Tag mit den legendären Schokoladen- und Mantecado-Traditionen von Estepa ausklingen. Es ist der perfekte, geschmackvolle Abschluss einer unvergesslichen Reise.",
+        "hu": "Kezdje a reggelt Estepa történelmi szívének felfedezésével, és gyönyörködjön a lenyűgöző panorámában az ősi erődhegyről. A békés hangulat azonnal magával ragadja.\n\nDélben merüljön el a régió gazdag kulturális örökségében. Sétáljon végig a fenséges palotákon és szakrális tereken, amelyek az andalúz nemesség fényűzését tárják elénk.\n\nA délutánt szentelje a város híresen édes örökségének. Sétáljon át a bájos tereken, mielőtt felfedezné a helyi édességek készítésének kézműves titkait.\n\nZárja a napot Estepa legendás csokoládé- és mantecado-hagyományainak megismerésével. Ez egy tökéletes, ízletes befejezése ennek az emlékezetes utazásnak.",
+        "ro": "Începeți dimineața explorând inima istorică a orașului Estepa, admirând priveliștile panoramice ample de pe vechiul deal al fortăreței. Atmosfera liniștită dă tonul zilei.\n\nLa prânz, scufundați-vă în bogăția culturală a regiunii. Plimbați-vă prin palate mărețe și spații sacre care dezvăluie opulența nobilimii andaluze de altădată.\n\nPetreceți după-amiaza descoperind faimoasa moștenire dulce a orașului. Plimbați-vă prin piețe fermecătoare înainte de a afla secretele artizanale ale dulciurilor locale.\n\nÎncheiați-vă ziua savurând tradițiile legendare de ciocolată și mantecado din Estepa. Este concluzia perfectă, plină de savoare, a unei călătorii de neuitat.",
+        "en": "Start your morning exploring the historic heart of Estepa by taking in the sweeping panoramic views from the ancient fortress hill. The peaceful atmosphere sets the tone.\n\nAt midday, immerse yourself in the rich cultural tapestry of the region. Wander through grand palaces and sacred spaces that reveal the opulence of Andalusian nobility.\n\nSpend the afternoon shifting gears towards the town's famously sweet heritage. Stroll through charming plazas before uncovering the artisanal secrets of local confections.\n\nWrap up your day indulging in Estepa’s legendary chocolate and mantecado traditions. It's the perfect, flavorful conclusion to an unforgettable journey."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:56",
+      "total_km": 2.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Palast des Markgrafen del Oro",
+            "hu": "Marques del Oro Palota",
+            "ro": "Palatul Marchizului del Oro",
+            "en": "Palace of the Marquis del Oro"
+          },
+          "coords": [
+            -4.883348,
+            37.288907
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die atemberaubende barocke Fassade und den eleganten Innenhof dieses historischen Juwels, am besten morgens, wenn das Sonnenlicht die goldfarbenen Steine perfekt beleuchtet.",
+            "hu": "Csodálja meg e történelmi gyöngyszem lenyűgöző barokk homlokzatát és elegáns udvarát, és próbáljon reggel érkezni, amikor a napfény tökéletesen megvilágítja aranyszínű köveit.",
+            "ro": "Minunați-vă de fațada barocă uimitoare și de curtea elegantă a acestei bijuterii istorice și încercați să vizitați dimineața, când lumina soarelui luminează perfect pietrele sale aurii.",
+            "en": "Marvel at the stunning baroque facade and elegant courtyard of this historical gem, and try to visit in the morning when the sunlight perfectly illuminates its golden-hued stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast der Markgrafen von Cerverales",
+            "hu": "Cerverales Márkik Palotája",
+            "ro": "Palatul Marchizilor de Cerverales",
+            "en": "Palace of the Marquises of Cerverales"
+          },
+          "coords": [
+            -4.881127,
+            37.290311
+          ],
+          "category": "landmark",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise durch die opulenten Räume dieses majestätischen Palastes aus dem 18. Jahrhundert, und achten Sie unbedingt auf die aufwendig geschnitzten Holztüren im Obergeschoss.",
+            "hu": "Lépjen vissza az időben e csodálatos 18. századi palota pazar termeinek felfedezésekor, és mindenképpen figyelje meg a felső emelet bonyolult faragású faajtóit.",
+            "ro": "Întoarceți-vă în timp explorând camerele opulente ale acestui palat maiestuos din secolul al XVIII-lea, având grijă să observați ușile din lemn sculptate complicat de la etajul superior.",
+            "en": "Step back in time as you explore the opulent rooms of this majestic 18th-century palace, making sure to notice the intricately carved wooden doors on the upper floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Padre Martín Recio",
+            "hu": "Padre Martín Recio Régészeti Múzeum",
+            "ro": "Muzeul Arheologic Padre Martín Recio",
+            "en": "Padre Martín Recio Archaeological Museum"
+          },
+          "coords": [
+            -4.878459,
+            37.289859
+          ],
+          "category": "museum",
+          "arrive_at": "11:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die antike Vergangenheit der Region durch beeindruckende archäologische Funde, und achten Sie besonders auf die römischen Mosaike, die aus leichter Entfernung am besten wirken.",
+            "hu": "Fedezze fel a régió ősi múltját a lenyűgöző régészeti leleteken keresztül, és szenteljen különös figyelmet a római mozaikoknak, amelyek kissé távolabbról mutatnak a legjobban.",
+            "ro": "Descoperiți trecutul antic al regiunii printr-o gamă impresionantă de descoperiri arheologice și concentrați-vă în special pe mozaicurile romane care se văd cel mai bine de la distanță.",
+            "en": "Discover the region's ancient past through an impressive array of archaeological finds, and focus especially on the Roman mosaics which are best viewed from a slight distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Hügel San Cristóbal",
+            "hu": "San Cristóbal-hegy",
+            "ro": "Dealul San Cristóbal",
+            "en": "San Cristóbal Hill"
+          },
+          "coords": [
+            -4.877838,
+            37.288014
+          ],
+          "category": "landmark",
+          "arrive_at": "13:36",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die andalusische Landschaft von diesem historischen Hügel mit seinen Festungsresten, aber bringen Sie wegen des fehlenden Schattens einen Hut mit.",
+            "hu": "Élvezze az andalúz vidékre nyíló panorámát erről a történelmi dombról, amely egy egykori erőd romjait is őrzi, de mindenképpen vigyen magával kalapot a kevés árnyék miatt.",
+            "ro": "Bucurați-vă de vederea panoramică asupra peisajului andaluz de pe acest deal istoric care adăpostește ruinele unei fortărețe, dar luați o pălărie din cauza lipsei de umbră.",
+            "en": "Enjoy panoramic views of the Andalusian countryside from this historic hill, which holds the remnants of a fortress, but bring a hat as there is little shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Mantecado-Museum",
+            "hu": "Mantecado Múzeum",
+            "ro": "Muzeul Mantecado",
+            "en": "Mantecado Museum"
+          },
+          "coords": [
+            -4.87616,
+            37.298529
+          ],
+          "category": "museum",
+          "arrive_at": "14:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem duftenden Museum mehr über die traditionelle Herstellung der berühmten Weihnachtsgebäcke Estepas, und gehen Sie nicht ohne die frischen Kostproben am Ende zu probieren.",
+            "hu": "Ismerje meg Estepa híres karácsonyi édességeinek hagyományos gyártását ebben az illatos múzeumban, és ne távozzon anélkül, hogy megkóstolná a végén kínált frissen sült mintákat.",
+            "ro": "Aflați despre producția tradițională fascinantă a celebrelor dulciuri de Crăciun din Estepa în acest muzeu aromat și nu plecați fără să gustați mostrele proaspăt coapte oferite la final.",
+            "en": "Learn about the fascinating traditional production of Estepa's famous Christmas sweets in this aromatic museum, and don't leave without tasting the freshly baked samples offered at the end."
+          }
+        },
+        {
+          "name": {
+            "de": "Schokoladenmuseum",
+            "hu": "Csokoládémúzeum",
+            "ro": "Muzeul Ciocolatei",
+            "en": "Chocolate Museum"
+          },
+          "coords": [
+            -4.87715,
+            37.299419
+          ],
+          "category": "museum",
+          "arrive_at": "15:46",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Verwöhnen Sie Ihre Naschkatze, indem Sie die reiche Geschichte der Schokoladenherstellung in der Region verfolgen, und nehmen Sie unbedingt eine Schachtel handwerklicher Trüffel als perfektes Souvenir mit.",
+            "hu": "Kényeztesse édesség utáni vágyát a régió csokoládékészítésének gazdag történetének megismerésével, és feltétlenül vegyen egy doboz kézműves szarvasgombát, amely tökéletes szuvenír.",
+            "ro": "Răsfățați-vă pofta de dulce urmărind istoria bogată a fabricării ciocolatei în regiune și asigurați-vă că luați o cutie de trufe artizanale drept suvenirul perfect.",
+            "en": "Indulge your sweet tooth by tracing the rich history of chocolate making in the region, and be sure to pick up a box of artisanal truffles as the perfect souvenir."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im historischen Herzen von Estepa und genießen Sie den weiten Panoramablick vom alten Festungshügel. Die friedliche Atmosphäre gibt den Ton an.\n\nTauchen Sie mittags in das reiche kulturelle Geflecht der Region ein. Wandern Sie durch große Paläste und sakrale Räume, die die Opulenz des andalusischen Adels offenbaren.\n\nVerbringen Sie den Nachmittag damit, das berühmte süße Erbe der Stadt zu erkunden. Schlendern Sie über charmante Plätze, bevor Sie die Geheimnisse lokaler Süßwaren lüften.\n\nLassen Sie den Tag mit den legendären Schokoladen- und Mantecado-Traditionen von Estepa ausklingen. Es ist der perfekte, geschmackvolle Abschluss einer unvergesslichen Reise.",
+        "hu": "Kezdje a reggelt Estepa történelmi szívének felfedezésével, és gyönyörködjön a lenyűgöző panorámában az ősi erődhegyről. A békés hangulat azonnal magával ragadja.\n\nDélben merüljön el a régió gazdag kulturális örökségében. Sétáljon végig a fenséges palotákon és szakrális tereken, amelyek az andalúz nemesség fényűzését tárják elénk.\n\nA délutánt szentelje a város híresen édes örökségének. Sétáljon át a bájos tereken, mielőtt felfedezné a helyi édességek készítésének kézműves titkait.\n\nZárja a napot Estepa legendás csokoládé- és mantecado-hagyományainak megismerésével. Ez egy tökéletes, ízletes befejezése ennek az emlékezetes utazásnak.",
+        "ro": "Începeți dimineața explorând inima istorică a orașului Estepa, admirând priveliștile panoramice ample de pe vechiul deal al fortăreței. Atmosfera liniștită dă tonul zilei.\n\nLa prânz, scufundați-vă în bogăția culturală a regiunii. Plimbați-vă prin palate mărețe și spații sacre care dezvăluie opulența nobilimii andaluze de altădată.\n\nPetreceți după-amiaza descoperind faimoasa moștenire dulce a orașului. Plimbați-vă prin piețe fermecătoare înainte de a afla secretele artizanale ale dulciurilor locale.\n\nÎncheiați-vă ziua savurând tradițiile legendare de ciocolată și mantecado din Estepa. Este concluzia perfectă, plină de savoare, a unei călătorii de neuitat.",
+        "en": "Start your morning exploring the historic heart of Estepa by taking in the sweeping panoramic views from the ancient fortress hill. The peaceful atmosphere sets the tone.\n\nAt midday, immerse yourself in the rich cultural tapestry of the region. Wander through grand palaces and sacred spaces that reveal the opulence of Andalusian nobility.\n\nSpend the afternoon shifting gears towards the town's famously sweet heritage. Stroll through charming plazas before uncovering the artisanal secrets of local confections.\n\nWrap up your day indulging in Estepa’s legendary chocolate and mantecado traditions. It's the perfect, flavorful conclusion to an unforgettable journey."
+      }
+    }
+  }
+}

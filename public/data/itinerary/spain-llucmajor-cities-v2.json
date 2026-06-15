@@ -1,0 +1,543 @@
+{
+  "city_id": "spain-llucmajor-cities-v2",
+  "anchor": {
+    "name": "Llucmajor",
+    "coords": [
+      2.89108,
+      39.49093
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:09",
+      "total_km": 1.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Sant Miquel",
+            "hu": "Sant Miquel",
+            "ro": "Sant Miquel",
+            "en": "Sant Miquel"
+          },
+          "coords": [
+            2.890322,
+            39.49083
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposante Fassade dieser majestätischen Kirche aus dem 18. Jahrhundert, deren Inneres eine tiefe Stille bietet, am besten am frühen Morgen zu besichtigen.",
+            "hu": "Csodálja meg a fenséges 18. századi templom lenyűgöző homlokzatát, amelynek belseje mély csendet kínál, és érdemes rögtön a kora reggeli órákban felfedezni.",
+            "ro": "Admirați fațada impunătoare a acestei biserici majestuoase din secolul al XVIII-lea, al cărei interior oferă o liniște profundă, ideală de vizitat la primele ore ale dimineții.",
+            "en": "Admire the imposing facade of this majestic 18th-century church, whose interior offers a profound silence best experienced by visiting during the early morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Toni Catany",
+            "hu": "Toni Catany",
+            "ro": "Toni Catany",
+            "en": "Toni Catany"
+          },
+          "coords": [
+            2.893908,
+            39.490056
+          ],
+          "category": "museum",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das faszinierende Werk dieses weltberühmten Fotografen ein, und nutzen Sie das wunderbare natürliche Licht im Innenhof für Ihre eigenen Urlaubsbilder.",
+            "hu": "Merüljön el e világhírű fotós lenyűgöző munkásságában, és mindenképpen használja ki a belső udvar csodálatos természetes fényét saját nyaralási fotói elkészítéséhez.",
+            "ro": "Cufundați-vă în opera fascinantă a acestui fotograf de renume mondial și profitați de lumina naturală minunată din curtea interioară pentru propriile fotografii de vacanță.",
+            "en": "Immerse yourself in the fascinating work of this world-renowned photographer, and take advantage of the wonderful natural light in the courtyard for your own photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Sant Bonaventura",
+            "hu": "Sant Bonaventura",
+            "ro": "Sant Bonaventura",
+            "en": "Sant Bonaventura"
+          },
+          "coords": [
+            2.894876,
+            39.491402
+          ],
+          "category": "religious",
+          "arrive_at": "11:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erleben Sie den prachtvollen barocken Kreuzgang dieses historischen Klosters, der an heißen Sommertagen einen wunderbar kühlen und ruhigen Rückzugsort in der Stadt bietet.",
+            "hu": "Tapasztalja meg a történelmi kolostor pompás barokk kerengőjét, amely a forró nyári napokon csodálatosan hűvös és nyugodt menedéket kínál a város szívében barangolva.",
+            "ro": "Descoperiți superbul claustru baroc al acestei mănăstiri istorice, care oferă un refugiu minunat de răcoros și liniștit în timpul zilelor toride de vară petrecute în oraș.",
+            "en": "Experience the magnificent baroque cloister of this historic monastery, which offers a wonderfully cool and tranquil retreat during hot summer days spent in the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Molí d'en Güels",
+            "hu": "Molí d'en Güels",
+            "ro": "Molí d'en Güels",
+            "en": "Molí d'en Güels"
+          },
+          "coords": [
+            2.89412,
+            39.488592
+          ],
+          "category": "landmark",
+          "arrive_at": "12:22",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese charmante traditionelle Windmühle, die von der landwirtschaftlichen Vergangenheit zeugt, und achten Sie auf die gut erhaltenen architektonischen Details.",
+            "hu": "Fedezze fel ezt a bájos, hagyományos szélmalmot, amely a mezőgazdasági múltról tanúskodik, és figyelje meg a meglepően jó állapotban fennmaradt építészeti részleteket.",
+            "ro": "Descoperiți această moară de vânt tradițională fermecătoare, martoră a trecutului agricol, și acordați atenție detaliilor arhitecturale care s-au păstrat surprinzător de bine.",
+            "en": "Discover this charming traditional windmill that bears witness to the region's agricultural past, and pay close attention to its surprisingly well-preserved architectural details."
+          }
+        },
+        {
+          "name": {
+            "de": "Molí d'en Franc",
+            "hu": "Molí d'en Franc",
+            "ro": "Molí d'en Franc",
+            "en": "Molí d'en Franc"
+          },
+          "coords": [
+            2.891725,
+            39.487772
+          ],
+          "category": "landmark",
+          "arrive_at": "12:40",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses Wahrzeichen mallorquinischer Mühlenbaukunst, dessen markanter Turm ein hervorragendes Fotomotiv in der Nachmittagssonne über der ruhigen Stadt abgibt.",
+            "hu": "Szemlélje meg a mallorcai malomépítészet e jelképét, melynek jellegzetes tornya kiváló fotótémát szolgáltat a délutáni napsütésben fürdőző csendes kisváros felett.",
+            "ro": "Priviți acest simbol al arhitecturii morilor mallorcane, al cărui turn distinctiv oferă un subiect fotografic excelent în soarele după-amiezii peste orașul liniștit.",
+            "en": "View this symbol of Mallorcan mill architecture, whose distinctive tower provides an excellent photographic subject in the afternoon sun looking out over the quiet town."
+          }
+        },
+        {
+          "name": {
+            "de": "Jaume III.",
+            "hu": "Jaume III.",
+            "ro": "Jaume III.",
+            "en": "Jaume III."
+          },
+          "coords": [
+            2.887782,
+            39.487875
+          ],
+          "category": "historical",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Spüren Sie die Geschichte am Denkmal des mutigen Königs, der hier seine letzte Schlacht schlug, und lesen Sie die Informationstafeln, um die spannenden Details zu erfahren.",
+            "hu": "Érezze a történelmet a bátor király emlékművénél, aki itt vívta utolsó csatáját, és feltétlenül olvassa el az információs táblákat a lenyűgöző részletek megismeréséhez.",
+            "ro": "Simțiți istoria la monumentul curajosului rege care a purtat aici ultima sa bătălie și citiți panourile informative pentru a afla detaliile fascinante ale acestui eveniment.",
+            "en": "Feel the history at the monument of the brave king who fought his last battle here, and be sure to read the information boards to learn the fascinating details of the conflict."
+          }
+        },
+        {
+          "name": {
+            "de": "Molí d'en Contestí",
+            "hu": "Molí d'en Contestí",
+            "ro": "Molí d'en Contestí",
+            "en": "Molí d'en Contestí"
+          },
+          "coords": [
+            2.886341,
+            39.490013
+          ],
+          "category": "landmark",
+          "arrive_at": "14:24",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von der robusten Struktur dieser alten Steinmühle beeindrucken, die einst Getreide mahlte, und spazieren Sie anschließend durch die angrenzenden Gassen.",
+            "hu": "Engedje, hogy lenyűgözze az egykor gabonát őrlő, régi kőmalom robusztus szerkezete, majd tegyen egy kellemes, levezető sétát a környező, hangulatos macskaköves utcákon.",
+            "ro": "Lăsați-vă impresionați de structura robustă a acestei vechi mori de piatră care măcina odată cereale și faceți apoi o plimbare relaxantă prin străduțele pietruite din jur.",
+            "en": "Be impressed by the robust structure of this old stone mill that once ground grain, and take a relaxing stroll through the surrounding cozy cobbled streets afterwards."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt in der ruhigen Atmosphäre von Sant Miquel, gefolgt von inspirierenden Kunstwerken im Toni Catany Museum. Mittags finden Sie Entspannung im kühlen Kreuzgang von Sant Bonaventura, bevor es zu den traditionellen Mühlen Güels und Franc geht. Nachmittags ehren wir am Denkmal von Jaume III. die Geschichte Mallorcas. Der Tag endet friedlich an der Molí d'en Contestí.",
+        "hu": "A reggel a békés Sant Miquel templomban indul, majd a Toni Catany múzeum fotóművészete inspirál. Délben a Sant Bonaventura hűvös kerengőjében pihenünk, mielőtt a hagyományos Güels és Franc malmokat vizsgálnánk meg. Délután a Jaume III. emlékműnél merülünk el Mallorca múltjában, végül a nap egy kellemes, elmélyült sétával zárul a Molí d'en Contestí történelmi falai között.",
+        "ro": "Dimineața începe în liniștea de la Sant Miquel, urmată de fotografia de excepție a lui Toni Catany. La prânz, claustrul de la Sant Bonaventura oferă răcoare, înainte de a vedea morile tradiționale Güels și Franc. După-amiaza explorăm istoria impresionantă la monumentul lui Jaume III. Ziua se încheie liniștit la Molí d'en Contestí, reflectând asupra patrimoniului local la amurg.",
+        "en": "The morning begins in the serene atmosphere of Sant Miquel, followed by inspiring artwork at the Toni Catany museum. Midday brings relaxation in the cool cloister of Sant Bonaventura, before heading to the traditional Güels and Franc windmills. In the afternoon, we honor Mallorca's history at the Jaume III monument. The day concludes peacefully at the historical Molí d'en Contestí."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:18",
+      "total_km": 3.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Sant Bonaventura",
+            "hu": "Sant Bonaventura",
+            "ro": "Sant Bonaventura",
+            "en": "Sant Bonaventura"
+          },
+          "coords": [
+            2.894876,
+            39.491402
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erleben Sie den prachtvollen barocken Kreuzgang dieses historischen Klosters, der an heißen Sommertagen einen wunderbar kühlen und ruhigen Rückzugsort in der Stadt bietet.",
+            "hu": "Tapasztalja meg a történelmi kolostor pompás barokk kerengőjét, amely a forró nyári napokon csodálatosan hűvös és nyugodt menedéket kínál a város szívében barangolva.",
+            "ro": "Descoperiți superbul claustru baroc al acestei mănăstiri istorice, care oferă un refugiu minunat de răcoros și liniștit în timpul zilelor toride de vară petrecute în oraș.",
+            "en": "Experience the magnificent baroque cloister of this historic monastery, which offers a wonderfully cool and tranquil retreat during hot summer days spent in the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Molí d'en Marrano",
+            "hu": "Molí d'en Marrano",
+            "ro": "Molí d'en Marrano",
+            "en": "Molí d'en Marrano"
+          },
+          "coords": [
+            2.894432,
+            39.496914
+          ],
+          "category": "landmark",
+          "arrive_at": "09:53",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.61,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese stolze Mühle am Stadtrand, die einst das Leben der Bauern prägte, und genießen Sie von hier aus den weiten Blick auf die mallorquinische Landschaft.",
+            "hu": "Csodálja meg ezt a büszke külvárosi malmot, amely egykor a parasztok életét formálta, és élvezze az innen nyíló széles, zavartalan kilátást a mallorcai tájra.",
+            "ro": "Admirați această moară mândră de la periferie, care a modelat cândva viața țăranilor, și bucurați-vă de vederea largă și neîntreruptă asupra peisajului mallorcan.",
+            "en": "Marvel at this proud windmill on the outskirts that once shaped the lives of peasants, and enjoy the wide, uninterrupted view of the Mallorcan landscape from this spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Molí d'en Galineta",
+            "hu": "Molí d'en Galineta",
+            "ro": "Molí d'en Galineta",
+            "en": "Molí d'en Galineta"
+          },
+          "coords": [
+            2.887596,
+            39.494973
+          ],
+          "category": "landmark",
+          "arrive_at": "10:11",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.61,
+          "tip_5lang": {
+            "de": "Suchen Sie nach den faszinierenden mechanischen Resten dieser historischen Mühle, die ein großartiges Zeugnis der alten ländlichen Ingenieurskunst Mallorcas darstellt.",
+            "hu": "Keresse meg e történelmi malom lenyűgöző mechanikai maradványait, amely nagyszerű tanúbizonysága Mallorca régi, hagyományos vidéki mérnöki és építészeti tudásának.",
+            "ro": "Căutați rămășițele mecanice fascinante ale acestei mori istorice, care reprezintă o mare mărturie a vechii arte inginerești rurale și tradiționale din Mallorca.",
+            "en": "Look for the fascinating mechanical remains of this historic mill, which represents a great testament to Mallorca's old, traditional rural engineering and architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Molí den Perdiu",
+            "hu": "Molí den Perdiu",
+            "ro": "Molí den Perdiu",
+            "en": "Molí den Perdiu"
+          },
+          "coords": [
+            2.88466,
+            39.493337
+          ],
+          "category": "landmark",
+          "arrive_at": "10:28",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.34,
+          "tip_5lang": {
+            "de": "Dieses markante Relikt der Vergangenheit zeugt von der tiefen Verbundenheit der Inselbewohner mit dem Land; fotografieren Sie die Mühle am besten mit dem blauen Himmel.",
+            "hu": "A múlt e feltűnő emléke a szigetlakók és a föld mély kapcsolatáról tanúskodik; a malmot leginkább a tiszta, kék égbolttal a háttérben érdemes lencsevégre kapni.",
+            "ro": "Această relicvă izbitoare a trecutului mărturisește legătura profundă a insularilor cu pământul; fotografiați moara ideal cu cerul albastru senin în fundal.",
+            "en": "This striking relic of the past testifies to the islanders' deep connection to the land; capture the mill best with the clear blue sky beautifully placed in the background."
+          }
+        },
+        {
+          "name": {
+            "de": "Molí de Son Pere Negre",
+            "hu": "Molí de Son Pere Negre",
+            "ro": "Molí de Son Pere Negre",
+            "en": "Molí de Son Pere Negre"
+          },
+          "coords": [
+            2.882298,
+            39.494442
+          ],
+          "category": "landmark",
+          "arrive_at": "10:44",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses wunderbare Beispiel einer Windmühle in der ruhigen Peripherie, die eine entspannte Atmosphäre bietet und leicht mit dem Fahrrad zu erreichen ist.",
+            "hu": "Látogasson el egy szélmalom e csodálatos példájához a csendes külvárosban, amely rendkívül pihentető légkört kínál, és kerékpárral nagyon könnyen és gyorsan megközelíthető.",
+            "ro": "Vizitați acest exemplu minunat de moară de vânt de la periferia liniștită, care oferă o atmosferă relaxantă și este foarte ușor și rapid de accesat cu bicicleta.",
+            "en": "Visit this wonderful example of a windmill in the quiet periphery, which offers a truly relaxing atmosphere and is very easily and quickly accessible if riding a bicycle."
+          }
+        },
+        {
+          "name": {
+            "de": "Jaume III.",
+            "hu": "Jaume III.",
+            "ro": "Jaume III.",
+            "en": "Jaume III."
+          },
+          "coords": [
+            2.887782,
+            39.487875
+          ],
+          "category": "historical",
+          "arrive_at": "11:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.86,
+          "tip_5lang": {
+            "de": "Spüren Sie die Geschichte am Denkmal des mutigen Königs, der hier seine letzte Schlacht schlug, und lesen Sie die Informationstafeln, um die spannenden Details zu erfahren.",
+            "hu": "Érezze a történelmet a bátor király emlékművénél, aki itt vívta utolsó csatáját, és feltétlenül olvassa el az információs táblákat a lenyűgöző részletek megismeréséhez.",
+            "ro": "Simțiți istoria la monumentul curajosului rege care a purtat aici ultima sa bătălie și citiți panourile informative pentru a afla detaliile fascinante ale acestui eventiment.",
+            "en": "Feel the history at the monument of the brave king who fought his last battle here, and be sure to read the information boards to learn the fascinating details of the conflict."
+          }
+        },
+        {
+          "name": {
+            "de": "Sant Miquel",
+            "hu": "Sant Miquel",
+            "ro": "Sant Miquel",
+            "en": "Sant Miquel"
+          },
+          "coords": [
+            2.890322,
+            39.49083
+          ],
+          "category": "religious",
+          "arrive_at": "12:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.44,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposante Fassade dieser majestätischen Kirche aus dem 18. Jahrhundert, deren Inneres eine tiefe Stille bietet, am besten am frühen Morgen zu besichtigen.",
+            "hu": "Csodálja meg a fenséges 18. századi templom lenyűgöző homlokzatát, amelynek belseje mély csendet kínál, és érdemes rögtön a kora reggeli órákban felfedezni.",
+            "ro": "Admirați fațada impunătoare a acestei biserici majestuoase din secolul al XVIII-lea, al cărei interior oferă o liniște profundă, ideală de vizitat la primele ore ale dimineții.",
+            "en": "Admire the imposing facade of this majestic 18th-century church, whose interior offers a profound silence best experienced by visiting during the early morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Toni Catany",
+            "hu": "Toni Catany",
+            "ro": "Toni Catany",
+            "en": "Toni Catany"
+          },
+          "coords": [
+            2.893908,
+            39.490056
+          ],
+          "category": "museum",
+          "arrive_at": "13:08",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das faszinierende Werk dieses weltberühmten Fotografen ein, und nutzen Sie das wunderbare natürliche Licht im Innenhof für Ihre eigenen Urlaubsbilder.",
+            "hu": "Merüljön el e világhírű fotós lenyűgöző munkásságában, és mindenképpen használja ki a belső udvar csodálatos természetes fényét saját nyaralási fotói elkészítéséhez.",
+            "ro": "Cufundați-vă în opera fascinantă a acestui fotograf de renume mondial și profitați de lumina naturală minunată din curtea interioară pentru propriile fotografii de vacanță.",
+            "en": "Immerse yourself in the fascinating work of this world-renowned photographer, and take advantage of the wonderful natural light in the courtyard for your own photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir radeln zuerst zum ruhigen Kloster Sant Bonaventura und weiter zu den ländlichen Mühlen Marrano und Galineta. Die Mittagsfahrt führt uns vorbei an der Molí den Perdiu und Son Pere Negre, wo das authentische Mallorca spürbar wird. Nachmittags tauchen wir am Denkmal Jaume III. in die Geschichte ein. Der Abend gehört der Kirche Sant Miquel und den Werken von Toni Catany im goldenen Licht.",
+        "hu": "Először a nyugodt Sant Bonaventura kolostorhoz tekerünk, majd a Marrano és Galineta malmok felé vesszük az irányt. A déli kerékpározás a Perdiu és Son Pere Negre malmokhoz vezet, ahol az autentikus vidék tárul elénk. Délután a Jaume III. emlékműnél elmélyedünk a sziget történelmében. Az estét a Sant Miquel templom és a Toni Catany múzeum művészi kincseinek felfedezésével töltjük.",
+        "ro": "Pedalăm spre liniștita mănăstire Sant Bonaventura și apoi către morile rurale Marrano și Galineta. Traseul de prânz ne poartă pe lângă Molí den Perdiu și Son Pere Negre, dezvăluind un farmec autentic. După-amiaza, ne cufundăm în istorie la impresionantul monument Jaume III. Seara aparține frumoasei biserici Sant Miquel și operelor lui Toni Catany, luminate de soarele la apus.",
+        "en": "We first cycle to the peaceful Sant Bonaventura monastery, then head to the rural Marrano and Galineta windmills. The midday ride leads past Molí den Perdiu and Son Pere Negre, revealing true authentic charm. In the afternoon, we dive into island history at the grand Jaume III monument. The evening is devoted to Sant Miquel and the art of Toni Catany, bathed in the town's golden hour light."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:11",
+      "total_km": 2.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Toni Catany",
+            "hu": "Toni Catany",
+            "ro": "Toni Catany",
+            "en": "Toni Catany"
+          },
+          "coords": [
+            2.893908,
+            39.490056
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das faszinierende Werk dieses weltberühmten Fotografen ein, und nutzen Sie das wunderbare natürliche Licht im Innenhof für Ihre eigenen Urlaubsbilder.",
+            "hu": "Merüljön el e világhírű fotós lenyűgöző munkásságában, és mindenképpen használja ki a belső udvar csodálatos természetes fényét saját nyaralási fotói elkészítéséhez.",
+            "ro": "Cufundați-vă în opera fascinantă a acestui fotograf de renume mondial și profitați de lumina naturală minunată din curtea interioară pentru propriile fotografii de vacanță.",
+            "en": "Immerse yourself in the fascinating work of this world-renowned photographer, and take advantage of the wonderful natural light in the courtyard for your own photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Sant Miquel",
+            "hu": "Sant Miquel",
+            "ro": "Sant Miquel",
+            "en": "Sant Miquel"
+          },
+          "coords": [
+            2.890322,
+            39.49083
+          ],
+          "category": "religious",
+          "arrive_at": "10:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposante Fassade dieser majestätischen Kirche aus dem 18. Jahrhundert, deren Inneres eine tiefe Stille bietet, am besten am frühen Morgen zu besichtigen.",
+            "hu": "Csodálja meg a fenséges 18. századi templom lenyűgöző homlokzatát, amelynek belseje mély csendet kínál, és érdemes rögtön a kora reggeli órákban felfedezni.",
+            "ro": "Admirați fațada impunătoare a acestei biserici majestuoase din secolul al XVIII-lea, al cărei interior oferă o liniște profundă, ideală de vizitat la primele ore ale dimineții.",
+            "en": "Admire the imposing facade of this majestic 18th-century church, whose interior offers a profound silence best experienced by visiting during the early morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Jaume III.",
+            "hu": "Jaume III.",
+            "ro": "Jaume III.",
+            "en": "Jaume III."
+          },
+          "coords": [
+            2.887782,
+            39.487875
+          ],
+          "category": "historical",
+          "arrive_at": "11:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.44,
+          "tip_5lang": {
+            "de": "Spüren Sie die Geschichte am Denkmal des mutigen Königs, der hier seine letzte Schlacht schlug, und lesen Sie die Informationstafeln, um die spannenden Details zu erfahren.",
+            "hu": "Érezze a történelmet a bátor király emlékművénél, aki itt vívta utolsó csatáját, és feltétlenül olvassa el az információs táblákat a lenyűgöző részletek megismeréséhez.",
+            "ro": "Simțiți istoria la monumentul curajosului rege care a purtat aici ultima sa bătălie și citiți panourile informative pentru a afla detaliile fascinante ale acestui eveniment.",
+            "en": "Feel the history at the monument of the brave king who fought his last battle here, and be sure to read the information boards to learn the fascinating details of the conflict."
+          }
+        },
+        {
+          "name": {
+            "de": "Molí d'en Mostatxet",
+            "hu": "Molí d'en Mostatxet",
+            "ro": "Molí d'en Mostatxet",
+            "en": "Molí d'en Mostatxet"
+          },
+          "coords": [
+            2.88557,
+            39.487252
+          ],
+          "category": "landmark",
+          "arrive_at": "12:53",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser malerischen Mühle, die sich perfekt in das städtische Gefüge integriert hat, und beobachten Sie, wie sich die alte und neue Welt hier faszinierend treffen.",
+            "hu": "Álljon meg ennél a festői malomnál, amely tökéletesen beilleszkedett a városszövetbe, és figyelje meg, milyen lenyűgöző módon találkozik itt a régi és az új világ harmonikusan.",
+            "ro": "Opriți-vă la această moară pitorească perfect integrată în țesutul urban și observați modul fascinant în care lumea veche și cea nouă se întâlnesc aici într-o armonie perfectă.",
+            "en": "Stop by this picturesque mill perfectly integrated into the urban fabric, and observe the fascinating way in which the old and the new worlds meet here in perfect harmony."
+          }
+        },
+        {
+          "name": {
+            "de": "Molí d'en Barca",
+            "hu": "Molí d'en Barca",
+            "ro": "Molí d'en Barca",
+            "en": "Molí d'en Barca"
+          },
+          "coords": [
+            2.889663,
+            39.493867
+          ],
+          "category": "landmark",
+          "arrive_at": "13:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.77,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Steinmauern dieses historischen Denkmals, das an windige Zeiten erinnert, und nehmen Sie sich Zeit für einen ruhigen Moment abseits des Trubels.",
+            "hu": "Fedezze fel e történelmi emlékmű lenyűgöző kőfalait, amely a szeles időkre emlékeztet, és szánjon egy kis időt egy csendes pillanatra távol a városi nyüzsgéstől és zajtól.",
+            "ro": "Explorați zidurile de piatră fascinante ale acestui monument istoric care amintește de vremurile vântoase și acordați-vă timp pentru un moment de liniște departe de agitație.",
+            "en": "Explore the fascinating stone walls of this historic monument reminiscent of windy times, and take a moment for a quiet, peaceful break away from the usual hustle and bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Molí d'en Marrano",
+            "hu": "Molí d'en Marrano",
+            "ro": "Molí d'en Marrano",
+            "en": "Molí d'en Marrano"
+          },
+          "coords": [
+            2.894432,
+            39.496914
+          ],
+          "category": "landmark",
+          "arrive_at": "13:26",
+          "stay_min": 45,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.56,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese stolze Mühle am Stadtrand, die einst das Leben der Bauern prägte, und genießen Sie von hier aus den weiten Blick auf die mallorquinische Landschaft.",
+            "hu": "Csodálja meg ezt a büszke külvárosi malmot, amely egykor a parasztok életét formálta, és élvezze az innen nyíló széles, zavartalan kilátást a mallorcai tájra.",
+            "ro": "Admirați această moară mândră de la periferie, care a modelat cândva viața țăranilor, și bucurați-vă de vederea largă și neîntreruptă asupra peisajului mallorcan.",
+            "en": "Marvel at this proud windmill on the outskirts that once shaped the lives of peasants, and enjoy the wide, uninterrupted view of the Mallorcan landscape from this spot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Fahrt startet beim Toni Catany Museum mit herausragender Fotografie, gefolgt von einer stillen Minute in Sant Miquel. Mittags erreichen wir bequem das beeindruckende Denkmal Jaume III., um die mittelalterliche Geschichte zu erkunden. Nachmittags führt die Route an der Molí d'en Mostatxet und der steinernen Molí d'en Barca vorbei. Am Abend bietet die Molí d'en Marrano weite Ausblicke.",
+        "hu": "Az út a Toni Catany múzeum kiváló fotóival kezdődik, melyet a Sant Miquel templom csendje követ. Délben kényelmesen elérjük a lenyűgöző Jaume III. emlékművet, hogy megismerjük a sziget középkori történelmét. Délután a Mostatxet malom és a Barca malom lenyűgöző kőfalai mellett autózunk el. Az estét a Marrano malomnál zárjuk, ahonnan csodálatos kilátás nyílik a környező tájra.",
+        "ro": "Călătoria începe la muzeul Toni Catany cu fotografii remarcabile, urmată de un moment de liniște la Sant Miquel. La prânz ajungem confortabil la monumentul Jaume III pentru a explora istoria medievală. După-amiaza trecem pe lângă morile de vânt urbane Mostatxet și Barca cu zidurile lor de piatră. Seara, moara Marrano de la marginea orașului oferă priveliști ample la apusul soarelui.",
+        "en": "The drive begins at the Toni Catany museum with outstanding photography, followed by a quiet moment in Sant Miquel. At midday, we easily reach the impressive Jaume III monument to explore the island's medieval history. The afternoon route takes us past the Mostatxet and the stone-walled Barca windmills. In the evening, the Marrano mill offers sweeping countryside views as the sun sets."
+      }
+    }
+  }
+}

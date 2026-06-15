@@ -1,0 +1,428 @@
+{
+  "city_id": "italy-passoscuro-cities-v2",
+  "anchor": {
+    "name": "Passoscuro",
+    "coords": [
+      12.1607,
+      41.90243
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:03",
+      "total_km": 1.52,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Brasilia 1",
+            "hu": "Brasilia 1",
+            "ro": "Brasilia 1",
+            "en": "Brasilia 1"
+          },
+          "coords": [
+            12.151275,
+            41.907187
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Strandtag am Brasilia 1, einem klassischen lokalen Sandstrand, an dem Sie sich früh eine Liege mieten sollten, um die beste Aussicht aufs Meer zu genießen.",
+            "hu": "Kezdje a strandolást a Brasilia 1-en, egy klasszikus helyi homokos szakaszon, ahol érdemes korán napágyat bérelni a legjobb tengerparti kilátás érdekében.",
+            "ro": "Începeți ziua de plajă la Brasilia 1, o întindere clasică de nisip unde închirierea timpurie a unui șezlong vă garantează cea mai bună vedere la mare.",
+            "en": "Start your beach day at Brasilia 1, a classic local stretch of sand perfect for morning sun, where renting a lounger early guarantees the best seaside view."
+          }
+        },
+        {
+          "name": {
+            "de": "Il Tucano Club",
+            "hu": "Il Tucano Club",
+            "ro": "Il Tucano Club",
+            "en": "Il Tucano Club"
+          },
+          "coords": [
+            12.15406,
+            41.903584
+          ],
+          "category": "recreational",
+          "arrive_at": "10:17",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre im Il Tucano Club, einem gut ausgestatteten Familienstrandbad, und probieren Sie unbedingt die frische Meeresfrüchte-Pasta im Restaurant.",
+            "hu": "Élvezze a pezsgő hangulatot az Il Tucano Clubban, egy jól felszerelt családi strandon, és mindenképpen kóstolja meg a friss tenger gyümölcseis tésztát az éttermükben.",
+            "ro": "Bucurați-vă de atmosfera vibrantă la Il Tucano Club, o stațiune balneară ideală pentru familii, și asigurați-vă că încercați pastele cu fructe de mare proaspete la restaurantul lor.",
+            "en": "Enjoy the vibrant atmosphere at Il Tucano Club, a well-equipped beach resort ideal for families, and be sure to try the fresh seafood pasta at their seaside restaurant."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Palidoro",
+            "hu": "Lido Palidoro",
+            "ro": "Lido Palidoro",
+            "en": "Lido Palidoro"
+          },
+          "coords": [
+            12.156021,
+            41.901719
+          ],
+          "category": "recreational",
+          "arrive_at": "11:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am Lido Palidoro, einem einladenden Ort mit goldenem Sand, an den Sie Ihre eigene Schnorchelausrüstung mitbringen sollten, um das flache Wasser zu erkunden.",
+            "hu": "Pihenjen a Lido Palidoro aranyhomokos partján, amely szelíd hullámairól ismert, így érdemes saját búvárfelszerelést hozni a tiszta sekély víz felfedezéséhez.",
+            "ro": "Relaxați-vă la Lido Palidoro, un loc primitor cu nisip auriu, unde este recomandat să aduceți propriul echipament de snorkeling pentru a explora apele puțin adânci.",
+            "en": "Relax at Lido Palidoro, an inviting spot known for its golden sands and gentle waves, making it wise to bring your own snorkeling gear to explore the clear shallows."
+          }
+        },
+        {
+          "name": {
+            "de": "Stella Marina",
+            "hu": "Stella Marina",
+            "ro": "Stella Marina",
+            "en": "Stella Marina"
+          },
+          "coords": [
+            12.158395,
+            41.899235
+          ],
+          "category": "recreational",
+          "arrive_at": "12:26",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.34,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause im Stella Marina, einem charmanten Küstenclub mit wunderbaren Meeresbrisen, wo ein erfrischendes Eis vom Kiosk ein absolutes Muss ist.",
+            "hu": "Tartson egy kis szünetet a Stella Marina bájos parti klubjában a frissítő délutáni tengeri szellőben, ahol mindenképpen kóstoljon meg egy fagylaltot a helyi kioszkból.",
+            "ro": "Faceți o pauză la Stella Marina, un club de coastă fermecător, cu o briză minunată de după-amiază, unde savurarea unei gelato de la chioșc este absolut obligatorie.",
+            "en": "Take a break at Stella Marina, a charming coastal club offering wonderful afternoon sea breezes, where grabbing a refreshing gelato from the kiosk is a must."
+          }
+        },
+        {
+          "name": {
+            "de": "Naut In Club",
+            "hu": "Naut In Club",
+            "ro": "Naut In Club",
+            "en": "Naut In Club"
+          },
+          "coords": [
+            12.161672,
+            41.895793
+          ],
+          "category": "recreational",
+          "arrive_at": "13:33",
+          "stay_min": 90,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang im Naut In Club, der Wassersport und Entspannung vereint, und bleiben Sie bis zum Sonnenuntergang, um spektakuläre Küstenfotos zu machen.",
+            "hu": "Zárja a sétát a Naut In Clubban, amely kiválóan ötvözi a vízi sportokat és a pihenést, ezért érdemes naplementéig maradni a látványos tengerparti fotókért.",
+            "ro": "Încheiați plimbarea la Naut In Club, un loc excelent pentru sporturi nautice și relaxare, așa că rămâneți până la apus pentru a surprinde fotografii spectaculoase de coastă.",
+            "en": "Conclude your walking tour at Naut In Club, an excellent spot combining water sports and relaxation, so stick around until sunset to capture spectacular coastal photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen, indem Sie die mediterrane Sonne am beliebten Strand Brasilia 1 tanken. Gegen Mittag schlendern Sie gemütlich zum Il Tucano Club und Lido Palidoro, wo Sie sich erfrischen können. Am Nachmittag führt Sie die Meeresbrise zu den einladenden Stränden des Stella Marina. Am Abend können Sie sich schließlich im Naut In Club entspannen und einen atemberaubenden Sonnenuntergang beobachten.",
+        "hu": "Kezdje a reggelt a mediterrán napsütés élvezetével a népszerű Brasilia 1 strandon. Délben tegyen egy kényelmes sétát az Il Tucano Club és a Lido Palidoro felé, ahol felfrissülhet a Tirrén-tenger vizében. Délután a tengeri szellő a Stella Marina hívogató homokjához vezet. Végül, az este közeledtével pihenjen meg a Naut In Clubban, és csodálja meg a lenyűgöző naplementét a partvonal felett.",
+        "ro": "Începeți dimineața bucurându-vă de soarele mediteranean pe populara plajă Brasilia 1. La prânz, faceți o plimbare relaxantă către Il Tucano Club și Lido Palidoro, unde vă puteți răcori în apele tireniene. După-amiaza, briza mării vă ghidează către nisipurile primitoare de la Stella Marina. În cele din urmă, pe măsură ce se apropie seara, relaxați-vă la Naut In Club pentru a admira un apus spectaculos.",
+        "en": "Start your morning by soaking up the Mediterranean sun at the popular Brasilia 1 beach. By midday, take a leisurely stroll down to Il Tucano Club and Lido Palidoro, where you can dip your toes in the refreshing Tyrrhenian waters. In the afternoon, the sea breeze guides you towards the welcoming sands of Stella Marina. Finally, as evening approaches, relax at Naut In Club to witness a stunning sunset over the coastline."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 3.67,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Torre di Palidoro",
+            "hu": "Torre di Palidoro",
+            "ro": "Torre di Palidoro",
+            "en": "Torre di Palidoro"
+          },
+          "coords": [
+            12.146419,
+            41.915252
+          ],
+          "category": "tower",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie den historischen Torre di Palidoro, einen mittelalterlichen Wachturm, der mit Salvo D'Acquisto verbunden ist, und tragen Sie bequeme Schuhe für das Gelände.",
+            "hu": "Látogasson el a történelmi Torre di Palidoro középkori őrtoronyhoz, amely Salvo D'Acquisto hősies áldozatáról híres, és viseljen kényelmes cipőt a műemlék körüli sétához.",
+            "ro": "Vizitați istoricul Torre di Palidoro, un turn de veghe medieval legat de sacrificiul eroic al lui Salvo D'Acquisto, și purtați încălțăminte confortabilă pentru a explora terenul.",
+            "en": "Visit the historic Torre di Palidoro, a medieval watchtower famously tied to Salvo D'Acquisto's heroic sacrifice, and bring comfortable shoes to walk around the monument's grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Moai Beach",
+            "hu": "Moai Beach",
+            "ro": "Moai Beach",
+            "en": "Moai Beach"
+          },
+          "coords": [
+            12.152637,
+            41.905094
+          ],
+          "category": "recreational",
+          "arrive_at": "10:37",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie Moai Beach, einen einzigartig gestalteten Küstenort mit lustigem Ambiente, und versuchen Sie, früh zu kommen, um einen Schirm in Wassernähe zu ergattern.",
+            "hu": "Fedezze fel a Moai Beach egyedi hangulatú parti helyszínét, és próbáljon meg korán érkezni, hogy biztosan kapjon egy napernyőt közvetlenül a vízparton.",
+            "ro": "Descoperiți Moai Beach, un loc de coastă cu o tematică unică și o ambianță distractivă, și încercați să ajungeți devreme pentru a prinde o umbrelă aproape de marginea apei.",
+            "en": "Discover Moai Beach, a uniquely themed coastal spot that offers a fun, quirky ambiance, and try to arrive early to secure an umbrella near the water's edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Il Pirata",
+            "hu": "Il Pirata",
+            "ro": "Il Pirata",
+            "en": "Il Pirata"
+          },
+          "coords": [
+            12.15163,
+            41.906273
+          ],
+          "category": "recreational",
+          "arrive_at": "11:38",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Stimmung im Il Pirata, einem beliebten lokalen Treffpunkt, wo Sie unbedingt das hausgemachte Fladenbrot probieren sollten, um Energie zu tanken.",
+            "hu": "Tapasztalja meg a nyüzsgő hangulatot az Il Pirata nevű népszerű helyi találkozóhelyen, ahol a jellegzetes lepénykenyér tökéletes energiát ad a délutánhoz.",
+            "ro": "Experimentați atmosfera plină de viață de la Il Pirata, un loc de întâlnire popular, unde comandarea lipiilor lor specifice vă va oferi energia necesară pentru după-amiază.",
+            "en": "Experience the lively vibe at Il Pirata, a popular local hangout perfect for a midday snack, where ordering their signature flatbreads will perfectly fuel your afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Il Cavalluccio Marino",
+            "hu": "Il Cavalluccio Marino",
+            "ro": "Il Cavalluccio Marino",
+            "en": "Il Cavalluccio Marino"
+          },
+          "coords": [
+            12.157472,
+            41.899828
+          ],
+          "category": "recreational",
+          "arrive_at": "12:43",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.87,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im Il Cavalluccio Marino, der für seine gepflegten Strände bekannt ist, und mieten Sie ein Tretboot für einen lustigen Ausflug aufs Meer.",
+            "hu": "Kapcsolódjon ki az Il Cavalluccio Marinóban, amely gondozott strandjáról ismert, és béreljen vízibiciklit egy vidám, csodás kilátást nyújtó nyíltvízi kiránduláshoz.",
+            "ro": "Relaxați-vă la Il Cavalluccio Marino, cunoscut pentru plaja bine întreținută, și închiriați o hidrobicicletă pentru o excursie distractivă în larg, cu vederi minunate.",
+            "en": "Unwind at Il Cavalluccio Marino, known for its pristine beach maintenance and family-friendly services, and rent a pedalo for a fun offshore excursion with great views."
+          }
+        },
+        {
+          "name": {
+            "de": "Pelota Beach",
+            "hu": "Pelota Beach",
+            "ro": "Pelota Beach",
+            "en": "Pelota Beach"
+          },
+          "coords": [
+            12.160271,
+            41.89692
+          ],
+          "category": "recreational",
+          "arrive_at": "13:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie Pelota Beach mit seiner sportlichen Energie, der perfekte Ort, um sich am späten Nachmittag einem spontanen Beachvolleyballspiel anzuschließen.",
+            "hu": "Látogasson el a Pelota Beach sportos, fiatalos hangulatú partjára, amely tökéletes helyszín ahhoz, hogy a késő délutáni órákban csatlakozzon egy spontán strandröplabda meccshez.",
+            "ro": "Opriți-vă la Pelota Beach pentru energia sa tânără și facilitățile sportive, fiind locul perfect pentru a vă alătura unui joc spontan de volei pe plajă după-amiaza.",
+            "en": "Stop by Pelota Beach for its active, youthful energy and sports facilities, making it the perfect place to join a spontaneous game of beach volleyball in the late afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina Piccola",
+            "hu": "Marina Piccola",
+            "ro": "Marina Piccola",
+            "en": "Marina Piccola"
+          },
+          "coords": [
+            12.166821,
+            41.88948
+          ],
+          "category": "recreational",
+          "arrive_at": "14:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag in der Marina Piccola, einem ruhigen Küstenabschnitt, an dem Sie sich einen gemütlichen Platz im Sand suchen sollten, um die Abenddämmerung zu genießen.",
+            "hu": "Zárja a napot a Marina Piccolánál, egy csendes partszakaszon, ahol érdemes keresni egy kényelmes helyet a homokban, hogy kiélvezze a lenyűgöző alkonyati hangulatot.",
+            "ro": "Încheiați ziua la Marina Piccola, o porțiune senină de coastă, unde trebuie să găsiți un loc confortabil pe nisip pentru a vă bucura de atmosfera liniștită a amurgului.",
+            "en": "End your day at Marina Piccola, a serene stretch of coastline offering spectacular evening colors, so find a cozy spot on the sand to enjoy the tranquil twilight atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radtag beginnt am historischen Torre di Palidoro, wo Sie in die Geschichte eintauchen. Gegen Mittag fahren Sie gen Süden zum Moai Beach und zum lebhaften Il Pirata, um etwas Spaß zu haben. Am Nachmittag radeln Sie gemütlich zu den unberührten Stränden von Il Cavalluccio Marino und zum Pelota Beach. Wenn die Abenddämmerung einsetzt, parken Sie Ihr Rad an der Marina Piccola für einen ruhigen Abend.",
+        "hu": "A kerékpáros nap a történelmi Torre di Palidoro-nál kezdődik, ahol elmélyedhet a helyi történelemben. Délben tekerjen dél felé a tengerpart mentén az egyedi Moai Beach és a nyüzsgő Il Pirata felé. Délután haladjon egyenletesen az Il Cavalluccio Marino és a sportos Pelota Beach homokos partjai felé. Alkonyatkor tegye le a kerékpárt a Marina Piccolánál egy békés tengerparti estéhez.",
+        "ro": "Ziua de ciclism începe la istoricul Torre di Palidoro, absorbind istoria locală înainte de a pedala. La prânz, mergeți spre sud de-a lungul țărmului până la Moai Beach și vibrantul Il Pirata. În timpul după-amiezii, plimbați-vă constant către nisipurile curate de la Il Cavalluccio Marino și plaja energică Pelota Beach. La lăsarea întunericului, parcați bicicleta la Marina Piccola pentru o seară liniștită.",
+        "en": "Your cycling day begins at the historic Torre di Palidoro, absorbing local history before hitting the pedals. By midday, cruise south along the shore to the quirky Moai Beach and vibrant Il Pirata for some lively fun. During the afternoon, ride steadily towards the pristine sands of Il Cavalluccio Marino and the energetic Pelota Beach. As dusk sets in, park your bike at Marina Piccola for a peaceful coastal evening."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:07",
+      "total_km": 3.61,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Torre di Palidoro",
+            "hu": "Torre di Palidoro",
+            "ro": "Torre di Palidoro",
+            "en": "Torre di Palidoro"
+          },
+          "coords": [
+            12.146419,
+            41.915252
+          ],
+          "category": "tower",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie den historischen Torre di Palidoro, einen mittelalterlichen Wachturm, der mit Salvo D'Acquisto verbunden ist, und tragen Sie bequeme Schuhe für das Gelände.",
+            "hu": "Látogasson el a történelmi Torre di Palidoro középkori őrtoronyhoz, amely Salvo D'Acquisto hősies áldozatáról híres, és viseljen kényelmes cipőt a műemlék körüli sétához.",
+            "ro": "Vizitați istoricul Torre di Palidoro, un turn de veghe medieval legat de sacrificiul eroic al lui Salvo D'Acquisto, și purtați încălțăminte confortabilă pentru a explora terenul.",
+            "en": "Visit the historic Torre di Palidoro, a medieval watchtower famously tied to Salvo D'Acquisto's heroic sacrifice, and bring comfortable shoes to walk around the monument's grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Brasilia 1",
+            "hu": "Brasilia 1",
+            "ro": "Brasilia 1",
+            "en": "Brasilia 1"
+          },
+          "coords": [
+            12.151275,
+            41.907187
+          ],
+          "category": "recreational",
+          "arrive_at": "10:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Strandtag am Brasilia 1, einem klassischen lokalen Sandstrand, an dem Sie sich früh eine Liege mieten sollten, um die beste Aussicht aufs Meer zu genießen.",
+            "hu": "Kezdje a strandolást a Brasilia 1-en, egy klasszikus helyi homokos szakaszon, ahol érdemes korán napágyat bérelni a legjobb tengerparti kilátás érdekében.",
+            "ro": "Începeți ziua de plajă la Brasilia 1, o întindere clasică de nisip unde închirierea timpurie a unui șezlong vă garantează cea mai bună vedere la mare.",
+            "en": "Start your beach day at Brasilia 1, a classic local stretch of sand perfect for morning sun, where renting a lounger early guarantees the best seaside view."
+          }
+        },
+        {
+          "name": {
+            "de": "Il Tucano Club",
+            "hu": "Il Tucano Club",
+            "ro": "Il Tucano Club",
+            "en": "Il Tucano Club"
+          },
+          "coords": [
+            12.15406,
+            41.903584
+          ],
+          "category": "recreational",
+          "arrive_at": "11:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre im Il Tucano Club, einem gut ausgestatteten Familienstrandbad, und probieren Sie unbedingt die frische Meeresfrüchte-Pasta im Restaurant.",
+            "hu": "Élvezze a pezsgő hangulatot az Il Tucano Clubban, egy jól felszerelt családi strandon, és mindenképpen kóstolja meg a friss tenger gyümölcseis tésztát az éttermükben.",
+            "ro": "Bucurați-vă de atmosfera vibrantă la Il Tucano Club, o stațiune balneară ideală pentru familii, și asigurați-vă că încercați pastele cu fructe de mare proaspete la restaurantul lor.",
+            "en": "Enjoy the vibrant atmosphere at Il Tucano Club, a well-equipped beach resort ideal for families, and be sure to try the fresh seafood pasta at their seaside restaurant."
+          }
+        },
+        {
+          "name": {
+            "de": "Stella Marina",
+            "hu": "Stella Marina",
+            "ro": "Stella Marina",
+            "en": "Stella Marina"
+          },
+          "coords": [
+            12.158395,
+            41.899235
+          ],
+          "category": "recreational",
+          "arrive_at": "12:34",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause im Stella Marina, einem charmanten Küstenclub mit wunderbaren Meeresbrisen, wo ein erfrischendes Eis vom Kiosk ein absolutes Muss ist.",
+            "hu": "Tartson egy kis szünetet a Stella Marina bájos parti klubjában a frissítő délutáni tengeri szellőben, ahol mindenképpen kóstoljon meg egy fagylaltot a helyi kioszkból.",
+            "ro": "Faceți o pauză la Stella Marina, un club de coastă fermecător, cu o briză minunată de după-amiază, unde savurarea unei gelato de la chioșc este absolut obligatorie.",
+            "en": "Take a break at Stella Marina, a charming coastal club offering wonderful afternoon sea breezes, where grabbing a refreshing gelato from the kiosk is a must."
+          }
+        },
+        {
+          "name": {
+            "de": "La Lucciola",
+            "hu": "La Lucciola",
+            "ro": "La Lucciola",
+            "en": "La Lucciola"
+          },
+          "coords": [
+            12.168659,
+            41.887428
+          ],
+          "category": "recreational",
+          "arrive_at": "13:37",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.55,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt im La Lucciola, einem wunderschönen südlichen Resort, wo ein Aperitif am Meer die perfekte Art ist, den Tag ausklingen zu lassen.",
+            "hu": "Fejezze be a parti autózást a La Lucciola gyönyörű déli üdülőhelyén, ahol a tengerparti aperitif elfogyasztása a tökéletes módja a nap megkoronázásának.",
+            "ro": "Terminați plimbarea cu mașina la La Lucciola, o stațiune sudică superbă, unde savurarea unui aperitiv la malul mării este modalitatea supremă de a încheia ziua.",
+            "en": "Finish your coastal drive at La Lucciola, a beautiful southern resort perfect for late relaxation, where staying for an aperitivo by the sea is the ultimate way to wrap up."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Roadtrip mit der Erkundung des monumentalen Torre di Palidoro am nördlichen Rand der Stadt. Die Mittagszeit lädt zu einer kurzen Fahrt zu den klassischen Sandstränden von Brasilia 1 und dem familienfreundlichen Il Tucano Club ein. Verbringen Sie Ihren Nachmittag im charmanten Stella Marina. Wenn der Abend hereinbricht, fahren Sie zum ruhigen La Lucciola, um den Tag am Meer ausklingen zu lassen.",
+        "hu": "Kezdje az autós kirándulást a város északi szélén található monumentális Torre di Palidoro felfedezésével. Délben egy rövid autóút várja a Brasilia 1 klasszikus homokjához és az Il Tucano Clubhoz egy kis pihenésre. Töltse a délutánt a parti hangulat és a tengeri szellő élvezetével a Stella Marinában. Estefelé vezessen a csendes La Lucciola felé, hogy tengerparti kilátással zárja a napot.",
+        "ro": "Începeți excursia cu mașina explorând monumentalul Torre di Palidoro de la marginea de nord a orașului. Prânzul vă invită la o scurtă călătorie către Brasilia 1 și către Il Tucano Club pentru o pauză reconfortantă. Petreceți-vă după-amiaza bucurându-vă de ambianța de coastă la minunata Stella Marina. Când se lasă seara, conduceți către liniștita La Lucciola pentru a încheia ziua cu vederi la mare.",
+        "en": "Kick off your road trip by exploring the monumental Torre di Palidoro on the northern edge of the town. Midday invites a quick drive down to the classic sands of Brasilia 1 and the family-friendly Il Tucano Club for a refreshing break. Spend your afternoon enjoying the coastal ambiance and sea breezes at the lovely Stella Marina. When evening falls, drive to the tranquil La Lucciola to end the day with seaside views."
+      }
+    }
+  }
+}

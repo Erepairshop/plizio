@@ -1,0 +1,428 @@
+{
+  "city_id": "italy-cervinia-cities-v2",
+  "anchor": {
+    "name": "Breuil-Cervinia",
+    "coords": [
+      7.631111,
+      45.934444
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:17",
+      "total_km": 2.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa della Regina della Valle",
+            "hu": "Chiesa della Regina della Valle",
+            "ro": "Chiesa della Regina della Valle",
+            "en": "Chiesa della Regina della Valle"
+          },
+          "coords": [
+            7.631186,
+            45.934738
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die moderne Bergkirche wegen ihrer einzigartigen Architektur, aber achten Sie darauf, leise zu sein, wenn ein Gottesdienst stattfindet.",
+            "hu": "Nézze meg a modern hegyi templom különleges építészeti megoldásait, de ügyeljen a csendre, ha éppen szertartás zajlik a falak között.",
+            "ro": "Admirați arhitectura unică a acestei biserici montane moderne, dar asigurați-vă că păstrați liniștea dacă se oficiază o slujbă religioasă.",
+            "en": "Admire the unique modern architecture of this mountain church, but make sure to keep quiet if a religious service is taking place inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Imago",
+            "hu": "Imago",
+            "ro": "Imago",
+            "en": "Imago"
+          },
+          "coords": [
+            7.629423,
+            45.936875
+          ],
+          "category": "museum",
+          "arrive_at": "09:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem faszinierenden Museum alte Fotografien von Cervinia und ziehen Sie sich warm an, da die Räume kühl sein können.",
+            "hu": "Fedezze fel Cervinia régi fényképeit ebben a lenyűgöző múzeumban, és öltözzön melegen, mert a kiállítótermek hűvösek lehetnek.",
+            "ro": "Descoperiți fotografii vechi cu Cervinia în acest muzeu fascinant și îmbrăcați-vă gros, deoarece sălile de expoziție pot fi răcoroase.",
+            "en": "Discover old photographs of Cervinia in this fascinating museum, and dress warmly as the exhibition rooms can be a bit chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Cervino e Lago di Layet",
+            "hu": "Cervino e Lago di Layet",
+            "ro": "Cervino e Lago di Layet",
+            "en": "Cervino e Lago di Layet"
+          },
+          "coords": [
+            7.62233,
+            45.923636
+          ],
+          "category": "natural",
+          "arrive_at": "11:56",
+          "stay_min": 45,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende Spiegelung des Matterhorns in diesem klaren Bergsee und bringen Sie eine gute Kamera für perfekte Fotos mit.",
+            "hu": "Élvezze a Matterhorn lélegzetelállító tükröződését ezen a tiszta hegyi tavon, és hozzon magával egy jó fényképezőgépet a tökéletes fotókhoz.",
+            "ro": "Bucurați-vă de reflexia uluitoare a Matterhornului în acest lac montan limpede și aduceți o cameră bună pentru fotografii perfecte.",
+            "en": "Enjoy the breathtaking reflection of the Matterhorn in this clear mountain lake, and bring a good camera to capture the perfect shots."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvedere su Grandes Murailles",
+            "hu": "Belvedere su Grandes Murailles",
+            "ro": "Belvedere su Grandes Murailles",
+            "en": "Belvedere su Grandes Murailles"
+          },
+          "coords": [
+            7.618394,
+            45.924181
+          ],
+          "category": "natural",
+          "arrive_at": "12:47",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die massive Felswand der Grandes Murailles von diesem Aussichtspunkt aus, aber tragen Sie feste Schuhe für den felsigen Weg.",
+            "hu": "Csodálja meg a Grandes Murailles masszív sziklafalát erről a kilátóról, de viseljen erős túracipőt a köves ösvény biztonságos bejárásához.",
+            "ro": "Admirați peretele masiv de stâncă Grandes Murailles de la acest punct de belvedere, dar purtați încălțăminte robustă pentru poteca stâncoasă.",
+            "en": "Marvel at the massive rock face of the Grandes Murailles from this viewpoint, but be sure to wear sturdy shoes for the rocky path."
+          }
+        },
+        {
+          "name": {
+            "de": "Zona Ex Pista Bob del Lago Blu",
+            "hu": "Zona Ex Pista Bob del Lago Blu",
+            "ro": "Zona Ex Pista Bob del Lago Blu",
+            "en": "Zona Ex Pista Bob del Lago Blu"
+          },
+          "coords": [
+            7.619768,
+            45.921541
+          ],
+          "category": "landmark",
+          "arrive_at": "13:17",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste der historischen Bobbahn am blauen See und achten Sie auf moosbedeckte, rutschige Stellen am Rand der Piste.",
+            "hu": "Fedezze fel a történelmi bobpálya maradványait a kék tó mellett, és vigyázzon a mohával borított, csúszós részekre a pálya szélén.",
+            "ro": "Explorați rămășițele istoricei piste de bob de lângă lacul albastru și aveți grijă la porțiunile alunecoase acoperite de mușchi.",
+            "en": "Explore the remains of the historic bobsleigh track next to the blue lake, and watch out for moss-covered, slippery spots along the edge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen im Zentrum von Breuil-Cervinia mit einem Besuch der modernen Kirche. Danach können Sie im Imago-Museum in die Geschichte der Region eintauchen und historische Fotos bewundern. Mittags wandern Sie entspannt hinaus zum Lago di Layet, wo sich das majestätische Matterhorn im Wasser spiegelt. Der Nachmittag bietet weitere Aussichtspunkte wie den Belvedere su Grandes Murailles. Beenden Sie den Tag bei den faszinierenden Überresten der alten Bobbahn am Lago Blu.",
+        "hu": "Kezdje a reggelt Breuil-Cervinia központjában a modern hegyi templom megtekintésével. Ezután merüljön el a régió történetében az Imago múzeumban a régi fotókon keresztül. Délben tegyen egy pihentető sétát a Lago di Layet felé, ahol a fenséges Matterhorn tükröződik a vízben. A délután további lenyűgöző kilátókat tartogat a Grandes Murailles felé. Zárja a napot a kék tó melletti régi bobpálya izgalmas és történelmi maradványainál.",
+        "ro": "Începeți dimineața în centrul localității Breuil-Cervinia vizitând biserica modernă. Apoi, cufundați-vă în istoria regiunii la muzeul Imago. La prânz, faceți o scurtă drumeție relaxantă spre Lago di Layet, unde maiestuosul Matterhorn se reflectă în apă. După-amiaza vă oferă mai multe puncte de belvedere superbe spre Grandes Murailles. Încheiați-vă ziua la rămășițele fascinante ale vechii piste de bob situate idilic lângă Lacul Albastru.",
+        "en": "Start your morning in the center of Breuil-Cervinia with a visit to the modern mountain church. Afterward, delve into local history at the Imago museum, exploring vintage photographs. By midday, take a relaxing stroll out to Lago di Layet, where the majestic Matterhorn reflects perfectly in the water. The afternoon offers more stunning viewpoints like the Belvedere su Grandes Murailles. End your day exploring the fascinating ruins of the old bobsleigh track."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:43",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa della Regina della Valle",
+            "hu": "Chiesa della Regina della Valle",
+            "ro": "Chiesa della Regina della Valle",
+            "en": "Chiesa della Regina della Valle"
+          },
+          "coords": [
+            7.631186,
+            45.934738
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die moderne Bergkirche wegen ihrer einzigartigen Architektur, aber achten Sie darauf, leise zu sein, wenn ein Gottesdienst stattfindet.",
+            "hu": "Nézze meg a modern hegyi templom különleges építészeti megoldásait, de ügyeljen a csendre, ha éppen szertartás zajlik a falak között.",
+            "ro": "Admirați arhitectura unică a acestei biserici montane moderne, dar asigurați-vă că păstrați liniștea dacă se oficiază o slujbă religioasă.",
+            "en": "Admire the unique modern architecture of this mountain church, but make sure to keep quiet if a religious service is taking place inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Cervino e Lago di Layet",
+            "hu": "Cervino e Lago di Layet",
+            "ro": "Cervino e Lago di Layet",
+            "en": "Cervino e Lago di Layet"
+          },
+          "coords": [
+            7.62233,
+            45.923636
+          ],
+          "category": "natural",
+          "arrive_at": "09:58",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende Spiegelung des Matterhorns in diesem klaren Bergsee und bringen Sie eine gute Kamera für perfekte Fotos mit.",
+            "hu": "Élvezze a Matterhorn lélegzetelállító tükröződését ezen a tiszta hegyi tavon, és hozzon magával egy jó fényképezőgépet a tökéletes fotókhoz.",
+            "ro": "Bucurați-vă de reflexia uluitoare a Matterhornului în acest lac montan limpede și aduceți o cameră bună pentru fotografii perfecte.",
+            "en": "Enjoy the breathtaking reflection of the Matterhorn in this clear mountain lake, and bring a good camera to capture the perfect shots."
+          }
+        },
+        {
+          "name": {
+            "de": "View Cervino/Matterhorn",
+            "hu": "View Cervino/Matterhorn",
+            "ro": "View Cervino/Matterhorn",
+            "en": "View Cervino/Matterhorn"
+          },
+          "coords": [
+            7.617953,
+            45.922265
+          ],
+          "category": "natural",
+          "arrive_at": "10:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erleben Sie einen der besten Ausblicke auf das Matterhorn und parken Sie Ihr Fahrrad sicher, um einen kurzen Spaziergang zum Rand zu machen.",
+            "hu": "Tapasztalja meg a legjobb kilátást a Matterhornra, és parkolja le biztonságosan a kerékpárját egy rövid sétához a szakadék széléig.",
+            "ro": "Experimentați una dintre cele mai bune vederi ale Matterhornului și parcați-vă bicicleta în siguranță pentru o scurtă plimbare până la margine.",
+            "en": "Experience one of the best views of the Matterhorn, and park your bike safely to take a short walk closer to the mountain's edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvedere sul Cervino",
+            "hu": "Belvedere sul Cervino",
+            "ro": "Belvedere sul Cervino",
+            "en": "Belvedere sul Cervino"
+          },
+          "coords": [
+            7.625563,
+            45.917795
+          ],
+          "category": "natural",
+          "arrive_at": "11:14",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Nutzen Sie diesen ruhigen Aussichtspunkt für eine kleine Pause mit fantastischem Panorama, aber nehmen Sie Ihren gesamten Müll wieder mit.",
+            "hu": "Használja ki ezt a csendes kilátót egy kis pihenőre a fantasztikus panorámával, de ne felejtse el magával vinni az összes szemetet.",
+            "ro": "Profitați de acest punct de belvedere liniștit pentru o pauză cu o panoramă fantastică, dar nu uitați să luați cu voi tot gunoiul.",
+            "en": "Take advantage of this quiet viewpoint for a break with a fantastic panorama, but make sure to take all your trash away with you."
+          }
+        },
+        {
+          "name": {
+            "de": "Ecomuseo del Vertice",
+            "hu": "Ecomuseo del Vertice",
+            "ro": "Ecomuseo del Vertice",
+            "en": "Ecomuseo del Vertice"
+          },
+          "coords": [
+            7.6336,
+            45.915108
+          ],
+          "category": "museum",
+          "arrive_at": "11:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Geschichte der alpinen Verteidigung ein und überprüfen Sie vorab die unregelmäßigen Öffnungszeiten dieses einzigartigen Museums.",
+            "hu": "Merüljön el az alpesi védelem történetében, és előzetesen ellenőrizze ennek az egyedi múzeumnak a rendszertelen nyitvatartási idejét.",
+            "ro": "Scufundați-vă în istoria apărării alpine și verificați în prealabil programul de funcționare neregulat al acestui muzeu unic.",
+            "en": "Immerse yourself in the history of alpine defense, and double-check the irregular opening hours of this unique museum before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Bec Pio Merlo",
+            "hu": "Bec Pio Merlo",
+            "ro": "Bec Pio Merlo",
+            "en": "Bec Pio Merlo"
+          },
+          "coords": [
+            7.640587,
+            45.919593
+          ],
+          "category": "natural",
+          "arrive_at": "13:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besteigen Sie diesen kleinen Gipfel für einen unglaublichen Rundumblick und nehmen Sie eine Windjacke mit, da es hier oben sehr zugig ist.",
+            "hu": "Mássza meg ezt a kis csúcsot egy hihetetlen körpanorámáért, és vigyen magával széldzsekit, mert idefent nagyon huzatos az időjárás.",
+            "ro": "Urcați pe acest mic vârf pentru o vedere panoramică incredibilă și luați o jachetă de vânt, deoarece aici sus este foarte curent.",
+            "en": "Climb this small peak for an incredible panoramic view, and pack a windbreaker because it gets very drafty up here in the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie vom Ortskern zur modernen Kirche und genießen Sie die kühle Morgenluft. Fahren Sie dann gemütlich weiter zum Lago di Layet, um das Matterhorn-Panorama zu erleben. Mittags bieten sich gleich zwei weitere grandiose Aussichtspunkte an, die sich perfekt für Landschaftsfotos eignen. Am Nachmittag tauchen Sie im Ecomuseo del Vertice in die alpenländische Verteidigungsgeschichte ein. Der Tag endet sportlich mit einer Fahrt zum Bec Pio Merlo für letzte Fotos.",
+        "hu": "Kerékpározzon a központból a modern templomhoz, és élvezze a hűvös hegyi reggelt. Ezután guruljon tovább a Lago di Layet felé a Matterhorn páratlan panorámájáért. Délben két további csodálatos kilátópont is várja a tökéletes tájképek elkészítéséhez. Délután az Ecomuseo del Vertice kiállításain az alpesi védelem történetével ismerkedhet meg. A napot sportosan zárja, feltekerve a Bec Pio Merlo kilátójához, ahonnan lélegzetelállító a naplemente.",
+        "ro": "Pedalați din centrul stațiunii spre biserica modernă și bucurați-vă de dimineața răcoroasă. Apoi continuați spre Lago di Layet pentru a experimenta panorama Matterhornului. La prânz, veți găsi încă două puncte de belvedere grandioase, perfecte pentru fotografii de peisaj. După-amiaza, descoperiți istoria apărării alpine la Ecomuseo del Vertice. Ziua se încheie sportiv cu o plimbare spre Bec Pio Merlo pentru ultimele cadre spectaculoase.",
+        "en": "Cycle from the village center to the modern church, enjoying the crisp mountain air. Then pedal gently down towards Lago di Layet to experience the iconic Matterhorn panorama. At midday, two more magnificent viewpoints provide the perfect backdrop for stunning landscape photography. In the afternoon, explore alpine defense history at the Ecomuseo del Vertice. The day ends on a sporty note with a ride to Bec Pio Merlo for one last sweeping view."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:47",
+      "total_km": 5.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Imago",
+            "hu": "Imago",
+            "ro": "Imago",
+            "en": "Imago"
+          },
+          "coords": [
+            7.629423,
+            45.936875
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem faszinierenden Museum alte Fotografien von Cervinia und ziehen Sie sich warm an, da die Räume kühl sein können.",
+            "hu": "Fedezze fel Cervinia régi fényképeit ebben a lenyűgöző múzeumban, és öltözzön melegen, mert a kiállítótermek hűvösek lehetnek.",
+            "ro": "Descoperiți fotografii vechi cu Cervinia în acest muzeu fascinant și îmbrăcați-vă gros, deoarece sălile de expoziție pot fi răcoroase.",
+            "en": "Discover old photographs of Cervinia in this fascinating museum, and dress warmly as the exhibition rooms can be a bit chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Cervino e Grandes Murailles",
+            "hu": "Cervino e Grandes Murailles",
+            "ro": "Cervino e Grandes Murailles",
+            "en": "Cervino e Grandes Murailles"
+          },
+          "coords": [
+            7.622619,
+            45.919765
+          ],
+          "category": "natural",
+          "arrive_at": "10:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Halten Sie für einen unglaublichen Doppelblick auf beide Bergmassive an und nutzen Sie das Morgenlicht für die besten Landschaftsfotos.",
+            "hu": "Álljon meg egy hihetetlen kettős kilátásért mindkét hegységre, és használja ki a reggeli fényeket a legjobb tájképek elkészítéséhez.",
+            "ro": "Opriți pentru o dublă vedere incredibilă asupra ambelor masive montane și profitați de lumina dimineții pentru cele mai bune fotografii de peisaj.",
+            "en": "Stop for an incredible double view of both mountain massifs, and take advantage of the morning light to capture the best landscape photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvedere sugli alpeggi di Perrères",
+            "hu": "Belvedere sugli alpeggi di Perrères",
+            "ro": "Belvedere sugli alpeggi di Perrères",
+            "en": "Belvedere sugli alpeggi di Perrères"
+          },
+          "coords": [
+            7.614384,
+            45.91573
+          ],
+          "category": "natural",
+          "arrive_at": "11:21",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Blicken Sie hinab auf die idyllischen Almen von Perrères und fahren Sie langsam, um die engen Kurven auf dem Weg dorthin sicher zu meistern.",
+            "hu": "Tekintsen le a festői Perrères alpesi legelőkre, és vezessen lassan, hogy biztonságosan bevegye a szűk kanyarokat az odaúton.",
+            "ro": "Priviți în jos spre pășunile alpine idilice din Perrères și conduceți încet pentru a naviga în siguranță prin curbele strânse de pe drum.",
+            "en": "Look down upon the idyllic alpine pastures of Perrères, and drive slowly to safely navigate the tight curves on the way to the spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Ecomuseo del Vertice",
+            "hu": "Ecomuseo del Vertice",
+            "ro": "Ecomuseo del Vertice",
+            "en": "Ecomuseo del Vertice"
+          },
+          "coords": [
+            7.6336,
+            45.915108
+          ],
+          "category": "museum",
+          "arrive_at": "11:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Geschichte der alpinen Verteidigung ein und überprüfen Sie vorab die unregelmäßigen Öffnungszeiten dieses einzigartigen Museums.",
+            "hu": "Merüljön el az alpesi védelem történetében, és előzetesen ellenőrizze ennek az egyedi múzeumnak a rendszertelen nyitvatartási idejét.",
+            "ro": "Scufundați-vă în istoria apărării alpine și verificați în prealabil programul de funcționare neregulat al acestui muzeu unic.",
+            "en": "Immerse yourself in the history of alpine defense, and double-check the irregular opening hours of this unique museum before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Bec Pio Merlo",
+            "hu": "Bec Pio Merlo",
+            "ro": "Bec Pio Merlo",
+            "en": "Bec Pio Merlo"
+          },
+          "coords": [
+            7.640587,
+            45.919593
+          ],
+          "category": "natural",
+          "arrive_at": "13:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besteigen Sie diesen kleinen Gipfel für einen unglaublichen Rundumblick und nehmen Sie eine Windjacke mit, da es hier oben sehr zugig ist.",
+            "hu": "Mássza meg ezt a kis csúcsot egy hihetetlen körpanorámáért, és vigyen magával széldzsekit, mert idefent nagyon huzatos az időjárás.",
+            "ro": "Urcați pe acest mic vârf pentru o vedere panoramică incredibilă și luați o jachetă de vânt, deoarece aici sus este foarte curent.",
+            "en": "Climb this small peak for an incredible panoramic view, and pack a windbreaker because it gets very drafty up here in the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour startet im Zentrum mit einem Besuch des Imago-Museums, wo historische Bilder die alte Zeit aufleben lassen. Fahren Sie mittags zu den majestätischen Aussichtspunkten auf das Matterhorn und die Grandes Murailles. Die kurvenreiche Straße bringt Sie am Nachmittag zum Belvedere über den Perrères-Almen. Anschließend besuchen Sie das faszinierende Ecomuseo del Vertice. Den perfekten Abschluss bildet der Panoramablick vom Bec Pio Merlo im späten Nachmittagslicht.",
+        "hu": "Autós túrája a központban kezdődik az Imago múzeum meglátogatásával, ahol történelmi képek elevenítik fel a múltat. Délben vezessen a Matterhorn és a Grandes Murailles fenséges kilátópontjaihoz. A kanyargós hegyi út délután elviszi a Perrères legelők feletti kilátóhoz. Ezután látogasson el a lenyűgöző Ecomuseo del Vertice kiállítására. A tökéletes befejezést a Bec Pio Merlo panorámája biztosítja a késő délutáni, aranyló fényekben.",
+        "ro": "Turul cu mașina începe în centru cu o vizită la muzeul Imago, unde imaginile istorice readuc la viață trecutul. La prânz, conduceți spre punctele de belvedere maiestuoase ale Matterhornului. Drumul șerpuit vă duce după-amiaza la punctul panoramic deasupra pășunilor Perrères. Ulterior, vizitați fascinantul Ecomuseo del Vertice. Finalul perfect este asigurat de vederea panoramică de la Bec Pio Merlo în lumina târzie a după-amiezii.",
+        "en": "Your driving tour begins in the center with a visit to the Imago museum, where historic images bring the past to life. By midday, drive out to the majestic viewpoints facing the Matterhorn and Grandes Murailles. The winding road then takes you to the sweeping overlook above the Perrères alpine pastures. Next, visit the fascinating Ecomuseo del Vertice. The perfect conclusion is the panoramic view from Bec Pio Merlo in the late afternoon light."
+      }
+    }
+  }
+}

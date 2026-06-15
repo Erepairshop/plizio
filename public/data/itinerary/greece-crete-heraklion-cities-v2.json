@@ -1,0 +1,497 @@
+{
+  "city_id": "greece-crete-heraklion-cities-v2",
+  "anchor": {
+    "name": "Heraklion",
+    "coords": [
+      25.134444,
+      35.340278
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:56",
+      "total_km": 2.67,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Phrourio Koules",
+            "hu": "Phrourio Koules",
+            "ro": "Phrourio Koules",
+            "en": "Phrourio Koules"
+          },
+          "coords": [
+            25.136928,
+            35.34458
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die imposante venezianische Festung aus dem 16. Jahrhundert, die den Hafen bewachte, und tragen Sie bequeme Schuhe für die unebenen Steinböden.",
+            "hu": "Fedezze fel ezt az impozáns 16. századi velencei erődöt, amely a kikötőt védte, és viseljen kényelmes cipőt az egyenetlen kőpadlók miatt.",
+            "ro": "Explorați această fortăreață venețiană impunătoare din secolul al XVI-lea care păzea portul și purtați încălțăminte confortabilă pentru podelele din piatră.",
+            "en": "Explore this imposing 16th-century Venetian fortress that guarded the harbor, offering excellent sea views, but wear comfortable shoes for the uneven stone floors."
+          }
+        },
+        {
+          "name": {
+            "de": "Katholike ekklesia Agiou Ioannou tou Baptistou",
+            "hu": "Katholike ekklesia Agiou Ioannou tou Baptistou",
+            "ro": "Katholike ekklesia Agiou Ioannou tou Baptistou",
+            "en": "Katholike ekklesia Agiou Ioannou tou Baptistou"
+          },
+          "coords": [
+            25.134607,
+            35.341696
+          ],
+          "category": "religious",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese ruhige katholische Kirche, die Johannes dem Täufer gewidmet ist, und denken Sie daran, sich während der Gottesdienste leise zu verhalten.",
+            "hu": "Látogasson el a Keresztelő Szent Jánosnak szentelt katolikus templomba, hogy megcsodálja gyönyörű belső terét, de ügyeljen a csendre a misék alatt.",
+            "ro": "Vizitați această biserică catolică senină închinată Sfântului Ioan Botezătorul pentru a-i admira interiorul, amintindu-vă să păstrați liniștea.",
+            "en": "Visit this serene Catholic church dedicated to St. John the Baptist to admire its beautiful interior, remembering to keep your voice down during service hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Old Olive Tree",
+            "hu": "Öreg Olajfa",
+            "ro": "Măslinul Vechi",
+            "en": "Old Olive Tree"
+          },
+          "coords": [
+            25.139596,
+            35.341151
+          ],
+          "category": "landmark",
+          "arrive_at": "10:28",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen fast 500 Jahre alten Olivenbaum, ein lebendiges Zeugnis der kretischen Agrargeschichte, und machen Sie ein Foto im besten Morgenlicht.",
+            "hu": "Csodálja meg ezt a közel 500 éve ültetett ősi olajfát, amely a krétai mezőgazdaság élő emléke, és készítsen egy fényképet a kora reggeli fényekben.",
+            "ro": "Admirați acest măslin străvechi plantat cu aproape 500 de ani în urmă, o mărturie a istoriei agricole cretane, și faceți o fotografie în lumina dimineții.",
+            "en": "Marvel at this ancient olive tree planted almost 500 years ago, a living testament to Cretan agricultural history, and capture a photo in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Arkhaiologiko Mouseio",
+            "hu": "Arkhaiologiko Mouseio",
+            "ro": "Arkhaiologiko Mouseio",
+            "en": "Arkhaiologiko Mouseio"
+          },
+          "coords": [
+            25.137419,
+            35.339138
+          ],
+          "category": "museum",
+          "arrive_at": "10:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die weltweit beste Sammlung minoischer Kunst in diesem umfangreichen Museum, und planen Sie mindestens zwei Stunden für die Fresken ein.",
+            "hu": "Fedezze fel a minószi művészet és leletek világviszonylatban is egyedülálló gyűjteményét, legalább két órát szánva a lenyűgöző freskók megtekintésére.",
+            "ro": "Descoperiți cea mai bună colecție de artă minoică din lume în acest muzeu impresionant, alocând cel puțin două ore pentru a aprecia pe deplin frescele antice.",
+            "en": "Discover the world's finest collection of Minoan art and artifacts in this extensive museum, allocating at least two hours to fully appreciate the frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Plateia Kornarou",
+            "hu": "Plateia Kornarou",
+            "ro": "Plateia Kornarou",
+            "en": "Plateia Kornarou"
+          },
+          "coords": [
+            25.133446,
+            35.336367
+          ],
+          "category": "landmark",
+          "arrive_at": "12:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Ruhen Sie sich auf diesem belebten Platz aus, der nach dem Dichter Kornaros benannt ist, bewundern Sie den Bembo-Brunnen und holen Sie sich ein Gebäck.",
+            "hu": "Pihenjen meg ezen a nyüzsgő téren, amely a híres krétai költő, Vitsentzos Kornaros nevét viseli, és csodálja meg a Bembo-kutat egy helyi sütemény mellett.",
+            "ro": "Odihniți-vă în această piață plină de viață numită după poetul cretan Kornaros, unde puteți admira fântâna Bembo și gusta o prăjitură locală rapidă.",
+            "en": "Rest at this lively square named after the famous Cretan poet Vitsentzos Kornaros, where you can admire the Bembo Fountain and grab a quick local pastry."
+          }
+        },
+        {
+          "name": {
+            "de": "Agia Aikaterine",
+            "hu": "Agia Aikaterine",
+            "ro": "Agia Aikaterine",
+            "en": "Agia Aikaterine"
+          },
+          "coords": [
+            25.131361,
+            35.338091
+          ],
+          "category": "museum",
+          "arrive_at": "13:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Betreten Sie diese ehemalige Kirche, die heute ein Museum ist, um byzantinische Ikonen der Kretischen Schule zu sehen, insbesondere Werke von Damaskinos.",
+            "hu": "Lépjen be ebbe a múzeummá alakított egykori templomba, ahol a Krétai Iskola gyönyörű bizánci ikonjait láthatja, különösen Michael Damaskinos műveit.",
+            "ro": "Pășiți în această fostă biserică transformată în muzeu pentru a vedea icoane bizantine rafinate create de Școala Cretană, în special lucrările lui Damaskinos.",
+            "en": "Step into this former church turned museum to see exquisite Byzantine icons created by the Cretan School, paying close attention to works by Michael Damaskinos."
+          }
+        },
+        {
+          "name": {
+            "de": "Pule Dermata",
+            "hu": "Pule Dermata",
+            "ro": "Pule Dermata",
+            "en": "Pule Dermata"
+          },
+          "coords": [
+            25.123096,
+            35.340543
+          ],
+          "category": "historical",
+          "arrive_at": "15:06",
+          "stay_min": 110,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Gehen Sie durch dieses historische venezianische Tor, das einst die Stadt mit dem Meer verband, und betrachten Sie die dicken Verteidigungsmauern.",
+            "hu": "Sétáljon át ezen a történelmi velencei kapun, amely egykor összekötötte a várost a tengerrel, és figyelje meg a régi Heraklion vastag védőfalait.",
+            "ro": "Treceți prin această poartă venețiană istorică ce conecta cândva orașul de mare, făcându-vă timp să apreciați zidurile groase de apărare ale orașului vechi.",
+            "en": "Walk through this historical Venetian gate that once connected the city to the sea, taking a moment to appreciate the thick defensive walls of old Heraklion."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Zentrum von Heraklion ist ein Paradies für Fußgänger. Der Morgen beginnt an der berühmten Festung Koules, gefolgt von der ruhigen katholischen Kirche. Mittags passieren Sie einen alten Olivenbaum, bevor Sie das Archäologische Museum besuchen. Den Nachmittag verbringen Sie mit einem Spaziergang über den Kornarou-Platz und der Besichtigung der byzantinischen Ikonen in Agia Aikaterine, bevor Sie am historischen Dermata-Tor enden.",
+        "hu": "Heraklion központja a gyalogosok igazi paradicsoma. A reggel a híres Koules erőd megtekintésével indul, majd egy csendes katolikus templomot látogatunk meg. Délben egy ősi olajfa mellett elhaladva a Régészeti Múzeum kincseibe merülünk el. A délutánt a nyüzsgő Kornarou téren, a bizánci ikonok megcsodálásával, majd a történelmi Dermata kapu felfedezésével töltjük.",
+        "ro": "Centrul orașului Heraklion este o încântare pentru pietoni. Dimineața începe la fortăreața Koules, urmată de momente liniștite la o biserică catolică. La prânz, treceți pe lângă un măslin străvechi înainte de a vă scufunda în comorile Muzeului Arheologic. După-amiaza o petreceți plimbându-vă prin Piața Kornarou, admirând icoane bizantine la Agia Aikaterine și încheind la Poarta Dermata.",
+        "en": "Heraklion's center is a walker's delight. Your morning starts at the iconic Koules fortress overlooking the Aegean, followed by quiet moments at a serene Catholic church. Midday brings you past an ancient olive tree before diving into the unmatched treasures of the Archaeological Museum. The afternoon is spent strolling through lively Kornarou Square and admiring Byzantine icons at Agia Aikaterine, ending at the historic Dermata Gate."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:02",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Protome Giouri Gkagkarin",
+            "hu": "Protome Giouri Gkagkarin",
+            "ro": "Protome Giouri Gkagkarin",
+            "en": "Protome Giouri Gkagkarin"
+          },
+          "coords": [
+            25.114821,
+            35.340726
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die unerwartete Bronzebüste des sowjetischen Kosmonauten Juri Gagarin, eine einzigartige historische Markierung für einen kurzen Zwischenstopp.",
+            "hu": "Tekintse meg Jurij Gagarin szovjet űrhajós váratlan bronzmellszobrát, amely egy egyedülálló történelmi emlékpont, mielőtt folytatná útját a városban.",
+            "ro": "Observați bustul de bronz neașteptat al cosmonautului sovietic Iuri Gagarin, un reper istoric unic unde puteți face o scurtă pauză în timpul plimbării.",
+            "en": "Observe the unexpected bronze bust of Soviet cosmonaut Yuri Gagarin, a unique historical marker where you can briefly reflect before continuing your journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Pule Dermata",
+            "hu": "Pule Dermata",
+            "ro": "Pule Dermata",
+            "en": "Pule Dermata"
+          },
+          "coords": [
+            25.123096,
+            35.340543
+          ],
+          "category": "historical",
+          "arrive_at": "09:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Gehen Sie durch dieses historische venezianische Tor, das einst die Stadt mit dem Meer verband, und betrachten Sie die dicken Verteidigungsmauern.",
+            "hu": "Sétáljon át ezen a történelmi velencei kapun, amely egykor összekötötte a várost a tengerrel, és figyelje meg a régi Heraklion vastag védőfalait.",
+            "ro": "Treceți prin această poartă venețiană istorică ce conecta cândva orașul de mare, făcându-vă timp să apreciați zidurile groase de apărare ale orașului vechi.",
+            "en": "Walk through this historical Venetian gate that once connected the city to the sea, taking a moment to appreciate the thick defensive walls of old Heraklion."
+          }
+        },
+        {
+          "name": {
+            "de": "Phrourio Koules",
+            "hu": "Phrourio Koules",
+            "ro": "Phrourio Koules",
+            "en": "Phrourio Koules"
+          },
+          "coords": [
+            25.136928,
+            35.34458
+          ],
+          "category": "landmark",
+          "arrive_at": "10:56",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.32,
+          "tip_5lang": {
+            "de": "Erkunden Sie die imposante venezianische Festung aus dem 16. Jahrhundert, die den Hafen bewachte, und tragen Sie bequeme Schuhe für die unebenen Steinböden.",
+            "hu": "Fedezze fel ezt az impozáns 16. századi velencei erődöt, amely a kikötőt védte, és viseljen kényelmes cipőt az egyenetlen kőpadlók miatt.",
+            "ro": "Explorați această fortăreață venețiană impunătoare din secolul al XVI-lea care păzea portul și purtați încălțăminte confortabilă pentru podelele din piatră.",
+            "en": "Explore this imposing 16th-century Venetian fortress that guarded the harbor, offering excellent sea views, but wear comfortable shoes for the uneven stone floors."
+          }
+        },
+        {
+          "name": {
+            "de": "Arkhaiologiko Mouseio",
+            "hu": "Arkhaiologiko Mouseio",
+            "ro": "Arkhaiologiko Mouseio",
+            "en": "Arkhaiologiko Mouseio"
+          },
+          "coords": [
+            25.137419,
+            35.339138
+          ],
+          "category": "museum",
+          "arrive_at": "11:24",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die weltweit beste Sammlung minoischer Kunst in diesem umfangreichen Museum, und planen Sie mindestens zwei Stunden für die Fresken ein.",
+            "hu": "Fedezze fel a minószi művészet és leletek világviszonylatban is egyedülálló gyűjteményét, legalább két órát szánva a lenyűgöző freskók megtekintésére.",
+            "ro": "Descoperiți cea mai bună colecție de artă minoică din lume în acest muzeu impresionant, alocând cel puțin două ore pentru a aprecia pe deplin frescele antice.",
+            "en": "Discover the world's finest collection of Minoan art and artifacts in this extensive museum, allocating at least two hours to fully appreciate the frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Politistiko kentro Erakleiou",
+            "hu": "Politistiko kentro Erakleiou",
+            "ro": "Politistiko kentro Erakleiou",
+            "en": "Politistiko kentro Erakleiou"
+          },
+          "coords": [
+            25.129599,
+            35.333974
+          ],
+          "category": "cultural",
+          "arrive_at": "13:09",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.92,
+          "tip_5lang": {
+            "de": "Prüfen Sie das Programm dieses modernen Kulturzentrums auf lokale Aufführungen und genießen Sie die moderne Architektur im Kontrast zur Altstadt.",
+            "hu": "Ellenőrizze a modern kulturális központ programját a helyi előadásokért, és élvezze az óvárossal kontrasztban álló kortárs építészeti megoldásokat.",
+            "ro": "Verificați programul la acest centru cultural modern pentru spectacole locale și bucurați-vă de arhitectura contemporană în contrast cu orașul vechi.",
+            "en": "Check the schedule at this modern cultural center for local performances or exhibitions, and enjoy the contemporary architecture contrasting with the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Kepotheatro Nikou Kazantzake",
+            "hu": "Kepotheatro Nikou Kazantzake",
+            "ro": "Kepotheatro Nikou Kazantzake",
+            "en": "Kepotheatro Nikou Kazantzake"
+          },
+          "coords": [
+            25.133834,
+            35.332756
+          ],
+          "category": "cultural",
+          "arrive_at": "14:11",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses Freilichttheater, das dem Schriftsteller Nikos Kazantzakis gewidmet ist, und prüfen Sie lokale Angebote für abendliche Veranstaltungen.",
+            "hu": "Látogasson el a híres írónak, Nikos Kazantzakisnak szentelt szabadtéri színházba, amely remek nyári rendezvényeknek ad otthont, így érdemes tájékozódni.",
+            "ro": "Vizitați acest teatru în aer liber dedicat faimosului scriitor Nikos Kazantzakis, care găzduiește evenimente de vară, verificând programul pentru spectacole.",
+            "en": "Visit this open-air theater dedicated to the famous writer Nikos Kazantzakis, which hosts wonderful summer events, so check local listings for evening shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Mnemeio Mikrasiaton",
+            "hu": "Mnemeio Mikrasiaton",
+            "ro": "Mnemeio Mikrasiaton",
+            "en": "Mnemeio Mikrasiaton"
+          },
+          "coords": [
+            25.134841,
+            35.33212
+          ],
+          "category": "historical",
+          "arrive_at": "15:12",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Gedenken Sie an diesem berührenden Denkmal für die Flüchtlinge aus Kleinasien, einem wichtigen Teil der griechischen Geschichte für einen ruhigen Moment.",
+            "hu": "Emlékezzen a kisázsiai menekülteknek szentelt megható emlékműnél, amely a görög történelem egy jelentős darabja, és lehetőséget ad egy csendes elmélyülésre.",
+            "ro": "Reflectați la acest memorial emoționant dedicat refugiaților din Asia Mică, o parte semnificativă a istoriei Greciei care oferă un moment de contemplare.",
+            "en": "Reflect at this touching memorial dedicated to Asia Minor refugees, a significant piece of Greek history that offers a quiet moment of contemplation."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radfahren ist eine wunderbare Möglichkeit, Heraklion zu erkunden. Beginnen Sie mit der Gagarin-Büste, bevor Sie an den venezianischen Mauern entlang zum Dermata-Tor und zur Festung Koules fahren. Mittags besuchen Sie das Archäologische Museum. Am Nachmittag radeln Sie zum Kulturzentrum und zum Kazantzakis-Theater. Der Abend endet am berührenden Kleinasiatischen Denkmal.",
+        "hu": "A kerékpározás remek módja Heraklion felfedezésének. Kezdje a napot a Gagarin-szobornál, majd tekerjen a velencei falak mentén a Dermata kapuhoz és a Koules erődhöz. A nap közepén a Régészeti Múzeum várja. Délután a Kulturális Központ és a Kazantzakis Színház felé vesszük az irányt, majd a tartalmas nap a kisázsiai emlékműnél ér véget, tisztelegve a múlt előtt.",
+        "ro": "Ciclismul este o modalitate minunată de a explora Heraklion. Începeți cu bustul lui Gagarin înainte de a pedala pe lângă zidurile venețiene spre Poarta Dermata și Fortăreața Koules. Prânzul este rezervat Muzeului Arheologic. După-amiaza vă îndreptați spre Centrul Cultural și Teatrul Kazantzakis. Seara se încheie la monumentul emoționant dedicat refugiaților din Asia Mică.",
+        "en": "Cycling offers a wonderful way to connect Heraklion's historic nodes. Begin with the quirky Gagarin bust before riding along the Venetian walls to Dermata Gate and Koules Fortress. The midday features the expansive Archaeological Museum. In the afternoon, you will pedal towards the Cultural Center and the Kazantzakis Theater. Your evening concludes with a reflective moment at the touching Asia Minor Monument."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:31",
+      "total_km": 7.18,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Demotiko Kolumbeterio",
+            "hu": "Demotiko Kolumbeterio",
+            "ro": "Demotiko Kolumbeterio",
+            "en": "Demotiko Kolumbeterio"
+          },
+          "coords": [
+            25.103875,
+            35.335072
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einigen Freizeitaktivitäten in der Nähe des städtischen Schwimmbads, einem ausgezeichneten Ort, um sich die Beine zu vertreten.",
+            "hu": "Kezdje a napot egy kis kikapcsolódással a városi uszoda közelében, ami kiváló helyszín a nyújtózásra, távol a turisták által zsúfolt városközponttól.",
+            "ro": "Începeți-vă ziua cu activități recreative în apropierea piscinei municipale, un loc excelent pentru a vă dezmorți departe de centrul turistic aglomerat.",
+            "en": "Start your day with some recreational activity near the municipal swimming pool area, an excellent spot to stretch your legs away from the busy tourist center."
+          }
+        },
+        {
+          "name": {
+            "de": "Protome Giouri Gkagkarin",
+            "hu": "Protome Giouri Gkagkarin",
+            "ro": "Protome Giouri Gkagkarin",
+            "en": "Protome Giouri Gkagkarin"
+          },
+          "coords": [
+            25.114821,
+            35.340726
+          ],
+          "category": "historical",
+          "arrive_at": "10:13",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.17,
+          "tip_5lang": {
+            "de": "Betrachten Sie die unerwartete Bronzebüste des sowjetischen Kosmonauten Juri Gagarin, eine einzigartige historische Markierung für einen kurzen Zwischenstopp.",
+            "hu": "Tekintse meg Jurij Gagarin szovjet űrhajós váratlan bronzmellszobrát, amely egy egyedülálló történelmi emlékpont, mielőtt folytatná útját a városban.",
+            "ro": "Observați bustul de bronz neașteptat al cosmonautului sovietic Iuri Gagarin, un reper istoric unic unde puteți face o scurtă pauză în timpul plimbării.",
+            "en": "Observe the unexpected bronze bust of Soviet cosmonaut Yuri Gagarin, a unique historical marker where you can briefly reflect before continuing your journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Arkhaiologiko Mouseio",
+            "hu": "Arkhaiologiko Mouseio",
+            "ro": "Arkhaiologiko Mouseio",
+            "en": "Arkhaiologiko Mouseio"
+          },
+          "coords": [
+            25.137419,
+            35.339138
+          ],
+          "category": "museum",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.04,
+          "tip_5lang": {
+            "de": "Entdecken Sie die weltweit beste Sammlung minoischer Kunst in diesem umfangreichen Museum, und planen Sie mindestens zwei Stunden für die Fresken ein.",
+            "hu": "Fedezze fel a minószi művészet és leletek világviszonylatban is egyedülálló gyűjteményét, legalább két órát szánva a lenyűgöző freskók megtekintésére.",
+            "ro": "Descoperiți cea mai bună colecție de artă minoică din lume în acest muzeu impresionant, alocând cel puțin două ore pentru a aprecia pe deplin frescele antice.",
+            "en": "Discover the world's finest collection of Minoan art and artifacts in this extensive museum, allocating at least two hours to fully appreciate the frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Mouseio",
+            "hu": "Mouseio",
+            "ro": "Mouseio",
+            "en": "Mouseio"
+          },
+          "coords": [
+            25.131583,
+            35.33361
+          ],
+          "category": "museum",
+          "arrive_at": "12:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.81,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen Museumsbereich, um tiefer in lokale historische Artefakte einzutauchen, und lesen Sie die detaillierten Tafeln für ein besseres Verständnis.",
+            "hu": "Fedezze fel ezt a múzeumot, hogy mélyebbre ásson a helyi történelmi leletekben, és olvassa el a részletes táblákat Heraklion gazdag múltjának megismeréséhez.",
+            "ro": "Explorați acest spațiu muzeal pentru a aprofunda artefactele istorice locale, citind plăcile detaliate pentru a înțelege pe deplin trecutul bogat al orașului.",
+            "en": "Explore this engaging museum space to delve deeper into local historical artifacts, reading the detailed plaques to fully understand Heraklion's rich past."
+          }
+        },
+        {
+          "name": {
+            "de": "Udrokinese",
+            "hu": "Udrokinese",
+            "ro": "Udrokinese",
+            "en": "Udrokinese"
+          },
+          "coords": [
+            25.155514,
+            35.31303
+          ],
+          "category": "recreational",
+          "arrive_at": "14:01",
+          "stay_min": 90,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.16,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem Erholungsgebiet, das sich auf Wasserdynamik und Natur konzentriert, und bringen Sie eine Flasche Wasser für den Nachmittag mit.",
+            "hu": "Lazítson ezen a víz dinamikájára és a helyi természetre összpontosító rekreációs területen, és vigyen magával egy üveg vizet a délutáni felfedezéshez.",
+            "ro": "Relaxați-vă în această zonă recreativă axată pe dinamica apei și pe natura locală, aducând cu dumneavoastră o sticlă de apă pentru explorarea de după-amiază.",
+            "en": "Unwind at this recreational area focused on water dynamics and local nature, bringing a bottle of water to stay hydrated during your afternoon exploration."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie die verschiedenen Bezirke von Heraklion effizient. Der Tag beginnt am städtischen Schwimmbad, bevor es zum Gagarin-Denkmal geht. Die Mittagszeit ist ganz dem Archäologischen Museum und den angrenzenden Sammlungen gewidmet. Beenden Sie den Tag entspannt in den südöstlichen Erholungsgebieten, fernab des touristischen Trubels im Zentrum.",
+        "hu": "Az autózás lehetővé teszi Heraklion különböző kerületeinek kényelmes elérését. A nap az uszoda közelében indul, majd a Gagarin-emlékművet tekintjük meg. A déli órákat a Régészeti Múzeum hatalmas gyűjteményeinek szenteljük, ahol Kréta ősi örökségét kutathatjuk. A napot a délkeleti pihenőövezetek nyugalmában zárjuk le, távol a turisták által frekventált városközponttól.",
+        "ro": "Condusul vă permite să vizitați eficient cartierele orașului Heraklion. Ziua începe lângă piscina municipală înainte de a vedea monumentul lui Gagarin. Prânzul este dedicat Muzeului Arheologic și colecțiilor adiacente, explorând patrimoniul antic al Cretei. Încheiați-vă ziua relaxându-vă în zonele de recreere din sud-est, departe de agitația turistică centrală a orașului.",
+        "en": "Driving allows you to reach Heraklion's distinct districts efficiently. Your day begins near the municipal swimming pool before moving to see the Gagarin monument. The midday is entirely devoted to the massive Archaeological Museum and its adjacent collections, exploring Crete's ancient heritage. End your day relaxing in the southeastern recreational areas, far from the central tourist hustle."
+      }
+    }
+  }
+}

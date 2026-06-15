@@ -1,0 +1,451 @@
+{
+  "city_id": "saint-herblain",
+  "anchor": {
+    "name": "Saint-Herblain",
+    "coords": [
+      -1.6511,
+      47.2114
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:49",
+      "total_km": 7.95,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Hermeland Church",
+            "hu": "Saint-Hermeland Church",
+            "ro": "Saint-Hermeland Church",
+            "en": "Saint-Hermeland Church"
+          },
+          "coords": [
+            -1.651511,
+            47.210318
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser historischen Kirche und versuchen Sie, während der Morgenmesse für eine friedliche Atmosphäre vorbeizuschauen.",
+            "hu": "Csodálja meg a történelmi templom lenyűgöző építészetét, és érdemes a reggeli mise idején érkezni egy igazán békés, feltöltődést nyújtó élményért.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici istorice și încercați să vizitați în timpul slujbei de dimineață pentru o atmosferă cu adevărat pașnică.",
+            "en": "Admire the striking architecture of this historic church and try to visit during morning mass for a beautifully peaceful and reflective atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Aire de jeu Jacqueline Auriol",
+            "hu": "Aire de jeu Jacqueline Auriol",
+            "ro": "Aire de jeu Jacqueline Auriol",
+            "en": "Aire de jeu Jacqueline Auriol"
+          },
+          "coords": [
+            -1.651113,
+            47.212642
+          ],
+          "category": "family",
+          "arrive_at": "09:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder auf diesem gut ausgestatteten Spielplatz etwas Energie abbauen, aber denken Sie daran, eigenes Wasser und Snacks mitzubringen.",
+            "hu": "Hagyja, hogy a gyerekek levezessék az energiájukat ezen a jól felszerelt játszótéren, de ne felejtsen el elegendő vizet és rágcsálnivalót hozni magával.",
+            "ro": "Lăsați copiii să-și consume energia pe acest loc de joacă foarte bine echipat, dar amintiți-vă să aduceți propria apă și gustări pentru pauze.",
+            "en": "Let the children burn off some energy at this well-equipped playground, but remember to bring your own water and snacks to keep everyone refreshed."
+          }
+        },
+        {
+          "name": {
+            "de": "Cours Hermeland",
+            "hu": "Cours Hermeland",
+            "ro": "Cours Hermeland",
+            "en": "Cours Hermeland"
+          },
+          "coords": [
+            -1.631693,
+            47.215955
+          ],
+          "category": "natural",
+          "arrive_at": "10:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Machen Sie einen gemütlichen Spaziergang entlang der grünen Wege dieses Stadtparks und tragen Sie bequeme Schuhe, um die gewundenen Pfade zu erkunden.",
+            "hu": "Tegyen egy kényelmes sétát a városi park zöld ösvényein, és mindenképpen viseljen kényelmes cipőt a végtelen kanyargós utak felfedezéséhez.",
+            "ro": "Faceți o plimbare relaxantă de-a lungul aleilor verzi ale acestui parc urban și purtați încălțăminte confortabilă pentru a explora potecile sale șerpuite.",
+            "en": "Take a leisurely stroll along the green paths of this sprawling urban park and be sure to wear comfortable shoes to explore its winding trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Atlantis Shopping Centre",
+            "hu": "Atlantis Shopping Centre",
+            "ro": "Atlantis Shopping Centre",
+            "en": "Atlantis Shopping Centre"
+          },
+          "coords": [
+            -1.622014,
+            47.195517
+          ],
+          "category": "recreational",
+          "arrive_at": "12:34",
+          "stay_min": 50,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie eine Vielzahl von Geschäften und Restaurants in diesem modernen Komplex, der der perfekte Ort für eine sehr willkommene Mittagspause ist.",
+            "hu": "Fedezze fel a modern komplexum üzleteinek és éttermeinek széles választékát, amely tökéletes és kényelmes helyszín egy kiadós napközbeni ebédszünethez.",
+            "ro": "Explorați o gamă largă de magazine și restaurante în acest complex modern, fiind locul absolut perfect pentru o pauză de prânz foarte satisfăcătoare.",
+            "en": "Explore a vast array of modern shops and diverse eateries in this sprawling complex, making it the perfect spot for a satisfying midday lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Zénith Nantes Métropole",
+            "hu": "Le Zénith Nantes Métropole",
+            "ro": "Le Zénith Nantes Métropole",
+            "en": "Le Zénith Nantes Métropole"
+          },
+          "coords": [
+            -1.627976,
+            47.228711
+          ],
+          "category": "cultural",
+          "arrive_at": "14:19",
+          "stay_min": 60,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 3.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Außenfassade dieser berühmten Konzerthalle und prüfen Sie den Spielplan im Voraus, wenn Sie eine faszinierende Abendshow besuchen möchten.",
+            "hu": "Csodálja meg a híres koncertterem lenyűgöző és modern külsejét, és ellenőrizze előre a műsort, ha esetleg egy esti előadást is szeretne megtekinteni.",
+            "ro": "Minunați-vă de exteriorul modern al acestei faimoase săli de concerte și verificați programul din timp dacă doriți să prindeți un spectacol de seară.",
+            "en": "Marvel at the spectacular modern exterior of this famous concert hall, and be sure to check the schedule in advance if you want to catch an evening show."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung des historischen Herzens von Saint-Herblain, bevor Sie in Ruhe zu den lokalen Parks spazieren. Mittags erreichen Sie das lebhafte Atlantis-Zentrum für Einkäufe und ein wohlverdientes Mittagessen. Der Nachmittag endet mit einem malerischen Spaziergang zum modernen Zénith, einem wahren Zentrum des kulturellen Lebens der Stadt.",
+        "hu": "Kezdje a reggelt Saint-Herblain történelmi központjának felfedezésével, majd sétáljon a kellemes helyi parkok felé. Délben a nyüzsgő Atlantis bevásárlóközpontba ér, ahol megebédelhet. A délutánt a modern Zénith megtekintésével zárja, amely a város kulturális életének kiemelkedő és modern központja.",
+        "ro": "Începeți dimineața explorând inima istorică a orașului Saint-Herblain înainte de a vă plimba spre parcurile locale pline de verdeață. La prânz ajungeți la centrul vibrant Atlantis pentru cumpărături și un prânz bine meritat. După-amiaza se încheie cu o plimbare spre modernul Zénith, un centru esențial al vieții culturale.",
+        "en": "Start your morning exploring the historic heart of Saint-Herblain before strolling towards the vibrant local parks. Midday brings you to the expansive Atlantis center for shopping and a well-deserved lunch. The afternoon concludes with a walk to the modern Zénith, an impressive and iconic hub of the region's cultural life."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 12.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Hermeland Church",
+            "hu": "Saint-Hermeland Church",
+            "ro": "Saint-Hermeland Church",
+            "en": "Saint-Hermeland Church"
+          },
+          "coords": [
+            -1.651511,
+            47.210318
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser historischen Kirche und versuchen Sie, während der Morgenmesse für eine friedliche Atmosphäre vorbeizuschauen.",
+            "hu": "Csodálja meg a történelmi templom lenyűgöző építészetét, és érdemes a reggeli mise idején érkezni egy igazán békés, feltöltődést nyújtó élményért.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici istorice și încercați să vizitați în timpul slujbei de dimineață pentru o atmosferă cu adevărat pașnică.",
+            "en": "Admire the striking architecture of this historic church and try to visit during morning mass for a beautifully peaceful and reflective atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Cours Hermeland",
+            "hu": "Cours Hermeland",
+            "ro": "Cours Hermeland",
+            "en": "Cours Hermeland"
+          },
+          "coords": [
+            -1.631693,
+            47.215955
+          ],
+          "category": "natural",
+          "arrive_at": "09:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Machen Sie einen gemütlichen Spaziergang entlang der grünen Wege dieses Stadtparks und tragen Sie bequeme Schuhe, um die gewundenen Pfade zu erkunden.",
+            "hu": "Tegyen egy kényelmes sétát a városi park zöld ösvényein, és mindenképpen viseljen kényelmes cipőt a végtelen kanyargós utak felfedezéséhez.",
+            "ro": "Faceți o plimbare relaxantă de-a lungul aleilor verzi ale acestui parc urban și purtați încălțăminte confortabilă pentru a explora potecile sale șerpuite.",
+            "en": "Take a leisurely stroll along the green paths of this sprawling urban park and be sure to wear comfortable shoes to explore its winding trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Atlantis Shopping Centre",
+            "hu": "Atlantis Shopping Centre",
+            "ro": "Atlantis Shopping Centre",
+            "en": "Atlantis Shopping Centre"
+          },
+          "coords": [
+            -1.622014,
+            47.195517
+          ],
+          "category": "recreational",
+          "arrive_at": "11:27",
+          "stay_min": 50,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie eine Vielzahl von Geschäften und Restaurants in diesem modernen Komplex, der der perfekte Ort für eine sehr willkommene Mittagspause ist.",
+            "hu": "Fedezze fel a modern komplexum üzleteinek és éttermeinek széles választékát, amely tökéletes és kényelmes helyszín egy kiadós napközbeni ebédszünethez.",
+            "ro": "Explorați o gamă largă de magazine și restaurante în acest complex modern, fiind locul absolut perfect pentru o pauză de prânz foarte satisfăcătoare.",
+            "en": "Explore a vast array of modern shops and diverse eateries in this sprawling complex, making it the perfect spot for a satisfying midday lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de la Bégraisière",
+            "hu": "Parc de la Bégraisière",
+            "ro": "Parc de la Bégraisière",
+            "en": "Parc de la Bégraisière"
+          },
+          "coords": [
+            -1.614585,
+            47.232339
+          ],
+          "category": "natural",
+          "arrive_at": "12:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 4.1,
+          "tip_5lang": {
+            "de": "Genießen Sie ein friedliches Picknick inmitten der vielfältigen Flora dieses weitläufigen Parks, der perfekt gepflegte Rasenflächen zur Entspannung bietet.",
+            "hu": "Élvezze a békés pikniket a változatos növényvilág által körülvett tágas parkban, ahol a gondosan karbantartott pázsit ideális egy kis pihenésre.",
+            "ro": "Bucurați-vă de un picnic liniștit înconjurat de flora diversă în acest parc extins, care dispune de peluze foarte bine întreținute ideale pentru relaxare.",
+            "en": "Enjoy a peaceful afternoon picnic surrounded by diverse flora in this expansive park, which features well-maintained lawns absolutely ideal for relaxation."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc du Val de Chézine",
+            "hu": "Parc du Val de Chézine",
+            "ro": "Parc du Val de Chézine",
+            "en": "Parc du Val de Chézine"
+          },
+          "coords": [
+            -1.597768,
+            47.229462
+          ],
+          "category": "natural",
+          "arrive_at": "14:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Folgen Sie den idyllischen Uferwegen durch dieses schöne grüne Tal und halten Sie beim Radfahren am Wasser unbedingt Ausschau nach der lokalen Tierwelt.",
+            "hu": "Kövesse a folyó menti ösvényeket ebben a gyönyörű zöld völgyben, és figyeljen a helyi vadvilágra, miközben a frissítő víz mellett kerékpározik.",
+            "ro": "Urmați traseele de pe malul râului prin această frumoasă vale verde, fiind foarte atenți la fauna locală în timp ce pedalați liniștit de-a lungul apei.",
+            "en": "Follow the scenic river trails through this beautiful green valley, keeping a close eye out for local wildlife while riding gracefully along the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Gournerie",
+            "hu": "Château de la Gournerie",
+            "ro": "Château de la Gournerie",
+            "en": "Château de la Gournerie"
+          },
+          "coords": [
+            -1.63729,
+            47.245871
+          ],
+          "category": "historical",
+          "arrive_at": "15:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.4,
+          "tip_5lang": {
+            "de": "Machen Sie eine faszinierende Zeitreise auf dem Gelände dieses eleganten Schlosses und verpassen Sie nicht den malerischen See direkt hinter dem Hauptgebäude.",
+            "hu": "Lépjen vissza az időben, miközben felfedezi ennek az elegáns történelmi kastélynak a birtokát, és ne hagyja ki a főépület mögötti varázslatos tavat.",
+            "ro": "Întoarceți-vă în timp pe măsură ce explorați domeniul acestui castel extrem de elegant și nu ratați lacul pitoresc situat chiar în spatele clădirii principale.",
+            "en": "Step back in time as you thoroughly explore the expansive grounds of this elegant chateau, and definitely don't miss the picturesque lake behind the main building."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie die Fahrt an der zentralen Kirche und radeln Sie durch ruhige, grüne Vorortwege. Mittags machen Sie eine entspannte Pause im großen Atlantis-Zentrum, bevor Sie Ihre Radtour fortsetzen. Verbringen Sie den Nachmittag damit, die malerischen und weitläufigen Parks zu erkunden und am wunderschönen Château de la Gournerie zu enden.",
+        "hu": "Kezdje a biciklis túrát a központi templomnál, és tekerjen át a csendes külvárosi zöldövezeteken. Délben tartson pihenőt az Atlantisban egy finom ebédre, mielőtt folytatná útját. A délutánt a festői parkok aktív felfedezésével tölti, amelynek igazán méltó fénypontja a csodálatos Château de la Gournerie.",
+        "ro": "Începeți plimbarea la biserica centrală și pedalați pe drumurile verzi și pașnice din suburbii. La prânz, faceți o pauză binemeritată la Atlantis pentru o gustare înainte de a continua. Petreceți după-amiaza explorând parcurile pitorești, culminând turul la magnificul și istoricul Château de la Gournerie.",
+        "en": "Kick off the bike ride at the central church and pedal through exceptionally tranquil suburban greenways. By midday, take a welcome break at Atlantis for refreshments before continuing your cycling tour. Spend the afternoon exploring the interconnected scenic parks, culminating gracefully at the grand Château de la Gournerie."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:29",
+      "total_km": 13.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Château de la Gournerie",
+            "hu": "Château de la Gournerie",
+            "ro": "Château de la Gournerie",
+            "en": "Château de la Gournerie"
+          },
+          "coords": [
+            -1.63729,
+            47.245871
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine faszinierende Zeitreise auf dem Gelände dieses eleganten Schlosses und verpassen Sie nicht den malerischen See direkt hinter dem Hauptgebäude.",
+            "hu": "Lépjen vissza az időben, miközben felfedezi ennek az elegáns történelmi kastélynak a birtokát, és ne hagyja ki a főépület mögötti varázslatos tavat.",
+            "ro": "Întoarceți-vă în timp pe măsură ce explorați domeniul acestui castel extrem de elegant și nu ratați lacul pitoresc situat chiar în spatele clădirii principale.",
+            "en": "Step back in time as you thoroughly explore the expansive grounds of this elegant chateau, and definitely don't miss the picturesque lake behind the main building."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc du Val de Chézine",
+            "hu": "Parc du Val de Chézine",
+            "ro": "Parc du Val de Chézine",
+            "en": "Parc du Val de Chézine"
+          },
+          "coords": [
+            -1.597768,
+            47.229462
+          ],
+          "category": "natural",
+          "arrive_at": "10:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.4,
+          "tip_5lang": {
+            "de": "Folgen Sie den idyllischen Uferwegen durch dieses schöne grüne Tal und halten Sie beim Spazierengehen am Wasser unbedingt Ausschau nach der lokalen Tierwelt.",
+            "hu": "Kövesse a folyó menti ösvényeket ebben a gyönyörű zöld völgyben, és figyeljen a helyi vadvilágra, miközben a frissítő víz mellett sétál.",
+            "ro": "Urmați traseele de pe malul râului prin această frumoasă vale verde, fiind foarte atenți la fauna locală în timp ce vă plimbați liniștit de-a lungul apei.",
+            "en": "Follow the scenic river trails through this beautiful green valley, keeping a close eye out for local wildlife while strolling gracefully along the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de la Bégraisière",
+            "hu": "Parc de la Bégraisière",
+            "ro": "Parc de la Bégraisière",
+            "en": "Parc de la Bégraisière"
+          },
+          "coords": [
+            -1.614585,
+            47.232339
+          ],
+          "category": "natural",
+          "arrive_at": "11:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie ein friedliches Picknick inmitten der vielfältigen Flora dieses weitläufigen Parks, der perfekt gepflegte Rasenflächen zur Entspannung bietet.",
+            "hu": "Élvezze a békés pikniket a változatos növényvilág által körülvett tágas parkban, ahol a gondosan karbantartott pázsit ideális egy kis pihenésre.",
+            "ro": "Bucurați-vă de un picnic liniștit înconjurat de flora diversă în acest parc extins, care dispune de peluze foarte bine întreținute ideale pentru relaxare.",
+            "en": "Enjoy a peaceful afternoon picnic surrounded by diverse flora in this expansive park, which features well-maintained lawns absolutely ideal for relaxation."
+          }
+        },
+        {
+          "name": {
+            "de": "Arcadium",
+            "hu": "Arcadium",
+            "ro": "Arcadium",
+            "en": "Arcadium"
+          },
+          "coords": [
+            -1.63909,
+            47.229991
+          ],
+          "category": "family",
+          "arrive_at": "13:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in eine Welt interaktiver Arcade-Spiele und Virtual-Reality-Erlebnisse, aber kommen Sie früh, um den Menschenmassen am späten Nachmittag auszuweichen.",
+            "hu": "Merüljön el az interaktív játéktermi játékok és a lenyűgöző virtuális valóság élményeinek világában, de érkezzen időben, hogy elkerülje a késő délutáni tömeget.",
+            "ro": "Pătrundeți într-o lume a jocurilor arcade interactive și a experiențelor de realitate virtuală, dar ajungeți la timp pentru a evita aglomerația de după-amiază târziu.",
+            "en": "Dive completely into a world of interactive arcade games and virtual reality experiences, but try to arrive early to avoid the bustling late afternoon crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Atlantis Shopping Centre",
+            "hu": "Atlantis Shopping Centre",
+            "ro": "Atlantis Shopping Centre",
+            "en": "Atlantis Shopping Centre"
+          },
+          "coords": [
+            -1.622014,
+            47.195517
+          ],
+          "category": "recreational",
+          "arrive_at": "14:23",
+          "stay_min": 50,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie eine Vielzahl von Geschäften und Restaurants in diesem modernen Komplex, der der perfekte Ort für einen kleinen Einkaufsbummel am Nachmittag ist.",
+            "hu": "Fedezze fel a modern komplexum üzleteinek és éttermeinek széles választékát, amely tökéletes és kényelmes helyszín egy kis délutáni vásárláshoz és frissítőhöz.",
+            "ro": "Explorați o gamă largă de magazine și restaurante în acest complex modern, fiind locul absolut perfect pentru o scurtă pauză de cumpărături după-amiaza.",
+            "en": "Explore a vast array of modern shops and diverse eateries in this sprawling complex, making it the perfect convenient spot for an afternoon shopping break."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Hermeland Church",
+            "hu": "Saint-Hermeland Church",
+            "ro": "Saint-Hermeland Church",
+            "en": "Saint-Hermeland Church"
+          },
+          "coords": [
+            -1.651511,
+            47.210318
+          ],
+          "category": "religious",
+          "arrive_at": "15:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser historischen Kirche am späten Nachmittag, wenn das weiche Licht eine besonders friedliche Atmosphäre schafft.",
+            "hu": "Csodálja meg a történelmi templom lenyűgöző építészetét a késő délutáni órákban, amikor a lágy fények különösen békés és meghitt hangulatot varázsolnak.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici istorice după-amiaza târziu, când lumina blândă creează o atmosferă deosebit de pașnică și reflectivă.",
+            "en": "Admire the striking architecture of this historic church in the late afternoon, when the soft fading light creates a beautifully peaceful and reflective atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie direkt zum eleganten Château de la Gournerie für einen historischen Start in den Morgen. Ihre bequeme Route führt Sie dann durch mehrere wunderschöne Naturparks und moderne Unterhaltungsstätten wie das Arcadium. Beenden Sie den Tag mit der entspannten Erkundung der kommerziellen und historischen Aspekte des Stadtzentrums mit maximalem Fahrkomfort.",
+        "hu": "Vezessen egyenesen az elegáns Château de la Gournerie-hez egy történelmi reggeli kezdéshez. Az útvonal ezután gyönyörű természeti parkokon és modern szórakozóhelyeken vezet keresztül. Fejezze be a napot a városközpont történelmi és nyüzsgő kereskedelmi nevezetességeinek maximálisan kényelmes autós felfedezésével.",
+        "ro": "Conduceți direct la elegantul Château de la Gournerie pentru un început istoric și pitoresc al dimineții. Traseul trece apoi prin mai multe parcuri naturale și spații moderne de divertisment. Încheiați ziua explorând aspectele comerciale și istorice ale centrului orașului, bucurându-vă de un confort maxim pe tot parcursul zilei.",
+        "en": "Drive directly to the elegant Château de la Gournerie for a deeply historical morning start. Your convenient route then weaves through multiple beautiful natural parks and modern interactive entertainment venues. Finish the day exploring the commercial and historical aspects of the city center with maximum driving convenience."
+      }
+    }
+  }
+}

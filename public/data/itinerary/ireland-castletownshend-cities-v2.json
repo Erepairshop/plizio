@@ -1,0 +1,474 @@
+{
+  "city_id": "ireland-castletownshend-cities-v2",
+  "anchor": {
+    "name": "Castletownshend",
+    "coords": [
+      -9.17778,
+      51.52783
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:26",
+      "total_km": 2.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint Barahanes",
+            "hu": "Szent Barahane templom",
+            "ro": "Biserica Saint Barahane",
+            "en": "Saint Barahanes"
+          },
+          "coords": [
+            -9.197306,
+            51.529765
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Buntglasfenster und die maritime Geschichte im Inneren dieser friedlichen Kirche und vergessen Sie nicht, auf dem Friedhof nach dem Grab von Somerville und Ross zu suchen.",
+            "hu": "Csodálja meg a békés templom ólomüveg ablakait és tengerészeti történelmét, és ne felejtse el megnézni Somerville és Ross híres írópárosának sírját a temetőben.",
+            "ro": "Admirați vitraliile și istoria maritimă în interiorul acestei biserici senine și nu uitați să căutați în cimitir locul de veci al scriitorilor Somerville și Ross.",
+            "en": "Admire the stained glass windows and maritime history inside this serene church, and don't forget to check the graveyard for the resting place of Somerville and Ross."
+          }
+        },
+        {
+          "name": {
+            "de": "Lios Ringfort",
+            "hu": "Lios Gyűrűerőd",
+            "ro": "Fortul Circular Lios",
+            "en": "Lios"
+          },
+          "coords": [
+            -9.199241,
+            51.525869
+          ],
+          "category": "historical",
+          "arrive_at": "09:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesem alten kreisförmigen Ringfort, in dem frühe Siedler lebten, und tragen Sie festes Schuhwerk für den möglicherweise schlammigen Zugang.",
+            "hu": "Tegyen egy időutazást ezen az ősi kör alakú gyűrűerődön, ahol az első telepesek éltek, és viseljen vízálló cipőt a potenciálisan sáros ösvény miatt.",
+            "ro": "Pășiți înapoi în timp la acest fort antic circular unde au trăit primii coloniști și purtați încălțăminte robustă pentru abordarea potențial noroioasă.",
+            "en": "Step back in time at this ancient circular ring fort where early settlers lived, and wear sturdy shoes for the potentially muddy approach along the path."
+          }
+        },
+        {
+          "name": {
+            "de": "Ortsnamen & ihre erstaunlichen Geschichten",
+            "hu": "Helynevek és elképesztő történeteik",
+            "ro": "Nume de locuri și poveștile lor uimitoare",
+            "en": "Placenames & Their Amazing Stories"
+          },
+          "coords": [
+            -9.194038,
+            51.515731
+          ],
+          "category": "landmark",
+          "arrive_at": "11:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Lernen Sie durch dieses einzigartige Wahrzeichen mehr über das faszinierende lokale Erbe und die sprachliche Geschichte, wobei Sie eine Kamera bereithalten sollten.",
+            "hu": "Ismerje meg a lenyűgöző helyi örökséget és a nyelvészeti történelmet ezen az egyedi táblán keresztül, és hozzon magával fényképezőgépet az információk megörökítéséhez.",
+            "ro": "Aflați despre fascinanta moștenire locală și istoria lingvistică prin intermediul acestui punct de reper unic, aducând o cameră pentru a capta plăcile informative.",
+            "en": "Learn about the fascinating local heritage and linguistic history through this unique landmark, bringing a camera to capture the informational plaques for later reading."
+          }
+        },
+        {
+          "name": {
+            "de": "Toberbarrahane",
+            "hu": "Toberbarrahane",
+            "ro": "Toberbarrahane",
+            "en": "Toberbarrahane"
+          },
+          "coords": [
+            -9.19059,
+            51.517172
+          ],
+          "category": "landmark",
+          "arrive_at": "12:05",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen ruhigen Ort, der mit der lokalen Folklore und Geschichte verbunden ist, und nehmen Sie sich einen Moment Zeit, um die friedliche Atmosphäre zu genießen.",
+            "hu": "Látogasson el a helyi folklórhoz és történelemhez kötődő csendes tájékozódási ponthoz, és szánjon egy pillanatot a nyugodt légkör élvezetére, mielőtt tovább indulna.",
+            "ro": "Vizitați acest reper liniștit legat de folclorul și istoria locală, luând un moment pentru a vă bucura de atmosfera senină înainte de a continua plimbarea.",
+            "en": "Visit this quiet landmark tied to local folklore and history, taking a moment to enjoy the tranquil atmosphere before continuing your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Castle Haven",
+            "hu": "Castle Haven",
+            "ro": "Castle Haven",
+            "en": "Castle Haven"
+          },
+          "coords": [
+            -9.18103,
+            51.520226
+          ],
+          "category": "landmark",
+          "arrive_at": "12:31",
+          "stay_min": 55,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem historischen Ort aus den weiten Blick über das Wasser, wo das Beobachten einheimischer Seevögel eine großartige Pause darstellt.",
+            "hu": "Élvezze a vízre nyíló lenyűgöző kilátást erről a történelmi pontról, ahol a helyi tengeri madarak megfigyelése nagyszerű pihenést nyújt a séta végén.",
+            "ro": "Bucurați-vă de vederi panoramice asupra apei din acest reper istoric, unde urmărirea păsărilor marine locale reprezintă o pauză excelentă.",
+            "en": "Enjoy sweeping views over the water from this historic landmark, where keeping an eye out for local seabirds makes for a great relaxing break."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unser Rundgang beginnt am Morgen mit einem Besuch der historischen St. Barahanes Kirche. Am Vormittag wandern wir zurück in die Vergangenheit und erkunden das alte Lios Ringfort. Mittags entdecken wir die kulturellen Wurzeln bei den Ortsnamen-Tafeln und der nahen Heilquelle. Der Nachmittag endet mit einem herrlichen Blick über die Bucht bei Castle Haven.",
+        "hu": "Sétánk reggel a történelmi St. Barahanes templom csendjében kezdődik. A délelőtt folyamán visszarepülünk az időben, és felfedezzük az ősi Lios Gyűrűerődöt. Délben a helyi kulturális gyökerekbe nyerünk betekintést a helynév-tábláknál és a közeli szent kútnál. A délutánt a Castle Haven-nél zárjuk, ahonnan gyönyörű kilátás nyílik az öbölre.",
+        "ro": "Plimbarea noastră începe dimineața cu o vizită la biserica istorică Sf. Barahanes. În a doua parte a dimineții călătorim în timp explorând vechiul fort Lios. La prânz descoperim rădăcinile culturale locale prin plăcile cu nume de locuri și fântâna din apropiere. După-amiaza se încheie cu o vedere superbă asupra golfului la Castle Haven.",
+        "en": "Our walking tour begins in the morning with a visit to the historic St. Barahanes Church. By mid-morning, we step back in time exploring the ancient Lios Ring Fort. Midday brings us to discover local cultural roots at the placenames landmark and nearby holy well. The afternoon concludes with a gorgeous view over the bay at Castle Haven."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:13",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint Barahanes",
+            "hu": "Szent Barahane templom",
+            "ro": "Biserica Saint Barahane",
+            "en": "Saint Barahanes"
+          },
+          "coords": [
+            -9.197306,
+            51.529765
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Radtour an dieser schönen Kirche und parken Sie Ihr Fahrrad am Eingang, um die Buntglasfenster in Ruhe zu betrachten.",
+            "hu": "Kezdje a biciklitúrát ennél a gyönyörű templomnál, hagyja a kerékpárt a bejáratnál, és csodálja meg a bent található ólomüveg ablakokat.",
+            "ro": "Începeți turul cu bicicleta la această biserică frumoasă, parcând bicicleta la intrare pentru a admira vitraliile din interior în liniște.",
+            "en": "Start your cycling journey at this beautiful church, parking your bike near the entrance to peacefully admire the stained glass windows inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Ortsnamen & ihre erstaunlichen Geschichten",
+            "hu": "Helynevek és elképesztő történeteik",
+            "ro": "Nume de locuri și poveștile lor uimitoare",
+            "en": "Placenames & Their Amazing Stories"
+          },
+          "coords": [
+            -9.194038,
+            51.515731
+          ],
+          "category": "landmark",
+          "arrive_at": "09:59",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Halten Sie kurz an, um sich über die gälischen Ortsnamen zu informieren, eine perfekte kurze Pause für den Geist während des Radfahrens.",
+            "hu": "Álljon meg egy rövid időre, hogy megismerje a gael helyneveket, ami egy tökéletes kis pihenő az elmének a tekerés közben.",
+            "ro": "Faceți o scurtă pauză pentru a afla despre toponimele gaelice, o odihnă mentală perfectă în timpul mersului pe bicicletă.",
+            "en": "Pause briefly to read up on the Gaelic placenames, offering a perfect mental break and a dose of heritage while cycling."
+          }
+        },
+        {
+          "name": {
+            "de": "Tráig Eilín",
+            "hu": "Tráig Eilín",
+            "ro": "Tráig Eilín",
+            "en": "Tráig Eilín"
+          },
+          "coords": [
+            -9.187313,
+            51.514302
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem friedlichen Strand, bringen Sie ein kleines Picknick in Ihren Fahrradtaschen mit und genießen Sie die kühle Meeresbrise.",
+            "hu": "Pihenjen ezen a békés strandon, hozzon magával egy kis pikniket a kerékpáros táskájában, és élvezze a hűvös tengeri szellőt.",
+            "ro": "Relaxați-vă pe această plajă pașnică, aducând un mic picnic în gențile de bicicletă și bucurându-vă de briza răcoroasă a oceanului.",
+            "en": "Relax on this peaceful recreational beach, bringing a small picnic in your bike panniers to enjoy the cool ocean breeze by the water's edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Ring Fort / Lios",
+            "hu": "Gyűrűerőd / Lios",
+            "ro": "Fortul Circular / Lios",
+            "en": "Ring Fort / Lios"
+          },
+          "coords": [
+            -9.197276,
+            51.511804
+          ],
+          "category": "historical",
+          "arrive_at": "11:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Verteidigungsanlagen dieser südlichen historischen Stätte, die einen Einblick in das alte irische Leben bietet und ein großartiges Ausflugsziel ist.",
+            "hu": "Fedezze fel ennek a déli történelmi helyszínnek a védműveit, amely bepillantást enged az ősi ír életbe, nagyszerű célpont a kerékpártúra során.",
+            "ro": "Explorați lucrările de apărare ale acestui sit istoric sudic, care oferă o perspectivă asupra vieții antice irlandeze, fiind o destinație excelentă.",
+            "en": "Explore the defensive earthworks of this southern historical site which offers insight into ancient Irish life, easily accessible by a short bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Tráigh Carta",
+            "hu": "Tráigh Carta",
+            "ro": "Tráigh Carta",
+            "en": "Tráigh Carta"
+          },
+          "coords": [
+            -9.190349,
+            51.510559
+          ],
+          "category": "recreational",
+          "arrive_at": "13:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem reizvollen Küstenstreifen mit überraschend klarem Wasser; ein idealer Ort, um die Füße zu baden, wenn Sie ein Handtuch dabei haben.",
+            "hu": "Kapcsolódjon ki ezen a bájos tengerparti szakaszon, ahol a víz meglepően tiszta, ideális hely egy kis lábáztatásra, ha van kéznél törölköző.",
+            "ro": "Relaxați-vă în acest loc fermecător de pe coastă unde apa este surprinzător de limpede, fiind ideal pentru a vă înmuia picioarele dacă aveți un prosop.",
+            "en": "Unwind at this charming coastal spot where the water is surprisingly clear, making it an ideal place to dip your toes if you packed a towel."
+          }
+        },
+        {
+          "name": {
+            "de": "Turm (Somerville)",
+            "hu": "Somerville Torony",
+            "ro": "Turnul Somerville",
+            "en": "Tower (Somerville C. 1770)"
+          },
+          "coords": [
+            -9.180736,
+            51.50821
+          ],
+          "category": "landmark",
+          "arrive_at": "14:28",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Blicken Sie zu diesem Bauwerk aus dem späten 18. Jahrhundert hinauf, das von der Familie Somerville erbaut wurde, und nutzen Sie Ferngläser für die Details.",
+            "hu": "Nézzen fel erre a 18. század végi építményre, amelyet a Somerville család építtetett, és hozzon távcsövet az építészeti részletek megfigyeléséhez.",
+            "ro": "Priviți spre această structură de la sfârșitul secolului al XVIII-lea construită de familia Somerville și aduceți binoclu pentru a-i aprecia detaliile.",
+            "en": "Gaze up at this late 18th-century structure built by the Somerville family, and bring binoculars to appreciate its architectural details from a distance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen auf dem Fahrrad beginnt oben an der historischen Kirche und führt uns zur spannenden Geschichte der lokalen Ortsnamen. Gegen Mittag fahren wir hinunter zur Küste und verbringen etwas Zeit an den Stränden. Am Nachmittag radeln wir zu den südlichen Ringforts und genießen die Natur. Den Abschluss des Tages bildet der imposante Somerville-Turm an der Küste.",
+        "hu": "A kerékpáros reggel a történelmi templomnál indul, majd a helyi nevek izgalmas történetéhez vezet. Dél tájékán legurulunk a partra, és időt töltünk a homokos szakaszokon. Délután a déli gyűrűerődökhöz tekerünk, ahol élvezzük a természet nyugalmát. A napot az impozáns Somerville-toronynál zárjuk a tengerparton.",
+        "ro": "Dimineața pe bicicletă începe sus la biserica istorică și ne conduce spre povestea numelor de locuri. Spre prânz coborâm spre coastă și petrecem timp pe plaje. După-amiaza pedalăm spre forturile circulare din sud și ne bucurăm de natură. Ziua se încheie cu impresionantul turn Somerville pe coastă.",
+        "en": "The morning on the bike starts up at the historic church and leads us to the engaging history of local placenames. Around midday, we cruise down to the coast, spending relaxing time at the beaches. The afternoon has us pedaling to the southern ring forts and enjoying the natural landscape. The day finishes by the impressive Somerville Tower on the shoreline."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:21",
+      "total_km": 5.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Castle Haven",
+            "hu": "Castle Haven",
+            "ro": "Castle Haven",
+            "en": "Castle Haven"
+          },
+          "coords": [
+            -9.18103,
+            51.520226
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto in der Nähe und genießen Sie den atemberaubenden Blick auf den Hafen am Morgen, bevor der Verkehr zunimmt.",
+            "hu": "Parkolja le az autót a közelben, és élvezze a kikötő lélegzetelállító kora reggeli látványát, még mielőtt megnőne a forgalom.",
+            "ro": "Parcați mașina în apropiere și bucurați-vă de vederea uluitoare a portului dimineața devreme, înainte de a crește traficul.",
+            "en": "Park your car nearby and enjoy the breathtaking early morning views of the harbour before the local traffic picks up."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint Barahanes",
+            "hu": "Szent Barahane templom",
+            "ro": "Biserica Saint Barahane",
+            "en": "Saint Barahanes"
+          },
+          "coords": [
+            -9.197306,
+            51.529765
+          ],
+          "category": "religious",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahren Sie hinauf zur Kirche, um die Buntglasfenster zu sehen und den Friedhof mit seinen berühmten literarischen Gräbern zu erkunden.",
+            "hu": "Kocsikázzon fel a templomhoz, hogy megnézze az ólomüveg ablakokat, és fedezze fel a temetőt a híres irodalmi sírokkal.",
+            "ro": "Conduceți până la biserică pentru a vedea vitraliile și a explora cimitirul cu faimoasele sale morminte literare.",
+            "en": "Drive up to the church to admire the stained glass windows and explore the graveyard containing famous literary resting places."
+          }
+        },
+        {
+          "name": {
+            "de": "Lios Ringfort (Nord)",
+            "hu": "Északi Lios Gyűrűerőd",
+            "ro": "Fortul Circular Lios (Nord)",
+            "en": "Lios"
+          },
+          "coords": [
+            -9.199241,
+            51.525869
+          ],
+          "category": "historical",
+          "arrive_at": "10:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto stehen und laufen Sie das kurze Stück zu diesem gut erhaltenen nördlichen Ringfort, in dem einst frühe Siedler lebten.",
+            "hu": "Hagyja az autót a közelben, és sétáljon el ehhez a jól megőrzött északi gyűrűerődhöz, ahol egykor az első telepesek éltek.",
+            "ro": "Lăsați mașina și faceți o scurtă plimbare până la acest fort circular nordic bine conservat, unde au trăit primii coloniști.",
+            "en": "Leave the car nearby and walk the short distance to this well-preserved northern ring fort to imagine early settler life."
+          }
+        },
+        {
+          "name": {
+            "de": "Carraig an Aifrinn",
+            "hu": "Carraig an Aifrinn (Mise-szikla)",
+            "ro": "Carraig an Aifrinn",
+            "en": "Carraig an Aifrinn"
+          },
+          "coords": [
+            -9.19175,
+            51.51686
+          ],
+          "category": "landmark",
+          "arrive_at": "11:41",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen historischen Messfelsen, an dem sich einst die Einheimischen heimlich versammelten, und treten Sie vorsichtig auf die unebenen Steine.",
+            "hu": "Látogasson el ehhez a történelmi 'mise-sziklához', ahol egykor a helyiek titokban gyűltek össze, és óvatosan lépkedjen az egyenetlen köveken.",
+            "ro": "Vizitați această stâncă istorică unde localnicii se adunau în secret pentru liturghie și pășiți cu grijă pe pietrele inegale.",
+            "en": "Reflect at this historic Mass Rock where locals once gathered in secret, and tread carefully on the uneven stones nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Ring Fort / Lios (Süd)",
+            "hu": "Déli Gyűrűerőd / Lios",
+            "ro": "Fortul Circular / Lios (Sud)",
+            "en": "Ring Fort / Lios"
+          },
+          "coords": [
+            -9.197276,
+            51.511804
+          ],
+          "category": "historical",
+          "arrive_at": "11:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Fahren Sie weiter nach Süden, um diese zweite Verteidigungsanlage zu erkunden, die bei trockenem Wetter am besten zu Fuß besichtigt werden kann.",
+            "hu": "Vezessen tovább délre, hogy felfedezze ezt a második védművet, amelyet száraz időben a legjobb gyalogosan bejárni.",
+            "ro": "Mergeți mai spre sud pentru a explora această a doua structură defensivă, care este cel mai bine vizitată pe vreme uscată.",
+            "en": "Drive further south to explore this second set of defensive earthworks, which are best visited on foot during dry weather."
+          }
+        },
+        {
+          "name": {
+            "de": "Island Strand",
+            "hu": "Sziget Strand (Island Strand)",
+            "ro": "Plaja Insulei (Island Strand)",
+            "en": "Island Strand"
+          },
+          "coords": [
+            -9.184738,
+            51.508477
+          ],
+          "category": "recreational",
+          "arrive_at": "13:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Verbringen Sie einige Zeit an der Küste dieses schönen Strandes und achten Sie auf die Flut, wenn Sie weit spazieren gehen.",
+            "hu": "Töltsön el egy kis időt ezen a gyönyörű strandon, és ügyeljen a dagályra, ha messzebbre sétálna a parton.",
+            "ro": "Petreceți timp explorând țărmul acestei plaje minunate, fiind atenți la flux dacă vă îndepărtați prea mult pe coastă.",
+            "en": "Spend some time exploring the shoreline of this lovely recreational beach, being mindful of the incoming tide if you wander far."
+          }
+        },
+        {
+          "name": {
+            "de": "Turm (Somerville)",
+            "hu": "Somerville Torony",
+            "ro": "Turnul Somerville",
+            "en": "Tower (Somerville C. 1770)"
+          },
+          "coords": [
+            -9.180736,
+            51.50821
+          ],
+          "category": "landmark",
+          "arrive_at": "14:36",
+          "stay_min": 45,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt bei diesem spätachtzehnten Jahrhundertsturm und bringen Sie Ferngläser mit, um die Konstruktionsdetails zu würdigen.",
+            "hu": "Fejezze be az autózást ennél a 18. század végi toronynál, és hozzon magával távcsövet az építészeti részletek értékeléséhez.",
+            "ro": "Încheiați turul cu mașina la acest turn de la sfârșitul secolului al XVIII-lea și aduceți binoclu pentru a aprecia detaliile de construcție.",
+            "en": "Conclude your drive at this late 18th-century structure built by the Somerville family, using binoculars to appreciate its details."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Autotour beginnt entspannt am malerischen Castle Haven. Vormittags fahren wir hinauf zu den religiösen und historischen Stätten im Norden und erkunden antike Ringforts. Mittags führt die Route zu den verborgenen Wahrzeichen wie dem alten Messfelsen und dem südlichen Lios. Der Nachmittag wird erholsam am Island Strand verbracht, gefolgt vom Somerville-Turm.",
+        "hu": "Az autós túra lazán indul a festői Castle Haven-nél. Délelőtt felhajtunk az északi vallási és történelmi helyszínekhez, és ősi gyűrűerődöket fedezünk fel. Délben az útvonal a rejtett nevezetességekhez, a történelmi mise-sziklához és a déli Lioshoz vezet. A délutánt pihentetően a tengerparton töltjük, majd megnézzük a Somerville-tornyot.",
+        "ro": "Turul cu mașina începe relaxant la pitorescul Castle Haven. Dimineața urcăm spre siturile religioase și istorice din nord și explorăm forturile antice. La prânz, traseul duce la repere ascunse precum vechea stâncă a liturghiei și fortul sudic Lios. După-amiaza se petrece relaxant pe plaja Island, urmată de turnul Somerville.",
+        "en": "The driving tour begins easily by the scenic Castle Haven harbour. By mid-morning, we drive up to the northern religious and historical sites, exploring ancient ring forts. Midday routes us to hidden landmarks like the historical Mass Rock and the southern Lios fort. The afternoon is spent relaxing at Island Strand before wrapping up at the Somerville Tower."
+      }
+    }
+  }
+}

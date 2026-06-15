@@ -1,0 +1,474 @@
+{
+  "city_id": "city-ponta-delgada",
+  "anchor": {
+    "name": "Ponta Delgada",
+    "coords": [
+      -25.6687,
+      37.7412
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "19:21",
+      "total_km": 2.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museu Hebraico Sahar Hassamaim",
+            "hu": "Museu Hebraico Sahar Hassamaim",
+            "ro": "Museu Hebraico Sahar Hassamaim",
+            "en": "Museu Hebraico Sahar Hassamaim"
+          },
+          "coords": [
+            -25.669885,
+            37.739619
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die jüdische Geschichte der Azoren in Portugals ältester Synagoge nach der Inquisition, wobei Sie vorab für Führungen anrufen sollten.",
+            "hu": "Fedezze fel az azori zsidó történelmet a legrégebbi portugál zsinagógában az inkvizíció után, de érdemes előre telefonálni a garantált bejutásért.",
+            "ro": "Descoperiți istoria evreiască din Azore în cea mai veche sinagogă din Portugalia post-inchiziție, dar sunați în prealabil pentru a asigura accesul.",
+            "en": "Discover Azorean Jewish history in the oldest synagogue in Portugal built after the Inquisition, where you should call ahead to ensure guided access."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Carlos Machado - Núcleo de Santa Bárbara",
+            "hu": "Museu Carlos Machado - Núcleo de Santa Bárbara",
+            "ro": "Museu Carlos Machado - Núcleo de Santa Bárbara",
+            "en": "Museu Carlos Machado - Núcleo de Santa Bárbara"
+          },
+          "coords": [
+            -25.668008,
+            37.742435
+          ],
+          "category": "museum",
+          "arrive_at": "10:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Erkunden Sie in diesem ehemaligen Kloster die regionale Kunst und das maritime Erbe und bewundern Sie die aufwendig geschnitzten Holzdecken im Saal.",
+            "hu": "Fedezze fel a regionális művészetet ebben az egykori kolostorban, és szánjon időt a lenyűgöző, bonyolultan faragott fa mennyezetek megcsodálására.",
+            "ro": "Explorați arta regională și patrimoniul maritim în acest fost convent, luându-vă timp pentru a admira tavanele din lemn sculptat din sala principală.",
+            "en": "Explore profound regional art and maritime heritage in this former convent, taking time to admire the intricate carved wood ceilings in the main hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Micaelense",
+            "hu": "Teatro Micaelense",
+            "ro": "Teatro Micaelense",
+            "en": "Teatro Micaelense"
+          },
+          "coords": [
+            -25.666253,
+            37.741796
+          ],
+          "category": "cultural",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Erleben Sie das kulturelle Herz der Stadt in diesem modernen Theater aus der Mitte des Jahrhunderts und prüfen Sie den Online-Spielplan für Events.",
+            "hu": "Tapasztalja meg a város kulturális lüktetését ebben a modern színházban, és érdemes online ellenőrizni a műsort az esti programok kiválasztásához.",
+            "ro": "Simțiți pulsul cultural al orașului la acest teatru modern de la mijlocul secolului, verificând programul online pentru evenimente de seară unice.",
+            "en": "Experience the cultural heartbeat of Ponta Delgada at this mid-century modern theater, and check their schedule online for excellent evening events."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Carlos Machado - Núcleo de Arte Sacra",
+            "hu": "Museu Carlos Machado - Núcleo de Arte Sacra",
+            "ro": "Museu Carlos Machado - Núcleo de Arte Sacra",
+            "en": "Museu Carlos Machado - Núcleo de Arte Sacra"
+          },
+          "coords": [
+            -25.670024,
+            37.743816
+          ],
+          "category": "museum",
+          "arrive_at": "14:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.52,
+          "tip_5lang": {
+            "de": "Bestaunen Sie eine atemberaubende Sammlung jahrhundertealter religiöser Kunst, wobei Sie besonders auf die Silberartefakte in der Galerie achten.",
+            "hu": "Csodálja meg a több évszázadot átölelő vallási művészeti gyűjteményt, különös figyelmet fordítva a fő galériában kiállított ezüst műtárgyakra.",
+            "ro": "Admirați o colecție impresionantă de artă religioasă ce se întinde pe mai multe secole, acordând o atenție deosebită artefactelor din argint.",
+            "en": "Marvel at a stunning collection of religious art spanning several centuries, paying special attention to the silver artifacts in the main gallery."
+          }
+        },
+        {
+          "name": {
+            "de": "Palácio da Fonte Bela",
+            "hu": "Palácio da Fonte Bela",
+            "ro": "Palácio da Fonte Bela",
+            "en": "Palácio da Fonte Bela"
+          },
+          "coords": [
+            -25.671471,
+            37.740936
+          ],
+          "category": "castle",
+          "arrive_at": "15:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem beeindruckenden Basalt-Anwesen aus dem 19. Jahrhundert vorbei und bewundern Sie die Architektur mit vulkanischem Stein.",
+            "hu": "Sétáljon el az iskolaépületként működő, 19. századi bazalt palota mellett, és figyelje meg a romantikus építészet és a vulkáni kőzet részleteit.",
+            "ro": "Plimbați-vă pe lângă această impresionantă moșie de bazalt din secolul al XIX-lea, remarcând arhitectura romantică și detaliile din piatră vulcanică.",
+            "en": "Walk past this striking 19th-century basalt estate that now houses a school, noticing the unique romantic architecture and volcanic stone details."
+          }
+        },
+        {
+          "name": {
+            "de": "Anfiteatro das Portas do Mar",
+            "hu": "Anfiteatro das Portas do Mar",
+            "ro": "Anfiteatro das Portas do Mar",
+            "en": "Anfiteatro das Portas do Mar"
+          },
+          "coords": [
+            -25.662678,
+            37.738629
+          ],
+          "category": "cultural",
+          "arrive_at": "17:31",
+          "stay_min": 110,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.05,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am Meer in diesem modernen Amphitheater am Wasser, der perfekte Ort, um Kreuzfahrtschiffe bei einem lokalen Snack zu beobachten.",
+            "hu": "Pihenjen az óceán partján ebben a kortárs amfiteátrumban, amely tökéletes hely a tengerjárók érkezésének megfigyelésére egy helyi falat mellett.",
+            "ro": "Relaxați-vă la malul oceanului la acest amfiteatru contemporan, un loc perfect pentru a urmări sosirea vaselor de croazieră cu o gustare locală.",
+            "en": "Relax by the ocean at this contemporary waterfront amphitheater, which is the perfect place to watch cruise ships arrive while enjoying a local snack."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen offenbart das Erbe von Ponta Delgada, beginnend in einer Synagoge und regionalen Museen.\n\nMittags spazieren Sie durch bunte Straßen zum Theater und religiösen Kunstsammlungen.\n\nDer Nachmittag führt an Basaltpalästen vorbei und betont die vulkanische Architektur.\n\nDer Abend endet am lebhaften Portas do Mar, wo Sie die Wellen im schwindenden Sonnenlicht beobachten.",
+        "hu": "A reggel feltárja Ponta Delgada örökségét, kezdve egy zsinagógával és regionális múzeumokkal.\n\nDélben a színes utcákon át a város fő színházához és vallásos művészeti gyűjteményeihez érkezik.\n\nA délután drámai vulkáni varázsú bazalt paloták mellett vezet el.\n\nAz est a nyüzsgő Portas do Mar kikötőjében zárul, ahol az óceán hullámait figyelheti a naplementében.",
+        "ro": "Dimineața dezvăluie patrimoniul orașului, cu o sinagogă istorică și muzee regionale fascinante.\n\nPrânzul vă ghida pe străzile colorate spre teatru și colecțiile de artă religioasă.\n\nDupă-amiaza trece pe lângă palate de bazalt, evidențiind arhitectura vulcanică dramatică.\n\nSeara se încheie la Portas do Mar, privind valurile oceanului sub lumina caldă a asfințitului.",
+        "en": "Morning reveals Ponta Delgada’s heritage, starting at a historic synagogue before exploring regional museums.\n\nMidday leads through colorful streets towards the city's main theater and religious art collections.\n\nAfternoon brings you past striking basalt palaces, highlighting dramatic volcanic architecture.\n\nEvening concludes at Portas do Mar, watching ocean waves under the setting sun."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Anfiteatro das Portas do Mar",
+            "hu": "Anfiteatro das Portas do Mar",
+            "ro": "Anfiteatro das Portas do Mar",
+            "en": "Anfiteatro das Portas do Mar"
+          },
+          "coords": [
+            -25.662678,
+            37.738629
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am Meer in diesem modernen Amphitheater am Wasser, der perfekte Ort, um Kreuzfahrtschiffe bei einem lokalen Snack zu beobachten.",
+            "hu": "Pihenjen az óceán partján ebben a kortárs amfiteátrumban, amely tökéletes hely a tengerjárók érkezésének megfigyelésére egy helyi falat mellett.",
+            "ro": "Relaxați-vă la malul oceanului la acest amfiteatru contemporan, un loc perfect pentru a urmări sosirea vaselor de croazieră cu o gustare locală.",
+            "en": "Relax by the ocean at this contemporary waterfront amphitheater, which is the perfect place to watch cruise ships arrive while enjoying a local snack."
+          }
+        },
+        {
+          "name": {
+            "de": "Academia das Artes dos Açores",
+            "hu": "Academia das Artes dos Açores",
+            "ro": "Academia das Artes dos Açores",
+            "en": "Academia das Artes dos Açores"
+          },
+          "coords": [
+            -25.664365,
+            37.741397
+          ],
+          "category": "cultural",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.44,
+          "tip_5lang": {
+            "de": "Setzen Sie sich an dieser lebhaften Kunstakademie mit lokaler Kreativität auseinander und nutzen Sie den freien Eintritt zu wechselnden Ausstellungen.",
+            "hu": "Ismerkedjen meg a kortárs kreativitással ebben a nyüzsgő művészeti akadémiában, kihasználva a folyamatosan változó kiállítások ingyenes belépőjét.",
+            "ro": "Interacționați cu creativitatea contemporană la această academie vibrantă de arte, profitând de intrarea gratuită la expozițiile lor rotative.",
+            "en": "Engage with local contemporary creativity at this vibrant arts academy, taking advantage of the free entry to their constantly rotating exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Galeria Fonseca Macedo",
+            "hu": "Galeria Fonseca Macedo",
+            "ro": "Galeria Fonseca Macedo",
+            "en": "Galeria Fonseca Macedo"
+          },
+          "coords": [
+            -25.668732,
+            37.743398
+          ],
+          "category": "museum",
+          "arrive_at": "11:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.57,
+          "tip_5lang": {
+            "de": "Sehen Sie zeitgenössische portugiesische Kunstwerke in dieser renommierten Galerie, ein großartiger Ort, um ein hochwertiges Souvenir zu erwerben.",
+            "hu": "Tekintse meg a kortárs portugál műveket ebben a neves galériában, amely remek helyszín egy minőségi művészi szuvenír megvásárlására a szigetről.",
+            "ro": "Vizionați opere de artă contemporană portugheză la această galerie de renume, un loc minunat pentru a achiziționa un suvenir artistic de calitate.",
+            "en": "View cutting-edge contemporary Portuguese artworks at this renowned gallery, a great spot to purchase a high-quality artistic souvenir from the island."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardim José do Canto",
+            "hu": "Jardim José do Canto",
+            "ro": "Jardim José do Canto",
+            "en": "Jardim José do Canto"
+          },
+          "coords": [
+            -25.670057,
+            37.748544
+          ],
+          "category": "landmark",
+          "arrive_at": "13:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die üppige botanische Vielfalt dieses romantischen Gartens und tragen Sie unbedingt bequeme Schuhe für die unbefestigten Wege.",
+            "hu": "Sétáljon végig a romantikus, 19. századi kert buja botanikai sokszínűségén, és feltétlenül viseljen kényelmes cipőt az aszfaltozatlan erdei utakon.",
+            "ro": "Plimbați-vă prin diversitatea botanică a acestei grădini romantice din secolul al XIX-lea, asigurându-vă că purtați încălțăminte confortabilă pentru alei.",
+            "en": "Wander through the lush botanical diversity of this romantic 19th-century garden, and make sure to wear comfortable shoes for the unpaved forest paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Palácio José do Canto",
+            "hu": "Palácio José do Canto",
+            "ro": "Palácio José do Canto",
+            "en": "Palácio José do Canto"
+          },
+          "coords": [
+            -25.670486,
+            37.749592
+          ],
+          "category": "castle",
+          "arrive_at": "14:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Bewundern Sie das elegante Äußere dieses von Grün umgebenen aristokratischen Herrenhauses, wobei das Innere meistens für Touristen geschlossen ist.",
+            "hu": "Csodálja meg a zöldellő növényzettel körülvett arisztokrata kúria kifinomult külsejét, bár fontos tudni, hogy a belső tér a turisták számára zárva tart.",
+            "ro": "Admirați exteriorul rafinat al acestui conac aristocratic înconjurat de verdeață, deși trebuie să știți că interiorul este în general închis turiștilor.",
+            "en": "Admire the refined exterior of this aristocratic manor surrounded by greenery, though you should note that the interior is generally closed to tourists."
+          }
+        },
+        {
+          "name": {
+            "de": "Gruta do Carvão",
+            "hu": "Gruta do Carvão",
+            "ro": "Gruta do Carvão",
+            "en": "Gruta do Carvão"
+          },
+          "coords": [
+            -25.687069,
+            37.748164
+          ],
+          "category": "landmark",
+          "arrive_at": "16:25",
+          "stay_min": 110,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.91,
+          "tip_5lang": {
+            "de": "Steigen Sie hinab in die längste Lavaröhre der Insel für einen surrealen Spaziergang und bringen Sie eine leichte Jacke mit, da es kühl bleibt.",
+            "hu": "Ereszkedjen le a sziget leghosszabb lávacsövébe egy szürreális földalatti sétára, de hozzon magával könnyű kabátot a lenti hűvös időjárás miatt.",
+            "ro": "Coborâți în cel mai lung tub de lavă de pe insulă pentru o plimbare subterană, amintindu-vă să aduceți o jachetă subțire, deoarece este mereu răcoare.",
+            "en": "Descend into the longest lava tube on São Miguel island for a surreal subterranean walk, remembering to bring a light jacket as it stays cool underground."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit dem Fahrrad am sonnigen Ufer am modernen Portas do Mar.\n\nZur Mittagszeit locken lokale Akademien und Galerien für zeitgenössische Kunst.\n\nDer Nachmittag bietet einen grünen Rückzugsort in den romantischen Gärten von José do Canto.\n\nAm Abend geht es unter Tage in eine alte Lavaröhre, wo der Tag mit einem Naturwunder endet.",
+        "hu": "Kezdje a napot a vízparton pedálozva a modern Portas do Mar amfiteátrumnál.\n\nDélben művészeti felfedezés várja a helyi akadémiákon és kortárs galériákban.\n\nA délután egy zöld menedék a romantikus José do Canto kertekben és kúriáknál.\n\nAz este egy ősi lávacsőbe vezet, és egy lenyűgöző geológiai csodával zárja a napot.",
+        "ro": "Începeți ziua pedalând pe faleza însorită la modernul amfiteatru Portas do Mar.\n\nPrânzul promite explorări artistice, pedalând spre academii și galerii contemporane.\n\nDupă-amiaza este o retragere verde în grădinile romantice José do Canto.\n\nSeara coborâți într-un tub de lavă străvechi, încheind ziua cu o adevărată minune geologică.",
+        "en": "Begin your day pedaling along the sunlit waterfront at the modern Portas do Mar.\n\nMidday art exploration awaits as you cycle to local academies and contemporary galleries.\n\nAfternoon is a green retreat into the romantic José do Canto gardens and aristocratic estates.\n\nEvening takes you underground into an ancient lava tube, wrapping up the day with a geological marvel."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:37",
+      "total_km": 8.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Miradouro do Ilhéu de Rosto de Cão",
+            "hu": "Miradouro do Ilhéu de Rosto de Cão",
+            "ro": "Miradouro do Ilhéu de Rosto de Cão",
+            "en": "Miradouro do Ilhéu de Rosto de Cão"
+          },
+          "coords": [
+            -25.636978,
+            37.745713
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen mit einem Panoramablick auf das Meer und ein markantes Felseninselchen, ideal für Fotos, wenn die Sonne auf das Wasser trifft.",
+            "hu": "Kezdje a reggelt elsöprő óceáni panorámával, amely egy jellegzetes sziklaszigetre néz, és készítsen fantasztikus fotókat a csillogó víztükörről.",
+            "ro": "Începeți dimineața cu vederi panoramice la ocean deasupra unei insule stâncoase, capturând fotografii fantastice când soarele lovește apa cristalină.",
+            "en": "Start your morning with sweeping panoramic ocean views overlooking a distinctive rocky islet, capturing fantastic photos when the sun hits the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Micaelense",
+            "hu": "Teatro Micaelense",
+            "ro": "Teatro Micaelense",
+            "en": "Teatro Micaelense"
+          },
+          "coords": [
+            -25.666253,
+            37.741796
+          ],
+          "category": "cultural",
+          "arrive_at": "09:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.39,
+          "tip_5lang": {
+            "de": "Erleben Sie das kulturelle Herz der Stadt in diesem modernen Theater aus der Mitte des Jahrhunderts und prüfen Sie den Online-Spielplan für Events.",
+            "hu": "Tapasztalja meg a város kulturális lüktetését ebben a modern színházban, és érdemes online ellenőrizni a műsort az esti programok kiválasztásához.",
+            "ro": "Simțiți pulsul cultural al orașului la acest teatru modern de la mijlocul secolului, verificând programul online pentru evenimente de seară unice.",
+            "en": "Experience the cultural heartbeat of Ponta Delgada at this mid-century modern theater, and check their schedule online for excellent evening events."
+          }
+        },
+        {
+          "name": {
+            "de": "Military Museum of the Azores",
+            "hu": "Military Museum of the Azores",
+            "ro": "Military Museum of the Azores",
+            "en": "Military Museum of the Azores"
+          },
+          "coords": [
+            -25.672532,
+            37.736594
+          ],
+          "category": "museum",
+          "arrive_at": "11:04",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.04,
+          "tip_5lang": {
+            "de": "Tauchen Sie in dieser Küstenfestung in die militärische Geschichte ein und nehmen Sie sich einen Moment Zeit für die beeindruckende antike Kanonenreihe.",
+            "hu": "Merüljön el az óceán közepi katonai történelemben a part menti erődben, és szakítson időt a lenyűgöző antik ágyúk sorának tüzetes megvizsgálására.",
+            "ro": "Scufundați-vă în istoria militară a Atlanticului în această fortăreață de coastă, acordând un moment pentru a privi colecția impresionantă de tunuri.",
+            "en": "Dive into the strategic military history of the mid-Atlantic inside this coastal fortress, taking a moment to look at the impressive antique cannon array."
+          }
+        },
+        {
+          "name": {
+            "de": "Melo abreu",
+            "hu": "Melo abreu",
+            "ro": "Melo abreu",
+            "en": "Melo abreu"
+          },
+          "coords": [
+            -25.671386,
+            37.73805
+          ],
+          "category": "museum",
+          "arrive_at": "12:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Probieren Sie in dieser historischen Bierfabrik die authentischen Aromen der azoreanischen Braukunst, wobei eine Vorabbuchung das beste Erlebnis sichert.",
+            "hu": "Kóstolja meg az azori sörfőzés autentikus ízeit ebben a történelmi sörgyárban, ahol az előre lefoglalt kóstoló garantálja a legteljesebb élményt.",
+            "ro": "Gustați aromele autentice ale berăriei din Azore la această fabrică istorică, unde rezervarea unei degustări în avans garantează cea mai bună experiență.",
+            "en": "Taste the authentic flavors of Azorean brewing at this historic beer factory, where booking a tasting session in advance guarantees the best experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardim José do Canto",
+            "hu": "Jardim José do Canto",
+            "ro": "Jardim José do Canto",
+            "en": "Jardim José do Canto"
+          },
+          "coords": [
+            -25.670057,
+            37.748544
+          ],
+          "category": "landmark",
+          "arrive_at": "14:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.52,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die üppige botanische Vielfalt dieses romantischen Gartens und tragen Sie unbedingt bequeme Schuhe für die unbefestigten Wege.",
+            "hu": "Sétáljon végig a romantikus, 19. századi kert buja botanikai sokszínűségén, és feltétlenül viseljen kényelmes cipőt az aszfaltozatlan erdei utakon.",
+            "ro": "Plimbați-vă prin diversitatea botanică a acestei grădini romantice din secolul al XIX-lea, asigurându-vă că purtați încălțăminte confortabilă pentru alei.",
+            "en": "Wander through the lush botanical diversity of this romantic 19th-century garden, and make sure to wear comfortable shoes for the unpaved forest paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Gruta do Carvão",
+            "hu": "Gruta do Carvão",
+            "ro": "Gruta do Carvão",
+            "en": "Gruta do Carvão"
+          },
+          "coords": [
+            -25.687069,
+            37.748164
+          ],
+          "category": "landmark",
+          "arrive_at": "15:47",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.94,
+          "tip_5lang": {
+            "de": "Steigen Sie hinab in die längste Lavaröhre der Insel für einen surrealen Spaziergang und bringen Sie eine leichte Jacke mit, da es kühl bleibt.",
+            "hu": "Ereszkedjen le a sziget leghosszabb lávacsövébe egy szürreális földalatti sétára, de hozzon magával könnyű kabátot a lenti hűvös időjárás miatt.",
+            "ro": "Coborâți în cel mai lung tub de lavă de pe insulă pentru o plimbare subterană, amintindu-vă să aduceți o jachetă subțire, deoarece este mereu răcoare.",
+            "en": "Descend into the longest lava tube on São Miguel island for a surreal subterranean walk, remembering to bring a light jacket as it stays cool underground."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine morgendliche Fahrt bietet Küstenpanoramen von einem Aussichtspunkt.\n\nMittags verbinden Sie monumentale militärische Festungen mit einer historischen lokalen Brauerei.\n\nDer Nachmittag bringt eine kurze Fahrt zu botanischen Gärten mit exotischen Pflanzen.\n\nDer Abend beendet die Tour an der dramatischen Gruta do Carvão tief unter der Erde.",
+        "hu": "A reggeli autózás tengerparti panorámákat kínál egy kilátópontról a történelmi központ előtt.\n\nDélben a monumentális erődöket egy kedvelt történelmi helyi sörfőzdével kötheti össze.\n\nA délután egy festői autózást hoz a felső botanikus kertekbe, ahol egzotikus növények élnek.\n\nAz este a Gruta do Carvão lávacsövében zárja a túrát, felfedezve a szigetet.",
+        "ro": "O plimbare matinală oferă panorame de coastă uluitoare de la un punct de belvedere.\n\nPrânzul leagă fortărețele militare monumentale de o berărie locală istorică.\n\nDupă-amiaza aduce o scurtă călătorie spre grădinile botanice pline de plante exotice.\n\nSeara se încheie cu Gruta do Carvão, explorând originile subterane vulcanice ale insulei.",
+        "en": "A morning drive offers coastal panoramas from a scenic viewpoint before heading downtown.\n\nMidday connects monumental military forts with a beloved historical local brewery.\n\nAfternoon brings a short drive to botanical gardens, where exotic plants thrive in volcanic soil.\n\nEvening concludes at the dramatic Gruta do Carvão, exploring the island's fiery origins."
+      }
+    }
+  }
+}

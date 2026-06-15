@@ -1,0 +1,497 @@
+{
+  "city_id": "yzeure",
+  "anchor": {
+    "name": "Yzeure",
+    "coords": [
+      3.3544,
+      46.5658
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:03",
+      "total_km": 2.84,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Pierre Kirche",
+            "hu": "Saint-Pierre templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            3.354712,
+            46.566694
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die romanische Architektur dieser historischen Kirche im Stadtzentrum und vergessen Sie nicht, vor dem Verlassen einen Blick auf die Buntglasfenster zu werfen.",
+            "hu": "Csodálja meg a városközpontban található történelmi templom román kori építészetét, és távozás előtt mindenképpen vessen egy pillantást a lenyűgöző ólomüveg ablakokra.",
+            "ro": "Admirați arhitectura romanică a acestei biserici istorice din centru și nu uitați să priviți în sus spre vitraliile uimitoare înainte de a vă continua drumul zilnic.",
+            "en": "Admire the Romanesque architecture of this historic church in the city center, and don't forget to look up at the stunning stained glass windows before you leave."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Bellevue",
+            "hu": "Bellevue-kastély",
+            "ro": "Castelul Bellevue",
+            "en": "Château de Bellevue"
+          },
+          "coords": [
+            3.346433,
+            46.561689
+          ],
+          "category": "castle",
+          "arrive_at": "10:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.84,
+          "tip_5lang": {
+            "de": "Genießen Sie das charmante Design dieses historischen Herrenhauses mit seiner reichen lokalen Geschichte und achten Sie auf die subtilen dekorativen Elemente an den Fenstern.",
+            "hu": "Tekintse meg ennek a gazdag helyi történelemmel rendelkező kastélynak a bájos kialakítását, és figyelje meg az ablakok finom díszítőelemeit a séta során.",
+            "ro": "Bucurați-vă de designul fermecător al acestui conac istoric cu o istorie locală bogată și fiți atenți la elementele decorative subtile de pe ferestrele sale vechi.",
+            "en": "Take in the charming design of this historic manor that boasts a rich local history, and keep an eye out for the subtle decorative elements on its elegant windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Pouzeux",
+            "hu": "Pouzeux-kastély",
+            "ro": "Castelul Pouzeux",
+            "en": "Château de Pouzeux"
+          },
+          "coords": [
+            3.349666,
+            46.558475
+          ],
+          "category": "castle",
+          "arrive_at": "11:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Entdecken Sie die architektonische Schönheit dieses beeindruckenden, von viel Grün umgebenen Anwesens und nehmen Sie sich einen Moment Zeit, um die Ruhe zu genießen.",
+            "hu": "Fedezze fel a zöldövezetben található lenyűgöző helyi birtok építészeti szépségét, és szánjon egy percet arra, hogy élvezze az udvar csendes és békés hangulatát.",
+            "ro": "Descoperiți frumusețea arhitecturală a acestei moșii impresionante înconjurate de verdeață și faceți-vă timp pentru a vă bucura de atmosfera liniștită a curții.",
+            "en": "Discover the architectural beauty of this impressive local estate surrounded by greenery, and take a moment to enjoy the quiet atmosphere of the courtyard area."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Panloup",
+            "hu": "Panloup-kastély",
+            "ro": "Castelul Panloup",
+            "en": "Panloup Castle"
+          },
+          "coords": [
+            3.35447,
+            46.5538
+          ],
+          "category": "historical",
+          "arrive_at": "12:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.64,
+          "tip_5lang": {
+            "de": "Erkunden Sie das elegante Gelände dieser historischen Burg, die das lokale Erbe widerspiegelt, und bringen Sie eine Kamera für das perfekte Foto der Fassade mit.",
+            "hu": "Fedezze fel a helyi örökséget tükröző történelmi kastély elegáns területét, és feltétlenül hozzon magával fényképezőgépet a klasszikus homlokzat megörökítéséhez.",
+            "ro": "Explorați terenurile elegante ale acestui castel istoric care reflectă moștenirea locală și asigurați-vă că aduceți un aparat foto pentru a surprinde fațada clasică.",
+            "en": "Explore the elegant grounds of this historic castle that reflects the local heritage, making sure to bring a camera for the perfect shot of its classic facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Planschbecken Pataugeoire",
+            "hu": "Pataugeoire pancsoló",
+            "ro": "Piscina Pataugeoire",
+            "en": "Pataugeoire Pool"
+          },
+          "coords": [
+            3.359847,
+            46.551146
+          ],
+          "category": "family",
+          "arrive_at": "14:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.51,
+          "tip_5lang": {
+            "de": "Genießen Sie eine unterhaltsame und erfrischende Pause an diesem familienfreundlichen Planschbeckenbereich, aber denken Sie daran, im Sommer frühzeitig zu kommen.",
+            "hu": "Töltsön el egy vidám és frissítő pihenőt ezen a családbarát pancsolómedence részen, de nyáron érkezzen korán, hogy biztosítson magának egy jó árnyékos helyet.",
+            "ro": "Bucurați-vă de o pauză revigorantă la această piscină potrivită pentru familii, dar amintiți-vă să ajungeți devreme pentru a prinde un loc bun la umbră în timpul verii.",
+            "en": "Enjoy a fun and refreshing break at this family-friendly paddling pool area, but remember to arrive early to secure a good shaded spot during the summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Yzeurespace",
+            "hu": "Yzeurespace",
+            "ro": "Yzeurespace",
+            "en": "Yzeurespace"
+          },
+          "coords": [
+            3.365239,
+            46.552171
+          ],
+          "category": "cultural",
+          "arrive_at": "15:33",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.42,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem modernen Kulturzentrum in die lokale Kunstszene ein und werfen Sie immer einen Blick auf den Tagesplan am Eingang, um Shows zu entdecken.",
+            "hu": "Merüljön el a helyi művészeti életben ebben a különféle eseményeknek otthont adó modern kulturális központban, és mindig ellenőrizze a napi beosztást a bejáratnál.",
+            "ro": "Cufundați-vă în scena artistică locală la acest centru cultural modern care găzduiește diverse evenimente și verificați întotdeauna programul zilnic la intrare.",
+            "en": "Immerse yourself in the local arts scene at this modern cultural center hosting various events, and always check their daily schedule at the entrance for impromptu shows."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung der zentralen historischen Stätten, wo jahrhundertealte religiöse Architektur auf Sie wartet.\nAm Mittag spazieren Sie zu den wunderschönen lokalen Schlössern, die einen Hauch von französischer Adelsgeschichte vermitteln.\nDer Nachmittag ist perfekt für familienfreundliche Bereiche und entspannende Momente am Wasser, um neue Energie zu tanken.\nBeenden Sie Ihren Tag mit kulturellen Einblicken im Yzeurespace, wo Sie lokale Kunst und lebendige Veranstaltungen hautnah erleben können.",
+        "hu": "Kezdje a reggelt a központi történelmi helyszínek felfedezésével, ahol évszázados vallási építészet várja az érdeklődőket.\nDélben sétáljon át a gyönyörű helyi kastélyokhoz, amelyek a francia nemesi történelem hangulatát idézik fel.\nA délután tökéletes a családbarát területeken való pihenésre és a vízparti pillanatok élvezetére a feltöltődéshez.\nZárja a napot kulturális betekintéssel az Yzeurespace központban, ahol helyi művészeti kiállításokat és eseményeket tekinthet meg.",
+        "ro": "Începeți dimineața explorând siturile istorice centrale, unde arhitectura religioasă veche de secole vă așteaptă cu brațele deschise.\nLa amiază, faceți o plimbare spre frumoasele castele locale care transmit aerul istoriei nobiliare din această regiune franceză.\nDupă-amiaza este perfectă pentru a petrece timp în zonele prietenoase pentru familii și pentru a vă relaxa lângă zonele de apă răcoroase.\nÎncheiați ziua cu perspective culturale la Yzeurespace, bucurându-vă de evenimente și spectacole artistice locale fascinante.",
+        "en": "Start your morning exploring the central historic sites, where centuries-old religious architecture awaits to tell its quiet stories.\nMidday brings you to the beautiful local castles, offering a glimpse into the noble history that shaped this charming French town.\nThe afternoon is perfect for family-friendly areas and relaxing moments near the water to recharge your batteries for the evening.\nConclude your day with cultural insights at Yzeurespace, where you can experience the vibrant local arts scene before heading to dinner."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 6.29,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Pierre Kirche",
+            "hu": "Saint-Pierre templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            3.354712,
+            46.566694
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die romanische Architektur dieser historischen Kirche im Stadtzentrum und vergessen Sie nicht, vor dem Verlassen einen Blick auf die Buntglasfenster zu werfen.",
+            "hu": "Csodálja meg a városközpontban található történelmi templom román kori építészetét, és távozás előtt mindenképpen vessen egy pillantást a lenyűgöző ólomüveg ablakokra.",
+            "ro": "Admirați arhitectura romanică a acestei biserici istorice din centru și nu uitați să priviți în sus spre vitraliile uimitoare înainte de a vă continua drumul zilnic.",
+            "en": "Admire the Romanesque architecture of this historic church in the city center, and don't forget to look up at the stunning stained glass windows before you leave."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss du Parc",
+            "hu": "Parc-kastély",
+            "ro": "Castelul du Parc",
+            "en": "Château du Parc"
+          },
+          "coords": [
+            3.378179,
+            46.566836
+          ],
+          "category": "castle",
+          "arrive_at": "10:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.79,
+          "tip_5lang": {
+            "de": "Wandern Sie um das majestätische Äußere dieses wunderschönen Schlosses, das in einem weitläufigen Park liegt, in dem alte Bäume viel Schatten spenden.",
+            "hu": "Sétáljon a gyönyörű, hatalmas parkban fekvő kastély fenséges külső falai körül, ahol az öreg fák alatti padok kínálják a legjobb kilátást a környékre.",
+            "ro": "Plimbați-vă în jurul exteriorului majestuos al acestui castel frumos situat într-un parc întins, unde găsirea unei bănci sub copacii bătrâni oferă o priveliște minunată.",
+            "en": "Wander around the majestic exterior of this beautiful castle set within an expansive park, where finding a bench under the old trees offers the best view."
+          }
+        },
+        {
+          "name": {
+            "de": "Yzeurespace",
+            "hu": "Yzeurespace",
+            "ro": "Yzeurespace",
+            "en": "Yzeurespace"
+          },
+          "coords": [
+            3.365239,
+            46.552171
+          ],
+          "category": "cultural",
+          "arrive_at": "11:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.91,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem modernen Kulturzentrum in die lokale Kunstszene ein und werfen Sie immer einen Blick auf den Tagesplan am Eingang, um Shows zu entdecken.",
+            "hu": "Merüljön el a helyi művészeti életben ebben a különféle eseményeknek otthont adó modern kulturális központban, és mindig ellenőrizze a napi beosztást a bejáratnál.",
+            "ro": "Cufundați-vă în scena artistică locală la acest centru cultural modern care găzduiește diverse evenimente și verificați întotdeauna programul zilnic la intrare.",
+            "en": "Immerse yourself in the local arts scene at this modern cultural center hosting various events, and always check their daily schedule at the entrance for impromptu shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Panloup",
+            "hu": "Panloup-kastély",
+            "ro": "Castelul Panloup",
+            "en": "Panloup Castle"
+          },
+          "coords": [
+            3.35447,
+            46.5538
+          ],
+          "category": "historical",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Erkunden Sie das elegante Gelände dieser historischen Burg, die das lokale Erbe widerspiegelt, und bringen Sie eine Kamera für das perfekte Foto der Fassade mit.",
+            "hu": "Fedezze fel a helyi örökséget tükröző történelmi kastély elegáns területét, és feltétlenül hozzon magával fényképezőgépet a klasszikus homlokzat megörökítéséhez.",
+            "ro": "Explorați terenurile elegante ale acestui castel istoric care reflectă moștenirea locală și asigurați-vă că aduceți un aparat foto pentru a surprinde fațada clasică.",
+            "en": "Explore the elegant grounds of this historic castle that reflects the local heritage, making sure to bring a camera for the perfect shot of its classic facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Ozières-See",
+            "hu": "Ozières-tó",
+            "ro": "Lacul Ozières",
+            "en": "Ozières Lake"
+          },
+          "coords": [
+            3.371893,
+            46.545631
+          ],
+          "category": "natural",
+          "arrive_at": "14:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.61,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den ruhigen Gewässern dieses schönen Sees, der einen friedlichen Rückzugsort bietet, und packen Sie gute Schuhe für einen Spaziergang ein.",
+            "hu": "Pihenjen ezen a békés menedéket kínáló, szép tónak a nyugodt vize mellett, és hozzon magával kényelmes sétacipőt a festői ösvényeken való sétáláshoz.",
+            "ro": "Relaxați-vă pe malul apelor liniștite ale acestui lac minunat și asigurați-vă că aveți încălțăminte confortabilă pentru a vă plimba pe traseele pitorești de pe margine.",
+            "en": "Relax by the tranquil waters of this lovely lake offering a peaceful retreat, and pack some comfortable walking shoes to stroll along the scenic perimeter trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Strand von Ozières",
+            "hu": "Régi Ozières strand",
+            "ro": "Vechea plajă Ozières",
+            "en": "Ancienne plage des Ozières"
+          },
+          "coords": [
+            3.371861,
+            46.544399
+          ],
+          "category": "recreational",
+          "arrive_at": "15:20",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Genießen Sie den nostalgischen Charme dieses ehemaligen Strandbereichs, der heute eine entspannende Grünfläche ist und sich perfekt für ein Picknick in der Sonne eignet.",
+            "hu": "Élvezze a nosztalgikus varázsát ennek az egykori strandnak, amely ma már pihentető zöldfelületként szolgál, és tökéletes helyszín egy kellemes piknikhez a napfényben.",
+            "ro": "Bucurați-vă de farmecul nostalgic al acestei foste plaje care servește acum ca spațiu verde relaxant, perfect pentru a întinde o pătură de picnic sub razele soarelui cald.",
+            "en": "Soak in the nostalgic charm of this former beach area that now serves as a relaxing green space, perfect for laying down a picnic blanket under the sun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie am Morgen vom historischen Stadtzentrum in Richtung des wunderschönen Schlossparks, um die frische Luft zu genießen.\nBis zum Mittag können Sie das kulturelle Herz der Stadt sowie historische Juwelen erkunden, die von der Vergangenheit zeugen.\nVerbringen Sie Ihren Nachmittag mit einer gemütlichen Fahrt zum malerischen See, fernab des städtischen Trubels.\nLassen Sie den Tag an der ehemaligen Strandpromenade ausklingen, wo Sie die Beine hochlegen und die ruhige Natur auf sich wirken lassen können.",
+        "hu": "Reggel tekerjen ki a történelmi városközpontból a gyönyörű kastélypark felé, és élvezze a friss levegőt és a nagyszerű látványt.\nDélre fedezze fel a város kulturális szívét és a múlt dicsőségéről árulkodó történelmi gyöngyszemeket a környéken.\nTöltse a délutánt egy kényelmes kerékpározással a festői tó felé, távol a város zajától és nyüzsgésétől a természet lágy ölén.\nZárja a napot az egykori strandon, ahol kinyújtóztathatja a lábát, és hagyhatja, hogy a nyugodt természet varázsa átjárja a lelkét.",
+        "ro": "Pedalați dimineața din centrul istoric al orașului spre frumosul parc al castelului, bucurându-vă de aerul proaspăt de dimineață.\nPână la amiază, explorați inima culturală a orașului și bijuteriile istorice care vorbesc despre un trecut fascinant și bogat.\nPetreceți după-amiaza cu o plimbare confortabilă spre lacul pitoresc, departe de agitația vieții urbane și în inima naturii.\nÎncheiați-vă ziua pe vechea plajă, unde vă puteți întinde picioarele și lăsa farmecul liniștit al naturii să vă relaxeze complet.",
+        "en": "Pedal out in the morning from the historic city center towards the beautiful castle park, enjoying the fresh morning breeze.\nBy midday, explore the cultural heart of the town and heritage spots that speak volumes about its fascinating and rich past.\nSpend the afternoon cruising towards the scenic lake on your bike, leaving the urban hustle behind for a peaceful nature retreat.\nWind down your evening at the old beach area, where you can stretch your legs and let the tranquil natural charm completely relax you."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:36",
+      "total_km": 9.96,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Plaisance",
+            "hu": "Plaisance-kastély",
+            "ro": "Castelul Plaisance",
+            "en": "Château de Plaisance"
+          },
+          "coords": [
+            3.357183,
+            46.589885
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese nördlichste Sehenswürdigkeit, die für ihren unverwechselbaren Stil bekannt ist, und nutzen Sie das Morgenlicht für Fotos der Steindetails.",
+            "hu": "Csodálja meg Yzeure legészakibb, jellegzetes stílusáról ismert örökségét, és próbálja meg a kora reggeli fényben lencsevégre kapni a kőből készült részleteket.",
+            "ro": "Minunați-vă de situl de patrimoniu cel mai nordic din Yzeure, cunoscut pentru stilul său distinctiv, și încercați să îl vizitați în lumina dimineții pentru fotografii.",
+            "en": "Marvel at the northernmost heritage site of Yzeure known for its distinctive style, and try to visit in the morning light to fully appreciate the stone details."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss du Parc",
+            "hu": "Parc-kastély",
+            "ro": "Castelul du Parc",
+            "en": "Château du Parc"
+          },
+          "coords": [
+            3.378179,
+            46.566836
+          ],
+          "category": "castle",
+          "arrive_at": "10:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.02,
+          "tip_5lang": {
+            "de": "Wandern Sie um das majestätische Äußere dieses wunderschönen Schlosses, das in einem weitläufigen Park liegt, in dem alte Bäume viel Schatten spenden.",
+            "hu": "Sétáljon a gyönyörű, hatalmas parkban fekvő kastély fenséges külső falai körül, ahol az öreg fák alatti padok kínálják a legjobb kilátást a környékre.",
+            "ro": "Plimbați-vă în jurul exteriorului majestuos al acestui castel frumos situat într-un parc întins, unde găsirea unei bănci sub copacii bătrâni oferă o priveliște minunată.",
+            "en": "Wander around the majestic exterior of this beautiful castle set within an expansive park, where finding a bench under the old trees offers the best view."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Pierre Kirche",
+            "hu": "Saint-Pierre templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            3.354712,
+            46.566694
+          ],
+          "category": "religious",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die romanische Architektur dieser historischen Kirche im Stadtzentrum und vergessen Sie nicht, vor dem Verlassen einen Blick auf die Buntglasfenster zu werfen.",
+            "hu": "Csodálja meg a városközpontban található történelmi templom román kori építészetét, és távozás előtt mindenképpen vessen egy pillantást a lenyűgöző ólomüveg ablakokra.",
+            "ro": "Admirați arhitectura romanică a acestei biserici istorice din centru și nu uitați să priviți în sus spre vitraliile uimitoare înainte de a vă continua drumul zilnic.",
+            "en": "Admire the Romanesque architecture of this historic church in the city center, and don't forget to look up at the stunning stained glass windows before you leave."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Panloup",
+            "hu": "Panloup-kastély",
+            "ro": "Castelul Panloup",
+            "en": "Panloup Castle"
+          },
+          "coords": [
+            3.35447,
+            46.5538
+          ],
+          "category": "historical",
+          "arrive_at": "12:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.43,
+          "tip_5lang": {
+            "de": "Erkunden Sie das elegante Gelände dieser historischen Burg, die das lokale Erbe widerspiegelt, und bringen Sie eine Kamera für das perfekte Foto der Fassade mit.",
+            "hu": "Fedezze fel a helyi örökséget tükröző történelmi kastély elegáns területét, és feltétlenül hozzon magával fényképezőgépet a klasszikus homlokzat megörökítéséhez.",
+            "ro": "Explorați terenurile elegante ale acestui castel istoric care reflectă moștenirea locală și asigurați-vă că aduceți un aparat foto pentru a surprinde fațada clasică.",
+            "en": "Explore the elegant grounds of this historic castle that reflects the local heritage, making sure to bring a camera for the perfect shot of its classic facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Bellevue",
+            "hu": "Bellevue-kastély",
+            "ro": "Castelul Bellevue",
+            "en": "Château de Bellevue"
+          },
+          "coords": [
+            3.346433,
+            46.561689
+          ],
+          "category": "castle",
+          "arrive_at": "14:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.07,
+          "tip_5lang": {
+            "de": "Genießen Sie das charmante Design dieses historischen Herrenhauses mit seiner reichen lokalen Geschichte und achten Sie auf die subtilen dekorativen Elemente an den Fenstern.",
+            "hu": "Tekintse meg ennek a gazdag helyi történelemmel rendelkező kastélynak a bájos kialakítását, és figyelje meg az ablakok finom díszítőelemeit a séta során.",
+            "ro": "Bucurați-vă de designul fermecător al acestui conac istoric cu o istorie locală bogată și fiți atenți la elementele decorative subtile de pe ferestrele sale vechi.",
+            "en": "Take in the charming design of this historic manor that boasts a rich local history, and keep an eye out for the subtle decorative elements on its elegant windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Pouzeux",
+            "hu": "Pouzeux-kastély",
+            "ro": "Castelul Pouzeux",
+            "en": "Château de Pouzeux"
+          },
+          "coords": [
+            3.349666,
+            46.558475
+          ],
+          "category": "castle",
+          "arrive_at": "15:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Entdecken Sie die architektonische Schönheit dieses beeindruckenden, von viel Grün umgebenen Anwesens und nehmen Sie sich einen Moment Zeit, um die Ruhe zu genießen.",
+            "hu": "Fedezze fel a zöldövezetben található lenyűgöző helyi birtok építészeti szépségét, és szánjon egy percet arra, hogy élvezze az udvar csendes és békés hangulatát.",
+            "ro": "Descoperiți frumusețea arhitecturală a acestei moșii impresionante înconjurate de verdeață și faceți-vă timp pentru a vă bucura de atmosfera liniștită a curții.",
+            "en": "Discover the architectural beauty of this impressive local estate surrounded by greenery, and take a moment to enjoy the quiet atmosphere of the courtyard area."
+          }
+        },
+        {
+          "name": {
+            "de": "Ozières-See",
+            "hu": "Ozières-tó",
+            "ro": "Lacul Ozières",
+            "en": "Ozières Lake"
+          },
+          "coords": [
+            3.371893,
+            46.545631
+          ],
+          "category": "natural",
+          "arrive_at": "16:51",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.21,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den ruhigen Gewässern dieses schönen Sees, der einen friedlichen Rückzugsort bietet, und packen Sie gute Schuhe für einen Spaziergang ein.",
+            "hu": "Pihenjen ezen a békés menedéket kínáló, szép tónak a nyugodt vize mellett, és hozzon magával kényelmes sétacipőt a festői ösvényeken való sétáláshoz.",
+            "ro": "Relaxați-vă pe malul apelor liniștite ale acestui lac minunat și asigurați-vă că aveți încălțăminte confortabilă pentru a vă plimba pe traseele pitorești de pe margine.",
+            "en": "Relax by the tranquil waters of this lovely lake offering a peaceful retreat, and pack some comfortable walking shoes to stroll along the scenic perimeter trails."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie früh an den nördlichen Rand, um das Morgenlicht auf dem beeindruckendsten Schloss von Yzeure vor den Touristen zu genießen.\nVerbringen Sie die Mittagszeit damit, bequem zwischen den zentralen historischen Anwesen und Kirchen zu navigieren, die das Zentrum prägen.\nDer Nachmittag wird zu einer wunderbaren Reise durch die feinsten architektonischen Schätze der Region, alle leicht mit dem Auto erreichbar.\nBeenden Sie Ihren Roadtrip am Abend mit purer Entspannung und spazieren Sie am friedlichen Ufer des Sees entlang, während die Sonne untergeht.",
+        "hu": "Kezdje az utat kora reggel a város északi peremén, hogy a tömeg előtt élvezhesse a lenyűgöző kastély látványát a reggeli fényben.\nTöltse a delet azzal, hogy kényelmesen navigál a központi történelmi birtokok és templomok között, amelyek meghatározzák a központ arculatát.\nA délután egy csodálatos utazássá válik a régió legkiválóbb építészeti kincsei között, amelyek mind könnyen elérhetők autóval a nap folyamán.\nZárja az autós utazást esténként a legtisztább kikapcsolódással, és sétáljon a tó békés partján, miközben a lemenő nap sugarai megvilágítják a vizet.",
+        "ro": "Conduceți devreme spre marginea nordică pentru a surprinde lumina dimineții pe cel mai impresionant castel din Yzeure, departe de mulțimi.\nPetreceți amiaza navigând confortabil între moșiile și bisericile istorice centrale care conturează inima și spiritul acestui oraș fermecător.\nDupă-amiaza devine o călătorie minunată prin cele mai fine comori arhitecturale ale regiunii, toate ușor accesibile cu mașina personală.\nÎncheiați-vă călătoria cu mașina seara, relaxându-vă complet pe malul pașnic al lacului, în timp ce priviți cum soarele apune liniștit peste ape.",
+        "en": "Drive to the northern edge early to catch the morning light on the most impressive castle of Yzeure before the typical crowds arrive.\nSpend midday comfortably navigating between the central historical estates and churches that define the traditional heart of this charming town.\nThe afternoon transforms into a wonderful journey through the region's finest architectural treasures, all easily accessible from the comfort of your car.\nEnd your road trip in the evening with pure relaxation, strolling along the peaceful shores of the lake as the sun begins to set over the water."
+      }
+    }
+  }
+}

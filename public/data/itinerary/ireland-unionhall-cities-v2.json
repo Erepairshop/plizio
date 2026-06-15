@@ -1,0 +1,534 @@
+{
+  "city_id": "ireland-unionhall-cities-v2",
+  "anchor": {
+    "name": "Unionhall",
+    "coords": [
+      -9.13991,
+      51.55881
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:52",
+      "total_km": 3.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "White Steps",
+            "hu": "White Steps",
+            "ro": "White Steps",
+            "en": "White Steps"
+          },
+          "coords": [
+            -9.138147,
+            51.558977
+          ],
+          "category": "recreational",
+          "arrive_at": "09:02",
+          "stay_min": 35,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Steigen Sie die ikonischen weißen Stufen hinauf für einen Panoramablick auf den Hafen und tragen Sie feste Schuhe für den rutschigen Küstenpfad.",
+            "hu": "Mássza meg az ikonikus fehér lépcsőket a kikötőre nyíló panorámáért, és mindenképpen viseljen masszív cipőt a csúszós parti ösvényen.",
+            "ro": "Urcați treptele albe iconice pentru vederi panoramice ale portului și asigurați-vă că purtați încălțăminte robustă pentru poteca de coastă alunecoasă.",
+            "en": "Climb the iconic White Steps to enjoy panoramic harbor views, and be sure to wear sturdy shoes for the sometimes slippery coastal path."
+          }
+        },
+        {
+          "name": {
+            "de": "Myross Parish Church",
+            "hu": "Myross plébániatemplom",
+            "ro": "Biserica Parohială Myross",
+            "en": "Myross Parish Church"
+          },
+          "coords": [
+            -9.14367,
+            51.558157
+          ],
+          "category": "religious",
+          "arrive_at": "09:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ruhige Architektur der Myross-Pfarrkirche, die lokale Geschichte widerspiegelt, aber besuchen Sie sie früh für das beste natürliche Licht.",
+            "hu": "Csodálja meg a Myross plébániatemplom helyi történelmet tükröző nyugodt építészetét, de érkezzen kora reggel a legjobb természetes fényviszonyokért.",
+            "ro": "Admirați arhitectura senină a bisericii parohiale Myross care reflectă istoria locală, dar vizitați devreme dimineața pentru cea mai bună lumină.",
+            "en": "Admire the serene architecture of Myross Parish Church which reflects local history, but visit early in the morning to capture the best natural light."
+          }
+        },
+        {
+          "name": {
+            "de": "St Brigid's Church",
+            "hu": "Szent Brigitta-templom",
+            "ro": "Biserica Sfânta Brigita",
+            "en": "St Brigid's Church"
+          },
+          "coords": [
+            -9.145277,
+            51.553557
+          ],
+          "category": "religious",
+          "arrive_at": "10:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historische St.-Brigid-Kirche mit ihren Steinfassaden und nehmen Sie sich Zeit, die angrenzenden Anlagen in friedlicher Umgebung zu durchstreifen.",
+            "hu": "Fedezze fel a történelmi Szent Brigitta-templomot gyönyörű kőhomlokzataival, és szánjon időt a szomszédos területek bejárására a békés környezet miatt.",
+            "ro": "Explorați biserica istorică Sfânta Brigita cu fațadele sale din piatră, făcându-vă timp să vă plimbați prin curțile adiacente pentru un cadru pașnic.",
+            "en": "Explore the historic St Brigid's Church with its beautiful stone facades, taking time to wander the adjacent grounds to fully appreciate the peaceful setting."
+          }
+        },
+        {
+          "name": {
+            "de": "Castle Ire",
+            "hu": "Castle Ire",
+            "ro": "Castelul Ire",
+            "en": "Castle Ire"
+          },
+          "coords": [
+            -9.150315,
+            51.550027
+          ],
+          "category": "castle",
+          "arrive_at": "11:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die antiken Ruinen von Castle Ire als Zeugnis mittelalterlicher Küstenverteidigung und bringen Sie wegen der starken Brise eine Windjacke mit.",
+            "hu": "Fedezze fel a Castle Ire ősi romjait, amelyek a középkori partvédelem tanúi, és hozzon széldzsekit, mivel a parti szellő itt nagyon erős lehet.",
+            "ro": "Descoperiți ruinele antice ale Castelului Ire, o mărturie a apărării medievale de coastă, și aduceți un parbriz, deoarece briza oceanului este puternică.",
+            "en": "Discover the ancient ruins of Castle Ire that stand as a testament to medieval coastal defense, and bring a windbreaker as the coastal breeze is very strong here."
+          }
+        },
+        {
+          "name": {
+            "de": "Ballincolla Village",
+            "hu": "Ballincolla falu",
+            "ro": "Satul Ballincolla",
+            "en": "Ballincolla Village"
+          },
+          "coords": [
+            -9.127831,
+            51.550387
+          ],
+          "category": "historical",
+          "arrive_at": "13:02",
+          "stay_min": 110,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch das historische Dorf Ballincolla, um authentisches irisches ländliches Erbe zu erleben und die alten Steinmauern an den engen Gassen zu sehen.",
+            "hu": "Sétáljon át a történelmi Ballincolla falun, hogy megtapasztalja a vidéki ír örökséget, és figyelje meg a keskeny sávok mentén futó régi kőhatárfalakat.",
+            "ro": "Plimbați-vă prin satul istoric Ballincolla pentru a experimenta moștenirea rurală irlandeză, verificând vechile ziduri de piatră de-a lungul aleilor.",
+            "en": "Walk through the historic Ballincolla Village to experience authentic Irish rural heritage, checking out the old stone boundary walls along the narrow lanes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": {
+          "morning": "Beginnen Sie Ihren Tag im Herzen von Unionhall. Genießen Sie den Hafenblick von den Weißen Stufen, bevor Sie die nahegelegenen historischen Kirchen bewundern.",
+          "midday": "Schlendern Sie aus dem Zentrum in Richtung der rauen Küste und verweilen Sie an den stimmungsvollen Ruinen von Castle Ire, einem Zeugnis der mittelalterlichen Vergangenheit.",
+          "afternoon": "Setzen Sie Ihre leichte Wanderung nach Süden in das Dorf Ballincolla fort und saugen Sie die ruhige, ländliche irische Atmosphäre und den historischen Charme auf.",
+          "evening": "Beenden Sie Ihren Rundgang in gemächlichem Tempo zurück ins Dorfzentrum, wo Sie einen gemütlichen Ort finden können, um den Sonnenuntergang am malerischen Hafen zu genießen."
+        },
+        "hu": {
+          "morning": "Kezdje a napot Unionhall szívében, élvezve a kikötői kilátást a Fehér Lépcsőkről, mielőtt megcsodálná a közeli történelmi templomok nyugodt szépségét.",
+          "midday": "Sétáljon ki a központból a zord partvonal felé, és tartson szünetet a Castle Ire hangulatos romjainál, amelyek a régió középkori múltjáról tanúskodnak.",
+          "afternoon": "Folytassa kellemes túráját dél felé Ballincolla faluba, magába szívva a csendes, vidéki ír légkört és a régi kőhatárfalak történelmi báját.",
+          "evening": "Fejezze be gyalogtúráját a faluközpontba való kényelmes visszatéréssel, ahol egy hangulatos helyen pihenhet, miközben a nap lemegy a festői kikötő vize felett."
+        },
+        "ro": {
+          "morning": "Începeți ziua plimbându-vă prin inima Unionhall, bucurându-vă de priveliștile portului de pe Treptele Albe înainte de a admira frumusețea senină a bisericilor istorice.",
+          "midday": "Plimbați-vă din centrul imediat spre coasta accidentată, oprindu-vă la ruinele evocatoare ale Castelului Ire care stau ca o mărturie a trecutului medieval.",
+          "afternoon": "Continuați drumeția ușoară spre sud, în satul Ballincolla, absorbind atmosfera liniștită, rurală irlandeză și farmecul istoric al vechilor ziduri de piatră.",
+          "evening": "Încheiați turul de mers pe jos într-un ritm relaxant înapoi în centrul satului, unde puteți găsi un loc confortabil pentru a vă relaxa la apusul soarelui peste port."
+        },
+        "en": {
+          "morning": "Start your day walking through Unionhall's heart, enjoying harbor views from the White Steps before admiring the serene beauty of the nearby historic churches.",
+          "midday": "Stroll out of the immediate center towards the rugged coastline, pausing at the evocative ruins of Castle Ire which stand as a testament to the region's medieval past.",
+          "afternoon": "Continue your gentle hike southward into Ballincolla Village, soaking up the quiet, rural Irish atmosphere and historic charm of the old stone boundary walls.",
+          "evening": "Conclude your walking tour with a leisurely pace back to the village center, where you can find a cozy spot to relax as the sun sets over the scenic harbor waters."
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:23",
+      "total_km": 3.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bathing Cove",
+            "hu": "Fürdőöböl",
+            "ro": "Golful de Baie",
+            "en": "Bathing Cove"
+          },
+          "coords": [
+            -9.138641,
+            51.562712
+          ],
+          "category": "recreational",
+          "arrive_at": "09:02",
+          "stay_min": 35,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an der ruhigen Badebucht, wo sich Einheimische seit Generationen treffen, und packen Sie ein kleines Picknick für die grasbewachsenen Ufer ein.",
+            "hu": "Pihenjen a nyugodt fürdőöbölben, ahol a helyiek generációk óta gyülekeznek, és csomagoljon egy kis pikniket, amelyet a vízparti füves partokon fogyaszthat el.",
+            "ro": "Relaxați-vă lângă golful liniștit unde localnicii se adună de generații și împachetați un mic picnic pentru a-l savura pe malurile ierboase de lângă apă.",
+            "en": "Relax by the tranquil Bathing Cove where locals have gathered for generations, and pack a small picnic to enjoy on the grassy banks right by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Myross Parish Church",
+            "hu": "Myross plébániatemplom",
+            "ro": "Biserica Parohială Myross",
+            "en": "Myross Parish Church"
+          },
+          "coords": [
+            -9.14367,
+            51.558157
+          ],
+          "category": "religious",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ruhige Architektur der Myross-Pfarrkirche, die lokale Geschichte widerspiegelt, aber besuchen Sie sie früh für das beste natürliche Licht.",
+            "hu": "Csodálja meg a Myross plébániatemplom helyi történelmet tükröző nyugodt építészetét, de érkezzen kora reggel a legjobb természetes fényviszonyokért.",
+            "ro": "Admirați arhitectura senină a bisericii parohiale Myross care reflectă istoria locală, dar vizitați devreme dimineața pentru cea mai bună lumină.",
+            "en": "Admire the serene architecture of Myross Parish Church which reflects local history, but visit early in the morning to capture the best natural light."
+          }
+        },
+        {
+          "name": {
+            "de": "Castle Ire",
+            "hu": "Castle Ire",
+            "ro": "Castelul Ire",
+            "en": "Castle Ire"
+          },
+          "coords": [
+            -9.150315,
+            51.550027
+          ],
+          "category": "castle",
+          "arrive_at": "10:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die antiken Ruinen von Castle Ire als Zeugnis mittelalterlicher Küstenverteidigung und bringen Sie wegen der starken Brise eine Windjacke mit.",
+            "hu": "Fedezze fel a Castle Ire ősi romjait, amelyek a középkori partvédelem tanúi, és hozzon széldzsekit, mivel a parti szellő itt nagyon erős lehet.",
+            "ro": "Descoperiți ruinele antice ale Castelului Ire, o mărturie a apărării medievale de coastă, și aduceți un parbriz, deoarece briza oceanului este puternică.",
+            "en": "Discover the ancient ruins of Castle Ire that stand as a testament to medieval coastal defense, and bring a windbreaker as the coastal breeze is very strong here."
+          }
+        },
+        {
+          "name": {
+            "de": "Stookeen Fort",
+            "hu": "Stookeen-erőd",
+            "ro": "Fortul Stookeen",
+            "en": "Stookeen Fort"
+          },
+          "coords": [
+            -9.154961,
+            51.547556
+          ],
+          "category": "historical",
+          "arrive_at": "11:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die irdenen Überreste des Stookeen Forts, um frühe Siedlungsmuster zu begreifen, und bleiben Sie auf markierten Wegen, um die Stätte zu schützen.",
+            "hu": "Vizsgálja meg a Stookeen-erőd földi maradványait, hogy megértse a korai településmintákat, de maradjon a kijelölt ösvényeken a törékeny lelőhely védelmében.",
+            "ro": "Investigați rămășițele de pământ ale Fortului Stookeen pentru a înțelege așezările timpurii, rămânând pe traseele marcate pentru a proteja situl arheologic.",
+            "en": "Investigate the earthen remains of Stookeen Fort to grasp early settlement patterns, staying on the marked trails to protect the fragile archaeological site."
+          }
+        },
+        {
+          "name": {
+            "de": "Séipéal an Stuaicín",
+            "hu": "Séipéal an Stuaicín",
+            "ro": "Séipéal an Stuaicín",
+            "en": "Séipéal an Stuaicín"
+          },
+          "coords": [
+            -9.161916,
+            51.549272
+          ],
+          "category": "historical",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besinnen Sie sich in der historischen Kapelle Séipéal an Stuaicín mit tiefen lokalen Einblicken und betrachten Sie die verwitterten Grabsteine genauer.",
+            "hu": "Tükröződjön a Séipéal an Stuaicín történelmi kápolnában, és nézze meg közelebbről a viharvert sírköveket, amelyek részletezik az ősi leszármazási vonalakat.",
+            "ro": "Reflectați la Séipéal an Stuaicín, o mică capelă istorică, și priviți cu atenție pietrele funerare degradate de vreme care detaliază descendențele ancestrale.",
+            "en": "Reflect at Séipéal an Stuaicín, a small historical chapel offering deep local insights, and look closely at the weathered grave markers detailing ancestral lineages."
+          }
+        },
+        {
+          "name": {
+            "de": "Lios Cúil Bláith",
+            "hu": "Lios Cúil Bláith",
+            "ro": "Lios Cúil Bláith",
+            "en": "Lios Cúil Bláith"
+          },
+          "coords": [
+            -9.15776,
+            51.553869
+          ],
+          "category": "historical",
+          "arrive_at": "14:33",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise im Ringfort Lios Cúil Bláith mit antiken Verteidigungsanlagen und besuchen Sie es bei trockenem Wetter, um schlammige Wege zu vermeiden.",
+            "hu": "Lépjen vissza az időben a Lios Cúil Bláith gyűrűs erődnél, amely ősi védelmi földmunkákat mutat be, és látogasson száraz időben a sáros ösvények elkerülése végett.",
+            "ro": "Întoarceți-vă în timp la fortul inelar Lios Cúil Bláith care prezintă terasamente defensive antice și vizitați pe vreme uscată pentru a evita noroiul.",
+            "en": "Step back in time at the Lios Cúil Bláith ringfort which showcases ancient defensive earthworks, and visit during dry weather to avoid muddy and slippery paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": {
+          "morning": "Radeln Sie flott von der ruhigen Badebucht zu den architektonischen Highlights des Dorfes und erleben Sie die frische Meeresbrise und den Charme der Myross-Kirche.",
+          "midday": "Fahren Sie durch die sanfte Küstenlandschaft zum Castle Ire und Stookeen Fort, wo weite Meerblicke auf faszinierende Schichten des antiken irischen Erbes treffen.",
+          "afternoon": "Navigieren Sie über malerische Wege zum Séipéal an Stuaicín und dem alten Ringfort Lios Cúil Bláith und tauchen Sie tief in die reichen archäologischen Stätten der Region ein.",
+          "evening": "Fahren Sie zurück nach Unionhall, während das Abendlicht den Hafen bemalt, und fühlen Sie sich gestärkt von einem erfüllenden Tag der Erkundung der wilden Küste."
+        },
+        "hu": {
+          "morning": "Kerékpározzon lendületesen a nyugodt fürdőöböltől a falu építészeti nevezetességei felé, megtapasztalva a friss óceáni szellőt és a Myross plébániatemplom varázsát.",
+          "midday": "Pedálozzon a dombos part menti tájon át a Castle Ire és a Stookeen Fort felé, ahol a lenyűgöző tengeri kilátás könnyedén találkozik az ősi ír örökség rétegeivel.",
+          "afternoon": "Navigáljon a Séipéal an Stuaicín és a Lios Cúil Bláith ősi gyűrűs erőd felé vezető festői ösvényeken, mélyen elmerülve a régió gazdag régészeti lelőhelyeiben.",
+          "evening": "Lovagoljon vissza Unionhallba, miközben az esti fény megfesti a kikötőt, felfrissülve a vad, történelmi és gyönyörű ír partvidék felfedezésének teljes napjától."
+        },
+        "ro": {
+          "morning": "Pedalați de la liniștitul Golf de Baie către atracțiile arhitecturale ale satului, experimentând briza proaspătă a oceanului și farmecul bisericii parohiale Myross.",
+          "midday": "Pedalați prin peisajul de coastă spre Castelul Ire și Fortul Stookeen, unde priveliștile panoramice ale mării întâlnesc straturi fascinante ale vechii moșteniri irlandeze.",
+          "afternoon": "Navigați pe cărările pitorești spre Séipéal an Stuaicín și vechiul fort inelar Lios Cúil Bláith, scufundându-vă adânc în bogatele situri arheologice ale regiunii.",
+          "evening": "Întoarceți-vă în Unionhall pe măsură ce lumina serii pictează portul, simțindu-vă revigorat după o zi plină de explorare a coastei irlandeze sălbatice și istorice."
+        },
+        "en": {
+          "morning": "Cycle briskly from the tranquil Bathing Cove towards the village’s architectural highlights, experiencing the crisp ocean breeze and the charm of Myross Parish Church.",
+          "midday": "Pedal through the rolling coastal landscape to Castle Ire and Stookeen Fort, where sweeping sea views effortlessly meet fascinating layers of ancient Irish heritage.",
+          "afternoon": "Navigate the scenic paths leading towards Séipéal an Stuaicín and the old ringfort of Lios Cúil Bláith, immersing yourself deeply in the region's rich archaeological sites.",
+          "evening": "Ride back into Unionhall as the evening light paints the harbor, feeling invigorated from a fulfilling day of exploring the wild, historic, and beautiful Irish coastline."
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:08",
+      "total_km": 10.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Leap Church of Ireland",
+            "hu": "Leap Church of Ireland",
+            "ro": "Leap Church of Ireland",
+            "en": "Leap Church of Ireland"
+          },
+          "coords": [
+            -9.14088,
+            51.580739
+          ],
+          "category": "religious",
+          "arrive_at": "09:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Leap Church of Ireland, um ihre neugotische Architektur zu würdigen, und suchen Sie nach den Buntglasfenstern, die am Mittag am besten wirken.",
+            "hu": "Látogassa meg a tekintélyes Leap Church of Ireland-et a neogótikus építészet miatt, és keresse a bonyolult ólomüveg ablakokat, amelyek délben a legszebbek.",
+            "ro": "Vizitați biserica impunătoare Leap din Irlanda pentru a aprecia arhitectura sa neogotică și căutați vitraliile complicate care sunt cele mai vizibile la prânz.",
+            "en": "Visit the commanding Leap Church of Ireland to appreciate its Gothic revival architecture, and look for the intricate stained glass windows visible best near noon."
+          }
+        },
+        {
+          "name": {
+            "de": "An Teampall Bán",
+            "hu": "An Teampall Bán",
+            "ro": "An Teampall Bán",
+            "en": "An Teampall Bán"
+          },
+          "coords": [
+            -9.155087,
+            51.574317
+          ],
+          "category": "historical",
+          "arrive_at": "09:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Wandern Sie um die historischen Ruinen von An Teampall Bán im üppigen Grün und bringen Sie eine Kamera mit, um den Kontrast von Stein und Flora einzufangen.",
+            "hu": "Sétáljon az An Teampall Bán történelmi „Fehér Templom” romjai körül a buja növényzetben, és hozzon fényképezőgépet a kő és a flóra drámai kontrasztjához.",
+            "ro": "Plimbați-vă prin ruinele istoricei „Biserici Albe” An Teampall Bán aflate în mijlocul verdeții luxuriante și aduceți o cameră pentru un contrast dramatic.",
+            "en": "Wander around An Teampall Bán, the historic \"White Church\" ruins set amidst lush greenery, bringing a camera to capture the dramatic contrast of stone and flora."
+          }
+        },
+        {
+          "name": {
+            "de": "St Brigid's Church",
+            "hu": "Szent Brigitta-templom",
+            "ro": "Biserica Sfânta Brigita",
+            "en": "St Brigid's Church"
+          },
+          "coords": [
+            -9.145277,
+            51.553557
+          ],
+          "category": "religious",
+          "arrive_at": "11:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historische St.-Brigid-Kirche mit ihren Steinfassaden und nehmen Sie sich Zeit, die angrenzenden Anlagen in friedlicher Umgebung zu durchstreifen.",
+            "hu": "Fedezze fel a történelmi Szent Brigitta-templomot gyönyörű kőhomlokzataival, és szánjon időt a szomszédos területek bejárására a békés környezet miatt.",
+            "ro": "Explorați biserica istorică Sfânta Brigita cu fațadele sale din piatră, făcându-vă timp să vă plimbați prin curțile adiacente pentru un cadru pașnic.",
+            "en": "Explore the historic St Brigid's Church with its beautiful stone facades, taking time to wander the adjacent grounds to fully appreciate the peaceful setting."
+          }
+        },
+        {
+          "name": {
+            "de": "Castle Ire",
+            "hu": "Castle Ire",
+            "ro": "Castelul Ire",
+            "en": "Castle Ire"
+          },
+          "coords": [
+            -9.150315,
+            51.550027
+          ],
+          "category": "castle",
+          "arrive_at": "12:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die antiken Ruinen von Castle Ire als Zeugnis mittelalterlicher Küstenverteidigung und bringen Sie wegen der starken Brise eine Windjacke mit.",
+            "hu": "Fedezze fel a Castle Ire ősi romjait, amelyek a középkori partvédelem tanúi, és hozzon széldzsekit, mivel a parti szellő itt nagyon erős lehet.",
+            "ro": "Descoperiți ruinele antice ale Castelului Ire, o mărturie a apărării medievale de coastă, și aduceți un parbriz, deoarece briza oceanului este puternică.",
+            "en": "Discover the ancient ruins of Castle Ire that stand as a testament to medieval coastal defense, and bring a windbreaker as the coastal breeze is very strong here."
+          }
+        },
+        {
+          "name": {
+            "de": "Ardra Fort",
+            "hu": "Ardra-erőd",
+            "ro": "Fortul Ardra",
+            "en": "Ardra Fort"
+          },
+          "coords": [
+            -9.13241,
+            51.539376
+          ],
+          "category": "historical",
+          "arrive_at": "13:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Untersuchen Sie das strategische Layout des Ardra Forts mit Blick auf die Landschaft und tragen Sie lange Hosen für das hohe Gras rund um die Anlage.",
+            "hu": "Vizsgálja meg az Ardra-erőd stratégiai elrendezését a vidéki táj felett, és viseljen hosszú nadrágot, hogy kényelmesen átsétálhasson a magas fűben.",
+            "ro": "Examinați aspectul strategic al Fortului Ardra cu vedere la peisajul rural și purtați pantaloni lungi pentru a merge confortabil prin iarba înaltă din jur.",
+            "en": "Examine the strategic layout of Ardra Fort overlooking the rural landscape, and wear long pants to comfortably walk through the tall grasses surrounding the structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Lios",
+            "hu": "Lios",
+            "ro": "Lios",
+            "en": "Lios"
+          },
+          "coords": [
+            -9.142632,
+            51.538192
+          ],
+          "category": "historical",
+          "arrive_at": "14:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie die mysteriöse historische Anlage Lios, um sich das Leben in der Eisenzeit vorzustellen, aber respektieren Sie die privaten landwirtschaftlichen Grenzen.",
+            "hu": "Fedezze fel az egyszerűen Lios néven ismert titokzatos történelmi területet, elképzelve a vaskori életet, de tartsa tiszteletben a helyszínt határoló mezőgazdasági határokat.",
+            "ro": "Explorați misterioasa incintă istorică cunoscută simplu sub numele de Lios, vizualizând viața din Epoca Fierului, dar respectați granițele agricole private din jur.",
+            "en": "Explore the mysterious historical enclosure simply known as Lios, visualizing Iron Age life, but respect the private agricultural boundaries that border the site."
+          }
+        },
+        {
+          "name": {
+            "de": "Carraig-ín Mhóire",
+            "hu": "Carraig-ín Mhóire",
+            "ro": "Carraig-ín Mhóire",
+            "en": "Carraig-ín Mhóire"
+          },
+          "coords": [
+            -9.122862,
+            51.539939
+          ],
+          "category": "landmark",
+          "arrive_at": "16:13",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Schließen Sie am markanten Naturdenkmal Carraig-ín Mhóire für großartige Küstenfotografie ab, besonders am späten Nachmittag, wenn das Licht golden ist.",
+            "hu": "Fejezze be útját a Carraig-ín Mhóire lenyűgöző természeti mérföldkövénél kiváló tengerparti fotókért, különösen késő délután, amikor a fény már aranylik.",
+            "ro": "Încheiați la impresionantul reper natural Carraig-ín Mhóire pentru fotografii excelente de coastă, mai ales în după-amiaza târziu când lumina este aurie.",
+            "en": "Conclude at the striking natural landmark of Carraig-ín Mhóire for excellent coastal photography, especially during late afternoon when the lighting is golden."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": {
+          "morning": "Fahren Sie zunächst an den nördlichen Rand bei Leap, um die historischen Kirchen zu besichtigen und die ruhige Morgenatmosphäre rund um An Teampall Bán zu genießen.",
+          "midday": "Fahren Sie südwärts durch das Zentrum von Unionhall, halten Sie an der St.-Brigid-Kirche und folgen Sie der Küste zum Castle Ire, mit dramatischen Landschaftswechseln.",
+          "afternoon": "Setzen Sie Ihre Autotour zu den südlichen Landzungen fort und erkunden Sie alte Festungen wie Ardra Fort und Lios, die ruhig inmitten üppiger Ackerflächen stehen.",
+          "evening": "Beenden Sie Ihren Roadtrip am Naturdenkmal Carraig-ín Mhóire, das perfekt positioniert ist, um atemberaubende Sonnenuntergangsfotos über dem Atlantik zu machen."
+        },
+        "hu": {
+          "morning": "Kezdje a napot az északi szélekhez való vezetéssel Leap közelében, hogy megnézze a történelmi templomait, és élvezze az An Teampall Bán körüli csendes reggeli légkört.",
+          "midday": "Vezessen dél felé Unionhall szívén keresztül, álljon meg a Szent Brigitta templomnál, mielőtt követné a partvonalat a Castle Ire felé a drámai tájváltozásokkal.",
+          "afternoon": "Folytassa autós túráját a déli hegyfokok felé, és fedezze fel az ősi erődítményeket, mint az Ardra Fort és a Lios, amelyek csendben állnak a buja mezőgazdasági területek között.",
+          "evening": "Fejezze be az utazást a Carraig-ín Mhóire természeti emlékműnél, amely tökéletes helyzetben van a lélegzetelállító naplemente fotózásához a vad atlanti vizek felett."
+        },
+        "ro": {
+          "morning": "Începeți conducând spre marginile nordice de lângă Leap pentru a vedea bisericile sale istorice, bucurându-vă de drumurile de țară și de atmosfera pașnică din jurul An Teampall Bán.",
+          "midday": "Conduceți spre sud prin inima Unionhall, oprindu-vă la Biserica Sf. Brigita înainte de a urmări coasta spre Castelul Ire, cu schimbări dramatice de la văi la stânci oceanice.",
+          "afternoon": "Continuați-vă turul cu mașina spre promontoriile sudice, explorând fortărețe antice precum Fortul Ardra și Lios, care stau liniștite printre terenuri agricole luxuriante.",
+          "evening": "Încheiați călătoria la monumentul natural Carraig-ín Mhóire, perfect poziționat pentru a surprinde fotografii uluitoare la apus de soare peste apele neîmblânzite ale Atlanticului."
+        },
+        "en": {
+          "morning": "Start by driving to the northern edges near Leap to view its historic churches, enjoying the scenic country roads and the peaceful morning atmosphere around An Teampall Bán.",
+          "midday": "Drive south through Unionhall's heart, stopping at St Brigid's Church before tracing the coastline to Castle Ire, enjoying dramatic shifts from green valleys to ocean cliffs.",
+          "afternoon": "Continue your driving tour toward the southern headlands, exploring ancient strongholds like Ardra Fort and Lios which stand quietly amid lush farmlands.",
+          "evening": "Wrap up your road trip at the natural monument of Carraig-ín Mhóire, perfectly positioned to capture breathtaking sunset photos over the untamed Atlantic waters."
+        }
+      }
+    }
+  }
+}

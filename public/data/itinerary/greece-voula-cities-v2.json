@@ -1,0 +1,451 @@
+{
+  "city_id": "greece-voula-cities-v2",
+  "anchor": {
+    "name": "Voula",
+    "coords": [
+      23.761535,
+      37.84546
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:27",
+      "total_km": 1.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Demotiko Theatro Boulas \"Sophia Bempo\"",
+            "hu": "Demotiko Theatro Boulas \"Sophia Bempo\"",
+            "ro": "Demotiko Theatro Boulas \"Sophia Bempo\"",
+            "en": "Demotiko Theatro Boulas \"Sophia Bempo\""
+          },
+          "coords": [
+            23.760061,
+            37.839745
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie eine Aufführung in diesem Sophia Bempo gewidmeten Stadttheater, aber buchen Sie Ihre Tickets unbedingt rechtzeitig online im Voraus.",
+            "hu": "Nézzen meg egy helyi előadást a Sophia Bemponak szentelt városi színházban, de érdemes a jegyeket előre lefoglalni az interneten.",
+            "ro": "Bucurați-vă de o reprezentație la acest teatru municipal dedicat Sophiei Bempo, dar asigurați-vă că vă rezervați biletele în avans online.",
+            "en": "Enjoy a local performance at this intimate municipal theater dedicated to Sophia Bempo, but make sure to book your tickets in advance online."
+          }
+        },
+        {
+          "name": {
+            "de": "Aithousa Ionia",
+            "hu": "Aithousa Ionia",
+            "ro": "Aithousa Ionia",
+            "en": "Aithousa Ionia"
+          },
+          "coords": [
+            23.767129,
+            37.836095
+          ],
+          "category": "cultural",
+          "arrive_at": "10:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie das kulturelle Herz Voulas in diesem Gemeindesaal mit Kunstausstellungen und prüfen Sie den Plan auf kostenlose Nachmittagsevents.",
+            "hu": "Fedezze fel Voula kulturális központját ebben a kiállításoknak otthont adó közösségi teremben, és keresse az ingyenes délutáni programokat.",
+            "ro": "Descoperiți inima culturală a Voulei în această sală comunitară ce găzduiește expoziții de artă, așa că verificați programul pentru evenimente gratuite.",
+            "en": "Discover Voula's cultural heart at this community hall which hosts art exhibits, so check the local schedule for free afternoon events."
+          }
+        },
+        {
+          "name": {
+            "de": "B' plaz Boulas",
+            "hu": "B' plaz Boulas",
+            "ro": "B' plaz Boulas",
+            "en": "B' plaz Boulas"
+          },
+          "coords": [
+            23.769174,
+            37.833927
+          ],
+          "category": "recreational",
+          "arrive_at": "11:26",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem organisierten Strand mit sauberem Sand und ruhigem Wasser und mieten Sie früh eine Liege für den besten Platz am Ufer.",
+            "hu": "Pihenjen ezen a tiszta homokjáról és nyugodt vizéről ismert kiépített strandon, de béreljen korán napágyat a legjobb vízparti helyért.",
+            "ro": "Relaxați-vă pe această plajă organizată, renumită pentru nisipul curat și apele calme, și închiriați un șezlong devreme pentru cel mai bun loc.",
+            "en": "Relax at this organized beach known for its clean sands and calm waters, and rent a sunbed early to secure the best spot by the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Nikolaos Pallon",
+            "hu": "Agios Nikolaos Pallon",
+            "ro": "Agios Nikolaos Pallon",
+            "en": "Agios Nikolaos Pallon"
+          },
+          "coords": [
+            23.772215,
+            37.831582
+          ],
+          "category": "historical",
+          "arrive_at": "13:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle byzantinische Architektur dieser friedlichen historischen Kirche und halten Sie beim Besuch respektvoll die Schultern bedeckt.",
+            "hu": "Csodálja meg e békés történelmi templom hagyományos bizánci építészetét, és a tisztelet jeléül feltétlenül tartsa eltakarva a vállait látogatáskor.",
+            "ro": "Admirați arhitectura tradițională bizantină a acestei biserici istorice pașnice și acoperiți-vă umerii cu respect în timpul vizitei.",
+            "en": "Admire the traditional Byzantine architecture of this peaceful historical church, and respectfully keep your shoulders covered during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Mikro Kavouri",
+            "hu": "Mikro Kavouri",
+            "ro": "Mikro Kavouri",
+            "en": "Mikro Kavouri"
+          },
+          "coords": [
+            23.770387,
+            37.829737
+          ],
+          "category": "recreational",
+          "arrive_at": "14:27",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie diesen malerischen Küstenstreifen entlang, der perfekt zum Schwimmen ist, und packen Sie Badeschuhe für den kiesigen Strand ein.",
+            "hu": "Sétáljon végig ezen a sekély vize miatt fürdőzésre tökéletes, festői partszakaszon, és vigyen magával vizicipőt a kavicsos részek miatt.",
+            "ro": "Plimbați-vă pe această coastă pitorească perfectă pentru înot în ape puțin adânci și luați încălțăminte de apă pentru a naviga confortabil pe pietricele.",
+            "en": "Stroll along this picturesque coastal stretch perfect for swimming in shallow waters, and pack water shoes to comfortably navigate the pebbles."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt mit kulturellen Einblicken im städtischen Theater und der nahen Aithousa Ionia. Mittags entspannen Sie an den Sandstränden der B' plaz Boulas und genießen die Meeresbrise. Der Nachmittag lädt zu einem Besuch des historischen Agios Nikolaos Pallon ein, bevor der Tag am Mikro Kavouri endet. Freuen Sie sich auf einen schönen Küstenabend.",
+        "hu": "A reggel kulturális betekintéssel indul a helyi színházban és a közeli Aithousa Ionia teremben. Délben a B' plaz Boulas homokos partjain pihenhet a tengeri szellőt élvezve. A délután a történelmi Agios Nikolaos Pallon meglátogatására invitál, mielőtt a nap egy békés sétával zárulna a Mikro Kavouri parton. Csodálatos tengerparti estére számíthat.",
+        "ro": "Dimineața începe cu perspective culturale la teatrul municipal local și la apropiata Aithousa Ionia. Până la prânz, vă veți relaxa pe malurile nisipoase de la B' plaz Boulas. După-amiaza invită la o vizită la istorica Agios Nikolaos Pallon înainte de a încheia ziua cu o plimbare liniștită la Mikro Kavouri. Așteptați-vă la o seară minunată de coastă.",
+        "en": "Your morning starts with cultural insights at the local municipal theater and the nearby Aithousa Ionia. By midday, you'll relax on the sandy shores of B' plaz Boulas, enjoying the sea breeze. The afternoon invites a visit to the historic Agios Nikolaos Pallon before ending the day with a peaceful stroll at Mikro Kavouri. Expect a beautiful coastal evening."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 4.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mikro Kavouri",
+            "hu": "Mikro Kavouri",
+            "ro": "Mikro Kavouri",
+            "en": "Mikro Kavouri"
+          },
+          "coords": [
+            23.770387,
+            37.829737
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie diesen malerischen Küstenstreifen entlang, der perfekt zum Schwimmen ist, und packen Sie Badeschuhe für den kiesigen Strand ein.",
+            "hu": "Sétáljon végig ezen a sekély vize miatt fürdőzésre tökéletes, festői partszakaszon, és vigyen magával vizicipőt a kavicsos részek miatt.",
+            "ro": "Plimbați-vă pe această coastă pitorească perfectă pentru înot în ape puțin adânci și luați încălțăminte de apă pentru a naviga confortabil pe pietricele.",
+            "en": "Stroll along this picturesque coastal stretch perfect for swimming in shallow waters, and pack water shoes to comfortably navigate the pebbles."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Nikolaos Pallon",
+            "hu": "Agios Nikolaos Pallon",
+            "ro": "Agios Nikolaos Pallon",
+            "en": "Agios Nikolaos Pallon"
+          },
+          "coords": [
+            23.772215,
+            37.831582
+          ],
+          "category": "historical",
+          "arrive_at": "10:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle byzantinische Architektur dieser friedlichen historischen Kirche und halten Sie beim Besuch respektvoll die Schultern bedeckt.",
+            "hu": "Csodálja meg e békés történelmi templom hagyományos bizánci építészetét, és a tisztelet jeléül feltétlenül tartsa eltakarva a vállait látogatáskor.",
+            "ro": "Admirați arhitectura tradițională bizantină a acestei biserici istorice pașnice și acoperiți-vă umerii cu respect în timpul vizitei.",
+            "en": "Admire the traditional Byzantine architecture of this peaceful historical church, and respectfully keep your shoulders covered during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Demotiko Theatro Boulas \"Sophia Bempo\"",
+            "hu": "Demotiko Theatro Boulas \"Sophia Bempo\"",
+            "ro": "Demotiko Theatro Boulas \"Sophia Bempo\"",
+            "en": "Demotiko Theatro Boulas \"Sophia Bempo\""
+          },
+          "coords": [
+            23.760061,
+            37.839745
+          ],
+          "category": "cultural",
+          "arrive_at": "12:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Genießen Sie eine Aufführung in diesem Sophia Bempo gewidmeten Stadttheater, aber buchen Sie Ihre Tickets unbedingt rechtzeitig online im Voraus.",
+            "hu": "Nézzen meg egy helyi előadást a Sophia Bemponak szentelt városi színházban, de érdemes a jegyeket előre lefoglalni az interneten.",
+            "ro": "Bucurați-vă de o reprezentație la acest teatru municipal dedicat Sophiei Bempo, dar asigurați-vă că vă rezervați biletele în avans online.",
+            "en": "Enjoy a local performance at this intimate municipal theater dedicated to Sophia Bempo, but make sure to book your tickets in advance online."
+          }
+        },
+        {
+          "name": {
+            "de": "Antiaeroporiko kataphugio PIKPA",
+            "hu": "Antiaeroporiko kataphugio PIKPA",
+            "ro": "Antiaeroporiko kataphugio PIKPA",
+            "en": "Antiaeroporiko kataphugio PIKPA"
+          },
+          "coords": [
+            23.745941,
+            37.851297
+          ],
+          "category": "landmark",
+          "arrive_at": "13:19",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen faszinierenden Flakbunker aus dem Zweiten Weltkrieg, der lokale Geschichte zeigt, aber bringen Sie eine Taschenlampe für dunkle Stellen mit.",
+            "hu": "Fedezze fel ezt a lenyűgöző második világháborús légvédelmi óvóhelyet, amely bemutatja a helyi történelmet, de vigyen magával zseblámpát a sötétebb részekhez.",
+            "ro": "Explorați acest adăpost antiaerian fascinant din Al Doilea Război Mondial, dar aduceți o lanternă pentru a naviga prin porțiunile mai întunecate.",
+            "en": "Explore this fascinating World War II anti-aircraft shelter that offers a glimpse into local history, but bring a flashlight for the darker spots."
+          }
+        },
+        {
+          "name": {
+            "de": "Palaiokhristianike basilike tou 5ou aiona",
+            "hu": "Palaiokhristianike basilike tou 5ou aiona",
+            "ro": "Palaiokhristianike basilike tou 5ou aiona",
+            "en": "Palaiokhristianike basilike tou 5ou aiona"
+          },
+          "coords": [
+            23.749943,
+            37.860082
+          ],
+          "category": "historical",
+          "arrive_at": "13:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Reisen Sie bei diesen frühchristlichen Basilika-Ruinen aus dem 5. Jahrhundert in die Vergangenheit und kommen Sie morgens für das beste Fotolicht.",
+            "hu": "Lépjen vissza az időben ezen az 5. századi ókeresztény bazilika romjainál, és érkezzen a kora reggeli órákban a legjobb fényképészeti fényekért.",
+            "ro": "Călătoriți în timp la aceste ruine ale bazilicii creștine din secolul V pentru a vedea arhitectura timpurie și vizitați dimineața pentru cea mai bună lumină.",
+            "en": "Step back in time at these 5th-century Christian basilica ruins to see early architectural layouts, and visit in the morning for the best photography light."
+          }
+        },
+        {
+          "name": {
+            "de": "Paralia Gluphadas Akte D",
+            "hu": "Paralia Gluphadas Akte D",
+            "ro": "Paralia Gluphadas Akte D",
+            "en": "Paralia Gluphadas Akte D"
+          },
+          "coords": [
+            23.747757,
+            37.860771
+          ],
+          "category": "recreational",
+          "arrive_at": "15:11",
+          "stay_min": 120,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spannen Sie in dieser belebten Küstengegend mit vielen Cafés am Meer aus, also kommen Sie vor Sonnenuntergang, um einen Cocktail bei lebhafter Atmosphäre zu genießen.",
+            "hu": "Kapcsolódjon ki ezen a tengerparti kávézókkal teli, nyüzsgő partszakaszon, ezért érkezzen naplemente előtt, hogy egy koktél mellett élvezze az estét.",
+            "ro": "Relaxați-vă în această zonă de coastă animată, plină de cafenele pe malul mării, așa că ajungeți înainte de apus pentru a savura un cocktail.",
+            "en": "Unwind at this bustling coastal area filled with seaside cafes, so arrive before sunset to grab a cocktail and enjoy the vibrant evening atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour am malerischen Mikro Kavouri und radeln Sie zur nahen Kirche Agios Nikolaos. Mittags geht es am kulturellen Zentrum Voulas vorbei zum faszinierenden PIKPA-Bunker. Entdecken Sie am Nachmittag die beeindruckenden frühchristlichen Basilika-Ruinen. Ihr Radabenteuer endet an der lebhaften Küste von Glyfada.",
+        "hu": "Kezdje a biciklizést a festői Mikro Kavouri partján, majd tekerjen a közeli Agios Nikolaos templomhoz. A déli szakasz Voula kulturális központján át a lenyűgöző PIKPA bunkerhez vezet. Délután fedezze fel a lenyűgöző 5. századi bazilika romjait. A kerékpáros kaland Glyfada nyüzsgő partvidékén, naplementével zárul.",
+        "ro": "Începeți plimbarea la pitorescul Mikro Kavouri și pedalați către biserica Agios Nikolaos. Traseul de prânz vă poartă pe lângă inima culturală a Voulei spre fascinantul adăpost PIKPA. După-amiaza, descoperiți impresionantele ruine ale bazilicii creștine din secolul V. Aventura cu bicicleta se încheie de-a lungul coastei pline de viață a Glyfadei.",
+        "en": "Kick off your ride at the scenic Mikro Kavouri and pedal to the nearby Agios Nikolaos church. The midday stretch takes you past Voula's cultural heart towards the fascinating PIKPA World War II shelter. In the afternoon, discover the impressive 5th-century Christian basilica ruins. Your cycling adventure concludes along the lively coast of Glyfada."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:24",
+      "total_km": 8.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Arkhaiologikos Khoros Boulas Ktema Kalampoka",
+            "hu": "Arkhaiologikos Khoros Boulas Ktema Kalampoka",
+            "ro": "Arkhaiologikos Khoros Boulas Ktema Kalampoka",
+            "en": "Arkhaiologikos Khoros Boulas Ktema Kalampoka"
+          },
+          "coords": [
+            23.783575,
+            37.834979
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie antike hellenistische Fundamente an dieser bedeutenden Ausgrabungsstätte und lesen Sie vorab die Informationstafeln am Eingang.",
+            "hu": "Fedezze fel az ősi hellenisztikus alapokat ezen a fontos régészeti lelőhelyen, és mielőtt beljebb menne, feltétlenül olvassa el a bejárati információs táblákat.",
+            "ro": "Descoperiți fundațiile elenistice antice la acest important sit arheologic și citiți plăcile informative de la intrare înainte de a explora mai departe.",
+            "en": "Discover ancient Hellenistic foundations at this important archaeological site, and read the informational plaques at the entrance before exploring further."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Nikolaos Pallon",
+            "hu": "Agios Nikolaos Pallon",
+            "ro": "Agios Nikolaos Pallon",
+            "en": "Agios Nikolaos Pallon"
+          },
+          "coords": [
+            23.772215,
+            37.831582
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle byzantinische Architektur dieser friedlichen historischen Kirche und halten Sie beim Besuch respektvoll die Schultern bedeckt.",
+            "hu": "Csodálja meg e békés történelmi templom hagyományos bizánci építészetét, és a tisztelet jeléül feltétlenül tartsa eltakarva a vállait látogatáskor.",
+            "ro": "Admirați arhitectura tradițională bizantină a acestei biserici istorice pașnice și acoperiți-vă umerii cu respect în timpul vizitei.",
+            "en": "Admire the traditional Byzantine architecture of this peaceful historical church, and respectfully keep your shoulders covered during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Antiaeroporiko kataphugio PIKPA",
+            "hu": "Antiaeroporiko kataphugio PIKPA",
+            "ro": "Antiaeroporiko kataphugio PIKPA",
+            "en": "Antiaeroporiko kataphugio PIKPA"
+          },
+          "coords": [
+            23.745941,
+            37.851297
+          ],
+          "category": "landmark",
+          "arrive_at": "11:59",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen faszinierenden Flakbunker aus dem Zweiten Weltkrieg, der lokale Geschichte zeigt, aber bringen Sie eine Taschenlampe für dunkle Stellen mit.",
+            "hu": "Fedezze fel ezt a lenyűgöző második világháborús légvédelmi óvóhelyet, amely bemutatja a helyi történelmet, de vigyen magával zseblámpát a sötétebb részekhez.",
+            "ro": "Explorați acest adăpost antiaerian fascinant din Al Doilea Război Mondial, dar aduceți o lanternă pentru a naviga prin porțiunile mai întunecate.",
+            "en": "Explore this fascinating World War II anti-aircraft shelter that offers a glimpse into local history, but bring a flashlight for the darker spots."
+          }
+        },
+        {
+          "name": {
+            "de": "Gkaleri tou Notou",
+            "hu": "Gkaleri tou Notou",
+            "ro": "Gkaleri tou Notou",
+            "en": "Gkaleri tou Notou"
+          },
+          "coords": [
+            23.74939,
+            37.862954
+          ],
+          "category": "museum",
+          "arrive_at": "12:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in dieser eleganten Galerie in zeitgenössische griechische Kunst ein und fragen Sie die Kuratoren nach den aktuellen Wechselausstellungen.",
+            "hu": "Merüljön el a kortárs görög művészetben ebben az elegáns déli galériában, és kérdezze a hozzáértő kurátorokat az aktuális időszaki kiállításokról.",
+            "ro": "Cufundați-vă în arta contemporană greacă la această elegantă galerie sudică și întrebați curatorii despre expozițiile temporare actuale.",
+            "en": "Immerse yourself in contemporary Greek art at this elegant southern gallery, and ask the knowledgeable curators about the current rotating exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Aixone",
+            "hu": "Aixone",
+            "ro": "Aixone",
+            "en": "Aixone"
+          },
+          "coords": [
+            23.77226,
+            37.856796
+          ],
+          "category": "landmark",
+          "arrive_at": "14:12",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die Überreste des antiken Demos Aixone, um das klassische Athener Leben zu verstehen, und tragen Sie feste Schuhe für das unebene Gelände.",
+            "hu": "Sétáljon végig az ókori Aixóné démosz maradványain az athéni élet megismeréséhez, és viseljen masszív cipőt az egyenetlen terep miatt.",
+            "ro": "Plimbați-vă prin rămășițele vechiului dem Aixone pentru a înțelege viața ateniană clasică și purtați încălțăminte rezistentă pentru terenul accidentat.",
+            "en": "Walk through the remnants of the ancient deme of Aixone to understand classical Athenian life, and wear sturdy shoes for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Mpalkoni Gluphadas",
+            "hu": "Mpalkoni Gluphadas",
+            "ro": "Mpalkoni Gluphadas",
+            "en": "Mpalkoni Gluphadas"
+          },
+          "coords": [
+            23.771893,
+            37.863619
+          ],
+          "category": "natural",
+          "arrive_at": "14:39",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den spektakulären Panoramablick auf den Saronischen Golf von diesem natürlichen Balkon, der perfekte letzte Halt für atemberaubende Sonnenuntergangsfotos.",
+            "hu": "Élvezze a lenyűgöző panorámát a Szaróni-öbölre erről a természetes erkélyről, amely tökéletes utolsó megálló a lélegzetelállító naplementés fotókhoz.",
+            "ro": "Bucurați-vă de vederi panoramice spectaculoase asupra Golfului Saronic de la acest balcon natural, fiind oprirea finală perfectă pentru fotografii la apus.",
+            "en": "Enjoy spectacular panoramic views of the Saronic Gulf from this natural balcony, making it the perfect final stop for breathtaking sunset photographs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zu den antiken Kalampoka-Ruinen und zum historischen Agios Nikolaos. Mittags erreichen Sie den PIKPA-Bunker und die elegante Galerie des Südens. Der Nachmittag ist für die Erkundung der klassischen Ausgrabungsstätte Aixone reserviert. Fahren Sie schließlich zum Balkon von Glyfada für einen unvergesslichen Sonnenuntergang.",
+        "hu": "Indítsa a reggelt az ősi Kalampoka birtok romjainál és a történelmi Agios Nikolaosnál. A dél a második világháborús PIKPA bunkerhez és az elegáns Déli Galériához vezet. A délután a klasszikus Aixóné területének felfedezéséé. Végül vezessen fel a Glyfada Erkélyére egy felejthetetlen, panorámás naplementés élményért.",
+        "ro": "Începeți dimineața conducând spre ruinele anticei moșii Kalampoka și istorica Agios Nikolaos. Prânzul vă aduce la adăpostul PIKPA și la eleganta Galerie a Sudului. După-amiaza este rezervată explorării sitului clasic Aixone. La final, conduceți spre Balconul Glyfadei pentru o panoramă de neuitat la apus.",
+        "en": "Start your morning driving to the ancient Kalampoka estate ruins and the historic Agios Nikolaos. Midday brings you to the WWII PIKPA shelter and the elegant Gallery of the South. Your afternoon is reserved for exploring the classical Aixone site. Finally, drive up to the Balcony of Glyfada for an unforgettable panoramic sunset view."
+      }
+    }
+  }
+}

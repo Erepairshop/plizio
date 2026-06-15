@@ -1,0 +1,451 @@
+{
+  "city_id": "turkey-alanya-cities-v2",
+  "anchor": {
+    "name": "Alanya",
+    "coords": [
+      31.999722,
+      36.543611
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:05",
+      "total_km": 0.68,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Damlataş plajı",
+            "hu": "Damlataş plajı",
+            "ro": "Damlataş plajı",
+            "en": "Damlataş plajı"
+          },
+          "coords": [
+            31.988219,
+            36.541727
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem makellosen Sandstrand nahe der berühmten Höhle und mieten Sie Ihre Sonnenliege frühzeitig vor dem großen Mittagstrubel.",
+            "hu": "Pihenjen ezen a híres barlanghoz közeli, makulátlan homokos partszakaszon, és béreljen napágyat korán, mielőtt megérkezne a déli tömeg a napozáshoz.",
+            "ro": "Relaxați-vă pe această întindere de nisip imaculat lângă celebra peșteră și asigurați-vă că închiriați șezlongul devreme pentru a evita aglomerația.",
+            "en": "Relax on this pristine sandy stretch near the famous cave, and remember to rent your sunbed early before the midday crowds arrive for prime sunbathing."
+          }
+        },
+        {
+          "name": {
+            "de": "Kleopatra plajı 1",
+            "hu": "Kleopatra plajı 1",
+            "ro": "Kleopatra plajı 1",
+            "en": "Kleopatra plajı 1"
+          },
+          "coords": [
+            31.987172,
+            36.542579
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Genießen Sie das kristallklare Wasser dieses legendären Strandabschnitts, aber achten Sie beim Schwimmen mit kleinen Kindern auf plötzliche Tiefen.",
+            "hu": "Élvezze a kristálytiszta vizet ezen a legendás strandszakaszon, de legyen óvatos a hirtelen mélyülő víz miatt, különösen ha kisgyermekekkel úszik.",
+            "ro": "Bucurați-vă de apele cristaline ale acestei secțiuni de plajă legendare, dar fiți atenți la adâncimea apei care crește brusc dacă înotați cu copiii.",
+            "en": "Enjoy the crystal-clear waters of this legendary beach section, but be mindful of the sudden drops in water depth when swimming with small children."
+          }
+        },
+        {
+          "name": {
+            "de": "Kleopatra plajı 3",
+            "hu": "Kleopatra plajı 3",
+            "ro": "Kleopatra plajı 3",
+            "en": "Kleopatra plajı 3"
+          },
+          "coords": [
+            31.986034,
+            36.54349
+          ],
+          "category": "recreational",
+          "arrive_at": "11:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Nehmen Sie ein erfrischendes Bad in den türkisfarbenen Wellen und halten Sie türkische Lira für kühle Getränke an den nahegelegenen Kiosken bereit.",
+            "hu": "Mártózzon meg a türkizkék hullámokban ezen a népszerű helyen, és tartson magánál török lírát a közeli strandkioszkokból származó frissítő italokhoz.",
+            "ro": "Faceți o baie revigorantă în valurile turcoaz din acest loc popular și păstrați lire turcești la îndemână pentru băuturi de la chioșcurile din apropiere.",
+            "en": "Take a refreshing dip in the turquoise waves at this popular spot, and keep some Turkish lira handy for refreshing drinks from the nearby beach kiosks."
+          }
+        },
+        {
+          "name": {
+            "de": "Kleopatra plajı 5",
+            "hu": "Kleopatra plajı 5",
+            "ro": "Kleopatra plajı 5",
+            "en": "Kleopatra plajı 5"
+          },
+          "coords": [
+            31.984732,
+            36.544719
+          ],
+          "category": "recreational",
+          "arrive_at": "13:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Erleben Sie hier die perfekte Mischung aus weichem Sand und sanfter Brise, wobei es ratsam ist, eigene Schnorchelausrüstung für kleine Fische mitzubringen.",
+            "hu": "Tapasztalja meg a puha homok és a lágy szellő tökéletes keverékét itt, bár erősen ajánlott saját búvárfelszerelést hozni a kis halak megfigyeléséhez.",
+            "ro": "Experimentați amestecul perfect de nisip fin și briză ușoară aici, deși este recomandat să aduceți propriul echipament de snorkeling pentru a vedea pești.",
+            "en": "Experience the perfect blend of soft sand and gentle breeze here, though bringing your own snorkeling gear is highly recommended to spot small fish."
+          }
+        },
+        {
+          "name": {
+            "de": "Kleopatra plajı 7",
+            "hu": "Kleopatra plajı 7",
+            "ro": "Kleopatra plajı 7",
+            "en": "Kleopatra plajı 7"
+          },
+          "coords": [
+            31.983187,
+            36.545972
+          ],
+          "category": "recreational",
+          "arrive_at": "14:20",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie auf dem goldenen Sand dieses lebhaften Abschnitts und bleiben Sie bis zum späten Nachmittag, um atemberaubende Sonnenuntergänge zu fotografieren.",
+            "hu": "Pihenjen meg ezen az élénk partszakaszon az aranyhomokon, és érdemes késő délutánig maradni, hogy lenyűgöző fotókat készíthessen a mediterrán naplementéről.",
+            "ro": "Relaxați-vă pe nisipurile aurii din această secțiune plină de viață și luați în considerare să rămâneți până târziu pentru a fotografia apusul mediteranean.",
+            "en": "Unwind on the golden sands of this lively section, and consider staying until late afternoon to capture stunning photographs of the Mediterranean sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren sonnenverwöhnten Morgen in Alanya mit dem ruhigen, glitzernden Wasser an den östlichen Abschnitten des Kleopatra-Strandes. Die Morgensonne wärmt den goldenen Sand und bietet ideale Bedingungen für ein entspanntes Schwimmen.\nGegen Mittag zieht das Leben an der Küste spürbar an. Die lebhaften Strandbars füllen sich und die mediterrane Hitze lädt dazu ein, sich ein kühles Getränk zu gönnen und die pulsierende Atmosphäre am Mittelmeer in vollen Zügen zu genießen.\nAm Nachmittag können Sie die endlosen Weiten dieser legendären Küste weiter erkunden. Eine sanfte Meeresbrise bietet eine willkommene Abkühlung, perfekt um nach bunten Steinen zu suchen oder die vorbeiziehenden Boote am Horizont zu beobachten.\nLassen Sie den Tag an den westlichen Strandabschnitten oder in einem lebhaften Strandclub ausklingen. Der Himmel verwandelt sich in ein leuchtendes Farbenmeer aus Orange und Pink und bietet ein atemberaubendes Finale für Ihren perfekten Strandtag.",
+        "hu": "Kezdje a napsütötte alanyai reggelt a Kleopátra-strand keleti szakaszainak nyugodt, szikrázó vizénél. A reggeli nap finoman felmelegíti az aranyhomokot, ami tökéletes környezetet teremt egy pihentető úszáshoz, még a tömeg megérkezése előtt.\nAhogy közeledik a dél, merészkedjen egy kicsit tovább a parton. Az energia fokozódik az élénk strandbárokkal és a mediterrán hőséget élvező utazókkal. Ez az ideális alkalom egy frissítő ital elfogyasztására és a pezsgő partvidéki hangulat befogadására.\nDélután folytassa ennek a legendás partvonalnak a felfedezését. A finom tengeri szellő kellemes felfrissülést nyújt a napsütésben, így ez egy nagyszerű időszak a színes kavicsok keresgélésére vagy a távoli hajók megfigyelésére.\nZárja a napot a strand legnyugatibb részén vagy egy nyüzsgő strandklubban, amikor a nap lenyugszik. Az égbolt narancssárga és rózsaszín ragyogó vászonná változik, lélegzetelállító finálét nyújtva a tökéletes török riviérai tengerparti naphoz.",
+        "ro": "Începeți dimineața însorită din Alanya cu apele calme și strălucitoare de pe întinderile estice ale plajei Cleopatra. Soarele dimineții încălzește ușor nisipul auriu, creând un mediu perfect pentru o înotare relaxantă înainte de sosirea mulțimilor.\nLa apropierea amiezii, aventurați-vă puțin mai departe de-a lungul coastei. Energia crește odată cu barurile pline de viață de pe plajă. Acesta este momentul ideal pentru a savura o băutură răcoritoare și a vă bucura de atmosfera vibrantă a Mediteranei.\nDupă-amiaza, continuați să explorați întinderile nesfârșite ale acestui țărm legendar. Briza subtilă a mării oferă un răgaz binevenit de la soare, fiind un moment excelent pentru a căuta pietricele colorate sau a privi bărcile îndepărtate.\nÎncheiați ziua în părțile vestice ale plajei sau într-un club plin de viață, pe măsură ce soarele apune. Cerul se transformă într-o pânză strălucitoare de portocaliu și roz, oferind un final uluitor pentru o zi perfectă pe Riviera Turcească.",
+        "en": "Start your sun-drenched Alanya morning with the calm, sparkling waters on the eastern stretches of Cleopatra Beach. The morning sun gently warms the golden sand, creating a perfect environment for a relaxing swim before the crowds arrive.\nAs midday approaches, venture slightly further along the coast. The energy picks up with lively beach bars and fellow travelers enjoying the Mediterranean heat. This is the ideal time to grab a refreshing drink and soak in the vibrant coastal atmosphere.\nIn the afternoon, continue exploring the endless stretches of this legendary shoreline. The subtle sea breeze offers a welcome respite from the sun, making it a great time to hunt for colorful pebbles or simply watch the distant boats glide by.\nConclude your day at the westernmost parts of the beach or a lively beach club as the sun begins to set. The sky transforms into a brilliant canvas of orange and pink, providing a breathtaking finale to your ultimate Turkish Riviera beach day."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 5.55,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Damlataş plajı",
+            "hu": "Damlataş plajı",
+            "ro": "Damlataş plajı",
+            "en": "Damlataş plajı"
+          },
+          "coords": [
+            31.988219,
+            36.541727
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem makellosen Sandstrand nahe der berühmten Höhle und mieten Sie Ihre Sonnenliege frühzeitig vor dem großen Mittagstrubel.",
+            "hu": "Pihenjen ezen a híres barlanghoz közeli, makulátlan homokos partszakaszon, és béreljen napágyat korán, mielőtt megérkezne a déli tömeg a napozáshoz.",
+            "ro": "Relaxați-vă pe această întindere de nisip imaculat lângă celebra peșteră și asigurați-vă că închiriați șezlongul devreme pentru a evita aglomerația.",
+            "en": "Relax on this pristine sandy stretch near the famous cave, and remember to rent your sunbed early before the midday crowds arrive for prime sunbathing."
+          }
+        },
+        {
+          "name": {
+            "de": "Kleopatra plajı 3",
+            "hu": "Kleopatra plajı 3",
+            "ro": "Kleopatra plajı 3",
+            "en": "Kleopatra plajı 3"
+          },
+          "coords": [
+            31.986034,
+            36.54349
+          ],
+          "category": "recreational",
+          "arrive_at": "10:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Nehmen Sie ein erfrischendes Bad in den türkisfarbenen Wellen und halten Sie türkische Lira für kühle Getränke an den nahegelegenen Kiosken bereit.",
+            "hu": "Mártózzon meg a türkizkék hullámokban ezen a népszerű helyen, és tartson magánál török lírát a közeli strandkioszkokból származó frissítő italokhoz.",
+            "ro": "Faceți o baie revigorantă în valurile turcoaz din acest loc popular și păstrați lire turcești la îndemână pentru băuturi de la chioșcurile din apropiere.",
+            "en": "Take a refreshing dip in the turquoise waves at this popular spot, and keep some Turkish lira handy for refreshing drinks from the nearby beach kiosks."
+          }
+        },
+        {
+          "name": {
+            "de": "Palmiye Hotel plajı",
+            "hu": "Palmiye Hotel plajı",
+            "ro": "Palmiye Hotel plajı",
+            "en": "Palmiye Hotel plajı"
+          },
+          "coords": [
+            31.980278,
+            36.548167
+          ],
+          "category": "recreational",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die erstklassige Atmosphäre dieses gut gepflegten Küstenabschnitts und nutzen Sie den hervorragenden Strandservice für ein entspanntes Mittagessen.",
+            "hu": "Élvezze a prémium atmoszférát ezen a jól karbantartott partszakaszon, és használja ki a kiváló tengerparti szolgáltatást egy stresszmentes ebédhez.",
+            "ro": "Bucurați-vă de atmosfera premium a acestei zone de coastă bine întreținute și profitați de serviciile excelente de pe plajă pentru un prânz relaxant.",
+            "en": "Bask in the premium atmosphere of this well-maintained coastal stretch, and take advantage of the excellent beachfront service for a stress-free lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Kleopatra plajı 16",
+            "hu": "Kleopatra plajı 16",
+            "ro": "Kleopatra plajı 16",
+            "en": "Kleopatra plajı 16"
+          },
+          "coords": [
+            31.976921,
+            36.550844
+          ],
+          "category": "recreational",
+          "arrive_at": "13:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Spazieren Sie an der Wasserlinie dieses malerischen Ortes, um Steine zu sammeln, und tragen Sie Badeschuhe, um Ihre Füße vor dem heißen Sand zu schützen.",
+            "hu": "Sétáljon e festői hely vízvonala mentén egyedi kavicsokat gyűjtve, és viseljen kényelmes vízi cipőt, hogy megvédje lábát a rendkívül forró felülettől.",
+            "ro": "Plimbați-vă de-a lungul apei în acest loc pitoresc pentru a colecta pietricele și purtați încălțăminte de apă pentru a vă proteja picioarele de nisipul fierbinte.",
+            "en": "Stroll along the waterline of this scenic spot to collect unique pebbles, and wear comfortable water shoes to protect your feet from the hot surface."
+          }
+        },
+        {
+          "name": {
+            "de": "Kleopatra plajı 21",
+            "hu": "Kleopatra plajı 21",
+            "ro": "Kleopatra plajı 21",
+            "en": "Kleopatra plajı 21"
+          },
+          "coords": [
+            31.972356,
+            36.553625
+          ],
+          "category": "recreational",
+          "arrive_at": "14:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Erwischen Sie die aufregenden Wellen, die sich oft an diesem westlichen Abschnitt bilden, ideal zum Bodyboarden, wenn Sie ein Brett vor Ort mieten.",
+            "hu": "Kapja el az izgalmas hullámokat, amelyek ezen a nyugati szakaszon alakulnak ki, és tökéletesek a bodyboardozáshoz, ha bérel egy deszkát a helyiektől.",
+            "ro": "Prindeți valurile palpitante care se formează adesea de-a lungul acestei secțiuni vestice, ideală pentru bodyboarding dacă închiriați o placă de la localnici.",
+            "en": "Catch the thrilling waves that often form along this western section, which is ideal for bodyboarding if you rent a board from the local vendors."
+          }
+        },
+        {
+          "name": {
+            "de": "Anjeliq Beach",
+            "hu": "Anjeliq Beach",
+            "ro": "Anjeliq Beach",
+            "en": "Anjeliq Beach"
+          },
+          "coords": [
+            32.010585,
+            36.543275
+          ],
+          "category": "recreational",
+          "arrive_at": "15:55",
+          "stay_min": 105,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Tanzen Sie zu energiegeladenen Beats und genießen Sie die Strandclub-Atmosphäre hier, aber stellen Sie sich auf etwas höhere Preise für Cocktails ein.",
+            "hu": "Táncoljon az energikus ritmusokra és élvezze a pezsgő strandklub hangulatot itt, de készüljön fel a koktélok és rágcsálnivalók valamivel magasabb árára.",
+            "ro": "Dansați pe ritmuri energice și bucurați-vă de atmosfera vibrantă a clubului de plajă aici, dar pregătiți-vă pentru prețuri puțin mai mari la cocktailuri.",
+            "en": "Dance to the energetic beats and enjoy the vibrant beach club atmosphere here, but be prepared for slightly higher prices for cocktails and snacks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren sonnenverwöhnten Morgen in Alanya mit dem ruhigen, glitzernden Wasser an den östlichen Abschnitten des Kleopatra-Strandes. Die Morgensonne wärmt den goldenen Sand und bietet ideale Bedingungen für ein entspanntes Schwimmen.\nGegen Mittag zieht das Leben an der Küste spürbar an. Die lebhaften Strandbars füllen sich und die mediterrane Hitze lädt dazu ein, sich ein kühles Getränk zu gönnen und die pulsierende Atmosphäre am Mittelmeer in vollen Zügen zu genießen.\nAm Nachmittag können Sie die endlosen Weiten dieser legendären Küste weiter erkunden. Eine sanfte Meeresbrise bietet eine willkommene Abkühlung, perfekt um nach bunten Steinen zu suchen oder die vorbeiziehenden Boote am Horizont zu beobachten.\nLassen Sie den Tag an den westlichen Strandabschnitten oder in einem lebhaften Strandclub ausklingen. Der Himmel verwandelt sich in ein leuchtendes Farbenmeer aus Orange und Pink und bietet ein atemberaubendes Finale für Ihren perfekten Strandtag.",
+        "hu": "Kezdje a napsütötte alanyai reggelt a Kleopátra-strand keleti szakaszainak nyugodt, szikrázó vizénél. A reggeli nap finoman felmelegíti az aranyhomokot, ami tökéletes környezetet teremt egy pihentető úszáshoz, még a tömeg megérkezése előtt.\nAhogy közeledik a dél, merészkedjen egy kicsit tovább a parton. Az energia fokozódik az élénk strandbárokkal és a mediterrán hőséget élvező utazókkal. Ez az ideális alkalom egy frissítő ital elfogyasztására és a pezsgő partvidéki hangulat befogadására.\nDélután folytassa ennek a legendás partvonalnak a felfedezését. A finom tengeri szellő kellemes felfrissülést nyújt a napsütésben, így ez egy nagyszerű időszak a színes kavicsok keresgélésére vagy a távoli hajók megfigyelésére.\nZárja a napot a strand legnyugatibb részén vagy egy nyüzsgő strandklubban, amikor a nap lenyugszik. Az égbolt narancssárga és rózsaszín ragyogó vászonná változik, lélegzetelállító finálét nyújtva a tökéletes török riviérai tengerparti naphoz.",
+        "ro": "Începeți dimineața însorită din Alanya cu apele calme și strălucitoare de pe întinderile estice ale plajei Cleopatra. Soarele dimineții încălzește ușor nisipul auriu, creând un mediu perfect pentru o înotare relaxantă înainte de sosirea mulțimilor.\nLa apropierea amiezii, aventurați-vă puțin mai departe de-a lungul coastei. Energia crește odată cu barurile pline de viață de pe plajă. Acesta este momentul ideal pentru a savura o băutură răcoritoare și a vă bucura de atmosfera vibrantă a Mediteranei.\nDupă-amiaza, continuați să explorați întinderile nesfârșite ale acestui țărm legendar. Briza subtilă a mării oferă un răgaz binevenit de la soare, fiind un moment excelent pentru a căuta pietricele colorate sau a privi bărcile îndepărtate.\nÎncheiați ziua în părțile vestice ale plajei sau într-un club plin de viață, pe măsură ce soarele apune. Cerul se transformă într-o pânză strălucitoare de portocaliu și roz, oferind un final uluitor pentru o zi perfectă pe Riviera Turcească.",
+        "en": "Start your sun-drenched Alanya morning with the calm, sparkling waters on the eastern stretches of Cleopatra Beach. The morning sun gently warms the golden sand, creating a perfect environment for a relaxing swim before the crowds arrive.\nAs midday approaches, venture slightly further along the coast. The energy picks up with lively beach bars and fellow travelers enjoying the Mediterranean heat. This is the ideal time to grab a refreshing drink and soak in the vibrant coastal atmosphere.\nIn the afternoon, continue exploring the endless stretches of this legendary shoreline. The subtle sea breeze offers a welcome respite from the sun, making it a great time to hunt for colorful pebbles or simply watch the distant boats glide by.\nConclude your day at the westernmost parts of the beach or a lively beach club as the sun begins to set. The sky transforms into a brilliant canvas of orange and pink, providing a breathtaking finale to your ultimate Turkish Riviera beach day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:21",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Anjeliq Beach",
+            "hu": "Anjeliq Beach",
+            "ro": "Anjeliq Beach",
+            "en": "Anjeliq Beach"
+          },
+          "coords": [
+            32.010585,
+            36.543275
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Tanzen Sie zu energiegeladenen Beats und genießen Sie die Strandclub-Atmosphäre hier, aber stellen Sie sich auf etwas höhere Preise für Cocktails ein.",
+            "hu": "Táncoljon az energikus ritmusokra és élvezze a pezsgő strandklub hangulatot itt, de készüljön fel a koktélok és rágcsálnivalók valamivel magasabb árára.",
+            "ro": "Dansați pe ritmuri energice și bucurați-vă de atmosfera vibrantă a clubului de plajă aici, dar pregătiți-vă pentru prețuri puțin mai mari la cocktailuri.",
+            "en": "Dance to the energetic beats and enjoy the vibrant beach club atmosphere here, but be prepared for slightly higher prices for cocktails and snacks."
+          }
+        },
+        {
+          "name": {
+            "de": "Damlataş plajı",
+            "hu": "Damlataş plajı",
+            "ro": "Damlataş plajı",
+            "en": "Damlataş plajı"
+          },
+          "coords": [
+            31.988219,
+            36.541727
+          ],
+          "category": "recreational",
+          "arrive_at": "10:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem makellosen Sandstrand nahe der berühmten Höhle und mieten Sie Ihre Sonnenliege frühzeitig vor dem großen Mittagstrubel.",
+            "hu": "Pihenjen ezen a híres barlanghoz közeli, makulátlan homokos partszakaszon, és béreljen napágyat korán, mielőtt megérkezne a déli tömeg a napozáshoz.",
+            "ro": "Relaxați-vă pe această întindere de nisip imaculat lângă celebra peșteră și asigurați-vă că închiriați șezlongul devreme pentru a evita aglomerația.",
+            "en": "Relax on this pristine sandy stretch near the famous cave, and remember to rent your sunbed early before the midday crowds arrive for prime sunbathing."
+          }
+        },
+        {
+          "name": {
+            "de": "Kleopatra plajı 7",
+            "hu": "Kleopatra plajı 7",
+            "ro": "Kleopatra plajı 7",
+            "en": "Kleopatra plajı 7"
+          },
+          "coords": [
+            31.983187,
+            36.545972
+          ],
+          "category": "recreational",
+          "arrive_at": "11:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie auf dem goldenen Sand dieses lebhaften Abschnitts und bleiben Sie bis zum späten Nachmittag, um atemberaubende Sonnenuntergänge zu fotografieren.",
+            "hu": "Pihenjen meg ezen az élénk partszakaszon az aranyhomokon, és érdemes késő délutánig maradni, hogy lenyűgöző fotókat készíthessen a mediterrán naplementéről.",
+            "ro": "Relaxați-vă pe nisipurile aurii din această secțiune plină de viață și luați în considerare să rămâneți până târziu pentru a fotografia apusul mediteranean.",
+            "en": "Unwind on the golden sands of this lively section, and consider staying until late afternoon to capture stunning photographs of the Mediterranean sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Kleopatra plajı 14",
+            "hu": "Kleopatra plajı 14",
+            "ro": "Kleopatra plajı 14",
+            "en": "Kleopatra plajı 14"
+          },
+          "coords": [
+            31.978187,
+            36.550016
+          ],
+          "category": "recreational",
+          "arrive_at": "13:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Strandkultur in diesem belebten Bereich, aber tragen Sie während der intensiven Mittagshitze reichlich wasserfeste Sonnencreme auf.",
+            "hu": "Szívja magába a nyüzsgő strandkultúrát ezen a forgalmas területen, de ügyeljen arra, hogy sok vízálló fényvédőt használjon az intenzív déli hőségben.",
+            "ro": "Impregnați-vă de cultura vibrantă a plajei din această zonă aglomerată, dar asigurați-vă că aplicați multă cremă de protecție solară în timpul căldurii amiezii.",
+            "en": "Soak up the vibrant beach culture in this bustling area, but make sure to apply plenty of water-resistant sunscreen during the intense midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Kleopatra plajı 18",
+            "hu": "Kleopatra plajı 18",
+            "ro": "Kleopatra plajı 18",
+            "en": "Kleopatra plajı 18"
+          },
+          "coords": [
+            31.975545,
+            36.551723
+          ],
+          "category": "recreational",
+          "arrive_at": "14:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie von diesem ruhigen Abschnitt aus die weite Aussicht auf die Burg, was ihn zu einem perfekten Ort macht, um ein gutes Buch zu lesen.",
+            "hu": "Csodálja meg a várra nyíló pazar kilátást erről a nyugodt szakaszról, amely tökéletes hely arra, hogy leterítse törölközőjét és olvasson egy jó könyvet.",
+            "ro": "Admirați priveliștile panoramice ale castelului de pe această întindere liniștită, un loc perfect pentru a vă întinde prosopul și a citi o carte bună.",
+            "en": "Admire the sweeping views of the castle from this tranquil stretch, making it a perfect spot to lay out your towel and simply read a good book."
+          }
+        },
+        {
+          "name": {
+            "de": "Kleopatra plajı 22",
+            "hu": "Kleopatra plajı 22",
+            "ro": "Kleopatra plajı 22",
+            "en": "Kleopatra plajı 22"
+          },
+          "coords": [
+            31.970887,
+            36.554459
+          ],
+          "category": "recreational",
+          "arrive_at": "15:36",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhigere Atmosphäre am äußersten Ende des Strandes, wo Sie beim Abendpicknick den Parasailern über dem Wasser zusehen können.",
+            "hu": "Élvezze a csendesebb hangulatot a strand túlsó végén, ahol megfigyelheti a víz felett sikló ejtőernyősöket, miközben elfogyaszt egy esti pikniket.",
+            "ro": "Savurați ambianța mai liniștită de la capătul plajei, unde puteți urmări parapantiștii planând deasupra apei în timp ce vă bucurați de un picnic seara.",
+            "en": "Relish the quieter ambiance at the far end of the beach, where you can watch the parasailers glide over the water while enjoying an evening picnic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren sonnenverwöhnten Morgen in Alanya mit dem ruhigen, glitzernden Wasser an den östlichen Abschnitten des Kleopatra-Strandes. Die Morgensonne wärmt den goldenen Sand und bietet ideale Bedingungen für ein entspanntes Schwimmen.\nGegen Mittag zieht das Leben an der Küste spürbar an. Die lebhaften Strandbars füllen sich und die mediterrane Hitze lädt dazu ein, sich ein kühles Getränk zu gönnen und die pulsierende Atmosphäre am Mittelmeer in vollen Zügen zu genießen.\nAm Nachmittag können Sie die endlosen Weiten dieser legendären Küste weiter erkunden. Eine sanfte Meeresbrise bietet eine willkommene Abkühlung, perfekt um nach bunten Steinen zu suchen oder die vorbeiziehenden Boote am Horizont zu beobachten.\nLassen Sie den Tag an den westlichen Strandabschnitten oder in einem lebhaften Strandclub ausklingen. Der Himmel verwandelt sich in ein leuchtendes Farbenmeer aus Orange und Pink und bietet ein atemberaubendes Finale für Ihren perfekten Strandtag.",
+        "hu": "Kezdje a napsütötte alanyai reggelt a Kleopátra-strand keleti szakaszainak nyugodt, szikrázó vizénél. A reggeli nap finoman felmelegíti az aranyhomokot, ami tökéletes környezetet teremt egy pihentető úszáshoz, még a tömeg megérkezése előtt.\nAhogy közeledik a dél, merészkedjen egy kicsit tovább a parton. Az energia fokozódik az élénk strandbárokkal és a mediterrán hőséget élvező utazókkal. Ez az ideális alkalom egy frissítő ital elfogyasztására és a pezsgő partvidéki hangulat befogadására.\nDélután folytassa ennek a legendás partvonalnak a felfedezését. A finom tengeri szellő kellemes felfrissülést nyújt a napsütésben, így ez egy nagyszerű időszak a színes kavicsok keresgélésére vagy a távoli hajók megfigyelésére.\nZárja a napot a strand legnyugatibb részén vagy egy nyüzsgő strandklubban, amikor a nap lenyugszik. Az égbolt narancssárga és rózsaszín ragyogó vászonná változik, lélegzetelállító finálét nyújtva a tökéletes török riviérai tengerparti naphoz.",
+        "ro": "Începeți dimineața însorită din Alanya cu apele calme și strălucitoare de pe întinderile estice ale plajei Cleopatra. Soarele dimineții încălzește ușor nisipul auriu, creând un mediu perfect pentru o înotare relaxantă înainte de sosirea mulțimilor.\nLa apropierea amiezii, aventurați-vă puțin mai departe de-a lungul coastei. Energia crește odată cu barurile pline de viață de pe plajă. Acesta este momentul ideal pentru a savura o băutură răcoritoare și a vă bucura de atmosfera vibrantă a Mediteranei.\nDupă-amiaza, continuați să explorați întinderile nesfârșite ale acestui țărm legendar. Briza subtilă a mării oferă un răgaz binevenit de la soare, fiind un moment excelent pentru a căuta pietricele colorate sau a privi bărcile îndepărtate.\nÎncheiați ziua în părțile vestice ale plajei sau într-un club plin de viață, pe măsură ce soarele apune. Cerul se transformă într-o pânză strălucitoare de portocaliu și roz, oferind un final uluitor pentru o zi perfectă pe Riviera Turcească.",
+        "en": "Start your sun-drenched Alanya morning with the calm, sparkling waters on the eastern stretches of Cleopatra Beach. The morning sun gently warms the golden sand, creating a perfect environment for a relaxing swim before the crowds arrive.\nAs midday approaches, venture slightly further along the coast. The energy picks up with lively beach bars and fellow travelers enjoying the Mediterranean heat. This is the ideal time to grab a refreshing drink and soak in the vibrant coastal atmosphere.\nIn the afternoon, continue exploring the endless stretches of this legendary shoreline. The subtle sea breeze offers a welcome respite from the sun, making it a great time to hunt for colorful pebbles or simply watch the distant boats glide by.\nConclude your day at the westernmost parts of the beach or a lively beach club as the sun begins to set. The sky transforms into a brilliant canvas of orange and pink, providing a breathtaking finale to your ultimate Turkish Riviera beach day."
+      }
+    }
+  }
+}

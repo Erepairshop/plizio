@@ -1,0 +1,428 @@
+{
+  "city_id": "france-les-portes-en-re-cities-v2",
+  "anchor": {
+    "name": "Les Portes-en-Ré",
+    "coords": [
+      -1.49722,
+      46.25083
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:25",
+      "total_km": 2.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Mairie des Portes-en-Ré",
+            "hu": "Mairie des Portes-en-Ré",
+            "ro": "Mairie des Portes-en-Ré",
+            "en": "Mairie des Portes-en-Ré"
+          },
+          "coords": [
+            -1.49964,
+            46.248144
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur des Rathauses, während Sie die Inselatmosphäre aufsaugen, und kommen Sie früh, um den Massen zu entgehen.",
+            "hu": "Csodálja meg a városháza klasszikus építészetét, miközben magába szívja a helyi szigeti hangulatot, és érkezzen korán a tömeg elkerülése végett.",
+            "ro": "Admirați arhitectura clasică a primăriei în timp ce savurați atmosfera locală a insulei și ajungeți devreme pentru a evita aglomerația.",
+            "en": "Admire the classic architecture of the town hall while soaking in the local island atmosphere, and try arriving early to avoid the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Eutrope",
+            "hu": "Église Saint-Eutrope",
+            "ro": "Église Saint-Eutrope",
+            "en": "Église Saint-Eutrope"
+          },
+          "coords": [
+            -1.49921,
+            46.249854
+          ],
+          "category": "religious",
+          "arrive_at": "10:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese charmante Dorfkirche, um ihr maritimes Erbe zu würdigen, und nehmen Sie sich einen Moment Zeit für die kunstvollen Buntglasfenster.",
+            "hu": "Fedezze fel ezt a bájos falusi templomot, hogy értékelje szerény tengerészeti örökségét, és vessen egy pillantást az aprólékos ólomüveg ablakokra.",
+            "ro": "Explorați această fermecătoare biserică de sat pentru a aprecia moștenirea sa maritimă și acordați-vă un moment pentru vitraliile complicate.",
+            "en": "Explore this charming village church to appreciate its modest maritime heritage, and take a moment to notice the intricate stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame des Marins",
+            "hu": "Chapelle Notre-Dame des Marins",
+            "ro": "Chapelle Notre-Dame des Marins",
+            "en": "Chapelle Notre-Dame des Marins"
+          },
+          "coords": [
+            -1.485145,
+            46.248038
+          ],
+          "category": "religious",
+          "arrive_at": "11:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese friedliche, den Seeleuten gewidmete Kapelle, in der Sie ruhig sitzen und die maritimen Votivgaben im Inneren genießen sollten.",
+            "hu": "Fedezze fel ezt a helyi tengerészeknek szentelt békés kápolnát, ahol érdemes csendben megpihenni és megcsodálni a tengerészeti fogadalmi ajándékokat.",
+            "ro": "Descoperiți această capelă pașnică dedicată marinarilor locali, unde ar trebui să stați liniștit pentru a reflecta și a vedea ofrandele maritime.",
+            "en": "Discover this peaceful chapel dedicated to local sailors, where you should sit quietly to reflect and enjoy the maritime ex-voto offerings inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Loge",
+            "hu": "Plage de la Loge",
+            "ro": "Plage de la Loge",
+            "en": "Plage de la Loge"
+          },
+          "coords": [
+            -1.481446,
+            46.245799
+          ],
+          "category": "recreational",
+          "arrive_at": "12:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem ruhigen Sandstrand mit herrlichem Meerblick und bringen Sie eine leichte Jacke mit, da die Küstenbrise frisch werden kann.",
+            "hu": "Sétáljon végig ezen a békés homokos partszakaszon, amely lenyűgöző kilátást nyújt, és hozzon egy könnyű kabátot, mert a szél hűvös lehet.",
+            "ro": "Plimbați-vă de-a lungul acestei plaje senine care oferă vederi uimitoare la ocean și aduceți o jachetă, deoarece briza poate fi destul de rece.",
+            "en": "Walk along this serene sandy stretch offering stunning ocean views, and bring a light jacket as the coastal breeze can get surprisingly chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de l'Anse du Fourneau",
+            "hu": "Plage de l'Anse du Fourneau",
+            "ro": "Plage de l'Anse du Fourneau",
+            "en": "Plage de l'Anse du Fourneau"
+          },
+          "coords": [
+            -1.480383,
+            46.240727
+          ],
+          "category": "recreational",
+          "arrive_at": "13:40",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an dieser malerischen Küste, perfekt für Nachmittagsspaziergänge, und behalten Sie die Gezeiten im Auge, wenn Sie Muscheln suchen.",
+            "hu": "Kapcsolódjon ki ezen a festői parton, amely tökéletes a késő délutáni sétákhoz, és figyelje az árapályt, ha kagylókat szeretne gyűjteni.",
+            "ro": "Relaxați-vă pe acest țărm pitoresc, perfect pentru plimbările de după-amiază, și urmăriți programul mareei dacă intenționați să căutați scoici.",
+            "en": "Unwind on this picturesque shoreline perfect for late afternoon strolls, and keep an eye on the tide schedule if you plan to search for seashells."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen an der Mairie, um den historischen Charme der Stadt aufzusaugen. Gegen Mittag besuchen Sie die nahe gelegene Kirche Saint-Eutrope und die Seemannskapelle. Verbringen Sie Ihren Nachmittag am Plage de la Loge. Am Abend genießen Sie die friedliche Brise am Plage de l'Anse du Fourneau.",
+        "hu": "Kezdje a reggelt a városházán, hogy magába szívja a város történelmi varázsát. Délidőben látogasson el a közeli Saint-Eutrope templomba és a tengerészek kápolnájába. A délutánt a Plage de la Loge mentén sétálva töltse. Este élvezze a békés szellőt a Plage de l'Anse du Fourneau partján.",
+        "ro": "Începeți dimineața la Mairie pentru a savura farmecul istoric al orașului. La prânz, vizitați biserica Saint-Eutrope și capela marinarilor. Petreceți după-amiaza plimbându-vă de-a lungul Plage de la Loge. Seara, bucurați-vă de briza pașnică de pe Plage de l'Anse du Fourneau.",
+        "en": "Start your morning at the Mairie to soak in the town's historic charm. As midday approaches, visit the nearby Église Saint-Eutrope and the sailors' chapel. Spend your afternoon wandering along Plage de la Loge. As evening sets in, enjoy the peaceful breeze at Plage de l'Anse du Fourneau."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:33",
+      "total_km": 5.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mairie des Portes-en-Ré",
+            "hu": "Mairie des Portes-en-Ré",
+            "ro": "Mairie des Portes-en-Ré",
+            "en": "Mairie des Portes-en-Ré"
+          },
+          "coords": [
+            -1.49964,
+            46.248144
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur des Rathauses, während Sie die Inselatmosphäre aufsaugen, und kommen Sie früh, um den Massen zu entgehen.",
+            "hu": "Csodálja meg a városháza klasszikus építészetét, miközben magába szívja a helyi szigeti hangulatot, és érkezzen korán a tömeg elkerülése végett.",
+            "ro": "Admirați arhitectura clasică a primăriei în timp ce savurați atmosfera locală a insulei și ajungeți devreme pentru a evita aglomerația.",
+            "en": "Admire the classic architecture of the town hall while soaking in the local island atmosphere, and try arriving early to avoid the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Eutrope",
+            "hu": "Église Saint-Eutrope",
+            "ro": "Église Saint-Eutrope",
+            "en": "Église Saint-Eutrope"
+          },
+          "coords": [
+            -1.49921,
+            46.249854
+          ],
+          "category": "religious",
+          "arrive_at": "10:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese charmante Dorfkirche, um ihr maritimes Erbe zu würdigen, und nehmen Sie sich einen Moment Zeit für die kunstvollen Buntglasfenster.",
+            "hu": "Fedezze fel ezt a bájos falusi templomot, hogy értékelje szerény tengerészeti örökségét, és vessen egy pillantást az aprólékos ólomüveg ablakokra.",
+            "ro": "Explorați această fermecătoare biserică de sat pentru a aprecia moștenirea sa maritimă și acordați-vă un moment pentru vitraliile complicate.",
+            "en": "Explore this charming village church to appreciate its modest maritime heritage, and take a moment to notice the intricate stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Saucière",
+            "hu": "Plage de la Saucière",
+            "ro": "Plage de la Saucière",
+            "en": "Plage de la Saucière"
+          },
+          "coords": [
+            -1.506278,
+            46.257257
+          ],
+          "category": "recreational",
+          "arrive_at": "11:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den goldenen Sand und die Wellen an diesem lebhaften Strand, aber packen Sie ausreichend Sonnencreme und Wasser für den Besuch ein.",
+            "hu": "Élvezze az aranyhomokot és a hullámokat ezen az élénk strandon, de ne felejtsen el elegendő naptejet és vizet csomagolni a kényelmes pihenéshez.",
+            "ro": "Bucurați-vă de nisipul auriu și de valuri la această plajă vibrantă, dar asigurați-vă că luați protecție solară și apă pentru o vizită confortabilă.",
+            "en": "Enjoy the golden sands and rolling waves at this vibrant beach spot, but make sure to pack plenty of sunscreen and water for a comfortable visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Lizay",
+            "hu": "Plage du Lizay",
+            "ro": "Plage du Lizay",
+            "en": "Plage du Lizay"
+          },
+          "coords": [
+            -1.516243,
+            46.256847
+          ],
+          "category": "recreational",
+          "arrive_at": "12:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie in den wilden und wunderschönen Dünen von Lizay und bleiben Sie auf den markierten Wegen, um die empfindliche lokale Flora zu schützen.",
+            "hu": "Pihenjen Lizay vad és gyönyörű dűnéinél, és maradjon a kijelölt ösvényeken, hogy megvédje a sziget rendkívül törékeny helyi növényvilágát.",
+            "ro": "Relaxați-vă pe dunele sălbatice și frumoase din Lizay și rămâneți pe cărările marcate pentru a proteja flora locală extrem de fragilă.",
+            "en": "Relax on the wild and beautiful dunes of Lizay, a must-see natural boundary, and stick to the marked paths to protect the fragile local flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison du Fier",
+            "hu": "Maison du Fier",
+            "ro": "Maison du Fier",
+            "en": "Maison du Fier"
+          },
+          "coords": [
+            -1.503672,
+            46.240558
+          ],
+          "category": "museum",
+          "arrive_at": "14:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch interaktive Exponate in die Naturgeschichte der Insel ein und kaufen Sie in den Sommermonaten Ihre Eintrittskarten im Voraus.",
+            "hu": "Merüljön el a sziget természettörténetében az interaktív kiállításokon keresztül, és a nyári csúcsszezonban érdemes előre megvenni a jegyeket.",
+            "ro": "Pătrundeți în istoria naturală a insulei prin exponate interactive și cumpărați-vă biletele de intrare în avans în timpul lunilor de vară.",
+            "en": "Dive into the island's natural history through interactive exhibits, and purchase your entry tickets in advance during peak summer tourist months."
+          }
+        },
+        {
+          "name": {
+            "de": "Réserve naturelle de Lilleau-des-Niges",
+            "hu": "Réserve naturelle de Lilleau-des-Niges",
+            "ro": "Réserve naturelle de Lilleau-des-Niges",
+            "en": "Réserve naturelle de Lilleau-des-Niges"
+          },
+          "coords": [
+            -1.502944,
+            46.229524
+          ],
+          "category": "natural",
+          "arrive_at": "15:48",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie Tausende von Zugvögeln in diesem atemberaubenden Naturschutzgebiet und bringen Sie unbedingt ein Fernglas zur Tierbeobachtung mit.",
+            "hu": "Figyeljen meg több ezer költöző madarat ebben a lenyűgöző természetvédelmi területben, és feltétlenül hozzon magával távcsövet a vadvilág megfigyeléséhez.",
+            "ro": "Observați mii de păsări migratoare în această rezervație naturală uimitoare și aduceți neapărat un binoclu pentru a vedea fauna sălbatică.",
+            "en": "Observe thousands of migratory birds in this stunning natural reserve, and definitely bring a pair of binoculars for the best wildlife spotting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am historischen Rathaus und der Kirche. Radeln Sie mittags zum lebhaften Plage de la Saucière und den wilden Dünen von Lizay. Der Nachmittag ist dem Lernen im Maison du Fier vorbehalten. Beobachten Sie abends die Vögel im Naturschutzgebiet Lilleau-des-Niges.",
+        "hu": "Kezdje kerékpártúráját a történelmi városházánál és a templomnál. Délben tekerjen az élénk Plage de la Saucière és a vad Lizay dűnék felé. A délutánt a Maison du Fier múzeumának szentelje. Este figyelje meg a madarakat a Lilleau-des-Niges természetvédelmi területen.",
+        "ro": "Începeți turul cu bicicleta la primăria istorică și la biserică. La prânz, pedalați spre Plage de la Saucière și dunele din Lizay. După-amiaza este rezervată pentru Maison du Fier. Seara, urmăriți păsările din rezervația naturală Lilleau-des-Niges.",
+        "en": "Kick off your cycling tour at the historic town hall and church. By midday, pedal towards the vibrant Plage de la Saucière and the wild dunes of Lizay. Your afternoon is reserved for learning at Maison du Fier. In the evening, watch the birds at the Lilleau-des-Niges nature reserve."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:02",
+      "total_km": 4.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Mairie des Portes-en-Ré",
+            "hu": "Mairie des Portes-en-Ré",
+            "ro": "Mairie des Portes-en-Ré",
+            "en": "Mairie des Portes-en-Ré"
+          },
+          "coords": [
+            -1.49964,
+            46.248144
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur des Rathauses, während Sie die Inselatmosphäre aufsaugen, und kommen Sie früh, um den Massen zu entgehen.",
+            "hu": "Csodálja meg a városháza klasszikus építészetét, miközben magába szívja a helyi szigeti hangulatot, és érkezzen korán a tömeg elkerülése végett.",
+            "ro": "Admirați arhitectura clasică a primăriei în timp ce savurați atmosfera locală a insulei și ajungeți devreme pentru a evita aglomerația.",
+            "en": "Admire the classic architecture of the town hall while soaking in the local island atmosphere, and try arriving early to avoid the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Eutrope",
+            "hu": "Église Saint-Eutrope",
+            "ro": "Église Saint-Eutrope",
+            "en": "Église Saint-Eutrope"
+          },
+          "coords": [
+            -1.49921,
+            46.249854
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese charmante Dorfkirche, um ihr maritimes Erbe zu würdigen, und nehmen Sie sich einen Moment Zeit für die kunstvollen Buntglasfenster.",
+            "hu": "Fedezze fel ezt a bájos falusi templomot, hogy értékelje szerény tengerészeti örökségét, és vessen egy pillantást az aprólékos ólomüveg ablakokra.",
+            "ro": "Explorați această fermecătoare biserică de sat pentru a aprecia moștenirea sa maritimă și acordați-vă un moment pentru vitraliile complicate.",
+            "en": "Explore this charming village church to appreciate its modest maritime heritage, and take a moment to notice the intricate stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Lizay",
+            "hu": "Plage du Lizay",
+            "ro": "Plage du Lizay",
+            "en": "Plage du Lizay"
+          },
+          "coords": [
+            -1.516243,
+            46.256847
+          ],
+          "category": "recreational",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie in den wilden und wunderschönen Dünen von Lizay und bleiben Sie auf den markierten Wegen, um die empfindliche lokale Flora zu schützen.",
+            "hu": "Pihenjen Lizay vad és gyönyörű dűnéinél, és maradjon a kijelölt ösvényeken, hogy megvédje a sziget rendkívül törékeny helyi növényvilágát.",
+            "ro": "Relaxați-vă pe dunele sălbatice și frumoase din Lizay și rămâneți pe cărările marcate pentru a proteja flora locală extrem de fragilă.",
+            "en": "Relax on the wild and beautiful dunes of Lizay, a must-see natural boundary, and stick to the marked paths to protect the fragile local flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison du Fier",
+            "hu": "Maison du Fier",
+            "ro": "Maison du Fier",
+            "en": "Maison du Fier"
+          },
+          "coords": [
+            -1.503672,
+            46.240558
+          ],
+          "category": "museum",
+          "arrive_at": "12:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch interaktive Exponate in die Naturgeschichte der Insel ein und kaufen Sie in den Sommermonaten Ihre Eintrittskarten im Voraus.",
+            "hu": "Merüljön el a sziget természettörténetében az interaktív kiállításokon keresztül, és a nyári csúcsszezonban érdemes előre megvenni a jegyeket.",
+            "ro": "Pătrundeți în istoria naturală a insulei prin exponate interactive și cumpărați-vă biletele de intrare în avans în timpul lunilor de vară.",
+            "en": "Dive into the island's natural history through interactive exhibits, and purchase your entry tickets in advance during peak summer tourist months."
+          }
+        },
+        {
+          "name": {
+            "de": "Réserve naturelle de Lilleau-des-Niges",
+            "hu": "Réserve naturelle de Lilleau-des-Niges",
+            "ro": "Réserve naturelle de Lilleau-des-Niges",
+            "en": "Réserve naturelle de Lilleau-des-Niges"
+          },
+          "coords": [
+            -1.502944,
+            46.229524
+          ],
+          "category": "natural",
+          "arrive_at": "14:17",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie Tausende von Zugvögeln in diesem atemberaubenden Naturschutzgebiet und bringen Sie unbedingt ein Fernglas zur Tierbeobachtung mit.",
+            "hu": "Figyeljen meg több ezer költöző madarat ebben a lenyűgöző természetvédelmi területben, és feltétlenül hozzon magával távcsövet a vadvilág megfigyeléséhez.",
+            "ro": "Observați mii de păsări migratoare în această rezervație naturală uimitoare și aduceți neapărat un binoclu pentru a vedea fauna sălbatică.",
+            "en": "Observe thousands of migratory birds in this stunning natural reserve, and definitely bring a pair of binoculars for the best wildlife spotting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt mit der architektonischen Schönheit des Rathauses und der Kirche. Fahren Sie mittags zum Entspannen an die unberührten Strände des Plage du Lizay. Widmen Sie Ihren Nachmittag den Ausstellungen im Maison du Fier. Beenden Sie den Tag in den Feuchtgebieten von Lilleau-des-Niges.",
+        "hu": "Festői autóútja a városháza és a templom építészeti szépségével kezdődik. Dél körül hajtson el pihenni a Plage du Lizay érintetlen homokjára. A délutánt szánja a Maison du Fier kiállításainak. Zárja a napot a békés Lilleau-des-Niges vizes élőhelyein.",
+        "ro": "Plimbarea pitorească începe cu frumusețea arhitecturală a primăriei și a bisericii. În jurul prânzului, conduceți pentru a vă relaxa pe Plage du Lizay. Dedicați după-amiaza exponatelor de la Maison du Fier. Încheiați-vă ziua bucurându-vă de zonele umede de la Lilleau-des-Niges.",
+        "en": "Your scenic drive begins with the architectural beauty of the town hall and church. Around midday, drive out to relax on the pristine sands of Plage du Lizay. Dedicate your afternoon to the exhibits at Maison du Fier. End your day enjoying the serene wetlands at Lilleau-des-Niges."
+      }
+    }
+  }
+}

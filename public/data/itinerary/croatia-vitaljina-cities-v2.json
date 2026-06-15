@@ -1,0 +1,428 @@
+{
+  "city_id": "croatia-vitaljina-cities-v2",
+  "anchor": {
+    "name": "Vitaljina",
+    "coords": [
+      18.4889,
+      42.4331
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:46",
+      "total_km": 3.45,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kaštid",
+            "hu": "Kaštid",
+            "ro": "Kaštid",
+            "en": "Kaštid"
+          },
+          "coords": [
+            18.47747,
+            42.443661
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die raue Natur von Kaštid, ein perfekter Ort für Fotografie, also bringen Sie ein Weitwinkelobjektiv für die Küstenpanoramen mit.",
+            "hu": "Csodálja meg Kaštid zord természeti szépségét, amely tökéletes hely a fotózáshoz, ezért hozzon magával nagylátószögű objektívet a parti kilátáshoz.",
+            "ro": "Admirați frumusețea naturală sălbatică de la Kaštid, un loc perfect pentru fotografie, așa că aduceți un obiectiv cu unghi larg pentru peisajele de coastă.",
+            "en": "Admire the rugged natural beauty of Kaštid, a perfect spot for photography, so bring a wide-angle lens to capture the magnificent coastal vistas."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Baum",
+            "hu": "Öreg fa",
+            "ro": "Copac vechi",
+            "en": "Cool old tree"
+          },
+          "coords": [
+            18.494993,
+            42.444197
+          ],
+          "category": "landmark",
+          "arrive_at": "10:46",
+          "stay_min": 15,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Ruhen Sie sich unter den ausladenden Ästen dieses alten Baumes aus, der an heißen Mittagsstunden einen wunderbaren, kühlenden Schatten spendet.",
+            "hu": "Pihenjen meg e csodálatos öreg fa terebélyes ágai alatt, amely csodálatos árnyékot nyújt, ha a déli hőség idején látogat el ide árnyékért.",
+            "ro": "Odihniți-vă sub ramurile întinse ale acestui copac bătrân și magnific, care oferă o umbră minunată dacă vizitați în timpul căldurii de la amiază.",
+            "en": "Take a moment to rest under the sprawling branches of this magnificent old tree, which offers wonderful shade if you visit during the midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "FKK-Strand",
+            "hu": "Naturista strand",
+            "ro": "Plajă naturistă",
+            "en": "Nude beach"
+          },
+          "coords": [
+            18.50724,
+            42.443431
+          ],
+          "category": "recreational",
+          "arrive_at": "11:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Freiheit von Sonne und Meer an diesem abgelegenen FKK-Strand, aber denken Sie daran, ausreichend Sonnencreme und Trinkwasser einzupacken.",
+            "hu": "Élvezze a nap és a tenger nyújtotta teljes szabadságot ezen az eldugott naturista strandon, de feltétlenül vigyen magával naptejet és ivóvizet.",
+            "ro": "Bucurați-vă de libertatea absolută a soarelui și a mării pe această plajă naturistă izolată, dar nu uitați să luați multă cremă de protecție solară.",
+            "en": "Enjoy the absolute freedom of the sun and sea at this secluded nude beach, but be sure to pack plenty of sunscreen and your own drinking water."
+          }
+        },
+        {
+          "name": {
+            "de": "Nudistenstrand",
+            "hu": "Nudista strand",
+            "ro": "Plajă de nudiști",
+            "en": "Nudist beach"
+          },
+          "coords": [
+            18.505242,
+            42.44608
+          ],
+          "category": "recreational",
+          "arrive_at": "12:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entspannen Sie auf den sauberen Kieseln dieses FKK-Bereichs mit kristallklarem Wasser, weshalb Wasserschuhe zum Schwimmen sehr empfehlenswert sind.",
+            "hu": "Pihenjen ennek a kijelölt nudista helynek a kavicsain, ahol a víz kristálytiszta, így a fürdéshez a vízi cipő használata erősen ajánlott.",
+            "ro": "Relaxați-vă pe pietricelele acestui loc dedicat nudiștilor, unde apa este cristalină, de aceea încălțămintea de apă este foarte recomandată aici.",
+            "en": "Relax on the pristine pebbles of this dedicated nudist spot where the water is crystal clear, making water shoes highly recommended for swimming."
+          }
+        },
+        {
+          "name": {
+            "de": "Blatna plaža",
+            "hu": "Blatna plaža",
+            "ro": "Blatna plaža",
+            "en": "Blatna plaža"
+          },
+          "coords": [
+            18.5056,
+            42.452342
+          ],
+          "category": "recreational",
+          "arrive_at": "14:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie den einzigartigen Heilschlamm der Blatna plaža, der fantastisch für die Haut ist, also tragen Sie am besten alte, ausrangierte Badekleidung.",
+            "hu": "Fedezze fel a Blatna plaža egyedülálló, bőrnek is kiváló gyógyiszapját, ezért érdemes olyan régi fürdőruhát viselni, amit nem sajnál összekoszolni.",
+            "ro": "Descoperiți nămolul terapeutic unic de la Blatna plaža, excelent pentru piele, așa că purtați un costum de baie vechi pe care să nu-l regretați.",
+            "en": "Discover the unique therapeutic muds of Blatna plaža which are fantastic for your skin, so wear old swimwear that you do not mind getting a bit dirty."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang beginnt mit der natürlichen Küstenschönheit von Kaštid und der morgendlichen Meeresbrise.\n\nGegen Mittag finden Sie Schatten unter einem wunderbar kühlen, alten Baum, bevor Sie zum Ufer aufbrechen.\n\nDer Nachmittag ist ganz dem Genuss von Sonne und Meer an zwei verschiedenen FKK-Stränden gewidmet.\n\nSchließlich beenden Sie Ihre Reise am Abend mit einem entspannenden Schlammbad an der Blatna plaža.",
+        "hu": "A séta Kaštid tengerparti természeti szépségével és a reggeli tengeri szellővel kezdődik.\n\nDélben egy meglepően hűvös, öreg fa alatt talál árnyékot, mielőtt a partra indulna.\n\nA délutánt a napsütésnek és a tengernek szenteljük két különböző naturista strandon.\n\nVégül a kora esti órák közeledtével egy pihentető gyógyiszapfürdővel zárja a napot a Blatna plaža partján.",
+        "ro": "Turul pietonal începe cu frumusețea naturală de coastă de la Kaštid, admirând briza mării.\n\nLa prânz, veți găsi umbră sub un copac bătrân și răcoros, înainte de a vă îndrepta spre țărm.\n\nDupă-amiaza este dedicată bucuriei soarelui și a mării pe două plaje naturiste distincte.\n\nÎn cele din urmă, încheiați-vă călătoria cu o baie relaxantă cu nămol terapeutic la Blatna plaža, pe măsură ce se apropie seara.",
+        "en": "Your walking tour begins with the natural coastal beauty of Kaštid, taking in the morning sea breeze.\n\nBy midday, you will find shade under a surprisingly cool old tree before heading to the shore.\n\nThe afternoon is dedicated to enjoying the sun and sea at two distinct naturist beaches.\n\nFinally, conclude your journey with a relaxing therapeutic mud bath at Blatna plaža as the evening approaches."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:36",
+      "total_km": 6.35,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Veraja",
+            "hu": "Veraja",
+            "ro": "Veraja",
+            "en": "Veraja"
+          },
+          "coords": [
+            18.464703,
+            42.452931
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die friedliche Natur von Veraja, ein ruhiger Küstenrückzugsort, an dem festes Schuhwerk für die felsigen Pfade empfohlen wird.",
+            "hu": "Fedezze fel Veraja békés természeti környezetét, amely egy nyugodt tengerparti menedék, ahol erős túracipő ajánlott a sziklás ösvények bejárásához.",
+            "ro": "Explorați împrejurimile naturale liniștite din Veraja, un refugiu de coastă unde încălțămintea robustă este recomandată pentru potecile stâncoase.",
+            "en": "Explore the serene natural surroundings of Veraja, a peaceful coastal retreat where sturdy hiking shoes are advised for navigating the rocky paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaštid",
+            "hu": "Kaštid",
+            "ro": "Kaštid",
+            "en": "Kaštid"
+          },
+          "coords": [
+            18.47747,
+            42.443661
+          ],
+          "category": "natural",
+          "arrive_at": "10:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die raue Natur von Kaštid, ein perfekter Ort für Fotografie, also bringen Sie ein Weitwinkelobjektiv für die Küstenpanoramen mit.",
+            "hu": "Csodálja meg Kaštid zord természeti szépségét, amely tökéletes hely a fotózáshoz, ezért hozzon magával nagylátószögű objektívet a parti kilátáshoz.",
+            "ro": "Admirați frumusețea naturală sălbatică de la Kaštid, un loc perfect pentru fotografie, așa că aduceți un obiectiv cu unghi larg pentru peisajele de coastă.",
+            "en": "Admire the rugged natural beauty of Kaštid, a perfect spot for photography, so bring a wide-angle lens to capture the magnificent coastal vistas."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Baum",
+            "hu": "Öreg fa",
+            "ro": "Copac vechi",
+            "en": "Cool old tree"
+          },
+          "coords": [
+            18.494993,
+            42.444197
+          ],
+          "category": "landmark",
+          "arrive_at": "11:56",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Ruhen Sie sich unter den ausladenden Ästen dieses alten Baumes aus, der an heißen Mittagsstunden einen wunderbaren, kühlenden Schatten spendet.",
+            "hu": "Pihenjen meg e csodálatos öreg fa terebélyes ágai alatt, amely csodálatos árnyékot nyújt, ha a déli hőség idején látogat el ide árnyékért.",
+            "ro": "Odihniți-vă sub ramurile întinse ale acestui copac bătrân și magnific, care oferă o umbră minunată dacă vizitați în timpul căldurii de la amiază.",
+            "en": "Take a moment to rest under the sprawling branches of this magnificent old tree, which offers wonderful shade if you visit during the midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Nudistenstrand",
+            "hu": "Nudista strand",
+            "ro": "Plajă de nudiști",
+            "en": "Nudist beach"
+          },
+          "coords": [
+            18.505242,
+            42.44608
+          ],
+          "category": "recreational",
+          "arrive_at": "12:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Entspannen Sie auf den sauberen Kieseln dieses FKK-Bereichs mit kristallklarem Wasser, weshalb Wasserschuhe zum Schwimmen sehr empfehlenswert sind.",
+            "hu": "Pihenjen ennek a kijelölt nudista helynek a kavicsain, ahol a víz kristálytiszta, így a fürdéshez a vízi cipő használata erősen ajánlott.",
+            "ro": "Relaxați-vă pe pietricelele acestui loc dedicat nudiștilor, unde apa este cristalină, de aceea încălțămintea de apă este foarte recomandată aici.",
+            "en": "Relax on the pristine pebbles of this dedicated nudist spot where the water is crystal clear, making water shoes highly recommended for swimming."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Tursko",
+            "hu": "Tursko vár",
+            "ro": "Castelul Tursko",
+            "en": "Tursko Castle"
+          },
+          "coords": [
+            18.524115,
+            42.426333
+          ],
+          "category": "historical",
+          "arrive_at": "13:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Versetzen Sie sich in den Ruinen der Burg Tursko in die Vergangenheit, die einen tollen Ausblick bietet und besonders zur goldenen Stunde fantastisch ist.",
+            "hu": "Lépjen vissza az időben a Tursko vár romjainál, ahonnan lenyűgöző kilátás nyílik a régióra, így a látogatás az aranyórában ideális a fotózáshoz.",
+            "ro": "Întoarceți-vă în timp la ruinele castelului Tursko, care oferă priveliști impresionante, ceea ce face ca vizita la ora de aur să fie ideală pentru poze.",
+            "en": "Step back in time at the ruins of Tursko castle which offer commanding views of the region, making a visit during golden hour ideal for photographs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Fahrradabenteuer mit der Erkundung der ruhigen Felslandschaften von Veraja am frühen Morgen.\n\nMittags folgt eine stetige Fahrt vorbei am malerischen Kaštid und eine kurze Rast unter einem alten Baum.\n\nVerbringen Sie einen entspannten Nachmittag in der Sonne an einem wunderschönen FKK-Strand.\n\nWenn die Sonne sinkt, radeln Sie zu den historischen Ruinen von Tursko für einen spektakulären Ausblick.",
+        "hu": "Kezdje kerékpáros kalandját Veraja békés, sziklás tájainak felfedezésével a kora reggeli órákban.\n\nA dél egy egyenletes utazást hoz a festői Kaštid mellett, és egy gyors pihenőt egy figyelemre méltó öreg fa alatt.\n\nTöltsön egy pihentető délutánt a mediterrán napsütésben egy gyönyörű nudista strandon.\n\nAhogy a nap ereszkedni kezd, tekerjen fel Tursko történelmi romjaihoz egy lenyűgöző végső kilátópontért.",
+        "ro": "Începeți-vă aventura cu bicicleta explorând peisajele stâncoase senine din Veraja dis-de-dimineață.\n\nAmiaza aduce o plimbare constantă pe lângă pitorescul Kaštid și o scurtă oprire sub un copac bătrân.\n\nPetreceți o după-amiază relaxantă bucurându-vă de soarele mediteranean pe o frumoasă plajă de nudiști.\n\nCând soarele apune, pedalați până la ruinele castelului Tursko pentru un ultim punct de belvedere.",
+        "en": "Kick off your cycling adventure by exploring the serene rocky landscapes of Veraja in the early morning.\n\nMidday brings a steady ride past the scenic Kaštid and a quick rest stop beneath a remarkable old tree.\n\nSpend a relaxing afternoon soaking up the Mediterranean sunshine at a beautiful nudist beach.\n\nAs the sun begins to lower, cycle up to the historic ruins of Tursko for a spectacular final viewpoint."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:35",
+      "total_km": 9.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Veraja",
+            "hu": "Veraja",
+            "ro": "Veraja",
+            "en": "Veraja"
+          },
+          "coords": [
+            18.464703,
+            42.452931
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die friedliche Natur von Veraja, ein ruhiger Küstenrückzugsort, an dem festes Schuhwerk für die felsigen Pfade empfohlen wird.",
+            "hu": "Fedezze fel Veraja békés természeti környezetét, amely egy nyugodt tengerparti menedék, ahol erős túracipő ajánlott a sziklás ösvények bejárásához.",
+            "ro": "Explorați împrejurimile naturale liniștite din Veraja, un refugiu de coastă unde încălțămintea robustă este recomandată pentru potecile stâncoase.",
+            "en": "Explore the serene natural surroundings of Veraja, a peaceful coastal retreat where sturdy hiking shoes are advised for navigating the rocky paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Baum",
+            "hu": "Öreg fa",
+            "ro": "Copac vechi",
+            "en": "Cool old tree"
+          },
+          "coords": [
+            18.494993,
+            42.444197
+          ],
+          "category": "landmark",
+          "arrive_at": "10:30",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Ruhen Sie sich unter den ausladenden Ästen dieses alten Baumes aus, der an heißen Mittagsstunden einen wunderbaren, kühlenden Schatten spendet.",
+            "hu": "Pihenjen meg e csodálatos öreg fa terebélyes ágai alatt, amely csodálatos árnyékot nyújt, ha a déli hőség idején látogat el ide árnyékért.",
+            "ro": "Odihniți-vă sub ramurile întinse ale acestui copac bătrân și magnific, care oferă o umbră minunată dacă vizitați în timpul căldurii de la amiază.",
+            "en": "Take a moment to rest under the sprawling branches of this magnificent old tree, which offers wonderful shade if you visit during the midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Tursko",
+            "hu": "Tursko vár",
+            "ro": "Castelul Tursko",
+            "en": "Tursko Castle"
+          },
+          "coords": [
+            18.524115,
+            42.426333
+          ],
+          "category": "historical",
+          "arrive_at": "10:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Versetzen Sie sich in den Ruinen der Burg Tursko in die Vergangenheit, die einen tollen Ausblick bietet und besonders zur goldenen Stunde fantastisch ist.",
+            "hu": "Lépjen vissza az időben a Tursko vár romjainál, ahonnan lenyűgöző kilátás nyílik a régióra, így a látogatás az aranyórában ideális a fotózáshoz.",
+            "ro": "Întoarceți-vă în timp la ruinele castelului Tursko, care oferă priveliști impresionante, ceea ce face ca vizita la ora de aur să fie ideală pentru poze.",
+            "en": "Step back in time at the ruins of Tursko castle which offer commanding views of the region, making a visit during golden hour ideal for photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Glavica",
+            "hu": "Glavica",
+            "ro": "Glavica",
+            "en": "Glavica"
+          },
+          "coords": [
+            18.508074,
+            42.418608
+          ],
+          "category": "natural",
+          "arrive_at": "12:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Atmen Sie die frische Meeresluft an Glavicas erhöhtem Aussichtspunkt ein, der sich perfekt für ein schnelles Picknick mit lokalen Snacks eignet.",
+            "hu": "Szívja magába a friss tengeri levegőt Glavica magaslati kilátójánál, amely tökéletes helyszín egy gyors piknikhez, ha hoz magával némi harapnivalót.",
+            "ro": "Respirați aerul proaspăt de mare de pe punctul de observație natural Glavica, perfect pentru un picnic rapid dacă aduceți câteva gustări locale.",
+            "en": "Breathe in the fresh sea air at Glavica's elevated natural vantage point, which is perfect for a quick picnic if you bring some local snacks."
+          }
+        },
+        {
+          "name": {
+            "de": "Sunset Beach",
+            "hu": "Sunset Beach",
+            "ro": "Sunset Beach",
+            "en": "Sunset Beach"
+          },
+          "coords": [
+            18.508779,
+            42.407161
+          ],
+          "category": "recreational",
+          "arrive_at": "13:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag am passend benannten Sunset Beach, wo der Horizont in leuchtenden Farben erstrahlt, also kommen Sie früh für den besten Platz.",
+            "hu": "Fejezze be a napot a találó nevű Sunset Beach-en, ahol a horizont élénk színekben pompázik, ezért érkezzen korán, hogy biztosítsa a legjobb helyet.",
+            "ro": "Încheiați-vă ziua la Sunset Beach, unde orizontul se luminează în culori vibrante, așa că ajungeți devreme pentru a prinde cel mai bun loc.",
+            "en": "End your day at the aptly named Sunset Beach where the horizon lights up in vibrant colors, so arrive early to secure the best viewing spot."
+          }
+        },
+        {
+          "name": {
+            "de": "FKK",
+            "hu": "FKK",
+            "ro": "FKK",
+            "en": "FKK"
+          },
+          "coords": [
+            18.518462,
+            42.401571
+          ],
+          "category": "recreational",
+          "arrive_at": "14:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erleben Sie wahre Ruhe an diesem abgelegenen FKK-Ort an der Südspitze, wo das Fehlen von Einrichtungen bedeutet, dass Sie alles selbst mitbringen müssen.",
+            "hu": "Tapasztalja meg az igazi nyugalmat ezen a déli csücsökön található eldugott FKK strandon, ahol a létesítmények hiánya miatt mindent magának kell hoznia.",
+            "ro": "Experimentați adevărata liniște în acest loc FKK retras din sud, unde lipsa facilităților înseamnă că trebuie să vă aduceți propriile provizii.",
+            "en": "Experience true tranquility at this secluded FKK spot on the southern tip, where the lack of facilities means you must bring all your own provisions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt an der malerischen Küste von Veraja und bietet einen frischen Start in den Tag.\n\nSie fahren an einem berühmten lokalen Baum vorbei, bevor Sie die faszinierenden Überreste der Burg Tursko erkunden.\n\nDer Nachmittag bietet eine schöne Fahrt nach Süden nach Glavica und einen Halt am Sunset Beach.\n\nIhr letztes Ziel am Abend ist eine ruhige, abgelegene FKK-Bucht direkt an der Spitze der Halbinsel.",
+        "hu": "Autós túrája Veraja festői tengerparti területén kezdődik, friss indulást biztosítva a napnak.\n\nEzután egy híres helyi fa mellett halad el, mielőtt felfedezné Tursko várának lenyűgöző történelmi maradványait.\n\nA délután egy gyönyörű utazás délre Glavicába, majd egy pihentető megálló a Sunset Beach-en.\n\nA végső esti úti cél egy csendes, eldugott naturista öböl a félsziget legcsúcsán.",
+        "ro": "Turul cu mașina începe în zona de coastă pitorească Veraja, oferind un început proaspăt de zi.\n\nVeți trece apoi pe lângă un copac local faimos înainte de a explora rămășițele fascinante ale castelului Tursko.\n\nDupă-amiaza este o plimbare frumoasă spre sud, spre Glavica, urmată de o oprire la Sunset Beach.\n\nDestinația finală de seară este un golf naturist liniștit și izolat, chiar în vârful peninsulei.",
+        "en": "Your driving tour starts at the picturesque coastal area of Veraja, offering a fresh start to the day.\n\nYou will then drive past a famous local tree before exploring the fascinating historical remnants of Tursko castle.\n\nThe afternoon is a beautiful drive south to Glavica, followed by a relaxing stop at Sunset Beach.\n\nYour ultimate evening destination is a quiet, secluded naturist bay right at the peninsula's tip."
+      }
+    }
+  }
+}

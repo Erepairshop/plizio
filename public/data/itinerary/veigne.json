@@ -1,0 +1,474 @@
+{
+  "city_id": "veigne",
+  "anchor": {
+    "name": "Veigné",
+    "coords": [
+      0.7375,
+      47.2875
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:08",
+      "total_km": 6.25,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Maixent Church",
+            "hu": "Saint-Maixent Church",
+            "ro": "Saint-Maixent Church",
+            "en": "Saint-Maixent Church"
+          },
+          "coords": [
+            0.736563,
+            47.287697
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die faszinierenden Buntglasfenster dieser historischen Kirche, die ein tiefes spirituelles Erbe birgt, und achten Sie auf die Öffnungszeiten am Nachmittag.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a lenyűgöző ólomüveg ablakait, amely mély spirituális örökséget őriz, és mindenképp ellenőrizze a délutáni nyitvatartást.",
+            "ro": "Admirați vitraliile fascinante ale acestei biserici istorice, care ascunde o profundă moștenire spirituală, și verificați programul de vizitare de după-amiază.",
+            "en": "Admire the fascinating stained glass windows of this historic church that holds a deep spiritual heritage, and be sure to check the afternoon opening hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscine de veigné",
+            "hu": "Piscine de veigné",
+            "ro": "Piscine de veigné",
+            "en": "Piscine de veigné"
+          },
+          "coords": [
+            0.734879,
+            47.289079
+          ],
+          "category": "family",
+          "arrive_at": "09:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie eine erfrischende Pause in diesem familienfreundlichen Schwimmbad, das perfekt zur Abkühlung im Sommer ist, und bringen Sie unbedingt Ihr eigenes Handtuch mit.",
+            "hu": "Élvezze a frissítő pihenést ebben a családbarát uszodában, amely tökéletes a nyári hűsölésre, és ne felejtse el magával hozni a saját törölközőjét.",
+            "ro": "Bucurați-vă de o pauză revigorantă la această piscină potrivită pentru familii, perfectă pentru răcorirea de vară, și nu uitați să vă aduceți propriul prosop.",
+            "en": "Enjoy a refreshing break at this family-friendly swimming pool which is perfect for cooling off in the summer, and make sure to bring your own towel."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Couzières",
+            "hu": "Château de Couzières",
+            "ro": "Château de Couzières",
+            "en": "Château de Couzières"
+          },
+          "coords": [
+            0.7354,
+            47.2949
+          ],
+          "category": "historical",
+          "arrive_at": "11:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Erkunden Sie die wunderschönen Außenanlagen dieses geschichtsträchtigen Schlosses, das einst Königin Marie de Médicis beherbergte, und tragen Sie bequeme Schuhe für den Schlosspark.",
+            "hu": "Fedezze fel ennek a történelmi kastélynak a gyönyörű parkját, amely egykor Medici Mária királynénak adott otthont, és viseljen kényelmes cipőt a sétához.",
+            "ro": "Explorați terenurile frumoase ale acestui castel istoric care a găzduit-o pe regina Maria de Medici și purtați încălțăminte confortabilă pentru plimbările prin parc.",
+            "en": "Explore the beautiful grounds of this historic castle that once hosted Queen Marie de' Medici, and wear comfortable shoes to walk through the expansive park."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Vaux",
+            "hu": "Château de Vaux",
+            "ro": "Château de Vaux",
+            "en": "Château de Vaux"
+          },
+          "coords": [
+            0.761501,
+            47.289633
+          ],
+          "category": "castle",
+          "arrive_at": "13:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von der klassischen Architektur dieses privaten Schlosses aus dem 19. Jahrhundert verzaubern und respektieren Sie beim Fotografieren stets die Privatsphäre der Anwohner.",
+            "hu": "Hagyja, hogy elvarázsolja ennek a 19. századi magánkastélynak a klasszikus építészete, és fotózáskor mindig tartsa tiszteletben a lakók magánéletét.",
+            "ro": "Lăsați-vă fermecați de arhitectura clasică a acestui castel privat din secolul al XIX-lea și respectați mereu intimitatea locuitorilor atunci când faceți fotografii.",
+            "en": "Let yourself be enchanted by the classical architecture of this 19th-century private castle, and always respect the residents' privacy when taking photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir de la Belle Jonchère",
+            "hu": "Manoir de la Belle Jonchère",
+            "ro": "Manoir de la Belle Jonchère",
+            "en": "Manoir de la Belle Jonchère"
+          },
+          "coords": [
+            0.7525,
+            47.2597
+          ],
+          "category": "historical",
+          "arrive_at": "15:18",
+          "stay_min": 110,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 3.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses elegante Herrenhaus, das die typische Architektur der Region Touraine widerspiegelt, und nutzen Sie das weiche Abendlicht für die besten Landschaftsfotos.",
+            "hu": "Fedezze fel ezt az elegáns udvarházat, amely a Touraine régió jellegzetes építészetét tükrözi, és használja ki a lágy esti fényeket a legjobb tájképek elkészítéséhez.",
+            "ro": "Descoperiți acest conac elegant care reflectă arhitectura tipică a regiunii Touraine și profitați de lumina blândă a serii pentru a face cele mai bune fotografii.",
+            "en": "Discover this elegant manor that reflects the typical architecture of the Touraine region, and take advantage of the soft evening light for the best landscape photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Herzen von Veigné mit der Kirche Saint-Maixent und entspannten Momenten am örtlichen Pool. Mittags spazieren Sie zum malerischen Château de Couzières und genießen die ruhige Natur. Der Nachmittag führt Sie weiter zum historischen Château de Vaux. Am Abend lassen Sie den Tag am charmanten Manoir de la Belle Jonchère gemütlich ausklingen.",
+        "hu": "A reggel Veigné szívében indul a Saint-Maixent templommal és a helyi medence nyújtotta kikapcsolódással. Délben elsétál a festői Château de Couzières felé, élvezve a természet közelségét. Délután a történelmi Château de Vaux várja lenyűgöző látványával. Az estét a hangulatos Manoir de la Belle Jonchère épületénél zárja egy kellemes és nyugodt sétával.",
+        "ro": "Dimineața începe în inima orașului Veigné cu biserica Saint-Maixent și o plimbare spre piscina locală. La prânz, mergeți pe jos către pitorescul Château de Couzières, bucurându-vă de natură. După-amiaza vă poartă la istoricul Château de Vaux pentru explorări. Seara se încheie liniștit la fermecătorul Manoir de la Belle Jonchère, admirând peisajele.",
+        "en": "The morning begins in the heart of Veigné with Saint-Maixent Church and a relaxing stop at the local pool. By midday, stroll towards the picturesque Château de Couzières, enjoying the serene natural paths. The afternoon leads you to the historic Château de Vaux for further exploration. The evening concludes gracefully at the charming Manoir de la Belle Jonchère."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:08",
+      "total_km": 8.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Notre-Dame",
+            "hu": "Église Notre-Dame",
+            "ro": "Église Notre-Dame",
+            "en": "Église Notre-Dame"
+          },
+          "coords": [
+            0.714168,
+            47.286718
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses historische Gotteshaus, das eine ruhige Atmosphäre für eine kurze Besinnung bietet, und achten Sie auf die kunstvollen Details am Hauptaltar.",
+            "hu": "Lépjen be ebbe a történelmi szentélybe, amely nyugodt légkört kínál egy rövid elmélkedéshez, és figyelje meg a főoltár művészi részleteit.",
+            "ro": "Intrați în acest sanctuar istoric care oferă o atmosferă liniștită pentru o scurtă meditație și acordați atenție detaliilor artistice ale altarului principal.",
+            "en": "Enter this historic sanctuary which provides a peaceful atmosphere for quiet reflection, and pay attention to the artistic details on the main altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Donjon de Montbazon",
+            "hu": "Donjon de Montbazon",
+            "ro": "Donjon de Montbazon",
+            "en": "Donjon de Montbazon"
+          },
+          "coords": [
+            0.713789,
+            47.28514
+          ],
+          "category": "castle",
+          "arrive_at": "09:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Steigen Sie auf eine der ältesten Festungen Frankreichs, um einen Panoramablick über das Indre-Tal zu genießen, und seien Sie vorsichtig auf den steilen Treppen.",
+            "hu": "Másszon fel Franciaország egyik legrégebbi erődjébe, hogy élvezze az Indre völgyére nyíló panorámát, és vigyázzon a meredek lépcsőkön haladva.",
+            "ro": "Urcați în una dintre cele mai vechi fortărețe din Franța pentru o vedere panoramică asupra văii Indre și aveți grijă la treptele destul de abrupte.",
+            "en": "Climb one of the oldest fortresses in France to enjoy a panoramic view over the Indre valley, and be careful when navigating the steep stairs."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Maixent Church",
+            "hu": "Saint-Maixent Church",
+            "ro": "Saint-Maixent Church",
+            "en": "Saint-Maixent Church"
+          },
+          "coords": [
+            0.736563,
+            47.287697
+          ],
+          "category": "religious",
+          "arrive_at": "11:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die faszinierenden Buntglasfenster dieser historischen Kirche, die ein tiefes spirituelles Erbe birgt, und achten Sie auf die Öffnungszeiten am Nachmittag.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a lenyűgöző ólomüveg ablakait, amely mély spirituális örökséget őriz, és mindenképp ellenőrizze a délutáni nyitvatartást.",
+            "ro": "Admirați vitraliile fascinante ale acestei biserici istorice, care ascunde o profundă moștenire spirituală, și verificați programul de vizitare de după-amiază.",
+            "en": "Admire the fascinating stained glass windows of this historic church that holds a deep spiritual heritage, and be sure to check the afternoon opening hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Couzières",
+            "hu": "Château de Couzières",
+            "ro": "Château de Couzières",
+            "en": "Château de Couzières"
+          },
+          "coords": [
+            0.7354,
+            47.2949
+          ],
+          "category": "historical",
+          "arrive_at": "12:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die wunderschönen Außenanlagen dieses geschichtsträchtigen Schlosses, das einst Königin Marie de Médicis beherbergte, und tragen Sie bequeme Schuhe für den Schlosspark.",
+            "hu": "Fedezze fel ennek a történelmi kastélynak a gyönyörű parkját, amely egykor Medici Mária királynénak adott otthont, és viseljen kényelmes cipőt a sétához.",
+            "ro": "Explorați terenurile frumoase ale acestui castel istoric care a găzduit-o pe regina Maria de Medici și purtați încălțăminte confortabilă pentru plimbările prin parc.",
+            "en": "Explore the beautiful grounds of this historic castle that once hosted Queen Marie de' Medici, and wear comfortable shoes to walk through the expansive park."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Tortinière",
+            "hu": "Château de la Tortinière",
+            "ro": "Château de la Tortinière",
+            "en": "Château de la Tortinière"
+          },
+          "coords": [
+            0.709639,
+            47.300916
+          ],
+          "category": "castle",
+          "arrive_at": "13:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie dieses prachtvolle Schlosshotel mit seinen weitläufigen Gärten, die den Glanz vergangener Epochen versprühen, und buchen Sie im Voraus, falls Sie hier speisen möchten.",
+            "hu": "Csodálja meg ezt a pompás kastélyszállodát és annak kiterjedt kertjeit, amelyek a múlt korszakok ragyogását sugározzák, és foglaljon asztalt előre, ha itt szeretne étkezni.",
+            "ro": "Admirați acest hotel-castel splendid cu grădinile sale vaste care emană strălucirea epocilor trecute și rezervați din timp dacă doriți să luați masa aici.",
+            "en": "Marvel at this splendid castle hotel with its expansive gardens that exude the glamour of past eras, and book well in advance if you wish to dine here."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Vaux",
+            "hu": "Château de Vaux",
+            "ro": "Château de Vaux",
+            "en": "Château de Vaux"
+          },
+          "coords": [
+            0.761501,
+            47.289633
+          ],
+          "category": "castle",
+          "arrive_at": "15:18",
+          "stay_min": 110,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 4.1,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von der klassischen Architektur dieses privaten Schlosses aus dem 19. Jahrhundert verzaubern und respektieren Sie beim Fotografieren stets die Privatsphäre der Anwohner.",
+            "hu": "Hagyja, hogy elvarázsolja ennek a 19. századi magánkastélynak a klasszikus építészete, és fotózáskor mindig tartsa tiszteletben a lakók magánéletét.",
+            "ro": "Lăsați-vă fermecați de arhitectura clasică a acestui castel privat din secolul al XIX-lea și respectați mereu intimitatea locuitorilor atunci când faceți fotografii.",
+            "en": "Let yourself be enchanted by the classical architecture of this 19th-century private castle, and always respect the residents' privacy when taking photographs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet in Montbazon bei der Église Notre-Dame und dem imposanten Donjon. Gegen Mittag radeln Sie ins Zentrum von Veigné zur Kirche Saint-Maixent. Am Nachmittag erkunden Sie das elegante Château de Couzières und die majestätische Tortinière. Der Tag endet mit einer entspannten Fahrt zum Château de Vaux im sanften Abendlicht.",
+        "hu": "Kerékpártúrája Montbazonban kezdődik az Église Notre-Dame és a lenyűgöző Donjon felfedezésével. Délben Veigné központjába teker a Saint-Maixent templomhoz. Délután felfedezi az elegáns Château de Couzières-t és a fenséges Tortinière-t. A nap egy kellemes tekeréssel és a Château de Vaux esti fényeivel ér véget.",
+        "ro": "Turul cu bicicleta începe în Montbazon cu Église Notre-Dame și impresionantul Donjon. La prânz, pedalați spre centrul orașului Veigné la biserica Saint-Maixent. După-amiaza este dedicată explorării elegantului Château de Couzières și majestuoasei Tortinière. Ziua se termină cu o plimbare relaxantă către Château de Vaux în lumina serii.",
+        "en": "Your bike tour starts in Montbazon with Église Notre-Dame and the imposing Donjon. By midday, ride into the center of Veigné to visit Saint-Maixent Church. The afternoon is dedicated to exploring the elegant Château de Couzières and majestic Tortinière. The day ends with a relaxed ride to Château de Vaux in the soft evening light."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:46",
+      "total_km": 11.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Château de la Tortinière",
+            "hu": "Château de la Tortinière",
+            "ro": "Château de la Tortinière",
+            "en": "Château de la Tortinière"
+          },
+          "coords": [
+            0.709639,
+            47.300916
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie dieses prachtvolle Schlosshotel mit seinen weitläufigen Gärten, die den Glanz vergangener Epochen versprühen, und buchen Sie im Voraus, falls Sie hier speisen möchten.",
+            "hu": "Csodálja meg ezt a pompás kastélyszállodát és annak kiterjedt kertjeit, amelyek a múlt korszakok ragyogását sugározzák, és foglaljon asztalt előre, ha itt szeretne étkezni.",
+            "ro": "Admirați acest hotel-castel splendid cu grădinile sale vaste care emană strălucirea epocilor trecute și rezervați din timp dacă doriți să luați masa aici.",
+            "en": "Marvel at this splendid castle hotel with its expansive gardens that exude the glamour of past eras, and book well in advance if you wish to dine here."
+          }
+        },
+        {
+          "name": {
+            "de": "Donjon de Montbazon",
+            "hu": "Donjon de Montbazon",
+            "ro": "Donjon de Montbazon",
+            "en": "Donjon de Montbazon"
+          },
+          "coords": [
+            0.713789,
+            47.28514
+          ],
+          "category": "castle",
+          "arrive_at": "10:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Steigen Sie auf eine der ältesten Festungen Frankreichs, um einen Panoramablick über das Indre-Tal zu genießen, und seien Sie vorsichtig auf den steilen Treppen.",
+            "hu": "Másszon fel Franciaország egyik legrégebbi erődjébe, hogy élvezze az Indre völgyére nyíló panorámát, és vigyázzon a meredek lépcsőkön haladva.",
+            "ro": "Urcați în una dintre cele mai vechi fortărețe din Franța pentru o vedere panoramică asupra văii Indre și aveți grijă la treptele destul de abrupte.",
+            "en": "Climb one of the oldest fortresses in France to enjoy a panoramic view over the Indre valley, and be careful when navigating the steep stairs."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Maixent Church",
+            "hu": "Saint-Maixent Church",
+            "ro": "Saint-Maixent Church",
+            "en": "Saint-Maixent Church"
+          },
+          "coords": [
+            0.736563,
+            47.287697
+          ],
+          "category": "religious",
+          "arrive_at": "11:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die faszinierenden Buntglasfenster dieser historischen Kirche, die ein tiefes spirituelles Erbe birgt, und achten Sie auf die Öffnungszeiten am Nachmittag.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a lenyűgöző ólomüveg ablakait, amely mély spirituális örökséget őriz, és mindenképp ellenőrizze a délutáni nyitvatartást.",
+            "ro": "Admirați vitraliile fascinante ale acestei biserici istorice, care ascunde o profundă moștenire spirituală, și verificați programul de vizitare de după-amiază.",
+            "en": "Admire the fascinating stained glass windows of this historic church that holds a deep spiritual heritage, and be sure to check the afternoon opening hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Couzières",
+            "hu": "Château de Couzières",
+            "ro": "Château de Couzières",
+            "en": "Château de Couzières"
+          },
+          "coords": [
+            0.7354,
+            47.2949
+          ],
+          "category": "historical",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die wunderschönen Außenanlagen dieses geschichtsträchtigen Schlosses, das einst Königin Marie de Médicis beherbergte, und tragen Sie bequeme Schuhe für den Schlosspark.",
+            "hu": "Fedezze fel ennek a történelmi kastélynak a gyönyörű parkját, amely egykor Medici Mária királynénak adott otthont, és viseljen kényelmes cipőt a sétához.",
+            "ro": "Explorați terenurile frumoase ale acestui castel istoric care a găzduit-o pe regina Maria de Medici și purtați încălțăminte confortabilă pentru plimbările prin parc.",
+            "en": "Explore the beautiful grounds of this historic castle that once hosted Queen Marie de' Medici, and wear comfortable shoes to walk through the expansive park."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Vaux",
+            "hu": "Château de Vaux",
+            "ro": "Château de Vaux",
+            "en": "Château de Vaux"
+          },
+          "coords": [
+            0.761501,
+            47.289633
+          ],
+          "category": "castle",
+          "arrive_at": "14:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von der klassischen Architektur dieses privaten Schlosses aus dem 19. Jahrhundert verzaubern und respektieren Sie beim Fotografieren stets die Privatsphäre der Anwohner.",
+            "hu": "Hagyja, hogy elvarázsolja ennek a 19. századi magánkastélynak a klasszikus építészete, és fotózáskor mindig tartsa tiszteletben a lakók magánéletét.",
+            "ro": "Lăsați-vă fermecați de arhitectura clasică a acestui castel privat din secolul al XIX-lea și respectați mereu intimitatea locuitorilor atunci când faceți fotografii.",
+            "en": "Let yourself be enchanted by the classical architecture of this 19th-century private castle, and always respect the residents' privacy when taking photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Guéritaulde",
+            "hu": "Château de la Guéritaulde",
+            "ro": "Château de la Guéritaulde",
+            "en": "Château de la Guéritaulde"
+          },
+          "coords": [
+            0.737139,
+            47.26314
+          ],
+          "category": "castle",
+          "arrive_at": "15:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem malerischen Anwesen vorbei, das einen faszinierenden Einblick in die ländliche Adelskultur bietet, und bleiben Sie auf den öffentlichen Wegen ringsum.",
+            "hu": "Sétáljon el emellett a festői birtok mellett, amely lenyűgöző bepillantást nyújt a vidéki nemesi kultúrába, és ügyeljen arra, hogy a nyilvános utakon maradjon.",
+            "ro": "Plimbați-vă pe lângă această moșie pitorească care oferă o privire fascinantă asupra culturii nobiliare rurale și asigurați-vă că rămâneți pe cărările publice din jur.",
+            "en": "Walk past this picturesque estate which offers a fascinating glimpse into rural noble culture, and make sure to stay on the public paths surrounding it."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir de la Belle Jonchère",
+            "hu": "Manoir de la Belle Jonchère",
+            "ro": "Manoir de la Belle Jonchère",
+            "en": "Manoir de la Belle Jonchère"
+          },
+          "coords": [
+            0.7525,
+            47.2597
+          ],
+          "category": "historical",
+          "arrive_at": "16:56",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses elegante Herrenhaus, das die typische Architektur der Region Touraine widerspiegelt, und nutzen Sie das weiche Abendlicht für die besten Landschaftsfotos.",
+            "hu": "Fedezze fel ezt az elegáns udvarházat, amely a Touraine régió jellegzetes építészetét tükrözi, és használja ki a lágy esti fényeket a legjobb tájképek elkészítéséhez.",
+            "ro": "Descoperiți acest conac elegant care reflectă arhitectura tipică a regiunii Touraine și profitați de lumina blândă a serii pentru a face cele mai bune fotografii.",
+            "en": "Discover this elegant manor that reflects the typical architecture of the Touraine region, and take advantage of the soft evening light for the best landscape photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt majestätisch am Château de la Tortinière, bevor Sie den Donjon de Montbazon besichtigen. Mittags fahren Sie nach Veigné zur historischen Kirche und zum charmanten Château de Couzières. Nachmittags erkunden Sie die prächtigen Schlösser Vaux und Guéritaulde. Der Ausflug endet stilvoll am abgelegenen Manoir de la Belle Jonchère.",
+        "hu": "A nap fenségesen indul a Château de la Tortinière-nél, mielőtt megtekintené a montbazoni Donjont. Délben Veigné történelmi templomához és a bájos Château de Couzières-hez hajt. Délután a Vaux és Guéritaulde kastélyok pompáját fedezi fel. A kirándulás stílusosan, az eldugott Manoir de la Belle Jonchère-nél ér véget.",
+        "ro": "Ziua începe maiestuos la Château de la Tortinière, înainte de a vizita Donjon de Montbazon. La prânz, conduceți spre biserica din Veigné și fermecătorul Château de Couzières. După-amiaza descoperiți splendoarea castelelor Vaux și Guéritaulde. Excursia se încheie elegant la izolatul Manoir de la Belle Jonchère.",
+        "en": "The day begins majestically at Château de la Tortinière before visiting the Donjon de Montbazon. At midday, drive to Veigné's historic church and the charming Château de Couzières. The afternoon focuses on the splendor of the Vaux and Guéritaulde castles. The trip ends elegantly at the secluded Manoir de la Belle Jonchère."
+      }
+    }
+  }
+}

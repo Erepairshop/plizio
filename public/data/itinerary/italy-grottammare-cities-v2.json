@@ -1,0 +1,543 @@
+{
+  "city_id": "italy-grottammare-cities-v2",
+  "anchor": {
+    "name": "Grottammare",
+    "coords": [
+      13.86876,
+      42.9905
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:24",
+      "total_km": 1.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "San Pio V",
+            "hu": "San Pio V",
+            "ro": "San Pio V",
+            "en": "San Pio V"
+          },
+          "coords": [
+            13.868512,
+            42.991075
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die strenge Fassade von San Pio V, einem architektonischen Juwel, und schauen Sie früh hinein, um der Mittagssonne zu entgehen.",
+            "hu": "Csodálja meg a San Pio V szigorú homlokzatát, a város építészeti gyöngyszemét, és térjen be kora délelőtt, hogy elkerülje a hőséget.",
+            "ro": "Admirați fațada austeră a bisericii San Pio V, o bijuterie arhitecturală centrală, și vizitați-o dimineața devreme pentru a evita soarele amiezii.",
+            "en": "Admire the austere facade of San Pio V, a central architectural gem of Grottammare, and peek inside early to avoid the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "MIC – Museo dell'Illustrazione Contemporanea",
+            "hu": "MIC – Kortárs Illusztrációs Múzeum",
+            "ro": "MIC – Muzeul Ilustrației Contemporane",
+            "en": "MIC – Museum of Contemporary Illustration"
+          },
+          "coords": [
+            13.870862,
+            42.991449
+          ],
+          "category": "museum",
+          "arrive_at": "09:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie das faszinierende Museum für zeitgenössische Illustration, um italienische Comic-Kunst zu entdecken, aber prüfen Sie vorher die Zeiten.",
+            "hu": "Fedezze fel a lenyűgöző Kortárs Illusztrációs Múzeumot és az olasz képregényművészetet, de érkezés előtt ellenőrizze az időszaki kiállításokat.",
+            "ro": "Explorați fascinantul Muzeu al Ilustrației Contemporane pentru a descoperi arta benzilor desenate, verificând programul expozițiilor temporare.",
+            "en": "Explore the fascinating Museo dell'Illustrazione Contemporanea to discover Italian comic art, but check the temporary exhibition schedule before going."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno delle sirene",
+            "hu": "Bagno delle sirene",
+            "ro": "Bagno delle sirene",
+            "en": "Bagno delle sirene"
+          },
+          "coords": [
+            13.870965,
+            42.992465
+          ],
+          "category": "recreational",
+          "arrive_at": "11:36",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem herrlichen Strandabschnitt, um die Adria-Brise zu genießen, und halten Sie ein kleines Handtuch für die Füße bereit.",
+            "hu": "Pihenjen ezen a gyönyörű tengerparti részen, élvezze az adriai szellőt, és tartson magánál egy kis törölközőt, ha megmártaná a lábát a vízben.",
+            "ro": "Relaxați-vă în acest loc frumos de pe plajă pentru a savura briza Mării Adriatice, având la îndemână un prosop mic pentru a vă uda picioarele.",
+            "en": "Relax at this beautiful beachside spot to enjoy the Adriatic breeze, keeping a small towel handy if you want to dip your feet in the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Dep Art",
+            "hu": "Dep Art",
+            "ro": "Dep Art",
+            "en": "Dep Art"
+          },
+          "coords": [
+            13.869792,
+            42.995068
+          ],
+          "category": "cultural",
+          "arrive_at": "12:06",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie moderne kulturelle Werke im Dep Art, einem Zentrum lokaler Kreativität, und holen Sie sich danach einen Kaffee in der Nähe.",
+            "hu": "Fedezze fel a modern kulturális alkotásokat a Dep Artban, a helyi kreativitás központjában, és igyon egy kávét a közeli kávézók egyikében.",
+            "ro": "Descoperiți lucrări culturale moderne la Dep Art, un centru de creativitate locală, și savurați o cafea în apropiere discutând despre expoziții.",
+            "en": "Discover modern cultural works at Dep Art, a hub for local creativity, and grab a coffee nearby to enjoy while discussing the latest exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Sant'Agostino",
+            "hu": "Chiesa di Sant'Agostino",
+            "ro": "Chiesa di Sant'Agostino",
+            "en": "Chiesa di Sant'Agostino"
+          },
+          "coords": [
+            13.866773,
+            42.994218
+          ],
+          "category": "religious",
+          "arrive_at": "13:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die historischen Details der Chiesa di Sant'Agostino in der Oberstadt und bringen Sie eine Kamera für die tolle Aussicht mit.",
+            "hu": "Csodálja meg a felsővárosi Chiesa di Sant'Agostino történelmi részleteit, és hozzon magával fényképezőgépet a templom előtti lenyűgöző kilátáshoz.",
+            "ro": "Minunați-vă de detaliile istorice ale Chiesa di Sant'Agostino din orașul de sus și aduceți un aparat foto pentru priveliștile uimitoare de afară.",
+            "en": "Marvel at the historic details of Chiesa di Sant'Agostino in the upper town, and bring a camera for the stunning views just outside its doors."
+          }
+        },
+        {
+          "name": {
+            "de": "Resti di Porta Maggiore",
+            "hu": "Resti di Porta Maggiore",
+            "ro": "Resti di Porta Maggiore",
+            "en": "Resti di Porta Maggiore"
+          },
+          "coords": [
+            13.866025,
+            42.995248
+          ],
+          "category": "historical",
+          "arrive_at": "13:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Gehen Sie durch die antiken Resti di Porta Maggiore, um die mittelalterliche Geschichte zu spüren, und tragen Sie unbedingt festes Schuhwerk.",
+            "hu": "Sétáljon át az ősi Resti di Porta Maggiore-n, hogy átérezze a középkori történelmet, de viseljen kényelmes cipőt az egyenetlen macskakövek miatt.",
+            "ro": "Treceți prin anticele Resti di Porta Maggiore pentru a simți istoria medievală, purtând încălțăminte comodă deoarece pietrele pot fi inegale.",
+            "en": "Walk through the ancient Resti di Porta Maggiore to feel the medieval history, wearing sturdy shoes since the cobblestones can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Torrione della battaglia",
+            "hu": "Torrione della battaglia",
+            "ro": "Torrione della battaglia",
+            "en": "Torrione della battaglia"
+          },
+          "coords": [
+            13.866995,
+            42.995822
+          ],
+          "category": "natural",
+          "arrive_at": "15:06",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Steigen Sie in die Nähe des Torrione della battaglia, um seine Architektur zu bewundern, und genießen Sie oben das weite Küstenpanorama.",
+            "hu": "Másszon fel a Torrione della battaglia közelébe, értékelje védelmi építészetét, és szánjon időt a csodálatos tengerparti panoráma élvezetére.",
+            "ro": "Urcați lângă Torrione della battaglia pentru a-i aprecia arhitectura defensivă, făcându-vă timp să savurați panorama vastă a coastei de sus.",
+            "en": "Climb near the Torrione della battaglia to appreciate its defensive architecture, taking time to enjoy the sweeping coastal panorama at the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello di Grottammare",
+            "hu": "Castello di Grottammare",
+            "ro": "Castello di Grottammare",
+            "en": "Castello di Grottammare"
+          },
+          "coords": [
+            13.865008,
+            42.995682
+          ],
+          "category": "castle",
+          "arrive_at": "15:34",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen des Castello di Grottammare für eine Reise in die Vergangenheit und planen Sie den Besuch für das späte Nachmittagslicht.",
+            "hu": "Fedezze fel a Castello di Grottammare romjait egy időutazáshoz, és időzítse látogatását késő délutánra, hogy elcsípje a tökéletes naplementét.",
+            "ro": "Explorați ruinele castelului Grottammare pentru o călătorie în trecut, planificându-vă vizita după-amiaza târziu pentru a prinde lumina perfectă.",
+            "en": "Explore the ruins of the Castello di Grottammare for a journey into the past, planning your visit for late afternoon to capture the golden hour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen im eleganten Zentrum mit San Pio V und moderner Kunst im MIC. Mittags machen Sie eine erfrischende Pause an der Adriaküste beim Bagno delle sirene. Nachmittags spazieren Sie hinauf in die historische Oberstadt und durch das antike Porta Maggiore. Der Abend belohnt Sie mit spektakulärer Aussicht und einem Sonnenuntergang am majestätischen Castello.",
+        "hu": "Kezdje a reggelt az elegáns központban a San Pio V és a MIC modern művészetének felfedezésével. Délben frissüljön fel az Adriai-tenger partján a Bagno delle sirene-nél. Délután tegyen egy sétát a történelmi felsővárosba, az ősi Porta Maggiore felé. Az estét a lenyűgöző kilátás és a naplemente koronázza meg a fenséges Castello di Grottammare romjainál.",
+        "ro": "Începeți dimineața explorând centrul elegant, admirând San Pio V și arta de la MIC. La prânz, faceți o pauză revigorantă pe malul Mării Adriatice, la Bagno delle sirene. După-amiaza vă invită la o plimbare în orașul de sus, trecând prin antica Porta Maggiore. Seara vă răsplătește cu vederi spectaculoase și un apus de soare superb la maiestuosul Castello di Grottammare.",
+        "en": "Start your morning exploring the elegant center, viewing San Pio V and modern art at MIC. Midday brings you to the Adriatic shore for a refreshing pause at Bagno delle sirene. Afternoon calls for an uphill stroll to the historic upper town, wandering through the ancient Porta Maggiore. Evening rewards you with spectacular views and a sunset at the majestic Castello di Grottammare."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:20",
+      "total_km": 4.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Busto di Giuseppe Garibaldi",
+            "hu": "Busto di Giuseppe Garibaldi",
+            "ro": "Busto di Giuseppe Garibaldi",
+            "en": "Busto di Giuseppe Garibaldi"
+          },
+          "coords": [
+            13.86726,
+            42.989953
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Halten Sie am Büste von Giuseppe Garibaldi an, um den italienischen Helden zu ehren, und nutzen Sie diesen Ort als praktischen Treffpunkt.",
+            "hu": "Álljon meg Giuseppe Garibaldi mellszobránál, hogy tisztelegjen az olasz hős előtt, és használja ezt a központi helyet találkozási pontként.",
+            "ro": "Opriți-vă la bustul lui Giuseppe Garibaldi pentru a onora eroul italian, folosind acest loc central ca punct de întâlnire înainte de a pedala.",
+            "en": "Pause at the bust of Giuseppe Garibaldi to honor the Italian hero, using this central spot as a convenient meeting point before cycling onward."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento ai Caduti",
+            "hu": "Monumento ai Caduti",
+            "ro": "Monumento ai Caduti",
+            "en": "Monumento ai Caduti"
+          },
+          "coords": [
+            13.86836,
+            42.988604
+          ],
+          "category": "historical",
+          "arrive_at": "09:26",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Denken Sie am Monumento ai Caduti an die gefallenen Soldaten und achten Sie darauf, Ihr Fahrrad außerhalb der Fußgängerwege abzustellen.",
+            "hu": "Emlékezzen a Hősi Halottak Emlékművénél, és ügyeljen arra, hogy a kerékpárját gondosan a forgalmas gyalogos útvonalakon kívül parkolja le.",
+            "ro": "Reflectați la Monumento ai Caduti, un omagiu solemn adus soldaților, asigurându-vă că parcați bicicleta cu grijă în afara zonelor pietonale.",
+            "en": "Reflect at the Monumento ai Caduti, a solemn tribute to fallen soldiers, ensuring you park your bike carefully out of the main pedestrian paths."
+          }
+        },
+        {
+          "name": {
+            "de": "MIC – Museo dell'Illustrazione Contemporanea",
+            "hu": "MIC – Kortárs Illusztrációs Múzeum",
+            "ro": "MIC – Muzeul Ilustrației Contemporane",
+            "en": "MIC – Museum of Contemporary Illustration"
+          },
+          "coords": [
+            13.870862,
+            42.991449
+          ],
+          "category": "museum",
+          "arrive_at": "09:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie das faszinierende Museum für zeitgenössische Illustration, um italienische Comic-Kunst zu entdecken, aber prüfen Sie vorher die Zeiten.",
+            "hu": "Fedezze fel a lenyűgöző Kortárs Illusztrációs Múzeumot és az olasz képregényművészetet, de érkezés előtt ellenőrizze az időszaki kiállításokat.",
+            "ro": "Explorați fascinantul Muzeu al Ilustrației Contemporane pentru a descoperi arta benzilor desenate, verificând programul expozițiilor temporare.",
+            "en": "Explore the fascinating Museo dell'Illustrazione Contemporanea to discover Italian comic art, but check the temporary exhibition schedule before going."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno delle sirene",
+            "hu": "Bagno delle sirene",
+            "ro": "Bagno delle sirene",
+            "en": "Bagno delle sirene"
+          },
+          "coords": [
+            13.870965,
+            42.992465
+          ],
+          "category": "recreational",
+          "arrive_at": "11:24",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem herrlichen Strandabschnitt, um die Adria-Brise zu genießen, und halten Sie ein kleines Handtuch für die Füße bereit.",
+            "hu": "Pihenjen ezen a gyönyörű tengerparti részen, élvezze az adriai szellőt, és tartson magánál egy kis törölközőt, ha megmártaná a lábát a vízben.",
+            "ro": "Relaxați-vă în acest loc frumos de pe plajă pentru a savura briza Mării Adriatice, având la îndemână un prosop mic pentru a vă uda picioarele.",
+            "en": "Relax at this beautiful beachside spot to enjoy the Adriatic breeze, keeping a small towel handy if you want to dip your feet in the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Resti di Porta Maggiore",
+            "hu": "Resti di Porta Maggiore",
+            "ro": "Resti di Porta Maggiore",
+            "en": "Resti di Porta Maggiore"
+          },
+          "coords": [
+            13.866025,
+            42.995248
+          ],
+          "category": "historical",
+          "arrive_at": "11:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Gehen Sie durch die antiken Resti di Porta Maggiore, um die mittelalterliche Geschichte zu spüren, und tragen Sie unbedingt festes Schuhwerk.",
+            "hu": "Sétáljon át az ősi Resti di Porta Maggiore-n, hogy átérezze a középkori történelmet, de viseljen kényelmes cipőt az egyenetlen macskakövek miatt.",
+            "ro": "Treceți prin anticele Resti di Porta Maggiore pentru a simți istoria medievală, purtând încălțăminte comodă deoarece pietrele pot fi inegale.",
+            "en": "Walk through the ancient Resti di Porta Maggiore to feel the medieval history, wearing sturdy shoes since the cobblestones can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santa Maria dei Monti",
+            "hu": "Chiesa di Santa Maria dei Monti",
+            "ro": "Chiesa di Santa Maria dei Monti",
+            "en": "Chiesa di Santa Maria dei Monti"
+          },
+          "coords": [
+            13.861019,
+            42.993751
+          ],
+          "category": "religious",
+          "arrive_at": "13:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Radeln Sie zur Chiesa di Santa Maria dei Monti für eine ruhige Atmosphäre, teilen Sie Ihre Kräfte gut ein und bringen Sie ausreichend Wasser mit.",
+            "hu": "Tekerjen fel a Chiesa di Santa Maria dei Monti templomhoz a nyugodt légkörért, ossza be az erejét, és vigyen magával vizet a meredek útra.",
+            "ro": "Pedalați până la Chiesa di Santa Maria dei Monti pentru o atmosferă senină, dozându-vă efortul la urcare și aducând apă pentru drumul abrupt.",
+            "en": "Pedal up to Chiesa di Santa Maria dei Monti for a serene atmosphere, pacing yourself on the ascent and bringing water for the uphill journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa della Gran Madre di Dio",
+            "hu": "Chiesa della Gran Madre di Dio",
+            "ro": "Chiesa della Gran Madre di Dio",
+            "en": "Chiesa della Gran Madre di Dio"
+          },
+          "coords": [
+            13.874967,
+            42.971819
+          ],
+          "category": "religious",
+          "arrive_at": "14:10",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Chiesa della Gran Madre di Dio wegen ihres modernen Designs und prüfen Sie die Messezeiten, um in Ruhe schauen zu können.",
+            "hu": "Látogasson el a Chiesa della Gran Madre di Dio templomba, csodálja meg modern dizájnját, és ellenőrizze a misék rendjét a nyugodt körbenézéshez.",
+            "ro": "Vizitați Chiesa della Gran Madre di Dio pentru designul său modern, verificând programul slujbelor pentru a vă asigura că puteți privi în liniște.",
+            "en": "Visit the Chiesa della Gran Madre di Dio to see its unique modern design, checking the mass schedule to ensure you can look around quietly."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour im belebten Zentrum und besichtigen Sie Denkmäler und das Comicmuseum. Mittags bietet sich eine kurze Pause an der lebhaften Küste am Bagno delle sirene an. Nachmittags treten Sie in die Pedale in Richtung des historischen Porta Maggiore und der hochgelegenen Heiligtümer. Beenden Sie die Fahrt mit einer abendlichen Tour zur modernen Gran Madre di Dio.",
+        "hu": "Indítsa kerékpártúráját a nyüzsgő központban, megtekintve a műemlékeket és a képregénymúzeumot. Délben pihenjen meg a tengerparton a Bagno delle sirene-nél. Délután tekerjen a történelmi Porta Maggiore és a hegyvidéki szentélyek felé. Fejezze be túráját egy esti tekeréssel délre, hogy megcsodálja a modern Chiesa della Gran Madre di Dio épületét.",
+        "ro": "Începeți turul cu bicicleta în centrul plin de viață, admirând monumentele istorice și muzeul. La prânz, relaxați-vă pe malul animat al mării la Bagno delle sirene. După-amiaza, pedalați spre istorica Porta Maggiore și sanctuarele din orașul de sus. Încheiați cursa cu o plimbare de seară spre sud, către moderna biserică Chiesa della Gran Madre di Dio.",
+        "en": "Kick off your cycling tour in the bustling center, taking in historic monuments and the comic art museum. Midday invites a quick rest by the lively shoreline at Bagno delle sirene. In the afternoon, shift gears and pedal towards the historic Porta Maggiore and uphill sanctuaries. Conclude your ride with an evening cruise south to the modern Chiesa della Gran Madre di Dio."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:12",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa della Gran Madre di Dio",
+            "hu": "Chiesa della Gran Madre di Dio",
+            "ro": "Chiesa della Gran Madre di Dio",
+            "en": "Chiesa della Gran Madre di Dio"
+          },
+          "coords": [
+            13.874967,
+            42.971819
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Chiesa della Gran Madre di Dio wegen ihres modernen Designs und prüfen Sie die Messezeiten, um in Ruhe schauen zu können.",
+            "hu": "Látogasson el a Chiesa della Gran Madre di Dio templomba, csodálja meg modern dizájnját, és ellenőrizze a misék rendjét a nyugodt körbenézéshez.",
+            "ro": "Vizitați Chiesa della Gran Madre di Dio pentru designul său modern, verificând programul slujbelor pentru a vă asigura că puteți privi în liniște.",
+            "en": "Visit the Chiesa della Gran Madre di Dio to see its unique modern design, checking the mass schedule to ensure you can look around quietly."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa della Madonna della Speranza",
+            "hu": "Chiesa della Madonna della Speranza",
+            "ro": "Chiesa della Madonna della Speranza",
+            "en": "Chiesa della Madonna della Speranza"
+          },
+          "coords": [
+            13.857683,
+            42.983535
+          ],
+          "category": "religious",
+          "arrive_at": "09:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die versteckte Chiesa della Madonna della Speranza im Landesinneren und nutzen Sie die kleinen Parkplätze direkt neben dem Eingang.",
+            "hu": "Fedezze fel a szárazföld belsejében megbúvó Chiesa della Madonna della Speranza templomot, és használja a bejárat melletti kis parkolóhelyeket.",
+            "ro": "Descoperiți ascunsa Chiesa della Madonna della Speranza în zona interioară, utilizând micile locuri de parcare disponibile lângă intrare.",
+            "en": "Discover the hidden Chiesa della Madonna della Speranza in the inland area, utilizing the small roadside parking spaces available near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno della Regina",
+            "hu": "Bagno della Regina",
+            "ro": "Bagno della Regina",
+            "en": "Bagno della Regina"
+          },
+          "coords": [
+            13.849975,
+            42.98291
+          ],
+          "category": "historical",
+          "arrive_at": "10:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Untersuchen Sie das historische Bagno della Regina, um alte lokale Geschichten zu entdecken, und tragen Sie bequeme Schuhe für den kurzen Fußweg.",
+            "hu": "Kutassa fel a történelmi Bagno della Reginát, hogy megismerje a helyi legendákat, és viseljen kényelmes cipőt az autótól való rövid sétához.",
+            "ro": "Investigați istoricul Bagno della Regina pentru a afla povești locale antice, purtând încălțăminte comodă pentru scurta plimbare de la mașină.",
+            "en": "Investigate the historical Bagno della Regina to uncover ancient local tales, wearing comfortable walking shoes for the brief walk from your car."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santa Maria dei Monti",
+            "hu": "Chiesa di Santa Maria dei Monti",
+            "ro": "Chiesa di Santa Maria dei Monti",
+            "en": "Chiesa di Santa Maria dei Monti"
+          },
+          "coords": [
+            13.861019,
+            42.993751
+          ],
+          "category": "religious",
+          "arrive_at": "11:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Radeln Sie zur Chiesa di Santa Maria dei Monti für eine ruhige Atmosphäre, teilen Sie Ihre Kräfte gut ein und bringen Sie ausreichend Wasser mit.",
+            "hu": "Tekerjen fel a Chiesa di Santa Maria dei Monti templomhoz a nyugodt légkörért, ossza be az erejét, és vigyen magával vizet a meredek útra.",
+            "ro": "Pedalați până la Chiesa di Santa Maria dei Monti pentru o atmosferă senină, dozându-vă efortul la urcare și aducând apă pentru drumul abrupt.",
+            "en": "Pedal up to Chiesa di Santa Maria dei Monti for a serene atmosphere, pacing yourself on the ascent and bringing water for the uphill journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello di Grottammare",
+            "hu": "Castello di Grottammare",
+            "ro": "Castello di Grottammare",
+            "en": "Castello di Grottammare"
+          },
+          "coords": [
+            13.865008,
+            42.995682
+          ],
+          "category": "castle",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen des Castello di Grottammare für eine Reise in die Vergangenheit und planen Sie den Besuch für das späte Nachmittagslicht.",
+            "hu": "Fedezze fel a Castello di Grottammare romjait egy időutazáshoz, és időzítse látogatását késő délutánra, hogy elcsípje a tökéletes naplementét.",
+            "ro": "Explorați ruinele castelului Grottammare pentru o călătorie în trecut, planificându-vă vizita după-amiaza târziu pentru a prinde lumina perfectă.",
+            "en": "Explore the ruins of the Castello di Grottammare for a journey into the past, planning your visit for late afternoon to capture the golden hour."
+          }
+        },
+        {
+          "name": {
+            "de": "MIC – Museo dell'Illustrazione Contemporanea",
+            "hu": "MIC – Kortárs Illusztrációs Múzeum",
+            "ro": "MIC – Muzeul Ilustrației Contemporane",
+            "en": "MIC – Museum of Contemporary Illustration"
+          },
+          "coords": [
+            13.870862,
+            42.991449
+          ],
+          "category": "museum",
+          "arrive_at": "14:02",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie das faszinierende Museum für zeitgenössische Illustration, um italienische Comic-Kunst zu entdecken, aber prüfen Sie vorher die Zeiten.",
+            "hu": "Fedezze fel a lenyűgöző Kortárs Illusztrációs Múzeumot és az olasz képregényművészetet, de érkezés előtt ellenőrizze az időszaki kiállításokat.",
+            "ro": "Explorați fascinantul Muzeu al Ilustrației Contemporane pentru a descoperi arta benzilor desenate, verificând programul expozițiilor temporare.",
+            "en": "Explore the fascinating Museo dell'Illustrazione Contemporanea to discover Italian comic art, but check the temporary exhibition schedule before going."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt mit der markanten modernen Architektur der Gran Madre di Dio im Süden. Mittags fahren Sie ins Landesinnere, um verborgene Schätze und das ruhige Bagno della Regina zu entdecken. Nachmittags steuern Sie auf Panoramastraßen das Castello an, um atemberaubende Küstenblicke zu genießen. Lassen Sie den Tag mit einem entspannten Museumsbesuch im MIC ausklingen.",
+        "hu": "Az utazás a Gran Madre di Dio lenyűgöző modern építészetével indul a déli részen. Délben haladjon a szárazföld belseje felé, hogy felfedezze a történelmi kincseket és a csendes Bagno della Reginát. Délután vezessen a panorámautakon a Castellóhoz a lélegzetelállító tengerparti kilátásért. Zárja a napot a városközpontban egy pihentető múzeumlátogatással a MIC-ben.",
+        "ro": "Călătoria cu mașina începe cu arhitectura modernă a Gran Madre di Dio din sud. La prânz, îndreptați-vă spre interior pentru a descoperi comori ascunse și liniștitul Bagno della Regina. După-amiaza, navigați pe drumurile panoramice spre Castello pentru priveliști de coastă uluitoare. Încheiați ziua revenind în centru pentru o vizită relaxantă la muzeul MIC.",
+        "en": "Your drive begins with the striking modern architecture of Gran Madre di Dio in the south. Midday takes you inland to discover hidden historical treasures and the tranquil Bagno della Regina. In the afternoon, navigate the panoramic roads to Castello di Grottammare for breathtaking coastal views. Wrap up your day returning to the town center for a relaxed museum visit at MIC."
+      }
+    }
+  }
+}

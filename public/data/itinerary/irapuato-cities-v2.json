@@ -1,0 +1,451 @@
+{
+  "city_id": "irapuato-cities-v2",
+  "anchor": {
+    "name": "Irapuato",
+    "coords": [
+      -101.347,
+      20.672
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:53",
+      "total_km": 2.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Teatro de la Ciudad",
+            "hu": "Teatro de la Ciudad",
+            "ro": "Teatro de la Ciudad",
+            "en": "Teatro de la Ciudad"
+          },
+          "coords": [
+            -101.34568,
+            20.672501
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur dieses Kulturzentrums und prüfen Sie vorab den Spielplan, um vielleicht eine inspirierende Abendvorstellung zu erleben.",
+            "hu": "Csodálja meg e kulturális központ modern építészetét, és előre ellenőrizze a helyi műsort, hogy esetleg elcsípjen egy inspiráló esti előadást vagy kiállítást.",
+            "ro": "Admirați arhitectura modernă a acestui centru cultural, verificând programul local în avans pentru a prinde un spectacol sau o expoziție inspiratoare.",
+            "en": "Admire the striking modern architecture of this cultural hub, checking the local schedule in advance to possibly catch an inspiring evening performance or exhibition."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuestra Señora de la Soledad",
+            "hu": "Nuestra Señora de la Soledad",
+            "ro": "Nuestra Señora de la Soledad",
+            "en": "Nuestra Señora de la Soledad"
+          },
+          "coords": [
+            -101.346704,
+            20.674857
+          ],
+          "category": "religious",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses ruhige Heiligtum, um die kunstvollen Altäre zu bewundern; kleiden Sie sich bescheiden und sprechen Sie leise, um die Atmosphäre zu wahren.",
+            "hu": "Lépjen be ebbe a békés szentélybe, hogy megcsodálja a díszes oltárokat; öltözzön szerényen és beszéljen halkan, tiszteletben tartva a csendes atmoszférát.",
+            "ro": "Pășiți în acest sanctuar religios pentru a admira altarele ornamentate, îmbrăcându-vă modest și vorbind încet pentru a respecta atmosfera pașnică.",
+            "en": "Step inside this serene religious sanctuary to admire its ornate altarpieces, making sure to dress modestly and speak softly to respect the peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Municipal",
+            "hu": "Museo Municipal",
+            "ro": "Museo Municipal",
+            "en": "Museo Municipal"
+          },
+          "coords": [
+            -101.350066,
+            20.674253
+          ],
+          "category": "museum",
+          "arrive_at": "10:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie das reiche kulturelle Erbe von Irapuato durch faszinierende Exponate und fragen Sie das Personal unbedingt nach der versteckten Galerie oben.",
+            "hu": "Ismerje meg Irapuato gazdag kulturális örökségét a lenyűgöző történelmi kiállításokon keresztül, és kérdezze a személyzetet a rejtett emeleti galériáról.",
+            "ro": "Explorați bogata moștenire culturală a Irapuatoului prin expoziții istorice fascinante și nu uitați să întrebați personalul despre galeria ascunsă de sus.",
+            "en": "Explore Irapuato's rich cultural heritage through fascinating historical exhibits, and don't forget to ask the knowledgeable staff for the hidden gallery upstairs."
+          }
+        },
+        {
+          "name": {
+            "de": "Camión de Bomberos",
+            "hu": "Camión de Bomberos",
+            "ro": "Camión de Bomberos",
+            "en": "Camión de Bomberos"
+          },
+          "coords": [
+            -101.355742,
+            20.675203
+          ],
+          "category": "landmark",
+          "arrive_at": "12:31",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Machen Sie ein unvergessliches Foto neben diesem ikonischen historischen Feuerwehrauto und würdigen Sie die Geschichte der lokalen Rettungsdienste.",
+            "hu": "Készítsen egy emlékezetes fotót emellett az ikonikus régi tűzoltóautó mellett, egy pillanatra tisztelegve a helyi mentőszolgálatok történelme előtt.",
+            "ro": "Faceți o fotografie memorabilă lângă acest monument iconic al mașinii de pompieri de epocă, apreciind istoria serviciilor locale de intervenție de urgență.",
+            "en": "Snap a memorable photo next to this iconic vintage fire engine monument, taking a brief moment to appreciate the history of the local emergency response services."
+          }
+        },
+        {
+          "name": {
+            "de": "Obelisco Irapuato",
+            "hu": "Obelisco Irapuato",
+            "ro": "Obelisco Irapuato",
+            "en": "Obelisco Irapuato"
+          },
+          "coords": [
+            -101.357932,
+            20.684935
+          ],
+          "category": "historical",
+          "arrive_at": "13:03",
+          "stay_min": 110,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses beeindruckende Denkmal für die Helden der Stadt und versuchen Sie, bei Sonnenuntergang hier zu sein, wenn der Platz schön beleuchtet ist.",
+            "hu": "Tekintsen fel erre a város hőseinek szentelt lenyűgöző emlékműre, és próbáljon naplementekor érkezni, amikor a környező teret gyönyörűen megvilágítják.",
+            "ro": "Priviți acest monument impresionant dedicat eroilor orașului și încercați să vizitați la apus, când piața înconjurătoare este frumos luminată.",
+            "en": "Gaze up at this impressive towering monument dedicated to the city's heroes, and try to visit during sunset when the surrounding plaza is beautifully illuminated."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am modernen Teatro de la Ciudad und genießen Sie dann die Friedlichkeit der Nuestra Señora de la Soledad. Mittags tauchen Sie im Museo Municipal in die faszinierende Vergangenheit der Region ein. Am Nachmittag machen Sie einen kurzen Abstecher zum kuriosen Denkmal des Camión de Bomberos. Wenn der Abend naht, bewundern Sie den beeindruckenden und beleuchteten Obelisco.",
+        "hu": "Kezdje a napot Irapuato művészeti szívében, a modern Teatro de la Ciudadnál, majd élvezze a Nuestra Señora de la Soledad békés hangulatát. Délben a Museo Municipal kiállításain merülhet el a régió múltjában. Délután tegyen egy rövid kitérőt a különleges Camión de Bomberos emlékműhöz. Kora este csodálja meg az Obelisco Irapuato magasba törő, gyönyörűen kivilágított oszlopát.",
+        "ro": "Începeți ziua explorând inima artistică a orașului la modernul Teatro de la Ciudad, urmată de ambianța pașnică a bisericii Nuestra Señora de la Soledad. La prânz, descoperiți trecutul fascinant al regiunii la Museo Municipal. După-amiaza, faceți un scurt ocol la monumentul inedit Camión de Bomberos. Pe măsură ce se lasă seara, admirați impresionantul Obelisco Irapuato frumos iluminat.",
+        "en": "Begin your day exploring the artistic heart of Irapuato at the modern Teatro de la Ciudad, followed by the peaceful ambiance of Nuestra Señora de la Soledad. Midday brings a deep dive into the region's fascinating past at the Museo Municipal. In the afternoon, enjoy a quick detour to the quirky Camión de Bomberos monument. As evening falls, admire the towering Obelisco beautifully lit up."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:54",
+      "total_km": 7.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zoológico de Irapuato \"ZOOIRA\"",
+            "hu": "Zoológico de Irapuato \"ZOOIRA\"",
+            "ro": "Zoológico de Irapuato \"ZOOIRA\"",
+            "en": "Zoológico de Irapuato \"ZOOIRA\""
+          },
+          "coords": [
+            -101.329695,
+            20.652833
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 130,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die regionale und exotische Tierwelt in diesem familienfreundlichen Zoo, wobei Sie früh ankommen sollten, um die Mittagshitze zu meiden.",
+            "hu": "Fedezze fel a változatos helyi és egzotikus vadvilágot ebben a családbarát állatkertben, és érkezzen korán, hogy elkerülje a déli hőséget az etetésekkor.",
+            "ro": "Descoperiți fauna diversă și exotică în această grădină zoologică prietenoasă cu familiile, ajungând devreme pentru a evita căldura amiezii la hrănire.",
+            "en": "Discover diverse regional and exotic wildlife in this family-friendly zoo, making sure to arrive early to avoid the midday heat while feeding the animals."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro de la Ciudad",
+            "hu": "Teatro de la Ciudad",
+            "ro": "Teatro de la Ciudad",
+            "en": "Teatro de la Ciudad"
+          },
+          "coords": [
+            -101.34568,
+            20.672501
+          ],
+          "category": "cultural",
+          "arrive_at": "11:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur dieses Kulturzentrums und prüfen Sie vorab den Spielplan, um vielleicht eine inspirierende Abendvorstellung zu erleben.",
+            "hu": "Csodálja meg e kulturális központ modern építészetét, és előre ellenőrizze a helyi műsort, hogy esetleg elcsípjen egy inspiráló esti előadást vagy kiállítást.",
+            "ro": "Admirați arhitectura modernă a acestui centru cultural, verificând programul local în avans pentru a prinde un spectacol sau o expoziție inspiratoare.",
+            "en": "Admire the striking modern architecture of this cultural hub, checking the local schedule in advance to possibly catch an inspiring evening performance or exhibition."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuestra Señora de la Soledad",
+            "hu": "Nuestra Señora de la Soledad",
+            "ro": "Nuestra Señora de la Soledad",
+            "en": "Nuestra Señora de la Soledad"
+          },
+          "coords": [
+            -101.346704,
+            20.674857
+          ],
+          "category": "religious",
+          "arrive_at": "12:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses ruhige Heiligtum, um die kunstvollen Altäre zu bewundern; kleiden Sie sich bescheiden und sprechen Sie leise, um die Atmosphäre zu wahren.",
+            "hu": "Lépjen be ebbe a békés szentélybe, hogy megcsodálja a díszes oltárokat; öltözzön szerényen és beszéljen halkan, tiszteletben tartva a csendes atmoszférát.",
+            "ro": "Pășiți în acest sanctuar religios pentru a admira altarele ornamentate, îmbrăcându-vă modest și vorbind încet pentru a respecta atmosfera pașnică.",
+            "en": "Step inside this serene religious sanctuary to admire its ornate altarpieces, making sure to dress modestly and speak softly to respect the peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Municipal",
+            "hu": "Museo Municipal",
+            "ro": "Museo Municipal",
+            "en": "Museo Municipal"
+          },
+          "coords": [
+            -101.350066,
+            20.674253
+          ],
+          "category": "museum",
+          "arrive_at": "12:49",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie das reiche kulturelle Erbe von Irapuato durch faszinierende Exponate und fragen Sie das Personal unbedingt nach der versteckten Galerie oben.",
+            "hu": "Ismerje meg Irapuato gazdag kulturális örökségét a lenyűgöző történelmi kiállításokon keresztül, és kérdezze a személyzetet a rejtett emeleti galériáról.",
+            "ro": "Explorați bogata moștenire culturală a Irapuatoului prin expoziții istorice fascinante și nu uitați să întrebați personalul despre galeria ascunsă de sus.",
+            "en": "Explore Irapuato's rich cultural heritage through fascinating historical exhibits, and don't forget to ask the knowledgeable staff for the hidden gallery upstairs."
+          }
+        },
+        {
+          "name": {
+            "de": "Obelisco Irapuato",
+            "hu": "Obelisco Irapuato",
+            "ro": "Obelisco Irapuato",
+            "en": "Obelisco Irapuato"
+          },
+          "coords": [
+            -101.357932,
+            20.684935
+          ],
+          "category": "historical",
+          "arrive_at": "14:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses beeindruckende Denkmal für die Helden der Stadt und versuchen Sie, bei Sonnenuntergang hier zu sein, wenn der Platz schön beleuchtet ist.",
+            "hu": "Tekintsen fel erre a város hőseinek szentelt lenyűgöző emlékműre, és próbáljon naplementekor érkezni, amikor a környező teret gyönyörűen megvilágítják.",
+            "ro": "Priviți acest monument impresionant dedicat eroilor orașului și încercați să vizitați la apus, când piața înconjurătoare este frumos luminată.",
+            "en": "Gaze up at this impressive towering monument dedicated to the city's heroes, and try to visit during sunset when the surrounding plaza is beautifully illuminated."
+          }
+        },
+        {
+          "name": {
+            "de": "Pileta",
+            "hu": "Pileta",
+            "ro": "Pileta",
+            "en": "Pileta"
+          },
+          "coords": [
+            -101.3749,
+            20.696795
+          ],
+          "category": "recreational",
+          "arrive_at": "16:09",
+          "stay_min": 105,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Machen Sie eine erfrischende Pause an diesem charmanten öffentlichen Becken, ideal für eine kurze Abkühlung, während Sie lokale Snacks von den nahegelegenen Ständen genießen.",
+            "hu": "Tartson egy frissítő szünetet e bájos nyilvános medence közelében, amely tökéletes egy gyors hűsölésre egy napsütéses délutánon, miközben helyi falatokat eszik.",
+            "ro": "Luați o pauză revigorantă lângă această piscină publică fermecătoare, perfectă pentru a vă răcori în timp ce savurați gustări locale de la vânzătorii din apropiere.",
+            "en": "Take a refreshing break near this charming public pool area, perfect for a quick cool-down on a sunny afternoon while enjoying local snacks from nearby vendors."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Vormittag beginnt mit einer vergnüglichen Radtour zum ZOOIRA, wo Sie exotische Tiere beobachten können. Mittags radeln Sie ins historische Zentrum, um am Teatro und im Museum in die Kultur einzutauchen. Der Nachmittag ist geprägt von der ruhigen Atmosphäre rund um den historischen Obelisco. Den Abend lassen Sie bei einer erfrischenden Pause an der Pileta gemütlich ausklingen.",
+        "hu": "A délelőtt egy kellemes biciklizéssel indul a ZOOIRA felé, ahol egzotikus állatokat láthat. Délben a történelmi központba kerekezik, hogy a színházban és a múzeumban élvezze a kultúrát. A délutánt a történelmi Obelisco körüli békés hangulat határozza meg. Az estét a Pileta melletti frissítő pihenővel és kellemes falatozással zárhatja.",
+        "ro": "Dimineața începe cu o plimbare plăcută cu bicicleta spre ZOOIRA, unde veți vedea animale exotice. La prânz, pedalați spre centrul istoric pentru a vă scufunda în cultură la teatru și muzeu. După-amiaza este marcată de atmosfera liniștită din jurul Obeliscului istoric. Încheiați seara relaxându-vă cu o pauză răcoritoare la Pileta, alături de localnici.",
+        "en": "The morning begins with an enjoyable bike ride down to ZOOIRA, where you'll observe exotic wildlife. Midday sees you cycling into the historical center to soak up the local culture at the theater and museum. Your afternoon is defined by the historic and peaceful ambiance surrounding the Obelisco. Finish the evening by rolling out to Pileta for a refreshing sunset break."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:19",
+      "total_km": 11.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zoológico de Irapuato \"ZOOIRA\"",
+            "hu": "Zoológico de Irapuato \"ZOOIRA\"",
+            "ro": "Zoológico de Irapuato \"ZOOIRA\"",
+            "en": "Zoológico de Irapuato \"ZOOIRA\""
+          },
+          "coords": [
+            -101.329695,
+            20.652833
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 130,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die regionale und exotische Tierwelt in diesem familienfreundlichen Zoo, wobei Sie früh ankommen sollten, um die Mittagshitze zu meiden.",
+            "hu": "Fedezze fel a változatos helyi és egzotikus vadvilágot ebben a családbarát állatkertben, és érkezzen korán, hogy elkerülje a déli hőséget az etetésekkor.",
+            "ro": "Descoperiți fauna diversă și exotică în această grădină zoologică prietenoasă cu familiile, ajungând devreme pentru a evita căldura amiezii la hrănire.",
+            "en": "Discover diverse regional and exotic wildlife in this family-friendly zoo, making sure to arrive early to avoid the midday heat while feeding the animals."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Municipal",
+            "hu": "Museo Municipal",
+            "ro": "Museo Municipal",
+            "en": "Museo Municipal"
+          },
+          "coords": [
+            -101.350066,
+            20.674253
+          ],
+          "category": "museum",
+          "arrive_at": "11:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie das reiche kulturelle Erbe von Irapuato durch faszinierende Exponate und fragen Sie das Personal unbedingt nach der versteckten Galerie oben.",
+            "hu": "Ismerje meg Irapuato gazdag kulturális örökségét a lenyűgöző történelmi kiállításokon keresztül, és kérdezze a személyzetet a rejtett emeleti galériáról.",
+            "ro": "Explorați bogata moștenire culturală a Irapuatoului prin expoziții istorice fascinante și nu uitați să întrebați personalul despre galeria ascunsă de sus.",
+            "en": "Explore Irapuato's rich cultural heritage through fascinating historical exhibits, and don't forget to ask the knowledgeable staff for the hidden gallery upstairs."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuestra Señora de la Soledad",
+            "hu": "Nuestra Señora de la Soledad",
+            "ro": "Nuestra Señora de la Soledad",
+            "en": "Nuestra Señora de la Soledad"
+          },
+          "coords": [
+            -101.346704,
+            20.674857
+          ],
+          "category": "religious",
+          "arrive_at": "13:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses ruhige Heiligtum, um die kunstvollen Altäre zu bewundern; kleiden Sie sich bescheiden und sprechen Sie leise, um die Atmosphäre zu wahren.",
+            "hu": "Lépjen be ebbe a békés szentélybe, hogy megcsodálja a díszes oltárokat; öltözzön szerényen és beszéljen halkan, tiszteletben tartva a csendes atmoszférát.",
+            "ro": "Pășiți în acest sanctuar religios pentru a admira altarele ornamentate, îmbrăcându-vă modest și vorbind încet pentru a respecta atmosfera pașnică.",
+            "en": "Step inside this serene religious sanctuary to admire its ornate altarpieces, making sure to dress modestly and speak softly to respect the peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Obelisco Irapuato",
+            "hu": "Obelisco Irapuato",
+            "ro": "Obelisco Irapuato",
+            "en": "Obelisco Irapuato"
+          },
+          "coords": [
+            -101.357932,
+            20.684935
+          ],
+          "category": "historical",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses beeindruckende Denkmal für die Helden der Stadt und versuchen Sie, bei Sonnenuntergang hier zu sein, wenn der Platz schön beleuchtet ist.",
+            "hu": "Tekintsen fel erre a város hőseinek szentelt lenyűgöző emlékműre, és próbáljon naplementekor érkezni, amikor a környező teret gyönyörűen megvilágítják.",
+            "ro": "Priviți acest monument impresionant dedicat eroilor orașului și încercați să vizitați la apus, când piața înconjurătoare este frumos luminată.",
+            "en": "Gaze up at this impressive towering monument dedicated to the city's heroes, and try to visit during sunset when the surrounding plaza is beautifully illuminated."
+          }
+        },
+        {
+          "name": {
+            "de": "El Hongo Balneario",
+            "hu": "El Hongo Balneario",
+            "ro": "El Hongo Balneario",
+            "en": "El Hongo Balneario"
+          },
+          "coords": [
+            -101.305407,
+            20.679318
+          ],
+          "category": "recreational",
+          "arrive_at": "15:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in den einladenden Thermalbecken dieses beliebten Erholungsortes; bringen Sie Handtücher mit und kommen Sie an Wochentagen, um den Massen zu entgehen.",
+            "hu": "Pihenjen és frissüljön fel e népszerű rekreációs hely hívogató termálmedencéiben, hozzon saját törölközőt, és érkezzen hétköznap a tömeg elkerülése végett.",
+            "ro": "Relaxați-vă în piscinele termale primitoare ale acestui loc de agrement popular, aducând propriile prosoape și vizitând în timpul săptămânii pentru liniște.",
+            "en": "Relax and rejuvenate in the inviting thermal pools of this popular recreational spot, bringing your own towels and arriving on weekdays to avoid large crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Aqua Bajio Balneario",
+            "hu": "Aqua Bajio Balneario",
+            "ro": "Aqua Bajio Balneario",
+            "en": "Aqua Bajio Balneario"
+          },
+          "coords": [
+            -101.298773,
+            20.684868
+          ],
+          "category": "recreational",
+          "arrive_at": "16:34",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Stürzen Sie sich ins Vergnügen in diesem weitläufigen Wasserpark; sichern Sie sich früh einen schattigen Liegestuhl als bequeme Basis für die ganze Familie.",
+            "hu": "Csobbanjon a szórakozásba ebben a hatalmas víziparkban; foglaljon le korán egy árnyékos napozóágyat, ami kényelmes bázist biztosít az egész családnak.",
+            "ro": "Distrați-vă în acest parc acvatic extins cu tobogane; ocuparea devreme a unui șezlong umbrit vă garantează o bază confortabilă pentru întreaga familie.",
+            "en": "Splash into fun at this expansive water park with thrilling slides, where securing a shaded lounge chair early guarantees a comfortable base for your entire family."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie den Tag mit einer unterhaltsamen Fahrt zum ZOOIRA für ein familienfreundliches Tiererlebnis. Fahren Sie mittags ins Zentrum, um das Erbe der Stadt im Museo Municipal und in der Kirche zu erkunden. Am Nachmittag lassen Sie die Kultur hinter sich und fahren zu den entspannenden Thermalbecken im El Hongo. Der Abend verspricht noch mehr nassen Familienspaß im nahegelegenen Aqua Bajio.",
+        "hu": "Kezdje a napot egy vidám autózással a ZOOIRA-ba egy családbarát állatos kalandért. Délben parkoljon le a központban, hogy felfedezze a város örökségét a múzeumban és a templomban. Délután hagyja maga mögött a kultúrát, és vezessen el az El Hongo pihentető termálmedencéihez. Az este további vizes családi szórakozást ígér a közeli Aqua Bajio víziparkban.",
+        "ro": "Începeți ziua cu un drum distractiv spre ZOOIRA pentru o experiență de neuitat alături de familie. La prânz, parcați în centru pentru a explora moștenirea orașului la muzeu și biserică. După-amiaza, lăsați cultura în urmă și conduceți spre piscinele termale relaxante de la El Hongo. Seara promite și mai multă distracție în apă pentru familie la parcul acvatic Aqua Bajio din apropiere.",
+        "en": "Start the day with a fun drive to ZOOIRA for a family-friendly wildlife experience. Drive into the center at midday to explore the city's heritage at the museum and church. In the afternoon, leave the culture behind and drive out to the relaxing thermal pools at El Hongo. Your evening promises even more wet and wild family fun at the nearby Aqua Bajio water park."
+      }
+    }
+  }
+}

@@ -1,0 +1,543 @@
+{
+  "city_id": "saint-martin-lez-tatinghem",
+  "anchor": {
+    "name": "Saint-Martin-lez-Tatinghem",
+    "coords": [
+      2.2367,
+      50.7558
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:17",
+      "total_km": 2.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Maison du Rivage",
+            "hu": "Maison du Rivage",
+            "ro": "Maison du Rivage",
+            "en": "Maison du Rivage"
+          },
+          "coords": [
+            2.237056,
+            50.755601
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses charmante Freizeithaus am Ufer, das die lokale Geschichte widerspiegelt, und bringen Sie eine Kamera für die schöne Aussicht auf das Wasser mit.",
+            "hu": "Fedezze fel ezt a bájos vízparti szabadidős házat, amely a helyi történelmet tükrözi, és hozzon magával fényképezőgépet a gyönyörű kilátás miatt.",
+            "ro": "Explorați această casă de agrement fermecătoare de pe mal, reflectând istoria locală, și aduceți un aparat foto pentru priveliștile frumoase pe apă.",
+            "en": "Explore this charming riverside recreational house reflecting local history, and make sure to bring a camera for the beautiful waterfront views."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Martin",
+            "hu": "Saint-Martin templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            2.23523,
+            50.754774
+          ],
+          "category": "religious",
+          "arrive_at": "10:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die architektonischen Details dieser friedlichen religiösen Stätte und achten Sie besonders auf die kunstvollen Buntglasfenster im Inneren.",
+            "hu": "Csodálja meg e békés vallási hely építészeti részleteit, és fordítson különös figyelmet a belső tér lenyűgöző ólomüveg ablakaira a látogatás során.",
+            "ro": "Admirați detaliile arhitecturale ale acestui sit religios pașnic și acordați o atenție deosebită vitraliilor uimitoare din interiorul clădirii.",
+            "en": "Admire the architectural details of this peaceful religious site, and pay special attention to the stunning stained glass windows located inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir de la Rouge-Clef",
+            "hu": "Manoir de la Rouge-Clef",
+            "ro": "Manoir de la Rouge-Clef",
+            "en": "Manoir de la Rouge-Clef"
+          },
+          "coords": [
+            2.231785,
+            50.763064
+          ],
+          "category": "historical",
+          "arrive_at": "11:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie bei der Erkundung dieses faszinierenden historischen Herrenhauses in die Vergangenheit ein und nehmen Sie sich Zeit für die gepflegten Gärten.",
+            "hu": "Merüljön el a múltban ennek a lenyűgöző történelmi udvarháznak a felfedezésekor, és szánjon elegendő időt a szépen gondozott kertek megtekintésére.",
+            "ro": "Pătrundeți în trecut explorând acest conac istoric fascinant și asigurați-vă că vă acordați timp pentru a vă plimba prin grădinile sale bine îngrijite.",
+            "en": "Delve into the past while exploring this fascinating historical manor, and make sure to allow enough time to stroll through its well-kept gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin de l'Aile",
+            "hu": "Moulin de l'Aile",
+            "ro": "Moulin de l'Aile",
+            "en": "Moulin de l'Aile"
+          },
+          "coords": [
+            2.247335,
+            50.757035
+          ],
+          "category": "landmark",
+          "arrive_at": "12:49",
+          "stay_min": 15,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Fotografieren Sie dieses ikonische Windmühlen-Wahrzeichen, das stolz die Region überblickt, am besten am späten Nachmittag für das weichste Licht.",
+            "hu": "Fényképezze le ezt az ikonikus szélmalom tájékozódási pontot, amely büszkén tekint a régióra, ideálisan késő délután a leglágyabb megvilágításért.",
+            "ro": "Fotografiați acest punct de reper iconic al morii de vânt care domină cu mândrie regiunea, ideal la sfârșitul după-amiezii pentru cea mai blândă lumină.",
+            "en": "Photograph this iconic windmill landmark proudly overlooking the region, ideally visiting in the late afternoon to capture the softest natural light."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison du Marais de Saint-Omer",
+            "hu": "Maison du Marais de Saint-Omer",
+            "ro": "Maison du Marais de Saint-Omer",
+            "en": "Maison du Marais de Saint-Omer"
+          },
+          "coords": [
+            2.248307,
+            50.75553
+          ],
+          "category": "museum",
+          "arrive_at": "13:07",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche ökologische und kulturelle Erbe der Sumpfgebiete in diesem interaktiven Museum und buchen Sie unbedingt eine geführte Bootstour.",
+            "hu": "Fedezze fel a mocsarak gazdag ökológiai és kulturális örökségét ebben az interaktív múzeumban, és mindenképpen foglaljon előre egy vezetett csónaktúrát.",
+            "ro": "Descoperiți patrimoniul ecologic și cultural bogat al mlaștinilor în acest muzeu interactiv și asigurați-vă că rezervați un tur ghidat cu barca.",
+            "en": "Discover the rich ecological and cultural heritage of the marshlands at this interactive museum, and be sure to book a guided boat tour in advance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einem ruhigen Spaziergang an der Maison du Rivage und genießen Sie die Aussicht auf das Wasser.\n\nGehen Sie weiter zur nahe gelegenen Kirche Saint-Martin und genießen Sie die ruhige Atmosphäre.\n\nAm Nachmittag wandern Sie zum historischen Manoir de la Rouge-Clef und erkunden dessen Erbe.\n\nBeenden Sie Ihre Tour am Moulin de l'Aile und der beeindruckenden Maison du Marais für einen Abend lokaler Kultur.",
+        "hu": "Kezdje a reggelt egy békés sétával a Maison du Rivage mellett, élvezve a vízre nyíló kilátást.\n\nFolytassa útját a közeli Saint-Martin templomhoz, elmerülve a csendes vallási légkörben.\n\nDélután sétáljon fel a történelmi Manoir de la Rouge-Clef-hez, felfedezve annak örökségét.\n\nFejezze be sétáját a Moulin de l'Aile-nél és a lenyűgöző Maison du Marais-nál egy helyi kultúrával teli estére.",
+        "ro": "Începeți dimineața cu o plimbare liniștită pe lângă Maison du Rivage, bucurându-vă de priveliște.\n\nContinuați spre biserica Saint-Martin, scufundându-vă în atmosfera religioasă înainte de prânz.\n\nDupă-amiaza, mergeți la istoricul Manoir de la Rouge-Clef, explorând patrimoniul său.\n\nÎncheiați turul la Moulin de l'Aile și impresionanta Maison du Marais pentru o seară plină de cultură locală.",
+        "en": "Begin your morning with a peaceful stroll by the Maison du Rivage, enjoying the water views.\n\nContinue to the nearby Saint-Martin Church, soaking in the quiet religious atmosphere before lunch.\n\nIn the afternoon, walk up to the historic Manoir de la Rouge-Clef, exploring its heritage.\n\nConclude your walking tour at the Moulin de l'Aile and the impressive Maison du Marais for an evening of local culture."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 8.1,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Jacques",
+            "hu": "Saint-Jacques templom",
+            "ro": "Biserica Saint-Jacques",
+            "en": "Saint-Jacques Church"
+          },
+          "coords": [
+            2.206474,
+            50.742181
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an dieser historischen Kirche, die für ihre ruhige Atmosphäre bekannt ist, und betrachten Sie die einzigartigen Steinschnitzereien.",
+            "hu": "Kezdje a napot ennél a nyugodt légköréről ismert történelmi templomnál, és figyelje meg a homlokzat egyedi kőfaragványait a látogatás során.",
+            "ro": "Începeți ziua la această biserică istorică cunoscută pentru atmosfera sa senină și observați sculpturile unice în piatră de pe fațada clădirii.",
+            "en": "Start your day at this historical church known for its serene atmosphere, and observe the unique stone carvings decorating the exterior facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Martin",
+            "hu": "Saint-Martin templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            2.23523,
+            50.754774
+          ],
+          "category": "religious",
+          "arrive_at": "10:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die architektonischen Details dieser friedlichen religiösen Stätte und achten Sie besonders auf die kunstvollen Buntglasfenster im Inneren.",
+            "hu": "Csodálja meg e békés vallási hely építészeti részleteit, és fordítson különös figyelmet a belső tér lenyűgöző ólomüveg ablakaira a látogatás során.",
+            "ro": "Admirați detaliile arhitecturale ale acestui sit religios pașnic și acordați o atenție deosebită vitraliilor uimitoare din interiorul clădirii.",
+            "en": "Admire the architectural details of this peaceful religious site, and pay special attention to the stunning stained glass windows located inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison du Rivage",
+            "hu": "Maison du Rivage",
+            "ro": "Maison du Rivage",
+            "en": "Maison du Rivage"
+          },
+          "coords": [
+            2.237056,
+            50.755601
+          ],
+          "category": "recreational",
+          "arrive_at": "10:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses charmante Freizeithaus am Ufer, das die lokale Geschichte widerspiegelt, und bringen Sie eine Kamera für die schöne Aussicht auf das Wasser mit.",
+            "hu": "Fedezze fel ezt a bájos vízparti szabadidős házat, amely a helyi történelmet tükrözi, és hozzon magával fényképezőgépet a gyönyörű kilátás miatt.",
+            "ro": "Explorați această casă de agrement fermecătoare de pe mal, reflectând istoria locală, și aduceți un aparat foto pentru priveliștile frumoase pe apă.",
+            "en": "Explore this charming riverside recreational house reflecting local history, and make sure to bring a camera for the beautiful waterfront views."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir de la Rouge-Clef",
+            "hu": "Manoir de la Rouge-Clef",
+            "ro": "Manoir de la Rouge-Clef",
+            "en": "Manoir de la Rouge-Clef"
+          },
+          "coords": [
+            2.231785,
+            50.763064
+          ],
+          "category": "historical",
+          "arrive_at": "11:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Tauchen Sie bei der Erkundung dieses faszinierenden historischen Herrenhauses in die Vergangenheit ein und nehmen Sie sich Zeit für die gepflegten Gärten.",
+            "hu": "Merüljön el a múltban ennek a lenyűgöző történelmi udvarháznak a felfedezésekor, és szánjon elegendő időt a szépen gondozott kertek megtekintésére.",
+            "ro": "Pătrundeți în trecut explorând acest conac istoric fascinant și asigurați-vă că vă acordați timp pentru a vă plimba prin grădinile sale bine îngrijite.",
+            "en": "Delve into the past while exploring this fascinating historical manor, and make sure to allow enough time to stroll through its well-kept gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Saubruit",
+            "hu": "Château de Saubruit",
+            "ro": "Château de Saubruit",
+            "en": "Château de Saubruit"
+          },
+          "coords": [
+            2.223013,
+            50.775786
+          ],
+          "category": "castle",
+          "arrive_at": "13:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die beeindruckenden Anlagen dieses eleganten Schlosses und achten Sie auf die architektonische Symmetrie, die die lokale Geschichte prägt.",
+            "hu": "Sétáljon végig ennek az elegáns kastélynak a lenyűgöző területén, és figyelje meg a helyi történelmet formáló építészeti szimmetriát a látogatás alatt.",
+            "ro": "Plimbați-vă prin domeniul impresionant al acestui castel elegant și observați simetria arhitecturală care conturează istoria locală a regiunii.",
+            "en": "Stroll through the impressive grounds of this elegant castle, and observe the architectural symmetry that beautifully shapes the local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame de la Bonne Fin",
+            "hu": "Notre-Dame de la Bonne Fin templom",
+            "ro": "Biserica Notre-Dame de la Bonne Fin",
+            "en": "Church of Notre-Dame de la Bonne Fin"
+          },
+          "coords": [
+            2.230085,
+            50.772048
+          ],
+          "category": "religious",
+          "arrive_at": "14:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erleben Sie Momente der Ruhe in dieser charmanten religiösen Stätte abseits der großen Menschenmassen, die sich perfekt für eine kurze und stille Reflexion eignet.",
+            "hu": "Éljen át nyugodt pillanatokat ezen a bájos vallási helyszínen, távol a nagy tömegektől, amely tökéletesen alkalmas egy rövid és csendes elmélkedésre.",
+            "ro": "Experimentați momente de liniște în acest loc religios fermecător, departe de aglomerație, fiind perfect pentru o scurtă și tăcută reflecție spirituală.",
+            "en": "Experience moments of tranquility at this charming religious site away from large crowds, making it completely perfect for a short and silent reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin de l'Aile",
+            "hu": "Moulin de l'Aile",
+            "ro": "Moulin de l'Aile",
+            "en": "Moulin de l'Aile"
+          },
+          "coords": [
+            2.247335,
+            50.757035
+          ],
+          "category": "landmark",
+          "arrive_at": "15:33",
+          "stay_min": 15,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Fotografieren Sie dieses ikonische Windmühlen-Wahrzeichen, das stolz die Region überblickt, am besten am späten Nachmittag für das weichste Licht.",
+            "hu": "Fényképezze le ezt az ikonikus szélmalom tájékozódási pontot, amely büszkén tekint a régióra, ideálisan késő délután a leglágyabb megvilágításért.",
+            "ro": "Fotografiați acest punct de reper iconic al morii de vânt care domină cu mândrie regiunea, ideal la sfârșitul după-amiezii pentru cea mai blândă lumină.",
+            "en": "Photograph this iconic windmill landmark proudly overlooking the region, ideally visiting in the late afternoon to capture the softest natural light."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison du Marais de Saint-Omer",
+            "hu": "Maison du Marais de Saint-Omer",
+            "ro": "Maison du Marais de Saint-Omer",
+            "en": "Maison du Marais de Saint-Omer"
+          },
+          "coords": [
+            2.248307,
+            50.75553
+          ],
+          "category": "museum",
+          "arrive_at": "15:49",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche ökologische und kulturelle Erbe der Sumpfgebiete in diesem interaktiven Museum und buchen Sie unbedingt eine geführte Bootstour.",
+            "hu": "Fedezze fel a mocsarak gazdag ökológiai és kulturális örökségét ebben az interaktív múzeumban, és mindenképpen foglaljon előre egy vezetett csónaktúrát.",
+            "ro": "Descoperiți patrimoniul ecologic și cultural bogat al mlaștinilor în acest muzeu interactiv și asigurați-vă că rezervați un tur ghidat cu barca.",
+            "en": "Discover the rich ecological and cultural heritage of the marshlands at this interactive museum, and be sure to book a guided boat tour in advance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an der Kirche Saint-Jacques und spüren Sie die frische Morgenbrise.\n\nFahren Sie in Richtung Stadtzentrum, um die Kirche Saint-Martin und die Maison du Rivage zu bewundern.\n\nVerbringen Sie den Nachmittag damit, zum eleganten Manoir de la Rouge-Clef und Château de Saubruit zu radeln.\n\nBeenden Sie den Tag an der Église Notre-Dame und entspannen Sie sich in der Maison du Marais.",
+        "hu": "Kezdje kerékpáros utazását a Saint-Jacques templomnál, érezve a friss reggeli szellőt.\n\nLovagoljon a városközpont felé, hogy megcsodálja a Saint-Martin templomot és a festői Maison du Rivage-t.\n\nDélután tekerjen az elegáns Manoir de la Rouge-Clef és a Château de Saubruit felé.\n\nFejezze be a napot az Église Notre-Dame mellett elhaladva, és pihenjen a Maison du Marais-ban.",
+        "ro": "Începeți călătoria cu bicicleta la Biserica Saint-Jacques, simțind briza proaspătă a dimineții.\n\nMergeți spre centrul orașului pentru a admira Biserica Saint-Martin și pitoreasca Maison du Rivage.\n\nPetreceți după-amiaza pedalând spre elegantul Manoir de la Rouge-Clef și Château de Saubruit.\n\nÎncheiați ziua trecând pe lângă Église Notre-Dame și relaxându-vă complet la Maison du Marais.",
+        "en": "Kick off your cycling journey at Saint-Jacques Church, feeling the crisp morning breeze.\n\nRide towards the town center to admire Saint-Martin Church and the scenic Maison du Rivage.\n\nSpend your afternoon pedaling to the elegant Manoir de la Rouge-Clef and Château de Saubruit.\n\nFinish the day by passing Église Notre-Dame de la Bonne Fin and relaxing at Maison du Marais."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:33",
+      "total_km": 7.6,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Jacques",
+            "hu": "Saint-Jacques templom",
+            "ro": "Biserica Saint-Jacques",
+            "en": "Saint-Jacques Church"
+          },
+          "coords": [
+            2.206474,
+            50.742181
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an dieser historischen Kirche, die für ihre ruhige Atmosphäre bekannt ist, und betrachten Sie die einzigartigen Steinschnitzereien.",
+            "hu": "Kezdje a napot ennél a nyugodt légköréről ismert történelmi templomnál, és figyelje meg a homlokzat egyedi kőfaragványait a látogatás során.",
+            "ro": "Începeți ziua la această biserică istorică cunoscută pentru atmosfera sa senină și observați sculpturile unice în piatră de pe fațada clădirii.",
+            "en": "Start your day at this historical church known for its serene atmosphere, and observe the unique stone carvings decorating the exterior facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison du Marais de Saint-Omer",
+            "hu": "Maison du Marais de Saint-Omer",
+            "ro": "Maison du Marais de Saint-Omer",
+            "en": "Maison du Marais de Saint-Omer"
+          },
+          "coords": [
+            2.248307,
+            50.75553
+          ],
+          "category": "museum",
+          "arrive_at": "09:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche ökologische und kulturelle Erbe der Sumpfgebiete in diesem interaktiven Museum und buchen Sie unbedingt eine geführte Bootstour.",
+            "hu": "Fedezze fel a mocsarak gazdag ökológiai és kulturális örökségét ebben az interaktív múzeumban, és mindenképpen foglaljon előre egy vezetett csónaktúrát.",
+            "ro": "Descoperiți patrimoniul ecologic și cultural bogat al mlaștinilor în acest muzeu interactiv și asigurați-vă că rezervați un tur ghidat cu barca.",
+            "en": "Discover the rich ecological and cultural heritage of the marshlands at this interactive museum, and be sure to book a guided boat tour in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin de l'Aile",
+            "hu": "Moulin de l'Aile",
+            "ro": "Moulin de l'Aile",
+            "en": "Moulin de l'Aile"
+          },
+          "coords": [
+            2.247335,
+            50.757035
+          ],
+          "category": "landmark",
+          "arrive_at": "11:38",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fotografieren Sie dieses ikonische Windmühlen-Wahrzeichen, das stolz die Region überblickt, am besten am späten Nachmittag für das weichste Licht.",
+            "hu": "Fényképezze le ezt az ikonikus szélmalom tájékozódási pontot, amely büszkén tekint a régióra, ideálisan késő délután a leglágyabb megvilágításért.",
+            "ro": "Fotografiați acest punct de reper iconic al morii de vânt care domină cu mândrie regiunea, ideal la sfârșitul după-amiezii pentru cea mai blândă lumină.",
+            "en": "Photograph this iconic windmill landmark proudly overlooking the region, ideally visiting in the late afternoon to capture the softest natural light."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison du Rivage",
+            "hu": "Maison du Rivage",
+            "ro": "Maison du Rivage",
+            "en": "Maison du Rivage"
+          },
+          "coords": [
+            2.237056,
+            50.755601
+          ],
+          "category": "recreational",
+          "arrive_at": "11:56",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses charmante Freizeithaus am Ufer, das die lokale Geschichte widerspiegelt, und bringen Sie eine Kamera für die schöne Aussicht auf das Wasser mit.",
+            "hu": "Fedezze fel ezt a bájos vízparti szabadidős házat, amely a helyi történelmet tükrözi, és hozzon magával fényképezőgépet a gyönyörű kilátás miatt.",
+            "ro": "Explorați această casă de agrement fermecătoare de pe mal, reflectând istoria locală, și aduceți un aparat foto pentru priveliștile frumoase pe apă.",
+            "en": "Explore this charming riverside recreational house reflecting local history, and make sure to bring a camera for the beautiful waterfront views."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Martin",
+            "hu": "Saint-Martin templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            2.23523,
+            50.754774
+          ],
+          "category": "religious",
+          "arrive_at": "12:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die architektonischen Details dieser friedlichen religiösen Stätte und achten Sie besonders auf die kunstvollen Buntglasfenster im Inneren.",
+            "hu": "Csodálja meg e békés vallási hely építészeti részleteit, és fordítson különös figyelmet a belső tér lenyűgöző ólomüveg ablakaira a látogatás során.",
+            "ro": "Admirați detaliile arhitecturale ale acestui sit religios pașnic și acordați o atenție deosebită vitraliilor uimitoare din interiorul clădirii.",
+            "en": "Admire the architectural details of this peaceful religious site, and pay special attention to the stunning stained glass windows located inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir de la Rouge-Clef",
+            "hu": "Manoir de la Rouge-Clef",
+            "ro": "Manoir de la Rouge-Clef",
+            "en": "Manoir de la Rouge-Clef"
+          },
+          "coords": [
+            2.231785,
+            50.763064
+          ],
+          "category": "historical",
+          "arrive_at": "13:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie bei der Erkundung dieses faszinierenden historischen Herrenhauses in die Vergangenheit ein und nehmen Sie sich Zeit für die gepflegten Gärten.",
+            "hu": "Merüljön el a múltban ennek a lenyűgöző történelmi udvarháznak a felfedezésekor, és szánjon elegendő időt a szépen gondozott kertek megtekintésére.",
+            "ro": "Pătrundeți în trecut explorând acest conac istoric fascinant și asigurați-vă că vă acordați timp pentru a vă plimba prin grădinile sale bine îngrijite.",
+            "en": "Delve into the past while exploring this fascinating historical manor, and make sure to allow enough time to stroll through its well-kept gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame de la Bonne Fin",
+            "hu": "Notre-Dame de la Bonne Fin templom",
+            "ro": "Biserica Notre-Dame de la Bonne Fin",
+            "en": "Church of Notre-Dame de la Bonne Fin"
+          },
+          "coords": [
+            2.230085,
+            50.772048
+          ],
+          "category": "religious",
+          "arrive_at": "15:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erleben Sie Momente der Ruhe in dieser charmanten religiösen Stätte abseits der großen Menschenmassen, die sich perfekt für eine kurze und stille Reflexion eignet.",
+            "hu": "Éljen át nyugodt pillanatokat ezen a bájos vallási helyszínen, távol a nagy tömegektől, amely tökéletesen alkalmas egy rövid és csendes elmélkedésre.",
+            "ro": "Experimentați momente de liniște în acest loc religios fermecător, departe de aglomerație, fiind perfect pentru o scurtă și tăcută reflecție spirituală.",
+            "en": "Experience moments of tranquility at this charming religious site away from large crowds, making it completely perfect for a short and silent reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Saubruit",
+            "hu": "Château de Saubruit",
+            "ro": "Château de Saubruit",
+            "en": "Château de Saubruit"
+          },
+          "coords": [
+            2.223013,
+            50.775786
+          ],
+          "category": "castle",
+          "arrive_at": "15:43",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die beeindruckenden Anlagen dieses eleganten Schlosses und achten Sie auf die architektonische Symmetrie, die die lokale Geschichte prägt.",
+            "hu": "Sétáljon végig ennek az elegáns kastélynak a lenyűgöző területén, és figyelje meg a helyi történelmet formáló építészeti szimmetriát a látogatás alatt.",
+            "ro": "Plimbați-vă prin domeniul impresionant al acestui castel elegant și observați simetria arhitecturală care conturează istoria locală a regiunii.",
+            "en": "Stroll through the impressive grounds of this elegant castle, and observe the architectural symmetry that beautifully shapes the local history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre malerische Fahrt an der Kirche Saint-Jacques und parken Sie bequem in der Nähe.\n\nFahren Sie zur weitläufigen Maison du Marais und widmen Sie den Mittag den Feuchtgebietsausstellungen.\n\nWechseln Sie am Nachmittag zwischen Moulin de l'Aile, Maison du Rivage und der Kirche Saint-Martin.\n\nBeenden Sie den Roadtrip mit einem Besuch der historischen Güter Manoir de la Rouge-Clef und Château de Saubruit.",
+        "hu": "Kezdje a festői autózást a Saint-Jacques templomnál, könnyen parkolva a közelben a megtekintéshez.\n\nVezessen a hatalmas Maison du Marais-hoz, a telet az interaktív vizes élőhelyi kiállításoknak szentelve.\n\nDélután könnyedén ugráljon a Moulin de l'Aile, a Maison du Rivage és a Saint-Martin templom között.\n\nFejezze be az autós utat a Manoir de la Rouge-Clef és a Château de Saubruit történelmi birtokainak meglátogatásával.",
+        "ro": "Începeți plimbarea pitorească la Biserica Saint-Jacques, parcând cu ușurință în apropiere.\n\nConduceți până la vasta Maison du Marais, dedicându-vă prânzul expozițiilor interactive ale zonelor umede.\n\nDupă-amiaza, treceți cu ușurință între Moulin de l'Aile, Maison du Rivage și biserica Saint-Martin.\n\nÎncheiați excursia vizitând domeniile istorice Manoir de la Rouge-Clef și frumosul Château de Saubruit.",
+        "en": "Start your scenic drive at Saint-Jacques Church, easily parking nearby to admire its architecture.\n\nDrive to the expansive Maison du Marais, dedicating your midday to the interactive wetland exhibits.\n\nIn the afternoon, easily hop between Moulin de l'Aile, Maison du Rivage, and Saint-Martin Church.\n\nConclude the road trip by visiting the historic estates of Manoir de la Rouge-Clef and Château de Saubruit."
+      }
+    }
+  }
+}

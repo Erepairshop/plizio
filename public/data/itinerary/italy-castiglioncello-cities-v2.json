@@ -1,0 +1,520 @@
+{
+  "city_id": "italy-castiglioncello-cities-v2",
+  "anchor": {
+    "name": "Castiglioncello",
+    "coords": [
+      10.41015,
+      43.40539
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:19",
+      "total_km": 1.95,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kunstzentrum Diego Martelli",
+            "hu": "Diego Martelli Művészeti Központ",
+            "ro": "Centrul de Artă Diego Martelli",
+            "en": "Diego Martelli Art Center"
+          },
+          "coords": [
+            10.410453,
+            43.405196
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Macchiaioli-Meisterwerke in dieser schönen Villa, aber denken Sie daran, vor Ihrem Besuch den Ausstellungsplan zu prüfen.",
+            "hu": "Csodálja meg a Macchiaioli mesterműveket ebben a gyönyörű villában, de látogatás előtt mindenképpen ellenőrizze az időszakos kiállítások menetrendjét.",
+            "ro": "Admirați capodoperele Macchiaioli în această vilă superbă, dar amintiți-vă să verificați programul expozițiilor temporare înainte de vizită.",
+            "en": "Admire the Macchiaioli masterpieces in this beautiful villa, but remember to check the temporary exhibition schedule before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Amphitheater Giuliano Scabia",
+            "hu": "Giuliano Scabia Amfiteátrum",
+            "ro": "Amfiteatrul Giuliano Scabia",
+            "en": "Giuliano Scabia Amphitheater"
+          },
+          "coords": [
+            10.413289,
+            43.406065
+          ],
+          "category": "cultural",
+          "arrive_at": "10:54",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erleben Sie die einzigartige Atmosphäre dieses von Pinien umgebenen Freilufttheaters und versuchen Sie, eine Sommeraufführung zu besuchen.",
+            "hu": "Tapasztalja meg ennek a fenyőfákkal körülvett szabadtéri helyszínnek az egyedi hangulatát, és próbáljon meg elcsípni egy nyári esti előadást.",
+            "ro": "Experimentați atmosfera unică a acestui spațiu în aer liber înconjurat de pini și încercați să prindeți un spectacol într-o seară de vară.",
+            "en": "Experience the unique atmosphere of this open-air venue surrounded by pine trees, and try to catch a summer evening performance if possible."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Quercetano",
+            "hu": "Bagni Quercetano",
+            "ro": "Bagni Quercetano",
+            "en": "Bagni Quercetano"
+          },
+          "coords": [
+            10.406228,
+            43.409674
+          ],
+          "category": "recreational",
+          "arrive_at": "12:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie an dieser ikonischen Sandbucht zwischen Klippen und kommen Sie früh, um sich in der Hochsaison einen guten Platz zu sichern.",
+            "hu": "Pihenjen ezen az ikonikus, sziklák közötti homokos öbölben, de érkezzen korán, hogy jó helyet találjon, mivel főszezonban nagyon zsúfolt lehet.",
+            "ro": "Relaxați-vă în acest golf iconic cu nisip ascuns printre stânci și ajungeți devreme pentru a prinde un loc bun în plin sezon estival.",
+            "en": "Relax on this iconic sandy bay nestled between cliffs, and arrive early to secure a good spot since it gets crowded during the high season."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre di Castiglioncello",
+            "hu": "Torre di Castiglioncello",
+            "ro": "Torre di Castiglioncello",
+            "en": "Torre di Castiglioncello"
+          },
+          "coords": [
+            10.406617,
+            43.404123
+          ],
+          "category": "tower",
+          "arrive_at": "13:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte dieses Küstenwachturms aus dem 16. Jahrhundert und steigen Sie für einen Panoramablick auf das Tyrrhenische Meer hinauf.",
+            "hu": "Fedezze fel ennek a 16. századi partvédő toronynak a történetét, és másszon fel a tetejére a Tirrén-tengerre nyíló lélegzetelállító panorámáért.",
+            "ro": "Descoperiți istoria acestui turn de veghe de coastă din secolul al XVI-lea și urcați în vârf pentru o vedere panoramică uluitoare a Mării Tireniene.",
+            "en": "Discover the history of this 16th-century coastal watchtower, and climb to the top for a breathtaking panoramic view of the Tyrrhenian Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Nationalmuseum",
+            "hu": "Nemzeti Régészeti Múzeum",
+            "ro": "Muzeul Național de Arheologie",
+            "en": "National Archaeological Museum"
+          },
+          "coords": [
+            10.408527,
+            43.402449
+          ],
+          "category": "museum",
+          "arrive_at": "14:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden etruskischen und römischen Artefakte, die hier entdeckt wurden, und fragen Sie das Personal nach dem Audioguide.",
+            "hu": "Fedezze fel a helyben talált lenyűgöző etruszk és római leleteket, és kérje a személyzettől az angol nyelvű audioguide-ot az élmény fokozásáért.",
+            "ro": "Explorați fascinantele artefacte etrusce și romane descoperite local și cereți personalului ghidul audio pentru a vă îmbogăți experiența.",
+            "en": "Explore the fascinating Etruscan and Roman artifacts discovered locally, and ask the staff for the audio guide to enrich your experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Miramare",
+            "hu": "Bagni Miramare",
+            "ro": "Bagni Miramare",
+            "en": "Bagni Miramare"
+          },
+          "coords": [
+            10.410125,
+            43.402218
+          ],
+          "category": "recreational",
+          "arrive_at": "16:34",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Genießen Sie ein erfrischendes Bad in diesem eleganten historischen Badehaus und verpassen Sie nicht das exzellente Fischrestaurant für ein leichtes Abendessen.",
+            "hu": "Élvezze a frissítő úszást ebben az elegáns történelmi fürdőben, és ne hagyja ki a kiváló tengeri éttermüket egy könnyű étkezés erejéig.",
+            "ro": "Bucurați-vă de o înotare revigorantă la acest stabiliment istoric și elegant de baie și nu ratați excelentul lor restaurant pescăresc.",
+            "en": "Enjoy a refreshing swim at this elegant historical bathing establishment, and don't miss their excellent seafood restaurant to end your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Erkunden Sie das kulturelle Herz von Castiglioncello im Kunstzentrum Diego Martelli, gefolgt von einem Spaziergang zum Amphitheater. Mittag: Gehen Sie zum Bagni Quercetano für eine frische Meeresbrise und besuchen Sie dann den historischen Turm. Nachmittag: Tauchen Sie im Archäologischen Nationalmuseum in die antike Geschichte ein. Abend: Lassen Sie den Tag am Bagni Miramare ausklingen.",
+        "hu": "Délelőtt: Fedezze fel Castiglioncello kulturális szívét a Diego Martelli Művészeti Központban, majd sétáljon el az amfiteátrumhoz. Délben: Irány a gyönyörű Bagni Quercetano egy kis tengeri szellőért, mielőtt meglátogatná a történelmi tornyot. Délután: Merüljön el az ókori történelemben a Nemzeti Régészeti Múzeumban. Este: Zárja a napot pihentetően a Bagni Miramare strandján.",
+        "ro": "Dimineața: Explorați inima culturală din Castiglioncello la Centrul de Artă Diego Martelli, apoi faceți o plimbare spre amfiteatru. Prânz: Îndreptați-vă spre frumosul Bagni Quercetano pentru briza mării înainte de a vizita turnul istoric. După-amiaza: Pătrundeți în istoria antică la Muzeul Național de Arheologie. Seara: Încheiați ziua relaxându-vă complet la Bagni Miramare.",
+        "en": "Morning: Explore Castiglioncello's cultural heart starting with the Diego Martelli Art Center, then take a brief walk to the amphitheater. Midday: Head towards the beautiful Bagni Quercetano for some sea breeze before visiting the historical Torre di Castiglioncello. Afternoon: Dive into ancient history at the National Archaeological Museum. Evening: End the day relaxing at Bagni Miramare."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:29",
+      "total_km": 4.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Spiaggia di Santa Lucia",
+            "hu": "Spiaggia di Santa Lucia",
+            "ro": "Spiaggia di Santa Lucia",
+            "en": "Spiaggia di Santa Lucia"
+          },
+          "coords": [
+            10.400486,
+            43.425198
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen an diesem ruhigeren Nordstrand mit kristallklarem Wasser, aber bringen Sie eigenes Wasser und Snacks mit, da die Einrichtungen begrenzt sind.",
+            "hu": "Meneküljön el a tömeg elől erre a csendesebb északi strandra kristálytiszta vizekkel, de vigyen magával vizet és nasit, mert az ellátás korlátozott.",
+            "ro": "Scăpați de aglomerație la această plajă nordică mai liniștită, dar amintiți-vă să aduceți apă și gustări proprii, deoarece facilitățile sunt limitate.",
+            "en": "Escape the crowds at this quieter northern beach with crystal clear waters, but remember to bring your own water and snacks as facilities are limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia le Forbici",
+            "hu": "Spiaggia le Forbici",
+            "ro": "Spiaggia le Forbici",
+            "en": "Spiaggia le Forbici"
+          },
+          "coords": [
+            10.401327,
+            43.420033
+          ],
+          "category": "recreational",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die felsige Küste und das pulsierende Meeresleben an diesem malerischen Ort, der sich perfekt für Schnorchelbegeisterte eignet.",
+            "hu": "Csodálja meg a sziklás partvidéket és az élénk tengeri élővilágot ezen a festői helyen, amely tökéletes a sznorkelezés szerelmeseinek.",
+            "ro": "Admirați coasta stâncoasă și viața marină vibrantă în acest loc pitoresc, fiind absolut perfect pentru pasionații de snorkeling dornici de explorare.",
+            "en": "Admire the rocky coastline and vibrant marine life at this picturesque spot, making it absolutely perfect for snorkeling enthusiasts to explore."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre di Castiglioncello",
+            "hu": "Torre di Castiglioncello",
+            "ro": "Torre di Castiglioncello",
+            "en": "Torre di Castiglioncello"
+          },
+          "coords": [
+            10.406617,
+            43.404123
+          ],
+          "category": "tower",
+          "arrive_at": "11:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte dieses Küstenwachturms aus dem 16. Jahrhundert und steigen Sie für einen Panoramablick auf das Tyrrhenische Meer hinauf.",
+            "hu": "Fedezze fel ennek a 16. századi partvédő toronynak a történetét, és másszon fel a tetejére a Tirrén-tengerre nyíló lélegzetelállító panorámáért.",
+            "ro": "Descoperiți istoria acestui turn de veghe de coastă din secolul al XVI-lea și urcați în vârf pentru o vedere panoramică uluitoare a Mării Tireniene.",
+            "en": "Discover the history of this 16th-century coastal watchtower, and climb to the top for a breathtaking panoramic view of the Tyrrhenian Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstzentrum Diego Martelli",
+            "hu": "Diego Martelli Művészeti Központ",
+            "ro": "Centrul de Artă Diego Martelli",
+            "en": "Diego Martelli Art Center"
+          },
+          "coords": [
+            10.410453,
+            43.405196
+          ],
+          "category": "museum",
+          "arrive_at": "13:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Macchiaioli-Meisterwerke in dieser schönen Villa, aber denken Sie daran, vor Ihrem Besuch den Ausstellungsplan zu prüfen.",
+            "hu": "Csodálja meg a Macchiaioli mesterműveket ebben a gyönyörű villában, de látogatás előtt mindenképpen ellenőrizze az időszakos kiállítások menetrendjét.",
+            "ro": "Admirați capodoperele Macchiaioli în această vilă superbă, dar amintiți-vă să verificați programul expozițiilor temporare înainte de vizită.",
+            "en": "Admire the Macchiaioli masterpieces in this beautiful villa, but remember to check the temporary exhibition schedule before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Nationalmuseum",
+            "hu": "Nemzeti Régészeti Múzeum",
+            "ro": "Muzeul Național de Arheologie",
+            "en": "National Archaeological Museum"
+          },
+          "coords": [
+            10.408527,
+            43.402449
+          ],
+          "category": "museum",
+          "arrive_at": "14:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden etruskischen und römischen Artefakte, die hier entdeckt wurden, und fragen Sie das Personal nach dem Audioguide.",
+            "hu": "Fedezze fel a helyben talált lenyűgöző etruszk és római leleteket, és kérje a személyzettől az angol nyelvű audioguide-ot az élmény fokozásáért.",
+            "ro": "Explorați fascinantele artefacte etrusce și romane descoperite local și cereți personalului ghidul audio pentru a vă îmbogăți experiența.",
+            "en": "Explore the fascinating Etruscan and Roman artifacts discovered locally, and ask the staff for the audio guide to enrich your experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Amphitheater Giuliano Scabia",
+            "hu": "Giuliano Scabia Amfiteátrum",
+            "ro": "Amfiteatrul Giuliano Scabia",
+            "en": "Giuliano Scabia Amphitheater"
+          },
+          "coords": [
+            10.413289,
+            43.406065
+          ],
+          "category": "cultural",
+          "arrive_at": "16:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Erleben Sie die einzigartige Atmosphäre dieses von Pinien umgebenen Freilufttheaters und versuchen Sie, eine Sommeraufführung zu besuchen.",
+            "hu": "Tapasztalja meg ennek a fenyőfákkal körülvett szabadtéri helyszínnek az egyedi hangulatát, és próbáljon meg elcsípni egy nyári esti előadást.",
+            "ro": "Experimentați atmosfera unică a acestui spațiu în aer liber înconjurat de pini și încercați să prindeți un spectacol într-o seară de vară.",
+            "en": "Experience the unique atmosphere of this open-air venue surrounded by pine trees, and try to catch a summer evening performance if possible."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Belvedere",
+            "hu": "Bagni Belvedere",
+            "ro": "Bagni Belvedere",
+            "en": "Bagni Belvedere"
+          },
+          "coords": [
+            10.420189,
+            43.403039
+          ],
+          "category": "recreational",
+          "arrive_at": "17:44",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieser südlichen Bäder mit hervorragenden Annehmlichkeiten und mieten Sie frühzeitig eine Sonnenliege.",
+            "hu": "Szívja magába ezeknek a déli fürdőknek a békés hangulatát, és béreljen korán napozóágyat, hogy garantálja a pihentető délutánt a tengerparton.",
+            "ro": "Bucurați-vă de atmosfera pașnică a acestor băi sudice cu facilități excelente și închiriați un șezlong devreme pentru a garanta o după-amiază relaxantă.",
+            "en": "Soak in the peaceful atmosphere of these southern baths featuring excellent amenities, and rent a sunbed early to guarantee a relaxing evening by the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie Ihre Fahrt an den Nordstränden Santa Lucia und Le Forbici und genießen Sie den Küstenweg. Mittag: Radeln Sie zur historischen Torre di Castiglioncello und besuchen Sie das Kunstzentrum Diego Martelli. Nachmittag: Fahren Sie weiter zum Archäologischen Museum und dann zum Freiluft-Amphitheater. Abend: Beenden Sie Ihre Radtour entspannt am Bagni Belvedere im Süden.",
+        "hu": "Délelőtt: Kezdje a kerékpározást az északi strandoknál, élvezve a parti utat. Délben: Tekerjen a történelmi Torre di Castiglioncellohoz, majd látogasson el a Diego Martelli Művészeti Központba. Délután: Folytassa útját a Régészeti Múzeum felé, majd tekerjen el a szabadtéri amfiteátrumhoz. Este: Zárja a túrát a déli Bagni Belvedere strandon, megpihenve a tengerparton.",
+        "ro": "Dimineața: Începeți plimbarea la plajele nordice Santa Lucia și Le Forbici, bucurându-vă de drumul de coastă. Prânz: Pedați spre istoricul Torre di Castiglioncello, apoi vizitați Centrul de Artă Diego Martelli. După-amiaza: Continuați la Muzeul de Arheologie pentru context istoric, apoi pedalați spre amfiteatrul în aer liber. Seara: Încheiați turul relaxându-vă la Bagni Belvedere.",
+        "en": "Morning: Start your ride at the northern beaches, Santa Lucia and Le Forbici, enjoying the coastal path and fresh air. Midday: Pedal to the historic Torre di Castiglioncello, then visit the Diego Martelli Art Center to admire local artistry. Afternoon: Continue to the Archaeological Museum for historical context, then ride to the open-air Anfiteatro. Evening: Conclude at Bagni Belvedere."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:58",
+      "total_km": 4.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Crepatura",
+            "hu": "Crepatura",
+            "ro": "Crepatura",
+            "en": "Crepatura"
+          },
+          "coords": [
+            10.425548,
+            43.397152
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese markante geologische Felsformation direkt an der Küste, aber tragen Sie feste Schuhe, da das umliegende Gelände uneben sein kann.",
+            "hu": "Csodálja meg ezt a lenyűgöző geológiai sziklaképződményt közvetlenül a tengerparton, de viseljen erős cipőt, mivel a környező terep egyenetlen lehet.",
+            "ro": "Admirați această formațiune stâncoasă geologică impresionantă direct pe coastă, dar asigurați-vă că purtați încălțăminte robustă, deoarece terenul este accidentat.",
+            "en": "Marvel at this striking geological rock formation directly on the coast, but be sure to wear sturdy shoes as the surrounding terrain can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Belvedere",
+            "hu": "Bagni Belvedere",
+            "ro": "Bagni Belvedere",
+            "en": "Bagni Belvedere"
+          },
+          "coords": [
+            10.420189,
+            43.403039
+          ],
+          "category": "recreational",
+          "arrive_at": "09:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieser südlichen Bäder mit hervorragenden Annehmlichkeiten und mieten Sie frühzeitig eine Sonnenliege.",
+            "hu": "Szívja magába ezeknek a déli fürdőknek a békés hangulatát, és béreljen korán napozóágyat, hogy garantálja a pihentető délutánt a tengerparton.",
+            "ro": "Bucurați-vă de atmosfera pașnică a acestor băi sudice cu facilități excelente și închiriați un șezlong devreme pentru a garanta o după-amiază relaxantă.",
+            "en": "Soak in the peaceful atmosphere of these southern baths featuring excellent amenities, and rent a sunbed early to guarantee a relaxing morning by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Nationalmuseum",
+            "hu": "Nemzeti Régészeti Múzeum",
+            "ro": "Muzeul Național de Arheologie",
+            "en": "National Archaeological Museum"
+          },
+          "coords": [
+            10.408527,
+            43.402449
+          ],
+          "category": "museum",
+          "arrive_at": "11:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden etruskischen und römischen Artefakte, die hier entdeckt wurden, und fragen Sie das Personal nach dem Audioguide.",
+            "hu": "Fedezze fel a helyben talált lenyűgöző etruszk és római leleteket, és kérje a személyzettől az angol nyelvű audioguide-ot az élmény fokozásáért.",
+            "ro": "Explorați fascinantele artefacte etrusce și romane descoperite local și cereți personalului ghidul audio pentru a vă îmbogăți experiența.",
+            "en": "Explore the fascinating Etruscan and Roman artifacts discovered locally, and ask the staff for the audio guide to enrich your experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre di Castiglioncello",
+            "hu": "Torre di Castiglioncello",
+            "ro": "Torre di Castiglioncello",
+            "en": "Torre di Castiglioncello"
+          },
+          "coords": [
+            10.406617,
+            43.404123
+          ],
+          "category": "tower",
+          "arrive_at": "12:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte dieses Küstenwachturms aus dem 16. Jahrhundert und steigen Sie für einen Panoramablick auf das Tyrrhenische Meer hinauf.",
+            "hu": "Fedezze fel ennek a 16. századi partvédő toronynak a történetét, és másszon fel a tetejére a Tirrén-tengerre nyíló lélegzetelállító panorámáért.",
+            "ro": "Descoperiți istoria acestui turn de veghe de coastă din secolul al XVI-lea și urcați în vârf pentru o vedere panoramică uluitoare a Mării Tireniene.",
+            "en": "Discover the history of this 16th-century coastal watchtower, and climb to the top for a breathtaking panoramic view of the Tyrrhenian Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstzentrum Diego Martelli",
+            "hu": "Diego Martelli Művészeti Központ",
+            "ro": "Centrul de Artă Diego Martelli",
+            "en": "Diego Martelli Art Center"
+          },
+          "coords": [
+            10.410453,
+            43.405196
+          ],
+          "category": "museum",
+          "arrive_at": "14:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Macchiaioli-Meisterwerke in dieser schönen Villa, aber denken Sie daran, vor Ihrem Besuch den Ausstellungsplan zu prüfen.",
+            "hu": "Csodálja meg a Macchiaioli mesterműveket ebben a gyönyörű villában, de látogatás előtt mindenképpen ellenőrizze az időszakos kiállítások menetrendjét.",
+            "ro": "Admirați capodoperele Macchiaioli în această vilă superbă, dar amintiți-vă să verificați programul expozițiilor temporare înainte de vizită.",
+            "en": "Admire the Macchiaioli masterpieces in this beautiful villa, but remember to check the temporary exhibition schedule before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Quercetano",
+            "hu": "Bagni Quercetano",
+            "ro": "Bagni Quercetano",
+            "en": "Bagni Quercetano"
+          },
+          "coords": [
+            10.406228,
+            43.409674
+          ],
+          "category": "recreational",
+          "arrive_at": "15:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie an dieser ikonischen Sandbucht zwischen Klippen und kommen Sie früh, um sich in der Hochsaison einen guten Platz zu sichern.",
+            "hu": "Pihenjen ezen az ikonikus, sziklák közötti homokos öbölben, de érkezzen korán, hogy jó helyet találjon, mivel főszezonban nagyon zsúfolt lehet.",
+            "ro": "Relaxați-vă în acest golf iconic cu nisip ascuns printre stânci și ajungeți devreme pentru a prinde un loc bun în plin sezon estival.",
+            "en": "Relax on this iconic sandy bay nestled between cliffs, and arrive early to secure a good spot since it gets crowded during the high season."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Santa Lucia",
+            "hu": "Spiaggia di Santa Lucia",
+            "ro": "Spiaggia di Santa Lucia",
+            "en": "Spiaggia di Santa Lucia"
+          },
+          "coords": [
+            10.400486,
+            43.425198
+          ],
+          "category": "recreational",
+          "arrive_at": "17:13",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen an diesem ruhigeren Nordstrand mit kristallklarem Wasser, aber bringen Sie eigenes Wasser und Snacks mit, da die Einrichtungen begrenzt sind.",
+            "hu": "Meneküljön el a tömeg elől erre a csendesebb északi strandra kristálytiszta vizekkel, de vigyen magával vizet és nasit, mert az ellátás korlátozott.",
+            "ro": "Scăpați de aglomerație la această plajă nordică mai liniștită, dar amintiți-vă să aduceți apă și gustări proprii, deoarece facilitățile sunt limitate.",
+            "en": "Escape the crowds at this quieter northern beach with crystal clear waters, but remember to bring your own water and snacks as facilities are limited."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Fahren Sie zur Südspitze, um die raue Küste bei Crepatura zu sehen, und entspannen Sie am Bagni Belvedere. Mittag: Parken Sie in der Nähe des Zentrums und erkunden Sie das Archäologische Museum sowie den ikonischen Turm. Nachmittag: Besuchen Sie das Kunstzentrum und fahren Sie dann zum bekannten Bagni Quercetano. Abend: Fahren Sie nach Norden zur abgeschiedenen Spiaggia di Santa Lucia.",
+        "hu": "Délelőtt: Vezessen a déli csücsökbe, hogy megnézze a vad Crepatura partvonalat, majd pihenjen a Bagni Belvedere-nél. Délben: Parkoljon le a központban, hogy felfedezze a Régészeti Múzeumot és az ikonikus tornyot. Délután: Látogasson el a Művészeti Központba, majd vezessen a híres Bagni Quercetano strandra. Este: Vezessen északra a félreeső Spiaggia di Santa Lucia tengerpartra a naplementéhez.",
+        "ro": "Dimineața: Conduceți spre sud pentru a vedea coasta stâncoasă Crepatura, apoi relaxați-vă la elegantul Bagni Belvedere. Prânz: Parcați aproape de centru pentru a explora Muzeul de Arheologie și emblematicul turn. După-amiaza: Vizitați Centrul de Artă Diego Martelli, apoi conduceți la renumitul Bagni Quercetano. Seara: Conduceți spre nord până la retrasa plajă Spiaggia di Santa Lucia.",
+        "en": "Morning: Drive to the southern tip to see the rugged Crepatura coastline, then relax briefly at the elegant Bagni Belvedere. Midday: Park near the center to explore the Archaeological Museum and the iconic Torre di Castiglioncello. Afternoon: Visit the Diego Martelli Art Center, then drive to the renowned Bagni Quercetano. Evening: Drive north to the secluded Spiaggia di Santa Lucia."
+      }
+    }
+  }
+}

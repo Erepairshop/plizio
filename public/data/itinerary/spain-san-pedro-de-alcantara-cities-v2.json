@@ -1,0 +1,543 @@
+{
+  "city_id": "spain-san-pedro-de-alcantara-cities-v2",
+  "anchor": {
+    "name": "San Pedro de Alcántara",
+    "coords": [
+      -4.980278,
+      36.476389
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:43",
+      "total_km": 3.17,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche San Pedro de Alcántara",
+            "hu": "San Pedro de Alcántara Templom",
+            "ro": "Biserica San Pedro de Alcántara",
+            "en": "San Pedro de Alcántara Church"
+          },
+          "coords": [
+            -4.990064,
+            36.486739
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die auffällige koloniale Architektur dieser zentralen Kirche, und besuchen Sie sie am besten morgens, wenn das weiche Licht ihre weiße Fassade perfekt erhellt.",
+            "hu": "Csodálja meg ennek a központi templomnak a lenyűgöző gyarmati építészetét, és érdemes reggel érkezni, amikor a lágy fény tökéletesen megvilágítja hófehér homlokzatát.",
+            "ro": "Admirați arhitectura colonială izbitoare a acestei biserici centrale și nu uitați să o vizitați dimineața, când lumina blândă îi iluminează perfect fațada albă imaculată.",
+            "en": "Admire the striking colonial architecture of this central church, and remember to visit in the morning when the soft light perfectly illuminates its pristine white facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Anfiteatro Jorge Lorenzo Tejada Palacios",
+            "hu": "Anfiteatro Jorge Lorenzo Tejada Palacios",
+            "ro": "Anfiteatro Jorge Lorenzo Tejada Palacios",
+            "en": "Anfiteatro Jorge Lorenzo Tejada Palacios"
+          },
+          "coords": [
+            -4.99451,
+            36.487811
+          ],
+          "category": "cultural",
+          "arrive_at": "09:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.41,
+          "tip_5lang": {
+            "de": "Erleben Sie die lokale Kultur an diesem modernen Freiluftveranstaltungsort, also prüfen Sie vorher den städtischen Veranstaltungskalender für Live-Aufführungen.",
+            "hu": "Tapasztalja meg a helyi kultúrát ebben a modern szabadtéri rendezvényközpontban, ezért érdemes előre ellenőrizni a városi programfüzetet az élő előadások miatt.",
+            "ro": "Experimentați cultura locală în acest spațiu modern în aer liber dedicat evenimentelor publice, așa că verificați în prealabil programul orașului pentru a prinde un spectacol live.",
+            "en": "Experience local culture at this modern open-air venue dedicated to public events, so check the town schedule beforehand to catch a live performance during your stay."
+          }
+        },
+        {
+          "name": {
+            "de": "Zuckermühle El Trapiche",
+            "hu": "El Trapiche Cukormalom",
+            "ro": "Moara de Zahăr El Trapiche",
+            "en": "El Trapiche Sugar Mill"
+          },
+          "coords": [
+            -4.985155,
+            36.486907
+          ],
+          "category": "cultural",
+          "arrive_at": "11:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.84,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Überreste dieser alten Zuckermühle, um die landwirtschaftliche Vergangenheit der Region zu verstehen, aber tragen Sie dabei unbedingt festes Schuhwerk.",
+            "hu": "Fedezze fel ennek az ősi cukormalomnak a történelmi maradványait, hogy megértse a régió mezőgazdasági múltját, de mindenképpen viseljen masszív cipőt az egyenetlen terep miatt.",
+            "ro": "Explorați rămășițele istorice ale acestei vechi fabrici de zahăr pentru a înțelege trecutul agricol al regiunii, dar purtați încălțăminte rezistentă deoarece terenul poate fi accidentat.",
+            "en": "Explore the historical remains of this ancient sugar mill to understand the region's agricultural past, but wear sturdy shoes as the surrounding terrain can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Klassisches Amphitheater",
+            "hu": "Klasszikus Amfiteátrum",
+            "ro": "Amfiteatrul Clasic",
+            "en": "Classic Amphitheater"
+          },
+          "coords": [
+            -4.990559,
+            36.480825
+          ],
+          "category": "cultural",
+          "arrive_at": "13:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.83,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in der friedlichen Umgebung dieses kleineren klassischen Amphitheaters, das großartige Fotomotive bietet, wenn Sie die Symmetrie von oben einfangen.",
+            "hu": "Pihenjen meg ennek a kisebb, klasszikus amfiteátrumnak a békés környezetében, amely nagyszerű fotótémát kínál, ha a felső sorokból örökíti meg a szerkezeti szimmetriát.",
+            "ro": "Relaxați-vă în împrejurimile pașnice ale acestui mic amfiteatru clasic, care oferă oportunități foto excelente dacă surprindeți simetria structurală de pe nivelurile superioare.",
+            "en": "Relax in the peaceful surroundings of this smaller classic amphitheater, which offers great photo opportunities if you capture the structural symmetry from the upper tiers."
+          }
+        },
+        {
+          "name": {
+            "de": "Fischerboot-Denkmal",
+            "hu": "Halászhajó Emlékmű",
+            "ro": "Monumentul Bărcii de Pescuit",
+            "en": "Fishing Boat Monument"
+          },
+          "coords": [
+            -4.98866,
+            36.481328
+          ],
+          "category": "historical",
+          "arrive_at": "14:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses traditionelle Fischerboot-Denkmal, das das maritime Erbe ehrt, und machen Sie hier eine kurze Pause, da es günstig an einem malerischen Kreisverkehr liegt.",
+            "hu": "Tekintse meg ezt a hagyományos halászhajó-emlékművet, amely a parti tengerészeti örökség előtt tiszteleg, és tartson egy rövid pihenőt ezen a festői körforgalomnál lévő helynél.",
+            "ro": "Vizionați acest monument tradițional al bărcii de pescuit care onorează moștenirea maritimă, și opriți-vă pentru o scurtă pauză, fiind situat convenabil într-un sens giratoriu pitoresc.",
+            "en": "View this traditional fishing boat monument that pays homage to the coastal maritime heritage, and pause here for a quick break as it is conveniently located on a scenic roundabout."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von San Pedro",
+            "hu": "San Pedro Strand",
+            "ro": "Plaja San Pedro",
+            "en": "San Pedro Beach"
+          },
+          "coords": [
+            -4.982838,
+            36.474556
+          ],
+          "category": "recreational",
+          "arrive_at": "15:58",
+          "stay_min": 105,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.91,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an den goldenen Sandstränden dieses weitläufigen Strandes, wo Sie sich ganz einfach eine Sonnenliege mieten und die entspannende Mittelmeerbrise genießen können.",
+            "hu": "Zárja sétáját ennek a hatalmas tengerpartnak az aranyhomokján, ahol könnyedén bérelhet egy napágyat, és kora estig élvezheti a Földközi-tenger lágy, megnyugtató szellőjét.",
+            "ro": "Încheiați plimbarea pe nisipurile aurii ale acestei plaje întinse, unde puteți închiria cu ușurință un șezlong pentru a vă bucura de briza liniștitoare a Mediteranei până seara devreme.",
+            "en": "End your walk on the golden sands of this expansive beach, where you can easily rent a sunbed and enjoy the calming Mediterranean breeze until the early evening."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im Herzen von San Pedro und genießen Sie die Architektur der zentralen Kirche und der Kulturstätten. Mittags entdecken Sie die historischen Spuren der alten Zuckermühle, ein tiefer Einblick in das lokale Erbe. Der Nachmittagsspaziergang führt Sie vorbei an charmanten Denkmälern und klassischen Amphi-Strukturen. Schließlich erreichen Sie gegen Abend den einladenden Strand, um den Tag entspannt ausklingen zu lassen.",
+        "hu": "Kezdje a reggelt San Pedro szívében, gyönyörködve a központi templom és a közeli kulturális helyszínek építészeti szépségében. A dél felé közeledve az ősi cukormalom történelmi emlékeihez sétál, amely remek betekintést nyújt a helyi örökségbe. A délutáni séta bájos emlékművek és klasszikus amfiteátrumok mellett vezet el. Végül kora este megérkezik a Playa de San Pedro hívogató partjaira egy pihentető naplementés befejezéshez.",
+        "ro": "Începeți dimineața în inima orașului San Pedro, admirând frumusețea arhitecturală a bisericii centrale și a spațiilor culturale. La prânz vă veți îndrepta către ecourile istorice ale vechii fabrici de zahăr, o imersiune perfectă în patrimoniul local. Plimbarea de după-amiază vă poartă pe lângă monumente fermecătoare și amfiteatre clasice. Seara se apropie în timp ce ajungeți pe plaja primitoare pentru un apus relaxant.",
+        "en": "Begin your morning in the heart of San Pedro, soaking in the architectural beauty of the central church and nearby cultural venues. Midday takes you towards the historical echoes of the ancient sugar mill, a perfect dive into local heritage. The afternoon stroll leads you past charming monuments and classic amphitheater structures. Finally, evening approaches as you reach the inviting shores of Playa de San Pedro for a relaxing sunset finish."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 4.43,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cableski Marbella",
+            "hu": "Cableski Marbella",
+            "ro": "Cableski Marbella",
+            "en": "Cableski Marbella"
+          },
+          "coords": [
+            -5.002085,
+            36.490359
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die spannende Wasserski-Action in diesem einzigartigen Park und trinken Sie einen Kaffee auf der Seeterrasse, um die beste Aussicht vor der Radtour zu genießen.",
+            "hu": "Nézze meg az izgalmas vízisíelőket ebben az egyedülálló drótkötélpályás parkban, és igyon egy kávét a tóparti teraszon, mielőtt útnak indulna a kerékpárral.",
+            "ro": "Urmăriți acțiunea captivantă de schi nautic în acest parc acvatic inedit și beți o cafea pe terasa de la malul lacului pentru a avea cea mai bună vedere înainte de a pedala.",
+            "en": "Watch the thrilling water-skiing action at this unique cable park, and grab a coffee at the lakeside deck for the best spectator views before starting your bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Anfiteatro Jorge Lorenzo Tejada Palacios",
+            "hu": "Anfiteatro Jorge Lorenzo Tejada Palacios",
+            "ro": "Anfiteatro Jorge Lorenzo Tejada Palacios",
+            "en": "Anfiteatro Jorge Lorenzo Tejada Palacios"
+          },
+          "coords": [
+            -4.99451,
+            36.487811
+          ],
+          "category": "cultural",
+          "arrive_at": "10:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.73,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad, um die großartige moderne Architektur dieses Veranstaltungsortes zu erkunden, der von vielen Cafés für eine schnelle Erfrischung umgeben ist.",
+            "hu": "Parkolja le a kerékpárját, hogy felfedezze e modern közösségi tér nagyszerű építészetét, ahol rengeteg közeli kávézó kínál lehetőséget egy gyors felfrissülésre.",
+            "ro": "Parcați bicicleta pentru a explora arhitectura modernă a acestui spațiu public, care servește drept un centru comunitar plin de viață cu multe cafenele în apropiere.",
+            "en": "Park your bike to explore the grand modern architecture of this venue, which serves as a vibrant community hub with plenty of nearby cafes for a quick refreshment."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Pedro de Alcántara",
+            "hu": "San Pedro de Alcántara Templom",
+            "ro": "Biserica San Pedro de Alcántara",
+            "en": "San Pedro de Alcántara Church"
+          },
+          "coords": [
+            -4.990064,
+            36.486739
+          ],
+          "category": "religious",
+          "arrive_at": "11:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.41,
+          "tip_5lang": {
+            "de": "Halten Sie im lebhaften Zentrum, um diese ikonische weiße Kirche zu bewundern, und schließen Sie Ihr Fahrrad unbedingt an den dafür vorgesehenen Ständern am Hauptplatz an.",
+            "hu": "Tartson egy kis szünetet a nyüzsgő központban, hogy megcsodálja ezt az ikonikus fehér templomot, és feltétlenül zárja le a kerékpárját a főtér melletti tárolóknál.",
+            "ro": "Faceți o pauză în centrul plin de viață pentru a vedea această biserică albă iconică și asigurați-vă că lăsați bicicleta la standurile desemnate chiar peste piața principală.",
+            "en": "Pause in the town's lively center to view this iconic white church, and make sure to lock your bike securely at the designated stands right across the vibrant main plaza."
+          }
+        },
+        {
+          "name": {
+            "de": "Fischerboot-Denkmal",
+            "hu": "Halászhajó Emlékmű",
+            "ro": "Monumentul Bărcii de Pescuit",
+            "en": "Fishing Boat Monument"
+          },
+          "coords": [
+            -4.98866,
+            36.481328
+          ],
+          "category": "historical",
+          "arrive_at": "12:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.61,
+          "tip_5lang": {
+            "de": "Fotografieren Sie dieses klassische Fischerboot zu Ehren lokaler Seeleute und achten Sie beim sicheren Abstellen Ihres Fahrrads auf den geschäftigen Kreisverkehr.",
+            "hu": "Fotózza le ezt a helyi tengerészeket ünneplő klasszikus halászhajót, miközben figyel a forgalmas körforgalomra, amikor biztonságosan leállítja a biciklijét egy jó képhez.",
+            "ro": "Fotografiați această barcă clasică de pescuit care onorează marinarii locali, ținând cont de sensul giratoriu aglomerat când poziționați bicicleta în siguranță pentru poza perfectă.",
+            "en": "Snap a photo of this classic fishing boat honoring local sailors, keeping in mind the busy traffic circle when safely positioning your bike for the perfect picture."
+          }
+        },
+        {
+          "name": {
+            "de": "Frühchristliche Basilika Vega del Mar",
+            "hu": "Vega del Mar Ókeresztény Bazilika",
+            "ro": "Bazilica Paleocreștină Vega del Mar",
+            "en": "Vega del Mar Paleochristian Basilica"
+          },
+          "coords": [
+            -4.990355,
+            36.471965
+          ],
+          "category": "historical",
+          "arrive_at": "14:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.05,
+          "tip_5lang": {
+            "de": "Reisen Sie in diesen faszinierenden frühchristlichen Ruinen in einem Eukalyptuswald in der Zeit zurück und nutzen Sie die flachen Feldwege, die sich gut zum Radfahren eignen.",
+            "hu": "Utazzon vissza az időben ezeknél a lenyűgöző ókeresztény romoknál egy eukaliptuszerdőben, és kövesse a lapos földutakat, amelyek meglepően jól alkalmasak kerékpározásra.",
+            "ro": "Întoarceți-vă în timp la aceste fascinante ruine paleocreștine ascunse într-o pădure de eucalipt și urmați potecile de pământ care sunt surprinzător de bune pentru ciclism.",
+            "en": "Step back in time at these fascinating paleochristian ruins hidden in a eucalyptus forest, and follow the flat dirt paths which are surprisingly well-suited for cycling."
+          }
+        },
+        {
+          "name": {
+            "de": "Wachturm Torre de las Bóvedas",
+            "hu": "Torre de las Bóvedas Őrtorony",
+            "ro": "Turnul de Veghe Torre de las Bóvedas",
+            "en": "Torre de las Bóvedas Watchtower"
+          },
+          "coords": [
+            -4.993099,
+            36.468212
+          ],
+          "category": "tower",
+          "arrive_at": "15:23",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen historischen Küstenwachturm, um mehr über antike römische Baukunst zu erfahren, und nutzen Sie die schattigen Bereiche in der Nähe zum Abkühlen.",
+            "hu": "Álljon meg ennél a történelmi parti őrtoronynál, hogy megismerje az ókori római mérnöki munkát, és használja ki az árnyékos területeket, hogy lehűljön az utolsó strandolás előtt.",
+            "ro": "Opriți-vă la acest turn de veghe de pe coastă pentru a învăța despre ingineria romană antică, profitând de zonele umbrite pentru a vă răcori înainte de a merge pe plajă.",
+            "en": "Stop by this historic coastal watchtower to learn about ancient Roman engineering, taking advantage of the shaded areas nearby to cool down before your final beach ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von San Pedro",
+            "hu": "San Pedro Strand",
+            "ro": "Plaja San Pedro",
+            "en": "San Pedro Beach"
+          },
+          "coords": [
+            -4.982838,
+            36.474556
+          ],
+          "category": "recreational",
+          "arrive_at": "15:54",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.15,
+          "tip_5lang": {
+            "de": "Fahren Sie direkt zur weitläufigen Promenade dieses schönen Strandes, wo hervorragende Radwege es Ihnen ermöglichen, mühelos an der malerischen Mittelmeerküste entlang zu gleiten.",
+            "hu": "Guruljon egyenesen ennek a gyönyörű strandnak a tágas sétányához, ahol a kiváló kerékpárutak lehetővé teszik, hogy könnyedén végigtekerjen a festői tengerparton.",
+            "ro": "Mergeți direct pe promenada extinsă a acestei plaje frumoase, unde pistele excelente de biciclete vă permit să vă plimbați fără efort de-a lungul coastei mediteraneene.",
+            "en": "Roll right up to the expansive promenade of this beautiful beach, where excellent cycling lanes allow you to cruise effortlessly along the scenic Mediterranean coastline."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radabenteuer beginnt an der lebhaften Seekulisse des Wasserskiparks. Mittags fahren Sie ins Zentrum, vorbei an modernen Amphi-Strukturen und historischen weißen Kirchen. Am Nachmittag radeln Sie Richtung Küste, um verborgene frühchristliche Ruinen und antike Wachtürme im Schatten von Eukalyptusbäumen zu entdecken. Die Tour endet mit einer luftigen, landschaftlich reizvollen Fahrt entlang der Küstenpromenade.",
+        "hu": "Kerékpáros kalandja a helyi vízisípark energikus tóparti környezetéből indul. Délben a városközpont felé veszi az irányt, elhaladva a modern amfiteátrumok és a történelmi hófehér templomok mellett. Délután a part felé pedálozva eukaliptuszfák árnyékában fedezhet fel rejtett ókeresztény romokat és ókori őrtornyokat. Az utazás egy kellemes, festői tekeréssel zárul a nyüzsgő tengerparti sétányon.",
+        "ro": "Aventura pe bicicletă începe în decorul energic al lacului de la parcul acvatic. La prânz traseul vă duce în centrul orașului, trecând pe lângă amfiteatre moderne și biserici albe istorice. După-amiaza veți pedala spre coastă pentru a descoperi ruine paleocreștine ascunse și turnuri de veghe antice la umbra eucalipților. Călătoria se încheie cu o plimbare răcoroasă și pitorească de-a lungul promenadei de coastă.",
+        "en": "Your cycling adventure kicks off at the energetic lake setting of the local cable park. Midday guides you into the town center, weaving past modern amphitheaters and historic whitewashed churches. In the afternoon, you will pedal towards the coastline to uncover hidden paleochristian ruins and ancient watchtowers under the shade of eucalyptus trees. The journey concludes with a breezy, scenic ride along the vibrant coastal promenade."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:19",
+      "total_km": 6.34,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Sould Park",
+            "hu": "Sould Park",
+            "ro": "Sould Park",
+            "en": "Sould Park"
+          },
+          "coords": [
+            -4.953096,
+            36.488416
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie mit etwas unbeschwertem Spaß in diesem bunten Vergnügungszentrum, und nutzen Sie den nahegelegenen öffentlichen Parkplatz, da Straßenparkplätze schnell belegt sind.",
+            "hu": "Kezdje egy kis vidámsággal ebben a színes vidámparkban, és mindenképpen a közeli nyilvános parkolót használja, mivel az utcai helyek reggelente nagyon gyorsan betelnek.",
+            "ro": "Începeți cu puțină distracție la acest centru de distracții colorat și asigurați-vă că folosiți parcarea publică din apropiere, deoarece locurile de pe stradă se ocupă rapid.",
+            "en": "Start with some lighthearted fun at this colorful amusement center, and make sure to use the nearby public parking lot since street spots fill up quickly in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Paseo de la Fama",
+            "hu": "Walk of Fame",
+            "ro": "Walk of Fame",
+            "en": "Walk of Fame"
+          },
+          "coords": [
+            -4.956001,
+            36.487325
+          ],
+          "category": "landmark",
+          "arrive_at": "10:29",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Schlendern Sie über diesen sternenübersäten Gehweg, der lokalen und internationalen Prominenten gewidmet ist, und halten Sie Ausschau nach Ihren Lieblingsnamen am Jachthafen.",
+            "hu": "Sétáljon végig ezen a helyi és nemzetközi hírességeknek szentelt csillagos járdán, és keresse meg kedvencei nevét, miközben élvezi a nyüzsgő kikötői hangulatot.",
+            "ro": "Plimbați-vă pe acest trotuar presărat cu stele dedicate celebrităților locale și internaționale și căutați numele preferate în timp ce vă bucurați de atmosfera vibrantă a portului.",
+            "en": "Stroll along this star-studded pavement dedicated to local and international celebrities, and keep an eye out for your favorite names while enjoying the bustling marina vibe."
+          }
+        },
+        {
+          "name": {
+            "de": "Puerto Banús Poniente",
+            "hu": "Puerto Banús Poniente",
+            "ro": "Puerto Banús Poniente",
+            "en": "Poniente Puerto Banús"
+          },
+          "coords": [
+            -4.9548,
+            36.483036
+          ],
+          "category": "landmark",
+          "arrive_at": "10:58",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Genießen Sie die glamouröse Atmosphäre dieses westlichen Hafengebiets, wo das Beobachten luxuriöser Yachten ein Muss ist; vergessen Sie aber wegen der Reflexionen Ihre Sonnenbrille nicht.",
+            "hu": "Szívja magába a nyugati kikötőnegyed elbűvölő atmoszféráját, ahol a luxusjachtok nézegetése kötelező program, de a napszemüveg elengedhetetlen a csillogó víz miatt.",
+            "ro": "Bucurați-vă de atmosfera plină de farmec a acestei zone portuare vestice, unde trebuie neapărat să admirați iahturile de lux, dar nu uitați ochelarii de soare pentru reflexiile apei.",
+            "en": "Take in the glamorous atmosphere of this western port area, where watching the luxurious yachts is a must, though bringing sunglasses is essential for the glaring water reflections."
+          }
+        },
+        {
+          "name": {
+            "de": "Hundestrand Ventura del Mar",
+            "hu": "Ventura del Mar Kutyastrand",
+            "ro": "Plaja pentru câini Ventura del Mar",
+            "en": "Ventura del Mar Dog Beach"
+          },
+          "coords": [
+            -4.970935,
+            36.479227
+          ],
+          "category": "recreational",
+          "arrive_at": "11:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen hundefreundlichen Kieselstrand, wenn Sie mit Haustieren reisen, aber bringen Sie unbedingt eigenen Sonnenschutz mit, da der natürliche Schatten hier sehr begrenzt ist.",
+            "hu": "Látogasson el erre a kutyabarát kavicsos strandra, ha háziállattal utazik, de ne felejtsen el saját napernyőt hozni, mivel a természetes árnyék ezen a partszakaszon nagyon ritka.",
+            "ro": "Vizitați această plajă cu pietricele unde câinii sunt permiși, dar asigurați-vă că aduceți propria umbrelă deoarece umbra naturală este destul de limitată pe această porțiune.",
+            "en": "Visit this dog-friendly pebble beach if you are traveling with pets, but remember to bring your own shade as natural cover is quite limited along this stretch of coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Zuckermühle El Trapiche",
+            "hu": "El Trapiche Cukormalom",
+            "ro": "Moara de Zahăr El Trapiche",
+            "en": "El Trapiche Sugar Mill"
+          },
+          "coords": [
+            -4.985155,
+            36.486907
+          ],
+          "category": "cultural",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.52,
+          "tip_5lang": {
+            "de": "Fahren Sie etwas landeinwärts, um die Reste der alten Zuckermühle zu erkunden, und parken Sie vorsichtig am Seitenstreifen, da es keinen ausgewiesenen Besucherparkplatz gibt.",
+            "hu": "Vezessen kissé beljebb a szárazföld felé a régi cukormalom lenyűgöző maradványaihoz, de óvatosan parkoljon a szomszédos földutakon, mivel nincs kijelölt látogatói parkoló.",
+            "ro": "Conduceți ușor spre interior pentru a explora rămășițele vechii fabrici de zahăr, parcând cu grijă pe acostamentele de pământ deoarece nu există o parcare amenajată.",
+            "en": "Drive slightly inland to explore the captivating remains of the old sugar mill, parking carefully on the adjacent dirt shoulders as there is no designated visitor lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Pedro de Alcántara",
+            "hu": "San Pedro de Alcántara Templom",
+            "ro": "Biserica San Pedro de Alcántara",
+            "en": "San Pedro de Alcántara Church"
+          },
+          "coords": [
+            -4.990064,
+            36.486739
+          ],
+          "category": "religious",
+          "arrive_at": "14:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.44,
+          "tip_5lang": {
+            "de": "Bewundern Sie das koloniale Design der zentralen Pfarrkirche und nutzen Sie die nahegelegenen Tiefgaragen, um den überfüllten und engen Gassen zu entgehen.",
+            "hu": "Értékelje a központi plébániatemplom lenyűgöző gyarmati dizájnját, és használja a közeli mélygarázsokat, hogy elkerülje a zsúfolt, szűk utcákat a központban.",
+            "ro": "Apreciați designul colonial imaculat al bisericii parohiale centrale și utilizați parcările subterane din apropiere pentru a evita străzile înguste și aglomerate.",
+            "en": "Appreciate the pristine colonial design of the central parish church, and utilize the underground parking facilities nearby to avoid the congested narrow streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Frühchristliche Basilika Vega del Mar",
+            "hu": "Vega del Mar Ókeresztény Bazilika",
+            "ro": "Bazilica Paleocreștină Vega del Mar",
+            "en": "Vega del Mar Paleochristian Basilica"
+          },
+          "coords": [
+            -4.990355,
+            36.471965
+          ],
+          "category": "historical",
+          "arrive_at": "15:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.64,
+          "tip_5lang": {
+            "de": "Fahren Sie zu den küstennahen Eukalyptushainen, um diese außergewöhnlichen frühchristlichen Ruinen zu finden, und bedenken Sie, dass die Zufahrtsstraße recht staubig sein kann.",
+            "hu": "Navigáljon a parti eukaliptuszligetek felé, hogy megtalálja ezeket a rendkívüli ókeresztény romokat, de vegye figyelembe, hogy a bekötőút poros lehet, ezért vezessen lassan.",
+            "ro": "Navigați spre crângurile de eucalipt de coastă pentru a găsi aceste ruine creștine timpurii, ținând cont că drumul de acces poate fi prăfuit, așa că trebuie să conduceți încet.",
+            "en": "Navigate towards the coastal eucalyptus groves to find these extraordinary early Christian ruins, noting that the access road can be dusty so drive slowly."
+          }
+        },
+        {
+          "name": {
+            "de": "Wachturm Torre de las Bóvedas",
+            "hu": "Torre de las Bóvedas Őrtorony",
+            "ro": "Turnul de Veghe Torre de las Bóvedas",
+            "en": "Torre de las Bóvedas Watchtower"
+          },
+          "coords": [
+            -4.993099,
+            36.468212
+          ],
+          "category": "tower",
+          "arrive_at": "16:24",
+          "stay_min": 55,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt an diesem imposanten Küstenwachturm umgeben von römischen Bädern, und parken Sie Ihr Auto in den nahegelegenen Wohnstraßen für einen kurzen Spaziergang.",
+            "hu": "Fejezze be az autózást ennél az impozáns parti őrtoronynál, amelyet római fürdők vesznek körül, és hagyja autóját a közeli lakóutcákban egy kényelmes sétához a part felé.",
+            "ro": "Încheiați traseul la acest turn de veghe impunător înconjurat de băi romane istorice, lăsând mașina pe străzile rezidențiale din apropiere pentru o plimbare ușoară spre mal.",
+            "en": "Conclude your drive at this imposing coastal watchtower surrounded by historical Roman baths, leaving your car in the nearby residential avenues for an easy walk to the shore."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt mit familienfreundlichem Spaß und einem glamourösen Spaziergang rund um Puerto Banús, um den Glanz der Westküste zu genießen. Mittags fahren Sie landeinwärts und tauschen den Jachthafen gegen historische Zuckermühlen und den kolonialen Charme des Stadtzentrums. Der Nachmittag lädt Sie ein, zurück ans Meer zu fahren, um archäologische Schätze in Eukalyptushainen zu entdecken. Ihre Reise endet mit dem Sonnenuntergang neben antiker römischer Baukunst und Wachtürmen.",
+        "hu": "Az autós túra családbarát szórakozással és egy elbűvölő sétával kezdődik a Puerto Banús környékén, ahol a nyugati part csillogását élvezheti. Délben kissé beljebb utazik, a kikötőket történelmi cukormalmokra és a városközpont gyarmati bájára cserélve. A délután arra invitálja, hogy visszatérjen a tenger felé, hogy rejtett régészeti kincseket fedezzen fel az eukaliptuszligetekben. Az utazás az ókori római építészet és a parti őrtornyok melletti naplementével zárul.",
+        "ro": "Turul cu mașina începe cu distracție pentru familie și o plimbare glamour în zona Puerto Banús, admirând strălucirea coastei de vest. La prânz, vă deplasați ușor spre interior, schimbând porturile cu vechile fabrici de zahăr și farmecul colonial al centrului orașului. După-amiaza vă invită să vă întoarceți spre mare pentru a descoperi bijuterii arheologice ascunse în crângurile de eucalipt. Călătoria se încheie cu un apus spectaculos alături de vechile turnuri de coastă.",
+        "en": "Your driving tour starts with family-friendly fun and a glamorous stroll around the Puerto Banús area, soaking up the glitz of the western coast. By midday, you move slightly inland, trading marinas for historical sugar mills and the colonial charm of the town center's main church. The afternoon invites you to navigate back towards the sea to uncover hidden archaeological gems within eucalyptus groves. Your journey wraps up with sunset views beside ancient Roman engineering and coastal watchtowers."
+      }
+    }
+  }
+}

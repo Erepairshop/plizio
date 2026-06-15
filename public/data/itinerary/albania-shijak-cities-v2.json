@@ -1,0 +1,520 @@
+{
+  "city_id": "albania-shijak-cities-v2",
+  "anchor": {
+    "name": "Shijak",
+    "coords": [
+      19.5667,
+      41.3456
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:16",
+      "total_km": 5.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Liqeni i Dunjve",
+            "hu": "Liqeni i Dunjve",
+            "ro": "Liqeni i Dunjve",
+            "en": "Liqeni i Dunjve"
+          },
+          "coords": [
+            19.64098,
+            41.376179
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedlichen Wellen dieses versteckten Sees, ein perfekter Ort zur Vogelbeobachtung, also bringen Sie unbedingt Ihr Fernglas mit.",
+            "hu": "Élvezze ennek a rejtett tónak a békés hullámait, amely tökéletes hely a madármegfigyelésre, ezért feltétlenül hozzon magával távcsövet.",
+            "ro": "Bucurați-vă de valurile pașnice ale acestui lac ascuns, un loc perfect pentru a observa păsările, așa că asigurați-vă că aduceți binoclul cu voi.",
+            "en": "Enjoy the peaceful ripples of this hidden lake, a perfect spot to observe local birdlife, so make sure to bring your binoculars for a closer look."
+          }
+        },
+        {
+          "name": {
+            "de": "Liqeni i Vores",
+            "hu": "Liqeni i Vores",
+            "ro": "Liqeni i Vores",
+            "en": "Liqeni i Vores"
+          },
+          "coords": [
+            19.642556,
+            41.384422
+          ],
+          "category": "natural",
+          "arrive_at": "10:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Schlendern Sie um dieses weitläufige Gewässer, das den Himmel perfekt widerspiegelt, und tragen Sie feste Schuhe für die unebenen Uferwege.",
+            "hu": "Sétáljon ezen a kiterjedt vízfelületen, amely tökéletesen tükrözi az eget, és viseljen masszív cipőt a kissé egyenetlen környező ösvényeken.",
+            "ro": "Plimbați-vă în jurul acestei ape vaste care reflectă perfect cerul și purtați încălțăminte rezistentă pentru a naviga pe traseele din jur.",
+            "en": "Stroll around this expansive body of water that mirrors the sky perfectly, and wear sturdy shoes to navigate the slightly uneven surrounding trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Selja",
+            "hu": "Selja",
+            "ro": "Selja",
+            "en": "Selja"
+          },
+          "coords": [
+            19.625342,
+            41.403213
+          ],
+          "category": "natural",
+          "arrive_at": "12:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Atmen Sie die frische Luft dieser ruhigen, grünen Naturoase ein und vergessen Sie nicht, eine leichte Jacke einzupacken, da es windig werden kann.",
+            "hu": "Szívja be a friss levegőt ezen a buja növényzettel teli, nyugodt természeti területen, és ne felejtsen el egy könnyű kabátot pakolni, mert szeles lehet.",
+            "ro": "Respirați aerul proaspăt din această enclavă naturală liniștită, plină de verdeață, și nu uitați să luați o jachetă ușoară, deoarece este răcoare.",
+            "en": "Breathe in the fresh air of this tranquil natural enclave filled with lush greenery, and don't forget to pack a light jacket as it gets breezy."
+          }
+        },
+        {
+          "name": {
+            "de": "Liqeni Gerdec",
+            "hu": "Liqeni Gerdec",
+            "ro": "Liqeni Gerdec",
+            "en": "Liqeni Gerdec"
+          },
+          "coords": [
+            19.616436,
+            41.400085
+          ],
+          "category": "natural",
+          "arrive_at": "13:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die malerische Küste dieses ruhigen Naturbeckens, das wunderbare Fotomotive bietet, also kommen Sie früh für das beste Licht.",
+            "hu": "Csodálja meg ennek a csendes természeti medencének a festői partvonalát, amely csodálatos fotózási lehetőségeket kínál, ezért érkezzen korán a legjobb fényért.",
+            "ro": "Admirați țărmul pitoresc al acestui bazin natural liniștit, care oferă oportunități foto minunate, așa că ajungeți devreme pentru cea mai bună lumină.",
+            "en": "Marvel at the picturesque shoreline of this quiet natural basin, which offers wonderful photo opportunities, so arrive early for the best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Liqeni i Huqve",
+            "hu": "Liqeni i Huqve",
+            "ro": "Liqeni i Huqve",
+            "en": "Liqeni i Huqve"
+          },
+          "coords": [
+            19.610228,
+            41.409333
+          ],
+          "category": "natural",
+          "arrive_at": "15:31",
+          "stay_min": 105,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am ruhigen Wasser dieses schönen Sees, der von sanften Hügeln umgeben ist, und breiten Sie eine Decke für ein kurzes Picknick aus.",
+            "hu": "Pihenjen e gyönyörű, lankás dombokkal körülvett tó nyugodt vizénél, és terítsen le egy takarót egy gyors délutáni piknikhez a fűben.",
+            "ro": "Relaxați-vă la apele calme ale acestui lac frumos înconjurat de dealuri și luați în considerare întinderea unei pături pentru un picnic rapid.",
+            "en": "Relax by the calm waters of this beautiful lake surrounded by rolling hills, and consider laying out a blanket for a quick afternoon picnic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt in der friedlichen Atmosphäre des Liqeni i Dunjve, gefolgt von einer Wanderung zum Liqeni i Vores. Mittags lädt das üppige Grün von Selja zu einem gemütlichen Spaziergang ein. Der Nachmittag ist dem Einfangen der Schönheit am Liqeni Gerdec gewidmet. Der Abend naht mit einem entspannenden Sonnenuntergangspicknick am Liqeni i Huqve, wo der Tag ruhig ausklingt.",
+        "hu": "A reggel a Liqeni i Dunjve békés légkörével kezdődik, amelyet a Liqeni i Vores tágas vizei felé tett frissítő túra követ. A délidő laza sétára hív Selja buja zöldjében, tökéletes természeti menedéket kínálva. A délutánt a Liqeni Gerdec szépségének megörökítésével töltjük. Az este a Liqeni i Huqve melletti nyugodt piknikkel közeledik, ahogy a nap szép lassan lenyugszik.",
+        "ro": "Dimineața începe cu atmosfera pașnică de la Liqeni i Dunjve, urmată de o drumeție revigorantă spre Liqeni i Vores. La prânz, verdeața luxuriantă de la Selja vă invită la o plimbare relaxantă, oferind un refugiu natural perfect. După-amiaza este dedicată capturării frumuseții de la Liqeni Gerdec. Seara se apropie cu un picnic relaxant la apus pe malul liniștit al Liqeni i Huqve.",
+        "en": "Morning begins with the peaceful atmosphere of Liqeni i Dunjve, followed by a refreshing hike toward the expansive waters of Liqeni i Vores. Midday invites a leisurely stroll through the lush greenery of Selja, offering a perfect natural retreat. Afternoon is spent capturing the serene beauty and reflections at Liqeni Gerdec. Evening approaches with a relaxing sunset picnic at Liqeni i Huqve."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:46",
+      "total_km": 14.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Liqeni i Kasëve",
+            "hu": "Liqeni i Kasëve",
+            "ro": "Liqeni i Kasëve",
+            "en": "Liqeni i Kasëve"
+          },
+          "coords": [
+            19.569423,
+            41.354612
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Spiegelungen in diesem ruhigen See, den Einheimische für Wochenendspaziergänge lieben, und bringen Sie Mückenschutz mit.",
+            "hu": "Csodálja meg az érintetlen tükröződéseket ezen a csendes tavon, amelyet a helyiek hétvégi sétákra használnak, és hozzon szúnyogriasztót magával.",
+            "ro": "Admirați reflexiile imaculate din acest lac senin, pe care localnicii îl adoră pentru plimbările de weekend, și aduceți spray împotriva țânțarilor.",
+            "en": "Admire the pristine reflections in this serene lake that locals love for weekend walks, and bring some mosquito repellent if you visit near dusk."
+          }
+        },
+        {
+          "name": {
+            "de": "Liqeni i Rrubjekes",
+            "hu": "Liqeni i Rrubjekes",
+            "ro": "Liqeni i Rrubjekes",
+            "en": "Liqeni i Rrubjekes"
+          },
+          "coords": [
+            19.588293,
+            41.39446
+          ],
+          "category": "natural",
+          "arrive_at": "10:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 4.7,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf das von wilder Vegetation umrahmte Wasser, ein idealer Ort zum Skizzieren, also halten Sie ein Notizbuch bereit.",
+            "hu": "Élvezze a vadon élő növényzettel keretezett víz panorámáját, amely ideális hely a vázlatkészítéshez, ezért tartson kéznél egy kis füzetet a táskájában.",
+            "ro": "Admirați vederea panoramică a apei încadrate de vegetație sălbatică, un loc ideal pentru a schița, așa că păstrați un mic caiet la îndemână în geantă.",
+            "en": "Take in the panoramic views of the water framed by wild vegetation, an ideal spot for sketching, so have a small notebook handy in your bag."
+          }
+        },
+        {
+          "name": {
+            "de": "Liqeni i Borçës",
+            "hu": "Liqeni i Borçës",
+            "ro": "Liqeni i Borçës",
+            "en": "Liqeni i Borçës"
+          },
+          "coords": [
+            19.576775,
+            41.41883
+          ],
+          "category": "natural",
+          "arrive_at": "12:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Wandern Sie an den unberührten Ufern dieses lebendigen Sees entlang, der völlige Abgeschiedenheit bietet, und tragen Sie lange Hosen gegen hohes Gras.",
+            "hu": "Sétáljon végig ezen az érintetlen tó partján, amely teljes elzártságot kínál, és viseljen hosszú nadrágot, hogy elkerülje a magas fű okozta karcolásokat.",
+            "ro": "Plimbați-vă de-a lungul malurilor neatinse ale acestui lac vibrant, care oferă izolare totală, și purtați pantaloni lungi pentru a evita iarba înaltă.",
+            "en": "Wander along the untouched banks of this vibrant lake offering total seclusion, and wear long pants to avoid scratches from the native tall grass."
+          }
+        },
+        {
+          "name": {
+            "de": "Liqeni i Huqve",
+            "hu": "Liqeni i Huqve",
+            "ro": "Liqeni i Huqve",
+            "en": "Liqeni i Huqve"
+          },
+          "coords": [
+            19.610228,
+            41.409333
+          ],
+          "category": "natural",
+          "arrive_at": "13:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am ruhigen Wasser dieses schönen Sees, der von sanften Hügeln umgeben ist, und breiten Sie eine Decke für ein kurzes Picknick aus.",
+            "hu": "Pihenjen e gyönyörű, lankás dombokkal körülvett tó nyugodt vizénél, és terítsen le egy takarót egy gyors délutáni piknikhez a fűben.",
+            "ro": "Relaxați-vă la apele calme ale acestui lac frumos înconjurat de dealuri și luați în considerare întinderea unei pături pentru un picnic rapid.",
+            "en": "Relax by the calm waters of this beautiful lake surrounded by rolling hills, and consider laying out a blanket for a quick afternoon picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Liqeni Gerdec",
+            "hu": "Liqeni Gerdec",
+            "ro": "Liqeni Gerdec",
+            "en": "Liqeni Gerdec"
+          },
+          "coords": [
+            19.616436,
+            41.400085
+          ],
+          "category": "natural",
+          "arrive_at": "15:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die malerische Küste dieses ruhigen Naturbeckens, das wunderbare Fotomotive bietet, also kommen Sie früh für das beste Licht.",
+            "hu": "Csodálja meg ennek a csendes természeti medencének a festői partvonalát, amely csodálatos fotózási lehetőségeket kínál, ezért érkezzen korán a legjobb fényért.",
+            "ro": "Admirați țărmul pitoresc al acestui bazin natural liniștit, care oferă oportunități foto minunate, așa că ajungeți devreme pentru cea mai bună lumină.",
+            "en": "Marvel at the picturesque shoreline of this quiet natural basin, which offers wonderful photo opportunities, so arrive early for the best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Selja",
+            "hu": "Selja",
+            "ro": "Selja",
+            "en": "Selja"
+          },
+          "coords": [
+            19.625342,
+            41.403213
+          ],
+          "category": "natural",
+          "arrive_at": "16:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Atmen Sie die frische Luft dieser ruhigen, grünen Naturoase ein und vergessen Sie nicht, eine leichte Jacke einzupacken, da es windig werden kann.",
+            "hu": "Szívja be a friss levegőt ezen a buja növényzettel teli, nyugodt természeti területen, és ne felejtsen el egy könnyű kabátot pakolni, mert szeles lehet.",
+            "ro": "Respirați aerul proaspăt din această enclavă naturală liniștită, plină de verdeață, și nu uitați să luați o jachetă ușoară, deoarece este răcoare.",
+            "en": "Breathe in the fresh air of this tranquil natural enclave filled with lush greenery, and don't forget to pack a light jacket as it gets breezy."
+          }
+        },
+        {
+          "name": {
+            "de": "Liqeni i Vores",
+            "hu": "Liqeni i Vores",
+            "ro": "Liqeni i Vores",
+            "en": "Liqeni i Vores"
+          },
+          "coords": [
+            19.642556,
+            41.384422
+          ],
+          "category": "natural",
+          "arrive_at": "18:01",
+          "stay_min": 105,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie um dieses weitläufige Gewässer, das den Himmel perfekt widerspiegelt, und tragen Sie feste Schuhe für die unebenen Uferwege.",
+            "hu": "Sétáljon ezen a kiterjedt vízfelületen, amely tökéletesen tükrözi az eget, és viseljen masszív cipőt a kissé egyenetlen környező ösvényeken.",
+            "ro": "Plimbați-vă în jurul acestei ape vaste care reflectă perfect cerul și purtați încălțăminte rezistentă pentru a naviga pe traseele din jur.",
+            "en": "Stroll around this expansive body of water that mirrors the sky perfectly, and wear sturdy shoes to navigate the slightly uneven surrounding trails."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour am ruhigen Liqeni i Kasëve, bevor Sie kräftig zur wilden Vegetation des Liqeni i Rrubjekes radeln. Mittags ruhen Sie an den unberührten Ufern des Liqeni i Borçës und genießen die Isolation. Die Nachmittagsfahrt führt zu den schönen Seen Huqve und Gerdec. Der Abend bricht herein, während Sie nach Selja rollen und am herrlichen Liqeni i Vores enden.",
+        "hu": "Kezdje kerékpáros utazását a nyugodt Liqeni i Kasëve tónál, majd tekerjen energikusan a Liqeni i Rrubjekes vad növényzete felé. Délben a Liqeni i Borçës érintetlen partjainál pihen, élvezve a tiszta elszigeteltséget. A délutáni túra a Liqeni i Huqve és Gerdec festői kilátásához folytatódik. Az este akkor érkezik el, amikor begurul Seljába, és a napot a Liqeni i Voresnél zárja.",
+        "ro": "Începeți călătoria cu bicicleta la liniștitul Liqeni i Kasëve înainte de a pedala energic spre vegetația sălbatică de la Liqeni i Rrubjekes. La prânz vă odihniți pe malurile neatinse de la Liqeni i Borçës, bucurându-vă de izolarea pură. Plimbarea de după-amiază continuă spre Huqve și Gerdec. Seara sosește pe măsură ce rulați în Selja și încheiați ziua pitorească la Liqeni i Vores.",
+        "en": "Start your cycling journey at the serene Liqeni i Kasëve before pedaling energetically towards the wild vegetation of Liqeni i Rrubjekes. Midday sees you resting by the untouched banks of Liqeni i Borçës, enjoying the pure isolation. The afternoon ride continues to Liqeni i Huqve and Gerdec for scenic views. Evening arrives as you roll into Selja and conclude at Liqeni i Vores."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:39",
+      "total_km": 28.1,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Reservari i Rrashbullit",
+            "hu": "Reservari i Rrashbullit",
+            "ro": "Reservari i Rrashbullit",
+            "en": "Reservari i Rrashbullit"
+          },
+          "coords": [
+            19.517738,
+            41.323557
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Erkundung an diesem großen Stausee, der für die lokale Landwirtschaft entscheidend ist, und bringen Sie einen breitkrempigen Hut mit.",
+            "hu": "Kezdje a felfedezést ennél a nagy tározónál, amely kulcsfontosságú a helyi mezőgazdaság számára, és hozzon magával széles karimájú kalapot, mert kevés az árnyék.",
+            "ro": "Începeți explorarea la acest rezervor mare, crucial pentru agricultura locală, și aduceți o pălărie cu boruri largi, deoarece umbra este rară aici.",
+            "en": "Start your exploration at this large reservoir which is crucial for local agriculture, and bring a wide-brimmed hat as shade can be quite scarce here."
+          }
+        },
+        {
+          "name": {
+            "de": "Liqeni i Durrësit",
+            "hu": "Liqeni i Durrësit",
+            "ro": "Liqeni i Durrësit",
+            "en": "Liqeni i Durrësit"
+          },
+          "coords": [
+            19.54068,
+            41.271498
+          ],
+          "category": "natural",
+          "arrive_at": "10:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ränder dieses historisch bedeutsamen Sees nahe der Küste und halten Sie Ausschau nach traditionellen Fischerbooten auf dem Wasser.",
+            "hu": "Fedezze fel ennek a part közeli, történelmileg jelentős tónak a széleit, és keresse a felszínen csendesen úszó hagyományos halászhajókat.",
+            "ro": "Explorați marginile acestui lac istoric semnificativ de lângă coastă și căutați bărcile tradiționale de pescuit care încă plutesc liniștit pe suprafață.",
+            "en": "Explore the edges of this historically significant lake near the coast, and look out for traditional fishing boats still floating quietly on the surface."
+          }
+        },
+        {
+          "name": {
+            "de": "Liqeni i Kasëve",
+            "hu": "Liqeni i Kasëve",
+            "ro": "Liqeni i Kasëve",
+            "en": "Liqeni i Kasëve"
+          },
+          "coords": [
+            19.569423,
+            41.354612
+          ],
+          "category": "natural",
+          "arrive_at": "12:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Spiegelungen in diesem ruhigen See, den Einheimische für Wochenendspaziergänge lieben, und bringen Sie Mückenschutz mit.",
+            "hu": "Csodálja meg az érintetlen tükröződéseket ezen a csendes tavon, amelyet a helyiek hétvégi sétákra használnak, és hozzon szúnyogriasztót magával.",
+            "ro": "Admirați reflexiile imaculate din acest lac senin, pe care localnicii îl adoră pentru plimbările de weekend, și aduceți spray împotriva țânțarilor.",
+            "en": "Admire the pristine reflections in this serene lake that locals love for weekend walks, and bring some mosquito repellent if you visit near dusk."
+          }
+        },
+        {
+          "name": {
+            "de": "Liqeni i Rrubjekes",
+            "hu": "Liqeni i Rrubjekes",
+            "ro": "Liqeni i Rrubjekes",
+            "en": "Liqeni i Rrubjekes"
+          },
+          "coords": [
+            19.588293,
+            41.39446
+          ],
+          "category": "natural",
+          "arrive_at": "13:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.7,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf das von wilder Vegetation umrahmte Wasser, ein idealer Ort zum Skizzieren, also halten Sie ein Notizbuch bereit.",
+            "hu": "Élvezze a vadon élő növényzettel keretezett víz panorámáját, amely ideális hely a vázlatkészítéshez, ezért tartson kéznél egy kis füzetet a táskájában.",
+            "ro": "Admirați vederea panoramică a apei încadrate de vegetație sălbatică, un loc ideal pentru a schița, așa că păstrați un mic caiet la îndemână în geantă.",
+            "en": "Take in the panoramic views of the water framed by wild vegetation, an ideal spot for sketching, so have a small notebook handy in your bag."
+          }
+        },
+        {
+          "name": {
+            "de": "Liqeni i Borçës",
+            "hu": "Liqeni i Borçës",
+            "ro": "Liqeni i Borçës",
+            "en": "Liqeni i Borçës"
+          },
+          "coords": [
+            19.576775,
+            41.41883
+          ],
+          "category": "natural",
+          "arrive_at": "14:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Wandern Sie an den unberührten Ufern dieses lebendigen Sees entlang, der völlige Abgeschiedenheit bietet, und tragen Sie lange Hosen gegen hohes Gras.",
+            "hu": "Sétáljon végig ezen az érintetlen tó partján, amely teljes elzártságot kínál, és viseljen hosszú nadrágot, hogy elkerülje a magas fű okozta karcolásokat.",
+            "ro": "Plimbați-vă de-a lungul malurilor neatinse ale acestui lac vibrant, care oferă izolare totală, și purtați pantaloni lungi pentru a evita iarba înaltă.",
+            "en": "Wander along the untouched banks of this vibrant lake offering total seclusion, and wear long pants to avoid scratches from the native tall grass."
+          }
+        },
+        {
+          "name": {
+            "de": "Liqeni i Huqve",
+            "hu": "Liqeni i Huqve",
+            "ro": "Liqeni i Huqve",
+            "en": "Liqeni i Huqve"
+          },
+          "coords": [
+            19.610228,
+            41.409333
+          ],
+          "category": "natural",
+          "arrive_at": "16:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am ruhigen Wasser dieses schönen Sees, der von sanften Hügeln umgeben ist, und breiten Sie eine Decke für ein kurzes Picknick aus.",
+            "hu": "Pihenjen e gyönyörű, lankás dombokkal körülvett tó nyugodt vizénél, és terítsen le egy takarót egy gyors délutáni piknikhez a fűben.",
+            "ro": "Relaxați-vă la apele calme ale acestui lac frumos înconjurat de dealuri și luați în considerare întinderea unei pături pentru un picnic rapid.",
+            "en": "Relax by the calm waters of this beautiful lake surrounded by rolling hills, and consider laying out a blanket for a quick afternoon picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Liqeni Gerdec",
+            "hu": "Liqeni Gerdec",
+            "ro": "Liqeni Gerdec",
+            "en": "Liqeni Gerdec"
+          },
+          "coords": [
+            19.616436,
+            41.400085
+          ],
+          "category": "natural",
+          "arrive_at": "17:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die malerische Küste dieses ruhigen Naturbeckens, das wunderbare Fotomotive bietet, also kommen Sie früh für das beste Licht.",
+            "hu": "Csodálja meg ennek a csendes természeti medencének a festői partvonalát, amely csodálatos fotózási lehetőségeket kínál, ezért érkezzen korán a legjobb fényért.",
+            "ro": "Admirați țărmul pitoresc al acestui bazin natural liniștit, care oferă oportunități foto minunate, așa că ajungeți devreme pentru cea mai bună lumină.",
+            "en": "Marvel at the picturesque shoreline of this quiet natural basin, which offers wonderful photo opportunities, so arrive early for the best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Selja",
+            "hu": "Selja",
+            "ro": "Selja",
+            "en": "Selja"
+          },
+          "coords": [
+            19.625342,
+            41.403213
+          ],
+          "category": "natural",
+          "arrive_at": "18:54",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Atmen Sie die frische Luft dieser ruhigen, grünen Naturoase ein und vergessen Sie nicht, eine leichte Jacke einzupacken, da es windig werden kann.",
+            "hu": "Szívja be a friss levegőt ezen a buja növényzettel teli, nyugodt természeti területen, és ne felejtsen el egy könnyű kabátot pakolni, mert szeles lehet.",
+            "ro": "Respirați aerul proaspăt din această enclavă naturală liniștită, plină de verdeață, și nu uitați să luați o jachetă ușoară, deoarece este răcoare.",
+            "en": "Breathe in the fresh air of this tranquil natural enclave filled with lush greenery, and don't forget to pack a light jacket as it gets breezy."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Roadtrip beginnt am riesigen Reservari i Rrashbullit vor einer kurzen Fahrt zu den historischen Ufern des Liqeni i Durrësit. Mittags steuern Sie den Liqeni i Kasëve an und erkunden die reichen Landschaften von Rrubjekes. Die Nachmittagsfahrt verbindet die unberührten Seen Borçës, Huqve und Gerdec. Der Abend bringt einen friedlichen Abschluss am lebhaften Liqeni i Vores.",
+        "hu": "Autós utazása a hatalmas Reservari i Rrashbullitnál kezdődik, mielőtt gyorsan eljutna a Liqeni i Durrësit történelmi partjaihoz. A délidőt a Liqeni i Kasëve központi csomópontja felé navigálva és Rrubjekes tájainak felfedezésével tölti. A délutáni út összeköti a Borçës, Huqve és Gerdec tavakat. Az este békés befejezést hoz a lenyűgöző Liqeni i Vores vibráló vizeinél.",
+        "ro": "Călătoria cu mașina începe la vastul Reservari i Rrashbullit înainte de a conduce spre țărmurile istorice de la Liqeni i Durrësit. Prânzul este petrecut navigând spre centrul Liqeni i Kasëve și explorând peisajele din Rrubjekes. După-amiaza conectează lacurile imaculate Borçës, Huqve și Gerdec. Seara aduce un final pașnic la vibrantul lac Liqeni i Vores, perfect la apus.",
+        "en": "Your road trip kicks off at the vast Reservari i Rrashbullit before a quick drive to the historic shores of Liqeni i Durrësit. Midday is spent navigating towards the central hub of Liqeni i Kasëve and exploring the rich landscapes of Rrubjekes. The afternoon drive connects the pristine lakes of Borçës, Huqve, and Gerdec. Evening brings a peaceful end at the vibrant Liqeni i Vores."
+      }
+    }
+  }
+}

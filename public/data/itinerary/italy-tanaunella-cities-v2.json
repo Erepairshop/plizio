@@ -1,0 +1,497 @@
+{
+  "city_id": "italy-tanaunella-cities-v2",
+  "anchor": {
+    "name": "Tanaunella",
+    "coords": [
+      9.72577,
+      40.68518
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:41",
+      "total_km": 4.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di San Sebastiano",
+            "hu": "Chiesa di San Sebastiano",
+            "ro": "Chiesa di San Sebastiano",
+            "en": "Chiesa di San Sebastiano"
+          },
+          "coords": [
+            9.724732,
+            40.683636
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den rustikalen Charme dieser traditionellen sardischen Kirche, um das lokale Erbe zu verstehen, und kleiden Sie sich für einen Blick ins Innere angemessen.",
+            "hu": "Csodálja meg ennek a hagyományos szardíniai templomnak a rusztikus varázsát, hogy megértse a helyi vallási örökséget, és öltözzön szerényen, ha be szeretne kukkantani.",
+            "ro": "Admirați farmecul rustic al acestei biserici tradiționale sarde pentru a aprecia patrimoniul spiritual local și amintiți-vă să vă îmbrăcați decent la vizitare.",
+            "en": "Admire the rustic charm of this traditional Sardinian church to appreciate local spiritual heritage, and remember to dress modestly if you plan to peek inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Punta D'Abbaia",
+            "hu": "Punta D'Abbaia",
+            "ro": "Punta D'Abbaia",
+            "en": "Punta D'Abbaia"
+          },
+          "coords": [
+            9.72314,
+            40.677119
+          ],
+          "category": "natural",
+          "arrive_at": "10:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Küste von diesem zerklüfteten Vorgebirge aus, um atemberaubende Fotos zu machen, aber tragen Sie unbedingt festes Schuhwerk.",
+            "hu": "Élvezze a tengerparti panorámát erről a zord, természetes hegyfokról lenyűgöző fotók készítéséhez, de feltétlenül viseljen masszív cipőt a sziklás, egyenetlen ösvényeken.",
+            "ro": "Bucurați-vă de priveliștile panoramice de pe acest promontoriu stâncos natural pentru a face fotografii uimitoare, dar asigurați-vă că purtați pantofi rezistenți.",
+            "en": "Take in the panoramic coastal views from this rugged natural promontory to capture stunning photos, but be sure to wear sturdy shoes for the rocky uneven paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiagge Porto Ainu",
+            "hu": "Spiagge Porto Ainu",
+            "ro": "Spiagge Porto Ainu",
+            "en": "Spiagge Porto Ainu"
+          },
+          "coords": [
+            9.734522,
+            40.694092
+          ],
+          "category": "recreational",
+          "arrive_at": "10:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem malerischen Strand mit kristallklarem, flachem Wasser, der sich perfekt für Familien eignet, um ein Picknick zu machen und abzuschalten.",
+            "hu": "Pihenjen ennek a festői öbölnek a puha fehér homokján, amelyet kristálytiszta, sekély víz jellemez, így tökéletes a családok számára egy piknikhez és kikapcsolódáshoz.",
+            "ro": "Relaxați-vă pe nisipul alb și fin al acestui golf pitoresc cu ape cristaline și puțin adânci, fiind locul perfect pentru familii care doresc să facă un picnic liniștit.",
+            "en": "Relax on the soft white sands of this picturesque bay characterized by crystal-clear shallow waters, making it perfect for families to bring a picnic and unwind."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Sant' Anna",
+            "hu": "Spiaggia di Sant' Anna",
+            "ro": "Spiaggia di Sant' Anna",
+            "en": "Spiaggia di Sant' Anna"
+          },
+          "coords": [
+            9.72375,
+            40.699266
+          ],
+          "category": "recreational",
+          "arrive_at": "12:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Schlendern Sie an dieser weitläufigen, von Pinien gesäumten Küste entlang, um den Touristenmassen zu entfliehen, und packen Sie ausreichend Sonnencreme für die Mittagshitze ein.",
+            "hu": "Sétáljon végig ezen a kiterjedt és nyugodt, fenyőkkel szegélyezett tengerparton, hogy elkerülje a tömeget, és ne felejtsen el sok fényvédőt csomagolni a déli hőség ellen.",
+            "ro": "Plimbați-vă de-a lungul acestei coaste extinse, mărginite de pini, pentru a scăpa de aglomerație și nu uitați să împachetați multă cremă de protecție solară la prânz.",
+            "en": "Stroll along this expansive and tranquil pine-fringed shoreline to escape the larger tourist crowds, and don't forget to pack plenty of sunscreen for the midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Budoni",
+            "hu": "Spiaggia di Budoni",
+            "ro": "Spiaggia di Budoni",
+            "en": "Spiaggia di Budoni"
+          },
+          "coords": [
+            9.718548,
+            40.70485
+          ],
+          "category": "recreational",
+          "arrive_at": "13:56",
+          "stay_min": 105,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre dieses riesigen Strandes mit feinem Sand und türkisfarbenen Wellen, wo eine frühe Reservierung der Sonnenliege maximalen Komfort sichert.",
+            "hu": "Élvezze a finom homokot és türkizkék hullámokat kínáló hatalmas strand élénk hangulatát, ahol a napozóágy korai bérlése biztosítja a legkényelmesebb tengerparti élményt.",
+            "ro": "Bucurați-vă de atmosfera vibrantă a acestei plaje vaste cu nisip fin și valuri turcoaz, unde închirierea timpurie a unui șezlong asigură o experiență foarte confortabilă.",
+            "en": "Enjoy the vibrant atmosphere of this famous sweeping beach offering fine sand and turquoise waves, where renting a sunbed early ensures the most comfortable seaside experience."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Wanderabenteuer im Herzen von Tanaunella an der historischen Chiesa di San Sebastiano, und atmen Sie die lokale Atmosphäre ein. Gehen Sie dann nach Süden zum rauen Aussichtspunkt Punta D'Abbaia für eine erfrischende Seebrise und dramatische Küstenlandschaften.\n\nSetzen Sie Ihren Spaziergang nordwärts zu den einladenden Spiagge Porto Ainu fort. Das flache, klare Wasser bietet eine herrliche Kulisse für eine Mittagspause, wo Sie im warmen Sand entspannen können.\n\nWandern Sie am Nachmittag entlang der Küste zur ruhigen Spiaggia di Sant' Anna. Dieser von duftenden Pinien gesäumte Küstenabschnitt ist der perfekte Ort, um der Hitze zu entkommen.\n\nSchließen Sie den Tag mit einem kurzen Spaziergang zur berühmten Spiaggia di Budoni ab. Die lebhafte Atmosphäre und das goldene Licht über den Wellen bilden einen unvergesslichen Abschied.",
+        "hu": "Kezdje gyalogos kalandját Tanaunella szívében a történelmi Chiesa di San Sebastiano-nál. Ezután induljon dél felé a Punta D'Abbaia zord kilátójához, ahol frissítő tengeri szellő és drámai tengerparti táj várja.\n\nFolytassa sétáját észak felé a hívogató Spiagge Porto Ainu felé. A sekély, tiszta víz lenyűgöző hátteret biztosít a déli pihenőhöz a finom homokon.\n\nDélután sétáljon végig a parton a csendes Spiaggia di Sant' Anna felé. Ez az illatos fenyőfákkal szegélyezett nyugodt szakasz tökéletes menedéket nyújt a hőség elől.\n\nZárja a napot egy rövid sétával a híres Spiaggia di Budoni strandhoz. Az élénk hangulat és a türkizkék hullámok feletti aranyfény felejthetetlen búcsút teremt.",
+        "ro": "Începeți aventura la pas în inima orașului Tanaunella la istorica Chiesa di San Sebastiano. Apoi, mergeți spre sud pentru o briză răcoroasă de dimineață și peisaje de coastă dramatice la punctul de belvedere stâncos Punta D'Abbaia.\n\nContinuați plimbarea spre nord către primitoarea plajă Spiagge Porto Ainu. Apele limpezi și puțin adânci oferă un cadru uimitor pentru o pauză de prânz relaxantă pe nisipul cald.\n\nPe măsură ce după-amiaza avansează, rătăciți de-a lungul coastei spre liniștita Spiaggia di Sant' Anna, oferind refugiul perfect din calea căldurii la umbra pinilor.\n\nÎncheiați ziua cu o scurtă plimbare până la faimoasa Spiaggia di Budoni. Atmosfera vibrantă și lumina aurie de pe valurile turcoaz creează un rămas bun de neuitat.",
+        "en": "Start your walking adventure in the heart of Tanaunella at the historic Chiesa di San Sebastiano, soaking in the local atmosphere. Then, head south for a refreshing morning breeze and dramatic coastal scenery at the rugged viewpoint of Punta D'Abbaia.\n\nContinue your stroll northward toward the inviting Spiagge Porto Ainu. Here, the shallow, clear waters provide a stunning backdrop for a midday break, allowing you to relax on the warm sands and enjoy a packed lunch by the shore.\n\nAs the afternoon unfolds, wander along the coast to the tranquil Spiaggia di Sant' Anna. This peaceful stretch bordered by fragrant pine trees offers the perfect escape from the heat and a chance to dip your toes in the refreshing sea.\n\nConclude your day with a short walk up to the famous Spiaggia di Budoni. As the sun begins to set, the vibrant atmosphere and golden light over the turquoise waves create an unforgettable farewell to your coastal exploration."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:47",
+      "total_km": 9.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di San Sebastiano",
+            "hu": "Chiesa di San Sebastiano",
+            "ro": "Chiesa di San Sebastiano",
+            "en": "Chiesa di San Sebastiano"
+          },
+          "coords": [
+            9.724732,
+            40.683636
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den rustikalen Charme dieser traditionellen sardischen Kirche, um das lokale Erbe zu verstehen, und kleiden Sie sich für einen Blick ins Innere angemessen.",
+            "hu": "Csodálja meg ennek a hagyományos szardíniai templomnak a rusztikus varázsát, hogy megértse a helyi vallási örökséget, és öltözzön szerényen, ha be szeretne kukkantani.",
+            "ro": "Admirați farmecul rustic al acestei biserici tradiționale sarde pentru a aprecia patrimoniul spiritual local și amintiți-vă să vă îmbrăcați decent la vizitare.",
+            "en": "Admire the rustic charm of this traditional Sardinian church to appreciate local spiritual heritage, and remember to dress modestly if you plan to peek inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuraghe Conca 'e Bentu",
+            "hu": "Nuraghe Conca 'e Bentu",
+            "ro": "Nuraghe Conca 'e Bentu",
+            "en": "Nuraghe Conca 'e Bentu"
+          },
+          "coords": [
+            9.697964,
+            40.682068
+          ],
+          "category": "historical",
+          "arrive_at": "10:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die rätselhaften Steinruinen dieses alten Nuraghen-Bauwerks, um in die Bronzezeit einzutauchen, und achten Sie beim Klettern auf lose Steine am Boden.",
+            "hu": "Fedezze fel ezen ősi nuraghe építmény rejtélyes kőromjait, hogy elmerüljön a bronzkori történelemben, de ügyeljen a meglazult kövekre, miközben az alsóbb részeken mászkál.",
+            "ro": "Explorați ruinele de piatră enigmatice ale acestei vechi structuri nuragice pentru a descoperi istoria Epocii Bronzului, fiind atenți la pietrele alunecoase de la bază.",
+            "en": "Explore the enigmatic stone ruins of this ancient Nuragic structure to dive deep into Bronze Age history, keeping an eye out for loose rocks while climbing the lower sections."
+          }
+        },
+        {
+          "name": {
+            "de": "Domus de Janas di L'Agliola",
+            "hu": "Domus de Janas di L'Agliola",
+            "ro": "Domus de Janas di L'Agliola",
+            "en": "Domus de Janas di L'Agliola"
+          },
+          "coords": [
+            9.696469,
+            40.685817
+          ],
+          "category": "historical",
+          "arrive_at": "11:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese faszinierenden prähistorischen in den Fels gehauenen „Feenhäuser“, die antike Grabtraditionen zeigen, und bringen Sie eine Taschenlampe für das Innere mit.",
+            "hu": "Fedezze fel ezeket a lenyűgöző, sziklába vájt történelem előtti \"tündérházakat\", amelyek egyedülálló bepillantást nyújtanak az ősi temetkezési hagyományokba zseblámpával.",
+            "ro": "Descoperiți aceste fascinante „case de zâne” preistorice săpate în stâncă, care oferă o privire unică asupra tradițiilor funerare antice, aducând cu voi o lanternă.",
+            "en": "Discover these fascinating prehistoric rock-cut \"fairy houses\" that offer a unique glimpse into ancient burial traditions, so bring a flashlight to see the interior details."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiagge di Baia Sant'Anna",
+            "hu": "Spiagge di Baia Sant'Anna",
+            "ro": "Spiagge di Baia Sant'Anna",
+            "en": "Spiagge di Baia Sant'Anna"
+          },
+          "coords": [
+            9.746465,
+            40.683564
+          ],
+          "category": "recreational",
+          "arrive_at": "13:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 4.1,
+          "tip_5lang": {
+            "de": "Erleben Sie die raue Schönheit dieser unberührten Bucht, wo klares Wasser auf rötliche Felsen trifft, und bringen Sie unbedingt Ihre Schnorchelausrüstung für die Meereswelt mit.",
+            "hu": "Tapasztalja meg ennek a kevésbé forgalmas öbölnek a zord szépségét, ahol a tiszta víz vöröses sziklákkal találkozik, és feltétlenül hozzon magával sznorkelfelszerelést is.",
+            "ro": "Experimentați frumusețea sălbatică a acestui golfuleț liniștit unde apele limpezi întâlnesc stânci roșiatice și asigurați-vă că aduceți echipamentul de snorkeling aici.",
+            "en": "Experience the rugged beauty of this less-commercialized cove where clear waters meet reddish rocks, and be sure to bring your snorkeling gear to spot the vibrant marine life."
+          }
+        },
+        {
+          "name": {
+            "de": "Riviera dei Pini",
+            "hu": "Riviera dei Pini",
+            "ro": "Riviera dei Pini",
+            "en": "Riviera dei Pini"
+          },
+          "coords": [
+            9.750055,
+            40.677255
+          ],
+          "category": "recreational",
+          "arrive_at": "14:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie unter duftenden Pinien, die diesen ruhigen goldenen Sandstrand säumen und natürlichen Schatten spenden, ideal zum Erholen ohne einen Sonnenschirm zu benötigen.",
+            "hu": "Pihenjen az illatos tengerparti fenyőfák alatt, amelyek ezt a nyugodt, aranyhomokos partszakaszt szegélyezik, természetes árnyékot biztosítva napernyő használata nélkül is.",
+            "ro": "Relaxați-vă sub pinii parfumați care mărginesc această fâșie liniștită de nisip auriu, oferind o umbră naturală ideală pentru a vă odihni fără a avea nevoie de o umbrelă.",
+            "en": "Unwind under the fragrant coastal pine trees bordering this serene stretch of golden sand, which provides natural shade ideal for relaxing without needing a beach umbrella."
+          }
+        },
+        {
+          "name": {
+            "de": "Punta D'Abbaia",
+            "hu": "Punta D'Abbaia",
+            "ro": "Punta D'Abbaia",
+            "en": "Punta D'Abbaia"
+          },
+          "coords": [
+            9.72314,
+            40.677119
+          ],
+          "category": "natural",
+          "arrive_at": "15:52",
+          "stay_min": 55,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Küste von diesem zerklüfteten Vorgebirge aus, um atemberaubende Fotos zu machen, aber tragen Sie unbedingt festes Schuhwerk.",
+            "hu": "Élvezze a tengerparti panorámát erről a zord, természetes hegyfokról lenyűgöző fotók készítéséhez, de feltétlenül viseljen masszív cipőt a sziklás, egyenetlen ösvényeken.",
+            "ro": "Bucurați-vă de priveliștile panoramice de pe acest promontoriu stâncos natural pentru a face fotografii uimitoare, dar asigurați-vă că purtați pantofi rezistenți.",
+            "en": "Take in the panoramic coastal views from this rugged natural promontory to capture stunning photos, but be sure to wear sturdy shoes for the rocky uneven paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an der Chiesa di San Sebastiano, bevor Sie landeinwärts treten, um antike Mysterien zu entdecken. Sie erreichen schnell den Nuraghe Conca 'e Bentu und kurz darauf die prähistorischen Gräber Domus de Janas di L'Agliola.\n\nTauschen Sie am Mittag Geschichte gegen Natur und fahren Sie zu den unberührten Spiagge di Baia Sant'Anna. Die ruhigen Buchten laden zum Verweilen ein.\n\nRadeln Sie am Nachmittag eine kurze Strecke nach Süden zur malerischen Riviera dei Pini. Die duftenden Pinien bieten herrlichen natürlichen Schatten für eine entspannte Pause am goldenen Sandstrand.\n\nFahren Sie für Ihren letzten Stopp entlang der Küste zum Aussichtspunkt Punta D'Abbaia. Genießen Sie die Nachmittagsbrise und beobachten Sie das Farbenspiel des Himmels, bevor Sie zurückkehren.",
+        "hu": "Kezdje a kerékpártúrát a Chiesa di San Sebastiano-nál, majd tekerjen a szárazföld belsejébe ősi rejtélyek felfedezésére. Hamarosan eléri a Nuraghe Conca 'e Bentu kőtornyát, majd a Domus de Janas di L'Agliola sírjait.\n\nDélben váltsa fel a történelmet a természettel, és tekerjen kelet felé az érintetlen Spiagge di Baia Sant'Anna strandhoz. A csendes öblök tökéletes pihenést kínálnak.\n\nDélután kerekezzen délre a festői Riviera dei Pini felé. Az illatos fenyők természetes árnyékot nyújtanak, így kiváló hely a hűsölésre és az aranyszínű homokon való lazításra.\n\nAz utolsó megállóhoz kerékpározzon nyugat felé a Punta D'Abbaia festői hegyfokához. Élvezze a késő délutáni szellőt, és figyelje a változó színeket erről a zord, természetes kilátóról.",
+        "ro": "Începeți turul cu bicicleta la Chiesa di San Sebastiano înainte de a pedala spre interior pentru a descoperi mistere antice. Veți ajunge rapid la Nuraghe Conca 'e Bentu și la mormintele preistorice Domus de Janas di L'Agliola.\n\nSchimbați istoria cu natura la prânz, mergând spre est către neprihănita plajă Spiagge di Baia Sant'Anna. Golfurile stâncoase oferă un mediu liniștit pentru relaxare.\n\nDupă-amiaza, pedalați spre sud la pitoreasca Riviera dei Pini. Pinii parfumați de coastă oferă umbră naturală, făcând din acest loc unul excelent pentru a vă răcori pe nisipul auriu.\n\nPentru ultima oprire, mergeți spre vest către promontoriul pitoresc Punta D'Abbaia. Bucurați-vă de briza după-amiezii și priviți culorile cerului din acest punct de belvedere stâncos.",
+        "en": "Kick off your cycling tour at Chiesa di San Sebastiano before pedaling inland to uncover ancient mysteries. You'll quickly reach Nuraghe Conca 'e Bentu, a fascinating stone tower, followed immediately by the prehistoric tombs of Domus de Janas di L'Agliola.\n\nSwap history for natural beauty by riding east toward the pristine Spiagge di Baia Sant'Anna. The less-crowded coves and reddish rocks offer a peaceful environment for a midday rest and perhaps a quick snorkeling session in the clear waters.\n\nCycle a short distance south to the picturesque Riviera dei Pini. The fragrant coastal pine trees provide much-needed natural shade, making it an excellent spot to cool off, relax on the golden sand, and listen to the gentle waves.\n\nFor your final stop, ride west along the coast to the scenic promontory of Punta D'Abbaia. Enjoy the late afternoon breeze and watch the changing colors of the sky from this rugged natural viewpoint before heading back into town."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:50",
+      "total_km": 11.6,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Domus de Janas di L'Agliola",
+            "hu": "Domus de Janas di L'Agliola",
+            "ro": "Domus de Janas di L'Agliola",
+            "en": "Domus de Janas di L'Agliola"
+          },
+          "coords": [
+            9.696469,
+            40.685817
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese faszinierenden prähistorischen in den Fels gehauenen „Feenhäuser“, die antike Grabtraditionen zeigen, und bringen Sie eine Taschenlampe für das Innere mit.",
+            "hu": "Fedezze fel ezeket a lenyűgöző, sziklába vájt történelem előtti \"tündérházakat\", amelyek egyedülálló bepillantást nyújtanak az ősi temetkezési hagyományokba zseblámpával.",
+            "ro": "Descoperiți aceste fascinante „case de zâne” preistorice săpate în stâncă, care oferă o privire unică asupra tradițiilor funerare antice, aducând cu voi o lanternă.",
+            "en": "Discover these fascinating prehistoric rock-cut \"fairy houses\" that offer a unique glimpse into ancient burial traditions, so bring a flashlight to see the interior details."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuraghe Conca 'e Bentu",
+            "hu": "Nuraghe Conca 'e Bentu",
+            "ro": "Nuraghe Conca 'e Bentu",
+            "en": "Nuraghe Conca 'e Bentu"
+          },
+          "coords": [
+            9.697964,
+            40.682068
+          ],
+          "category": "historical",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die rätselhaften Steinruinen dieses alten Nuraghen-Bauwerks, um in die Bronzezeit einzutauchen, und achten Sie beim Klettern auf lose Steine am Boden.",
+            "hu": "Fedezze fel ezen ősi nuraghe építmény rejtélyes kőromjait, hogy elmerüljön a bronzkori történelemben, de ügyeljen a meglazult kövekre, miközben az alsóbb részeken mászkál.",
+            "ro": "Explorați ruinele de piatră enigmatice ale acestei vechi structuri nuragice pentru a descoperi istoria Epocii Bronzului, fiind atenți la pietrele alunecoase de la bază.",
+            "en": "Explore the enigmatic stone ruins of this ancient Nuragic structure to dive deep into Bronze Age history, keeping an eye out for loose rocks while climbing the lower sections."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Sebastiano",
+            "hu": "Chiesa di San Sebastiano",
+            "ro": "Chiesa di San Sebastiano",
+            "en": "Chiesa di San Sebastiano"
+          },
+          "coords": [
+            9.724732,
+            40.683636
+          ],
+          "category": "religious",
+          "arrive_at": "11:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie den rustikalen Charme dieser traditionellen sardischen Kirche, um das lokale Erbe zu verstehen, und kleiden Sie sich für einen Blick ins Innere angemessen.",
+            "hu": "Csodálja meg ennek a hagyományos szardíniai templomnak a rusztikus varázsát, hogy megértse a helyi vallási örökséget, és öltözzön szerényen, ha be szeretne kukkantani.",
+            "ro": "Admirați farmecul rustic al acestei biserici tradiționale sarde pentru a aprecia patrimoniul spiritual local și amintiți-vă să vă îmbrăcați decent la vizitare.",
+            "en": "Admire the rustic charm of this traditional Sardinian church to appreciate local spiritual heritage, and remember to dress modestly if you plan to peek inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Budoni",
+            "hu": "Spiaggia di Budoni",
+            "ro": "Spiaggia di Budoni",
+            "en": "Spiaggia di Budoni"
+          },
+          "coords": [
+            9.718548,
+            40.70485
+          ],
+          "category": "recreational",
+          "arrive_at": "12:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre dieses riesigen Strandes mit feinem Sand und türkisfarbenen Wellen, wo eine frühe Reservierung der Sonnenliege maximalen Komfort sichert.",
+            "hu": "Élvezze a finom homokot és türkizkék hullámokat kínáló hatalmas strand élénk hangulatát, ahol a napozóágy korai bérlése biztosítja a legkényelmesebb tengerparti élményt.",
+            "ro": "Bucurați-vă de atmosfera vibrantă a acestei plaje vaste cu nisip fin și valuri turcoaz, unde închirierea timpurie a unui șezlong asigură o experiență foarte confortabilă.",
+            "en": "Enjoy the vibrant atmosphere of this famous sweeping beach offering fine sand and turquoise waves, where renting a sunbed early ensures the most comfortable seaside experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiagge Porto Ainu",
+            "hu": "Spiagge Porto Ainu",
+            "ro": "Spiagge Porto Ainu",
+            "en": "Spiagge Porto Ainu"
+          },
+          "coords": [
+            9.734522,
+            40.694092
+          ],
+          "category": "recreational",
+          "arrive_at": "14:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem malerischen Strand mit kristallklarem, flachem Wasser, der sich perfekt für Familien eignet, um ein Picknick zu machen und abzuschalten.",
+            "hu": "Pihenjen ennek a festői öbölnek a puha fehér homokján, amelyet kristálytiszta, sekély víz jellemez, így tökéletes a családok számára egy piknikhez és kikapcsolódáshoz.",
+            "ro": "Relaxați-vă pe nisipul alb și fin al acestui golf pitoresc cu ape cristaline și puțin adânci, fiind locul perfect pentru familii care doresc să facă un picnic liniștit.",
+            "en": "Relax on the soft white sands of this picturesque bay characterized by crystal-clear shallow waters, making it perfect for families to bring a picnic and unwind."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiagge di Baia Sant'Anna",
+            "hu": "Spiagge di Baia Sant'Anna",
+            "ro": "Spiagge di Baia Sant'Anna",
+            "en": "Spiagge di Baia Sant'Anna"
+          },
+          "coords": [
+            9.746465,
+            40.683564
+          ],
+          "category": "recreational",
+          "arrive_at": "15:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erleben Sie die raue Schönheit dieser unberührten Bucht, wo klares Wasser auf rötliche Felsen trifft, und bringen Sie unbedingt Ihre Schnorchelausrüstung für die Meereswelt mit.",
+            "hu": "Tapasztalja meg ennek a kevésbé forgalmas öbölnek a zord szépségét, ahol a tiszta víz vöröses sziklákkal találkozik, és feltétlenül hozzon magával sznorkelfelszerelést is.",
+            "ro": "Experimentați frumusețea sălbatică a acestui golfuleț liniștit unde apele limpezi întâlnesc stânci roșiatice și asigurați-vă că aduceți echipamentul de snorkeling aici.",
+            "en": "Experience the rugged beauty of this less-commercialized cove where clear waters meet reddish rocks, and be sure to bring your snorkeling gear to spot the vibrant marine life."
+          }
+        },
+        {
+          "name": {
+            "de": "Riviera dei Pini",
+            "hu": "Riviera dei Pini",
+            "ro": "Riviera dei Pini",
+            "en": "Riviera dei Pini"
+          },
+          "coords": [
+            9.750055,
+            40.677255
+          ],
+          "category": "recreational",
+          "arrive_at": "16:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie unter duftenden Pinien, die diesen ruhigen goldenen Sandstrand säumen und natürlichen Schatten spenden, ideal zum Erholen ohne einen Sonnenschirm zu benötigen.",
+            "hu": "Pihenjen az illatos tengerparti fenyőfák alatt, amelyek ezt a nyugodt, aranyhomokos partszakaszt szegélyezik, természetes árnyékot biztosítva napernyő használata nélkül is.",
+            "ro": "Relaxați-vă sub pinii parfumați care mărginesc această fâșie liniștită de nisip auriu, oferind o umbră naturală ideală pentru a vă odihni fără a avea nevoie de o umbrelă.",
+            "en": "Unwind under the fragrant coastal pine trees bordering this serene stretch of golden sand, which provides natural shade ideal for relaxing without needing a beach umbrella."
+          }
+        },
+        {
+          "name": {
+            "de": "Punta D'Abbaia",
+            "hu": "Punta D'Abbaia",
+            "ro": "Punta D'Abbaia",
+            "en": "Punta D'Abbaia"
+          },
+          "coords": [
+            9.72314,
+            40.677119
+          ],
+          "category": "natural",
+          "arrive_at": "17:55",
+          "stay_min": 55,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Küste von diesem zerklüfteten Vorgebirge aus, um atemberaubende Fotos zu machen, aber tragen Sie unbedingt festes Schuhwerk.",
+            "hu": "Élvezze a tengerparti panorámát erről a zord, természetes hegyfokról lenyűgöző fotók készítéséhez, de feltétlenül viseljen masszív cipőt a sziklás, egyenetlen ösvényeken.",
+            "ro": "Bucurați-vă de priveliștile panoramice de pe acest promontoriu stâncos natural pentru a face fotografii uimitoare, dar asigurați-vă că purtați pantofi rezistenți.",
+            "en": "Take in the panoramic coastal views from this rugged natural promontory to capture stunning photos, but be sure to wear sturdy shoes for the rocky uneven paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre malerische Fahrt, indem Sie in die antike Vergangenheit Sardiniens eintauchen und die Domus de Janas di L'Agliola sowie den Nuraghe Conca 'e Bentu erkunden. Danach geht es in die Stadt zur charmanten Chiesa di San Sebastiano.\n\nFahren Sie zur Küste, um die lebhafte Spiaggia di Budoni zu erleben. Machen Sie danach einen kurzen Trip zu den Spiagge Porto Ainu, einer idyllischen Bucht mit kristallklarem Wasser, perfekt für die Mittagspause.\n\nSetzen Sie Ihren Roadtrip südostwärts zu den Spiagge di Baia Sant'Anna fort, einer rauen und schönen Küste. Gleich um die Ecke finden Sie die Riviera dei Pini, wo Küstenpinien wunderbaren Schatten spenden.\n\nBeenden Sie Ihre umfassende Tour mit einer kurzen Fahrt nach Punta D'Abbaia. Dieses Vorgebirge bietet einen grandiosen Aussichtspunkt, um die dramatische Küste im Licht der untergehenden Sonne zu betrachten.",
+        "hu": "Kezdje a festői autózást a sziget ősi múltjának felfedezésével a Domus de Janas di L'Agliola és a közeli Nuraghe Conca 'e Bentu meglátogatásával. Ezt követően csodálja meg a Chiesa di San Sebastiano rusztikus báját.\n\nVezessen a tengerpartra a nyüzsgő Spiaggia di Budoni felé, majd tegyen egy rövid utat a Spiagge Porto Ainu kristálytiszta öbléhez, amely tökéletes helyszín egy pihentető déli ebédszünethez.\n\nFolytassa útját délkelet felé a Spiagge di Baia Sant'Anna vadregényes partvonalához. Nem messze onnan a Riviera dei Pini fenyőfái kínálnak csodálatos természetes árnyékot a késő délutáni pihenéshez.\n\nZárja átfogó túráját egy rövid autózással a Punta D'Abbaia hegyfokához. Innen fenséges kilátás nyílik a drámai tengerpartra, tökéletes helyszínt biztosítva a nap lezárásához naplemente idején.",
+        "ro": "Începeți traseul pitoresc explorând trecutul antic la Domus de Janas di L'Agliola și Nuraghe Conca 'e Bentu. Apoi, mergeți în centrul orașului pentru a admira farmecul rustic al Chiesa di San Sebastiano.\n\nConduceți spre coastă pentru a experimenta plaja plină de viață Spiaggia di Budoni. Apoi faceți o scurtă călătorie la Spiagge Porto Ainu, un golf idilic cu ape limpezi, perfect pentru pauza de prânz.\n\nContinuați călătoria spre sud-est către Spiagge di Baia Sant'Anna, o coastă stâncoasă minunată. Mai jos veți găsi Riviera dei Pini, unde pinii de coastă oferă o umbră naturală perfectă pentru relaxare.\n\nÎncheiați turul cuprinzător cu un scurt drum spre Punta D'Abbaia. Acest promontoriu natural oferă un punct de observație magnific pentru a privi coasta dramatică în timp ce soarele coboară spre orizont.",
+        "en": "Begin your scenic drive by delving into Sardinia's ancient past at the captivating Domus de Janas di L'Agliola and the nearby Nuraghe Conca 'e Bentu. Afterward, head into the town center to admire the rustic charm of Chiesa di San Sebastiano.\n\nDrive up the coast to experience the lively Spiaggia di Budoni, where expansive sands invite you for a walk. Then, take a short trip to Spiagge Porto Ainu, an idyllic bay with incredibly clear, shallow waters perfect for a relaxing midday break.\n\nContinue your road trip southeast to Spiagge di Baia Sant'Anna, a rugged and beautiful coastline ideal for exploring. Just down the road, you'll find Riviera dei Pini, where coastal pines offer wonderful natural shade for a late afternoon rest.\n\nEnd your comprehensive tour with a short drive to Punta D'Abbaia. This natural promontory provides a magnificent vantage point to absorb the dramatic coastal views and reflect on your spectacular day as the sun lowers toward the horizon."
+      }
+    }
+  }
+}

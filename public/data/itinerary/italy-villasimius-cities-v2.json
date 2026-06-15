@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-villasimius-cities-v2",
+  "anchor": {
+    "name": "Villasimius",
+    "coords": [
+      9.520556,
+      39.142222
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 2.17,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo Archeologico di Villasimius",
+            "hu": "Museo Archeologico di Villasimius",
+            "ro": "Museo Archeologico di Villasimius",
+            "en": "Museo Archeologico di Villasimius"
+          },
+          "coords": [
+            9.518434,
+            39.14373
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die antike Geschichte von Villasimius anhand faszinierender Artefakte und prüfen Sie vorab die Zeiten für englischsprachige Führungen.",
+            "hu": "Fedezze fel Villasimius ókori történelmét a lenyűgöző leleteken keresztül, és érdemes előre tájékozódni az angol nyelvű tárlatvezetések időpontjairól.",
+            "ro": "Descoperiți istoria antică a orașului Villasimius prin artefactele sale fascinante și verificați din timp programul pentru tururile ghidate în engleză.",
+            "en": "Discover the ancient history of Villasimius through its fascinating artifacts and be sure to check the opening hours for guided tours in English."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Mare Giorgio Capai",
+            "hu": "Museo del Mare Giorgio Capai",
+            "ro": "Museo del Mare Giorgio Capai",
+            "en": "Museo del Mare Giorgio Capai"
+          },
+          "coords": [
+            9.516224,
+            39.144301
+          ],
+          "category": "museum",
+          "arrive_at": "10:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses maritime Museum, das lokale Seefahrtstraditionen beleuchtet, und bewundern Sie in Ruhe die sorgfältig gefertigten Holzschiffsmodelle.",
+            "hu": "Fedezze fel ezt a tengerészeti múzeumot, amely a helyi hajózási hagyományokat mutatja be, és szánjon időt a gondosan elkészített fa hajómodellekre.",
+            "ro": "Explorați acest muzeu maritim ce subliniază tradițiile locale de navigație și rezervați-vă timp pentru a admira machetele detaliate de nave din lemn.",
+            "en": "Explore this maritime museum highlighting local seafaring traditions, and take time to admire the meticulously crafted wooden ship models on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuraghe S’Argalla I",
+            "hu": "Nuraghe S’Argalla I",
+            "ro": "Nuraghe S’Argalla I",
+            "en": "Nuraghe S’Argalla I"
+          },
+          "coords": [
+            9.517676,
+            39.136362
+          ],
+          "category": "historical",
+          "arrive_at": "12:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die antike Steinarchitektur dieser Nuraghen-Struktur, die prähistorisches Leben zeigt, aber tragen Sie festes Schuhwerk für die unbefestigten Wege.",
+            "hu": "Csodálja meg ennek a nuraghénak az ősi kőépítészetét, amely a történelem előtti életről mesél, de viseljen kényelmes cipőt a kövezetlen ösvények miatt.",
+            "ro": "Admirați arhitectura din piatră a acestei structuri nuragice ce dezvăluie viața preistorică, însă purtați încălțăminte solidă pentru potecile neasfaltate.",
+            "en": "Marvel at the ancient stone architecture of this Nuragic structure that reveals prehistoric life, but wear sturdy shoes for the unpaved paths around it."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuraghe S’Argalla II",
+            "hu": "Nuraghe S’Argalla II",
+            "ro": "Nuraghe S’Argalla II",
+            "en": "Nuraghe S’Argalla II"
+          },
+          "coords": [
+            9.515017,
+            39.137798
+          ],
+          "category": "historical",
+          "arrive_at": "14:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Beobachten Sie die laufenden archäologischen Bemühungen an diesem zweiten Steinturm und bringen Sie einen Sonnenhut mit, da es hier kaum Schatten gibt.",
+            "hu": "Figyelje meg a régészeti feltárásokat ennél a második kőtoronynál, és mindenképpen vigyen magával kalapot, mivel ezen a területen alig van árnyék.",
+            "ro": "Observați eforturile arheologice la acest turn secundar de piatră și nu uitați să aduceți o pălărie de soare, deoarece umbra este rară în această zonă.",
+            "en": "Observe the ongoing archaeological efforts at this secondary stone tower, and remember to bring a wide-brimmed hat as there is very little shade here."
+          }
+        },
+        {
+          "name": {
+            "de": "Accu Sa Pira Nuraghe",
+            "hu": "Accu Sa Pira Nuraghe",
+            "ro": "Accu Sa Pira Nuraghe",
+            "en": "Accu Sa Pira Nuraghe"
+          },
+          "coords": [
+            9.5089,
+            39.13767
+          ],
+          "category": "historical",
+          "arrive_at": "15:44",
+          "stay_min": 110,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.77,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die beeindruckenden Überreste dieser prähistorischen sardischen Siedlung und bringen Sie Wasser mit, da die Gegend sehr abgelegen ist.",
+            "hu": "Vizsgálja meg ennek a történelem előtti szárd településnek a lenyűgöző maradványait, és hozzon magával vizet, mivel ez a terület meglehetősen elhagyatott.",
+            "ro": "Investigați vestigiile impresionante ale acestei așezări preistorice sarde și aduceți o sticlă cu apă, deoarece facilitățile sunt rare în această zonă.",
+            "en": "Investigate the impressive remains of this prehistoric Sardinian settlement, and bring a water bottle since facilities are scarce in this remote area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang im Herzen von Villasimius und tauchen Sie im lokalen archäologischen Museum in die Geschichte ein. Gegen Mittag wechseln Sie von antiken Artefakten zum seefahrerischen Erbe der Stadt im nahegelegenen Schifffahrtsmuseum. Am Nachmittag spazieren Sie in Richtung Süden, um die beeindruckenden antiken Nuraghen-Ruinen aus prähistorischer Zeit zu erkunden. Beenden Sie Ihren gemütlichen Spaziergang am frühen Abend und lassen Sie die ruhige Mystik der umgebenden Steintürme auf sich wirken.",
+        "hu": "Kezdje sétáját Villasimius szívében, és merüljön el a gazdag történelemben a helyi régészeti múzeumban. Dél körül az ókori leletekről váltson a város tengerészeti örökségére a közeli tengerészeti múzeumban. Délután induljon dél felé, hogy felfedezze a lenyűgöző ősi nuraghe romokat, és visszalépjen a történelem előtti időkbe. Fejezze be kellemes sétáját a kora esti órákban, és élvezze a környező kőtornyok csendes, titokzatos hangulatát.",
+        "ro": "Începeți turul de mers pe jos în inima orașului Villasimius, explorând istoria sa bogată la muzeul arheologic local. La amiază, treceți de la artefacte antice la patrimoniul maritim al orașului la muzeul de marină din apropiere. După-amiaza, îndreptați-vă spre sud pentru a explora impresionantele ruine antice nuragice, pășind în timpuri preistorice. Încheiați-vă plimbarea relaxantă odată cu lăsarea serii, bucurându-vă de misterul tăcut al turnurilor de piatră din jur.",
+        "en": "Start your walking tour in the heart of Villasimius, delving into its rich history at the local archaeological museum. By midday, transition from ancient artifacts to the town's seafaring heritage at the nearby maritime museum. In the afternoon, head south to explore the impressive ancient Nuragic ruins, stepping back into prehistoric times. Conclude your leisurely walk as the evening approaches, soaking in the quiet mystery of the surrounding stone towers."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:35",
+      "total_km": 9.15,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Nuraghe S’Oxiu",
+            "hu": "Nuraghe S’Oxiu",
+            "ro": "Nuraghe S’Oxiu",
+            "en": "Nuraghe S’Oxiu"
+          },
+          "coords": [
+            9.521316,
+            39.151101
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre historische Reise an dieser faszinierenden Nuraghen-Ruine in der Natur und besuchen Sie sie früh morgens für das beste Fotolicht.",
+            "hu": "Kezdje történelmi utazását ennél a természet lágy ölén fekvő, lenyűgöző nuraghe romnál, és próbáljon kora reggel érkezni a legjobb fotózási fényekért.",
+            "ro": "Începeți călătoria istorică la această ruină nuragică captivantă, înconjurată de natură, și încercați să veniți dimineața devreme pentru lumina perfectă.",
+            "en": "Start your historical journey at this captivating Nuragic ruin surrounded by nature, and try visiting early in the morning for the best photographic light."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Archeologico di Villasimius",
+            "hu": "Museo Archeologico di Villasimius",
+            "ro": "Museo Archeologico di Villasimius",
+            "en": "Museo Archeologico di Villasimius"
+          },
+          "coords": [
+            9.518434,
+            39.14373
+          ],
+          "category": "museum",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Entdecken Sie die antike Geschichte von Villasimius anhand faszinierender Artefakte und prüfen Sie vorab die Zeiten für englischsprachige Führungen.",
+            "hu": "Fedezze fel Villasimius ókori történelmét a lenyűgöző leleteken keresztül, és érdemes előre tájékozódni az angol nyelvű tárlatvezetések időpontjairól.",
+            "ro": "Descoperiți istoria antică a orașului Villasimius prin artefactele sale fascinante și verificați din timp programul pentru tururile ghidate în engleză.",
+            "en": "Discover the ancient history of Villasimius through its fascinating artifacts and be sure to check the opening hours for guided tours in English."
+          }
+        },
+        {
+          "name": {
+            "de": "Porto Luna",
+            "hu": "Porto Luna",
+            "ro": "Porto Luna",
+            "en": "Porto Luna"
+          },
+          "coords": [
+            9.538457,
+            39.132836
+          ],
+          "category": "recreational",
+          "arrive_at": "12:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den atemberaubenden Sandstränden dieser ruhigen Bucht und packen Sie Ihre eigene Schnorchelausrüstung ein, um die Meereswelt zu erkunden.",
+            "hu": "Pihenjen ennek a csendes tengerparti öbölnek a lenyűgöző homokos partján, és hozzon magával sznorkelfelszerelést a gazdag tengeri élővilág felfedezéséhez.",
+            "ro": "Relaxați-vă pe malurile nisipoase ale acestui golf liniștit și luați cu voi echipament de snorkeling pentru a explora viața marină vibrantă din zonă.",
+            "en": "Relax on the stunning sandy shores of this tranquil coastal cove, and consider packing your own snorkeling gear to explore the vibrant marine life here."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuraghe S’Argalla I",
+            "hu": "Nuraghe S’Argalla I",
+            "ro": "Nuraghe S’Argalla I",
+            "en": "Nuraghe S’Argalla I"
+          },
+          "coords": [
+            9.517676,
+            39.136362
+          ],
+          "category": "historical",
+          "arrive_at": "13:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die antike Steinarchitektur dieser Nuraghen-Struktur, die prähistorisches Leben zeigt, aber tragen Sie festes Schuhwerk für die unbefestigten Wege.",
+            "hu": "Csodálja meg ennek a nuraghénak az ősi kőépítészetét, amely a történelem előtti életről mesél, de viseljen kényelmes cipőt a kövezetlen ösvények miatt.",
+            "ro": "Admirați arhitectura din piatră a acestei structuri nuragice ce dezvăluie viața preistorică, însă purtați încălțăminte solidă pentru potecile neasfaltate.",
+            "en": "Marvel at the ancient stone architecture of this Nuragic structure that reveals prehistoric life, but wear sturdy shoes for the unpaved paths around it."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Campulongu",
+            "hu": "Spiaggia di Campulongu",
+            "ro": "Spiaggia di Campulongu",
+            "en": "Spiaggia di Campulongu"
+          },
+          "coords": [
+            9.50697,
+            39.12793
+          ],
+          "category": "recreational",
+          "arrive_at": "15:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie an der langen Küste dieses beliebten Strandes mit kristallklarem Wasser entlang und kommen Sie früh, um einen guten Parkplatz zu finden.",
+            "hu": "Sétáljon végig a kristálytiszta vizéről ismert népszerű strand hosszú partvonalán, és érkezzen korán, ha jó parkolóhelyet szeretne találni a közelben.",
+            "ro": "Plimbați-vă de-a lungul coastei acestei plaje populare, cunoscută pentru apa cristalină, și ajungeți devreme dacă doriți să prindeți un loc bun de parcare.",
+            "en": "Stroll along the extensive shoreline of this popular beach known for its crystal-clear water, and arrive early if you want to secure a good parking spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Porto Giunco",
+            "hu": "Spiaggia di Porto Giunco",
+            "ro": "Spiaggia di Porto Giunco",
+            "en": "Spiaggia di Porto Giunco"
+          },
+          "coords": [
+            9.519875,
+            39.116381
+          ],
+          "category": "recreational",
+          "arrive_at": "16:50",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie den Kontrast zwischen der Lagune und dem tiefblauen Meer an diesem ikonischen Strand, aber stellen Sie sich auf einen kurzen Fußweg ein.",
+            "hu": "Csodálja meg a lagúna és a ragyogó kék tenger közötti lenyűgöző kontrasztot ezen az ikonikus strandon, de készüljön fel egy rövid sétára a parkolótól.",
+            "ro": "Admirați contrastul uimitor dintre lagună și marea albastră la această plajă iconică, dar fiți pregătiți pentru o scurtă plimbare de la zona de parcare.",
+            "en": "Admire the striking contrast between the lagoon and the bright blue sea at this iconic beach, but be prepared for a short walk from the parking area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihr Fahrradabenteuer mit einem Besuch einer historischen Nuraghe am nördlichen Rand der Stadt. Mittags radeln Sie zurück ins Zentrum für etwas Archäologie, bevor Sie zu den wunderschönen östlichen Buchten aufbrechen. Verbringen Sie den Nachmittag damit, antike Steinstrukturen zu erkunden und sich am weiten Strand von Campulongu abzukühlen. Lassen Sie den Tag mit einer malerischen Fahrt nach Porto Giunco ausklingen und bewundern Sie die Sonnenuntergangsreflexionen.",
+        "hu": "Kezdje kerékpáros kalandját egy történelmi nuraghe meglátogatásával a város északi peremén. Délben tekerjen vissza a központba egy kis régészeti felfedezésre, mielőtt a gyönyörű keleti öblök felé venné az irányt. Délután fedezze fel az ősi kőépítményeket, és hűsöljön a tágas Campulongu strand kristálytiszta vizében. Zárja a napot egy festői kerékpározással Porto Giunco felé, megcsodálva a naplemente lenyűgöző tükröződését a lagúnán.",
+        "ro": "Începeți aventura pe bicicletă cu o vizită la o structură istorică Nuraghe situată la marginea nordică a orașului. La prânz, pedalați înapoi în centru pentru o doză de arheologie, înainte de a vă îndrepta spre frumoasele golfuri estice. Petreceți după-amiaza explorând structuri antice din piatră și răcorindu-vă pe plaja întinsă de la Campulongu. Încheiați ziua cu o plimbare pitorească spre Porto Giunco, surprinzând reflexiile uimitoare ale apusului pe lagună.",
+        "en": "Kick off your biking adventure with a visit to a historic Nuraghe on the northern edge of the town. At noon, cycle back into the center for a dose of archaeology before pedaling out to the beautiful eastern coves. Spend the afternoon exploring ancient stone structures and cooling off at the expansive Campulongu beach. Wrap up your day with a scenic ride to Porto Giunco, catching the stunning sunset reflections on the lagoon."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 8.92,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Lo Sciabecco",
+            "hu": "Lo Sciabecco",
+            "ro": "Lo Sciabecco",
+            "en": "Lo Sciabecco"
+          },
+          "coords": [
+            9.497168,
+            39.144536
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses bekannte lokale Wahrzeichen, um die lebhafte Atmosphäre von Villasimius zu genießen, und nutzen Sie es als idealen Treffpunkt.",
+            "hu": "Látogasson el ehhez az ismert helyi nevezetességhez, hogy felszívja Villasimius nyüzsgő atmoszféráját, amely tökéletes találkozási pont a túra előtt.",
+            "ro": "Opriți-vă la acest punct de reper local pentru a simți atmosfera vibrantă din Villasimius și folosiți-l ca loc de întâlnire ideal înainte de a porni.",
+            "en": "Stop by this well-known local landmark to soak in the vibrant atmosphere of Villasimius, and use it as a perfect meeting point before starting your tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuraghe Cuccureddus I",
+            "hu": "Nuraghe Cuccureddus I",
+            "ro": "Nuraghe Cuccureddus I",
+            "en": "Nuraghe Cuccureddus I"
+          },
+          "coords": [
+            9.497103,
+            39.136325
+          ],
+          "category": "historical",
+          "arrive_at": "09:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.88,
+          "tip_5lang": {
+            "de": "Erleben Sie die antike architektonische Meisterleistung der Nuraghen-Zivilisation an dieser historischen Stätte und respektieren Sie die empfindlichen Steine.",
+            "hu": "Legyen tanúja a nuraghe civilizáció ősi építészeti tudásának ezen a történelmi helyszínen, és látogatása során ügyeljen a törékeny kövek épségére.",
+            "ro": "Observați măiestria arhitecturală antică a civilizației nuragice la acest sit istoric și asigurați-vă că respectați pietrele fragile în timpul vizitei.",
+            "en": "Witness the ancient architectural prowess of the Nuragic civilization at this historic site, and remember to respect the delicate stones during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia Cuccureddus",
+            "hu": "Spiaggia Cuccureddus",
+            "ro": "Spiaggia Cuccureddus",
+            "en": "Spiaggia Cuccureddus"
+          },
+          "coords": [
+            9.496238,
+            39.132701
+          ],
+          "category": "recreational",
+          "arrive_at": "10:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem wunderschönen, von mediterraner Macchia umgebenen Strand und bringen Sie eigene Snacks mit, da es hier keine Einrichtungen gibt.",
+            "hu": "Kapcsolódjon ki ezen a mediterrán cserjésekkel körülvett, gyönyörű, eldugott strandon, és mindenképpen hozzon magával nasit, mert nincsenek büfék.",
+            "ro": "Relaxați-vă pe această plajă izolată, înconjurată de vegetație mediteraneană, și nu uitați să luați gustări, deoarece nu există facilități în apropiere.",
+            "en": "Unwind at this beautifully secluded beach surrounded by Mediterranean scrub, and make sure to bring your own snacks as there are no nearby facilities."
+          }
+        },
+        {
+          "name": {
+            "de": "Bruncu Campulongu Nuraghe",
+            "hu": "Bruncu Campulongu Nuraghe",
+            "ro": "Bruncu Campulongu Nuraghe",
+            "en": "Bruncu Campulongu Nuraghe"
+          },
+          "coords": [
+            9.511747,
+            39.134633
+          ],
+          "category": "historical",
+          "arrive_at": "12:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.68,
+          "tip_5lang": {
+            "de": "Tauchen Sie an dieser gut erhaltenen Nuraghe in die Geheimnisse der bronzezeitlichen Vergangenheit der Insel ein und bringen Sie eine gute Kamera mit.",
+            "hu": "Merüljön el a sziget bronzkori múltjának rejtélyeiben ennél a jól megőrzött nuraghénál, és hozzon jó fényképezőgépet a környező táj megörökítéséhez.",
+            "ro": "Pătrundeți în misterele trecutului insulei din epoca bronzului la acest Nuraghe bine conservat și aduceți un aparat foto bun pentru peisajul înconjurător.",
+            "en": "Delve into the mysteries of the island's bronze-age past at this well-preserved Nuraghe, and bring a good camera to capture the surrounding landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Mare Giorgio Capai",
+            "hu": "Museo del Mare Giorgio Capai",
+            "ro": "Museo del Mare Giorgio Capai",
+            "en": "Museo del Mare Giorgio Capai"
+          },
+          "coords": [
+            9.516224,
+            39.144301
+          ],
+          "category": "museum",
+          "arrive_at": "13:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.24,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses maritime Museum, das lokale Seefahrtstraditionen beleuchtet, und bewundern Sie in Ruhe die sorgfältig gefertigten Holzschiffsmodelle.",
+            "hu": "Fedezze fel ezt a tengerészeti múzeumot, amely a helyi hajózási hagyományokat mutatja be, és szánjon időt a gondosan elkészített fa hajómodellekre.",
+            "ro": "Explorați acest muzeu maritim ce subliniază tradițiile locale de navigație și rezervați-vă timp pentru a admira machetele detaliate de nave din lemn.",
+            "en": "Explore this maritime museum highlighting local seafaring traditions, and take time to admire the meticulously crafted wooden ship models on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Porto Giunco",
+            "hu": "Spiaggia di Porto Giunco",
+            "ro": "Spiaggia di Porto Giunco",
+            "en": "Spiaggia di Porto Giunco"
+          },
+          "coords": [
+            9.519875,
+            39.116381
+          ],
+          "category": "recreational",
+          "arrive_at": "15:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.12,
+          "tip_5lang": {
+            "de": "Bewundern Sie den Kontrast zwischen der Lagune und dem tiefblauen Meer an diesem ikonischen Strand, aber stellen Sie sich auf einen kurzen Fußweg ein.",
+            "hu": "Csodálja meg a lagúna és a ragyogó kék tenger közötti lenyűgöző kontrasztot ezen az ikonikus strandon, de készüljön fel egy rövid sétára a parkolótól.",
+            "ro": "Admirați contrastul uimitor dintre lagună și marea albastră la această plajă iconică, dar fiți pregătiți pentru o scurtă plimbare de la zona de parcare.",
+            "en": "Admire the striking contrast between the lagoon and the bright blue sea at this iconic beach, but be prepared for a short walk from the parking area."
+          }
+        },
+        {
+          "name": {
+            "de": "Fortezza Vecchia",
+            "hu": "Fortezza Vecchia",
+            "ro": "Fortezza Vecchia",
+            "en": "Fortezza Vecchia"
+          },
+          "coords": [
+            9.50528,
+            39.116149
+          ],
+          "category": "recreational",
+          "arrive_at": "16:45",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.55,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende historische Küstenfestung, die einst die Bucht bewachte, und steigen Sie nach oben, um den Panoramablick zu genießen.",
+            "hu": "Fedezze fel ezt a lenyűgöző történelmi parti erődöt, amely egykor az öblöt őrizte, és másszon fel a tetejére a lélegzetelállító tengeri panorámáért.",
+            "ro": "Explorați această fascinantă fortăreață istorică de coastă care păzea odată golful și urcați în vârf pentru a vă bucura de priveliști panoramice uimitoare.",
+            "en": "Explore this fascinating historic coastal fortress that once guarded the bay, and climb to the top to enjoy breathtaking panoramic views of the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour am Wahrzeichen der Stadt und orientieren Sie sich, bevor Sie in historische Landschaften eintauchen. Gegen Mittag erreichen Sie abgelegene Strände und gut erhaltene Nuraghen-Stätten und fahren mühelos zwischen den Wundern umher. Im Laufe des Nachmittags vertiefen Sie sich in die lokale maritime Geschichte und erkunden berühmte Sandküsten. Beenden Sie den Tag, indem Sie in der Nähe der alten Küstenfestung parken und zusehen, wie sich der Himmel rosa färbt.",
+        "hu": "Kezdje autós túráját a város ikonikus nevezetességénél, majd induljon el a lenyűgöző történelmi tájak felfedezésére. Dél körül eldugott strandokhoz és jól megőrzött nuraghe helyszínekhez érkezik, könnyedén cirkálva az ősi csodák között. A délután folyamán merüljön el a helyi tengerészeti történelemben, és fedezze fel a leghíresebb homokos partokat. Zárja a napot a régi parti erőd közelében parkolva, figyelve, ahogy az ég rózsaszínűvé válik a Földközi-tenger felett.",
+        "ro": "Începeți turul cu mașina la punctul de reper al orașului, orientându-vă înainte de a pătrunde în peisajele istorice. Amiaza vă poartă spre plaje izolate și situri nuragice bine conservate, călătorind fără efort între minunile antice. Pe măsură ce după-amiaza avansează, aprofundați istoria maritimă locală și explorați câteva dintre cele mai faimoase plaje. Încheiați ziua parcând lângă vechea fortăreață de coastă, privind cum cerul devine roz deasupra Mării Mediterane.",
+        "en": "Begin your driving tour at the town's iconic landmark, gathering your bearings before heading into historical landscapes. Midday brings you to secluded beaches and well-preserved Nuragic sites, effortlessly cruising between ancient wonders. As the afternoon progresses, delve into local maritime history and explore some of the most famous sandy shores. End the day by parking near the old coastal fortress, watching the sky turn pink over the vibrant Mediterranean Sea."
+      }
+    }
+  }
+}

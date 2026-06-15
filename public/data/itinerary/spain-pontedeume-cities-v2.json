@@ -1,0 +1,520 @@
+{
+  "city_id": "spain-pontedeume-cities-v2",
+  "anchor": {
+    "name": "Pontedeume",
+    "coords": [
+      -8.17188,
+      43.40726
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:14",
+      "total_km": 2.27,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Praia de Sopazos de Mar",
+            "hu": "Praia de Sopazos de Mar",
+            "ro": "Praia de Sopazos de Mar",
+            "en": "Praia de Sopazos de Mar"
+          },
+          "coords": [
+            -8.176823,
+            43.411902
+          ],
+          "category": "recreational",
+          "arrive_at": "09:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang an diesem geschützten Strand, der perfekte morgendliche Spiegelungen bietet, und tragen Sie bequeme Schuhe für den Sand.",
+            "hu": "Élvezze a békés sétát ezen a védett strandon, amely tökéletes reggeli tükröződéseket kínál, és viseljen kényelmes cipőt a homokos szakaszokhoz.",
+            "ro": "Bucurați-vă de o plimbare pe această plajă adăpostită, care oferă reflexii matinale perfecte, și purtați încălțăminte comodă pentru zonele nisipoase.",
+            "en": "Enjoy a peaceful stroll along this sheltered beach, which offers perfect morning reflections, and wear comfortable shoes to explore the sandy stretches."
+          }
+        },
+        {
+          "name": {
+            "de": "Xacemento Romano de Sopazos",
+            "hu": "Xacemento Romano de Sopazos",
+            "ro": "Xacemento Romano de Sopazos",
+            "en": "Xacemento Romano de Sopazos"
+          },
+          "coords": [
+            -8.17948,
+            43.412443
+          ],
+          "category": "historical",
+          "arrive_at": "10:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Entdecken Sie die antiken Fundamente dieser römischen Siedlung, die die reiche Vergangenheit zeigt, und lesen Sie die Infotafeln für den Kontext.",
+            "hu": "Fedezze fel e római település ősi alapjait, amely a régió gazdag múltját tárja fel, és mindenképpen olvassa el a történelmi információs táblákat.",
+            "ro": "Descoperiți fundațiile antice ale acestei așezări romane care dezvăluie trecutul bogat al regiunii și asigurați-vă că citiți panourile informative.",
+            "en": "Discover the ancient foundation of this Roman settlement that reveals the region's rich past, making sure to read the info boards for historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Cura",
+            "hu": "Praia do Cura",
+            "ro": "Praia do Cura",
+            "en": "Praia do Cura"
+          },
+          "coords": [
+            -8.18048,
+            43.412536
+          ],
+          "category": "recreational",
+          "arrive_at": "11:44",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.08,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den sanften Wellen dieses ruhigen Küstenortes, um Energie zu tanken, und bringen Sie Wasser mit, da es wenig Einrichtungen gibt.",
+            "hu": "Pihenjen meg a csendes tengerpart lágy hullámai mellett, és hozzon magával vizet, mivel a helyi szolgáltatások itt meglehetősen ritkásak lehetnek.",
+            "ro": "Relaxați-vă la valurile blânde ale acestui loc de coastă liniștit pentru a vă reîncărca energia, aducând apă, deoarece facilitățile locale sunt rare.",
+            "en": "Relax by the gentle waves of this quiet coastal spot to recharge your energy, bringing your own water bottle as local amenities can be quite sparse."
+          }
+        },
+        {
+          "name": {
+            "de": "Punta da Illa",
+            "hu": "Punta da Illa",
+            "ro": "Punta da Illa",
+            "en": "Punta da Illa"
+          },
+          "coords": [
+            -8.179689,
+            43.41929
+          ],
+          "category": "natural",
+          "arrive_at": "12:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick von dieser natürlichen Halbinsel, die das Wasser malerisch einrahmt, und halten Sie Ihre Kamera für tolle Fotos bereit.",
+            "hu": "Gyönyörködjön a panorámás kilátásban erről a félszigetről, amely gyönyörűen keretezi a vizet, és tartsa készenlétben fényképezőgépét a remek fotókhoz.",
+            "ro": "Admirați vederea panoramică de pe această peninsulă naturală care încadrează frumos apa și pregătiți camera pentru fotografii peisagistice uimitoare.",
+            "en": "Take in the panoramic estuarine views from this natural peninsula that beautifully frames the water, and have your camera ready for stunning landscape shots."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de San Martiño do Porto",
+            "hu": "Igrexa de San Martiño do Porto",
+            "ro": "Igrexa de San Martiño do Porto",
+            "en": "Igrexa de San Martiño do Porto"
+          },
+          "coords": [
+            -8.175035,
+            43.423127
+          ],
+          "category": "religious",
+          "arrive_at": "14:04",
+          "stay_min": 70,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.57,
+          "tip_5lang": {
+            "de": "Bewundern Sie die romanische Architektur dieser historischen Kirche, die den lokalen Glauben verankerte, und achten Sie auf die steinernen Schnitzereien.",
+            "hu": "Csodálja meg e történelmi templom masszív román stílusú építészetét, és figyelje meg a bejárat közelében található bonyolult kőfaragványokat.",
+            "ro": "Admirați arhitectura romanică robustă a acestei biserici istorice și acordați atenție sculpturilor complicate în piatră de lângă ușa principală.",
+            "en": "Admire the sturdy Romanesque architecture of this historic church that anchored local faith, paying close attention to the intricate stone carvings near the door."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einem Spaziergang zum Strand Sopazos mit sanfter Meeresbrise. Mittags erkunden Sie römische Ruinen und entdecken jahrhundertelange Geschichte. Am Nachmittag entdecken Sie versteckte Küstenpunkte wie den Strand Cura und Punta da Illa. Der Abend endet an der romanischen Kirche San Martiño mit einem friedlichen Sonnenuntergang über dem Flussmündung.",
+        "hu": "A reggel egy frissítő sétával kezdődik a Sopazos strandon, a lágy tengeri szellőt élvezve. Délben a római romokon keresztül évszázados történelmet fedezhet fel. Délután fedezze fel a Cura strandot és a drámai Punta da Illa félszigetet. Az este a San Martiño román stílusú templomnál zárul, ahonnan békés naplementét csodálhat meg a tölcsértorkolat felett.",
+        "ro": "Dimineața începe cu o plimbare răcoritoare la plaja Sopazos, simțind briza blândă. La prânz, treceți printre ruinele romane, descoperind secole de istorie. După-amiaza, explorați puncte de coastă ascunse precum plaja Cura și dramatica Punta da Illa. Seara se încheie la biserica romanică San Martiño, oferind un apus liniștit peste minunatul estuar.",
+        "en": "Morning begins with a refreshing walk to Sopazos beach, feeling the gentle sea breeze. Midday takes you through the Roman ruins, unraveling centuries of history. In the afternoon, explore hidden coastal points like Cura beach and the dramatic Punta da Illa. Evening concludes at the Romanesque church of San Martiño, offering a peaceful sunset over the estuary."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:32",
+      "total_km": 5.84,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Igrexa de San Miguel de Breamo",
+            "hu": "Igrexa de San Miguel de Breamo",
+            "ro": "Igrexa de San Miguel de Breamo",
+            "en": "Igrexa de San Miguel de Breamo"
+          },
+          "coords": [
+            -8.183499,
+            43.399831
+          ],
+          "category": "religious",
+          "arrive_at": "09:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.25,
+          "tip_5lang": {
+            "de": "Steigen Sie zu dieser herrlichen romanischen Kapelle aus dem 12. Jahrhundert auf, um Ruhe zu finden, und tragen Sie feste Schuhe für den Weg.",
+            "hu": "Másszon fel ehhez az erdőben megbúvó csodálatos 12. századi román stílusú kápolnához, és viseljen túracipőt az egyenetlen, emelkedő erdei ösvényen.",
+            "ro": "Urcați la această magnifică capelă romanică din secolul al XII-lea ascunsă în pădure și purtați bocanci solizi pentru poteca denivelată și abruptă.",
+            "en": "Climb up to this magnificent 12th-century Romanesque chapel hidden in the forest for spiritual quiet, and wear sturdy boots for the uneven uphill trail."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Centroña",
+            "hu": "Praia de Centroña",
+            "ro": "Praia de Centroña",
+            "en": "Praia de Centroña"
+          },
+          "coords": [
+            -8.194077,
+            43.410767
+          ],
+          "category": "recreational",
+          "arrive_at": "10:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie an den ruhigen Ufern dieses malerischen Strandes, der sich perfekt für eine Pause eignet, und breiten Sie eine Decke im feinen Sand aus.",
+            "hu": "Sétáljon e festői tengerpart nyugodt partjain, amely tökéletes a déli pihenéshez, és terítsen le egy takarót a finom homokra a tengeri szellőhöz.",
+            "ro": "Plimbați-vă pe malurile liniștite ale acestei plaje pitorești perfecte pentru odihnă și așezați o pătură pe nisipul fin pentru a simți briza mării.",
+            "en": "Walk along the tranquil shores of this picturesque beach perfect for a midday rest, laying out a small blanket on the fine sand to enjoy the sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Vila romana de Centroña",
+            "hu": "Vila romana de Centroña",
+            "ro": "Vila romana de Centroña",
+            "en": "Vila romana de Centroña"
+          },
+          "coords": [
+            -8.196149,
+            43.410136
+          ],
+          "category": "historical",
+          "arrive_at": "11:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesem faszinierenden römischen Villenkomplex, der das antike Leben zeigt, und achten Sie auf die Umrisse im Gras.",
+            "hu": "Lépjen vissza az időben ezen a lenyűgöző római villakomplexumon, amely bemutatja az ókori életet, és keresse meg a fűben megmaradt épületi körvonalakat.",
+            "ro": "Întoarceți-vă în timp la acest complex de vile romane care evidențiază viața de coastă antică, căutând contururile structurale rămase în iarbă.",
+            "en": "Step back in time at this fascinating Roman villa complex that highlights ancient coastal life, looking out for the remaining structural outlines in the grass."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Cura",
+            "hu": "Praia do Cura",
+            "ro": "Praia do Cura",
+            "en": "Praia do Cura"
+          },
+          "coords": [
+            -8.18048,
+            43.412536
+          ],
+          "category": "recreational",
+          "arrive_at": "12:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den sanften Wellen dieses ruhigen Küstenortes, um Energie zu tanken, und bringen Sie Wasser mit, da es wenig Einrichtungen gibt.",
+            "hu": "Pihenjen meg a csendes tengerpart lágy hullámai mellett, és hozzon magával vizet, mivel a helyi szolgáltatások itt meglehetősen ritkásak lehetnek.",
+            "ro": "Relaxați-vă la valurile blânde ale acestui loc de coastă liniștit pentru a vă reîncărca energia, aducând apă, deoarece facilitățile locale sunt rare.",
+            "en": "Relax by the gentle waves of this quiet coastal spot to recharge your energy, bringing your own water bottle as local amenities can be quite sparse."
+          }
+        },
+        {
+          "name": {
+            "de": "Punta da Illa",
+            "hu": "Punta da Illa",
+            "ro": "Punta da Illa",
+            "en": "Punta da Illa"
+          },
+          "coords": [
+            -8.179689,
+            43.41929
+          ],
+          "category": "natural",
+          "arrive_at": "13:37",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick von dieser natürlichen Halbinsel, die das Wasser malerisch einrahmt, und halten Sie Ihre Kamera für tolle Fotos bereit.",
+            "hu": "Gyönyörködjön a panorámás kilátásban erről a félszigetről, amely gyönyörűen keretezi a vizet, és tartsa készenlétben fényképezőgépét a remek fotókhoz.",
+            "ro": "Admirați vederea panoramică de pe această peninsulă naturală care încadrează frumos apa și pregătiți camera pentru fotografii peisagistice uimitoare.",
+            "en": "Take in the panoramic estuarine views from this natural peninsula that beautifully frames the water, and have your camera ready for stunning landscape shots."
+          }
+        },
+        {
+          "name": {
+            "de": "Muíño de maré",
+            "hu": "Muíño de maré",
+            "ro": "Muíño de maré",
+            "en": "Muíño de maré"
+          },
+          "coords": [
+            -8.185496,
+            43.424007
+          ],
+          "category": "historical",
+          "arrive_at": "14:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.71,
+          "tip_5lang": {
+            "de": "Betrachten Sie diese historische Gezeitenmühle, die clevere traditionelle Ingenieurskunst demonstriert, und besuchen Sie sie bei spürbarem Gezeitenwechsel.",
+            "hu": "Figyelje meg ezt a lenyűgöző történelmi árapály-malmot, amely okos hagyományos mérnöki munkát mutat, és próbáljon meg az árapály váltásakor érkezni.",
+            "ro": "Observați această fascinantă moară de maree istorică ce demonstrează o inginerie tradițională inteligentă, încercând să o vizitați la schimbarea mareei.",
+            "en": "Observe this fascinating historical tide mill which demonstrates clever traditional engineering, and try to visit when the tide is visibly shifting."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Almieiras",
+            "hu": "Praia de Almieiras",
+            "ro": "Praia de Almieiras",
+            "en": "Praia de Almieiras"
+          },
+          "coords": [
+            -8.187319,
+            43.42438
+          ],
+          "category": "recreational",
+          "arrive_at": "16:02",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem erfrischenden Bad an diesem für sauberes Wasser bekannten Küstenabschnitt und bringen Sie ein schnell trocknendes Handtuch mit.",
+            "hu": "Fejezze be útját egy frissítő csobbanással ezen a tiszta vizéről ismert gyönyörű partszakaszon, és hozzon magával gyorsan száradó törölközőt a szünethez.",
+            "ro": "Încheiați traseul cu o baie răcoritoare pe această porțiune frumoasă de coastă cunoscută pentru apele curate, aducând un prosop cu uscare rapidă.",
+            "en": "End your route with a refreshing dip at this beautiful coastal stretch known for clean waters, bringing a quick-dry towel for a convenient seaside break."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit einer Fahrt zum San Miguel de Breamo für spirituelle Ruhe. Mittags fahren Sie hinunter nach Centroña, um den Strand und die römische Villa zu genießen. Die nachmittägliche Fahrt führt an der Küste entlang nach Punta da Illa und zur historischen Gezeitenmühle. Lassen Sie den Tag am Strand von Almieiras ausklingen, wo die Abendwellen die Kilometer wegwaschen.",
+        "hu": "Kezdje a napot egy energikus kerékpározással a San Miguel de Breamo hegyi kápolnájához. Délben guruljon le Centroña felé, hogy élvezze a strandot és a római villát. A délutáni túra a part mentén halad a Punta da Illa és a történelmi árapály-malom felé. Zárja a napot az Almieiras strandon, hagyva, hogy az esti hullámok elmossák a fáradalmakat.",
+        "ro": "Începeți cu o pedalare energizantă spre San Miguel de Breamo pentru calm spiritual. La prânz, coborâți spre Centroña pentru a vă bucura de plajă și de vila romană. Plimbarea de după-amiază urmează coasta spre Punta da Illa și istorica moară de maree. Încheiați ziua la plaja Almieiras, lăsând valurile de seară să vă spele oboseala acumulată.",
+        "en": "Start with an energizing pedal to the hilltop San Miguel de Breamo for spiritual calm. At midday, cruise down to Centroña to enjoy the beach and its ancient Roman villa. The afternoon ride sweeps along the coastline toward Punta da Illa and the historic tide mill. Wind down your day at Almieiras beach, letting the evening waves wash away the miles."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:42",
+      "total_km": 10.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Castro de Castrelo",
+            "hu": "Castro de Castrelo",
+            "ro": "Castro de Castrelo",
+            "en": "Castro de Castrelo"
+          },
+          "coords": [
+            -8.19505,
+            43.400524
+          ],
+          "category": "historical",
+          "arrive_at": "09:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese antike keltische Siedlung, die die Landschaft dominiert und Einblicke in die vorrömische Geschichte bietet, und achten Sie auf den Weg.",
+            "hu": "Fedezze fel ezt az ősi kelta települést, amely uralja a tájat, bepillantást engedve a rómaiak előtti történelembe, és vigyázzon a lépéseire a terepen.",
+            "ro": "Explorați această așezare celtică antică ce domină peisajul, oferind o privire în istoria preromană, și aveți grijă pe unde călcați pe terenul accidentat.",
+            "en": "Explore this ancient Celtic settlement that dominates the landscape, offering a glimpse into pre-Roman history, and watch your step on the rough terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Vila romana de Centroña",
+            "hu": "Vila romana de Centroña",
+            "ro": "Vila romana de Centroña",
+            "en": "Vila romana de Centroña"
+          },
+          "coords": [
+            -8.196149,
+            43.410136
+          ],
+          "category": "historical",
+          "arrive_at": "10:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.07,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesem faszinierenden römischen Villenkomplex, der das antike Leben zeigt, und achten Sie auf die Umrisse im Gras.",
+            "hu": "Lépjen vissza az időben ezen a lenyűgöző római villakomplexumon, amely bemutatja az ókori életet, és keresse meg a fűben megmaradt épületi körvonalakat.",
+            "ro": "Întoarceți-vă în timp la acest complex de vile romane care evidențiază viața de coastă antică, căutând contururile structurale rămase în iarbă.",
+            "en": "Step back in time at this fascinating Roman villa complex that highlights ancient coastal life, looking out for the remaining structural outlines in the grass."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia Sartaxés",
+            "hu": "Praia Sartaxés",
+            "ro": "Praia Sartaxés",
+            "en": "Praia Sartaxés"
+          },
+          "coords": [
+            -8.201519,
+            43.409343
+          ],
+          "category": "recreational",
+          "arrive_at": "11:57",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.44,
+          "tip_5lang": {
+            "de": "Erleben Sie die abgelegene Schönheit dieses kleineren Strandes abseits der Massen und nutzen Sie die friedliche Atmosphäre, um ein gutes Buch zu lesen.",
+            "hu": "Tapasztalja meg ennek a tömegtől távol eső, kisebb strandnak az elzárt szépségét, kihasználva a békés légkört egy jó könyv nyugodt elolvasására.",
+            "ro": "Experimentați frumusețea izolată a acestei plaje mai mici, ascunsă de mulțimi, profitând de atmosfera pașnică pentru a citi o carte bună.",
+            "en": "Experience the secluded beauty of this smaller beach tucked away from the crowds, taking advantage of the peaceful atmosphere to read a good book."
+          }
+        },
+        {
+          "name": {
+            "de": "Xacemento Romano de Sopazos",
+            "hu": "Xacemento Romano de Sopazos",
+            "ro": "Xacemento Romano de Sopazos",
+            "en": "Xacemento Romano de Sopazos"
+          },
+          "coords": [
+            -8.17948,
+            43.412443
+          ],
+          "category": "historical",
+          "arrive_at": "13:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die antiken Fundamente dieser römischen Siedlung, die die reiche Vergangenheit zeigt, und lesen Sie die Infotafeln für den Kontext.",
+            "hu": "Fedezze fel e római település ősi alapjait, amely a régió gazdag múltját tárja fel, és mindenképpen olvassa el a történelmi információs táblákat.",
+            "ro": "Descoperiți fundațiile antice ale acestei așezări romane care dezvăluie trecutul bogat al regiunii și asigurați-vă că citiți panourile informative.",
+            "en": "Discover the ancient foundation of this Roman settlement that reveals the region's rich past, making sure to read the info boards for historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Pena do Altar",
+            "hu": "Pena do Altar",
+            "ro": "Pena do Altar",
+            "en": "Pena do Altar"
+          },
+          "coords": [
+            -8.184298,
+            43.422051
+          ],
+          "category": "natural",
+          "arrive_at": "14:23",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese dramatische Felsformation, die eine tiefe mythologische Bedeutung hat, aber halten Sie ausreichend Abstand von den Klippen.",
+            "hu": "Csodálja meg ezt a drámai sziklaalakzatot, amely mély helyi mitológiai jelentőséggel bír, de tartson megfelelő távolságot a veszélyes sziklaszélektől.",
+            "ro": "Minunați-vă de această formațiune stâncoasă dramatică ce are o semnificație mitologică locală, dar păstrați distanța față de marginile periculoase.",
+            "en": "Marvel at this dramatic natural rock formation which holds deep local mythological significance, but stand well back from the perilous cliff edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Muíño de maré",
+            "hu": "Muíño de maré",
+            "ro": "Muíño de maré",
+            "en": "Muíño de maré"
+          },
+          "coords": [
+            -8.185496,
+            43.424007
+          ],
+          "category": "historical",
+          "arrive_at": "15:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Betrachten Sie diese historische Gezeitenmühle, die clevere traditionelle Ingenieurskunst demonstriert, und besuchen Sie sie bei spürbarem Gezeitenwechsel.",
+            "hu": "Figyelje meg ezt a lenyűgöző történelmi árapály-malmot, amely okos hagyományos mérnöki munkát mutat, és próbáljon meg az árapály váltásakor érkezni.",
+            "ro": "Observați această fascinantă moară de maree istorică ce demonstrează o inginerie tradițională inteligentă, încercând să o vizitați la schimbarea mareei.",
+            "en": "Observe this fascinating historical tide mill which demonstrates clever traditional engineering, and try to visit when the tide is visibly shifting."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de San Martiño do Porto",
+            "hu": "Igrexa de San Martiño do Porto",
+            "ro": "Igrexa de San Martiño do Porto",
+            "en": "Igrexa de San Martiño do Porto"
+          },
+          "coords": [
+            -8.175035,
+            43.423127
+          ],
+          "category": "religious",
+          "arrive_at": "16:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Bewundern Sie die romanische Architektur dieser historischen Kirche, die den lokalen Glauben verankerte, und achten Sie auf die steinernen Schnitzereien.",
+            "hu": "Csodálja meg e történelmi templom masszív román stílusú építészetét, és figyelje meg a bejárat közelében található bonyolult kőfaragványokat.",
+            "ro": "Admirați arhitectura romanică robustă a acestei biserici istorice și acordați atenție sculpturilor complicate în piatră de lângă ușa principală.",
+            "en": "Admire the sturdy Romanesque architecture of this historic church that anchored local faith, paying close attention to the intricate stone carvings near the door."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de San Miguel de Breamo",
+            "hu": "Igrexa de San Miguel de Breamo",
+            "ro": "Igrexa de San Miguel de Breamo",
+            "en": "Igrexa de San Miguel de Breamo"
+          },
+          "coords": [
+            -8.183499,
+            43.399831
+          ],
+          "category": "religious",
+          "arrive_at": "17:32",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Steigen Sie zu dieser herrlichen romanischen Kapelle aus dem 12. Jahrhundert auf, um Ruhe zu finden, und tragen Sie feste Schuhe für den Weg.",
+            "hu": "Másszon fel ehhez az erdőben megbúvó csodálatos 12. századi román stílusú kápolnához, és viseljen túracipőt az egyenetlen, emelkedő erdei ösvényen.",
+            "ro": "Urcați la această magnifică capelă romanică din secolul al XII-lea ascunsă în pădure și purtați bocanci solizi pentru poteca denivelată și abruptă.",
+            "en": "Climb up to this magnificent 12th-century Romanesque chapel hidden in the forest for spiritual quiet, and wear sturdy boots for the uneven uphill trail."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt am antiken Castro de Castrelo, der keltische Wurzeln offenbart. Mittags durchqueren Sie römische Stätten und entspannen am Strand von Sartaxés. Der Nachmittag ist natürlichen Wahrzeichen wie Pena do Altar und der Gezeitenmühle gewidmet. Schließlich ruft Sie der Sonnenuntergang zum majestätischen San Miguel de Breamo mit Blick auf die Region.",
+        "hu": "Autóútja az ősi Castro de Castrelónál kezdődik, feltárva a kelta gyökereket. Délben végigjárja a római kori emlékeket és a Sartaxés strandon pihen. A délutánt olyan természeti látványosságoknak szentelheti, mint a Pena do Altar és a régi malom. Végül a naplemente a fenséges San Miguel de Breamo felé hívja, ahonnan belátni az egész lenyűgöző régiót.",
+        "ro": "Călătoria începe la anticul Castro de Castrelo, dezvăluind rădăcini celtice adânci. La prânz, traversați siturile romane și vă relaxați la plaja izolată Sartaxés. După-amiaza este dedicată obiectivelor naturale precum Pena do Altar și vechea moară de maree. În final, apusul vă cheamă la maiestuosul San Miguel de Breamo cu vedere la întreaga regiune.",
+        "en": "Your drive begins at the ancient Castro de Castrelo, revealing deep Celtic roots. By midday, you're traversing the Roman sites and relaxing at the secluded Sartaxés beach. The afternoon is dedicated to spectacular natural landmarks like Pena do Altar and the old tide mill. Finally, sunset calls you up to the majestic San Miguel de Breamo overlooking the whole region."
+      }
+    }
+  }
+}

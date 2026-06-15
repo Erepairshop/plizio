@@ -1,0 +1,474 @@
+{
+  "city_id": "lacanau",
+  "anchor": {
+    "name": "Lacanau",
+    "coords": [
+      -1.0794,
+      44.9792
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 7.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Vincent Kirche",
+            "hu": "Saint-Vincent templom",
+            "ro": "Biserica Saint-Vincent",
+            "en": "Saint-Vincent Church"
+          },
+          "coords": [
+            -1.075153,
+            44.977595
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Buntglasfenster dieser historischen Kirche und kommen Sie früh, um einen ruhigen Moment zu genießen.",
+            "hu": "Csodálja meg a történelmi templom gyönyörű ólomüveg ablakait, és érkezzen korán, hogy átélhessen egy csendes pillanatot a város ébredése előtt.",
+            "ro": "Admirați vitraliile frumoase ale acestei biserici istorice și sosiți devreme pentru a vă bucura de un moment de liniște.",
+            "en": "Admire the beautiful stained glass windows of this historic church and arrive early to experience a quiet moment before the town wakes up."
+          }
+        },
+        {
+          "name": {
+            "de": "Seepromenade von Lacanau",
+            "hu": "Lacanau tengerparti sétány",
+            "ro": "Promenada Lacanau",
+            "en": "Lacanau Seafront Promenade"
+          },
+          "coords": [
+            -1.076515,
+            44.975416
+          ],
+          "category": "recreational",
+          "arrive_at": "09:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie diese lebhafte Promenade entlang, die wunderschöne Ausblicke auf das Wasser bietet, und vergessen Sie nicht bequeme Schuhe.",
+            "hu": "Sétáljon végig ezen a nyüzsgő sétányon, amely gyönyörű kilátást nyújt a vízre, és ne felejtsen el kényelmes cipőt viselni.",
+            "ro": "Plimbați-vă de-a lungul acestei promenade pline de viață care oferă vederi frumoase și purtați încălțăminte confortabilă pentru explorare.",
+            "en": "Stroll along this lively promenade offering beautiful views of the water, and don't forget to pack comfortable shoes for a leisurely walk."
+          }
+        },
+        {
+          "name": {
+            "de": "See von Lacanau",
+            "hu": "Lacanau-tó",
+            "ro": "Lacul Lacanau",
+            "en": "Lacanau Lake (Étang de Lacanau)"
+          },
+          "coords": [
+            -1.09199,
+            44.978182
+          ],
+          "category": "natural",
+          "arrive_at": "11:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Mieten Sie ein Stand-Up-Paddle, um das ruhige Wasser des Sees zu erkunden, der einen perfekten natürlichen Rückzugsort vor den Wellen bietet.",
+            "hu": "Béreljen evezős deszkát a tó nyugodt, kristálytiszta vizének felfedezéséhez, amely tökéletes természetes menedéket nyújt az óceán hullámaitól.",
+            "ro": "Închiriați o placă cu vâsle pentru a explora apele calme ale lacului, care oferă un refugiu natural perfect departe de valurile oceanului.",
+            "en": "Rent a paddleboard to explore the calm, crystal-clear waters of the lake, which provides a perfect natural retreat away from the ocean waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Der kleine Strand von Tedey",
+            "hu": "Tedey kis strandja",
+            "ro": "Plaja mică din Tedey",
+            "en": "La petite plage du Tedey"
+          },
+          "coords": [
+            -1.133663,
+            44.98853
+          ],
+          "category": "recreational",
+          "arrive_at": "13:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 52,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie am warmen Sand dieses versteckten Strandes im Schatten von Kiefern und bringen Sie unbedingt Snacks für ein Picknick mit.",
+            "hu": "Pihenjen ezen a fenyőfákkal árnyékolt, eldugott tóparti strandon, és mindenképpen hozzon magával rágcsálnivalót egy délutáni piknikhez.",
+            "ro": "Relaxați-vă pe nisipul cald al acestei plaje ascunse la umbra pinilor și aduceți cu voi gustări pentru un picnic minunat în natură.",
+            "en": "Relax on the warm sands of this hidden lakeside beach under the shade of pine trees, making sure to bring your own snacks for a picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Casino von Lacanau",
+            "hu": "Lacanau Kaszinó",
+            "ro": "Cazinoul din Lacanau",
+            "en": "Casino of Lacanau"
+          },
+          "coords": [
+            -1.140813,
+            44.967282
+          ],
+          "category": "recreational",
+          "arrive_at": "15:25",
+          "stay_min": 105,
+          "hop_from_prev_min": 37,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit Spielen oder einem Cocktail im Casino, wobei Sie daran denken sollten, einen gültigen Ausweis für den Eintritt mitzuführen.",
+            "hu": "Zárja a napot izgalmas játékokkal vagy egy frissítő koktéllal a kaszinóban, és ne felejtse el magával vinni érvényes személyi igazolványát a belépéshez.",
+            "ro": "Încheiați ziua cu jocuri interesante sau un cocktail la cazinou, amintindu-vă să aveți la voi un act de identitate valabil pentru a putea intra.",
+            "en": "End your day with some exciting games or a refreshing cocktail at the casino, remembering to carry a valid ID for entry into the gaming areas."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im historischen Herzen von Lacanau mit einem Besuch der charmanten Kirche und einem Spaziergang an der Promenade.\nGegen Mittag tauchen Sie in die natürliche Ruhe der Umgebung ein und erkunden die Ufer des weiten Lacanau-Sees sowie die unberührten Naturschutzgebiete.\nAm Nachmittag zieht es Sie zu den von Kiefern gesäumten Stränden und der dramatischen Ozeanküste, wo Sie die beeindruckenden Surfer beobachten können.\nLassen Sie den Tag entspannt ausklingen, sei es bei einem atemberaubenden Sonnenuntergang am Strand oder mit etwas Glück im lebhaften lokalen Casino.",
+        "hu": "Kezdje a reggelt Lacanau történelmi központjában, látogasson el a hangulatos helyi templomba, és tegyen egy békés sétát a tóparti sétányon.\nDélben merüljön el a környék természetes nyugalmában, fedezze fel a hatalmas Lacanau-tó partját és a közeli érintetlen természetvédelmi területeket.\nDélután induljon a fenyőfákkal szegélyezett strandok és a drámai óceánpart felé, élvezze a napsütést, és figyelje a hatalmas hullámokat meglovagló szörfösöket.\nZárja a napot egy pihentető estével, legyen szó a naplemente megcsodálásáról a homokos parton, vagy egy kis szerencsejátékról a nyüzsgő helyi kaszinóban.",
+        "ro": "Începeți dimineața în centrul istoric al orașului Lacanau, vizitând biserica fermecătoare și bucurându-vă de o plimbare liniștită pe promenadă.\nLa prânz, cufundați-vă în liniștea naturală a zonei vizitând țărmurile lacului extins Lacanau și rezervațiile naturale imaculate din apropiere.\nDupă-amiaza, îndreptați-vă spre plajele mărginite de pini și spre coasta dramatică a oceanului, bucurându-vă de soare și privind surferii experimentați.\nÎncheiați-vă ziua cu o seară relaxantă, fie admirând un apus de soare pe plajă, fie încercându-vă norocul la cazinoul local plin de viață.",
+        "en": "Start your morning in the historic heart of Lacanau, visiting the charming local church and enjoying a peaceful stroll along the lakeside promenade.\nBy midday, immerse yourself in the natural tranquility of the area by visiting the shores of the expansive Lacanau Lake and nearby pristine reserves.\nIn the afternoon, head towards the pine-fringed beaches and the dramatic ocean coast, soaking in the sun and watching the surfers brave the impressive waves.\nConclude your day with a relaxed evening, whether watching the sunset from the sands or trying your luck at the vibrant local casino before dinner."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 19.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Vincent Kirche",
+            "hu": "Saint-Vincent templom",
+            "ro": "Biserica Saint-Vincent",
+            "en": "Saint-Vincent Church"
+          },
+          "coords": [
+            -1.075153,
+            44.977595
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Buntglasfenster dieser historischen Kirche und kommen Sie früh, um einen ruhigen Moment zu genießen.",
+            "hu": "Csodálja meg a történelmi templom gyönyörű ólomüveg ablakait, és érkezzen korán, hogy átélhessen egy csendes pillanatot a város ébredése előtt.",
+            "ro": "Admirați vitraliile frumoase ale acestei biserici istorice și sosiți devreme pentru a vă bucura de un moment de liniște.",
+            "en": "Admire the beautiful stained glass windows of this historic church and arrive early to experience a quiet moment before the town wakes up."
+          }
+        },
+        {
+          "name": {
+            "de": "Seepromenade von Lacanau",
+            "hu": "Lacanau tengerparti sétány",
+            "ro": "Promenada Lacanau",
+            "en": "Lacanau Seafront Promenade"
+          },
+          "coords": [
+            -1.076515,
+            44.975416
+          ],
+          "category": "recreational",
+          "arrive_at": "09:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie diese lebhafte Promenade entlang, die wunderschöne Ausblicke auf das Wasser bietet, und vergessen Sie nicht bequeme Schuhe.",
+            "hu": "Sétáljon végig ezen a nyüzsgő sétányon, amely gyönyörű kilátást nyújt a vízre, és ne felejtsen el kényelmes cipőt viselni.",
+            "ro": "Plimbați-vă de-a lungul acestei promenade pline de viață care oferă vederi frumoase și purtați încălțăminte confortabilă pentru explorare.",
+            "en": "Stroll along this lively promenade offering beautiful views of the water, and don't forget to pack comfortable shoes for a leisurely walk."
+          }
+        },
+        {
+          "name": {
+            "de": "See von Lacanau",
+            "hu": "Lacanau-tó",
+            "ro": "Lacul Lacanau",
+            "en": "Lacanau Lake (Étang de Lacanau)"
+          },
+          "coords": [
+            -1.09199,
+            44.978182
+          ],
+          "category": "natural",
+          "arrive_at": "11:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Mieten Sie ein Stand-Up-Paddle, um das ruhige Wasser des Sees zu erkunden, der einen perfekten natürlichen Rückzugsort vor den Wellen bietet.",
+            "hu": "Béreljen evezős deszkát a tó nyugodt, kristálytiszta vizének felfedezéséhez, amely tökéletes természetes menedéket nyújt az óceán hullámaitól.",
+            "ro": "Închiriați o placă cu vâsle pentru a explora apele calme ale lacului, care oferă un refugiu natural perfect departe de valurile oceanului.",
+            "en": "Rent a paddleboard to explore the calm, crystal-clear waters of the lake, which provides a perfect natural retreat away from the ocean waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturschutzgebiet See Cousseau",
+            "hu": "Cousseau-tó Természetvédelmi Terület",
+            "ro": "Rezervația Naturală Lacul Cousseau",
+            "en": "Cousseau Lake Nature Reserve"
+          },
+          "coords": [
+            -1.138883,
+            45.036044
+          ],
+          "category": "natural",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Besteigen Sie die hölzernen Aussichtstürme, um verschiedene Vogelarten zu beobachten, und bringen Sie ein Fernglas für das beste Erlebnis mit.",
+            "hu": "Másszon fel a fából készült kilátótornyokba a madárfajok megfigyeléséhez, és hozzon magával távcsövet a legjobb vadvilági élmény érdekében.",
+            "ro": "Urcați în turnurile de observație din lemn pentru a vedea diverse specii de păsări și luați un binoclu pentru o experiență perfectă.",
+            "en": "Climb the wooden observation towers to spot diverse bird species in the marshland, and carry binoculars for the best wildlife viewing experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Lacanau-Océan Strand",
+            "hu": "Lacanau-Océan strand",
+            "ro": "Plaja Lacanau-Océan",
+            "en": "Lacanau-Océan Beach"
+          },
+          "coords": [
+            -1.203055,
+            44.993716
+          ],
+          "category": "recreational",
+          "arrive_at": "14:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie professionelle Surfer auf den beeindruckenden Wellen des Atlantiks und schwimmen Sie immer nur in den markierten bewachten Zonen.",
+            "hu": "Figyelje meg, ahogy a profi szörfösök megküzdenek az atlanti hullámokkal, és mindig szigorúan a kijelölt vízimentők által felügyelt zónákban ússzon.",
+            "ro": "Priviți surferii profesioniști cum abordează valurile impresionante ale Atlanticului și înotați întotdeauna doar în zonele marcate de salvamari.",
+            "en": "Watch professional surfers tackle the impressive Atlantic waves at this iconic beach, and always swim strictly within the marked lifeguard zones."
+          }
+        },
+        {
+          "name": {
+            "de": "Der kleine Strand von Tedey",
+            "hu": "Tedey kis strandja",
+            "ro": "Plaja mică din Tedey",
+            "en": "La petite plage du Tedey"
+          },
+          "coords": [
+            -1.133663,
+            44.98853
+          ],
+          "category": "recreational",
+          "arrive_at": "16:35",
+          "stay_min": 105,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am warmen Sand dieses versteckten Strandes im Schatten von Kiefern und bringen Sie unbedingt Snacks für ein Picknick mit.",
+            "hu": "Pihenjen ezen a fenyőfákkal árnyékolt, eldugott tóparti strandon, és mindenképpen hozzon magával rágcsálnivalót egy délutáni piknikhez.",
+            "ro": "Relaxați-vă pe nisipul cald al acestei plaje ascunse la umbra pinilor și aduceți cu voi gustări pentru un picnic minunat în natură.",
+            "en": "Relax on the warm sands of this hidden lakeside beach under the shade of pine trees, making sure to bring your own snacks for a picnic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im historischen Herzen von Lacanau mit einem Besuch der charmanten Kirche und einem Spaziergang an der Promenade.\nGegen Mittag tauchen Sie in die natürliche Ruhe der Umgebung ein und erkunden die Ufer des weiten Lacanau-Sees sowie die unberührten Naturschutzgebiete.\nAm Nachmittag zieht es Sie zu den von Kiefern gesäumten Stränden und der dramatischen Ozeanküste, wo Sie die beeindruckenden Surfer beobachten können.\nLassen Sie den Tag entspannt ausklingen, sei es bei einem atemberaubenden Sonnenuntergang am Strand oder mit etwas Glück im lebhaften lokalen Casino.",
+        "hu": "Kezdje a reggelt Lacanau történelmi központjában, látogasson el a hangulatos helyi templomba, és tegyen egy békés sétát a tóparti sétányon.\nDélben merüljön el a környék természetes nyugalmában, fedezze fel a hatalmas Lacanau-tó partját és a közeli érintetlen természetvédelmi területeket.\nDélután induljon a fenyőfákkal szegélyezett strandok és a drámai óceánpart felé, élvezze a napsütést, és figyelje a hatalmas hullámokat meglovagló szörfösöket.\nZárja a napot egy pihentető estével, legyen szó a naplemente megcsodálásáról a homokos parton, vagy egy kis szerencsejátékról a nyüzsgő helyi kaszinóban.",
+        "ro": "Începeți dimineața în centrul istoric al orașului Lacanau, vizitând biserica fermecătoare și bucurându-vă de o plimbare liniștită pe promenadă.\nLa prânz, cufundați-vă în liniștea naturală a zonei vizitând țărmurile lacului extins Lacanau și rezervațiile naturale imaculate din apropiere.\nDupă-amiaza, îndreptați-vă spre plajele mărginite de pini și spre coasta dramatică a oceanului, bucurându-vă de soare și privind surferii experimentați.\nÎncheiați-vă ziua cu o seară relaxantă, fie admirând un apus de soare pe plajă, fie încercându-vă norocul la cazinoul local plin de viață.",
+        "en": "Start your morning in the historic heart of Lacanau, visiting the charming local church and enjoying a peaceful stroll along the lakeside promenade.\nBy midday, immerse yourself in the natural tranquility of the area by visiting the shores of the expansive Lacanau Lake and nearby pristine reserves.\nIn the afternoon, head towards the pine-fringed beaches and the dramatic ocean coast, soaking in the sun and watching the surfers brave the impressive waves.\nConclude your day with a relaxed evening, whether watching the sunset from the sands or trying your luck at the vibrant local casino before dinner."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:39",
+      "total_km": 22.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Vincent Kirche",
+            "hu": "Saint-Vincent templom",
+            "ro": "Biserica Saint-Vincent",
+            "en": "Saint-Vincent Church"
+          },
+          "coords": [
+            -1.075153,
+            44.977595
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Buntglasfenster dieser historischen Kirche und kommen Sie früh, um einen ruhigen Moment zu genießen.",
+            "hu": "Csodálja meg a történelmi templom gyönyörű ólomüveg ablakait, és érkezzen korán, hogy átélhessen egy csendes pillanatot a város ébredése előtt.",
+            "ro": "Admirați vitraliile frumoase ale acestei biserici istorice și sosiți devreme pentru a vă bucura de un moment de liniște.",
+            "en": "Admire the beautiful stained glass windows of this historic church and arrive early to experience a quiet moment before the town wakes up."
+          }
+        },
+        {
+          "name": {
+            "de": "Seepromenade von Lacanau",
+            "hu": "Lacanau tengerparti sétány",
+            "ro": "Promenada Lacanau",
+            "en": "Lacanau Seafront Promenade"
+          },
+          "coords": [
+            -1.076515,
+            44.975416
+          ],
+          "category": "recreational",
+          "arrive_at": "09:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie diese lebhafte Promenade entlang, die wunderschöne Ausblicke auf das Wasser bietet, und vergessen Sie nicht bequeme Schuhe.",
+            "hu": "Sétáljon végig ezen a nyüzsgő sétányon, amely gyönyörű kilátást nyújt a vízre, és ne felejtsen el kényelmes cipőt viselni.",
+            "ro": "Plimbați-vă de-a lungul acestei promenade pline de viață care oferă vederi frumoase și purtați încălțăminte confortabilă pentru explorare.",
+            "en": "Stroll along this lively promenade offering beautiful views of the water, and don't forget to pack comfortable shoes for a leisurely walk."
+          }
+        },
+        {
+          "name": {
+            "de": "See von Lacanau",
+            "hu": "Lacanau-tó",
+            "ro": "Lacul Lacanau",
+            "en": "Lacanau Lake (Étang de Lacanau)"
+          },
+          "coords": [
+            -1.09199,
+            44.978182
+          ],
+          "category": "natural",
+          "arrive_at": "11:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Mieten Sie ein Stand-Up-Paddle, um das ruhige Wasser des Sees zu erkunden, der einen perfekten natürlichen Rückzugsort vor den Wellen bietet.",
+            "hu": "Béreljen evezős deszkát a tó nyugodt, kristálytiszta vizének felfedezéséhez, amely tökéletes természetes menedéket nyújt az óceán hullámaitól.",
+            "ro": "Închiriați o placă cu vâsle pentru a explora apele calme ale lacului, care oferă un refugiu natural perfect departe de valurile oceanului.",
+            "en": "Rent a paddleboard to explore the calm, crystal-clear waters of the lake, which provides a perfect natural retreat away from the ocean waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Teich von Cousseau",
+            "hu": "Cousseau-tó",
+            "ro": "Iazul Cousseau",
+            "en": "Étang de Cousseau"
+          },
+          "coords": [
+            -1.142588,
+            45.0372
+          ],
+          "category": "natural",
+          "arrive_at": "12:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Wandern Sie auf den schattigen Pfaden um diesen unberührten Teich, um seltene Dünenflora zu entdecken, und verwenden Sie vorab Insektenschutz.",
+            "hu": "Túrázzon az érintetlen tavacskát körülvevő árnyékos ösvényeken a ritka dűnenövényzet felfedezéséhez, és használjon szúnyogriasztót a séta előtt.",
+            "ro": "Faceți drumeții pe traseele umbrite din jurul acestui iaz pentru a descoperi flora rară a dunelor, aplicând un repelent de țânțari înainte.",
+            "en": "Hike the shaded trails surrounding this pristine pond to discover rare dune flora, applying mosquito repellent before you start your forest walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturschutzgebiet See Cousseau",
+            "hu": "Cousseau-tó Természetvédelmi Terület",
+            "ro": "Rezervația Naturală Lacul Cousseau",
+            "en": "Cousseau Lake Nature Reserve"
+          },
+          "coords": [
+            -1.138883,
+            45.036044
+          ],
+          "category": "natural",
+          "arrive_at": "13:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besteigen Sie die hölzernen Aussichtstürme, um verschiedene Vogelarten zu beobachten, und bringen Sie ein Fernglas für das beste Erlebnis mit.",
+            "hu": "Másszon fel a fából készült kilátótornyokba a madárfajok megfigyeléséhez, és hozzon magával távcsövet a legjobb vadvilági élmény érdekében.",
+            "ro": "Urcați în turnurile de observație din lemn pentru a vedea diverse specii de păsări și luați un binoclu pentru o experiență perfectă.",
+            "en": "Climb the wooden observation towers to spot diverse bird species in the marshland, and carry binoculars for the best wildlife viewing experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Lacanau-Océan Strand",
+            "hu": "Lacanau-Océan strand",
+            "ro": "Plaja Lacanau-Océan",
+            "en": "Lacanau-Océan Beach"
+          },
+          "coords": [
+            -1.203055,
+            44.993716
+          ],
+          "category": "recreational",
+          "arrive_at": "15:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie professionelle Surfer auf den beeindruckenden Wellen des Atlantiks und schwimmen Sie immer nur in den markierten bewachten Zonen.",
+            "hu": "Figyelje meg, ahogy a profi szörfösök megküzdenek az atlanti hullámokkal, és mindig szigorúan a kijelölt vízimentők által felügyelt zónákban ússzon.",
+            "ro": "Priviți surferii profesioniști cum abordează valurile impresionante ale Atlanticului și înotați întotdeauna doar în zonele marcate de salvamari.",
+            "en": "Watch professional surfers tackle the impressive Atlantic waves at this iconic beach, and always swim strictly within the marked lifeguard zones."
+          }
+        },
+        {
+          "name": {
+            "de": "Casino von Lacanau",
+            "hu": "Lacanau Kaszinó",
+            "ro": "Cazinoul din Lacanau",
+            "en": "Casino of Lacanau"
+          },
+          "coords": [
+            -1.140813,
+            44.967282
+          ],
+          "category": "recreational",
+          "arrive_at": "16:54",
+          "stay_min": 105,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit Spielen oder einem Cocktail im Casino, wobei Sie daran denken sollten, einen gültigen Ausweis für den Eintritt mitzuführen.",
+            "hu": "Zárja a napot izgalmas játékokkal vagy egy frissítő koktéllal a kaszinóban, és ne felejtse el magával vinni érvényes személyi igazolványát a belépéshez.",
+            "ro": "Încheiați ziua cu jocuri interesante sau un cocktail la cazinou, amintindu-vă să aveți la voi un act de identitate valabil pentru a putea intra.",
+            "en": "End your day with some exciting games or a refreshing cocktail at the casino, remembering to carry a valid ID for entry into the gaming areas."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im historischen Herzen von Lacanau mit einem Besuch der charmanten Kirche und einem Spaziergang an der Promenade.\nGegen Mittag tauchen Sie in die natürliche Ruhe der Umgebung ein und erkunden die Ufer des weiten Lacanau-Sees sowie die unberührten Naturschutzgebiete.\nAm Nachmittag zieht es Sie zu den von Kiefern gesäumten Stränden und der dramatischen Ozeanküste, wo Sie die beeindruckenden Surfer beobachten können.\nLassen Sie den Tag entspannt ausklingen, sei es bei einem atemberaubenden Sonnenuntergang am Strand oder mit etwas Glück im lebhaften lokalen Casino.",
+        "hu": "Kezdje a reggelt Lacanau történelmi központjában, látogasson el a hangulatos helyi templomba, és tegyen egy békés sétát a tóparti sétányon.\nDélben merüljön el a környék természetes nyugalmában, fedezze fel a hatalmas Lacanau-tó partját és a közeli érintetlen természetvédelmi területeket.\nDélután induljon a fenyőfákkal szegélyezett strandok és a drámai óceánpart felé, élvezze a napsütést, és figyelje a hatalmas hullámokat meglovagló szörfösöket.\nZárja a napot egy pihentető estével, legyen szó a naplemente megcsodálásáról a homokos parton, vagy egy kis szerencsejátékról a nyüzsgő helyi kaszinóban.",
+        "ro": "Începeți dimineața în centrul istoric al orașului Lacanau, vizitând biserica fermecătoare și bucurându-vă de o plimbare liniștită pe promenadă.\nLa prânz, cufundați-vă în liniștea naturală a zonei vizitând țărmurile lacului extins Lacanau și rezervațiile naturale imaculate din apropiere.\nDupă-amiaza, îndreptați-vă spre plajele mărginite de pini și spre coasta dramatică a oceanului, bucurându-vă de soare și privind surferii experimentați.\nÎncheiați-vă ziua cu o seară relaxantă, fie admirând un apus de soare pe plajă, fie încercându-vă norocul la cazinoul local plin de viață.",
+        "en": "Start your morning in the historic heart of Lacanau, visiting the charming local church and enjoying a peaceful stroll along the lakeside promenade.\nBy midday, immerse yourself in the natural tranquility of the area by visiting the shores of the expansive Lacanau Lake and nearby pristine reserves.\nIn the afternoon, head towards the pine-fringed beaches and the dramatic ocean coast, soaking in the sun and watching the surfers brave the impressive waves.\nConclude your day with a relaxed evening, whether watching the sunset from the sands or trying your luck at the vibrant local casino before dinner."
+      }
+    }
+  }
+}

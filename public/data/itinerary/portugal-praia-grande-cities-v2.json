@@ -1,0 +1,543 @@
+{
+  "city_id": "portugal-praia-grande-cities-v2",
+  "anchor": {
+    "name": "Praia Grande",
+    "coords": [
+      -9.47477,
+      38.81327
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 2.95,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Praia da Adraga",
+            "hu": "Praia da Adraga",
+            "ro": "Praia da Adraga",
+            "en": "Praia da Adraga"
+          },
+          "coords": [
+            -9.484869,
+            38.803412
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposanten schwarzen Felsformationen an diesem malerischen Strand und kommen Sie bei Ebbe, um die versteckten Höhlen sicher zu erkunden.",
+            "hu": "Csodálja meg a lenyűgöző fekete sziklaalakzatokat ezen a festői strandon, és érkezzen apálykor, hogy biztonságosan felfedezhesse a rejtett tengeri barlangokat.",
+            "ro": "Admirați formațiunile de stâncă neagră la această plajă pitorească și veniți la reflux pentru a explora în siguranță peșterile marine ascunse printre valuri.",
+            "en": "Marvel at the dramatic black rock formations at this picturesque beach, and be sure to visit during low tide to safely explore the hidden sea caves."
+          }
+        },
+        {
+          "name": {
+            "de": "Jazida de icnofósseis da Praia Grande do Rodizio",
+            "hu": "Jazida de icnofósseis da Praia Grande do Rodizio",
+            "ro": "Jazida de icnofósseis da Praia Grande do Rodizio",
+            "en": "Jazida de icnofósseis da Praia Grande do Rodizio"
+          },
+          "coords": [
+            -9.479682,
+            38.809601
+          ],
+          "category": "landmark",
+          "arrive_at": "10:38",
+          "stay_min": 45,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Suchen Sie an der fast senkrechten Felswand nach den faszinierenden Dinosaurierspuren und nutzen Sie ein Fernglas, um die Details von unten besser zu erkennen.",
+            "hu": "Keresse meg a lenyűgöző dinoszaurusz lábnyomokat a majdnem függőleges sziklafalon, és használjon távcsövet a részletek jobb megfigyeléséhez a partról.",
+            "ro": "Căutați urmele fascinante de dinozauri pe peretele de stâncă aproape vertical și folosiți binoclul pentru a vedea mai bine detaliile chiar de jos.",
+            "en": "Spot the fascinating dinosaur footprints preserved on the nearly vertical cliff face, and bring binoculars to see the details clearly from the beach below."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia Grande do Rodízio",
+            "hu": "Praia Grande do Rodízio",
+            "ro": "Praia Grande do Rodízio",
+            "en": "Praia Grande do Rodízio"
+          },
+          "coords": [
+            -9.478185,
+            38.813193
+          ],
+          "category": "recreational",
+          "arrive_at": "11:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Genießen Sie die Weitläufigkeit dieses beliebten Surfstrandes und probieren Sie die lokalen Meeresfrüchte in den hervorragenden Restaurants entlang der Promenade.",
+            "hu": "Élvezze e nyüzsgő szörfös strand tágas homokját, és mindenképpen kóstolja meg a helyi tenger gyümölcseit a sétány kiváló tengerparti éttermeinek egyikében.",
+            "ro": "Bucurați-vă de întinderea vastă a acestei plaje populare pentru surf și savurați fructe de mare proaspete la unul dintre excelentele restaurante de pe faleză.",
+            "en": "Enjoy the vast sandy expanse of this popular surfing beach and be sure to try the fresh local seafood at one of the excellent promenade restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia Pequena do Rodízio",
+            "hu": "Praia Pequena do Rodízio",
+            "ro": "Praia Pequena do Rodízio",
+            "en": "Praia Pequena do Rodízio"
+          },
+          "coords": [
+            -9.474176,
+            38.819693
+          ],
+          "category": "recreational",
+          "arrive_at": "13:12",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem ruhigeren, von Klippen geschützten Strandabschnitt und seien Sie beim Schwimmen wegen der starken Strömungen besonders vorsichtig.",
+            "hu": "Pihenjen ezen a sziklákkal védett, nyugodtabb partszakaszon, és a fürdőzés során legyen nagyon óvatos a gyakran előforduló erős tengeri áramlatok miatt.",
+            "ro": "Relaxați-vă pe această secțiune de plajă mai liniștită, protejată de stânci, și fiți deosebit de precauți când înotați din cauza curenților oceanici puternici.",
+            "en": "Relax on this quieter stretch of beach sheltered by cliffs, and exercise caution when swimming as the ocean currents here can often be quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Sítio Arqueológico do Alto da Vigia",
+            "hu": "Sítio Arqueológico do Alto da Vigia",
+            "ro": "Sítio Arqueológico do Alto da Vigia",
+            "en": "Sítio Arqueológico do Alto da Vigia"
+          },
+          "coords": [
+            -9.472805,
+            38.824188
+          ],
+          "category": "historical",
+          "arrive_at": "14:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Erkunden Sie die spannenden römischen Ruinen auf dieser spektakulären Klippe und achten Sie auf den starken Wind, während Sie den weiten Panoramablick genießen.",
+            "hu": "Fedezze fel az izgalmas római kori romokat ezen a látványos sziklán, és készüljön fel az erős szélre, miközben a tágas panorámában gyönyörködik.",
+            "ro": "Explorați ruinele romane intrigante de pe această stâncă spectaculoasă și purtați o jachetă rezistentă la vânt în timp ce vă bucurați de vizibilitatea extinsă.",
+            "en": "Explore the intriguing Roman ruins perched on this spectacular cliff, and bring a windbreaker to stay comfortable while taking in the expansive panoramic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia das Maçãs",
+            "hu": "Praia das Maçãs",
+            "ro": "Praia das Maçãs",
+            "en": "Praia das Maçãs"
+          },
+          "coords": [
+            -9.46996,
+            38.8248
+          ],
+          "category": "recreational",
+          "arrive_at": "15:10",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang des goldenen Sandes dieses familienfreundlichen Strandes und fahren Sie mit der historischen, charmanten Straßenbahn, die hier direkt endet.",
+            "hu": "Sétáljon végig a családbarát strand aranyszínű homokján, és próbálja ki a bájos történelmi villamost, amely közvetlenül a tengerpartnál fejezi be útját.",
+            "ro": "Plimbați-vă pe nisipul auriu al acestei plaje perfecte pentru familii și faceți o plimbare cu fermecătorul tramvai istoric care se termină chiar aici.",
+            "en": "Stroll along the golden sands of this family-friendly beach, and consider taking a ride on the charming historic tram that conveniently terminates right here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittag: Beginnen Sie den Tag am Praia da Adraga und genießen Sie die frische Meeresbrise. Ein kurzer Spaziergang führt Sie zu den Klippen, wo alte Dinosaurierspuren dauerhaft in die fast senkrechte Felswand eingemeißelt sind.\n\nMittag: Spazieren Sie zum Praia Grande do Rodízio, dem größten Sandstrand der Region. Dieser lebhafte Ort ist ideal, um Surfer zu beobachten, während Sie ein köstliches Mittagessen mit Meeresfrüchten und Blick auf den Atlantik genießen.\n\nNachmittag: Setzen Sie Ihre Wanderung zur ruhigeren Bucht Praia Pequena do Rodízio fort. Entlang der Klippen offenbart das Sítio Arqueológico do Alto da Vigia faszinierende römische Ruinen vor einer atemberaubenden Kulisse.\n\nAbend: Beenden Sie Ihre Tour am goldenen Sandstrand Praia das Maçãs. Bei Sonnenuntergang bieten die charmante Atmosphäre und die sanften Wellen einen perfekten, entspannenden Abschluss Ihres Tages an der portugiesischen Küste.",
+        "hu": "Délelőtt: Kezdje a napot a festői Praia da Adraga strandon, és élvezze a friss óceáni levegőt. Egy rövid séta elvezeti a sziklákhoz, ahol ősi dinoszauruszok lábnyomai láthatók a szinte függőleges sziklafalon.\n\nDél: Sétáljon a Praia Grande do Rodízio felé, amely a környék legnagyobb homokos partszakasza. Ez a nyüzsgő hely tökéletes a szörfösök megfigyelésére, miközben ízletes tengeri ebédet fogyaszt az Atlanti-óceánra néző teraszon.\n\nDélután: Folytassa útját észak felé a Praia Pequena do Rodízio csendesebb öbléhez. A sziklák mentén továbbhaladva az Alto da Vigia régészeti lelőhely lenyűgöző római kori romokat tár fel, drámai háttérrel párosítva.\n\nEste: Fejezze be gyalogtúráját a Praia das Maçãs aranyszínű homokján. Naplementekor a varázslatos hangulat és a lágy hullámok tökéletes, pihentető befejezést nyújtanak a gyönyörű portugál tengerpart felfedezéséhez.",
+        "ro": "Dimineața: Începeți ziua la pitoreasca Praia da Adraga, respirând aerul proaspăt al oceanului. O scurtă plimbare vă duce la stâncile unde urmele antice de dinozauri sunt vizibile permanent pe peretele aproape vertical.\n\nAmiază: Plimbați-vă spre Praia Grande do Rodízio, cea mai mare întindere de nisip din zonă. Acest loc vibrant este perfect pentru a urmări surferii, savurând în același timp un prânz delicios cu vedere la Atlantic.\n\nDupă-amiaza: Continuați drumeția spre nord, către golful mai liniștit Praia Pequena do Rodízio. Mai departe de-a lungul stâncilor, Sítio Arqueológico do Alto da Vigia dezvăluie ruine romane fascinante pe un fundal dramatic.\n\nSeara: Încheiați-vă călătoria pe nisipurile aurii de la Praia das Maçãs. La apus, atmosfera fermecătoare și valurile blânde oferă un final perfect și relaxant pentru ziua dumneavoastră pe frumoasa coastă portugheză.",
+        "en": "Morning: Start your day at the picturesque Praia da Adraga, breathing in the fresh ocean air. A short coastal walk brings you to the famous cliffs where ancient dinosaur footprints are permanently etched into the near-vertical rock face.\n\nMidday: Stroll towards Praia Grande do Rodízio, the area's largest sandy expanse. This vibrant spot is perfect for watching surfers conquer the waves while enjoying a delightful seafood lunch overlooking the Atlantic.\n\nAfternoon: Continue your leisurely trek north to the quieter cove of Praia Pequena do Rodízio. Further along the cliffs, the Sítio Arqueológico do Alto da Vigia reveals fascinating Roman ruins set against a dramatic backdrop.\n\nEvening: Conclude your walking journey at the golden sands of Praia das Maçãs. As the sun sets, the charming atmosphere and gentle waves provide a perfect, relaxing end to your day exploring the beautiful Portuguese coastline."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:28",
+      "total_km": 3.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Fojo da Adraga",
+            "hu": "Fojo da Adraga",
+            "ro": "Fojo da Adraga",
+            "en": "Fojo da Adraga"
+          },
+          "coords": [
+            -9.487931,
+            38.800639
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Blicken Sie in dieses beeindruckende natürliche Erdloch, in dem das Meer tost, und bleiben Sie aus Sicherheitsgründen immer hinter den markierten Absperrungen.",
+            "hu": "Pillantson bele ebbe a lenyűgöző természetes víznyelőbe, ahol a tenger morajlik, és a saját biztonsága érdekében mindig maradjon a kijelölt korlátok mögött.",
+            "ro": "Priviți în această impresionantă dolină naturală unde marea se agită cu putere și rămâneți întotdeauna în spatele barierelor marcate pentru siguranța dumneavoastră.",
+            "en": "Gaze down into this impressive natural sinkhole where the ocean roars powerfully, and always remain securely behind the marked barriers for your own safety."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Adraga",
+            "hu": "Praia da Adraga",
+            "ro": "Praia da Adraga",
+            "en": "Praia da Adraga"
+          },
+          "coords": [
+            -9.484869,
+            38.803412
+          ],
+          "category": "recreational",
+          "arrive_at": "09:38",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposanten schwarzen Felsformationen an diesem malerischen Strand und kommen Sie bei Ebbe, um die versteckten Höhlen sicher zu erkunden.",
+            "hu": "Csodálja meg a lenyűgöző fekete sziklaalakzatokat ezen a festői strandon, és érkezzen apálykor, hogy biztonságosan felfedezhesse a rejtett tengeri barlangokat.",
+            "ro": "Admirați formațiunile de stâncă neagră la această plajă pitorească și veniți la reflux pentru a explora în siguranță peșterile marine ascunse printre valuri.",
+            "en": "Marvel at the dramatic black rock formations at this picturesque beach, and be sure to visit during low tide to safely explore the hidden sea caves."
+          }
+        },
+        {
+          "name": {
+            "de": "Jazida de icnofósseis da Praia Grande do Rodizio",
+            "hu": "Jazida de icnofósseis da Praia Grande do Rodizio",
+            "ro": "Jazida de icnofósseis da Praia Grande do Rodizio",
+            "en": "Jazida de icnofósseis da Praia Grande do Rodizio"
+          },
+          "coords": [
+            -9.479682,
+            38.809601
+          ],
+          "category": "landmark",
+          "arrive_at": "10:43",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Suchen Sie an der fast senkrechten Felswand nach den faszinierenden Dinosaurierspuren und nutzen Sie ein Fernglas, um die Details von unten besser zu erkennen.",
+            "hu": "Keresse meg a lenyűgöző dinoszaurusz lábnyomokat a majdnem függőleges sziklafalon, és használjon távcsövet a részletek jobb megfigyeléséhez a partról.",
+            "ro": "Căutați urmele fascinante de dinozauri pe peretele de stâncă aproape vertical și folosiți binoclul pentru a vedea mai bine detaliile chiar de jos.",
+            "en": "Spot the fascinating dinosaur footprints preserved on the nearly vertical cliff face, and bring binoculars to see the details clearly from the beach below."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia Grande do Rodízio",
+            "hu": "Praia Grande do Rodízio",
+            "ro": "Praia Grande do Rodízio",
+            "en": "Praia Grande do Rodízio"
+          },
+          "coords": [
+            -9.478185,
+            38.813193
+          ],
+          "category": "recreational",
+          "arrive_at": "11:31",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Genießen Sie die Weitläufigkeit dieses beliebten Surfstrandes und probieren Sie die lokalen Meeresfrüchte in den hervorragenden Restaurants entlang der Promenade.",
+            "hu": "Élvezze e nyüzsgő szörfös strand tágas homokját, és mindenképpen kóstolja meg a helyi tenger gyümölcseit a sétány kiváló tengerparti éttermeinek egyikében.",
+            "ro": "Bucurați-vă de întinderea vastă a acestei plaje populare pentru surf și savurați fructe de mare proaspete la unul dintre excelentele restaurante de pe faleză.",
+            "en": "Enjoy the vast sandy expanse of this popular surfing beach and be sure to try the fresh local seafood at one of the excellent promenade restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Sítio Arqueológico do Alto da Vigia",
+            "hu": "Sítio Arqueológico do Alto da Vigia",
+            "ro": "Sítio Arqueológico do Alto da Vigia",
+            "en": "Sítio Arqueológico do Alto da Vigia"
+          },
+          "coords": [
+            -9.472805,
+            38.824188
+          ],
+          "category": "historical",
+          "arrive_at": "13:08",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die spannenden römischen Ruinen auf dieser spektakulären Klippe und achten Sie auf den starken Wind, während Sie den weiten Panoramablick genießen.",
+            "hu": "Fedezze fel az izgalmas római kori romokat ezen a látványos sziklán, és készüljön fel az erős szélre, miközben a tágas panorámában gyönyörködik.",
+            "ro": "Explorați ruinele romane intrigante de pe această stâncă spectaculoasă și purtați o jachetă rezistentă la vânt în timp ce vă bucurați de vizibilitatea extinsă.",
+            "en": "Explore the intriguing Roman ruins perched on this spectacular cliff, and bring a windbreaker to stay comfortable while taking in the expansive panoramic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia das Maçãs",
+            "hu": "Praia das Maçãs",
+            "ro": "Praia das Maçãs",
+            "en": "Praia das Maçãs"
+          },
+          "coords": [
+            -9.46996,
+            38.8248
+          ],
+          "category": "recreational",
+          "arrive_at": "14:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang des goldenen Sandes dieses familienfreundlichen Strandes und fahren Sie mit der historischen, charmanten Straßenbahn, die hier direkt endet.",
+            "hu": "Sétáljon végig a családbarát strand aranyszínű homokján, és próbálja ki a bájos történelmi villamost, amely közvetlenül a tengerpartnál fejezi be útját.",
+            "ro": "Plimbați-vă pe nisipul auriu al acestei plaje perfecte pentru familii și faceți o plimbare cu fermecătorul tramvai istoric care se termină chiar aici.",
+            "en": "Stroll along the golden sands of this family-friendly beach, and consider taking a ride on the charming historic tram that conveniently terminates right here."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento pré-histórico da Praia das Maçãs",
+            "hu": "Monumento pré-histórico da Praia das Maçãs",
+            "ro": "Monumento pré-histórico da Praia das Maçãs",
+            "en": "Monumento pré-histórico da Praia das Maçãs"
+          },
+          "coords": [
+            -9.46633,
+            38.82636
+          ],
+          "category": "historical",
+          "arrive_at": "15:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses bedeutende prähistorische Grabdenkmal in der friedlichen Natur und lesen Sie die Informationstafeln, um seine Geschichte zu verstehen.",
+            "hu": "Fedezze fel ezt a jelentős őskori síremléket a békés természeti környezetben, és olvassa el a tájékoztató táblákat a történelmi jelentőségének megértéséhez.",
+            "ro": "Descoperiți acest important monument funerar preistoric situat în natură pașnică și citiți panourile informative pentru a-i înțelege pe deplin istoria complexă.",
+            "en": "Discover this significant prehistoric burial monument set in peaceful nature, and read the on-site information boards to fully understand its deep historical roots."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittag: Starten Sie am Fojo da Adraga, einem beeindruckenden Erdloch, und radeln Sie zum schönen Praia da Adraga. Die frische Küstenbrise erfrischt Sie, während Sie zu den historischen Dinosaurierspuren fahren.\n\nMittag: Fahren Sie entlang der Küste zum Praia Grande do Rodízio. Parken Sie Ihr Fahrrad und genießen Sie die lebhafte Surfer-Atmosphäre. Dieser weite Strand ist perfekt für eine erholsame Mittagspause, um neue Energie zu tanken.\n\nNachmittag: Radeln Sie weiter nach Norden, um das römische Erbe am Sítio Arqueológico do Alto da Vigia zu entdecken. Der erhöhte Aussichtspunkt bietet einen weiten Blick auf die Küste auf dem Weg zum Praia das Maçãs.\n\nAbend: Beenden Sie Ihre Radtour an dem prähistorischen Denkmal in der Nähe von Praia das Maçãs. Wenn die Dämmerung naht, bieten die alten Steine in der Natur einen friedlichen und besinnlichen Abschluss des Tages.",
+        "hu": "Délelőtt: Kezdje a tekerést a lenyűgöző Fojo da Adraga víznyelőnél, majd ereszkedjen le a gyönyörű Praia da Adraga strandra. A friss parti szél élénkítően hat, ahogy a történelmi dinoszaurusz lábnyomok felé pedáloz.\n\nDél: Guruljon a part mentén a Praia Grande do Rodízio felé. Támassza le kerékpárját, és élvezze a nyüzsgő szörfös hangulatot. Ez a széles strand tökéletes hátteret biztosít egy pihentető ebédszünethez és az energia feltöltéséhez.\n\nDélután: Tekerjen tovább északra, és fedezze fel a római örökséget az Alto da Vigia régészeti lelőhelyen. A magaslati pontról lenyűgöző kilátás nyílik a partra, miközben a bájos Praia das Maçãs felé közeledik.\n\nEste: Fejezze be kerékpáros útvonalát a Praia das Maçãs közelében található őskori emlékműnél. Az alkonyat közeledtével a természet ölelte ősi kövek mélyen békés és elmélkedő befejezést nyújtanak a napnak.",
+        "ro": "Dimineața: Începeți traseul la Fojo da Adraga, o dolină impresionantă, înainte de a coborî spre frumoasa Praia da Adraga. Briza de coastă este revigorantă în timp ce pedalați spre urmele istorice de dinozauri.\n\nAmiază: Mergeți de-a lungul coastei până la Praia Grande do Rodízio. Parcați bicicleta și bucurați-vă de atmosfera plină de viață a surferilor. Această plajă lată oferă cadrul perfect pentru o pauză relaxantă de prânz.\n\nDupă-amiaza: Pedalați mai la nord pentru a descoperi moștenirea romană de la Sítio Arqueológico do Alto da Vigia. Punctul de observație înalt oferă vederi ample asupra coastei în timp ce vă îndreptați spre Praia das Maçãs.\n\nSeara: Finalizați traseul de ciclism la monumentul preistoric ascuns lângă Praia das Maçãs. La lăsarea întunericului, pietrele antice înconjurate de natură oferă un final de zi profund pașnic și contemplativ.",
+        "en": "Morning: Kickstart your ride at Fojo da Adraga, a stunning natural sinkhole, before cycling down to the beautiful Praia da Adraga. The crisp coastal breeze is invigorating as you pedal towards the historic dinosaur footprints.\n\nMidday: Cruise along the coast to Praia Grande do Rodízio. Park your bike and enjoy the lively surfing atmosphere. This wide beach offers the perfect backdrop for a relaxing lunch break to recharge your energy.\n\nAfternoon: Pedal further north to discover the Roman heritage at Sítio Arqueológico do Alto da Vigia. The elevated vantage point offers sweeping coastal views as you seamlessly ride towards the charming Praia das Maçãs.\n\nEvening: Complete your cycling route at the prehistoric monument hidden near Praia das Maçãs. As twilight approaches, the ancient stones surrounded by nature provide a profoundly peaceful and contemplative end to the day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 6.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Museu Renato Lobo Garcia",
+            "hu": "Museu Renato Lobo Garcia",
+            "ro": "Museu Renato Lobo Garcia",
+            "en": "Museu Renato Lobo Garcia"
+          },
+          "coords": [
+            -9.469771,
+            38.795608
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende lokale Geschichte dieses charmanten Museums ein und fragen Sie das freundliche Personal nach den einzigartigen Exponaten der Region.",
+            "hu": "Merüljön el a bájos múzeum lenyűgöző helytörténeti kiállításaiban, és bátran kérdezze a barátságos személyzetet a régió egyedülálló, ritka leleteiről.",
+            "ro": "Cufundați-vă în istoria locală fascinantă la acest muzeu fermecător și întrebați personalul prietenos despre exponatele unice și rare din regiune.",
+            "en": "Immerse yourself in the fascinating local history at this charming museum, and ask the friendly staff about the unique and rare exhibits specific to this region."
+          }
+        },
+        {
+          "name": {
+            "de": "Caneiro Beach",
+            "hu": "Caneiro Beach",
+            "ro": "Caneiro Beach",
+            "en": "Caneiro Beach"
+          },
+          "coords": [
+            -9.489715,
+            38.795364
+          ],
+          "category": "recreational",
+          "arrive_at": "10:54",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die raue Schönheit dieses abgelegenen Steinstrandes und tragen Sie festes Schuhwerk, da der unebene Abstieg dorthin etwas anspruchsvoll sein kann.",
+            "hu": "Élvezze ennek a félreeső kavicsos strandnak a zord szépségét, és viseljen masszív lábbelit, mivel a lefelé vezető egyenetlen ösvény meglehetősen kihívást jelenthet.",
+            "ro": "Bucurați-vă de frumusețea accidentată a acestei plaje izolate cu pietre și purtați încălțăminte robustă, deoarece coborârea inegală poate fi destul de dificilă.",
+            "en": "Enjoy the rugged beauty of this secluded stone beach, and be sure to wear sturdy footwear as the uneven rocky descent to reach it can be quite challenging."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Cavalo",
+            "hu": "Praia do Cavalo",
+            "ro": "Praia do Cavalo",
+            "en": "Praia do Cavalo"
+          },
+          "coords": [
+            -9.486656,
+            38.801669
+          ],
+          "category": "recreational",
+          "arrive_at": "11:41",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erleben Sie die wilde Natur an diesem versteckten Küstenabschnitt, aber verzichten Sie hier wegen der unberechenbaren, gefährlichen Wellen besser auf das Schwimmen.",
+            "hu": "Tapasztalja meg a vad természetet ezen a rejtett partszakaszon, de a kiszámíthatatlan és veszélyes hullámok miatt inkább kerülje a vízben való úszást.",
+            "ro": "Experimentați natura sălbatică pe această porțiune de coastă ascunsă, dar evitați să înotați aici din cauza valurilor imprevizibile și adesea periculoase.",
+            "en": "Experience the wild, untouched nature of this hidden stretch of coastline, but refrain from swimming here due to the highly unpredictable and dangerous waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Adraga",
+            "hu": "Praia da Adraga",
+            "ro": "Praia da Adraga",
+            "en": "Praia da Adraga"
+          },
+          "coords": [
+            -9.484869,
+            38.803412
+          ],
+          "category": "recreational",
+          "arrive_at": "12:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposanten schwarzen Felsformationen an diesem malerischen Strand und kommen Sie bei Ebbe, um die versteckten Höhlen sicher zu erkunden.",
+            "hu": "Csodálja meg a lenyűgöző fekete sziklaalakzatokat ezen a festői strandon, és érkezzen apálykor, hogy biztonságosan felfedezhesse a rejtett tengeri barlangokat.",
+            "ro": "Admirați formațiunile de stâncă neagră la această plajă pitorească și veniți la reflux pentru a explora în siguranță peșterile marine ascunse printre valuri.",
+            "en": "Marvel at the dramatic black rock formations at this picturesque beach, and be sure to visit during low tide to safely explore the hidden sea caves."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia Grande do Rodízio",
+            "hu": "Praia Grande do Rodízio",
+            "ro": "Praia Grande do Rodízio",
+            "en": "Praia Grande do Rodízio"
+          },
+          "coords": [
+            -9.478185,
+            38.813193
+          ],
+          "category": "recreational",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die Weitläufigkeit dieses beliebten Surfstrandes und probieren Sie die lokalen Meeresfrüchte in den hervorragenden Restaurants entlang der Promenade.",
+            "hu": "Élvezze e nyüzsgő szörfös strand tágas homokját, és mindenképpen kóstolja meg a helyi tenger gyümölcseit a sétány kiváló tengerparti éttermeinek egyikében.",
+            "ro": "Bucurați-vă de întinderea vastă a acestei plaje populare pentru surf și savurați fructe de mare proaspete la unul dintre excelentele restaurante de pe faleză.",
+            "en": "Enjoy the vast sandy expanse of this popular surfing beach and be sure to try the fresh local seafood at one of the excellent promenade restaurants."
+          }
+        },
+        {
+          "name": {
+            "de": "Sítio Arqueológico do Alto da Vigia",
+            "hu": "Sítio Arqueológico do Alto da Vigia",
+            "ro": "Sítio Arqueológico do Alto da Vigia",
+            "en": "Sítio Arqueológico do Alto da Vigia"
+          },
+          "coords": [
+            -9.472805,
+            38.824188
+          ],
+          "category": "historical",
+          "arrive_at": "15:03",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die spannenden römischen Ruinen auf dieser spektakulären Klippe und achten Sie auf den starken Wind, während Sie den weiten Panoramablick genießen.",
+            "hu": "Fedezze fel az izgalmas római kori romokat ezen a látványos sziklán, és készüljön fel az erős szélre, miközben a tágas panorámában gyönyörködik.",
+            "ro": "Explorați ruinele romane intrigante de pe această stâncă spectaculoasă și purtați o jachetă rezistentă la vânt în timp ce vă bucurați de vizibilitatea extinsă.",
+            "en": "Explore the intriguing Roman ruins perched on this spectacular cliff, and bring a windbreaker to stay comfortable while taking in the expansive panoramic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia das Maçãs",
+            "hu": "Praia das Maçãs",
+            "ro": "Praia das Maçãs",
+            "en": "Praia das Maçãs"
+          },
+          "coords": [
+            -9.46996,
+            38.8248
+          ],
+          "category": "recreational",
+          "arrive_at": "16:04",
+          "stay_min": 45,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang des goldenen Sandes dieses familienfreundlichen Strandes und fahren Sie mit der historischen, charmanten Straßenbahn, die hier direkt endet.",
+            "hu": "Sétáljon végig a családbarát strand aranyszínű homokján, és próbálja ki a bájos történelmi villamost, amely közvetlenül a tengerpartnál fejezi be útját.",
+            "ro": "Plimbați-vă pe nisipul auriu al acestei plaje perfecte pentru familii și faceți o plimbare cu fermecătorul tramvai istoric care se termină chiar aici.",
+            "en": "Stroll along the golden sands of this family-friendly beach, and consider taking a ride on the charming historic tram that conveniently terminates right here."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento pré-histórico da Praia das Maçãs",
+            "hu": "Monumento pré-histórico da Praia das Maçãs",
+            "ro": "Monumento pré-histórico da Praia das Maçãs",
+            "en": "Monumento pré-histórico da Praia das Maçãs"
+          },
+          "coords": [
+            -9.46633,
+            38.82636
+          ],
+          "category": "historical",
+          "arrive_at": "16:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses bedeutende prähistorische Grabdenkmal in der friedlichen Natur und lesen Sie die Informationstafeln, um seine Geschichte zu verstehen.",
+            "hu": "Fedezze fel ezt a jelentős őskori síremléket a békés természeti környezetben, és olvassa el a tájékoztató táblákat a történelmi jelentőségének megértéséhez.",
+            "ro": "Descoperiți acest important monument funerar preistoric situat în natură pașnică și citiți panourile informative pentru a-i înțelege pe deplin istoria complexă.",
+            "en": "Discover this significant prehistoric burial monument set in peaceful nature, and read the on-site information boards to fully understand its deep historical roots."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittag: Beginnen Sie Ihre malerische Fahrt mit einem Besuch im Museu Renato Lobo Garcia. Fahren Sie danach auf den kurvigen Küstenstraßen, um die raue, unberührte Schönheit von Caneiro Beach und Praia do Cavalo zu entdecken.\n\nMittag: Parken Sie am Praia da Adraga, um die Klippen zu bewundern, und betrachten Sie die Dinosaurierspuren. Erreichen Sie Praia Grande do Rodízio, wo ein lebhafter Strand für ein wohlverdientes Mittagessen auf Sie wartet.\n\nNachmittag: Fahren Sie die Küstenklippe hinauf zum Sítio Arqueológico do Alto da Vigia. Die römischen Ruinen sind faszinierend, aber der Panoramablick über den weiten Atlantischen Ozean ist die wahre Hauptattraktion.\n\nAbend: Beenden Sie Ihren Roadtrip am familienfreundlichen Praia das Maçãs. Fahren Sie schließlich ein Stück ins Landesinnere, um am alten prähistorischen Denkmal einen Moment der zeitlosen Ruhe zu finden.",
+        "hu": "Délelőtt: Kezdje festői autózását a helyi örökség megismerésével a Museu Renato Lobo Garcia múzeumban. Ezután navigáljon a kanyargós parti utakon, és fedezze fel a Caneiro és a Praia do Cavalo érintetlen, zord szépségét.\n\nDél: Parkoljon le a Praia da Adraga közelében, majd tegyen egy gyors kitérőt a dinoszauruszok lábnyomainak megtekintésére. Érkezzen a Praia Grande do Rodízio strandra, ahol egy nyüzsgő part várja a jól megérdemelt ebéddel.\n\nDélután: Hajtson fel a parti sziklára, az Alto da Vigia régészeti lelőhelyhez. A római romok is lenyűgözőek, de a hatalmas Atlanti-óceánra nyíló panoráma az, ami igazán megkoronázza a látványt.\n\nEste: Zárja autós utazását a családbarát Praia das Maçãs strand meglátogatásával. Végül hajtson kissé a szárazföld belsejébe, hogy az ősi történelem előtti emlékműnél merengve békésen zárja a napot.",
+        "ro": "Dimineața: Începeți traseul pitoresc explorând moștenirea locală la Museu Renato Lobo Garcia. Apoi, navigați pe drumurile șerpuite de coastă pentru a descoperi frumusețea aspră și neatinsă de la Caneiro și Praia do Cavalo.\n\nAmiază: Parcați lângă Praia da Adraga pentru a admira stâncile, apoi opriți-vă pentru a vedea urmele de dinozaur. Ajungeți la Praia Grande do Rodízio, unde vă așteaptă o plajă vibrantă pentru un prânz binemeritat.\n\nDupă-amiaza: Conduceți pe faleză până la Sítio Arqueológico do Alto da Vigia. Ruinele romane de aici sunt fascinante, dar vederile panoramice asupra vastului Ocean Atlantic sunt cu adevărat atracția principală.\n\nSeara: Încheiați călătoria cu o vizită la plaja Praia das Maçãs. La final, mergeți ușor spre interior pentru a reflecta la vechiul monument preistoric, aducând un sentiment de pace atemporală călătoriei dumneavoastră.",
+        "en": "Morning: Begin your scenic drive by delving into local heritage at Museu Renato Lobo Garcia. Afterwards, navigate the winding coastal roads to discover the rugged, untouched beauty of Caneiro Beach and Praia do Cavalo.\n\nMidday: Park near Praia da Adraga to admire the black cliffs, then make a quick stop to view the ancient dinosaur footprints. Arrive at Praia Grande do Rodízio, where a vibrant beachfront awaits for a well-deserved lunch.\n\nAfternoon: Drive up the coastal bluff to the Sítio Arqueológico do Alto da Vigia. The Roman ruins here are fascinating, but the panoramic views over the vast Atlantic Ocean are truly the main attraction.\n\nEvening: Conclude your road trip with a visit to the family-friendly Praia das Maçãs. Finally, drive slightly inland to reflect at the ancient prehistoric monument, bringing a sense of timeless peace to your coastal journey."
+      }
+    }
+  }
+}

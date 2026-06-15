@@ -1,0 +1,451 @@
+{
+  "city_id": "saint-jean-de-monts",
+  "anchor": {
+    "name": "Saint-Jean-de-Monts",
+    "coords": [
+      -2.0603,
+      46.7928
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:04",
+      "total_km": 2.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Jean-Baptiste Church",
+            "hu": "Saint-Jean-Baptiste Church",
+            "ro": "Saint-Jean-Baptiste Church",
+            "en": "Saint-Jean-Baptiste Church"
+          },
+          "coords": [
+            -2.061628,
+            46.793208
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schönen Buntglasfenster und das friedliche Innere dieser historischen Pfarrkirche, aber denken Sie daran, bei den Morgengottesdiensten leise zu sein.",
+            "hu": "Csodálja meg a történelmi plébániatemplom gyönyörű ólomüveg ablakait és békés belső terét, de ne felejtsen el csendben maradni a reggeli misék alatt.",
+            "ro": "Admirați vitraliile frumoase și interiorul liniștit al acestei biserici parohiale istorice, dar nu uitați să păstrați liniștea în timpul slujbelor de dimineață.",
+            "en": "Admire the beautiful stained glass and peaceful interior of this historic parish church, but remember to keep your voice down during morning services."
+          }
+        },
+        {
+          "name": {
+            "de": "Casino of Saint-Jean-de-Monts",
+            "hu": "Casino of Saint-Jean-de-Monts",
+            "ro": "Casino of Saint-Jean-de-Monts",
+            "en": "Casino of Saint-Jean-de-Monts"
+          },
+          "coords": [
+            -2.071115,
+            46.787457
+          ],
+          "category": "recreational",
+          "arrive_at": "10:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Versuchen Sie Ihr Glück oder genießen Sie einfach die lebhaften Unterhaltungsangebote im örtlichen Casino, wobei Sie für den Einlass in die Spielbereiche Ihren Ausweis mitbringen sollten.",
+            "hu": "Próbálja ki szerencséjét vagy egyszerűen csak élvezze a helyi kaszinó nyüzsgő szórakoztató lehetőségeit, és mindenképpen vigye magával személyi igazolványát a belépéshez.",
+            "ro": "Încercați-vă norocul sau pur și simplu bucurați-vă de opțiunile vibrante de divertisment de la cazinoul local, asigurându-vă că aveți buletinul la dumneavoastră pentru acces.",
+            "en": "Try your luck or simply enjoy the vibrant entertainment options at the local casino, making sure to bring your ID for entry to the gaming areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Oiseaux",
+            "hu": "Plage des Oiseaux",
+            "ro": "Plage des Oiseaux",
+            "en": "Plage des Oiseaux"
+          },
+          "coords": [
+            -2.070579,
+            46.779971
+          ],
+          "category": "recreational",
+          "arrive_at": "11:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem unberührten, weitläufigen Sandstrand, der sich perfekt für Vogelbeobachtungen eignet; bringen Sie am besten eine Windjacke mit.",
+            "hu": "Pihenjen ezen az érintetlen, kiterjedt homokos tengerparton, amely tökéletes madárleshez és családi piknikekhez, ezért erősen ajánlott széldzsekit hozni.",
+            "ro": "Relaxați-vă pe această plajă de nisip curată, ideală pentru observarea păsărilor și picnicuri în familie, așa că este foarte recomandat să aduceți o jachetă de vânt.",
+            "en": "Relax on this pristine, expansive sandy beach which is perfect for bird-watching and family picnics, so it is highly recommended to bring a windbreaker."
+          }
+        },
+        {
+          "name": {
+            "de": "Océabul",
+            "hu": "Océabul",
+            "ro": "Océabul",
+            "en": "Océabul"
+          },
+          "coords": [
+            -2.064005,
+            46.778963
+          ],
+          "category": "family",
+          "arrive_at": "12:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Planschen Sie mit der Familie in diesem fantastischen Indoor-Wasserpark mit Meerblick und buchen Sie Ihre Tickets online, um die langen Warteschlangen zu umgehen.",
+            "hu": "Pancsoljon a családdal ebben a fantasztikus, óceánra néző fedett víziparkban, és foglalja le jegyeit online, hogy elkerülje a hosszú délutáni sorban állást.",
+            "ro": "Distrați-vă cu familia în acest parc acvatic interior fantastic cu vedere la ocean și rezervați-vă biletele online pentru a evita cozile lungi de după-amiază.",
+            "en": "Splash around with the family at this fantastic indoor water park with ocean views, and book your tickets online to skip the long afternoon queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Demoiselles",
+            "hu": "Plage des Demoiselles",
+            "ro": "Plage des Demoiselles",
+            "en": "Plage des Demoiselles"
+          },
+          "coords": [
+            -2.061314,
+            46.774674
+          ],
+          "category": "recreational",
+          "arrive_at": "14:19",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang dieser lebhaften Promenade am beliebten Strand, der für seinen weichen Sand bekannt ist, und probieren Sie unbedingt das lokale Eis.",
+            "hu": "Sétáljon végig ezen a nyüzsgő sétányon és népszerű strandon, amely finom homokjáról híres, és mindenképpen kóstolja meg a közelben árult helyi fagylaltot.",
+            "ro": "Plimbați-vă pe această promenadă plină de viață și plajă populară, cunoscută pentru nisipul fin, și asigurați-vă că încercați înghețata locală vândută în apropiere.",
+            "en": "Stroll along this lively promenade and popular beach known for its soft sand and sunset views, and be sure to try the local ice cream sold nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt im Herzen der Stadt, wo wir die friedliche Pfarrkirche besichtigen. Danach spazieren wir gemütlich zum Casino, um etwas lokale Unterhaltung zu schnuppern. Am Nachmittag geht es dann weiter an die weiten Sandstrände, zunächst zum Plage des Oiseaux. Danach erwartet uns Wasserspaß im Océabul, bevor wir den Tag am Plage des Demoiselles ausklingen lassen.",
+        "hu": "A nap a város szívében kezdődik a békés plébániatemplom meglátogatásával. Ezután kényelmes sétát teszünk a kaszinóhoz, hogy egy kis helyi szórakozásban legyen részünk. Délután a végtelen homokos strandok felé vesszük az irányt, kezdve a Plage des Oiseaux-val, majd az Océabul vízipark következik. Végül a Plage des Demoiselles csodás naplementéjével zárjuk a napot.",
+        "ro": "Ziua începe în inima orașului, vizitând biserica parohială liniștită, înainte de a ne plimba spre cazinou pentru o notă de divertisment local. După-amiaza este dedicată plajelor largi de nisip, pornind spre Plage des Oiseaux. Urmează distracția acvatică la Océabul, iar în final vom admira culorile apusului pe populara Plage des Demoiselles.",
+        "en": "The day begins in the heart of town, visiting the peaceful parish church before strolling to the casino for a touch of local entertainment. The afternoon is dedicated to the expansive sandy beaches, starting with the beautiful Plage des Oiseaux. We then head for aquatic fun at Océabul before finally winding down with sunset views at Plage des Demoiselles."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:24",
+      "total_km": 7.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Jean-Baptiste Church",
+            "hu": "Saint-Jean-Baptiste Church",
+            "ro": "Saint-Jean-Baptiste Church",
+            "en": "Saint-Jean-Baptiste Church"
+          },
+          "coords": [
+            -2.061628,
+            46.793208
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schönen Buntglasfenster und das friedliche Innere dieser historischen Pfarrkirche, aber denken Sie daran, bei den Morgengottesdiensten leise zu sein.",
+            "hu": "Csodálja meg a történelmi plébániatemplom gyönyörű ólomüveg ablakait és békés belső terét, de ne felejtsen el csendben maradni a reggeli misék alatt.",
+            "ro": "Admirați vitraliile frumoase și interiorul liniștit al acestei biserici parohiale istorice, dar nu uitați să păstrați liniștea în timpul slujbelor de dimineață.",
+            "en": "Admire the beautiful stained glass and peaceful interior of this historic parish church, but remember to keep your voice down during morning services."
+          }
+        },
+        {
+          "name": {
+            "de": "L'Estacade",
+            "hu": "L'Estacade",
+            "ro": "L'Estacade",
+            "en": "L'Estacade"
+          },
+          "coords": [
+            -2.083262,
+            46.790485
+          ],
+          "category": "historical",
+          "arrive_at": "10:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Gehen Sie auf diesem ikonischen Holzpier spazieren, der sich für spektakuläre Ausblicke in den Ozean erstreckt, aber halten Sie Ihren Hut fest, da die Brise stark sein kann.",
+            "hu": "Sétáljon végig ezen az ikonikus fapilléren, amely az óceánba nyúlik látványos panorámát nyújtva, de fogja meg a kalapját, mert a tengeri szél meglehetősen erős lehet.",
+            "ro": "Mergeți pe acest ponton de lemn iconic care se întinde în ocean pentru vederi panoramice spectaculoase, dar țineți-vă pălăria deoarece briza mării poate fi puternică.",
+            "en": "Walk down this iconic wooden pier that extends into the ocean for spectacular panoramic views, but hold onto your hat as the sea breeze can be quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de l'Estacade",
+            "hu": "Plage de l'Estacade",
+            "ro": "Plage de l'Estacade",
+            "en": "Plage de l'Estacade"
+          },
+          "coords": [
+            -2.083823,
+            46.785909
+          ],
+          "category": "recreational",
+          "arrive_at": "11:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie ein friedliches Stranderlebnis direkt neben dem berühmten Pier mit hervorragenden Möglichkeiten zur Wellenbeobachtung, und prüfen Sie vorher die Gezeiten.",
+            "hu": "Élvezze a békés strandolást közvetlenül a híres móló mellett, kiváló hullámnézési lehetőségekkel, és úszás előtt mindenképpen ellenőrizze az árapály-menetrendet.",
+            "ro": "Bucurați-vă de o experiență pașnică pe plajă chiar lângă celebrul ponton, având grijă să verificați programul zilnic al mareelor înainte de a înota în mare.",
+            "en": "Enjoy a peaceful beach experience right next to the famous pier with excellent wave-watching opportunities, taking care to check the daily tide schedules before swimming."
+          }
+        },
+        {
+          "name": {
+            "de": "Casino of Saint-Jean-de-Monts",
+            "hu": "Casino of Saint-Jean-de-Monts",
+            "ro": "Casino of Saint-Jean-de-Monts",
+            "en": "Casino of Saint-Jean-de-Monts"
+          },
+          "coords": [
+            -2.071115,
+            46.787457
+          ],
+          "category": "recreational",
+          "arrive_at": "12:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Versuchen Sie Ihr Glück oder genießen Sie einfach die lebhaften Unterhaltungsangebote im örtlichen Casino, wobei Sie für den Einlass in die Spielbereiche Ihren Ausweis mitbringen sollten.",
+            "hu": "Próbálja ki szerencséjét vagy egyszerűen csak élvezze a helyi kaszinó nyüzsgő szórakoztató lehetőségeit, és mindenképpen vigye magával személyi igazolványát a belépéshez.",
+            "ro": "Încercați-vă norocul sau pur și simplu bucurați-vă de opțiunile vibrante de divertisment de la cazinoul local, asigurându-vă că aveți buletinul la dumneavoastră.",
+            "en": "Try your luck or simply enjoy the vibrant entertainment options at the local casino, making sure to bring your ID for entry to the gaming areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Oiseaux",
+            "hu": "Plage des Oiseaux",
+            "ro": "Plage des Oiseaux",
+            "en": "Plage des Oiseaux"
+          },
+          "coords": [
+            -2.070579,
+            46.779971
+          ],
+          "category": "recreational",
+          "arrive_at": "14:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem unberührten, weitläufigen Sandstrand, der sich perfekt für Vogelbeobachtungen eignet; bringen Sie am besten eine Windjacke mit.",
+            "hu": "Pihenjen ezen az érintetlen, kiterjedt homokos tengerparton, amely tökéletes madárleshez és családi piknikekhez, ezért erősen ajánlott széldzsekit hozni.",
+            "ro": "Relaxați-vă pe această plajă de nisip curată, ideală pentru observarea păsărilor și picnicuri în familie, așa că este foarte recomandat să aduceți o jachetă de vânt.",
+            "en": "Relax on this pristine, expansive sandy beach which is perfect for bird-watching and family picnics, so it is highly recommended to bring a windbreaker."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Davière",
+            "hu": "Plage de la Davière",
+            "ro": "Plage de la Davière",
+            "en": "Plage de la Davière"
+          },
+          "coords": [
+            -2.109383,
+            46.798389
+          ],
+          "category": "recreational",
+          "arrive_at": "15:39",
+          "stay_min": 105,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen an diesem rauen, natürlichen Küstenstreifen, der von Pinienwäldern gesäumt wird; packen Sie eigene Snacks ein, da die Einrichtungen begrenzt sind.",
+            "hu": "Meneküljön el a tömeg elől ezen a vadregényes és természetes tengerparti szakaszon, és hozzon magával saját rágcsálnivalót, mivel a létesítmények nagyon korlátozottak.",
+            "ro": "Scăpați de aglomerație pe această întindere stâncoasă și naturală a coastei susținută de păduri de pini, luându-vă propriile gustări deoarece facilitățile sunt limitate.",
+            "en": "Escape the crowds at this rugged and natural stretch of the coastline backed by pine forests, packing your own snacks and water as facilities are very limited."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour beginnt mit einem Besuch der historischen Kirche, gefolgt von einer Fahrt zum berühmten L'Estacade-Pier. Wir radeln entlang der Küste zum Casino und entspannen am Plage des Oiseaux. Am Nachmittag führt uns die Route weiter nach Norden zum ruhigen Plage de la Davière, wo wir die raue Natur genießen.",
+        "hu": "Ez a kerékpártúra a történelmi templom meglátogatásával indul, majd a híres L'Estacade mólóhoz tekerünk. A part mentén haladva érintjük a kaszinót és a Plage des Oiseaux-t. Délután az útvonal észak felé, a csendes Plage de la Davière felé vezet, ahol élvezhetjük az érintetlen partvidéket.",
+        "ro": "Acest tur cu bicicleta începe cu o vizită la biserica istorică, urmată de o plimbare spre faimosul ponton L'Estacade. Pedalăm de-a lungul coastei pentru a vedea cazinoul și a ne relaxa la Plage des Oiseaux. După-amiaza, traseul ne duce mai la nord spre liniștita Plage de la Davière pentru natură sălbatică.",
+        "en": "This cycling route starts with a visit to the historic church, followed by a ride to the famous L'Estacade pier. We pedal along the scenic coastline to check out the casino and relax at Plage des Oiseaux. In the afternoon, the route takes us further north to the tranquil Plage de la Davière to enjoy the rugged coastal beauty."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:22",
+      "total_km": 18.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "L'Estacade",
+            "hu": "L'Estacade",
+            "ro": "L'Estacade",
+            "en": "L'Estacade"
+          },
+          "coords": [
+            -2.083262,
+            46.790485
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Gehen Sie auf diesem ikonischen Holzpier spazieren, der sich für spektakuläre Ausblicke in den Ozean erstreckt, aber halten Sie Ihren Hut fest, da die Brise stark sein kann.",
+            "hu": "Sétáljon végig ezen az ikonikus fapilléren, amely az óceánba nyúlik látványos panorámát nyújtva, de fogja meg a kalapját, mert a tengeri szél meglehetősen erős lehet.",
+            "ro": "Mergeți pe acest ponton de lemn iconic care se întinde în ocean pentru vederi panoramice spectaculoase, dar țineți-vă pălăria deoarece briza mării poate fi puternică.",
+            "en": "Walk down this iconic wooden pier that extends into the ocean for spectacular panoramic views, but hold onto your hat as the sea breeze can be quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Jean-Baptiste Church",
+            "hu": "Saint-Jean-Baptiste Church",
+            "ro": "Saint-Jean-Baptiste Church",
+            "en": "Saint-Jean-Baptiste Church"
+          },
+          "coords": [
+            -2.061628,
+            46.793208
+          ],
+          "category": "religious",
+          "arrive_at": "10:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schönen Buntglasfenster und das friedliche Innere dieser historischen Pfarrkirche, aber denken Sie daran, bei den Morgengottesdiensten leise zu sein.",
+            "hu": "Csodálja meg a történelmi plébániatemplom gyönyörű ólomüveg ablakait és békés belső terét, de ne felejtsen el csendben maradni a reggeli misék alatt.",
+            "ro": "Admirați vitraliile frumoase și interiorul liniștit al acestei biserici parohiale istorice, dar nu uitați să păstrați liniștea în timpul slujbelor de dimineață.",
+            "en": "Admire the beautiful stained glass and peaceful interior of this historic parish church, but remember to keep your voice down during morning services."
+          }
+        },
+        {
+          "name": {
+            "de": "Pays de Monts National Forest",
+            "hu": "Pays de Monts National Forest",
+            "ro": "Pays de Monts National Forest",
+            "en": "Pays de Monts National Forest"
+          },
+          "coords": [
+            -1.984444,
+            46.730833
+          ],
+          "category": "natural",
+          "arrive_at": "11:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die Ruhe dieses riesigen Küstenkiefernwaldes mit kilometerlangen schattigen Wegen, aber vergessen Sie nicht, im Sommer Insektenschutzmittel aufzutragen.",
+            "hu": "Merüljön el ennek a hatalmas tengerparti fenyőerdőnek a nyugalmában az árnyékos ösvényeken, de ne felejtse el a rovarriasztót használni a nyári hónapokban.",
+            "ro": "Cufundați-vă în liniștea acestei vaste păduri de pini de coastă cu trasee umbrite, dar nu uitați să aplicați spray împotriva insectelor în timpul lunilor de vară.",
+            "en": "Immerse yourself in the tranquility of this vast coastal pine forest with miles of shaded trails, but don't forget to apply insect repellent during the summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Salins",
+            "hu": "Les Salins",
+            "ro": "Les Salins",
+            "en": "Les Salins"
+          },
+          "coords": [
+            -2.042186,
+            46.761653
+          ],
+          "category": "recreational",
+          "arrive_at": "13:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden historischen Salinen, in denen sich Natur und lokales Erbe perfekt vermischen; tragen Sie bequeme Wanderschuhe für die unebenen Wege.",
+            "hu": "Fedezze fel a lenyűgöző történelmi sólepárlókat, ahol a természet és a helyi örökség tökéletesen ötvöződik, és viseljen kényelmes cipőt az egyenetlen földutakon.",
+            "ro": "Descoperiți mlaștinile istorice de sare fascinante unde natura și moștenirea locală se îmbină perfect, purtând pantofi comozi pentru a naviga pe potecile inegale de pământ.",
+            "en": "Discover the fascinating historical salt marshes where nature and local heritage perfectly blend, wearing comfortable walking shoes to navigate the uneven dirt paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Soixante Bornes",
+            "hu": "Les Soixante Bornes",
+            "ro": "Les Soixante Bornes",
+            "en": "Les Soixante Bornes"
+          },
+          "coords": [
+            -2.051126,
+            46.767635
+          ],
+          "category": "recreational",
+          "arrive_at": "14:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses charmante Naturerholungsgebiet, das von Einheimischen für Nachmittagsspaziergänge geliebt wird, und halten Sie Ausschau nach der lokalen Flora.",
+            "hu": "Fedezze fel ezt a bájos természetes rekreációs területet, amelyet a helyiek is kedvelnek délutáni sétákhoz, és tartsa nyitva a szemét a változatos helyi növényvilágra.",
+            "ro": "Explorați această fermecătoare zonă de recreere naturală îndrăgită de localnici pentru plimbările de după-amiază și fiți atenți la flora și fauna locală diversă.",
+            "en": "Explore this charming natural recreational area that is beloved by locals for afternoon walks, and keep an eye out for the diverse local flora and fauna."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Demoiselles",
+            "hu": "Plage des Demoiselles",
+            "ro": "Plage des Demoiselles",
+            "en": "Plage des Demoiselles"
+          },
+          "coords": [
+            -2.061314,
+            46.774674
+          ],
+          "category": "recreational",
+          "arrive_at": "15:37",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang dieser lebhaften Promenade am beliebten Strand, der für seinen weichen Sand bekannt ist, und probieren Sie unbedingt das lokale Eis.",
+            "hu": "Sétáljon végig ezen a nyüzsgő sétányon és népszerű strandon, amely finom homokjáról híres, és mindenképpen kóstolja meg a közelben árult helyi fagylaltot.",
+            "ro": "Plimbați-vă pe această promenadă plină de viață și plajă populară, cunoscută pentru nisipul fin, și asigurați-vă că încercați înghețata locală vândută în apropiere.",
+            "en": "Stroll along this lively promenade and popular beach known for its soft sand and sunset views, and be sure to try the local ice cream sold nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir starten am Wahrzeichen L'Estacade für einen fantastischen Meerblick und besichtigen dann die Kirche im Zentrum. Danach fahren wir in den Nationalwald Pays de Monts. Der Nachmittag bietet eine Erkundung der historischen Salinen von Les Salins und der Natur bei Les Soixante Bornes, bevor der Tag am Plage des Demoiselles endet.",
+        "hu": "A napot a lenyűgöző tengeri kilátást nyújtó L'Estacade mólónál kezdjük, majd a központi templomot nézzük meg. Ezután a Pays de Monts nemzeti erdő fenyői közé hajtunk. A délután a Les Salins történelmi sólepárlóinak és a Les Soixante Bornes természetének felfedezésével telik, végül a Plage des Demoiselles strandon pihenünk meg.",
+        "ro": "Începem la faimosul ponton L'Estacade pentru o vedere fantastică la mare, apoi vizităm biserica din centru. Conducem apoi spre pădurea națională Pays de Monts. După-amiaza explorăm mlaștinile istorice de sare Les Salins și natura din Les Soixante Bornes, înainte de a încheia ziua relaxându-ne pe Plage des Demoiselles.",
+        "en": "We start at the landmark L'Estacade for fantastic sea views, then visit the central church. From there, we drive into the lush pine canopy of the Pays de Monts National Forest. The afternoon features an exploration of the historic salt marshes at Les Salins and nature at Les Soixante Bornes, finishing up at Plage des Demoiselles."
+      }
+    }
+  }
+}

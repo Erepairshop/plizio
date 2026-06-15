@@ -1,0 +1,520 @@
+{
+  "city_id": "thailand-cha-am-cities-v2",
+  "anchor": {
+    "name": "Cha-am",
+    "coords": [
+      99.966944,
+      12.799722
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:02",
+      "total_km": 4.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cha-am Fresh Market",
+            "hu": "Cha-am Friss Piac",
+            "ro": "Piața de alimente proaspete Cha-am",
+            "en": "Cha-am Fresh Market"
+          },
+          "coords": [
+            99.96683,
+            12.795634
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erleben Sie das lokale Leben zwischen den frischen Meeresfrüchteständen und kommen Sie früh, bevor die besten Fänge für Ihr perfektes Frühstück ausverkauft sind.",
+            "hu": "Tapasztalja meg a helyi életet a friss tenger gyümölcsei standjainál, és érkezzen korán, mielőtt elkapkodják a legjobb fogásokat a tökéletes reggelihez.",
+            "ro": "Experimentați viața locală printre tarabele cu fructe de mare proaspete și ajungeți devreme înainte ca cele mai bune capturi pentru micul dejun să se epuizeze.",
+            "en": "Taste local daily life among fresh seafood stalls, and remember to come early before the best catches sell out for your perfect breakfast."
+          }
+        },
+        {
+          "name": {
+            "de": "Cha-am Local Cultural Center",
+            "hu": "Cha-am Helyi Kulturális Központ",
+            "ro": "Centrul Cultural Local Cha-am",
+            "en": "Cha-am Local Cultural Center"
+          },
+          "coords": [
+            99.970225,
+            12.79836
+          ],
+          "category": "museum",
+          "arrive_at": "10:07",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte der Küstenstadt durch regionale Artefakte, aber fragen Sie unbedingt das freundliche Personal nach weiteren Einblicken.",
+            "hu": "Fedezze fel a tengerparti város lenyűgöző történelmét a regionális leleteken keresztül, és mindenképpen kérjen bátran további háttér-információkat a kedves személyzettől.",
+            "ro": "Descoperiți istoria fascinantă a acestui oraș de coastă prin artefacte regionale și asigurați-vă că cereți personalului prietenos informații suplimentare.",
+            "en": "Discover the fascinating history of this coastal town through its regional artifacts, but make sure to ask the friendly staff for guided insights."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Cha-am Khiri",
+            "hu": "Wat Cha-am Khiri",
+            "ro": "Wat Cha-am Khiri",
+            "en": "Wat Cha-am Khiri"
+          },
+          "coords": [
+            99.960229,
+            12.802127
+          ],
+          "category": "landmark",
+          "arrive_at": "12:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.18,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Stufen zum stimmungsvollen Höhlenschrein, um wunderschöne Buddhastatuen zu bewundern, aber tragen Sie für den steilen Aufstieg bequeme Schuhe.",
+            "hu": "Másszon fel a hangulatos barlangszentély lépcsőin a gyönyörű Buddha-szobrok megcsodálásához, de a meredek emelkedőhöz mindenképpen kényelmes cipőt viseljen.",
+            "ro": "Urcați treptele spre altarul din peșteră pentru a admira frumoasele statui ale lui Buddha, dar purtați neapărat încălțăminte confortabilă pentru urcușul abrupt.",
+            "en": "Climb the steps to the atmospheric cave shrine to admire the beautiful Buddha statues, but wear comfortable shoes for the slightly steep ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Cha-am Night Market",
+            "hu": "Cha-am Éjszakai Piac",
+            "ro": "Piața de noapte Cha-am",
+            "en": "Cha-am Night Market"
+          },
+          "coords": [
+            99.96678,
+            12.799138
+          ],
+          "category": "landmark",
+          "arrive_at": "12:57",
+          "stay_min": 50,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.78,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die abendliche Atmosphäre mit unglaublichem Streetfood ein, also bringen Sie viel Kleingeld für all die köstlichen thailändischen Snacks mit.",
+            "hu": "Merüljön el a nyüzsgő esti hangulatban, amely hihetetlen utcai ételeket kínál, ezért hozzon magával sok aprót a finom helyi thai falatokhoz.",
+            "ro": "Cufundați-vă în atmosfera vibrantă de seară, cu mâncare stradală incredibilă, așa că aduceți mărunt pentru toate acele gustări locale delicioase thailandeze.",
+            "en": "Immerse yourself in the bustling evening vibe offering incredible street food, so bring plenty of small change for delicious local Thai snacks."
+          }
+        },
+        {
+          "name": {
+            "de": "Cha-am Beach",
+            "hu": "Cha-am Tengerpart",
+            "ro": "Plaja Cha-am",
+            "en": "Cha-am Beach"
+          },
+          "coords": [
+            99.984295,
+            12.794222
+          ],
+          "category": "natural",
+          "arrive_at": "14:17",
+          "stay_min": 105,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den weitläufigen, von Kasuarinen gesäumten Sandstränden und sichern Sie sich eine Sonnenliege am nördlichen Ende für ein ruhigeres Erlebnis.",
+            "hu": "Pihenjen a gyönyörű kazuárfákkal szegélyezett kiterjedt, aranyhomokos tengerparton, és válasszon egy napozóágyat az északi végén a nyugodtabb élményért.",
+            "ro": "Relaxați-vă pe nisipurile aurii mărginite de casuarine frumoase și luați un șezlong lângă capătul nordic pentru o experiență mult mai liniștită la soare.",
+            "en": "Relax on the expansive, golden sands framed by beautiful casuarina trees, and grab a sunbed near the northern end for a much quieter experience."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt inmitten der lebhaften Stände des Fresh Market, was einen Einblick in den thailändischen Alltag bietet, bevor Sie in das Erbe im Kulturzentrum eintauchen.\n\nWenn die Sonne höher steigt, erkunden Sie den mystischen Höhlenschrein im Wat Cha-am Khiri und erleben Sie einen Moment der Ruhe abseits der Touristenpfade.\n\nDer Nachmittag führt Sie zu einem belebten Markt für schnelle Snacks, bevor Sie zum ausgedehnten Cha-am Beach schlendern, um sich unter den Pinien zu entspannen.\n\nBeenden Sie Ihre Tour, während die Küstenbrise die Luft abkühlt, und kehren Sie ins Zentrum zurück, wo der lebhafte Nachtmarkt köstliches Streetfood verspricht.",
+        "hu": "A napja a helyi friss piac nyüzsgő standjai között kezdődik, bepillantást nyújtva a mindennapi thai életbe, mielőtt elmerülne a város gazdag örökségében a Kulturális Központban.\n\nAhogy a nap magasabbra hág, fedezze fel a Wat Cha-am Khiri misztikus barlangszentélyét, ahol a nyugalmat a fő turistaútvonalaktól távol is megtapasztalhatja.\n\nA délután egy nyüzsgő helyi piacra viszi Önt gyors harapnivalókért, majd a kiterjedt Cha-am tengerpartra sétálhat, hogy jól megérdemelt pihenést töltsön a fenyők alatt.\n\nFejezze be sétáját, amikor a tengerparti szellő lehűti a levegőt, és térjen vissza a központba, ahol a nyüzsgő éjszakai piac finom utcai ételeket ígér.",
+        "ro": "Ziua dvs. începe printre tarabele animate ale pieței locale, oferind o privire în viața de zi cu zi thailandeză înainte de a explora moștenirea orașului la Centrul Cultural.\n\nPe măsură ce soarele urcă, explorați altarul mistic din peșteră de la Wat Cha-am Khiri, experimentând un moment de seninătate departe de principalele rute turistice.\n\nDupă-amiaza vă aduce într-o piață locală plină de viață pentru a lua gustări rapide înainte de a vă plimba spre plaja întinsă Cha-am pentru relaxare binemeritată.\n\nÎncheiați-vă turul în timp ce briza de coastă răcorește aerul, întorcându-vă spre centru unde piața vibrantă de noapte promite mâncare stradală delicioasă și suveniruri fermecătoare.",
+        "en": "Your day starts amidst the lively stalls of the local Fresh Market, offering a true glimpse into daily Thai life before diving into the town's rich heritage at the Cultural Center.\n\nAs the sun rises higher, explore the mystical cave shrine at Wat Cha-am Khiri, experiencing a moment of serenity away from the main tourist paths.\n\nThe afternoon brings you to a bustling local market area to grab quick snacks before strolling down to the extensive Cha-am Beach for some well-deserved relaxation under the pines.\n\nConclude your walking tour as the coastal breeze cools the air, returning towards the center where the vibrant Night Market promises delicious street food and charming local souvenirs."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:18",
+      "total_km": 9.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cha-am Fresh Market",
+            "hu": "Cha-am Friss Piac",
+            "ro": "Piața de alimente proaspete Cha-am",
+            "en": "Cha-am Fresh Market"
+          },
+          "coords": [
+            99.96683,
+            12.795634
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erleben Sie das lokale Leben zwischen den frischen Meeresfrüchteständen und kommen Sie früh, bevor die besten Fänge für Ihr perfektes Frühstück ausverkauft sind.",
+            "hu": "Tapasztalja meg a helyi életet a friss tenger gyümölcsei standjainál, és érkezzen korán, mielőtt elkapkodják a legjobb fogásokat a tökéletes reggelihez.",
+            "ro": "Experimentați viața locală printre tarabele cu fructe de mare proaspete și ajungeți devreme înainte ca cele mai bune capturi pentru micul dejun să se epuizeze.",
+            "en": "Taste local daily life among fresh seafood stalls, and remember to come early before the best catches sell out for your perfect breakfast."
+          }
+        },
+        {
+          "name": {
+            "de": "Cha-am Local Cultural Center",
+            "hu": "Cha-am Helyi Kulturális Központ",
+            "ro": "Centrul Cultural Local Cha-am",
+            "en": "Cha-am Local Cultural Center"
+          },
+          "coords": [
+            99.970225,
+            12.79836
+          ],
+          "category": "museum",
+          "arrive_at": "10:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte der Küstenstadt durch regionale Artefakte, aber fragen Sie unbedingt das freundliche Personal nach weiteren Einblicken.",
+            "hu": "Fedezze fel a tengerparti város lenyűgöző történelmét a regionális leleteken keresztül, és mindenképpen kérjen bátran további háttér-információkat a kedves személyzettől.",
+            "ro": "Descoperiți istoria fascinantă a acestui oraș de coastă prin artefacte regionale și asigurați-vă că cereți personalului prietenos informații suplimentare.",
+            "en": "Discover the fascinating history of this coastal town through its regional artifacts, but make sure to ask the friendly staff for guided insights."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Cha-am Khiri",
+            "hu": "Wat Cha-am Khiri",
+            "ro": "Wat Cha-am Khiri",
+            "en": "Wat Cha-am Khiri"
+          },
+          "coords": [
+            99.960229,
+            12.802127
+          ],
+          "category": "landmark",
+          "arrive_at": "11:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.18,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Stufen zum stimmungsvollen Höhlenschrein, um wunderschöne Buddhastatuen zu bewundern, aber tragen Sie für den steilen Aufstieg bequeme Schuhe.",
+            "hu": "Másszon fel a hangulatos barlangszentély lépcsőin a gyönyörű Buddha-szobrok megcsodálásához, de a meredek emelkedőhöz mindenképpen kényelmes cipőt viseljen.",
+            "ro": "Urcați treptele spre altarul din peșteră pentru a admira frumoasele statui ale lui Buddha, dar purtați neapărat încălțăminte confortabilă pentru urcușul abrupt.",
+            "en": "Climb the steps to the atmospheric cave shrine to admire the beautiful Buddha statues, but wear comfortable shoes for the slightly steep ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Me Sook Fresh Market",
+            "hu": "Me Sook Friss Piac",
+            "ro": "Piața Me Sook",
+            "en": "Me Sook Fresh Market"
+          },
+          "coords": [
+            99.978067,
+            12.807604
+          ],
+          "category": "cultural",
+          "arrive_at": "12:41",
+          "stay_min": 50,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.05,
+          "tip_5lang": {
+            "de": "Stöbern Sie durch diesen authentischen Markt voller aromatischer Gewürze und frischer Produkte und probieren Sie unbedingt die gegrillten Spieße als schnellen Snack.",
+            "hu": "Böngésszen ezen az aromás fűszerekkel és friss termékekkel teli autentikus piacon, és mindenképpen kóstolja meg a grillezett nyársakat egy gyors déli falatként.",
+            "ro": "Răsfoiți această piață autentică de cartier plină de condimente aromate și produse proaspete și asigurați-vă că încercați frigăruile la grătar ca o gustare rapidă.",
+            "en": "Browse this authentic neighborhood market filled with aromatic spices and fresh produce, and try the grilled skewers for a quick midday snack."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Neranchararam",
+            "hu": "Wat Neranchararam",
+            "ro": "Wat Neranchararam",
+            "en": "Wat Neranchararam"
+          },
+          "coords": [
+            99.990269,
+            12.814068
+          ],
+          "category": "landmark",
+          "arrive_at": "13:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.52,
+          "tip_5lang": {
+            "de": "Bewundern Sie die einzigartige sechsarmige Statue von Phra Pit-thawan, die das Ufer bewacht, und halten Sie beim Betreten des Tempels Ihre Schultern bedeckt.",
+            "hu": "Csodálja meg a partot őrző hatkarú Phra Pit-thawan egyedülálló szobrát, és ne felejtse el eltakarni a vállát, amikor belép az ősi templom szentelt területére.",
+            "ro": "Admirați statuia unică cu șase brațe a lui Phra Pit-thawan care păzește țărmul și nu uitați să vă acoperiți umerii atunci când intrați pe terenul templului.",
+            "en": "Marvel at the unique six-armed statue of Phra Pit-thawan guarding the shore, and keep your shoulders covered when entering the temple grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Cha-am Beach",
+            "hu": "Cha-am Tengerpart",
+            "ro": "Plaja Cha-am",
+            "en": "Cha-am Beach"
+          },
+          "coords": [
+            99.984295,
+            12.794222
+          ],
+          "category": "natural",
+          "arrive_at": "14:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.28,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den weitläufigen, von Kasuarinen gesäumten Sandstränden und sichern Sie sich eine Sonnenliege am nördlichen Ende für ein ruhigeres Erlebnis.",
+            "hu": "Pihenjen a gyönyörű kazuárfákkal szegélyezett kiterjedt, aranyhomokos tengerparton, és válasszon egy napozóágyat az északi végén a nyugodtabb élményért.",
+            "ro": "Relaxați-vă pe nisipurile aurii mărginite de casuarine frumoase și luați un șezlong lângă capătul nordic pentru o experiență mult mai liniștită la soare.",
+            "en": "Relax on the expansive, golden sands framed by beautiful casuarina trees, and grab a sunbed near the northern end for a much quieter experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Cha-am Night Market",
+            "hu": "Cha-am Éjszakai Piac",
+            "ro": "Piața de noapte Cha-am",
+            "en": "Cha-am Night Market"
+          },
+          "coords": [
+            99.96678,
+            12.799138
+          ],
+          "category": "landmark",
+          "arrive_at": "15:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die abendliche Atmosphäre mit unglaublichem Streetfood ein, also bringen Sie viel Kleingeld für all die köstlichen thailändischen Snacks mit.",
+            "hu": "Merüljön el a nyüzsgő esti hangulatban, amely hihetetlen utcai ételeket kínál, ezért hozzon magával sok aprót a finom helyi thai falatokhoz.",
+            "ro": "Cufundați-vă în atmosfera vibrantă de seară, cu mâncare stradală incredibilă, așa că aduceți mărunt pentru toate acele gustări locale delicioase thailandeze.",
+            "en": "Immerse yourself in the bustling evening vibe offering incredible street food, so bring plenty of small change for delicious local Thai snacks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihr Radabenteuer auf dem belebten Fresh Market für ein authentisches lokales Flair, gefolgt von einem Besuch im Kulturzentrum, um regionale Traditionen zu verstehen.\n\nRadeln Sie zum friedlichen Wat Cha-am Khiri und entdecken Sie seine verborgenen Höhlenschreine. Fahren Sie dann weiter zum Me Sook Markt, um exotische Früchte zu kaufen.\n\nFahren Sie die Küste hinauf, um die prächtige sechsarmige Statue im Wat Neranchararam zu bewundern, bevor Sie zum einladenden Sand von Cha-am Beach hinunterrollen.\n\nLassen Sie sich in der Dämmerung zum strahlenden Cha-am Nachtmarkt tragen, wo das rauchige Aroma von gegrillten Meeresfrüchten einen erfüllten Entdeckungstag belohnt.",
+        "hu": "Kezdje kerékpáros kalandját a nyüzsgő friss piacon a helyi hangulatért, majd tegyen egy tanulságos látogatást a Kulturális Központba a regionális hagyományok megismeréséhez.\n\nTekerjen el a békés Wat Cha-am Khirihez, fedezze fel rejtett barlangszentélyeit, majd folytassa útját a Me Sook piacra egy kis egzotikus gyümölcsért, hogy feltöltődjön.\n\nKerékpározzon fel a part mentén, és csodálja meg a Wat Neranchararam pompás, hatkarú szobrát, mielőtt a hívogató Cha-am strandra gurulna egy frissítő délutáni pihenőre.\n\nHagyja, hogy kerékpárja az alkonyat beálltával a sugárzó Cha-am éjszakai piac felé vigye, ahol a grillezett tenger gyümölcsei füstös illata jutalmazza a jól sikerült felfedezőnapot.",
+        "ro": "Începeți aventura cu bicicleta la piața plină de viață pentru o atmosferă locală autentică, urmată de o vizită educativă la Centrul Cultural Local pentru a înțelege tradițiile.\n\nPedalați spre pașnicul Wat Cha-am Khiri și descoperiți altarele sale ascunse din peșteri, apoi continuați la piața Me Sook pentru a lua fructe exotice și a vă reface energia.\n\nMergeți cu bicicleta pe coastă pentru a admira statuia cu șase brațe de la Wat Neranchararam, înainte de a coborî pe nisipurile primitoare ale plajei Cha-am pentru o pauză răcoritoare.\n\nLăsați-vă purtat de bicicletă spre piața de noapte radiantă Cha-am la lăsarea întunericului, unde aroma de fructe de mare la grătar răsplătește o zi plină de explorări.",
+        "en": "Kickstart your cycling adventure at the bustling Fresh Market for an authentic local vibe, followed by an educational visit to the Local Cultural Center to understand regional traditions.\n\nPedal your way to the peaceful Wat Cha-am Khiri and discover its hidden cave shrines, then continue to the Me Sook Fresh Market to grab some exotic fruits and refuel your energy.\n\nCycle up the coast to admire the magnificent six-armed statue at Wat Neranchararam, before cruising down to the wide, inviting sands of Cha-am Beach for a refreshing afternoon break.\n\nLet your bicycle carry you towards the radiant Cha-am Night Market as dusk falls, where the smoky aroma of grilled seafood rewards a satisfying day exploring the shores."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 12.1,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Cha-am Fresh Market",
+            "hu": "Cha-am Friss Piac",
+            "ro": "Piața de alimente proaspete Cha-am",
+            "en": "Cha-am Fresh Market"
+          },
+          "coords": [
+            99.96683,
+            12.795634
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erleben Sie das lokale Leben zwischen den frischen Meeresfrüchteständen und kommen Sie früh, bevor die besten Fänge für Ihr perfektes Frühstück ausverkauft sind.",
+            "hu": "Tapasztalja meg a helyi életet a friss tenger gyümölcsei standjainál, és érkezzen korán, mielőtt elkapkodják a legjobb fogásokat a tökéletes reggelihez.",
+            "ro": "Experimentați viața locală printre tarabele cu fructe de mare proaspete și ajungeți devreme înainte ca cele mai bune capturi pentru micul dejun să se epuizeze.",
+            "en": "Taste local daily life among fresh seafood stalls, and remember to come early before the best catches sell out for your perfect breakfast."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Cha-am Khiri",
+            "hu": "Wat Cha-am Khiri",
+            "ro": "Wat Cha-am Khiri",
+            "en": "Wat Cha-am Khiri"
+          },
+          "coords": [
+            99.960229,
+            12.802127
+          ],
+          "category": "landmark",
+          "arrive_at": "10:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.02,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Stufen zum stimmungsvollen Höhlenschrein, um wunderschöne Buddhastatuen zu bewundern, aber tragen Sie für den steilen Aufstieg bequeme Schuhe.",
+            "hu": "Másszon fel a hangulatos barlangszentély lépcsőin a gyönyörű Buddha-szobrok megcsodálásához, de a meredek emelkedőhöz mindenképpen kényelmes cipőt viseljen.",
+            "ro": "Urcați treptele spre altarul din peșteră pentru a admira frumoasele statui ale lui Buddha, dar purtați neapărat încălțăminte confortabilă pentru urcușul abrupt.",
+            "en": "Climb the steps to the atmospheric cave shrine to admire the beautiful Buddha statues, but wear comfortable shoes for the slightly steep ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Cha-am Local Cultural Center",
+            "hu": "Cha-am Helyi Kulturális Központ",
+            "ro": "Centrul Cultural Local Cha-am",
+            "en": "Cha-am Local Cultural Center"
+          },
+          "coords": [
+            99.970225,
+            12.79836
+          ],
+          "category": "museum",
+          "arrive_at": "10:46",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.18,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte der Küstenstadt durch regionale Artefakte, aber fragen Sie unbedingt das freundliche Personal nach weiteren Einblicken.",
+            "hu": "Fedezze fel a tengerparti város lenyűgöző történelmét a regionális leleteken keresztül, és mindenképpen kérjen bátran további háttér-információkat a kedves személyzettől.",
+            "ro": "Descoperiți istoria fascinantă a acestui oraș de coastă prin artefacte regionale și asigurați-vă că cereți personalului prietenos informații suplimentare.",
+            "en": "Discover the fascinating history of this coastal town through its regional artifacts, but make sure to ask the friendly staff for guided insights."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Nong Chaeng",
+            "hu": "Wat Nong Chaeng",
+            "ro": "Wat Nong Chaeng",
+            "en": "Wat Nong Chaeng"
+          },
+          "coords": [
+            99.971475,
+            12.777633
+          ],
+          "category": "landmark",
+          "arrive_at": "12:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.28,
+          "tip_5lang": {
+            "de": "Erleben Sie friedliche spirituelle Momente in dieser reich verzierten Tempelanlage und kommen Sie während der Morgengebete, um die Nachmittagshitze zu vermeiden.",
+            "hu": "Tapasztaljon meg békés spirituális pillanatokat ebben a díszes templomkomplexumban, és érkezzen a reggeli imák idején, hogy elkerülje az erős délutáni hőséget.",
+            "ro": "Experimentați momente spirituale pașnice în acest complex de temple frumos ornamentat și sosiți în timpul rugăciunilor de dimineață pentru a evita căldura după-amiezii.",
+            "en": "Experience peaceful spiritual moments in this beautifully ornate temple complex, and arrive during morning prayers to avoid the afternoon heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Cha-am Beach",
+            "hu": "Cha-am Tengerpart",
+            "ro": "Plaja Cha-am",
+            "en": "Cha-am Beach"
+          },
+          "coords": [
+            99.984295,
+            12.794222
+          ],
+          "category": "natural",
+          "arrive_at": "13:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.31,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den weitläufigen, von Kasuarinen gesäumten Sandstränden und sichern Sie sich eine Sonnenliege am nördlichen Ende für ein ruhigeres Erlebnis.",
+            "hu": "Pihenjen a gyönyörű kazuárfákkal szegélyezett kiterjedt, aranyhomokos tengerparton, és válasszon egy napozóágyat az északi végén a nyugodtabb élményért.",
+            "ro": "Relaxați-vă pe nisipurile aurii mărginite de casuarine frumoase și luați un șezlong lângă capătul nordic pentru o experiență mult mai liniștită la soare.",
+            "en": "Relax on the expansive, golden sands framed by beautiful casuarina trees, and grab a sunbed near the northern end for a much quieter experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Neranchararam",
+            "hu": "Wat Neranchararam",
+            "ro": "Wat Neranchararam",
+            "en": "Wat Neranchararam"
+          },
+          "coords": [
+            99.990269,
+            12.814068
+          ],
+          "category": "landmark",
+          "arrive_at": "14:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.28,
+          "tip_5lang": {
+            "de": "Bewundern Sie die einzigartige sechsarmige Statue von Phra Pit-thawan, die das Ufer bewacht, und halten Sie beim Betreten des Tempels Ihre Schultern bedeckt.",
+            "hu": "Csodálja meg a partot őrző hatkarú Phra Pit-thawan egyedülálló szobrát, és ne felejtse el eltakarni a vállát, amikor belép az ősi templom szentelt területére.",
+            "ro": "Admirați statuia unică cu șase brațe a lui Phra Pit-thawan care păzește țărmul și nu uitați să vă acoperiți umerii atunci când intrați pe terenul templului.",
+            "en": "Marvel at the unique six-armed statue of Phra Pit-thawan guarding the shore, and keep your shoulders covered when entering the temple grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Me Sook Fresh Market",
+            "hu": "Me Sook Friss Piac",
+            "ro": "Piața Me Sook",
+            "en": "Me Sook Fresh Market"
+          },
+          "coords": [
+            99.978067,
+            12.807604
+          ],
+          "category": "cultural",
+          "arrive_at": "15:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.52,
+          "tip_5lang": {
+            "de": "Stöbern Sie durch diesen authentischen Markt voller aromatischer Gewürze und frischer Produkte und probieren Sie unbedingt die gegrillten Spieße als schnellen Snack.",
+            "hu": "Böngésszen ezen az aromás fűszerekkel és friss termékekkel teli autentikus piacon, és mindenképpen kóstolja meg a grillezett nyársakat egy gyors déli falatként.",
+            "ro": "Răsfoiți această piață autentică de cartier plină de condimente aromate și produse proaspete și asigurați-vă că încercați frigăruile la grătar ca o gustare rapidă.",
+            "en": "Browse this authentic neighborhood market filled with aromatic spices and fresh produce, and try the grilled skewers for a quick midday snack."
+          }
+        },
+        {
+          "name": {
+            "de": "Cha-am Night Market",
+            "hu": "Cha-am Éjszakai Piac",
+            "ro": "Piața de noapte Cha-am",
+            "en": "Cha-am Night Market"
+          },
+          "coords": [
+            99.96678,
+            12.799138
+          ],
+          "category": "landmark",
+          "arrive_at": "16:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.55,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die abendliche Atmosphäre mit unglaublichem Streetfood ein, also bringen Sie viel Kleingeld für all die köstlichen thailändischen Snacks mit.",
+            "hu": "Merüljön el a nyüzsgő esti hangulatban, amely hihetetlen utcai ételeket kínál, ezért hozzon magával sok aprót a finom helyi thai falatokhoz.",
+            "ro": "Cufundați-vă în atmosfera vibrantă de seară, cu mâncare stradală incredibilă, așa că aduceți mărunt pentru toate acele gustări locale delicioase thailandeze.",
+            "en": "Immerse yourself in the bustling evening vibe offering incredible street food, so bring plenty of small change for delicious local Thai snacks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie ins Herz der Gemeinde zum lebhaften Fresh Market, um das morgendliche Treiben zu erleben, und danach zum Wat Cha-am Khiri und dem Kulturzentrum für historische Einblicke.\n\nNutzen Sie Ihr Auto, um schnell die ruhige Anlage des Wat Nong Chaeng auf der Südseite zu erreichen und genießen Sie eine friedliche Flucht mit bemerkenswerten architektonischen Details.\n\nFahren Sie den langen Küstenstreifen hinauf, um entspannte Stunden am Cha-am Beach zu verbringen, und steuern Sie mühelos nach Norden, um den Wächter im Wat Neranchararam zu bewundern.\n\nBeenden Sie Ihren Roadtrip am Me Sook Fresh Market, bevor Sie in der Nähe des Nachtmarkts parken und Ihre Stadttour mit wunderbaren Souvenirs und unvergesslichem Essen abschließen.",
+        "hu": "Autózzon a közösség szívébe, a nyüzsgő Friss Piacra, hogy szemtanúja legyen a reggeli forgatagnak, majd zökkenőmentesen haladjon tovább a Wat Cha-am Khiri és a Kulturális Központ felé.\n\nHasználja ki autóját, hogy gyorsan elérje a déli oldalon található Wat Nong Chaeng nyugodt területét, élvezve a figyelemre méltó építészeti részletekkel teli békés elvonulást.\n\nUgorjon át a hosszú tengerparti szakaszon, hogy eltöltsön pár pihentető órát a Cha-am strandon, majd könnyedén induljon északnak, hogy megcsodálja a Wat Neranchararam fenséges vízparti őrzőjét.\n\nZárja le az autós utazást a Me Sook piacon, mielőtt leparkolna a fényes éjszakai piac közelében, megkoronázva a kiterjedt városnézést csodálatos ajándékokkal és vacsorával.",
+        "ro": "Conduceți în inima comunității la piața vibrantă pentru a asista la agitația matinală, continuând spre Wat Cha-am Khiri și Centrul Cultural pentru o perspectivă istorică profundă.\n\nUtilizați mașina pentru a ajunge rapid pe terenurile liniștite de la Wat Nong Chaeng în partea de sud, bucurându-vă de o evadare senină plină de detalii arhitecturale remarcabile.\n\nMergeți pe porțiunea lungă de coastă pentru a petrece câteva ore relaxante pe plaja Cha-am, îndreptându-vă apoi spre nord pentru a admira marele gardian la Wat Neranchararam.\n\nÎncheiați călătoria la piața Me Sook înainte de a parca lângă piața strălucitoare de noapte, încheind un tur extins al orașului cu suveniruri minunate și o cină de neuitat.",
+        "en": "Drive into the heart of the community at the vibrant Fresh Market to witness the morning hustle, seamlessly driving to Wat Cha-am Khiri and the Cultural Center for deep historical insights.\n\nUtilize your car to quickly reach the tranquil grounds of Wat Nong Chaeng on the southern side, enjoying a serene escape filled with remarkable architectural details and spiritual calm.\n\nHop up the long coastal stretch to spend a relaxing couple of hours on Cha-am Beach, effortlessly heading north next to admire the grand waterfront guardian at Wat Neranchararam.\n\nWrap up your road trip at the Me Sook Fresh Market before parking near the glowing Night Market, capping off an extensive city tour with wonderful souvenirs and unforgettable dining."
+      }
+    }
+  }
+}

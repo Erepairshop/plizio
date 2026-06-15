@@ -1,0 +1,497 @@
+{
+  "city_id": "le-pradet",
+  "anchor": {
+    "name": "Le Pradet",
+    "coords": [
+      6.0233,
+      43.1056
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:49",
+      "total_km": 3.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cravéro Park",
+            "hu": "Cravéro Park",
+            "ro": "Parcul Cravéro",
+            "en": "Cravéro Park"
+          },
+          "coords": [
+            6.02074,
+            43.107831
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen in diesem üppigen Park und genießen Sie die mediterrane Flora, aber vergessen Sie nicht, einen Kaffee aus einer nahegelegenen Bäckerei mitzubringen.",
+            "hu": "Kezdje a reggelt ebben a buja központi parkban, és élvezze a mediterrán növényvilágot, de ne felejtsen el magával hozni egy kávét a közeli pékségből a botanikai bemutatókhoz.",
+            "ro": "Începeți dimineața în acest parc central luxuriant și admirați flora mediteraneană, dar nu uitați să aduceți o cafea de la o brutărie din apropiere pentru a o savura aici.",
+            "en": "Start your morning at this lush central park and enjoy the Mediterranean flora, but remember to bring a coffee from a nearby bakery to sip by the botanical displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Monaco",
+            "hu": "Monaco Strand",
+            "ro": "Plaja Monaco",
+            "en": "Monaco Beach"
+          },
+          "coords": [
+            6.013765,
+            43.100319
+          ],
+          "category": "recreational",
+          "arrive_at": "10:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Sandstrand umgeben von Pinien und kommen Sie früh, um sich einen guten Platz am Wasser vor dem Nachmittagsansturm zu sichern.",
+            "hu": "Pihenjen ezen a festői, mandulafenyőkkel körülvett homokos strandon, és érkezzen korán, hogy jó helyet biztosítson magának a vízparton a délutáni tömeg előtt.",
+            "ro": "Relaxați-vă pe această plajă pitorească de nisip înconjurată de pini și ajungeți devreme pentru a vă asigura un loc bun lângă apă înainte de aglomerația de după-amiază.",
+            "en": "Relax on this picturesque sandy beach surrounded by umbrella pines, and arrive early to secure a good spot near the water before the afternoon crowds descend."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Bonnettes",
+            "hu": "Bonnettes Strand",
+            "ro": "Plaja Bonnettes",
+            "en": "Bonnettes Beach"
+          },
+          "coords": [
+            6.01861,
+            43.098705
+          ],
+          "category": "recreational",
+          "arrive_at": "12:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese charmante Bucht mit kristallklarem Wasser, das sich perfekt für ein schnelles Bad eignet, und packen Sie Badeschuhe ein, da das Ufer teilweise steinig ist.",
+            "hu": "Fedezze fel ezt a kristálytiszta vizű, egy gyors csobbanásra tökéletes hangulatos öblöt, és vigyen magával vizicipőt, mivel a part bizonyos részeken kissé sziklás lehet.",
+            "ro": "Descoperiți acest golf fermecător cu ape cristaline perfect pentru o baie rapidă și aduceți încălțăminte de apă, deoarece țărmul poate fi ușor stâncos în anumite zone.",
+            "en": "Discover this charming cove with crystal-clear waters perfect for a quick dip, and pack water shoes as the shoreline can be slightly rocky in certain areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Garonne Strand",
+            "hu": "Garonne Strand",
+            "ro": "Plaja Garonne",
+            "en": "Garonne Beach"
+          },
+          "coords": [
+            6.0245,
+            43.09309
+          ],
+          "category": "natural",
+          "arrive_at": "13:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schlendern Sie diesen familienfreundlichen Küstenabschnitt mit seinen ruhigen Wellen entlang, wo das Mieten eines Paddleboards eine fantastische Möglichkeit bietet, die Buchten zu erkunden.",
+            "hu": "Sétáljon végig ezen a nyugodt hullámairól ismert, családbarát partszakaszon, ahol a paddleboard bérlés fantasztikus lehetőséget kínál a közeli öblök felfedezésére.",
+            "ro": "Plimbați-vă de-a lungul acestei coaste ideale pentru familii, cunoscută pentru valurile sale calme, unde închirierea unei plăci de paddleboard este o opțiune excelentă.",
+            "en": "Stroll along this family-friendly stretch of coastline known for its calm waves, where renting a paddleboard offers a fantastic way to explore the nearby coves."
+          }
+        },
+        {
+          "name": {
+            "de": "Forever Bereich",
+            "hu": "Forever Pihenő",
+            "ro": "Zona Forever",
+            "en": "Forever"
+          },
+          "coords": [
+            6.03829,
+            43.101659
+          ],
+          "category": "family",
+          "arrive_at": "15:04",
+          "stay_min": 105,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihren Tag in diesem einladenden Familienbereich mit viel Platz zum Entspannen ausklingen, ideal, um ein leichtes Picknick in der milden Abendbrise zu genießen.",
+            "hu": "Zárja a napot ezen a barátságos, tágas, családcentrikus területen, amely ideális egy könnyű piknikhez, miközben élvezi az enyhe esti szellőt és a nyugalmat.",
+            "ro": "Încheiați ziua în această zonă primitoare pentru familii, cu spațiu amplu pentru relaxare, ideală pentru a aduce un picnic ușor și a vă bucura de briza blândă a serii.",
+            "en": "Conclude your day at this welcoming family-oriented area with ample space to relax, making it ideal to bring a light picnic to enjoy the mild evening breeze."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im lebhaften Zentrum der Stadt, wo Sie das üppige Grün erkunden. Mittags laden versteckte Sandbuchten zum Entspannen an sanften Wellen ein. Der Nachmittag ist ein malerischer Spaziergang entlang einer familienfreundlichen Küste mit erfrischender Meeresbrise. Der Abend endet an einem einladenden Ort, ideal für ein Picknick bei Sonnenuntergang.",
+        "hu": "A reggel a város élénk szívében kezdődik, felfedezve a zöld növényzetet a tengerpart felé vezető úton. A dél elrejtett homokos öblökbe hívogat pihenni a lágy hullámok mellett. A délután egy festői séta egy családbarát partszakaszon, frissítő tengeri szellővel. Az este egy barátságos helyen ér véget, amely tökéletes egy naplementés piknikhez.",
+        "ro": "Dimineața începe în inima vibrantă a orașului, explorând verdeața înainte de a vă îndrepta spre coastă. La prânz veți descoperi golfuri ascunse de nisip și vă veți relaxa. După-amiaza este o plimbare pitorească de-a lungul unei coaste pentru familii, cu o briză răcoroasă de mare. Seara se încheie într-un loc primitor, perfect pentru un picnic la apus.",
+        "en": "Morning begins in the vibrant heart of the town, exploring lush greenery before heading toward the coast. Midday invites you to discover hidden sandy coves and relax by the gentle waves. The afternoon is a picturesque stroll along a family-friendly shoreline with refreshing sea breezes. Evening wraps up at a welcoming spot perfect for a sunset picnic and quiet reflection."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:27",
+      "total_km": 5.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cravéro Park",
+            "hu": "Cravéro Park",
+            "ro": "Parcul Cravéro",
+            "en": "Cravéro Park"
+          },
+          "coords": [
+            6.02074,
+            43.107831
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen in diesem üppigen Park und genießen Sie die mediterrane Flora, aber vergessen Sie nicht, einen Kaffee aus einer nahegelegenen Bäckerei mitzubringen.",
+            "hu": "Kezdje a reggelt ebben a buja központi parkban, és élvezze a mediterrán növényvilágot, de ne felejtsen el magával hozni egy kávét a közeli pékségből a botanikai bemutatókhoz.",
+            "ro": "Începeți dimineața în acest parc central luxuriant și admirați flora mediteraneană, dar nu uitați să aduceți o cafea de la o brutărie din apropiere pentru a o savura aici.",
+            "en": "Start your morning at this lush central park and enjoy the Mediterranean flora, but remember to bring a coffee from a nearby bakery to sip by the botanical displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Pin de Galle",
+            "hu": "Pin de Galle Strand",
+            "ro": "Plaja Pin de Galle",
+            "en": "Pin de Galle Beach"
+          },
+          "coords": [
+            6.006242,
+            43.104086
+          ],
+          "category": "recreational",
+          "arrive_at": "10:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die bunten Fischerhütten, die sich an die Klippen dieser authentischen Bucht klammern, aber tragen Sie feste Schuhe für den steilen Zugangsweg zum Wasser.",
+            "hu": "Csodálja meg a sziklákhoz tapadó színes halászkunyhókat ebben az autentikus öbölben, de viseljen erős cipőt a vízhez vezető meredek lejárati út miatt.",
+            "ro": "Admirați cabanele colorate de pescari agățate de stânci în acest golf autentic, dar purtați încălțăminte rezistentă pentru calea de acces abruptă care coboară spre apă.",
+            "en": "Admire the colorful fishermen's cabins clinging to the cliffs at this authentic cove, but wear sturdy shoes for the steep access path leading down to the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Monaco",
+            "hu": "Monaco Strand",
+            "ro": "Plaja Monaco",
+            "en": "Monaco Beach"
+          },
+          "coords": [
+            6.013765,
+            43.100319
+          ],
+          "category": "recreational",
+          "arrive_at": "11:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Sandstrand umgeben von Pinien und kommen Sie früh, um sich einen guten Platz am Wasser vor dem Nachmittagsansturm zu sichern.",
+            "hu": "Pihenjen ezen a festői, mandulafenyőkkel körülvett homokos strandon, és érkezzen korán, hogy jó helyet biztosítson magának a vízparton a délutáni tömeg előtt.",
+            "ro": "Relaxați-vă pe această plajă pitorească de nisip înconjurată de pini și ajungeți devreme pentru a vă asigura un loc bun lângă apă înainte de aglomerația de după-amiază.",
+            "en": "Relax on this picturesque sandy beach surrounded by umbrella pines, and arrive early to secure a good spot near the water before the afternoon crowds descend."
+          }
+        },
+        {
+          "name": {
+            "de": "Garonne Strand",
+            "hu": "Garonne Strand",
+            "ro": "Plaja Garonne",
+            "en": "Garonne Beach"
+          },
+          "coords": [
+            6.0245,
+            43.09309
+          ],
+          "category": "natural",
+          "arrive_at": "13:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie diesen familienfreundlichen Küstenabschnitt mit seinen ruhigen Wellen entlang, wo das Mieten eines Paddleboards eine fantastische Möglichkeit bietet, die Buchten zu erkunden.",
+            "hu": "Sétáljon végig ezen a nyugodt hullámairól ismert, családbarát partszakaszon, ahol a paddleboard bérlés fantasztikus lehetőséget kínál a közeli öblök felfedezésére.",
+            "ro": "Plimbați-vă de-a lungul acestei coaste ideale pentru familii, cunoscută pentru valurile sale calme, unde închirierea unei plăci de paddleboard este o opțiune excelentă.",
+            "en": "Stroll along this family-friendly stretch of coastline known for its calm waves, where renting a paddleboard offers a fantastic way to explore the nearby coves."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Oursinières",
+            "hu": "Oursinières Strand",
+            "ro": "Plaja Oursinières",
+            "en": "Oursinières Beach"
+          },
+          "coords": [
+            6.021539,
+            43.086349
+          ],
+          "category": "recreational",
+          "arrive_at": "14:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Boote im kleinen Hafen neben dem Strand und probieren Sie eines der lokalen Hafenbistros für ein erfrischendes Getränk und frische Meeresfrüchte.",
+            "hu": "Figyelje a csónakokat a strand melletti kis kikötőben, és próbálja ki a kikötői bisztrók egyikét egy frissítő ital és frissen fogott tengeri herkentyűk erejéig.",
+            "ro": "Urmăriți bărcile în micul port adiacent plajei și încercați unul dintre bistrourile locale din port pentru o băutură răcoritoare și fructe de mare proaspete.",
+            "en": "Watch the boats bob in the small harbor adjacent to the beach, and try one of the local portside bistros for a refreshing drink and freshly caught seafood."
+          }
+        },
+        {
+          "name": {
+            "de": "Cap Garonne Mine",
+            "hu": "Cap Garonne Bánya",
+            "ro": "Mina Cap Garonne",
+            "en": "Cap Garonne Mine"
+          },
+          "coords": [
+            6.032422,
+            43.081577
+          ],
+          "category": "museum",
+          "arrive_at": "15:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende unterirdische Welt dieser ehemaligen Kupfermine ein und bringen Sie unbedingt eine leichte Jacke mit, da es unter Tage ganzjährig kühl ist.",
+            "hu": "Merüljön el az egykori rézbánya lenyűgöző földalatti világában, és mindenképpen vigyen magával egy könnyű kabátot, mivel a föld alatti hőmérséklet egész évben hűvös.",
+            "ro": "Explorați lumea subterană fascinantă a acestei foste mine de cupru și asigurați-vă că aduceți o jachetă ușoară, deoarece temperaturile subterane rămân răcoroase tot anul.",
+            "en": "Delve into the fascinating underground world of this former copper mine, and definitely bring a light jacket as the subterranean temperatures remain remarkably cool year-round."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort de la Gavaresse",
+            "hu": "Gavaresse Erőd",
+            "ro": "Fortul Gavaresse",
+            "en": "Fort of Gavaresse"
+          },
+          "coords": [
+            6.040134,
+            43.084139
+          ],
+          "category": "fortress",
+          "arrive_at": "17:37",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Steigen Sie zu dieser historischen Küstenverteidigungsanlage hinauf, um einen weiten Panoramablick auf das Mittelmeer zu genießen, und halten Sie Ihre Kamera bereit.",
+            "hu": "Másszon fel ehhez a történelmi partvédelmi építményhez, ahonnan elsöprő panoráma nyílik a Földközi-tengerre, és győződjön meg róla, hogy a fényképezőgépe fel van töltve.",
+            "ro": "Urcați la această structură istorică de apărare a coastei pentru a admira priveliști panoramice ample asupra Mediteranei, asigurându-vă că aparatul foto este încărcat.",
+            "en": "Climb up to this historic coastal defense structure for sweeping panoramic views of the Mediterranean, ensuring your camera is fully charged for the spectacular vantage points."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt mit einem ruhigen Parkbesuch, bevor Sie zu den Klippen und Fischerhütten hinabgleiten. Mittags radeln Sie von einem malerischen Strand zu einer natürlichen Bucht. Am Nachmittag erkunden Sie einen kleinen Hafen und eine beeindruckende historische Kupfermine. Der Tag endet auf einer Küstenfestung mit unvergesslichem Sonnenuntergang.",
+        "hu": "A túra egy nyugodt parklátogatással indul, majd leereszkedik a sziklákhoz tapadó halászkunyhókhoz. Délben egy fenyőkkel szegélyezett strandról egy természetes öbölbe teker. Délután egy kis kikötőt és egy lenyűgöző történelmi rézbányát fedez fel. A nap egy tengerparti erődítményen ér véget, felejthetetlen tengeri naplementével.",
+        "ro": "Plimbarea începe cu o vizită calmă în parc, coborând apoi spre cabanele pescarilor. La prânz veți pedala de la o plajă pitorească flancată de pini la un golf natural. După-amiaza veți explora un mic port și o impresionantă mină istorică de cupru. Ziua se încheie pe o fortăreață de coastă, cu vederi de neuitat ale apusului pe mare.",
+        "en": "Your ride starts with a calm park visit before gliding down to authentic fishermen’s cabins clinging to the cliffs. Midday sees you pedaling from a scenic pine-fringed beach to a tranquil natural bay. By afternoon, you will explore a small harbor and an impressive historic copper mine. The day concludes atop a coastal fortress with unforgettable sunset views over the sea."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:16",
+      "total_km": 9.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cravéro Park",
+            "hu": "Cravéro Park",
+            "ro": "Parcul Cravéro",
+            "en": "Cravéro Park"
+          },
+          "coords": [
+            6.02074,
+            43.107831
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen in diesem üppigen Park und genießen Sie die mediterrane Flora, aber vergessen Sie nicht, einen Kaffee aus einer nahegelegenen Bäckerei mitzubringen.",
+            "hu": "Kezdje a reggelt ebben a buja központi parkban, és élvezze a mediterrán növényvilágot, de ne felejtsen el magával hozni egy kávét a közeli pékségből a botanikai bemutatókhoz.",
+            "ro": "Începeți dimineața în acest parc central luxuriant și admirați flora mediteraneană, dar nu uitați să aduceți o cafea de la o brutărie din apropiere pentru a o savura aici.",
+            "en": "Start your morning at this lush central park and enjoy the Mediterranean flora, but remember to bring a coffee from a nearby bakery to sip by the botanical displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Cap Garonne Mine",
+            "hu": "Cap Garonne Bánya",
+            "ro": "Mina Cap Garonne",
+            "en": "Cap Garonne Mine"
+          },
+          "coords": [
+            6.032422,
+            43.081577
+          ],
+          "category": "museum",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende unterirdische Welt dieser ehemaligen Kupfermine ein und bringen Sie unbedingt eine leichte Jacke mit, da es unter Tage ganzjährig kühl ist.",
+            "hu": "Merüljön el az egykori rézbánya lenyűgöző földalatti világában, és mindenképpen vigyen magával egy könnyű kabátot, mivel a föld alatti hőmérséklet egész évben hűvös.",
+            "ro": "Explorați lumea subterană fascinantă a acestei foste mine de cupru și asigurați-vă că aduceți o jachetă ușoară, deoarece temperaturile subterane rămân răcoroase tot anul.",
+            "en": "Delve into the fascinating underground world of this former copper mine, and definitely bring a light jacket as the subterranean temperatures remain remarkably cool year-round."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort de la Gavaresse",
+            "hu": "Gavaresse Erőd",
+            "ro": "Fortul Gavaresse",
+            "en": "Fort of Gavaresse"
+          },
+          "coords": [
+            6.040134,
+            43.084139
+          ],
+          "category": "fortress",
+          "arrive_at": "12:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Steigen Sie zu dieser historischen Küstenverteidigungsanlage hinauf, um einen weiten Panoramablick auf das Mittelmeer zu genießen, und halten Sie Ihre Kamera bereit.",
+            "hu": "Másszon fel ehhez a történelmi partvédelmi építményhez, ahonnan elsöprő panoráma nyílik a Földközi-tengerre, és győződjön meg róla, hogy a fényképezőgépe fel van töltve.",
+            "ro": "Urcați la această structură istorică de apărare a coastei pentru a admira priveliști panoramice ample asupra Mediteranei, asigurându-vă că aparatul foto este încărcat.",
+            "en": "Climb up to this historic coastal defense structure for sweeping panoramic views of the Mediterranean, ensuring your camera is fully charged for the spectacular vantage points."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Oursinières",
+            "hu": "Oursinières Strand",
+            "ro": "Plaja Oursinières",
+            "en": "Oursinières Beach"
+          },
+          "coords": [
+            6.021539,
+            43.086349
+          ],
+          "category": "recreational",
+          "arrive_at": "13:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Boote im kleinen Hafen neben dem Strand und probieren Sie eines der lokalen Hafenbistros für ein erfrischendes Getränk und frische Meeresfrüchte.",
+            "hu": "Figyelje a csónakokat a strand melletti kis kikötőben, és próbálja ki a kikötői bisztrók egyikét egy frissítő ital és frissen fogott tengeri herkentyűk erejéig.",
+            "ro": "Urmăriți bărcile în micul port adiacent plajei și încercați unul dintre bistrourile locale din port pentru o băutură răcoritoare și fructe de mare proaspete.",
+            "en": "Watch the boats bob in the small harbor adjacent to the beach, and try one of the local portside bistros for a refreshing drink and freshly caught seafood."
+          }
+        },
+        {
+          "name": {
+            "de": "Garonne Strand",
+            "hu": "Garonne Strand",
+            "ro": "Plaja Garonne",
+            "en": "Garonne Beach"
+          },
+          "coords": [
+            6.0245,
+            43.09309
+          ],
+          "category": "natural",
+          "arrive_at": "14:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schlendern Sie diesen familienfreundlichen Küstenabschnitt mit seinen ruhigen Wellen entlang, wo das Mieten eines Paddleboards eine fantastische Möglichkeit bietet, die Buchten zu erkunden.",
+            "hu": "Sétáljon végig ezen a nyugodt hullámairól ismert, családbarát partszakaszon, ahol a paddleboard bérlés fantasztikus lehetőséget kínál a közeli öblök felfedezésére.",
+            "ro": "Plimbați-vă de-a lungul acestei coaste ideale pentru familii, cunoscută pentru valurile sale calme, unde închirierea unei plăci de paddleboard este o opțiune excelentă.",
+            "en": "Stroll along this family-friendly stretch of coastline known for its calm waves, where renting a paddleboard offers a fantastic way to explore the nearby coves."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Monaco",
+            "hu": "Monaco Strand",
+            "ro": "Plaja Monaco",
+            "en": "Monaco Beach"
+          },
+          "coords": [
+            6.013765,
+            43.100319
+          ],
+          "category": "recreational",
+          "arrive_at": "16:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Sandstrand umgeben von Pinien und kommen Sie früh, um sich einen guten Platz am Wasser vor dem Nachmittagsansturm zu sichern.",
+            "hu": "Pihenjen ezen a festői, mandulafenyőkkel körülvett homokos strandon, és érkezzen korán, hogy jó helyet biztosítson magának a vízparton a délutáni tömeg előtt.",
+            "ro": "Relaxați-vă pe această plajă pitorească de nisip înconjurată de pini și ajungeți devreme pentru a vă asigura un loc bun lângă apă înainte de aglomerația de după-amiază.",
+            "en": "Relax on this picturesque sandy beach surrounded by umbrella pines, and arrive early to secure a good spot near the water before the afternoon crowds descend."
+          }
+        },
+        {
+          "name": {
+            "de": "Forever Bereich",
+            "hu": "Forever Pihenő",
+            "ro": "Zona Forever",
+            "en": "Forever"
+          },
+          "coords": [
+            6.03829,
+            43.101659
+          ],
+          "category": "family",
+          "arrive_at": "17:31",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihren Tag in diesem einladenden Familienbereich mit viel Platz zum Entspannen ausklingen, ideal, um ein leichtes Picknick in der milden Abendbrise zu genießen.",
+            "hu": "Zárja a napot ezen a barátságos, tágas, családcentrikus területen, amely ideális egy könnyű piknikhez, miközben élvezi az enyhe esti szellőt és a nyugalmat.",
+            "ro": "Încheiați ziua în această zonă primitoare pentru familii, cu spațiu amplu pentru relaxare, ideală pentru a aduce un picnic ușor și a vă bucura de briza blândă a serii.",
+            "en": "Conclude your day at this welcoming family-oriented area with ample space to relax, making it ideal to bring a light picnic to enjoy the mild evening breeze."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie von einem grünen Stadtpark direkt zu einer faszinierenden unterirdischen Kupfermine. Mittags erreichen Sie eine prächtige Festung mit herrlichem Meerespanorama, bevor Sie zu einem malerischen Hafen hinabfahren. Verbringen Sie den Nachmittag an bekannten Sandstränden. Beenden Sie Ihren Abend an einem großzügigen, familienfreundlichen Treffpunkt.",
+        "hu": "Induljon a zöld városi parkból egyenesen egy lenyűgöző földalatti rézbányába. Délben egy csodálatos erődítményhez ér, ahonnan tengeri panoráma nyílik, majd egy hangulatos kikötőbe ereszkedik. A délutánt homokos strandokon pihenve töltheti. Végül fejezze be az estét egy tágas, családbarát találkozóhelyen pihenve.",
+        "ro": "Conduceți din parcul verde al orașului direct către o fascinantă mină de cupru subterană. Prânzul vă aduce la o fortăreață magnifică, oferind panorame maritime înainte de a coborî într-un port pitoresc. Petreceți-vă după-amiaza relaxându-vă pe plaje celebre cu nisip. În cele din urmă, încheiați seara într-un loc de adunare spațios și primitor pentru familii.",
+        "en": "Drive out from a verdant town park straight to a cool, fascinating subterranean copper mine to start the day. Midday brings you up to a magnificent fortress offering sweeping maritime panoramas before descending to a quaint port. Spend your afternoon unwinding on celebrated sandy beaches. Finally, conclude your evening relaxing at a spacious, family-oriented gathering spot."
+      }
+    }
+  }
+}

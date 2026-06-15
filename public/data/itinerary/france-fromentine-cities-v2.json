@@ -1,0 +1,520 @@
+{
+  "city_id": "france-fromentine-cities-v2",
+  "anchor": {
+    "name": "Fromentine",
+    "coords": [
+      -2.13666,
+      46.88967
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:17",
+      "total_km": 2.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Théâtre du Gymnase",
+            "hu": "Théâtre du Gymnase",
+            "ro": "Théâtre du Gymnase",
+            "en": "Théâtre du Gymnase"
+          },
+          "coords": [
+            -2.13488,
+            46.889258
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die kulturellen Vorführungen in diesem historischen Theater, das die lokale Kunstszene belebt, und buchen Sie Ihre Tickets unbedingt im Voraus online.",
+            "hu": "Csodálja meg a helyi művészeti életet fellendítő történelmi színház kulturális előadásait, és mindenképpen jó előre foglalja le a jegyeket az interneten.",
+            "ro": "Admirați spectacolele culturale din acest teatru istoric care însuflețește scena artistică locală și asigurați-vă că rezervați biletele online din timp.",
+            "en": "Admire the cultural performances in this historic theater that animates the local art scene, and be sure to book your tickets well in advance online."
+          }
+        },
+        {
+          "name": {
+            "de": "Amphithéâtre du Petit Bois",
+            "hu": "Amphithéâtre du Petit Bois",
+            "ro": "Amphithéâtre du Petit Bois",
+            "en": "Amphithéâtre du Petit Bois"
+          },
+          "coords": [
+            -2.138733,
+            46.891603
+          ],
+          "category": "cultural",
+          "arrive_at": "10:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erleben Sie Freilichtaufführungen in diesem bezaubernden Amphitheater inmitten der Natur, und bringen Sie ein Kissen mit, um auf den Steinstufen bequemer zu sitzen.",
+            "hu": "Élvezze a szabadtéri előadásokat ebben az elbűvölő, természet lágy ölén fekvő amfiteátrumban, és hozzon magával egy párnát a kőlépcsők kényelmesebb használatához.",
+            "ro": "Bucurați-vă de spectacole în aer liber în acest amfiteatru fermecător înconjurat de natură și aduceți o pernă pentru a sta mai confortabil pe treptele de piatră.",
+            "en": "Enjoy open-air performances in this charming amphitheater surrounded by nature, and bring a small cushion to sit more comfortably on the stone steps."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Fromentine",
+            "hu": "Plage de Fromentine",
+            "ro": "Plage de Fromentine",
+            "en": "Plage de Fromentine"
+          },
+          "coords": [
+            -2.144683,
+            46.890764
+          ],
+          "category": "recreational",
+          "arrive_at": "12:03",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Sandstrand mit herrlichem Blick auf den Ozean, und kommen Sie am frühen Nachmittag, um die besten Plätze nahe am Wasser zu ergattern.",
+            "hu": "Pihenjen ezen a festői homokos strandon, ahonnan csodálatos kilátás nyílik az óceánra, és érkezzen kora délután, hogy a legjobb helyeket csíphesse meg a víz közelében.",
+            "ro": "Relaxați-vă pe această plajă pitorească de nisip, cu vederi uimitoare la ocean, și veniți la începutul după-amiezii pentru a prinde cele mai bune locuri lângă apă.",
+            "en": "Relax on this picturesque sandy beach offering stunning ocean views, and arrive in the early afternoon to secure the very best spots right close to the gentle water."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare de Fromentine",
+            "hu": "Phare de Fromentine",
+            "ro": "Phare de Fromentine",
+            "en": "Phare de Fromentine"
+          },
+          "coords": [
+            -2.142392,
+            46.888921
+          ],
+          "category": "landmark",
+          "arrive_at": "13:07",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen ikonischen Leuchtturm, der seit Jahrzehnten den Seeleuten den Weg weist, und nutzen Sie das sanfte Nachmittagslicht für atemberaubende Urlaubsfotos.",
+            "hu": "Csodálja meg ezt az ikonikus világítótornyot, amely évtizedek óta irányítja a tengerészeket, és használja ki a lágy délutáni fényeket a lélegzetelállító nyaralási fotókhoz.",
+            "ro": "Admirați acest far iconic care a ghidat marinarii de zeci de ani și profitați de lumina blândă a după-amiezii pentru a surprinde fotografii uluitoare de vacanță.",
+            "en": "Marvel at this iconic lighthouse that has guided sailors for decades, and take full advantage of the soft afternoon light to capture truly breathtaking vacation photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Grande Côte",
+            "hu": "Plage de la Grande Côte",
+            "ro": "Plage de la Grande Côte",
+            "en": "Plage de la Grande Côte"
+          },
+          "coords": [
+            -2.155671,
+            46.88782
+          ],
+          "category": "recreational",
+          "arrive_at": "13:47",
+          "stay_min": 90,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der weitläufigen Küste dieses naturbelassenen Strandes, der perfekte Ruhe bietet, und tragen Sie bequeme Schuhe für ausgedehnte Strandwanderungen.",
+            "hu": "Sétáljon végig ennek a tökéletes nyugalmat kínáló természetes strandnak a kiterjedt partvonalán, és viseljen kényelmes cipőt a hosszú, pihentető tengerparti sétákhoz.",
+            "ro": "Plimbați-vă de-a lungul coastei extinse a acestei plaje naturale care oferă liniște perfectă și purtați încălțăminte confortabilă pentru plimbări lungi pe țărmul mării.",
+            "en": "Stroll along the expansive coastline of this natural beach offering perfect tranquility, and wear comfortable walking shoes for extended walks along the beautiful shore."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit kulturellen Höhepunkten in den charmanten Theatern von Fromentine. Mittags lockt der zentrale Strand mit seinem sanften Wellenschlag und feinem Sand. Der Nachmittag steht im Zeichen maritimer Geschichte am majestätischen Leuchtturm. Lassen Sie den Abend bei einem entspannten Spaziergang an der ausgedehnten Küste ausklingen und genießen Sie die kühle Brise.",
+        "hu": "Kezdje a napot Fromentine bájos színházainak kulturális érdekességeivel. Délben a központi strand vonzza a látogatókat lágy hullámaival és finom homokjával. A délután a tengerészeti történelem jegyében telik a fenséges világítótoronynál. Zárja az estét egy pihentető sétával a kiterjedt tengerparton, és élvezze a hűsítő, friss óceáni szellőt a naplemente lenyűgöző fényében.",
+        "ro": "Începeți ziua cu atracții culturale în teatrele fermecătoare din Fromentine. La prânz, plaja centrală atrage vizitatorii cu valurile sale blânde și nisipul fin. După-amiaza este dedicată istoriei maritime la farul maiestuos. Încheiați seara cu o plimbare relaxantă de-a lungul coastei extinse și bucurați-vă de briza răcoroasă a oceanului în lumina uimitoare a apusului.",
+        "en": "Start your day with cultural highlights at the charming theaters of Fromentine. At noon, the central beach attracts visitors with its gentle waves and fine sand. The afternoon is dedicated to maritime history by the majestic lighthouse. Conclude your evening with a relaxing stroll along the expansive coastline, fully enjoying the cool ocean breeze under the breathtaking sunset light."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:16",
+      "total_km": 4.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Louis",
+            "hu": "Église Saint-Louis",
+            "ro": "Église Saint-Louis",
+            "en": "Église Saint-Louis"
+          },
+          "coords": [
+            -2.118927,
+            46.884371
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die spirituelle Ruhe dieser eleganten Kirche mit ihren wunderschönen Buntglasfenstern, und achten Sie beim Betreten auf angemessene und bedeckende Kleidung.",
+            "hu": "Fedezze fel ennek az elegáns, gyönyörű ólomüveg ablakokkal rendelkező templomnak a lelki nyugalmát, és belépéskor ügyeljen a megfelelő, vállakat takaró ruházatra.",
+            "ro": "Descoperiți liniștea spirituală a acestei biserici elegante, cu vitraliile sale superbe, și asigurați-vă că purtați o ținută respectuoasă, care acoperă umerii, la intrare.",
+            "en": "Discover the spiritual tranquility of this elegant church featuring gorgeous stained glass windows, and ensure you wear respectful clothing covering shoulders when entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Domaine de l'Opéra",
+            "hu": "Domaine de l'Opéra",
+            "ro": "Domaine de l'Opéra",
+            "en": "Domaine de l'Opéra"
+          },
+          "coords": [
+            -2.117574,
+            46.883101
+          ],
+          "category": "cultural",
+          "arrive_at": "09:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses prächtige kulturelle Anwesen, das klassische Architektur bewahrt, und prüfen Sie vorab die Öffnungszeiten für exklusive, geführte historische Touren.",
+            "hu": "Fedezze fel ezt a klasszikus építészetet megőrző csodálatos kulturális birtokot, és az exkluzív, vezetett történelmi túrákhoz előzetesen ellenőrizze a nyitvatartási időt.",
+            "ro": "Explorați acest domeniu cultural magnific care conservă arhitectura clasică și verificați programul în prealabil pentru tururi istorice exclusive, cu ghid specializat.",
+            "en": "Explore this magnificent cultural estate preserving classical architecture, and check the schedule in advance to join one of the exclusive, fully guided historical tours."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvédère du Pey de la Blet",
+            "hu": "Belvédère du Pey de la Blet",
+            "ro": "Belvédère du Pey de la Blet",
+            "en": "Belvédère du Pey de la Blet"
+          },
+          "coords": [
+            -2.126392,
+            46.877948
+          ],
+          "category": "natural",
+          "arrive_at": "11:16",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie das atemberaubende Panorama von diesem hochgelegenen Aussichtspunkt über die Küste, und nehmen Sie ein Fernglas mit, um die vorbeifahrenden Schiffe zu beobachten.",
+            "hu": "Élvezze a lélegzetelállító panorámát a tengerpartra ebből a magasan fekvő kilátóból, és vigyen magával egy távcsövet az elhaladó hajók és madarak kényelmes megfigyeléséhez.",
+            "ro": "Bucurați-vă de panorama uluitoare a coastei din acest punct de belvedere înalt și luați cu voi un binoclu pentru a observa confortabil navele și păsările care trec.",
+            "en": "Enjoy the breathtaking panorama of the vast coastline from this elevated viewpoint, and bring along a pair of binoculars to comfortably observe passing ships and seabirds."
+          }
+        },
+        {
+          "name": {
+            "de": "Théâtre du Gymnase",
+            "hu": "Théâtre du Gymnase",
+            "ro": "Théâtre du Gymnase",
+            "en": "Théâtre du Gymnase"
+          },
+          "coords": [
+            -2.13488,
+            46.889258
+          ],
+          "category": "cultural",
+          "arrive_at": "11:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die kulturellen Vorführungen in diesem historischen Theater, das die lokale Kunstszene belebt, und buchen Sie Ihre Tickets unbedingt im Voraus online.",
+            "hu": "Csodálja meg a helyi művészeti életet fellendítő történelmi színház kulturális előadásait, és mindenképpen jó előre foglalja le a jegyeket az interneten.",
+            "ro": "Admirați spectacolele culturale din acest teatru istoric care însuflețește scena artistică locală și asigurați-vă că rezervați biletele online din timp.",
+            "en": "Admire the cultural performances in this historic theater that animates the local art scene, and be sure to book your tickets well in advance online."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare de Fromentine",
+            "hu": "Phare de Fromentine",
+            "ro": "Phare de Fromentine",
+            "en": "Phare de Fromentine"
+          },
+          "coords": [
+            -2.142392,
+            46.888921
+          ],
+          "category": "landmark",
+          "arrive_at": "13:12",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen ikonischen Leuchtturm, der seit Jahrzehnten den Seeleuten den Weg weist, und nutzen Sie das sanfte Nachmittagslicht für atemberaubende Urlaubsfotos.",
+            "hu": "Csodálja meg ezt az ikonikus világítótornyot, amely évtizedek óta irányítja a tengerészeket, és használja ki a lágy délutáni fényeket a lélegzetelállító nyaralási fotókhoz.",
+            "ro": "Admirați acest far iconic care a ghidat marinarii de zeci de ani și profitați de lumina blândă a după-amiezii pentru a surprinde fotografii uluitoare de vacanță.",
+            "en": "Marvel at this iconic lighthouse that has guided sailors for decades, and take full advantage of the soft afternoon light to capture truly breathtaking vacation photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Fromentine",
+            "hu": "Plage de Fromentine",
+            "ro": "Plage de Fromentine",
+            "en": "Plage de Fromentine"
+          },
+          "coords": [
+            -2.144683,
+            46.890764
+          ],
+          "category": "recreational",
+          "arrive_at": "13:38",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Sandstrand mit herrlichem Blick auf den Ozean, und kommen Sie am frühen Nachmittag, um die besten Plätze nahe am Wasser zu ergattern.",
+            "hu": "Pihenjen ezen a festői homokos strandon, ahonnan csodálatos kilátás nyílik az óceánra, és érkezzen kora délután, hogy a legjobb helyeket csíphesse meg a víz közelében.",
+            "ro": "Relaxați-vă pe această plajă pitorească de nisip, cu vederi uimitoare la ocean, și veniți la începutul după-amiezii pentru a prinde cele mai bune locuri lângă apă.",
+            "en": "Relax on this picturesque sandy beach offering stunning ocean views, and arrive in the early afternoon to secure the very best spots right close to the gentle water."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage Des Boucholeurs",
+            "hu": "Plage Des Boucholeurs",
+            "ro": "Plage Des Boucholeurs",
+            "en": "Plage Des Boucholeurs"
+          },
+          "coords": [
+            -2.160149,
+            46.900389
+          ],
+          "category": "recreational",
+          "arrive_at": "14:46",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese charmante Strandbucht, die für ihre traditionelle Muschelzucht bekannt ist, und probieren Sie unbedingt die frischen Meeresfrüchte in den nahen Lokalen.",
+            "hu": "Fedezze fel ezt a hagyományos kagylótenyésztéséről híres hangulatos tengerparti öblöt, és mindenképpen kóstolja meg a közeli éttermek kínálta friss, helyi tengeri gyümölcsöket.",
+            "ro": "Descoperiți acest golf fermecător renumit pentru cultivarea tradițională a midiilor și asigurați-vă că gustați fructele de mare proaspete la restaurantele din apropiere.",
+            "en": "Discover this charming beach cove renowned for its traditional mussel farming, and make sure to taste the incredibly fresh local seafood at the nearby coastal establishments."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens zur eleganten Kirche und erkunden Sie das kulturelle Erbe der Stadt. Später bietet der Aussichtspunkt unvergessliche Panoramablicke über die Region. Nachmittags geht es flott zurück ins Zentrum zum Theater und zum berühmten Leuchtturm. Ein Abstecher zu den ruhigen nördlichen Stränden rundet den perfekten Radtag an der frischen Meeresluft malerisch ab.",
+        "hu": "Reggel kerékpározzon az elegáns templomhoz, és fedezze fel a város kulturális örökségét. Később a kilátó felejthetetlen panorámát kínál a régióra. Délután tekerjen vissza a központba, a színházhoz és a híres világítótoronyhoz. Az északi csendes strandokhoz tett kitérő festőien teszi teljessé a tökéletes, friss tengeri levegőn töltött kerékpáros napot.",
+        "ro": "Dimineața, pedalați spre biserica elegantă și explorați moștenirea culturală a orașului. Mai târziu, punctul de belvedere oferă vederi panoramice de neuitat asupra regiunii. După-amiaza, întoarceți-vă rapid în centru, la teatru și la faimosul far. O excursie către plajele liniștite din nord completează pitoresc această zi perfectă de ciclism în aerul proaspăt al mării.",
+        "en": "In the morning, cycle to the elegant church and deeply explore the city's rich cultural heritage. Later, the high viewpoint offers unforgettable panoramic views across the region. In the afternoon, swiftly ride back to the center towards the theater and the famous lighthouse. A final detour to the quiet northern beaches beautifully completes this perfect cycling day in the fresh sea air."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 10.05,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Belvédère du Pey de la Blet",
+            "hu": "Belvédère du Pey de la Blet",
+            "ro": "Belvédère du Pey de la Blet",
+            "en": "Belvédère du Pey de la Blet"
+          },
+          "coords": [
+            -2.126392,
+            46.877948
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie das atemberaubende Panorama von diesem hochgelegenen Aussichtspunkt über die Küste, und nehmen Sie ein Fernglas mit, um die vorbeifahrenden Schiffe zu beobachten.",
+            "hu": "Élvezze a lélegzetelállító panorámát a tengerpartra ebből a magasan fekvő kilátóból, és vigyen magával egy távcsövet az elhaladó hajók és madarak kényelmes megfigyeléséhez.",
+            "ro": "Bucurați-vă de panorama uluitoare a coastei din acest punct de belvedere înalt și luați cu voi un binoclu pentru a observa confortabil navele și păsările care trec.",
+            "en": "Enjoy the breathtaking panorama of the vast coastline from this elevated viewpoint, and bring along a pair of binoculars to comfortably observe passing ships and seabirds."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Bergère",
+            "hu": "Plage de la Bergère",
+            "ro": "Plage de la Bergère",
+            "en": "Plage de la Bergère"
+          },
+          "coords": [
+            -2.152275,
+            46.875416
+          ],
+          "category": "recreational",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Erleben Sie die weite Dünenlandschaft dieses ruhigen Strandes abseits der Menschenmassen, und bringen Sie ausreichend Trinkwasser mit, da es hier keine Geschäfte gibt.",
+            "hu": "Élvezze a tömegtől távol eső, csendes strand széles dűnéit, és hozzon magával elegendő ivóvizet, mivel ezen a természeti területen nincsenek közvetlen vásárlási lehetőségek.",
+            "ro": "Experimentați peisajul vast de dune al acestei plaje liniștite, departe de aglomerație, și aduceți suficientă apă de băut, deoarece nu există magazine în această zonă.",
+            "en": "Experience the vast dune landscape of this quiet beach away from the typical crowds, and bring plenty of drinking water since there are no immediate shops in this wild area."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Louis",
+            "hu": "Église Saint-Louis",
+            "ro": "Église Saint-Louis",
+            "en": "Église Saint-Louis"
+          },
+          "coords": [
+            -2.118927,
+            46.884371
+          ],
+          "category": "religious",
+          "arrive_at": "10:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die spirituelle Ruhe dieser eleganten Kirche mit ihren wunderschönen Buntglasfenstern, und achten Sie beim Betreten auf angemessene und bedeckende Kleidung.",
+            "hu": "Fedezze fel ennek az elegáns, gyönyörű ólomüveg ablakokkal rendelkező templomnak a lelki nyugalmát, és belépéskor ügyeljen a megfelelő, vállakat takaró ruházatra.",
+            "ro": "Descoperiți liniștea spirituală a acestei biserici elegante, cu vitraliile sale superbe, și asigurați-vă că purtați o ținută respectuoasă, care acoperă umerii, la intrare.",
+            "en": "Discover the spiritual tranquility of this elegant church featuring gorgeous stained glass windows, and ensure you wear respectful clothing covering shoulders when entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Domaine de l'Opéra",
+            "hu": "Domaine de l'Opéra",
+            "ro": "Domaine de l'Opéra",
+            "en": "Domaine de l'Opéra"
+          },
+          "coords": [
+            -2.117574,
+            46.883101
+          ],
+          "category": "cultural",
+          "arrive_at": "11:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses prächtige kulturelle Anwesen, das klassische Architektur bewahrt, und prüfen Sie vorab die Öffnungszeiten für exklusive, geführte historische Touren.",
+            "hu": "Fedezze fel ezt a klasszikus építészetet megőrző csodálatos kulturális birtokot, és az exkluzív, vezetett történelmi túrákhoz előzetesen ellenőrizze a nyitvatartási időt.",
+            "ro": "Explorați acest domeniu cultural magnific care conservă arhitectura clasică și verificați programul în prealabil pentru tururi istorice exclusive, cu ghid specializat.",
+            "en": "Explore this magnificent cultural estate preserving classical architecture, and check the schedule in advance to join one of the exclusive, fully guided historical tours."
+          }
+        },
+        {
+          "name": {
+            "de": "Théâtre du Gymnase",
+            "hu": "Théâtre du Gymnase",
+            "ro": "Théâtre du Gymnase",
+            "en": "Théâtre du Gymnase"
+          },
+          "coords": [
+            -2.13488,
+            46.889258
+          ],
+          "category": "cultural",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die kulturellen Vorführungen in diesem historischen Theater, das die lokale Kunstszene belebt, und buchen Sie Ihre Tickets unbedingt im Voraus online.",
+            "hu": "Csodálja meg a helyi művészeti életet fellendítő történelmi színház kulturális előadásait, és mindenképpen jó előre foglalja le a jegyeket az interneten.",
+            "ro": "Admirați spectacolele culturale din acest teatru istoric care însuflețește scena artistică locală și asigurați-vă că rezervați biletele online din timp.",
+            "en": "Admire the cultural performances in this historic theater that animates the local art scene, and be sure to book your tickets well in advance online."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare de Fromentine",
+            "hu": "Phare de Fromentine",
+            "ro": "Phare de Fromentine",
+            "en": "Phare de Fromentine"
+          },
+          "coords": [
+            -2.142392,
+            46.888921
+          ],
+          "category": "landmark",
+          "arrive_at": "14:11",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen ikonischen Leuchtturm, der seit Jahrzehnten den Seeleuten den Weg weist, und nutzen Sie das sanfte Nachmittagslicht für atemberaubende Urlaubsfotos.",
+            "hu": "Csodálja meg ezt az ikonikus világítótornyot, amely évtizedek óta irányítja a tengerészeket, és használja ki a lágy délutáni fényeket a lélegzetelállító nyaralási fotókhoz.",
+            "ro": "Admirați acest far iconic care a ghidat marinarii de zeci de ani și profitați de lumina blândă a după-amiezii pentru a surprinde fotografii uluitoare de vacanță.",
+            "en": "Marvel at this iconic lighthouse that has guided sailors for decades, and take full advantage of the soft afternoon light to capture truly breathtaking vacation photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Grande Côte",
+            "hu": "Plage de la Grande Côte",
+            "ro": "Plage de la Grande Côte",
+            "en": "Plage de la Grande Côte"
+          },
+          "coords": [
+            -2.155671,
+            46.88782
+          ],
+          "category": "recreational",
+          "arrive_at": "14:38",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der weitläufigen Küste dieses naturbelassenen Strandes, der perfekte Ruhe bietet, und tragen Sie bequeme Schuhe für ausgedehnte Strandwanderungen.",
+            "hu": "Sétáljon végig ennek a tökéletes nyugalmat kínáló természetes strandnak a kiterjedt partvonalán, és viseljen kényelmes cipőt a hosszú, pihentető tengerparti sétákhoz.",
+            "ro": "Plimbați-vă de-a lungul coastei extinse a acestei plaje naturale care oferă liniște perfectă și purtați încălțăminte confortabilă pentru plimbări lungi pe țărmul mării.",
+            "en": "Stroll along the expansive coastline of this natural beach offering perfect tranquility, and wear comfortable walking shoes for extended walks along the beautiful shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage Des Boucholeurs",
+            "hu": "Plage Des Boucholeurs",
+            "ro": "Plage Des Boucholeurs",
+            "en": "Plage Des Boucholeurs"
+          },
+          "coords": [
+            -2.160149,
+            46.900389
+          ],
+          "category": "recreational",
+          "arrive_at": "15:41",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese charmante Strandbucht, die für ihre traditionelle Muschelzucht bekannt ist, und probieren Sie unbedingt die frischen Meeresfrüchte in den nahen Lokalen.",
+            "hu": "Fedezze fel ezt a hagyományos kagylótenyésztéséről híres hangulatos tengerparti öblöt, és mindenképpen kóstolja meg a közeli éttermek kínálta friss, helyi tengeri gyümölcsöket.",
+            "ro": "Descoperiți acest golf fermecător renumit pentru cultivarea tradițională a midiilor și asigurați-vă că gustați fructele de mare proaspete la restaurantele din apropiere.",
+            "en": "Discover this charming beach cove renowned for its traditional mussel farming, and make sure to taste the incredibly fresh local seafood at the nearby coastal establishments."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Fahrt mit einem Panoramablick vom erhöhten Aussichtspunkt. Die Route führt Sie vormittags weiter zu abgelegenen Dünen und historischen Kirchen. Nach dem Mittagessen entdecken Sie die kulturellen Schätze und den zentralen Leuchtturm der Stadt. Der Tag endet perfekt an den malerischen Stränden, wo die untergehende Sonne die Wellen in ein goldenes Licht taucht.",
+        "hu": "Kezdje az utazást egy lenyűgöző panorámával a magaslati kilátóból. Az útvonal délelőtt a félreeső dűnékhez és a történelmi templomokhoz vezet. Ebéd után felfedezheti a város kulturális kincseit és a központi világítótornyot. A nap tökéletesen zárul a festői strandokon, ahol a lenyugvó nap arany fénybe vonja a szelíden morajló óceáni hullámokat.",
+        "ro": "Începeți călătoria cu o vedere panoramică de la punctul de belvedere înalt. Traseul vă duce dimineața spre dunele izolate și bisericile istorice. După prânz, veți descoperi comorile culturale și farul central al orașului. Ziua se încheie perfect pe plajele pitorești, unde soarele la apus scaldă valurile oceanului într-o lumină aurie spectaculoasă și liniștitoare.",
+        "en": "Start your beautiful drive with a stunning panoramic view from the elevated viewpoint. The route takes you seamlessly to secluded dunes and historic churches in the morning. After a lovely lunch, discover the city's rich cultural treasures and the central lighthouse. The day ends perfectly on the picturesque beaches, where the setting sun casts a warm golden glow over the ocean waves."
+      }
+    }
+  }
+}

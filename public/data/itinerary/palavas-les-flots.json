@@ -1,0 +1,451 @@
+{
+  "city_id": "palavas-les-flots",
+  "anchor": {
+    "name": "Palavas-les-Flots",
+    "coords": [
+      3.9306,
+      43.5294
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:39",
+      "total_km": 1.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Yachthafen",
+            "hu": "Jachtkikötő",
+            "ro": "Portul de agrement",
+            "en": "Marina"
+          },
+          "coords": [
+            3.932651,
+            43.524466
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Fischerboote bei ihrer Rückkehr in den malerischen Hafen und kaufen Sie fangfrischen Fisch direkt an den Kais, um das lokale Flair zu genießen.",
+            "hu": "Figyelje meg a festői kikötőbe visszatérő halászhajókat, és vásároljon friss fogást közvetlenül a rakparton a helyi hangulat megtapasztalásához.",
+            "ro": "Priviți bărcile de pescari întorcându-se în portul pitoresc și cumpărați pește proaspăt direct de pe chei pentru a simți atmosfera locală.",
+            "en": "Watch the fishing boats return to the picturesque harbor and buy fresh catch directly from the quays to truly experience the local atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Pierre",
+            "hu": "Szent Péter-templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            3.931368,
+            43.528758
+          ],
+          "category": "religious",
+          "arrive_at": "09:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Eleganz dieser dem Schutzpatron der Fischer gewidmeten Kirche und achten Sie auf die maritimen Details im hellen Innenraum.",
+            "hu": "Csodálja meg a halászok védőszentjének szentelt templom egyszerű eleganciáját, és figyelje meg a világos belső tér tengeri motívumait.",
+            "ro": "Admirați eleganța simplă a acestei biserici dedicate patronului pescarilor și observați detaliile maritime din interiorul luminos.",
+            "en": "Admire the simple elegance of this church dedicated to the patron saint of fishermen, taking note of the maritime details in its bright interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare de la Méditerranée",
+            "hu": "Phare de la Méditerranée",
+            "ro": "Phare de la Méditerranée",
+            "en": "Phare de la Méditerranée"
+          },
+          "coords": [
+            3.932204,
+            43.528778
+          ],
+          "category": "recreational",
+          "arrive_at": "10:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick von diesem umgebauten Wasserturm aus und besuchen Sie das Drehrestaurant am besten kurz vor dem Sonnenuntergang.",
+            "hu": "Élvezze a lélegzetelállító panorámát ebből az átalakított víztoronyból, és érdemes a forgóéttermet közvetlenül naplemente előtt meglátogatni.",
+            "ro": "Bucurați-vă de panorama uluitoare din acest turn de apă transformat și vizitați restaurantul rotativ ideal chiar înainte de apusul soarelui.",
+            "en": "Enjoy the breathtaking panoramic view from this converted water tower, and try to visit the revolving restaurant just before sunset for the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc du Levant",
+            "hu": "Levant Park",
+            "ro": "Parcul Levant",
+            "en": "Levant Park"
+          },
+          "coords": [
+            3.931938,
+            43.533443
+          ],
+          "category": "natural",
+          "arrive_at": "11:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diese grüne Oase mit ihren schattigen Wegen und dem kleinen Wasserfall, um sich an heißen Tagen eine erfrischende Pause zu gönnen.",
+            "hu": "Sétáljon végig ezen a zöld oázison, melynek árnyékos ösvényei és kis vízesése tökéletes hűsítő pihenést nyújtanak a forró napokon.",
+            "ro": "Plimbați-vă prin această oază verde, cu aleile sale umbrite și cascada mică, pentru a vă bucura de o pauză răcoritoare în zilele toride.",
+            "en": "Stroll through this green oasis with its shaded paths and small waterfall, perfect for a refreshing break from the sun on hot days."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Albert Dubout",
+            "hu": "Albert Dubout Múzeum",
+            "ro": "Muzeul Albert Dubout",
+            "en": "Albert Dubout Museum"
+          },
+          "coords": [
+            3.934342,
+            43.534247
+          ],
+          "category": "museum",
+          "arrive_at": "12:29",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Lachen Sie über die humorvollen Karikaturen des berühmten Zeichners in dieser alten Festung, und informieren Sie sich vorab über temporäre Sonderausstellungen.",
+            "hu": "Nevessen a híres rajzoló humoros karikatúráin ebben a régi erődben, de előzetesen tájékozódjon az időszaki különkiállításokról is.",
+            "ro": "Râdeți la caricaturile pline de umor ale celebrului desenator din această veche fortăreață și verificați în prealabil expozițiile speciale temporare.",
+            "en": "Laugh at the humorous caricatures by the famous illustrator housed in this old redoubt, and check ahead for any special temporary exhibitions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im charmanten Yachthafen, wo Fischer ihre frischen Fänge präsentieren. Anschließend schlendern Sie zur Kirche Saint-Pierre, einem friedlichen Ort der Besinnung. Zur Mittagszeit besteigen Sie den Leuchtturm am Mittelmeer für atemberaubende Ausblicke. Der Nachmittag bietet Entspannung im schattigen Parc du Levant, bevor Sie den Tag mit einem humorvollen Besuch im Albert Dubout Museum ausklingen lassen.",
+        "hu": "A nap a bájos jachtkikötőben indul, ahol a halászok bemutatják friss fogásaikat. Ezután sétáljon a Szent Péter-templomhoz, amely egy békés elmélkedési hely. Dél körül mássza meg a mediterrán világítótornyot a lélegzetelállító kilátásért. A délután árnyékos pihenést kínál a Levant Parkban, mielőtt a napot egy vidám látogatással zárná az Albert Dubout Múzeumban.",
+        "ro": "Ziua începe în portul pitoresc, unde pescarii își etalează capturile proaspete. Apoi vă plimbați spre Biserica Saint-Pierre, un loc liniștit de reflecție. La prânz, urcați în farul Mediteranei pentru vederi uimitoare. După-amiaza oferă relaxare în parcul umbrit Levant, înainte de a încheia ziua cu o vizită plină de umor la Muzeul Albert Dubout.",
+        "en": "Your day begins at the charming marina, where fishermen display their fresh catches. You will then stroll to the Saint-Pierre Church, a peaceful place for reflection. Around midday, ascend the Mediterranean Lighthouse for breathtaking views. The afternoon offers relaxation in the shaded Levant Park before ending the day with a humorous visit to the Albert Dubout Museum."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:46",
+      "total_km": 5.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Palavas Ost",
+            "hu": "Kelet-Palavas",
+            "ro": "Palavas Est",
+            "en": "Palavas East"
+          },
+          "coords": [
+            3.950406,
+            43.533584
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Radtour an diesem lebhaften Strandabschnitt, ideal für einen morgendlichen Spaziergang am Meer oder einen Kaffee mit Blick auf die Wellen.",
+            "hu": "Kezdje a kerékpártúrát ezen a nyüzsgő strandszakaszon, amely ideális egy reggeli tengerparti sétához vagy egy kávéhoz, kilátással a hullámokra.",
+            "ro": "Începeți turul cu bicicleta pe această plajă plină de viață, ideală pentru o plimbare de dimineață la mare sau o cafea cu vedere la valuri.",
+            "en": "Start your bike tour along this lively stretch of beach, perfect for a morning stroll by the sea or a coffee overlooking the rolling waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang du Grec",
+            "hu": "Görög-lagúna",
+            "ro": "Laguna Grecului",
+            "en": "Greek Lagoon"
+          },
+          "coords": [
+            3.945055,
+            43.538939
+          ],
+          "category": "natural",
+          "arrive_at": "10:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Halten Sie Ausschau nach den leuchtend rosa Flamingos in diesem flachen Salzwassersee und bringen Sie ein Fernglas für die beste Vogelbeobachtung mit.",
+            "hu": "Keresse a ragyogó rózsaszín flamingókat ezen a sekély sós vizű tavon, és a legjobb madármegfigyelés érdekében hozzon magával távcsövet.",
+            "ro": "Căutați flamingo roz strălucitori în acest lac cu apă sărată puțin adâncă și aduceți un binoclu pentru cea mai bună observare a păsărilor.",
+            "en": "Look out for the vibrant pink flamingos in this shallow saltwater lake and bring binoculars to get the best birdwatching experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Albert Dubout",
+            "hu": "Albert Dubout Múzeum",
+            "ro": "Muzeul Albert Dubout",
+            "en": "Albert Dubout Museum"
+          },
+          "coords": [
+            3.934342,
+            43.534247
+          ],
+          "category": "museum",
+          "arrive_at": "11:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die witzigen Zeichnungen in der alten Verteidigungsanlage, welche die französische Lebensart mit einem charmanten Augenzwinkern darstellen.",
+            "hu": "Fedezze fel a régi védműben található szellemes rajzokat, amelyek sármos kacsintással mutatják be a francia életmódot és szokásokat.",
+            "ro": "Explorați desenele amuzante din vechea fortificație de apărare, care ilustrează modul de viață francez cu o notă fermecătoare de ironie.",
+            "en": "Explore the witty drawings inside the old defensive redoubt, perfectly depicting the French way of life with a charming touch of irony."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare de la Méditerranée",
+            "hu": "Phare de la Méditerranée",
+            "ro": "Phare de la Méditerranée",
+            "en": "Phare de la Méditerranée"
+          },
+          "coords": [
+            3.932204,
+            43.528778
+          ],
+          "category": "recreational",
+          "arrive_at": "13:16",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Gelegenheit, vom ehemaligen Wasserturm über ganz Palavas zu blicken, ein Muss für jeden Besucher mit Kameraausrüstung.",
+            "hu": "Használja ki a lehetőséget, hogy az egykori víztoronyból egész Palavasra rálásson, amely minden fényképezőgéppel érkező számára kötelező.",
+            "ro": "Profitați de ocazia de a privi peste tot Palavas din fostul turn de apă, o necesitate pentru orice vizitator pasionat de fotografie panoramică.",
+            "en": "Take the opportunity to look out over all of Palavas from the former water tower, an absolute must for any visitor carrying camera gear."
+          }
+        },
+        {
+          "name": {
+            "de": "Palavas West",
+            "hu": "Nyugat-Palavas",
+            "ro": "Palavas Vest",
+            "en": "Palavas West"
+          },
+          "coords": [
+            3.921172,
+            43.522388
+          ],
+          "category": "recreational",
+          "arrive_at": "13:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Radeln Sie gemütlich an der Promenade dieses Küstenabschnitts entlang und probieren Sie ein Eis in einem der zahlreichen kleinen Cafés am Wegesrand.",
+            "hu": "Kerekezzen kényelmesen a partszakasz sétányán, és kóstoljon meg egy fagylaltot az út mentén található számos kis kávézó egyikében.",
+            "ro": "Ciclism pe îndelete de-a lungul promenadei acestei secțiuni de coastă și încercați o înghețată într-una dintre numeroasele cafenele mici de pe drum.",
+            "en": "Cycle leisurely along the promenade of this coastal section and be sure to try some delicious local ice cream at a small roadside cafe."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang du Prévost",
+            "hu": "Prévost-lagúna",
+            "ro": "Laguna Prévost",
+            "en": "Prévost Lagoon"
+          },
+          "coords": [
+            3.901643,
+            43.522396
+          ],
+          "category": "natural",
+          "arrive_at": "14:52",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Kite-Surfer auf den beständigen Winden der Lagune und suchen Sie sich einen geschützten Platz für ein ruhiges Picknick.",
+            "hu": "Figyelje a kite-szörfösöket a lagúna egyenletes szelein, és keressen egy védett helyet egy csendes délutáni piknikhez a part mentén.",
+            "ro": "Urmăriți kitesurferii profitând de vânturile constante ale lagunei și găsiți un loc ferit pentru un picnic liniștit de după-amiază.",
+            "en": "Watch the kite surfers riding the steady lagoon winds and find a sheltered spot along the bank for a peaceful afternoon picnic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Am Morgen radeln Sie entlang der östlichen Strände zum malerischen Étang du Grec, berühmt für seine Flamingos. Gegen Mittag erwartet Sie humorvolle Kunst im Albert Dubout Museum und weite Ausblicke vom Phare de la Méditerranée. Am Nachmittag führt der Weg über den belebten Weststrand hin zur weitläufigen Lagune Étang du Prévost, wo Sie entspannt den Kitesurfern zusehen.",
+        "hu": "Reggel a keleti strandok mentén a festői Görög-lagúnához kerékpározik, amely híres flamingóiról. Dél körül humoros művészet várja az Albert Dubout Múzeumban, majd panoráma a világítótoronyból. Délután az út a forgalmas nyugati strandon át a tágas Prévost-lagúnához vezet, ahol nyugodtan figyelheti a kiteszörfösöket.",
+        "ro": "Dimineața, pedalați de-a lungul plajelor estice până la pitorescul lac Grec, faimos pentru flamingo. La prânz, arta plină de umor vă așteaptă la Muzeul Albert Dubout și vederi de la Farul Mediteranei. După-amiaza, traseul duce de-a lungul plajei vestice animate până la laguna vastă Prévost, unde puteți privi kitesurferii.",
+        "en": "In the morning, cycle along the eastern beaches to the picturesque Étang du Grec, famous for flamingos. By midday, humorous art awaits at the Albert Dubout Museum alongside panoramic views from the lighthouse. The afternoon route leads via the lively west beach to the expansive Prévost Lagoon, where you can watch kite surfers relaxingly."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:20",
+      "total_km": 10.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Étang de l'Arnel",
+            "hu": "Arnel-lagúna",
+            "ro": "Laguna Arnel",
+            "en": "Arnel Lagoon"
+          },
+          "coords": [
+            3.887441,
+            43.521889
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie am Rande dieser weiten Wasserlandschaft, um die Stille des Morgens zu genießen und die spiegelglatte Wasseroberfläche zu fotografieren.",
+            "hu": "Parkoljon le ennek a hatalmas vízi tájnak a szélén, hogy élvezze a reggeli csendet és fényképezze a tükörsima vízfelszínt a felkelő napban.",
+            "ro": "Parcați la marginea acestui peisaj vast de apă pentru a vă bucura de liniștea dimineții și a fotografia suprafața apei netedă ca sticla.",
+            "en": "Park on the edge of this vast watery landscape to enjoy the morning silence and perfectly photograph the mirror-like water surface."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Maguelone",
+            "hu": "Maguelone-part",
+            "ro": "Plaja Maguelone",
+            "en": "Maguelone Beach"
+          },
+          "coords": [
+            3.89852,
+            43.513101
+          ],
+          "category": "recreational",
+          "arrive_at": "10:29",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Verbinden Sie Entspannung am unberührten Strand mit einem Spaziergang zur historischen Kathedrale, die sich hinter den Dünen versteckt.",
+            "hu": "Kösse össze az érintetlen tengerparti pihenést a dűnék mögött megbúvó történelmi katedrálishoz tett kellemes sétával.",
+            "ro": "Combinați relaxarea pe plaja neatinsă cu o plimbare spre catedrala istorică ascunsă chiar în spatele dunelor de nisip fin.",
+            "en": "Combine deep relaxation on the pristine beach with a short stroll to the historic cathedral hidden just behind the rolling dunes."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang du Prévost",
+            "hu": "Prévost-lagúna",
+            "ro": "Laguna Prévost",
+            "en": "Prévost Lagoon"
+          },
+          "coords": [
+            3.901643,
+            43.522396
+          ],
+          "category": "natural",
+          "arrive_at": "11:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto stehen und erkunden Sie die Uferpfade zu Fuß, wo traditionelle Fischerhütten wunderbare Fotomotive im sanften Licht bieten.",
+            "hu": "Hagyja hátra az autót, és fedezze fel gyalog a parti ösvényeket, ahol a hagyományos halászkunyhók csodálatos fotótémákat kínálnak.",
+            "ro": "Lăsați mașina și explorați cărările de coastă pe jos, unde colibele tradiționale ale pescarilor oferă motive fotografice minunate în lumina blândă.",
+            "en": "Leave the car behind and explore the coastal paths on foot, where traditional fishing huts offer wonderful photo opportunities in soft light."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang du Méjean",
+            "hu": "Méjean-lagúna",
+            "ro": "Laguna Méjean",
+            "en": "Méjean Lagoon"
+          },
+          "coords": [
+            3.919758,
+            43.54657
+          ],
+          "category": "natural",
+          "arrive_at": "12:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie die speziell angelegten Holzstege für einen Spaziergang tief ins Schilf hinein, fernab vom Motorenlärm der Straße.",
+            "hu": "Használja a speciálisan épített fapallókat egy mélyreható sétához a nádasban, távol az utak zajától és a motorok zúgásától.",
+            "ro": "Folosiți pasarelele din lemn special construite pentru a face o plimbare adânc în stuf, departe de zgomotul motoarelor de pe șosea.",
+            "en": "Use the specially built wooden walkways to take a stroll deep into the reeds, far away from the engine noise of the main road."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de Pérols",
+            "hu": "Pérols-lagúna",
+            "ro": "Laguna Pérols",
+            "en": "Pérols Lagoon"
+          },
+          "coords": [
+            3.953005,
+            43.546455
+          ],
+          "category": "natural",
+          "arrive_at": "14:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die vielen Reiher und Möwen bei der Jagd, und nutzen Sie das flache Wasser für wunderschöne Spiegelungsfotografien am Nachmittag.",
+            "hu": "Figyelje meg a vadászó gémeket és sirályokat, és használja ki a sekély vizet a délutáni gyönyörű tükröződéses fotókhoz.",
+            "ro": "Urmăriți numeroșii stârci și pescăruși la vânătoare și folosiți apa puțin adâncă pentru fotografii minunate de reflexie după-amiaza.",
+            "en": "Watch the many herons and seagulls hunting, and utilize the shallow water to capture beautiful reflection photographs in the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang du Grec",
+            "hu": "Görög-lagúna",
+            "ro": "Laguna Grecului",
+            "en": "Greek Lagoon"
+          },
+          "coords": [
+            3.945055,
+            43.538939
+          ],
+          "category": "natural",
+          "arrive_at": "15:35",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Lagunentour an diesem magischen Ort, wenn die untergehende Sonne die Federn der Flamingos intensiv rosarot leuchten lässt.",
+            "hu": "Fejezze be lagúnatúráját ezen a varázslatos helyen, amikor a lemenő nap intenzív rózsaszínűre festi az itteni flamingók tollait.",
+            "ro": "Încheiați turul lagunei în acest loc magic când soarele la apus face ca penele flamingo-urilor să strălucească roz intens.",
+            "en": "Finish your grand lagoon tour at this magical place, right when the setting sun makes the local flamingos' feathers glow an intense pink."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autofahrt fokussiert sich auf die naturbelassenen Wasserlandschaften der Region. Starten Sie ruhig am Étang de l'Arnel und besuchen Sie vormittags die naturbelassene Plage Maguelone. Der Mittag gehört dem Étang du Prévost und dem versteckten Étang du Méjean mit seinen schönen Holzstegen. Später am Nachmittag schließen Sie an den Seen von Pérols und am Étang du Grec ab, wo unzählige Vögel leben.",
+        "hu": "Az autós túra a régió természetes vízi tájaira összpontosít. Kezdje nyugodtan az Arnel-lagúnánál, és látogasson el a természetes Maguelone-partra. A dél a Prévost és az eldugott Méjean-lagúnáé, gyönyörű fapallóival. Később délután a Pérols-tavaknál és a számtalan madárnak otthont adó Görög-lagúnánál zárja útját.",
+        "ro": "Călătoria cu mașina se concentrează pe peisajele naturale de apă. Începeți la Laguna Arnel și vizitați dimineața plaja naturală Maguelone. Prânzul este pentru Laguna Prévost și Laguna ascunsă Méjean, cu pasarelele sale de lemn. Mai târziu după-amiaza, finalizați la lacurile din Pérols și Laguna Grec, unde trăiesc nenumărate păsări.",
+        "en": "Your driving tour focuses entirely on the region's natural watery landscapes. Start peacefully at the Arnel Lagoon and visit the natural Maguelone Beach in the morning. Midday belongs to the Prévost Lagoon and the hidden Méjean Lagoon with its lovely wooden walkways. Later, conclude at the Pérols lakes and Greek Lagoon, home to countless birds."
+      }
+    }
+  }
+}

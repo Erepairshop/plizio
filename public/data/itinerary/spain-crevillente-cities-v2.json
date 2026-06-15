@@ -1,0 +1,612 @@
+{
+  "city_id": "spain-crevillente-cities-v2",
+  "anchor": {
+    "name": "Crevillente",
+    "coords": [
+      -0.80889,
+      38.24861
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:54",
+      "total_km": 2.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "San Sebastián",
+            "hu": "San Sebastián",
+            "ro": "San Sebastián",
+            "en": "San Sebastián"
+          },
+          "coords": [
+            -0.812885,
+            38.248098
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Einsiedelei San Sebastián, ein architektonisches Juwel der Stadt, aber überprüfen Sie die Öffnungszeiten, da diese oft variieren.",
+            "hu": "Csodálja meg a történelmi San Sebastián remetelakot, a város építészeti gyöngyszemét, de mindenképpen ellenőrizze a változó nyitvatartási időket.",
+            "ro": "Admirați istoricul schit San Sebastián, o bijuterie arhitecturală a orașului, dar verificați neapărat programul de vizitare, deoarece acesta se modifică frecvent.",
+            "en": "Admire the historical Hermitage of San Sebastian, an architectural gem of the town, but be sure to check the local visiting hours as they often change."
+          }
+        },
+        {
+          "name": {
+            "de": "Obelisco de Crevillent",
+            "hu": "Obelisco de Crevillent",
+            "ro": "Obelisco de Crevillent",
+            "en": "Obelisco de Crevillent"
+          },
+          "coords": [
+            -0.811176,
+            38.246973
+          ],
+          "category": "monument",
+          "arrive_at": "09:53",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Machen Sie ein kurzes Foto am markanten Obelisco de Crevillent, einem zentralen Wahrzeichen der Stadt, und nutzen Sie die sicheren Fußgängerüberwege in der Nähe.",
+            "hu": "Készítsen egy gyors fotót a kiemelkedő Crevillent Obeliszknél, a város központi nevezetességénél, és a biztonság érdekében használja a közeli gyalogátkelőket.",
+            "ro": "Faceți o fotografie rapidă la remarcabilul Obelisc din Crevillent, un punct de reper central, și folosiți trecerile de pietoni din apropiere pentru siguranță.",
+            "en": "Take a quick photo at the prominent Obelisco de Crevillent, a central landmark of the city, and use the nearby pedestrian crossings for safety."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditori de Crevillen",
+            "hu": "Auditori de Crevillen",
+            "ro": "Auditori de Crevillen",
+            "en": "Auditori de Crevillen"
+          },
+          "coords": [
+            -0.810987,
+            38.248951
+          ],
+          "category": "cultural",
+          "arrive_at": "10:11",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Betrachten Sie die moderne Architektur des Auditori de Crevillen, dem kulturellen Herzen der Gemeinde, und trinken Sie einen Kaffee in einem der nahegelegenen Cafés.",
+            "hu": "Tekintse meg a közösség kulturális szívének számító Auditori de Crevillen modern építészetét, és igyon egy kávét az utcát szegélyező kávézók egyikében.",
+            "ro": "Priviți arhitectura modernă a Auditori de Crevillen, inima culturală a comunității, și savurați o cafea la una dintre cafenelele de pe stradă.",
+            "en": "View the modern architecture of the Auditori de Crevillen, the cultural heart of the community, and grab a coffee at one of the cafes lining the street."
+          }
+        },
+        {
+          "name": {
+            "de": "Ajuntament de Crevillent",
+            "hu": "Ajuntament de Crevillent",
+            "ro": "Ajuntament de Crevillent",
+            "en": "Ajuntament de Crevillent"
+          },
+          "coords": [
+            -0.809845,
+            38.249219
+          ],
+          "category": "historical",
+          "arrive_at": "10:53",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beobachten Sie das geschäftige Treiben rund um das Ajuntament de Crevillent, das Verwaltungszentrum und ein großartiger Ort, um von einer Bank aus Leute zu beobachten.",
+            "hu": "Figyelje meg a nyüzsgő életet a közigazgatási központ, az Ajuntament de Crevillent körül, amely kiváló hely arra, hogy egy padról nézze az embereket.",
+            "ro": "Observați activitatea animată din jurul Ajuntament de Crevillent, centrul administrativ, care este un loc excelent pentru a sta pe o bancă și a privi trecătorii.",
+            "en": "Observe the bustling activity around the Ajuntament de Crevillent, the administrative center, which is a great spot to sit on a bench and people-watch."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia Parroquial de Nuestra Señora de Belén",
+            "hu": "Nuestra Señora de Belén Plébániatemplom",
+            "ro": "Biserica Parohială Nuestra Señora de Belén",
+            "en": "Parish Church of Nuestra Señora de Belén"
+          },
+          "coords": [
+            -0.808292,
+            38.248532
+          ],
+          "category": "religious",
+          "arrive_at": "11:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie die wunderschöne Iglesia Parroquial, die für ihre beeindruckende Fassade bekannt ist, aber denken Sie an angemessene Kleidung beim Betreten.",
+            "hu": "Fedezze fel a lenyűgöző homlokzatáról híres plébániatemplomot, de a belépéshez ne feledjen szerény ruházatot ölteni.",
+            "ro": "Explorați frumoasa biserică parohială, faimoasă pentru fațada sa impresionantă, dar asigurați-vă că purtați o ținută decentă la intrare.",
+            "en": "Explore the beautiful Iglesia Parroquial, famous for its impressive facade, but remember to dress modestly before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Estatua Moros y Cristianos",
+            "hu": "Estatua Moros y Cristianos",
+            "ro": "Estatua Moros y Cristianos",
+            "en": "Estatua Moros y Cristianos"
+          },
+          "coords": [
+            -0.80872,
+            38.245754
+          ],
+          "category": "monument",
+          "arrive_at": "12:05",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.31,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Estatua Moros y Cristianos, die das berühmteste Fest der Stadt feiert, und lesen Sie die Gedenktafel, um mehr zu erfahren.",
+            "hu": "Csodálja meg a város leghíresebb fesztiváljának emléket állító Mór és Keresztény szobrot, és olvassa el a táblát a gazdag történelem megismeréséhez.",
+            "ro": "Admirați Statuia Maurilor și Creștinilor, care celebrează cel mai faimos festival al orașului, și citiți placa informativă pentru a afla istoria sa.",
+            "en": "Marvel at the Estatua Moros y Cristianos, celebrating the city's most famous annual festival, and read the plaque to learn about its rich history."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento Plaza España",
+            "hu": "Monumento Plaza España",
+            "ro": "Monumento Plaza España",
+            "en": "Monumento Plaza España"
+          },
+          "coords": [
+            -0.803828,
+            38.247599
+          ],
+          "category": "monument",
+          "arrive_at": "12:27",
+          "stay_min": 15,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Verweilen Sie kurz am Monumento Plaza España, einer Hommage auf einem hübschen Platz, der sich perfekt für eine kurze Pause im Schatten der Bäume eignet.",
+            "hu": "Töltsön el egy percet a Monumento Plaza España mellett, amely egy szép téren található, és tökéletes egy gyors pihenésre a fák árnyékában.",
+            "ro": "Petreceți un moment la Monumentul din Plaza España, un omagiu situat într-o piață superbă, ideală pentru o scurtă odihnă la umbra copacilor.",
+            "en": "Take a moment at the Monumento Plaza España, a tribute located in a lovely square, which is perfect for a quick rest under the shade of the trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Museo Parc Nou",
+            "hu": "Casa Museo Parc Nou",
+            "ro": "Casa Museo Parc Nou",
+            "en": "Casa Museo Parc Nou"
+          },
+          "coords": [
+            -0.80432,
+            38.248903
+          ],
+          "category": "museum",
+          "arrive_at": "12:44",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch das faszinierende Casa Museo Parc Nou, das lokales Erbe mit Gärten verbindet, und besuchen Sie es nachmittags, um der Hitze zu entgehen.",
+            "hu": "Sétáljon végig a lenyűgöző Casa Museo Parc Nou-n, amely ötvözi a helyi örökséget a kertekkel, és a hőség elkerülése végett időzítse délutánra a látogatást.",
+            "ro": "Plimbați-vă prin fascinanta Casă Muzeu Parc Nou, care combină patrimoniul local cu grădini, și planificați vizita după-amiaza pentru a evita căldura.",
+            "en": "Wander through the fascinating Casa Museo Parc Nou, combining local heritage with lush botanical gardens, and plan your visit for the afternoon to avoid the heat."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit einem Spaziergang durch das historische Zentrum von Crevillente, San Sebastián und dem zentralen Obelisken. Mittags erleben Sie die Kulturszene am Auditori und den belebten Ajuntament-Platz. Am Nachmittag bestaunen Sie die großartige Pfarrkirche und die berühmte Moros y Cristianos-Statue. Beenden Sie Ihren Tag entspannt im Parc Nou.",
+        "hu": "Kezdje a reggelt Crevillente történelmi szívében, felfedezve a San Sebastiánt és a központi Obeliszket. Délben a kulturális élet várja az Auditorinál és a nyüzsgő Ajuntament téren. Délután csodálja meg a nagyszerű plébániatemplomot és az ikonikus Mór és Keresztény szobrot. Zárja a napot a Parc Nou történelmi és természeti szépségei között pihenve.",
+        "ro": "Începeți dimineața plimbându-vă prin centrul istoric al Crevillentului, explorând San Sebastián și Obeliscul. La prânz, bucurați-vă de scena culturală vibrantă de la Auditori și de piața animată a Primăriei. După-amiaza, admirați grandioasa biserică parohială și statuia Maurilor și Creștinilor. Încheiați-vă ziua relaxându-vă în atmosfera istorică de la Parc Nou.",
+        "en": "Start your morning wandering through the historical heart of Crevillente, exploring San Sebastián and the central Obelisco. Midday brings you to the vibrant cultural scene at the Auditori and the bustling Ajuntament square. In the afternoon, marvel at the grand Iglesia Parroquial and the iconic Moros y Cristianos statue. Conclude your day relaxing amidst the history and nature of Parc Nou."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:16",
+      "total_km": 5.5,
+      "stop_count": 9,
+      "stops": [
+        {
+          "name": {
+            "de": "Casa Museo Parc Nou",
+            "hu": "Casa Museo Parc Nou",
+            "ro": "Casa Museo Parc Nou",
+            "en": "Casa Museo Parc Nou"
+          },
+          "coords": [
+            -0.80432,
+            38.248903
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch das faszinierende Casa Museo Parc Nou, das lokales Erbe mit Gärten verbindet, und besuchen Sie es nachmittags, um der Hitze zu entgehen.",
+            "hu": "Sétáljon végig a lenyűgöző Casa Museo Parc Nou-n, amely ötvözi a helyi örökséget a kertekkel, és a hőség elkerülése végett időzítse délutánra a látogatást.",
+            "ro": "Plimbați-vă prin fascinanta Casă Muzeu Parc Nou, care combină patrimoniul local cu grădini, și planificați vizita după-amiaza pentru a evita căldura.",
+            "en": "Wander through the fascinating Casa Museo Parc Nou, combining local heritage with lush botanical gardens, and plan your visit for the afternoon to avoid the heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento Plaza España",
+            "hu": "Monumento Plaza España",
+            "ro": "Monumento Plaza España",
+            "en": "Monumento Plaza España"
+          },
+          "coords": [
+            -0.803828,
+            38.247599
+          ],
+          "category": "monument",
+          "arrive_at": "10:51",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Verweilen Sie kurz am Monumento Plaza España, einer Hommage auf einem hübschen Platz, der sich perfekt für eine kurze Pause im Schatten der Bäume eignet.",
+            "hu": "Töltsön el egy percet a Monumento Plaza España mellett, amely egy szép téren található, és tökéletes egy gyors pihenésre a fák árnyékában.",
+            "ro": "Petreceți un moment la Monumentul din Plaza España, un omagiu situat într-o piață superbă, ideală pentru o scurtă odihnă la umbra copacilor.",
+            "en": "Take a moment at the Monumento Plaza España, a tribute located in a lovely square, which is perfect for a quick rest under the shade of the trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Estatua Moros y Cristianos",
+            "hu": "Estatua Moros y Cristianos",
+            "ro": "Estatua Moros y Cristianos",
+            "en": "Estatua Moros y Cristianos"
+          },
+          "coords": [
+            -0.80872,
+            38.245754
+          ],
+          "category": "monument",
+          "arrive_at": "11:09",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Estatua Moros y Cristianos, die das berühmteste Fest der Stadt feiert, und lesen Sie die Gedenktafel, um mehr zu erfahren.",
+            "hu": "Csodálja meg a város leghíresebb fesztiváljának emléket állító Mór és Keresztény szobrot, és olvassa el a táblát a gazdag történelem megismeréséhez.",
+            "ro": "Admirați Statuia Maurilor și Creștinilor, care celebrează cel mai faimos festival al orașului, și citiți placa informativă pentru a afla istoria sa.",
+            "en": "Marvel at the Estatua Moros y Cristianos, celebrating the city's most famous annual festival, and read the plaque to learn about its rich history."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia Parroquial de Nuestra Señora de Belén",
+            "hu": "Nuestra Señora de Belén Plébániatemplom",
+            "ro": "Biserica Parohială Nuestra Señora de Belén",
+            "en": "Parish Church of Nuestra Señora de Belén"
+          },
+          "coords": [
+            -0.808292,
+            38.248532
+          ],
+          "category": "religious",
+          "arrive_at": "11:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.31,
+          "tip_5lang": {
+            "de": "Erkunden Sie die wunderschöne Iglesia Parroquial, die für ihre beeindruckende Fassade bekannt ist, aber denken Sie an angemessene Kleidung beim Betreten.",
+            "hu": "Fedezze fel a lenyűgöző homlokzatáról híres plébániatemplomot, de a belépéshez ne feledjen szerény ruházatot ölteni.",
+            "ro": "Explorați frumoasa biserică parohială, faimoasă pentru fațada sa impresionantă, dar asigurați-vă că purtați o ținută decentă la intrare.",
+            "en": "Explore the beautiful Iglesia Parroquial, famous for its impressive facade, but remember to dress modestly before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditori de Crevillen",
+            "hu": "Auditori de Crevillen",
+            "ro": "Auditori de Crevillen",
+            "en": "Auditori de Crevillen"
+          },
+          "coords": [
+            -0.810987,
+            38.248951
+          ],
+          "category": "cultural",
+          "arrive_at": "12:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Betrachten Sie die moderne Architektur des Auditori de Crevillen, dem kulturellen Herzen der Gemeinde, und trinken Sie einen Kaffee in einem der nahegelegenen Cafés.",
+            "hu": "Tekintse meg a közösség kulturális szívének számító Auditori de Crevillen modern építészetét, és igyon egy kávét az utcát szegélyező kávézók egyikében.",
+            "ro": "Priviți arhitectura modernă a Auditori de Crevillen, inima culturală a comunității, și savurați o cafea la una dintre cafenelele de pe stradă.",
+            "en": "View the modern architecture of the Auditori de Crevillen, the cultural heart of the community, and grab a coffee at one of the cafes lining the street."
+          }
+        },
+        {
+          "name": {
+            "de": "Ajuntament de Crevillent",
+            "hu": "Ajuntament de Crevillent",
+            "ro": "Ajuntament de Crevillent",
+            "en": "Ajuntament de Crevillent"
+          },
+          "coords": [
+            -0.809845,
+            38.249219
+          ],
+          "category": "historical",
+          "arrive_at": "12:48",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beobachten Sie das geschäftige Treiben rund um das Ajuntament de Crevillent, das Verwaltungszentrum und ein großartiger Ort, um von einer Bank aus Leute zu beobachten.",
+            "hu": "Figyelje meg a nyüzsgő életet a közigazgatási központ, az Ajuntament de Crevillent körül, amely kiváló hely arra, hogy egy padról nézze az embereket.",
+            "ro": "Observați activitatea animată din jurul Ajuntament de Crevillent, centrul administrativ, care este un loc excelent pentru a sta pe o bancă și a privi trecătorii.",
+            "en": "Observe the bustling activity around the Ajuntament de Crevillent, the administrative center, which is a great spot to sit on a bench and people-watch."
+          }
+        },
+        {
+          "name": {
+            "de": "Obelisco de Crevillent",
+            "hu": "Obelisco de Crevillent",
+            "ro": "Obelisco de Crevillent",
+            "en": "Obelisco de Crevillent"
+          },
+          "coords": [
+            -0.811176,
+            38.246973
+          ],
+          "category": "monument",
+          "arrive_at": "13:14",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Machen Sie ein kurzes Foto am markanten Obelisco de Crevillent, einem zentralen Wahrzeichen der Stadt, und nutzen Sie die sicheren Fußgängerüberwege in der Nähe.",
+            "hu": "Készítsen egy gyors fotót a kiemelkedő Crevillent Obeliszknél, a város központi nevezetességénél, és a biztonság érdekében használja a közeli gyalogátkelőket.",
+            "ro": "Faceți o fotografie rapidă la remarcabilul Obelisc din Crevillent, un punct de reper central, și folosiți trecerile de pietoni din apropiere pentru siguranță.",
+            "en": "Take a quick photo at the prominent Obelisco de Crevillent, a central landmark of the city, and use the nearby pedestrian crossings for safety."
+          }
+        },
+        {
+          "name": {
+            "de": "San Sebastián",
+            "hu": "San Sebastián",
+            "ro": "San Sebastián",
+            "en": "San Sebastián"
+          },
+          "coords": [
+            -0.812885,
+            38.248098
+          ],
+          "category": "historical",
+          "arrive_at": "13:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Einsiedelei San Sebastián, ein architektonisches Juwel der Stadt, aber überprüfen Sie die Öffnungszeiten, da diese oft variieren.",
+            "hu": "Csodálja meg a történelmi San Sebastián remetelakot, a város építészeti gyöngyszemét, de mindenképpen ellenőrizze a változó nyitvatartási időket.",
+            "ro": "Admirați istoricul schit San Sebastián, o bijuterie arhitecturală a orașului, dar verificați neapărat programul de vizitare, deoarece acesta se modifică frecvent.",
+            "en": "Admire the historical Hermitage of San Sebastian, an architectural gem of the town, but be sure to check the local visiting hours as they often change."
+          }
+        },
+        {
+          "name": {
+            "de": "els Pontets",
+            "hu": "els Pontets",
+            "ro": "els Pontets",
+            "en": "els Pontets"
+          },
+          "coords": [
+            -0.825177,
+            38.264642
+          ],
+          "category": "landmark",
+          "arrive_at": "14:21",
+          "stay_min": 55,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Wandern Sie zu els Pontets, einem antiken Aquädukt mitten in der Natur, und tragen Sie festes Schuhwerk, da die Wege uneben und steinig sein können.",
+            "hu": "Túrázzon ki a természet lágy ölén található ősi vízvezetékhez, az els Pontets-hez, és viseljen masszív túracipőt, mivel az ösvények egyenetlenek és sziklásak lehetnek.",
+            "ro": "Faceți o drumeție până la els Pontets, un apeduct antic înconjurat de natură, și purtați încălțăminte rezistentă deoarece traseele pot fi denivelate și pietroase.",
+            "en": "Hike out to els Pontets, an ancient aqueduct surrounded by nature, and wear sturdy walking shoes since the trails can be uneven and rocky."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt am wunderschönen Casa Museo Parc Nou, bevor Sie zu den Denkmälern der Stadt fahren. Mittags sehen Sie die beeindruckende Iglesia Parroquial und das prächtige Auditori. Am Nachmittag radeln Sie am Ajuntament vorbei zum historischen San Sebastián. Beenden Sie Ihr Abenteuer mit einer erfrischenden Fahrt zum antiken Aquädukt els Pontets.",
+        "hu": "Kerékpártúrája a gyönyörű Casa Museo Parc Nou-nál kezdődik, mielőtt a város emlékművei felé venné az irányt. Délben a lenyűgöző plébániatemplom és az Auditori várja. A délutáni tekerés az Ajuntament mellett a történelmi San Sebastiánhoz vezet. Zárja kalandját egy frissítő biciklizéssel az els Pontets ősi vízvezetékéhez.",
+        "ro": "Turul cu bicicleta începe la frumoasa Casă Muzeu Parc Nou, înainte de a pedala spre monumentele orașului. La prânz, vizitați impresionanta biserică parohială și Auditori. După-amiaza, treceți pe lângă Primărie și ajungeți la istoricul San Sebastián. Încheiați-vă aventura cu o plimbare revigorantă până la apeductul antic els Pontets.",
+        "en": "Your cycling tour starts at the beautiful Casa Museo Parc Nou, taking in the serene gardens before riding towards the city's monuments. Midday features the striking Iglesia Parroquial and the grand Auditori. Afternoon pedaling takes you past the Ajuntament and out to the historical San Sebastián. End your adventure with a refreshing ride to the ancient aqueduct of els Pontets."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:11",
+      "total_km": 8.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "els Pontets",
+            "hu": "els Pontets",
+            "ro": "els Pontets",
+            "en": "els Pontets"
+          },
+          "coords": [
+            -0.825177,
+            38.264642
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.6,
+          "tip_5lang": {
+            "de": "Wandern Sie zu els Pontets, einem antiken Aquädukt mitten in der Natur, und tragen Sie festes Schuhwerk, da die Wege uneben und steinig sein können.",
+            "hu": "Túrázzon ki a természet lágy ölén található ősi vízvezetékhez, az els Pontets-hez, és viseljen masszív túracipőt, mivel az ösvények egyenetlenek és sziklásak lehetnek.",
+            "ro": "Faceți o drumeție până la els Pontets, un apeduct antic înconjurat de natură, și purtați încălțăminte rezistentă deoarece traseele pot fi denivelate și pietroase.",
+            "en": "Hike out to els Pontets, an ancient aqueduct surrounded by nature, and wear sturdy walking shoes since the trails can be uneven and rocky."
+          }
+        },
+        {
+          "name": {
+            "de": "San Sebastián",
+            "hu": "San Sebastián",
+            "ro": "San Sebastián",
+            "en": "San Sebastián"
+          },
+          "coords": [
+            -0.812885,
+            38.248098
+          ],
+          "category": "historical",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Einsiedelei San Sebastián, ein architektonisches Juwel der Stadt, aber überprüfen Sie die Öffnungszeiten, da diese oft variieren.",
+            "hu": "Csodálja meg a történelmi San Sebastián remetelakot, a város építészeti gyöngyszemét, de mindenképpen ellenőrizze a változó nyitvatartási időket.",
+            "ro": "Admirați istoricul schit San Sebastián, o bijuterie arhitecturală a orașului, dar verificați neapărat programul de vizitare, deoarece acesta se modifică frecvent.",
+            "en": "Admire the historical Hermitage of San Sebastian, an architectural gem of the town, but be sure to check the local visiting hours as they often change."
+          }
+        },
+        {
+          "name": {
+            "de": "Obelisco de Crevillent",
+            "hu": "Obelisco de Crevillent",
+            "ro": "Obelisco de Crevillent",
+            "en": "Obelisco de Crevillent"
+          },
+          "coords": [
+            -0.811176,
+            38.246973
+          ],
+          "category": "monument",
+          "arrive_at": "10:21",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Machen Sie ein kurzes Foto am markanten Obelisco de Crevillent, einem zentralen Wahrzeichen der Stadt, und nutzen Sie die sicheren Fußgängerüberwege in der Nähe.",
+            "hu": "Készítsen egy gyors fotót a kiemelkedő Crevillent Obeliszknél, a város központi nevezetességénél, és a biztonság érdekében használja a közeli gyalogátkelőket.",
+            "ro": "Faceți o fotografie rapidă la remarcabilul Obelisc din Crevillent, un punct de reper central, și folosiți trecerile de pietoni din apropiere pentru siguranță.",
+            "en": "Take a quick photo at the prominent Obelisco de Crevillent, a central landmark of the city, and use the nearby pedestrian crossings for safety."
+          }
+        },
+        {
+          "name": {
+            "de": "Ajuntament de Crevillent",
+            "hu": "Ajuntament de Crevillent",
+            "ro": "Ajuntament de Crevillent",
+            "en": "Ajuntament de Crevillent"
+          },
+          "coords": [
+            -0.809845,
+            38.249219
+          ],
+          "category": "historical",
+          "arrive_at": "10:37",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Beobachten Sie das geschäftige Treiben rund um das Ajuntament de Crevillent, das Verwaltungszentrum und ein großartiger Ort, um von einer Bank aus Leute zu beobachten.",
+            "hu": "Figyelje meg a nyüzsgő életet a közigazgatási központ, az Ajuntament de Crevillent körül, amely kiváló hely arra, hogy egy padról nézze az embereket.",
+            "ro": "Observați activitatea animată din jurul Ajuntament de Crevillent, centrul administrativ, care este un loc excelent pentru a sta pe o bancă și a privi trecătorii.",
+            "en": "Observe the bustling activity around the Ajuntament de Crevillent, the administrative center, which is a great spot to sit on a bench and people-watch."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia Parroquial de Nuestra Señora de Belén",
+            "hu": "Nuestra Señora de Belén Plébániatemplom",
+            "ro": "Biserica Parohială Nuestra Señora de Belén",
+            "en": "Parish Church of Nuestra Señora de Belén"
+          },
+          "coords": [
+            -0.808292,
+            38.248532
+          ],
+          "category": "religious",
+          "arrive_at": "11:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie die wunderschöne Iglesia Parroquial, die für ihre beeindruckende Fassade bekannt ist, aber denken Sie an angemessene Kleidung beim Betreten.",
+            "hu": "Fedezze fel a lenyűgöző homlokzatáról híres plébániatemplomot, de a belépéshez ne feledjen szerény ruházatot ölteni.",
+            "ro": "Explorați frumoasa biserică parohială, faimoasă pentru fațada sa impresionantă, dar asigurați-vă că purtați o ținută decentă la intrare.",
+            "en": "Explore the beautiful Iglesia Parroquial, famous for its impressive facade, but remember to dress modestly before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Estatua Moros y Cristianos",
+            "hu": "Estatua Moros y Cristianos",
+            "ro": "Estatua Moros y Cristianos",
+            "en": "Estatua Moros y Cristianos"
+          },
+          "coords": [
+            -0.80872,
+            38.245754
+          ],
+          "category": "monument",
+          "arrive_at": "11:44",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.31,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Estatua Moros y Cristianos, die das berühmteste Fest der Stadt feiert, und lesen Sie die Gedenktafel, um mehr zu erfahren.",
+            "hu": "Csodálja meg a város leghíresebb fesztiváljának emléket állító Mór és Keresztény szobrot, és olvassa el a táblát a gazdag történelem megismeréséhez.",
+            "ro": "Admirați Statuia Maurilor și Creștinilor, care celebrează cel mai faimos festival al orașului, și citiți placa informativă pentru a afla istoria sa.",
+            "en": "Marvel at the Estatua Moros y Cristianos, celebrating the city's most famous annual festival, and read the plaque to learn about its rich history."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Museo Parc Nou",
+            "hu": "Casa Museo Parc Nou",
+            "ro": "Casa Museo Parc Nou",
+            "en": "Casa Museo Parc Nou"
+          },
+          "coords": [
+            -0.80432,
+            38.248903
+          ],
+          "category": "museum",
+          "arrive_at": "12:01",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch das faszinierende Casa Museo Parc Nou, das lokales Erbe mit Gärten verbindet, und besuchen Sie es nachmittags, um der Hitze zu entgehen.",
+            "hu": "Sétáljon végig a lenyűgöző Casa Museo Parc Nou-n, amely ötvözi a helyi örökséget a kertekkel, és a hőség elkerülése végett időzítse délutánra a látogatást.",
+            "ro": "Plimbați-vă prin fascinanta Casă Muzeu Parc Nou, care combină patrimoniul local cu grădini, și planificați vizita după-amiaza pentru a evita căldura.",
+            "en": "Wander through the fascinating Casa Museo Parc Nou, combining local heritage with lush botanical gardens, and plan your visit for the afternoon to avoid the heat."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour etwas außerhalb des Zentrums bei els Pontets und genießen Sie die antiken Strukturen. Mittags fahren Sie in die Stadt, um San Sebastián und den beeindruckenden Obelisken zu erkunden. Der Nachmittag ist den zentralen Sehenswürdigkeiten wie dem Ajuntament und der Pfarrkirche gewidmet. Beenden Sie den Tag entspannt im Casa Museo Parc Nou.",
+        "hu": "Kezdje autós túráját a központon kívül, az els Pontets ősi építményeinél és természeti környezeténél. Délben hajtson be a városba, hogy felfedezze a San Sebastiánt és az Obeliszket. A délutánt a központi látnivalóknak szentelje, mint az Ajuntament és a plébániatemplom. Fejezze be a napot egy kellemes látogatással a Casa Museo Parc Nou-ban.",
+        "ro": "Începeți turul cu mașina la marginea orașului, la els Pontets, admirând structurile antice. La prânz, conduceți spre centru pentru a explora San Sebastián și impresionantul Obelisc. După-amiaza este dedicată atracțiilor centrale precum Primăria și biserica parohială. Încheiați cu o vizită relaxantă la Casa Muzeu Parc Nou.",
+        "en": "Begin your driving tour just outside the center at els Pontets, taking in the ancient structures and natural surroundings. By midday, drive into the city to explore San Sebastián and the impressive Obelisco. The afternoon is dedicated to the core sights like the Ajuntament and Iglesia Parroquial. Finish with a leisurely extended visit to the Casa Museo Parc Nou."
+      }
+    }
+  }
+}

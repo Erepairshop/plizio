@@ -1,0 +1,451 @@
+{
+  "city_id": "lavaur",
+  "anchor": {
+    "name": "Lavaur",
+    "coords": [
+      1.8189,
+      43.6989
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:42",
+      "total_km": 1.15,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Tour des Rondes",
+            "hu": "Tour des Rondes",
+            "ro": "Tour des Rondes",
+            "en": "Tour des Rondes"
+          },
+          "coords": [
+            1.81765,
+            43.6974
+          ],
+          "category": "fortress",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Überreste der alten Befestigungsanlagen, um die wehrhafte Vergangenheit der Stadt zu verstehen, aber tragen Sie unbedingt bequemes Schuhwerk.",
+            "hu": "Csodálja meg a régi erődítmények maradványait, hogy megértse a város védelmi múltját, de mindenképpen kényelmes cipőt viseljen az egyenetlen macskaköveken.",
+            "ro": "Admirați rămășițele vechilor fortificații pentru a înțelege trecutul defensiv al orașului, dar asigurați-vă că purtați încălțăminte confortabilă pe piatra cubică.",
+            "en": "Admire the remnants of the old fortifications to understand the town's defensive past, but be sure to wear comfortable shoes for the uneven cobblestones."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-François Church",
+            "hu": "Saint-François templom",
+            "ro": "Biserica Saint-François",
+            "en": "Saint-François Church"
+          },
+          "coords": [
+            1.817101,
+            43.69892
+          ],
+          "category": "religious",
+          "arrive_at": "10:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betreten Sie diese ruhige religiöse Stätte, um ihre markanten architektonischen Details zu betrachten, und kommen Sie am besten morgens für das schönste Licht.",
+            "hu": "Lépjen be ebbe a nyugodt vallási épületbe, hogy megfigyelhesse lenyűgöző építészeti részleteit, és próbáljon meg a délelőtti órákban érkezni a legjobb fényekért.",
+            "ro": "Pășiți în acest lăcaș de cult liniștit pentru a observa detaliile arhitecturale remarcabile și încercați să vizitați dimineața pentru cea mai bună lumină naturală.",
+            "en": "Step inside this tranquil religious site to observe its striking architectural details, and try to visit during the morning hours for the best natural lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Alain Cathedral",
+            "hu": "Saint-Alain katedrális",
+            "ro": "Catedrala Saint-Alain",
+            "en": "Saint-Alain Cathedral"
+          },
+          "coords": [
+            1.821829,
+            43.69921
+          ],
+          "category": "religious",
+          "arrive_at": "11:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese gewaltige Backsteinkathedrale, die die Skyline dominiert, und achten Sie besonders auf die kunstvolle Jacquemart-Uhr im imposanten Westturm.",
+            "hu": "Fedezze fel ezt a városképet uraló, masszív tégla katedrálist, és fordítson különös figyelmet az impozáns nyugati toronyban rejlő díszes jacquemart órára.",
+            "ro": "Explorați această catedrală masivă din cărămidă care domină orizontul, acordând o atenție deosebită ceasului jacquemart ornamentat, ascuns în turnul său vestic.",
+            "en": "Explore this massive brick cathedral that dominates the skyline, paying special attention to the ornate jacquemart clock hidden within its imposing western tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Bishop's Garden",
+            "hu": "Püspöki kert",
+            "ro": "Grădina Episcopului",
+            "en": "Bishop's Garden"
+          },
+          "coords": [
+            1.822084,
+            43.700303
+          ],
+          "category": "recreational",
+          "arrive_at": "12:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesen elegant angelegten Gärten mit Panoramablick auf den Fluss Agout, die den perfekten ruhigen Ort für ein kleines Mittagspicknick bieten.",
+            "hu": "Pihenjen ezekben az elegánsan parkosított kertekben, amelyek panorámás kilátást nyújtanak az Agout folyóra, így tökéletes és békés helyszínt biztosítanak egy piknikhez.",
+            "ro": "Relaxați-vă în aceste grădini amenajate elegant, care oferă vederi panoramice asupra râului Agout, fiind locul liniștit perfect pentru a savura un mic picnic la amiază.",
+            "en": "Relax in these elegantly landscaped gardens offering panoramic views of the Agout river, making it the perfect peaceful spot to enjoy a small midday picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour des Rondes",
+            "hu": "Tour des Rondes",
+            "ro": "Tour des Rondes",
+            "en": "Tour des Rondes"
+          },
+          "coords": [
+            1.81765,
+            43.6974
+          ],
+          "category": "fortress",
+          "arrive_at": "13:57",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kehren Sie zu diesem Aussichtspunkt zurück, um die Architektur im weichen Nachmittagslicht zu betrachten, und machen Sie vor Ihrer Abreise noch ein paar Erinnerungsfotos.",
+            "hu": "Térjen vissza ehhez a kilátóponthoz, hogy a délutáni lágy fényben szemlélhesse az építészetet, és készítsen még néhány emlékezetes fotót az indulás előtt.",
+            "ro": "Întoarceți-vă la acest punct de observație pentru a vedea arhitectura în lumina blândă a după-amiezii și faceți câteva fotografii de despărțire înainte de plecare.",
+            "en": "Return to this vantage point to appreciate the architecture in the softer afternoon light, and take a few final souvenir photographs before departing."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt in den alten Festungsanlagen der Tour des Rondes, gefolgt von der Ruhe in Saint-François. Mittags stehen Sie vor der riesigen Kathedrale Saint-Alain, einem echten Backstein-Meisterwerk. Am Nachmittag bietet der elegante Bischofsgarten einen weiten Blick auf den Fluss Agout. Sie beenden Ihre Tour mit einem letzten, friedlichen Blick auf die alten Türme der Stadt.",
+        "hu": "A reggel a Tour des Rondes ősi erődítményei között kezdődik, mielőtt felfedezné a Saint-François csendjét. Délben a Saint-Alain katedrális, egy igazi tégla mestermű magasodik Ön fölé. Délután az elegáns Püspöki kert széles kilátást nyújt az Agout folyóra. Gyalogtúráját egy utolsó, békés pillantással zárja a régi tornyokra és a történelmi városközpontra.",
+        "ro": "Dimineața începe printre vechile fortificații de la Tour des Rondes, înainte de a descoperi liniștea de la Saint-François. La amiază ajungeți la impunătoarea Catedrală Saint-Alain, o adevărată capodoperă din cărămidă. După-amiaza, Grădina Episcopului oferă vederi ample asupra râului Agout. Turul de mers pe jos se încheie cu o ultimă privire liniștită asupra vechilor turnuri.",
+        "en": "Your morning starts among the ancient fortifications of Tour des Rondes before discovering the spiritual quiet of Saint-François. Midday brings you face-to-face with the towering Saint-Alain Cathedral, a true brick masterpiece. In the afternoon, the elegant Bishop's Garden offers sweeping views of the Agout river. You conclude your walking tour with a final, peaceful look at the old towers."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:10",
+      "total_km": 8.25,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-François Church",
+            "hu": "Saint-François templom",
+            "ro": "Biserica Saint-François",
+            "en": "Saint-François Church"
+          },
+          "coords": [
+            1.817101,
+            43.69892
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betreten Sie diese ruhige religiöse Stätte, um ihre markanten architektonischen Details zu betrachten, und kommen Sie am besten morgens für das schönste Licht.",
+            "hu": "Lépjen be ebbe a nyugodt vallási épületbe, hogy megfigyelhesse lenyűgöző építészeti részleteit, és próbáljon meg a délelőtti órákban érkezni a legjobb fényekért.",
+            "ro": "Pășiți în acest lăcaș de cult liniștit pentru a observa detaliile arhitecturale remarcabile și încercați să vizitați dimineața pentru cea mai bună lumină naturală.",
+            "en": "Step inside this tranquil religious site to observe its striking architectural details, and try to visit during the morning hours for the best natural lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour des Rondes",
+            "hu": "Tour des Rondes",
+            "ro": "Tour des Rondes",
+            "en": "Tour des Rondes"
+          },
+          "coords": [
+            1.81765,
+            43.6974
+          ],
+          "category": "fortress",
+          "arrive_at": "09:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Überreste der alten Befestigungsanlagen, um die wehrhafte Vergangenheit der Stadt zu verstehen, aber tragen Sie unbedingt bequemes Schuhwerk.",
+            "hu": "Csodálja meg a régi erődítmények maradványait, hogy megértse a város védelmi múltját, de mindenképpen kényelmes cipőt viseljen az egyenetlen macskaköveken.",
+            "ro": "Admirați rămășițele vechilor fortificații pentru a înțelege trecutul defensiv al orașului, dar asigurați-vă că purtați încălțăminte confortabilă pe piatra cubică.",
+            "en": "Admire the remnants of the old fortifications to understand the town's defensive past, but be sure to wear comfortable shoes for the uneven cobblestones."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Alain Cathedral",
+            "hu": "Saint-Alain katedrális",
+            "ro": "Catedrala Saint-Alain",
+            "en": "Saint-Alain Cathedral"
+          },
+          "coords": [
+            1.821829,
+            43.69921
+          ],
+          "category": "religious",
+          "arrive_at": "11:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese gewaltige Backsteinkathedrale, die die Skyline dominiert, und achten Sie besonders auf die kunstvolle Jacquemart-Uhr im imposanten Westturm.",
+            "hu": "Fedezze fel ezt a városképet uraló, masszív tégla katedrálist, és fordítson különös figyelmet az impozáns nyugati toronyban rejlő díszes jacquemart órára.",
+            "ro": "Explorați această catedrală masivă din cărămidă care domină orizontul, acordând o atenție deosebită ceasului jacquemart ornamentat, ascuns în turnul său vestic.",
+            "en": "Explore this massive brick cathedral that dominates the skyline, paying special attention to the ornate jacquemart clock hidden within its imposing western tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Bishop's Garden",
+            "hu": "Püspöki kert",
+            "ro": "Grădina Episcopului",
+            "en": "Bishop's Garden"
+          },
+          "coords": [
+            1.822084,
+            43.700303
+          ],
+          "category": "recreational",
+          "arrive_at": "12:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesen elegant angelegten Gärten mit Panoramablick auf den Fluss Agout, die den perfekten ruhigen Ort für ein kleines Mittagspicknick bieten.",
+            "hu": "Pihenjen ezekben az elegánsan parkosított kertekben, amelyek panorámás kilátást nyújtanak az Agout folyóra, így tökéletes és békés helyszínt biztosítanak egy piknikhez.",
+            "ro": "Relaxați-vă în aceste grădini amenajate elegant, care oferă vederi panoramice asupra râului Agout, fiind locul liniștit perfect pentru a savura un mic picnic la amiază.",
+            "en": "Relax in these elegantly landscaped gardens offering panoramic views of the Agout river, making it the perfect peaceful spot to enjoy a small midday picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Ancienne piscine de refroidissement",
+            "hu": "Ancienne piscine de refroidissement",
+            "ro": "Ancienne piscine de refroidissement",
+            "en": "Ancienne piscine de refroidissement"
+          },
+          "coords": [
+            1.727441,
+            43.703595
+          ],
+          "category": "natural",
+          "arrive_at": "14:25",
+          "stay_min": 105,
+          "hop_from_prev_min": 41,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses faszinierende Industriedenkmal, das von üppiger Natur zurückerobert wurde, aber bleiben Sie zu Ihrer absoluten Sicherheit auf den Wegen.",
+            "hu": "Fedezze fel ezt a buja természet által teljesen visszahódított, lenyűgöző ipari emléket, de a teljes biztonság érdekében maradjon a jól látható, kijelölt utakon.",
+            "ro": "Descoperiți această relicvă industrială fascinantă recuperată complet de natura luxuriantă, dar rămâneți pe cărările exterioare clar marcate pentru siguranța dvs.",
+            "en": "Discover this fascinating industrial relic completely reclaimed by lush nature, but stay on the clearly marked outer paths to ensure your absolute safety."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens zuerst zur Kirche Saint-François, bevor Sie die historische Tour des Rondes erkunden. Der Mittag wird von der majestätischen Kathedrale Saint-Alain und den grünen Wegen des Bischofsgartens dominiert. Nachmittags fahren Sie aus dem Zentrum zur Ancienne piscine de refroidissement, wo Sie die frische Luft und die von der Natur zurückeroberten Industrieruinen genießen.",
+        "hu": "Először a Saint-François templomhoz kerekezzen a békés reggelért, majd fedezze fel a történelmi Tour des Rondes-t. A delet a Saint-Alain katedrális fenséges építészete és a Püspöki kert zöldje uralja. Délután tekerjen ki a városközpontból az Ancienne piscine de refroidissement felé, élvezve a friss levegőt és a természet által visszahódított ipari romokat.",
+        "ro": "Pedalați mai întâi la Biserica Saint-François pentru o dimineață liniștită, apoi explorați istorica Tour des Rondes. Amiaza este dominată de arhitectura maiestuoasă a Catedralei Saint-Alain și de cărările verzi ale Grădinii Episcopului. După-amiaza, ieșiți din centrul urban către Ancienne piscine de refroidissement, bucurându-vă de aerul proaspăt și de ruinele industriale.",
+        "en": "Pedal first to Saint-François Church for a peaceful morning start, then explore the historic Tour des Rondes. Midday is dominated by the majestic architecture of Saint-Alain Cathedral and the relaxing green paths of the Bishop's Garden. In the afternoon, cycle out of the urban center to the Ancienne piscine de refroidissement, enjoying the fresh air and industrial ruins reclaimed by nature."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:30",
+      "total_km": 27.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Tour des Rondes",
+            "hu": "Tour des Rondes",
+            "ro": "Tour des Rondes",
+            "en": "Tour des Rondes"
+          },
+          "coords": [
+            1.81765,
+            43.6974
+          ],
+          "category": "fortress",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Überreste der alten Befestigungsanlagen, um die wehrhafte Vergangenheit der Stadt zu verstehen, aber tragen Sie unbedingt bequemes Schuhwerk.",
+            "hu": "Csodálja meg a régi erődítmények maradványait, hogy megértse a város védelmi múltját, de mindenképpen kényelmes cipőt viseljen az egyenetlen macskaköveken.",
+            "ro": "Admirați rămășițele vechilor fortificații pentru a înțelege trecutul defensiv al orașului, dar asigurați-vă că purtați încălțăminte confortabilă pe piatra cubică.",
+            "en": "Admire the remnants of the old fortifications to understand the town's defensive past, but be sure to wear comfortable shoes for the uneven cobblestones."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Alain Cathedral",
+            "hu": "Saint-Alain katedrális",
+            "ro": "Catedrala Saint-Alain",
+            "en": "Saint-Alain Cathedral"
+          },
+          "coords": [
+            1.821829,
+            43.69921
+          ],
+          "category": "religious",
+          "arrive_at": "10:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese gewaltige Backsteinkathedrale, die die Skyline dominiert, und achten Sie besonders auf die kunstvolle Jacquemart-Uhr im imposanten Westturm.",
+            "hu": "Fedezze fel ezt a városképet uraló, masszív tégla katedrálist, és fordítson különös figyelmet az impozáns nyugati toronyban rejlő díszes jacquemart órára.",
+            "ro": "Explorați această catedrală masivă din cărămidă care domină orizontul, acordând o atenție deosebită ceasului jacquemart ornamentat, ascuns în turnul său vestic.",
+            "en": "Explore this massive brick cathedral that dominates the skyline, paying special attention to the ornate jacquemart clock hidden within its imposing western tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Bishop's Garden",
+            "hu": "Püspöki kert",
+            "ro": "Grădina Episcopului",
+            "en": "Bishop's Garden"
+          },
+          "coords": [
+            1.822084,
+            43.700303
+          ],
+          "category": "recreational",
+          "arrive_at": "11:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesen elegant angelegten Gärten mit Panoramablick auf den Fluss Agout, die den perfekten ruhigen Ort für ein kleines Mittagspicknick bieten.",
+            "hu": "Pihenjen ezekben az elegánsan parkosított kertekben, amelyek panorámás kilátást nyújtanak az Agout folyóra, így tökéletes és békés helyszínt biztosítanak egy piknikhez.",
+            "ro": "Relaxați-vă în aceste grădini amenajate elegant, care oferă vederi panoramice asupra râului Agout, fiind locul liniștit perfect pentru a savura un mic picnic la amiază.",
+            "en": "Relax in these elegantly landscaped gardens offering panoramic views of the Agout river, making it the perfect peaceful spot to enjoy a small midday picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Ancienne piscine de refroidissement",
+            "hu": "Ancienne piscine de refroidissement",
+            "ro": "Ancienne piscine de refroidissement",
+            "en": "Ancienne piscine de refroidissement"
+          },
+          "coords": [
+            1.727441,
+            43.703595
+          ],
+          "category": "natural",
+          "arrive_at": "13:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses faszinierende Industriedenkmal, das von üppiger Natur zurückerobert wurde, aber bleiben Sie zu Ihrer absoluten Sicherheit auf den Wegen.",
+            "hu": "Fedezze fel ezt a buja természet által teljesen visszahódított, lenyűgöző ipari emléket, de a teljes biztonság érdekében maradjon a jól látható, kijelölt utakon.",
+            "ro": "Descoperiți această relicvă industrială fascinantă recuperată complet de natura luxuriantă, dar rămâneți pe cărările exterioare clar marcate pentru siguranța dvs.",
+            "en": "Discover this fascinating industrial relic completely reclaimed by lush nature, but stay on the clearly marked outer paths to ensure your absolute safety."
+          }
+        },
+        {
+          "name": {
+            "de": "Retenue de Briax",
+            "hu": "Retenue de Briax",
+            "ro": "Retenue de Briax",
+            "en": "Retenue de Briax"
+          },
+          "coords": [
+            1.775161,
+            43.644976
+          ],
+          "category": "natural",
+          "arrive_at": "14:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Machen Sie einen gemütlichen Spaziergang um diesen weitläufigen Stausee, der die lokale Vogelwelt anzieht, und bringen Sie Ihr Fernglas für Vogelbeobachtungen mit.",
+            "hu": "Tegyen egy kényelmes sétát e kiterjedt természetes víztározó körül, amely vonzza a helyi madárvilágot, és hozzon magával távcsövet a kiváló reggeli madárleshez.",
+            "ro": "Faceți o plimbare relaxantă în jurul acestui rezervor natural extins care atrage păsările locale și aduceți-vă binoclul pentru o sesiune excelentă de ornitologie.",
+            "en": "Take a leisurely stroll around this expansive natural reservoir that attracts local birdlife, and bring your binoculars for some excellent morning birdwatching."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac du Messal",
+            "hu": "Lac du Messal",
+            "ro": "Lac du Messal",
+            "en": "Lac du Messal"
+          },
+          "coords": [
+            1.81149,
+            43.626299
+          ],
+          "category": "natural",
+          "arrive_at": "16:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Genießen Sie das ruhige Wasser dieses stillen, ländlichen Sees, der sich ideal für eine kurze erholsame Pause eignet, bevor es zurück in die geschäftige Stadt geht.",
+            "hu": "Élvezze ennek a csendes, vidéki tónak a nyugodt vizét, amely ideális egy rövid, frissítő pihenőhöz, mielőtt visszaindulna a nyüzsgő városközpont felé.",
+            "ro": "Bucurați-vă de apele senine ale acestui lac local liniștit, cuibărit în mediul rural, ideal pentru o scurtă pauză revigorantă înainte de a vă întoarce în oraș.",
+            "en": "Enjoy the serene waters of this quiet local lake nestled in the countryside, ideal for a short restorative break before heading back towards the bustling town."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de pêche du Gîte de Ségur",
+            "hu": "Lac de pêche du Gîte de Ségur",
+            "ro": "Lac de pêche du Gîte de Ségur",
+            "en": "Lac de pêche du Gîte de Ségur"
+          },
+          "coords": [
+            1.869911,
+            43.651747
+          ],
+          "category": "natural",
+          "arrive_at": "17:45",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre ländliche Autofahrt an diesem malerischen, von ruhigen Wäldern umgebenen Angelsee, der sich perfekt für wunderschöne Fotos im späten Nachmittagslicht eignet.",
+            "hu": "Fejezze be vidéki autós körtúráját ennél a csendes erdőkkel körülvett, festői horgásztónál, amely tökéletes gyönyörű fényképek készítéséhez a késő délutáni fényben.",
+            "ro": "Încheiați-vă traseul rural la acest lac de pescuit pitoresc înconjurat de păduri liniștite, perfect pentru a face fotografii superbe în lumina de la sfârșitul după-amiezii.",
+            "en": "End your rural driving loop at this picturesque fishing lake surrounded by calm woodlands, perfect for taking beautiful photographs in the late afternoon light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie ins Herz von Lavaur, um die Tour des Rondes, die Kathedrale und den Bischofsgarten zu bewundern. Mittags geht es abseits der Pfade zur faszinierenden Ancienne piscine de refroidissement und zur weiten Retenue de Briax. Der Nachmittag entfaltet sich in der ruhigen Landschaft am Lac du Messal. Der Abend senkt sich malerisch über die ruhigen Gewässer des Angelsee Gîte de Ségur.",
+        "hu": "Autózzon Lavaur szívébe, hogy megcsodálja a Tour des Rondes-t, a katedrálist és a Püspöki kertet. Délben letér a kitaposott útról a lenyűgöző Ancienne piscine de refroidissement és a tágas Retenue de Briax felé. A délután a nyugodt vidéki tájakon bontakozik ki, megállva a Lac du Messal-nál. Az este gyönyörűen ereszkedik le a Lac de pêche du Gîte de Ségur csendes vizeire.",
+        "ro": "Conduceți în inima orașului Lavaur pentru a admira Tour des Rondes, Catedrala și Grădina Episcopului. Amiaza vă poartă spre fascinanta Ancienne piscine de refroidissement și vasta Retenue de Briax. După-amiaza se desfășoară prin peisajele rurale senine, cu o pauză la Lac du Messal. Seara se lasă frumos peste apele liniștite de la Lac de pêche du Gîte de Ségur.",
+        "en": "Drive into the heart of Lavaur to marvel at the Tour des Rondes, the Cathedral, and the Bishop's Garden. Midday takes you off the beaten path to the fascinating Ancienne piscine de refroidissement and the vast Retenue de Briax. The afternoon unfolds across the serene rural landscapes, pausing at Lac du Messal. Evening falls beautifully over the calm waters of Lac de pêche du Gîte de Ségur."
+      }
+    }
+  }
+}

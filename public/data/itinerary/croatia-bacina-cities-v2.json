@@ -1,0 +1,451 @@
+{
+  "city_id": "croatia-bacina-cities-v2",
+  "anchor": {
+    "name": "Baćina",
+    "coords": [
+      17.388,
+      43.08
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:36",
+      "total_km": 2.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bukočica",
+            "hu": "Bukočica",
+            "ro": "Bukočica",
+            "en": "Bukočica"
+          },
+          "coords": [
+            17.408935,
+            43.067861
+          ],
+          "category": "natural",
+          "arrive_at": "09:15",
+          "stay_min": 85,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die ruhigen Ufer von Bukočica, wo Sie eine lebhafte Vogelwelt beobachten können, also denken Sie an Ihr Fernglas für das beste Erlebnis.",
+            "hu": "Fedezze fel Bukočica nyugodt partjait, ahol megfigyelheti a helyi madárvilágot, ezért feltétlenül hozzon magával távcsövet a legjobb élmény érdekében.",
+            "ro": "Explorați țărmurile liniștite de la Bukočica, unde puteți observa păsările locale, așa că nu uitați să luați binoclul pentru cea mai bună experiență.",
+            "en": "Explore the tranquil shores of Bukočica where you can observe vibrant local birdlife, so remember to pack your binoculars for the best viewing experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Vrbnik",
+            "hu": "Vrbnik",
+            "ro": "Vrbnik",
+            "en": "Vrbnik"
+          },
+          "coords": [
+            17.413743,
+            43.071666
+          ],
+          "category": "natural",
+          "arrive_at": "10:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Machen Sie eine erfrischende Pause am Vrbnik-See, um das kristallklare Wasser zu bewundern, und tragen Sie feste Schuhe für die felsigen Wege.",
+            "hu": "Tartson egy frissítő pihenőt a Vrbnik-tónál, hogy megcsodálja a karszthegyeket tükröző kristálytiszta vizet, és viseljen masszív cipőt a sziklás utakon.",
+            "ro": "Faceți o pauză răcoritoare la lacul Vrbnik pentru a admira apele limpezi care reflectă dealurile carstice și purtați încălțăminte robustă pentru cărări.",
+            "en": "Take a refreshing pause at Vrbnik lake to admire the crystal-clear waters reflecting the surrounding karst hills, and wear sturdy shoes for the rocky paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Sladinac",
+            "hu": "Sladinac",
+            "ro": "Sladinac",
+            "en": "Sladinac"
+          },
+          "coords": [
+            17.421806,
+            43.072214
+          ],
+          "category": "natural",
+          "arrive_at": "12:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die antiken Ruinen in der Nähe des ruhigen Sladinac-Sees, die Einblicke in die Geschichte bieten, und kommen Sie früh, um Menschenmassen zu meiden.",
+            "hu": "Fedezze fel a békés Sladinac-tó melletti ősi romokat, amelyek bepillantást engednek a helyi történelembe, és látogasson el korán a tömeg elkerülése végett.",
+            "ro": "Descoperiți ruinele antice ascunse lângă lacul liniștit Sladinac, care oferă o privire în istoria locală, și vizitați-l devreme pentru a evita aglomerația.",
+            "en": "Discover the ancient ruins hidden near the serene Sladinac lake, which offers a glimpse into local history, and visit early in the day to avoid the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Plitko jezero",
+            "hu": "Plitko jezero",
+            "ro": "Plitko jezero",
+            "en": "Plitko jezero"
+          },
+          "coords": [
+            17.431292,
+            43.072325
+          ],
+          "category": "natural",
+          "arrive_at": "13:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie eine gemütliche Paddeltour über die flachen Gewässer von Plitko jezero, um das Ökosystem zu erleben, und mieten Sie ein Kajak am örtlichen Stand.",
+            "hu": "Élvezze a kényelmes evezést a Plitko jezero sekély vizén, hogy értékelje annak egyedi ökoszisztémáját, és béreljen kajakot a helyi vízparti standnál.",
+            "ro": "Bucurați-vă de o plimbare cu caiacul pe apele puțin adânci de la Plitko jezero pentru a aprecia ecosistemul său și închiriați o barcă de la standul local.",
+            "en": "Enjoy a leisurely paddle across the shallow waters of Plitko jezero to fully appreciate its unique ecosystem, and rent a kayak from the local waterfront stand."
+          }
+        },
+        {
+          "name": {
+            "de": "Šipak",
+            "hu": "Šipak",
+            "ro": "Šipak",
+            "en": "Šipak"
+          },
+          "coords": [
+            17.430374,
+            43.077148
+          ],
+          "category": "natural",
+          "arrive_at": "15:06",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der üppigen Ufer des Šipak-Sees, wo wilde Granatapfelbüsche blühen, und bringen Sie ein kleines Picknick für die schattigen Rastplätze mit.",
+            "hu": "Sétáljon a Šipak-tó buja partvidékén, ahol vad gránátalmabokrok nyílnak, és hozzon magával egy kis pikniket, amelyet az árnyékos pihenőhelyeken élvezhet.",
+            "ro": "Plimbați-vă de-a lungul perimetrului luxuriant al lacului Šipak, unde înfloresc rodii sălbatice, și aduceți un mic picnic pentru a-l savura la umbră.",
+            "en": "Walk around the lush perimeters of Šipak lake where wild pomegranate bushes bloom, and bring a small picnic to enjoy at the shaded resting spots."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit der Erkundung der natürlichen Schönheit von Bukočica und Vrbnik, um die üppige Umgebung kennenzulernen. Mittags erreichen Sie Sladinac mit seinem ruhigen Wasser. Am Nachmittag schlendern Sie an den flachen Ufern von Plitko jezero entlang. Der Abend endet am Šipak-See und bietet einen ruhigen Sonnenuntergang neben den Granatapfelsträuchern.",
+        "hu": "A reggel Bukočica és Vrbnik természeti szépségeinek felfedezésével indul, megismerve a buja tóparti környezetet. Délben a finom történelmi bájjal rendelkező Sladinac nyugodt vizeihez ér. Délután a Plitko jezero sekély partjain sétálhat, élvezve az élénk vizes élőhelyeket. Az este a Šipak-tónál ér véget, egy békés naplementével a gránátalmabokrok mellett.",
+        "ro": "Dimineața începe explorând frumusețea naturală a lacurilor Bukočica și Vrbnik. La amiază ajungeți la Sladinac, bogat în farmec istoric subtil și ape senine. După-amiaza, plimbați-vă pe marginile puțin adânci ale lacului Plitko jezero, surprinzând vibrațiile zonei umede. Seara se încheie la Šipak, oferind un apus liniștit lângă arbuștii de rodii sălbatice.",
+        "en": "Morning begins by exploring the natural beauty of Bukočica and Vrbnik, getting acquainted with the lush lakeside environment. Midday brings you to Sladinac, rich in subtle historical charm and serene waters. In the afternoon, wander the shallow edges of Plitko jezero, capturing the lively wetland vibes. Evening concludes at Šipak, offering a tranquil sunset by the pomegranate shrubs."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:51",
+      "total_km": 7.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bukočica",
+            "hu": "Bukočica",
+            "ro": "Bukočica",
+            "en": "Bukočica"
+          },
+          "coords": [
+            17.408935,
+            43.067861
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 85,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die ruhigen Ufer von Bukočica, wo Sie eine lebhafte Vogelwelt beobachten können, also denken Sie an Ihr Fernglas für das beste Erlebnis.",
+            "hu": "Fedezze fel Bukočica nyugodt partjait, ahol megfigyelheti a helyi madárvilágot, ezért feltétlenül hozzon magával távcsövet a legjobb élmény érdekében.",
+            "ro": "Explorați țărmurile liniștite de la Bukočica, unde puteți observa păsările locale, așa că nu uitați să luați binoclul pentru cea mai bună experiență.",
+            "en": "Explore the tranquil shores of Bukočica where you can observe vibrant local birdlife, so remember to pack your binoculars for the best viewing experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Crniševo",
+            "hu": "Crniševo",
+            "ro": "Crniševo",
+            "en": "Crniševo"
+          },
+          "coords": [
+            17.409715,
+            43.075565
+          ],
+          "category": "natural",
+          "arrive_at": "10:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die dramatische Tiefe von Crniševo, dem tiefsten der Baćina-Seen, und nutzen Sie einen Polarisationsfilter für tiefblaue Farbtöne.",
+            "hu": "Csodálja meg a Crniševo, a Baćina-tavak legmélyebbikének drámai mélységét, és használjon polárszűrőt a kameráján a mélykék árnyalatok megörökítéséhez.",
+            "ro": "Admirați profunzimea dramatică a lacului Crniševo, cel mai adânc dintre lacurile Baćina, și asigurați-vă că aveți un filtru de polarizare pentru nuanțele albastre.",
+            "en": "Marvel at the dramatic depth of Crniševo, the deepest of the Baćina lakes, and ensure you have a polarizing filter on your camera to capture the deep blue hues."
+          }
+        },
+        {
+          "name": {
+            "de": "Oćuša",
+            "hu": "Oćuša",
+            "ro": "Oćuša",
+            "en": "Oćuša"
+          },
+          "coords": [
+            17.421428,
+            43.079989
+          ],
+          "category": "natural",
+          "arrive_at": "12:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an der weiten Fläche des Oćuša-Sees, dem größten im System, perfekt zum Schwimmen, packen Sie also Badesachen für ein Nachmittagsbad ein.",
+            "hu": "Pihenjen az Oćuša-tó, a tórendszer legnagyobbikának partján, amely tökéletes úszásra, ezért mindenképpen hozzon fürdőruhát egy frissítő délutáni csobbanáshoz.",
+            "ro": "Relaxați-vă pe malul vast al lacului Oćuša, cel mai mare din sistem, perfect pentru înot, așa că împachetați costumul de baie pentru o baie de după-amiază.",
+            "en": "Relax by the vast expanse of Oćuša lake, the largest in the system perfect for swimming, so pack your swimsuit and a towel for a refreshing afternoon dip."
+          }
+        },
+        {
+          "name": {
+            "de": "Podgora",
+            "hu": "Podgora",
+            "ro": "Podgora",
+            "en": "Podgora"
+          },
+          "coords": [
+            17.43001,
+            43.080804
+          ],
+          "category": "natural",
+          "arrive_at": "13:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Wandern Sie auf den sanften Hängen um den Podgora-See für einen atemberaubenden Panoramablick und nehmen Sie viel Wasser mit, da die Wege wenig Schatten bieten.",
+            "hu": "Túrázzon a Podgora-tó körüli lankás lejtőkön a lenyűgöző panorámáért, és vigyen magával extra vizet, mivel az ösvényeken kevés az árnyék.",
+            "ro": "Faceți o drumeție pe pantele blânde din jurul lacului Podgora pentru vederi panoramice uimitoare și luați apă în plus, deoarece traseele au puțină umbră.",
+            "en": "Hike the gentle slopes around Podgora lake for stunning panoramic views of the water network, and carry extra water as the trails have little tree cover."
+          }
+        },
+        {
+          "name": {
+            "de": "Plitko jezero",
+            "hu": "Plitko jezero",
+            "ro": "Plitko jezero",
+            "en": "Plitko jezero"
+          },
+          "coords": [
+            17.431292,
+            43.072325
+          ],
+          "category": "natural",
+          "arrive_at": "14:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie eine gemütliche Paddeltour über die flachen Gewässer von Plitko jezero, um das Ökosystem zu erleben, und mieten Sie ein Kajak am örtlichen Stand.",
+            "hu": "Élvezze a kényelmes evezést a Plitko jezero sekély vizén, hogy értékelje annak egyedi ökoszisztémáját, és béreljen kajakot a helyi vízparti standnál.",
+            "ro": "Bucurați-vă de o plimbare cu caiacul pe apele puțin adânci de la Plitko jezero pentru a aprecia ecosistemul său și închiriați o barcă de la standul local.",
+            "en": "Enjoy a leisurely paddle across the shallow waters of Plitko jezero to fully appreciate its unique ecosystem, and rent a kayak from the local waterfront stand."
+          }
+        },
+        {
+          "name": {
+            "de": "Jezero Vlaška",
+            "hu": "Jezero Vlaška",
+            "ro": "Jezero Vlaška",
+            "en": "Jezero Vlaška"
+          },
+          "coords": [
+            17.466784,
+            43.048125
+          ],
+          "category": "natural",
+          "arrive_at": "16:16",
+          "stay_min": 105,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.9,
+          "tip_5lang": {
+            "de": "Erleben Sie, wie an Jezero Vlaška Süßwasser auf das Meer trifft und bringen Sie Insektenschutzmittel für die feuchte Abendluft mit.",
+            "hu": "Legyen tanúja annak a pontnak, ahol az édesvíz találkozik a tengerrel a Jezero Vlaškánál, és hozzon magával szúnyogriasztót a párás esti levegő miatt.",
+            "ro": "Asistați la punctul în care apa dulce întâlnește marea la Jezero Vlaška, creând un habitat salmastru, și aduceți repelent de insecte pentru seara umedă.",
+            "en": "Witness the unique point where freshwater meets the sea at Jezero Vlaška, creating a rich brackish habitat, and bring insect repellent for the humid evening air."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt in der Nähe von Bukočica und genießen Sie die frische Morgenluft, bevor Sie zum tiefsten See, Crniševo, radeln. Mittags gönnen Sie sich eine Pause in der Nähe von Oćuša. Setzen Sie Ihre Fahrt am Nachmittag nach Podgora und Plitko jezero fort. Die Fahrt endet, wenn Sie die brackige Schönheit des Sees Jezero Vlaška im Abendlicht erreichen.",
+        "hu": "Kezdje a biciklizést Bukočica közelében, élvezve a friss reggeli levegőt, mielőtt a legmélyebb tóhoz, a Crniševohoz tekerni. Délben jól megérdemelt pihenőt tart a legnagyobb tónál, az Oćušánál. Délután folytassa útját Podgora és a Plitko jezero felé. Végül a túra a Jezero Vlaška brakkvizű torkolatának lenyűgöző szépségénél ér véget az esti fényekben.",
+        "ro": "Începeți cursa cu bicicleta la marginea sudică, lângă Bukočica, bucurându-vă de aerul proaspăt al dimineții înainte de a pedala spre Crniševo. La amiază vă aduce o odihnă bine meritată lângă Oćuša, cel mai mare dintre lacuri. Continuați după-amiaza pedalând spre Podgora și Plitko jezero. În cele din urmă, cursa se termină când ajungeți la frumusețea lacului Jezero Vlaška.",
+        "en": "Kick off your ride at the southern edge near Bukočica, soaking in the crisp morning air before cycling towards the deepest lake, Crniševo. Midday brings a well-deserved rest near Oćuša, the largest of the lakes, ideal for a refreshing break. Continue your afternoon pedaling to Podgora and Plitko jezero. Finally, the ride ends as you reach the brackish beauty of Jezero Vlaška."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 12.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Grabovica",
+            "hu": "Grabovica",
+            "ro": "Grabovica",
+            "en": "Grabovica"
+          },
+          "coords": [
+            17.363348,
+            43.098419
+          ],
+          "category": "natural",
+          "arrive_at": "09:15",
+          "stay_min": 85,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Reise an der versteckten Oase Grabovica, um unberührte Natur zu erleben, und tragen Sie lange Hosen, um die verwilderten Wege sicher zu meistern.",
+            "hu": "Kezdje útját Grabovica rejtett oázisában, hogy megtapasztalja az érintetlen természetet, és viseljen hosszú nadrágot a kissé benőtt ösvények miatt.",
+            "ro": "Începeți-vă călătoria în oaza ascunsă de la Grabovica pentru a experimenta natura neatinsă și purtați pantaloni lungi pentru a naviga pe traseele ușor îngroșate.",
+            "en": "Start your journey at the hidden oasis of Grabovica to experience untouched local nature, and wear long trousers to navigate the somewhat overgrown trails safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Makarska Riviera",
+            "hu": "Makarska Riviéra",
+            "ro": "Riviera Makarska",
+            "en": "Makarska Riviera"
+          },
+          "coords": [
+            17.366192,
+            43.082042
+          ],
+          "category": "natural",
+          "arrive_at": "10:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Fahren Sie entlang der atemberaubenden Makarska Riviera für dramatische Klippen und halten Sie an den ausgewiesenen Buchten, um sicher Fotos zu machen.",
+            "hu": "Vezessen végig a lenyűgöző Makarska Riviéra partvidékén a drámai sziklákért, és álljon meg a kijelölt öblökben, hogy biztonságosan készítsen fotókat.",
+            "ro": "Conduceți de-a lungul coastei uimitoare a Rivierei Makarska pentru stânci dramatice și opriți-vă la locurile amenajate pentru a face fotografii uluitoare.",
+            "en": "Drive along the stunning coastline of the Makarska Riviera for dramatic seaside cliffs, and stop at the designated pull-offs to safely snap breathtaking photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Crniševo",
+            "hu": "Crniševo",
+            "ro": "Crniševo",
+            "en": "Crniševo"
+          },
+          "coords": [
+            17.409715,
+            43.075565
+          ],
+          "category": "natural",
+          "arrive_at": "12:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die dramatische Tiefe von Crniševo, dem tiefsten der Baćina-Seen, und nutzen Sie einen Polarisationsfilter für tiefblaue Farbtöne.",
+            "hu": "Csodálja meg a Crniševo, a Baćina-tavak legmélyebbikének drámai mélységét, és használjon polárszűrőt a kameráján a mélykék árnyalatok megörökítéséhez.",
+            "ro": "Admirați profunzimea dramatică a lacului Crniševo, cel mai adânc dintre lacurile Baćina, și asigurați-vă că aveți un filtru de polarizare pentru nuanțele albastre.",
+            "en": "Marvel at the dramatic depth of Crniševo, the deepest of the Baćina lakes, and ensure you have a polarizing filter on your camera to capture the deep blue hues."
+          }
+        },
+        {
+          "name": {
+            "de": "Oćuša",
+            "hu": "Oćuša",
+            "ro": "Oćuša",
+            "en": "Oćuša"
+          },
+          "coords": [
+            17.421428,
+            43.079989
+          ],
+          "category": "natural",
+          "arrive_at": "13:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an der weiten Fläche des Oćuša-Sees, dem größten im System, perfekt zum Schwimmen, packen Sie also Badesachen für ein Nachmittagsbad ein.",
+            "hu": "Pihenjen az Oćuša-tó, a tórendszer legnagyobbikának partján, amely tökéletes úszásra, ezért mindenképpen hozzon fürdőruhát egy frissítő délutáni csobbanáshoz.",
+            "ro": "Relaxați-vă pe malul vast al lacului Oćuša, cel mai mare din sistem, perfect pentru înot, așa că împachetați costumul de baie pentru o baie de după-amiază.",
+            "en": "Relax by the vast expanse of Oćuša lake, the largest in the system perfect for swimming, so pack your swimsuit and a towel for a refreshing afternoon dip."
+          }
+        },
+        {
+          "name": {
+            "de": "Sladinac",
+            "hu": "Sladinac",
+            "ro": "Sladinac",
+            "en": "Sladinac"
+          },
+          "coords": [
+            17.421806,
+            43.072214
+          ],
+          "category": "natural",
+          "arrive_at": "14:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie die antiken Ruinen in der Nähe des ruhigen Sladinac-Sees, die Einblicke in die Geschichte bieten, und kommen Sie früh, um Menschenmassen zu meiden.",
+            "hu": "Fedezze fel a békés Sladinac-tó melletti ősi romokat, amelyek bepillantást engednek a helyi történelembe, és látogasson el korán a tömeg elkerülése végett.",
+            "ro": "Descoperiți ruinele antice ascunse lângă lacul liniștit Sladinac, care oferă o privire în istoria locală, și vizitați-l devreme pentru a evita aglomerația.",
+            "en": "Discover the ancient ruins hidden near the serene Sladinac lake, which offers a glimpse into local history, and visit early in the day to avoid the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Jezero Parila",
+            "hu": "Jezero Parila",
+            "ro": "Jezero Parila",
+            "en": "Jezero Parila"
+          },
+          "coords": [
+            17.452497,
+            43.031254
+          ],
+          "category": "natural",
+          "arrive_at": "16:09",
+          "stay_min": 105,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Ausflug am ruhigen Jezero Parila, in dem sich der Dämmerungshimmel wunderschön spiegelt, und bringen Sie eine leichte Jacke für die abendliche Brise mit.",
+            "hu": "Fejezze be kirándulását a békés Jezero Parilánál, amely gyönyörűen tükrözi az alkonyati eget, és hozzon magával egy könnyű kabátot az esti tengeri szellő miatt.",
+            "ro": "Încheiați-vă excursia la liniștitul Jezero Parila, care reflectă cerul la amurg, și aduceți o jachetă ușoară, deoarece briza serii de pe coastă devine răcoroasă.",
+            "en": "Conclude your excursion at the serene Jezero Parila which reflects the twilight sky beautifully, and bring a light jacket as the evening breeze from the coast cools down."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Roadtrip beginnt in der dramatischen Karstlandschaft bei Grabovica, bevor Sie zur atemberaubenden Makarska Riviera fahren. Mittags führt Sie die Fahrt zurück ins Landesinnere, um die tiefblauen Dolinen von Crniševo und Oćuša zu bewundern. Am Nachmittag fahren Sie an Sladinac vorbei. Die malerische Fahrt endet am Jezero Parila für einen Küstensonnenuntergang.",
+        "hu": "Autós kirándulása a Grabovica körüli drámai karsztvidéken kezdődik, mielőtt a Makarska Riviéra lenyűgöző partvidéki látványosságai felé indulna. A déli vezetés visszaviszi a szárazföldre, hogy megcsodálja a Crniševo és az Oćuša mélykék víznyelőit. A délutáni barangolás Sladinac mellett visz el. A festői utazás a Jezero Parilánál ér véget egy gyönyörű naplementével.",
+        "ro": "Călătoria cu mașina începe în peisajul carstic de la Grabovica înainte de a conduce spre priveliștile de coastă ale Rivierei Makarska. Conducerea de la amiază vă duce înapoi pentru a admira nuanțele albastre de la Crniševo și Oćuša. După-amiaza vă poartă pe lângă Sladinac. Conducerea pitorească se încheie la Jezero Parila pentru un apus de soare pe malul apei.",
+        "en": "Your road trip starts surrounded by the dramatic karst landscape at Grabovica before driving towards the stunning coastal views of the Makarska Riviera. The midday drive leads you back inland to marvel at the deep blue sinkholes of Crniševo and the vastness of Oćuša. Afternoon hopping takes you past Sladinac. The scenic drive wraps up at Jezero Parila for a coastal sunset."
+      }
+    }
+  }
+}

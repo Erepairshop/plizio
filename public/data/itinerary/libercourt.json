@@ -1,0 +1,428 @@
+{
+  "city_id": "libercourt",
+  "anchor": {
+    "name": "Libercourt",
+    "coords": [
+      3.0139,
+      50.4839
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:20",
+      "total_km": 4.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Gare de Libercourt",
+            "hu": "Gare de Libercourt",
+            "ro": "Gare de Libercourt",
+            "en": "Gare de Libercourt"
+          },
+          "coords": [
+            3.00871,
+            50.48021
+          ],
+          "category": "station",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die typische regionale Backsteinarchitektur des alten Bahnhofs, der als historischer Knotenpunkt diente, und kommen Sie früh an, um den Trubel zu vermeiden.",
+            "hu": "Csodálja meg a régi vasútállomás jellegzetes regionális téglaépítészetét, amely történelmi csomópontként szolgált, és érkezzen korán a reggeli tömeg elkerülése végett.",
+            "ro": "Admirați arhitectura regională tipică din cărămidă a vechii gări, care a servit ca un important nod istoric, și ajungeți devreme pentru a evita aglomerația matinală.",
+            "en": "Admire the typical regional brick architecture of the old railway station, which served as a historical hub, and arrive early to beat the morning commuter crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Henri",
+            "hu": "Église Saint-Henri",
+            "ro": "Église Saint-Henri",
+            "en": "Église Saint-Henri"
+          },
+          "coords": [
+            3.002989,
+            50.482253
+          ],
+          "category": "religious",
+          "arrive_at": "09:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante Kirche wegen ihrer wunderschönen Buntglasfenster, die eine friedliche Atmosphäre schaffen, und achten Sie auf die Details des Hauptaltars.",
+            "hu": "Látogasson el ebbe a bájos templomba a gyönyörű ólomüveg ablakokért, amelyek békés légkört teremtenek, és mindenképpen figyelje meg a főoltár aprólékos részleteit.",
+            "ro": "Vizitați această biserică fermecătoare pentru vitraliile sale frumoase care creează o atmosferă pașnică și acordați o atenție deosebită detaliilor altarului principal.",
+            "en": "Visit this charming church for its beautiful stained glass windows that create a peaceful atmosphere, and make sure to pay attention to the intricate main altar details."
+          }
+        },
+        {
+          "name": {
+            "de": "Bois d'Épinoy",
+            "hu": "Bois d'Épinoy",
+            "ro": "Bois d'Épinoy",
+            "en": "Bois d'Épinoy"
+          },
+          "coords": [
+            2.989722,
+            50.484167
+          ],
+          "category": "natural",
+          "arrive_at": "10:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen erholsamen Spaziergang durch dieses weitläufige Waldgebiet, das für seine reiche Artenvielfalt bekannt ist, und bringen Sie bequeme Wanderschuhe mit.",
+            "hu": "Tegyen egy pihentető sétát ebben a gazdag biodiverzitásáról ismert, kiterjedt erdős területen, és feltétlenül hozzon magával kényelmes túracipőt a hosszú ösvényekhez.",
+            "ro": "Bucurați-vă de o plimbare relaxantă prin această zonă împădurită extinsă, cunoscută pentru biodiversitatea sa bogată, și asigurați-vă că aduceți pantofi comozi de drumeție.",
+            "en": "Enjoy a relaxing stroll through this extensive wooded area known for its rich biodiversity, and be sure to bring comfortable walking shoes to explore the nature trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame",
+            "hu": "Église Notre-Dame",
+            "ro": "Église Notre-Dame",
+            "en": "Église Notre-Dame"
+          },
+          "coords": [
+            3.01638,
+            50.485348
+          ],
+          "category": "religious",
+          "arrive_at": "12:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckende neugotische Architektur und die feinen Steinarbeiten der Kirche, und besuchen Sie sie am späten Vormittag für das beste natürliche Licht.",
+            "hu": "Fedezze fel a templom lenyűgöző neogótikus építészetét és finom kőfaragásait, és érdemes késő délelőtt érkezni, hogy a legjobb természetes fényben csodálhassa meg.",
+            "ro": "Descoperiți impresionanta arhitectură neogotică și detaliile din piatră ale bisericii, fiind ideal să o vizitați dimineața târziu pentru a prinde cea mai bună lumină.",
+            "en": "Discover the impressive neo-gothic architecture and fine stonework of this church, and aim to visit in the late morning to experience the best natural lighting conditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Barthélémy",
+            "hu": "Église Saint-Barthélémy",
+            "ro": "Église Saint-Barthélémy",
+            "en": "Église Saint-Barthélémy"
+          },
+          "coords": [
+            3.036634,
+            50.48569
+          ],
+          "category": "religious",
+          "arrive_at": "13:10",
+          "stay_min": 70,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von der stillen Schönheit dieser historischen Gemeindekirche verzaubern, die tief in der Tradition verwurzelt ist, und nehmen Sie sich Zeit zur Reflexion.",
+            "hu": "Hagyja, hogy elvarázsolja e történelmi, hagyományokban gyökerező plébániatemplom csendes szépsége, és szánjon egy kis időt a csendes elmélkedésre az utazása végén.",
+            "ro": "Lăsați-vă fermecat de frumusețea tăcută a acestei biserici parohiale istorice adânc înrădăcinate în tradiție și alocați-vă timp pentru o reflecție liniștită la final.",
+            "en": "Let yourself be enchanted by the quiet beauty of this historic parish church deeply rooted in tradition, and take your time for a moment of quiet reflection inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am charmanten Bahnhof von Libercourt und tauchen Sie in die Geschichte der Stadt ein. Am Vormittag besuchen Sie die historische Kirche Saint-Henri, gefolgt von einem entspannenden Spaziergang durch den üppigen Bois d'Épinoy. Am Nachmittag entdecken Sie die elegante Architektur der Kirche Notre-Dame. Beenden Sie den Tag an der Kirche Saint-Barthélémy in Ruhe.",
+        "hu": "Kezdje a napot Libercourt hangulatos vasútállomásánál, elmerülve a város gazdag történetében. Délelőtt látogasson el a történelmi Saint-Henri templomba, majd tegyen egy pihentető sétát a buja Bois d'Épinoy parkban. Délután fedezze fel a Notre-Dame templom elegáns építészetét. A napot a Saint-Barthélémy templomnál fejezze be egy békés, nyugodt környezetben.",
+        "ro": "Începeți ziua la fermecătoarea gară din Libercourt și scufundați-vă în istoria bogată a orașului. Dimineața, vizitați istorica biserică Saint-Henri, urmată de o plimbare relaxantă prin parcul luxuriant Bois d'Épinoy. După-amiaza, descoperiți arhitectura elegantă a bisericii Notre-Dame. Încheiați ziua la biserica Saint-Barthélémy într-o atmosferă pașnică.",
+        "en": "Begin your day at the charming Libercourt railway station and dive into the city's rich history. In the morning, visit the historic Saint-Henri church, followed by a relaxing stroll through the lush Bois d'Épinoy park. In the afternoon, discover the elegant architecture of the Notre-Dame church. End your day at the Saint-Barthélémy church in a peaceful setting."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:57",
+      "total_km": 16.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Gare de Libercourt",
+            "hu": "Gare de Libercourt",
+            "ro": "Gare de Libercourt",
+            "en": "Gare de Libercourt"
+          },
+          "coords": [
+            3.00871,
+            50.48021
+          ],
+          "category": "station",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die typische regionale Backsteinarchitektur des alten Bahnhofs, der als historischer Knotenpunkt diente, und kommen Sie früh an, um den Trubel zu vermeiden.",
+            "hu": "Csodálja meg a régi vasútállomás jellegzetes regionális téglaépítészetét, amely történelmi csomópontként szolgált, és érkezzen korán a reggeli tömeg elkerülése végett.",
+            "ro": "Admirați arhitectura regională tipică din cărămidă a vechii gări, care a servit ca un important nod istoric, și ajungeți devreme pentru a evita aglomerația matinală.",
+            "en": "Admire the typical regional brick architecture of the old railway station, which served as a historical hub, and arrive early to beat the morning commuter crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Henri",
+            "hu": "Église Saint-Henri",
+            "ro": "Église Saint-Henri",
+            "en": "Église Saint-Henri"
+          },
+          "coords": [
+            3.002989,
+            50.482253
+          ],
+          "category": "religious",
+          "arrive_at": "09:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante Kirche wegen ihrer wunderschönen Buntglasfenster, die eine friedliche Atmosphäre schaffen, und achten Sie auf die Details des Hauptaltars.",
+            "hu": "Látogasson el ebbe a bájos templomba a gyönyörű ólomüveg ablakokért, amelyek békés légkört teremtenek, és mindenképpen figyelje meg a főoltár aprólékos részleteit.",
+            "ro": "Vizitați această biserică fermecătoare pentru vitraliile sale frumoase care creează o atmosferă pașnică și acordați o atenție deosebită detaliilor altarului principal.",
+            "en": "Visit this charming church for its beautiful stained glass windows that create a peaceful atmosphere, and make sure to pay attention to the intricate main altar details."
+          }
+        },
+        {
+          "name": {
+            "de": "Bois d'Épinoy",
+            "hu": "Bois d'Épinoy",
+            "ro": "Bois d'Épinoy",
+            "en": "Bois d'Épinoy"
+          },
+          "coords": [
+            2.989722,
+            50.484167
+          ],
+          "category": "natural",
+          "arrive_at": "10:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen erholsamen Spaziergang durch dieses weitläufige Waldgebiet, das für seine reiche Artenvielfalt bekannt ist, und bringen Sie bequeme Wanderschuhe mit.",
+            "hu": "Tegyen egy pihentető sétát ebben a gazdag biodiverzitásáról ismert, kiterjedt erdős területen, és feltétlenül hozzon magával kényelmes túracipőt a hosszú ösvényekhez.",
+            "ro": "Bucurați-vă de o plimbare relaxantă prin această zonă împădurită extinsă, cunoscută pentru biodiversitatea sa bogată, și asigurați-vă că aduceți pantofi comozi de drumeție.",
+            "en": "Enjoy a relaxing stroll through this extensive wooded area known for its rich biodiversity, and be sure to bring comfortable walking shoes to explore the nature trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Monument aux Morts",
+            "hu": "Monument aux Morts",
+            "ro": "Monument aux Morts",
+            "en": "Monument aux Morts"
+          },
+          "coords": [
+            2.942222,
+            50.52457
+          ],
+          "category": "civic",
+          "arrive_at": "11:59",
+          "stay_min": 15,
+          "hop_from_prev_min": 31,
+          "hop_from_prev_km": 5.6,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem eindrucksvollen Gedenkstein Ihren Respekt, der an die gefallenen Helden der Stadt erinnert, und lesen Sie die bewegenden Inschriften auf der Tafel.",
+            "hu": "Rója le tiszteletét e lenyűgöző emlékmű előtt, amely a város elesett hőseinek állít emléket, és mindenképpen olvassa el az oldalsó táblákon található megható feliratokat.",
+            "ro": "Aduceți un omagiu la acest monument impresionant care amintește de eroii căzuți ai orașului și asigurați-vă că citiți inscripțiile emoționante de pe plăcile laterale.",
+            "en": "Pay your respects at this impressive memorial stone commemorating the fallen heroes of the city, and take a moment to read the moving inscriptions on the side panels."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Blaise",
+            "hu": "Église Saint-Blaise",
+            "ro": "Église Saint-Blaise",
+            "en": "Église Saint-Blaise"
+          },
+          "coords": [
+            3.048392,
+            50.496216
+          ],
+          "category": "religious",
+          "arrive_at": "12:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 8.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die harmonischen Proportionen dieser lokalen Kirche, die ein wichtiges spirituelles Zentrum darstellt, und achten Sie auf die kunstvollen Holzschnitzereien.",
+            "hu": "Csodálja meg e helyi templom harmonikus arányait, amely fontos spirituális központként szolgál, és figyelje meg a belső térben található díszes fafaragásokat.",
+            "ro": "Admirați proporțiile armonioase ale acestei biserici locale, care reprezintă un important centru spiritual, și nu ratați sculpturile ornamentale din lemn din interior.",
+            "en": "Admire the harmonious proportions of this local church which serves as an important spiritual center, and be sure to look out for the ornate wooden carvings inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Barthélémy",
+            "hu": "Église Saint-Barthélémy",
+            "ro": "Église Saint-Barthélémy",
+            "en": "Église Saint-Barthélémy"
+          },
+          "coords": [
+            3.036634,
+            50.48569
+          ],
+          "category": "religious",
+          "arrive_at": "13:47",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von der stillen Schönheit dieser historischen Gemeindekirche verzaubern, die tief in der Tradition verwurzelt ist, und nehmen Sie sich Zeit zur Reflexion.",
+            "hu": "Hagyja, hogy elvarázsolja e történelmi, hagyományokban gyökerező plébániatemplom csendes szépsége, és szánjon egy kis időt a csendes elmélkedésre az utazása végén.",
+            "ro": "Lăsați-vă fermecat de frumusețea tăcută a acestei biserici parohiale istorice adânc înrădăcinate în tradiție și alocați-vă timp pentru o reflecție liniștită la final.",
+            "en": "Let yourself be enchanted by the quiet beauty of this historic parish church deeply rooted in tradition, and take your time for a moment of quiet reflection inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie zunächst vom Bahnhof zur beeindruckenden Kirche Saint-Henri im Stadtzentrum. Genießen Sie die frische Luft im Bois d'Épinoy, bevor Sie zum historischen Monument aux Morts fahren. Setzen Sie Ihre entspannte Fahrradtour zur Kirche Saint-Blaise fort, die für ihre Geschichte bekannt ist. Schließen Sie Ihr Abenteuer an der malerischen Kirche Saint-Barthélémy ab.",
+        "hu": "Biciklizzen az állomástól a lenyűgöző Saint-Henri templomig, megcsodálva a központot. Élvezze a friss levegőt a Bois d'Épinoy fái alatt, mielőtt a történelmi Hősi emlékműhöz pedálozna. Folytassa pihentető túráját a történelméről híres Saint-Blaise templom felé, amely lenyűgöző látványt nyújt. Zárja kalandját a festői Saint-Barthélémy templomnál, élvezve a nyugalom pillanatait.",
+        "ro": "Ciclism de la gară până la impresionanta biserică Saint-Henri, admirând centrul orașului. Bucurați-vă de aerul proaspăt din Bois d'Épinoy înainte de a pedala spre istoricul Monument aux Morts. Continuați turul relaxant cu bicicleta către biserica Saint-Blaise, cunoscută pentru istoria sa. Încheiați-vă aventura la pitoreasca biserică Saint-Barthélémy într-o liniște deplină.",
+        "en": "Cycle from the station to the impressive Saint-Henri church, taking in the center's charm. Enjoy the fresh air in the Bois d'Épinoy before pedaling to the historic Monument aux Morts. Continue your relaxing bike tour to the Saint-Blaise church, renowned for its architectural history. Conclude your adventure at the picturesque Saint-Barthélémy church in perfect tranquility."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:08",
+      "total_km": 17.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Gare de Libercourt",
+            "hu": "Gare de Libercourt",
+            "ro": "Gare de Libercourt",
+            "en": "Gare de Libercourt"
+          },
+          "coords": [
+            3.00871,
+            50.48021
+          ],
+          "category": "station",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die typische regionale Backsteinarchitektur des alten Bahnhofs, der als historischer Knotenpunkt diente, und kommen Sie früh an, um den Trubel zu vermeiden.",
+            "hu": "Csodálja meg a régi vasútállomás jellegzetes regionális téglaépítészetét, amely történelmi csomópontként szolgált, és érkezzen korán a reggeli tömeg elkerülése végett.",
+            "ro": "Admirați arhitectura regională tipică din cărămidă a vechii gări, care a servit ca un important nod istoric, și ajungeți devreme pentru a evita aglomerația matinală.",
+            "en": "Admire the typical regional brick architecture of the old railway station, which served as a historical hub, and arrive early to beat the morning commuter crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Monument aux Morts",
+            "hu": "Monument aux Morts",
+            "ro": "Monument aux Morts",
+            "en": "Monument aux Morts"
+          },
+          "coords": [
+            2.942222,
+            50.52457
+          ],
+          "category": "civic",
+          "arrive_at": "09:40",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.8,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem eindrucksvollen Gedenkstein Ihren Respekt, der an die gefallenen Helden der Stadt erinnert, und lesen Sie die bewegenden Inschriften auf der Tafel.",
+            "hu": "Rója le tiszteletét e lenyűgöző emlékmű előtt, amely a város elesett hőseinek állít emléket, és mindenképpen olvassa el az oldalsó táblákon található megható feliratokat.",
+            "ro": "Aduceți un omagiu la acest monument impresionant care amintește de eroii căzuți ai orașului și asigurați-vă că citiți inscripțiile emoționante de pe plăcile laterale.",
+            "en": "Pay your respects at this impressive memorial stone commemorating the fallen heroes of the city, and take a moment to read the moving inscriptions on the side panels."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de l'Ermitage",
+            "hu": "Château de l'Ermitage",
+            "ro": "Château de l'Ermitage",
+            "en": "Château de l'Ermitage"
+          },
+          "coords": [
+            3.042402,
+            50.502351
+          ],
+          "category": "castle",
+          "arrive_at": "10:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses faszinierende Schloss, das eine spannende architektonische Epoche repräsentiert, und spazieren Sie unbedingt auch durch die angrenzenden Gärten.",
+            "hu": "Fedezze fel ezt a lenyűgöző kastélyt, amely egy izgalmas építészeti korszakot képvisel, és mindenképpen tegyen egy sétát a gyönyörűen gondozott szomszédos kertekben.",
+            "ro": "Explorați acest castel fascinant care reprezintă o epocă arhitecturală captivantă și asigurați-vă că faceți o plimbare și prin grădinile adiacente frumos amenajate.",
+            "en": "Explore this fascinating castle that represents an exciting architectural era in the region, and be sure to take a walk through the beautifully landscaped adjacent gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Le château blanc",
+            "hu": "Le château blanc",
+            "ro": "Le château blanc",
+            "en": "Le château blanc"
+          },
+          "coords": [
+            3.055103,
+            50.479512
+          ],
+          "category": "castle",
+          "arrive_at": "11:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die strahlend weiße Fassade dieses historischen Anwesens, das eine Aura von Eleganz ausstrahlt, und fotografieren Sie es am besten bei Nachmittagssonne.",
+            "hu": "Csodálja meg ennek a történelmi birtoknak a ragyogóan fehér homlokzatát, amely az elegancia auráját sugározza, és a legjobb fotókat a délutáni napsütésben készítheti.",
+            "ro": "Minunați-vă de fațada albă strălucitoare a acestei moșii istorice care emană o aură de eleganță și încercați să o fotografiați în lumina perfectă a soarelui de după-amiază.",
+            "en": "Marvel at the brilliant white facade of this historical estate that exudes an aura of true elegance, and try to photograph it during the golden afternoon sunlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-André",
+            "hu": "Église Saint-André",
+            "ro": "Église Saint-André",
+            "en": "Église Saint-André"
+          },
+          "coords": [
+            3.053697,
+            50.479428
+          ],
+          "category": "religious",
+          "arrive_at": "12:58",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese ruhige Kirche, um ihre schlichte, aber würdevolle Architektur zu schätzen, und genießen Sie die friedliche Umgebung für einen perfekten Abschluss.",
+            "hu": "Látogasson el ebbe a csendes templomba, hogy értékelje egyszerű, mégis méltóságteljes építészetét, és élvezze a békés környezetet egy tökéletes nap befejezéseként.",
+            "ro": "Vizitați această biserică liniștită pentru a-i aprecia arhitectura simplă, dar demnă, și bucurați-vă de împrejurimile pașnice pentru o încheiere perfectă a zilei.",
+            "en": "Visit this quiet church to appreciate its simple yet dignified architecture, and enjoy the peaceful surroundings for a perfect conclusion to your memorable day trip."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Autotour am Bahnhof und fahren Sie dann zum Monument aux Morts am Stadtrand. Erkunden Sie das prächtige Château de l'Ermitage, ein wahres architektonisches Juwel der Region. Fahren Sie weiter zum beeindruckenden Château blanc, das mit seiner eleganten Fassade fasziniert. Beenden Sie Ihre Reise an der nahegelegenen Kirche Saint-André für besinnliche Momente.",
+        "hu": "Indítsa autós túráját a vasútállomáson, majd vezessen a város szélén található Hősi emlékműhöz. Fedezze fel a pompás Château de l'Ermitage kastélyt, amely a régió igazi építészeti gyöngyszeme. Haladjon tovább a lenyűgöző Château blanc felé, amely elegáns homlokzatával lenyűgözi a látogatókat. Fejezze be utazását a közeli Saint-André templomnál néhány csendes pillanattal.",
+        "ro": "Începeți turul auto la gară și apoi conduceți către Monument aux Morts de la periferie. Explorați magnificul Château de l'Ermitage, o adevărată bijuterie arhitecturală a regiunii. Continuați drumul către impresionantul Château blanc, care fascinează prin fațada sa elegantă. Încheiați-vă călătoria la biserica din apropiere, Saint-André, pentru un moment de contemplare.",
+        "en": "Start your driving tour at the station and then head to the Monument aux Morts on the outskirts. Explore the magnificent Château de l'Ermitage, a true architectural jewel of the region. Continue your drive to the impressive Château blanc, which fascinates visitors with its elegant facade. Conclude your journey at the nearby Saint-André church for a moment of quiet reflection."
+      }
+    }
+  }
+}

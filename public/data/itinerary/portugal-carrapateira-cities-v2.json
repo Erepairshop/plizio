@@ -1,0 +1,543 @@
+{
+  "city_id": "portugal-carrapateira-cities-v2",
+  "anchor": {
+    "name": "Carrapateira",
+    "coords": [
+      -8.89497,
+      37.18404
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 5.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum für Meer und Land",
+            "hu": "Tenger és Föld Múzeum",
+            "ro": "Muzeul Mării și Pământului",
+            "en": "Museum of the Sea and Land"
+          },
+          "coords": [
+            -8.893426,
+            37.184005
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier lokale Traditionen und maritime Geschichte, und achten Sie unbedingt auf die faszinierenden Modelle von Fischerbooten.",
+            "hu": "Ismerje meg a helyi hagyományokat és a tengerészeti történelmet itt, de mindenképp vegye szemügyre a halászhajó-modelleket indulás előtt.",
+            "ro": "Descoperiți tradițiile locale și istoria maritimă aici și asigurați-vă că verificați fascinantele modele de bărci de pescuit din lemn.",
+            "en": "Explore local traditions and maritime history here, and make sure to check out the fascinating fishing boat models before starting your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung von Carrapateira",
+            "hu": "Carrapateira Erőd",
+            "ro": "Fortăreața Carrapateira",
+            "en": "Carrapateira Fortress"
+          },
+          "coords": [
+            -8.895199,
+            37.184555
+          ],
+          "category": "fortress",
+          "arrive_at": "10:53",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese Küstenfestung, um die alten Verteidigungsanlagen zu sehen, und tragen Sie festes Schuhwerk auf den unebenen Mauern.",
+            "hu": "Látogasson el a tengerparti erődbe, hogy megcsodálja az ősi védműveket, és viseljen kényelmes cipőt a történelmi várfalakon.",
+            "ro": "Vizitați acest fort de coastă pentru a vedea structurile defensive antice și purtați încălțăminte robustă pe zidurile istorice inegale.",
+            "en": "Visit this coastal fort to see the ancient defensive structures and wear sturdy shoes to safely walk along the uneven historical walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Bordeira",
+            "hu": "Bordeira-part",
+            "ro": "Plaja Bordeira",
+            "en": "Bordeira Beach"
+          },
+          "coords": [
+            -8.900219,
+            37.198813
+          ],
+          "category": "recreational",
+          "arrive_at": "11:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die weiten Dünen und die tosenden Wellen dieses spektakulären Strandes, aber bringen Sie unbedingt eine Windjacke mit.",
+            "hu": "Csodálja meg a hatalmas homokdűnéket és az óceán hullámait, de hozzon magával széldzsekit az erős és folyamatos óceáni szellő miatt.",
+            "ro": "Admirați dunele vaste și valurile zgomotoase ale acestei plaje spectaculoase, dar aduceți o jachetă de vânt, deoarece briza oceanului este puternică.",
+            "en": "Admire the vast dunes and crashing waves of this spectacular beach, but bring a windbreaker as the ocean breeze can be quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Zimbreirinha",
+            "hu": "Praia da Zimbreirinha",
+            "ro": "Praia da Zimbreirinha",
+            "en": "Praia da Zimbreirinha"
+          },
+          "coords": [
+            -8.913917,
+            37.192941
+          ],
+          "category": "recreational",
+          "arrive_at": "13:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die an den Klippen hängenden hölzernen Fischerplattformen und bleiben Sie beim Fotografieren unbedingt hinter den Sicherheitszäunen.",
+            "hu": "Csodálja meg a sziklákra függesztett fából készült halászplatformokat, és maradjon a biztonsági kerítés mögött fotózás közben az extrém magasság miatt.",
+            "ro": "Minunați-vă de platformele de pescuit din lemn suspendate pe stânci și rămâneți în spatele gardurilor de siguranță când faceți fotografii.",
+            "en": "Marvel at the wooden fishing platforms suspended on the cliffs and stay strictly behind the safety fences when taking your breathtaking photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Islamisches Fischerdorf",
+            "hu": "Iszlám Halászfalu",
+            "ro": "Satul Islamic de Pescari",
+            "en": "Islamic Fishing Village"
+          },
+          "coords": [
+            -8.907891,
+            37.173124
+          ],
+          "category": "historical",
+          "arrive_at": "14:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die Ruinen dieser Siedlung aus dem 12. Jahrhundert und lesen Sie die informativen Tafeln zur mittelalterlichen Geschichte.",
+            "hu": "Sétáljon végig a 12. századi település romjain, és olvassa el az információs táblákat a középkori mindennapi élet pontosabb megértéséhez.",
+            "ro": "Plimbați-vă prin ruinele acestei așezări din secolul al XII-lea și citiți plăcuțele informative pentru a înțelege structura unică a zonei.",
+            "en": "Wander through the ruins of this 12th-century settlement to imagine medieval life, reading the informative plaques to understand the coastal layout."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Portinho do Forno",
+            "hu": "Praia do Portinho do Forno",
+            "ro": "Praia do Portinho do Forno",
+            "en": "Praia do Portinho do Forno"
+          },
+          "coords": [
+            -8.907793,
+            37.174371
+          ],
+          "category": "recreational",
+          "arrive_at": "16:20",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in dieser kleinen, malerischen Bucht, die für ihre Felsformationen bekannt ist, und kommen Sie früh für einen guten Platz.",
+            "hu": "Pihenjen ebben a festői kis öbölben, amely a drámai sziklaalakzatairól ismert, és érkezzen korán a legjobb helyekért a kavicsos parton.",
+            "ro": "Relaxați-vă în acest mic golf pitoresc cunoscut pentru formațiunile sale stâncoase și ajungeți devreme pentru a prinde un loc bun la soare.",
+            "en": "Relax at this small, picturesque cove known for its dramatic rock formations, arriving early to secure a comfortable spot on the pebbles."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit dem lokalen Erbe im interaktiven Meeres- und Landmuseum, bevor Sie zu den historischen Festungsruinen hinübergehen. Bis zum Mittag wandern Sie auf dem malerischen Küstenweg in Richtung Bordeira und genießen die herrlichen Dünen. Der Nachmittag führt Sie entlang der spektakulären Klippen zu den alten Holzplattformen bei Zimbreirinha und dem faszinierenden islamischen Fischerdorf. Wenn der Abend naht, entspannen Sie sich am Portinho do Forno und lauschen den sanften Wellen an der felsigen Küste.",
+        "hu": "Kezdje a reggelt a helyi örökség felfedezésével a Tenger és Föld Múzeumban, majd sétáljon át a történelmi erőd romjaihoz. Délben a Bordeira felé vezető festői tengerparti ösvényen halad, megcsodálva a homokdűnéket és az óceánt. A délután a látványos sziklák mentén vezet a Zimbreirinha régi fa platformjaihoz és a lenyűgöző iszlám halászfalu romjaihoz. Az este közeledtével pihenjen meg a Portinho do Forno parton, és hallgassa a sziklás partot mosó hullámok hangját.",
+        "ro": "Începeți dimineața descoperind patrimoniul local la Muzeul Mării și Pământului, înainte de a păși spre ruinele istorice ale fortăreței. Până la prânz, veți merge pe traseul de coastă pitoresc spre Bordeira, admirând dunele magnifice și priveliștea oceanului. După-amiaza vă ghidează de-a lungul stâncilor spectaculoase către vechile platforme de lemn de la Zimbreirinha și fascinantele ruine ale satului islamic. Pe măsură ce se lasă seara, relaxați-vă la Portinho do Forno, ascultând valurile oceanului.",
+        "en": "Start your morning absorbing local heritage at the interactive Sea and Land Museum before stepping over to the historical fortress ruins. By midday, you'll be walking the scenic coastal trail toward Bordeira, taking in the magnificent dunes and ocean views. The afternoon guides you along the spectacular cliffs, revealing ancient wooden platforms at Zimbreirinha and the fascinating ruins of the Islamic Fishing Village. As evening sets in, unwind at Portinho do Forno, listening to the gentle crash of the waves against the shore."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:32",
+      "total_km": 6.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Festung von Carrapateira",
+            "hu": "Carrapateira Erőd",
+            "ro": "Fortăreața Carrapateira",
+            "en": "Carrapateira Fortress"
+          },
+          "coords": [
+            -8.895199,
+            37.184555
+          ],
+          "category": "fortress",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese Küstenfestung, um die alten Verteidigungsanlagen zu sehen, und tragen Sie festes Schuhwerk auf den unebenen Mauern.",
+            "hu": "Látogasson el a tengerparti erődbe, hogy megcsodálja az ősi védműveket, és viseljen kényelmes cipőt a történelmi várfalakon.",
+            "ro": "Vizitați acest fort de coastă pentru a vedea structurile defensive antice și purtați încălțăminte robustă pe zidurile istorice inegale.",
+            "en": "Visit this coastal fort to see the ancient defensive structures and wear sturdy shoes to safely walk along the uneven historical walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Meer und Land",
+            "hu": "Tenger és Föld Múzeum",
+            "ro": "Muzeul Mării și Pământului",
+            "en": "Museum of the Sea and Land"
+          },
+          "coords": [
+            -8.893426,
+            37.184005
+          ],
+          "category": "museum",
+          "arrive_at": "09:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier lokale Traditionen und maritime Geschichte, und achten Sie unbedingt auf die faszinierenden Modelle von Fischerbooten.",
+            "hu": "Ismerje meg a helyi hagyományokat és a tengerészeti történelmet itt, de mindenképp vegye szemügyre a halászhajó-modelleket indulás előtt.",
+            "ro": "Descoperiți tradițiile locale și istoria maritimă aici și asigurați-vă că verificați fascinantele modele de bărci de pescuit din lemn.",
+            "en": "Explore local traditions and maritime history here, and make sure to check out the fascinating fishing boat models before continuing your ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Bordeira",
+            "hu": "Bordeira-part",
+            "ro": "Plaja Bordeira",
+            "en": "Bordeira Beach"
+          },
+          "coords": [
+            -8.900219,
+            37.198813
+          ],
+          "category": "recreational",
+          "arrive_at": "11:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die weiten Dünen und die tosenden Wellen dieses spektakulären Strandes, aber bringen Sie unbedingt eine Windjacke mit.",
+            "hu": "Csodálja meg a hatalmas homokdűnéket és az óceán hullámait, de hozzon magával széldzsekit az erős és folyamatos óceáni szellő miatt.",
+            "ro": "Admirați dunele vaste și valurile zgomotoase ale acestei plaje spectaculoase, dar aduceți o jachetă de vânt, deoarece briza oceanului este puternică.",
+            "en": "Admire the vast dunes and crashing waves of this spectacular beach, but bring a windbreaker as the ocean breeze can be quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Zimbreirinha",
+            "hu": "Praia da Zimbreirinha",
+            "ro": "Praia da Zimbreirinha",
+            "en": "Praia da Zimbreirinha"
+          },
+          "coords": [
+            -8.913917,
+            37.192941
+          ],
+          "category": "recreational",
+          "arrive_at": "12:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die an den Klippen hängenden hölzernen Fischerplattformen und bleiben Sie beim Fotografieren unbedingt hinter den Sicherheitszäunen.",
+            "hu": "Csodálja meg a sziklákra függesztett fából készült halászplatformokat, és maradjon a biztonsági kerítés mögött fotózás közben az extrém magasság miatt.",
+            "ro": "Minunați-vă de platformele de pescuit din lemn suspendate pe stânci și rămâneți în spatele gardurilor de siguranță când faceți fotografii.",
+            "en": "Marvel at the wooden fishing platforms suspended on the cliffs and stay strictly behind the safety fences when taking your breathtaking photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Islamisches Fischerdorf",
+            "hu": "Iszlám Halászfalu",
+            "ro": "Satul Islamic de Pescari",
+            "en": "Islamic Fishing Village"
+          },
+          "coords": [
+            -8.907891,
+            37.173124
+          ],
+          "category": "historical",
+          "arrive_at": "14:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die Ruinen dieser Siedlung aus dem 12. Jahrhundert und lesen Sie die informativen Tafeln zur mittelalterlichen Geschichte.",
+            "hu": "Sétáljon végig a 12. századi település romjain, és olvassa el az információs táblákat a középkori mindennapi élet pontosabb megértéséhez.",
+            "ro": "Plimbați-vă prin ruinele acestei așezări din secolul al XII-lea și citiți plăcuțele informative pentru a înțelege structura unică a zonei.",
+            "en": "Wander through the ruins of this 12th-century settlement to imagine medieval life, reading the informative plaques to understand the coastal layout."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Portinho do Forno",
+            "hu": "Praia do Portinho do Forno",
+            "ro": "Praia do Portinho do Forno",
+            "en": "Praia do Portinho do Forno"
+          },
+          "coords": [
+            -8.907793,
+            37.174371
+          ],
+          "category": "recreational",
+          "arrive_at": "15:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in dieser kleinen, malerischen Bucht, die für ihre Felsformationen bekannt ist, und kommen Sie früh für einen guten Platz.",
+            "hu": "Pihenjen ebben a festői kis öbölben, amely a drámai sziklaalakzatairól ismert, és érkezzen korán a legjobb helyekért a kavicsos parton.",
+            "ro": "Relaxați-vă în acest mic golf pitoresc cunoscut pentru formațiunile sale stâncoase și ajungeți devreme pentru a prinde un loc bun la soare.",
+            "en": "Relax at this small, picturesque cove known for its dramatic rock formations, arriving early to secure a comfortable spot on the pebbles."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Amado",
+            "hu": "Praia do Amado",
+            "ro": "Praia do Amado",
+            "en": "Praia do Amado"
+          },
+          "coords": [
+            -8.903599,
+            37.164296
+          ],
+          "category": "recreational",
+          "arrive_at": "16:47",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie die geschickten Surfer an diesem Strand und holen Sie sich am nahegelegenen Kiosk einen leckeren und erfrischenden Snack.",
+            "hu": "Figyelje meg a híres hullámokat meglovagló szörfösöket ezen az élettel teli strandon, és vásároljon rágcsálnivalót a közeli parti kioszkban.",
+            "ro": "Urmăriți surferii pricepuți pe valurile faimoase ale acestei plaje și cumpărați o gustare răcoritoare de la chioșcul din apropiere.",
+            "en": "Watch the skilled surfers ride the famous waves of this lively beach, and consider grabbing a refreshing snack at the nearby beachfront kiosk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihr Radabenteuer an der historischen Festung von Carrapateira und erkunden Sie anschließend das nahe gelegene Schifffahrtsmuseum. Mittags erwartet Sie eine luftige Fahrt zum riesigen Strand von Bordeira, gefolgt von den dramatischen Klippen bei Zimbreirinha. Am Nachmittag radeln Sie nach Süden, um die Ruinen der islamischen Siedlung und die idyllische Bucht Portinho do Forno zu entdecken. Beenden Sie Ihren aktiven Tag mit einer Fahrt in den Sonnenuntergang zum lebhaften Strand Amado.",
+        "hu": "Kezdje kerékpáros kalandját a történelmi Carrapateira Erődnél a friss reggeli szellőben, majd fedezze fel a közeli tengerészeti múzeumot. Délben tekerjen el a hatalmas Bordeira partig, majd nézze meg a drámai sziklafalakat a Zimbreirinha-nál. Délután induljon délre a középkori iszlám település romjaihoz és a csendes Portinho do Forno öbölhöz. Zárja az aktív napot egy naplemente körüli kerékpározással a szörfösök által kedvelt, vibráló Amado partjához.",
+        "ro": "Începeți aventura cu bicicleta la fortăreața istorică, simțind briza dimineții, înainte de a explora muzeul maritim din apropiere. Prânzul aduce o plimbare răcoroasă către plaja imensă Bordeira, urmată de spectaculoasele locuri de pescuit de la Zimbreirinha. După-amiaza, pedalați spre sud pentru a descoperi ruinele satului islamic și golful liniștit Portinho do Forno. Încheiați ziua activă cu o plimbare la apus către vibranta plajă Amado, faimoasă printre surferi.",
+        "en": "Kick off your cycling adventure at the historic Carrapateira Fortress, feeling the morning breeze, before exploring the nearby maritime museum. Midday brings a breezy ride to the immense Bordeira Beach, followed by the dramatic cliffside fishing spots of Zimbreirinha. In the afternoon, pedal south to uncover the medieval Islamic settlement ruins and the quaint, sheltered cove of Portinho do Forno. Conclude your active day with a sunset ride down to the vibrant Amado Beach, famous for its surf culture."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:31",
+      "total_km": 9.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum für Meer und Land",
+            "hu": "Tenger és Föld Múzeum",
+            "ro": "Muzeul Mării și Pământului",
+            "en": "Museum of the Sea and Land"
+          },
+          "coords": [
+            -8.893426,
+            37.184005
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier lokale Traditionen und maritime Geschichte, und achten Sie unbedingt auf die faszinierenden Modelle von Fischerbooten.",
+            "hu": "Ismerje meg a helyi hagyományokat és a tengerészeti történelmet itt, de mindenképp vegye szemügyre a halászhajó-modelleket indulás előtt.",
+            "ro": "Descoperiți tradițiile locale și istoria maritimă aici și asigurați-vă că verificați fascinantele modele de bărci de pescuit din lemn.",
+            "en": "Explore local traditions and maritime history here, and make sure to check out the fascinating fishing boat models before starting your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung von Carrapateira",
+            "hu": "Carrapateira Erőd",
+            "ro": "Fortăreața Carrapateira",
+            "en": "Carrapateira Fortress"
+          },
+          "coords": [
+            -8.895199,
+            37.184555
+          ],
+          "category": "fortress",
+          "arrive_at": "10:51",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese Küstenfestung, um die alten Verteidigungsanlagen zu sehen, und tragen Sie festes Schuhwerk auf den unebenen Mauern.",
+            "hu": "Látogasson el a tengerparti erődbe, hogy megcsodálja az ősi védműveket, és viseljen kényelmes cipőt a történelmi várfalakon.",
+            "ro": "Vizitați acest fort de coastă pentru a vedea structurile defensive antice și purtați încălțăminte robustă pe zidurile istorice inegale.",
+            "en": "Visit this coastal fort to see the ancient defensive structures and wear sturdy shoes to safely walk along the uneven historical walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Bordeira",
+            "hu": "Bordeira-part",
+            "ro": "Plaja Bordeira",
+            "en": "Bordeira Beach"
+          },
+          "coords": [
+            -8.900219,
+            37.198813
+          ],
+          "category": "recreational",
+          "arrive_at": "11:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die weiten Dünen und die tosenden Wellen dieses spektakulären Strandes, aber bringen Sie unbedingt eine Windjacke mit.",
+            "hu": "Csodálja meg a hatalmas homokdűnéket és az óceán hullámait, de hozzon magával széldzsekit az erős és folyamatos óceáni szellő miatt.",
+            "ro": "Admirați dunele vaste și valurile zgomotoase ale acestei plaje spectaculoase, dar aduceți o jachetă de vânt, deoarece briza oceanului este puternică.",
+            "en": "Admire the vast dunes and crashing waves of this spectacular beach, but bring a windbreaker as the ocean breeze can be quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Zimbreirinha",
+            "hu": "Praia da Zimbreirinha",
+            "ro": "Praia da Zimbreirinha",
+            "en": "Praia da Zimbreirinha"
+          },
+          "coords": [
+            -8.913917,
+            37.192941
+          ],
+          "category": "recreational",
+          "arrive_at": "12:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die an den Klippen hängenden hölzernen Fischerplattformen und bleiben Sie beim Fotografieren unbedingt hinter den Sicherheitszäunen.",
+            "hu": "Csodálja meg a sziklákra függesztett fából készült halászplatformokat, és maradjon a biztonsági kerítés mögött fotózás közben az extrém magasság miatt.",
+            "ro": "Minunați-vă de platformele de pescuit din lemn suspendate pe stânci și rămâneți în spatele gardurilor de siguranță când faceți fotografii.",
+            "en": "Marvel at the wooden fishing platforms suspended on the cliffs and stay strictly behind the safety fences when taking your breathtaking photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Islamisches Fischerdorf",
+            "hu": "Iszlám Halászfalu",
+            "ro": "Satul Islamic de Pescari",
+            "en": "Islamic Fishing Village"
+          },
+          "coords": [
+            -8.907891,
+            37.173124
+          ],
+          "category": "historical",
+          "arrive_at": "13:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die Ruinen dieser Siedlung aus dem 12. Jahrhundert und lesen Sie die informativen Tafeln zur mittelalterlichen Geschichte.",
+            "hu": "Sétáljon végig a 12. századi település romjain, és olvassa el az információs táblákat a középkori mindennapi élet pontosabb megértéséhez.",
+            "ro": "Plimbați-vă prin ruinele acestei așezări din secolul al XII-lea și citiți plăcuțele informative pentru a înțelege structura unică a zonei.",
+            "en": "Wander through the ruins of this 12th-century settlement to imagine medieval life, reading the informative plaques to understand the coastal layout."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Portinho do Forno",
+            "hu": "Praia do Portinho do Forno",
+            "ro": "Praia do Portinho do Forno",
+            "en": "Praia do Portinho do Forno"
+          },
+          "coords": [
+            -8.907793,
+            37.174371
+          ],
+          "category": "recreational",
+          "arrive_at": "15:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in dieser kleinen, malerischen Bucht, die für ihre Felsformationen bekannt ist, und kommen Sie früh für einen guten Platz.",
+            "hu": "Pihenjen ebben a festői kis öbölben, amely a drámai sziklaalakzatairól ismert, és érkezzen korán a legjobb helyekért a kavicsos parton.",
+            "ro": "Relaxați-vă în acest mic golf pitoresc cunoscut pentru formațiunile sale stâncoase și ajungeți devreme pentru a prinde un loc bun la soare.",
+            "en": "Relax at this small, picturesque cove known for its dramatic rock formations, arriving early to secure a comfortable spot on the pebbles."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Amado",
+            "hu": "Praia do Amado",
+            "ro": "Praia do Amado",
+            "en": "Praia do Amado"
+          },
+          "coords": [
+            -8.903599,
+            37.164296
+          ],
+          "category": "recreational",
+          "arrive_at": "16:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie die geschickten Surfer an diesem Strand und holen Sie sich am nahegelegenen Kiosk einen leckeren und erfrischenden Snack.",
+            "hu": "Figyelje meg a híres hullámokat meglovagló szörfösöket ezen az élettel teli strandon, és vásároljon rágcsálnivalót a közeli parti kioszkban.",
+            "ro": "Urmăriți surferii pricepuți pe valurile faimoase ale acestei plaje și cumpărați o gustare răcoritoare de la chioșcul din apropiere.",
+            "en": "Watch the skilled surfers ride the famous waves of this lively beach, and consider grabbing a refreshing snack at the nearby beachfront kiosk."
+          }
+        },
+        {
+          "name": {
+            "de": "Monte Velho Eco Resort",
+            "hu": "Monte Velho Eco Resort",
+            "ro": "Monte Velho Eco Resort",
+            "en": "Monte Velho Eco Resort"
+          },
+          "coords": [
+            -8.874975,
+            37.170914
+          ],
+          "category": "natural",
+          "arrive_at": "17:46",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag in diesem ruhigen Eco-Resort mitten in der Natur und buchen Sie vorab eine erholsame Yoga-Sitzung im Freien.",
+            "hu": "Zárja a napot ebben a természetbe simuló, békés öko-üdülőhelyen, előre lefoglalva egy pihentető jógaórát vagy egy esti szabadtéri teázást.",
+            "ro": "Încheiați ziua în acest complex ecologic liniștit, în mijlocul naturii, rezervând din timp o sesiune relaxantă de yoga la frumosul apus de soare.",
+            "en": "End your day at this serene eco-resort immersed in nature, booking a restorative yoga session or a quiet sunset tea in advance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Roadtrip beginnt mit Kultur im Museum von Carrapateira, dicht gefolgt von einem kurzen Sprung zur Küstenfestung. Um die Mittagszeit fahren Sie zum atemberaubenden Strand von Bordeira, bevor es entlang der Küstenstraße zu den Klippen von Zimbreirinha geht. Der Nachmittag ist der Geschichte im islamischen Dorf, dem Portinho do Forno und dem lebhaften Strand Amado gewidmet. Wenn die Dämmerung hereinbricht, ziehen Sie sich ins friedliche Monte Velho Eco Resort zurück.",
+        "hu": "Autós kirándulása a Carrapateira Múzeumban kezdődik, melyet a tengerparti erőd romjai követnek. Ebédidő környékén vezessen fel a lélegzetelállító Bordeira parthoz, majd folytassa útját a Zimbreirinha szikláihoz. A délután a történelemé az iszlám falunál, valamint a pihenésé az eldugott Portinho do Forno és az élettel teli Amado strandokon. Alkonyatkor vonuljon vissza a szárazföld belsejében található békés Monte Velho Öko-üdülőhelyre, hogy megpihenjen.",
+        "ro": "Călătoria cu mașina începe la muzeul din Carrapateira, urmată de o scurtă oprire la ruinele fortăreței de coastă. În jurul prânzului, conduceți către impresionanta plajă Bordeira, apoi navigați pe drumul de coastă spre Zimbreirinha. După-amiaza este rezervată istoriei la Satul Islamic și relaxării la ascunsul Portinho do Forno și vibranta plajă Amado. La lăsarea serii, retrageți-vă spre interior la liniștitul complex Monte Velho Eco Resort pentru a vă încheia ziua.",
+        "en": "Your road trip starts with a cultural dive into the Carrapateira Museum, quickly followed by a short hop to the coastal fortress ruins. Around lunchtime, drive up to the breathtaking Bordeira Beach for ocean panoramas, then navigate the coastal road to Zimbreirinha's cliffs. The afternoon is reserved for history at the Islamic Village and a peaceful pause at the hidden Portinho do Forno and lively Amado Beach. As twilight approaches, retreat inland to the serene Monte Velho Eco Resort to reflect on your day."
+      }
+    }
+  }
+}

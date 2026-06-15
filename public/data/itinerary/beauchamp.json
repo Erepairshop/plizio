@@ -1,0 +1,474 @@
+{
+  "city_id": "beauchamp",
+  "anchor": {
+    "name": "Beauchamp",
+    "coords": [
+      2.19,
+      49.0139
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "12:51",
+      "total_km": 1.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Beauchamp Station",
+            "hu": "Beauchamp Station",
+            "ro": "Beauchamp Station",
+            "en": "Beauchamp Station"
+          },
+          "coords": [
+            2.197898,
+            49.007466
+          ],
+          "category": "station",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Spaziergang am historischen Bahnhof, einem wichtigen Knotenpunkt nach Paris, und werfen Sie einen kurzen Blick auf Ihre Karte, bevor Sie losgehen.",
+            "hu": "Kezdje sétáját a történelmi vasútállomásnál, amely Párizs felé jelent fontos kapcsolatot, és érdemes itt egy pillantást vetni a térképre indulás előtt.",
+            "ro": "Începeți plimbarea la gara istorică, un nod vital de legătură spre Paris, profitând de moment pentru a vă verifica harta înainte de a porni la drum.",
+            "en": "Begin your walk at the historic station, a vital hub connecting Beauchamp to Paris, taking a moment to check your map before starting the trail."
+          }
+        },
+        {
+          "name": {
+            "de": "Square John Lennon",
+            "hu": "Square John Lennon",
+            "ro": "Square John Lennon",
+            "en": "Square John Lennon"
+          },
+          "coords": [
+            2.199542,
+            49.006084
+          ],
+          "category": "family",
+          "arrive_at": "09:28",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieses kleinen, der Musiklegende gewidmeten Platzes und holen Sie sich einen Kaffee in einer nahegelegenen Bäckerei für die Bänke.",
+            "hu": "Csodálja meg a zenei legendának szentelt kis tér békés hangulatát, miközben a közeli pékségből hozott kávét kortyolgatja a padokon.",
+            "ro": "Admirați atmosfera liniștită a acestei mici piețe dedicate legendei muzicii, savurând o cafea de la o brutărie din apropiere pe băncile umbrite.",
+            "en": "Admire the peaceful atmosphere of this small square dedicated to the music legend, grabbing a coffee at a nearby bakery to enjoy on the benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Square des Copistes",
+            "hu": "Square des Copistes",
+            "ro": "Square des Copistes",
+            "en": "Square des Copistes"
+          },
+          "coords": [
+            2.193599,
+            49.002392
+          ],
+          "category": "family",
+          "arrive_at": "10:02",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich unter den alten Bäumen in diesem gemütlichen Park, der den ruhigen Vorstadtcharme der Stadt widerspiegelt und sich perfekt für eine kurze Pause eignet.",
+            "hu": "Pihenjen meg a fák árnyékában ebben a hangulatos kis parkban, amely hűen tükrözi a város csendes kertvárosi báját, és tökéletes egy rövid szünetre.",
+            "ro": "Relaxați-vă sub copacii bătrâni din acest mic parc primitor, care reflectă perfect farmecul liniștit al suburbiei, fiind ideal pentru o scurtă pauză.",
+            "en": "Relax under the mature trees in this cozy parklet, which beautifully reflects the town's quiet suburban charm, making it perfect for a brief rest."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Launay",
+            "hu": "Parc Launay",
+            "ro": "Parc Launay",
+            "en": "Parc Launay"
+          },
+          "coords": [
+            2.193614,
+            48.997046
+          ],
+          "category": "family",
+          "arrive_at": "10:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Schlendern Sie über die gepflegten Wege dieses weitläufigen Stadtparks, um das lokale Familienleben kennenzulernen, und bringen Sie Snacks für ein Picknick mit.",
+            "hu": "Sétáljon egyet a tágas helyi park gondozott ösvényein, ahol bepillantást nyerhet a helyiek mindennapjaiba, és érdemes egy rögtönzött piknikkel is készülni.",
+            "ro": "Plimbați-vă pe aleile îngrijite ale acestui parc local întins pentru a observa viața de familie, aducând cu dumneavoastră gustări pentru un picnic de prânz.",
+            "en": "Stroll along the well-kept paths of this expansive local park to experience local family life, and bring some snacks for an impromptu midday picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Square Picasso",
+            "hu": "Square Picasso",
+            "ro": "Square Picasso",
+            "en": "Square Picasso"
+          },
+          "coords": [
+            2.198707,
+            48.996696
+          ],
+          "category": "family",
+          "arrive_at": "11:56",
+          "stay_min": 55,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Rundgang in dieser subtil künstlerischen Grünanlage und nehmen Sie sich Zeit für die Landschaftsgestaltung, bevor Sie ins Zentrum zurückkehren.",
+            "hu": "Fejezze be a sétát ezen a finoman művészi zöldterületen, és szánjon időt a tájépítészeti megoldások megcsodálására, mielőtt visszatérne a központba.",
+            "ro": "Încheiați-vă turul pietonal în acest spațiu verde cu accente artistice, făcându-vă timp să admirați peisajul înainte de a vă întoarce în centrul orașului.",
+            "en": "Conclude your walking tour at this subtly artistic green space, taking time to admire the landscaping before heading back into the town center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen am Bahnhof und spüren Sie den Rhythmus der Pendler in Beauchamp. Mittags spazieren Sie durch charmante grüne Plätze, die ideal für einen Snack sind. Der Nachmittag ist einem friedlichen Spaziergang durch den Parc Launay gewidmet. Lassen Sie den Tag entspannt am Square Picasso bei Sonnenuntergang ausklingen.",
+        "hu": "Kezdje a reggelt az állomás közelében, átérezve Beauchamp ingázóinak mindennapi ritmusát. A dél körül hangulatos zöld tereken sétálhat keresztül, ahol bekaphat egy falatot. A délutánt a Parc Launay békés felfedezésének szentelheti. A napot a Square Picasso nyugodt környezetében zárhatja, miközben a nap lassan lenyugszik.",
+        "ro": "Începeți dimineața lângă gară, simțind ritmul autentic al navetiștilor din Beauchamp. La prânz, treceți prin piațete verzi fermecătoare, perfecte pentru o gustare rapidă. După-amiaza este dedicată unei plimbări lungi și liniștite prin Parc Launay. Încheiați ziua relaxându-vă la Square Picasso la apusul soarelui.",
+        "en": "Start your morning near the station, absorbing the authentic commuter rhythm of Beauchamp. Midday brings you through charming green squares perfect for a quick snack. The afternoon is dedicated to a long, peaceful stroll through Parc Launay. Conclude the day relaxing at Square Picasso as the sun begins to set."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:26",
+      "total_km": 7.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Beauchamp Station",
+            "hu": "Beauchamp Station",
+            "ro": "Beauchamp Station",
+            "en": "Beauchamp Station"
+          },
+          "coords": [
+            2.197898,
+            49.007466
+          ],
+          "category": "station",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Radtour am historischen Bahnhof, überprüfen Sie den Reifendruck und machen Sie sich bereit für die Fahrt durch die Stadt.",
+            "hu": "Kezdje a kerékpártúrát a történelmi állomásnál, ellenőrizze a guminyomást, és készüljön fel a város átszelésére.",
+            "ro": "Începeți turul cu bicicleta la gara istorică, verificați presiunea anvelopelor și pregătiți-vă pentru a traversa orașul.",
+            "en": "Start your biking tour at the historic station, taking a second to check your tire pressure before setting off across the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc François-Mitterrand",
+            "hu": "Parc François-Mitterrand",
+            "ro": "Parc François-Mitterrand",
+            "en": "Parc François-Mitterrand"
+          },
+          "coords": [
+            2.21079,
+            49.013106
+          ],
+          "category": "family",
+          "arrive_at": "09:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Radeln Sie durch diesen großen, lebhaften Park mit seinen breiten Wegen und schönen Rasenflächen und bleiben Sie zu Ihrer Sicherheit auf den markierten Radwegen.",
+            "hu": "Tekerjen végig ezen a nagy, élettel teli parkon, amely széles ösvényeket és szép pázsitokat kínál, de biztonsága érdekében maradjon a kijelölt kerékpárutakon.",
+            "ro": "Pedalați prin acest parc mare și plin de viață, cu alei largi și peluze frumoase, având grijă să folosiți doar pistele de biciclete desemnate.",
+            "en": "Cycle through this large, vibrant park offering wide paths and lovely lawns, making sure to stick to the designated bike lanes for safety."
+          }
+        },
+        {
+          "name": {
+            "de": "Bassin de Boissy",
+            "hu": "Bassin de Boissy",
+            "ro": "Bassin de Boissy",
+            "en": "Bassin de Boissy"
+          },
+          "coords": [
+            2.211248,
+            49.004071
+          ],
+          "category": "natural",
+          "arrive_at": "10:51",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem ruhigen Rückhaltebecken, das auch ein Paradies für Vogelbeobachter ist, und bringen Sie ein Fernglas mit, um die Tierwelt zu beobachten.",
+            "hu": "Álljon meg ennél a nyugodt víztározónál, amely madármegfigyelő paradicsomként is funkcionál, és hozzon magával távcsövet az élővilág megfigyeléséhez.",
+            "ro": "Opriți-vă la acest bazin de retenție liniștit, care este și un refugiu pentru păsări, luând un binoclu pentru a observa natura netulburată.",
+            "en": "Stop by this calm retention basin that doubles as a bird-watching haven, and bring a pair of binoculars to observe the local wildlife undisturbed."
+          }
+        },
+        {
+          "name": {
+            "de": "Square de la Futaie",
+            "hu": "Square de la Futaie",
+            "ro": "Square de la Futaie",
+            "en": "Square de la Futaie"
+          },
+          "coords": [
+            2.206104,
+            48.992126
+          ],
+          "category": "family",
+          "arrive_at": "11:59",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Ruhen Sie Ihre Beine an diesem ruhigen, von viel Grün umgebenen Wohnplatz aus, der ein schönes schattiges Plätzchen bietet, um sich vor der Weiterfahrt zu erfrischen.",
+            "hu": "Pihentesse meg a lábát ezen a zölddel körülvett csendes lakóövezeti téren, amely kellemes árnyékot ad, hogy felfrissüljön a további tekerés előtt.",
+            "ro": "Odihniți-vă picioarele în această piațetă rezidențială liniștită, înconjurată de verdeață, care oferă un loc umbrit perfect pentru a vă hidrata.",
+            "en": "Rest your legs at this quiet residential square surrounded by greenery, which provides a nice shady spot to rehydrate before continuing your ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Launay",
+            "hu": "Parc Launay",
+            "ro": "Parc Launay",
+            "en": "Parc Launay"
+          },
+          "coords": [
+            2.193614,
+            48.997046
+          ],
+          "category": "family",
+          "arrive_at": "12:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Lassen Sie das Rad stehen und schlendern Sie über die Wege dieses Stadtparks, um das lokale Leben kennenzulernen und einen Mittagssnack zu genießen.",
+            "hu": "Tegye le a kerékpárt, és sétáljon egyet a helyi park ösvényein, ahol bepillantást nyerhet a mindennapokba, és megeheti a tízóraiját.",
+            "ro": "Lăsați bicicleta și plimbați-vă pe aleile acestui parc local întins pentru a observa viața comunității și a savura o gustare de prânz.",
+            "en": "Park your bike and stroll along the well-kept paths of this expansive park to experience local family life, enjoying a quick midday snack."
+          }
+        },
+        {
+          "name": {
+            "de": "Quiz Room",
+            "hu": "Quiz Room",
+            "ro": "Quiz Room",
+            "en": "Quiz Room"
+          },
+          "coords": [
+            2.18284,
+            48.997911
+          ],
+          "category": "family",
+          "arrive_at": "13:49",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad sicher und genießen Sie ein interaktives Quiz-Spiel im TV-Stil, das Sie an den Wochenenden unbedingt im Voraus buchen sollten.",
+            "hu": "Parkolja le biztonságosan a kerékpárját, és élvezze a tévés vetélkedőket idéző interaktív élményt bent, amelyet hétvégén mindenképp érdemes előre lefoglalni.",
+            "ro": "Parcați-vă bicicleta în siguranță și bucurați-vă de un joc interactiv tip quiz TV în interior, fiind foarte recomandat să rezervați în avans pentru weekend.",
+            "en": "Park your bike securely and enjoy an interactive, TV-style quiz game experience indoors, which is highly recommended to book in advance during weekends."
+          }
+        },
+        {
+          "name": {
+            "de": "Résidence du Stade",
+            "hu": "Résidence du Stade",
+            "ro": "Résidence du Stade",
+            "en": "Résidence du Stade"
+          },
+          "coords": [
+            2.181279,
+            49.018133
+          ],
+          "category": "family",
+          "arrive_at": "15:41",
+          "stay_min": 105,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour in der Nähe der örtlichen Sportplätze, wo sich die Gemeinde trifft, und nehmen Sie sich Zeit für ein lokales Spiel oder zum Dehnen im Gras.",
+            "hu": "Fejezze be a biciklitúrát a helyi sportpályák közelében, ahol a közösség összegyűlik, és szánjon egy percet egy meccs megnézésére vagy egy kis nyújtásra a fűben.",
+            "ro": "Încheiați traseul pe bicicletă lângă terenurile de sport unde se adună comunitatea, făcându-vă timp să urmăriți un meci local sau să faceți exerciții pe iarbă.",
+            "en": "End your biking journey near the local sports fields where the community gathers, and take a moment to watch a local match or stretch out on the grass."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour mit einer flotten morgendlichen Fahrt zum weitläufigen Parc François-Mitterrand. Mittags radeln Sie zu den ruhigen örtlichen Rückhaltebecken. Der Nachmittag bringt Abwechslung mit einer spannenden Herausforderung im Quiz Room. Lassen Sie den Abend bei lokalem Sport in der Résidence du Stade ausklingen.",
+        "hu": "Indítsa a kerékpártúrát egy frissítő reggeli tekeréssel a tágas Parc François-Mitterrand felé. Dél körül a helyi békés víztározókhoz vezet az útja. A délután izgalmas benti kihívást tartogat a Quiz Room falai között. Az estét a Résidence du Stade helyi sporteseményeinek megtekintésével zárhatja.",
+        "ro": "Începeți turul cu bicicleta cu o plimbare matinală rapidă către spațiosul Parc François-Mitterrand. În jurul prânzului, pedalați spre bazinele de retenție locale liniștite. După-amiaza aduce o provocare interioară captivantă la Quiz Room. Încheiați-vă seara urmărind sporturi locale la Résidence du Stade.",
+        "en": "Kick off your cycling tour with a brisk morning ride to the spacious Parc François-Mitterrand. Around midday, pedal towards the serene local retention basins. The afternoon shifts gears with an exciting indoor challenge at the Quiz Room. Wind down your evening by watching local sports at Résidence du Stade."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:27",
+      "total_km": 9.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Beauchamp Station",
+            "hu": "Beauchamp Station",
+            "ro": "Beauchamp Station",
+            "en": "Beauchamp Station"
+          },
+          "coords": [
+            2.197898,
+            49.007466
+          ],
+          "category": "station",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Fahrt am belebten Bahnhof, wo sich die Pendler treffen, und nutzen Sie den nahen Parkplatz für einen kurzen Orientierungshalt.",
+            "hu": "Kezdje autós útját a forgalmas állomásnál, ahol az ingázók gyülekeznek, és használja a közeli parkolót egy gyors tájékozódásra.",
+            "ro": "Începeți-vă drumul cu mașina de la gara aglomerată, centrul navetiștilor, și folosiți parcarea din apropiere pentru a vă orienta.",
+            "en": "Start your drive at the busy commuter hub of the station, using the nearby parking lot for a quick orientation before heading north."
+          }
+        },
+        {
+          "name": {
+            "de": "Bassin RD191 n°1",
+            "hu": "Bassin RD191 n°1",
+            "ro": "Bassin RD191 n°1",
+            "en": "Bassin RD191 n°1"
+          },
+          "coords": [
+            2.195814,
+            49.031972
+          ],
+          "category": "natural",
+          "arrive_at": "09:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem malerischen, schilfumstandenen Wasserbecken im Norden und parken Sie am Rand, um den morgendlichen Nebel sicher zu genießen.",
+            "hu": "Hajtson el ehhez a nádassal körülvett, festői északi víztározóhoz, és ügyeljen arra, hogy a kijelölt padkán parkoljon, hogy biztonságban élvezhesse a reggeli ködöt.",
+            "ro": "Conduceți până la acest pitoresc bazin nordic înconjurat de stuf, asigurându-vă că parcați pe acostament pentru a admira în siguranță ceața dimineții.",
+            "en": "Drive up to this scenic northern water basin surrounded by reeds, ensuring you park on the designated shoulder to safely enjoy the morning mist."
+          }
+        },
+        {
+          "name": {
+            "de": "Bassin de retenue de la Peupleuraie",
+            "hu": "Bassin de retenue de la Peupleuraie",
+            "ro": "Bassin de retenue de la Peupleuraie",
+            "en": "Bassin de retenue de la Peupleuraie"
+          },
+          "coords": [
+            2.186606,
+            49.030737
+          ],
+          "category": "natural",
+          "arrive_at": "10:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses wichtige, in der Landschaft versteckte Hochwasserschutzbecken und sprechen Sie leise, um die nistenden Wasservögel nicht aufzuscheuchen.",
+            "hu": "Fedezze fel ezt a tájban megbúvó, ökológiai fontosságú árvízvédelmi tározót, és beszéljen halkan, nehogy elijessze a fészkelő vízimadarakat.",
+            "ro": "Descoperiți acest rezervor ecologic crucial pentru controlul inundațiilor ascuns în peisaj, menținând o voce joasă pentru a nu speria păsările de apă.",
+            "en": "Discover this crucial ecological flood-control reservoir hidden in the landscape, keeping your voice low to avoid scaring away the nesting waterbirds."
+          }
+        },
+        {
+          "name": {
+            "de": "Résidence du Stade",
+            "hu": "Résidence du Stade",
+            "ro": "Résidence du Stade",
+            "en": "Résidence du Stade"
+          },
+          "coords": [
+            2.181279,
+            49.018133
+          ],
+          "category": "family",
+          "arrive_at": "11:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie die großzügigen Parkplätze in der Nähe des Sportkomplexes, um sich ein lokales Spiel anzusehen und die lebendige Gemeindeatmosphäre auf Ihrer Fahrt zu genießen.",
+            "hu": "Használja a sportkomplexum melletti tágas parkolókat, nézzen meg egy gyors meccset, és élvezze az élénk közösségi hangulatot útközben.",
+            "ro": "Folosiți parcările spațioase de lângă complexul sportiv pentru a urmări un meci rapid sau pur și simplu pentru a vă bucura de atmosfera plină de viață a comunității.",
+            "en": "Use the spacious lots near the sports complex to watch a quick match or simply enjoy the lively community atmosphere on your road trip."
+          }
+        },
+        {
+          "name": {
+            "de": "Quiz Room",
+            "hu": "Quiz Room",
+            "ro": "Quiz Room",
+            "en": "Quiz Room"
+          },
+          "coords": [
+            2.18284,
+            48.997911
+          ],
+          "category": "family",
+          "arrive_at": "12:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Parken Sie bequem in den umliegenden Straßen und erleben Sie ein interaktives Quiz-Spiel, das Sie sich vorab online reservieren sollten.",
+            "hu": "Parkoljon kényelmesen a környező utcákban, és élvezze az interaktív vetélkedőt, amelyet érdemes előre online lefoglalnia.",
+            "ro": "Parcați comod pe străzile din jur și experimentați un joc interactiv de tip quiz, asigurându-vă că rezervați online în avans.",
+            "en": "Park in the nearby free spots and enjoy an interactive quiz game experience, making sure to book online ahead of time for guaranteed entry."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc François-Mitterrand",
+            "hu": "Parc François-Mitterrand",
+            "ro": "Parc François-Mitterrand",
+            "en": "Parc François-Mitterrand"
+          },
+          "coords": [
+            2.21079,
+            49.013106
+          ],
+          "category": "family",
+          "arrive_at": "14:42",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt an diesem weitläufigen Park mit guten Parkmöglichkeiten und genießen Sie einen entspannten Nachmittagsspaziergang unter den Bäumen.",
+            "hu": "Fejezze be autós körútját ennél a tágas, jól parkolható parknál, és élvezze a pihentető délutáni sétát a fák alatt.",
+            "ro": "Încheiați-vă turul cu mașina la acest parc întins, cu locuri de parcare din belșug, savurând o plimbare relaxantă de după-amiază pe sub copaci.",
+            "en": "Conclude your driving tour at this expansive park with ample street parking nearby, enjoying a relaxing late-afternoon walk under the trees."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zu den nördlichen Wasserbecken und genießen Sie den Nebel über dem Schilf. Mittags fahren Sie nach Süden zu den Sportplätzen der Résidence du Stade. Ihr Nachmittag ist voller Spaß im interaktiven Quiz Room. Beenden Sie Ihren Ausflug mit einem friedlichen Spaziergang durch den Parc François-Mitterrand.",
+        "hu": "Autózzon reggel az északi víztározókhoz, és élvezze a nádas felett lebegő ködöt. Délben vegye az irányt dél felé, a Résidence du Stade közösségi pályáihoz. A délután tele lesz szórakozással az interaktív Quiz Room jóvoltából. Fejezze be a kirándulást egy békés sétával a Parc François-Mitterrand-ban.",
+        "ro": "Conduceți dimineața către bazinele de apă nordice, bucurându-vă de ceața de deasupra stufului. La prânz, mergeți spre sud pentru a explora terenurile comunitare de la Résidence du Stade. După-amiaza este plină de distracție la Quiz Room. Terminați-vă excursia cu o plimbare liniștită prin Parc François-Mitterrand.",
+        "en": "Drive out to the northern water basins in the morning, enjoying the mist over the reeds. By midday, head south to explore the community fields at Résidence du Stade. Your afternoon is packed with fun at the interactive Quiz Room. Finish your day trip with a peaceful walk through Parc François-Mitterrand."
+      }
+    }
+  }
+}

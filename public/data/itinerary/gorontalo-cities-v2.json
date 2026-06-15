@@ -1,0 +1,405 @@
+{
+  "city_id": "gorontalo-cities-v2",
+  "anchor": {
+    "name": "Gorontalo",
+    "coords": [
+      123.059,
+      0.542
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:32",
+      "total_km": 3.48,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Masjid Agung Baiturrahim",
+            "hu": "Masjid Agung Baiturrahim",
+            "ro": "Masjid Agung Baiturrahim",
+            "en": "Masjid Agung Baiturrahim"
+          },
+          "coords": [
+            123.060309,
+            0.537908
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die grünen Kuppeln dieser historischen Zentralmoschee, die das islamische Erbe Gorontalos widerspiegelt, und denken Sie an bescheidene Kleidung.",
+            "hu": "Csodálja meg ennek a történelmi központi mecsetnek a zöld kupoláit, amely Gorontalo iszlám örökségét tükrözi, és ne feledkezzen meg a szerény öltözködésről a belépéshez.",
+            "ro": "Admirați domurile verzi ale acestei moschei centrale istorice, care reflectă patrimoniul islamic din Gorontalo, și amintiți-vă să purtați haine modeste la intrare.",
+            "en": "Admire the beautiful green domes of this historic central mosque, which reflects Gorontalo's strong Islamic heritage, and remember to dress modestly before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Gereja Santo Kristoforus",
+            "hu": "Gereja Santo Kristoforus",
+            "ro": "Gereja Santo Kristoforus",
+            "en": "Gereja Santo Kristoforus"
+          },
+          "coords": [
+            123.05903,
+            0.533088
+          ],
+          "category": "religious",
+          "arrive_at": "09:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.56,
+          "tip_5lang": {
+            "de": "Entdecken Sie die friedliche Atmosphäre dieser katholischen Kirche, die für religiöse Harmonie steht, und kommen Sie morgens, um das schöne Sonnenlicht zu sehen.",
+            "hu": "Fedezze fel e történelmi katolikus templom békés légkörét, amely a vallási harmóniát képviseli, és látogasson el ide a reggeli órákban a gyönyörű fényekért.",
+            "ro": "Descoperiți atmosfera pașnică a acestei biserici catolice care reprezintă armonia religioasă, și vizitați-o dimineața pentru a vedea lumina soarelui filtrându-se frumos.",
+            "en": "Discover the peaceful atmosphere of this historic Catholic church representing local religious harmony, and visit during morning hours to see the vibrant sunlight filtering through."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumen Nani Wartabone",
+            "hu": "Monumen Nani Wartabone",
+            "ro": "Monumen Nani Wartabone",
+            "en": "Monumen Nani Wartabone"
+          },
+          "coords": [
+            123.058868,
+            0.530403
+          ],
+          "category": "historical",
+          "arrive_at": "10:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Stehen Sie vor dem imposanten Denkmal des lokalen Helden, der Gorontalos Unabhängigkeit erklärte, und nutzen Sie den Platz für beeindruckende historische Erinnerungsfotos.",
+            "hu": "Álljon meg a helyi hős előtt tisztelgő lenyűgöző emlékműnél, aki kihirdette Gorontalo függetlenségét, és készítsen néhány nagyszerű történelmi fotót a téren.",
+            "ro": "Stați în fața monumentului impunător care onorează eroul local ce a declarat independența Gorontalo, acesta fiind un loc perfect pentru fotografii istorice rapide.",
+            "en": "Stand before the imposing monument honoring a local hero who declared Gorontalo's independence before the rest of Indonesia, making it a perfect spot for quick historical photos."
+          }
+        },
+        {
+          "name": {
+            "de": "home Ishak",
+            "hu": "home Ishak",
+            "ro": "home Ishak",
+            "en": "home Ishak"
+          },
+          "coords": [
+            123.065452,
+            0.526902
+          ],
+          "category": "historical",
+          "arrive_at": "12:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.74,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historisch bedeutsame lokale Residenz mit einzigartigen architektonischen Details aus Gorontalos Vergangenheit, und tragen Sie bequeme Schuhe.",
+            "hu": "Fedezze fel ezt a történelmileg jelentős, egyedi építészeti részletekkel rendelkező helyi rezidenciát, és viseljen kényelmes cipőt a környék kényelmes bejárásához.",
+            "ro": "Explorați această reședință locală cu o semnificație istorică și detalii arhitecturale unice din trecutul Gorontalo, și purtați încălțăminte confortabilă pentru vizită.",
+            "en": "Explore this historically significant local residence with unique architectural details, offering a glimpse into Gorontalo's past, and wear comfortable walking shoes for the grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Provinsi Gorontalo",
+            "hu": "Museum Provinsi Gorontalo",
+            "ro": "Museum Provinsi Gorontalo",
+            "en": "Museum Provinsi Gorontalo"
+          },
+          "coords": [
+            123.078847,
+            0.536119
+          ],
+          "category": "museum",
+          "arrive_at": "13:22",
+          "stay_min": 130,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.85,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die regionale Geschichte und traditionelle Kultur ein, und planen Sie mindestens eine Stunde ein, um die faszinierenden Artefakte dieses Museums zu würdigen.",
+            "hu": "Merüljön el a regionális történelemben és kultúrában az évszázadokat átfogó kiállításokon keresztül, és szánjon legalább egy órát a bonyolult tárgyak megismerésére.",
+            "ro": "Scufundați-vă în istoria și cultura regională prin exponate fascinante și alocați cel puțin o oră pentru a aprecia cu adevărat artefactele complexe ale acestui muzeu.",
+            "en": "Dive deep into regional history and traditional culture through fascinating exhibits spanning centuries, and allocate at least an hour to truly appreciate the intricate artifacts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen im spirituellen Herzen von Gorontalo und bewundern Sie die Zentralmoschee und die nahegelegene katholische Kirche.\n\nZur Mittagszeit tauchen Sie am Nani Wartabone Denkmal und in historischen Residenzen in die Vergangenheit ein.\n\nVerbringen Sie den Nachmittag mit faszinierenden regionalen Artefakten im Provinzmuseum.\n\nBeenden Sie den Tag mit einem entspannten Spaziergang und reflektieren Sie die reiche Kultur.",
+        "hu": "Kezdje a reggelt Gorontalo spirituális központjában, csodálja meg a központi mecsetet és a közeli katolikus templomot.\n\nDélben merüljön el a hősies múltban a Nani Wartabone emlékműnél és a történelmi rezidenciáknál.\n\nDélután fedezze fel a lenyűgöző regionális tárgyakat a tartományi múzeumban.\n\nZárja a napot egy kellemes sétával, és gondoljon vissza a város gazdag kulturális örökségére.",
+        "ro": "Începeți dimineața explorând inima spirituală a orașului Gorontalo, admirând moscheea centrală și biserica catolică din apropiere.\n\nLa prânz, aprofundați trecutul eroic la monumentul Nani Wartabone și la reședințele istorice.\n\nPetreceți după-amiaza descoperind artefacte regionale fascinante în muzeul provincial.\n\nÎncheiați ziua cu o plimbare relaxantă, reflectând la bogata cultură și istorie locală.",
+        "en": "Start your morning exploring the spiritual heart of Gorontalo, admiring both the central mosque and the nearby Catholic church.\n\nBy midday, delve into the city's heroic past at the Nani Wartabone monument and nearby historical residences.\n\nSpend your afternoon discovering fascinating regional artifacts inside the provincial museum.\n\nConclude your walking tour reflecting on the rich local culture."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 8.29,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Pasar Jodoh Dungingi",
+            "hu": "Pasar Jodoh Dungingi",
+            "ro": "Pasar Jodoh Dungingi",
+            "en": "Pasar Jodoh Dungingi"
+          },
+          "coords": [
+            123.032339,
+            0.564989
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Stöbern Sie an den lebhaften Ständen dieses Kulturmarktes mit seinen vielfältigen lokalen Waren, und verhandeln Sie respektvoll, um die besten Souvenirs zu ergattern.",
+            "hu": "Böngésszen a kulturális piac élénk standjain, amely sokszínű helyi árukról ismert, és gyakorolja tiszteletteljesen az alkudozást a legjobb hiteles ajándékokért.",
+            "ro": "Răsfoiți tarabele vibrante ale acestei piețe culturale cunoscute pentru diverse bunuri locale și exersați-vă cu respect abilitățile de negociere pentru cele mai bune suveniruri.",
+            "en": "Browse the vibrant stalls of this cultural market known for its diverse local goods and textiles, and practice your bartering skills respectfully to secure the best authentic souvenirs."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Agung Baiturrahim",
+            "hu": "Masjid Agung Baiturrahim",
+            "ro": "Masjid Agung Baiturrahim",
+            "en": "Masjid Agung Baiturrahim"
+          },
+          "coords": [
+            123.060309,
+            0.537908
+          ],
+          "category": "religious",
+          "arrive_at": "10:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 4.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die grünen Kuppeln dieser historischen Zentralmoschee, die das islamische Erbe Gorontalos widerspiegelt, und denken Sie an bescheidene Kleidung.",
+            "hu": "Csodálja meg ennek a történelmi központi mecsetnek a zöld kupoláit, amely Gorontalo iszlám örökségét tükrözi, és ne feledkezzen meg a szerény öltözködésről a belépéshez.",
+            "ro": "Admirați domurile verzi ale acestei moschei centrale istorice, care reflectă patrimoniul islamic din Gorontalo, și amintiți-vă să purtați haine modeste la intrare.",
+            "en": "Admire the beautiful green domes of this historic central mosque, which reflects Gorontalo's strong Islamic heritage, and remember to dress modestly before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumen Nani Wartabone",
+            "hu": "Monumen Nani Wartabone",
+            "ro": "Monumen Nani Wartabone",
+            "en": "Monumen Nani Wartabone"
+          },
+          "coords": [
+            123.058868,
+            0.530403
+          ],
+          "category": "historical",
+          "arrive_at": "11:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Stehen Sie vor dem imposanten Denkmal des lokalen Helden, der Gorontalos Unabhängigkeit erklärte, und nutzen Sie den Platz für beeindruckende historische Erinnerungsfotos.",
+            "hu": "Álljon meg a helyi hős előtt tisztelgő lenyűgöző emlékműnél, aki kihirdette Gorontalo függetlenségét, és készítsen néhány nagyszerű történelmi fotót a téren.",
+            "ro": "Stați în fața monumentului impunător care onorează eroul local ce a declarat independența Gorontalo, acesta fiind un loc perfect pentru fotografii istorice rapide.",
+            "en": "Stand before the imposing monument honoring a local hero who declared Gorontalo's independence before the rest of Indonesia, making it a perfect spot for quick historical photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Provinsi Gorontalo",
+            "hu": "Museum Provinsi Gorontalo",
+            "ro": "Museum Provinsi Gorontalo",
+            "en": "Museum Provinsi Gorontalo"
+          },
+          "coords": [
+            123.078847,
+            0.536119
+          ],
+          "category": "museum",
+          "arrive_at": "12:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die regionale Geschichte und traditionelle Kultur ein, und planen Sie mindestens eine Stunde ein, um die faszinierenden Artefakte dieses Museums zu würdigen.",
+            "hu": "Merüljön el a regionális történelemben és kultúrában az évszázadokat átfogó kiállításokon keresztül, és szánjon legalább egy órát a bonyolult tárgyak megismerésére.",
+            "ro": "Scufundați-vă în istoria și cultura regională prin exponate fascinante și alocați cel puțin o oră pentru a aprecia cu adevărat artefactele complexe ale acestui muzeu.",
+            "en": "Dive deep into regional history and traditional culture through fascinating exhibits spanning centuries, and allocate at least an hour to truly appreciate the intricate artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Pasar Moodu",
+            "hu": "Pasar Moodu",
+            "ro": "Pasar Moodu",
+            "en": "Pasar Moodu"
+          },
+          "coords": [
+            123.075739,
+            0.541496
+          ],
+          "category": "cultural",
+          "arrive_at": "14:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.79,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die lebhafte Energie dieses traditionellen Marktes ein, wo Einheimische frische Waren handeln, und halten Sie Bargeld für spontane leckere Snacks bereit.",
+            "hu": "Merüljön el a hagyományos piac nyüzsgő energiájában, ahol a helyiek friss termékekkel kereskednek, és mindig tartson magánál készpénzt a finom harapnivalókhoz.",
+            "ro": "Imersați-vă în energia plină de viață a acestei piețe tradiționale unde localnicii vând produse proaspete, și păstrați bani gheață pentru gustări delicioase spontane.",
+            "en": "Immerse yourself in the bustling energy of this traditional market where locals trade fresh produce and crafts, and always keep small cash handy for spontaneous delicious snacks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt mit den lebhaften Eindrücken der westlichen Märkte, bevor Sie ins Zentrum radeln.\n\nAm Mittag können Sie den zentralen Platz erkunden und historische Denkmäler sowie wunderschöne Gotteshäuser besichtigen.\n\nAm Nachmittag fahren Sie zum Provinzmuseum, um das reiche kulturelle Erbe von Gorontalo kennenzulernen.\n\nBeenden Sie Ihre Fahrt nahe einem traditionellen Markt.",
+        "hu": "Kerékpártúrája a nyugati piacok élénk látványával kezdődik, mielőtt a városközpont felé pedálozna.\n\nDélben felfedezheti a központi teret, megtekintheti a történelmi műemlékeket és a gyönyörű istentiszteleti helyeket.\n\nDélután guruljon el a tartományi múzeumhoz, hogy megismerje Gorontalo gazdag kulturális örökségét.\n\nFejezze be az utat egy hagyományos keleti piac közelében.",
+        "ro": "Călătoria pe bicicletă începe cu atracțiile pline de viață ale piețelor vestice înainte de a pedala spre centru.\n\nLa prânz, explorați piața centrală, admirând monumentele istorice și lăcașurile de cult frumoase.\n\nDupă-amiaza, mergeți la muzeul provincial pentru a învăța despre bogatul patrimoniu cultural din Gorontalo.\n\nTerminați plimbarea lângă o piață tradițională din partea de est.",
+        "en": "Your cycling journey begins with the lively sights and sounds of the western markets before pedaling toward the city center.\n\nMidday invites you to explore the central square, taking in historical monuments and beautiful places of worship.\n\nIn the afternoon, cruise to the provincial museum to learn about Gorontalo's rich cultural heritage.\n\nFinish your ride near a traditional eastern market."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 18.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum Pedaratan Pesawat Ampibi Bung Karno",
+            "hu": "Museum Pedaratan Pesawat Ampibi Bung Karno",
+            "ro": "Museum Pedaratan Pesawat Ampibi Bung Karno",
+            "en": "Museum Pedaratan Pesawat Ampibi Bung Karno"
+          },
+          "coords": [
+            122.994882,
+            0.551615
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie den einzigartigen Landeplatz von Indonesiens Gründervater mit seinen Wasserflugzeug-Exponaten, und kommen Sie früh, um die Aussicht auf den See zu genießen.",
+            "hu": "Fedezze fel Indonézia alapító atyjának egyedülálló leszállóhelyét és a hidroplán kiállításokat, és érkezzen korán, hogy élvezhesse a tóparti kilátást a déli hőség előtt.",
+            "ro": "Descoperiți locul unic de aterizare al părintelui fondator al Indoneziei și exponatele sale cu avioane amfibii, și veniți devreme pentru a vă bucura de priveliștea lacului.",
+            "en": "Discover the unique landing site of Indonesia's founding father and its amphibious plane exhibits, and visit early to enjoy the nearby lakeside views before the midday heat arrives."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Agung Baiturrahim",
+            "hu": "Masjid Agung Baiturrahim",
+            "ro": "Masjid Agung Baiturrahim",
+            "en": "Masjid Agung Baiturrahim"
+          },
+          "coords": [
+            123.060309,
+            0.537908
+          ],
+          "category": "religious",
+          "arrive_at": "11:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 7.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die grünen Kuppeln dieser historischen Zentralmoschee, die das islamische Erbe Gorontalos widerspiegelt, und denken Sie an bescheidene Kleidung.",
+            "hu": "Csodálja meg ennek a történelmi központi mecsetnek a zöld kupoláit, amely Gorontalo iszlám örökségét tükrözi, és ne feledkezzen meg a szerény öltözködésről a belépéshez.",
+            "ro": "Admirați domurile verzi ale acestei moschei centrale istorice, care reflectă patrimoniul islamic din Gorontalo, și amintiți-vă să purtați haine modeste la intrare.",
+            "en": "Admire the beautiful green domes of this historic central mosque, which reflects Gorontalo's strong Islamic heritage, and remember to dress modestly before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumen Nani Wartabone",
+            "hu": "Monumen Nani Wartabone",
+            "ro": "Monumen Nani Wartabone",
+            "en": "Monumen Nani Wartabone"
+          },
+          "coords": [
+            123.058868,
+            0.530403
+          ],
+          "category": "historical",
+          "arrive_at": "11:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Stehen Sie vor dem imposanten Denkmal des lokalen Helden, der Gorontalos Unabhängigkeit erklärte, und nutzen Sie den Platz für beeindruckende historische Erinnerungsfotos.",
+            "hu": "Álljon meg a helyi hős előtt tisztelgő lenyűgöző emlékműnél, aki kihirdette Gorontalo függetlenségét, és készítsen néhány nagyszerű történelmi fotót a téren.",
+            "ro": "Stați în fața monumentului impunător care onorează eroul local ce a declarat independența Gorontalo, acesta fiind un loc perfect pentru fotografii istorice rapide.",
+            "en": "Stand before the imposing monument honoring a local hero who declared Gorontalo's independence before the rest of Indonesia, making it a perfect spot for quick historical photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Provinsi Gorontalo",
+            "hu": "Museum Provinsi Gorontalo",
+            "ro": "Museum Provinsi Gorontalo",
+            "en": "Museum Provinsi Gorontalo"
+          },
+          "coords": [
+            123.078847,
+            0.536119
+          ],
+          "category": "museum",
+          "arrive_at": "13:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die regionale Geschichte und traditionelle Kultur ein, und planen Sie mindestens eine Stunde ein, um die faszinierenden Artefakte dieses Museums zu würdigen.",
+            "hu": "Merüljön el a regionális történelemben és kultúrában az évszázadokat átfogó kiállításokon keresztül, és szánjon legalább egy órát a bonyolult tárgyak megismerésére.",
+            "ro": "Scufundați-vă în istoria și cultura regională prin exponate fascinante și alocați cel puțin o oră pentru a aprecia cu adevărat artefactele complexe ale acestui muzeu.",
+            "en": "Dive deep into regional history and traditional culture through fascinating exhibits spanning centuries, and allocate at least an hour to truly appreciate the intricate artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Pasar Kamis Tapa",
+            "hu": "Pasar Kamis Tapa",
+            "ro": "Pasar Kamis Tapa",
+            "en": "Pasar Kamis Tapa"
+          },
+          "coords": [
+            123.083297,
+            0.608209
+          ],
+          "category": "cultural",
+          "arrive_at": "15:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Erleben Sie das authentische Leben in Gorontalo auf diesem lebhaften Wochenmarkt voller Farben und Aromen, und besuchen Sie ihn am späten Nachmittag für die beste Stimmung.",
+            "hu": "Tapasztalja meg a hiteles gorontalói életet ezen a vibráló, színes helyi ízekkel teli heti piacon, és ne feledje, hogy a késő délutáni érkezés kínálja a legjobb hangulatot.",
+            "ro": "Experimentați viața autentică din Gorontalo la această piață săptămânală vibrantă, plină de arome locale, și rețineți că după-amiaza târziu oferă cea mai bună atmosferă.",
+            "en": "Experience authentic Gorontalo life at this vibrant weekly market filled with colorful local flavors, and remember that arriving late afternoon offers the best dynamic atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zum faszinierenden Amphibienflugzeug-Museum am See, um den Tag mit einzigartiger indonesischer Luftfahrtgeschichte zu beginnen.\n\nMittags navigieren Sie durch lebhafte Märkte und besuchen die große Zentralmoschee.\n\nIhr Nachmittag ist der Erkundung des Hauptmuseums der Provinz und historischer Denkmäler gewidmet.\n\nBeenden Sie Ihre Tour auf einem lebhaften Kulturmarkt im Norden.",
+        "hu": "Vezessen a tóparti hidroplán múzeumhoz, hogy a napot az indonéz repüléstörténet egyedi darabjaival kezdje.\n\nDélben navigáljon a nyüzsgő városi piacokon, és látogassa meg a nagy központi mecsetet.\n\nA délutánt a tartomány fő múzeumának és történelmi műemlékeinek felfedezésére szánja.\n\nZárja az autós túrát egy vibráló kulturális piacon, a város északi részén.",
+        "ro": "Conduceți la fascinantul muzeu al avioanelor amfibii de pe malul lacului pentru a începe ziua cu istoria aviației.\n\nLa prânz, navigați prin piețele pline de viață și vizitați marea moschee centrală pentru arhitectura sa.\n\nDupă-amiaza este dedicată explorării muzeului principal al provinciei și a monumentelor istorice.\n\nÎncheiați turul cu mașina la o piață culturală vibrantă în nord.",
+        "en": "Drive to the fascinating lakeside amphibious plane museum to start your day with unique Indonesian aviation history.\n\nBy midday, navigate through lively city markets and visit the grand central mosque to appreciate local architecture.\n\nYour afternoon is dedicated to exploring the province's main museum and historical monuments.\n\nConclude your driving tour at a vibrant cultural market up north."
+      }
+    }
+  }
+}

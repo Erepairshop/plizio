@@ -1,0 +1,474 @@
+{
+  "city_id": "saint-flour",
+  "anchor": {
+    "name": "Saint-Flour",
+    "coords": [
+      3.0928,
+      45.0336
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:54",
+      "total_km": 1.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Maison Consulaire",
+            "hu": "Maison Consulaire",
+            "ro": "Maison Consulaire",
+            "en": "Maison Consulaire"
+          },
+          "coords": [
+            3.095192,
+            45.034064
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fassade dieses historischen Konsularhauses und achten Sie auf die prächtigen steinernen Details, bevor Sie das faszinierende Innere betreten.",
+            "hu": "Csodálja meg a történelmi konzulátus lenyűgöző homlokzatát és részletgazdag kőfaragásait, mielőtt felfedezné az épület izgalmas és gazdag belső kiállításait.",
+            "ro": "Admirați fațada impresionantă a acestei case consulare istorice și observați detaliile rafinate din piatră înainte de a explora interiorul cu adevărat fascinant.",
+            "en": "Take time to admire the stunning facade of this historical consular house and notice the intricate stone details before exploring the fascinating interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Alfred Douët",
+            "hu": "Alfred Douët Múzeum",
+            "ro": "Muzeul Alfred Douët",
+            "en": "Alfred Douët Museum"
+          },
+          "coords": [
+            3.095192,
+            45.034064
+          ],
+          "category": "museum",
+          "arrive_at": "09:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Kunstsammlung in diesem alten Renaissancehaus und nehmen Sie sich Zeit für die antiken Möbel und beeindruckenden Gemälde der Region.",
+            "hu": "Fedezze fel a gazdag művészeti gyűjteményt ebben a reneszánsz házban, és szánjon időt az antik bútorokra, valamint a lenyűgöző történelmi festményekre.",
+            "ro": "Descoperiți colecția bogată de artă din această superbă casă renascentistă și acordați-vă timp pentru a admira mobilierul de epocă și picturile impresionante.",
+            "en": "Discover the rich art collection in this Renaissance house, taking your time to carefully appreciate the antique furniture and impressive paintings on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Saint-Pierre",
+            "hu": "Saint-Pierre Katedrális",
+            "ro": "Catedrala Saint-Pierre",
+            "en": "Saint-Pierre Cathedral"
+          },
+          "coords": [
+            3.095219,
+            45.033275
+          ],
+          "category": "religious",
+          "arrive_at": "11:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die dunkle Vulkansteinarchitektur dieser majestätischen gotischen Kathedrale und besuchen Sie sie früh, um das beste Licht am Morgen zu genießen.",
+            "hu": "Csodálja meg ennek a fenséges gótikus katedrálisnak a sötét vulkáni kőből készült építészetét, és érkezzen korán, hogy élvezhesse a legjobb reggeli fényeket.",
+            "ro": "Minunați-vă de arhitectura din piatră vulcanică întunecată a acestei catedrale gotice maiestuoase și vizitați-o dimineața pentru a vă bucura de cea mai bună lumină.",
+            "en": "Marvel at the dark volcanic stone architecture of this magnificent Gothic cathedral, and aim to visit early in the day to enjoy the absolute best morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Haute-Auvergne",
+            "hu": "Haute-Auvergne Múzeum",
+            "ro": "Muzeul Haute-Auvergne",
+            "en": "Haute-Auvergne Museum"
+          },
+          "coords": [
+            3.094872,
+            45.03307
+          ],
+          "category": "museum",
+          "arrive_at": "12:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die regionale Geschichte des beeindruckenden alten Bischofspalastes ein und überprüfen Sie vorab die Öffnungszeiten für Sonderausstellungen.",
+            "hu": "Merüljön el a régió gazdag történelmében a régi püspöki palotában, és látogatás előtt mindenképpen ellenőrizze az időszaki kiállítások pontos nyitvatartását.",
+            "ro": "Scufundați-vă în istoria regională fascinantă în vechiul palat episcopal și verificați în prealabil programul pentru a prinde expozițiile speciale temporare.",
+            "en": "Delve deep into regional history inside the beautiful old episcopal palace, and be sure to check the schedule beforehand for any special temporary exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauern von Saint-Flour",
+            "hu": "Saint-Flour városfalai",
+            "ro": "Zidurile cetății Saint-Flour",
+            "en": "Ramparts of Saint-Flour"
+          },
+          "coords": [
+            3.090298,
+            45.033255
+          ],
+          "category": "fortress",
+          "arrive_at": "14:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der alten Festungsmauern für einen atemberaubenden Panoramablick über das Tal und tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+            "hu": "Sétáljon végig az ősi erődítmény falain a völgyre nyíló lélegzetelállító panorámáért, és viseljen kényelmes cipőt a régi macskaköves utakon való közlekedéshez.",
+            "ro": "Plimbați-vă de-a lungul vechilor ziduri ale cetății pentru o vedere panoramică uluitoare asupra văii și purtați încălțăminte comodă pentru piatra cubică veche.",
+            "en": "Stroll along the ancient fortress walls for a breathtaking panoramic view over the valley, and definitely wear comfortable shoes to navigate the cobblestone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Brücke",
+            "hu": "Öreg híd",
+            "ro": "Podul Vechi",
+            "en": "Old Bridge"
+          },
+          "coords": [
+            3.098654,
+            45.032373
+          ],
+          "category": "historical",
+          "arrive_at": "16:04",
+          "stay_min": 110,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese malerische alte Brücke im unteren Teil der charmanten Stadt und nutzen Sie die fantastische Gelegenheit für schöne Fotos vom Flussufer aus.",
+            "hu": "Keljen át ezen a festői régi hídon az elbűvölő alsóvárosban, és ragadja meg a tökéletes lehetőséget, hogy fantasztikus fotókat készítsen a csendes folyópartról.",
+            "ro": "Traversați acest pod vechi pitoresc situat în partea de jos a orașului și profitați de ocazia perfectă pentru a face fotografii fantastice de pe malul râului.",
+            "en": "Cross this picturesque old bridge located in the charming lower town, and take the perfect opportunity to capture fantastic photos from the serene riverbanks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Herzen von Saint-Flour an der Maison Consulaire und tauchen Sie im Musée Alfred Douët in die Kunst ein. Mittags bewundern Sie die dunkle Pracht der Cathédrale Saint-Pierre und entdecken die lokale Geschichte im Musée de la Haute-Auvergne. Der Nachmittag bietet spektakuläre Ausblicke von den alten Stadtmauern. Beenden Sie den Tag unten am Pont Vieux.",
+        "hu": "Kezdje a napot Saint-Flour történelmi szívében a Maison Consulaire-nél, majd merüljön el a művészetben a Musée Alfred Douët-ben. Délben csodálja meg a Cathédrale Saint-Pierre sötét pompáját, és ismerje meg a helyi történelmet. A délután lenyűgöző kilátást kínál a városi ősi erődítményfalakról. Fejezze be a napot egy kellemes sétával az alsóvárosban, a festői Pont Vieux hídnál.",
+        "ro": "Începeți ziua în inima istorică a orașului Saint-Flour la Maison Consulaire și admirați arta la Musée Alfred Douët. La prânz, vizitați Cathédrale Saint-Pierre, o bijuterie vulcanică, urmată de o incursiune în istorie la Musée de la Haute-Auvergne. După-amiaza vă așteaptă cu priveliști uimitoare de pe metereze. Încheiați ziua relaxându-vă lângă pitorescul Pont Vieux.",
+        "en": "Start your day in the historic heart of Saint-Flour at the Maison Consulaire and immerse yourself in art at the Musée Alfred Douët. Midday, marvel at the dark splendor of Cathédrale Saint-Pierre and uncover local history at the Musée de la Haute-Auvergne. The afternoon offers spectacular views from the ancient ramparts. End your walking tour down by the historic Pont Vieux."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Alte Brücke",
+            "hu": "Öreg híd",
+            "ro": "Podul Vechi",
+            "en": "Old Bridge"
+          },
+          "coords": [
+            3.098654,
+            45.032373
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese malerische alte Brücke im unteren Teil der charmanten Stadt und nutzen Sie die fantastische Gelegenheit für schöne Fotos vom Flussufer aus.",
+            "hu": "Keljen át ezen a festői régi hídon az elbűvölő alsóvárosban, és ragadja meg a tökéletes lehetőséget, hogy fantasztikus fotókat készítsen a csendes folyópartról.",
+            "ro": "Traversați acest pod vechi pitoresc situat în partea de jos a orașului și profitați de ocazia perfectă pentru a face fotografii fantastice de pe malul râului.",
+            "en": "Cross this picturesque old bridge located in the charming lower town, and take the perfect opportunity to capture fantastic photos from the serene riverbanks."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauern von Saint-Flour",
+            "hu": "Saint-Flour városfalai",
+            "ro": "Zidurile cetății Saint-Flour",
+            "en": "Ramparts of Saint-Flour"
+          },
+          "coords": [
+            3.090298,
+            45.033255
+          ],
+          "category": "fortress",
+          "arrive_at": "10:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der alten Festungsmauern für einen atemberaubenden Panoramablick über das Tal und tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+            "hu": "Sétáljon végig az ősi erődítmény falain a völgyre nyíló lélegzetelállító panorámáért, és viseljen kényelmes cipőt a régi macskaköves utakon való közlekedéshez.",
+            "ro": "Plimbați-vă de-a lungul vechilor ziduri ale cetății pentru o vedere panoramică uluitoare asupra văii și purtați încălțăminte comodă pentru piatra cubică veche.",
+            "en": "Stroll along the ancient fortress walls for a breathtaking panoramic view over the valley, and definitely wear comfortable shoes to navigate the cobblestone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Saint-Pierre",
+            "hu": "Saint-Pierre Katedrális",
+            "ro": "Catedrala Saint-Pierre",
+            "en": "Saint-Pierre Cathedral"
+          },
+          "coords": [
+            3.095219,
+            45.033275
+          ],
+          "category": "religious",
+          "arrive_at": "11:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die dunkle Vulkansteinarchitektur dieser majestätischen gotischen Kathedrale und besuchen Sie sie früh, um das beste Licht am Morgen zu genießen.",
+            "hu": "Csodálja meg ennek a fenséges gótikus katedrálisnak a sötét vulkáni kőből készült építészetét, és érkezzen korán, hogy élvezhesse a legjobb reggeli fényeket.",
+            "ro": "Minunați-vă de arhitectura din piatră vulcanică întunecată a acestei catedrale gotice maiestuoase și vizitați-o dimineața pentru a vă bucura de cea mai bună lumină.",
+            "en": "Marvel at the dark volcanic stone architecture of this magnificent Gothic cathedral, and aim to visit early in the day to enjoy the absolute best morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Haute-Auvergne",
+            "hu": "Haute-Auvergne Múzeum",
+            "ro": "Muzeul Haute-Auvergne",
+            "en": "Haute-Auvergne Museum"
+          },
+          "coords": [
+            3.094872,
+            45.03307
+          ],
+          "category": "museum",
+          "arrive_at": "13:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die regionale Geschichte des beeindruckenden alten Bischofspalastes ein und überprüfen Sie vorab die Öffnungszeiten für Sonderausstellungen.",
+            "hu": "Merüljön el a régió gazdag történelmében a régi püspöki palotában, és látogatás előtt mindenképpen ellenőrizze az időszaki kiállítások pontos nyitvatartását.",
+            "ro": "Scufundați-vă în istoria regională fascinantă în vechiul palat episcopal și verificați în prealabil programul pentru a prinde expozițiile speciale temporare.",
+            "en": "Delve deep into regional history inside the beautiful old episcopal palace, and be sure to check the schedule beforehand for any special temporary exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison Consulaire",
+            "hu": "Maison Consulaire",
+            "ro": "Maison Consulaire",
+            "en": "Maison Consulaire"
+          },
+          "coords": [
+            3.095192,
+            45.034064
+          ],
+          "category": "civic",
+          "arrive_at": "14:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fassade dieses historischen Konsularhauses und achten Sie auf die prächtigen steinernen Details, bevor Sie das faszinierende Innere betreten.",
+            "hu": "Csodálja meg a történelmi konzulátus lenyűgöző homlokzatát és részletgazdag kőfaragásait, mielőtt felfedezné az épület izgalmas és gazdag belső kiállításait.",
+            "ro": "Admirați fațada impresionantă a acestei case consulare istorice și observați detaliile rafinate din piatră înainte de a explora interiorul cu adevărat fascinant.",
+            "en": "Take time to admire the stunning facade of this historical consular house and notice the intricate stone details before exploring the fascinating interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Arena City",
+            "hu": "Arena City",
+            "ro": "Arena City",
+            "en": "Arena City"
+          },
+          "coords": [
+            3.05564,
+            45.039052
+          ],
+          "category": "family",
+          "arrive_at": "15:50",
+          "stay_min": 105,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Genießen Sie eine unterhaltsame und aktive Auszeit mit der Familie in diesem modernen Freizeitzentrum und probieren Sie die vielen Indoor-Aktivitäten aus.",
+            "hu": "Élvezze a szórakoztató és aktív családi kikapcsolódást ebben a modern szabadidőközpontban, és mindenképpen próbálja ki a különféle izgalmas beltéri tevékenységeket.",
+            "ro": "Bucurați-vă de o pauză distractivă și activă în familie la acest centru modern de agrement și asigurați-vă că încercați diferitele activități de interior oferite.",
+            "en": "Enjoy an entertaining and active family break at this modern leisure center, and be sure to try out the wide variety of exciting indoor activities available here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour entspannt am historischen Pont Vieux im unteren Teil der Stadt. Treten Sie in die Pedale, um die alten Stadtmauern zu erkunden, bevor Sie das beeindruckende Zentrum mit der Kathedrale erreichen. Mittags tauchen Sie in die Museen der Oberstadt ein. Am Nachmittag radeln Sie entspannt zum Arena City, um den Tag mit Spiel und Spaß für die ganze Familie ausklingen zu lassen.",
+        "hu": "Kezdje kerékpártúráját a történelmi Pont Vieux hídnál a város alsó részén. Tekerjen el az ősi várfalakig, majd érje el a lenyűgöző központot és a katedrálist. Délben látogasson el a felsőváros izgalmas múzeumaiba és történelmi épületeibe. Délután tekerjen el az Arena City felé, ahol szórakoztató családi programok várják, tökéletes lezárásként ennek az aktív és tartalmas napnak.",
+        "ro": "Începeți turul cu bicicleta la istoricul Pont Vieux din partea de jos a orașului. Pedalați spre vechile ziduri ale cetății înainte de a ajunge la impresionanta catedrală din centru. La prânz, vizitați muzeele fascinante din orașul de sus. După-amiaza, o plimbare relaxantă cu bicicleta vă va duce la Arena City, încheind ziua cu activități distractive pentru întreaga familie.",
+        "en": "Begin your cycling journey at the historic Pont Vieux in the lower town. Pedal your way up to explore the ancient ramparts before reaching the striking cathedral in the center. Midday is perfect for exploring the upper town's fascinating museums and civic buildings. In the afternoon, enjoy a breezy ride to Arena City, ending your active day with some fun family entertainment."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:17",
+      "total_km": 25.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kathedrale Saint-Pierre",
+            "hu": "Saint-Pierre Katedrális",
+            "ro": "Catedrala Saint-Pierre",
+            "en": "Saint-Pierre Cathedral"
+          },
+          "coords": [
+            3.095219,
+            45.033275
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die dunkle Vulkansteinarchitektur dieser majestätischen gotischen Kathedrale und besuchen Sie sie früh, um das beste Licht am Morgen zu genießen.",
+            "hu": "Csodálja meg ennek a fenséges gótikus katedrálisnak a sötét vulkáni kőből készült építészetét, és érkezzen korán, hogy élvezhesse a legjobb reggeli fényeket.",
+            "ro": "Minunați-vă de arhitectura din piatră vulcanică întunecată a acestei catedrale gotice maiestuoase și vizitați-o dimineața pentru a vă bucura de cea mai bună lumină.",
+            "en": "Marvel at the dark volcanic stone architecture of this magnificent Gothic cathedral, and aim to visit early in the day to enjoy the absolute best morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmauern von Saint-Flour",
+            "hu": "Saint-Flour városfalai",
+            "ro": "Zidurile cetății Saint-Flour",
+            "en": "Ramparts of Saint-Flour"
+          },
+          "coords": [
+            3.090298,
+            45.033255
+          ],
+          "category": "fortress",
+          "arrive_at": "10:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der alten Festungsmauern für einen atemberaubenden Panoramablick über das Tal und tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+            "hu": "Sétáljon végig az ősi erődítmény falain a völgyre nyíló lélegzetelállító panorámáért, és viseljen kényelmes cipőt a régi macskaköves utakon való közlekedéshez.",
+            "ro": "Plimbați-vă de-a lungul vechilor ziduri ale cetății pentru o vedere panoramică uluitoare asupra văii și purtați încălțăminte comodă pentru piatra cubică veche.",
+            "en": "Stroll along the ancient fortress walls for a breathtaking panoramic view over the valley, and definitely wear comfortable shoes to navigate the cobblestone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Brücke",
+            "hu": "Öreg híd",
+            "ro": "Podul Vechi",
+            "en": "Old Bridge"
+          },
+          "coords": [
+            3.098654,
+            45.032373
+          ],
+          "category": "historical",
+          "arrive_at": "11:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese malerische alte Brücke im unteren Teil der charmanten Stadt und nutzen Sie die fantastische Gelegenheit für schöne Fotos vom Flussufer aus.",
+            "hu": "Keljen át ezen a festői régi hídon az elbűvölő alsóvárosban, és ragadja meg a tökéletes lehetőséget, hogy fantasztikus fotókat készítsen a csendes folyópartról.",
+            "ro": "Traversați acest pod vechi pitoresc situat în partea de jos a orașului și profitați de ocazia perfectă pentru a face fotografii fantastice de pe malul râului.",
+            "en": "Cross this picturesque old bridge located in the charming lower town, and take the perfect opportunity to capture fantastic photos from the serene riverbanks."
+          }
+        },
+        {
+          "name": {
+            "de": "Arena City",
+            "hu": "Arena City",
+            "ro": "Arena City",
+            "en": "Arena City"
+          },
+          "coords": [
+            3.05564,
+            45.039052
+          ],
+          "category": "family",
+          "arrive_at": "13:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Genießen Sie eine unterhaltsame und aktive Auszeit mit der Familie in diesem modernen Freizeitzentrum und probieren Sie die vielen Indoor-Aktivitäten aus.",
+            "hu": "Élvezze a szórakoztató és aktív családi kikapcsolódást ebben a modern szabadidőközpontban, és mindenképpen próbálja ki a különféle izgalmas beltéri tevékenységeket.",
+            "ro": "Bucurați-vă de o pauză distractivă și activă în familie la acest centru modern de agrement și asigurați-vă că încercați diferitele activități de interior oferite.",
+            "en": "Enjoy an entertaining and active family break at this modern leisure center, and be sure to try out the wide variety of exciting indoor activities available here."
+          }
+        },
+        {
+          "name": {
+            "de": "See von Sailhant",
+            "hu": "Sailhant-tó",
+            "ro": "Lacul Sailhant",
+            "en": "Lake Sailhant"
+          },
+          "coords": [
+            3.043176,
+            45.070535
+          ],
+          "category": "natural",
+          "arrive_at": "14:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem wunderschönen und einzigartigen Kratersee mit seinem malerischen Wasserfall und bringen Sie ein Picknick für ein ruhiges Mittagessen mit.",
+            "hu": "Pihenjen meg ennél a gyönyörű és egyedülálló krátertónál a festői vízeséssel, és fontolja meg, hogy hoz magával egy pikniket egy békés ebédhez a természetben.",
+            "ro": "Relaxați-vă la acest lac vulcanic frumos și unic, cu o cascadă pitorească, și luați în considerare să aduceți un picnic pentru a savura un prânz liniștit în natură.",
+            "en": "Relax at this beautiful and unique crater lake featuring a highly scenic waterfall, and strongly consider bringing a picnic to enjoy a quiet lunch amidst raw nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Grandval-Stausee",
+            "hu": "Grandval-víztározó",
+            "ro": "Lacul de acumulare Grandval",
+            "en": "Grandval Dam Lake"
+          },
+          "coords": [
+            3.140112,
+            44.934881
+          ],
+          "category": "natural",
+          "arrive_at": "16:32",
+          "stay_min": 105,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 17.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckende Talsperre und den riesigen künstlichen Stausee, ideal für aufregende Wassersportler oder einen entspannten Spaziergang am Ufer.",
+            "hu": "Fedezze fel a lenyűgöző gátat és a hatalmas mesterséges víztározót, amely tökéletesen alkalmas izgalmas vízi sportokhoz vagy egy pihentető délutáni sétához a parton.",
+            "ro": "Descoperiți barajul impresionant și vastul rezervor artificial, perfect adaptate pentru sporturi nautice palpitante sau o plimbare relaxantă pe țărm după-amiaza.",
+            "en": "Discover the highly impressive dam and vast artificial reservoir, perfectly suited for thrilling water sports or a relaxing stroll along the shores in the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag in der Oberstadt mit der Besichtigung der majestätischen Kathedrale und einem Spaziergang auf den Festungsmauern. Fahren Sie dann hinunter zum Pont Vieux für einen historischen Fotostopp. Mittags bietet sich ein kurzer Besuch im Arena City an. Am Nachmittag lockt die Natur: Entdecken Sie den malerischen Lac du Sailhant und beenden Sie die Tour am imposanten Grandval-Staudamm.",
+        "hu": "Kezdje a napot a felsővárosban a fenséges katedrális és a várfalak megtekintésével. Ezután vezessen le a Pont Vieux-hoz egy történelmi fotószünetre. Délben tegyen egy rövid kitérőt az Arena City szabadidőközpontba. Délután a természet hívogat: fedezze fel a festői Lac du Sailhant krátertavat, és fejezze be a fantasztikus utazást a lenyűgöző Grandval gátnál és hatalmas víztározójánál.",
+        "ro": "Începeți ziua în orașul de sus vizitând maiestuoasa catedrală și meterezele. Conduceți apoi spre Pont Vieux pentru o scurtă oprire fotografică istorică. La prânz, faceți o vizită rapidă la Arena City pentru puțină distracție. După-amiaza este dedicată naturii: explorați pitorescul Lac du Sailhant și încheiați acest tur spectaculos la impresionantul baraj și lac de acumulare Grandval.",
+        "en": "Start your driving tour in the upper town, visiting the majestic cathedral and strolling the historic ramparts. Drive down to the Pont Vieux for a picturesque photo stop. Midday, pop into Arena City for a bit of leisure. The afternoon is all about natural beauty: explore the stunning crater lake of Lac du Sailhant, and conclude your grand tour at the impressive Grandval dam and reservoir."
+      }
+    }
+  }
+}

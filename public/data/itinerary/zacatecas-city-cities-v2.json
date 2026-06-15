@@ -1,0 +1,451 @@
+{
+  "city_id": "zacatecas-city-cities-v2",
+  "anchor": {
+    "name": "Zacatecas",
+    "coords": [
+      -102.5714,
+      22.7709
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "11:21",
+      "total_km": 1.02,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Fuente de los Faroles",
+            "hu": "Fuente de los Faroles",
+            "ro": "Fuente de los Faroles",
+            "en": "Fuente de los Faroles"
+          },
+          "coords": [
+            -102.572801,
+            22.773259
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den wunderschönen klassischen Laternenbrunnen, ein Symbol für die romantischen Straßen von Zacatecas, und besuchen Sie ihn am besten früh am Morgen.",
+            "hu": "Csodálja meg a gyönyörű klasszikus lámpás szökőkutat, amely a romantikus utcák szimbóluma, és érdemes kora reggel érkezni, hogy elkerülje a tömeget.",
+            "ro": "Admirați frumoasa fântână cu felinare, un simbol al străzilor romantice din Zacatecas, și vizitați-o dis-de-dimineață pentru cele mai bune fotografii.",
+            "en": "Admire the beautiful classic lantern fountain, a symbol of Zacatecas' romantic streets, and try to visit early in the morning to avoid the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Angel de la Independencia",
+            "hu": "Angel de la Independencia",
+            "ro": "Angel de la Independencia",
+            "en": "Angel de la Independencia"
+          },
+          "coords": [
+            -102.573635,
+            22.771399
+          ],
+          "category": "historical",
+          "arrive_at": "09:39",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Diese majestätische Statue ehrt die mexikanische Unabhängigkeit. Achten Sie auf die komplizierten Details und passen Sie auf den umliegenden Pflastersteinen auf.",
+            "hu": "Ez a fenséges szobor a mexikói függetlenségnek állít emléket, figyelje meg az aprólékos részleteket, de vigyázzon a lépéseire a macskaköveken.",
+            "ro": "Această statuie maiestuoasă onorează independența mexicană, deci priviți detaliile sale complicate și fiți atenți la pașii pe piatra cubică din jur.",
+            "en": "This majestic statue honors Mexican independence, so take a moment to look at its intricate details and watch your step on the surrounding cobblestones."
+          }
+        },
+        {
+          "name": {
+            "de": "Madre",
+            "hu": "Madre",
+            "ro": "Madre",
+            "en": "Madre"
+          },
+          "coords": [
+            -102.576136,
+            22.772968
+          ],
+          "category": "historical",
+          "arrive_at": "09:59",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein berührendes Denkmal, das Müttern gewidmet ist und einen ruhigen Raum zum Nachdenken bietet. Bringen Sie einen Hut mit, da es kaum Schatten gibt.",
+            "hu": "Az anyáknak szentelt megható emlékmű csendes elmélkedésre csábít, de mindenképpen hozzon magával kalapot, mivel alig van árnyék.",
+            "ro": "Un monument emoționant dedicat mamelor, care oferă un spațiu liniștit pentru reflecție, asigurați-vă că aduceți o pălărie deoarece umbra este rară.",
+            "en": "A touching monument dedicated to mothers everywhere, offering a quiet space for reflection, just make sure to bring a hat as there is little shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a Jesús Gonzales Ortega",
+            "hu": "Monumento a Jesús Gonzales Ortega",
+            "ro": "Monumento a Jesús Gonzales Ortega",
+            "en": "Monumento a Jesús Gonzales Ortega"
+          },
+          "coords": [
+            -102.575896,
+            22.769887
+          ],
+          "category": "historical",
+          "arrive_at": "10:19",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.34,
+          "tip_5lang": {
+            "de": "Lernen Sie diesen lokalen Helden kennen, während Sie seine große Statue betrachten, und halten Sie Ihre Kamera bereit für tolle Winkel vor historischer Kulisse.",
+            "hu": "Ismerje meg ezt a helyi hőst a hatalmas szobor megtekintése közben, és tartsa készenlétben a fényképezőgépét a történelmi hátteret megörökítő remek szögekhez.",
+            "ro": "Aflați despre acest erou local în timp ce îi priviți statuia măreață și țineți camera pregătită pentru a surprinde fundalul istoric din jur.",
+            "en": "Learn about this local hero while viewing his grand statue, and keep your camera ready for the great angles catching the historic backdrop."
+          }
+        },
+        {
+          "name": {
+            "de": "El Indio",
+            "hu": "El Indio",
+            "ro": "El Indio",
+            "en": "El Indio"
+          },
+          "coords": [
+            -102.576309,
+            22.768715
+          ],
+          "category": "historical",
+          "arrive_at": "10:36",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Eine beeindruckende Hommage an das indigene Erbe, dieses Monument eignet sich perfekt für einen kurzen Fotostopp, bevor Sie das Zentrum weiter erkunden.",
+            "hu": "Ez a lenyűgöző, az őslakos örökség előtt tisztelgő emlékmű tökéletes egy rövid fotózásra, mielőtt tovább folytatná a történelmi központ felfedezését.",
+            "ro": "Un tribut uimitor adus moștenirii indigene, acest monument este perfect pentru o scurtă oprire foto înainte de a continua explorarea centrului istoric.",
+            "en": "A striking tribute to indigenous heritage, this monument is perfect for a short photo stop before continuing your exploration of the historical center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang am Fuente de los Faroles und spüren Sie den Puls von Zacatecas.\nDanach bewundern Sie den majestätischen Angel de la Independencia in der Morgensonne.\nDas berührende Monument Madre lädt zu einem Moment der stillen Reflexion ein.\nWir beenden diese kurze historische Route bei den Statuen von Jesús Gonzales Ortega und dem Indio, voller reicher Geschichten.",
+        "hu": "Kezdje a sétát a Fuente de los Faroles-nél, és érezze Zacatecas reggeli lüktetését.\nEzt követően csodálja meg a fenséges Angel de la Independencia szobrot a napsütésben.\nA megható Madre emlékmű egy csendes pillanatra és elmélkedésre hív minden látogatót.\nEzt a rövid történelmi utat a Jesús Gonzales Ortega és az El Indio szobroknál fejezzük be, gazdag történelemmel a hátunk mögött.",
+        "ro": "Începeți plimbarea la Fuente de los Faroles și simțiți pulsul matinal al orașului Zacatecas.\nApoi admirați maiestuoasa statuie Angel de la Independencia în lumina soarelui.\nMonumentul emoționant Madre vă invită la un moment de reflecție liniștită în aer liber.\nTerminăm acest scurt traseu istoric la statuile lui Jesús Gonzales Ortega și El Indio, pline de povești bogate și tradiții.",
+        "en": "Start your walk at the Fuente de los Faroles, feeling the gentle morning pulse of Zacatecas.\nNext, admire the majestic Angel de la Independencia standing proudly in the sunshine.\nThe touching Madre monument invites you to a quiet moment of reflection in the open air.\nWe finish this short historical route at the statues of Jesús Gonzales Ortega and El Indio, rich with local history."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "13:47",
+      "total_km": 3.96,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fuente de los Faroles",
+            "hu": "Fuente de los Faroles",
+            "ro": "Fuente de los Faroles",
+            "en": "Fuente de los Faroles"
+          },
+          "coords": [
+            -102.572801,
+            22.773259
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den wunderschönen klassischen Laternenbrunnen, ein Symbol für die romantischen Straßen von Zacatecas, und besuchen Sie ihn am besten früh am Morgen.",
+            "hu": "Csodálja meg a gyönyörű klasszikus lámpás szökőkutat, amely a romantikus utcák szimbóluma, és érdemes kora reggel érkezni, hogy elkerülje a tömeget.",
+            "ro": "Admirați frumoasa fântână cu felinare, un simbol al străzilor romantice din Zacatecas, și vizitați-o dis-de-dimineață pentru cele mai bune fotografii.",
+            "en": "Admire the beautiful classic lantern fountain, a symbol of Zacatecas' romantic streets, and try to visit early in the morning to avoid the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Valvula",
+            "hu": "Valvula",
+            "ro": "Valvula",
+            "en": "Valvula"
+          },
+          "coords": [
+            -102.589437,
+            22.772484
+          ],
+          "category": "historical",
+          "arrive_at": "09:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses neugierige industrielle Relikt in der historischen Landschaft und achten Sie auf die verwitterten Metallstrukturen für tolle Nahaufnahmen.",
+            "hu": "Fedezze fel ezt a történelmi tájba ágyazott, különös ipari emléket, és nézze meg közelebbről az időjárás viszontagságait viselő fémes textúrákat.",
+            "ro": "Descoperiți această relicvă industrială curioasă în peisajul istoric și priviți îndeaproape texturile metalice uzate care oferă fotografii de detaliu excelente.",
+            "en": "Discover this curious industrial relic embedded in the historical landscape, and look closely at the weathered metal textures which make for great close-up shots."
+          }
+        },
+        {
+          "name": {
+            "de": "Mujer de Madera",
+            "hu": "Mujer de Madera",
+            "ro": "Mujer de Madera",
+            "en": "Mujer de Madera"
+          },
+          "coords": [
+            -102.582318,
+            22.760326
+          ],
+          "category": "historical",
+          "arrive_at": "11:12",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Diese faszinierende Holzschnitzerei repräsentiert die einzigartige lokale Volkskunst. Bewundern Sie die Handwerkskunst, aber berühren Sie das Holz nicht.",
+            "hu": "Ez a lenyűgöző fafaragás az egyedi helyi népművészetet képviseli, csodálja meg a mesterségbeli tudást, de kérjük, ne érintse meg az érzékeny fát.",
+            "ro": "Această sculptură captivantă în lemn reprezintă o artă populară unică, deci admirați măiestria, dar vă rugăm să nu atingeți lemnul delicat.",
+            "en": "This captivating wooden carving represents unique local folk art, so take time to appreciate the craftsmanship, though please refrain from touching the delicate wood."
+          }
+        },
+        {
+          "name": {
+            "de": "Huesos Dinosaurio",
+            "hu": "Huesos Dinosaurio",
+            "ro": "Huesos Dinosaurio",
+            "en": "Huesos Dinosaurio"
+          },
+          "coords": [
+            -102.580087,
+            22.760027
+          ],
+          "category": "historical",
+          "arrive_at": "11:29",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Eine faszinierende Darstellung prähistorischen Lebens, die die Fantasie anregt, perfekt für einen kurzen Besuch, bleiben Sie aber hinter den Absperrungen.",
+            "hu": "A történelem előtti élet lenyűgöző, képzeletet megragadó bemutatója, tökéletes egy gyors látogatásra, de ne felejtsen el a kijelölt kötelek mögött maradni.",
+            "ro": "O expunere fascinantă a vieții preistorice care captează imaginația, perfectă pentru o vizită rapidă, dar asigurați-vă că rămâneți în spatele frânghiilor.",
+            "en": "A fascinating display of prehistoric life that captures the imagination, perfect for a quick visit, but remember to stay behind the designated viewing ropes."
+          }
+        },
+        {
+          "name": {
+            "de": "El Arco",
+            "hu": "El Arco",
+            "ro": "El Arco",
+            "en": "El Arco"
+          },
+          "coords": [
+            -102.578779,
+            22.759942
+          ],
+          "category": "historical",
+          "arrive_at": "11:45",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Gehen Sie durch diesen historischen Torbogen, der als Tor zum Park dient, und bewundern Sie das klassische Mauerwerk, das die Zeit überdauert hat.",
+            "hu": "Sétáljon át ezen a történelmi boltíven, amely a park kapujaként szolgál, és figyelje meg a klasszikus falazatot, amely kiállta az idő próbáját.",
+            "ro": "Mergeți prin această arcadă istorică ce servește drept poartă spre parc și observați zidăria clasică ce a rezistat cu brio testului timpului.",
+            "en": "Walk through this historical archway which serves as a gateway to the park, and notice the classic masonry that has withstood the test of time."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoologico La Encantada",
+            "hu": "Zoologico La Encantada",
+            "ro": "Zoologico La Encantada",
+            "en": "Zoologico La Encantada"
+          },
+          "coords": [
+            -102.582103,
+            22.757744
+          ],
+          "category": "recreational",
+          "arrive_at": "12:02",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannten Spaziergang durch den Zoo, um die regionale Tierwelt zu sehen, und tragen Sie bequeme Schuhe, da die Wege recht weitläufig sind.",
+            "hu": "Tegyen egy pihentető sétát a bájos állatkertben, hogy megnézze a regionális vadvilágot, és viseljen kényelmes cipőt, mivel az ösvények meglehetősen hosszúak.",
+            "ro": "Bucurați-vă de o plimbare relaxantă prin grădina zoologică pentru a vedea fauna regională și purtați încălțăminte comodă deoarece aleile pot fi extinse.",
+            "en": "Enjoy a relaxing stroll through the charming zoo grounds to see regional wildlife, and wear comfortable walking shoes as the pathways can be quite extensive."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Fahrradtour an den klassischen Laternen und fahren Sie zum historischen Ventil.\nUnterwegs bewundern Sie einzigartige Holzschnitzereien und prähistorische Dinosaurierknochen.\nEin Durchqueren des majestätischen Bogens führt Sie in das grüne Herz der schönen Stadt.\nDer Ausflug endet im bezaubernden Zoo, wo Sie Flora und Fauna in entspannter Atmosphäre genießen.",
+        "hu": "Kezdje a kerékpártúrát a klasszikus lámpásoknál, és tekerjen el a történelmi szelephez.\nÚtközben csodáljon meg egyedi fafaragásokat és történelem előtti dinoszaurusz csontokat.\nA fenséges boltíven való áthaladás a gyönyörű város zöld szívébe vezet minket tovább.\nA kirándulás a varázslatos állatkertben ér véget, ahol nyugodt légkörben élvezheti a növény- és állatvilágot.",
+        "ro": "Începeți turul cu bicicleta la felinarele clasice și pedalați către supapa istorică.\nPe drum, admirați sculpturi unice în lemn și oase de dinozauri preistorici fascinanți.\nO trecere prin arcul maiestuos vă va conduce direct în inima verde a frumosului oraș.\nExcursia se termină în grădina zoologică fermecătoare, unde vă puteți bucura de natură în liniște.",
+        "en": "Start your bike tour at the classic lanterns and ride over to the curious historical valve.\nAlong the way, admire unique wooden carvings and a fascinating display of dinosaur bones.\nPassing through the majestic archway will lead you straight into the green heart of the city.\nThe excursion concludes at the charming zoo, where you can enjoy local wildlife in a relaxed setting."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:46",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cabaña Embrujada",
+            "hu": "Cabaña Embrujada",
+            "ro": "Cabaña Embrujada",
+            "en": "Cabaña Embrujada"
+          },
+          "coords": [
+            -102.598378,
+            22.77333
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die unheimlichen Legenden um diese Spukhütte, ein spannender Stopp für Folklore-Liebhaber, am besten mit einem Führer, der die Geschichten kennt.",
+            "hu": "Fedezze fel a kísértetjárta kunyhót övező hátborzongató legendákat, amely izgalmas megálló, de a legjobb, ha a helyi meséket ismerő idegenvezetővel látogatja meg.",
+            "ro": "Explorați legendele înfricoșătoare din jurul acestei cabane bântuite, o oprire palpitantă, deși e mai bine să o vizitați cu un ghid care cunoaște poveștile.",
+            "en": "Explore the eerie legends surrounding this haunted cabin, a thrilling stop for folklore lovers, but it's best to visit with a guide who knows the local tales."
+          }
+        },
+        {
+          "name": {
+            "de": "Valvula",
+            "hu": "Valvula",
+            "ro": "Valvula",
+            "en": "Valvula"
+          },
+          "coords": [
+            -102.589437,
+            22.772484
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses neugierige industrielle Relikt in der historischen Landschaft und achten Sie auf die verwitterten Metallstrukturen für tolle Nahaufnahmen.",
+            "hu": "Fedezze fel ezt a történelmi tájba ágyazott, különös ipari emléket, és nézze meg közelebbről az időjárás viszontagságait viselő fémes textúrákat.",
+            "ro": "Descoperiți această relicvă industrială curioasă în peisajul istoric și priviți îndeaproape texturile metalice uzate care oferă fotografii de detaliu excelente.",
+            "en": "Discover this curious industrial relic embedded in the historical landscape, and look closely at the weathered metal textures which make for great close-up shots."
+          }
+        },
+        {
+          "name": {
+            "de": "Madre",
+            "hu": "Madre",
+            "ro": "Madre",
+            "en": "Madre"
+          },
+          "coords": [
+            -102.576136,
+            22.772968
+          ],
+          "category": "historical",
+          "arrive_at": "11:55",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Ein berührendes Denkmal, das Müttern gewidmet ist und einen ruhigen Raum zum Nachdenken bietet. Bringen Sie einen Hut mit, da es kaum Schatten gibt.",
+            "hu": "Az anyáknak szentelt megható emlékmű csendes elmélkedésre csábít, de mindenképpen hozzon magával kalapot, mivel alig van árnyék.",
+            "ro": "Un monument emoționant dedicat mamelor, care oferă un spațiu liniștit pentru reflecție, asigurați-vă că aduceți o pălărie deoarece umbra este rară.",
+            "en": "A touching monument dedicated to mothers everywhere, offering a quiet space for reflection, just make sure to bring a hat as there is little shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoologico La Encantada",
+            "hu": "Zoologico La Encantada",
+            "ro": "Zoologico La Encantada",
+            "en": "Zoologico La Encantada"
+          },
+          "coords": [
+            -102.582103,
+            22.757744
+          ],
+          "category": "recreational",
+          "arrive_at": "12:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannten Spaziergang durch den Zoo, um die regionale Tierwelt zu sehen, und tragen Sie bequeme Schuhe, da die Wege recht weitläufig sind.",
+            "hu": "Tegyen egy pihentető sétát a bájos állatkertben, hogy megnézze a regionális vadvilágot, és viseljen kényelmes cipőt, mivel az ösvények meglehetősen hosszúak.",
+            "ro": "Bucurați-vă de o plimbare relaxantă prin grădina zoologică pentru a vedea fauna regională și purtați încălțăminte comodă deoarece aleile pot fi extinse.",
+            "en": "Enjoy a relaxing stroll through the charming zoo grounds to see regional wildlife, and wear comfortable walking shoes as the pathways can be quite extensive."
+          }
+        },
+        {
+          "name": {
+            "de": "Cabezas de Pascua",
+            "hu": "Cabezas de Pascua",
+            "ro": "Cabezas de Pascua",
+            "en": "Cabezas de Pascua"
+          },
+          "coords": [
+            -102.594492,
+            22.74255
+          ],
+          "category": "historical",
+          "arrive_at": "13:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese überraschenden Nachbildungen der Osterinsel-Köpfe mitten in Zacatecas, die einen surrealen und lustigen Hintergrund für Ihre Selfies bieten.",
+            "hu": "Csodálja meg a Húsvét-szigeti fejek meglepő másolatait Zacatecasban, amelyek hihetetlenül szürreális és vidám hátteret biztosítanak a nyaralási szelfikhez.",
+            "ro": "Minunați-vă de aceste replici surprinzătoare ale capetelor de pe Insula Paștelui chiar în Zacatecas, oferind un fundal suprarealist pentru selfie-uri.",
+            "en": "Marvel at these surprising replicas of Easter Island heads right in Zacatecas, which make for an incredibly surreal and fun background in your vacation selfies."
+          }
+        },
+        {
+          "name": {
+            "de": "Cabezón de Pascua",
+            "hu": "Cabezón de Pascua",
+            "ro": "Cabezón de Pascua",
+            "en": "Cabezón de Pascua"
+          },
+          "coords": [
+            -102.600598,
+            22.741419
+          ],
+          "category": "historical",
+          "arrive_at": "14:56",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihr Abenteuer an diesem riesigen, monolithischen Kopf, der die Landschaft überblickt, ein perfekter Ort, um das Nachmittagslicht zu beobachten.",
+            "hu": "Zárja kalandját ennél az óriási, lenyűgöző monolitikus fejnél, amely a tájra néz, és amely tökéletes hely a késő délutáni fények megfigyelésére.",
+            "ro": "Încheiați-vă aventura la acest cap monolitic uriaș care domină peisajul, un loc perfect pentru a vă relaxa și a privi luminile târzii ale după-amiezii.",
+            "en": "Conclude your adventure with this giant, imposing monolithic head that overlooks the landscape, a perfect spot to relax and watch the late afternoon light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Roadtrip bei der legendären Spukhütte, voller unheimlicher Geschichten.\nFahren Sie weiter zur industriellen Vergangenheit und den ruhigen, den Müttern gewidmeten Plätzen.\nAm frühen Nachmittag bietet der charmante Zoo eine willkommene, natürliche Abwechslung.\nDer Tag gipfelt bei den surrealen Osterinsel-Köpfen, einem perfekten Abschluss im weichen Licht.",
+        "hu": "Kezdje az autós kirándulást a legendás kísértetjárta kunyhónál, amely tele van rejtélyekkel.\nVezessen tovább az ipari múlt emlékeihez és az anyáknak szentelt békés, nyugodt terekhez.\nKora délután a bájos állatkert kellemes, természetes kikapcsolódást kínál az utazóknak.\nA nap a szürreális Húsvét-szigeti fejeknél csúcsosodik ki, amely tökéletes befejezés a lágy fényekben.",
+        "ro": "Începeți excursia cu mașina la legendara cabană bântuită, plină de povești misterioase.\nConduceți spre vestigiile industriale și piețele liniștite dedicate mamelor din întreaga lume.\nLa începutul după-amiezii, fermecătoarea grădină zoologică oferă o evadare naturală binevenită.\nZiua culminează cu capetele suprarealiste ale Insulei Paștelui, o încheiere perfectă la lumina apusului.",
+        "en": "Begin your road trip at the legendary haunted cabin, surrounded by eerie, mysterious folklore.\nDrive towards the city's industrial past and peaceful squares dedicated to mothers everywhere.\nIn the early afternoon, the charming local zoo offers a welcome and refreshing natural escape.\nThe day culminates at the surreal Easter Island heads, a truly perfect ending in the soft late light."
+      }
+    }
+  }
+}

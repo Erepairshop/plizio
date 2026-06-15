@@ -1,0 +1,474 @@
+{
+  "city_id": "rosny-sur-seine",
+  "anchor": {
+    "name": "Rosny-sur-Seine",
+    "coords": [
+      1.6317,
+      48.9997
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:40",
+      "total_km": 2.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Jean-Baptiste",
+            "hu": "Saint-Jean-Baptiste templom",
+            "ro": "Biserica Saint-Jean-Baptiste",
+            "en": "Saint-Jean-Baptiste Church"
+          },
+          "coords": [
+            1.630942,
+            48.99818
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen Buntglasfenster dieser Kirche, die das spirituelle Erbe der Stadt widerspiegeln, und besuchen Sie sie früh für bestes Licht.",
+            "hu": "Csodálja meg a történelmi templom gyönyörű ólomüveg ablakait, amelyek a város lelki örökségét tükrözik, és érkezzen korán a legjobb fényviszonyokért.",
+            "ro": "Admirați vitraliile frumoase ale acestei biserici istorice care reflectă moștenirea spirituală a orașului și vizitați devreme pentru cea mai bună lumină.",
+            "en": "Admire the beautiful stained glass windows of this historic church that reflect the town's spiritual heritage, and visit early for the best natural light."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Rosny-sur-Seine",
+            "hu": "Rosny-sur-Seine Kastély",
+            "ro": "Castelul Rosny-sur-Seine",
+            "en": "Château de Rosny sur Seine"
+          },
+          "coords": [
+            1.630432,
+            49.003251
+          ],
+          "category": "castle",
+          "arrive_at": "09:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die majestätische Architektur von Sullys ehemaliger Residenz, die die Landschaft dominiert, aber tragen Sie bequeme Schuhe für die Hofwege.",
+            "hu": "Fedezze fel Sully egykori rezidenciájának fenséges építészetét, amely uralja a tájat, de viseljen kényelmes cipőt az udvari ösvények bejárásához.",
+            "ro": "Explorați arhitectura maiestuoasă a fostei reședințe a lui Sully care domină peisajul, dar purtați încălțăminte confortabilă pentru curțile pietruite.",
+            "en": "Explore the majestic architecture of Sully's former residence that dominates the landscape, but remember to wear comfortable shoes for the courtyard paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Hospiz Saint-Charles",
+            "hu": "Saint-Charles Ispotály",
+            "ro": "Hospiciul Saint-Charles",
+            "en": "Saint-Charles Hospice"
+          },
+          "coords": [
+            1.636282,
+            49.000905
+          ],
+          "category": "historical",
+          "arrive_at": "11:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die karitative Geschichte dieses gut erhaltenen Hospizgebäudes und prüfen Sie die Hinweistafel am Eingang auf lokale temporäre Ausstellungen.",
+            "hu": "Ismerje meg ennek a jól megőrzött ispotálynak a lenyűgöző jótékonysági történetét, és nézze meg a bejárati táblát az időszaki kiállítások miatt.",
+            "ro": "Descoperiți istoria caritabilă fascinantă a acestui ospiciu bine conservat și verificați panoul de la intrare pentru posibile expoziții temporare.",
+            "en": "Discover the fascinating charitable history of this well-preserved hospice building, and check the entrance board for any local temporary exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Sully",
+            "hu": "Sully",
+            "ro": "Sully",
+            "en": "Sully"
+          },
+          "coords": [
+            1.641309,
+            48.999953
+          ],
+          "category": "historical",
+          "arrive_at": "12:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Pausieren Sie an dieser historischen Stätte, die dem berühmten Herzog von Sully gewidmet ist, und lesen Sie die informativen Tafeln in der Nähe.",
+            "hu": "Álljon meg ezen a híres Sully hercegnek szentelt történelmi helyszínen, hogy megértse helyi befolyását, és olvassa el a közeli információs táblákat.",
+            "ro": "Opriți-vă la acest sit istoric dedicat celebrului Duce de Sully pentru a înțelege influența sa locală și citiți plăcile informative situate în apropiere.",
+            "en": "Pause at this historical site dedicated to the famous Duke of Sully to understand his local influence, and read the informative plaques situated nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame",
+            "hu": "Notre-Dame templom",
+            "ro": "Biserica Notre-Dame",
+            "en": "Église Notre-Dame"
+          },
+          "coords": [
+            1.636516,
+            49.009818
+          ],
+          "category": "religious",
+          "arrive_at": "14:30",
+          "stay_min": 70,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die feinen architektonischen Details dieses charmanten Heiligtums abseits des Zentrums und bringen Sie ein Weitwinkelobjektiv für die Fassade mit.",
+            "hu": "Csodálja meg a központtól távolabb eső hangulatos szentély finom építészeti részleteit, és hozzon magával nagylátószögű objektívet a homlokzat fotózásához.",
+            "ro": "Minunați-vă de detaliile arhitecturale delicate ale acestui sanctuar fermecător aflat departe de centru și aduceți un obiectiv cu unghi larg pentru fațadă.",
+            "en": "Marvel at the delicate architectural details of this charming sanctuary away from the center, and bring a wide-angle lens to capture the whole facade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Rundgang beginnt im Herzen von Rosny-sur-Seine an der zentralen Kirche Saint-Jean-Baptiste. Das Morgenlicht erhellt perfekt ihre religiöse Bedeutung. Gegen Mittag führt Sie ein kurzer Spaziergang zum prächtigen Schloss Rosny, das die königliche Vergangenheit der Region offenbart. Am Nachmittag erkunden Sie das faszinierende Hospiz Saint-Charles und die historische Stätte Sully. Ihr Tag endet friedlich an der Église Notre-Dame, die eine ruhige Abendstimmung bietet.",
+        "hu": "A gyalogtúra Rosny-sur-Seine szívében, a központi Saint-Jean-Baptiste templomnál kezdődik. A reggeli fény tökéletesen megvilágítja vallási jelentőségét. A dél közeledtével egy rövid séta elviszi a csodálatos Rosny Kastélyhoz, amely feltárja a régió királyi múltját. Délután fedezze fel a lenyűgöző Saint-Charles Ispotályt és Sully történelmi helyszínét. A nap az Église Notre-Dame-nál ér véget, amely békés esti hangulatot kínál.",
+        "ro": "Turul pietonal începe în inima orașului Rosny-sur-Seine, la biserica centrală Saint-Jean-Baptiste. Lumina dimineții îi luminează perfect semnificația religioasă. La prânz, o scurtă plimbare vă duce la magnificul Castel Rosny, dezvăluind trecutul regal al regiunii. După-amiaza, explorați fascinantul Hospiciu Saint-Charles și situl istoric Sully. Ziua dumneavoastră se încheie liniștit la Église Notre-Dame, oferind o ambianță pașnică de seară.",
+        "en": "Your walking tour begins in the heart of Rosny-sur-Seine at the central Saint-Jean-Baptiste Church. The morning light perfectly illuminates its religious significance. As mid-day approaches, a short stroll brings you to the magnificent Château de Rosny, revealing the region's royal past. In the afternoon, explore the fascinating Saint-Charles Hospice and the historical site of Sully to uncover charitable and noble legacies. Your day concludes gracefully at Église Notre-Dame, offering a peaceful evening ambiance."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:16",
+      "total_km": 6.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Beurons",
+            "hu": "Beurons Kastély",
+            "ro": "Castelul Beurons",
+            "en": "Château des Beurons"
+          },
+          "coords": [
+            1.630793,
+            48.982289
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre rund um die Ruinen dieses historischen Anwesens und bleiben Sie auf den markierten Wegen, um die Überreste sicher zu sehen.",
+            "hu": "Élvezze a történelmi birtok romjait körülvevő nyugodt atmoszférát, és maradjon a kijelölt ösvényeken a megmaradt építmények biztonságos megtekintéséhez.",
+            "ro": "Bucurați-vă de atmosfera liniștită care înconjoară ruinele acestei moșii istorice și rămâneți pe traseele marcate pentru a vedea în siguranță structurile.",
+            "en": "Take in the tranquil atmosphere surrounding the ruins of this historic estate, and stay on the marked trails to safely view the remaining structures."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Jean-Baptiste",
+            "hu": "Saint-Jean-Baptiste templom",
+            "ro": "Biserica Saint-Jean-Baptiste",
+            "en": "Saint-Jean-Baptiste Church"
+          },
+          "coords": [
+            1.630942,
+            48.99818
+          ],
+          "category": "religious",
+          "arrive_at": "10:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen Buntglasfenster dieser Kirche, die das spirituelle Erbe der Stadt widerspiegeln, und besuchen Sie sie früh für bestes Licht.",
+            "hu": "Csodálja meg a történelmi templom gyönyörű ólomüveg ablakait, amelyek a város lelki örökségét tükrözik, és érkezzen korán a legjobb fényviszonyokért.",
+            "ro": "Admirați vitraliile frumoase ale acestei biserici istorice care reflectă moștenirea spirituală a orașului și vizitați devreme pentru cea mai bună lumină.",
+            "en": "Admire the beautiful stained glass windows of this historic church that reflect the town's spiritual heritage, and visit early for the best natural light."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Rosny-sur-Seine",
+            "hu": "Rosny-sur-Seine Kastély",
+            "ro": "Castelul Rosny-sur-Seine",
+            "en": "Château de Rosny sur Seine"
+          },
+          "coords": [
+            1.630432,
+            49.003251
+          ],
+          "category": "castle",
+          "arrive_at": "11:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die majestätische Architektur von Sullys ehemaliger Residenz, die die Landschaft dominiert, aber tragen Sie bequeme Schuhe für die Hofwege.",
+            "hu": "Fedezze fel Sully egykori rezidenciájának fenséges építészetét, amely uralja a tájat, de viseljen kényelmes cipőt az udvari ösvények bejárásához.",
+            "ro": "Explorați arhitectura maiestuoasă a fostei reședințe a lui Sully care domină peisajul, dar purtați încălțăminte confortabilă pentru curțile pietruite.",
+            "en": "Explore the majestic architecture of Sully's former residence that dominates the landscape, but remember to wear comfortable shoes for the courtyard paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Sully",
+            "hu": "Sully",
+            "ro": "Sully",
+            "en": "Sully"
+          },
+          "coords": [
+            1.641309,
+            48.999953
+          ],
+          "category": "historical",
+          "arrive_at": "12:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Pausieren Sie an dieser historischen Stätte, die dem berühmten Herzog von Sully gewidmet ist, und lesen Sie die informativen Tafeln in der Nähe.",
+            "hu": "Álljon meg ezen a híres Sully hercegnek szentelt történelmi helyszínen, hogy megértse helyi befolyását, és olvassa el a közeli információs táblákat.",
+            "ro": "Opriți-vă la acest sit istoric dedicat celebrului Duce de Sully pentru a înțelege influența sa locală și citiți plăcile informative situate în apropiere.",
+            "en": "Pause at this historical site dedicated to the famous Duke of Sully to understand his local influence, and read the informative plaques situated nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame",
+            "hu": "Notre-Dame templom",
+            "ro": "Biserica Notre-Dame",
+            "en": "Église Notre-Dame"
+          },
+          "coords": [
+            1.636516,
+            49.009818
+          ],
+          "category": "religious",
+          "arrive_at": "14:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die feinen architektonischen Details dieses charmanten Heiligtums abseits des Zentrums und bringen Sie ein Weitwinkelobjektiv für die Fassade mit.",
+            "hu": "Csodálja meg a központtól távolabb eső hangulatos szentély finom építészeti részleteit, és hozzon magával nagylátószögű objektívet a homlokzat fotózásához.",
+            "ro": "Minunați-vă de detaliile arhitecturale delicate ale acestui sanctuar fermecător aflat departe de centru și aduceți un obiectiv cu unghi larg pentru fațadă.",
+            "en": "Marvel at the delicate architectural details of this charming sanctuary away from the center, and bring a wide-angle lens to capture the whole facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Michel",
+            "hu": "Saint-Michel templom",
+            "ro": "Biserica Saint-Michel",
+            "en": "Église Saint-Michel"
+          },
+          "coords": [
+            1.609614,
+            49.018844
+          ],
+          "category": "religious",
+          "arrive_at": "15:06",
+          "stay_min": 70,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese historische Pfarrkirche mit ihrem rustikalen Mauerwerk und Friedhof, wobei Sie aus Respekt vor der ruhigen Atmosphäre leise sprechen sollten.",
+            "hu": "Látogassa meg ezt a történelmi plébániatemplomot, hogy lássa rusztikus kőfalait, és a helyi békés légkör tiszteletben tartása végett halkan beszéljen.",
+            "ro": "Vizitați această biserică parohială istorică pentru a vedea zidăria sa rustică și vorbiți încet din respect pentru atmosfera locală liniștită.",
+            "en": "Visit this historic parish church to see its rustic stonework and quiet graveyard, keeping your voice low out of respect for the serene local atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour in den südlichen Außenbezirken am ruhigen Schloss Beurons und genießen Sie die morgendliche Stille. Mittags radeln Sie ins lebhafte Stadtzentrum, um die Kirche Saint-Jean-Baptiste und das ikonische Schloss Rosny zu besuchen. Der Nachmittag lädt zu einer nahtlosen Fahrt in Richtung Sully und zur Église Notre-Dame ein. Eine gemütliche abendliche Radfahrt bringt Sie schließlich zur Église Saint-Michel für einen besinnlichen Abschluss.",
+        "hu": "Kezdje kerékpáros útját a déli külvárosban, a békés Beurons Kastélynál, magába szívva a kora reggeli nyugalmat. Délben tekerjen be a nyüzsgő városközpontba a Saint-Jean-Baptiste templomhoz és a Rosny Kastélyhoz. A délután folyamán kényelmesen eljuthat Sullyba és a közeli Église Notre-Dame-hoz. Végül egy kellemes esti kerékpározás az Église Saint-Michelhez viszi egy elmélyült befejezésért.",
+        "ro": "Începeți călătoria cu bicicleta la periferia sudică, la Castelul Beurons, bucurându-vă de liniștea dimineții devreme. La prânz, pedalați spre centrul plin de viață pentru a vizita Biserica Saint-Jean-Baptiste și emblematicul Castel Rosny. După-amiaza vă invită să mergeți spre Sully și Biserica Notre-Dame, bucurându-vă de farmecul istoric. În final, o plimbare ușoară de seară vă duce la Biserica Saint-Michel pentru un final liniștit.",
+        "en": "Start your cycling journey in the southern outskirts at the serene Château des Beurons, soaking in the early morning tranquility. By mid-day, pedal into the lively town center to visit the Saint-Jean-Baptiste Church and the iconic Château de Rosny. The afternoon invites you to seamlessly ride towards Sully and the nearby Église Notre-Dame, enjoying the town's historical charm. Finally, a gentle evening bike ride takes you to Église Saint-Michel for a reflective finish."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:20",
+      "total_km": 11.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Martin",
+            "hu": "Saint-Martin templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            1.623687,
+            48.973301
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die tiefe Stille im Inneren dieser älteren, bescheidenen Kirche im südlichen Teil der Stadt und überprüfen Sie vorher die Öffnungszeiten.",
+            "hu": "Tapasztalja meg a mély csendet ebben a régebbi, szerény déli templomban, de indulás előtt mindenképpen ellenőrizze a pontos nyitvatartási időt.",
+            "ro": "Experimentați tăcerea profundă din interiorul acestei biserici vechi și modeste situate în partea de sud a orașului, verificând programul în prealabil.",
+            "en": "Experience the profound silence inside this older, modest church located in the southern part of town, making sure to check the opening times beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Beurons",
+            "hu": "Beurons Kastély",
+            "ro": "Castelul Beurons",
+            "en": "Château des Beurons"
+          },
+          "coords": [
+            1.630793,
+            48.982289
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre rund um die Ruinen dieses historischen Anwesens und bleiben Sie auf den markierten Wegen, um die Überreste sicher zu sehen.",
+            "hu": "Élvezze a történelmi birtok romjait körülvevő nyugodt atmoszférát, és maradjon a kijelölt ösvényeken a megmaradt építmények biztonságos megtekintéséhez.",
+            "ro": "Bucurați-vă de atmosfera liniștită care înconjoară ruinele acestei moșii istorice și rămâneți pe traseele marcate pentru a vedea în siguranță structurile.",
+            "en": "Take in the tranquil atmosphere surrounding the ruins of this historic estate, and stay on the marked trails to safely view the remaining structures."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Jean-Baptiste",
+            "hu": "Saint-Jean-Baptiste templom",
+            "ro": "Biserica Saint-Jean-Baptiste",
+            "en": "Saint-Jean-Baptiste Church"
+          },
+          "coords": [
+            1.630942,
+            48.99818
+          ],
+          "category": "religious",
+          "arrive_at": "11:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen Buntglasfenster dieser Kirche, die das spirituelle Erbe der Stadt widerspiegeln, und besuchen Sie sie früh für bestes Licht.",
+            "hu": "Csodálja meg a történelmi templom gyönyörű ólomüveg ablakait, amelyek a város lelki örökségét tükrözik, és érkezzen korán a legjobb fényviszonyokért.",
+            "ro": "Admirați vitraliile frumoase ale acestei biserici istorice care reflectă moștenirea spirituală a orașului și vizitați devreme pentru cea mai bună lumină.",
+            "en": "Admire the beautiful stained glass windows of this historic church that reflect the town's spiritual heritage, and visit early for the best natural light."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Rosny-sur-Seine",
+            "hu": "Rosny-sur-Seine Kastély",
+            "ro": "Castelul Rosny-sur-Seine",
+            "en": "Château de Rosny sur Seine"
+          },
+          "coords": [
+            1.630432,
+            49.003251
+          ],
+          "category": "castle",
+          "arrive_at": "11:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die majestätische Architektur von Sullys ehemaliger Residenz, die die Landschaft dominiert, aber tragen Sie bequeme Schuhe für die Hofwege.",
+            "hu": "Fedezze fel Sully egykori rezidenciájának fenséges építészetét, amely uralja a tájat, de viseljen kényelmes cipőt az udvari ösvények bejárásához.",
+            "ro": "Explorați arhitectura maiestuoasă a fostei reședințe a lui Sully care domină peisajul, dar purtați încălțăminte confortabilă pentru curțile pietruite.",
+            "en": "Explore the majestic architecture of Sully's former residence that dominates the landscape, but remember to wear comfortable shoes for the courtyard paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Sully",
+            "hu": "Sully",
+            "ro": "Sully",
+            "en": "Sully"
+          },
+          "coords": [
+            1.641309,
+            48.999953
+          ],
+          "category": "historical",
+          "arrive_at": "13:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Pausieren Sie an dieser historischen Stätte, die dem berühmten Herzog von Sully gewidmet ist, und lesen Sie die informativen Tafeln in der Nähe.",
+            "hu": "Álljon meg ezen a híres Sully hercegnek szentelt történelmi helyszínen, hogy megértse helyi befolyását, és olvassa el a közeli információs táblákat.",
+            "ro": "Opriți-vă la acest sit istoric dedicat celebrului Duce de Sully pentru a înțelege influența sa locală și citiți plăcile informative situate în apropiere.",
+            "en": "Pause at this historical site dedicated to the famous Duke of Sully to understand his local influence, and read the informative plaques situated nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Michel",
+            "hu": "Saint-Michel templom",
+            "ro": "Biserica Saint-Michel",
+            "en": "Église Saint-Michel"
+          },
+          "coords": [
+            1.609614,
+            49.018844
+          ],
+          "category": "religious",
+          "arrive_at": "14:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese historische Pfarrkirche mit ihrem rustikalen Mauerwerk und Friedhof, wobei Sie aus Respekt vor der ruhigen Atmosphäre leise sprechen sollten.",
+            "hu": "Látogassa meg ezt a történelmi plébániatemplomot, hogy lássa rusztikus kőfalait, és a helyi békés légkör tiszteletben tartása végett halkan beszéljen.",
+            "ro": "Vizitați această biserică parohială istorică pentru a vedea zidăria sa rustică și vorbiți încet din respect pentru atmosfera locală liniștită.",
+            "en": "Visit this historic parish church to see its rustic stonework and quiet graveyard, keeping your voice low out of respect for the serene local atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Wald von Rosny",
+            "hu": "Rosny-erdő",
+            "ro": "Pădurea Rosny",
+            "en": "Rosny Forest"
+          },
+          "coords": [
+            1.559142,
+            48.996419
+          ],
+          "category": "natural",
+          "arrive_at": "15:35",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie zwischen den alten Bäumen dieses weitläufigen Naturschutzgebietes und bringen Sie ein kleines Picknick mit, um es auf einer Lichtung zu genießen.",
+            "hu": "Sétáljon a kiterjedt természetvédelmi terület hatalmas öreg fái között, amely friss levegőt kínál, és hozzon egy kis pikniket az egyik tisztásra.",
+            "ro": "Plimbați-vă printre copacii bătrâni și înalți ai acestei rezervații naturale vaste care oferă aer curat și aduceți un mic picnic pentru a-l savura.",
+            "en": "Walk among the towering old trees of this expansive natural reserve that offers fresh air, and bring a small picnic to enjoy at one of the clearings."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autoreise beginnt an der bescheidenen Église Saint-Martin im Süden, was einen ruhigen Morgen vor den Menschenmassen ermöglicht. Fahren Sie später zum Schloss Beurons und ins Stadtzentrum zur Kirche Saint-Jean-Baptiste. Verbringen Sie den Nachmittag damit, das große Schloss Rosny und das historische Sully-Monument zu bewundern. Beenden Sie Ihre umfassende Tour mit einer erfrischenden Abendfahrt zum üppigen Wald von Rosny.",
+        "hu": "Autós útvonala a szerény déli Église Saint-Martin-nál kezdődik, amely csendes reggelt biztosít a tömegek előtt. Később vezessen a Beurons Kastély romjaihoz, majd a városközpontba a Saint-Jean-Baptiste templomhoz. A délutánt a lenyűgöző Rosny Kastély és a Sully emlékmű megcsodálásával töltheti. Zárja le átfogó körútját egy frissítő esti autózással a buja Rosny-erdőbe.",
+        "ro": "Itinerariul auto începe la modesta Biserică Saint-Martin din sud, permițând o dimineață liniștită înainte de aglomerație. Mai târziu, conduceți la Castelul Beurons și spre centrul orașului la Biserica Saint-Jean-Baptiste. Petreceți după-amiaza admirând marele Castel Rosny și monumentul istoric Sully. Încheiați turul cuprinzător cu o plimbare răcoritoare de seară spre pădurea luxuriantă Rosny.",
+        "en": "Your driving itinerary begins at the modest Église Saint-Martin in the south, allowing for a quiet morning before the crowds. Later, drive to the ruins of Château des Beurons and head into the town center for the prominent Saint-Jean-Baptiste Church. Spend your afternoon admiring the grand Château de Rosny and the historical Sully monument, followed by a quick stop at Église Saint-Michel. Conclude your comprehensive tour with a refreshing evening drive to the lush Rosny Forest."
+      }
+    }
+  }
+}

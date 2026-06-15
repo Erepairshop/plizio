@@ -1,0 +1,543 @@
+{
+  "city_id": "spain-montserrat-cities-v2",
+  "anchor": {
+    "name": "Montserrat",
+    "coords": [
+      1.811495,
+      41.605376
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:57",
+      "total_km": 3.81,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Monestir de Santa Cecília",
+            "hu": "Monestir de Santa Cecília",
+            "ro": "Monestir de Santa Cecília",
+            "en": "Monestir de Santa Cecília"
+          },
+          "coords": [
+            1.817113,
+            41.611639
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses antike romanische Kloster, um seine Architektur zu bewundern, und kommen Sie früh, um das Morgenlicht ohne Menschenmassen zu genießen.",
+            "hu": "Látogasson el ehhez az ősi román stílusú kolostorhoz a lenyűgöző építészetért, és érkezzen korán, hogy elkerülje a tömeget a békés reggeli fényben.",
+            "ro": "Vizitați această veche mănăstire romanică pentru a admira arhitectura sa senină și sosiți devreme pentru a vă bucura de lumina dimineții fără aglomerație.",
+            "en": "Visit this ancient Romanesque monastery to admire its serene architecture, and arrive early to enjoy the peaceful morning light without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Sant Jeroni",
+            "hu": "Sant Jeroni",
+            "ro": "Sant Jeroni",
+            "en": "Sant Jeroni"
+          },
+          "coords": [
+            1.811503,
+            41.605372
+          ],
+          "category": "natural",
+          "arrive_at": "10:02",
+          "stay_min": 30,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.82,
+          "tip_5lang": {
+            "de": "Wandern Sie auf den höchsten Gipfel von Montserrat für einen atemberaubenden Panoramablick auf Katalonien und tragen Sie unbedingt feste Wanderschuhe.",
+            "hu": "Másszon fel Montserrat legmagasabb csúcsára a lélegzetelállító katalán panorámáért, és mindenképpen viseljen masszív túracipőt a meredek sziklás utakon.",
+            "ro": "Urcați pe cel mai înalt vârf din Montserrat pentru o vedere panoramică uluitoare a Cataloniei, asigurându-vă că purtați bocanci solizi pentru potecile stâncoase.",
+            "en": "Trek up to the highest peak of Montserrat for breathtaking panoramic views of Catalonia, making sure to wear sturdy hiking boots for the steep rocky paths."
+          }
+        },
+        {
+          "name": {
+            "de": "l'Eco Superior",
+            "hu": "l'Eco Superior",
+            "ro": "l'Eco Superior",
+            "en": "l'Eco Superior"
+          },
+          "coords": [
+            1.806684,
+            41.604985
+          ],
+          "category": "natural",
+          "arrive_at": "10:38",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.39,
+          "tip_5lang": {
+            "de": "Erleben Sie die bemerkenswerte natürliche Akustik dieser hoch aufragenden Felsformation, aber halten Sie Ihren Hut fest, da die Höhenwinde sehr stark sind.",
+            "hu": "Tapasztalja meg ennek a tornyosuló sziklaképződménynek a figyelemre méltó akusztikáját, de tartsa erősen a kalapját, mivel a magassági szelek meglehetősen erősek.",
+            "ro": "Experimentați acustica naturală remarcabilă a acestei formațiuni stâncoase impunătoare, dar țineți-vă bine pălăria deoarece vânturile de altitudine sunt puternice.",
+            "en": "Experience the remarkable natural acoustics of this towering rock formation by shouting into the void, but hold onto your hat as the high-altitude winds are fierce."
+          }
+        },
+        {
+          "name": {
+            "de": "Roca Plana dels Llamps",
+            "hu": "Roca Plana dels Llamps",
+            "ro": "Roca Plana dels Llamps",
+            "en": "Roca Plana dels Llamps"
+          },
+          "coords": [
+            1.804821,
+            41.601356
+          ],
+          "category": "natural",
+          "arrive_at": "11:14",
+          "stay_min": 30,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.42,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen vom Blitz getroffenen flachen Felsen für einzigartige Fotos und bringen Sie ein Weitwinkelobjektiv für die weiten Täler mit.",
+            "hu": "Fedezze fel ezt a villámcsapta lapos sziklát, amely egyedi fotós lehetőségeket kínál, és hozzon nagylátószögű objektívet a hatalmas völgyek megörökítéséhez.",
+            "ro": "Descoperiți această stâncă plată lovită de fulgere, perfectă pentru fotografii, și aduceți un obiectiv cu unghi larg pentru a surprinde văile vaste.",
+            "en": "Discover the dramatic lightning-struck flat rock offering unique geological photo opportunities, and bring a wide-angle lens to capture the vast surrounding valleys."
+          }
+        },
+        {
+          "name": {
+            "de": "l'Albarda Castellana",
+            "hu": "l'Albarda Castellana",
+            "ro": "l'Albarda Castellana",
+            "en": "l'Albarda Castellana"
+          },
+          "coords": [
+            1.813363,
+            41.601015
+          ],
+          "category": "natural",
+          "arrive_at": "11:55",
+          "stay_min": 30,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den imposanten burgähnlichen Steingipfel und suchen Sie die Klippen mit einem Fernglas ab, um wendige Bergziegen beim Klettern zu beobachten.",
+            "hu": "Csodálja meg az eget uraló, kastélyszerű kőcsúcsot, és használjon távcsövet a sziklákon mászó fürge hegyi kecskék és madarak megfigyeléséhez.",
+            "ro": "Admirați vârful stâncos sub formă de castel care domină orizontul și scanați stâncile cu binoclul pentru a observa caprele de munte agile care se cațără.",
+            "en": "Marvel at the imposing castle-like stone peak that dominates the skyline, and scan the cliffs closely with binoculars to spot the agile mountain goats climbing."
+          }
+        },
+        {
+          "name": {
+            "de": "Monestir de Sant Benet",
+            "hu": "Monestir de Sant Benet",
+            "ro": "Monestir de Sant Benet",
+            "en": "Monestir de Sant Benet"
+          },
+          "coords": [
+            1.827028,
+            41.609968
+          ],
+          "category": "religious",
+          "arrive_at": "12:47",
+          "stay_min": 70,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.48,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen abgelegenen, in den Berg gebauten Rückzugsort, um seine Spiritualität zu spüren, und bewahren Sie absolute Stille aus Respekt vor den Mönchen.",
+            "hu": "Fedezze fel ezt a hegybe épült, eldugott vallási menedéket a mély spiritualitásért, és a szerzetesek iránti tiszteletből tartsan fenn teljes csendet a látogatás alatt.",
+            "ro": "Explorați acest refugiu religios retras construit direct în munte pentru a simți spiritualitatea sa și păstrați tăcerea absolută din respect pentru călugări.",
+            "en": "Explore this secluded religious retreat built directly into the mountain to feel its profound spirituality, and maintain absolute silence out of respect for the monks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit einem ruhigen Besuch des Monestir de Santa Cecília, bevor Sie zu den zentralen Gipfeln wandern. Mittags erreichen Sie den Gipfel des Sant Jeroni und die einzigartige Akustik des l'Eco Superior. Der Nachmittag bietet dramatische geologische Formationen. Beenden Sie Ihre raue Wanderung mit der ruhigen Spiritualität des Monestir de Sant Benet.",
+        "hu": "Kezdje a reggelt a Monestir de Santa Cecília nyugodt meglátogatásával, majd túrázzon fel a központi csúcsok felé. Délben elérje a Sant Jeroni csúcsát és az l'Eco Superior akusztikáját. A délután tele van drámai geológiai formációkkal, mint a Roca Plana dels Llamps és az l'Albarda Castellana. Fejezze be túráját a Monestir de Sant Benet csendes spiritualitásával.",
+        "ro": "Începeți dimineața cu o vizită la Monestir de Santa Cecília, înainte de a urca spre vârfurile centrale. La prânz ajungeți pe vârful Sant Jeroni și la acustica unică a l'Eco Superior. După-amiaza este plină de formațiuni geologice dramatice, precum Roca Plana dels Llamps. Încheiați-vă drumeția accidentată cu spiritualitatea liniștită a Monestir de Sant Benet.",
+        "en": "Start the morning with a serene visit to Monestir de Santa Cecília before hiking up towards the central peaks. Midday brings you to the summit of Sant Jeroni and the unique acoustics of l'Eco Superior. The afternoon is filled with dramatic geological formations like Roca Plana dels Llamps and l'Albarda Castellana. End your rugged hike with the quiet spirituality of Monestir de Sant Benet."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:06",
+      "total_km": 6.74,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Monestir de Santa Cecília",
+            "hu": "Monestir de Santa Cecília",
+            "ro": "Monestir de Santa Cecília",
+            "en": "Monestir de Santa Cecília"
+          },
+          "coords": [
+            1.817113,
+            41.611639
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses antike romanische Kloster, um seine Architektur zu bewundern, und kommen Sie früh, um das Morgenlicht ohne Menschenmassen zu genießen.",
+            "hu": "Látogasson el ehhez az ősi román stílusú kolostorhoz a lenyűgöző építészetért, és érkezzen korán, hogy elkerülje a tömeget a békés reggeli fényben.",
+            "ro": "Vizitați această veche mănăstire romanică pentru a admira arhitectura sa senină și sosiți devreme pentru a vă bucura de lumina dimineții fără aglomerație.",
+            "en": "Visit this ancient Romanesque monastery to admire its serene architecture, and arrive early to enjoy the peaceful morning light without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "el Lloro",
+            "hu": "el Lloro",
+            "ro": "el Lloro",
+            "en": "el Lloro"
+          },
+          "coords": [
+            1.792646,
+            41.610547
+          ],
+          "category": "natural",
+          "arrive_at": "10:01",
+          "stay_min": 30,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.02,
+          "tip_5lang": {
+            "de": "Betrachten Sie diesen markanten papageienförmigen Monolithen, der zwischen den Nadeln herausragt, und besuchen Sie ihn am späten Nachmittag für bestes Licht.",
+            "hu": "Tekintse meg ezt a jellegzetes papagáj alakú monolitot a tűhegyek között, és látogasson el késő délután, hogy lássa a sziklát melegen ragyogni a napfényben.",
+            "ro": "Priviți acest monolit distinctiv în formă de papagal care iese în evidență printre ace, și vizitați-l după-amiaza târziu pentru a vedea stânca strălucind la soare.",
+            "en": "Gaze upon this distinctive parrot-shaped monolith that stands out among the needles, and visit during the late afternoon to see the rock glow warmly in the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "la Bola de la Partió",
+            "hu": "la Bola de la Partió",
+            "ro": "la Bola de la Partió",
+            "en": "la Bola de la Partió"
+          },
+          "coords": [
+            1.785301,
+            41.608582
+          ],
+          "category": "natural",
+          "arrive_at": "10:34",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.63,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den riesigen kugelförmigen Felsbrocken am Abgrund und bleiben Sie hinter den markierten Sicherheitslinien, während Sie Ihre Fotos machen.",
+            "hu": "Tekintse meg a szakadék szélén egyensúlyozó hatalmas gömb alakú sziklát, és maradjon a kijelölt biztonsági vonalak mögött a szédítő fényképek készítése közben.",
+            "ro": "Admirați bolovanul sferic masiv care pare să se balanseze pe prăpastie și rămâneți în spatele liniilor de siguranță marcate în timp ce faceți poze.",
+            "en": "Behold the massive spherical boulder seemingly balancing on the precipice, and stay behind the marked safety lines while taking your vertigo-inducing pictures."
+          }
+        },
+        {
+          "name": {
+            "de": "Miranda de les Agulles",
+            "hu": "Miranda de les Agulles",
+            "ro": "Miranda de les Agulles",
+            "en": "Miranda de les Agulles"
+          },
+          "coords": [
+            1.78515,
+            41.60382
+          ],
+          "category": "natural",
+          "arrive_at": "11:07",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.52,
+          "tip_5lang": {
+            "de": "Betreten Sie diesen natürlichen Balkon für einen unvergleichlichen Blick auf die Montserrat-Nadeln und nehmen Sie eine Windjacke für die kühle Brise mit.",
+            "hu": "Lépjen ki erre a természetes erkélyre a híres montserrati tűk páratlan látványáért, és hozzon magával széldzsekit, mivel a nyitott kilátópont meglehetősen hűvös.",
+            "ro": "Pășiți pe acest balcon natural pentru o vedere inegalabilă a celebrelor ace Montserrat și luați o jachetă de vânt, deoarece punctul de belvedere este răcoros.",
+            "en": "Step onto this natural balcony for an unparalleled view of the famous Montserrat needles, and carry a windbreaker as the exposed viewpoint can get quite chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "el Cilindre",
+            "hu": "el Cilindre",
+            "ro": "el Cilindre",
+            "en": "el Cilindre"
+          },
+          "coords": [
+            1.801861,
+            41.60311
+          ],
+          "category": "natural",
+          "arrive_at": "11:45",
+          "stay_min": 30,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.38,
+          "tip_5lang": {
+            "de": "Steigen Sie an dieser perfekten zylindrischen Säule vorbei, die durch Jahrtausende der Winderosion geformt wurde, und verwenden Sie unbedingt Wanderstöcke.",
+            "hu": "Haladjon el az évezredes szélerózió által formált tökéletes hengeres oszlop mellett, és használjon túrabotokat a hegycsúcs lábánál lévő egyenetlen terepen.",
+            "ro": "Urcați pe lângă acest stâlp cilindric perfect modelat de milenii de eroziune eoliană și folosiți bețe de trekking pentru a naviga pe terenul denivelat de la bază.",
+            "en": "Ascend past this perfect cylindrical pillar shaped by millennia of wind erosion, and use walking poles to help navigate the uneven terrain at the base of the spire."
+          }
+        },
+        {
+          "name": {
+            "de": "Sant Jeroni",
+            "hu": "Sant Jeroni",
+            "ro": "Sant Jeroni",
+            "en": "Sant Jeroni"
+          },
+          "coords": [
+            1.811503,
+            41.605372
+          ],
+          "category": "natural",
+          "arrive_at": "12:19",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.82,
+          "tip_5lang": {
+            "de": "Wandern Sie auf den höchsten Gipfel von Montserrat für einen atemberaubenden Panoramablick auf Katalonien und tragen Sie unbedingt feste Wanderschuhe.",
+            "hu": "Másszon fel Montserrat legmagasabb csúcsára a lélegzetelállító katalán panorámáért, és mindenképpen viseljen masszív túracipőt a meredek sziklás utakon.",
+            "ro": "Urcați pe cel mai înalt vârf din Montserrat pentru o vedere panoramică uluitoare a Cataloniei, asigurându-vă că purtați bocanci solizi pentru potecile stâncoase.",
+            "en": "Trek up to the highest peak of Montserrat for breathtaking panoramic views of Catalonia, making sure to wear sturdy hiking boots for the steep rocky paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Monestir de Sant Benet",
+            "hu": "Monestir de Sant Benet",
+            "ro": "Monestir de Sant Benet",
+            "en": "Monestir de Sant Benet"
+          },
+          "coords": [
+            1.827028,
+            41.609968
+          ],
+          "category": "religious",
+          "arrive_at": "12:56",
+          "stay_min": 70,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.37,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen abgelegenen, in den Berg gebauten Rückzugsort, um seine Spiritualität zu spüren, und bewahren Sie absolute Stille aus Respekt vor den Mönchen.",
+            "hu": "Fedezze fel ezt a hegybe épült, eldugott vallási menedéket a mély spiritualitásért, és a szerzetesek iránti tiszteletből tartsan fenn teljes csendet a látogatás alatt.",
+            "ro": "Explorați acest refugiu religios retras construit direct în munte pentru a simți spiritualitatea sa și păstrați tăcerea absolută din respect pentru călugări.",
+            "en": "Explore this secluded religious retreat built directly into the mountain to feel its profound spirituality, and maintain absolute silence out of respect for the monks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Rollen Sie am Morgen vom historischen Monestir de Santa Cecília los und genießen Sie die frische Luft. Mittags schlängeln Sie sich durch spektakuläre Naturdenkmäler wie el Lloro und Miranda de les Agulles. Die Nachmittagsfahrt verbindet el Cilindre und Sant Jeroni und bietet atemberaubende Panoramen. Beenden Sie Ihr Radabenteuer mit einer Pause im Monestir de Sant Benet.",
+        "hu": "Induljon a történelmi Monestir de Santa Cecíliától reggel, élvezve a friss levegőt. Délben haladjon át a látványos természeti emlékműveken, mint az el Lloro és a Miranda de les Agulles. A délutáni tekerés az el Cilindrét és a Sant Jeronit köti össze, lenyűgöző panorámát nyújtva. Zárja le kerékpáros kalandját egy pihenővel a Monestir de Sant Benetben.",
+        "ro": "Porniți de la istorica Monestir de Santa Cecília dimineața, bucurându-vă de aer proaspăt. Până la prânz, treceți prin monumente naturale spectaculoase precum el Lloro și Miranda de les Agulles. Călătoria de după-amiază conectează el Cilindre și Sant Jeroni, oferind panorame superbe. Încheiați-vă aventura pe bicicletă odihnindu-vă la Monestir de Sant Benet.",
+        "en": "Roll out from the historic Monestir de Santa Cecília in the morning, enjoying the fresh air. By midday, weave through spectacular natural monuments like el Lloro, la Bola de la Partió, and the imposing Miranda de les Agulles. The afternoon ride connects el Cilindre and Sant Jeroni, offering massive sweeping panoramas. Conclude your cycling adventure by resting at Monestir de Sant Benet."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:27",
+      "total_km": 8.03,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Ermita de Sant Salvador",
+            "hu": "Ermita de Sant Salvador",
+            "ro": "Ermita de Sant Salvador",
+            "en": "Ermita de Sant Salvador"
+          },
+          "coords": [
+            1.830206,
+            41.595408
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Finden Sie Ruhe in dieser alten, in die Klippen gehauenen Einsiedelei, und füllen Sie Ihre Wasserflasche an der nahegelegenen Quelle auf, bevor Sie weiterwandern.",
+            "hu": "Találjon nyugalmat ebben a sziklafalba vájt ősi remetelakban, és mindenképpen töltse meg a vizespalackját a közeli forrásnál, mielőtt folytatná a hosszú túrát.",
+            "ro": "Găsiți liniștea la acest vechi schit sculptat în stâncă și asigurați-vă că vă umpleți sticla cu apă la izvorul din apropiere înainte de a continua drumeția.",
+            "en": "Find serenity at this ancient hermitage carved into the cliff face, and be sure to fill your water bottle at the nearby spring before continuing your long hike."
+          }
+        },
+        {
+          "name": {
+            "de": "la Gorra Frígia",
+            "hu": "la Gorra Frígia",
+            "ro": "la Gorra Frígia",
+            "en": "la Gorra Frígia"
+          },
+          "coords": [
+            1.825969,
+            41.589989
+          ],
+          "category": "natural",
+          "arrive_at": "09:51",
+          "stay_min": 30,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.68,
+          "tip_5lang": {
+            "de": "Stehen Sie unter dieser massiven Felsformation, die wegen ihres gebogenen Gipfels nach einer phrygischen Mütze benannt ist, und beginnen Sie den Aufstieg früh.",
+            "hu": "Álljon e hatalmas, ívelt csúcsa miatt fríg sapkáról elnevezett sziklaképződmény alatt, és kezdje korán a mászást, hogy elkerülje az intenzív déli hőséget.",
+            "ro": "Stați sub această formațiune stâncoasă masivă numită după o șapcă frigiană datorită vârfului curbat și începeți urcarea devreme pentru a evita căldura de la prânz.",
+            "en": "Stand beneath this massive rock formation named after a Phrygian cap due to its curved peak, and start your climb early to avoid the intense midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "la Palomera",
+            "hu": "la Palomera",
+            "ro": "la Palomera",
+            "en": "la Palomera"
+          },
+          "coords": [
+            1.799644,
+            41.593428
+          ],
+          "category": "natural",
+          "arrive_at": "10:26",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.21,
+          "tip_5lang": {
+            "de": "Fordern Sie sich mit einem steilen Aufstieg zu diesem prominenten Monolithen für spektakuläre westliche Ausblicke heraus, und verwenden Sie ausreichend Sonnenschutz.",
+            "hu": "Hívja ki magát egy meredek mászással ehhez a kiemelkedő monolitkoz a látványos nyugati kilátásért, és használjon napvédőt, mivel az útvonalon egyáltalán nincs árnyék.",
+            "ro": "Provocați-vă cu o urcare abruptă spre acest monolit proeminent pentru priveliști vestice spectaculoase și folosiți protecție solară, deoarece nu există umbră pe traseu.",
+            "en": "Challenge yourself with a steep scramble to this prominent monolith for spectacular western vistas, and use sun protection as there is absolutely no shade on the route."
+          }
+        },
+        {
+          "name": {
+            "de": "Montgròs",
+            "hu": "Montgròs",
+            "ro": "Montgròs",
+            "en": "Montgròs"
+          },
+          "coords": [
+            1.8051,
+            41.599982
+          ],
+          "category": "natural",
+          "arrive_at": "10:58",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.84,
+          "tip_5lang": {
+            "de": "Erreichen Sie den breiten Gipfel des großen Berges für ein komplettes 360-Grad-Panorama des Massivs und packen Sie ein reichhaltiges Mittagessen für oben ein.",
+            "hu": "Érje el a nagy hegy széles csúcsát a masszívum teljes 360 fokos panorámájáért, és csomagoljon bőséges ebédet, amelyet a csúcson fogyaszthat el a leereszkedés előtt.",
+            "ro": "Ajungeți pe vârful lat al marelui munte pentru o panoramă completă de 360 de grade a masivului și împachetați un prânz consistent pentru a vă bucura de el sus.",
+            "en": "Reach the broad summit of the great mountain for a complete 360-degree panorama of the massif, and pack a substantial lunch to enjoy at the top before descending."
+          }
+        },
+        {
+          "name": {
+            "de": "Monestir de Santa Cecília",
+            "hu": "Monestir de Santa Cecília",
+            "ro": "Monestir de Santa Cecília",
+            "en": "Monestir de Santa Cecília"
+          },
+          "coords": [
+            1.817113,
+            41.611639
+          ],
+          "category": "religious",
+          "arrive_at": "11:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.61,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses antike romanische Kloster, um seine Architektur zu bewundern, und kommen Sie früh, um das Morgenlicht ohne Menschenmassen zu genießen.",
+            "hu": "Látogasson el ehhez az ősi román stílusú kolostorhoz a lenyűgöző építészetért, és érkezzen korán, hogy elkerülje a tömeget a békés reggeli fényben.",
+            "ro": "Vizitați această veche mănăstire romanică pentru a admira arhitectura sa senină și sosiți devreme pentru a vă bucura de lumina dimineții fără aglomerație.",
+            "en": "Visit this ancient Romanesque monastery to admire its serene architecture, and arrive early to enjoy the peaceful morning light without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Monestir de Sant Benet",
+            "hu": "Monestir de Sant Benet",
+            "ro": "Monestir de Sant Benet",
+            "en": "Monestir de Sant Benet"
+          },
+          "coords": [
+            1.827028,
+            41.609968
+          ],
+          "category": "religious",
+          "arrive_at": "12:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.83,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen abgelegenen, in den Berg gebauten Rückzugsort, um seine Spiritualität zu spüren, und bewahren Sie absolute Stille aus Respekt vor den Mönchen.",
+            "hu": "Fedezze fel ezt a hegybe épült, eldugott vallási menedéket a mély spiritualitásért, és a szerzetesek iránti tiszteletből tartsan fenn teljes csendet a látogatás alatt.",
+            "ro": "Explorați acest refugiu religios retras construit direct în munte pentru a simți spiritualitatea sa și păstrați tăcerea absolută din respect pentru călugări.",
+            "en": "Explore this secluded religious retreat built directly into the mountain to feel its profound spirituality, and maintain absolute silence out of respect for the monks."
+          }
+        },
+        {
+          "name": {
+            "de": "Sant Jeroni",
+            "hu": "Sant Jeroni",
+            "ro": "Sant Jeroni",
+            "en": "Sant Jeroni"
+          },
+          "coords": [
+            1.811503,
+            41.605372
+          ],
+          "category": "natural",
+          "arrive_at": "12:56",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.37,
+          "tip_5lang": {
+            "de": "Wandern Sie auf den höchsten Gipfel von Montserrat für einen atemberaubenden Panoramablick auf Katalonien und tragen Sie unbedingt feste Wanderschuhe.",
+            "hu": "Másszon fel Montserrat legmagasabb csúcsára a lélegzetelállító katalán panorámáért, és mindenképpen viseljen masszív túracipőt a meredek sziklás utakon.",
+            "ro": "Urcați pe cel mai înalt vârf din Montserrat pentru o vedere panoramică uluitoare a Cataloniei, asigurându-vă că purtați bocanci solizi pentru potecile stâncoase.",
+            "en": "Trek up to the highest peak of Montserrat for breathtaking panoramic views of Catalonia, making sure to wear sturdy hiking boots for the steep rocky paths."
+          }
+        },
+        {
+          "name": {
+            "de": "l'Albarda Castellana",
+            "hu": "l'Albarda Castellana",
+            "ro": "l'Albarda Castellana",
+            "en": "l'Albarda Castellana"
+          },
+          "coords": [
+            1.813363,
+            41.601015
+          ],
+          "category": "natural",
+          "arrive_at": "13:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.49,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den imposanten burgähnlichen Steingipfel und suchen Sie die Klippen mit einem Fernglas ab, um wendige Bergziegen beim Klettern zu beobachten.",
+            "hu": "Csodálja meg az eget uraló, kastélyszerű kőcsúcsot, és használjon távcsövet a sziklákon mászó fürge hegyi kecskék és madarak megfigyeléséhez.",
+            "ro": "Admirați vârful stâncos sub formă de castel care domină orizontul și scanați stâncile cu binoclul pentru a observa caprele de munte agile care se cațără.",
+            "en": "Marvel at the imposing castle-like stone peak that dominates the skyline, and scan the cliffs closely with binoculars to spot the agile mountain goats climbing."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre malerische Fahrt an der Ermita de Sant Salvador und genießen Sie die uralte Einsamkeit. Mittags fahren Sie an den riesigen Naturskulpturen la Gorra Frígia, la Palomera und Montgròs vorbei. Der Nachmittag lädt Sie ein, die beeindruckende Architektur von Santa Cecília und Sant Benet zu erkunden. Beenden Sie die Tour mit Abendblicken von Sant Jeroni.",
+        "hu": "Kezdje a festői autózást az Ermita de Sant Salvadornál, elmerülve az ősi magányban. Délben haladjon el a la Gorra Frígia, a la Palomera és a Montgròs hatalmas természeti szobrai mellett. A délután meghívja a Monestir de Santa Cecília és a Monestir de Sant Benet építészetének felfedezésére. Fejezze be a nagy túrát esti kilátással a Sant Jeroni-ról.",
+        "ro": "Începeți plimbarea pitorească cu mașina la Ermita de Sant Salvador, bucurându-vă de singurătate. La prânz, treceți pe lângă sculpturile naturale masive de la Gorra Frígia, la Palomera și Montgròs. După-amiaza vă invită să explorați arhitectura uluitoare a Santa Cecília și Sant Benet. Încheiați turul grandios cu priveliști de seară de pe Sant Jeroni.",
+        "en": "Begin your scenic drive at Ermita de Sant Salvador, soaking in the ancient solitude. Midday brings you past the massive natural sculptures of la Gorra Frígia, la Palomera, and Montgròs. The afternoon invites you to explore the stunning Romanesque architecture of Monestir de Santa Cecília and Monestir de Sant Benet. Finish the grand tour with evening views from Sant Jeroni and l'Albarda Castellana."
+      }
+    }
+  }
+}

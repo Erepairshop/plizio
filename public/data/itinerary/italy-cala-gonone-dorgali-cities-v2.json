@@ -1,0 +1,589 @@
+{
+  "city_id": "italy-cala-gonone-dorgali-cities-v2",
+  "anchor": {
+    "name": "Cala Gonone & Dorgali",
+    "coords": [
+      9.632413,
+      40.282603
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:14",
+      "total_km": 1.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di Nostra Signora di Bonaria",
+            "hu": "Chiesa di Nostra Signora di Bonaria",
+            "ro": "Chiesa di Nostra Signora di Bonaria",
+            "en": "Chiesa di Nostra Signora di Bonaria"
+          },
+          "coords": [
+            9.634982,
+            40.283185
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betreten Sie diese ruhige lokale Kirche, um das elegante, maritim geprägte Innere zu bewundern, und sprechen Sie leise, um die stillen Momente der Gläubigen zu respektieren.",
+            "hu": "Lépjen be ebbe a békés helyi templomba, hogy megcsodálja az elegáns tengerészeti témájú belső teret, és beszéljen halkan, hogy tiszteletben tartsa a helyiek áhítatát.",
+            "ro": "Pășiți în această biserică locală liniștită pentru a admira interiorul său cu tematică maritimă și mențineți un ton scăzut pentru a respecta momentele de rugăciune.",
+            "en": "Step inside this tranquil local church to admire its simple yet elegant maritime-themed interior, and keep your voice low to respect the quiet moments of local worshipers."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia Centrale",
+            "hu": "Spiaggia Centrale",
+            "ro": "Spiaggia Centrale",
+            "en": "Spiaggia Centrale"
+          },
+          "coords": [
+            9.636649,
+            40.283026
+          ],
+          "category": "recreational",
+          "arrive_at": "09:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie das leuchtend blaue Wasser dieses zentralen Strandes, ein perfekter Ort zum Entspannen, aber bringen Sie ein Handtuch mit, da Liegen rar sind.",
+            "hu": "Csodálja meg a központi strand ragyogó kék vizét, amely tökéletes a pihenéshez a városi séták között, de hozzon saját törölközőt, mert a napágy ritka.",
+            "ro": "Admirați apele albastre vibrante ale acestei plaje centrale, perfectă pentru relaxare, dar aduceți propriul prosop deoarece șezlongurile sunt rare.",
+            "en": "Admire the vibrant blue waters of this central beach, a perfect spot to relax between town strolls, but bring your own towel as sunbeds are scarce."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo della Foca Monaca",
+            "hu": "Museo della Foca Monaca",
+            "ro": "Museo della Foca Monaca",
+            "en": "Museo della Foca Monaca"
+          },
+          "coords": [
+            9.633132,
+            40.282932
+          ],
+          "category": "museum",
+          "arrive_at": "11:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem einzigartigen Museum anhand spannender Exponate mehr über die bedrohte Mittelmeer-Mönchsrobbe und kaufen Sie am besten ein Kombiticket.",
+            "hu": "Ismerje meg a veszélyeztetett földközi-tengeri barátfókát ebben az egyedülálló múzeumban, és váltson kombinált jegyet, ha az akváriumot is meg szeretné látogatni.",
+            "ro": "Aflați despre foca călugăr mediteraneană pe cale de dispariție în acest muzeu unic și cumpărați un bilet combinat dacă intenționați să vizitați și acvariul.",
+            "en": "Learn about the endangered Mediterranean monk seal through engaging exhibits in this unique museum, and buy a combined ticket if you also plan to visit the aquarium."
+          }
+        },
+        {
+          "name": {
+            "de": "Cineteatro Arena",
+            "hu": "Cineteatro Arena",
+            "ro": "Cineteatro Arena",
+            "en": "Cineteatro Arena"
+          },
+          "coords": [
+            9.634062,
+            40.282458
+          ],
+          "category": "cultural",
+          "arrive_at": "12:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erleben Sie eine kulturelle Freiluftvorstellung in dieser lebendigen Arena, die den lokalen Gemeinschaftsgeist repräsentiert, und prüfen Sie vorab den Abendspielplan.",
+            "hu": "Tekintsen meg egy szabadtéri kulturális előadást ebben a nyüzsgő arénában, amely a helyi közösségi szellemet képviseli, és ellenőrizze az esti műsort a jegypénztárnál.",
+            "ro": "Urmăriți o proiecție în aer liber la această arenă plină de viață care reprezintă spiritul comunității locale și verificați programul de seară direct la casa de bilete.",
+            "en": "Catch an open-air cultural performance or film at this lively outdoor arena, representing local community spirit, and check their evening schedule at the box office."
+          }
+        },
+        {
+          "name": {
+            "de": "Palmasera",
+            "hu": "Palmasera",
+            "ro": "Palmasera",
+            "en": "Palmasera"
+          },
+          "coords": [
+            9.6354,
+            40.280029
+          ],
+          "category": "recreational",
+          "arrive_at": "13:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie über die markanten roten Kieselsteine des Palmasera-Strandes mit herrlichem Küstenblick und tragen Sie feste Wasserschuhe für das steinige Ufer.",
+            "hu": "Sétáljon a Palmasera strand jellegzetes piros kavicsain, lenyűgöző tengerparti kilátással, és viseljen stabil vízi cipőt a sziklás partvonal könnyebb bejárásához.",
+            "ro": "Plimbați-vă pe pietricelele roșii ale plajei Palmasera, admirând coasta spectaculoasă, și purtați încălțăminte de apă pentru a merge ușor pe țărmul stâncos.",
+            "en": "Stroll along the distinctive red pebbles of Palmasera beach, offering stunning coastal views, and wear sturdy water shoes to navigate the rocky shoreline easily."
+          }
+        },
+        {
+          "name": {
+            "de": "Acquario di Cala Gonone",
+            "hu": "Acquario di Cala Gonone",
+            "ro": "Acquario di Cala Gonone",
+            "en": "Acquario di Cala Gonone"
+          },
+          "coords": [
+            9.632964,
+            40.279602
+          ],
+          "category": "recreational",
+          "arrive_at": "14:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erkunden Sie die reiche Meeresfauna des Mittelmeers in diesem modernen Aquarium und planen Sie Ihren Besuch für die Nachmittagsfütterungen, um den Massen zu entgehen.",
+            "hu": "Fedezze fel a Földközi-tenger gazdag tengeri élővilágát ebben a modern akváriumban, és időzítse látogatását a délutáni etetésekre, hogy elkerülje a reggeli tömeget.",
+            "ro": "Explorați bogata viață marină a Mediteranei în acest acvariu modern și planificați-vă vizita pentru sesiunile de hrănire de după-amiază pentru a evita aglomerația.",
+            "en": "Explore the rich marine life of the Mediterranean in this modern aquarium, and plan your visit for the afternoon feeding sessions to avoid the morning crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Cala Gonone",
+            "hu": "Spiaggia di Cala Gonone",
+            "ro": "Spiaggia di Cala Gonone",
+            "en": "Spiaggia di Cala Gonone"
+          },
+          "coords": [
+            9.631955,
+            40.275855
+          ],
+          "category": "recreational",
+          "arrive_at": "16:29",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag und genießen Sie den Sonnenuntergang über den sanften Wellen dieses Strandes und holen Sie sich ein erfrischendes Gelato an der nahegelegenen Promenade.",
+            "hu": "Fejezze be a napot a naplemente megcsodálásával ennek a déli strandnak a finom hullámai felett, és vegyen egy frissítő fagylaltot a közeli sétányon található kioszkokból.",
+            "ro": "Încheiați ziua admirând apusul de soare peste valurile blânde ale acestei plaje din sud și savurați o înghețată răcoritoare de la chioșcurile de pe promenada din apropiere.",
+            "en": "End your day soaking in the sunset views over the gentle waves of this expansive southern beach, and grab a refreshing gelato from the nearby promenade kiosks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit einem ruhigen Besuch der Kirche von Bonaria, gefolgt von einer entspannten Zeit am wunderschönen Spiaggia Centrale. Der Mittag steht im Zeichen der Kultur im Museo della Foca Monaca und einem Abstecher zur belebten Cineteatro Arena. Nachmittags spazieren Sie gemütlich am Strand von Palmasera und besuchen das Aquarium. Abends entspannen Sie am Strand von Cala Gonone.",
+        "hu": "Kezdje a reggelt a Bonaria templom békés meglátogatásával, majd pihenjen a gyönyörű Spiaggia Centrale strandon. A dél a kultúráé a Museo della Foca Monaca és a nyüzsgő Cineteatro Arena felfedezésével. Délután sétáljon végig a Palmasera tengerpartján, majd látogasson el az akváriumba. Este lazítson a Cala Gonone strandon, miközben a nap lassan lebukik a tenger felett.",
+        "ro": "Începeți dimineața cu o vizită liniștită la biserica Bonaria, urmată de o perioadă de relaxare la frumoasa Spiaggia Centrale. Prânzul este dedicat culturii la Museo della Foca Monaca și o oprire la Cineteatro Arena. După-amiaza, plimbați-vă pe plaja Palmasera și explorați acvariul. Seara, relaxați-vă pe plaja Cala Gonone, bucurându-vă de briza blândă a mării.",
+        "en": "Start your morning with a tranquil visit to the Bonaria church, followed by a relaxing time at the beautiful Spiaggia Centrale. Midday is dedicated to local culture with explorations of the Museo della Foca Monaca and the lively Cineteatro Arena. In the afternoon, stroll along the Palmasera shoreline and visit the impressive aquarium. Evening concludes with relaxation at Cala Gonone beach."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:34",
+      "total_km": 3.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo della Foca Monaca",
+            "hu": "Museo della Foca Monaca",
+            "ro": "Museo della Foca Monaca",
+            "en": "Museo della Foca Monaca"
+          },
+          "coords": [
+            9.633132,
+            40.282932
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem einzigartigen Museum anhand spannender Exponate mehr über die bedrohte Mittelmeer-Mönchsrobbe und kaufen Sie am besten ein Kombiticket.",
+            "hu": "Ismerje meg a veszélyeztetett földközi-tengeri barátfókát ebben az egyedülálló múzeumban, és váltson kombinált jegyet, ha az akváriumot is meg szeretné látogatni.",
+            "ro": "Aflați despre foca călugăr mediteraneană pe cale de dispariție în acest muzeu unic și cumpărați un bilet combinat dacă intenționați să vizitați și acvariul.",
+            "en": "Learn about the endangered Mediterranean monk seal through engaging exhibits in this unique museum, and buy a combined ticket if you also plan to visit the aquarium."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Nostra Signora di Bonaria",
+            "hu": "Chiesa di Nostra Signora di Bonaria",
+            "ro": "Chiesa di Nostra Signora di Bonaria",
+            "en": "Chiesa di Nostra Signora di Bonaria"
+          },
+          "coords": [
+            9.634982,
+            40.283185
+          ],
+          "category": "religious",
+          "arrive_at": "10:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Betreten Sie diese ruhige lokale Kirche, um das elegante, maritim geprägte Innere zu bewundern, und sprechen Sie leise, um die stillen Momente der Gläubigen zu respektieren.",
+            "hu": "Lépjen be ebbe a békés helyi templomba, hogy megcsodálja az elegáns tengerészeti témájú belső teret, és beszéljen halkan, hogy tiszteletben tartsa a helyiek áhítatát.",
+            "ro": "Pășiți în această biserică locală liniștită pentru a admira interiorul său cu tematică maritimă și mențineți un ton scăzut pentru a respecta momentele de rugăciune.",
+            "en": "Step inside this tranquil local church to admire its simple yet elegant maritime-themed interior, and keep your voice low to respect the quiet moments of local worshipers."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia Centrale",
+            "hu": "Spiaggia Centrale",
+            "ro": "Spiaggia Centrale",
+            "en": "Spiaggia Centrale"
+          },
+          "coords": [
+            9.636649,
+            40.283026
+          ],
+          "category": "recreational",
+          "arrive_at": "11:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie das leuchtend blaue Wasser dieses zentralen Strandes, ein perfekter Ort zum Entspannen, aber bringen Sie ein Handtuch mit, da Liegen rar sind.",
+            "hu": "Csodálja meg a központi strand ragyogó kék vizét, amely tökéletes a pihenéshez a városi séták között, de hozzon saját törölközőt, mert a napágy ritka.",
+            "ro": "Admirați apele albastre vibrante ale acestei plaje centrale, perfectă pentru relaxare, dar aduceți propriul prosop deoarece șezlongurile sunt rare.",
+            "en": "Admire the vibrant blue waters of this central beach, a perfect spot to relax between town strolls, but bring your own towel as sunbeds are scarce."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuraghe Arvu",
+            "hu": "Nuraghe Arvu",
+            "ro": "Nuraghe Arvu",
+            "en": "Nuraghe Arvu"
+          },
+          "coords": [
+            9.626471,
+            40.285012
+          ],
+          "category": "landmark",
+          "arrive_at": "12:52",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Überreste dieser alten Nuraghensiedlung zwischen Olivenbäumen und kommen Sie früh mit einer guten Karte, da Schilder fehlen.",
+            "hu": "Fedezze fel a rejtett ősi nuragh település lenyűgöző maradványait az olajfák között, és érkezzen korán egy jó térképpel, mivel a romoknál nincsenek egyértelmű jelzések.",
+            "ro": "Descoperiți fascinantele rămășițe ale acestei vechi așezări nuragice ascunse printre măslini și sosiți devreme cu o hartă bună, deoarece ruinele nu sunt semnalizate clar.",
+            "en": "Discover the fascinating remnants of this ancient nuragic settlement hidden among olive trees, and arrive early with a good map as the ruins lack clear signage."
+          }
+        },
+        {
+          "name": {
+            "de": "Cineteatro Arena",
+            "hu": "Cineteatro Arena",
+            "ro": "Cineteatro Arena",
+            "en": "Cineteatro Arena"
+          },
+          "coords": [
+            9.634062,
+            40.282458
+          ],
+          "category": "cultural",
+          "arrive_at": "13:22",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erleben Sie eine kulturelle Freiluftvorstellung in dieser lebendigen Arena, die den lokalen Gemeinschaftsgeist repräsentiert, und prüfen Sie vorab den Abendspielplan.",
+            "hu": "Tekintsen meg egy szabadtéri kulturális előadást ebben a nyüzsgő arénában, amely a helyi közösségi szellemet képviseli, és ellenőrizze az esti műsort a jegypénztárnál.",
+            "ro": "Urmăriți o proiecție în aer liber la această arenă plină de viață care reprezintă spiritul comunității locale și verificați programul de seară direct la casa de bilete.",
+            "en": "Catch an open-air cultural performance or film at this lively outdoor arena, representing local community spirit, and check their evening schedule at the box office."
+          }
+        },
+        {
+          "name": {
+            "de": "Palmasera",
+            "hu": "Palmasera",
+            "ro": "Palmasera",
+            "en": "Palmasera"
+          },
+          "coords": [
+            9.6354,
+            40.280029
+          ],
+          "category": "recreational",
+          "arrive_at": "13:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie über die markanten roten Kieselsteine des Palmasera-Strandes mit herrlichem Küstenblick und tragen Sie feste Wasserschuhe für das steinige Ufer.",
+            "hu": "Sétáljon a Palmasera strand jellegzetes piros kavicsain, lenyűgöző tengerparti kilátással, és viseljen stabil vízi cipőt a sziklás partvonal könnyebb bejárásához.",
+            "ro": "Plimbați-vă pe pietricelele roșii ale plajei Palmasera, admirând coasta spectaculoasă, și purtați încălțăminte de apă pentru a merge ușor pe țărmul stâncos.",
+            "en": "Stroll along the distinctive red pebbles of Palmasera beach, offering stunning coastal views, and wear sturdy water shoes to navigate the rocky shoreline easily."
+          }
+        },
+        {
+          "name": {
+            "de": "Acquario di Cala Gonone",
+            "hu": "Acquario di Cala Gonone",
+            "ro": "Acquario di Cala Gonone",
+            "en": "Acquario di Cala Gonone"
+          },
+          "coords": [
+            9.632964,
+            40.279602
+          ],
+          "category": "recreational",
+          "arrive_at": "15:06",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erkunden Sie die reiche Meeresfauna des Mittelmeers in diesem modernen Aquarium und planen Sie Ihren Besuch für die Nachmittagsfütterungen, um den Massen zu entgehen.",
+            "hu": "Fedezze fel a Földközi-tenger gazdag tengeri élővilágát ebben a modern akváriumban, és időzítse látogatását a délutáni etetésekre, hogy elkerülje a reggeli tömeget.",
+            "ro": "Explorați bogata viață marină a Mediteranei în acest acvariu modern și planificați-vă vizita pentru sesiunile de hrănire de după-amiază pentru a evita aglomerația.",
+            "en": "Explore the rich marine life of the Mediterranean in this modern aquarium, and plan your visit for the afternoon feeding sessions to avoid the morning crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Cala Gonone",
+            "hu": "Spiaggia di Cala Gonone",
+            "ro": "Spiaggia di Cala Gonone",
+            "en": "Spiaggia di Cala Gonone"
+          },
+          "coords": [
+            9.631955,
+            40.275855
+          ],
+          "category": "recreational",
+          "arrive_at": "16:49",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag und genießen Sie den Sonnenuntergang über den sanften Wellen dieses Strandes und holen Sie sich ein erfrischendes Gelato an der nahegelegenen Promenade.",
+            "hu": "Fejezze be a napot a naplemente megcsodálásával ennek a déli strandnak a finom hullámai felett, és vegyen egy frissítő fagylaltot a közeli sétányon található kioszkokból.",
+            "ro": "Încheiați ziua admirând apusul de soare peste valurile blânde ale acestei plaje din sud și savurați o înghețată răcoritoare de la chioșcurile de pe promenada din apropiere.",
+            "en": "End your day soaking in the sunset views over the gentle waves of this expansive southern beach, and grab a refreshing gelato from the nearby promenade kiosks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie morgens im Museo della Foca Monaca und besuchen Sie danach die charmante Kirche Bonaria sowie den Spiaggia Centrale. Mittags radeln Sie zum faszinierenden Nuraghe Arvu und machen Halt an der Arena. Nachmittags genießen Sie die Sonne am Palmasera Strand und erkunden die Meereswelt im Aquarium. Der Abend endet entspannt bei einem Spaziergang am Spiaggia di Cala Gonone.",
+        "hu": "Reggel kezdjen a Museo della Foca Monaca-ban, majd látogassa meg a bájos Bonaria templomot és a Spiaggia Centrale-t. Délben tekerjen el a lenyűgöző Nuraghe Arvu-hoz, majd az arénához. Délután élvezze a napsütést a Palmasera strandon, és fedezze fel az akváriumot. Az este egy pihentető sétával zárul a Cala Gonone strandon, tökéletes befejezést adva a napnak.",
+        "ro": "Începeți dimineața la Museo della Foca Monaca, vizitând apoi fermecătoarea biserică Bonaria și Spiaggia Centrale. La prânz, pedalați către fascinantul Nuraghe Arvu și opriți la Arena. După-amiaza, bucurați-vă de soare pe plaja Palmasera și explorați acvariul. Seara se încheie cu o plimbare relaxantă pe Spiaggia di Cala Gonone, o încheiere perfectă a zilei pline.",
+        "en": "Start your morning at the Museo della Foca Monaca, then visit the charming Bonaria church and Spiaggia Centrale. Midday, pedal out to the fascinating Nuraghe Arvu ruins and stop by the arena. In the afternoon, soak up the sun on Palmasera beach and explore the marine life at the aquarium. The evening winds down with a relaxing stroll along Spiaggia di Cala Gonone."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:21",
+      "total_km": 3.7,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Nuraghe Codula Manna",
+            "hu": "Nuraghe Codula Manna",
+            "ro": "Nuraghe Codula Manna",
+            "en": "Nuraghe Codula Manna"
+          },
+          "coords": [
+            9.640168,
+            40.296907
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesem beeindruckenden prähistorischen Steinturm mit Panoramablick über das Tal, aber tragen Sie feste Wanderschuhe und nehmen Sie genug Wasser mit.",
+            "hu": "Túrázzon fel ehhez a lenyűgöző történelem előtti kőtoronyhoz, ahonnan panorámás kilátás nyílik a völgyre, de viseljen stabil túracipőt és vigyen magával elég vizet.",
+            "ro": "Urcați până la acest turn preistoric impresionant din piatră pentru vederi panoramice ale văii, dar purtați bocanci de drumeție și luați suficientă apă pentru urcare.",
+            "en": "Hike up to this impressive prehistoric stone tower for panoramic valley views, but make sure to wear sturdy hiking boots and carry enough water for the rocky ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuraghe Arvu",
+            "hu": "Nuraghe Arvu",
+            "ro": "Nuraghe Arvu",
+            "en": "Nuraghe Arvu"
+          },
+          "coords": [
+            9.626471,
+            40.285012
+          ],
+          "category": "landmark",
+          "arrive_at": "10:34",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Überreste dieser alten Nuraghensiedlung zwischen Olivenbäumen und kommen Sie früh mit einer guten Karte, da Schilder fehlen.",
+            "hu": "Fedezze fel a rejtett ősi nuragh település lenyűgöző maradványait az olajfák között, és érkezzen korán egy jó térképpel, mivel a romoknál nincsenek egyértelmű jelzések.",
+            "ro": "Descoperiți fascinantele rămășițe ale acestei vechi așezări nuragice ascunse printre măslini și sosiți devreme cu o hartă bună, deoarece ruinele nu sunt semnalizate clar.",
+            "en": "Discover the fascinating remnants of this ancient nuragic settlement hidden among olive trees, and arrive early with a good map as the ruins lack clear signage."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo della Foca Monaca",
+            "hu": "Museo della Foca Monaca",
+            "ro": "Museo della Foca Monaca",
+            "en": "Museo della Foca Monaca"
+          },
+          "coords": [
+            9.633132,
+            40.282932
+          ],
+          "category": "museum",
+          "arrive_at": "11:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem einzigartigen Museum anhand spannender Exponate mehr über die bedrohte Mittelmeer-Mönchsrobbe und kaufen Sie am besten ein Kombiticket.",
+            "hu": "Ismerje meg a veszélyeztetett földközi-tengeri barátfókát ebben az egyedülálló múzeumban, és váltson kombinált jegyet, ha az akváriumot is meg szeretné látogatni.",
+            "ro": "Aflați despre foca călugăr mediteraneană pe cale de dispariție în acest muzeu unic și cumpărați un bilet combinat dacă intenționați să vizitați și acvariul.",
+            "en": "Learn about the endangered Mediterranean monk seal through engaging exhibits in this unique museum, and buy a combined ticket if you also plan to visit the aquarium."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Nostra Signora di Bonaria",
+            "hu": "Chiesa di Nostra Signora di Bonaria",
+            "ro": "Chiesa di Nostra Signora di Bonaria",
+            "en": "Chiesa di Nostra Signora di Bonaria"
+          },
+          "coords": [
+            9.634982,
+            40.283185
+          ],
+          "category": "religious",
+          "arrive_at": "12:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Betreten Sie diese ruhige lokale Kirche, um das elegante, maritim geprägte Innere zu bewundern, und sprechen Sie leise, um die stillen Momente der Gläubigen zu respektieren.",
+            "hu": "Lépjen be ebbe a békés helyi templomba, hogy megcsodálja az elegáns tengerészeti témájú belső teret, és beszéljen halkan, hogy tiszteletben tartsa a helyiek áhítatát.",
+            "ro": "Pășiți în această biserică locală liniștită pentru a admira interiorul său cu tematică maritimă și mențineți un ton scăzut pentru a respecta momentele de rugăciune.",
+            "en": "Step inside this tranquil local church to admire its simple yet elegant maritime-themed interior, and keep your voice low to respect the quiet moments of local worshipers."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia Centrale",
+            "hu": "Spiaggia Centrale",
+            "ro": "Spiaggia Centrale",
+            "en": "Spiaggia Centrale"
+          },
+          "coords": [
+            9.636649,
+            40.283026
+          ],
+          "category": "recreational",
+          "arrive_at": "13:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie das leuchtend blaue Wasser dieses zentralen Strandes, ein perfekter Ort zum Entspannen, aber bringen Sie ein Handtuch mit, da Liegen rar sind.",
+            "hu": "Csodálja meg a központi strand ragyogó kék vizét, amely tökéletes a pihenéshez a városi séták között, de hozzon saját törölközőt, mert a napágy ritka.",
+            "ro": "Admirați apele albastre vibrante ale acestei plaje centrale, perfectă pentru relaxare, dar aduceți propriul prosop deoarece șezlongurile sunt rare.",
+            "en": "Admire the vibrant blue waters of this central beach, a perfect spot to relax between town strolls, but bring your own towel as sunbeds are scarce."
+          }
+        },
+        {
+          "name": {
+            "de": "Palmasera",
+            "hu": "Palmasera",
+            "ro": "Palmasera",
+            "en": "Palmasera"
+          },
+          "coords": [
+            9.6354,
+            40.280029
+          ],
+          "category": "recreational",
+          "arrive_at": "14:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Spazieren Sie über die markanten roten Kieselsteine des Palmasera-Strandes mit herrlichem Küstenblick und tragen Sie feste Wasserschuhe für das steinige Ufer.",
+            "hu": "Sétáljon a Palmasera strand jellegzetes piros kavicsain, lenyűgöző tengerparti kilátással, és viseljen stabil vízi cipőt a sziklás partvonal könnyebb bejárásához.",
+            "ro": "Plimbați-vă pe pietricelele roșii ale plajei Palmasera, admirând coasta spectaculoasă, și purtați încălțăminte de apă pentru a merge ușor pe țărmul stâncos.",
+            "en": "Stroll along the distinctive red pebbles of Palmasera beach, offering stunning coastal views, and wear sturdy water shoes to navigate the rocky shoreline easily."
+          }
+        },
+        {
+          "name": {
+            "de": "Acquario di Cala Gonone",
+            "hu": "Acquario di Cala Gonone",
+            "ro": "Acquario di Cala Gonone",
+            "en": "Acquario di Cala Gonone"
+          },
+          "coords": [
+            9.632964,
+            40.279602
+          ],
+          "category": "recreational",
+          "arrive_at": "15:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erkunden Sie die reiche Meeresfauna des Mittelmeers in diesem modernen Aquarium und planen Sie Ihren Besuch für die Nachmittagsfütterungen, um den Massen zu entgehen.",
+            "hu": "Fedezze fel a Földközi-tenger gazdag tengeri élővilágát ebben a modern akváriumban, és időzítse látogatását a délutáni etetésekre, hogy elkerülje a reggeli tömeget.",
+            "ro": "Explorați bogata viață marină a Mediteranei în acest acvariu modern și planificați-vă vizita pentru sesiunile de hrănire de după-amiază pentru a evita aglomerația.",
+            "en": "Explore the rich marine life of the Mediterranean in this modern aquarium, and plan your visit for the afternoon feeding sessions to avoid the morning crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Cala Gonone",
+            "hu": "Spiaggia di Cala Gonone",
+            "ro": "Spiaggia di Cala Gonone",
+            "en": "Spiaggia di Cala Gonone"
+          },
+          "coords": [
+            9.631955,
+            40.275855
+          ],
+          "category": "recreational",
+          "arrive_at": "17:36",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag und genießen Sie den Sonnenuntergang über den sanften Wellen dieses Strandes und holen Sie sich ein erfrischendes Gelato an der nahegelegenen Promenade.",
+            "hu": "Fejezze be a napot a naplemente megcsodálásával ennek a déli strandnak a finom hullámai felett, és vegyen egy frissítő fagylaltot a közeli sétányon található kioszkokból.",
+            "ro": "Încheiați ziua admirând apusul de soare peste valurile blânde ale acestei plaje din sud și savurați o înghețată răcoritoare de la chioșcurile de pe promenada din apropiere.",
+            "en": "End your day soaking in the sunset views over the gentle waves of this expansive southern beach, and grab a refreshing gelato from the nearby promenade kiosks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt mit einer kurzen Fahrt zum historischen Nuraghe Codula Manna und dem Nuraghe Arvu in den Hügeln. Mittags tauchen Sie im Museo della Foca Monaca in die Naturgeschichte ein und besuchen die Kirche Bonaria. Am Nachmittag erwarten Sie die Strände Spiaggia Centrale und Palmasera sowie das Aquarium. Der Abend bietet entspannte Momente am Hauptstrand von Cala Gonone.",
+        "hu": "A nap a történelmi Nuraghe Codula Manna és a dombok közt megbúvó Nuraghe Arvu felfedezésével indul. Délben merüljön el a természetrajzban a Museo della Foca Monaca-ban, és látogassa meg a Bonaria templomot. Délután a Spiaggia Centrale és a Palmasera strandok, valamint az akvárium várják. Az estét a Cala Gonone fő strandján töltheti, élvezve a tenger nyugalmát és a szellőt.",
+        "ro": "Ziua începe cu un scurt drum spre Nuraghe Codula Manna și Nuraghe Arvu, situate pe dealuri. La prânz, scufundați-vă în istoria naturală la Museo della Foca Monaca și vizitați biserica Bonaria. După-amiaza, vă așteaptă plajele Spiaggia Centrale și Palmasera, dar și acvariul impresionant. Seara oferă momente relaxante la plaja principală din Cala Gonone.",
+        "en": "The day begins with a short drive to the historical Nuraghe Codula Manna and the Nuraghe Arvu hidden in the hills. Midday, dive into natural history at the Museo della Foca Monaca and visit the Bonaria church. The afternoon invites you to relax at Spiaggia Centrale and Palmasera beaches, plus the aquarium. The evening offers relaxing moments at the main beach of Cala Gonone."
+      }
+    }
+  }
+}

@@ -1,0 +1,497 @@
+{
+  "city_id": "morelia-cities-v2",
+  "anchor": {
+    "name": "Morelia",
+    "coords": [
+      -101.1921,
+      19.7028
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:57",
+      "total_km": 2.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo del Dulce",
+            "hu": "Museo del Dulce",
+            "ro": "Museo del Dulce",
+            "en": "Museo del Dulce"
+          },
+          "coords": [
+            -101.187199,
+            19.702658
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Süßwarentradition von Morelia und probieren Sie das klassische Ate, aber kommen Sie früh, um an der Führung ohne lange Wartezeiten teilzunehmen.",
+            "hu": "Fedezze fel Morelia gazdag édesipari történetét és kóstolja meg a hagyományos atét, de érkezzen korán, hogy elkerülje a hosszú sorokat a tárlatvezetésnél.",
+            "ro": "Descoperiți istoria bogată a dulciurilor din Morelia și gustați tradiționalul ate, dar ajungeți devreme pentru a prinde un tur ghidat fără a sta la coadă.",
+            "en": "Discover Morelia's rich confectionery history and taste traditional ate sweets, but arrive early to join the guided tour without waiting in long queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Artesano Michoacano",
+            "hu": "Museo del Artesano Michoacano",
+            "ro": "Museo del Artesano Michoacano",
+            "en": "Museo del Artesano Michoacano"
+          },
+          "coords": [
+            -101.188671,
+            19.701537
+          ],
+          "category": "museum",
+          "arrive_at": "10:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie regionales Kunsthandwerk von Keramik bis hin zu Textilien und besuchen Sie den Museumsshop, um authentische Souvenirs direkt von den Handwerkern zu kaufen.",
+            "hu": "Csodálja meg a régió lenyűgöző kézműves termékeit a kerámiáktól a textíliákig, és nézzen be a múzeum boltjába, ahol autentikus szuveníreket vásárolhat az alkotóktól.",
+            "ro": "Admirați meșteșugurile regionale de la ceramică la textile și vizitați magazinul muzeului pentru a achiziționa suveniruri autentice direct de la artizani.",
+            "en": "Admire exquisite regional handicrafts ranging from pottery to textiles, and check out the museum shop where you can purchase authentic souvenirs directly from artisans."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de la Cultura de Morelia",
+            "hu": "Casa de la Cultura de Morelia",
+            "ro": "Casa de la Cultura de Morelia",
+            "en": "Casa de la Cultura de Morelia"
+          },
+          "coords": [
+            -101.191676,
+            19.706295
+          ],
+          "category": "museum",
+          "arrive_at": "12:42",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses ehemalige Karmeliterkloster, das heute Kunstausstellungen beherbergt, und gehen Sie in den zweiten Stock, um einen tollen Blick auf den Innenhof zu genießen.",
+            "hu": "Fedezze fel ezt az egykori karmelita kolostort, amely ma élénk művészeti kiállításoknak ad otthont, és sétáljon fel a második emeletre az udvar lenyűgöző látványáért.",
+            "ro": "Explorați fosta mănăstire carmelită care găzduiește acum expoziții de artă vibrante și urcați la etajul doi pentru o priveliște impresionantă asupra curții istorice.",
+            "en": "Explore this former Carmelite convent that now hosts vibrant art exhibitions, and make sure to walk up to the second floor for a stunning view of the historic courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "El Pípila",
+            "hu": "El Pípila",
+            "ro": "El Pípila",
+            "en": "El Pípila"
+          },
+          "coords": [
+            -101.188586,
+            19.710526
+          ],
+          "category": "historical",
+          "arrive_at": "14:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über den legendären lokalen Unabhängigkeitshelden an diesem historischen Denkmal und bringen Sie Ihre Kamera für tolle Architekturfotos in der goldenen Stunde mit.",
+            "hu": "Tudjon meg többet a függetlenség legendás helyi hőséről e történelmi emlékműnél, és hozza magával a fényképezőgépét, hogy az aranyórában csodás képeket készíthessen.",
+            "ro": "Aflați despre legendarul erou local al independenței la acest monument istoric și luați aparatul foto pentru a surprinde arhitectura minunată în timpul orei de aur.",
+            "en": "Learn about the legendary local independence hero at this historical monument, and bring your camera for some great architectural photos during the golden hour."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento salida salamanca",
+            "hu": "Monumento salida salamanca",
+            "ro": "Monumento salida salamanca",
+            "en": "Monumento salida salamanca"
+          },
+          "coords": [
+            -101.188064,
+            19.720767
+          ],
+          "category": "historical",
+          "arrive_at": "16:07",
+          "stay_min": 110,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Stehen Sie vor diesem beeindruckenden Tor-Denkmal, das den historischen Nordausgang der Stadt markiert, und machen Sie eine kurze Pause auf den Bänken in der Nähe.",
+            "hu": "Álljon meg ennél a lenyűgöző kapuemlékműnél, amely a város történelmi északi kijáratát jelzi, és pihenjen meg egy pillanatra a közeli padokon, élvezve a nyüzsgő életet.",
+            "ro": "Opriți-vă la acest impresionant monument-poartă care marchează ieșirea istorică de nord a orașului și luați o scurtă pauză pe băncile din apropiere pentru a observa viața locală.",
+            "en": "Stand before this impressive gateway monument marking the historic northern exit of the city, and take a quick break on the nearby benches to enjoy the bustling local life."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Wir beginnen den Tag mit den reichen Traditionen Morelias und erkunden die süßen Köstlichkeiten lokaler Süßwaren sowie die unglaubliche regionale Handwerkskunst im Zentrum.\nMidday: Die Mittagszeit führt uns zu kolonialen Innenhöfen, in denen sich Kunst und Geschichte kreuzen.\nAfternoon: Wir gehen nach Norden und stoßen auf historische Denkmäler und alte Tore.\nEvening: Der Abend bietet einen ruhigen Rückblick.",
+        "hu": "Morning: A napot Morelia hagyományainak felfedezésével kezdjük, belevetve magunkat a helyi édességek és a lenyűgöző kézművesség világába.\nMidday: A délidő megőrzött gyarmati udvarokba vezet minket, csendes menedéket kínálva.\nAfternoon: Észak felé haladunk, hogy megcsodáljuk az egykori kapukat jelölő emlékműveket.\nEvening: Az este tökéletes alkalmat ad a történelmi városrészek nyugodt felidézésére.",
+        "ro": "Morning: Începem ziua scufundându-ne în tradițiile bogate din Morelia, explorând deliciile locale și măiestria artizanală.\nMidday: Amiaza ne aduce în curți coloniale, oferind o evadare liniștită de pe străzile scăldate de soare.\nAfternoon: Ne îndreptăm spre nord, întâlnind monumente istorice care spun poveștile eroilor locali.\nEvening: Seara se încheie reflectând liniștit la porțile vechi ale orașului.",
+        "en": "Morning: We start the day diving into the rich traditions of Morelia, exploring the sugary delights of local confectionery and incredible regional craftsmanship.\nMidday: The midday brings us to beautifully preserved colonial courtyards where art and history intersect.\nAfternoon: We walk north, encountering monuments that tell the epic tales of local heroes.\nEvening: Evening settles gently over the historic gates."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:42",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo del Dulce",
+            "hu": "Museo del Dulce",
+            "ro": "Museo del Dulce",
+            "en": "Museo del Dulce"
+          },
+          "coords": [
+            -101.187199,
+            19.702658
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Süßwarentradition von Morelia und probieren Sie das klassische Ate, aber kommen Sie früh, um an der Führung ohne lange Wartezeiten teilzunehmen.",
+            "hu": "Fedezze fel Morelia gazdag édesipari történetét és kóstolja meg a hagyományos atét, de érkezzen korán, hogy elkerülje a hosszú sorokat a tárlatvezetésnél.",
+            "ro": "Descoperiți istoria bogată a dulciurilor din Morelia și gustați tradiționalul ate, dar ajungeți devreme pentru a prinde un tur ghidat fără a sta la coadă.",
+            "en": "Discover Morelia's rich confectionery history and taste traditional ate sweets, but arrive early to join the guided tour without waiting in long queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de la Cultura de Morelia",
+            "hu": "Casa de la Cultura de Morelia",
+            "ro": "Casa de la Cultura de Morelia",
+            "en": "Casa de la Cultura de Morelia"
+          },
+          "coords": [
+            -101.191676,
+            19.706295
+          ],
+          "category": "museum",
+          "arrive_at": "10:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses ehemalige Karmeliterkloster, das heute Kunstausstellungen beherbergt, und gehen Sie in den zweiten Stock, um einen tollen Blick auf den Innenhof zu genießen.",
+            "hu": "Fedezze fel ezt az egykori karmelita kolostort, amely ma élénk művészeti kiállításoknak ad otthont, és sétáljon fel a második emeletre az udvar lenyűgöző látványáért.",
+            "ro": "Explorați fosta mănăstire carmelită care găzduiește acum expoziții de artă vibrante și urcați la etajul doi pentru o priveliște impresionantă asupra curții istorice.",
+            "en": "Explore this former Carmelite convent that now hosts vibrant art exhibitions, and make sure to walk up to the second floor for a stunning view of the historic courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "El Pípila",
+            "hu": "El Pípila",
+            "ro": "El Pípila",
+            "en": "El Pípila"
+          },
+          "coords": [
+            -101.188586,
+            19.710526
+          ],
+          "category": "historical",
+          "arrive_at": "12:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über den legendären lokalen Unabhängigkeitshelden an diesem historischen Denkmal und bringen Sie Ihre Kamera für tolle Architekturfotos in der goldenen Stunde mit.",
+            "hu": "Tudjon meg többet a függetlenség legendás helyi hőséről e történelmi emlékműnél, és hozza magával a fényképezőgépét, hogy az aranyórában csodás képeket készíthessen.",
+            "ro": "Aflați despre legendarul erou local al independenței la acest monument istoric și luați aparatul foto pentru a surprinde arhitectura minunată în timpul orei de aur.",
+            "en": "Learn about the legendary local independence hero at this historical monument, and bring your camera for some great architectural photos during the golden hour."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento salida salamanca",
+            "hu": "Monumento salida salamanca",
+            "ro": "Monumento salida salamanca",
+            "en": "Monumento salida salamanca"
+          },
+          "coords": [
+            -101.188064,
+            19.720767
+          ],
+          "category": "historical",
+          "arrive_at": "14:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Stehen Sie vor diesem beeindruckenden Tor-Denkmal, das den historischen Nordausgang der Stadt markiert, und machen Sie eine kurze Pause auf den Bänken in der Nähe.",
+            "hu": "Álljon meg ennél a lenyűgöző kapuemlékműnél, amely a város történelmi északi kijáratát jelzi, és pihenjen meg egy pillanatra a közeli padokon, élvezve a nyüzsgő életet.",
+            "ro": "Opriți-vă la acest impresionant monument-poartă care marchează ieșirea istorică de nord a orașului și luați o scurtă pauză pe băncile din apropiere pentru a observa viața locală.",
+            "en": "Stand before this impressive gateway monument marking the historic northern exit of the city, and take a quick break on the nearby benches to enjoy the bustling local life."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Chucho Monger",
+            "hu": "Teatro Chucho Monger",
+            "ro": "Teatro Chucho Monger",
+            "en": "Teatro Chucho Monger"
+          },
+          "coords": [
+            -101.197473,
+            19.723514
+          ],
+          "category": "cultural",
+          "arrive_at": "15:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die modernen architektonischen Linien dieses wichtigen kulturellen Zentrums und prüfen Sie frühzeitig die Kasse auf Last-Minute-Tickets für Abendvorstellungen.",
+            "hu": "Csodálja meg e fontos helyi kulturális központ modern építészeti vonalait, és ellenőrizze korán a jegypénztárt, hogy elcsíphessen egy utolsó pillanatos jegyet az esti előadásokra.",
+            "ro": "Admirați liniile arhitecturale moderne ale acestui important centru cultural local și verificați casa de bilete devreme pentru a prinde bilete de ultimă oră la spectacolele de seară.",
+            "en": "Marvel at the modern architectural lines of this important local cultural hub, and check the box office early in the day for last-minute tickets to evening performances."
+          }
+        },
+        {
+          "name": {
+            "de": "La Pirámide de El Barreno",
+            "hu": "La Pirámide de El Barreno",
+            "ro": "La Pirámide de El Barreno",
+            "en": "La Pirámide de El Barreno"
+          },
+          "coords": [
+            -101.202752,
+            19.724742
+          ],
+          "category": "historical",
+          "arrive_at": "16:52",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende alte Geschichte dieser weniger bekannten Pyramidenstruktur und tragen Sie bequeme Wanderschuhe, um das unebene Gelände sicher zu durchqueren.",
+            "hu": "Fedezze fel e kevésbé ismert piramisépítménybe ágyazott lenyűgöző ókori történelmet, és viseljen kényelmes sétacipőt a környező egyenetlen terep biztonságos bejárásához.",
+            "ro": "Descoperiți istoria antică fascinantă ascunsă în această structură piramidală mai puțin cunoscută și purtați pantofi confortabili pentru a naviga în siguranță pe terenul denivelat din jur.",
+            "en": "Uncover the fascinating ancient history embedded in this lesser-known historical pyramid structure, and wear comfortable walking shoes to navigate the uneven surrounding terrain safely."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Mit dem Fahrrad erreichen wir schnell die historischen Museen im Stadtkern, wo wir tief in die Kultur von Morelia eintauchen.\nMidday: Auf zwei Rädern geht es weiter zu Monumenten der Unabhängigkeit.\nAfternoon: Wir radeln durch die nördlichen Viertel zum beeindruckenden Theater Chucho Monger.\nEvening: Zum Ausklang erreichen wir eine antike Pyramide im goldenen Abendlicht.",
+        "hu": "Morning: Kerékpárral gyorsan elérjük a városközpont történelmi múzeumait, ahol elmerülünk Morelia kultúrájában.\nMidday: Két keréken folytatjuk utunkat a függetlenség emlékművei felé.\nAfternoon: Az északi negyedeken át pedálozunk a lenyűgöző Chucho Monger Színházhoz.\nEvening: Zárásként egy ősi piramishoz érkezünk, amelyet bevilágít az aranyló lemenő nap.",
+        "ro": "Morning: Cu bicicleta ajungem rapid la muzeele istorice din centrul orașului, unde ne scufundăm în cultura din Morelia.\nMidday: Continuăm pe două roți către monumentele independenței.\nAfternoon: Pedalăm prin cartierele nordice până la impresionantul Teatru Chucho Monger.\nEvening: Încheiem ziua la o veche piramidă, bucurându-ne de lumina aurie a serii.",
+        "en": "Morning: Riding our bikes, we quickly reach the historic museums in the city core, diving deep into Morelia's culture.\nMidday: On two wheels, we continue to the monuments of independence.\nAfternoon: We pedal through the northern districts to the impressive Teatro Chucho Monger.\nEvening: We wind down our day arriving at an ancient pyramid bathed in golden evening light."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "21:37",
+      "total_km": 5.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo del Artesano Michoacano",
+            "hu": "Museo del Artesano Michoacano",
+            "ro": "Museo del Artesano Michoacano",
+            "en": "Museo del Artesano Michoacano"
+          },
+          "coords": [
+            -101.188671,
+            19.701537
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie regionales Kunsthandwerk von Keramik bis hin zu Textilien und besuchen Sie den Museumsshop, um authentische Souvenirs direkt von den Handwerkern zu kaufen.",
+            "hu": "Csodálja meg a régió lenyűgöző kézműves termékeit a kerámiáktól a textíliákig, és nézzen be a múzeum boltjába, ahol autentikus szuveníreket vásárolhat az alkotóktól.",
+            "ro": "Admirați meșteșugurile regionale de la ceramică la textile și vizitați magazinul muzeului pentru a achiziționa suveniruri autentice direct de la artizani.",
+            "en": "Admire exquisite regional handicrafts ranging from pottery to textiles, and check out the museum shop where you can purchase authentic souvenirs directly from artisans."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Dulce",
+            "hu": "Museo del Dulce",
+            "ro": "Museo del Dulce",
+            "en": "Museo del Dulce"
+          },
+          "coords": [
+            -101.187199,
+            19.702658
+          ],
+          "category": "museum",
+          "arrive_at": "10:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Süßwarentradition von Morelia und probieren Sie das klassische Ate, aber kommen Sie früh, um an der Führung ohne lange Wartezeiten teilzunehmen.",
+            "hu": "Fedezze fel Morelia gazdag édesipari történetét és kóstolja meg a hagyományos atét, de érkezzen korán, hogy elkerülje a hosszú sorokat a tárlatvezetésnél.",
+            "ro": "Descoperiți istoria bogată a dulciurilor din Morelia și gustați tradiționalul ate, dar ajungeți devreme pentru a prinde un tur ghidat fără a sta la coadă.",
+            "en": "Discover Morelia's rich confectionery history and taste traditional ate sweets, but arrive early to join the guided tour without waiting in long queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de la Cultura de Morelia",
+            "hu": "Casa de la Cultura de Morelia",
+            "ro": "Casa de la Cultura de Morelia",
+            "en": "Casa de la Cultura de Morelia"
+          },
+          "coords": [
+            -101.191676,
+            19.706295
+          ],
+          "category": "museum",
+          "arrive_at": "12:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses ehemalige Karmeliterkloster, das heute Kunstausstellungen beherbergt, und gehen Sie in den zweiten Stock, um einen tollen Blick auf den Innenhof zu genießen.",
+            "hu": "Fedezze fel ezt az egykori karmelita kolostort, amely ma élénk művészeti kiállításoknak ad otthont, és sétáljon fel a második emeletre az udvar lenyűgöző látványáért.",
+            "ro": "Explorați fosta mănăstire carmelită care găzduiește acum expoziții de artă vibrante și urcați la etajul doi pentru o priveliște impresionantă asupra curții istorice.",
+            "en": "Explore this former Carmelite convent that now hosts vibrant art exhibitions, and make sure to walk up to the second floor for a stunning view of the historic courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "El Pípila",
+            "hu": "El Pípila",
+            "ro": "El Pípila",
+            "en": "El Pípila"
+          },
+          "coords": [
+            -101.188586,
+            19.710526
+          ],
+          "category": "historical",
+          "arrive_at": "14:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über den legendären lokalen Unabhängigkeitshelden an diesem historischen Denkmal und bringen Sie Ihre Kamera für tolle Architekturfotos in der goldenen Stunde mit.",
+            "hu": "Tudjon meg többet a függetlenség legendás helyi hőséről e történelmi emlékműnél, és hozza magával a fényképezőgépét, hogy az aranyórában csodás képeket készíthessen.",
+            "ro": "Aflați despre legendarul erou local al independenței la acest monument istoric și luați aparatul foto pentru a surprinde arhitectura minunată în timpul orei de aur.",
+            "en": "Learn about the legendary local independence hero at this historical monument, and bring your camera for some great architectural photos during the golden hour."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento salida salamanca",
+            "hu": "Monumento salida salamanca",
+            "ro": "Monumento salida salamanca",
+            "en": "Monumento salida salamanca"
+          },
+          "coords": [
+            -101.188064,
+            19.720767
+          ],
+          "category": "historical",
+          "arrive_at": "15:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Stehen Sie vor diesem beeindruckenden Tor-Denkmal, das den historischen Nordausgang der Stadt markiert, und machen Sie eine kurze Pause auf den Bänken in der Nähe.",
+            "hu": "Álljon meg ennél a lenyűgöző kapuemlékműnél, amely a város történelmi északi kijáratát jelzi, és pihenjen meg egy pillanatra a közeli padokon, élvezve a nyüzsgő életet.",
+            "ro": "Opriți-vă la acest impresionant monument-poartă care marchează ieșirea istorică de nord a orașului și luați o scurtă pauză pe băncile din apropiere pentru a observa viața locală.",
+            "en": "Stand before this impressive gateway monument marking the historic northern exit of the city, and take a quick break on the nearby benches to enjoy the bustling local life."
+          }
+        },
+        {
+          "name": {
+            "de": "Pabellón Don Vasco",
+            "hu": "Pabellón Don Vasco",
+            "ro": "Pabellón Don Vasco",
+            "en": "Pabellón Don Vasco"
+          },
+          "coords": [
+            -101.182161,
+            19.727084
+          ],
+          "category": "cultural",
+          "arrive_at": "17:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erleben Sie die kulturelle Verschmelzung von indigener und kolonialer Architektur an diesem einzigartigen Pavillon, wo der Besuch einer Kulturveranstaltung besonders lohnenswert ist.",
+            "hu": "Tapasztalja meg az őslakos és gyarmati építészet kulturális fúzióját ebben az egyedülálló pavilonban, ahol egy tervezett kulturális esemény meglátogatása óriási élményt nyújt.",
+            "ro": "Experimentați fuziunea culturală a arhitecturii indigene și coloniale la acest pavilion unic, unde participarea la un eveniment cultural programat aduce o valoare incredibilă vizitei.",
+            "en": "Experience the cultural fusion of indigenous and colonial architecture at this unique pavilion, where attending a scheduled cultural event adds incredible value to your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Chucho Monger",
+            "hu": "Teatro Chucho Monger",
+            "ro": "Teatro Chucho Monger",
+            "en": "Teatro Chucho Monger"
+          },
+          "coords": [
+            -101.197473,
+            19.723514
+          ],
+          "category": "cultural",
+          "arrive_at": "18:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die modernen architektonischen Linien dieses wichtigen kulturellen Zentrums und prüfen Sie frühzeitig die Kasse auf Last-Minute-Tickets für Abendvorstellungen.",
+            "hu": "Csodálja meg e fontos helyi kulturális központ modern építészeti vonalait, és ellenőrizze korán a jegypénztárt, hogy elcsíphessen egy utolsó pillanatos jegyet az esti előadásokra.",
+            "ro": "Admirați liniile arhitecturale moderne ale acestui important centru cultural local și verificați casa de bilete devreme pentru a prinde bilete de ultimă oră la spectacolele de seară.",
+            "en": "Marvel at the modern architectural lines of this important local cultural hub, and check the box office early in the day for last-minute tickets to evening performances."
+          }
+        },
+        {
+          "name": {
+            "de": "La Pirámide de El Barreno",
+            "hu": "La Pirámide de El Barreno",
+            "ro": "La Pirámide de El Barreno",
+            "en": "La Pirámide de El Barreno"
+          },
+          "coords": [
+            -101.202752,
+            19.724742
+          ],
+          "category": "historical",
+          "arrive_at": "19:47",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende alte Geschichte dieser weniger bekannten Pyramidenstruktur und tragen Sie bequeme Wanderschuhe, um das unebene Gelände sicher zu durchqueren.",
+            "hu": "Fedezze fel e kevésbé ismert piramisépítménybe ágyazott lenyűgöző ókori történelmet, és viseljen kényelmes sétacipőt a környező egyenetlen terep biztonságos bejárásához.",
+            "ro": "Descoperiți istoria antică fascinantă ascunsă în această structură piramidală mai puțin cunoscută și purtați pantofi confortabili pentru a naviga în siguranță pe terenul denivelat din jur.",
+            "en": "Uncover the fascinating ancient history embedded in this lesser-known historical pyramid structure, and wear comfortable walking shoes to navigate the uneven surrounding terrain safely."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Mit dem Auto decken wir bequem die Museen im Zentrum ab und lernen die Kunst sowie die Süßwarentradition Morelias kennen.\nMidday: Eine kurze Fahrt bringt uns zu den historischen Denkmälern der Unabhängigkeit.\nAfternoon: Wir erkunden die kulturellen Pavillons und modernen Theater, die sich über die Stadtteile verteilen.\nEvening: Der Ausflug endet beeindruckend an einer alten Pyramidenstätte.",
+        "hu": "Morning: Autóval kényelmesen bejárjuk a központ múzeumait, megismerve a művészetet és a helyi édességeket.\nMidday: Egy rövid vezetés után elérjük a függetlenség történelmi emlékműveit.\nAfternoon: Felfedezzük a város különböző pontjain található kulturális pavilonokat és modern színházakat.\nEvening: A kirándulás lenyűgöző módon egy ősi piramisnál ér véget.",
+        "ro": "Morning: Cu mașina acoperim confortabil muzeele din centru, aflând despre arta și tradițiile dulciurilor din Morelia.\nMidday: O scurtă plimbare ne aduce la monumentele istorice ale independenței.\nAfternoon: Explorăm pavilioanele culturale și teatrele moderne răspândite prin oraș.\nEvening: Excursia se încheie impresionant la o veche structură piramidală.",
+        "en": "Morning: By car, we comfortably cover the museums in the center, learning about the art and confectionery traditions of Morelia.\nMidday: A short drive brings us to the historic monuments of independence.\nAfternoon: We explore the cultural pavilions and modern theaters spread across the districts.\nEvening: The excursion concludes impressively at an ancient pyramid site."
+      }
+    }
+  }
+}

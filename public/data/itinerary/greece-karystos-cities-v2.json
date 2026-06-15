@@ -1,0 +1,451 @@
+{
+  "city_id": "greece-karystos-cities-v2",
+  "anchor": {
+    "name": "Karystos",
+    "coords": [
+      24.420275,
+      38.015792
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:21",
+      "total_km": 2.33,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Karystos",
+            "hu": "Karystos Városháza",
+            "ro": "Primăria Karystos",
+            "en": "Karystos Town Hall"
+          },
+          "coords": [
+            24.420175,
+            38.015906
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neoklassizistische Architektur des Rathauses, das den zentralen Platz dominiert, und holen Sie sich einen schnellen Kaffee in einem nahegelegenen Café.",
+            "hu": "Csodálja meg a központi teret uraló neoklasszicista városháza építészetét, és igyon egy gyors kávét a közeli kávézók egyikében, hogy átérezze a helyi hangulatot.",
+            "ro": "Admirați arhitectura neoclasică a primăriei care domină piața centrală și savurați o cafea rapidă la o cafenea din apropiere pentru a simți vibrația locală a dimineții.",
+            "en": "Admire the neoclassical architecture of the town hall that dominates the central square, and grab a quick coffee at a nearby cafe to feel the local morning vibe."
+          }
+        },
+        {
+          "name": {
+            "de": "Mausoleum des Prokurators",
+            "hu": "Procurator Mauzóleuma",
+            "ro": "Mausoleul Procuratorului",
+            "en": "Procurator's Mausoleum"
+          },
+          "coords": [
+            24.418782,
+            38.01416
+          ],
+          "category": "historical",
+          "arrive_at": "09:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses gut erhaltene römische Mausoleum, um den antiken Wohlstand der Gegend zu verstehen, und achten Sie auf die aufwendigen architektonischen Details.",
+            "hu": "Fedezze fel ezt a jól megőrzött római mauzóleumot, amely a környék ókori jólétéről tanúskodik, és figyelje meg a homlokzat bonyolult építészeti részleteit.",
+            "ro": "Explorați acest mausoleu roman bine conservat pentru a înțelege prosperitatea antică a zonei, fiind atenți la detaliile arhitecturale complexe de pe fațadă.",
+            "en": "Explore this well-preserved Roman mausoleum to understand the area's ancient prosperity, keeping an eye out for the intricate architectural details on the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum von Karystos",
+            "hu": "Karystos Régészeti Múzeuma",
+            "ro": "Muzeul Arheologic din Karystos",
+            "en": "Archeological Museum of Karystos"
+          },
+          "coords": [
+            24.422321,
+            38.013387
+          ],
+          "category": "museum",
+          "arrive_at": "11:04",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem kompakten Museum faszinierende Artefakte aus den Drachenhäusern und lokalen Tempeln, wobei ein frühes Erscheinen die größten Gruppen vermeidet.",
+            "hu": "Fedezze fel a Sárkányházak és a helyi templomok lenyűgöző leleteit ebben a kompakt múzeumban, ahová érdemes korán érkezni a nagyobb turistacsoportok elkerülése végett.",
+            "ro": "Descoperiți artefacte fascinante din Casele Dragonului și templele locale în acest muzeu compact, unde sosirea devreme vă ajută să evitați cele mai aglomerate grupuri.",
+            "en": "Discover fascinating artifacts from the Dragon Houses and local temples in this compact museum, where arriving early helps you avoid the busiest tourist groups."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm Pharos",
+            "hu": "Pharos Világítótorony",
+            "ro": "Farul Pharos",
+            "en": "Pharos Lighthouse"
+          },
+          "coords": [
+            24.414972,
+            38.010551
+          ],
+          "category": "landmark",
+          "arrive_at": "12:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.72,
+          "tip_5lang": {
+            "de": "Machen Sie einen Spaziergang zum historischen Leuchtturm, der die Hafeneinfahrt bewacht, und nutzen Sie das fantastische Nachmittagslicht für wunderschöne Urlaubsfotos.",
+            "hu": "Sétáljon el a kikötő bejáratát őrző történelmi világítótoronyhoz, ahonnan fantasztikus fotókat készíthet, különösen akkor, amikor a délutáni fény megvilágítja az öblöt.",
+            "ro": "Faceți o plimbare până la farul istoric care păzește intrarea în port pentru fotografii fantastice, mai ales când lumina după-amiezii luminează spectaculos golful.",
+            "en": "Take a stroll to the historic lighthouse guarding the harbor entrance for fantastic photo opportunities, especially when the afternoon light illuminates the bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Psile Ammos",
+            "hu": "Psile Ammos Strand",
+            "ro": "Plaja Psile Ammos",
+            "en": "Psile Ammos Beach"
+          },
+          "coords": [
+            24.426787,
+            38.012721
+          ],
+          "category": "recreational",
+          "arrive_at": "13:36",
+          "stay_min": 105,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.05,
+          "tip_5lang": {
+            "de": "Entspannen Sie am feinen Sand dieses beliebten zentralen Strandes mit kristallklarem, flachem Wasser, ideal für ein erfrischendes Bad und bequeme Sonnenliegen.",
+            "hu": "Pihenjen e népszerű központi strand finom homokján és kristálytiszta, sekély vizében, amely tökéletes egy frissítő úszáshoz, miközben napágyat is bérelhet a kényelemért.",
+            "ro": "Relaxați-vă pe nisipul fin al acestei plaje centrale cu ape limpezi și puțin adânci, perfectă pentru o baie revigorantă și pentru a închiria un șezlong confortabil.",
+            "en": "Relax on the fine sands of this popular central beach with crystal-clear shallow waters, perfect for a refreshing swim and renting a sunbed for ultimate comfort."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im lebhaften Stadtzentrum mit dem Rathaus und den antiken Geheimnissen des Mausoleums. Die Mittagszeit führt uns in das Archäologische Museum, wo die reiche Geschichte von Südevia enthüllt wird. Am Nachmittag bringt uns ein gemütlicher Spaziergang zum historischen Pharos am Hafen. Wenn der Abend naht, bietet der feine Sand von Psile Ammos den perfekten Ort, um zu schwimmen und den Sonnenuntergang über Karystos zu beobachten.",
+        "hu": "A reggel a nyüzsgő városközpontban kezdődik a városháza és a mauzóleum ókori titkainak felfedezésével. A délidő a Régészeti Múzeumba vezet, amely lenyűgöző leleteken keresztül tárja fel Dél-Évia gazdag történelmét. Délután egy kényelmes séta visz el minket a történelmi világítótoronyhoz. Ahogy közeledik az este, a Psile Ammos finom homokja tökéletes helyszínt kínál a pihenésre, úszásra és a naplemente megcsodálására.",
+        "ro": "Dimineața începe în centrul vibrant, explorând primăria neoclasică și secretele antice de la Mausoleul Procuratorului. Amiaza ne conduce la Muzeul Arheologic, dezvăluind istoria bogată a Eviei de sud. După-amiaza, o plimbare liniștită ne aduce la Farul istoric care păzește portul. Pe măsură ce se apropie seara, nisipul fin de la Psile Ammos oferă locul perfect pentru relaxare, înot și pentru a privi apusul de soare.",
+        "en": "Morning begins in the vibrant town center, exploring the neoclassical town hall and uncovering ancient secrets at the Procurator's Mausoleum. Midday leads us to the Archeological Museum, revealing the rich history of southern Evia through fascinating artifacts. In the afternoon, a leisurely stroll brings us to the historic Pharos guarding the harbor. As evening approaches, the fine sands of Psile Ammos offer the perfect place to relax, swim, and watch the sunset over Karystos."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 5.38,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Karystos",
+            "hu": "Karystos Városháza",
+            "ro": "Primăria Karystos",
+            "en": "Karystos Town Hall"
+          },
+          "coords": [
+            24.420175,
+            38.015906
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neoklassizistische Architektur des Rathauses, das den zentralen Platz dominiert, und holen Sie sich einen schnellen Kaffee in einem nahegelegenen Café.",
+            "hu": "Csodálja meg a központi teret uraló neoklasszicista városháza építészetét, és igyon egy gyors kávét a közeli kávézók egyikében, hogy átérezze a helyi hangulatot.",
+            "ro": "Admirați arhitectura neoclasică a primăriei care domină piața centrală și savurați o cafea rapidă la o cafenea din apropiere pentru a simți vibrația locală a dimineții.",
+            "en": "Admire the neoclassical architecture of the town hall that dominates the central square, and grab a quick coffee at a nearby cafe to feel the local morning vibe."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum von Karystos",
+            "hu": "Karystos Régészeti Múzeuma",
+            "ro": "Muzeul Arheologic din Karystos",
+            "en": "Archeological Museum of Karystos"
+          },
+          "coords": [
+            24.422321,
+            38.013387
+          ],
+          "category": "museum",
+          "arrive_at": "09:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem kompakten Museum faszinierende Artefakte aus den Drachenhäusern und lokalen Tempeln, wobei ein frühes Erscheinen die größten Gruppen vermeidet.",
+            "hu": "Fedezze fel a Sárkányházak és a helyi templomok lenyűgöző leleteit ebben a kompakt múzeumban, ahová érdemes korán érkezni a nagyobb turistacsoportok elkerülése végett.",
+            "ro": "Descoperiți artefacte fascinante din Casele Dragonului și templele locale în acest muzeu compact, unde sosirea devreme vă ajută să evitați cele mai aglomerate grupuri.",
+            "en": "Discover fascinating artifacts from the Dragon Houses and local temples in this compact museum, where arriving early helps you avoid the busiest tourist groups."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Gallida",
+            "hu": "Gallida Strand",
+            "ro": "Plaja Gallida",
+            "en": "Gallida Beach"
+          },
+          "coords": [
+            24.401917,
+            38.009265
+          ],
+          "category": "recreational",
+          "arrive_at": "11:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.85,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen an diesem ruhigen westlichen Strand mit hervorragenden Schwimmbedingungen, und vergessen Sie nicht, Wasser und Snacks mitzubringen.",
+            "hu": "Meneküljön el a tömeg elől ezen a békés nyugati strandon, amely kiváló fürdési feltételeket kínál, de ne felejtsen el vizet és rágcsálnivalót vinni magával.",
+            "ro": "Scăpați de aglomerație pe această plajă liniștită din vest, care oferă condiții excelente de înot, și nu uitați să luați apă și gustări deoarece facilitățile sunt limitate.",
+            "en": "Escape the crowds at this peaceful western beach area offering excellent swimming conditions, and don't forget to pack some water and snacks as facilities are limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Kremala",
+            "hu": "Kremala",
+            "ro": "Kremala",
+            "en": "Kremala"
+          },
+          "coords": [
+            24.411596,
+            38.012115
+          ],
+          "category": "recreational",
+          "arrive_at": "12:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.91,
+          "tip_5lang": {
+            "de": "Genießen Sie eine Pause an diesem malerischen Ort, an dem viel Grün auf die Küste trifft, was ihn zu einem wunderbaren Platz für ein kleines Picknick am Meer macht.",
+            "hu": "Élvezze a kellemes pihenést ezen a festői helyen, ahol a helyi növényzet találkozik a parttal, így tökéletes helyszín egy kis olvasáshoz vagy egy tengerparti piknikhez.",
+            "ro": "Bucurați-vă de o pauză plăcută în acest loc pitoresc unde verdeața întâlnește coasta, fiind o locație minunată pentru a citi o carte sau a face un picnic rapid la mare.",
+            "en": "Enjoy a pleasant break at this picturesque spot where local greenery meets the coast, making it a wonderful location to read a book or have a quick seaside picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm Pharos",
+            "hu": "Pharos Világítótorony",
+            "ro": "Farul Pharos",
+            "en": "Pharos Lighthouse"
+          },
+          "coords": [
+            24.414972,
+            38.010551
+          ],
+          "category": "landmark",
+          "arrive_at": "14:04",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.34,
+          "tip_5lang": {
+            "de": "Machen Sie einen Spaziergang zum historischen Leuchtturm, der die Hafeneinfahrt bewacht, und nutzen Sie das fantastische Nachmittagslicht für wunderschöne Urlaubsfotos.",
+            "hu": "Sétáljon el a kikötő bejáratát őrző történelmi világítótoronyhoz, ahonnan fantasztikus fotókat készíthet, különösen akkor, amikor a délutáni fény megvilágítja az öblöt.",
+            "ro": "Faceți o plimbare până la farul istoric care păzește intrarea în port pentru fotografii fantastice, mai ales când lumina după-amiezii luminează spectaculos golful.",
+            "en": "Take a stroll to the historic lighthouse guarding the harbor entrance for fantastic photo opportunities, especially when the afternoon light illuminates the bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Agios Antonios",
+            "hu": "Agios Antonios Strand",
+            "ro": "Plaja Agios Antonios",
+            "en": "Agios Antonios Beach"
+          },
+          "coords": [
+            24.436561,
+            38.008078
+          ],
+          "category": "recreational",
+          "arrive_at": "14:40",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.95,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen malerischen östlichen Strandabschnitt, um eine abgelegenere Küste zu erleben, und bringen Sie Ihre Schnorchelausrüstung für die Unterwasserwelt mit.",
+            "hu": "Látogasson el erre a festői keleti strandra, ahol egy elszigeteltebb partszakaszt tapasztalhat meg, és mindenképpen hozzon magával búvárfelszerelést a sziklák felfedezéséhez.",
+            "ro": "Vizitați această plajă pitorească din est pentru a experimenta o coastă mai izolată, aducând cu dumneavoastră echipamentul de snorkeling pentru a explora stâncile.",
+            "en": "Visit this scenic eastern beach area to experience a more secluded shoreline, bringing along your snorkeling gear to explore the vibrant underwater life near the rocks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour am zentralen Demarkheio, bevor Sie im Archäologischen Museum in die antike Vergangenheit eintauchen. Mittags radeln Sie nach Westen zu den ruhigen Ufern von Gallida und dem malerischen Kremala. Der Nachmittag bringt Sie zurück zum belebten Hafen, um den historischen Pharos zu bewundern. Beenden Sie Ihren aktiven Tag am schönen Strand von Agios Antonios, während Sie die Küstenbrise und ein spätes Bad genießen.",
+        "hu": "Kezdje a kerékpártúrát a központi Demarkheiónál, mielőtt elmerülne a régió ókori múltjában a Régészeti Múzeumban. Délben nyugatra teker a békés Gallida partjai és Kremala festői zöldje felé. A délután egy kellemes tekeréssel folytatódik vissza a kikötőbe, hogy megcsodálja a Pharost. Zárja aktív napját a festői Agios Antonios strandon, élvezve a tengerparti szellőt és egy késő délutáni frissítő úszást a tiszta vízben.",
+        "ro": "Începeți turul cu bicicleta la Demarkheio central înainte de a pătrunde în trecutul antic al regiunii la Muzeul Arheologic. La amiază pedalați spre vest spre țărmurile senine din Gallida și verdeața din Kremala. După-amiaza continuă cu o plimbare ușoară înapoi spre portul plin de viață pentru a admira Pharos-ul istoric. Încheiați ziua activă la plaja pitorească Agios Antonios, bucurându-vă de briza de coastă și de o baie revigorantă.",
+        "en": "Kick off your cycling tour at the central Demarkheio before diving into the region's ancient past at the nearby Archeological Museum. Midday finds you pedaling west to the serene shores of Gallida and the picturesque greenery of Kremala. The afternoon continues with a gentle ride back toward the bustling harbor to admire the historic Pharos. Conclude your active day at the scenic Agios Antonios beach, enjoying the coastal breeze and a refreshing late swim."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:48",
+      "total_km": 6.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Castello Rosso",
+            "hu": "Castello Rosso",
+            "ro": "Castello Rosso",
+            "en": "Castello Rosso"
+          },
+          "coords": [
+            24.431406,
+            38.034814
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Wandern Sie zur imposanten Roten Burg hinauf, um mittelalterliche Festungen und atemberaubende Panoramablicke zu genießen, aber tragen Sie unbedingt festes Schuhwerk.",
+            "hu": "Túrázzon fel az impozáns Vörös Kastélyhoz, fedezze fel a középkori erődítményeket, és élvezze az öbölre nyíló lélegzetelállító panorámát, de viseljen masszív cipőt.",
+            "ro": "Urcați până la impunătorul Castel Roșu pentru a descoperi fortificațiile medievale și bucurați-vă de vederi panoramice uluitoare, dar purtați încălțăminte rezistentă.",
+            "en": "Hike up to the imposing Red Castle to discover medieval fortifications and enjoy breathtaking panoramic views of Karystos bay, but wear sturdy shoes for the uneven path."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Aquädukt",
+            "hu": "Római Vízvezeték",
+            "ro": "Apeductul Roman",
+            "en": "Roman Aqueduct"
+          },
+          "coords": [
+            24.430893,
+            38.036551
+          ],
+          "category": "landmark",
+          "arrive_at": "10:31",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die verbliebenen Bögen des römischen Aquädukts, das die Stadt einst mit frischem Bergwasser versorgte, ein kurzer Abstecher, der sich definitiv lohnt.",
+            "hu": "Csodálja meg a római vízvezeték megmaradt boltíveit, amely egykor friss hegyi vízzel látta el a várost, egy rövid kitérő, amelyet az építészet szerelmeseinek érdemes megtenni.",
+            "ro": "Admirați arcadele rămase ale Apeductului Roman care alimenta odinioară orașul cu apă proaspătă de munte, un scurt ocol care merită făcut de pasionații de istorie.",
+            "en": "Marvel at the remaining arches of the Roman Aqueduct that once supplied the city with fresh mountain water, a short detour worth taking for architecture enthusiasts."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Karystos",
+            "hu": "Karystos Városháza",
+            "ro": "Primăria Karystos",
+            "en": "Karystos Town Hall"
+          },
+          "coords": [
+            24.420175,
+            38.015906
+          ],
+          "category": "historical",
+          "arrive_at": "11:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neoklassizistische Architektur des Rathauses, das den zentralen Platz dominiert, und holen Sie sich einen schnellen Kaffee in einem nahegelegenen Café.",
+            "hu": "Csodálja meg a központi teret uraló neoklasszicista városháza építészetét, és igyon egy gyors kávét a közeli kávézók egyikében, hogy átérezze a helyi hangulatot.",
+            "ro": "Admirați arhitectura neoclasică a primăriei care domină piața centrală și savurați o cafea rapidă la o cafenea din apropiere pentru a simți vibrația locală a dimineții.",
+            "en": "Admire the neoclassical architecture of the town hall that dominates the central square, and grab a quick coffee at a nearby cafe to feel the local morning vibe."
+          }
+        },
+        {
+          "name": {
+            "de": "Mausoleum des Prokurators",
+            "hu": "Procurator Mauzóleuma",
+            "ro": "Mausoleul Procuratorului",
+            "en": "Procurator's Mausoleum"
+          },
+          "coords": [
+            24.418782,
+            38.01416
+          ],
+          "category": "historical",
+          "arrive_at": "12:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses gut erhaltene römische Mausoleum, um den antiken Wohlstand der Gegend zu verstehen, und achten Sie auf die aufwendigen architektonischen Details.",
+            "hu": "Fedezze fel ezt a jól megőrzött római mauzóleumot, amely a környék ókori jólétéről tanúskodik, és figyelje meg a homlokzat bonyolult építészeti részleteit.",
+            "ro": "Explorați acest mausoleu roman bine conservat pentru a înțelege prosperitatea antică a zonei, fiind atenți la detaliile arhitecturale complexe de pe fațadă.",
+            "en": "Explore this well-preserved Roman mausoleum to understand the area's ancient prosperity, keeping an eye out for the intricate architectural details on the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Agios Athanasios",
+            "hu": "Agios Athanasios Strand",
+            "ro": "Plaja Agios Athanasios",
+            "en": "Agios Athanasios Beach"
+          },
+          "coords": [
+            24.43953,
+            38.007461
+          ],
+          "category": "recreational",
+          "arrive_at": "13:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die Sonne an diesem hübschen Küstenort, der natürliche Schönheit mit leichter Erreichbarkeit verbindet, und kommen Sie am Nachmittag für die besten Schattenplätze.",
+            "hu": "Szívja magába a napsugarakat ezen a bájos tengerparti helyen, amely tökéletesen ötvözi a természetes szépséget a könnyű megközelíthetőséggel, ha árnyékot is szeretne.",
+            "ro": "Bucurați-vă de soare în acest loc minunat de coastă care echilibrează perfect frumusețea naturală cu accesibilitatea, sosind la mijlocul după-amiezii pentru umbră.",
+            "en": "Soak up the sun at this lovely coastal spot that perfectly balances natural beauty with easy accessibility, arriving mid-afternoon to secure the best shady spots."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Marmara",
+            "hu": "Marmara Strand",
+            "ro": "Plaja Marmara",
+            "en": "Marmara Beach"
+          },
+          "coords": [
+            24.444221,
+            38.005834
+          ],
+          "category": "recreational",
+          "arrive_at": "15:03",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihr Strand-Hopping in Marmara, bekannt für seine marmorähnlichen Felsformationen und die friedliche Atmosphäre, ideal für einen ruhigen Spaziergang bei Sonnenuntergang.",
+            "hu": "Zárja a strandolást a márványszerű sziklaképződményeiről és békés légköréről ismert Marmarában, amely ideális egy nyugodt naplementés sétához a lágy hullámok mentén.",
+            "ro": "Încheiați-vă turul plajelor la Marmara, cunoscută pentru formațiunile sale stâncoase asemănătoare marmurei, ideală pentru o plimbare liniștită la apus de soare.",
+            "en": "Conclude your beach hopping at Marmara, known for its marble-like rock formations and serene atmosphere, ideal for a peaceful sunset walk along the gentle waves."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie in die Berge, um den Tag am imposanten Castello Rosso zu beginnen, gefolgt von einem Besuch der Bögen des römischen Aquädukts. Mittags kehren Sie ins lebhafte Stadtzentrum zurück, um das majestätische Rathaus und das Mausoleum zu erkunden. Am Nachmittag fahren Sie entlang der Küste nach Osten zum einladenden Strand Agios Athanasios. Beenden Sie Ihren Roadtrip im ruhigen Marmara und beobachten Sie den farbenprächtigen Sonnenuntergang.",
+        "hu": "Autózzon fel a hegyekbe, és kezdje a napot az impozáns Vörös Kastélynál, majd tegyen egy rövid látogatást a római vízvezetékhez. Délben visszatér a nyüzsgő városközpontba, hogy felfedezze a városházát és a mauzóleum romjait. Délután induljon kelet felé a gyönyörű partvonal mentén, és pihenjen a hívogató Agios Athanasios strandon. Fejezze be útját a békés Marmarában, figyelve a naplemente élénk színeit az Égei-tenger felett.",
+        "ro": "Conduceți pe dealuri pentru a începe ziua la impunătorul Castello Rosso, urmat de o scurtă vizită la arcadele Apeductului Roman. Amiaza vă aduce înapoi în centrul orașului pentru a explora grandiosul Demarkheio și ruinele Mausoleului. După-amiaza, mergeți spre est de-a lungul coastei frumoase pentru a vă relaxa la plaja primitoare Agios Athanasios. Încheiați-vă călătoria la Marmara, privind apusul care aruncă culori vibrante peste Marea Egee.",
+        "en": "Drive up the hills to start your day at the imposing Castello Rosso, followed by a quick visit to the impressive arches of the Roman Aqueduct. Midday brings you back down to the lively town center to explore the grand Demarkheio and the ruins of the Procurator's Mausoleum. In the afternoon, head east along the beautiful coastline to relax at the inviting Agios Athanasios beach. End your road trip at the serene Marmara, watching the sunset cast vibrant colors over the Aegean Sea."
+      }
+    }
+  }
+}

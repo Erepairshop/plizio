@@ -1,0 +1,497 @@
+{
+  "city_id": "spain-l-hospitalet-de-l-infant-cities-v2",
+  "anchor": {
+    "name": "l'Hospitalet de l'Infant",
+    "coords": [
+      0.92173,
+      40.99163
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:32",
+      "total_km": 4.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Centre de Visitants de l'Hospital del Coll de Balaguer",
+            "hu": "Centre de Visitants de l'Hospital del Coll de Balaguer",
+            "ro": "Centre de Visitants de l'Hospital del Coll de Balaguer",
+            "en": "Centre de Visitants de l'Hospital del Coll de Balaguer"
+          },
+          "coords": [
+            0.922023,
+            40.991885
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die mittelalterlichen Wurzeln der Stadt in diesem wunderschön restaurierten Heiligtum, aber prüfen Sie vorab die Öffnungszeiten online.",
+            "hu": "Fedezze fel a város középkori gyökereit ebben a gyönyörűen felújított szentélyben, de látogatás előtt mindenképpen ellenőrizze az online nyitvatartást.",
+            "ro": "Descoperiți rădăcinile medievale ale orașului în acest sanctuar frumos restaurat, dar asigurați-vă că verificați programul online înainte de a vizita.",
+            "en": "Discover the medieval roots of the town inside this beautifully restored sanctuary, but make sure to check their opening hours online before visiting."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de l'Arenal",
+            "hu": "Platja de l'Arenal",
+            "ro": "Platja de l'Arenal",
+            "en": "Platja de l'Arenal"
+          },
+          "coords": [
+            0.911886,
+            40.984358
+          ],
+          "category": "recreational",
+          "arrive_at": "11:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten, goldenen Sand und das flache Wasser, ideal für Familien, und mieten Sie früh ein Paddleboard, um Ihre Ausrüstung zu sichern.",
+            "hu": "Élvezze a tágas aranyhomokot és a sekély vizet, amely tökéletes a családoknak, és béreljen korán paddleboardot, hogy biztosítsa a felszerelést.",
+            "ro": "Bucurați-vă de nisipurile aurii și apele puțin adânci, perfecte pentru familii, și închiriați o placă cu vâsle devreme pentru a vă asigura echipamentul.",
+            "en": "Enjoy the expansive golden sands and shallow waters perfect for family fun, and rent a paddleboard early to secure your equipment for the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de la Punta del Riu",
+            "hu": "Platja de la Punta del Riu",
+            "ro": "Platja de la Punta del Riu",
+            "en": "Platja de la Punta del Riu"
+          },
+          "coords": [
+            0.930564,
+            40.990934
+          ],
+          "category": "recreational",
+          "arrive_at": "12:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich, wo der Fluss ins Meer mündet, um die Artenvielfalt zu erleben, und bringen Sie Mückenspray mit, wenn Sie bis zum späten Nachmittag bleiben.",
+            "hu": "Pihenjen ott, ahol a folyó a tengerbe ömlik az egyedülálló biológiai sokféleségért, és hozzon magával szúnyogriasztót, ha késő délutánig maradna.",
+            "ro": "Relaxați-vă unde râul întâlnește marea pentru a vedea biodiversitatea unică și aduceți un spray împotriva țânțarilor dacă stați până după-amiaza.",
+            "en": "Relax where the river meets the sea to experience unique wetland biodiversity, and bring some mosquito repellent if you plan to stay until late afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de la Punta del Riu",
+            "hu": "Mirador de la Punta del Riu",
+            "ro": "Mirador de la Punta del Riu",
+            "en": "Mirador de la Punta del Riu"
+          },
+          "coords": [
+            0.931749,
+            40.992887
+          ],
+          "category": "natural",
+          "arrive_at": "14:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie von dieser erhöhten Holzplattform den Panoramablick auf die Feuchtgebiete der Küste und halten Sie Ihre Kamera für Vogelbeobachtungen bereit.",
+            "hu": "Élvezze a tengerparti vizes élőhelyek lenyűgöző panorámáját erről a faplatóró, és készítse elő fényképezőgépét a látványos madármegfigyeléshez.",
+            "ro": "Admirați priveliștile panoramice ale zonelor umede de pe această platformă de lemn și pregătiți camera foto pentru o sesiune spectaculoasă de birdwatching.",
+            "en": "Take in stunning panoramic views of the coastal wetlands from this elevated wooden platform, and have your camera ready for the spectacular birdwatching."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de Cristall",
+            "hu": "Platja de Cristall",
+            "ro": "Platja de Cristall",
+            "en": "Platja de Cristall"
+          },
+          "coords": [
+            0.935151,
+            40.998025
+          ],
+          "category": "recreational",
+          "arrive_at": "14:47",
+          "stay_min": 105,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schwimmen Sie in dem kristallklaren Wasser, das diesem Strand seinen Namen gab, und kommen Sie vor Sonnenuntergang, um einen Platz an der Promenade zu sichern.",
+            "hu": "Ússzon a kristálytiszta vízben, amely erről a népszerű strandról kapta a nevét, és érkezzen naplemente előtt, hogy az első sorból csodálhassa a sétányt.",
+            "ro": "Înotați în apele cristaline care dau numele acestei plaje populare și ajungeți înainte de apus pentru a prinde un loc excelent lângă promenada plină de viață.",
+            "en": "Swim in the crystal-clear waters that give this popular beach its glowing name, and arrive before sunset to grab a front-row spot near the lively promenade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der Erkundung des faszinierenden historischen Krankenhauses, das der Stadt ihren Namen gab. Mittags schlendern Sie zur Platja de l'Arenal für einen ersten Vorgeschmack auf das Mittelmeer. Am Nachmittag spazieren Sie zur Flussmündung und genießen die Aussicht vom Mirador de la Punta del Riu. Beenden Sie den Tag entspannt am Strand der Platja de Cristall.",
+        "hu": "Kezdje a reggelt a lenyűgöző történelmi kórház felfedezésével, amelyről a város a nevét kapta. Délben tegyen egy pihentető sétát a Platja de l'Arenal partján, és élvezze a Földközi-tenger hangulatát. Délután induljon a folyótorkolat felé, ahol a Mirador de la Punta del Riu kilátójából csodálatos panoráma tárul elé. Zárja a napot a Platja de Cristall aranyhomokos partján pihenve.",
+        "ro": "Începeți dimineața explorând fascinantul spital istoric care a dat numele orașului. La prânz, faceți o plimbare relaxantă spre Platja de l'Arenal pentru a simți briza Mediteranei. După-amiaza, îndreptați-vă spre gura de vărsare a râului, bucurându-vă de peisajele panoramice de la Mirador de la Punta del Riu. Încheiați ziua relaxându-vă pe nisipurile aurii de la Platja de Cristall.",
+        "en": "Start your morning exploring the fascinating historical hospital that gave the town its name. By midday, take a relaxing stroll down to Platja de l'Arenal for your first taste of the Mediterranean. In the afternoon, head towards the river mouth, enjoying the scenic views from Mirador de la Punta del Riu. End your coastal walk by unwinding on the golden sands of Platja de Cristall."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:42",
+      "total_km": 7.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Centre de Visitants de l'Hospital del Coll de Balaguer",
+            "hu": "Centre de Visitants de l'Hospital del Coll de Balaguer",
+            "ro": "Centre de Visitants de l'Hospital del Coll de Balaguer",
+            "en": "Centre de Visitants de l'Hospital del Coll de Balaguer"
+          },
+          "coords": [
+            0.922023,
+            40.991885
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die mittelalterlichen Wurzeln der Stadt in diesem wunderschön restaurierten Heiligtum, aber prüfen Sie vorab die Öffnungszeiten online.",
+            "hu": "Fedezze fel a város középkori gyökereit ebben a gyönyörűen felújított szentélyben, de látogatás előtt mindenképpen ellenőrizze az online nyitvatartást.",
+            "ro": "Descoperiți rădăcinile medievale ale orașului în acest sanctuar frumos restaurat, dar asigurați-vă că verificați programul online înainte de a vizita.",
+            "en": "Discover the medieval roots of the town inside this beautifully restored sanctuary, but make sure to check their opening hours online before visiting."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala d'Oques",
+            "hu": "Cala d'Oques",
+            "ro": "Cala d'Oques",
+            "en": "Cala d'Oques"
+          },
+          "coords": [
+            0.903663,
+            40.977217
+          ],
+          "category": "recreational",
+          "arrive_at": "11:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Menschenmassen in dieser ruhigen, von Kiefern umgebenen Bucht, und bringen Sie Wasser und Snacks mit, da die Einrichtungen begrenzt sind.",
+            "hu": "Meneküljön el a tömeg elől ebben a fenyőkkel körülvett csendes természeti öbölben, és hozzon vizet és nassolnivalót, mivel a szolgáltatások korlátozottak.",
+            "ro": "Scăpați de aglomerație în acest golf natural liniștit, înconjurat de pini, și aduceți apă și gustări, deoarece facilitățile de aici sunt destul de limitate.",
+            "en": "Escape the crowds at this tranquil natural cove surrounded by rugged pines, and make sure to bring your own water and snacks as facilities are quite limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de l'Arenal",
+            "hu": "Platja de l'Arenal",
+            "ro": "Platja de l'Arenal",
+            "en": "Platja de l'Arenal"
+          },
+          "coords": [
+            0.911886,
+            40.984358
+          ],
+          "category": "recreational",
+          "arrive_at": "12:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten, goldenen Sand und das flache Wasser, ideal für Familien, und mieten Sie früh ein Paddleboard, um Ihre Ausrüstung zu sichern.",
+            "hu": "Élvezze a tágas aranyhomokot és a sekély vizet, amely tökéletes a családoknak, és béreljen korán paddleboardot, hogy biztosítsa a felszerelést.",
+            "ro": "Bucurați-vă de nisipurile aurii și apele puțin adânci, perfecte pentru familii, și închiriați o placă cu vâsle devreme pentru a vă asigura echipamentul.",
+            "en": "Enjoy the expansive golden sands and shallow waters perfect for family fun, and rent a paddleboard early to secure your equipment for the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de la Punta del Riu",
+            "hu": "Platja de la Punta del Riu",
+            "ro": "Platja de la Punta del Riu",
+            "en": "Platja de la Punta del Riu"
+          },
+          "coords": [
+            0.930564,
+            40.990934
+          ],
+          "category": "recreational",
+          "arrive_at": "13:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich, wo der Fluss ins Meer mündet, um die Artenvielfalt zu erleben, und bringen Sie Mückenspray mit, wenn Sie bis zum späten Nachmittag bleiben.",
+            "hu": "Pihenjen ott, ahol a folyó a tengerbe ömlik az egyedülálló biológiai sokféleségért, és hozzon magával szúnyogriasztót, ha késő délutánig maradna.",
+            "ro": "Relaxați-vă unde râul întâlnește marea pentru a vedea biodiversitatea unică și aduceți un spray împotriva țânțarilor dacă stați până după-amiaza.",
+            "en": "Relax where the river meets the sea to experience unique wetland biodiversity, and bring some mosquito repellent if you plan to stay until late afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de la Punta del Riu",
+            "hu": "Mirador de la Punta del Riu",
+            "ro": "Mirador de la Punta del Riu",
+            "en": "Mirador de la Punta del Riu"
+          },
+          "coords": [
+            0.931749,
+            40.992887
+          ],
+          "category": "natural",
+          "arrive_at": "15:07",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie von dieser erhöhten Holzplattform den Panoramablick auf die Feuchtgebiete der Küste und halten Sie Ihre Kamera für Vogelbeobachtungen bereit.",
+            "hu": "Élvezze a tengerparti vizes élőhelyek lenyűgöző panorámáját erről a faplatóró, és készítse elő fényképezőgépét a látványos madármegfigyeléshez.",
+            "ro": "Admirați priveliștile panoramice ale zonelor umede de pe această platformă de lemn și pregătiți camera foto pentru o sesiune spectaculoasă de birdwatching.",
+            "en": "Take in stunning panoramic views of the coastal wetlands from this elevated wooden platform, and have your camera ready for the spectacular birdwatching."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de Cristall",
+            "hu": "Platja de Cristall",
+            "ro": "Platja de Cristall",
+            "en": "Platja de Cristall"
+          },
+          "coords": [
+            0.935151,
+            40.998025
+          ],
+          "category": "recreational",
+          "arrive_at": "15:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schwimmen Sie in dem kristallklaren Wasser, das diesem Strand seinen Namen gab, und kommen Sie vor Sonnenuntergang, um einen Platz an der Promenade zu sichern.",
+            "hu": "Ússzon a kristálytiszta vízben, amely erről a népszerű strandról kapta a nevét, és érkezzen naplemente előtt, hogy az első sorból csodálhassa a sétányt.",
+            "ro": "Înotați în apele cristaline care dau numele acestei plaje populare și ajungeți înainte de apus pentru a prinde un loc excelent lângă promenada plină de viață.",
+            "en": "Swim in the crystal-clear waters that give this popular beach its glowing name, and arrive before sunset to grab a front-row spot near the lively promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala del Pescador",
+            "hu": "Cala del Pescador",
+            "ro": "Cala del Pescador",
+            "en": "Cala del Pescador"
+          },
+          "coords": [
+            0.939434,
+            41.004766
+          ],
+          "category": "recreational",
+          "arrive_at": "16:57",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie an dieser intimen felsigen Bucht ein abgeschiedenes Stück Mittelmeer und tragen Sie feste Wasserschuhe, um das Ufer bequem zu erkunden.",
+            "hu": "Fedezze fel a Földközi-tenger egy félreeső szeletét ebben a sziklás öbölben, és viseljen masszív vízi cipőt a kavicsos part kényelmes megközelítéséhez.",
+            "ro": "Descoperiți o felie retrasă de Mediterană în acest golf stâncos intim și purtați încălțăminte de apă rezistentă pentru a naviga confortabil pe țărmul pietros.",
+            "en": "Discover a secluded slice of the Mediterranean at this intimate rocky inlet, and wear sturdy water shoes to comfortably navigate the pebbly shoreline."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour mit der Geschichte des historischen Krankenhauses, bevor Sie in den Süden zur Cala d'Oques radeln. Mittags fahren Sie die Küste entlang zur Platja de l'Arenal und den Stränden der Flussmündung. Am Nachmittag genießen Sie die Aussicht vom Mirador de la Punta del Riu und radeln vorbei an der Platja de Cristall. Beenden Sie den Tag in der Bucht Cala del Pescador.",
+        "hu": "Kezdje a kerékpáros napot a történelmi kórház megismerésével, mielőtt délre tekerne a csendes Cala d'Oques felé. A déli órákban a parton haladva fedezze fel a Platja de l'Arenal és a folyótorkolat strandjait. Délután élvezze a kilátást a Mirador de la Punta del Riu-ról, majd tekerjen el a Platja de Cristall mellett. Zárja az aktív napot a félreeső Cala del Pescador tengeröbölben.",
+        "ro": "Începeți ziua de ciclism descoperind istoria la vechiul spital, apoi pedalați spre sud către liniștita Cala d'Oques. La prânz, mergeți de-a lungul coastei spre Platja de l'Arenal și plajele de la râu. După-amiaza, admirați priveliștea de la Mirador de la Punta del Riu și treceți pe lângă Platja de Cristall. Terminați traseul în golful retras Cala del Pescador.",
+        "en": "Kick off your cycling day learning about the town's origins at the ancient hospital before pedaling south to the quiet Cala d'Oques. Midday brings you back along the coast to Platja de l'Arenal and the river mouth beaches. During the afternoon, admire the vistas from Mirador de la Punta del Riu and cycle past Platja de Cristall. Conclude your ride at the secluded cove of Cala del Pescador."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:19",
+      "total_km": 7.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Centre de Visitants de l'Hospital del Coll de Balaguer",
+            "hu": "Centre de Visitants de l'Hospital del Coll de Balaguer",
+            "ro": "Centre de Visitants de l'Hospital del Coll de Balaguer",
+            "en": "Centre de Visitants de l'Hospital del Coll de Balaguer"
+          },
+          "coords": [
+            0.922023,
+            40.991885
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die mittelalterlichen Wurzeln der Stadt in diesem wunderschön restaurierten Heiligtum, aber prüfen Sie vorab die Öffnungszeiten online.",
+            "hu": "Fedezze fel a város középkori gyökereit ebben a gyönyörűen felújított szentélyben, de látogatás előtt mindenképpen ellenőrizze az online nyitvatartást.",
+            "ro": "Descoperiți rădăcinile medievale ale orașului în acest sanctuar frumos restaurat, dar asigurați-vă că verificați programul online înainte de a vizita.",
+            "en": "Discover the medieval roots of the town inside this beautifully restored sanctuary, but make sure to check their opening hours online before visiting."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Bea",
+            "hu": "Cala Bea",
+            "ro": "Cala Bea",
+            "en": "Cala Bea"
+          },
+          "coords": [
+            0.902415,
+            40.97691
+          ],
+          "category": "recreational",
+          "arrive_at": "10:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die unberührte Schönheit der Küste in diesem charmanten versteckten Winkel, aber parken Sie vorsichtig am Weg, um nicht im Sand steckenzubleiben.",
+            "hu": "Élvezze az érintetlen part menti szépséget ezen a bájos rejtett szakaszon, de parkoljon óvatosan a bekötőúton, nehogy elakadjon a mély homokban.",
+            "ro": "Bucurați-vă de frumusețea de coastă neatinsă în acest colț fermecător ascuns, dar parcați cu grijă de-a lungul drumului pentru a nu vă bloca în nisip.",
+            "en": "Soak up the unspoiled coastal beauty in this charming hidden corner of the coast, but park carefully along the access road to avoid getting stuck in the sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de l'Arenal",
+            "hu": "Platja de l'Arenal",
+            "ro": "Platja de l'Arenal",
+            "en": "Platja de l'Arenal"
+          },
+          "coords": [
+            0.911886,
+            40.984358
+          ],
+          "category": "recreational",
+          "arrive_at": "12:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten, goldenen Sand und das flache Wasser, ideal für Familien, und mieten Sie früh ein Paddleboard, um Ihre Ausrüstung zu sichern.",
+            "hu": "Élvezze a tágas aranyhomokot és a sekély vizet, amely tökéletes a családoknak, és béreljen korán paddleboardot, hogy biztosítsa a felszerelést.",
+            "ro": "Bucurați-vă de nisipurile aurii și apele puțin adânci, perfecte pentru familii, și închiriați o placă cu vâsle devreme pentru a vă asigura echipamentul.",
+            "en": "Enjoy the expansive golden sands and shallow waters perfect for family fun, and rent a paddleboard early to secure your equipment for the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de la Punta del Riu",
+            "hu": "Mirador de la Punta del Riu",
+            "ro": "Mirador de la Punta del Riu",
+            "en": "Mirador de la Punta del Riu"
+          },
+          "coords": [
+            0.931749,
+            40.992887
+          ],
+          "category": "natural",
+          "arrive_at": "13:33",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Genießen Sie von dieser erhöhten Holzplattform den Panoramablick auf die Feuchtgebiete der Küste und halten Sie Ihre Kamera für Vogelbeobachtungen bereit.",
+            "hu": "Élvezze a tengerparti vizes élőhelyek lenyűgöző panorámáját erről a faplatóró, és készítse elő fényképezőgépét a látványos madármegfigyeléshez.",
+            "ro": "Admirați priveliștile panoramice ale zonelor umede de pe această platformă de lemn și pregătiți camera foto pentru o sesiune spectaculoasă de birdwatching.",
+            "en": "Take in stunning panoramic views of the coastal wetlands from this elevated wooden platform, and have your camera ready for the spectacular birdwatching."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de Cristall",
+            "hu": "Platja de Cristall",
+            "ro": "Platja de Cristall",
+            "en": "Platja de Cristall"
+          },
+          "coords": [
+            0.935151,
+            40.998025
+          ],
+          "category": "recreational",
+          "arrive_at": "14:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schwimmen Sie in dem kristallklaren Wasser, das diesem Strand seinen Namen gab, und kommen Sie vor Sonnenuntergang, um einen Platz an der Promenade zu sichern.",
+            "hu": "Ússzon a kristálytiszta vízben, amely erről a népszerű strandról kapta a nevét, és érkezzen naplemente előtt, hogy az első sorból csodálhassa a sétányt.",
+            "ro": "Înotați în apele cristaline care dau numele acestei plaje populare și ajungeți înainte de apus pentru a prinde un loc excelent lângă promenada plină de viață.",
+            "en": "Swim in the crystal-clear waters that give this popular beach its glowing name, and arrive before sunset to grab a front-row spot near the lively promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Califòrnia",
+            "hu": "Cala Califòrnia",
+            "ro": "Cala Califòrnia",
+            "en": "Cala Califòrnia"
+          },
+          "coords": [
+            0.94079,
+            41.006515
+          ],
+          "category": "recreational",
+          "arrive_at": "15:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erleben Sie perfekte Ruhe an den Wellen in dieser wunderbar malerischen Felsbucht und packen Sie eine Schnorchelmaske ein, um die bunte Unterwasserwelt zu bewundern.",
+            "hu": "Tapasztalja meg a tökéletes nyugalmat a hullámok mellett ebben a festői sziklás öbölben, és csomagoljon be egy búvármaszkot a színes víz alatti élet csodálatához.",
+            "ro": "Experimentați liniștea perfectă lângă valuri în acest golf stâncos extrem de pitoresc și luați o mască de snorkeling pentru a admira viața subacvatică colorată.",
+            "en": "Experience perfect tranquility by the waves in this wonderfully picturesque rocky cove, and pack a light snorkeling mask to admire the colorful underwater life."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala de Santa Fé",
+            "hu": "Cala de Santa Fé",
+            "ro": "Cala de Santa Fé",
+            "en": "Cala de Santa Fé"
+          },
+          "coords": [
+            0.942211,
+            41.007803
+          ],
+          "category": "recreational",
+          "arrive_at": "16:34",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Lassen Sie in diesem atemberaubend isolierten Ort das sanfte Rauschen des Meeres auf sich wirken, und bringen Sie eine Matte mit, da das Ufer sehr felsig ist.",
+            "hu": "Hagyja, hogy a tenger lágy zúgása átmossa Önt ezen a lélegzetelállítóan elszigetelt helyen, és hozzon magával egy kényelmes matracot, mivel a part nagyon sziklás.",
+            "ro": "Lăsați sunetul blând al mării să vă relaxeze în acest loc izolat care îți taie respirația și aduceți o saltea confortabilă, deoarece țărmul este destul de stâncos.",
+            "en": "Let the gentle sound of the sea wash over you in this breathtakingly isolated spot, and bring a comfortable mat as the shoreline here is quite rocky."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie ins Zentrum, um das historische Krankenhaus zu besichtigen, und dann zur wunderschönen Cala Bea für ein morgendliches Bad. Genießen Sie eine entspannte Mittagspause an der Platja de l'Arenal, bevor Sie zum Aussichtspunkt am Fluss fahren. Verbringen Sie den Nachmittag mit Strand-Hopping von der Platja de Cristall zur Cala Califòrnia und enden Sie in der ruhigen Cala de Santa Fé.",
+        "hu": "Vezessen a központba a történelmi kórház felfedezéséhez, majd guruljon le a gyönyörű Cala Bea öbölhöz egy reggeli úszásra. Töltsön el egy kellemes déli pihenőt a Platja de l'Arenal-nál, mielőtt a folyó feletti kilátóhoz hajtana. A késő délutánt töltse strandolással a Platja de Cristall-tól a Cala Califòrnia-ig, és fejezze be útját a békés Cala de Santa Fé partján.",
+        "ro": "Conduceți în centru pentru a descoperi spitalul istoric, apoi mergeți la frumoasa Cala Bea pentru o baie matinală. Bucurați-vă de o pauză la prânz pe Platja de l'Arenal, înainte de a vizita punctul de belvedere deasupra râului. După-amiaza, vizitați plajele de la Platja de Cristall la Cala Califòrnia, încheind ziua perfect în liniștita Cala de Santa Fé.",
+        "en": "Drive to the town center first to uncover its roots at the historic hospital, then cruise down to the beautiful Cala Bea for a morning swim. Enjoy a leisurely midday break at Platja de l'Arenal before driving to the scenic viewpoint over the river mouth. Spend the late afternoon beach-hopping from Platja de Cristall to Cala Califòrnia, ending perfectly at the tranquil Cala de Santa Fé."
+      }
+    }
+  }
+}

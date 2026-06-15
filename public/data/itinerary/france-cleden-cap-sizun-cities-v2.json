@@ -1,0 +1,451 @@
+{
+  "city_id": "france-cleden-cap-sizun-cities-v2",
+  "anchor": {
+    "name": "Cléden-Cap-Sizun",
+    "coords": [
+      -4.64931,
+      48.04844
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:11",
+      "total_km": 3.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Clet",
+            "hu": "Église Saint-Clet",
+            "ro": "Église Saint-Clet",
+            "en": "Église Saint-Clet"
+          },
+          "coords": [
+            -4.647488,
+            48.047993
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser historischen Kirche im Zentrum und kommen Sie früh, um das Morgenlicht auf der Fassade einzufangen.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a lenyűgöző építészetét a központban, és érkezzen korán, hogy elcsípje a reggeli fényeket a homlokzaton.",
+            "ro": "Admirați arhitectura remarcabilă a acestei biserici istorice din centru și vizitați devreme pentru a surprinde lumina frumoasă a dimineții pe fațadă.",
+            "en": "Admire the striking architecture of this historic church in the village center, and try to visit early to capture the beautiful morning light on its facade."
+          }
+        },
+        {
+          "name": {
+            "de": "moulin",
+            "hu": "moulin",
+            "ro": "moulin",
+            "en": "moulin"
+          },
+          "coords": [
+            -4.642869,
+            48.044047
+          ],
+          "category": "landmark",
+          "arrive_at": "09:58",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese klassische bretonische Windmühle als stolzes Zeugnis des ländlichen Erbes, und umrunden Sie sie, um das erhaltene Mauerwerk zu sehen.",
+            "hu": "Fedezze fel ezt a klasszikus breton szélmalmot, amely a vidéki örökség büszke tanúja, és sétálja körbe, hogy megfigyelje a megőrzött kőművesmunkát.",
+            "ro": "Descoperiți această moară de vânt bretonă clasică, o dovadă mândră a moștenirii rurale, și plimbați-vă în jurul ei pentru a vedea detaliile din piatră.",
+            "en": "Discover this classic Breton windmill which stands as a proud testament to rural heritage, so walk around its base to see the preserved stonework details."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhirs de Ar Peulven",
+            "hu": "Menhirs de Ar Peulven",
+            "ro": "Menhirs de Ar Peulven",
+            "en": "Menhirs de Ar Peulven"
+          },
+          "coords": [
+            -4.648763,
+            48.032141
+          ],
+          "category": "historical",
+          "arrive_at": "10:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese alten Menhire, die an eine prähistorische Ära erinnern, und tragen Sie feste Wanderschuhe, da das umliegende Gelände uneben ist.",
+            "hu": "Fedezze fel ezeket az ősi állóköveket, amelyek egy elfeledett történelem előtti korszakot idéznek, és viseljen túracipőt az egyenetlen terep miatt.",
+            "ro": "Explorați aceste pietre antice care evocă o eră preistorică uitată și purtați încălțăminte de drumeție robustă, deoarece terenul înconjurător este denivelat.",
+            "en": "Explore these ancient standing stones that echo a forgotten prehistoric era, and wear sturdy walking shoes as the surrounding terrain can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame de Bon Voyage",
+            "hu": "Chapelle Notre-Dame de Bon Voyage",
+            "ro": "Chapelle Notre-Dame de Bon Voyage",
+            "en": "Chapelle Notre-Dame de Bon Voyage"
+          },
+          "coords": [
+            -4.649856,
+            48.029412
+          ],
+          "category": "religious",
+          "arrive_at": "11:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment der Besinnung in dieser maritimen Kapelle, in der Seeleute beteten, und achten Sie auf die nautischen Motive im Inneren.",
+            "hu": "Töltsön el egy percet elmélkedéssel ennél a tengerészeti kápolnánál, ahol egykor tengerészek imádkoztak, és figyelje meg a belső tengeri motívumokat.",
+            "ro": "Profitați de un moment de reflecție la această capelă maritimă unde se rugau marinarii și priviți îndeaproape motivele nautice care o decorează.",
+            "en": "Take a moment of reflection at this maritime chapel where sailors once prayed, and look closely at the intricate nautical motifs adorning the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Collodan",
+            "hu": "Église Saint-Collodan",
+            "ro": "Église Saint-Collodan",
+            "en": "Église Saint-Collodan"
+          },
+          "coords": [
+            -4.665501,
+            48.0377
+          ],
+          "category": "religious",
+          "arrive_at": "13:01",
+          "stay_min": 70,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese friedliche Pfarrkirche, um die Buntglasfenster zu schätzen, und sprechen Sie leise, da es ein aktiver Ort der Anbetung bleibt.",
+            "hu": "Látogasson el ebbe a békés plébániatemplomba, hogy megcsodálja ólomüveg ablakait, és beszéljen halkan, mivel ez ma is aktív istentiszteleti hely.",
+            "ro": "Vizitați această biserică parohială liniștită pentru a aprecia vitraliile sale și păstrați liniștea, deoarece rămâne un lăcaș de cult activ.",
+            "en": "Visit this peaceful parish church to appreciate its stained glass windows, and ensure you keep your voice down as it remains an active place of worship."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt an der markanten Église Saint-Clet, gefolgt von einem kurzen Spaziergang zur historischen Mühle.\n\nGegen Mittag tauchen Sie bei den Menhirs de Ar Peulven in die tiefe Vorgeschichte ein.\n\nAm frühen Nachmittag bietet die Chapelle Notre-Dame de Bon Voyage einen Moment der maritimen Besinnung.\n\nDer Tag endet harmonisch mit einem Besuch der friedlichen Église Saint-Collodan im Westen.",
+        "hu": "A délelőtt a lenyűgöző Église Saint-Clet megtekintésével indul, majd egy rövid séta következik a történelmi malomhoz.\n\nDél körül merüljön el a mély őstörténetben a lenyűgöző Menhirs de Ar Peulven köveinél.\n\nKora délután a Chapelle Notre-Dame de Bon Voyage kínál egy kis tengerészeti elmélkedést.\n\nA nap nyugodtan zárul a békés Église Saint-Collodan meglátogatásával a nyugati oldalon.",
+        "ro": "Dimineața dumneavoastră începe la uimitoarea Église Saint-Clet, urmată de o scurtă plimbare la moara istorică.\n\nLa prânz, pătrundeți în preistoria profundă explorând pietrele antice Menhirs de Ar Peulven.\n\nDupă-amiaza devreme, Chapelle Notre-Dame de Bon Voyage oferă un moment de reflecție maritimă.\n\nZiua se încheie armonios cu o vizită la liniștita Église Saint-Collodan, situată mai la vest.",
+        "en": "Your morning begins at the striking Église Saint-Clet, followed by a short stroll to the historic windmill nearby.\n\nAround midday, you will delve into deep prehistory at the ancient standing stones of Menhirs de Ar Peulven.\n\nIn the early afternoon, the Chapelle Notre-Dame de Bon Voyage offers a moment of maritime reflection.\n\nThe day concludes peacefully with a visit to the quiet Église Saint-Collodan in the west."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "13:56",
+      "total_km": 6.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Clet",
+            "hu": "Église Saint-Clet",
+            "ro": "Église Saint-Clet",
+            "en": "Église Saint-Clet"
+          },
+          "coords": [
+            -4.647488,
+            48.047993
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser historischen Kirche im Zentrum und kommen Sie früh, um das Morgenlicht auf der Fassade einzufangen.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a lenyűgöző építészetét a központban, és érkezzen korán, hogy elcsípje a reggeli fényeket a homlokzaton.",
+            "ro": "Admirați arhitectura remarcabilă a acestei biserici istorice din centru și vizitați devreme pentru a surprinde lumina frumoasă a dimineții pe fațadă.",
+            "en": "Admire the striking architecture of this historic church in the village center, and try to visit early to capture the beautiful morning light on its facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin de Mesguen",
+            "hu": "Moulin de Mesguen",
+            "ro": "Moulin de Mesguen",
+            "en": "Moulin de Mesguen"
+          },
+          "coords": [
+            -4.655836,
+            48.05285
+          ],
+          "category": "landmark",
+          "arrive_at": "09:54",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Inspizieren Sie die robuste Struktur dieser traditionellen Steinmühle im Grünen und bringen Sie eine Kamera für bezaubernde Landschaftsfotos mit.",
+            "hu": "Vizsgálja meg ennek a zöldellő környezetben megbúvó hagyományos kőmalomnak a robusztus szerkezetét, és hozzon magával fényképezőgépet a tájképekhez.",
+            "ro": "Inspectați structura robustă a acestei mori tradiționale din piatră ascunsă în verdeață și aduceți un aparat foto pentru fotografii de peisaj fermecătoare.",
+            "en": "Inspect the robust structure of this traditional stone mill nestled in the greenery, and bring a camera for some charming countryside photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Porz Théolen",
+            "hu": "Plage de Porz Théolen",
+            "ro": "Plage de Porz Théolen",
+            "en": "Plage de Porz Théolen"
+          },
+          "coords": [
+            -4.672448,
+            48.061316
+          ],
+          "category": "recreational",
+          "arrive_at": "10:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem unberührten Sandstrand mit herrlichem Meerblick, aber seien Sie vorsichtig bei starker Flut, wenn Sie am Wasser spazieren.",
+            "hu": "Pihenjen ezen az érintetlen homokos tengerparton, amely drámai óceáni kilátást nyújt, de legyen óvatos az erős árapállyal, ha a víz közelében sétál.",
+            "ro": "Relaxați-vă pe această plajă nisipoasă virgină, care oferă vederi dramatice la ocean, dar aveți grijă la curenții puternici dacă vă plimbați pe mal.",
+            "en": "Relax on this pristine stretch of sandy coastline offering dramatic ocean views, but be cautious of the strong tides if you plan to walk near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin de Kernot",
+            "hu": "Moulin de Kernot",
+            "ro": "Moulin de Kernot",
+            "en": "Moulin de Kernot"
+          },
+          "coords": [
+            -4.679783,
+            48.056561
+          ],
+          "category": "landmark",
+          "arrive_at": "11:36",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser stimmungsvollen Windmühlenruine, die ein romantisches Bild gegen den Küstenhimmel malt, und überprüfen Sie die Windrichtung.",
+            "hu": "Álljon meg ennél a hangulatos szélmalom romnál, amely romantikus képet fest a parti égboltra, és figyelje meg a szélirányt a működésének elképzeléséhez.",
+            "ro": "Opriți-vă la această ruină evocatoare a unei mori de vânt care conturează o imagine romantică pe cerul coastei și verificați direcția vântului aici.",
+            "en": "Stop by this evocative windmill ruin that paints a romantic picture against the coastal sky, and check the wind direction to guess how it once operated."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Yves",
+            "hu": "Chapelle Saint-Yves",
+            "ro": "Chapelle Saint-Yves",
+            "en": "Chapelle Saint-Yves"
+          },
+          "coords": [
+            -4.677053,
+            48.037317
+          ],
+          "category": "religious",
+          "arrive_at": "12:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Atmosphäre dieser abgelegenen Kapelle, die Saint Yves gewidmet ist, und suchen Sie nach den zarten Schnitzereien an den Türen.",
+            "hu": "Fedezze fel ennek a Szent Yves-nek szentelt, eldugott kápolnának a nyugodt légkörét, és belépés előtt keresse meg a faajtók finom faragásait.",
+            "ro": "Descoperiți atmosfera senină a acestei capele izolate închinate Sfântului Yves și căutați sculpturile delicate de pe ușile de lemn înainte de a intra.",
+            "en": "Discover the serene atmosphere of this secluded chapel dedicated to Saint Yves, and look for the delicate carvings on the wooden doors before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Collodan",
+            "hu": "Église Saint-Collodan",
+            "ro": "Église Saint-Collodan",
+            "en": "Église Saint-Collodan"
+          },
+          "coords": [
+            -4.665501,
+            48.0377
+          ],
+          "category": "religious",
+          "arrive_at": "12:46",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese friedliche Pfarrkirche, um die Buntglasfenster zu schätzen, und sprechen Sie leise, da es ein aktiver Ort der Anbetung bleibt.",
+            "hu": "Látogasson el ebbe a békés plébániatemplomba, hogy megcsodálja ólomüveg ablakait, és beszéljen halkan, mivel ez ma is aktív istentiszteleti hely.",
+            "ro": "Vizitați această biserică parohială liniștită pentru a aprecia vitraliile sale și păstrați liniștea, deoarece rămâne un lăcaș de cult activ.",
+            "en": "Visit this peaceful parish church to appreciate its stained glass windows, and ensure you keep your voice down as it remains an active place of worship."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt im Herzen bei der Église Saint-Clet, bevor Sie zur traditionellen Moulin de Mesguen radeln.\n\nAm Vormittag erreichen Sie die Küste, um die frische Brise an der Plage de Porz Théolen zu genießen.\n\nNach einer Pause fahren Sie an der malerischen Moulin de Kernot vorbei zur ruhigen Chapelle Saint-Yves.\n\nDie Tour endet entspannt bei der charmanten Église Saint-Collodan, wo Sie die reiche Geschichte ausklingen lassen.",
+        "hu": "Kerékpártúrája a központban, az Église Saint-Clet-nél kezdődik, mielőtt eltekerne a hagyományos Moulin de Mesguen-hez.\n\nDélelőtt elérheti a tengerpartot, hogy élvezze a friss szelet a Plage de Porz Théolen strandján.\n\nEgy pihenő után tekerjen el a festői Moulin de Kernot mellett a csendes Chapelle Saint-Yves kápolnáig.\n\nA túra kényelmesen zárul a bájos Église Saint-Collodan-nál, ahol nyugodtan elmélyedhet a történelemben.",
+        "ro": "Turul cu bicicleta începe în centru la Église Saint-Clet, înainte de a pedala spre tradiționala Moulin de Mesguen.\n\nSpre prânz, ajungeți pe coastă pentru a vă bucura de briza mării la frumoasa Plage de Porz Théolen.\n\nDupă o pauză, treceți pe lângă pitoreasca Moulin de Kernot spre liniștita Chapelle Saint-Yves.\n\nPlimbarea se încheie relaxant la fermecătoarea Église Saint-Collodan, lăsând istoria locului să vă inspire.",
+        "en": "Your cycling adventure starts at the central Église Saint-Clet before pedaling out to the traditional Moulin de Mesguen.\n\nBy mid-morning, you will reach the coast to enjoy the fresh sea breeze at the stunning Plage de Porz Théolen.\n\nAfter a refreshing stop, ride past the picturesque Moulin de Kernot down to the quiet Chapelle Saint-Yves.\n\nThe tour wraps up with a relaxing visit to the charming Église Saint-Collodan, steeped in local heritage."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:17",
+      "total_km": 9.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle de Langroas",
+            "hu": "Chapelle de Langroas",
+            "ro": "Chapelle de Langroas",
+            "en": "Chapelle de Langroas"
+          },
+          "coords": [
+            -4.617007,
+            48.047603
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Reise an dieser charmanten östlichen Kapelle mit authentischem bretonischem Design und bewundern Sie die friedlichen Felder ringsum.",
+            "hu": "Kezdje útját ennél a bájos keleti kápolnánál, amely autentikus breton dizájnnal büszkélkedhet, és szánjon egy percet a békés vidéki mezők megcsodálására.",
+            "ro": "Începeți călătoria la această fermecătoare capelă estică cu design breton autentic și acordați-vă un moment pentru a admira câmpurile rurale pașnice.",
+            "en": "Start your journey at this charming eastern chapel featuring authentic Breton design, and take a moment to admire the peaceful rural fields surrounding it."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Clet",
+            "hu": "Église Saint-Clet",
+            "ro": "Église Saint-Clet",
+            "en": "Église Saint-Clet"
+          },
+          "coords": [
+            -4.647488,
+            48.047993
+          ],
+          "category": "religious",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser historischen Kirche im Zentrum und kommen Sie früh, um das Morgenlicht auf der Fassade einzufangen.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a lenyűgöző építészetét a központban, és érkezzen korán, hogy elcsípje a reggeli fényeket a homlokzaton.",
+            "ro": "Admirați arhitectura remarcabilă a acestei biserici istorice din centru și vizitați devreme pentru a surprinde lumina frumoasă a dimineții pe fațadă.",
+            "en": "Admire the striking architecture of this historic church in the village center, and try to visit early to capture the beautiful morning light on its facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Porz Théolen",
+            "hu": "Plage de Porz Théolen",
+            "ro": "Plage de Porz Théolen",
+            "en": "Plage de Porz Théolen"
+          },
+          "coords": [
+            -4.672448,
+            48.061316
+          ],
+          "category": "recreational",
+          "arrive_at": "10:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem unberührten Sandstrand mit herrlichem Meerblick, aber seien Sie vorsichtig bei starker Flut, wenn Sie am Wasser spazieren.",
+            "hu": "Pihenjen ezen az érintetlen homokos tengerparton, amely drámai óceáni kilátást nyújt, de legyen óvatos az erős árapállyal, ha a víz közelében sétál.",
+            "ro": "Relaxați-vă pe această plajă nisipoasă virgină, care oferă vederi dramatice la ocean, dar aveți grijă la curenții puternici dacă vă plimbați pe mal.",
+            "en": "Relax on this pristine stretch of sandy coastline offering dramatic ocean views, but be cautious of the strong tides if you plan to walk near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Yves",
+            "hu": "Chapelle Saint-Yves",
+            "ro": "Chapelle Saint-Yves",
+            "en": "Chapelle Saint-Yves"
+          },
+          "coords": [
+            -4.677053,
+            48.037317
+          ],
+          "category": "religious",
+          "arrive_at": "12:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Atmosphäre dieser abgelegenen Kapelle, die Saint Yves gewidmet ist, und suchen Sie nach den zarten Schnitzereien an den Türen.",
+            "hu": "Fedezze fel ennek a Szent Yves-nek szentelt, eldugott kápolnának a nyugodt légkörét, és belépés előtt keresse meg a faajtók finom faragásait.",
+            "ro": "Descoperiți atmosfera senină a acestei capele izolate închinate Sfântului Yves și căutați sculpturile delicate de pe ușile de lemn înainte de a intra.",
+            "en": "Discover the serene atmosphere of this secluded chapel dedicated to Saint Yves, and look for the delicate carvings on the wooden doors before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhirs de Ar Peulven",
+            "hu": "Menhirs de Ar Peulven",
+            "ro": "Menhirs de Ar Peulven",
+            "en": "Menhirs de Ar Peulven"
+          },
+          "coords": [
+            -4.648763,
+            48.032141
+          ],
+          "category": "historical",
+          "arrive_at": "12:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese alten Menhire, die an eine prähistorische Ära erinnern, und tragen Sie feste Wanderschuhe, da das umliegende Gelände uneben ist.",
+            "hu": "Fedezze fel ezeket az ősi állóköveket, amelyek egy elfeledett történelem előtti korszakot idéznek, és viseljen túracipőt az egyenetlen terep miatt.",
+            "ro": "Explorați aceste pietre antice care evocă o eră preistorică uitată și purtați încălțăminte de drumeție robustă, deoarece terenul înconjurător este denivelat.",
+            "en": "Explore these ancient standing stones that echo a forgotten prehistoric era, and wear sturdy walking shoes as the surrounding terrain can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame de Bon Voyage",
+            "hu": "Chapelle Notre-Dame de Bon Voyage",
+            "ro": "Chapelle Notre-Dame de Bon Voyage",
+            "en": "Chapelle Notre-Dame de Bon Voyage"
+          },
+          "coords": [
+            -4.649856,
+            48.029412
+          ],
+          "category": "religious",
+          "arrive_at": "14:07",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment der Besinnung in dieser maritimen Kapelle, in der Seeleute beteten, und achten Sie auf die nautischen Motive im Inneren.",
+            "hu": "Töltsön el egy percet elmélkedéssel ennél a tengerészeti kápolnánál, ahol egykor tengerészek imádkoztak, és figyelje meg a belső tengeri motívumokat.",
+            "ro": "Profitați de un moment de reflecție la această capelă maritimă unde se rugau marinarii și priviți îndeaproape motivele nautice care o decorează.",
+            "en": "Take a moment of reflection at this maritime chapel where sailors once prayed, and look closely at the intricate nautical motifs adorning the interior."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Roadtrip beginnt malerisch an der östlichen Chapelle de Langroas, gefolgt von der zentralen Église Saint-Clet.\n\nGegen Mittag fahren Sie zur Plage de Porz Théolen, um die majestätische Küstenlinie und das weite Meer zu bewundern.\n\nNach der Küste erkunden Sie die abgelegene Chapelle Saint-Yves und die prähistorischen Menhirs de Ar Peulven.\n\nDer Tag findet einen perfekten maritimen Abschluss bei der Chapelle Notre-Dame de Bon Voyage im Süden.",
+        "hu": "Autós utazása a keleti Chapelle de Langroas festői látványával indul, amelyet a központi Église Saint-Clet követ.\n\nDél körül a Plage de Porz Théolen strandhoz hajt, hogy megcsodálja a fenséges tengerpartot és a nyílt óceánt.\n\nA part után felfedezi a félreeső Chapelle Saint-Yves-t és az ősi Menhirs de Ar Peulven köveit.\n\nA nap tökéletes tengerészeti lezárást kap a déli Chapelle Notre-Dame de Bon Voyage kápolnánál.",
+        "ro": "Călătoria dumneavoastră pitorească începe la est cu Chapelle de Langroas, urmată de centrala Église Saint-Clet.\n\nSpre prânz, conduceți spre Plage de Porz Théolen pentru a admira coasta maiestuoasă și oceanul vast.\n\nDupă o pauză pe coastă, explorați izolată Chapelle Saint-Yves și preistoricele Menhirs de Ar Peulven.\n\nZiua are un final maritim perfect la Chapelle Notre-Dame de Bon Voyage, situată în sud.",
+        "en": "Your scenic drive kicks off at the eastern Chapelle de Langroas, followed by a visit to the central Église Saint-Clet.\n\nAround midday, cruise over to the Plage de Porz Théolen to soak in the majestic coastline and vast ocean views.\n\nAfter the coast, you will explore the secluded Chapelle Saint-Yves and the prehistoric Menhirs de Ar Peulven.\n\nThe day reaches a perfect maritime conclusion at the Chapelle Notre-Dame de Bon Voyage in the south."
+      }
+    }
+  }
+}

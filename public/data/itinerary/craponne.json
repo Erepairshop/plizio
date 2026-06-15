@@ -1,0 +1,474 @@
+{
+  "city_id": "craponne",
+  "anchor": {
+    "name": "Craponne",
+    "coords": [
+      4.7233,
+      45.7453
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 2.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Fortunat",
+            "hu": "Saint-Fortunat templom",
+            "ro": "Biserica Saint-Fortunat",
+            "en": "Saint-Fortunat Church"
+          },
+          "coords": [
+            4.722926,
+            45.742369
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser historischen religiösen Stätte und nehmen Sie sich drinnen einen Moment der Besinnung, kommen Sie früh.",
+            "hu": "Csodálja meg ennek a történelmi vallási helynek a lenyűgöző építészetét, és szánjon egy percet a belső elmélkedésre, de érkezzen korán a tömeg elkerülése végett.",
+            "ro": "Admirați arhitectura impresionantă a acestui sit religios istoric și luați-vă un moment de reflecție în interior, ajungând devreme pentru a evita aglomerația.",
+            "en": "Admire the striking architecture of this historic religious site and take a moment to reflect inside, arriving early to avoid the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturraum Éole",
+            "hu": "Éole Kulturális Tér",
+            "ro": "Spațiul Cultural Éole",
+            "en": "Éole Cultural Space"
+          },
+          "coords": [
+            4.724998,
+            45.74632
+          ],
+          "category": "cultural",
+          "arrive_at": "09:58",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die lebhaften Ausstellungen in diesem modernen Kulturzentrum und prüfen Sie vorab das Tagesprogramm für spezielle Führungen.",
+            "hu": "Fedezze fel az élénk kortárs kiállításokat ebben a modern kulturális központban, és előzetesen ellenőrizze a napi menetrendet a különleges tárlatvezetésekhez.",
+            "ro": "Explorați expozițiile contemporane vibrante la acest centru cultural modern și verificați din timp programul zilnic pentru tururi ghidate speciale.",
+            "en": "Explore the vibrant contemporary exhibitions at this modern cultural hub and check their daily schedule in advance for any special guided tours."
+          }
+        },
+        {
+          "name": {
+            "de": "Wäschereimuseum",
+            "hu": "Mosoda Múzeum",
+            "ro": "Muzeul Spălătoriei",
+            "en": "Laundry Museum"
+          },
+          "coords": [
+            4.72162,
+            45.748362
+          ],
+          "category": "museum",
+          "arrive_at": "11:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende lokale Geschichte der Wäscherinnen durch interaktive Displays und fragen Sie das Personal nach verborgenen Artefakten.",
+            "hu": "Fedezze fel a mosodai munkások lenyűgöző helyi történetét az interaktív kiállításokon keresztül, és kérdezze a személyzetet a rejtett műtárgyakról.",
+            "ro": "Descoperiți istoria locală fascinantă a spălătoresei prin ecrane interactive și întrebați personalul informat despre artefactele ascunse ale muzeului.",
+            "en": "Discover the fascinating local history of laundry workers through interactive displays, and ask the knowledgeable staff for the hidden museum artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquäduktpfeiler von Yzeron",
+            "hu": "Yzeron vízvezeték-oszlopai",
+            "ro": "Stâlpii apeductului Yzeron",
+            "en": "Pillars of the Yzeron Aqueduct"
+          },
+          "coords": [
+            4.73527,
+            45.749765
+          ],
+          "category": "historical",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die beeindruckende antike Ingenieurskunst dieser erhaltenen Aquäduktpfeiler und tragen Sie bequeme Schuhe für das historische Gelände.",
+            "hu": "Csodálja meg ezen fennmaradt vízvezeték-oszlopok lenyűgöző ősi mérnöki munkáját, és viseljen kényelmes cipőt a környező történelmi terep felfedezéséhez.",
+            "ro": "Minunați-vă de impresionanta inginerie antică a acestor stâlpi de apeduct supraviețuitori și purtați încălțăminte confortabilă pentru a explora terenul istoric.",
+            "en": "Marvel at the impressive ancient engineering of these surviving aqueduct pillars and wear comfortable shoes to explore the surrounding historic terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Markt von Craponne",
+            "hu": "Craponne Piac",
+            "ro": "Piața Craponne",
+            "en": "Craponne Market"
+          },
+          "coords": [
+            4.738855,
+            45.750866
+          ],
+          "category": "cultural",
+          "arrive_at": "14:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die lebhafte lokale Kultur ein, probieren Sie frische regionale Produkte und bringen Sie ausreichend Kleingeld für die vielfältigen Stände mit.",
+            "hu": "Merüljön el az élénk helyi kultúrában, miközben friss regionális termékeket kóstol, és hozzon magával sok aprót a változatos standoknál történő vásárláshoz.",
+            "ro": "Scufundați-vă în cultura locală plină de viață în timp ce gustați produse regionale proaspete, aducând multe bancnote mici pentru cumpărături ușoare la tarabe.",
+            "en": "Immerse yourself in the lively local culture while tasting fresh regional produce, bringing plenty of small bills for easy purchases at the diverse stalls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen in Craponne mit einem friedlichen Besuch der Kirche Saint-Fortunat. Ein kurzer Spaziergang führt Sie anschließend zum Espace Culturel Éole für künstlerische Inspiration.\nAm Mittag entdecken Sie im Musée de la Blanchisserie das einzigartige lokale Erbe.\nVerbringen Sie den Nachmittag damit, die alten Piles de l'aqueduc de l'Yzeron zu bestaunen.\nBeenden Sie Ihre Tour auf dem lebendigen Markt von Craponne, wo frische Produkte auf Sie warten.",
+        "hu": "Kezdje a reggelt Craponne-ban a Saint-Fortunat templom békés meglátogatásával, majd sétáljon át az Éole Kulturális Térbe művészeti inspirációért.\nDélben fedezze fel a Musée de la Blanchisserie egyedülálló helyi örökségét és ipari múltját.\nA délutánt a Piles de l'aqueduc de l'Yzeron ősi vízvezeték-oszlopainak megcsodálásával töltheti.\nSétáját a nyüzsgő Craponne Piacon zárja, ahol friss termékek és élénk közösségi élet várja.",
+        "ro": "Începeți dimineața în Craponne cu o vizită liniștită la Biserica Saint-Fortunat. O scurtă plimbare vă aduce apoi la Spațiul Cultural Éole pentru inspirație artistică contemporană.\nLa prânz, descoperiți patrimoniul local unic la Musée de la Blanchisserie.\nPetreceți după-amiaza minunându-vă de vechile Piles de l'aqueduc de l'Yzeron.\nÎncheiați turul pietonal la piața vibrantă Craponne, unde vă așteaptă produse proaspete.",
+        "en": "Begin your morning in Craponne with a peaceful visit to the Saint-Fortunat Church, soaking in the quiet architectural beauty. Next, a short stroll brings you to the Éole Cultural Space for contemporary artistic inspiration.\nMidday invites you to uncover unique local heritage at the Musée de la Blanchisserie, diving deep into the region's industrial past.\nSpend the afternoon marveling at the ancient Piles de l'aqueduc de l'Yzeron, reflecting on the historical engineering feats.\nEnd your walking tour at the vibrant Craponne Market, where fresh produce and lively community interactions await you."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Markt von Craponne",
+            "hu": "Craponne Piac",
+            "ro": "Piața Craponne",
+            "en": "Craponne Market"
+          },
+          "coords": [
+            4.738855,
+            45.750866
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die lebhafte lokale Kultur ein, probieren Sie frische regionale Produkte und bringen Sie ausreichend Kleingeld für die vielfältigen Stände mit.",
+            "hu": "Merüljön el az élénk helyi kultúrában, miközben friss regionális termékeket kóstol, és hozzon magával sok aprót a változatos standoknál történő vásárláshoz.",
+            "ro": "Scufundați-vă în cultura locală plină de viață în timp ce gustați produse regionale proaspete, aducând multe bancnote mici pentru cumpărături ușoare la tarabe.",
+            "en": "Immerse yourself in the lively local culture while tasting fresh regional produce, bringing plenty of small bills for easy purchases at the diverse stalls."
+          }
+        },
+        {
+          "name": {
+            "de": "La Baie des Pirates",
+            "hu": "La Baie des Pirates",
+            "ro": "La Baie des Pirates",
+            "en": "La Baie des Pirates"
+          },
+          "coords": [
+            4.741233,
+            45.749042
+          ],
+          "category": "family",
+          "arrive_at": "10:02",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie ein energiegeladenes Erlebnis in dieser familienfreundlichen Attraktion, aber buchen Sie Ihre Eintrittskarten online, um Warteschlangen zu vermeiden.",
+            "hu": "Élvezze az energikus és vidám élményt ebben a családbarát látványosságban, de mindenképpen foglalja le belépőjegyeit online a hosszú sorok elkerülése érdekében.",
+            "ro": "Bucurați-vă de o experiență plină de energie la această atracție pentru familii, dar asigurați-vă că rezervați biletele online pentru a sări peste cozi.",
+            "en": "Enjoy an energetic and fun-filled experience at this family-friendly attraction, but be sure to book your entry tickets online to skip the long queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquäduktpfeiler von Yzeron",
+            "hu": "Yzeron vízvezeték-oszlopai",
+            "ro": "Stâlpii apeductului Yzeron",
+            "en": "Pillars of the Yzeron Aqueduct"
+          },
+          "coords": [
+            4.73527,
+            45.749765
+          ],
+          "category": "historical",
+          "arrive_at": "11:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die beeindruckende antike Ingenieurskunst dieser erhaltenen Aquäduktpfeiler und tragen Sie bequeme Schuhe für das historische Gelände.",
+            "hu": "Csodálja meg ezen fennmaradt vízvezeték-oszlopok lenyűgöző ősi mérnöki munkáját, és viseljen kényelmes cipőt a környező történelmi terep felfedezéséhez.",
+            "ro": "Minunați-vă de impresionanta inginerie antică a acestor stâlpi de apeduct supraviețuitori și purtați încălțăminte confortabilă pentru a explora terenul istoric.",
+            "en": "Marvel at the impressive ancient engineering of these surviving aqueduct pillars and wear comfortable shoes to explore the surrounding historic terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Wäschereimuseum",
+            "hu": "Mosoda Múzeum",
+            "ro": "Muzeul Spălătoriei",
+            "en": "Laundry Museum"
+          },
+          "coords": [
+            4.72162,
+            45.748362
+          ],
+          "category": "museum",
+          "arrive_at": "12:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende lokale Geschichte der Wäscherinnen durch interaktive Displays und fragen Sie das Personal nach verborgenen Artefakten.",
+            "hu": "Fedezze fel a mosodai munkások lenyűgöző helyi történetét az interaktív kiállításokon keresztül, és kérdezze a személyzetet a rejtett műtárgyakról.",
+            "ro": "Descoperiți istoria locală fascinantă a spălătoresei prin ecrane interactive și întrebați personalul informat despre artefactele ascunse ale muzeului.",
+            "en": "Discover the fascinating local history of laundry workers through interactive displays, and ask the knowledgeable staff for the hidden museum artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Fortunat",
+            "hu": "Saint-Fortunat templom",
+            "ro": "Biserica Saint-Fortunat",
+            "en": "Saint-Fortunat Church"
+          },
+          "coords": [
+            4.722926,
+            45.742369
+          ],
+          "category": "religious",
+          "arrive_at": "14:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser historischen religiösen Stätte und nehmen Sie sich drinnen einen Moment der Besinnung, kommen Sie früh.",
+            "hu": "Csodálja meg ennek a történelmi vallási helynek a lenyűgöző építészetét, és szánjon egy percet a belső elmélkedésre, de érkezzen korán a tömeg elkerülése végett.",
+            "ro": "Admirați arhitectura impresionantă a acestui sit religios istoric și luați-vă un moment de reflecție în interior, ajungând devreme pentru a evita aglomerația.",
+            "en": "Admire the striking architecture of this historic religious site and take a moment to reflect inside, arriving early to avoid the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentrum für zeitgenössische Kunst Fort du Bruissin",
+            "hu": "Fort du Bruissin Kortárs Művészeti Központ",
+            "ro": "Centrul de artă contemporană Fort du Bruissin",
+            "en": "Fort du Bruissin Contemporary Art Center"
+          },
+          "coords": [
+            4.738535,
+            45.730532
+          ],
+          "category": "museum",
+          "arrive_at": "15:05",
+          "stay_min": 130,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die historische Militärfestung, die in eine Kunstgalerie verwandelt wurde, und verpassen Sie nicht den Panoramablick von den oberen Zinnen.",
+            "hu": "Sétáljon át a dinamikus művészeti galériává alakított történelmi katonai erődítményen, és ne hagyja ki a régióra nyíló panorámát a felső bástyákról.",
+            "ro": "Plimbați-vă prin fortul militar istoric transformat într-o galerie de artă și nu ratați vederile panoramice ale regiunii de pe meterezele superioare.",
+            "en": "Walk through the historic military fort transformed into a dynamic art gallery, and don't miss the panoramic views of the region from the upper battlements."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour auf dem geschäftigen Markt von Craponne und erleben Sie danach energiegeladenen Spaß in La Baie des Pirates.\nRadeln Sie zu den Piles de l'aqueduc de l'Yzeron, um die historische römische Infrastruktur zu bewundern.\nTauchen Sie anschließend im Musée de la Blanchisserie in die Industriegeschichte ein und halten Sie an der Kirche Saint-Fortunat.\nIhre Fahrt endet beeindruckend im Centre d'art contemporain du Fort du Bruissin.",
+        "hu": "Kezdje kerékpáros túráját a nyüzsgő Craponne Piacon, majd folytassa a La Baie des Pirates vidám programjával.\nTekerjen a Piles de l'aqueduc de l'Yzeron felé, hogy megcsodálja a történelmi római infrastruktúrát.\nEzután merüljön el az ipartörténetben a Musée de la Blanchisserie-ben, és pihenjen meg a Saint-Fortunat templomnál.\nUtazása a Centre d'art contemporain du Fort du Bruissin lenyűgöző kortárs művészeti kiállításával és panorámájával ér véget.",
+        "ro": "Începeți traseul de ciclism la piața plină de viață Craponne, urmată de distracție plină de energie la La Baie des Pirates.\nPedați spre Piles de l'aqueduc de l'Yzeron pentru a vedea infrastructura romană istorică.\nApoi, scufundați-vă în istoria industrială la Musée de la Blanchisserie și faceți o scurtă oprire la Biserica Saint-Fortunat.\nCălătoria se încheie la impresionantul Centre d'art contemporain du Fort du Bruissin.",
+        "en": "Kick off your cycling journey at the bustling Craponne Market to grab some morning snacks. Follow this with high-energy fun at La Baie des Pirates.\nPedal towards the Piles de l'aqueduc de l'Yzeron to witness historical Roman infrastructure amidst a beautiful natural setting.\nAfterward, immerse yourself in the industrial history at the Musée de la Blanchisserie and take a brief, calming stop at the Saint-Fortunat Church.\nYour ride concludes at the impressive Centre d'art contemporain du Fort du Bruissin, offering fantastic art and panoramic sunset views."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:02",
+      "total_km": 5.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Wäschereimuseum",
+            "hu": "Mosoda Múzeum",
+            "ro": "Muzeul Spălătoriei",
+            "en": "Laundry Museum"
+          },
+          "coords": [
+            4.72162,
+            45.748362
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende lokale Geschichte der Wäscherinnen durch interaktive Displays und fragen Sie das Personal nach verborgenen Artefakten.",
+            "hu": "Fedezze fel a mosodai munkások lenyűgöző helyi történetét az interaktív kiállításokon keresztül, és kérdezze a személyzetet a rejtett műtárgyakról.",
+            "ro": "Descoperiți istoria locală fascinantă a spălătoresei prin ecrane interactive și întrebați personalul informat despre artefactele ascunse ale muzeului.",
+            "en": "Discover the fascinating local history of laundry workers through interactive displays, and ask the knowledgeable staff for the hidden museum artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturraum Éole",
+            "hu": "Éole Kulturális Tér",
+            "ro": "Spațiul Cultural Éole",
+            "en": "Éole Cultural Space"
+          },
+          "coords": [
+            4.724998,
+            45.74632
+          ],
+          "category": "cultural",
+          "arrive_at": "10:51",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die lebhaften Ausstellungen in diesem modernen Kulturzentrum und prüfen Sie vorab das Tagesprogramm für spezielle Führungen.",
+            "hu": "Fedezze fel az élénk kortárs kiállításokat ebben a modern kulturális központban, és előzetesen ellenőrizze a napi menetrendet a különleges tárlatvezetésekhez.",
+            "ro": "Explorați expozițiile contemporane vibrante la acest centru cultural modern și verificați din timp programul zilnic pentru tururi ghidate speciale.",
+            "en": "Explore the vibrant contemporary exhibitions at this modern cultural hub and check their daily schedule in advance for any special guided tours."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Fortunat",
+            "hu": "Saint-Fortunat templom",
+            "ro": "Biserica Saint-Fortunat",
+            "en": "Saint-Fortunat Church"
+          },
+          "coords": [
+            4.722926,
+            45.742369
+          ],
+          "category": "religious",
+          "arrive_at": "11:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser historischen religiösen Stätte und nehmen Sie sich drinnen einen Moment der Besinnung, kommen Sie früh.",
+            "hu": "Csodálja meg ennek a történelmi vallási helynek a lenyűgöző építészetét, és szánjon egy percet a belső elmélkedésre, de érkezzen korán a tömeg elkerülése végett.",
+            "ro": "Admirați arhitectura impresionantă a acestui sit religios istoric și luați-vă un moment de reflecție în interior, ajungând devreme pentru a evita aglomerația.",
+            "en": "Admire the striking architecture of this historic religious site and take a moment to reflect inside, arriving early to avoid the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentrum für zeitgenössische Kunst Fort du Bruissin",
+            "hu": "Fort du Bruissin Kortárs Művészeti Központ",
+            "ro": "Centrul de artă contemporană Fort du Bruissin",
+            "en": "Fort du Bruissin Contemporary Art Center"
+          },
+          "coords": [
+            4.738535,
+            45.730532
+          ],
+          "category": "museum",
+          "arrive_at": "12:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die historische Militärfestung, die in eine Kunstgalerie verwandelt wurde, und verpassen Sie nicht den Panoramablick von den oberen Zinnen.",
+            "hu": "Sétáljon át a dinamikus művészeti galériává alakított történelmi katonai erődítményen, és ne hagyja ki a régióra nyíló panorámát a felső bástyákról.",
+            "ro": "Plimbați-vă prin fortul militar istoric transformat într-o galerie de artă și nu ratați vederile panoramice ale regiunii de pe meterezele superioare.",
+            "en": "Walk through the historic military fort transformed into a dynamic art gallery, and don't miss the panoramic views of the region from the upper battlements."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquäduktpfeiler von Yzeron",
+            "hu": "Yzeron vízvezeték-oszlopai",
+            "ro": "Stâlpii apeductului Yzeron",
+            "en": "Pillars of the Yzeron Aqueduct"
+          },
+          "coords": [
+            4.73527,
+            45.749765
+          ],
+          "category": "historical",
+          "arrive_at": "14:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die beeindruckende antike Ingenieurskunst dieser erhaltenen Aquäduktpfeiler und tragen Sie bequeme Schuhe für das historische Gelände.",
+            "hu": "Csodálja meg ezen fennmaradt vízvezeték-oszlopok lenyűgöző ősi mérnöki munkáját, és viseljen kényelmes cipőt a környező történelmi terep felfedezéséhez.",
+            "ro": "Minunați-vă de impresionanta inginerie antică a acestor stâlpi de apeduct supraviețuitori și purtați încălțăminte confortabilă pentru a explora terenul istoric.",
+            "en": "Marvel at the impressive ancient engineering of these surviving aqueduct pillars and wear comfortable shoes to explore the surrounding historic terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Café-Theater Jeannette Radis",
+            "hu": "Jeannette Radis Kávéház és Színház",
+            "ro": "Teatrul Cafenea Jeannette Radis",
+            "en": "Jeannette Radis Café Theater"
+          },
+          "coords": [
+            4.739359,
+            45.748593
+          ],
+          "category": "cultural",
+          "arrive_at": "15:41",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Abend mit einer unterhaltsamen Aufführung in diesem gemütlichen Theater und buchen Sie Ihre Plätze frühzeitig für die beste Sicht.",
+            "hu": "Zárja az estét egy szórakoztató helyi előadással ebben a hangulatos színházban, és korán foglalja le kedvenc helyeit a meghitt színpad legjobb látványa érdekében.",
+            "ro": "Încheiați seara cu o reprezentație locală distractivă în acest teatru primitor, rezervându-vă locurile din timp pentru cea mai bună vedere a scenei intime.",
+            "en": "Conclude your evening with an entertaining local performance in this cozy theater, booking your preferred seats early for the best view of the intimate stage."
+          }
+        },
+        {
+          "name": {
+            "de": "Markt von Craponne",
+            "hu": "Craponne Piac",
+            "ro": "Piața Craponne",
+            "en": "Craponne Market"
+          },
+          "coords": [
+            4.738855,
+            45.750866
+          ],
+          "category": "cultural",
+          "arrive_at": "16:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die lebhafte lokale Kultur ein, probieren Sie frische regionale Produkte und bringen Sie ausreichend Kleingeld für die vielfältigen Stände mit.",
+            "hu": "Merüljön el az élénk helyi kultúrában, miközben friss regionális termékeket kóstol, és hozzon magával sok aprót a változatos standoknál történő vásárláshoz.",
+            "ro": "Scufundați-vă în cultura locală plină de viață în timp ce gustați produse regionale proaspete, aducând multe bancnote mici pentru cumpărături ușoare la tarabe.",
+            "en": "Immerse yourself in the lively local culture while tasting fresh regional produce, bringing plenty of small bills for easy purchases at the diverse stalls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre umfassende Autotour mit der lokalen Geschichte im Musée de la Blanchisserie und den modernen Ausstellungen im Espace Culturel Éole.\nHalten Sie an der Kirche Saint-Fortunat, bevor Sie zum Centre d'art contemporain du Fort du Bruissin fahren.\nIhr Nachmittag ist der bemerkenswerten antiken Technik der Piles de l'aqueduc de l'Yzeron gewidmet.\nBeenden Sie Ihre Stadttour mit einer Vorstellung im Café Théatre Jeannette Radis und dem Markt.",
+        "hu": "Kezdje átfogó autós túráját a Musée de la Blanchisserie helytörténeti kiállításával, majd az Éole Kulturális Tér modern tárlataival.\nÁlljon meg egy csendes elmélkedésre a Saint-Fortunat templomnál, mielőtt felhajtana a lenyűgöző Fort du Bruissin művészeti központjához.\nA délután a Piles de l'aqueduc de l'Yzeron ősi mérnöki csodáit tartogatja.\nZárja a városnézést a Café Théatre Jeannette Radis esti előadásával és a piac hangulatával.",
+        "ro": "Începeți turul cuprinzător cu mașina explorând istoria la Musée de la Blanchisserie, urmat de expozițiile moderne de la Spațiul Cultural Éole.\nFaceți o pauză la Biserica Saint-Fortunat înainte de a conduce la monumentalul Centre d'art contemporain du Fort du Bruissin.\nDupă-amiaza vă prezintă ingineria antică remarcabilă la Piles de l'aqueduc de l'Yzeron.\nÎncheiați cu un spectacol la Café Théatre Jeannette Radis și o vizită la piață.",
+        "en": "Start your comprehensive driving tour diving into local history at the Musée de la Blanchisserie, followed by the modern exhibits at the Éole Cultural Space.\nNext, pause for a quiet reflection at the Saint-Fortunat Church before driving up to the monumental Centre d'art contemporain du Fort du Bruissin.\nYour afternoon features the remarkable ancient engineering at the Piles de l'aqueduc de l'Yzeron, smoothly connecting the past to the present.\nWrap up your city circuit with an evening show at Café Théatre Jeannette Radis and a lively final stroll through the Craponne Market."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-ca-n-picafort-cities-v2",
+  "anchor": {
+    "name": "Ca'n Picafort",
+    "coords": [
+      3.14932,
+      39.76802
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 1.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Platja de Ca'n Picafort",
+            "hu": "Platja de Ca'n Picafort",
+            "ro": "Platja de Ca'n Picafort",
+            "en": "Platja de Ca'n Picafort"
+          },
+          "coords": [
+            3.150532,
+            39.769311
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den feinen Sand und das flache Wasser dieses beliebten Strandes, kommen Sie jedoch früh, um sich einen der besten Plätze direkt am Ufer zu sichern.",
+            "hu": "Élvezze ennek a népszerű strandnak a finom homokját és sekély vizét, de érkezzen korán, hogy a legjobb helyet foglalhassa el közvetlenül a tengerparton.",
+            "ro": "Bucurați-vă de nisipul fin și apa puțin adâncă a acestei plaje populare, dar sosiți devreme pentru a prinde unul dintre cele mai bune locuri chiar la mal.",
+            "en": "Enjoy the fine sand and shallow waters of this popular beach, but make sure to arrive early to secure one of the prime spots right along the shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de Santa Margalida",
+            "hu": "Platja de Santa Margalida",
+            "ro": "Platja de Santa Margalida",
+            "en": "Platja de Santa Margalida"
+          },
+          "coords": [
+            3.154544,
+            39.767256
+          ],
+          "category": "recreational",
+          "arrive_at": "10:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Küstenabschnitt mit herrlichem Blick auf die Bucht von Alcúdia, und bringen Sie unbedingt ausreichend Sonnencreme mit.",
+            "hu": "Pihenjen ezen a festői partszakaszon, ahonnan csodálatos kilátás nyílik az Alcúdia-öbölre, és ne felejtsen el elegendő naptejet magával hozni a túrára.",
+            "ro": "Relaxați-vă pe această porțiune pitorească de coastă cu vederi superbe spre golful Alcúdia și asigurați-vă că aveți la dumneavoastră suficientă cremă de soare.",
+            "en": "Relax on this picturesque stretch of coastline offering gorgeous views across Alcúdia Bay, and definitely remember to bring plenty of high-SPF sunscreen."
+          }
+        },
+        {
+          "name": {
+            "de": "Far de Ca'n Picafort",
+            "hu": "Far de Ca'n Picafort",
+            "ro": "Far de Ca'n Picafort",
+            "en": "Far de Ca'n Picafort"
+          },
+          "coords": [
+            3.158469,
+            39.767303
+          ],
+          "category": "landmark",
+          "arrive_at": "11:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen markanten Leuchtturm, der ein perfektes Fotomotiv abgibt, und spazieren Sie bei Sonnenuntergang entlang der Promenade für das beste Licht.",
+            "hu": "Csodálja meg ezt a jellegzetes világítótornyot, amely tökéletes fotótéma, és sétáljon a sétányon naplemente idején, hogy a legjobb fényviszonyokat kapja.",
+            "ro": "Admirați acest far impresionant care reprezintă un subiect fotografic perfect și plimbați-vă de-a lungul promenadei la apus pentru a surprinde cea mai bună lumină.",
+            "en": "Admire this striking lighthouse which makes for a perfect photography subject, and stroll along the promenade during golden hour to capture the very best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja Petita",
+            "hu": "Platja Petita",
+            "ro": "Platja Petita",
+            "en": "Platja Petita"
+          },
+          "coords": [
+            3.157954,
+            39.765448
+          ],
+          "category": "recreational",
+          "arrive_at": "12:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese kleine, charmante Bucht fernab der großen Massen, aber denken Sie daran, Ihre eigenen Snacks und Getränke für ein Picknick mitzubringen.",
+            "hu": "Fedezze fel ezt az apró, bájos öblöt távol a nagy tömegektől, de ne felejtse el magával hozni a saját rágcsálnivalóit és italait egy kellemes piknikhez.",
+            "ro": "Descoperiți acest golf mic și fermecător departe de marile aglomerații, dar nu uitați să vă aduceți propriile gustări și băuturi pentru un picnic relaxant.",
+            "en": "Discover this small, charming cove hidden away from the major crowds, but remember to pack your own snacks and refreshing beverages for a quiet picnic by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Búnquer",
+            "hu": "Búnquer",
+            "ro": "Búnquer",
+            "en": "Búnquer"
+          },
+          "coords": [
+            3.162797,
+            39.764565
+          ],
+          "category": "historical",
+          "arrive_at": "13:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden militärischen Überreste an der Küste, aber tragen Sie festes Schuhwerk, da das Gelände rund um den alten Bunker sehr uneben ist.",
+            "hu": "Fedezze fel a tengerpart lenyűgöző katonai maradványait, de viseljen zárt és kényelmes cipőt, mivel a régi bunker körüli sziklás terep meglehetősen egyenetlen.",
+            "ro": "Explorați rămășițele militare fascinante de pe coastă, dar purtați încălțăminte rezistentă, deoarece terenul din jurul vechiului buncăr este foarte accidentat.",
+            "en": "Explore the fascinating historical military remnants along the coastline, but ensure you wear sturdy footwear as the terrain immediately surrounding the bunker is uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala de s'Escar",
+            "hu": "Cala de s'Escar",
+            "ro": "Cala de s'Escar",
+            "en": "Cala de s'Escar"
+          },
+          "coords": [
+            3.164683,
+            39.762722
+          ],
+          "category": "recreational",
+          "arrive_at": "15:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die wilde Schönheit dieser steinigen Badebucht, und nehmen Sie unbedingt Wasserschuhe mit, um bequem ins kristallklare Mittelmeer gehen zu können.",
+            "hu": "Élvezze ennek a köves fürdőöbölnek a vad szépségét, és mindenképpen hozzon magával vízicipőt, hogy kényelmesen besétálhasson a kristálytiszta Földközi-tengerbe.",
+            "ro": "Bucurați-vă de frumusețea sălbatică a acestui golf pietros și nu uitați să luați încălțăminte de apă pentru a putea intra confortabil în Marea Mediterană.",
+            "en": "Take in the wild beauty of this rocky swimming cove, and make absolutely sure to bring water shoes to comfortably enter the crystal-clear Mediterranean sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie an der weiten Platja de Ca'n Picafort, wo das Morgenlicht auf dem flachen Wasser glitzert. Folgen Sie der Küste zur Platja de Santa Margalida und genießen Sie die lebhafte Atmosphäre.\nErreichen Sie mittags den Far de Ca'n Picafort, einen tollen Blickfang an der Promenade. Nur einen kurzen Spaziergang entfernt bietet die Platja Petita einen ruhigen Kontrast für eine entspannte Pause.\nVerbringen Sie den Nachmittag beim historischen Búnquer und erkunden Sie die Geschichte der Region direkt am Meer. Der Küstenweg bietet atemberaubende Ausblicke im weichen Licht.\nBeenden Sie Ihre Tour an der Cala de s'Escar. Diese felsige Bucht ist der perfekte Ort, um das Abendrot auf dem Wasser zu beobachten, bevor Sie zum Abendessen aufbrechen.",
+        "hu": "Kezdje a napot a tágas Platja de Ca'n Picaforton, ahol a reggeli fény megcsillan a sekély vízen. Haladjon tovább a part mentén a Platja de Santa Margalida felé, élvezve az élénk hangulatot.\nDélben érje el a Far de Ca'n Picafort világítótornyot, amely a sétány remek dísze. Egy rövid sétára a Platja Petita csendesebb kontrasztot kínál, amely tökéletes egy rövid pihenőhöz.\nTöltse a délutánt a történelmi Búnquer felfedezésével, és ismerje meg a tengerpart múltját. A parti ösvényről lenyűgöző kilátás nyílik, ahogy a nap lassan lejjebb ereszkedik.\nFejezze be a sétát a Cala de s'Escar öbölben. Ez a sziklás partszakasz tökéletes hely arra, hogy nyugodtan nézze a vízről visszaverődő alkonyati színeket a vacsora előtt.",
+        "ro": "Începeți la întinsa Platja de Ca'n Picafort, unde lumina dimineții strălucește pe apa mică. Continuați de-a lungul coastei spre Platja de Santa Margalida, bucurându-vă de atmosfera plină de viață.\nLa prânz, ajungeți la Far de Ca'n Picafort, un punct de atracție al promenadei. La o scurtă plimbare, Platja Petita oferă un contrast mai liniștit, perfect pentru o scurtă pauză.\nPetreceți după-amiaza explorând istoricul Búnquer, reflectând asupra trecutului zonei chiar lângă mare. Cărarea de coastă oferă priveliști uimitoare în lumina după-amiezii.\nÎncheiați plimbarea la Cala de s'Escar. Acest golf stâncos este locul perfect pentru a privi culorile amurgului reflectându-se pe apă înainte de a merge la cină.",
+        "en": "Start your day at the expansive Platja de Ca'n Picafort, where morning light sparkles on shallow waters. Continue along the coast to Platja de Santa Margalida, enjoying the lively atmosphere and soft sand underfoot.\nAround noon, reach the Far de Ca'n Picafort. The lighthouse offers a great focal point along the promenade. Just a short walk away, Platja Petita provides a quieter contrast, perfect for a short rest.\nSpend your afternoon exploring the historical Búnquer, reflecting on the area's layered history right beside the sea. The coastal path offers stunning views as the sun begins to lower in the sky.\nEnd your walking tour at Cala de s'Escar. This rocky cove is the perfect spot to sit quietly and watch the twilight hues reflect off the water before heading back into town for dinner."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:52",
+      "total_km": 4.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Es Comú - Platja de Muro",
+            "hu": "Es Comú - Platja de Muro",
+            "ro": "Es Comú - Platja de Muro",
+            "en": "Es Comú - Platja de Muro"
+          },
+          "coords": [
+            3.137846,
+            39.780167
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die unberührten Dünen dieses naturbelassenen Strandes, aber bleiben Sie unbedingt auf den markierten Wegen, um die empfindliche Flora zu schützen.",
+            "hu": "Sétáljon végig ennek a természetes strandnak az érintetlen dűnéin, de a törékeny helyi növényvilág védelme érdekében feltétlenül maradjon a kijelölt ösvényeken.",
+            "ro": "Plimbați-vă prin dunele neatinse ale acestei plaje naturale, dar asigurați-vă că rămâneți doar pe cărările marcate pentru a proteja flora locală sensibilă.",
+            "en": "Walk through the pristine sand dunes of this beautifully natural beach, but strictly remain on the marked pathways to protect the fragile local coastal flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de Capellans",
+            "hu": "Platja de Capellans",
+            "ro": "Platja de Capellans",
+            "en": "Platja de Capellans"
+          },
+          "coords": [
+            3.144117,
+            39.774434
+          ],
+          "category": "recreational",
+          "arrive_at": "10:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Atmosphäre dieses gut ausgestatteten Strandes, und mieten Sie sich frühzeitig einen Liegestuhl für einen besonders komfortablen Nachmittag.",
+            "hu": "Tapasztalja meg ennek a jól felszerelt strandnak az élénk hangulatát, és béreljen korán napágyat egy különösen kényelmes és pihentető délutáni tartózkodáshoz.",
+            "ro": "Experimentați atmosfera vibrantă a acestei plaje bine echipate și închiriați un șezlong dimineața devreme pentru o după-amiază deosebit de confortabilă la soare.",
+            "en": "Experience the vibrant atmosphere of this well-equipped sandy beach, and be sure to rent a sun lounger early in the day for an especially comfortable afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de Ca'n Picafort",
+            "hu": "Platja de Ca'n Picafort",
+            "ro": "Platja de Ca'n Picafort",
+            "en": "Platja de Ca'n Picafort"
+          },
+          "coords": [
+            3.150532,
+            39.769311
+          ],
+          "category": "recreational",
+          "arrive_at": "11:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den feinen Sand und das flache Wasser dieses beliebten Strandes, kommen Sie jedoch früh, um sich einen der besten Plätze direkt am Ufer zu sichern.",
+            "hu": "Élvezze ennek a népszerű strandnak a finom homokját és sekély vizét, de érkezzen korán, hogy a legjobb helyet foglalhassa el közvetlenül a tengerparton.",
+            "ro": "Bucurați-vă de nisipul fin și apa puțin adâncă a acestei plaje populare, dar sosiți devreme pentru a prinde unul dintre cele mai bune locuri chiar la mal.",
+            "en": "Enjoy the fine sand and shallow waters of this popular beach, but make sure to arrive early to secure one of the prime spots right along the shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Far de Ca'n Picafort",
+            "hu": "Far de Ca'n Picafort",
+            "ro": "Far de Ca'n Picafort",
+            "en": "Far de Ca'n Picafort"
+          },
+          "coords": [
+            3.158469,
+            39.767303
+          ],
+          "category": "landmark",
+          "arrive_at": "13:07",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen markanten Leuchtturm, der ein perfektes Fotomotiv abgibt, und spazieren Sie bei Sonnenuntergang entlang der Promenade für das beste Licht.",
+            "hu": "Csodálja meg ezt a jellegzetes világítótornyot, amely tökéletes fotótéma, és sétáljon a sétányon naplemente idején, hogy a legjobb fényviszonyokat kapja.",
+            "ro": "Admirați acest far impresionant care reprezintă un subiect fotografic perfect și plimbați-vă de-a lungul promenadei la apus pentru a surprinde cea mai bună lumină.",
+            "en": "Admire this striking lighthouse which makes for a perfect photography subject, and stroll along the promenade during golden hour to capture the very best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de Son Bauló",
+            "hu": "Platja de Son Bauló",
+            "ro": "Platja de Son Bauló",
+            "en": "Platja de Son Bauló"
+          },
+          "coords": [
+            3.170349,
+            39.759087
+          ],
+          "category": "recreational",
+          "arrive_at": "13:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Nutzen Sie das ruhige Wasser dieser familienfreundlichen Bucht zum Schwimmen, und besuchen Sie eines der nahegelegenen Cafés für eine kurze Erfrischung zwischendurch.",
+            "hu": "Használja ki ennek a családbarát öbölnek a nyugodt vizét úszásra, és látogasson el az egyik közeli kávézóba egy gyors és hűsítő napközbeni frissítőért.",
+            "ro": "Profitați de apele calme ale acestui golf potrivit pentru familii pentru a înota și vizitați una dintre cafenelele din apropiere pentru o băutură răcoritoare rapidă.",
+            "en": "Take advantage of the exceptionally calm waters in this family-friendly bay for a swim, and stop by one of the nearby cafes for a quick mid-morning refreshment."
+          }
+        },
+        {
+          "name": {
+            "de": "Sepulcre megalític de Son Bauló de Dalt",
+            "hu": "Sepulcre megalític de Son Bauló de Dalt",
+            "ro": "Sepulcre megalític de Son Bauló de Dalt",
+            "en": "Sepulcre megalític de Son Bauló de Dalt"
+          },
+          "coords": [
+            3.158649,
+            39.753878
+          ],
+          "category": "historical",
+          "arrive_at": "15:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die prähistorische Geschichte Mallorcas an diesem alten Grabmal ein, und verbinden Sie den Besuch mit einer kleinen Wanderung durch das umliegende Buschland.",
+            "hu": "Merüljön el Mallorca őskori történetében ennél az ősi síremléknél, és kösse össze a látogatást egy rövid, de hangulatos sétával a környező mediterrán bozótosban.",
+            "ro": "Pătrundeți în istoria preistorică a insulei Mallorca la acest mormânt antic și combinați vizita cu o mică drumeție prin vegetația mediteraneană înconjurătoare.",
+            "en": "Delve into Mallorca's prehistoric history at this fascinating ancient tomb, and seamlessly combine your visit with a short scenic hike through the surrounding scrubland."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens entlang der unberührten Dünen von Es Comú an der Platja de Muro. Eine kurze Fahrt bringt Sie zur Platja de Capellans, die Natur mit komfortablen Strandeinrichtungen verbindet.\nFahren Sie mittags ins Zentrum zur Platja de Ca'n Picafort. Nach einem kurzen Bad geht es weiter auf dem malerischen Küstenweg zum Far de Ca'n Picafort, begleitet von einer frischen Meeresbrise.\nRadeln Sie am Nachmittag weiter nach Osten zur Platja de Son Bauló, wo das Wasser sehr ruhig ist. Dies ist ein idealer Ort für ein erfrischendes Bad und einen Snack im Strandcafé.\nBeenden Sie Ihre Tour landeinwärts beim Sepulcre megalític de Son Bauló de Dalt. Die alten Steine sehen in den späten Nachmittagsschatten spektakulär aus und bieten einen friedlichen Abschluss.",
+        "hu": "Kerékpározzon reggel az Es Comú érintetlen dűnéi mentén a Platja de Muro-nál. Egy rövid út a Platja de Capellans-hoz vezet, amely a természetes partvidéket kényelmes strandolással ötvözi.\nDélben tekerjen be a központba, a Platja de Ca'n Picafort felé. Egy gyors mártózás után folytassa festői parti útját a Far de Ca'n Picafort világítótoronyhoz a friss tengeri szellő kíséretében.\nDélután tekerjen tovább keletre a Platja de Son Bauló felé, ahol a víz nyugodt. Ez ideális megálló egy frissítő úszáshoz és egy tengerparti kávézóban elfogyasztott falathoz.\nFejezze be a túrát a szárazföld belsejében, a Sepulcre megalític de Son Bauló de Daltnál. Az ősi kövek látványosak a késő délutáni árnyékokban, békés befejezést kínálva.",
+        "ro": "Pedalați dimineața de-a lungul dunelor virgine de la Es Comú la Platja de Muro. O scurtă cursă vă aduce la Platja de Capellans, combinând coasta naturală cu facilități confortabile.\nLa prânz, pedalați în centrul stațiunii spre Platja de Ca'n Picafort. După o baie rapidă, continuați plimbarea pitorească spre Far de Ca'n Picafort, bucurându-vă de briza mării.\nDupă-amiaza, mergeți spre est la Platja de Son Bauló, unde apele sunt calme. Acesta este un popas ideal pentru o baie răcoritoare și o gustare la o cafenea pe plajă.\nÎncheiați traseul în interior la Sepulcre megalític de Son Bauló de Dalt. Pietrele antice arată spectaculos în umbrele după-amiezii, oferind un final liniștit zilei.",
+        "en": "Cycle along the pristine dunes of Es Comú at Platja de Muro to start your day in nature. A short ride brings you to Platja de Capellans, bridging the natural coastline with comfortable beach amenities.\nPedal into the heart of the resort to see Platja de Ca'n Picafort. After a quick dip, continue your scenic coastal ride towards the Far de Ca'n Picafort, enjoying the sea breeze as you navigate the promenade.\nCycle further east to Platja de Son Bauló, where the waters remain calm. This is an ideal stop for a refreshing swim and perhaps a seaside snack at a nearby beachfront cafe.\nConclude your ride inland at the Sepulcre megalític de Son Bauló de Dalt. The ancient stones look spectacular in the late afternoon shadows, offering a peaceful end to an active day exploring the coast."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:32",
+      "total_km": 5.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Torre d'Enfilació",
+            "hu": "Torre d'Enfilació",
+            "ro": "Torre d'Enfilació",
+            "en": "Torre d'Enfilació"
+          },
+          "coords": [
+            3.130968,
+            39.784816
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese historischen Marine-Türme, die früher zur Zielpeilung dienten, und nutzen Sie das weitläufige Gelände für wunderbare Panoramaaufnahmen der Bucht.",
+            "hu": "Látogassa meg ezeket a történelmi haditengerészeti tornyokat, amelyeket egykor célzásra használtak, és használja ki a tágas területet csodálatos panorámafotók készítésére.",
+            "ro": "Vizitați aceste turnuri navale istorice folosite odinioară pentru aliniere și profitați de terenul spațios pentru a realiza fotografii panoramice minunate ale golfului.",
+            "en": "Visit these unique historical naval alignment towers that guided ships, and take full advantage of the expansive surrounding area to capture gorgeous panoramic bay shots."
+          }
+        },
+        {
+          "name": {
+            "de": "Es Comú - Platja de Muro",
+            "hu": "Es Comú - Platja de Muro",
+            "ro": "Es Comú - Platja de Muro",
+            "en": "Es Comú - Platja de Muro"
+          },
+          "coords": [
+            3.137846,
+            39.780167
+          ],
+          "category": "recreational",
+          "arrive_at": "10:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die unberührten Dünen dieses naturbelassenen Strandes, aber bleiben Sie unbedingt auf den markierten Wegen, um die empfindliche Flora zu schützen.",
+            "hu": "Sétáljon végig ennek a természetes strandnak az érintetlen dűnéin, de a törékeny helyi növényvilág védelme érdekében feltétlenül maradjon a kijelölt ösvényeken.",
+            "ro": "Plimbați-vă prin dunele neatinse ale acestei plaje naturale, dar asigurați-vă că rămâneți doar pe cărările marcate pentru a proteja flora locală sensibilă.",
+            "en": "Walk through the pristine sand dunes of this beautifully natural beach, but strictly remain on the marked pathways to protect the fragile local coastal flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de Ca'n Picafort",
+            "hu": "Platja de Ca'n Picafort",
+            "ro": "Platja de Ca'n Picafort",
+            "en": "Platja de Ca'n Picafort"
+          },
+          "coords": [
+            3.150532,
+            39.769311
+          ],
+          "category": "recreational",
+          "arrive_at": "11:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Genießen Sie den feinen Sand und das flache Wasser dieses beliebten Strandes, kommen Sie jedoch früh, um sich einen der besten Plätze direkt am Ufer zu sichern.",
+            "hu": "Élvezze ennek a népszerű strandnak a finom homokját és sekély vizét, de érkezzen korán, hogy a legjobb helyet foglalhassa el közvetlenül a tengerparton.",
+            "ro": "Bucurați-vă de nisipul fin și apa puțin adâncă a acestei plaje populare, dar sosiți devreme pentru a prinde unul dintre cele mai bune locuri chiar la mal.",
+            "en": "Enjoy the fine sand and shallow waters of this popular beach, but make sure to arrive early to secure one of the prime spots right along the shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Sepulcre megalític de Son Bauló de Dalt",
+            "hu": "Sepulcre megalític de Son Bauló de Dalt",
+            "ro": "Sepulcre megalític de Son Bauló de Dalt",
+            "en": "Sepulcre megalític de Son Bauló de Dalt"
+          },
+          "coords": [
+            3.158649,
+            39.753878
+          ],
+          "category": "historical",
+          "arrive_at": "13:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die prähistorische Geschichte Mallorcas an diesem alten Grabmal ein, und verbinden Sie den Besuch mit einer kleinen Wanderung durch das umliegende Buschland.",
+            "hu": "Merüljön el Mallorca őskori történetében ennél az ősi síremléknél, és kösse össze a látogatást egy rövid, de hangulatos sétával a környező mediterrán bozótosban.",
+            "ro": "Pătrundeți în istoria preistorică a insulei Mallorca la acest mormânt antic și combinați vizita cu o mică drumeție prin vegetația mediteraneană înconjurătoare.",
+            "en": "Delve into Mallorca's prehistoric history at this fascinating ancient tomb, and seamlessly combine your visit with a short scenic hike through the surrounding scrubland."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de na Patana",
+            "hu": "Platja de na Patana",
+            "ro": "Platja de na Patana",
+            "en": "Platja de na Patana"
+          },
+          "coords": [
+            3.169265,
+            39.760055
+          ],
+          "category": "recreational",
+          "arrive_at": "14:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen tierfreundlichen Strand mit Ihrem Vierbeiner, aber achten Sie darauf, ausreichend Trinkwasser für den Strandtag mitzubringen, da es keinen Schatten gibt.",
+            "hu": "Látogassa meg ezt az állatbarát strandot négylábú kedvencével, de ügyeljen arra, hogy elegendő ivóvizet hozzon magával, mivel a parton szinte egyáltalán nincs árnyék.",
+            "ro": "Vizitați această plajă prietenoasă cu animalele alături de câinele dumneavoastră, dar aveți grijă să aduceți suficientă apă potabilă deoarece nu există umbră naturală.",
+            "en": "Visit this wonderfully pet-friendly beach with your furry companion, but make absolutely sure to bring plenty of drinking water as there is no natural shade available."
+          }
+        },
+        {
+          "name": {
+            "de": "Na Patana",
+            "hu": "Na Patana",
+            "ro": "Na Patana",
+            "en": "Na Patana"
+          },
+          "coords": [
+            3.175073,
+            39.757466
+          ],
+          "category": "recreational",
+          "arrive_at": "15:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie in dieser unberührten Küstenzone fernab der Hotels, und bringen Sie eine gute Strandmatte mit, um auf dem felsigeren Untergrund gemütlich zu liegen.",
+            "hu": "Pihenjen ebben az érintetlen, szállodáktól távol eső part menti övezetben, és hozzon magával egy vastag strandmatracot, hogy kényelmesen feküdhessen a sziklásabb talajon.",
+            "ro": "Relaxați-vă în această zonă de coastă virgină, departe de hoteluri, și aduceți o saltea de plajă groasă pentru a vă întinde confortabil pe suprafața destul de stâncoasă.",
+            "en": "Relax in this truly pristine coastal zone located far away from the hotels, and pack a thick beach mat to ensure you can lie comfortably on the slightly rocky ground."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zum markanten Torre d'Enfilació, um in die Marinegeschichte einzutauchen. Parken Sie danach bei Es Comú, um durch die wunderschönen, geschützten Dünen der Platja de Muro zu wandern.\nFahren Sie mittags ins belebte Zentrum zur Platja de Ca'n Picafort. Danach geht es mit dem Auto zum Sepulcre megalític de Son Bauló de Dalt, um die prähistorischen Wurzeln der Region zu entdecken.\nMachen Sie am Nachmittag eine kurze Fahrt zur Platja de na Patana. Dieser etwas wildere Küstenabschnitt ist fantastisch, um großen Menschenmengen auszuweichen und die Natur zu genießen.\nBeenden Sie Ihre Autotour im nahegelegenen Na Patana. Die unberührte Küste ist in der Dämmerung herrlich ruhig und bietet eine entspannte Kulisse für den Sonnenuntergang.",
+        "hu": "Reggel vezessen a lenyűgöző Torre d'Enfilacióhoz, és fedezze fel a haditengerészeti múltat. Ezután parkoljon le az Es Comú közelében, hogy sétáljon a Platja de Muro védett dűnéi között.\nDélben induljon a nyüzsgő központba, a Platja de Ca'n Picafort felé. A napozás után vezessen a Sepulcre megalític de Son Bauló de Dalt történelmi emlékhelyhez az őskori gyökerek megismeréséért.\nDélután tegyen egy rövid autózást a Platja de na Patana felé. Ez a vadabb partszakasz fantasztikus arra, hogy elkerülje a legnagyobb tömegeket és élvezze a természetes környezetet.\nFejezze be az autós túrát a közeli Na Patana területén. Az érintetlen partvonal szürkületkor derűs, nyugodt környezetet biztosít a naplemente megcsodálásához.",
+        "ro": "Conduceți dimineața spre impresionantul Torre d'Enfilació pentru a vedea arhitectura navală. Apoi, parcați lângă Es Comú pentru a vă plimba prin frumoasele ecosisteme de dune protejate de la Platja de Muro.\nLa prânz, mergeți în centrul plin de viață la Platja de Ca'n Picafort. După ce stați la soare, conduceți la Sepulcre megalític de Son Bauló de Dalt pentru a descoperi rădăcinile preistorice.\nDupă-amiaza, faceți o scurtă plimbare cu mașina până la Platja de na Patana. Această porțiune de coastă mai sălbatică este fantastică pentru a evita mulțimile mari.\nÎncheiați turul cu mașina în zona din apropiere Na Patana. Litoralul virgin de aici este senin la amurg, oferind un cadru calm pentru a reflecta asupra zilei la apus.",
+        "en": "Drive to the striking Torre d'Enfilació to kick off your day with historical naval architecture. Then, park near Es Comú to wander through the beautiful, protected dune ecosystems of Platja de Muro.\nHead into the bustling center to experience Platja de Ca'n Picafort. After soaking up the sun, drive out to the Sepulcre megalític de Son Bauló de Dalt to uncover the region's fascinating prehistoric roots.\nTake a short scenic drive to Platja de na Patana. This more rugged, open stretch of coastline is fantastic for avoiding the biggest crowds and enjoying a more natural Mediterranean environment.\nFinish your driving tour at the nearby Na Patana area. The unspoiled shoreline here is serene at dusk, providing a calm setting to reflect on the day as the sun sets over the beautiful Balearic Sea."
+      }
+    }
+  }
+}

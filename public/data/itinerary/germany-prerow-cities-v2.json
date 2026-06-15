@@ -1,0 +1,474 @@
+{
+  "city_id": "germany-prerow-cities-v2",
+  "anchor": {
+    "name": "Prerow",
+    "coords": [
+      12.5698,
+      54.4468
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:19",
+      "total_km": 2.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Darß-Museum",
+            "hu": "Darß-Múzeum",
+            "ro": "Muzeul Darß",
+            "en": "Darß Museum"
+          },
+          "coords": [
+            12.558393,
+            54.446901
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale Geschichte und maritime Kultur in diesem charmanten Museum, in dem Sie sich am besten gleich morgens in Ruhe die historischen Exponate ansehen.",
+            "hu": "Fedezze fel a helyi történelmet és a tengeri kultúrát ebben a bájos múzeumban, ahol érdemes rögtön reggel, nyugodtan megtekinteni a történelmi kiállításokat.",
+            "ro": "Descoperiți istoria locală și cultura maritimă în acest muzeu fermecător, unde este cel mai bine să admirați exponatele istorice în liniște, încă de dimineață.",
+            "en": "Discover local history and maritime culture in this charming museum, where it is best to view the historical exhibits peacefully first thing in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatgalerie u Bernsteinmuseum",
+            "hu": "Heimatgalerie és Borostyánmúzeum",
+            "ro": "Heimatgalerie și Muzeul Chihlimbarului",
+            "en": "Heimatgalerie and Amber Museum"
+          },
+          "coords": [
+            12.557421,
+            54.447251
+          ],
+          "category": "museum",
+          "arrive_at": "10:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die faszinierenden Bernsteinexponate und regionale Kunstwerke, wobei das natürliche Licht am späten Vormittag die Details der Steine besonders hervorhebt.",
+            "hu": "Csodálja meg a lenyűgöző borostyán kiállításokat és regionális műalkotásokat, mivel a késő délelőtti természetes fény különösen kiemeli a kövek apró részleteit.",
+            "ro": "Admirați expozițiile fascinante de chihlimbar și operele de artă regionale, lumina naturală a dimineții târzii evidențiind în mod deosebit detaliile pietrelor.",
+            "en": "Admire the fascinating amber exhibits and regional artworks, as the natural late morning light particularly highlights the intricate details of the stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Kutsch- & Kremserfahrten Ralf-Dieter Bergmann",
+            "hu": "Ralf-Dieter Bergmann Lovaskocsizás",
+            "ro": "Plimbări cu trăsura Ralf-Dieter Bergmann",
+            "en": "Carriage Rides Ralf-Dieter Bergmann"
+          },
+          "coords": [
+            12.555972,
+            54.448742
+          ],
+          "category": "landmark",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie eine traditionelle Kutschfahrt durch die malerische Landschaft, für die Sie vorab reservieren sollten, um sich einen bequemen Platz zu sichern.",
+            "hu": "Élvezze a hagyományos lovaskocsis utazást a festői tájon keresztül, amelyre érdemes előre asztalt foglalni, hogy kényelmes helyet biztosítson magának.",
+            "ro": "Bucurați-vă de o plimbare tradițională cu trăsura prin peisajul pitoresc, pentru care ar trebui să faceți o rezervare în prealabil pentru a vă asigura un loc confortabil.",
+            "en": "Enjoy a traditional carriage ride through the picturesque landscape, for which you should book in advance to ensure you get a comfortable seat for the journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Freilichtbühne",
+            "hu": "Szabadtéri Színpad",
+            "ro": "Teatru în aer liber",
+            "en": "Open-Air Stage"
+          },
+          "coords": [
+            12.566036,
+            54.449591
+          ],
+          "category": "cultural",
+          "arrive_at": "14:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erleben Sie die besondere Atmosphäre dieses Open-Air-Theaters mitten in der Natur, und prüfen Sie vorab den Spielplan auf aktuelle lokale Veranstaltungen.",
+            "hu": "Tapasztalja meg ennek a természet lágyén elterülő szabadtéri színháznak a különleges hangulatát, és érdemes előzetesen ellenőrizni a programot az aktuális eseményekért.",
+            "ro": "Experimentați atmosfera specială a acestui teatru în aer liber din mijlocul naturii și verificați în prealabil programul pentru evenimentele locale actuale.",
+            "en": "Experience the special atmosphere of this open-air theater surrounded by nature, and check the schedule in advance for any current local events or performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Seemannskirche",
+            "hu": "Tengerésztemplom",
+            "ro": "Biserica Marinarilor",
+            "en": "Seemannskirche"
+          },
+          "coords": [
+            12.582544,
+            54.447479
+          ],
+          "category": "religious",
+          "arrive_at": "15:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese historische Kirche mit ihren maritimen Details und alten Modellschiffen, und achten Sie besonders auf den friedlichen, sehenswerten Kirchhof.",
+            "hu": "Látogassa meg ezt a történelmi templomot tengeri részleteivel és régi hajómodelljeivel, és fordítson különös figyelmet a békés, figyelemre méltó templomkertre.",
+            "ro": "Vizitați această biserică istorică cu detaliile sale maritime și vechile corăbii în miniatură, acordând o atenție deosebită cimitirului liniștit și pitoresc.",
+            "en": "Visit this historic church with its maritime details and old model ships, paying special attention to the peaceful and remarkable churchyard during your stay."
+          }
+        },
+        {
+          "name": {
+            "de": "Hohe Düne",
+            "hu": "Hohe Düne",
+            "ro": "Hohe Düne",
+            "en": "Hohe Düne"
+          },
+          "coords": [
+            12.591839,
+            54.450262
+          ],
+          "category": "natural",
+          "arrive_at": "16:34",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Blick von dieser natürlichen Sandformation, wofür festes Schuhwerk empfohlen wird, um den sandigen Aufstieg mühelos zu meistern.",
+            "hu": "Élvezze a széles kilátást ebből a természetes homokképződményből, amelyhez erős cipő viselése ajánlott, hogy könnyedén megbirkózzon a homokos emelkedővel.",
+            "ro": "Bucurați-vă de priveliștea vastă de pe această formațiune naturală de nisip, pentru care se recomandă încălțăminte solidă pentru a face față cu ușurință urcușului.",
+            "en": "Enjoy the expansive view from this natural sand formation, for which sturdy footwear is highly recommended to easily tackle the somewhat sandy ascent."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Prerow beginnt mit maritimer Geschichte im Darß-Museum. Danach bewundern Sie Bernstein in der Heimatgalerie und genießen eine traditionelle Kutschfahrt. Am Nachmittag erleben Sie die Natur an der Freilichtbühne und besichtigen die alte Seemannskirche. Der Abend klingt mit einem herrlichen Blick von der Hohen Düne auf die Ostsee und die umliegende Küstenlandschaft friedlich aus.",
+        "hu": "A prerowi nap a Darß-Múzeum tengeri történelmével kezdődik. Ezután borostyánt csodálhat a Heimatgalerie-ben, és élvezhet egy hagyományos lovaskocsikázást. Délután a szabadtéri színpadnál élvezheti a természetet, és meglátogathatja a régi tengerésztemplomot. Az este a Hohe Düne-ről a Balti-tengerre és a környező partvidékre nyíló csodálatos kilátással, békésen ér véget.",
+        "ro": "Ziua dvs. în Prerow începe cu istoria maritimă la Muzeul Darß. Apoi veți admira chihlimbarul la Heimatgalerie și vă veți bucura de o plimbare cu trăsura. După-amiaza veți experimenta natura la teatrul în aer liber și veți vizita vechea biserică a marinarilor. Seara se încheie liniștit cu o vedere minunată asupra Mării Baltice și a peisajului de coastă de pe Hohe Düne.",
+        "en": "Your day in Prerow begins with maritime history at the Darß Museum. You will then admire amber at the Heimatgalerie and enjoy a traditional carriage ride. In the afternoon, experience nature at the open-air stage and visit the old Seemannskirche. The evening ends peacefully with a magnificent view of the Baltic Sea and the surrounding coastal landscape from the Hohe Düne."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Seemannskirche",
+            "hu": "Tengerésztemplom",
+            "ro": "Biserica Marinarilor",
+            "en": "Seemannskirche"
+          },
+          "coords": [
+            12.582544,
+            54.447479
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese historische Kirche mit ihren maritimen Details und alten Modellschiffen, und achten Sie besonders auf den friedlichen, sehenswerten Kirchhof.",
+            "hu": "Látogassa meg ezt a történelmi templomot tengeri részleteivel és régi hajómodelljeivel, és fordítson különös figyelmet a békés, figyelemre méltó templomkertre.",
+            "ro": "Vizitați această biserică istorică cu detaliile sale maritime și vechile corăbii în miniatură, acordând o atenție deosebită cimitirului liniștit și pitoresc.",
+            "en": "Visit this historic church with its maritime details and old model ships, paying special attention to the peaceful and remarkable churchyard during your stay."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunst formt Garten",
+            "hu": "Kunst formt Garten",
+            "ro": "Kunst formt Garten",
+            "en": "Kunst formt Garten"
+          },
+          "coords": [
+            12.572084,
+            54.440956
+          ],
+          "category": "museum",
+          "arrive_at": "09:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese kunstvoll gestaltete Anlage, in der Skulpturen und Pflanzen harmonieren, und nehmen Sie sich ausreichend Zeit für die verborgenen Details.",
+            "hu": "Sétáljon végig ezen a művészien kialakított területen, ahol a szobrok és a növények harmonizálnak, és szánjon elegendő időt a rejtett részletek felfedezésére.",
+            "ro": "Plimbați-vă prin această zonă cu design artistic, unde sculpturile și plantele se armonizează perfect, și faceți-vă suficient timp pentru detaliile ascunse.",
+            "en": "Stroll through this artistically designed area where sculptures and plants perfectly harmonize, taking plenty of time to discover all the hidden intricate details."
+          }
+        },
+        {
+          "name": {
+            "de": "Darß-Museum",
+            "hu": "Darß-Múzeum",
+            "ro": "Muzeul Darß",
+            "en": "Darß Museum"
+          },
+          "coords": [
+            12.558393,
+            54.446901
+          ],
+          "category": "museum",
+          "arrive_at": "11:42",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale Geschichte und maritime Kultur in diesem charmanten Museum, in dem Sie sich am besten gleich morgens in Ruhe die historischen Exponate ansehen.",
+            "hu": "Fedezze fel a helyi történelmet és a tengeri kultúrát ebben a bájos múzeumban, ahol érdemes rögtön reggel, nyugodtan megtekinteni a történelmi kiállításokat.",
+            "ro": "Descoperiți istoria locală și cultura maritimă în acest muzeu fermecător, unde este cel mai bine să admirați exponatele istorice în liniște, încă de dimineață.",
+            "en": "Discover local history and maritime culture in this charming museum, where it is best to view the historical exhibits peacefully first thing in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatgalerie u Bernsteinmuseum",
+            "hu": "Heimatgalerie és Borostyánmúzeum",
+            "ro": "Heimatgalerie și Muzeul Chihlimbarului",
+            "en": "Heimatgalerie and Amber Museum"
+          },
+          "coords": [
+            12.557421,
+            54.447251
+          ],
+          "category": "museum",
+          "arrive_at": "13:24",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die faszinierenden Bernsteinexponate und regionale Kunstwerke, wobei das natürliche Licht am späten Vormittag die Details der Steine besonders hervorhebt.",
+            "hu": "Csodálja meg a lenyűgöző borostyán kiállításokat és regionális műalkotásokat, mivel a késő délelőtti természetes fény különösen kiemeli a kövek apró részleteit.",
+            "ro": "Admirați expozițiile fascinante de chihlimbar și operele de artă regionale, lumina naturală a dimineții târzii evidențiind în mod deosebit detaliile pietrelor.",
+            "en": "Admire the fascinating amber exhibits and regional artworks, as the natural late morning light particularly highlights the intricate details of the stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Wald Spa",
+            "hu": "Wald Spa",
+            "ro": "Wald Spa",
+            "en": "Wald Spa"
+          },
+          "coords": [
+            12.556263,
+            54.449814
+          ],
+          "category": "recreational",
+          "arrive_at": "15:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie in dieser ruhigen Wellnessoase inmitten der Natur, und bringen Sie Ihre eigenen Badesachen mit, um nach einem aktiven Tag bestens zu regenerieren.",
+            "hu": "Pihenjen meg ebben a csendes, természet lágyén fekvő wellness oázisban, és hozzon magával saját fürdőruhát, hogy egy aktív nap után a legjobban regenerálódhasson.",
+            "ro": "Relaxați-vă în această oază de wellness liniștită din mijlocul naturii și aduceți-vă propriul costum de baie pentru a vă recupera cel mai bine după o zi activă.",
+            "en": "Relax in this quiet wellness oasis surrounded by nature, and be sure to bring your own swimwear to recover perfectly after an active day exploring the area."
+          }
+        },
+        {
+          "name": {
+            "de": "Hohe Düne",
+            "hu": "Hohe Düne",
+            "ro": "Hohe Düne",
+            "en": "Hohe Düne"
+          },
+          "coords": [
+            12.591839,
+            54.450262
+          ],
+          "category": "natural",
+          "arrive_at": "16:35",
+          "stay_min": 105,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Blick von dieser natürlichen Sandformation, wofür festes Schuhwerk empfohlen wird, um den sandigen Aufstieg mühelos zu meistern.",
+            "hu": "Élvezze a széles kilátást ebből a természetes homokképződményből, amelyhez erős cipő viselése ajánlott, hogy könnyedén megbirkózzon a homokos emelkedővel.",
+            "ro": "Bucurați-vă de priveliștea vastă de pe această formațiune naturală de nisip, pentru care se recomandă încălțăminte solidă pentru a face față cu ușurință urcușului.",
+            "en": "Enjoy the expansive view from this natural sand formation, for which sturdy footwear is highly recommended to easily tackle the somewhat sandy ascent."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden Sie morgens die friedliche Seemannskirche und die Skulpturen bei Kunst formt Garten. Mittags tauchen Sie im Darß-Museum und in der Heimatgalerie in die lokale Kunst und Geschichte ein. Der Nachmittag lädt zur tiefen Entspannung im Wald Spa ein, bevor Sie abends zur Hohen Düne weiterradeln, um den Sonnenuntergang über der weiten Ostseeküste zu genießen.",
+        "hu": "Reggel kerékpárral fedezze fel a békés Seemannskirche-t és a Kunst formt Garten szobrait. Délben merüljön el a helyi művészetben és történelemben a Darß-Múzeumban és a Heimatgalerie-ben. A délután mély relaxációra csábít a Wald Spa-ban, mielőtt este tovább tekerne a Hohe Düne-hez, hogy élvezze a balti tengerpart felett lenyugvó napot.",
+        "ro": "Explorați dimineața cu bicicleta biserica liniștită a marinarilor și sculpturile de la Kunst formt Garten. La prânz, scufundați-vă în arta și istoria locală la Muzeul Darß și Heimatgalerie. După-amiaza vă invită la o relaxare profundă la Wald Spa, înainte de a pedala seara spre Hohe Düne pentru a vă bucura de apusul soarelui peste coasta baltică.",
+        "en": "Explore the peaceful Seemannskirche and the sculptures at Kunst formt Garten by bike in the morning. At noon, immerse yourself in local art and history at the Darß Museum and the Heimatgalerie. The afternoon invites deep relaxation at the Wald Spa, before cycling on to the Hohe Düne in the evening to enjoy the sunset over the vast Baltic coast."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:03",
+      "total_km": 4.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kunst formt Garten",
+            "hu": "Kunst formt Garten",
+            "ro": "Kunst formt Garten",
+            "en": "Kunst formt Garten"
+          },
+          "coords": [
+            12.572084,
+            54.440956
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese kunstvoll gestaltete Anlage, in der Skulpturen und Pflanzen harmonieren, und nehmen Sie sich ausreichend Zeit für die verborgenen Details.",
+            "hu": "Sétáljon végig ezen a művészien kialakított területen, ahol a szobrok és a növények harmonizálnak, és szánjon elegendő időt a rejtett részletek felfedezésére.",
+            "ro": "Plimbați-vă prin această zonă cu design artistic, unde sculpturile și plantele se armonizează perfect, și faceți-vă suficient timp pentru detaliile ascunse.",
+            "en": "Stroll through this artistically designed area where sculptures and plants perfectly harmonize, taking plenty of time to discover all the hidden intricate details."
+          }
+        },
+        {
+          "name": {
+            "de": "Darß-Museum",
+            "hu": "Darß-Múzeum",
+            "ro": "Muzeul Darß",
+            "en": "Darß Museum"
+          },
+          "coords": [
+            12.558393,
+            54.446901
+          ],
+          "category": "museum",
+          "arrive_at": "10:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale Geschichte und maritime Kultur in diesem charmanten Museum, in dem Sie sich am besten gleich morgens in Ruhe die historischen Exponate ansehen.",
+            "hu": "Fedezze fel a helyi történelmet és a tengeri kultúrát ebben a bájos múzeumban, ahol érdemes rögtön reggel, nyugodtan megtekinteni a történelmi kiállításokat.",
+            "ro": "Descoperiți istoria locală și cultura maritimă în acest muzeu fermecător, unde este cel mai bine să admirați exponatele istorice în liniște, încă de dimineață.",
+            "en": "Discover local history and maritime culture in this charming museum, where it is best to view the historical exhibits peacefully first thing in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatgalerie u Bernsteinmuseum",
+            "hu": "Heimatgalerie és Borostyánmúzeum",
+            "ro": "Heimatgalerie și Muzeul Chihlimbarului",
+            "en": "Heimatgalerie and Amber Museum"
+          },
+          "coords": [
+            12.557421,
+            54.447251
+          ],
+          "category": "museum",
+          "arrive_at": "12:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die faszinierenden Bernsteinexponate und regionale Kunstwerke, wobei das natürliche Licht am späten Vormittag die Details der Steine besonders hervorhebt.",
+            "hu": "Csodálja meg a lenyűgöző borostyán kiállításokat és regionális műalkotásokat, mivel a késő délelőtti természetes fény különösen kiemeli a kövek apró részleteit.",
+            "ro": "Admirați expozițiile fascinante de chihlimbar și operele de artă regionale, lumina naturală a dimineții târzii evidențiind în mod deosebit detaliile pietrelor.",
+            "en": "Admire the fascinating amber exhibits and regional artworks, as the natural late morning light particularly highlights the intricate details of the stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Wald Spa",
+            "hu": "Wald Spa",
+            "ro": "Wald Spa",
+            "en": "Wald Spa"
+          },
+          "coords": [
+            12.556263,
+            54.449814
+          ],
+          "category": "recreational",
+          "arrive_at": "14:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie in dieser ruhigen Wellnessoase inmitten der Natur, und bringen Sie Ihre eigenen Badesachen mit, um nach einem aktiven Tag bestens zu regenerieren.",
+            "hu": "Pihenjen meg ebben a csendes, természet lágyén fekvő wellness oázisban, és hozzon magával saját fürdőruhát, hogy egy aktív nap után a legjobban regenerálódhasson.",
+            "ro": "Relaxați-vă în această oază de wellness liniștită din mijlocul naturii și aduceți-vă propriul costum de baie pentru a vă recupera cel mai bine după o zi activă.",
+            "en": "Relax in this quiet wellness oasis surrounded by nature, and be sure to bring your own swimwear to recover perfectly after an active day exploring the area."
+          }
+        },
+        {
+          "name": {
+            "de": "Seemannskirche",
+            "hu": "Tengerésztemplom",
+            "ro": "Biserica Marinarilor",
+            "en": "Seemannskirche"
+          },
+          "coords": [
+            12.582544,
+            54.447479
+          ],
+          "category": "religious",
+          "arrive_at": "15:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese historische Kirche mit ihren maritimen Details und alten Modellschiffen, und achten Sie besonders auf den friedlichen, sehenswerten Kirchhof.",
+            "hu": "Látogassa meg ezt a történelmi templomot tengeri részleteivel és régi hajómodelljeivel, és fordítson különös figyelmet a békés, figyelemre méltó templomkertre.",
+            "ro": "Vizitați această biserică istorică cu detaliile sale maritime și vechile corăbii în miniatură, acordând o atenție deosebită cimitirului liniștit și pitoresc.",
+            "en": "Visit this historic church with its maritime details and old model ships, paying special attention to the peaceful and remarkable churchyard during your stay."
+          }
+        },
+        {
+          "name": {
+            "de": "Hohe Düne",
+            "hu": "Hohe Düne",
+            "ro": "Hohe Düne",
+            "en": "Hohe Düne"
+          },
+          "coords": [
+            12.591839,
+            54.450262
+          ],
+          "category": "natural",
+          "arrive_at": "16:18",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Blick von dieser natürlichen Sandformation, wofür festes Schuhwerk empfohlen wird, um den sandigen Aufstieg mühelos zu meistern.",
+            "hu": "Élvezze a széles kilátást ebből a természetes homokképződményből, amelyhez erős cipő viselése ajánlott, hogy könnyedén megbirkózzon a homokos emelkedővel.",
+            "ro": "Bucurați-vă de priveliștea vastă de pe această formațiune naturală de nisip, pentru care se recomandă încălțăminte solidă pentru a face față cu ușurință urcușului.",
+            "en": "Enjoy the expansive view from this natural sand formation, for which sturdy footwear is highly recommended to easily tackle the somewhat sandy ascent."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour entspannt im Skulpturenpark Kunst formt Garten, gefolgt von historischen Einblicken im Darß-Museum. Ein kurzer Spaziergang führt Sie zur Heimatgalerie. Nachmittags erwartet Sie erholsame Ruhe im Wald Spa, bevor Sie die charmante Seemannskirche besuchen. Der erlebnisreiche Tag endet schließlich auf der Hohen Düne mit einem fantastischen Panoramaausblick.",
+        "hu": "Kezdje autós túráját lazán a Kunst formt Garten szoborparkban, majd tekintse meg a Darß-Múzeum történelmi kiállításait. Egy rövid sétával eljuthat a Heimatgalerie-hez. Délután pihentető nyugalom várja a Wald Spa-ban, mielőtt meglátogatná a hangulatos Seemannskirche-t. Az eseménydús nap végül a Hohe Düne-n ér véget egy fantasztikus panorámával.",
+        "ro": "Începeți turul cu mașina relaxat în parcul de sculpturi Kunst formt Garten, urmat de perspective istorice la Muzeul Darß. O scurtă plimbare vă duce la Heimatgalerie. După-amiaza vă așteaptă o liniște odihnitoare la Wald Spa, înainte de a vizita fermecătoarea biserică a marinarilor. Ziua plină de evenimente se încheie în cele din urmă pe Hohe Düne cu o priveliște panoramică fantastică.",
+        "en": "Start your car tour relaxed in the Kunst formt Garten sculpture park, followed by historical insights at the Darß Museum. A short walk takes you to the Heimatgalerie. In the afternoon, restful peace awaits you at the Wald Spa before you visit the charming Seemannskirche. The eventful day finally ends on the Hohe Düne with a fantastic panoramic view."
+      }
+    }
+  }
+}

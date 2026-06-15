@@ -1,0 +1,520 @@
+{
+  "city_id": "italy-varese-cities-v2",
+  "anchor": {
+    "name": "Varese",
+    "coords": [
+      8.833333,
+      45.816667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 1.65,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di Sant'Antonio",
+            "hu": "Chiesa di Sant'Antonio",
+            "ro": "Chiesa di Sant'Antonio",
+            "en": "Chiesa di Sant'Antonio"
+          },
+          "coords": [
+            8.824842,
+            45.815569
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem Blick auf die elegante Fassade dieser historischen Kirche und werfen Sie früh einen Blick hinein, um die Ruhe zu genießen.",
+            "hu": "Kezdje a napot ennek a történelmi templomnak az elegáns homlokzatával, és nézzen be korán, hogy élvezze a nyugodt légkört a város ébredése előtt.",
+            "ro": "Începeți-vă ziua admirând fațada elegantă a acestei biserici istorice și intrați devreme pentru a vă bucura de atmosfera liniștită înainte ca orașul să se trezească.",
+            "en": "Start your day by admiring the elegant facade of this historic church, and peek inside early to enjoy the tranquil atmosphere before the city wakes up."
+          }
+        },
+        {
+          "name": {
+            "de": "Civici Musei di Villa Mirabello",
+            "hu": "Civici Musei di Villa Mirabello",
+            "ro": "Civici Musei di Villa Mirabello",
+            "en": "Civici Musei di Villa Mirabello"
+          },
+          "coords": [
+            8.822802,
+            45.815774
+          ],
+          "category": "museum",
+          "arrive_at": "09:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche archäologische Geschichte der Region in dieser schönen Villa und nehmen Sie einen Audioguide, um die antiken Artefakte zu würdigen.",
+            "hu": "Fedezze fel a régió gazdag régészeti történetét ebben a gyönyörű villában, ahol érdemes audioguide-ot kérni az ősi leletek teljes megismeréséhez.",
+            "ro": "Descoperiți bogata istorie arheologică a regiunii în această vilă superbă, unde ar trebui să luați un ghid audio pentru a aprecia pe deplin artefactele.",
+            "en": "Discover the region's rich archaeological history in this beautiful villa, where you should grab an audio guide to fully appreciate the ancient artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre civica",
+            "hu": "Torre civica",
+            "ro": "Torre civica",
+            "en": "Torre civica"
+          },
+          "coords": [
+            8.825728,
+            45.817293
+          ],
+          "category": "tower",
+          "arrive_at": "11:36",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Blicken Sie hinauf zum imposanten Stadtturm, einem stolzen Symbol der lokalen Verwaltung, und machen Sie tolle Fotos von der kleinen Piazza an seinem Fuß.",
+            "hu": "Csodálja meg a város impozáns polgári tornyát, a helyi kormányzat büszke szimbólumát, és készítsen nagyszerű fotókat a tövében lévő kis térről.",
+            "ro": "Admirați impunătorul turn civic al orașului, un simbol mândru al administrației locale, și faceți fotografii grozave din mica piațetă de la baza sa.",
+            "en": "Gaze up at the city's imposing civic tower, a proud symbol of local governance, and capture great photos from the small piazza right at its base."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica di San Vittore",
+            "hu": "Basilica di San Vittore",
+            "ro": "Basilica di San Vittore",
+            "en": "Basilica di San Vittore"
+          },
+          "coords": [
+            8.827372,
+            45.818545
+          ],
+          "category": "religious",
+          "arrive_at": "12:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Treten Sie ein in das majestätische Herz von Varese in dieser prächtigen Basilika, wo Sie sich Zeit nehmen sollten, die atemberaubenden Fresken zu bewundern.",
+            "hu": "Lépjen be Varese fenséges szívébe ebben a csodálatos bazilikában, ahol érdemes időt szánni a lenyűgöző freskók és a főoltár megcsodálására.",
+            "ro": "Pășiți în inima maiestuoasă a orașului Varese la această magnifică bazilică, unde ar trebui să vă luați timp pentru a aprecia frescele uimitoare.",
+            "en": "Step into the majestic heart of Varese at this magnificent basilica, where you should take your time to appreciate the stunning frescoes and high altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Sala Veratti",
+            "hu": "Sala Veratti",
+            "ro": "Sala Veratti",
+            "en": "Sala Veratti"
+          },
+          "coords": [
+            8.825264,
+            45.820316
+          ],
+          "category": "museum",
+          "arrive_at": "12:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erkunden Sie die raffinierten Kunstwerke in diesem charmanten Ausstellungsraum und prüfen Sie den Zeitplan vorher, da die Sammlungen häufig wechseln.",
+            "hu": "Fedezze fel a kifinomult műalkotásokat ebben a bájos kiállítótérben, és előzetesen ellenőrizze a menetrendet, mivel az időszaki gyűjtemények gyakran változnak.",
+            "ro": "Explorați operele de artă rafinate găzduite în acest spațiu de expoziție fermecător și verificați programul în prealabil, deoarece colecțiile se schimbă des.",
+            "en": "Explore the refined artworks housed within this charming exhibition space, and check the schedule beforehand as temporary collections change quite often."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Panza",
+            "hu": "Villa Panza",
+            "ro": "Villa Panza",
+            "en": "Villa Panza"
+          },
+          "coords": [
+            8.829137,
+            45.825026
+          ],
+          "category": "landmark",
+          "arrive_at": "14:37",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in zeitgenössische Kunst von Weltrang in einem historischen Herrenhaus, und reservieren Sie Ihre Tickets online während der Sommermonate.",
+            "hu": "Merüljön el a világszínvonalú kortárs művészetben egy történelmi kúriában, és ne felejtse el online lefoglalni a jegyeket a forgalmas nyári hónapokban.",
+            "ro": "Cufundați-vă în arta contemporană de clasă mondială expusă într-un conac istoric, asigurându-vă că vă rezervați biletele online în lunile aglomerate de vară.",
+            "en": "Immerse yourself in world-class contemporary art displayed in a historic mansion, making sure to reserve your entry tickets online during busy summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Andrea Ponti",
+            "hu": "Villa Andrea Ponti",
+            "ro": "Villa Andrea Ponti",
+            "en": "Villa Andrea Ponti"
+          },
+          "coords": [
+            8.830947,
+            45.825863
+          ],
+          "category": "landmark",
+          "arrive_at": "15:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang, indem Sie durch das weitläufige Gelände dieses Anwesens schlendern, perfekt für einen entspannten Nachmittagsspaziergang.",
+            "hu": "Zárja sétáját a hatalmas birtok buja, tágas parkjának bejárásával, amely tökéletes egy pihentető délutáni sétához az egzotikus növényfajok között.",
+            "ro": "Încheiați-vă plimbarea rătăcind pe terenurile luxuriante ale acestei proprietăți, perfecte pentru o plimbare relaxantă de după-amiază printre specii exotice.",
+            "en": "Conclude your walk by wandering the lush, expansive grounds of this landmark estate, perfect for a relaxing afternoon stroll among exotic botanical species."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einem Spaziergang durch die historischen Straßen in der Nähe des Zentrums, entdecken Sie Kirchen und genießen Sie die friedliche Atmosphäre, während Varese langsam erwacht. \n\n Tauchen Sie mittags in die reiche lokale Geschichte ein und erkunden Sie die Museen und städtischen Wahrzeichen, die stolze Zeugnisse des reichen kulturellen Erbes der Region sind. \n\n Der Nachmittag lädt Sie ein, zu den eleganten Nordhängen zu schlendern, wo atemberaubende Villen und ihre weitläufigen Gärten Beispiele klassischer Schönheit und zeitgenössischer Kunst zeigen. \n\n Wenn der Abend naht, beenden Sie Ihre Fußreise umgeben von üppigen Parklandschaften, entspannen Sie sich und lassen Sie die wunderschönen Eindrücke vor einem Abendessen Revue passieren.",
+        "hu": "Kezdje a reggelt a központ körüli szűk történelmi utcákban barangolva, fedezze fel a templomokat, és szívja magába Varese békés atmoszféráját, ahogy a város lassan felébred az új napra. \n\n Délben merüljön el a gazdag helyi történelemben, felfedezve a múzeumokat és a polgári nevezetességeket, amelyek a régió gazdag építészeti és kulturális örökségének büszke tanúi. \n\n A délután arra hívja, hogy sétáljon az elegáns északi lejtők felé, ahol a lenyűgöző villák és kiterjedt kertjeik a klasszikus szépség és a kortárs művészet lélegzetelállító példáit mutatják be. \n\n Ahogy közeledik az este, fejezze be gyalogos útját a buja parkok ölelésében, pihenjen meg egy pillanatra, és gondoljon vissza a gyönyörű látnivalókra egy megérdemelt olasz vacsora előtt.",
+        "ro": "Începeți dimineața rătăcind pe străzile istorice înguste din apropierea centrului, descoperind biserici și absorbind atmosfera pașnică din Varese pe măsură ce orașul se trezește încet. \n\n La amiază, cufundați-vă în istoria locală bogată, explorând muzeele și reperele civice care stau ca mărturii mândre ale moștenirii arhitecturale și culturale bogate a regiunii. \n\n După-amiaza vă invită să vă plimbați spre pantele nordice elegante, unde vile uimitoare și grădinile lor extinse prezintă exemple uluitoare de frumusețe clasică și artă. \n\n Pe măsură ce se apropie seara, încheiați-vă călătoria pietonală înconjurat de parcuri luxuriante, relaxându-vă un moment pentru a reflecta la priveliștile frumoase înainte de cină.",
+        "en": "Begin your morning wandering the narrow historical streets near the center, discovering local churches and absorbing the peaceful atmosphere of Varese as the city slowly wakes up to a new day. \n\n By midday, immerse yourself in the rich local history, exploring the museums and civic landmarks that stand as proud testaments to the region's wealthy architectural and cultural heritage. \n\n The afternoon invites you to stroll towards the elegant northern slopes, where stunning villas and their expansive gardens showcase breathtaking examples of classical beauty and contemporary art. \n\n As evening approaches, wrap up your pedestrian journey surrounded by lush parklands, taking a moment to relax and reflect on the beautiful sights before enjoying a well-deserved Italian dinner."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:02",
+      "total_km": 3.89,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Piscina Comunale di Varese Fausto Fabiano",
+            "hu": "Piscina Comunale di Varese Fausto Fabiano",
+            "ro": "Piscina Comunale di Varese Fausto Fabiano",
+            "en": "Piscina Comunale di Varese Fausto Fabiano"
+          },
+          "coords": [
+            8.821001,
+            45.816099
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihr Radabenteuer in der Nähe dieses belebten öffentlichen Schwimmbads, einem tollen Treffpunkt, um sich vor der Fahrt die Beine zu vertreten.",
+            "hu": "Kezdje kerékpáros kalandját ez a nyüzsgő nyilvános medence közelében, amely egy nagyszerű helyi találkozóhely, ahol kinyújthatja a lábát indulás előtt.",
+            "ro": "Începeți-vă aventura cu bicicleta lângă această piscină publică plină de viață, un loc minunat de întâlnire pentru a vă dezmorți picioarele înainte de plecare.",
+            "en": "Begin your cycling adventure near this lively public pool, a great local meeting point where you can stretch your legs before hitting the cycle paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Copia urna funeraria a Tadeusz Kościuszko",
+            "hu": "Copia urna funeraria a Tadeusz Kościuszko",
+            "ro": "Copia urna funeraria a Tadeusz Kościuszko",
+            "en": "Copia urna funeraria a Tadeusz Kościuszko"
+          },
+          "coords": [
+            8.811865,
+            45.815802
+          ],
+          "category": "historical",
+          "arrive_at": "10:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem einzigartigen historischen Denkmal für den polnischen Helden inne und genießen Sie einen ruhigen Moment abseits des Stadtzentrums.",
+            "hu": "Álljon meg egy pillanatra ennél a lengyel hősnek szentelt egyedülálló történelmi emlékműnél, amely csendes menedéket kínál a nyüzsgő városközponttól távol.",
+            "ro": "Faceți o pauză la acest monument istoric unic dedicat eroului polonez, oferind un moment de liniște departe de aglomerația din centrul orașului.",
+            "en": "Pause to reflect at this unique historical monument dedicated to the Polish hero, offering a quiet moment away from the bustling city center crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Civici Musei di Villa Mirabello",
+            "hu": "Civici Musei di Villa Mirabello",
+            "ro": "Civici Musei di Villa Mirabello",
+            "en": "Civici Musei di Villa Mirabello"
+          },
+          "coords": [
+            8.822802,
+            45.815774
+          ],
+          "category": "museum",
+          "arrive_at": "11:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad, um die archäologischen Schätze des Museums zu erkunden, und verpassen Sie nicht die umliegenden Gärten für eine kurze Erfrischung.",
+            "hu": "Parkolja le kerékpárját, hogy felfedezze a múzeum régészeti kincseit, és ne hagyja ki a gyönyörű környező kerteket, amelyek tökéletesek egy kis frissítőre.",
+            "ro": "Parcați-vă bicicleta pentru a explora comorile arheologice ale muzeului și nu ratați grădinile frumoase din jur, perfecte pentru o scurtă pauză de relaxare.",
+            "en": "Park your bike to explore the archaeological treasures of the museum, and don't miss the beautiful surrounding gardens perfect for a quick refreshment break."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica di San Vittore",
+            "hu": "Basilica di San Vittore",
+            "ro": "Basilica di San Vittore",
+            "en": "Basilica di San Vittore"
+          },
+          "coords": [
+            8.827372,
+            45.818545
+          ],
+          "category": "religious",
+          "arrive_at": "13:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die imposante Architektur von Vareses zentraler Basilika und schließen Sie Ihr Fahrrad sicher ab, bevor Sie das Innere besichtigen.",
+            "hu": "Csodálja meg Varese központi bazilikájának lenyűgöző építészetét, és gondoskodjon kerékpárja biztonságos lezárásáról a közeli téren, mielőtt bemegy.",
+            "ro": "Minunați-vă de arhitectura impunătoare a bazilicii centrale, asigurându-vă că vă blocați bine bicicleta în piața din apropiere înainte de a intra.",
+            "en": "Marvel at the imposing architecture of Varese's central basilica, ensuring you securely lock your bike in the nearby piazza before heading inside the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Selene",
+            "hu": "Villa Selene",
+            "ro": "Villa Selene",
+            "en": "Villa Selene"
+          },
+          "coords": [
+            8.829397,
+            45.82255
+          ],
+          "category": "historical",
+          "arrive_at": "14:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Bewundern Sie die eleganten Linien dieser historischen Villa von der Straße aus, ein wunderbares Beispiel für die wohlhabende Vergangenheit der Region.",
+            "hu": "Csodálja meg ennek a történelmi villának az elegáns vonalait az utcáról, amely a régió tehetős múltjának csodálatos példája és remek fotótéma.",
+            "ro": "Admirați liniile elegante ale acestei vile istorice din stradă, un exemplu minunat al trecutului bogat al regiunii și un loc grozav pentru fotografii.",
+            "en": "Admire the elegant lines of this historic villa from the street, a wonderful example of the region's affluent past and a great spot for architectural photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Andrea Ponti",
+            "hu": "Villa Andrea Ponti",
+            "ro": "Villa Andrea Ponti",
+            "en": "Villa Andrea Ponti"
+          },
+          "coords": [
+            8.830947,
+            45.825863
+          ],
+          "category": "landmark",
+          "arrive_at": "15:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.39,
+          "tip_5lang": {
+            "de": "Radeln Sie hinauf zu diesem prächtigen Wahrzeichen, wo die weitläufigen Auffahrten und alten Bäume eine spektakuläre und malerische grüne Kulisse bieten.",
+            "hu": "Kerékpározzon fel ehhez a csodálatos, ikonikus birtokhoz, ahol a hatalmas felhajtók és az öreg fák látványos és hihetetlenül festői zöld hátteret biztosítanak.",
+            "ro": "Mergeți cu bicicleta spre acest conac magnific, unde aleile largi și copacii bătrâni oferă un fundal verde spectaculos și incredibil de pitoresc.",
+            "en": "Cycle up towards this magnificent landmark estate, where the sweeping driveways and mature trees provide a spectacular and incredibly scenic green backdrop."
+          }
+        },
+        {
+          "name": {
+            "de": "Associazione Amici di Piero Chiara-Premio Chiara-Festival del Racconto",
+            "hu": "Associazione Amici di Piero Chiara-Premio Chiara-Festival del Racconto",
+            "ro": "Associazione Amici di Piero Chiara-Premio Chiara-Festival del Racconto",
+            "en": "Associazione Amici di Piero Chiara-Premio Chiara-Festival del Racconto"
+          },
+          "coords": [
+            8.841053,
+            45.820173
+          ],
+          "category": "cultural",
+          "arrive_at": "16:32",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour an diesem kulturellen Zentrum für lokale Literatur, ein perfekter Ort, um mit einem Buch zu entspannen und über Kunst zu lernen.",
+            "hu": "Fejezze be túráját ebben a helyi irodalomnak szentelt élénk kulturális központban, amely tökéletes hely a kikapcsolódásra és a helyi közösség megismerésére.",
+            "ro": "Terminați turul la acest centru cultural dedicat literaturii locale, un loc perfect pentru a vă relaxa cu o carte sau a afla despre comunitatea artistică.",
+            "en": "Finish your tour at this lively cultural hub dedicated to local literature, a perfect place to relax with a book or learn about Varese's artistic community."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour auf den ruhigen Wegen in der Nähe des Schwimmbads, atmen Sie die frische Luft ein und wärmen Sie Ihre Muskeln für einen aufregenden Tag voller Entdeckungen auf. \n\n Gegen Mittag radeln Sie in Richtung des historischen Kerns, halten an Denkmälern und Museen an, um die Fahrt zu unterbrechen und tief in die abwechslungsreiche Geschichte der Stadt einzutauchen. \n\n Der Nachmittag führt Sie auf eine malerische Fahrt vorbei an den majestätischsten Villen der Stadt, die direkt vom Sattel aus wunderbare architektonische Ausblicke bieten, ohne anhalten zu müssen. \n\n Gleiten Sie in den frühen Abend, indem Sie in einem kulturellen Zentrum ankommen, wo Sie Ihr Fahrrad parken, die Beine ausstrecken und die lebendige lokale Kunstatmosphäre genießen können.",
+        "hu": "Kezdje kerékpártúráját a nyilvános medencék körüli csendes reggeli utakon, szívja be a friss levegőt, és melegítse be izmait az izgalmas, felfedezésekkel teli napra. \n\n Dél körül tekerjen a történelmi központ felé, álljon meg egyedi műemlékeknél és múzeumoknál, hogy megszakítsa az utat, és elmerüljön a várost formáló változatos történelemben. \n\n A délután festői útvonalra viszi a város legfenségesebb villái mellett, csodálatos építészeti kilátást kínálva egyenesen a nyeregből, anélkül, hogy teljesen le kellene lassítania. \n\n Guruljon bele a kora estébe egy izgalmas kulturális központban, ahol könnyedén leparkolhatja kerékpárját, kinyújthatja fáradt lábait, és magába szívhatja a pezsgő helyi művészeti légkört.",
+        "ro": "Începeți-vă turul cu bicicleta profitând de potecile liniștite de dimineață de lângă piscinele publice, respirând aer proaspăt și încălzindu-vă mușchii pentru o zi plină de explorare. \n\n În jurul prânzului, pedalați spre centrul istoric, făcând o pauză la monumente unice și muzee pentru a întrerupe plimbarea și a vă scufunda în istoria variată a orașului. \n\n După-amiaza vă poartă într-o plimbare pitorească pe lângă unele dintre cele mai maiestuoase vile ale orașului, oferind vederi arhitecturale minunate direct din șa. \n\n Alunecați în prima parte a serii ajungând la un centru cultural captivant, unde vă puteți parca cu ușurință bicicleta, vă puteți întinde picioarele obosite și admira atmosfera locală.",
+        "en": "Kickstart your cycling tour by taking advantage of the quiet morning paths near the public pools, breathing in the fresh air and warming up your muscles for an exciting day of exploration. \n\n Around midday, pedal your way towards the historic core, pausing at unique monuments and museums to break up the ride and dive deeply into the varied history that shapes the city. \n\n The afternoon takes you on a scenic ride past some of the city's most majestic villas, offering wonderful architectural views straight from your saddle without needing to slow down entirely. \n\n Glide into the early evening by arriving at an engaging cultural hub, where you can easily park your bike, stretch out your tired legs, and soak in the vibrant local artistic atmosphere."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:36",
+      "total_km": 5.45,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Vasca di depurazione",
+            "hu": "Vasca di depurazione",
+            "ro": "Vasca di depurazione",
+            "en": "Vasca di depurazione"
+          },
+          "coords": [
+            8.836919,
+            45.804125
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie am südlichen Stadtrand in diesem interessanten Erholungs- und Nutzbereich, der einen einzigartigen Einblick in die moderne Infrastruktur bietet.",
+            "hu": "Kezdje a déli peremvárosban ezen az érdekes rekreációs és közüzemi területen, amely egyedülálló bepillantást nyújt a város modern infrastruktúrájába.",
+            "ro": "Începeți la periferia sudică la această zonă interesantă de agrement, oferind o privire unică asupra operațiunilor de infrastructură modernă ale orașului.",
+            "en": "Start in the southern outskirts at this interesting recreational and utility area, offering a unique glimpse into the city's modern infrastructure operations."
+          }
+        },
+        {
+          "name": {
+            "de": "Azienda agricola agriturismo La Gaggina",
+            "hu": "Azienda agricola agriturismo La Gaggina",
+            "ro": "Azienda agricola agriturismo La Gaggina",
+            "en": "Azienda agricola agriturismo La Gaggina"
+          },
+          "coords": [
+            8.824156,
+            45.809229
+          ],
+          "category": "recreational",
+          "arrive_at": "10:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.15,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem charmanten Agriturismo für einen Hauch von Landluft und überlegen Sie, ob Sie frische lokale Produkte direkt vom Bauernhof kaufen möchten.",
+            "hu": "Vezessen ehhez a bájos agroturizmushoz egy kis vidéki hangulatért, és fontolja meg, hogy autentikus helyi termékeket vásárol egyenesen a gazdaságból.",
+            "ro": "Conduceți la acest agroturism fermecător pentru a simți aerul de la țară și luați în considerare cumpărarea de produse locale autentice direct de la fermă.",
+            "en": "Drive to this charming agriturismo for a taste of the countryside, and consider buying some authentic local produce straight from the farm to take home."
+          }
+        },
+        {
+          "name": {
+            "de": "Copia urna funeraria a Tadeusz Kościuszko",
+            "hu": "Copia urna funeraria a Tadeusz Kościuszko",
+            "ro": "Copia urna funeraria a Tadeusz Kościuszko",
+            "en": "Copia urna funeraria a Tadeusz Kościuszko"
+          },
+          "coords": [
+            8.811865,
+            45.815802
+          ],
+          "category": "historical",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe, um dieses ergreifende historische Denkmal zu besuchen, eine unerwartete Hommage, die dem Erbe der Stadt eine spannende Facette verleiht.",
+            "hu": "Parkoljon le a közelben, hogy meglátogassa ezt a megrendítő történelmi emlékművet, egy váratlan tiszteletadást, amely lenyűgöző nemzetközi réteget ad a városnak.",
+            "ro": "Parcați în apropiere pentru a vizita acest monument istoric emoționant, un tribut neașteptat care adaugă un strat internațional fascinant moștenirii locale.",
+            "en": "Park nearby to visit this poignant historical monument, an unexpected tribute that adds a fascinating international layer to the city's local heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre civica",
+            "hu": "Torre civica",
+            "ro": "Torre civica",
+            "en": "Torre civica"
+          },
+          "coords": [
+            8.825728,
+            45.817293
+          ],
+          "category": "tower",
+          "arrive_at": "12:37",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Fahren Sie ins Zentrum, um den ikonischen Stadtturm zu sehen, und nutzen Sie die nahegelegenen Tiefgaragen, bevor Sie in die Fußgängerzonen spazieren.",
+            "hu": "Haladjon a központ felé, hogy megtekintse az ikonikus polgári tornyot, és használja a közeli mélygarázsokat, mielőtt elsétálna a sétálóutcákba.",
+            "ro": "Mergeți în centru pentru a vedea turnul civic iconic, folosind opțiunile de parcare subterană din apropiere înainte de a intra în zonele pietonale.",
+            "en": "Head into the center to see the iconic civic tower, utilizing the nearby underground parking options before walking into the pedestrian-friendly zones."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Panza",
+            "hu": "Villa Panza",
+            "ro": "Villa Panza",
+            "en": "Villa Panza"
+          },
+          "coords": [
+            8.829137,
+            45.825026
+          ],
+          "category": "landmark",
+          "arrive_at": "13:04",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Fahren Sie zu dieser prächtigen Villa, die für ihre Sammlung zeitgenössischer Kunst bekannt ist und wo der große Parkplatz Ihren Besuch völlig problemlos macht.",
+            "hu": "Vezessen fel ehhez a kortárs művészeti gyűjteményéről ismert csodálatos villához, ahol a tágas, dedikált parkoló teljesen problémamentessé teszi látogatását.",
+            "ro": "Conduceți până la această vilă magnifică cunoscută pentru colecția sa de artă contemporană, unde parcarea spațioasă vă face vizita complet lipsită de griji.",
+            "en": "Drive up to this magnificent villa known for its contemporary art collection, where the spacious dedicated parking lot makes your visit completely hassle-free."
+          }
+        },
+        {
+          "name": {
+            "de": "Associazione Amici di Piero Chiara-Premio Chiara-Festival del Racconto",
+            "hu": "Associazione Amici di Piero Chiara-Premio Chiara-Festival del Racconto",
+            "ro": "Associazione Amici di Piero Chiara-Premio Chiara-Festival del Racconto",
+            "en": "Associazione Amici di Piero Chiara-Premio Chiara-Festival del Racconto"
+          },
+          "coords": [
+            8.841053,
+            45.820173
+          ],
+          "category": "cultural",
+          "arrive_at": "14:06",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt an diesem literarischen Kulturzentrum und genießen Sie die ruhige Umgebung, bevor Sie zu einem wohlverdienten traditionellen Abendessen aufbrechen.",
+            "hu": "Zárja autózását ebben az irodalmi kulturális központban, élvezve a nyugodt környéket, mielőtt elindulna egy jól megérdemelt hagyományos olasz vacsorára.",
+            "ro": "Încheiați-vă plimbarea cu mașina la acest centru cultural literar, bucurându-vă de cartierul senin înainte de a ieși la o cină tradițională italiană.",
+            "en": "Conclude your drive at this literary cultural center, enjoying the serene neighborhood environment before heading out for a well-deserved traditional Italian dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt an den weniger überlasteten südlichen Randgebieten, erkunden Sie die modernen Anlagen der Stadt und genießen Sie den friedlichen ländlichen Charme eines Agriturismo. \n\n Wenn der Mittag naht, navigieren Sie zurück zu den historischen Sehenswürdigkeiten, nutzen Sie bequeme Parkplätze und bestaunen Sie die klassischen Denkmäler und städtischen Bauwerke. \n\n Verbringen Sie den Nachmittag damit, zum nördlichen Villenviertel zu fahren, wo ausreichend Parkplätze es Ihnen ermöglichen, mühelos die zeitgenössischen Kunstsammlungen zu erkunden. \n\n Schalten Sie am frühen Abend in der Nähe einer literarischen Vereinigung ab, genießen Sie das schwindende Licht über den ruhigen Straßen und suchen Sie sich ein gemütliches Lokal fürs Abendessen.",
+        "hu": "Kezdje az autózást a kevésbé zsúfolt déli peremvárosban, vizsgálja meg a város modern működési létesítményeit, és élvezze egy autentikus agroturizmus békés, vidéki varázsát. \n\n A dél közeledtével navigáljon vissza a történelmi nevezetességek felé, kihasználva a kényelmes parkolóhelyeket, hogy kiszálljon és megcsodálja a klasszikus műemlékeket és polgári épületeket. \n\n Töltse a délutánt az elegáns északi villanegyedbe autózva, ahol a bőséges parkolóhelyek lehetővé teszik a híres kortárs művészeti gyűjtemények és a kiterjedt kertek könnyed felfedezését. \n\n Állítsa le a motort kora este egy élénk irodalmi egyesület közelében, élvezve a lemenő fényt a csendes utcák felett, mielőtt kiválasztana egy hangulatos helyet egy nyugodt vacsorához.",
+        "ro": "Începeți traseul de condus la periferia sudică mai puțin aglomerată, investigând facilitățile moderne ale orașului și bucurându-vă de farmecul rural pașnic al unui agroturism autentic. \n\n Pe măsură ce se apropie amiaza, navigați înapoi spre reperele istorice, folosind locuri de parcare convenabile pentru a coborî și a admira monumentele clasice și structurile civice. \n\n Petreceți-vă după-amiaza mergând spre prestigiosul cartier al vilelor din nord, unde parcarea generoasă vă permite să explorați fără efort colecțiile de artă contemporană renumite. \n\n Opriți-vă motorul seara devreme, lângă o asociație literară plină de viață, bucurându-vă de lumina slabă de pe străzile liniștite înainte de a alege un loc primitor pentru cină.",
+        "en": "Start your driving itinerary on the less congested southern outskirts, investigating the city's modern operational facilities and enjoying the peaceful rural charm of an authentic agriturismo. \n\n As midday approaches, navigate back towards the historical landmarks, utilizing convenient parking spots to hop out and marvel at the classic monuments and towering civic structures. \n\n Spend your afternoon cruising up to the prestigious northern villa district, where ample parking allows you to effortlessly explore the renowned contemporary art collections and sprawling gardens. \n\n Wind down your engine in the early evening near a lively literary association, enjoying the fading light over the quiet streets before choosing a cozy spot for a relaxed, delicious dinner."
+      }
+    }
+  }
+}

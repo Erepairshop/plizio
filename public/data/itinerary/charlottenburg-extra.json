@@ -1,0 +1,474 @@
+{
+  "city_id": "charlottenburg-extra",
+  "anchor": {
+    "name": "Charlottenburg",
+    "coords": [
+      13.2989,
+      52.5168
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:58",
+      "total_km": 3.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Charlottenburg",
+            "hu": "Charlottenburg kastély",
+            "ro": "Palatul Charlottenburg",
+            "en": "Charlottenburg Palace"
+          },
+          "coords": [
+            13.295833,
+            52.521111
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prachtvollen Räume dieses barocken Schlosses, das Berlins königliche Geschichte erzählt, und kommen Sie früh, um die weitläufigen Gärten in Ruhe zu genießen.",
+            "hu": "Csodálja meg e barokk kastély pompás termeit, melyek Berlin királyi múltját idézik, és érkezzen korán, hogy nyugodtan sétálhasson a tágas kertekben.",
+            "ro": "Admirați sălile somptuoase ale acestui palat baroc ce reflectă istoria regală a Berlinului și veniți devreme pentru a vă bucura în liniște de grădinile întinse.",
+            "en": "Admire the sumptuous rooms of this baroque palace that reflects Berlin's royal history, and arrive early to enjoy a peaceful stroll through the expansive gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Keramik-Museum Berlin",
+            "hu": "Kerámia Múzeum Berlin",
+            "ro": "Muzeul de Ceramică Berlin",
+            "en": "Ceramics Museum Berlin"
+          },
+          "coords": [
+            13.304034,
+            52.517195
+          ],
+          "category": "museum",
+          "arrive_at": "10:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie einzigartige Keramikkunstwerke in diesem charmanten Museum, das lokale Handwerkskunst zeigt, und achten Sie auf die wechselnden Sonderausstellungen.",
+            "hu": "Fedezzen fel egyedi kerámiaalkotásokat ebben a bájos múzeumban, amely a helyi kézművességet mutatja be, és figyeljen az izgalmas időszaki kiállításokra is.",
+            "ro": "Descoperiți opere de artă ceramică unice în acest muzeu fermecător ce expune măiestria locală și acordați atenție expozițiilor temporare captivante.",
+            "en": "Discover unique ceramic artworks in this charming museum showcasing local craftsmanship, and make sure to check out their rotating temporary exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Deutsche Oper Berlin",
+            "hu": "Német Opera Berlin",
+            "ro": "Opera Germană din Berlin",
+            "en": "Deutsche Oper Berlin"
+          },
+          "coords": [
+            13.308333,
+            52.512778
+          ],
+          "category": "landmark",
+          "arrive_at": "12:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erleben Sie die moderne Architektur dieses berühmten Opernhauses, das für seine exzellente Akustik bekannt ist, und buchen Sie Tickets für Vorstellungen am besten weit im Voraus.",
+            "hu": "Tapasztalja meg e híres operaház modern építészetét, amely kiváló akusztikájáról ismert, és érdemes jó előre jegyet foglalni a népszerű esti előadásokra.",
+            "ro": "Experimentați arhitectura modernă a acestei celebre opere, cunoscută pentru acustica sa excelentă, și rezervați biletele cu mult timp înainte pentru spectacole.",
+            "en": "Experience the modern architecture of this renowned opera house, famous for its excellent acoustics, and book your tickets well in advance for popular evening performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Savignyplatz",
+            "hu": "Savignyplatz",
+            "ro": "Piața Savigny",
+            "en": "Savignyplatz"
+          },
+          "coords": [
+            13.319066,
+            52.505175
+          ],
+          "category": "historic square",
+          "arrive_at": "13:27",
+          "stay_min": 25,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem belebten Platz, der das literarische und künstlerische Herz des Viertels bildet, und genießen Sie einen Kaffee in einem der vielen traditionellen Cafés.",
+            "hu": "Pihenjen meg ezen a nyüzsgő téren, amely a negyed irodalmi és művészeti központja, és élvezze a kávézást a számos hagyományos teraszos kávézó egyikében.",
+            "ro": "Relaxați-vă în această piață animată care reprezintă inima literară și artistică a cartierului și savurați o cafea la una dintre numeroasele cafenele tradiționale.",
+            "en": "Relax in this bustling square that forms the literary and artistic heart of the neighborhood, and enjoy a coffee at one of the many traditional sidewalk cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Kurfürstendamm",
+            "hu": "Kurfürstendamm",
+            "ro": "Kurfürstendamm",
+            "en": "Kurfürstendamm"
+          },
+          "coords": [
+            13.312778,
+            52.500833
+          ],
+          "category": "historic square",
+          "arrive_at": "14:03",
+          "stay_min": 55,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Schlendern Sie über diesen berühmten Boulevard, der Berlins westliches Zentrum prägt, und werfen Sie einen Blick in die eleganten Boutiquen und historischen Schaufenster.",
+            "hu": "Sétáljon végig ezen a híres sugárúton, amely Berlin nyugati központját jelképezi, és vessen egy pillantást az elegáns butikokra, valamint a történelmi kirakatokra.",
+            "ro": "Plimbați-vă pe acest bulevard faimos ce definește centrul vestic al Berlinului și aruncați o privire la buticurile elegante și vitrinele istorice.",
+            "en": "Stroll along this famous boulevard that defines Berlin's western center, and take a look at the elegant boutiques and historic window displays along the way."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag königlich am Schloss Charlottenburg und tauchen Sie in die preußische Geschichte ein. Am Mittag verlagert sich das Flair ins moderne Zentrum, wo architektonische Meisterwerke wie die Deutsche Oper warten. Nachmittags laden belebte Plätze und der legendäre Kurfürstendamm zum Flanieren und Verweilen ein. Der Abend klingt im bunten Trubel Berlins um die Gedächtniskirche aus.",
+        "hu": "Kezdje a napot fejedelmien a Charlottenburg kastélynál, és merüljön el a porosz történelemben. Délben a hangulat a modern városközpontba tevődik át, ahol olyan remekművek várják, mint a Deutsche Oper. Délután nyüzsgő terek és a legendás Kurfürstendamm hívogat sétára és pihenésre. Az este a Vilmos császár emléktemplom körüli pezsgő berlini forgatagban ér véget felejthetetlen élményekkel.",
+        "ro": "Începeți ziua regal la Palatul Charlottenburg, cufundându-vă în istoria prusacă. La prânz, atmosfera se mută în centrul modern, unde vă așteaptă capodopere precum Deutsche Oper. După-amiaza, piețele animate și legendarul Kurfürstendamm vă invită la o plimbare relaxantă. Seara se încheie în agitația plină de culoare a Berlinului, în jurul impresionantei Biserici Memoriale.",
+        "en": "Start your day royally at Charlottenburg Palace, immersing yourself in Prussian history. By midday, the atmosphere shifts to the modern center, where architectural masterpieces like the Deutsche Oper await. In the afternoon, bustling squares and the legendary Kurfürstendamm invite you to stroll and relax. The evening winds down in the colorful hustle of Berlin around the Memorial Church."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:52",
+      "total_km": 5.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Charlottenburg",
+            "hu": "Charlottenburg kastély",
+            "ro": "Palatul Charlottenburg",
+            "en": "Charlottenburg Palace"
+          },
+          "coords": [
+            13.295833,
+            52.521111
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prachtvollen Räume dieses barocken Schlosses, das Berlins königliche Geschichte erzählt, und kommen Sie früh, um die weitläufigen Gärten in Ruhe zu genießen.",
+            "hu": "Csodálja meg e barokk kastély pompás termeit, melyek Berlin királyi múltját idézik, és érkezzen korán, hogy nyugodtan sétálhasson a tágas kertekben.",
+            "ro": "Admirați sălile somptuoase ale acestui palat baroc ce reflectă istoria regală a Berlinului și veniți devreme pentru a vă bucura în liniște de grădinile întinse.",
+            "en": "Admire the sumptuous rooms of this baroque palace that reflects Berlin's royal history, and arrive early to enjoy a peaceful stroll through the expansive gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Deutsche Oper Berlin",
+            "hu": "Német Opera Berlin",
+            "ro": "Opera Germană din Berlin",
+            "en": "Deutsche Oper Berlin"
+          },
+          "coords": [
+            13.308333,
+            52.512778
+          ],
+          "category": "landmark",
+          "arrive_at": "10:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die moderne Architektur dieses berühmten Opernhauses, das für seine exzellente Akustik bekannt ist, und buchen Sie Tickets für Vorstellungen am besten weit im Voraus.",
+            "hu": "Tapasztalja meg e híres operaház modern építészetét, amely kiváló akusztikájáról ismert, és érdemes jó előre jegyet foglalni a népszerű esti előadásokra.",
+            "ro": "Experimentați arhitectura modernă a acestei celebre opere, cunoscută pentru acustica sa excelentă, și rezervați biletele cu mult timp înainte pentru spectacole.",
+            "en": "Experience the modern architecture of this renowned opera house, famous for its excellent acoustics, and book your tickets well in advance for popular evening performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Renaissance-Theater Berlin",
+            "hu": "Renaissance Színház Berlin",
+            "ro": "Teatrul Renașterii din Berlin",
+            "en": "Renaissance Theater Berlin"
+          },
+          "coords": [
+            13.323503,
+            52.510338
+          ],
+          "category": "cultural",
+          "arrive_at": "11:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Betrachten Sie die beeindruckende Art-déco-Fassade dieses einzigartigen Theaters, das moderne Dramatik bietet, und prüfen Sie den Spielplan für zeitgenössische Stücke.",
+            "hu": "Tekintse meg e különleges színház lenyűgöző art deco homlokzatát, amely modern drámákat kínál, és ellenőrizze a műsort a kortárs darabok megtekintéséhez.",
+            "ro": "Admirați fațada impresionantă art deco a acestui teatru unic ce oferă drame moderne și verificați programul pentru piese contemporane captivante.",
+            "en": "Admire the impressive Art Deco facade of this unique theater offering modern drama, and check the schedule for captivating contemporary plays and performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaiser-Wilhelm-Gedächtniskirche",
+            "hu": "Vilmos császár emléktemplom",
+            "ro": "Biserica Memorială Kaiser Wilhelm",
+            "en": "Kaiser Wilhelm Memorial Church"
+          },
+          "coords": [
+            13.335278,
+            52.504722
+          ],
+          "category": "church",
+          "arrive_at": "12:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die eindrucksvolle Turmruine dieser Kirche, die als Mahnmal für den Frieden dient, und bestaunen Sie das blaue Glaswunder im modernen Neubau daneben.",
+            "hu": "Tekintse meg a templom lenyűgöző toronyromját, amely a béke emlékműveként szolgál, és csodálja meg a mellette lévő modern épület kék üvegcsodáját.",
+            "ro": "Vizitați ruinele impresionante ale turnului acestei biserici, ce servește ca memorial pentru pace, și admirați vitraliile albastre din clădirea modernă alăturată.",
+            "en": "Visit the impressive ruined tower of this church that serves as a memorial for peace, and marvel at the stunning blue stained glass in the modern building next door."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoologischer Garten Berlin",
+            "hu": "Berlini Állatkert",
+            "ro": "Grădina Zoologică din Berlin",
+            "en": "Berlin Zoological Garden"
+          },
+          "coords": [
+            13.3375,
+            52.508333
+          ],
+          "category": "park",
+          "arrive_at": "13:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie Deutschlands ältesten Zoo, der eine enorme Artenvielfalt in historischen Gehegen beherbergt, und planen Sie genug Zeit für das faszinierende Flusspferdhaus ein.",
+            "hu": "Fedezze fel Németország legrégebbi állatkertjét, amely hatalmas fajgazdagságnak ad otthont történelmi kifutókban, és szánjon elég időt a lenyűgöző vízilóházra.",
+            "ro": "Explorați cel mai vechi zoo din Germania, care găzduiește o diversitate enormă de specii în incinte istorice, și planificați suficient timp pentru fascinanta casă a hipopotamilor.",
+            "en": "Explore Germany's oldest zoo, home to an enormous variety of species in historic enclosures, and allocate plenty of time for the fascinating hippopotamus house."
+          }
+        },
+        {
+          "name": {
+            "de": "Kurfürstendamm",
+            "hu": "Kurfürstendamm",
+            "ro": "Kurfürstendamm",
+            "en": "Kurfürstendamm"
+          },
+          "coords": [
+            13.312778,
+            52.500833
+          ],
+          "category": "historic square",
+          "arrive_at": "14:57",
+          "stay_min": 55,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Schlendern Sie über diesen berühmten Boulevard, der Berlins westliches Zentrum prägt, und werfen Sie einen Blick in die eleganten Boutiquen und historischen Schaufenster.",
+            "hu": "Sétáljon végig ezen a híres sugárúton, amely Berlin nyugati központját jelképezi, és vessen egy pillantást az elegáns butikokra, valamint a történelmi kirakatokra.",
+            "ro": "Plimbați-vă pe acest bulevard faimos ce definește centrul vestic al Berlinului și aruncați o privire la buticurile elegante și vitrinele istorice.",
+            "en": "Stroll along this famous boulevard that defines Berlin's western center, and take a look at the elegant boutiques and historic window displays along the way."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag königlich am Schloss Charlottenburg und tauchen Sie in die preußische Geschichte ein. Am Mittag verlagert sich das Flair ins moderne Zentrum, wo architektonische Meisterwerke wie die Deutsche Oper warten. Nachmittags laden belebte Plätze und der legendäre Kurfürstendamm zum Flanieren und Verweilen ein. Der Abend klingt im bunten Trubel Berlins um die Gedächtniskirche aus.",
+        "hu": "Kezdje a napot fejedelmien a Charlottenburg kastélynál, és merüljön el a porosz történelemben. Délben a hangulat a modern városközpontba tevődik át, ahol olyan remekművek várják, mint a Deutsche Oper. Délután nyüzsgő terek és a legendás Kurfürstendamm hívogat sétára és pihenésre. Az este a Vilmos császár emléktemplom körüli pezsgő berlini forgatagban ér véget felejthetetlen élményekkel.",
+        "ro": "Începeți ziua regal la Palatul Charlottenburg, cufundându-vă în istoria prusacă. La prânz, atmosfera se mută în centrul modern, unde vă așteaptă capodopere precum Deutsche Oper. După-amiaza, piețele animate și legendarul Kurfürstendamm vă invită la o plimbare relaxantă. Seara se încheie în agitația plină de culoare a Berlinului, în jurul impresionantei Biserici Memoriale.",
+        "en": "Start your day royally at Charlottenburg Palace, immersing yourself in Prussian history. By midday, the atmosphere shifts to the modern center, where architectural masterpieces like the Deutsche Oper await. In the afternoon, bustling squares and the legendary Kurfürstendamm invite you to stroll and relax. The evening winds down in the colorful hustle of Berlin around the Memorial Church."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 7.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Charlottenburg",
+            "hu": "Charlottenburg kastély",
+            "ro": "Palatul Charlottenburg",
+            "en": "Charlottenburg Palace"
+          },
+          "coords": [
+            13.295833,
+            52.521111
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prachtvollen Räume dieses barocken Schlosses, das Berlins königliche Geschichte erzählt, und kommen Sie früh, um die weitläufigen Gärten in Ruhe zu genießen.",
+            "hu": "Csodálja meg e barokk kastély pompás termeit, melyek Berlin királyi múltját idézik, és érkezzen korán, hogy nyugodtan sétálhasson a tágas kertekben.",
+            "ro": "Admirați sălile somptuoase ale acestui palat baroc ce reflectă istoria regală a Berlinului și veniți devreme pentru a vă bucura în liniște de grădinile întinse.",
+            "en": "Admire the sumptuous rooms of this baroque palace that reflects Berlin's royal history, and arrive early to enjoy a peaceful stroll through the expansive gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Wühlmäuse",
+            "hu": "Die Wühlmäuse Kabaré",
+            "ro": "Cabaretul Die Wühlmäuse",
+            "en": "Die Wühlmäuse Cabaret"
+          },
+          "coords": [
+            13.270751,
+            52.508865
+          ],
+          "category": "cultural",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Lachen Sie in diesem legendären Kabarett-Theater, das von Dieter Hallervorden gegründet wurde, und sichern Sie sich rechtzeitig Karten für einen humorvollen Abend.",
+            "hu": "Nevessen egy jót ebben a legendás kabarészínházban, amelyet Dieter Hallervorden alapított, és időben biztosítsa jegyét egy humorral teli estéhez.",
+            "ro": "Râdeți cu poftă în acest legendar teatru de cabaret fondat de Dieter Hallervorden și asigurați-vă biletele din timp pentru o seară plină de umor.",
+            "en": "Have a laugh at this legendary cabaret theater founded by Dieter Hallervorden, and make sure to book your tickets early for a highly entertaining evening."
+          }
+        },
+        {
+          "name": {
+            "de": "Schaubühne am Lehniner Platz",
+            "hu": "Schaubühne am Lehniner Platz",
+            "ro": "Schaubühne am Lehniner Platz",
+            "en": "Schaubühne am Lehniner Platz"
+          },
+          "coords": [
+            13.302275,
+            52.498661
+          ],
+          "category": "cultural",
+          "arrive_at": "12:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Erleben Sie avantgardistisches Theater in diesem markanten Gebäude am Kurfürstendamm, und besuchen Sie die Café-Bar für spannende Diskussionen nach der Vorstellung.",
+            "hu": "Élvezze az avantgárd színházat ebben a jellegzetes Kurfürstendamm-i épületben, és látogasson el a kávézó-bárba az előadás utáni izgalmas beszélgetésekhez.",
+            "ro": "Experimentați teatrul avangardist în această clădire remarcabilă de pe Kurfürstendamm și vizitați cafeneaua pentru discuții interesante după spectacol.",
+            "en": "Experience avant-garde theater in this striking building on the Kurfürstendamm, and head to the cafe-bar for engaging discussions after the performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kurfürstendamm",
+            "hu": "Kurfürstendamm",
+            "ro": "Kurfürstendamm",
+            "en": "Kurfürstendamm"
+          },
+          "coords": [
+            13.312778,
+            52.500833
+          ],
+          "category": "historic square",
+          "arrive_at": "13:23",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schlendern Sie über diesen berühmten Boulevard, der Berlins westliches Zentrum prägt, und werfen Sie einen Blick in die eleganten Boutiquen und historischen Schaufenster.",
+            "hu": "Sétáljon végig ezen a híres sugárúton, amely Berlin nyugati központját jelképezi, és vessen egy pillantást az elegáns butikokra, valamint a történelmi kirakatokra.",
+            "ro": "Plimbați-vă pe acest bulevard faimos ce definește centrul vestic al Berlinului și aruncați o privire la buticurile elegante și vitrinele istorice.",
+            "en": "Stroll along this famous boulevard that defines Berlin's western center, and take a look at the elegant boutiques and historic window displays along the way."
+          }
+        },
+        {
+          "name": {
+            "de": "Savignyplatz",
+            "hu": "Savignyplatz",
+            "ro": "Piața Savigny",
+            "en": "Savignyplatz"
+          },
+          "coords": [
+            13.319066,
+            52.505175
+          ],
+          "category": "historic square",
+          "arrive_at": "13:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem belebten Platz, der das literarische und künstlerische Herz des Viertels bildet, und genießen Sie einen Kaffee in einem der vielen traditionellen Cafés.",
+            "hu": "Pihenjen meg ezen a nyüzsgő téren, amely a negyed irodalmi és művészeti központja, és élvezze a kávézást a számos hagyományos teraszos kávézó egyikében.",
+            "ro": "Relaxați-vă în această piață animată care reprezintă inima literară și artistică a cartierului și savurați o cafea la una dintre numeroasele cafenele tradiționale.",
+            "en": "Relax in this bustling square that forms the literary and artistic heart of the neighborhood, and enjoy a coffee at one of the many traditional sidewalk cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaiser-Wilhelm-Gedächtniskirche",
+            "hu": "Vilmos császár emléktemplom",
+            "ro": "Biserica Memorială Kaiser Wilhelm",
+            "en": "Kaiser Wilhelm Memorial Church"
+          },
+          "coords": [
+            13.335278,
+            52.504722
+          ],
+          "category": "church",
+          "arrive_at": "14:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die eindrucksvolle Turmruine dieser Kirche, die als Mahnmal für den Frieden dient, und bestaunen Sie das blaue Glaswunder im modernen Neubau daneben.",
+            "hu": "Tekintse meg a templom lenyűgöző toronyromját, amely a béke emlékműveként szolgál, és csodálja meg a mellette lévő modern épület kék üvegcsodáját.",
+            "ro": "Vizitați ruinele impresionante ale turnului acestei biserici, ce servește ca memorial pentru pace, și admirați vitraliile albastre din clădirea modernă alăturată.",
+            "en": "Visit the impressive ruined tower of this church that serves as a memorial for peace, and marvel at the stunning blue stained glass in the modern building next door."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoologischer Garten Berlin",
+            "hu": "Berlini Állatkert",
+            "ro": "Grădina Zoologică din Berlin",
+            "en": "Berlin Zoological Garden"
+          },
+          "coords": [
+            13.3375,
+            52.508333
+          ],
+          "category": "park",
+          "arrive_at": "14:59",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie Deutschlands ältesten Zoo, der eine enorme Artenvielfalt in historischen Gehegen beherbergt, und planen Sie genug Zeit für das faszinierende Flusspferdhaus ein.",
+            "hu": "Fedezze fel Németország legrégebbi állatkertjét, amely hatalmas fajgazdagságnak ad otthont történelmi kifutókban, és szánjon elég időt a lenyűgöző vízilóházra.",
+            "ro": "Explorați cel mai vechi zoo din Germania, care găzduiește o diversitate enormă de specii în incinte istorice, și planificați suficient timp pentru fascinanta casă a hipopotamilor.",
+            "en": "Explore Germany's oldest zoo, home to an enormous variety of species in historic enclosures, and allocate plenty of time for the fascinating hippopotamus house."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag königlich am Schloss Charlottenburg und tauchen Sie in die preußische Geschichte ein. Am Mittag verlagert sich das Flair ins moderne Zentrum, wo architektonische Meisterwerke wie die Deutsche Oper warten. Nachmittags laden belebte Plätze und der legendäre Kurfürstendamm zum Flanieren und Verweilen ein. Der Abend klingt im bunten Trubel Berlins um die Gedächtniskirche aus.",
+        "hu": "Kezdje a napot fejedelmien a Charlottenburg kastélynál, és merüljön el a porosz történelemben. Délben a hangulat a modern városközpontba tevődik át, ahol olyan remekművek várják, mint a Deutsche Oper. Délután nyüzsgő terek és a legendás Kurfürstendamm hívogat sétára és pihenésre. Az este a Vilmos császár emléktemplom körüli pezsgő berlini forgatagban ér véget felejthetetlen élményekkel.",
+        "ro": "Începeți ziua regal la Palatul Charlottenburg, cufundându-vă în istoria prusacă. La prânz, atmosfera se mută în centrul modern, unde vă așteaptă capodopere precum Deutsche Oper. După-amiaza, piețele animate și legendarul Kurfürstendamm vă invită la o plimbare relaxantă. Seara se încheie în agitația plină de culoare a Berlinului, în jurul impresionantei Biserici Memoriale.",
+        "en": "Start your day royally at Charlottenburg Palace, immersing yourself in Prussian history. By midday, the atmosphere shifts to the modern center, where architectural masterpieces like the Deutsche Oper await. In the afternoon, bustling squares and the legendary Kurfürstendamm invite you to stroll and relax. The evening winds down in the colorful hustle of Berlin around the Memorial Church."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "saint-fargeau-ponthierry",
+  "anchor": {
+    "name": "Saint-Fargeau-Ponthierry",
+    "coords": [
+      2.5447,
+      48.5328
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:53",
+      "total_km": 4.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Sainte-Marie-Mère-de-Dieu",
+            "hu": "Sainte-Marie-Mère-de-Dieu templom",
+            "ro": "Biserica Sainte-Marie-Mère-de-Dieu",
+            "en": "Church of Sainte-Marie-Mère-de-Dieu"
+          },
+          "coords": [
+            2.546333,
+            48.531154
+          ],
+          "category": "religious",
+          "arrive_at": "09:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie das ruhige Innere dieser zentralen Kirche, die eine große lokale Bedeutung hat, und schauen Sie auf der Tafel nach Gemeindeveranstaltungen.",
+            "hu": "Fedezze fel ennek a helyi jelentőségű központi templomnak a nyugodt belsejét, és nézze meg a kinti táblán a közelgő közösségi eseményeket.",
+            "ro": "Explorați interiorul senin al acestei biserici centrale, care are o mare importanță locală, și verificați panoul de afară pentru evenimentele comunitare.",
+            "en": "Explore the serene interior of this central church, which holds great local significance, and check the board outside for any upcoming community events."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame-de-l'Assomption",
+            "hu": "Notre-Dame-de-l'Assomption templom",
+            "ro": "Biserica Notre-Dame-de-l'Assomption",
+            "en": "Church of Notre-Dame-de-l'Assomption"
+          },
+          "coords": [
+            2.545594,
+            48.528381
+          ],
+          "category": "religious",
+          "arrive_at": "10:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Beachten Sie das beeindruckende Mauerwerk dieser historischen Gemeinde, und tragen Sie bequeme Schuhe, um die unebenen Hofwege zu erkunden.",
+            "hu": "Figyelje meg ennek a történelmi plébániának a lenyűgöző kőművesmunkáját, és viseljen kényelmes cipőt az egyenetlen udvari ösvények felfedezéséhez.",
+            "ro": "Observați zidăria impresionantă a acestei parohii istorice și purtați pantofi confortabili pentru a explora cărările denivelate din curte.",
+            "en": "Notice the impressive stonework of this historical parish that anchors the neighborhood, and wear comfortable shoes to explore the uneven courtyard paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Sainte-Assise",
+            "hu": "Sainte-Assise Kastély",
+            "ro": "Castelul Sainte-Assise",
+            "en": "Sainte-Assise Castle"
+          },
+          "coords": [
+            2.551838,
+            48.539188
+          ],
+          "category": "castle",
+          "arrive_at": "11:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die königliche Architektur dieses bemerkenswerten Schlosses, und vergessen Sie Ihre Kamera nicht, um die atemberaubende Fassade festzuhalten.",
+            "hu": "Fedezze fel ennek a figyelemre méltó kastélynak a királyi építészetét, és ne felejtse el fényképezőgépét a lenyűgöző homlokzat megörökítéséhez.",
+            "ro": "Descoperiți arhitectura regală a acestui castel remarcabil și nu uitați aparatul foto pentru a surprinde fațada uimitoare.",
+            "en": "Discover the regal architecture of this remarkable castle that once hosted French nobility, and don't forget your camera to capture the stunning facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Saint-Fargeau",
+            "hu": "Saint-Fargeau templom",
+            "ro": "Biserica Saint-Fargeau",
+            "en": "Saint-Fargeau Church"
+          },
+          "coords": [
+            2.527347,
+            48.536122
+          ],
+          "category": "religious",
+          "arrive_at": "12:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit für die ruhige Atmosphäre dieser traditionellen Kirche, und bringen Sie eine kleine Spende für den Kerzenkasten mit.",
+            "hu": "Szánjon egy percet arra, hogy értékelje e hagyományos templom csendes légkörét, és hozzon egy kis adományt a gyertyatartó dobozba.",
+            "ro": "Luați-vă un moment pentru a aprecia atmosfera liniștită a acestei biserici tradiționale și aduceți o mică donație pentru cutia de lumânări.",
+            "en": "Take a moment to appreciate the quiet atmosphere of this traditional church, representing rural heritage, and bring a small donation for the candle box."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Blaise",
+            "hu": "Saint-Blaise templom",
+            "ro": "Biserica Saint-Blaise",
+            "en": "Church of Saint-Blaise"
+          },
+          "coords": [
+            2.523111,
+            48.529801
+          ],
+          "category": "religious",
+          "arrive_at": "13:43",
+          "stay_min": 70,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise an dieser bescheidenen, aber historisch reichen Kirche, und nehmen Sie sich Zeit für einen Spaziergang über das Außengelände.",
+            "hu": "Fejezze be utazását ennél a szerény, mégis történelmileg gazdag templomnál, és szánjon időt a békés külső területek körbesétálására.",
+            "ro": "Încheiați călătoria la această biserică modestă, dar bogată istoric, și faceți o plimbare prin curtea exterioară liniștită.",
+            "en": "End your journey at this modest yet historically rich church dedicated to Saint Blaise, and take time to walk around the peaceful exterior grounds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung der zentralen Kirchen, angefangen bei der friedlichen Sainte-Marie. Mittags machen Sie einen gemütlichen Spaziergang zum historischen Schloss Sainte-Assise. Der Nachmittag wird mit Besuchen in Saint-Fargeau und der ruhigen Saint-Blaise fortgesetzt. Verbringen Sie Ihren Abend entspannt im charmanten örtlichen Stadtzentrum.",
+        "hu": "Kezdje a reggelt a központi templomok felfedezésével, a békés Sainte-Marie-val kezdve. Délben tegyen egy kényelmes sétát a történelmi Sainte-Assise kastélyhoz, hogy megcsodálja az építészetet. A délután Saint-Fargeau és a csendes Saint-Blaise meglátogatásával folytatódik. Töltse az estét pihenéssel a bájos helyi városközpontban egy fárasztó felfedezőnap után.",
+        "ro": "Începeți dimineața explorând bisericile centrale, începând cu liniștita Sainte-Marie. La prânz, faceți o plimbare spre istoricul Castel Sainte-Assise pentru a-i admira arhitectura grandioasă. După-amiaza continuă cu vizite la Saint-Fargeau și liniștita Saint-Blaise. Petreceți-vă seara relaxându-vă în fermecătorul centru local al orașului după o zi plină.",
+        "en": "Start your morning exploring the central churches, beginning with the peaceful Sainte-Marie. By midday, take a leisurely stroll to the historic Sainte-Assise Castle to admire its grand architecture. The afternoon continues with visits to Saint-Fargeau and the quiet Saint-Blaise. Spend your evening relaxing in the charming local town center after exploring."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:53",
+      "total_km": 9.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Blaise",
+            "hu": "Saint-Blaise templom",
+            "ro": "Biserica Saint-Blaise",
+            "en": "Church of Saint-Blaise"
+          },
+          "coords": [
+            2.523111,
+            48.529801
+          ],
+          "category": "religious",
+          "arrive_at": "09:09",
+          "stay_min": 50,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier mit der bescheidenen, aber historisch reichen Kirche, und nehmen Sie sich Zeit für einen Spaziergang über das Außengelände.",
+            "hu": "Kezdje itt a szerény, mégis történelmileg gazdag templomnál, és szánjon időt a békés külső területek körbesétálására.",
+            "ro": "Începeți aici la această biserică modestă, dar bogată istoric, și faceți o plimbare prin curtea exterioară liniștită.",
+            "en": "Start here at this modest yet historically rich church dedicated to Saint Blaise, and take time to walk around the peaceful exterior grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Saint-Fargeau",
+            "hu": "Saint-Fargeau templom",
+            "ro": "Biserica Saint-Fargeau",
+            "en": "Saint-Fargeau Church"
+          },
+          "coords": [
+            2.527347,
+            48.536122
+          ],
+          "category": "religious",
+          "arrive_at": "10:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit für die ruhige Atmosphäre dieser traditionellen Kirche, und bringen Sie eine kleine Spende für den Kerzenkasten mit.",
+            "hu": "Szánjon egy percet arra, hogy értékelje e hagyományos templom csendes légkörét, és hozzon egy kis adományt a gyertyatartó dobozba.",
+            "ro": "Luați-vă un moment pentru a aprecia atmosfera liniștită a acestei biserici tradiționale și aduceți o mică donație pentru cutia de lumânări.",
+            "en": "Take a moment to appreciate the quiet atmosphere of this traditional church, representing rural heritage, and bring a small donation for the candle box."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Sainte-Assise",
+            "hu": "Sainte-Assise Kastély",
+            "ro": "Castelul Sainte-Assise",
+            "en": "Sainte-Assise Castle"
+          },
+          "coords": [
+            2.551838,
+            48.539188
+          ],
+          "category": "castle",
+          "arrive_at": "10:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie die königliche Architektur dieses bemerkenswerten Schlosses, und vergessen Sie Ihre Kamera nicht, um die atemberaubende Fassade festzuhalten.",
+            "hu": "Fedezze fel ennek a figyelemre méltó kastélynak a királyi építészetét, és ne felejtse el fényképezőgépét a lenyűgöző homlokzat megörökítéséhez.",
+            "ro": "Descoperiți arhitectura regală a acestui castel remarcabil și nu uitați aparatul foto pentru a surprinde fațada uimitoare.",
+            "en": "Discover the regal architecture of this remarkable castle that once hosted French nobility, and don't forget your camera to capture the stunning facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Sainte-Marie-Mère-de-Dieu",
+            "hu": "Sainte-Marie-Mère-de-Dieu templom",
+            "ro": "Biserica Sainte-Marie-Mère-de-Dieu",
+            "en": "Church of Sainte-Marie-Mère-de-Dieu"
+          },
+          "coords": [
+            2.546333,
+            48.531154
+          ],
+          "category": "religious",
+          "arrive_at": "12:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie das ruhige Innere dieser zentralen Kirche, die eine große lokale Bedeutung hat, und schauen Sie auf der Tafel nach Gemeindeveranstaltungen.",
+            "hu": "Fedezze fel ennek a helyi jelentőségű központi templomnak a nyugodt belsejét, és nézze meg a kinti táblán a közelgő közösségi eseményeket.",
+            "ro": "Explorați interiorul senin al acestei biserici centrale, care are o mare importanță locală, și verificați panoul de afară pentru evenimentele comunitare.",
+            "en": "Explore the serene interior of this central church, which holds great local significance, and check the board outside for any upcoming community events."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame de Corbeil",
+            "hu": "Notre-Dame de Corbeil templom",
+            "ro": "Biserica Notre-Dame de Corbeil",
+            "en": "Church of Notre-Dame de Corbeil"
+          },
+          "coords": [
+            2.547619,
+            48.516467
+          ],
+          "category": "historical",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die tiefe Geschichte dieser großen historischen Kirche, und nehmen Sie sich Zeit, die informativen Tafeln am Eingang zu lesen.",
+            "hu": "Merüljön el ennek a lenyűgöző részleteket kínáló nagy történelmi templomnak a múltjában, és szánjon egy percet a bejárat melletti táblák elolvasására.",
+            "ro": "Scufundați-vă în istoria profundă a acestei mari biserici istorice și luați-vă un moment pentru a citi plăcile informative din apropierea intrării.",
+            "en": "Immerse yourself in the deep history of this grand historical church offering stunning details, and take a moment to read the informative plaques near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Denis",
+            "hu": "Saint-Denis templom",
+            "ro": "Biserica Saint-Denis",
+            "en": "Church of Saint-Denis"
+          },
+          "coords": [
+            2.57331,
+            48.528344
+          ],
+          "category": "religious",
+          "arrive_at": "14:43",
+          "stay_min": 70,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die feinen Details dieser östlichen Pfarrkirche, und besuchen Sie sie am späten Nachmittag, um das schöne Licht durch die Fenster zu sehen.",
+            "hu": "Fedezze fel ennek a keleti plébániatemplomnak a bonyolult részleteit, és látogasson el késő délután, hogy lássa az ablakokon átszűrődő gyönyörű fényt.",
+            "ro": "Descoperiți detaliile complicate ale acestei biserici parohiale estice și vizitați-o spre sfârșitul după-amiezii pentru a vedea lumina frumoasă prin ferestre.",
+            "en": "Discover the intricate details and welcoming atmosphere of this eastern parish church, and visit during the late afternoon to see the beautiful light through the windows."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag in der Kirche Saint-Blaise und genießen Sie die frische Morgenluft, während Sie in Richtung Zentrum radeln. Mittags erreichen Sie das prächtige Schloss Sainte-Assise und die zentralen Kirchen. Ihre nachmittägliche Fahrt führt Sie nach Süden zur Notre-Dame de Corbeil und nach Osten zur Saint-Denis. Beenden Sie Ihren aktiven Tag entspannt.",
+        "hu": "Kezdje a kerékpáros napot a Saint-Blaise templomnál, élvezve a friss reggeli levegőt. Délben érje el a csodálatos Sainte-Assise kastélyt és a központi templomokat. A délutáni túra délre, a Notre-Dame de Corbeil-hez, majd keletre, a Saint-Denis-hez vezet. Fejezze be az aktív napot egy jól megérdemelt pihenéssel a csendes utcákon.",
+        "ro": "Începeți-vă ziua de ciclism la Biserica Saint-Blaise, bucurându-vă de aerul dimineții. La prânz ajungeți la magnificul Castel Sainte-Assise și bisericile centrale. Plimbarea de după-amiază vă duce spre sud la Notre-Dame de Corbeil și la est la Saint-Denis. Încheiați-vă ziua activă cu o odihnă bine meritată pe străzile liniștite.",
+        "en": "Kick off your cycling day at Église Saint-Blaise, enjoying the crisp morning air as you pedal towards the town's center. Midday brings you to the magnificent Sainte-Assise Castle and the central churches. Your afternoon ride takes you south to Notre-Dame de Corbeil and east to Saint-Denis. Conclude your active day with a well-deserved rest in the quiet streets."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:05",
+      "total_km": 11.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Ferréol",
+            "hu": "Saint-Ferréol templom",
+            "ro": "Biserica Saint-Ferréol",
+            "en": "Church of Saint-Ferréol"
+          },
+          "coords": [
+            2.527817,
+            48.553461
+          ],
+          "category": "religious",
+          "arrive_at": "09:06",
+          "stay_min": 50,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese nördliche Kirche, die für ihre Architektur bekannt ist, und parken Sie etwas weiter die Straße hinunter für einen leichteren Zugang.",
+            "hu": "Látogasson el ebbe az északi templomba, amely építészetéről ismert, és parkoljon egy kicsit lejjebb az utcán a könnyebb megközelítés érdekében.",
+            "ro": "Vizitați această biserică nordică, cunoscută pentru arhitectura sa deosebită, și parcați puțin mai jos pe stradă pentru un acces mai ușor.",
+            "en": "Visit this charming northern church known for its distinctive local architecture and quiet ambiance, and park slightly down the street for easier access."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Sulpice",
+            "hu": "Saint-Sulpice templom",
+            "ro": "Biserica Saint-Sulpice",
+            "en": "Church of Saint-Sulpice"
+          },
+          "coords": [
+            2.551765,
+            48.557244
+          ],
+          "category": "religious",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die religiösen Kunstwerke in dieser schönen Gemeindekirche, und nehmen Sie Rücksicht auf die Gebetszeiten der Einheimischen.",
+            "hu": "Csodálja meg a közösségi templomban található hagyományos műalkotásokat, és tartsa tiszteletben a helyiek csendes imaidejét.",
+            "ro": "Minunați-vă de operele de artă religioasă găzduite în această biserică minunată și respectați orele de rugăciune respectate de localnici.",
+            "en": "Marvel at the traditional religious artwork housed within this lovely community church, and be respectful of the silent prayer hours observed by the locals."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Sainte-Assise",
+            "hu": "Sainte-Assise Kastély",
+            "ro": "Castelul Sainte-Assise",
+            "en": "Sainte-Assise Castle"
+          },
+          "coords": [
+            2.551838,
+            48.539188
+          ],
+          "category": "castle",
+          "arrive_at": "10:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die königliche Architektur dieses bemerkenswerten Schlosses, und vergessen Sie Ihre Kamera nicht, um die atemberaubende Fassade festzuhalten.",
+            "hu": "Fedezze fel ennek a figyelemre méltó kastélynak a királyi építészetét, és ne felejtse el fényképezőgépét a lenyűgöző homlokzat megörökítéséhez.",
+            "ro": "Descoperiți arhitectura regală a acestui castel remarcabil și nu uitați aparatul foto pentru a surprinde fațada uimitoare.",
+            "en": "Discover the regal architecture of this remarkable castle that once hosted French nobility, and don't forget your camera to capture the stunning facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Sainte-Marie-Mère-de-Dieu",
+            "hu": "Sainte-Marie-Mère-de-Dieu templom",
+            "ro": "Biserica Sainte-Marie-Mère-de-Dieu",
+            "en": "Church of Sainte-Marie-Mère-de-Dieu"
+          },
+          "coords": [
+            2.546333,
+            48.531154
+          ],
+          "category": "religious",
+          "arrive_at": "12:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das ruhige Innere dieser zentralen Kirche, die eine große lokale Bedeutung hat, und schauen Sie auf der Tafel nach Gemeindeveranstaltungen.",
+            "hu": "Fedezze fel ennek a helyi jelentőségű központi templomnak a nyugodt belsejét, és nézze meg a kinti táblán a közelgő közösségi eseményeket.",
+            "ro": "Explorați interiorul senin al acestei biserici centrale, care are o mare importanță locală, și verificați panoul de afară pentru evenimentele comunitare.",
+            "en": "Explore the serene interior of this central church, which holds great local significance, and check the board outside for any upcoming community events."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame-de-l'Assomption",
+            "hu": "Notre-Dame-de-l'Assomption templom",
+            "ro": "Biserica Notre-Dame-de-l'Assomption",
+            "en": "Church of Notre-Dame-de-l'Assomption"
+          },
+          "coords": [
+            2.545594,
+            48.528381
+          ],
+          "category": "religious",
+          "arrive_at": "12:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beachten Sie das beeindruckende Mauerwerk dieser historischen Gemeinde, und tragen Sie bequeme Schuhe, um die unebenen Hofwege zu erkunden.",
+            "hu": "Figyelje meg ennek a történelmi plébániának a lenyűgöző kőművesmunkáját, és viseljen kényelmes cipőt az egyenetlen udvari ösvények felfedezéséhez.",
+            "ro": "Observați zidăria impresionantă a acestei parohii istorice și purtați pantofi confortabili pentru a explora cărările denivelate din curte.",
+            "en": "Notice the impressive stonework of this historical parish that anchors the neighborhood, and wear comfortable shoes to explore the uneven courtyard paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame de Corbeil",
+            "hu": "Notre-Dame de Corbeil templom",
+            "ro": "Biserica Notre-Dame de Corbeil",
+            "en": "Church of Notre-Dame de Corbeil"
+          },
+          "coords": [
+            2.547619,
+            48.516467
+          ],
+          "category": "historical",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die tiefe Geschichte dieser großen historischen Kirche, und nehmen Sie sich Zeit, die informativen Tafeln am Eingang zu lesen.",
+            "hu": "Merüljön el ennek a lenyűgöző részleteket kínáló nagy történelmi templomnak a múltjában, és szánjon egy percet a bejárat melletti táblák elolvasására.",
+            "ro": "Scufundați-vă în istoria profundă a acestei mari biserici istorice și luați-vă un moment pentru a citi plăcile informative din apropierea intrării.",
+            "en": "Immerse yourself in the deep history of this grand historical church offering stunning details, and take a moment to read the informative plaques near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Denis",
+            "hu": "Saint-Denis templom",
+            "ro": "Biserica Saint-Denis",
+            "en": "Church of Saint-Denis"
+          },
+          "coords": [
+            2.57331,
+            48.528344
+          ],
+          "category": "religious",
+          "arrive_at": "14:55",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die feinen Details dieser östlichen Pfarrkirche, und besuchen Sie sie am späten Nachmittag, um das schöne Licht durch die Fenster zu sehen.",
+            "hu": "Fedezze fel ennek a keleti plébániatemplomnak a bonyolult részleteit, és látogasson el késő délután, hogy lássa az ablakokon átszűrődő gyönyörű fényt.",
+            "ro": "Descoperiți detaliile complicate ale acestei biserici parohiale estice și vizitați-o spre sfârșitul după-amiezii pentru a vedea lumina frumoasă prin ferestre.",
+            "en": "Discover the intricate details and welcoming atmosphere of this eastern parish church, and visit during the late afternoon to see the beautiful light through the windows."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt an den nördlichsten Sehenswürdigkeiten, den Kirchen Saint-Ferréol und Saint-Sulpice. Mittags liegt der Fokus auf dem imposanten Schloss Sainte-Assise und den zentralen Kirchen. Nachmittags fahren Sie nach Süden zur Notre-Dame de Corbeil, bevor Sie an der Saint-Denis enden. Schließen Sie den Tag mit einer Fahrt ab.",
+        "hu": "Az autós túra a legészakibb látnivalóknál, a Saint-Ferréol és a Saint-Sulpice templomoknál kezdődik. Délben a lenyűgöző Sainte-Assise kastélyra és a központi templomokra összpontosít. Délután vezessen délre a Notre-Dame de Corbeil-hez, mielőtt a Saint-Denis-nél fejezné be. Zárja a napot egy pihentető autózással a környéken.",
+        "ro": "Turul dumneavoastră auto începe la cele mai nordice atracții, explorând Saint-Ferréol și Saint-Sulpice. La prânz vă concentrați pe impresionantul Castel Sainte-Assise și pe bisericile centrale. După-amiaza, conduceți spre sud la Notre-Dame de Corbeil înainte de a termina la Saint-Denis. Încheiați ziua cu o plimbare relaxantă.",
+        "en": "Your driving tour begins at the northernmost sights, exploring Saint-Ferréol and Saint-Sulpice in the morning light. Midday focuses on the impressive Sainte-Assise Castle and the cluster of central churches. In the afternoon, drive south to Notre-Dame de Corbeil before concluding at Saint-Denis. Finish with a relaxing drive through the countryside."
+      }
+    }
+  }
+}

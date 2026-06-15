@@ -1,0 +1,474 @@
+{
+  "city_id": "croatia-dugi-otok-cities-v2",
+  "anchor": {
+    "name": "Dugi Otok",
+    "coords": [
+      15.029167,
+      44.018611
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 3.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Vrh Hrnjetine",
+            "hu": "Vrh Hrnjetine",
+            "ro": "Vrh Hrnjetine",
+            "en": "Vrh Hrnjetine"
+          },
+          "coords": [
+            15.037169,
+            44.020267
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Morgenbrise auf diesem markanten Gipfel mit Panoramablick auf die Inselgruppe, am besten früh mit festem Schuhwerk zu besuchen.",
+            "hu": "Élvezze a reggeli szellőt ezen a kiemelkedő csúcson, amely panorámás kilátást nyújt a szigetcsoportra, és érdemes korán, erős cipőben érkezni.",
+            "ro": "Bucurați-vă de briza dimineții pe acest vârf proeminent cu vederi panoramice ale arhipelagului, cel mai bine vizitat devreme cu încălțăminte solidă.",
+            "en": "Enjoy the morning breeze on this prominent peak offering panoramic views of the archipelago, best visited early with sturdy shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Škare",
+            "hu": "Škare",
+            "ro": "Škare",
+            "en": "Škare"
+          },
+          "coords": [
+            15.037649,
+            44.014668
+          ],
+          "category": "natural",
+          "arrive_at": "09:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierenden Karstfelsformationen, die die geologische Geschichte der Insel erzählen, und achten Sie auf den unebenen Kalkstein.",
+            "hu": "Fedezze fel ezeket a lenyűgöző karszt sziklaképződményeket, amelyek a sziget geológiai történetét mesélik el, és vigyázzon a lépteire az egyenetlen mészkövön.",
+            "ro": "Explorați aceste formațiuni stâncoase carstice fascinante care spun istoria geologică a insulei și aveți grijă la pași pe calcarul neregulat.",
+            "en": "Explore these fascinating karst rock formations that tell the geological history of the island, and watch your step on the uneven limestone."
+          }
+        },
+        {
+          "name": {
+            "de": "Šišlavica",
+            "hu": "Šišlavica",
+            "ro": "Šišlavica",
+            "en": "Šišlavica"
+          },
+          "coords": [
+            15.035783,
+            44.012004
+          ],
+          "category": "natural",
+          "arrive_at": "11:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Machen Sie einen friedlichen Spaziergang durch diese üppige mediterrane Vegetationszone, ideal für eine schattige Mittagspause und Vogelbeobachtung.",
+            "hu": "Tegyen egy békés sétát ebben a buja mediterrán növényzeti zónában, amely tökéletes egy árnyékos déli pihenéshez és a madarak megfigyeléséhez.",
+            "ro": "Faceți o plimbare liniștită prin această zonă de vegetație mediteraneană luxuriantă, perfectă pentru o odihnă umbrită la amiază și observarea păsărilor.",
+            "en": "Take a peaceful walk through this lush Mediterranean vegetation zone, perfect for a shaded midday rest and bird watching in the quiet nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Oštravica",
+            "hu": "Oštravica",
+            "ro": "Oštravica",
+            "en": "Oštravica"
+          },
+          "coords": [
+            15.04096,
+            44.012009
+          ],
+          "category": "natural",
+          "arrive_at": "12:24",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diesen markanten natürlichen Aussichtspunkt für atemberaubende Fotos der umliegenden Inseln, aber bringen Sie ausreichend Wasser mit.",
+            "hu": "Mássza meg ezt a lenyűgöző természetes kilátót, hogy lélegzetelállító fotókat készítsen a környező szigetekről, de hozzon sok vizet, mert nincs árnyék.",
+            "ro": "Urcați pe acest punct de observare natural impresionant pentru fotografii uluitoare cu insulele din jur, dar aduceți multă apă, deoarece nu există umbră.",
+            "en": "Climb this striking natural vantage point for breathtaking photos of the surrounding islands, but bring plenty of water as there is no shade here."
+          }
+        },
+        {
+          "name": {
+            "de": "Uvala Marnica",
+            "hu": "Uvala Marnica",
+            "ro": "Uvala Marnica",
+            "en": "Uvala Marnica"
+          },
+          "coords": [
+            15.057646,
+            44.022135
+          ],
+          "category": "landmark",
+          "arrive_at": "13:15",
+          "stay_min": 105,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie am kristallklaren Wasser dieser ruhigen, versteckten Bucht, die ein idealer Ort für ein erfrischendes Nachmittagsschwimmen ist.",
+            "hu": "Pihenjen ennek a csendes, rejtett öbölnek a kristálytiszta vizeinél, amely ideális hely egy frissítő délutáni úszáshoz, távol a tömegtől.",
+            "ro": "Relaxați-vă la apele cristaline ale acestui golf ascuns și liniștit, care servește drept un loc ideal pentru o baie răcoritoare de după-amiază.",
+            "en": "Relax by the crystal-clear waters of this tranquil hidden bay, which serves as an ideal spot for a refreshing afternoon swim away from the crowds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit majestätischen Ausblicken am Vrh Hrnjetine, bevor Sie durch den felsigen Karst von Škare wandern. Mittags erreichen wir die ruhigen grünen Pfade von Šišlavica. Am Nachmittag belohnt der Aufstieg zur Oštravica mit atemberaubenden Inselausblicken. Der Tag endet wunderbar mit einem entspannten Bad in Uvala Marnica.",
+        "hu": "A reggel fenséges kilátással kezdődik a Vrh Hrnjetine csúcsán, mielőtt átsétálnánk Škare sziklás karsztjain. A dél Šišlavica csendes zöld ösvényeire visz minket. Délután az Oštravica megmászása lélegzetelállító szigeti panorámával jutalmaz. A nap csodálatosan zárul egy pihentető úszással a gyönyörű Uvala Marnica öbölben.",
+        "ro": "Dimineața începe cu vederi maiestuoase la Vrh Hrnjetine înainte de a merge prin carstul stâncos de la Škare. Amiaza ne aduce pe potecile verzi și liniștite din Šišlavica. După-amiaza, urcarea la Oštravica ne răsplătește cu priveliști insulare uluitoare. Ziua se încheie minunat cu o baie relaxantă în Uvala Marnica.",
+        "en": "Morning starts with majestic views at Vrh Hrnjetine before walking through the rocky karst of Škare. Midday brings us to the tranquil green paths of Šišlavica for some peaceful rest. In the afternoon, the climb to Oštravica rewards with breathtaking island vistas. The day concludes wonderfully with a relaxing swim in Uvala Marnica."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:59",
+      "total_km": 4.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Vrh Hrnjetine",
+            "hu": "Vrh Hrnjetine",
+            "ro": "Vrh Hrnjetine",
+            "en": "Vrh Hrnjetine"
+          },
+          "coords": [
+            15.037169,
+            44.020267
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Morgenbrise auf diesem markanten Gipfel mit Panoramablick auf die Inselgruppe, am besten früh mit festem Schuhwerk zu besuchen.",
+            "hu": "Élvezze a reggeli szellőt ezen a kiemelkedő csúcson, amely panorámás kilátást nyújt a szigetcsoportra, és érdemes korán, erős cipőben érkezni.",
+            "ro": "Bucurați-vă de briza dimineții pe acest vârf proeminent cu vederi panoramice ale arhipelagului, cel mai bine vizitat devreme cu încălțăminte solidă.",
+            "en": "Enjoy the morning breeze on this prominent peak offering panoramic views of the archipelago, best visited early with sturdy shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Škare",
+            "hu": "Škare",
+            "ro": "Škare",
+            "en": "Škare"
+          },
+          "coords": [
+            15.037649,
+            44.014668
+          ],
+          "category": "natural",
+          "arrive_at": "09:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierenden Karstfelsformationen, die die geologische Geschichte der Insel erzählen, und achten Sie auf den unebenen Kalkstein.",
+            "hu": "Fedezze fel ezeket a lenyűgöző karszt sziklaképződményeket, amelyek a sziget geológiai történetét mesélik el, és vigyázzon a lépteire az egyenetlen mészkövön.",
+            "ro": "Explorați aceste formațiuni stâncoase carstice fascinante care spun istoria geologică a insulei și aveți grijă la pași pe calcarul neregulat.",
+            "en": "Explore these fascinating karst rock formations that tell the geological history of the island, and watch your step on the uneven limestone."
+          }
+        },
+        {
+          "name": {
+            "de": "Šišlavica",
+            "hu": "Šišlavica",
+            "ro": "Šišlavica",
+            "en": "Šišlavica"
+          },
+          "coords": [
+            15.035783,
+            44.012004
+          ],
+          "category": "natural",
+          "arrive_at": "10:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Machen Sie einen friedlichen Spaziergang durch diese üppige mediterrane Vegetationszone, ideal für eine schattige Mittagspause und Vogelbeobachtung.",
+            "hu": "Tegyen egy békés sétát ebben a buja mediterrán növényzeti zónában, amely tökéletes egy árnyékos déli pihenéshez és a madarak megfigyeléséhez.",
+            "ro": "Faceți o plimbare liniștită prin această zonă de vegetație mediteraneană luxuriantă, perfectă pentru o odihnă umbrită la amiază și observarea păsărilor.",
+            "en": "Take a peaceful walk through this lush Mediterranean vegetation zone, perfect for a shaded midday rest and bird watching in the quiet nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Oštravica",
+            "hu": "Oštravica",
+            "ro": "Oštravica",
+            "en": "Oštravica"
+          },
+          "coords": [
+            15.04096,
+            44.012009
+          ],
+          "category": "natural",
+          "arrive_at": "12:11",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diesen markanten natürlichen Aussichtspunkt für atemberaubende Fotos der umliegenden Inseln, aber bringen Sie ausreichend Wasser mit.",
+            "hu": "Mássza meg ezt a lenyűgöző természetes kilátót, hogy lélegzetelállító fotókat készítsen a környező szigetekről, de hozzon sok vizet, mert nincs árnyék.",
+            "ro": "Urcați pe acest punct de observare natural impresionant pentru fotografii uluitoare cu insulele din jur, dar aduceți multă apă, deoarece nu există umbră.",
+            "en": "Climb this striking natural vantage point for breathtaking photos of the surrounding islands, but bring plenty of water as there is no shade here."
+          }
+        },
+        {
+          "name": {
+            "de": "Orljak",
+            "hu": "Orljak",
+            "ro": "Orljak",
+            "en": "Orljak"
+          },
+          "coords": [
+            15.044834,
+            44.006416
+          ],
+          "category": "natural",
+          "arrive_at": "12:39",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Beobachten Sie die lokale Tierwelt von dieser erhöhten Naturterrasse, die leicht zugänglich ist und eine atemberaubende Küstenkulisse bietet.",
+            "hu": "Figyelje meg a helyi vadvilágot erről a megemelt természetes teraszról, amely könnyen megközelíthető, és lenyűgöző tengerparti hátteret biztosít.",
+            "ro": "Observați fauna locală de pe această terasă naturală ridicată, care este ușor accesibilă și oferă un fundal de coastă uimitor pentru iubitorii de natură.",
+            "en": "Spot local wildlife from this elevated natural terrace, which is easily accessible and provides a stunning coastal backdrop for nature lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Uvala Marnica",
+            "hu": "Uvala Marnica",
+            "ro": "Uvala Marnica",
+            "en": "Uvala Marnica"
+          },
+          "coords": [
+            15.057646,
+            44.022135
+          ],
+          "category": "landmark",
+          "arrive_at": "13:14",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am kristallklaren Wasser dieser ruhigen, versteckten Bucht, die ein idealer Ort für ein erfrischendes Nachmittagsschwimmen ist.",
+            "hu": "Pihenjen ennek a csendes, rejtett öbölnek a kristálytiszta vizeinél, amely ideális hely egy frissítő délutáni úszáshoz, távol a tömegtől.",
+            "ro": "Relaxați-vă la apele cristaline ale acestui golf ascuns și liniștit, care servește drept un loc ideal pentru o baie răcoritoare de după-amiază.",
+            "en": "Relax by the crystal-clear waters of this tranquil hidden bay, which serves as an ideal spot for a refreshing afternoon swim away from the crowds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt mit den weiten Ausblicken vom Vrh Hrnjetine und rollen Sie zu den einzigartigen Formationen von Škare. Mittags genießen Sie die bewaldete Ruhe von Šišlavica und die Anstiege zur Oštravica. Die Nachmittagsfahrt führt Sie zur erhöhten Schönheit von Orljak. Kühlen Sie schließlich in der idyllischen Uvala Marnica ab.",
+        "hu": "Indítsa az utat a Vrh Hrnjetine lenyűgöző kilátásával, majd guruljon át Škare egyedi formációihoz. A delet Šišlavica erdős nyugalmának és az Oštravica felé vezető emelkedőknek szenteljük. A délutáni tekerés Orljak magaslati szépsége mellett vezet el. Végül hűtse le fáradt izmait az idilli Uvala Marnica öbölben.",
+        "ro": "Începeți plimbarea cu priveliștile ample de la Vrh Hrnjetine, pedalând pe lângă formațiunile unice din Škare. Amiaza este petrecută bucurându-vă de liniștea din Šišlavica și de urcările abrupte către Oštravica. Plimbarea de după-amiază vă duce la frumusețea din Orljak. În cele din urmă, răcoriți-vă în idilicul Uvala Marnica.",
+        "en": "Kick off your ride with the sweeping views from Vrh Hrnjetine, rolling next to the unique formations of Škare. Midday is spent enjoying the forested serenity of Šišlavica and the sharp ascents to Oštravica. Afternoon riding takes you past the elevated beauty of Orljak. Finally, cool off your tired muscles in the idyllic Uvala Marnica."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:22",
+      "total_km": 7.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Vrh Hrnjetine",
+            "hu": "Vrh Hrnjetine",
+            "ro": "Vrh Hrnjetine",
+            "en": "Vrh Hrnjetine"
+          },
+          "coords": [
+            15.037169,
+            44.020267
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Morgenbrise auf diesem markanten Gipfel mit Panoramablick auf die Inselgruppe, am besten früh mit festem Schuhwerk zu besuchen.",
+            "hu": "Élvezze a reggeli szellőt ezen a kiemelkedő csúcson, amely panorámás kilátást nyújt a szigetcsoportra, és érdemes korán, erős cipőben érkezni.",
+            "ro": "Bucurați-vă de briza dimineții pe acest vârf proeminent cu vederi panoramice ale arhipelagului, cel mai bine vizitat devreme cu încălțăminte solidă.",
+            "en": "Enjoy the morning breeze on this prominent peak offering panoramic views of the archipelago, best visited early with sturdy shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Uvala Marnica",
+            "hu": "Uvala Marnica",
+            "ro": "Uvala Marnica",
+            "en": "Uvala Marnica"
+          },
+          "coords": [
+            15.057646,
+            44.022135
+          ],
+          "category": "landmark",
+          "arrive_at": "09:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie am kristallklaren Wasser dieser ruhigen, versteckten Bucht, die ein idealer Ort für ein erfrischendes Nachmittagsschwimmen ist.",
+            "hu": "Pihenjen ennek a csendes, rejtett öbölnek a kristálytiszta vizeinél, amely ideális hely egy frissítő délutáni úszáshoz, távol a tömegtől.",
+            "ro": "Relaxați-vă la apele cristaline ale acestui golf ascuns și liniștit, care servește drept un loc ideal pentru o baie răcoritoare de după-amiază.",
+            "en": "Relax by the crystal-clear waters of this tranquil hidden bay, which serves as an ideal spot for a refreshing afternoon swim away from the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Oštravica",
+            "hu": "Oštravica",
+            "ro": "Oštravica",
+            "en": "Oštravica"
+          },
+          "coords": [
+            15.04096,
+            44.012009
+          ],
+          "category": "natural",
+          "arrive_at": "10:56",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diesen markanten natürlichen Aussichtspunkt für atemberaubende Fotos der umliegenden Inseln, aber bringen Sie ausreichend Wasser mit.",
+            "hu": "Mássza meg ezt a lenyűgöző természetes kilátót, hogy lélegzetelállító fotókat készítsen a környező szigetekről, de hozzon sok vizet, mert nincs árnyék.",
+            "ro": "Urcați pe acest punct de observare natural impresionant pentru fotografii uluitoare cu insulele din jur, dar aduceți multă apă, deoarece nu există umbră.",
+            "en": "Climb this striking natural vantage point for breathtaking photos of the surrounding islands, but bring plenty of water as there is no shade here."
+          }
+        },
+        {
+          "name": {
+            "de": "Orljak",
+            "hu": "Orljak",
+            "ro": "Orljak",
+            "en": "Orljak"
+          },
+          "coords": [
+            15.044834,
+            44.006416
+          ],
+          "category": "natural",
+          "arrive_at": "11:22",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Beobachten Sie die lokale Tierwelt von dieser erhöhten Naturterrasse, die leicht zugänglich ist und eine atemberaubende Küstenkulisse bietet.",
+            "hu": "Figyelje meg a helyi vadvilágot erről a megemelt természetes teraszról, amely könnyen megközelíthető, és lenyűgöző tengerparti hátteret biztosít.",
+            "ro": "Observați fauna locală de pe această terasă naturală ridicată, care este ușor accesibilă și oferă un fundal de coastă uimitor pentru iubitorii de natură.",
+            "en": "Spot local wildlife from this elevated natural terrace, which is easily accessible and provides a stunning coastal backdrop for nature lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Strašna peć",
+            "hu": "Strašna peć",
+            "ro": "Strašna peć",
+            "en": "Strašna peć"
+          },
+          "coords": [
+            15.038468,
+            44.004542
+          ],
+          "category": "landmark",
+          "arrive_at": "11:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckenden Stalaktiten in dieser berühmten Höhle, und bringen Sie eine leichte Jacke mit, da die Temperaturen unter der Erde sinken.",
+            "hu": "Fedezze fel a lenyűgöző cseppköveket ebben a híres monumentális barlangban, és mindenképpen hozzon egy könnyű kabátot a hűvös földalatti idő miatt.",
+            "ro": "Descoperiți stalactitele impresionante din interiorul acestei peșteri renumite și asigurați-vă că aduceți o jachetă ușoară, deoarece temperaturile scad.",
+            "en": "Discover the impressive stalactites inside this renowned monumental cave, and be sure to bring a light jacket as temperatures drop underground."
+          }
+        },
+        {
+          "name": {
+            "de": "Veli vrh",
+            "hu": "Veli vrh",
+            "ro": "Veli vrh",
+            "en": "Veli vrh"
+          },
+          "coords": [
+            15.048717,
+            44.001336
+          ],
+          "category": "natural",
+          "arrive_at": "13:09",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bezwingen Sie den markanten Gipfel der Insel für den ultimativen 360-Grad-Panoramablick, aber bleiben Sie zu Ihrer eigenen Sicherheit auf den markierten Wegen.",
+            "hu": "Hódítsa meg a sziget kiemelkedő csúcsát a tökéletes 360 fokos panorámáért, de a saját biztonsága érdekében ne térjen le a kijelölt ösvényekről.",
+            "ro": "Cuceriți vârful proeminent al insulei pentru o vedere panoramică supremă de 360 de grade, dar nu uitați să rămâneți pe traseele marcate pentru siguranță.",
+            "en": "Conquer the island's prominent peak for the ultimate 360-degree panoramic view, but remember to stay on the marked trails for your own safety."
+          }
+        },
+        {
+          "name": {
+            "de": "Šišlavica",
+            "hu": "Šišlavica",
+            "ro": "Šišlavica",
+            "en": "Šišlavica"
+          },
+          "coords": [
+            15.035783,
+            44.012004
+          ],
+          "category": "natural",
+          "arrive_at": "13:37",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Machen Sie einen friedlichen Spaziergang durch diese üppige mediterrane Vegetationszone, ideal für eine schattige Mittagspause und Vogelbeobachtung.",
+            "hu": "Tegyen egy békés sétát ebben a buja mediterrán növényzeti zónában, amely tökéletes egy árnyékos déli pihenéshez és a madarak megfigyeléséhez.",
+            "ro": "Faceți o plimbare liniștită prin această zonă de vegetație mediteraneană luxuriantă, perfectă pentru o odihnă umbrită la amiază și observarea păsărilor.",
+            "en": "Take a peaceful walk through this lush Mediterranean vegetation zone, perfect for a shaded midday rest and bird watching in the quiet nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt am hohen Aussichtspunkt Vrh Hrnjetine und fahren Sie dann schnell hinab zur Uvala Marnica. Mittags erkunden Sie die raue Natur um Oštravica, Orljak und die Stalaktiten der Strašna peć. Der späte Nachmittag hebt die herrlichen Höhen von Veli vrh hervor. Ihre Reise endet sanft in der grünen Oase von Šišlavica.",
+        "hu": "Kezdje autós útját a Vrh Hrnjetine magaslati kilátójánál, majd ereszkedjen le gyorsan a békés Uvala Marnica öbölhöz. A dél folyamán felfedezzük Oštravica, Orljak zord természetét és a Strašna peć híres cseppköveit. A késő délután kiemeli a Veli vrh csodálatos magasságait. Az utazás zökkenőmentesen ér véget Šišlavica zöld oázisában.",
+        "ro": "Începeți condusul de la punctul înalt Vrh Hrnjetine, apoi coborâți rapid la serena Uvala Marnica. Amiaza aduce o explorare naturală accidentată în jurul Oštravica, Orljak și faimoasele stalactite din Strašna peć. După-amiaza târziu scoate în evidență înălțimile magnifice ale Veli vrh. Călătoria se termină la oaza verde din Šišlavica.",
+        "en": "Begin your drive at the high vantage point of Vrh Hrnjetine, then descend quickly to the serene Uvala Marnica. Midday brings rugged natural exploration around Oštravica, Orljak, and the famous stalactites of Strašna peć. The late afternoon highlights the magnificent heights of Veli vrh. Your journey ends smoothly at the green oasis of Šišlavica."
+      }
+    }
+  }
+}

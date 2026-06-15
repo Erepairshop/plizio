@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-el-toro-cities-v2",
+  "anchor": {
+    "name": "el Toro",
+    "coords": [
+      2.48033,
+      39.48505
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:54",
+      "total_km": 3.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Caleta d'El Toro",
+            "hu": "Caleta d'El Toro",
+            "ro": "Caleta d'El Toro",
+            "en": "Caleta d'El Toro"
+          },
+          "coords": [
+            2.477222,
+            39.486913
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie an dieser kleinen Bucht, wo das ruhige Wasser zu einem Bad einlädt, aber kommen Sie früh, da die Parkplätze schnell belegt sind.",
+            "hu": "Pihenjen ennél az apró, bájos öbölnél, ahol a csendes víz reggeli úszásra csábít, de érdemes korán érkezni a parkolóhelyek gyors telítődése miatt.",
+            "ro": "Relaxați-vă la acest mic golf fermecător unde apele calme vă invită la o baie matinală, dar veniți devreme pentru că locurile de parcare se ocupă rapid.",
+            "en": "Relax by this small, charming cove where calm waters invite for a gentle morning dip, but remember to arrive early as local parking spaces fill up fast."
+          }
+        },
+        {
+          "name": {
+            "de": "el Clot del Moro",
+            "hu": "el Clot del Moro",
+            "ro": "el Clot del Moro",
+            "en": "el Clot del Moro"
+          },
+          "coords": [
+            2.482102,
+            39.477484
+          ],
+          "category": "natural",
+          "arrive_at": "10:12",
+          "stay_min": 30,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese verborgene Bucht mit herrlichem Küstenblick und tragen Sie unbedingt festes Schuhwerk, um die unebenen Felswege sicher zu meistern.",
+            "hu": "Fedezze fel ezt a rejtett természetes öblöt, amely lenyűgöző kilátást nyújt, de mindenképp viseljen túracipőt az egyenetlen sziklás ösvények miatt.",
+            "ro": "Descoperiți acest golf natural ascuns cu vederi superbe spre coastă și asigurați-vă că purtați încălțăminte adecvată pentru potecile stâncoase inegale.",
+            "en": "Discover this hidden natural inlet offering stunning rugged coastal views, so be sure to wear sturdy shoes for navigating the uneven rocky pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Racó de sa Fragata",
+            "hu": "Racó de sa Fragata",
+            "ro": "Racó de sa Fragata",
+            "en": "Racó de sa Fragata"
+          },
+          "coords": [
+            2.481762,
+            39.476533
+          ],
+          "category": "recreational",
+          "arrive_at": "10:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erholen Sie sich an diesem ruhigen Strandabschnitt mit kristallklarem Wasser, der sich ideal zum Schnorcheln eignet, wenn Sie Ihre Ausrüstung mitbringen.",
+            "hu": "Kapcsolódjon ki ezen az eldugott partszakaszon a kristálytiszta vizek mellett, amely tökéletes sznorkelezéshez, ha hozza magával a saját felszerelését.",
+            "ro": "Relaxați-vă la această plajă retrasă cu ape cristaline și un mediu pașnic, fiind un loc ideal pentru snorkeling dacă vă aduceți propriul echipament.",
+            "en": "Unwind at this secluded beach spot characterized by crystal-clear waters and peaceful surroundings, making it ideal for snorkeling if you bring your gear."
+          }
+        },
+        {
+          "name": {
+            "de": "sa Cala de s'Art",
+            "hu": "sa Cala de s'Art",
+            "ro": "sa Cala de s'Art",
+            "en": "sa Cala de s'Art"
+          },
+          "coords": [
+            2.487281,
+            39.472857
+          ],
+          "category": "recreational",
+          "arrive_at": "11:41",
+          "stay_min": 45,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die Sonne in dieser malerischen kleinen Bucht, und vergessen Sie nicht, extra Trinkwasser mitzubringen, da es hier keine Geschäfte gibt.",
+            "hu": "Élvezze a napsütést ebben a festői kis öbölben, és ne felejtsen el elegendő ivóvizet csomagolni, mivel a közvetlen közelben nincsenek boltok.",
+            "ro": "Bucurați-vă de soare în acest golfuleț pitoresc cunoscut pentru viața marină bogată și nu uitați să luați apă suplimentară deoarece nu există magazine.",
+            "en": "Soak up the sun at this picturesque little bay known for its vibrant maritime life, and don't forget to pack extra drinking water as there are no shops."
+          }
+        },
+        {
+          "name": {
+            "de": "Reserva marina de l'illa del Toro",
+            "hu": "Reserva marina de l'illa del Toro",
+            "ro": "Reserva marina de l'illa del Toro",
+            "en": "Reserva marina de l'illa del Toro"
+          },
+          "coords": [
+            2.479057,
+            39.469166
+          ],
+          "category": "natural",
+          "arrive_at": "12:44",
+          "stay_min": 70,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang am spektakulären Meeresschutzgebiet, wo ein Fernglas Ihr Erlebnis der Vogelbeobachtung deutlich bereichert.",
+            "hu": "Zárja sétáját a biodiverzitásáról híres, lenyűgöző tengeri rezervátumnál, ahol egy távcső nagymértékben növeli a madármegfigyelés élményét.",
+            "ro": "Încheiați plimbarea la această spectaculoasă rezervație marină faimoasă pentru biodiversitate, unde un binoclu va îmbunătăți semnificativ vizita.",
+            "en": "Conclude your walk at this spectacular marine reserve famous for its biodiversity, where a pair of binoculars will greatly enhance your birdwatching."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt sanft am ruhigen Wasser der lokalen Bucht und sorgt für Entspannung. Gegen Mittag wechseln Sie auf raue Pfade zu versteckten Küstenformationen. Der Nachmittag entfaltet sich entlang wunderschöner Felsküsten, wo Sie den sanften Wellen lauschen können. Am Abend werden Sie schließlich mit einem atemberaubenden Blick über das geschützte Meeresschutzgebiet belohnt.",
+        "hu": "A reggel lassan indul a helyi öböl csendes vizénél, megadva a nap alaphangját. Dél közeledtével vadabb ösvényekre tér át, amelyek rejtett természeti képződményekhez vezetnek. A délután a gyönyörű sziklás partok mentén telik, ahol hallgathatja a lágy hullámokat. Végül az este lélegzetelállító, nyitott kilátással jutalmazza a védett tengeri rezervátum felett.",
+        "ro": "Dimineața începe blând lângă apele calme ale golfului, creând o atmosferă relaxantă. Pe măsură ce se apropie prânzul, veți trece pe poteci stâncoase către formațiuni de coastă ascunse. După-amiaza se desfășoară de-a lungul coastelor stâncoase, perfecte pentru a asculta valurile. Seara vă răsplătește cu vederi deschise uluitoare asupra rezervației marine protejate din zonă.",
+        "en": "Your morning starts gently by the calm waters of the local cove, setting a relaxing tone. As midday approaches, you will transition to rugged paths leading to hidden natural coastal formations. The afternoon unfolds along beautiful rocky shores, perfect for listening to the gentle waves. Finally, the evening rewards you with breathtaking open views over the protected marine reserve."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:54",
+      "total_km": 8.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Platja del Toro",
+            "hu": "Platja del Toro",
+            "ro": "Platja del Toro",
+            "en": "Platja del Toro"
+          },
+          "coords": [
+            2.479034,
+            39.491414
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Fahrt an diesem weitläufigen Sandstrand, und schließen Sie Ihr Fahrrad an der Promenade gut ab, bevor Sie ins Wasser gehen.",
+            "hu": "Kezdje a túrát ezen a népszerű, tágas homokos strandon, de mindenképp zárja le biztonságosan a kerékpárját a sétányon, mielőtt a vízhez menne.",
+            "ro": "Începeți plimbarea la această plajă populară și spațioasă, dar asigurați-vă că legați bicicleta în siguranță pe promenadă înainte de a merge la apă.",
+            "en": "Start your ride at this popular, expansive sandy beach perfect for a morning stretch, but lock your bike securely on the promenade before heading to the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de ses Penyes Roges",
+            "hu": "Platja de ses Penyes Roges",
+            "ro": "Platja de ses Penyes Roges",
+            "en": "Platja de ses Penyes Roges"
+          },
+          "coords": [
+            2.474256,
+            39.493714
+          ],
+          "category": "recreational",
+          "arrive_at": "09:58",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten roten Klippen, die diesen Strand säumen, und kommen Sie am besten vor dem Mittag, um sich einen guten Platz zu sichern.",
+            "hu": "Csodálja meg a strandot szegélyező vörös sziklákat, és próbáljon még dél előtt érkezni, hogy biztosítson magának egy jó helyet a finom homokban.",
+            "ro": "Admirați stâncile roșiatice uimitoare din spatele acestei plaje și încercați să ajungeți înainte de prânz pentru a vă asigura un loc bun pe nisip.",
+            "en": "Admire the striking red cliffs backing this lovely beach which creates a gorgeous contrast, and try to arrive before midday to secure a prime spot on the sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Puig de Sa Morisca",
+            "hu": "Puig de Sa Morisca",
+            "ro": "Puig de Sa Morisca",
+            "en": "Puig de Sa Morisca"
+          },
+          "coords": [
+            2.480575,
+            39.507469
+          ],
+          "category": "historical",
+          "arrive_at": "10:52",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Wandern Sie in diesen historischen Park mit Panoramablick, und denken Sie daran, dass die steilen Schotterwege Reifen mit gutem Profil erfordern.",
+            "hu": "Kerekezzen fel ehhez az izgalmas történelmi parkhoz a panorámáért, és tartsa szem előtt, hogy a meredek kavicsos utakon jó tapadású gumikra lesz szükség.",
+            "ro": "Urcați spre acest parc istoric fascinant ce oferă vederi panoramice, ținând cont că potecile abrupte de pietriș necesită cauciucuri cu tracțiune bună.",
+            "en": "Hike up to this fascinating historical park offering panoramic Mediterranean views, keeping in mind that the steep gravel paths require good traction tires."
+          }
+        },
+        {
+          "name": {
+            "de": "Talaiot de Son Miralles",
+            "hu": "Talaiot de Son Miralles",
+            "ro": "Talaiot de Son Miralles",
+            "en": "Talaiot de Son Miralles"
+          },
+          "coords": [
+            2.485483,
+            39.505261
+          ],
+          "category": "historical",
+          "arrive_at": "11:55",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Ruinen dieser faszinierenden archäologischen Stätte und lesen Sie die Infotafeln am Eingang, um den Kontext zu verstehen.",
+            "hu": "Fedezze fel e lenyűgöző régészeti lelőhely ősi megalitikus romjait, és olvassa el a bejáratnál található információs táblákat a történelmi háttérért.",
+            "ro": "Explorați ruinele megalitice antice ale acestui sit arheologic și citiți panourile informative de la intrare pentru un context istoric mult mai bun.",
+            "en": "Explore the ancient megalithic ruins of this intriguing archaeological site, and read the informative panels located at the entrance for better historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Túmul de Son Ferrer",
+            "hu": "Túmul de Son Ferrer",
+            "ro": "Túmul de Son Ferrer",
+            "en": "Túmul de Son Ferrer"
+          },
+          "coords": [
+            2.499112,
+            39.493312
+          ],
+          "category": "historical",
+          "arrive_at": "12:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen prähistorischen Grabhügel in den Pinien, aber schonen Sie die empfindliche Umgebung, indem Sie unbedingt auf den Wegen bleiben.",
+            "hu": "Csodálja meg a fenyőfák között rejtőző történelem előtti halomsírt, de vigyázzon a törékeny környezetre, és szigorúan csak a kijelölt ösvényeken haladjon.",
+            "ro": "Minunați-vă de acest tumul preistoric ascuns printre pini, dar respectați mediul fragil rămânând strict doar pe traseele de vizitare marcate vizibil.",
+            "en": "Marvel at this prehistoric burial mound hidden among the pine trees, but respect the fragile environment by staying strictly on the marked viewing trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de les Malgrats",
+            "hu": "Mirador de les Malgrats",
+            "ro": "Mirador de les Malgrats",
+            "en": "Mirador de les Malgrats"
+          },
+          "coords": [
+            2.460017,
+            39.499411
+          ],
+          "category": "natural",
+          "arrive_at": "13:54",
+          "stay_min": 60,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour an diesem atemberaubenden Aussichtspunkt, und passen Sie Ihren Besuch für fantastische Fotos an das spektakuläre Licht an.",
+            "hu": "Zárja a kerékpártúrát ennél a lélegzetelállító kilátónál, és időzítse látogatását a lenyűgöző délutáni fényekre a csodálatos fotók elkészítése érdekében.",
+            "ro": "Încheiați excursia la acest punct de belvedere uluitor și sincronizați-vă vizita cu lumina spectaculoasă a după-amiezii pentru cele mai bune fotografii.",
+            "en": "Finish your cycling trip at this breathtaking viewpoint overlooking the Malgrats Islands, timing your visit for the spectacular afternoon light for great photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer und fahren Sie bei einer morgendlichen Brise an weiten Sandstränden vorbei. Mittags geht es etwas ins Landesinnere, um alte Ruinen zu erkunden. Der Nachmittag bietet eine Fahrt durch Pinienwälder, die faszinierende archäologische Überreste verbinden. Der Tag endet an einem Küsten-Aussichtspunkt mit spektakulärem Blick auf die vorgelagerten Inseln.",
+        "hu": "Kezdje kerékpáros kalandját a széles homokos strandok mentén, élvezve a reggeli tengeri szellőt. Délben kicsit beljebb halad a szárazföldön, ősi romokat és egy történelmi parkot felfedezve. A délután fenyőfák közötti utazást kínál, lenyűgöző régészeti emlékeket összekötve. A nap egy tengerparti kilátónál zárul, ahonnan látványos kilátás nyílik a közeli kis szigetekre.",
+        "ro": "Începeți aventura pe bicicletă trecând pe lângă plaje largi de nisip cu briza mării de dimineață. La prânz mergeți ușor în interior pentru a explora ruine antice și un parc istoric. După-amiaza oferă o plimbare printre pini care leagă vestigii arheologice fascinante. Ziua se încheie la un punct de belvedere de pe coastă, oferind vederi spectaculoase ale insulelor din larg.",
+        "en": "Begin your cycling adventure riding past wide sandy beaches with morning sea breezes. Midday takes you slightly inland to explore ancient megalithic ruins and an elevated historical park. The afternoon offers a ride through scattered pine trees connecting fascinating archaeological remnants. The day concludes at a coastal viewpoint, offering spectacular views of offshore islands."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:02",
+      "total_km": 8.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Túmul de Son Ferrer",
+            "hu": "Túmul de Son Ferrer",
+            "ro": "Túmul de Son Ferrer",
+            "en": "Túmul de Son Ferrer"
+          },
+          "coords": [
+            2.499112,
+            39.493312
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Roadtrip an dieser historischen Struktur im Wald, die durch einen kleinen Parkplatz abseits der Hauptstraße leicht zugänglich ist.",
+            "hu": "Kezdje autós túráját ennek az ősi építménynek a felfedezésével a nyugodt erdőben, amely könnyen megközelíthető egy kis parkolón keresztül a főútról.",
+            "ro": "Începeți traseul explorând această structură arheologică antică dintr-o pădure liniștită, fiind ușor accesibilă având o parcare mică lângă drumul principal.",
+            "en": "Begin your road trip exploring this ancient archaeological structure set in serene woodland, easily accessible with a small parking area just off the main road."
+          }
+        },
+        {
+          "name": {
+            "de": "Talaiot de Son Miralles",
+            "hu": "Talaiot de Son Miralles",
+            "ro": "Talaiot de Son Miralles",
+            "en": "Talaiot de Son Miralles"
+          },
+          "coords": [
+            2.485483,
+            39.505261
+          ],
+          "category": "historical",
+          "arrive_at": "09:59",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Reste bronzezeitlicher Siedlungen, und lassen Sie Ihr Auto an den ausgewiesenen Haltestellen stehen, um enge Landwege nicht zu blockieren.",
+            "hu": "Fedezze fel a bronzkori települések maradványait, és hagyja autóját a kijelölt helyeken, hogy ne torlaszolja el a szűk vidéki, keskeny földutakat.",
+            "ro": "Descoperiți rămășițele așezărilor din Epoca Bronzului și lăsați mașina în locurile amenajate pentru a nu bloca deloc drumurile rurale destul de înguste.",
+            "en": "Discover the remnants of Bronze Age settlements scattered in the region, and leave your car at the nearby designated stops to avoid blocking narrow rural lanes."
+          }
+        },
+        {
+          "name": {
+            "de": "Puig de Sa Morisca",
+            "hu": "Puig de Sa Morisca",
+            "ro": "Puig de Sa Morisca",
+            "en": "Puig de Sa Morisca"
+          },
+          "coords": [
+            2.480575,
+            39.507469
+          ],
+          "category": "historical",
+          "arrive_at": "10:46",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen archäologischen Park mit schöner Aussicht und nutzen Sie die schattigen Parkplätze, die sich direkt am Haupteingang befinden.",
+            "hu": "Látogasson el ebbe a történelmet és szép kilátást ötvöző parkba, kihasználva a főbejáratnál található árnyékos parkolóhelyek nyújtotta előnyöket.",
+            "ro": "Vizitați acest parc arheologic care combină istoria cu priveliști frumoase, profitând de locurile de parcare umbrite disponibile chiar la intrarea principală.",
+            "en": "Visit this expansive archaeological park combining history and beautiful viewpoints, taking advantage of the shaded parking spots available at the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de les Malgrats",
+            "hu": "Mirador de les Malgrats",
+            "ro": "Mirador de les Malgrats",
+            "en": "Mirador de les Malgrats"
+          },
+          "coords": [
+            2.460017,
+            39.499411
+          ],
+          "category": "natural",
+          "arrive_at": "11:51",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Halten Sie für einen faszinierenden Blick auf das Meer und die kleinen Inseln, wo die Klippen abseits der Geländer fantastische Fotomotive bieten.",
+            "hu": "Álljon meg egy pillanatra a tenger és a nyílt vízi szigetek felé tekintve, ahol a közeli sziklák kiváló fotózási lehetőségeket kínálnak a korlátokon túl is.",
+            "ro": "Opriți pentru o privire fermecătoare spre mare și insulițele stâncoase, unde stâncile din apropiere oferă oportunități fantastice de fotografie panoramică.",
+            "en": "Stop for a mesmerizing gaze across the sea towards the rocky offshore islets, where the nearby cliffs offer fantastic photo opportunities away from the guardrails."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de ses Penyes Roges",
+            "hu": "Platja de ses Penyes Roges",
+            "ro": "Platja de ses Penyes Roges",
+            "en": "Platja de ses Penyes Roges"
+          },
+          "coords": [
+            2.474256,
+            39.493714
+          ],
+          "category": "recreational",
+          "arrive_at": "12:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Machen Sie eine wohlverdiente Pause an dieser von roten Steinen umrahmten Sandbucht, und holen Sie sich einen Snack in den umliegenden Cafés.",
+            "hu": "Tartson egy jól megérdemelt pihenőt ennél a vöröses sziklákkal övezett csendes homokos öbölnél, és vegyen egy gyors harapnivalót a helyi kávézókban.",
+            "ro": "Faceți o pauză binemeritată la acest golf de nisip liniștit încadrat de pietre roșiatice și luați o gustare rapidă la cafenelele adiacente plajei.",
+            "en": "Take a well-deserved break at this tranquil sandy bay framed by reddish stones, and grab a quick local snack at the adjacent cafes before heading to the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "el Clot del Moro",
+            "hu": "el Clot del Moro",
+            "ro": "el Clot del Moro",
+            "en": "el Clot del Moro"
+          },
+          "coords": [
+            2.482102,
+            39.477484
+          ],
+          "category": "natural",
+          "arrive_at": "13:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem wilden Naturhafen für einen Moment der Ruhe, parken Sie jedoch weiter oben und gehen Sie die steile Zufahrtsstraße zu Fuß hinunter.",
+            "hu": "Hajtson le ehhez a vad és érintetlen természetes kikötőhöz egy kis elcsendesedésre, bár érdemes feljebb parkolni, és gyalog megtenni a meredek utat.",
+            "ro": "Conduceți către acest port natural sălbatic pentru un moment de liniște, deși ar trebui să parcați mai sus și să coborâți drumul abrupt la pas.",
+            "en": "Drive down to this wild and unspoiled natural harbor for a moment of quiet reflection, though you should park higher up and walk down the steep access road."
+          }
+        },
+        {
+          "name": {
+            "de": "Reserva marina de l'illa del Toro",
+            "hu": "Reserva marina de l'illa del Toro",
+            "ro": "Reserva marina de l'illa del Toro",
+            "en": "Reserva marina de l'illa del Toro"
+          },
+          "coords": [
+            2.479057,
+            39.469166
+          ],
+          "category": "natural",
+          "arrive_at": "13:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre große Tour in diesem majestätischen Naturschutzgebiet, und halten Sie bei aufkommendem Wind einen sicheren Abstand zu den Klippenrändern.",
+            "hu": "Zárja a nagy túrát ebben a lenyűgöző természetvédelmi területben a tengeri szentély felett, és szeles időben tartson biztonságos távolságot a peremtől.",
+            "ro": "Încheiați marele tur la această rezervație naturală maiestuoasă cu vedere la sanctuarul marin, păstrând o distanță sigură de marginea stâncilor pe vânt.",
+            "en": "Conclude your grand tour at this majestic nature reserve overlooking the marine sanctuary, keeping a safe distance from the cliff edges when the wind picks up."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour etwas im Landesinneren und entdecken Sie zum Tagesbeginn einen prähistorischen Grabhügel. Bis zum Mittag entdecken Sie weitere antike Siedlungen, bevor Sie einen Park erreichen. Der Nachmittag konzentriert sich auf die atemberaubende Küstenlandschaft mit Fahrt zwischen Panoramablick und Stränden. Ihr Abend gipfelt an der schroffen Spitze der Halbinsel.",
+        "hu": "Kezdje autós túráját kicsit beljebb a szárazföldön, egy ősi halomsírt felfedezve a nap kezdetén. Délre további ősi településeket fedez fel, mielőtt elérne egy emelt történelmi parkba. A délután a lenyűgöző tengerparti tájra összpontosít, panorámás kilátók és idilli strandok között autózva. Az este a félsziget vad, sziklás csúcsán éri el csúcspontját az óceán csodás kilátásával.",
+        "ro": "Începeți turul cu mașina descoperind un tumul preistoric liniștit chiar la începutul zilei. Până la prânz, veți descoperi mai multe așezări antice înainte de a ajunge într-un parc istoric. După-amiaza se concentrează pe peisajele de coastă, conducând între puncte de belvedere și plaje idilice. Seara culminează la capătul stâncos și sălbatic al peninsulei cu vederi excelente.",
+        "en": "Start your driving tour slightly inland, discovering a serene prehistoric burial mound as the day begins. By midday, you'll uncover more ancient settlements before arriving at an elevated historical park. The afternoon focuses on the stunning coastal scenery, driving between panoramic viewpoints and idyllic red-cliff beaches. Your evening culminates at the rugged tip of the peninsula."
+      }
+    }
+  }
+}

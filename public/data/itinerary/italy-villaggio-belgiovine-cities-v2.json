@@ -1,0 +1,497 @@
+{
+  "city_id": "italy-villaggio-belgiovine-cities-v2",
+  "anchor": {
+    "name": "Villaggio Belgiovine",
+    "coords": [
+      16.61364,
+      41.19366
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:43",
+      "total_km": 1.85,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di San Pio X",
+            "hu": "Chiesa di San Pio X",
+            "ro": "Chiesa di San Pio X",
+            "en": "Chiesa di San Pio X"
+          },
+          "coords": [
+            16.604174,
+            41.197233
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag in dieser modernen Pfarrkirche, die für ihre einladende Atmosphäre bekannt ist, indem Sie früh ankommen, um das ruhige Morgenlicht zu genießen.",
+            "hu": "Kezdje a napját ebben a modern plébániatemplomban, amely hívogató légköréről ismert, és érkezzen korán, hogy élvezze a csendes reggeli fényeket.",
+            "ro": "Începeți-vă ziua la această biserică parohială modernă, remarcabilă pentru atmosfera sa primitoare, ajungând devreme pentru a vă bucura de lumina liniștită a dimineții.",
+            "en": "Begin your day at this modern parish church, notable for its welcoming atmosphere, by arriving early to enjoy the quiet morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Calvario",
+            "hu": "Calvario",
+            "ro": "Calvario",
+            "en": "Calvario"
+          },
+          "coords": [
+            16.601549,
+            41.202552
+          ],
+          "category": "historical",
+          "arrive_at": "10:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses bedeutende historische und religiöse Denkmal, das die Passion darstellt, und nehmen Sie sich Zeit, die detaillierten skulpturalen Elemente genau zu betrachten.",
+            "hu": "Fedezze fel ezt a passiót ábrázoló, jelentős történelmi és vallási műemléket, időt szánva a részletes szobrászati elemek alapos megfigyelésére.",
+            "ro": "Explorați acest monument istoric și religios semnificativ reprezentând Patimile, luându-vă timp pentru a observa îndeaproape elementele sculpturale detaliate.",
+            "en": "Explore this significant historical and religious monument representing the Passion, taking time to observe the detailed sculptural elements closely."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa della Morte",
+            "hu": "Chiesa della Morte",
+            "ro": "Chiesa della Morte",
+            "en": "Chiesa della Morte"
+          },
+          "coords": [
+            16.600421,
+            41.205805
+          ],
+          "category": "religious",
+          "arrive_at": "11:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese einzigartig benannte Kirche, die faszinierende Artefakte beherbergt, und kleiden Sie sich bescheiden, da sie ein feierlicher Ort der Besinnung ist.",
+            "hu": "Látogassa meg ezt a különleges nevű templomot, amely lenyűgöző tárgyakat őriz, és öltözzön szerényen, mivel ez a csendes elmélkedés helye.",
+            "ro": "Vizitați această biserică cu un nume unic, care adăpostește artefacte fascinante, și îmbrăcați-vă modest, deoarece servește drept loc solemn de reflecție.",
+            "en": "Visit this uniquely named church which houses fascinating artifacts, and dress modestly as it serves as a solemn place of reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santo Stefano",
+            "hu": "Chiesa di Santo Stefano",
+            "ro": "Chiesa di Santo Stefano",
+            "en": "Chiesa di Santo Stefano"
+          },
+          "coords": [
+            16.597876,
+            41.20475
+          ],
+          "category": "religious",
+          "arrive_at": "12:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne Architektur dieser historischen Kirche, ein fester Bestandteil der örtlichen Gemeinde, indem Sie vorher den Messeplan überprüfen, um Zugang zu gewährleisten.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a gyönyörű építészetét, amely a helyi közösség alapköve, de előtte ellenőrizze a misék rendjét a biztos bejutás érdekében.",
+            "ro": "Admirați arhitectura frumoasă a acestei biserici istorice, un pilon al comunității locale, verificând programul slujbelor în prealabil pentru a asigura intrarea.",
+            "en": "Admire the beautiful architecture of this historic church, a staple of the local community, by checking the mass schedule beforehand to ensure entry."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro di Molfetta",
+            "hu": "Faro di Molfetta",
+            "ro": "Faro di Molfetta",
+            "en": "Faro di Molfetta"
+          },
+          "coords": [
+            16.594219,
+            41.208041
+          ],
+          "category": "landmark",
+          "arrive_at": "12:58",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang am Wahrzeichen der Stadt, dem Leuchtturm, der einen Panoramablick auf die Küste bietet, und bringen Sie eine Kamera für die atemberaubende maritime Kulisse am Nachmittag mit.",
+            "hu": "Fejezze be sétáját a város ikonikus világítótornyánál, amely panorámás kilátást nyújt a partra, és hozzon magával fényképezőgépet a lenyűgöző délutáni tengeri tájhoz.",
+            "ro": "Încheiați-vă plimbarea la farul emblematic al orașului, oferind vederi panoramice ale coastei, și aduceți un aparat foto pentru peisajul maritim uimitor de după-amiază.",
+            "en": "Conclude your walk at the city's iconic lighthouse, offering panoramic coastal views, and bring a camera for the stunning afternoon maritime scenery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt ruhig in der Chiesa di San Pio X, bevor Sie sich zum bedeutenden historischen Calvario begeben, um das lokale Erbe zu würdigen. Mittags schlendern Sie durch die malerischen Straßen zur Chiesa della Morte und zur nahegelegenen Chiesa di Santo Stefano, die beide reich an Geschichte sind. Am Nachmittag genießen Sie die entspannte Küstenatmosphäre. Der Tag endet friedlich am Faro di Molfetta, wo der Sonnenuntergang das Meer beleuchtet.",
+        "hu": "A reggel csendesen kezdődik a Chiesa di San Pio X templomában, mielőtt a jelentős történelmi Calvario felé venné az irányt, hogy értékelje a helyi örökséget. Délben sétáljon végig a festői utcákon a Chiesa della Morte és a közeli Chiesa di Santo Stefano felé, melyek történelemben gazdagok. Délután élvezze a tengerparti nyugodt légkört. A nap békésen zárul a Faro di Molfettánál, ahol a naplemente megvilágítja a tengert.",
+        "ro": "Dimineața începe liniștit la Chiesa di San Pio X, înainte de a vă îndrepta spre importantul Calvario istoric pentru a aprecia moștenirea locală. La prânz, plimbați-vă pe străzile pitorești până la Chiesa della Morte și biserica din apropiere, Chiesa di Santo Stefano, ambele bogate în istorie. După-amiaza, bucurați-vă de atmosfera de coastă relaxată. Ziua se încheie pașnic la Faro di Molfetta, unde apusul luminează marea.",
+        "en": "The morning begins quietly at Chiesa di San Pio X before heading to the significant historical Calvario to appreciate local heritage. Midday, you'll stroll through picturesque streets to Chiesa della Morte and nearby Chiesa di Santo Stefano, both rich in history. In the afternoon, enjoy the relaxed coastal atmosphere. The day concludes peacefully at Faro di Molfetta, where the sunset illuminates the sea."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:46",
+      "total_km": 3.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Antico Ponte Lama Martina",
+            "hu": "Antico Ponte Lama Martina",
+            "ro": "Antico Ponte Lama Martina",
+            "en": "Antico Ponte Lama Martina"
+          },
+          "coords": [
+            16.604289,
+            41.193398
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Fahrt an dieser alten Steinbrücke, die eine malerische Schlucht überspannt, und tragen Sie feste Schuhe, um die umliegenden Naturpfade sorgfältig zu erkunden.",
+            "hu": "Kezdje kerékpártúráját ennél a festői szurdokon átívelő ősi kőhídnál, és viseljen masszív cipőt a környező ösvények gondos felfedezéséhez.",
+            "ro": "Începeți plimbarea la acest pod antic de piatră care traversează o râpă pitorească, purtând încălțăminte rezistentă pentru a explora cu atenție traseele naturale din jur.",
+            "en": "Start your ride at this ancient stone bridge that spans a scenic ravine, wearing sturdy shoes to carefully explore the surrounding natural trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Pio X",
+            "hu": "Chiesa di San Pio X",
+            "ro": "Chiesa di San Pio X",
+            "en": "Chiesa di San Pio X"
+          },
+          "coords": [
+            16.604174,
+            41.197233
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause an dieser zeitgenössischen religiösen Stätte für einen Moment der Ruhe und schließen Sie Ihr Fahrrad sicher an den nahegelegenen Ständern ab, bevor Sie hineingehen.",
+            "hu": "Tartson egy kis szünetet ezen a kortárs vallási helyszínen, és biztonságosan zárja le kerékpárját a közeli tárolóknál, mielőtt bemenne.",
+            "ro": "Faceți o pauză la acest sit religios contemporan pentru un moment de liniște, asigurându-vă bicicleta la rastelele din apropiere înainte de a intra.",
+            "en": "Pause at this contemporary religious site for a moment of peace, locking your bike securely at the nearby racks before heading inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa del Sacro Cuore di Gesù",
+            "hu": "Chiesa del Sacro Cuore di Gesù",
+            "ro": "Chiesa del Sacro Cuore di Gesù",
+            "en": "Chiesa del Sacro Cuore di Gesù"
+          },
+          "coords": [
+            16.598716,
+            41.198767
+          ],
+          "category": "religious",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die kunstvolle Fassade dieser Herz-Jesu-Kirche und treten Sie ein, um ihre ruhige Atmosphäre abseits der belebten Straßen zu erleben.",
+            "hu": "Csodálja meg a Jézus Szíve templom bonyolult homlokzatát, és lépjen be, hogy megtapasztalja békés hangulatát a nyüzsgő utcáktól távol.",
+            "ro": "Minunați-vă de fațada complexă a acestei biserici cu hramul Inima Sacră și intrați pentru a experimenta ambianța sa senină departe de străzile aglomerate.",
+            "en": "Marvel at the intricate facade of this sacred heart church, and step in to experience its serene ambiance away from the bustling streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco della Musica sant'Achille",
+            "hu": "Parco della Musica sant'Achille",
+            "ro": "Parco della Musica sant'Achille",
+            "en": "Parco della Musica sant'Achille"
+          },
+          "coords": [
+            16.586409,
+            41.195488
+          ],
+          "category": "park",
+          "arrive_at": "12:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie eine entspannende Pause in diesem Musikpark, der sich perfekt für einen gemütlichen Spaziergang oder ein schnelles Picknick auf den gepflegten Rasenflächen eignet.",
+            "hu": "Élvezze a pihentető szünetet ebben a zenei témájú parkban, amely tökéletes egy kellemes sétához vagy egy gyors piknikhez a gondozott pázsiton.",
+            "ro": "Bucurați-vă de o pauză relaxantă în acest parc cu tematică muzicală, care este perfect pentru o plimbare pe îndelete sau un picnic rapid pe pajiștile bine întreținute.",
+            "en": "Enjoy a relaxing break in this music-themed park, which is perfect for a leisurely stroll or a quick picnic on the well-maintained lawns."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Giuseppe",
+            "hu": "Chiesa di San Giuseppe",
+            "ro": "Chiesa di San Giuseppe",
+            "en": "Chiesa di San Giuseppe"
+          },
+          "coords": [
+            16.590649,
+            41.198665
+          ],
+          "category": "religious",
+          "arrive_at": "13:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante lokale Gemeinde, die dem Heiligen Joseph gewidmet ist, und nehmen Sie sich einen Moment Zeit, um die traditionellen Kunstwerke zu bewundern, die ihr ruhiges Inneres schmücken.",
+            "hu": "Látogassa meg ezt a Szent Józsefnek szentelt bájos helyi plébániát, szánva egy percet a csendes belső teret díszítő hagyományos műalkotások megcsodálására.",
+            "ro": "Vizitați această fermecătoare parohie locală cu hramul Sfântul Iosif, luându-vă un moment pentru a admira operele de artă tradiționale care îi împodobesc interiorul liniștit.",
+            "en": "Visit this charming local parish dedicated to Saint Joseph, taking a moment to admire the traditional artwork adorning its quiet interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento al Buon Pastore",
+            "hu": "Monumento al Buon Pastore",
+            "ro": "Monumento al Buon Pastore",
+            "en": "Monumento al Buon Pastore"
+          },
+          "coords": [
+            16.592394,
+            41.202871
+          ],
+          "category": "historical",
+          "arrive_at": "14:01",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour an diesem ikonischen Denkmal des Guten Hirten und fangen Sie das wunderschöne Licht des späten Nachmittags ein, das perfekt für unvergessliche Fotos ist.",
+            "hu": "Fejezze be kerékpáros túráját ennél az ikonikus Jó Pásztor emlékműnél, megörökítve a gyönyörű késő délutáni fényeket, amelyek tökéletesek az emlékezetes fotókhoz.",
+            "ro": "Terminați-vă turul cu bicicleta la acest monument emblematic al Bunului Păstor, prinzând lumina frumoasă a după-amiezii târzii, perfectă pentru fotografii memorabile.",
+            "en": "Finish your cycling tour at this iconic Good Shepherd monument, catching the beautiful late afternoon light perfect for memorable photographs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Treten Sie frühmorgens in die Pedale und beginnen Sie an der Antico Ponte Lama Martina, gefolgt von einer besinnlichen Pause an der Chiesa di San Pio X. Zur Mittagszeit radeln Sie gemütlich zur Chiesa del Sacro Cuore di Gesù und genießen anschließend ein Picknick im üppigen Parco della Musica sant'Achille. Der Nachmittag bietet entspanntes Fahren durch die Stadt zur Chiesa di San Giuseppe. Beenden Sie Ihre Radtour am Monumento al Buon Pastore im sanften Abendlicht.",
+        "hu": "Pattanjon nyeregbe kora reggel az Antico Ponte Lama Martina hídnál, majd tartson egy elmélkedő szünetet a Chiesa di San Pio X templomnál. Délben kényelmesen kerekezzen a Chiesa del Sacro Cuore di Gesù felé, majd élvezze a pikniket a buja Parco della Musica sant'Achille parkban. A délután pihentető városi tekerést kínál a Chiesa di San Giuseppe felé. Fejezze be a túrát a Monumento al Buon Pastore emlékműnél a lágy esti fényekben.",
+        "ro": "Porniți devreme, începând la Antico Ponte Lama Martina, urmată de o pauză contemplativă la Chiesa di San Pio X. La prânz, pedalați pe îndelete spre Chiesa del Sacro Cuore di Gesù și bucurați-vă de un picnic în luxuriantul Parco della Musica sant'Achille. După-amiaza oferă o plimbare relaxantă prin oraș până la Chiesa di San Giuseppe. Încheiați turul la Monumento al Buon Pastore în lumina blândă a serii.",
+        "en": "Set off early by starting at the Antico Ponte Lama Martina, followed by a contemplative pause at Chiesa di San Pio X. Midday, leisurely pedal towards Chiesa del Sacro Cuore di Gesù and enjoy a picnic in the lush Parco della Musica sant'Achille. The afternoon offers a relaxing ride across town to Chiesa di San Giuseppe. Wrap up your cycling tour at the Monumento al Buon Pastore in the soft evening light."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:16",
+      "total_km": 3.6,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Parco della Musica sant'Achille",
+            "hu": "Parco della Musica sant'Achille",
+            "ro": "Parco della Musica sant'Achille",
+            "en": "Parco della Musica sant'Achille"
+          },
+          "coords": [
+            16.586409,
+            41.195488
+          ],
+          "category": "park",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe, um Ihren Tag mit der Erkundung des üppigen Grüns und der musikalischen Installationen dieses Parks zu beginnen, und holen Sie sich vorher unbedingt einen Kaffee in einem nahegelegenen Café.",
+            "hu": "Parkoljon a közelben, hogy a napot a park buja növényzetének és zenei installációinak felfedezésével kezdje, és előtte feltétlenül igyon egy kávét egy közeli kávézóban.",
+            "ro": "Parcați în apropiere pentru a vă începe ziua explorând verdeața luxuriantă și instalațiile muzicale din acest parc, asigurându-vă că luați mai întâi o cafea de la o cafenea din apropiere.",
+            "en": "Park nearby to start your day exploring the lush greenery and musical installations of this park, making sure to grab a coffee at a nearby cafe first."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Giuseppe",
+            "hu": "Chiesa di San Giuseppe",
+            "ro": "Chiesa di San Giuseppe",
+            "en": "Chiesa di San Giuseppe"
+          },
+          "coords": [
+            16.590649,
+            41.198665
+          ],
+          "category": "religious",
+          "arrive_at": "10:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Fahren Sie eine kurze Strecke zu dieser friedlichen Kirche und achten Sie auf Straßenparkplätze direkt vor der Tür, um den wunderschön erhaltenen Altar leicht betrachten zu können.",
+            "hu": "Vezessen egy rövid távolságot ehhez a békés templomhoz, keresve az utcai parkolót közvetlenül kint, hogy könnyedén megtekinthesse gyönyörűen megőrzött oltárát.",
+            "ro": "Conduceți o distanță scurtă până la această biserică liniștită, căutând parcare pe stradă chiar afară pentru a vizualiza cu ușurință altarul său frumos conservat.",
+            "en": "Drive short distance to this peaceful church, checking for street parking right outside to easily view its beautifully preserved altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa dell'Immacolata Concezione",
+            "hu": "Chiesa dell'Immacolata Concezione",
+            "ro": "Chiesa dell'Immacolata Concezione",
+            "en": "Chiesa dell'Immacolata Concezione"
+          },
+          "coords": [
+            16.59306,
+            41.201382
+          ],
+          "category": "religious",
+          "arrive_at": "11:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die atemberaubenden architektonischen Details dieser Kirche der Unbefleckten Empfängnis und denken Sie daran, Ihre Stimme während persönlicher Gebetszeiten leise zu halten.",
+            "hu": "Fedezze fel a Szeplőtelen Fogantatás templom lenyűgöző építészeti részleteit, emlékezve arra, hogy a személyes imaidők alatt halkan beszéljen.",
+            "ro": "Descoperiți detaliile arhitecturale uimitoare ale acestei biserici a Imaculatei Concepții, amintindu-vă să păstrați o voce joasă în timpul orelor de rugăciune personală.",
+            "en": "Discover the stunning architectural details of this immaculate conception church, remembering to keep your voice down during personal prayer times."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento al Buon Pastore",
+            "hu": "Monumento al Buon Pastore",
+            "ro": "Monumento al Buon Pastore",
+            "en": "Monumento al Buon Pastore"
+          },
+          "coords": [
+            16.592394,
+            41.202871
+          ],
+          "category": "historical",
+          "arrive_at": "11:48",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Halten Sie kurz an diesem ergreifenden Denkmal, das dem Guten Hirten gewidmet ist, ein großartiger Ort für einen schnellen kulturellen Schnappschuss, bevor Sie Ihre Fahrt fortsetzen.",
+            "hu": "Álljon meg röviden ennél a Jó Pásztornak szentelt megható emlékműnél, amely remek hely egy gyors kulturális pillanatkép készítésére, mielőtt folytatná útját.",
+            "ro": "Opriți-vă scurt la acest monument emoționant dedicat Bunului Păstor, un loc excelent pentru o fotografie culturală rapidă înainte de a vă continua drumul.",
+            "en": "Stop briefly at this poignant monument dedicated to the Good Shepherd, a great spot for a quick cultural snapshot before continuing your drive."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro di Molfetta",
+            "hu": "Faro di Molfetta",
+            "ro": "Faro di Molfetta",
+            "en": "Faro di Molfetta"
+          },
+          "coords": [
+            16.594219,
+            41.208041
+          ],
+          "category": "landmark",
+          "arrive_at": "12:05",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Blick auf den Ozean vom Fuß des Leuchtturms, wo normalerweise Parkplätze vorhanden sind, und bringen Sie eine Windjacke für die Küstenbrise mit.",
+            "hu": "Élvezze a lenyűgöző óceáni kilátást a világítótorony lábától, ahol általában van parkoló, és hozzon magával széldzsekit a parti szellő miatt.",
+            "ro": "Bucurați-vă de priveliștile ample ale oceanului de la baza farului, unde parcarea este de obicei disponibilă, aducând o jachetă de vânt pentru briza de coastă.",
+            "en": "Take in the sweeping ocean views from the base of the lighthouse, where parking is usually available, bringing a windbreaker for the coastal breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa Santa Maria Consolatrice degli Afflitti",
+            "hu": "Chiesa Santa Maria Consolatrice degli Afflitti",
+            "ro": "Chiesa Santa Maria Consolatrice degli Afflitti",
+            "en": "Chiesa Santa Maria Consolatrice degli Afflitti"
+          },
+          "coords": [
+            16.600458,
+            41.204519
+          ],
+          "category": "religious",
+          "arrive_at": "12:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses prächtige Heiligtum, das dafür bekannt ist, Trost zu spenden, und betrachten Sie die herrlichen Fresken, die seine weitläufigen Gewölbedecken bedecken.",
+            "hu": "Látogassa meg ezt a vigasztalást nyújtó nagy szentélyt, megfigyelve a hatalmas boltíves mennyezetét borító csodálatos freskókat.",
+            "ro": "Vizitați acest mare sanctuar cunoscut pentru oferirea de mângâiere, observând frescele magnifice care acoperă tavanele sale boltite expansive.",
+            "en": "Visit this grand sanctuary known for offering comfort, observing the magnificent frescoes that cover its expansive vaulted ceilings."
+          }
+        },
+        {
+          "name": {
+            "de": "Calvario",
+            "hu": "Calvario",
+            "ro": "Calvario",
+            "en": "Calvario"
+          },
+          "coords": [
+            16.601549,
+            41.202552
+          ],
+          "category": "historical",
+          "arrive_at": "13:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Parken Sie etwas weiter weg, um zu dieser historischen Kalvarienberg-Struktur hinaufzuschlendern und über ihre tiefgreifende kulturelle Bedeutung innerhalb der Gemeinde nachzudenken.",
+            "hu": "Parkoljon kicsit távolabb, hogy felsétáljon ehhez a történelmi kálváriához, elgondolkodva a közösségen belüli mély kulturális jelentőségén.",
+            "ro": "Parcați puțin mai departe pentru a face o plimbare până la această structură istorică a Calvarului, reflectând la semnificația sa culturală profundă în cadrul comunității.",
+            "en": "Park slightly further away to stroll up to this historic Calvary structure, reflecting on its profound cultural significance within the community."
+          }
+        },
+        {
+          "name": {
+            "de": "Antico Ponte Lama Martina",
+            "hu": "Antico Ponte Lama Martina",
+            "ro": "Antico Ponte Lama Martina",
+            "en": "Antico Ponte Lama Martina"
+          },
+          "coords": [
+            16.604289,
+            41.193398
+          ],
+          "category": "historical",
+          "arrive_at": "14:26",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Autotour an dieser beeindruckenden historischen Brücke und kommen Sie spät am Tag an, um das Licht der goldenen Stunde zu genießen, das lange Schatten über das Tal wirft.",
+            "hu": "Fejezze be autós túráját ennél a lenyűgöző történelmi hídnál, a nap végén érkezve, hogy élvezze az aranyóra fényeit, amelyek hosszú árnyékokat vetnek a völgyre.",
+            "ro": "Încheiați-vă turul cu mașina la acest impresionant pod istoric, ajungând târziu în zi pentru a vă bucura de lumina orei de aur aruncând umbre lungi peste vale.",
+            "en": "Conclude your driving tour at this impressive historical bridge, arriving late in the day to enjoy the golden hour light casting long shadows across the valley."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Fahrt am Parco della Musica sant'Achille für einen erfrischenden Morgen, gefolgt von der ruhigen Chiesa di San Giuseppe. Mittags erkunden Sie die Chiesa dell'Immacolata Concezione und das Monumento al Buon Pastore und genießen schnelle und bequeme Zwischenstopps. Nachmittags fahren Sie entlang der Küste zum Faro di Molfetta und weiter zur beeindruckenden Chiesa Santa Maria Consolatrice. Ihre Reise gipfelt an der Antico Ponte Lama Martina, perfekt bei Sonnenuntergang.",
+        "hu": "Kezdje útját a Parco della Musica sant'Achille parkban egy frissítő reggelért, melyet a békés Chiesa di San Giuseppe követ. Délben fedezze fel a Chiesa dell'Immacolata Concezione templomot és a Monumento al Buon Pastore emlékművet, élvezve a gyors és kényelmes megállókat. Délután haladjon a part mentén a Faro di Molfetta felé, majd a lenyűgöző Chiesa Santa Maria Consolatrice templomhoz. Utazása az Antico Ponte Lama Martina hídnál csúcsosodik ki, mely tökéletes naplementekor.",
+        "ro": "Începeți-vă călătoria la Parco della Musica sant'Achille pentru o dimineață răcoroasă, urmată de pașnica Chiesa di San Giuseppe. La prânz, explorați Chiesa dell'Immacolata Concezione și Monumento al Buon Pastore, bucurându-vă de opriri rapide și convenabile. După-amiaza, mergeți pe coastă spre Faro di Molfetta și spre impresionanta Chiesa Santa Maria Consolatrice. Călătoria dumneavoastră culminează la Antico Ponte Lama Martina, perfectă la apus.",
+        "en": "Start your drive at Parco della Musica sant'Achille for a refreshing morning, followed by the peaceful Chiesa di San Giuseppe. Midday, explore Chiesa dell'Immacolata Concezione and the Monumento al Buon Pastore, enjoying quick and convenient stops. In the afternoon, cruise along the coast to Faro di Molfetta and onwards to the impressive Chiesa Santa Maria Consolatrice. Your journey culminates at the Antico Ponte Lama Martina, perfect at sunset."
+      }
+    }
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "city_id": "montoir-de-bretagne",
+  "anchor": {
+    "name": "Montoir-de-Bretagne",
+    "coords": [
+      -2.1492,
+      47.3283
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:17",
+      "total_km": 3.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Étienne",
+            "hu": "Église Saint-Étienne",
+            "ro": "Biserica Saint-Étienne",
+            "en": "Saint-Étienne Church"
+          },
+          "coords": [
+            -2.156068,
+            47.328057
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese charmante Kirche für ihre Architektur und besuchen Sie sie früh, um das friedliche Morgenlicht durch die wunderschönen Fenster zu erleben.",
+            "hu": "Csodálja meg e hangulatos templom építészetét, és érkezzen korán, hogy átélhesse a gyönyörű ablakokon átszűrődő békés reggeli fény varázsát a padokban.",
+            "ro": "Admirați această biserică fermecătoare pentru arhitectura sa și vizitați-o devreme pentru a experimenta lumina dimineții prin ferestrele sale spectaculoase.",
+            "en": "Admire this charming church for its serene atmosphere and historic architecture, and try to visit early to experience the morning light through its beautiful windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de la marine en bois du Brivet",
+            "hu": "Musée de la marine en bois du Brivet",
+            "ro": "Muzeul de Marină din Lemn Brivet",
+            "en": "Brivet Wooden Marine Museum"
+          },
+          "coords": [
+            -2.154638,
+            47.328123
+          ],
+          "category": "museum",
+          "arrive_at": "09:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte des Holzschiffbaus der Region und vergessen Sie nicht, sich die sorgfältig gefertigten maßstabsgetreuen Modelle anzusehen.",
+            "hu": "Fedezze fel a régiót formáló fahajóépítés lenyűgöző helyi történelmét, és mindenképpen szánjon időt a gondosan kidolgozott méretarányos modellek megtekintésére.",
+            "ro": "Descoperiți istoria fascinantă a construcțiilor navale din lemn din zonă și nu uitați să analizați modelele la scară realizate cu o atenție meticuloasă la detalii.",
+            "en": "Discover the fascinating local history of wooden shipbuilding that shaped this region, and don't forget to check out the meticulously crafted scale models on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Salle Polyvalente La Bonne Fontaine",
+            "hu": "Salle Polyvalente La Bonne Fontaine",
+            "ro": "Sala Polivalentă La Bonne Fontaine",
+            "en": "La Bonne Fontaine Multi-purpose Hall"
+          },
+          "coords": [
+            -2.151547,
+            47.330548
+          ],
+          "category": "cultural",
+          "arrive_at": "11:37",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Diese moderne Kulturhalle beherbergt verschiedene lokale Veranstaltungen, daher empfiehlt es sich, vor Ihrem Besuch den aktuellen Tagesplan online zu überprüfen.",
+            "hu": "Ez a modern kulturális központ különféle helyi eseményeknek ad otthont, így érdemes a délutáni látogatás előtt online ellenőrizni az aktuális napi programokat.",
+            "ro": "Această sală culturală modernă găzduiește diverse evenimente locale, așadar este recomandat să verificați programul zilnic online înainte de a o vizita după-amiaza.",
+            "en": "This modern cultural hall hosts various local events and exhibitions, so it is highly recommended to check their daily schedule online before your casual afternoon visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Béluga",
+            "hu": "Le Béluga",
+            "ro": "Le Béluga",
+            "en": "Le Béluga"
+          },
+          "coords": [
+            -2.145106,
+            47.329984
+          ],
+          "category": "family",
+          "arrive_at": "12:47",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem gemütlichen Familienraum mit Gemeinschaftsgefühl und nutzen Sie die Sitzgelegenheiten für einen schnellen Snack oder Kaffee mit den Liebsten.",
+            "hu": "Pihenjen ebben a barátságos, közösségi hangulatú családi térben, és használja ki a közeli ülőhelyeket egy gyors harapnivaló vagy kávé elfogyasztására szeretteivel.",
+            "ro": "Relaxați-vă în acest spațiu familial primitor cu atmosferă comunitară și profitați de locurile de relaxare pentru a savura o gustare rapidă sau o cafea cu cei dragi.",
+            "en": "Relax at this welcoming family space known for its community vibe, and take advantage of the nearby seating areas to enjoy a quick snack or coffee with your loved ones."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de Pierre Blanche",
+            "hu": "Menhir de Pierre Blanche",
+            "ro": "Menhir de Pierre Blanche",
+            "en": "Menhir de Pierre Blanche"
+          },
+          "coords": [
+            -2.152408,
+            47.352526
+          ],
+          "category": "historical",
+          "arrive_at": "14:27",
+          "stay_min": 110,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Stehen Sie vor diesem beeindruckenden Megalithen, um prähistorische Zeiten zu spüren, und tragen Sie bequeme Schuhe, da der grasbewachsene Weg uneben sein kann.",
+            "hu": "Álljon meg e lenyűgöző ősi megalit előtt, hogy kapcsolódjon a történelem előtti időkhöz, és viseljen kényelmes cipőt, mivel a környező füves ösvény egyenetlen lehet.",
+            "ro": "Stați în fața acestui megalit antic impresionant pentru a simți istoria și purtați încălțăminte confortabilă, deoarece poteca din jur poate fi destul de accidentată.",
+            "en": "Stand before this impressive ancient megalith to connect with prehistoric times, and wear comfortable walking shoes as the surrounding path can be a bit uneven and grassy."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit einer Erkundung des historischen Zentrums rund um die kleine Kirche Saint-Étienne. Mittags tauchen Sie im Schifffahrtsmuseum in das lokale Erbe ein. Der Nachmittag lädt zu einem Spaziergang zur Kulturhalle und familiären Plätzen ein. Der Abend endet mit einem Fußmarsch zum alten Hinkelstein in ruhiger Natur.",
+        "hu": "Kezdje a reggelt a történelmi központban, a hangulatos Saint-Étienne templom környékén. Délben merüljön el a helyi tengerészeti múzeum gazdag örökségében. A délután folyamán kényelmes sétával érinti a kulturális központot és a családi tereket. Az este egy északi sétával zárul, hogy megcsodálja az ősi menhírt a csendes mezőkön.",
+        "ro": "Începeți dimineața explorând inima istorică în jurul pitoreștii biserici Saint-Étienne. La prânz, descoperiți patrimoniul maritim local la muzeul de profil. După-amiaza aduce o plimbare relaxantă spre sala culturală și zonele prietenoase cu familiile. Seara se încheie cu o drumeție spre nord pentru a admira anticul menhir în liniștea naturii.",
+        "en": "Start your morning exploring the historic heart around the quaint Saint-Étienne church. At midday, dive into local heritage at the maritime museum. The afternoon brings a leisurely stroll to the cultural hall and family-friendly spaces. Evening concludes with a brisk walk north to witness the ancient standing stone amidst quiet fields."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:22",
+      "total_km": 8.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Étienne",
+            "hu": "Église Saint-Étienne",
+            "ro": "Biserica Saint-Étienne",
+            "en": "Saint-Étienne Church"
+          },
+          "coords": [
+            -2.156068,
+            47.328057
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese charmante Kirche für ihre Architektur und besuchen Sie sie früh, um das friedliche Morgenlicht durch die wunderschönen Fenster zu erleben.",
+            "hu": "Csodálja meg e hangulatos templom építészetét, és érkezzen korán, hogy átélhesse a gyönyörű ablakokon átszűrődő békés reggeli fény varázsát a padokban.",
+            "ro": "Admirați această biserică fermecătoare pentru arhitectura sa și vizitați-o devreme pentru a experimenta lumina dimineții prin ferestrele sale spectaculoase.",
+            "en": "Admire this charming church for its serene atmosphere and historic architecture, and try to visit early to experience the morning light through its beautiful windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de la marine en bois du Brivet",
+            "hu": "Musée de la marine en bois du Brivet",
+            "ro": "Muzeul de Marină din Lemn Brivet",
+            "en": "Brivet Wooden Marine Museum"
+          },
+          "coords": [
+            -2.154638,
+            47.328123
+          ],
+          "category": "museum",
+          "arrive_at": "09:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte des Holzschiffbaus der Region und vergessen Sie nicht, sich die sorgfältig gefertigten maßstabsgetreuen Modelle anzusehen.",
+            "hu": "Fedezze fel a régiót formáló fahajóépítés lenyűgöző helyi történelmét, és mindenképpen szánjon időt a gondosan kidolgozott méretarányos modellek megtekintésére.",
+            "ro": "Descoperiți istoria fascinantă a construcțiilor navale din lemn din zonă și nu uitați să analizați modelele la scară realizate cu o atenție meticuloasă la detalii.",
+            "en": "Discover the fascinating local history of wooden shipbuilding that shaped this region, and don't forget to check out the meticulously crafted scale models on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de Pierre Blanche",
+            "hu": "Menhir de Pierre Blanche",
+            "ro": "Menhir de Pierre Blanche",
+            "en": "Menhir de Pierre Blanche"
+          },
+          "coords": [
+            -2.152408,
+            47.352526
+          ],
+          "category": "historical",
+          "arrive_at": "11:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Stehen Sie vor diesem beeindruckenden Megalithen, um prähistorische Zeiten zu spüren, und tragen Sie bequeme Schuhe, da der grasbewachsene Weg uneben sein kann.",
+            "hu": "Álljon meg e lenyűgöző ősi megalit előtt, hogy kapcsolódjon a történelem előtti időkhöz, és viseljen kényelmes cipőt, mivel a környező füves ösvény egyenetlen lehet.",
+            "ro": "Stați în fața acestui megalit antic impresionant pentru a simți istoria și purtați încălțăminte confortabilă, deoarece poteca din jur poate fi destul de accidentată.",
+            "en": "Stand before this impressive ancient megalith to connect with prehistoric times, and wear comfortable walking shoes as the surrounding path can be a bit uneven and grassy."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison de la Brière",
+            "hu": "Maison de la Brière",
+            "ro": "Maison de la Brière",
+            "en": "Maison de la Brière"
+          },
+          "coords": [
+            -2.213616,
+            47.372462
+          ],
+          "category": "cultural",
+          "arrive_at": "13:36",
+          "stay_min": 60,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem Kulturhaus mehr über die Traditionen der Sümpfe und bitten Sie das Personal um eine kostenlose Karte der nahegelegenen Wanderwege für später.",
+            "hu": "Ismerje meg a mocsarak egyedi hagyományait és ökoszisztémáját ebben a házban, és kérjen a barátságos személyzettől egy ingyenes térképet a közeli túraútvonalakról.",
+            "ro": "Aflați despre tradițiile și ecosistemul mlaștinilor în această casă culturală și cereți personalului amabil o hartă gratuită a traseelor de drumeție din apropiere.",
+            "en": "Learn about the unique traditions and ecosystem of the marshes in this cultural house, and ask the friendly staff for a complimentary map of the nearby walking trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Brière Regional Natural Park",
+            "hu": "Brière Regionális Természeti Park",
+            "ro": "Parcul Natural Regional Brière",
+            "en": "Brière Regional Natural Park"
+          },
+          "coords": [
+            -2.214167,
+            47.371944
+          ],
+          "category": "natural",
+          "arrive_at": "14:37",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses riesige Feuchtgebiet bei einer Fahrt mit dem Flachbodenboot und bringen Sie ein Fernglas mit, um die reiche lokale Vogelwelt zu beobachten.",
+            "hu": "Fedezze fel ezt a hatalmas vizes élőhelyet egy hagyományos lapos fenekű csónaktúrával, és feltétlenül hozzon magával távcsövet a gazdag helyi madárvilág megfigyeléséhez.",
+            "ro": "Explorați această vastă rețea de zone umede într-un tur cu barca tradițională și asigurați-vă că aduceți un binoclu bun pentru a observa bogata viață a păsărilor.",
+            "en": "Explore this vast wetland network via a traditional flat-bottomed boat tour, and make sure to bring a good pair of binoculars to observe the abundant local birdlife."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens durch das Zentrum von Montoir und bewundern Sie die Kirche sowie die maritime Holzbaugeschichte. Mittags führt die Tour nach Norden zum markanten Menhir de Pierre Blanche. Am Nachmittag radeln Sie zu den Brière-Sümpfen, um die lokalen Traditionen im Maison de la Brière zu entdecken. Beenden Sie den Tag im weitläufigen Naturpark.",
+        "hu": "Délelőtt kerékpározzon Montoir központjában, megtekintve a templomot és a fa hajózás történelmét. A dél a lenyűgöző Menhir de Pierre Blanche felé vezető tekeréssel telik. Délután kerekezzen a Brière mocsarak felé, hogy felfedezze a helyi hagyományokat a Maison de la Brière-ben. Zárja napját a hatalmas természeti park békés tájain.",
+        "ro": "Pedalați prin centrul Montoir în această dimineață, admirând biserica și istoria maritimă a lemnului. Prânzul aduce o cursă spre nord către impresionantul Menhir de Pierre Blanche. După-amiaza mergeți spre mlaștinile Brière pentru a descoperi tradițiile la Maison de la Brière. Încheiați ziua bucurându-vă de peisajul liniștit al parcului natural.",
+        "en": "Pedal through Montoir's center this morning, taking in the church and intricate wooden marine history. Midday brings a ride north to the striking Menhir de Pierre Blanche. Spend the afternoon cycling towards the Brière marshes to discover local traditions at Maison de la Brière. End your day enjoying the serene, expansive natural park landscape."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:36",
+      "total_km": 18.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Le Béluga",
+            "hu": "Le Béluga",
+            "ro": "Le Béluga",
+            "en": "Le Béluga"
+          },
+          "coords": [
+            -2.145106,
+            47.329984
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem gemütlichen Familienraum mit Gemeinschaftsgefühl und nutzen Sie die Sitzgelegenheiten für einen schnellen Snack oder Kaffee mit den Liebsten.",
+            "hu": "Pihenjen ebben a barátságos, közösségi hangulatú családi térben, és használja ki a közeli ülőhelyeket egy gyors harapnivaló vagy kávé elfogyasztására szeretteivel.",
+            "ro": "Relaxați-vă în acest spațiu familial primitor cu atmosferă comunitară și profitați de locurile de relaxare pentru a savura o gustare rapidă sau o cafea cu cei dragi.",
+            "en": "Relax at this welcoming family space known for its community vibe, and take advantage of the nearby seating areas to enjoy a quick snack or coffee with your loved ones."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de la marine en bois du Brivet",
+            "hu": "Musée de la marine en bois du Brivet",
+            "ro": "Muzeul de Marină din Lemn Brivet",
+            "en": "Brivet Wooden Marine Museum"
+          },
+          "coords": [
+            -2.154638,
+            47.328123
+          ],
+          "category": "museum",
+          "arrive_at": "10:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte des Holzschiffbaus der Region und vergessen Sie nicht, sich die sorgfältig gefertigten maßstabsgetreuen Modelle anzusehen.",
+            "hu": "Fedezze fel a régiót formáló fahajóépítés lenyűgöző helyi történelmét, és mindenképpen szánjon időt a gondosan kidolgozott méretarányos modellek megtekintésére.",
+            "ro": "Descoperiți istoria fascinantă a construcțiilor navale din lemn din zonă și nu uitați să analizați modelele la scară realizate cu o atenție meticuloasă la detalii.",
+            "en": "Discover the fascinating local history of wooden shipbuilding that shaped this region, and don't forget to check out the meticulously crafted scale models on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen des Mottes",
+            "hu": "Dolmen des Mottes",
+            "ro": "Dolmen des Mottes",
+            "en": "Dolmen des Mottes"
+          },
+          "coords": [
+            -2.206035,
+            47.279551
+          ],
+          "category": "historical",
+          "arrive_at": "12:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese markante prähistorische Grabstätte in der Landschaft und besuchen Sie sie am späten Nachmittag, um das beste dramatische Licht für Fotos zu haben.",
+            "hu": "Csodálja meg ezt a tájba simuló lenyűgöző őskori temetkezési helyet, és időzítse látogatását a késő délutánra a fotózáshoz ideális drámai fényviszonyok érdekében.",
+            "ro": "Admirați acest impresionant sit funerar preistoric ascuns în peisaj și vizitați-l spre seară pentru cea mai bună lumină dramatică, ideală pentru pasionații de fotografie.",
+            "en": "Marvel at this striking prehistoric burial site tucked away in the landscape, and visit during the late afternoon for the best dramatic lighting ideal for photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison de la Brière",
+            "hu": "Maison de la Brière",
+            "ro": "Maison de la Brière",
+            "en": "Maison de la Brière"
+          },
+          "coords": [
+            -2.213616,
+            47.372462
+          ],
+          "category": "cultural",
+          "arrive_at": "13:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 10.5,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem Kulturhaus mehr über die Traditionen der Sümpfe und bitten Sie das Personal um eine kostenlose Karte der nahegelegenen Wanderwege für später.",
+            "hu": "Ismerje meg a mocsarak egyedi hagyományait és ökoszisztémáját ebben a házban, és kérjen a barátságos személyzettől egy ingyenes térképet a közeli túraútvonalakról.",
+            "ro": "Aflați despre tradițiile și ecosistemul mlaștinilor în această casă culturală și cereți personalului amabil o hartă gratuită a traseelor de drumeție din apropiere.",
+            "en": "Learn about the unique traditions and ecosystem of the marshes in this cultural house, and ask the friendly staff for a complimentary map of the nearby walking trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Brière Regional Natural Park",
+            "hu": "Brière Regionális Természeti Park",
+            "ro": "Parcul Natural Regional Brière",
+            "en": "Brière Regional Natural Park"
+          },
+          "coords": [
+            -2.214167,
+            47.371944
+          ],
+          "category": "natural",
+          "arrive_at": "14:51",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses riesige Feuchtgebiet bei einer Fahrt mit dem Flachbodenboot und bringen Sie ein Fernglas mit, um die reiche lokale Vogelwelt zu beobachten.",
+            "hu": "Fedezze fel ezt a hatalmas vizes élőhelyet egy hagyományos lapos fenekű csónaktúrával, és feltétlenül hozzon magával távcsövet a gazdag helyi madárvilág megfigyeléséhez.",
+            "ro": "Explorați această vastă rețea de zone umede într-un tur cu barca tradițională și asigurați-vă că aduceți un binoclu bun pentru a observa bogata viață a păsărilor.",
+            "en": "Explore this vast wetland network via a traditional flat-bottomed boat tour, and make sure to bring a good pair of binoculars to observe the abundant local birdlife."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens ins Zentrum für familienfreundliche Atmosphäre im Le Béluga und reiches maritimes Erbe im Museum. Mittags lockt eine landschaftlich reizvolle Fahrt nach Süden zum antiken Dolmen des Mottes. Nachmittags geht es nordwärts zu den Brière-Sümpfen für kulturelle Einblicke im örtlichen Haus. Schließen Sie mit einem Abendspaziergang im Naturpark ab.",
+        "hu": "Autózzon reggel a városközpontba a Le Béluga családi hangulatáért és a múzeum gazdag tengerészeti örökségéért. A dél festői utazást kínál délre, hogy megcsodálja az ősi Dolmen des Mottes-t. Délután induljon északra a Brière mocsarakhoz a helyi kultúra megismeréséért. Zárja a napot egy esti sétával a lenyűgöző regionális természeti parkban.",
+        "ro": "Conduceți dimineața în centrul orașului pentru atmosfera de la Le Béluga și patrimoniul maritim al muzeului. Prânzul oferă o plimbare pitorească spre sud pentru a admira anticul Dolmen des Mottes. După-amiaza, mergeți spre nord la mlaștinile Brière pentru cultură la casa locală. Încheiați cu o plimbare de seară în superbul parc regional natural.",
+        "en": "Drive into the town center this morning for family-friendly vibes at Le Béluga and rich maritime heritage at the museum. Midday offers a scenic drive south to marvel at the ancient Dolmen des Mottes. In the afternoon, head north to the Brière marshes for cultural insights at the local house. Conclude with an evening walk in the stunning regional park."
+      }
+    }
+  }
+}

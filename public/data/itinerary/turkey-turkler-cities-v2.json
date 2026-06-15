@@ -1,0 +1,589 @@
+{
+  "city_id": "turkey-turkler-cities-v2",
+  "anchor": {
+    "name": "Türkler",
+    "coords": [
+      31.81538,
+      36.6024
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:52",
+      "total_km": 2.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Unbekannte Ruine",
+            "hu": "Ismeretlen Rom",
+            "ro": "Ruina Necunoscută",
+            "en": "Unknown Ruin"
+          },
+          "coords": [
+            31.822249,
+            36.595876
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die stimmungsvolle Unbekannte Ruine, um einen Blick in die antike Vergangenheit zu werfen, und tragen Sie feste Schuhe für das unebene Gelände.",
+            "hu": "Fedezze fel a hangulatos Ismeretlen Romot, amely bepillantást enged a régió ókori múltjába, és viseljen masszív cipőt az egyenetlen terep bejárásához.",
+            "ro": "Explorați misterioasa Ruină Necunoscută pentru a înțelege trecutul antic al regiunii și purtați încălțăminte solidă pentru a naviga terenul accidentat.",
+            "en": "Explore the atmospheric Unknown Ruin to glimpse the region's ancient past, and wear sturdy shoes for navigating the uneven, unpaved historical terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Türkler Yıldız Lunapark",
+            "hu": "Türkler Yıldız Lunapark",
+            "ro": "Türkler Yıldız Lunapark",
+            "en": "Türkler Yıldız Lunapark"
+          },
+          "coords": [
+            31.819925,
+            36.599198
+          ],
+          "category": "recreational",
+          "arrive_at": "10:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erleben Sie klassische Fahrgeschäfte im Türkler Yıldız Lunapark mit nostalgischem Charme und besuchen Sie ihn zur Öffnungszeit, um Wartezeiten zu vermeiden.",
+            "hu": "Tapasztalja meg a Türkler Yıldız Lunapark klasszikus, nosztalgikus vidámparki játékait, és érkezzen nyitásra, hogy elkerülje a hosszú sorban állást.",
+            "ro": "Bucurați-vă de atracțiile clasice de la Türkler Yıldız Lunapark ce emană un farmec nostalgic și veniți la ora deschiderii pentru a evita cozile lungi.",
+            "en": "Experience classic amusement rides at Türkler Yıldız Lunapark that capture a nostalgic charm, and visit right at opening time to avoid long queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Pirate Ship Aquapark",
+            "hu": "Pirate Ship Aquapark",
+            "ro": "Pirate Ship Aquapark",
+            "en": "Pirate Ship Aquapark"
+          },
+          "coords": [
+            31.806508,
+            36.597651
+          ],
+          "category": "landmark",
+          "arrive_at": "12:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Rutschen Sie durch die aufregenden Anlagen des Pirate Ship Aquaparks mit maritimem Thema und bringen Sie eine wasserdichte Kamera für die besten Bilder mit.",
+            "hu": "Csobbanjon a kalózos témájú Pirate Ship Aquapark izgalmas csúszdáin, és ne felejtsen el vízálló akciókamerát hozni a legélvezetesebb pillanatok megörökítéséhez.",
+            "ro": "Alunecați pe toboganele pline de adrenalină ale Pirate Ship Aquapark cu tematica sa maritimă și aduceți o cameră rezistentă la apă pentru cele mai bune cadre.",
+            "en": "Splash through the thrilling slides of Pirate Ship Aquapark with its fun maritime theme, and bring a waterproof action camera to capture the best moments."
+          }
+        },
+        {
+          "name": {
+            "de": "Pirate Island Aquapark",
+            "hu": "Pirate Island Aquapark",
+            "ro": "Pirate Island Aquapark",
+            "en": "Pirate Island Aquapark"
+          },
+          "coords": [
+            31.805367,
+            36.599327
+          ],
+          "category": "landmark",
+          "arrive_at": "13:13",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie noch mehr Badespaß im Pirate Island Aquapark mit seinen breiten Wellenbädern und tragen Sie unbedingt wasserfeste Sonnencreme auf.",
+            "hu": "Fedezze fel a Pirate Island Aquapark hatalmas hullámmedencéit, és a csobbanás előtt mindenképpen használjon erős, vízálló fényvédő krémet.",
+            "ro": "Descoperiți distracția acvatică la Pirate Island Aquapark ce oferă piscine cu valuri mari și aplicați cremă de protecție solară rezistentă la apă.",
+            "en": "Discover an extension of aquatic fun at Pirate Island Aquapark featuring wide wave pools, and apply strong water-resistant sunscreen before hitting the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Tropcal Island",
+            "hu": "Tropcal Island",
+            "ro": "Tropcal Island",
+            "en": "Tropcal Island"
+          },
+          "coords": [
+            31.803688,
+            36.599067
+          ],
+          "category": "landmark",
+          "arrive_at": "14:16",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie über Tropcal Island, um die grüne Landschaft und exotische Stimmung zu genießen, und packen Sie ein leichtes Picknick für die schattigen Bänke ein.",
+            "hu": "Sétáljon a Tropcal Island szépen gondozott zöldövezetében és élvezze az egzotikus hangulatot, majd fogyasszon el egy könnyű pikniket az árnyékos padokon.",
+            "ro": "Plimbați-vă prin Tropcal Island pentru a admira vegetația frumos amenajată și vibrațiile exotice, și luați un picnic ușor pentru a-l savura pe băncile umbrite.",
+            "en": "Wander around Tropcal Island to enjoy beautifully landscaped greenery and exotic vibes, and pack a light picnic to savor on the designated shaded benches."
+          }
+        },
+        {
+          "name": {
+            "de": "SeAlanya",
+            "hu": "SeAlanya",
+            "ro": "SeAlanya",
+            "en": "SeAlanya"
+          },
+          "coords": [
+            31.79997,
+            36.60096
+          ],
+          "category": "landmark",
+          "arrive_at": "15:22",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Meeresbewohner und spannenden Shows in SeAlanya und prüfen Sie vorher den Tagesplan online, um pünktlich bei den Fütterungen zu sein.",
+            "hu": "Csodálja meg a SeAlanya lenyűgöző tengeri élőlényeit és műsorait, valamint ellenőrizze az online napi menetrendet, hogy ne maradjon le az etetésekről.",
+            "ro": "Minunați-vă de viața marină impresionantă și spectacolele de la SeAlanya și verificați programul zilnic online pentru a nu rata orele de hrănire.",
+            "en": "Marvel at the impressive marine life and engaging shows at SeAlanya, and check the daily schedule online in advance to plan around the feeding times."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einem Spaziergang durch die historischen Überreste der Unbekannten Ruine, bevor die Stadt erwacht. Danach genießen wir nostalgische Momente und aufregende Fahrgeschäfte im farbenfrohen Türkler Yıldız Lunapark.",
+        "hu": "A reggel az Ismeretlen Rom történelmi maradványai közötti sétával indul, csendes bepillantást nyújtva a múltba. Ezután a színes Türkler Yıldız Lunaparkba indulunk, ahol nosztalgikus pillanatok és izgalmas játékok várnak ránk.",
+        "ro": "Dimineața începe cu o plimbare printre vestigiile istorice ale Ruinei Necunoscute, oferind o priveliște tăcută a trecutului. Apoi ne îndreptăm spre Türkler Yıldız Lunapark, plin de culoare, pentru a ne bucura de momente nostalgice și atracții palpitante.",
+        "en": "Morning starts with a walk through the historical remnants of the Unknown Ruin, offering a quiet glimpse into the past before the town wakes up. We then move on to enjoy nostalgic moments and thrilling rides at the colorful Türkler Yıldız Lunapark."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:02",
+      "total_km": 2.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Unbekannte Ruine",
+            "hu": "Ismeretlen Rom",
+            "ro": "Ruina Necunoscută",
+            "en": "Unknown Ruin"
+          },
+          "coords": [
+            31.822249,
+            36.595876
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die stimmungsvolle Unbekannte Ruine, um einen Blick in die antike Vergangenheit zu werfen, und tragen Sie feste Schuhe für das unebene Gelände.",
+            "hu": "Fedezze fel a hangulatos Ismeretlen Romot, amely bepillantást enged a régió ókori múltjába, és viseljen masszív cipőt az egyenetlen terep bejárásához.",
+            "ro": "Explorați misterioasa Ruină Necunoscută pentru a înțelege trecutul antic al regiunii și purtați încălțăminte solidă pentru a naviga terenul accidentat.",
+            "en": "Explore the atmospheric Unknown Ruin to glimpse the region's ancient past, and wear sturdy shoes for navigating the uneven, unpaved historical terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Türkler Yıldız Lunapark",
+            "hu": "Türkler Yıldız Lunapark",
+            "ro": "Türkler Yıldız Lunapark",
+            "en": "Türkler Yıldız Lunapark"
+          },
+          "coords": [
+            31.819925,
+            36.599198
+          ],
+          "category": "recreational",
+          "arrive_at": "10:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erleben Sie klassische Fahrgeschäfte im Türkler Yıldız Lunapark mit nostalgischem Charme und besuchen Sie ihn zur Öffnungszeit, um Wartezeiten zu vermeiden.",
+            "hu": "Tapasztalja meg a Türkler Yıldız Lunapark klasszikus, nosztalgikus vidámparki játékait, és érkezzen nyitásra, hogy elkerülje a hosszú sorban állást.",
+            "ro": "Bucurați-vă de atracțiile clasice de la Türkler Yıldız Lunapark ce emană un farmec nostalgic și veniți la ora deschiderii pentru a evita cozile lungi.",
+            "en": "Experience classic amusement rides at Türkler Yıldız Lunapark that capture a nostalgic charm, and visit right at opening time to avoid long queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Mermaid Club",
+            "hu": "Mermaid Club",
+            "ro": "Mermaid Club",
+            "en": "Mermaid Club"
+          },
+          "coords": [
+            31.807788,
+            36.596781
+          ],
+          "category": "recreational",
+          "arrive_at": "11:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie im lebhaften Mermaid Club bei erfrischenden Freizeiteinrichtungen und buchen Sie Ihre Liege frühzeitig für den besten Blick auf den Pool.",
+            "hu": "Kapcsolódjon ki a vibráló Mermaid Club medencéinél és vidám zenéjére, de érdemes korán napágyat bérelni a legjobb, vízpartra néző kilátás érdekében.",
+            "ro": "Relaxați-vă la vibrantul Mermaid Club, bucurându-vă de muzică ritmată și piscine răcoroase, și închiriați șezlongul devreme pentru cea mai bună vedere.",
+            "en": "Relax at the vibrant Mermaid Club, offering refreshing leisure facilities and upbeat music, and be sure to rent your sunbed early for the best poolside view."
+          }
+        },
+        {
+          "name": {
+            "de": "Pirate Ship Aquapark",
+            "hu": "Pirate Ship Aquapark",
+            "ro": "Pirate Ship Aquapark",
+            "en": "Pirate Ship Aquapark"
+          },
+          "coords": [
+            31.806508,
+            36.597651
+          ],
+          "category": "landmark",
+          "arrive_at": "13:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Rutschen Sie durch die aufregenden Anlagen des Pirate Ship Aquaparks mit maritimem Thema und bringen Sie eine wasserdichte Kamera für die besten Bilder mit.",
+            "hu": "Csobbanjon a kalózos témájú Pirate Ship Aquapark izgalmas csúszdáin, és ne felejtsen el vízálló akciókamerát hozni a legélvezetesebb pillanatok megörökítéséhez.",
+            "ro": "Alunecați pe toboganele pline de adrenalină ale Pirate Ship Aquapark cu tematica sa maritimă și aduceți o cameră rezistentă la apă pentru cele mai bune cadre.",
+            "en": "Splash through the thrilling slides of Pirate Ship Aquapark with its fun maritime theme, and bring a waterproof action camera to capture the best moments."
+          }
+        },
+        {
+          "name": {
+            "de": "Pirate Island Aquapark",
+            "hu": "Pirate Island Aquapark",
+            "ro": "Pirate Island Aquapark",
+            "en": "Pirate Island Aquapark"
+          },
+          "coords": [
+            31.805367,
+            36.599327
+          ],
+          "category": "landmark",
+          "arrive_at": "14:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie noch mehr Badespaß im Pirate Island Aquapark mit seinen breiten Wellenbädern und tragen Sie unbedingt wasserfeste Sonnencreme auf.",
+            "hu": "Fedezze fel a Pirate Island Aquapark hatalmas hullámmedencéit, és a csobbanás előtt mindenképpen használjon erős, vízálló fényvédő krémet.",
+            "ro": "Descoperiți distracția acvatică la Pirate Island Aquapark ce oferă piscine cu valuri mari și aplicați cremă de protecție solară rezistentă la apă.",
+            "en": "Discover an extension of aquatic fun at Pirate Island Aquapark featuring wide wave pools, and apply strong water-resistant sunscreen before hitting the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Tropcal Island",
+            "hu": "Tropcal Island",
+            "ro": "Tropcal Island",
+            "en": "Tropcal Island"
+          },
+          "coords": [
+            31.803688,
+            36.599067
+          ],
+          "category": "landmark",
+          "arrive_at": "15:13",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie über Tropcal Island, um die grüne Landschaft und exotische Stimmung zu genießen, und packen Sie ein leichtes Picknick für die schattigen Bänke ein.",
+            "hu": "Sétáljon a Tropcal Island szépen gondozott zöldövezetében és élvezze az egzotikus hangulatot, majd fogyasszon el egy könnyű pikniket az árnyékos padokon.",
+            "ro": "Plimbați-vă prin Tropcal Island pentru a admira vegetația frumos amenajată și vibrațiile exotice, și luați un picnic ușor pentru a-l savura pe băncile umbrite.",
+            "en": "Wander around Tropcal Island to enjoy beautifully landscaped greenery and exotic vibes, and pack a light picnic to savor on the designated shaded benches."
+          }
+        },
+        {
+          "name": {
+            "de": "SeAlanya",
+            "hu": "SeAlanya",
+            "ro": "SeAlanya",
+            "en": "SeAlanya"
+          },
+          "coords": [
+            31.79997,
+            36.60096
+          ],
+          "category": "landmark",
+          "arrive_at": "16:16",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Meeresbewohner und spannenden Shows in SeAlanya und prüfen Sie vorher den Tagesplan online, um pünktlich bei den Fütterungen zu sein.",
+            "hu": "Csodálja meg a SeAlanya lenyűgöző tengeri élőlényeit és műsorait, valamint ellenőrizze az online napi menetrendet, hogy ne maradjon le az etetésekről.",
+            "ro": "Minunați-vă de viața marină impresionantă și spectacolele de la SeAlanya și verificați programul zilnic online pentru a nu rata orele de hrănire.",
+            "en": "Marvel at the impressive marine life and engaging shows at SeAlanya, and check the daily schedule online in advance to plan around the feeding times."
+          }
+        },
+        {
+          "name": {
+            "de": "SeAlanya Seapark",
+            "hu": "SeAlanya Seapark",
+            "ro": "SeAlanya Seapark",
+            "en": "SeAlanya Seapark"
+          },
+          "coords": [
+            31.798771,
+            36.601096
+          ],
+          "category": "recreational",
+          "arrive_at": "17:17",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die interaktiven Becken des SeAlanya Seapark ein, um sicher mit Rochen zu schnorcheln, und mieten Sie am besten die Ausrüstung direkt vor Ort.",
+            "hu": "Merüljön el a SeAlanya Seapark interaktív medencéiben, ahol biztonságosan sznorkelezhet a rájákkal, és a sajátja helyett érdemes helyben felszerelést bérelni.",
+            "ro": "Scufundați-vă în bazinele interactive de la SeAlanya Seapark pentru a face snorkeling cu pisici de mare și închiriați echipamentul oferit direct la fața locului.",
+            "en": "Dive into the interactive enclosures at SeAlanya Seapark where you can safely snorkel with rays, and rent the provided snorkeling gear rather than bringing your own."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Mittag führt Sie zu den lebhaften Unterhaltungszentren an der Küste, angeführt vom lebendigen Mermaid Club. Machen Sie sich bereit für spritzige Abenteuer im maritim thematisierten Pirate Ship Aquapark.",
+        "hu": "A dél közeledtével a partvidék pezsgő szórakoztatóközpontjai felé vesszük az irányt, kezdve a Mermaid Club hangulatával. Készüljön fel a vízi kalandokra, amint elmerül a kalózos témájú Pirate Ship Aquapark izgalmaiban.",
+        "ro": "La amiază ne îndreptăm către centrele de divertisment de pe coastă, începând cu atmosfera vibrantă de la Mermaid Club. Apoi, pregătiți-vă pentru aventuri acvatice în timp ce vă scufundați în entuziasmul tematic al Pirate Ship Aquapark.",
+        "en": "Midday takes you towards the coastline's lively entertainment hubs, beginning with the vibrant atmosphere of the Mermaid Club. Then, brace yourself for aquatic adventures as you dive into the maritime-themed excitement at the Pirate Ship Aquapark."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:10",
+      "total_km": 2.6,
+      "stop_count": 9,
+      "stops": [
+        {
+          "name": {
+            "de": "Unbekannte Ruine",
+            "hu": "Ismeretlen Rom",
+            "ro": "Ruina Necunoscută",
+            "en": "Unknown Ruin"
+          },
+          "coords": [
+            31.822249,
+            36.595876
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die stimmungsvolle Unbekannte Ruine, um einen Blick in die antike Vergangenheit zu werfen, und tragen Sie feste Schuhe für das unebene Gelände.",
+            "hu": "Fedezze fel a hangulatos Ismeretlen Romot, amely bepillantást enged a régió ókori múltjába, és viseljen masszív cipőt az egyenetlen terep bejárásához.",
+            "ro": "Explorați misterioasa Ruină Necunoscută pentru a înțelege trecutul antic al regiunii și purtați încălțăminte solidă pentru a naviga terenul accidentat.",
+            "en": "Explore the atmospheric Unknown Ruin to glimpse the region's ancient past, and wear sturdy shoes for navigating the uneven, unpaved historical terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Türkler Yıldız Lunapark",
+            "hu": "Türkler Yıldız Lunapark",
+            "ro": "Türkler Yıldız Lunapark",
+            "en": "Türkler Yıldız Lunapark"
+          },
+          "coords": [
+            31.819925,
+            36.599198
+          ],
+          "category": "recreational",
+          "arrive_at": "10:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erleben Sie klassische Fahrgeschäfte im Türkler Yıldız Lunapark mit nostalgischem Charme und besuchen Sie ihn zur Öffnungszeit, um Wartezeiten zu vermeiden.",
+            "hu": "Tapasztalja meg a Türkler Yıldız Lunapark klasszikus, nosztalgikus vidámparki játékait, és érkezzen nyitásra, hogy elkerülje a hosszú sorban állást.",
+            "ro": "Bucurați-vă de atracțiile clasice de la Türkler Yıldız Lunapark ce emană un farmec nostalgic și veniți la ora deschiderii pentru a evita cozile lungi.",
+            "en": "Experience classic amusement rides at Türkler Yıldız Lunapark that capture a nostalgic charm, and visit right at opening time to avoid long queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Mermaid Club",
+            "hu": "Mermaid Club",
+            "ro": "Mermaid Club",
+            "en": "Mermaid Club"
+          },
+          "coords": [
+            31.807788,
+            36.596781
+          ],
+          "category": "recreational",
+          "arrive_at": "11:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie im lebhaften Mermaid Club bei erfrischenden Freizeiteinrichtungen und buchen Sie Ihre Liege frühzeitig für den besten Blick auf den Pool.",
+            "hu": "Kapcsolódjon ki a vibráló Mermaid Club medencéinél és vidám zenéjére, de érdemes korán napágyat bérelni a legjobb, vízpartra néző kilátás érdekében.",
+            "ro": "Relaxați-vă la vibrantul Mermaid Club, bucurându-vă de muzică ritmată și piscine răcoroase, și închiriați șezlongul devreme pentru cea mai bună vedere.",
+            "en": "Relax at the vibrant Mermaid Club, offering refreshing leisure facilities and upbeat music, and be sure to rent your sunbed early for the best poolside view."
+          }
+        },
+        {
+          "name": {
+            "de": "Pirate Ship Aquapark",
+            "hu": "Pirate Ship Aquapark",
+            "ro": "Pirate Ship Aquapark",
+            "en": "Pirate Ship Aquapark"
+          },
+          "coords": [
+            31.806508,
+            36.597651
+          ],
+          "category": "landmark",
+          "arrive_at": "13:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Rutschen Sie durch die aufregenden Anlagen des Pirate Ship Aquaparks mit maritimem Thema und bringen Sie eine wasserdichte Kamera für die besten Bilder mit.",
+            "hu": "Csobbanjon a kalózos témájú Pirate Ship Aquapark izgalmas csúszdáin, és ne felejtsen el vízálló akciókamerát hozni a legélvezetesebb pillanatok megörökítéséhez.",
+            "ro": "Alunecați pe toboganele pline de adrenalină ale Pirate Ship Aquapark cu tematica sa maritimă și aduceți o cameră rezistentă la apă pentru cele mai bune cadre.",
+            "en": "Splash through the thrilling slides of Pirate Ship Aquapark with its fun maritime theme, and bring a waterproof action camera to capture the best moments."
+          }
+        },
+        {
+          "name": {
+            "de": "Pirate Island Aquapark",
+            "hu": "Pirate Island Aquapark",
+            "ro": "Pirate Island Aquapark",
+            "en": "Pirate Island Aquapark"
+          },
+          "coords": [
+            31.805367,
+            36.599327
+          ],
+          "category": "landmark",
+          "arrive_at": "14:06",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie noch mehr Badespaß im Pirate Island Aquapark mit seinen breiten Wellenbädern und tragen Sie unbedingt wasserfeste Sonnencreme auf.",
+            "hu": "Fedezze fel a Pirate Island Aquapark hatalmas hullámmedencéit, és a csobbanás előtt mindenképpen használjon erős, vízálló fényvédő krémet.",
+            "ro": "Descoperiți distracția acvatică la Pirate Island Aquapark ce oferă piscine cu valuri mari și aplicați cremă de protecție solară rezistentă la apă.",
+            "en": "Discover an extension of aquatic fun at Pirate Island Aquapark featuring wide wave pools, and apply strong water-resistant sunscreen before hitting the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Adventure Park",
+            "hu": "Adventure Park",
+            "ro": "Adventure Park",
+            "en": "Adventure Park"
+          },
+          "coords": [
+            31.805073,
+            36.598303
+          ],
+          "category": "recreational",
+          "arrive_at": "15:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Testen Sie Ihre Geschicklichkeit in den anspruchsvollen Hochseilgärten des Adventure Parks und tragen Sie bequeme Sportkleidung für maximale Beweglichkeit.",
+            "hu": "Tegye próbára ügyességét az Adventure Park természetben található kötélpályáin, és viseljen kényelmes sportruházatot a maximális rugalmasság érdekében.",
+            "ro": "Testați-vă agilitatea pe traseele de frânghii de la Adventure Park în mijlocul naturii și purtați haine sport confortabile pentru libertate de mișcare.",
+            "en": "Test your agility at Adventure Park's challenging ropes courses set amidst nature, and wear comfortable sportswear to maximize your physical flexibility."
+          }
+        },
+        {
+          "name": {
+            "de": "Tropcal Island",
+            "hu": "Tropcal Island",
+            "ro": "Tropcal Island",
+            "en": "Tropcal Island"
+          },
+          "coords": [
+            31.803688,
+            36.599067
+          ],
+          "category": "landmark",
+          "arrive_at": "16:23",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Schlendern Sie über Tropcal Island, um die grüne Landschaft und exotische Stimmung zu genießen, und packen Sie ein leichtes Picknick für die schattigen Bänke ein.",
+            "hu": "Sétáljon a Tropcal Island szépen gondozott zöldövezetében és élvezze az egzotikus hangulatot, majd fogyasszon el egy könnyű pikniket az árnyékos padokon.",
+            "ro": "Plimbați-vă prin Tropcal Island pentru a admira vegetația frumos amenajată și vibrațiile exotice, și luați un picnic ușor pentru a-l savura pe băncile umbrite.",
+            "en": "Wander around Tropcal Island to enjoy beautifully landscaped greenery and exotic vibes, and pack a light picnic to savor on the designated shaded benches."
+          }
+        },
+        {
+          "name": {
+            "de": "SeAlanya",
+            "hu": "SeAlanya",
+            "ro": "SeAlanya",
+            "en": "SeAlanya"
+          },
+          "coords": [
+            31.79997,
+            36.60096
+          ],
+          "category": "landmark",
+          "arrive_at": "17:24",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Meeresbewohner und spannenden Shows in SeAlanya und prüfen Sie vorher den Tagesplan online, um pünktlich bei den Fütterungen zu sein.",
+            "hu": "Csodálja meg a SeAlanya lenyűgöző tengeri élőlényeit és műsorait, valamint ellenőrizze az online napi menetrendet, hogy ne maradjon le az etetésekről.",
+            "ro": "Minunați-vă de viața marină impresionantă și spectacolele de la SeAlanya și verificați programul zilnic online pentru a nu rata orele de hrănire.",
+            "en": "Marvel at the impressive marine life and engaging shows at SeAlanya, and check the daily schedule online in advance to plan around the feeding times."
+          }
+        },
+        {
+          "name": {
+            "de": "SeAlanya Seapark",
+            "hu": "SeAlanya Seapark",
+            "ro": "SeAlanya Seapark",
+            "en": "SeAlanya Seapark"
+          },
+          "coords": [
+            31.798771,
+            36.601096
+          ],
+          "category": "recreational",
+          "arrive_at": "18:25",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die interaktiven Becken des SeAlanya Seapark ein, um sicher mit Rochen zu schnorcheln, und mieten Sie am besten die Ausrüstung direkt vor Ort.",
+            "hu": "Merüljön el a SeAlanya Seapark interaktív medencéiben, ahol biztonságosan sznorkelezhet a rájákkal, és a sajátja helyett érdemes helyben felszerelést bérelni.",
+            "ro": "Scufundați-vă în bazinele interactive de la SeAlanya Seapark pentru a face snorkeling cu pisici de mare și închiriați echipamentul oferit direct la fața locului.",
+            "en": "Dive into the interactive enclosures at SeAlanya Seapark where you can safely snorkel with rays, and rent the provided snorkeling gear rather than bringing your own."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Nachmittag bringt aktive Entdeckungen in den Wellen des Pirate Island Aquaparks und bei den Kletterherausforderungen im Adventure Park. Danach finden Sie einen Moment der Ruhe auf den landschaftlich reizvollen Wegen von Tropcal Island.",
+        "hu": "A délután aktív kikapcsolódást hoz a Pirate Island Aquapark hullámaiban és az Adventure Park ügyességi pályáin. Ezt követően találjon egy kis nyugalmat a Tropcal Island szépen gondozott, buja növényzetű ösvényein sétálva.",
+        "ro": "După-amiaza se transformă într-o explorare activă cu valurile de la Pirate Island Aquapark și traseele de la Adventure Park. Ulterior, găsiți un scurt moment de liniște plimbându-vă pe aleile frumos amenajate de pe Tropcal Island.",
+        "en": "Afternoon shifts to active exploration with splashing waves at Pirate Island Aquapark and agility challenges at Adventure Park. Afterwards, find a brief moment of tranquility strolling through the beautifully landscaped paths of Tropcal Island."
+      }
+    }
+  }
+}

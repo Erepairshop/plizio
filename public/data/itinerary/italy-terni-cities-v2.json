@@ -1,0 +1,405 @@
+{
+  "city_id": "italy-terni-cities-v2",
+  "anchor": {
+    "name": "Terni",
+    "coords": [
+      12.646782,
+      42.560771
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:12",
+      "total_km": 2.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo diocesano",
+            "hu": "Museo diocesano",
+            "ro": "Museo diocesano",
+            "en": "Museo diocesano"
+          },
+          "coords": [
+            12.643963,
+            42.560632
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie lokale religiöse Artefakte und gut erhaltene Fresken in diesem zentralen Museum und nehmen Sie sich Zeit für die Renaissance-Details.",
+            "hu": "Fedezze fel a helyi vallási ereklyéket és a gyönyörűen megőrzött freskókat ebben a központi múzeumban, különösen figyelve a reneszánsz részletekre.",
+            "ro": "Descoperiți artefacte religioase locale și fresce frumos conservate în acest muzeu central, admirând detaliile intricate ale pieselor renascentiste.",
+            "en": "Discover local religious artifacts and beautifully preserved frescoes in this central museum, taking time to admire the intricate detailing of the Renaissance pieces."
+          }
+        },
+        {
+          "name": {
+            "de": "Pinacoteca comunale o.metelli e museo a.De felice",
+            "hu": "Pinacoteca comunale o.metelli e museo a.De felice",
+            "ro": "Pinacoteca comunale o.metelli e museo a.De felice",
+            "en": "Pinacoteca comunale o.metelli e museo a.De felice"
+          },
+          "coords": [
+            12.64518,
+            42.561113
+          ],
+          "category": "museum",
+          "arrive_at": "10:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie eine reiche Sammlung moderner Kunst von Orneore Metelli und vergessen Sie nicht, die Wechselausstellungen im Obergeschoss zu besuchen.",
+            "hu": "Fedezze fel Orneore Metelli modern és kortárs művészeti gyűjteményét, és mindenképpen tekintse meg az emeleti időszaki kiállításokat.",
+            "ro": "Explorați o colecție bogată de artă modernă și contemporană de Orneore Metelli, având grijă să vizitați expozițiile temporare de la etaj.",
+            "en": "Explore a rich collection of modern and contemporary art by Orneore Metelli, making sure to check the temporary exhibitions on the upper floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Cupola",
+            "hu": "Cupola",
+            "ro": "Cupola",
+            "en": "Cupola"
+          },
+          "coords": [
+            12.651576,
+            42.554363
+          ],
+          "category": "historical",
+          "arrive_at": "12:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur der Cupola, ein Symbol für Ternis Widerstandskraft, die man am besten aus den angrenzenden Gassen fotografiert.",
+            "hu": "Csodálja meg a Cupola lenyűgöző építészeti szerkezetét, amely Terni kitartásának szimbóluma, és a szomszédos szűk mellékutcákból fényképezhető a legjobban.",
+            "ro": "Admirați structura arhitecturală impresionantă a Cupolei, un simbol al rezilienței orașului Terni, cel mai bine fotografiată din străduțele adiacente.",
+            "en": "Admire the impressive architectural structure of the Cupola, a symbol of Terni's resilience, best photographed from the adjacent narrow side streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Tipocinet",
+            "hu": "Tipocinet",
+            "ro": "Tipocinet",
+            "en": "Tipocinet"
+          },
+          "coords": [
+            12.653863,
+            42.563909
+          ],
+          "category": "cultural",
+          "arrive_at": "14:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.05,
+          "tip_5lang": {
+            "de": "Betreten Sie diesen einzigartigen Kulturraum, der der Druck- und Typografiegeschichte gewidmet ist, und versuchen Sie, eine der Live-Vorführungen am Wochenende zu besuchen.",
+            "hu": "Lépjen be ebbe a nyomdászat és tipográfia történetének szentelt egyedülálló kulturális térbe, és próbáljon elcsípni egy hétvégi élő bemutatót.",
+            "ro": "Pășiți în acest spațiu cultural unic dedicat istoriei tipografiei și încercați să prindeți una dintre demonstrațiile live organizate adesea în weekend.",
+            "en": "Step into this unique cultural space dedicated to printing and typography history, and try to catch one of the live demonstrations often held on weekends."
+          }
+        },
+        {
+          "name": {
+            "de": "Busto di Antonio Bosco",
+            "hu": "Busto di Antonio Bosco",
+            "ro": "Busto di Antonio Bosco",
+            "en": "Busto di Antonio Bosco"
+          },
+          "coords": [
+            12.654203,
+            42.567582
+          ],
+          "category": "historical",
+          "arrive_at": "15:27",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erweisen Sie der Büste von Antonio Bosco, einer lokalen historischen Figur, Ihren Respekt und nutzen Sie die nahe gelegenen Bänke für eine kleine Pause.",
+            "hu": "Tisztelgjen Antonio Bosco, egy jelentős helyi történelmi személyiség mellszobra előtt, és pihenjen meg a közeli padokon a békés városi hangulatot élvezve.",
+            "ro": "Prezentați-vă respectul la bustul lui Antonio Bosco, o personalitate istorică locală notabilă, și folosiți băncile din apropiere pentru a vă odihni puțin.",
+            "en": "Pay your respects at the bust of Antonio Bosco, a notable local historical figure, and use the nearby benches to rest while enjoying the peaceful urban vibe."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im Herzen von Terni und tauchen Sie im Museo diocesano und in der Pinacoteca in die Kunst ein. Mittags schlendern Sie durch die historischen Straßen zur beeindruckenden Cupola. Verbringen Sie den Nachmittag damit, die faszinierende Welt der Typografie im Tipocinet zu entdecken, einem echten kulturellen Juwel. Beenden Sie Ihren Rundgang am Busto di Antonio Bosco und genießen Sie die lebhafte Abendstimmung der einheimischen Passeggiata.",
+        "hu": "Kezdje a reggelt Terni szívében, merüljön el a vallási művészetben a Museo diocesanóban és a Pinacotecában. Délben sétáljon végig a történelmi utcákon a lenyűgöző Cupola felé, és gyönyörködjön a város építészeti örökségében. A délutánt töltse a tipográfia lenyűgöző világának felfedezésével a Tipocinetben. A napot az Antonio Bosco mellszobor közelében zárja, élvezve az élénk esti hangulatot, amikor a helyiek megkezdik a sétát.",
+        "ro": "Începeți dimineața în inima orașului Terni, cufundându-vă în istoria bogată la Museo diocesano și la Pinacoteca comunale. La prânz, plimbați-vă pe străzile istorice spre impresionanta Cupolă, admirând patrimoniul arhitectural. Petreceți după-amiaza descoperind lumea fascinantă a tipografiei la Tipocinet, o adevărată bijuterie culturală. Încheiați turul pietonal lângă Bustul lui Antonio Bosco, bucurându-vă de atmosfera plină de viață a serii.",
+        "en": "Begin your morning in the heart of Terni, immersing yourself in the rich history and religious art at the Museo diocesano and the Pinacoteca comunale. At midday, wander through the historic streets towards the impressive Cupola, soaking in the architectural heritage of the city. Spend your afternoon discovering the fascinating world of typography at Tipocinet, an unexpected cultural gem. Conclude your walking tour near the Busto di Antonio Bosco, enjoying the lively evening atmosphere as locals start their daily passeggiata."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:37",
+      "total_km": 3.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Basilica di San Valentino",
+            "hu": "Basilica di San Valentino",
+            "ro": "Basilica di San Valentino",
+            "en": "Basilica di San Valentino"
+          },
+          "coords": [
+            12.642991,
+            42.547062
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die letzte Ruhestätte des Heiligen Valentin, des Schutzpatrons der Liebenden, und genießen Sie einen ruhigen Moment in der Krypta.",
+            "hu": "Látogassa meg Szent Bálint, a szerelmesek védőszentjének végső nyughelyét, és töltsön el egy csendes pillanatot a nyugodt földalatti kriptában.",
+            "ro": "Vizitați locul de odihnă al Sfântului Valentin, patronul îndrăgostiților, și oferiți-vă un moment de reflecție în cripta subterană liniștită.",
+            "en": "Visit the final resting place of Saint Valentine, the patron saint of lovers, and take a moment of quiet reflection in the serene underground crypt."
+          }
+        },
+        {
+          "name": {
+            "de": "Quartiere Matteotti - Arch Giancarlo De Carlo",
+            "hu": "Quartiere Matteotti - Arch Giancarlo De Carlo",
+            "ro": "Quartiere Matteotti - Arch Giancarlo De Carlo",
+            "en": "Quartiere Matteotti - Arch Giancarlo De Carlo"
+          },
+          "coords": [
+            12.65835,
+            42.547391
+          ],
+          "category": "historical",
+          "arrive_at": "09:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Radeln Sie durch dieses modernistische Viertel von Giancarlo De Carlo und beobachten Sie die innovative Integration von Wohnräumen.",
+            "hu": "Kerekezzen át ezen a Giancarlo De Carlo által tervezett modernista negyeden, megfigyelve a nyilvános és magán lakóterek innovatív integrációját.",
+            "ro": "Pedalați prin acest cartier modernist proiectat de Giancarlo De Carlo, observând integrarea inovatoare a spațiilor rezidențiale publice și private.",
+            "en": "Cycle through this modernist neighborhood designed by Giancarlo De Carlo, observing the innovative integration of public and private residential spaces."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo d’Arte Moderna e Contemporanea Aurelio De Felice",
+            "hu": "Museo d’Arte Moderna e Contemporanea Aurelio De Felice",
+            "ro": "Museo d’Arte Moderna e Contemporanea Aurelio De Felice",
+            "en": "Museo d’Arte Moderna e Contemporanea Aurelio De Felice"
+          },
+          "coords": [
+            12.652374,
+            42.559376
+          ],
+          "category": "museum",
+          "arrive_at": "11:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad, um dieses Museum für moderne Kunst mit Werken von Aurelio De Felice zu erkunden, und verpassen Sie nicht den Skulpturengarten.",
+            "hu": "Parkolja le a kerékpárját, hogy felfedezze ezt a lenyűgöző modern művészeti múzeumot Aurelio De Felice műveivel, és ne hagyja ki a szoborkertet.",
+            "ro": "Parcați bicicleta pentru a explora acest muzeu de artă modernă cu lucrările lui Aurelio De Felice și nu ratați grădina de sculpturi din exterior.",
+            "en": "Park your bike to explore this striking modern art museum featuring works by Aurelio De Felice, and don't miss the sculpture garden outside."
+          }
+        },
+        {
+          "name": {
+            "de": "GC2",
+            "hu": "GC2",
+            "ro": "GC2",
+            "en": "GC2"
+          },
+          "coords": [
+            12.650629,
+            42.563656
+          ],
+          "category": "museum",
+          "arrive_at": "13:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie zeitgenössische Kunstinstallationen in diesem kreativen Zentrum und informieren Sie sich über interaktive Wochenend-Workshops.",
+            "hu": "Fedezze fel a kortárs művészeti installációkat ebben a kreatív központban, és tájékozódjon az interaktív hétvégi workshopokról.",
+            "ro": "Descoperiți instalații de artă contemporană în acest centru creativ, verificând calendarul lor pentru ateliere interactive de weekend.",
+            "en": "Discover contemporary art installations and experimental pieces in this creative hub, checking their calendar for interactive weekend workshops."
+          }
+        },
+        {
+          "name": {
+            "de": "CLT",
+            "hu": "CLT",
+            "ro": "CLT",
+            "en": "CLT"
+          },
+          "coords": [
+            12.647555,
+            42.569236
+          ],
+          "category": "recreational",
+          "arrive_at": "14:52",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour in diesem weitläufigen Erholungsgebiet, wo Sie auf dem Rasen entspannen oder sich sportlich betätigen können.",
+            "hu": "Fejezze be a kerékpározást ebben a hatalmas rekreációs területen, ahol pihenhet a fűben, vagy csatlakozhat a helyiekhez a szabadtéri sportokban.",
+            "ro": "Terminați plimbarea cu bicicleta în această zonă extinsă de recreere unde vă puteți relaxa pe iarbă sau puteți face sport în aer liber cu localnicii.",
+            "en": "Finish your bike ride at this expansive recreational area where you can relax on the grass or join locals in various outdoor sporting activities."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt mit einem Besuch der berühmten Basilika San Valentino etwas außerhalb des Zentrums. Mittags radeln Sie zum architektonischen Wunder Quartiere Matteotti und besuchen das Museum für moderne Kunst. Der Nachmittag bringt Sie zu den innovativen Ausstellungen im GC2, die Ternis zeitgenössische Kultur zeigen. Am Abend fahren Sie gemütlich zum Erholungsgebiet CLT, der perfekten grünen Oase, um den Tag entspannt ausklingen zu lassen.",
+        "hu": "A kerékpártúra a híres Szent Bálint-bazilika romantikus és történelmi meglátogatásával kezdődik, a központtól nem messze. Délben a Quartiere Matteotti építészeti csodájához teker, majd a Modern Művészeti Múzeum következik. A délután a GC2 kortárs kiállításaihoz vezet, bepillantást engedve Terni élénk kultúrájába. Estefelé tegyen egy kényelmes utat a CLT rekreációs területére, amely tökéletes zöld oázis a nap lezárásához.",
+        "ro": "Călătoria pe bicicletă începe cu o vizită istorică la celebra Basilică San Valentino, chiar lângă centrul principal. La prânz, veți pedala spre minunea arhitecturală Quartiere Matteotti, urmată de Muzeul de Artă Modernă. După-amiaza vă aduce la expozițiile creative de la GC2, oferind o privire asupra culturii contemporane din Terni. Pe măsură ce se lasă seara, bucurați-vă de o plimbare relaxantă spre zona de recreere CLT, oaza verde perfectă.",
+        "en": "Your cycling journey starts with a romantic and historical visit to the famous Basilica of San Valentino just outside the main center. By midday, you will pedal into the architectural marvel of Quartiere Matteotti, followed by an inspiring visit to the Museum of Modern Art. The afternoon brings you to the cutting-edge creative exhibits at GC2, offering a glimpse into Terni's vibrant contemporary culture. As the evening sets in, enjoy a leisurely ride to the CLT recreational grounds, the perfect green oasis to unwind and reflect on the day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:35",
+      "total_km": 5.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Villa Rossini",
+            "hu": "Villa Rossini",
+            "ro": "Villa Rossini",
+            "en": "Villa Rossini"
+          },
+          "coords": [
+            12.629631,
+            42.574225
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem eleganten historischen Anwesen, um die klassische Architektur zu bewundern, und prüfen Sie, ob die privaten Gärten geöffnet sind.",
+            "hu": "Vezessen ehhez az elegáns történelmi birtokhoz, hogy megcsodálja klasszikus építészetét, és ne felejtse el ellenőrizni, hogy a magánkertek nyitva vannak-e.",
+            "ro": "Conduceți spre această moșie istorică elegantă pentru a-i admira arhitectura clasică, verificând dacă grădinile private sunt deschise publicului în acea zi.",
+            "en": "Drive to this elegant historical estate to admire its classic architecture, remembering to check if the private gardens are open for public viewing that day."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Palma",
+            "hu": "Villa Palma",
+            "ro": "Villa Palma",
+            "en": "Villa Palma"
+          },
+          "coords": [
+            12.638666,
+            42.576919
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Fahren Sie kurz zur imposanten Villa Palma, um ihre Pracht von außen zu bewundern, da sie ein wichtiges Stück der Adelsgeschichte Ternis darstellt.",
+            "hu": "Tegyen egy rövid utat az impozáns Villa Palma felé, hogy kívülről értékelje annak nagyszerűségét, mivel ez Terni nemesi történelmének jelentős darabja.",
+            "ro": "Faceți o scurtă plimbare până la impunătoarea Villa Palma pentru a-i aprecia măreția din exterior, reprezentând o piesă importantă a istoriei nobile din Terni.",
+            "en": "Take a short drive to the imposing Villa Palma to appreciate its grandeur from the outside, as it represents a significant piece of Terni's noble history."
+          }
+        },
+        {
+          "name": {
+            "de": "Polo di Mantenimento delle Armi Leggere di Terni",
+            "hu": "Polo di Mantenimento delle Armi Leggere di Terni",
+            "ro": "Polo di Mantenimento delle Armi Leggere di Terni",
+            "en": "Polo di Mantenimento delle Armi Leggere di Terni"
+          },
+          "coords": [
+            12.659621,
+            42.564047
+          ],
+          "category": "museum",
+          "arrive_at": "11:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem einzigartigen Museum das industrielle Erbe Italiens, wo Führungen tiefe Einblicke in die historische Waffenproduktion der Region geben.",
+            "hu": "Fedezze fel Olaszország ipari örökségét ebben az egyedülálló múzeumban, ahol vezetett túrák nyújtanak betekintést a régió történelmi fegyvergyártásába.",
+            "ro": "Descoperiți patrimoniul industrial al Italiei la acest muzeu unic, unde tururile ghidate oferă o perspectivă profundă asupra producției istorice de arme.",
+            "en": "Discover Italy's industrial and military heritage at this unique museum, where guided tours provide deep insights into the region's historic arms production."
+          }
+        },
+        {
+          "name": {
+            "de": "CRAC Chiara Ronchini Contemporary Art - Terni",
+            "hu": "CRAC Chiara Ronchini Contemporary Art - Terni",
+            "ro": "CRAC Chiara Ronchini Contemporary Art - Terni",
+            "en": "CRAC Chiara Ronchini Contemporary Art - Terni"
+          },
+          "coords": [
+            12.653552,
+            42.566416
+          ],
+          "category": "museum",
+          "arrive_at": "13:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe, um diesen lebendigen Kunstraum zu erkunden, der ständig hochmoderne Ausstellungen lokaler und internationaler Künstler zeigt.",
+            "hu": "Parkoljon a közelben, hogy felfedezze ezt a nyüzsgő kortárs művészeti teret, amely folyamatosan cseréli a helyi és nemzetközi művészek élvonalbeli kiállításait.",
+            "ro": "Parcați în apropiere pentru a explora acest spațiu vibrant de artă, care rotește constant expoziții de ultimă oră ale artiștilor locali și internaționali.",
+            "en": "Park nearby to explore this vibrant contemporary art space, which constantly rotates cutting-edge exhibitions from both local and international artists."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica di San Valentino",
+            "hu": "Basilica di San Valentino",
+            "ro": "Basilica di San Valentino",
+            "en": "Basilica di San Valentino"
+          },
+          "coords": [
+            12.642991,
+            42.547062
+          ],
+          "category": "religious",
+          "arrive_at": "15:25",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Ausflug am weltberühmten Heiligtum des Heiligen Valentin und genießen Sie die friedliche Atmosphäre bei Sonnenuntergang.",
+            "hu": "Zárja egynapos kirándulását a világhírű Szent Bálint-szentélyben, és élvezze a békés hangulatot, miközben a nap lenyugszik az umbriai táj felett.",
+            "ro": "Încheiați-vă excursia la sanctuarul renumit la nivel mondial al Sfântului Valentin, bucurându-vă de atmosfera pașnică la apusul soarelui.",
+            "en": "End your day trip at the globally renowned sanctuary of Saint Valentine, enjoying the peaceful atmosphere as the sun sets over the surrounding Umbrian landscape."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einer malerischen Fahrt in die Außenbezirke von Terni und erkunden Sie die Pracht der Villa Rossini und der historischen Villa Palma. Fahren Sie danach in Richtung Stadtzentrum, um im Polo di Mantenimento in die industrielle Vergangenheit Ternis einzutauchen. Der Nachmittag ist einem kulturellen Wechsel gewidmet, wenn Sie das CRAC Chiara Ronchini besuchen. Ihre Reise endet wunderbar an der Basilika San Valentino, einem friedlichen Ort für den späten Nachmittag.",
+        "hu": "Kezdje a reggelt egy festői autózással Terni külvárosába, felfedezve a Villa Rossini és a történelmi Villa Palma nagyszerűségét. A nemesi történelem után hajtson a városközpont felé, hogy elmerüljön Terni ipari múltjában a Polo di Mantenimento múzeumban. A délutánt a kultúrának szenteljük, látogatást téve a CRAC Chiara Ronchini lenyűgöző kortárs kiállításain. Utazása a Szent Bálint-bazilikánál ér véget, amely tökéletes békés hely a késő délutáni órákban.",
+        "ro": "Începeți dimineața cu o plimbare pitorească spre periferia orașului Terni, explorând măreția Vilei Rossini și a Vilei istorice Palma. După istoria nobilă, conduceți spre centrul orașului pentru a vă scufunda în trecutul industrial la Polo di Mantenimento. După-amiaza este rezervată unei schimbări culturale la expozițiile contemporane de la CRAC Chiara Ronchini. Călătoria se încheie frumos la Basilica di San Valentino, un loc liniștit perfect pentru după-amiaza târziu.",
+        "en": "Start your morning with a scenic drive to the outskirts of Terni, exploring the grandeur of Villa Rossini and the historic Villa Palma. After taking in the noble history, drive towards the city center to dive into Terni's industrial past at the Polo di Mantenimento. The afternoon is reserved for a cultural shift as you visit the striking contemporary exhibitions at CRAC Chiara Ronchini. Your journey concludes beautifully at the Basilica di San Valentino, a tranquil and historically profound site perfectly suited for the late afternoon."
+      }
+    }
+  }
+}

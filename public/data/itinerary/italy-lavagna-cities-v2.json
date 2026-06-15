@@ -1,0 +1,497 @@
+{
+  "city_id": "italy-lavagna-cities-v2",
+  "anchor": {
+    "name": "Lavagna",
+    "coords": [
+      9.34615,
+      44.30849
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:07",
+      "total_km": 1.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Castello di Chiavari",
+            "hu": "Castello di Chiavari",
+            "ro": "Castello di Chiavari",
+            "en": "Castello di Chiavari"
+          },
+          "coords": [
+            9.326229,
+            44.318752
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Mauern dieser historischen Festung, die einst die Stadt verteidigte, und tragen Sie bequeme Schuhe für den steilen Aufstieg.",
+            "hu": "Fedezze fel az egykor a várost védő történelmi erődítmény ősi falait, és viseljen kényelmes cipőt a kissé meredek kaptató leküzdéséhez.",
+            "ro": "Explorați zidurile antice ale acestei fortărețe istorice care apăra odinioară orașul și purtați încălțăminte confortabilă pentru urcarea ușor abruptă.",
+            "en": "Explore the ancient walls of this historic hilltop fortress which defended the town, and wear comfortable shoes for the slightly steep ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Charitas",
+            "hu": "Casa Charitas",
+            "ro": "Casa Charitas",
+            "en": "Casa Charitas"
+          },
+          "coords": [
+            9.324036,
+            44.31916
+          ],
+          "category": "cultural",
+          "arrive_at": "10:34",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem historischen Gebäude mit seinen einzigartigen Ausstellungen das lokale Kulturerbe, aber prüfen Sie vorab die Öffnungszeiten.",
+            "hu": "Ismerje meg a helyi kulturális örökséget ebben az egyedi kiállításokat kínáló történelmi épületben, de előtte feltétlenül ellenőrizze a nyitvatartást.",
+            "ro": "Descoperiți patrimoniul cultural local în această clădire istorică cu expoziții unice, dar verificați programul de vizitare deoarece acesta poate varia.",
+            "en": "Discover local cultural heritage in this historic building offering unique exhibitions, but check the opening hours beforehand as they often vary."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa San Giacomo di Rupinaro",
+            "hu": "Chiesa San Giacomo di Rupinaro",
+            "ro": "Chiesa San Giacomo di Rupinaro",
+            "en": "Chiesa San Giacomo di Rupinaro"
+          },
+          "coords": [
+            9.322675,
+            44.319072
+          ],
+          "category": "religious",
+          "arrive_at": "11:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Bewundern Sie das wunderschön verzierte Innere dieser friedlichen lokalen Kirche und denken Sie daran, Schultern und Knie stets bedeckt zu halten.",
+            "hu": "Csodálja meg ennek a békés helyi templomnak a gyönyörűen díszített belsejét, és ügyeljen a szerény öltözködésre, fedett vállakkal és térdekkel.",
+            "ro": "Admirați interiorul frumos decorat al acestei biserici locale liniștite și amintiți-vă să vă îmbrăcați decent, acoperindu-vă umerii și genunchii.",
+            "en": "Admire the beautifully decorated interior of this serene local church, and remember to dress modestly by keeping your shoulders and knees covered."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Archeologico di Chiavari",
+            "hu": "Museo Archeologico di Chiavari",
+            "ro": "Museo Archeologico di Chiavari",
+            "en": "Museo Archeologico di Chiavari"
+          },
+          "coords": [
+            9.327312,
+            44.316851
+          ],
+          "category": "museum",
+          "arrive_at": "12:23",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Tauchen Sie mit faszinierenden vorrömischen Artefakten in die alte ligurische Geschichte ein und nutzen Sie den Audioguide für tiefere Einblicke.",
+            "hu": "Merüljön el az ősi ligur történelemben a lenyűgöző római kor előtti leletekkel, és fontolja meg az audioguide használatát a teljesebb élményért.",
+            "ro": "Pătrundeți în istoria ligurică antică cu artefacte pre-romane fascinante și folosiți ghidul audio pentru o înțelegere mai profundă a exponatelor.",
+            "en": "Dive into ancient Ligurian history with fascinating pre-Roman artifacts, and consider using the audio guide for a deeper understanding of the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Diocesano di Arte Sacra",
+            "hu": "Museo Diocesano di Arte Sacra",
+            "ro": "Museo Diocesano di Arte Sacra",
+            "en": "Museo Diocesano di Arte Sacra"
+          },
+          "coords": [
+            9.32358,
+            44.315765
+          ],
+          "category": "museum",
+          "arrive_at": "14:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Schätzen Sie die reiche Sammlung sakraler Kunst und aufwendig gestalteter Reliquien, und planen Sie mindestens eine Stunde für Ihren Besuch ein.",
+            "hu": "Tekintse meg a szakrális művészet és az aprólékosan kidolgozott ereklyék gazdag gyűjteményét, és szánjon legalább egy órát a teljes megtekintésre.",
+            "ro": "Admirați colecția bogată de artă sacră și relicve religioase complex realizate, asigurându-vă că alocați cel puțin o oră pentru a vedea totul.",
+            "en": "Appreciate the rich collection of sacred art and intricately crafted religious relics, making sure to allocate at least an hour to see everything."
+          }
+        },
+        {
+          "name": {
+            "de": "Statua di Giuseppe Mazzini",
+            "hu": "Statua di Giuseppe Mazzini",
+            "ro": "Statua di Giuseppe Mazzini",
+            "en": "Statua di Giuseppe Mazzini"
+          },
+          "coords": [
+            9.324538,
+            44.317305
+          ],
+          "category": "historical",
+          "arrive_at": "15:51",
+          "stay_min": 20,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem markanten Denkmal zu Ehren des berühmten italienischen Patrioten die Ehre, das sich ideal als Treffpunkt und für ein Foto eignet.",
+            "hu": "Tisztelegjen a híres olasz hazafi előtt e kiemelkedő emlékműnél, amely kiváló központi találkozási pontként és fotózási helyszínként is szolgál.",
+            "ro": "Aduceți un omagiu la acest monument proeminent dedicat faimosului patriot italian, un punct central excelent de întâlnire și pentru o fotografie.",
+            "en": "Pay respects at this prominent monument honoring the famous Italian patriot, which serves as a great central meeting point to snap a quick photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Aereo Guardia Costiera",
+            "hu": "Aereo Guardia Costiera",
+            "ro": "Aereo Guardia Costiera",
+            "en": "Aereo Guardia Costiera"
+          },
+          "coords": [
+            9.321181,
+            44.31428
+          ],
+          "category": "historical",
+          "arrive_at": "16:17",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses faszinierende historische Flugzeug der Küstenwache unter freiem Himmel, am besten am späten Nachmittag für optimale Lichtverhältnisse.",
+            "hu": "Tekintse meg a parti őrség lenyűgöző, szabadtéren kiállított történelmi repülőgépét, amelyet a késő délutáni órákban a legjobb fotózni.",
+            "ro": "Vedeți această aeronavă istorică fascinantă a gărzii de coastă expusă în aer liber, vizitată cel mai bine după-amiaza târziu pentru o lumină optimă.",
+            "en": "View this fascinating historical coast guard aircraft displayed in the open air, best visited during the late afternoon for optimal lighting and photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang am majestätischen Castello di Chiavari und spazieren Sie dann zur Casa Charitas und zur Kirche San Giacomo. Tauchen Sie in den Museen der Stadt in die reiche ligurische Geschichte ein. Bewundern Sie die Mazzini-Statue im Zentrum und beenden Sie den Tag bei der Guardia Costiera nahe der Küste.",
+        "hu": "Kezdje gyalogtúráját a fenséges chiavari kastélynál, majd sétáljon át a Casa Charitas és a San Giacomo templomhoz. A délután folyamán merüljön el a ligur történelemben a helyi múzeumokban. Csodálja meg a Mazzini-szobrot a központban, és zárja a napot a parti őrség repülőgépének megtekintésével.",
+        "ro": "Începeți turul pietonal la maiestuosul Castel din Chiavari, apoi plimbați-vă spre Casa Charitas și Biserica San Giacomo. După-amiaza, scufundați-vă în istoria ligurică vizitând muzeele locale. Admirați Statuia lui Mazzini în centru și încheiați ziua admirând aeronava Gărzii de Coastă.",
+        "en": "Begin your walking tour at the majestic Castle of Chiavari, then stroll towards Casa Charitas and San Giacomo church. As the day progresses, dive into deep Ligurian history at the town's excellent museums. Admire the central Mazzini Statue before concluding your historical exploration near the coast with the Coast Guard aircraft."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:33",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di San Giuseppe",
+            "hu": "Chiesa di San Giuseppe",
+            "ro": "Chiesa di San Giuseppe",
+            "en": "Chiesa di San Giuseppe"
+          },
+          "coords": [
+            9.340074,
+            44.319401
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die friedliche Atmosphäre dieser schönen Pfarrkirche in Lavagna und nehmen Sie sich Zeit, die detailreichen Deckenfresken zu bewundern.",
+            "hu": "Élvezze a csendes légkört ebben a kedves lavagnai plébániatemplomban, és szánjon egy percet a mennyezetet díszítő részletgazdag freskók megcsodálására.",
+            "ro": "Bucurați-vă de atmosfera pașnică a acestei frumoase biserici parohiale din Lavagna și luați-vă un moment pentru a admira frescele detaliate de pe tavan.",
+            "en": "Experience the peaceful atmosphere of this lovely parish church in Lavagna, and take a moment to admire the detailed frescoes adorning the ceiling."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Riviera",
+            "hu": "Bagni Riviera",
+            "ro": "Bagni Riviera",
+            "en": "Bagni Riviera"
+          },
+          "coords": [
+            9.344295,
+            44.305846
+          ],
+          "category": "recreational",
+          "arrive_at": "09:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.55,
+          "tip_5lang": {
+            "de": "Entspannen Sie auf den bequemen Sonnenliegen in diesem klassischen Strandclub der Riviera, aber reservieren Sie Ihren Schirm in den Sommermonaten im Voraus.",
+            "hu": "Pihenjen a kényelmes napozóágyakon ebben a klasszikus riviérai strandklubban, de a forgalmas nyári hónapokban mindenképpen foglaljon előre napernyőt.",
+            "ro": "Relaxați-vă pe șezlongurile confortabile ale acestui club de plajă clasic, dar rezervați-vă umbrela din timp în timpul lunilor aglomerate de vară.",
+            "en": "Relax on the comfortable sunbeds at this classic Riviera beach club, but be sure to book your umbrella in advance during the busy summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Lido",
+            "hu": "Bagni Lido",
+            "ro": "Bagni Lido",
+            "en": "Bagni Lido"
+          },
+          "coords": [
+            9.330303,
+            44.310998
+          ],
+          "category": "recreational",
+          "arrive_at": "11:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.25,
+          "tip_5lang": {
+            "de": "Genießen Sie ein erfrischendes Bad an diesem familienfreundlichen Strand und trinken Sie einen schnellen Espresso im Strandcafé, um neue Energie zu tanken.",
+            "hu": "Élvezze a frissítő úszást és a kiváló szolgáltatásokat ezen a családbarát strandon, és igyon egy gyors eszpresszót a parti kávézóban a felfrissüléshez.",
+            "ro": "Bucurați-vă de o baie revigorantă la această plajă potrivită pentru familii și savurați un espresso rapid la cafeneaua de pe plajă pentru a vă reîncărca.",
+            "en": "Enjoy a refreshing swim and excellent facilities at this family-friendly beach, and grab a quick espresso at their beachfront café to recharge."
+          }
+        },
+        {
+          "name": {
+            "de": "Statua di Giuseppe Mazzini",
+            "hu": "Statua di Giuseppe Mazzini",
+            "ro": "Statua di Giuseppe Mazzini",
+            "en": "Statua di Giuseppe Mazzini"
+          },
+          "coords": [
+            9.324538,
+            44.317305
+          ],
+          "category": "historical",
+          "arrive_at": "12:40",
+          "stay_min": 20,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem markanten Denkmal zu Ehren des berühmten italienischen Patrioten die Ehre, das sich ideal als Treffpunkt und für ein Foto eignet.",
+            "hu": "Tisztelegjen a híres olasz hazafi előtt e kiemelkedő emlékműnél, amely kiváló központi találkozási pontként és fotózási helyszínként is szolgál.",
+            "ro": "Aduceți un omagiu la acest monument proeminent dedicat faimosului patriot italian, un punct central excelent de întâlnire și pentru o fotografie.",
+            "en": "Pay respects at this prominent monument honoring the famous Italian patriot, which serves as a great central meeting point to snap a quick photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Archeologico di Chiavari",
+            "hu": "Museo Archeologico di Chiavari",
+            "ro": "Museo Archeologico di Chiavari",
+            "en": "Museo Archeologico di Chiavari"
+          },
+          "coords": [
+            9.327312,
+            44.316851
+          ],
+          "category": "museum",
+          "arrive_at": "13:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie mit faszinierenden vorrömischen Artefakten in die alte ligurische Geschichte ein und nutzen Sie den Audioguide für tiefere Einblicke.",
+            "hu": "Merüljön el az ősi ligur történelemben a lenyűgöző római kor előtti leletekkel, és fontolja meg az audioguide használatát a teljesebb élményért.",
+            "ro": "Pătrundeți în istoria ligurică antică cu artefacte pre-romane fascinante și folosiți ghidul audio pentru o înțelegere mai profundă a exponatelor.",
+            "en": "Dive into ancient Ligurian history with fascinating pre-Roman artifacts, and consider using the audio guide for a deeper understanding of the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello di Chiavari",
+            "hu": "Castello di Chiavari",
+            "ro": "Castello di Chiavari",
+            "en": "Castello di Chiavari"
+          },
+          "coords": [
+            9.326229,
+            44.318752
+          ],
+          "category": "castle",
+          "arrive_at": "14:43",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Mauern dieser historischen Festung, die einst die Stadt verteidigte, und tragen Sie bequeme Schuhe für den steilen Aufstieg.",
+            "hu": "Fedezze fel az egykor a várost védő történelmi erődítmény ősi falait, és viseljen kényelmes cipőt a kissé meredek kaptató leküzdéséhez.",
+            "ro": "Explorați zidurile antice ale acestei fortărețe istorice care apăra odinioară orașul și purtați încălțăminte confortabilă pentru urcarea ușor abruptă.",
+            "en": "Explore the ancient walls of this historic hilltop fortress which defended the town, and wear comfortable shoes for the slightly steep ascent."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre entspannte Radtour an der ruhigen Kirche San Giuseppe in Lavagna. Radeln Sie die malerische Küste entlang und machen Sie Halt an den Bagni Riviera und Bagni Lido. Am Nachmittag erkunden Sie die historische Seite der Stadt, beginnend mit dem Archäologischen Museum bis hinauf zum imposanten Castello di Chiavari.",
+        "hu": "Kezdje kényelmes kerékpártúráját a csendes San Giuseppe templomnál Lavagnában. Tekerjen végig a festői tengerparton, megállva a Bagni Riviera és a Bagni Lido strandoknál. Délután fedezze fel a város történelmi oldalát a Régészeti Múzeumtól egészen a dombtetőn magasodó lenyűgöző chiavari kastélyig.",
+        "ro": "Începeți traseul cu bicicleta la liniștita Biserică San Giuseppe din Lavagna. Pedalați de-a lungul coastei pitorești, oprindu-vă la Bagni Riviera și Bagni Lido. După-amiaza, explorați latura istorică a orașului, vizitând Muzeul Arheologic și urcând la impunătorul Castel din Chiavari.",
+        "en": "Kick off your relaxed bike route at the quiet San Giuseppe church in Lavagna. Pedal along the picturesque coastline, taking breaks at the Riviera and Lido beach clubs. In the afternoon, shift your focus to the town's historical side by visiting the Archaeological Museum and riding up to the imposing Castle of Chiavari."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:51",
+      "total_km": 3.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bagni Egidio",
+            "hu": "Bagni Egidio",
+            "ro": "Bagni Egidio",
+            "en": "Bagni Egidio"
+          },
+          "coords": [
+            9.350758,
+            44.303452
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Strandtag an diesem ruhigen und gepflegten Küstenabschnitt, und bringen Sie ein Handtuch mit, falls Sie freie Bereiche erkunden.",
+            "hu": "Kezdje a strandolást ezen a csendes és jól karbantartott partszakaszon, és hozzon magával saját törölközőt, ha a közeli szabadstrandokat is megnézné.",
+            "ro": "Începeți-vă ziua de plajă în acest loc de coastă liniștit și bine întreținut, și aduceți-vă propriul prosop dacă doriți să explorați zonele libere.",
+            "en": "Start your beach day at this serene and well-maintained coastal spot, and bring along your own towel if you plan to explore the nearby free areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Giuseppe",
+            "hu": "Chiesa di San Giuseppe",
+            "ro": "Chiesa di San Giuseppe",
+            "en": "Chiesa di San Giuseppe"
+          },
+          "coords": [
+            9.340074,
+            44.319401
+          ],
+          "category": "religious",
+          "arrive_at": "10:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die friedliche Atmosphäre dieser schönen Pfarrkirche in Lavagna und nehmen Sie sich Zeit, die detailreichen Deckenfresken zu bewundern.",
+            "hu": "Élvezze a csendes légkört ebben a kedves lavagnai plébániatemplomban, és szánjon egy percet a mennyezetet díszítő részletgazdag freskók megcsodálására.",
+            "ro": "Bucurați-vă de atmosfera pașnică a acestei frumoase biserici parohiale din Lavagna și luați-vă un moment pentru a admira frescele detaliate de pe tavan.",
+            "en": "Experience the peaceful atmosphere of this lovely parish church in Lavagna, and take a moment to admire the detailed frescoes adorning the ceiling."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello di Chiavari",
+            "hu": "Castello di Chiavari",
+            "ro": "Castello di Chiavari",
+            "en": "Castello di Chiavari"
+          },
+          "coords": [
+            9.326229,
+            44.318752
+          ],
+          "category": "castle",
+          "arrive_at": "11:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Mauern dieser historischen Festung, die einst die Stadt verteidigte, und tragen Sie bequeme Schuhe für den steilen Aufstieg.",
+            "hu": "Fedezze fel az egykor a várost védő történelmi erődítmény ősi falait, és viseljen kényelmes cipőt a kissé meredek kaptató leküzdéséhez.",
+            "ro": "Explorați zidurile antice ale acestei fortărețe istorice care apăra odinioară orașul și purtați încălțăminte confortabilă pentru urcarea ușor abruptă.",
+            "en": "Explore the ancient walls of this historic hilltop fortress which defended the town, and wear comfortable shoes for the slightly steep ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Diocesano di Arte Sacra",
+            "hu": "Museo Diocesano di Arte Sacra",
+            "ro": "Museo Diocesano di Arte Sacra",
+            "en": "Museo Diocesano di Arte Sacra"
+          },
+          "coords": [
+            9.32358,
+            44.315765
+          ],
+          "category": "museum",
+          "arrive_at": "12:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schätzen Sie die reiche Sammlung sakraler Kunst und aufwendig gestalteter Reliquien, und planen Sie mindestens eine Stunde für Ihren Besuch ein.",
+            "hu": "Tekintse meg a szakrális művészet és az aprólékosan kidolgozott ereklyék gazdag gyűjteményét, és szánjon legalább egy órát a teljes megtekintésre.",
+            "ro": "Admirați colecția bogată de artă sacră și relicve religioase complex realizate, asigurându-vă că alocați cel puțin o oră pentru a vedea totul.",
+            "en": "Appreciate the rich collection of sacred art and intricately crafted religious relics, making sure to allocate at least an hour to see everything."
+          }
+        },
+        {
+          "name": {
+            "de": "Aereo Guardia Costiera",
+            "hu": "Aereo Guardia Costiera",
+            "ro": "Aereo Guardia Costiera",
+            "en": "Aereo Guardia Costiera"
+          },
+          "coords": [
+            9.321181,
+            44.31428
+          ],
+          "category": "historical",
+          "arrive_at": "14:19",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses faszinierende historische Flugzeug der Küstenwache unter freiem Himmel, am besten am späten Nachmittag für optimale Lichtverhältnisse.",
+            "hu": "Tekintse meg a parti őrség lenyűgöző, szabadtéren kiállított történelmi repülőgépét, amelyet a késő délutáni órákban a legjobb fotózni.",
+            "ro": "Vedeți această aeronavă istorică fascinantă a gărzii de coastă expusă în aer liber, vizitată cel mai bine după-amiaza târziu pentru o lumină optimă.",
+            "en": "View this fascinating historical coast guard aircraft displayed in the open air, best visited during the late afternoon for optimal lighting and photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Duna Beach (discoteca e stabilimento)",
+            "hu": "Duna Beach (discoteca e stabilimento)",
+            "ro": "Duna Beach (discoteca e stabilimento)",
+            "en": "Duna Beach (discoteca e stabilimento)"
+          },
+          "coords": [
+            9.320001,
+            44.31405
+          ],
+          "category": "recreational",
+          "arrive_at": "15:06",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit lebhafter Musik und Cocktails direkt im Sand dieses modernen Strandclubs, der sich abends in ein Unterhaltungszentrum verwandelt.",
+            "hu": "Zárja a napot élénk zenével és koktélokkal a homokon ebben a modern strandklubban, amely esténként tökéletes szórakoztató központtá alakul át.",
+            "ro": "Încheiați-vă ziua cu muzică plină de viață și cocktailuri chiar pe nisip la acest club modern de plajă, care se transformă perfect într-un centru de divertisment de seară.",
+            "en": "End your day with lively music and cocktails right on the sand at this modern beach club, which transitions perfectly into an evening entertainment hub."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen entspannt an den Bagni Egidio und fahren Sie dann ins Zentrum zur Kirche San Giuseppe. Fahren Sie weiter nach Chiavari, um die alte Burg und das Diözesanmuseum zu besichtigen. Ein kurzer Halt beim Flugzeug der Küstenwache leitet den Abend ein, der mit Musik und Meerblick am Duna Beach ausklingt.",
+        "hu": "Indítsa a reggelt pihentetően a Bagni Egidiónál, majd autózzon a központba a San Giuseppe templomhoz. Utazzon tovább Chiavariba az ősi kastély és az Egyházmegyei Múzeum felfedezésére. A parti őrség repülőgépének megtekintése után zárja az estét zenével és tengeri kilátással a Duna Beach klubban.",
+        "ro": "Începeți dimineața relaxant la Bagni Egidio, apoi conduceți spre centrul orașului la Biserica San Giuseppe. Mergeți mai departe în Chiavari pentru a explora vechiul castel și Muzeul Diecezan. O oprire la aeronava Gărzii de Coastă precede seara festivă de la Duna Beach, cu muzică și vedere la mare.",
+        "en": "Start your morning with a relaxing vibe at Bagni Egidio before driving to the central San Giuseppe church. Head over to Chiavari to explore the ancient castle and the fascinating Diocesan Museum. A quick stop at the Coast Guard aircraft transitions you into a lively evening of music and sea views at Duna Beach."
+      }
+    }
+  }
+}

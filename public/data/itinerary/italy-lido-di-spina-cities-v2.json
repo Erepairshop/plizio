@@ -1,0 +1,428 @@
+{
+  "city_id": "italy-lido-di-spina-cities-v2",
+  "anchor": {
+    "name": "Lido di Spina",
+    "coords": [
+      12.24768,
+      44.65073
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 0.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Casa Museo Remo Brindisi",
+            "hu": "Casa Museo Remo Brindisi",
+            "ro": "Casa Museo Remo Brindisi",
+            "en": "Casa Museo Remo Brindisi"
+          },
+          "coords": [
+            12.248902,
+            44.652655
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckende Kunstsammlung in dieser außergewöhnlichen Villa, die moderne Meisterwerke beherbergt; kommen Sie früh, um die ruhige Atmosphäre zu genießen.",
+            "hu": "Fedezze fel a lenyűgöző művészeti gyűjteményt ebben a kivételes villában, amely modern remekműveket rejt; érkezzen korán a nyugodt légkörért.",
+            "ro": "Descoperiți impresionanta colecție de artă în această vilă excepțională cu capodopere moderne; ajungeți devreme pentru a vă bucura de o atmosferă liniștită.",
+            "en": "Discover the impressive art collection in this exceptional villa that houses modern masterpieces; arrive early to enjoy the tranquil atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Montecarlo",
+            "hu": "Bagno Montecarlo",
+            "ro": "Bagno Montecarlo",
+            "en": "Bagno Montecarlo"
+          },
+          "coords": [
+            12.251321,
+            44.652852
+          ],
+          "category": "recreational",
+          "arrive_at": "10:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem gepflegten Strandabschnitt mit goldenem Sand und klarem Wasser, ideal für Familien; mieten Sie rechtzeitig einen Sonnenschirm für maximalen Komfort.",
+            "hu": "Pihenjen ezen a gondozott partszakaszon aranyhomokkal és tiszta vízzel, ami ideális családoknak; időben béreljen napernyőt a maximális kényelemért.",
+            "ro": "Relaxați-vă pe această plajă îngrijită cu nisip auriu și ape limpezi, ideală pentru familii; închiriați o umbrelă din timp pentru confort maxim.",
+            "en": "Relax on this well-kept stretch of beach with golden sand and clear water ideal for families; rent a sun umbrella in good time for maximum comfort."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Baia di Maui",
+            "hu": "Bagno Baia di Maui",
+            "ro": "Bagno Baia di Maui",
+            "en": "Bagno Baia di Maui"
+          },
+          "coords": [
+            12.251741,
+            44.651946
+          ],
+          "category": "recreational",
+          "arrive_at": "12:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie das lebhafte hawaiianische Flair dieses Strandbads bei einem erfrischenden Cocktail; probieren Sie unbedingt die lokalen Snacks an der farbenfrohen Strandbar.",
+            "hu": "Élvezze a hawaii hangulatot ebben a nyüzsgő strandfürdőben egy frissítő koktéllal; feltétlenül kóstolja meg a helyi falatokat a színes tengerparti bárban.",
+            "ro": "Bucurați-vă de flerul hawaian al acestui ștrand vibrant cu un cocktail răcoritor; asigurați-vă că gustați gustările locale la barul colorat de pe plajă.",
+            "en": "Enjoy the lively Hawaiian flair of this vibrant beach resort with a refreshing cocktail; be sure to try the local snacks at the colorful beach bar."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Bussola",
+            "hu": "Bagno Bussola",
+            "ro": "Bagno Bussola",
+            "en": "Bagno Bussola"
+          },
+          "coords": [
+            12.251967,
+            44.651011
+          ],
+          "category": "recreational",
+          "arrive_at": "13:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von den hervorragenden Meeresfrüchten in entspannter Atmosphäre verzaubern; reservieren Sie einen Tisch in der ersten Reihe für den besten Blick aufs Meer.",
+            "hu": "Hagyja magát elvarázsolni a kiváló tengeri ételekkel egy nyugodt környezetben; foglaljon asztalt az első sorban a legjobb tengerre néző kilátásért.",
+            "ro": "Lăsați-vă fermecați de fructele de mare excelente într-o atmosferă relaxată; rezervați o masă în primul rând pentru cea mai bună vedere la mare.",
+            "en": "Let yourself be enchanted by the excellent seafood in a relaxed atmosphere; book a table in the front row for the best view over the open sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Spina",
+            "hu": "Spiaggia di Spina",
+            "ro": "Spiaggia di Spina",
+            "en": "Spiaggia di Spina"
+          },
+          "coords": [
+            12.25465,
+            44.650428
+          ],
+          "category": "recreational",
+          "arrive_at": "14:45",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an diesem unberührten, weiten Küstenstreifen mit einem ausgedehnten Spaziergang ausklingen; bringen Sie eine leichte Jacke für die kühle Abendbrise mit.",
+            "hu": "Zárja a napot egy hosszú sétával ezen az érintetlen, széles partszakaszon; hozzon magával egy könnyű dzsekit a hűvösebb kora esti tengeri szellőhöz.",
+            "ro": "Încheiați ziua pe această întindere de coastă virgină și largă cu o plimbare lungă; aduceți o jachetă ușoară pentru briza răcoroasă și plăcută de seară.",
+            "en": "End the day on this pristine, wide stretch of coastline with an extended walk; bring a light jacket to prepare for the cool and refreshing evening breeze."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt kulturell mit einem Besuch im faszinierenden Museum, das eine Oase der modernen Kunst inmitten der Küstenlandschaft bietet. Gegen Mittag wandern wir gemütlich zu den zentralen Stränden, wo goldener Sand und entspannte Atmosphäre warten. Der Nachmittag steht ganz im Zeichen von Sonne und Meer, begleitet von erfrischenden Drinks an den Strandbars. Ein langer Strandspaziergang am frühen Abend rundet diesen perfekten Küstentag in Lido di Spina harmonisch ab.",
+        "hu": "A nap kulturálisan indul a lenyűgöző múzeum meglátogatásával, amely a modern művészet oázisa a partvidéken. Dél körül kényelmesen elsétálunk a központi strandokra, ahol aranyhomok és nyugodt légkör várja. A délután a nap és a tenger jegyében telik, amit a tengerparti bárok hűsítő italai tesznek teljessé. Egy hosszú tengerparti séta a kora esti órákban harmonikusan zárja ezt a tökéletes tengerparti napot Lido di Spina-ban.",
+        "ro": "Ziua începe cultural cu o vizită la muzeul fascinant, care oferă o oază de artă modernă în mijlocul peisajului de coastă. În jurul prânzului ne plimbăm spre plajele centrale, unde ne așteaptă nisipul auriu și o atmosferă relaxată. După-amiaza este dedicată soarelui și mării, însoțită de băuturi răcoritoare la barurile de pe plajă. O plimbare lungă pe plajă seara devreme completează armonios această zi perfectă pe coastă.",
+        "en": "The day begins culturally with a visit to the fascinating museum, which offers an oasis of modern art amidst the coastal landscape. Around midday we stroll leisurely to the central beaches, where golden sand and a relaxed atmosphere await. The afternoon is all about sun and sea, accompanied by refreshing drinks at the beach bars. A long walk along the beach in the early evening harmoniously rounds off this perfect coastal day in Lido di Spina."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 1.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Casa Museo Remo Brindisi",
+            "hu": "Casa Museo Remo Brindisi",
+            "ro": "Casa Museo Remo Brindisi",
+            "en": "Casa Museo Remo Brindisi"
+          },
+          "coords": [
+            12.248902,
+            44.652655
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckende Kunstsammlung in dieser außergewöhnlichen Villa, die moderne Meisterwerke beherbergt; kommen Sie früh, um die ruhige Atmosphäre zu genießen.",
+            "hu": "Fedezze fel a lenyűgöző művészeti gyűjteményt ebben a kivételes villában, amely modern remekműveket rejt; érkezzen korán a nyugodt légkörért.",
+            "ro": "Descoperiți impresionanta colecție de artă în această vilă excepțională cu capodopere moderne; ajungeți devreme pentru a vă bucura de o atmosferă liniștită.",
+            "en": "Discover the impressive art collection in this exceptional villa that houses modern masterpieces; arrive early to enjoy the tranquil atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Haiti",
+            "hu": "Bagno Haiti",
+            "ro": "Bagno Haiti",
+            "en": "Bagno Haiti"
+          },
+          "coords": [
+            12.250432,
+            44.656382
+          ],
+          "category": "recreational",
+          "arrive_at": "10:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erleben Sie einen ruhigen Vormittag an diesem familienfreundlichen Strandabschnitt mit feinem Sand; nutzen Sie die exzellenten Duschanlagen nach einem Sprung ins kühle Meer.",
+            "hu": "Töltsön el egy csendes délelőttöt ezen a finom homokos, családbarát strandon; használja a kiváló zuhanyzókat egy hűsítő tengeri mártózás után.",
+            "ro": "Petreceți o dimineață liniștită pe această plajă cu nisip fin, prietenoasă cu familiile; folosiți dușurile excelente după o baie răcoroasă în mare.",
+            "en": "Experience a quiet morning on this family-friendly stretch of beach with fine sand; make use of the excellent shower facilities after a dip in the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Capanna",
+            "hu": "Bagno Capanna",
+            "ro": "Bagno Capanna",
+            "en": "Bagno Capanna"
+          },
+          "coords": [
+            12.250471,
+            44.655467
+          ],
+          "category": "recreational",
+          "arrive_at": "12:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Legen Sie hier eine Mittagspause ein und kosten Sie die traditionelle Piadina in geselliger Atmosphäre; parken Sie Ihr Fahrrad sicher an den vorgesehenen Ständern am Eingang.",
+            "hu": "Tartson ebédszünetet és kóstolja meg a hagyományos piadinát barátságos környezetben; parkolja le kerékpárját biztonságosan a bejáratnál lévő tárolókban.",
+            "ro": "Luați o pauză de prânz și gustați tradiționala piadina într-o atmosferă convivială; parcați bicicleta în siguranță la suporturile desemnate de la intrare.",
+            "en": "Take a lunch break here and taste the traditional piadina in a convivial atmosphere; park your bicycle safely at the designated racks near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Trocadero",
+            "hu": "Bagno Trocadero",
+            "ro": "Bagno Trocadero",
+            "en": "Bagno Trocadero"
+          },
+          "coords": [
+            12.250865,
+            44.654548
+          ],
+          "category": "recreational",
+          "arrive_at": "13:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Spüren Sie die jugendliche Energie dieses Strandes bei Musik und sportlichen Aktivitäten; mieten Sie sich ein Tretboot, um die schöne Küste aus einer anderen Perspektive zu sehen.",
+            "hu": "Érezze a strand fiatalos energiáját zenével és sporttevékenységekkel; béreljen vízibiciklit, hogy más szemszögből lássa a gyönyörű partvonalat.",
+            "ro": "Simțiți energia tinerească a acestei plaje cu muzică și activități sportive; închiriați o hidrobicicletă pentru a vedea coasta frumoasă dintr-o altă perspectivă.",
+            "en": "Feel the youthful energy of this beach with music and sports activities; rent a pedal boat to see the beautiful coastline from a completely different perspective."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Spina",
+            "hu": "Spiaggia di Spina",
+            "ro": "Spiaggia di Spina",
+            "en": "Spiaggia di Spina"
+          },
+          "coords": [
+            12.25465,
+            44.650428
+          ],
+          "category": "recreational",
+          "arrive_at": "14:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an diesem unberührten, weiten Küstenstreifen mit einem ausgedehnten Spaziergang ausklingen; bringen Sie eine leichte Jacke für die kühle Abendbrise mit.",
+            "hu": "Zárja a napot egy hosszú sétával ezen az érintetlen, széles partszakaszon; hozzon magával egy könnyű dzsekit a hűvösebb kora esti tengeri szellőhöz.",
+            "ro": "Încheiați ziua pe această întindere de coastă virgină și largă cu o plimbare lungă; aduceți o jachetă ușoară pentru briza răcoroasă și plăcută de seară.",
+            "en": "End the day on this pristine, wide stretch of coastline with an extended walk; bring a light jacket to prepare for the cool and refreshing evening breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Las Vegas",
+            "hu": "Bagno Las Vegas",
+            "ro": "Bagno Las Vegas",
+            "en": "Bagno Las Vegas"
+          },
+          "coords": [
+            12.252614,
+            44.649389
+          ],
+          "category": "recreational",
+          "arrive_at": "16:00",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour an diesem lebhaften Strandclub, der für seine tollen Aperitifs bekannt ist; bleiben Sie bis zum Sonnenuntergang für fantastische Urlaubsmomente.",
+            "hu": "Fejezze be kerékpártúráját ebben a nyüzsgő strandklubban, amely nagyszerű aperitifjeiről ismert; maradjon napnyugtáig a fantasztikus ünnepi pillanatokért.",
+            "ro": "Încheiați-vă turul cu bicicleta la acest club de plajă plin de viață, renumit pentru aperitivele sale excelente; rămâneți până la apus pentru momente fantastice.",
+            "en": "End your bike tour at this lively beach club known for its great aperitifs; make sure to stay until sunset to capture some truly fantastic holiday moments."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nach einem inspirierenden Start in der Kunstvilla schwingen wir uns auf die Räder und erkunden die Küste. Zur Mittagszeit genießen wir eine entspannte Pause mit lokalen Snacks, während eine leichte Brise vom Meer weht. Am Nachmittag radeln wir entlang der belebten Strandbäder, wo Musik und sportliche Aktivitäten locken. Der Tag endet bei einem kühlen Drink in einem angesagten Beach Club, während die Sonne langsam am Horizont versinkt.",
+        "hu": "A művészeti villa inspiráló kezdése után kerékpárra pattanunk, és felfedezzük a gyönyörű partvidéket. Délben egy pihentető szünetet tartunk helyi falatokkal, miközben enyhe szellő fúj a tenger felől. Délután a nyüzsgő strandfürdők mentén tekerünk, ahol zene és sporttevékenységek csábítanak. A nap egy hűsítő itallal zárul egy divatos strandklubban, miközben a nap lassan eltűnik a festői horizonton.",
+        "ro": "După un început plin de inspirație la vila de artă, ne urcăm pe biciclete și explorăm coasta. La prânz ne bucurăm de o pauză relaxantă cu gustări locale, în timp ce bate o briză ușoară. După-amiaza pedalăm de-a lungul ștrandurilor aglomerate, unde muzica și activitățile sportive atrag mulțimea. Ziua se încheie cu o băutură rece la un club de plajă la modă, în timp ce soarele coboară încet la orizont.",
+        "en": "After an inspiring start in the art villa, we hop on our bikes and explore the beautiful coastline. At lunchtime we enjoy a relaxing break with local snacks while a light breeze blows from the sea. In the afternoon we cycle past the lively beach resorts, where music and sporting activities entice the crowd. The day ends with a cool drink in a trendy beach club while the sun slowly sinks on the horizon."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:31",
+      "total_km": 3.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Casa Museo Remo Brindisi",
+            "hu": "Casa Museo Remo Brindisi",
+            "ro": "Casa Museo Remo Brindisi",
+            "en": "Casa Museo Remo Brindisi"
+          },
+          "coords": [
+            12.248902,
+            44.652655
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckende Kunstsammlung in dieser außergewöhnlichen Villa, die moderne Meisterwerke beherbergt; kommen Sie früh, um die ruhige Atmosphäre zu genießen.",
+            "hu": "Fedezze fel a lenyűgöző művészeti gyűjteményt ebben a kivételes villában, amely modern remekműveket rejt; érkezzen korán a nyugodt légkörért.",
+            "ro": "Descoperiți impresionanta colecție de artă în această vilă excepțională cu capodopere moderne; ajungeți devreme pentru a vă bucura de o atmosferă liniștită.",
+            "en": "Discover the impressive art collection in this exceptional villa that houses modern masterpieces; arrive early to enjoy the tranquil atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Astra",
+            "hu": "Bagno Astra",
+            "ro": "Bagno Astra",
+            "en": "Bagno Astra"
+          },
+          "coords": [
+            12.247271,
+            44.667928
+          ],
+          "category": "recreational",
+          "arrive_at": "10:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Strand-Hopping-Tour im ruhigen Norden mit exzellentem Espresso; nutzen Sie den großen Parkplatz direkt hinter den Dünen für einen entspannten Start.",
+            "hu": "Kezdje a strandugráló túrát a csendes északon egy kiváló eszpresszóval; használja a dűnék mögötti nagy parkolót egy nagyon nyugodt és kényelmes kezdéshez.",
+            "ro": "Începeți turul de plaje în nordul liniștit cu un espresso excelent; folosiți parcarea mare chiar în spatele dunelor pentru un început foarte relaxant.",
+            "en": "Start your beach-hopping tour in the quiet north with an excellent espresso; use the large parking lot right behind the dunes for a very relaxed start."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Aragosta",
+            "hu": "Bagno Aragosta",
+            "ro": "Bagno Aragosta",
+            "en": "Bagno Aragosta"
+          },
+          "coords": [
+            12.248021,
+            44.662257
+          ],
+          "category": "recreational",
+          "arrive_at": "12:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Probieren Sie hier fangfrischen Fisch und lokale Spezialitäten in einem der besten Restaurants der Gegend; reservieren Sie unbedingt im Voraus, da es zur Mittagszeit sehr voll wird.",
+            "hu": "Kóstolja meg a frissen fogott halat és a helyi specialitásokat a környék egyik legjobb éttermében; mindenképpen foglaljon előre, mivel ebédidőben nagyon zsúfolt.",
+            "ro": "Gustați pește proaspăt prins și specialități locale într-unul dintre cele mai bune restaurante; rezervați din timp, deoarece devine foarte aglomerat la prânz.",
+            "en": "Taste freshly caught fish and local specialties in one of the best restaurants in the area; make sure to book in advance as it gets very crowded at lunchtime."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Faro",
+            "hu": "Bagno Faro",
+            "ro": "Bagno Faro",
+            "en": "Bagno Faro"
+          },
+          "coords": [
+            12.249606,
+            44.657639
+          ],
+          "category": "recreational",
+          "arrive_at": "13:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das pulsierende Leben dieses beliebten Küstenabschnitts ein, der eine tolle Bar bietet; spazieren Sie entlang der Wasserlinie, um Muscheln im feinen Sand zu finden.",
+            "hu": "Merüljön el ennek a népszerű partszakasznak a nyüzsgő életében, ahol egy nagyszerű bár található; sétáljon a vízparton, hogy kagylókat keressen a finom homokban.",
+            "ro": "Scufundați-vă în viața vibrantă a acestei zone de coastă populare, care oferă un bar excelent; plimbați-vă de-a lungul apei pentru a găsi scoici în nisipul fin.",
+            "en": "Immerse yourself in the vibrant life of this popular stretch of coastline, which offers a great bar; walk along the waterline to find beautiful shells in the sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Eden",
+            "hu": "Bagno Eden",
+            "ro": "Bagno Eden",
+            "en": "Bagno Eden"
+          },
+          "coords": [
+            12.253871,
+            44.647754
+          ],
+          "category": "recreational",
+          "arrive_at": "14:46",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die idyllische Ruhe im südlichen Teil von Lido di Spina bei einem malerischen Sonnenuntergang; der breite Sandstrand ist perfekt für ein spätes Picknick am Meer.",
+            "hu": "Élvezze az idilli békét Lido di Spina déli részén egy festői naplemente kíséretében; a széles homokos strand tökéletes egy késői piknikhez a tengerparton.",
+            "ro": "Bucurați-vă de liniștea idilică din partea de sud din Lido di Spina cu un apus pitoresc; plaja largă de nisip este perfectă pentru un picnic târziu la mare.",
+            "en": "Enjoy the idyllic peace in the southern part of Lido di Spina with a picturesque sunset; the wide sandy beach is absolutely perfect for a late seaside picnic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen den Tag mit moderner Kunst, bevor wir mit dem Auto an den ruhigen nördlichen Strandabschnitt fahren. Das Mittagessen verspricht exzellente Meeresfrüchte in einem renommierten Strandrestaurant mit Blick auf die blauen Wellen. Später fahren wir weiter nach Süden und mischen uns unter die Leute an den belebtesten Abschnitten der Küste. Den Abend lassen wir schließlich an den ruhigen, weiten Stränden des Südens bei einem spektakulären Sonnenuntergang ausklingen.",
+        "hu": "A napot modern művészettel kezdjük, mielőtt a csendes északi partszakaszra hajtanánk. Az ebéd kiváló tengeri ételeket ígér egy neves tengerparti étteremben, kilátással a kék hullámokra. Később dél felé haladunk tovább, és elvegyülünk az emberek között a part legforgalmasabb részein. Végül az estét a déli, nyugodt, széles strandokon fejezzük be egy látványos naplemente kíséretében.",
+        "ro": "Începem ziua cu artă modernă, înainte de a conduce spre plaja nordică mai liniștită. Prânzul promite fructe de mare excelente într-un restaurant de plajă renumit, cu vedere la valurile albastre. Mai târziu conducem mai spre sud și ne amestecăm cu mulțimea din cele mai aglomerate zone ale coastei. În cele din urmă, lăsăm seara să se estompeze pe plajele largi și liniștite din sud, cu un apus spectaculos.",
+        "en": "We start the day with modern art before driving to the quiet northern stretch of the beautiful beach. Lunch promises excellent seafood in a renowned beach restaurant overlooking the blue waves. Later we drive further south and mingle with the people on the busiest stretches of the scenic coast. Finally, we let the evening fade away on the quiet, wide beaches of the south with a spectacular sunset."
+      }
+    }
+  }
+}

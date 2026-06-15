@@ -1,0 +1,497 @@
+{
+  "city_id": "italy-vada-cities-v2",
+  "anchor": {
+    "name": "Vada",
+    "coords": [
+      10.45818,
+      43.35095
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:27",
+      "total_km": 1.65,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di San Leopoldo Re",
+            "hu": "Chiesa di San Leopoldo Re",
+            "ro": "Chiesa di San Leopoldo Re",
+            "en": "Chiesa di San Leopoldo Re"
+          },
+          "coords": [
+            10.455073,
+            43.351432
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser historischen Kirche, die das Zentrum der Gemeinde Vada bildet, und kommen Sie früh, bevor der Nachmittagsansturm beginnt.",
+            "hu": "Csodálja meg a Vada közösségét összefogó történelmi templom gyönyörű építészetét, és mindenképpen érkezzen korán, hogy elkerülje a délutáni tömeget.",
+            "ro": "Admirați arhitectura minunată a acestei biserici istorice ce ancorează comunitatea din Vada, asigurându-vă că o vizitați devreme pentru a evita aglomerația.",
+            "en": "Admire the beautiful architecture of this historic church that has anchored Vada's community, making sure to visit early before the afternoon crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre di Vada",
+            "hu": "Torre di Vada",
+            "ro": "Torre di Vada",
+            "en": "Torre di Vada"
+          },
+          "coords": [
+            10.454097,
+            43.350851
+          ],
+          "category": "tower",
+          "arrive_at": "09:52",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen markanten Küstenturm, der einst vor Piraten schützte, und bringen Sie eine gute Kamera mit, um die historischen Steinstrukturen einzufangen.",
+            "hu": "Fedezze fel ezt a lenyűgöző tengerparti tornyot, amely egykor a kalózok ellen védett, és hozzon magával fényképezőgépet a kőtextúrák megörökítéséhez.",
+            "ro": "Explorați acest turn de coastă impresionant care odinioară proteja împotriva piraților și luați un aparat foto bun pentru a surprinde detaliile din piatră.",
+            "en": "Explore this striking coastal tower that once guarded against pirates, and consider bringing a good camera to capture its historical stone textures up close."
+          }
+        },
+        {
+          "name": {
+            "de": "Madonna",
+            "hu": "Madonna",
+            "ro": "Madonna",
+            "en": "Madonna"
+          },
+          "coords": [
+            10.452341,
+            43.350588
+          ],
+          "category": "landmark",
+          "arrive_at": "10:20",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses bedeutungsvolle lokale Wahrzeichen, das das spirituelle Erbe der Region widerspiegelt, und ruhen Sie sich auf den Bänken im Schatten aus.",
+            "hu": "Álljon meg ennél a sokatmondó helyi nevezetességnél, amely a régió mély spirituális örökségét tükrözi, és pihenjen meg egy pillanatra az árnyékos padokon.",
+            "ro": "Opriți-vă la acest reper local plin de semnificație ce reflectă moștenirea spirituală a regiunii, luând o scurtă pauză de odihnă pe băncile din umbră.",
+            "en": "Stop by this meaningful local landmark that reflects the deep spiritual heritage of the region, taking a moment to rest on the nearby benches in the shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro L'Ordigno",
+            "hu": "Teatro L'Ordigno",
+            "ro": "Teatro L'Ordigno",
+            "en": "Teatro L'Ordigno"
+          },
+          "coords": [
+            10.456532,
+            43.353217
+          ],
+          "category": "cultural",
+          "arrive_at": "10:42",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses lebendige Kulturzentrum mit vielen Theateraufführungen und prüfen Sie die Anschlagtafel draußen, um aktuelle Veranstaltungen zu entdecken.",
+            "hu": "Tekintse meg ezt a nyüzsgő kulturális központot, amely színházi előadásoknak ad otthont, és nézze meg a kinti hirdetőtáblát az aktuális eseményekért.",
+            "ro": "Vizitați acest centru cultural vibrant ce găzduiește numeroase piese de teatru și verificați avizierul exterior pentru a vedea evenimentele locale programate.",
+            "en": "Check out this vibrant cultural center which hosts many theatrical performances, and look at the bulletin board outside to see what local events are scheduled."
+          }
+        },
+        {
+          "name": {
+            "de": "Punto Azzurro 1",
+            "hu": "Punto Azzurro 1",
+            "ro": "Punto Azzurro 1",
+            "en": "Punto Azzurro 1"
+          },
+          "coords": [
+            10.453382,
+            43.347591
+          ],
+          "category": "recreational",
+          "arrive_at": "11:52",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.67,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem malerischen Küstenort mit herrlichem Blick auf das Tyrrhenische Meer, aber vergessen Sie Ihre Sonnencreme nicht.",
+            "hu": "Pihenjen ezen a festői tengerparti rekreációs helyen, ahonnan csodás kilátás nyílik a Tirrén-tengerre, de ne felejtse el a naptejet, mivel kevés az árnyék.",
+            "ro": "Relaxați-vă în acest loc pitoresc de recreere oferind priveliști superbe spre Marea Tireniană, însă nu uitați crema de protecție solară, umbra fiind limitată.",
+            "en": "Relax at this scenic coastal recreation spot offering pristine views of the Tyrrhenian Sea, but don't forget your sunscreen as shade is quite limited here."
+          }
+        },
+        {
+          "name": {
+            "de": "Dune Mosse",
+            "hu": "Dune Mosse",
+            "ro": "Dune Mosse",
+            "en": "Dune Mosse"
+          },
+          "coords": [
+            10.454667,
+            43.345131
+          ],
+          "category": "recreational",
+          "arrive_at": "12:57",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.29,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die ikonischen, welligen Sanddünen, die die wunderschöne Küste prägen, und tragen Sie bequeme Schuhe für den weichen Sand.",
+            "hu": "Sétáljon a gyönyörű helyi partvonalat jellemző ikonikus homokdűnék között, és viseljen kényelmes cipőt, amivel könnyedén mozoghat a puha homokban.",
+            "ro": "Plimbați-vă printre aceste dune de nisip ondulate iconice ce caracterizează frumoasa coastă, purtând încălțăminte comodă pentru a naviga nisipul moale.",
+            "en": "Walk among these iconic undulating sand dunes that characterize the beautiful local coastline, wearing comfortable shoes to navigate the soft, shifting sands."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen unseren Rundgang im historischen Herzen von Vada, besichtigen die wunderschöne Chiesa di San Leopoldo Re und entdecken dann den imposanten Torre di Vada und die friedliche Madonna.\nGegen Mittag wenden wir uns der kulturellen Seite der Stadt zu, verbringen Zeit im Teatro L'Ordigno, saugen die kreative Atmosphäre auf und machen uns dann auf den Weg zur Küste.\nDer Nachmittag ist der Meeresbrise am Punto Azzurro 1 gewidmet, wo die beruhigenden Klänge der Wellen eine perfekte natürliche Kulisse für eine wohlverdiente Entspannung bieten.\nWir beenden unseren gemütlichen Tag an der atemberaubenden Dune Mosse und spazieren entlang der ikonischen Sanddünen, während das Abendlicht die tyrrhenische Küste in warme Farben taucht.",
+        "hu": "Sétánkat Vada történelmi szívében kezdjük, belépünk a gyönyörű Chiesa di San Leopoldo Re-be, majd felfedezzük az impozáns Torre di Vada-t és a békés Madonna nevezetességet.\nA dél közeledtével a város kulturális oldala felé vesszük az irányt, és a Teatro L'Ordigno-ban töltünk egy kis időt, magunkba szívva a kreatív helyi hangulatot, mielőtt a part felé vennénk az irányt.\nA délután a tengeri szellőnek van szentelve a Punto Azzurro 1-nél, ahol a hullámok nyugtató hangja tökéletes természetes hátteret biztosít a jól megérdemelt pihenéshez.\nKellemes napunkat a lenyűgöző Dune Mosse-nál zárjuk, sétálva az ikonikus homokdűnék mentén, miközben az esti fény gyönyörű, meleg árnyalatokkal festi meg a tirrén partot.",
+        "ro": "Începem turul nostru pietonal în inima istorică a Vadei, intrând în frumoasa Chiesa di San Leopoldo Re înainte de a descoperi impunătorul Torre di Vada și pașnicul reper Madonna.\nPe măsură ce se apropie amiaza, ne îndreptăm spre latura culturală a orașului petrecând timp la Teatro L'Ordigno, absorbind atmosfera creativă locală înainte de a ne îndrepta spre țărm.\nDupă-amiaza este dedicată brizei mării la Punto Azzurro 1, unde sunetele liniștitoare ale valurilor oferă un cadru natural perfect pentru o relaxare bine meritată.\nÎncheiem ziua noastră relaxantă la uimitoarea Dune Mosse, plimbându-ne de-a lungul dunelor iconice de nisip în timp ce lumina serii pictează coasta tireniană în nuanțe calde.",
+        "en": "We begin our walking tour in the historic heart of Vada, stepping into the beautiful Chiesa di San Leopoldo Re before discovering the imposing Torre di Vada and the peaceful Madonna landmark.\nAs midday approaches, we transition towards the cultural side of the town by spending time at Teatro L'Ordigno, absorbing the creative local atmosphere before heading toward the shore.\nThe afternoon is dedicated to the sea breeze at Punto Azzurro 1, where the soothing sounds of the waves provide a perfect natural backdrop for some well-deserved relaxation.\nWe conclude our leisurely day at the stunning Dune Mosse, walking along the iconic sand dunes as the evening light paints the Tyrrhenian coast in beautiful, warm hues."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:43",
+      "total_km": 2.72,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di San Leopoldo Re",
+            "hu": "Chiesa di San Leopoldo Re",
+            "ro": "Chiesa di San Leopoldo Re",
+            "en": "Chiesa di San Leopoldo Re"
+          },
+          "coords": [
+            10.455073,
+            43.351432
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser historischen Kirche, die das Zentrum der Gemeinde Vada bildet, und kommen Sie früh, bevor der Nachmittagsansturm beginnt.",
+            "hu": "Csodálja meg a Vada közösségét összefogó történelmi templom gyönyörű építészetét, és mindenképpen érkezzen korán, hogy elkerülje a délutáni tömeget.",
+            "ro": "Admirați arhitectura minunată a acestei biserici istorice ce ancorează comunitatea din Vada, asigurându-vă că o vizitați devreme pentru a evita aglomerația.",
+            "en": "Admire the beautiful architecture of this historic church that has anchored Vada's community, making sure to visit early before the afternoon crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre di Vada",
+            "hu": "Torre di Vada",
+            "ro": "Torre di Vada",
+            "en": "Torre di Vada"
+          },
+          "coords": [
+            10.454097,
+            43.350851
+          ],
+          "category": "tower",
+          "arrive_at": "09:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen markanten Küstenturm, der einst vor Piraten schützte, und bringen Sie eine gute Kamera mit, um die historischen Steinstrukturen einzufangen.",
+            "hu": "Fedezze fel ezt a lenyűgöző tengerparti tornyot, amely egykor a kalózok ellen védett, és hozzon magával fényképezőgépet a kőtextúrák megörökítéséhez.",
+            "ro": "Explorați acest turn de coastă impresionant care odinioară proteja împotriva piraților și luați un aparat foto bun pentru a surprinde detaliile din piatră.",
+            "en": "Explore this striking coastal tower that once guarded against pirates, and consider bringing a good camera to capture its historical stone textures up close."
+          }
+        },
+        {
+          "name": {
+            "de": "Vada Volaterrana",
+            "hu": "Vada Volaterrana",
+            "ro": "Vada Volaterrana",
+            "en": "Vada Volaterrana"
+          },
+          "coords": [
+            10.448022,
+            43.359423
+          ],
+          "category": "historical",
+          "arrive_at": "10:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.07,
+          "tip_5lang": {
+            "de": "Entdecken Sie die antiken archäologischen Wurzeln der römischen Hafenstadt, die hier einst florierte, und tragen Sie festes Schuhwerk für die unebenen Ruinen.",
+            "hu": "Fedezze fel az egykor itt virágzó római kikötőváros ősi régészeti gyökereit, és mindenképpen viseljen masszív lábbelit az egyenetlen romok közötti sétához.",
+            "ro": "Descoperiți vechile rădăcini arheologice ale orașului portuar roman ce a prosperat aici, asigurându-vă că purtați încălțăminte rezistentă pe terenul accidentat.",
+            "en": "Discover the ancient archaeological roots of the Roman port city that once thrived here, ensuring you wear sturdy footwear for walking through the uneven ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "La Lanterna",
+            "hu": "La Lanterna",
+            "ro": "La Lanterna",
+            "en": "La Lanterna"
+          },
+          "coords": [
+            10.44327,
+            43.35826
+          ],
+          "category": "recreational",
+          "arrive_at": "11:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie eine angenehme Pause an diesem beliebten Strandabschnitt mit seiner maritimen Atmosphäre und probieren Sie den Kiosk für ein erfrischendes Getränk.",
+            "hu": "Élvezze a kellemes pihenést ezen a nyüzsgő tengerparti helyen, és feltétlenül próbálja ki a közeli kioszkot egy frissítő helyi italért a nap folyamán.",
+            "ro": "Bucurați-vă de o pauză plăcută în acest loc popular de la plajă cu o atmosferă maritimă vibrantă și încercați un chioșc local pentru o băutură răcoritoare.",
+            "en": "Enjoy a pleasant break at this popular beachside spot known for its vibrant maritime atmosphere, and try the nearby kiosk for a refreshing local drink."
+          }
+        },
+        {
+          "name": {
+            "de": "Sole Mare",
+            "hu": "Sole Mare",
+            "ro": "Sole Mare",
+            "en": "Sole Mare"
+          },
+          "coords": [
+            10.444089,
+            43.356645
+          ],
+          "category": "recreational",
+          "arrive_at": "12:47",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den sanft plätschernden Wellen dieses einladenden Küstenabschnitts und bringen Sie Ihr eigenes Handtuch mit, um den Horizont zu betrachten.",
+            "hu": "Lazítson a lágyan hullámzó víz mellett ezen a barátságos partszakaszon, és hozzon magával saját strandtörölközőt, ha szeretné megcsodálni a békés horizontot.",
+            "ro": "Relaxați-vă lângă valurile liniștite ale acestei zone primitoare a țărmului, aducând propriul prosop de plajă dacă doriți să admirați orizontul pașnic.",
+            "en": "Unwind by the gently lapping waves at this welcoming stretch of the shoreline, bringing your own beach towel if you plan to sit and watch the peaceful horizon."
+          }
+        },
+        {
+          "name": {
+            "de": "Ponte di Pietrabianca",
+            "hu": "Ponte di Pietrabianca",
+            "ro": "Ponte di Pietrabianca",
+            "en": "Ponte di Pietrabianca"
+          },
+          "coords": [
+            10.44205,
+            43.365231
+          ],
+          "category": "historical",
+          "arrive_at": "13:53",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.96,
+          "tip_5lang": {
+            "de": "Fotografieren Sie diese charmante historische Brücke, die sich perfekt in die toskanische Landschaft einfügt, und besuchen Sie sie früh für das beste Morgenlicht.",
+            "hu": "Fényképezze le ezt a bájos történelmi hidat, amely tökéletesen illeszkedik a toszkán tájba, és látogasson el ide kora reggel a legjobb fényviszonyok érdekében.",
+            "ro": "Fotografiați acest pod istoric fermecător ce se integrează perfect în peisajul toscan înconjurător, vizitându-l dimineața devreme pentru cea mai bună lumină.",
+            "en": "Photograph this charming historical bridge that blends perfectly into the surrounding Tuscan landscape, visiting early to catch the best morning light conditions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer an der beeindruckenden Chiesa di San Leopoldo Re und dem historischen Torre di Vada, bevor Sie landeinwärts radeln, um die Wurzeln der Vada Volaterrana zu entdecken.\nGegen Mittag fahren wir zurück zur Küste, um die lebendige maritime Energie im La Lanterna zu genießen, der perfekte Ort, um Luft zu holen und das glitzernde Meer zu beobachten.\nDie Nachmittagsfahrt geht weiter entlang der wunderschönen Küste nach Sole Mare, wo Sie sich direkt am Wasser entspannen und die wunderbare toskanische Küstensonne genießen können.\nBeenden Sie die Tour mit einer sanften Fahrt zur historischen Ponte di Pietrabianca, einem ruhigen Ort, an dem das schwindende Licht die umliegende Naturlandschaft perfekt hervorhebt.",
+        "hu": "Kezdje kerékpáros kalandját a lenyűgöző Chiesa di San Leopoldo Re-nél és a történelmi Torre di Vada-nál, majd tekerjen a szárazföld felé, hogy felfedezze Vada Volaterrana ősi gyökereit.\nDél körül visszatekerünk a partra, hogy élvezzük a nyüzsgő tengeri energiát a La Lanterna-nál, amely tökéletes arra, hogy kifújjuk magunkat és nézzük a csillogó tengert.\nA délutáni kerékpározás a gyönyörű partvonal mentén folytatódik a Sole Mare felé, ahol közvetlenül a víz mellett pihenhet és élvezheti a csodálatos toszkán parti napsütést.\nFejezze be az útitervet egy könnyed tekeréssel a történelmi Ponte di Pietrabianca felé, amely egy nyugodt hely, ahol a halványuló fény tökéletesen kiemeli a környező természeti tájat.",
+        "ro": "Începeți aventura pe bicicletă la impresionanta Chiesa di San Leopoldo Re și istoricul Torre di Vada înainte de a pedala spre interior pentru a descoperi rădăcinile Vada Volaterrana.\nÎn jurul prânzului, ne întoarcem spre coastă pentru a ne bucura de energia maritimă vibrantă la La Lanterna, un loc perfect pentru a vă trage sufletul și a privi marea sclipitoare.\nPlimbarea de după-amiază continuă de-a lungul frumoasei coaste până la Sole Mare, permițându-vă să vă relaxați chiar lângă apă și să absorbiți soarele minunat al coastei toscane.\nTerminați itinerariul cu o pedalare ușoară către istoricul Ponte di Pietrabianca, un loc liniștit unde lumina palidă evidențiază perfect peisajul natural înconjurător.",
+        "en": "Kick off your cycling adventure at the impressive Chiesa di San Leopoldo Re and the historical Torre di Vada before pedaling inland to uncover the ancient roots of Vada Volaterrana.\nAround noon, we ride back toward the coast to enjoy the vibrant maritime energy at La Lanterna, perfect for catching your breath and watching the sparkling sea.\nThe afternoon ride continues along the beautiful shoreline to Sole Mare, allowing you to relax right by the water and soak up the wonderful Tuscan coastal sunshine.\nFinish the itinerary with a gentle pedal to the historic Ponte di Pietrabianca, a tranquil spot where the fading light perfectly highlights the surrounding natural landscape."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:37",
+      "total_km": 3.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ponte di Pietrabianca",
+            "hu": "Ponte di Pietrabianca",
+            "ro": "Ponte di Pietrabianca",
+            "en": "Ponte di Pietrabianca"
+          },
+          "coords": [
+            10.44205,
+            43.365231
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fotografieren Sie diese charmante historische Brücke, die sich perfekt in die toskanische Landschaft einfügt, und besuchen Sie sie früh für das beste Morgenlicht.",
+            "hu": "Fényképezze le ezt a bájos történelmi hidat, amely tökéletesen illeszkedik a toszkán tájba, és látogasson el ide kora reggel a legjobb fényviszonyok érdekében.",
+            "ro": "Fotografiați acest pod istoric fermecător ce se integrează perfect în peisajul toscan înconjurător, vizitându-l dimineața devreme pentru cea mai bună lumină.",
+            "en": "Photograph this charming historical bridge that blends perfectly into the surrounding Tuscan landscape, visiting early to catch the best morning light conditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Vada Volaterrana",
+            "hu": "Vada Volaterrana",
+            "ro": "Vada Volaterrana",
+            "en": "Vada Volaterrana"
+          },
+          "coords": [
+            10.448022,
+            43.359423
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die antiken archäologischen Wurzeln der römischen Hafenstadt, die hier einst florierte, und tragen Sie festes Schuhwerk für die unebenen Ruinen.",
+            "hu": "Fedezze fel az egykor itt virágzó római kikötőváros ősi régészeti gyökereit, és mindenképpen viseljen masszív lábbelit az egyenetlen romok közötti sétához.",
+            "ro": "Descoperiți vechile rădăcini arheologice ale orașului portuar roman ce a prosperat aici, asigurându-vă că purtați încălțăminte rezistentă pe terenul accidentat.",
+            "en": "Discover the ancient archaeological roots of the Roman port city that once thrived here, ensuring you wear sturdy footwear for walking through the uneven ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro L'Ordigno",
+            "hu": "Teatro L'Ordigno",
+            "ro": "Teatro L'Ordigno",
+            "en": "Teatro L'Ordigno"
+          },
+          "coords": [
+            10.456532,
+            43.353217
+          ],
+          "category": "cultural",
+          "arrive_at": "11:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.97,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses lebendige Kulturzentrum mit vielen Theateraufführungen und prüfen Sie die Anschlagtafel draußen, um aktuelle Veranstaltungen zu entdecken.",
+            "hu": "Tekintse meg ezt a nyüzsgő kulturális központot, amely színházi előadásoknak ad otthont, és nézze meg a kinti hirdetőtáblát az aktuális eseményekért.",
+            "ro": "Vizitați acest centru cultural vibrant ce găzduiește numeroase piese de teatru și verificați avizierul exterior pentru a vedea evenimentele locale programate.",
+            "en": "Check out this vibrant cultural center which hosts many theatrical performances, and look at the bulletin board outside to see what local events are scheduled."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre di Vada",
+            "hu": "Torre di Vada",
+            "ro": "Torre di Vada",
+            "en": "Torre di Vada"
+          },
+          "coords": [
+            10.454097,
+            43.350851
+          ],
+          "category": "tower",
+          "arrive_at": "12:56",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen markanten Küstenturm, der einst vor Piraten schützte, und bringen Sie eine gute Kamera mit, um die historischen Steinstrukturen einzufangen.",
+            "hu": "Fedezze fel ezt a lenyűgöző tengerparti tornyot, amely egykor a kalózok ellen védett, és hozzon magával fényképezőgépet a kőtextúrák megörökítéséhez.",
+            "ro": "Explorați acest turn de coastă impresionant care odinioară proteja împotriva piraților și luați un aparat foto bun pentru a surprinde detaliile din piatră.",
+            "en": "Explore this striking coastal tower that once guarded against pirates, and consider bringing a good camera to capture its historical stone textures up close."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Leopoldo Re",
+            "hu": "Chiesa di San Leopoldo Re",
+            "ro": "Chiesa di San Leopoldo Re",
+            "en": "Chiesa di San Leopoldo Re"
+          },
+          "coords": [
+            10.455073,
+            43.351432
+          ],
+          "category": "religious",
+          "arrive_at": "13:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser historischen Kirche, die das Zentrum der Gemeinde Vada bildet, und kommen Sie früh, bevor der Nachmittagsansturm beginnt.",
+            "hu": "Csodálja meg a Vada közösségét összefogó történelmi templom gyönyörű építészetét, és mindenképpen érkezzen korán, hogy elkerülje a délutáni tömeget.",
+            "ro": "Admirați arhitectura minunată a acestei biserici istorice ce ancorează comunitatea din Vada, asigurându-vă că o vizitați devreme pentru a evita aglomerația.",
+            "en": "Admire the beautiful architecture of this historic church that has anchored Vada's community, making sure to visit early before the afternoon crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Punto Azzurro 2",
+            "hu": "Punto Azzurro 2",
+            "ro": "Punto Azzurro 2",
+            "en": "Punto Azzurro 2"
+          },
+          "coords": [
+            10.454349,
+            43.346111
+          ],
+          "category": "recreational",
+          "arrive_at": "14:04",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.59,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Küste von diesem hervorragenden Aussichtspunkt in Meeresnähe, und halten Sie eine leichte Jacke für die Seebrise bereit.",
+            "hu": "Gyönyörködjön a tengerparti panorámában erről a kiváló tengerközeli kilátópontról, és tartson kéznél egy vékony kabátot, ha felerősödik a délutáni szél.",
+            "ro": "Admirați priveliștea panoramică de coastă de la acest excelent punct de observație de lângă mare, având la îndemână o jachetă ușoară pentru briza după-amiezii.",
+            "en": "Take in the panoramic coastal views from this excellent vantage point near the sea, keeping a light jacket handy in case the afternoon sea breeze picks up."
+          }
+        },
+        {
+          "name": {
+            "de": "Il tesorino",
+            "hu": "Il tesorino",
+            "ro": "Il tesorino",
+            "en": "Il tesorino"
+          },
+          "coords": [
+            10.456209,
+            43.336115
+          ],
+          "category": "recreational",
+          "arrive_at": "15:07",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.12,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem versteckten Juwel in einer ruhigen natürlichen Umgebung, und bleiben Sie bis zur Dämmerung, wenn die Farben über dem Wasser magisch sind.",
+            "hu": "Fejezze be a napot ezen a nyugodt, természetes környezetet kínáló rejtett gyöngyszemen, és maradjon sötétedésig, amikor a víz feletti színek egyenesen varázslatosak.",
+            "ro": "Încheiați ziua în această bijuterie ascunsă cu un cadru natural liniștit, asigurându-vă că rămâneți până la amurg când culorile apei sunt pur și simplu magice.",
+            "en": "End your day at this hidden gem of a spot offering a tranquil natural setting, making sure to stay until dusk when the colors over the water are simply magical."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Roadtrip mit der Erkundung der Schätze im Landesinneren, beginnend mit der charmanten Ponte di Pietrabianca und dann mit den faszinierenden Ruinen von Vada Volaterrana.\nFahren Sie zurück ins Stadtzentrum, um im Teatro L'Ordigno in die lokale Kultur einzutauchen, gefolgt von einem kurzen Besuch des nahegelegenen historischen Torre di Vada.\nAm Nachmittag erweisen Sie der Chiesa di San Leopoldo Re die Ehre, bevor Sie die malerische Küstenstraße entlangfahren, um sich zu entspannen und die Aussicht am Punto Azzurro 2 zu genießen.\nFahren Sie zum perfekten Abschluss zum Il tesorino, einem wunderbaren Naturort, wo Sie sich entspannen und den Sonnenuntergang über dem ruhigen Wasser in völliger Stille beobachten können.",
+        "hu": "Kezdje autós utazását a szárazföldi kincsek felfedezésével, induljon a bájos Ponte di Pietrabianca-tól, majd merüljön el Vada Volaterrana lenyűgöző romjaiban.\nVezessen vissza a városközpontba, hogy elmerüljön a helyi kultúrában a Teatro L'Ordigno-ban, amelyet egy gyors látogatás követ a közeli történelmi Torre di Vada-nál.\nDélután tegye tiszteletét a Chiesa di San Leopoldo Re-nél, mielőtt végighajt a festői tengerparti úton, hogy pihenjen és gyönyörködjön a kilátásban a Punto Azzurro 2-nél.\nA tökéletes befejezés érdekében autózzon el az Il tesorino-hoz, egy csodálatos természeti helyhez, ahol teljes nyugalomban lazíthat és nézheti a naplementét a nyugodt víz felett.",
+        "ro": "Începeți călătoria cu mașina explorând comorile din interior, începând cu fermecătorul Ponte di Pietrabianca și apoi aprofundând ruinele fascinante de la Vada Volaterrana.\nConduceți înapoi spre centrul orașului pentru a vă scufunda în cultura locală la Teatro L'Ordigno, urmată de o vizită rapidă la istoricul Torre di Vada din apropiere.\nDupă-amiaza, aduceți un omagiu la Chiesa di San Leopoldo Re înainte de a conduce pe drumul de coastă pitoresc pentru a vă relaxa și admira priveliștea la Punto Azzurro 2.\nPentru o concluzie perfectă, conduceți până la Il tesorino, un minunat loc natural unde vă puteți relaxa și privi apusul peste apele liniștite într-o seninătate completă.",
+        "en": "Start your road trip by exploring the inland treasures, beginning with the charming Ponte di Pietrabianca and then delving into the fascinating ruins of Vada Volaterrana.\nDrive back towards the town center to immerse yourself in local culture at Teatro L'Ordigno, followed by a quick visit to the nearby historical Torre di Vada.\nIn the afternoon, pay respects at the Chiesa di San Leopoldo Re before driving down the scenic coastal road to relax and take in the beautiful views at Punto Azzurro 2.\nFor the perfect conclusion, drive out to Il tesorino, a wonderful natural spot where you can unwind and watch the sun set over the calm waters in complete serenity."
+      }
+    }
+  }
+}

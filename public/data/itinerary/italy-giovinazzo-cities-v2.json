@@ -1,0 +1,451 @@
+{
+  "city_id": "italy-giovinazzo-cities-v2",
+  "anchor": {
+    "name": "Giovinazzo",
+    "coords": [
+      16.67168,
+      41.18748
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:40",
+      "total_km": 1.31,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche San Domenico",
+            "hu": "San Domenico templom",
+            "ro": "Biserica San Domenico",
+            "en": "Church of San Domenico"
+          },
+          "coords": [
+            16.67231,
+            41.186964
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Barockfassade der Chiesa di San Domenico und achten Sie auf die kunstvollen Fresken im Inneren, bevor Sie den nahegelegenen Platz erkunden.",
+            "hu": "Csodálja meg a Chiesa di San Domenico elegáns barokk homlokzatát, és figyelje meg a belső tér művészi freskóit, mielőtt felfedezné a közeli történelmi teret.",
+            "ro": "Admirați fațada barocă elegantă a Bisericii San Domenico și observați frescele artistice din interior înainte de a explora piața istorică din apropiere.",
+            "en": "Admire the elegant Baroque facade of Chiesa di San Domenico and take note of the artistic interior frescoes before exploring the nearby historic square."
+          }
+        },
+        {
+          "name": {
+            "de": "Trajansbogen",
+            "hu": "Traianus-diadalív",
+            "ro": "Arcul lui Traian",
+            "en": "Trajan's Arch"
+          },
+          "coords": [
+            16.672851,
+            41.188326
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Durchschreiten Sie den historischen Arco Traiano, der einst als wichtiges Stadttor diente, und berühren Sie die antiken Steine, um die Geschichte hautnah zu spüren.",
+            "hu": "Sétáljon át a történelmi Arco Traianón, amely egykor fontos városkapuként szolgált, és érintse meg az ősi köveket, hogy testközelből érezze a történelmet.",
+            "ro": "Treceți prin istoricul Arco Traiano, care a servit cândva ca poartă principală a orașului, și atingeți pietrele antice pentru a simți istoria profundă.",
+            "en": "Walk through the historic Arco Traiano, which once served as a major city gate, and touch the ancient stones to truly feel the deep history of Giovinazzo."
+          }
+        },
+        {
+          "name": {
+            "de": "Schwarze Kieselsteine Paludi dei Dinosauri",
+            "hu": "Paludi dei Dinosauri fekete kavicsok",
+            "ro": "Pietricele negre Paludi dei Dinosauri",
+            "en": "Black Pebbles of Paludi dei Dinosauri"
+          },
+          "coords": [
+            16.669255,
+            41.189908
+          ],
+          "category": "landmark",
+          "arrive_at": "11:17",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden dunklen Felsformationen dieses Naturdenkmals und tragen Sie bequeme Schuhe, um die einzigartige Küstenlandschaft sicher zu erkunden.",
+            "hu": "Fedezze fel ezen természeti emlékmű lenyűgöző sötét sziklaképződményeit, és viseljen kényelmes cipőt a part menti táj biztonságos felfedezéséhez.",
+            "ro": "Descoperiți fascinantele formațiuni de rocă închisă ale acestui monument natural și purtați pantofi comozi pentru a explora peisajul de coastă în siguranță.",
+            "en": "Discover the fascinating dark rock formations of this unique natural landmark, and make sure to wear comfortable shoes for exploring the rugged terrain safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der Gefallenen auf See",
+            "hu": "Tengeri Áldozatok Emlékműve",
+            "ro": "Monumentul Eroilor Mării",
+            "en": "Monument to the Fallen at Sea"
+          },
+          "coords": [
+            16.663338,
+            41.19024
+          ],
+          "category": "historical",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Halten Sie einen Moment inne am Denkmal für die Gefallenen des Meeres, das einen fantastischen Blick auf die Adria bietet, am besten bei ruhigem Seegang.",
+            "hu": "Álljon meg egy pillanatra a tengeri áldozatok emlékművénél, amely fantasztikus kilátást nyújt az Adriai-tengerre, érdemes nyugodt tengeri viszonyoknál idelátogatni.",
+            "ro": "Opriți-vă un moment la monumentul eroilor căzuți pe mare, care oferă o vedere fantastică asupra Mării Adriatice, și vizitați locul preferabil când marea este calmă.",
+            "en": "Pause for a moment of reflection at the monument to those lost at sea, which offers a fantastic view of the Adriatic, and try to visit when the waters are calm."
+          }
+        },
+        {
+          "name": {
+            "de": "Kriegerdenkmal",
+            "hu": "Háborús Emlékmű",
+            "ro": "Monumentul Eroilor de Război",
+            "en": "War Memorial"
+          },
+          "coords": [
+            16.660148,
+            41.190997
+          ],
+          "category": "historical",
+          "arrive_at": "13:50",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses ergreifende Kriegerdenkmal, um die lokale Geschichte zu würdigen, und lesen Sie die Inschriften, die an den Mut vergangener Generationen erinnern.",
+            "hu": "Látogassa meg ezt a megható háborús emlékművet a helyi történelem tiszteletére, és olvassa el a feliratokat, amelyek a múlt generációk bátorságára emlékeztetnek.",
+            "ro": "Vizitați acest impresionant monument de război pentru a onora istoria locală și citiți inscripțiile care amintesc de curajul generațiilor trecute.",
+            "en": "Visit this poignant war memorial to honor local history, and read the inscriptions that serve as a lasting reminder of the courage of past generations."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag in Giovinazzo beginnt im historischen Zentrum, wo architektonische Juwelen wie die Kirche San Domenico auf Sie warten. Ein kurzer Spaziergang durch die verwinkelten Gassen führt Sie zum majestätischen Arco Traiano.\n\nZur Mittagszeit nähern Sie sich der Küste und entdecken die einzigartigen Felsformationen der Paludi dei Dinosauri. Die frische Meeresbrise ist hier besonders angenehm.\n\nDer Nachmittag ist der jüngeren Geschichte gewidmet. Sie spazieren entspannt entlang der Küstenpromenade und erreichen bedeutende Monumente, die an die Gefallenen auf See und an Land erinnern.\n\nAm späten Nachmittag lassen Sie die Eindrücke am Denkmal der Kriegsgefallenen auf sich wirken. Das sanfte Licht der untergehenden Sonne taucht die Küstenstadt in ein goldenes, unvergessliches Licht.",
+        "hu": "A nap Giovinazzóban a történelmi központban kezdődik, ahol olyan építészeti gyöngyszemek várják, mint a San Domenico templom. Egy rövid séta a kanyargós utcákon elvezeti a fenséges Arco Traianohoz.\n\nDélben a part felé közeledik, és felfedezi a Paludi dei Dinosauri egyedülálló sötét sziklaalakzatait. A friss tengeri szellő itt különösen kellemes és hűsítő a meleg napokon.\n\nA délután a közelmúlt történelmének van szentelve. Kényelmesen sétál a tengerparti sétányon, és jelentős műemlékeket ér el, amelyek a tengeren és a szárazföldön elesett hősökre emlékeztetnek.\n\nKéső délután a háborús áldozatok emlékművénél elmélyülhet a gondolataiban. A lemenő nap lágy fénye felejthetetlen arany fénybe öltözteti ezt a gyönyörű parti várost.",
+        "ro": "Ziua în Giovinazzo începe în centrul istoric, unde vă așteaptă bijuterii arhitecturale precum Biserica San Domenico. O scurtă plimbare pe străzile șerpuite vă duce la maiestuosul Arco Traiano.\n\nLa prânz vă apropiați de coastă și descoperiți formațiunile unice de stâncă ale Paludi dei Dinosauri. Briza proaspătă a mării este deosebit de plăcută și răcoroasă aici.\n\nDupă-amiaza este dedicată istoriei recente. Vă plimbați relaxat de-a lungul promenadei de coastă și ajungeți la monumente importante care comemorează pe cei căzuți pe mare și pe uscat.\n\nSpre seară, lăsați impresiile să vă cuprindă la monumentul eroilor de război. Lumina blândă a soarelui la apus învăluie orașul de coastă într-o strălucire aurie, de neuitat.",
+        "en": "Your day in Giovinazzo begins in the historic center, where architectural gems like the San Domenico Church await. A short walk through winding streets brings you to the majestic Arco Traiano.\n\nBy midday, you approach the beautiful coastline to discover the unique dark rock formations of the Paludi dei Dinosauri. The fresh sea breeze here provides a wonderful and refreshing atmosphere.\n\nThe afternoon is dedicated to reflecting on recent history. A relaxing stroll along the coastal promenade takes you past significant monuments that commemorate the brave heroes lost at sea and on land.\n\nIn the late afternoon, you can gather your thoughts at the poignant war memorial. The soft, fading light of the setting sun bathes this charming coastal town in a truly unforgettable golden glow."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:58",
+      "total_km": 3.21,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kulturzentrum ARCI 37",
+            "hu": "ARCI 37 Kulturális Központ",
+            "ro": "Centrul Cultural ARCI 37",
+            "en": "Cultural Center ARCI 37"
+          },
+          "coords": [
+            16.682769,
+            41.181019
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die authentische süditalienische Kultur in diesem lebhaften Kulturzentrum und erkundigen Sie sich am Eingang nach aktuellen lokalen Veranstaltungen.",
+            "hu": "Tapasztalja meg az autentikus dél-olasz kultúrát ebben a nyüzsgő kulturális központban, és érdeklődjön a bejáratnál az aktuális helyi eseményekről.",
+            "ro": "Experimentați cultura autentică din sudul Italiei în acest centru cultural plin de viață și întrebați la intrare despre evenimentele sau expozițiile locale actuale.",
+            "en": "Experience authentic Southern Italian culture at this vibrant cultural hub, and be sure to ask at the entrance about any current local events or community art."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Domenico",
+            "hu": "San Domenico templom",
+            "ro": "Biserica San Domenico",
+            "en": "Church of San Domenico"
+          },
+          "coords": [
+            16.67231,
+            41.186964
+          ],
+          "category": "religious",
+          "arrive_at": "10:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Barockfassade der Chiesa di San Domenico und achten Sie auf die kunstvollen Fresken im Inneren, bevor Sie den nahegelegenen Platz erkunden.",
+            "hu": "Csodálja meg a Chiesa di San Domenico elegáns barokk homlokzatát, és figyelje meg a belső tér művészi freskóit, mielőtt felfedezné a közeli történelmi teret.",
+            "ro": "Admirați fațada barocă elegantă a Bisericii San Domenico și observați frescele artistice din interior înainte de a explora piața istorică din apropiere.",
+            "en": "Admire the elegant Baroque facade of Chiesa di San Domenico and take note of the artistic interior frescoes before exploring the nearby historic square."
+          }
+        },
+        {
+          "name": {
+            "de": "Trajansbogen",
+            "hu": "Traianus-diadalív",
+            "ro": "Arcul lui Traian",
+            "en": "Trajan's Arch"
+          },
+          "coords": [
+            16.672851,
+            41.188326
+          ],
+          "category": "historical",
+          "arrive_at": "10:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Durchschreiten Sie den historischen Arco Traiano, der einst als wichtiges Stadttor diente, und berühren Sie die antiken Steine, um die Geschichte hautnah zu spüren.",
+            "hu": "Sétáljon át a történelmi Arco Traianón, amely egykor fontos városkapuként szolgált, és érintse meg az ősi köveket, hogy testközelből érezze a történelmet.",
+            "ro": "Treceți prin istoricul Arco Traiano, care a servit cândva ca poartă principală a orașului, și atingeți pietrele antice pentru a simți istoria profundă.",
+            "en": "Walk through the historic Arco Traiano, which once served as a major city gate, and touch the ancient stones to truly feel the deep history of Giovinazzo."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Monaci",
+            "hu": "Monaci part",
+            "ro": "Plaja Monaci",
+            "en": "Monaci Beach"
+          },
+          "coords": [
+            16.662077,
+            41.192206
+          ],
+          "category": "recreational",
+          "arrive_at": "12:23",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem ruhigen Küstenabschnitt fernab der Touristenmassen und bringen Sie Ihre eigene Schnorchelausrüstung mit, um die Unterwasserwelt zu bewundern.",
+            "hu": "Pihenjen meg ezen a csendes tengerparti szakaszon, távol a turisták tömegétől, és hozzon magával saját búvárfelszerelést a víz alatti világ megcsodálásához.",
+            "ro": "Relaxați-vă pe această porțiune liniștită de coastă departe de mulțimea de turiști și aduceți-vă propriul echipament de snorkeling pentru a admira lumea marină.",
+            "en": "Relax along this quiet stretch of the coastline far from the usual tourist crowds, and consider bringing your own snorkeling gear to admire the marine life."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Azzurro",
+            "hu": "Lido Azzurro",
+            "ro": "Lido Azzurro",
+            "en": "Lido Azzurro"
+          },
+          "coords": [
+            16.657611,
+            41.191803
+          ],
+          "category": "recreational",
+          "arrive_at": "13:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die Sonne im familienfreundlichen Lido Azzurro und mieten Sie sich frühzeitig einen Liegestuhl, da dieser beliebte Strandabschnitt schnell voll werden kann.",
+            "hu": "Élvezze a napsütést a családbarát Lido Azzurróban, és béreljen napágyat korán, mivel ez a népszerű partszakasz gyorsan megtelhet látogatókkal a főszezonban.",
+            "ro": "Bucurați-vă de soare la Lido Azzurro, un loc potrivit pentru familii, și închiriați un șezlong din timp, deoarece această secțiune de plajă se aglomerează rapid.",
+            "en": "Soak up the Mediterranean sun at the family-friendly Lido Azzurro, and try to rent your sunbed early since this popular stretch of beach can fill up rapidly."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Lafayette",
+            "hu": "Lido Lafayette",
+            "ro": "Lido Lafayette",
+            "en": "Lido Lafayette"
+          },
+          "coords": [
+            16.651193,
+            41.191179
+          ],
+          "category": "recreational",
+          "arrive_at": "14:28",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag im eleganten Lido Lafayette mit einem erfrischenden Cocktail ausklingen und probieren Sie unbedingt die lokalen Meeresfrüchte im Restaurant.",
+            "hu": "Zárja a napot az elegáns Lido Lafayette-ben egy frissítő koktéllal, és feltétlenül kóstolja meg a helyi tenger gyümölcseit a csatolt tengerparti étteremben.",
+            "ro": "Încheiați ziua în elegantul Lido Lafayette cu un cocktail revigorant și asigurați-vă că gustați fructele de mare locale proaspete în restaurantul de pe plajă.",
+            "en": "End your active day at the elegant Lido Lafayette with a refreshing evening cocktail, and make sure to sample the fresh local seafood available at the restaurant."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Fahrradtour im authentischen Circolo ARCI 37, um die lokale Kultur aufzunehmen. Radeln Sie anschließend entspannt in Richtung des historischen Herzens von Giovinazzo zur San Domenico Kirche.\n\nVor dem Mittagessen erkunden Sie den antiken Arco Traiano. Danach führt Sie der Weg entlang der herrlichen Adriaküste zu den ruhigen Felsabschnitten rund um Monaci, ideal für eine Pause.\n\nAm Nachmittag lockt der familienfreundliche Lido Azzurro. Hier können Sie die Fahrräder kurz abstellen, um sich im erfrischenden Meerwasser abzukühlen und die mediterrane Sonne zu genießen.\n\nDer Tag endet gemütlich im eleganten Lido Lafayette. Mit dem Fahrrad erreichen Sie bequem diesen schönen Strandclub, um bei einem Cocktail und Meeresrauschen den Sonnenuntergang zu feiern.",
+        "hu": "Kezdje kerékpártúráját az autentikus Circolo ARCI 37-ben, és szívja magába a helyi kultúrát. Ezután tekerjen nyugodtan Giovinazzo történelmi szíve felé a San Domenico templomhoz.\n\nEbéd előtt fedezze fel az ősi Arco Traianót. Ezután az útvonal a csodálatos Adriai-tenger partján vezet a Monaci körüli csendes sziklás szakaszokhoz, amely tökéletes egy rövid pihenőre.\n\nDélután a családbarát Lido Azzurro csábít. Itt rövid időre leteheti a kerékpárokat, hogy lehűljön a frissítő tengervízben, és élvezze a csodálatos mediterrán napsütést.\n\nA nap az elegáns Lido Lafayette-ben ér véget kényelmesen. Kerékpárral könnyedén elérheti ezt a gyönyörű strandklubot, hogy egy koktéllal és a tenger zúgásával ünnepelje a naplementét.",
+        "ro": "Începeți turul cu bicicleta la autenticul Circolo ARCI 37 pentru a absorbi cultura locală. Apoi pedalați relaxat spre inima istorică a orașului Giovinazzo către Biserica San Domenico.\n\nÎnainte de prânz explorați anticul Arco Traiano. Traseul vă duce apoi de-a lungul coastei minunate a Adriaticii până la porțiunile stâncoase liniștite din jurul Monaci, ideale pentru o pauză scurtă.\n\nDupă-amiaza vă atrage Lido Azzurro, potrivit pentru familii. Aici vă puteți lăsa bicicletele pentru un scurt timp pentru a vă răcori în apa mării și pentru a vă bucura de soarele mediteranean.\n\nZiua se încheie confortabil la elegantul Lido Lafayette. Cu bicicleta ajungeți cu ușurință la acest club de plajă frumos pentru a sărbători apusul cu un cocktail și sunetul valurilor.",
+        "en": "Start your cycling tour at the authentic Circolo ARCI 37 to soak up some vibrant local culture. From there, enjoy a leisurely pedal towards the historic heart of Giovinazzo and the San Domenico Church.\n\nJust before lunch, explore the ancient Arco Traiano. The scenic route then guides you along the stunning Adriatic coast to the tranquil rocky stretches around Monaci, perfect for a short break.\n\nThe afternoon brings you to the welcoming, family-friendly Lido Azzurro. Park your bikes for a while to cool off in the refreshing seawater and bask comfortably in the warm Mediterranean sun.\n\nYour active day concludes pleasantly at the elegant Lido Lafayette. A quick bike ride brings you to this beautiful beach club, where you can celebrate the spectacular sunset with a cool drink."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:07",
+      "total_km": 2.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schwarze Kieselsteine Paludi dei Dinosauri",
+            "hu": "Paludi dei Dinosauri fekete kavicsok",
+            "ro": "Pietricele negre Paludi dei Dinosauri",
+            "en": "Black Pebbles of Paludi dei Dinosauri"
+          },
+          "coords": [
+            16.669255,
+            41.189908
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden dunklen Felsformationen dieses Naturdenkmals und tragen Sie bequeme Schuhe, um die einzigartige Küstenlandschaft sicher zu erkunden.",
+            "hu": "Fedezze fel ezen természeti emlékmű lenyűgöző sötét sziklaképződményeit, és viseljen kényelmes cipőt a part menti táj biztonságos felfedezéséhez.",
+            "ro": "Descoperiți fascinantele formațiuni de rocă închisă ale acestui monument natural și purtați pantofi comozi pentru a explora peisajul de coastă în siguranță.",
+            "en": "Discover the fascinating dark rock formations of this unique natural landmark, and make sure to wear comfortable shoes for exploring the rugged terrain safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der Gefallenen auf See",
+            "hu": "Tengeri Áldozatok Emlékműve",
+            "ro": "Monumentul Eroilor Mării",
+            "en": "Monument to the Fallen at Sea"
+          },
+          "coords": [
+            16.663338,
+            41.19024
+          ],
+          "category": "historical",
+          "arrive_at": "10:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Halten Sie einen Moment inne am Denkmal für die Gefallenen des Meeres, das einen fantastischen Blick auf die Adria bietet, am besten bei ruhigem Seegang.",
+            "hu": "Álljon meg egy pillanatra a tengeri áldozatok emlékművénél, amely fantasztikus kilátást nyújt az Adriai-tengerre, érdemes nyugodt tengeri viszonyoknál idelátogatni.",
+            "ro": "Opriți-vă un moment la monumentul eroilor căzuți pe mare, care oferă o vedere fantastică asupra Mării Adriatice, și vizitați locul preferabil când marea este calmă.",
+            "en": "Pause for a moment of reflection at the monument to those lost at sea, which offers a fantastic view of the Adriatic, and try to visit when the waters are calm."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Trincea",
+            "hu": "Lido Trincea",
+            "ro": "Lido Trincea",
+            "en": "Lido Trincea"
+          },
+          "coords": [
+            16.659057,
+            41.191608
+          ],
+          "category": "recreational",
+          "arrive_at": "11:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Nutzen Sie die hervorragenden Schwimmmöglichkeiten am Lido Trincea und nehmen Sie Badeschuhe mit, um den steinigen Zugang zum Wasser bequem zu meistern.",
+            "hu": "Használja ki a kiváló úszási lehetőségeket a Lido Trincea-nál, és hozzon magával fürdőcipőt, hogy kényelmesen megbirkózzon a kristálytiszta víz köves bejáratával.",
+            "ro": "Profitați de opțiunile excelente de înot de la Lido Trincea și purtați pantofi de apă pentru a naviga confortabil intrarea stâncoasă în apa cristalină.",
+            "en": "Take advantage of the excellent swimming conditions at Lido Trincea, and remember to pack water shoes to comfortably navigate the rocky entrance into the water."
+          }
+        },
+        {
+          "name": {
+            "de": "L'Arena",
+            "hu": "L'Arena",
+            "ro": "L'Arena",
+            "en": "L'Arena"
+          },
+          "coords": [
+            16.64843,
+            41.191762
+          ],
+          "category": "recreational",
+          "arrive_at": "12:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Treffen Sie sich an diesem lebendigen Strandabschnitt, der oft Musikveranstaltungen bietet, und kommen Sie am späten Nachmittag, um die Atmosphäre auszukosten.",
+            "hu": "Találkozzon ezen az élettel teli partszakaszon, ahol gyakran tartanak zenei rendezvényeket, és érkezzen késő délután, hogy teljes mértékben kiélvezze a hangulatot.",
+            "ro": "Întâlniți-vă pe această porțiune plină de viață a plajei, care oferă adesea evenimente muzicale, și veniți după-amiaza târziu pentru a vă bucura de atmosferă.",
+            "en": "Mingle at this lively beach spot that frequently hosts daytime music events, and plan to arrive in the late afternoon to fully soak up the festive atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Mikki Beach",
+            "hu": "Mikki Beach",
+            "ro": "Mikki Beach",
+            "en": "Mikki Beach"
+          },
+          "coords": [
+            16.645011,
+            41.191064
+          ],
+          "category": "recreational",
+          "arrive_at": "13:36",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entspannen Sie in der jugendlichen und hippen Atmosphäre von Mikki Beach und probieren Sie die kreativen Snacks, die direkt an die Strandliegen serviert werden.",
+            "hu": "Pihenjen a Mikki Beach fiatalos és divatos légkörében, és kóstolja meg a kreatív rágcsálnivalókat, amelyeket közvetlenül a napágyakhoz szolgálnak fel a parton.",
+            "ro": "Relaxați-vă în atmosfera tânără și modernă de la Mikki Beach și gustați gustările creative care sunt servite direct la șezlongurile de pe plajă.",
+            "en": "Unwind in the youthful and trendy atmosphere of Mikki Beach, and be sure to try the creative artisan snacks that are conveniently served right to your sunbed."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Mar Strandbistro",
+            "hu": "Le Mar tengerparti bisztró",
+            "ro": "Bistroul de plajă Le Mar",
+            "en": "Le Mar Beach Bistrot"
+          },
+          "coords": [
+            16.64372,
+            41.191226
+          ],
+          "category": "recreational",
+          "arrive_at": "14:37",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich ein köstliches Abendessen im Le Mar beach bistrot direkt am Meer und reservieren Sie im Voraus einen Tisch in der ersten Reihe für den perfekten Sonnenuntergang.",
+            "hu": "Kényeztesse magát egy ízletes vacsorával a tengerparti Le Mar beach bistrotban, és foglaljon előre asztalt az első sorban a tökéletes naplemente élményéért.",
+            "ro": "Răsfățați-vă cu o cină delicioasă la bistroul de plajă Le Mar chiar lângă mare și rezervați în avans o masă în primul rând pentru apusul perfect al soarelui.",
+            "en": "Treat yourself to a delicious sunset dinner right by the sea at Le Mar beach bistrot, and remember to book a front-row table in advance for the best coastal views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Erkundungstour mit dem Auto beginnt bei den faszinierenden Felsformationen der Paludi dei Dinosauri. Die unberührte Natur bietet einen dramatischen Kontrast zur nahen Zivilisation.\n\nKurz darauf erreichen Sie das eindrucksvolle Monument für die Gefallenen auf See. Von hier aus fahren Sie entspannt weiter zum Lido Trincea, wo Sie ein erstes Bad im kristallklaren Wasser nehmen können.\n\nDer Nachmittag steht ganz im Zeichen der lebhaften Strandkultur. Sie besuchen das energiegeladene L'Arena und lassen sich anschließend von der hippen, jugendlichen Atmosphäre im Mikki Beach mitreißen.\n\nZum krönenden Abschluss parken Sie beim Le Mar beach bistrot. Genießen Sie ein hervorragendes Abendessen direkt am Strand, während die untergehende Sonne den Himmel über der Adria bunt färbt.",
+        "hu": "Autós felfedezőútja a Paludi dei Dinosauri lenyűgöző sziklaképződményeinél kezdődik. Az érintetlen természet drámai kontrasztot alkot a közeli civilizációval és a városi élettel.\n\nRöviddel ezután eléri a tengeri áldozatok lenyűgöző emlékművét. Innen nyugodtan autózhat tovább a Lido Trincea felé, ahol először fürödhet meg a kristálytiszta, frissítő vízben.\n\nA délután az élénk strandkultúráról szól. Látogasson el az energikus L'Arena strandklubba, majd hagyja, hogy magával ragadja a Mikki Beach divatos, fiatalos és nagyon laza hangulata.\n\nMegkoronázásként parkoljon le a Le Mar beach bistrot közelében. Élvezze a kiváló vacsorát közvetlenül a tengerparton, miközben a lemenő nap színesre festi az eget az Adriai-tenger felett.",
+        "ro": "Turul dumneavoastră de explorare cu mașina începe la fascinantele formațiuni stâncoase Paludi dei Dinosauri. Natura neatinsă oferă un contrast dramatic cu civilizația din apropiere.\n\nLa scurt timp după aceea ajungeți la impresionantul monument al eroilor căzuți pe mare. De aici conduceți relaxat spre Lido Trincea, unde puteți face o primă baie în apa cristalină.\n\nDupă-amiaza este dedicată în întregime culturii vibrante de plajă. Vizitați energicul L'Arena și apoi lăsați-vă purtați de atmosfera modernă și tânără de la uimitoarea Mikki Beach.\n\nCa o încununare, parcați lângă Le Mar beach bistrot. Bucurați-vă de o cină excelentă direct pe plajă, în timp ce soarele la apus colorează cerul deasupra Mării Adriatice în nuanțe spectaculoase.",
+        "en": "Your driving tour begins at the fascinating dark rock formations of the Paludi dei Dinosauri. The rugged, untouched nature here offers a dramatic contrast to the nearby coastal civilization.\n\nShortly after, you arrive at the impressive monument to those lost at sea. From there, take a short drive to Lido Trincea, where you can enjoy your first refreshing dip in the crystal-clear waters.\n\nThe afternoon is all about vibrant local beach culture. You will visit the highly energetic L'Arena before being swept away by the trendy, youthful, and lively atmosphere at the popular Mikki Beach.\n\nFor the grand finale, park your car near the Le Mar beach bistrot. Enjoy an outstanding seafood dinner right on the sandy beach while the setting sun paints the sky over the glorious Adriatic Sea."
+      }
+    }
+  }
+}

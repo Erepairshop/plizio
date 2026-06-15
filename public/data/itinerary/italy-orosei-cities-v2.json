@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-orosei-cities-v2",
+  "anchor": {
+    "name": "Orosei",
+    "coords": [
+      9.69501,
+      40.37918
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:16",
+      "total_km": 0.88,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Monumentalkomplex Sant'Antonio",
+            "hu": "Sant'Antonio Műemlékegyüttes",
+            "ro": "Complexul Monumental Sant'Antonio",
+            "en": "Monumental Complex of Sant'Antonio"
+          },
+          "coords": [
+            9.692763,
+            40.377528
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie den historischen Sant'Antonio-Komplex mit seinem alten Turm und mittelalterlichen Innenhof und kommen Sie früh am Tag, um die Mittagssonne zu vermeiden.",
+            "hu": "Fedezze fel a történelmi Sant'Antonio komplexumot az ősi toronnyal, és érkezzen kora reggel, hogy nyugodtan csodálhassa meg a középkori udvart a hőség elől menekülve.",
+            "ro": "Explorați complexul istoric Sant'Antonio cu turnul său antic și curtea medievală, sosind devreme în timpul zilei pentru a evita căldura de la prânz.",
+            "en": "Explore the historic Sant'Antonio complex with its ancient tower and medieval courtyard, taking time to admire the frescoes and visiting early in the day to avoid the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrhaus Su Probanu",
+            "hu": "Su Probanu Parókia",
+            "ro": "Casa Parohială Su Probanu",
+            "en": "Rectory House Su Probanu"
+          },
+          "coords": [
+            9.693428,
+            40.378844
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Dieses alte Pfarrhaus zeigt traditionelle sardische Architektur und bietet Einblicke in das klerikale Leben, also tragen Sie bequeme Schuhe für die unebenen Böden.",
+            "hu": "Ez az ősi parókia a hagyományos szárd építészetet mutatja be, így kényelmes cipőt viseljen az egyenetlen macskaköves padlón való biztonságos közlekedéshez.",
+            "ro": "Această veche casă parohială prezintă arhitectura tradițională sardă, așa că purtați încălțăminte confortabilă pentru a naviga în siguranță pe podelele sale inegale de piatră.",
+            "en": "This ancient rectory showcases traditional Sardinian architecture, offering a glimpse into local clerical life, so wear comfortable shoes to navigate its uneven cobblestone floors."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Don Giovanni Guiso",
+            "hu": "Don Giovanni Guiso Múzeum",
+            "ro": "Muzeul Don Giovanni Guiso",
+            "en": "Don Giovanni Guiso Museum"
+          },
+          "coords": [
+            9.695278,
+            40.378752
+          ],
+          "category": "museum",
+          "arrive_at": "11:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Entdecken Sie Don Giovanni Guisos faszinierende Sammlung von Miniaturtheatern und fragen Sie das Personal unbedingt nach der Geschichte seiner einzigartigen Kuratierung.",
+            "hu": "Fedezze fel Don Giovanni Guiso miniatűr színházakból álló lenyűgöző gyűjteményét, és mindenképpen kérdezze meg a múzeum munkatársait a kiállítás történelmi hátteréről.",
+            "ro": "Descoperiți colecția fascinantă de teatre în miniatură a lui Don Giovanni Guiso, asigurându-vă că întrebați personalul muzeului despre istoria din spatele selecției sale.",
+            "en": "Discover Don Giovanni Guiso's fascinating collection of miniature theaters and rare books, making sure to ask the museum staff about the fascinating history behind his curation."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Giacomo Maggiore",
+            "hu": "San Giacomo Maggiore templom",
+            "ro": "Biserica San Giacomo Maggiore",
+            "en": "Church of San Giacomo Maggiore"
+          },
+          "coords": [
+            9.695932,
+            40.38012
+          ],
+          "category": "religious",
+          "arrive_at": "13:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Bewundern Sie die barocke Fassade von San Giacomo Maggiore im Zentrum und treten Sie in respektvoller Stille ein, um das historische hölzerne Baptisterium zu besichtigen.",
+            "hu": "Csodálja meg a főtér központjában álló San Giacomo Maggiore barokk homlokzatát, és lépjen be, hogy tiszteletteljes csendben megtekinthesse a csodálatos fa keresztelőkutat.",
+            "ro": "Admirați fațada barocă impresionantă a bisericii San Giacomo Maggiore și pășiți înăuntru în liniște pentru a vizita frumosul baptisteriu din lemn sculptat.",
+            "en": "Admire the impressive baroque facade of San Giacomo Maggiore, the focal point of the town square, and step inside to view its wooden baptistery while keeping a respectful silence."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Unserer Lieben Frau der Gnaden",
+            "hu": "Kegyelmes Szűzanya-templom",
+            "ro": "Biserica Maicii Domnului a Harurilor",
+            "en": "Church of Our Lady of Graces"
+          },
+          "coords": [
+            9.698695,
+            40.379371
+          ],
+          "category": "religious",
+          "arrive_at": "14:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Diese anmutige Kirche bietet wunderschöne Innendekorationen und eine friedliche Umgebung, also schalten Sie Ihr Telefon aus, bevor Sie das ruhige Heiligtum betreten.",
+            "hu": "Ez a kecses templom gyönyörű belső díszítéssel és békés környezettel rendelkezik, ezért a szentélybe lépés előtt kapcsolja ki a telefonját a nyugodt elmélkedéshez.",
+            "ro": "Această biserică grațioasă are decorațiuni interioare frumoase și oferă un moment perfect de reflecție, așa că opriți telefonul înainte de a intra în acest sanctuar pașnic.",
+            "en": "This graceful church features beautiful interior decorations and peaceful surroundings, providing a perfect moment of reflection, so turn off your phone before entering the sanctuary."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Gavino",
+            "hu": "San Gavino templom",
+            "ro": "Biserica San Gavino",
+            "en": "Church of San Gavino"
+          },
+          "coords": [
+            9.699096,
+            40.380761
+          ],
+          "category": "religious",
+          "arrive_at": "15:06",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Diese kleine, aber feine Kirche, die San Gavino gewidmet ist, hat eine tiefe lokale Bedeutung, also bringen Sie ein Weitwinkelobjektiv mit, um ihr bescheidenes Äußeres einzufangen.",
+            "hu": "Ez a San Gavinónak szentelt, eldugott kis templom mély helyi jelentőséggel bír, így hozzon magával széles látószögű lencsét, hogy megörökítse szerény külsejét.",
+            "ro": "Această mică dar fermecătoare biserică dedicată lui San Gavino are o importanță locală profundă, așa că aduceți un obiectiv grandangular pentru a-i surprinde exteriorul.",
+            "en": "Hidden off the main path, this small but charming church dedicated to San Gavino holds deep local significance, so bring a wide-angle lens to capture its quaint and modest exterior."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im historischen Sant'Antonio-Komplex, bevor Sie die Casa Rettorale erkunden. Mittags tauchen Sie im Guiso-Museum in die Kultur ein. Am Nachmittag bewundern Sie San Giacomo Maggiore und die nahegelegenen spirituellen Stätten. Beenden Sie Ihren Spaziergang am Abend bei San Gavino und lassen Sie das reiche Erbe von Orosei auf sich wirken.",
+        "hu": "Kezdje a reggelt a történelmi Sant'Antonio komplexumban, majd fedezze fel a Casa Rettorale varázsát. Délben kulturális elmélyülés várja a Guiso Múzeumban. Délután csodálja meg az elegáns San Giacomo Maggiore-t és a közeli szellemi helyszíneket. Fejezze be sétáját este a San Gavino templomnál, visszatekintve Orosei gazdag örökségére.",
+        "ro": "Începeți dimineața la complexul istoric Sant'Antonio înainte de a explora farmecul Casei Rettorale. La amiază vă scufundați în cultura Muzeului Guiso. După-amiaza, admirați eleganta biserică San Giacomo Maggiore și siturile spirituale din apropiere. Încheiați-vă plimbarea ușoară seara la San Gavino, reflectând asupra moștenirii bogate din Orosei.",
+        "en": "Start your morning at the historic Sant'Antonio complex before exploring the rustic charm of Casa Rettorale. Midday brings cultural immersion at the fascinating Guiso Museum. In the afternoon, marvel at the elegant San Giacomo Maggiore and nearby spiritual sites. Conclude your gentle walking tour in the evening at San Gavino, reflecting on Orosei's rich heritage."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:28",
+      "total_km": 4.86,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Heiligtum Unserer Lieben Frau vom Heilmittel",
+            "hu": "Gyógyító Szűzanya Szentély",
+            "ro": "Sanctuarul Maicii Domnului a Remediului",
+            "en": "Sanctuary of Our Lady of the Remedy"
+          },
+          "coords": [
+            9.683657,
+            40.38293
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Das Heiligtum ist historisch von 'cumbessias' für Pilger umgeben, was eine einzigartige spirituelle Atmosphäre bietet, also prüfen Sie den Kalender auf Festtermine.",
+            "hu": "A szentélyt történelmileg zarándokok számára épített 'cumbessiák' veszik körül, így érdemes a helyi naptárat ellenőrizni a nyüzsgő fesztiválok és ünnepségek időpontjaiért.",
+            "ro": "Sanctuarul este înconjurat istoric de 'cumbessias' construite pentru pelerini, oferind o atmosferă spirituală, deci verificați calendarul local pentru datele festivalurilor.",
+            "en": "The sanctuary is historically surrounded by 'cumbessias' built for pilgrims, offering a unique spiritual atmosphere, and you should check the local calendar for vibrant festival dates."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuraghe Panatta",
+            "hu": "Nuraghe Panatta",
+            "ro": "Nuraghe Panatta",
+            "en": "Nuraghe Panatta"
+          },
+          "coords": [
+            9.675672,
+            40.388217
+          ],
+          "category": "historical",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alte Nuraghe Panatta als Zeugnis der prähistorischen Nuraghenkultur, aber gehen Sie vorsichtig, da die antiken Steine rutschig und überwuchert sein können.",
+            "hu": "Fedezze fel az ősi Nuraghe Panattát, amely Szardínia történelem előtti nuraghe civilizációjának bizonyítéka, de lépkedjen óvatosan a csúszós és növényzettel benőtt köveken.",
+            "ro": "Explorați vechiul Nuraghe Panatta, o dovadă a civilizației preistorice sarde, dar pășiți cu atenție deoarece pietrele milenare pot fi alunecoase și acoperite de vegetație.",
+            "en": "Explore the ancient Nuraghe Panatta, a testament to Sardinia's prehistoric Nuragic civilization, but step carefully as the stones can be slippery and overgrown with vegetation."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Don Giovanni Guiso",
+            "hu": "Don Giovanni Guiso Múzeum",
+            "ro": "Muzeul Don Giovanni Guiso",
+            "en": "Don Giovanni Guiso Museum"
+          },
+          "coords": [
+            9.695278,
+            40.378752
+          ],
+          "category": "museum",
+          "arrive_at": "11:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie Don Giovanni Guisos faszinierende Sammlung von Miniaturtheatern und fragen Sie das Personal unbedingt nach der Geschichte seiner einzigartigen Kuratierung.",
+            "hu": "Fedezze fel Don Giovanni Guiso miniatűr színházakból álló lenyűgöző gyűjteményét, és mindenképpen kérdezze meg a múzeum munkatársait a kiállítás történelmi hátteréről.",
+            "ro": "Descoperiți colecția fascinantă de teatre în miniatură a lui Don Giovanni Guiso, asigurându-vă că întrebați personalul muzeului despre istoria din spatele selecției sale.",
+            "en": "Discover Don Giovanni Guiso's fascinating collection of miniature theaters and rare books, making sure to ask the museum staff about the fascinating history behind his curation."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Giacomo Maggiore",
+            "hu": "San Giacomo Maggiore templom",
+            "ro": "Biserica San Giacomo Maggiore",
+            "en": "Church of San Giacomo Maggiore"
+          },
+          "coords": [
+            9.695932,
+            40.38012
+          ],
+          "category": "religious",
+          "arrive_at": "13:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Bewundern Sie die barocke Fassade von San Giacomo Maggiore im Zentrum und treten Sie in respektvoller Stille ein, um das historische hölzerne Baptisterium zu besichtigen.",
+            "hu": "Csodálja meg a főtér központjában álló San Giacomo Maggiore barokk homlokzatát, és lépjen be, hogy tiszteletteljes csendben megtekinthesse a csodálatos fa keresztelőkutat.",
+            "ro": "Admirați fațada barocă impresionantă a bisericii San Giacomo Maggiore și pășiți înăuntru în liniște pentru a vizita frumosul baptisteriu din lemn sculptat.",
+            "en": "Admire the impressive baroque facade of San Giacomo Maggiore, the focal point of the town square, and step inside to view its wooden baptistery while keeping a respectful silence."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumentalkomplex Sant'Antonio",
+            "hu": "Sant'Antonio Műemlékegyüttes",
+            "ro": "Complexul Monumental Sant'Antonio",
+            "en": "Monumental Complex of Sant'Antonio"
+          },
+          "coords": [
+            9.692763,
+            40.377528
+          ],
+          "category": "historical",
+          "arrive_at": "13:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie den historischen Sant'Antonio-Komplex mit seinem alten Turm und mittelalterlichen Innenhof und kommen Sie früh am Tag, um die Mittagssonne zu vermeiden.",
+            "hu": "Fedezze fel a történelmi Sant'Antonio komplexumot az ősi toronnyal, és érkezzen kora reggel, hogy nyugodtan csodálhassa meg a középkori udvart a hőség elől menekülve.",
+            "ro": "Explorați complexul istoric Sant'Antonio cu turnul său antic și curtea medievală, sosind devreme în timpul zilei pentru a evita căldura de la prânz.",
+            "en": "Explore the historic Sant'Antonio complex with its ancient tower and medieval courtyard, taking time to admire the frescoes and visiting early in the day to avoid the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Giovanni Battista",
+            "hu": "Keresztelő Szent János-templom",
+            "ro": "Biserica Sfântul Ioan Botezătorul",
+            "en": "Church of San Giovanni Battista"
+          },
+          "coords": [
+            9.702921,
+            40.387781
+          ],
+          "category": "religious",
+          "arrive_at": "15:18",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Diese malerische Kapelle, die San Giovanni Battista gewidmet ist, ist ein architektonisches Juwel der Gegend und ein perfekter Ort zum Fotografieren während der goldenen Stunde.",
+            "hu": "Ez a Keresztelő Szent Jánosnak szentelt festői kápolna a környék igazi építészeti gyöngyszeme, amely a késő délutáni aranyórában tökéletes és varázslatos fotózási helyszín.",
+            "ro": "Această capelă pitorească dedicată Sfântului Ioan Botezătorul este o bijuterie arhitecturală a zonei, fiind un loc perfect pentru fotografie în timpul orei de aur.",
+            "en": "This picturesque chapel dedicated to San Giovanni Battista is an architectural gem of the area, making it a perfect spot for photography during the golden hour of the late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens zum ruhigen Heiligtum des Heilmittels und den alten Steinen der Nuraghe Panatta. Mittags kehren Sie ins Zentrum zurück, um im Guiso-Museum Theatergeschichte zu entdecken. Verbringen Sie den Nachmittag damit, San Giacomo und den historischen Sant'Antonio-Komplex zu bewundern. Beenden Sie Ihre Fahrt abends bei San Giovanni Battista im Sonnenuntergang.",
+        "hu": "Kerékpározzon reggel a nyugodt Gyógyító Szentélyhez és a Nuraghe Panatta ősi köveihez. Délre térjen vissza a központba, hogy felfedezze a Guiso Múzeum színháztörténetét. Töltse a délutánt a San Giacomo és a történelmi Sant'Antonio komplexum megcsodálásával. Fejezze be esti túráját a San Giovanni Battistánál, miközben a nap lenyugszik a város felett.",
+        "ro": "Porniți dimineața cu bicicleta spre Sanctuarul Remediului și pietrele antice de la Nuraghe Panatta. La prânz, reveniți în centru pentru a descoperi istoria Muzeului Guiso. Petreceți după-amiaza admirând San Giacomo și complexul istoric Sant'Antonio. Terminați-vă plimbarea de seară la San Giovanni Battista în timp ce soarele apune peste oraș.",
+        "en": "Pedal out in the morning to the tranquil Sanctuary of the Remedy and the ancient stones of Nuraghe Panatta. By midday, return to the town center to uncover theatrical history at the Guiso Museum. Spend your afternoon admiring the grandeur of San Giacomo and the historic Sant'Antonio complex. Finish your evening ride at San Giovanni Battista as the sun sets over the town."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:20",
+      "total_km": 8.07,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ruinen von Loddhusio",
+            "hu": "Loddhusio Szűzanya romjai",
+            "ro": "Ruinele Maicii Domnului din Loddhusio",
+            "en": "Ruins of Our Lady of Loddhusio"
+          },
+          "coords": [
+            9.679454,
+            40.381936
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Die stimmungsvollen Ruinen von Loddhusio erinnern an Jahrhunderte vergessener Geschichte, also bringen Sie Wasser und gute Wanderschuhe mit, um die Stätte sicher zu erkunden.",
+            "hu": "A Nostra Signora di Loddhusio hangulatos romjai évszázados elfeledett történelmet idéznek fel, ezért hozzon vizet és jó túracipőt a terület biztonságos és kényelmes felfedezéséhez.",
+            "ro": "Ruinele pline de atmosferă de la Loddhusio evocă secole de istorie uitată, așa că aduceți apă și încălțăminte bună de mers pentru a explora situl arheologic în siguranță.",
+            "en": "The atmospheric ruins of Nostra Signora di Loddhusio evoke centuries of forgotten history amidst the Sardinian landscape, so bring water and good walking shoes to explore the site safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Heiligtum Unserer Lieben Frau vom Heilmittel",
+            "hu": "Gyógyító Szűzanya Szentély",
+            "ro": "Sanctuarul Maicii Domnului a Remediului",
+            "en": "Sanctuary of Our Lady of the Remedy"
+          },
+          "coords": [
+            9.683657,
+            40.38293
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Das Heiligtum ist historisch von 'cumbessias' für Pilger umgeben, was eine einzigartige spirituelle Atmosphäre bietet, also prüfen Sie den Kalender auf Festtermine.",
+            "hu": "A szentélyt történelmileg zarándokok számára épített 'cumbessiák' veszik körül, így érdemes a helyi naptárat ellenőrizni a nyüzsgő fesztiválok és ünnepségek időpontjaiért.",
+            "ro": "Sanctuarul este înconjurat istoric de 'cumbessias' construite pentru pelerini, oferind o atmosferă spirituală, deci verificați calendarul local pentru datele festivalurilor.",
+            "en": "The sanctuary is historically surrounded by 'cumbessias' built for pilgrims, offering a unique spiritual atmosphere, and you should check the local calendar for vibrant festival dates."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuraghe Panatta",
+            "hu": "Nuraghe Panatta",
+            "ro": "Nuraghe Panatta",
+            "en": "Nuraghe Panatta"
+          },
+          "coords": [
+            9.675672,
+            40.388217
+          ],
+          "category": "historical",
+          "arrive_at": "11:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alte Nuraghe Panatta als Zeugnis der prähistorischen Nuraghenkultur, aber gehen Sie vorsichtig, da die antiken Steine rutschig und überwuchert sein können.",
+            "hu": "Fedezze fel az ősi Nuraghe Panattát, amely Szardínia történelem előtti nuraghe civilizációjának bizonyítéka, de lépkedjen óvatosan a csúszós és növényzettel benőtt köveken.",
+            "ro": "Explorați vechiul Nuraghe Panatta, o dovadă a civilizației preistorice sarde, dar pășiți cu atenție deoarece pietrele milenare pot fi alunecoase și acoperite de vegetație.",
+            "en": "Explore the ancient Nuraghe Panatta, a testament to Sardinia's prehistoric Nuragic civilization, but step carefully as the stones can be slippery and overgrown with vegetation."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuraghe Muriè",
+            "hu": "Nuraghe Muriè",
+            "ro": "Nuraghe Muriè",
+            "en": "Nuraghe Muriè"
+          },
+          "coords": [
+            9.710263,
+            40.392265
+          ],
+          "category": "historical",
+          "arrive_at": "12:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die massiven Basaltblöcke der Nuraghe Muriè, die das lokale Gelände dominieren, und achten Sie auf Informationstafeln zu den komplexen Bautechniken.",
+            "hu": "Csodálja meg a Nuraghe Muriè hatalmas bazalttömbjeit, amelyek uralják a helyi terepet, és keresse a bonyolult építési technikákat magyarázó részletes információs táblákat.",
+            "ro": "Priviți blocurile masive de bazalt ale Nuraghe Muriè care domină terenul local și căutați panourile informative care explică tehnicile complexe de construcție folosite aici.",
+            "en": "Witness the massive basalt blocks of Nuraghe Muriè which dominate the local terrain, and look out for informational placards that explain the complex construction techniques used."
+          }
+        },
+        {
+          "name": {
+            "de": "Nurache 'e portu",
+            "hu": "Nurache 'e portu",
+            "ro": "Nurache 'e portu",
+            "en": "Nurache 'e portu"
+          },
+          "coords": [
+            9.721418,
+            40.385013
+          ],
+          "category": "historical",
+          "arrive_at": "14:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Die küstennahe Nurache 'e portu bietet Einblicke in die strategische maritime Verteidigung der alten Sarden, wobei eine leichte Windjacke wegen der Meeresbrise empfohlen wird.",
+            "hu": "A part közelében fekvő Nurache 'e portu bepillantást enged az ősi szárdok stratégiai tengeri védelmébe, és a tengeri szél miatt érdemes egy könnyű széldzsekit is bekészítenie.",
+            "ro": "Poziționat lângă coastă, Nurache 'e portu oferă informații despre apărarea maritimă antică, iar o jachetă de vânt este recomandată pentru briza puternică a mării.",
+            "en": "Positioned near the coast, Nurache 'e portu offers insights into the strategic maritime defense of ancient Sardinians, and packing a light windbreaker is recommended for the sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumentalkomplex Sant'Antonio",
+            "hu": "Sant'Antonio Műemlékegyüttes",
+            "ro": "Complexul Monumental Sant'Antonio",
+            "en": "Monumental Complex of Sant'Antonio"
+          },
+          "coords": [
+            9.692763,
+            40.377528
+          ],
+          "category": "historical",
+          "arrive_at": "15:30",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie den historischen Sant'Antonio-Komplex mit seinem alten Turm und mittelalterlichen Innenhof und kommen Sie früh am Tag, um die Mittagssonne zu vermeiden.",
+            "hu": "Fedezze fel a történelmi Sant'Antonio komplexumot az ősi toronnyal, és érkezzen kora reggel, hogy nyugodtan csodálhassa meg a középkori udvart a hőség elől menekülve.",
+            "ro": "Explorați complexul istoric Sant'Antonio cu turnul său antic și curtea medievală, sosind devreme în timpul zilei pentru a evita căldura de la prânz.",
+            "en": "Explore the historic Sant'Antonio complex with its ancient tower and medieval courtyard, taking time to admire the frescoes and visiting early in the day to avoid the midday sun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie früh zu den stimmungsvollen Loddhusio-Ruinen und dem historischen Heiligtum des Heilmittels. Verbringen Sie die Mittagszeit mit der Erkundung der prähistorischen Strukturen der Nuraghen Panatta und Muriè. Am Nachmittag fahren Sie zur Küstenverteidigungsanlage Nurache 'e portu. Beenden Sie Ihre Tour in der Dämmerung im Sant'Antonio-Komplex in Orosei.",
+        "hu": "Induljon korán a hangulatos Loddhusio romokhoz és a történelmi Gyógyító Szentélyhez. A telet töltse a Nuraghe Panatta és a Nuraghe Muriè ősi építményeinek felfedezésével. Délután induljon a part menti védelmi pont, a Nurache 'e portu felé. Autós túráját a naplementében, az Orosei-ben található Sant'Antonio komplexumnál fejezze be.",
+        "ro": "Conduceți devreme către ruinele Loddhusio și sanctuarul istoric al Remediului. Petreceți amiaza explorând structurile preistorice impresionante de la Nuraghe Panatta și Nuraghe Muriè. După-amiaza, îndreptați-vă spre situl de apărare de coastă Nurache 'e portu. Încheiați-vă turul auto înapoi în Orosei la complexul Sant'Antonio la lăsarea serii.",
+        "en": "Drive out early to the atmospheric Loddhusio ruins and the historic Sanctuary of the Remedy. Spend midday exploring the impressive prehistoric structures of Nuraghe Panatta and Nuraghe Muriè. In the afternoon, head towards the coastal defense site of Nurache 'e portu. End your driving tour back in Orosei at the Sant'Antonio complex as dusk falls."
+      }
+    }
+  }
+}

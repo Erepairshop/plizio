@@ -1,0 +1,497 @@
+{
+  "city_id": "ma-el-jadida-cities-v2",
+  "anchor": {
+    "name": "El Jadida",
+    "coords": [
+      -8.5007,
+      33.2316
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:41",
+      "total_km": 2.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cisterne Portuguese",
+            "hu": "Cisterne Portuguese",
+            "ro": "Cisterne Portuguese",
+            "en": "Cisterne Portuguese"
+          },
+          "coords": [
+            -8.502482,
+            33.256561
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotischen Gewölbe und beeindruckenden Wasserspiegelungen dieser historischen Zisterne; besuchen Sie sie am besten vormittags für ideales Fotolicht.",
+            "hu": "Csodálja meg a gótikus boltozatokat és a lenyűgöző víztükröződéseket ebben a történelmi ciszternában; a legjobb fotókhoz érdemes a délelőtti órákban érkezni.",
+            "ro": "Admirați bolțile gotice și reflexiile impresionante ale apei în această cisternă istorică; vizitați dimineața pentru o lumină ideală la fotografii.",
+            "en": "Marvel at the Gothic vaults and mesmerizing water reflections in this historic cistern; it is best to visit in the morning for the most ideal photographic lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Bastion of Angels",
+            "hu": "Bastion of Angels",
+            "ro": "Bastion of Angels",
+            "en": "Bastion of Angels"
+          },
+          "coords": [
+            -8.500396,
+            33.255914
+          ],
+          "category": "natural",
+          "arrive_at": "10:34",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Panoramablick auf den Atlantik von dieser alten Festungsmauer; achten Sie auf den starken Wind und nehmen Sie eine leichte Jacke mit.",
+            "hu": "Élvezze a széles panorámát az Atlanti-óceánra erről a régi erődítményről; ügyeljen az erős szélre, és mindenképpen vigyen magával egy könnyű kabátot.",
+            "ro": "Bucurați-vă de vederea panoramică asupra oceanului de pe acest vechi zid de fortificație; atenție la vântul puternic, așadar luați o jachetă ușoară cu dumneavoastră.",
+            "en": "Enjoy the sweeping panoramic views of the Atlantic Ocean from this ancient fortress wall; be mindful of the strong sea breeze and bring a light jacket along."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare Vert",
+            "hu": "Phare Vert",
+            "ro": "Phare Vert",
+            "en": "Phare Vert"
+          },
+          "coords": [
+            -8.495484,
+            33.256683
+          ],
+          "category": "landmark",
+          "arrive_at": "11:07",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Dieser kleine, grüne Leuchtturm markiert eindrucksvoll die Hafeneinfahrt und bietet ein schönes Fotomotiv; der Weg dorthin ist steinig, tragen Sie festes Schuhwerk.",
+            "hu": "Ez a kis zöld világítótorony látványosan jelzi a kikötő bejáratát és remek fotótéma; az oda vezető út köves, ezért mindenképpen viseljen kényelmes, zárt cipőt.",
+            "ro": "Acest mic far verde marchează impresionant intrarea în port și oferă un motiv foto excelent; drumul până acolo este pietros, așa că purtați încălțăminte solidă.",
+            "en": "This small green lighthouse impressively marks the harbor entrance and provides a great photo op; the path there is rocky, so ensure you wear sturdy footwear."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de la Résistance",
+            "hu": "Musée de la Résistance",
+            "ro": "Musée de la Résistance",
+            "en": "Musée de la Résistance"
+          },
+          "coords": [
+            -8.501025,
+            33.251583
+          ],
+          "category": "museum",
+          "arrive_at": "11:44",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie anhand lokaler Artefakte tief in die Unabhängigkeitsgeschichte Marokkos ein; die Beschriftungen sind oft auf Arabisch und Französisch, nutzen Sie eine Übersetzer-App.",
+            "hu": "Merüljön el Marokkó függetlenségi történetében a helyi műtárgyakon keresztül; a feliratok főként arab és francia nyelvűek, érdemes fordító alkalmazást használni.",
+            "ro": "Aprofundați istoria independenței Marocului prin intermediul artefactelor locale; descrierile sunt adesea în arabă și franceză, utilizați o aplicație de traducere.",
+            "en": "Delve deep into Morocco's history of independence through fascinating local artifacts; the signage is mostly in Arabic and French, so keep a translation app handy."
+          }
+        },
+        {
+          "name": {
+            "de": "Théatre Afifi",
+            "hu": "Théatre Afifi",
+            "ro": "Théatre Afifi",
+            "en": "Théatre Afifi"
+          },
+          "coords": [
+            -8.501988,
+            33.252168
+          ],
+          "category": "cultural",
+          "arrive_at": "13:27",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Betrachten Sie die einzigartige koloniale Architektur dieses bedeutenden Kulturzentrums; der Platz davor ist perfekt für eine kurze, entspannte Kaffeepause geeignet.",
+            "hu": "Vegyem szemügyre e fontos kulturális központ egyedülálló gyarmati építészetét; az előtte lévő tágas tér tökéletes egy rövid, pihentető kávészünethez.",
+            "ro": "Priviți arhitectura colonială unică a acestui important centru cultural local; piața din fața sa este perfectă pentru o scurtă și relaxantă pauză de cafea.",
+            "en": "Observe the unique colonial architecture of this significant cultural center; the square right in front of it is perfectly suited for a short, relaxing coffee break."
+          }
+        },
+        {
+          "name": {
+            "de": "Palais du Gouverneur",
+            "hu": "Palais du Gouverneur",
+            "ro": "Palais du Gouverneur",
+            "en": "Palais du Gouverneur"
+          },
+          "coords": [
+            -8.504805,
+            33.247919
+          ],
+          "category": "castle",
+          "arrive_at": "13:51",
+          "stay_min": 110,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die prächtigen Verzierungen und historischen Räume dieses majestätischen Palastes; kommen Sie am späten Nachmittag, wenn die Sonne die Fassade golden färbt.",
+            "hu": "Fedezze fel a fenséges palota pompás díszítéseit és történelmi termeit; érkezzen késő délután, amikor a lemenő nap arany színűre festi az épület homlokzatát.",
+            "ro": "Descoperiți ornamentele magnifice și încăperile istorice ale acestui palat majestuos; veniți spre sfârșitul după-amiezii când soarele colorează fațada în auriu.",
+            "en": "Discover the magnificent decorations and historic rooms of this majestic palace; plan to arrive in the late afternoon when the sun paints the entire facade gold."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Am Morgen erkunden Sie die historische portugiesische Zisterne und genießen die frische Meeresbrise am Bastion of Angels. Der Mittag führt Sie zum beeindruckenden Phare Vert mit Blick auf den Ozean. Am Nachmittag tauchen Sie im Musée de la Résistance in die lokale Geschichte ein und bewundern das Théatre Afifi. Der Tag endet majestätisch am Palais du Gouverneur im weichen Abendlicht.",
+        "hu": "Reggel felfedezheti a történelmi portugál ciszternát, majd a Bastion of Angels bástyánál élvezheti a tengeri szellőt. Délben a lenyűgöző Phare Vert világítótoronyhoz sétál, ahonnan csodás a kilátás. Délután a Musée de la Résistance múzeumban merülhet el a történelemben, majd megtekinti a Théatre Afifi épületét. A napot a Palais du Gouverneur fenséges látványa zárja az esti fényekben.",
+        "ro": "Dimineața explorați istorica Cisternă Portugheză și vă bucurați de briza mării la Bastion of Angels. La prânz, vizitați impresionantul Phare Vert care oferă priveliști superbe spre ocean. După-amiaza pătrundeți în istoria locală la Musée de la Résistance și admirați arhitectura de la Théatre Afifi. Ziua se încheie maiestuos la Palais du Gouverneur în lumina blândă a serii.",
+        "en": "In the morning, explore the historic Portuguese Cistern and enjoy the ocean breeze at the Bastion of Angels. Midday brings you to the impressive Phare Vert with sweeping views of the Atlantic. During the afternoon, delve into local history at the Musée de la Résistance and admire the striking Théatre Afifi. The day concludes majestically at the Palais du Gouverneur under the evening sky."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:09",
+      "total_km": 3.95,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Dar Edaw Lakdim",
+            "hu": "Dar Edaw Lakdim",
+            "ro": "Dar Edaw Lakdim",
+            "en": "Dar Edaw Lakdim"
+          },
+          "coords": [
+            -8.506517,
+            33.253988
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Diese alte Burgruine versetzt Sie zurück in die portugiesische Ära der Stadt; erkunden Sie die Gassen früh am Morgen, bevor die Touristenströme hier eintreffen.",
+            "hu": "Ez az ősi várrom visszarepíti Önt a város portugál korszakába; fedezze fel a szűk utcácskákat kora reggel, még mielőtt a nagyobb turistacsoportok megérkeznének.",
+            "ro": "Aceste vechi ruine de castel vă transpun în era portugheză a orașului; explorați străduțele devreme dimineața, înainte să ajungă valurile mari de turiști.",
+            "en": "This ancient castle ruin transports you right back to the city's Portuguese era; explore the narrow alleys early in the morning before the main tourist crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Cisterne Portuguese",
+            "hu": "Cisterne Portuguese",
+            "ro": "Cisterne Portuguese",
+            "en": "Cisterne Portuguese"
+          },
+          "coords": [
+            -8.502482,
+            33.256561
+          ],
+          "category": "landmark",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotischen Gewölbe und beeindruckenden Wasserspiegelungen dieser historischen Zisterne; besuchen Sie sie am besten vormittags für ideales Fotolicht.",
+            "hu": "Csodálja meg a gótikus boltozatokat és a lenyűgöző víztükröződéseket ebben a történelmi ciszternában; a legjobb fotókhoz érdemes a délelőtti órákban érkezni.",
+            "ro": "Admirați bolțile gotice și reflexiile impresionante ale apei în această cisternă istorică; vizitați dimineața pentru o lumină ideală la fotografii.",
+            "en": "Marvel at the Gothic vaults and mesmerizing water reflections in this historic cistern; it is best to visit in the morning for the most ideal photographic lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Bastion of Angels",
+            "hu": "Bastion of Angels",
+            "ro": "Bastion of Angels",
+            "en": "Bastion of Angels"
+          },
+          "coords": [
+            -8.500396,
+            33.255914
+          ],
+          "category": "natural",
+          "arrive_at": "11:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Panoramablick auf den Atlantik von dieser alten Festungsmauer; achten Sie auf den starken Wind und nehmen Sie eine leichte Jacke mit.",
+            "hu": "Élvezze a széles panorámát az Atlanti-óceánra erről a régi erődítményről; ügyeljen az erős szélre, és mindenképpen vigyen magával egy könnyű kabátot.",
+            "ro": "Bucurați-vă de vederea panoramică asupra oceanului de pe acest vechi zid de fortificație; atenție la vântul puternic, așadar luați o jachetă ușoară cu dumneavoastră.",
+            "en": "Enjoy the sweeping panoramic views of the Atlantic Ocean from this ancient fortress wall; be mindful of the strong sea breeze and bring a light jacket along."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage Deauville",
+            "hu": "Plage Deauville",
+            "ro": "Plage Deauville",
+            "en": "Plage Deauville"
+          },
+          "coords": [
+            -8.494071,
+            33.248417
+          ],
+          "category": "recreational",
+          "arrive_at": "12:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang des breiten Sandstrandes und atmen Sie die frische Meeresluft tief ein; packen Sie ein kleines Picknick ein, da die Strandcafés im Winter oft geschlossen sind.",
+            "hu": "Sétáljon végig a széles homokos strandon és lélegezze be a friss tengeri levegőt; vigyen magával egy kis pikniket, mert a parti kávézók télen gyakran zárva tartanak.",
+            "ro": "Plimbați-vă de-a lungul plajei late cu nisip și respirați adânc aerul proaspăt de mare; aduceți un mic picnic, deoarece cafenelele de pe plajă sunt deseori închise iarna.",
+            "en": "Stroll along the wide sandy beach and breathe in the refreshing, salty sea air; pack a small picnic with you, as the beachfront cafes are often closed during winter."
+          }
+        },
+        {
+          "name": {
+            "de": "Palais du Gouverneur",
+            "hu": "Palais du Gouverneur",
+            "ro": "Palais du Gouverneur",
+            "en": "Palais du Gouverneur"
+          },
+          "coords": [
+            -8.504805,
+            33.247919
+          ],
+          "category": "castle",
+          "arrive_at": "13:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die prächtigen Verzierungen und historischen Räume dieses majestätischen Palastes; kommen Sie am späten Nachmittag, wenn die Sonne die Fassade golden färbt.",
+            "hu": "Fedezze fel a fenséges palota pompás díszítéseit és történelmi termeit; érkezzen késő délután, amikor a lemenő nap arany színűre festi az épület homlokzatát.",
+            "ro": "Descoperiți ornamentele magnifice și încăperile istorice ale acestui palat majestuos; veniți spre sfârșitul după-amiezii când soarele colorează fațada în auriu.",
+            "en": "Discover the magnificent decorations and historic rooms of this majestic palace; plan to arrive in the late afternoon when the sun paints the entire facade gold."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare Sidi Bouafi",
+            "hu": "Phare Sidi Bouafi",
+            "ro": "Phare Sidi Bouafi",
+            "en": "Phare Sidi Bouafi"
+          },
+          "coords": [
+            -8.516851,
+            33.2503
+          ],
+          "category": "landmark",
+          "arrive_at": "15:14",
+          "stay_min": 55,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Dieser ikonische Leuchtturm ist noch aktiv und dominiert die Stadtsilhouette; auch wenn er nicht besteigbar ist, bietet die Umgebung abends ein großartiges Fotomotiv.",
+            "hu": "Ez az ikonikus világítótorony még ma is aktív és uralja a város sziluettjét; bár nem látogatható belülről, a környezete este fantasztikus fotótémát kínál.",
+            "ro": "Acest far iconic este încă activ și domină silueta orașului; chiar dacă nu se poate urca în el, împrejurimile oferă seara un motiv fotografic extraordinar.",
+            "en": "This iconic lighthouse is still active and completely dominates the city skyline; although it cannot be climbed, the surrounding area offers great evening photo ops."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt aktiv am Dar Edaw Lakdim, gefolgt von der mystischen portugiesischen Zisterne. Mittags radeln Sie zur Engelsbastion und entspannen am weiten Sandstrand der Plage Deauville. Der Nachmittag ist geprägt von der historischen Architektur des Palais du Gouverneur. Am frühen Abend erreichen Sie den malerischen Phare Sidi Bouafi, ideal für einen unvergesslichen Sonnenuntergang.",
+        "hu": "A nap aktívan indul a Dar Edaw Lakdimnál, majd a misztikus portugál ciszterna következik. Délben az Angyalok bástyájához teker, majd a Plage Deauville homokos partján pihen. A délutánt a Palais du Gouverneur történelmi építészete határozza meg, lenyűgöző részletekkel. Kora este megérkezik a festői Phare Sidi Bouafi világítótoronyhoz, amely tökéletes egy felejthetetlen naplementéhez.",
+        "ro": "Ziua începe activ la Dar Edaw Lakdim, urmat de mistica Cisternă Portugheză din centrul vechi. La prânz pedalați spre Bastion of Angels și vă relaxați pe nisipul de la Plage Deauville. După-amiaza este dedicată arhitecturii istorice a Palais du Gouverneur. Spre seară, ajungeți la pitorescul Phare Sidi Bouafi, un loc perfect pentru a admira un apus de soare de neuitat pe coastă.",
+        "en": "Your day starts actively at Dar Edaw Lakdim, followed by the mystical Portuguese Cistern in the old town. At midday, cycle to the Bastion of Angels and relax on the expansive sands of Plage Deauville. The afternoon focuses on the historic architecture of the Palais du Gouverneur. In the early evening, you reach the picturesque Phare Sidi Bouafi, perfect for a memorable sunset."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 5.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Jawad",
+            "hu": "Jawad",
+            "ro": "Jawad",
+            "en": "Jawad"
+          },
+          "coords": [
+            -8.512536,
+            33.252648
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie hier Ihre Tour und bewundern Sie dieses weniger bekannte Wahrzeichen; die Gegend ist sehr belebt, achten Sie beim Fotografieren auf den Straßenverkehr.",
+            "hu": "Kezdje itt a túráját és csodálja meg ezt a kevésbé ismert városi nevezetességet; a környék rendkívül forgalmas, ezért fényképezéskor ügyeljen a közúti forgalomra.",
+            "ro": "Începeți turul aici și admirați acest punct de reper mai puțin cunoscut; zona este foarte animată, așa că fiți atenți la traficul stradal când faceți fotografii.",
+            "en": "Start your exciting tour here and admire this slightly less known local landmark; the area is quite bustling, so be very mindful of street traffic while taking photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Tayana",
+            "hu": "Tayana",
+            "ro": "Tayana",
+            "en": "Tayana"
+          },
+          "coords": [
+            -8.507499,
+            33.25433
+          ],
+          "category": "natural",
+          "arrive_at": "09:37",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein malerischer Küstenabschnitt, der Ruhe vom städtischen Trubel bietet; nehmen Sie sich Zeit für die Aussicht und vergessen Sie nicht, eine Flasche Wasser mitzubringen.",
+            "hu": "Festői tengerparti szakasz, amely igazi nyugalmat kínál a városi nyüzsgés után; szánjon időt a kilátásra, és ne felejtsen el magával hozni egy üveg friss vizet.",
+            "ro": "O porțiune de coastă pitorească care oferă liniște departe de agitația urbană; faceți-vă timp pentru priveliște și nu uitați să luați cu dumneavoastră o sticlă de apă.",
+            "en": "A picturesque coastal section that provides total peace from the urban hustle; take your time to enjoy the beautiful view and remember to bring a bottle of water."
+          }
+        },
+        {
+          "name": {
+            "de": "Cisterne Portuguese",
+            "hu": "Cisterne Portuguese",
+            "ro": "Cisterne Portuguese",
+            "en": "Cisterne Portuguese"
+          },
+          "coords": [
+            -8.502482,
+            33.256561
+          ],
+          "category": "landmark",
+          "arrive_at": "10:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotischen Gewölbe und beeindruckenden Wasserspiegelungen dieser historischen Zisterne; besuchen Sie sie am besten vormittags für ideales Fotolicht.",
+            "hu": "Csodálja meg a gótikus boltozatokat és a lenyűgöző víztükröződéseket ebben a történelmi ciszternában; a legjobb fotókhoz érdemes a délelőtti órákban érkezni.",
+            "ro": "Admirați bolțile gotice și reflexiile impresionante ale apei în această cisternă istorică; vizitați dimineața pentru o lumină ideală la fotografii.",
+            "en": "Marvel at the Gothic vaults and mesmerizing water reflections in this historic cistern; it is best to visit in the morning for the most ideal photographic lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare Vert",
+            "hu": "Phare Vert",
+            "ro": "Phare Vert",
+            "en": "Phare Vert"
+          },
+          "coords": [
+            -8.495484,
+            33.256683
+          ],
+          "category": "landmark",
+          "arrive_at": "11:26",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Dieser kleine, grüne Leuchtturm markiert eindrucksvoll die Hafeneinfahrt und bietet ein schönes Fotomotiv; der Weg dorthin ist steinig, tragen Sie festes Schuhwerk.",
+            "hu": "Ez a kis zöld világítótorony látványosan jelzi a kikötő bejáratát és remek fotótéma; az oda vezető út köves, ezért mindenképpen viseljen kényelmes, zárt cipőt.",
+            "ro": "Acest mic far verde marchează impresionant intrarea în port și oferă un motiv foto excelent; drumul până acolo este pietros, așa că purtați încălțăminte solidă.",
+            "en": "This small green lighthouse impressively marks the harbor entrance and provides a great photo op; the path there is rocky, so ensure you wear sturdy footwear."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de la Résistance",
+            "hu": "Musée de la Résistance",
+            "ro": "Musée de la Résistance",
+            "en": "Musée de la Résistance"
+          },
+          "coords": [
+            -8.501025,
+            33.251583
+          ],
+          "category": "museum",
+          "arrive_at": "11:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie anhand lokaler Artefakte tief in die Unabhängigkeitsgeschichte Marokkos ein; die Beschriftungen sind oft auf Arabisch und Französisch, nutzen Sie eine Übersetzer-App.",
+            "hu": "Merüljön el Marokkó függetlenségi történetében a helyi műtárgyakon keresztül; a feliratok főként arab és francia nyelvűek, érdemes fordító alkalmazást használni.",
+            "ro": "Aprofundați istoria independenței Marocului prin intermediul artefactelor locale; descrierile sunt adesea în arabă și franceză, utilizați o aplicație de traducere.",
+            "en": "Delve deep into Morocco's history of independence through fascinating local artifacts; the signage is mostly in Arabic and French, so keep a translation app handy."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage Deauville",
+            "hu": "Plage Deauville",
+            "ro": "Plage Deauville",
+            "en": "Plage Deauville"
+          },
+          "coords": [
+            -8.494071,
+            33.248417
+          ],
+          "category": "recreational",
+          "arrive_at": "13:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang des breiten Sandstrandes und atmen Sie die frische Meeresluft tief ein; packen Sie ein kleines Picknick ein, da die Strandcafés im Winter oft geschlossen sind.",
+            "hu": "Sétáljon végig a széles homokos strandon és lélegezze be a friss tengeri levegőt; vigyen magával egy kis pikniket, mert a parti kávézók télen gyakran zárva tartanak.",
+            "ro": "Plimbați-vă de-a lungul plajei late cu nisip și respirați adânc aerul proaspăt de mare; aduceți un mic picnic, deoarece cafenelele de pe plajă sunt deseori închise iarna.",
+            "en": "Stroll along the wide sandy beach and breathe in the refreshing, salty sea air; pack a small picnic with you, as the beachfront cafes are often closed during winter."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage Mcdonald's",
+            "hu": "Plage Mcdonald's",
+            "ro": "Plage Mcdonald's",
+            "en": "Plage Mcdonald's"
+          },
+          "coords": [
+            -8.474938,
+            33.245011
+          ],
+          "category": "recreational",
+          "arrive_at": "14:55",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Dieser beliebte Strandabschnitt eignet sich perfekt für einen gemütlichen abendlichen Ausklang; nutzen Sie die nahegelegenen Restaurants für ein leckeres marokkanisches Abendessen.",
+            "hu": "Ez a népszerű strandszakasz tökéletes választás egy hangulatos esti kikapcsolódáshoz; próbálja ki a közeli éttermeket egy finom és hagyományos marokkói vacsorához.",
+            "ro": "Această plajă populară este perfectă pentru a încheia ziua într-o atmosferă relaxantă; încercați restaurantele din apropiere pentru o cină tradițională marocană delicioasă.",
+            "en": "This surprisingly popular beach section is perfect for a cozy and relaxing evening finish; utilize the nearby restaurants to enjoy a delicious, traditional Moroccan dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Sie starten bequem am Jawad und fahren weiter zum malerischen Tayana, um die erste Atmosphäre der Stadt aufzunehmen. Gegen Mittag besichtigen Sie die berühmte portugiesische Zisterne und den markanten grünen Leuchtturm. Der Nachmittag bietet im Widerstandsmuseum tiefe historische Einblicke, bevor Sie an der Plage Deauville frische Luft schnappen. Ein entspannter Abend erwartet Sie am Plage Mcdonald's.",
+        "hu": "Kényelmesen indul a Jawadnál, majd a festői Tayana felé veszi az irányt a városi hangulatért. Dél körül megtekinti a híres portugál ciszternát és a jellegzetes zöld világítótornyot a parton. A délután mély történelmi betekintést nyújt az Ellenállás Múzeumában, mielőtt a Plage Deauville-en sétálna egyet. A napot egy nyugodt este zárja a homokos Plage Mcdonald's partszakaszon.",
+        "ro": "Începeți confortabil la Jawad și conduceți spre pitorescul Tayana pentru a simți pulsul orașului. La prânz, vizitați faimoasa Cisternă Portugheză și farul verde distinctiv de pe coastă. După-amiaza vă oferă perspective istorice la Muzeul Rezistenței, înainte de a lua o gură de aer proaspăt la Plage Deauville. O seară relaxantă vă așteaptă pe plaja mai retrasă Plage Mcdonald's.",
+        "en": "Start comfortably at Jawad before driving to the scenic Tayana area to soak up the morning atmosphere. Around midday, visit the famous Portuguese Cistern and the distinctive green lighthouse. The afternoon offers deep historical insights at the Resistance Museum before getting some fresh air at Plage Deauville. Conclude your driving tour with a relaxing evening walk at Plage Mcdonald's."
+      }
+    }
+  }
+}

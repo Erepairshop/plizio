@@ -1,0 +1,451 @@
+{
+  "city_id": "mayenne",
+  "anchor": {
+    "name": "Mayenne",
+    "coords": [
+      -0.6136,
+      48.3031
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:48",
+      "total_km": 1.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Mayenne",
+            "hu": "Mayenne Vára",
+            "ro": "Castelul Mayenne",
+            "en": "Mayenne Castle"
+          },
+          "coords": [
+            -0.617772,
+            48.302888
+          ],
+          "category": "fortress",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Fundamente dieser karolingischen Festung, um Mayennes mittelalterliche Verteidigung zu verstehen, und verpassen Sie nicht den Panoramablick von den Türmen.",
+            "hu": "Fedezze fel e Karoling-kori erődítmény ősi alapjait, hogy megértse Mayenne középkori védelmét, és ne hagyja ki a zömök tornyokból nyíló pazar kilátást.",
+            "ro": "Explorați fundațiile antice ale acestei fortărețe carolingiene pentru a înțelege apărarea medievală a orașului Mayenne și nu ratați priveliștea panoramică din turnuri.",
+            "en": "Explore the ancient foundations of this Carolingian fortress to understand Mayenne's medieval defense, and don't miss the panoramic views from the robust towers."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilique Notre-Dame-des-Miracles",
+            "hu": "Notre-Dame-des-Miracles Bazilika",
+            "ro": "Basilica Notre-Dame-des-Miracles",
+            "en": "Basilique Notre-Dame-des-Miracles"
+          },
+          "coords": [
+            -0.617651,
+            48.304189
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante gotische Architektur und ruhige Atmosphäre dieser Basilika, einem wichtigen spirituellen Ort, wo Sie sich Zeit für die Buntglasfenster nehmen sollten.",
+            "hu": "Csodálja meg e bazilika lenyűgöző gótikus építészetét és békés hangulatát, amely kulcsfontosságú spirituális helyszín, ahol érdemes megfigyelni a részletes ólomüveg ablakokat.",
+            "ro": "Admirați arhitectura gotică impresionantă și atmosfera senină a acestei bazilici, un loc spiritual cheie unde ar trebui să priviți cu atenție vitraliile detaliate.",
+            "en": "Admire the striking gothic architecture and serene atmosphere of this basilica, a key spiritual site where you should take a moment to see the detailed stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Mémorial Des Déportés",
+            "hu": "Deportáltak Emlékműve",
+            "ro": "Memorialul Deportaților",
+            "en": "Mémorial Des Déportés"
+          },
+          "coords": [
+            -0.617416,
+            48.305675
+          ],
+          "category": "museum",
+          "arrive_at": "11:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erweisen Sie Ihre Ehre an diesem tief bewegenden Denkmal für die Deportierten, einem wichtigen Teil der Geschichte des 2. Weltkriegs, wo persönliche Geschichten Kontext bieten.",
+            "hu": "Rójja le tiszteletét ezen a deportáltaknak szentelt, mélyen megható emlékművön, a II. világháború történelmének fontos részén, ahol a személyes történetek megismerése mély kontextust nyújt.",
+            "ro": "Aduceți un omagiu la acest memorial profund emoționant dedicat deportaților, o parte vitală a istoriei celui de-al Doilea Război Mondial, unde citirea poveștilor personale oferă un context profund.",
+            "en": "Pay your respects at this deeply moving memorial dedicated to the deportees, a vital piece of WWII history where reading the personal stories offers profound context."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle de la Providence",
+            "hu": "Gondviselés Kápolnája",
+            "ro": "Capela Providenței",
+            "en": "Chapelle de la Providence"
+          },
+          "coords": [
+            -0.614415,
+            48.307271
+          ],
+          "category": "religious",
+          "arrive_at": "13:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese kleine, aber schön erhaltene Kapelle, um ihren ruhigen Charme zu erleben, was sie zu einem perfekten Ort für kurze Besinnung abseits der Touristenpfade macht.",
+            "hu": "Látogasson el ebbe a kis, de gyönyörűen megőrzött kápolnába, hogy megtapasztalja annak csendes báját, amely tökéletes helyszín egy rövid elmélkedéshez a fő turistaútvonalaktól távol.",
+            "ro": "Vizitați această capelă mică, dar frumos conservată, pentru a experimenta farmecul ei liniștit, fiind un loc perfect pentru o scurtă reflecție departe de traseele turistice principale.",
+            "en": "Visit this small but beautifully preserved chapel to experience its quiet, intimate charm, making it a perfect spot for brief reflection away from the main tourist paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Martin Kirche",
+            "hu": "Saint-Martin Templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            -0.615103,
+            48.301773
+          ],
+          "category": "religious",
+          "arrive_at": "13:52",
+          "stay_min": 70,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die historischen Schichten dieser prominenten lokalen Kirche mit traditioneller religiöser Kunst und achten Sie am Eingang auf Ankündigungen von Gemeindeereignissen.",
+            "hu": "Fedezze fel e kiemelkedő helyi templom történelmi rétegeit, amely hagyományos vallási művészetet mutat be, és mindenképpen nézze meg a bejáratnál a közösségi események hirdetményeit.",
+            "ro": "Descoperiți straturile istorice ale acestei biserici locale proeminente care prezintă artă religioasă tradițională și asigurați-vă că verificați intrarea pentru evenimentele comunitare.",
+            "en": "Discover the historical layers of this prominent local church which showcases traditional religious artistry, and be sure to check the entrance for community event notices."
+          }
+        },
+        {
+          "name": {
+            "de": "Burgmuseum",
+            "hu": "Vármúzeum",
+            "ro": "Muzeul Castelului",
+            "en": "Castle Museum"
+          },
+          "coords": [
+            -0.610381,
+            48.299803
+          ],
+          "category": "museum",
+          "arrive_at": "14:38",
+          "stay_min": 130,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die reichen Artefaktsammlungen innerhalb der Burgmauern, um die faszinierende Entwicklung der Region zu verfolgen, und beginnen Sie im Erdgeschoss.",
+            "hu": "Merüljön el a várfalakon belül őrzött gazdag műtárgygyűjteményekben, hogy nyomon kövesse a régió lenyűgöző fejlődését, és az időrendi sorrend miatt kezdje a földszinten.",
+            "ro": "Pătrundeți în colecțiile bogate de artefacte adăpostite între zidurile castelului pentru a urmări evoluția fascinantă a regiunii și începeți la parter pentru ordinea cronologică.",
+            "en": "Delve into the rich artifact collections housed within the castle walls to trace the region's fascinating evolution, and consider starting on the ground floor for chronological flow."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung des imposanten Schlosses Mayenne und tauchen Sie ein in die Geschichte. Mittags besuchen Sie das feierliche Denkmal und die charmante Chapelle de la Providence. Entdecken Sie am Nachmittag die architektonischen Details der Kirche Saint-Martin. Beenden Sie den Tag im Burgmuseum.",
+        "hu": "Kezdje a reggelt az impozáns mayenne-i vár és környékének felfedezésével, elmerülve a középkori történelemben. Délben látogasson el az ünnepélyes emlékműhöz és a bájos Providence-kápolnához. Délután fedezze fel a Saint-Martin templom építészeti részleteit. Zárja a napot a Vármúzeum lebilincselő kiállításainak megtekintésével.",
+        "ro": "Începeți dimineața explorând impunătorul Castel Mayenne, cufundându-vă în istoria medievală. La prânz, vizitați Memorialul solemn și fermecătoarea Capelă a Providenței. După-amiaza, descoperiți detaliile arhitecturale ale Bisericii Saint-Martin. Încheiați ziua parcurgând expozițiile captivante ale Muzeului Castelului.",
+        "en": "Start your morning exploring the imposing Mayenne Castle and its surroundings, soaking in the medieval history. Midday brings a visit to the solemn Memorial and the charming Chapelle de la Providence. In the afternoon, discover the architectural details of Saint-Martin Church. Conclude your day walking through the engaging exhibits of the Castle Museum."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:23",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Mayenne",
+            "hu": "Mayenne Vára",
+            "ro": "Castelul Mayenne",
+            "en": "Mayenne Castle"
+          },
+          "coords": [
+            -0.617772,
+            48.302888
+          ],
+          "category": "fortress",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Fundamente dieser karolingischen Festung, um Mayennes mittelalterliche Verteidigung zu verstehen, und verpassen Sie nicht den Panoramablick von den Türmen.",
+            "hu": "Fedezze fel e Karoling-kori erődítmény ősi alapjait, hogy megértse Mayenne középkori védelmét, és ne hagyja ki a zömök tornyokból nyíló pazar kilátást.",
+            "ro": "Explorați fundațiile antice ale acestei fortărețe carolingiene pentru a înțelege apărarea medievală a orașului Mayenne și nu ratați priveliștea panoramică din turnuri.",
+            "en": "Explore the ancient foundations of this Carolingian fortress to understand Mayenne's medieval defense, and don't miss the panoramic views from the robust towers."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilique Notre-Dame-des-Miracles",
+            "hu": "Notre-Dame-des-Miracles Bazilika",
+            "ro": "Basilica Notre-Dame-des-Miracles",
+            "en": "Basilique Notre-Dame-des-Miracles"
+          },
+          "coords": [
+            -0.617651,
+            48.304189
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante gotische Architektur und ruhige Atmosphäre dieser Basilika, einem wichtigen spirituellen Ort, wo Sie sich Zeit für die Buntglasfenster nehmen sollten.",
+            "hu": "Csodálja meg e bazilika lenyűgöző gótikus építészetét és békés hangulatát, amely kulcsfontosságú spirituális helyszín, ahol érdemes megfigyelni a részletes ólomüveg ablakokat.",
+            "ro": "Admirați arhitectura gotică impresionantă și atmosfera senină a acestei bazilici, un loc spiritual cheie unde ar trebui să priviți cu atenție vitraliile detaliate.",
+            "en": "Admire the striking gothic architecture and serene atmosphere of this basilica, a key spiritual site where you should take a moment to see the detailed stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Mémorial Des Déportés",
+            "hu": "Deportáltak Emlékműve",
+            "ro": "Memorialul Deportaților",
+            "en": "Mémorial Des Déportés"
+          },
+          "coords": [
+            -0.617416,
+            48.305675
+          ],
+          "category": "museum",
+          "arrive_at": "11:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erweisen Sie Ihre Ehre an diesem tief bewegenden Denkmal für die Deportierten, einem wichtigen Teil der Geschichte des 2. Weltkriegs, wo persönliche Geschichten Kontext bieten.",
+            "hu": "Rójja le tiszteletét ezen a deportáltaknak szentelt, mélyen megható emlékművön, a II. világháború történelmének fontos részén, ahol a személyes történetek megismerése mély kontextust nyújt.",
+            "ro": "Aduceți un omagiu la acest memorial profund emoționant dedicat deportaților, o parte vitală a istoriei celui de-al Doilea Război Mondial, unde citirea poveștilor personale oferă un context profund.",
+            "en": "Pay your respects at this deeply moving memorial dedicated to the deportees, a vital piece of WWII history where reading the personal stories offers profound context."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle de la Providence",
+            "hu": "Gondviselés Kápolnája",
+            "ro": "Capela Providenței",
+            "en": "Chapelle de la Providence"
+          },
+          "coords": [
+            -0.614415,
+            48.307271
+          ],
+          "category": "religious",
+          "arrive_at": "12:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese kleine, aber schön erhaltene Kapelle, um ihren ruhigen Charme zu erleben, was sie zu einem perfekten Ort für kurze Besinnung abseits der Touristenpfade macht.",
+            "hu": "Látogasson el ebbe a kis, de gyönyörűen megőrzött kápolnába, hogy megtapasztalja annak csendes báját, amely tökéletes helyszín egy rövid elmélkedéshez a fő turistaútvonalaktól távol.",
+            "ro": "Vizitați această capelă mică, dar frumos conservată, pentru a experimenta farmecul ei liniștit, fiind un loc perfect pentru o scurtă reflecție departe de traseele turistice principale.",
+            "en": "Visit this small but beautifully preserved chapel to experience its quiet, intimate charm, making it a perfect spot for brief reflection away from the main tourist paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Burgmuseum",
+            "hu": "Vármúzeum",
+            "ro": "Muzeul Castelului",
+            "en": "Castle Museum"
+          },
+          "coords": [
+            -0.610381,
+            48.299803
+          ],
+          "category": "museum",
+          "arrive_at": "13:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die reichen Artefaktsammlungen innerhalb der Burgmauern, um die faszinierende Entwicklung der Region zu verfolgen, und beginnen Sie im Erdgeschoss.",
+            "hu": "Merüljön el a várfalakon belül őrzött gazdag műtárgygyűjteményekben, hogy nyomon kövesse a régió lenyűgöző fejlődését, és az időrendi sorrend miatt kezdje a földszinten.",
+            "ro": "Pătrundeți în colecțiile bogate de artefacte adăpostite între zidurile castelului pentru a urmări evoluția fascinantă a regiunii și începeți la parter pentru ordinea cronologică.",
+            "en": "Delve into the rich artifact collections housed within the castle walls to trace the region's fascinating evolution, and consider starting on the ground floor for chronological flow."
+          }
+        },
+        {
+          "name": {
+            "de": "Plan d'eau communale",
+            "hu": "Községi Tó",
+            "ro": "Lacul Comunal",
+            "en": "Plan d'eau communale"
+          },
+          "coords": [
+            -0.578811,
+            48.278063
+          ],
+          "category": "natural",
+          "arrive_at": "15:38",
+          "stay_min": 105,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem weitläufigen und malerischen Gemeindesee, einem wunderbaren Naturrückzugsort für einen ruhigen Nachmittagsspaziergang, perfekt für ein Picknick.",
+            "hu": "Pihenjen meg ezen a tágas és festői községi tónál, amely csodálatos természeti menedék egy békés délutáni sétához, és kifejezetten ajánlott némi nassolnivalót hozni egy vízparti piknikhez.",
+            "ro": "Relaxați-vă lângă acest lac comunal extins și pitoresc, un refugiu natural minunat pentru o plimbare pașnică de după-amiază, unde un picnic pe malul apei este foarte recomandat.",
+            "en": "Relax by this expansive and scenic communal lake, a wonderful natural retreat for a peaceful afternoon walk, where bringing some snacks for a waterside picnic is highly recommended."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour am historischen Schloss Mayenne, bevor Sie zur wunderschönen Basilika fahren. Mittags besuchen Sie das Denkmal und die ruhige Kapelle. Radeln Sie nachmittags zum Burgmuseum, um tief in das lokale Erbe einzutauchen. Genießen Sie schließlich eine abendliche Fahrt zum friedlichen Gemeindesee.",
+        "hu": "Kezdje kerékpártúráját a történelmi mayenne-i várnál, mielőtt a gyönyörű bazilikához tekerne. A delet az emlékműnél és a békés kápolnánál tölti. Délután kerekezzen át a Vármúzeumhoz, hogy elmerüljön a helyi örökségben. Végül élvezze a szellős esti utat a békés Plan d'eau communale tóhoz.",
+        "ro": "Începeți turul cu bicicleta la Castelul istoric Mayenne înainte de a merge la frumoasa Bazilică. Prânzul este petrecut la Memorial și bucurându-vă de Capela senină. După-amiaza, pedalați spre Muzeul Castelului pentru a descoperi moștenirea locală. În cele din urmă, bucurați-vă de o plimbare de seară către pașnicul lac comunal.",
+        "en": "Kick off your cycling tour at the historic Mayenne Castle before riding to the beautiful Basilique. Your midday is spent reflecting at the Memorial and enjoying the serene Chapelle. In the afternoon, pedal over to the Castle Museum for a deep dive into local heritage. Finally, enjoy a breezy evening ride to the peaceful Plan d'eau communale."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:36",
+      "total_km": 8.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Mayenne",
+            "hu": "Mayenne Vára",
+            "ro": "Castelul Mayenne",
+            "en": "Mayenne Castle"
+          },
+          "coords": [
+            -0.617772,
+            48.302888
+          ],
+          "category": "fortress",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Fundamente dieser karolingischen Festung, um Mayennes mittelalterliche Verteidigung zu verstehen, und verpassen Sie nicht den Panoramablick von den Türmen.",
+            "hu": "Fedezze fel e Karoling-kori erődítmény ősi alapjait, hogy megértse Mayenne középkori védelmét, és ne hagyja ki a zömök tornyokból nyíló pazar kilátást.",
+            "ro": "Explorați fundațiile antice ale acestei fortărețe carolingiene pentru a înțelege apărarea medievală a orașului Mayenne și nu ratați priveliștea panoramică din turnuri.",
+            "en": "Explore the ancient foundations of this Carolingian fortress to understand Mayenne's medieval defense, and don't miss the panoramic views from the robust towers."
+          }
+        },
+        {
+          "name": {
+            "de": "Mémorial Des Déportés",
+            "hu": "Deportáltak Emlékműve",
+            "ro": "Memorialul Deportaților",
+            "en": "Mémorial Des Déportés"
+          },
+          "coords": [
+            -0.617416,
+            48.305675
+          ],
+          "category": "museum",
+          "arrive_at": "10:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erweisen Sie Ihre Ehre an diesem tief bewegenden Denkmal für die Deportierten, einem wichtigen Teil der Geschichte des 2. Weltkriegs, wo persönliche Geschichten Kontext bieten.",
+            "hu": "Rójja le tiszteletét ezen a deportáltaknak szentelt, mélyen megható emlékművön, a II. világháború történelmének fontos részén, ahol a személyes történetek megismerése mély kontextust nyújt.",
+            "ro": "Aduceți un omagiu la acest memorial profund emoționant dedicat deportaților, o parte vitală a istoriei celui de-al Doilea Război Mondial, unde citirea poveștilor personale oferă un context profund.",
+            "en": "Pay your respects at this deeply moving memorial dedicated to the deportees, a vital piece of WWII history where reading the personal stories offers profound context."
+          }
+        },
+        {
+          "name": {
+            "de": "Burgmuseum",
+            "hu": "Vármúzeum",
+            "ro": "Muzeul Castelului",
+            "en": "Castle Museum"
+          },
+          "coords": [
+            -0.610381,
+            48.299803
+          ],
+          "category": "museum",
+          "arrive_at": "12:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die reichen Artefaktsammlungen innerhalb der Burgmauern, um die faszinierende Entwicklung der Region zu verfolgen, und beginnen Sie im Erdgeschoss.",
+            "hu": "Merüljön el a várfalakon belül őrzött gazdag műtárgygyűjteményekben, hogy nyomon kövesse a régió lenyűgöző fejlődését, és az időrendi sorrend miatt kezdje a földszinten.",
+            "ro": "Pătrundeți în colecțiile bogate de artefacte adăpostite între zidurile castelului pentru a urmări evoluția fascinantă a regiunii și începeți la parter pentru ordinea cronologică.",
+            "en": "Delve into the rich artifact collections housed within the castle walls to trace the region's fascinating evolution, and consider starting on the ground floor for chronological flow."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Baudelle",
+            "hu": "Saint-Baudelle Templom",
+            "ro": "Biserica Saint-Baudelle",
+            "en": "Église Saint-Baudelle"
+          },
+          "coords": [
+            -0.633289,
+            48.28052
+          ],
+          "category": "religious",
+          "arrive_at": "14:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die charmante ländliche Architektur dieser historischen Kirche, die die lokale Pfarrgemeinde verankert, und nehmen Sie sich Zeit für einen Spaziergang im Außenbereich.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a bájos vidéki építészetét, amely a helyi egyházközség központja, és szánjon egy percet a békés külső környezet körbesétálására.",
+            "ro": "Admirați arhitectura rurală fermecătoare a acestei biserici istorice care ancorează comunitatea parohială locală și faceți o scurtă plimbare pe terenurile sale exterioare pașnice.",
+            "en": "Admire the charming rural architecture of this historic church that anchors the local parish community, and take a moment to walk around its peaceful exterior grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Plan d'eau communale",
+            "hu": "Községi Tó",
+            "ro": "Lacul Comunal",
+            "en": "Plan d'eau communale"
+          },
+          "coords": [
+            -0.578811,
+            48.278063
+          ],
+          "category": "natural",
+          "arrive_at": "14:51",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem weitläufigen und malerischen Gemeindesee, einem wunderbaren Naturrückzugsort für einen ruhigen Nachmittagsspaziergang, perfekt für ein Picknick.",
+            "hu": "Pihenjen meg ezen a tágas és festői községi tónál, amely csodálatos természeti menedék egy békés délutáni sétához, és kifejezetten ajánlott némi nassolnivalót hozni egy vízparti piknikhez.",
+            "ro": "Relaxați-vă lângă acest lac comunal extins și pitoresc, un refugiu natural minunat pentru o plimbare pașnică de după-amiază, unde un picnic pe malul apei este foarte recomandat.",
+            "en": "Relax by this expansive and scenic communal lake, a wonderful natural retreat for a peaceful afternoon walk, where bringing some snacks for a waterside picnic is highly recommended."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zum Schloss Mayenne für einen Morgen voller Geschichte und großartiger Architektur. Erreichen Sie mittags das Denkmal und dann das Burgmuseum, um faszinierende Artefakte zu erkunden. Fahren Sie nachmittags zur malerischen Kirche Saint-Baudelle. Beenden Sie Ihren Tag entspannt am malerischen Wasser des Plan d'eau communale.",
+        "hu": "Vezessen a mayenne-i várhoz egy ősi történelemmel és védelmi építészettel teli délelőttért. Délben könnyedén eléri az emlékművet, majd a Vármúzeumot. Délután tegyen egy rövid autózást a festői Église Saint-Baudelle templomhoz. Zárja a napot a Plan d'eau communale festői vizeinél pihenve.",
+        "ro": "Conduceți la Castelul Mayenne pentru o dimineață plină de istorie antică. La prânz, ajungeți cu ușurință la Memorial și apoi mergeți la Muzeul Castelului pentru a explora artefactele istorice. După-amiaza, faceți o scurtă plimbare spre pitoreasca Biserică Saint-Baudelle. Încheiați-vă ziua relaxându-vă lângă apele pitorești ale lacului comunal.",
+        "en": "Drive to Mayenne Castle for a morning steeped in ancient history and grand defensive architecture. Midday, easily reach the Memorial and then head to the Castle Museum to explore its fascinating historical artifacts. In the afternoon, take a short drive to the quaint Église Saint-Baudelle. End your day relaxing by the picturesque waters of Plan d'eau communale."
+      }
+    }
+  }
+}

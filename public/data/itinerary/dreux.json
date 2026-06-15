@@ -1,0 +1,474 @@
+{
+  "city_id": "dreux",
+  "anchor": {
+    "name": "Dreux",
+    "coords": [
+      1.3656,
+      48.7364
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:45",
+      "total_km": 1.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Belfried von Dreux",
+            "hu": "Dreux-i harangtorony",
+            "ro": "Clopotnița din Dreux",
+            "en": "Belfry of Dreux"
+          },
+          "coords": [
+            1.36729,
+            48.73553
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses historischen Belfrieds am Platz und versuchen Sie zur vollen Stunde hier zu sein, um die Glocken zu hören.",
+            "hu": "Csodálja meg a teret uraló történelmi harangtorony bonyolult építészetét, és próbáljon meg egész órára érkezni, hogy hallja a harangjátékot.",
+            "ro": "Admirați arhitectura acestui turn istoric ce domină piața și încercați să ajungeți la oră fixă pentru a asculta sunetul melodios al clopotelor.",
+            "en": "Admire the intricate architecture of this historic belfry dominating the square, and try to arrive at the top of the hour to hear the bells chiming."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Pierre",
+            "hu": "Saint-Pierre templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            1.36842,
+            48.736113
+          ],
+          "category": "religious",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Glasfenster dieser majestätischen Kirche und treten Sie am frühen Morgen ein, um die lebhaftesten Lichtspiele zu erleben.",
+            "hu": "Csodálja meg e fenséges templom látványos ólomüveg ablakait, és lépjen be kora reggel, hogy a legélénkebb fényviszonyok között láthassa őket.",
+            "ro": "Minunați-vă de vitraliile spectaculoase ale acestei biserici și intrați dimineața devreme pentru a vă bucura de cele mai vibrante jocuri de lumini.",
+            "en": "Marvel at the spectacular stained glass windows of this majestic church, and step inside during the early morning for the most vibrant light displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Kunst und Geschichte",
+            "hu": "Művészeti és Történeti Múzeum",
+            "ro": "Muzeul de Artă și Istorie",
+            "en": "Museum of Art and History"
+          },
+          "coords": [
+            1.368041,
+            48.733925
+          ],
+          "category": "museum",
+          "arrive_at": "10:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die in einer ehemaligen Kapelle untergebrachte Kunstsammlung und nehmen Sie sich die Zeit, am Eingang einen Audioguide auszuleihen.",
+            "hu": "Fedezze fel a helyi művészeti gyűjteményt egy egykori kápolnában, és szánjon időt arra, hogy felvegyen egy ingyenes audioguide-ot a bejáratnál.",
+            "ro": "Explorați o colecție bogată de artă locală într-o fostă capelă, luându-vă timp pentru a solicita un ghid audio gratuit de la intrarea muzeului.",
+            "en": "Explore a rich collection of local art and archaeological finds housed in a former chapel, taking time to pick up a free audio guide at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Königliche Domäne von Dreux",
+            "hu": "Dreux-i Királyi Birtok",
+            "ro": "Domeniul Regal din Dreux",
+            "en": "Royal Domain of Dreux"
+          },
+          "coords": [
+            1.363479,
+            48.738823
+          ],
+          "category": "historical",
+          "arrive_at": "12:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die weitläufigen Anlagen dieses historischen königlichen Anwesens und tragen Sie bequeme Schuhe für die vielen Wanderwege.",
+            "hu": "Sétáljon végig ennek a történelmi jelentőségű királyi birtoknak a tágas területein, és viseljen kényelmes cipőt a változatos ösvények bejárásához.",
+            "ro": "Plimbați-vă pe domeniile vaste ale acestei proprietăți regale istorice, purtând încălțăminte confortabilă pentru a parcurge diversele alei.",
+            "en": "Wander through the sprawling grounds of this historically significant royal estate, wearing comfortable shoes to navigate the varied walking paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Königliche Kapelle von Dreux",
+            "hu": "Dreux-i Királyi Kápolna",
+            "ro": "Capela Regală din Dreux",
+            "en": "Royal Chapel of Dreux"
+          },
+          "coords": [
+            1.363292,
+            48.738283
+          ],
+          "category": "religious",
+          "arrive_at": "13:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die atemberaubende neugotische Grabstätte der Familie Orleans und überprüfen Sie die begrenzten Besuchszeiten vor Ihrer Anreise.",
+            "hu": "Fedezze fel az Orleans család lélegzetelállító neogótikus temetkezési helyét, és az utazás tervezése előtt mindenképpen ellenőrizze a nyitvatartást.",
+            "ro": "Descoperiți locul de veci neogotic al familiei Orleans, asigurându-vă că verificați programul de vizitare restrâns înainte de a planifica vizita.",
+            "en": "Discover the breathtaking neo-Gothic burial place of the Orleans family, ensuring you check the restricted visiting hours before planning your trip."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen am Wahrzeichen, dem Belfried von Dreux, bevor Sie die Kirche Saint-Pierre bestaunen. Mittags lädt das Museum für Kunst und Geschichte zu einem tiefen Einblick in das Erbe ein. Am Nachmittag steigen Sie zur königlichen Domäne hinauf, um die Anlage zu erkunden. Beenden Sie den Abend an der prächtigen königlichen Kapelle und genießen Sie die großartige Architektur.",
+        "hu": "Kezdje a reggelt az ikonikus dreux-i harangtoronnyal, majd csodálja meg a fenséges Saint-Pierre templomot. A dél a Helytörténeti Múzeumban kínál elmélyülést a helyi örökségben. Délután sétáljon fel a Királyi Birtokra, és fedezze fel a fenséges parkot. Zárja az estét a csodálatos Királyi Kápolnánál, átadva magát a lenyűgöző építészeti pompának a lemenő nap fényében.",
+        "ro": "Începeți dimineața cu clopotnița emblematică din Dreux, înainte de a admira Biserica Saint-Pierre. La amiază, Muzeul de Artă și Istorie vă invită să explorați patrimoniul local. După-amiaza, urcați la Domeniul Regal din Dreux pentru a explora terenurile sale impunătoare. Încheiați seara la magnifica Capelă Regală, bucurându-vă de grandoarea arhitecturală unică.",
+        "en": "Begin your morning with the iconic Belfry of Dreux, setting a historical tone before marveling at the Saint-Pierre Church. Midday invites a deep dive into local heritage at the Museum of Art and History. In the afternoon, ascend to the Royal Domain of Dreux to explore its regal grounds. Conclude your evening at the magnificent Royal Chapel, soaking in the architectural grandeur."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:07",
+      "total_km": 4.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Belfried von Dreux",
+            "hu": "Dreux-i harangtorony",
+            "ro": "Clopotnița din Dreux",
+            "en": "Belfry of Dreux"
+          },
+          "coords": [
+            1.36729,
+            48.73553
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses historischen Belfrieds am Platz und versuchen Sie zur vollen Stunde hier zu sein, um die Glocken zu hören.",
+            "hu": "Csodálja meg a teret uraló történelmi harangtorony bonyolult építészetét, és próbáljon meg egész órára érkezni, hogy hallja a harangjátékot.",
+            "ro": "Admirați arhitectura acestui turn istoric ce domină piața și încercați să ajungeți la oră fixă pentru a asculta sunetul melodios al clopotelor.",
+            "en": "Admire the intricate architecture of this historic belfry dominating the square, and try to arrive at the top of the hour to hear the bells chiming."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Pierre",
+            "hu": "Saint-Pierre templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            1.36842,
+            48.736113
+          ],
+          "category": "religious",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Glasfenster dieser majestätischen Kirche und treten Sie am frühen Morgen ein, um die lebhaftesten Lichtspiele zu erleben.",
+            "hu": "Csodálja meg e fenséges templom látványos ólomüveg ablakait, és lépjen be kora reggel, hogy a legélénkebb fényviszonyok között láthassa őket.",
+            "ro": "Minunați-vă de vitraliile spectaculoase ale acestei biserici și intrați dimineața devreme pentru a vă bucura de cele mai vibrante jocuri de lumini.",
+            "en": "Marvel at the spectacular stained glass windows of this majestic church, and step inside during the early morning for the most vibrant light displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Kunst und Geschichte",
+            "hu": "Művészeti és Történeti Múzeum",
+            "ro": "Muzeul de Artă și Istorie",
+            "en": "Museum of Art and History"
+          },
+          "coords": [
+            1.368041,
+            48.733925
+          ],
+          "category": "museum",
+          "arrive_at": "10:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die in einer ehemaligen Kapelle untergebrachte Kunstsammlung und nehmen Sie sich die Zeit, am Eingang einen Audioguide auszuleihen.",
+            "hu": "Fedezze fel a helyi művészeti gyűjteményt egy egykori kápolnában, és szánjon időt arra, hogy felvegyen egy ingyenes audioguide-ot a bejáratnál.",
+            "ro": "Explorați o colecție bogată de artă locală într-o fostă capelă, luându-vă timp pentru a solicita un ghid audio gratuit de la intrarea muzeului.",
+            "en": "Explore a rich collection of local art and archaeological finds housed in a former chapel, taking time to pick up a free audio guide at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Königliche Domäne von Dreux",
+            "hu": "Dreux-i Királyi Birtok",
+            "ro": "Domeniul Regal din Dreux",
+            "en": "Royal Domain of Dreux"
+          },
+          "coords": [
+            1.363479,
+            48.738823
+          ],
+          "category": "historical",
+          "arrive_at": "12:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die weitläufigen Anlagen dieses historischen königlichen Anwesens und tragen Sie bequeme Schuhe für die vielen Wanderwege.",
+            "hu": "Sétáljon végig ennek a történelmi jelentőségű királyi birtoknak a tágas területein, és viseljen kényelmes cipőt a változatos ösvények bejárásához.",
+            "ro": "Plimbați-vă pe domeniile vaste ale acestei proprietăți regale istorice, purtând încălțăminte confortabilă pentru a parcurge diversele alei.",
+            "en": "Wander through the sprawling grounds of this historically significant royal estate, wearing comfortable shoes to navigate the varied walking paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Königliche Kapelle von Dreux",
+            "hu": "Dreux-i Királyi Kápolna",
+            "ro": "Capela Regală din Dreux",
+            "en": "Royal Chapel of Dreux"
+          },
+          "coords": [
+            1.363292,
+            48.738283
+          ],
+          "category": "religious",
+          "arrive_at": "13:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die atemberaubende neugotische Grabstätte der Familie Orleans und überprüfen Sie die begrenzten Besuchszeiten vor Ihrer Anreise.",
+            "hu": "Fedezze fel az Orleans család lélegzetelállító neogótikus temetkezési helyét, és az utazás tervezése előtt mindenképpen ellenőrizze a nyitvatartást.",
+            "ro": "Descoperiți locul de veci neogotic al familiei Orleans, asigurându-vă că verificați programul de vizitare restrâns înainte de a planifica vizita.",
+            "en": "Discover the breathtaking neo-Gothic burial place of the Orleans family, ensuring you check the restricted visiting hours before planning your trip."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Moulin de la Latte",
+            "hu": "Le Moulin de la Latte",
+            "ro": "Le Moulin de la Latte",
+            "en": "Le Moulin de la Latte"
+          },
+          "coords": [
+            1.396377,
+            48.755276
+          ],
+          "category": "natural",
+          "arrive_at": "14:22",
+          "stay_min": 105,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Genießen Sie einen friedlichen Rückzugsort an diesem malerischen Naturort am Wasser, der sich perfekt für ein kleines Picknick in der Natur eignet.",
+            "hu": "Élvezze a békés elvonulást ezen a festői, vízparti természeti helyen, amely tökéletes egy kis piknikkosár hozatalához és a csendes kikapcsolódáshoz.",
+            "ro": "Bucurați-vă de o retragere pașnică în acest loc natural pitoresc de lângă apă, ideal pentru un picnic relaxant, departe de zgomotul vieții urbane.",
+            "en": "Enjoy a peaceful retreat at this scenic natural spot by the water, perfect for bringing a small picnic basket and relaxing away from the urban noise."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour im Zentrum mit dem historischen Belfried und der Kirche Saint-Pierre. Ihr Mittag wird durch einen Besuch im Kunstmuseum kulturell bereichert. Nach dem Mittagessen radeln Sie zur königlichen Domäne und zur königlichen Kapelle. Beenden Sie Ihren aktiven Tag mit einer Fahrt zum Le Moulin de la Latte, wo Sie einen ruhigen Abend direkt am Wasser verbringen können.",
+        "hu": "Kezdje kerékpártúráját a központban a harangtoronnyal és a Saint-Pierre templommal. A déli pihenőt a Helytörténeti Múzeum kulturális élményei teszik teljessé. Ebéd után tekerjen fel a Királyi Birtokhoz és a lenyűgöző Királyi Kápolnához. Fejezze be az aktív napot a Le Moulin de la Latte felé vezető úton, élvezve a békés és csendes kora estét a festői vízpart közelében.",
+        "ro": "Începeți turul cu bicicleta în centru, vizitând clopotnița și Biserica Saint-Pierre. Pauza de prânz va fi îmbogățită cultural la Muzeul de Artă și Istorie. După masă, pedalați spre Domeniul Regal și Capela Regală din Dreux. Încheiați-vă ziua activă mergând spre Le Moulin de la Latte, unde vă puteți bucura de o seară liniștită în mijlocul naturii, lângă apele limpezi.",
+        "en": "Kick off your cycling tour in the city center with the historic Belfry and the intricate Saint-Pierre Church. Your midday break will be culturally enriched by a visit to the Museum of Art and History. Post-lunch, pedal uphill to the Royal Domain and the stunning Royal Chapel of Dreux. Finish your active day by riding out to Le Moulin de la Latte, enjoying a serene evening by the water."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:28",
+      "total_km": 14.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum für Kunst und Geschichte",
+            "hu": "Művészeti és Történeti Múzeum",
+            "ro": "Muzeul de Artă și Istorie",
+            "en": "Museum of Art and History"
+          },
+          "coords": [
+            1.368041,
+            48.733925
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die in einer ehemaligen Kapelle untergebrachte Kunstsammlung und nehmen Sie sich die Zeit, am Eingang einen Audioguide auszuleihen.",
+            "hu": "Fedezze fel a helyi művészeti gyűjteményt egy egykori kápolnában, és szánjon időt arra, hogy felvegyen egy ingyenes audioguide-ot a bejáratnál.",
+            "ro": "Explorați o colecție bogată de artă locală într-o fostă capelă, luându-vă timp pentru a solicita un ghid audio gratuit de la intrarea muzeului.",
+            "en": "Explore a rich collection of local art and archaeological finds housed in a former chapel, taking time to pick up a free audio guide at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Belfried von Dreux",
+            "hu": "Dreux-i harangtorony",
+            "ro": "Clopotnița din Dreux",
+            "en": "Belfry of Dreux"
+          },
+          "coords": [
+            1.36729,
+            48.73553
+          ],
+          "category": "civic",
+          "arrive_at": "10:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses historischen Belfrieds am Platz und versuchen Sie zur vollen Stunde hier zu sein, um die Glocken zu hören.",
+            "hu": "Csodálja meg a teret uraló történelmi harangtorony bonyolult építészetét, és próbáljon meg egész órára érkezni, hogy hallja a harangjátékot.",
+            "ro": "Admirați arhitectura acestui turn istoric ce domină piața și încercați să ajungeți la oră fixă pentru a asculta sunetul melodios al clopotelor.",
+            "en": "Admire the intricate architecture of this historic belfry dominating the square, and try to arrive at the top of the hour to hear the bells chiming."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Pierre",
+            "hu": "Saint-Pierre templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            1.36842,
+            48.736113
+          ],
+          "category": "religious",
+          "arrive_at": "11:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Glasfenster dieser majestätischen Kirche und treten Sie am frühen Morgen ein, um die lebhaftesten Lichtspiele zu erleben.",
+            "hu": "Csodálja meg e fenséges templom látványos ólomüveg ablakait, és lépjen be kora reggel, hogy a legélénkebb fényviszonyok között láthassa őket.",
+            "ro": "Minunați-vă de vitraliile spectaculoase ale acestei biserici și intrați dimineața devreme pentru a vă bucura de cele mai vibrante jocuri de lumini.",
+            "en": "Marvel at the spectacular stained glass windows of this majestic church, and step inside during the early morning for the most vibrant light displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Königliche Domäne von Dreux",
+            "hu": "Dreux-i Királyi Birtok",
+            "ro": "Domeniul Regal din Dreux",
+            "en": "Royal Domain of Dreux"
+          },
+          "coords": [
+            1.363479,
+            48.738823
+          ],
+          "category": "historical",
+          "arrive_at": "11:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die weitläufigen Anlagen dieses historischen königlichen Anwesens und tragen Sie bequeme Schuhe für die vielen Wanderwege.",
+            "hu": "Sétáljon végig ennek a történelmi jelentőségű királyi birtoknak a tágas területein, és viseljen kényelmes cipőt a változatos ösvények bejárásához.",
+            "ro": "Plimbați-vă pe domeniile vaste ale acestei proprietăți regale istorice, purtând încălțăminte confortabilă pentru a parcurge diversele alei.",
+            "en": "Wander through the sprawling grounds of this historically significant royal estate, wearing comfortable shoes to navigate the varied walking paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Königliche Kapelle von Dreux",
+            "hu": "Dreux-i Királyi Kápolna",
+            "ro": "Capela Regală din Dreux",
+            "en": "Royal Chapel of Dreux"
+          },
+          "coords": [
+            1.363292,
+            48.738283
+          ],
+          "category": "religious",
+          "arrive_at": "13:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die atemberaubende neugotische Grabstätte der Familie Orleans und überprüfen Sie die begrenzten Besuchszeiten vor Ihrer Anreise.",
+            "hu": "Fedezze fel az Orleans család lélegzetelállító neogótikus temetkezési helyét, és az utazás tervezése előtt mindenképpen ellenőrizze a nyitvatartást.",
+            "ro": "Descoperiți locul de veci neogotic al familiei Orleans, asigurându-vă că verificați programul de vizitare restrâns înainte de a planifica vizita.",
+            "en": "Discover the breathtaking neo-Gothic burial place of the Orleans family, ensuring you check the restricted visiting hours before planning your trip."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Moulin de la Latte",
+            "hu": "Le Moulin de la Latte",
+            "ro": "Le Moulin de la Latte",
+            "en": "Le Moulin de la Latte"
+          },
+          "coords": [
+            1.396377,
+            48.755276
+          ],
+          "category": "natural",
+          "arrive_at": "14:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Genießen Sie einen friedlichen Rückzugsort an diesem malerischen Naturort am Wasser, der sich perfekt für ein kleines Picknick in der Natur eignet.",
+            "hu": "Élvezze a békés elvonulást ezen a festői, vízparti természeti helyen, amely tökéletes egy kis piknikkosár hozatalához és a csendes kikapcsolódáshoz.",
+            "ro": "Bucurați-vă de o retragere pașnică în acest loc natural pitoresc de lângă apă, ideal pentru un picnic relaxant, departe de zgomotul vieții urbane.",
+            "en": "Enjoy a peaceful retreat at this scenic natural spot by the water, perfect for bringing a small picnic basket and relaxing away from the urban noise."
+          }
+        },
+        {
+          "name": {
+            "de": "Wald von Dreux",
+            "hu": "Dreux-i erdő",
+            "ro": "Pădurea Dreux",
+            "en": "Dreux Forest"
+          },
+          "coords": [
+            1.41243,
+            48.8141
+          ],
+          "category": "natural",
+          "arrive_at": "15:43",
+          "stay_min": 105,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die Ruhe dieses weitläufigen Waldgebiets und halten Sie eine Offline-Karte bereit, da der Handyempfang hier lückenhaft sein kann.",
+            "hu": "Merüljön el ennek a hatalmas erdőrezervátumnak a nyugalmában, és tartson kéznél egy offline térképet, mivel a mobilszolgáltatás néhol akadozhat.",
+            "ro": "Cufundați-vă în liniștea acestei rezervații forestiere extinse, păstrând la îndemână o hartă offline, deoarece semnalul mobil poate fi neregulat.",
+            "en": "Immerse yourself in the tranquility of this expansive forest reserve, keeping an offline map handy as mobile service can be patchy in certain areas."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt bequem am Kunstmuseum, bevor ein kurzer Spaziergang Sie zum Belfried und zur Kirche Saint-Pierre führt. Der Nachmittag bringt Sie zu den Höhen der königlichen Domäne und der Kapelle. Später fahren Sie zum ruhigen Le Moulin de la Latte für eine malerische Pause. Lassen Sie den Tag mit einem friedlichen Sonnenuntergang im weitläufigen Wald von Dreux ausklingen.",
+        "hu": "Autós útvonala kényelmesen, a Múzeumnál kezdődik, mielőtt egy rövid sétával elérné a harangtornyot és a templomot. A délután a Királyi Birtok fenséges magaslataira és a Királyi Kápolnához vezet. Később autózzon el a nyugodt Le Moulin de la Latte-hoz egy kis pihenésre. Zárja a napot a természet lágy ölén, élvezve a csendes és békés naplementét a hatalmas dreux-i erdőben.",
+        "ro": "Itinerariul auto începe confortabil la Muzeul de Artă, înainte ca o scurtă plimbare să vă ducă la clopotniță și Biserica Saint-Pierre. După-amiaza vă poartă spre înălțimile Domeniului Regal și ale Capelei Regale. Mai târziu, conduceți spre liniștitul Le Moulin de la Latte pentru o pauză pitorească. Încheiați ziua în mijlocul naturii, cu un apus senin în Pădurea Dreux.",
+        "en": "Your driving itinerary begins comfortably at the Museum of Art and History, before a short stroll connects you to the Belfry and Saint-Pierre Church. The afternoon takes you to the regal heights of the Royal Domain and the majestic Royal Chapel. Later, drive out to the tranquil Le Moulin de la Latte for a scenic rest. Wrap up the day deeply immersed in nature with a serene sunset at Dreux Forest."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "turkey-kayakoy-cities-v2",
+  "anchor": {
+    "name": "Kayaköy",
+    "coords": [
+      29.08746,
+      36.57813
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:27",
+      "total_km": 2.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kreisverkehr-Wegweiserdenkmal",
+            "hu": "Körforgalmi útjelző emlékmű",
+            "ro": "Monumentul indicator rutier din sensul giratoriu",
+            "en": "Roundabout signpost monument"
+          },
+          "coords": [
+            29.087422,
+            36.578725
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihr Abenteuer am zentralen Kreisverkehrsdenkmal und werfen Sie einen Blick auf die Karte, bevor Sie in bequemen Schuhen losgehen.",
+            "hu": "Kezdje a Kayaköy-kalandot ennél a központi körforgalmi emlékműnél, és nézze meg a térképet, mielőtt kényelmes cipőben elindulna felfelé a hegyen.",
+            "ro": "Începeți aventura din Kayaköy la acest monument central din sensul giratoriu, studiind harta înainte de a urca dealul în încălțăminte confortabilă.",
+            "en": "Start your Kayaköy adventure at this central roundabout monument, taking a moment to check the map before heading up the hill in comfortable shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Untere Kirche",
+            "hu": "Alsó templom",
+            "ro": "Biserica de Jos",
+            "en": "Lower Church"
+          },
+          "coords": [
+            29.086646,
+            36.575543
+          ],
+          "category": "landmark",
+          "arrive_at": "09:32",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Bewundern Sie die verblassten Fresken dieser gut erhaltenen orthodoxen Kirche, aber treten Sie vorsichtig auf, da der alte Steinboden sehr uneben ist.",
+            "hu": "Csodálja meg ennek a jó állapotban lévő ortodox templomnak a kifakult freskóit, de lépkedjen óvatosan, mert az ősi kőpadló gyakran egyenetlen.",
+            "ro": "Admirați frescele decolorate ale acestei biserici ortodoxe bine conservate, dar pășiți cu grijă, deoarece podeaua veche din piatră este adesea alunecoasă.",
+            "en": "Admire the faded frescoes of this well-preserved orthodox church, but step carefully as the ancient stone floor is often uneven and quite slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle",
+            "hu": "Kápolna",
+            "ro": "Capelă",
+            "en": "Chapel"
+          },
+          "coords": [
+            29.089537,
+            36.57505
+          ],
+          "category": "historical",
+          "arrive_at": "10:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.34,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese versteckte Kapelle zwischen den Ruinen für einen ruhigen Moment und bringen Sie einen Hut mit, da Schatten hier Mangelware ist.",
+            "hu": "Fedezze fel ezt a romok között megbúvó kápolnát egy csendes pillanatra, és feltétlenül hozzon magával kalapot, mivel itt ritka az árnyék.",
+            "ro": "Descoperiți această capelă ascunsă printre ruine pentru un moment de liniște și asigurați-vă că purtați o pălărie, deoarece umbra este rară aici.",
+            "en": "Discover this hidden chapel among the ruins for a quiet moment of reflection, and be sure to bring a wide-brimmed hat since shade is scarce here."
+          }
+        },
+        {
+          "name": {
+            "de": "Hochkirche",
+            "hu": "Felső templom",
+            "ro": "Biserica Înaltă",
+            "en": "High Church"
+          },
+          "coords": [
+            29.091341,
+            36.574961
+          ],
+          "category": "historical",
+          "arrive_at": "11:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Steigen Sie zum höchsten Punkt des Geisterdorfes auf, um die majestätische Hochkirche zu sehen, und bringen Sie viel Wasser für den steilen Aufstieg mit.",
+            "hu": "Másszon fel a szellemfalu legmagasabb pontjára, hogy megnézze a fenséges Felső templomot, és hozzon sok vizet a meredek és nyitott emelkedőhöz.",
+            "ro": "Urcați în cel mai înalt punct al satului fantomă pentru a vedea măreața Biserică Înaltă, aducând multă apă pentru ascensiunea abruptă și expusă.",
+            "en": "Climb to the highest point of the ghost village to see the majestic High Church, bringing plenty of water for the steep and exposed ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Hochkapelle",
+            "hu": "Felső kápolna",
+            "ro": "Capela Înaltă",
+            "en": "High Chapel"
+          },
+          "coords": [
+            29.085598,
+            36.573246
+          ],
+          "category": "landmark",
+          "arrive_at": "12:56",
+          "stay_min": 25,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.71,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf das verlassene Tal von dieser hochgelegenen Kapelle, wo ein früher Besuch am Morgen das beste Licht garantiert.",
+            "hu": "Élvezze az elhagyatott völgy panorámáját ebből a magasan fekvő kápolnából, ahol a kora reggeli látogatás biztosítja a legjobb fényviszonyokat a fotózáshoz.",
+            "ro": "Bucurați-vă de vederea panoramică a văii abandonate de la această capelă înaltă, unde o vizită dimineața devreme asigură cea mai bună lumină.",
+            "en": "Take in the panoramic views of the abandoned valley from this elevated chapel, where an early morning visit ensures the best photographic lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinen einer Kirche",
+            "hu": "Egy templom romjai",
+            "ro": "Ruinele unei biserici",
+            "en": "ruins of a church"
+          },
+          "coords": [
+            29.077377,
+            36.576853
+          ],
+          "category": "historical",
+          "arrive_at": "13:37",
+          "stay_min": 110,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.09,
+          "tip_5lang": {
+            "de": "Erkunden Sie die stimmungsvollen Ruinen dieser vergessenen, überwachsenen Kirche und achten Sie auf lose Steine, die auf den Wegen verstreut sind.",
+            "hu": "Fedezze fel ennek a vadnövényzettel benőtt elfeledett templomnak a hangulatos romjait, és ügyeljen az ösvényeken szétszórt meglazult kövekre.",
+            "ro": "Explorați ruinele pline de atmosferă ale acestei biserici uitate acoperite de vegetație sălbatică, fiind atenți la pietrele libere de pe cărări.",
+            "en": "Explore the atmospheric ruins of this forgotten church covered in wild vegetation, keeping an eye out for loose stones scattered across the pathways."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am Dorfeingang und gibt einen historischen Ton an, bevor die Untere Kirche erkundet wird. Mittags geht es tiefer in die verlassenen Gassen zu versteckten Kapellen. Am Nachmittag erklimmen Sie die Höhen zur Hochkirche. Der Abend endet stimmungsvoll zwischen den Ruinen im warmen Licht der untergehenden Sonne.",
+        "hu": "A reggel a falu bejáratánál indul, történelmi alaphangot adva az Alsó templom felfedezése előtt. A dél dél felé haladva elhagyatott sikátorokba és rejtett kápolnákba vezet. Délután hódítsa meg a magaslatokat a Felső templomhoz. Az este a távoli romok között ér véget, miközben a lemenő nap gyönyörű fényekkel árasztja el a tájat.",
+        "ro": "Dimineața începe la intrarea în sat, stabilind un ton istoric înainte de explorarea Bisericii de Jos. Amiaza vă duce mai adânc pe aleile abandonate spre capele ascunse. După-amiaza urcați spre Biserica Înaltă și Capela Înaltă. Seara se încheie printre ruinele îndepărtate, într-o atmosferă magică, în timp ce soarele apune peste vale.",
+        "en": "Morning begins at the village entrance, setting a historical tone before exploring the Lower Church. Midday takes you deeper into the abandoned alleys, discovering hidden chapels. In the afternoon, conquer the heights to reach the High Church and High Chapel. The evening concludes among the evocative distant ruins as the sun sets."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:56",
+      "total_km": 4.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kreisverkehr-Wegweiserdenkmal",
+            "hu": "Körforgalmi útjelző emlékmű",
+            "ro": "Monumentul indicator rutier din sensul giratoriu",
+            "en": "Roundabout signpost monument"
+          },
+          "coords": [
+            29.087422,
+            36.578725
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihr Abenteuer am zentralen Kreisverkehrsdenkmal und werfen Sie einen Blick auf die Karte, bevor Sie in bequemen Schuhen losgehen.",
+            "hu": "Kezdje a Kayaköy-kalandot ennél a központi körforgalmi emlékműnél, és nézze meg a térképet, mielőtt kényelmes cipőben elindulna felfelé a hegyen.",
+            "ro": "Începeți aventura din Kayaköy la acest monument central din sensul giratoriu, studiind harta înainte de a urca dealul în încălțăminte confortabilă.",
+            "en": "Start your Kayaköy adventure at this central roundabout monument, taking a moment to check the map before heading up the hill in comfortable shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Untere Kirche",
+            "hu": "Alsó templom",
+            "ro": "Biserica de Jos",
+            "en": "Lower Church"
+          },
+          "coords": [
+            29.086646,
+            36.575543
+          ],
+          "category": "landmark",
+          "arrive_at": "09:28",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Bewundern Sie die verblassten Fresken dieser gut erhaltenen orthodoxen Kirche, aber treten Sie vorsichtig auf, da der alte Steinboden sehr uneben ist.",
+            "hu": "Csodálja meg ennek a jó állapotban lévő ortodox templomnak a kifakult freskóit, de lépkedjen óvatosan, mert az ősi kőpadló gyakran egyenetlen.",
+            "ro": "Admirați frescele decolorate ale acestei biserici ortodoxe bine conservate, dar pășiți cu grijă, deoarece podeaua veche din piatră este adesea alunecoasă.",
+            "en": "Admire the faded frescoes of this well-preserved orthodox church, but step carefully as the ancient stone floor is often uneven and quite slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Hochkirche",
+            "hu": "Felső templom",
+            "ro": "Biserica Înaltă",
+            "en": "High Church"
+          },
+          "coords": [
+            29.091341,
+            36.574961
+          ],
+          "category": "historical",
+          "arrive_at": "09:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.56,
+          "tip_5lang": {
+            "de": "Steigen Sie zum höchsten Punkt des Geisterdorfes auf, um die majestätische Hochkirche zu sehen, und bringen Sie viel Wasser für den steilen Aufstieg mit.",
+            "hu": "Másszon fel a szellemfalu legmagasabb pontjára, hogy megnézze a fenséges Felső templomot, és hozzon sok vizet a meredek és nyitott emelkedőhöz.",
+            "ro": "Urcați în cel mai înalt punct al satului fantomă pentru a vedea măreața Biserică Înaltă, aducând multă apă pentru ascensiunea abruptă și expusă.",
+            "en": "Climb to the highest point of the ghost village to see the majestic High Church, bringing plenty of water for the steep and exposed ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Antiker Wasserspeicher",
+            "hu": "Ősi víztározó",
+            "ro": "Rezervor antic de apă",
+            "en": "Ancient Water Reservoir"
+          },
+          "coords": [
+            29.083578,
+            36.563963
+          ],
+          "category": "historical",
+          "arrive_at": "11:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.83,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die antike Ingenieurskunst dieses wichtigen Steinreservoirs, ohne sich beim Fotografieren über die brüchigen historischen Ränder zu lehnen.",
+            "hu": "Csodálja meg ennek a létfontosságú kőből épült víztározónak az ősi mérnöki munkáját, ügyelve arra, hogy fotózás közben ne hajoljon át a törékeny széleken.",
+            "ro": "Minunați-vă de ingineria antică a acestui rezervor de apă din piatră, având grijă să nu vă aplecați peste marginile istorice fragile în timp ce fotografiați.",
+            "en": "Marvel at the ancient engineering of this vital stone water reservoir, taking care not to lean over the fragile historical edges while photographing."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaltwasserbucht",
+            "hu": "Hideg vizű öböl",
+            "ro": "Golful cu Apă Rece",
+            "en": "Cold Water Bay"
+          },
+          "coords": [
+            29.082354,
+            36.564204
+          ],
+          "category": "recreational",
+          "arrive_at": "12:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Erfrischen Sie sich mit einem Bad im überraschend kühlen Wasser dieser Bucht, aber denken Sie daran, Badeschuhe für das kiesige Ufer einzupacken.",
+            "hu": "Frissüljön fel egy úszással ennek a gyönyörű öbölnek a meglepően hűvös vizében, de ne felejtsen el vízi cipőt hozni a kavicsos parthoz.",
+            "ro": "Răcoriți-vă înotând în apele surprinzător de reci ale acestui golf frumos, dar nu uitați să aduceți încălțăminte de apă pentru țărmul cu pietriș.",
+            "en": "Refresh yourself with a swim in the surprisingly chilly waters of this beautiful bay, but remember to pack water shoes for the pebbly shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Kamelstrand",
+            "hu": "Teve-part",
+            "ro": "Plaja Cămilei",
+            "en": "Camel beach"
+          },
+          "coords": [
+            29.091728,
+            36.556168
+          ],
+          "category": "recreational",
+          "arrive_at": "14:11",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.61,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den Sandstränden des Camel Beach und buchen Sie in den Hochsommermonaten frühzeitig eine Sonnenliege für maximalen Komfort.",
+            "hu": "Pihenjen a Camel Beach homokos partszakaszán, és a maximális kényelem érdekében a nyári csúcsidőszakban korán foglaljon napozóágyat.",
+            "ro": "Relaxați-vă pe porțiunile de nisip de la Camel Beach și rezervați un șezlong devreme în lunile de vârf de vară pentru confort maxim.",
+            "en": "Relax on the sandy stretches of Camel Beach to wind down your afternoon, booking a sunbed early during peak summer months for maximum comfort."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt am Kreisverkehr und besichtigen Sie die Untere Kirche. Mittags belohnt Sie das Treten bergauf mit der Hochkirche. Der Nachmittag widmet sich der Küste mit einem Besuch des antiken Reservoirs und einem Bad in Cold Water Bay. Am Abend entspannen Sie sich bei den sanften Wellen am herrlichen Camel Beach.",
+        "hu": "Kezdje a kerékpározást a falu körforgalmánál, és nézze meg a történelmi Alsó templomot a hűvös reggeli levegőn. Délben a felfelé tekerés jutalma a lenyűgöző Felső templom. A délután a partvidéké, a víztározó megtekintésével és fürdéssel a Cold Water Bay-ben. Az este a Camel Beach lágy hullámai melletti pihenéssel telik.",
+        "ro": "Începeți plimbarea la sensul giratoriu, vizitând Biserica de Jos în aerul răcoros al dimineții. La prânz, pedalatul la deal vă răsplătește cu impresionanta Biserică Înaltă. După-amiaza se concentrează pe coastă, vizitând vechiul rezervor și înotând în Cold Water Bay. Seara vă găsește relaxându-vă la valurile liniștitoare de la Camel Beach.",
+        "en": "Start your ride at the village roundabout, taking in the historical Lower Church in the cool morning air. By midday, pedaling uphill rewards you with the impressive High Church. The afternoon shifts to coastal exploration, visiting the Ancient Reservoir and swimming in Cold Water Bay. Evening finds you relaxing by the soothing waves of Camel Beach."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:41",
+      "total_km": 4.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kreisverkehr-Wegweiserdenkmal",
+            "hu": "Körforgalmi útjelző emlékmű",
+            "ro": "Monumentul indicator rutier din sensul giratoriu",
+            "en": "Roundabout signpost monument"
+          },
+          "coords": [
+            29.087422,
+            36.578725
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihr Abenteuer am zentralen Kreisverkehrsdenkmal und werfen Sie einen Blick auf die Karte, bevor Sie in bequemen Schuhen losgehen.",
+            "hu": "Kezdje a Kayaköy-kalandot ennél a központi körforgalmi emlékműnél, és nézze meg a térképet, mielőtt kényelmes cipőben elindulna felfelé a hegyen.",
+            "ro": "Începeți aventura din Kayaköy la acest monument central din sensul giratoriu, studiind harta înainte de a urca dealul în încălțăminte confortabilă.",
+            "en": "Start your Kayaköy adventure at this central roundabout monument, taking a moment to check the map before heading up the hill in comfortable shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Untere Kirche",
+            "hu": "Alsó templom",
+            "ro": "Biserica de Jos",
+            "en": "Lower Church"
+          },
+          "coords": [
+            29.086646,
+            36.575543
+          ],
+          "category": "landmark",
+          "arrive_at": "09:26",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Bewundern Sie die verblassten Fresken dieser gut erhaltenen orthodoxen Kirche, aber treten Sie vorsichtig auf, da der alte Steinboden sehr uneben ist.",
+            "hu": "Csodálja meg ennek a jó állapotban lévő ortodox templomnak a kifakult freskóit, de lépkedjen óvatosan, mert az ősi kőpadló gyakran egyenetlen.",
+            "ro": "Admirați frescele decolorate ale acestei biserici ortodoxe bine conservate, dar pășiți cu grijă, deoarece podeaua veche din piatră este adesea alunecoasă.",
+            "en": "Admire the faded frescoes of this well-preserved orthodox church, but step carefully as the ancient stone floor is often uneven and quite slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Hochkirche",
+            "hu": "Felső templom",
+            "ro": "Biserica Înaltă",
+            "en": "High Church"
+          },
+          "coords": [
+            29.091341,
+            36.574961
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.56,
+          "tip_5lang": {
+            "de": "Steigen Sie zum höchsten Punkt des Geisterdorfes auf, um die majestätische Hochkirche zu sehen, und bringen Sie viel Wasser für den steilen Aufstieg mit.",
+            "hu": "Másszon fel a szellemfalu legmagasabb pontjára, hogy megnézze a fenséges Felső templomot, és hozzon sok vizet a meredek és nyitott emelkedőhöz.",
+            "ro": "Urcați în cel mai înalt punct al satului fantomă pentru a vedea măreața Biserică Înaltă, aducând multă apă pentru ascensiunea abruptă și expusă.",
+            "en": "Climb to the highest point of the ghost village to see the majestic High Church, bringing plenty of water for the steep and exposed ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Antiker Wasserspeicher",
+            "hu": "Ősi víztározó",
+            "ro": "Rezervor antic de apă",
+            "en": "Ancient Water Reservoir"
+          },
+          "coords": [
+            29.083578,
+            36.563963
+          ],
+          "category": "historical",
+          "arrive_at": "11:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.83,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die antike Ingenieurskunst dieses wichtigen Steinreservoirs, ohne sich beim Fotografieren über die brüchigen historischen Ränder zu lehnen.",
+            "hu": "Csodálja meg ennek a létfontosságú kőből épült víztározónak az ősi mérnöki munkáját, ügyelve arra, hogy fotózás közben ne hajoljon át a törékeny széleken.",
+            "ro": "Minunați-vă de ingineria antică a acestui rezervor de apă din piatră, având grijă să nu vă aplecați peste marginile istorice fragile în timp ce fotografiați.",
+            "en": "Marvel at the ancient engineering of this vital stone water reservoir, taking care not to lean over the fragile historical edges while photographing."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaltwasserbucht",
+            "hu": "Hideg vizű öböl",
+            "ro": "Golful cu Apă Rece",
+            "en": "Cold Water Bay"
+          },
+          "coords": [
+            29.082354,
+            36.564204
+          ],
+          "category": "recreational",
+          "arrive_at": "12:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Erfrischen Sie sich mit einem Bad im überraschend kühlen Wasser dieser Bucht, aber denken Sie daran, Badeschuhe für das kiesige Ufer einzupacken.",
+            "hu": "Frissüljön fel egy úszással ennek a gyönyörű öbölnek a meglepően hűvös vizében, de ne felejtsen el vízi cipőt hozni a kavicsos parthoz.",
+            "ro": "Răcoriți-vă înotând în apele surprinzător de reci ale acestui golf frumos, dar nu uitați să aduceți încălțăminte de apă pentru țărmul cu pietriș.",
+            "en": "Refresh yourself with a swim in the surprisingly chilly waters of this beautiful bay, but remember to pack water shoes for the pebbly shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Kamelstrand",
+            "hu": "Teve-part",
+            "ro": "Plaja Cămilei",
+            "en": "Camel beach"
+          },
+          "coords": [
+            29.091728,
+            36.556168
+          ],
+          "category": "recreational",
+          "arrive_at": "13:56",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.61,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den Sandstränden des Camel Beach und buchen Sie in den Hochsommermonaten frühzeitig eine Sonnenliege für maximalen Komfort.",
+            "hu": "Pihenjen a Camel Beach homokos partszakaszán, és a maximális kényelem érdekében a nyári csúcsidőszakban korán foglaljon napozóágyat.",
+            "ro": "Relaxați-vă pe porțiunile de nisip de la Camel Beach și rezervați un șezlong devreme în lunile de vârf de vară pentru confort maxim.",
+            "en": "Relax on the sandy stretches of Camel Beach to wind down your afternoon, booking a sunbed early during peak summer months for maximum comfort."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt am Hauptdenkmal, bevor Sie die Hoch- und Unterkirche des Geisterdorfes besichtigen. Mittags fahren Sie malerisch hinab zur Küste, um das antike Reservoir zu entdecken. Der Nachmittag dient der reinen Erholung in der Cold Water Bay. Der Tag endet mit einer herrlichen Fahrt in den Sonnenuntergang zum Camel Beach.",
+        "hu": "Az autózás a fő emlékműnél kezdődik, mielőtt felfedezné a szellemfalu ikonikus Felső és Alsó templomait. Délben gyors, festői autózás visz a partra az ősi víztározóhoz. A délután színtiszta kikapcsolódás a frissítő Cold Water Bay-ben. A nap egy gyönyörű naplementés autózással zárul a Camel Beach felé.",
+        "ro": "Călătoria cu mașina începe la monumentul principal înainte de a vizita faimoasele biserici din satul fantomă. La prânz, un drum scurt și pitoresc coboară spre coastă pentru a descoperi vechiul rezervor. După-amiaza este de recreere, înotând în Cold Water Bay. Ziua se încheie cu un drum la apus spre relaxanta Camel Beach.",
+        "en": "Your drive starts at the main monument before checking out the iconic High and Lower Churches of the ghost village. Midday allows a quick, scenic drive down to the coast to discover the Ancient Water Reservoir. The afternoon is purely recreational, splashing in the refreshing Cold Water Bay. The day wraps up with a sunset drive to Camel Beach."
+      }
+    }
+  }
+}

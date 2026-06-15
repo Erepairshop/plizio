@@ -1,0 +1,543 @@
+{
+  "city_id": "salon-de-provence",
+  "anchor": {
+    "name": "Salon-de-Provence",
+    "coords": [
+      5.0972,
+      43.6406
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:05",
+      "total_km": 1.03,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Fontaine Moussue",
+            "hu": "Fontaine Moussue",
+            "ro": "Fontaine Moussue",
+            "en": "Fontaine Moussue"
+          },
+          "coords": [
+            5.097077,
+            43.641554
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den moosbedeckten Brunnen, ein Symbol für den historischen Wasserreichtum der Stadt, und genießen Sie einen Kaffee auf einer nahegelegenen Terrasse.",
+            "hu": "Csodálja meg a város jelképének számító, mohával borított szökőkutat, és igyon egy kávét a közeli teraszok egyikén a víz csobogását hallgatva.",
+            "ro": "Admirați fântâna iconică acoperită de mușchi, un simbol al bogăției istorice a apei din oraș, și savurați o cafea la o terasă din apropiere.",
+            "en": "Admire the iconic moss-covered fountain, a symbol of Salon-de-Provence's historical water wealth, and grab a coffee at a nearby terrace to enjoy its soothing sound."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte Bourg Neuf",
+            "hu": "Porte Bourg Neuf",
+            "ro": "Porte Bourg Neuf",
+            "en": "Porte Bourg Neuf"
+          },
+          "coords": [
+            5.098971,
+            43.640928
+          ],
+          "category": "historical",
+          "arrive_at": "09:27",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Gehen Sie unter diesem mittelalterlichen Tor hindurch, das einst die Altstadt verteidigte, und beachten Sie die Statue der Schwarzen Madonna in ihrer Steinnische.",
+            "hu": "Sétáljon át a középkori városkapu alatt, amely egykor a várost védte, és figyelje meg a Fekete Szűz szobrát a régi kőfülkében.",
+            "ro": "Treceți pe sub această poartă medievală care apăra odată orașul vechi și observați statuia Fecioarei Negre ascunsă în nișa sa de piatră.",
+            "en": "Pass under this medieval gateway which once defended the old town, and notice the statue of the Black Virgin hidden in its ancient stone niche."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison de Nostradamus",
+            "hu": "Maison de Nostradamus",
+            "ro": "Maison de Nostradamus",
+            "en": "Maison de Nostradamus"
+          },
+          "coords": [
+            5.098187,
+            43.641118
+          ],
+          "category": "museum",
+          "arrive_at": "09:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.07,
+          "tip_5lang": {
+            "de": "Erkunden Sie das ehemalige Wohnhaus des berühmten Propheten, um mehr über sein Leben zu erfahren, und kaufen Sie Tickets online, um Warteschlangen zu vermeiden.",
+            "hu": "Fedezze fel a híres próféta egykori otthonát, hogy megismerje életét és munkásságát, de a nyári sorban állás elkerülése érdekében vegyen jegyet online.",
+            "ro": "Explorați fosta casă a celebrului profet pentru a afla despre viața și operele sale, dar asigurați-vă că luați bilete online pentru a evita cozile de vară.",
+            "en": "Explore the former home of the famous prophet to learn about his life and works, but be sure to buy tickets online to skip the summer queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Michel",
+            "hu": "Église Saint-Michel",
+            "ro": "Église Saint-Michel",
+            "en": "Église Saint-Michel"
+          },
+          "coords": [
+            5.098271,
+            43.640501
+          ],
+          "category": "religious",
+          "arrive_at": "11:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.07,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese wunderschöne Kirche aus dem 13. Jahrhundert mit ihrer romanisch-gotischen Architektur und achten Sie auf die Schnitzereien am Hauptportal.",
+            "hu": "Látogasson el ebbe a gyönyörű, 13. századi templomba, amely román-gótikus építészetéről ismert, és figyelje meg a főportál körüli faragásokat.",
+            "ro": "Vizitați această frumoasă biserică din secolul al XIII-lea, cunoscută pentru arhitectura sa romanică-gotică, și acordați atenție sculpturilor din jurul portalului.",
+            "en": "Visit this beautiful 13th-century church known for its Romanesque-Gothic architecture, and pay attention to the intricate carvings around the main portal."
+          }
+        },
+        {
+          "name": {
+            "de": "L'Hôtel de Ville",
+            "hu": "L'Hôtel de Ville",
+            "ro": "L'Hôtel de Ville",
+            "en": "L'Hôtel de Ville"
+          },
+          "coords": [
+            5.09921,
+            43.640624
+          ],
+          "category": "civic",
+          "arrive_at": "12:05",
+          "stay_min": 20,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.08,
+          "tip_5lang": {
+            "de": "Werfen Sie einen Blick auf die klassische Fassade des Rathauses aus dem 17. Jahrhundert an diesem belebten Platz, der sich perfekt für ein schnelles Foto eignet.",
+            "hu": "Vessen egy pillantást a nyüzsgő téren található városháza klasszikus, 17. századi homlokzatára, amely tökéletes egy gyors fotó elkészítéséhez.",
+            "ro": "Aruncați o privire la fațada clasică din secolul al XVII-lea a primăriei, situată într-o piață plină de viață, ideală pentru o fotografie rapidă.",
+            "en": "Take a quick look at the classic 17th-century facade of the city hall located on a bustling square, which is perfect for capturing a quick photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de l'Empéri",
+            "hu": "Château de l'Empéri",
+            "ro": "Château de l'Empéri",
+            "en": "Château de l'Empéri"
+          },
+          "coords": [
+            5.097222,
+            43.639444
+          ],
+          "category": "historical",
+          "arrive_at": "12:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Steigen Sie zu dieser massiven Festung hinauf, die die Stadt dominiert, um den Panoramablick zu genießen, und tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+            "hu": "Másszon fel erre a várost uraló hatalmas hegyvidéki erődítményre a lenyűgöző panorámáért, és viseljen kényelmes cipőt a macskaköves utakon.",
+            "ro": "Urcați la această fortăreață masivă de pe deal care domină orașul pentru a vă bucura de vederi panoramice și purtați încălțăminte confortabilă pentru piatra cubică.",
+            "en": "Climb up to this massive hilltop fortress dominating the town to enjoy sweeping panoramic views, and wear comfortable shoes for the cobblestone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Collégiale Saint-Laurent",
+            "hu": "Collégiale Saint-Laurent",
+            "ro": "Collégiale Saint-Laurent",
+            "en": "Collégiale Saint-Laurent"
+          },
+          "coords": [
+            5.09696,
+            43.6436
+          ],
+          "category": "religious",
+          "arrive_at": "13:55",
+          "stay_min": 70,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Betreten Sie diese majestätische Stiftskirche, in der Nostradamus begraben ist, und nehmen Sie sich einen Moment der ruhigen Besinnung an seinem historischen Grab.",
+            "hu": "Lépjen be ebbe a fenséges társaskáptalani templomba, ahol Nostradamus nyugszik, és töltsön el egy percet a csendes elmélkedéssel a történelmi sír közelében.",
+            "ro": "Pășiți în interiorul acestei maiestuoase biserici colegiale unde este înmormântat Nostradamus și acordați-vă un moment de reflecție lângă mormântul său.",
+            "en": "Step inside this majestic collegiate church where Nostradamus is buried, and take a moment of quiet reflection near his historic tomb."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen am moosbedeckten Brunnen, bevor Sie am Porte Bourg Neuf und im Nostradamus-Haus ins Mittelalter eintauchen.\nMittags bewundern Sie die Église Saint-Michel und das elegante Rathaus.\nNachmittags steigen Sie zum beeindruckenden Château de l'Empéri hinauf, um den Panoramablick zu genießen.\nBeenden Sie den Abend in der Stiftskirche Saint-Laurent am Grab von Nostradamus.",
+        "hu": "Kezdje a reggelt a mohával borított szökőkútnál, mielőtt elmerülne a Porte Bourg Neuf és a Nostradamus-ház középkori hangulatában.\nDélben csodálja meg az Église Saint-Michel-t és az elegáns városházát.\nDélután másszon fel a lenyűgöző Château de l'Empéri erődhöz a panorámáért.\nZárja az estét a Collégiale Saint-Laurent-ben, amely Nostradamus végső nyughelye is egyben.",
+        "ro": "Începeți dimineața la fântâna acoperită de mușchi, înainte de a pătrunde în atmosfera medievală la Porte Bourg Neuf și casa lui Nostradamus.\nLa amiază, admirați biserica Saint-Michel și eleganta primărie.\nDupă-amiaza, urcați la formidabilul Château de l'Empéri pentru vederi panoramice.\nÎncheiați seara la Colegiata Saint-Laurent, locul de odihnă al celebrului profet Nostradamus.",
+        "en": "Begin your morning at the iconic moss-covered fountain, before diving into the medieval atmosphere of Porte Bourg Neuf and Nostradamus's house.\nMidday brings you to the beautiful Église Saint-Michel and the elegant Hôtel de Ville.\nIn the afternoon, ascend to the formidable Château de l'Empéri for panoramic views.\nConclude your evening at Collégiale Saint-Laurent, resting place of Nostradamus."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:06",
+      "total_km": 1.37,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Le Jardin Magique",
+            "hu": "Le Jardin Magique",
+            "ro": "Le Jardin Magique",
+            "en": "Le Jardin Magique"
+          },
+          "coords": [
+            5.100506,
+            43.639988
+          ],
+          "category": "garden",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem charmanten Gemeinschaftsgarten mit mediterranen Pflanzen und bringen Sie eine wiederverwendbare Wasserflasche für die morgendliche Pause mit.",
+            "hu": "Pihenjen ebben a mediterrán növényekkel teli, hangulatos közösségi kertben, és hozzon magával kulacsot, hogy hidratált maradjon a napsütéses reggelen.",
+            "ro": "Relaxați-vă în această grădină comunitară fermecătoare, plină de plante mediteraneene, aducând o sticlă de apă reutilizabilă pentru a vă hidrata dimineața.",
+            "en": "Relax in this charming community garden filled with Mediterranean plants, bringing a reusable water bottle to stay hydrated during a sunny morning break."
+          }
+        },
+        {
+          "name": {
+            "de": "L'Hôtel de Ville",
+            "hu": "L'Hôtel de Ville",
+            "ro": "L'Hôtel de Ville",
+            "en": "L'Hôtel de Ville"
+          },
+          "coords": [
+            5.09921,
+            43.640624
+          ],
+          "category": "civic",
+          "arrive_at": "10:11",
+          "stay_min": 20,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Werfen Sie einen Blick auf die klassische Fassade des Rathauses aus dem 17. Jahrhundert an diesem belebten Platz, der sich perfekt für ein schnelles Foto eignet.",
+            "hu": "Vessen egy pillantást a nyüzsgő téren található városháza klasszikus, 17. századi homlokzatára, amely tökéletes egy gyors fotó elkészítéséhez.",
+            "ro": "Aruncați o privire la fațada clasică din secolul al XVII-lea a primăriei, situată într-o piață plină de viață, ideală pentru o fotografie rapidă.",
+            "en": "Take a quick look at the classic 17th-century facade of the city hall located on a bustling square, which is perfect for capturing a quick photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Michel",
+            "hu": "Église Saint-Michel",
+            "ro": "Église Saint-Michel",
+            "en": "Église Saint-Michel"
+          },
+          "coords": [
+            5.098271,
+            43.640501
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.08,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese wunderschöne Kirche aus dem 13. Jahrhundert mit ihrer romanisch-gotischen Architektur und achten Sie auf die Schnitzereien am Hauptportal.",
+            "hu": "Látogasson el ebbe a gyönyörű, 13. századi templomba, amely román-gótikus építészetéről ismert, és figyelje meg a főportál körüli faragásokat.",
+            "ro": "Vizitați această frumoasă biserică din secolul al XIII-lea, cunoscută pentru arhitectura sa romanică-gotică, și acordați atenție sculpturilor din jurul portalului.",
+            "en": "Visit this beautiful 13th-century church known for its Romanesque-Gothic architecture, and pay attention to the intricate carvings around the main portal."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison de Nostradamus",
+            "hu": "Maison de Nostradamus",
+            "ro": "Maison de Nostradamus",
+            "en": "Maison de Nostradamus"
+          },
+          "coords": [
+            5.098187,
+            43.641118
+          ],
+          "category": "museum",
+          "arrive_at": "11:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.07,
+          "tip_5lang": {
+            "de": "Erkunden Sie das ehemalige Wohnhaus des berühmten Propheten, um mehr über sein Leben zu erfahren, und kaufen Sie Tickets online, um Warteschlangen zu vermeiden.",
+            "hu": "Fedezze fel a híres próféta egykori otthonát, hogy megismerje életét és munkásságát, de a nyári sorban állás elkerülése érdekében vegyen jegyet online.",
+            "ro": "Explorați fosta casă a celebrului profet pentru a afla despre viața și operele sale, dar asigurați-vă că luați bilete online pentru a evita cozile de vară.",
+            "en": "Explore the former home of the famous prophet to learn about his life and works, but be sure to buy tickets online to skip the summer queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Fontaine Moussue",
+            "hu": "Fontaine Moussue",
+            "ro": "Fontaine Moussue",
+            "en": "Fontaine Moussue"
+          },
+          "coords": [
+            5.097077,
+            43.641554
+          ],
+          "category": "historical",
+          "arrive_at": "12:54",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie den moosbedeckten Brunnen, ein Symbol für den historischen Wasserreichtum der Stadt, und genießen Sie einen Kaffee auf einer nahegelegenen Terrasse.",
+            "hu": "Csodálja meg a város jelképének számító, mohával borított szökőkutat, és igyon egy kávét a közeli teraszok egyikén a víz csobogását hallgatva.",
+            "ro": "Admirați fântâna iconică acoperită de mușchi, un simbol al bogăției istorice a apei din oraș, și savurați o cafea la o terasă din apropiere.",
+            "en": "Admire the iconic moss-covered fountain, a symbol of Salon-de-Provence's historical water wealth, and grab a coffee at a nearby terrace to enjoy its soothing sound."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de l'Empéri",
+            "hu": "Château de l'Empéri",
+            "ro": "Château de l'Empéri",
+            "en": "Château de l'Empéri"
+          },
+          "coords": [
+            5.097222,
+            43.639444
+          ],
+          "category": "historical",
+          "arrive_at": "13:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Steigen Sie zu dieser massiven Festung hinauf, die die Stadt dominiert, um den Panoramablick zu genießen, und tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+            "hu": "Másszon fel erre a várost uraló hatalmas hegyvidéki erődítményre a lenyűgöző panorámáért, és viseljen kényelmes cipőt a macskaköves utakon.",
+            "ro": "Urcați la această fortăreață masivă de pe deal care domină orașul pentru a vă bucura de vederi panoramice și purtați încălțăminte confortabilă pentru piatra cubică.",
+            "en": "Climb up to this massive hilltop fortress dominating the town to enjoy sweeping panoramic views, and wear comfortable shoes for the cobblestone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Theatre municipal Armand",
+            "hu": "Theatre municipal Armand",
+            "ro": "Theatre municipal Armand",
+            "en": "Theatre municipal Armand"
+          },
+          "coords": [
+            5.094617,
+            43.641003
+          ],
+          "category": "cultural",
+          "arrive_at": "14:33",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Fassade dieses historischen Stadttheaters und prüfen Sie den Abendspielplan an der Kasse, falls Sie eine lokale Aufführung sehen möchten.",
+            "hu": "Csodálja meg a történelmi városi színház elegáns homlokzatát, és ellenőrizze az esti műsort a jegypénztárnál, ha szeretne megnézni egy helyi előadást.",
+            "ro": "Admirați fațada elegantă a acestui teatru municipal istoric și verificați programul de seară la casa de bilete dacă doriți să asistați la un spectacol.",
+            "en": "Admire the elegant facade of this historical municipal theatre, and check their evening schedule at the box office if you wish to catch a local cultural performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Savonnerie Marius Fabre",
+            "hu": "Savonnerie Marius Fabre",
+            "ro": "Savonnerie Marius Fabre",
+            "en": "Savonnerie Marius Fabre"
+          },
+          "coords": [
+            5.090309,
+            43.637713
+          ],
+          "category": "cultural",
+          "arrive_at": "16:06",
+          "stay_min": 120,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie den authentischen Prozess der Herstellung von Marseiller Seife in dieser historischen Fabrik und kaufen Sie im Shop echte Seifenstücke als Souvenirs.",
+            "hu": "Fedezze fel a marseille-i szappan készítésének hagyományos folyamatát ebben a történelmi gyárban, és vásároljon néhány eredeti szappant a boltban szuvenírként.",
+            "ro": "Descoperiți procesul tradițional autentic de fabricare a săpunului de Marsilia în această fabrică istorică și cumpărați câteva cuburi de săpun din magazin.",
+            "en": "Discover the authentic traditional process of making Marseille soap in this historic factory, and buy a few genuine soap blocks at the shop as perfect souvenirs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie zum ruhigen Jardin Magique, bevor Sie am Rathaus und der Église Saint-Michel vorbeifahren.\nDer Mittag ist dem faszinierenden Nostradamus-Haus und dem historischen Brunnen Fontaine Moussue gewidmet.\nNachmittags fahren Sie zum beeindruckenden Château de l'Empéri und am Theater vorbei.\nBeenden Sie Ihre Tour in der Seifenfabrik Marius Fabre mit Einblicken in die Tradition.",
+        "hu": "Kerékpározzon a csendes Jardin Magique-hoz a nap indításaként, majd haladjon el a városháza és az Église Saint-Michel mellett.\nA délidőt a Nostradamus-ház és a történelmi Fontaine Moussue felfedezésének szentelheti.\nDélután tekerjen fel a lenyűgöző Château de l'Empéri-hez és a városi színházhoz.\nZárja a túrát a híres Marius Fabre szappangyárban, megismerve a hagyományos készítést.",
+        "ro": "Bicicliți lin spre Jardin Magique pentru a începe ziua, apoi pedalați pe lângă primărie și biserica Saint-Michel.\nAmiaza este dedicată fascinantei case a lui Nostradamus și istoricei Fontaine Moussue.\nDupă-amiaza, urcați spre impresionantul Château de l'Empéri și teatrul municipal.\nÎncheiați plimbarea învățând despre săpunul tradițional la celebra fabrică Marius Fabre.",
+        "en": "Cycle smoothly to the serene Jardin Magique to start your day, then pedal past the town hall and the intricate Église Saint-Michel.\nMidday is dedicated to the fascinating Maison de Nostradamus and the historic Fontaine Moussue.\nIn the afternoon, bike up to the impressive Château de l'Empéri and pass the municipal theatre.\nConclude your ride learning about traditional soap at Marius Fabre."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:29",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Savon de Marseille",
+            "hu": "Savon de Marseille",
+            "ro": "Savon de Marseille",
+            "en": "Savon de Marseille"
+          },
+          "coords": [
+            5.10248,
+            43.6272
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese historische Stätte, um mehr über das regionale Erbe der Seifenherstellung zu erfahren, und achten Sie auf Live-Vorführungen am frühen Tag.",
+            "hu": "Látogasson el erre a történelmi helyszínre, hogy megismerje a szappangyártás regionális örökségét, és figyelje az élő bemutatókat, ha korán érkezik.",
+            "ro": "Vizitați acest site istoric pentru a afla despre moștenirea regională a producției de săpun, urmărind demonstrațiile live dacă ajungeți devreme.",
+            "en": "Visit this dedicated historical site to learn about the regional heritage of soap manufacturing, keeping an eye out for live demonstrations if visiting early."
+          }
+        },
+        {
+          "name": {
+            "de": "Accceuil Acrro passion",
+            "hu": "Accceuil Acrro passion",
+            "ro": "Accceuil Acrro passion",
+            "en": "Accceuil Acrro passion"
+          },
+          "coords": [
+            5.106657,
+            43.636849
+          ],
+          "category": "park",
+          "arrive_at": "10:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie eine aktive Pause in diesem Outdoor-Abenteuerpark für alle Altersgruppen und tragen Sie sportliche Kleidung sowie sicheres Schuhwerk zum Klettern.",
+            "hu": "Élvezze az aktív pihenést ebben a minden korosztály számára megfelelő szabadtéri kalandparkban, és feltétlenül viseljen sportos ruházatot a mászópályákhoz.",
+            "ro": "Bucurați-vă de o pauză plină de energie la acest parc de aventură în aer liber, asigurându-vă că purtați haine sport și pantofi siguri pentru traseele de cățărat.",
+            "en": "Enjoy an energetic break at this outdoor adventure park suitable for all ages, making sure to wear athletic clothes and secure shoes for the climbing courses."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de l'Empéri",
+            "hu": "Château de l'Empéri",
+            "ro": "Château de l'Empéri",
+            "en": "Château de l'Empéri"
+          },
+          "coords": [
+            5.097222,
+            43.639444
+          ],
+          "category": "historical",
+          "arrive_at": "11:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Steigen Sie zu dieser massiven Festung hinauf, die die Stadt dominiert, um den Panoramablick zu genießen, und tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+            "hu": "Másszon fel erre a várost uraló hatalmas hegyvidéki erődítményre a lenyűgöző panorámáért, és viseljen kényelmes cipőt a macskaköves utakon.",
+            "ro": "Urcați la această fortăreață masivă de pe deal care domină orașul pentru a vă bucura de vederi panoramice și purtați încălțăminte confortabilă pentru piatra cubică.",
+            "en": "Climb up to this massive hilltop fortress dominating the town to enjoy sweeping panoramic views, and wear comfortable shoes for the cobblestone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison de Nostradamus",
+            "hu": "Maison de Nostradamus",
+            "ro": "Maison de Nostradamus",
+            "en": "Maison de Nostradamus"
+          },
+          "coords": [
+            5.098187,
+            43.641118
+          ],
+          "category": "museum",
+          "arrive_at": "13:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie das ehemalige Wohnhaus des berühmten Propheten, um mehr über sein Leben zu erfahren, und kaufen Sie Tickets online, um Warteschlangen zu vermeiden.",
+            "hu": "Fedezze fel a híres próféta egykori otthonát, hogy megismerje életét és munkásságát, de a nyári sorban állás elkerülése érdekében vegyen jegyet online.",
+            "ro": "Explorați fosta casă a celebrului profet pentru a afla despre viața și operele sale, dar asigurați-vă că luați bilete online pentru a evita cozile de vară.",
+            "en": "Explore the former home of the famous prophet to learn about his life and works, but be sure to buy tickets online to skip the summer queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Collégiale Saint-Laurent",
+            "hu": "Collégiale Saint-Laurent",
+            "ro": "Collégiale Saint-Laurent",
+            "en": "Collégiale Saint-Laurent"
+          },
+          "coords": [
+            5.09696,
+            43.6436
+          ],
+          "category": "religious",
+          "arrive_at": "15:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betreten Sie diese majestätische Stiftskirche, in der Nostradamus begraben ist, und nehmen Sie sich einen Moment der ruhigen Besinnung an seinem historischen Grab.",
+            "hu": "Lépjen be ebbe a fenséges társaskáptalani templomba, ahol Nostradamus nyugszik, és töltsön el egy percet a csendes elmélkedéssel a történelmi sír közelében.",
+            "ro": "Pășiți în interiorul acestei maiestuoase biserici colegiale unde este înmormântat Nostradamus și acordați-vă un moment de reflecție lângă mormântul său.",
+            "en": "Step inside this majestic collegiate church where Nostradamus is buried, and take a moment of quiet reflection near his historic tomb."
+          }
+        },
+        {
+          "name": {
+            "de": "La glissade",
+            "hu": "La glissade",
+            "ro": "La glissade",
+            "en": "La glissade"
+          },
+          "coords": [
+            5.104029,
+            43.651092
+          ],
+          "category": "park",
+          "arrive_at": "15:44",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Nachmittag mit lustigen Rutschaktivitäten in diesem familienfreundlichen Park und bringen Sie ein Handtuch sowie Wechselkleidung mit.",
+            "hu": "Zárja a délutánt vidám csúszdázással ebben a családbarát parkban, és hozzon magával egy kis törölközőt, illetve váltóruhát, ha aktívkodni tervez.",
+            "ro": "Încheiați după-amiaza cu activități distractive la acest parc pentru familii, aducând un prosop mic și haine de schimb dacă plănuiți să fiți foarte activ.",
+            "en": "End your afternoon with fun sliding activities at this family-friendly park, bringing a small towel and a change of clothes if you plan on getting active."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie an den Stadtrand, um das Erbe der authentischen Savon de Marseille zu entdecken.\nMittags erwartet Sie Adrenalin pur bei Accceuil Acrro passion, bevor Sie zentral parken, um das monumentale Château de l'Empéri zu erkunden.\nSetzen Sie Ihre Tour am Nachmittag im Nostradamus-Haus und der Collégiale Saint-Laurent fort.\nLassen Sie den Tag spielerisch im Freizeitpark La glissade ausklingen.",
+        "hu": "Vezessen a külvárosba, hogy felfedezze az autentikus marseille-i szappan örökségét, kulturális alaphangot adva a napnak.\nDélben az Accceuil Acrro passion kalandparkban pöröghet fel, majd a központban leparkolva felfedezheti a Château de l'Empéri-t.\nDélután folytassa a túrát a Nostradamus-házzal és a Collégiale Saint-Laurent-nel.\nZárja a napot játékosan a La glissade parkban.",
+        "ro": "Conduceți la periferie pentru a descoperi moștenirea autenticului Săpun de Marsilia, stabilind un ton cultural de dimineață.\nLa amiază crește adrenalina la Accceuil Acrro passion, înainte de a parca central pentru Château de l'Empéri.\nContinuați explorarea centrală după-amiaza la casa lui Nostradamus și Colegiata Saint-Laurent.\nÎncheiați ziua în mod jucăuș la parcul La glissade.",
+        "en": "Drive to the outskirts to uncover the heritage of authentic Savon de Marseille, setting a cultural tone early on.\nMidday brings adrenaline at Accceuil Acrro passion, before parking centrally to explore the monumental Château de l'Empéri.\nContinue your central exploration in the afternoon at the iconic Maison de Nostradamus and Collégiale Saint-Laurent.\nEnd your day playfully at La glissade."
+      }
+    }
+  }
+}

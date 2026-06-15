@@ -1,0 +1,451 @@
+{
+  "city_id": "greece-parga-cities-v2",
+  "anchor": {
+    "name": "Parga",
+    "coords": [
+      20.4,
+      39.283333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 1.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Paragaea - Alte Olivenölfabrik",
+            "hu": "Paragaea - Régi Olívaolaj Gyár",
+            "ro": "Paragaea - Vechea Fabrică de Ulei de Măsline",
+            "en": "Paragaea - Old Olive Oil Factory"
+          },
+          "coords": [
+            20.399556,
+            39.285126
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche landwirtschaftliche Erbe der Region in dieser historischen Olivenölfabrik, also nehmen Sie unbedingt an der geführten Verkostung teil.",
+            "hu": "Fedezze fel a régió gazdag mezőgazdasági örökségét ebben a történelmi olívaolaj-gyárban, ezért mindenképpen vegyen részt a kóstolóval egybekötött tárlatvezetésen.",
+            "ro": "Descoperiți bogata moștenire agricolă a regiunii la această fabrică istorică de ulei de măsline, așa că asigurați-vă că participați la turul ghidat cu degustare.",
+            "en": "Discover the rich agricultural heritage of the region at this historic olive oil factory, so be sure to join the guided tasting tour for an authentic flavor experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Anker",
+            "hu": "Horgony",
+            "ro": "Ancora",
+            "en": "Anchor"
+          },
+          "coords": [
+            20.4014,
+            39.28396
+          ],
+          "category": "historical",
+          "arrive_at": "10:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen massiven historischen Anker, der Pargas tiefe maritime Wurzeln symbolisiert, und machen Sie Ihre Fotos frühzeitig, um Menschenmassen zu meiden.",
+            "hu": "Csodálja meg ezt a masszív történelmi horgonyt, amely Parga mély tengerészeti gyökereit jelképezi, és készítsen fotókat korán, hogy elkerülje a turisták tömegét.",
+            "ro": "Admirați această ancoră istorică masivă care simbolizează rădăcinile maritime profunde ale Pargăi și faceți fotografii devreme pentru a evita aglomerația de turiști.",
+            "en": "Admire this massive historic anchor that symbolizes Parga's deep maritime roots, and snap your photos early to avoid the bustling tourist crowds in the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Parga",
+            "hu": "Parga Vára",
+            "ro": "Castelul din Parga",
+            "en": "Castle of Parga"
+          },
+          "coords": [
+            20.398033,
+            39.283179
+          ],
+          "category": "castle",
+          "arrive_at": "12:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die imposanten venezianischen Ruinen mit atemberaubendem Panoramablick auf das Ionische Meer, aber tragen Sie feste Schuhe für die steilen Steinwege.",
+            "hu": "Fedezze fel az impozáns velencei romokat, amelyek lélegzetelállító panorámát nyújtanak a Jón-tengerre, de viseljen masszív cipőt a meredek és egyenetlen kőösvények miatt.",
+            "ro": "Explorați ruinele venețiene impunătoare ce oferă vederi panoramice uluitoare asupra Mării Ionice, dar purtați încălțăminte comodă pentru a urca potecile abrupte de piatră.",
+            "en": "Explore the imposing Venetian ruins offering breathtaking panoramic views of the Ionian Sea, but wear sturdy walking shoes to navigate the steep and uneven stone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Bucht von Parga",
+            "hu": "Parga Öböl",
+            "ro": "Golful Parga",
+            "en": "Parga Bay"
+          },
+          "coords": [
+            20.39758,
+            39.279595
+          ],
+          "category": "landmark",
+          "arrive_at": "13:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der malerischen Bucht mit ihren farbenfrohen Häusern, die sich im Wasser spiegeln, was sie zum perfekten Ort für eine Kaffeepause macht.",
+            "hu": "Sétáljon végig a festői öböl mentén, ahol a kristálytiszta vízben tükröződnek a színes házak, tökéletes helyszínt biztosítva egy kényelmes déli kávészünethez.",
+            "ro": "Plimbați-vă de-a lungul golfului pitoresc mărginit de case colorate ce se reflectă în apa cristalină, fiind locul perfect pentru o pauză relaxantă de cafea la prânz.",
+            "en": "Stroll along the picturesque bay lined with vibrant colorful houses reflecting in the crystal clear water, making it the perfect spot for a leisurely midday coffee break."
+          }
+        },
+        {
+          "name": {
+            "de": "Valtos Strand",
+            "hu": "Valtos Strand",
+            "ro": "Plaja Valtos",
+            "en": "Valtos Beach"
+          },
+          "coords": [
+            20.391506,
+            39.284642
+          ],
+          "category": "recreational",
+          "arrive_at": "15:10",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem weiten, goldenen Sandstrand, der für seine hervorragenden Badebedingungen bekannt ist, und mieten Sie in der Hochsaison vorab eine Sonnenliege.",
+            "hu": "Pihenjen ezen a kiterjedt, aranyhomokos strandon, amely kiváló fürdőzési lehetőségeiről ismert, és főszezonban érdemes előre napágyat bérelni a kényelem érdekében.",
+            "ro": "Relaxați-vă pe această plajă vastă cu nisip auriu, recunoscută pentru condițiile excelente de înot, și închiriați un șezlong din timp în timpul lunilor de vară aglomerate.",
+            "en": "Relax on this expansive golden sandy beach known for its excellent swimming conditions, and consider renting a sunbed in advance during the peak summer months."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit der faszinierenden Geschichte der Olivenölherstellung und einem Besuch beim ikonischen Anker. Mittags erobern Sie die Burg von Parga, wo Sie ein spektakulärer Panoramablick erwartet. Nachmittags spazieren Sie zur idyllischen Bucht von Parga. Der Abend klingt entspannt am goldenen Sandstrand von Valtos Beach vor dem Sonnenuntergang aus.",
+        "hu": "A reggel az olívaolaj-készítés történelmével és az ikonikus Horgony emlékművel indul. Délben hódítsa meg Parga lenyűgöző várát, ahonnan páratlan kilátás nyílik a tengerre. Délutáni sétája a békés Parga-öbölhöz vezet, élvezve a friss parti szelet. Az este tökéletes lezárásaként pihenjen a Valtos strand aranyló homokján a naplemente előtt.",
+        "ro": "Dimineața începe cu istoria captivantă a uleiului de măsline, continuând spre emblematicul monument Ancora. La prânz, cuceriți impresionantul Castel din Parga pentru o priveliște panoramică de neuitat. După-amiaza vă poartă spre apele liniștite din Golful Parga pentru a simți briza mării. Seara se încheie perfect relaxându-vă pe nisipul auriu al plajei Valtos.",
+        "en": "Morning begins with the rich history of olive oil making, transitioning to the iconic Anchor monument. Midday invites you to conquer the impressive Castle of Parga with panoramic views. Afternoon strolls lead to the serene Parga Bay to enjoy the coastal breeze. The evening wraps up perfectly relaxing at the golden sands of Valtos Beach before sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 2.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parga Züge",
+            "hu": "Parga Vonatok",
+            "ro": "Trenulețele din Parga",
+            "en": "Parga Trains"
+          },
+          "coords": [
+            20.40438,
+            39.28339
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie eine nostalgische Fahrt mit dem Touristenzug durch die malerische Umgebung, wobei Sie vor Ihrer Ankunft den genauen Abfahrtsplan prüfen sollten.",
+            "hu": "Élvezze a szórakoztató és nosztalgikus utazást a festői környéken kanyargó turistavonaton, bár érkezés előtt érdemes ellenőrizni a pontos indulási menetrendet.",
+            "ro": "Experimentați o plimbare distractivă și nostalgică cu trenulețul turistic ce străbate împrejurimile pitorești, deși ar trebui să verificați programul de plecare în prealabil.",
+            "en": "Experience a fun and nostalgic ride on the tourist train that loops through the scenic surroundings, though you should check the departure schedule before arriving."
+          }
+        },
+        {
+          "name": {
+            "de": "Piso Krioneri",
+            "hu": "Piso Krioneri",
+            "ro": "Piso Krioneri",
+            "en": "Piso Krioneri"
+          },
+          "coords": [
+            20.407123,
+            39.282017
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schwimmen Sie in dieser charmanten Kieselsteinbucht hinter dem Hauptstrandbereich, und bringen Sie unbedingt Badeschuhe mit, um Ihre Füße vor den Felsen zu schützen.",
+            "hu": "Fürödjön ebben a bájos, kavicsos öbölben, amely a fő strand mögött bújik meg, és mindenképpen hozzon magával vízicipőt a sziklás tengerfenék miatt.",
+            "ro": "Înotați în acest golf fermecător cu pietriș ascuns în spatele plajei principale, asigurându-vă că aduceți încălțăminte de apă pentru a vă proteja picioarele de stânci.",
+            "en": "Swim in this charming pebbled cove hidden behind the main beach area, making sure to bring water shoes to protect your feet on the rocky underwater terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung der Insel Panagia",
+            "hu": "Panagia-sziget Erődje",
+            "ro": "Fortul Insulei Panagia",
+            "en": "Fort of Panagia island"
+          },
+          "coords": [
+            20.401625,
+            39.281337
+          ],
+          "category": "castle",
+          "arrive_at": "11:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese romantische Inselfestung mit bezauberndem Blick auf die Stadt, die Sie am einfachsten mit einem Tretboot vom Hauptstrand aus erreichen können.",
+            "hu": "Fedezze fel ezt a romantikus szigeti erődöt, amely varázslatos kilátást nyújt a városra, és amelyet legkönnyebben a fő strandról bérelt vízibiciklivel közelíthet meg.",
+            "ro": "Descoperiți această fortăreață romantică pe insulă ce oferă o priveliște fermecătoare asupra orașului, cel mai ușor accesibilă prin închirierea unei hidrobiciclete de pe plajă.",
+            "en": "Discover this romantic islet fortress that provides an enchanting view back toward the town, which is most easily accessed by renting a paddleboat from the main beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Parga",
+            "hu": "Parga Vára",
+            "ro": "Castelul din Parga",
+            "en": "Castle of Parga"
+          },
+          "coords": [
+            20.398033,
+            39.283179
+          ],
+          "category": "castle",
+          "arrive_at": "13:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die imposanten venezianischen Ruinen mit atemberaubendem Panoramablick auf das Ionische Meer, aber tragen Sie feste Schuhe für die steilen Steinwege.",
+            "hu": "Fedezze fel az impozáns velencei romokat, amelyek lélegzetelállító panorámát nyújtanak a Jón-tengerre, de viseljen masszív cipőt a meredek és egyenetlen kőösvények miatt.",
+            "ro": "Explorați ruinele venețiene impunătoare ce oferă vederi panoramice uluitoare asupra Mării Ionice, dar purtați încălțăminte comodă pentru a urca potecile abrupte de piatră.",
+            "en": "Explore the imposing Venetian ruins offering breathtaking panoramic views of the Ionian Sea, but wear sturdy walking shoes to navigate the steep and uneven stone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Valtos Strand",
+            "hu": "Valtos Strand",
+            "ro": "Plaja Valtos",
+            "en": "Valtos Beach"
+          },
+          "coords": [
+            20.391506,
+            39.284642
+          ],
+          "category": "recreational",
+          "arrive_at": "14:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem weiten, goldenen Sandstrand, der für seine hervorragenden Badebedingungen bekannt ist, und mieten Sie in der Hochsaison vorab eine Sonnenliege.",
+            "hu": "Pihenjen ezen a kiterjedt, aranyhomokos strandon, amely kiváló fürdőzési lehetőségeiről ismert, és főszezonban érdemes előre napágyat bérelni a kényelem érdekében.",
+            "ro": "Relaxați-vă pe această plajă vastă cu nisip auriu, recunoscută pentru condițiile excelente de înot, și închiriați un șezlong din timp în timpul lunilor de vară aglomerate.",
+            "en": "Relax on this expansive golden sandy beach known for its excellent swimming conditions, and consider renting a sunbed in advance during the peak summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Panagia Vlacherna",
+            "hu": "Panagia Vlacherna Kolostor",
+            "ro": "Mănăstirea Panagia Vlacherna",
+            "en": "Monastery of Panagia Vlacherna"
+          },
+          "coords": [
+            20.387793,
+            39.278965
+          ],
+          "category": "landmark",
+          "arrive_at": "15:49",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Ruhe und den alten Glockenturm dieses historischen Klosters auf dem Hügel, aber kleiden Sie sich angemessen und nehmen Sie eine Wasserflasche mit.",
+            "hu": "Csodálja meg a hegytetőn álló történelmi kolostor nyugalmát és ősi harangtornyát, de ne feledjen szerényen öltözködni és vizet hozni a meredek kaptatóhoz.",
+            "ro": "Minunați-vă de liniștea și vechea clopotniță a acestei mănăstiri istorice de pe deal, dar amintiți-vă să vă îmbrăcați decent și să aduceți apă pentru urcuș.",
+            "en": "Marvel at the tranquility and ancient bell tower of this historic hilltop monastery, but remember to dress modestly and carry a water bottle for the steep uphill climb."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Radtag am Wahrzeichen Parga Trains und genießen Sie die lebhafte lokale Atmosphäre. Mittags bieten Piso Krioneri und die Festung der Insel Panagia erfrischende Ausblicke. Nachmittags radeln Sie bergauf zur majestätischen Burg von Parga und weiter hinab zum Valtos Beach. Beenden Sie den Abend am ruhigen Kloster Panagia Vlacherna.",
+        "hu": "Kezdje kerékpáros napját a Parga Trains környékén, magába szívva a helyi nyüzsgést. A déli órák frissítő látványt nyújtanak a Piso Krioneri strandon és a Panagia-sziget erődjeinél. Délután tekerjen fel a fenséges Parga várához, majd guruljon le a Valtos strandra. Zárja az estét a nyugodt Panagia Vlacherna kolostornál, megcsodálva a naplementét.",
+        "ro": "Începeți ziua de ciclism la Parga Trains, bucurându-vă de atmosfera locală plină de viață. Prânzul oferă priveliști răcoroase la Piso Krioneri și misteriosul Fort al insulei Panagia. Pedalarea de după-amiază vă duce la maiestuosul Castel din Parga, coborând apoi la plaja Valtos. Încheiați seara admirând apusul la liniștita Mănăstire Panagia Vlacherna.",
+        "en": "Start your cycling day near the Parga Trains landmark, taking in the lively local atmosphere. Midday offers refreshing views at Piso Krioneri and the mysterious Fort of Panagia island. Afternoon pedaling takes you uphill to explore the majestic Castle of Parga and cruise down to Valtos Beach. End your evening admiring the sunset at the serene Monastery of Panagia Vlacherna."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:44",
+      "total_km": 2.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kloster Panagia Vlacherna",
+            "hu": "Panagia Vlacherna Kolostor",
+            "ro": "Mănăstirea Panagia Vlacherna",
+            "en": "Monastery of Panagia Vlacherna"
+          },
+          "coords": [
+            20.387793,
+            39.278965
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Ruhe und den alten Glockenturm dieses historischen Klosters auf dem Hügel, aber kleiden Sie sich angemessen und nehmen Sie eine Wasserflasche mit.",
+            "hu": "Csodálja meg a hegytetőn álló történelmi kolostor nyugalmát és ősi harangtornyát, de ne feledjen szerényen öltözködni és vizet hozni a meredek kaptatóhoz.",
+            "ro": "Minunați-vă de liniștea și vechea clopotniță a acestei mănăstiri istorice de pe deal, dar amintiți-vă să vă îmbrăcați decent și să aduceți apă pentru urcuș.",
+            "en": "Marvel at the tranquility and ancient bell tower of this historic hilltop monastery, but remember to dress modestly and carry a water bottle for the steep uphill climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Valtos Strand",
+            "hu": "Valtos Strand",
+            "ro": "Plaja Valtos",
+            "en": "Valtos Beach"
+          },
+          "coords": [
+            20.391506,
+            39.284642
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem weiten, goldenen Sandstrand, der für seine hervorragenden Badebedingungen bekannt ist, und mieten Sie in der Hochsaison vorab eine Sonnenliege.",
+            "hu": "Pihenjen ezen a kiterjedt, aranyhomokos strandon, amely kiváló fürdőzési lehetőségeiről ismert, és főszezonban érdemes előre napágyat bérelni a kényelem érdekében.",
+            "ro": "Relaxați-vă pe această plajă vastă cu nisip auriu, recunoscută pentru condițiile excelente de înot, și închiriați un șezlong din timp în timpul lunilor de vară aglomerate.",
+            "en": "Relax on this expansive golden sandy beach known for its excellent swimming conditions, and consider renting a sunbed in advance during the peak summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Athenas Hotel",
+            "hu": "Athena Hotele",
+            "ro": "Hotelul Athena",
+            "en": "Athena's hotel"
+          },
+          "coords": [
+            20.395958,
+            39.288786
+          ],
+          "category": "recreational",
+          "arrive_at": "11:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die schöne Architektur und die lebhafte Atmosphäre rund um diese bekannte lokale Unterkunft, wo sich eine kurze Erfrischung im nahegelegenen Café anbietet.",
+            "hu": "Élvezze a gyönyörű építészetet és a vibráló atmoszférát e nevezetes helyi szálláshely körül, ahol erősen ajánlott egy gyors frissítőre megállni a közeli kávézóban.",
+            "ro": "Bucurați-vă de arhitectura frumoasă și de atmosfera vibrantă din jurul acestei cazări locale notabile, unde o oprire rapidă pentru o răcoritoare la cafenea este recomandată.",
+            "en": "Enjoy the beautiful architecture and vibrant atmosphere surrounding this notable local accommodation, where stopping for a quick refreshment at the nearby cafe is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Paragaea - Alte Olivenölfabrik",
+            "hu": "Paragaea - Régi Olívaolaj Gyár",
+            "ro": "Paragaea - Vechea Fabrică de Ulei de Măsline",
+            "en": "Paragaea - Old Olive Oil Factory"
+          },
+          "coords": [
+            20.399556,
+            39.285126
+          ],
+          "category": "museum",
+          "arrive_at": "13:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche landwirtschaftliche Erbe der Region in dieser historischen Olivenölfabrik, also nehmen Sie unbedingt an der geführten Verkostung teil.",
+            "hu": "Fedezze fel a régió gazdag mezőgazdasági örökségét ebben a történelmi olívaolaj-gyárban, ezért mindenképpen vegyen részt a kóstolóval egybekötött tárlatvezetésen.",
+            "ro": "Descoperiți bogata moștenire agricolă a regiunii la această fabrică istorică de ulei de măsline, așa că asigurați-vă că participați la turul ghidat cu degustare.",
+            "en": "Discover the rich agricultural heritage of the region at this historic olive oil factory, so be sure to join the guided tasting tour for an authentic flavor experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Parga Züge",
+            "hu": "Parga Vonatok",
+            "ro": "Trenulețele din Parga",
+            "en": "Parga Trains"
+          },
+          "coords": [
+            20.40438,
+            39.28339
+          ],
+          "category": "landmark",
+          "arrive_at": "14:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erleben Sie eine nostalgische Fahrt mit dem Touristenzug durch die malerische Umgebung, wobei Sie vor Ihrer Ankunft den genauen Abfahrtsplan prüfen sollten.",
+            "hu": "Élvezze a szórakoztató és nosztalgikus utazást a festői környéken kanyargó turistavonaton, bár érkezés előtt érdemes ellenőrizni a pontos indulási menetrendet.",
+            "ro": "Experimentați o plimbare distractivă și nostalgică cu trenulețul turistic ce străbate împrejurimile pitorești, deși ar trebui să verificați programul de plecare în prealabil.",
+            "en": "Experience a fun and nostalgic ride on the tourist train that loops through the scenic surroundings, though you should check the departure schedule before arriving."
+          }
+        },
+        {
+          "name": {
+            "de": "Piso Krioneri",
+            "hu": "Piso Krioneri",
+            "ro": "Piso Krioneri",
+            "en": "Piso Krioneri"
+          },
+          "coords": [
+            20.407123,
+            39.282017
+          ],
+          "category": "recreational",
+          "arrive_at": "15:59",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schwimmen Sie in dieser charmanten Kieselsteinbucht hinter dem Hauptstrandbereich, und bringen Sie unbedingt Badeschuhe mit, um Ihre Füße vor den Felsen zu schützen.",
+            "hu": "Fürödjön ebben a bájos, kavicsos öbölben, amely a fő strand mögött bújik meg, és mindenképpen hozzon magával vízicipőt a sziklás tengerfenék miatt.",
+            "ro": "Înotați în acest golf fermecător cu pietriș ascuns în spatele plajei principale, asigurându-vă că aduceți încălțăminte de apă pentru a vă proteja picioarele de stânci.",
+            "en": "Swim in this charming pebbled cove hidden behind the main beach area, making sure to bring water shoes to protect your feet on the rocky underwater terrain."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt friedlich am historischen Kloster Panagia Vlacherna inmitten üppigen Grüns. Mittags fahren Sie zu den weiten Ufern von Valtos Beach und in die Umgebung von Athenas Hotel. Entdecken Sie nachmittags das industrielle Erbe der alten Olivenölfabrik. Beenden Sie Ihre Autotour nahe Parga Trains und entspannen Sie am Abend bei Piso Krioneri.",
+        "hu": "Autós túrája békésen indul a buja zöldben megbúvó történelmi Panagia Vlacherna kolostornál. Délben a Valtos strand tágas partjaihoz és az Athena hotel hangulatos környékéhez vezet az út. Délután fedezze fel az ipari örökséget a régi olívaolaj-gyárban. Zárja útját a Parga Trains közelében, és pihenjen meg este a Piso Krioneri partjánál.",
+        "ro": "Călătoria cu mașina începe liniștit la istorica Mănăstire Panagia Vlacherna, ascunsă în verdeață. La prânz, vizitați țărmurile largi ale plajei Valtos și împrejurimile confortabile ale hotelului Athena. După-amiaza, descoperiți patrimoniul industrial la Vechea Fabrică de Ulei. Încheiați turul lângă Parga Trains, relaxându-vă la Piso Krioneri în adierea serii.",
+        "en": "Your drive begins peacefully at the historic Monastery of Panagia Vlacherna nestled in lush greenery. Midday takes you to the wide shores of Valtos Beach and the cozy surroundings of Athena's hotel. In the afternoon, discover the industrial heritage at the Old Olive Oil Factory. Conclude your driving tour near Parga Trains and relax at Piso Krioneri by the evening tide."
+      }
+    }
+  }
+}

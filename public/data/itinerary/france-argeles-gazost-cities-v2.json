@@ -1,0 +1,451 @@
+{
+  "city_id": "france-argeles-gazost-cities-v2",
+  "anchor": {
+    "name": "Argelès-Gazost",
+    "coords": [
+      -0.098611,
+      43.0025
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:42",
+      "total_km": 3.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Château d'Ourout",
+            "hu": "Château d'Ourout",
+            "ro": "Château d'Ourout",
+            "en": "Château d'Ourout"
+          },
+          "coords": [
+            -0.102028,
+            43.003861
+          ],
+          "category": "castle",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckende Architektur dieses historischen Schlosses und bewundern Sie die Umgebung, bevor Sie in das charmante Zentrum gehen.",
+            "hu": "Fedezze fel ennek a történelmi kastélynak a lenyűgöző építészetét, és szánjon egy percet a festői környezet megcsodálására, mielőtt a központba indulna.",
+            "ro": "Descoperiți arhitectura impresionantă a acestui castel istoric și faceți-vă timp pentru a admira împrejurimile înainte de a merge în centrul orașului.",
+            "en": "Discover the impressive architecture of this historic castle and take a moment to admire its surrounding gardens before heading into the town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Jardin des Bains",
+            "hu": "Le Jardin des Bains",
+            "ro": "Le Jardin des Bains",
+            "en": "Le Jardin des Bains"
+          },
+          "coords": [
+            -0.094843,
+            43.004626
+          ],
+          "category": "recreational",
+          "arrive_at": "10:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen wunderschönen Thermalpark, um die ruhigen Pflanzen zu genießen, und ruhen Sie sich auf einer schattigen Bank aus.",
+            "hu": "Sétáljon végig ezen a gyönyörű termálparkon, élvezze a nyugodt botanikai látványosságokat, és pihenjen meg egy árnyékos padon energiái feltöltéséhez.",
+            "ro": "Plimbați-vă prin acest frumos parc termal pentru a vă bucura de exponatele botanice liniștite și odihniți-vă pe o bancă umbrită pentru a vă relaxa.",
+            "en": "Stroll through this beautiful thermal park to enjoy the tranquil botanical displays and rest on a shaded bench to rejuvenate your energy for the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour de Vieuzac",
+            "hu": "Tour de Vieuzac",
+            "ro": "Tour de Vieuzac",
+            "en": "Tour de Vieuzac"
+          },
+          "coords": [
+            -0.099135,
+            43.009506
+          ],
+          "category": "castle",
+          "arrive_at": "12:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Steigen Sie in die Nähe dieses alten Verteidigungsturms, um sein mittelalterliches Mauerwerk zu bewundern und die lokale Geschichte zu lernen.",
+            "hu": "Másszon fel ezen ősi védőtorony közelébe, hogy megcsodálja a középkori kőfalakat, és ismerkedjen meg a helyi történelemmel a kihelyezett táblákról.",
+            "ro": "Urcați lângă acest vechi turn de apărare pentru a-i admira zidăria medievală și aflați despre istoria locală din plăcile informative din zonă.",
+            "en": "Climb near this ancient defensive tower to appreciate its medieval stonework and learn about the local history from the informative plaques nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Sainte-Castère",
+            "hu": "Chapelle Sainte-Castère",
+            "ro": "Chapelle Sainte-Castère",
+            "en": "Chapelle Sainte-Castère"
+          },
+          "coords": [
+            -0.095427,
+            42.995909
+          ],
+          "category": "religious",
+          "arrive_at": "13:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante kleine Kapelle, um ihre friedliche Atmosphäre zu erleben und auf die gut erhaltenen traditionellen Buntglasfenster zu achten.",
+            "hu": "Látogasson el ebbe a bájos kis kápolnába, élvezze békés hangulatát, és figyelje meg a jól megőrzött hagyományos ólomüveg ablakokat a belső térben.",
+            "ro": "Vizitați această capelă mică și fermecătoare pentru a experimenta atmosfera sa pașnică și acordați atenție vitraliilor tradiționale bine păstrate.",
+            "en": "Visit this charming small chapel to experience its peaceful atmosphere and pay close attention to the well-preserved traditional stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Laurent",
+            "hu": "Église Saint-Laurent",
+            "ro": "Église Saint-Laurent",
+            "en": "Église Saint-Laurent"
+          },
+          "coords": [
+            -0.092541,
+            42.996742
+          ],
+          "category": "religious",
+          "arrive_at": "14:32",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese hübsche Pfarrkirche mit ihrem ruhigen Innenraum und nehmen Sie sich einen Moment in den Bänken, um Ihren Tag zu reflektieren.",
+            "hu": "Fedezze fel ezt a szép plébániatemplomot nyugodt belső tereiért, és töltsön egy csendes percet a padokban, hogy átgondolja ezt a kulturális napot.",
+            "ro": "Explorați această biserică parohială frumoasă pentru designul său interior senin și luați-vă un moment liniștit în bănci pentru a reflecta asupra zilei.",
+            "en": "Explore this lovely parish church for its serene interior design and take a quiet moment in the pews to reflect on your cultural walking day here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie Ihren Tag im Herzen der Stadt, entdecken Sie das Schloss und spazieren Sie durch die Gärten.\n\nMittag: Setzen Sie Ihren Spaziergang zu den historischen Verteidigungsanlagen fort und genießen Sie die charmanten Straßen.\n\nNachmittag: Der Nachmittag ist den friedlichen Kapellen gewidmet, wo Sie ruhige Momente verbringen können.\n\nAbend: Beenden Sie Ihre Tour nahe der Kirche.",
+        "hu": "Reggel: Kezdje a napot a város szívének felfedezésével, a kastély és a buja kertek megtekintésével.\n\nDél: Folytassa sétáját a történelmi védművek felé, élvezve az építészetet és Argelès-Gazost hangulatos utcáit.\n\nDélután: A délutánt a békés kápolnáknak szenteljük, ahol csendes pillanatokat tölthet el.\n\nEste: Zárja kellemes sétáját a központi templom közelében, elmerengve a hely történelmén.",
+        "ro": "Dimineața: Începeți ziua explorând inima orașului, descoperind castelul și plimbându-vă prin grădinile luxuriante.\n\nPrânz: Continuați-vă plimbarea spre structurile de apărare, bucurându-vă de străzile fermecătoare.\n\nDupă-amiaza: După-amiaza este dedicată capelelor pașnice, unde vă puteți lua un moment liniștit.\n\nSeara: Încheiați-vă turul plăcut lângă biserica parohială centrală a orașului.",
+        "en": "Morning: Start your day exploring the heart of the town, discovering the impressive castle and wandering through the lush gardens.\n\nMidday: Continue your walk towards the historical defensive structures, enjoying the architecture and the charming streets.\n\nAfternoon: The afternoon is dedicated to the peaceful chapels, where you can take a quiet moment.\n\nEvening: Conclude near the main church."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:51",
+      "total_km": 5.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Germé",
+            "hu": "Église Saint-Germé",
+            "ro": "Église Saint-Germé",
+            "en": "Église Saint-Germé"
+          },
+          "coords": [
+            -0.109928,
+            43.012051
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Radtour an dieser ruhigen religiösen Stätte, beachten Sie die Architektur und parken Sie Ihr Fahrrad sicher am nahen Eingang.",
+            "hu": "Kezdje kerékpártúráját ezen a csendes vallási helyen, figyelje meg jellegzetes építészetét, és parkoljon le biztonságosan a főbejáratnál.",
+            "ro": "Începeți traseul de ciclism la acest loc religios liniștit, observând arhitectura sa regională și parcând bicicleta în siguranță la intrare.",
+            "en": "Start your cycling route at this tranquil religious site, noting its distinct regional architecture and parking your bike safely near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour de Vieuzac",
+            "hu": "Tour de Vieuzac",
+            "ro": "Tour de Vieuzac",
+            "en": "Tour de Vieuzac"
+          },
+          "coords": [
+            -0.099135,
+            43.009506
+          ],
+          "category": "castle",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem Wehrturm, um eine kurze Pause einzulegen und die robusten Steinmauern zu fotografieren, die die Geschichte prägen.",
+            "hu": "Tekerjen ehhez a védőtoronyhoz egy rövid pihenőre, és fényképezze le a masszív kőfalakat, amelyek meghatározzák a környék történelmét.",
+            "ro": "Mergeți cu bicicleta la acest turn pentru a face o scurtă pauză și a fotografia zidurile robuste de piatră care marchează istoria zonei.",
+            "en": "Ride to this defensive tower to take a short break and photograph the robust stone walls that have protected the town's history for centuries."
+          }
+        },
+        {
+          "name": {
+            "de": "Château d'Ourout",
+            "hu": "Château d'Ourout",
+            "ro": "Château d'Ourout",
+            "en": "Château d'Ourout"
+          },
+          "coords": [
+            -0.102028,
+            43.003861
+          ],
+          "category": "castle",
+          "arrive_at": "11:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie das Burggelände, bewundern Sie die Fassade und stellen Sie sicher, dass Ihr Fahrrad in den ausgewiesenen Bereichen verriegelt ist.",
+            "hu": "Fedezze fel a kastély területét, csodálja meg a homlokzatot, és győződjön meg róla, hogy kerékpárja le van zárva a kijelölt területeken.",
+            "ro": "Explorați terenul castelului, admirați fațada și asigurați-vă că bicicleta dumneavoastră este blocată în zonele desemnate pentru parcare.",
+            "en": "Explore the castle grounds, marvel at the classic facade, and make sure your bike is securely locked in the designated areas before walking around."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Sainte-Castère",
+            "hu": "Chapelle Sainte-Castère",
+            "ro": "Chapelle Sainte-Castère",
+            "en": "Chapelle Sainte-Castère"
+          },
+          "coords": [
+            -0.095427,
+            42.995909
+          ],
+          "category": "religious",
+          "arrive_at": "12:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Lassen Sie das geschäftige Treiben hinter sich und genießen Sie die Stille in dieser Kapelle, ideal für einen friedlichen Mittagszwischenstopp.",
+            "hu": "Hagyja maga mögött a nyüzsgést, és élvezze a csendet ebben a kápolnában, amely ideális egy békés déli kerékpáros pihenőhöz.",
+            "ro": "Lăsați agitația în urmă și bucurați-vă de liniște în această capelă, ideală pentru o oprire de prânz pașnică în timpul plimbării cu bicicleta.",
+            "en": "Leave the bustle behind and enjoy the absolute silence inside this chapel, ideal for a peaceful midday cycling stop away from the main roads."
+          }
+        },
+        {
+          "name": {
+            "de": "Château du Prince Noir",
+            "hu": "Château du Prince Noir",
+            "ro": "Château du Prince Noir",
+            "en": "Château du Prince Noir"
+          },
+          "coords": [
+            -0.107987,
+            42.98937
+          ],
+          "category": "castle",
+          "arrive_at": "13:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Ruinen der Burg und tragen Sie beim Gehen feste Schuhe, um die unebenen historischen Böden sicher begehen zu können.",
+            "hu": "Csodálja meg a kastély romjait, és feltétlenül viseljen erős cipőt, hogy biztonságosan navigáljon az egyenetlen történelmi talajon.",
+            "ro": "Minunați-vă de ruinele castelului și asigurați-vă că purtați pantofi rezistenți pentru a naviga în siguranță pe terenul istoric denivelat.",
+            "en": "Marvel at the dramatic ruins of the castle and be sure to wear sturdy shoes to safely navigate the uneven historical grounds around the structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Église Saint-Martin",
+            "ro": "Église Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            -0.105004,
+            42.988328
+          ],
+          "category": "religious",
+          "arrive_at": "14:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Treten Sie kurz in diese authentische Kirche ein, um das lokale Erbe zu würdigen, bevor Sie Ihre Fahrt zum großen Kloster fortsetzen.",
+            "hu": "Lépjen be röviden ebbe az autentikus templomba, hogy értékelje a helyi örökséget, mielőtt folytatná útját a nagy kolostor felé.",
+            "ro": "Intrați scurt în această biserică autentică pentru a aprecia moștenirea locală înainte de a vă continua călătoria spre marea mănăstire.",
+            "en": "Step into this authentic church briefly to appreciate the local heritage before hopping back on your bike to continue towards the grand abbey."
+          }
+        },
+        {
+          "name": {
+            "de": "L'Abbaye de Saint-Savin en Lavedan",
+            "hu": "L'Abbaye de Saint-Savin en Lavedan",
+            "ro": "L'Abbaye de Saint-Savin en Lavedan",
+            "en": "L'Abbaye de Saint-Savin en Lavedan"
+          },
+          "coords": [
+            -0.090988,
+            42.981505
+          ],
+          "category": "religious",
+          "arrive_at": "15:41",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese Abtei mit reicher Geschichte und prüfen Sie das schwarze Brett auf abendliche Chorauftritte, bevor Sie abfahren.",
+            "hu": "Csodálja meg ezt a nagy apátságot gazdag történelmével, és indulás előtt ellenőrizze a hirdetőtáblát az esti kóruselőadásokról.",
+            "ro": "Minunați-vă de această abație cu o istorie bogată și verificați panoul de anunțuri pentru spectacole de cor de seară înainte de a pleca.",
+            "en": "Marvel at this grand abbey which holds centuries of rich history, and check the notice board for any evening choir performances before leaving."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie Ihr Radabenteuer in den nördlichen Vororten und genießen Sie die klare Bergluft, bevor Sie zu den Festungen fahren.\n\nMittag: Radeln Sie zu den südlichen historischen Ruinen und genießen Sie die dynamischen Landschaften und majestätischen Überreste.\n\nNachmittag: Fahren Sie durch das malerische Tal, um alte Kirchen zu erkunden und die spirituelle Atmosphäre aufzusaugen.\n\nAbend: Beenden Sie Ihre Fahrt an der großen Abtei mit unvergesslichen Erinnerungen.",
+        "hu": "Reggel: Kezdje kerékpáros kalandját az északi külvárosban, szívja be a friss hegyi levegőt, mielőtt a központi erődítmények felé venné az irányt.\n\nDél: Tekerjen a déli történelmi romok felé, élvezve a dinamikus tájakat és a fenséges középkori maradványokat.\n\nDélután: Haladjon át a festői völgyön, hogy felfedezze az ősi templomokat és apátságokat.\n\nEste: Fejezze be utazását a nagy apátságnál, gazdag kulturális élményekkel gazdagodva.",
+        "ro": "Dimineața: Începeți aventura cu bicicleta la periferia nordică, respirând aerul de munte înainte de a merge spre fortificațiile centrale.\n\nPrânz: Pedați spre ruinele istorice sudice, bucurându-vă de peisajele dinamice și de rămășițele majestuoase ale timpurilor medievale.\n\nDupă-amiaza: Călătoriți prin valea pitorească pentru a explora biserici vechi, absorbind atmosfera spirituală.\n\nSeara: Terminați la marea abație cu amintiri de neuitat.",
+        "en": "Morning: Kick off your cycling adventure in the northern outskirts, taking in the crisp mountain air before heading to the central fortifications.\n\nMidday: Pedal your way towards the southern historical ruins, enjoying the dynamic landscapes and majestic medieval remnants.\n\nAfternoon: Cycle through the picturesque valley to explore ancient churches, soaking in the profound atmosphere.\n\nEvening: Finish your ride at the grand abbey with unforgettable memories."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:32",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Mont de Gez",
+            "hu": "Mont de Gez",
+            "ro": "Mont de Gez",
+            "en": "Mont de Gez"
+          },
+          "coords": [
+            -0.123863,
+            43.007309
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem herrlichen natürlichen Aussichtspunkt für einen Panoramablick und nehmen Sie eine Windjacke mit, da es kühl sein kann.",
+            "hu": "Vezessen fel erre a csodálatos természetes kilátópontra a völgy panorámájáért, és vigyen magával széldzsekit, mert a szél nagyon hűvös lehet.",
+            "ro": "Conduceți până la acest magnific punct de belvedere natural pentru vederi panoramice și luați o jachetă, deoarece briza poate fi rece.",
+            "en": "Drive up to this magnificent natural viewpoint for panoramic valley vistas and carry a windbreaker as the morning breeze can be quite chilly here."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-André d'Ayzac",
+            "hu": "Église Saint-André d'Ayzac",
+            "ro": "Église Saint-André d'Ayzac",
+            "en": "Église Saint-André d'Ayzac"
+          },
+          "coords": [
+            -0.097053,
+            43.022541
+          ],
+          "category": "religious",
+          "arrive_at": "10:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese nördliche Kirche und nutzen Sie den kleinen Parkplatz nebenan, um das bescheidene, aber wunderschöne Innere zu bewundern.",
+            "hu": "Látogasson el ebbe az északi templomba, és használja a mellette lévő kis parkolót, hogy kényelmesen megcsodálja a szerény, de szép belső teret.",
+            "ro": "Vizitați această biserică nordică și utilizați parcarea mică de alături pentru a admira confortabil interiorul său modest, dar frumos.",
+            "en": "Visit this northern church and utilize the small parking area next to it to comfortably admire the modest yet beautiful traditional interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Jardin des Bains",
+            "hu": "Le Jardin des Bains",
+            "ro": "Le Jardin des Bains",
+            "en": "Le Jardin des Bains"
+          },
+          "coords": [
+            -0.094843,
+            43.004626
+          ],
+          "category": "recreational",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parken Sie im Stadtzentrum und entspannen Sie in diesen gepflegten Themengärten, um eine erfrischende Mittagspause einzulegen.",
+            "hu": "Parkoljon le a városközpontban, és lazítson ezekben a gondozott tematikus kertekben, hogy frissítő ebédszünetet tarthasson a zöldben.",
+            "ro": "Parcați în centrul orașului și relaxați-vă în aceste grădini tematice bine întreținute pentru a lua o pauză răcoritoare la prânz.",
+            "en": "Park in the town center and relax in these well-maintained themed gardens to enjoy a refreshing midday break surrounded by lush greenery."
+          }
+        },
+        {
+          "name": {
+            "de": "L'Abbaye de Saint-Savin en Lavedan",
+            "hu": "L'Abbaye de Saint-Savin en Lavedan",
+            "ro": "L'Abbaye de Saint-Savin en Lavedan",
+            "en": "L'Abbaye de Saint-Savin en Lavedan"
+          },
+          "coords": [
+            -0.090988,
+            42.981505
+          ],
+          "category": "religious",
+          "arrive_at": "12:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Fahren Sie nach Süden zu diesem architektonischen Juwel und nehmen Sie sich Zeit, die feinen Steinschnitzereien der Fassade zu studieren.",
+            "hu": "Vezessen délre ehhez az építészeti gyöngyszemhez, és szánjon időt a homlokzat finom kőfaragásainak tanulmányozására a csendes udvaron.",
+            "ro": "Conduceți spre sud la această bijuterie arhitecturală și acordați-vă timp pentru a studia sculpturile fine în piatră ale fațadei clădirii.",
+            "en": "Drive south to this architectural gem and take your time studying the fine stone carvings on the grand facade in the quiet courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Donjon des Aigles",
+            "hu": "Donjon des Aigles",
+            "ro": "Donjon des Aigles",
+            "en": "Donjon des Aigles"
+          },
+          "coords": [
+            -0.059855,
+            42.972153
+          ],
+          "category": "recreational",
+          "arrive_at": "13:22",
+          "stay_min": 130,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise in diesem Kerker, der für Greifvogel-Shows bekannt ist, und kommen Sie früh, um einen guten Aussichtsplatz zu finden.",
+            "hu": "Zárja utazását ezen a lenyűgöző, ragadozómadár-bemutatóiról ismert helyen, és érkezzen korán, hogy jó kilátást biztosítson a műsorhoz.",
+            "ro": "Încheiați-vă călătoria la această temniță cunoscută pentru spectacolele cu păsări de pradă și sosiți devreme pentru a obține un loc bun.",
+            "en": "Conclude your trip at this fascinating dungeon known for spectacular bird of prey shows, and arrive early to secure a good viewing spot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Fahren Sie hinauf zum Mont de Gez für einen atemberaubenden Blick über das Tal, bevor Sie die nördlichen Kirchen besuchen.\n\nMittag: Fahren Sie zurück in die Stadt, um sich in den wunderschönen Thermalgärten zu entspannen und die Beine zu vertreten.\n\nNachmittag: Steuern Sie die südliche historische Abtei an, tauchen Sie in die Geschichte ein und bewundern Sie die Architektur.\n\nAbend: Beenden Sie Ihren Roadtrip am berühmten Adlerkerker, wo spektakuläre Tierwelt auf Sie wartet.",
+        "hu": "Reggel: Vezessen fel a Mont de Gez magaslataira egy lélegzetelállító reggeli kilátásért a völgyre, mielőtt meglátogatja az északi templomokat.\n\nDél: Térjen vissza a városba, hogy pihenjen a gyönyörű termálkertekben, amely ideális hely a lábak kinyújtóztatására.\n\nDélután: Vegye az irányt a déli történelmi apátság felé, elmerülve az évszázados történelemben és a lenyűgöző építészetben.\n\nEste: Zárja festői autós utazását a híres sasok tornyánál egy tökéletes esti befejezésért.",
+        "ro": "Dimineața: Conduceți pe înălțimile Mont de Gez pentru o vedere uluitoare de dimineață asupra văii înainte de a vizita bisericile nordice.\n\nPrânz: Întoarceți-vă în oraș pentru a vă relaxa la frumoasele grădini termale, un loc ideal pentru a vă întinde picioarele.\n\nDupă-amiaza: Navigați spre abația istorică sudică, scufundându-vă în secole de istorie și admirând arhitectura religioasă uimitoare.\n\nSeara: Încheiați la faimosul turn al vulturilor pentru un final perfect.",
+        "en": "Morning: Drive up to the heights of Mont de Gez for a breathtaking morning view over the valley before visiting the charming northern churches.\n\nMidday: Head back into town to relax at the beautiful thermal gardens, an ideal spot to stretch your legs and take a break.\n\nAfternoon: Navigate towards the southern historical abbey, diving deep into centuries of history and admiring the architecture.\n\nEvening: End your scenic road trip at the famous eagles' keep for a spectacular finish."
+      }
+    }
+  }
+}

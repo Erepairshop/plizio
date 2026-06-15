@@ -1,0 +1,474 @@
+{
+  "city_id": "egypt-makadi-bay-cities-v2",
+  "anchor": {
+    "name": "Makadi Bay",
+    "coords": [
+      33.896667,
+      26.991111
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:05",
+      "total_km": 1.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cabaret",
+            "hu": "Cabaret",
+            "ro": "Cabaret",
+            "en": "Cabaret"
+          },
+          "coords": [
+            33.896906,
+            26.988079
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie hier schillernde Aufführungen, da dieser lebhafte Veranstaltungsort den Geist der Bucht einfängt, aber kommen Sie früh für die besten Plätze in der ersten Reihe.",
+            "hu": "Élvezze a káprázatos előadásokat, mivel ez a vibráló helyszín tökéletesen megragadja az öböl szellemét, de mindig érkezzen korán a legjobb első soros színpadi kilátásért.",
+            "ro": "Bucurați-vă de spectacole uluitoare aici, deoarece această locație vibrantă captează perfect spiritul golfului, dar sosiți devreme pentru cele mai bune locuri din față.",
+            "en": "Enjoy dazzling performances here, as this vibrant venue captures the lively spirit of Makadi Bay perfectly, but always arrive early for the best front-row stage views."
+          }
+        },
+        {
+          "name": {
+            "de": "Theatre",
+            "hu": "Theatre",
+            "ro": "Theatre",
+            "en": "Theatre"
+          },
+          "coords": [
+            33.898759,
+            26.988556
+          ],
+          "category": "cultural",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Dieses beeindruckende Freilufttheater veranstaltet spektakuläre Abendshows, die die lokale Kultur hervorheben, daher wird das Mitbringen einer leichten Jacke empfohlen.",
+            "hu": "Ez a lenyűgöző szabadtéri építmény látványos esti műsoroknak ad otthont, amelyek a helyi kultúrát emelik ki, így egy vékony dzseki magunkkal vitele erősen ajánlott.",
+            "ro": "Această impresionantă structură în aer liber găzduiește spectacole de seară ce evidențiază cultura locală, așa că aducerea unei jachete ușoare este foarte recomandată.",
+            "en": "This impressive open-air structure hosts spectacular evening shows highlighting both local and international culture, so bringing a light jacket is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquapark Kids",
+            "hu": "Aquapark Kids",
+            "ro": "Aquapark Kids",
+            "en": "Aquapark Kids"
+          },
+          "coords": [
+            33.896539,
+            26.997799
+          ],
+          "category": "recreational",
+          "arrive_at": "10:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Dieses farbenfrohe Wasserwunderland wurde speziell für jüngere Gäste entworfen und bietet sichere Rutschen, weshalb es ratsam ist, sich früh eine schattige Liege zu sichern.",
+            "hu": "Kifejezetten fiatalabb vendégek számára tervezték ezt a színes vízi csodaországot, amely biztonságos csúszdákat kínál, így érdemes korán lefoglalni egy árnyékos napágyat.",
+            "ro": "Concepută special pentru oaspeții mai tineri, această minunăție acvatică oferă tobogane sigure și distracție, fiind înțelept să ocupați un șezlong la umbră devreme.",
+            "en": "Designed specifically for younger guests, this colorful water wonderland offers safe slides and endless family fun, making it very wise to secure a shaded lounger early."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin Rouge",
+            "hu": "Moulin Rouge",
+            "ro": "Moulin Rouge",
+            "en": "Moulin Rouge"
+          },
+          "coords": [
+            33.901849,
+            26.998297
+          ],
+          "category": "cultural",
+          "arrive_at": "12:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Dieser ikonische Ort spiegelt den Pariser Charme an der Küste des Roten Meeres wider und bietet einzigartige Theatershows, bei denen ein Tisch in der ersten Reihe hilft.",
+            "hu": "A párizsi bájt a Vörös-tenger partján tükröző ikonikus helyszín egyedi színházi szórakozást kínál, ahol egy első sorban lévő asztal lefoglalása nagyban fokozza a varázst.",
+            "ro": "Reflectând farmecul parizian pe coasta Mării Roșii, această locație iconică oferă divertisment teatral unic, unde rezervarea unei mese în față sporește masiv magia.",
+            "en": "Reflecting Parisian charm right on the Red Sea coast, this iconic venue offers unique theatrical entertainment, where booking a front table greatly enhances the magic."
+          }
+        },
+        {
+          "name": {
+            "de": "Arena",
+            "hu": "Arena",
+            "ro": "Arena",
+            "en": "Arena"
+          },
+          "coords": [
+            33.902828,
+            26.996885
+          ],
+          "category": "cultural",
+          "arrive_at": "12:55",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Als großartige Kulisse für große Konzerte und Veranstaltungen pulsiert diese zentrale Arena vor Energie, und das Tragen von bequemen Schuhen wird Ihnen beim Gehen helfen.",
+            "hu": "A nagyszabású koncertek és rendezvények nagyszerű helyszíneként szolgáló központi Aréna lüktet az energiától, és a kényelmes cipő viselése segíteni fog a tájékozódásban.",
+            "ro": "Servind drept un cadru grandios pentru concerte și evenimente la scară largă, această Arenă centrală pulsează de energie, iar purtarea de încălțăminte comodă va ajuta.",
+            "en": "Serving as a grand setting for large-scale concerts and events, this central Arena pulses with vibrant energy, and wearing comfortable shoes will help you navigate."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang durch Makadi Bay im eleganten Cabaret und genießen Sie die reiche Theateratmosphäre. Ein kurzer Spaziergang bringt Sie zum beeindruckenden Theatre, dessen Open-Air-Design auf die spektakulären Aufführungen unter der ägyptischen Sonne hinweist.\n\nWenn die Sonne höher steigt, wechseln Sie zum lebhaften Aquapark Kids. Die fröhliche Umgebung bietet eine Pause.\n\nAm Nachmittag spazieren Sie weiter zum ikonischen Moulin Rouge, einer architektonischen Anspielung auf das Pariser Nachtleben am Roten Meer. Genießen Sie die einzigartigen Fassaden.\n\nBeenden Sie Ihren Tag in der zentralen Arena, einem geschäftigen Zentrum der Unterhaltung. Die lebhaften Abendmassen spiegeln den wahren Urlaubsgeist von Makadi Bay wider.",
+        "hu": "Kezdje sétáját a Makadi-öbölben az elegáns Cabaret-nél, magába szívva a terület gazdag színházi hangulatát. Egy rövid séta elviszi a lenyűgöző Theatre-hez, amelynek kialakítása látványos előadásokra utal.\n\nAhogy a nap feljebb hág, térjen át a nyüzsgő Aquapark Kids felé. A vidám környezet és a frissítő vízi elemek kellemes déli szünetet biztosítanak.\n\nDélután folytassa a felfedezést a Vörös-tenger melletti párizsi éjszakai életre utaló Moulin Rouge felé sétálva. Élvezze az egyedi homlokzatokat és a kreatív hangulatot.\n\nZárja a napot a központi Arénában, amely a szórakozás nyüzsgő központja. A széles ösvények és az élénk esti tömegek a Makadi-öböl igazi nyaralási szellemét tükrözik.",
+        "ro": "Începeți turul de mers pe jos prin Makadi Bay la elegantul Cabaret, absorbind atmosfera teatrală bogată a zonei. O scurtă plimbare vă duce la impresionantul Theatre, cu un design în aer liber.\n\nPe măsură ce soarele urcă, treceți spre plinul de viață Aquapark Kids. Mediul vesel și elementele de apă oferă o pauză încântătoare la amiază.\n\nDupă-amiaza, continuați explorarea mergând spre iconicul Moulin Rouge, o aluzie arhitecturală la viața de noapte pariziană chiar lângă Marea Roșie. Bucurați-vă de fațadele unice.\n\nÎncheiați-vă ziua la centrala Arena, un centru plin de viață pentru divertisment. Aleile largi și mulțimile pline de viață reflectă adevăratul spirit de vacanță al golfului.",
+        "en": "Begin your walking tour through Makadi Bay at the elegant Cabaret, soaking in the area's rich theatrical atmosphere. A short stroll takes you to the impressive Theatre, where the open-air design hints at spectacular performances.\n\nAs the sun rises higher, transition towards the lively Aquapark Kids. The cheerful environment and refreshing water elements offer a delightful midday pause.\n\nIn the afternoon, continue your exploration by walking to the iconic Moulin Rouge, an architectural nod to Parisian nightlife right by the Red Sea. Enjoy the unique facades and creative ambiance.\n\nConclude your day at the central Arena, a bustling hub of entertainment. The wide pathways and lively evening crowds reflect the true holiday spirit of Makadi Bay perfectly."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:21",
+      "total_km": 3.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Aquapark Kids",
+            "hu": "Aquapark Kids",
+            "ro": "Aquapark Kids",
+            "en": "Aquapark Kids"
+          },
+          "coords": [
+            33.896539,
+            26.997799
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Dieses farbenfrohe Wasserwunderland wurde speziell für jüngere Gäste entworfen und bietet sichere Rutschen, weshalb es ratsam ist, sich früh eine schattige Liege zu sichern.",
+            "hu": "Kifejezetten fiatalabb vendégek számára tervezték ezt a színes vízi csodaországot, amely biztonságos csúszdákat kínál, így érdemes korán lefoglalni egy árnyékos napágyat.",
+            "ro": "Concepută special pentru oaspeții mai tineri, această minunăție acvatică oferă tobogane sigure și distracție, fiind înțelept să ocupați un șezlong la umbră devreme.",
+            "en": "Designed specifically for younger guests, this colorful water wonderland offers safe slides and endless family fun, making it very wise to secure a shaded lounger early."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin Rouge",
+            "hu": "Moulin Rouge",
+            "ro": "Moulin Rouge",
+            "en": "Moulin Rouge"
+          },
+          "coords": [
+            33.901849,
+            26.998297
+          ],
+          "category": "cultural",
+          "arrive_at": "10:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Dieser ikonische Ort spiegelt den Pariser Charme an der Küste des Roten Meeres wider und bietet einzigartige Theatershows, bei denen ein Tisch in der ersten Reihe hilft.",
+            "hu": "A párizsi bájt a Vörös-tenger partján tükröző ikonikus helyszín egyedi színházi szórakozást kínál, ahol egy első sorban lévő asztal lefoglalása nagyban fokozza a varázst.",
+            "ro": "Reflectând farmecul parizian pe coasta Mării Roșii, această locație iconică oferă divertisment teatral unic, unde rezervarea unei mese în față sporește masiv magia.",
+            "en": "Reflecting Parisian charm right on the Red Sea coast, this iconic venue offers unique theatrical entertainment, where booking a front table greatly enhances the magic."
+          }
+        },
+        {
+          "name": {
+            "de": "Theatre",
+            "hu": "Theatre",
+            "ro": "Theatre",
+            "en": "Theatre"
+          },
+          "coords": [
+            33.898759,
+            26.988556
+          ],
+          "category": "cultural",
+          "arrive_at": "11:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Dieses beeindruckende Freilufttheater veranstaltet spektakuläre Abendshows, die die lokale Kultur hervorheben, daher wird das Mitbringen einer leichten Jacke empfohlen.",
+            "hu": "Ez a lenyűgöző szabadtéri építmény látványos esti műsoroknak ad otthont, amelyek a helyi kultúrát emelik ki, így egy vékony dzseki magunkkal vitele erősen ajánlott.",
+            "ro": "Această impresionantă structură în aer liber găzduiește spectacole de seară ce evidențiază cultura locală, așa că aducerea unei jachete ușoare este foarte recomandată.",
+            "en": "This impressive open-air structure hosts spectacular evening shows highlighting both local and international culture, so bringing a light jacket is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Cabaret",
+            "hu": "Cabaret",
+            "ro": "Cabaret",
+            "en": "Cabaret"
+          },
+          "coords": [
+            33.896906,
+            26.988079
+          ],
+          "category": "cultural",
+          "arrive_at": "11:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie hier schillernde Aufführungen, da dieser lebhafte Veranstaltungsort den Geist der Bucht einfängt, aber kommen Sie früh für die besten Plätze in der ersten Reihe.",
+            "hu": "Élvezze a káprázatos előadásokat, mivel ez a vibráló helyszín tökéletesen megragadja az öböl szellemét, de mindig érkezzen korán a legjobb első soros színpadi kilátásért.",
+            "ro": "Bucurați-vă de spectacole uluitoare aici, deoarece această locație vibrantă captează perfect spiritul golfului, dar sosiți devreme pentru cele mai bune locuri din față.",
+            "en": "Enjoy dazzling performances here, as this vibrant venue captures the lively spirit of Makadi Bay perfectly, but always arrive early for the best front-row stage views."
+          }
+        },
+        {
+          "name": {
+            "de": "Amphitheater",
+            "hu": "Amphitheater",
+            "ro": "Amphitheater",
+            "en": "Amphitheater"
+          },
+          "coords": [
+            33.912766,
+            26.983958
+          ],
+          "category": "cultural",
+          "arrive_at": "12:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erleben Sie die wahre Magie der traditionellen Folklore in dieser großartigen Außenkulisse direkt unter den Sternen, obwohl das Mitführen von Mückenschutz eine kluge Wahl ist.",
+            "hu": "Tapasztalja meg a hagyományos folklór igazi varázsát ebben a nagyszerű szabadtéri környezetben, közvetlenül a csillagok alatt, bár a szúnyogriasztó mindig okos választás.",
+            "ro": "Experimentați adevărata magie a folclorului tradițional în acest cadru grandios în aer liber direct sub stele, deși purtarea unui repelent de țânțari este o alegere bună.",
+            "en": "Experience the true magic of traditional folklore in this grand outdoor setting directly under the stars, though carrying mosquito repellent is always a smart choice."
+          }
+        },
+        {
+          "name": {
+            "de": "Shisha Corner",
+            "hu": "Shisha Corner",
+            "ro": "Shisha Corner",
+            "en": "Shisha Corner"
+          },
+          "coords": [
+            33.913138,
+            26.981726
+          ],
+          "category": "landmark",
+          "arrive_at": "13:26",
+          "stay_min": 55,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich mit aromatischen Aromen in dieser traditionell gestalteten Lounge, die lokale Freizeit bietet, und probieren Sie unbedingt die Minz-Apfel-Mischung.",
+            "hu": "Pihenjen gyönyörűen aromás ízekkel ebben a hagyományosan kialakított társalgóban, amely a helyi szabadidőt kínálja, és mindenképpen próbálja ki a menta-alma keveréket.",
+            "ro": "Relaxați-vă cu arome frumos parfumate în acest lounge cu design tradițional ce oferă un adevărat gust al timpului liber, și încercați neapărat amestecul de mere și mentă.",
+            "en": "Relax with beautifully aromatic flavors in this traditionally styled lounge offering a true taste of local leisure, and definitely try the mint apple blend for a break."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihr Radabenteuer im lustigen Aquapark Kids und lassen Sie die energiegeladene Stimmung einen positiven Ton für den Tag setzen. Radeln Sie zum Moulin Rouge und genießen Sie die morgendliche Brise.\n\nFahren Sie in das zentrale Unterhaltungsviertel, um das beeindruckende Theatre zu entdecken. Setzen Sie Ihre Fahrt zum nahen Cabaret fort, während Sie die palmengesäumten Straßen befahren.\n\nAm Nachmittag radeln Sie etwas weiter zum majestätischen Amphitheater. Diese beeindruckende Struktur bietet großartige fotogene Momente, bevor die abendlichen Schatten fallen.\n\nBeenden Sie Ihre Radtour in der entspannenden Shisha Corner. Stellen Sie Ihr Fahrrad ab und entspannen Sie sich in der traditionell eingerichteten Lounge im Freien.",
+        "hu": "Kezdje kerékpáros kalandját a vidám Aquapark Kids-ben, hagyva, hogy az energikus hangulat pozitív alaphangot adjon a napnak. Tekerjen el a Moulin Rouge-hoz, élvezve a reggeli szellőt.\n\nLovagoljon a központi szórakoztató negyed felé, hogy felfedezze a nagyszerű Theatre-t. Folytassa útját a közeli Cabaret-hez, miközben a pálmafákkal szegélyezett utcákon navigál.\n\nDélután tekerjen egy kicsit tovább a fenséges Amphitheater felé. Ez a lenyűgöző építmény rengeteg fotogén pillanatot kínál, mielőtt az esti árnyékok elkezdenek hullani.\n\nFejezze be a kerékpártúrát a pihentető Shisha Corner-ben. Parkolja le kerékpárját, és kapcsolódjon ki a hagyományosan díszített szabadtéri társalgóban, tökéletesen zárva a napot.",
+        "ro": "Începeți aventura pe bicicletă la Aquapark Kids, lăsând vibrația plină de energie să stabilească un ton pozitiv. Pedalați lin către Moulin Rouge, bucurându-vă de briza dimineții.\n\nMergeți spre districtul central de divertisment pentru a descoperi grandiosul Theatre. Continuați-vă călătoria către Cabaret, navigând pe străzile mărginite de palmieri ale stațiunii.\n\nDupă-amiaza, pedalați puțin mai departe către majestuosul Amphitheater. Această structură impresionantă oferă o mulțime de momente fotogenice înainte ca umbrele serii să cadă.\n\nTerminați-vă turul cu bicicleta la relaxantul Shisha Corner. Parcați bicicleta și relaxați-vă în lounge-ul în aer liber decorat tradițional pentru a încheia o zi activă.",
+        "en": "Start your cycling adventure at the fun-filled Aquapark Kids, letting the energetic vibe set a positive tone for the day. Pedal smoothly over to the famous Moulin Rouge to admire its design.\n\nRide towards the central entertainment district to discover the grand Theatre. Continue your cycling journey to the nearby Cabaret, feeling the theatrical pulse of Makadi Bay.\n\nAs the afternoon sets in, cycle slightly further out to the majestic Amphitheater. This impressive structure offers plenty of photogenic moments before the evening shadows begin to fall.\n\nFinish your bike tour at the relaxing Shisha Corner. Park your bicycle and unwind in the traditionally decorated outdoor lounge, creating a perfect tranquil end to an active day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:17",
+      "total_km": 11.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "SeaHorses",
+            "hu": "SeaHorses",
+            "ro": "SeaHorses",
+            "en": "SeaHorses"
+          },
+          "coords": [
+            33.883351,
+            27.008172
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die malerische Küste direkt auf dem Pferderücken für eine einzigartige Perspektive auf die Schönheit des Roten Meeres, aber tragen Sie lange Hosen für Komfort.",
+            "hu": "Fedezze fel a festői tengerpartot lóháton a Vörös-tenger szépségének egyedülálló és emlékezetes perspektívájáért, de a kényelem érdekében mindenképpen viseljen hosszú nadrágot.",
+            "ro": "Explorați coasta pitorească direct călare pentru o perspectivă unică și memorabilă asupra frumuseții Mării Roșii, dar asigurați-vă că purtați pantaloni lungi pentru confort.",
+            "en": "Explore the picturesque coastline directly on horseback for a unique and memorable perspective of the Red Sea's beauty, but ensure you wear long trousers for comfort."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquapark Kids",
+            "hu": "Aquapark Kids",
+            "ro": "Aquapark Kids",
+            "en": "Aquapark Kids"
+          },
+          "coords": [
+            33.896539,
+            26.997799
+          ],
+          "category": "recreational",
+          "arrive_at": "10:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Dieses farbenfrohe Wasserwunderland wurde speziell für jüngere Gäste entworfen und bietet sichere Rutschen, weshalb es ratsam ist, sich früh eine schattige Liege zu sichern.",
+            "hu": "Kifejezetten fiatalabb vendégek számára tervezték ezt a színes vízi csodaországot, amely biztonságos csúszdákat kínál, így érdemes korán lefoglalni egy árnyékos napágyat.",
+            "ro": "Concepută special pentru oaspeții mai tineri, această minunăție acvatică oferă tobogane sigure și distracție, fiind înțelept să ocupați un șezlong la umbră devreme.",
+            "en": "Designed specifically for younger guests, this colorful water wonderland offers safe slides and endless family fun, making it very wise to secure a shaded lounger early."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin Rouge",
+            "hu": "Moulin Rouge",
+            "ro": "Moulin Rouge",
+            "en": "Moulin Rouge"
+          },
+          "coords": [
+            33.901849,
+            26.998297
+          ],
+          "category": "cultural",
+          "arrive_at": "11:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Dieser ikonische Ort spiegelt den Pariser Charme an der Küste des Roten Meeres wider und bietet einzigartige Theatershows, bei denen ein Tisch in der ersten Reihe hilft.",
+            "hu": "A párizsi bájt a Vörös-tenger partján tükröző ikonikus helyszín egyedi színházi szórakozást kínál, ahol egy első sorban lévő asztal lefoglalása nagyban fokozza a varázst.",
+            "ro": "Reflectând farmecul parizian pe coasta Mării Roșii, această locație iconică oferă divertisment teatral unic, unde rezervarea unei mese în față sporește masiv magia.",
+            "en": "Reflecting Parisian charm right on the Red Sea coast, this iconic venue offers unique theatrical entertainment, where booking a front table greatly enhances the magic."
+          }
+        },
+        {
+          "name": {
+            "de": "Theatre",
+            "hu": "Theatre",
+            "ro": "Theatre",
+            "en": "Theatre"
+          },
+          "coords": [
+            33.898759,
+            26.988556
+          ],
+          "category": "cultural",
+          "arrive_at": "12:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Dieses beeindruckende Freilufttheater veranstaltet spektakuläre Abendshows, die die lokale Kultur hervorheben, daher wird das Mitbringen einer leichten Jacke empfohlen.",
+            "hu": "Ez a lenyűgöző szabadtéri építmény látványos esti műsoroknak ad otthont, amelyek a helyi kultúrát emelik ki, így egy vékony dzseki magunkkal vitele erősen ajánlott.",
+            "ro": "Această impresionantă structură în aer liber găzduiește spectacole de seară ce evidențiază cultura locală, așa că aducerea unei jachete ușoare este foarte recomandată.",
+            "en": "This impressive open-air structure hosts spectacular evening shows highlighting both local and international culture, so bringing a light jacket is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Makadi Aqua Park",
+            "hu": "Makadi Aqua Park",
+            "ro": "Makadi Aqua Park",
+            "en": "Makadi Aqua Park"
+          },
+          "coords": [
+            33.872124,
+            26.98102
+          ],
+          "category": "landmark",
+          "arrive_at": "13:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Nervenkitzel-Suchende werden die riesigen Rutschen und weitläufigen Pools dieses massiven Wahrzeichens absolut lieben, also vergessen Sie nicht die wasserfeste Sonnencreme.",
+            "hu": "Az izgalomra vágyók imádni fogják ennek a hatalmas élményparknak a tornyosuló csúszdáit és kiterjedt medencéit, ezért kérjük, ne felejtse el a vízálló naptejet a nap ellen.",
+            "ro": "Căutătorii de senzații tari vor iubi absolut toboganele falnice și piscinele expansive ale acestui parc masiv, așa că vă rugăm să nu uitați crema de soare rezistentă la apă.",
+            "en": "Thrill-seekers will absolutely love the towering slides and expansive pools of this massive landmark park, so please don't forget waterproof sunscreen against the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Shisha Corner",
+            "hu": "Shisha Corner",
+            "ro": "Shisha Corner",
+            "en": "Shisha Corner"
+          },
+          "coords": [
+            33.913138,
+            26.981726
+          ],
+          "category": "landmark",
+          "arrive_at": "15:04",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich mit aromatischen Aromen in dieser traditionell gestalteten Lounge, die lokale Freizeit bietet, und probieren Sie unbedingt die Minz-Apfel-Mischung.",
+            "hu": "Pihenjen gyönyörűen aromás ízekkel ebben a hagyományosan kialakított társalgóban, amely a helyi szabadidőt kínálja, és mindenképpen próbálja ki a menta-alma keveréket.",
+            "ro": "Relaxați-vă cu arome frumos parfumate în acest lounge cu design tradițional ce oferă un adevărat gust al timpului liber, și încercați neapărat amestecul de mere și mentă.",
+            "en": "Relax with beautifully aromatic flavors in this traditionally styled lounge offering a true taste of local leisure, and definitely try the mint apple blend for a break."
+          }
+        },
+        {
+          "name": {
+            "de": "Serenity Water Park",
+            "hu": "Serenity Water Park",
+            "ro": "Serenity Water Park",
+            "en": "Serenity Water Park"
+          },
+          "coords": [
+            33.912402,
+            26.96898
+          ],
+          "category": "recreational",
+          "arrive_at": "15:32",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Dieser weitläufige Park bietet eine vielfältige Auswahl an riesigen Wasserattraktionen für absolut jedes Alter und verspricht einen unvergesslichen Tag mit einem Spind.",
+            "hu": "A minden korosztályra szabott, hatalmas vízi attrakciók változatos kínálatát nyújtó, kiterjedt park felejthetetlen napot ígér, ha bérel egy biztonságos szekrényt az értékeknek.",
+            "ro": "Oferind o gamă diversă de atracții acvatice masive, adaptate pentru absolut toate vârstele, acest parc expansiv promite o zi de neuitat dacă închiriați un dulap foarte sigur.",
+            "en": "Offering a diverse range of massive water attractions tailored for absolutely all ages, this expansive park promises an unforgettable day if you rent a secure locker."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Fahrt bei SeaHorses, einem perfekten Ort im Norden für die morgendliche Küstenruhe. Danach fahren Sie zum energiegeladenen Aquapark Kids, um die Erholungsseite der Bucht zu erleben, bevor die Hitze ihren Höhepunkt erreicht.\n\nFahren Sie bequem zum Moulin Rouge und zum Theatre und genießen Sie die Klimaanlage Ihres Wagens, während Sie zwischen diesen kulturellen Wahrzeichen wechseln.\n\nFahren Sie nachmittags zum spektakulären Makadi Aqua Park, einem riesigen Komplex aus Pools. Danach fahren Sie weiter zur Shisha Corner für einen kurzen Halt, um die traditionelle Ästhetik zu bewundern.\n\nBeenden Sie Ihren Roadtrip im südlichen Serenity Water Park. Wenn Sie am späten Nachmittag ankommen, sehen Sie die Anlagen in weichem Licht, ein toller Abschluss Ihrer Tour.",
+        "hu": "Kezdje autós túráját a SeaHorses-nál, amely egy gyönyörű északi hely a parti reggeli nyugalomhoz. Innen utazzon el az energikus Aquapark Kids-be, hogy megtapasztalja az öböl vidám oldalát.\n\nVezessen kényelmesen a Moulin Rouge-hoz és a Theatre-hez, élvezve a légkondicionáló kényelmét, miközben e kulturális nevezetességek között ugrál a központi területen.\n\nDélután induljon a látványos Makadi Aqua Parkba, amely egy hatalmas medencekomplexum. Ezután hajtson tovább a Shisha Corner felé egy rövid megállóra, hogy megcsodálja a hagyományos esztétikáját.\n\nFejezze be átfogó autós útját a déli Serenity Water Parkban. Az érkezés, amikor a nap lehűl, lehetővé teszi, hogy lágy esti fényben lássa a nagyszerű létesítményeket.",
+        "ro": "Începeți turul cu mașina la SeaHorses, un loc frumos în nord perfect pentru calmul dimineții de coastă. Conduceți rapid către Aquapark Kids, văzând latura recreativă a golfului înainte de căldură.\n\nConduceți confortabil la Moulin Rouge și la Theatre, bucurându-vă de aerul condiționat în timp ce săriți între aceste repere culturale. Zona centrală este ușor de explorat cu mașina.\n\nMergeți la spectaculosul Makadi Aqua Park, un complex imens de piscine. Ulterior, faceți o croazieră către Shisha Corner pentru o scurtă oprire pentru a admira estetica sa primitoare.\n\nÎncheiați-vă călătoria cuprinzătoare la Serenity Water Park din sud. Ajungând când ziua se răcește, vă permite să vedeți facilitățile sub o lumină moale, de seară, perfect.",
+        "en": "Kick off your driving tour at SeaHorses, a beautiful spot in the north perfect for embracing the coastal morning calm. Take a quick drive down to the energetic Aquapark Kids before midday.\n\nDrive comfortably to the Moulin Rouge and the adjacent Theatre, enjoying the convenience of air conditioning as you hop between these cultural landmarks in the central bay area.\n\nHead out to the spectacular Makadi Aqua Park, an immense complex of pools and towering slides. Afterwards, cruise towards the Shisha Corner for a short stop to admire its traditional aesthetics.\n\nEnd your comprehensive road trip at the southern Serenity Water Park. Arriving as the day cools down lets you see the grand recreational facilities under a soft evening light, perfectly concluding the trip."
+      }
+    }
+  }
+}

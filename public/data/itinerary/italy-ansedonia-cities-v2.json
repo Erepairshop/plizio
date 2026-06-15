@@ -1,0 +1,520 @@
+{
+  "city_id": "italy-ansedonia-cities-v2",
+  "anchor": {
+    "name": "Ansedonia",
+    "coords": [
+      11.28954,
+      42.40728
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:57",
+      "total_km": 2.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Portus Cosanus",
+            "hu": "Portus Cosanus",
+            "ro": "Portus Cosanus",
+            "en": "Portus Cosanus"
+          },
+          "coords": [
+            11.293215,
+            42.407431
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die antiken römischen Hafenruinen mit ihrer beeindruckenden Wasserbautechnik und tragen Sie festes Schuhwerk für die felsigen Küstenpfade.",
+            "hu": "Fedezze fel az ókori római kikötő romjait és lenyűgöző vízmérnöki megoldásait, de feltétlenül viseljen masszív cipőt a sziklás tengerparti ösvényekhez.",
+            "ro": "Descoperiți ruinele anticului port roman ce demonstrează o inginerie hidraulică impresionantă și purtați încălțăminte robustă pentru potecile stâncoase.",
+            "en": "Discover the ancient Roman port ruins showcasing impressive hydraulic engineering, and be sure to wear sturdy shoes for climbing the rocky coastal paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Marittima della Tagliata",
+            "hu": "Villa Marittima della Tagliata",
+            "ro": "Villa Marittima della Tagliata",
+            "en": "Villa Marittima della Tagliata"
+          },
+          "coords": [
+            11.294861,
+            42.408777
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende römische Villa direkt an der Klippe über dem Meer und kommen Sie früh, um die grelle Nachmittagssonne zu vermeiden.",
+            "hu": "Járja be ezt a közvetlenül a tenger feletti sziklába épült lenyűgöző római villát, és érkezzen korán, hogy elkerülje a kora délutáni erős napsütést.",
+            "ro": "Explorați această fascinantă vilă romană construită direct în stâncă deasupra mării și veniți devreme pentru a evita soarele puternic de după-amiază.",
+            "en": "Explore this fascinating Roman villa built directly into the cliffside over the sea, and visit early in the day to avoid the intense afternoon sun glare."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre di San Biagio",
+            "hu": "Torre di San Biagio",
+            "ro": "Torre di San Biagio",
+            "en": "Torre di San Biagio"
+          },
+          "coords": [
+            11.290072,
+            42.405343
+          ],
+          "category": "tower",
+          "arrive_at": "12:02",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen mittelalterlichen Küstenwachturm mit weitem Blick auf das Tyrrhenische Meer und bringen Sie Ihre Kamera für tolle Panoramabilder mit.",
+            "hu": "Csodálja meg ezt a Tirrén-tengerre nyíló, lenyűgöző kilátást nyújtó középkori parti őrtornyot, és hozzon fényképezőgépet a panorámaképek készítéséhez.",
+            "ro": "Admirați acest turn de veghe medieval cu vederi ample asupra Mării Tireniene și aduceți aparatul foto pentru a surprinde panorame fotografice spectaculoase.",
+            "en": "Admire this medieval coastal watchtower that offers sweeping views of the Tyrrhenian Sea, and bring your camera for spectacular panoramic photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Archeologico Nazionale di Cosa",
+            "hu": "Museo Archeologico Nazionale di Cosa",
+            "ro": "Museo Archeologico Nazionale di Cosa",
+            "en": "Museo Archeologico Nazionale di Cosa"
+          },
+          "coords": [
+            11.286083,
+            42.412739
+          ],
+          "category": "museum",
+          "arrive_at": "12:42",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reichen Fundstücke der antiken Kolonie Cosa ein und fragen Sie an der Information nach kostenlosen Audioguides für Ihren Rundgang.",
+            "hu": "Merüljön el az ókori Cosa kolóniából feltárt gazdag leletekben, és kérjen ingyenes audióvezetőt az információs pultnál az élmény fokozása érdekében.",
+            "ro": "Descoperiți artefactele bogate excavate din colonia antică Cosa și întrebați la biroul de informații de ghiduri audio gratuite pentru a vă îmbunătăți vizita.",
+            "en": "Delve into the rich artifacts excavated from the ancient colony of Cosa, and check the information desk for free audio guides to enhance your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Capitolium of Cosa",
+            "hu": "Capitolium of Cosa",
+            "ro": "Capitolium of Cosa",
+            "en": "Capitolium of Cosa"
+          },
+          "coords": [
+            11.28647,
+            42.410931
+          ],
+          "category": "historical",
+          "arrive_at": "14:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die monumentalen Fundamente des Haupttempels der Kapitolinischen Trias und lesen Sie die Tafeln, um seine einstige Größe zu erfassen.",
+            "hu": "Csodálja meg a Capitoliumi triásznak szentelt főtemplom monumentális alapjait, és olvassa el a kihelyezett táblákat a múltbeli méretek megértéséhez.",
+            "ro": "Admirați fundațiile monumentale ale templului principal dedicat Triadei Capitoline și citiți plăcuțele informative pentru a-i înțelege scara istorică.",
+            "en": "Marvel at the monumental foundations of the primary temple dedicated to the Capitoline Triad, and read the on-site plaques to understand its past scale."
+          }
+        },
+        {
+          "name": {
+            "de": "Cosa",
+            "hu": "Cosa",
+            "ro": "Cosa",
+            "en": "Cosa"
+          },
+          "coords": [
+            11.287026,
+            42.412373
+          ],
+          "category": "landmark",
+          "arrive_at": "15:47",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die weitläufigen Ruinen dieser römischen Siedlung aus dem 3. Jh. v. Chr. und halten Sie Wasser bereit, da es hier kaum Schatten gibt.",
+            "hu": "Sétáljon végig a Kr. e. 3. századi római település kiterjedt romjain, és tartson magánál vizet, mivel a fennsíkon meglehetősen ritka az árnyék.",
+            "ro": "Plimbați-vă printre ruinele vaste ale acestei așezări romane din secolul III î.Hr., având la îndemână apă deoarece umbra este rară pe platou.",
+            "en": "Walk through the sprawling ruins of this 3rd-century BC Roman settlement, keeping a water bottle handy since shade is quite sparse across the plateau."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "M: Wir beginnen an der rauen Küste und erkunden den alten Hafen Portus Cosanus und die unglaubliche Technik der Villa Marittima della Tagliata.\nMD: Beim Aufstieg auf den Hügel wechseln wir von mittelalterlichen Wachtürmen zur reichen Geschichte im Nationalen Archäologischen Museum von Cosa.\nA: Den Nachmittag verbringen wir inmitten der Ruinen von Cosa und dem Kapitol.\nE: Wir beenden unseren Spaziergang mit einem weiten Blick vom antiken Plateau und lassen die Farben des Sonnenuntergangs die historische Reise abrunden.",
+        "hu": "M: A zord tengerparton kezdünk, felfedezzük a Portus Cosanus ősi kikötőjét és a Villa Marittima della Tagliata hihetetlen mérnöki munkáját.\nMD: A dombra felfelé haladva a középkori őrtornyoktól a Cosa Nemzeti Régészeti Múzeumában őrzött gazdag történelem felé vesszük az irányt.\nA: A délutánt Cosa és a Capitolium monumentális romjai között sétálva töltjük.\nE: Sétánkat az ősi fennsíkról nyíló pazar kilátással zárjuk, hagyva, hogy a tenger feletti naplemente színei megkoronázzák történelmi utunkat.",
+        "ro": "M: Începem pe coasta accidentată, explorând vechiul port Portus Cosanus și incredibila inginerie a Vilei Marittima della Tagliata.\nMD: Urcând pe deal, trecem de la turnurile de veghe medievale la istoria bogată păstrată în Muzeul Arheologic Național din Cosa.\nA: După-amiaza este petrecută plimbându-ne printre ruinele monumentale din Cosa și Capitolium.\nE: Ne încheiem plimbarea cu o panoramă superbă de pe platoul antic, lăsând culorile apusului peste Marea Tireniană să încheie o călătorie istorică.",
+        "en": "M: We start on the rugged coastline, exploring the ancient harbor of Portus Cosanus and the incredible engineering of Villa Marittima della Tagliata.\nMD: Climbing up the hill, we transition from medieval watchtowers to the rich history preserved inside the National Archaeological Museum of Cosa.\nA: The afternoon is spent walking among the monumental ruins of Cosa and the Capitolium.\nE: We end our walk with a sweeping view from the ancient plateau, letting the sunset colors over the Tyrrhenian Sea conclude a historical journey."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:06",
+      "total_km": 3.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Torre di San Pancrazio",
+            "hu": "Torre di San Pancrazio",
+            "ro": "Torre di San Pancrazio",
+            "en": "Torre di San Pancrazio"
+          },
+          "coords": [
+            11.280767,
+            42.408132
+          ],
+          "category": "tower",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die imposante Architektur dieses historischen Wehrturms an der Küste und bringen Sie ein Fernglas mit, um Schiffe am Horizont zu sichten.",
+            "hu": "Tekintse meg a tengerpartra néző történelmi védőtorony impozáns építészetét, és hozzon magával távcsövet a horizonton elhaladó hajók megfigyeléséhez.",
+            "ro": "Observați arhitectura impunătoare a acestui turn defensiv istoric ce domină coasta și aduceți binoclul pentru a zări navele ce trec la orizont.",
+            "en": "Take in the imposing architecture of this historical defensive tower overlooking the coast, and bring binoculars to spot passing ships on the horizon."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa di Diana",
+            "hu": "Casa di Diana",
+            "ro": "Casa di Diana",
+            "en": "Casa di Diana"
+          },
+          "coords": [
+            11.288271,
+            42.412139
+          ],
+          "category": "historical",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Betrachten Sie die erhaltenen Überreste eines reichen römischen Patrizierhauses und achten Sie auf die Bodenmosaike, die genaue Beobachtung erfordern.",
+            "hu": "Tekintse meg egy gazdag római patrícius ház gondosan megőrzött maradványait, és figyeljen a fennmaradt padlómozaikokra, amelyek alapos vizsgálatot igényelnek.",
+            "ro": "Vedeți rămășițele bine conservate ale unei case patriciene romane bogate și concentrați-vă pe mozaicurile de pe podea ce necesită observație atentă.",
+            "en": "View the intricately preserved remnants of a wealthy Roman patrician house, and focus on the surviving floor mosaics that require careful observation."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Archeologico Nazionale di Cosa",
+            "hu": "Museo Archeologico Nazionale di Cosa",
+            "ro": "Museo Archeologico Nazionale di Cosa",
+            "en": "Museo Archeologico Nazionale di Cosa"
+          },
+          "coords": [
+            11.286083,
+            42.412739
+          ],
+          "category": "museum",
+          "arrive_at": "11:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reichen Fundstücke der antiken Kolonie Cosa ein und fragen Sie an der Information nach kostenlosen Audioguides für Ihren Rundgang.",
+            "hu": "Merüljön el az ókori Cosa kolóniából feltárt gazdag leletekben, és kérjen ingyenes audióvezetőt az információs pultnál az élmény fokozása érdekében.",
+            "ro": "Descoperiți artefactele bogate excavate din colonia antică Cosa și întrebați la biroul de informații de ghiduri audio gratuite pentru a vă îmbunătăți vizita.",
+            "en": "Delve into the rich artifacts excavated from the ancient colony of Cosa, and check the information desk for free audio guides to enhance your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Capitolium of Cosa",
+            "hu": "Capitolium of Cosa",
+            "ro": "Capitolium of Cosa",
+            "en": "Capitolium of Cosa"
+          },
+          "coords": [
+            11.28647,
+            42.410931
+          ],
+          "category": "historical",
+          "arrive_at": "12:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die monumentalen Fundamente des Haupttempels der Kapitolinischen Trias und lesen Sie die Tafeln, um seine einstige Größe zu erfassen.",
+            "hu": "Csodálja meg a Capitoliumi triásznak szentelt főtemplom monumentális alapjait, és olvassa el a kihelyezett táblákat a múltbeli méretek megértéséhez.",
+            "ro": "Admirați fundațiile monumentale ale templului principal dedicat Triadei Capitoline și citiți plăcuțele informative pentru a-i înțelege scara istorică.",
+            "en": "Marvel at the monumental foundations of the primary temple dedicated to the Capitoline Triad, and read the on-site plaques to understand its past scale."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre di San Biagio",
+            "hu": "Torre di San Biagio",
+            "ro": "Torre di San Biagio",
+            "en": "Torre di San Biagio"
+          },
+          "coords": [
+            11.290072,
+            42.405343
+          ],
+          "category": "tower",
+          "arrive_at": "14:07",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen mittelalterlichen Küstenwachturm mit weitem Blick auf das Tyrrhenische Meer und bringen Sie Ihre Kamera für tolle Panoramabilder mit.",
+            "hu": "Csodálja meg ezt a Tirrén-tengerre nyíló, lenyűgöző kilátást nyújtó középkori parti őrtornyot, és hozzon fényképezőgépet a panorámaképek készítéséhez.",
+            "ro": "Admirați acest turn de veghe medieval cu vederi ample asupra Mării Tireniene și aduceți aparatul foto pentru a surprinde panorame fotografice spectaculoase.",
+            "en": "Admire this medieval coastal watchtower that offers sweeping views of the Tyrrhenian Sea, and bring your camera for spectacular panoramic photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Portus Cosanus",
+            "hu": "Portus Cosanus",
+            "ro": "Portus Cosanus",
+            "en": "Portus Cosanus"
+          },
+          "coords": [
+            11.293215,
+            42.407431
+          ],
+          "category": "historical",
+          "arrive_at": "14:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die antiken römischen Hafenruinen mit ihrer beeindruckenden Wasserbautechnik und tragen Sie festes Schuhwerk für die felsigen Küstenpfade.",
+            "hu": "Fedezze fel az ókori római kikötő romjait és lenyűgöző vízmérnöki megoldásait, de feltétlenül viseljen masszív cipőt a sziklás tengerparti ösvényekhez.",
+            "ro": "Descoperiți ruinele anticului port roman ce demonstrează o inginerie hidraulică impresionantă și purtați încălțăminte robustă pentru potecile stâncoase.",
+            "en": "Discover the ancient Roman port ruins showcasing impressive hydraulic engineering, and be sure to wear sturdy shoes for climbing the rocky coastal paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia libera",
+            "hu": "Spiaggia libera",
+            "ro": "Spiaggia libera",
+            "en": "Spiaggia libera"
+          },
+          "coords": [
+            11.29801,
+            42.408375
+          ],
+          "category": "landmark",
+          "arrive_at": "15:56",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem unberührten, von mediterraner Macchia gesäumten öffentlichen Strand und packen Sie Snacks ein, da die Annehmlichkeiten begrenzt sind.",
+            "hu": "Pihenjen ezen a mediterrán cserjésekkel övezett, érintetlen szabadstrandon, és hozzon magával rágcsálnivalót, mivel a helyi szolgáltatások korlátozottak.",
+            "ro": "Relaxați-vă pe această plajă publică sălbatică, încadrată de vegetație mediteraneană, și aduceți propriile gustări deoarece facilitățile locale sunt limitate.",
+            "en": "Relax on this pristine, untamed stretch of public beach framed by Mediterranean scrub, and pack your own snacks as local amenities are quite limited."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "M: Unsere Fahrt beginnt am westlichen Wehrturm, bevor wir zu den Höhen der römischen Siedlung aufsteigen, um die erhaltene Casa di Diana zu erkunden.\nMD: Ein mittäglicher Besuch im Museum und im Kapitol bietet tiefe Einblicke in das tägliche Leben und die religiösen Praktiken der antiken Kolonisten.\nA: Wir radeln zügig hinunter zur Küste und bewundern historische Ruinen.\nE: Die Route endet am öffentlichen Strand, wo Sie im Sand die Beine ausruhen und die kühle Meeresbrise genießen können, während der Tag ausklingt.",
+        "hu": "M: Utunk a nyugati védőtoronynál indul, majd felkapaszkodunk a római település magaslataira, hogy felfedezzük a Casa di Diana jó állapotú romjait.\nMD: A múzeum és a Capitolium déli látogatása mély bepillantást enged az ókori telepesek mindennapi életébe és vallási gyakorlataiba.\nA: Gyorsan lekerékpározunk a partra, megtekintve az ősi kikötő lenyűgöző maradványait.\nE: Az útvonal a szabadstrandon ér véget, ahol megpihentetheti lábait a homokban, és élvezheti a hűsítő tengeri szellőt, ahogy a nap lassan véget ér.",
+        "ro": "M: Plimbarea noastră începe lângă turnul defensiv vestic, înainte de a urca spre înălțimile așezării romane pentru a explora Casa di Diana.\nMD: O vizită la amiază la muzeu și la Capitolium oferă o perspectivă profundă asupra vieții cotidiene a coloniștilor antici.\nA: Pedalăm rapid înapoi spre coastă, admirând ruinele impresionante ale vechiului port scăldate în soarele după-amiezii.\nE: Traseul se termină la plaja publică, unde vă puteți odihni picioarele pe nisip și vă puteți bucura de briza mării în timp ce ziua se încheie.",
+        "en": "M: Our ride kicks off near the western defensive tower before ascending to the heights of the Roman settlement to explore the well-preserved Casa di Diana.\nMD: A midday visit to the museum and the Capitolium provides deep insight into the daily life and religious practices of the ancient colonists.\nA: We cycle swiftly down towards the coast, taking in impressive ruins of the old port.\nE: The route finishes at the public beach, where you can rest your legs on the sand and enjoy the cooling sea breeze as the day slowly winds down."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 5.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "villa romana",
+            "hu": "villa romana",
+            "ro": "villa romana",
+            "en": "villa romana"
+          },
+          "coords": [
+            11.278469,
+            42.418164
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die ausgegrabenen Mauern eines in die Landschaft eingebetteten antiken Küstenguts und besuchen Sie es in den milden Morgenstunden.",
+            "hu": "Vizsgálja meg a tájba simuló ősi tengerparti birtok feltárt falait, és látogasson el ide az enyhe reggeli órákban, hogy elkerülje a nyári hőséget.",
+            "ro": "Investigați zidurile excavate ale unei moșii de coastă antice ascunse în peisaj și vizitați-o în orele blânde ale dimineții pentru a evita căldura.",
+            "en": "Investigate the excavated walls of an ancient coastal estate tucked into the landscape, and visit in the mild morning hours to avoid the summer heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Al Cartello",
+            "hu": "Al Cartello",
+            "ro": "Al Cartello",
+            "en": "Al Cartello"
+          },
+          "coords": [
+            11.278985,
+            42.416649
+          ],
+          "category": "recreational",
+          "arrive_at": "10:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie eine angenehme Pause an diesem beliebten lokalen Ort mit entspannter Atmosphäre und probieren Sie toskanische Spezialitäten zum Mittagessen.",
+            "hu": "Élvezze a kellemes pihenőt ezen a nyugodt légkörű, kedvelt helyi helyen, és kóstolja meg a regionális toszkán specialitásokat egy autentikus ebédhez.",
+            "ro": "Bucurați-vă de o pauză plăcută în acest loc local îndrăgit cu atmosferă relaxată și încercați specialitățile regionale toscane pentru un prânz autentic.",
+            "en": "Enjoy a pleasant break at this well-loved local spot offering a relaxed atmosphere, and try the regional Tuscan specialties for an authentic lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Cosa",
+            "hu": "Cosa",
+            "ro": "Cosa",
+            "en": "Cosa"
+          },
+          "coords": [
+            11.287026,
+            42.412373
+          ],
+          "category": "landmark",
+          "arrive_at": "11:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die weitläufigen Ruinen dieser römischen Siedlung aus dem 3. Jh. v. Chr. und halten Sie Wasser bereit, da es hier kaum Schatten gibt.",
+            "hu": "Sétáljon végig a Kr. e. 3. századi római település kiterjedt romjain, és tartson magánál vizet, mivel a fennsíkon meglehetősen ritka az árnyék.",
+            "ro": "Plimbați-vă printre ruinele vaste ale acestei așezări romane din secolul III î.Hr., având la îndemână apă deoarece umbra este rară pe platou.",
+            "en": "Walk through the sprawling ruins of this 3rd-century BC Roman settlement, keeping a water bottle handy since shade is quite sparse across the plateau."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Archeologico Nazionale di Cosa",
+            "hu": "Museo Archeologico Nazionale di Cosa",
+            "ro": "Museo Archeologico Nazionale di Cosa",
+            "en": "Museo Archeologico Nazionale di Cosa"
+          },
+          "coords": [
+            11.286083,
+            42.412739
+          ],
+          "category": "museum",
+          "arrive_at": "12:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reichen Fundstücke der antiken Kolonie Cosa ein und fragen Sie an der Information nach kostenlosen Audioguides für Ihren Rundgang.",
+            "hu": "Merüljön el az ókori Cosa kolóniából feltárt gazdag leletekben, és kérjen ingyenes audióvezetőt az információs pultnál az élmény fokozása érdekében.",
+            "ro": "Descoperiți artefactele bogate excavate din colonia antică Cosa și întrebați la biroul de informații de ghiduri audio gratuite pentru a vă îmbunătăți vizita.",
+            "en": "Delve into the rich artifacts excavated from the ancient colony of Cosa, and check the information desk for free audio guides to enhance your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre di San Biagio",
+            "hu": "Torre di San Biagio",
+            "ro": "Torre di San Biagio",
+            "en": "Torre di San Biagio"
+          },
+          "coords": [
+            11.290072,
+            42.405343
+          ],
+          "category": "tower",
+          "arrive_at": "13:57",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen mittelalterlichen Küstenwachturm mit weitem Blick auf das Tyrrhenische Meer und bringen Sie Ihre Kamera für tolle Panoramabilder mit.",
+            "hu": "Csodálja meg ezt a Tirrén-tengerre nyíló, lenyűgöző kilátást nyújtó középkori parti őrtornyot, és hozzon fényképezőgépet a panorámaképek készítéséhez.",
+            "ro": "Admirați acest turn de veghe medieval cu vederi ample asupra Mării Tireniene și aduceți aparatul foto pentru a surprinde panorame fotografice spectaculoase.",
+            "en": "Admire this medieval coastal watchtower that offers sweeping views of the Tyrrhenian Sea, and bring your camera for spectacular panoramic photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Marittima della Tagliata",
+            "hu": "Villa Marittima della Tagliata",
+            "ro": "Villa Marittima della Tagliata",
+            "en": "Villa Marittima della Tagliata"
+          },
+          "coords": [
+            11.294861,
+            42.408777
+          ],
+          "category": "historical",
+          "arrive_at": "14:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende römische Villa direkt an der Klippe über dem Meer und kommen Sie früh, um die grelle Nachmittagssonne zu vermeiden.",
+            "hu": "Járja be ezt a közvetlenül a tenger feletti sziklába épült lenyűgöző római villát, és érkezzen korán, hogy elkerülje a kora délutáni erős napsütést.",
+            "ro": "Explorați această fascinantă vilă romană construită direct în stâncă deasupra mării și veniți devreme pentru a evita soarele puternic de după-amiază.",
+            "en": "Explore this fascinating Roman villa built directly into the cliffside over the sea, and visit early in the day to avoid the intense afternoon sun glare."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa delle Colonne",
+            "hu": "Villa delle Colonne",
+            "ro": "Villa delle Colonne",
+            "en": "Villa delle Colonne"
+          },
+          "coords": [
+            11.311038,
+            42.421755
+          ],
+          "category": "historical",
+          "arrive_at": "15:49",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die markanten Säulenreste, die einst eine große Küstenvilla trugen, und nutzen Sie den nahen Küstenweg für einen einfachen Fußweg.",
+            "hu": "Fedezze fel az egykor hatalmas tengerparti villát tartó oszlopok feltűnő maradványait, és használja a közeli parti ösvényt a könnyű gyalogos megközelítéshez.",
+            "ro": "Descoperiți rămășițele izbitoare ale coloanelor ce susțineau odată o mare vilă de coastă și folosiți poteca de coastă din apropiere pentru acces ușor.",
+            "en": "Discover the striking remains of columns that once supported a grand coastal villa, and use the nearby coastal trail for an easy approach on foot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "M: Wir fahren an den westlichen Rändern entlang, entdecken eine versteckte römische Villa und halten für ein authentisches toskanisches Mittagessen.\nMD: Wir fahren hinauf zum archäologischen Park von Cosa, um seine weitläufigen Ruinen und die faszinierenden Artefakte im Museum zu erkunden.\nA: Auf dem Weg zurück zur östlichen Küste halten wir am mittelalterlichen Wachturm und römischen Ruinen.\nE: Die Fahrt endet in der Nähe der malerischen Villa delle Colonne, die einen letzten Blick auf antike Opulenz vor dem dunkler werdenden Meer bietet.",
+        "hu": "M: A nyugati peremeken autózva felfedezünk egy rejtett római villát, mielőtt megállnánk egy nyugodt, autentikus toszkán ebédre egy helyi kedvencnél.\nMD: Felhajtunk Cosa régészeti parkjába, felfedezzük kiterjedt romjait és a dedikált múzeumban őrzött lenyűgöző ősi műtárgyakat.\nA: Visszafelé a keleti partra tartva megállunk a középkori őrtoronynál és a híres római tengerparti villánál.\nE: Az autózás a festői Villa delle Colonne közelében ér véget, amely az ókori pompa utolsó pillanatait kínálja a sötétedő tenger hátterében.",
+        "ro": "M: Conducând pe marginile vestice, descoperim o vilă romană ascunsă înainte de a ne opri pentru un prânz toscan autentic la un local popular.\nMD: Urcăm cu mașina până la parcul arheologic din Cosa, explorând ruinele sale vaste și artefactele fascinante adăpostite în muzeul dedicat.\nA: Îndreptându-ne înapoi spre coasta de est, ne oprim la turnul de veghe medieval și la ruinele maritime.\nE: Călătoria se încheie lângă pitoreasca Villa delle Colonne, oferind o ultimă privire a opulenței antice pe fundalul mării ce se întunecă.",
+        "en": "M: Driving along the western edges, we discover a hidden Roman villa before stopping for a relaxed, authentic Tuscan lunch at a popular local establishment.\nMD: We drive up to the archaeological park of Cosa, exploring its sprawling ruins and the fascinating artifacts housed within the dedicated museum.\nA: Heading back towards the eastern coastline, we stop by the medieval watchtower and the famous Roman cutting at the Tagliata cliffside.\nE: The drive concludes near the picturesque Villa delle Colonne, offering a final glimpse of ancient opulence against the backdrop of the darkening sea."
+      }
+    }
+  }
+}

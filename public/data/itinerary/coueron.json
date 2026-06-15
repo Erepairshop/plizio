@@ -1,0 +1,451 @@
+{
+  "city_id": "coueron",
+  "anchor": {
+    "name": "Couëron",
+    "coords": [
+      -1.7239,
+      47.2147
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:54",
+      "total_km": 3.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Symphorien",
+            "hu": "Saint-Symphorien Templom",
+            "ro": "Biserica Saint-Symphorien",
+            "en": "Saint-Symphorien Church"
+          },
+          "coords": [
+            -1.728919,
+            47.210147
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Architektur der Kirche Saint-Symphorien, ein Symbol des lokalen Erbes, aber denken Sie an angemessene Kleidung und frühes Kommen für das beste Licht.",
+            "hu": "Csodálja meg a helyi örökséget szimbolizáló Saint-Symphorien templom történelmi építészetét, de öltözzön szerényen és érkezzen korán a reggeli csodás fények megtekintéséhez.",
+            "ro": "Admirați arhitectura istorică a Bisericii Saint-Symphorien, un simbol al patrimoniului local, dar îmbrăcați-vă decent și sosiți devreme dimineața pentru a prinde lumina superbă.",
+            "en": "Admire the striking historical architecture of Saint-Symphorien Church, a symbol of local heritage, but remember to dress modestly and step inside early to catch the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Sémaphore de l’Île de la Liberté",
+            "hu": "Sémaphore de l’Île de la Liberté",
+            "ro": "Semaforul Insulei Libertății",
+            "en": "Sémaphore de l’Île de la Liberté"
+          },
+          "coords": [
+            -1.73057,
+            47.208645
+          ],
+          "category": "natural",
+          "arrive_at": "09:53",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den herrlichen Panoramablick auf den Fluss von diesem Aussichtspunkt mit maritimer Geschichte, also bringen Sie ein Fernglas mit, um lokale Vogelarten zu beobachten.",
+            "hu": "Élvezze a csodálatos folyami panorámát erről a tengerészeti múlttal rendelkező természetes kilátópontról, ezért mindenképpen hozzon távcsövet a helyi madárfajok megfigyeléséhez.",
+            "ro": "Bucurați-vă de vederea panoramică a râului de la acest punct de observare plin de istorie maritimă, așa că aduceți un binoclu pentru a putea admira speciile locale de păsări.",
+            "en": "Take in the magnificent panoramic river views from this natural lookout point, which holds fascinating maritime history, so bring your binoculars for spotting local bird species."
+          }
+        },
+        {
+          "name": {
+            "de": "Bleiturm (Tour à Plomb)",
+            "hu": "Ólomtorony",
+            "ro": "Turnul de Plumb",
+            "en": "Lead Tower (Tour à Plomb)"
+          },
+          "coords": [
+            -1.720122,
+            47.209282
+          ],
+          "category": "historical",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie das industrielle Erbe der alten Schrotfabrik, ein ikonisches Wahrzeichen von Couëron, und tragen Sie feste Wanderschuhe, um den Platz bequem erkunden zu können.",
+            "hu": "Fedezze fel a régi sörétgyár lenyűgöző ipari örökségét, amely a város ikonikus nevezetessége, és viseljen kényelmes cipőt, hogy bejárhassa a környező történelmi tereket.",
+            "ro": "Descoperiți moștenirea industrială a vechii fabrici de alice, un punct de reper iconic din oraș, și purtați pantofi confortabili pentru a naviga ușor prin piațeta din jur.",
+            "en": "Discover the towering industrial legacy of the old lead shot factory, an iconic landmark of Couëron, and wear sturdy walking shoes to comfortably navigate the surrounding plaza."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame de Miséricorde",
+            "hu": "Notre-Dame de Miséricorde Templom",
+            "ro": "Biserica Notre-Dame de Miséricorde",
+            "en": "Église Notre-Dame de Miséricorde"
+          },
+          "coords": [
+            -1.713441,
+            47.210978
+          ],
+          "category": "religious",
+          "arrive_at": "11:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erleben Sie die Stille dieses religiösen Heiligtums mit seinen atemberaubenden Buntglasfenstern und prüfen Sie das Schwarze Brett für lokale Choraufführungen unter der Woche.",
+            "hu": "Tapasztalja meg a gyönyörű ólomüveg ablakokkal díszített szentély nyugalmát, és mindenképpen ellenőrizze a hirdetőtáblát a helyi kórusok heti rendszeres fellépéseivel kapcsolatban.",
+            "ro": "Experimentați liniștea acestui sanctuar religios ce oferă vitralii uimitoare și verificați avizierul pentru a afla programul spectacolelor corale locale din timpul săptămânii.",
+            "en": "Experience the quiet tranquility of this beautiful religious sanctuary offering stunning stained glass, and check the notice board for local choir performances during the week."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle de Beaulieu",
+            "hu": "Beaulieu Kápolna",
+            "ro": "Capela de Beaulieu",
+            "en": "Chapelle de Beaulieu"
+          },
+          "coords": [
+            -1.695949,
+            47.218982
+          ],
+          "category": "historical",
+          "arrive_at": "13:04",
+          "stay_min": 110,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die regionale Geschichte dieser kleinen historischen Kapelle ein, die sich in einer ruhigen Gegend befindet, perfekt für einen entspannten Spaziergang mit Kamera.",
+            "hu": "Lépjen vissza a regionális történelembe ebben a csendes környéken megbúvó apró kápolnában, amely tökéletes célpont egy békés délutáni sétához és a fényképezés gyakorlásához.",
+            "ro": "Pășiți în istoria regională la această capelă istorică intimă, ascunsă într-o zonă pașnică, fiind o locație perfectă pentru o plimbare liniștită de după-amiază cu aparatul foto.",
+            "en": "Step back into regional history at this intimately sized historic chapel hidden away in a peaceful area, making it perfect for a quiet afternoon stroll with your camera in hand."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt im historischen Zentrum mit Besuchen der ruhigen Kirche Saint-Symphorien und des nahe gelegenen Semaphors. Mittags erreichen Sie den imposanten Bleiturm, ein Zeugnis der industriellen Vergangenheit. Am Nachmittag erkunden Sie die friedliche Église Notre-Dame. Der Abend klingt an der kleinen Chapelle de Beaulieu entspannt aus.",
+        "hu": "A reggel a történelmi központban indul a Saint-Symphorien templom és a közeli szemafor meglátogatásával, amely szép folyami kilátást nyújt. Délben a lenyűgöző Ólomtoronyhoz érkezik, az ipari múlt igazi tanújához. Délután a békés Église Notre-Dame szentélyét fedezi fel. Az este a Chapelle de Beaulieu-nél fejeződik be kellemes hangulatban.",
+        "ro": "Dimineața dumneavoastră începe în centrul istoric cu vizite la Biserica Saint-Symphorien și semaforul din apropiere. La prânz ajungeți la impunătorul Turn de Plumb, un adevărat testament al trecutului industrial. După-amiaza, veți explora pașnica Biserică Notre-Dame. Seara se încheie liniștit la istorica și fermecătoarea capelă Beaulieu.",
+        "en": "Your morning starts in the historic center with visits to the serene Saint-Symphorien Church and the nearby semaphore, offering lovely river vistas. Midday brings you to the imposing Lead Tower, a true testament to the industrial past. In the afternoon, you will explore the peaceful Église Notre-Dame. The evening concludes gently at the Chapelle de Beaulieu."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:46",
+      "total_km": 9.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Audubon-Sümpfe",
+            "hu": "Audubon Mocsarak",
+            "ro": "Mlaștinile Audubon",
+            "en": "Audubon Marshes"
+          },
+          "coords": [
+            -1.795996,
+            47.239385
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die weitläufigen Feuchtgebiete ein, die berühmte Naturforscher inspirierten, aber vergessen Sie nicht, in den Sommermonaten ein gutes Mückenschutzmittel einzupacken.",
+            "hu": "Merüljön el a híres természettudósokat is megihlető, hihetetlen biodiverzitású kiterjedt vizes élőhelyeken, de a nyári hónapokban semmiképp se felejtsen el szúnyogriasztót hozni.",
+            "ro": "Pierdeți-vă în zonele umede vaste care au inspirat naturaliști faimoși prin biodiversitatea lor, dar nu uitați să împachetați un repelent împotriva țânțarilor în lunile de vară.",
+            "en": "Immerse yourself in the expansive wetlands that inspired famous naturalists, offering incredible biodiversity, but don't forget to pack mosquito repellent during the summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Bougon",
+            "hu": "Bougon Kastély",
+            "ro": "Castelul Bougon",
+            "en": "Château de Bougon"
+          },
+          "coords": [
+            -1.737371,
+            47.224561
+          ],
+          "category": "castle",
+          "arrive_at": "10:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die klassische architektonische Eleganz dieses malerischen Schlosses im Grünen und kommen Sie kurz vor Mittag, um die Menschenmassen bei der Erkundung zu meiden.",
+            "hu": "Csodálja meg a buja zöldnövényzettel körülvett festői helyi kastély klasszikus építészeti eleganciáját, és érkezzen dél előtt, hogy elkerülje a tömeget a birtok felfedezésekor.",
+            "ro": "Admirați eleganța arhitecturală a acestui castel pitoresc înconjurat de verdeață luxuriantă și sosiți chiar înainte de prânz pentru a evita aglomerația când explorați domeniul.",
+            "en": "Marvel at the classic architectural elegance of this picturesque local castle surrounded by lush greenery, and arrive just before noon to avoid crowds while exploring the grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Symphorien",
+            "hu": "Saint-Symphorien Templom",
+            "ro": "Biserica Saint-Symphorien",
+            "en": "Saint-Symphorien Church"
+          },
+          "coords": [
+            -1.728919,
+            47.210147
+          ],
+          "category": "religious",
+          "arrive_at": "12:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Architektur der Kirche Saint-Symphorien, ein Symbol des lokalen Erbes, aber denken Sie an angemessene Kleidung und frühes Kommen für das beste Licht.",
+            "hu": "Csodálja meg a helyi örökséget szimbolizáló Saint-Symphorien templom történelmi építészetét, de öltözzön szerényen és érkezzen korán a reggeli csodás fények megtekintéséhez.",
+            "ro": "Admirați arhitectura istorică a Bisericii Saint-Symphorien, un simbol al patrimoniului local, dar îmbrăcați-vă decent și sosiți devreme dimineața pentru a prinde lumina superbă.",
+            "en": "Admire the striking historical architecture of Saint-Symphorien Church, a symbol of local heritage, but remember to dress modestly and step inside early to catch the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Sémaphore de l’Île de la Liberté",
+            "hu": "Sémaphore de l’Île de la Liberté",
+            "ro": "Semaforul Insulei Libertății",
+            "en": "Sémaphore de l’Île de la Liberté"
+          },
+          "coords": [
+            -1.73057,
+            47.208645
+          ],
+          "category": "natural",
+          "arrive_at": "13:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den herrlichen Panoramablick auf den Fluss von diesem Aussichtspunkt mit maritimer Geschichte, also bringen Sie ein Fernglas mit, um lokale Vogelarten zu beobachten.",
+            "hu": "Élvezze a csodálatos folyami panorámát erről a tengerészeti múlttal rendelkező természetes kilátópontról, ezért mindenképpen hozzon távcsövet a helyi madárfajok megfigyeléséhez.",
+            "ro": "Bucurați-vă de vederea panoramică a râului de la acest punct de observare plin de istorie maritimă, așa că aduceți un binoclu pentru a putea admira speciile locale de păsări.",
+            "en": "Take in the magnificent panoramic river views from this natural lookout point, which holds fascinating maritime history, so bring your binoculars for spotting local bird species."
+          }
+        },
+        {
+          "name": {
+            "de": "Bleiturm (Tour à Plomb)",
+            "hu": "Ólomtorony",
+            "ro": "Turnul de Plumb",
+            "en": "Lead Tower (Tour à Plomb)"
+          },
+          "coords": [
+            -1.720122,
+            47.209282
+          ],
+          "category": "historical",
+          "arrive_at": "13:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie das industrielle Erbe der alten Schrotfabrik, ein ikonisches Wahrzeichen von Couëron, und tragen Sie feste Wanderschuhe, um den Platz bequem erkunden zu können.",
+            "hu": "Fedezze fel a régi sörétgyár lenyűgöző ipari örökségét, amely a város ikonikus nevezetessége, és viseljen kényelmes cipőt, hogy bejárhassa a környező történelmi tereket.",
+            "ro": "Descoperiți moștenirea industrială a vechii fabrici de alice, un punct de reper iconic din oraș, și purtați pantofi confortabili pentru a naviga ușor prin piațeta din jur.",
+            "en": "Discover the towering industrial legacy of the old lead shot factory, an iconic landmark of Couëron, and wear sturdy walking shoes to comfortably navigate the surrounding plaza."
+          }
+        },
+        {
+          "name": {
+            "de": "Beaulieu-See",
+            "hu": "Beaulieu-tó",
+            "ro": "Lacul Beaulieu",
+            "en": "Beaulieu Lake"
+          },
+          "coords": [
+            -1.69828,
+            47.22331
+          ],
+          "category": "recreational",
+          "arrive_at": "15:01",
+          "stay_min": 105,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den ruhigen Gewässern dieses herrlichen Freizeitsees, der sich perfekt für Familienpicknicks eignet, also bringen Sie eine Decke und lokale Snacks mit.",
+            "hu": "Pihenjen meg a nyugodt vizű szabadidős tónál, amely tökéletes családi piknikekhez és szabadtéri programokhoz, ezért hozzon egy hangulatos takarót és némi helyi finomságot is.",
+            "ro": "Relaxați-vă pe malurile liniștite ale acestui lac de agrement perfect pentru picnicuri de familie și aduceți o pătură confortabilă alături de câteva gustări locale delicioase.",
+            "en": "Relax by the calm waters of this lovely recreational lake perfect for family picnics and outdoor activities, so bring a cozy blanket and some local snacks from the town bakery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag in der frischen Luft der Audubon-Sümpfe, bevor Sie zum eleganten Château de Bougon radeln. Den Mittag verbringen Sie an der Kirche Saint-Symphorien und dem Aussichtspunkt. Nachmittags führt die Tour zum Wahrzeichen, dem Bleiturm. Lassen Sie den Tag an den Ufern des Beaulieu-Sees entspannt ausklingen.",
+        "hu": "Indítsa a biciklis napot a friss levegőn, a gyönyörű Audubon mocsaraknál, mielőtt az elegáns Château de Bougon felé pedálozna. A dél a Saint-Symphorien templom és a Szemafor kilátóinak élvezetével telik. A délutáni tekerés az ikonikus Ólomtoronyhoz vezet. A napot a Beaulieu-tó békés partján pihenve zárhatja naplemente közben.",
+        "ro": "Începeți ziua de ciclism respirând aer curat în frumoasele mlaștini Audubon, înainte de a pedala spre elegantul Château de Bougon. Prânzul este petrecut la Biserica Saint-Symphorien și la Semafor. Plimbarea de după-amiază duce la Turnul de Plumb. Încheiați ziua relaxându-vă pe malurile pașnice ale lacului Beaulieu la apus.",
+        "en": "Kick off your cycling day breathing fresh air at the beautiful Audubon Marshes before pedaling towards the elegant Château de Bougon. Midday is spent reflecting at Saint-Symphorien Church and enjoying views from the Semaphore. Afternoon riding leads to the iconic Lead Tower. Wrap up your day relaxing by the peaceful shores of Beaulieu Lake at sunset."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:12",
+      "total_km": 9.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Audubon-Sümpfe",
+            "hu": "Audubon Mocsarak",
+            "ro": "Mlaștinile Audubon",
+            "en": "Audubon Marshes"
+          },
+          "coords": [
+            -1.795996,
+            47.239385
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die weitläufigen Feuchtgebiete ein, die berühmte Naturforscher inspirierten, aber vergessen Sie nicht, in den Sommermonaten ein gutes Mückenschutzmittel einzupacken.",
+            "hu": "Merüljön el a híres természettudósokat is megihlető, hihetetlen biodiverzitású kiterjedt vizes élőhelyeken, de a nyári hónapokban semmiképp se felejtsen el szúnyogriasztót hozni.",
+            "ro": "Pierdeți-vă în zonele umede vaste care au inspirat naturaliști faimoși prin biodiversitatea lor, dar nu uitați să împachetați un repelent împotriva țânțarilor în lunile de vară.",
+            "en": "Immerse yourself in the expansive wetlands that inspired famous naturalists, offering incredible biodiversity, but don't forget to pack mosquito repellent during the summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Bougon",
+            "hu": "Bougon Kastély",
+            "ro": "Castelul Bougon",
+            "en": "Château de Bougon"
+          },
+          "coords": [
+            -1.737371,
+            47.224561
+          ],
+          "category": "castle",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die klassische architektonische Eleganz dieses malerischen Schlosses im Grünen und kommen Sie kurz vor Mittag, um die Menschenmassen bei der Erkundung zu meiden.",
+            "hu": "Csodálja meg a buja zöldnövényzettel körülvett festői helyi kastély klasszikus építészeti eleganciáját, és érkezzen dél előtt, hogy elkerülje a tömeget a birtok felfedezésekor.",
+            "ro": "Admirați eleganța arhitecturală a acestui castel pitoresc înconjurat de verdeață luxuriantă și sosiți chiar înainte de prânz pentru a evita aglomerația când explorați domeniul.",
+            "en": "Marvel at the classic architectural elegance of this picturesque local castle surrounded by lush greenery, and arrive just before noon to avoid crowds while exploring the grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Symphorien",
+            "hu": "Saint-Symphorien Templom",
+            "ro": "Biserica Saint-Symphorien",
+            "en": "Saint-Symphorien Church"
+          },
+          "coords": [
+            -1.728919,
+            47.210147
+          ],
+          "category": "religious",
+          "arrive_at": "11:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Architektur der Kirche Saint-Symphorien, ein Symbol des lokalen Erbes, aber denken Sie an angemessene Kleidung und frühes Kommen für das beste Licht.",
+            "hu": "Csodálja meg a helyi örökséget szimbolizáló Saint-Symphorien templom történelmi építészetét, de öltözzön szerényen és érkezzen korán a reggeli csodás fények megtekintéséhez.",
+            "ro": "Admirați arhitectura istorică a Bisericii Saint-Symphorien, un simbol al patrimoniului local, dar îmbrăcați-vă decent și sosiți devreme dimineața pentru a prinde lumina superbă.",
+            "en": "Admire the striking historical architecture of Saint-Symphorien Church, a symbol of local heritage, but remember to dress modestly and step inside early to catch the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Bleiturm (Tour à Plomb)",
+            "hu": "Ólomtorony",
+            "ro": "Turnul de Plumb",
+            "en": "Lead Tower (Tour à Plomb)"
+          },
+          "coords": [
+            -1.720122,
+            47.209282
+          ],
+          "category": "historical",
+          "arrive_at": "12:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie das industrielle Erbe der alten Schrotfabrik, ein ikonisches Wahrzeichen von Couëron, und tragen Sie feste Wanderschuhe, um den Platz bequem erkunden zu können.",
+            "hu": "Fedezze fel a régi sörétgyár lenyűgöző ipari örökségét, amely a város ikonikus nevezetessége, és viseljen kényelmes cipőt, hogy bejárhassa a környező történelmi tereket.",
+            "ro": "Descoperiți moștenirea industrială a vechii fabrici de alice, un punct de reper iconic din oraș, și purtați pantofi confortabili pentru a naviga ușor prin piațeta din jur.",
+            "en": "Discover the towering industrial legacy of the old lead shot factory, an iconic landmark of Couëron, and wear sturdy walking shoes to comfortably navigate the surrounding plaza."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Beaulieu",
+            "hu": "Beaulieu Kastély",
+            "ro": "Castelul Beaulieu",
+            "en": "Château de Beaulieu"
+          },
+          "coords": [
+            -1.696748,
+            47.220932
+          ],
+          "category": "historical",
+          "arrive_at": "14:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die Anlagen dieses historischen Schlosses aus vergangenen Jahrhunderten und sprechen Sie mit lokalen Führern, um Details über die ehemaligen Besitzer zu erfahren.",
+            "hu": "Sétáljon végig az elmúlt évszázadok pompáját bemutató történelmi kastély területén, és beszélgessen a helyi idegenvezetőkkel, hogy izgalmas részleteket tudjon meg a tulajdonosokról.",
+            "ro": "Plimbați-vă prin curtea acestui castel istoric care evidențiază grandoarea secolelor trecute și discutați cu ghizii locali pentru a afla detalii fascinante despre foștii săi stăpâni.",
+            "en": "Wander through the grounds of this historic château which highlights the grandeur of past centuries, and chat with local guides to learn fascinating details about its former owners."
+          }
+        },
+        {
+          "name": {
+            "de": "Beaulieu-See",
+            "hu": "Beaulieu-tó",
+            "ro": "Lacul Beaulieu",
+            "en": "Beaulieu Lake"
+          },
+          "coords": [
+            -1.69828,
+            47.22331
+          ],
+          "category": "recreational",
+          "arrive_at": "15:27",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den ruhigen Gewässern dieses herrlichen Freizeitsees, der sich perfekt für Familienpicknicks eignet, also bringen Sie eine Decke und lokale Snacks mit.",
+            "hu": "Pihenjen meg a nyugodt vizű szabadidős tónál, amely tökéletes családi piknikekhez és szabadtéri programokhoz, ezért hozzon egy hangulatos takarót és némi helyi finomságot is.",
+            "ro": "Relaxați-vă pe malurile liniștite ale acestui lac de agrement perfect pentru picnicuri de familie și aduceți o pătură confortabilă alături de câteva gustări locale delicioase.",
+            "en": "Relax by the calm waters of this lovely recreational lake perfect for family picnics and outdoor activities, so bring a cozy blanket and some local snacks from the town bakery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Roadtrip früh an den Audubon-Sümpfen, bevor Sie das wunderschöne Château de Bougon bewundern. Gegen Mittag erreichen Sie das historische Zentrum mit der örtlichen Kirche und dem berühmten Bleiturm. Am Nachmittag steht das beeindruckende Château de Beaulieu im Mittelpunkt. Der Tag endet mit einem Abendspaziergang am Beaulieu-See.",
+        "hu": "Kezdje autós utazását a kiterjedt Audubon mocsaraknál, majd tegyen egy rövid utat a gyönyörű Château de Bougon megcsodálására. Délre a központi történelmi negyedbe érkezik, ahol megáll a templomnál és az Ólomtoronynál. A délután a grandiózus Château de Beaulieu felfedezéséről szól. A nap egy naplementés sétával ér véget a Beaulieu-tónál.",
+        "ro": "Începeți excursia cu mașina devreme la vastele mlaștini Audubon, înainte de a conduce pentru a admira frumosul castel Bougon. Până la prânz, veți ajunge în centrul istoric, oprind la biserică și la celebrul Turn de Plumb. După-amiaza se concentrează pe grandiosul Château de Beaulieu. Ziua se încheie cu o plimbare la Lacul Beaulieu.",
+        "en": "Start your road trip early at the expansive Audubon Marshes before taking a quick drive to admire the beautiful Château de Bougon. By midday, you will reach the central historic district, stopping at the local church and the famous Lead Tower. Your afternoon focuses on the grand Château de Beaulieu. The day ends with a sunset walk at Beaulieu Lake."
+      }
+    }
+  }
+}

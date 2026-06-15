@@ -1,0 +1,520 @@
+{
+  "city_id": "aureilhan",
+  "anchor": {
+    "name": "Aureilhan",
+    "coords": [
+      0.0967,
+      43.2439
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:28",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Gérin Kirche",
+            "hu": "Saint-Gérin templom",
+            "ro": "Biserica Saint-Gérin",
+            "en": "Saint-Gérin Church"
+          },
+          "coords": [
+            0.097557,
+            43.242803
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Eleganz dieser historischen Kirche und nehmen Sie sich Zeit für eine ruhige Pause im kühlen Innenraum während der frühen Morgenstunden.",
+            "hu": "Csodálja meg ennek a történelmi templomnak az egyszerű eleganciáját, és szánjon időt egy csendes pihenőre a hűvös belső térben a kora reggeli órákban.",
+            "ro": "Admirați eleganța simplă a acestei biserici istorice și luați-vă timp pentru o pauză liniștită în interiorul răcoros în timpul orelor timpurii ale dimineții.",
+            "en": "Admire the simple elegance of this historic church and take some time for a quiet break in the cool interior during the early morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Massey",
+            "hu": "Musée Massey",
+            "ro": "Musée Massey",
+            "en": "Musée Massey"
+          },
+          "coords": [
+            0.075252,
+            43.23907
+          ],
+          "category": "museum",
+          "arrive_at": "10:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.84,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem prachtvollen Museum die faszinierende Geschichte der Husaren und spazieren Sie anschließend durch den wunderschönen, angrenzenden botanischen Garten.",
+            "hu": "Fedezze fel a huszárok lenyűgöző történetét ebben a csodálatos múzeumban, majd sétáljon egyet a gyönyörű, szomszédos botanikus kertben.",
+            "ro": "Descoperiți istoria fascinantă a husarilor în acest muzeu magnific și apoi faceți o plimbare prin frumoasa grădină botanică adiacentă.",
+            "en": "Discover the fascinating history of the hussars in this magnificent museum and then take a stroll through the beautiful, adjacent botanical garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Spielplatz (Aire des Jeux)",
+            "hu": "Játszótér (Aire des Jeux)",
+            "ro": "Teren de joacă (Aire des Jeux)",
+            "en": "Aire des Jeux"
+          },
+          "coords": [
+            0.076621,
+            43.238449
+          ],
+          "category": "family",
+          "arrive_at": "12:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihre Kinder auf diesem modernen und sicheren Spielplatz toben, während Sie sich auf den nahegelegenen Bänken entspannen und ein kleines Picknick genießen.",
+            "hu": "Hagyja, hogy gyermekei ezen a modern és biztonságos játszótéren tomboljanak, miközben ön a közeli padokon pihen, és élvezi a kis pikniket.",
+            "ro": "Lăsați copiii să se joace pe acest teren modern și sigur, în timp ce vă relaxați pe băncile din apropiere și vă bucurați de un mic picnic.",
+            "en": "Let your children run wild on this modern and safe playground while you relax on the nearby benches and enjoy a small picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Geburtshaus von Marschall Foch",
+            "hu": "Foch marsall szülőháza",
+            "ro": "Casa natală a mareșalului Foch",
+            "en": "Maison Natale du Maréchal Foch"
+          },
+          "coords": [
+            0.071248,
+            43.234248
+          ],
+          "category": "museum",
+          "arrive_at": "13:24",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.63,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Geburtshaus des berühmten Marschalls Foch und achten Sie auf die vielen persönlichen Gegenstände, die seine unglaubliche militärische Karriere veranschaulichen.",
+            "hu": "Látogassa meg a híres Foch marsall szülőházát, és figyeljen a sok személyes tárgyra, amelyek bemutatják hihetetlen katonai karrierjét.",
+            "ro": "Vizitați locul de naștere al celebrului mareșal Foch și acordați atenție numeroaselor obiecte personale care ilustrează incredibila sa carieră militară.",
+            "en": "Visit the birthplace of the famous Marshal Foch and pay attention to the many personal items that illustrate his incredible military career."
+          }
+        },
+        {
+          "name": {
+            "de": "Théâtre des Nouveautés",
+            "hu": "Théâtre des Nouveautés",
+            "ro": "Théâtre des Nouveautés",
+            "en": "Théâtre des Nouveautés"
+          },
+          "coords": [
+            0.075626,
+            43.230176
+          ],
+          "category": "cultural",
+          "arrive_at": "15:13",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.57,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die wunderschöne Fassade dieses kulturellen Juwels und informieren Sie sich am Ticketschalter über die aktuellen Abendvorstellungen für einen perfekten Tagesabschluss.",
+            "hu": "Csodálja meg ennek a kulturális gyöngyszemnek a gyönyörű homlokzatát, és érdeklődjön a jegypénztárnál az aktuális esti előadásokról a tökéletes napzárás érdekében.",
+            "ro": "Admirați fațada frumoasă a acestei bijuterii culturale și întrebați la casa de bilete despre spectacolele de seară actuale pentru a încheia ziua perfect.",
+            "en": "Marvel at the beautiful facade of this cultural gem and ask at the ticket office about current evening performances for a perfect end to the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Reiterstandbild des Marschall Foch",
+            "hu": "Foch marsall lovas szobra",
+            "ro": "Statuia ecvestră a mareșalului Foch",
+            "en": "Statue équestre du Maréchal Foch"
+          },
+          "coords": [
+            0.072962,
+            43.228689
+          ],
+          "category": "historical",
+          "arrive_at": "15:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Machen Sie beeindruckende Fotos von diesem imposanten Reiterstandbild im goldenen Nachmittagslicht und lernen Sie mehr über die lokale Geschichte anhand der Informationstafeln.",
+            "hu": "Készítsen lenyűgöző fényképeket erről az impozáns lovas szoborról az arany délutáni fényben, és tudjon meg többet a helyi történelemről az információs táblákból.",
+            "ro": "Faceți fotografii impresionante cu această statuie ecvestră impunătoare în lumina aurie a după-amiezii și aflați mai multe despre istoria locală de pe panourile informative.",
+            "en": "Take impressive photos of this imposing equestrian statue in the golden afternoon light and learn more about local history from the information boards."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainte-Anne Kirche",
+            "hu": "Sainte-Anne templom",
+            "ro": "Biserica Sainte-Anne",
+            "en": "Église Sainte-Anne"
+          },
+          "coords": [
+            0.06443,
+            43.235811
+          ],
+          "category": "religious",
+          "arrive_at": "17:18",
+          "stay_min": 70,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.04,
+          "tip_5lang": {
+            "de": "Erleben Sie die spirituelle Atmosphäre dieser charmanten Kirche und betrachten Sie die detaillierten Glasfenster, die besonders bei Sonnenschein in leuchtenden Farben erstrahlen.",
+            "hu": "Tapasztalja meg ennek a bájos templomnak a spirituális hangulatát, és nézze meg a részletgazdag ólomüveg ablakokat, amelyek ragyogó színekben pompáznak a napsütésben.",
+            "ro": "Experimentați atmosfera spirituală a acestei biserici fermecătoare și priviți vitraliile detaliate, care strălucesc în culori vibrante la lumina soarelui.",
+            "en": "Experience the spiritual atmosphere of this charming church and look at the detailed stained glass windows, which shine in vibrant colors in the sunlight."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen unseren Rundgang an der historischen Saint-Gérin Kirche, bevor wir das prächtige Musée Massey mit seinen Gärten erreichen. Am Mittag entspannen wir kurz am Spielplatz und tauchen in der Maison Natale in das Leben von Marschall Foch ein. Nachmittags bewundern wir das Théâtre des Nouveautés und das imposante Foch-Denkmal. Der Tag endet friedlich in der Église Sainte-Anne.",
+        "hu": "Sétánkat a történelmi Saint-Gérin templomnál kezdjük, majd a csodálatos Musée Massey-hez érkezünk. Délben röviden megpihenünk a játszótéren, és elmerülünk Foch marsall életében a szülőházában. Délután megcsodáljuk a színházat és az impozáns Foch-emlékművet. A nap békésen zárul a Sainte-Anne templomban.",
+        "ro": "Începem plimbarea noastră la biserica istorică Saint-Gérin înainte de a ajunge la magnificul Musée Massey. La prânz ne relaxăm la terenul de joacă și ne scufundăm în viața mareșalului Foch la casa sa natală. După-amiaza admirăm teatrul și impunătorul monument Foch. Ziua se încheie liniștit la biserica Sainte-Anne.",
+        "en": "We start our tour at the historic Saint-Gérin Church before reaching the magnificent Musée Massey and its gardens. At noon, we relax briefly at the playground and dive into the life of Marshal Foch at his birthplace. In the afternoon, we admire the theater and the imposing Foch monument. The day ends peacefully at the Sainte-Anne Church."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:01",
+      "total_km": 7.58,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Gérin Kirche",
+            "hu": "Saint-Gérin templom",
+            "ro": "Biserica Saint-Gérin",
+            "en": "Saint-Gérin Church"
+          },
+          "coords": [
+            0.097557,
+            43.242803
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Eleganz dieser historischen Kirche und nehmen Sie sich Zeit für eine ruhige Pause im kühlen Innenraum während der frühen Morgenstunden.",
+            "hu": "Csodálja meg ennek a történelmi templomnak az egyszerű eleganciáját, és szánjon időt egy csendes pihenőre a hűvös belső térben a kora reggeli órákban.",
+            "ro": "Admirați eleganța simplă a acestei biserici istorice și luați-vă timp pentru o pauză liniștită în interiorul răcoros în timpul orelor timpurii ale dimineții.",
+            "en": "Admire the simple elegance of this historic church and take some time for a quiet break in the cool interior during the early morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Massey",
+            "hu": "Musée Massey",
+            "ro": "Musée Massey",
+            "en": "Musée Massey"
+          },
+          "coords": [
+            0.075252,
+            43.23907
+          ],
+          "category": "museum",
+          "arrive_at": "10:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.84,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem prachtvollen Museum die faszinierende Geschichte der Husaren und spazieren Sie anschließend durch den wunderschönen, angrenzenden botanischen Garten.",
+            "hu": "Fedezze fel a huszárok lenyűgöző történetét ebben a csodálatos múzeumban, majd sétáljon egyet a gyönyörű, szomszédos botanikus kertben.",
+            "ro": "Descoperiți istoria fascinantă a husarilor în acest muzeu magnific și apoi faceți o plimbare prin frumoasa grădină botanică adiacentă.",
+            "en": "Discover the fascinating history of the hussars in this magnificent museum and then take a stroll through the beautiful, adjacent botanical garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Geburtshaus von Marschall Foch",
+            "hu": "Foch marsall szülőháza",
+            "ro": "Casa natală a mareșalului Foch",
+            "en": "Maison Natale du Maréchal Foch"
+          },
+          "coords": [
+            0.071248,
+            43.234248
+          ],
+          "category": "museum",
+          "arrive_at": "11:44",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Geburtshaus des berühmten Marschalls Foch und achten Sie auf die vielen persönlichen Gegenstände, die seine unglaubliche militärische Karriere veranschaulichen.",
+            "hu": "Látogassa meg a híres Foch marsall szülőházát, és figyeljen a sok személyes tárgyra, amelyek bemutatják hihetetlen katonai karrierjét.",
+            "ro": "Vizitați locul de naștere al celebrului mareșal Foch și acordați atenție numeroaselor obiecte personale care ilustrează incredibila sa carieră militară.",
+            "en": "Visit the birthplace of the famous Marshal Foch and pay attention to the many personal items that illustrate his incredible military career."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainte-Anne Kirche",
+            "hu": "Sainte-Anne templom",
+            "ro": "Biserica Sainte-Anne",
+            "en": "Église Sainte-Anne"
+          },
+          "coords": [
+            0.06443,
+            43.235811
+          ],
+          "category": "religious",
+          "arrive_at": "13:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.04,
+          "tip_5lang": {
+            "de": "Erleben Sie die spirituelle Atmosphäre dieser charmanten Kirche und betrachten Sie die detaillierten Glasfenster, die besonders bei Sonnenschein in leuchtenden Farben erstrahlen.",
+            "hu": "Tapasztalja meg ennek a bájos templomnak a spirituális hangulatát, és nézze meg a részletgazdag ólomüveg ablakokat, amelyek ragyogó színekben pompáznak a napsütésben.",
+            "ro": "Experimentați atmosfera spirituală a acestei biserici fermecătoare și priviți vitraliile detaliate, care strălucesc în culori vibrante la lumina soarelui.",
+            "en": "Experience the spiritual atmosphere of this charming church and look at the detailed stained glass windows, which shine in vibrant colors in the sunlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de l'Echez",
+            "hu": "Echez park",
+            "ro": "Parcul Echez",
+            "en": "Parc de l'Echez"
+          },
+          "coords": [
+            0.04625,
+            43.228484
+          ],
+          "category": "natural",
+          "arrive_at": "14:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.64,
+          "tip_5lang": {
+            "de": "Genießen Sie einen erholsamen Spaziergang entlang des Flusses in diesem weitläufigen Park und bringen Sie bequeme Schuhe mit, um die malerischen Naturpfade vollständig zu erkunden.",
+            "hu": "Élvezze a pihentető sétát a folyó mentén ebben a tágas parkban, és hozzon kényelmes cipőt, hogy teljes mértékben felfedezze a festői természeti ösvényeket.",
+            "ro": "Bucurați-vă de o plimbare relaxantă de-a lungul râului în acest parc spațios și aduceți încălțăminte confortabilă pentru a explora pe deplin traseele naturale pitorești.",
+            "en": "Enjoy a relaxing walk along the river in this spacious park and bring comfortable shoes to fully explore the picturesque nature trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Reiterstandbild des Marschall Foch",
+            "hu": "Foch marsall lovas szobra",
+            "ro": "Statuia ecvestră a mareșalului Foch",
+            "en": "Statue équestre du Maréchal Foch"
+          },
+          "coords": [
+            0.072962,
+            43.228689
+          ],
+          "category": "historical",
+          "arrive_at": "15:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Machen Sie beeindruckende Fotos von diesem imposanten Reiterstandbild im goldenen Nachmittagslicht und lernen Sie mehr über die lokale Geschichte anhand der Informationstafeln.",
+            "hu": "Készítsen lenyűgöző fényképeket erről az impozáns lovas szoborról az arany délutáni fényben, és tudjon meg többet a helyi történelemről az információs táblákból.",
+            "ro": "Faceți fotografii impresionante cu această statuie ecvestră impunătoare în lumina aurie a după-amiezii și aflați mai multe despre istoria locală de pe panourile informative.",
+            "en": "Take impressive photos of this imposing equestrian statue in the golden afternoon light and learn more about local history from the information boards."
+          }
+        },
+        {
+          "name": {
+            "de": "Théâtre des Nouveautés",
+            "hu": "Théâtre des Nouveautés",
+            "ro": "Théâtre des Nouveautés",
+            "en": "Théâtre des Nouveautés"
+          },
+          "coords": [
+            0.075626,
+            43.230176
+          ],
+          "category": "cultural",
+          "arrive_at": "17:06",
+          "stay_min": 55,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die wunderschöne Fassade dieses kulturellen Juwels und informieren Sie sich am Ticketschalter über die aktuellen Abendvorstellungen für einen perfekten Tagesabschluss.",
+            "hu": "Csodálja meg ennek a kulturális gyöngyszemnek a gyönyörű homlokzatát, és érdeklődjön a jegypénztárnál az aktuális esti előadásokról a tökéletes napzárás érdekében.",
+            "ro": "Admirați fațada frumoasă a acestei bijuterii culturale și întrebați la casa de bilete despre spectacolele de seară actuale pentru a încheia ziua perfect.",
+            "en": "Marvel at the beautiful facade of this cultural gem and ask at the ticket office about current evening performances for a perfect end to the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unsere Radtour startet gemütlich in Aureilhan und führt uns schnell zum kulturellen Herzen, dem Musée Massey. Nach einer historischen Entdeckungsreise bei der Maison Natale fahren wir zur Sainte-Anne Kirche. Der Nachmittag gehört der Natur im Parc de l'Echez, bevor wir den Tag am Foch-Reiterstandbild und dem charmanten Theater schwungvoll ausklingen lassen.",
+        "hu": "Kerékpártúránk kényelmesen indul Aureilhanban, és gyorsan a kulturális központba, a Musée Massey-hez vezet. A szülőház történelmi felfedezése után a Sainte-Anne templomhoz tekerünk. A délután a természeté az Echez parkban, mielőtt a napot a Foch lovas szobornál és a bájos színháznál lendületesen lezárnánk.",
+        "ro": "Turul nostru cu bicicleta începe confortabil în Aureilhan și ne duce rapid la inima culturală, Musée Massey. După o descoperire istorică la casa natală, pedalăm spre biserica Sainte-Anne. După-amiaza aparține naturii în Parcul Echez, înainte de a încheia ziua cu statuia ecvestră Foch și teatrul fermecător.",
+        "en": "Our bike tour starts comfortably in Aureilhan and quickly leads us to the cultural heart, the Musée Massey. After a historic discovery at the birthplace, we ride to Sainte-Anne Church. The afternoon belongs to nature in the Echez Park, before we end the day energetically at the Foch equestrian statue and the charming theater."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:21",
+      "total_km": 6.82,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parc de l'Echez",
+            "hu": "Echez park",
+            "ro": "Parcul Echez",
+            "en": "Parc de l'Echez"
+          },
+          "coords": [
+            0.04625,
+            43.228484
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen erholsamen Spaziergang entlang des Flusses in diesem weitläufigen Park und bringen Sie bequeme Schuhe mit, um die malerischen Naturpfade vollständig zu erkunden.",
+            "hu": "Élvezze a pihentető sétát a folyó mentén ebben a tágas parkban, és hozzon kényelmes cipőt, hogy teljes mértékben felfedezze a festői természeti ösvényeket.",
+            "ro": "Bucurați-vă de o plimbare relaxantă de-a lungul râului în acest parc spațios și aduceți încălțăminte confortabilă pentru a explora pe deplin traseele naturale pitorești.",
+            "en": "Enjoy a relaxing walk along the river in this spacious park and bring comfortable shoes to fully explore the picturesque nature trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainte-Anne Kirche",
+            "hu": "Sainte-Anne templom",
+            "ro": "Biserica Sainte-Anne",
+            "en": "Église Sainte-Anne"
+          },
+          "coords": [
+            0.06443,
+            43.235811
+          ],
+          "category": "religious",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.64,
+          "tip_5lang": {
+            "de": "Erleben Sie die spirituelle Atmosphäre dieser charmanten Kirche und betrachten Sie die detaillierten Glasfenster, die besonders bei Sonnenschein in leuchtenden Farben erstrahlen.",
+            "hu": "Tapasztalja meg ennek a bájos templomnak a spirituális hangulatát, és nézze meg a részletgazdag ólomüveg ablakokat, amelyek ragyogó színekben pompáznak a napsütésben.",
+            "ro": "Experimentați atmosfera spirituală a acestei biserici fermecătoare și priviți vitraliile detaliate, care strălucesc în culori vibrante la lumina soarelui.",
+            "en": "Experience the spiritual atmosphere of this charming church and look at the detailed stained glass windows, which shine in vibrant colors in the sunlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Geburtshaus von Marschall Foch",
+            "hu": "Foch marsall szülőháza",
+            "ro": "Casa natală a mareșalului Foch",
+            "en": "Maison Natale du Maréchal Foch"
+          },
+          "coords": [
+            0.071248,
+            43.234248
+          ],
+          "category": "museum",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.04,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Geburtshaus des berühmten Marschalls Foch und achten Sie auf die vielen persönlichen Gegenstände, die seine unglaubliche militärische Karriere veranschaulichen.",
+            "hu": "Látogassa meg a híres Foch marsall szülőházát, és figyeljen a sok személyes tárgyra, amelyek bemutatják hihetetlen katonai karrierjét.",
+            "ro": "Vizitați locul de naștere al celebrului mareșal Foch și acordați atenție numeroaselor obiecte personale care ilustrează incredibila sa carieră militară.",
+            "en": "Visit the birthplace of the famous Marshal Foch and pay attention to the many personal items that illustrate his incredible military career."
+          }
+        },
+        {
+          "name": {
+            "de": "Reiterstandbild des Marschall Foch",
+            "hu": "Foch marsall lovas szobra",
+            "ro": "Statuia ecvestră a mareșalului Foch",
+            "en": "Statue équestre du Maréchal Foch"
+          },
+          "coords": [
+            0.072962,
+            43.228689
+          ],
+          "category": "historical",
+          "arrive_at": "12:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Machen Sie beeindruckende Fotos von diesem imposanten Reiterstandbild im goldenen Nachmittagslicht und lernen Sie mehr über die lokale Geschichte anhand der Informationstafeln.",
+            "hu": "Készítsen lenyűgöző fényképeket erről az impozáns lovas szoborról az arany délutáni fényben, és tudjon meg többet a helyi történelemről az információs táblákból.",
+            "ro": "Faceți fotografii impresionante cu această statuie ecvestră impunătoare în lumina aurie a după-amiezii și aflați mai multe despre istoria locală de pe panourile informative.",
+            "en": "Take impressive photos of this imposing equestrian statue in the golden afternoon light and learn more about local history from the information boards."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Massey",
+            "hu": "Musée Massey",
+            "ro": "Musée Massey",
+            "en": "Musée Massey"
+          },
+          "coords": [
+            0.075252,
+            43.23907
+          ],
+          "category": "museum",
+          "arrive_at": "14:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem prachtvollen Museum die faszinierende Geschichte der Husaren und spazieren Sie anschließend durch den wunderschönen, angrenzenden botanischen Garten.",
+            "hu": "Fedezze fel a huszárok lenyűgöző történetét ebben a csodálatos múzeumban, majd sétáljon egyet a gyönyörű, szomszédos botanikus kertben.",
+            "ro": "Descoperiți istoria fascinantă a husarilor în acest muzeu magnific și apoi faceți o plimbare prin frumoasa grădină botanică adiacentă.",
+            "en": "Discover the fascinating history of the hussars in this magnificent museum and then take a stroll through the beautiful, adjacent botanical garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Gérin Kirche",
+            "hu": "Saint-Gérin templom",
+            "ro": "Biserica Saint-Gérin",
+            "en": "Saint-Gérin Church"
+          },
+          "coords": [
+            0.097557,
+            43.242803
+          ],
+          "category": "religious",
+          "arrive_at": "16:11",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.84,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Eleganz dieser historischen Kirche und nehmen Sie sich Zeit für eine ruhige Pause im kühlen Innenraum während der heißen Nachmittagsstunden.",
+            "hu": "Csodálja meg ennek a történelmi templomnak az egyszerű eleganciáját, és szánjon időt egy csendes pihenőre a hűvös belső térben a forró délutáni órákban.",
+            "ro": "Admirați eleganța simplă a acestei biserici istorice și luați-vă timp pentru o pauză liniștită în interiorul răcoros în timpul orelor fierbinți ale după-amiezii.",
+            "en": "Admire the simple elegance of this historic church and take some time for a quiet break in the cool interior during the hot afternoon hours."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto beginnen wir am weitläufigen Parc de l'Echez für einen erfrischenden Morgen, gefolgt von der friedlichen Sainte-Anne Kirche. Gegen Mittag widmen wir uns der Geschichte im Geburtshaus von Marschall Foch und betrachten sein großes Reiterstandbild. Der Nachmittag bietet Kultur im Musée Massey, und zum Abschluss kehren wir entspannt nach Aureilhan zurück.",
+        "hu": "Autóval a tágas Echez parkban kezdünk egy frissítő reggelt, majd a békés Sainte-Anne templom következik. Délben Foch marsall szülőházában szenteljük magunkat a történelemnek, és megnézzük nagy lovas szobrát. A délután kultúrát kínál a Musée Massey-ben, majd lazítva térünk vissza Aureilhanba.",
+        "ro": "Cu mașina începem la parcul spațios Echez pentru o dimineață răcoritoare, urmată de biserica liniștită Sainte-Anne. La prânz ne dedicăm istoriei în casa natală a mareșalului Foch și privim statuia sa ecvestră mare. După-amiaza oferă cultură la Musée Massey, iar la final ne întoarcem relaxați în Aureilhan.",
+        "en": "By car, we begin at the spacious Echez Park for a refreshing morning, followed by the peaceful Sainte-Anne Church. At noon, we dedicate ourselves to history at the birthplace of Marshal Foch and view his large equestrian statue. The afternoon offers culture at the Musée Massey, and finally, we return relaxed to Aureilhan."
+      }
+    }
+  }
+}

@@ -1,0 +1,520 @@
+{
+  "city_id": "sweden-vaxholm-cities-v2",
+  "anchor": {
+    "name": "Vaxholm",
+    "coords": [
+      18.35,
+      59.4
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:49",
+      "total_km": 11.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kadettbryggan",
+            "hu": "Kadettbryggan",
+            "ro": "Kadettbryggan",
+            "en": "Kadettbryggan"
+          },
+          "coords": [
+            18.353929,
+            59.431458
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an der Kadettbryggan, einem malerischen Ort mit herrlichem Blick aufs Wasser, und denken Sie an eine Windjacke für die kühle Morgenbrise.",
+            "hu": "Kezdje a napot a Kadettbryggan festői partján, ahonnan csodás kilátás nyílik a vízre, de ne felejtsen el széldzsekit hozni a hűvös reggeli szellő miatt.",
+            "ro": "Începeți ziua la Kadettbryggan, un loc pitoresc cu vedere superbă la apă, și nu uitați o jachetă de vânt, deoarece briza dimineții poate fi destul de rece.",
+            "en": "Start your day at Kadettbryggan, a picturesque spot offering lovely water views, and don't forget to pack a windbreaker as the morning breeze can be brisk."
+          }
+        },
+        {
+          "name": {
+            "de": "Badviken",
+            "hu": "Badviken",
+            "ro": "Badviken",
+            "en": "Badviken"
+          },
+          "coords": [
+            18.309908,
+            59.43385
+          ],
+          "category": "recreational",
+          "arrive_at": "11:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang in der ruhigen Bucht Badviken, ideal zur Entspannung, wo es sich empfiehlt, eigene Snacks für ein kleines Picknick am Meer mitzubringen.",
+            "hu": "Élvezze a békés sétát a Badviken csendes öblében, amely tökéletes a kikapcsolódásra, ezért érdemes saját nassolnivalót hozni egy hangulatos tengerparti piknikhez.",
+            "ro": "Bucurați-vă de o plimbare liniștită la Badviken, un golf tăcut perfect pentru relaxare, unde este recomandat să aduceți propriile gustări pentru un picnic pe mal.",
+            "en": "Enjoy a peaceful stroll around Badviken, a quiet coastal inlet perfect for relaxation, where bringing your own snacks is highly recommended for a seaside picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Eriksöbadet",
+            "hu": "Eriksöbadet",
+            "ro": "Eriksöbadet",
+            "en": "Eriksöbadet"
+          },
+          "coords": [
+            18.304678,
+            59.404204
+          ],
+          "category": "recreational",
+          "arrive_at": "13:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das klare Wasser des Eriksöbadet ein, einem der beliebtesten Badeplätze, und sichern Sie sich frühzeitig einen guten Platz am feinen Sandstrand.",
+            "hu": "Csobbanjon egyet az Eriksöbadet kristálytiszta vizében, a környék egyik legnépszerűbb fürdőhelyén, és érkezzen korán, hogy biztosítsa a legjobb helyet a homokban.",
+            "ro": "Scufundați-vă în apele limpezi de la Eriksöbadet, unul dintre cele mai populare locuri de scăldat, și veniți devreme pentru a prinde un loc bun pe plaja de nisip.",
+            "en": "Dive into the clear waters of Eriksöbadet, one of the most popular bathing spots, and try to arrive early to secure a prime spot on the sandy beach before the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Tenöbadet",
+            "hu": "Tenöbadet",
+            "ro": "Tenöbadet",
+            "en": "Tenöbadet"
+          },
+          "coords": [
+            18.330403,
+            59.392584
+          ],
+          "category": "recreational",
+          "arrive_at": "15:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im familienfreundlichen Tenöbadet mit seinen flachen Gewässern, und holen Sie sich unbedingt ein erfrischendes Eis vom nahegelegenen Kiosk.",
+            "hu": "Pihenjen a családbarát Tenöbadet sekély vizében és tágas pázsitján, és mindenképpen kóstolja meg a közeli pavilonban kapható frissítő helyi fagylaltot.",
+            "ro": "Relaxați-vă la Tenöbadet, cu apele sale puțin adânci, prietenoase pentru familii, și nu ratați chioșcul din apropiere pentru o înghețată locală răcoritoare.",
+            "en": "Relax at Tenöbadet with its family-friendly shallow waters and spacious lawns, and be sure to check out the nearby kiosk for some refreshing local ice cream."
+          }
+        },
+        {
+          "name": {
+            "de": "Badplats",
+            "hu": "Badplats",
+            "ro": "Badplats",
+            "en": "Badplats"
+          },
+          "coords": [
+            18.38393,
+            59.381792
+          ],
+          "category": "recreational",
+          "arrive_at": "17:04",
+          "stay_min": 105,
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Erholen Sie sich an diesem unscheinbaren lokalen Badplats mit herrlichem Blick auf die Schären, und tragen Sie Badeschuhe, da das Ufer hier ziemlich steinig sein kann.",
+            "hu": "Kapcsolódjon ki ezen a szerény helyi fürdőhelyen, ahonnan lenyűgöző kilátás nyílik a szigetvilágra, de viseljen vízi cipőt, mert a partvonal itt meglehetősen sziklás.",
+            "ro": "Destindeți-vă la acest loc de baie nepretențios cu vederi uimitoare la arhipelag și purtați pantofi de apă, deoarece țărmul poate fi destul de stâncos.",
+            "en": "Unwind at this unpretentious local bathing spot offering stunning archipelagic views, and wear sturdy water shoes as the shoreline here can be quite rocky."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Wanderung an der luftigen Kadettbryggan, die den Ton für einen aktiven Tag am Wasser angibt. Der Morgen steht ganz im Zeichen der frischen Ostseeluft, während Sie zur ruhigen Bucht Badviken aufbrechen.\n\nGegen Mittag führt Sie die Route zum beliebten Eriksöbadet, wo das lokale Leben pulsiert. Hier können Sie ein erfrischendes Bad nehmen und ein mitgebrachtes Mittagessen am Sandstrand genießen.\n\nAm Nachmittag führt Sie ein gemütlicher Spaziergang zum Tenöbadet. Das flache Wasser und die grünen Rasenflächen bieten die perfekte Kulisse, um die Beine auszustrecken und sich ein süßes Eis zu gönnen.\n\nWenn der Abend naht, bringt Sie die letzte Etappe zu einem charmanten lokalen Badplats. Dieser ruhige Ort bietet einen atemberaubenden Blick auf die Schären in der Abenddämmerung und rundet den Tag friedlich ab.",
+        "hu": "Kezdje a sétát a szeles Kadettbryggan kikötőjénél, megalapozva az aktív napot a vízparton. A délelőtt a friss balti levegő belélegzéséről szól, miközben a Badviken békés öbléhez sétál egy rövid pihenőre.\n\nDélben az útvonal a népszerű Eriksöbadet strandhoz vezet, amely pezsgő helyi élettel teli. Itt vehet egy frissítő fürdőt, és elfogyaszthatja csomagolt ebédjét a homokos parton.\n\nDélután egy kényelmes séta vezet el a Tenöbadet sekély vizéhez. A nyugodt víz és a zöld pázsit tökéletes környezetet kínál a lábak kinyújtóztatásához, miközben esetleg egy helyi fagylaltot is megkóstol.\n\nAhogy közeledik az este, az utolsó szakasz egy hangulatos helyi fürdőhelyhez (Badplats) visz. Ez a csendes hely lenyűgöző kilátást nyújt a szigetvilágra az alkonyatban, békésen lezárva a napot.",
+        "ro": "Începeți turul pietonal la aerisitul Kadettbryggan, dând tonul unei zile active la malul apei. Dimineața veți respira aerul proaspăt al Mării Baltice în drum spre golful liniștit Badviken pentru o primă odihnă.\n\nÎn jurul prânzului, traseul vă duce la popularul Eriksöbadet, plin de viață locală. Aici puteți face o baie răcoritoare și vă puteți bucura de prânzul la pachet pe malul nisipos.\n\nDupă-amiaza, o plimbare lejeră vă conduce spre Tenöbadet. Apele calme și peluzele verzi oferă un decor perfect pentru a vă întinde picioarele și poate pentru a savura un deliciu dulce.\n\nOdată cu lăsarea serii, ultima etapă vă aduce la un fermecător Badplats local. Acest loc liniștit oferă vederi uimitoare în amurg asupra arhipelagului, încheind ziua cu reflecții pașnice.",
+        "en": "Begin your walking tour at the breezy Kadettbryggan, setting the tone for an active day by the water. The morning is all about inhaling the fresh Baltic air as you make your way to the peaceful inlet of Badviken for a mid-morning rest.\n\nAround midday, the route takes you to the popular Eriksöbadet, bustling with local life. Here, you can take a refreshing dip and enjoy a packed lunch on the sandy shores.\n\nIn the afternoon, a leisurely stroll leads you to Tenöbadet. The calm, shallow waters and green lawns offer a perfect setting to stretch your legs and perhaps indulge in a sweet treat from a local kiosk.\n\nAs evening approaches, your final stretch brings you to a charming local Badplats. This quiet spot provides stunning twilight views over the archipelago, wrapping up your day with peaceful reflections."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:49",
+      "total_km": 15.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kadettbryggan",
+            "hu": "Kadettbryggan",
+            "ro": "Kadettbryggan",
+            "en": "Kadettbryggan"
+          },
+          "coords": [
+            18.353929,
+            59.431458
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an der Kadettbryggan, einem malerischen Ort mit herrlichem Blick aufs Wasser, und denken Sie an eine Windjacke für die kühle Morgenbrise.",
+            "hu": "Kezdje a napot a Kadettbryggan festői partján, ahonnan csodás kilátás nyílik a vízre, de ne felejtsen el széldzsekit hozni a hűvös reggeli szellő miatt.",
+            "ro": "Începeți ziua la Kadettbryggan, un loc pitoresc cu vedere superbă la apă, și nu uitați o jachetă de vânt, deoarece briza dimineții poate fi destul de rece.",
+            "en": "Start your day at Kadettbryggan, a picturesque spot offering lovely water views, and don't forget to pack a windbreaker as the morning breeze can be brisk."
+          }
+        },
+        {
+          "name": {
+            "de": "Badviken",
+            "hu": "Badviken",
+            "ro": "Badviken",
+            "en": "Badviken"
+          },
+          "coords": [
+            18.309908,
+            59.43385
+          ],
+          "category": "recreational",
+          "arrive_at": "10:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang in der ruhigen Bucht Badviken, ideal zur Entspannung, wo es sich empfiehlt, eigene Snacks für ein kleines Picknick am Meer mitzubringen.",
+            "hu": "Élvezze a békés sétát a Badviken csendes öblében, amely tökéletes a kikapcsolódásra, ezért érdemes saját nassolnivalót hozni egy hangulatos tengerparti piknikhez.",
+            "ro": "Bucurați-vă de o plimbare liniștită la Badviken, un golf tăcut perfect pentru relaxare, unde este recomandat să aduceți propriile gustări pentru un picnic pe mal.",
+            "en": "Enjoy a peaceful stroll around Badviken, a quiet coastal inlet perfect for relaxation, where bringing your own snacks is highly recommended for a seaside picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Eriksöbadet",
+            "hu": "Eriksöbadet",
+            "ro": "Eriksöbadet",
+            "en": "Eriksöbadet"
+          },
+          "coords": [
+            18.304678,
+            59.404204
+          ],
+          "category": "recreational",
+          "arrive_at": "12:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das klare Wasser des Eriksöbadet ein, einem der beliebtesten Badeplätze, und sichern Sie sich frühzeitig einen guten Platz am feinen Sandstrand.",
+            "hu": "Csobbanjon egyet az Eriksöbadet kristálytiszta vizében, a környék egyik legnépszerűbb fürdőhelyén, és érkezzen korán, hogy biztosítsa a legjobb helyet a homokban.",
+            "ro": "Scufundați-vă în apele limpezi de la Eriksöbadet, unul dintre cele mai populare locuri de scăldat, și veniți devreme pentru a prinde un loc bun pe plaja de nisip.",
+            "en": "Dive into the clear waters of Eriksöbadet, one of the most popular bathing spots, and try to arrive early to secure a prime spot on the sandy beach before the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Fridhemsbadet",
+            "hu": "Fridhemsbadet",
+            "ro": "Fridhemsbadet",
+            "en": "Fridhemsbadet"
+          },
+          "coords": [
+            18.286764,
+            59.388289
+          ],
+          "category": "recreational",
+          "arrive_at": "13:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie den abgelegenen Charme von Fridhemsbadet, einem tollen Natur-Rückzugsort, der sich ideal für ein ruhiges Buch oder eine Meditation am Wasser anbietet.",
+            "hu": "Fedezze fel a Fridhemsbadet eldugott varázsát, ezt a nagyszerű, természettel övezett menedéket, amely ideális egy csendes délutáni olvasáshoz a hullámok mellett.",
+            "ro": "Descoperiți farmecul ascuns de la Fridhemsbadet, un refugiu fantastic înconjurat de natură, ideal pentru o lectură liniștită după-amiaza lângă valurile mării.",
+            "en": "Discover the secluded charm of Fridhemsbadet, a fantastic retreat surrounded by nature, making it ideal for a quiet afternoon read or meditation by the soothing waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Tenöbadet",
+            "hu": "Tenöbadet",
+            "ro": "Tenöbadet",
+            "en": "Tenöbadet"
+          },
+          "coords": [
+            18.330403,
+            59.392584
+          ],
+          "category": "recreational",
+          "arrive_at": "15:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im familienfreundlichen Tenöbadet mit seinen flachen Gewässern, und holen Sie sich unbedingt ein erfrischendes Eis vom nahegelegenen Kiosk.",
+            "hu": "Pihenjen a családbarát Tenöbadet sekély vizében és tágas pázsitján, és mindenképpen kóstolja meg a közeli pavilonban kapható frissítő helyi fagylaltot.",
+            "ro": "Relaxați-vă la Tenöbadet, cu apele sale puțin adânci, prietenoase pentru familii, și nu ratați chioșcul din apropiere pentru o înghețată locală răcoritoare.",
+            "en": "Relax at Tenöbadet with its family-friendly shallow waters and spacious lawns, and be sure to check out the nearby kiosk for some refreshing local ice cream."
+          }
+        },
+        {
+          "name": {
+            "de": "Badplats",
+            "hu": "Badplats",
+            "ro": "Badplats",
+            "en": "Badplats"
+          },
+          "coords": [
+            18.38393,
+            59.381792
+          ],
+          "category": "recreational",
+          "arrive_at": "16:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Erholen Sie sich an diesem unscheinbaren lokalen Badplats mit herrlichem Blick auf die Schären, und tragen Sie Badeschuhe, da das Ufer hier ziemlich steinig sein kann.",
+            "hu": "Kapcsolódjon ki ezen a szerény helyi fürdőhelyen, ahonnan lenyűgöző kilátás nyílik a szigetvilágra, de viseljen vízi cipőt, mert a partvonal itt meglehetősen sziklás.",
+            "ro": "Destindeți-vă la acest loc de baie nepretențios cu vederi uimitoare la arhipelag și purtați pantofi de apă, deoarece țărmul poate fi destul de stâncos.",
+            "en": "Unwind at this unpretentious local bathing spot offering stunning archipelagic views, and wear sturdy water shoes as the shoreline here can be quite rocky."
+          }
+        },
+        {
+          "name": {
+            "de": "Grönviksbadet",
+            "hu": "Grönviksbadet",
+            "ro": "Grönviksbadet",
+            "en": "Grönviksbadet"
+          },
+          "coords": [
+            18.41412,
+            59.390465
+          ],
+          "category": "recreational",
+          "arrive_at": "18:04",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die späte Nachmittagssonne im Grönviksbadet mit seiner grünen Umgebung, und nutzen Sie die tollen Holzstege, um direkt ins tiefere Wasser zu springen.",
+            "hu": "Élvezze a késő délutáni napsütést a buja növényzetről ismert Grönviksbadet fürdőzőjénél, és használja a kiváló fa stégeket a mélyebb vízbe való ugráshoz.",
+            "ro": "Bucurați-vă de soarele după-amiezii târzii la Grönviksbadet, cunoscut pentru verdeața sa, și folosiți excelentul ponton de lemn pentru a sări direct în apa mai adâncă.",
+            "en": "Soak up the late afternoon sun at Grönviksbadet, known for its lush green surroundings, and use the excellent wooden piers to jump straight into the deeper water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an der Kadettbryggan, wo das offene Wasser Sie für die bevorstehende Fahrt belebt. Radeln Sie zügig in Richtung Badviken und genießen Sie die malerischen Küstenwege am friedlichen Morgen.\n\nMittags erreichen Sie das Eriksöbadet für ein Bad und radeln dann weiter zum abgelegenen Fridhemsbadet. Diese Orte sind perfekt für ein Picknick und bieten sowohl lebhafte Strandatmosphäre als auch ruhige Natur.\n\nDie Nachmittagsfahrt zum Tenöbadet und weiter zu einem lokalen Badplats ist angenehm und landschaftlich reizvoll. Die wechselnden Ausblicke auf die Küste machen die Fahrt optisch atemberaubend und abwechslungsreich.\n\nBeenden Sie Ihr Fahrradabenteuer am Grönviksbadet. Stellen Sie Ihr Rad ab und machen Sie es sich auf den Holzstegen gemütlich, um den Sonnenuntergang zu beobachten – ein lohnender Abschluss.",
+        "hu": "Indítsa kerékpáros túráját a Kadettbryggan partszakaszán, ahol a nyílt víz látványa felélénkíti. Tekerjen fürgén a Badviken felé, élvezve a festői parti utakat és a békés kora délelőtti hangulatot.\n\nDélre érkezzen meg az Eriksöbadet strandjára egy úszásra, majd biciklizzen tovább az eldugott Fridhemsbadet felé. Ezek a helyek tökéletesek egy piknikhez, változatos élményeket kínálva.\n\nA délutáni tekerés zökkenőmentes és látványos a Tenöbadet felé, amelyet egy gyors szakasz követ egy helyi fürdőhelyhez (Badplats). A tengerparti kilátás végig lenyűgöző marad.\n\nFejezze be a kerékpáros kalandot a Grönviksbadet stégjeinél. Támassza le a biciklijét, és csodálja meg a fapallókról, ahogy a naplemente színesre festi az eget, tökéletesen zárva a napot.",
+        "ro": "Începeți călătoria cu bicicleta la Kadettbryggan, unde apa deschisă vă revigorează pentru drum. Pedați alert spre Badviken, bucurându-vă de potecile de coastă pitorești și de o dimineață pașnică.\n\nPână la prânz, ajungeți la Eriksöbadet pentru o înotare, apoi continuați spre izolatul Fridhemsbadet. Aceste locuri sunt perfecte pentru un picnic, oferind atât vibrații pline de viață, cât și refugii liniștite.\n\nPlimbarea de după-amiază este lină și pitorească în drum spre Tenöbadet, urmată de o pedalare rapidă spre un Badplats local. Vederile variate ale coastei mențin călătoria vizual impresionantă.\n\nÎncheiați aventura cu bicicleta la Grönviksbadet. Parcați bicicleta și așezați-vă pe pontonul de lemn pentru a privi apusul de soare, un final plin de satisfacții pentru o zi pe două roți.",
+        "en": "Kick off your cycling journey at Kadettbryggan, where the open water invigorates you for the ride ahead. Pedal briskly towards Badviken, enjoying the scenic coastal paths and a tranquil morning atmosphere.\n\nBy midday, arrive at Eriksöbadet for a swim, then cycle on to the secluded Fridhemsbadet. These spots are perfect for a picnic, offering both lively beach vibes and quiet natural retreats.\n\nThe afternoon ride is smooth and scenic as you make your way to Tenöbadet, followed by a quick pedal to a local Badplats. The varying coastal views keep the journey visually stunning and highly engaging.\n\nWrap up your biking adventure at Grönviksbadet. Park your bike and settle on the wooden piers to watch the sunset paint the sky, a rewarding end to a day exploring the archipelago on two wheels."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:15",
+      "total_km": 16.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Kadettbryggan",
+            "hu": "Kadettbryggan",
+            "ro": "Kadettbryggan",
+            "en": "Kadettbryggan"
+          },
+          "coords": [
+            18.353929,
+            59.431458
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an der Kadettbryggan, einem malerischen Ort mit herrlichem Blick aufs Wasser, und denken Sie an eine Windjacke für die kühle Morgenbrise.",
+            "hu": "Kezdje a napot a Kadettbryggan festői partján, ahonnan csodás kilátás nyílik a vízre, de ne felejtsen el széldzsekit hozni a hűvös reggeli szellő miatt.",
+            "ro": "Începeți ziua la Kadettbryggan, un loc pitoresc cu vedere superbă la apă, și nu uitați o jachetă de vânt, deoarece briza dimineții poate fi destul de rece.",
+            "en": "Start your day at Kadettbryggan, a picturesque spot offering lovely water views, and don't forget to pack a windbreaker as the morning breeze can be brisk."
+          }
+        },
+        {
+          "name": {
+            "de": "Badviken",
+            "hu": "Badviken",
+            "ro": "Badviken",
+            "en": "Badviken"
+          },
+          "coords": [
+            18.309908,
+            59.43385
+          ],
+          "category": "recreational",
+          "arrive_at": "10:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang in der ruhigen Bucht Badviken, ideal zur Entspannung, wo es sich empfiehlt, eigene Snacks für ein kleines Picknick am Meer mitzubringen.",
+            "hu": "Élvezze a békés sétát a Badviken csendes öblében, amely tökéletes a kikapcsolódásra, ezért érdemes saját nassolnivalót hozni egy hangulatos tengerparti piknikhez.",
+            "ro": "Bucurați-vă de o plimbare liniștită la Badviken, un golf tăcut perfect pentru relaxare, unde este recomandat să aduceți propriile gustări pentru un picnic pe mal.",
+            "en": "Enjoy a peaceful stroll around Badviken, a quiet coastal inlet perfect for relaxation, where bringing your own snacks is highly recommended for a seaside picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Eriksöbadet",
+            "hu": "Eriksöbadet",
+            "ro": "Eriksöbadet",
+            "en": "Eriksöbadet"
+          },
+          "coords": [
+            18.304678,
+            59.404204
+          ],
+          "category": "recreational",
+          "arrive_at": "11:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das klare Wasser des Eriksöbadet ein, einem der beliebtesten Badeplätze, und sichern Sie sich frühzeitig einen guten Platz am feinen Sandstrand.",
+            "hu": "Csobbanjon egyet az Eriksöbadet kristálytiszta vizében, a környék egyik legnépszerűbb fürdőhelyén, és érkezzen korán, hogy biztosítsa a legjobb helyet a homokban.",
+            "ro": "Scufundați-vă în apele limpezi de la Eriksöbadet, unul dintre cele mai populare locuri de scăldat, și veniți devreme pentru a prinde un loc bun pe plaja de nisip.",
+            "en": "Dive into the clear waters of Eriksöbadet, one of the most popular bathing spots, and try to arrive early to secure a prime spot on the sandy beach before the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Fridhemsbadet",
+            "hu": "Fridhemsbadet",
+            "ro": "Fridhemsbadet",
+            "en": "Fridhemsbadet"
+          },
+          "coords": [
+            18.286764,
+            59.388289
+          ],
+          "category": "recreational",
+          "arrive_at": "13:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie den abgelegenen Charme von Fridhemsbadet, einem tollen Natur-Rückzugsort, der sich ideal für ein ruhiges Buch oder eine Meditation am Wasser anbietet.",
+            "hu": "Fedezze fel a Fridhemsbadet eldugott varázsát, ezt a nagyszerű, természettel övezett menedéket, amely ideális egy csendes délutáni olvasáshoz a hullámok mellett.",
+            "ro": "Descoperiți farmecul ascuns de la Fridhemsbadet, un refugiu fantastic înconjurat de natură, ideal pentru o lectură liniștită după-amiaza lângă valurile mării.",
+            "en": "Discover the secluded charm of Fridhemsbadet, a fantastic retreat surrounded by nature, making it ideal for a quiet afternoon read or meditation by the soothing waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Tenöbadet",
+            "hu": "Tenöbadet",
+            "ro": "Tenöbadet",
+            "en": "Tenöbadet"
+          },
+          "coords": [
+            18.330403,
+            59.392584
+          ],
+          "category": "recreational",
+          "arrive_at": "14:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im familienfreundlichen Tenöbadet mit seinen flachen Gewässern, und holen Sie sich unbedingt ein erfrischendes Eis vom nahegelegenen Kiosk.",
+            "hu": "Pihenjen a családbarát Tenöbadet sekély vizében és tágas pázsitján, és mindenképpen kóstolja meg a közeli pavilonban kapható frissítő helyi fagylaltot.",
+            "ro": "Relaxați-vă la Tenöbadet, cu apele sale puțin adânci, prietenoase pentru familii, și nu ratați chioșcul din apropiere pentru o înghețată locală răcoritoare.",
+            "en": "Relax at Tenöbadet with its family-friendly shallow waters and spacious lawns, and be sure to check out the nearby kiosk for some refreshing local ice cream."
+          }
+        },
+        {
+          "name": {
+            "de": "Badplats",
+            "hu": "Badplats",
+            "ro": "Badplats",
+            "en": "Badplats"
+          },
+          "coords": [
+            18.38393,
+            59.381792
+          ],
+          "category": "recreational",
+          "arrive_at": "15:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Erholen Sie sich an diesem unscheinbaren lokalen Badplats mit herrlichem Blick auf die Schären, und tragen Sie Badeschuhe, da das Ufer hier ziemlich steinig sein kann.",
+            "hu": "Kapcsolódjon ki ezen a szerény helyi fürdőhelyen, ahonnan lenyűgöző kilátás nyílik a szigetvilágra, de viseljen vízi cipőt, mert a partvonal itt meglehetősen sziklás.",
+            "ro": "Destindeți-vă la acest loc de baie nepretențios cu vederi uimitoare la arhipelag și purtați pantofi de apă, deoarece țărmul poate fi destul de stâncos.",
+            "en": "Unwind at this unpretentious local bathing spot offering stunning archipelagic views, and wear sturdy water shoes as the shoreline here can be quite rocky."
+          }
+        },
+        {
+          "name": {
+            "de": "Grönviksbadet",
+            "hu": "Grönviksbadet",
+            "ro": "Grönviksbadet",
+            "en": "Grönviksbadet"
+          },
+          "coords": [
+            18.41412,
+            59.390465
+          ],
+          "category": "recreational",
+          "arrive_at": "17:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die späte Nachmittagssonne im Grönviksbadet mit seiner grünen Umgebung, und nutzen Sie die tollen Holzstege, um direkt ins tiefere Wasser zu springen.",
+            "hu": "Élvezze a késő délutáni napsütést a buja növényzetről ismert Grönviksbadet fürdőzőjénél, és használja a kiváló fa stégeket a mélyebb vízbe való ugráshoz.",
+            "ro": "Bucurați-vă de soarele după-amiezii târzii la Grönviksbadet, cunoscut pentru verdeața sa, și folosiți excelentul ponton de lemn pentru a sări direct în apa mai adâncă.",
+            "en": "Soak up the late afternoon sun at Grönviksbadet, known for its lush green surroundings, and use the excellent wooden piers to jump straight into the deeper water."
+          }
+        },
+        {
+          "name": {
+            "de": "Måldepån",
+            "hu": "Måldepån",
+            "ro": "Måldepån",
+            "en": "Måldepån"
+          },
+          "coords": [
+            18.430063,
+            59.401109
+          ],
+          "category": "recreational",
+          "arrive_at": "18:30",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihr Schären-Abenteuer in Måldepån, einem faszinierenden Küstenpunkt mit weitem Blick, der sich perfekt zum Fotografieren der lebhaften Abenddämmerung eignet.",
+            "hu": "Zárja a szigetvilági kalandot a Måldepån lenyűgöző parti végpontján, amely pazar kilátást nyújt, és tökéletes helyszín a ragyogó esti szürkület fotózásához.",
+            "ro": "Încheiați aventura în arhipelag la Måldepån, un punct de coastă intrigant cu panorame vaste, perfect potrivit pentru a fotografia amurgul vibrant al serii.",
+            "en": "Conclude your archipelago adventure at Måldepån, an intriguing coastal endpoint with sweeping vistas, perfectly suited for photographing the vibrant evening twilight."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Roadtrip an der Kadettbryggan und genießen Sie den morgendlichen Meerblick vor einer kurzen Fahrt nach Badviken. Das Auto bietet die Freiheit, Ihre Strandausrüstung mühelos zu transportieren.\n\nWenn der Mittag naht, fahren Sie zum Eriksöbadet und weiter zum friedlichen Fridhemsbadet. Sie haben reichlich Zeit, diese schönen Küstenorte zu erkunden und bequeme Picknickplätze einzurichten.\n\nFahren Sie am Nachmittag bequem zum Tenöbadet und zum nahegelegenen Badplats. Mit dem Auto können Sie ganz einfach zwischen diesen vielfältigen Badebereichen wechseln und die Nachmittagssonne genießen.\n\nBeenden Sie Ihre Reise mit abendlichen Stopps im Grönviksbadet und in Måldepån. Durch die bequeme Fahrt können Sie länger bleiben und fantastische Fotos vom Sonnenuntergang machen, bevor es nach Hause geht.",
+        "hu": "Kezdje az autós túrát a Kadettbryggan megállónál, gyönyörködve a reggeli tengeri kilátásban, mielőtt átgurulna a Badvikenhez. Az autó megadja a szabadságot, hogy kényelmesen szállítsa a strandfelszerelést.\n\nAhogy közeledik a dél, autózzon át az Eriksöbadet, majd a békés Fridhemsbadet felé. Bőven lesz ideje felfedezni ezeket a gyönyörű tengerparti állomásokat, és kényelmes piknikeket rendezni útközben.\n\nDélután vezessen kényelmesen a Tenöbadet és a közeli Badplats fürdőhelyekhez. Az autóval egyszerű ugrálni a különböző partszakaszok között, így biztosan a legtöbbet hozhatja ki a délutáni napsütésből.\n\nZárja az utazást esti megállókkal a Grönviksbadet és a Måldepån környékén. Az autózás kényelme révén sokáig kint maradhat, csodás naplementés fotókat készítve, mielőtt hazaindulna.",
+        "ro": "Începeți excursia cu mașina la Kadettbryggan, admirând priveliștile mării înainte de un scurt condus spre Badviken. Mașina vă oferă libertatea de a transporta cu ușurință echipamentul de plajă.\n\nPe măsură ce se apropie prânzul, mergeți la Eriksöbadet și apoi la pașnicul Fridhemsbadet. Veți avea suficient timp să explorați aceste opriri de coastă frumoase, amenajând locuri confortabile de picnic pe drum.\n\nDupă-amiaza, conduceți ușor spre Tenöbadet și Badplats-ul din apropiere. Având o mașină este simplu să treceți de la o zonă de baie la alta, asigurându-vă că profitați de cel mai bun soare.\n\nFinalizați-vă călătoria cu opriri de seară la Grönviksbadet și Måldepån. Confortul condusului înseamnă că puteți rămâne târziu pentru a face fotografii uimitoare la apusul soarelui peste arhipelag.",
+        "en": "Start your road trip at Kadettbryggan, taking in the morning sea views before a short, scenic drive to Badviken. The car gives you the freedom to easily transport your beach gear for a morning dip.\n\nAs midday approaches, cruise over to Eriksöbadet and then to the peaceful Fridhemsbadet. You’ll have plenty of time to explore these beautiful coastal stops, setting up comfortable picnic spots along the way.\n\nIn the afternoon, drive smoothly to Tenöbadet and the nearby Badplats. Having a car makes it simple to hop between these diverse bathing areas, ensuring you catch the best of the afternoon sun.\n\nFinish your journey with evening stops at Grönviksbadet and Måldepån. The convenience of driving means you can stay out late, capturing stunning sunset photos over the archipelago before heading home."
+      }
+    }
+  }
+}

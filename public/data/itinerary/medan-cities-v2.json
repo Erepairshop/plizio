@@ -1,0 +1,451 @@
+{
+  "city_id": "medan-cities-v2",
+  "anchor": {
+    "name": "Medan",
+    "coords": [
+      98.6722,
+      3.5952
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.94,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Monumen Guru Patimpus",
+            "hu": "Monumen Guru Patimpus",
+            "ro": "Monumen Guru Patimpus",
+            "en": "Monumen Guru Patimpus"
+          },
+          "coords": [
+            98.671097,
+            3.591459
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das Denkmal des Stadtgründers, um Medans Wurzeln zu verstehen, und überqueren Sie die belebte Kreuzung vorsichtig, um die Details zu lesen.",
+            "hu": "Csodálja meg a városalapító emlékművét, hogy megértse Medan gyökereit, és óvatosan keljen át a forgalmas kereszteződésen a bronztábla elolvasásához.",
+            "ro": "Admirați monumentul fondatorului orașului pentru a-i înțelege originile și traversați cu grijă intersecția aglomerată pentru a citi detaliile plăcii.",
+            "en": "Admire the monument of Medan's founder to grasp the city's roots, and remember to cross the busy intersection carefully to read the bronze plaque details."
+          }
+        },
+        {
+          "name": {
+            "de": "Lapangan Merdeka",
+            "hu": "Lapangan Merdeka",
+            "ro": "Lapangan Merdeka",
+            "en": "Lapangan Merdeka"
+          },
+          "coords": [
+            98.678616,
+            3.590429
+          ],
+          "category": "park",
+          "arrive_at": "10:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.84,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen historischen Park mit Kolonialarchitektur und suchen Sie sich eine Bank unter den alten Trembesi-Bäumen, um der Hitze zu entkommen.",
+            "hu": "Sétáljon végig ezen a gyarmati építészettel övezett történelmi parkon, és keressen egy árnyékos padot az öreg fák alatt, hogy elmeneküljön a déli hőség elől.",
+            "ro": "Plimbați-vă prin acest parc istoric înconjurat de arhitectură colonială și găsiți o bancă la umbra copacilor bătrâni pentru a scăpa de căldura amiezii.",
+            "en": "Stroll through this historic central park surrounded by colonial architecture, and find a shaded bench under the old trembesi trees to escape the midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumen Medan Area",
+            "hu": "Monumen Medan Area",
+            "ro": "Monumen Medan Area",
+            "en": "Monumen Medan Area"
+          },
+          "coords": [
+            98.684334,
+            3.591143
+          ],
+          "category": "historical",
+          "arrive_at": "12:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.64,
+          "tip_5lang": {
+            "de": "Denken Sie an der Steinsäule über die lokalen Unabhängigkeitskämpfe nach und besuchen Sie sie am späten Nachmittag, wenn das Licht ideal für Fotos ist.",
+            "hu": "Gondoljon a helyi függetlenségi harcokra ezen a robusztus kőoszlopon, és próbáljon késő délután érkezni, amikor a napfény lágyabbá válik a fotózáshoz.",
+            "ro": "Reflectați asupra luptelor pentru independență la acest stâlp robust de piatră și vizitați-l după-amiaza târziu, când lumina este ideală pentru fotografii.",
+            "en": "Reflect on local independence struggles at this robust stone pillar, and try visiting during the late afternoon when the sunlight softens for better photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Eks RSU Tembakau Deli",
+            "hu": "Eks RSU Tembakau Deli",
+            "ro": "Eks RSU Tembakau Deli",
+            "en": "Eks RSU Tembakau Deli"
+          },
+          "coords": [
+            98.673804,
+            3.598335
+          ],
+          "category": "historical",
+          "arrive_at": "13:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.41,
+          "tip_5lang": {
+            "de": "Erkunden Sie das Äußere dieses ehemaligen Kolonialkrankenhauses und bleiben Sie hinter den Haupttoren, da Teile der historischen Struktur sehr zerbrechlich sind.",
+            "hu": "Fedezze fel az egykori gyarmati kórház külsejét a holland építészeti örökség megismeréséhez, és maradjon a főkapuk mögött a törékeny szerkezet miatt.",
+            "ro": "Explorați exteriorul acestui fost spital colonial pentru moștenirea arhitecturală olandeză și rămâneți în spatele porților principale din motive de siguranță.",
+            "en": "Explore the exterior of this former colonial hospital to see Dutch architectural heritage, and stay behind the main gates as parts of the structure are fragile."
+          }
+        },
+        {
+          "name": {
+            "de": "Tugu Adipura",
+            "hu": "Tugu Adipura",
+            "ro": "Tugu Adipura",
+            "en": "Tugu Adipura"
+          },
+          "coords": [
+            98.669326,
+            3.606659
+          ],
+          "category": "historical",
+          "arrive_at": "15:25",
+          "stay_min": 110,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.05,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses stolze Denkmal, das die städtische Sauberkeit Medans feiert, und nutzen Sie die Fußgängerbrücke, um es sicher im Verkehr zu beobachten.",
+            "hu": "Tekintse meg ezt a városi tisztaságot ünneplő büszke emlékművet, és használja a közeli gyalogos felüljárót, hogy biztonságosan megfigyelhesse a forgalomban.",
+            "ro": "Priviți acest monument mândru care celebrează curățenia urbană din Medan și folosiți pasajul pietonal pentru a-l observa în siguranță deasupra traficului.",
+            "en": "View this prideful monument celebrating urban cleanliness in Medan, and use the nearby pedestrian overpass to safely observe its design amidst the traffic flow."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am Monumen Guru Patimpus, wo Sie Medans Ursprünge entdecken. Mittags spazieren Sie durch das Grün des Lapangan Merdeka vor kolonialer Kulisse. Der Nachmittag lädt zur Reflexion am Monumen Medan Area und dem historischen Eks RSU Tembakau Deli ein. Ihr Spaziergang endet im abendlichen Glanz des Tugu Adipura.",
+        "hu": "A reggel a Monumen Guru Patimpusnál kezdődik, feltárva Medan eredetét. Délben a Lapangan Merdeka buja zöldjén sétál át, mely tökéletes gyarmati hátteret nyújt. A délután elmélyülésre hív a Monumen Medan Area és a történelmi Eks RSU Tembakau Deli területén. A séta a Tugu Adipura esti fényében zárul.",
+        "ro": "Dimineața începe la Monumentul Guru Patimpus, descoperind originile orașului. La prânz vă plimbați prin verdeața luxuriantă de la Lapangan Merdeka, un decor colonial perfect. După-amiaza vă invită la reflecție la Monumentul Medan Area și la vechiul spital Tembakau Deli. Plimbarea se încheie în lumina serii la Tugu Adipura.",
+        "en": "Morning begins at the Monumen Guru Patimpus, unearthing Medan's origins. Midday leads you through the lush greens of Lapangan Merdeka, a perfect colonial backdrop. The afternoon invites reflection at Monumen Medan Area and the historic Eks RSU Tembakau Deli. Your walk concludes in the evening glow of Tugu Adipura."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:12",
+      "total_km": 6.59,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum Perjuangan TNI",
+            "hu": "Museum Perjuangan TNI",
+            "ro": "Museum Perjuangan TNI",
+            "en": "Museum Perjuangan TNI"
+          },
+          "coords": [
+            98.674026,
+            3.583859
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine reiche Sammlung militärischer Artefakte zur Verteidigungsgeschichte und bringen Sie Wasser mit, da die Ausstellungshallen warm werden können.",
+            "hu": "Fedezze fel az indonéz védelmi történelmet bemutató katonai gyűjteményt, és hozzon magával vizet, mivel a kiállítótermekben gyakran nagyon meleg van.",
+            "ro": "Descoperiți o colecție de artefacte militare despre istoria apărării indoneziene și aduceți apă la dumneavoastră, deoarece sălile pot deveni destul de calde.",
+            "en": "Discover a rich collection of military artifacts detailing Indonesia's defense history, and bring your own bottled water since the exhibition halls can get warm."
+          }
+        },
+        {
+          "name": {
+            "de": "Sri Mariamman Temple",
+            "hu": "Sri Mariamman Temple",
+            "ro": "Sri Mariamman Temple",
+            "en": "Sri Mariamman Temple"
+          },
+          "coords": [
+            98.670859,
+            3.583974
+          ],
+          "category": "religious",
+          "arrive_at": "10:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bestaunen Sie Medans ältesten Hindu-Tempel mit seinen kunstvollen Statuen und kleiden Sie sich bescheiden, indem Sie Schultern und Knie vor dem Eintritt bedecken.",
+            "hu": "Csodálja meg Medan legrégebbi, bonyolult szobrairól ismert hindu templomát, és öltözzön szerényen, vállait és térdeit eltakarva a belépés előtt.",
+            "ro": "Minunați-vă de cel mai vechi templu hindus din Medan, faimos pentru statuile sale, și îmbrăcați-vă decent, acoperindu-vă umerii și genunchii la intrare.",
+            "en": "Marvel at the oldest Hindu temple in Medan known for its intricate statues, and please dress modestly, covering your shoulders and knees before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumen Guru Patimpus",
+            "hu": "Monumen Guru Patimpus",
+            "ro": "Monumen Guru Patimpus",
+            "en": "Monumen Guru Patimpus"
+          },
+          "coords": [
+            98.671097,
+            3.591459
+          ],
+          "category": "historical",
+          "arrive_at": "11:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.83,
+          "tip_5lang": {
+            "de": "Bewundern Sie das Denkmal des Stadtgründers, um Medans Wurzeln zu verstehen, und überqueren Sie die belebte Kreuzung vorsichtig, um die Details zu lesen.",
+            "hu": "Csodálja meg a városalapító emlékművét, hogy megértse Medan gyökereit, és óvatosan keljen át a forgalmas kereszteződésen a bronztábla elolvasásához.",
+            "ro": "Admirați monumentul fondatorului orașului pentru a-i înțelege originile și traversați cu grijă intersecția aglomerată pentru a citi detaliile plăcii.",
+            "en": "Admire the monument of Medan's founder to grasp the city's roots, and remember to cross the busy intersection carefully to read the bronze plaque details."
+          }
+        },
+        {
+          "name": {
+            "de": "Lapangan Merdeka",
+            "hu": "Lapangan Merdeka",
+            "ro": "Lapangan Merdeka",
+            "en": "Lapangan Merdeka"
+          },
+          "coords": [
+            98.678616,
+            3.590429
+          ],
+          "category": "park",
+          "arrive_at": "13:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.84,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen historischen Park mit Kolonialarchitektur und suchen Sie sich eine Bank unter den alten Trembesi-Bäumen, um der Hitze zu entkommen.",
+            "hu": "Sétáljon végig ezen a gyarmati építészettel övezett történelmi parkon, és keressen egy árnyékos padot az öreg fák alatt, hogy elmeneküljön a déli hőség elől.",
+            "ro": "Plimbați-vă prin acest parc istoric înconjurat de arhitectură colonială și găsiți o bancă la umbra copacilor bătrâni pentru a scăpa de căldura amiezii.",
+            "en": "Stroll through this historic central park surrounded by colonial architecture, and find a shaded bench under the old trembesi trees to escape the midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumen Medan Perjuangan",
+            "hu": "Monumen Medan Perjuangan",
+            "ro": "Monumen Medan Perjuangan",
+            "en": "Monumen Medan Perjuangan"
+          },
+          "coords": [
+            98.690849,
+            3.598412
+          ],
+          "category": "historical",
+          "arrive_at": "14:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.62,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem Denkmal für die Schlacht von Medan die Ehre und nehmen Sie sich Zeit, die Gedenktafeln zu lesen, die die Konflikte von 1945 lebhaft schildern.",
+            "hu": "Tisztelegjen a medani csata emlékművénél, és szánjon időt a környező táblák elolvasására, amelyek élénken mesélik el az 1945-ös történelmi konfliktusokat.",
+            "ro": "Aduceți un omagiu la acest memorial dedicat bătăliei din Medan și citiți plăcile înconjurătoare care narrează cu lux de amănunte conflictele din anul 1945.",
+            "en": "Pay respects at this fierce memorial dedicated to the battle of Medan, and take time to read the surrounding plaques that vividly narrate the 1945 conflicts."
+          }
+        },
+        {
+          "name": {
+            "de": "Galeri Sejarah Tionghoa Sumut",
+            "hu": "Galeri Sejarah Tionghoa Sumut",
+            "ro": "Galeri Sejarah Tionghoa Sumut",
+            "en": "Galeri Sejarah Tionghoa Sumut"
+          },
+          "coords": [
+            98.669659,
+            3.614481
+          ],
+          "category": "museum",
+          "arrive_at": "16:02",
+          "stay_min": 130,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.95,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Geschichte der chinesischen Gemeinde Nordsumatras ein und fragen Sie das Personal nach einem englischen Flyer für die Navigation.",
+            "hu": "Merüljön el Észak-Szumátra kínai közösségének lenyűgöző történetében, és kérjen angol nyelvű tájékoztatót a személyzettől a kiállítások jobb megértéséhez.",
+            "ro": "Pătrundeți în istoria fascinantă a comunității chineze din Sumatra de Nord și cereți personalului un pliant în engleză pentru a naviga prin expoziții.",
+            "en": "Dive into the fascinating history of the Chinese community in North Sumatra, and ask the knowledgeable staff for an English leaflet to navigate the exhibits."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt am Museum Perjuangan TNI zur Militärgeschichte, gefolgt vom bunten Sri Mariamman Tempel. Mittags geht es am Monumen Guru Patimpus vorbei zum weiten Lapangan Merdeka. Radeln Sie nachmittags zum Monumen Medan Perjuangan, bevor der Tag in der Galerie für chinesische Geschichte endet.",
+        "hu": "Kezdje a túrát a katonai történelmet bemutató Museum Perjuangan TNI-nél, majd a vibráló Sri Mariamman templomnál. A dél a Monumen Guru Patimpus mellett a Lapangan Merdeka nyitott tereire viszi. Délután tekerjen el a Monumen Medan Perjuanganhoz, majd fejezze be útját a Kínai Történeti Galériában.",
+        "ro": "Începeți traseul la Muzeul Perjuangan TNI pentru istorie militară, urmat de vibrantul Templu Sri Mariamman. Prânzul vă poartă pe lângă Monumentul Guru Patimpus spre spațiile de la Lapangan Merdeka. După-amiaza pedalați spre Monumentul Medan Perjuangan, terminând ziua la Galeria de Istorie Chineză.",
+        "en": "Start your ride at Museum Perjuangan TNI, uncovering military history, followed by the vibrant Sri Mariamman Temple. Midday takes you past the iconic Monumen Guru Patimpus to the open spaces of Lapangan Merdeka. In the afternoon, cycle to Monumen Medan Perjuangan before ending at the Chinese History Gallery."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:35",
+      "total_km": 15.77,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "RAZ MUSEUM & GALLERY",
+            "hu": "RAZ MUSEUM & GALLERY",
+            "ro": "RAZ MUSEUM & GALLERY",
+            "en": "RAZ MUSEUM & GALLERY"
+          },
+          "coords": [
+            98.643542,
+            3.568227
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie Privatsammlungen zur lokalen Bildung und Kultur und rufen Sie vorher an, um die Öffnungszeiten zu bestätigen, da private Events vorkommen können.",
+            "hu": "Fedezze fel a helyi oktatást és kultúrát bemutató magángyűjteményeket, és előzetesen érdeklődjön a nyitvatartásról, mivel gyakran tartanak zártkörű eseményeket.",
+            "ro": "Explorați colecțiile private despre educația și cultura locală și sunați în prealabil pentru a confirma programul, deoarece uneori găzduiesc evenimente private.",
+            "en": "Explore private collections showcasing local education and culture, and call ahead to confirm their operating hours as they sometimes close for private events."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Perjuangan Pers Sumatera Utara",
+            "hu": "Museum Perjuangan Pers Sumatera Utara",
+            "ro": "Museum Perjuangan Pers Sumatera Utara",
+            "en": "Museum Perjuangan Pers Sumatera Utara"
+          },
+          "coords": [
+            98.652063,
+            3.585833
+          ],
+          "category": "museum",
+          "arrive_at": "10:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.16,
+          "tip_5lang": {
+            "de": "Lernen Sie die Entwicklung des Journalismus anhand antiker Pressen kennen und bringen Sie eine gute Kamera mit, um die Vintage-Typografie ohne Blitz einzufangen.",
+            "hu": "Ismerje meg az észak-szumátrai újságírás fejlődését az antik préseken keresztül, és hozzon jó fényképezőgépet a vintage tipográfia vaku nélküli megörökítéséhez.",
+            "ro": "Aflați despre evoluția jurnalismului din Sumatra de Nord prin presele antice și folosiți o cameră bună pentru a fotografia tipografia de epocă fără a folosi blițul.",
+            "en": "Learn about the evolution of North Sumatran journalism through antique presses, and bring a good camera to capture the vintage typography without using flash."
+          }
+        },
+        {
+          "name": {
+            "de": "Sri Mariamman Temple",
+            "hu": "Sri Mariamman Temple",
+            "ro": "Sri Mariamman Temple",
+            "en": "Sri Mariamman Temple"
+          },
+          "coords": [
+            98.670859,
+            3.583974
+          ],
+          "category": "religious",
+          "arrive_at": "12:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie Medans ältesten Hindu-Tempel mit seinen kunstvollen Statuen und kleiden Sie sich bescheiden, indem Sie Schultern und Knie vor dem Eintritt bedecken.",
+            "hu": "Csodálja meg Medan legrégebbi, bonyolult szobrairól ismert hindu templomát, és öltözzön szerényen, vállait és térdeit eltakarva a belépés előtt.",
+            "ro": "Minunați-vă de cel mai vechi templu hindus din Medan, faimos pentru statuile sale, și îmbrăcați-vă decent, acoperindu-vă umerii și genunchii la intrare.",
+            "en": "Marvel at the oldest Hindu temple in Medan known for its intricate statues, and please dress modestly, covering your shoulders and knees before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Gallery UMSU",
+            "hu": "Gallery UMSU",
+            "ro": "Gallery UMSU",
+            "en": "Gallery UMSU"
+          },
+          "coords": [
+            98.674674,
+            3.613933
+          ],
+          "category": "museum",
+          "arrive_at": "13:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.35,
+          "tip_5lang": {
+            "de": "Schätzen Sie die von Studenten kuratierten Kunstausstellungen auf dem Campus und mischen Sie sich unter die Akademiker, indem Sie das Studentencafé besuchen.",
+            "hu": "Értékelje a hallgatók által rendezett tudományos és művészeti kiállításokat, és vegyüljön el az akadémiai tömegben a közeli diák kávézó meglátogatásával.",
+            "ro": "Apreciați expozițiile academice și artistice realizate de studenți pe campus și integrați-vă în atmosfera studențească vizitând cafeneaua din apropiere.",
+            "en": "Appreciate student-curated academic and artistic exhibits on the university campus, and blend in with the academic crowd by visiting the nearby student cafe."
+          }
+        },
+        {
+          "name": {
+            "de": "Candi Somdet Nyanasamvara",
+            "hu": "Candi Somdet Nyanasamvara",
+            "ro": "Candi Somdet Nyanasamvara",
+            "en": "Candi Somdet Nyanasamvara"
+          },
+          "coords": [
+            98.700837,
+            3.638934
+          ],
+          "category": "historical",
+          "arrive_at": "15:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Finden Sie Ruhe in diesem großen buddhistischen Tempel mit kunstvollen Schnitzereien und ziehen Sie respektvoll Ihre Schuhe aus, bevor Sie die Gebetsräume betreten.",
+            "hu": "Találjon békét ebben a hatalmas, bonyolult faragásokkal díszített buddhista templomban, és tiszteletteljesen vegye le a cipőjét a fő imatermekbe lépés előtt.",
+            "ro": "Găsiți liniștea la acest templu budist impunător, decorat cu sculpturi complicate, și descălțați-vă respectuos înainte de a păși în sălile principale de rugăciune.",
+            "en": "Find peace at this grand Buddhist temple featuring intricate carvings, and remove your shoes respectfully before stepping onto the polished main prayer floors."
+          }
+        },
+        {
+          "name": {
+            "de": "Bundaran MMTC",
+            "hu": "Bundaran MMTC",
+            "ro": "Bundaran MMTC",
+            "en": "Bundaran MMTC"
+          },
+          "coords": [
+            98.709467,
+            3.602566
+          ],
+          "category": "historical",
+          "arrive_at": "16:45",
+          "stay_min": 110,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.16,
+          "tip_5lang": {
+            "de": "Beobachten Sie die moderne städtische Anlage um diesen markanten Kreisverkehr und stehen Sie sicher an den Fußgängerecken für ein Weitwinkel-Stadtfoto.",
+            "hu": "Figyelje meg a kiemelkedő körforgalom köré épült modern városi elrendezést, és álljon biztonságosan a kijelölt sarkokon egy nagylátószögű városkép elkészítéséhez.",
+            "ro": "Observați planificarea urbană modernă centrată în jurul acestui sens giratoriu și stați în siguranță la colțurile pietonale pentru a surprinde o fotografie panoramică.",
+            "en": "Observe the modern urban layout centered around this prominent roundabout, and stand safely on the designated pedestrian corners to snap a wide-angle city shot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt mit lehrreichen Einblicken im RAZ Museum, gefolgt von einer Reise in die Geschichte des Journalismus. Mittags locken der bunte Sri Mariamman Tempel und das Campus-Flair der Galerie UMSU. Am Nachmittag besuchen Sie den großen Candi Somdet Nyanasamvara und enden am lebhaften Bundaran MMTC.",
+        "hu": "Utazása a RAZ Múzeum oktatási bemutatójával kezdődik, melyet az újságírás története követ. A dél egy színes látogatást hoz a Sri Mariamman templomnál és az UMSU Galéria egyetemi hangulatát. A délután fénypontja a hatalmas Candi Somdet Nyanasamvara, majd a nyüzsgő Bundaran MMTC-nél fejezi be a napot.",
+        "ro": "Plimbarea cu mașina începe la Muzeul RAZ, urmată de o incursiune în istoria jurnalismului. Prânzul aduce o vizită colorată la Templul Sri Mariamman și o atmosferă academică la Galeria UMSU. După-amiaza vizitați grandiosul Candi Somdet Nyanasamvara, terminând ziua la sensul giratoriu MMTC.",
+        "en": "Your drive begins with educational insights at the RAZ Museum, followed by a fascinating look at journalism history. Midday brings a colorful visit to the Sri Mariamman Temple and the campus vibes at Gallery UMSU. The afternoon features the grand Candi Somdet Nyanasamvara, finishing at the bustling Bundaran MMTC."
+      }
+    }
+  }
+}

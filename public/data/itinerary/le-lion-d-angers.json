@@ -1,0 +1,451 @@
+{
+  "city_id": "le-lion-d-angers",
+  "anchor": {
+    "name": "Le Lion-d'Angers",
+    "coords": [
+      -0.7131,
+      47.6278
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:11",
+      "total_km": 1.65,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mairie du Lion-d'Angers",
+            "hu": "Mairie du Lion-d'Angers",
+            "ro": "Mairie du Lion-d'Angers",
+            "en": "Mairie du Lion-d'Angers"
+          },
+          "coords": [
+            -0.713263,
+            47.627105
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur des Rathauses, bevor Sie Ihren Spaziergang beginnen, und machen Sie ein schnelles Foto seiner bezaubernden Fassade.",
+            "hu": "Csodálja meg a városháza elegáns építészetét a séta megkezdése előtt, és készítsen egy gyors fotót a bájos homlokzatról a reggeli fényben.",
+            "ro": "Admirați arhitectura elegantă a primăriei înainte de a vă începe plimbarea și faceți o fotografie rapidă a fațadei sale fermecătoare în lumina dimineții.",
+            "en": "Admire the elegant architecture of the town hall before starting your walk, and take a quick photo of its charming facade in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Martin",
+            "hu": "Saint-Martin templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            -0.713245,
+            47.62809
+          ],
+          "category": "religious",
+          "arrive_at": "09:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Betreten Sie diese historische Kirche, um ihre friedliche Atmosphäre zu genießen, aber prüfen Sie vorher die Besuchszeiten am Aushang.",
+            "hu": "Lépjen be ebbe a történelmi templomba, hogy élvezze annak békés légkörét, de mindenképpen ellenőrizze a hirdetőtáblán a látogatási időket.",
+            "ro": "Intrați în această biserică istorică pentru a-i aprecia atmosfera pașnică, dar asigurați-vă că verificați orarul de vizitare pentru a nu întrerupe slujbele.",
+            "en": "Step inside this historic church to appreciate its peaceful atmosphere, but be sure to check the notice board for visiting hours to avoid interrupting services."
+          }
+        },
+        {
+          "name": {
+            "de": "Hippodrome du Lion d'Angers",
+            "hu": "Hippodrome du Lion d'Angers",
+            "ro": "Hippodrome du Lion d'Angers",
+            "en": "Hippodrome du Lion d'Angers"
+          },
+          "coords": [
+            -0.708056,
+            47.628056
+          ],
+          "category": "recreational",
+          "arrive_at": "10:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.39,
+          "tip_5lang": {
+            "de": "Erkunden Sie eine der berühmtesten Pferderennbahnen Frankreichs und versuchen Sie, an einem Trainingstag vorbeizuschauen, um die Pferde in Aktion zu sehen.",
+            "hu": "Fedezze fel Franciaország egyik leghíresebb lóversenypályáját egy séta keretében, és próbáljon meg egy edzésnapon érkezni, hogy lássa a lovakat mozgás közben.",
+            "ro": "Explorați unul dintre cele mai faimoase hipodromuri din Franța plimbându-vă pe perimetru și încercați să vizitați într-o zi de antrenament pentru a vedea caii.",
+            "en": "Explore one of France's most famous racecourses by walking around the perimeter, and try visiting on a training day to see the horses in action."
+          }
+        },
+        {
+          "name": {
+            "de": "Park l'Isle Briand",
+            "hu": "Isle Briand Park",
+            "ro": "Parcul Isle Briand",
+            "en": "Isle Briand Park"
+          },
+          "coords": [
+            -0.69866,
+            47.624463
+          ],
+          "category": "natural",
+          "arrive_at": "11:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.81,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen üppigen Naturpark mit seinen weiten Grünflächen und bringen Sie unbedingt Wasser und bequeme Wanderschuhe für die Pfade mit.",
+            "hu": "Sétáljon végig ezen a hatalmas zöldterületen elterülő buja természeti parkon, és hozzon magával vizet, valamint kényelmes cipőt a kiterjedt ösvényekhez.",
+            "ro": "Plimbați-vă prin acest parc natural luxuriant cu spații verzi întinse și aduceți niște apă și încălțăminte confortabilă pentru traseele expansive.",
+            "en": "Stroll through this lush natural park covering vast acres of greenery, and bring some water and comfortable walking shoes for the expansive trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Haras national de l'Isle Briand",
+            "hu": "Haras national de l'Isle Briand",
+            "ro": "Haras national de l'Isle Briand",
+            "en": "Haras national de l'Isle Briand"
+          },
+          "coords": [
+            -0.697966,
+            47.623874
+          ],
+          "category": "historical",
+          "arrive_at": "12:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.08,
+          "tip_5lang": {
+            "de": "Entdecken Sie das angesehene Nationalgestüt, um mehr über das lokale Pferdeerbe zu erfahren, und fragen Sie die Führer nach den hier gezüchteten Rassen.",
+            "hu": "Fedezze fel a tekintélyes nemzeti ménest, ahol megismerheti a helyi lovas örökséget, és kérdezze az idegenvezetőket az itt tenyésztett fajtákról.",
+            "ro": "Descoperiți prestigioasa herghelie națională pentru a afla despre moștenirea ecvestră locală și întrebați ghizii despre rasele specifice crescute aici.",
+            "en": "Discover the prestigious national stud farm to learn about local equestrian heritage, and ask the guides about the specific breeds raised here."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de l'Isle Briand",
+            "hu": "Château de l'Isle Briand",
+            "ro": "Château de l'Isle Briand",
+            "en": "Château de l'Isle Briand"
+          },
+          "coords": [
+            -0.69607,
+            47.621928
+          ],
+          "category": "castle",
+          "arrive_at": "14:21",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Spazieren Sie um die Außenseite dieses wunderschönen Schlosses auf dem Anwesen herum und entspannen Sie sich auf den nahegelegenen Rasenflächen.",
+            "hu": "Sétáljon körbe ezen a birtokon megbúvó gyönyörű kastélyon, és szakítson időt egy kis pihenésre a közeli pázsiton egy tökéletes délutáni szünethez.",
+            "ro": "Plimbați-vă prin exteriorul acestui frumos castel cuibărit în domeniu, făcându-vă timp să vă relaxați pe peluzele din apropiere pentru o pauză perfectă.",
+            "en": "Wander around the exterior of this beautiful chateau nestled in the estate, taking time to relax on the nearby lawns for a perfect afternoon break."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im Herzen von Le Lion-d'Angers am Rathaus und nehmen Sie die friedliche Stimmung auf. Ein kurzer Spaziergang führt Sie zur historischen Kirche Saint-Martin, einem perfekten Ort zum Nachdenken. Die Luft ist frisch und die Straßen sind ruhig.\n\nGegen Mittag verlagert sich Ihr Fokus auf die reiterliche Seele der Stadt mit einem Besuch des berühmten Hippodroms. Ein Spaziergang um die Bahnen macht Appetit. Danach bietet der weitläufige Isle Briand Park die Umarmung der Natur, ideal für eine Pause.\n\nDer Nachmittag ist der reichen Pferdegeschichte der Region im Haras national de l'Isle Briand gewidmet. Hier können Sie das Erbe der französischen Pferdezucht in einer atemberaubenden Umgebung tief würdigen. Die majestätische Umgebung hinterlässt einen bleibenden Eindruck.\n\nBeenden Sie Ihren Rundgang am Château de l'Isle Briand, das nur einen Steinwurf entfernt ist. Das späte Nachmittagslicht beleuchtet die Burgmauern perfekt und bietet einen unvergesslichen und entspannenden Abschluss eines Tages inmitten des lokalen Erbes.",
+        "hu": "Kezdje a reggelt Le Lion-d'Angers szívében, a városházánál, és szívja magába a békés hangulatot. Egy nagyon rövid séta elvezeti a történelmi Saint-Martin templomhoz, amely tökéletes hely az elmélkedésre. A levegő friss és az utcák csendesek.\n\nAhogy közeledik a dél, fókuszáljon a város lovas lelkére, és látogasson el a híres Hippodrome-ba. A pályák körüli séta meghozza az étvágyat. Ezután a kiterjedt Isle Briand Park a természet ölelését kínálja, amely ideális egy nyugodt szünethez.\n\nA délutánt a régió gazdag lovas történelmének szenteljük a Haras national de l'Isle Briand-ban. Itt igazán értékelheti a francia lótenyésztés örökségét egy lenyűgöző környezetben. A fenséges környezet maradandó benyomást kelt.\n\nZárja gyalogtúráját a Château de l'Isle Briand-nál, amely csak egy kőhajításnyira van. A késő délutáni fény tökéletesen megvilágítja a kastély falait, emlékezetes és pihentető befejezést kínálva egy, a helyi örökségben elmerülő napnak.",
+        "ro": "Începeți dimineața în inima orașului Le Lion-d'Angers la primăria locală, absorbind atmosfera pașnică. O plimbare foarte scurtă vă aduce la biserica istorică Saint-Martin, un loc perfect pentru reflecție. Aerul este proaspăt, iar străzile sunt liniștite.\n\nPe măsură ce se apropie prânzul, schimbați accentul pe sufletul ecvestru al orașului vizitând faimosul Hipodrom. O plimbare în jurul pistelor vă face poftă de mâncare. Apoi, parcul expansiv Isle Briand oferă îmbrățișarea naturii, ideal pentru o pauză senină.\n\nDupă-amiaza este dedicată istoriei ecvestre bogate a regiunii la Haras national de l'Isle Briand. Aici puteți aprecia profund moștenirea creșterii cailor francezi într-un cadru uimitor. Mediul maiestuos lasă o impresie de durată.\n\nÎncheiați-vă turul pe jos la Château de l'Isle Briand, aflat la doar o aruncătură de băț. Lumina după-amiezii târzii iluminează perfect zidurile castelului, oferind un final memorabil și relaxant unei zile complet cufundate în moștenirea locală.",
+        "en": "Start your morning in the heart of Le Lion-d'Angers at the local town hall, absorbing the peaceful morning vibe. A very short stroll brings you to the historic Saint-Martin Church, a perfect place to reflect. The air is fresh and the streets are quiet.\n\nAs midday approaches, shift your focus to the equestrian soul of the town by visiting the famous Hippodrome. Enjoying a walk around the tracks builds an appetite. Next, the expansive Isle Briand Park offers nature's embrace, ideal for a serene break.\n\nThe afternoon is dedicated to the region's rich equine history at the Haras national de l'Isle Briand. Here you can deeply appreciate the heritage of French horse breeding in a stunning setting. The majestic environment leaves a lasting impression.\n\nConclude your walking tour at the Château de l'Isle Briand, just a stone's throw away. The late afternoon light perfectly illuminates the castle walls, offering a memorable and relaxing end to a day fully immersed in the local heritage."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:57",
+      "total_km": 3.86,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Martin",
+            "hu": "Saint-Martin templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            -0.713245,
+            47.62809
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betreten Sie diese historische Kirche, um ihre friedliche Atmosphäre zu genießen, aber prüfen Sie vorher die Besuchszeiten am Aushang.",
+            "hu": "Lépjen be ebbe a történelmi templomba, hogy élvezze annak békés légkörét, de mindenképpen ellenőrizze a hirdetőtáblán a látogatási időket.",
+            "ro": "Intrați în această biserică istorică pentru a-i aprecia atmosfera pașnică, dar asigurați-vă că verificați orarul de vizitare pentru a nu întrerupe slujbele.",
+            "en": "Step inside this historic church to appreciate its peaceful atmosphere, but be sure to check the notice board for visiting hours to avoid interrupting services."
+          }
+        },
+        {
+          "name": {
+            "de": "Hippodrome du Lion d'Angers",
+            "hu": "Hippodrome du Lion d'Angers",
+            "ro": "Hippodrome du Lion d'Angers",
+            "en": "Hippodrome du Lion d'Angers"
+          },
+          "coords": [
+            -0.708056,
+            47.628056
+          ],
+          "category": "recreational",
+          "arrive_at": "09:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.39,
+          "tip_5lang": {
+            "de": "Erkunden Sie eine der berühmtesten Pferderennbahnen Frankreichs und versuchen Sie, an einem Trainingstag vorbeizuschauen, um die Pferde in Aktion zu sehen.",
+            "hu": "Fedezze fel Franciaország egyik leghíresebb lóversenypályáját egy séta keretében, és próbáljon meg egy edzésnapon érkezni, hogy lássa a lovakat mozgás közben.",
+            "ro": "Explorați unul dintre cele mai faimoase hipodromuri din Franța plimbându-vă pe perimetru și încercați să vizitați într-o zi de antrenament pentru a vedea caii.",
+            "en": "Explore one of France's most famous racecourses by walking around the perimeter, and try visiting on a training day to see the horses in action."
+          }
+        },
+        {
+          "name": {
+            "de": "Haras national de l'Isle Briand",
+            "hu": "Haras national de l'Isle Briand",
+            "ro": "Haras national de l'Isle Briand",
+            "en": "Haras national de l'Isle Briand"
+          },
+          "coords": [
+            -0.697966,
+            47.623874
+          ],
+          "category": "historical",
+          "arrive_at": "11:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.88,
+          "tip_5lang": {
+            "de": "Entdecken Sie das angesehene Nationalgestüt, um mehr über das lokale Pferdeerbe zu erfahren, und fragen Sie die Führer nach den hier gezüchteten Rassen.",
+            "hu": "Fedezze fel a tekintélyes nemzeti ménest, ahol megismerheti a helyi lovas örökséget, és kérdezze az idegenvezetőket az itt tenyésztett fajtákról.",
+            "ro": "Descoperiți prestigioasa herghelie națională pentru a afla despre moștenirea ecvestră locală și întrebați ghizii despre rasele specifice crescute aici.",
+            "en": "Discover the prestigious national stud farm to learn about local equestrian heritage, and ask the guides about the specific breeds raised here."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de l'Isle Briand",
+            "hu": "Château de l'Isle Briand",
+            "ro": "Château de l'Isle Briand",
+            "en": "Château de l'Isle Briand"
+          },
+          "coords": [
+            -0.69607,
+            47.621928
+          ],
+          "category": "castle",
+          "arrive_at": "12:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Spazieren Sie um die Außenseite dieses wunderschönen Schlosses auf dem Anwesen herum und entspannen Sie sich auf den nahegelegenen Rasenflächen.",
+            "hu": "Sétáljon körbe ezen a birtokon megbúvó gyönyörű kastélyon, és szakítson időt egy kis pihenésre a közeli pázsiton egy tökéletes délutáni szünethez.",
+            "ro": "Plimbați-vă prin exteriorul acestui frumos castel cuibărit în domeniu, făcându-vă timp să vă relaxați pe peluzele din apropiere pentru o pauză perfectă.",
+            "en": "Wander around the exterior of this beautiful chateau nestled in the estate, taking time to relax on the nearby lawns for a perfect afternoon break."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de l'Hommeau",
+            "hu": "Château de l'Hommeau",
+            "ro": "Château de l'Hommeau",
+            "en": "Château de l'Hommeau"
+          },
+          "coords": [
+            -0.721271,
+            47.634212
+          ],
+          "category": "castle",
+          "arrive_at": "14:07",
+          "stay_min": 110,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.33,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische ländliche Architektur dieses historischen Schlosses von den zugänglichen Aussichtspunkten aus, da das Gelände privat ist.",
+            "hu": "Csodálja meg a történelmi kastély klasszikus vidéki építészetét a hozzáférhető kilátópontokról, mivel a magánterület miatt tisztes távolságot kell tartani.",
+            "ro": "Admirați arhitectura rurală clasică a acestui castel istoric din punctele de belvedere accesibile, deoarece terenurile private pot necesita păstrarea distanței.",
+            "en": "Admire the classic rural architecture of this historical castle from the accessible viewpoints, as private grounds may require viewing from a respectful distance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag an der Kirche Saint-Martin und genießen Sie die morgendliche Ruhe, bevor Sie sich aufs Rad schwingen. Eine kurze Fahrt bringt Sie direkt zum Hippodrom, wo Sie das Gelände umrunden und die offene Atmosphäre der Rennbahn auf sich wirken lassen können.\n\nMittags erreichen Sie das üppige Gelände des Haras national de l'Isle Briand. Das Radfahren durch die Wege des Anwesens ist eine Freude und ermöglicht es Ihnen, das riesige Gestüt leicht zu erkunden. Nehmen Sie sich Zeit, die frische Luft und die schöne Landschaft zu genießen.\n\nNachdem Sie die Reitanlagen erkundet haben, radeln Sie zum nahe gelegenen Château de l'Isle Briand. Die wunderschöne Architektur bietet eine fantastische Kulisse, während Sie sich ausruhen. Die flachen Wege machen das Radfahren mühelos und sehr angenehm.\n\nMachen Sie sich auf dem letzten Stück auf eine malerische Fahrt zum Château de l'Hommeau. Die wechselnde Landschaft von der Stadt aufs Land ist erfrischend. Die Sonnenuntergangsfarben über diesem historischen ländlichen Schloss bieten einen perfekten, ruhigen Abschluss.",
+        "hu": "Kezdje a kerékpáros napot a Saint-Martin templomnál, élvezve a reggeli nyugalmat, mielőtt nyeregbe pattan. Egy gyors út egyenesen a Hippodrome-hoz visz, ahol körbetekerheti a területet, és magába szívhatja a versenypálya nyitott atmoszféráját.\n\nDélben a Haras national de l'Isle Briand buja területére érkezik. A birtok ösvényein való kerékpározás öröm, és lehetővé teszi a hatalmas ménes könnyű felfedezését. Szánjon időt a friss levegő és a gyönyörű táj élvezetére az út során.\n\nA lovas létesítmények felfedezése után tekerjen át a közeli Château de l'Isle Briand-hoz. A gyönyörű építészet fantasztikus hátteret biztosít a pihenéshez és feltöltődéshez. A sík ösvények a kerékpározást erőfeszítés nélkülivé és élvezetessé teszik.\n\nAz utolsó szakaszon tegyen egy festői utazást a Château de l'Hommeau felé. A városból a vidékre változó táj frissítő. A naplemente színeinek megfigyelése e történelmi vidéki kastély felett tökéletes, nyugodt befejezést nyújt az aktív napnak.",
+        "ro": "Începeți-vă ziua de ciclism la Biserica Saint-Martin, bucurându-vă de liniștea dimineții înainte de a urca pe bicicletă. O plimbare rapidă vă duce direct la Hipodrom, unde puteți pedala pe perimetru și vă puteți bucura de atmosfera deschisă a hipodromului.\n\nLa prânz ajungeți pe terenurile luxuriante ale Haras national de l'Isle Briand. Ciclismul pe aleile domeniului este o bucurie, permițându-vă să explorați cu ușurință vasta herghelie. Făceți-vă timp pentru a vă bucura de aerul curat și de peisajele frumoase.\n\nDupă explorarea facilităților ecvestre, pedalați spre Château de l'Isle Briand din apropiere. Arhitectura frumoasă oferă un fundal fantastic în timp ce vă odihniți și vă reîncărcați. Cărările plate fac ciclismul fără efort și extrem de plăcut.\n\nPentru ultima etapă, faceți o plimbare pitorească până la Château de l'Hommeau. Peisajul în schimbare de la oraș la mediul rural este revigorant. Privind nuanțele apusului de soare peste acest castel rural istoric oferă un final perfect și senin.",
+        "en": "Kick off your cycling day at the Saint-Martin Church, enjoying the morning tranquility before hopping on your bike. A quick ride takes you straight to the Hippodrome, where you can cycle around the perimeter and soak in the expansive, open atmosphere of the racecourse.\n\nMidday brings you to the lush grounds of the Haras national de l'Isle Briand. Cycling through the estate paths is a joy, allowing you to easily explore the vast stud farm. Take your time to enjoy the crisp air and beautiful scenery along the way.\n\nAfter exploring the equestrian facilities, pedal over to the nearby Château de l'Isle Briand. The beautiful architecture makes for a fantastic backdrop as you rest and recharge. The flat paths make the cycling effortless and highly enjoyable.\n\nFor the final stretch, take a scenic ride out to the Château de l'Hommeau. The changing landscape from town to countryside is refreshing. Watching the sunset hues over this historic rural castle provides a perfect, serene finish to your active day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 6.46,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Château de l'Hommeau",
+            "hu": "Château de l'Hommeau",
+            "ro": "Château de l'Hommeau",
+            "en": "Château de l'Hommeau"
+          },
+          "coords": [
+            -0.721271,
+            47.634212
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische ländliche Architektur dieses historischen Schlosses von den zugänglichen Aussichtspunkten aus, da das Gelände privat ist.",
+            "hu": "Csodálja meg a történelmi kastély klasszikus vidéki építészetét a hozzáférhető kilátópontokról, mivel a magánterület miatt tisztes távolságot kell tartani.",
+            "ro": "Admirați arhitectura rurală clasică a acestui castel istoric din punctele de belvedere accesibile, deoarece terenurile private pot necesita păstrarea distanței.",
+            "en": "Admire the classic rural architecture of this historical castle from the accessible viewpoints, as private grounds may require viewing from a respectful distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Martin",
+            "hu": "Saint-Martin templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            -0.713245,
+            47.62809
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.91,
+          "tip_5lang": {
+            "de": "Betreten Sie diese historische Kirche, um ihre friedliche Atmosphäre zu genießen, aber prüfen Sie vorher die Besuchszeiten am Aushang.",
+            "hu": "Lépjen be ebbe a történelmi templomba, hogy élvezze annak békés légkörét, de mindenképpen ellenőrizze a hirdetőtáblán a látogatási időket.",
+            "ro": "Intrați în această biserică istorică pentru a-i aprecia atmosfera pașnică, dar asigurați-vă că verificați orarul de vizitare pentru a nu întrerupe slujbele.",
+            "en": "Step inside this historic church to appreciate its peaceful atmosphere, but be sure to check the notice board for visiting hours to avoid interrupting services."
+          }
+        },
+        {
+          "name": {
+            "de": "Haras national de l'Isle Briand",
+            "hu": "Haras national de l'Isle Briand",
+            "ro": "Haras national de l'Isle Briand",
+            "en": "Haras national de l'Isle Briand"
+          },
+          "coords": [
+            -0.697966,
+            47.623874
+          ],
+          "category": "historical",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.24,
+          "tip_5lang": {
+            "de": "Entdecken Sie das angesehene Nationalgestüt, um mehr über das lokale Pferdeerbe zu erfahren, und fragen Sie die Führer nach den hier gezüchteten Rassen.",
+            "hu": "Fedezze fel a tekintélyes nemzeti ménest, ahol megismerheti a helyi lovas örökséget, és kérdezze az idegenvezetőket az itt tenyésztett fajtákról.",
+            "ro": "Descoperiți prestigioasa herghelie națională pentru a afla despre moștenirea ecvestră locală și întrebați ghizii despre rasele specifice crescute aici.",
+            "en": "Discover the prestigious national stud farm to learn about local equestrian heritage, and ask the guides about the specific breeds raised here."
+          }
+        },
+        {
+          "name": {
+            "de": "Mairie de Montreuil-sur-Maine",
+            "hu": "Mairie de Montreuil-sur-Maine",
+            "ro": "Mairie de Montreuil-sur-Maine",
+            "en": "Mairie de Montreuil-sur-Maine"
+          },
+          "coords": [
+            -0.698276,
+            47.648967
+          ],
+          "category": "landmark",
+          "arrive_at": "12:41",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.78,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem malerischen Rathaus, das ein großartiger Ausgangspunkt für die Erkundung des Nachbardorfs ist, und prüfen Sie die lokale Karte draußen.",
+            "hu": "Álljon meg ennél a festői városházánál, amely kiváló kiindulópont a szomszédos kis falu felfedezéséhez, és nézze meg a kint kihelyezett helyi térképet.",
+            "ro": "Opriți-vă la această primărie pitorească care servește drept un excelent punct de plecare pentru a explora satul vecin și verificați harta locală afișată.",
+            "en": "Stop by this quaint town hall which serves as a great starting point for exploring the smaller neighboring village, and check the local map displayed outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Pierre",
+            "hu": "Saint-Pierre templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            -0.695539,
+            47.649746
+          ],
+          "category": "religious",
+          "arrive_at": "12:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Beachten Sie die charmanten architektonischen Details dieser kleinen Pfarrkirche und besuchen Sie sie am frühen Nachmittag für das beste Licht.",
+            "hu": "Figyelje meg ennek a kis plébániatemplomnak a bájos építészeti részleteit, és látogasson el kora délután, hogy lássa a nap által megvilágított üvegablakokat.",
+            "ro": "Observați detaliile arhitecturale fermecătoare ale acestei mici biserici parohiale și vizitați-o la începutul după-amiezii pentru a vedea vitraliile luminate.",
+            "en": "Notice the charming architectural details of this small parish church, and visit during the early afternoon to see the stained glass illuminated by the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Touche",
+            "hu": "Château de la Touche",
+            "ro": "Château de la Touche",
+            "en": "Château de la Touche"
+          },
+          "coords": [
+            -0.711353,
+            47.654694
+          ],
+          "category": "castle",
+          "arrive_at": "13:40",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.31,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Ausflug mit der Bewunderung dieses prächtigen Schlosses, das für seine malerische Umgebung bekannt ist, und bleiben Sie auf den markierten Wegen.",
+            "hu": "Zárja utazását ennek a festői környezetéről ismert nagyszerű kastélybirtoknak a megcsodálásával, ügyelve arra, hogy a magánélet tiszteletben tartása érdekében a jelzett utakon maradjon.",
+            "ro": "Încheiați-vă călătoria admirând acest grandios domeniu al castelului cunoscut pentru împrejurimile sale, asigurându-vă că rămâneți pe cărările marcate.",
+            "en": "End your trip admiring this grand castle estate known for its picturesque surroundings, making sure to stay on marked public paths to respect privacy."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autoroute am malerischen Château de l'Hommeau, etwas außerhalb des Stadtzentrums. Nachdem Sie seinen rustikalen Charme bewundert haben, fahren Sie ins Herz von Le Lion-d'Angers, um die historische Kirche Saint-Martin zu besuchen, mit Parkplätzen in der Nähe.\n\nFahren Sie zum riesigen Anwesen des Haras national de l'Isle Briand. Mit dem Auto können Sie schnell vom religiösen Erbe der Stadt zu ihrer tief verwurzelten Pferdekultur wechseln, sodass Sie viel Zeit haben, das weitläufige Gelände zu erkunden.\n\nFahren Sie nach Norden in Richtung Montreuil-sur-Maine und halten Sie kurz an der malerischen Mairie. Einen kurzen Sprung entfernt befindet sich die Église Saint-Pierre, wo Sie einen ruhigen Moment genießen und die charmante, traditionelle Architektur bewundern können.\n\nBeenden Sie Ihren Roadtrip am beeindruckenden Château de la Touche. Mit dem Auto ist dieses etwas abgelegene Anwesen leicht zu erreichen. Genießen Sie die friedliche, hügelige Landschaft, während der Tag ausklingt, und denken Sie an eine abwechslungsreiche Tour zurück.",
+        "hu": "Kezdje autós útvonalát a festői Château de l'Hommeau-nál, kissé a városközponton kívül. Miután megcsodálta a rusztikus varázsát, vezessen Le Lion-d'Angers szívébe, hogy meglátogassa a történelmi Saint-Martin templomot, amely a közeli parkolókkal könnyen megközelíthető.\n\nVezessen el a Haras national de l'Isle Briand hatalmas birtokához. Az autó nyújtotta kényelem lehetővé teszi, hogy gyorsan átváltson a város vallási örökségéről a mélyen gyökerező lovaskultúrára, elegendő időt hagyva a kiterjedt terület felfedezésére.\n\nTartson észak felé Montreuil-sur-Maine irányába, és álljon meg röviden a festői Mairie-nél. Egy rövid ugrásra található az Église Saint-Pierre, ahol csendes pillanatokat élvezhet a bájos, hagyományos építészet megcsodálásával.\n\nFejezze be autós utazását a lenyűgöző Château de la Touche-nál. Az autózás megkönnyíti ennek a némileg elszigetelt birtoknak az elérését. Élvezze a békés, dombos vidéki környezetet a nap végén, visszagondolva a régió látnivalóinak változatos túrájára.",
+        "ro": "Începeți-vă itinerariul cu mașina la pitorescul Château de l'Hommeau, ușor în afara centrului orașului. După ce i-ați admirat farmecul rustic, conduceți în inima orașului Le Lion-d'Angers pentru a vizita istorica Biserică Saint-Martin, cu parcare în apropiere.\n\nConduceți până la vastul domeniu al Haras national de l'Isle Briand. Confortul unei mașini vă permite să treceți rapid de la moștenirea religioasă la cultura sa ecvestră, oferindu-vă timp suficient pentru a explora terenurile întinse.\n\nÎndreptați-vă spre nord spre Montreuil-sur-Maine, oprindu-vă scurt la primăria pitorească. La un pas distanță se află Église Saint-Pierre, unde vă puteți bucura de un moment liniștit admirând arhitectura sa fermecătoare, tradițională.\n\nÎncheiați-vă călătoria la impresionantul Château de la Touche. Conducerea face ușor de ajuns la acest domeniu oarecum retras. Bucurați-vă de împrejurimile rurale pașnice pe măsură ce ziua se încheie, reflectând la un tur divers al punctelor de atracție.",
+        "en": "Begin your driving itinerary at the picturesque Château de l'Hommeau, slightly outside the town center. After admiring its rustic charm, drive into the heart of Le Lion-d'Angers to visit the historic Saint-Martin Church, easily accessible with nearby parking available.\n\nDrive down to the vast estate of the Haras national de l'Isle Briand. The convenience of a car allows you to quickly transition from the town's religious heritage to its deep-rooted equestrian culture, giving you ample time to explore the expansive grounds.\n\nHead north towards Montreuil-sur-Maine, stopping briefly at the quaint Mairie to appreciate the local village layout. A short hop away is the Église Saint-Pierre, where you can enjoy a quiet moment admiring its charming, traditional architecture.\n\nFinish your road trip at the impressive Château de la Touche. Driving makes reaching this somewhat secluded estate easy. Enjoy the peaceful, rolling countryside surroundings as the day winds down, reflecting on a diverse tour of the region's highlights."
+      }
+    }
+  }
+}

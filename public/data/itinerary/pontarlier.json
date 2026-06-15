@@ -1,0 +1,474 @@
+{
+  "city_id": "pontarlier",
+  "anchor": {
+    "name": "Pontarlier",
+    "coords": [
+      6.3547,
+      46.9061
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:18",
+      "total_km": 4.15,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Pierre Tor",
+            "hu": "Saint-Pierre kapu",
+            "ro": "Poarta Saint-Pierre",
+            "en": "Saint-Pierre Gate"
+          },
+          "coords": [
+            6.35263,
+            46.9045
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen majestätischen Triumphbogen aus dem 18. Jahrhundert als Symbol der Stadt und machen Sie das beste Foto vom angrenzenden Platz aus.",
+            "hu": "Csodálja meg a 18. századi diadalívet, amely a város szimbóluma, és készítse el a legjobb fotót a szomszédos térről, ahonnan remek a rálátás.",
+            "ro": "Admirați acest arc de triumf maiestuos din secolul al XVIII-lea ca simbol al orașului și faceți cea mai bună fotografie din piața alăturată.",
+            "en": "Admire this majestic 18th-century triumphal arch serving as the city's symbol, and snap the best photo from the adjacent square for optimal lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Bénigne Kirche",
+            "hu": "Saint-Bénigne templom",
+            "ro": "Biserica Saint-Bénigne",
+            "en": "Saint-Bénigne Church"
+          },
+          "coords": [
+            6.353011,
+            46.903737
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die prachtvollen Buntglasfenster dieser Kirche und achten Sie besonders auf die feinen Holzschnitzereien, die oft bei Führungen erklärt werden.",
+            "hu": "Fedezze fel a templom pompás ólomüveg ablakait, és figyeljen a finom fafaragásokra, amelyeket a helyi idegenvezetések során is gyakran kiemelnek.",
+            "ro": "Descoperiți vitraliile magnifice ale acestei biserici și acordați o atenție deosebită sculpturilor fine în lemn, adesea explicate în timpul tururilor.",
+            "en": "Discover the magnificent stained glass windows of this church, paying special attention to the fine wood carvings often highlighted during guided tours."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtisches Museum",
+            "hu": "Városi Múzeum",
+            "ro": "Muzeul Municipal",
+            "en": "Municipal Museum"
+          },
+          "coords": [
+            6.354752,
+            46.904337
+          ],
+          "category": "museum",
+          "arrive_at": "11:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Geschichte des Absinths und der Region ein; beginnen Sie im Erdgeschoss, um die chronologische Entwicklung optimal zu verstehen.",
+            "hu": "Merüljön el az abszint és a régió történelmében; kezdje a földszinten a kiállítást, hogy a legjobban megértse az események időrendi fejlődését.",
+            "ro": "Pătrundeți în istoria absintului și a regiunii; începeți la parter pentru a înțelege pe deplin dezvoltarea cronologică a acestor tradiții locale.",
+            "en": "Dive into the history of absinthe and the region; begin your visit on the ground floor to best understand the chronological development of local traditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Pierre Guy Destillerie",
+            "hu": "Pierre Guy lepárló",
+            "ro": "Distileria Pierre Guy",
+            "en": "Pierre Guy Distillery"
+          },
+          "coords": [
+            6.364433,
+            46.906059
+          ],
+          "category": "culinary",
+          "arrive_at": "13:06",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Probieren Sie den berühmten Absinth in der ältesten Destillerie der Stadt und nehmen Sie eine Flasche als authentisches Souvenir direkt aus dem Shop mit.",
+            "hu": "Kóstolja meg a híres abszintot a város legrégebbi lepárlójában, és vigyen haza egy üveggel autentikus szuvenírként egyenesen a gyári boltból.",
+            "ro": "Degustați celebrul absint în cea mai veche distilerie din oraș și luați o sticlă ca suvenir autentic direct din magazinul fabricii.",
+            "en": "Taste the famous absinthe in the city's oldest distillery and pick up a bottle as an authentic souvenir directly from the on-site factory shop."
+          }
+        },
+        {
+          "name": {
+            "de": "Espérance Kapelle",
+            "hu": "Espérance kápolna",
+            "ro": "Capela Espérance",
+            "en": "Espérance Chapel"
+          },
+          "coords": [
+            6.357053,
+            46.896538
+          ],
+          "category": "religious",
+          "arrive_at": "14:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre dieser hoch gelegenen Kapelle und nutzen Sie die Morgenstunden, um den herrlichen Panoramablick ohne Menschenmassen zu erleben.",
+            "hu": "Élvezze a magasan fekvő kápolna békés hangulatát, és használja ki a reggeli órákat, hogy tömeg nélkül csodálhassa meg a lenyűgöző panorámát.",
+            "ro": "Bucurați-vă de atmosfera pașnică a acestei capele situate la înălțime și profitați de orele dimineții pentru a experimenta priveliștea panoramică fără aglomerație.",
+            "en": "Enjoy the peaceful atmosphere of this elevated chapel and take advantage of the morning hours to experience the sweeping panoramic views without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Ball Park",
+            "hu": "Le Ball Park",
+            "ro": "Le Ball Park",
+            "en": "Le Ball Park"
+          },
+          "coords": [
+            6.341264,
+            46.910488
+          ],
+          "category": "family",
+          "arrive_at": "15:33",
+          "stay_min": 105,
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf den weitläufigen Grünflächen dieses Parks und bringen Sie einen Picknickkorb mit, um die gepflegten Wege und die Natur zu genießen.",
+            "hu": "Pihenjen meg a park tágas zöldterületein, és hozzon magával egy piknikkosarat, hogy kiélvezhesse a gondozott ösvényeket és a természet csendjét.",
+            "ro": "Relaxați-vă pe spațiile verzi întinse ale acestui parc și aduceți un coș de picnic pentru a vă bucura de potecile bine îngrijite și de natura liniștită.",
+            "en": "Relax on the expansive green spaces of this park, bringing along a picnic basket to fully enjoy the well-maintained paths and tranquil nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am historischen Saint-Pierre Tor, bevor Sie die spirituelle Ruhe der Saint-Bénigne Kirche und das spannende Museum erleben.",
+        "hu": "A reggel a történelmi Saint-Pierre kapunál indul, majd felfedezheti a Saint-Bénigne templom nyugalmát és a város izgalmas múzeumát.",
+        "ro": "Dimineața începe la istorica Poartă Saint-Pierre, urmată de liniștea spirituală a Bisericii Saint-Bénigne și de muzeul captivant al orașului.",
+        "en": "The morning begins at the historic Saint-Pierre Gate, followed by the spiritual tranquility of Saint-Bénigne Church and the city's captivating museum."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:12",
+      "total_km": 7.65,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Städtisches Museum",
+            "hu": "Városi Múzeum",
+            "ro": "Muzeul Municipal",
+            "en": "Municipal Museum"
+          },
+          "coords": [
+            6.354752,
+            46.904337
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Geschichte des Absinths und der Region ein; beginnen Sie im Erdgeschoss, um die chronologische Entwicklung optimal zu verstehen.",
+            "hu": "Merüljön el az abszint és a régió történelmében; kezdje a földszinten a kiállítást, hogy a legjobban megértse az események időrendi fejlődését.",
+            "ro": "Pătrundeți în istoria absintului și a regiunii; începeți la parter pentru a înțelege pe deplin dezvoltarea cronologică a acestor tradiții locale.",
+            "en": "Dive into the history of absinthe and the region; begin your visit on the ground floor to best understand the chronological development of local traditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Pierre Tor",
+            "hu": "Saint-Pierre kapu",
+            "ro": "Poarta Saint-Pierre",
+            "en": "Saint-Pierre Gate"
+          },
+          "coords": [
+            6.35263,
+            46.9045
+          ],
+          "category": "historical",
+          "arrive_at": "10:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen majestätischen Triumphbogen aus dem 18. Jahrhundert als Symbol der Stadt und machen Sie das beste Foto vom angrenzenden Platz aus.",
+            "hu": "Csodálja meg a 18. századi diadalívet, amely a város szimbóluma, és készítse el a legjobb fotót a szomszédos térről, ahonnan remek a rálátás.",
+            "ro": "Admirați acest arc de triumf maiestuos din secolul al XVIII-lea ca simbol al orașului și faceți cea mai bună fotografie din piața alăturată.",
+            "en": "Admire this majestic 18th-century triumphal arch serving as the city's symbol, and snap the best photo from the adjacent square for optimal lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Bénigne Kirche",
+            "hu": "Saint-Bénigne templom",
+            "ro": "Biserica Saint-Bénigne",
+            "en": "Saint-Bénigne Church"
+          },
+          "coords": [
+            6.353011,
+            46.903737
+          ],
+          "category": "religious",
+          "arrive_at": "12:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die prachtvollen Buntglasfenster dieser Kirche und achten Sie besonders auf die feinen Holzschnitzereien, die oft bei Führungen erklärt werden.",
+            "hu": "Fedezze fel a templom pompás ólomüveg ablakait, és figyeljen a finom fafaragásokra, amelyeket a helyi idegenvezetések során is gyakran kiemelnek.",
+            "ro": "Descoperiți vitraliile magnifice ale acestei biserici și acordați o atenție deosebită sculpturilor fine în lemn, adesea explicate în timpul tururilor.",
+            "en": "Discover the magnificent stained glass windows of this church, paying special attention to the fine wood carvings often highlighted during guided tours."
+          }
+        },
+        {
+          "name": {
+            "de": "Pierre Guy Destillerie",
+            "hu": "Pierre Guy lepárló",
+            "ro": "Distileria Pierre Guy",
+            "en": "Pierre Guy Distillery"
+          },
+          "coords": [
+            6.364433,
+            46.906059
+          ],
+          "category": "culinary",
+          "arrive_at": "12:57",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Probieren Sie den berühmten Absinth in der ältesten Destillerie der Stadt und nehmen Sie eine Flasche als authentisches Souvenir direkt aus dem Shop mit.",
+            "hu": "Kóstolja meg a híres abszintot a város legrégebbi lepárlójában, és vigyen haza egy üveggel autentikus szuvenírként egyenesen a gyári boltból.",
+            "ro": "Degustați celebrul absint în cea mai veche distilerie din oraș și luați o sticlă ca suvenir autentic direct din magazinul fabricii.",
+            "en": "Taste the famous absinthe in the city's oldest distillery and pick up a bottle as an authentic souvenir directly from the on-site factory shop."
+          }
+        },
+        {
+          "name": {
+            "de": "Clos Sainte Marie",
+            "hu": "Clos Sainte Marie",
+            "ro": "Clos Sainte Marie",
+            "en": "Clos Sainte Marie"
+          },
+          "coords": [
+            6.351729,
+            46.928
+          ],
+          "category": "family",
+          "arrive_at": "14:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Erleben Sie entspannte Momente in diesem idyllischen Rückzugsort und achten Sie auf die saisonalen Blumenbeete, die sich perfekt für Familienfotos eignen.",
+            "hu": "Töltsön el néhány pihentető pillanatot ezen az idilli helyen, és figyelje meg a szezonális virágágyásokat, amelyek tökéletes hátteret nyújtanak a családi fotókhoz.",
+            "ro": "Experimentați momente de relaxare în acest refugiu idilic și fiți atenți la straturile de flori de sezon, perfecte pentru fotografiile de familie.",
+            "en": "Experience relaxing moments in this idyllic retreat, looking out for the beautiful seasonal flower beds that provide a perfect backdrop for family photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Ball Park",
+            "hu": "Le Ball Park",
+            "ro": "Le Ball Park",
+            "en": "Le Ball Park"
+          },
+          "coords": [
+            6.341264,
+            46.910488
+          ],
+          "category": "family",
+          "arrive_at": "15:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf den weitläufigen Grünflächen dieses Parks und bringen Sie einen Picknickkorb mit, um die gepflegten Wege und die Natur zu genießen.",
+            "hu": "Pihenjen meg a park tágas zöldterületein, és hozzon magával egy piknikkosarat, hogy kiélvezhesse a gondozott ösvényeket és a természet csendjét.",
+            "ro": "Relaxați-vă pe spațiile verzi întinse ale acestui parc și aduceți un coș de picnic pentru a vă bucura de potecile bine îngrijite și de natura liniștită.",
+            "en": "Relax on the expansive green spaces of this park, bringing along a picnic basket to fully enjoy the well-maintained paths and tranquil nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Espérance Kapelle",
+            "hu": "Espérance kápolna",
+            "ro": "Capela Espérance",
+            "en": "Espérance Chapel"
+          },
+          "coords": [
+            6.357053,
+            46.896538
+          ],
+          "category": "religious",
+          "arrive_at": "17:02",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre dieser hoch gelegenen Kapelle und nutzen Sie die Morgenstunden, um den herrlichen Panoramablick ohne Menschenmassen zu erleben.",
+            "hu": "Élvezze a magasan fekvő kápolna békés hangulatát, és használja ki a reggeli órákat, hogy tömeg nélkül csodálhassa meg a lenyűgöző panorámát.",
+            "ro": "Bucurați-vă de atmosfera pașnică a acestei capele situate la înălțime și profitați de orele dimineții pentru a experimenta priveliștea panoramică fără aglomerație.",
+            "en": "Enjoy the peaceful atmosphere of this elevated chapel and take advantage of the morning hours to experience the sweeping panoramic views without the crowds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Fahrradabenteuer startet am Museum und führt Sie anschließend durch das historische Zentrum zum imposanten Saint-Pierre Tor und der nahen Kirche.",
+        "hu": "Kerékpáros kalandja a múzeumnál kezdődik, majd a történelmi központon keresztül az impozáns Saint-Pierre kapuhoz és a közeli templomhoz vezet.",
+        "ro": "Aventura pe bicicletă începe la muzeu, ducându-vă prin centrul istoric până la impunătoarea Poartă Saint-Pierre și biserica din apropiere.",
+        "en": "Your cycling adventure starts at the museum, taking you through the historic center to the imposing Saint-Pierre Gate and the nearby church."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:52",
+      "total_km": 19.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Städtisches Museum",
+            "hu": "Városi Múzeum",
+            "ro": "Muzeul Municipal",
+            "en": "Municipal Museum"
+          },
+          "coords": [
+            6.354752,
+            46.904337
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Geschichte des Absinths und der Region ein; beginnen Sie im Erdgeschoss, um die chronologische Entwicklung optimal zu verstehen.",
+            "hu": "Merüljön el az abszint és a régió történelmében; kezdje a földszinten a kiállítást, hogy a legjobban megértse az események időrendi fejlődését.",
+            "ro": "Pătrundeți în istoria absintului și a regiunii; începeți la parter pentru a înțelege pe deplin dezvoltarea cronologică a acestor tradiții locale.",
+            "en": "Dive into the history of absinthe and the region; begin your visit on the ground floor to best understand the chronological development of local traditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Pierre Guy Destillerie",
+            "hu": "Pierre Guy lepárló",
+            "ro": "Distileria Pierre Guy",
+            "en": "Pierre Guy Distillery"
+          },
+          "coords": [
+            6.364433,
+            46.906059
+          ],
+          "category": "culinary",
+          "arrive_at": "10:52",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Probieren Sie den berühmten Absinth in der ältesten Destillerie der Stadt und nehmen Sie eine Flasche als authentisches Souvenir direkt aus dem Shop mit.",
+            "hu": "Kóstolja meg a híres abszintot a város legrégebbi lepárlójában, és vigyen haza egy üveggel autentikus szuvenírként egyenesen a gyári boltból.",
+            "ro": "Degustați celebrul absint în cea mai veche distilerie din oraș și luați o sticlă ca suvenir autentic direct din magazinul fabricii.",
+            "en": "Taste the famous absinthe in the city's oldest distillery and pick up a bottle as an authentic souvenir directly from the on-site factory shop."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort de Joux",
+            "hu": "Fort de Joux",
+            "ro": "Fort de Joux",
+            "en": "Fort de Joux"
+          },
+          "coords": [
+            6.3742,
+            46.8725
+          ],
+          "category": "fortress",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Verteidigungsanlagen dieser imposanten Bergfestung und ziehen Sie bequeme Schuhe an, da die Wege steil und uneben sind.",
+            "hu": "Fedezze fel ennek az impozáns hegyi erődnek a lenyűgöző védelmi rendszereit, és viseljen kényelmes cipőt, mivel az ösvények meredekek és egyenetlenek.",
+            "ro": "Explorați apărările fascinante ale acestei cetăți montane impunătoare și purtați încălțăminte confortabilă, deoarece potecile sunt destul de abrupte și inegale.",
+            "en": "Explore the fascinating defenses of this imposing mountain fortress, ensuring you wear comfortable shoes as the pathways can be steep and uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Larmont",
+            "hu": "Le Larmont",
+            "ro": "Le Larmont",
+            "en": "Le Larmont"
+          },
+          "coords": [
+            6.401389,
+            46.898889
+          ],
+          "category": "natural",
+          "arrive_at": "13:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die unberührte Natur auf diesem Bergrücken und bringen Sie eine windfeste Jacke mit, da es auf dem Gipfel oft unerwartet kühl werden kann.",
+            "hu": "Élvezze az érintetlen természetet ezen a hegyháton, és hozzon magával széldzsekit, mivel a csúcson gyakran váratlanul hűvösre fordulhat az idő.",
+            "ro": "Bucurați-vă de natura neatinsă de pe această creastă a muntelui și aduceți o jachetă rezistentă la vânt, deoarece vârful poate fi adesea neașteptat de rece.",
+            "en": "Enjoy the untouched nature on this mountain ridge, and be sure to bring a windproof jacket as the summit can often become unexpectedly chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de Saint-Point",
+            "hu": "Lac de Saint-Point",
+            "ro": "Lac de Saint-Point",
+            "en": "Lac de Saint-Point"
+          },
+          "coords": [
+            6.313541,
+            46.815132
+          ],
+          "category": "natural",
+          "arrive_at": "15:07",
+          "stay_min": 105,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 11.4,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an den ruhigen Ufern dieses Sees ausklingen und mieten Sie ein kleines Boot bei Sonnenuntergang für ein unvergessliches Urlaubserlebnis.",
+            "hu": "Zárja a napot a tó nyugodt partjainál, és béreljen egy kis csónakot naplementekor egy igazán felejthetetlen és romantikus nyaralási élményért.",
+            "ro": "Încheiați-vă ziua pe malurile liniștite ale acestui lac și închiriați o barcă mică la apus pentru o experiență de vacanță cu adevărat de neuitat.",
+            "en": "Unwind by the tranquil shores of this picturesque lake, and consider renting a small boat at sunset for a truly unforgettable and relaxing holiday experience."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag im städtischen Museum, um die reiche Geschichte zu verstehen, gefolgt von einer authentischen Absinth-Verkostung in der Stadt.",
+        "hu": "Kezdje a napot a városi múzeumban, hogy megértse a gazdag történelmet, majd vegyen részt egy autentikus abszint kóstolón a belvárosban.",
+        "ro": "Începeți ziua la muzeul municipal pentru a înțelege istoria bogată, urmată de o degustare autentică de absint în centrul orașului.",
+        "en": "Start your day at the municipal museum to understand the rich history, followed by an authentic absinthe tasting experience in the city center."
+      }
+    }
+  }
+}

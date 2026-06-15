@@ -1,0 +1,451 @@
+{
+  "city_id": "italy-faenza-cities-v2",
+  "anchor": {
+    "name": "Faenza",
+    "coords": [
+      11.883333,
+      44.285556
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:19",
+      "total_km": 1.59,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cattedrale di San Pietro Apostolo",
+            "hu": "Cattedrale di San Pietro Apostolo",
+            "ro": "Cattedrale di San Pietro Apostolo",
+            "en": "Cattedrale di San Pietro Apostolo"
+          },
+          "coords": [
+            11.884474,
+            44.285826
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Renaissance-Architektur dieser Kathedrale und werfen Sie einen Blick auf die unvollendete Fassade, bevor Sie die Kunstwerke im Inneren sehen.",
+            "hu": "Csodálja meg a fenséges katedrális lenyűgöző reneszánsz építészetét, és szánjon egy percet a befejezetlen homlokzatára, mielőtt belépne a csodás műalkotásokhoz.",
+            "ro": "Admirați arhitectura renascentistă izbitoare a acestei catedrale maiestuoase și observați fațada sa neterminată înainte de a intra pentru a vedea operele de artă uimitoare.",
+            "en": "Admire the striking Renaissance architecture of this majestic cathedral and take a moment to look at its unfinished facade before entering to see the stunning artworks inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatri Comunale Angelo Masini",
+            "hu": "Teatri Comunale Angelo Masini",
+            "ro": "Teatri Comunale Angelo Masini",
+            "en": "Teatri Comunale Angelo Masini"
+          },
+          "coords": [
+            11.882089,
+            44.285545
+          ],
+          "category": "cultural",
+          "arrive_at": "10:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Erleben Sie das elegante neoklassizistische Innere dieses historischen Theaters, ein Juwel des kulturellen Lebens, und informieren Sie sich frühzeitig über Abendvorstellungen.",
+            "hu": "Tapasztalja meg ennek a történelmi színháznak az elegáns neoklasszikus belső terét, a kulturális élet gyöngyszemét, és érdeklődjön korán az esti előadások jegyeiről.",
+            "ro": "Experimentați interiorul neoclasic elegant al acestui teatru istoric, o adevărată bijuterie a vieții culturale din Faenza, și verificați din timp biletele pentru spectacole.",
+            "en": "Experience the elegant neoclassical interior of this historic theater, a true gem of Faenza's cultural life, and check the box office early for any upcoming evening performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Sant'Antonio",
+            "hu": "Chiesa di Sant'Antonio",
+            "ro": "Chiesa di Sant'Antonio",
+            "en": "Chiesa di Sant'Antonio"
+          },
+          "coords": [
+            11.87924,
+            44.284843
+          ],
+          "category": "religious",
+          "arrive_at": "11:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Treten Sie in diese ruhige Kirche ein, um ihre friedliche Atmosphäre und zarten Fresken zu schätzen, die einen perfekten Moment der Besinnung abseits der Hauptstraßen bieten.",
+            "hu": "Lépjen be ebbe a csendes templomba, hogy élvezze békés hangulatát és finom freskóit, amelyek tökéletes pillanatot nyújtanak az elmélkedésre a forgalmas főutcáktól távol.",
+            "ro": "Pășiți în această biserică liniștită pentru a aprecia atmosfera sa pașnică și frescele delicate, oferind un moment perfect de reflecție departe de străzile principale aglomerate.",
+            "en": "Step into this quiet church to appreciate its peaceful atmosphere and delicate frescoes, offering a perfect moment of reflection away from the busy main streets of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Domenico",
+            "hu": "Chiesa di San Domenico",
+            "ro": "Chiesa di San Domenico",
+            "en": "Chiesa di San Domenico"
+          },
+          "coords": [
+            11.878995,
+            44.289443
+          ],
+          "category": "religious",
+          "arrive_at": "12:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.51,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte dieser alten Kirche, die für ihren großen Altar bekannt ist, und gehen Sie langsam durch die Gänge, um die komplizierten Details zu erfassen.",
+            "hu": "Fedezze fel ezen ősi, hatalmas oltáráról híres templom falai között rejlő gazdag történelmet, és sétáljon lassan, hogy teljesen magába szívhassa a bonyolult részleteket.",
+            "ro": "Descoperiți istoria bogată ascunsă între pereții acestei biserici antice, renumită pentru altarul său grandios, și mergeți încet pentru a absorbi complet detaliile complicate.",
+            "en": "Discover the rich history hidden within the walls of this ancient church, famous for its grand altar, and be sure to walk slowly to fully absorb the intricate details."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Internazionale delle Ceramiche in Faenza",
+            "hu": "Museo Internazionale delle Ceramiche in Faenza",
+            "ro": "Museo Internazionale delle Ceramiche in Faenza",
+            "en": "Museo Internazionale delle Ceramiche in Faenza"
+          },
+          "coords": [
+            11.881059,
+            44.289471
+          ],
+          "category": "museum",
+          "arrive_at": "13:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Erkunden Sie eine der weltweit wichtigsten Sammlungen der Keramikkunst aus vielen Jahrhunderten und planen Sie mindestens eine Stunde ein, um die Majolika zu würdigen.",
+            "hu": "Fedezze fel a világ egyik legfontosabb, évszázadokat átívelő kerámiaművészeti gyűjteményét, és szánjon rá legalább egy órát, hogy igazán értékelje a finom majolikákat.",
+            "ro": "Explorați una dintre cele mai importante colecții de artă ceramică din lume, întinsă pe secole, și dedicați cel puțin o oră aici pentru a aprecia pe deplin piesele de majolică.",
+            "en": "Explore one of the world's most important collections of ceramic art spanning centuries, and dedicate at least an hour here to fully appreciate the delicate majolica pieces."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Francesco",
+            "hu": "Chiesa di San Francesco",
+            "ro": "Chiesa di San Francesco",
+            "en": "Chiesa di San Francesco"
+          },
+          "coords": [
+            11.886839,
+            44.287897
+          ],
+          "category": "religious",
+          "arrive_at": "15:09",
+          "stay_min": 70,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.49,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese Kirche, um ihre schönen gotischen Elemente und beeindruckenden Statuen zu bewundern, und achten Sie besonders auf die kleinen Seitenkapellen im Hauptschiff.",
+            "hu": "Látogasson el ebbe a derűs templomba, hogy megcsodálja gótikus elemeit és szobrait, figyelve a főhajó mentén elhelyezkedő bájos kis oldalkápolnák lenyűgöző részleteire.",
+            "ro": "Vizitați această biserică senină pentru a vă minuna de elementele sale gotice și statuile impresionante, fiind atenți la micile și fermecătoarele capele laterale de pe naos.",
+            "en": "Visit this serene church to marvel at its beautiful Gothic elements and impressive statues, keeping an eye out for the charming little side chapels along the main nave."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen in Faenza beginnt mit der beeindruckenden Kathedrale und einem Besuch im historischen Masini-Theater. Mittags schlendern Sie durch die Straßen zu den ruhigen Kirchen Sant'Antonio und San Domenico. Am Nachmittag tauchen Sie in das weltberühmte Keramikmuseum ein. Ihr Abend endet friedlich mit den wunderschönen gotischen Details von San Francesco im Stadtzentrum.",
+        "hu": "A reggel Faenzában a lenyűgöző katedrálissal és a Masini Színház meglátogatásával kezdődik. Délben a bájos utcák a Sant'Antonio és San Domenico csendes templomaihoz vezetnek. Délután merüljön el a világhírű Nemzetközi Kerámia Múzeumban. Az este békésen zárul a San Francesco gyönyörű gótikus részleteivel a városközpont szívében.",
+        "ro": "Dimineața în Faenza începe cu uimitoarea Catedrală și o vizită la Teatrul Masini. La prânz, străzile fermecătoare vă conduc spre bisericile liniștite Sant'Antonio și San Domenico. După-amiaza, pătrundeți în faimosul Muzeu Internațional al Ceramicii. Seara dumneavoastră se încheie pașnic cu frumoasele detalii gotice de la San Francesco, în centrul orașului.",
+        "en": "Morning in Faenza begins with the stunning Cathedral and a visit to the historic Masini Theater. Midday brings you through the charming streets to the quiet churches of Sant'Antonio and San Domenico. In the afternoon, dive deep into the world-famous International Museum of Ceramics. Your evening concludes peacefully with the beautiful Gothic details of San Francesco in the city center."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:37",
+      "total_km": 3.87,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cattedrale di San Pietro Apostolo",
+            "hu": "Cattedrale di San Pietro Apostolo",
+            "ro": "Cattedrale di San Pietro Apostolo",
+            "en": "Cattedrale di San Pietro Apostolo"
+          },
+          "coords": [
+            11.884474,
+            44.285826
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Renaissance-Architektur dieser Kathedrale und werfen Sie einen Blick auf die unvollendete Fassade, bevor Sie die Kunstwerke im Inneren sehen.",
+            "hu": "Csodálja meg a fenséges katedrális lenyűgöző reneszánsz építészetét, és szánjon egy percet a befejezetlen homlokzatára, mielőtt belépne a csodás műalkotásokhoz.",
+            "ro": "Admirați arhitectura renascentistă izbitoare a acestei catedrale maiestuoase și observați fațada sa neterminată înainte de a intra pentru a vedea operele de artă uimitoare.",
+            "en": "Admire the striking Renaissance architecture of this majestic cathedral and take a moment to look at its unfinished facade before entering to see the stunning artworks inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa della Commenda",
+            "hu": "Chiesa della Commenda",
+            "ro": "Chiesa della Commenda",
+            "en": "Chiesa della Commenda"
+          },
+          "coords": [
+            11.893268,
+            44.281637
+          ],
+          "category": "religious",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.84,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Freskenzyklen der Renaissance in dieser historisch bedeutsamen Kirche, die als ruhiger Rückzugsort etwas außerhalb der geschäftigen Innenstadt liegt.",
+            "hu": "Csodálja meg a gyönyörű reneszánsz freskóciklusokat ebben a történelmileg jelentős templomban, amely csendes menedékként szolgál kissé a nyüzsgő belvárosi magon kívül.",
+            "ro": "Minunați-vă de frumoasele cicluri de fresce renascentiste din această biserică semnificativă istoric, care stă ca o retragere liniștită puțin în afara centrului aglomerat.",
+            "en": "Marvel at the beautiful Renaissance fresco cycles in this historically significant church, which stands as a quiet retreat slightly outside the immediate bustling downtown core."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa dei Santi Ippolito e Lorenzo",
+            "hu": "Chiesa dei Santi Ippolito e Lorenzo",
+            "ro": "Chiesa dei Santi Ippolito e Lorenzo",
+            "en": "Chiesa dei Santi Ippolito e Lorenzo"
+          },
+          "coords": [
+            11.888599,
+            44.286971
+          ],
+          "category": "religious",
+          "arrive_at": "11:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Treten Sie in dieses historische Gotteshaus ein, um seine eleganten architektonischen Linien zu entdecken, und kommen Sie früh an, wenn das Sonnenlicht den Hauptaltar beleuchtet.",
+            "hu": "Lépjen be ebbe a történelmi istentiszteleti helyre, hogy felfedezze elegáns építészeti vonalait, és érkezzen kora reggel, amikor a napfény gyönyörűen megvilágítja a főoltárt.",
+            "ro": "Pășiți în acest lăcaș de cult istoric pentru a descoperi liniile sale arhitecturale elegante, ajungând dimineața devreme când lumina soarelui luminează frumos altarul principal.",
+            "en": "Step inside this historic place of worship to discover its elegant architectural lines, arriving early in the morning when the sunlight beautifully illuminates its main altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Internazionale delle Ceramiche in Faenza",
+            "hu": "Museo Internazionale delle Ceramiche in Faenza",
+            "ro": "Museo Internazionale delle Ceramiche in Faenza",
+            "en": "Museo Internazionale delle Ceramiche in Faenza"
+          },
+          "coords": [
+            11.881059,
+            44.289471
+          ],
+          "category": "museum",
+          "arrive_at": "11:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.66,
+          "tip_5lang": {
+            "de": "Erkunden Sie eine der weltweit wichtigsten Sammlungen der Keramikkunst aus vielen Jahrhunderten und planen Sie mindestens eine Stunde ein, um die Majolika zu würdigen.",
+            "hu": "Fedezze fel a világ egyik legfontosabb, évszázadokat átívelő kerámiaművészeti gyűjteményét, és szánjon rá legalább egy órát, hogy igazán értékelje a finom majolikákat.",
+            "ro": "Explorați una dintre cele mai importante colecții de artă ceramică din lume, întinsă pe secole, și dedicați cel puțin o oră aici pentru a aprecia pe deplin piesele de majolică.",
+            "en": "Explore one of the world's most important collections of ceramic art spanning centuries, and dedicate at least an hour here to fully appreciate the delicate majolica pieces."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Savino",
+            "hu": "Chiesa di San Savino",
+            "ro": "Chiesa di San Savino",
+            "en": "Chiesa di San Savino"
+          },
+          "coords": [
+            11.87315,
+            44.289609
+          ],
+          "category": "religious",
+          "arrive_at": "13:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.63,
+          "tip_5lang": {
+            "de": "Bewundern Sie die strenge, aber faszinierende Fassade dieser lokalen Kirche, die einen Einblick in Faenzas alltägliches spirituelles Leben ohne die üblichen Menschenmassen bietet.",
+            "hu": "Csodálja meg ennek a helyi templomnak a szigorú, mégis magával ragadó homlokzatát, amely bepillantást enged Faenza mindennapi spirituális életébe a nagyobb katedrálisok tömege nélkül.",
+            "ro": "Admirați fațada austeră, dar captivantă a acestei biserici locale, oferind o privire asupra vieții spirituale de zi cu zi a orașului Faenza, fără aglomerația catedralelor mai mari.",
+            "en": "Admire the austere yet captivating facade of this local church, offering a glimpse into Faenza's everyday spiritual life without the usual crowds of the larger cathedrals."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Girolamo all'Osservanza",
+            "hu": "Chiesa di San Girolamo all'Osservanza",
+            "ro": "Chiesa di San Girolamo all'Osservanza",
+            "en": "Chiesa di San Girolamo all'Osservanza"
+          },
+          "coords": [
+            11.871847,
+            44.280256
+          ],
+          "category": "religious",
+          "arrive_at": "14:27",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.04,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen friedlichen religiösen Komplex, der für seine tiefen historischen Wurzeln bekannt ist, und spazieren Sie durch das ruhige Gelände für eine stille Meditation.",
+            "hu": "Fedezze fel ezt a mély történelmi gyökereiről ismert békés vallási komplexumot, és tegyen egy sétát a nyugodt területen egy kis csendes délutáni meditáció céljából.",
+            "ro": "Explorați acest complex religios pașnic, cunoscut pentru rădăcinile sale istorice profunde, și faceți o plimbare prin curtea liniștită pentru o meditație tăcută de după-amiază.",
+            "en": "Explore this peaceful religious complex known for its deep historical roots, and take a moment to stroll around the tranquil grounds for some quiet afternoon meditation."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie durch Faenzas Morgenlicht, beginnend an der Kathedrale, bevor Sie zur historischen Commenda fahren. Mittags geht es zur Kirche Santi Ippolito und zum atemberaubenden Keramikmuseum. Genießen Sie einen aktiven Nachmittag bei der Erkundung des spirituellen San Savino. Beenden Sie den Tag mit einer entspannten Fahrt zum ruhigen San Girolamo all'Osservanza am Abend.",
+        "hu": "Tekerjen át Faenza reggeli fényein, a katedrálistól indulva, majd keletre lovagolva a Commenda templomig. A délidő egy gyors kerékpározást kínál a Santi Ippolito és a Kerámia Múzeum felé. Élvezze az aktív délutánt a San Savino templomának felfedezésével. Zárja a napot egy nyugtató kerékpározással a csendes San Girolamo all'Osservanza komplexumhoz az este közeledtével.",
+        "ro": "Pedalați prin lumina dimineții din Faenza pornind de la Catedrală înainte de a merge spre biserica Commenda. Prânzul oferă o plimbare rapidă spre Santi Ippolito și Muzeul Ceramicii. Bucurați-vă de o după-amiază activă explorând San Savino. Încheiați ziua cu o plimbare liniștitoare către complexul San Girolamo all'Osservanza, pe măsură ce se apropie seara.",
+        "en": "Pedal through Faenza's morning light starting at the grand Cathedral before riding east to the historic Commenda church. Midday offers a swift cycle to Santi Ippolito e Lorenzo and the breathtaking International Ceramics Museum. Enjoy an active afternoon exploring the spiritual San Savino. End the day with a calming ride out to the tranquil San Girolamo all'Osservanza as evening approaches."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:02",
+      "total_km": 7.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cattedrale di San Pietro Apostolo",
+            "hu": "Cattedrale di San Pietro Apostolo",
+            "ro": "Cattedrale di San Pietro Apostolo",
+            "en": "Cattedrale di San Pietro Apostolo"
+          },
+          "coords": [
+            11.884474,
+            44.285826
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Renaissance-Architektur dieser Kathedrale und werfen Sie einen Blick auf die unvollendete Fassade, bevor Sie die Kunstwerke im Inneren sehen.",
+            "hu": "Csodálja meg a fenséges katedrális lenyűgöző reneszánsz építészetét, és szánjon egy percet a befejezetlen homlokzatára, mielőtt belépne a csodás műalkotásokhoz.",
+            "ro": "Admirați arhitectura renascentistă izbitoare a acestei catedrale maiestuoase și observați fațada sa neterminată înainte de a intra pentru a vedea operele de artă uimitoare.",
+            "en": "Admire the striking Renaissance architecture of this majestic cathedral and take a moment to look at its unfinished facade before entering to see the stunning artworks inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Internazionale delle Ceramiche in Faenza",
+            "hu": "Museo Internazionale delle Ceramiche in Faenza",
+            "ro": "Museo Internazionale delle Ceramiche in Faenza",
+            "en": "Museo Internazionale delle Ceramiche in Faenza"
+          },
+          "coords": [
+            11.881059,
+            44.289471
+          ],
+          "category": "museum",
+          "arrive_at": "10:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.49,
+          "tip_5lang": {
+            "de": "Erkunden Sie eine der weltweit wichtigsten Sammlungen der Keramikkunst aus vielen Jahrhunderten und planen Sie mindestens eine Stunde ein, um die Majolika zu würdigen.",
+            "hu": "Fedezze fel a világ egyik legfontosabb, évszázadokat átívelő kerámiaművészeti gyűjteményét, és szánjon rá legalább egy órát, hogy igazán értékelje a finom majolikákat.",
+            "ro": "Explorați una dintre cele mai importante colecții de artă ceramică din lume, întinsă pe secole, și dedicați cel puțin o oră aici pentru a aprecia pe deplin piesele de majolică.",
+            "en": "Explore one of the world's most important collections of ceramic art spanning centuries, and dedicate at least an hour here to fully appreciate the delicate majolica pieces."
+          }
+        },
+        {
+          "name": {
+            "de": "L'altro Mare",
+            "hu": "L'altro Mare",
+            "ro": "L'altro Mare",
+            "en": "L'altro Mare"
+          },
+          "coords": [
+            11.892072,
+            44.304854
+          ],
+          "category": "recreational",
+          "arrive_at": "12:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.93,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Wasser an diesem Erholungsort, ideal für eine erfrischende Pause an einem warmen Tag, und vergessen Sie nicht, Snacks für einen längeren Aufenthalt einzupacken.",
+            "hu": "Pihenjen a vízparton ezen a helyi rekreációs helyen, amely tökéletes egy frissítő szünetre egy meleg napon, és ne felejtsen el csomagolni egy kis harapnivalót az útra.",
+            "ro": "Relaxați-vă lângă apă în acest loc de recreere local, perfect pentru o pauză răcoritoare într-o zi caldă, și nu uitați să împachetați câteva gustări dacă plănuiți să stați.",
+            "en": "Relax by the water at this local recreational spot, perfect for a refreshing break on a warm day, and don't forget to pack some snacks if you plan to stay a little longer."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santa Margherita",
+            "hu": "Chiesa di Santa Margherita",
+            "ro": "Chiesa di Santa Margherita",
+            "en": "Chiesa di Santa Margherita"
+          },
+          "coords": [
+            11.878234,
+            44.282792
+          ],
+          "category": "religious",
+          "arrive_at": "13:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.69,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in den ruhigen Charme dieser wunderbar erhaltenen Kirche, deren bescheidene, aber reizvolle Dekorationen einen beruhigenden Kontrast zu großen Denkmälern bilden.",
+            "hu": "Merüljön el ennek a gyönyörűen megőrzött templomnak a csendes bájában, amelynek szerény, de szép díszítése nyugtató kontrasztot nyújt a város grandiózusabb emlékműveivel.",
+            "ro": "Pătrundeți în farmecul liniștit al acestei biserici frumos conservate, care prezintă decorațiuni modeste, oferind un contrast calmant cu monumentele mai grandioase ale orașului.",
+            "en": "Delve into the quiet charm of this beautifully preserved church, which showcases modest but lovely decorations that provide a calming contrast to the city's grander monuments."
+          }
+        },
+        {
+          "name": {
+            "de": "Quinzan",
+            "hu": "Quinzan",
+            "ro": "Quinzan",
+            "en": "Quinzan"
+          },
+          "coords": [
+            11.844397,
+            44.276171
+          ],
+          "category": "recreational",
+          "arrive_at": "14:17",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.79,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag in diesem angenehmen Erholungsgebiet, das eine wunderbare Grünfläche zum Entspannen bietet und ein hervorragender Ort für Naturliebhaber ist.",
+            "hu": "Zárja a napot ezen a kellemes rekreációs területen, amely csodálatos zöldterületet kínál a kikapcsolódásra, kiváló hely a természet érintését kereső családok vagy utazók számára.",
+            "ro": "Încheiați-vă ziua în această zonă plăcută de agrement, oferind un spațiu verde minunat pentru relaxare, un loc excelent pentru familii sau călători ce caută natura.",
+            "en": "End your day at this pleasant recreational area, offering a wonderful green space to unwind, making it an excellent spot for families or solo travelers seeking nature's touch."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt an der majestätischen Kathedrale San Pietro, bevor Sie die riesigen Sammlungen im Keramikmuseum bestaunen. Fahren Sie am Mittag nach Norden zum L'altro Mare für eine entspannende Erholungspause. Der Nachmittag wird mit einem Besuch der Santa Margherita fortgesetzt. Schließen Sie den Tag mit einem ruhigen Sonnenuntergang im schönen Erholungsgebiet Quinzan ab.",
+        "hu": "Az autós túra a fenséges San Pietro katedrálisnál kezdődik, majd a Kerámia Múzeum hatalmas gyűjteményének megcsodálásával folytatódik. Délben vezessen északra a L'altro Mare felé egy pihentető rekreációs szünetre. A délután a bájos Santa Margherita meglátogatásával folytatódik. Zárja a napot egy derűs naplementével a gyönyörű Quinzan rekreációs területen.",
+        "ro": "Turul cu mașina începe la Catedrala San Pietro, urmat de colecțiile vaste de la Muzeul Internațional al Ceramicii. La prânz, conduceți spre nord la L'altro Mare pentru o pauză relaxantă. După-amiaza continuă cu o vizită la fermecătoarea biserică Santa Margherita. Încheiați ziua cu un apus senin la frumoasa zonă de agrement Quinzan, perfectă pentru relaxare de seară.",
+        "en": "Your driving tour kicks off at the majestic Cathedral of San Pietro, setting a historical tone before marveling at the vast collections in the International Museum of Ceramics. For midday, drive north to L'altro Mare for a relaxing recreational break. The afternoon continues with a visit to the charming Santa Margherita. Conclude the day with a serene sunset at the beautiful Quinzan area."
+      }
+    }
+  }
+}

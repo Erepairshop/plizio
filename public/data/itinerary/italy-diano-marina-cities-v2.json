@@ -1,0 +1,428 @@
+{
+  "city_id": "italy-diano-marina-cities-v2",
+  "anchor": {
+    "name": "Diano Marina",
+    "coords": [
+      8.06668,
+      43.90801
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 1.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bagni Caesar's Beach",
+            "hu": "Bagni Caesar's Beach",
+            "ro": "Bagni Caesar's Beach",
+            "en": "Bagni Caesar's Beach"
+          },
+          "coords": [
+            8.079577,
+            43.89798
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den makellosen, feinen Sand am Bagni Caesar's Beach, der absolut perfekt für ein entspanntes Morgenbad ist, aber kommen Sie früh, um eine erstklassige Liege am Wasser zu sichern.",
+            "hu": "Élvezze a Bagni Caesar's Beach érintetlen, finom homokját, amely tökéletes egy nyugodt reggeli csobbanáshoz, de mindenképpen érkezzen korán, hogy biztosítsa a legjobb napágyat a vízparton.",
+            "ro": "Bucurați-vă de nisipul fin impecabil de la Bagni Caesar's Beach, care este absolut perfect pentru o baie matinală relaxantă, dar veniți devreme pentru a prinde un șezlong bun chiar la malul apei.",
+            "en": "Enjoy the pristine fine sand at Bagni Caesar's Beach, which is absolutely perfect for a relaxing morning dip, but make sure to arrive early to secure a prime sunbed right near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Teresa",
+            "hu": "Bagni Teresa",
+            "ro": "Bagni Teresa",
+            "en": "Bagni Teresa"
+          },
+          "coords": [
+            8.076993,
+            43.901317
+          ],
+          "category": "recreational",
+          "arrive_at": "10:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte, familienfreundliche Atmosphäre im Bagni Teresa, wo das flache Wasser zum sicheren Schwimmen einlädt, und mieten Sie ein Tretboot für zusätzlichen Spaß auf den Wellen.",
+            "hu": "Tapasztalja meg a Bagni Teresa családbarát hangulatát, ahol a sekély víz biztonságos úszást kínál, ezért érdemes egy vízibiciklit bérelnie a nyugodt hullámokon való extra szórakozáshoz.",
+            "ro": "Experimentați atmosfera vibrantă și familială la Bagni Teresa, unde apele puțin adânci invită la înot sigur, așa că luați în considerare închirierea unei hidrobiciclete pentru distracție pe valuri.",
+            "en": "Experience the vibrant, family-friendly atmosphere at Bagni Teresa where shallow waters invite safe swimming, so consider renting a pedal boat for some extra fun on the calm waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Miramare",
+            "hu": "Bagni Miramare",
+            "ro": "Bagni Miramare",
+            "en": "Bagni Miramare"
+          },
+          "coords": [
+            8.07885,
+            43.90502
+          ],
+          "category": "recreational",
+          "arrive_at": "11:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am gut ausgestatteten Strand von Bagni Miramare mit toller Aussicht auf die Riviera und holen Sie sich ein frisch zubereitetes, leichtes Mittagessen an der Snackbar.",
+            "hu": "Pihenjen a Bagni Miramare jól felszerelt partján, ahonnan kiváló kilátás nyílik a Riviérára, és mindenképpen fogyasszon el egy könnyű, frissen készített ebédet a helyi tengerparti büfében.",
+            "ro": "Relaxați-vă pe malul bine dotat de la Bagni Miramare, care se mândrește cu vederi excelente ale Rivierei, și asigurați-vă că luați un prânz ușor, proaspăt preparat la barul lor cu gustări.",
+            "en": "Relax along the well-equipped shoreline of Bagni Miramare which boasts excellent coastal views of the Riviera, and be sure to grab a light, freshly prepared lunch at their snack bar."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Delfino",
+            "hu": "Bagni Delfino",
+            "ro": "Bagni Delfino",
+            "en": "Bagni Delfino"
+          },
+          "coords": [
+            8.082914,
+            43.908271
+          ],
+          "category": "recreational",
+          "arrive_at": "13:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie ein erfrischendes Nachmittagsbad im Bagni Delfino mit seinem extrem sauberen Wasser und vergessen Sie Ihre Schnorchelbrille für eine tolle Entdeckungstour bei den Felsen nicht.",
+            "hu": "Frissüljön fel egy délutáni úszással a kivételesen tiszta vizű Bagni Delfino strandon, és ne felejtse el a búvárszemüvegét egy csodálatos sznorkelezéshez a közeli sziklák mellett.",
+            "ro": "Faceți o baie răcoroasă de după-amiază la Bagni Delfino, foarte apreciat pentru apa sa excepțional de curată, și nu uitați ochelarii pentru o sesiune uimitoare de snorkeling lângă stânci.",
+            "en": "Take a refreshing afternoon swim at Bagni Delfino, highly regarded locally for its exceptionally clean water, and don't forget your goggles for an amazing snorkeling session near the rocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Solarium",
+            "hu": "Solarium",
+            "ro": "Solarium",
+            "en": "Solarium"
+          },
+          "coords": [
+            8.084006,
+            43.907973
+          ],
+          "category": "recreational",
+          "arrive_at": "14:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die warme Nachmittagssonne auf dem Solarium, einer fantastischen erhöhten Plattform über dem Meer, die der ideale Ort ist, um atemberaubende Urlaubsfotos der Küste zu machen.",
+            "hu": "Süttesse magát a meleg délutáni napsugarakkal a tenger fölé magasodó Solarium teraszán, amely tökéletes helyszínt biztosít a lenyűgöző tengerparti nyaralós fotók készítéséhez.",
+            "ro": "Răsfățați-vă în razele calde ale după-amiezii pe Solarium, care oferă o platformă fantastică deasupra mării, fiind locul ideal pentru a surprinde fotografii uimitoare de vacanță cu coasta.",
+            "en": "Bask in the warm afternoon rays at the Solarium structure which offers a fantastic elevated platform over the sea, making it the ideal spot to capture stunning holiday photos of the coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Hotel Bellevue et Mediterranée",
+            "hu": "Bagni Hotel Bellevue et Mediterranée",
+            "ro": "Bagni Hotel Bellevue et Mediterranée",
+            "en": "Bagni Hotel Bellevue et Mediterranée"
+          },
+          "coords": [
+            8.086337,
+            43.910959
+          ],
+          "category": "recreational",
+          "arrive_at": "15:55",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Strandspaziergang im Bagni Hotel Bellevue für ein luxuriöses Entspannen bei Sonnenuntergang, wo Sie sich unbedingt einen erfrischenden, klassischen italienischen Aperitif gönnen sollten.",
+            "hu": "Zárja a parti sétát a Bagni Hotel Bellevue et Mediterranée luxusában a naplemente fényeiben, ahol feltétlenül kényeztesse magát egy frissítő, klasszikus olasz aperitiffel a teraszon.",
+            "ro": "Încheiați-vă frumoasa plimbare la Bagni Hotel Bellevue et Mediterranée pentru o relaxare luxoasă la apus, unde ar trebui cu siguranță să vă răsfățați cu un aperitiv italian clasic și răcoritor.",
+            "en": "Conclude your beautiful beach walk at Bagni Hotel Bellevue et Mediterranée for luxurious sunset lounging, where you should definitively treat yourself to a refreshing, classic Italian aperitif."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einem erfrischenden Spaziergang entlang der Südwestküste und atmen Sie die Meeresbrise am Caesar's Beach ein. Mittags wechseln Sie zwischen den Stränden und tauchen im Miramare in das lebhafte Küstenflair ein. Am Nachmittag erkunden Sie die zentralen Strände und genießen den einzigartigen Ausblick vom Solarium über die Wellen. Der Abend naht, während Sie im Hotel Bellevue entspannen und bei einem Cocktail den Sonnenuntergang über dem Ligurischen Meer beobachten.",
+        "hu": "Kezdje a reggelt egy frissítő sétával a délnyugati parton, belélegezve a tengeri sós levegőt a Caesar's Beachnél. A délidő a strandok felfedezésével telik, miközben beleveti magát a nyüzsgő tengerparti hangulatba, és megmártózik a Miramare vizében. Délután fedezze fel a központi strandokat, és élvezze a hullámok felett magasodó Solarium egyedülálló kilátását. Az este közeledtével a Hotel Bellevue teraszán pihenve, egy koktéllal a kezében csodálhatja meg a ligur-tengeri naplementét.",
+        "ro": "Începeți dimineața cu o plimbare revigorantă de-a lungul coastei de sud-vest, respirând briza mării la Caesar's Beach. La prânz vă plimbați pe plaje, absorbind atmosfera vibrantă de coastă și făcând o baie la Miramare. După-amiaza, explorați plajele centrale și bucurați-vă de punctul de belvedere unic al Solariumului deasupra valurilor. Seara se apropie în timp ce vă relaxați la Hotel Bellevue, savurând un cocktail și admirând apusul de soare peste Marea Ligurică.",
+        "en": "Start your morning with a refreshing stroll along the southwestern shoreline, breathing in the sea breeze at Caesar's Beach. Midday finds you beach-hopping, soaking up the vibrant coastal atmosphere and taking a dip at Miramare. In the afternoon, explore the central beaches and enjoy the unique vantage point of the Solarium over the waves. Evening approaches as you relax at Hotel Bellevue, sipping a cocktail while watching the sunset over the Ligurian Sea."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:08",
+      "total_km": 2.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bagni Elena",
+            "hu": "Bagni Elena",
+            "ro": "Bagni Elena",
+            "en": "Bagni Elena"
+          },
+          "coords": [
+            8.077353,
+            43.902698
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren aktiven Radtag am Bagni Elena, einem herrlich ruhigen Strandabschnitt, der sich perfekt für Dehnübungen eignet, aber prüfen Sie den Wind, bevor Sie Ihren Sonnenschirm mieten.",
+            "hu": "Kezdje a kerékpáros napot a Bagni Elena csodálatosan nyugodt partszakaszán, amely ideális a reggeli nyújtáshoz, de mindenképpen ellenőrizze a szelet, mielőtt tengerparti napernyőt bérelne.",
+            "ro": "Începeți-vă ziua activă de ciclism la Bagni Elena, o porțiune de plajă minunat de liniștită, perfectă pentru întinderi, dar verificați briza coastei înainte de a vă închiria umbrela de soare.",
+            "en": "Start your active cycling day at Bagni Elena, a wonderfully tranquil stretch of beach that is perfect for morning stretches, but check the coastal breeze before renting your seaside umbrella."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Lino",
+            "hu": "Bagni Lino",
+            "ro": "Bagni Lino",
+            "en": "Bagni Lino"
+          },
+          "coords": [
+            8.077859,
+            43.903676
+          ],
+          "category": "recreational",
+          "arrive_at": "10:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Küstenenergie am Bagni Lino, das für seinen goldenen Sand und sein klares Wasser bekannt ist, und fragen Sie das freundliche Personal nach verfügbaren Paddleboards.",
+            "hu": "Szívja magába a nyüzsgő part menti energiát az aranyhomokos és tiszta vizű Bagni Lino strandon, és mindenképpen érdeklődjön a barátságos helyi személyzetnél a paddleboard kölcsönzésről.",
+            "ro": "Bucurați-vă de energia plină de viață a coastei la Bagni Lino, cunoscut pentru nisipurile sale aurii, și asigurați-vă că întrebați personalul local prietenos despre închirierile de paddleboard.",
+            "en": "Soak up the lively coastal energy at Bagni Lino, widely known for its pristine golden sands and clear water, and make sure to ask the friendly local staff about available paddleboard rentals."
+          }
+        },
+        {
+          "name": {
+            "de": "Solarium",
+            "hu": "Solarium",
+            "ro": "Solarium",
+            "en": "Solarium"
+          },
+          "coords": [
+            8.084006,
+            43.907973
+          ],
+          "category": "recreational",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die warme Nachmittagssonne auf dem Solarium, einer fantastischen erhöhten Plattform über dem Meer, die der ideale Ort ist, um atemberaubende Urlaubsfotos der Küste zu machen.",
+            "hu": "Süttesse magát a meleg délutáni napsugarakkal a tenger fölé magasodó Solarium teraszán, amely tökéletes helyszínt biztosít a lenyűgöző tengerparti nyaralós fotók készítéséhez.",
+            "ro": "Răsfățați-vă în razele calde ale după-amiezii pe Solarium, care oferă o platformă fantastică deasupra mării, fiind locul ideal pentru a surprinde fotografii uimitoare de vacanță cu coasta.",
+            "en": "Bask in the warm afternoon rays at the Solarium structure which offers a fantastic elevated platform over the sea, making it the ideal spot to capture stunning holiday photos of the coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Hotel Eden Park",
+            "hu": "Bagni Hotel Eden Park",
+            "ro": "Bagni Hotel Eden Park",
+            "en": "Bagni Hotel Eden Park"
+          },
+          "coords": [
+            8.088019,
+            43.912714
+          ],
+          "category": "recreational",
+          "arrive_at": "13:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Ruhen Sie Ihre Beine im eleganten Bagni Hotel Eden Park aus, wo grüne Natur auf das offene Meer trifft, und bringen Sie ein leichtes Strandkleid für die schicke Strandterrasse mit.",
+            "hu": "Pihentesse lábait az elegáns Bagni Hotel Eden Parkban, ahol a buja zöld növényzet találkozik a nyílt tengerrel, és vigyen magával egy könnyű strandruhát a sikkes tengerparti teraszra.",
+            "ro": "Odihniți-vă picioarele la elegantul Bagni Hotel Eden Park, unde împrejurimile verzi întâlnesc marea deschisă, și amintiți-vă să aduceți o haină ușoară pentru a vizita terasa lor cochetă de pe plajă.",
+            "en": "Rest your legs at the elegant Bagni Hotel Eden Park where the lush green surroundings meet the open sea, and remember to pack a light cover-up to comfortably visit their chic beachfront terrace."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Ponterosso",
+            "hu": "Bagni Ponterosso",
+            "ro": "Bagni Ponterosso",
+            "en": "Bagni Ponterosso"
+          },
+          "coords": [
+            8.093116,
+            43.91658
+          ],
+          "category": "recreational",
+          "arrive_at": "14:23",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Radeln Sie zum Bagni Ponterosso für einen friedlichen Nachmittag abseits der Menschenmassen des Zentrums und sichern Sie Ihr Fahrrad an den nahen Ständern, bevor Sie schwimmen gehen.",
+            "hu": "Kerékpározzon a Bagni Ponterosso felé egy békés délutáni menedékért, távol a központ tömegétől, és ne felejtse el biztonságosan rögzíteni kerékpárját a közeli tárolókban egy jó úszás előtt.",
+            "ro": "Bicicliți spre Bagni Ponterosso pentru o retragere pașnică de după-amiază departe de mulțimile mai mari din centru și asigurați-vă bicicleta în siguranță la rastelele publice înainte de a înota.",
+            "en": "Cycle towards Bagni Ponterosso for a peaceful afternoon retreat away from the larger crowds of the center, and remember to secure your bike safely at the nearby public racks before taking a swim."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie in die Morgensonne am Bagni Elena und lassen Sie das rhythmische Rauschen der ligurischen Wellen den Tag bestimmen. Mittags fahren Sie zur belebten zentralen Küste und machen eine Pause an den goldenen Ufern von Bagni Lino und am Solarium. Die nachmittägliche Fahrt führt Sie zum eleganten Eden Park, der eine Mischung aus viel Grün und azurblauem Wasser bietet. Beenden Sie Ihr Radabenteuer am friedlichen nördlichen Abschnitt nahe Ponterosso, wenn die abendlichen Schatten fallen.",
+        "hu": "Tekerjen a reggeli napsütésben a Bagni Elena felé, hagyva, hogy a liguriai hullámok ritmikus hangja megadja a nyugodt tempót. Délre érjen fel a nyüzsgő központi partra, időt szakítva a Bagni Lino aranyhomokos partjaira és a Solariumra. A délutáni túra az elegáns Eden Parkhoz vezet, amely a természetes zöldellő növényzet és az azúrkék víz keverékét kínálja. Zárja kerékpáros kalandját a békés északi szakaszon, Ponterosso közelében, ahogy leszáll az est.",
+        "ro": "Porniți cu bicicleta în soarele dimineții la Bagni Elena, lăsând sunetul ritmic al valurilor ligurice să vă seteze un ritm relaxat. Până la prânz, pedalați spre coasta centrală plină de viață, făcând o pauză la țărmurile aurii de la Bagni Lino și la Solarium. Plimbarea de după-amiază vă duce la elegantul Eden Park, oferind un amestec de verdeață și ape azurii. Încheiați aventura pe bicicletă în întinderea nordică liniștită de lângă Ponterosso, odată cu lăsarea serii.",
+        "en": "Pedal into the morning sun at Bagni Elena, letting the rhythmic sound of the Ligurian waves set a relaxed pace. By midday, cycle up to the bustling central coast, taking time to pause at the golden shores of Bagni Lino and the Solarium. The afternoon ride leads you to the elegant Eden Park, offering a blend of natural greenery and azure waters. Conclude your cycling adventure in the peaceful northern stretch near Ponterosso as evening shadows fall."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:05",
+      "total_km": 4.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bagni Caesar's Beach",
+            "hu": "Bagni Caesar's Beach",
+            "ro": "Bagni Caesar's Beach",
+            "en": "Bagni Caesar's Beach"
+          },
+          "coords": [
+            8.079577,
+            43.89798
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den makellosen, feinen Sand am Bagni Caesar's Beach, der absolut perfekt für ein entspanntes Morgenbad ist, aber kommen Sie früh, um eine erstklassige Liege am Wasser zu sichern.",
+            "hu": "Élvezze a Bagni Caesar's Beach érintetlen, finom homokját, amely tökéletes egy nyugodt reggeli csobbanáshoz, de mindenképpen érkezzen korán, hogy biztosítsa a legjobb napágyat a vízparton.",
+            "ro": "Bucurați-vă de nisipul fin impecabil de la Bagni Caesar's Beach, care este absolut perfect pentru o baie matinală relaxantă, dar veniți devreme pentru a prinde un șezlong bun chiar la malul apei.",
+            "en": "Enjoy the pristine fine sand at Bagni Caesar's Beach, which is absolutely perfect for a relaxing morning dip, but make sure to arrive early to secure a prime sunbed right near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Delfino",
+            "hu": "Bagni Delfino",
+            "ro": "Bagni Delfino",
+            "en": "Bagni Delfino"
+          },
+          "coords": [
+            8.082914,
+            43.908271
+          ],
+          "category": "recreational",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie ein erfrischendes Nachmittagsbad im Bagni Delfino mit seinem extrem sauberen Wasser und vergessen Sie Ihre Schnorchelbrille für eine tolle Entdeckungstour bei den Felsen nicht.",
+            "hu": "Frissüljön fel egy délutáni úszással a kivételesen tiszta vizű Bagni Delfino strandon, és ne felejtse el a búvárszemüvegét egy csodálatos sznorkelezéshez a közeli sziklák mellett.",
+            "ro": "Faceți o baie răcoroasă de după-amiază la Bagni Delfino, foarte apreciat pentru apa sa excepțional de curată, și nu uitați ochelarii pentru o sesiune uimitoare de snorkeling lângă stânci.",
+            "en": "Take a refreshing afternoon swim at Bagni Delfino, highly regarded locally for its exceptionally clean water, and don't forget your goggles for an amazing snorkeling session near the rocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Hotel Eden Park",
+            "hu": "Bagni Hotel Eden Park",
+            "ro": "Bagni Hotel Eden Park",
+            "en": "Bagni Hotel Eden Park"
+          },
+          "coords": [
+            8.088019,
+            43.912714
+          ],
+          "category": "recreational",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ruhen Sie Ihre Beine im eleganten Bagni Hotel Eden Park aus, wo grüne Natur auf das offene Meer trifft, und bringen Sie ein leichtes Strandkleid für die schicke Strandterrasse mit.",
+            "hu": "Pihentesse lábait az elegáns Bagni Hotel Eden Parkban, ahol a buja zöld növényzet találkozik a nyílt tengerrel, és vigyen magával egy könnyű strandruhát a sikkes tengerparti teraszra.",
+            "ro": "Odihniți-vă picioarele la elegantul Bagni Hotel Eden Park, unde împrejurimile verzi întâlnesc marea deschisă, și amintiți-vă să aduceți o haină ușoară pentru a vizita terasa lor cochetă de pe plajă.",
+            "en": "Rest your legs at the elegant Bagni Hotel Eden Park where the lush green surroundings meet the open sea, and remember to pack a light cover-up to comfortably visit their chic beachfront terrace."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia libera attrezzata",
+            "hu": "Spiaggia libera attrezzata",
+            "ro": "Spiaggia libera attrezzata",
+            "en": "Spiaggia libera attrezzata"
+          },
+          "coords": [
+            8.102406,
+            43.919825
+          ],
+          "category": "recreational",
+          "arrive_at": "13:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die totale Freiheit der Spiaggia libera attrezzata, wo Sie Ihr Handtuch direkt auf den weichen Sand legen können, also bringen Sie für maximalen Komfort Ihren eigenen Sonnenschirm mit.",
+            "hu": "Élvezze a Spiaggia libera attrezzata teljes szabadságát, ahol leterítheti saját törölközőjét közvetlenül a puha homokra, ezért a maximális kényelem érdekében mindenképp vigyen saját napernyőt.",
+            "ro": "Bucurați-vă de libertatea totală a Spiaggia libera attrezzata, unde vă puteți așeza propriul prosop direct pe nisipul fin, așa că aduceți-vă cu siguranță propria umbrelă pentru un confort maxim.",
+            "en": "Enjoy the total freedom of the Spiaggia libera attrezzata where you can lay your own towel directly on the soft sand, so definitely bring your own beach umbrella for maximum comfort in the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Restano",
+            "hu": "Bagni Restano",
+            "ro": "Bagni Restano",
+            "en": "Bagni Restano"
+          },
+          "coords": [
+            8.110517,
+            43.92289
+          ],
+          "category": "recreational",
+          "arrive_at": "14:20",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Parken Sie bequem am Bagni Restano, um den viel ruhigeren nördlichen Abschnitt von Diano Marina zu genießen, und holen Sie sich ein leckeres Gelato am Kiosk, bevor Sie schließlich nach Hause fahren.",
+            "hu": "Parkoljon kényelmesen a Bagni Restano közelében, hogy igazán élvezze Diano Marina sokkal csendesebb északi részét, és indulás előtt egyen egy finom, hagyományos fagyit a közeli kioszknál.",
+            "ro": "Parcați ușor lângă Bagni Restano pentru a vă bucura cu adevărat de porțiunea de nord mult mai liniștită a Diano Marina și luați un gelato tradițional delicios de la chioșcul din apropiere înainte de plecare.",
+            "en": "Park easily near Bagni Restano to truly enjoy the much quieter northern stretch of Diano Marina, and grab a delicious traditional gelato from the nearby kiosk before finally heading back home."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie für einen ruhigen Morgen zum charmanten Caesar's Beach und nutzen Sie die bequemen Parkplätze an der Küste. Mittags können Sie bequem die Küste hinauffahren und am Delfino Halt machen, bevor Sie den üppigen Eden Park erreichen. Parken Sie am Nachmittag in der Nähe der Spiaggia libera attrezzata, um die Freiheit einer natürlicheren Strandumgebung zu erleben. Wenn der Abend naht, beenden Sie Ihren Roadtrip am Bagni Restano mit einem letzten Blick auf den Sonnenuntergang.",
+        "hu": "Autózzon le a bájos Caesar's Beachhez egy nyugodt délelőttre, kihasználva a közeli tengerparti parkolóhelyek kényelmét. A déli autózás lehetővé teszi, hogy könnyedén végigjárja a partvonalat, kényelmesen megállva a Delfinónál, mielőtt elérné a buja Eden Parkot. Délután parkoljon le a Spiaggia libera attrezzata közelében, hogy megtapasztalja a természetesebb strandkörnyezet szabadságát. Ahogy leszáll az este, fejezze be autós kirándulását a Bagni Restanónál egy utolsó naplementés kilátással.",
+        "ro": "Conduceți până la fermecătoarea Caesar's Beach pentru o dimineață liniștită, bucurându-vă de confortul locurilor de parcare de pe coastă. Conducerea la prânz vă permite să urcați ușor pe coastă, făcând o oprire confortabilă la Delfino înainte de a ajunge la luxuriantul Eden Park. După-amiaza, parcați lângă Spiaggia libera attrezzata pentru a experimenta libertatea unui mediu de plajă mai natural. Când vine seara, încheiați excursia la Bagni Restano cu o ultimă vedere la apus înainte de a vă întoarce.",
+        "en": "Drive down to the charming Caesar's Beach for a tranquil morning, enjoying the convenience of nearby coastal parking spaces. Midday driving lets you easily hop up the coastline, making a comfortable stop at Delfino before reaching the lush Eden Park. In the afternoon, park near the Spiaggia libera attrezzata to experience the freedom of a more natural beach environment. As evening arrives, complete your road trip at Bagni Restano with a final sunset view before heading back."
+      }
+    }
+  }
+}

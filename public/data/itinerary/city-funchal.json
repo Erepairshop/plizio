@@ -1,0 +1,451 @@
+{
+  "city_id": "city-funchal",
+  "anchor": {
+    "name": "Funchal",
+    "coords": [
+      -16.9288,
+      32.6669
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:55",
+      "total_km": 0.95,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kathedrale von Funchal",
+            "hu": "Funchali katedrális",
+            "ro": "Catedrala din Funchal",
+            "en": "Funchal Cathedral"
+          },
+          "coords": [
+            -16.90823,
+            32.648216
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die aufwendige Holzdecke dieser Kathedrale aus dem 15. Jahrhundert und kommen Sie früh, um den großen Touristenmassen am Mittag zu entgehen.",
+            "hu": "Csodálja meg a 15. századi katedrális famennyezetét, amely Madeira szimbóluma, de érkezzen korán, hogy elkerülje a déli turistatömeget a bejáratnál.",
+            "ro": "Admirați tavanul complex din lemn al acestei catedrale din secolul al XV-lea, un simbol al insulei, dar sosiți devreme pentru a evita aglomerația de la prânz.",
+            "en": "Admire the intricate wooden ceiling of this 15th-century cathedral, a true symbol of Madeira, but arrive early to avoid the midday tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Zuckermuseum",
+            "hu": "Cukormúzeum",
+            "ro": "Muzeul Zahărului",
+            "en": "Sugar Museum"
+          },
+          "coords": [
+            -16.907119,
+            32.648219
+          ],
+          "category": "museum",
+          "arrive_at": "09:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die süße Geschichte Funchals anhand von Artefakten des Zuckerhandels und nehmen Sie sich Zeit für die seltenen flämischen Skulpturen vor Ort.",
+            "hu": "Fedezze fel Funchal édes történelmét a szigetet formáló cukorkereskedelem emlékein keresztül, és szánjon időt a ritka flamand szobrok megtekintésére.",
+            "ro": "Descoperiți istoria dulce a orașului Funchal prin artefactele comerțului cu zahăr, alocând timp pentru a examina sculpturile flamande rare expuse aici.",
+            "en": "Discover Funchal's sweet history through artifacts of the sugar trade that shaped the island, taking time to examine the rare Flemish sculptures."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Sakrale Kunst",
+            "hu": "Szakrális Művészeti Múzeum",
+            "ro": "Muzeul de Artă Sacră",
+            "en": "Museum of Sacred Art"
+          },
+          "coords": [
+            -16.908415,
+            32.649309
+          ],
+          "category": "museum",
+          "arrive_at": "11:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die beeindruckende Sammlung flämischer Kunst der wohlhabenden Zuckerkaufleute und verpassen Sie nicht den Panoramablick vom Museumsturm.",
+            "hu": "Fedezze fel a gazdag cukorkereskedők által megrendelt flamand művészeti gyűjteményt, és semmiképp se hagyja ki a múzeum tornyából nyíló panorámát.",
+            "ro": "Explorați colecția impresionantă de artă flamandă comandată de comercianții de zahăr și nu ratați priveliștea panoramică din turnul muzeului.",
+            "en": "Explore the impressive collection of Flemish art commissioned by wealthy sugar merchants, and don't miss the panoramic view from the museum's tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Vicentes Fotomuseum",
+            "hu": "Vicentes Fotómúzeum",
+            "ro": "Muzeul de Fotografie Vicentes",
+            "en": "Vicentes Photography Museum"
+          },
+          "coords": [
+            -16.910292,
+            32.648893
+          ],
+          "category": "museum",
+          "arrive_at": "13:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise im ältesten Fotostudio Portugals und fragen Sie die Führer nach den faszinierenden Porträts der madeirischen Gesellschaft.",
+            "hu": "Lépjen vissza az időben Portugália legrégebbi fotóstúdiójában, és kérdezze az idegenvezetőket a 19. századi madeirai társadalmat bemutató portrékról.",
+            "ro": "Întoarceți-vă în timp în cel mai vechi studio de fotografie din Portugalia și întrebați ghizii despre portretele fascinante ale societății din secolul al XIX-lea.",
+            "en": "Step back in time in the oldest photography studio in Portugal, and ask the guides about the fascinating portraits of 19th-century Madeiran society."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Museu Frederico de Freitas",
+            "hu": "Frederico de Freitas Múzeum",
+            "ro": "Casa Museu Frederico de Freitas",
+            "en": "Casa Museu Frederico de Freitas"
+          },
+          "coords": [
+            -16.912345,
+            32.64989
+          ],
+          "category": "museum",
+          "arrive_at": "15:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch Räume voller exquisiter Fliesen und dekorativer Künste eines lokalen Sammlers und achten Sie auf die atemberaubende Tassensammlung.",
+            "hu": "Sétáljon végig a helyi gyűjtő által felhalmozott gyönyörű csempékkel és dísztárgyakkal teli szobákon, különös figyelmet fordítva a lenyűgöző bögregyűjteményre.",
+            "ro": "Plimbați-vă prin camerele pline de plăci ceramice rafinate și arte decorative, fiind cu ochii în patru după impresionanta colecție de căni a muzeului.",
+            "en": "Wander through rooms filled with exquisite tiles and decorative arts gathered by a local collector, keeping an eye out for the stunning mug collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu da Quinta das Cruzes",
+            "hu": "Quinta das Cruzes Múzeum",
+            "ro": "Muzeul Quinta das Cruzes",
+            "en": "Museu da Quinta das Cruzes"
+          },
+          "coords": [
+            -16.913874,
+            32.651046
+          ],
+          "category": "museum",
+          "arrive_at": "16:45",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die antiken Möbel und wunderschön angelegten Gärten dieses historischen Herrenhauses und bringen Sie eine Kamera für die Orchideen mit.",
+            "hu": "Csodálja meg ennek a történelmi udvarháznak az antik bútorait és gyönyörűen parkosított kertjeit, és mindenképp hozzon fényképezőgépet az orchideákhoz.",
+            "ro": "Minunați-vă de mobilierul antic și de grădinile frumos amenajate ale acestui conac istoric, aducând un aparat foto pentru a surprinde orhideele.",
+            "en": "Marvel at the antique furniture and beautifully landscaped gardens of this historic manor, bringing a camera to capture the majestic orchid displays."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen an der majestätischen Sé, bevor Sie die süßen Wurzeln im Zuckermuseum erkunden. Der Mittag ist perfekt, um in die Handelsgeschichte im Museum für Sakrale Kunst und das älteste Fotostudio einzutauchen. Der Nachmittag lädt Sie ein, durch die eleganten Räume der Casa Museu Frederico de Freitas zu schlendern. Beenden Sie Ihre Tour in den Gärten der Quinta das Cruzes.",
+        "hu": "Kezdje a reggelt a fenséges Sé katedrálisnál, mielőtt a sziget gyökereit kutatná a Cukormúzeumban. A dél ideális a múlt felfedezésére a Szakrális Művészeti Múzeumban és a fotóstúdióban. A délután a Frederico de Freitas Múzeum elegáns termeibe csábít. Sétáját a Quinta das Cruzes antik gyűjteményei és buja kertjei között fejezheti be.",
+        "ro": "Începeți dimineața la maiestuoasa Sé, înainte de a descoperi istoria locală la Muzeul Zahărului. Prânzul este perfect pentru a explora istoria comercială la Muzeul de Artă Sacră și pentru a călători în timp la studioul Vicentes. După-amiaza plimbați-vă prin camerele Casei Museu Frederico de Freitas. Încheiați turul printre colecțiile și grădinile luxuriante de la Quinta das Cruzes.",
+        "en": "Start your morning at the majestic Sé, before tracing the island's sweet roots at the Sugar Museum. Midday is perfect for diving into trading history at the Sacred Art Museum and stepping back in time at Vicentes Photography studio. The afternoon invites you to wander the elegant rooms of Casa Museu Frederico de Freitas. Finish your walking tour among the gardens of Quinta das Cruzes."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:27",
+      "total_km": 2.85,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Casino da Madeira",
+            "hu": "Madeira Kaszinó",
+            "ro": "Cazinoul din Madeira",
+            "en": "Casino da Madeira"
+          },
+          "coords": [
+            -16.916082,
+            32.643968
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Würdigen Sie die markante modernistische Architektur von Oscar Niemeyer, bevor Sie an die Spieltische gehen, und achten Sie auf elegante Kleidung.",
+            "hu": "Értékelje Oscar Niemeyer lenyűgöző modernista építészetét, mielőtt a játékasztalokhoz lépne, de ügyeljen az elegáns öltözékre a belépéshez.",
+            "ro": "Apreciați arhitectura modernistă izbitoare a lui Oscar Niemeyer înainte de a ajunge la mesele de joc, asigurându-vă că purtați o ținută elegantă.",
+            "en": "Appreciate the striking modernist architecture designed by Oscar Niemeyer before hitting the gaming tables, making sure to dress smartly for entry."
+          }
+        },
+        {
+          "name": {
+            "de": "CR7 Museum",
+            "hu": "CR7 Múzeum",
+            "ro": "Muzeul CR7",
+            "en": "Museu CR7"
+          },
+          "coords": [
+            -16.913847,
+            32.644118
+          ],
+          "category": "museum",
+          "arrive_at": "09:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Feiern Sie die spektakuläre Karriere von Cristiano Ronaldo, indem Sie seine Trophäen ansehen und ein Selfie mit der legendären Bronzestatue machen.",
+            "hu": "Ünnepelje Cristiano Ronaldo látványos karrierjét a trófeáinak megtekintésével, és készítsen egy szelfit a bejáratnál álló ikonikus bronzszoborral.",
+            "ro": "Sărbătoriți cariera spectaculoasă a lui Cristiano Ronaldo vizualizându-i trofeele și faceți un selfie cu emblematica sa statuie de bronz de afară.",
+            "en": "Celebrate the spectacular career of Cristiano Ronaldo by viewing his numerous trophies, and snap a selfie with the iconic bronze statue outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Zuckermuseum",
+            "hu": "Cukormúzeum",
+            "ro": "Muzeul Zahărului",
+            "en": "Sugar Museum"
+          },
+          "coords": [
+            -16.907119,
+            32.648219
+          ],
+          "category": "museum",
+          "arrive_at": "11:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die süße Geschichte Funchals anhand von Artefakten des Zuckerhandels und nehmen Sie sich Zeit für die seltenen flämischen Skulpturen vor Ort.",
+            "hu": "Fedezze fel Funchal édes történelmét a szigetet formáló cukorkereskedelem emlékein keresztül, és szánjon időt a ritka flamand szobrok megtekintésére.",
+            "ro": "Descoperiți istoria dulce a orașului Funchal prin artefactele comerțului cu zahăr, alocând timp pentru a examina sculpturile flamande rare expuse aici.",
+            "en": "Discover Funchal's sweet history through artifacts of the sugar trade that shaped the island, taking time to examine the rare Flemish sculptures."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale von Funchal",
+            "hu": "Funchali katedrális",
+            "ro": "Catedrala din Funchal",
+            "en": "Funchal Cathedral"
+          },
+          "coords": [
+            -16.90823,
+            32.648216
+          ],
+          "category": "religious",
+          "arrive_at": "13:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die aufwendige Holzdecke dieser Kathedrale aus dem 15. Jahrhundert und kommen Sie früh, um den großen Touristenmassen am Mittag zu entgehen.",
+            "hu": "Csodálja meg a 15. századi katedrális famennyezetét, amely Madeira szimbóluma, de érkezzen korán, hogy elkerülje a déli turistatömeget a bejáratnál.",
+            "ro": "Admirați tavanul complex din lemn al acestei catedrale din secolul al XV-lea, un simbol al insulei, dar sosiți devreme pentru a evita aglomerația de la prânz.",
+            "en": "Admire the intricate wooden ceiling of this 15th-century cathedral, a true symbol of Madeira, but arrive early to avoid the midday tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Henrique e Francisco Franco",
+            "hu": "Henrique és Francisco Franco Múzeum",
+            "ro": "Muzeul Henrique și Francisco Franco",
+            "en": "Henrique and Francisco Franco Museum"
+          },
+          "coords": [
+            -16.903936,
+            32.651517
+          ],
+          "category": "museum",
+          "arrive_at": "13:46",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die brillanten Skulpturen und Gemälde der prominenten Franco-Brüder, idealerweise an einem ruhigen Wochentagmorgen ohne viele Besucher.",
+            "hu": "Csodálja meg a híres Franco főszervek zseniális szobrait és festményeit, és próbáljon hétköznap délelőtt érkezni a békés és csendes élmény érdekében.",
+            "ro": "Admirați sculpturile și picturile geniale create de frații Franco, vizitând muzeul într-o dimineață de zi a săptămânii pentru o experiență liniștită.",
+            "en": "Admire the brilliant sculptures and paintings created by the prominent Franco brothers, visiting on a weekday morning for a peaceful, quiet experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Seilbahn Funchal",
+            "hu": "Funchali felvonó",
+            "ro": "Telecabina Funchal",
+            "en": "Funchal Cable Car"
+          },
+          "coords": [
+            -16.901193,
+            32.661339
+          ],
+          "category": "landmark",
+          "arrive_at": "15:32",
+          "stay_min": 55,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Schweben Sie über Funchal und genießen Sie die atemberaubende Aussicht auf die Küste, wobei Sie Tickets vorab online kaufen sollten, um Warteschlangen zu vermeiden.",
+            "hu": "Szárnyaljon Funchal felett a partvidék lélegzetelállító látványáért, és vegye meg a jegyeket előre online, hogy elkerülje a hosszú sorban állást.",
+            "ro": "Planați deasupra orașului Funchal pentru priveliști uluitoare ale coastei, cumpărând biletele online în avans pentru a sări peste cozile notorii de lungi.",
+            "en": "Soar above Funchal for breathtaking aerial views of the coastline and city, buying tickets online in advance to skip the notoriously long lines."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer am Casino da Madeira, bevor Sie am CR7 Museum die Fußballgröße feiern. Mittags radeln Sie ins Zentrum, entdecken die Vergangenheit im Zuckermuseum und machen Halt an der Sé-Kathedrale. Nachmittags fahren Sie weiter, um die Künste im Museum Henrique e Francisco Franco zu bewundern. Beenden Sie den Tag an der Seilbahnstation mit Blick auf die Küste.",
+        "hu": "Kezdje kalandját a Casino da Madeira épületénél, majd tisztelegjen a futball nagysága előtt a CR7 Múzeumban. A dél folyamán tekerjen be a központba a Cukormúzeumhoz, és álljon meg a híres Sé katedrálisnál. A délutáni tekerés a Henrique és Francisco Franco Múzeum művészeti csodáihoz vezet. Zárja a napot a felvonó állomásánál, ahol lenyűgöző panorámában gyönyörködhet.",
+        "ro": "Începeți aventura la Casino da Madeira, înainte de a opri la Muzeul CR7 pentru a celebra măreția fotbalului. La prânz, o plimbare spre centru vă dezvăluie trecutul la Muzeul Zahărului și faimoasa catedrală Sé. După-amiaza vă poartă să admirați arta la Muzeul Henrique și Francisco Franco. Încheiați ziua la stația de telecabină, bucurându-vă de priveliști superbe asupra coastei.",
+        "en": "Kick off your cycling adventure at Casino da Madeira, before a fun stop at the CR7 Museum to celebrate football greatness. Midday brings a gentle ride toward the center, uncovering the past at the Sugar Museum and pausing at the iconic Sé cathedral. Afternoon pedals take you to admire fine arts at the Henrique and Francisco Franco Museum. Conclude your day at the Cable Car station."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:47",
+      "total_km": 9.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Igreja de São Martinho",
+            "hu": "São Martinho templom",
+            "ro": "Igreja de São Martinho",
+            "en": "Igreja de São Martinho"
+          },
+          "coords": [
+            -16.944039,
+            32.64919
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die großartige Architektur dieser hochgelegenen Kirche und parken Sie in der Nähe, um auch den umliegenden lokalen Friedhof zu erkunden.",
+            "hu": "Értékelje a dombtetőn álló templom nagyszerű építészetét és gyönyörű belsejét, parkoljon a közelben, hogy kényelmesen felfedezhesse a temetőt.",
+            "ro": "Apreciați arhitectura grandioasă a acestei biserici de pe deal, parcând în apropiere pentru a explora confortabil cimitirul local din împrejurimi.",
+            "en": "Appreciate the grand architecture and beautiful interior of this hilltop church, parking nearby to comfortably explore the surrounding local cemetery."
+          }
+        },
+        {
+          "name": {
+            "de": "Fortaleza do Pico",
+            "hu": "Pico erőd",
+            "ro": "Fortaleza do Pico",
+            "en": "Fortaleza do Pico"
+          },
+          "coords": [
+            -16.916385,
+            32.650877
+          ],
+          "category": "fortress",
+          "arrive_at": "09:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese Festung aus dem 17. Jahrhundert mit herrlichem Blick auf den Hafen und tragen Sie festes Schuhwerk für die steilen Kopfsteinpflasterwege.",
+            "hu": "Fedezze fel ezt az 17. századi erődöt, ahonnan pazar kilátás nyílik a kikötőre, és viseljen masszív cipőt a meredek macskaköves ösvények miatt.",
+            "ro": "Explorați această fortăreață din secolul al XVII-lea care oferă vederi panoramice ale portului, purtând încălțăminte solidă pentru cărările abrupte.",
+            "en": "Explore this impressive 17th-century fortress offering sweeping views of Funchal harbor, wearing sturdy shoes to comfortably navigate the steep cobblestone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Seilbahn Funchal",
+            "hu": "Funchali felvonó",
+            "ro": "Telecabina Funchal",
+            "en": "Funchal Cable Car"
+          },
+          "coords": [
+            -16.901193,
+            32.661339
+          ],
+          "category": "landmark",
+          "arrive_at": "11:23",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Schweben Sie über Funchal und genießen Sie die atemberaubende Aussicht auf die Küste, wobei Sie Tickets vorab online kaufen sollten, um Warteschlangen zu vermeiden.",
+            "hu": "Szárnyaljon Funchal felett a partvidék lélegzetelállító látványáért, és vegye meg a jegyeket előre online, hogy elkerülje a hosszú sorban állást.",
+            "ro": "Planați deasupra orașului Funchal pentru priveliști uluitoare ale coastei, cumpărând biletele online în avans pentru a sări peste cozile notorii de lungi.",
+            "en": "Soar above Funchal for breathtaking aerial views of the coastline and city, buying tickets online in advance to skip the notoriously long lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Nossa Senhora do Monte",
+            "hu": "Nossa Senhora do Monte",
+            "ro": "Nossa Senhora do Monte",
+            "en": "Nossa Senhora do Monte"
+          },
+          "coords": [
+            -16.902472,
+            32.67606
+          ],
+          "category": "religious",
+          "arrive_at": "11:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Ruhestätte des letzten Kaisers von Österreich in dieser Kirche und bereiten Sie sich auf den steilen Aufstieg über die Eingangstreppe vor.",
+            "hu": "Látogassa meg Ausztria utolsó császárának végső nyughelyét ebben a templomban, és készüljön fel a meredek lépcsőkre, amelyek a bejárathoz vezetnek.",
+            "ro": "Vizitați locul de odihnă al ultimului împărat al Austriei în această biserică și pregătiți-vă pentru o urcare abruptă pe treptele mari de la intrare.",
+            "en": "Visit the serene resting place of Austria's last emperor in this iconic church, and prepare for a steep but rewarding walk up the grand entrance steps."
+          }
+        },
+        {
+          "name": {
+            "de": "Tropischer Garten Monte Palace",
+            "hu": "Monte Palace Trópusi Kert",
+            "ro": "Grădina Tropicală Monte Palace",
+            "en": "Monte Palace Tropical Garden"
+          },
+          "coords": [
+            -16.901009,
+            32.675849
+          ],
+          "category": "museum",
+          "arrive_at": "12:37",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in diesem tropischen Garten voller exotischer Pflanzen und orientalischer Kunst und planen Sie mindestens zwei volle Stunden dafür ein.",
+            "hu": "Vesszen el az egzotikus növényekkel és keleti művészettel díszített trópusi kertben, és hagyjon legalább két teljes órát a gyűjtemények megtekintésére.",
+            "ro": "Pierdeți-vă în această grădină tropicală vastă, împodobită cu plante exotice, permițând cel puțin două ore pentru a vedea diversele colecții.",
+            "en": "Lose yourself in this expansive tropical garden adorned with exotic plants and oriental art, allowing at least two full hours to see the diverse collections."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour an der Igreja de São Martinho, gefolgt von der Fortaleza do Pico für einen herrlichen Hafenblick. Fahren Sie gegen Mittag zur Seilbahnstation, um die Stadt von oben zu erleben. Verbringen Sie den Nachmittag damit, zu den Höhen von Nossa Senhora do Monte zu fahren. Beenden Sie Ihren Roadtrip in der exotischen Schönheit der Gärten des Monte Palace.",
+        "hu": "Kezdje autós túráját az Igreja de São Martinho templomnál, majd a Fortaleza do Pico erődnél élvezze a kikötőre nyíló kilátást. Dél körül hajtson a felvonóhoz, hogy felülről is megcsodálja a várost. A délutánt Nossa Senhora do Monte magasságaiban töltheti, a történelmi templomot felfedezve. Autós utazását a Monte Palace kertek kiterjedt, egzotikus szépségével fejezheti be.",
+        "ro": "Începeți turul auto la grandioasa Igreja de São Martinho, urmată de Fortaleza do Pico pentru vederi asupra portului. La prânz, conduceți la stația de telecabină pentru a vedea orașul de sus. Petreceți după-amiaza urcând spre înălțimile de la Nossa Senhora do Monte pentru a explora biserica istorică. Încheiați-vă excursia prin frumusețea exotică a grădinilor Monte Palace.",
+        "en": "Start your driving tour at the grand Igreja de São Martinho, followed by a climb to Fortaleza do Pico for commanding harbor views. Around midday, drive to the Cable Car station to experience the city from above. Spend your afternoon ascending to the heights of Nossa Senhora do Monte to explore the historic church. Finish your road trip wandering the beautiful Monte Palace gardens."
+      }
+    }
+  }
+}

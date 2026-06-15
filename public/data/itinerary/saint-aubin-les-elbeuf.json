@@ -1,0 +1,474 @@
+{
+  "city_id": "saint-aubin-les-elbeuf",
+  "anchor": {
+    "name": "Saint-Aubin-lès-Elbeuf",
+    "coords": [
+      1.0111,
+      49.3003
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "12:47",
+      "total_km": 3.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Saint-Aubin",
+            "hu": "Saint-Aubin vasútállomás",
+            "ro": "Gara Saint-Aubin",
+            "en": "Saint-Aubin Train Station"
+          },
+          "coords": [
+            1.0197,
+            49.3027
+          ],
+          "category": "station",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem historischen Bahnhof der Region und bewundern Sie das Mauerwerk aus dem 19. Jahrhundert, bevor Sie einen Kaffee trinken.",
+            "hu": "Kezdje a napot ezen a történelmi, regionális vasúti csomóponton, megcsodálva a 19. századi téglafalakat, mielőtt meginna egy reggeli kávét a közelben.",
+            "ro": "Începeți ziua la acest nod feroviar istoric regional, admirând zidăria din secolul al XIX-lea înainte de a savura o cafea de dimineață în apropiere.",
+            "en": "Start your day at this historic railway hub serving the region, admiring its 19th-century brickwork before grabbing a morning coffee nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Aubin",
+            "hu": "Saint-Aubin templom",
+            "ro": "Biserica Saint-Aubin",
+            "en": "Saint-Aubin Church"
+          },
+          "coords": [
+            1.011908,
+            49.301364
+          ],
+          "category": "religious",
+          "arrive_at": "09:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese elegante örtliche Kirche mit ihren wunderschön erhaltenen Buntglasfenstern und treten Sie morgens für das beste Licht ein.",
+            "hu": "Fedezze fel ezt az elegáns helyi templomot, amely gyönyörűen megőrzött ólomüvegéről ismert, és látogasson el ide a délelőtti órákban a legjobb fényviszonyokért.",
+            "ro": "Descoperiți această biserică locală elegantă, renumită pentru vitraliile sale frumos conservate, și intrați dimineața pentru a beneficia de cea mai bună lumină.",
+            "en": "Discover this elegant local church known for its beautifully preserved stained glass, and step inside during morning hours for the best interior lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont Jean Jaurès",
+            "hu": "Pont Jean Jaurès",
+            "ro": "Pont Jean Jaurès",
+            "en": "Pont Jean Jaurès"
+          },
+          "coords": [
+            1.010334,
+            49.293268
+          ],
+          "category": "landmark",
+          "arrive_at": "10:38",
+          "stay_min": 15,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Spazieren Sie über diese markante Brücke, die die Städte über die Seine verbindet, um den Panoramablick zu genießen, aber halten Sie bei Wind Ihren Hut fest.",
+            "hu": "Sétáljon át a Szajna felett átívelő hídon, hogy élvezze a panorámás folyami kilátást, de szeles napokon ügyeljen a kalapjára.",
+            "ro": "Traversați acest pod proeminent care leagă orașele peste Sena pentru a vă bucura de vederi panoramice, dar țineți-vă pălăria în zilele cu vânt.",
+            "en": "Walk across this prominent bridge connecting the towns across the Seine to enjoy panoramic river views, but hold onto your hat during windy days."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont Guynemer",
+            "hu": "Pont Guynemer",
+            "ro": "Pont Guynemer",
+            "en": "Pont Guynemer"
+          },
+          "coords": [
+            1.0047,
+            49.294139
+          ],
+          "category": "landmark",
+          "arrive_at": "10:59",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser wichtigen Hängebrücke über die ruhigen Gewässer, die hervorragende Fotowinkel der vorbeifahrenden Kähne bietet, wenn Sie in der Mitte stehen.",
+            "hu": "Álljon meg ennél a nyugodt vizeken átívelő fontos függőhídnál, amely kiváló fotózási szögeket kínál az elhaladó uszályokhoz, ha középen áll.",
+            "ro": "Opriți-vă la acest pod suspendat vital peste apele liniștite, care oferă unghiuri excelente de fotografie ale șlepurilor trecătoare dacă stați la mijloc.",
+            "en": "Pause at this vital suspension bridge crossing over the tranquil waters, which offers excellent photography angles of the passing barges if you stand mid-span."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Georges",
+            "hu": "Saint-Georges templom",
+            "ro": "Biserica Saint-Georges",
+            "en": "Église Saint-Georges"
+          },
+          "coords": [
+            0.992533,
+            49.305741
+          ],
+          "category": "religious",
+          "arrive_at": "11:37",
+          "stay_min": 70,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historische Pfarrkirche im benachbarten Orival und beachten Sie die romanischen Merkmale, bevor Sie über den ruhigen Friedhof spazieren.",
+            "hu": "Fedezze fel ezt a szomszédos Orivalban büszkén álló történelmi plébániatemplomot, figyelve meg annak román kori jegyeit, mielőtt körbesétálná a csendes temetőt.",
+            "ro": "Explorați această biserică parohială istorică situată în cartierul vecin Orival, remarcând detaliile romanice înainte de a vă plimba prin cimitirul liniștit.",
+            "en": "Explore this historic parish church standing proudly in the neighboring Orival area, noting its Romanesque features before walking around the quiet graveyard."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am örtlichen Bahnhof, bevor Sie die Buntglasfenster der Kirche von Saint-Aubin bewundern. Gegen Mittag überqueren Sie die Seine über Pont Jean Jaurès und Guynemer und genießen weite Flusspanoramen. Ihren Nachmittag verbringen Sie damit, in das benachbarte Orival zu spazieren, um die Église Saint-Georges zu entdecken. Beenden Sie Ihre Tour mit einem friedlichen Abendessen.",
+        "hu": "Kezdje a reggelt a helyi vasútállomás hangulatának befogadásával, mielőtt megcsodálná a Saint-Aubin templom üvegablakait. Délben a Szajnán kel át a Pont Jean Jaurès és Guynemer hidakon, élvezve a folyami panorámát. A délutánt a szomszédos Orivalban tölti, felfedezve a bájos Église Saint-Georges-t. Fejezze be sétáját egy békés vacsorával a régió építészeti emlékein elmélkedve.",
+        "ro": "Începeți dimineața absorbind atmosfera la gara locală înainte de a admira vitraliile Bisericii Saint-Aubin. La prânz, veți traversa Sena prin Pont Jean Jaurès și Guynemer, bucurându-vă de panoramele râului. După-amiaza o veți petrece plimbându-vă în cartierul vecin Orival pentru a descoperi fermecătoarea Église Saint-Georges. Încheiați turul pietonal cu o cină liniștită.",
+        "en": "Start your morning absorbing the atmosphere at the local train station before admiring the stained glass of the Saint-Aubin Church. By midday, you'll be crossing the Seine via Pont Jean Jaurès and Guynemer, taking in sweeping river panoramas. Your afternoon is spent wandering into neighboring Orival to discover the charming Église Saint-Georges. Conclude your tour with a peaceful evening meal."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:02",
+      "total_km": 6.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Saint-Aubin",
+            "hu": "Saint-Aubin vasútállomás",
+            "ro": "Gara Saint-Aubin",
+            "en": "Saint-Aubin Train Station"
+          },
+          "coords": [
+            1.0197,
+            49.3027
+          ],
+          "category": "station",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem historischen Bahnhof der Region und bewundern Sie das Mauerwerk aus dem 19. Jahrhundert, bevor Sie einen Kaffee trinken.",
+            "hu": "Kezdje a napot ezen a történelmi, regionális vasúti csomóponton, megcsodálva a 19. századi téglafalakat, mielőtt meginna egy reggeli kávét a közelben.",
+            "ro": "Începeți ziua la acest nod feroviar istoric regional, admirând zidăria din secolul al XIX-lea înainte de a savura o cafea de dimineață în apropiere.",
+            "en": "Start your day at this historic railway hub serving the region, admiring its 19th-century brickwork before grabbing a morning coffee nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Aubin",
+            "hu": "Saint-Aubin templom",
+            "ro": "Biserica Saint-Aubin",
+            "en": "Saint-Aubin Church"
+          },
+          "coords": [
+            1.011908,
+            49.301364
+          ],
+          "category": "religious",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese elegante örtliche Kirche mit ihren wunderschön erhaltenen Buntglasfenstern und treten Sie morgens für das beste Licht ein.",
+            "hu": "Fedezze fel ezt az elegáns helyi templomot, amely gyönyörűen megőrzött ólomüvegéről ismert, és látogasson el ide a délelőtti órákban a legjobb fényviszonyokért.",
+            "ro": "Descoperiți această biserică locală elegantă, renumită pentru vitraliile sale frumos conservate, și intrați dimineața pentru a beneficia de cea mai bună lumină.",
+            "en": "Discover this elegant local church known for its beautifully preserved stained glass, and step inside during morning hours for the best interior lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont Jean Jaurès",
+            "hu": "Pont Jean Jaurès",
+            "ro": "Pont Jean Jaurès",
+            "en": "Pont Jean Jaurès"
+          },
+          "coords": [
+            1.010334,
+            49.293268
+          ],
+          "category": "landmark",
+          "arrive_at": "10:23",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Spazieren Sie über diese markante Brücke, die die Städte über die Seine verbindet, um den Panoramablick zu genießen, aber halten Sie bei Wind Ihren Hut fest.",
+            "hu": "Sétáljon át a Szajna felett átívelő hídon, hogy élvezze a panorámás folyami kilátást, de szeles napokon ügyeljen a kalapjára.",
+            "ro": "Traversați acest pod proeminent care leagă orașele peste Sena pentru a vă bucura de vederi panoramice, dar țineți-vă pălăria în zilele cu vânt.",
+            "en": "Walk across this prominent bridge connecting the towns across the Seine to enjoy panoramic river views, but hold onto your hat during windy days."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont Guynemer",
+            "hu": "Pont Guynemer",
+            "ro": "Pont Guynemer",
+            "en": "Pont Guynemer"
+          },
+          "coords": [
+            1.0047,
+            49.294139
+          ],
+          "category": "landmark",
+          "arrive_at": "10:40",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser wichtigen Hängebrücke über die ruhigen Gewässer, die hervorragende Fotowinkel der vorbeifahrenden Kähne bietet, wenn Sie in der Mitte stehen.",
+            "hu": "Álljon meg ennél a nyugodt vizeken átívelő fontos függőhídnál, amely kiváló fotózási szögeket kínál az elhaladó uszályokhoz, ha középen áll.",
+            "ro": "Opriți-vă la acest pod suspendat vital peste apele liniștite, care oferă unghiuri excelente de fotografie ale șlepurilor trecătoare dacă stați la mijloc.",
+            "en": "Pause at this vital suspension bridge crossing over the tranquil waters, which offers excellent photography angles of the passing barges if you stand mid-span."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Georges",
+            "hu": "Saint-Georges templom",
+            "ro": "Biserica Saint-Georges",
+            "en": "Église Saint-Georges"
+          },
+          "coords": [
+            0.992533,
+            49.305741
+          ],
+          "category": "religious",
+          "arrive_at": "11:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historische Pfarrkirche im benachbarten Orival und beachten Sie die romanischen Merkmale, bevor Sie über den ruhigen Friedhof spazieren.",
+            "hu": "Fedezze fel ezt a szomszédos Orivalban büszkén álló történelmi plébániatemplomot, figyelve meg annak román kori jegyeit, mielőtt körbesétálná a csendes temetőt.",
+            "ro": "Explorați această biserică parohială istorică situată în cartierul vecin Orival, remarcând detaliile romanice înainte de a vă plimba prin cimitirul liniștit.",
+            "en": "Explore this historic parish church standing proudly in the neighboring Orival area, noting its Romanesque features before walking around the quiet graveyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Viadukt von Orival",
+            "hu": "Orival viadukt",
+            "ro": "Viaductul din Orival",
+            "en": "Viaduc d'Orival"
+          },
+          "coords": [
+            0.999078,
+            49.310116
+          ],
+          "category": "landmark",
+          "arrive_at": "11:47",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Blicken Sie zu diesem beeindruckenden Eisenbahnviadukt hinauf, das über das Tal ragt; ein wahres Wunder der Industrietechnik, das man am besten vom Flussufer betrachtet.",
+            "hu": "Tekintsen fel erre a völgy fölé magasodó lenyűgöző vasúti viaduktra, amely az ipari mérnöki munka csodája, és legjobban a folyópartról látható.",
+            "ro": "Priviți în sus la acest impresionant viaduct feroviar care se înalță deasupra văii, o minune a ingineriei industriale cel mai bine văzută de pe malul râului.",
+            "en": "Gaze up at this impressive railway viaduct towering above the valley, a true marvel of industrial engineering best viewed from the riverbanks below."
+          }
+        },
+        {
+          "name": {
+            "de": "Brûlins Park",
+            "hu": "Brûlins Park",
+            "ro": "Parcul Brûlins",
+            "en": "Brûlins Park"
+          },
+          "coords": [
+            1.025581,
+            49.306197
+          ],
+          "category": "recreational",
+          "arrive_at": "12:17",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem weitläufigen grünen Erholungsgebiet, das sich perfekt für einen ruhigen Nachmittag eignet, und bringen Sie lokale Snacks für ein Picknick mit.",
+            "hu": "Pihenjen ebben a hatalmas zöld rekreációs területen, amely tökéletes egy békés délutánhoz, és hozzon magával helyi falatokat az árnyékos piknikasztalokhoz.",
+            "ro": "Relaxați-vă în această zonă vastă de recreere, perfectă pentru o după-amiază liniștită, și aduceți gustări locale pentru a le savura la mesele de picnic.",
+            "en": "Relax in this expansive green recreational area perfect for a peaceful afternoon, and bring some local snacks to enjoy at one of the shaded picnic tables."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie vom historischen Bahnhof zur eleganten Kirche Saint-Aubin, während Ihr Morgen beginnt. Der Mittag lädt zu einer luftigen Fahrt über die zwei großen Brücken der Stadt ein, mit spektakulären Ausblicken. Am Nachmittag radeln Sie zum beeindruckenden Viaduc d'Orival, bevor Sie im Brûlins Park entspannen. Beenden Sie Ihren aktiven Tag und beobachten Sie, wie das Sonnenlicht über den Rasenflächen schwindet.",
+        "hu": "Tekerjen el a történelmi vasútállomástól az elegáns Saint-Aubin templom felé a reggel kezdetén. A délidő szellős túrát kínál a város két fő hídján, látványos kilátást nyújtva a folyami forgalomra. Délután a lenyűgöző Viaduc d'Orival felé kerékpározik, majd átkel a városon, hogy a Brûlins Parkban pihenjen. Fejezze be aktív napját, figyelve a hatalmas zöld pázsiton eltűnő naplementét.",
+        "ro": "Pedalați de la gara istorică spre eleganta Biserică Saint-Aubin în timp ce dimineața începe. Prânzul vă invită la o plimbare revigorantă peste cele două poduri majore, oferind perspective spectaculoase. După-amiaza, veți cicla spre impresionantul Viaduc d'Orival înainte de a vă relaxa în Parcul Brûlins. Terminați ziua activă admirând apusul de soare peste peluzele verzi.",
+        "en": "Pedal away from the historic train station towards the elegant Saint-Aubin Church as your morning begins. Midday invites a breezy ride across the town's two major bridges, granting spectacular viewpoints of the river traffic. In the afternoon, you'll cycle towards the impressive Viaduc d'Orival before heading across town to relax at Brûlins Park. Finish your day watching the sunset light fade."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:21",
+      "total_km": 7.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Aubin",
+            "hu": "Saint-Aubin templom",
+            "ro": "Biserica Saint-Aubin",
+            "en": "Saint-Aubin Church"
+          },
+          "coords": [
+            1.011908,
+            49.301364
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese elegante örtliche Kirche mit ihren wunderschön erhaltenen Buntglasfenstern und treten Sie morgens für das beste Licht ein.",
+            "hu": "Fedezze fel ezt az elegáns helyi templomot, amely gyönyörűen megőrzött ólomüvegéről ismert, és látogasson el ide a délelőtti órákban a legjobb fényviszonyokért.",
+            "ro": "Descoperiți această biserică locală elegantă, renumită pentru vitraliile sale frumos conservate, și intrați dimineața pentru a beneficia de cea mai bună lumină.",
+            "en": "Discover this elegant local church known for its beautifully preserved stained glass, and step inside during morning hours for the best interior lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont Guynemer",
+            "hu": "Pont Guynemer",
+            "ro": "Pont Guynemer",
+            "en": "Pont Guynemer"
+          },
+          "coords": [
+            1.0047,
+            49.294139
+          ],
+          "category": "landmark",
+          "arrive_at": "09:53",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser wichtigen Hängebrücke über die ruhigen Gewässer, die hervorragende Fotowinkel der vorbeifahrenden Kähne bietet, wenn Sie in der Mitte stehen.",
+            "hu": "Álljon meg ennél a nyugodt vizeken átívelő fontos függőhídnál, amely kiváló fotózási szögeket kínál az elhaladó uszályokhoz, ha középen áll.",
+            "ro": "Opriți-vă la acest pod suspendat vital peste apele liniștite, care oferă unghiuri excelente de fotografie ale șlepurilor trecătoare dacă stați la mijloc.",
+            "en": "Pause at this vital suspension bridge crossing over the tranquil waters, which offers excellent photography angles of the passing barges if you stand mid-span."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Georges",
+            "hu": "Saint-Georges templom",
+            "ro": "Biserica Saint-Georges",
+            "en": "Église Saint-Georges"
+          },
+          "coords": [
+            0.992533,
+            49.305741
+          ],
+          "category": "religious",
+          "arrive_at": "10:11",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historische Pfarrkirche im benachbarten Orival und beachten Sie die romanischen Merkmale, bevor Sie über den ruhigen Friedhof spazieren.",
+            "hu": "Fedezze fel ezt a szomszédos Orivalban büszkén álló történelmi plébániatemplomot, figyelve meg annak román kori jegyeit, mielőtt körbesétálná a csendes temetőt.",
+            "ro": "Explorați această biserică parohială istorică situată în cartierul vecin Orival, remarcând detaliile romanice înainte de a vă plimba prin cimitirul liniștit.",
+            "en": "Explore this historic parish church standing proudly in the neighboring Orival area, noting its Romanesque features before walking around the quiet graveyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Viadukt von Orival",
+            "hu": "Orival viadukt",
+            "ro": "Viaductul din Orival",
+            "en": "Viaduc d'Orival"
+          },
+          "coords": [
+            0.999078,
+            49.310116
+          ],
+          "category": "landmark",
+          "arrive_at": "10:52",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Blicken Sie zu diesem beeindruckenden Eisenbahnviadukt hinauf, das über das Tal ragt; ein wahres Wunder der Industrietechnik, das man am besten vom Flussufer betrachtet.",
+            "hu": "Tekintsen fel erre a völgy fölé magasodó lenyűgöző vasúti viaduktra, amely az ipari mérnöki munka csodája, és legjobban a folyópartról látható.",
+            "ro": "Priviți în sus la acest impresionant viaduct feroviar care se înalță deasupra văii, o minune a ingineriei industriale cel mai bine văzută de pe malul râului.",
+            "en": "Gaze up at this impressive railway viaduct towering above the valley, a true marvel of industrial engineering best viewed from the riverbanks below."
+          }
+        },
+        {
+          "name": {
+            "de": "Fanum",
+            "hu": "Fanum",
+            "ro": "Fanum",
+            "en": "Fanum"
+          },
+          "coords": [
+            0.999143,
+            49.320435
+          ],
+          "category": "historical",
+          "arrive_at": "11:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Ruinen dieses im Wald versteckten gallo-romanischen Tempels; tragen Sie feste Schuhe, da die Wege uneben sein können.",
+            "hu": "Fedezze fel az erdőben megbúvó ókori gall-római templom lenyűgöző romjait, és viseljen masszív sétálócipőt, mivel az ösvények egyenetlenek lehetnek.",
+            "ro": "Descoperiți ruinele fascinante ale acestui templu galo-roman ascuns în pădure; purtați încălțăminte robustă, deoarece potecile pot fi denivelate.",
+            "en": "Uncover the fascinating ruins of this ancient Gallo-Roman temple hidden in the forest, wearing sturdy walking shoes as the surrounding trails can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Brûlins Park",
+            "hu": "Brûlins Park",
+            "ro": "Parcul Brûlins",
+            "en": "Brûlins Park"
+          },
+          "coords": [
+            1.025581,
+            49.306197
+          ],
+          "category": "recreational",
+          "arrive_at": "12:36",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem weitläufigen grünen Erholungsgebiet, das sich perfekt für einen ruhigen Nachmittag eignet, und bringen Sie lokale Snacks für ein Picknick mit.",
+            "hu": "Pihenjen ebben a hatalmas zöld rekreációs területen, amely tökéletes egy békés délutánhoz, és hozzon magával helyi falatokat az árnyékos piknikasztalokhoz.",
+            "ro": "Relaxați-vă în această zonă vastă de recreere, perfectă pentru o după-amiază liniștită, și aduceți gustări locale pentru a le savura la mesele de picnic.",
+            "en": "Relax in this expansive green recreational area perfect for a peaceful afternoon, and bring some local snacks to enjoy at one of the shaded picnic tables."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie in das Stadtzentrum und beginnen Sie den Tag damit, die Kirche Saint-Aubin zu bewundern. Gegen Mittag überqueren Sie den Pont Guynemer, bevor Sie an der historischen Église Saint-Georges halten und das Viaduc d'Orival besichtigen. Verbringen Sie einen faszinierenden Nachmittag mit einer Wanderung zu den antiken Fanum-Ruinen und entspannen Sie sich dann im Brûlins Park. Ein ruhiger Abendspaziergang beendet Ihre Tour.",
+        "hu": "Vezessen be a városközpontba, és kezdje a napot a Saint-Aubin templom bonyolult részleteinek megcsodálásával. Délben keljen át a Pont Guynemer-en, mielőtt megáll a történelmi Église Saint-Georges-nál és megnézi a Viaduc d'Orival-t. Töltsön egy lenyűgöző délutánt a túrázással az ókori Fanum romokhoz, mielőtt kikapcsolódna a Brûlins Parkban. Egy csendes esti séta tökéletes befejezést kínál túrájához.",
+        "ro": "Conduceți liniștit spre centrul orașului, admirând detaliile Bisericii Saint-Aubin. Pe la prânz, traversați Pont Guynemer înainte de a vă opri la istorica Église Saint-Georges și de a vedea monumentalul Viaduc d'Orival. Petreceți o după-amiază fascinantă făcând o drumeție către vechile ruine Fanum, înainte de a vă relaxa în Parcul Brûlins. O plimbare liniștită de seară oferă finalul perfect.",
+        "en": "Drive smoothly into the city center, starting your day admiring the intricate details of the Saint-Aubin Church. Around midday, cross over the Pont Guynemer before pausing at the historic Église Saint-Georges and viewing the monumental Viaduc d'Orival. Spend a fascinating afternoon hiking slightly off-road to the ancient Fanum ruins, before unwinding at Brûlins Park. A quiet evening stroll in the park offers the perfect relaxing end."
+      }
+    }
+  }
+}

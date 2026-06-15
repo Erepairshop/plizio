@@ -1,0 +1,497 @@
+{
+  "city_id": "portugal-azeitao-sao-lourenco-e-sao-simao-cities-v2",
+  "anchor": {
+    "name": "Azeitão (São Lourenço e São Simão)",
+    "coords": [
+      -9.0138,
+      38.5194
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:53",
+      "total_km": 2.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pranger von Vila Nogueira de Azeitão",
+            "hu": "Vila Nogueira de Azeitão Pellengér",
+            "ro": "Stâlpul Infamiei din Vila Nogueira de Azeitão",
+            "en": "Pillory of Vila Nogueira de Azeitão"
+          },
+          "coords": [
+            -9.013721,
+            38.518669
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen zentralen Pranger als Symbol der historischen Justiz, ein idealer Ausgangspunkt, um in der Nähe eine Torta de Azeitão zu probieren.",
+            "hu": "Csodálja meg ezt a történelmi igazságszolgáltatást jelképező központi pellengért, amely tökéletes kiindulópont egy közeli Torta de Azeitão megkóstolásához.",
+            "ro": "Admirați acest stâlp al infamiei ce simbolizează justiția istorică, un punct de plecare perfect unde puteți savura o prăjitură locală Torta de Azeitão.",
+            "en": "Admire this central pillory symbolizing historic local justice, a perfect starting point where you can grab a local Torta de Azeitão pastry nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast der Herzöge von Aveiro",
+            "hu": "Aveiro Hercegek Palotája",
+            "ro": "Palatul Ducilor de Aveiro",
+            "en": "Palace of the Dukes of Aveiro"
+          },
+          "coords": [
+            -9.012724,
+            38.518514
+          ],
+          "category": "castle",
+          "arrive_at": "09:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Renaissance-Architektur dieser edlen Residenz und betrachten Sie die prächtige Fassade am besten früh am Tag für das beste Licht.",
+            "hu": "Csodálja meg e nemesi rezidencia reneszánsz építészetét, és a legjobb fényviszonyok érdekében próbálja meg kora reggel megtekinteni a pompás homlokzatot.",
+            "ro": "Minunați-vă de arhitectura renascentistă a acestei reședințe nobiliare și vizitați fațada grandioasă devreme în zi pentru a beneficia de cea mai bună lumină.",
+            "en": "Marvel at the Renaissance architecture of this historic noble residence, and try to view the grand facade early in the day for the best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast Quinta das Torres",
+            "hu": "Quinta das Torres Palota",
+            "ro": "Palatul Quinta das Torres",
+            "en": "Quinta das Torres Palace"
+          },
+          "coords": [
+            -9.006071,
+            38.519969
+          ],
+          "category": "castle",
+          "arrive_at": "11:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses elegante Anwesen aus dem 16. Jahrhundert mit schönen Gärten, ideal für einen ruhigen Spaziergang, bevor die Sonne zu heiß wird.",
+            "hu": "Fedezze fel ezt a 16. századi elegáns birtokot és tavat, amely ideális egy csendes délelőtti sétához, mielőtt a nap túlzottan felmelegítené a levegőt.",
+            "ro": "Explorați această moșie elegantă din secolul al XVI-lea cu grădini superbe, ideală pentru o plimbare liniștită de dimineață înainte să se încălzească.",
+            "en": "Explore this elegant 16th-century estate featuring beautiful gardens and a serene lake, ideal for a quiet mid-morning stroll before the sun gets too hot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von São Simão",
+            "hu": "São Simão Templom",
+            "ro": "Biserica São Simão",
+            "en": "Church of São Simão"
+          },
+          "coords": [
+            -8.994761,
+            38.525255
+          ],
+          "category": "religious",
+          "arrive_at": "12:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Betreten Sie diese charmante Kirche, um die atemberaubenden Azulejo-Fliesen zu entdecken, und achten Sie auf angemessene Kleidung aus Respekt vor dem Ort.",
+            "hu": "Lépjen be ebbe a bájos templomba, hogy felfedezze a lenyűgöző azulejo csempéket, és ne feledjen szerényen öltözködni a helyi közösség tisztelete miatt.",
+            "ro": "Pășiți în această biserică fermecătoare pentru a descoperi plăcile azulejo uimitoare și asigurați-vă că vă îmbrăcați decent din respect pentru lăcaș.",
+            "en": "Step inside this charming church to discover its stunning azulejo tilework, and remember to dress modestly out of respect for the local congregation."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast und Gut Bacalhoa",
+            "hu": "Bacalhoa Palota és Birtok",
+            "ro": "Palatul și Domeniul Bacalhoa",
+            "en": "Bacalhoa Palace and Estate"
+          },
+          "coords": [
+            -8.993791,
+            38.52609
+          ],
+          "category": "natural",
+          "arrive_at": "13:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die üppigen Weinberge dieses Palastes und buchen Sie Ihre geführte Weinprobe unbedingt rechtzeitig im Voraus, um sich einen Platz zu sichern.",
+            "hu": "Járja be a híres borászat buja szőlőültetvényeit és történelmi palotáját, és a biztos hely érdekében jó előre foglalja le a vezetett borkóstolót.",
+            "ro": "Vizitați podgoriile luxuriante și palatul istoric ale acestei faimoase moșii viticole și rezervați-vă degustarea ghidată din timp pentru a prinde loc.",
+            "en": "Tour the lush vineyards and exquisite historic palace of this famous wine estate, and book your guided tasting session well in advance to secure a spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Bacalhôa Berardo Collection",
+            "hu": "Bacalhôa Berardo Gyűjtemény",
+            "ro": "Colecția Bacalhôa Berardo",
+            "en": "Bacalhôa Berardo Collection"
+          },
+          "coords": [
+            -8.991361,
+            38.524755
+          ],
+          "category": "museum",
+          "arrive_at": "14:43",
+          "stay_min": 130,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem einzigartigen Museum eine beeindruckende Sammlung zeitgenössischer Kunst und planen Sie mindestens eine Stunde für die Ausstellungen ein.",
+            "hu": "Fedezze fel a kortárs művészet lenyűgöző sorát ebben az egyedülálló múzeumban, és szánjon legalább egy órát a különleges kiállítások teljes értékelésére.",
+            "ro": "Descoperiți o impresionantă colecție de artă contemporană în acest muzeu unic, alocând cel puțin o oră pentru a aprecia pe deplin exponatele fascinante.",
+            "en": "Discover an impressive array of contemporary art and African artifacts in this unique museum, allowing at least an hour to fully appreciate the exhibits."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Zentrum von Azeitão am Pelourinho und bewundern Sie die Architektur des Palácio dos Duques de Aveiro. Danach spazieren Sie in südöstlicher Richtung zur Quinta das Torres, um in die Geschichte des 16. Jahrhunderts einzutauchen. Nachmittags erkunden Sie die bezaubernde Igreja de São Simão, gefolgt von der Weinpracht des Palácio e Quinta da Bacalhoa. Beenden Sie die Tour in der vielfältigen Berardo Collection.",
+        "hu": "Kezdje a napot Azeitão történelmi központjában, a Pelourinho megtekintésével, majd csodálja meg az Aveiro hercegek palotáját. Ezután sétáljon el a Quinta das Torres birtokához, hogy elmerüljön a 16. század eleganciájában. Délután fedezze fel a bájos São Simão templomot, amelyet a Bacalhoa palota borászati pompája követ. A napot a változatos Berardo Gyűjtemény kortárs művészeti kiállításán zárja.",
+        "ro": "Începeți ziua în centrul istoric la Pelourinho și admirați arhitectura Palatului Ducilor de Aveiro. Apoi, plimbați-vă spre Quinta das Torres pentru a vă scufunda în istoria secolului al XVI-lea. După-amiaza explorați fermecătoarea Biserică São Simão, urmată de splendoarea viticolă a Palatului și Domeniului Bacalhoa. Încheiați traseul analizând operele de artă din vasta Colecție Berardo.",
+        "en": "Start your day in the historic center at the Pelourinho and admire the grand architecture of the Dukes of Aveiro Palace. Afterwards, stroll over to the Quinta das Torres estate to immerse yourself in 16th-century elegance. In the afternoon, explore the charming São Simão Church, followed by the viticultural splendor of the Bacalhoa Palace. Conclude your journey viewing the diverse Berardo Collection."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 5.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Palast der Herzöge von Aveiro",
+            "hu": "Aveiro Hercegek Palotája",
+            "ro": "Palatul Ducilor de Aveiro",
+            "en": "Palace of the Dukes of Aveiro"
+          },
+          "coords": [
+            -9.012724,
+            38.518514
+          ],
+          "category": "castle",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Renaissance-Architektur dieser edlen Residenz und betrachten Sie die prächtige Fassade am besten früh am Tag für das beste Licht.",
+            "hu": "Csodálja meg e nemesi rezidencia reneszánsz építészetét, és a legjobb fényviszonyok érdekében próbálja meg kora reggel megtekinteni a pompás homlokzatot.",
+            "ro": "Minunați-vă de arhitectura renascentistă a acestei reședințe nobiliare și vizitați fațada grandioasă devreme în zi pentru a beneficia de cea mai bună lumină.",
+            "en": "Marvel at the Renaissance architecture of this historic noble residence, and try to view the grand facade early in the day for the best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Terrakotta-Armee",
+            "hu": "Terrakotta Hadsereg",
+            "ro": "Armata de Teracotă",
+            "en": "Terracotta Army"
+          },
+          "coords": [
+            -9.016414,
+            38.523462
+          ],
+          "category": "landmark",
+          "arrive_at": "10:33",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beobachten Sie diese überraschende lokale Nachbildung der Terrakotta-Krieger, die eine schnelle und skurrile Fotogelegenheit nahe der Weinkeller bietet.",
+            "hu": "Tekintse meg a híres terrakotta harcosok meglepő helyi másolatát, amely egy gyors és különleges fotózási lehetőséget kínál a fő borospincék közelében.",
+            "ro": "Observați această copie locală surprinzătoare a războinicilor de teracotă, oferind o oportunitate rapidă și inedită de fotografie lângă cramele principale.",
+            "en": "Observe this surprising local replica of the famous terracotta warriors, offering a quick and quirky photo opportunity near the main wine cellars."
+          }
+        },
+        {
+          "name": {
+            "de": "Bacalhôa - Vinhos de Portugal",
+            "hu": "Bacalhôa - Vinhos de Portugal",
+            "ro": "Bacalhôa - Vinhos de Portugal",
+            "en": "Bacalhôa - Vinhos de Portugal"
+          },
+          "coords": [
+            -9.016466,
+            38.524588
+          ],
+          "category": "landmark",
+          "arrive_at": "10:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Einblick in den regionalen Weinbau in dieser modernen Anlage, wo der Direktkauf von Flaschen oft günstiger ist als in den Geschäften.",
+            "hu": "Kezdje a regionális borkészítés megismerését ebben a modern létesítményben, ahol a palackok közvetlen megvásárlása gyakran kedvezőbb a bolti áraknál.",
+            "ro": "Începeți explorarea vinificației regionale la această unitate modernă, unde achiziționarea sticlelor direct este adesea mai avantajoasă decât din magazine.",
+            "en": "Begin your deep dive into regional winemaking at this modern facility, where purchasing bottles directly often yields better prices than local stores."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast und Gut Bacalhoa",
+            "hu": "Bacalhoa Palota és Birtok",
+            "ro": "Palatul și Domeniul Bacalhoa",
+            "en": "Bacalhoa Palace and Estate"
+          },
+          "coords": [
+            -8.993791,
+            38.52609
+          ],
+          "category": "natural",
+          "arrive_at": "12:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die üppigen Weinberge dieses Palastes und buchen Sie Ihre geführte Weinprobe unbedingt rechtzeitig im Voraus, um sich einen Platz zu sichern.",
+            "hu": "Járja be a híres borászat buja szőlőültetvényeit és történelmi palotáját, és a biztos hely érdekében jó előre foglalja le a vezetett borkóstolót.",
+            "ro": "Vizitați podgoriile luxuriante și palatul istoric ale acestei faimoase moșii viticole și rezervați-vă degustarea ghidată din timp pentru a prinde loc.",
+            "en": "Tour the lush vineyards and exquisite historic palace of this famous wine estate, and book your guided tasting session well in advance to secure a spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von São Simão",
+            "hu": "São Simão Templom",
+            "ro": "Biserica São Simão",
+            "en": "Church of São Simão"
+          },
+          "coords": [
+            -8.994761,
+            38.525255
+          ],
+          "category": "religious",
+          "arrive_at": "13:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Betreten Sie diese charmante Kirche, um die atemberaubenden Azulejo-Fliesen zu entdecken, und achten Sie auf angemessene Kleidung aus Respekt vor dem Ort.",
+            "hu": "Lépjen be ebbe a bájos templomba, hogy felfedezze a lenyűgöző azulejo csempéket, és ne feledjen szerényen öltözködni a helyi közösség tisztelete miatt.",
+            "ro": "Pășiți în această biserică fermecătoare pentru a descoperi plăcile azulejo uimitoare și asigurați-vă că vă îmbrăcați decent din respect pentru lăcaș.",
+            "en": "Step inside this charming church to discover its stunning azulejo tilework, and remember to dress modestly out of respect for the local congregation."
+          }
+        },
+        {
+          "name": {
+            "de": "Cuco Windmühle",
+            "hu": "Cuco Szélmalom",
+            "ro": "Moara de Vânt Cuco",
+            "en": "Cuco Windmill"
+          },
+          "coords": [
+            -8.986623,
+            38.51943
+          ],
+          "category": "landmark",
+          "arrive_at": "14:21",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Wandern Sie abseits der ausgetretenen Pfade zu dieser traditionellen Windmühle und tragen Sie festes Schuhwerk, um die unebenen Wege sicher zu meistern.",
+            "hu": "Túrázzon egy kicsit a kitaposott ösvényről, hogy lássa ezt a hagyományos szélmalmot, és viseljen masszív cipőt az egyenetlen vidéki utakon való sétához.",
+            "ro": "Faceți o drumeție ușoară pentru a vedea această moară de vânt tradițională, purtând încălțăminte solidă pentru a naviga confortabil pe traseele rurale.",
+            "en": "Hike slightly off the beaten path to see this traditional windmill, wearing sturdy shoes to comfortably navigate the uneven rural trails around it."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast Quinta das Torres",
+            "hu": "Quinta das Torres Palota",
+            "ro": "Palatul Quinta das Torres",
+            "en": "Quinta das Torres Palace"
+          },
+          "coords": [
+            -9.006071,
+            38.519969
+          ],
+          "category": "castle",
+          "arrive_at": "14:55",
+          "stay_min": 110,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses elegante Anwesen aus dem 16. Jahrhundert mit schönen Gärten, ideal für einen ruhigen Spaziergang, bevor die Sonne zu heiß wird.",
+            "hu": "Fedezze fel ezt a 16. századi elegáns birtokot és tavat, amely ideális egy csendes délelőtti sétához, mielőtt a nap túlzottan felmelegítené a levegőt.",
+            "ro": "Explorați această moșie elegantă din secolul al XVI-lea cu grădini superbe, ideală pentru o plimbare liniștită de dimineață înainte să se încălzească.",
+            "en": "Explore this elegant 16th-century estate featuring beautiful gardens and a serene lake, ideal for a quiet mid-morning stroll before the sun gets too hot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die morgendliche Radtour beginnt am beeindruckenden Palácio dos Duques de Aveiro, gefolgt von einem kurzen Stopp an der skurrilen Terrakotta-Armee. Am Vormittag tauchen Sie bei Bacalhôa Vinhos tief in die Weinherstellung ein. Nachmittags fahren Sie zum majestätischen Palácio da Bacalhoa und zur Kirche São Simão. Beenden Sie den Tag an der Windmühle Cuco und am ruhigen Palácio da Quinta das Torres.",
+        "hu": "A reggeli kerékpártúra a lenyűgöző Aveiro hercegi palotánál kezdődik, majd egy rövid megálló következik a terrakotta hadseregnél. Délelőtt a Bacalhôa Vinhosnál elmélyedhet a borkészítés rejtelmeiben. Délután tekerjen el a fenséges Bacalhoa palotához és a São Simão templomhoz. A napot a Cuco szélmalomnál és a békés Quinta das Torres palotánál érdemes kellemesen és nyugodtan befejezni.",
+        "ro": "Turul matinal cu bicicleta începe la Palatul Ducilor de Aveiro, urmat de o scurtă oprire la inedita Armată de Teracotă. Mai târziu, aprofundați vinificația la Bacalhôa Vinhos. După-amiaza pedalați către maiestuosul Palat Bacalhoa și Biserica São Simão. Încheiați ziua relaxant la Moara de vânt Cuco și pe domeniul liniștit de la Palatul Quinta das Torres, bucurându-vă de aerul rural.",
+        "en": "Your morning ride starts at the impressive Dukes of Aveiro Palace, followed by a quick stop at the quirky Terracotta Army replica. Midday, dive deep into local winemaking at the Bacalhôa Vinhos facility. In the afternoon, pedal over to the majestic Bacalhoa Palace and the historic São Simão Church. Finish the day exploring the rustic Cuco Windmill and the serene Quinta das Torres estate."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:18",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pranger von Vila Nogueira de Azeitão",
+            "hu": "Vila Nogueira de Azeitão Pellengér",
+            "ro": "Stâlpul Infamiei din Vila Nogueira de Azeitão",
+            "en": "Pillory of Vila Nogueira de Azeitão"
+          },
+          "coords": [
+            -9.013721,
+            38.518669
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen zentralen Pranger als Symbol der historischen Justiz, ein idealer Ausgangspunkt, um in der Nähe eine Torta de Azeitão zu probieren.",
+            "hu": "Csodálja meg ezt a történelmi igazságszolgáltatást jelképező központi pellengért, amely tökéletes kiindulópont egy közeli Torta de Azeitão megkóstolásához.",
+            "ro": "Admirați acest stâlp al infamiei ce simbolizează justiția istorică, un punct de plecare perfect unde puteți savura o prăjitură locală Torta de Azeitão.",
+            "en": "Admire this central pillory symbolizing historic local justice, a perfect starting point where you can grab a local Torta de Azeitão pastry nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Bacalhôa - Vinhos de Portugal",
+            "hu": "Bacalhôa - Vinhos de Portugal",
+            "ro": "Bacalhôa - Vinhos de Portugal",
+            "en": "Bacalhôa - Vinhos de Portugal"
+          },
+          "coords": [
+            -9.016466,
+            38.524588
+          ],
+          "category": "landmark",
+          "arrive_at": "09:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Einblick in den regionalen Weinbau in dieser modernen Anlage, wo der Direktkauf von Flaschen oft günstiger ist als in den Geschäften.",
+            "hu": "Kezdje a regionális borkészítés megismerését ebben a modern létesítményben, ahol a palackok közvetlen megvásárlása gyakran kedvezőbb a bolti áraknál.",
+            "ro": "Începeți explorarea vinificației regionale la această unitate modernă, unde achiziționarea sticlelor direct este adesea mai avantajoasă decât din magazine.",
+            "en": "Begin your deep dive into regional winemaking at this modern facility, where purchasing bottles directly often yields better prices than local stores."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast und Gut Bacalhoa",
+            "hu": "Bacalhoa Palota és Birtok",
+            "ro": "Palatul și Domeniul Bacalhoa",
+            "en": "Bacalhoa Palace and Estate"
+          },
+          "coords": [
+            -8.993791,
+            38.52609
+          ],
+          "category": "natural",
+          "arrive_at": "11:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die üppigen Weinberge dieses Palastes und buchen Sie Ihre geführte Weinprobe unbedingt rechtzeitig im Voraus, um sich einen Platz zu sichern.",
+            "hu": "Járja be a híres borászat buja szőlőültetvényeit és történelmi palotáját, és a biztos hely érdekében jó előre foglalja le a vezetett borkóstolót.",
+            "ro": "Vizitați podgoriile luxuriante și palatul istoric ale acestei faimoase moșii viticole și rezervați-vă degustarea ghidată din timp pentru a prinde loc.",
+            "en": "Tour the lush vineyards and exquisite historic palace of this famous wine estate, and book your guided tasting session well in advance to secure a spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Bacalhôa Berardo Collection",
+            "hu": "Bacalhôa Berardo Gyűjtemény",
+            "ro": "Colecția Bacalhôa Berardo",
+            "en": "Bacalhôa Berardo Collection"
+          },
+          "coords": [
+            -8.991361,
+            38.524755
+          ],
+          "category": "museum",
+          "arrive_at": "12:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem einzigartigen Museum eine beeindruckende Sammlung zeitgenössischer Kunst und planen Sie mindestens eine Stunde für die Ausstellungen ein.",
+            "hu": "Fedezze fel a kortárs művészet lenyűgöző sorát ebben az egyedülálló múzeumban, és szánjon legalább egy órát a különleges kiállítások teljes értékelésére.",
+            "ro": "Descoperiți o impresionantă colecție de artă contemporană în acest muzeu unic, alocând cel puțin o oră pentru a aprecia pe deplin exponatele fascinante.",
+            "en": "Discover an impressive array of contemporary art and African artifacts in this unique museum, allowing at least an hour to fully appreciate the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Cuco Windmühle",
+            "hu": "Cuco Szélmalom",
+            "ro": "Moara de Vânt Cuco",
+            "en": "Cuco Windmill"
+          },
+          "coords": [
+            -8.986623,
+            38.51943
+          ],
+          "category": "landmark",
+          "arrive_at": "13:59",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Wandern Sie abseits der ausgetretenen Pfade zu dieser traditionellen Windmühle und tragen Sie festes Schuhwerk, um die unebenen Wege sicher zu meistern.",
+            "hu": "Túrázzon egy kicsit a kitaposott ösvényről, hogy lássa ezt a hagyományos szélmalmot, és viseljen masszív cipőt az egyenetlen vidéki utakon való sétához.",
+            "ro": "Faceți o drumeție ușoară pentru a vedea această moară de vânt tradițională, purtând încălțăminte solidă pentru a naviga confortabil pe traseele rurale.",
+            "en": "Hike slightly off the beaten path to see this traditional windmill, wearing sturdy shoes to comfortably navigate the uneven rural trails around it."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast Quinta das Torres",
+            "hu": "Quinta das Torres Palota",
+            "ro": "Palatul Quinta das Torres",
+            "en": "Quinta das Torres Palace"
+          },
+          "coords": [
+            -9.006071,
+            38.519969
+          ],
+          "category": "castle",
+          "arrive_at": "14:28",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses elegante Anwesen aus dem 16. Jahrhundert mit schönen Gärten, ideal für einen ruhigen Spaziergang, bevor die Sonne zu heiß wird.",
+            "hu": "Fedezze fel ezt a 16. századi elegáns birtokot és tavat, amely ideális egy csendes délelőtti sétához, mielőtt a nap túlzottan felmelegítené a levegőt.",
+            "ro": "Explorați această moșie elegantă din secolul al XVI-lea cu grădini superbe, ideală pentru o plimbare liniștită de dimineață înainte să se încălzească.",
+            "en": "Explore this elegant 16th-century estate featuring beautiful gardens and a serene lake, ideal for a quiet mid-morning stroll before the sun gets too hot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie am Morgen entspannt ins Zentrum zum Pelourinho, bevor Sie zur modernen Weinkellerei Bacalhôa Vinhos aufbrechen. Genießen Sie eine ausführliche Tour durch die Anlagen. Am Nachmittag erwarten Sie die prachtvollen Gärten des Palácio da Bacalhoa und die faszinierende Kunst der Berardo Collection. Lassen Sie den Tag an der Mühle Cuco und der eleganten Quinta das Torres stilvoll ausklingen.",
+        "hu": "Reggel kényelmesen hajtson a központba a Pelourinhohoz, mielőtt a modern Bacalhôa Vinhos pincészet felé venné az irányt. Élvezze a létesítmények alapos bejárását. Délután a Bacalhoa palota pompás kertjei és a Berardo Gyűjtemény lenyűgöző művészete várja. A napot a Cuco szélmalom megtekintésével és az elegáns Quinta das Torres birtokának békés, pihentető hangulatával zárja stílusosan.",
+        "ro": "Conduceți dimineața spre centrul istoric la Pelourinho înainte de a vă îndrepta spre moderna cramă Bacalhôa Vinhos. Bucurați-vă de un tur detaliat al facilităților viticole. După-amiaza vă așteaptă grădinile magnifice de la Palatul Bacalhoa și arta fascinantă a Colecției Berardo. Încheiați ziua admirând moara Cuco și moșia elegantă Quinta das Torres, profitând de atmosfera relaxantă.",
+        "en": "Drive smoothly into the historic center to see the Pelourinho before heading to the modern Bacalhôa Vinhos winery for an extensive morning tour. The afternoon unfolds beautifully with the magnificent gardens of the Bacalhoa Palace and the fascinating art inside the Berardo Collection. Round off your scenic drive at the rustic Cuco Windmill and the elegantly serene Quinta das Torres."
+      }
+    }
+  }
+}

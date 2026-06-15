@@ -1,0 +1,520 @@
+{
+  "city_id": "greece-methana-cities-v2",
+  "anchor": {
+    "name": "Methana",
+    "coords": [
+      23.39142,
+      37.58068
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:44",
+      "total_km": 2.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Nisaki-Strand",
+            "hu": "Nisaki strand",
+            "ro": "Plaja Nisaki",
+            "en": "Nisaki Beach"
+          },
+          "coords": [
+            23.389907,
+            37.577207
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am vulkanischen Sand des Nisaki-Strandes, der Methanas geologische Geschichte zeigt, und bringen Sie Wasserschuhe für felsige Stellen mit.",
+            "hu": "Pihenjen a Nisaki strand vulkáni homokján, amely Methana geológiai múltját idézi, és mindenképpen hozzon magával vizicipőt a sziklásabb részek miatt.",
+            "ro": "Relaxați-vă pe nisipul vulcanic de la plaja Nisaki, un loc care arată istoria geologică a insulei, și aduceți încălțăminte de apă pentru zonele stâncoase.",
+            "en": "Relax on the volcanic sands of Nisaki Beach, an idyllic spot highlighting Methana's geological history, and bring water shoes for the rocky patches."
+          }
+        },
+        {
+          "name": {
+            "de": "Akropolis",
+            "hu": "Akropolisz",
+            "ro": "Akropolis",
+            "en": "Akropolis"
+          },
+          "coords": [
+            23.39057,
+            37.575662
+          ],
+          "category": "historical",
+          "arrive_at": "10:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste der antiken Akropolis von Methana, eine Festung mit Panoramablick, und tragen Sie feste Schuhe für die unebenen Ruinen.",
+            "hu": "Fedezze fel Methana ősi Akropoliszának maradványait, amely lenyűgöző kilátást nyújtó erőd volt, és viseljen erős túrabakancsot az egyenetlen terepen.",
+            "ro": "Explorați rămășițele vechii Akropolis din Methana, o fortăreață defensivă cu vederi panoramice, și purtați bocanci solizi pentru a naviga printre ruine.",
+            "en": "Explore the remnants of Methana's ancient Akropolis, a defensive stronghold with panoramic views, and wear sturdy boots to navigate the uneven ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Antike Mühle",
+            "hu": "Ősi malom",
+            "ro": "Moara antică",
+            "en": "Ancient mill"
+          },
+          "coords": [
+            23.377721,
+            37.582202
+          ],
+          "category": "landmark",
+          "arrive_at": "12:09",
+          "stay_min": 15,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die erstaunlich intakte antike Mühle, ein Zeugnis frühen landwirtschaftlichen Einfallsreichtums, und treten Sie vorsichtig um die Steinfundamente.",
+            "hu": "Csodálja meg a meglepően ép ősi malmot, a korai mezőgazdasági leleményesség bizonyítékát, és lépkedjen óvatosan a kényes kőalapzatok körül.",
+            "ro": "Admirați moara antică surprinzător de intactă, o dovadă a ingeniozității agricole timpurii, și pășiți cu atenție în jurul fundațiilor delicate din piatră.",
+            "en": "Marvel at the surprisingly intact ancient mill, a testament to early agricultural ingenuity, and step carefully around the delicate stone foundations."
+          }
+        },
+        {
+          "name": {
+            "de": "Antiker Turm Throni",
+            "hu": "Throni ősi torony",
+            "ro": "Turnul antic Throni",
+            "en": "Ancient tower Throni"
+          },
+          "coords": [
+            23.376015,
+            37.583367
+          ],
+          "category": "landmark",
+          "arrive_at": "12:27",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie den Throni-Turm, einen gut erhaltenen antiken Wachturm mit Einblicken in die regionale Verteidigung, und besuchen Sie ihn am Nachmittag für bestes Licht.",
+            "hu": "Fedezze fel a Throni tornyot, egy jó állapotban lévő ősi őrtornyot, amely bemutatja a régió védelmét, és látogasson ide délután a legjobb fényekért.",
+            "ro": "Descoperiți turnul Throni, un turn de veghe antic bine conservat care oferă o perspectivă asupra apărării regionale, și vizitați-l după-amiaza pentru o lumină perfectă.",
+            "en": "Discover the Throni tower, a well-preserved ancient watchtower offering insight into regional defense, and visit in the afternoon for the best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Antike Farmstätte",
+            "hu": "Ősi farm",
+            "ro": "Ferma antică",
+            "en": "Ancient farm site"
+          },
+          "coords": [
+            23.372704,
+            37.591006
+          ],
+          "category": "historical",
+          "arrive_at": "12:54",
+          "stay_min": 110,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses weitläufige antike landwirtschaftliche Gelände, um das ländliche Alltagsleben der Antike zu verstehen, und bleiben Sie auf den markierten Wegen.",
+            "hu": "Sétáljon végig ezen a kiterjedt ókori farmon, hogy megértse az akkori vidéki életet, és maradjon a kijelölt ösvényeken az örökség védelme érdekében.",
+            "ro": "Plimbați-vă prin această fermă antică extinsă pentru a înțelege viața rurală din antichitate și rămâneți pe potecile marcate pentru a proteja patrimoniul.",
+            "en": "Wander through this expansive ancient farm site to understand the daily rural life of antiquity, and stick to the marked paths to protect the heritage."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen unsere Wanderung am Meer und genießen die sanfte Morgenbrise am Nisaki-Strand, bevor wir in die Geschichte der nahegelegenen Akropolis eintauchen.\n\nGegen Mittag führt uns der Weg ins Landesinnere, um die antike Mühle und den imposanten Throni-Turm zu bewundern, die Methanas landwirtschaftliche Vergangenheit offenbaren.\n\nDer Nachmittag ist der Erkundung des weitläufigen antiken Bauernhofs gewidmet, wo wir die alltäglichen ländlichen Rhythmen spüren können, die diese Halbinsel einst belebten.\n\nWenn der Abend naht, blicken wir auf einen Tag zurück, an dem wir Jahrtausende der Geschichte zu Fuß durchquert haben, und beenden unsere malerische Wanderung durch Methana.",
+        "hu": "Gyalogtúránkat a tengerparton kezdjük, élvezve a lágy reggeli szellőt a Nisaki strandon, mielőtt elmerülnénk a közeli Akropolisz mély történelmében.\n\nDél körül az ösvény a szárazföld belsejébe vezet, hogy megcsodáljuk az ősi malmot és az impozáns Throni tornyot, amelyek felfedik Methana mezőgazdasági múltját.\n\nA délutánt a kiterjedt ókori farm felfedezésének szenteljük, ahol igazán átérezhetjük a mindennapi vidéki ritmusokat, amelyek egykor e félszigetet jellemezték.\n\nAz este közeledtével visszatekintünk az évezredes történelmet gyalogosan átszelő napunkra, és befejezzük festői túránkat Methana gyönyörű vulkáni tájain.",
+        "ro": "Începem plimbarea noastră la malul mării, bucurându-ne de briza blândă a dimineții la plaja Nisaki, înainte de a ne scufunda în istoria profundă a vechii Akropolis.\n\nÎn jurul prânzului, traseul ne duce spre interior pentru a admira moara antică și impozantul turn Throni, dezvăluind trecutul agricol al peninsulei Methana.\n\nDupă-amiaza este dedicată explorării vastei ferme antice, unde putem simți cu adevărat ritmurile rurale de zi cu zi care au animat această peninsulă cu mult timp în urmă.\n\nPe măsură ce se apropie seara, reflectăm asupra unei zile petrecute traversând milenii de istorie pe jos, încheind traseul nostru pitoresc prin peisajele vulcanice din Methana.",
+        "en": "We start our walking journey by the sea, enjoying the gentle morning breeze at Nisaki Beach before delving into the profound history of the nearby Akropolis.\n\nAround midday, the trail leads us inland to marvel at the ancient mill and the imposing Throni tower, revealing Methana's strategic and agricultural past.\n\nThe afternoon is dedicated to exploring the expansive ancient farm site, where we can truly sense the everyday rural rhythms that animated this peninsula long ago.\n\nAs evening approaches, we reflect on a day spent traversing millennia of history on foot, concluding our scenic trek through the beautiful volcanic landscapes of Methana."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:53",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mykenische Ausgrabungen",
+            "hu": "Mükénéi ásatások",
+            "ro": "Săpături miceniene",
+            "en": "Mycenean excavations"
+          },
+          "coords": [
+            23.40152,
+            37.593344
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die tiefen historischen Schichten bei den mykenischen Ausgrabungen, die die frühe Zivilisation auf Methana zeigen, und engagieren Sie einen lokalen Führer.",
+            "hu": "Legyen tanúja a mély történelmi rétegeknek a mükénéi ásatásokon, amelyek bemutatják Methana korai civilizációját, és fogadjon helyi vezetőt a mélyebb megértésért.",
+            "ro": "Fiți martorii straturilor istorice profunde la săpăturile miceniene, prezentând civilizația timpurie de pe Methana, și angajați un ghid local pentru context aprofundat.",
+            "en": "Witness the profound historical layers at the Mycenean excavations, showcasing early civilization on Methana, and hire a local guide for deeper context."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Bäder",
+            "hu": "Római fürdők",
+            "ro": "Băile romane",
+            "en": "Roman baths"
+          },
+          "coords": [
+            23.404232,
+            37.596793
+          ],
+          "category": "landmark",
+          "arrive_at": "09:27",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betrachten Sie den Grundriss dieser römischen Bäder, ein Indikator für die Thermalgeschichte der Halbinsel, und suchen Sie nach originalen Fliesenfragmenten in der Nähe.",
+            "hu": "Figyelje meg ezen ókori római fürdők elrendezését, amely a félsziget termikus aktivitásának történetét jelzi, és keressen eredeti csempedarabokat a közelben.",
+            "ro": "Observați aspectul acestor băi romane antice, un indicator al istoriei termale a peninsulei, și căutați fragmente de plăci originale în apropiere.",
+            "en": "Observe the layout of these ancient Roman baths, an indicator of the peninsula's thermal activity history, and look for the original tile fragments nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Farmstätte",
+            "hu": "Római farm",
+            "ro": "Ferma romană",
+            "en": "Roman farming site"
+          },
+          "coords": [
+            23.389796,
+            37.599268
+          ],
+          "category": "historical",
+          "arrive_at": "09:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die römische Landwirtschaftsstätte, wo jahrhundertelanger Anbau den Boden prägte, und bringen Sie einen Hut mit, da es hier keinen Schatten gibt.",
+            "hu": "Merüljön el a római farm területén, ahol évszázados mezőgazdaság formálta a talajt, és hozzon széles karimájú kalapot, mivel itt szinte nincs természetes árnyék.",
+            "ro": "Aprofundați istoria la ferma romană unde secole de agricultură au modelat solul și aduceți o pălărie cu boruri largi, deoarece nu există umbră naturală aici.",
+            "en": "Delve into the Roman farming site where centuries of agriculture shaped the soil, and bring a wide-brimmed hat as there is almost no natural shade here."
+          }
+        },
+        {
+          "name": {
+            "de": "Loutesa-Zisternen",
+            "hu": "Loutesa ciszternák",
+            "ro": "Cisternele Loutesa",
+            "en": "Loutesa cisterns"
+          },
+          "coords": [
+            23.37415,
+            37.597956
+          ],
+          "category": "historical",
+          "arrive_at": "11:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Inspizieren Sie die Loutesa-Zisternen, ein in die felsige Landschaft gehauenes Wassermanagementsystem, und behalten Sie Kinder an den tiefen Rändern im Auge.",
+            "hu": "Vizsgálja meg a Loutesa ciszternákat, a sziklás tájba vájt lenyűgöző vízgazdálkodási rendszert, és fokozottan ügyeljen a gyerekekre a mély peremeknél.",
+            "ro": "Inspectați cisternele Loutesa, un sistem impresionant de gestionare a apei sculptat în peisajul stâncos, și supravegheați copiii în apropierea marginilor adânci.",
+            "en": "Inspect the Loutesa cisterns, an impressive water management system carved into the rocky landscape, and keep a close eye on children near the deep edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Antike Farmstätte",
+            "hu": "Ősi farm",
+            "ro": "Ferma antică",
+            "en": "Ancient farm site"
+          },
+          "coords": [
+            23.372704,
+            37.591006
+          ],
+          "category": "historical",
+          "arrive_at": "12:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses weitläufige antike landwirtschaftliche Gelände, um das ländliche Alltagsleben der Antike zu verstehen, und bleiben Sie auf den markierten Wegen.",
+            "hu": "Sétáljon végig ezen a kiterjedt ókori farmon, hogy megértse az akkori vidéki életet, és maradjon a kijelölt ösvényeken az örökség védelme érdekében.",
+            "ro": "Plimbați-vă prin această fermă antică extinsă pentru a înțelege viața rurală din antichitate și rămâneți pe potecile marcate pentru a proteja patrimoniul.",
+            "en": "Wander through this expansive ancient farm site to understand the daily rural life of antiquity, and stick to the marked paths to protect the heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Antiker Turm Throni",
+            "hu": "Throni ősi torony",
+            "ro": "Turnul antic Throni",
+            "en": "Ancient tower Throni"
+          },
+          "coords": [
+            23.376015,
+            37.583367
+          ],
+          "category": "landmark",
+          "arrive_at": "14:08",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie den Throni-Turm, einen gut erhaltenen antiken Wachturm mit Einblicken in die regionale Verteidigung, und besuchen Sie ihn am Nachmittag für bestes Licht.",
+            "hu": "Fedezze fel a Throni tornyot, egy jó állapotban lévő ősi őrtornyot, amely bemutatja a régió védelmét, és látogasson ide délután a legjobb fényekért.",
+            "ro": "Descoperiți turnul Throni, un turn de veghe antic bine conservat care oferă o perspectivă asupra apărării regionale, și vizitați-l după-amiaza pentru o lumină perfectă.",
+            "en": "Discover the Throni tower, a well-preserved ancient watchtower offering insight into regional defense, and visit in the afternoon for the best lighting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unser Fahrradabenteuer beginnt im Norden mit der Erkundung der faszinierenden mykenischen Ausgrabungen und römischen Bäder, während die Morgenluft noch frisch ist.\n\nDie Fahrt zur Mittagszeit bringt uns zur römischen Landwirtschaftsstätte und den Loutesa-Zisternen, die antikes Wassermanagement im Herzen des rauen Geländes zeigen.\n\nDie Nachmittagsfahrt führt sanft hinab zum antiken Bauernhof und bietet Panoramablicke auf den Saronischen Golf, während wir die kurvigen Straßen der Halbinsel befahren.\n\nWir beenden unsere Radtour am imposanten Throni-Turm, wo die späte Nachmittagssonne lange Schatten wirft und die Steine dieses antiken Wachturms perfekt hervorhebt.",
+        "hu": "Kerékpáros kalandunk északon kezdődik, ahol a lenyűgöző mükénéi ásatásokat és a római fürdőket fedezzük fel, amíg a reggeli levegő még friss és hűvös.\n\nA déli tekerés elvisz minket az impozáns római farmhoz és a Loutesa ciszternákhoz, amelyek az ókori vízgazdálkodást mutatják be a zord terep szívében.\n\nA délutáni tekerés során ereszkedünk az ősi farm felé, ahonnan panorámás kilátás nyílik a Szaróni-öbölre, miközben a félsziget kanyargós útjain navigálunk.\n\nKerékpártúránkat az impozáns Throni toronynál fejezzük be, ahol a késő délutáni nap hosszú árnyékokat vet, tökéletesen kiemelve az ősi őrtorony köveit.",
+        "ro": "Aventura noastră cu bicicleta începe în nord, explorând fascinantele săpături miceniene și băile romane, în timp ce aerul dimineții rămâne proaspăt și răcoros.\n\nCiclismul de la amiază ne aduce la impresionanta fermă romană și la cisternele Loutesa, prezentând managementul antic al apei chiar în inima terenului accidentat.\n\nPlimbarea de după-amiază coboară ușor spre ferma antică, oferind vederi panoramice ale Golfului Saronic în timp ce navigăm pe drumurile șerpuitoare ale peninsulei.\n\nÎncheiem turul nostru cu bicicleta la turnul Throni, unde soarele târziu al după-amiezii aruncă umbre lungi, evidențiind perfect pietrele acestui turn antic.",
+        "en": "Our cycling adventure begins in the north, exploring the fascinating Mycenean excavations and Roman baths while the morning air remains crisp and cool.\n\nMidday pedaling brings us to the impressive Roman farming site and Loutesa cisterns, showcasing ancient water management right in the heart of the rugged terrain.\n\nThe afternoon ride gently descends toward the ancient farm site, offering panoramic views of the Saronic Gulf as we navigate the winding roads of the peninsula.\n\nWe conclude our biking tour at the imposing Throni tower, where the late afternoon sun casts long shadows, perfectly highlighting the stones of this ancient watchtower."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:32",
+      "total_km": 6.8,
+      "stop_count": 9,
+      "stops": [
+        {
+          "name": {
+            "de": "Nisaki-Strand",
+            "hu": "Nisaki strand",
+            "ro": "Plaja Nisaki",
+            "en": "Nisaki Beach"
+          },
+          "coords": [
+            23.389907,
+            37.577207
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am vulkanischen Sand des Nisaki-Strandes, der Methanas geologische Geschichte zeigt, und bringen Sie Wasserschuhe für felsige Stellen mit.",
+            "hu": "Pihenjen a Nisaki strand vulkáni homokján, amely Methana geológiai múltját idézi, és mindenképpen hozzon magával vizicipőt a sziklásabb részek miatt.",
+            "ro": "Relaxați-vă pe nisipul vulcanic de la plaja Nisaki, un loc care arată istoria geologică a insulei, și aduceți încălțăminte de apă pentru zonele stâncoase.",
+            "en": "Relax on the volcanic sands of Nisaki Beach, an idyllic spot highlighting Methana's geological history, and bring water shoes for the rocky patches."
+          }
+        },
+        {
+          "name": {
+            "de": "Akropolis",
+            "hu": "Akropolisz",
+            "ro": "Akropolis",
+            "en": "Akropolis"
+          },
+          "coords": [
+            23.39057,
+            37.575662
+          ],
+          "category": "historical",
+          "arrive_at": "10:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste der antiken Akropolis von Methana, eine Festung mit Panoramablick, und tragen Sie feste Schuhe für die unebenen Ruinen.",
+            "hu": "Fedezze fel Methana ősi Akropoliszának maradványait, amely lenyűgöző kilátást nyújtó erőd volt, és viseljen erős túrabakancsot az egyenetlen terepen.",
+            "ro": "Explorați rămășițele vechii Akropolis din Methana, o fortăreață defensivă cu vederi panoramice, și purtați bocanci solizi pentru a naviga printre ruine.",
+            "en": "Explore the remnants of Methana's ancient Akropolis, a defensive stronghold with panoramic views, and wear sturdy boots to navigate the uneven ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Antike Mühle",
+            "hu": "Ősi malom",
+            "ro": "Moara antică",
+            "en": "Ancient mill"
+          },
+          "coords": [
+            23.377721,
+            37.582202
+          ],
+          "category": "landmark",
+          "arrive_at": "11:49",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die erstaunlich intakte antike Mühle, ein Zeugnis frühen landwirtschaftlichen Einfallsreichtums, und treten Sie vorsichtig um die Steinfundamente.",
+            "hu": "Csodálja meg a meglepően ép ősi malmot, a korai mezőgazdasági leleményesség bizonyítékát, és lépkedjen óvatosan a kényes kőalapzatok körül.",
+            "ro": "Admirați moara antică surprinzător de intactă, o dovadă a ingeniozității agricole timpurii, și pășiți cu atenție în jurul fundațiilor delicate din piatră.",
+            "en": "Marvel at the surprisingly intact ancient mill, a testament to early agricultural ingenuity, and step carefully around the delicate stone foundations."
+          }
+        },
+        {
+          "name": {
+            "de": "Antiker Turm Throni",
+            "hu": "Throni ősi torony",
+            "ro": "Turnul antic Throni",
+            "en": "Ancient tower Throni"
+          },
+          "coords": [
+            23.376015,
+            37.583367
+          ],
+          "category": "landmark",
+          "arrive_at": "12:05",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie den Throni-Turm, einen gut erhaltenen antiken Wachturm mit Einblicken in die regionale Verteidigung, und besuchen Sie ihn am Nachmittag für bestes Licht.",
+            "hu": "Fedezze fel a Throni tornyot, egy jó állapotban lévő ősi őrtornyot, amely bemutatja a régió védelmét, és látogasson ide délután a legjobb fényekért.",
+            "ro": "Descoperiți turnul Throni, un turn de veghe antic bine conservat care oferă o perspectivă asupra apărării regionale, și vizitați-l după-amiaza pentru o lumină perfectă.",
+            "en": "Discover the Throni tower, a well-preserved ancient watchtower offering insight into regional defense, and visit in the afternoon for the best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Antike Farmstätte",
+            "hu": "Ősi farm",
+            "ro": "Ferma antică",
+            "en": "Ancient farm site"
+          },
+          "coords": [
+            23.372704,
+            37.591006
+          ],
+          "category": "historical",
+          "arrive_at": "12:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses weitläufige antike landwirtschaftliche Gelände, um das ländliche Alltagsleben der Antike zu verstehen, und bleiben Sie auf den markierten Wegen.",
+            "hu": "Sétáljon végig ezen a kiterjedt ókori farmon, hogy megértse az akkori vidéki életet, és maradjon a kijelölt ösvényeken az örökség védelme érdekében.",
+            "ro": "Plimbați-vă prin această fermă antică extinsă pentru a înțelege viața rurală din antichitate și rămâneți pe potecile marcate pentru a proteja patrimoniul.",
+            "en": "Wander through this expansive ancient farm site to understand the daily rural life of antiquity, and stick to the marked paths to protect the heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Loutesa-Zisternen",
+            "hu": "Loutesa ciszternák",
+            "ro": "Cisternele Loutesa",
+            "en": "Loutesa cisterns"
+          },
+          "coords": [
+            23.37415,
+            37.597956
+          ],
+          "category": "historical",
+          "arrive_at": "13:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Inspizieren Sie die Loutesa-Zisternen, ein in die felsige Landschaft gehauenes Wassermanagementsystem, und behalten Sie Kinder an den tiefen Rändern im Auge.",
+            "hu": "Vizsgálja meg a Loutesa ciszternákat, a sziklás tájba vájt lenyűgöző vízgazdálkodási rendszert, és fokozottan ügyeljen a gyerekekre a mély peremeknél.",
+            "ro": "Inspectați cisternele Loutesa, un sistem impresionant de gestionare a apei sculptat în peisajul stâncos, și supravegheați copiii în apropierea marginilor adânci.",
+            "en": "Inspect the Loutesa cisterns, an impressive water management system carved into the rocky landscape, and keep a close eye on children near the deep edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Farmstätte",
+            "hu": "Római farm",
+            "ro": "Ferma romană",
+            "en": "Roman farming site"
+          },
+          "coords": [
+            23.389796,
+            37.599268
+          ],
+          "category": "historical",
+          "arrive_at": "15:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die römische Landwirtschaftsstätte, wo jahrhundertelanger Anbau den Boden prägte, und bringen Sie einen Hut mit, da es hier keinen Schatten gibt.",
+            "hu": "Merüljön el a római farm területén, ahol évszázados mezőgazdaság formálta a talajt, és hozzon széles karimájú kalapot, mivel itt szinte nincs természetes árnyék.",
+            "ro": "Aprofundați istoria la ferma romană unde secole de agricultură au modelat solul și aduceți o pălărie cu boruri largi, deoarece nu există umbră naturală aici.",
+            "en": "Delve into the Roman farming site where centuries of agriculture shaped the soil, and bring a wide-brimmed hat as there is almost no natural shade here."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Bäder",
+            "hu": "Római fürdők",
+            "ro": "Băile romane",
+            "en": "Roman baths"
+          },
+          "coords": [
+            23.404232,
+            37.596793
+          ],
+          "category": "landmark",
+          "arrive_at": "16:31",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Betrachten Sie den Grundriss dieser römischen Bäder, ein Indikator für die Thermalgeschichte der Halbinsel, und suchen Sie nach originalen Fliesenfragmenten in der Nähe.",
+            "hu": "Figyelje meg ezen ókori római fürdők elrendezését, amely a félsziget termikus aktivitásának történetét jelzi, és keressen eredeti csempedarabokat a közelben.",
+            "ro": "Observați aspectul acestor băi romane antice, un indicator al istoriei termale a peninsulei, și căutați fragmente de plăci originale în apropiere.",
+            "en": "Observe the layout of these ancient Roman baths, an indicator of the peninsula's thermal activity history, and look for the original tile fragments nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Mykenische Ausgrabungen",
+            "hu": "Mükénéi ásatások",
+            "ro": "Săpături miceniene",
+            "en": "Mycenean excavations"
+          },
+          "coords": [
+            23.40152,
+            37.593344
+          ],
+          "category": "landmark",
+          "arrive_at": "16:47",
+          "stay_min": 45,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erleben Sie die tiefen historischen Schichten bei den mykenischen Ausgrabungen, die die frühe Zivilisation auf Methana zeigen, und engagieren Sie einen lokalen Führer.",
+            "hu": "Legyen tanúja a mély történelmi rétegeknek a mükénéi ásatásokon, amelyek bemutatják Methana korai civilizációját, és fogadjon helyi vezetőt a mélyebb megértésért.",
+            "ro": "Fiți martorii straturilor istorice profunde la săpăturile miceniene, prezentând civilizația timpurie de pe Methana, și angajați un ghid local pentru context aprofundat.",
+            "en": "Witness the profound historical layers at the Mycenean excavations, showcasing early civilization on Methana, and hire a local guide for deeper context."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen unsere umfassende Autotour mit einem Besuch am entspannenden Nisaki-Strand und der antiken Akropolis und genießen die Küstenschönheit und reiche Geschichte.\n\nFahrt landeinwärts machen wir gezielte Stopps an der antiken Mühle, dem Throni-Turm und riesigen Bauernhöfen und überbrücken mühelos die Entfernungen zwischen diesen faszinierenden Überresten.\n\nDie Nachmittagsfahrt führt uns nach Norden zu den Loutesa-Zisternen und römischen Ruinen, wobei die Klimaanlage uns frisch für Erkundungen hält.\n\nUnser Roadtrip endet in der Nähe der Nordspitze bei den römischen Bädern und mykenischen Ausgrabungen und hinterlässt uns ein vollständiges Bild von Methanas archäologischem Reichtum.",
+        "hu": "Átfogó autós túránkat a pihentető Nisaki strand és az ősi Akropolisz meglátogatásával kezdjük, magunkba szívva a part menti szépséget és a gazdag korai történelmet.\n\nA szárazföld belseje felé haladva célzott megállókat tartunk az ősi malomnál, a Throni toronynál és a hatalmas farmoknál, könnyedén áthidalva a történelmi emlékek közötti távolságot.\n\nA délutáni autózás északra visz minket a Loutesa ciszternákhoz és a római romokhoz, ahol a légkondicionáló frissen tart minket a folyamatos felfedezéshez.\n\nAutós utazásunk az északi csücsök közelében, a római fürdőknél és a mükénéi ásatásoknál ér véget, teljes képet adva Methana régészeti gazdagságáról.",
+        "ro": "Începem turul nostru auto vizitând relaxanta plajă Nisaki și vechea Akropolis, absorbind frumusețea de coastă și istoria timpurie bogată a regiunii.\n\nConducând spre interior, facem opriri la moara antică, turnul Throni și vastele ferme, acoperind cu ușurință distanțele dintre aceste fascinante rămășițe istorice.\n\nTraseul de după-amiază ne duce spre nord către cisternele Loutesa și ruinele agricole romane, lăsând aerul condiționat să ne mențină proaspeți pentru explorare.\n\nCălătoria noastră se termină aproape de extremitatea nordică la băile romane și săpăturile miceniene, lăsându-ne cu o imagine completă a bogăției arheologice din Methana.",
+        "en": "We kick off our comprehensive driving tour by visiting the relaxing Nisaki Beach and the ancient Akropolis, soaking in the coastal beauty and rich early history.\n\nCruising inland, we make targeted stops at the ancient mill, Throni tower, and vast farm sites, easily bridging the distances between these fascinating historical remnants.\n\nThe afternoon drive takes us north to the impressive Loutesa cisterns and Roman agricultural ruins, letting the air conditioning keep us fresh for exploration.\n\nOur road trip finishes near the northern tip at the Roman baths and Mycenean excavations, leaving us with a complete picture of Methana's diverse archaeological wealth."
+      }
+    }
+  }
+}

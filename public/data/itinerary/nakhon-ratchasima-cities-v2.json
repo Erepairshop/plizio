@@ -1,0 +1,497 @@
+{
+  "city_id": "nakhon-ratchasima-cities-v2",
+  "anchor": {
+    "name": "Nakhon Ratchasima",
+    "coords": [
+      102.1009,
+      14.9705
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:36",
+      "total_km": 2.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Maha Wirawong National Museum",
+            "hu": "Maha Wirawong Nemzeti Múzeum",
+            "ro": "Muzeul Național Maha Wirawong",
+            "en": "Maha Wirawong National Museum"
+          },
+          "coords": [
+            102.097613,
+            14.972045
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reiche Khmer-Geschichte dieses Museums ein und kommen Sie direkt zur Eröffnung, um der Mittagshitze und den Schulklassen zu entgehen.",
+            "hu": "Merüljön el a gazdag khmer történelemben a ritka leleteket bemutató múzeumban, és érkezzen rögtön nyitásra, hogy elkerülje a déli hőséget és a tömeget.",
+            "ro": "Descoperiți istoria bogată khmeră la acest muzeu cu artefacte rare și veniți la prima oră pentru a evita atât căldura amiezii, cât și grupurile școlare.",
+            "en": "Delve into the rich Khmer history at this museum showcasing rare artifacts, and arrive right when it opens to beat the midday heat and school groups."
+          }
+        },
+        {
+          "name": {
+            "de": "Thao Suranari Monument",
+            "hu": "Thao Suranari Emlékmű",
+            "ro": "Monumentul Thao Suranari",
+            "en": "Thao Suranari Monument"
+          },
+          "coords": [
+            102.098117,
+            14.974731
+          ],
+          "category": "historical",
+          "arrive_at": "10:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ehren Sie die lokale Heldin an diesem zentralen Denkmal des Mutes der Stadt und kaufen Sie in der Nähe Lotusblumen für eine respektvolle Opfergabe.",
+            "hu": "Tisztelegjen a helyi hősnő előtt a város bátorságát jelképező központi emlékműnél, és ne felejtsen el lótuszvirágot venni a közelben egy tiszteletteljes felajánláshoz.",
+            "ro": "Onorați eroina locală la acest monument central care simbolizează curajul orașului și asigurați-vă că luați flori de lotus din apropiere pentru o ofrandă.",
+            "en": "Honor the local heroine at this central monument symbolizing the city's courage, and remember to buy lotus flowers nearby for a respectful offering."
+          }
+        },
+        {
+          "name": {
+            "de": "Art & Soul",
+            "hu": "Art & Soul",
+            "ro": "Art & Soul",
+            "en": "Art & Soul"
+          },
+          "coords": [
+            102.100457,
+            14.976187
+          ],
+          "category": "cultural",
+          "arrive_at": "12:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die moderne lokale Kreativität in diesem lebendigen Kulturzentrum und holen Sie sich einen Kaffee im angrenzenden, kunstvollen Café.",
+            "hu": "Fedezze fel a modern helyi kreativitást ebben a pezsgő, közösségi hangulatú kulturális központban, és igyon meg egy kávét a szomszédos művészi kávézóban.",
+            "ro": "Explorați creativitatea locală modernă la acest centru cultural vibrant și savurați o cafea excelentă la cafeneaua artistică situată chiar alături.",
+            "en": "Explore modern local creativity at this vibrant cultural center blending art with community vibes, and grab a coffee at the adjacent artsy café."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Phayap (Phra Aram Luang)",
+            "hu": "Wat Phayap (Phra Aram Luang)",
+            "ro": "Wat Phayap (Phra Aram Luang)",
+            "en": "Wat Phayap (Phra Aram Luang)"
+          },
+          "coords": [
+            102.09923,
+            14.978563
+          ],
+          "category": "landmark",
+          "arrive_at": "13:25",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie den atemberaubenden, mit Stalaktiten verzierten höhlenartigen Schrein in diesem königlichen Tempel und tragen Sie züchtige Kleidung.",
+            "hu": "Csodálja meg a cseppkövekkel díszített, lenyűgöző barlangszerű szentélyt ebben a királyi templomban, és viseljen vállat és térdet takaró, szerény ruházatot.",
+            "ro": "Admirați altarul uimitor asemănător unei peșteri decorate cu stalactite la acest templu regal unic și purtați haine modeste care acoperă umerii și genunchii.",
+            "en": "Admire the stunning cave-like shrine decorated with stalactites at this unique royal temple, and wear modest clothing covering your shoulders and knees."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Phra Narai Maharat",
+            "hu": "Wat Phra Narai Maharat",
+            "ro": "Wat Phra Narai Maharat",
+            "en": "Wat Phra Narai Maharat"
+          },
+          "coords": [
+            102.106921,
+            14.975579
+          ],
+          "category": "religious",
+          "arrive_at": "14:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.88,
+          "tip_5lang": {
+            "de": "Betreten Sie den Inselschrein dieses ruhigen, von einem Burggraben umgebenen Tempels und bringen Sie Insektenschutzmittel mit, wenn Sie nachmittags am Wasser bleiben.",
+            "hu": "Lépjen be ennek a várárokkal körülvett, nyugodt templomnak a szigeti szentélyébe, és vigyen magával rovarriasztót, ha délután a víz közelében időzne.",
+            "ro": "Pășiți în altarul insular al acestui templu liniștit înconjurat de un șanț cu apă și aduceți repelent de insecte dacă plănuiți să stați mai mult după-amiaza.",
+            "en": "Step into the island shrine of this serene temple surrounded by a moat, and bring insect repellent if you plan to linger near the water during the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Night Bazaar",
+            "hu": "Éjszakai Piac",
+            "ro": "Bazarul de Noapte",
+            "en": "Night Bazaar"
+          },
+          "coords": [
+            102.111597,
+            14.975041
+          ],
+          "category": "landmark",
+          "arrive_at": "15:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die geschäftige Atmosphäre dieses pulsierenden Nachtmarkts voller Leckereien und halten Sie Kleingeld für schnelles Streetfood bereit.",
+            "hu": "Merüljön el a helyi finomságokat kínáló, pezsgő éjszakai piac nyüzsgő hangulatában, és tartson magánál aprópénzt a gyors utcai ételek megvásárlásához.",
+            "ro": "Lăsați-vă absorbit de atmosfera plină de viață a acestui bazar de noapte cu bunătăți locale și păstrați mărunt la îndemână pentru a cumpăra mâncare stradală.",
+            "en": "Immerse yourself in the bustling atmosphere of this vibrant night market offering local treats, and keep small change handy for quick street food purchases."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen, indem Sie im Nationalmuseum die Geschichte der Region aufsaugen, bevor Sie dem Wahrzeichen der Stadt huldigen. Mittags geht es durch die kreativen Zentren der lokalen Kunstszene. Am Nachmittag entdecken Sie die einzigartigen Höhlenschreine und ruhigen Wassertempel, die das spirituelle Herz von Korat ausmachen. Lassen Sie den Abend auf dem lebhaften Nachtmarkt ausklingen, wo lokales Streetfood und Kunsthandwerk auf Sie warten.",
+        "hu": "Kezdje a reggelt a régió történelmének megismerésével a nemzeti múzeumban, majd tisztelegjen a város ikonikus emlékműve előtt. A dél körül a helyi művészeti központok kreatív világán keresztül vezet az útja. Délután felfedezheti Korat spirituális szívét meghatározó egyedi barlangszentélyeket és nyugodt vizes templomokat. Az estét a nyüzsgő éjszakai piacon zárja, ahol helyi utcai ételek és kézműves termékek várják.",
+        "ro": "Începeți dimineața absorbind istoria profundă a regiunii la muzeul național, înainte de a aduce un omagiu la monumentul emblematic. La amiază veți trece prin expresiile creative ale centrelor de artă locale. După-amiaza, veți descoperi altarele unice din peșteri și templele liniștite care definesc inima spirituală a orașului Korat. Încheiați seara la bazarul de noapte animat, plin de mâncare stradală locală și meșteșuguri.",
+        "en": "Start your morning by absorbing the profound history of the region at the national museum before paying homage at the city's iconic monument. Midday brings you through the creative expressions of local art centers and hidden temples. In the afternoon, you will discover the unique cave shrines and serene moated temples that define the spiritual heart of Korat. Conclude your evening at the lively night bazaar, where local street food and crafts await your discovery."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:52",
+      "total_km": 3.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Thao Suranari Monument",
+            "hu": "Thao Suranari Emlékmű",
+            "ro": "Monumentul Thao Suranari",
+            "en": "Thao Suranari Monument"
+          },
+          "coords": [
+            102.098117,
+            14.974731
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ehren Sie die lokale Heldin an diesem zentralen Denkmal des Mutes der Stadt und kaufen Sie in der Nähe Lotusblumen für eine respektvolle Opfergabe.",
+            "hu": "Tisztelegjen a helyi hősnő előtt a város bátorságát jelképező központi emlékműnél, és ne felejtsen el lótuszvirágot venni a közelben egy tiszteletteljes felajánláshoz.",
+            "ro": "Onorați eroina locală la acest monument central care simbolizează curajul orașului și asigurați-vă că luați flori de lotus din apropiere pentru o ofrandă.",
+            "en": "Honor the local heroine at this central monument symbolizing the city's courage, and remember to buy lotus flowers nearby for a respectful offering."
+          }
+        },
+        {
+          "name": {
+            "de": "Korat Contemporary Art And Culture Centre",
+            "hu": "Korat Kortárs Művészeti és Kulturális Központ",
+            "ro": "Centrul de Artă și Cultură Contemporană Korat",
+            "en": "Korat Contemporary Art And Culture Centre"
+          },
+          "coords": [
+            102.094754,
+            14.976734
+          ],
+          "category": "museum",
+          "arrive_at": "10:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.42,
+          "tip_5lang": {
+            "de": "Entdecken Sie in dieser weitläufigen Galerie dynamische Ausstellungen nordostthailändischer Künstler und fragen Sie am Empfang nach den Führungszeiten.",
+            "hu": "Fedezze fel az északkelet-thaiföldi művészeket bemutató dinamikus kiállításokat ebben a tágas galériában, és érdeklődjön a recepción a vezetett túrákról.",
+            "ro": "Descoperiți expoziții dinamice ale artiștilor din nord-estul Thailandei la această galerie spațioasă și verificați la recepție programul tururilor ghidate.",
+            "en": "Discover dynamic exhibitions showcasing northeastern Thai artists at this spacious gallery, and check the front desk for guided tour schedules before exploring."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Phra Narai Maharat",
+            "hu": "Wat Phra Narai Maharat",
+            "ro": "Wat Phra Narai Maharat",
+            "en": "Wat Phra Narai Maharat"
+          },
+          "coords": [
+            102.106921,
+            14.975579
+          ],
+          "category": "religious",
+          "arrive_at": "12:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.31,
+          "tip_5lang": {
+            "de": "Betreten Sie den Inselschrein dieses ruhigen, von einem Burggraben umgebenen Tempels und bringen Sie Insektenschutzmittel mit, wenn Sie nachmittags am Wasser bleiben.",
+            "hu": "Lépjen be ennek a várárokkal körülvett, nyugodt templomnak a szigeti szentélyébe, és vigyen magával rovarriasztót, ha délután a víz közelében időzne.",
+            "ro": "Pășiți în altarul insular al acestui templu liniștit înconjurat de un șanț cu apă și aduceți repelent de insecte dacă plănuiți să stați mai mult după-amiaza.",
+            "en": "Step into the island shrine of this serene temple surrounded by a moat, and bring insect repellent if you plan to linger near the water during the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Isan Nakhon Ratschasima",
+            "hu": "Wat Isan Nakhon Ratschasima",
+            "ro": "Wat Isan Nakhon Ratschasima",
+            "en": "Wat Isan Nakhon Ratschasima"
+          },
+          "coords": [
+            102.111082,
+            14.978655
+          ],
+          "category": "landmark",
+          "arrive_at": "13:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.56,
+          "tip_5lang": {
+            "de": "Erleben Sie authentische lokale Gebete in diesem wunderschön detaillierten Viertel-Tempel und ziehen Sie respektvoll Ihre Schuhe aus, bevor Sie eintreten.",
+            "hu": "Tapasztalja meg az autentikus helyi hitéletet ebben a gyönyörűen részletes környékbeli templomban, és tiszteletteljesen vegye le a cipőjét a főterem előtt.",
+            "ro": "Experimentați un cult local autentic la acest templu de cartier frumos detaliat și descălțați-vă respectuos înainte de a păși în sala principală a sanctuarului.",
+            "en": "Experience authentic local worship at this beautifully detailed neighborhood temple, and remove your shoes respectfully before stepping into the main hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Korat Museum",
+            "hu": "Korat Múzeum",
+            "ro": "Muzeul Korat",
+            "en": "Korat Museum"
+          },
+          "coords": [
+            102.11405,
+            14.983165
+          ],
+          "category": "museum",
+          "arrive_at": "13:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.59,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem fesselnden Museum mehr über die Entwicklung von Nakhon Ratchasima seit der Antike und planen Sie mindestens eine Stunde für die Dioramen ein.",
+            "hu": "Ismerje meg Nakhon Ratchasima fejlődését az ókortól kezdve ebben a lebilincselő múzeumban, és szánjon legalább egy órát a diorámák teljes értékelésére.",
+            "ro": "Aflați despre evoluția orașului Nakhon Ratchasima din cele mai vechi timpuri la acest muzeu captivant și acordați-vă cel puțin o oră pentru diorame.",
+            "en": "Learn about the evolution of Nakhon Ratchasima from ancient times at this engaging museum, and dedicate at least an hour to fully appreciate the dioramas."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Sala Loi",
+            "hu": "Wat Sala Loi",
+            "ro": "Wat Sala Loi",
+            "en": "Wat Sala Loi"
+          },
+          "coords": [
+            102.116896,
+            14.98069
+          ],
+          "category": "religious",
+          "arrive_at": "15:42",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.41,
+          "tip_5lang": {
+            "de": "Bewundern Sie die einzigartige bootförmige Haupthalle dieses preisgekrönten Tempels am Fluss und achten Sie auf die schönen Dan Kwian-Keramikdekorationen.",
+            "hu": "Csodálja meg ennek a díjnyertes folyóparti templomnak az egyedülálló hajó alakú főcsarnokát, és figyelje meg a gyönyörű Dan Kwian kerámia díszítéseket.",
+            "ro": "Minunați-vă de sala principală unică în formă de barcă a acestui templu premiat pe râu și remarcați frumoasele decorațiuni din ceramică Dan Kwian.",
+            "en": "Marvel at the unique boat-shaped main hall of this award-winning riverside temple, and look out for the beautiful Dan Kwian pottery decorations throughout."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre morgendliche Fahrt beginnt am historischen zentralen Denkmal und führt Sie zu dynamischen Galerien für zeitgenössische Kunst. Mittags radeln Sie zum schönen Inselschrein und zu detaillierten Viertel-Tempeln, um die lokale Hingabe aufzusaugen. Der Nachmittag lädt Sie ein, die Vergangenheit der Stadt im Hauptmuseum besser zu verstehen, gefolgt von einer luftigen Fahrt zum bootförmigen Tempel am Flussufer. Ihre Tour endet stimmungsvoll.",
+        "hu": "A reggeli kerékpározás a központi történelmi emlékműnél kezdődik, majd dinamikus kortárs művészeti galériák mellett halad el. Délben tekerjen a gyönyörű szigeti szentély és a helyi templomok felé, hogy magába szívja a helyi áhítatot. A délután a város múltjának mélyebb megértésére csábít a fő múzeumban, amit egy kellemes utazás követ a folyóparti, hajó alakú templomhoz. A túra elegánsan ér véget, ahogy a nap lassan lenyugszik.",
+        "ro": "Plimbarea de dimineață începe la monumentul istoric central, pedalând lângă galerii de artă contemporană dinamice. La prânz, mergeți cu bicicleta spre frumosul altar insular și templele de cartier pentru a simți devotamentul local. După-amiaza vă invită la o înțelegere mai profundă a trecutului orașului la muzeul principal, urmată de o plimbare ușoară la templul de pe râu în formă de barcă. Turul se încheie frumos odată cu apusul soarelui.",
+        "en": "Your morning ride begins at the central historical monument, pedaling next to dynamic contemporary art galleries that spark the imagination. By midday, cycle towards the beautiful island shrine and detailed neighborhood temples to soak in local devotion. The afternoon invites you to a deeper understanding of the city's past at the main museum, followed by a breezy ride to the riverside boat-shaped temple. Your tour finishes gracefully as the sun sets."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:37",
+      "total_km": 5.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Wat Pa Sattharuam",
+            "hu": "Wat Pa Sattharuam",
+            "ro": "Wat Pa Sattharuam",
+            "en": "Wat Pa Sattharuam"
+          },
+          "coords": [
+            102.113626,
+            14.952174
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Finden Sie ultimative Ruhe in diesem weitläufigen Waldtempel am Stadtrand und verhalten Sie sich ruhig, da die Mönche in der Naturlandschaft aktiv meditieren.",
+            "hu": "Találja meg a tökéletes nyugalmat ebben a hatalmas erdei templomban a város szélén, és viselkedjen csendesen, mivel a szerzetesek a természetes területen meditálnak.",
+            "ro": "Găsiți liniștea deplină la acest templu forestier extins de la periferia orașului și păstrați o atitudine tăcută, deoarece călugării meditează în mod activ.",
+            "en": "Find ultimate tranquility at this sprawling forest temple on the city outskirts, and maintain a quiet demeanor as monks actively meditate in the natural grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Sala Thong",
+            "hu": "Wat Sala Thong",
+            "ro": "Wat Sala Thong",
+            "en": "Wat Sala Thong"
+          },
+          "coords": [
+            102.109342,
+            14.964937
+          ],
+          "category": "landmark",
+          "arrive_at": "10:04",
+          "stay_min": 50,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.49,
+          "tip_5lang": {
+            "de": "Erweisen Sie der verehrten großen Buddhastatue in diesem kulturell bedeutsamen Tempel Ihren Respekt und gehen Sie im Uhrzeigersinn um die Stupa herum.",
+            "hu": "Rójja le tiszteletét a kulturálisan jelentős templomban található nagy Buddha-szobor előtt, és járja körbe a sztúpát az óramutató járásával megegyező irányban.",
+            "ro": "Aduceți un omagiu marii statui venerate a lui Buddha din acest templu semnificativ cultural și mergeți în sensul acelor de ceasornic în jurul stubei albe.",
+            "en": "Pay respects to the revered large Buddha statue housed within this culturally significant temple, and walk clockwise around the stupa to observe local traditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Maha Wirawong National Museum",
+            "hu": "Maha Wirawong Nemzeti Múzeum",
+            "ro": "Muzeul Național Maha Wirawong",
+            "en": "Maha Wirawong National Museum"
+          },
+          "coords": [
+            102.097613,
+            14.972045
+          ],
+          "category": "museum",
+          "arrive_at": "10:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.48,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reiche Khmer-Geschichte dieses Museums ein und kommen Sie direkt zur Eröffnung, um der Mittagshitze und den Schulklassen zu entgehen.",
+            "hu": "Merüljön el a gazdag khmer történelemben a ritka leleteket bemutató múzeumban, és érkezzen rögtön nyitásra, hogy elkerülje a déli hőséget és a tömeget.",
+            "ro": "Descoperiți istoria bogată khmeră la acest muzeu cu artefacte rare și veniți la prima oră pentru a evita atât căldura amiezii, cât și grupurile școlare.",
+            "en": "Delve into the rich Khmer history at this museum showcasing rare artifacts, and arrive right when it opens to beat the midday heat and school groups."
+          }
+        },
+        {
+          "name": {
+            "de": "Thao Suranari Monument",
+            "hu": "Thao Suranari Emlékmű",
+            "ro": "Monumentul Thao Suranari",
+            "en": "Thao Suranari Monument"
+          },
+          "coords": [
+            102.098117,
+            14.974731
+          ],
+          "category": "historical",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ehren Sie die lokale Heldin an diesem zentralen Denkmal des Mutes der Stadt und kaufen Sie in der Nähe Lotusblumen für eine respektvolle Opfergabe.",
+            "hu": "Tisztelegjen a helyi hősnő előtt a város bátorságát jelképező központi emlékműnél, és ne felejtsen el lótuszvirágot venni a közelben egy tiszteletteljes felajánláshoz.",
+            "ro": "Onorați eroina locală la acest monument central care simbolizează curajul orașului și asigurați-vă că luați flori de lotus din apropiere pentru o ofrandă.",
+            "en": "Honor the local heroine at this central monument symbolizing the city's courage, and remember to buy lotus flowers nearby for a respectful offering."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Phra Narai Maharat",
+            "hu": "Wat Phra Narai Maharat",
+            "ro": "Wat Phra Narai Maharat",
+            "en": "Wat Phra Narai Maharat"
+          },
+          "coords": [
+            102.106921,
+            14.975579
+          ],
+          "category": "religious",
+          "arrive_at": "14:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.94,
+          "tip_5lang": {
+            "de": "Betreten Sie den Inselschrein dieses ruhigen, von einem Burggraben umgebenen Tempels und bringen Sie Insektenschutzmittel mit, wenn Sie nachmittags am Wasser bleiben.",
+            "hu": "Lépjen be ennek a várárokkal körülvett, nyugodt templomnak a szigeti szentélyébe, és vigyen magával rovarriasztót, ha délután a víz közelében időzne.",
+            "ro": "Pășiți în altarul insular al acestui templu liniștit înconjurat de un șanț cu apă și aduceți repelent de insecte dacă plănuiți să stați mai mult după-amiaza.",
+            "en": "Step into the island shrine of this serene temple surrounded by a moat, and bring insect repellent if you plan to linger near the water during the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Sala Loi",
+            "hu": "Wat Sala Loi",
+            "ro": "Wat Sala Loi",
+            "en": "Wat Sala Loi"
+          },
+          "coords": [
+            102.116896,
+            14.98069
+          ],
+          "category": "religious",
+          "arrive_at": "14:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.21,
+          "tip_5lang": {
+            "de": "Bewundern Sie die einzigartige bootförmige Haupthalle dieses preisgekrönten Tempels am Fluss und achten Sie auf die schönen Dan Kwian-Keramikdekorationen.",
+            "hu": "Csodálja meg ennek a díjnyertes folyóparti templomnak az egyedülálló hajó alakú főcsarnokát, és figyelje meg a gyönyörű Dan Kwian kerámia díszítéseket.",
+            "ro": "Minunați-vă de sala principală unică în formă de barcă a acestui templu premiat pe râu și remarcați frumoasele decorațiuni din ceramică Dan Kwian.",
+            "en": "Marvel at the unique boat-shaped main hall of this award-winning riverside temple, and look out for the beautiful Dan Kwian pottery decorations throughout."
+          }
+        },
+        {
+          "name": {
+            "de": "Korat Museum",
+            "hu": "Korat Múzeum",
+            "ro": "Muzeul Korat",
+            "en": "Korat Museum"
+          },
+          "coords": [
+            102.11405,
+            14.983165
+          ],
+          "category": "museum",
+          "arrive_at": "15:27",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.41,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem fesselnden Museum mehr über die Entwicklung von Nakhon Ratchasima seit der Antike und planen Sie mindestens eine Stunde für die Dioramen ein.",
+            "hu": "Ismerje meg Nakhon Ratchasima fejlődését az ókortól kezdve ebben a lebilincselő múzeumban, és szánjon legalább egy órát a diorámák teljes értékelésére.",
+            "ro": "Aflați despre evoluția orașului Nakhon Ratchasima din cele mai vechi timpuri la acest muzeu captivant și acordați-vă cel puțin o oră pentru diorame.",
+            "en": "Learn about the evolution of Nakhon Ratchasima from ancient times at this engaging museum, and dedicate at least an hour to fully appreciate the dioramas."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie früh zum friedlichen Waldtempel am Stadtrand, wo sich Natur und Meditation wunderbar verflechten, bevor Sie zur verehrten Stupa weiterfahren. Mittags kehren Sie in den Stadtkern zurück, um die nationale Geschichte zu erkunden. Der Nachmittag verbindet nahtlos die einzigartige Architektur des Tempels am Flussufer mit den umfassenden Exponaten des Korat-Museums. Ihre Reise endet mit einem vollständigen Blick auf das Erbe der Region.",
+        "hu": "Vezessen ki korán a város széli békés erdei templomhoz, ahol a természet és a meditáció gyönyörűen összefonódik, mielőtt a tisztelt sztúpához indulna. A dél visszavezeti Önt a városközpontba, hogy felfedezze a történelmet és tisztelegjen az ikonikus hősnő előtt. A délután zökkenőmentesen vált át a folyóparti templom egyedi építészete és a Korat Múzeum átfogó kiállításai között. Utazása a régió örökségének teljes megismerésével zárul.",
+        "ro": "Conduceți dimineața devreme spre templul pașnic din pădure, unde natura și meditația se împletesc frumos, înainte de a vă îndrepta spre stupa venerată. La amiază vă conectați înapoi la centrul orașului, explorând istoria profundă și onorând eroina locală. După-amiaza face o tranziție fluidă între arhitectura unică a templului de pe râu și exponatele complexe de la Muzeul Korat. Călătoria dumneavoastră se încheie cu o imagine completă a patrimoniului.",
+        "en": "Drive out early to the peaceful forest temple on the outskirts, where nature and meditation intertwine beautifully before heading to the revered stupa. Midday connects you back to the city core, exploring profound national history and honoring the iconic local heroine. The afternoon seamlessly transitions between the unique architecture of the riverside temple and the comprehensive exhibits of the Korat Museum. Your journey wraps up with a complete view of the region's heritage."
+      }
+    }
+  }
+}

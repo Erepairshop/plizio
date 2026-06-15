@@ -1,0 +1,497 @@
+{
+  "city_id": "l-isle-jourdain",
+  "anchor": {
+    "name": "L'Isle-Jourdain",
+    "coords": [
+      1.0808,
+      43.6136
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:14",
+      "total_km": 0.95,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von L'Isle-Jourdain",
+            "hu": "L'Isle-Jourdain Városháza",
+            "ro": "Primăria L'Isle-Jourdain",
+            "en": "L'Isle-Jourdain Town Hall"
+          },
+          "coords": [
+            1.087236,
+            43.609682
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur des Rathauses von L'Isle-Jourdain und verpassen Sie nicht, die lokalen Aushänge am Eingang für anstehende Stadtfeste zu überprüfen.",
+            "hu": "Csodálja meg L'Isle-Jourdain városházának elegáns építészetét, és ne felejtse el megnézni a bejáratnál lévő helyi hirdetőtáblát a közelgő városi fesztiválok miatt.",
+            "ro": "Admirați arhitectura elegantă a Primăriei L'Isle-Jourdain și asigurați-vă că verificați avizierul local de la intrare pentru festivalurile viitoare ale orașului.",
+            "en": "Admire the elegant architecture of the L'Isle-Jourdain Town Hall and make sure to check the local notice board at the entrance for upcoming city festivals."
+          }
+        },
+        {
+          "name": {
+            "de": "Collégiale Saint-Martin de L'Isle-Jourdain",
+            "hu": "Collégiale Saint-Martin de L'Isle-Jourdain",
+            "ro": "Collégiale Saint-Martin de L'Isle-Jourdain",
+            "en": "Collégiale Saint-Martin de L'Isle-Jourdain"
+          },
+          "coords": [
+            1.080939,
+            43.612352
+          ],
+          "category": "religious",
+          "arrive_at": "09:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Betreten Sie die Collégiale Saint-Martin, um ihre beeindruckenden Buntglasfenster zu bestaunen, und versuchen Sie, die ruhigen Morgenstunden für bestes Licht im Inneren zu nutzen.",
+            "hu": "Lépjen be a Collégiale Saint-Martin épületébe, hogy megcsodálja a lenyűgöző ólomüveg ablakokat, és próbálja kihasználni a csendes reggeli órákat a legjobb fényviszonyokhoz.",
+            "ro": "Pășiți în Collégiale Saint-Martin pentru a vă minuna de vitraliile sale impresionante și încercați să profitați de orele liniștite ale dimineții pentru cea mai bună lumină în interior.",
+            "en": "Step into the Collégiale Saint-Martin to marvel at its impressive stained glass windows, and try to take advantage of the quiet morning hours for the best interior lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée d'Art Campanaire",
+            "hu": "Musée d'Art Campanaire",
+            "ro": "Musée d'Art Campanaire",
+            "en": "Musée d'Art Campanaire"
+          },
+          "coords": [
+            1.082133,
+            43.613001
+          ],
+          "category": "museum",
+          "arrive_at": "10:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Welt der Glockenkunde im Musée d'Art Campanaire und achten Sie besonders auf die antiken Glocken im ersten Stock, die stündlich geläutet werden.",
+            "hu": "Fedezze fel a harangok lenyűgöző világát a Musée d'Art Campanaire-ben, és figyeljen a földszinti antik harangokra, amelyeket óránként megszólaltatnak a látogatóknak.",
+            "ro": "Descoperiți lumea fascinantă a clopotelor la Musée d'Art Campanaire și acordați o atenție deosebită clopotelor antice de la primul etaj, care sunt bătute din oră în oră.",
+            "en": "Discover the fascinating world of bells at the Musée d'Art Campanaire, and pay special attention to the antique bells on the first floor that are rung every hour."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Panat",
+            "hu": "Château de Panat",
+            "ro": "Château de Panat",
+            "en": "Château de Panat"
+          },
+          "coords": [
+            1.080693,
+            43.61456
+          ],
+          "category": "historical",
+          "arrive_at": "12:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Ruinen des Château de Panat, das einen Einblick in die feudale Vergangenheit bietet, und tragen Sie bequeme Schuhe, da das Gelände oft uneben ist.",
+            "hu": "Fedezze fel a Château de Panat történelmi romjait, amely bepillantást enged a feudális múltba, és viseljen kényelmes cipőt, mivel a terep meglehetősen egyenetlen.",
+            "ro": "Explorați ruinele istorice ale Château de Panat, care oferă o privire în trecutul feudal, și purtați încălțăminte confortabilă, deoarece terenul din zonă este adesea denivelat.",
+            "en": "Explore the historical ruins of Château de Panat which offers a glimpse into the feudal past, and be sure to wear comfortable shoes as the surrounding grounds are quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Isle-Jourdain See",
+            "hu": "Isle-Jourdain-tó",
+            "ro": "Lacul Isle-Jourdain",
+            "en": "Isle-Jourdain Lake"
+          },
+          "coords": [
+            1.082204,
+            43.614115
+          ],
+          "category": "recreational",
+          "arrive_at": "13:29",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den Ufern des Isle-Jourdain Lake, der perfekte Ort für ein Picknick, und mieten Sie sich ein kleines Tretboot, um die ruhige Atmosphäre auf dem Wasser zu genießen.",
+            "hu": "Pihenjen az Isle-Jourdain-tó partján, amely tökéletes hely egy piknikhez, és béreljen vízibiciklit, hogy a vízről élvezhesse a tó békés hangulatát egy meleg délutánon.",
+            "ro": "Relaxați-vă pe malurile Lacului Isle-Jourdain, locul perfect pentru un picnic și închiriați o hidrobicicletă pentru a vă bucura de atmosfera pașnică direct de pe suprafața apei.",
+            "en": "Relax on the shores of Isle-Jourdain Lake, the perfect spot for a scenic picnic, and consider renting a pedal boat to fully enjoy the peaceful atmosphere from the water itself."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am Rathaus von L'Isle-Jourdain und bewundern Sie das städtische Zentrum. Mittags besuchen Sie die ruhige Collégiale Saint-Martin und das faszinierende Musée d'Art Campanaire. Am Nachmittag entdecken Sie die historischen Überreste des Château de Panat. Beenden Sie Ihren Tag am Abend entspannt am Ufer des malerischen Isle-Jourdain Lake.",
+        "hu": "Kezdje a reggelt a L'Isle-Jourdain városházánál, megcsodálva a civil központot. Délben látogasson el a békés Collégiale Saint-Martinba és a lenyűgöző Musée d'Art Campanaire-be. Délután fedezze fel a Château de Panat történelmi romjait. Fejezze be a napot pihenve az Isle-Jourdain-tó csendes vizénél, ahogy közeledik az este.",
+        "ro": "Începeți dimineața la Primăria L'Isle-Jourdain, admirând centrul civic. La prânz, vizitați senina Collégiale Saint-Martin și fascinantul Musée d'Art Campanaire. După-amiaza, descoperiți rămășițele istorice ale Château de Panat. Încheiați-vă ziua relaxându-vă pe malurile liniștite ale lacului Isle-Jourdain pe măsură ce se lasă seara.",
+        "en": "Begin your morning at the L'Isle-Jourdain Town Hall, admiring the central civic hub. Midday takes you to the serene Collégiale Saint-Martin and the fascinating Musée d'Art Campanaire. In the afternoon, discover the historical remains of Château de Panat. Conclude your day relaxing by the tranquil waters of Isle-Jourdain Lake as evening approaches."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:17",
+      "total_km": 7.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Château d'Arquès",
+            "hu": "Château d'Arquès",
+            "ro": "Château d'Arquès",
+            "en": "Château d'Arquès"
+          },
+          "coords": [
+            1.089243,
+            43.587552
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die Geschichte beim Château d'Arquès, einem beeindruckenden Zeugnis der regionalen Baukunst, und machen Sie von der südlichen Anhöhe aus fantastische Panoramafotos.",
+            "hu": "Merüljön el a történelemben a Château d'Arquès-nél, amely a regionális építészet lenyűgöző emléke, és készítsen fantasztikus panorámaképeket a déli dombtetőről.",
+            "ro": "Cufundați-vă în istorie la Château d'Arquès, o mărturie impresionantă a arhitecturii regionale, și faceți fotografii panoramice fantastice de pe dealul din partea de sud.",
+            "en": "Immerse yourself in history at Château d'Arquès, an impressive testament to regional architecture, and make sure to take fantastic panoramic photos from the southern hilltop."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von L'Isle-Jourdain",
+            "hu": "L'Isle-Jourdain Városháza",
+            "ro": "Primăria L'Isle-Jourdain",
+            "en": "L'Isle-Jourdain Town Hall"
+          },
+          "coords": [
+            1.087236,
+            43.609682
+          ],
+          "category": "civic",
+          "arrive_at": "10:44",
+          "stay_min": 25,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur des Rathauses von L'Isle-Jourdain und verpassen Sie nicht, die lokalen Aushänge am Eingang für anstehende Stadtfeste zu überprüfen.",
+            "hu": "Csodálja meg L'Isle-Jourdain városházának elegáns építészetét, és ne felejtse el megnézni a bejáratnál lévő helyi hirdetőtáblát a közelgő városi fesztiválok miatt.",
+            "ro": "Admirați arhitectura elegantă a Primăriei L'Isle-Jourdain și asigurați-vă că verificați avizierul local de la intrare pentru festivalurile viitoare ale orașului.",
+            "en": "Admire the elegant architecture of the L'Isle-Jourdain Town Hall and make sure to check the local notice board at the entrance for upcoming city festivals."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont Peyrin",
+            "hu": "Pont Peyrin",
+            "ro": "Pont Peyrin",
+            "en": "Pont Peyrin"
+          },
+          "coords": [
+            1.070222,
+            43.607896
+          ],
+          "category": "landmark",
+          "arrive_at": "11:17",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Überqueren Sie den historischen Pont Peyrin, ein wichtiges architektonisches Wahrzeichen der Stadt, und halten Sie in der Mitte der Brücke an, um die Aussicht auf den Flusslauf zu genießen.",
+            "hu": "Keljen át a történelmi Pont Peyrin hídon, a város egyik fontos építészeti jelképén, és álljon meg a híd közepén, hogy gyönyörködjön a folyó menti festői kilátásban.",
+            "ro": "Traversați podul istoric Pont Peyrin, un important punct de reper arhitectural al orașului, și opriți-vă la mijloc pentru a vă bucura de priveliștea pitorească a râului.",
+            "en": "Cross the historic Pont Peyrin, an important architectural landmark of the city, and pause in the middle of the bridge to fully appreciate the scenic views of the river below."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée d'Art Campanaire",
+            "hu": "Musée d'Art Campanaire",
+            "ro": "Musée d'Art Campanaire",
+            "en": "Musée d'Art Campanaire"
+          },
+          "coords": [
+            1.082133,
+            43.613001
+          ],
+          "category": "museum",
+          "arrive_at": "11:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Welt der Glockenkunde im Musée d'Art Campanaire und achten Sie besonders auf die antiken Glocken im ersten Stock, die stündlich geläutet werden.",
+            "hu": "Fedezze fel a harangok lenyűgöző világát a Musée d'Art Campanaire-ben, és figyeljen a földszinti antik harangokra, amelyeket óránként megszólaltatnak a látogatóknak.",
+            "ro": "Descoperiți lumea fascinantă a clopotelor la Musée d'Art Campanaire și acordați o atenție deosebită clopotelor antice de la primul etaj, care sunt bătute din oră în oră.",
+            "en": "Discover the fascinating world of bells at the Musée d'Art Campanaire, and pay special attention to the antique bells on the first floor that are rung every hour."
+          }
+        },
+        {
+          "name": {
+            "de": "Collégiale Saint-Martin de L'Isle-Jourdain",
+            "hu": "Collégiale Saint-Martin de L'Isle-Jourdain",
+            "ro": "Collégiale Saint-Martin de L'Isle-Jourdain",
+            "en": "Collégiale Saint-Martin de L'Isle-Jourdain"
+          },
+          "coords": [
+            1.080939,
+            43.612352
+          ],
+          "category": "religious",
+          "arrive_at": "13:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Betreten Sie die Collégiale Saint-Martin, um ihre beeindruckenden Buntglasfenster zu bestaunen, und versuchen Sie, die ruhigen Morgenstunden für bestes Licht im Inneren zu nutzen.",
+            "hu": "Lépjen be a Collégiale Saint-Martin épületébe, hogy megcsodálja a lenyűgöző ólomüveg ablakokat, és próbálja kihasználni a csendes reggeli órákat a legjobb fényviszonyokhoz.",
+            "ro": "Pășiți în Collégiale Saint-Martin pentru a vă minuna de vitraliile sale impresionante și încercați să profitați de orele liniștite ale dimineții pentru cea mai bună lumină în interior.",
+            "en": "Step into the Collégiale Saint-Martin to marvel at its impressive stained glass windows, and try to take advantage of the quiet morning hours for the best interior lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Isle-Jourdain See",
+            "hu": "Isle-Jourdain-tó",
+            "ro": "Lacul Isle-Jourdain",
+            "en": "Isle-Jourdain Lake"
+          },
+          "coords": [
+            1.082204,
+            43.614115
+          ],
+          "category": "recreational",
+          "arrive_at": "14:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den Ufern des Isle-Jourdain Lake, der perfekte Ort für ein Picknick, und mieten Sie sich ein kleines Tretboot, um die ruhige Atmosphäre auf dem Wasser zu genießen.",
+            "hu": "Pihenjen az Isle-Jourdain-tó partján, amely tökéletes hely egy piknikhez, és béreljen vízibiciklit, hogy a vízről élvezhesse a tó békés hangulatát egy meleg délutánon.",
+            "ro": "Relaxați-vă pe malurile Lacului Isle-Jourdain, locul perfect pentru un picnic și închiriați o hidrobicicletă pentru a vă bucura de atmosfera pașnică direct de pe suprafața apei.",
+            "en": "Relax on the shores of Isle-Jourdain Lake, the perfect spot for a scenic picnic, and consider renting a pedal boat to fully enjoy the peaceful atmosphere from the water itself."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Guerre",
+            "hu": "Château de Guerre",
+            "ro": "Château de Guerre",
+            "en": "Château de Guerre"
+          },
+          "coords": [
+            1.108302,
+            43.616468
+          ],
+          "category": "historical",
+          "arrive_at": "15:27",
+          "stay_min": 110,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Besichtigen Sie das Château de Guerre am Rande der Stadt für tiefere historische Einblicke und nehmen Sie sich Zeit für einen entspannten Spaziergang durch die angrenzenden alten Wälder.",
+            "hu": "Látogasson el a város szélén található Château de Guerre kastélyba a mélyebb történelmi betekintésért, és szánjon időt egy pihentető sétára a szomszédos ősi erdőkben.",
+            "ro": "Vizitați Château de Guerre la marginea orașului pentru a pătrunde mai adânc în istorie și acordați-vă timp pentru o plimbare relaxantă prin pădurile vechi învecinate.",
+            "en": "Visit Château de Guerre on the outskirts of the town for deeper historical insights, and allow extra time for a relaxing walk through the adjacent ancient woodlands."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Fahrradabenteuer am beeindruckenden Château d'Arquès, bevor Sie in die Stadt fahren. Mittags besuchen Sie das Rathaus, Pont Peyrin und das berühmte Musée d'Art Campanaire. Der Nachmittag bringt Sie zur Collégiale Saint-Martin und den Ufern des Isle-Jourdain Lake. Beenden Sie den Tag mit einer Fahrt zum historischen Château de Guerre.",
+        "hu": "Kezdje kerékpáros kalandját a lenyűgöző Château d'Arquès-nél, mielőtt a városba indulna. Délben a Városháza, a Pont Peyrin és a híres Musée d'Art Campanaire várja. Délután a Collégiale Saint-Martin és az Isle-Jourdain-tó pihentető partja következik. Zárja a napot egy tekeréssel a történelmi Château de Guerre-hez.",
+        "ro": "Începeți aventura cu bicicleta la impresionantul Château d'Arquès înainte de a vă îndrepta spre oraș. Prânzul include vizite la Primărie, Pont Peyrin și faimosul Musée d'Art Campanaire. După-amiaza vă aduce la Collégiale Saint-Martin și malurile relaxante ale lacului Isle-Jourdain. Terminați ziua mergând la istoricul Château de Guerre.",
+        "en": "Start your cycling adventure at the impressive Château d'Arquès before heading into town. Midday features visits to the Town Hall, Pont Peyrin, and the renowned Musée d'Art Campanaire. Afternoon brings you to Collégiale Saint-Martin and the relaxing shores of Isle-Jourdain Lake. Finish the day with a ride to the historic Château de Guerre."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:36",
+      "total_km": 7.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Château des Quintarets",
+            "hu": "Château des Quintarets",
+            "ro": "Château des Quintarets",
+            "en": "Château des Quintarets"
+          },
+          "coords": [
+            1.062698,
+            43.596468
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die abgelegene Schönheit des Château des Quintarets, das von üppigem Grün umgeben ist, und vergessen Sie Ihr Insektenspray für Spaziergänge in den umliegenden Wiesen nicht.",
+            "hu": "Fedezze fel a Château des Quintarets félreeső szépségét, amelyet buja növényzet vesz körül, és ne felejtse el a rovarriasztót, ha a környező réteken szeretne sétálni.",
+            "ro": "Descoperiți frumusețea izolată a Château des Quintarets, înconjurat de verdeață luxuriantă, și nu uitați spray-ul împotriva insectelor pentru plimbările prin pajiștile din jur.",
+            "en": "Discover the secluded beauty of Château des Quintarets, surrounded by lush greenery, and don't forget to pack bug spray for walks through the surrounding tall meadows."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Come",
+            "hu": "Château de la Come",
+            "ro": "Château de la Come",
+            "en": "Château de la Come"
+          },
+          "coords": [
+            1.064327,
+            43.617623
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die massiven Mauern des Château de la Come, die Geschichten vergangener Epochen erzählen, und buchen Sie eine Führung im Voraus, um Zugang zu den inneren Gemächern zu erhalten.",
+            "hu": "Csodálja meg a Château de la Come masszív falait, amelyek letűnt korok történeteit mesélik el, és foglaljon előre vezetett túrát, hogy hozzáférést kapjon a belső termekhez.",
+            "ro": "Minunați-vă de zidurile masive de la Château de la Come, care spun poveștile epocilor trecute, și rezervați-vă un tur ghidat în avans pentru a avea acces la camerele interioare.",
+            "en": "Marvel at the massive walls of Château de la Come which tell stories of bygone eras, and book a guided tour in advance to guarantee access to the restricted inner chambers."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Panat",
+            "hu": "Château de Panat",
+            "ro": "Château de Panat",
+            "en": "Château de Panat"
+          },
+          "coords": [
+            1.080693,
+            43.61456
+          ],
+          "category": "historical",
+          "arrive_at": "11:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Ruinen des Château de Panat, das einen Einblick in die feudale Vergangenheit bietet, und tragen Sie bequeme Schuhe, da das Gelände oft uneben ist.",
+            "hu": "Fedezze fel a Château de Panat történelmi romjait, amely bepillantást enged a feudális múltba, és viseljen kényelmes cipőt, mivel a terep meglehetősen egyenetlen.",
+            "ro": "Explorați ruinele istorice ale Château de Panat, care oferă o privire în trecutul feudal, și purtați încălțăminte confortabilă, deoarece terenul din zonă este adesea denivelat.",
+            "en": "Explore the historical ruins of Château de Panat which offers a glimpse into the feudal past, and be sure to wear comfortable shoes as the surrounding grounds are quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Isle-Jourdain See",
+            "hu": "Isle-Jourdain-tó",
+            "ro": "Lacul Isle-Jourdain",
+            "en": "Isle-Jourdain Lake"
+          },
+          "coords": [
+            1.082204,
+            43.614115
+          ],
+          "category": "recreational",
+          "arrive_at": "13:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den Ufern des Isle-Jourdain Lake, der perfekte Ort für ein Picknick, und mieten Sie sich ein kleines Tretboot, um die ruhige Atmosphäre auf dem Wasser zu genießen.",
+            "hu": "Pihenjen az Isle-Jourdain-tó partján, amely tökéletes hely egy piknikhez, és béreljen vízibiciklit, hogy a vízről élvezhesse a tó békés hangulatát egy meleg délutánon.",
+            "ro": "Relaxați-vă pe malurile Lacului Isle-Jourdain, locul perfect pentru un picnic și închiriați o hidrobicicletă pentru a vă bucura de atmosfera pașnică direct de pe suprafața apei.",
+            "en": "Relax on the shores of Isle-Jourdain Lake, the perfect spot for a scenic picnic, and consider renting a pedal boat to fully enjoy the peaceful atmosphere from the water itself."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée d'Art Campanaire",
+            "hu": "Musée d'Art Campanaire",
+            "ro": "Musée d'Art Campanaire",
+            "en": "Musée d'Art Campanaire"
+          },
+          "coords": [
+            1.082133,
+            43.613001
+          ],
+          "category": "museum",
+          "arrive_at": "14:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Welt der Glockenkunde im Musée d'Art Campanaire und achten Sie besonders auf die antiken Glocken im ersten Stock, die stündlich geläutet werden.",
+            "hu": "Fedezze fel a harangok lenyűgöző világát a Musée d'Art Campanaire-ben, és figyeljen a földszinti antik harangokra, amelyeket óránként megszólaltatnak a látogatóknak.",
+            "ro": "Descoperiți lumea fascinantă a clopotelor la Musée d'Art Campanaire și acordați o atenție deosebită clopotelor antice de la primul etaj, care sunt bătute din oră în oră.",
+            "en": "Discover the fascinating world of bells at the Musée d'Art Campanaire, and pay special attention to the antique bells on the first floor that are rung every hour."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von L'Isle-Jourdain",
+            "hu": "L'Isle-Jourdain Városháza",
+            "ro": "Primăria L'Isle-Jourdain",
+            "en": "L'Isle-Jourdain Town Hall"
+          },
+          "coords": [
+            1.087236,
+            43.609682
+          ],
+          "category": "civic",
+          "arrive_at": "16:16",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur des Rathauses von L'Isle-Jourdain und verpassen Sie nicht, die lokalen Aushänge am Eingang für anstehende Stadtfeste zu überprüfen.",
+            "hu": "Csodálja meg L'Isle-Jourdain városházának elegáns építészetét, és ne felejtse el megnézni a bejáratnál lévő helyi hirdetőtáblát a közelgő városi fesztiválok miatt.",
+            "ro": "Admirați arhitectura elegantă a Primăriei L'Isle-Jourdain și asigurați-vă că verificați avizierul local de la intrare pentru festivalurile viitoare ale orașului.",
+            "en": "Admire the elegant architecture of the L'Isle-Jourdain Town Hall and make sure to check the local notice board at the entrance for upcoming city festivals."
+          }
+        },
+        {
+          "name": {
+            "de": "Château d'Arquès",
+            "hu": "Château d'Arquès",
+            "ro": "Château d'Arquès",
+            "en": "Château d'Arquès"
+          },
+          "coords": [
+            1.089243,
+            43.587552
+          ],
+          "category": "historical",
+          "arrive_at": "16:46",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die Geschichte beim Château d'Arquès, einem beeindruckenden Zeugnis der regionalen Baukunst, und machen Sie von der südlichen Anhöhe aus fantastische Panoramafotos.",
+            "hu": "Merüljön el a történelemben a Château d'Arquès-nél, amely a regionális építészet lenyűgöző emléke, és készítsen fantasztikus panorámaképeket a déli dombtetőről.",
+            "ro": "Cufundați-vă în istorie la Château d'Arquès, o mărturie impresionantă a arhitecturii regionale, și faceți fotografii panoramice fantastice de pe dealul din partea de sud.",
+            "en": "Immerse yourself in history at Château d'Arquès, an impressive testament to regional architecture, and make sure to take fantastic panoramic photos from the southern hilltop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie früh zum abgelegenen Château des Quintarets für einen großartigen Start. Mittags geht es zurück nach Norden zum Château de la Come, dann in die Stadt zum Château de Panat und zum Isle-Jourdain Lake. Nachmittags erkunden Sie das Musée d'Art Campanaire und das Rathaus. Beenden Sie Ihre Tour mit einer Fahrt zum majestätischen Château d'Arquès.",
+        "hu": "Korán induljon el a félreeső Château des Quintarets-hez egy nagyszerű kezdésért. Délben északra veszi az irányt a Château de la Come-hoz, majd a városba a Château de Panat és a gyönyörű Isle-Jourdain-tó felé. A délutánt a Musée d'Art Campanaire és a Városháza felfedezésével tölti. Zárja a napot egy esti autózással a fenséges Château d'Arquès-hez.",
+        "ro": "Mergeți devreme cu mașina la izolatul Château des Quintarets pentru un început minunat. La prânz, mergeți spre nord la Château de la Come, apoi în oraș la Château de Panat și frumosul lac Isle-Jourdain. După-amiaza este petrecută explorând Musée d'Art Campanaire și Primăria. Încheiați-vă turul cu o plimbare de seară către maiestuosul Château d'Arquès.",
+        "en": "Drive out early to the secluded Château des Quintarets for a grand start. Midday takes you back north to Château de la Come, then into town for Château de Panat and the beautiful Isle-Jourdain Lake. Afternoon hours are spent exploring the Musée d'Art Campanaire and the Town Hall. Conclude your tour with an evening drive to the majestic Château d'Arquès."
+      }
+    }
+  }
+}

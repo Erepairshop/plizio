@@ -1,0 +1,474 @@
+{
+  "city_id": "thones",
+  "anchor": {
+    "name": "Thônes",
+    "coords": [
+      6.3256,
+      45.8822
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 1.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Szent Móric-templom",
+            "hu": "Szent Móric-templom",
+            "ro": "Szent Móric-templom",
+            "en": "Szent Móric-templom"
+          },
+          "coords": [
+            6.324703,
+            45.881624
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die prächtige Kirche Saint-Maurice mit ihrem markanten Turm, um die lokale Architektur zu bewundern, aber denken Sie daran, sich respektvoll zu kleiden.",
+            "hu": "Tekintse meg a jellegzetes harangtoronnyal büszkélkedő Szent Móric-templomot, amely a helyi építészet lenyűgöző példája, és ügyeljen a visszafogott öltözködésre.",
+            "ro": "Vizitați impresionanta Biserică Saint-Maurice cu turnul său distinctiv pentru a admira arhitectura locală, amintindu-vă să purtați haine decente în interior.",
+            "en": "Visit the impressive Saint-Maurice Church with its distinctive bell tower to admire the local religious architecture, remembering to dress modestly before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Thônes-i Sajtszövetkezet",
+            "hu": "Thônes-i Sajtszövetkezet",
+            "ro": "Thônes-i Sajtszövetkezet",
+            "en": "Thônes-i Sajtszövetkezet"
+          },
+          "coords": [
+            6.326477,
+            45.881709
+          ],
+          "category": "culinary",
+          "arrive_at": "09:53",
+          "stay_min": 50,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geheimnisse des berühmten Reblochon-Käses bei einer Führung durch die Genossenschaft, wo Sie unbedingt eine Kostprobe aus dem Reifekeller nehmen sollten.",
+            "hu": "Fedezze fel a híres Reblochon sajt készítésének titkait a helyi szövetkezetben, és semmiképp se hagyja ki a friss kóstolót, amelyet egyenesen az érlelőből szolgálnak fel.",
+            "ro": "Descoperiți secretele faimoasei brânze Reblochon vizitând cooperativa locală, unde trebuie neapărat să profitați de o degustare proaspătă direct din pivnițele de maturare.",
+            "en": "Discover the secrets of the famous Reblochon cheese by touring the cooperative, where you should definitely enjoy a fresh tasting directly from the maturing cellars."
+          }
+        },
+        {
+          "name": {
+            "de": "Thônes-i Helytörténeti Múzeum",
+            "hu": "Thônes-i Helytörténeti Múzeum",
+            "ro": "Thônes-i Helytörténeti Múzeum",
+            "en": "Thônes-i Helytörténeti Múzeum"
+          },
+          "coords": [
+            6.322549,
+            45.883261
+          ],
+          "category": "museum",
+          "arrive_at": "10:49",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reiche Geschichte des Aravis-Tals ein, indem Sie die Ausstellungen erkunden und ausreichend Zeit für die historischen Handwerksdisplays einplanen.",
+            "hu": "Merüljön el az Aravis-völgy gazdag múltjában a helyi életmódot bemutató kiállításokon, és hagyjon elég időt a hagyományos kézművesség megismerésére.",
+            "ro": "Explorați istoria bogată a Văii Aravis admirând expozițiile dedicate modului de viață local și asigurați-vă că alocați timp suficient pentru obiectele de artizanat.",
+            "en": "Delve into the rich history of the Aravis Valley by exploring exhibits on traditional local life, making sure to allocate plenty of time for the fascinating craft displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Pataugeoire (Paddling pool)",
+            "hu": "Pataugeoire (Paddling pool)",
+            "ro": "Pataugeoire (Paddling pool)",
+            "en": "Pataugeoire (Paddling pool)"
+          },
+          "coords": [
+            6.321086,
+            45.883113
+          ],
+          "category": "family",
+          "arrive_at": "12:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Gönnen Sie Ihren Kindern eine erfrischende Pause an diesem sicheren Planschbecken im Herzen der Stadt, bringen Sie aber unbedingt Badeschuhe und Sonnenschutz mit.",
+            "hu": "Hagyja, hogy a gyerekek felfrissüljenek ebben a biztonságos, központi pancsolómedencében, és ne felejtsen el naptejet, valamint megfelelő csúszásgátló vízi cipőt vinni.",
+            "ro": "Oferiți copiilor o pauză răcoroasă la acest bazin sigur din centrul orașului, dar nu uitați să aduceți loțiune de protecție solară și încălțăminte adecvată pentru apă.",
+            "en": "Treat your children to a refreshing break at this safe paddling pool in the heart of town, but remember to pack waterproof shoes and plenty of sun protection for them."
+          }
+        },
+        {
+          "name": {
+            "de": "Roche à l'Aguz via ferrata",
+            "hu": "Roche à l'Aguz via ferrata",
+            "ro": "Roche à l'Aguz via ferrata",
+            "en": "Roche à l'Aguz via ferrata"
+          },
+          "coords": [
+            6.322111,
+            45.884942
+          ],
+          "category": "recreational",
+          "arrive_at": "13:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie den Nervenkitzel beim Klettern auf dieser spektakulären Route mit herrlichem Blick, für die Sie jedoch eine komplette und geprüfte Ausrüstung benötigen.",
+            "hu": "Élje át a hegymászás izgalmát ezen a látványos útvonalon, amely mesés kilátást nyújt a városra, de ügyeljen arra, hogy csak bevizsgált felszereléssel induljon el.",
+            "ro": "Experimentați fiorul cățărării pe acest traseu spectaculos care oferă priveliști superbe asupra orașului Thônes, fiind obligatoriu să purtați echipament de siguranță.",
+            "en": "Experience the thrill of climbing this spectacular route offering magnificent views of Thônes, but ensure you bring and wear complete, certified safety equipment."
+          }
+        },
+        {
+          "name": {
+            "de": "Mont Fairway",
+            "hu": "Mont Fairway",
+            "ro": "Mont Fairway",
+            "en": "Mont Fairway"
+          },
+          "coords": [
+            6.310625,
+            45.889963
+          ],
+          "category": "family",
+          "arrive_at": "15:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie entspannte familiäre Momente in dieser naturnahen Anlage mit vielfältigen Spielmöglichkeiten, wobei bequeme Schuhe für die unebenen Wege ratsam sind.",
+            "hu": "Töltsön el néhány pihentető, családi percet ezen a természetes játszóterepen, és mindenképpen kényelmes cipőt viseljen, mivel az ösvények felülete meglehetősen egyenetlen.",
+            "ro": "Bucurați-vă de momente relaxante în familie în această zonă naturală plină de activități, fiind recomandat să purtați încălțăminte confortabilă pentru aleile denivelate.",
+            "en": "Enjoy relaxing family moments in this nature-oriented area full of fun activities, making sure to wear comfortable walking shoes to easily navigate the uneven pathways."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen im Herzen von Thônes mit der Besichtigung der Kirche, gefolgt von einer köstlichen Käseverkostung.\n\nGegen Mittag tauchen wir im Museum in die reiche Geschichte ein, bevor wir am Planschbecken eine kleine Pause einlegen.\n\nAm Nachmittag wird es sportlich, wenn wir die spektakuläre Via Ferrata bezwingen und Thônes von oben bewundern.\n\nDer Tag endet entspannt auf den grünen Wegen des Mont Fairway, wo wir die Seele baumeln lassen können.",
+        "hu": "A napot Thônes szívében kezdjük a helyi templom megtekintésével, majd egy ínycsiklandó sajtkóstoló következik.\n\nDélben a múzeumban merülünk el a gazdag helytörténetben, mielőtt egy frissítő pihenőt tartanánk a pancsolónál.\n\nDélután sportosra vesszük a figurát, meghódítjuk a látványos Via Ferratát, és felülről csodáljuk meg a várost.\n\nA nap egy nyugodt sétával zárul a Mont Fairway zöldellő ösvényein, ahol kellemesen kipihenhetjük az élményeket.",
+        "ro": "Începem în inima orașului Thônes cu vizitarea bisericii locale, urmată de o degustare delicioasă de brânzeturi.\n\nLa prânz, explorăm istoria locală la muzeu, înainte de a lua o pauză răcoritoare la piscina pentru copii.\n\nDupă-amiaza devine activă când cucerim via ferrata spectaculoasă și admirăm orașul Thônes de la înălțime.\n\nZiua se încheie relaxant pe aleile verzi de la Mont Fairway, locul perfect pentru a vă deconecta cu familia.",
+        "en": "We begin in the heart of Thônes with a visit to the local church, followed by a delicious regional cheese tasting.\n\nBy midday, we delve into local history at the museum before taking a refreshing and relaxing break at the paddling pool.\n\nThe afternoon becomes active as we conquer the spectacular via ferrata route and admire the town of Thônes from above.\n\nThe day concludes with a relaxing stroll along the green paths of Mont Fairway, the perfect place to unwind completely."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:17",
+      "total_km": 4.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Szent Móric-templom",
+            "hu": "Szent Móric-templom",
+            "ro": "Szent Móric-templom",
+            "en": "Szent Móric-templom"
+          },
+          "coords": [
+            6.324703,
+            45.881624
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die prächtige Kirche Saint-Maurice mit ihrem markanten Turm, um die lokale Architektur zu bewundern, aber denken Sie daran, sich respektvoll zu kleiden.",
+            "hu": "Tekintse meg a jellegzetes harangtoronnyal büszkélkedő Szent Móric-templomot, amely a helyi építészet lenyűgöző példája, és ügyeljen a visszafogott öltözködésre.",
+            "ro": "Vizitați impresionanta Biserică Saint-Maurice cu turnul său distinctiv pentru a admira arhitectura locală, amintindu-vă să purtați haine decente în interior.",
+            "en": "Visit the impressive Saint-Maurice Church with its distinctive bell tower to admire the local religious architecture, remembering to dress modestly before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Thônes-i Helytörténeti Múzeum",
+            "hu": "Thônes-i Helytörténeti Múzeum",
+            "ro": "Thônes-i Helytörténeti Múzeum",
+            "en": "Thônes-i Helytörténeti Múzeum"
+          },
+          "coords": [
+            6.322549,
+            45.883261
+          ],
+          "category": "museum",
+          "arrive_at": "09:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reiche Geschichte des Aravis-Tals ein, indem Sie die Ausstellungen erkunden und ausreichend Zeit für die historischen Handwerksdisplays einplanen.",
+            "hu": "Merüljön el az Aravis-völgy gazdag múltjában a helyi életmódot bemutató kiállításokon, és hagyjon elég időt a hagyományos kézművesség megismerésére.",
+            "ro": "Explorați istoria bogată a Văii Aravis admirând expozițiile dedicate modului de viață local și asigurați-vă că alocați timp suficient pentru obiectele de artizanat.",
+            "en": "Delve into the rich history of the Aravis Valley by exploring exhibits on traditional local life, making sure to allocate plenty of time for the fascinating craft displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Mont Fairway",
+            "hu": "Mont Fairway",
+            "ro": "Mont Fairway",
+            "en": "Mont Fairway"
+          },
+          "coords": [
+            6.310625,
+            45.889963
+          ],
+          "category": "family",
+          "arrive_at": "11:38",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie entspannte familiäre Momente in dieser naturnahen Anlage mit vielfältigen Spielmöglichkeiten, wobei bequeme Schuhe für die unebenen Wege ratsam sind.",
+            "hu": "Töltsön el néhány pihentető, családi percet ezen a természetes játszóterepen, és mindenképpen kényelmes cipőt viseljen, mivel az ösvények felülete meglehetősen egyenetlen.",
+            "ro": "Bucurați-vă de momente relaxante în familie în această zonă naturală plină de activități, fiind recomandat să purtați încălțăminte confortabilă pentru aleile denivelate.",
+            "en": "Enjoy relaxing family moments in this nature-oriented area full of fun activities, making sure to wear comfortable walking shoes to easily navigate the uneven pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de Thuy",
+            "hu": "Lac de Thuy",
+            "ro": "Lac de Thuy",
+            "en": "Lac de Thuy"
+          },
+          "coords": [
+            6.304396,
+            45.895044
+          ],
+          "category": "natural",
+          "arrive_at": "12:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den ruhigen Ufern dieses malerischen Sees, der sich perfekt für ein friedliches Picknick eignet, wenn Sie Ihre eigenen Snacks mitbringen.",
+            "hu": "Pihenjen meg ennek a festői tónak a csendes partján, amely tökéletes helyszínt biztosít egy nyugodt piknikhez, ha előre gondoskodik a szükséges enni- és innivalóról.",
+            "ro": "Relaxați-vă pe malurile liniștite ale acestui lac pitoresc, care este perfect pentru un picnic pașnic atâta timp cât vă aduceți propriile gustări și băuturi de acasă.",
+            "en": "Relax on the tranquil shores of this picturesque lake, which provides the perfect setting for a peaceful picnic if you remember to bring along your own snacks and drinks."
+          }
+        },
+        {
+          "name": {
+            "de": "Morette-i Nemzeti Emlékhely",
+            "hu": "Morette-i Nemzeti Emlékhely",
+            "ro": "Morette-i Nemzeti Emlékhely",
+            "en": "Morette-i Nemzeti Emlékhely"
+          },
+          "coords": [
+            6.287391,
+            45.898462
+          ],
+          "category": "historical",
+          "arrive_at": "14:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Ehren Sie den französischen Widerstand an dieser bewegenden Gedenkstätte und nehmen Sie sich Zeit, die berührenden Inschriften der gefallenen Helden in Stille zu lesen.",
+            "hu": "Rója le tiszteletét a francia ellenállás hősei előtt ezen a megrendítő emlékhelyen, és szánjon elegendő időt a sírfeliratok elolvasására a temető nyugalmában.",
+            "ro": "Onorați rezistența franceză la acest memorial emoționant și acordați-vă timp pentru a citi în liniște inscripțiile mormintelor eroilor căzuți în luptă pentru libertate.",
+            "en": "Honor the French Resistance at this moving memorial site, taking your time to quietly read the poignant inscriptions of the fallen heroes in the historical cemetery."
+          }
+        },
+        {
+          "name": {
+            "de": "La Belle Inconnue vízesés",
+            "hu": "La Belle Inconnue vízesés",
+            "ro": "La Belle Inconnue vízesés",
+            "en": "La Belle Inconnue vízesés"
+          },
+          "coords": [
+            6.279264,
+            45.895097
+          ],
+          "category": "natural",
+          "arrive_at": "15:32",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von der versteckten Schönheit dieses tosenden Wasserfalls verzaubern, doch tragen Sie unbedingt rutschfeste Schuhe für den feuchten und moosigen Pfad.",
+            "hu": "Hagyja, hogy elvarázsolja e rejtett vízesés szépsége és zubogása, de mindenképpen csúszásgátló cipőt viseljen a nedves és mohás erdei ösvény biztonságos bejárásához.",
+            "ro": "Lăsați-vă fermecați de frumusețea ascunsă a acestei cascade zgomotoase, dar purtați obligatoriu încălțăminte antiderapantă pentru a parcurge în siguranță poteca umedă.",
+            "en": "Let yourself be enchanted by the hidden beauty of this roaring waterfall, but make sure to wear sturdy, slip-resistant shoes to navigate the damp and mossy trail safely."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unsere Radtour startet am historischen Kirchengebäude und führt uns direkt ins spannende Heimatmuseum.\n\nZur Mittagszeit radeln wir zum Mont Fairway für Spiel und Spaß, bevor es weiter zum idyllischen Lac de Thuy geht.\n\nAm Nachmittag gedenken wir an der Morette-Gedenkstätte der Helden, ein tief berührender Moment der Stille.\n\nWir beenden die Tour mit dem Rauschen des versteckten Wasserfalls La Belle Inconnue, ein magischer Abschluss.",
+        "hu": "Kerékpártúránk a történelmi templomépülettől indul, majd egyenesen a lenyűgöző helytörténeti múzeumba vezet.\n\nDélben a Mont Fairway felé tekerünk egy kis szórakozásért, majd a festői Lac de Thuy partján pihenünk meg.\n\nDélután a Morette-emlékhelynél hajtunk fejet a hősök előtt, amely egy mélyen megrendítő, csendes pillanat lesz.\n\nA túrát a rejtett La Belle Inconnue vízesés zúgásával zárjuk, amely valóban varázslatos befejezést garantál.",
+        "ro": "Turul nostru cu bicicleta începe la biserica istorică și ne conduce direct la fascinantul muzeu de istorie locală.\n\nLa prânz, pedalăm spre Mont Fairway pentru activități în aer liber, apoi ne relaxăm la idilicul Lac de Thuy.\n\nDupă-amiaza, aducem un omagiu eroilor la memorialul Morette, un moment profund și emoționant de reculegere liniștită.\n\nÎncheiem traseul cu sunetul cascadei ascunse La Belle Inconnue, o finalizare cu adevărat magică a zilei.",
+        "en": "Our bike tour starts at the historic church building and leads us straight into the fascinating local heritage museum.\n\nAt midday, we cycle towards Mont Fairway for some outdoor fun before resting on the shores of the idyllic Lac de Thuy.\n\nIn the afternoon, we pay tribute to the fallen heroes at the Morette memorial, a deeply moving and quiet moment of reflection.\n\nWe finish our tour with the roaring sounds of the hidden La Belle Inconnue waterfall, ensuring a truly magical conclusion."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:57",
+      "total_km": 26.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Thônes-i Sajtszövetkezet",
+            "hu": "Thônes-i Sajtszövetkezet",
+            "ro": "Thônes-i Sajtszövetkezet",
+            "en": "Thônes-i Sajtszövetkezet"
+          },
+          "coords": [
+            6.326477,
+            45.881709
+          ],
+          "category": "culinary",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geheimnisse des berühmten Reblochon-Käses bei einer Führung durch die Genossenschaft, wo Sie unbedingt eine Kostprobe aus dem Reifekeller nehmen sollten.",
+            "hu": "Fedezze fel a híres Reblochon sajt készítésének titkait a helyi szövetkezetben, és semmiképp se hagyja ki a friss kóstolót, amelyet egyenesen az érlelőből szolgálnak fel.",
+            "ro": "Descoperiți secretele faimoasei brânze Reblochon vizitând cooperativa locală, unde trebuie neapărat să profitați de o degustare proaspătă direct din pivnițele de maturare.",
+            "en": "Discover the secrets of the famous Reblochon cheese by touring the cooperative, where you should definitely enjoy a fresh tasting directly from the maturing cellars."
+          }
+        },
+        {
+          "name": {
+            "de": "Morette-i Nemzeti Emlékhely",
+            "hu": "Morette-i Nemzeti Emlékhely",
+            "ro": "Morette-i Nemzeti Emlékhely",
+            "en": "Morette-i Nemzeti Emlékhely"
+          },
+          "coords": [
+            6.287391,
+            45.898462
+          ],
+          "category": "historical",
+          "arrive_at": "10:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Ehren Sie den französischen Widerstand an dieser bewegenden Gedenkstätte und nehmen Sie sich Zeit, die berührenden Inschriften der gefallenen Helden in Stille zu lesen.",
+            "hu": "Rója le tiszteletét a francia ellenállás hősei előtt ezen a megrendítő emlékhelyen, és szánjon elegendő időt a sírfeliratok elolvasására a temető nyugalmában.",
+            "ro": "Onorați rezistența franceză la acest memorial emoționant și acordați-vă timp pentru a citi în liniște inscripțiile mormintelor eroilor căzuți în luptă pentru libertate.",
+            "en": "Honor the French Resistance at this moving memorial site, taking your time to quietly read the poignant inscriptions of the fallen heroes in the historical cemetery."
+          }
+        },
+        {
+          "name": {
+            "de": "La Belle Inconnue vízesés",
+            "hu": "La Belle Inconnue vízesés",
+            "ro": "La Belle Inconnue vízesés",
+            "en": "La Belle Inconnue vízesés"
+          },
+          "coords": [
+            6.279264,
+            45.895097
+          ],
+          "category": "natural",
+          "arrive_at": "11:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von der versteckten Schönheit dieses tosenden Wasserfalls verzaubern, doch tragen Sie unbedingt rutschfeste Schuhe für den feuchten und moosigen Pfad.",
+            "hu": "Hagyja, hogy elvarázsolja e rejtett vízesés szépsége és zubogása, de mindenképpen csúszásgátló cipőt viseljen a nedves és mohás erdei ösvény biztonságos bejárásához.",
+            "ro": "Lăsați-vă fermecați de frumusețea ascunsă a acestei cascade zgomotoase, dar purtați obligatoriu încălțăminte antiderapantă pentru a parcurge în siguranță poteca umedă.",
+            "en": "Let yourself be enchanted by the hidden beauty of this roaring waterfall, but make sure to wear sturdy, slip-resistant shoes to navigate the damp and mossy trail safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Glières-fennsík",
+            "hu": "Glières-fennsík",
+            "ro": "Glières-fennsík",
+            "en": "Glières-fennsík"
+          },
+          "coords": [
+            6.333889,
+            45.965
+          ],
+          "category": "historical",
+          "arrive_at": "13:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 9.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses geschichtsträchtige Hochplateau, das eine atemberaubende Alpenlandschaft mit der Heldengeschichte der Résistance verbindet, und nehmen Sie warme Kleidung mit.",
+            "hu": "Fedezze fel ezt a történelmi jelentőségű fennsíkot, ahol a lenyűgöző alpesi táj összefonódik az Ellenállás hőstetteivel, és készüljön fel a hirtelen lehűlő hegyi időjárásra.",
+            "ro": "Explorați acest platou istoric unde peisajul alpin uimitor se împletește cu eroismul Rezistenței franceze, amintindu-vă să aduceți haine groase din cauza vremii schimbătoare.",
+            "en": "Explore this historic plateau where stunning alpine scenery intertwines with the heroism of the Resistance, making sure to bring warm layers as mountain weather changes rapidly."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de la Ferriaz",
+            "hu": "Lac de la Ferriaz",
+            "ro": "Lac de la Ferriaz",
+            "en": "Lac de la Ferriaz"
+          },
+          "coords": [
+            6.408879,
+            45.899905
+          ],
+          "category": "natural",
+          "arrive_at": "14:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die unberührte Natur rund um diesen abgelegenen Bergsee, der herrliche Fotomotive bietet, und achten Sie darauf, auf den markierten Wanderwegen zu bleiben.",
+            "hu": "Élvezze az érintetlen természet nyugalmát e távoli hegyi tó körül, amely csodálatos fotótémákat kínál, de kérjük, hogy a környezet védelme érdekében maradjon a kijelölt utakon.",
+            "ro": "Bucurați-vă de natura neatinsă din jurul acestui lac montan izolat, ideal pentru fotografii spectaculoase, și asigurați-vă că rămâneți doar pe traseele marcate pentru siguranță.",
+            "en": "Enjoy the untouched nature surrounding this remote mountain lake that offers glorious photo opportunities, while making sure to stay strictly on the marked hiking trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Retenue de l'Étale",
+            "hu": "Retenue de l'Étale",
+            "ro": "Retenue de l'Étale",
+            "en": "Retenue de l'Étale"
+          },
+          "coords": [
+            6.427185,
+            45.87347
+          ],
+          "category": "natural",
+          "arrive_at": "16:12",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem wunderschönen Stausee, der eine fantastische Aussicht auf die Berge bietet, aber vergessen Sie nicht, Ihr Fernglas für die Tierbeobachtung einzupacken.",
+            "hu": "Zárja a napot ennél a gyönyörű víztározónál, amely lenyűgöző hegyi panorámát nyújt, és ne felejtse el magával vinni a távcsövét a környékbeli vadvilág megfigyeléséhez.",
+            "ro": "Încheiați-vă ziua la acest lac de acumulare superb care oferă priveliști fantastice asupra munților, dar nu uitați să împachetați un binoclu pentru a observa fauna sălbatică.",
+            "en": "End your day at this beautiful reservoir that provides fantastic mountain panoramas, but don't forget to pack your binoculars to spot some of the local wildlife in the area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Fahrt beginnt mit der Verkostung lokaler Spezialitäten in der Käserei, gefolgt von der historischen Morette-Gedenkstätte.\n\nNach dem Besuch des beeindruckenden Wasserfalls fahren wir weiter hinauf zum atemberaubenden Glières-Plateau.\n\nDer Nachmittag gehört der rauen Alpenlandschaft, wenn wir den abgelegenen und ruhigen Lac de la Ferriaz erreichen.\n\nDen Sonnenuntergang genießen wir am großen Stausee Retenue de l'Étale, ein perfekter Ort für Landschaftsfotos.",
+        "hu": "Az utazás helyi finomságok kóstolójával indul a sajtüzemben, majd a történelmi Morette-emlékművet látogatjuk meg.\n\nA lenyűgöző vízesés megtekintése után egyre magasabbra autózunk, hogy elérjük a lélegzetelállító Glières-fennsíkot.\n\nA délután a zord alpesi tájé, amikor megérkezünk az elszigetelt, nyugodt Lac de la Ferriaz hegyi tóhoz.\n\nA naplementét a hatalmas Retenue de l'Étale víztározónál csodáljuk meg, amely tökéletes helyszín a fotózáshoz.",
+        "ro": "Călătoria începe cu degustarea specialităților locale la fabrica de brânză, urmată de o vizită la memorialul Morette.\n\nDupă ce vizităm cascada impresionantă, conducem mai sus pentru a explora uluitorul platou alpin Glières.\n\nDupă-amiaza aparține peisajului alpin accidentat, ajungând la liniștitul și izolatul lac montan Ferriaz.\n\nNe bucurăm de apusul soarelui la marele rezervor Retenue de l'Étale, locul ideal pentru fotografii de peisaj.",
+        "en": "The drive starts by tasting local specialties at the cheese cooperative, followed by a visit to the historic Morette memorial.\n\nAfter viewing the impressive waterfall, we drive further up into the mountains to explore the breathtaking Glières plateau.\n\nThe afternoon belongs entirely to the rugged alpine scenery as we reach the remote and peaceful Lac de la Ferriaz.\n\nWe enjoy the sunset by the massive Retenue de l'Étale reservoir, which is the perfect location for capturing landscape photos."
+      }
+    }
+  }
+}

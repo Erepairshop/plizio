@@ -1,0 +1,520 @@
+{
+  "city_id": "luxeuil-les-bains",
+  "anchor": {
+    "name": "Luxeuil-les-Bains",
+    "coords": [
+      6.3808,
+      47.8161
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:25",
+      "total_km": 1.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Colomban Abbey",
+            "hu": "Saint-Colomban Abbey",
+            "ro": "Saint-Colomban Abbey",
+            "en": "Saint-Colomban Abbey"
+          },
+          "coords": [
+            6.381061,
+            47.816173
+          ],
+          "category": "monastic",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Klosterarchitektur der Abtei Saint-Colomban und erkunden Sie den friedlichen Kreuzgang, wo das Licht am Morgen am besten ist.",
+            "hu": "Csodálja meg a Saint-Colomban apátság lenyűgöző kolostori építészetét, és fedezze fel a békés kerengőt, amely a kora reggeli fényben a legszebb.",
+            "ro": "Admirați arhitectura monastică impresionantă a Abației Saint-Colomban înainte de a explora claustrul său pașnic, ideal de vizitat în lumina blândă a dimineții.",
+            "en": "Admire the striking monastic architecture of Saint-Colomban Abbey before heading inside to explore its peaceful cloister where early morning light is best."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de la Tour des échevins",
+            "hu": "Musée de la Tour des échevins",
+            "ro": "Musée de la Tour des échevins",
+            "en": "Musée de la Tour des échevins"
+          },
+          "coords": [
+            6.380367,
+            47.817801
+          ],
+          "category": "museum",
+          "arrive_at": "09:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Steigen Sie auf die Spitze dieses historischen Schöffenturms, um galloromanische Artefakte zu entdecken und den Panoramablick auf die Vogesen zu genießen.",
+            "hu": "Másszon fel erre a történelmi tanácsnoki toronyra, hogy felfedezze az ősi gall-római leleteket, és élvezze a Vogézekre nyíló panorámát a felső teraszról.",
+            "ro": "Urcați în turnul istoric al consilierilor pentru a descoperi artefacte galo-romane antice și pentru a vă bucura de priveliști panoramice de pe terasa superioară.",
+            "en": "Climb to the top of this historic aldermen's tower to discover ancient Gallo-Roman artifacts and enjoy panoramic views of the Vosges from the upper terrace."
+          }
+        },
+        {
+          "name": {
+            "de": "Luxeuil-les-Bains Thermal Baths",
+            "hu": "Luxeuil-les-Bains Thermal Baths",
+            "ro": "Luxeuil-les-Bains Thermal Baths",
+            "en": "Luxeuil-les-Bains Thermal Baths"
+          },
+          "coords": [
+            6.377093,
+            47.820884
+          ],
+          "category": "historical",
+          "arrive_at": "11:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie im historischen Thermalwasser, das Luxeuil seit der Römerzeit berühmt gemacht hat, aber bringen Sie ein eigenes Handtuch und Badeschuhe mit.",
+            "hu": "Pihenjen a történelmi termálvizekben, amelyek a római kor óta híressé tették Luxeuilt, de a legjobb élmény érdekében hozzon magával saját törölközőt és papucsot.",
+            "ro": "Relaxați-vă în apele termale istorice care au făcut orașul celebru încă din epoca romană, dar nu uitați să vă aduceți propriul prosop și șlapi pentru confort.",
+            "en": "Relax in the historic thermal waters that have made Luxeuil famous since Roman times, but remember to bring your own towel and flip-flops for the best experience."
+          }
+        },
+        {
+          "name": {
+            "de": "EHPAD Château Grammont",
+            "hu": "EHPAD Château Grammont",
+            "ro": "EHPAD Château Grammont",
+            "en": "EHPAD Château Grammont"
+          },
+          "coords": [
+            6.379621,
+            47.822034
+          ],
+          "category": "castle",
+          "arrive_at": "13:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betrachten Sie die elegante Fassade des Château Grammont vom umliegenden Gelände aus, da es als Pflegeheim dient und die Innenräume daher nicht zugänglich sind.",
+            "hu": "Figyelje meg a Château Grammont elegáns homlokzatát a környező parkból, szem előtt tartva, hogy az idősek otthonaként működik, így a belső terek nem látogathatók.",
+            "ro": "Observați fațada elegantă a Château Grammont de pe terenul înconjurător, ținând cont de faptul că funcționează ca un cămin, deci interioarele nu pot fi vizitate.",
+            "en": "Observe the elegant facade of the Château Grammont from the surrounding grounds, keeping in mind that it operates as a care home so interiors are restricted."
+          }
+        },
+        {
+          "name": {
+            "de": "Atelier de potiers du Chatigny",
+            "hu": "Atelier de potiers du Chatigny",
+            "ro": "Atelier de potiers du Chatigny",
+            "en": "Atelier de potiers du Chatigny"
+          },
+          "coords": [
+            6.382277,
+            47.821308
+          ],
+          "category": "landmark",
+          "arrive_at": "14:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese traditionelle Töpferwerkstatt, um lokalen Handwerkern bei der Arbeit zuzusehen, und kaufen Sie ein einzigartiges handgemachtes Souvenir.",
+            "hu": "Lépjen be ebbe a hagyományos fazekasműhelybe, nézze meg a helyi kézművesek munkáját, és vásároljon egy egyedi, kézzel készített kerámiát szuvenírként.",
+            "ro": "Intrați în acest atelier tradițional de olărit pentru a urmări artizanii locali la lucru și luați în considerare achiziționarea unei piese unice ca suvenir.",
+            "en": "Step into this traditional pottery workshop to watch local artisans craft beautiful ceramics, and consider purchasing a unique handmade piece as a souvenir."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung des alten klösterlichen Herzens von Luxeuil-les-Bains in der Abtei Saint-Colomban. Danach tauchen Sie in die lokale Geschichte ein. Entspannen Sie mittags in den berühmten römischen Thermalbädern, um neue Energie zu tanken. Verbringen Sie den Nachmittag am Château Grammont und entdecken Sie das Töpferhandwerk.",
+        "hu": "Kezdje a reggelt Luxeuil-les-Bains ősi kolostori központjának felfedezésével a Saint-Colomban apátságban. Ezután merüljön el a helyi történelemben a múzeumban. Délben lazítson a híres római termálfürdőkben, hogy felfrissüljön. Délután csodálja meg a Château Grammont külsejét, és fedezze fel a helyi kézművességet a fazekasműhelyben.",
+        "ro": "Începeți dimineața explorând inima monastică a orașului Luxeuil-les-Bains la Abația Saint-Colomban. Apoi, scufundați-vă în istoria locală la Muzeul Tour des échevins. La amiază, relaxați-vă în faimoasele băi termale romane. Petreceți după-amiaza admirând exteriorul Château Grammont și finalizați prin a descoperi meșteșugurile la atelierul de olărit.",
+        "en": "Start your morning exploring the ancient monastic heart of Luxeuil-les-Bains at the Saint-Colomban Abbey. Afterward, dive into local history at the Tour des échevins. Midday, relax in the famous Roman thermal baths to rejuvenate. Spend your afternoon admiring the exterior of Château Grammont and finish by discovering local craftsmanship at the pottery workshop."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 4.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Colomban Abbey",
+            "hu": "Saint-Colomban Abbey",
+            "ro": "Saint-Colomban Abbey",
+            "en": "Saint-Colomban Abbey"
+          },
+          "coords": [
+            6.381061,
+            47.816173
+          ],
+          "category": "monastic",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Klosterarchitektur der Abtei Saint-Colomban und erkunden Sie den friedlichen Kreuzgang, wo das Licht am Morgen am besten ist.",
+            "hu": "Csodálja meg a Saint-Colomban apátság lenyűgöző kolostori építészetét, és fedezze fel a békés kerengőt, amely a kora reggeli fényben a legszebb.",
+            "ro": "Admirați arhitectura monastică impresionantă a Abației Saint-Colomban înainte de a explora claustrul său pașnic, ideal de vizitat în lumina blândă a dimineții.",
+            "en": "Admire the striking monastic architecture of Saint-Colomban Abbey before heading inside to explore its peaceful cloister where early morning light is best."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de la Tour des échevins",
+            "hu": "Musée de la Tour des échevins",
+            "ro": "Musée de la Tour des échevins",
+            "en": "Musée de la Tour des échevins"
+          },
+          "coords": [
+            6.380367,
+            47.817801
+          ],
+          "category": "museum",
+          "arrive_at": "09:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Steigen Sie auf die Spitze dieses historischen Schöffenturms, um galloromanische Artefakte zu entdecken und den Panoramablick auf die Vogesen zu genießen.",
+            "hu": "Másszon fel erre a történelmi tanácsnoki toronyra, hogy felfedezze az ősi gall-római leleteket, és élvezze a Vogézekre nyíló panorámát a felső teraszról.",
+            "ro": "Urcați în turnul istoric al consilierilor pentru a descoperi artefacte galo-romane antice și pentru a vă bucura de priveliști panoramice de pe terasa superioară.",
+            "en": "Climb to the top of this historic aldermen's tower to discover ancient Gallo-Roman artifacts and enjoy panoramic views of the Vosges from the upper terrace."
+          }
+        },
+        {
+          "name": {
+            "de": "Luxeuil-les-Bains Thermal Baths",
+            "hu": "Luxeuil-les-Bains Thermal Baths",
+            "ro": "Luxeuil-les-Bains Thermal Baths",
+            "en": "Luxeuil-les-Bains Thermal Baths"
+          },
+          "coords": [
+            6.377093,
+            47.820884
+          ],
+          "category": "historical",
+          "arrive_at": "11:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie im historischen Thermalwasser, das Luxeuil seit der Römerzeit berühmt gemacht hat, aber bringen Sie ein eigenes Handtuch und Badeschuhe mit.",
+            "hu": "Pihenjen a történelmi termálvizekben, amelyek a római kor óta híressé tették Luxeuilt, de a legjobb élmény érdekében hozzon magával saját törölközőt és papucsot.",
+            "ro": "Relaxați-vă în apele termale istorice care au făcut orașul celebru încă din epoca romană, dar nu uitați să vă aduceți propriul prosop și șlapi pentru confort.",
+            "en": "Relax in the historic thermal waters that have made Luxeuil famous since Roman times, but remember to bring your own towel and flip-flops for the best experience."
+          }
+        },
+        {
+          "name": {
+            "de": "EHPAD Château Grammont",
+            "hu": "EHPAD Château Grammont",
+            "ro": "EHPAD Château Grammont",
+            "en": "EHPAD Château Grammont"
+          },
+          "coords": [
+            6.379621,
+            47.822034
+          ],
+          "category": "castle",
+          "arrive_at": "12:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betrachten Sie die elegante Fassade des Château Grammont vom umliegenden Gelände aus, da es als Pflegeheim dient und die Innenräume daher nicht zugänglich sind.",
+            "hu": "Figyelje meg a Château Grammont elegáns homlokzatát a környező parkból, szem előtt tartva, hogy az idősek otthonaként működik, így a belső terek nem látogathatók.",
+            "ro": "Observați fațada elegantă a Château Grammont de pe terenul înconjurător, ținând cont de faptul că funcționează ca un cămin, deci interioarele nu pot fi vizitate.",
+            "en": "Observe the elegant facade of the Château Grammont from the surrounding grounds, keeping in mind that it operates as a care home so interiors are restricted."
+          }
+        },
+        {
+          "name": {
+            "de": "Atelier de potiers du Chatigny",
+            "hu": "Atelier de potiers du Chatigny",
+            "ro": "Atelier de potiers du Chatigny",
+            "en": "Atelier de potiers du Chatigny"
+          },
+          "coords": [
+            6.382277,
+            47.821308
+          ],
+          "category": "landmark",
+          "arrive_at": "14:15",
+          "stay_min": 30,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese traditionelle Töpferwerkstatt, um lokalen Handwerkern bei der Arbeit zuzusehen, und kaufen Sie ein einzigartiges handgemachtes Souvenir.",
+            "hu": "Lépjen be ebbe a hagyományos fazekasműhelybe, nézze meg a helyi kézművesek munkáját, és vásároljon egy egyedi, kézzel készített kerámiát szuvenírként.",
+            "ro": "Intrați în acest atelier tradițional de olărit pentru a urmări artizanii locali la lucru și luați în considerare achiziționarea unei piese unice ca suvenir.",
+            "en": "Step into this traditional pottery workshop to watch local artisans craft beautiful ceramics, and consider purchasing a unique handmade piece as a souvenir."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle du Messier",
+            "hu": "Chapelle du Messier",
+            "ro": "Chapelle du Messier",
+            "en": "Chapelle du Messier"
+          },
+          "coords": [
+            6.361589,
+            47.818927
+          ],
+          "category": "religious",
+          "arrive_at": "14:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie zu dieser malerischen, etwas abseits gelegenen Kapelle und tragen Sie festes Schuhwerk, um die unebenen Wege in der Umgebung bequem zu bewältigen.",
+            "hu": "Sétáljon el ehhez a központtól kicsit távolabb eső, festői kápolnához, és viseljen kényelmes cipőt, hogy biztonságosan haladhasson a környező egyenetlen utakon.",
+            "ro": "Faceți o plimbare până la această capelă pitorească situată puțin mai departe de centru, purtând încălțăminte confortabilă pentru a naviga pe potecile inegale.",
+            "en": "Walk out to this small, picturesque religious chapel set slightly away from the center, wearing sturdy shoes to comfortably navigate the surrounding uneven paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sainte-Trinité",
+            "hu": "Église Sainte-Trinité",
+            "ro": "Église Sainte-Trinité",
+            "en": "Église Sainte-Trinité"
+          },
+          "coords": [
+            6.384632,
+            47.806831
+          ],
+          "category": "religious",
+          "arrive_at": "15:45",
+          "stay_min": 70,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die aufwendigen Steinmetzarbeiten dieser Kirche im Süden und versuchen Sie, sie zu besuchen, wenn die Nachmittagssonne die Buntglasfenster erhellt.",
+            "hu": "Csodálja meg a déli templomot díszítő bonyolult kőfaragásokat, és próbáljon meg akkor érkezni, amikor a késő délutáni napfény megvilágítja az ólomüveg ablakokat.",
+            "ro": "Admirați sculpturile în piatră complicate care decorează această biserică grandioasă și vizitați-o când soarele de după-amiază târziu îi luminează vitraliile.",
+            "en": "Marvel at the intricate stone carvings decorating this grand southern church, and try to visit when the late afternoon sun illuminates the stained glass windows."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie durch das historische Zentrum, beginnend an der Abtei, bevor Sie das lokale Museum besuchen. Machen Sie mittags eine Pause in den Thermalbädern, gefolgt von einem Stopp am Château Grammont. Am Nachmittag radeln Sie an der Töpferwerkstatt vorbei zur ruhigen Chapelle du Messier und beenden die Tour an der grandiosen Église Sainte-Trinité.",
+        "hu": "Kerékpározzon át a történelmi központon, az apátságtól indulva, majd látogasson el a helyi múzeumba. Délben tartson pihenőt a híres termálfürdőben, amelyet a Château Grammont követ. Délután tekerjen el a fazekasműhely mellett a csendes Chapelle du Messier-hez, végül pedig fejezze be a napot az impozáns Église Sainte-Trinité templomnál.",
+        "ro": "Pedalați prin centrul istoric, începând de la abație înainte de a vizita muzeul local. Faceți o pauză la amiază la renumitele băi termale, urmată de o oprire la elegantul Château Grammont. După-amiaza, mergeți pe lângă atelierul de olărit până la liniștita Chapelle du Messier, terminând la grandioasa Église Sainte-Trinité.",
+        "en": "Pedal through the historic center, beginning at the majestic Abbey before visiting the local museum for panoramic views. Take a midday pause at the renowned thermal baths, followed by a quick stop at the elegant Château Grammont. In the afternoon, cycle past the pottery workshop out to the serene Chapelle du Messier, finishing at the grand Église Sainte-Trinité."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 7.3,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Colomban Abbey",
+            "hu": "Saint-Colomban Abbey",
+            "ro": "Saint-Colomban Abbey",
+            "en": "Saint-Colomban Abbey"
+          },
+          "coords": [
+            6.381061,
+            47.816173
+          ],
+          "category": "monastic",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Klosterarchitektur der Abtei Saint-Colomban und erkunden Sie den friedlichen Kreuzgang, wo das Licht am Morgen am besten ist.",
+            "hu": "Csodálja meg a Saint-Colomban apátság lenyűgöző kolostori építészetét, és fedezze fel a békés kerengőt, amely a kora reggeli fényben a legszebb.",
+            "ro": "Admirați arhitectura monastică impresionantă a Abației Saint-Colomban înainte de a explora claustrul său pașnic, ideal de vizitat în lumina blândă a dimineții.",
+            "en": "Admire the striking monastic architecture of Saint-Colomban Abbey before heading inside to explore its peaceful cloister where early morning light is best."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de la Tour des échevins",
+            "hu": "Musée de la Tour des échevins",
+            "ro": "Musée de la Tour des échevins",
+            "en": "Musée de la Tour des échevins"
+          },
+          "coords": [
+            6.380367,
+            47.817801
+          ],
+          "category": "museum",
+          "arrive_at": "09:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Steigen Sie auf die Spitze dieses historischen Schöffenturms, um galloromanische Artefakte zu entdecken und den Panoramablick auf die Vogesen zu genießen.",
+            "hu": "Másszon fel erre a történelmi tanácsnoki toronyra, hogy felfedezze az ősi gall-római leleteket, és élvezze a Vogézekre nyíló panorámát a felső teraszról.",
+            "ro": "Urcați în turnul istoric al consilierilor pentru a descoperi artefacte galo-romane antice și pentru a vă bucura de priveliști panoramice de pe terasa superioară.",
+            "en": "Climb to the top of this historic aldermen's tower to discover ancient Gallo-Roman artifacts and enjoy panoramic views of the Vosges from the upper terrace."
+          }
+        },
+        {
+          "name": {
+            "de": "Luxeuil-les-Bains Thermal Baths",
+            "hu": "Luxeuil-les-Bains Thermal Baths",
+            "ro": "Luxeuil-les-Bains Thermal Baths",
+            "en": "Luxeuil-les-Bains Thermal Baths"
+          },
+          "coords": [
+            6.377093,
+            47.820884
+          ],
+          "category": "historical",
+          "arrive_at": "11:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie im historischen Thermalwasser, das Luxeuil seit der Römerzeit berühmt gemacht hat, aber bringen Sie ein eigenes Handtuch und Badeschuhe mit.",
+            "hu": "Pihenjen a történelmi termálvizekben, amelyek a római kor óta híressé tették Luxeuilt, de a legjobb élmény érdekében hozzon magával saját törölközőt és papucsot.",
+            "ro": "Relaxați-vă în apele termale istorice care au făcut orașul celebru încă din epoca romană, dar nu uitați să vă aduceți propriul prosop și șlapi pentru confort.",
+            "en": "Relax in the historic thermal waters that have made Luxeuil famous since Roman times, but remember to bring your own towel and flip-flops for the best experience."
+          }
+        },
+        {
+          "name": {
+            "de": "EHPAD Château Grammont",
+            "hu": "EHPAD Château Grammont",
+            "ro": "EHPAD Château Grammont",
+            "en": "EHPAD Château Grammont"
+          },
+          "coords": [
+            6.379621,
+            47.822034
+          ],
+          "category": "castle",
+          "arrive_at": "13:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betrachten Sie die elegante Fassade des Château Grammont vom umliegenden Gelände aus, da es als Pflegeheim dient und die Innenräume daher nicht zugänglich sind.",
+            "hu": "Figyelje meg a Château Grammont elegáns homlokzatát a környező parkból, szem előtt tartva, hogy az idősek otthonaként működik, így a belső terek nem látogathatók.",
+            "ro": "Observați fațada elegantă a Château Grammont de pe terenul înconjurător, ținând cont de faptul că funcționează ca un cămin, deci interioarele nu pot fi vizitate.",
+            "en": "Observe the elegant facade of the Château Grammont from the surrounding grounds, keeping in mind that it operates as a care home so interiors are restricted."
+          }
+        },
+        {
+          "name": {
+            "de": "Atelier de potiers du Chatigny",
+            "hu": "Atelier de potiers du Chatigny",
+            "ro": "Atelier de potiers du Chatigny",
+            "en": "Atelier de potiers du Chatigny"
+          },
+          "coords": [
+            6.382277,
+            47.821308
+          ],
+          "category": "landmark",
+          "arrive_at": "14:25",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese traditionelle Töpferwerkstatt, um lokalen Handwerkern bei der Arbeit zuzusehen, und kaufen Sie ein einzigartiges handgemachtes Souvenir.",
+            "hu": "Lépjen be ebbe a hagyományos fazekasműhelybe, nézze meg a helyi kézművesek munkáját, és vásároljon egy egyedi, kézzel készített kerámiát szuvenírként.",
+            "ro": "Intrați în acest atelier tradițional de olărit pentru a urmări artizanii locali la lucru și luați în considerare achiziționarea unei piese unice ca suvenir.",
+            "en": "Step into this traditional pottery workshop to watch local artisans craft beautiful ceramics, and consider purchasing a unique handmade piece as a souvenir."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle du Messier",
+            "hu": "Chapelle du Messier",
+            "ro": "Chapelle du Messier",
+            "en": "Chapelle du Messier"
+          },
+          "coords": [
+            6.361589,
+            47.818927
+          ],
+          "category": "religious",
+          "arrive_at": "14:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie zu dieser malerischen, etwas abseits gelegenen Kapelle und tragen Sie festes Schuhwerk, um die unebenen Wege in der Umgebung bequem zu bewältigen.",
+            "hu": "Sétáljon el ehhez a központtól kicsit távolabb eső, festői kápolnához, és viseljen kényelmes cipőt, hogy biztonságosan haladhasson a környező egyenetlen utakon.",
+            "ro": "Faceți o plimbare până la această capelă pitorească situată puțin mai departe de centru, purtând încălțăminte confortabilă pentru a naviga pe potecile inegale.",
+            "en": "Walk out to this small, picturesque religious chapel set slightly away from the center, wearing sturdy shoes to comfortably navigate the surrounding uneven paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sainte-Trinité",
+            "hu": "Église Sainte-Trinité",
+            "ro": "Église Sainte-Trinité",
+            "en": "Église Sainte-Trinité"
+          },
+          "coords": [
+            6.384632,
+            47.806831
+          ],
+          "category": "religious",
+          "arrive_at": "15:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die aufwendigen Steinmetzarbeiten dieser Kirche im Süden und versuchen Sie, sie zu besuchen, wenn die Nachmittagssonne die Buntglasfenster erhellt.",
+            "hu": "Csodálja meg a déli templomot díszítő bonyolult kőfaragásokat, és próbáljon meg akkor érkezni, amikor a késő délutáni napfény megvilágítja az ólomüveg ablakokat.",
+            "ro": "Admirați sculpturile în piatră complicate care decorează această biserică grandioasă și vizitați-o când soarele de după-amiază târziu îi luminează vitraliile.",
+            "en": "Marvel at the intricate stone carvings decorating this grand southern church, and try to visit when the late afternoon sun illuminates the stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Église de la Sainte-Trinité",
+            "hu": "Église de la Sainte-Trinité",
+            "ro": "Église de la Sainte-Trinité",
+            "en": "Église de la Sainte-Trinité"
+          },
+          "coords": [
+            6.416503,
+            47.819362
+          ],
+          "category": "religious",
+          "arrive_at": "16:30",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Fahren Sie ein kurzes Stück nach Osten, um diese zweite historische Kirche der Heiligen Dreifaltigkeit zu besuchen und den ruhigen Friedhof daneben zu erkunden.",
+            "hu": "Tegyen egy rövid utat kelet felé, hogy meglátogassa ezt a Szentháromság nevét viselő második történelmi templomot, és fedezze fel a közvetlenül mellette lévő temetőt.",
+            "ro": "Faceți o scurtă plimbare spre est pentru a vizita această a doua biserică istorică a Sfintei Treimi, făcându-vă timp să explorați și cimitirul liniștit din apropiere.",
+            "en": "Take a short drive eastward to visit this second historic church bearing the Holy Trinity name, taking time to explore the quiet cemetery right next to the building."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie bequem zwischen Luxeuils Sehenswürdigkeiten, beginnend mit der zentralen Abtei und dem faszinierenden Tour des échevins. Verbringen Sie den Mittag in den Thermalbädern und springen Sie dann zum Château Grammont. Ihr Auto macht es einfach, am späten Nachmittag die äußeren religiösen Stätten zu besuchen und mit den Dreifaltigkeitskirchen abzuschließen.",
+        "hu": "Vezessen könnyedén Luxeuil látnivalói között, kezdve a központi apátsággal és a Tour des échevins múzeummal. Délben pihenjen a termálfürdőben, majd ugorjon át a Château Grammont-hoz. Az autója megkönnyíti a külső vallási helyszínek meglátogatását a késő délutáni órákban, és a napot a két Szentháromság-templommal zárhatja.",
+        "ro": "Conduceți fără efort între atracțiile din Luxeuil, începând cu Abația centrală și fascinantul Tour des échevins. Petreceți amiaza relaxându-vă la băile termale, apoi vizitați Château Grammont. Mașina vă permite să vizitați cu ușurință siturile religioase periferice spre seară, încheind turul cu ambele biserici ale Sfintei Treimi.",
+        "en": "Drive effortlessly between Luxeuil's top sights, starting with the central Abbey and the fascinating Tour des échevins. Spend midday relaxing in the thermal baths, then easily hop to the Château Grammont and local pottery workshop. Your car makes it simple to visit the outer religious sites in the late afternoon, concluding with both Holy Trinity churches."
+      }
+    }
+  }
+}

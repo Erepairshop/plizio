@@ -1,0 +1,497 @@
+{
+  "city_id": "vallet",
+  "anchor": {
+    "name": "Vallet",
+    "coords": [
+      -1.2669,
+      47.1617
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 2.97,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Notre-Dame de Vallet",
+            "hu": "Notre-Dame de Vallet templom",
+            "ro": "Biserica Notre-Dame de Vallet",
+            "en": "Notre-Dame de Vallet Church"
+          },
+          "coords": [
+            -1.26466,
+            47.1617
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neugotische Architektur und die bunten Glasfenster, wobei ein früher Besuch das schönste Morgenlicht bietet.",
+            "hu": "Csodálja meg a lenyűgöző neogótikus építészetet és az ólomüveg ablakokat, és érdemes korán érkezni a gyönyörű reggeli fényekért.",
+            "ro": "Admirați superba arhitectură neogotică și vitraliile, încercând să ajungeți devreme pentru a vă bucura de lumina dimineții.",
+            "en": "Admire the beautiful neo-Gothic architecture and stained glass windows, and try to visit early to catch the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison du Muscadet",
+            "hu": "Maison du Muscadet",
+            "ro": "Maison du Muscadet",
+            "en": "Maison du Muscadet"
+          },
+          "coords": [
+            -1.268303,
+            47.16415
+          ],
+          "category": "museum",
+          "arrive_at": "09:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte des berühmten Weißweins durch interaktive Ausstellungen und verpassen Sie nicht die anschließende Verkostung.",
+            "hu": "Fedezze fel a régió híres fehérborának történetét az interaktív kiállításokon, és semmiképp ne hagyja ki a végén a kóstolót.",
+            "ro": "Descoperiți istoria faimosului vin alb prin expoziții interactive și nu ratați sesiunea de degustare de la final.",
+            "en": "Discover the history of the region's famous white wine through interactive exhibits, and don't miss the tasting session at the end."
+          }
+        },
+        {
+          "name": {
+            "de": "Champilambart",
+            "hu": "Champilambart",
+            "ro": "Champilambart",
+            "en": "Champilambart"
+          },
+          "coords": [
+            -1.265537,
+            47.166663
+          ],
+          "category": "cultural",
+          "arrive_at": "11:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.34,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen lebendigen Kulturraum mit lokaler Kunst und prüfen Sie vorher das Programm auf nachmittägliche Live-Aufführungen.",
+            "hu": "Fedezze fel ezt a pezsgő kulturális teret, amely helyi művészetet mutat be, és előre ellenőrizze a délutáni élő előadások műsorát.",
+            "ro": "Explorați acest spațiu cultural vibrant ce găzduiește artă locală și verificați programul în avans pentru spectacole live de după-amiază.",
+            "en": "Explore this vibrant cultural space that hosts exciting local art, and check the schedule beforehand for any live afternoon performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Noë de Bel-Air",
+            "hu": "Château de la Noë de Bel-Air",
+            "ro": "Château de la Noë de Bel-Air",
+            "en": "Château de la Noë de Bel-Air"
+          },
+          "coords": [
+            -1.288544,
+            47.178144
+          ],
+          "category": "historical",
+          "arrive_at": "13:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 2.15,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise bei der Besichtigung dieses historischen Anwesens und bewundern Sie die elegante Fassade aus dem 19. Jahrhundert.",
+            "hu": "Lépjen vissza az időben e lenyűgöző történelmi birtok bejárásakor, és szánjon időt az elegáns 19. századi homlokzat megcsodálására.",
+            "ro": "Întoarceți-vă în timp vizitând acest moșierie istorică maiestuoasă, admirând în liniște fațada elegantă din secolul al XIX-lea.",
+            "en": "Step back in time as you tour this majestic historical estate, taking a moment to appreciate the elegant 19th-century facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Schlossstallungen",
+            "hu": "A kastély istállói",
+            "ro": "Grajdurile Castelului",
+            "en": "The Castle Stables"
+          },
+          "coords": [
+            -1.287192,
+            47.178372
+          ],
+          "category": "castle",
+          "arrive_at": "14:50",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die gut erhaltenen Schlossstallungen, um das reiterliche Erbe zu verstehen, und bringen Sie ein Weitwinkelobjektiv mit.",
+            "hu": "Sétáljon végig a szépen megőrzött kastélyistállókon, hogy megismerje a lovas örökséget, és érdemes nagylátószögű objektívet hozni.",
+            "ro": "Plimbați-vă prin grajdurile castelului perfect conservate pentru a înțelege moștenirea ecvestră, aducând un obiectiv superangular pentru poze.",
+            "en": "Walk through the beautifully preserved castle stables to understand the equestrian heritage, bringing a wide-angle lens for the architecture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im Herzen von Vallet, wo prächtige Architektur eine friedliche Atmosphäre schafft.\n\nGegen Mittag tauchen Sie in das reiche regionale Weinerbe ein und erkunden faszinierende Ausstellungen.\n\nDer Nachmittag lädt Sie ein, die lebendige künstlerische und kulturelle Seele der Stadt zu entdecken.\n\nLassen Sie den Abend an majestätischen historischen Anwesen in Ruhe ausklingen.",
+        "hu": "Kezdje a reggelt Vallet szívében, ahol a lenyűgöző építészet és a hangulatos utcák békés alaphangot adnak.\n\nDélben merüljön el a gazdag helyi borászati örökségben a lenyűgöző interaktív kiállítások révén.\n\nA délután arra invitálja, hogy felfedezze a város pezsgő művészeti és kulturális lelkét.\n\nZárja az estét fenséges történelmi birtokok látogatásával, amelyek hűen megőrizték a régmúltat.",
+        "ro": "Începeți dimineața în inima orașului Vallet, unde arhitectura impresionantă și străzile fermecătoare creează pace.\n\nLa prânz, cufundați-vă în bogata moștenire viticolă locală explorând expoziții istorice fascinante.\n\nDupă-amiaza vă invită să descoperiți sufletul artistic și cultural vibrant al acestui oraș minunat.\n\nÎncheiați seara vizitând moșii istorice maiestuoase care reflectă perfect trecutul.",
+        "en": "Start your morning in the heart of Vallet, where grand architecture and charming streets set a peaceful tone.\n\nAs midday approaches, immerse yourself in the rich local wine heritage by exploring fascinating exhibits.\n\nThe afternoon invites you to discover the vibrant artistic and cultural soul of the city.\n\nConclude your evening by visiting majestic historical estates that beautifully echo the past."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:57",
+      "total_km": 7.52,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Notre-Dame de Vallet",
+            "hu": "Notre-Dame de Vallet templom",
+            "ro": "Biserica Notre-Dame de Vallet",
+            "en": "Notre-Dame de Vallet Church"
+          },
+          "coords": [
+            -1.26466,
+            47.1617
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neugotische Architektur und die bunten Glasfenster, wobei ein früher Besuch das schönste Morgenlicht bietet.",
+            "hu": "Csodálja meg a lenyűgöző neogótikus építészetet és az ólomüveg ablakokat, és érdemes korán érkezni a gyönyörű reggeli fényekért.",
+            "ro": "Admirați superba arhitectură neogotică și vitraliile, încercând să ajungeți devreme pentru a vă bucura de lumina dimineții.",
+            "en": "Admire the beautiful neo-Gothic architecture and stained glass windows, and try to visit early to catch the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison du Muscadet",
+            "hu": "Maison du Muscadet",
+            "ro": "Maison du Muscadet",
+            "en": "Maison du Muscadet"
+          },
+          "coords": [
+            -1.268303,
+            47.16415
+          ],
+          "category": "museum",
+          "arrive_at": "09:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte des berühmten Weißweins durch interaktive Ausstellungen und verpassen Sie nicht die anschließende Verkostung.",
+            "hu": "Fedezze fel a régió híres fehérborának történetét az interaktív kiállításokon, és semmiképp ne hagyja ki a végén a kóstolót.",
+            "ro": "Descoperiți istoria faimosului vin alb prin expoziții interactive și nu ratați sesiunea de degustare de la final.",
+            "en": "Discover the history of the region's famous white wine through interactive exhibits, and don't miss the tasting session at the end."
+          }
+        },
+        {
+          "name": {
+            "de": "Champilambart",
+            "hu": "Champilambart",
+            "ro": "Champilambart",
+            "en": "Champilambart"
+          },
+          "coords": [
+            -1.265537,
+            47.166663
+          ],
+          "category": "cultural",
+          "arrive_at": "11:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.34,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen lebendigen Kulturraum mit lokaler Kunst und prüfen Sie vorher das Programm auf nachmittägliche Live-Aufführungen.",
+            "hu": "Fedezze fel ezt a pezsgő kulturális teret, amely helyi művészetet mutat be, és előre ellenőrizze a délutáni élő előadások műsorát.",
+            "ro": "Explorați acest spațiu cultural vibrant ce găzduiește artă locală și verificați programul în avans pentru spectacole live de după-amiază.",
+            "en": "Explore this vibrant cultural space that hosts exciting local art, and check the schedule beforehand for any live afternoon performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Château du Cléray",
+            "hu": "Château du Cléray",
+            "ro": "Château du Cléray",
+            "en": "Château du Cléray"
+          },
+          "coords": [
+            -1.242369,
+            47.153037
+          ],
+          "category": "castle",
+          "arrive_at": "13:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang durch die weitläufigen Weinberge dieses herrlichen Weinguts und tragen Sie dabei bequeme Schuhe.",
+            "hu": "Élvezze a sétát a lenyűgöző borbirtok kiterjedt szőlőültetvényein, de mindenképpen kényelmes cipőt viseljen a sorok közötti túrához.",
+            "ro": "Bucurați-vă de o plimbare prin podgoriile întinse ale acestui magnific domeniu viticol, purtând încălțăminte comodă pentru vița de vie.",
+            "en": "Enjoy a stroll through the sprawling vineyards of this magnificent wine estate, wearing comfortable shoes to walk among the vines."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Noë de Bel-Air",
+            "hu": "Château de la Noë de Bel-Air",
+            "ro": "Château de la Noë de Bel-Air",
+            "en": "Château de la Noë de Bel-Air"
+          },
+          "coords": [
+            -1.288544,
+            47.178144
+          ],
+          "category": "historical",
+          "arrive_at": "14:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.4,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise bei der Besichtigung dieses historischen Anwesens und bewundern Sie die elegante Fassade aus dem 19. Jahrhundert.",
+            "hu": "Lépjen vissza az időben e lenyűgöző történelmi birtok bejárásakor, és szánjon időt az elegáns 19. századi homlokzat megcsodálására.",
+            "ro": "Întoarceți-vă în timp vizitând acest moșierie istorică maiestuoasă, admirând în liniște fațada elegantă din secolul al XIX-lea.",
+            "en": "Step back in time as you tour this majestic historical estate, taking a moment to appreciate the elegant 19th-century facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Schlossstallungen",
+            "hu": "A kastély istállói",
+            "ro": "Grajdurile Castelului",
+            "en": "The Castle Stables"
+          },
+          "coords": [
+            -1.287192,
+            47.178372
+          ],
+          "category": "castle",
+          "arrive_at": "16:07",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die gut erhaltenen Schlossstallungen, um das reiterliche Erbe zu verstehen, und bringen Sie ein Weitwinkelobjektiv mit.",
+            "hu": "Sétáljon végig a szépen megőrzött kastélyistállókon, hogy megismerje a lovas örökséget, és érdemes nagylátószögű objektívet hozni.",
+            "ro": "Plimbați-vă prin grajdurile castelului perfect conservate pentru a înțelege moștenirea ecvestră, aducând un obiectiv superangular pentru poze.",
+            "en": "Walk through the beautifully preserved castle stables to understand the equestrian heritage, bringing a wide-angle lens for the architecture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im Herzen von Vallet, wo prächtige Architektur eine friedliche Atmosphäre schafft.\n\nGegen Mittag tauchen Sie in das reiche regionale Weinerbe ein und erkunden faszinierende Ausstellungen.\n\nDer Nachmittag lädt Sie ein, die lebendige künstlerische und kulturelle Seele der Stadt zu entdecken.\n\nLassen Sie den Abend an majestätischen historischen Anwesen in Ruhe ausklingen.",
+        "hu": "Kezdje a reggelt Vallet szívében, ahol a lenyűgöző építészet és a hangulatos utcák békés alaphangot adnak.\n\nDélben merüljön el a gazdag helyi borászati örökségben a lenyűgöző interaktív kiállítások révén.\n\nA délután arra invitálja, hogy felfedezze a város pezsgő művészeti és kulturális lelkét.\n\nZárja az estét fenséges történelmi birtokok látogatásával, amelyek hűen megőrizték a régmúltat.",
+        "ro": "Începeți dimineața în inima orașului Vallet, unde arhitectura impresionantă și străzile fermecătoare creează pace.\n\nLa prânz, cufundați-vă în bogata moștenire viticolă locală explorând expoziții istorice fascinante.\n\nDupă-amiaza vă invită să descoperiți sufletul artistic și cultural vibrant al acestui oraș minunat.\n\nÎncheiați seara vizitând moșii istorice maiestuoase care reflectă perfect trecutul.",
+        "en": "Start your morning in the heart of Vallet, where grand architecture and charming streets set a peaceful tone.\n\nAs midday approaches, immerse yourself in the rich local wine heritage by exploring fascinating exhibits.\n\nThe afternoon invites you to discover the vibrant artistic and cultural soul of the city.\n\nConclude your evening by visiting majestic historical estates that beautifully echo the past."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:13",
+      "total_km": 12.17,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Kapelle Bonne Fontaine",
+            "hu": "Bonne Fontaine kápolna",
+            "ro": "Capela Bonne Fontaine",
+            "en": "Bonne Fontaine Chapel"
+          },
+          "coords": [
+            -1.334577,
+            47.162962
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese friedliche, ländliche Kapelle, die sich ideal für ruhige Morgenreflexionen und wunderschöne Naturfotografie eignet.",
+            "hu": "Látogasson el erre a békés, vidéki kápolnába, amely ideális a csendes reggeli elmélkedéshez és a gyönyörű természetfotózáshoz.",
+            "ro": "Vizitați această capelă senină ascunsă în mediul rural, ideală pentru o reflecție liniștită de dimineață și fotografie de natură.",
+            "en": "Visit this serene chapel tucked away in the countryside, ideal for a quiet morning reflection and beautiful nature photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Schlossstallungen",
+            "hu": "A kastély istállói",
+            "ro": "Grajdurile Castelului",
+            "en": "The Castle Stables"
+          },
+          "coords": [
+            -1.287192,
+            47.178372
+          ],
+          "category": "castle",
+          "arrive_at": "09:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die gut erhaltenen Schlossstallungen, um das reiterliche Erbe zu verstehen, und bringen Sie ein Weitwinkelobjektiv mit.",
+            "hu": "Sétáljon végig a szépen megőrzött kastélyistállókon, hogy megismerje a lovas örökséget, és érdemes nagylátószögű objektívet hozni.",
+            "ro": "Plimbați-vă prin grajdurile castelului perfect conservate pentru a înțelege moștenirea ecvestră, aducând un obiectiv superangular pentru poze.",
+            "en": "Walk through the beautifully preserved castle stables to understand the equestrian heritage, bringing a wide-angle lens for the architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Noë de Bel-Air",
+            "hu": "Château de la Noë de Bel-Air",
+            "ro": "Château de la Noë de Bel-Air",
+            "en": "Château de la Noë de Bel-Air"
+          },
+          "coords": [
+            -1.288544,
+            47.178144
+          ],
+          "category": "historical",
+          "arrive_at": "11:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise bei der Besichtigung dieses historischen Anwesens und bewundern Sie die elegante Fassade aus dem 19. Jahrhundert.",
+            "hu": "Lépjen vissza az időben e lenyűgöző történelmi birtok bejárásakor, és szánjon időt az elegáns 19. századi homlokzat megcsodálására.",
+            "ro": "Întoarceți-vă în timp vizitând acest moșierie istorică maiestuoasă, admirând în liniște fațada elegantă din secolul al XIX-lea.",
+            "en": "Step back in time as you tour this majestic historical estate, taking a moment to appreciate the elegant 19th-century facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison du Muscadet",
+            "hu": "Maison du Muscadet",
+            "ro": "Maison du Muscadet",
+            "en": "Maison du Muscadet"
+          },
+          "coords": [
+            -1.268303,
+            47.16415
+          ],
+          "category": "museum",
+          "arrive_at": "12:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte des berühmten Weißweins durch interaktive Ausstellungen und verpassen Sie nicht die anschließende Verkostung.",
+            "hu": "Fedezze fel a régió híres fehérborának történetét az interaktív kiállításokon, és semmiképp ne hagyja ki a végén a kóstolót.",
+            "ro": "Descoperiți istoria faimosului vin alb prin expoziții interactive și nu ratați sesiunea de degustare de la final.",
+            "en": "Discover the history of the region's famous white wine through interactive exhibits, and don't miss the tasting session at the end."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame de Vallet",
+            "hu": "Notre-Dame de Vallet templom",
+            "ro": "Biserica Notre-Dame de Vallet",
+            "en": "Notre-Dame de Vallet Church"
+          },
+          "coords": [
+            -1.26466,
+            47.1617
+          ],
+          "category": "religious",
+          "arrive_at": "14:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neugotische Architektur und die bunten Glasfenster, wobei ein früher Besuch das schönste Morgenlicht bietet.",
+            "hu": "Csodálja meg a lenyűgöző neogótikus építészetet és az ólomüveg ablakokat, és érdemes korán érkezni a gyönyörű reggeli fényekért.",
+            "ro": "Admirați superba arhitectură neogotică și vitraliile, încercând să ajungeți devreme pentru a vă bucura de lumina dimineții.",
+            "en": "Admire the beautiful neo-Gothic architecture and stained glass windows, and try to visit early to catch the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Champilambart",
+            "hu": "Champilambart",
+            "ro": "Champilambart",
+            "en": "Champilambart"
+          },
+          "coords": [
+            -1.265537,
+            47.166663
+          ],
+          "category": "cultural",
+          "arrive_at": "15:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.34,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen lebendigen Kulturraum mit lokaler Kunst und prüfen Sie vorher das Programm auf nachmittägliche Live-Aufführungen.",
+            "hu": "Fedezze fel ezt a pezsgő kulturális teret, amely helyi művészetet mutat be, és előre ellenőrizze a délutáni élő előadások műsorát.",
+            "ro": "Explorați acest spațiu cultural vibrant ce găzduiește artă locală și verificați programul în avans pentru spectacole live de după-amiază.",
+            "en": "Explore this vibrant cultural space that hosts exciting local art, and check the schedule beforehand for any live afternoon performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Château du Cléray",
+            "hu": "Château du Cléray",
+            "ro": "Château du Cléray",
+            "en": "Château du Cléray"
+          },
+          "coords": [
+            -1.242369,
+            47.153037
+          ],
+          "category": "castle",
+          "arrive_at": "16:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang durch die weitläufigen Weinberge dieses herrlichen Weinguts und tragen Sie dabei bequeme Schuhe.",
+            "hu": "Élvezze a sétát a lenyűgöző borbirtok kiterjedt szőlőültetvényein, de mindenképpen kényelmes cipőt viseljen a sorok közötti túrához.",
+            "ro": "Bucurați-vă de o plimbare prin podgoriile întinse ale acestui magnific domeniu viticol, purtând încălțăminte comodă pentru vița de vie.",
+            "en": "Enjoy a stroll through the sprawling vineyards of this magnificent wine estate, wearing comfortable shoes to walk among the vines."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Martin",
+            "hu": "Szent Márton templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            -1.280964,
+            47.140138
+          ],
+          "category": "religious",
+          "arrive_at": "18:03",
+          "stay_min": 70,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieser charmanten Pfarrkirche und achten Sie auf die aufwendigen Steinmetzarbeiten am Eingang.",
+            "hu": "Élvezze a hangulatos plébániatemplom békés légkörét, és figyelje meg a bejárat melletti bonyolult kőfaragásokat.",
+            "ro": "Apreciați ambianța pașnică a acestei biserici parohiale fermecătoare, observând sculpturile complicate în piatră din apropierea intrării.",
+            "en": "Appreciate the peaceful ambiance of this charming parish church, taking note of its intricate stone carvings near the entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im Herzen von Vallet, wo prächtige Architektur eine friedliche Atmosphäre schafft.\n\nGegen Mittag tauchen Sie in das reiche regionale Weinerbe ein und erkunden faszinierende Ausstellungen.\n\nDer Nachmittag lädt Sie ein, die lebendige künstlerische und kulturelle Seele der Stadt zu entdecken.\n\nLassen Sie den Abend an majestätischen historischen Anwesen in Ruhe ausklingen.",
+        "hu": "Kezdje a reggelt Vallet szívében, ahol a lenyűgöző építészet és a hangulatos utcák békés alaphangot adnak.\n\nDélben merüljön el a gazdag helyi borászati örökségben a lenyűgöző interaktív kiállítások révén.\n\nA délután arra invitálja, hogy felfedezze a város pezsgő művészeti és kulturális lelkét.\n\nZárja az estét fenséges történelmi birtokok látogatásával, amelyek hűen megőrizték a régmúltat.",
+        "ro": "Începeți dimineața în inima orașului Vallet, unde arhitectura impresionantă și străzile fermecătoare creează pace.\n\nLa prânz, cufundați-vă în bogata moștenire viticolă locală explorând expoziții istorice fascinante.\n\nDupă-amiaza vă invită să descoperiți sufletul artistic și cultural vibrant al acestui oraș minunat.\n\nÎncheiați seara vizitând moșii istorice maiestuoase care reflectă perfect trecutul.",
+        "en": "Start your morning in the heart of Vallet, where grand architecture and charming streets set a peaceful tone.\n\nAs midday approaches, immerse yourself in the rich local wine heritage by exploring fascinating exhibits.\n\nThe afternoon invites you to discover the vibrant artistic and cultural soul of the city.\n\nConclude your evening by visiting majestic historical estates that beautifully echo the past."
+      }
+    }
+  }
+}

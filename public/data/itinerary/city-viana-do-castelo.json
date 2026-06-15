@@ -1,0 +1,474 @@
+{
+  "city_id": "city-viana-do-castelo",
+  "anchor": {
+    "name": "Viana do Castelo",
+    "coords": [
+      -8.8291,
+      41.6932
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 2.02,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Casa da Praça",
+            "hu": "Casa da Praça",
+            "ro": "Casa da Praça",
+            "en": "Casa da Praça"
+          },
+          "coords": [
+            -8.827261,
+            41.693879
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Explore the intricate details of this beautiful old building from the historic square, representing Viana's rich heritage, but come early to snap photos without crowds.",
+            "de": "Entdecken Sie die filigranen Details dieses historischen Gebäudes am Platz, das Vianas reiches Erbe verkörpert, aber kommen Sie früh, um ungestört Fotos zu machen.",
+            "hu": "Fedezze fel a történelmi téren álló épület lenyűgöző részleteit, amely Viana gazdag örökségét képviseli, de érkezzen korán a tömeg nélküli fotózáshoz.",
+            "ro": "Explorați detaliile complicate ale acestei clădiri vechi din piața istorică, reprezentând patrimoniul bogat, dar veniți devreme pentru fotografii fără aglomerație."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu do Traje",
+            "hu": "Museu do Traje",
+            "ro": "Museu do Traje",
+            "en": "Museu do Traje"
+          },
+          "coords": [
+            -8.828728,
+            41.692783
+          ],
+          "category": "museum",
+          "arrive_at": "10:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "en": "Marvel at the colorful traditional costumes and intricate gold jewelry that define local culture, and don't miss the temporary exhibitions on the upper floor.",
+            "de": "Bestaunen Sie die farbenfrohen Trachten und den aufwendigen Goldschmuck, die die lokale Kultur prägen, und verpassen Sie nicht die Sonderausstellungen im Obergeschoss.",
+            "hu": "Csodálja meg a helyi kultúrát meghatározó színes népviseleteket és bonyolult arany ékszereket, és ne hagyja ki az emeleti időszaki kiállításokat sem.",
+            "ro": "Admirați costumele tradiționale colorate și bijuteriile complexe din aur care definesc cultura, și nu ratați expozițiile temporare aflate la etajul superior."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Municipal Sá de Miranda",
+            "hu": "Teatro Municipal Sá de Miranda",
+            "ro": "Teatro Municipal Sá de Miranda",
+            "en": "Teatro Municipal Sá de Miranda"
+          },
+          "coords": [
+            -8.828728,
+            41.695812
+          ],
+          "category": "cultural",
+          "arrive_at": "12:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "en": "Step inside this stunning 19th-century theater to admire its gorgeous painted ceiling and classic architecture, so try to catch a short guided tour during daytime.",
+            "de": "Betreten Sie dieses atemberaubende Theater aus dem 19. Jahrhundert, um die bemalte Decke zu bewundern, und versuchen Sie, tagsüber eine kurze Führung mitzumachen.",
+            "hu": "Lépjen be ebbe a lenyűgöző 19. századi színházba, csodálja meg a festett mennyezetet, és próbáljon meg elcsípni egy rövid nappali vezetett túrát.",
+            "ro": "Pășiți în acest teatru uimitor din secolul al XIX-lea pentru a admira tavanul pictat și încercați să prindeți un scurt tur ghidat în timpul zilei."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu de Artes Decorativas",
+            "hu": "Museu de Artes Decorativas",
+            "ro": "Museu de Artes Decorativas",
+            "en": "Museu de Artes Decorativas"
+          },
+          "coords": [
+            -8.833447,
+            41.692054
+          ],
+          "category": "museum",
+          "arrive_at": "13:47",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "en": "Admire a vast collection of Portuguese ceramics, period furniture, and beautiful azulejos, making sure to check out the exquisite Indo-Portuguese cabinets in the main hall.",
+            "de": "Bewundern Sie portugiesische Keramik, Stilmöbel und wunderschöne Azulejos und achten Sie besonders auf die exquisiten indo-portugiesischen Schränke im Hauptsaal.",
+            "hu": "Csodálja meg a portugál kerámiák, korabeli bútorok és gyönyörű csempék hatalmas gyűjteményét, és mindenképp nézze meg az indo-portugál szekrényeket.",
+            "ro": "Admirați o vastă colecție de ceramică portugheză, mobilier de epocă și azulejos, asigurându-vă că vedeți dulapurile indo-portugheze din sala principală."
+          }
+        },
+        {
+          "name": {
+            "de": "Farol da Senhora da Agonia",
+            "hu": "Farol da Senhora da Agonia",
+            "ro": "Farol da Senhora da Agonia",
+            "en": "Farol da Senhora da Agonia"
+          },
+          "coords": [
+            -8.837798,
+            41.693205
+          ],
+          "category": "landmark",
+          "arrive_at": "15:33",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "en": "Look up at this iconic lighthouse that guides fishermen safely home along the rugged coast, and visit around sunset for the most atmospheric lighting conditions.",
+            "de": "Blicken Sie zu diesem ikonischen Leuchtturm hinauf, der Fischer sicher nach Hause führt, und besuchen Sie ihn bei Sonnenuntergang für die beste Lichtstimmung.",
+            "hu": "Nézzen fel erre az ikonikus világítótoronyra, amely hazavezeti a halászokat a zord parton, és látogasson el ide naplemente környékén a legszebb fényekért.",
+            "ro": "Priviți acest far emblematic care ghidează pescarii în siguranță de-a lungul coastei stâncoase și vizitați-l la apus pentru cea mai atmosferică lumină."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte de Santiago da Barra",
+            "hu": "Forte de Santiago da Barra",
+            "ro": "Forte de Santiago da Barra",
+            "en": "Forte de Santiago da Barra"
+          },
+          "coords": [
+            -8.838174,
+            41.689006
+          ],
+          "category": "fortress",
+          "arrive_at": "15:55",
+          "stay_min": 110,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "en": "Walk along the sturdy walls of this coastal fortress defending the river mouth for centuries, where wearing comfortable shoes will help you navigate the uneven stone paths.",
+            "de": "Spazieren Sie entlang der Festungsmauern, die die Flussmündung seit Jahrhunderten verteidigen, wobei bequeme Schuhe Ihnen auf den unebenen Steinwegen helfen.",
+            "hu": "Sétáljon a folyótorkolatot évszázadok óta védő parti erőd falain, de viseljen kényelmes cipőt, amely segít az egyenetlen kőutakon való közlekedésben.",
+            "ro": "Plimbați-vă pe zidurile acestei fortărețe de coastă ce apără gura râului de secole, unde încălțămintea confortabilă vă va ajuta pe cărările de piatră."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Start your morning exploring the historic heart of Viana do Castelo around the elegant Casa da Praça and diving into local folklore at the Museu do Traje. By midday, admire the stunning interiors of the Municipal Theater and the intricate displays at the Decorative Arts Museum. Spend your afternoon wandering towards the coast to see the iconic Agonia Lighthouse. Conclude your evening with a leisurely walk along the ramparts of the Forte de Santiago da Barra, watching the sunset over the Atlantic Ocean.",
+        "de": "Beginnen Sie Ihren Morgen im historischen Herzen von Viana do Castelo rund um die Casa da Praça und im Museu do Traje. Mittags bewundern Sie das wunderschöne Stadttheater und die feinen Stücke im Museum für dekorative Kunst. Am Nachmittag spazieren Sie in Richtung Küste zum berühmten Leuchtturm der Agonia. Lassen Sie den Abend bei einem entspannten Spaziergang auf den Festungsmauern des Forte de Santiago da Barra ausklingen und beobachten Sie den Sonnenuntergang.",
+        "hu": "Kezdje a reggelt Viana do Castelo történelmi szívében, a Casa da Praça körül, majd merüljön el a folklórban a Viselet Múzeumban. Délben csodálja meg a Városi Színházat és a Díszítőművészeti Múzeum kiállításait. A délutánt töltse a tengerpart felé sétálva, hogy megtekintse az ikonikus Agonia világítótornyot. Zárja az estét egy kényelmes sétával a Forte de Santiago da Barra bástyáin, ahonnan csodás naplemente tárul az Atlanti-óceán felett.",
+        "ro": "Începeți dimineața explorând inima istorică a orașului Viana do Castelo în jurul Casa da Praça și scufundați-vă în folclor la Museu do Traje. La prânz, admirați interioarele uimitoare ale Teatrului Municipal și exponatele Muzeului de Arte Decorative. Petreceți-vă după-amiaza plimbându-vă spre coastă pentru a vedea emblematicul Far Agonia. Încheiați seara cu o plimbare relaxantă pe meterezele Forte de Santiago da Barra, privind apusul peste Oceanul Atlantic."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:16",
+      "total_km": 5.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Casa da Praça",
+            "hu": "Casa da Praça",
+            "ro": "Casa da Praça",
+            "en": "Casa da Praça"
+          },
+          "coords": [
+            -8.827261,
+            41.693879
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Explore the intricate details of this beautiful old building from the historic square, representing Viana's rich heritage, but come early to snap photos without crowds.",
+            "de": "Entdecken Sie die filigranen Details dieses historischen Gebäudes am Platz, das Vianas reiches Erbe verkörpert, aber kommen Sie früh, um ungestört Fotos zu machen.",
+            "hu": "Fedezze fel a történelmi téren álló épület lenyűgöző részleteit, amely Viana gazdag örökségét képviseli, de érkezzen korán a tömeg nélküli fotózáshoz.",
+            "ro": "Explorați detaliile complicate ale acestei clădiri vechi din piața istorică, reprezentând patrimoniul bogat, dar veniți devreme pentru fotografii fără aglomerație."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu do Traje",
+            "hu": "Museu do Traje",
+            "ro": "Museu do Traje",
+            "en": "Museu do Traje"
+          },
+          "coords": [
+            -8.828728,
+            41.692783
+          ],
+          "category": "museum",
+          "arrive_at": "10:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "en": "Marvel at the colorful traditional costumes and intricate gold jewelry that define local culture, and don't miss the temporary exhibitions on the upper floor.",
+            "de": "Bestaunen Sie die farbenfrohen Trachten und den aufwendigen Goldschmuck, die die lokale Kultur prägen, und verpassen Sie nicht die Sonderausstellungen im Obergeschoss.",
+            "hu": "Csodálja meg a helyi kultúrát meghatározó színes népviseleteket és bonyolult arany ékszereket, és ne hagyja ki az emeleti időszaki kiállításokat sem.",
+            "ro": "Admirați costumele tradiționale colorate și bijuteriile complexe din aur care definesc cultura, și nu ratați expozițiile temporare aflate la etajul superior."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte de Santiago da Barra",
+            "hu": "Forte de Santiago da Barra",
+            "ro": "Forte de Santiago da Barra",
+            "en": "Forte de Santiago da Barra"
+          },
+          "coords": [
+            -8.838174,
+            41.689006
+          ],
+          "category": "fortress",
+          "arrive_at": "12:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "en": "Walk along the sturdy walls of this coastal fortress defending the river mouth for centuries, where wearing comfortable shoes will help you navigate the uneven stone paths.",
+            "de": "Spazieren Sie entlang der Festungsmauern, die die Flussmündung seit Jahrhunderten verteidigen, wobei bequeme Schuhe Ihnen auf den unebenen Steinwegen helfen.",
+            "hu": "Sétáljon a folyótorkolatot évszázadok óta védő parti erőd falain, de viseljen kényelmes cipőt, amely segít az egyenetlen kőutakon való közlekedésben.",
+            "ro": "Plimbați-vă pe zidurile acestei fortărețe de coastă ce apără gura râului de secole, unde încălțămintea confortabilă vă va ajuta pe cărările de piatră."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Aquário",
+            "hu": "Praia do Aquário",
+            "ro": "Praia do Aquário",
+            "en": "Praia do Aquário"
+          },
+          "coords": [
+            -8.83373,
+            41.683005
+          ],
+          "category": "recreational",
+          "arrive_at": "13:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "en": "Relax at this beautiful urban beach characterized by its clear waters and calm atmosphere, ideal for a refreshing mid-afternoon break along the paved cycling path.",
+            "de": "Entspannen Sie an diesem wunderschönen Stadtstrand mit klarem Wasser und ruhiger Atmosphäre, ideal für eine erfrischende Pause entlang des gepflasterten Radwegs.",
+            "hu": "Pihenjen ezen a gyönyörű városi strandon, amelyet tiszta víz és nyugalom jellemez, ideális egy frissítő délutáni szünetre a kiépített kerékpárút mentén.",
+            "ro": "Relaxați-vă pe această frumoasă plajă urbană caracterizată de ape limpezi și liniște, ideală pentru o pauză răcoritoare pe traseul de biciclete asfaltat."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Coral",
+            "hu": "Praia do Coral",
+            "ro": "Praia do Coral",
+            "en": "Praia do Coral"
+          },
+          "coords": [
+            -8.845341,
+            41.682905
+          ],
+          "category": "recreational",
+          "arrive_at": "15:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "en": "Enjoy the scenic ocean views and dog-friendly sands of this unique coastal spot, but remember that the coastal winds can be quite strong here, so bring a light jacket.",
+            "de": "Genießen Sie den malerischen Meerblick und den hundefreundlichen Sand dieses einzigartigen Küstenortes, aber bringen Sie wegen des starken Windes eine leichte Jacke mit.",
+            "hu": "Élvezze a festői óceáni kilátást ezen az egyedi, kutyabarát tengerparti szakaszon, de ne feledje, hogy a parti szél itt erős lehet, ezért hozzon könnyű kabátot.",
+            "ro": "Bucurați-vă de priveliștile oceanului și de nisipul acestei plaje unice, dar rețineți că vântul de coastă poate fi puternic, așa că luați o jachetă subțire."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia Fluvial de Viana do Castelo",
+            "hu": "Praia Fluvial de Viana do Castelo",
+            "ro": "Praia Fluvial de Viana do Castelo",
+            "en": "Praia Fluvial de Viana do Castelo"
+          },
+          "coords": [
+            -8.814407,
+            41.695845
+          ],
+          "category": "recreational",
+          "arrive_at": "16:31",
+          "stay_min": 105,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "en": "Conclude your cycling trip at this serene river beach offering calm waters and lush green surroundings, perfect for a quiet sunset picnic by the peaceful Lima River.",
+            "de": "Beenden Sie Ihre Radtour an diesem ruhigen Flussstrand mit üppig grüner Umgebung, der sich perfekt für ein Picknick bei Sonnenuntergang am Lima-Fluss eignet.",
+            "hu": "Zárja kerékpártúráját ezen a békés folyami strandon, amely nyugodt vizet és zöld környezetet kínál, tökéletes egy csendes naplementés piknikhez a Lima folyónál.",
+            "ro": "Încheiați-vă plimbarea cu bicicleta la această plajă fluvială senină, care oferă împrejurimi verzi și ape calme, perfectă pentru un picnic la apus pe malul râului Lima."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Begin your biking journey in the city center, admiring the old Casa da Praça and the rich exhibits of the Museu do Traje. Pedal towards the coast around midday to explore the massive stone walls of Forte de Santiago da Barra. In the afternoon, enjoy the coastal breeze as you ride along the cycle paths to the clear waters of Praia do Aquário and the scenic Praia do Coral. Your evening ends beautifully with a relaxing sunset stop at the peaceful Praia Fluvial on the Lima River.",
+        "de": "Beginnen Sie Ihre Radtour im Zentrum und bewundern Sie die alte Casa da Praça sowie die Ausstellungen im Museu do Traje. Radeln Sie mittags zur Küste, um die massiven Mauern des Forte de Santiago da Barra zu erkunden. Am Nachmittag genießen Sie die Meeresbrise auf den Radwegen zur Praia do Aquário und Praia do Coral. Ihr Abend endet mit einem wunderschönen Sonnenuntergang an der ruhigen Praia Fluvial am Ufer des Flusses Lima.",
+        "hu": "Kezdje a kerékpártúrát a belvárosban, megcsodálva a Casa da Praça-t és a Viselet Múzeum gazdag kiállításait. Délben tekerjen a part felé, hogy felfedezze a Forte de Santiago da Barra masszív kőfalait. Délután élvezze a tengeri szellőt, miközben a kerékpárutakon a Praia do Aquário és a Praia do Coral felé halad. Az este gyönyörűen zárul egy pihentető naplementés megállóval a békés Praia Fluvial folyami strandján.",
+        "ro": "Începeți călătoria cu bicicleta în centrul orașului, admirând Casa da Praça și expozițiile bogate de la Museu do Traje. Pedați spre coastă la prânz pentru a explora zidurile masive de la Forte de Santiago da Barra. După-amiaza, bucurați-vă de briza mării în timp ce mergeți pe pistele de biciclete către apele limpezi de la Praia do Aquário și Praia do Coral. Seara se încheie frumos cu un apus relaxant la liniștita Praia Fluvial."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:38",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Casa da Praça",
+            "hu": "Casa da Praça",
+            "ro": "Casa da Praça",
+            "en": "Casa da Praça"
+          },
+          "coords": [
+            -8.827261,
+            41.693879
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Explore the intricate details of this beautiful old building from the historic square, representing Viana's rich heritage, but come early to snap photos without crowds.",
+            "de": "Entdecken Sie die filigranen Details dieses historischen Gebäudes am Platz, das Vianas reiches Erbe verkörpert, aber kommen Sie früh, um ungestört Fotos zu machen.",
+            "hu": "Fedezze fel a történelmi téren álló épület lenyűgöző részleteit, amely Viana gazdag örökségét képviseli, de érkezzen korán a tömeg nélküli fotózáshoz.",
+            "ro": "Explorați detaliile complicate ale acestei clădiri vechi din piața istorică, reprezentând patrimoniul bogat, dar veniți devreme pentru fotografii fără aglomerație."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte de Santiago da Barra",
+            "hu": "Forte de Santiago da Barra",
+            "ro": "Forte de Santiago da Barra",
+            "en": "Forte de Santiago da Barra"
+          },
+          "coords": [
+            -8.838174,
+            41.689006
+          ],
+          "category": "fortress",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "en": "Walk along the sturdy walls of this coastal fortress defending the river mouth for centuries, where wearing comfortable shoes will help you navigate the uneven stone paths.",
+            "de": "Spazieren Sie entlang der Festungsmauern, die die Flussmündung seit Jahrhunderten verteidigen, wobei bequeme Schuhe Ihnen auf den unebenen Steinwegen helfen.",
+            "hu": "Sétáljon a folyótorkolatot évszázadok óta védő parti erőd falain, de viseljen kényelmes cipőt, amely segít az egyenetlen kőutakon való közlekedésben.",
+            "ro": "Plimbați-vă pe zidurile acestei fortărețe de coastă ce apără gura râului de secole, unde încălțămintea confortabilă vă va ajuta pe cărările de piatră."
+          }
+        },
+        {
+          "name": {
+            "de": "Citânia de Santa Luzia",
+            "hu": "Citânia de Santa Luzia",
+            "ro": "Citânia de Santa Luzia",
+            "en": "Citânia de Santa Luzia"
+          },
+          "coords": [
+            -8.835595,
+            41.705334
+          ],
+          "category": "historical",
+          "arrive_at": "11:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "en": "Wander through the fascinating ruins of this ancient Iron Age settlement offering panoramic coastal views, and follow the elevated wooden walkways to protect the site.",
+            "de": "Wandern Sie durch die faszinierenden Ruinen dieser eisenzeitlichen Siedlung mit Panoramablick auf die Küste und nutzen Sie die Holzstege, um das Gelände zu schützen.",
+            "hu": "Barangoljon ennek az ősi vaskori településnek a romjai között, amely panorámás tengerparti kilátást kínál, és kövesse a magasított fa járdákat a terület védelme érdekében.",
+            "ro": "Plimbați-vă prin ruinele fascinante ale acestei așezări antice din Epoca Fierului ce oferă vederi panoramice la coastă, și urmați pasarelele din lemn pentru a proteja situl."
+          }
+        },
+        {
+          "name": {
+            "de": "Núcleo Museológico de Santa Luzia",
+            "hu": "Núcleo Museológico de Santa Luzia",
+            "ro": "Núcleo Museológico de Santa Luzia",
+            "en": "Núcleo Museológico de Santa Luzia"
+          },
+          "coords": [
+            -8.835291,
+            41.701633
+          ],
+          "category": "museum",
+          "arrive_at": "13:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "en": "Discover the archaeological treasures and history of the local excavations in this modern visitor center, checking the interactive displays for deeper historical context.",
+            "de": "Entdecken Sie die archäologischen Schätze der lokalen Ausgrabungen in diesem modernen Besucherzentrum und nutzen Sie die interaktiven Displays für tiefere Einblicke.",
+            "hu": "Fedezze fel a helyi ásatások régészeti kincseit és történelmét ebben a modern látogatóközpontban, az interaktív kijelzők segítségével a mélyebb megértésért.",
+            "ro": "Descoperiți comorile arheologice și istoria excavațiilor locale în acest centru modern de vizitatori, verificând ecranele interactive pentru un context istoric profund."
+          }
+        },
+        {
+          "name": {
+            "de": "Convento de São Francisco do Monte",
+            "hu": "Convento de São Francisco do Monte",
+            "ro": "Convento de São Francisco do Monte",
+            "en": "Convento de São Francisco do Monte"
+          },
+          "coords": [
+            -8.825678,
+            41.716608
+          ],
+          "category": "religious",
+          "arrive_at": "15:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "en": "Explore the eerie, romantic ruins of this historic convent nestled in the hillside woods, where careful footing is required due to the overgrown and uneven terrain.",
+            "de": "Erkunden Sie die romantischen Ruinen dieses historischen Klosters im Wald, wo aufgrund des bewachsenen und unebenen Geländes Vorsicht geboten ist.",
+            "hu": "Fedezze fel ennek a domboldali erdőben megbúvó történelmi kolostornak a romantikus romjait, ahol a benőtt, egyenetlen terep miatt óvatos lépésekre van szükség.",
+            "ro": "Explorați ruinele romantice ale acestei mănăstiri istorice ascunse în pădurea de pe deal, unde este nevoie de atenție la pași din cauza terenului denivelat și invadat de vegetație."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Cabedelo",
+            "hu": "Praia do Cabedelo",
+            "ro": "Praia do Cabedelo",
+            "en": "Praia do Cabedelo"
+          },
+          "coords": [
+            -8.825128,
+            41.661849
+          ],
+          "category": "recreational",
+          "arrive_at": "15:53",
+          "stay_min": 105,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "en": "Relax on this expansive crescent beach famous for its sand dunes and excellent windsurfing conditions, accessible via a short ferry ride or a quick drive across the bridge.",
+            "de": "Entspannen Sie sich an diesem weitläufigen Strand, der für seine Sanddünen und hervorragenden Surfbedingungen bekannt ist und nach einer kurzen Fahrt über die Brücke erreichbar ist.",
+            "hu": "Pihenjen ezen a homokdűnékről és kiváló szörfös körülményeiről híres, kiterjedt strandon, amely könnyen megközelíthető egy rövid autóúttal a hídon keresztül.",
+            "ro": "Relaxați-vă pe această plajă extinsă faimoasă pentru dunele de nisip și condițiile excelente de windsurfing, accesibilă printr-o scurtă plimbare cu mașina peste pod."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Drive into the historic heart for your morning, taking time to appreciate the architecture of Casa da Praça before exploring the imposing Forte de Santiago da Barra. By midday, drive up the scenic hill to the ancient Citânia de Santa Luzia ruins and its accompanying archaeological museum. Spend your late afternoon discovering the romantic, overgrown ruins of the Convento de São Francisco do Monte. Finally, drive across the bridge to end your day on the expansive sands of Praia do Cabedelo.",
+        "de": "Fahren Sie morgens ins historische Zentrum und bewundern Sie die Casa da Praça, bevor Sie das imposante Forte de Santiago da Barra erkunden. Mittags fahren Sie den Hügel hinauf zu den antiken Ruinen der Citânia de Santa Luzia und dem archäologischen Museum. Entdecken Sie am späten Nachmittag die romantischen, überwucherten Ruinen des Convento de São Francisco do Monte. Zum Abschluss fahren Sie über die Brücke zur weitläufigen Praia do Cabedelo.",
+        "hu": "Vezessen be a történelmi központba, hogy megcsodálja a Casa da Praça építészetét, mielőtt felfedezné a Forte de Santiago da Barra erődjét. Délben hajtson fel a dombra a Citânia de Santa Luzia ókori romjaihoz és a régészeti múzeumhoz. A késő délutánt a Convento de São Francisco do Monte romantikus romjainak felfedezésével töltse. Végül hajtson át a hídon, hogy a napot a Praia do Cabedelo homokdűnéi között fejezze be.",
+        "ro": "Mergeți cu mașina în inima istorică dimineața, admirând arhitectura Casa da Praça înainte de a explora impozantul Forte de Santiago da Barra. La prânz, urcați pe deal spre ruinele antice Citânia de Santa Luzia și muzeul său arheologic. Petreceți-vă după-amiaza descoperind ruinele romantice ale Convento de São Francisco do Monte. În cele din urmă, conduceți peste pod pentru a încheia ziua pe nisipurile întinse de la Praia do Cabedelo."
+      }
+    }
+  }
+}

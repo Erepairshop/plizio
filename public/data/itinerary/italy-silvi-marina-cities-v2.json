@@ -1,0 +1,428 @@
+{
+  "city_id": "italy-silvi-marina-cities-v2",
+  "anchor": {
+    "name": "Silvi Marina",
+    "coords": [
+      14.11736,
+      42.55275
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:13",
+      "total_km": 1.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Lido Nettuno",
+            "hu": "Lido Nettuno",
+            "ro": "Lido Nettuno",
+            "en": "Lido Nettuno"
+          },
+          "coords": [
+            14.11263,
+            42.559434
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Strandatmosphäre, die für feinen Sand und Familienfreundlichkeit bekannt ist, und kommen Sie früh, um eine Liege am Wasser zu sichern.",
+            "hu": "Élvezze a finom homokjáról és családbarát szolgáltatásairól ismert nyüzsgő strandot, és érkezzen korán, hogy biztosítson magának egy kényelmes napágyat a víznél.",
+            "ro": "Bucurați-vă de atmosfera plină de viață a plajei, faimoasă pentru nisipul fin, și veniți devreme pentru a prinde un șezlong confortabil chiar aproape de apă.",
+            "en": "Enjoy the vibrant beach atmosphere here, known for its fine sand and excellent family facilities, and arrive early to secure a comfortable sunbed near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "La Perla",
+            "hu": "La Perla",
+            "ro": "La Perla",
+            "en": "La Perla"
+          },
+          "coords": [
+            14.113894,
+            42.558
+          ],
+          "category": "recreational",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie das typisch italienische Strandclub-Flair mit makellosen Küsten und trinken Sie unbedingt einen Espresso an der eleganten Bar mit Blick auf die Wellen.",
+            "hu": "Tapasztalja meg az igazi olasz strandklub-hangulatot az érintetlen parton, és mindenképpen igyon egy finom eszpresszót a hullámokra néző elegáns tengerparti bárban.",
+            "ro": "Experimentați atmosfera tipică a unui club de plajă italian cu țărmuri imaculate și asigurați-vă că savurați un espresso la barul elegant cu vedere la valuri.",
+            "en": "Experience the quintessential Italian beach club vibe with its pristine shores, and take a moment to sip an espresso at the elegant bar overlooking the gentle waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Aqua",
+            "hu": "Aqua",
+            "ro": "Aqua",
+            "en": "Aqua"
+          },
+          "coords": [
+            14.115689,
+            42.556289
+          ],
+          "category": "recreational",
+          "arrive_at": "11:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Dieser stilvolle Ort bietet kristallklares, flaches Wasser zur Entspannung, also bringen Sie Ihre Schnorchelausrüstung mit, um den Meeresboden sicher zu erkunden.",
+            "hu": "Ez a stílusos hely kristálytiszta, sekély vizet kínál a pihenéshez, ezért hozzon magával búvárszemüveget, hogy ebéd előtt biztonságosan felfedezze a tengerfenéket.",
+            "ro": "Acest loc elegant oferă ape puțin adânci, perfecte pentru relaxare, așa că aduceți-vă echipamentul de snorkeling pentru a explora fundul mării înainte de prânz.",
+            "en": "This stylish spot offers crystal-clear shallow waters ideal for relaxation, so bring your snorkel gear to explore the gentle seabed safely before lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Baracoa Silvi",
+            "hu": "Lido Baracoa Silvi",
+            "ro": "Lido Baracoa Silvi",
+            "en": "Lido Baracoa Silvi"
+          },
+          "coords": [
+            14.116761,
+            42.555605
+          ],
+          "category": "recreational",
+          "arrive_at": "13:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bekannt für seine lebhafte Nachmittagsenergie und die großzügige Anlage, ist dies der perfekte Ort für eine Runde Beachvolleyball oder Entspannung unterm Schirm.",
+            "hu": "A nyüzsgő délutáni energiájáról ismert tágas strandon érdemes csatlakozni egy helyi strandröplabda meccshez, vagy egyszerűen csak elnyújtózni egy napernyő alatt.",
+            "ro": "Cunoscută pentru energia vibrantă de după-amiază, această plajă spațioasă este perfectă pentru a juca volei sau pur și simplu pentru a vă relaxa sub o umbrelă.",
+            "en": "Known for its vibrant afternoon energy and spacious layout, this is the perfect place to join a local game of beach volleyball or simply stretch out under a parasol."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Iris",
+            "hu": "Lido Iris",
+            "ro": "Lido Iris",
+            "en": "Lido Iris"
+          },
+          "coords": [
+            14.12095,
+            42.551063
+          ],
+          "category": "recreational",
+          "arrive_at": "14:28",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an dieser ruhigen Oase mit spektakulärem Blick auf die Dämmerung und holen Sie sich einen kühlen lokalen Wein, um anzustoßen.",
+            "hu": "Fejezze be sétáját ebben a nyugodt tengerparti oázisban, amely látványos alkonyati kilátást nyújt, és vegyen egy hűtött helyi bort a lemenő nap köszöntéséhez.",
+            "ro": "Încheiați-vă plimbarea în această oază liniștită cu vederi spectaculoase la amurg și luați un vin local rece de la chioșc pentru a închina în cinstea apusului.",
+            "en": "End your stroll at this tranquil seaside oasis featuring spectacular twilight views, and grab a chilled local wine from the kiosk to toast the setting sun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einem Spaziergang an der Promenade am Lido Nettuno.\n\nMittags wechseln Sie zu La Perla und Aqua, um die entspannte Strandkultur von Silvi Marina zu entdecken.\n\nDer Nachmittag bietet ruhige Momente auf dem Weg zum Lido Baracoa.\n\nLassen Sie den Abend bei sanften Wellen am Lido Iris ausklingen, während die Sonne untergeht.",
+        "hu": "Kezdje a reggelt a központi sétányon, és élvezze az Adria napsütését a Lido Nettuno strandon.\n\nDélben váltson a La Perla és az Aqua strandokra, felfedezve a tengerparti kultúrát.\n\nA délután nyugodt pillanatokat kínál a Lido Baracoa felé sétálva.\n\nVégül töltsön el egy pihentető estét a Lido Iris lágy hullámai mellett a naplementében.",
+        "ro": "Începeți dimineața plimbându-vă pe faleza centrală la soarele Adriaticii la Lido Nettuno.\n\nLa prânz, faceți o tranziție spre La Perla și Aqua, descoperind cultura plajelor din Silvi Marina.\n\nDupă-amiaza oferă momente liniștite coborând spre Lido Baracoa.\n\nPetreceți-vă seara relaxându-vă lângă valurile liniștite de la Lido Iris.",
+        "en": "Begin your morning wandering the central promenade, soaking in the Adriatic sun at Lido Nettuno.\n\nBy midday, enjoy a seamless transition to La Perla and Aqua, discovering the relaxed beach culture of Silvi Marina.\n\nThe afternoon offers tranquil moments as you walk down to Lido Baracoa.\n\nFinally, spend your evening unwinding by the soothing waves at Lido Iris, watching the sunset paint the sky."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:24",
+      "total_km": 2.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Moby Dick",
+            "hu": "Moby Dick",
+            "ro": "Moby Dick",
+            "en": "Moby Dick"
+          },
+          "coords": [
+            14.102997,
+            42.569184
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Küstenerkundung hier, wo der Sand bemerkenswert weich ist, und mieten Sie früh ein Tretboot, um das ruhigste Wasser am Morgen zu genießen.",
+            "hu": "Kezdje az északi part felfedezését itt, ahol a homok figyelemre méltóan puha, és béreljen vízibiciklit korán, hogy élvezze a reggeli legnyugodtabb hullámokat.",
+            "ro": "Începeți explorarea coastei de nord aici, unde nisipul este remarcabil de fin, și închiriați o hidrobicicletă devreme pentru a vă bucura de cele mai calme ape.",
+            "en": "Start your northern coastal exploration here where the sand is remarkably soft, and rent a pedal boat early to enjoy the calmest waters of the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Ippocampo Beach",
+            "hu": "Ippocampo Beach",
+            "ro": "Ippocampo Beach",
+            "en": "Ippocampo Beach"
+          },
+          "coords": [
+            14.104311,
+            42.5677
+          ],
+          "category": "recreational",
+          "arrive_at": "10:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie einen beliebten Ort mit hervorragendem Service am Wasser und fragen Sie das freundliche Personal nach den frischen Meeresfrüchte-Tipps des Tages.",
+            "hu": "Fedezzen fel egy nagyra értékelt helyi kedvencet kiváló vízparti kiszolgálással, és kérje a személyzet ajánlását a napi friss, finom tengeri herkentyűkre vonatkozóan.",
+            "ro": "Descoperiți un loc preferat de localnici cu servicii excelente la malul mării și întrebați personalul despre cele mai proaspete fructe de mare recomandate astăzi.",
+            "en": "Discover a highly rated local favorite featuring excellent waterfront service, and ask the staff for their fresh seafood catch of the day recommendations."
+          }
+        },
+        {
+          "name": {
+            "de": "Lo squalo",
+            "hu": "Lo squalo",
+            "ro": "Lo squalo",
+            "en": "Lo squalo"
+          },
+          "coords": [
+            14.105204,
+            42.566562
+          ],
+          "category": "recreational",
+          "arrive_at": "11:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Dieser belebte Küstenabschnitt ist beliebt für seine aktive Wassersportszene, also buchen Sie eine kurze Windsurf-Lektion, um Ihrem Tag etwas Nervenkitzel zu verleihen.",
+            "hu": "Ez a nyüzsgő partszakasz a vízi sportok kedvelőinek paradicsoma, ezért érdemes lefoglalni egy rövid szörfleckét, hogy egy kis izgalmat vigyen a napsütéses napba.",
+            "ro": "Această porțiune de coastă animată este iubită pentru sporturile nautice, așa că rezervați o scurtă lecție de windsurf pentru a adăuga un pic de adrenalină zilei.",
+            "en": "This lively coastal stretch is beloved for its active watersports scene, so consider booking a short windsurfing lesson to add some thrill to your sunny day."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Venere",
+            "hu": "Lido Venere",
+            "ro": "Lido Venere",
+            "en": "Lido Venere"
+          },
+          "coords": [
+            14.109809,
+            42.561975
+          ],
+          "category": "recreational",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Schätzen Sie die makellose Sauberkeit an diesem friedlichen Strand und probieren Sie unbedingt das traditionelle italienische Gelato im örtlichen Strandcafé.",
+            "hu": "Értékelje a kifogástalan tisztaságot ezen a békés strandon, és semmiképpen se hagyja ki a hagyományos olasz gelato megkóstolását a hangulatos tengerparti kávézóban.",
+            "ro": "Apreciați curățenia impecabilă a acestui lido liniștit și nu ratați ocazia de a încerca gelato-ul tradițional italian de la cafeneaua cochetă de pe plajă.",
+            "en": "Appreciate the pristine cleanliness and beautiful sun loungers at this peaceful lido, and don't miss trying the traditional Italian gelato from their beachside cafe."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Las Vegas",
+            "hu": "Lido Las Vegas",
+            "ro": "Lido Las Vegas",
+            "en": "Lido Las Vegas"
+          },
+          "coords": [
+            14.111845,
+            42.560365
+          ],
+          "category": "recreational",
+          "arrive_at": "14:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erleben Sie erstklassige Unterhaltung und Musik an diesem einzigartig gestalteten Strandort und planen Sie Ihren Besuch für den Nachmittag, wenn die Stimmung steigt.",
+            "hu": "Tapasztalja meg az élénk zenét ezen az egyedi témájú strandon, és időzítse látogatását a késő délutáni órákra, amikor a társasági élet a tetőfokára hág.",
+            "ro": "Experimentați divertismentul de top și muzica vibrantă la această plajă cu tematică unică și programați-vă vizita după-amiaza pentru atmosfera de maximă socializare.",
+            "en": "Experience top-tier entertainment and vibrant music at this uniquely themed beach spot, and time your visit for mid-afternoon when the social atmosphere truly peaks."
+          }
+        },
+        {
+          "name": {
+            "de": "Becco Giallo",
+            "hu": "Becco Giallo",
+            "ro": "Becco Giallo",
+            "en": "Becco Giallo"
+          },
+          "coords": [
+            14.123169,
+            42.549365
+          ],
+          "category": "recreational",
+          "arrive_at": "15:39",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie an der südlichsten Spitze des Strandes in ruhiger Abgeschiedenheit und bleiben Sie bis zur Abenddämmerung, um atemberaubende Fotos zu machen.",
+            "hu": "Pihenjen a fő strandszakasz legdélebbi csücskén a csendes magányban, és maradjon alkonyatig, hogy lenyűgöző sziluett fotókat készíthessen a távoli nyüzsgő kikötőről.",
+            "ro": "Relaxați-vă în cel mai sudic punct al plajei oferind o singurătate liniștită și rămâneți până la amurg pentru a face fotografii uimitoare cu silueta portului.",
+            "en": "Relax at the southernmost tip of the main beach strip offering quiet solitude, and stay until dusk to capture stunning silhouette photographs of the distant harbor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour bei Moby Dick und Ippocampo Beach und genießen Sie die Meeresbrise.\n\nAm Mittag fahren Sie durch Lo Squalo und Lido Venere für ein Mittagessen an der Küste.\n\nNachmittags radeln Sie zum Lido Las Vegas, um das lokale Flair zu erleben.\n\nIhre Fahrt endet an einem wunderschönen Abend friedlich am Becco Giallo.",
+        "hu": "Kezdje kerékpártúráját a Moby Dick és az Ippocampo Beach érintésével a reggeli tengeri szellőben.\n\nA dél egy gyors tekerést hoz a Lo squalo és a Lido Venere strandokhoz.\n\nDélután karikázzon a nyüzsgő Lido Las Vegas felé, hogy megtapasztalja a helyi hangulatot.\n\nAz utazás este a Becco Giallo nyugodt környezetében zárul.",
+        "ro": "Începeți turul cu bicicleta la Moby Dick și Ippocampo Beach, bucurându-vă de briza mării.\n\nPrânzul aduce o scurtă plimbare prin Lo squalo și Lido Venere pentru un prânz pe coastă.\n\nDupă-amiaza, pedalați spre animatul Lido Las Vegas pentru a simți atmosfera locală.\n\nCălătoria dumneavoastră se încheie frumos, seara, la Becco Giallo.",
+        "en": "Kick off your cycling tour at Moby Dick and Ippocampo Beach, enjoying the morning sea breeze.\n\nMidday brings a quick ride through Lo squalo and Lido Venere for a coastal lunch.\n\nIn the afternoon, pedal down to the bustling Lido Las Vegas to experience the lively local vibe.\n\nYour ride concludes beautifully at Becco Giallo in the evening."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:28",
+      "total_km": 3.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Belfiore Turm",
+            "hu": "Belfiore torony",
+            "ro": "Turnul Belfiore",
+            "en": "Belfiore Tower"
+          },
+          "coords": [
+            14.093255,
+            42.564888
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Verlassen Sie den Sand, um diesen historischen Wachturm mit Blick aufs Meer zu besuchen, und tragen Sie bequeme Schuhe, um die unebenen Wege zu bewältigen.",
+            "hu": "Hagyja el a homokot, hogy meglátogassa ezt a tengerre néző történelmi őrtornyot, és viseljen kényelmes cipőt, hogy könnyedén haladjon a kissé egyenetlen ösvényeken.",
+            "ro": "Îndepărtați-vă de nisip pentru a vizita acest turn de veghe istoric cu vedere la mare și purtați încălțăminte confortabilă pentru a naviga pe potecile inegale.",
+            "en": "Step away from the sand to visit this historic watchtower overlooking the sea, and wear comfortable walking shoes to navigate the slightly uneven approach paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido dell'Hotel Florida",
+            "hu": "Lido dell'Hotel Florida",
+            "ro": "Lido dell'Hotel Florida",
+            "en": "Lido dell'Hotel Florida"
+          },
+          "coords": [
+            14.102677,
+            42.570125
+          ],
+          "category": "recreational",
+          "arrive_at": "09:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Premium-Komfort dieses gepflegten Hotelstrandes und gönnen Sie sich einen erfrischenden Cocktail, der direkt an Ihre Liege serviert wird.",
+            "hu": "Élvezze a prémium kényelmet ezen a jól karbantartott szállodai strandon, és kényeztesse magát egy hűsítő koktéllal, amelyet közvetlenül a kényelmes napágyához szolgálnak fel.",
+            "ro": "Bucurați-vă de confortul premium al acestei plaje de hotel bine întreținute și savurați un cocktail răcoritor servit direct la șezlongul dumneavoastră confortabil.",
+            "en": "Enjoy the premium comfort and exclusive feel of this well-maintained hotel beach, and indulge in a refreshing cocktail served directly to your comfortable sunbed."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Venere",
+            "hu": "Lido Venere",
+            "ro": "Lido Venere",
+            "en": "Lido Venere"
+          },
+          "coords": [
+            14.109809,
+            42.561975
+          ],
+          "category": "recreational",
+          "arrive_at": "11:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Schätzen Sie die makellose Sauberkeit an diesem friedlichen Strand und probieren Sie unbedingt das traditionelle italienische Gelato im örtlichen Strandcafé.",
+            "hu": "Értékelje a kifogástalan tisztaságot ezen a békés strandon, és semmiképpen se hagyja ki a hagyományos olasz gelato megkóstolását a hangulatos tengerparti kávézóban.",
+            "ro": "Apreciați curățenia impecabilă a acestui lido liniștit și nu ratați ocazia de a încerca gelato-ul tradițional italian de la cafeneaua cochetă de pe plajă.",
+            "en": "Appreciate the pristine cleanliness and beautiful sun loungers at this peaceful lido, and don't miss trying the traditional Italian gelato from their beachside cafe."
+          }
+        },
+        {
+          "name": {
+            "de": "La Perla",
+            "hu": "La Perla",
+            "ro": "La Perla",
+            "en": "La Perla"
+          },
+          "coords": [
+            14.113894,
+            42.558
+          ],
+          "category": "recreational",
+          "arrive_at": "12:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erleben Sie das typisch italienische Strandclub-Flair mit makellosen Küsten und trinken Sie unbedingt einen Espresso an der eleganten Bar mit Blick auf die Wellen.",
+            "hu": "Tapasztalja meg az igazi olasz strandklub-hangulatot az érintetlen parton, és mindenképpen igyon egy finom eszpresszót a hullámokra néző elegáns tengerparti bárban.",
+            "ro": "Experimentați atmosfera tipică a unui club de plajă italian cu țărmuri imaculate și asigurați-vă că savurați un espresso la barul elegant cu vedere la valuri.",
+            "en": "Experience the quintessential Italian beach club vibe with its pristine shores, and take a moment to sip an espresso at the elegant bar overlooking the gentle waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Becco Giallo",
+            "hu": "Becco Giallo",
+            "ro": "Becco Giallo",
+            "en": "Becco Giallo"
+          },
+          "coords": [
+            14.123169,
+            42.549365
+          ],
+          "category": "recreational",
+          "arrive_at": "13:43",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie an der südlichsten Spitze des Strandes in ruhiger Abgeschiedenheit und bleiben Sie bis zur Abenddämmerung, um atemberaubende Fotos zu machen.",
+            "hu": "Pihenjen a fő strandszakasz legdélebbi csücskén a csendes magányban, és maradjon alkonyatig, hogy lenyűgöző sziluett fotókat készíthessen a távoli nyüzsgő kikötőről.",
+            "ro": "Relaxați-vă în cel mai sudic punct al plajei oferind o singurătate liniștită și rămâneți până la amurg pentru a face fotografii uimitoare cu silueta portului.",
+            "en": "Relax at the southernmost tip of the main beach strip offering quiet solitude, and stay until dusk to capture stunning silhouette photographs of the distant harbor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zum Belfiore-Turm, um einen Panoramablick auf die Küste zu genießen.\n\nParken Sie mittags beim Lido dell'Hotel Florida und Lido Venere, um ins Wasser einzutauchen.\n\nDer Nachmittag lädt zum Entspannen im La Perla ein, das für seinen feinen Sand bekannt ist.\n\nBeenden Sie Ihren Roadtrip am Becco Giallo mit einem Abendessen.",
+        "hu": "Kora reggel vezessen fel a Belfiore-toronyhoz, hogy megcsodálja a tengerpart lenyűgöző panorámáját.\n\nDélben parkoljon le a Lido dell'Hotel Florida és a Lido Venere közelében egy csobbanásra.\n\nA délután a finom homokjáról ismert La Perla strandon kínál tökéletes kikapcsolódást.\n\nZárja az autós kirándulást a Becco Giallo tengerpartján egy vacsorával.",
+        "ro": "Conduceți la Turnul Belfiore dimineața pentru a admira o vedere panoramică superbă a coastei.\n\nLa prânz, parcați lângă Lido dell'Hotel Florida și Lido Venere pentru o baie revigorantă.\n\nDupă-amiaza vă invită să vă relaxați la La Perla, faimoasă pentru nisipul său fin.\n\nÎncheiați-vă excursia la Becco Giallo cu o cină la malul mării.",
+        "en": "Drive up to Belfiore Tower first thing in the morning to catch a sweeping panoramic coastal view.\n\nBy midday, park near Lido dell'Hotel Florida and Lido Venere to dive into the Adriatic waters.\n\nThe afternoon invites you to relax at La Perla, known for its pristine sandy shores.\n\nEnd your road trip at Becco Giallo with a seaside dinner."
+      }
+    }
+  }
+}

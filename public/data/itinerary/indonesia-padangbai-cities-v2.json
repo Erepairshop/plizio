@@ -1,0 +1,497 @@
+{
+  "city_id": "indonesia-padangbai-cities-v2",
+  "anchor": {
+    "name": "Padangbai",
+    "coords": [
+      115.50656,
+      -8.53154
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:22",
+      "total_km": 1.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Secret beach sunrise",
+            "hu": "Secret beach sunrise",
+            "ro": "Secret beach sunrise",
+            "en": "Secret beach sunrise"
+          },
+          "coords": [
+            115.508762,
+            -8.536736
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag früh in dieser versteckten Bucht, um die Sonne über dem Meer aufgehen zu sehen, aber bringen Sie unbedingt Mückenspray mit.",
+            "hu": "Kezdje a napot korán ebben a rejtett öbölben, hogy megnézze a napfelkeltét az óceán felett, de ne felejtsen el erős szúnyogriasztót hozni.",
+            "ro": "Începeți-vă ziua devreme în acest golf ascuns pentru a vedea soarele răsărind peste ocean, dar nu uitați să aduceți un spray puternic împotriva țânțarilor.",
+            "en": "Start your day early at this hidden cove to watch the sun emerge over the ocean, but remember to bring strong mosquito repellent for the dawn walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Padang Bai Beach",
+            "hu": "Padang Bai Beach",
+            "ro": "Padang Bai Beach",
+            "en": "Padang Bai Beach"
+          },
+          "coords": [
+            115.509984,
+            -8.530905
+          ],
+          "category": "recreational",
+          "arrive_at": "09:46",
+          "stay_min": 50,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Schlendern Sie am belebten Hauptstrand entlang, wo bunte Fischerboote anlegen, ein idealer Ort, um Bootstickets bei lokalen Anbietern zu buchen.",
+            "hu": "Sétáljon a nyüzsgő fő strandon, ahol színes halászhajók horgonyoznak, és kiváló hely a helyi árusoknál lévő hajójegyek megszervezéséhez.",
+            "ro": "Plimbați-vă de-a lungul plajei principale aglomerate, unde acostează bărci de pescari colorate, un loc excelent pentru a cumpăra bilete de barcă.",
+            "en": "Stroll along the bustling main beach where colorful fishing boats dock, offering a great spot to arrange your onward boat tickets with local vendors."
+          }
+        },
+        {
+          "name": {
+            "de": "Ikandive / Balimoon divers",
+            "hu": "Ikandive / Balimoon divers",
+            "ro": "Ikandive / Balimoon divers",
+            "en": "Ikandive / Balimoon divers"
+          },
+          "coords": [
+            115.508833,
+            -8.529633
+          ],
+          "category": "recreational",
+          "arrive_at": "10:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese hervorragenden lokalen Tauchzentren für Ihr Unterwasserabenteuer, aber fragen Sie vorher nach den aktuellen Sichtverhältnissen.",
+            "hu": "Látogasson el ezekbe a kiváló helyi búvárközpontokba, hogy lefoglalja víz alatti kalandját, de előtte feltétlenül érdeklődjön az aktuális látási viszonyokról.",
+            "ro": "Vizitați aceste centre locale excelente de scufundări pentru a vă rezerva aventurile, dar întrebați despre vizibilitatea actuală înainte de a rezerva.",
+            "en": "Check out these excellent local dive centers to book your underwater adventures, ensuring you ask about current visibility before committing to a trip."
+          }
+        },
+        {
+          "name": {
+            "de": "Pura Silayukti",
+            "hu": "Pura Silayukti",
+            "ro": "Pura Silayukti",
+            "en": "Pura Silayukti"
+          },
+          "coords": [
+            115.513094,
+            -8.531166
+          ],
+          "category": "religious",
+          "arrive_at": "11:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie einen der ältesten hinduistischen Tempel Balis mit Blick auf das Meer und tragen Sie unbedingt einen Sarong, um die heiligen Stätten zu respektieren.",
+            "hu": "Látogasson el Bali egyik legrégebbi tengerre néző hindu templomába, és mindenképpen viseljen szarongot, hogy tiszteletben tartsa a szent területet.",
+            "ro": "Vizitați unul dintre cele mai vechi temple hinduse din Bali, cu vedere la mare, asigurându-vă că purtați un sarong pentru a respecta tradițiile sacre.",
+            "en": "Visit one of Bali's oldest Hindu temples overlooking the sea, making sure to wear a sarong and sash to respect the sacred temple grounds and customs."
+          }
+        },
+        {
+          "name": {
+            "de": "Blue Lagoon snorkeling",
+            "hu": "Blue Lagoon snorkeling",
+            "ro": "Blue Lagoon snorkeling",
+            "en": "Blue Lagoon snorkeling"
+          },
+          "coords": [
+            115.5142,
+            -8.53034
+          ],
+          "category": "landmark",
+          "arrive_at": "12:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das kristallklare Wasser der Blauen Lagune ein, um das bunte Meeresleben zu beobachten; bringen Sie am besten Ihre eigene Schnorchelausrüstung mit.",
+            "hu": "Merüljön el a Kék Lagúna kristálytiszta vizében, hogy megcsodálja a tengeri élővilágot, de hozza magával saját felszerelését, hogy spóroljon a bérlésen.",
+            "ro": "Scufundați-vă în apele cristaline ale Lagunei Albastre pentru a vedea viața marină, dar aduceți propriul echipament de snorkeling pentru a economisi bani.",
+            "en": "Dive into the crystal-clear waters of the Blue Lagoon to spot vibrant marine life, but bring your own snorkeling gear to save on rental costs at the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Sunrise Point",
+            "hu": "Sunrise Point",
+            "ro": "Sunrise Point",
+            "en": "Sunrise Point"
+          },
+          "coords": [
+            115.513291,
+            -8.529831
+          ],
+          "category": "natural",
+          "arrive_at": "13:27",
+          "stay_min": 55,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an dieser Landzunge mit atemberaubendem Meerblick, ideal zum Entspannen und für wunderschöne Fotos der rauen Küste.",
+            "hu": "Zárja sétáját ezen a panorámás fokon, amely lélegzetelállító kilátást nyújt az óceánra, és tökéletes a pihenéshez, valamint lenyűgöző fényképek készítéséhez.",
+            "ro": "Încheiați plimbarea pe acest promontoriu care oferă vederi uluitoare la ocean, ideal pentru relaxare și fotografii uimitoare ale coastei accidentate.",
+            "en": "End your walk at this panoramic headland which offers breathtaking ocean vistas, ideal for relaxing and taking stunning photographs of the rugged coastline."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der Erkundung versteckter Buchten und begrüßen Sie den Tag am Secret Beach.\n\nMittags besuchen Sie am besten die Tauchzentren und den belebten Hauptstrand.\n\nAm Nachmittag spazieren Sie den Hügel hinauf, um den heiligen Tempel Pura Silayukti zu besichtigen.\n\nBeenden Sie den Tag mit Schwimmen in der Blauen Lagune und am Sunrise Point.",
+        "hu": "Kezdje a reggelt a rejtett öblök felfedezésével és köszöntse a napot a Secret Beach-en.\n\nA delet a helyi búvárközpontok és az élénk fő strand felfedezésével érdemes tölteni.\n\nDélután sétáljon fel a dombra, és látogassa meg a szent Pura Silayukti templomot.\n\nZárja a napot úszással a Kék Lagúnában, és gyönyörködjön a Sunrise Point kilátásában.",
+        "ro": "Începeți dimineața explorând golfurile ascunse și întâmpinând ziua la Secret Beach.\n\nLa prânz, cel mai bine este să vizitați centrele de scufundări și plaja principală animată.\n\nDupă-amiaza, urcați pe deal pentru a vizita templul sacru Pura Silayukti.\n\nÎncheiați ziua înotând în Laguna Albastră și admirând priveliștile de la Sunrise Point.",
+        "en": "Start your morning exploring the hidden bays and welcoming the day at Secret Beach.\n\nMidday is best spent checking out the vibrant local dive centers and lively main beach.\n\nIn the afternoon, walk up the hill to visit the sacred Pura Silayukti temple.\n\nFinish the day swimming in the Blue Lagoon and soaking up the views at Sunrise Point."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:46",
+      "total_km": 5.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Munduk Ngandang",
+            "hu": "Munduk Ngandang",
+            "ro": "Munduk Ngandang",
+            "en": "Munduk Ngandang"
+          },
+          "coords": [
+            115.4986,
+            -8.5361
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses ruhige, hügelige Gebiet außerhalb der Stadt und genießen Sie die grüne Landschaft, ideal für eine ruhige morgendliche Fahrt.",
+            "hu": "Fedezze fel ezt a csendes dombos területet a városon kívül, hogy élvezze a zöld tájat, ami tökéletes egy nyugodt reggeli kerékpározáshoz a nyüzsgő kikötőtől távol.",
+            "ro": "Explorați această zonă deluroasă liniștită chiar în afara orașului pentru a vă bucura de peisaje verzi luxuriante, perfecte pentru o plimbare matinală.",
+            "en": "Explore this tranquil hilly area just outside the main town to enjoy lush green landscapes, perfect for a quiet morning ride away from the bustling harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Taru Agro Coffee",
+            "hu": "Taru Agro Coffee",
+            "ro": "Taru Agro Coffee",
+            "en": "Taru Agro Coffee"
+          },
+          "coords": [
+            115.490344,
+            -8.534245
+          ],
+          "category": "landmark",
+          "arrive_at": "09:41",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese authentische lokale Plantage, um biologisch angebauten Kaffee und Gewürze zu probieren; fragen Sie die Besitzer gerne nach einer kurzen Führung.",
+            "hu": "Álljon meg ezen az autentikus helyi ültetvényen, hogy megkóstolja a bio kávét és a fűszereket, és nyugodtan kérjen rövid idegenvezetést a barátságos tulajdonosoktól.",
+            "ro": "Opriți-vă la această plantație locală pentru a gusta cafea și condimente organice, și nu ezitați să le cereți proprietarilor un scurt tur ghidat.",
+            "en": "Stop by this authentic local plantation to sample organically grown coffee and spices, and don't hesitate to ask the friendly owners for a brief guided tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Secret beach sunrise",
+            "hu": "Secret beach sunrise",
+            "ro": "Secret beach sunrise",
+            "en": "Secret beach sunrise"
+          },
+          "coords": [
+            115.508762,
+            -8.536736
+          ],
+          "category": "natural",
+          "arrive_at": "10:53",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Lassen Sie hier die Atmosphäre auf sich wirken und genießen Sie den atemberaubenden Blick über das Meer, aber bringen Sie unbedingt Mückenspray mit.",
+            "hu": "Kezdje a túra ezen részét a rejtett öböl megtekintésével, de ne felejtsen el erős szúnyogriasztót hozni a trópusi növényzet miatt.",
+            "ro": "Bucurați-vă de atmosfera acestui golf ascuns pentru a vedea valurile, dar nu uitați să aduceți un spray puternic împotriva țânțarilor.",
+            "en": "Take a moment to relax at this hidden cove to watch the ocean waves crash ashore, but remember to bring strong mosquito repellent for the path."
+          }
+        },
+        {
+          "name": {
+            "de": "Padang Bai Beach",
+            "hu": "Padang Bai Beach",
+            "ro": "Padang Bai Beach",
+            "en": "Padang Bai Beach"
+          },
+          "coords": [
+            115.509984,
+            -8.530905
+          ],
+          "category": "recreational",
+          "arrive_at": "11:22",
+          "stay_min": 50,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Schlendern Sie am belebten Hauptstrand entlang, wo bunte Fischerboote anlegen, ein idealer Ort, um Bootstickets bei lokalen Anbietern zu buchen.",
+            "hu": "Sétáljon a nyüzsgő fő strandon, ahol színes halászhajók horgonyoznak, és kiváló hely a helyi árusoknál lévő hajójegyek megszervezéséhez.",
+            "ro": "Plimbați-vă de-a lungul plajei principale aglomerate, unde acostează bărci de pescari colorate, un loc excelent pentru a cumpăra bilete de barcă.",
+            "en": "Stroll along the bustling main beach where colorful fishing boats dock, offering a great spot to arrange your onward boat tickets with local vendors."
+          }
+        },
+        {
+          "name": {
+            "de": "Pura Silayukti",
+            "hu": "Pura Silayukti",
+            "ro": "Pura Silayukti",
+            "en": "Pura Silayukti"
+          },
+          "coords": [
+            115.513094,
+            -8.531166
+          ],
+          "category": "religious",
+          "arrive_at": "12:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie einen der ältesten hinduistischen Tempel Balis mit Blick auf das Meer und tragen Sie unbedingt einen Sarong, um die heiligen Stätten zu respektieren.",
+            "hu": "Látogasson el Bali egyik legrégebbi tengerre néző hindu templomába, és mindenképpen viseljen szarongot, hogy tiszteletben tartsa a szent területet.",
+            "ro": "Vizitați unul dintre cele mai vechi temple hinduse din Bali, cu vedere la mare, asigurându-vă că purtați un sarong pentru a respecta tradițiile sacre.",
+            "en": "Visit one of Bali's oldest Hindu temples overlooking the sea, making sure to wear a sarong and sash to respect the sacred temple grounds and customs."
+          }
+        },
+        {
+          "name": {
+            "de": "Tanjung Jepun snorkeling",
+            "hu": "Tanjung Jepun snorkeling",
+            "ro": "Tanjung Jepun snorkeling",
+            "en": "Tanjung Jepun snorkeling"
+          },
+          "coords": [
+            115.510503,
+            -8.520105
+          ],
+          "category": "landmark",
+          "arrive_at": "13:01",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Schwimmen Sie in diesen ruhigeren Gewässern, die für Schildkröten bekannt sind; am besten besuchen Sie diesen Ort bei morgendlicher Flut für optimale Sicht.",
+            "hu": "Ússzon ezekben a nyugodtabb vizekben, amelyek barátságos teknőseikről ismertek, és a legjobb látási viszonyok érdekében a reggeli dagály idején érdemes érkezni.",
+            "ro": "Înotați în aceste ape mai calme, renumite pentru broaștele țestoase și coralii sănătoși, cel mai bine vizitate în timpul fluxului de dimineață.",
+            "en": "Swim in these slightly calmer waters renowned for their friendly turtles and healthy coral, best enjoyed during the morning high tide for optimal visibility."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour in den ruhigen Hügeln von Munduk Ngandang für eine kühle Brise.\n\nMittags radeln Sie zum Taru Agro Coffee, um lokale Kaffeesorten zu probieren.\n\nVerbringen Sie den Nachmittag entlang der Küste am Secret Beach und im lebhaften Padang Bai.\n\nBeenden Sie Ihre Tour beim Schnorcheln nahe dem historischen Pura Silayukti und Tanjung Jepun.",
+        "hu": "Kezdje a kerékpártúrát a Munduk Ngandang békés dombjain, élvezve a hűvös reggeli szellőt.\n\nDélben tekerjen le a Taru Agro kávézóhoz, hogy megkóstolja a helyi főzeteket és fűszereket.\n\nDélután tekerjen a part mentén, felfedezve a Secret Beach-et és a nyüzsgő Padang Bai-t.\n\nFejezze be a napot sznorkelezéssel a történelmi Pura Silayukti és Tanjung Jepun közelében.",
+        "ro": "Începeți turul cu bicicleta în dealurile liniștite din Munduk Ngandang pentru briza răcoroasă.\n\nLa prânz, pedalați până la Taru Agro Coffee pentru o degustare de cafea locală.\n\nPetreceți după-amiaza mergând de-a lungul coastei, descoperind Secret Beach și Padang Bai.\n\nÎncheiați-vă călătoria făcând snorkeling lângă istoricul Pura Silayukti și Tanjung Jepun.",
+        "en": "Kick off your bike tour in the tranquil hills of Munduk Ngandang to catch the cool morning breeze.\n\nBy midday, pedal down to Taru Agro Coffee for a refreshing local brew and spice tasting.\n\nSpend your afternoon riding along the coast, discovering Secret Beach and the vibrant Padang Bai.\n\nConclude your cycling trip with sunset snorkeling near the historic Pura Silayukti and Tanjung Jepun."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:23",
+      "total_km": 7.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Munduk Kaputan",
+            "hu": "Munduk Kaputan",
+            "ro": "Munduk Kaputan",
+            "en": "Munduk Kaputan"
+          },
+          "coords": [
+            115.4836,
+            -8.5192
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem hochgelegenen Aussichtspunkt, um das weite Panorama traditioneller balinesischer Dörfer zu genießen, ein idealer Ort für tolle Fotos.",
+            "hu": "Vezessen ki ehhez a magaslati kilátóhoz, ahonnan elsöprő panoráma nyílik a hagyományos balinéz falvakra, és kiváló hely egy kis nyújtózkodásra.",
+            "ro": "Conduceți până la acest punct de belvedere înalt pentru a admira panoramele ample ale satelor tradiționale, un loc minunat pentru fotografii spectaculoase.",
+            "en": "Drive out to this elevated viewpoint to take in the sweeping panoramas of traditional Balinese villages, a great spot to stretch your legs and take photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Munduk Ceeng",
+            "hu": "Munduk Ceeng",
+            "ro": "Munduk Ceeng",
+            "en": "Munduk Ceeng"
+          },
+          "coords": [
+            115.4857,
+            -8.5362
+          ],
+          "category": "landmark",
+          "arrive_at": "09:39",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die üppige Vegetation rund um dieses ruhige Wahrzeichen, wo Sie lokale Bauern bei der Arbeit in einer authentischen Umgebung beobachten können.",
+            "hu": "Sétáljon a nyugodt nevezetességet körülvevő buja növényzetben, ahol teljesen autentikus környezetben figyelheti meg a helyi gazdákat, amint a termésüket gondozzák.",
+            "ro": "Plimbați-vă prin vegetația luxuriantă care înconjoară acest punct de reper, unde puteți observa fermierii locali îngrijindu-și culturile într-un cadru autentic.",
+            "en": "Wander through the lush vegetation surrounding this serene landmark, where you can observe local farmers tending to their crops in a completely authentic setting."
+          }
+        },
+        {
+          "name": {
+            "de": "Munduk Catu",
+            "hu": "Munduk Catu",
+            "ro": "Munduk Catu",
+            "en": "Munduk Catu"
+          },
+          "coords": [
+            115.4893,
+            -8.5365
+          ],
+          "category": "landmark",
+          "arrive_at": "10:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses versteckte Juwel in den Hügeln, das eine kühle Pause von der Hitze der Küste und die Chance bietet, die unberührte Natur zu sehen.",
+            "hu": "Fedezze fel ezt a dombok között megbúvó rejtett gyöngyszemet, amely hűvös felüdülést kínál a tengerparti hőségből, és csodálatos lehetőséget a természet megfigyelésére.",
+            "ro": "Descoperiți această bijuterie ascunsă în dealuri, oferind un răgaz răcoros de la căldura coastei și o oportunitate minunată de a vedea natura neatinsă.",
+            "en": "Discover this hidden gem nestled in the hills, offering a cool respite from the coastal heat and a wonderful opportunity to see the island's untouched nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Taru Agro Coffee",
+            "hu": "Taru Agro Coffee",
+            "ro": "Taru Agro Coffee",
+            "en": "Taru Agro Coffee"
+          },
+          "coords": [
+            115.490344,
+            -8.534245
+          ],
+          "category": "landmark",
+          "arrive_at": "10:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese authentische lokale Plantage, um biologisch angebauten Kaffee und Gewürze zu probieren; fragen Sie die Besitzer gerne nach einer kurzen Führung.",
+            "hu": "Álljon meg ezen az autentikus helyi ültetvényen, hogy megkóstolja a bio kávét és a fűszereket, és nyugodtan kérjen rövid idegenvezetést a barátságos tulajdonosoktól.",
+            "ro": "Opriți-vă la această plantație locală pentru a gusta cafea și condimente organice, și nu ezitați să le cereți proprietarilor un scurt tur ghidat.",
+            "en": "Stop by this authentic local plantation to sample organically grown coffee and spices, and don't hesitate to ask the friendly owners for a brief guided tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Tanjung Jepun snorkeling",
+            "hu": "Tanjung Jepun snorkeling",
+            "ro": "Tanjung Jepun snorkeling",
+            "en": "Tanjung Jepun snorkeling"
+          },
+          "coords": [
+            115.510503,
+            -8.520105
+          ],
+          "category": "landmark",
+          "arrive_at": "11:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Schwimmen Sie in diesen ruhigeren Gewässern, die für Schildkröten bekannt sind; am besten besuchen Sie diesen Ort bei morgendlicher Flut für optimale Sicht.",
+            "hu": "Ússzon ezekben a nyugodtabb vizekben, amelyek barátságos teknőseikről ismertek, és a legjobb látási viszonyok érdekében a reggeli dagály idején érdemes érkezni.",
+            "ro": "Înotați în aceste ape mai calme, renumite pentru broaștele țestoase și coralii sănătoși, cel mai bine vizitate în timpul fluxului de dimineață.",
+            "en": "Swim in these slightly calmer waters renowned for their friendly turtles and healthy coral, best enjoyed during the morning high tide for optimal visibility."
+          }
+        },
+        {
+          "name": {
+            "de": "Pura Silayukti",
+            "hu": "Pura Silayukti",
+            "ro": "Pura Silayukti",
+            "en": "Pura Silayukti"
+          },
+          "coords": [
+            115.513094,
+            -8.531166
+          ],
+          "category": "religious",
+          "arrive_at": "12:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie einen der ältesten hinduistischen Tempel Balis mit Blick auf das Meer und tragen Sie unbedingt einen Sarong, um die heiligen Stätten zu respektieren.",
+            "hu": "Látogasson el Bali egyik legrégebbi tengerre néző hindu templomába, és mindenképpen viseljen szarongot, hogy tiszteletben tartsa a szent területet.",
+            "ro": "Vizitați unul dintre cele mai vechi temple hinduse din Bali, cu vedere la mare, asigurându-vă că purtați un sarong pentru a respecta tradițiile sacre.",
+            "en": "Visit one of Bali's oldest Hindu temples overlooking the sea, making sure to wear a sarong and sash to respect the sacred temple grounds and customs."
+          }
+        },
+        {
+          "name": {
+            "de": "Blue Lagoon snorkeling",
+            "hu": "Blue Lagoon snorkeling",
+            "ro": "Blue Lagoon snorkeling",
+            "en": "Blue Lagoon snorkeling"
+          },
+          "coords": [
+            115.5142,
+            -8.53034
+          ],
+          "category": "landmark",
+          "arrive_at": "13:38",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das kristallklare Wasser der Blauen Lagune ein, um das bunte Meeresleben zu beobachten; bringen Sie am besten Ihre eigene Schnorchelausrüstung mit.",
+            "hu": "Merüljön el a Kék Lagúna kristálytiszta vizében, hogy megcsodálja a tengeri élővilágot, de hozza magával saját felszerelését, hogy spóroljon a bérlésen.",
+            "ro": "Scufundați-vă în apele cristaline ale Lagunei Albastre pentru a vedea viața marină, dar aduceți propriul echipament de snorkeling pentru a economisi bani.",
+            "en": "Dive into the crystal-clear waters of the Blue Lagoon to spot vibrant marine life, but bring your own snorkeling gear to save on rental costs at the beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Roadtrip beginnt mit einem atemberaubenden Panoramablick vom hochgelegenen Munduk Kaputan.\n\nGegen Mittag fahren Sie durch die üppige Landschaft zwischen Munduk Ceeng und Munduk Catu.\n\nGenießen Sie am Nachmittag einen Kaffee bei Taru Agro, bevor Sie zur Küste aufbrechen.\n\nLassen Sie den Tag am Pura Silayukti und beim Schnorcheln an der wunderschönen Blauen Lagune ausklingen.",
+        "hu": "Autós utazása a magaslati Munduk Kaputan lélegzetelállító panorámájával kezdődik.\n\nA dél közeledtével haladjon át a Munduk Ceeng és Munduk Catu közötti buja tájakon.\n\nÉlvezze a délutáni kávészünetet a Taru Agróban, mielőtt Tanjung Jepun partjaihoz indulna.\n\nZárja a napot a Pura Silayukti meglátogatásával és a Kék Lagúna gyönyörű koralljainak megtekintésével.",
+        "ro": "Călătoria dumneavoastră începe cu priveliști panoramice uluitoare de la Munduk Kaputan.\n\nSpre prânz, conduceți prin peisajele luxuriante care leagă Munduk Ceeng și Munduk Catu.\n\nBucurați-vă de o pauză de cafea de după-amiază la Taru Agro înainte de a merge pe coastă.\n\nÎncheiați ziua vizitând Pura Silayukti și făcând snorkeling în superba Lagună Albastră.",
+        "en": "Your road trip begins with breathtaking panoramic views from the elevated Munduk Kaputan.\n\nAs midday approaches, drive through the lush landscapes connecting Munduk Ceeng and Munduk Catu.\n\nEnjoy an afternoon coffee break at Taru Agro before heading to the coastal waters of Tanjung Jepun.\n\nWrap up the day visiting Pura Silayukti and snorkeling the beautiful corals at the Blue Lagoon."
+      }
+    }
+  }
+}

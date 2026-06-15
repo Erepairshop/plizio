@@ -1,0 +1,474 @@
+{
+  "city_id": "france-suartone-cities-v2",
+  "anchor": {
+    "name": "Suartone",
+    "coords": [
+      9.25226,
+      41.48392
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:54",
+      "total_km": 2.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "La Rondinara",
+            "hu": "La Rondinara",
+            "ro": "La Rondinara",
+            "en": "La Rondinara"
+          },
+          "coords": [
+            9.260549,
+            41.473337
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die übergreifende Schönheit der berühmten muschelförmigen Bucht von diesem Aussichtspunkt aus und kommen Sie früh, um sich einen guten Platz vor dem Ansturm zu sichern.",
+            "hu": "Fedezze fel a híres kagyló alakú öböl lenyűgöző szépségét ebből a kilátópontból, és érkezzen korán, hogy jó helyet biztosítson magának a nappali tömeg előtt.",
+            "ro": "Descoperiți frumusețea copleșitoare a faimosului golf în formă de scoică din acest punct de observație și ajungeți devreme pentru a prinde un loc bun înainte de aglomerația zilei.",
+            "en": "Discover the overarching beauty of the famous shell-shaped bay from this vantage point, which provides a stunning backdrop, and arrive early to secure a good spot before the daytime crowds gather."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Terrasses de Rondinara",
+            "hu": "Les Terrasses de Rondinara",
+            "ro": "Les Terrasses de Rondinara",
+            "en": "Les Terrasses de Rondinara"
+          },
+          "coords": [
+            9.267066,
+            41.476968
+          ],
+          "category": "landmark",
+          "arrive_at": "09:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesen natürlichen Terrassen aus das atemberaubende Panorama über das türkisfarbene Wasser, ein idealer Ort für Landschaftsfotografie, vergessen Sie also Ihr Weitwinkelobjektiv nicht.",
+            "hu": "Élvezze a türkizkék vizekre nyíló lélegzetelállító panorámát ezekről a természetes teraszokról, amely tökéletes helyszín a tájfotózáshoz, így ne felejtsen el nagylátószögű objektívet hozni.",
+            "ro": "Admirați panorama uluitoare asupra apelor turcoaz de pe aceste terase naturale, locația perfectă pentru fotografia de peisaj, așa că nu uitați să aduceți un obiectiv cu unghi larg.",
+            "en": "Take in the elevated, breathtaking panorama over the turquoise waters from these natural terraces, making it the perfect location for landscape photography, so remember to bring a wide-angle lens."
+          }
+        },
+        {
+          "name": {
+            "de": "Rondinara",
+            "hu": "Rondinara",
+            "ro": "Rondinara",
+            "en": "Rondinara"
+          },
+          "coords": [
+            9.271733,
+            41.472463
+          ],
+          "category": "recreational",
+          "arrive_at": "10:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie das ruhige, flache Wasser und den feinen Sand dieses begehrten Küstenstreifens, der sehr sicher zum Schwimmen ist; packen Sie leichte Snacks und einen Sonnenschirm für maximalen Komfort ein.",
+            "hu": "Élvezze ennek a rendkívül keresett partszakasznak a nyugodt, sekély vizét és finom homokját, amely kiválóan alkalmas úszásra, ezért érdemes könnyű rágcsálnivalókat és napernyőt hozni.",
+            "ro": "Bucurați-vă de apele calme, puțin adânci și de nisipul fin al acestei porțiuni de coastă, excepțional de sigură pentru înot, fiind ideal să aduceți gustări ușoare și o umbrelă de soare.",
+            "en": "Enjoy the calm, shallow waters and fine sand of this highly sought-after coastal stretch, which is exceptionally safe for swimming, making it ideal to pack light snacks and a sun umbrella for maximum comfort."
+          }
+        },
+        {
+          "name": {
+            "de": "Baie de Rondinara",
+            "hu": "Baie de Rondinara",
+            "ro": "Baie de Rondinara",
+            "en": "Baie de Rondinara"
+          },
+          "coords": [
+            9.269458,
+            41.469632
+          ],
+          "category": "landmark",
+          "arrive_at": "11:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie an der sanft geschwungenen Küste dieser international bekannten Bucht entlang, die für ihre perfekte Sichelform bewundert wird, und mieten Sie ein Kajak, um die geschützten Gewässer zu erkunden.",
+            "hu": "Sétáljon végig a nemzetközileg is ismert öböl finoman ívelt partvonalán, amely tökéletes félhold alakjáról híres, és fontolja meg egy kajak bérlését a védett, kristálytiszta vizek felfedezéséhez.",
+            "ro": "Plimbați-vă de-a lungul țărmului curbat al acestui golf recunoscut internațional pentru forma sa perfectă de semilună și închiriați un caiac pentru a-i explora perimetrul protejat, cu ape limpezi.",
+            "en": "Walk along the gently curving shoreline of this internationally renowned bay, admired for its perfect crescent shape, and consider renting a kayak nearby to explore its sheltered, crystal-clear perimeter."
+          }
+        },
+        {
+          "name": {
+            "de": "Beach Rondinara",
+            "hu": "Beach Rondinara",
+            "ro": "Beach Rondinara",
+            "en": "Beach Rondinara"
+          },
+          "coords": [
+            9.26682,
+            41.469062
+          ],
+          "category": "landmark",
+          "arrive_at": "12:09",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem spektakulären weißen Sandstrand mit herrlich warmem Wasser und sichern Sie sich einen Platz in der Nähe der südlichen Felsen, wenn Sie zwischen den Fischen schnorcheln möchten.",
+            "hu": "Lazítson ezen a látványos fehér homokos strandon, ahol a víz kellemesen meleg, és keressen egy helyet a déli sziklák közelében, ha sznorkelezni szeretne a kis halak között.",
+            "ro": "Relaxați-vă complet pe această plajă spectaculoasă cu nisip alb, unde apa este caldă, și asigurați-vă un loc lângă stâncile din sud dacă doriți să faceți snorkeling printre pești.",
+            "en": "Unwind completely on the main stretch of this spectacular white-sand beach where the water is delightfully warm, and secure a spot near the southern rocks if you wish to snorkel among the small fish."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit einer malerischen Wanderung in Richtung Rondinara und genießen Sie die sanfte Küstenbrise.\n\nGegen Mittag schlendern Sie an den terrassenförmigen Aussichtspunkten vorbei und bewundern den Panoramablick.\n\nVerbringen Sie den Nachmittag damit, die unberührten Sandstrände und Felsvorsprünge der natürlichen Erholungsgebiete zu erkunden.\n\nAm Abend entspannen Sie am Hauptstrand und lauschen dem Rauschen der Wellen.",
+        "hu": "Kezdje a reggelt egy festői túrával a híres Rondinara öböl felé, élvezve a lágy parti szellőt.\n\nDélben sétáljon el a teraszos kilátók mellett, ahonnan látványos panoráma nyílik a türkizkék öbölre.\n\nA délutánt az érintetlen homokos partok és sziklás képződmények felfedezésével töltheti.\n\nAhogy közeledik az este, lazítson teljesen a fő strandon, hallgatva a Földközi-tenger hullámainak csobogását.",
+        "ro": "Începeți dimineața cu o drumeție pitorească spre faimoasa zonă Rondinara, bucurându-vă de briza blândă.\n\nLa prânz, plimbați-vă pe lângă punctele de belvedere terasate, admirând panorama spectaculoasă a golfului turcoaz.\n\nPetreceți după-amiaza explorând nisipurile imaculate și formațiunile stâncoase ale locurilor de agrement.\n\nPe măsură ce se lasă seara, relaxați-vă pe plaja principală, ascultând valurile Mediteranei.",
+        "en": "Start your morning with a scenic hike towards the famous Rondinara area, enjoying the gentle coastal breeze.\n\nBy midday, wander past the terraced viewpoints, taking in spectacular panoramic views of the turquoise bay.\n\nSpend the afternoon exploring the pristine sands and rocky outcrops of the natural recreational spots.\n\nAs evening approaches, relax completely on the main beach, listening to the gentle lapping of the Mediterranean waves."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:02",
+      "total_km": 4.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Réserve naturelle des Tre Padule de Suartone",
+            "hu": "Réserve naturelle des Tre Padule de Suartone",
+            "ro": "Réserve naturelle des Tre Padule de Suartone",
+            "en": "Réserve naturelle des Tre Padule de Suartone"
+          },
+          "coords": [
+            9.242165,
+            41.464626
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses geschützte Feuchtgebietsökosystem, das für seine temporären Tümpel und seltene endemische Flora bekannt ist, aber tragen Sie unbedingt festes Schuhwerk und bleiben Sie auf den markierten Wegen.",
+            "hu": "Fedezze fel ezt a védett vizes élőhelyet, amely időszakos medencéiről és ritka endemikus növényvilágáról ismert, de mindenképpen viseljen masszív cipőt és maradjon a kijelölt ösvényeken.",
+            "ro": "Explorați acest ecosistem umed protejat, cunoscut pentru bazinele sale temporare și flora endemică rară, dar asigurați-vă că purtați încălțăminte solidă și rămâneți pe potecile marcate.",
+            "en": "Explore this protected wetland ecosystem known for its temporary pools and rare endemic flora, but be sure to wear sturdy shoes and stay strictly on the marked paths to protect the delicate environment."
+          }
+        },
+        {
+          "name": {
+            "de": "La Rondinara",
+            "hu": "La Rondinara",
+            "ro": "La Rondinara",
+            "en": "La Rondinara"
+          },
+          "coords": [
+            9.260549,
+            41.473337
+          ],
+          "category": "landmark",
+          "arrive_at": "10:36",
+          "stay_min": 25,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die übergreifende Schönheit der berühmten muschelförmigen Bucht von diesem Aussichtspunkt aus und kommen Sie früh, um sich einen guten Platz vor dem Ansturm zu sichern.",
+            "hu": "Fedezze fel a híres kagyló alakú öböl lenyűgöző szépségét ebből a kilátópontból, és érkezzen korán, hogy jó helyet biztosítson magának a nappali tömeg előtt.",
+            "ro": "Descoperiți frumusețea copleșitoare a faimosului golf în formă de scoică din acest punct de observație și ajungeți devreme pentru a prinde un loc bun înainte de aglomerația zilei.",
+            "en": "Discover the overarching beauty of the famous shell-shaped bay from this vantage point, which provides a stunning backdrop, and arrive early to secure a good spot before the daytime crowds gather."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Terrasses de Rondinara",
+            "hu": "Les Terrasses de Rondinara",
+            "ro": "Les Terrasses de Rondinara",
+            "en": "Les Terrasses de Rondinara"
+          },
+          "coords": [
+            9.267066,
+            41.476968
+          ],
+          "category": "landmark",
+          "arrive_at": "11:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesen natürlichen Terrassen aus das atemberaubende Panorama über das türkisfarbene Wasser, ein idealer Ort für Landschaftsfotografie, vergessen Sie also Ihr Weitwinkelobjektiv nicht.",
+            "hu": "Élvezze a türkizkék vizekre nyíló lélegzetelállító panorámát ezekről a természetes teraszokról, amely tökéletes helyszín a tájfotózáshoz, így ne felejtsen el nagylátószögű objektívet hozni.",
+            "ro": "Admirați panorama uluitoare asupra apelor turcoaz de pe aceste terase naturale, locația perfectă pentru fotografia de peisaj, așa că nu uitați să aduceți un obiectiv cu unghi larg.",
+            "en": "Take in the elevated, breathtaking panorama over the turquoise waters from these natural terraces, making it the perfect location for landscape photography, so remember to bring a wide-angle lens."
+          }
+        },
+        {
+          "name": {
+            "de": "Rondinara",
+            "hu": "Rondinara",
+            "ro": "Rondinara",
+            "en": "Rondinara"
+          },
+          "coords": [
+            9.271733,
+            41.472463
+          ],
+          "category": "recreational",
+          "arrive_at": "11:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie das ruhige, flache Wasser und den feinen Sand dieses begehrten Küstenstreifens, der sehr sicher zum Schwimmen ist; packen Sie leichte Snacks und einen Sonnenschirm für maximalen Komfort ein.",
+            "hu": "Élvezze ennek a rendkívül keresett partszakasznak a nyugodt, sekély vizét és finom homokját, amely kiválóan alkalmas úszásra, ezért érdemes könnyű rágcsálnivalókat és napernyőt hozni.",
+            "ro": "Bucurați-vă de apele calme, puțin adânci și de nisipul fin al acestei porțiuni de coastă, excepțional de sigură pentru înot, fiind ideal să aduceți gustări ușoare și o umbrelă de soare.",
+            "en": "Enjoy the calm, shallow waters and fine sand of this highly sought-after coastal stretch, which is exceptionally safe for swimming, making it ideal to pack light snacks and a sun umbrella for maximum comfort."
+          }
+        },
+        {
+          "name": {
+            "de": "Baie de Rondinara",
+            "hu": "Baie de Rondinara",
+            "ro": "Baie de Rondinara",
+            "en": "Baie de Rondinara"
+          },
+          "coords": [
+            9.269458,
+            41.469632
+          ],
+          "category": "landmark",
+          "arrive_at": "12:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie an der sanft geschwungenen Küste dieser international bekannten Bucht entlang, die für ihre perfekte Sichelform bewundert wird, und mieten Sie ein Kajak, um die geschützten Gewässer zu erkunden.",
+            "hu": "Sétáljon végig a nemzetközileg is ismert öböl finoman ívelt partvonalán, amely tökéletes félhold alakjáról híres, és fontolja meg egy kajak bérlését a védett, kristálytiszta vizek felfedezéséhez.",
+            "ro": "Plimbați-vă de-a lungul țărmului curbat al acestui golf recunoscut internațional pentru forma sa perfectă de semilună și închiriați un caiac pentru a-i explora perimetrul protejat, cu ape limpezi.",
+            "en": "Walk along the gently curving shoreline of this internationally renowned bay, admired for its perfect crescent shape, and consider renting a kayak nearby to explore its sheltered, crystal-clear perimeter."
+          }
+        },
+        {
+          "name": {
+            "de": "Beach Rondinara",
+            "hu": "Beach Rondinara",
+            "ro": "Beach Rondinara",
+            "en": "Beach Rondinara"
+          },
+          "coords": [
+            9.26682,
+            41.469062
+          ],
+          "category": "landmark",
+          "arrive_at": "13:17",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem spektakulären weißen Sandstrand mit herrlich warmem Wasser und sichern Sie sich einen Platz in der Nähe der südlichen Felsen, wenn Sie zwischen den Fischen schnorcheln möchten.",
+            "hu": "Lazítson ezen a látványos fehér homokos strandon, ahol a víz kellemesen meleg, és keressen egy helyet a déli sziklák közelében, ha sznorkelezni szeretne a kis halak között.",
+            "ro": "Relaxați-vă complet pe această plajă spectaculoasă cu nisip alb, unde apa este caldă, și asigurați-vă un loc lângă stâncile din sud dacă doriți să faceți snorkeling printre pești.",
+            "en": "Unwind completely on the main stretch of this spectacular white-sand beach where the water is delightfully warm, and secure a spot near the southern rocks if you wish to snorkel among the small fish."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour im einzigartigen Naturschutzgebiet und bewundern Sie die seltene lokale Flora im Morgenlicht.\n\nFahren Sie am Mittag zu den Wahrzeichen von Rondinara und fotografieren Sie die muschelförmige Bucht.\n\nAm Nachmittag radeln Sie entlang der Küstenwege und spüren die erfrischende Meeresluft.\n\nLassen Sie Ihren aktiven Tag am berühmten Strand ausklingen, während die Sonne langsam untergeht.",
+        "hu": "Kezdje kerékpártúráját az egyedülálló természetvédelmi területen, csodálva a ritka helyi növényvilágot a reggeli fényben.\n\nDélben tekerjen a Rondinara nevezetességei felé, megállva fotózni a kagyló alakú öblöt.\n\nDélután kerekezzen a part menti rekreációs ösvényeken, érezve a frissítő tengeri levegőt.\n\nZárja aktív napját a legendás strandon pihenve, miközben a nap a horizont alá bukik.",
+        "ro": "Începeți turul cu bicicleta la rezervația naturală, admirând flora locală rară în lumina dimineții.\n\nMergeți spre atracțiile din Rondinara la prânz, oprindu-vă pentru a fotografia golful în formă de scoică.\n\nDupă-amiaza, pedalați pe cărările de coastă, simțind aerul proaspăt al mării.\n\nÎncheiați ziua activă relaxându-vă pe plaja emblematică, în timp ce soarele începe să apună la orizont.",
+        "en": "Kick off your cycling tour at the unique nature reserve, admiring the rare local flora in the morning light.\n\nRide towards the Rondinara landmarks midday, pausing to capture stunning photos of the shell-shaped bay.\n\nIn the afternoon, pedal along the recreational coastal paths, feeling the refreshing sea air.\n\nWrap up your active day by unwinding on the iconic beach as the sun begins to set over the horizon."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:16",
+      "total_km": 8.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plage de Porto-Novo",
+            "hu": "Plage de Porto-Novo",
+            "ro": "Plage de Porto-Novo",
+            "en": "Plage de Porto-Novo"
+          },
+          "coords": [
+            9.268227,
+            41.499757
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie absolute Ruhe in dieser unberührten, unbebauten Bucht, die nur über einen holprigen Weg oder mit dem Boot erreichbar ist. Tragen Sie daher unbedingt festes Schuhwerk für die Wanderung.",
+            "hu": "Fedezze fel a tökéletes nyugalmat ebben az érintetlen, csak földúton vagy hajóval megközelíthető öbölben, ami miatt elengedhetetlen a megfelelő túracipő viselése, ha gyalogol le a partra.",
+            "ro": "Descoperiți liniștea absolută în acest golf imaculat, accesibil doar pe un drum accidentat sau cu barca, fiind esențial să purtați încălțăminte de drumeție dacă alegeți să coborâți la țărm.",
+            "en": "Discover absolute tranquility at this pristine, undeveloped cove accessible only by a rough track or boat, making it essential to wear proper walking shoes if you decide to hike down to its shores."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Carpiccia",
+            "hu": "Plage de Carpiccia",
+            "ro": "Plage de Carpiccia",
+            "en": "Plage de Carpiccia"
+          },
+          "coords": [
+            9.276392,
+            41.495515
+          ],
+          "category": "recreational",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Touristenmassen, indem Sie diesen etwas wilderen, ruhigen Strand an der Küste besuchen, aber denken Sie daran, eigenes Trinkwasser und einen Sonnenschutz mitzubringen, da es kaum Einrichtungen gibt.",
+            "hu": "Kerülje el a nagy turistatömeget ezen a kicsit vadabb, nyugodt tengerparti részen, de vegye figyelembe, hogy a szolgáltatások minimálisak, ezért hozzon magával ivóvizet és árnyékolót.",
+            "ro": "Scăpați de aglomerația turistică vizitând această plajă puțin mai sălbatică și senină, dar rețineți că facilitățile sunt minime, așa că trebuie să aduceți propria apă de băut și umbră.",
+            "en": "Escape the main tourist crowds by visiting this slightly wilder, serene beach tucked away on the coast, but be aware that facilities are minimal, so you must bring your own drinking water and shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Réserve naturelle des Tre Padule de Suartone",
+            "hu": "Réserve naturelle des Tre Padule de Suartone",
+            "ro": "Réserve naturelle des Tre Padule de Suartone",
+            "en": "Réserve naturelle des Tre Padule de Suartone"
+          },
+          "coords": [
+            9.242165,
+            41.464626
+          ],
+          "category": "natural",
+          "arrive_at": "11:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses geschützte Feuchtgebietsökosystem, das für seine temporären Tümpel und seltene endemische Flora bekannt ist, aber tragen Sie unbedingt festes Schuhwerk und bleiben Sie auf den markierten Wegen.",
+            "hu": "Fedezze fel ezt a védett vizes élőhelyet, amely időszakos medencéiről és ritka endemikus növényvilágáról ismert, de mindenképpen viseljen masszív cipőt és maradjon a kijelölt ösvényeken.",
+            "ro": "Explorați acest ecosistem umed protejat, cunoscut pentru bazinele sale temporare și flora endemică rară, dar asigurați-vă că purtați încălțăminte solidă și rămâneți pe potecile marcate.",
+            "en": "Explore this protected wetland ecosystem known for its temporary pools and rare endemic flora, but be sure to wear sturdy shoes and stay strictly on the marked paths to protect the delicate environment."
+          }
+        },
+        {
+          "name": {
+            "de": "La Rondinara",
+            "hu": "La Rondinara",
+            "ro": "La Rondinara",
+            "en": "La Rondinara"
+          },
+          "coords": [
+            9.260549,
+            41.473337
+          ],
+          "category": "landmark",
+          "arrive_at": "13:12",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die übergreifende Schönheit der berühmten muschelförmigen Bucht von diesem Aussichtspunkt aus und kommen Sie früh, um sich einen guten Platz vor dem Ansturm zu sichern.",
+            "hu": "Fedezze fel a híres kagyló alakú öböl lenyűgöző szépségét ebből a kilátópontból, és érkezzen korán, hogy jó helyet biztosítson magának a nappali tömeg előtt.",
+            "ro": "Descoperiți frumusețea copleșitoare a faimosului golf în formă de scoică din acest punct de observație și ajungeți devreme pentru a prinde un loc bun înainte de aglomerația zilei.",
+            "en": "Discover the overarching beauty of the famous shell-shaped bay from this vantage point, which provides a stunning backdrop, and arrive early to secure a good spot before the daytime crowds gather."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Terrasses de Rondinara",
+            "hu": "Les Terrasses de Rondinara",
+            "ro": "Les Terrasses de Rondinara",
+            "en": "Les Terrasses de Rondinara"
+          },
+          "coords": [
+            9.267066,
+            41.476968
+          ],
+          "category": "landmark",
+          "arrive_at": "13:39",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesen natürlichen Terrassen aus das atemberaubende Panorama über das türkisfarbene Wasser, ein idealer Ort für Landschaftsfotografie, vergessen Sie also Ihr Weitwinkelobjektiv nicht.",
+            "hu": "Élvezze a türkizkék vizekre nyíló lélegzetelállító panorámát ezekről a természetes teraszokról, amely tökéletes helyszín a tájfotózáshoz, így ne felejtsen el nagylátószögű objektívet hozni.",
+            "ro": "Admirați panorama uluitoare asupra apelor turcoaz de pe aceste terase naturale, locația perfectă pentru fotografia de peisaj, așa că nu uitați să aduceți un obiectiv cu unghi larg.",
+            "en": "Take in the elevated, breathtaking panorama over the turquoise waters from these natural terraces, making it the perfect location for landscape photography, so remember to bring a wide-angle lens."
+          }
+        },
+        {
+          "name": {
+            "de": "Baie de Rondinara",
+            "hu": "Baie de Rondinara",
+            "ro": "Baie de Rondinara",
+            "en": "Baie de Rondinara"
+          },
+          "coords": [
+            9.269458,
+            41.469632
+          ],
+          "category": "landmark",
+          "arrive_at": "14:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie an der sanft geschwungenen Küste dieser international bekannten Bucht entlang, die für ihre perfekte Sichelform bewundert wird, und mieten Sie ein Kajak, um die geschützten Gewässer zu erkunden.",
+            "hu": "Sétáljon végig a nemzetközileg is ismert öböl finoman ívelt partvonalán, amely tökéletes félhold alakjáról híres, és fontolja meg egy kajak bérlését a védett, kristálytiszta vizek felfedezéséhez.",
+            "ro": "Plimbați-vă de-a lungul țărmului curbat al acestui golf recunoscut internațional pentru forma sa perfectă de semilună și închiriați un caiac pentru a-i explora perimetrul protejat, cu ape limpezi.",
+            "en": "Walk along the gently curving shoreline of this internationally renowned bay, admired for its perfect crescent shape, and consider renting a kayak nearby to explore its sheltered, crystal-clear perimeter."
+          }
+        },
+        {
+          "name": {
+            "de": "Beach Rondinara",
+            "hu": "Beach Rondinara",
+            "ro": "Beach Rondinara",
+            "en": "Beach Rondinara"
+          },
+          "coords": [
+            9.26682,
+            41.469062
+          ],
+          "category": "landmark",
+          "arrive_at": "14:31",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem spektakulären weißen Sandstrand mit herrlich warmem Wasser und sichern Sie sich einen Platz in der Nähe der südlichen Felsen, wenn Sie zwischen den Fischen schnorcheln möchten.",
+            "hu": "Lazítson ezen a látványos fehér homokos strandon, ahol a víz kellemesen meleg, és keressen egy helyet a déli sziklák közelében, ha sznorkelezni szeretne a kis halak között.",
+            "ro": "Relaxați-vă complet pe această plajă spectaculoasă cu nisip alb, unde apa este caldă, și asigurați-vă un loc lângă stâncile din sud dacă doriți să faceți snorkeling printre pești.",
+            "en": "Unwind completely on the main stretch of this spectacular white-sand beach where the water is delightfully warm, and secure a spot near the southern rocks if you wish to snorkel among the small fish."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens in den Norden, um den abgelegenen Strand Porto-Novo zu entdecken, ideal für ruhige Momente.\n\nZur Mittagszeit besuchen Sie Carpiccia und das üppige Naturschutzgebiet mit seinen vielfältigen Landschaften.\n\nAm Nachmittag fahren Sie entlang der Küste und halten an den erhöhten Terrassen für atemberaubende Ausblicke.\n\nBeenden Sie Ihre Reise am majestätischen Strand Rondinara und genießen Sie den Abend am Meer.",
+        "hu": "Kora reggel induljon északra, hogy felfedezze az eldugott Porto-Novo strandot, amely tökéletes a csendes elmélkedésre.\n\nDélben a Carpiccia és a buja természetvédelmi terület felé veszi az irányt, változatos tájakat kínálva.\n\nA délutáni autózás a drámai partvonalat követi, megállva a magaslati teraszoknál a lenyűgöző kilátásért.\n\nUtazását a fenséges Rondinara strand közelében fejezze be, élvezve a csodás tengerparti estét.",
+        "ro": "Conduceți spre nord dimineața devreme pentru a descoperi plaja izolată Porto-Novo, perfectă pentru liniște.\n\nLa prânz ajungeți la Carpiccia și la rezervația naturală, bucurându-vă de peisaje diverse.\n\nDupă-amiaza, excursia urmează coasta dramatică, cu opriri la terasele înalte pentru priveliști uimitoare ale golfului.\n\nÎncheiați călătoria parcând lângă maiestuoasa plajă Rondinara, savurând o seară spectaculoasă la malul mării.",
+        "en": "Drive north first thing in the morning to discover the secluded Porto-Novo beach, perfect for quiet reflection.\n\nMidday brings you down to Carpiccia and the lush nature reserve, offering diverse landscapes from sand to wetlands.\n\nYour afternoon road trip hugs the dramatic coastline, stopping at the elevated terraces for breathtaking bay views.\n\nEnd your journey parked near the majestic Beach Rondinara, enjoying a spectacular evening by the sea."
+      }
+    }
+  }
+}

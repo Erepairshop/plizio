@@ -1,0 +1,474 @@
+{
+  "city_id": "portugal-porto-covo-cities-v2",
+  "anchor": {
+    "name": "Porto Covo",
+    "coords": [
+      -8.79184,
+      37.85173
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:41",
+      "total_km": 1.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Igreja de Nossa Senhora da Soledade",
+            "hu": "Igreja de Nossa Senhora da Soledade",
+            "ro": "Igreja de Nossa Senhora da Soledade",
+            "en": "Igreja de Nossa Senhora da Soledade"
+          },
+          "coords": [
+            -8.791622,
+            37.851398
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, aber charmante weißgetünchte Fassade am Platz, die den Geist des Alentejo einfängt, und kommen Sie am besten früh, um der starken Mittagssonne zu entgehen.",
+            "hu": "Csodálja meg a tér központját alkotó, fehérre meszelt templom egyszerű, de bájos homlokzatát, amely tökéletesen tükrözi az Alentejo szellemét, és érkezzen korán a déli hőség elkerülése végett.",
+            "ro": "Admirați fațada văruită simplă, dar fermecătoare a acestui punct central al pieței, care surprinde perfect spiritul Alentejo, și încercați să ajungeți devreme pentru a evita soarele de la amiază.",
+            "en": "Admire the simple but charming whitewashed facade of this square's focal point, which perfectly captures the Alentejo spirit, so try to arrive early to avoid the harsh midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Baía de Porto Covo",
+            "hu": "Praia da Baía de Porto Covo",
+            "ro": "Praia da Baía de Porto Covo",
+            "en": "Praia da Baía de Porto Covo"
+          },
+          "coords": [
+            -8.791499,
+            37.849692
+          ],
+          "category": "recreational",
+          "arrive_at": "09:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an dieser geschützten Bucht direkt neben dem Dorfzentrum, die für ihr ruhiges Wasser und die traditionellen Fischerboote bekannt ist, aber bringen Sie eigenen Sonnenschutz mit.",
+            "hu": "Pihenjen meg a falu központja melletti védett öbölben, amely nyugodt vizéről és hagyományos halászhajóiról ismert, de feltétlenül hozzon magával napernyőt, mivel a szolgáltatások korlátozottak.",
+            "ro": "Relaxați-vă în acest golf adăpostit chiar lângă centrul satului, cunoscut pentru apele sale calme și bărcile tradiționale de pescuit, dar nu uitați să vă aduceți propria umbrelă.",
+            "en": "Relax at this sheltered bay right next to the village center, known for its calm waters and traditional fishing boats, but remember to bring your own shade as facilities are limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia Pequena",
+            "hu": "Praia Pequena",
+            "ro": "Praia Pequena",
+            "en": "Praia Pequena"
+          },
+          "coords": [
+            -8.795616,
+            37.851829
+          ],
+          "category": "recreational",
+          "arrive_at": "11:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Genießen Sie die intime Atmosphäre dieses kleinen, von Klippen gesäumten Strandes mit goldenem Sand, der sich ideal für ein ruhiges morgendliches Bad vor der Flut eignet.",
+            "hu": "Élvezze a sziklákkal övezett kis strand meghitt hangulatát, ahol az aranyhomok és a kristálytiszta víz tökéletes egy csendes reggeli úszáshoz, még a dagály érkezése előtt.",
+            "ro": "Bucurați-vă de atmosfera intimă a acestei mici plaje mărginite de stânci, unde nisipul auriu întâlnește apele cristaline, fiind ideală pentru o baie liniștită de dimineață înainte de venirea mareei.",
+            "en": "Enjoy the intimate atmosphere of this small, cliff-backed beach where golden sands meet crystal-clear waters, making it ideal for a quiet morning swim before the tide rolls in."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia Grande de Porto Côvo",
+            "hu": "Praia Grande de Porto Côvo",
+            "ro": "Praia Grande de Porto Côvo",
+            "en": "Praia Grande de Porto Côvo"
+          },
+          "coords": [
+            -8.793666,
+            37.857213
+          ],
+          "category": "recreational",
+          "arrive_at": "12:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.62,
+          "tip_5lang": {
+            "de": "Machen Sie einen langen Spaziergang am weitläufigen Sand des größten Strandes im Dorf, der sich hervorragend zum Surfen eignet, auch wenn die Meeresströmungen hier recht stark sein können.",
+            "hu": "Tegyen egy hosszú sétát a falu legnagyobb strandjának tágas homokján, amely kiváló feltételeket kínál szörfözéshez, de legyen óvatos a fürdőzéssel, mert az óceáni áramlatok itt meglehetősen erősek.",
+            "ro": "Faceți o plimbare lungă pe nisipul spațios al celei mai mari plaje a satului, care oferă condiții excelente pentru surfing, deși trebuie să fiți atenți deoarece curenții oceanici pot fi destul de puternici.",
+            "en": "Take a long walk on the spacious sands of the village's largest beach, which offers excellent conditions for surfing and sunbathing, though the ocean currents here can be quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Cerca Nova",
+            "hu": "Praia da Cerca Nova",
+            "ro": "Praia da Cerca Nova",
+            "en": "Praia da Cerca Nova"
+          },
+          "coords": [
+            -8.794161,
+            37.859081
+          ],
+          "category": "recreational",
+          "arrive_at": "13:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen wunderschönen, von markanten Felsformationen umrahmten Küstenabschnitt, der fantastische Fotomotive und einen ruhigen Rückzugsort bietet, wenn Sie dem Küstenpfad folgen.",
+            "hu": "Fedezze fel ezt a lenyűgöző sziklaalakzatokkal keretezett, gyönyörű partszakaszt, amely nagyszerű fotózási lehetőségeket és békés menedéket kínál, ha követi a lefelé vezető parti ösvényt.",
+            "ro": "Descoperiți această porțiune frumoasă de coastă încadrată de formațiuni stâncoase impresionante, care oferă oportunități fotografice uimitoare și un refugiu liniștit dacă urmați traseul în jos.",
+            "en": "Discover this beautiful stretch of coastline framed by striking rock formations, offering stunning photographic opportunities and a peaceful retreat if you follow the coastal trail downwards."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Beginnen Sie im Zentrum und bewundern Sie die Kirche, bevor Sie zur Baía-Bucht schlendern.\n\nMittags: Spazieren Sie zur Praia Pequena, deren Sand zu einem Bad einlädt.\n\nNachmittags: Gehen Sie nach Norden zur Praia Grande, um Surfer auf den Atlantikwellen zu beobachten.\n\nAbends: Beenden Sie die Tour an der Praia da Cerca Nova und genießen Sie die Felsenschatten bei Sonnenuntergang.",
+        "hu": "Délelőtt: Kezdje a központban a fehér templom megcsodálásával, majd sétáljon le a védett Baía strandra.\n\nDélben: Sétáljon a Praia Pequenához, ahol az aranyhomok fürdőzésre csábít.\n\nDélután: Irány észak, a Praia Grande, hogy megfigyelje az atlanti hullámokon lovagló szörfösöket.\n\nEste: Zárja a napot a Praia da Cerca Novánál, élvezve a sziklák drámai árnyékait naplementekor.",
+        "ro": "Dimineața: Începeți în centru, admirând biserica albă, înainte de a merge la plaja Baía.\n\nPrânz: Plimbați-vă pe potecile de coastă spre Praia Pequena, unde nisipul vă invită la o baie.\n\nDupă-amiaza: Mergeți spre nord la Praia Grande pentru a privi surferii pe valurile Atlanticului.\n\nSeara: Încheiați la Praia da Cerca Nova, bucurându-vă de umbrele stâncilor la apus.",
+        "en": "Morning: Start in Porto Covo's center, admiring the whitewashed church before a stroll to the sheltered Baía beach.\n\nMidday: Walk along coastal paths to Praia Pequena, where golden sands invite a refreshing ocean dip.\n\nAfternoon: Head north to the expansive Praia Grande to watch surfers riding Atlantic swells.\n\nEvening: Conclude at Praia da Cerca Nova, enjoying dramatic rock shadows at sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 3.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Praia do Cerro da Águia",
+            "hu": "Praia do Cerro da Águia",
+            "ro": "Praia do Cerro da Águia",
+            "en": "Praia do Cerro da Águia"
+          },
+          "coords": [
+            -8.793824,
+            37.862455
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die steilen, dramatischen Klippen um dieses versteckte Juwel, wo sich die raue Schönheit der Alentejo-Küste offenbart, aber tragen Sie festes Schuhwerk für den schwierigen Abstieg.",
+            "hu": "Csodálja meg az e rejtett gyöngyszemet körülvevő meredek, drámai sziklákat, ahol az Alentejo partjainak nyers szépsége teljes mértékben feltárul, de viseljen erős cipőt a nehézkes ereszkedéshez.",
+            "ro": "Minunați-vă de stâncile abrupte și dramatice care înconjoară această bijuterie ascunsă, unde frumusețea brută a coastei este pe deplin dezvăluită, dar purtați încălțăminte rezistentă la coborâre.",
+            "en": "Marvel at the steep, dramatic cliffs surrounding this hidden gem, where the raw beauty of the Alentejo coast is fully revealed, but wear sturdy shoes for the slightly tricky descent."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia Grande de Porto Côvo",
+            "hu": "Praia Grande de Porto Côvo",
+            "ro": "Praia Grande de Porto Côvo",
+            "en": "Praia Grande de Porto Côvo"
+          },
+          "coords": [
+            -8.793666,
+            37.857213
+          ],
+          "category": "recreational",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.58,
+          "tip_5lang": {
+            "de": "Machen Sie einen langen Spaziergang am weitläufigen Sand des größten Strandes im Dorf, der sich hervorragend zum Surfen eignet, auch wenn die Meeresströmungen hier recht stark sein können.",
+            "hu": "Tegyen egy hosszú sétát a falu legnagyobb strandjának tágas homokján, amely kiváló feltételeket kínál szörfözéshez, de legyen óvatos a fürdőzéssel, mert az óceáni áramlatok itt meglehetősen erősek.",
+            "ro": "Faceți o plimbare lungă pe nisipul spațios al celei mai mari plaje a satului, care oferă condiții excelente pentru surfing, deși trebuie să fiți atenți deoarece curenții oceanici pot fi destul de puternici.",
+            "en": "Take a long walk on the spacious sands of the village's largest beach, which offers excellent conditions for surfing and sunbathing, though the ocean currents here can be quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja de Nossa Senhora da Soledade",
+            "hu": "Igreja de Nossa Senhora da Soledade",
+            "ro": "Igreja de Nossa Senhora da Soledade",
+            "en": "Igreja de Nossa Senhora da Soledade"
+          },
+          "coords": [
+            -8.791622,
+            37.851398
+          ],
+          "category": "religious",
+          "arrive_at": "11:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.67,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, aber charmante weißgetünchte Fassade am Platz, die den Geist des Alentejo einfängt, und kommen Sie am besten früh, um der starken Mittagssonne zu entgehen.",
+            "hu": "Csodálja meg a tér központját alkotó, fehérre meszelt templom egyszerű, de bájos homlokzatát, amely tökéletesen tükrözi az Alentejo szellemét, és érkezzen korán a déli hőség elkerülése végett.",
+            "ro": "Admirați fațada văruită simplă, dar fermecătoare a acestui punct central al pieței, care surprinde perfect spiritul Alentejo, și încercați să ajungeți devreme pentru a evita soarele de la amiază.",
+            "en": "Admire the simple but charming whitewashed facade of this square's focal point, which perfectly captures the Alentejo spirit, so try to arrive early to avoid the harsh midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Engardaceira",
+            "hu": "Praia da Engardaceira",
+            "ro": "Praia da Engardaceira",
+            "en": "Praia da Engardaceira"
+          },
+          "coords": [
+            -8.793068,
+            37.846271
+          ],
+          "category": "recreational",
+          "arrive_at": "12:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.58,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen an dieser etwas abgelegeneren Sandbucht zwischen den Klippen, wo Sie friedlich die Atlantikwellen beobachten können, obwohl der Zugang über unebene Felswege erfolgt.",
+            "hu": "Meneküljön el a tömeg elől ebbe a sziklák között megbúvó, kissé távolabbi homokos öbölbe, ahol békésen figyelheti az Atlanti-óceán hullámait, bár a megközelítéshez egyenetlen sziklás ösvényeken kell navigálnia.",
+            "ro": "Scăpați de aglomerație în acest golf nisipos puțin mai retras, cuibărit între stânci, unde puteți urmări în liniște valurile Atlanticului, deși accesul necesită parcurgerea unor poteci stâncoase denivelate.",
+            "en": "Escape the crowds at this slightly more remote sandy cove nestled between the cliffs, where you can peacefully watch the Atlantic waves, though access requires navigating uneven rocky paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Ilha do Pessegueiro",
+            "hu": "Praia da Ilha do Pessegueiro",
+            "ro": "Praia da Ilha do Pessegueiro",
+            "en": "Praia da Ilha do Pessegueiro"
+          },
+          "coords": [
+            -8.792149,
+            37.832545
+          ],
+          "category": "recreational",
+          "arrive_at": "13:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.53,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem weiten, familienfreundlichen Strand aus einen spektakulären Blick auf die Insel direkt vor der Küste, der sich ideal für ein Picknick eignet und ausreichend Parkplätze bietet.",
+            "hu": "Élvezze a közvetlenül a part mentén fekvő szigetre nyíló látványos kilátást erről a széles, családbarát strandról, amely kiváló hely egy piknikre, különösen, mivel a közelben bőséges parkolóhely található.",
+            "ro": "Bucurați-vă de vederi spectaculoase ale insulei chiar de pe coastă de pe această plajă largă, prietenoasă cu familiile, care este un loc minunat pentru un picnic, mai ales că există parcare amplă în apropiere.",
+            "en": "Enjoy spectacular views of the island right off the coast from this wide, family-friendly beach, which is a great place for a picnic, especially since there is ample parking nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte da Ilha do Pessegueiro",
+            "hu": "Forte da Ilha do Pessegueiro",
+            "ro": "Forte da Ilha do Pessegueiro",
+            "en": "Forte da Ilha do Pessegueiro"
+          },
+          "coords": [
+            -8.797698,
+            37.833448
+          ],
+          "category": "fortress",
+          "arrive_at": "15:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieser Festung aus dem 16. Jahrhundert, die die Küste vor Piraten schützen sollte und stolz den Meereswinden trotzt, aber prüfen Sie die Bootsfahrpläne für eine Überfahrt.",
+            "hu": "Fedezze fel a 16. századi erőd romjait, amelyet a partok kalózoktól való védelmére építettek, és büszkén áll az óceáni szelekkel szemben, de ellenőrizze a hajótúrák menetrendjét, ha át akar kelni.",
+            "ro": "Explorați ruinele acestei fortificații din secolul al XVI-lea, menită să protejeze coasta de pirați, stând cu mândrie împotriva vânturilor oceanice, dar verificați orarele excursiilor cu barca dacă doriți să traversați.",
+            "en": "Explore the ruins of this 16th-century fortification designed to protect the coast from pirates, standing proudly against the ocean winds, but check the boat tour schedules if you want to cross over."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Radeln Sie zu den nördlichen Klippen und starten Sie den Tag mit Aussicht an der Praia do Cerro da Águia.\n\nMittags: Fahren Sie nach Süden zum Zentrum, mit Halt an der Praia Grande und dem Hauptplatz.\n\nNachmittags: Radeln Sie weiter südlich entlang der Küste zur Praia da Engardaceira.\n\nAbends: Beenden Sie den Tag an den historischen Festungsruinen gegenüber der mysteriösen Insel.",
+        "hu": "Délelőtt: Tekerjen az északi sziklákhoz, kezdve a napot a Praia do Cerro da Águia drámai kilátásával.\n\nDélben: Haladjon délre a központba, megállva a Praia Grande-nál és a főtéren.\n\nDélután: Hagyja el a falut, és kerékpározzon dél felé a parton a Praia da Engardaceirához.\n\nEste: Zárja a napot a parti erőd romjainak felfedezésével, szemben a titokzatos szigettel.",
+        "ro": "Dimineața: Pedalați spre stâncile din nord pentru vederi dramatice la Praia do Cerro da Águia.\n\nPrânz: Mergeți spre sud spre centrul satului, oprindu-vă la Praia Grande și în piață.\n\nDupă-amiaza: Lăsați satul în urmă, pedalând spre sud de-a lungul coastei la Praia da Engardaceira.\n\nSeara: Încheiați explorând ruinele fortului de coastă, vis-a-vis de insula misterioasă.",
+        "en": "Morning: Cycle to the rugged northern cliffs, starting your day with dramatic views and fresh air at Praia do Cerro da Águia.\n\nMidday: Pedal south to the village center, stopping at Praia Grande and the main square.\n\nAfternoon: Leave the village behind as you bike further south along the coast to Praia da Engardaceira.\n\nEvening: End by exploring the coastal fort ruins opposite the mysterious island."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:10",
+      "total_km": 4.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Forte da Ilha do Pessegueiro",
+            "hu": "Forte da Ilha do Pessegueiro",
+            "ro": "Forte da Ilha do Pessegueiro",
+            "en": "Forte da Ilha do Pessegueiro"
+          },
+          "coords": [
+            -8.797698,
+            37.833448
+          ],
+          "category": "fortress",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieser Festung aus dem 16. Jahrhundert, die die Küste vor Piraten schützen sollte und stolz den Meereswinden trotzt, aber prüfen Sie die Bootsfahrpläne für eine Überfahrt.",
+            "hu": "Fedezze fel a 16. századi erőd romjait, amelyet a partok kalózoktól való védelmére építettek, és büszkén áll az óceáni szelekkel szemben, de ellenőrizze a hajótúrák menetrendjét, ha át akar kelni.",
+            "ro": "Explorați ruinele acestei fortificații din secolul al XVI-lea, menită să protejeze coasta de pirați, stând cu mândrie împotriva vânturilor oceanice, dar verificați orarele excursiilor cu barca dacă doriți să traversați.",
+            "en": "Explore the ruins of this 16th-century fortification designed to protect the coast from pirates, standing proudly against the ocean winds, but check the boat tour schedules if you want to cross over."
+          }
+        },
+        {
+          "name": {
+            "de": "Necrópole do Pessegueiro",
+            "hu": "Necrópole do Pessegueiro",
+            "ro": "Necrópole do Pessegueiro",
+            "en": "Necrópole do Pessegueiro"
+          },
+          "coords": [
+            -8.786748,
+            37.83362
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.96,
+          "tip_5lang": {
+            "de": "Reisen Sie in die Vergangenheit an dieser faszinierenden archäologischen Stätte mit römischen Gräberfeldern, die einen einzigartigen historischen Kontrast zur Küstenlandschaft bildet; gehen Sie vorsichtig umher.",
+            "hu": "Lépjen vissza az időben ezen a lenyűgöző régészeti lelőhelyen, ahol római kori temetkezési helyek találhatók, egyedülálló történelmi kontrasztot nyújtva a partmenti tájnak, így óvatosan lépkedjen a feltárt területeken.",
+            "ro": "Întoarceți-vă în timp la acest sit arheologic fascinant cu cimitire romane, care oferă un contrast istoric unic cu peisajul de coastă, așa că pășiți cu grijă în jurul zonelor excavate.",
+            "en": "Step back in time at this fascinating archaeological site featuring Roman burial grounds, providing a unique historical contrast to the coastal scenery, so tread carefully around the excavated areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia Selvagem",
+            "hu": "Praia Selvagem",
+            "ro": "Praia Selvagem",
+            "en": "Praia Selvagem"
+          },
+          "coords": [
+            -8.791491,
+            37.840316
+          ],
+          "category": "recreational",
+          "arrive_at": "11:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die ungezähmte Natur dieses passend benannten \"wilden Strandes\", der zwar ohne touristische Infrastruktur, aber reich an natürlicher Schönheit ist – bringen Sie alle Vorräte mit.",
+            "hu": "Merüljön el ennek a tökéletes nevű \"vad strandnak\" a zabolátlan természetében, amely mentes a turisztikai infrastruktúrától, de gazdag természeti szépségekben, ezért feltétlenül hozzon magával minden szükséges felszerelést.",
+            "ro": "Cufundați-vă în natura neîmblânzită a acestei plaje sălbatice perfect denumite, lipsită de infrastructură turistică, dar bogată în frumusețe naturală, fiind crucial să aduceți cu voi toate proviziile necesare.",
+            "en": "Immerse yourself in the untamed nature of this perfectly named \"wild beach\", devoid of tourist infrastructure but rich in natural beauty, making it crucial to bring all necessary supplies."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja de Nossa Senhora da Soledade",
+            "hu": "Igreja de Nossa Senhora da Soledade",
+            "ro": "Igreja de Nossa Senhora da Soledade",
+            "en": "Igreja de Nossa Senhora da Soledade"
+          },
+          "coords": [
+            -8.791622,
+            37.851398
+          ],
+          "category": "religious",
+          "arrive_at": "13:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.23,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, aber charmante weißgetünchte Fassade am Platz, die den Geist des Alentejo einfängt, und kommen Sie am besten früh, um der starken Mittagssonne zu entgehen.",
+            "hu": "Csodálja meg a tér központját alkotó, fehérre meszelt templom egyszerű, de bájos homlokzatát, amely tökéletesen tükrözi az Alentejo szellemét, és érkezzen korán a déli hőség elkerülése végett.",
+            "ro": "Admirați fațada văruită simplă, dar fermecătoare a acestui punct central al pieței, care surprinde perfect spiritul Alentejo, și încercați să ajungeți devreme pentru a evita soarele de la amiază.",
+            "en": "Admire the simple but charming whitewashed facade of this square's focal point, which perfectly captures the Alentejo spirit, so try to arrive early to avoid the harsh midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia Grande de Porto Côvo",
+            "hu": "Praia Grande de Porto Côvo",
+            "ro": "Praia Grande de Porto Côvo",
+            "en": "Praia Grande de Porto Côvo"
+          },
+          "coords": [
+            -8.793666,
+            37.857213
+          ],
+          "category": "recreational",
+          "arrive_at": "13:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.67,
+          "tip_5lang": {
+            "de": "Machen Sie einen langen Spaziergang am weitläufigen Sand des größten Strandes im Dorf, der sich hervorragend zum Surfen eignet, auch wenn die Meeresströmungen hier recht stark sein können.",
+            "hu": "Tegyen egy hosszú sétát a falu legnagyobb strandjának tágas homokján, amely kiváló feltételeket kínál szörfözéshez, de legyen óvatos a fürdőzéssel, mert az óceáni áramlatok itt meglehetősen erősek.",
+            "ro": "Faceți o plimbare lungă pe nisipul spațios al celei mai mari plaje a satului, care oferă condiții excelente pentru surfing, deși trebuie să fiți atenți deoarece curenții oceanici pot fi destul de puternici.",
+            "en": "Take a long walk on the spacious sands of the village's largest beach, which offers excellent conditions for surfing and sunbathing, though the ocean currents here can be quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia naturista do Salto",
+            "hu": "Praia naturista do Salto",
+            "ro": "Praia naturista do Salto",
+            "en": "Praia naturista do Salto"
+          },
+          "coords": [
+            -8.794319,
+            37.860395
+          ],
+          "category": "recreational",
+          "arrive_at": "15:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen offiziell anerkannten FKK-Strand, der sich in einer kleinen Bucht befindet, die von hohen Klippen umgeben ist und wo Sie Sonne und Meer in einer respektvollen Umgebung genießen können.",
+            "hu": "Fedezze fel ezt a hivatalosan elismert naturista strandot, amely egy magas sziklákkal körülvett kis öbölben bújik meg a teljes magánélet érdekében, ahol tiszteletteljes környezetben élvezheti a napot és a tengert.",
+            "ro": "Descoperiți această plajă naturistă recunoscută oficial, ascunsă într-un mic golf înconjurat de stânci înalte pentru intimitate deplină, unde vă puteți bucura liber de soare și mare într-un mediu respectuos.",
+            "en": "Discover this officially recognized naturist beach, tucked away in a small cove surrounded by high cliffs for complete privacy, where you can freely enjoy the sun and sea in a respectful environment."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Cerro da Águia",
+            "hu": "Praia do Cerro da Águia",
+            "ro": "Praia do Cerro da Águia",
+            "en": "Praia do Cerro da Águia"
+          },
+          "coords": [
+            -8.793824,
+            37.862455
+          ],
+          "category": "recreational",
+          "arrive_at": "16:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die steilen, dramatischen Klippen um dieses versteckte Juwel, wo sich die raue Schönheit der Alentejo-Küste offenbart, aber tragen Sie festes Schuhwerk für den etwas schwierigen Abstieg.",
+            "hu": "Csodálja meg az e rejtett gyöngyszemet körülvevő meredek, drámai sziklákat, ahol az Alentejo partjainak nyers szépsége teljes mértékben feltárul, de viseljen erős cipőt a kissé nehézkes ereszkedéshez.",
+            "ro": "Minunați-vă de stâncile abrupte și dramatice care înconjoară această bijuterie ascunsă, unde frumusețea brută a coastei Alentejo este pe deplin dezvăluită, dar purtați încălțăminte rezistentă pentru coborârea ușor dificilă.",
+            "en": "Marvel at the steep, dramatic cliffs surrounding this hidden gem, where the raw beauty of the Alentejo coast is fully revealed, but wear sturdy shoes for the slightly tricky descent."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Fahren Sie in den Süden von Porto Covo, um die Küstenfestung und die antike römische Nekropole zu erkunden.\n\nMittags: Fahren Sie zur unberührten Praia Selvagem und besuchen Sie dann die weiße Kirche.\n\nNachmittags: Entspannen Sie sich den langen Nachmittag auf dem Sand der Praia Grande.\n\nAbends: Spazieren Sie zum Strand Salto und genießen Sie zum Abschluss die majestätische Klippensicht.",
+        "hu": "Délelőtt: Vezessen délre, és fedezze fel a partmenti erődöt, valamint az ókori római nekropoliszt.\n\nDélben: Haladjon északabbra a Praia Selvagem érintetlen strandjához, majd látogassa meg a fehér templomot.\n\nDélután: Folytassa útját a Praia Grande felé egy hosszú délutáni pihenésre az aranyhomokon.\n\nEste: Sétáljon le a Salto strandra, és zárja a napot a fenséges sziklás kilátással.",
+        "ro": "Dimineața: Conduceți spre sud pentru a explora impunătoarea fortăreață de coastă și vechea necropolă romană.\n\nPrânz: Mergeți puțin spre nord la frumoasa Praia Selvagem, înainte de a vizita biserica albă.\n\nDupă-amiaza: Continuați la Praia Grande pentru o relaxare lungă pe nisipul auriu.\n\nSeara: Coborâți la plaja Salto, încheind cu o priveliște maiestuoasă de pe stânci.",
+        "en": "Morning: Drive to the southern edge of Porto Covo to explore the imposing coastal fortress and ancient Roman necropolis.\n\nMidday: Head slightly north to experience the untouched beauty of Praia Selvagem before visiting the whitewashed church.\n\nAfternoon: Continue to Praia Grande for a long afternoon relaxation on the golden sands.\n\nEvening: Walk down to Salto beach, ending with majestic cliff views."
+      }
+    }
+  }
+}

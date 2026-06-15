@@ -1,0 +1,428 @@
+{
+  "city_id": "kuta-cities-v2",
+  "anchor": {
+    "name": "Kuta",
+    "coords": [
+      115.172,
+      -8.7195
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:43",
+      "total_km": 5.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bali Bombing Memorial (Ground Zero Monument)",
+            "hu": "Bali Bombing Memorial (Ground Zero Monument)",
+            "ro": "Bali Bombing Memorial (Ground Zero Monument)",
+            "en": "Bali Bombing Memorial (Ground Zero Monument)"
+          },
+          "coords": [
+            115.174489,
+            -8.717319
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erweisen Sie den Opfern der Tragödie von 2002 an dieser ergreifenden Gedenkstätte die Ehre; besuchen Sie sie am frühen Morgen für ein ruhigeres Erlebnis.",
+            "hu": "Rója le tiszteletét a 2002-es tragédia áldozatai előtt ezen a megható emlékművön; érdemes kora reggel érkezni a csendesebb, elmélyültebb élmény érdekében.",
+            "ro": "Aduceți un omagiu victimelor tragediei din 2002 la acest memorial emoționant; vizitați-l dimineața devreme pentru o experiență mai liniștită și reflexivă.",
+            "en": "Pay your respects at this poignant memorial dedicated to the victims of the 2002 tragedy; visit early in the morning for a quieter, more reflective experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Kuta Beach",
+            "hu": "Kuta Beach",
+            "ro": "Kuta Beach",
+            "en": "Kuta Beach"
+          },
+          "coords": [
+            115.167999,
+            -8.717968
+          ],
+          "category": "recreational",
+          "arrive_at": "10:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Spazieren Sie an Kutas berühmtestem goldenen Sandstrand entlang, der für seine Surfkultur bekannt ist; mieten Sie ein Brett oder genießen Sie eine frische Kokosnuss.",
+            "hu": "Sétáljon végig Kuta leghíresebb aranyhomokos partszakaszán, amely legendás szörfkultúrájáról ismert; béreljen deszkát, vagy egyszerűen igyon egy friss kókuszdiót.",
+            "ro": "Plimbați-vă pe cea mai faimoasă întindere de nisip auriu din Kuta, celebră pentru cultura sa de surf; închiriați o placă sau savurați o nucă de cocos proaspătă.",
+            "en": "Stroll along Kuta's most famous stretch of golden sand, known for its legendary surfing culture; rent a board or simply enjoy a fresh coconut from a local vendor."
+          }
+        },
+        {
+          "name": {
+            "de": "Waterbom Bali",
+            "hu": "Waterbom Bali",
+            "ro": "Waterbom Bali",
+            "en": "Waterbom Bali"
+          },
+          "coords": [
+            115.170544,
+            -8.728354
+          ],
+          "category": "family",
+          "arrive_at": "12:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Stürzen Sie sich in Asiens führenden Wasserpark mit erstklassigen Rutschen und üppigen tropischen Gärten; kommen Sie früh, um einen privaten Pavillon zu sichern.",
+            "hu": "Csobbanjon Ázsia első számú vízi parkjában, ahol világszínvonalú csúszdák és trópusi kertek várják; érkezzen korán, hogy privát pavilont foglaljon a családnak.",
+            "ro": "Bucurați-vă de parcul acvatic de top din Asia, cu tobogane de clasă mondială și grădini tropicale luxuriante; sosiți devreme pentru a rezerva un foișor privat.",
+            "en": "Splash into excitement at Asia's premier waterpark featuring world-class slides and lush tropical gardens; arrive early to secure a private gazebo for the family."
+          }
+        },
+        {
+          "name": {
+            "de": "Jerman Beach",
+            "hu": "Jerman Beach",
+            "ro": "Jerman Beach",
+            "en": "Jerman Beach"
+          },
+          "coords": [
+            115.162288,
+            -8.736141
+          ],
+          "category": "recreational",
+          "arrive_at": "14:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie an diesem lokalen Favoriten eine ruhigere Atmosphäre mit traditionellen Booten; bleiben Sie unbedingt für den spektakulären, weniger überfüllten Sonnenuntergang.",
+            "hu": "Fedezze fel e helyiek által kedvelt, csendesebb partvidéket, ahol hagyományos csónakok ringatóznak a vízen; maradjon a látványos és kevésbé zsúfolt naplementéig.",
+            "ro": "Descoperiți o atmosferă mai liniștită pe această plajă populară printre localnici, cu bărci tradiționale; rămâneți pentru apusul spectaculos și mai puțin aglomerat.",
+            "en": "Discover a more tranquil atmosphere at this local favorite, perfect for watching traditional boats bobbing in the water; stay for the spectacular, less crowded sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "I Gusti Ngurah Rai",
+            "hu": "I Gusti Ngurah Rai",
+            "ro": "I Gusti Ngurah Rai",
+            "en": "I Gusti Ngurah Rai"
+          },
+          "coords": [
+            115.167893,
+            -8.741059
+          ],
+          "category": "historical",
+          "arrive_at": "15:58",
+          "stay_min": 45,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposante Statue des balinesischen Nationalhelden in der Nähe des Flughafens; halten Sie Ihre Kamera bereit für Fotos vor der belebten Kulisse.",
+            "hu": "Csodálja meg a balinéz nemzeti hős lenyűgöző szobrát a repülőtér közelében, amely a helyi bátorságot jelképezi; tartsa készenlétben kameráját egy gyors fotóhoz.",
+            "ro": "Admirați statuia impunătoare a eroului național al insulei Bali din apropierea aeroportului; păstrați-vă camera pregătită pentru fotografii cu fundalul animat.",
+            "en": "Admire the imposing statue of Bali's national hero near the airport as a symbol of local bravery; keep your camera ready for photos against the bustling backdrop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am Bombing Memorial und reflektieren Sie die Geschichte. Spazieren Sie dann zum legendären Kuta Beach und spüren Sie die Surfer-Atmosphäre.\nMittags wartet der tropische Nervenkitzel auf den fantastischen Rutschen im Waterbom Bali.\nEntfliehen Sie nachmittags den Menschenmassen und entspannen Sie am ruhigen Jerman Beach.\nBeenden Sie den Tag an der großen I Gusti Ngurah Rai Statue.",
+        "hu": "Kezdje a reggelt a történelmi robbantásos emlékműnél, majd sétáljon le a legendás Kuta Beach-re, élvezve az energikus szörfös hangulatot.\nDélben a Waterbom Bali trópusi csúszdáin élheti át a maximális izgalmakat és frissülhet fel.\nDélután meneküljön el a tömeg elől, és lazítson a délre fekvő, sokkal békésebb Jerman Beach partján.\nVégül csodálja meg a monumentális I Gusti Ngurah Rai szobrot a lemenő nap fényében.",
+        "ro": "Începeți dimineața reflectând asupra istoriei la Memorialul Bombardamentelor. Apoi, plimbați-vă spre legendara plajă Kuta, simțind vibrația energică a surferilor.\nLa prânz, aventura vă așteaptă pe toboganele tropicale uimitoare din parcul acvatic Waterbom Bali.\nDupă-amiaza, scăpați de aglomerație explorând țărmurile mai liniștite ale plajei Jerman din sud.\nSeara, admirați grandioasa statuie I Gusti Ngurah Rai.",
+        "en": "Start your morning reflecting on history at the Bombing Memorial. Next, stroll down to the legendary Kuta Beach, feeling the energetic surf vibe.\nMidday brings high-speed excitement as you conquer the tropical slides at Waterbom Bali.\nIn the afternoon, escape the crowds by wandering further south to the peaceful shores of Jerman Beach.\nFinally, admire the grand I Gusti Ngurah Rai statue against the sunset glow."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:15",
+      "total_km": 8.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "DMZ Dream Museum Zone",
+            "hu": "DMZ Dream Museum Zone",
+            "ro": "DMZ Dream Museum Zone",
+            "en": "DMZ Dream Museum Zone"
+          },
+          "coords": [
+            115.176729,
+            -8.699502
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in faszinierende 3D-Trickkunst für lustige Fotomotive; bringen Sie einen Freund mit, um die besten Winkel dieser optischen Täuschungen einzufangen.",
+            "hu": "Merüljön el az elképesztő 3D-s illúziókban, amelyek tökéletes és vicces fotókat garantálnak; vigyen magával egy barátot, aki segít a legjobb szögek megtalálásában.",
+            "ro": "Lăsați-vă captivați de arta 3D uimitoare, perfectă pentru fotografii amuzante; luați un prieten pentru a vă ajuta să surprindeți cele mai bune unghiuri optice.",
+            "en": "Immerse yourself in mind-bending 3D trick art perfect for hilarious photo opportunities; bring a friend to help capture the best angles of these optical illusions."
+          }
+        },
+        {
+          "name": {
+            "de": "Pantai Double Six",
+            "hu": "Pantai Double Six",
+            "ro": "Pantai Double Six",
+            "en": "Pantai Double Six"
+          },
+          "coords": [
+            115.161886,
+            -8.697376
+          ],
+          "category": "recreational",
+          "arrive_at": "11:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem weiten, lebhaften Sandstrand mit fröhlicher Nachmittagsatmosphäre; mieten Sie einen bunten Sitzsack, um den Sonnenuntergang zu beobachten.",
+            "hu": "Pihenjen ezen a széles, élettel teli partszakaszon, amely nyüzsgő délutáni hangulatáról híres; béreljen egy színes babzsákot valamelyik tengerparti bárban.",
+            "ro": "Relaxați-vă pe această plajă vibrantă și lată, faimoasă pentru atmosfera animată; închiriați un puf colorat de la un bar de pe plajă pentru a vedea apusul confortabil.",
+            "en": "Relax on this wide, vibrant stretch of sand famous for its lively afternoon atmosphere; rent a colorful beanbag from a beachfront bar to comfortably watch the sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Legian Beach",
+            "hu": "Legian Beach",
+            "ro": "Legian Beach",
+            "en": "Legian Beach"
+          },
+          "coords": [
+            115.164104,
+            -8.703451
+          ],
+          "category": "recreational",
+          "arrive_at": "12:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie sanftere Wellen und sauberere Ufer als im zentralen Kuta; melden Sie sich für einen Surf-Einführungskurs bei einem der erfahrenen lokalen Lehrer an.",
+            "hu": "Élvezze a finomabb hullámokat és a tisztább partokat, mint Kuta központjában; jelentkezzen egy bevezető szörfoktatásra a sok tapasztalt helyi oktató egyikénél.",
+            "ro": "Bucurați-vă de valuri mai blânde și țărmuri mai curate decât în centrul din Kuta; înscrieți-vă la o lecție de surf cu unul dintre instructorii locali experimentați.",
+            "en": "Enjoy a gentler surf break and cleaner shores than central Kuta; sign up for an introductory surf lesson with one of the many experienced local instructors here."
+          }
+        },
+        {
+          "name": {
+            "de": "Bali Bombing Memorial (Ground Zero Monument)",
+            "hu": "Bali Bombing Memorial (Ground Zero Monument)",
+            "ro": "Bali Bombing Memorial (Ground Zero Monument)",
+            "en": "Bali Bombing Memorial (Ground Zero Monument)"
+          },
+          "coords": [
+            115.174489,
+            -8.717319
+          ],
+          "category": "historical",
+          "arrive_at": "13:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses gepflegte Denkmal, das Widerstandsfähigkeit und globale Solidarität ehrt; lesen Sie respektvoll die in den Stein gemeißelten Namen durch.",
+            "hu": "Álljon meg ezen a szépen gondozott emlékművön, amely a rugalmasságot és a globális szolidaritást ünnepli; olvassa el tisztelettel a kőbe vésett neveket a szünetben.",
+            "ro": "Opriți-vă la acest monument bine întreținut care onorează reziliența și solidaritatea globală; citiți cu respect numele gravate în piatră în timpul pauzei.",
+            "en": "Stop by this beautifully maintained monument that honors resilience and global solidarity; respectfully read the names etched in stone while pausing your bike tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Becak museum",
+            "hu": "Becak museum",
+            "ro": "Becak museum",
+            "en": "Becak museum"
+          },
+          "coords": [
+            115.183883,
+            -8.709344
+          ],
+          "category": "museum",
+          "arrive_at": "15:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie in Indonesiens faszinierende Transportgeschichte ein und bewundern Sie historische Rikschas; sprechen Sie mit dem Kurator über fesselnde lokale Geschichten.",
+            "hu": "Merüljön el Indonézia lenyűgöző közlekedési történetében a régi, hagyományos riksák megtekintésével; elegyedjen szóba a kurátorral az érdekes helyi történetekért.",
+            "ro": "Descoperiți istoria fascinantă a transportului din Indonezia admirând ricșe tradiționale de epocă; discutați cu custodele pentru a auzi povești locale captivante.",
+            "en": "Delve into Indonesia's fascinating transport history by viewing vintage traditional pedicabs; strike up a conversation with the curator to hear captivating local stories."
+          }
+        },
+        {
+          "name": {
+            "de": "Bali Shell Museum",
+            "hu": "Bali Shell Museum",
+            "ro": "Bali Shell Museum",
+            "en": "Bali Shell Museum"
+          },
+          "coords": [
+            115.186715,
+            -8.714265
+          ],
+          "category": "museum",
+          "arrive_at": "17:05",
+          "stay_min": 130,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie eine erstaunliche Auswahl seltener Muscheln und faszinierender Meeresfossilien; nehmen Sie sich Zeit in der klimatisierten Galerie, um der Hitze zu entfliehen.",
+            "hu": "Csodálja meg a ritka kagylók és lenyűgöző tengeri kövületek bámulatos gyűjteményét; töltsön időt a légkondicionált galériában, hogy elkerülje az esti páratartalmat.",
+            "ro": "Minunați-vă de o colecție uimitoare de scoici rare și fosile marine fascinante; relaxați-vă în galeria cu aer condiționat pentru a scăpa de umiditatea de seară.",
+            "en": "Marvel at an astonishing array of rare shells and fascinating marine fossils collected globally; take your time in the air-conditioned gallery to beat the evening humidity."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit einem unterhaltsamen Morgen und erkunden Sie die optischen Täuschungen im DMZ Dream Museum.\nRadeln Sie gemütlich zum Pantai Double Six und weiter entlang der malerischen Küste zum Legian Beach.\nFahren Sie südwärts zum Memorial und besuchen Sie anschließend das historische Becak-Museum.\nLassen Sie Ihre Radtour ausklingen, indem Sie die Schätze im faszinierenden Bali Shell Museum bewundern.",
+        "hu": "Kezdje egy szórakoztató reggellel a DMZ Dream Museum lenyűgöző optikai illúzióinak felfedezésével.\nKerekezzen kényelmesen a Pantai Double Six partjára, majd haladjon végig a tengerparton a Legian Beach felé.\nTekerjen délre, hogy tisztelegjen az emlékműnél, majd folytassa útját a hagyományos Becak Múzeumba.\nZárja a kerékpártúrát a Bali Shell Museum lenyűgöző és ritka tengeri kincseinek megcsodálásával.",
+        "ro": "Începeți cu o dimineață interactivă explorând iluziile optice de la muzeul inedit DMZ Dream Museum.\nPedalați relaxat spre Pantai Double Six pentru briza mării, apoi de-a lungul coastei către plaja Legian.\nMergeți spre sud pentru a onora istoria locală la Memorial, continuând apoi spre istoricul Muzeu Becak.\nÎncheiați turul pe bicicletă admirând comorile globale din interiorul fascinantului Bali Shell Museum.",
+        "en": "Begin with a fun and highly interactive morning exploring the optical illusions at the DMZ Dream Museum.\nCycle comfortably to Pantai Double Six to enjoy the gentle sea breeze before heading down the coast to Legian Beach.\nPedal south to honor local history at the Memorial, then continue to the vintage Becak Museum.\nWind down your cycling tour by marveling at global treasures inside the fascinating Bali Shell Museum."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:34",
+      "total_km": 16.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Trans Studio Bali",
+            "hu": "Trans Studio Bali",
+            "ro": "Trans Studio Bali",
+            "en": "Trans Studio Bali"
+          },
+          "coords": [
+            115.184377,
+            -8.702493
+          ],
+          "category": "family",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag in diesem erstklassigen Indoor-Themenpark mit aufregenden Fahrgeschäften; kaufen Sie Online-Pässe ohne Anstehen, um Ihre Zeit optimal zu nutzen.",
+            "hu": "Indítsa a napot ebben a világszínvonalú, izgalmas túrákkal teli fedett vidámparkban; vásároljon soron kívüli jegyeket online, hogy a legtöbbet hozza ki az idejéből.",
+            "ro": "Începeți ziua în acest parc tematic de interior de talie mondială, plin de atracții palpitante; cumpărați bilete online cu trecere rapidă pentru a câștiga timp.",
+            "en": "Kick off your day at this world-class indoor theme park loaded with thrilling rides; purchase skip-the-line passes online to maximize your time on the best rollercoasters."
+          }
+        },
+        {
+          "name": {
+            "de": "Tari Barong & Keris",
+            "hu": "Tari Barong & Keris",
+            "ro": "Tari Barong & Keris",
+            "en": "Tari Barong & Keris"
+          },
+          "coords": [
+            115.192435,
+            -8.718624
+          ],
+          "category": "cultural",
+          "arrive_at": "10:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Erleben Sie eine zutiefst spirituelle balinesische Kulturaufführung über den ewigen Kampf von Gut und Böse; sichern Sie sich frühzeitig einen Platz in der ersten Reihe.",
+            "hu": "Legyen tanúja egy mélyen spirituális balinéz kulturális előadásnak a jó és a rossz örök harcáról; foglaljon korán helyet az első sorban a legjobb kilátásért.",
+            "ro": "Asistați la un spectacol cultural balinez profund spiritual, care descrie lupta eternă dintre bine și rău; ocupați din timp un loc în primul rând pentru vizibilitate.",
+            "en": "Witness a deeply spiritual Balinese cultural performance portraying the eternal battle of good and evil; secure a front-row seat early for the most unobstructed views."
+          }
+        },
+        {
+          "name": {
+            "de": "Ekowisata mangrove",
+            "hu": "Ekowisata mangrove",
+            "ro": "Ekowisata mangrove",
+            "en": "Ekowisata mangrove"
+          },
+          "coords": [
+            115.183277,
+            -8.743891
+          ],
+          "category": "family",
+          "arrive_at": "12:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.9,
+          "tip_5lang": {
+            "de": "Entfliehen Sie der Hektik der Stadt und erkunden Sie die Holzstege eines friedlichen Mangrovenwaldes; tragen Sie Mückenschutzmittel und halten Sie Ausschau nach Vögeln.",
+            "hu": "Meneküljön el a város zaja elől, és fedezze fel a békés mangroveerdőn kanyargó kiterjedt fapallókat; használjon szúnyogriasztót és figyelje a különleges madarakat.",
+            "ro": "Scăpați de agitația orașului și explorați pasarelele din lemn care șerpuiesc printr-o pădure liniștită de mangrove; purtați repelent pentru țânțari și căutați păsările exotice.",
+            "en": "Escape the city's hustle and explore extensive wooden boardwalks meandering through a peaceful mangrove forest; wear mosquito repellent and keep an eye out for exotic birds."
+          }
+        },
+        {
+          "name": {
+            "de": "Benoa Bay",
+            "hu": "Benoa Bay",
+            "ro": "Benoa Bay",
+            "en": "Benoa Bay"
+          },
+          "coords": [
+            115.203909,
+            -8.756144
+          ],
+          "category": "landmark",
+          "arrive_at": "13:46",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf das glitzernde Wasser dieses führenden Wassersportzentrums; buchen Sie eine kurze Parasailing-Runde für atemberaubende Aussichten.",
+            "hu": "Élvezze a panorámát a csillogó vizeken ezen az első számú vízi sportközponton; foglaljon le egy gyors ejtőernyős repülést a lélegzetelállító madártávlati kilátásért.",
+            "ro": "Bucurați-vă de o vedere panoramică a apelor strălucitoare din acest centru principal de sporturi nautice; rezervați o sesiune de parasailing pentru o perspectivă aeriană.",
+            "en": "Enjoy a panoramic view of the sparkling waters known as the island's premier water sports hub; book a quick parasailing session for a breathtaking aerial perspective."
+          }
+        },
+        {
+          "name": {
+            "de": "Waterbom Bali",
+            "hu": "Waterbom Bali",
+            "ro": "Waterbom Bali",
+            "en": "Waterbom Bali"
+          },
+          "coords": [
+            115.170544,
+            -8.728354
+          ],
+          "category": "family",
+          "arrive_at": "14:24",
+          "stay_min": 130,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt in dieser ikonischen Wasseroase und rutschen Sie riesige Rutschen hinunter; nutzen Sie das bargeldlose Armbandsystem für nahtlose Essenskäufe.",
+            "hu": "Zárja a napot ebben az ikonikus vízi oázisban, csúszdázzon a hatalmas csövekben a hőség elől; használja a készpénzmentes karkötő rendszert a zökkenőmentes ételvásárláshoz.",
+            "ro": "Încheiați-vă excursia auto în această oază acvatică emblematică, coborând pe tobogane uriașe; utilizați sistemul de brățări fără numerar pentru a cumpăra rapid mâncare.",
+            "en": "Conclude your drive at this iconic water oasis, splashing down massive slides to wash off the day's heat; utilize the cashless wristband system for seamless food purchases."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie direkt ins Geschehen mit einem energiegeladenen Morgen im erstklassigen Trans Studio Bali.\nMittags erleben Sie einen tiefgreifenden kulturellen Wechsel bei der traditionellen Tari Barong Aufführung.\nKühlen Sie sich am Nachmittag auf den friedlichen Holzstegen des malerischen Mangrovenwaldes ab.\nBeenden Sie Ihre Fahrt mit dem Blick auf die Benoa-Bucht, bevor Sie sich ins Waterbom Bali stürzen.",
+        "hu": "Kezdje a napot egy energikus és izgalmas délelőttel a világszínvonalú Trans Studio Bali fedett vidámparkban.\nDélben mély kulturális élményben lesz része, amikor megtekinti a hagyományos Tari Barong és Keris előadást.\nDélután hűsöljön az Ekowisata mangroveerdő békés, fák között kanyargó, gyönyörű fapallóin sétálva.\nFejezze be az autózást a Benoa-öböl megtekintésével, majd csobbanjon egyet a híres Waterbom Bali parkban.",
+        "ro": "Conduceți direct în mijlocul acțiunii cu o dimineață energică la parcul tematic de interior Trans Studio Bali.\nLa prânz, schimbați peisajul asistând la un spectacol cultural tradițional fascinant, Tari Barong & Keris.\nRăcoriți-vă după-amiaza explorând pasarelele liniștite din lemn ale pădurii de mangrove Ekowisata.\nTerminați cursa scenică admirând Golful Benoa înainte de a vă aventura pe toboganele din Waterbom Bali.",
+        "en": "Drive right into the action with an energetic morning at the world-class Trans Studio Bali indoor theme park.\nMidday offers a profound cultural shift as you witness the traditional Tari Barong & Keris performance.\nCool off in the afternoon by exploring the peaceful wooden boardwalks of the Ekowisata mangrove forest.\nFinish your scenic drive taking in the sights of Benoa Bay before splashing into Waterbom Bali."
+      }
+    }
+  }
+}

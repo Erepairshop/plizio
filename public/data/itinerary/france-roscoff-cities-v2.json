@@ -1,0 +1,497 @@
+{
+  "city_id": "france-roscoff-cities-v2",
+  "anchor": {
+    "name": "Roscoff",
+    "coords": [
+      -3.9829,
+      48.72558
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:46",
+      "total_km": 1.35,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Petit Train Touristique",
+            "hu": "Kis Turistavonat",
+            "ro": "Trenulețul Turistic",
+            "en": "Tourist Train"
+          },
+          "coords": [
+            -3.982877,
+            48.725848
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Steigen Sie in diesen charmanten Zug für einen kommentierten Überblick über die Geschichte der Korsarenstadt, am besten früh am Tag.",
+            "hu": "Szálljon fel erre a bájos vonatra a kalózváros történetének megismeréséhez; érdemes kora reggel menni, hogy megtervezze a napot.",
+            "ro": "Urcați în acest trenuleț fermecător pentru o prezentare narată a istoriei orașului corsar, ideal de luat devreme dimineața.",
+            "en": "Hop on this charming train for a narrated overview of the corsair city's history, best taken early to plan the rest of your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame de Croaz Batz",
+            "hu": "Notre-Dame de Croaz Batz templom",
+            "ro": "Biserica Notre-Dame de Croaz Batz",
+            "en": "Notre-Dame de Croaz Batz Church"
+          },
+          "coords": [
+            -3.985692,
+            48.72654
+          ],
+          "category": "religious",
+          "arrive_at": "09:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie den Renaissance-Glockenturm und die schiffsförmigen Details der Kirche; achten Sie auf das kunstvolle Mauerwerk außen.",
+            "hu": "Csodálja meg a reneszánsz harangtornyot és a hajó alakú részleteket; szánjon időt a külső, aprólékos kőfaragványok megfigyelésére.",
+            "ro": "Admirați clopotnița renascentistă și detaliile navei acestei biserici, luând timp pentru a observa zidăria exterioară complexă.",
+            "en": "Marvel at the renaissance belfry and ship-shaped details of this church, taking time to check the intricate exterior stonework."
+          }
+        },
+        {
+          "name": {
+            "de": "Steinauge Chanteau",
+            "hu": "Chanteau Kőszem",
+            "ro": "Ochiul de Piatră Chanteau",
+            "en": "Stone Eye Chanteau"
+          },
+          "coords": [
+            -3.989184,
+            48.727436
+          ],
+          "category": "landmark",
+          "arrive_at": "10:13",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese moderne Kunstinstallation, die sich nahtlos ins historische Zentrum einfügt, und halten Sie Ihre Kamera bereit.",
+            "hu": "Keresse meg ezt az eldugott, modern művészeti installációt a történelmi központban, és készítse elő fényképezőgépét egy gyors fotóhoz.",
+            "ro": "Găsiți această instalație de artă modernă integrată perfect în centrul istoric, asigurându-vă că aparatul foto este pregătit.",
+            "en": "Spot this quirky modern art installation seamlessly integrated into the historic center, making sure your camera is ready for a quick photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Sainte-Anne",
+            "hu": "Sainte-Anne Kápolna",
+            "ro": "Capela Sainte-Anne",
+            "en": "Sainte-Anne Chapel"
+          },
+          "coords": [
+            -3.982586,
+            48.723936
+          ],
+          "category": "religious",
+          "arrive_at": "10:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Betreten Sie diese friedliche Kapelle, die der Schutzpatronin der Bretagne gewidmet ist, außerhalb der Gottesdienstzeiten am Sonntag.",
+            "hu": "Lépjen be ebbe a békés kápolnába, amelyet Bretagne védőszentjének szenteltek; érdemes kerülni a vasárnapi misék zsúfolt idejét.",
+            "ro": "Pășiți în această capelă pașnică dedicată sfântului patron al Bretaniei, evitând orele aglomerate de slujbă de duminică.",
+            "en": "Step inside this peaceful, modest chapel dedicated to the patron saint of Brittany, avoiding the busy Sunday service hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Rettungsboot-Unterstand",
+            "hu": "Mentőcsónak-tároló",
+            "ro": "Adăpostul Bărcilor de Salvare",
+            "en": "Lifeboat Shelter"
+          },
+          "coords": [
+            -3.981455,
+            48.723033
+          ],
+          "category": "museum",
+          "arrive_at": "11:19",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Erkunden Sie den authentischen Rettungsboot-Unterstand, um das Leben bretonischer Fischer zu verstehen; prüfen Sie vorher die Gezeiten.",
+            "hu": "Fedezze fel ezt az eredeti mentőcsónak-tárolót a breton halászok életének megértéséhez; látogatás előtt ellenőrizze az árapályt.",
+            "ro": "Explorați acest adăpost autentic pentru a înțelege realitatea pescarilor bretoni, verificând orele mareei înainte de vizită.",
+            "en": "Explore this authentic lifeboat shelter to understand the perilous reality of Breton fishermen, checking the tide times before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm von Roscoff",
+            "hu": "Roscoff Világítótorony",
+            "ro": "Farul din Roscoff",
+            "en": "Roscoff Lighthouse"
+          },
+          "coords": [
+            -3.980493,
+            48.722554
+          ],
+          "category": "landmark",
+          "arrive_at": "13:01",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.09,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag an diesem Granitleuchtturm für Panoramablicke aufs Meer; kommen Sie früh, um die 95 Stufen vor Einbruch der Dunkelheit zu erklimmen.",
+            "hu": "Zárja a napot ennél a gránit világítótoronynál a panorámás tengeri kilátásért; érkezzen időben, hogy sötétedés előtt megmássza a 95 lépcsőfokot.",
+            "ro": "Încheiați ziua la acest far din granit pentru o vedere panoramică, ajungând la timp pentru a urca cele 95 de trepte înainte de amurg.",
+            "en": "End your day at this 24-meter tall granite lighthouse for panoramic sea views, arriving early enough to climb the 95 steps before dusk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einem Überblick über Roscoff in der Touristenbahn, bevor Sie den kunstvollen Turm der Notre-Dame-Kirche bewundern. Mittags passieren Sie historische Granitmonumente und die ruhige Sainte-Anne-Kapelle. Der Nachmittag ist dem maritimen Erbe im alten Rettungsboot-Unterstand gewidmet. Am Abend blicken Sie zum ikonischen Granitleuchtturm hinauf.",
+        "hu": "A reggel egy áttekintéssel indul a kisvonaton, majd a Notre-Dame templom díszes gótikus tornyát csodálhatja meg. Délben gránit emlékművek és a csendes Sainte-Anne kápolna mellett halad el. A délutánt a helyi tengerészeti örökség felfedezésével tölti a régi mentőcsónak-tárolóban. Az este közeledtével pedig az ikonikus világítótorony felé tekinthet.",
+        "ro": "Dimineața începe cu un tur de orientare în trenulețul turistic înainte de a admira turnul gotic al bisericii Notre-Dame. La amiază treceți pe lângă monumente istorice din granit și liniștita capelă Sainte-Anne. După-amiaza este dedicată patrimoniului maritim la vechiul adăpost al bărcilor de salvare. Seara se încheie cu o privire asupra farului iconic.",
+        "en": "Morning starts with an overview of Roscoff on the tourist train before admiring the elaborate gothic tower of Notre-Dame church. Midday brings you past historic granite monuments like Œil de Pierre Chanteau and the quiet Sainte-Anne chapel. Afternoon is spent delving into local maritime heritage at the old lifeboat shelter. Evening approaches as you gaze up at the iconic granite lighthouse."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:59",
+      "total_km": 5.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Notre-Dame de Croaz Batz",
+            "hu": "Notre-Dame de Croaz Batz templom",
+            "ro": "Biserica Notre-Dame de Croaz Batz",
+            "en": "Notre-Dame de Croaz Batz Church"
+          },
+          "coords": [
+            -3.985692,
+            48.72654
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den filigranen Glockenturm; schließen Sie Ihr Fahrrad sicher am Platz ab, während Sie das Innere erkunden.",
+            "hu": "Kezdje itt, hogy megcsodálja a faragott harangtornyot; zárja le biztonságosan a kerékpárját a téren a belső tér felfedezése közben.",
+            "ro": "Începeți aici pentru a admira turnul sculptat, asigurându-vă bicicleta în piață în timp ce explorați interiorul.",
+            "en": "Start here to admire the intricately sculpted bell tower, locking your bike securely in the square while exploring the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Historische Algenöfen",
+            "hu": "Történelmi Algakemencék",
+            "ro": "Cuptoarele de Alge",
+            "en": "Historical Kelp Kilns"
+          },
+          "coords": [
+            -3.970759,
+            48.735894
+          ],
+          "category": "historical",
+          "arrive_at": "09:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Überreste der für die lokale Geschichte wichtigen Algenverarbeitung; tragen Sie festes Schuhwerk für die Küstenfelsen.",
+            "hu": "Fedezze fel a helyi történelemben fontos algfeldolgozó ipar maradványait; viseljen erős cipőt a tengerparti sziklákhoz.",
+            "ro": "Descoperiți resturile industriei de procesare a algelor, purtând încălțăminte robustă pentru a păși pe rocile de coastă.",
+            "en": "Discover the remnants of the seaweed processing industry vital to local history, wearing sturdy shoes to step carefully on the coastal rocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Sainte-Barbe",
+            "hu": "Sainte-Barbe Kápolna",
+            "ro": "Capela Sainte-Barbe",
+            "en": "Sainte-Barbe Chapel"
+          },
+          "coords": [
+            -3.971322,
+            48.72558
+          ],
+          "category": "religious",
+          "arrive_at": "11:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause an dieser windgepeitschten Kapelle, die Seeleute einst vor Stürmen warnte, und genießen Sie den weiten Küstenblick.",
+            "hu": "Tartson pihenőt ennél a szeles kápolnánál, amely régen a viharokra figyelmeztetett; élvezze a magasból nyíló tengerparti kilátást.",
+            "ro": "Faceți o pauză la această capelă bătută de vânt, care avertiza marinarii, bucurându-vă de perspectiva de coastă.",
+            "en": "Take a breather at this stark, windswept chapel that historically warned sailors of storms, enjoying the elevated coastal perspective."
+          }
+        },
+        {
+          "name": {
+            "de": "Exotischer Garten",
+            "hu": "Egzotikus Kert",
+            "ro": "Grădina Exotică",
+            "en": "Exotic Garden"
+          },
+          "coords": [
+            -3.968981,
+            48.716259
+          ],
+          "category": "garden",
+          "arrive_at": "12:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Streifen Sie durch exotische Pflanzen, die im Golfstrom-Mikroklima gedeihen; planen Sie mindestens eine Stunde für die felsigen Pfade ein.",
+            "hu": "Sétáljon a déli félteke növényei között a Golf-áramlat mikroklímájában; szánjon legalább egy órát a sziklás ösvények bejárására.",
+            "ro": "Plimbați-vă printre plantele exotice prosperând în microclimatul Curentului Golfului, alocând o oră pentru potecile stâncoase.",
+            "en": "Roam among southern hemisphere plants thriving in the Gulf Stream microclimate, allocating at least an hour to fully enjoy the rocky paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-Nicolas",
+            "hu": "Saint-Nicolas Kápolna",
+            "ro": "Capela Saint-Nicolas",
+            "en": "Saint-Nicolas Chapel"
+          },
+          "coords": [
+            -3.985389,
+            48.720645
+          ],
+          "category": "religious",
+          "arrive_at": "13:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser charmanten Fischerkapelle nahe dem alten Hafen, ideal, um das Rad abzustellen und in der Nähe Crêpes zu essen.",
+            "hu": "Álljon meg a halászok bájos kápolnájánál az öreg kikötőnél, ami ideális hely a bringa letámasztására egy közeli crêpe-hez.",
+            "ro": "Opriți-vă la capela pescarilor de lângă portul vechi, locul ideal pentru a lăsa bicicleta și a savura o clătită.",
+            "en": "Pause by this charming fisherman's chapel near the old port, an ideal spot to lock the bike and grab a quick waterfront crêpe nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm von Roscoff",
+            "hu": "Roscoff Világítótorony",
+            "ro": "Farul din Roscoff",
+            "en": "Roscoff Lighthouse"
+          },
+          "coords": [
+            -3.980493,
+            48.722554
+          ],
+          "category": "landmark",
+          "arrive_at": "14:14",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour an diesem imposanten Leuchtturm, nutzen Sie die Fahrradständer und genießen Sie den Blick auf den Sonnenuntergang.",
+            "hu": "Fejezze be útját ennél az impozáns világítótoronynál, használja a kerékpártárolókat, és élvezze a naplemente látványát.",
+            "ro": "Încheiați cursa la farul impunător pentru a privi traficul maritim, folosind suporturile de biciclete înainte de apus.",
+            "en": "Conclude your ride at this imposing lighthouse to watch the maritime traffic, using the nearby bike racks before checking the sunset view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie auf zwei Rädern an der prächtigen Croaz-Batz-Kirche und radeln Sie zur zerklüfteten Küste. Mittags fahren Sie an den alten Kelpöfen und der einsamen Sainte-Barbe-Kapelle vorbei. Der Nachmittag wird herrlich grün, wenn Sie durch den spektakulären Exotischen Garten schlendern. Der Abend endet nahe dem belebten Hafen bei der Saint-Nicolas-Kapelle und dem majestätischen Leuchtturm.",
+        "hu": "Két keréken induljon a pompás Croaz Batz templomtól a vadregényes tengerpart felé. Délben a régi jódkészítő kemencék és a magányos Sainte-Barbe kápolna mellett halad el, élvezve a tengeri szellőt. A délután buja zöldben telik, ahogy a látványos Egzotikus Kertben sétál. Az este a nyüzsgő kikötő közelében, a Saint-Nicolas kápolnánál és a fenséges világítótoronynál ér véget.",
+        "ro": "Porniți pe două roți de la biserica magnifică Croaz Batz spre coasta accidentată. Amiaza vă poartă pe lângă vechile cuptoare de alge și capela izolată Sainte-Barbe. După-amiaza este spectaculos de verde, plimbându-vă prin impresionanta Grădină Exotică. Seara se încheie lângă portul plin de viață, capela Saint-Nicolas și farul maiestuos.",
+        "en": "Set off on two wheels from the magnificent Croaz Batz church, pedaling toward the rugged coastline. Midday leads you past the old iodine kelp kilns and the solitary Sainte-Barbe chapel with ocean breezes. Afternoon is beautifully lush as you wander through the spectacular Exotic Garden. Evening finishes near the bustling harbor by Saint-Nicolas chapel and the majestic lighthouse."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:08",
+      "total_km": 6.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss du Laber",
+            "hu": "Laber Kastély",
+            "ro": "Castelul du Laber",
+            "en": "Laber Castle"
+          },
+          "coords": [
+            -4.000096,
+            48.711549
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses Herrenhaus inmitten der Küstenlandschaft; parken Sie am Straßenrand, ohne den Verkehr zu blockieren.",
+            "hu": "Kezdje a reggelt ennek a gyönyörű, tengerparti kastélynak a megcsodálásával; ügyeljen arra, hogy az út szélén szabályosan parkoljon.",
+            "ro": "Începeți dimineața admirând acest conac frumos, parcând complet în afara drumului pentru a nu bloca traficul.",
+            "en": "Start the morning admiring this beautiful manor surrounded by coastal scenery, noting that parking on the shoulder requires pulling completely off the road."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Kerestat",
+            "hu": "Kerestat Kastély",
+            "ro": "Castelul Kerestat",
+            "en": "Kerestat Castle"
+          },
+          "coords": [
+            -3.990748,
+            48.708097
+          ],
+          "category": "castle",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beobachten Sie die klassischen Verteidigungsanlagen dieser regionalen Festung; lassen Sie Ihr Auto im Besucherparkplatz hinter dem Tor.",
+            "hu": "Figyelje meg ennek a regionális erődítménynek a klasszikus védelmi vonásait; hagyja autóját a bejárat utáni kijelölt parkolóban.",
+            "ro": "Observați caracteristicile defensive ale acestei fortărețe regionale, lăsând mașina în parcarea pentru vizitatori de după poartă.",
+            "en": "Observe the classic defensive features of this regional stronghold, leaving your car in the designated visitor bay just past the entrance gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Notre-Dame-de-Bonne-Nouvelle",
+            "hu": "Notre-Dame-de-Bonne-Nouvelle Kápolna",
+            "ro": "Capela Notre-Dame-de-Bonne-Nouvelle",
+            "en": "Notre-Dame-de-Bonne-Nouvelle Chapel"
+          },
+          "coords": [
+            -3.984067,
+            48.70758
+          ],
+          "category": "religious",
+          "arrive_at": "11:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe dieses verborgenen Juwels; die kleine Kiesbucht bietet einfachen Zugang ohne enge Stadtstraßen.",
+            "hu": "Élvezze ennek az elrejtett vallási gyöngyszemnek a nyugalmát, ahol a kis kavicsos lehajtó könnyű hozzáférést biztosít a parkoláshoz.",
+            "ro": "Bucurați-vă de liniștea acestei bijuterii ascunse, unde o mică parcare cu pietriș oferă acces ușor, fără străzi înguste.",
+            "en": "Enjoy the tranquility of this hidden religious gem, where the small gravel pull-off offers easy access without navigating narrow town streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Exotischer Garten",
+            "hu": "Egzotikus Kert",
+            "ro": "Grădina Exotică",
+            "en": "Exotic Garden"
+          },
+          "coords": [
+            -3.968981,
+            48.716259
+          ],
+          "category": "garden",
+          "arrive_at": "12:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese atemberaubende botanische Sammlung am Felsen; nutzen Sie den großen, kostenlosen Parkplatz auf der anderen Straßenseite.",
+            "hu": "Fedezze fel a sziklafalba kapaszkodó lenyűgöző botanikai gyűjteményt, és használja a tágas ingyenes parkolót az út túloldalán.",
+            "ro": "Explorați colecția botanică uimitoare de pe stâncă, folosind parcarea gratuită spațioasă de peste drum.",
+            "en": "Explore this stunning botanical collection clinging to the rock face, making use of the spacious free parking area right across the road."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Sainte-Barbe",
+            "hu": "Sainte-Barbe Kápolna",
+            "ro": "Capela Sainte-Barbe",
+            "en": "Sainte-Barbe Chapel"
+          },
+          "coords": [
+            -3.971322,
+            48.72558
+          ],
+          "category": "religious",
+          "arrive_at": "13:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Blicken Sie von diesem Heiligtum auf dem Hügel aufs Meer; es gibt einige Parkplätze für den kurzen Aufstieg zum Aussichtspunkt.",
+            "hu": "Tekintsen le erről a dombtetőn lévő tengerész szentélyről; a parkolóhelyekről rövid sétával érhető el a kilátó.",
+            "ro": "Priviți de la acest sanctuar marin de pe deal, unde veți găsi câteva locuri de parcare pentru o drumeție scurtă.",
+            "en": "Gaze out from this hilltop sailors' sanctuary, where you'll find a few parking spaces allowing a quick hike up to the viewpoint."
+          }
+        },
+        {
+          "name": {
+            "de": "Historische Algenöfen",
+            "hu": "Történelmi Algakemencék",
+            "ro": "Cuptoarele de Alge",
+            "en": "Historical Kelp Kilns"
+          },
+          "coords": [
+            -3.970759,
+            48.735894
+          ],
+          "category": "historical",
+          "arrive_at": "14:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Inspizieren Sie die historischen Algenöfen an der rauen Küste; verschließen Sie Ihr Fahrzeug gut, da hier ein beliebter Wanderweg beginnt.",
+            "hu": "Vizsgálja meg a történelmi algakemencéket a zord parton; feltétlenül zárja be járművét, mivel ez egy népszerű túraútvonal kezdete.",
+            "ro": "Inspectați cuptoarele istorice de alge de pe țărm, asigurându-vă că blocați vehiculul la începutul acestui traseu popular.",
+            "en": "Inspect these intriguing historical seaweed kilns along the rugged shore, ensuring you lock your vehicle as it's a popular walking trail start."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame de Croaz Batz",
+            "hu": "Notre-Dame de Croaz Batz templom",
+            "ro": "Biserica Notre-Dame de Croaz Batz",
+            "en": "Notre-Dame de Croaz Batz Church"
+          },
+          "coords": [
+            -3.985692,
+            48.72654
+          ],
+          "category": "religious",
+          "arrive_at": "15:58",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Zum Abschluss bewundern Sie die reiche Verzierung der Kirche; nutzen Sie den städtischen Parkplatz in der Nähe, um Staus zu vermeiden.",
+            "hu": "Zárásként csodálja meg a központi templom gazdag díszítését, és használja a közeli városi parkolót, hogy elkerülje a dugókat.",
+            "ro": "Încheiați admirând ornamentația bogată a acestei biserici centrale, utilizând parcarea municipală pentru a evita blocajele de trafic.",
+            "en": "Finish by marveling at the rich ornamentation of this central church, utilizing the municipal car park nearby to avoid central traffic jams."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt am ruhigen Château du Laber mit seiner majestätischen bretonischen Architektur. Mittags fahren Sie zum eleganten Château de Kerestat und zur urigen Kapelle Notre-Dame-de-Bonne-Nouvelle. Der Nachmittag wird wilder, wenn Sie vom Exotischen Garten zur dramatischen Küste bei Sainte-Barbe wechseln. Der Abend gipfelt in der prächtigen Kirche Croaz Batz, reich an Piratengeschichte.",
+        "hu": "Az autós túra a csendes Château du Labernél indul, bemutatva a fenséges breton építészetet. Délben az elegáns Château de Kerestat és a bájos Notre-Dame-de-Bonne-Nouvelle kápolna várja. A délután vadabb tájakat kínál, ahogy az Egzotikus Kertből a drámai tengerpart felé halad Sainte-Barbe közelében. Az este a kalózlegendákban gazdag Croaz Batz templomnál csúcsosodik ki a városban.",
+        "ro": "Turul auto începe la liniștitul Château du Laber, oferind o introducere în arhitectura bretonă. Amiaza vă duce la elegantul Château de Kerestat și pitoreasca capelă Notre-Dame-de-Bonne-Nouvelle. Peisajul după-amiezii devine sălbatic de la Grădina Exotică spre coasta dramatică din apropiere de Sainte-Barbe. Seara culminează la biserica ornamentată Croaz Batz, plină de legende cu pirați.",
+        "en": "Your driving tour begins at the serene Château du Laber, offering an introduction to majestic Breton architecture. Midday carries you to the elegant Château de Kerestat and the quaint Notre-Dame-de-Bonne-Nouvelle chapel. Afternoon scenery turns wild as you transition from the Exotic Garden to the dramatic coastline near Sainte-Barbe. Evening culminates back in town at the ornate Croaz Batz church, rich with pirate lore."
+      }
+    }
+  }
+}

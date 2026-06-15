@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-gagliano-del-capo-cities-v2",
+  "anchor": {
+    "name": "Gagliano del Capo",
+    "coords": [
+      18.36953,
+      39.84422
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:08",
+      "total_km": 3.85,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Palazzo Daniele",
+            "hu": "Palazzo Daniele",
+            "ro": "Palazzo Daniele",
+            "en": "Palazzo Daniele"
+          },
+          "coords": [
+            18.372816,
+            39.844153
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten minimalistischen Fresken in diesem historischen Adelspalast aus dem 19. Jahrhundert und suchen Sie den versteckten Orangenhof für ein Foto.",
+            "hu": "Csodálja meg a 19. századi arisztokrata palota belső tereinek lenyűgözően minimalista freskóit, és keressen rá a rejtett narancsligetes udvarra egy fotó erejéig.",
+            "ro": "Admirați frescele minimaliste uimitoare din interiorul acestui conac aristocratic istoric din secolul al XIX-lea și căutați curtea ascunsă cu portocali pentru o fotografie.",
+            "en": "Admire the striking minimalist frescoes inside this historic 19th-century aristocratic mansion, and look for the hidden courtyard orange grove for a peaceful photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Municipio di Gagliano del Capo",
+            "hu": "Municipio di Gagliano del Capo",
+            "ro": "Municipio di Gagliano del Capo",
+            "en": "Municipio di Gagliano del Capo"
+          },
+          "coords": [
+            18.372725,
+            39.845412
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Betrachten Sie die klassischen architektonischen Linien des Rathauses, das das städtische Leben prägt, und besuchen Sie es morgens, um den belebten Platz zu erleben.",
+            "hu": "Figyelje meg a helyi civil életet összefogó városháza klasszikus építészeti vonalait, és látogasson el ide a délelőtti órákban, amikor a környező tér a legélénkebb.",
+            "ro": "Observați liniile arhitecturale clasice ale primăriei care ancorează viața civică locală și vizitați-o dimineața pentru a vedea piața înconjurătoare la cea mai animată oră.",
+            "en": "Observe the classical architectural lines of the town hall which anchors the local civic life, and visit during morning hours to see the surrounding square at its liveliest."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Vincenzo Ciardo",
+            "hu": "Casa Vincenzo Ciardo",
+            "ro": "Casa Vincenzo Ciardo",
+            "en": "Casa Vincenzo Ciardo"
+          },
+          "coords": [
+            18.374671,
+            39.843348
+          ],
+          "category": "historical",
+          "arrive_at": "11:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die erhaltene ehemalige Residenz des berühmten lokalen Landschaftsmalers, um seine Inspiration zu verstehen, und achten Sie auf die traditionellen apulischen Steinarbeiten.",
+            "hu": "Fedezze fel a híres helyi tájképfestő egykori rezidenciáját, hogy megértse ihletének forrását, és feltétlenül figyelje meg a hagyományos pugliai kőműves részleteket.",
+            "ro": "Descoperiți fosta reședință păstrată a celebrului pictor peisagist local pentru a-i înțelege sursa de inspirație, având grijă să observați detaliile tradiționale din piatră.",
+            "en": "Discover the preserved former residence of the famous local landscape painter to understand his inspiration, making sure to notice the traditional Apulian stonework details."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir della Croce",
+            "hu": "Menhir della Croce",
+            "ro": "Menhir della Croce",
+            "en": "Menhir della Croce"
+          },
+          "coords": [
+            18.361031,
+            39.848049
+          ],
+          "category": "historical",
+          "arrive_at": "13:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diesen alten megalithischen stehenden Stein, der von einem christlichen Kreuz gekrönt wird, und betrachten Sie ihn von der Nordseite aus im besten Licht.",
+            "hu": "Vizsgálja meg ezt az ősi megalitikus állókövet, amelynek tetején keresztény kereszt áll, és tekintse meg az északi oldalról, hogy a legszebb fényviszonyok mellett fotózhassa.",
+            "ro": "Examinați această piatră megalitică antică încoronată cu o cruce creștină pentru a asista la istoria regională stratificată și priviți-o din partea de nord pentru cea mai bună lumină.",
+            "en": "Examine this ancient megalithic standing stone topped with a Christian cross to witness layered regional history, and view it from the northern side for the best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia del Ciolo",
+            "hu": "Spiaggia del Ciolo",
+            "ro": "Spiaggia del Ciolo",
+            "en": "Spiaggia del Ciolo"
+          },
+          "coords": [
+            18.385487,
+            39.844081
+          ],
+          "category": "recreational",
+          "arrive_at": "14:23",
+          "stay_min": 105,
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die dramatische steile Bucht am kristallklaren Adriatischen Meer, wo die Einheimischen tauchen, und tragen Sie feste Wasserschuhe für den felsigen Einstieg.",
+            "hu": "Csodálja meg a kristálytiszta Adriai-tengerrel találkozó drámai, meredek öblöt, és viseljen masszív vízi cipőt a sziklás, nehezen járható partszakaszon való bejutáshoz.",
+            "ro": "Minunați-vă de golful dramatic și abrupt care întâlnește marea Adriatică cristalină și purtați pantofi de apă rezistenți pentru a naviga prin intrarea stâncoasă în apă.",
+            "en": "Marvel at the dramatic steep cove meeting the crystal-clear Adriatic sea where locals dive, and wear sturdy water shoes to navigate the rocky entry into the cooling water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der Erkundung der eleganten Architektur des Palazzo Daniele, einem aristokratischen Juwel. Mittags erreichen Sie das bürgerliche Herz der Stadt und entdecken das Municipio sowie das Haus von Vincenzo Ciardo. Am Nachmittag spazieren Sie gemütlich am antiken Menhir della Croce vorbei. Beenden Sie den Tag entspannt an den dramatischen Klippen der Spiaggia del Ciolo.",
+        "hu": "Kezdje a reggelt a Palazzo Daniele elegáns építészetének felfedezésével, amely az arisztokrata történelem rejtett gyöngyszeme. A dél a város civil központjába vezet, a Municipio és Vincenzo Ciardo egykori otthonához. Délután tegyen egy kényelmes sétát az ősi Menhir della Croce mellett. A napot a Spiaggia del Ciolo lenyűgöző és drámai szikláinál pihenve zárhatja tökéletesen.",
+        "ro": "Începeți dimineața explorând arhitectura elegantă de la Palazzo Daniele, o bijuterie ascunsă a istoriei aristocratice. La amiază ajungeți în inima civică a orașului, descoperind Municipio și casa pictorului Vincenzo Ciardo. După-amiaza, faceți o plimbare pe lângă anticul Menhir della Croce. Încheiați ziua relaxându-vă la stâncile dramatice uimitoare de la Spiaggia del Ciolo.",
+        "en": "Start your morning exploring the elegant architecture of Palazzo Daniele, a hidden gem of aristocratic history. Midday brings you to the civic heart of the town, discovering the Municipio and the preserved home of painter Vincenzo Ciardo. In the afternoon, take a leisurely stroll past the ancient Menhir della Croce. End your day relaxing by the stunning dramatic cliffs of Spiaggia del Ciolo."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:53",
+      "total_km": 4.25,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cripta S. Apollonia",
+            "hu": "Cripta S. Apollonia",
+            "ro": "Cripta S. Apollonia",
+            "en": "Cripta S. Apollonia"
+          },
+          "coords": [
+            18.357224,
+            39.863452
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende unterirdische byzantinische Krypta mit verblassenden historischen Fresken und bringen Sie eine kleine Taschenlampe für die dunkleren Ecken mit.",
+            "hu": "Fedezze fel ezt a lenyűgöző, földalatti bizánci kriptát, amelyet elhalványuló történelmi freskók díszítenek, és hozzon magával egy kis zseblámpát a sötétebb sarkok megvilágítására.",
+            "ro": "Explorați această fascinantă criptă bizantină subterană decorată cu fresce istorice decolorate și aduceți o lanternă mică pentru a ilumina colțurile mai întunecate.",
+            "en": "Explore this fascinating underground Byzantine crypt decorated with fading historical frescoes, and bring a small flashlight to illuminate the darker corners of the painted walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir della Croce",
+            "hu": "Menhir della Croce",
+            "ro": "Menhir della Croce",
+            "en": "Menhir della Croce"
+          },
+          "coords": [
+            18.361031,
+            39.848049
+          ],
+          "category": "historical",
+          "arrive_at": "10:39",
+          "stay_min": 15,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diesen alten megalithischen stehenden Stein, der von einem christlichen Kreuz gekrönt wird, und betrachten Sie ihn von der Nordseite aus im besten Licht.",
+            "hu": "Vizsgálja meg ezt az ősi megalitikus állókövet, amelynek tetején keresztény kereszt áll, és tekintse meg az északi oldalról, hogy a legszebb fényviszonyok mellett fotózhassa.",
+            "ro": "Examinați această piatră megalitică antică încoronată cu o cruce creștină pentru a asista la istoria regională stratificată și priviți-o din partea de nord pentru cea mai bună lumină.",
+            "en": "Examine this ancient megalithic standing stone topped with a Christian cross to witness layered regional history, and view it from the northern side for the best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Daniele",
+            "hu": "Palazzo Daniele",
+            "ro": "Palazzo Daniele",
+            "en": "Palazzo Daniele"
+          },
+          "coords": [
+            18.372816,
+            39.844153
+          ],
+          "category": "castle",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten minimalistischen Fresken in diesem historischen Adelspalast aus dem 19. Jahrhundert und suchen Sie den versteckten Orangenhof für ein Foto.",
+            "hu": "Csodálja meg a 19. századi arisztokrata palota belső tereinek lenyűgözően minimalista freskóit, és keressen rá a rejtett narancsligetes udvarra egy fotó erejéig.",
+            "ro": "Admirați frescele minimaliste uimitoare din interiorul acestui conac aristocratic istoric din secolul al XIX-lea și căutați curtea ascunsă cu portocali pentru o fotografie.",
+            "en": "Admire the striking minimalist frescoes inside this historic 19th-century aristocratic mansion, and look for the hidden courtyard orange grove for a peaceful photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Municipio di Gagliano del Capo",
+            "hu": "Municipio di Gagliano del Capo",
+            "ro": "Municipio di Gagliano del Capo",
+            "en": "Municipio di Gagliano del Capo"
+          },
+          "coords": [
+            18.372725,
+            39.845412
+          ],
+          "category": "historical",
+          "arrive_at": "12:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Betrachten Sie die klassischen architektonischen Linien des Rathauses, das das städtische Leben prägt, und besuchen Sie es morgens, um den belebten Platz zu erleben.",
+            "hu": "Figyelje meg a helyi civil életet összefogó városháza klasszikus építészeti vonalait, és látogasson el ide a délelőtti órákban, amikor a környező tér a legélénkebb.",
+            "ro": "Observați liniile arhitecturale clasice ale primăriei care ancorează viața civică locală și vizitați-o dimineața pentru a vedea piața înconjurătoare la cea mai animată oră.",
+            "en": "Observe the classical architectural lines of the town hall which anchors the local civic life, and visit during morning hours to see the surrounding square at its liveliest."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Vincenzo Ciardo",
+            "hu": "Casa Vincenzo Ciardo",
+            "ro": "Casa Vincenzo Ciardo",
+            "en": "Casa Vincenzo Ciardo"
+          },
+          "coords": [
+            18.374671,
+            39.843348
+          ],
+          "category": "historical",
+          "arrive_at": "13:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die erhaltene ehemalige Residenz des berühmten lokalen Landschaftsmalers, um seine Inspiration zu verstehen, und achten Sie auf die traditionellen apulischen Steinarbeiten.",
+            "hu": "Fedezze fel a híres helyi tájképfestő egykori rezidenciáját, hogy megértse ihletének forrását, és feltétlenül figyelje meg a hagyományos pugliai kőműves részleteket.",
+            "ro": "Descoperiți fosta reședință păstrată a celebrului pictor peisagist local pentru a-i înțelege sursa de inspirație, având grijă să observați detaliile tradiționale din piatră.",
+            "en": "Discover the preserved former residence of the famous local landscape painter to understand his inspiration, making sure to notice the traditional Apulian stonework details."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia del Ciolo",
+            "hu": "Spiaggia del Ciolo",
+            "ro": "Spiaggia del Ciolo",
+            "en": "Spiaggia del Ciolo"
+          },
+          "coords": [
+            18.385487,
+            39.844081
+          ],
+          "category": "recreational",
+          "arrive_at": "15:08",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die dramatische steile Bucht am kristallklaren Adriatischen Meer, wo die Einheimischen tauchen, und tragen Sie feste Wasserschuhe für den felsigen Einstieg.",
+            "hu": "Csodálja meg a kristálytiszta Adriai-tengerrel találkozó drámai, meredek öblöt, és viseljen masszív vízi cipőt a sziklás, nehezen járható partszakaszon való bejutáshoz.",
+            "ro": "Minunați-vă de golful dramatic și abrupt care întâlnește marea Adriatică cristalină și purtați pantofi de apă rezistenți pentru a naviga prin intrarea stâncoasă în apă.",
+            "en": "Marvel at the dramatic steep cove meeting the crystal-clear Adriatic sea where locals dive, and wear sturdy water shoes to navigate the rocky entry into the cooling water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer mit einem Besuch der mysteriösen Cripta S. Apollonia im Norden der Stadt. Mittags radeln Sie am Menhir della Croce vorbei und bewundern den Palazzo Daniele. Verbringen Sie den Nachmittag damit, durch die Straßen zu fahren, um das Rathaus und die Casa Vincenzo Ciardo zu sehen. Der Abend belohnt Sie mit einem Sonnenuntergang an der schönen Spiaggia del Ciolo.",
+        "hu": "Indítsa kerékpáros kalandját a város északi részén található titokzatos Cripta S. Apollonia meglátogatásával. Délben tekerjen el az ősi Menhir della Croce mellett, és csodálja meg a Palazzo Daniele-t. A délutánt a városháza és a Casa Vincenzo Ciardo felfedezésével töltheti. Az este pedig lenyűgöző naplemente-élménnyel jutalmazza meg a gyönyörű Spiaggia del Ciolo tengerpartján.",
+        "ro": "Începeți aventura pe bicicletă vizitând misterioasa Criptă S. Apollonia aflată la nord de oraș. La amiază, pedalați pe lângă Menhir della Croce și admirați grandiosul Palazzo Daniele. Petreceți după-amiaza pe străzi pentru a vedea primăria și Casa Vincenzo Ciardo. Seara vă răsplătește cu o priveliște la apus la superba Spiaggia del Ciolo.",
+        "en": "Kick off your cycling adventure by visiting the mysterious underground Cripta S. Apollonia just north of town. By midday, pedal past the ancient Menhir della Croce and admire the grand Palazzo Daniele in the historic center. Spend your afternoon weaving through the streets to see the town hall and Casa Vincenzo Ciardo. Your evening rewards you with a sunset view at the beautiful Spiaggia del Ciolo."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:29",
+      "total_km": 8.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cripta S. Apollonia",
+            "hu": "Cripta S. Apollonia",
+            "ro": "Cripta S. Apollonia",
+            "en": "Cripta S. Apollonia"
+          },
+          "coords": [
+            18.357224,
+            39.863452
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende unterirdische byzantinische Krypta mit verblassenden historischen Fresken und bringen Sie eine kleine Taschenlampe für die dunkleren Ecken mit.",
+            "hu": "Fedezze fel ezt a lenyűgöző, földalatti bizánci kriptát, amelyet elhalványuló történelmi freskók díszítenek, és hozzon magával egy kis zseblámpát a sötétebb sarkok megvilágítására.",
+            "ro": "Explorați această fascinantă criptă bizantină subterană decorată cu fresce istorice decolorate și aduceți o lanternă mică pentru a ilumina colțurile mai întunecate.",
+            "en": "Explore this fascinating underground Byzantine crypt decorated with fading historical frescoes, and bring a small flashlight to illuminate the darker corners of the painted walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Municipio di Castrignano del Capo",
+            "hu": "Municipio di Castrignano del Capo",
+            "ro": "Municipio di Castrignano del Capo",
+            "en": "Municipio di Castrignano del Capo"
+          },
+          "coords": [
+            18.352701,
+            39.831434
+          ],
+          "category": "historical",
+          "arrive_at": "10:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die großartige institutionelle Architektur dieses historischen städtischen Gebäudes, und überprüfen Sie die Anschlagbretter auf bevorstehende lokale Festivals.",
+            "hu": "Csodálja meg ennek a városközpontot meghatározó történelmi önkormányzati épületnek a nagyszerű építészetét, és nézze meg a kinti hirdetőtáblákon a közelgő helyi fesztiválokat.",
+            "ro": "Admirați grandioasa arhitectură instituțională a acestei clădiri municipale istorice care încadrează centrul orașului și verificați avizierele exterioare pentru festivalurile locale.",
+            "en": "Admire the grand institutional architecture of this historic municipal building which frames the town center, and check the notice boards outside for upcoming local festivals."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Michele Arcangelo",
+            "hu": "Chiesa di San Michele Arcangelo",
+            "ro": "Chiesa di San Michele Arcangelo",
+            "en": "Chiesa di San Michele Arcangelo"
+          },
+          "coords": [
+            18.349127,
+            39.833556
+          ],
+          "category": "religious",
+          "arrive_at": "11:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erleben Sie die ruhige spirituelle Atmosphäre dieser wunderschön restaurierten Pfarrkirche mit kunstvollen Altären und respektieren Sie die Kleiderordnung, indem Sie Schultern bedecken.",
+            "hu": "Tapasztalja meg ennek a gyönyörűen felújított, díszes oltárokkal rendelkező plébániatemplomnak a nyugodt szellemi légkörét, és a vállak eltakarásával tartsa tiszteletben a helyi szokásokat.",
+            "ro": "Experimentați atmosfera spirituală liniștită a acestei biserici parohiale frumos restaurate cu altare ornamentate și respectați codul vestimentar local acoperindu-vă umerii.",
+            "en": "Experience the tranquil spiritual atmosphere of this beautifully restored parish church featuring ornate altars, and respect the local dress code by covering your shoulders inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir della Croce",
+            "hu": "Menhir della Croce",
+            "ro": "Menhir della Croce",
+            "en": "Menhir della Croce"
+          },
+          "coords": [
+            18.361031,
+            39.848049
+          ],
+          "category": "historical",
+          "arrive_at": "12:44",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diesen alten megalithischen stehenden Stein, der von einem christlichen Kreuz gekrönt wird, und betrachten Sie ihn von der Nordseite aus im besten Licht.",
+            "hu": "Vizsgálja meg ezt az ősi megalitikus állókövet, amelynek tetején keresztény kereszt áll, és tekintse meg az északi oldalról, hogy a legszebb fényviszonyok mellett fotózhassa.",
+            "ro": "Examinați această piatră megalitică antică încoronată cu o cruce creștină pentru a asista la istoria regională stratificată și priviți-o din partea de nord pentru cea mai bună lumină.",
+            "en": "Examine this ancient megalithic standing stone topped with a Christian cross to witness layered regional history, and view it from the northern side for the best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Daniele",
+            "hu": "Palazzo Daniele",
+            "ro": "Palazzo Daniele",
+            "en": "Palazzo Daniele"
+          },
+          "coords": [
+            18.372816,
+            39.844153
+          ],
+          "category": "castle",
+          "arrive_at": "13:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten minimalistischen Fresken in diesem historischen Adelspalast aus dem 19. Jahrhundert und suchen Sie den versteckten Orangenhof für ein Foto.",
+            "hu": "Csodálja meg a 19. századi arisztokrata palota belső tereinek lenyűgözően minimalista freskóit, és keressen rá a rejtett narancsligetes udvarra egy fotó erejéig.",
+            "ro": "Admirați frescele minimaliste uimitoare din interiorul acestui conac aristocratic istoric din secolul al XIX-lea și căutați curtea ascunsă cu portocali pentru o fotografie.",
+            "en": "Admire the striking minimalist frescoes inside this historic 19th-century aristocratic mansion, and look for the hidden courtyard orange grove for a peaceful photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Vincenzo Ciardo",
+            "hu": "Casa Vincenzo Ciardo",
+            "ro": "Casa Vincenzo Ciardo",
+            "en": "Casa Vincenzo Ciardo"
+          },
+          "coords": [
+            18.374671,
+            39.843348
+          ],
+          "category": "historical",
+          "arrive_at": "14:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die erhaltene ehemalige Residenz des berühmten lokalen Landschaftsmalers, um seine Inspiration zu verstehen, und achten Sie auf die traditionellen apulischen Steinarbeiten.",
+            "hu": "Fedezze fel a híres helyi tájképfestő egykori rezidenciáját, hogy megértse ihletének forrását, és feltétlenül figyelje meg a hagyományos pugliai kőműves részleteket.",
+            "ro": "Descoperiți fosta reședință păstrată a celebrului pictor peisagist local pentru a-i înțelege sursa de inspirație, având grijă să observați detaliile tradiționale din piatră.",
+            "en": "Discover the preserved former residence of the famous local landscape painter to understand his inspiration, making sure to notice the traditional Apulian stonework details."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia del Ciolo",
+            "hu": "Spiaggia del Ciolo",
+            "ro": "Spiaggia del Ciolo",
+            "en": "Spiaggia del Ciolo"
+          },
+          "coords": [
+            18.385487,
+            39.844081
+          ],
+          "category": "recreational",
+          "arrive_at": "15:44",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die dramatische steile Bucht am kristallklaren Adriatischen Meer, wo die Einheimischen tauchen, und tragen Sie feste Wasserschuhe für den felsigen Einstieg.",
+            "hu": "Csodálja meg a kristálytiszta Adriai-tengerrel találkozó drámai, meredek öblöt, és viseljen masszív vízi cipőt a sziklás, nehezen járható partszakaszon való bejutáshoz.",
+            "ro": "Minunați-vă de golful dramatic și abrupt care întâlnește marea Adriatică cristalină și purtați pantofi de apă rezistenți pentru a naviga prin intrarea stâncoasă în apă.",
+            "en": "Marvel at the dramatic steep cove meeting the crystal-clear Adriatic sea where locals dive, and wear sturdy water shoes to navigate the rocky entry into the cooling water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre malerische Fahrt beginnt an der historischen Cripta S. Apollonia, einem alten Wunderwerk. Mittags verlagert sich Ihr Fokus auf Castrignano del Capo, wo Sie das stattliche Municipio und die Chiesa di San Michele erkunden. Am Nachmittag kehren Sie nach Gagliano zurück, um die wichtigsten Paläste zu besuchen. Der Tag endet perfekt mit Meerblick an der Spiaggia del Ciolo.",
+        "hu": "A festői autózás a történelmi Cripta S. Apollonia ősi csodájánál kezdődik, amely a táj alatt rejtőzik. Délben Castrignano del Capo felé veszi az irányt, felfedezve a Municipio-t és a San Michele-templomot. Délután térjen vissza Gagliano központjába, hogy meglátogassa a város legfontosabb palotáit. A napot a tengerparti kilátás zárja tökéletesen a Spiaggia del Ciolo öbölben.",
+        "ro": "Plimbarea scenică începe la istorica Criptă S. Apollonia, o minune antică. La amiază, accentul se mută pe Castrignano del Capo, explorând primăria sa impunătoare și biserica San Michele. După-amiaza, întoarceți-vă spre Gagliano pentru a vizita principalele palate și monumente ale orașului. Ziua se încheie perfect cu o vedere panoramică la mare la Spiaggia del Ciolo.",
+        "en": "Your scenic drive begins at the historic Cripta S. Apollonia, an ancient marvel hidden beneath the landscape. Midday shifts your focus to Castrignano del Capo, exploring its stately Municipio and the peaceful Chiesa di San Michele. In the afternoon, head back towards Gagliano to visit the town's key palaces and monuments. The day concludes perfectly with sea views down at Spiaggia del Ciolo."
+      }
+    }
+  }
+}

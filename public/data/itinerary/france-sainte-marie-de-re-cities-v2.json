@@ -1,0 +1,428 @@
+{
+  "city_id": "france-sainte-marie-de-re-cities-v2",
+  "anchor": {
+    "name": "Sainte-Marie-de-Ré",
+    "coords": [
+      -1.31154,
+      46.14916
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:21",
+      "total_km": 2.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Mairie de Sainte-Marie-de-Ré",
+            "hu": "Mairie de Sainte-Marie-de-Ré",
+            "ro": "Mairie de Sainte-Marie-de-Ré",
+            "en": "Mairie de Sainte-Marie-de-Ré"
+          },
+          "coords": [
+            -1.311806,
+            46.150622
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle Architektur dieses historischen Rathauses, das das lokale Leben prägt, und prüfen Sie die Aushänge für kommende Gemeindeveranstaltungen und Märkte.",
+            "hu": "Csodálja meg ennek a történelmi városházának a hagyományos építészetét, amely a helyi polgári élet központja, és mindenképpen nézze meg a hirdetőtáblákat a közelgő eseményekért.",
+            "ro": "Admirați arhitectura tradițională a acestei primării istorice care ancorează viața civică locală și asigurați-vă că verificați avizierele pentru evenimentele comunitare viitoare.",
+            "en": "Admire the traditional architecture of this historic town hall that anchors local civic life, and be sure to check the notice boards for upcoming community events and markets."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame de l'Assomption",
+            "hu": "Église Notre-Dame de l'Assomption",
+            "ro": "Église Notre-Dame de l'Assomption",
+            "en": "Église Notre-Dame de l'Assomption"
+          },
+          "coords": [
+            -1.310961,
+            46.148801
+          ],
+          "category": "religious",
+          "arrive_at": "10:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den hoch aufragenden gotischen Turm dieser wunderschönen Pfarrkirche, der Seeleuten seit Jahrhunderten den Weg weist, und treten Sie leise ein, um die Glasfenster zu würdigen.",
+            "hu": "Csodálja meg e gyönyörű plébániatemplom magasba tornyosuló gótikus tornyát, amely évszázadok óta iránymutató a tengerészeknek, és csendben lépjen be, hogy megcsodálja az üvegablakokat.",
+            "ro": "Minunați-vă de turla gotică impunătoare a acestei frumoase biserici parohiale care a ghidat marinarii de secole și amintiți-vă să pășiți în liniște pentru a-i aprecia vitraliile.",
+            "en": "Marvel at the towering Gothic spire of this beautiful parish church that has guided sailors for centuries, and remember to step inside quietly to appreciate its stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Basse Benaie",
+            "hu": "Plage de la Basse Benaie",
+            "ro": "Plage de la Basse Benaie",
+            "en": "Plage de la Basse Benaie"
+          },
+          "coords": [
+            -1.313775,
+            46.144105
+          ],
+          "category": "recreational",
+          "arrive_at": "11:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem ruhigen Küstenabschnitt, der für seine malerischen Dünen bekannt ist, und bringen Sie bequeme Wasserschuhe mit, um die felsigen Gezeitentümpel sicher zu erkunden.",
+            "hu": "Pihenjen ezen a csendes partszakaszon, amely festői dűnéiről és gazdag tengeri élővilágáról ismert, és hozzon magával kényelmes vízi cipőt, hogy biztonságosan felfedezhesse az apálymedencéket.",
+            "ro": "Relaxați-vă pe această porțiune de coastă liniștită, cunoscută pentru dunele pitorești și viața marină bogată, și aduceți încălțăminte de apă confortabilă pentru a naviga în siguranță pe stânci.",
+            "en": "Relax on this tranquil stretch of coastline known for its scenic coastal dunes and rich marine life, and bring a comfortable pair of water shoes to navigate the rocky tide pools safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Salée",
+            "hu": "Plage de la Salée",
+            "ro": "Plage de la Salée",
+            "en": "Plage de la Salée"
+          },
+          "coords": [
+            -1.327203,
+            46.14756
+          ],
+          "category": "recreational",
+          "arrive_at": "12:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die erfrischende Meeresbrise an diesem weitläufigen Sandstrand mit herrlichem Panoramablick auf den Atlantik, und besuchen Sie ihn bei Ebbe, um versteckte Buchten zu entdecken.",
+            "hu": "Élvezze a frissítő tengeri szellőt ezen a tágas, homokos strandon, amely lenyűgöző panorámát nyújt az Atlanti-óceánra, és fontolja meg, hogy apálykor érkezik, hogy rejtett öblöket fedezzen fel.",
+            "ro": "Bucurați-vă de briza mării pe această plajă spațioasă de nisip, care oferă vederi panoramice uimitoare la Atlantic, și luați în considerare o vizită la reflux pentru a descoperi golfuri ascunse.",
+            "en": "Enjoy the refreshing sea breeze at this spacious, sandy beach offering stunning panoramic views of the Atlantic, and consider visiting during low tide to discover hidden sandy coves."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Sauveur",
+            "hu": "Chapelle Saint-Sauveur",
+            "ro": "Chapelle Saint-Sauveur",
+            "en": "Chapelle Saint-Sauveur"
+          },
+          "coords": [
+            -1.327078,
+            46.149393
+          ],
+          "category": "religious",
+          "arrive_at": "14:11",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die friedliche Atmosphäre dieser bescheidenen, aber charmanten Kapelle, die Einblicke in maritime Traditionen bietet, und ruhen Sie sich auf den Bänken mit Blick auf den Ozean aus.",
+            "hu": "Fedezze fel ennek a szerény, mégis bájos tengerparti kápolnának a békés hangulatát, amely bepillantást enged a tengerészeti hagyományokba, és pihenjen meg a közeli, óceánra néző padokon.",
+            "ro": "Descoperiți ambianța pașnică a acestei capele modeste, dar fermecătoare, care oferă o privire asupra tradițiilor maritime locale, și odihniți-vă un moment pe băncile orientate spre ocean.",
+            "en": "Discover the peaceful ambiance of this modest yet charming seaside chapel which offers a glimpse into local maritime traditions, and take a moment to rest on the nearby ocean-facing benches."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung des historischen Zentrums von Sainte-Marie-de-Ré, angefangen beim Rathaus und der hoch aufragenden Pfarrkirche. Genießen Sie am Mittag einen entspannten Spaziergang zur ruhigen Plage de la Basse Benaie. Folgen Sie nachmittags der Küste zur Plage de la Salée für weite Ausblicke und friedliche Momente auf das Meer. Beenden Sie Ihre Wanderung am frühen Abend mit einem ruhigen Besuch der charmanten Chapelle Saint-Sauveur.",
+        "hu": "Kezdje a reggelt Sainte-Marie-de-Ré történelmi központjának felfedezésével, a városházától és a magasodó plébániatemplomtól indulva. Délben tegyen egy pihentető sétát a nyugodt Plage de la Basse Benaie felé. Délután kövesse a partvonalat a Plage de la Salée-ig, ahol tágas óceáni kilátás és békés pillanatok várják. Sétáját a kora esti órákban a hangulatos Chapelle Saint-Sauveur békés meglátogatásával zárhatja.",
+        "ro": "Începeți-vă dimineața explorând inima istorică din Sainte-Marie-de-Ré, pornind de la primărie și biserica parohială impunătoare. La prânz, faceți o plimbare relaxantă până la liniștita Plage de la Basse Benaie. După-amiaza, urmați linia de coastă până la Plage de la Salée pentru vederi ample asupra oceanului și momente pașnice. Încheiați-vă călătoria pe jos cu o vizită senină la fermecătoarea Chapelle Saint-Sauveur pe măsură ce se apropie seara.",
+        "en": "Begin your morning exploring the historic heart of Sainte-Marie-de-Ré, starting with the town hall and the towering parish church. By midday, take a relaxing stroll down to the tranquil Plage de la Basse Benaie to enjoy the coastal breeze. In the afternoon, follow the coastline to Plage de la Salée for expansive ocean views and peaceful moments. Conclude your walking journey with a serene visit to the charming Chapelle Saint-Sauveur as evening approaches."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:26",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plage de Port Notre-Dame",
+            "hu": "Plage de Port Notre-Dame",
+            "ro": "Plage de Port Notre-Dame",
+            "en": "Plage de Port Notre-Dame"
+          },
+          "coords": [
+            -1.295229,
+            46.144599
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang dieses historischen Küstenabschnitts, wo sich Natur und Geschichte nahtlos verbinden, und bringen Sie Ihre Kamera mit, um die atemberaubenden Sonnenuntergangsfarben einzufangen.",
+            "hu": "Sétáljon végig ezen a történelmi partszakaszon, ahol a gyönyörű természeti tájak zökkenőmentesen ötvöződnek a tengeri történelemmel, és hozza magával a fényképezőgépét a lenyűgöző naplementéhez.",
+            "ro": "Plimbați-vă de-a lungul acestei zone de coastă unde peisajele naturale se îmbină cu istoria maritimă și aduceți-vă camera pentru a surprinde culorile uluitoare ale apusului de soare peste apă.",
+            "en": "Stroll along this historic coastal area where beautiful natural landscapes seamlessly blend with maritime history, and bring your camera to capture the breathtaking sunset colors over the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame de l'Assomption",
+            "hu": "Église Notre-Dame de l'Assomption",
+            "ro": "Église Notre-Dame de l'Assomption",
+            "en": "Église Notre-Dame de l'Assomption"
+          },
+          "coords": [
+            -1.310961,
+            46.148801
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den hoch aufragenden gotischen Turm dieser wunderschönen Pfarrkirche, der Seeleuten seit Jahrhunderten den Weg weist, und treten Sie leise ein, um die Glasfenster zu würdigen.",
+            "hu": "Csodálja meg e gyönyörű plébániatemplom magasba tornyosuló gótikus tornyát, amely évszázadok óta iránymutató a tengerészeknek, és csendben lépjen be, hogy megcsodálja az üvegablakokat.",
+            "ro": "Minunați-vă de turla gotică impunătoare a acestei frumoase biserici parohiale care a ghidat marinarii de secole și amintiți-vă să pășiți în liniște pentru a-i aprecia vitraliile.",
+            "en": "Marvel at the towering Gothic spire of this beautiful parish church that has guided sailors for centuries, and remember to step inside quietly to appreciate its stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Mairie de Sainte-Marie-de-Ré",
+            "hu": "Mairie de Sainte-Marie-de-Ré",
+            "ro": "Mairie de Sainte-Marie-de-Ré",
+            "en": "Mairie de Sainte-Marie-de-Ré"
+          },
+          "coords": [
+            -1.311806,
+            46.150622
+          ],
+          "category": "historical",
+          "arrive_at": "11:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle Architektur dieses historischen Rathauses, das das lokale Leben prägt, und prüfen Sie die Aushänge für kommende Gemeindeveranstaltungen und Märkte.",
+            "hu": "Csodálja meg ennek a történelmi városházának a hagyományos építészetét, amely a helyi polgári élet központja, és mindenképpen nézze meg a hirdetőtáblákat a közelgő eseményekért.",
+            "ro": "Admirați arhitectura tradițională a acestei primării istorice care ancorează viața civică locală și asigurați-vă că verificați avizierele pentru evenimentele comunitare viitoare.",
+            "en": "Admire the traditional architecture of this historic town hall that anchors local civic life, and be sure to check the notice boards for upcoming community events and markets."
+          }
+        },
+        {
+          "name": {
+            "de": "L'Ancre Maritaise",
+            "hu": "L'Ancre Maritaise",
+            "ro": "L'Ancre Maritaise",
+            "en": "L'Ancre Maritaise"
+          },
+          "coords": [
+            -1.331399,
+            46.150457
+          ],
+          "category": "landmark",
+          "arrive_at": "12:42",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie an diesem maritimen Wahrzeichen in das faszinierende Fischerbe der Insel ein, und versuchen Sie, früh am Morgen anzukommen, um den Menschenmassen zu entgehen und eine Tour zu genießen.",
+            "hu": "Merüljön el a sziget halászati örökségében ezen a lenyűgöző tengerészeti nevezetességen, és próbáljon meg kora reggel érkezni, hogy elkerülje a tömeget és nyugodtabban tudjon nézelődni.",
+            "ro": "Cufundați-vă în patrimoniul pescăresc fascinant al insulei la acest reper maritim captivant și încercați să ajungeți dimineața devreme pentru a evita aglomerația și a vă bucura de un tur relaxant.",
+            "en": "Immerse yourself in the island's fascinating fishing heritage at this engaging maritime landmark, and try to arrive early in the morning to beat the crowds and enjoy a more personalized tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Montamer",
+            "hu": "Plage de Montamer",
+            "ro": "Plage de Montamer",
+            "en": "Plage de Montamer"
+          },
+          "coords": [
+            -1.333552,
+            46.150298
+          ],
+          "category": "recreational",
+          "arrive_at": "14:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tanken Sie Sonne an diesem unberührten, abgelegenen Strand, der sich perfekt für einen ruhigen Nachmittag eignet, und packen Sie ein kleines Picknick ein, das Sie beim Rauschen der Wellen genießen.",
+            "hu": "Szívja magába a napsugarakat ezen az érintetlen és félreeső strandon, amely tökéletes egy csendes délutáni elvonuláshoz, és csomagoljon egy könnyű pikniket, amit a hullámok morajlása közben elfogyaszthat.",
+            "ro": "Bucurați-vă de soare la această plajă curată și izolată, perfectă pentru o retragere liniștită de după-amiază, și împachetați un picnic ușor pentru a-l savura în timp ce ascultați sunetul valurilor.",
+            "en": "Soak up the sun at this pristine and secluded beach destination perfect for a quiet afternoon retreat, and pack a light picnic to enjoy while listening to the soothing sound of the crashing waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Salée",
+            "hu": "Plage de la Salée",
+            "ro": "Plage de la Salée",
+            "en": "Plage de la Salée"
+          },
+          "coords": [
+            -1.327203,
+            46.14756
+          ],
+          "category": "recreational",
+          "arrive_at": "15:41",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die erfrischende Meeresbrise an diesem weitläufigen Sandstrand mit herrlichem Panoramablick auf den Atlantik, und besuchen Sie ihn bei Ebbe, um versteckte Buchten zu entdecken.",
+            "hu": "Élvezze a frissítő tengeri szellőt ezen a tágas, homokos strandon, amely lenyűgöző panorámát nyújt az Atlanti-óceánra, és fontolja meg, hogy apálykor érkezik, hogy rejtett öblöket fedezzen fel.",
+            "ro": "Bucurați-vă de briza mării pe această plajă spațioasă de nisip, care oferă vederi panoramice uimitoare la Atlantic, și luați în considerare o vizită la reflux pentru a descoperi golfuri ascunse.",
+            "en": "Enjoy the refreshing sea breeze at this spacious, sandy beach offering stunning panoramic views of the Atlantic, and consider visiting during low tide to discover hidden sandy coves."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Radtag an der Plage de Port Notre-Dame und genießen Sie die morgendliche Meeresbrise. Der Mittag bringt eine reiche Portion Geschichte mit Besuchen der Kirche und des prächtigen Rathauses. Fahren Sie nachmittags nach Westen zum L'Ancre Maritaise und entspannen Sie sich an der Plage de Montamer. Lassen Sie Ihren aktiven Tag an der Plage de la Salée ausklingen und genießen Sie den Sonnenuntergang.",
+        "hu": "Kezdje a kerékpáros napot a Plage de Port Notre-Dame-nál, élvezve a reggeli tengeri szellőt, mielőtt a városba indulna. A dél telis-tele lesz történelemmel, amikor meglátogatja a központi templomot és a lenyűgöző Városházát. Délután tekerjen nyugatra a L'Ancre Maritaise felé, és lazítson a Plage de Montamer-en. Fejezze be aktív napját a Plage de la Salée-n, megcsodálva a lenyűgöző tengerparti naplemente színeit.",
+        "ro": "Începeți-vă ziua de ciclism la Plage de Port Notre-Dame, bucurându-vă de briza mării de dimineață. Amiaza aduce o doză bogată de istorie cu vizite la biserica centrală și la impresionanta primărie. După-amiaza, pedalați spre vest până la L'Ancre Maritaise și relaxați-vă la plaja retrasă Plage de Montamer. Încheiați-vă ziua activă la Plage de la Salée, admirând culorile uimitoare ale apusului de soare pe coastă.",
+        "en": "Kick off your cycling day at Plage de Port Notre-Dame, enjoying the morning sea breeze before heading into town. Midday brings a rich dose of history with visits to the central church and the grand Mairie. In the afternoon, ride west to L'Ancre Maritaise and unwind at the secluded Plage de Montamer. Wrap up your active day at Plage de la Salée, taking in the stunning coastal sunset colors before heading back."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:58",
+      "total_km": 3.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "L'Ancre Maritaise",
+            "hu": "L'Ancre Maritaise",
+            "ro": "L'Ancre Maritaise",
+            "en": "L'Ancre Maritaise"
+          },
+          "coords": [
+            -1.331399,
+            46.150457
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie an diesem maritimen Wahrzeichen in das faszinierende Fischerbe der Insel ein, und versuchen Sie, früh am Morgen anzukommen, um den Menschenmassen zu entgehen und eine Tour zu genießen.",
+            "hu": "Merüljön el a sziget halászati örökségében ezen a lenyűgöző tengerészeti nevezetességen, és próbáljon meg kora reggel érkezni, hogy elkerülje a tömeget és nyugodtabban tudjon nézelődni.",
+            "ro": "Cufundați-vă în patrimoniul pescăresc fascinant al insulei la acest reper maritim captivant și încercați să ajungeți dimineața devreme pentru a evita aglomerația și a vă bucura de un tur relaxant.",
+            "en": "Immerse yourself in the island's fascinating fishing heritage at this engaging maritime landmark, and try to arrive early in the morning to beat the crowds and enjoy a more personalized tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Montamer",
+            "hu": "Plage de Montamer",
+            "ro": "Plage de Montamer",
+            "en": "Plage de Montamer"
+          },
+          "coords": [
+            -1.333552,
+            46.150298
+          ],
+          "category": "recreational",
+          "arrive_at": "10:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tanken Sie Sonne an diesem unberührten, abgelegenen Strand, der sich perfekt für einen ruhigen Nachmittag eignet, und packen Sie ein kleines Picknick ein, das Sie beim Rauschen der Wellen genießen.",
+            "hu": "Szívja magába a napsugarakat ezen az érintetlen és félreeső strandon, amely tökéletes egy csendes délutáni elvonuláshoz, és csomagoljon egy könnyű pikniket, amit a hullámok morajlása közben elfogyaszthat.",
+            "ro": "Bucurați-vă de soare la această plajă curată și izolată, perfectă pentru o retragere liniștită de după-amiază, și împachetați un picnic ușor pentru a-l savura în timp ce ascultați sunetul valurilor.",
+            "en": "Soak up the sun at this pristine and secluded beach destination perfect for a quiet afternoon retreat, and pack a light picnic to enjoy while listening to the soothing sound of the crashing waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Sauveur",
+            "hu": "Chapelle Saint-Sauveur",
+            "ro": "Chapelle Saint-Sauveur",
+            "en": "Chapelle Saint-Sauveur"
+          },
+          "coords": [
+            -1.327078,
+            46.149393
+          ],
+          "category": "religious",
+          "arrive_at": "12:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die friedliche Atmosphäre dieser bescheidenen, aber charmanten Kapelle, die Einblicke in maritime Traditionen bietet, und ruhen Sie sich auf den Bänken mit Blick auf den Ozean aus.",
+            "hu": "Fedezze fel ennek a szerény, mégis bájos tengerparti kápolnának a békés hangulatát, amely bepillantást enged a tengerészeti hagyományokba, és pihenjen meg a közeli, óceánra néző padokon.",
+            "ro": "Descoperiți ambianța pașnică a acestei capele modeste, dar fermecătoare, care oferă o privire asupra tradițiilor maritime locale, și odihniți-vă un moment pe băncile orientate spre ocean.",
+            "en": "Discover the peaceful ambiance of this modest yet charming seaside chapel which offers a glimpse into local maritime traditions, and take a moment to rest on the nearby ocean-facing benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Mairie de Sainte-Marie-de-Ré",
+            "hu": "Mairie de Sainte-Marie-de-Ré",
+            "ro": "Mairie de Sainte-Marie-de-Ré",
+            "en": "Mairie de Sainte-Marie-de-Ré"
+          },
+          "coords": [
+            -1.311806,
+            46.150622
+          ],
+          "category": "historical",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle Architektur dieses historischen Rathauses, das das lokale Leben prägt, und prüfen Sie die Aushänge für kommende Gemeindeveranstaltungen und Märkte.",
+            "hu": "Csodálja meg ennek a történelmi városházának a hagyományos építészetét, amely a helyi polgári élet központja, és mindenképpen nézze meg a hirdetőtáblákat a közelgő eseményekért.",
+            "ro": "Admirați arhitectura tradițională a acestei primării istorice care ancorează viața civică locală și asigurați-vă că verificați avizierele pentru evenimentele comunitare viitoare.",
+            "en": "Admire the traditional architecture of this historic town hall that anchors local civic life, and be sure to check the notice boards for upcoming community events and markets."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Port Notre-Dame",
+            "hu": "Plage de Port Notre-Dame",
+            "ro": "Plage de Port Notre-Dame",
+            "en": "Plage de Port Notre-Dame"
+          },
+          "coords": [
+            -1.295229,
+            46.144599
+          ],
+          "category": "recreational",
+          "arrive_at": "14:13",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang dieses historischen Küstenabschnitts, wo sich Natur und Geschichte nahtlos verbinden, und bringen Sie Ihre Kamera mit, um die atemberaubenden Sonnenuntergangsfarben einzufangen.",
+            "hu": "Sétáljon végig ezen a történelmi partszakaszon, ahol a gyönyörű természeti tájak zökkenőmentesen ötvöződnek a tengeri történelemmel, és hozza magával a fényképezőgépét a lenyűgöző naplementéhez.",
+            "ro": "Plimbați-vă de-a lungul acestei zone de coastă unde peisajele naturale se îmbină cu istoria maritimă și aduceți-vă camera pentru a surprinde culorile uluitoare ale apusului de soare peste apă.",
+            "en": "Stroll along this historic coastal area where beautiful natural landscapes seamlessly blend with maritime history, and bring your camera to capture the breathtaking sunset colors over the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre malerische Fahrt am L'Ancre Maritaise und tauchen Sie sofort in das maritime Erbe der Insel ein. Machen Sie am Mittag einen kurzen Sprung zum unberührten Strand Montamer für eine erfrischende Pause. Fahren Sie am Nachmittag in Richtung Dorfzentrum, um die charmante Chapelle Saint-Sauveur und das historische Rathaus zu besuchen. Beenden Sie Ihren unvergesslichen Tagesausflug am weiten Sandstrand von Port Notre-Dame.",
+        "hu": "Kezdje festői autózását a L'Ancre Maritaise-nél, azonnal elmerülve a sziget tengeri örökségében. Dél körül tegyen egy nagyon rövid kitérőt az érintetlen Plage de Montamer-hez egy frissítő és csendes tengerparti pihenésre. Délután induljon a falu központja felé, hogy meglátogassa a bájos Chapelle Saint-Sauveur-t és a történelmi városházát. Fejezze be ezt az emlékezetes egynapos kirándulást a Plage de Port Notre-Dame tágas homokjánál.",
+        "ro": "Începeți-vă plimbarea pitorească cu mașina la L'Ancre Maritaise, aprofundând imediat patrimoniul maritim al insulei. La prânz, faceți un salt scurt până la curata Plage de Montamer pentru o pauză de coastă revigorantă. După-amiaza, conduceți spre centrul satului pentru a vizita fermecătoarea Chapelle Saint-Sauveur și primăria istorică. Încheiați-vă excursia memorabilă de o zi pe nisipurile întinse de la Plage de Port Notre-Dame.",
+        "en": "Start your scenic drive at L'Ancre Maritaise, delving deep into the maritime heritage of the island right away. By midday, take a very short hop to the pristine Plage de Montamer for a refreshing and quiet coastal break. In the afternoon, drive towards the village center to visit the charming Chapelle Saint-Sauveur and the historic Mairie. Conclude your memorable day trip by the expansive sands of Plage de Port Notre-Dame."
+      }
+    }
+  }
+}

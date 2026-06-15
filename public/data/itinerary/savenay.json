@@ -1,0 +1,520 @@
+{
+  "city_id": "savenay",
+  "anchor": {
+    "name": "Savenay",
+    "coords": [
+      -1.9422,
+      47.3607
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:22",
+      "total_km": 4.78,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Martin",
+            "hu": "Saint-Martin templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            -1.94574,
+            47.360752
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser zentralen Kirche, einem spirituellen Eckpfeiler von Savenay, aber besuchen Sie sie am besten früh.",
+            "hu": "Csodálja meg a központi templom lenyűgöző építészetét, amely Savenay spirituális alapköve, de érdemes korán érkezni a nyugodt nézelődéshez.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici centrale, o piatră de temelie spirituală a orașului Savenay, și vizitați-o devreme.",
+            "en": "Admire the striking architecture of this central church, a spiritual cornerstone of Savenay, but be sure to visit early to avoid the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahnhof Savenay",
+            "hu": "Savenay Vasútállomás",
+            "ro": "Gara Savenay",
+            "en": "Savenay Railway Station"
+          },
+          "coords": [
+            -1.940297,
+            47.369621
+          ],
+          "category": "station",
+          "arrive_at": "10:06",
+          "stay_min": 15,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.07,
+          "tip_5lang": {
+            "de": "Sehen Sie sich diesen historischen Verkehrsknotenpunkt an, der Savenay mit der Region verband, und machen Sie ein schnelles Foto der Architektur.",
+            "hu": "Tekintse meg ezt a történelmi közlekedési csomópontot, amely összeköti Savenayt a régióval, és készítsen egy fotót a klasszikus vasúti épületről.",
+            "ro": "Descoperiți acest nod istoric de transport care a conectat Savenay de regiune și faceți o fotografie rapidă a arhitecturii feroviare clasice.",
+            "en": "Check out this historic transport hub that connected Savenay to the wider region, and take a quick photo of the classic railway architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Der Kalvarienberg von Savenay",
+            "hu": "Savenay Kálváriája",
+            "ro": "Calvarul din Savenay",
+            "en": "The Calvary of Savenay"
+          },
+          "coords": [
+            -1.937909,
+            47.374901
+          ],
+          "category": "religious",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.62,
+          "tip_5lang": {
+            "de": "Steigen Sie zu diesem feierlichen religiösen Denkmal hinauf, um über seine Bedeutung nachzudenken und die Aussicht in festen Schuhen zu genießen.",
+            "hu": "Másszon fel ehhez az ünnepélyes vallási emlékműhöz, hogy elgondolkodjon történelmi jelentőségén, és élvezze a kilátást kényelmes cipőben.",
+            "ro": "Urcați la acest monument religios solemn pentru a reflecta asupra importanței sale și bucurați-vă de priveliștile panoramice purtând încălțăminte comodă.",
+            "en": "Climb up to this solemn religious monument to reflect on its historical significance while enjoying panoramic views, making sure to wear sturdy shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Mosquito Coast Factory",
+            "hu": "Mosquito Coast Factory",
+            "ro": "Mosquito Coast Factory",
+            "en": "Mosquito Coast Factory"
+          },
+          "coords": [
+            -1.939303,
+            47.378788
+          ],
+          "category": "cultural",
+          "arrive_at": "11:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.44,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen lebendigen Kulturraum in einer ehemaligen Fabrik, ideal für Kunstliebhaber, und prüfen Sie den Zeitplan für Pop-up-Ausstellungen.",
+            "hu": "Fedezze fel ezt a vibráló kulturális teret egy egykori gyárban, amely tökéletes a kortárs művészet kedvelőinek, és nézze meg a kiállítási naptárat.",
+            "ro": "Explorați acest spațiu cultural vibrant aflat într-o fostă fabrică, ideal pentru iubitorii de artă, și verificați programul expozițiilor temporare.",
+            "en": "Explore this vibrant cultural space housed in a former factory, perfect for contemporary art lovers, and check their schedule for pop-up exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Vallée Mabile See",
+            "hu": "Vallée Mabile-tó",
+            "ro": "Lacul Vallée Mabile",
+            "en": "Vallée Mabile Lake"
+          },
+          "coords": [
+            -1.922,
+            47.358
+          ],
+          "category": "recreational",
+          "arrive_at": "13:37",
+          "stay_min": 105,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.65,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den ruhigen Gewässern dieses malerischen Sees, einem beliebten Erholungsort, und bringen Sie etwas Brot für die Enten mit.",
+            "hu": "Pihenjen a festői tó békés vizénél, amely a helyiek kedvenc kikapcsolódási helye, és hozzon magával egy kis kenyeret a kacsák etetéséhez.",
+            "ro": "Relaxați-vă pe malul apelor liniștite ale acestui lac pitoresc, un loc preferat de recreere, și aduceți puțină pâine pentru a hrăni rațele.",
+            "en": "Relax by the serene waters of this scenic lake, a favorite local recreation spot, and bring some bread to feed the ducks during your afternoon stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Erkundung von Savenay im historischen Zentrum und entdecken Sie die spirituellen Wurzeln. Bewegen Sie sich nach außen, um die reizvollen Verkehrs- und Kulturdenkmäler zu erleben. Begeben Sie sich an den malerischen Stadtrand und wechseln Sie von feierlichen Monumenten zu modernen Räumen. Beenden Sie den Tag entspannt am Wasser.",
+        "hu": "Kezdje Savenay felfedezését a történelmi központban, megismerve annak spirituális gyökereit. Haladjon kifelé, hogy megtapasztalja a város bájos közlekedési és kulturális nevezetességeit. Térjen át a festői külvárosokra, az ünnepélyes műemlékektől az izgalmas, modern terekig haladva. Zárja a napot a békés vízparton pihenve.",
+        "ro": "Începeți explorarea orașului Savenay în centrul istoric, descoperindu-i rădăcinile spirituale. Îndreptați-vă spre exterior pentru a experimenta reperele culturale și de transport fermecătoare. Treceți spre periferiile pitorești, schimbând monumentele solemne cu spații moderne captivante. Încheiați ziua relaxându-vă lângă apele liniștite.",
+        "en": "Start your Savenay exploration in the historic center, uncovering its spiritual roots. Move outward to experience the town's charming transport and cultural landmarks. Transition towards the scenic outskirts, shifting from solemn monuments to engaging modern spaces. Wrap up the day relaxing by the peaceful waters, reflecting on a diverse itinerary."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:20",
+      "total_km": 7.21,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Notre-Dame des Aulnes",
+            "hu": "Église Notre-Dame des Aulnes",
+            "ro": "Église Notre-Dame des Aulnes",
+            "en": "Église Notre-Dame des Aulnes"
+          },
+          "coords": [
+            -1.971962,
+            47.372214
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Treten Sie in diese friedliche Kirche ein, um das wunderschön erhaltene Innere zu entdecken, und achten Sie auf die aufwendigen Holzarbeiten.",
+            "hu": "Lépjen be ebbe a békés templomba, hogy felfedezze gyönyörűen megőrzött belső terét, a helyi örökség rejtett gyöngyszemét, és figyelje meg a fafaragásokat.",
+            "ro": "Pășiți în această biserică liniștită pentru a descoperi interiorul său frumos conservat, o comoară ascunsă, și observați detaliile din lemn.",
+            "en": "Step inside this peaceful church to discover its beautifully preserved interior, a hidden gem of local heritage, and notice the intricate woodwork."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Calvaire",
+            "hu": "Le Calvaire",
+            "ro": "Le Calvaire",
+            "en": "Le Calvaire"
+          },
+          "coords": [
+            -1.969679,
+            47.376281
+          ],
+          "category": "landmark",
+          "arrive_at": "09:53",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.49,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses historische Wahrzeichen für einen Moment der stillen Besinnung abseits des Zentrums, und vergessen Sie Ihre Kamera nicht.",
+            "hu": "Látogasson el ehhez a történelmi nevezetességhez egy kis csendes elmélkedésre a központtól távol, és ne felejtse el a fényképezőgépét a tájképekhez.",
+            "ro": "Vizitați acest reper istoric pentru un moment de contemplare liniștită departe de centrul orașului și nu uitați aparatul foto pentru peisaje.",
+            "en": "Visit this historic landmark for a moment of quiet contemplation away from the town center, and don't forget your camera for some great landscape shots."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Martin",
+            "hu": "Saint-Martin templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            -1.94574,
+            47.360752
+          ],
+          "category": "religious",
+          "arrive_at": "10:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.49,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser zentralen Kirche, einem spirituellen Eckpfeiler von Savenay, aber besuchen Sie sie am besten früh.",
+            "hu": "Csodálja meg a központi templom lenyűgöző építészetét, amely Savenay spirituális alapköve, de érdemes korán érkezni a nyugodt nézelődéshez.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici centrale, o piatră de temelie spirituală a orașului Savenay, și vizitați-o devreme.",
+            "en": "Admire the striking architecture of this central church, a spiritual cornerstone of Savenay, but be sure to visit early to avoid the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahnhof Savenay",
+            "hu": "Savenay Vasútállomás",
+            "ro": "Gara Savenay",
+            "en": "Savenay Railway Station"
+          },
+          "coords": [
+            -1.940297,
+            47.369621
+          ],
+          "category": "station",
+          "arrive_at": "11:08",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.07,
+          "tip_5lang": {
+            "de": "Sehen Sie sich diesen historischen Verkehrsknotenpunkt an, der Savenay mit der Region verband, und machen Sie ein schnelles Foto der Architektur.",
+            "hu": "Tekintse meg ezt a történelmi közlekedési csomópontot, amely összeköti Savenayt a régióval, és készítsen egy fotót a klasszikus vasúti épületről.",
+            "ro": "Descoperiți acest nod istoric de transport care a conectat Savenay de regiune și faceți o fotografie rapidă a arhitecturii feroviare clasice.",
+            "en": "Check out this historic transport hub that connected Savenay to the wider region, and take a quick photo of the classic railway architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Der Kalvarienberg von Savenay",
+            "hu": "Savenay Kálváriája",
+            "ro": "Calvarul din Savenay",
+            "en": "The Calvary of Savenay"
+          },
+          "coords": [
+            -1.937909,
+            47.374901
+          ],
+          "category": "religious",
+          "arrive_at": "11:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.62,
+          "tip_5lang": {
+            "de": "Steigen Sie zu diesem feierlichen religiösen Denkmal hinauf, um über seine Bedeutung nachzudenken und die Aussicht in festen Schuhen zu genießen.",
+            "hu": "Másszon fel ehhez az ünnepélyes vallási emlékműhöz, hogy elgondolkodjon történelmi jelentőségén, és élvezze a kilátást kényelmes cipőben.",
+            "ro": "Urcați la acest monument religios solemn pentru a reflecta asupra importanței sale și bucurați-vă de priveliștile panoramice purtând încălțăminte comodă.",
+            "en": "Climb up to this solemn religious monument to reflect on its historical significance while enjoying panoramic views, making sure to wear sturdy shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Vallée Mabile See",
+            "hu": "Vallée Mabile-tó",
+            "ro": "Lacul Vallée Mabile",
+            "en": "Vallée Mabile Lake"
+          },
+          "coords": [
+            -1.922,
+            47.358
+          ],
+          "category": "recreational",
+          "arrive_at": "12:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.23,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den ruhigen Gewässern dieses malerischen Sees, einem beliebten Erholungsort, und bringen Sie etwas Brot für die Enten mit.",
+            "hu": "Pihenjen a festői tó békés vizénél, amely a helyiek kedvenc kikapcsolódási helye, és hozzon magával egy kis kenyeret a kacsák etetéséhez.",
+            "ro": "Relaxați-vă pe malul apelor liniștite ale acestui lac pitoresc, un loc preferat de recreere, și aduceți puțină pâine pentru a hrăni rațele.",
+            "en": "Relax by the serene waters of this scenic lake, a favorite local recreation spot, and bring some bread to feed the ducks during your afternoon stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "La Vallée des Korrigans - Tepacap!",
+            "hu": "La Vallée des Korrigans - Tepacap!",
+            "ro": "La Vallée des Korrigans - Tepacap!",
+            "en": "La Vallée des Korrigans - Tepacap!"
+          },
+          "coords": [
+            -1.922537,
+            47.355151
+          ],
+          "category": "recreational",
+          "arrive_at": "13:35",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.31,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit spannenden Outdoor-Abenteuern in diesem dynamischen Hochseilgarten, aber buchen Sie Ihre Tickets im Voraus.",
+            "hu": "Zárja a napot izgalmas szabadtéri kalandokkal ebben a dinamikus kalandparkban, de foglalja le a jegyeit előre, hogy garantálja a helyét.",
+            "ro": "Încheiați-vă ziua cu aventuri palpitante în aer liber în acest parc de aventură dinamic, dar rezervați biletele în avans pentru a vă asigura locul.",
+            "en": "End your day with some thrilling outdoor adventures in this dynamic treetop park, but book your tickets in advance to guarantee your climbing slot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie im ruhigen Westen bei der friedlichen Église Notre-Dame des Aulnes. Radeln Sie in Richtung Stadtzentrum und bewundern Sie historische Monumente und die majestätische Kirche. Verlassen Sie das Zentrum, um die Aussicht vom Kalvarienberg von Savenay zu genießen. Beenden Sie Ihr Erlebnis mit einer schönen Radtour zu den Erholungsseen und einem Baumwipfel-Abenteuer.",
+        "hu": "Kezdje a csendes nyugati részen a békés Église Notre-Dame des Aulnes felfedezésével. Kerékpározzon a városközpont felé, megcsodálva a történelmi emlékműveket és a fenséges templomot. Hagyja el a központot, hogy élvezze a kilátást Savenay Kálváriájáról. Fejezze be élményét egy kellemes bringázással a rekreációs tavakhoz és egy lombkorona-kalanddal.",
+        "ro": "Începeți în liniștea vestului explorând pașnica Église Notre-Dame des Aulnes. Pedalați spre centrul orașului admirând monumente istorice și maiestuoasa biserică. Părăsiți centrul pentru a vă bucura de priveliștile de la Calvarul din Savenay. Încheiați experiența cu o plimbare plăcută spre lacurile de recreere și o aventură printre copaci.",
+        "en": "Start in the quiet west exploring the peaceful Église Notre-Dame des Aulnes. Cycle towards the town center taking in historic monuments and the majestic church. Leave the center to soak in the views from the Calvary of Savenay. Finish your experience with a nice ride to the recreational lakes and a treetop adventure."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 9.51,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Mosquito Coast Factory",
+            "hu": "Mosquito Coast Factory",
+            "ro": "Mosquito Coast Factory",
+            "en": "Mosquito Coast Factory"
+          },
+          "coords": [
+            -1.939303,
+            47.378788
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen lebendigen Kulturraum in einer ehemaligen Fabrik, ideal für Kunstliebhaber, und prüfen Sie den Zeitplan für Pop-up-Ausstellungen.",
+            "hu": "Fedezze fel ezt a vibráló kulturális teret egy egykori gyárban, amely tökéletes a kortárs művészet kedvelőinek, és nézze meg a kiállítási naptárat.",
+            "ro": "Explorați acest spațiu cultural vibrant aflat într-o fostă fabrică, ideal pentru iubitorii de artă, și verificați programul expozițiilor temporare.",
+            "en": "Explore this vibrant cultural space housed in a former factory, perfect for contemporary art lovers, and check their schedule for pop-up exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Der Kalvarienberg von Savenay",
+            "hu": "Savenay Kálváriája",
+            "ro": "Calvarul din Savenay",
+            "en": "The Calvary of Savenay"
+          },
+          "coords": [
+            -1.937909,
+            47.374901
+          ],
+          "category": "religious",
+          "arrive_at": "10:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.44,
+          "tip_5lang": {
+            "de": "Steigen Sie zu diesem feierlichen religiösen Denkmal hinauf, um über seine Bedeutung nachzudenken und die Aussicht in festen Schuhen zu genießen.",
+            "hu": "Másszon fel ehhez az ünnepélyes vallási emlékműhöz, hogy elgondolkodjon történelmi jelentőségén, és élvezze a kilátást kényelmes cipőben.",
+            "ro": "Urcați la acest monument religios solemn pentru a reflecta asupra importanței sale și bucurați-vă de priveliștile panoramice purtând încălțăminte comodă.",
+            "en": "Climb up to this solemn religious monument to reflect on its historical significance while enjoying panoramic views, making sure to wear sturdy shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahnhof Savenay",
+            "hu": "Savenay Vasútállomás",
+            "ro": "Gara Savenay",
+            "en": "Savenay Railway Station"
+          },
+          "coords": [
+            -1.940297,
+            47.369621
+          ],
+          "category": "station",
+          "arrive_at": "11:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.62,
+          "tip_5lang": {
+            "de": "Sehen Sie sich diesen historischen Verkehrsknotenpunkt an, der Savenay mit der Region verband, und machen Sie ein schnelles Foto der Architektur.",
+            "hu": "Tekintse meg ezt a történelmi közlekedési csomópontot, amely összeköti Savenayt a régióval, és készítsen egy fotót a klasszikus vasúti épületről.",
+            "ro": "Descoperiți acest nod istoric de transport care a conectat Savenay de regiune și faceți o fotografie rapidă a arhitecturii feroviare clasice.",
+            "en": "Check out this historic transport hub that connected Savenay to the wider region, and take a quick photo of the classic railway architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Martin",
+            "hu": "Saint-Martin templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            -1.94574,
+            47.360752
+          ],
+          "category": "religious",
+          "arrive_at": "11:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.07,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser zentralen Kirche, einem spirituellen Eckpfeiler von Savenay, aber besuchen Sie sie am besten früh.",
+            "hu": "Csodálja meg a központi templom lenyűgöző építészetét, amely Savenay spirituális alapköve, de érdemes korán érkezni a nyugodt nézelődéshez.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici centrale, o piatră de temelie spirituală a orașului Savenay, și vizitați-o devreme.",
+            "en": "Admire the striking architecture of this central church, a spiritual cornerstone of Savenay, but be sure to visit early to avoid the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Calvaire",
+            "hu": "Le Calvaire",
+            "ro": "Le Calvaire",
+            "en": "Le Calvaire"
+          },
+          "coords": [
+            -1.969679,
+            47.376281
+          ],
+          "category": "landmark",
+          "arrive_at": "12:41",
+          "stay_min": 15,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 2.49,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses historische Wahrzeichen für einen Moment der stillen Besinnung abseits des Zentrums, und vergessen Sie Ihre Kamera nicht.",
+            "hu": "Látogasson el ehhez a történelmi nevezetességhez egy kis csendes elmélkedésre a központtól távol, és ne felejtse el a fényképezőgépét a tájképekhez.",
+            "ro": "Vizitați acest reper istoric pentru un moment de contemplare liniștită departe de centrul orașului și nu uitați aparatul foto pentru peisaje.",
+            "en": "Visit this historic landmark for a moment of quiet contemplation away from the town center, and don't forget your camera for some great landscape shots."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame des Aulnes",
+            "hu": "Église Notre-Dame des Aulnes",
+            "ro": "Église Notre-Dame des Aulnes",
+            "en": "Église Notre-Dame des Aulnes"
+          },
+          "coords": [
+            -1.971962,
+            47.372214
+          ],
+          "category": "religious",
+          "arrive_at": "12:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.49,
+          "tip_5lang": {
+            "de": "Treten Sie in diese friedliche Kirche ein, um das wunderschön erhaltene Innere zu entdecken, und achten Sie auf die aufwendigen Holzarbeiten.",
+            "hu": "Lépjen be ebbe a békés templomba, hogy felfedezze gyönyörűen megőrzött belső terét, a helyi örökség rejtett gyöngyszemét, és figyelje meg a fafaragásokat.",
+            "ro": "Pășiți în această biserică liniștită pentru a descoperi interiorul său frumos conservat, o comoară ascunsă, și observați detaliile din lemn.",
+            "en": "Step inside this peaceful church to discover its beautifully preserved interior, a hidden gem of local heritage, and notice the intricate woodwork."
+          }
+        },
+        {
+          "name": {
+            "de": "Vallée Mabile See",
+            "hu": "Vallée Mabile-tó",
+            "ro": "Lacul Vallée Mabile",
+            "en": "Vallée Mabile Lake"
+          },
+          "coords": [
+            -1.922,
+            47.358
+          ],
+          "category": "recreational",
+          "arrive_at": "13:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 4.09,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den ruhigen Gewässern dieses malerischen Sees, einem beliebten Erholungsort, und bringen Sie etwas Brot für die Enten mit.",
+            "hu": "Pihenjen a festői tó békés vizénél, amely a helyiek kedvenc kikapcsolódási helye, és hozzon magával egy kis kenyeret a kacsák etetéséhez.",
+            "ro": "Relaxați-vă pe malul apelor liniștite ale acestui lac pitoresc, un loc preferat de recreere, și aduceți puțină pâine pentru a hrăni rațele.",
+            "en": "Relax by the serene waters of this scenic lake, a favorite local recreation spot, and bring some bread to feed the ducks during your afternoon stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "La Vallée des Korrigans - Tepacap!",
+            "hu": "La Vallée des Korrigans - Tepacap!",
+            "ro": "La Vallée des Korrigans - Tepacap!",
+            "en": "La Vallée des Korrigans - Tepacap!"
+          },
+          "coords": [
+            -1.922537,
+            47.355151
+          ],
+          "category": "recreational",
+          "arrive_at": "15:05",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.31,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit spannenden Outdoor-Abenteuern in diesem dynamischen Hochseilgarten, aber buchen Sie Ihre Tickets im Voraus.",
+            "hu": "Zárja a napot izgalmas szabadtéri kalandokkal ebben a dinamikus kalandparkban, de foglalja le a jegyeit előre, hogy garantálja a helyét.",
+            "ro": "Încheiați-vă ziua cu aventuri palpitante în aer liber în acest parc de aventură dinamic, dar rezervați biletele în avans pentru a vă asigura locul.",
+            "en": "End your day with some thrilling outdoor adventures in this dynamic treetop park, but book your tickets in advance to guarantee your climbing slot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie im dynamischen Kulturraum am Rande der Stadt, bevor Sie historische Monumente und den zentralen Bahnhof erkunden. Fahren Sie zu den ruhigeren spirituellen Stätten im Westen und tauchen Sie in die Stille ein. Beschließen Sie Ihren umfassenden Roadtrip mit Entspannung am Wasser und einer aufregenden Zeit im Naturpark, der Savenay von allen Seiten beleuchtet.",
+        "hu": "Kezdje a város szélén található dinamikus kulturális térben, mielőtt felfedezné a történelmi emlékműveket és a központi vasútállomást. Vezessen a nyugodtabb spirituális helyekhez nyugaton, és merüljön el a csendben. Zárja átfogó autós túráját a vízparti pihenéssel és a természeti park nyújtotta izgalmakkal, bemutatva Savenayt minden szögből.",
+        "ro": "Începeți în spațiul cultural dinamic de la marginea orașului, înainte de a explora monumente istorice și gara centrală. Conduceți spre siturile spirituale mai liniștite din vest. Încheiați călătoria dumneavoastră cuprinzătoare cu relaxare la malul apei și o perioadă palpitantă în parcul natural, evidențiind Savenay din toate unghiurile.",
+        "en": "Kick off at the dynamic cultural space on the city's edge before exploring historic monuments and the central station. Drive out to the quieter spiritual sites in the west and soak in the silence. Conclude your comprehensive road trip with waterside relaxation and a thrilling time at the nature park, highlighting Savenay from all angles."
+      }
+    }
+  }
+}

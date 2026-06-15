@@ -1,0 +1,474 @@
+{
+  "city_id": "greece-gythio-cities-v2",
+  "anchor": {
+    "name": "Gythio",
+    "coords": [
+      22.566111,
+      36.761667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:23",
+      "total_km": 1.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            22.565992,
+            36.760302
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante neoklassizistische Architektur dieses städtischen Gebäudes und prüfen Sie die Anschlagtafel auf lokale Veranstaltungen.",
+            "hu": "Csodálja meg ennek a középületnek az elegáns neoklasszikus építészetét, és nézze meg a hirdetőtáblán a helyi esti eseményeket.",
+            "ro": "Admirați arhitectura neoclasică elegantă a acestei clădiri municipale și verificați panoul de anunțuri pentru evenimente locale.",
+            "en": "Admire the elegant neoclassical architecture of this municipal building, and check the notice board for any local evening events."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum der östlichen Mani",
+            "hu": "Kelet-Mani Kulturális Központ",
+            "ro": "Centrul de Cultură Mani de Est",
+            "en": "Center of Culture of Easter Mani"
+          },
+          "coords": [
+            22.564979,
+            36.760233
+          ],
+          "category": "museum",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche Erbe der Mani-Region in den Ausstellungen; nehmen Sie sich Zeit, die detaillierten historischen Tafeln zu lesen.",
+            "hu": "Fedezze fel a Mani régió gazdag örökségét a kiállításokon keresztül; hagyjon időt a részletes történelmi táblák elolvasására.",
+            "ro": "Descoperiți bogata moștenire a regiunii Mani prin exponatele sale; alocați timp suplimentar pentru a citi plăcile istorice detaliate.",
+            "en": "Discover the rich heritage and fierce independence of the Mani region through its exhibits; allow extra time to read the detailed historical plaques."
+          }
+        },
+        {
+          "name": {
+            "de": "KhAIRE O KhAIRE ELEUThERA",
+            "hu": "KhAIRE O KhAIRE ELEUThERA",
+            "ro": "KhAIRE O KhAIRE ELEUThERA",
+            "en": "KhAIRE O KhAIRE ELEUThERA"
+          },
+          "coords": [
+            22.566357,
+            36.759077
+          ],
+          "category": "historical",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem historischen Denkmal zur griechischen Unabhängigkeit Ihren Respekt, perfekt für eine kurze Fotopause während Ihres Spaziergangs.",
+            "hu": "Tisztelegjen ennél a görög függetlenséget ünneplő történelmi emlékműnél, amely tökéletes egy gyors fotószünethez a séta során.",
+            "ro": "Aduceți un omagiu la acest monument istoric care comemorează independența Greciei, perfect situat pentru o scurtă pauză foto.",
+            "en": "Pay your respects at this historical monument commemorating Greek independence, perfectly situated for a quick photo break during your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Antikes Theater von Gythio",
+            "hu": "Gíthiói Ókori Színház",
+            "ro": "Teatrul Antic Gythio",
+            "en": "Arkhaio Theatro Gutheiou"
+          },
+          "coords": [
+            22.562641,
+            36.763668
+          ],
+          "category": "historical",
+          "arrive_at": "13:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesem erstaunlich intakten römischen Theater; tragen Sie festes Schuhwerk, da die antiken Steinstufen uneben sein können.",
+            "hu": "Lépjen vissza az időben ebben a dombba vájt, meglepően ép római színházban; viseljen kényelmes cipőt, mivel a kövek egyenetlenek.",
+            "ro": "Întoarceți-vă în timp la acest teatru roman surprinzător de intact sculptat în deal; purtați încălțăminte solidă, deoarece treptele de piatră sunt denivelate.",
+            "en": "Step back in time at this surprisingly intact Roman theater carved into the hill; wear sturdy shoes as the ancient stone steps can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Bäder von Gythio",
+            "hu": "Gíthiói Római Fürdők",
+            "ro": "Băile Romane Gythio",
+            "en": "Romaiko Balaneio Gutheiou"
+          },
+          "coords": [
+            22.560835,
+            36.76374
+          ],
+          "category": "historical",
+          "arrive_at": "15:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste der antiken römischen Bäder, eine beeindruckende archäologische Stätte, an der Sie die Fußbodenheizung sehen können.",
+            "hu": "Fedezze fel az ókori római fürdők romjait, egy lenyűgöző régészeti lelőhelyet, ahol még mindig látható a padlófűtési rendszer.",
+            "ro": "Explorați rămășițele băilor romane antice, un sit arheologic impresionant unde încă mai puteți vedea sistemul de încălzire prin pardoseală.",
+            "en": "Explore the remains of the ancient Roman baths, an impressive archaeological site where you can still see the elaborate underfloor heating system."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Friedhof von Gythio",
+            "hu": "Gíthiói Római Temető",
+            "ro": "Cimitirul Roman Gythio",
+            "en": "Romaiko Nekrotapheio Gutheiou"
+          },
+          "coords": [
+            22.559593,
+            36.760117
+          ],
+          "category": "historical",
+          "arrive_at": "16:33",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen faszinierenden antiken Friedhof mit klassischen Grabstrukturen, am besten am späten Nachmittag für dramatisches Licht.",
+            "hu": "Sétáljon végig ezen a lenyűgöző ókori temetőn, hogy lássa a klasszikus sírszerkezeteket, ideális késő délután a drámai fényekhez.",
+            "ro": "Plimbați-vă prin acest fascinant cimitir antic pentru a vedea structuri funerare clasice, vizitate ideal după-amiaza târziu pentru o lumină dramatică.",
+            "en": "Wander through this fascinating ancient cemetery to see classical burial structures, ideally visited in the late afternoon for dramatic lighting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Gythio, starten Sie beim eleganten neoklassizistischen Rathaus und tauchen Sie in die lokalen Traditionen im Kulturzentrum ein.\n\nGegen Mittag spazieren Sie zu den historischen Denkmälern, vorbei an der Gedenkstatue, bevor Sie das antike römische Theater am Hang erreichen.\n\nVerbringen Sie Ihren Nachmittag damit, die Ruinen der römischen Bäder zu bewundern, ein faszinierender Einblick in das tägliche Leben der antiken Stadtbewohner.\n\nBeenden Sie Ihren Rundgang bei Sonnenuntergang am römischen Friedhof und denken Sie über das tiefe antike Erbe nach, das diese Küstenstadt durchdringt.",
+        "hu": "Kezdje a napot Gíthio szívének felfedezésével, az elegáns neoklasszikus városházától indulva, majd merüljön el a helyi hagyományokban a kulturális központban.\n\nDélben sétáljon a történelmi emlékművek felé, elhaladva az emlékszobor mellett, mielőtt elérné a domboldalban megbúvó ókori római színházat.\n\nTöltse a délutánt a római fürdők romjainak megcsodálásával, amely lenyűgöző bepillantást nyújt az ókori városlakók mindennapi életébe.\n\nZárja gyalogos túráját a naplementében a római temetőnél, elgondolkodva a tengerparti várost átható mély ókori örökségen.",
+        "ro": "Începeți ziua explorând inima orașului Gythio, pornind de la eleganta Primărie neoclasică și scufundându-vă în tradițiile locale la centrul cultural.\n\nPână la prânz, plimbați-vă spre monumentele istorice, trecând pe lângă statuia comemorativă înainte de a ajunge la teatrul roman antic ascuns în deal.\n\nPetreceți după-amiaza admirând ruinele Băilor Romane, o privire fascinantă asupra vieții de zi cu zi a locuitorilor antici ai orașului.\n\nÎncheiați turul pietonal la Cimitirul Roman la apus, reflectând la moștenirea antică profundă care pătrunde în acest oraș de coastă.",
+        "en": "Start your day exploring the heart of Gythio, beginning with the elegant neoclassical Town Hall and diving into local traditions at the cultural center.\n\nBy noon, wander towards the historic monuments, passing the commemorative statue before reaching the ancient Roman theater nestled in the hillside.\n\nSpend your afternoon marveling at the ruins of the Roman Baths, a fascinating glimpse into the daily life of the city's ancient inhabitants.\n\nConclude your walking tour at the Roman Cemetery as the sun sets, reflecting on the profound ancient legacy that permeates this coastal town."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:58",
+      "total_km": 2.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Antikes Theater von Gythio",
+            "hu": "Gíthiói Ókori Színház",
+            "ro": "Teatrul Antic Gythio",
+            "en": "Arkhaio Theatro Gutheiou"
+          },
+          "coords": [
+            22.562641,
+            36.763668
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesem erstaunlich intakten römischen Theater; tragen Sie festes Schuhwerk, da die antiken Steinstufen uneben sein können.",
+            "hu": "Lépjen vissza az időben ebben a dombba vájt, meglepően ép római színházban; viseljen kényelmes cipőt, mivel a kövek egyenetlenek.",
+            "ro": "Întoarceți-vă în timp la acest teatru roman surprinzător de intact sculptat în deal; purtați încălțăminte solidă, deoarece treptele de piatră sunt denivelate.",
+            "en": "Step back in time at this surprisingly intact Roman theater carved into the hill; wear sturdy shoes as the ancient stone steps can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum der östlichen Mani",
+            "hu": "Kelet-Mani Kulturális Központ",
+            "ro": "Centrul de Cultură Mani de Est",
+            "en": "Center of Culture of Easter Mani"
+          },
+          "coords": [
+            22.564979,
+            36.760233
+          ],
+          "category": "museum",
+          "arrive_at": "10:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche Erbe der Mani-Region in den Ausstellungen; nehmen Sie sich Zeit, die detaillierten historischen Tafeln zu lesen.",
+            "hu": "Fedezze fel a Mani régió gazdag örökségét a kiállításokon keresztül; hagyjon időt a részletes történelmi táblák elolvasására.",
+            "ro": "Descoperiți bogata moștenire a regiunii Mani prin exponatele sale; alocați timp suplimentar pentru a citi plăcile istorice detaliate.",
+            "en": "Discover the rich heritage and fierce independence of the Mani region through its exhibits; allow extra time to read the detailed historical plaques."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            22.565992,
+            36.760302
+          ],
+          "category": "historical",
+          "arrive_at": "12:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante neoklassizistische Architektur dieses städtischen Gebäudes und prüfen Sie die Anschlagtafel auf lokale Veranstaltungen.",
+            "hu": "Csodálja meg ennek a középületnek az elegáns neoklasszikus építészetét, és nézze meg a hirdetőtáblán a helyi esti eseményeket.",
+            "ro": "Admirați arhitectura neoclasică elegantă a acestei clădiri municipale și verificați panoul de anunțuri pentru evenimente locale.",
+            "en": "Admire the elegant neoclassical architecture of this municipal building, and check the notice board for any local evening events."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Georgios",
+            "hu": "Agios Georgios",
+            "ro": "Agios Georgios",
+            "en": "Agios Georgios"
+          },
+          "coords": [
+            22.56923,
+            36.755784
+          ],
+          "category": "religious",
+          "arrive_at": "13:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Moment der Ruhe in dieser traditionellen orthodoxen Kirche und beachten Sie die schöne Ikonographie im Inneren.",
+            "hu": "Élvezze a béke pillanatát ebben a hagyományos ortodox templomban, és figyelje meg a bensőséges belső teret díszítő gyönyörű ikonográfiát.",
+            "ro": "Bucurați-vă de un moment de pace în această biserică ortodoxă tradițională și remarcați iconografia frumoasă care îi decorează interiorul intim.",
+            "en": "Enjoy a moment of peace in this traditional Orthodox church, and take note of the beautiful iconography decorating its intimate interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Tzanetaki-Turm",
+            "hu": "Tzanetaki-torony",
+            "ro": "Turnul Tzanetaki",
+            "en": "Tzanetaki Tower"
+          },
+          "coords": [
+            22.573148,
+            36.754143
+          ],
+          "category": "museum",
+          "arrive_at": "14:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Steigen Sie die Treppen dieses massiven Turmmuseums auf der Insel Marathonisi hinauf, um in die lokale Folklore einzutauchen.",
+            "hu": "Mássza meg ennek az erős toronymúzeumnak a lépcsőit a Marathonisi-szigeten, hogy elmélyedjen a helyi folklórban és élvezze a kilátást.",
+            "ro": "Urcați scările acestui robust turn-muzeu de pe insula Marathonisi pentru o incursiune în folclorul local și vederi impresionante asupra portului.",
+            "en": "Climb the stairs of this robust tower-museum on Marathonisi island for a deep dive into local folklore and commanding views of the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm von Gythio",
+            "hu": "Gíthiói Világítótorony",
+            "ro": "Farul Gythio",
+            "en": "Gythio Lighthouse"
+          },
+          "coords": [
+            22.575774,
+            36.754365
+          ],
+          "category": "landmark",
+          "arrive_at": "16:03",
+          "stay_min": 55,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Gehen Sie zu diesem historischen achteckigen Leuchtturm aus dem Jahr 1873, einem ikonischen Wahrzeichen mit perfekter Kulisse für Meerblicke.",
+            "hu": "Sétáljon ki ehhez az 1873-ban épült, történelmi nyolcszögletű világítótoronyhoz, amely ikonikus helyi mérföldkő tengeri kilátással.",
+            "ro": "Mergeți spre acest far octogonal istoric construit în 1873, un punct de reper local iconic care oferă un fundal perfect pentru vederi la mare.",
+            "en": "Walk out to this historic octagonal lighthouse built in 1873, an iconic local landmark offering the perfect backdrop for memorable sea views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihr Radabenteuer am antiken Theater, bevor Sie entspannt zum Kulturzentrum und zum ikonischen Rathaus radeln.\n\nGleiten Sie entlang der Uferpromenade zur malerischen Kirche Agios Georgios und genießen Sie die erfrischende Meeresbrise auf dem Weg zur Insel Marathonisi.\n\nÜberqueren Sie den Damm, um den faszinierenden Tzanetaki-Turm zu erkunden, eine traditionelle Mani-Festung, die heute als historisches Museum dient.\n\nBeenden Sie Ihre Tour am wunderschönen Leuchtturm von Gythio, dem perfekten Ort, um zu beobachten, wie die Sonne über dem Lakonischen Golf untergeht.",
+        "hu": "Indítsa kerékpáros kalandját az ókori színháznál, mielőtt könnyedén eltekerne a kulturális központig és az ikonikus városházáig.\n\nSikoljon végig a vízparton a festői Agios Georgios templomig, élvezve a frissítő tengeri szellőt a Marathonisi-sziget felé haladva.\n\nKeljen át a töltésen, hogy felfedezze a lenyűgöző Tzanetaki-tornyot, egy hagyományos mani erődöt, amely ma kiváló történelmi múzeumként működik.\n\nFejezze be a napi kerékpározást a gyönyörű gíthiói világítótoronynál, amely tökéletes hely a Lakóniai-öböl feletti naplemente megtekintésére.",
+        "ro": "Începeți aventura pe bicicletă la teatrul antic înainte de a pedala ușor către centrul cultural și emblematica Primărie.\n\nAlunecați de-a lungul coastei până la biserica pitorească Agios Georgios, bucurându-vă de briza mării în timp ce pedalați spre insula Marathonisi.\n\nTraversați digul pentru a explora captivantul Turn Tzanetaki, o fortăreață tradițională din Mani, care acum servește ca un excelent muzeu istoric.\n\nÎncheiați plimbarea zilei la frumosul Far din Gythio, locul perfect pentru a privi soarele coborând sub orizont peste Golful Laconian.",
+        "en": "Kick off your cycling adventure at the ancient theater before pedaling smoothly to the cultural center and the iconic Town Hall.\n\nGlide along the waterfront to the picturesque Agios Georgios church, enjoying the refreshing sea breeze as you cycle towards Marathonisi island.\n\nCross the causeway to explore the captivating Tzanetaki Tower, a traditional Mani stronghold now serving as an excellent historical museum.\n\nEnd your day's ride at the beautiful Gythio Lighthouse, the perfect spot to watch the sun dip below the horizon over the Laconian Gulf."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:35",
+      "total_km": 6.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Goulades-Schloss",
+            "hu": "Goulades-kastély",
+            "ro": "Castelul Goulades",
+            "en": "Goulades castle"
+          },
+          "coords": [
+            22.568748,
+            36.739616
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Navigieren Sie über verwilderte Pfade, um diese mittelalterlichen Burgruinen zu erkunden, und bringen Sie unbedingt Wasser mit, da der Ort isoliert ist.",
+            "hu": "Keresse meg a benőtt ösvényeket, hogy felfedezze ezeket a középkori kastélyromokat, és feltétlenül vigyen magával vizet, mivel a hely elszigetelt.",
+            "ro": "Navigați pe potecile acoperite de vegetație pentru a explora aceste ruine ale castelului medieval și asigurați-vă că aduceți apă.",
+            "en": "Navigate the overgrown paths to explore these medieval castle ruins, and make sure to bring water as the site is somewhat isolated."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Nikolaos",
+            "hu": "Agios Nikolaos",
+            "ro": "Agios Nikolaos",
+            "en": "Agios Nikolaos"
+          },
+          "coords": [
+            22.569036,
+            36.754545
+          ],
+          "category": "religious",
+          "arrive_at": "10:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese malerische Kirche am Meer, die dem Schutzpatron der Seeleute gewidmet ist, für eine ruhige Pause vor der Überquerung zur Insel.",
+            "hu": "Látogassa meg ezt a tengerészek védőszentjének szentelt tengerparti templomot, amely csendes pihenést kínál, mielőtt átkel a közeli szigetre.",
+            "ro": "Vizitați această biserică pitorească de pe litoral, dedicată sfântului patron al marinarilor, oferind un răgaz liniștit înainte de a traversa pe insulă.",
+            "en": "Visit this quaint seaside church dedicated to the patron saint of sailors, offering quiet respite before you cross over to the nearby island."
+          }
+        },
+        {
+          "name": {
+            "de": "Tzanetaki-Turm",
+            "hu": "Tzanetaki-torony",
+            "ro": "Turnul Tzanetaki",
+            "en": "Tzanetaki Tower"
+          },
+          "coords": [
+            22.573148,
+            36.754143
+          ],
+          "category": "museum",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Steigen Sie die Treppen dieses massiven Turmmuseums auf der Insel Marathonisi hinauf, um in die lokale Folklore einzutauchen.",
+            "hu": "Mássza meg ennek az erős toronymúzeumnak a lépcsőit a Marathonisi-szigeten, hogy elmélyedjen a helyi folklórban és élvezze a kilátást.",
+            "ro": "Urcați scările acestui robust turn-muzeu de pe insula Marathonisi pentru o incursiune în folclorul local și vederi impresionante asupra portului.",
+            "en": "Climb the stairs of this robust tower-museum on Marathonisi island for a deep dive into local folklore and commanding views of the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm von Gythio",
+            "hu": "Gíthiói Világítótorony",
+            "ro": "Farul Gythio",
+            "en": "Gythio Lighthouse"
+          },
+          "coords": [
+            22.575774,
+            36.754365
+          ],
+          "category": "landmark",
+          "arrive_at": "12:56",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Gehen Sie zu diesem historischen achteckigen Leuchtturm aus dem Jahr 1873, einem ikonischen Wahrzeichen mit perfekter Kulisse für Meerblicke.",
+            "hu": "Sétáljon ki ehhez az 1873-ban épült, történelmi nyolcszögletű világítótoronyhoz, amely ikonikus helyi mérföldkő tengeri kilátással.",
+            "ro": "Mergeți spre acest far octogonal istoric construit în 1873, un punct de reper local iconic care oferă un fundal perfect pentru vederi la mare.",
+            "en": "Walk out to this historic octagonal lighthouse built in 1873, an iconic local landmark offering the perfect backdrop for memorable sea views."
+          }
+        },
+        {
+          "name": {
+            "de": "Antikes Theater von Gythio",
+            "hu": "Gíthiói Ókori Színház",
+            "ro": "Teatrul Antic Gythio",
+            "en": "Arkhaio Theatro Gutheiou"
+          },
+          "coords": [
+            22.562641,
+            36.763668
+          ],
+          "category": "historical",
+          "arrive_at": "13:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesem erstaunlich intakten römischen Theater; tragen Sie festes Schuhwerk, da die antiken Steinstufen uneben sein können.",
+            "hu": "Lépjen vissza az időben ebben a dombba vájt, meglepően ép római színházban; viseljen kényelmes cipőt, mivel a kövek egyenetlenek.",
+            "ro": "Întoarceți-vă în timp la acest teatru roman surprinzător de intact sculptat în deal; purtați încălțăminte solidă, deoarece treptele de piatră sunt denivelate.",
+            "en": "Step back in time at this surprisingly intact Roman theater carved into the hill; wear sturdy shoes as the ancient stone steps can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Paralia Selinitsas",
+            "hu": "Paralia Selinitsas",
+            "ro": "Paralia Selinitsas",
+            "en": "Paralia Selinitsas"
+          },
+          "coords": [
+            22.572935,
+            36.779954
+          ],
+          "category": "recreational",
+          "arrive_at": "14:50",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem wunderschönen Strandabschnitt, der für sein klares Wasser und das nahe gelegene Schiffswrack bekannt ist.",
+            "hu": "Pihenjen ezen a gyönyörű partszakaszon, amely kristálytiszta vizéről és a közeli hajóroncsról ismert, tökéletes az egész napos vezetés után.",
+            "ro": "Relaxați-vă pe această porțiune frumoasă de plajă cunoscută pentru apele sale limpezi și epava din apropiere, perfectă pentru relaxare.",
+            "en": "Relax at this beautiful stretch of beach known for its clear waters and nearby shipwreck, perfect for unwinding after a day of driving."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autoroute südlich der Stadt am Goulades-Schloss und bewundern Sie die rauen Ruinen, bevor Sie zum Hafenviertel zurückkehren.\n\nParken Sie bei Agios Nikolaos für einen kurzen spirituellen Stopp und überqueren Sie dann die Insel Marathonisi, um im Tzanetaki-Turm in die Geschichte Manis einzutauchen.\n\nFahren Sie landeinwärts, um die gut erhaltenen Ränge des antiken Theaters zu besichtigen, die leicht zugänglich sind und eine Verbindung zur Antike bieten.\n\nBeenden Sie Ihren Tagesausflug mit einer kurzen Fahrt nach Norden zur Paralia Selinitsas und entspannen Sie sich am Sandstrand.",
+        "hu": "Kezdje autós útvonalát a várostól délre, a Goulades-kastélynál, megcsodálva a zord romokat, mielőtt visszatérne a nyüzsgő kikötőhöz.\n\nParkoljon le az Agios Nikolaos közelében egy rövid lelki feltöltődésre, majd keljen át a Marathonisi-szigetre, hogy elmélyedjen Mani történelmében a Tzanetaki-toronynál.\n\nVezessen vissza a szárazföldre, hogy meglátogassa az ókori színház jól megőrzött sorait, amely könnyen megközelíthető és csodálatos kapcsolatot kínál az ókorral.\n\nFejezze be egynapos kirándulását egy rövid autózással északra, a Paralia Selinitsas felé, és pihenjen a homokos tengerparton.",
+        "ro": "Începeți traseul cu mașina la sud de oraș, la castelul Goulades, admirând ruinele aspre înainte de a vă întoarce în zona portului aglomerat.\n\nParcați lângă Agios Nikolaos pentru o scurtă oprire spirituală, apoi traversați pe insula Marathonisi pentru a aprofunda istoria regiunii Mani la Turnul Tzanetaki.\n\nConduceți înapoi pentru a vizita rândurile bine conservate ale teatrului antic, ușor accesibile și oferind o legătură minunată cu antichitatea clasică.\n\nTerminați excursia de o zi cu o scurtă plimbare spre nord până la Paralia Selinitsas, relaxându-vă pe plaja de nisip.",
+        "en": "Start your driving route south of the city at Goulades castle, taking in the rugged ruins before heading back to the bustling harbor area.\n\nPark near Agios Nikolaos for a brief spiritual stop, then cross over to Marathonisi island to delve into Mani history at the Tzanetaki Tower.\n\nDrive back inland to visit the ancient theater's well-preserved tiers, easily accessible and offering a wonderful connection to classical antiquity.\n\nFinish your day trip with a short drive north to Paralia Selinitsas, relaxing on the sandy beach as the waves gently crash against the shore."
+      }
+    }
+  }
+}

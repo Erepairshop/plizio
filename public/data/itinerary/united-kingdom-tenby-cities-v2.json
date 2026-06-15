@@ -1,0 +1,451 @@
+{
+  "city_id": "united-kingdom-tenby-cities-v2",
+  "anchor": {
+    "name": "Tenby",
+    "coords": [
+      -4.699444,
+      51.671389
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:54",
+      "total_km": 1.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "St. Mary's Church",
+            "hu": "St. Mary-templom",
+            "ro": "Biserica St. Mary",
+            "en": "St. Mary's Church"
+          },
+          "coords": [
+            -4.699646,
+            51.671732
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisite geschnitzte Decke dieser aktiven Pfarrkirche aus dem 15. Jahrhundert und besuchen Sie sie respektvoll außerhalb der Messen.",
+            "hu": "Csodálja meg ezen aktív plébániatemplom lenyűgöző, 15. századi faragott mennyezetét, és ügyeljen arra, hogy a szentmisék idején kívül látogassa meg.",
+            "ro": "Admirați tavanul sculptat rafinat din secolul al XV-lea al acestei biserici active și asigurați-vă că o vizitați cu respect în afara orelor de slujbă.",
+            "en": "Admire the exquisite 15th-century carved ceiling of this active parish church, and remember to visit respectfully outside of regular mass times."
+          }
+        },
+        {
+          "name": {
+            "de": "Tudor Merchant's House",
+            "hu": "Tudor-kori kereskedőház",
+            "ro": "Casa Negustorului Tudor",
+            "en": "Tudor Merchant's House"
+          },
+          "coords": [
+            -4.698028,
+            51.671693
+          ],
+          "category": "museum",
+          "arrive_at": "09:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Treten Sie in diesem authentisch restaurierten Kaufmannshaus ins 15. Jahrhundert zurück und befragen Sie die Führer zum spannenden mittelalterlichen Handel.",
+            "hu": "Lépjen vissza a 15. századba ebben a hitelesen felújított kereskedőházban, és kérdezze az idegenvezetőket a középkori walesi kereskedelem titkairól.",
+            "ro": "Întoarceți-vă în secolul al XV-lea în această casă de negustori restaurată autentic și întrebați ghizii National Trust despre comerțul medieval.",
+            "en": "Step back into the 15th century in this authentically restored merchant home, and ask the knowledgeable National Trust guides about medieval trading."
+          }
+        },
+        {
+          "name": {
+            "de": "Tenby Museum & Art Gallery",
+            "hu": "Tenby Múzeum és Művészeti Galéria",
+            "ro": "Muzeul și Galeria de Artă Tenby",
+            "en": "Tenby Museum & Art Gallery"
+          },
+          "coords": [
+            -4.694879,
+            51.672325
+          ],
+          "category": "museum",
+          "arrive_at": "11:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie das älteste unabhängige Museum von Wales für maritime Geschichte und vergessen Sie nicht die fantastischen Kunstausstellungen im Obergeschoss.",
+            "hu": "Fedezze fel Wales legrégebbi független múzeumát a helyi tengerészeti történelemért, és ne hagyja ki az emeleti, fantasztikus helyi művészeti kiállítást sem.",
+            "ro": "Explorați cel mai vechi muzeu independent din Țara Galilor pentru istoria maritimă și nu ratați expozițiile fantastice de artă locală de la etaj.",
+            "en": "Explore Wales' oldest independent museum to uncover local maritime history, making sure to head upstairs for the fantastic local art exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Castle Beach",
+            "hu": "Castle Beach",
+            "ro": "Plaja Castle",
+            "en": "Castle Beach"
+          },
+          "coords": [
+            -4.694968,
+            51.67133
+          ],
+          "category": "recreational",
+          "arrive_at": "13:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sand dieser malerischen Bucht direkt unter den Burgruinen und kommen Sie bei Ebbe, um die weiten Spazierwege zu genießen.",
+            "hu": "Pihenjen ennek a kastélyromok alatti festői öbölnek az aranyhomokján, és érkezzen apálykor, hogy teljes mértékben kiélvezze a széles sétafelületet.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestui golf pitoresc de sub ruinele castelului și sosiți la reflux pentru a vă bucura de spațiul vast de plimbare.",
+            "en": "Relax on the golden sands of this picturesque cove right below the castle ruins, and arrive at low tide to fully enjoy the expansive walking space."
+          }
+        },
+        {
+          "name": {
+            "de": "St Catherine's Fort",
+            "hu": "St Catherine erőd",
+            "ro": "Fortul St Catherine",
+            "en": "St Catherine's Fort"
+          },
+          "coords": [
+            -4.691829,
+            51.670618
+          ],
+          "category": "castle",
+          "arrive_at": "14:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die dramatischen Stufen zu diesem Palmerston-Fort für tolle Inselblicke, aber prüfen Sie die Gezeiten, da es bei Flut abgeschnitten ist.",
+            "hu": "Mássza meg a drámai lépcsőket ehhez a Palmerston-erődhöz a lenyűgöző szigeti kilátásért, de ellenőrizze az árapályt, mert dagálykor el van vágva.",
+            "ro": "Urcați treptele dramatice către acest fort Palmerston pentru vederi incredibile, dar verificați merele, deoarece insula este izolată la mareea înaltă.",
+            "en": "Brave the dramatic steps up to this Palmerston fort for incredible island views, but check the tide times carefully since it is cut off at high water."
+          }
+        },
+        {
+          "name": {
+            "de": "North Beach",
+            "hu": "North Beach",
+            "ro": "Plaja North",
+            "en": "North Beach"
+          },
+          "coords": [
+            -4.700976,
+            51.675709
+          ],
+          "category": "recreational",
+          "arrive_at": "16:09",
+          "stay_min": 105,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie den ikonischen Blick auf den Goscar Rock im makellosen Sand und nutzen Sie die bequemen Klippenpfade für einen mühelosen Abstieg.",
+            "hu": "Gyönyörködjön a makulátlan homokból kiemelkedő Goscar Rock ikonikus látványában, és használja a kényelmes sziklaösvényeket a könnyű lejutáshoz.",
+            "ro": "Admirați vederea iconică a stâncii Goscar ridicându-se din nisipul imaculat și folosiți potecile convenabile de pe stâncă pentru o coborâre ușoară.",
+            "en": "Take in the iconic views of Goscar Rock rising from the immaculate sands, and use the convenient cliff-top paths for an effortless coastal descent."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit der historischen Atmosphäre der St. Mary's Church und dem erhaltenen Tudor Merchant's House. Mittags erkunden Sie die lokale Schifffahrtsgeschichte im Museum and Art Gallery. Nachmittags entspannen Sie sich am goldenen Ufer von Castle Beach, bevor Sie St Catherine's Fort bezwingen. Der Abend beendet Ihren Küstenspaziergang am ikonischen Sandstrand von North Beach.",
+        "hu": "A reggel a St. Mary-templom és a tökéletesen megőrzött Tudor-kereskedőház történelmi hangulatával indul. Délben a helyi tengerészeti történelmet fedezi fel a Múzeumban. A délután kikapcsolódásra csábít a Castle Beach arany partjain, mielőtt meghódítaná a St Catherine erődöt. Az este a tengerparti sétát a North Beach ikonikus, sziklákkal övezett homokos partjainál zárja.",
+        "ro": "Dimineața începe cu atmosfera istorică de la Biserica St. Mary și Casa Negustorului Tudor, perfect conservată. La prânz explorați istoria maritimă la Muzeu și Galeria de Artă. După-amiaza vă invită la relaxare pe țărmul auriu al plajei Castle, înainte de a înfrunta Fortul St Catherine. Seara vă încheie plimbarea de coastă pe nisipurile iconice mărginite de stânci ale plajei North Beach.",
+        "en": "Morning begins with the historic atmosphere of St. Mary's Church and the perfectly preserved Tudor Merchant's House. Midday sees you exploring local maritime history at the Museum and Art Gallery. Afternoon invites relaxation on the golden shores of Castle Beach before braving St Catherine's Fort. Evening concludes your coastal stroll at the iconic, cliff-backed sands of North Beach."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:13",
+      "total_km": 5.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Tenby Viaduct",
+            "hu": "Tenby viadukt",
+            "ro": "Viaductul Tenby",
+            "en": "Tenby Viaduct"
+          },
+          "coords": [
+            -4.707185,
+            51.674801
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die beeindruckende viktorianische Technik dieses steinernen Eisenbahnviadukts, das ein großartiges Fotomotiv am Eingang zur Altstadt ist.",
+            "hu": "Csodálja meg ennek az impozáns kőből épült vasúti viaduktnak a lenyűgöző viktoriánus mérnöki munkáját, amely nagyszerű fotótéma az óváros kapujában.",
+            "ro": "Minunați-vă de ingineria victoriană impresionantă a acestui viaduct feroviar din piatră, care servește drept o poartă fotografică excelentă spre orașul vechi.",
+            "en": "Marvel at the impressive Victorian engineering of this imposing stone railway viaduct, which serves as a great photographic gateway into the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "North Beach",
+            "hu": "North Beach",
+            "ro": "Plaja North",
+            "en": "North Beach"
+          },
+          "coords": [
+            -4.700976,
+            51.675709
+          ],
+          "category": "recreational",
+          "arrive_at": "09:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den ikonischen Blick auf den Goscar Rock im makellosen Sand und nutzen Sie die bequemen Klippenpfade für einen mühelosen Abstieg.",
+            "hu": "Gyönyörködjön a makulátlan homokból kiemelkedő Goscar Rock ikonikus látványában, és használja a kényelmes sziklaösvényeket a könnyű lejutáshoz.",
+            "ro": "Admirați vederea iconică a stâncii Goscar ridicându-se din nisipul imaculat și folosiți potecile convenabile de pe stâncă pentru o coborâre ușoară.",
+            "en": "Take in the iconic views of Goscar Rock rising from the immaculate sands, and use the convenient cliff-top paths for an effortless coastal descent."
+          }
+        },
+        {
+          "name": {
+            "de": "Tudor Merchant's House",
+            "hu": "Tudor-kori kereskedőház",
+            "ro": "Casa Negustorului Tudor",
+            "en": "Tudor Merchant's House"
+          },
+          "coords": [
+            -4.698028,
+            51.671693
+          ],
+          "category": "museum",
+          "arrive_at": "10:46",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Treten Sie in diesem authentisch restaurierten Kaufmannshaus ins 15. Jahrhundert zurück und befragen Sie die Führer zum spannenden mittelalterlichen Handel.",
+            "hu": "Lépjen vissza a 15. századba ebben a hitelesen felújított kereskedőházban, és kérdezze az idegenvezetőket a középkori walesi kereskedelem titkairól.",
+            "ro": "Întoarceți-vă în secolul al XV-lea în această casă de negustori restaurată autentic și întrebați ghizii National Trust despre comerțul medieval.",
+            "en": "Step back into the 15th century in this authentically restored merchant home, and ask the knowledgeable National Trust guides about medieval trading."
+          }
+        },
+        {
+          "name": {
+            "de": "St Catherine's Fort",
+            "hu": "St Catherine erőd",
+            "ro": "Fortul St Catherine",
+            "en": "St Catherine's Fort"
+          },
+          "coords": [
+            -4.691829,
+            51.670618
+          ],
+          "category": "castle",
+          "arrive_at": "12:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die dramatischen Stufen zu diesem Palmerston-Fort für tolle Inselblicke, aber prüfen Sie die Gezeiten, da es bei Flut abgeschnitten ist.",
+            "hu": "Mássza meg a drámai lépcsőket ehhez a Palmerston-erődhöz a lenyűgöző szigeti kilátásért, de ellenőrizze az árapályt, mert dagálykor el van vágva.",
+            "ro": "Urcați treptele dramatice către acest fort Palmerston pentru vederi incredibile, dar verificați merele, deoarece insula este izolată la mareea înaltă.",
+            "en": "Brave the dramatic steps up to this Palmerston fort for incredible island views, but check the tide times carefully since it is cut off at high water."
+          }
+        },
+        {
+          "name": {
+            "de": "South Beach",
+            "hu": "South Beach",
+            "ro": "Plaja South",
+            "en": "South Beach"
+          },
+          "coords": [
+            -4.710038,
+            51.661952
+          ],
+          "category": "recreational",
+          "arrive_at": "13:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Schlendern Sie über meilenweite Sandstrände in Richtung Giltar Point und bringen Sie eine Windjacke mit, da die Küstenbrisen hier recht stark sind.",
+            "hu": "Sétáljon a Giltar Point felé nyúló, dűnékkel szegélyezett kilométeres homokos parton, és hozzon széldzsekit, mert a nyílt tengeri szél meglehetősen erős.",
+            "ro": "Plimbați-vă de-a lungul kilometrilor de nisip mărginiți de dune spre Giltar Point și aduceți o jachetă, deoarece briza de coastă poate fi destul de puternică.",
+            "en": "Stroll along miles of dune-backed sands stretching towards Giltar Point, and bring a windbreaker as the open coastal breezes here can be quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Waterwynch Bay",
+            "hu": "Waterwynch-öböl",
+            "ro": "Golful Waterwynch",
+            "en": "Waterwynch Bay"
+          },
+          "coords": [
+            -4.696986,
+            51.6861
+          ],
+          "category": "recreational",
+          "arrive_at": "15:28",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen abgelegenen Kieselstrand zwischen schroffen Klippen, aber tragen Sie festes Schuhwerk für den steilen und unebenen Zugangsweg.",
+            "hu": "Fedezze fel ezt a zord sziklák között megbúvó, kutyabarát kavicsos strandot, de viseljen erős lábbelit a meredek és egyenetlen hozzáférési útvonalhoz.",
+            "ro": "Descoperiți această plajă izolată cu pietriș ascunsă între stânci abrupte, dar purtați încălțăminte rezistentă pentru calea de acces abruptă și denivelată.",
+            "en": "Discover this secluded, dog-friendly pebble beach hidden between rugged cliffs, but wear sturdy footwear for the steep and uneven access path down."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag mit der Bewunderung des markanten Tenby Viaduct, bevor Sie zur Weite von North Beach radeln. Mittags tauchen Sie im Tudor Merchant's House in das mittelalterliche Leben ein und erkunden das St Catherine's Fort. Der Nachmittag bringt Sie zu den weitläufigen, windigen Dünen von South Beach. Abends entspannen Sie in der abgelegenen Bucht von Waterwynch Bay.",
+        "hu": "Kezdje a kerékpáros napot a lenyűgöző Tenby viadukt megcsodálásával, mielőtt a North Beach festői kiterjedéséhez gurulna. A dél ideális a középkori élet felfedezésére a Tudor-házban és a St Catherine erőd megtekintésére. A délután a South Beach kiterjedt, szeles dűnéihez vezeti. Az este a Waterwynch Bay eldugott, kutyabarát öbleiben kínál csendes pihenést a nap végén.",
+        "ro": "Începeți ziua de ciclism admirând impresionantul viaduct Tenby înainte de a pedala spre întinderea pitorească North Beach. Prânzul este perfect pentru a explora viața medievală la Casa Negustorului Tudor și Fortul St Catherine. După-amiaza vă aduce la dunele întinse și aerisite ale plajei South Beach. Seara vă permite să vă relaxați la golful retras și liniștit de la Waterwynch Bay.",
+        "en": "Start your cycling day by admiring the striking Tenby Viaduct before cruising down to the scenic expanse of North Beach. Midday is perfect for diving into medieval life at the Tudor Merchant's House and exploring St Catherine's Fort. Afternoon brings you to the sweeping, breezy dunes of South Beach. Evening lets you unwind at the secluded, dog-friendly coves of Waterwynch Bay."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 7.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Tudor Merchant's House",
+            "hu": "Tudor-kori kereskedőház",
+            "ro": "Casa Negustorului Tudor",
+            "en": "Tudor Merchant's House"
+          },
+          "coords": [
+            -4.698028,
+            51.671693
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Treten Sie in diesem authentisch restaurierten Kaufmannshaus ins 15. Jahrhundert zurück und befragen Sie die Führer zum spannenden mittelalterlichen Handel.",
+            "hu": "Lépjen vissza a 15. századba ebben a hitelesen felújított kereskedőházban, és kérdezze az idegenvezetőket a középkori walesi kereskedelem titkairól.",
+            "ro": "Întoarceți-vă în secolul al XV-lea în această casă de negustori restaurată autentic și întrebați ghizii National Trust despre comerțul medieval.",
+            "en": "Step back into the 15th century in this authentically restored merchant home, and ask the knowledgeable National Trust guides about medieval trading."
+          }
+        },
+        {
+          "name": {
+            "de": "St Catherine's Fort",
+            "hu": "St Catherine erőd",
+            "ro": "Fortul St Catherine",
+            "en": "St Catherine's Fort"
+          },
+          "coords": [
+            -4.691829,
+            51.670618
+          ],
+          "category": "castle",
+          "arrive_at": "10:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die dramatischen Stufen zu diesem Palmerston-Fort für tolle Inselblicke, aber prüfen Sie die Gezeiten, da es bei Flut abgeschnitten ist.",
+            "hu": "Mássza meg a drámai lépcsőket ehhez a Palmerston-erődhöz a lenyűgöző szigeti kilátásért, de ellenőrizze az árapályt, mert dagálykor el van vágva.",
+            "ro": "Urcați treptele dramatice către acest fort Palmerston pentru vederi incredibile, dar verificați merele, deoarece insula este izolată la mareea înaltă.",
+            "en": "Brave the dramatic steps up to this Palmerston fort for incredible island views, but check the tide times carefully since it is cut off at high water."
+          }
+        },
+        {
+          "name": {
+            "de": "South Beach",
+            "hu": "South Beach",
+            "ro": "Plaja South",
+            "en": "South Beach"
+          },
+          "coords": [
+            -4.710038,
+            51.661952
+          ],
+          "category": "recreational",
+          "arrive_at": "12:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Schlendern Sie über meilenweite Sandstrände in Richtung Giltar Point und bringen Sie eine Windjacke mit, da die Küstenbrisen hier recht stark sind.",
+            "hu": "Sétáljon a Giltar Point felé nyúló, dűnékkel szegélyezett kilométeres homokos parton, és hozzon széldzsekit, mert a nyílt tengeri szél meglehetősen erős.",
+            "ro": "Plimbați-vă de-a lungul kilometrilor de nisip mărginiți de dune spre Giltar Point și aduceți o jachetă, deoarece briza de coastă poate fi destul de puternică.",
+            "en": "Stroll along miles of dune-backed sands stretching towards Giltar Point, and bring a windbreaker as the open coastal breezes here can be quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Heatherton World of Activities",
+            "hu": "Heatherton Élménypark",
+            "ro": "Heatherton World of Activities",
+            "en": "Heatherton World of Activities"
+          },
+          "coords": [
+            -4.760819,
+            51.688242
+          ],
+          "category": "recreational",
+          "arrive_at": "13:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Genießen Sie eine vielfältige Mischung familienfreundlicher Attraktionen vom Kartfahren bis zum Bogenschießen und kaufen Sie einen Mehrfachpass, um Geld zu sparen.",
+            "hu": "Élvezze a családbarát látnivalók sokszínű keverékét a gokartozástól az íjászatig, és fontolja meg a többalkalmas bérlet vásárlását a spórolás érdekében.",
+            "ro": "Bucurați-vă de un mix divers de atracții pentru familii, de la karting la tir cu arcul, și luați în considerare un abonament multiplu pentru a economisi bani.",
+            "en": "Enjoy a diverse mix of family-friendly attractions from go-karting to archery, and consider purchasing a multi-pass to save money on multiple rides."
+          }
+        },
+        {
+          "name": {
+            "de": "Manor Wildlife Park",
+            "hu": "Manor Vadaspark",
+            "ro": "Parcul Zoologic Manor",
+            "en": "Manor Wildlife Park"
+          },
+          "coords": [
+            -4.766767,
+            51.6863
+          ],
+          "category": "recreational",
+          "arrive_at": "14:59",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Wandern Sie in innovativen begehbaren Gehegen zwischen Lemuren und Wallabys und planen Sie Ihren Besuch passend zu den täglichen Tierfütterungen.",
+            "hu": "Sétáljon a makik és wallaby-k között az innovatív nyitott kifutókban, és időzítse látogatását a lenyűgöző napi gondozói beszélgetésekhez és etetésekhez.",
+            "ro": "Plimbați-vă printre lemuri și wallaby în incinte inovatoare deschise și programați-vă vizita în jurul discuțiilor zilnice captivante ale îngrijitorilor.",
+            "en": "Wander among lemurs and wallabies in innovative walk-through enclosures, and time your visit around the engaging daily keeper talks and animal feedings."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt mit der Erkundung des Herzens der Stadtgeschichte im Tudor Merchant's House und im dramatischen St Catherine's Fort. Mittags gibt es einen erfrischenden Küstenstopp an den Sandstränden von South Beach. Nachmittags geht es weiter zur aufregenden Heatherton World of Activities. Der Abend klingt wunderschön inmitten exotischer Tiere im Manor Wildlife Park aus.",
+        "hu": "Kezdje autós útját a város történelmének felfedezésével a Tudor-kereskedőházban és a drámai St Catherine erődnél. A dél frissítő tengerparti megállót kínál a South Beach homokos partjain. A délután sebességet vált, ahogy az izgalmas, akciódús Heatherton World of Activities felé veszi az irányt. Az este gyönyörűen zárul a Manor Wildlife Park egzotikus állatai között sétálva.",
+        "ro": "Începeți plimbarea cu mașina explorând inima istorică a orașului la Casa Negustorului Tudor și la dramaticul Fort St Catherine. La prânz, faceți o oprire de coastă pentru a vă bucura de South Beach. După-amiaza schimbă ritmul în timp ce vă îndreptați spre captivantul parc Heatherton World of Activities. Seara se încheie frumos printre animalele exotice de la Manor Wildlife Park.",
+        "en": "Begin your drive exploring the heart of the town's history at the Tudor Merchant's House and the dramatic St Catherine's Fort. Midday allows a refreshing coastal stop to enjoy the sandy shores of South Beach. Afternoon shifts gears as you head to the exciting, action-packed Heatherton World of Activities. Evening winds down beautifully among the exotic animals at Manor Wildlife Park."
+      }
+    }
+  }
+}

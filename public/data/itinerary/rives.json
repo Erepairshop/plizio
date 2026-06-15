@@ -1,0 +1,520 @@
+{
+  "city_id": "rives",
+  "anchor": {
+    "name": "Rives",
+    "coords": [
+      5.5022,
+      45.3508
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:31",
+      "total_km": 3.75,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Valère",
+            "hu": "Saint-Valère templom",
+            "ro": "Biserica Saint-Valère",
+            "en": "Saint-Valère Church"
+          },
+          "coords": [
+            5.502688,
+            45.35198
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die detailreichen Glasfenster im Inneren und kommen Sie früh, um das beste Licht für Ihre Fotos zu nutzen.",
+            "hu": "Csodálja meg a részletgazdag ólomüveg ablakokat belül, és érkezzen korán a legjobb fotók készítéséhez.",
+            "ro": "Admirați vitraliile detaliate din interior și ajungeți devreme pentru a beneficia de cea mai bună lumină la fotografii.",
+            "en": "Admire the detailed stained glass windows inside and arrive early to capture the best light for your photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Blanchet",
+            "hu": "Chapelle Blanchet",
+            "ro": "Chapelle Blanchet",
+            "en": "Chapelle Blanchet"
+          },
+          "coords": [
+            5.510925,
+            45.351487
+          ],
+          "category": "religious",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Entdecken Sie die friedliche Atmosphäre dieser kleinen Kapelle und tragen Sie bequeme Schuhe für den kurzen Spaziergang vom Zentrum.",
+            "hu": "Fedezze fel e kis kápolna békés hangulatát, és viseljen kényelmes cipőt a központból vezető rövid sétához.",
+            "ro": "Descoperiți atmosfera pașnică a acestei mici capele și purtați încălțăminte confortabilă pentru scurta plimbare din centru.",
+            "en": "Discover the peaceful atmosphere of this small chapel and wear comfortable shoes for the short walk from the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Orgère-Park",
+            "hu": "Orgère Park",
+            "ro": "Parcul Orgère",
+            "en": "Orgère Park"
+          },
+          "coords": [
+            5.500395,
+            45.350955
+          ],
+          "category": "natural",
+          "arrive_at": "10:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.83,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf den grünen Rasenflächen des Parks und packen Sie ein leichtes Picknick ein, um die Natur mitten in der Stadt zu genießen.",
+            "hu": "Pihenjen a park zöld gyepén, és hozzon magával egy könnyű pikniket, hogy élvezze a természetet a város közepén.",
+            "ro": "Relaxați-vă pe gazonul verde al parcului și împachetați un picnic ușor pentru a vă bucura de natură în mijlocul orașului.",
+            "en": "Relax on the green lawns of the park and pack a light picnic to enjoy nature right in the middle of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Orgère-Museum",
+            "hu": "Orgère Múzeum",
+            "ro": "Muzeul Orgère",
+            "en": "Orgère Museum"
+          },
+          "coords": [
+            5.500395,
+            45.350955
+          ],
+          "category": "museum",
+          "arrive_at": "12:07",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Lernen Sie die lokale Industriegeschichte kennen und achten Sie auf die wechselnden Ausstellungen, die oft verborgene Schätze der Region zeigen.",
+            "hu": "Ismerje meg a helyi ipartörténetet, és figyeljen az időszaki kiállításokra, amelyek gyakran a régió rejtett kincseit mutatják be.",
+            "ro": "Aflați despre istoria industrială locală și acordați atenție expozițiilor temporare care prezintă adesea comorile ascunse ale regiunii.",
+            "en": "Learn about local industrial history and keep an eye out for temporary exhibitions that often showcase hidden treasures of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Pierre-de-Vérone",
+            "hu": "Saint-Pierre-de-Vérone templom",
+            "ro": "Biserica Saint-Pierre-de-Vérone",
+            "en": "Saint-Pierre-de-Vérone Church"
+          },
+          "coords": [
+            5.483999,
+            45.3339
+          ],
+          "category": "religious",
+          "arrive_at": "14:21",
+          "stay_min": 70,
+          "hop_from_prev_min": 34,
+          "hop_from_prev_km": 2.27,
+          "tip_5lang": {
+            "de": "Betrachten Sie die traditionelle Architektur dieser ruhigen Kirche, die etwas außerhalb liegt und sich ideal für eine kurze besinnliche Pause eignet.",
+            "hu": "Tekintse meg ennek a csendes, kicsit kijjebb eső templomnak a hagyományos építészetét, amely ideális egy rövid, elmélyült pihenőre.",
+            "ro": "Priviți arhitectura tradițională a acestei biserici liniștite, situată puțin mai departe, ideală pentru o scurtă pauză de reflecție.",
+            "en": "Examine the traditional architecture of this quiet church located just outside the center, making it ideal for a short contemplative break."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt im Herzen von Rives an der Kirche Saint-Valère, gefolgt von einem kurzen Spaziergang zur friedlichen Chapelle Blanchet.\n\nGegen Mittag erreichen Sie den Orgère Park, ein idealer grüner Ort zum Entspannen, bevor Sie in das Erbe der Region im Museum eintauchen.\n\nDer Nachmittag lädt Sie ein, die faszinierenden Ausstellungen des Museums über die industrielle Vergangenheit zu erkunden.\n\nWenn der Tag zu Ende geht, bringt Sie ein Spaziergang zur Église Saint-Pierre-de-Vérone, die einen ruhigen Abschluss Ihrer Tour bietet.",
+        "hu": "A reggel Rives szívében kezdődik a gyönyörű Saint-Valère templomnál, majd egy rövid sétával eljut a békés Chapelle Blanchet-hez.\n\nDélre eléri az Orgère Parkot, amely ideális zöld terület a pihenésre, mielőtt elmerülne a helyi örökségben a múzeumban.\n\nA délután folyamán a múzeum lenyűgöző, ipari múltat bemutató kiállításait fedezheti fel.\n\nVégül, a nap lezárásaként a séta az Église Saint-Pierre-de-Vérone templomhoz vezet, amely csendes, elmélyült befejezést kínál.",
+        "ro": "Dimineața începe în inima orașului Rives la frumoasa Biserică Saint-Valère, urmată de o scurtă plimbare la pașnica Chapelle Blanchet.\n\nLa prânz, veți ajunge în Parcul Orgère, un loc verde ideal pentru a vă relaxa înainte de a explora moștenirea regiunii la muzeu.\n\nDupă-amiaza vă invită să explorați exponatele fascinante ale muzeului care detaliază trecutul industrial.\n\nÎn cele din urmă, pe măsură ce ziua se încheie, o plimbare vă duce la Biserica Saint-Pierre-de-Vérone pentru un final liniștit.",
+        "en": "Your morning begins in the heart of Rives at the beautiful Saint-Valère Church, followed by a short walk to the peaceful Chapelle Blanchet to admire local history.\n\nBy midday, you will reach Orgère Park, an ideal green spot to relax before diving into the region's heritage at the Orgère Museum.\n\nThe afternoon invites you to explore the museum's fascinating exhibits detailing the industrial past.\n\nFinally, as the day winds down, a stroll brings you to the Église Saint-Pierre-de-Vérone, offering a quiet, contemplative end to your walking tour."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:29",
+      "total_km": 10.69,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Jean-Baptiste",
+            "hu": "Saint-Jean-Baptiste templom",
+            "ro": "Biserica Saint-Jean-Baptiste",
+            "en": "Saint-Jean-Baptiste Church"
+          },
+          "coords": [
+            5.526057,
+            45.366832
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihren Tag mit einem Besuch dieses historischen Bauwerks und bringen Sie ein Weitwinkelobjektiv mit, um die ganze Fassade einzufangen.",
+            "hu": "Kezdje a napot e történelmi építmény meglátogatásával, és hozzon magával nagylátószögű objektívet a teljes homlokzat megörökítéséhez.",
+            "ro": "Începeți ziua cu o vizită la această structură istorică și aduceți un obiectiv cu unghi larg pentru a surprinde întreaga fațadă.",
+            "en": "Start your day with a visit to this historical structure and bring a wide-angle lens to capture the entire impressive facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Valère",
+            "hu": "Saint-Valère templom",
+            "ro": "Biserica Saint-Valère",
+            "en": "Saint-Valère Church"
+          },
+          "coords": [
+            5.502688,
+            45.35198
+          ],
+          "category": "religious",
+          "arrive_at": "10:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.45,
+          "tip_5lang": {
+            "de": "Bewundern Sie die detailreichen Glasfenster im Inneren und kommen Sie früh, um das beste Licht für Ihre Fotos zu nutzen.",
+            "hu": "Csodálja meg a részletgazdag ólomüveg ablakokat belül, és érkezzen korán a legjobb fotók készítéséhez.",
+            "ro": "Admirați vitraliile detaliate din interior și ajungeți devreme pentru a beneficia de cea mai bună lumină la fotografii.",
+            "en": "Admire the detailed stained glass windows inside and arrive early to capture the best light for your photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Orgère-Park",
+            "hu": "Orgère Park",
+            "ro": "Parcul Orgère",
+            "en": "Orgère Park"
+          },
+          "coords": [
+            5.500395,
+            45.350955
+          ],
+          "category": "natural",
+          "arrive_at": "10:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf den grünen Rasenflächen des Parks und packen Sie ein leichtes Picknick ein, um die Natur mitten in der Stadt zu genießen.",
+            "hu": "Pihenjen a park zöld gyepén, és hozzon magával egy könnyű pikniket, hogy élvezze a természetet a város közepén.",
+            "ro": "Relaxați-vă pe gazonul verde al parcului și împachetați un picnic ușor pentru a vă bucura de natură în mijlocul orașului.",
+            "en": "Relax on the green lawns of the park and pack a light picnic to enjoy nature right in the middle of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Orgère-Museum",
+            "hu": "Orgère Múzeum",
+            "ro": "Muzeul Orgère",
+            "en": "Orgère Museum"
+          },
+          "coords": [
+            5.500395,
+            45.350955
+          ],
+          "category": "museum",
+          "arrive_at": "11:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Lernen Sie die lokale Industriegeschichte kennen und achten Sie auf die wechselnden Ausstellungen, die oft verborgene Schätze der Region zeigen.",
+            "hu": "Ismerje meg a helyi ipartörténetet, és figyeljen az időszaki kiállításokra, amelyek gyakran a régió rejtett kincseit mutatják be.",
+            "ro": "Aflați despre istoria industrială locală și acordați atenție expozițiilor temporare care prezintă adesea comorile ascunse ale regiunii.",
+            "en": "Learn about local industrial history and keep an eye out for temporary exhibitions that often showcase hidden treasures of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Roch-et-Saint-Sébastien",
+            "hu": "Saint-Roch-et-Saint-Sébastien templom",
+            "ro": "Biserica Saint-Roch-et-Saint-Sébastien",
+            "en": "Saint-Roch-et-Saint-Sébastien Church"
+          },
+          "coords": [
+            5.52866,
+            45.344548
+          ],
+          "category": "religious",
+          "arrive_at": "13:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Beachten Sie die rustikalen Steinmetzarbeiten dieser Kirche und kombinieren Sie den Besuch mit einem Spaziergang durch die umliegenden historischen Gassen.",
+            "hu": "Figyelje meg e templom rusztikus kőfaragásait, és kösse össze a látogatást a környező történelmi sikátorokban tett sétával.",
+            "ro": "Observați sculpturile rustice în piatră ale acestei biserici și combinați vizita cu o plimbare pe străduțele istorice din jur.",
+            "en": "Observe the rustic stonework of this church and combine your visit with a pleasant walk through the surrounding historic alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle de la Grande Fabrique",
+            "hu": "Grande Fabrique kápolna",
+            "ro": "Capela de la Grande Fabrique",
+            "en": "Grande Fabrique Chapel"
+          },
+          "coords": [
+            5.491821,
+            45.331077
+          ],
+          "category": "religious",
+          "arrive_at": "14:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.21,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in das industrielle Erbe der Region an diesem Ort und lesen Sie die Informationstafeln, um die faszinierende Vergangenheit zu verstehen.",
+            "hu": "Merüljön el a régió ipari örökségében ezen a helyen, és olvassa el a tájékoztató táblákat, hogy megértse a lenyűgöző múltat.",
+            "ro": "Cufundați-vă în moștenirea industrială a regiunii în acest loc și citiți panourile informative pentru a înțelege trecutul fascinant.",
+            "en": "Immerse yourself in the region's industrial heritage at this site and read the information boards to fully understand its fascinating past."
+          }
+        },
+        {
+          "name": {
+            "de": "Fure-Tal",
+            "hu": "Fure-völgy",
+            "ro": "Valea Fure",
+            "en": "Fure Valley"
+          },
+          "coords": [
+            5.495648,
+            45.308546
+          ],
+          "category": "natural",
+          "arrive_at": "15:44",
+          "stay_min": 105,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.52,
+          "tip_5lang": {
+            "de": "Wandern Sie entlang des malerischen Flusstals und nehmen Sie unbedingt Mückenspray und ausreichend Wasser für den Nachmittag mit.",
+            "hu": "Túrázzon a festői folyóvölgy mentén, és feltétlenül vigyen magával szúnyogriasztót és elegendő vizet a délutáni programhoz.",
+            "ro": "Drumeți de-a lungul văii pitorești a râului și asigurați-vă că luați cu voi spray împotriva țânțarilor și multă apă pentru după-amiază.",
+            "en": "Hike along the picturesque river valley and be sure to bring mosquito repellent and plenty of water for your afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour im Nordosten an der Kirche Saint-Jean-Baptiste, bevor Sie zur zentralen Kirche Saint-Valère hinunterfahren.\n\nAm Mittag radeln Sie durch den schönen Orgère Park und ins Orgère Museum, um etwas über die lokale Industrie zu erfahren.\n\nIhre Nachmittagsfahrt verbindet historische Punkte wie die Église Saint-Roch und die bedeutende Chapelle de la Grande Fabrique.\n\nBeenden Sie Ihren aktiven Tag mit einer landschaftlich reizvollen Fahrt ins Fure-Tal, wo die Natur Ihre Bemühungen belohnt.",
+        "hu": "Kezdje a kerékpártúrát északkeleten az Église Saint-Jean-Baptiste templomnál, mielőtt leereszkedne a központi Saint-Valère templomhoz.\n\nDélben a gyönyörű Orgère Parkon keresztül a múzeumba kerekezik, hogy megismerje a helyi ipart.\n\nA délutáni tekerés történelmi pontokat köt össze, érintve a Saint-Roch templomot és a Grande Fabrique kápolnát.\n\nZárja aktív napját egy festői utazással a Fure völgye felé, ahol a természet és a nyugalom jutalmazza erőfeszítéseit.",
+        "ro": "Începeți turul cu bicicleta în nord-est la Biserica Saint-Jean-Baptiste înainte de a coborî spre centrala Biserică Saint-Valère.\n\nPrânzul vă duce prin frumosul Parc Orgère și la muzeu pentru a afla despre industria locală.\n\nPlimbarea de după-amiază conectează puncte istorice, trecând pe la Biserica Saint-Roch și pe la Capela de la Grande Fabrique.\n\nÎncheiați-vă ziua activă cu o plimbare pitorească spre Valea Fure, unde natura vă răsplătește eforturile pe două roți.",
+        "en": "Kick off your cycling tour in the northeast at Église Saint-Jean-Baptiste before riding down to the central Saint-Valère Church.\n\nMidday takes you through the beautiful Orgère Park and into the Orgère Museum to learn about local industry.\n\nYour afternoon ride connects historical points, taking you to Église Saint-Roch and the culturally significant Chapelle de la Grande Fabrique.\n\nEnd your active day with a scenic ride towards the Fure Valley, where nature and tranquility reward your cycling efforts."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:06",
+      "total_km": 14.13,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Jean-Baptiste",
+            "hu": "Saint-Jean-Baptiste templom",
+            "ro": "Biserica Saint-Jean-Baptiste",
+            "en": "Saint-Jean-Baptiste Church"
+          },
+          "coords": [
+            5.526057,
+            45.366832
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihren Tag mit einem Besuch dieses historischen Bauwerks und bringen Sie ein Weitwinkelobjektiv mit, um die ganze Fassade einzufangen.",
+            "hu": "Kezdje a napot e történelmi építmény meglátogatásával, és hozzon magával nagylátószögű objektívet a teljes homlokzat megörökítéséhez.",
+            "ro": "Începeți ziua cu o vizită la această structură istorică și aduceți un obiectiv cu unghi larg pentru a surprinde întreaga fațadă.",
+            "en": "Start your day with a visit to this historical structure and bring a wide-angle lens to capture the entire impressive facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Valère",
+            "hu": "Saint-Valère templom",
+            "ro": "Biserica Saint-Valère",
+            "en": "Saint-Valère Church"
+          },
+          "coords": [
+            5.502688,
+            45.35198
+          ],
+          "category": "religious",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.45,
+          "tip_5lang": {
+            "de": "Bewundern Sie die detailreichen Glasfenster im Inneren und kommen Sie früh, um das beste Licht für Ihre Fotos zu nutzen.",
+            "hu": "Csodálja meg a részletgazdag ólomüveg ablakokat belül, és érkezzen korán a legjobb fotók készítéséhez.",
+            "ro": "Admirați vitraliile detaliate din interior și ajungeți devreme pentru a beneficia de cea mai bună lumină la fotografii.",
+            "en": "Admire the detailed stained glass windows inside and arrive early to capture the best light for your photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Orgère-Museum",
+            "hu": "Orgère Múzeum",
+            "ro": "Muzeul Orgère",
+            "en": "Orgère Museum"
+          },
+          "coords": [
+            5.500395,
+            45.350955
+          ],
+          "category": "museum",
+          "arrive_at": "10:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Lernen Sie die lokale Industriegeschichte kennen und achten Sie auf die wechselnden Ausstellungen, die oft verborgene Schätze der Region zeigen.",
+            "hu": "Ismerje meg a helyi ipartörténetet, és figyeljen az időszaki kiállításokra, amelyek gyakran a régió rejtett kincseit mutatják be.",
+            "ro": "Aflați despre istoria industrială locală și acordați atenție expozițiilor temporare care prezintă adesea comorile ascunse ale regiunii.",
+            "en": "Learn about local industrial history and keep an eye out for temporary exhibitions that often showcase hidden treasures of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Roch-et-Saint-Sébastien",
+            "hu": "Saint-Roch-et-Saint-Sébastien templom",
+            "ro": "Biserica Saint-Roch-et-Saint-Sébastien",
+            "en": "Saint-Roch-et-Saint-Sébastien Church"
+          },
+          "coords": [
+            5.52866,
+            45.344548
+          ],
+          "category": "religious",
+          "arrive_at": "12:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Beachten Sie die rustikalen Steinmetzarbeiten dieser Kirche und kombinieren Sie den Besuch mit einem Spaziergang durch die umliegenden historischen Gassen.",
+            "hu": "Figyelje meg e templom rusztikus kőfaragásait, és kösse össze a látogatást a környező történelmi sikátorokban tett sétával.",
+            "ro": "Observați sculpturile rustice în piatră ale acestei biserici și combinați vizita cu o plimbare pe străduțele istorice din jur.",
+            "en": "Observe the rustic stonework of this church and combine your visit with a pleasant walk through the surrounding historic alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Georges",
+            "hu": "Saint-Georges templom",
+            "ro": "Biserica Saint-Georges",
+            "en": "Saint-Georges Church"
+          },
+          "coords": [
+            5.469183,
+            45.340253
+          ],
+          "category": "religious",
+          "arrive_at": "13:11",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.62,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von der Einfachheit dieser Kirche verzaubern und genießen Sie die ruhige Atmosphäre abseits der Hauptstraßen der Stadt.",
+            "hu": "Hagyja, hogy elvarázsolja e templom egyszerűsége, és élvezze a város főútjaitól távol eső csendes hangulatot.",
+            "ro": "Lăsați-vă fermecat de simplitatea acestei biserici și bucurați-vă de atmosfera liniștită departe de străzile principale ale orașului.",
+            "en": "Let yourself be enchanted by the simplicity of this church and enjoy the quiet atmosphere away from the city's main roads."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Pierre-de-Vérone",
+            "hu": "Saint-Pierre-de-Vérone templom",
+            "ro": "Biserica Saint-Pierre-de-Vérone",
+            "en": "Saint-Pierre-de-Vérone Church"
+          },
+          "coords": [
+            5.483999,
+            45.3339
+          ],
+          "category": "religious",
+          "arrive_at": "13:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.35,
+          "tip_5lang": {
+            "de": "Betrachten Sie die traditionelle Architektur dieser ruhigen Kirche, die etwas außerhalb liegt und sich ideal für eine kurze besinnliche Pause eignet.",
+            "hu": "Tekintse meg ennek a csendes, kicsit kijjebb eső templomnak a hagyományos építészetét, amely ideális egy rövid, elmélyült pihenőre.",
+            "ro": "Priviți arhitectura tradițională a acestei biserici liniștite, situată puțin mai departe, ideală pentru o scurtă pauză de reflecție.",
+            "en": "Examine the traditional architecture of this quiet church located just outside the center, making it ideal for a short contemplative break."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle de la Grande Fabrique",
+            "hu": "Grande Fabrique kápolna",
+            "ro": "Capela de la Grande Fabrique",
+            "en": "Grande Fabrique Chapel"
+          },
+          "coords": [
+            5.491821,
+            45.331077
+          ],
+          "category": "religious",
+          "arrive_at": "14:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.68,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in das industrielle Erbe der Region an diesem Ort und lesen Sie die Informationstafeln, um die faszinierende Vergangenheit zu verstehen.",
+            "hu": "Merüljön el a régió ipari örökségében ezen a helyen, és olvassa el a tájékoztató táblákat, hogy megértse a lenyűgöző múltat.",
+            "ro": "Cufundați-vă în moștenirea industrială a regiunii în acest loc și citiți panourile informative pentru a înțelege trecutul fascinant.",
+            "en": "Immerse yourself in the region's industrial heritage at this site and read the information boards to fully understand its fascinating past."
+          }
+        },
+        {
+          "name": {
+            "de": "Fure-Tal",
+            "hu": "Fure-völgy",
+            "ro": "Valea Fure",
+            "en": "Fure Valley"
+          },
+          "coords": [
+            5.495648,
+            45.308546
+          ],
+          "category": "natural",
+          "arrive_at": "15:21",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.52,
+          "tip_5lang": {
+            "de": "Wandern Sie entlang des malerischen Flusstals und nehmen Sie unbedingt Mückenspray und ausreichend Wasser für den Nachmittag mit.",
+            "hu": "Túrázzon a festői folyóvölgy mentén, és feltétlenül vigyen magával szúnyogriasztót és elegendő vizet a délutáni programhoz.",
+            "ro": "Drumeți de-a lungul văii pitorești a râului și asigurați-vă că luați cu voi spray împotriva țânțarilor și multă apă pentru după-amiază.",
+            "en": "Hike along the picturesque river valley and be sure to bring mosquito repellent and plenty of water for your afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihr Abenteuer an der markanten Église Saint-Jean-Baptiste und fahren Sie bequem zur zentralen Saint-Valère Kirche.\n\nMittags parken Sie beim Orgère Museum für einen historischen Einblick und fahren dann rasch zur Église Saint-Roch.\n\nVerbringen Sie den Nachmittag mit einer Fahrt in den Westen, um die Kirchen Saint-Georges und Saint-Pierre-de-Vérone zu besuchen.\n\nWenn der Abend naht, fahren Sie zur Chapelle de la Grande Fabrique und beenden Ihre Tour im malerischen Fure-Tal.",
+        "hu": "Kezdje az autós kalandot a feltűnő Saint-Jean-Baptiste templomnál, majd vezessen a központi Saint-Valère templomhoz.\n\nDélben parkoljon le az Orgère Múzeum közelében egy történelmi utazásra, majd haladjon tovább a Saint-Roch templom felé.\n\nA délutánt a nyugati peremvidéken tölti, meglátogatva a Saint-Georges és a Saint-Pierre-de-Vérone templomokat.\n\nAz este közeledtével vezessen el a Grande Fabrique kápolnához, és zárja kulturális túráját a Fure völgyében.",
+        "ro": "Începeți aventura auto la impresionanta Biserică Saint-Jean-Baptiste, apoi conduceți confortabil spre Biserica Saint-Valère din centru.\n\nLa prânz, parcați lângă Muzeul Orgère pentru o lecție de istorie, urmată de o scurtă deplasare spre Biserica Saint-Roch.\n\nPetreceți după-amiaza la periferia vestică, vizitând bisericile Saint-Georges și Saint-Pierre-de-Vérone.\n\nOdată cu lăsarea serii, conduceți spre Capela de la Grande Fabrique și încheiați turul cultural explorând pitoreasca Vale Fure.",
+        "en": "Start your driving adventure at the striking Église Saint-Jean-Baptiste, then easily navigate to the central Saint-Valère Church.\n\nThe midday segment lets you park near the Orgère Museum for a deep dive into history, followed by a quick drive to Église Saint-Roch.\n\nSpend your afternoon cruising to the western outskirts, visiting Église Saint-Georges and Église Saint-Pierre-de-Vérone.\n\nAs evening approaches, drive down to the Chapelle de la Grande Fabrique and finish your rich cultural tour exploring the scenic Fure Valley."
+      }
+    }
+  }
+}

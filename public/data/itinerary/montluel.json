@@ -1,0 +1,405 @@
+{
+  "city_id": "montluel",
+  "anchor": {
+    "name": "Montluel",
+    "coords": [
+      5.0564,
+      45.8517
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:54",
+      "total_km": 1.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Musée d'Art et d'Histoire locale",
+            "hu": "Helytörténeti és Művészeti Múzeum",
+            "ro": "Muzeul de Artă și Istorie locală",
+            "en": "Museum of Art and Local History"
+          },
+          "coords": [
+            5.056489,
+            45.852277
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie Montluels reiche Apotheken- und Regionalgeschichte in diesem Museum, also kommen Sie früh, um den nachmittäglichen Schulgruppen zu entgehen.",
+            "hu": "Fedezze fel Montluel gazdag patikatörténetét és helytörténetét ebben a múzeumban, ezért érdemes korán érkezni az iskolás csoportok elkerülése végett.",
+            "ro": "Descoperiți istoria bogată a farmaciei și a regiunii în acest muzeu fascinant, așa că planificați-vă vizita devreme pentru a evita grupurile școlare.",
+            "en": "Discover Montluel’s rich apothecary and regional history in this fascinating museum, so plan your visit early to avoid the afternoon school groups."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-des-Marais",
+            "hu": "Notre-Dame-des-Marais templom",
+            "ro": "Biserica Notre-Dame-des-Marais",
+            "en": "Église Notre-Dame-des-Marais"
+          },
+          "coords": [
+            5.05751,
+            45.85282
+          ],
+          "category": "religious",
+          "arrive_at": "10:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotische Architektur dieser Kirche und tragen Sie bequeme Schuhe, um die schönen umliegenden Kopfsteinpflastergassen zu erkunden.",
+            "hu": "Csodálja meg e történelmi templom lenyűgöző gótikus építészetét, és viseljen kényelmes cipőt a környező macskaköves sikátorok felfedezéséhez.",
+            "ro": "Admirați arhitectura gotică izbitoare a acestei biserici istorice și asigurați-vă că purtați încălțăminte confortabilă pentru a explora aleile pitorești.",
+            "en": "Admire the striking Gothic architecture of this historic church, and be sure to wear comfortable shoes to explore the beautiful surrounding cobblestone alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Barthélémy",
+            "hu": "Saint-Barthélémy kápolna",
+            "ro": "Capela Saint-Barthélémy",
+            "en": "Chapelle Saint-Barthélémy"
+          },
+          "coords": [
+            5.052331,
+            45.853713
+          ],
+          "category": "religious",
+          "arrive_at": "11:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre dieser kleinen Kapelle und seien Sie vorsichtig auf dem etwas steilen Weg, der zu ihrem malerischen Eingang führt.",
+            "hu": "Élvezze e kis hegytetőn álló kápolna középkori varázsát, ügyelve a lépteire a festői bejáratához vezető, kissé meredek ösvényen haladva.",
+            "ro": "Bucurați-vă de farmecul medieval al acestei mici capele, având grijă pe poteca ușor abruptă care vă conduce spre intrarea sa cu adevărat pitorească.",
+            "en": "Enjoy the tranquil atmosphere and medieval charm of this small hilltop chapel, taking care on the slightly steep path leading up to its picturesque entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Promenade de la Sereine",
+            "hu": "Sereine sétány",
+            "ro": "Promenada Sereine",
+            "en": "Promenade de la Sereine"
+          },
+          "coords": [
+            5.056516,
+            45.847413
+          ],
+          "category": "recreational",
+          "arrive_at": "12:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie diesen friedlichen Uferweg entlang, um sich zu entspannen, und bringen Sie eine leichte Jacke mit, da die schattigen Wege recht kühl sein können.",
+            "hu": "Sétáljon végig ezen a békés folyóparti ösvényen a kikapcsolódáshoz, és hozzon magával egy könnyű kabátot, mert az árnyékos részeken hűvös lehet.",
+            "ro": "Plimbați-vă pe această alee liniștită de pe malul râului pentru a vă relaxa, luând o jachetă ușoară deoarece traseele umbrite pot fi destul de răcoroase.",
+            "en": "Stroll along this peaceful riverside recreational path to unwind, bringing a light jacket as the shaded water-side trails can get quite cool by midday."
+          }
+        },
+        {
+          "name": {
+            "de": "OnlyVR",
+            "hu": "OnlyVR",
+            "ro": "OnlyVR",
+            "en": "OnlyVR"
+          },
+          "coords": [
+            5.061533,
+            45.843342
+          ],
+          "category": "family",
+          "arrive_at": "13:54",
+          "stay_min": 90,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erleben Sie hochmoderne Virtual-Reality-Abenteuer mit der Familie und buchen Sie Ihre bevorzugten Sitzungszeiten online, bevor Sie vor Ort ankommen.",
+            "hu": "Próbálja ki a legmodernebb virtuális valóság kalandokat a családjával, de érkezés előtt feltétlenül foglalja le a kívánt időpontokat az interneten.",
+            "ro": "Experimentați aventuri uimitoare în realitate virtuală alături de familie, asigurându-vă că rezervați sesiunile preferate online înainte de a sosi.",
+            "en": "Experience cutting-edge virtual reality adventures with your family, making sure to book your preferred session times online before you arrive at the venue."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag im Zentrum mit der Geschichte im örtlichen Museum und der gotischen Kirche. Mittags wandern Sie zur Chapelle Saint-Barthélémy für mittelalterliches Flair hinauf. Am Nachmittag folgen Sie der Promenade de la Sereine für einen ruhigen Spaziergang. Beenden Sie den Abend mit modernem Spaß im OnlyVR-Zentrum, ein starker Kontrast zur Geschichte des Morgens.",
+        "hu": "Kezdje a napot a központban a helyi múzeum és a gótikus templom gazdag történelmével. Délben sétáljon fel a Chapelle Saint-Barthélémy-hoz egy kis középkori hangulatért. Délután kövesse a Promenade de la Sereine-t egy nyugodt folyóparti sétához. Zárja az estét modern szórakozással az OnlyVR központban, amely éles kontrasztot nyújt a délelőtt történelméhez.",
+        "ro": "Începeți ziua în centru, explorând istoria la muzeul local și biserica gotică. La amiază urcați la Chapelle Saint-Barthélémy pentru o atmosferă medievală. După-amiaza urmați Promenade de la Sereine pentru o plimbare liniștită pe malul râului. Încheiați seara cu distracție modernă la centrul OnlyVR, oferind un contrast puternic cu istoria matinală.",
+        "en": "Start the day in Montluel's center exploring deep history at the local museum and the gothic church. Midday invites you to wander up to the Chapelle Saint-Barthélémy for medieval vibes. In the afternoon, follow the Promenade de la Sereine for a tranquil riverside walk. Cap off the evening with modern fun at the OnlyVR center, offering a stark contrast to the morning's history."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:28",
+      "total_km": 3.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Saint-Barthélémy",
+            "hu": "Saint-Barthélémy kápolna",
+            "ro": "Capela Saint-Barthélémy",
+            "en": "Chapelle Saint-Barthélémy"
+          },
+          "coords": [
+            5.052331,
+            45.853713
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre dieser kleinen Kapelle und seien Sie vorsichtig auf dem etwas steilen Weg, der zu ihrem malerischen Eingang führt.",
+            "hu": "Élvezze e kis hegytetőn álló kápolna középkori varázsát, ügyelve a lépteire a festői bejáratához vezető, kissé meredek ösvényen haladva.",
+            "ro": "Bucurați-vă de farmecul medieval al acestei mici capele, având grijă pe poteca ușor abruptă care vă conduce spre intrarea sa cu adevărat pitorească.",
+            "en": "Enjoy the tranquil atmosphere and medieval charm of this small hilltop chapel, taking care on the slightly steep path leading up to its picturesque entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée d'Art et d'Histoire locale",
+            "hu": "Helytörténeti és Művészeti Múzeum",
+            "ro": "Muzeul de Artă și Istorie locală",
+            "en": "Museum of Art and Local History"
+          },
+          "coords": [
+            5.056489,
+            45.852277
+          ],
+          "category": "museum",
+          "arrive_at": "09:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie Montluels reiche Apotheken- und Regionalgeschichte in diesem Museum, also kommen Sie früh, um den nachmittäglichen Schulgruppen zu entgehen.",
+            "hu": "Fedezze fel Montluel gazdag patikatörténetét és helytörténetét ebben a múzeumban, ezért érdemes korán érkezni az iskolás csoportok elkerülése végett.",
+            "ro": "Descoperiți istoria bogată a farmaciei și a regiunii în acest muzeu fascinant, așa că planificați-vă vizita devreme pentru a evita grupurile școlare.",
+            "en": "Discover Montluel’s rich apothecary and regional history in this fascinating museum, so plan your visit early to avoid the afternoon school groups."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-des-Marais",
+            "hu": "Notre-Dame-des-Marais templom",
+            "ro": "Biserica Notre-Dame-des-Marais",
+            "en": "Église Notre-Dame-des-Marais"
+          },
+          "coords": [
+            5.05751,
+            45.85282
+          ],
+          "category": "religious",
+          "arrive_at": "11:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotische Architektur dieser Kirche und tragen Sie bequeme Schuhe, um die schönen umliegenden Kopfsteinpflastergassen zu erkunden.",
+            "hu": "Csodálja meg e történelmi templom lenyűgöző gótikus építészetét, és viseljen kényelmes cipőt a környező macskaköves sikátorok felfedezéséhez.",
+            "ro": "Admirați arhitectura gotică izbitoare a acestei biserici istorice și asigurați-vă că purtați încălțăminte confortabilă pentru a explora aleile pitorești.",
+            "en": "Admire the striking Gothic architecture of this historic church, and be sure to wear comfortable shoes to explore the beautiful surrounding cobblestone alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin du Val Cottey",
+            "hu": "Val Cottey Kert",
+            "ro": "Grădina Val Cottey",
+            "en": "Jardin du Val Cottey"
+          },
+          "coords": [
+            5.074095,
+            45.851222
+          ],
+          "category": "family",
+          "arrive_at": "12:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich zwischen den lebhaften Blumenbeeten dieses Gartens und bringen Sie ein paar Snacks für ein ruhiges Picknick auf den gepflegten Rasenflächen mit.",
+            "hu": "Pihenjen a családi kert élénk virágai és békés tavai között, és hozzon magával egy kis nassolnivalót egy csendes piknikhez a gondozott pázsiton.",
+            "ro": "Relaxați-vă printre aranjamentele florale din această grădină de familie, aducând cu voi câteva gustări pentru a vă bucura de un picnic liniștit.",
+            "en": "Relax among the vibrant floral displays and serene ponds of this family garden, bringing along some snacks to enjoy a quiet picnic on the well-kept lawns."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac Neyton",
+            "hu": "Neyton-tó",
+            "ro": "Lacul Neyton",
+            "en": "Lac Neyton"
+          },
+          "coords": [
+            5.078193,
+            45.86314
+          ],
+          "category": "natural",
+          "arrive_at": "13:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entfliehen Sie in die Natur an diesem malerischen See, der perfekt für Spaziergänge ist, und denken Sie an Insektenschutzmittel in den warmen Sommermonaten.",
+            "hu": "Meneküljön a természetbe ezen a festői tónál, amely tökéletes sétákhoz, és ne felejtsen el szúnyogriasztót csomagolni a meleg nyári hónapokban.",
+            "ro": "Evadați în natură la acest lac pitoresc perfect pentru plimbări și nu uitați să împachetați un repelent de insecte în timpul lunilor calde de vară.",
+            "en": "Escape into nature at this picturesque lake perfect for leisurely walks, and remember to pack insect repellent during the warm summer months near the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie zuerst zur Kapelle Saint-Barthélémy und erkunden Sie dann das historische Museum von Montluel. Mittags ist es perfekt, um die Notre-Dame-des-Marais zu bewundern, bevor Sie in die Vororte fahren. Am Nachmittag ruhen Sie Ihre Beine im wunderschönen Jardin du Val Cottey aus. Beenden Sie die Fahrt am Lac Neyton, wo die Brise und der Wasserblick ideal sind.",
+        "hu": "Kerékpározzon először a Saint-Barthélémy kápolnához, majd fedezze fel a múzeumot. Délben csodálja meg a gótikus Notre-Dame-des-Marais-t, mielőtt a festői külvárosok felé tekerne. Délután pihentesse meg lábait a szép Jardin du Val Cottey virágai között. Fejezze be az utat a Lac Neytonnál, ahol a vízparti kilátás ideális esti befejezést nyújt.",
+        "ro": "Pedalați întâi spre capela Saint-Barthélémy, apoi explorați muzeul istoric din Montluel. La amiază admirați gotica Notre-Dame-des-Marais înainte de a merge spre periferii. După-amiaza vă puteți odihni picioarele la frumoasa Jardin du Val Cottey printre flori. Încheiați plimbarea la Lac Neyton, unde priveliștile asupra apei oferă un final de zi ideal.",
+        "en": "Cycle first to the charming Saint-Barthélémy chapel, then glide down to explore Montluel's historical museum. Midday is perfect for admiring Notre-Dame-des-Marais before pedaling to the scenic outskirts. In the afternoon, rest your legs among the vibrant flowers at Jardin du Val Cottey. End your ride at Lac Neyton, where the gentle breeze makes for a perfect twilight conclusion."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:01",
+      "total_km": 7.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Notre-Dame-des-Marais",
+            "hu": "Notre-Dame-des-Marais templom",
+            "ro": "Biserica Notre-Dame-des-Marais",
+            "en": "Église Notre-Dame-des-Marais"
+          },
+          "coords": [
+            5.05751,
+            45.85282
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotische Architektur dieser Kirche und tragen Sie bequeme Schuhe, um die schönen umliegenden Kopfsteinpflastergassen zu erkunden.",
+            "hu": "Csodálja meg e történelmi templom lenyűgöző gótikus építészetét, és viseljen kényelmes cipőt a környező macskaköves sikátorok felfedezéséhez.",
+            "ro": "Admirați arhitectura gotică izbitoare a acestei biserici istorice și asigurați-vă că purtați încălțăminte confortabilă pentru a explora aleile pitorești.",
+            "en": "Admire the striking Gothic architecture of this historic church, and be sure to wear comfortable shoes to explore the beautiful surrounding cobblestone alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée d'Art et d'Histoire locale",
+            "hu": "Helytörténeti és Művészeti Múzeum",
+            "ro": "Muzeul de Artă și Istorie locală",
+            "en": "Museum of Art and Local History"
+          },
+          "coords": [
+            5.056489,
+            45.852277
+          ],
+          "category": "museum",
+          "arrive_at": "09:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie Montluels reiche Apotheken- und Regionalgeschichte in diesem Museum, also kommen Sie früh, um den nachmittäglichen Schulgruppen zu entgehen.",
+            "hu": "Fedezze fel Montluel gazdag patikatörténetét és helytörténetét ebben a múzeumban, ezért érdemes korán érkezni az iskolás csoportok elkerülése végett.",
+            "ro": "Descoperiți istoria bogată a farmaciei și a regiunii în acest muzeu fascinant, așa că planificați-vă vizita devreme pentru a evita grupurile școlare.",
+            "en": "Discover Montluel’s rich apothecary and regional history in this fascinating museum, so plan your visit early to avoid the afternoon school groups."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin du Val Cottey",
+            "hu": "Val Cottey Kert",
+            "ro": "Grădina Val Cottey",
+            "en": "Jardin du Val Cottey"
+          },
+          "coords": [
+            5.074095,
+            45.851222
+          ],
+          "category": "family",
+          "arrive_at": "11:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich zwischen den lebhaften Blumenbeeten dieses Gartens und bringen Sie ein paar Snacks für ein ruhiges Picknick auf den gepflegten Rasenflächen mit.",
+            "hu": "Pihenjen a családi kert élénk virágai és békés tavai között, és hozzon magával egy kis nassolnivalót egy csendes piknikhez a gondozott pázsiton.",
+            "ro": "Relaxați-vă printre aranjamentele florale din această grădină de familie, aducând cu voi câteva gustări pentru a vă bucura de un picnic liniștit.",
+            "en": "Relax among the vibrant floral displays and serene ponds of this family garden, bringing along some snacks to enjoy a quiet picnic on the well-kept lawns."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac Neyton",
+            "hu": "Neyton-tó",
+            "ro": "Lacul Neyton",
+            "en": "Lac Neyton"
+          },
+          "coords": [
+            5.078193,
+            45.86314
+          ],
+          "category": "natural",
+          "arrive_at": "12:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entfliehen Sie in die Natur an diesem malerischen See, der perfekt für Spaziergänge ist, und denken Sie an Insektenschutzmittel in den warmen Sommermonaten.",
+            "hu": "Meneküljön a természetbe ezen a festői tónál, amely tökéletes sétákhoz, és ne felejtsen el szúnyogriasztót csomagolni a meleg nyári hónapokban.",
+            "ro": "Evadați în natură la acest lac pitoresc perfect pentru plimbări și nu uitați să împachetați un repelent de insecte în timpul lunilor calde de vară.",
+            "en": "Escape into nature at this picturesque lake perfect for leisurely walks, and remember to pack insect repellent during the warm summer months near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Gravières La Chaume",
+            "hu": "Gravières La Chaume",
+            "ro": "Gravières La Chaume",
+            "en": "Gravières La Chaume"
+          },
+          "coords": [
+            5.083432,
+            45.825722
+          ],
+          "category": "natural",
+          "arrive_at": "14:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Tierwelt und die natürliche Schönheit dieser restaurierten Kiesgruben und tragen Sie feste Wanderschuhe für die unbefestigten Naturpfade.",
+            "hu": "Fedezze fel e helyreállított kavicsbányák egyedi vadvilágát és természetes szépségét, robusztus túracipőt viselve a burkolatlan tanösvényeken való sétához.",
+            "ro": "Explorați fauna sălbatică și frumusețea naturală a acestor cariere de pietriș restaurate, purtând bocanci de drumeție pentru traseele naturale neasfaltate.",
+            "en": "Explore the unique wildlife and natural beauty of these restored gravel pits, wearing sturdy hiking boots for the best experience on the unpaved nature trails."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie in das Erbe der Stadt und besuchen Sie die zentrale Kirche sowie das Museum. Mittags bringt Sie eine kurze Fahrt zum Jardin du Val Cottey, einer wunderschönen Gartenoase. Am Nachmittag setzen Sie Ihren Roadtrip zum Lac Neyton fort und genießen die Naturlandschaften. Beenden Sie den Abend im faszinierenden Naturreservat Gravières La Chaume.",
+        "hu": "Autózzon a város szívébe, és látogassa meg a központi templomot, valamint a múzeumot. Délben egy rövid utazás a gyönyörű Jardin du Val Cottey oázisához vezet. Délután folytassa útját a Lac Neytonhoz, élvezve a természetes tájakat, csak percekre a központtól. Zárja az estét a lenyűgöző Gravières La Chaume természetvédelmi területén.",
+        "ro": "Conduceți în inima orașului și vizitați biserica centrală și muzeul de artă locală. La amiază o scurtă plimbare vă duce la Jardin du Val Cottey, o frumoasă oază de grădină. După-amiaza continuați excursia la Lac Neyton, bucurându-vă de peisajele naturale vaste. Încheiați seara la rezervația naturală uimitoare Gravières La Chaume.",
+        "en": "Drive straight into the town's heritage by visiting the central church and the comprehensive local art museum. Midday offers a short drive out to Jardin du Val Cottey, a beautiful garden oasis. In the afternoon, continue your road trip to Lac Neyton for expansive natural landscapes. Finish the evening at Gravières La Chaume, a stunning natural reserve showcasing local ecosystems."
+      }
+    }
+  }
+}

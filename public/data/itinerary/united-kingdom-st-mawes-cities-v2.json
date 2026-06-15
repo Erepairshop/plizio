@@ -1,0 +1,520 @@
+{
+  "city_id": "united-kingdom-st-mawes-cities-v2",
+  "anchor": {
+    "name": "St Mawes",
+    "coords": [
+      -5.018,
+      50.158
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:09",
+      "total_km": 3.53,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint Mawes",
+            "hu": "Saint Mawes templom",
+            "ro": "Biserica Saint Mawes",
+            "en": "Saint Mawes"
+          },
+          "coords": [
+            -5.017505,
+            50.15788
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Architektur dieser malerischen Dorfkirche, die das Herz der Gemeinde bildet, und prüfen Sie das schwarze Brett auf lokale Veranstaltungen.",
+            "hu": "Csodálja meg ennek a közösséget összetartó, festői falusi templomnak a történelmi építészetét, és mindenképpen ellenőrizze a helyi hirdetőtáblát a kulturális eseményekért.",
+            "ro": "Admirați arhitectura istorică a acestei biserici pitorești din sat care ancorează comunitatea și asigurați-vă că verificați avizierul local pentru evenimente viitoare.",
+            "en": "Admire the historic architecture of this quaint village church that anchors the community, and be sure to check the local notice board for upcoming cultural events."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Mawes Küstenbatterie",
+            "hu": "St. Mawes partmenti üteg",
+            "ro": "Bateria de coastă St. Mawes",
+            "en": "St. Mawes Coastal Battery"
+          },
+          "coords": [
+            -5.024007,
+            50.156869
+          ],
+          "category": "historical",
+          "arrive_at": "09:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Erkunden Sie die gut erhaltenen Geschützstellungen, die einst die Mündung verteidigten, und tragen Sie feste Schuhe, da die umliegenden Küstenwege oft uneben sind.",
+            "hu": "Fedezze fel a jól megőrzött ágyúállásokat, amelyek egykor a torkolatot védték, és viseljen masszív túracipőt, mivel a környező tengerparti ösvények meglehetősen egyenetlenek.",
+            "ro": "Explorați amplasamentele de tunuri bine conservate care apărau cândva estuarul și purtați pantofi rezistenți, deoarece cărările de coastă pot fi destul de denivelate.",
+            "en": "Explore the well-preserved gun emplacements that once defended the estuary, and wear sturdy walking shoes as the surrounding coastal paths can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Cellars Beach",
+            "hu": "Cellars strand",
+            "ro": "Plaja Cellars",
+            "en": "Cellars Beach"
+          },
+          "coords": [
+            -5.008039,
+            50.152765
+          ],
+          "category": "recreational",
+          "arrive_at": "11:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem geschützten, malerischen Strand, der sich perfekt für ein ruhiges Picknick eignet, aber bringen Sie Proviant mit, da es keine Kioske gibt.",
+            "hu": "Pihenjen ezen a védett, festői strandon, amely tökéletes egy csendes piknikhez, de ne felejtsen el saját ellátmányt hozni, mivel a homok közelében nincsenek létesítmények.",
+            "ro": "Relaxați-vă pe această plajă adăpostită, perfectă pentru un picnic liniștit, dar amintiți-vă să aduceți propriile provizii, deoarece nu există facilități în apropiere.",
+            "en": "Relax on this sheltered, picturesque beach perfect for a quiet picnic, but remember to bring your own supplies as there are no direct facilities near the sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint Anthony",
+            "hu": "Szent Antal templom",
+            "ro": "Biserica Saint Anthony",
+            "en": "Church of Saint Anthony"
+          },
+          "coords": [
+            -5.004095,
+            50.149486
+          ],
+          "category": "religious",
+          "arrive_at": "12:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Schönheit dieser alten Flusskirche mit ihrem markanten Turm und schlendern Sie über den friedlichen Friedhof, um lokale Geschichte zu atmen.",
+            "hu": "Fedezze fel ennek az ősi folyóparti templomnak a derűs szépségét a szép tornyával, és szánjon egy percet a békés temető bejárására, bepillantást nyerve a helyi történelembe.",
+            "ro": "Descoperiți frumusețea senină a acestei vechi biserici de pe malul râului cu turla sa minunată și faceți o plimbare prin cimitirul său pașnic pentru o privire în istorie.",
+            "en": "Discover the serene beauty of this ancient riverside church with its lovely spire, and take a moment to wander its peaceful graveyard for a glimpse into local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Great Molunan",
+            "hu": "Great Molunan",
+            "ro": "Great Molunan",
+            "en": "Great Molunan"
+          },
+          "coords": [
+            -5.015621,
+            50.14557
+          ],
+          "category": "recreational",
+          "arrive_at": "13:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie den weichen Sand und das klare Wasser dieser beliebten Bucht, die sich fantastisch zum Schwimmen eignet, aber prüfen Sie vorher stets die Gezeiten.",
+            "hu": "Élvezze ennek a népszerű öbölnek a puha homokját és tiszta vizét, amely fantasztikus az úszáshoz, de előtte mindig ellenőrizze az árapály idejét, nehogy elzárja a víz.",
+            "ro": "Bucurați-vă de nisipul fin și de apele limpezi ale acestui golf popular, fantastic pentru înot, dar verificați întotdeauna orele mareelor pentru a nu rămâne izolați.",
+            "en": "Enjoy the soft sands and clear waters of this popular cove that is fantastic for swimming, but always check the tide times beforehand so you don't get cut off."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm St Anthony",
+            "hu": "St Anthony világítótorony",
+            "ro": "Farul St Anthony",
+            "en": "St Anthony Lighthouse"
+          },
+          "coords": [
+            -5.016056,
+            50.14116
+          ],
+          "category": "landmark",
+          "arrive_at": "15:14",
+          "stay_min": 55,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fotografieren Sie diesen ikonischen Leuchtturm, der Schiffe in den Hafen führt, und bringen Sie eine Windjacke mit, da die exponierte Landzunge oft stürmisch ist.",
+            "hu": "Készítsen lenyűgöző fényképeket erről az ikonikus világítótoronyról, amely a kikötőbe vezeti a hajókat, és hozzon széldzsekit, mivel a kiugró hegyfok hírhedten szeles.",
+            "ro": "Capturați fotografii uimitoare ale acestui far iconic care ghidează navele în port și aduceți o jachetă de vânt, deoarece promontoriul expus este extrem de bătut de vânt.",
+            "en": "Capture stunning photographs of this iconic lighthouse guiding ships into the harbor, and bring a windbreaker since the exposed headland is notoriously breezy."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie im charmanten Dorfzentrum an der historischen Kirche von Saint Mawes, um sich friedlich einzustimmen. Mittags geht es westwärts zur Coastal Battery und dann an die ruhigen Ufer des Cellars Beach. Der Nachmittag verlagert sich zur Spitze der Roseland-Halbinsel mit Pausen an der malerischen Kirche von Saint Anthony und den Sandstränden von Great Molunan. Beenden Sie Ihre Wanderung mit einem herrlichen abendlichen Meerblick vom legendären Leuchtturm St Anthony.",
+        "hu": "Kezdje a napot a bájos faluközpontban, a történelmi Saint Mawes templomnál, megadva a nap békés alaphangját. Délben induljon nyugatra a tengerparti üteg felé, majd a Cellars strand csendes partjaihoz. Délután a Roseland-félsziget csúcsa felé vesszük az irányt, megállva a festői Szent Antal templomnál, mielőtt élvezné a Great Molunan homokját. Zárja a túrát látványos esti tengeri kilátással az ikonikus St Anthony világítótoronyból.",
+        "ro": "Începeți în centrul fermecător al satului, vizitând biserica istorică Saint Mawes, stabilind un ton pașnic. La prânz mergeți spre vest pentru a explora trecutul militar la Coastal Battery, apoi pe țărmurile liniștite ale plajei Cellars. După-amiaza se îndreaptă spre vârful peninsulei Roseland, cu o pauză la biserica pitorească Saint Anthony, înainte de a vă bucura de nisipurile de la Great Molunan. Încheiați drumeția cu vederi spectaculoase de la farul St Anthony.",
+        "en": "Begin in the charming village center by visiting the historic Saint Mawes Church, setting a peaceful tone for the day. Midday takes you westward to explore the Coastal Battery's military past, then to the tranquil shores of Cellars Beach. The afternoon shifts toward the Roseland Peninsula's tip, pausing at the quaint Church of Saint Anthony before enjoying the sands of Great Molunan. Conclude your hike with spectacular evening sea views from the iconic St Anthony Lighthouse."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:26",
+      "total_km": 8.37,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint Mawes",
+            "hu": "Saint Mawes templom",
+            "ro": "Biserica Saint Mawes",
+            "en": "Saint Mawes"
+          },
+          "coords": [
+            -5.017505,
+            50.15788
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Architektur dieser malerischen Dorfkirche, die das Herz der Gemeinde bildet, und prüfen Sie das schwarze Brett auf lokale Veranstaltungen.",
+            "hu": "Csodálja meg ennek a közösséget összetartó, festői falusi templomnak a történelmi építészetét, és mindenképpen ellenőrizze a helyi hirdetőtáblát a kulturális eseményekért.",
+            "ro": "Admirați arhitectura istorică a acestei biserici pitorești din sat care ancorează comunitatea și asigurați-vă că verificați avizierul local pentru evenimente viitoare.",
+            "en": "Admire the historic architecture of this quaint village church that anchors the community, and be sure to check the local notice board for upcoming cultural events."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Mawes Küstenbatterie",
+            "hu": "St. Mawes partmenti üteg",
+            "ro": "Bateria de coastă St. Mawes",
+            "en": "St. Mawes Coastal Battery"
+          },
+          "coords": [
+            -5.024007,
+            50.156869
+          ],
+          "category": "historical",
+          "arrive_at": "09:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Erkunden Sie die gut erhaltenen Geschützstellungen, die einst die Mündung verteidigten, und tragen Sie feste Schuhe, da die umliegenden Küstenwege oft uneben sind.",
+            "hu": "Fedezze fel a jól megőrzött ágyúállásokat, amelyek egykor a torkolatot védték, és viseljen masszív túracipőt, mivel a környező tengerparti ösvények meglehetősen egyenetlenek.",
+            "ro": "Explorați amplasamentele de tunuri bine conservate care apărau cândva estuarul și purtați pantofi rezistenți, deoarece cărările de coastă pot fi destul de denivelate.",
+            "en": "Explore the well-preserved gun emplacements that once defended the estuary, and wear sturdy walking shoes as the surrounding coastal paths can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Carrick Roads",
+            "hu": "Carrick Roads",
+            "ro": "Carrick Roads",
+            "en": "Carrick Roads"
+          },
+          "coords": [
+            -5.037835,
+            50.171928
+          ],
+          "category": "landmark",
+          "arrive_at": "11:23",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Weite dieser tiefen Flussmündung mit ihren bunten Segelbooten und buchen Sie vor Ort eine kurze Bootsfahrt, um die Ausmaße wirklich zu erleben.",
+            "hu": "Csodálja meg ennek a mélyvizű, színes vitorlásokkal pettyezett torkolatnak a hatalmas kiterjedését, és fontolja meg egy rövid hajóút lefoglalását a méretek megértéséhez.",
+            "ro": "Minunați-vă de întinderea vastă a acestui estuar de apă adâncă, presărat cu bărci cu pânze colorate, și luați în considerare o scurtă excursie cu barca pentru a-i simți grandoarea.",
+            "en": "Marvel at the vast expanse of this deep-water estuary dotted with colorful sailboats, and consider booking a short boat trip locally to truly experience its scale."
+          }
+        },
+        {
+          "name": {
+            "de": "Cellars Beach",
+            "hu": "Cellars strand",
+            "ro": "Plaja Cellars",
+            "en": "Cellars Beach"
+          },
+          "coords": [
+            -5.008039,
+            50.152765
+          ],
+          "category": "recreational",
+          "arrive_at": "12:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem geschützten, malerischen Strand, der sich perfekt für ein ruhiges Picknick eignet, aber bringen Sie Proviant mit, da es keine Kioske gibt.",
+            "hu": "Pihenjen ezen a védett, festői strandon, amely tökéletes egy csendes piknikhez, de ne felejtsen el saját ellátmányt hozni, mivel a homok közelében nincsenek létesítmények.",
+            "ro": "Relaxați-vă pe această plajă adăpostită, perfectă pentru un picnic liniștit, dar amintiți-vă să aduceți propriile provizii, deoarece nu există facilități în apropiere.",
+            "en": "Relax on this sheltered, picturesque beach perfect for a quiet picnic, but remember to bring your own supplies as there are no direct facilities near the sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Porthbeor Beach",
+            "hu": "Porthbeor strand",
+            "ro": "Plaja Porthbeor",
+            "en": "Porthbeor Beach"
+          },
+          "coords": [
+            -4.993878,
+            50.149133
+          ],
+          "category": "recreational",
+          "arrive_at": "13:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Ziehen Sie sich an diesen abgelegenen Sandstrand mit dramatischen Klippen zurück, aber seien Sie beim steilen Abstieg vorsichtig und tragen Sie rutschfestes Schuhwerk.",
+            "hu": "Vonuljon vissza erre a drámai sziklákkal szegélyezett, eldugott homokos szakaszra, de legyen óvatos a meredek ereszkedő úton, és viseljen megfelelő, tapadós lábbelit.",
+            "ro": "Retrageți-vă pe această plajă de nisip izolată, caracterizată de fundalul unor stânci dramatice, dar fiți prudenți la coborârea abruptă și purtați încălțăminte adecvată.",
+            "en": "Retreat to this secluded sandy stretch characterized by dramatic cliff backdrops, but be cautious on the steep descent path and wear proper gripping footwear."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint Anthony",
+            "hu": "Szent Antal templom",
+            "ro": "Biserica Saint Anthony",
+            "en": "Church of Saint Anthony"
+          },
+          "coords": [
+            -5.004095,
+            50.149486
+          ],
+          "category": "religious",
+          "arrive_at": "14:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Schönheit dieser alten Flusskirche mit ihrem markanten Turm und schlendern Sie über den friedlichen Friedhof, um lokale Geschichte zu atmen.",
+            "hu": "Fedezze fel ennek az ősi folyóparti templomnak a derűs szépségét a szép tornyával, és szánjon egy percet a békés temető bejárására, bepillantást nyerve a helyi történelembe.",
+            "ro": "Descoperiți frumusețea senină a acestei vechi biserici de pe malul râului cu turla sa minunată și faceți o plimbare prin cimitirul său pașnic pentru o privire în istorie.",
+            "en": "Discover the serene beauty of this ancient riverside church with its lovely spire, and take a moment to wander its peaceful graveyard for a glimpse into local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm St Anthony",
+            "hu": "St Anthony világítótorony",
+            "ro": "Farul St Anthony",
+            "en": "St Anthony Lighthouse"
+          },
+          "coords": [
+            -5.016056,
+            50.14116
+          ],
+          "category": "landmark",
+          "arrive_at": "15:31",
+          "stay_min": 55,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fotografieren Sie diesen ikonischen Leuchtturm, der Schiffe in den Hafen führt, und bringen Sie eine Windjacke mit, da die exponierte Landzunge oft stürmisch ist.",
+            "hu": "Készítsen lenyűgöző fényképeket erről az ikonikus világítótoronyról, amely a kikötőbe vezeti a hajókat, és hozzon széldzsekit, mivel a kiugró hegyfok hírhedten szeles.",
+            "ro": "Capturați fotografii uimitoare ale acestui far iconic care ghidează navele în port și aduceți o jachetă de vânt, deoarece promontoriul expus este extrem de bătut de vânt.",
+            "en": "Capture stunning photographs of this iconic lighthouse guiding ships into the harbor, and bring a windbreaker since the exposed headland is notoriously breezy."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour an der Saint Mawes Church, bevor Sie zügig zur faszinierenden Coastal Battery weiterradeln. Mittags erwarten Sie weite Küstenpanoramen an den Carrick Roads und eine entspannte Pause am Cellars Beach. Am Nachmittag radeln Sie weiter nach Süden zum abgelegenen Porthbeor Beach und zur historischen Kirche Saint Anthony. Ihr Fahrradabenteuer endet wunderschön am St Anthony Lighthouse, wenn die Sonne über dem Wasser tiefer sinkt.",
+        "hu": "Kezdje a kerékpározást a falu központjában a Saint Mawes templomnál, mielőtt eltekerne a lenyűgöző tengerparti üteghez. Délben a Carrick Roads mentén széles parti panoráma fogadja, majd egy pihentető szünet a Cellars strandon. Délután tekerjen tovább délre a félreeső Porthbeor strandhoz és a történelmi Szent Antal templomhoz. A kerékpáros kaland a St Anthony világítótoronynál ér véget, miközben a nap lassan a csillogó víz fölé ereszkedik.",
+        "ro": "Începeți să pedalați din inima satului de la biserica Saint Mawes, urmată de o scurtă plimbare până la fascinanta Coastal Battery. Prânzul aduce panorame largi de coastă de-a lungul Carrick Roads, urmate de o pauză relaxantă la plaja Cellars. După-amiaza, pedalați mai spre sud până la plaja retrasă Porthbeor și biserica istorică Saint Anthony. Aventura pe bicicletă se încheie frumos la farul St Anthony, în timp ce soarele coboară peste ape.",
+        "en": "Start cycling from the village heart at Saint Mawes Church before a quick ride to the fascinating Coastal Battery. Midday brings sweeping coastal vistas along Carrick Roads, followed by a relaxing pause at Cellars Beach. In the afternoon, pedal further south to the secluded Porthbeor Beach and the historic Church of Saint Anthony. Your cycling adventure wraps up beautifully at the St Anthony Lighthouse as the sun lowers over the shimmering waters."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:03",
+      "total_km": 11.07,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint Mawes",
+            "hu": "Saint Mawes templom",
+            "ro": "Biserica Saint Mawes",
+            "en": "Saint Mawes"
+          },
+          "coords": [
+            -5.017505,
+            50.15788
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Architektur dieser malerischen Dorfkirche, die das Herz der Gemeinde bildet, und prüfen Sie das schwarze Brett auf lokale Veranstaltungen.",
+            "hu": "Csodálja meg ennek a közösséget összetartó, festői falusi templomnak a történelmi építészetét, és mindenképpen ellenőrizze a helyi hirdetőtáblát a kulturális eseményekért.",
+            "ro": "Admirați arhitectura istorică a acestei biserici pitorești din sat care ancorează comunitatea și asigurați-vă că verificați avizierul local pentru evenimente viitoare.",
+            "en": "Admire the historic architecture of this quaint village church that anchors the community, and be sure to check the local notice board for upcoming cultural events."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Mawes Küstenbatterie",
+            "hu": "St. Mawes partmenti üteg",
+            "ro": "Bateria de coastă St. Mawes",
+            "en": "St. Mawes Coastal Battery"
+          },
+          "coords": [
+            -5.024007,
+            50.156869
+          ],
+          "category": "historical",
+          "arrive_at": "09:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Erkunden Sie die gut erhaltenen Geschützstellungen, die einst die Mündung verteidigten, und tragen Sie feste Schuhe, da die umliegenden Küstenwege oft uneben sind.",
+            "hu": "Fedezze fel a jól megőrzött ágyúállásokat, amelyek egykor a torkolatot védték, és viseljen masszív túracipőt, mivel a környező tengerparti ösvények meglehetősen egyenetlenek.",
+            "ro": "Explorați amplasamentele de tunuri bine conservate care apărau cândva estuarul și purtați pantofi rezistenți, deoarece cărările de coastă pot fi destul de denivelate.",
+            "en": "Explore the well-preserved gun emplacements that once defended the estuary, and wear sturdy walking shoes as the surrounding coastal paths can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Pendenis Castle Museum",
+            "hu": "Pendennis Kastélymúzeum",
+            "ro": "Muzeul Castelului Pendennis",
+            "en": "Pendennis Castle Museum"
+          },
+          "coords": [
+            -5.047877,
+            50.147345
+          ],
+          "category": "museum",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in dieser großen Küstenfestung in die reiche Tudor-Geschichte ein und planen Sie, früh anzukommen, um die längsten Warteschlangen zu vermeiden.",
+            "hu": "Merüljön el a gazdag Tudor-történelemben ezen a nagyszerű part menti erődben, és tervezze a korai érkezést, hogy elkerülje az interaktív kiállításoknál kígyózó sorokat.",
+            "ro": "Scufundați-vă în istoria bogată a epocii Tudor în interiorul acestei mari fortărețe de coastă și planificați să ajungeți devreme pentru a evita cozile la expozițiile interactive.",
+            "en": "Immerse yourself in the rich Tudor history inside this grand coastal fortress, and plan to arrive early to avoid the longest queues at the interactive exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Carrick Roads",
+            "hu": "Carrick Roads",
+            "ro": "Carrick Roads",
+            "en": "Carrick Roads"
+          },
+          "coords": [
+            -5.037835,
+            50.171928
+          ],
+          "category": "landmark",
+          "arrive_at": "13:01",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Weite dieser tiefen Flussmündung mit ihren bunten Segelbooten und buchen Sie vor Ort eine kurze Bootsfahrt, um die Ausmaße wirklich zu erleben.",
+            "hu": "Csodálja meg ennek a mélyvizű, színes vitorlásokkal pettyezett torkolatnak a hatalmas kiterjedését, és fontolja meg egy rövid hajóút lefoglalását a méretek megértéséhez.",
+            "ro": "Minunați-vă de întinderea vastă a acestui estuar de apă adâncă, presărat cu bărci cu pânze colorate, și luați în considerare o scurtă excursie cu barca pentru a-i simți grandoarea.",
+            "en": "Marvel at the vast expanse of this deep-water estuary dotted with colorful sailboats, and consider booking a short boat trip locally to truly experience its scale."
+          }
+        },
+        {
+          "name": {
+            "de": "Porthbeor Beach",
+            "hu": "Porthbeor strand",
+            "ro": "Plaja Porthbeor",
+            "en": "Porthbeor Beach"
+          },
+          "coords": [
+            -4.993878,
+            50.149133
+          ],
+          "category": "recreational",
+          "arrive_at": "13:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.9,
+          "tip_5lang": {
+            "de": "Ziehen Sie sich an diesen abgelegenen Sandstrand mit dramatischen Klippen zurück, aber seien Sie beim steilen Abstieg vorsichtig und tragen Sie rutschfestes Schuhwerk.",
+            "hu": "Vonuljon vissza erre a drámai sziklákkal szegélyezett, eldugott homokos szakaszra, de legyen óvatos a meredek ereszkedő úton, és viseljen megfelelő, tapadós lábbelit.",
+            "ro": "Retrageți-vă pe această plajă de nisip izolată, caracterizată de fundalul unor stânci dramatice, dar fiți prudenți la coborârea abruptă și purtați încălțăminte adecvată.",
+            "en": "Retreat to this secluded sandy stretch characterized by dramatic cliff backdrops, but be cautious on the steep descent path and wear proper gripping footwear."
+          }
+        },
+        {
+          "name": {
+            "de": "Little Molunan",
+            "hu": "Little Molunan",
+            "ro": "Little Molunan",
+            "en": "Little Molunan"
+          },
+          "coords": [
+            -5.01474,
+            50.144669
+          ],
+          "category": "recreational",
+          "arrive_at": "14:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in dieser charmanten, kleineren Bucht mit sanften Wellen, und bringen Sie Snacks mit, da sie angenehm unerschlossen und wild geblieben ist.",
+            "hu": "Kapcsolódjon ki ebben a bájos, kisebb öbölben, amely gyengéd hullámokat kínál a gázoláshoz, és készüljön rágcsálnivalóval, mivel a hely kellemesen érintetlen és vad marad.",
+            "ro": "Relaxați-vă în acest golfuleț fermecător cu valuri blânde, ideale pentru bălăceală, și veniți pregătiți cu gustări, deoarece rămâne plăcut nedezvoltat și sălbatic.",
+            "en": "Unwind at this charming, smaller cove offering gentle waves ideal for wading, and come prepared with snacks since it remains pleasantly undeveloped and wild."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm St Anthony",
+            "hu": "St Anthony világítótorony",
+            "ro": "Farul St Anthony",
+            "en": "St Anthony Lighthouse"
+          },
+          "coords": [
+            -5.016056,
+            50.14116
+          ],
+          "category": "landmark",
+          "arrive_at": "16:08",
+          "stay_min": 55,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Fotografieren Sie diesen ikonischen Leuchtturm, der Schiffe in den Hafen führt, und bringen Sie eine Windjacke mit, da die exponierte Landzunge oft stürmisch ist.",
+            "hu": "Készítsen lenyűgöző fényképeket erről az ikonikus világítótoronyról, amely a kikötőbe vezeti a hajókat, és hozzon széldzsekit, mivel a kiugró hegyfok hírhedten szeles.",
+            "ro": "Capturați fotografii uimitoare ale acestui far iconic care ghidează navele în port și aduceți o jachetă de vânt, deoarece promontoriul expus este extrem de bătut de vânt.",
+            "en": "Capture stunning photographs of this iconic lighthouse guiding ships into the harbor, and bring a windbreaker since the exposed headland is notoriously breezy."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie von der zentralen Kirche Saint Mawes zu den robusten Verteidigungsanlagen der nahe gelegenen Coastal Battery. Das Mittagsprogramm führt Sie zum beeindruckenden Pendennis Castle Museum und den malerischen Routen entlang der Carrick Roads. Verbringen Sie den Nachmittag entspannt am schönen Porthbeor Beach und den familienfreundlichen Buchten von Little Molunan. Die Autotour endet elegant am St Anthony Lighthouse mit unvergleichlichen Dämmerungspanoramen.",
+        "hu": "Induljon a központi Saint Mawes templomtól a közeli tengerparti üteg robusztus védelmi rendszerei felé. A déli útvonal a lenyűgöző Pendennis kastélymúzeumhoz és a Carrick Roads festői autóútjaihoz vezet. A délutánt töltse lazítással a gyönyörű Porthbeor strandon és a családbarát Little Molunan öbölben. Az autós túra elegánsan a St Anthony világítótoronynál zárul, páratlan alkonyati panorámát kínálva az öbölre.",
+        "ro": "Conduceți de la biserica centrală Saint Mawes spre apărarea robustă a Coastal Battery din apropiere. Itinerarul de prânz vă poartă către impresionantul muzeu Pendennis Castle și rutele pitorești de pe Carrick Roads. Petreceți după-amiaza relaxându-vă pe frumoasa plajă Porthbeor și în golfurile liniștite de la Little Molunan. Turul cu mașina se încheie elegant la farul St Anthony, oferind panorame de neegalat ale crepusculului peste golf.",
+        "en": "Drive off from the central Saint Mawes Church towards the robust defenses of the nearby Coastal Battery. The midday itinerary takes you across to the impressive Pendennis Castle Museum and the scenic driving routes along Carrick Roads. Spend your afternoon unwinding at the beautiful Porthbeor Beach and the family-friendly coves of Little Molunan. The driving tour concludes elegantly at the St Anthony Lighthouse, offering unmatched twilight panoramas over the bay."
+      }
+    }
+  }
+}

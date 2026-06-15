@@ -1,0 +1,451 @@
+{
+  "city_id": "italy-saturnia-cities-v2",
+  "anchor": {
+    "name": "Saturnia",
+    "coords": [
+      11.504167,
+      42.666389
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:25",
+      "total_km": 2.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Fonte Buia",
+            "hu": "Fonte Buia",
+            "ro": "Fonte Buia",
+            "en": "Fonte Buia"
+          },
+          "coords": [
+            11.501091,
+            42.665144
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese alte Wasserquelle, die das Dorf seit Jahrhunderten versorgt, und bringen Sie eine Flasche mit, um das frische, historische Trinkwasser zu probieren.",
+            "hu": "Csodálja meg ezt az ősi vízforrást, amely évszázadok óta ellátja a falut, és hozzon magával egy újratölthető palackot a friss, történelmi ivóvíz megkóstolásához.",
+            "ro": "Admiră acest izvor antic care a alimentat satul de secole și adu o sticlă reutilizabilă pentru a gusta apa potabilă proaspătă și plină de istorie.",
+            "en": "Marvel at this ancient water source that has supplied the village for centuries, and bring a reusable bottle to taste the fresh, historical drinking water."
+          }
+        },
+        {
+          "name": {
+            "de": "Altare etrusco",
+            "hu": "Altare etrusco",
+            "ro": "Altare etrusco",
+            "en": "Altare etrusco"
+          },
+          "coords": [
+            11.505095,
+            42.666181
+          ],
+          "category": "historical",
+          "arrive_at": "09:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betrachten Sie diesen seltenen etruskischen Freiluftaltar, der auf antike religiöse Rituale hinweist, und kommen Sie bei Tageslicht für das beste Fotolicht.",
+            "hu": "Figyelje meg ezt a ritka szabadtéri etruszk oltárt, amely a környék ősi vallási rituáléira utal, és feltétlenül nappal látogasson ide a legjobb fotók érdekében.",
+            "ro": "Observă acest altar etrusc rar în aer liber care indică ritualurile religioase antice ale zonei, asigurându-te că îl vizitezi pe timpul zilei pentru poze reușite.",
+            "en": "Observe this rare outdoor Etruscan altar that hints at the area's ancient religious rituals, ensuring you visit during daylight for the best photography lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Archeologico di Saturnia",
+            "hu": "Museo Archeologico di Saturnia",
+            "ro": "Museo Archeologico di Saturnia",
+            "en": "Museo Archeologico di Saturnia"
+          },
+          "coords": [
+            11.506159,
+            42.665002
+          ],
+          "category": "museum",
+          "arrive_at": "11:04",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die lokale Geschichte ein mit Artefakten von der Vorgeschichte bis zur Römerzeit und fragen Sie an der Rezeption nach einem englischen Flyer.",
+            "hu": "Merüljön el a helyi történelemben a történelemelőtti kortól a római időkig terjedő leletekkel, és kérjen angol nyelvű tájékoztatót a recepción, ha szükséges.",
+            "ro": "Cufundă-te în istoria locală cu artefacte din preistorie până în epoca romană și cere un pliant în engleză la recepție dacă etichetele nu sunt traduse.",
+            "en": "Immerse yourself in local history with artifacts spanning from prehistory to Roman times, and ask the front desk for an English leaflet if labels are untranslated."
+          }
+        },
+        {
+          "name": {
+            "de": "Porta Romana",
+            "hu": "Porta Romana",
+            "ro": "Porta Romana",
+            "en": "Porta Romana"
+          },
+          "coords": [
+            11.505574,
+            42.663545
+          ],
+          "category": "fortress",
+          "arrive_at": "12:47",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Gehen Sie durch das historische Südtor der alten römischen Mauern und halten Sie inne, um das bemerkenswerte Mauerwerk auf etruskischen Fundamenten zu bewundern.",
+            "hu": "Sétáljon át az ősi római falak történelmi déli kapuján, és álljon meg egy pillanatra, hogy megfigyelje a régebbi etruszk alapokra épült figyelemre méltó falazatot.",
+            "ro": "Plimbă-te prin poarta sudică istorică a vechilor ziduri romane, oprindu-te să observi zidăria remarcabilă construită pe fundații etrusce mult mai vechi.",
+            "en": "Walk through the historic southern gate of the ancient Roman walls, pausing to observe the remarkable masonry work built upon older Etruscan foundations."
+          }
+        },
+        {
+          "name": {
+            "de": "Terme di Saturnia",
+            "hu": "Terme di Saturnia",
+            "ro": "Terme di Saturnia",
+            "en": "Terme di Saturnia"
+          },
+          "coords": [
+            11.516821,
+            42.658125
+          ],
+          "category": "recreational",
+          "arrive_at": "13:40",
+          "stay_min": 105,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich die luxuriösen Thermalbecken mit konstant 37,5°C warmem Heilwasser und denken Sie daran, ein eigenes Handtuch mitzubringen, um Kosten zu sparen.",
+            "hu": "Kényeztesse magát a luxus termálfürdő folyamatosan 37,5°C-os gyógyvizű medencéiben, és hozzon magával saját törölközőt, hogy megspórolja a bérlési díjat.",
+            "ro": "Răsfață-te în piscinele resortului termal cu ape vindecătoare constante de 37,5°C și nu uita să aduci propriul prosop pentru a economisi la închiriere.",
+            "en": "Indulge in the luxurious thermal resort pools featuring constant 37.5°C healing waters, and remember to bring your own towel to save on rental fees."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang mit der Erkundung des historischen Zentrums von Saturnia, angefangen beim frischen Wasser von Fonte Buia bis hin zum alten etruskischen Altar.\n\nWenn der Mittag naht, tauchen Sie im Museo Archeologico tief in die Vergangenheit ein, gefolgt von einem Spaziergang durch die beeindruckende Porta Romana.\n\nVerbringen Sie einen entspannten Nachmittag damit, die sanften Hügel hinunter zu den berühmten Thermalgebieten zu laufen und die toskanische Landschaft zu genießen.\n\nBeenden Sie Ihre Reise mit einem Bad in den warmen, heilenden Gewässern der Terme di Saturnia und lassen Sie die Schwefelbecken die Müdigkeit wegwaschen.",
+        "hu": "Kezdje gyalogos túráját Saturnia történelmi központjának felfedezésével, a Fonte Buia friss vizétől egészen az ősi etruszk oltár megismeréséig.\n\nAhogy közeledik a dél, merüljön el a régió gazdag múltjában a Museo Archeologico-ban, majd sétáljon át a lenyűgöző római kori Porta Romana kapun.\n\nTöltsön egy pihentető délutánt a lankás dombokon lefelé haladva a híres termálterületek felé, élvezve a nyugodt toszkán tájat a séta során.\n\nZárja utazását a Terme di Saturnia meleg, gyógyító vizében fürdőzve, hagyva, hogy a terápiás kénes medencék elmossák a nap fáradalmait.",
+        "ro": "Începe-ți turul pietonal explorând centrul istoric al orașului Saturnia, pornind de la apele proaspete de la Fonte Buia înainte de a descoperi vechiul altar etrusc.\n\nPe măsură ce se apropie prânzul, aprofundează trecutul bogat al regiunii la Museo Archeologico, urmat de o plimbare prin impresionanta Porta Romana din epoca romană.\n\nPetrece o după-amiază relaxantă coborând dealurile line spre faimoasele zone termale, bucurându-te de peisajele toscane liniștite de-a lungul plimbării tale.\n\nÎncheie-ți călătoria scufundându-te în apele calde și vindecătoare de la Terme di Saturnia, lăsând piscinele terapeutice cu sulf să spele oboseala zilei.",
+        "en": "Begin your walking tour by exploring the historical center of Saturnia, starting at the fresh waters of Fonte Buia before discovering the ancient Etruscan altar.\n\nAs midday approaches, delve deep into the region's rich past at the Museo Archeologico, followed by a stroll through the impressive Roman-era Porta Romana.\n\nSpend a relaxing afternoon making your way down the gentle hills towards the famous thermal areas, enjoying the serene Tuscan landscapes along your walk.\n\nConclude your journey soaking in the warm, healing waters of Terme di Saturnia, letting the therapeutic sulfur pools wash away the day's fatigue."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:12",
+      "total_km": 6.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Necropoli Etrusca del Puntone",
+            "hu": "Necropoli Etrusca del Puntone",
+            "ro": "Necropoli Etrusca del Puntone",
+            "en": "Necropoli Etrusca del Puntone"
+          },
+          "coords": [
+            11.491559,
+            42.674103
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende alte etruskische Grabstätte inmitten der Natur und tragen Sie feste Wanderschuhe, da das Gelände um die Gräber uneben sein kann.",
+            "hu": "Fedezze fel ezt a lenyűgöző ősi etruszk temetőt a természet lágy ölén, és viseljen kényelmes túracipőt, mivel a sírok körüli terep meglehetősen egyenetlen lehet.",
+            "ro": "Explorează această veche necropolă etruscă fascinantă situată în mijlocul naturii și poartă încălțăminte de drumeție robustă, deoarece terenul este accidentat.",
+            "en": "Explore this fascinating ancient Etruscan burial ground set amidst nature, and wear sturdy walking shoes as the terrain around the tombs can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Fonte Buia",
+            "hu": "Fonte Buia",
+            "ro": "Fonte Buia",
+            "en": "Fonte Buia"
+          },
+          "coords": [
+            11.501091,
+            42.665144
+          ],
+          "category": "landmark",
+          "arrive_at": "10:38",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese alte Wasserquelle, die das Dorf seit Jahrhunderten versorgt, und bringen Sie eine Flasche mit, um das frische, historische Trinkwasser zu probieren.",
+            "hu": "Csodálja meg ezt az ősi vízforrást, amely évszázadok óta ellátja a falut, és hozzon magával egy újratölthető palackot a friss, történelmi ivóvíz megkóstolásához.",
+            "ro": "Admiră acest izvor antic care a alimentat satul de secole și adu o sticlă reutilizabilă pentru a gusta apa potabilă proaspătă și plină de istorie.",
+            "en": "Marvel at this ancient water source that has supplied the village for centuries, and bring a reusable bottle to taste the fresh, historical drinking water."
+          }
+        },
+        {
+          "name": {
+            "de": "Altare etrusco",
+            "hu": "Altare etrusco",
+            "ro": "Altare etrusco",
+            "en": "Altare etrusco"
+          },
+          "coords": [
+            11.505095,
+            42.666181
+          ],
+          "category": "historical",
+          "arrive_at": "11:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betrachten Sie diesen seltenen etruskischen Freiluftaltar, der auf antike religiöse Rituale hinweist, und kommen Sie bei Tageslicht für das beste Fotolicht.",
+            "hu": "Figyelje meg ezt a ritka szabadtéri etruszk oltárt, amely a környék ősi vallási rituáléira utal, és feltétlenül nappal látogasson ide a legjobb fotók érdekében.",
+            "ro": "Observă acest altar etrusc rar în aer liber care indică ritualurile religioase antice ale zonei, asigurându-te că îl vizitezi pe timpul zilei pentru poze reușite.",
+            "en": "Observe this rare outdoor Etruscan altar that hints at the area's ancient religious rituals, ensuring you visit during daylight for the best photography lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Porta Romana",
+            "hu": "Porta Romana",
+            "ro": "Porta Romana",
+            "en": "Porta Romana"
+          },
+          "coords": [
+            11.505574,
+            42.663545
+          ],
+          "category": "fortress",
+          "arrive_at": "12:27",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Gehen Sie durch das historische Südtor der alten römischen Mauern und halten Sie inne, um das bemerkenswerte Mauerwerk auf etruskischen Fundamenten zu bewundern.",
+            "hu": "Sétáljon át az ősi római falak történelmi déli kapuján, és álljon meg egy pillanatra, hogy megfigyelje a régebbi etruszk alapokra épült figyelemre méltó falazatot.",
+            "ro": "Plimbă-te prin poarta sudică istorică a vechilor ziduri romane, oprindu-te să observi zidăria remarcabilă construită pe fundații etrusce mult mai vechi.",
+            "en": "Walk through the historic southern gate of the ancient Roman walls, pausing to observe the remarkable masonry work built upon older Etruscan foundations."
+          }
+        },
+        {
+          "name": {
+            "de": "Terme di Saturnia",
+            "hu": "Terme di Saturnia",
+            "ro": "Terme di Saturnia",
+            "en": "Terme di Saturnia"
+          },
+          "coords": [
+            11.516821,
+            42.658125
+          ],
+          "category": "recreational",
+          "arrive_at": "13:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich die luxuriösen Thermalbecken mit konstant 37,5°C warmem Heilwasser und denken Sie daran, ein eigenes Handtuch mitzubringen, um Kosten zu sparen.",
+            "hu": "Kényeztesse magát a luxus termálfürdő folyamatosan 37,5°C-os gyógyvizű medencéiben, és hozzon magával saját törölközőt, hogy megspórolja a bérlési díjat.",
+            "ro": "Răsfață-te în piscinele resortului termal cu ape vindecătoare constante de 37,5°C și nu uita să aduci propriul prosop pentru a economisi la închiriere.",
+            "en": "Indulge in the luxurious thermal resort pools featuring constant 37.5°C healing waters, and remember to bring your own towel to save on rental fees."
+          }
+        },
+        {
+          "name": {
+            "de": "Cascate del Mulino",
+            "hu": "Cascate del Mulino",
+            "ro": "Cascate del Mulino",
+            "en": "Cascate del Mulino"
+          },
+          "coords": [
+            11.512696,
+            42.648064
+          ],
+          "category": "recreational",
+          "arrive_at": "14:27",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesen ikonischen kostenlosen Thermalwasserfällen mit therapeutischem Schwefelwasser, aber kommen Sie früh, um einen Parkplatz zu finden.",
+            "hu": "Pihenjen ezeknél az ikonikus, ingyenes és terápiás kénes vizű termálvízeséseknél, de érkezzen korán, hogy biztosan találjon parkolóhelyet és elkerülje a tömeget.",
+            "ro": "Relaxează-te la aceste cascade termale iconice cu ape sulfuroase terapeutice, dar ajunge devreme pentru a prinde un loc de parcare și a evita aglomerația.",
+            "en": "Relax in these iconic free thermal waterfalls with therapeutic sulfur-rich waters, but arrive early to secure a parking spot and avoid the largest crowds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer mit einer Fahrt zur faszinierenden Necropoli Etrusca del Puntone und erkunden Sie alte Gräber in der toskanischen Natur.\n\nRadeln Sie zurück ins Zentrum, um Wahrzeichen wie Fonte Buia und den etruskischen Altar zu besuchen, bevor Sie durch den historischen Bogen der Porta Romana fahren.\n\nFahren Sie bergab zu den renommierten Kurorten und halten Sie an der eleganten Terme di Saturnia, um die kultivierte Atmosphäre und die Therapiebecken zu genießen.\n\nBeenden Sie Ihren Radtag an den malerischen Cascate del Mulino, wo Sie in magischer Umgebung den Sonnenuntergang über den natürlichen Wasserfällen beobachten können.",
+        "hu": "Kezdje kerékpáros kalandját a lenyűgöző Necropoli Etrusca del Puntone felfedezésével, ahol a toszkán természetben elrejtett ősi sírokat ismerheti meg.\n\nTekerjen vissza a falu szívébe, hogy meglátogassa a Fonte Buiát és az etruszk oltárt, majd haladjon át a Porta Romana történelmi boltíve alatt.\n\nGuruljon lefelé a híres fürdőhelyek felé, és álljon meg az elegáns Terme di Saturniánál, hogy élvezze a kifinomult légkört és a terápiás medencéket.\n\nFejezze be a kerékpáros napot a festői Cascate del Mulino-nál, ahol varázslatos környezetben nézheti meg a naplementét a természetes vízesések felett.",
+        "ro": "Începe-ți aventura cu bicicleta mergând spre fascinanta Necropoli Etrusca del Puntone, explorând morminte antice ascunse în natura toscană.\n\nÎntoarce-te cu bicicleta în inima satului pentru a vizita repere precum Fonte Buia și altarul etrusc, apoi treci prin arcul istoric al Porta Romana.\n\nCoboară spre renumitele stațiuni balneare, oprindu-te la eleganta Terme di Saturnia pentru a te bucura de atmosfera sofisticată și de piscinele terapeutice.\n\nTermină-ți ziua de ciclism la pitoreștile Cascate del Mulino, unde poți privi apusul peste cascadele naturale în trepte într-un cadru cu adevărat magic.",
+        "en": "Kick off your cycling adventure by riding out to the fascinating Necropoli Etrusca del Puntone, exploring ancient tombs hidden away in the Tuscan nature.\n\nCycle back to the heart of the village to visit landmarks like Fonte Buia and the Etruscan altar, then pass through the historic arch of Porta Romana.\n\nRide downhill towards the renowned spa resorts, stopping at the elegant Terme di Saturnia to enjoy the sophisticated atmosphere and therapeutic pools.\n\nFinish your cycling day at the picturesque Cascate del Mulino, where you can watch the sunset over the cascading natural waterfalls in a magical setting."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:33",
+      "total_km": 6.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Necropoli Etrusca del Puntone",
+            "hu": "Necropoli Etrusca del Puntone",
+            "ro": "Necropoli Etrusca del Puntone",
+            "en": "Necropoli Etrusca del Puntone"
+          },
+          "coords": [
+            11.491559,
+            42.674103
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende alte etruskische Grabstätte inmitten der Natur und tragen Sie feste Wanderschuhe, da das Gelände um die Gräber uneben sein kann.",
+            "hu": "Fedezze fel ezt a lenyűgöző ősi etruszk temetőt a természet lágy ölén, és viseljen kényelmes túracipőt, mivel a sírok körüli terep meglehetősen egyenetlen lehet.",
+            "ro": "Explorează această veche necropolă etruscă fascinantă situată în mijlocul naturii și poartă încălțăminte de drumeție robustă, deoarece terenul este accidentat.",
+            "en": "Explore this fascinating ancient Etruscan burial ground set amidst nature, and wear sturdy walking shoes as the terrain around the tombs can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Polo Culturale Pietro Aldi",
+            "hu": "Polo Culturale Pietro Aldi",
+            "ro": "Polo Culturale Pietro Aldi",
+            "en": "Polo Culturale Pietro Aldi"
+          },
+          "coords": [
+            11.504398,
+            42.664075
+          ],
+          "category": "museum",
+          "arrive_at": "10:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie das fesselnde künstlerische Erbe der Region durch Aldis meisterhafte Gemälde und nehmen Sie sich Zeit für die Wechselausstellungen im Obergeschoss.",
+            "hu": "Fedezze fel a régió lenyűgöző művészeti örökségét Aldi mesteri festményein keresztül, és szánjon időt az emeleten gyakran megrendezett időszaki kiállításokra is.",
+            "ro": "Descoperă patrimoniul artistic captivant al regiunii prin picturile magistrale ale lui Aldi, luându-ți timp pentru a vedea expozițiile temporare găzduite la etaj.",
+            "en": "Discover the captivating artistic heritage of the region through Aldi's masterful paintings, taking time to view the temporary exhibitions usually hosted upstairs."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Archeologico di Saturnia",
+            "hu": "Museo Archeologico di Saturnia",
+            "ro": "Museo Archeologico di Saturnia",
+            "en": "Museo Archeologico di Saturnia"
+          },
+          "coords": [
+            11.506159,
+            42.665002
+          ],
+          "category": "museum",
+          "arrive_at": "12:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die lokale Geschichte ein mit Artefakten von der Vorgeschichte bis zur Römerzeit und fragen Sie an der Rezeption nach einem englischen Flyer.",
+            "hu": "Merüljön el a helyi történelemben a történelemelőtti kortól a római időkig terjedő leletekkel, és kérjen angol nyelvű tájékoztatót a recepción, ha szükséges.",
+            "ro": "Cufundă-te în istoria locală cu artefacte din preistorie până în epoca romană și cere un pliant în engleză la recepție dacă etichetele nu sunt traduse.",
+            "en": "Immerse yourself in local history with artifacts spanning from prehistory to Roman times, and ask the front desk for an English leaflet if labels are untranslated."
+          }
+        },
+        {
+          "name": {
+            "de": "Porta Romana",
+            "hu": "Porta Romana",
+            "ro": "Porta Romana",
+            "en": "Porta Romana"
+          },
+          "coords": [
+            11.505574,
+            42.663545
+          ],
+          "category": "fortress",
+          "arrive_at": "13:56",
+          "stay_min": 30,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Gehen Sie durch das historische Südtor der alten römischen Mauern und halten Sie inne, um das bemerkenswerte Mauerwerk auf etruskischen Fundamenten zu bewundern.",
+            "hu": "Sétáljon át az ősi római falak történelmi déli kapuján, és álljon meg egy pillanatra, hogy megfigyelje a régebbi etruszk alapokra épült figyelemre méltó falazatot.",
+            "ro": "Plimbă-te prin poarta sudică istorică a vechilor ziduri romane, oprindu-te să observi zidăria remarcabilă construită pe fundații etrusce mult mai vechi.",
+            "en": "Walk through the historic southern gate of the ancient Roman walls, pausing to observe the remarkable masonry work built upon older Etruscan foundations."
+          }
+        },
+        {
+          "name": {
+            "de": "Terme di Saturnia",
+            "hu": "Terme di Saturnia",
+            "ro": "Terme di Saturnia",
+            "en": "Terme di Saturnia"
+          },
+          "coords": [
+            11.516821,
+            42.658125
+          ],
+          "category": "recreational",
+          "arrive_at": "14:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich die luxuriösen Thermalbecken mit konstant 37,5°C warmem Heilwasser und denken Sie daran, ein eigenes Handtuch mitzubringen, um Kosten zu sparen.",
+            "hu": "Kényeztesse magát a luxus termálfürdő folyamatosan 37,5°C-os gyógyvizű medencéiben, és hozzon magával saját törölközőt, hogy megspórolja a bérlési díjat.",
+            "ro": "Răsfață-te în piscinele resortului termal cu ape vindecătoare constante de 37,5°C și nu uita să aduci propriul prosop pentru a economisi la închiriere.",
+            "en": "Indulge in the luxurious thermal resort pools featuring constant 37.5°C healing waters, and remember to bring your own towel to save on rental fees."
+          }
+        },
+        {
+          "name": {
+            "de": "Cascate del Mulino",
+            "hu": "Cascate del Mulino",
+            "ro": "Cascate del Mulino",
+            "en": "Cascate del Mulino"
+          },
+          "coords": [
+            11.512696,
+            42.648064
+          ],
+          "category": "recreational",
+          "arrive_at": "15:48",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesen ikonischen kostenlosen Thermalwasserfällen mit therapeutischem Schwefelwasser, aber kommen Sie früh, um einen Parkplatz zu finden.",
+            "hu": "Pihenjen ezeknél az ikonikus, ingyenes és terápiás kénes vizű termálvízeséseknél, de érkezzen korán, hogy biztosan találjon parkolóhelyet és elkerülje a tömeget.",
+            "ro": "Relaxează-te la aceste cascade termale iconice cu ape sulfuroase terapeutice, dar ajunge devreme pentru a prinde un loc de parcare și a evita aglomerația.",
+            "en": "Relax in these iconic free thermal waterfalls with therapeutic sulfur-rich waters, but arrive early to secure a parking spot and avoid the largest crowds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autoroute etwas außerhalb der Stadt an der riesigen etruskischen Nekropole und genießen Sie die Ruhe und die tiefgreifende antike Geschichte.\n\nFahren Sie ins Zentrum von Saturnia, um die Kunst im Polo Culturale Pietro Aldi zu bewundern und im archäologischen Museum Jahrtausende alten Erbes zu entdecken.\n\nNach einem kurzen Halt an der imposanten Porta Romana fahren Sie hinunter ins Thermalgebiet und machen Ihren ersten entspannenden Stopp im luxuriösen Resort.\n\nBeenden Sie Ihren Tagesausflug perfekt geparkt in der Nähe der Cascate del Mulino, wo das Thermalwasser in der Dämmerung natürlich geformte Kalksteinbecken füllt.",
+        "hu": "Kezdje autós útját a városon kívül található hatalmas etruszk nekropolisznál, értékelve a helyszín nyugalmát és mély, ókori történelmét.\n\nVezessen Saturnia központjába, hogy megcsodálja a Polo Culturale Pietro Aldi művészeti gyűjteményeit, és felfedezze az évezredes helyi örökséget a múzeumban.\n\nA lenyűgöző Porta Romana-nál tett rövid megálló után hajtson le a termálvölgybe, és tegye meg első pihentető megállóját a luxus üdülőhelyen.\n\nZárja egynapos kirándulását a Cascate del Mulino közelében parkolva, ahol a folyó termálvíz természetes mészkőmedencéket hoz létre az alkonyatban.",
+        "ro": "Începe-ți traseul cu mașina puțin în afara orașului la vasta necropolă etruscă, apreciind liniștea și istoria antică profundă a acestui sit fascinant.\n\nCondu în centrul orașului Saturnia pentru a admira colecțiile de artă de la Polo Culturale Pietro Aldi și a descoperi milenii de patrimoniu la muzeul arheologic.\n\nDupă o scurtă oprire la impunătoarea Porta Romana, fă o scurtă plimbare cu mașina până în valea termală, făcând prima oprire relaxantă la resortul de lux.\n\nÎncheie-ți excursia perfect parcat lângă Cascate del Mulino, unde apele termale curgătoare creează bazine de calcar sculptate natural sub lumina crepusculului.",
+        "en": "Start your driving route slightly out of town at the vast Etruscan necropolis, appreciating the tranquility and profound ancient history of the site.\n\nDrive into Saturnia's center to admire the art collections at Polo Culturale Pietro Aldi and uncover millennia of local heritage at the archaeological museum.\n\nAfter a quick stop at the imposing Porta Romana, take a short drive down to the thermal valley, making your first relaxing stop at the luxurious resort.\n\nEnd your day trip perfectly parked near the Cascate del Mulino, where the flowing thermal waters create naturally carved limestone pools under the twilight."
+      }
+    }
+  }
+}

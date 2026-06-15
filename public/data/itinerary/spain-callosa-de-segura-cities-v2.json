@@ -1,0 +1,451 @@
+{
+  "city_id": "spain-callosa-de-segura-cities-v2",
+  "anchor": {
+    "name": "Callosa de Segura",
+    "coords": [
+      -0.879339,
+      38.122581
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:46",
+      "total_km": 2.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo Arqueológico y Etnológico",
+            "hu": "Régészeti és Néprajzi Múzeum",
+            "ro": "Muzeul Arheologic și Etnologic",
+            "en": "Archaeological and Ethnological Museum"
+          },
+          "coords": [
+            -0.879576,
+            38.123185
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem faszinierenden Museum tief in die lokale Geschichte ein, das Artefakte von der Vorgeschichte bis zur Moderne zeigt, und planen Sie etwa zwei Stunden für alle Ausstellungen ein.",
+            "hu": "Merüljön el a helyi történelemben ebben a lenyűgöző múzeumban, amely a történelem előtti időktől a modern korig mutat be tárgyakat, és szánjon legalább két órát az összes kiállításra.",
+            "ro": "Pătrundeți adânc în istoria locală în acest muzeu fascinant, care expune artefacte din preistorie până în epoca modernă, și rezervați-vă aproximativ două ore pentru a vedea toate expozițiile.",
+            "en": "Dive deep into local history at this fascinating museum showcasing artifacts from prehistory to modern times, and be sure to allocate about two hours to fully appreciate all the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita de los Dolores",
+            "hu": "Ermita de los Dolores",
+            "ro": "Ermita de los Dolores",
+            "en": "Ermita de los Dolores"
+          },
+          "coords": [
+            -0.88053,
+            38.123023
+          ],
+          "category": "religious",
+          "arrive_at": "10:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Eleganz dieser charmanten kleinen Kapelle im Herzen der Stadt, die für ihre friedliche Atmosphäre bekannt ist, und achten Sie auf die traditionellen architektonischen Details an der Fassade.",
+            "hu": "Csodálja meg a város szívében található hangulatos kis kápolna egyszerű eleganciáját, amely békés légköréről ismert, és figyelje meg a hagyományos építészeti részleteket a homlokzaton.",
+            "ro": "Admirați eleganța simplă a acestei mici capele fermecătoare din inima orașului, cunoscută pentru atmosfera sa pașnică, și acordați atenție detaliilor arhitecturale tradiționale de pe fațadă.",
+            "en": "Admire the simple elegance of this charming little chapel in the heart of the town, known for its peaceful atmosphere, and pay close attention to the traditional architectural details on the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita del Rosario",
+            "hu": "Ermita del Rosario",
+            "ro": "Ermita del Rosario",
+            "en": "Ermita del Rosario"
+          },
+          "coords": [
+            -0.878992,
+            38.124141
+          ],
+          "category": "religious",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses historische religiöse Heiligtum, das einen Einblick in das tiefe spirituelle Erbe von Callosa bietet, und besuchen Sie es am besten vormittags, wenn das Licht im Inneren am schönsten ist.",
+            "hu": "Fedezze fel ezt a történelmi vallási szentélyt, amely bepillantást enged Callosa mély spirituális örökségébe, és a legjobb délelőtt látogatni, amikor a legszebb a belső tér megvilágítása.",
+            "ro": "Descoperiți acest sanctuar religios istoric care oferă o privire în moștenirea spirituală profundă a Callosei și vizitați-l de preferință dimineața, când lumina interioară este cea mai frumoasă.",
+            "en": "Discover this historical religious sanctuary that offers a glimpse into Callosa's deep spiritual heritage, and try to visit during the morning when the interior lighting is at its most beautiful."
+          }
+        },
+        {
+          "name": {
+            "de": "Molino de agua",
+            "hu": "Molino de agua",
+            "ro": "Molino de agua",
+            "en": "Molino de agua"
+          },
+          "coords": [
+            -0.872451,
+            38.124221
+          ],
+          "category": "landmark",
+          "arrive_at": "12:24",
+          "stay_min": 15,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser traditionellen Wassermühle, die ein wichtiges Zeugnis der vergangenen landwirtschaftlichen und industriellen Infrastruktur ist, und machen Sie einige Fotos von der erhaltenen Mechanik.",
+            "hu": "Álljon meg ennél a hagyományos vízimalomnál, amely a múltbeli mezőgazdasági és ipari infrastruktúra fontos tanúja, és készítsen néhány fényképet a jól megőrzött mechanikáról.",
+            "ro": "Opriți-vă la această moară de apă tradițională, o mărturie importantă a infrastructurii agricole și industriale din trecut, și faceți câteva fotografii ale mecanismelor sale conservate.",
+            "en": "Stop by this traditional water mill which stands as an important testament to the past agricultural and industrial infrastructure, and be sure to snap some photos of the preserved mechanics."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo de Callosa",
+            "hu": "Castillo de Callosa",
+            "ro": "Castillo de Callosa",
+            "en": "Castillo de Callosa"
+          },
+          "coords": [
+            -0.883822,
+            38.119874
+          ],
+          "category": "castle",
+          "arrive_at": "12:56",
+          "stay_min": 110,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Wege zu dieser beeindruckenden Burgruine, die nicht nur reiche Geschichte, sondern auch atemberaubende Ausblicke bietet, und tragen Sie unbedingt festes Schuhwerk für den Aufstieg.",
+            "hu": "Másszon fel az ösvényeken ehhez a lenyűgöző várromhoz, amely nemcsak gazdag történelmet, hanem lélegzetelállító kilátást is kínál, és feltétlenül viseljen masszív lábbelit a túrához.",
+            "ro": "Urcați pe potecile spre această impresionantă ruină de castel care oferă nu doar o istorie bogată, ci și priveliști uluitoare, și purtați neapărat încălțăminte solidă pentru ascensiune.",
+            "en": "Climb the pathways to this impressive ruined castle that offers not only rich history but also breathtaking panoramic views, and make absolutely sure to wear sturdy footwear for the ascent."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang durch Callosa de Segura mit einem tiefen Einblick in die reiche Geschichte im Archäologischen Museum. Der Vormittag bietet zudem Gelegenheit, die charmanten Kapellen Ermita de los Dolores und Ermita del Rosario zu entdecken. Gegen Mittag führt der Weg zum historischen Molino de agua, einem Relikt alter Handwerkskunst. Der Nachmittag ist dem anspruchsvollen, aber lohnenden Aufstieg zum Castillo de Callosa gewidmet, wo atemberaubende Ausblicke den Tag perfekt abrunden.",
+        "hu": "Kezdje sétáját Callosa de Segura-ban egy mély bepillantással a gazdag történelembe a Régészeti Múzeumban. A délelőtt folyamán fedezze fel a bájos Ermita de los Dolores és Ermita del Rosario kápolnákat is. Dél körül az út a történelmi Molino de agua-hoz, a régi mesterségek egy emlékéhez vezet. A délutánt a Castillo de Callosa kihívást jelentő, de hálás megmászásának szenteljük, ahol lélegzetelállító kilátás teszi tökéletessé a napot.",
+        "ro": "Începeți plimbarea prin Callosa de Segura cu o privire profundă asupra istoriei sale bogate la Muzeul Arheologic. Dimineața oferă, de asemenea, ocazia de a descoperi capelele fermecătoare Ermita de los Dolores și Ermita del Rosario. În jurul prânzului, drumul duce către istorica Molino de agua, o relicvă a meșteșugurilor vechi. După-amiaza este dedicată ascensiunii provocatoare, dar pline de satisfacții spre Castillo de Callosa, unde priveliștile uimitoare completează perfect ziua.",
+        "en": "Begin your walking tour of Callosa de Segura with a deep dive into its rich history at the Archaeological Museum. The morning also offers a chance to discover the charming Ermita de los Dolores and Ermita del Rosario chapels. Around midday, the path leads to the historic Molino de agua, a relic of ancient craftsmanship. The afternoon is dedicated to the challenging yet rewarding climb up to Castillo de Callosa, where breathtaking views perfectly cap off the day."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:35",
+      "total_km": 6.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo Arqueológico y Etnológico",
+            "hu": "Régészeti és Néprajzi Múzeum",
+            "ro": "Muzeul Arheologic și Etnologic",
+            "en": "Archaeological and Ethnological Museum"
+          },
+          "coords": [
+            -0.879576,
+            38.123185
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem faszinierenden Museum tief in die lokale Geschichte ein, das Artefakte von der Vorgeschichte bis zur Moderne zeigt, und planen Sie etwa zwei Stunden für alle Ausstellungen ein.",
+            "hu": "Merüljön el a helyi történelemben ebben a lenyűgöző múzeumban, amely a történelem előtti időktől a modern korig mutat be tárgyakat, és szánjon legalább két órát az összes kiállításra.",
+            "ro": "Pătrundeți adânc în istoria locală în acest muzeu fascinant, care expune artefacte din preistorie până în epoca modernă, și rezervați-vă aproximativ două ore pentru a vedea toate expozițiile.",
+            "en": "Dive deep into local history at this fascinating museum showcasing artifacts from prehistory to modern times, and be sure to allocate about two hours to fully appreciate all the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo de Callosa",
+            "hu": "Castillo de Callosa",
+            "ro": "Castillo de Callosa",
+            "en": "Castillo de Callosa"
+          },
+          "coords": [
+            -0.883822,
+            38.119874
+          ],
+          "category": "castle",
+          "arrive_at": "10:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Wege zu dieser beeindruckenden Burgruine, die nicht nur reiche Geschichte, sondern auch atemberaubende Ausblicke bietet, und tragen Sie unbedingt festes Schuhwerk für den Aufstieg.",
+            "hu": "Másszon fel az ösvényeken ehhez a lenyűgöző várromhoz, amely nemcsak gazdag történelmet, hanem lélegzetelállító kilátást is kínál, és feltétlenül viseljen masszív lábbelit a túrához.",
+            "ro": "Urcați pe potecile spre această impresionantă ruină de castel care oferă nu doar o istorie bogată, ci și priveliști uluitoare, și purtați neapărat încălțăminte solidă pentru ascensiune.",
+            "en": "Climb the pathways to this impressive ruined castle that offers not only rich history but also breathtaking panoramic views, and make absolutely sure to wear sturdy footwear for the ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de San Miguel Arcángel",
+            "hu": "Iglesia de San Miguel Arcángel",
+            "ro": "Biserica San Miguel Arcángel",
+            "en": "Church of San Miguel Arcángel"
+          },
+          "coords": [
+            -0.905006,
+            38.113984
+          ],
+          "category": "religious",
+          "arrive_at": "12:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese beeindruckende Kirche, deren Architektur den typischen Stil der Region widerspiegelt, und nutzen Sie die ruhige Umgebung für eine kurze, besinnliche Pause abseits des Trubels.",
+            "hu": "Látogassa meg ezt a lenyűgöző templomot, amelynek építészete a régió tipikus stílusát tükrözi, és használja ki a csendes környezetet egy rövid, elmélkedő pihenőre a nyüzsgéstől távol.",
+            "ro": "Vizitați această biserică impresionantă a cărei arhitectură reflectă stilul tipic al regiunii și profitați de mediul liniștit pentru o scurtă pauză contemplativă departe de agitație.",
+            "en": "Visit this impressive church whose architecture reflects the typical style of the region, and take advantage of its quiet surroundings for a short, contemplative break away from the bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo de Santa Bárbara",
+            "hu": "Castillo de Santa Bárbara",
+            "ro": "Castillo de Santa Bárbara",
+            "en": "Castillo de Santa Bárbara"
+          },
+          "coords": [
+            -0.883059,
+            38.137846
+          ],
+          "category": "castle",
+          "arrive_at": "13:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese zweite wichtige historische Festung der Gegend, die strategische Verteidigungslinien vergangener Epochen markiert, und bringen Sie an warmen Tagen unbedingt ausreichend Trinkwasser mit.",
+            "hu": "Fedezze fel a környék e második fontos történelmi erődjét, amely a letűnt korok stratégiai védelmi vonalait jelzi, és meleg napokon feltétlenül hozzon magával elegendő ivóvizet.",
+            "ro": "Explorați această a doua fortăreață istorică importantă a zonei, care marchează liniile strategice de apărare din epocile trecute, și asigurați-vă că aduceți suficientă apă de băut în zilele calde.",
+            "en": "Explore this second important historical fortress of the area, marking strategic defensive lines of past eras, and make sure to bring plenty of drinking water on warm days."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de San Juan Bautista",
+            "hu": "Iglesia de San Juan Bautista",
+            "ro": "Biserica San Juan Bautista",
+            "en": "Church of San Juan Bautista"
+          },
+          "coords": [
+            -0.884221,
+            38.139592
+          ],
+          "category": "religious",
+          "arrive_at": "14:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für die architektonischen Finessen dieser wunderschönen historischen Kirche im Norden der Stadt, deren ruhiges Kirchenschiff einen idealen Ort für eine nachmittägliche Rast bietet.",
+            "hu": "Szánjon időt e gyönyörű, a város északi részén található történelmi templom építészeti finomságaira, amelynek csendes főhajója ideális helyszínt biztosít egy délutáni pihenéshez.",
+            "ro": "Alocați timp pentru finețea arhitecturală a acestei frumoase biserici istorice din nordul orașului, a cărei navă liniștită oferă un loc ideal pentru odihnă după-amiaza.",
+            "en": "Take your time to appreciate the architectural finesse of this beautiful historic church in the north of the city, whose quiet nave offers an ideal spot for an afternoon rest."
+          }
+        },
+        {
+          "name": {
+            "de": "Convento del Carmen",
+            "hu": "Convento del Carmen",
+            "ro": "Convento del Carmen",
+            "en": "Convento del Carmen"
+          },
+          "coords": [
+            -0.887526,
+            38.141666
+          ],
+          "category": "religious",
+          "arrive_at": "15:25",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour in diesem ruhigen Kloster, dessen friedliche Kreuzgänge den perfekten Rahmen bilden, um die Erlebnisse des Tages in völliger Stille und Harmonie Revue passieren zu lassen.",
+            "hu": "Zárja túráját ebben a csendes kolostorban, amelynek békés kerengői tökéletes hátteret biztosítanak ahhoz, hogy teljes csendben és harmóniában idézze fel a nap élményeit.",
+            "ro": "Încheiați-vă turul în această mănăstire liniștită, ale cărei clostre pașnice oferă cadrul perfect pentru a trece în revistă experiențele zilei în liniște și armonie deplină.",
+            "en": "Conclude your tour at this serene convent, whose peaceful cloisters provide the perfect backdrop for reflecting on the day's experiences in total silence and harmony."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Fahrradtour startet kulturell im Museum, bevor Sie schnell zum imposanten Castillo de Callosa radeln. Die Mobilität des Fahrrads erlaubt es, danach die etwas entlegenere Iglesia de San Miguel Arcángel zu erreichen. Am Nachmittag fahren Sie in den Norden der Stadt zum Castillo de Santa Bárbara. Den entspannten Abschluss bilden die Iglesia de San Juan Bautista und das friedliche Convento del Carmen, die sich auf zwei Rädern mühelos verbinden lassen.",
+        "hu": "A kerékpártúra kulturálisan a múzeumban kezdődik, mielőtt gyorsan eltekerne az impozáns Castillo de Callosa-hoz. A kerékpár mobilitása lehetővé teszi, hogy ezután elérje a kissé távolabbi Iglesia de San Miguel Arcángel-t. Délután a város északi részébe kerékpározik a Castillo de Santa Bárbara-hoz. A pihentető befejezést az Iglesia de San Juan Bautista és a békés Convento del Carmen nyújtja, amelyek két keréken könnyedén összekapcsolhatók.",
+        "ro": "Turul cu bicicleta începe cultural la muzeu, înainte de a pedala rapid spre impunătorul Castillo de Callosa. Mobilitatea bicicletei vă permite să ajungeți apoi la Iglesia de San Miguel Arcángel, puțin mai izolată. După-amiaza, veți merge în nordul orașului la Castillo de Santa Bárbara. Finalul relaxant este asigurat de Iglesia de San Juan Bautista și de pașnica Convento del Carmen, ușor de conectat pe două roți.",
+        "en": "The bike tour starts culturally at the museum before you quickly pedal to the imposing Castillo de Callosa. The mobility of the bike then allows you to reach the slightly more remote Iglesia de San Miguel Arcángel. In the afternoon, you ride to the north of the city to Castillo de Santa Bárbara. The relaxing conclusion is provided by the Iglesia de San Juan Bautista and the peaceful Convento del Carmen, which are effortlessly connected on two wheels."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:47",
+      "total_km": 5.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Iglesia de San Miguel Arcángel",
+            "hu": "Iglesia de San Miguel Arcángel",
+            "ro": "Biserica San Miguel Arcángel",
+            "en": "Church of San Miguel Arcángel"
+          },
+          "coords": [
+            -0.905006,
+            38.113984
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese beeindruckende Kirche, deren Architektur den typischen Stil der Region widerspiegelt, und nutzen Sie die ruhige Umgebung für eine kurze, besinnliche Pause abseits des Trubels.",
+            "hu": "Látogassa meg ezt a lenyűgöző templomot, amelynek építészete a régió tipikus stílusát tükrözi, és használja ki a csendes környezetet egy rövid, elmélkedő pihenőre a nyüzsgéstől távol.",
+            "ro": "Vizitați această biserică impresionantă a cărei arhitectură reflectă stilul tipic al regiunii și profitați de mediul liniștit pentru o scurtă pauză contemplativă departe de agitație.",
+            "en": "Visit this impressive church whose architecture reflects the typical style of the region, and take advantage of its quiet surroundings for a short, contemplative break away from the bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo de Callosa",
+            "hu": "Castillo de Callosa",
+            "ro": "Castillo de Callosa",
+            "en": "Castillo de Callosa"
+          },
+          "coords": [
+            -0.883822,
+            38.119874
+          ],
+          "category": "castle",
+          "arrive_at": "09:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Wege zu dieser beeindruckenden Burgruine, die nicht nur reiche Geschichte, sondern auch atemberaubende Ausblicke bietet, und tragen Sie unbedingt festes Schuhwerk für den Aufstieg.",
+            "hu": "Másszon fel az ösvényeken ehhez a lenyűgöző várromhoz, amely nemcsak gazdag történelmet, hanem lélegzetelállító kilátást is kínál, és feltétlenül viseljen masszív lábbelit a túrához.",
+            "ro": "Urcați pe potecile spre această impresionantă ruină de castel care oferă nu doar o istorie bogată, ci și priveliști uluitoare, și purtați neapărat încălțăminte solidă pentru ascensiune.",
+            "en": "Climb the pathways to this impressive ruined castle that offers not only rich history but also breathtaking panoramic views, and make absolutely sure to wear sturdy footwear for the ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Arqueológico y Etnológico",
+            "hu": "Régészeti és Néprajzi Múzeum",
+            "ro": "Muzeul Arheologic și Etnologic",
+            "en": "Archaeological and Ethnological Museum"
+          },
+          "coords": [
+            -0.879576,
+            38.123185
+          ],
+          "category": "museum",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem faszinierenden Museum tief in die lokale Geschichte ein, das Artefakte von der Vorgeschichte bis zur Moderne zeigt, und planen Sie etwa zwei Stunden für alle Ausstellungen ein.",
+            "hu": "Merüljön el a helyi történelemben ebben a lenyűgöző múzeumban, amely a történelem előtti időktől a modern korig mutat be tárgyakat, és szánjon legalább két órát az összes kiállításra.",
+            "ro": "Pătrundeți adânc în istoria locală în acest muzeu fascinant, care expune artefacte din preistorie până în epoca modernă, și rezervați-vă aproximativ două ore pentru a vedea toate expozițiile.",
+            "en": "Dive deep into local history at this fascinating museum showcasing artifacts from prehistory to modern times, and be sure to allocate about two hours to fully appreciate all the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Molino de agua",
+            "hu": "Molino de agua",
+            "ro": "Molino de agua",
+            "en": "Molino de agua"
+          },
+          "coords": [
+            -0.872451,
+            38.124221
+          ],
+          "category": "landmark",
+          "arrive_at": "12:57",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser traditionellen Wassermühle, die ein wichtiges Zeugnis der vergangenen landwirtschaftlichen und industriellen Infrastruktur ist, und machen Sie einige Fotos von der erhaltenen Mechanik.",
+            "hu": "Álljon meg ennél a hagyományos vízimalomnál, amely a múltbeli mezőgazdasági és ipari infrastruktúra fontos tanúja, és készítsen néhány fényképet a jól megőrzött mechanikáról.",
+            "ro": "Opriți-vă la această moară de apă tradițională, o mărturie importantă a infrastructurii agricole și industriale din trecut, și faceți câteva fotografii ale mecanismelor sale conservate.",
+            "en": "Stop by this traditional water mill which stands as an important testament to the past agricultural and industrial infrastructure, and be sure to snap some photos of the preserved mechanics."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo de Santa Bárbara",
+            "hu": "Castillo de Santa Bárbara",
+            "ro": "Castillo de Santa Bárbara",
+            "en": "Castillo de Santa Bárbara"
+          },
+          "coords": [
+            -0.883059,
+            38.137846
+          ],
+          "category": "castle",
+          "arrive_at": "13:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese zweite wichtige historische Festung der Gegend, die strategische Verteidigungslinien vergangener Epochen markiert, und bringen Sie an warmen Tagen unbedingt ausreichend Trinkwasser mit.",
+            "hu": "Fedezze fel a környék e második fontos történelmi erődjét, amely a letűnt korok stratégiai védelmi vonalait jelzi, és meleg napokon feltétlenül hozzon magával elegendő ivóvizet.",
+            "ro": "Explorați această a doua fortăreață istorică importantă a zonei, care marchează liniile strategice de apărare din epocile trecute, și asigurați-vă că aduceți suficientă apă de băut în zilele calde.",
+            "en": "Explore this second important historical fortress of the area, marking strategic defensive lines of past eras, and make sure to bring plenty of drinking water on warm days."
+          }
+        },
+        {
+          "name": {
+            "de": "Convento del Carmen",
+            "hu": "Convento del Carmen",
+            "ro": "Convento del Carmen",
+            "en": "Convento del Carmen"
+          },
+          "coords": [
+            -0.887526,
+            38.141666
+          ],
+          "category": "religious",
+          "arrive_at": "14:37",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour in diesem ruhigen Kloster, dessen friedliche Kreuzgänge den perfekten Rahmen bilden, um die Erlebnisse des Tages in völliger Stille und Harmonie Revue passieren zu lassen.",
+            "hu": "Zárja túráját ebben a csendes kolostorban, amelynek békés kerengői tökéletes hátteret biztosítanak ahhoz, hogy teljes csendben és harmóniában idézze fel a nap élményeit.",
+            "ro": "Încheiați-vă turul în această mănăstire liniștită, ale cărei clostre pașnice oferă cadrul perfect pentru a trece în revistă experiențele zilei în liniște și armonie deplină.",
+            "en": "Conclude your tour at this serene convent, whose peaceful cloisters provide the perfect backdrop for reflecting on the day's experiences in total silence and harmony."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erleben Sie Callosa bequem, beginnend mit der schönen Architektur der Iglesia de San Miguel Arcángel im Süden. Eine kurze Fahrt bringt Sie zum Castillo de Callosa und anschließend ins Zentrum für den Museumsbesuch. Die Nachmittagsroute führt Sie schnell zum Molino de agua und weiter zum nördlichen Castillo de Santa Bárbara. Der Tag endet ruhig und besinnlich im Convento del Carmen, wobei alle Ziele durch kurze Fahretappen verbunden sind.",
+        "hu": "Autóval kényelmesen felfedezheti Callosa-t, kezdve az Iglesia de San Miguel Arcángel gyönyörű építészetével délen. Egy rövid út a Castillo de Callosa-hoz, majd a központba visz a múzeumlátogatáshoz. A délutáni útvonal gyorsan elviszi a Molino de agua-hoz, majd az északi Castillo de Santa Bárbara-hoz. A nap nyugodtan és csendesen ér véget a Convento del Carmen-ben, miközben az összes célt rövid autóutak kötik össze.",
+        "ro": "Cu mașina, veți experimenta Callosa confortabil, începând cu arhitectura frumoasă a bisericii Iglesia de San Miguel Arcángel din sud. O scurtă călătorie vă duce la Castillo de Callosa și apoi în centru pentru vizita la muzeu. Traseul de după-amiază vă duce rapid la Molino de agua și mai departe la nordicul Castillo de Santa Bárbara. Ziua se încheie liniștit și contemplativ la Convento del Carmen, toate obiectivele fiind conectate prin etape scurte de condus.",
+        "en": "By car, you can experience Callosa comfortably, starting with the beautiful architecture of the Iglesia de San Miguel Arcángel in the south. A short drive takes you to Castillo de Callosa and then into the center for the museum visit. The afternoon route quickly leads to the Molino de agua and further to the northern Castillo de Santa Bárbara. The day ends quietly and contemplatively at the Convento del Carmen, with all destinations connected by short driving stages."
+      }
+    }
+  }
+}

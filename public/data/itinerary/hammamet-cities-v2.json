@@ -1,0 +1,497 @@
+{
+  "city_id": "hammamet-cities-v2",
+  "anchor": {
+    "name": "Hammamet",
+    "coords": [
+      10.6122,
+      36.4011
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:53",
+      "total_km": 1.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Gulf of Al Hammamat",
+            "hu": "Gulf of Al Hammamat",
+            "ro": "Gulf of Al Hammamat",
+            "en": "Gulf of Al Hammamat"
+          },
+          "coords": [
+            10.610935,
+            36.395783
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie das glitzernde blaue Wasser des Golfs von Hammamet, ein perfekter Ort für Küstenfotografie, besonders wenn Sie ihn im goldenen Morgenlicht besuchen.",
+            "hu": "Élvezze a Hammameti-öböl szikrázóan kék vizét, amely tökéletes helyszín a tengerparti fotózáshoz, különösen akkor, ha a reggeli aranyló fényben érkezik ide.",
+            "ro": "Bucurați-vă de apele azurii strălucitoare ale Golfului Hammamet, un loc perfect pentru fotografii de coastă, mai ales dacă îl vizitați în lumina aurie a dimineții.",
+            "en": "Enjoy the sparkling azure waters of the Gulf of Al Hammamat, a perfect spot for coastal photography, especially if you visit during the golden morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Club nautique hammamet C.N.H",
+            "hu": "Club nautique hammamet C.N.H",
+            "ro": "Club nautique hammamet C.N.H",
+            "en": "Club nautique hammamet C.N.H"
+          },
+          "coords": [
+            10.611369,
+            36.397481
+          ],
+          "category": "family",
+          "arrive_at": "09:28",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die maritime Kultur in diesem lebhaften nautischen Club, dem Herzen der Bootsgemeinschaft, wo das Mieten eines kleinen Bootes neue Perspektiven bietet.",
+            "hu": "Tapasztalja meg a helyi tengeri kultúrát ebben a nyüzsgő hajósklubban, ahol egy kisebb csónak bérlése teljesen új perspektívát kínál a város felfedezéséhez.",
+            "ro": "Experimentați cultura maritimă locală la acest club nautic vibrant, inima comunității de navigație, unde închirierea unei bărci oferă o perspectivă inedită.",
+            "en": "Experience local maritime culture at this vibrant nautical club, the heart of Hammamet's boating community, where renting a small craft offers a fresh perspective."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare d'Hammamet",
+            "hu": "Phare d'Hammamet",
+            "ro": "Phare d'Hammamet",
+            "en": "Phare d'Hammamet"
+          },
+          "coords": [
+            10.61357,
+            36.394395
+          ],
+          "category": "landmark",
+          "arrive_at": "10:34",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur des historischen Leuchtturms, ein wichtiges maritimes Wahrzeichen, das atemberaubende Panoramablicke bietet, wenn Sie um ihn herumgehen.",
+            "hu": "Csodálja meg Hammamet történelmi világítótornyának lenyűgöző építészetét, amely lélegzetelállító panorámát nyújt, ha körbesétálja a pompás építmény alapját.",
+            "ro": "Admirați arhitectura impresionantă a farului istoric, un punct de reper vital pentru navigație, care oferă vederi panoramice uluitoare dacă vă plimbați la baza sa.",
+            "en": "Admire the striking architecture of Hammamet's historic lighthouse, a vital navigational landmark that provides breathtaking panoramic views if you walk around its base."
+          }
+        },
+        {
+          "name": {
+            "de": "Théatre Plein Air de Hammamet",
+            "hu": "Théatre Plein Air de Hammamet",
+            "ro": "Théatre Plein Air de Hammamet",
+            "en": "Théatre Plein Air de Hammamet"
+          },
+          "coords": [
+            10.613498,
+            36.392631
+          ],
+          "category": "cultural",
+          "arrive_at": "11:02",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem atemberaubenden Freilufttheater am Meer in die Kunst ein, einem kulturellen Zentrum, das Sie am besten bei einer Abendvorstellung genießen.",
+            "hu": "Merüljön el a művészetekben ebben a lenyűgöző, tengerparti szabadtéri színházban, amelynek kulturális jelentőségét egy esti előadás megtekintésével értékelheti leginkább.",
+            "ro": "Cufundați-vă în artă la acest teatru în aer liber uimitor de lângă mare, un centru cultural care poate fi apreciat cel mai bine la un spectacol fascinant de seară.",
+            "en": "Immerse yourself in the arts at this stunning open-air theater by the sea, a cultural hub that is best appreciated when checking local schedules for evening performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Hammamet Beach",
+            "hu": "Hammamet Beach",
+            "ro": "Hammamet Beach",
+            "en": "Hammamet Beach"
+          },
+          "coords": [
+            10.617679,
+            36.394148
+          ],
+          "category": "recreational",
+          "arrive_at": "12:08",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sandstrand von Hammamet Beach, wo eine frühe Ankunft sicherstellt, dass Sie einen bequemen Liegestuhl direkt an den ruhigen Wellen ergattern.",
+            "hu": "Pihenjen a Hammamet Beach puha, aranyhomokos partján, ahol a korai érkezés biztosítja, hogy kényelmes nyugágyat szerezzen közvetlenül a lágyan morajló hullámok mellett.",
+            "ro": "Relaxați-vă pe nisipul auriu moale de la Hammamet Beach, un loc excelent de recreere unde sosirea timpurie vă asigură un șezlong confortabil chiar lângă valurile liniștite.",
+            "en": "Relax on the soft golden sands of Hammamet Beach, a prime recreational spot where arriving early ensures you secure a comfortable lounge chair right by the calm waves."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen damit, die ruhige Küstenatmosphäre am wunderschönen Golf von Hammamet aufzusaugen. Mittags erleben Sie maritime Stimmung am örtlichen nautischen Club und am Leuchtturm. Der Nachmittag ist der Kunst und Kultur im Freilufttheater am Meer gewidmet. Beenden Sie Ihren Spaziergang entspannt am goldenen Sandstrand von Hammamet.",
+        "hu": "Kezdje a reggelt a Hammameti-öböl nyugodt partvidéki atmoszférájának magába szívásával. A délben élénk tengeri hangulat várja a helyi hajósklubban és a történelmi világítótoronynál. A délutánt a művészeteknek és a kultúrának szenteljük a tengerparti szabadtéri színházban. Zárja könnyed gyalogtúráját a Hammamet Beach aranyló homokján pihenve.",
+        "ro": "Începeți dimineața absorbind atmosfera senină de coastă de-a lungul frumosului Golf Hammamet. La prânz, treceți la vibrații maritime pline de viață explorând clubul nautic local și farul istoric. După-amiaza este dedicată artei și culturii la teatrul în aer liber de la malul mării. Încheiați turul de plimbare relaxându-vă pe nisipurile aurii ale plajei Hammamet.",
+        "en": "Start your morning absorbing the serene coastal atmosphere along the beautiful Gulf of Al Hammamat. Midday transitions to lively maritime vibes as you explore the local nautical club and historic lighthouse. The afternoon is dedicated to art and culture at the open-air theater by the sea. Conclude your leisurely walking tour relaxing on the golden sands of Hammamet Beach."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:05",
+      "total_km": 4.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "International Culture Center of Hammamet",
+            "hu": "International Culture Center of Hammamet",
+            "ro": "International Culture Center of Hammamet",
+            "en": "International Culture Center of Hammamet"
+          },
+          "coords": [
+            10.594646,
+            36.404219
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die üppigen Gärten dieses prestigeträchtigen Kulturzentrums in einer historischen Villa und besuchen Sie die faszinierenden Ausstellungen der Galerie.",
+            "hu": "Sétáljon végig a történelmi villában helyet kapó rangos kulturális központ buja kertjein, és feltétlenül tekintse meg a galéria lenyűgöző kortárs művészeti kiállításait.",
+            "ro": "Plimbați-vă prin grădinile luxuriante ale acestui centru cultural prestigios dintr-o vilă istorică și nu uitați să verificați galeria pentru expoziții de artă fascinante.",
+            "en": "Wander through the lush gardens of this prestigious cultural center, housed in a historic villa, and be sure to check the gallery for fascinating contemporary art exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Gulf of Al Hammamat",
+            "hu": "Gulf of Al Hammamat",
+            "ro": "Gulf of Al Hammamat",
+            "en": "Gulf of Al Hammamat"
+          },
+          "coords": [
+            10.610935,
+            36.395783
+          ],
+          "category": "landmark",
+          "arrive_at": "10:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Genießen Sie das glitzernde blaue Wasser des Golfs von Hammamet, ein perfekter Ort für Küstenfotografie, besonders wenn Sie ihn im goldenen Morgenlicht besuchen.",
+            "hu": "Élvezze a Hammameti-öböl szikrázóan kék vizét, amely tökéletes helyszín a tengerparti fotózáshoz, különösen akkor, ha a reggeli aranyló fényben érkezik ide.",
+            "ro": "Bucurați-vă de apele azurii strălucitoare ale Golfului Hammamet, un loc perfect pentru fotografii de coastă, mai ales dacă îl vizitați în lumina aurie a dimineții.",
+            "en": "Enjoy the sparkling azure waters of the Gulf of Al Hammamat, a perfect spot for coastal photography, especially if you visit during the golden morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Club nautique hammamet C.N.H",
+            "hu": "Club nautique hammamet C.N.H",
+            "ro": "Club nautique hammamet C.N.H",
+            "en": "Club nautique hammamet C.N.H"
+          },
+          "coords": [
+            10.611369,
+            36.397481
+          ],
+          "category": "family",
+          "arrive_at": "10:46",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die maritime Kultur in diesem lebhaften nautischen Club, dem Herzen der Bootsgemeinschaft, wo das Mieten eines kleinen Bootes neue Perspektiven bietet.",
+            "hu": "Tapasztalja meg a helyi tengeri kultúrát ebben a nyüzsgő hajósklubban, ahol egy kisebb csónak bérlése teljesen új perspektívát kínál a város felfedezéséhez.",
+            "ro": "Experimentați cultura maritimă locală la acest club nautic vibrant, inima comunității de navigație, unde închirierea unei bărci oferă o perspectivă inedită.",
+            "en": "Experience local maritime culture at this vibrant nautical club, the heart of Hammamet's boating community, where renting a small craft offers a fresh perspective."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare d'Hammamet",
+            "hu": "Phare d'Hammamet",
+            "ro": "Phare d'Hammamet",
+            "en": "Phare d'Hammamet"
+          },
+          "coords": [
+            10.61357,
+            36.394395
+          ],
+          "category": "landmark",
+          "arrive_at": "11:48",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur des historischen Leuchtturms, ein wichtiges maritimes Wahrzeichen, das atemberaubende Panoramablicke bietet, wenn Sie um ihn herumgehen.",
+            "hu": "Csodálja meg Hammamet történelmi világítótornyának lenyűgöző építészetét, amely lélegzetelállító panorámát nyújt, ha körbesétálja a pompás építmény alapját.",
+            "ro": "Admirați arhitectura impresionantă a farului istoric, un punct de reper vital pentru navigație, care oferă vederi panoramice uluitoare dacă vă plimbați la baza sa.",
+            "en": "Admire the striking architecture of Hammamet's historic lighthouse, a vital navigational landmark that provides breathtaking panoramic views if you walk around its base."
+          }
+        },
+        {
+          "name": {
+            "de": "Théatre Plein Air de Hammamet",
+            "hu": "Théatre Plein Air de Hammamet",
+            "ro": "Théatre Plein Air de Hammamet",
+            "en": "Théatre Plein Air de Hammamet"
+          },
+          "coords": [
+            10.613498,
+            36.392631
+          ],
+          "category": "cultural",
+          "arrive_at": "12:14",
+          "stay_min": 45,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem atemberaubenden Freilufttheater am Meer in die Kunst ein, einem kulturellen Zentrum, das Sie am besten bei einer Abendvorstellung genießen.",
+            "hu": "Merüljön el a művészetekben ebben a lenyűgöző, tengerparti szabadtéri színházban, amelynek kulturális jelentőségét egy esti előadás megtekintésével értékelheti leginkább.",
+            "ro": "Cufundați-vă în artă la acest teatru în aer liber uimitor de lângă mare, un centru cultural care poate fi apreciat cel mai bine la un spectacol fascinant de seară.",
+            "en": "Immerse yourself in the arts at this stunning open-air theater by the sea, a cultural hub that is best appreciated when checking local schedules for evening performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Hammamet Beach",
+            "hu": "Hammamet Beach",
+            "ro": "Hammamet Beach",
+            "en": "Hammamet Beach"
+          },
+          "coords": [
+            10.617679,
+            36.394148
+          ],
+          "category": "recreational",
+          "arrive_at": "13:01",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sandstrand von Hammamet Beach, wo eine frühe Ankunft sicherstellt, dass Sie einen bequemen Liegestuhl direkt an den ruhigen Wellen ergattern.",
+            "hu": "Pihenjen a Hammamet Beach puha, aranyhomokos partján, ahol a korai érkezés biztosítja, hogy kényelmes nyugágyat szerezzen közvetlenül a lágyan morajló hullámok mellett.",
+            "ro": "Relaxați-vă pe nisipul auriu moale de la Hammamet Beach, un loc excelent de recreere unde sosirea timpurie vă asigură un șezlong confortabil chiar lângă valurile liniștite.",
+            "en": "Relax on the soft golden sands of Hammamet Beach, a prime recreational spot where arriving early ensures you secure a comfortable lounge chair right by the calm waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Statue d'un Soldat Martyr",
+            "hu": "Statue d'un Soldat Martyr",
+            "ro": "Statue d'un Soldat Martyr",
+            "en": "Statue d'un Soldat Martyr"
+          },
+          "coords": [
+            10.630382,
+            36.405092
+          ],
+          "category": "historical",
+          "arrive_at": "14:10",
+          "stay_min": 55,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem feierlichen Denkmal zu Ehren gefallener Soldaten die Ehre, das an die lokale Geschichte erinnert und sich am besten für ruhige Momente eignet.",
+            "hu": "Rója le tiszteletét az elesett katonákat ünneplő emlékműnél, amely a helyi történelem megható mementója, és a legalkalmasabb egy pillanatnyi csendes elmélkedésre.",
+            "ro": "Aduceți un omagiu la acest monument istoric solemn care onorează soldații căzuți, o amintire emoționantă a istoriei locale, vizitat cel mai bine pentru o reflecție liniștită.",
+            "en": "Pay your respects at this solemn historical monument honoring fallen soldiers, which serves as a poignant reminder of local history and is best visited for quiet reflection."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Fahrradabenteuer beginnt am renommierten Internationalen Kulturzentrum in einer historischen Villa. Mittags radeln Sie zum Golf von Hammamet und genießen die maritime Atmosphäre am Club und Leuchtturm. Die nachmittäglichen Fahrten führen Sie zum herrlichen Theater am Meer und zum einladenden Hammamet Beach. Lassen Sie den Tag am bewegenden Märtyrerdenkmal in Ruhe ausklingen.",
+        "hu": "Kerékpáros kalandja a rangos Nemzetközi Kulturális Központnál kezdődik, egy lélegzetelállító történelmi villában. Délre tekerjen a Hammameti-öböl felé, és élvezze a tengeri hangulatot a hajósklubnál és a világítótoronynál. A délutáni túra a tengerparti színházhoz és a Hammamet Beach hívogató homokjához vezet. Zárja a napot a megható mártír szobornál egy csendes pillanattal.",
+        "ro": "Aventura cu bicicleta începe la prestigiosul Centru Cultural Internațional, situat într-o vilă istorică. La prânz, pedalați spre uimitorul Golf Hammamet și bucurați-vă de spiritul maritim la clubul nautic și la farul iconic. Plimbările de după-amiază vă duc la teatrul de pe litoral și la plaja Hammamet. Încheiați ziua la emoționanta Statuie a Martirului pentru un moment de reflecție.",
+        "en": "Your cycling adventure begins at the prestigious International Culture Center, set in a breathtaking historical villa. By midday, pedal towards the stunning Gulf of Al Hammamat and soak in the vibrant maritime spirit at the nautical club and iconic lighthouse. Afternoon rides take you to the magnificent seaside theater and the inviting sands of Hammamet Beach. Wind down your day at the poignant Martyr's Statue for a moment of quiet reflection."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:02",
+      "total_km": 5.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "International Culture Center of Hammamet",
+            "hu": "International Culture Center of Hammamet",
+            "ro": "International Culture Center of Hammamet",
+            "en": "International Culture Center of Hammamet"
+          },
+          "coords": [
+            10.594646,
+            36.404219
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die üppigen Gärten dieses prestigeträchtigen Kulturzentrums in einer historischen Villa und besuchen Sie die faszinierenden Ausstellungen der Galerie.",
+            "hu": "Sétáljon végig a történelmi villában helyet kapó rangos kulturális központ buja kertjein, és feltétlenül tekintse meg a galéria lenyűgöző kortárs művészeti kiállításait.",
+            "ro": "Plimbați-vă prin grădinile luxuriante ale acestui centru cultural prestigios dintr-o vilă istorică și nu uitați să verificați galeria pentru expoziții de artă fascinante.",
+            "en": "Wander through the lush gardens of this prestigious cultural center, housed in a historic villa, and be sure to check the gallery for fascinating contemporary art exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Gulf of Al Hammamat",
+            "hu": "Gulf of Al Hammamat",
+            "ro": "Gulf of Al Hammamat",
+            "en": "Gulf of Al Hammamat"
+          },
+          "coords": [
+            10.610935,
+            36.395783
+          ],
+          "category": "landmark",
+          "arrive_at": "10:14",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Genießen Sie das glitzernde blaue Wasser des Golfs von Hammamet, ein perfekter Ort für Küstenfotografie, besonders wenn Sie ihn im goldenen Morgenlicht besuchen.",
+            "hu": "Élvezze a Hammameti-öböl szikrázóan kék vizét, amely tökéletes helyszín a tengerparti fotózáshoz, különösen akkor, ha a reggeli aranyló fényben érkezik ide.",
+            "ro": "Bucurați-vă de apele azurii strălucitoare ale Golfului Hammamet, un loc perfect pentru fotografii de coastă, mai ales dacă îl vizitați în lumina aurie a dimineții.",
+            "en": "Enjoy the sparkling azure waters of the Gulf of Al Hammamat, a perfect spot for coastal photography, especially if you visit during the golden morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare d'Hammamet",
+            "hu": "Phare d'Hammamet",
+            "ro": "Phare d'Hammamet",
+            "en": "Phare d'Hammamet"
+          },
+          "coords": [
+            10.61357,
+            36.394395
+          ],
+          "category": "landmark",
+          "arrive_at": "10:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur des historischen Leuchtturms, ein wichtiges maritimes Wahrzeichen, das atemberaubende Panoramablicke bietet, wenn Sie um ihn herumgehen.",
+            "hu": "Csodálja meg Hammamet történelmi világítótornyának lenyűgöző építészetét, amely lélegzetelállító panorámát nyújt, ha körbesétálja a pompás építmény alapját.",
+            "ro": "Admirați arhitectura impresionantă a farului istoric, un punct de reper vital pentru navigație, care oferă vederi panoramice uluitoare dacă vă plimbați la baza sa.",
+            "en": "Admire the striking architecture of Hammamet's historic lighthouse, a vital navigational landmark that provides breathtaking panoramic views if you walk around its base."
+          }
+        },
+        {
+          "name": {
+            "de": "Hammamet Beach",
+            "hu": "Hammamet Beach",
+            "ro": "Hammamet Beach",
+            "en": "Hammamet Beach"
+          },
+          "coords": [
+            10.617679,
+            36.394148
+          ],
+          "category": "recreational",
+          "arrive_at": "11:06",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sandstrand von Hammamet Beach, wo eine frühe Ankunft sicherstellt, dass Sie einen bequemen Liegestuhl direkt an den ruhigen Wellen ergattern.",
+            "hu": "Pihenjen a Hammamet Beach puha, aranyhomokos partján, ahol a korai érkezés biztosítja, hogy kényelmes nyugágyat szerezzen közvetlenül a lágyan morajló hullámok mellett.",
+            "ro": "Relaxați-vă pe nisipul auriu moale de la Hammamet Beach, un loc excelent de recreere unde sosirea timpurie vă asigură un șezlong confortabil chiar lângă valurile liniștite.",
+            "en": "Relax on the soft golden sands of Hammamet Beach, a prime recreational spot where arriving early ensures you secure a comfortable lounge chair right by the calm waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Statue d'un Soldat Martyr",
+            "hu": "Statue d'un Soldat Martyr",
+            "ro": "Statue d'un Soldat Martyr",
+            "en": "Statue d'un Soldat Martyr"
+          },
+          "coords": [
+            10.630382,
+            36.405092
+          ],
+          "category": "historical",
+          "arrive_at": "12:09",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem feierlichen Denkmal zu Ehren gefallener Soldaten die Ehre, das an die lokale Geschichte erinnert und sich am besten für ruhige Momente eignet.",
+            "hu": "Rója le tiszteletét az elesett katonákat ünneplő emlékműnél, amely a helyi történelem megható mementója, és a legalkalmasabb egy pillanatnyi csendes elmélkedésre.",
+            "ro": "Aduceți un omagiu la acest monument istoric solemn care onorează soldații căzuți, o amintire emoționantă a istoriei locale, vizitat cel mai bine pentru o reflecție liniștită.",
+            "en": "Pay your respects at this solemn historical monument honoring fallen soldiers, which serves as a poignant reminder of local history and is best visited for quiet reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Salle Des Fêtes Boussetta",
+            "hu": "Salle Des Fêtes Boussetta",
+            "ro": "Salle Des Fêtes Boussetta",
+            "en": "Salle Des Fêtes Boussetta"
+          },
+          "coords": [
+            10.628232,
+            36.409126
+          ],
+          "category": "cultural",
+          "arrive_at": "12:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale Feststimmung in diesem markanten Veranstaltungssaal, einem architektonischen Juwel der Gemeinde, dessen Fassade traditionelle Elemente zeigt.",
+            "hu": "Fedezze fel a helyi ünnepi hangulatot ebben a kiemelkedő rendezvényteremben, a közösség építészeti gyöngyszemében, amelynek homlokzatán hagyományos elemeket csodálhat meg.",
+            "ro": "Descoperiți spiritul festiv local la această sală de evenimente proeminentă, o bijuterie arhitecturală a comunității unde puteți admira elemente tradiționale pe fațadă.",
+            "en": "Discover the local festive spirit at this prominent event hall, an architectural gem of the community where you can admire traditional Tunisian design elements on its facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Jabal Al Hammamat",
+            "hu": "Jabal Al Hammamat",
+            "ro": "Jabal Al Hammamat",
+            "en": "Jabal Al Hammamat"
+          },
+          "coords": [
+            10.63059,
+            36.41495
+          ],
+          "category": "natural",
+          "arrive_at": "13:17",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Wandern Sie an den malerischen Hängen des Jabal Al Hammamat, um unberührte Natur zu erleben, aber tragen Sie feste Schuhe und bringen Sie ausreichend Wasser mit.",
+            "hu": "Túrázzon a Jabal Al Hammamat festői lejtőin, hogy megtapasztalja az érintetlen természet szépségét, de ne felejtsen el kényelmes cipőt és elegendő vizet hozni a mászáshoz.",
+            "ro": "Urcați pe pantele pitorești ale Jabal Al Hammamat pentru a experimenta frumusețea naturală, dar nu uitați să purtați pantofi rezistenți și să aduceți suficientă apă.",
+            "en": "Hike up the scenic slopes of Jabal Al Hammamat to experience pristine natural beauty, but remember to wear sturdy shoes and bring plenty of water for the rewarding climb."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre malerische Fahrt beim Internationalen Kulturzentrum und bewundern Sie seine Gärten. Die mittägliche Route bietet atemberaubende Küstenpanoramen bei Stopps am Golf, am Leuchtturm und am sonnigen Hammamet Beach. Erkunden Sie am Nachmittag das lokale Erbe am Märtyrerdenkmal und in der Festhalle Boussetta. Die Tour endet mit einem beeindruckenden Besuch der majestätischen Naturlandschaften des Jabal Al Hammamat.",
+        "hu": "Induljon el festői autós útjára a Nemzetközi Kulturális Központtól, megcsodálva annak kertjeit és építészetét. A déli útvonal lenyűgöző tengerparti panorámát kínál a Hammameti-öbölnél, a világítótoronynál és a Hammamet Beach napfényes partjainál. Délután fedezze fel a város örökségét a Mártír szobornál és a Boussetta rendezvényteremnél. A túra a Jabal Al Hammamat fenséges természeti tájainál ér véget.",
+        "ro": "Porniți la drum de la Centrul Cultural Internațional, admirând grădinile sale deosebite. Traseul de la prânz oferă panorame de coastă uluitoare, cu opriri la Golful Hammamet, farul istoric și țărmurile însorite ale plajei Hammamet. După-amiaza, explorați moștenirea orașului la Statuia Martirului și Sala Festivă Boussetta. Turul se încheie cu o vizită impresionantă la peisajele naturale mărețe din Jabal Al Hammamat.",
+        "en": "Set off on your scenic drive from the International Culture Center, admiring its exquisite gardens and architecture. The midday route offers stunning coastal panoramas as you pause by the Gulf of Al Hammamat, the historic lighthouse, and the sunny shores of Hammamet Beach. In the afternoon, explore the town's heritage at the Martyr's Statue and the festive Boussetta Hall. The tour concludes with an awe-inspiring visit to the majestic natural landscapes of Jabal Al Hammamat."
+      }
+    }
+  }
+}

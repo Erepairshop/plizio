@@ -1,0 +1,543 @@
+{
+  "city_id": "spain-barbastro-city-cities-v2",
+  "anchor": {
+    "name": "Barbastro city",
+    "coords": [
+      0.122462,
+      42.036627
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:20",
+      "total_km": 1.55,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "en": "Ayuntamiento de Barbastro",
+            "de": "Ayuntamiento de Barbastro",
+            "hu": "Ayuntamiento de Barbastro",
+            "ro": "Ayuntamiento de Barbastro"
+          },
+          "coords": [
+            0.123359,
+            42.03692
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Admire the beautiful Renaissance facade of the town hall, which stands as a proud symbol of the city's rich history, and snap photos in the morning light.",
+            "de": "Bewundern Sie die schöne Renaissance-Fassade des Rathauses, die ein stolzes Symbol der Geschichte der Stadt ist, und machen Sie Fotos im Morgenlicht.",
+            "hu": "Csodálja meg a városháza gyönyörű reneszánsz homlokzatát, amely a város gazdag történelmének büszke szimbóluma, és készítsen fotókat a reggeli fényben.",
+            "ro": "Admirați frumoasa fațadă renascentistă a primăriei, un simbol mândru al istoriei bogate a orașului, și faceți fotografii în lumina caldă a dimineții."
+          }
+        },
+        {
+          "name": {
+            "en": "Plaza del Mercado",
+            "de": "Plaza del Mercado",
+            "hu": "Plaza del Mercado",
+            "ro": "Plaza del Mercado"
+          },
+          "coords": [
+            0.125359,
+            42.036513
+          ],
+          "category": "landmark",
+          "arrive_at": "10:34",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "en": "Experience the lively local atmosphere at this central market square, a perfect place to observe daily life while grabbing a quick coffee nearby.",
+            "de": "Erleben Sie die lebhafte lokale Atmosphäre an diesem zentralen Marktplatz, ein idealer Ort, um das tägliche Leben bei einem schnellen Kaffee zu beobachten.",
+            "hu": "Tapasztalja meg az élénk helyi hangulatot ezen a központi piactéren, amely tökéletes hely a mindennapi élet megfigyelésére egy gyors kávé mellett.",
+            "ro": "Experimentați atmosfera locală plină de viață în această piață centrală, un loc perfect pentru a observa viața de zi cu zi savurând o cafea rapidă."
+          }
+        },
+        {
+          "name": {
+            "en": "Muela CIlíndrica",
+            "de": "Muela CIlíndrica",
+            "hu": "Muela CIlíndrica",
+            "ro": "Muela CIlíndrica"
+          },
+          "coords": [
+            0.126172,
+            42.037707
+          ],
+          "category": "historical",
+          "arrive_at": "11:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "en": "Inspect this intriguing cylindrical millstone monument that highlights traditional regional agriculture; look closely at its weathered stone textures.",
+            "de": "Inspizieren Sie dieses faszinierende zylindrische Mühlstein-Denkmal, das die traditionelle Landwirtschaft der Region hervorhebt, und achten Sie auf die Steinstrukturen.",
+            "hu": "Vizsgálja meg ezt az érdekes hengeres malomkő-emlékművet, amely a hagyományos regionális mezőgazdaságot emeli ki; nézze meg alaposan a kopott kőtextúrákat.",
+            "ro": "Inspectați acest monument intrigant al unei pietre de moară cilindrice care evidențiază agricultura regională; priviți de aproape texturile de piatră erodată."
+          }
+        },
+        {
+          "name": {
+            "en": "Iglesia de San Francisco",
+            "de": "Iglesia de San Francisco",
+            "hu": "Iglesia de San Francisco",
+            "ro": "Iglesia de San Francisco"
+          },
+          "coords": [
+            0.127292,
+            42.03794
+          ],
+          "category": "religious",
+          "arrive_at": "12:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "en": "Step into this peaceful church to discover its elegant architectural details and serene ambiance, pausing a moment in the quiet nave for reflection.",
+            "de": "Treten Sie in diese friedliche Kirche ein, um ihre eleganten architektonischen Details zu entdecken, und halten Sie im ruhigen Kirchenschiff für einen Moment inne.",
+            "hu": "Lépjen be ebbe a békés templomba, hogy felfedezze elegáns építészeti részleteit, és tartson egy rövid pihenőt a csendes főhajóban a feltöltődéshez.",
+            "ro": "Pășiți în această biserică liniștită pentru a descoperi detaliile sale arhitecturale elegante, făcând o pauză în naosul tăcut pentru un moment de reflecție."
+          }
+        },
+        {
+          "name": {
+            "en": "Parque del Calvario",
+            "de": "Parque del Calvario",
+            "hu": "Parque del Calvario",
+            "ro": "Parque del Calvario"
+          },
+          "coords": [
+            0.125168,
+            42.039772
+          ],
+          "category": "landmark",
+          "arrive_at": "13:07",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "en": "Stroll along the shaded paths of this elevated park for excellent views over Barbastro, making sure to wear comfortable walking shoes for the slight incline.",
+            "de": "Spazieren Sie auf den schattigen Wegen dieses höher gelegenen Parks für hervorragende Ausblicke über Barbastro; tragen Sie bequeme Schuhe für die leichte Steigung.",
+            "hu": "Sétáljon végig ennek a magasabban fekvő parknak az árnyékos ösvényein, ahonnan kiváló kilátás nyílik Barbastróra, és mindenképpen viseljen kényelmes cipőt.",
+            "ro": "Plimbați-vă pe aleile umbrite ale acestui parc înalt pentru vederi excelente asupra orașului Barbastro, asigurându-vă că purtați încălțăminte confortabilă."
+          }
+        },
+        {
+          "name": {
+            "en": "Coso de Barbastro",
+            "de": "Coso de Barbastro",
+            "hu": "Coso de Barbastro",
+            "ro": "Coso de Barbastro"
+          },
+          "coords": [
+            0.122922,
+            42.035614
+          ],
+          "category": "landmark",
+          "arrive_at": "13:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "en": "Walk down this prominent avenue, originally a medieval moat, which now serves as a bustling hub where locals gather; check out the nearby historical plaques.",
+            "de": "Spazieren Sie diese markante Allee hinunter, die ursprünglich ein mittelalterlicher Burggraben war und nun als lebhafter Treffpunkt dient; beachten Sie die Plaketten.",
+            "hu": "Sétáljon végig ezen a kiemelkedő sugárúton, amely egykor középkori várárok volt, most pedig nyüzsgő találkozóhely; nézze meg a közeli történelmi táblákat.",
+            "ro": "Plimbați-vă pe acest bulevard proeminent, inițial un șanț medieval, acum un centru plin de viață unde se adună localnicii; citiți plăcile istorice din apropiere."
+          }
+        },
+        {
+          "name": {
+            "en": "Iglesia de San Julián",
+            "de": "Iglesia de San Julián",
+            "hu": "Iglesia de San Julián",
+            "ro": "Iglesia de San Julián"
+          },
+          "coords": [
+            0.120246,
+            42.034108
+          ],
+          "category": "religious",
+          "arrive_at": "14:10",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "en": "Visit this historic church known for its distinctive features and deep community roots, paying special attention to the beautifully crafted entrance portal.",
+            "de": "Besuchen Sie diese historische Kirche, die für ihre markanten Merkmale bekannt ist, und achten Sie besonders auf das wunderschön gearbeitete Eingangsportal.",
+            "hu": "Látogasson el ebbe a jellegzetes vonásairól és mély közösségi gyökereiről ismert történelmi templomba, különös figyelmet fordítva a gyönyörű bejárati portálra.",
+            "ro": "Vizitați această biserică istorică cunoscută pentru caracteristicile sale distinctive, acordând o atenție deosebită portalului de intrare frumos realizat."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Start your Barbastro journey exploring the historic city center, taking in the grand Renaissance details of the town hall. The early hours are best to observe the town awakening at the bustling Plaza del Mercado.\nBy midday, dive deeper into the city's rich heritage with visits to ancient monuments like the Muela CIlíndrica. Allow the quiet atmosphere of the local churches to offer a peaceful respite from the midday sun.\nIn the afternoon, head towards the town's charming parks, where the elevated viewpoints at Parque del Calvario provide excellent photo opportunities. Enjoy the historical context of the medieval avenues and archways.\nAs evening approaches, wind down your excursion with a relaxing stroll in Parque Municipal La Paz. The soothing ambiance and natural surroundings create a perfect finale to a delightful day exploring Barbastro.",
+        "de": "Beginnen Sie Ihre Reise in Barbastro mit der Erkundung des historischen Zentrums und der Renaissance-Details des Rathauses. Die frühen Stunden sind ideal, um das Erwachen der Stadt an der belebten Plaza del Mercado zu beobachten.\nMittags tauchen Sie tiefer in das reiche Erbe der Stadt ein und besuchen Denkmäler wie die Muela CIlíndrica. Die ruhige Atmosphäre der Kirchen bietet eine angenehme Erholung von der Mittagssonne.\nAm Nachmittag locken die charmanten Parks der Stadt. Die Aussichtspunkte im Parque del Calvario bieten hervorragende Fotomotive, während Sie den Kontext der mittelalterlichen Gassen und Bögen genießen.\nGegen Abend können Sie Ihren Ausflug mit einem entspannten Spaziergang im Parque Municipal La Paz ausklingen lassen. Das beruhigende Ambiente bildet den perfekten Abschluss für einen wunderbaren Tag in Barbastro.",
+        "hu": "Kezdje a barbastrói utazást a történelmi központ felfedezésével és a városháza reneszánsz részleteinek megcsodálásával. A kora reggeli órák a legjobbak a város ébredésének megfigyelésére a nyüzsgő Plaza del Mercadón.\nDélben merüljön el mélyebben a város gazdag örökségében olyan ősi műemlékek felkeresésével, mint a Muela CIlíndrica. A helyi templomok csendes légköre békés felüdülést kínál a déli napsütés elől.\nDélután induljon a város bájos parkjai felé, ahol a Parque del Calvario magaslati kilátói kiváló fotózási lehetőségeket kínálnak. Élvezze a középkori sugárutak és boltívek történelmi hangulatát.\nAz este közeledtével zárja kirándulását egy pihentető sétával a Parque Municipal La Paz zöldjében. A nyugtató környezet és a természetes közeg tökéletes befejezése egy csodálatos barbastrói napnak.",
+        "ro": "Începeți călătoria în Barbastro explorând centrul istoric și detaliile renascentiste ale primăriei. Orele dimineții sunt ideale pentru a observa trezirea orașului la viață în aglomerata Plaza del Mercado.\nLa prânz, aprofundați patrimoniul bogat al orașului vizitând monumente antice precum Muela CIlíndrica. Atmosfera liniștită a bisericilor locale oferă un răgaz pașnic de la soarele amiezii.\nDupă-amiaza, îndreptați-vă spre parcurile fermecătoare, unde punctele de belvedere de la Parque del Calvario oferă oportunități foto excelente. Bucurați-vă de contextul istoric al bulevardelor și arcadelor medievale.\nPe măsură ce se apropie seara, încheiați-vă excursia cu o plimbare relaxantă în Parque Municipal La Paz. Ambianța liniștitoare și cadrul natural creează un final perfect pentru o zi încântătoare în Barbastro."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:48",
+      "total_km": 2.45,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "en": "Iglesia de San Julián",
+            "de": "Iglesia de San Julián",
+            "hu": "Iglesia de San Julián",
+            "ro": "Iglesia de San Julián"
+          },
+          "coords": [
+            0.120246,
+            42.034108
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Visit this historic church known for its distinctive features and deep community roots, paying special attention to the beautifully crafted entrance portal.",
+            "de": "Besuchen Sie diese historische Kirche, die für ihre markanten Merkmale bekannt ist, und achten Sie besonders auf das wunderschön gearbeitete Eingangsportal.",
+            "hu": "Látogasson el ebbe a jellegzetes vonásairól és mély közösségi gyökereiről ismert történelmi templomba, különös figyelmet fordítva a gyönyörű bejárati portálra.",
+            "ro": "Vizitați această biserică istorică cunoscută pentru caracteristicile sale distinctive, acordând o atenție deosebită portalului de intrare frumos realizat."
+          }
+        },
+        {
+          "name": {
+            "en": "Coso de Barbastro",
+            "de": "Coso de Barbastro",
+            "hu": "Coso de Barbastro",
+            "ro": "Coso de Barbastro"
+          },
+          "coords": [
+            0.122922,
+            42.035614
+          ],
+          "category": "landmark",
+          "arrive_at": "09:52",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "en": "Walk down this prominent avenue, originally a medieval moat, which now serves as a bustling hub where locals gather; check out the nearby historical plaques.",
+            "de": "Spazieren Sie diese markante Allee hinunter, die ursprünglich ein mittelalterlicher Burggraben war und nun als lebhafter Treffpunkt dient; beachten Sie die Plaketten.",
+            "hu": "Sétáljon végig ezen a kiemelkedő sugárúton, amely egykor középkori várárok volt, most pedig nyüzsgő találkozóhely; nézze meg a közeli történelmi táblákat.",
+            "ro": "Plimbați-vă pe acest bulevard proeminent, inițial un șanț medieval, acum un centru plin de viață unde se adună localnicii; citiți plăcile istorice din apropiere."
+          }
+        },
+        {
+          "name": {
+            "en": "Plaza del Mercado",
+            "de": "Plaza del Mercado",
+            "hu": "Plaza del Mercado",
+            "ro": "Plaza del Mercado"
+          },
+          "coords": [
+            0.125359,
+            42.036513
+          ],
+          "category": "landmark",
+          "arrive_at": "10:18",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "en": "Experience the lively local atmosphere at this central market square, a perfect place to observe daily life while grabbing a quick coffee nearby.",
+            "de": "Erleben Sie die lebhafte lokale Atmosphäre an diesem zentralen Marktplatz, ein idealer Ort, um das tägliche Leben bei einem schnellen Kaffee zu beobachten.",
+            "hu": "Tapasztalja meg az élénk helyi hangulatot ezen a központi piactéren, amely tökéletes hely a mindennapi élet megfigyelésére egy gyors kávé mellett.",
+            "ro": "Experimentați atmosfera locală plină de viață în această piață centrală, un loc perfect pentru a observa viața de zi cu zi savurând o cafea rapidă."
+          }
+        },
+        {
+          "name": {
+            "en": "Parque Olearum",
+            "de": "Parque Olearum",
+            "hu": "Parque Olearum",
+            "ro": "Parque Olearum"
+          },
+          "coords": [
+            0.126387,
+            42.041469
+          ],
+          "category": "landmark",
+          "arrive_at": "10:46",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "en": "Relax in this charming park dedicated to the region's olive oil heritage, a fantastic spot to learn about local culture while enjoying a midday picnic.",
+            "de": "Entspannen Sie in diesem charmanten Park, der dem Olivenöl-Erbe der Region gewidmet ist, ein fantastischer Ort, um bei einem Picknick etwas über die Kultur zu lernen.",
+            "hu": "Pihenjen ebben a bájos parkban, amelyet a régió olívaolaj-örökségének szenteltek, amely fantasztikus hely a helyi kultúra megismerésére egy piknik során.",
+            "ro": "Relaxați-vă în acest parc fermecător dedicat patrimoniului uleiului de măsline, un loc fantastic pentru a învăța despre cultura locală la un picnic de prânz."
+          }
+        },
+        {
+          "name": {
+            "en": "Parque del Calvario",
+            "de": "Parque del Calvario",
+            "hu": "Parque del Calvario",
+            "ro": "Parque del Calvario"
+          },
+          "coords": [
+            0.125168,
+            42.039772
+          ],
+          "category": "landmark",
+          "arrive_at": "11:12",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "en": "Stroll along the shaded paths of this elevated park for excellent views over Barbastro, making sure to wear comfortable walking shoes for the slight incline.",
+            "de": "Spazieren Sie auf den schattigen Wegen dieses höher gelegenen Parks für hervorragende Ausblicke über Barbastro; tragen Sie bequeme Schuhe für die leichte Steigung.",
+            "hu": "Sétáljon végig ennek a magasabban fekvő parknak az árnyékos ösvényein, ahonnan kiváló kilátás nyílik Barbastróra, és mindenképpen viseljen kényelmes cipőt.",
+            "ro": "Plimbați-vă pe aleile umbrite ale acestui parc înalt pentru vederi excelente asupra orașului Barbastro, asigurându-vă că purtați încălțăminte confortabilă."
+          }
+        },
+        {
+          "name": {
+            "en": "Arco de Piedra",
+            "de": "Arco de Piedra",
+            "hu": "Arco de Piedra",
+            "ro": "Arco de Piedra"
+          },
+          "coords": [
+            0.134854,
+            42.033824
+          ],
+          "category": "historical",
+          "arrive_at": "11:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "en": "Admire this robust stone arch that once formed part of the city's defenses, an impressive remnant perfect for a quick historical photo opportunity.",
+            "de": "Bewundern Sie diesen robusten Steinbogen, der einst Teil der Stadtverteidigung war, ein beeindruckendes Überbleibsel und perfekt für ein historisches Foto.",
+            "hu": "Csodálja meg ezt a robusztus kőívet, amely egykor a város védelmének része volt, ez a lenyűgöző maradvány tökéletes egy gyors történelmi fotózkodáshoz.",
+            "ro": "Admirați acest arc de piatră robust care făcea odată parte din apărarea orașului, o rămășiță impresionantă perfectă pentru o oportunitate rapidă de fotografie."
+          }
+        },
+        {
+          "name": {
+            "en": "Parque Municipal La Paz",
+            "de": "Parque Municipal La Paz",
+            "hu": "Parque Municipal La Paz",
+            "ro": "Parque Municipal La Paz"
+          },
+          "coords": [
+            0.134466,
+            42.034888
+          ],
+          "category": "park",
+          "arrive_at": "13:03",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "en": "Unwind in this expansive green lung of the city, which offers well-kept lawns and large trees, ideal for letting children play or taking a peaceful stroll.",
+            "de": "Entspannen Sie in dieser weitläufigen grünen Lunge der Stadt mit gepflegten Rasenflächen und großen Bäumen, ideal, um Kinder spielen zu lassen oder zu flanieren.",
+            "hu": "Kapcsolódjon ki a város ezen hatalmas zöld tüdejében, amely gondozott pázsittal és nagy fákkal rendelkezik, ideális a gyerekek játékához vagy egy békés sétához.",
+            "ro": "Relaxați-vă în acest plămân verde al orașului, care oferă peluze bine îngrijite și copaci mari, ideal pentru a lăsa copiii să se joace sau pentru o plimbare liniștită."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Start your Barbastro journey exploring the historic city center, taking in the grand Renaissance details of the town hall. The early hours are best to observe the town awakening at the bustling Plaza del Mercado.\nBy midday, dive deeper into the city's rich heritage with visits to ancient monuments like the Muela CIlíndrica. Allow the quiet atmosphere of the local churches to offer a peaceful respite from the midday sun.\nIn the afternoon, head towards the town's charming parks, where the elevated viewpoints at Parque del Calvario provide excellent photo opportunities. Enjoy the historical context of the medieval avenues and archways.\nAs evening approaches, wind down your excursion with a relaxing stroll in Parque Municipal La Paz. The soothing ambiance and natural surroundings create a perfect finale to a delightful day exploring Barbastro.",
+        "de": "Beginnen Sie Ihre Reise in Barbastro mit der Erkundung des historischen Zentrums und der Renaissance-Details des Rathauses. Die frühen Stunden sind ideal, um das Erwachen der Stadt an der belebten Plaza del Mercado zu beobachten.\nMittags tauchen Sie tiefer in das reiche Erbe der Stadt ein und besuchen Denkmäler wie die Muela CIlíndrica. Die ruhige Atmosphäre der Kirchen bietet eine angenehme Erholung von der Mittagssonne.\nAm Nachmittag locken die charmanten Parks der Stadt. Die Aussichtspunkte im Parque del Calvario bieten hervorragende Fotomotive, während Sie den Kontext der mittelalterlichen Gassen und Bögen genießen.\nGegen Abend können Sie Ihren Ausflug mit einem entspannten Spaziergang im Parque Municipal La Paz ausklingen lassen. Das beruhigende Ambiente bildet den perfekten Abschluss für einen wunderbaren Tag in Barbastro.",
+        "hu": "Kezdje a barbastrói utazást a történelmi központ felfedezésével és a városháza reneszánsz részleteinek megcsodálásával. A kora reggeli órák a legjobbak a város ébredésének megfigyelésére a nyüzsgő Plaza del Mercadón.\nDélben merüljön el mélyebben a város gazdag örökségében olyan ősi műemlékek felkeresésével, mint a Muela CIlíndrica. A helyi templomok csendes légköre békés felüdülést kínál a déli napsütés elől.\nDélután induljon a város bájos parkjai felé, ahol a Parque del Calvario magaslati kilátói kiváló fotózási lehetőségeket kínálnak. Élvezze a középkori sugárutak és boltívek történelmi hangulatát.\nAz este közeledtével zárja kirándulását egy pihentető sétával a Parque Municipal La Paz zöldjében. A nyugtató környezet és a természetes közeg tökéletes befejezése egy csodálatos barbastrói napnak.",
+        "ro": "Începeți călătoria în Barbastro explorând centrul istoric și detaliile renascentiste ale primăriei. Orele dimineții sunt ideale pentru a observa trezirea orașului la viață în aglomerata Plaza del Mercado.\nLa prânz, aprofundați patrimoniul bogat al orașului vizitând monumente antice precum Muela CIlíndrica. Atmosfera liniștită a bisericilor locale oferă un răgaz pașnic de la soarele amiezii.\nDupă-amiaza, îndreptați-vă spre parcurile fermecătoare, unde punctele de belvedere de la Parque del Calvario oferă oportunități foto excelente. Bucurați-vă de contextul istoric al bulevardelor și arcadelor medievale.\nPe măsură ce se apropie seara, încheiați-vă excursia cu o plimbare relaxantă în Parque Municipal La Paz. Ambianța liniștitoare și cadrul natural creează un final perfect pentru o zi încântătoare în Barbastro."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:22",
+      "total_km": 5.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "en": "Granja Aventura",
+            "de": "Granja Aventura",
+            "hu": "Granja Aventura",
+            "ro": "Granja Aventura"
+          },
+          "coords": [
+            0.093227,
+            42.039778
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "en": "Start your adventure at this engaging recreational farm that offers interactive animal encounters, making it an absolute must-visit destination for families with kids.",
+            "de": "Beginnen Sie Ihr Abenteuer auf diesem Freizeitbauernhof mit interaktiven Tierbegegnungen, was ihn zu einem absoluten Muss für Familien mit Kindern macht.",
+            "hu": "Kezdje kalandját ezen a vonzó szabadidős farmon, amely interaktív állatos találkozásokat kínál, így a gyermekes családok számára feltétlenül kötelező úti cél.",
+            "ro": "Începeți aventura la această fermă de agrement captivantă care oferă interacțiuni cu animalele, fiind o destinație absolut obligatorie pentru familiile cu copii."
+          }
+        },
+        {
+          "name": {
+            "en": "Iglesia de San Julián",
+            "de": "Iglesia de San Julián",
+            "hu": "Iglesia de San Julián",
+            "ro": "Iglesia de San Julián"
+          },
+          "coords": [
+            0.120246,
+            42.034108
+          ],
+          "category": "religious",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "en": "Visit this historic church known for its distinctive features and deep community roots, paying special attention to the beautifully crafted entrance portal.",
+            "de": "Besuchen Sie diese historische Kirche, die für ihre markanten Merkmale bekannt ist, und achten Sie besonders auf das wunderschön gearbeitete Eingangsportal.",
+            "hu": "Látogasson el ebbe a jellegzetes vonásairól és mély közösségi gyökereiről ismert történelmi templomba, különös figyelmet fordítva a gyönyörű bejárati portálra.",
+            "ro": "Vizitați această biserică istorică cunoscută pentru caracteristicile sale distinctive, acordând o atenție deosebită portalului de intrare frumos realizat."
+          }
+        },
+        {
+          "name": {
+            "en": "Ayuntamiento de Barbastro",
+            "de": "Ayuntamiento de Barbastro",
+            "hu": "Ayuntamiento de Barbastro",
+            "ro": "Ayuntamiento de Barbastro"
+          },
+          "coords": [
+            0.123359,
+            42.03692
+          ],
+          "category": "historical",
+          "arrive_at": "11:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "en": "Admire the beautiful Renaissance facade of the town hall, which stands as a proud symbol of the city's rich history, and snap photos in the morning light.",
+            "de": "Bewundern Sie die schöne Renaissance-Fassade des Rathauses, die ein stolzes Symbol der Geschichte der Stadt ist, und machen Sie Fotos im Morgenlicht.",
+            "hu": "Csodálja meg a városháza gyönyörű reneszánsz homlokzatát, amely a város gazdag történelmének büszke szimbóluma, és készítsen fotókat a reggeli fényben.",
+            "ro": "Admirați frumoasa fațadă renascentistă a primăriei, un simbol mândru al istoriei bogate a orașului, și faceți fotografii în lumina caldă a dimineții."
+          }
+        },
+        {
+          "name": {
+            "en": "Parque del Calvario",
+            "de": "Parque del Calvario",
+            "hu": "Parque del Calvario",
+            "ro": "Parque del Calvario"
+          },
+          "coords": [
+            0.125168,
+            42.039772
+          ],
+          "category": "landmark",
+          "arrive_at": "12:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "en": "Stroll along the shaded paths of this elevated park for excellent views over Barbastro, making sure to wear comfortable walking shoes for the slight incline.",
+            "de": "Spazieren Sie auf den schattigen Wegen dieses höher gelegenen Parks für hervorragende Ausblicke über Barbastro; tragen Sie bequeme Schuhe für die leichte Steigung.",
+            "hu": "Sétáljon végig ennek a magasabban fekvő parknak az árnyékos ösvényein, ahonnan kiváló kilátás nyílik Barbastróra, és mindenképpen viseljen kényelmes cipőt.",
+            "ro": "Plimbați-vă pe aleile umbrite ale acestui parc înalt pentru vederi excelente asupra orașului Barbastro, asigurându-vă că purtați încălțăminte confortabilă."
+          }
+        },
+        {
+          "name": {
+            "en": "Monumento al Alcalde Rafael Fernández de Vega y Frago",
+            "de": "Monumento al Alcalde Rafael Fernández de Vega y Frago",
+            "hu": "Monumento al Alcalde Rafael Fernández de Vega y Frago",
+            "ro": "Monumento al Alcalde Rafael Fernández de Vega y Frago"
+          },
+          "coords": [
+            0.134359,
+            42.036265
+          ],
+          "category": "historical",
+          "arrive_at": "13:03",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "en": "Take a moment at this dignified monument honoring a notable former mayor, providing insight into the civic pride and 20th-century political history of Barbastro.",
+            "de": "Halten Sie einen Moment an diesem würdigen Denkmal für einen bemerkenswerten ehemaligen Bürgermeister, das Einblicke in den Stolz und die Geschichte von Barbastro bietet.",
+            "hu": "Töltsön el egy percet ennél a figyelemre méltó volt polgármestert tisztelő, méltóságteljes emlékműnél, amely betekintést nyújt Barbastro 20. századi történelmébe.",
+            "ro": "Luați-vă un moment la acest monument demn care onorează un fost primar notabil, oferind o perspectivă asupra istoriei politice din secolul XX a orașului Barbastro."
+          }
+        },
+        {
+          "name": {
+            "en": "Parque Municipal La Paz",
+            "de": "Parque Municipal La Paz",
+            "hu": "Parque Municipal La Paz",
+            "ro": "Parque Municipal La Paz"
+          },
+          "coords": [
+            0.134466,
+            42.034888
+          ],
+          "category": "park",
+          "arrive_at": "13:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "en": "Unwind in this expansive green lung of the city, which offers well-kept lawns and large trees, ideal for letting children play or taking a peaceful stroll.",
+            "de": "Entspannen Sie in dieser weitläufigen grünen Lunge der Stadt mit gepflegten Rasenflächen und großen Bäumen, ideal, um Kinder spielen zu lassen oder zu flanieren.",
+            "hu": "Kapcsolódjon ki a város ezen hatalmas zöld tüdejében, amely gondozott pázsittal és nagy fákkal rendelkezik, ideális a gyerekek játékához vagy egy békés sétához.",
+            "ro": "Relaxați-vă în acest plămân verde al orașului, care oferă peluze bine îngrijite și copaci mari, ideal pentru a lăsa copiii să se joace sau pentru o plimbare liniștită."
+          }
+        },
+        {
+          "name": {
+            "en": "Zoológico Iris",
+            "de": "Zoológico Iris",
+            "hu": "Zoológico Iris",
+            "ro": "Zoológico Iris"
+          },
+          "coords": [
+            0.142563,
+            42.040484
+          ],
+          "category": "recreational",
+          "arrive_at": "14:37",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "en": "Conclude your trip at this small but charming zoo, where a variety of well-cared-for animals await, making it an engaging and relaxing final stop for the day.",
+            "de": "Beenden Sie Ihren Ausflug in diesem kleinen, aber feinen Zoo, in dem eine Vielzahl gut gepflegter Tiere warten, was ihn zu einem entspannenden letzten Halt macht.",
+            "hu": "Fejezze be utazását ebben a kicsi, de bájos állatkertben, ahol különféle jól gondozott állatok várják, így ez egy vonzó és pihentető utolsó állomás a nap folyamán.",
+            "ro": "Încheiați-vă călătoria la această mică, dar fermecătoare grădină zoologică, unde vă așteaptă o varietate de animale bine îngrijite, o oprire finală relaxantă."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Start your Barbastro journey exploring the historic city center, taking in the grand Renaissance details of the town hall. The early hours are best to observe the town awakening at the bustling Plaza del Mercado.\nBy midday, dive deeper into the city's rich heritage with visits to ancient monuments like the Muela CIlíndrica. Allow the quiet atmosphere of the local churches to offer a peaceful respite from the midday sun.\nIn the afternoon, head towards the town's charming parks, where the elevated viewpoints at Parque del Calvario provide excellent photo opportunities. Enjoy the historical context of the medieval avenues and archways.\nAs evening approaches, wind down your excursion with a relaxing stroll in Parque Municipal La Paz. The soothing ambiance and natural surroundings create a perfect finale to a delightful day exploring Barbastro.",
+        "de": "Beginnen Sie Ihre Reise in Barbastro mit der Erkundung des historischen Zentrums und der Renaissance-Details des Rathauses. Die frühen Stunden sind ideal, um das Erwachen der Stadt an der belebten Plaza del Mercado zu beobachten.\nMittags tauchen Sie tiefer in das reiche Erbe der Stadt ein und besuchen Denkmäler wie die Muela CIlíndrica. Die ruhige Atmosphäre der Kirchen bietet eine angenehme Erholung von der Mittagssonne.\nAm Nachmittag locken die charmanten Parks der Stadt. Die Aussichtspunkte im Parque del Calvario bieten hervorragende Fotomotive, während Sie den Kontext der mittelalterlichen Gassen und Bögen genießen.\nGegen Abend können Sie Ihren Ausflug mit einem entspannten Spaziergang im Parque Municipal La Paz ausklingen lassen. Das beruhigende Ambiente bildet den perfekten Abschluss für einen wunderbaren Tag in Barbastro.",
+        "hu": "Kezdje a barbastrói utazást a történelmi központ felfedezésével és a városháza reneszánsz részleteinek megcsodálásával. A kora reggeli órák a legjobbak a város ébredésének megfigyelésére a nyüzsgő Plaza del Mercadón.\nDélben merüljön el mélyebben a város gazdag örökségében olyan ősi műemlékek felkeresésével, mint a Muela CIlíndrica. A helyi templomok csendes légköre békés felüdülést kínál a déli napsütés elől.\nDélután induljon a város bájos parkjai felé, ahol a Parque del Calvario magaslati kilátói kiváló fotózási lehetőségeket kínálnak. Élvezze a középkori sugárutak és boltívek történelmi hangulatát.\nAz este közeledtével zárja kirándulását egy pihentető sétával a Parque Municipal La Paz zöldjében. A nyugtató környezet és a természetes közeg tökéletes befejezése egy csodálatos barbastrói napnak.",
+        "ro": "Începeți călătoria în Barbastro explorând centrul istoric și detaliile renascentiste ale primăriei. Orele dimineții sunt ideale pentru a observa trezirea orașului la viață în aglomerata Plaza del Mercado.\nLa prânz, aprofundați patrimoniul bogat al orașului vizitând monumente antice precum Muela CIlíndrica. Atmosfera liniștită a bisericilor locale oferă un răgaz pașnic de la soarele amiezii.\nDupă-amiaza, îndreptați-vă spre parcurile fermecătoare, unde punctele de belvedere de la Parque del Calvario oferă oportunități foto excelente. Bucurați-vă de contextul istoric al bulevardelor și arcadelor medievale.\nPe măsură ce se apropie seara, încheiați-vă excursia cu o plimbare relaxantă în Parque Municipal La Paz. Ambianța liniștitoare și cadrul natural creează un final perfect pentru o zi încântătoare în Barbastro."
+      }
+    }
+  }
+}

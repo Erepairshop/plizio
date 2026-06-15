@@ -1,0 +1,474 @@
+{
+  "city_id": "penmarch",
+  "anchor": {
+    "name": "Penmarch",
+    "coords": [
+      -4.3378,
+      47.8122
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 4.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Nonna",
+            "hu": "Saint-Nonna templom",
+            "ro": "Biserica Saint-Nonna",
+            "en": "Saint-Nonna Church"
+          },
+          "coords": [
+            -4.338575,
+            47.812012
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante spätgotische Architektur dieser historischen Kirche und betrachten Sie die feinen Schnitzereien, bevor Sie den Gottesdienst besuchen.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a lenyűgöző késő gótikus építészetét és finom faragványait, mielőtt részt venne egy csendes reggeli istentiszteleten.",
+            "ro": "Admirați arhitectura gotică flamboaiantă izbitoare a acestei biserici istorice și examinați sculpturile complicate înainte de a participa la o slujbă liniștită.",
+            "en": "Admire the striking Flamboyant Gothic architecture of this historic church and examine its intricate carvings before attending a quiet morning service."
+          }
+        },
+        {
+          "name": {
+            "de": "Landspitze Pointe de Penmarc'h",
+            "hu": "Penmarc'h-fok",
+            "ro": "Promontoriul Penmarc'h",
+            "en": "Penmarc'h Point"
+          },
+          "coords": [
+            -4.337778,
+            47.812222
+          ],
+          "category": "natural",
+          "arrive_at": "09:52",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Panoramablick auf die raue bretonische Küste von dieser natürlichen Landspitze und bringen Sie eine Windjacke gegen die starke Meeresbrise mit.",
+            "hu": "Élvezze a zord breton partvonalra nyíló széles panorámát erről a természetes hegyfokról, és ne felejtsen el széldzsekit hozni az erős tengeri szél ellen.",
+            "ro": "Bucurați-vă de vederea panoramică vastă asupra coastei bretone accidentate de pe acest promontoriu natural, aducând o jachetă împotriva vântului puternic.",
+            "en": "Take in the sweeping panoramic views of the rugged Breton coastline from this natural headland, making sure to bring a windbreaker against the strong sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Kinderspielplatz",
+            "hu": "Gyermekjátszótér",
+            "ro": "Loc de joacă pentru copii",
+            "en": "Jeux Enfants"
+          },
+          "coords": [
+            -4.372935,
+            47.811776
+          ],
+          "category": "family",
+          "arrive_at": "10:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 39,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder auf den modernen Spielgeräten in diesem sicheren Bereich Energie abbauen, während Sie sich auf den Bänken mit einem lokalen Gebäck entspannen.",
+            "hu": "Hagyja, hogy a gyerekek levezessék energiájukat a modern játszótéri eszközökön ezen a biztonságos területen, miközben ön egy friss helyi péksüteménnyel pihen a padokon.",
+            "ro": "Lăsați copiii să-și consume energia pe structurile moderne de joacă din această zonă sigură, în timp ce vă relaxați pe băncile din apropiere cu o patiserie locală.",
+            "en": "Let the kids burn off energy on the modern playground structures in this safe, open area, while you relax on the nearby benches with a fresh local pastry."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare d'Eckmühl",
+            "hu": "Eckmühl világítótorony",
+            "ro": "Farul Eckmühl",
+            "en": "Eckmühl Lighthouse"
+          },
+          "coords": [
+            -4.37277,
+            47.7982
+          ],
+          "category": "historical",
+          "arrive_at": "12:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die 307 Stufen dieses prächtigen Granitleuchtturms aus dem 19. Jahrhundert für atemberaubende Ausblicke, aber kommen Sie früh, um Warteschlangen zu vermeiden.",
+            "hu": "Mássza meg ennek a csodálatos 19. századi gránit világítótoronynak a 307 lépcsőfokát a lélegzetelállító kilátásért, de érkezzen korán, hogy elkerülje a nyári sorban állást.",
+            "ro": "Urcați cele 307 de trepte ale acestui magnific far de granit din secolul al XIX-lea pentru priveliști uluitoare, dar ajungeți devreme pentru a evita cozile lungi de vară.",
+            "en": "Climb the 307 steps of this magnificent 19th-century granite lighthouse for breathtaking coastal vistas, but arrive early in the day to avoid the long summer queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Leuchtturm von Penmarc'h",
+            "hu": "Régi Penmarc'h világítótorony",
+            "ro": "Vechiul far Penmarc'h",
+            "en": "Old Penmarc'h Lighthouse"
+          },
+          "coords": [
+            -4.37417,
+            47.7978
+          ],
+          "category": "historical",
+          "arrive_at": "13:55",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie den historischen Vorgänger von Eckmühl, der heute als faszinierendes maritimes Ausstellungszentrum dient, und prüfen Sie vorab die saisonalen Öffnungszeiten.",
+            "hu": "Fedezze fel Eckmühl történelmi elődjét, amely ma lenyűgöző tengerészeti kiállítási központként működik, és látogatás előtt feltétlenül ellenőrizze a szezonális nyitvatartást.",
+            "ro": "Explorați predecesorul istoric al farului Eckmühl, care servește acum ca un fascinant centru expozițional maritim, verificând programul sezonier înainte de vizită.",
+            "en": "Explore the historic predecessor to Eckmühl which now serves as a fascinating maritime exhibition center, checking their seasonal opening hours before your visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem Spaziergang im Zentrum und bewundern Sie die Kirche.\n\nDie frische Brise an der Küste belebt am Vormittag.\n\nMittags gibt es Spielspaß für die Familie.\n\nDer Nachmittag steht im Zeichen der mächtigen Leuchttürme. Ein maritimer Abschluss am alten Turm beendet die Tour.",
+        "hu": "Kezdje a napot a történelmi központban tett sétával és a templom megtekintésével.\n\nA friss parti szél felfrissíti az érzékeket a délelőtt folyamán.\n\nDélben a gyerekek játszhatnak egy nagyot a parkban.\n\nA délután a hatalmas világítótornyok jegyében telik, tengerészeti kiállítással zárva a túrát.",
+        "ro": "Începeți ziua cu o plimbare în centrul istoric și admirați biserica.\n\nBriza proaspătă de pe coastă vă revigorează simțurile dimineața.\n\nLa prânz, familia se poate bucura de un loc de joacă.\n\nDupă-amiaza este dedicată farurilor impunătoare, turul încheindu-se la vechiul turn maritim.",
+        "en": "Start your day strolling through the historic center and admiring the local church.\n\nThe coastal breeze invigorates the senses along the rugged point.\n\nBy midday, a fun playground break awaits the family.\n\nSpend your afternoon marveling at the towering lighthouses, finishing at the maritime museum."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:38",
+      "total_km": 11.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Magdalenenkapelle",
+            "hu": "Madeleine-kápolna",
+            "ro": "Capela Madeleine",
+            "en": "Madeleine Chapel"
+          },
+          "coords": [
+            -4.322975,
+            47.82543
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die friedliche Schönheit dieser alten, in der Landschaft versteckten Steinkapelle und bringen Sie Ihre Kamera für die bunten Fenster mit.",
+            "hu": "Fedezze fel ennek az ősi kőkápolnának a békés szépségét a breton tájban, és hozza magával fényképezőgépét a gyönyörű ólomüveg ablakok megörökítéséhez.",
+            "ro": "Descoperiți frumusețea senină a acestei vechi capele de piatră ascunsă în peisajul breton, aducând aparatul foto pentru a surprinde vitraliile iluminate.",
+            "en": "Discover the serene beauty of this ancient stone chapel hidden in the Breton landscape, bringing your camera to capture the beautiful stained glass illuminated by the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Nonna",
+            "hu": "Saint-Nonna templom",
+            "ro": "Biserica Saint-Nonna",
+            "en": "Saint-Nonna Church"
+          },
+          "coords": [
+            -4.338575,
+            47.812012
+          ],
+          "category": "religious",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante spätgotische Architektur dieser historischen Kirche und betrachten Sie die feinen Schnitzereien, bevor Sie den Gottesdienst besuchen.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a lenyűgöző késő gótikus építészetét és finom faragványait, mielőtt részt venne egy csendes reggeli istentiszteleten.",
+            "ro": "Admirați arhitectura gotică flamboaiantă izbitoare a acestei biserici istorice și examinați sculpturile complicate înainte de a participa la o slujbă liniștită.",
+            "en": "Admire the striking Flamboyant Gothic architecture of this historic church and examine its intricate carvings before attending a quiet morning service."
+          }
+        },
+        {
+          "name": {
+            "de": "Prähistorisches Museum",
+            "hu": "Őstörténeti Múzeum",
+            "ro": "Muzeul de Preistorie",
+            "en": "Museum of Prehistory"
+          },
+          "coords": [
+            -4.36364,
+            47.8259
+          ],
+          "category": "museum",
+          "arrive_at": "10:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reiche alte Geschichte der Region Finistère anhand umfangreicher Artefakte ein und planen Sie eine Stunde für die Megalith-Ausstellungen ein.",
+            "hu": "Merüljön el Finistère régió gazdag ókori történelmében a kiterjedt régészeti leleteken keresztül, időt szánva a megalitikus kiállítások teljes értékelésére.",
+            "ro": "Pătrundeți în bogata istorie antică a regiunii Finistère prin artefacte arheologice extinse, rezervând timp pentru a aprecia expozițiile megalitice.",
+            "en": "Dive into the rich ancient history of the Finistère region through extensive archaeological artifacts, setting aside at least an hour to fully appreciate the Megalithic exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare d'Eckmühl",
+            "hu": "Eckmühl világítótorony",
+            "ro": "Farul Eckmühl",
+            "en": "Eckmühl Lighthouse"
+          },
+          "coords": [
+            -4.37277,
+            47.7982
+          ],
+          "category": "historical",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die 307 Stufen dieses prächtigen Granitleuchtturms aus dem 19. Jahrhundert für atemberaubende Ausblicke, aber kommen Sie früh, um Warteschlangen zu vermeiden.",
+            "hu": "Mássza meg ennek a csodálatos 19. századi gránit világítótoronynak a 307 lépcsőfokát a lélegzetelállító kilátásért, de érkezzen korán, hogy elkerülje a nyári sorban állást.",
+            "ro": "Urcați cele 307 de trepte ale acestui magnific far de granit din secolul al XIX-lea pentru priveliști uluitoare, dar ajungeți devreme pentru a evita cozile lungi de vară.",
+            "en": "Climb the 307 steps of this magnificent 19th-century granite lighthouse for breathtaking coastal vistas, but arrive early in the day to avoid the long summer queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Leuchtturm von Penmarc'h",
+            "hu": "Régi Penmarc'h világítótorony",
+            "ro": "Vechiul far Penmarc'h",
+            "en": "Old Penmarc'h Lighthouse"
+          },
+          "coords": [
+            -4.37417,
+            47.7978
+          ],
+          "category": "historical",
+          "arrive_at": "14:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie den historischen Vorgänger von Eckmühl, der heute als faszinierendes maritimes Ausstellungszentrum dient, und prüfen Sie vorab die saisonalen Öffnungszeiten.",
+            "hu": "Fedezze fel Eckmühl történelmi elődjét, amely ma lenyűgöző tengerészeti kiállítási központként működik, és látogatás előtt feltétlenül ellenőrizze a szezonális nyitvatartást.",
+            "ro": "Explorați predecesorul istoric al farului Eckmühl, care servește acum ca un fascinant centru expozițional maritim, verificând programul sezonier înainte de vizită.",
+            "en": "Explore the historic predecessor to Eckmühl which now serves as a fascinating maritime exhibition center, checking their seasonal opening hours before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Spielplatz Blaues Boot",
+            "hu": "Kék hajó játszótér",
+            "ro": "Loc de joacă Barca Albastră",
+            "en": "Aire de jeux du bateau bleu"
+          },
+          "coords": [
+            -4.321188,
+            47.799509
+          ],
+          "category": "family",
+          "arrive_at": "15:53",
+          "stay_min": 105,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Genießen Sie eine Familienpause auf diesem nautisch inspirierten Spielplatz am Wasser und packen Sie einen Picknickkorb ein, um die Grünflächen zu nutzen.",
+            "hu": "Élvezze a családi pihenést ezen a tengeri témájú, vízparti játszótéren, és csomagoljon piknikkosarat, hogy a legtöbbet hozza ki a környező zöldterületekből.",
+            "ro": "Bucurați-vă de o pauză în familie la această zonă de joacă cu tematică nautică, împachetând un coș de picnic pentru a profita de spațiile verzi din jur.",
+            "en": "Enjoy a pleasant family break at this nautical-themed play area near the water, packing a picnic basket to make the most of the surrounding green spaces and relaxed vibe."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt an einer friedlichen Kapelle abseits des Trubels.\n\nAm Vormittag radeln Sie ins Zentrum zur imposanten Kirche.\n\nZur Mittagszeit erkunden Sie die prähistorische Geschichte der Region.\n\nNachmittags beeindrucken die Leuchttürme, bevor Sie den Tag an einem Spielplatz ausklingen lassen.",
+        "hu": "Kerékpártúrája egy békés kápolnánál kezdődik, távol a nyüzsgéstől.\n\nDélelőtt a központba teker a lenyűgöző templomhoz.\n\nDélidőben a régió őskori történelmét fedezheti fel.\n\nDélután a világítótornyok nyújtanak lenyűgöző látványt, a napot pedig egy vízparti játszótér közelében zárja.",
+        "ro": "Turul cu bicicleta începe la o capelă liniștită, departe de agitație.\n\nDimineața pedalați spre centru pentru a vedea biserica impunătoare.\n\nLa prânz explorați istoria preistorică a regiunii.\n\nDupă-amiaza farurile vă vor impresiona, ziua încheindu-se la un loc de joacă maritim pitoresc.",
+        "en": "Your cycling tour begins at a peaceful chapel tucked away from the crowds.\n\nMid-morning takes you pedaling into the center to see the striking church.\n\nBy lunchtime, explore the region's rich prehistoric past.\n\nThe afternoon is dominated by majestic lighthouses, ending near a scenic nautical play area."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:23",
+      "total_km": 10.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Spielplatz Blaues Boot",
+            "hu": "Kék hajó játszótér",
+            "ro": "Loc de joacă Barca Albastră",
+            "en": "Aire de jeux du bateau bleu"
+          },
+          "coords": [
+            -4.321188,
+            47.799509
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie eine Familienpause auf diesem nautisch inspirierten Spielplatz am Wasser und packen Sie einen Picknickkorb ein, um die Grünflächen zu nutzen.",
+            "hu": "Élvezze a családi pihenést ezen a tengeri témájú, vízparti játszótéren, és csomagoljon piknikkosarat, hogy a legtöbbet hozza ki a környező zöldterületekből.",
+            "ro": "Bucurați-vă de o pauză în familie la această zonă de joacă cu tematică nautică, împachetând un coș de picnic pentru a profita de spațiile verzi din jur.",
+            "en": "Enjoy a pleasant family break at this nautical-themed play area near the water, packing a picnic basket to make the most of the surrounding green spaces and relaxed vibe."
+          }
+        },
+        {
+          "name": {
+            "de": "Landspitze Pointe de Penmarc'h",
+            "hu": "Penmarc'h-fok",
+            "ro": "Promontoriul Penmarc'h",
+            "en": "Penmarc'h Point"
+          },
+          "coords": [
+            -4.337778,
+            47.812222
+          ],
+          "category": "natural",
+          "arrive_at": "10:29",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Panoramablick auf die raue bretonische Küste von dieser natürlichen Landspitze und bringen Sie eine Windjacke gegen die starke Meeresbrise mit.",
+            "hu": "Élvezze a zord breton partvonalra nyíló széles panorámát erről a természetes hegyfokról, és ne felejtsen el széldzsekit hozni az erős tengeri szél ellen.",
+            "ro": "Bucurați-vă de vederea panoramică vastă asupra coastei bretone accidentate de pe acest promontoriu natural, aducând o jachetă împotriva vântului puternic.",
+            "en": "Take in the sweeping panoramic views of the rugged Breton coastline from this natural headland, making sure to bring a windbreaker against the strong sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Nonna",
+            "hu": "Saint-Nonna templom",
+            "ro": "Biserica Saint-Nonna",
+            "en": "Saint-Nonna Church"
+          },
+          "coords": [
+            -4.338575,
+            47.812012
+          ],
+          "category": "religious",
+          "arrive_at": "10:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante spätgotische Architektur dieser historischen Kirche und betrachten Sie die feinen Schnitzereien, bevor Sie den Gottesdienst besuchen.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a lenyűgöző késő gótikus építészetét és finom faragványait, mielőtt részt venne egy csendes reggeli istentiszteleten.",
+            "ro": "Admirați arhitectura gotică flamboaiantă izbitoare a acestei biserici istorice și examinați sculpturile complicate înainte de a participa la o slujbă liniștită.",
+            "en": "Admire the striking Flamboyant Gothic architecture of this historic church and examine its intricate carvings before attending a quiet morning service."
+          }
+        },
+        {
+          "name": {
+            "de": "Magdalenenkapelle",
+            "hu": "Madeleine-kápolna",
+            "ro": "Capela Madeleine",
+            "en": "Madeleine Chapel"
+          },
+          "coords": [
+            -4.322975,
+            47.82543
+          ],
+          "category": "religious",
+          "arrive_at": "11:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie die friedliche Schönheit dieser alten, in der Landschaft versteckten Steinkapelle und bringen Sie Ihre Kamera für die bunten Fenster mit.",
+            "hu": "Fedezze fel ennek az ősi kőkápolnának a békés szépségét a breton tájban, és hozza magával fényképezőgépét a gyönyörű ólomüveg ablakok megörökítéséhez.",
+            "ro": "Descoperiți frumusețea senină a acestei vechi capele de piatră ascunsă în peisajul breton, aducând aparatul foto pentru a surprinde vitraliile iluminate.",
+            "en": "Discover the serene beauty of this ancient stone chapel hidden in the Breton landscape, bringing your camera to capture the beautiful stained glass illuminated by the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Prähistorisches Museum",
+            "hu": "Őstörténeti Múzeum",
+            "ro": "Muzeul de Preistorie",
+            "en": "Museum of Prehistory"
+          },
+          "coords": [
+            -4.36364,
+            47.8259
+          ],
+          "category": "museum",
+          "arrive_at": "12:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reiche alte Geschichte der Region Finistère anhand umfangreicher Artefakte ein und planen Sie eine Stunde für die Megalith-Ausstellungen ein.",
+            "hu": "Merüljön el Finistère régió gazdag ókori történelmében a kiterjedt régészeti leleteken keresztül, időt szánva a megalitikus kiállítások teljes értékelésére.",
+            "ro": "Pătrundeți în bogata istorie antică a regiunii Finistère prin artefacte arheologice extinse, rezervând timp pentru a aprecia expozițiile megalitice.",
+            "en": "Dive into the rich ancient history of the Finistère region through extensive archaeological artifacts, setting aside at least an hour to fully appreciate the Megalithic exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare d'Eckmühl",
+            "hu": "Eckmühl világítótorony",
+            "ro": "Farul Eckmühl",
+            "en": "Eckmühl Lighthouse"
+          },
+          "coords": [
+            -4.37277,
+            47.7982
+          ],
+          "category": "historical",
+          "arrive_at": "14:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die 307 Stufen dieses prächtigen Granitleuchtturms aus dem 19. Jahrhundert für atemberaubende Ausblicke, aber kommen Sie früh, um Warteschlangen zu vermeiden.",
+            "hu": "Mássza meg ennek a csodálatos 19. századi gránit világítótoronynak a 307 lépcsőfokát a lélegzetelállító kilátásért, de érkezzen korán, hogy elkerülje a nyári sorban állást.",
+            "ro": "Urcați cele 307 de trepte ale acestui magnific far de granit din secolul al XIX-lea pentru priveliști uluitoare, dar ajungeți devreme pentru a evita cozile lungi de vară.",
+            "en": "Climb the 307 steps of this magnificent 19th-century granite lighthouse for breathtaking coastal vistas, but arrive early in the day to avoid the long summer queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Leuchtturm von Penmarc'h",
+            "hu": "Régi Penmarc'h világítótorony",
+            "ro": "Vechiul far Penmarc'h",
+            "en": "Old Penmarc'h Lighthouse"
+          },
+          "coords": [
+            -4.37417,
+            47.7978
+          ],
+          "category": "historical",
+          "arrive_at": "15:33",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie den historischen Vorgänger von Eckmühl, der heute als faszinierendes maritimes Ausstellungszentrum dient, und prüfen Sie vorab die saisonalen Öffnungszeiten.",
+            "hu": "Fedezze fel Eckmühl történelmi elődjét, amely ma lenyűgöző tengerészeti kiállítási központként működik, és látogatás előtt feltétlenül ellenőrizze a szezonális nyitvatartást.",
+            "ro": "Explorați predecesorul istoric al farului Eckmühl, care servește acum ca un fascinant centru expozițional maritim, verificând programul sezonier înainte de vizită.",
+            "en": "Explore the historic predecessor to Eckmühl which now serves as a fascinating maritime exhibition center, checking their seasonal opening hours before your visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag startet entspannt an einem Spielplatz am blauen Boot.\n\nAm Vormittag fahren Sie zur rauen Landspitze und zur zentralen Kirche.\n\nMittags tauchen Sie in die Stille einer alten Steinkapelle ein.\n\nNachmittags erwartet Sie eine Zeitreise, bevor die Leuchttürme den perfekten Abschluss bilden.",
+        "hu": "A nap egy kék hajós játszótéren indul kényelmesen.\n\nDélelőtt a zord hegyfokhoz és a központi templomhoz hajt.\n\nDélben elmerülhet egy ősi kőkápolna csendjében.\n\nDélután egy időutazás várja a múzeumban, majd a fenséges világítótornyok látványa teszi teljessé a kirándulást.",
+        "ro": "Ziua începe relaxant la un loc de joacă cu barca albastră.\n\nDimineața conduceți spre promontoriul accidentat și biserica centrală.\n\nLa prânz, vă bucurați de liniștea unei vechi capele de piatră.\n\nDupă-amiaza vă așteaptă o călătorie în timp, farurile maiestuoase completând excursia.",
+        "en": "The day starts smoothly at a blue boat-themed playground.\n\nMid-morning involves driving to the rugged point and visiting the central church.\n\nAround noon, soak in the quiet atmosphere of an ancient stone chapel.\n\nAfternoon brings a fascinating journey back in time, concluding at the majestic lighthouses."
+      }
+    }
+  }
+}

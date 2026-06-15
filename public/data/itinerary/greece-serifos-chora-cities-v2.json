@@ -1,0 +1,474 @@
+{
+  "city_id": "greece-serifos-chora-cities-v2",
+  "anchor": {
+    "name": "Chora (Serifos)",
+    "coords": [
+      24.505278,
+      37.155833
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:19",
+      "total_km": 3.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Burg von Serifos",
+            "hu": "Serifos vára",
+            "ro": "Castelul din Serifos",
+            "en": "Castle of Serifos"
+          },
+          "coords": [
+            24.507166,
+            37.154556
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieser venezianischen Festung mit Panoramablick über die Ägäis, aber tragen Sie festes Schuhwerk, um die steilen, unebenen Steinwege sicher zu bewältigen.",
+            "hu": "Fedezze fel e velencei erőd romjait, amely panorámás kilátást nyújt az Égei-tengerre, de viseljen masszív cipőt a meredek, egyenetlen kőösvények biztonságos bejárásához.",
+            "ro": "Explorați ruinele acestei fortărețe venețiene cu vederi panoramice asupra Mării Egee, dar purtați încălțăminte robustă pentru a naviga în siguranță pe cărările abrupte de piatră.",
+            "en": "Explore the ruins of this Venetian fortress with panoramic views over the Aegean, but wear sturdy shoes to safely navigate the steep, uneven stone pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Serifos Scuba Divers",
+            "hu": "Serifos Scuba Divers",
+            "ro": "Serifos Scuba Divers",
+            "en": "Serifos Scuba Divers"
+          },
+          "coords": [
+            24.514449,
+            37.144833
+          ],
+          "category": "landmark",
+          "arrive_at": "10:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die farbenfrohe Unterwasserwelt von Serifos mit erfahrenen Tauchlehrern, aber denken Sie daran, Ihren Tauchgang in den geschäftigen Sommermonaten im Voraus zu buchen.",
+            "hu": "Fedezze fel Serifos nyüzsgő víz alatti világát tapasztalt oktatók vezetésével, de ne felejtse el előre lefoglalni a merülést a forgalmas nyári hónapokban.",
+            "ro": "Descoperiți lumea subacvatică vibrantă din Serifos ghidați de instructori cu experiență, dar amintiți-vă să rezervați sesiunea de scufundări în avans în lunile aglomerate de vară.",
+            "en": "Discover the vibrant underwater world of Serifos guided by experienced instructors, but remember to book your diving session in advance during the busy summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Avlomonas",
+            "hu": "Avlomonas",
+            "ro": "Avlomonas",
+            "en": "Avlomonas"
+          },
+          "coords": [
+            24.518025,
+            37.146293
+          ],
+          "category": "recreational",
+          "arrive_at": "11:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem goldenen Sand dieses langen, familienfreundlichen Strandes in der Nähe des Hafens und sichern Sie sich frühzeitig eine Sonnenliege mit natürlichem Schatten der Tamarisken.",
+            "hu": "Pihenjen a kikötőhöz közeli hosszú, családbarát strand aranyhomokján, és foglaljon korán napágyat, hogy jó helyet biztosítson magának a tamariszkuszfák természetes árnyékában.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje lungi, prietenoase cu familiile, lângă port, și ocupați un șezlong devreme pentru a vă asigura un loc excelent cu umbră naturală de la arborii de tamarix.",
+            "en": "Relax on the golden sands of this long, family-friendly beach near the port, and grab a sunbed early to secure a prime spot with natural shade from the tamarisk trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Livadhi-Bucht",
+            "hu": "Livadhi-öböl",
+            "ro": "Golful Livadhi",
+            "en": "Livadhi Bay"
+          },
+          "coords": [
+            24.520485,
+            37.137622
+          ],
+          "category": "landmark",
+          "arrive_at": "13:26",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie am malerischen Hafen entlang, der von traditionellen Tavernen und schaukelnden Fischerbooten gesäumt ist, was ihn zum perfekten Ort für ein frisches Meeresfrüchte-Mittagessen am Wasser macht.",
+            "hu": "Sétáljon végig a festői kikötő mentén, amelyet hagyományos tavernák és ringatózó halászhajók szegélyeznek, így ez a tökéletes hely egy friss tenger gyümölcsei ebéd elfogyasztásához a vízparton.",
+            "ro": "Plimbați-vă de-a lungul portului pitoresc, mărginit de taverne tradiționale și bărci de pescuit legănate, fiind locul perfect pentru a savura un prânz cu fructe de mare proaspete pe malul apei.",
+            "en": "Stroll along the picturesque harbor lined with traditional tavernas and bobbing fishing boats, making it the perfect spot to enjoy a fresh seafood lunch by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Livadakia",
+            "hu": "Livadakia",
+            "ro": "Livadakia",
+            "en": "Livadakia"
+          },
+          "coords": [
+            24.514915,
+            37.138162
+          ],
+          "category": "recreational",
+          "arrive_at": "14:34",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie das kristallklare Wasser und die lebhafte Atmosphäre dieses beliebten, von Bäumen gesäumten Strandes, an dem Sie Wassersportgeräte für einen aktiven Nachmittag mieten können.",
+            "hu": "Élvezze a kristálytiszta vizet és a fával szegélyezett népszerű strand pezsgő hangulatát, ahol vízi sporteszközöket is bérelhet egy aktív délutánhoz a napon.",
+            "ro": "Bucurați-vă de apele cristaline și de atmosfera vibrantă a acestei plaje populare mărginite de copaci, de unde puteți închiria echipamente pentru sporturi nautice.",
+            "en": "Enjoy the crystal-clear waters and vibrant atmosphere of this popular tree-fringed beach, where you can rent water sports equipment for an active afternoon in the sun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihren Morgen mit der Erkundung der malerischen Pfade der Chora und der historischen Burg von Serifos. Genießen Sie den atemberaubenden Blick auf die Ägäis, während die Insel erwacht.\nMidday: Steigen Sie in die lebhafte Gegend von Livadhi hinab, halten Sie für ein Taucherlebnis an oder gehen Sie direkt zum Strand von Avlomonas. Genießen Sie das Mittagessen in einer traditionellen Taverne am Meer.\nAfternoon: Verbringen Sie einen entspannten Nachmittag in der Sonne und genießen Sie das warme Wasser der Bucht von Livadhi. Schlendern Sie am Yachthafen entlang und beobachten Sie die bunten Fischerboote.\nEvening: Beenden Sie Ihren Tag am lebhaften Strand von Livadakia. Genießen Sie den Sonnenuntergang, der goldene Farbtöne über das Wasser wirft, und entspannen Sie sich in einer gemütlichen Strandbar bei einem Getränk.",
+        "hu": "Morning: Kezdje a reggelt Chora kanyargós, festői ösvényeinek és Serifos történelmi várának felfedezésével. Élvezze az Égei-tengerre nyíló lélegzetelállító kilátást, miközben a sziget ébredezik.\nMidday: Ereszkedjen le a nyüzsgő Livadhi környékére, álljon meg egy búvárkodásra, vagy egyenesen az Avlomonas strand homokjára. Ebédeljen egy hagyományos tengerparti tavernában.\nAfternoon: Töltsön el egy pihentető délutánt a napon sütkérezve, és élvezze a Livadhi-öböl meleg vizét. Sétáljon végig a kikötőben, és nézze a színes halászhajókat, ahogy a vízen ringatóznak.\nEvening: Zárja a napot a nyüzsgő Livadakia strandon. Élvezze a naplementét, amely arany árnyalatokat vet a vízre, majd találjon egy hangulatos tengerparti bárt, ahol lazíthat egy frissítő ital mellett.",
+        "ro": "Morning: Începeți dimineața explorând cărările pitorești și întortocheate din Chora și istoricul Castel din Serifos. Bucurați-vă de priveliștile uluitoare ale Mării Egee în timp ce insula se trezește.\nMidday: Coborâți spre zona plină de viață Livadhi, oprindu-vă pentru o experiență de scufundări sau mergând direct pe plaja Avlomonas. Luați prânzul la o tavernă tradițională de pe malul mării.\nAfternoon: Petreceți o după-amiază relaxantă bucurându-vă de soare și de apele calde ale Golfului Livadhi. Plimbați-vă de-a lungul portului de agrement și priviți bărcile colorate de pescuit legănându-se.\nEvening: Încheiați-vă ziua pe plaja vibrantă Livadakia. Bucurați-vă de apusul de soare care aruncă nuanțe aurii peste apă, apoi găsiți un bar primitor pe plajă pentru a vă relaxa cu o băutură rece.",
+        "en": "Morning: Start your morning by exploring the winding, picturesque paths of Chora and the historic Castle of Serifos. Enjoy the breathtaking views of the Aegean Sea as the island wakes up.\nMidday: Descend towards the lively Livadhi area, stopping for an exciting scuba diving experience or directly hitting the golden sands of Avlomonas beach. Grab lunch at a traditional seaside taverna.\nAfternoon: Spend a relaxing afternoon soaking up the sun and enjoying the shallow, warm waters of Livadhi Bay. Stroll along the marina and watch the colorful fishing boats gently bobbing in the water.\nEvening: Conclude your day at the vibrant Livadakia beach. Enjoy the sunset casting golden hues over the water, then find a cozy beachfront bar to unwind with a refreshing local drink."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Burg von Serifos",
+            "hu": "Serifos vára",
+            "ro": "Castelul din Serifos",
+            "en": "Castle of Serifos"
+          },
+          "coords": [
+            24.507166,
+            37.154556
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieser venezianischen Festung mit Panoramablick über die Ägäis, aber tragen Sie festes Schuhwerk, um die steilen, unebenen Steinwege sicher zu bewältigen.",
+            "hu": "Fedezze fel e velencei erőd romjait, amely panorámás kilátást nyújt az Égei-tengerre, de viseljen masszív cipőt a meredek, egyenetlen kőösvények biztonságos bejárásához.",
+            "ro": "Explorați ruinele acestei fortărețe venețiene cu vederi panoramice asupra Mării Egee, dar purtați încălțăminte robustă pentru a naviga în siguranță pe cărările abrupte de piatră.",
+            "en": "Explore the ruins of this Venetian fortress with panoramic views over the Aegean, but wear sturdy shoes to safely navigate the steep, uneven stone pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Psile Ammos",
+            "hu": "Psile Ammos",
+            "ro": "Psile Ammos",
+            "en": "Psile Ammos"
+          },
+          "coords": [
+            24.522774,
+            37.161367
+          ],
+          "category": "recreational",
+          "arrive_at": "10:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Waten Sie in das flache, türkisfarbene Wasser dieses unberührten Sandstrandes, aber bringen Sie Ihr eigenes Wasser und Snacks mit, da es direkt am Ufer nur minimale Einrichtungen gibt.",
+            "hu": "Gázoljon bele ennek az érintetlen homokos strandnak a sekély, csillogó türkizkék vizébe, de hozzon magával vizet és rágcsálnivalót, mivel a parton csak minimális létesítmények állnak rendelkezésre.",
+            "ro": "Pășiți în apele turcoaz puțin adânci ale acestei plaje cu nisip curat, dar aduceți-vă propria apă și gustări, deoarece există facilități minime disponibile direct pe țărm.",
+            "en": "Wade into the shallow, sparkling turquoise waters of this pristine sandy beach, but bring your own water and snacks as there are minimal facilities available directly on the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Psili Ammos-Bucht",
+            "hu": "Psili Ammos-öböl",
+            "ro": "Golful Psili Ammos",
+            "en": "Psili Ammos Bay"
+          },
+          "coords": [
+            24.526519,
+            37.163304
+          ],
+          "category": "landmark",
+          "arrive_at": "11:56",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Fotografieren Sie den faszinierenden Kontrast zwischen dem weißen Sand und dem tiefblauen Meer der Bucht und besuchen Sie sie am frühen Morgen für das ruhigste, klarste Wasser.",
+            "hu": "Készítsen lenyűgöző fényképeket az öböl fehér homokja és a mélykék tenger közötti feltűnő kontrasztról, és látogasson el kora reggel a legnyugodtabb, legtisztább vízért.",
+            "ro": "Capturați fotografii uimitoare ale contrastului frapant al golfului dintre nisipul alb și marea de un albastru intens și vizitați dimineața devreme pentru cea mai calmă apă.",
+            "en": "Capture stunning photographs of the bay's striking contrast between the white sand and deep blue sea, and visit in the early morning for the calmest, clearest water."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Sostis",
+            "hu": "Agios Sostis",
+            "ro": "Agios Sostis",
+            "en": "Agios Sostis"
+          },
+          "coords": [
+            24.532062,
+            37.155789
+          ],
+          "category": "recreational",
+          "arrive_at": "12:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die malerische kleine Kirche am Rande der felsigen Halbinsel, die zwei wunderschöne Buchten trennt, was es zu einem idealen Ort zum Schnorcheln an den Riffen macht.",
+            "hu": "Csodálja meg a sziklás félsziget szélén álló, két gyönyörű öblöt elválasztó festői kis templomot, amely ideális hely a védett zátonyok körüli sznorkelezéshez.",
+            "ro": "Admirați bisericuța pitorească așezată pe marginea peninsulei stâncoase care împarte două golfuri frumoase, fiind un loc ideal pentru snorkeling în jurul recifelor adăpostite.",
+            "en": "Admire the picturesque little church perched on the edge of the rocky peninsula dividing two beautiful coves, making it an ideal spot for snorkeling around the sheltered reefs."
+          }
+        },
+        {
+          "name": {
+            "de": "Lia",
+            "hu": "Lia",
+            "ro": "Lia",
+            "en": "Lia"
+          },
+          "coords": [
+            24.531396,
+            37.149672
+          ],
+          "category": "recreational",
+          "arrive_at": "14:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen in dieser abgelegenen Kiesel- und Sandbucht mit markanten Felsformationen und packen Sie unbedingt einen Regenschirm ein, da es keinen natürlichen Schatten gibt.",
+            "hu": "Meneküljön el a tömeg elől ebbe az eldugott, lenyűgöző sziklaalakzatokkal rendelkező kavicsos-homokos öbölbe, és feltétlenül vigyen magával napernyőt, mivel egyáltalán nincs természetes árnyék.",
+            "ro": "Scăpați de aglomerație în acest golf retras cu pietriș și nisip, cu formațiuni stâncoase izbitoare, și asigurați-vă că luați o umbrelă, deoarece nu veți găsi umbră naturală.",
+            "en": "Escape the crowds at this secluded, pebble-and-sand cove with striking rock formations, and ensure you pack an umbrella since there is absolutely no natural shade to be found."
+          }
+        },
+        {
+          "name": {
+            "de": "Livadhi-Bucht",
+            "hu": "Livadhi-öböl",
+            "ro": "Golful Livadhi",
+            "en": "Livadhi Bay"
+          },
+          "coords": [
+            24.520485,
+            37.137622
+          ],
+          "category": "landmark",
+          "arrive_at": "15:14",
+          "stay_min": 90,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Schlendern Sie am malerischen Hafen entlang, der von traditionellen Tavernen und schaukelnden Fischerbooten gesäumt ist, was ihn zum perfekten Ort für ein frisches Meeresfrüchte-Mittagessen am Wasser macht.",
+            "hu": "Sétáljon végig a festői kikötő mentén, amelyet hagyományos tavernák és ringatózó halászhajók szegélyeznek, így ez a tökéletes hely egy friss tenger gyümölcsei ebéd elfogyasztásához a vízparton.",
+            "ro": "Plimbați-vă de-a lungul portului pitoresc, mărginit de taverne tradiționale și bărci de pescuit legănate, fiind locul perfect pentru a savura un prânz cu fructe de mare proaspete pe malul apei.",
+            "en": "Stroll along the picturesque harbor lined with traditional tavernas and bobbing fishing boats, making it the perfect spot to enjoy a fresh seafood lunch by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihre Radtour mit einem Besuch der historischen Burg von Serifos. Genießen Sie danach eine luftige Abfahrt zu den unberührten, flachen Gewässern des Strandes Psile Ammos.\nMidday: Radeln Sie weiter entlang der atemberaubenden Ostküste zur Psili Ammos Bay und Agios Sostis. Suchen Sie sich den perfekten Ort für ein Picknick neben der malerischen kleinen Kirche.\nAfternoon: Fahren Sie in Richtung Lia Strand und navigieren Sie durch das leicht unebene Gelände. Genießen Sie die Ruhe dieser abgelegenen Bucht und tauchen Sie in das kristallklare Wasser ein.\nEvening: Beenden Sie Ihre Radtour in der geschäftigen Bucht von Livadhi. Ruhen Sie Ihre Beine in einer einladenden Taverne aus, beobachten Sie den Sonnenuntergang und probieren Sie griechische Köstlichkeiten.",
+        "hu": "Morning: Kezdje kerékpártúráját Serifos történelmi várának meglátogatásával. Utána élvezze a kellemes lejtmenetet a Psile Ammos strand érintetlen, sekély vizéhez egy frissítő úszásra.\nMidday: Folytassa a tekerést a lenyűgöző keleti part mentén a Psili Ammos-öböl és Agios Sostis felé. Találja meg a tökéletes helyet egy piknikhez a bájos kis templom mellett, miközben a kilátásban gyönyörködik.\nAfternoon: Kerékpározzon a Lia strand felé, navigálva az enyhén egyenetlen terepen. Élvezze ennek az eldugott öbölnek a csendjét, és merüljön el kristálytiszta vizében, távol a turisták tömegétől.\nEvening: Fejezze be kerékpáros útját a nyüzsgő Livadhi-öbölben. Pihentesse meg a lábát egy barátságos helyi tavernában, nézze a naplementét a kikötő felett, miközben finom görög ételeket kóstol.",
+        "ro": "Morning: Începeți turul cu bicicleta cu o vizită la istoricul Castel din Serifos. După aceea, bucurați-vă de o coborâre ușoară spre apele limpezi și puțin adânci ale plajei Psile Ammos pentru a înota.\nMidday: Continuați să pedalați de-a lungul coastei de est uimitoare până la Golful Psili Ammos și Agios Sostis. Găsiți locul perfect pentru un picnic pitoresc lângă bisericuța fermecătoare.\nAfternoon: Pedalați spre plaja Lia, navigând pe terenul ușor accidentat. Bucurați-vă de liniștea acestui golf retras, scufundându-vă în apele sale cristaline, departe de aglomerația turistică principală.\nEvening: Terminați călătoria cu bicicleta în Golful Livadhi plin de viață. Odihniți-vă picioarele la o tavernă locală primitoare, privind apusul de soare în timp ce savurați delicatese grecești.",
+        "en": "Morning: Kick off your cycling tour with a visit to the historic Castle of Serifos. Afterward, enjoy a breezy downhill ride towards the pristine, shallow waters of Psile Ammos beach for a refreshing swim.\nMidday: Continue pedaling along the stunning eastern coast to Psili Ammos Bay and Agios Sostis. The coastal views are mesmerizing as you find the perfect spot for a scenic picnic by the charming little church.\nAfternoon: Cycle towards Lia beach, navigating the slightly rugged terrain. Enjoy the peace and quiet of this secluded cove, diving into its crystal-clear waters away from the main tourist crowds.\nEvening: Finish your cycling journey at the bustling Livadhi Bay. Rest your legs at a welcoming local taverna, watching the sunset over the harbor while savoring delicious Greek delicacies and local wine."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:44",
+      "total_km": 6.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Burg von Serifos",
+            "hu": "Serifos vára",
+            "ro": "Castelul din Serifos",
+            "en": "Castle of Serifos"
+          },
+          "coords": [
+            24.507166,
+            37.154556
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieser venezianischen Festung mit Panoramablick über die Ägäis, aber tragen Sie festes Schuhwerk, um die steilen, unebenen Steinwege sicher zu bewältigen.",
+            "hu": "Fedezze fel e velencei erőd romjait, amely panorámás kilátást nyújt az Égei-tengerre, de viseljen masszív cipőt a meredek, egyenetlen kőösvények biztonságos bejárásához.",
+            "ro": "Explorați ruinele acestei fortărețe venețiene cu vederi panoramice asupra Mării Egee, dar purtați încălțăminte robustă pentru a naviga în siguranță pe cărările abrupte de piatră.",
+            "en": "Explore the ruins of this Venetian fortress with panoramic views over the Aegean, but wear sturdy shoes to safely navigate the steep, uneven stone pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Ae Giannes",
+            "hu": "Ae Giannes",
+            "ro": "Ae Giannes",
+            "en": "Ae Giannes"
+          },
+          "coords": [
+            24.522949,
+            37.166192
+          ],
+          "category": "recreational",
+          "arrive_at": "10:34",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie die unberührte Schönheit dieses ruhigen Küstenabschnitts, der für seine raue Landschaft bekannt ist, und bereiten Sie sich auf einen holprigen Feldweg vor, indem Sie vorsichtig fahren.",
+            "hu": "Fedezze fel ennek a zord tájáról ismert, csendes tengerparti szakasznak a békés, érintetlen szépségét, és lassan, óvatosan vezetve készüljön fel a göröngyös földúton való megközelítésre.",
+            "ro": "Descoperiți frumusețea neatinsă a acestei porțiuni de coastă liniștite, cunoscută pentru peisajul său accidentat, și pregătiți-vă pentru un drum de pământ accidentat conducând încet.",
+            "en": "Discover the serene, untouched beauty of this quiet coastal stretch known for its rugged landscape, and prepare for a bumpy dirt road approach by driving slowly and carefully."
+          }
+        },
+        {
+          "name": {
+            "de": "Psili Ammos-Bucht",
+            "hu": "Psili Ammos-öböl",
+            "ro": "Golful Psili Ammos",
+            "en": "Psili Ammos Bay"
+          },
+          "coords": [
+            24.526519,
+            37.163304
+          ],
+          "category": "landmark",
+          "arrive_at": "11:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fotografieren Sie den faszinierenden Kontrast zwischen dem weißen Sand und dem tiefblauen Meer der Bucht und besuchen Sie sie am frühen Morgen für das ruhigste, klarste Wasser.",
+            "hu": "Készítsen lenyűgöző fényképeket az öböl fehér homokja és a mélykék tenger közötti feltűnő kontrasztról, és látogasson el kora reggel a legnyugodtabb, legtisztább vízért.",
+            "ro": "Capturați fotografii uimitoare ale contrastului frapant al golfului dintre nisipul alb și marea de un albastru intens și vizitați dimineața devreme pentru cea mai calmă apă.",
+            "en": "Capture stunning photographs of the bay's striking contrast between the white sand and deep blue sea, and visit in the early morning for the calmest, clearest water."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Sostis",
+            "hu": "Agios Sostis",
+            "ro": "Agios Sostis",
+            "en": "Agios Sostis"
+          },
+          "coords": [
+            24.532062,
+            37.155789
+          ],
+          "category": "recreational",
+          "arrive_at": "12:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die malerische kleine Kirche am Rande der felsigen Halbinsel, die zwei wunderschöne Buchten trennt, was es zu einem idealen Ort zum Schnorcheln an den Riffen macht.",
+            "hu": "Csodálja meg a sziklás félsziget szélén álló, két gyönyörű öblöt elválasztó festői kis templomot, amely ideális hely a védett zátonyok körüli sznorkelezéshez.",
+            "ro": "Admirați bisericuța pitorească așezată pe marginea peninsulei stâncoase care împarte două golfuri frumoase, fiind un loc ideal pentru snorkeling în jurul recifelor adăpostite.",
+            "en": "Admire the picturesque little church perched on the edge of the rocky peninsula dividing two beautiful coves, making it an ideal spot for snorkeling around the sheltered reefs."
+          }
+        },
+        {
+          "name": {
+            "de": "Lia",
+            "hu": "Lia",
+            "ro": "Lia",
+            "en": "Lia"
+          },
+          "coords": [
+            24.531396,
+            37.149672
+          ],
+          "category": "recreational",
+          "arrive_at": "13:39",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen in dieser abgelegenen Kiesel- und Sandbucht mit markanten Felsformationen und packen Sie unbedingt einen Regenschirm ein, da es keinen natürlichen Schatten gibt.",
+            "hu": "Meneküljön el a tömeg elől ebbe az eldugott, lenyűgöző sziklaalakzatokkal rendelkező kavicsos-homokos öbölbe, és feltétlenül vigyen magával napernyőt, mivel egyáltalán nincs természetes árnyék.",
+            "ro": "Scăpați de aglomerație în acest golf retras cu pietriș și nisip, cu formațiuni stâncoase izbitoare, și asigurați-vă că luați o umbrelă, deoarece nu veți găsi umbră naturală.",
+            "en": "Escape the crowds at this secluded, pebble-and-sand cove with striking rock formations, and ensure you pack an umbrella since there is absolutely no natural shade to be found."
+          }
+        },
+        {
+          "name": {
+            "de": "Avlomonas",
+            "hu": "Avlomonas",
+            "ro": "Avlomonas",
+            "en": "Avlomonas"
+          },
+          "coords": [
+            24.518025,
+            37.146293
+          ],
+          "category": "recreational",
+          "arrive_at": "14:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem goldenen Sand dieses langen, familienfreundlichen Strandes in der Nähe des Hafens und sichern Sie sich frühzeitig eine Sonnenliege mit natürlichem Schatten der Tamarisken.",
+            "hu": "Pihenjen a kikötőhöz közeli hosszú, családbarát strand aranyhomokján, és foglaljon korán napágyat, hogy jó helyet biztosítson magának a tamariszkuszfák természetes árnyékában.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje lungi, prietenoase cu familiile, lângă port, și ocupați un șezlong devreme pentru a vă asigura un loc excelent cu umbră naturală de la arborii de tamarix.",
+            "en": "Relax on the golden sands of this long, family-friendly beach near the port, and grab a sunbed early to secure a prime spot with natural shade from the tamarisk trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Livadakia",
+            "hu": "Livadakia",
+            "ro": "Livadakia",
+            "en": "Livadakia"
+          },
+          "coords": [
+            24.514915,
+            37.138162
+          ],
+          "category": "recreational",
+          "arrive_at": "15:59",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie das kristallklare Wasser und die lebhafte Atmosphäre dieses beliebten, von Bäumen gesäumten Strandes, an dem Sie Wassersportgeräte für einen aktiven Nachmittag mieten können.",
+            "hu": "Élvezze a kristálytiszta vizet és a fával szegélyezett népszerű strand pezsgő hangulatát, ahol vízi sporteszközöket is bérelhet egy aktív délutánhoz a napon.",
+            "ro": "Bucurați-vă de apele cristaline și de atmosfera vibrantă a acestei plaje populare mărginite de copaci, de unde puteți închiria echipamente pentru sporturi nautice.",
+            "en": "Enjoy the crystal-clear waters and vibrant atmosphere of this popular tree-fringed beach, where you can rent water sports equipment for an active afternoon in the sun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihren Roadtrip an der majestätischen Burg von Serifos hoch oben in der Chora. Fahren Sie von dort nach Norden zum abgelegenen Ae Giannes für einen friedlichen Morgen in der rauen Landschaft.\nMidday: Navigieren Sie entlang der malerischen Ostküste und halten Sie an der Psili Ammos Bay und Agios Sostis. Diese Strände bieten weichen Sand, historischen Charme und idyllische Bedingungen.\nAfternoon: Fahren Sie weiter nach Süden und halten Sie am ruhigen Lia-Strand, bevor Sie zum Sand von Avlomonas aufbrechen. Genießen Sie die Küstenatmosphäre und gönnen Sie sich einen Snack am Meer.\nEvening: Beenden Sie Ihre Inselrundfahrt in Livadakia. Parken Sie das Auto und entspannen Sie sich bei einem spektakulären Sonnenuntergang in der Ägäis, gefolgt von einem lebhaften Abendessen.",
+        "hu": "Morning: Kezdje autós utazását a fenséges Serifos várnál, magasan a Chora-ban. Innen vezessen északra az eldugott Ae Giannes-be, és töltsön el egy békés reggelt a sziget zord tájainak megcsodálásával.\nMidday: Navigáljon a festői keleti part mentén, megállva a Psili Ammos-öbölben és Agios Sostisban. Ezek a szomszédos strandok puha homokot, történelmi bájat és idilli környezetet kínálnak a fürdéshez.\nAfternoon: Vezessen tovább dél felé, álljon meg a nyugodt Lia strandon, mielőtt az Avlomonas nyüzsgő homokjához indulna. Élvezze a kontrasztos tengerparti hangulatot, és egyen egy finom falatot.\nEvening: Fejezze be a szigeti autózást Livadakiában. Parkolja le az autót, és lazítson egy látványos égei-tengeri naplemente mellett, amely zökkenőmentesen megy át egy vidám, tengerparti vacsorába.",
+        "ro": "Morning: Începeți călătoria cu mașina la maiestuosul Castel din Serifos. De acolo, conduceți spre nord către izolatul Ae Giannes pentru o dimineață liniștită, absorbind peisajele accidentate ale insulei.\nMidday: Navigați de-a lungul coastei de est pitorești, oprindu-vă la Golful Psili Ammos și Agios Sostis. Aceste plaje vecine oferă nisip moale, farmec istoric și un cadru idilic pentru o baie la prânz.\nAfternoon: Continuați să conduceți spre sud, făcând o oprire la plaja liniștită Lia înainte de a vă îndrepta spre nisipurile din Avlomonas. Bucurați-vă de vibrațiile de coastă contrastante și luați o gustare.\nEvening: Încheiați-vă plimbarea cu mașina pe insulă la Livadakia. Parcați mașina și relaxați-vă cu un apus spectaculos în Marea Egee, trecând lin într-o seară plină de viață, luând masa la malul mării.",
+        "en": "Morning: Start your road trip at the majestic Castle of Serifos high up in Chora. From there, drive north to the secluded Ae Giannes for a peaceful morning absorbing the rugged, dramatic island landscapes.\nMidday: Navigate your way down the scenic eastern coastline, stopping at Psili Ammos Bay and Agios Sostis. These neighboring beaches offer soft sand, historic charm, and idyllic settings for a midday swim.\nAfternoon: Continue driving south, making a stop at the tranquil Lia beach before heading to the vibrant sands of Avlomonas. Enjoy the contrasting coastal vibes and maybe grab a quick seaside snack.\nEvening: Conclude your ultimate island drive at Livadakia. Park the car and unwind with a spectacular Aegean sunset, transitioning smoothly into a lively evening of dining and seaside relaxation."
+      }
+    }
+  }
+}

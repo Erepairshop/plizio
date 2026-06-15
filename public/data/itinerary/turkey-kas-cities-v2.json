@@ -1,0 +1,451 @@
+{
+  "city_id": "turkey-kas-cities-v2",
+  "anchor": {
+    "name": "Kaş",
+    "coords": [
+      29.640278,
+      36.199722
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:42",
+      "total_km": 3.15,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kaş Hotel",
+            "hu": "Kaş Hotel",
+            "ro": "Kaş Hotel",
+            "en": "Kaş Hotel"
+          },
+          "coords": [
+            29.6384,
+            36.198737
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie atemberaubende Meerblicke an diesem ikonischen Ort am Hafen, also kommen Sie früh, um sich eine Liege am Wasser zu sichern.",
+            "hu": "Élvezze a lélegzetelállító tengeri kilátást ezen az ikonikus kikötői helyen, ezért érkezzen korán, hogy biztosítson egy jó napozóágyat.",
+            "ro": "Bucurați-vă de priveliști marine uluitoare în acest loc emblematic, așa că ajungeți devreme pentru a prinde un șezlong pe malul apei.",
+            "en": "Enjoy breathtaking sea views at this iconic spot that anchors the harbor, so arrive early to secure a prime lounger by the waterfront."
+          }
+        },
+        {
+          "name": {
+            "de": "Leymona Beach & Cafe",
+            "hu": "Leymona Beach & Cafe",
+            "ro": "Leymona Beach & Cafe",
+            "en": "Leymona Beach & Cafe"
+          },
+          "coords": [
+            29.637125,
+            36.199048
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entspannen Sie auf den Holzplattformen dieses lebhaften Beachclubs mit kristallklarem Wasser und vergessen Sie Ihre Schnorchelausrüstung nicht.",
+            "hu": "Pihenjen a kristálytiszta vizű, élénk strandklub fapadlóin, és ne felejtse el magával hozni a búvárfelszerelését az öböl felfedezéséhez.",
+            "ro": "Relaxați-vă pe platformele din lemn ale acestui club de plajă vibrant, cu ape cristaline, și nu uitați echipamentul de snorkeling.",
+            "en": "Relax on the wooden platforms of this vibrant beach club featuring crystal-clear waters, and don't forget your snorkel gear to explore the bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Derya Beach",
+            "hu": "Derya Beach",
+            "ro": "Derya Beach",
+            "en": "Derya Beach"
+          },
+          "coords": [
+            29.64386,
+            36.197054
+          ],
+          "category": "recreational",
+          "arrive_at": "11:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erleben Sie die typische Kaş-Atmosphäre auf dieser lebhaften Strandterrasse, wo Sie nach dem Schwimmen unbedingt die kühle Limonade probieren sollten.",
+            "hu": "Tapasztalja meg az igazi Kaş-hangulatot ezen a nyüzsgő tengerparti teraszon, ahol úszás után feltétlenül rendeljen a híres hideg limonádéból.",
+            "ro": "Experimentați atmosfera tipică din Kaş pe această terasă plină de viață, unde ar trebui să comandați celebra lor limonadă rece după o baie.",
+            "en": "Experience the quintessential Kaş vibe at this lively seaside deck, where you should definitely order their famous chilled lemonade after a swim."
+          }
+        },
+        {
+          "name": {
+            "de": "İnceboğaz Plajı",
+            "hu": "İnceboğaz Plajı",
+            "ro": "İnceboğaz Plajı",
+            "en": "İnceboğaz Plajı"
+          },
+          "coords": [
+            29.624425,
+            36.200729
+          ],
+          "category": "recreational",
+          "arrive_at": "13:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie das warme, flache Wasser dieses Strandes auf der schmalen Halbinsel, perfekt für Familien, die Badeschuhe für die Kieselsteine mitbringen sollten.",
+            "hu": "Fedezze fel ennek a keskeny félszigeti strandnak a meleg, sekély vizét, amely tökéletes a családok számára, és hozzanak vízi cipőt a kavicsok miatt.",
+            "ro": "Descoperiți apele calde și puțin adânci ale acestei plaje de pe peninsulă, fiind ideal să aduceți încălțăminte de apă pentru a merge pe pietriș.",
+            "en": "Discover the warm, shallow waters of this narrow peninsula beach, making it perfect for families to bring water shoes to navigate the pebbles."
+          }
+        },
+        {
+          "name": {
+            "de": "İnceboğaz Halk Plajı",
+            "hu": "İnceboğaz Halk Plajı",
+            "ro": "İnceboğaz Halk Plajı",
+            "en": "İnceboğaz Halk Plajı"
+          },
+          "coords": [
+            29.618233,
+            36.198226
+          ],
+          "category": "recreational",
+          "arrive_at": "14:57",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die Sonne an diesem windgeschützten öffentlichen Strand, an dem Sie Miete sparen, wenn Sie Ihr eigenes Handtuch mitbringen.",
+            "hu": "Élvezze a napsütést ezen a széltől védett nyilvános strandon, ahol a saját törölköző és napernyő hozatalával megspórolhatja a bérleti díjakat.",
+            "ro": "Bucurați-vă de soare la această plajă publică cu ape liniștite, ferită de vânt, unde aducerea propriului prosop vă economisește taxe de închiriere.",
+            "en": "Soak up the sun at this public beach offering calm waters sheltered from the wind, where bringing your own towel and umbrella saves you rental fees."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am geschäftigen Hafen und genießen Sie die sanfte Morgenbrise. Spazieren Sie an der Küste entlang zu stilvollen Beachclubs, um auf Holzterrassen zu entspannen. Gehen Sie zur Halbinsel, um ruhigere, flache Kieselstrände für ein erfrischendes Bad zu erleben. Schließen Sie mit einem faszinierenden Sonnenuntergang über dem Mittelmeer ab und genießen Sie die Atmosphäre.",
+        "hu": "Kezdje a napot a nyüzsgő kikötőben, élvezve a lágy reggeli szellőt és a tiszta vizet. Sétáljon a parton, és találjon elegáns strandklubokat, ahol fateraszokon pihenhet és úszhat. Irány a félsziget, hogy csendesebb, sekély kavicsos strandokat próbáljon ki egy frissítő fürdőzéshez. Zárja a napot a Földközi-tenger feletti lenyűgöző naplemente látványával, elmerülve a parti hangulatban.",
+        "ro": "Începeți ziua în portul plin de viață, bucurându-vă de o briză blândă de dimineață. Plimbați-vă de-a lungul coastei pentru a găsi cluburi de plajă elegante unde vă puteți relaxa. Îndreptați-vă spre peninsulă pentru a experimenta plaje cu pietriș mai liniștite, ideale pentru înot. Încheiați cu o vedere fascinantă la apusul de soare peste Marea Mediterană, absorbind atmosfera de coastă.",
+        "en": "Start your day by the bustling harbor, enjoying a gentle morning breeze and the clear blue waters. Walk along the coast to find stylish beach clubs where you can relax on wooden decks and swim. Head towards the peninsula to experience quieter, shallow pebble beaches ideal for a refreshing dip. Conclude with a mesmerizing sunset view over the Mediterranean, soaking in the warm coastal atmosphere."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:33",
+      "total_km": 4.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Derya Beach",
+            "hu": "Derya Beach",
+            "ro": "Derya Beach",
+            "en": "Derya Beach"
+          },
+          "coords": [
+            29.64386,
+            36.197054
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die typische Kaş-Atmosphäre auf dieser lebhaften Strandterrasse, wo Sie nach dem Schwimmen unbedingt die kühle Limonade probieren sollten.",
+            "hu": "Tapasztalja meg az igazi Kaş-hangulatot ezen a nyüzsgő tengerparti teraszon, ahol úszás után feltétlenül rendeljen a híres hideg limonádéból.",
+            "ro": "Experimentați atmosfera tipică din Kaş pe această terasă plină de viață, unde ar trebui să comandați celebra lor limonadă rece după o baie.",
+            "en": "Experience the quintessential Kaş vibe at this lively seaside deck, where you should definitely order their famous chilled lemonade after a swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaş Hotel",
+            "hu": "Kaş Hotel",
+            "ro": "Kaş Hotel",
+            "en": "Kaş Hotel"
+          },
+          "coords": [
+            29.6384,
+            36.198737
+          ],
+          "category": "recreational",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie atemberaubende Meerblicke an diesem ikonischen Ort am Hafen, also kommen Sie früh, um sich eine Liege am Wasser zu sichern.",
+            "hu": "Élvezze a lélegzetelállító tengeri kilátást ezen az ikonikus kikötői helyen, ezért érkezzen korán, hogy biztosítson egy jó napozóágyat.",
+            "ro": "Bucurați-vă de priveliști marine uluitoare în acest loc emblematic, așa că ajungeți devreme pentru a prinde un șezlong pe malul apei.",
+            "en": "Enjoy breathtaking sea views at this iconic spot that anchors the harbor, so arrive early to secure a prime lounger by the waterfront."
+          }
+        },
+        {
+          "name": {
+            "de": "İnceboğaz Plajı",
+            "hu": "İnceboğaz Plajı",
+            "ro": "İnceboğaz Plajı",
+            "en": "İnceboğaz Plajı"
+          },
+          "coords": [
+            29.624425,
+            36.200729
+          ],
+          "category": "recreational",
+          "arrive_at": "11:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie das warme, flache Wasser dieses Strandes auf der schmalen Halbinsel, perfekt für Familien, die Badeschuhe für die Kieselsteine mitbringen sollten.",
+            "hu": "Fedezze fel ennek a keskeny félszigeti strandnak a meleg, sekély vizét, amely tökéletes a családok számára, és hozzanak vízi cipőt a kavicsok miatt.",
+            "ro": "Descoperiți apele calde și puțin adânci ale acestei plaje de pe peninsulă, fiind ideal să aduceți încălțăminte de apă pentru a merge pe pietriș.",
+            "en": "Discover the warm, shallow waters of this narrow peninsula beach, making it perfect for families to bring water shoes to navigate the pebbles."
+          }
+        },
+        {
+          "name": {
+            "de": "Kadynlar beach",
+            "hu": "Kadynlar beach",
+            "ro": "Kadynlar beach",
+            "en": "Kadynlar beach"
+          },
+          "coords": [
+            29.6204,
+            36.198164
+          ],
+          "category": "recreational",
+          "arrive_at": "13:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieses abgelegenen, frauenfreundlichen Strandes und packen Sie Snacks ein, da die Einrichtungen begrenzt sind.",
+            "hu": "Élvezze a békés hangulatot ezen az eldugott, nők számára fenntartott strandon, és vigyen magával harapnivalót, mivel a felszereltség korlátozott.",
+            "ro": "Bucurați-vă de atmosfera liniștită a acestei plaje izolate, destinată femeilor, și asigurați-vă că luați gustări, deoarece facilitățile sunt limitate.",
+            "en": "Enjoy the serene atmosphere of this secluded women-friendly beach spot, and remember to pack light snacks as facilities here can be quite limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Hidayet Plajı",
+            "hu": "Hidayet Plajı",
+            "ro": "Hidayet Plajı",
+            "en": "Hidayet Plajı"
+          },
+          "coords": [
+            29.612295,
+            36.196915
+          ],
+          "category": "recreational",
+          "arrive_at": "14:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Unechten Karettschildkröten in diesen türkisfarbenen Tiefen, mieten Sie also frühzeitig eine Liege auf den Felsen für den besten Blick.",
+            "hu": "Csodálja meg a gyakran felbukkanó álcserepesteknősöket ezekben a türkizkék mélységekben, így érdemes korán napozóágyat bérelni a sziklákon.",
+            "ro": "Admirați țestoasele marine care apar frecvent în aceste adâncuri turcoaz, așa că închiriați devreme un șezlong pe stânci pentru cea mai bună vedere.",
+            "en": "Marvel at the loggerhead sea turtles frequently spotted in these turquoise depths, so rent a sunbed early on the rocks for the best vantage point."
+          }
+        },
+        {
+          "name": {
+            "de": "Akçagerme Halk Plajı",
+            "hu": "Akçagerme Halk Plajı",
+            "ro": "Akçagerme Halk Plajı",
+            "en": "Akçagerme Halk Plajı"
+          },
+          "coords": [
+            29.601756,
+            36.206761
+          ],
+          "category": "recreational",
+          "arrive_at": "15:48",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem mit der Blauen Flagge ausgezeichneten Kiesstrand, der sich ideal für ein sicheres morgendliches Schwimmen mit Badeschuhen eignet.",
+            "hu": "Pihenjen ezen a Kék Zászlós kavicsos strandon egy védett öbölben, amely tökéletes egy biztonságos reggeli úszáshoz, ha megfelelő vizicipőt visel.",
+            "ro": "Relaxați-vă pe această plajă cu pietriș și Steag Albastru, situată într-un golf adăpostit, ideală pentru o baie matinală sigură cu încălțăminte de apă.",
+            "en": "Lounge at this Blue Flag shingle beach located in a sheltered bay, which is ideal for a safe morning swim if you wear proper aqua shoes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie durch die kühle Morgenluft nahe der zentralen Strände am ruhigen, türkisfarbenen Meer. Fahren Sie die zerklüftete Halbinselstraße hinunter und baden Sie an verborgenen Buchten. Fahren Sie weiter auf kurvigen Küstenwegen und entdecken Sie belebte öffentliche Strände. Fahren Sie zurück, während der Himmel golden wird, für ein letztes Abendbad.",
+        "hu": "Tekerjen a hűvös reggeli levegőben a központi strandok közelében, üdvözölve a nyugodt, türkizkék tengert. Haladjon a félsziget útján, rejtett öblökben megállva, hogy drámai sziklák mellett ússzon. Folytassa útját a kanyargós parti utakon, felfedezve a nyüzsgő nyilvános strandokat. Térjen vissza a tengerparton, amikor az ég aranyba borul, egy utolsó esti fürdőzéssel.",
+        "ro": "Pedalați prin aerul răcoros al dimineții lângă plajele centrale, salutând marea liniștită și turcoaz. Mergeți pe drumul peninsulei, oprindu-vă la golfuri ascunse pentru a înota lângă stânci dramatice. Continuați pe rutele de coastă șerpuitoare, descoperind plaje publice pline de viață. Întoarceți-vă în timp ce cerul devine auriu, terminând cu o baie de seară binemeritată.",
+        "en": "Pedal through the cool morning air starting near the central beaches, greeting the calm, vibrant turquoise sea. Cycle down the rugged peninsula road, stopping at hidden coves to swim beside dramatic limestone cliffs. Push further along the winding coastal routes, discovering lively public beaches and watching boats sail by. Ride back as the sky turns golden, finishing your journey with a final evening swim and a well-deserved rest."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:28",
+      "total_km": 7.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Akçagerme Halk Plajı",
+            "hu": "Akçagerme Halk Plajı",
+            "ro": "Akçagerme Halk Plajı",
+            "en": "Akçagerme Halk Plajı"
+          },
+          "coords": [
+            29.601756,
+            36.206761
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem mit der Blauen Flagge ausgezeichneten Kiesstrand, der sich ideal für ein sicheres morgendliches Schwimmen mit Badeschuhen eignet.",
+            "hu": "Pihenjen ezen a Kék Zászlós kavicsos strandon egy védett öbölben, amely tökéletes egy biztonságos reggeli úszáshoz, ha megfelelő vizicipőt visel.",
+            "ro": "Relaxați-vă pe această plajă cu pietriș și Steag Albastru, situată într-un golf adăpostit, ideală pentru o baie matinală sigură cu încălțăminte de apă.",
+            "en": "Lounge at this Blue Flag shingle beach located in a sheltered bay, which is ideal for a safe morning swim if you wear proper aqua shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Hidayet Plajı",
+            "hu": "Hidayet Plajı",
+            "ro": "Hidayet Plajı",
+            "en": "Hidayet Plajı"
+          },
+          "coords": [
+            29.612295,
+            36.196915
+          ],
+          "category": "recreational",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Unechten Karettschildkröten in diesen türkisfarbenen Tiefen, mieten Sie also frühzeitig eine Liege auf den Felsen für den besten Blick.",
+            "hu": "Csodálja meg a gyakran felbukkanó álcserepesteknősöket ezekben a türkizkék mélységekben, így érdemes korán napozóágyat bérelni a sziklákon.",
+            "ro": "Admirați țestoasele marine care apar frecvent în aceste adâncuri turcoaz, așa că închiriați devreme un șezlong pe stânci pentru cea mai bună vedere.",
+            "en": "Marvel at the loggerhead sea turtles frequently spotted in these turquoise depths, so rent a sunbed early on the rocks for the best vantage point."
+          }
+        },
+        {
+          "name": {
+            "de": "İnceboğaz Halk Plajı",
+            "hu": "İnceboğaz Halk Plajı",
+            "ro": "İnceboğaz Halk Plajı",
+            "en": "İnceboğaz Halk Plajı"
+          },
+          "coords": [
+            29.618233,
+            36.198226
+          ],
+          "category": "recreational",
+          "arrive_at": "11:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die Sonne an diesem windgeschützten öffentlichen Strand, an dem Sie Miete sparen, wenn Sie Ihr eigenes Handtuch mitbringen.",
+            "hu": "Élvezze a napsütést ezen a széltől védett nyilvános strandon, ahol a saját törölköző és napernyő hozatalával megspórolhatja a bérleti díjakat.",
+            "ro": "Bucurați-vă de soare la această plajă publică cu ape liniștite, ferită de vânt, unde aducerea propriului prosop vă economisește taxe de închiriere.",
+            "en": "Soak up the sun at this public beach offering calm waters sheltered from the wind, where bringing your own towel and umbrella saves you rental fees."
+          }
+        },
+        {
+          "name": {
+            "de": "Limanağzı",
+            "hu": "Limanağzı",
+            "ro": "Limanağzı",
+            "en": "Limanağzı"
+          },
+          "coords": [
+            29.650122,
+            36.17251
+          ],
+          "category": "recreational",
+          "arrive_at": "13:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Entfliehen Sie in diese ruhige Bucht, die per Boot oder Wanderung erreichbar ist, und essen Sie unbedingt in den Strandrestaurants frische Meeresfrüchte.",
+            "hu": "Meneküljön el ebbe a nyugodt öbölbe, amely hajóval vagy túrázva érhető el, és feltétlenül étkezzen a tengerparti éttermekben, ahol friss tengeri ételeket kínálnak.",
+            "ro": "Evadați în acest golf liniștit, accesibil cu barca sau printr-o drumeție, și asigurați-vă că luați masa la restaurantele cu fructe de mare proaspete.",
+            "en": "Escape to this tranquil bay accessible by boat or a scenic hike, and be sure to dine at the beachside restaurants offering fresh local seafood."
+          }
+        },
+        {
+          "name": {
+            "de": "Yılka Beach",
+            "hu": "Yılka Beach",
+            "ro": "Yılka Beach",
+            "en": "Yılka Beach"
+          },
+          "coords": [
+            29.643007,
+            36.174725
+          ],
+          "category": "recreational",
+          "arrive_at": "14:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die erfrischenden und klaren mediterranen Gewässer an diesem unberührten Ort ein und halten Sie Ausschau nach antiken lykischen Ruinen.",
+            "hu": "Merüljön el a frissítő és hihetetlenül tiszta Földközi-tengerben ezen az érintetlen helyen, és tartsa nyitva a szemét a víz alatti ókori lükiai romokra.",
+            "ro": "Scufundați-vă în apele mediteraneene revigorante și incredibil de limpezi în acest loc curat, fiind atenți la ruinele antice liciene subacvatice.",
+            "en": "Dive into the refreshing and incredibly clear Mediterranean waters at this pristine spot, keeping an eye out for underwater ancient Lycian ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Swimming Area",
+            "hu": "Swimming Area",
+            "ro": "Swimming Area",
+            "en": "Swimming Area"
+          },
+          "coords": [
+            29.644347,
+            36.174369
+          ],
+          "category": "recreational",
+          "arrive_at": "15:43",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Treiben Sie friedlich in dieser natürlich geschützten Bucht abseits der Menschenmassen, wo ein aufblasbares Floß für zusätzliche Entspannung sorgt.",
+            "hu": "Lebegjen békésen ebben a természetesen védett öbölben, távol a tömegtől, ahová egy felfújható matrac hozatala extra kikapcsolódást nyújt.",
+            "ro": "Plutiți liniștit în acest golf protejat natural, departe de aglomerație, unde o saltea gonflabilă adaugă un strat suplimentar de relaxare.",
+            "en": "Float peacefully in this naturally protected cove away from the main crowds, where bringing an inflatable raft adds an extra layer of relaxation."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie westlich aus dem Zentrum, um die friedlichen frühen Stunden an geräumigen Kieselstränden zu genießen. Navigieren Sie entlang der Halbinsel, um in kristallklares Wasser einzutauchen, wo oft Schildkröten schwimmen. Fahren Sie über die Bucht zu den abgelegenen östlichen Buchten vorbei an markanten Landschaften. Parken Sie an der ruhigen Ostküste, um einen atemberaubenden Sonnenuntergang in Frieden zu beobachten.",
+        "hu": "Vezessen nyugatra a központból, hogy élvezze a békés kora reggeli órákat a tágas, családbarát strandokon. Navigáljon a félsziget mentén, hogy kristálytiszta vizekbe merüljön, ahol gyakran látni tengeri teknősöket. Utazzon át az öbölön az elszigetelt keleti partok felé, lenyűgöző, zord tájak mellett elhaladva. Parkoljon le a nyugodt keleti parton, hogy teljes békében nézze meg a lenyűgöző naplementét.",
+        "ro": "Conduceți spre vest din centru pentru a vă bucura de orele liniștite de dimineață la plajele spațioase. Navigați de-a lungul peninsulei pentru a vă scufunda în ape limpezi, unde se văd des țestoase marine. Călătoriți peste golf către golfurile estice izolate, trecând pe lângă peisaje aspre și uimitoare. Parcați lângă țărmurile estice liniștite pentru a privi un apus de soare uimitor în pace totală.",
+        "en": "Drive west out of the center to enjoy the peaceful early hours at spacious, family-friendly pebble beaches. Navigate along the peninsula to dive into deeper, crystal-clear waters where sea turtles are often seen. Cruise across the bay area towards the secluded eastern coves, passing striking rugged landscapes on the way. Park near the tranquil eastern shores to watch a stunning sunset in total peace before returning to town."
+      }
+    }
+  }
+}

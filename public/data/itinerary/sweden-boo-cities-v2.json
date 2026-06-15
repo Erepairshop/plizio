@@ -1,0 +1,543 @@
+{
+  "city_id": "sweden-boo-cities-v2",
+  "anchor": {
+    "name": "Boo",
+    "coords": [
+      18.25,
+      59.316667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:37",
+      "total_km": 6.17,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Tollare naturreservat",
+            "hu": "Tollare naturreservat",
+            "ro": "Tollare naturreservat",
+            "en": "Tollare naturreservat"
+          },
+          "coords": [
+            18.241776,
+            59.307035
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses friedliche Naturschutzgebiet, das von üppigen Wäldern geprägt ist, und tragen Sie feste Wanderschuhe für die leicht unebenen Wege.",
+            "hu": "Fedezze fel ezt a buja erdőkkel borított békés természetvédelmi területet, és viseljen masszív túracipőt a kissé egyenetlen ösvényeken való kényelmes sétához.",
+            "ro": "Explorați această rezervație naturală liniștită, caracterizată prin păduri luxuriante, și purtați încălțăminte de drumeție robustă pentru a parcurge confortabil traseele.",
+            "en": "Explore this peaceful nature reserve characterized by lush forests, and wear sturdy walking shoes to comfortably navigate the slightly uneven trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Hjortberget",
+            "hu": "Hjortberget",
+            "ro": "Hjortberget",
+            "en": "Hjortberget"
+          },
+          "coords": [
+            18.247683,
+            59.308782
+          ],
+          "category": "natural",
+          "arrive_at": "10:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diese natürliche Anhöhe, um einen weiten Blick über die Schärenlandschaft zu genießen, und bringen Sie eine Kamera für das tolle Küstenlicht mit.",
+            "hu": "Mássza meg ezt a természetes magaslatot a szigetvilágra nyíló lenyűgöző panorámáért, és mindenképpen hozzon magával egy fényképezőgépet a gyönyörű parti fényekhez.",
+            "ro": "Urcați pe această înălțime naturală pentru a vă bucura de priveliști panoramice asupra peisajului arhipelagului și luați un aparat foto pentru a surprinde lumina coastei.",
+            "en": "Climb to the top of this natural elevation to enjoy sweeping views of the archipelago landscape, bringing a camera to capture the stunning coastal light."
+          }
+        },
+        {
+          "name": {
+            "de": "Danspaviljongen vid Björknäs",
+            "hu": "Danspaviljongen vid Björknäs",
+            "ro": "Danspaviljongen vid Björknäs",
+            "en": "Danspaviljongen vid Björknäs"
+          },
+          "coords": [
+            18.226581,
+            59.316439
+          ],
+          "category": "historical",
+          "arrive_at": "12:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.46,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise zu diesem historischen Tanzpavillon, wo früher ausgelassen gefeiert wurde, und achten Sie besonders auf die festlichen architektonischen Details.",
+            "hu": "Lépjen vissza az időben ennél a történelmi táncpavilonnál, ahol egykor a helyiek ünnepeltek, és figyelje meg a vidám múltat tükröző építészeti részleteket.",
+            "ro": "Întoarceți-vă în timp la acest pavilion de dans istoric, unde localnicii petreceau odinioară, și priviți îndeaproape detaliile arhitecturale ce reflectă trecutul său festiv.",
+            "en": "Step back in time at this historic dance pavilion where locals once celebrated, and look closely at the architectural details that reflect its festive past."
+          }
+        },
+        {
+          "name": {
+            "de": "Skarpnäs naturreservat",
+            "hu": "Skarpnäs naturreservat",
+            "ro": "Skarpnäs naturreservat",
+            "en": "Skarpnäs naturreservat"
+          },
+          "coords": [
+            18.238521,
+            59.335481
+          ],
+          "category": "natural",
+          "arrive_at": "14:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses weitläufige, für seine Artenvielfalt bekannte Reservat und halten Sie Ausschau nach einheimischen Vogelarten in den unberührten Wäldern.",
+            "hu": "Barangoljon ebben a gazdag biológiai sokféleségéről ismert hatalmas rezervátumban, és figyelje a békés, érintetlen erdőkben fészkelő helyi madárfajokat.",
+            "ro": "Plimbați-vă prin această rezervație vastă recunoscută pentru biodiversitatea sa bogată, urmărind speciile locale de păsări care prosperă în aceste păduri senine.",
+            "en": "Wander through this expansive reserve known for its rich biodiversity, keeping an eye out for local bird species that thrive in these serene, untouched woods."
+          }
+        },
+        {
+          "name": {
+            "de": "Boo 27:1",
+            "hu": "Boo 27:1",
+            "ro": "Boo 27:1",
+            "en": "Boo 27:1"
+          },
+          "coords": [
+            18.270647,
+            59.324117
+          ],
+          "category": "historical",
+          "arrive_at": "15:47",
+          "stay_min": 110,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 2.16,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale Geschichte an dieser faszinierenden historischen Stätte, wo Informationstafeln den Kontext der frühen Besiedlung von Boo erläutern.",
+            "hu": "Fedezze fel a helyi történelmet ezen a lenyűgöző örökségvédelmi helyszínen, ahol az információs táblák bemutatják a boo-i közösség korai településszerkezetét.",
+            "ro": "Descoperiți istoria locală la acest sit de patrimoniu fascinant, unde plăcuțele informative oferă context despre modelele incipiente de așezare ale comunității din Boo.",
+            "en": "Uncover local history at this fascinating heritage site, where informational plaques provide context about the early settlement patterns of the Boo community."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen in den ruhigen Wäldern des Naturreservats Tollare, wo die frische Ostseebrise die Sinne weckt. Gegen Mittag erheben wir unsere Perspektive von den felsigen Höhen des Hjortberget. Am Nachmittag erwartet Sie ein Spaziergang durch die Geschichte am rustikalen Danspaviljongen, gefolgt von den tiefen Wäldern von Skarpnäs. Der Abend klingt sanft bei Boo 27:1 aus.",
+        "hu": "Kezdje a reggelt a Tollare naturreservat békés erdeiben, ahol a friss balti tengeri szellő felébreszti az érzékeket. Ahogy közeledik a dél, a Hjortberget sziklás magaslatairól élvezhetjük a kilátást. Délután egy történelmi séta vár ránk a rusztikus Danspaviljongen körül, majd Skarpnäs sűrű erdeje következik. Az estét a Boo 27:1 történelmi emlékeinél csendesen zárjuk.",
+        "ro": "Începeți dimineața cufundat în pădurile liniștite din Tollare naturreservat, unde briza proaspătă a Mării Baltice trezește simțurile. Spre amiază, privim de sus de pe stâncile abrupte ale Hjortberget. După-amiaza, o plimbare prin istorie vă așteaptă la rustică Danspaviljongen, urmată de pădurile adânci din Skarpnäs. Seara coboară lin la rămășițele istorice de la Boo 27:1.",
+        "en": "Start your morning immersed in the serene forests of Tollare naturreservat, where the fresh Baltic breeze awakens the senses. As midday approaches, we elevate our perspective from the rocky heights of Hjortberget. In the afternoon, a stroll through history awaits at the rustic Danspaviljongen, followed by the deep woods of Skarpnäs. Evening falls gently at the historic remnants of Boo 27:1."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:43",
+      "total_km": 7.95,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Boo 18:1",
+            "hu": "Boo 18:1",
+            "ro": "Boo 18:1",
+            "en": "Boo 18:1"
+          },
+          "coords": [
+            18.273277,
+            59.300424
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese faszinierende historische Markierung, die Einblicke in die antiken Wurzeln der Region bietet, am besten erkundet mit einem guten Reiseführer.",
+            "hu": "Látogasson el ehhez az izgalmas történelmi emlékhez, amely bepillantást enged a régió ősi gyökereibe, amit a legjobb egy alapos útikönyvvel a kezében felfedezni.",
+            "ro": "Vizitați acest marcaj istoric intrigant ce oferă o privire asupra rădăcinilor străvechi ale regiunii, cel mai bine de explorat cu un ghid bun în mână.",
+            "en": "Visit this intriguing historical marker offering a glimpse into the region's ancient roots, best explored with a knowledgeable guide or a good guidebook in hand."
+          }
+        },
+        {
+          "name": {
+            "de": "Hamn",
+            "hu": "Hamn",
+            "ro": "Hamn",
+            "en": "Hamn"
+          },
+          "coords": [
+            18.260085,
+            59.295315
+          ],
+          "category": "museum",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem ansprechenden Museum in die tiefe maritime Geschichte der Region ein und fragen Sie an der Rezeption nach den Zeiten für interaktive Führungen.",
+            "hu": "Merüljön el a térség mély tengerészeti történelmében ebben a magával ragadó múzeumban, és érdeklődjön a recepción az interaktív tárlatvezetések időpontjairól.",
+            "ro": "Pătrundeți în istoria maritimă profundă a zonei la acest muzeu captivant și verificați la recepție programul detaliat pentru tururile ghidate interactive.",
+            "en": "Dive into the deep maritime history of the area at this engaging museum, and check the front desk for schedule details regarding interactive guided tours."
+          }
+        },
+        {
+          "name": {
+            "de": "Trollsjöns naturreservat",
+            "hu": "Trollsjöns naturreservat",
+            "ro": "Trollsjöns naturreservat",
+            "en": "Trollsjöns naturreservat"
+          },
+          "coords": [
+            18.271654,
+            59.306313
+          ],
+          "category": "natural",
+          "arrive_at": "12:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.36,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am mythischen Trollsee inmitten dichter Vegetation und nehmen Sie sich einen Moment Zeit auf einer Holzbank, um scheue Wildtiere zu beobachten.",
+            "hu": "Pihenjen meg a sűrű növényzettel körülvett mitikus Troll-tó partján, és üljön le egy kis időre az egyik fapadra, hogy megfigyelhesse a félénk vadvilágot.",
+            "ro": "Relaxați-vă pe malul miticului lac Troll înconjurat de verdeață densă și luați-vă un moment de liniște pe o bancă de lemn pentru a zări animalele sălbatice timide.",
+            "en": "Relax by the mythical Troll Lake surrounded by dense greenery, taking a moment to sit quietly on one of the wooden benches to spot shy wildlife."
+          }
+        },
+        {
+          "name": {
+            "de": "Tollare naturreservat",
+            "hu": "Tollare naturreservat",
+            "ro": "Tollare naturreservat",
+            "en": "Tollare naturreservat"
+          },
+          "coords": [
+            18.241776,
+            59.307035
+          ],
+          "category": "natural",
+          "arrive_at": "13:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.68,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses friedliche Naturschutzgebiet, das von üppigen Wäldern geprägt ist, und tragen Sie feste Wanderschuhe für die leicht unebenen Wege.",
+            "hu": "Fedezze fel ezt a buja erdőkkel borított békés természetvédelmi területet, és viseljen masszív túracipőt a kissé egyenetlen ösvényeken való kényelmes sétához.",
+            "ro": "Explorați această rezervație naturală liniștită, caracterizată prin păduri luxuriante, și purtați încălțăminte de drumeție robustă pentru a parcurge confortabil traseele.",
+            "en": "Explore this peaceful nature reserve characterized by lush forests, and wear sturdy walking shoes to comfortably navigate the slightly uneven trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Hjortberget",
+            "hu": "Hjortberget",
+            "ro": "Hjortberget",
+            "en": "Hjortberget"
+          },
+          "coords": [
+            18.247683,
+            59.308782
+          ],
+          "category": "natural",
+          "arrive_at": "15:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diese natürliche Anhöhe, um einen weiten Blick über die Schärenlandschaft zu genießen, und bringen Sie eine Kamera für das tolle Küstenlicht mit.",
+            "hu": "Mássza meg ezt a természetes magaslatot a szigetvilágra nyíló lenyűgöző panorámáért, és mindenképpen hozzon magával egy fényképezőgépet a gyönyörű parti fényekhez.",
+            "ro": "Urcați pe această înălțime naturală pentru a vă bucura de priveliști panoramice asupra peisajului arhipelagului și luați un aparat foto pentru a surprinde lumina coastei.",
+            "en": "Climb to the top of this natural elevation to enjoy sweeping views of the archipelago landscape, bringing a camera to capture the stunning coastal light."
+          }
+        },
+        {
+          "name": {
+            "de": "Danspaviljongen vid Björknäs",
+            "hu": "Danspaviljongen vid Björknäs",
+            "ro": "Danspaviljongen vid Björknäs",
+            "en": "Danspaviljongen vid Björknäs"
+          },
+          "coords": [
+            18.226581,
+            59.316439
+          ],
+          "category": "historical",
+          "arrive_at": "16:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.46,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise zu diesem historischen Tanzpavillon, wo früher ausgelassen gefeiert wurde, und achten Sie besonders auf die festlichen architektonischen Details.",
+            "hu": "Lépjen vissza az időben ennél a történelmi táncpavilonnál, ahol egykor a helyiek ünnepeltek, és figyelje meg a vidám múltat tükröző építészeti részleteket.",
+            "ro": "Întoarceți-vă în timp la acest pavilion de dans istoric, unde localnicii petreceau odinioară, și priviți îndeaproape detaliile arhitecturale ce reflectă trecutul său festiv.",
+            "en": "Step back in time at this historic dance pavilion where locals once celebrated, and look closely at the architectural details that reflect its festive past."
+          }
+        },
+        {
+          "name": {
+            "de": "Skarpnäs naturreservat",
+            "hu": "Skarpnäs naturreservat",
+            "ro": "Skarpnäs naturreservat",
+            "en": "Skarpnäs naturreservat"
+          },
+          "coords": [
+            18.238521,
+            59.335481
+          ],
+          "category": "natural",
+          "arrive_at": "17:58",
+          "stay_min": 105,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses weitläufige, für seine Artenvielfalt bekannte Reservat und halten Sie Ausschau nach einheimischen Vogelarten in den unberührten Wäldern.",
+            "hu": "Barangoljon ebben a gazdag biológiai sokféleségéről ismert hatalmas rezervátumban, és figyelje a békés, érintetlen erdőkben fészkelő helyi madárfajokat.",
+            "ro": "Plimbați-vă prin această rezervație vastă recunoscută pentru biodiversitatea sa bogată, urmărind speciile locale de păsări care prosperă în aceste păduri senine.",
+            "en": "Wander through this expansive reserve known for its rich biodiversity, keeping an eye out for local bird species that thrive in these serene, untouched woods."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an den antiken Wurzeln von Boo 18:1 und tauchen Sie direkt in das lokale Erbe ein. Die Mittagszeit lädt ein, die maritimen Ausstellungen im Hamn zu erkunden, gefolgt von einer Fahrt zum Ufer des Trollsjön. Nach dem Mittag radeln Sie durch Tollare und Hjortberget. Der Tag endet, wenn Sie am alten Tanzpavillon vorbei nach Skarpnäs fahren.",
+        "hu": "Kezdje kerékpáros útját a Boo 18:1 ősi gyökereinél, elmerülve a helyi örökségben. A dél csábít a Hamn lenyűgöző tengerészeti kiállításainak felfedezésére, majd tekerjen el a Trollsjön mitikus partjaira. Ebéd után lovagoljon át Tollare és Hjortberget érintetlen környezetén, élvezve a friss levegőt. A nap a régi táncpavilon mellett elhaladva a Skarpnäs-ben ér véget.",
+        "ro": "Începeți călătoria cu bicicleta la rădăcinile străvechi de la Boo 18:1, explorând direct moștenirea locală. Amiaza vă invită să descoperiți expozițiile maritime la Hamn, urmate de o pedalare către țărmurile mitice de la Trollsjön. După prânz, mergeți prin mediile imaculate din Tollare și Hjortberget. Ziua se încheie trecând pe lângă vechiul pavilion de dans spre Skarpnäs.",
+        "en": "Kick off your cycling journey at the ancient roots of Boo 18:1, diving right into the local heritage. Midday invites you to explore the fascinating maritime displays at Hamn, followed by a pedal to the mythical shores of Trollsjön. After lunch, ride through the pristine environments of Tollare and Hjortberget, enjoying the crisp air. The day ends rolling past the old dance pavilion to Skarpnäs."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "22:01",
+      "total_km": 11.47,
+      "stop_count": 9,
+      "stops": [
+        {
+          "name": {
+            "de": "Hamn",
+            "hu": "Hamn",
+            "ro": "Hamn",
+            "en": "Hamn"
+          },
+          "coords": [
+            18.260085,
+            59.295315
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem ansprechenden Museum in die tiefe maritime Geschichte der Region ein und fragen Sie an der Rezeption nach den Zeiten für interaktive Führungen.",
+            "hu": "Merüljön el a térség mély tengerészeti történelmében ebben a magával ragadó múzeumban, és érdeklődjön a recepción az interaktív tárlatvezetések időpontjairól.",
+            "ro": "Pătrundeți în istoria maritimă profundă a zonei la acest muzeu captivant și verificați la recepție programul detaliat pentru tururile ghidate interactive.",
+            "en": "Dive into the deep maritime history of the area at this engaging museum, and check the front desk for schedule details regarding interactive guided tours."
+          }
+        },
+        {
+          "name": {
+            "de": "Boo 18:1",
+            "hu": "Boo 18:1",
+            "ro": "Boo 18:1",
+            "en": "Boo 18:1"
+          },
+          "coords": [
+            18.273277,
+            59.300424
+          ],
+          "category": "historical",
+          "arrive_at": "10:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese faszinierende historische Markierung, die Einblicke in die antiken Wurzeln der Region bietet, am besten erkundet mit einem guten Reiseführer.",
+            "hu": "Látogasson el ehhez az izgalmas történelmi emlékhez, amely bepillantást enged a régió ősi gyökereibe, amit a legjobb egy alapos útikönyvvel a kezében felfedezni.",
+            "ro": "Vizitați acest marcaj istoric intrigant ce oferă o privire asupra rădăcinilor străvechi ale regiunii, cel mai bine de explorat cu un ghid bun în mână.",
+            "en": "Visit this intriguing historical marker offering a glimpse into the region's ancient roots, best explored with a knowledgeable guide or a good guidebook in hand."
+          }
+        },
+        {
+          "name": {
+            "de": "Trollsjöns naturreservat",
+            "hu": "Trollsjöns naturreservat",
+            "ro": "Trollsjöns naturreservat",
+            "en": "Trollsjöns naturreservat"
+          },
+          "coords": [
+            18.271654,
+            59.306313
+          ],
+          "category": "natural",
+          "arrive_at": "12:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.67,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am mythischen Trollsee inmitten dichter Vegetation und nehmen Sie sich einen Moment Zeit auf einer Holzbank, um scheue Wildtiere zu beobachten.",
+            "hu": "Pihenjen meg a sűrű növényzettel körülvett mitikus Troll-tó partján, és üljön le egy kis időre az egyik fapadra, hogy megfigyelhesse a félénk vadvilágot.",
+            "ro": "Relaxați-vă pe malul miticului lac Troll înconjurat de verdeață densă și luați-vă un moment de liniște pe o bancă de lemn pentru a zări animalele sălbatice timide.",
+            "en": "Relax by the mythical Troll Lake surrounded by dense greenery, taking a moment to sit quietly on one of the wooden benches to spot shy wildlife."
+          }
+        },
+        {
+          "name": {
+            "de": "Tollare naturreservat",
+            "hu": "Tollare naturreservat",
+            "ro": "Tollare naturreservat",
+            "en": "Tollare naturreservat"
+          },
+          "coords": [
+            18.241776,
+            59.307035
+          ],
+          "category": "natural",
+          "arrive_at": "13:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.68,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses friedliche Naturschutzgebiet, das von üppigen Wäldern geprägt ist, und tragen Sie feste Wanderschuhe für die leicht unebenen Wege.",
+            "hu": "Fedezze fel ezt a buja erdőkkel borított békés természetvédelmi területet, és viseljen masszív túracipőt a kissé egyenetlen ösvényeken való kényelmes sétához.",
+            "ro": "Explorați această rezervație naturală liniștită, caracterizată prin păduri luxuriante, și purtați încălțăminte de drumeție robustă pentru a parcurge confortabil traseele.",
+            "en": "Explore this peaceful nature reserve characterized by lush forests, and wear sturdy walking shoes to comfortably navigate the slightly uneven trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Hjortberget",
+            "hu": "Hjortberget",
+            "ro": "Hjortberget",
+            "en": "Hjortberget"
+          },
+          "coords": [
+            18.247683,
+            59.308782
+          ],
+          "category": "natural",
+          "arrive_at": "14:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diese natürliche Anhöhe, um einen weiten Blick über die Schärenlandschaft zu genießen, und bringen Sie eine Kamera für das tolle Küstenlicht mit.",
+            "hu": "Mássza meg ezt a természetes magaslatot a szigetvilágra nyíló lenyűgöző panorámáért, és mindenképpen hozzon magával egy fényképezőgépet a gyönyörű parti fényekhez.",
+            "ro": "Urcați pe această înălțime naturală pentru a vă bucura de priveliști panoramice asupra peisajului arhipelagului și luați un aparat foto pentru a surprinde lumina coastei.",
+            "en": "Climb to the top of this natural elevation to enjoy sweeping views of the archipelago landscape, bringing a camera to capture the stunning coastal light."
+          }
+        },
+        {
+          "name": {
+            "de": "Danspaviljongen vid Björknäs",
+            "hu": "Danspaviljongen vid Björknäs",
+            "ro": "Danspaviljongen vid Björknäs",
+            "en": "Danspaviljongen vid Björknäs"
+          },
+          "coords": [
+            18.226581,
+            59.316439
+          ],
+          "category": "historical",
+          "arrive_at": "16:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.46,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise zu diesem historischen Tanzpavillon, wo früher ausgelassen gefeiert wurde, und achten Sie besonders auf die festlichen architektonischen Details.",
+            "hu": "Lépjen vissza az időben ennél a történelmi táncpavilonnál, ahol egykor a helyiek ünnepeltek, és figyelje meg a vidám múltat tükröző építészeti részleteket.",
+            "ro": "Întoarceți-vă în timp la acest pavilion de dans istoric, unde localnicii petreceau odinioară, și priviți îndeaproape detaliile arhitecturale ce reflectă trecutul său festiv.",
+            "en": "Step back in time at this historic dance pavilion where locals once celebrated, and look closely at the architectural details that reflect its festive past."
+          }
+        },
+        {
+          "name": {
+            "de": "Skarpnäs naturreservat",
+            "hu": "Skarpnäs naturreservat",
+            "ro": "Skarpnäs naturreservat",
+            "en": "Skarpnäs naturreservat"
+          },
+          "coords": [
+            18.238521,
+            59.335481
+          ],
+          "category": "natural",
+          "arrive_at": "17:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses weitläufige, für seine Artenvielfalt bekannte Reservat und halten Sie Ausschau nach einheimischen Vogelarten in den unberührten Wäldern.",
+            "hu": "Barangoljon ebben a gazdag biológiai sokféleségéről ismert hatalmas rezervátumban, és figyelje a békés, érintetlen erdőkben fészkelő helyi madárfajokat.",
+            "ro": "Plimbați-vă prin această rezervație vastă recunoscută pentru biodiversitatea sa bogată, urmărind speciile locale de păsări care prosperă în aceste păduri senine.",
+            "en": "Wander through this expansive reserve known for its rich biodiversity, keeping an eye out for local bird species that thrive in these serene, untouched woods."
+          }
+        },
+        {
+          "name": {
+            "de": "Boo 27:1",
+            "hu": "Boo 27:1",
+            "ro": "Boo 27:1",
+            "en": "Boo 27:1"
+          },
+          "coords": [
+            18.270647,
+            59.324117
+          ],
+          "category": "historical",
+          "arrive_at": "18:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.16,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale Geschichte an dieser faszinierenden historischen Stätte, wo Informationstafeln den Kontext der frühen Besiedlung von Boo erläutern.",
+            "hu": "Fedezze fel a helyi történelmet ezen a lenyűgöző örökségvédelmi helyszínen, ahol az információs táblák bemutatják a boo-i közösség korai településszerkezetét.",
+            "ro": "Descoperiți istoria locală la acest sit de patrimoniu fascinant, unde plăcuțele informative oferă context despre modelele incipiente de așezare ale comunității din Boo.",
+            "en": "Uncover local history at this fascinating heritage site, where informational plaques provide context about the early settlement patterns of the Boo community."
+          }
+        },
+        {
+          "name": {
+            "de": "Badplats Eriksvik",
+            "hu": "Badplats Eriksvik",
+            "ro": "Badplats Eriksvik",
+            "en": "Badplats Eriksvik"
+          },
+          "coords": [
+            18.302447,
+            59.333161
+          ],
+          "category": "recreational",
+          "arrive_at": "20:16",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.05,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit einem erfrischenden Bad an diesem beliebten örtlichen Badeplatz; vergessen Sie nicht Ihr Handtuch und vielleicht ein Picknick am Wasser.",
+            "hu": "Zárja a napot egy frissítő csobbanással ezen a népszerű helyi fürdőhelyen; ne felejtsen el törölközőt és egy vízparti piknikhez való finomságokat csomagolni.",
+            "ro": "Încheiați-vă ziua cu o baie revigorantă la acest popular loc de scăldat local, nu uitați să luați un prosop și poate un picnic pentru a vă bucura pe malul apei.",
+            "en": "Finish your day with a refreshing dip at this popular local bathing spot, remembering to pack your own towel and perhaps a picnic to enjoy by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr umfassender Roadtrip beginnt mit einem tiefen Einblick in die maritime Geschichte im Hamn, bevor Sie Boo 18:1 besuchen. Gegen Mittag bieten die ruhigen Gewässer von Trollsjön ein perfektes Zwischenspiel. Der Nachmittag ist eine Kaskade von natürlicher Schönheit und Geschichte zwischen Tollare, Hjortberget und Danspaviljongen. Beenden Sie den Tag mit einem Bad bei Sonnenuntergang in Eriksvik.",
+        "hu": "Ez a kiterjedt autós utazás a Hamn tengerészeti történelmének mélyére vezet, majd felkeresi a Boo 18:1 ősi köveit. Ebédidőhöz közeledve a Trollsjön békés vizei tökéletes, csendes közjátékot nyújtanak. A délután a természeti szépség és a történelem áradata, ahogy Tollare, Hjortberget és a Danspaviljongen között vezet. Zárja a napot egy naplementés úszással Eriksvikben.",
+        "ro": "Excursia cu mașina începe cu o scufundare în istoria maritimă la Hamn înainte de a vizita pietrele ancestrale de la Boo 18:1. Spre prânz, apele liniștite ale lacului Trollsjön oferă un interludiu perfect și liniștit. După-amiaza este o cascadă de frumusețe naturală și istorie între Tollare, Hjortberget și fermecătorul Danspaviljongen. Încheiați cu o baie la apus în Eriksvik.",
+        "en": "Your extensive road trip begins with deep dives into maritime history at Hamn before visiting the ancestral stones of Boo 18:1. As lunchtime nears, the peaceful waters of Trollsjön provide a perfect, quiet interlude. The afternoon is a cascade of natural beauty and history, driving between Tollare, Hjortberget, and the charming Danspaviljongen. Conclude with a sunset swim at Eriksvik."
+      }
+    }
+  }
+}

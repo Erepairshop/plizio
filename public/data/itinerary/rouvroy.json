@@ -1,0 +1,520 @@
+{
+  "city_id": "rouvroy",
+  "anchor": {
+    "name": "Rouvroy",
+    "coords": [
+      2.9039,
+      50.3936
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 4.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kriegerdenkmal von Rouvroy",
+            "hu": "Rouvroy Háborús Emlékmű",
+            "ro": "Monumentul Eroilor din Rouvroy",
+            "en": "War Memorial of Rouvroy"
+          },
+          "coords": [
+            2.905648,
+            50.39203
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das ergreifende Kriegerdenkmal zu Ehren lokaler Helden und nehmen Sie sich einen Moment Zeit, um über die reiche Geschichte nachzudenken.",
+            "hu": "Csodálja meg a helyi hősök előtt tisztelgő megható háborús emlékművet, és szánjon egy percet Rouvroy gazdag történelmének elmélyült átgondolására.",
+            "ro": "Admirați impresionantul monument dedicat eroilor locali și luați-vă un moment pentru a reflecta asupra istoriei bogate a orașului într-un cadru liniștit.",
+            "en": "Admire the poignant War Memorial honoring local heroes, and take a moment to reflect on Rouvroy's rich history while enjoying the tranquil surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Abraumhalden von Rouvroy",
+            "hu": "Rouvroy Meddőhányói",
+            "ro": "Haldele de Steril din Rouvroy",
+            "en": "Slag Heaps of Rouvroy"
+          },
+          "coords": [
+            2.903673,
+            50.393427
+          ],
+          "category": "natural",
+          "arrive_at": "09:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die markanten Abraumhalden für atemberaubende Panoramablicke und tragen Sie bequeme Schuhe, um das historische Bergbaugebiet sicher zu erkunden.",
+            "hu": "Mássza meg az ikonikus meddőhányókat a lélegzetelállító panorámáért, és viseljen kényelmes cipőt a történelmi bányaterület biztonságos felfedezéséhez.",
+            "ro": "Urcați pe iconicele halde de steril pentru a admira priveliști panoramice uluitoare, purtând încălțăminte confortabilă pentru a explora în siguranță zona.",
+            "en": "Climb the iconic Slag Heaps to experience breathtaking panoramic views of the region and wear comfortable shoes to navigate the historic mining terrain safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Cité Nouméa",
+            "hu": "Cité Nouméa",
+            "ro": "Cité Nouméa",
+            "en": "Cité Nouméa"
+          },
+          "coords": [
+            2.912579,
+            50.404824
+          ],
+          "category": "historical",
+          "arrive_at": "11:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie den architektonischen Charme der Cité Nouméa, um das Bergbauerbe zu verstehen, und bringen Sie Ihre Kamera für die einzigartigen Backsteinhäuser mit.",
+            "hu": "Fedezze fel a Cité Nouméa építészeti varázsát, hogy megértse a bányászati örökséget, és ne felejtse el fényképezőgépét az egyedi téglaházak megörökítéséhez.",
+            "ro": "Explorați farmecul arhitectural al Cité Nouméa pentru a înțelege patrimoniul minier și nu uitați aparatul foto pentru a surprinde casele unice din cărămidă.",
+            "en": "Explore the architectural charm of Cité Nouméa to understand the region's mining heritage, and don't forget your camera to capture the unique brick houses."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Louis",
+            "hu": "Saint-Louis Templom",
+            "ro": "Biserica Saint-Louis",
+            "en": "Saint-Louis Church"
+          },
+          "coords": [
+            2.912579,
+            50.404824
+          ],
+          "category": "religious",
+          "arrive_at": "12:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betreten Sie die wunderschön gestaltete Kirche Saint-Louis, um ihre atemberaubenden Buntglasfenster zu bewundern, und besuchen Sie sie am besten morgens.",
+            "hu": "Lépjen be a gyönyörűen kidolgozott Saint-Louis templomba, csodálja meg az ólomüveg ablakokat, és a legjobb fényviszonyokért próbáljon délelőtt érkezni.",
+            "ro": "Pășiți în minunata biserică Saint-Louis pentru a admira vitraliile uimitoare, fiind recomandat să o vizitați dimineața pentru cea mai bună lumină naturală.",
+            "en": "Step inside the beautifully crafted Saint-Louis Church to admire its stunning stained glass windows, and visit during morning hours for the best natural lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Léger",
+            "hu": "Église Saint-Léger",
+            "ro": "Église Saint-Léger",
+            "en": "Église Saint-Léger"
+          },
+          "coords": [
+            2.926926,
+            50.390342
+          ],
+          "category": "religious",
+          "arrive_at": "13:50",
+          "stay_min": 70,
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die friedliche Atmosphäre der Église Saint-Léger, die einen ruhigen Rückzugsort bietet, und achten Sie besonders auf die feinen Holzarbeiten.",
+            "hu": "Fedezze fel az Église Saint-Léger békés légkörét, amely csendes menedéket kínál a nyüzsgő utcák elől, és szánjon időt a bonyolult famunkák megfigyelésére.",
+            "ro": "Descoperiți atmosfera pașnică a bisericii Saint-Léger, care oferă un refugiu liniștit, și alocați-vă timp pentru a remarca detaliile complicate din lemn.",
+            "en": "Discover the peaceful atmosphere of Église Saint-Léger, which offers a quiet retreat from the bustling streets, and take time to notice the intricate woodwork inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag in Rouvroy mit der Erkundung des bürgerlichen Herzens und erklimmen Sie die markanten Abraumhalden für einen weiten Blick auf das Bergbauerbe. Mittags schlendern Sie durch die charmanten Straßen der Cité Nouméa und besuchen die Kirche Saint-Louis. Am Nachmittag entdecken Sie weitere historische Kirchen. Lassen Sie den Tag mit dem tiefen Geschichtsbewusstsein ausklingen.",
+        "hu": "Kezdje a rouvroy-i napot a polgári központ felfedezésével és a meddőhányók megmászásával, ahonnan csodás kilátás nyílik a bányászati örökségre. Délben sétáljon végig a Cité Nouméa bájos utcáin, és látogassa meg a Saint-Louis templomot. A délután folyamán fedezze fel a tájat tarkító történelmi templomokat. Zárja a napot Észak-Franciaország gazdag történelmével gazdagodva.",
+        "ro": "Începeți ziua în Rouvroy explorând centrul civic și urcând pe haldele de steril pentru o priveliște vastă a moștenirii miniere. La prânz, plimbați-vă pe străzile fermecătoare din Cité Nouméa și vizitați biserica Saint-Louis. După-amiaza este dedicată descoperirii mai multor biserici de patrimoniu care presară peisajul. Încheiați-vă ziua îmbogățiți de istoria profundă a nordului Franței.",
+        "en": "Begin your Rouvroy day exploring its civic heart and climbing the iconic Slag Heaps for a sprawling view of its mining legacy. Midday takes you through the charming streets of Cité Nouméa, paired with the serene beauty of the Saint-Louis Church. The afternoon consists of discovering multiple heritage churches that dot the landscape. Wrap up your day enriched by northern France's deep history."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:58",
+      "total_km": 8.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Église Saint-Martin",
+            "ro": "Église Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            2.88362,
+            50.382541
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die historische Kirche Saint-Martin mit ihrer großen kulturellen Bedeutung und betrachten Sie die Außenfassade, bevor Sie das friedliche Kirchenschiff betreten.",
+            "hu": "Csodálja meg a történelmi jelentőségű Église Saint-Martin épületét, és alaposan vegye szemügyre a külső homlokzatot, mielőtt belépne a nyugodt főhajóba.",
+            "ro": "Admirați istorica biserică Saint-Martin cu semnificația sa culturală profundă și priviți atent fațada exterioară înainte de a păși în naosul senin.",
+            "en": "Marvel at the historic Église Saint-Martin with its profound cultural significance, and look closely at the exterior facade before stepping into the serene nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Kriegerdenkmal von Rouvroy",
+            "hu": "Rouvroy Háborús Emlékmű",
+            "ro": "Monumentul Eroilor din Rouvroy",
+            "en": "War Memorial of Rouvroy"
+          },
+          "coords": [
+            2.905648,
+            50.39203
+          ],
+          "category": "civic",
+          "arrive_at": "10:04",
+          "stay_min": 15,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie das ergreifende Kriegerdenkmal zu Ehren lokaler Helden und nehmen Sie sich einen Moment Zeit, um über die reiche Geschichte nachzudenken.",
+            "hu": "Csodálja meg a helyi hősök előtt tisztelgő megható háborús emlékművet, és szánjon egy percet Rouvroy gazdag történelmének elmélyült átgondolására.",
+            "ro": "Admirați impresionantul monument dedicat eroilor locali și luați-vă un moment pentru a reflecta asupra istoriei bogate a orașului într-un cadru liniștit.",
+            "en": "Admire the poignant War Memorial honoring local heroes, and take a moment to reflect on Rouvroy's rich history while enjoying the tranquil surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Abraumhalden von Rouvroy",
+            "hu": "Rouvroy Meddőhányói",
+            "ro": "Haldele de Steril din Rouvroy",
+            "en": "Slag Heaps of Rouvroy"
+          },
+          "coords": [
+            2.903673,
+            50.393427
+          ],
+          "category": "natural",
+          "arrive_at": "10:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die markanten Abraumhalden für atemberaubende Panoramablicke und tragen Sie bequeme Schuhe, um das historische Bergbaugebiet sicher zu erkunden.",
+            "hu": "Mássza meg az ikonikus meddőhányókat a lélegzetelállító panorámáért, és viseljen kényelmes cipőt a történelmi bányaterület biztonságos felfedezéséhez.",
+            "ro": "Urcați pe iconicele halde de steril pentru a admira priveliști panoramice uluitoare, purtând încălțăminte confortabilă pentru a explora în siguranță zona.",
+            "en": "Climb the iconic Slag Heaps to experience breathtaking panoramic views of the region and wear comfortable shoes to navigate the historic mining terrain safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Cité Nouméa",
+            "hu": "Cité Nouméa",
+            "ro": "Cité Nouméa",
+            "en": "Cité Nouméa"
+          },
+          "coords": [
+            2.912579,
+            50.404824
+          ],
+          "category": "historical",
+          "arrive_at": "11:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie den architektonischen Charme der Cité Nouméa, um das Bergbauerbe zu verstehen, und bringen Sie Ihre Kamera für die einzigartigen Backsteinhäuser mit.",
+            "hu": "Fedezze fel a Cité Nouméa építészeti varázsát, hogy megértse a bányászati örökséget, és ne felejtse el fényképezőgépét az egyedi téglaházak megörökítéséhez.",
+            "ro": "Explorați farmecul arhitectural al Cité Nouméa pentru a înțelege patrimoniul minier și nu uitați aparatul foto pentru a surprinde casele unice din cărămidă.",
+            "en": "Explore the architectural charm of Cité Nouméa to understand the region's mining heritage, and don't forget your camera to capture the unique brick houses."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Louis",
+            "hu": "Saint-Louis Templom",
+            "ro": "Biserica Saint-Louis",
+            "en": "Saint-Louis Church"
+          },
+          "coords": [
+            2.912579,
+            50.404824
+          ],
+          "category": "religious",
+          "arrive_at": "13:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betreten Sie die wunderschön gestaltete Kirche Saint-Louis, um ihre atemberaubenden Buntglasfenster zu bewundern, und besuchen Sie sie am besten morgens.",
+            "hu": "Lépjen be a gyönyörűen kidolgozott Saint-Louis templomba, csodálja meg az ólomüveg ablakokat, és a legjobb fényviszonyokért próbáljon délelőtt érkezni.",
+            "ro": "Pășiți în minunata biserică Saint-Louis pentru a admira vitraliile uimitoare, fiind recomandat să o vizitați dimineața pentru cea mai bună lumină naturală.",
+            "en": "Step inside the beautifully crafted Saint-Louis Church to admire its stunning stained glass windows, and visit during morning hours for the best natural lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-de-la-Visitation",
+            "hu": "Église Notre-Dame-de-la-Visitation",
+            "ro": "Église Notre-Dame-de-la-Visitation",
+            "en": "Église Notre-Dame-de-la-Visitation"
+          },
+          "coords": [
+            2.91342,
+            50.381014
+          ],
+          "category": "religious",
+          "arrive_at": "13:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Genießen Sie das spirituelle Ambiente der Église Notre-Dame-de-la-Visitation, einem architektonischen Juwel der Gegend, und besuchen Sie die ruhigen Seitenkapellen.",
+            "hu": "Élvezze az Église Notre-Dame-de-la-Visitation spirituális hangulatát, a környék építészeti gyöngyszemét, és látogassa meg az oldalkápolnákat egy kis elmélyülésre.",
+            "ro": "Bucurați-vă de ambianța spirituală a bisericii Notre-Dame-de-la-Visitation, o bijuterie arhitecturală a zonei, și vizitați capelele laterale pentru reflecție.",
+            "en": "Take in the spiritual ambiance of Église Notre-Dame-de-la-Visitation, an architectural gem of the area, and visit the side chapels for moments of quiet reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Léger",
+            "hu": "Église Saint-Léger",
+            "ro": "Église Saint-Léger",
+            "en": "Église Saint-Léger"
+          },
+          "coords": [
+            2.926926,
+            50.390342
+          ],
+          "category": "religious",
+          "arrive_at": "14:48",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die friedliche Atmosphäre der Église Saint-Léger, die einen ruhigen Rückzugsort bietet, und achten Sie besonders auf die feinen Holzarbeiten.",
+            "hu": "Fedezze fel az Église Saint-Léger békés légkörét, amely csendes menedéket kínál a nyüzsgő utcák elől, és szánjon időt a bonyolult famunkák megfigyelésére.",
+            "ro": "Descoperiți atmosfera pașnică a bisericii Saint-Léger, care oferă un refugiu liniștit, și alocați-vă timp pentru a remarca detaliile complicate din lemn.",
+            "en": "Discover the peaceful atmosphere of Église Saint-Léger, which offers a quiet retreat from the bustling streets, and take time to notice the intricate woodwork inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag in Rouvroy mit der Erkundung des bürgerlichen Herzens und erklimmen Sie die markanten Abraumhalden für einen weiten Blick auf das Bergbauerbe. Mittags schlendern Sie durch die charmanten Straßen der Cité Nouméa und besuchen die Kirche Saint-Louis. Am Nachmittag entdecken Sie weitere historische Kirchen. Lassen Sie den Tag mit dem tiefen Geschichtsbewusstsein ausklingen.",
+        "hu": "Kezdje a rouvroy-i napot a polgári központ felfedezésével és a meddőhányók megmászásával, ahonnan csodás kilátás nyílik a bányászati örökségre. Délben sétáljon végig a Cité Nouméa bájos utcáin, és látogassa meg a Saint-Louis templomot. A délután folyamán fedezze fel a tájat tarkító történelmi templomokat. Zárja a napot Észak-Franciaország gazdag történelmével gazdagodva.",
+        "ro": "Începeți ziua în Rouvroy explorând centrul civic și urcând pe haldele de steril pentru o priveliște vastă a moștenirii miniere. La prânz, plimbați-vă pe străzile fermecătoare din Cité Nouméa și vizitați biserica Saint-Louis. După-amiaza este dedicată descoperirii mai multor biserici de patrimoniu care presară peisajul. Încheiați-vă ziua îmbogățiți de istoria profundă a nordului Franței.",
+        "en": "Begin your Rouvroy day exploring its civic heart and climbing the iconic Slag Heaps for a sprawling view of its mining legacy. Midday takes you through the charming streets of Cité Nouméa, paired with the serene beauty of the Saint-Louis Church. The afternoon consists of discovering multiple heritage churches that dot the landscape. Wrap up your day enriched by northern France's deep history."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:13",
+      "total_km": 10.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Église Saint-Martin",
+            "ro": "Église Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            2.88362,
+            50.382541
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die historische Kirche Saint-Martin mit ihrer großen kulturellen Bedeutung und betrachten Sie die Außenfassade, bevor Sie das friedliche Kirchenschiff betreten.",
+            "hu": "Csodálja meg a történelmi jelentőségű Église Saint-Martin épületét, és alaposan vegye szemügyre a külső homlokzatot, mielőtt belépne a nyugodt főhajóba.",
+            "ro": "Admirați istorica biserică Saint-Martin cu semnificația sa culturală profundă și priviți atent fațada exterioară înainte de a păși în naosul senin.",
+            "en": "Marvel at the historic Église Saint-Martin with its profound cultural significance, and look closely at the exterior facade before stepping into the serene nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Kriegerdenkmal von Rouvroy",
+            "hu": "Rouvroy Háborús Emlékmű",
+            "ro": "Monumentul Eroilor din Rouvroy",
+            "en": "War Memorial of Rouvroy"
+          },
+          "coords": [
+            2.905648,
+            50.39203
+          ],
+          "category": "civic",
+          "arrive_at": "09:56",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie das ergreifende Kriegerdenkmal zu Ehren lokaler Helden und nehmen Sie sich einen Moment Zeit, um über die reiche Geschichte nachzudenken.",
+            "hu": "Csodálja meg a helyi hősök előtt tisztelgő megható háborús emlékművet, és szánjon egy percet Rouvroy gazdag történelmének elmélyült átgondolására.",
+            "ro": "Admirați impresionantul monument dedicat eroilor locali și luați-vă un moment pentru a reflecta asupra istoriei bogate a orașului într-un cadru liniștit.",
+            "en": "Admire the poignant War Memorial honoring local heroes, and take a moment to reflect on Rouvroy's rich history while enjoying the tranquil surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Abraumhalden von Rouvroy",
+            "hu": "Rouvroy Meddőhányói",
+            "ro": "Haldele de Steril din Rouvroy",
+            "en": "Slag Heaps of Rouvroy"
+          },
+          "coords": [
+            2.903673,
+            50.393427
+          ],
+          "category": "natural",
+          "arrive_at": "10:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die markanten Abraumhalden für atemberaubende Panoramablicke und tragen Sie bequeme Schuhe, um das historische Bergbaugebiet sicher zu erkunden.",
+            "hu": "Mássza meg az ikonikus meddőhányókat a lélegzetelállító panorámáért, és viseljen kényelmes cipőt a történelmi bányaterület biztonságos felfedezéséhez.",
+            "ro": "Urcați pe iconicele halde de steril pentru a admira priveliști panoramice uluitoare, purtând încălțăminte confortabilă pentru a explora în siguranță zona.",
+            "en": "Climb the iconic Slag Heaps to experience breathtaking panoramic views of the region and wear comfortable shoes to navigate the historic mining terrain safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Cité Nouméa",
+            "hu": "Cité Nouméa",
+            "ro": "Cité Nouméa",
+            "en": "Cité Nouméa"
+          },
+          "coords": [
+            2.912579,
+            50.404824
+          ],
+          "category": "historical",
+          "arrive_at": "11:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie den architektonischen Charme der Cité Nouméa, um das Bergbauerbe zu verstehen, und bringen Sie Ihre Kamera für die einzigartigen Backsteinhäuser mit.",
+            "hu": "Fedezze fel a Cité Nouméa építészeti varázsát, hogy megértse a bányászati örökséget, és ne felejtse el fényképezőgépét az egyedi téglaházak megörökítéséhez.",
+            "ro": "Explorați farmecul arhitectural al Cité Nouméa pentru a înțelege patrimoniul minier și nu uitați aparatul foto pentru a surprinde casele unice din cărămidă.",
+            "en": "Explore the architectural charm of Cité Nouméa to understand the region's mining heritage, and don't forget your camera to capture the unique brick houses."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Louis",
+            "hu": "Saint-Louis Templom",
+            "ro": "Biserica Saint-Louis",
+            "en": "Saint-Louis Church"
+          },
+          "coords": [
+            2.912579,
+            50.404824
+          ],
+          "category": "religious",
+          "arrive_at": "12:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betreten Sie die wunderschön gestaltete Kirche Saint-Louis, um ihre atemberaubenden Buntglasfenster zu bewundern, und besuchen Sie sie am besten morgens.",
+            "hu": "Lépjen be a gyönyörűen kidolgozott Saint-Louis templomba, csodálja meg az ólomüveg ablakokat, és a legjobb fényviszonyokért próbáljon délelőtt érkezni.",
+            "ro": "Pășiți în minunata biserică Saint-Louis pentru a admira vitraliile uimitoare, fiind recomandat să o vizitați dimineața pentru cea mai bună lumină naturală.",
+            "en": "Step inside the beautifully crafted Saint-Louis Church to admire its stunning stained glass windows, and visit during morning hours for the best natural lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-de-la-Visitation",
+            "hu": "Église Notre-Dame-de-la-Visitation",
+            "ro": "Église Notre-Dame-de-la-Visitation",
+            "en": "Église Notre-Dame-de-la-Visitation"
+          },
+          "coords": [
+            2.91342,
+            50.381014
+          ],
+          "category": "religious",
+          "arrive_at": "13:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Genießen Sie das spirituelle Ambiente der Église Notre-Dame-de-la-Visitation, einem architektonischen Juwel der Gegend, und besuchen Sie die ruhigen Seitenkapellen.",
+            "hu": "Élvezze az Église Notre-Dame-de-la-Visitation spirituális hangulatát, a környék építészeti gyöngyszemét, és látogassa meg az oldalkápolnákat egy kis elmélyülésre.",
+            "ro": "Bucurați-vă de ambianța spirituală a bisericii Notre-Dame-de-la-Visitation, o bijuterie arhitecturală a zonei, și vizitați capelele laterale pentru reflecție.",
+            "en": "Take in the spiritual ambiance of Église Notre-Dame-de-la-Visitation, an architectural gem of the area, and visit the side chapels for moments of quiet reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Léger",
+            "hu": "Église Saint-Léger",
+            "ro": "Église Saint-Léger",
+            "en": "Église Saint-Léger"
+          },
+          "coords": [
+            2.926926,
+            50.390342
+          ],
+          "category": "religious",
+          "arrive_at": "14:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die friedliche Atmosphäre der Église Saint-Léger, die einen ruhigen Rückzugsort bietet, und achten Sie besonders auf die feinen Holzarbeiten.",
+            "hu": "Fedezze fel az Église Saint-Léger békés légkörét, amely csendes menedéket kínál a nyüzsgő utcák elől, és szánjon időt a bonyolult famunkák megfigyelésére.",
+            "ro": "Descoperiți atmosfera pașnică a bisericii Saint-Léger, care oferă un refugiu liniștit, și alocați-vă timp pentru a remarca detaliile complicate din lemn.",
+            "en": "Discover the peaceful atmosphere of Église Saint-Léger, which offers a quiet retreat from the bustling streets, and take time to notice the intricate woodwork inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sainte-Barbe",
+            "hu": "Église Sainte-Barbe",
+            "ro": "Église Sainte-Barbe",
+            "en": "Église Sainte-Barbe"
+          },
+          "coords": [
+            2.937503,
+            50.397691
+          ],
+          "category": "religious",
+          "arrive_at": "15:03",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre kulturelle Reise in der Église Sainte-Barbe, einem den Bergleuten gewidmeten religiösen Denkmal, und beobachten Sie die einzigartigen industriellen Einflüsse.",
+            "hu": "Zárja kulturális utazását az Église Sainte-Barbe-nál, a bányászoknak szentelt vallási emlékműnél, és figyelje meg a tervezésében rejlő egyedi ipari hatásokat.",
+            "ro": "Încheiați-vă călătoria culturală la biserica Sainte-Barbe, un monument religios remarcabil dedicat minerilor, observând influențele industriale unice în design.",
+            "en": "End your cultural journey at Église Sainte-Barbe, a striking religious monument dedicated to miners, and observe the unique industrial influences in its design."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag in Rouvroy mit der Erkundung des bürgerlichen Herzens und erklimmen Sie die markanten Abraumhalden für einen weiten Blick auf das Bergbauerbe. Mittags schlendern Sie durch die charmanten Straßen der Cité Nouméa und besuchen die Kirche Saint-Louis. Am Nachmittag entdecken Sie weitere historische Kirchen. Lassen Sie den Tag mit dem tiefen Geschichtsbewusstsein ausklingen.",
+        "hu": "Kezdje a rouvroy-i napot a polgári központ felfedezésével és a meddőhányók megmászásával, ahonnan csodás kilátás nyílik a bányászati örökségre. Délben sétáljon végig a Cité Nouméa bájos utcáin, és látogassa meg a Saint-Louis templomot. A délután folyamán fedezze fel a tájat tarkító történelmi templomokat. Zárja a napot Észak-Franciaország gazdag történelmével gazdagodva.",
+        "ro": "Începeți ziua în Rouvroy explorând centrul civic și urcând pe haldele de steril pentru o priveliște vastă a moștenirii miniere. La prânz, plimbați-vă pe străzile fermecătoare din Cité Nouméa și vizitați biserica Saint-Louis. După-amiaza este dedicată descoperirii mai multor biserici de patrimoniu care presară peisajul. Încheiați-vă ziua îmbogățiți de istoria profundă a nordului Franței.",
+        "en": "Begin your Rouvroy day exploring its civic heart and climbing the iconic Slag Heaps for a sprawling view of its mining legacy. Midday takes you through the charming streets of Cité Nouméa, paired with the serene beauty of the Saint-Louis Church. The afternoon consists of discovering multiple heritage churches that dot the landscape. Wrap up your day enriched by northern France's deep history."
+      }
+    }
+  }
+}

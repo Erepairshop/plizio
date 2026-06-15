@@ -1,0 +1,520 @@
+{
+  "city_id": "spain-la-bisbal-d-emporda-cities-v2",
+  "anchor": {
+    "name": "La Bisbal d'Empordà",
+    "coords": [
+      3.037783,
+      41.959012
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:02",
+      "total_km": 1.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Castell de La Bisbal d'Empordà",
+            "hu": "Castell de La Bisbal d'Empordà",
+            "ro": "Castell de La Bisbal d'Empordà",
+            "en": "Castell de La Bisbal d'Empordà"
+          },
+          "coords": [
+            3.037341,
+            41.95948
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die romanische Architektur dieses ehemaligen Bischofspalastes und versuchen Sie, die obere Terrasse zu betreten, um einen weiten Panoramablick über die gesamte Stadt zu genießen.",
+            "hu": "Csodálja meg ennek az egykori püspöki palotának a román kori építészetét, és próbáljon feljutni a felső teraszra, hogy élvezhesse az egész városra nyíló pazar panorámát.",
+            "ro": "Admirați arhitectura romanică a acestui fost palat episcopal și încercați să accesați terasa superioară, dacă este deschisă, pentru a vă bucura de vederi panoramice superbe asupra întregului oraș.",
+            "en": "Admire the Romanesque architecture of this former episcopal palace, and try to access the upper terrace if open to enjoy sweeping panoramic views of the entire town."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Maria",
+            "hu": "Santa Maria",
+            "ro": "Santa Maria",
+            "en": "Santa Maria"
+          },
+          "coords": [
+            3.038595,
+            41.960169
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beachten Sie die beeindruckende barocke Fassade dieser prominenten zentralen Kirche. Es wird dringend empfohlen, sie in den ruhigen Morgenstunden zu besuchen, um die friedliche Atmosphäre zu genießen.",
+            "hu": "Figyelje meg ennek a kiemelkedő központi templomnak a lenyűgöző barokk homlokzatát, és érdemes a csendes délelőtti órákban idelátogatni, hogy teljesen átélhesse a békés, történelmi hangulatot.",
+            "ro": "Observați fațada barocă impresionantă a acestei biserici centrale proeminente și este foarte recomandat să o vizitați în orele liniștite ale dimineții pentru a aprecia pe deplin atmosfera sa pașnică.",
+            "en": "Notice the impressive baroque facade of this prominent central church, and it is highly recommended to visit during the quiet morning hours to fully appreciate its peaceful, historic atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Brava! Performing Arts",
+            "hu": "Brava! Performing Arts",
+            "ro": "Brava! Performing Arts",
+            "en": "Brava! Performing Arts"
+          },
+          "coords": [
+            3.036005,
+            41.959485
+          ],
+          "category": "cultural",
+          "arrive_at": "11:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem modernen kreativen Zentrum in lokale kulturelle Darbietungen ein, aber prüfen Sie vorher immer den Online-Spielplan, um eine seltene Probe oder eine Live-Show zu erleben.",
+            "hu": "Merüljön el a helyi kulturális előadásokban ebben a modern kreatív központban, de előtte mindig ellenőrizze az online menetrendjüket, hogy biztosan elcsípjen egy ritka próbát vagy egy élő műsort.",
+            "ro": "Pătrundeți în spectacolele culturale locale la acest hub creativ modern, dar verificați întotdeauna programul lor online în prealabil pentru a vă asigura că prindeți o repetiție sau un spectacol live.",
+            "en": "Dive into local cultural performances at this modern creative hub, but always check their online schedule beforehand to ensure you can catch a rare rehearsal or a live show."
+          }
+        },
+        {
+          "name": {
+            "de": "The Terracotta Ceramics Museum",
+            "hu": "The Terracotta Ceramics Museum",
+            "ro": "The Terracotta Ceramics Museum",
+            "en": "The Terracotta Ceramics Museum"
+          },
+          "coords": [
+            3.043972,
+            41.959385
+          ],
+          "category": "museum",
+          "arrive_at": "13:06",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte der Empordà-Keramik in dieser wunderschön restaurierten Fabrik und vergessen Sie nicht, ein einzigartiges handwerkliches Souvenir aus dem Museumsshop mitzunehmen.",
+            "hu": "Fedezze fel az empordài kerámiák gazdag történelmét ebben a gyönyörűen felújított gyárban, és mindenképpen szerezzen be egy egyedi kézműves emléket a múzeum kiváló ajándékboltjából.",
+            "ro": "Descoperiți istoria bogată a ceramicii din Empordà în această fabrică frumos restaurată, asigurându-vă că achiziționați un suvenir artizanal unic de la magazinul excelent al muzeului.",
+            "en": "Discover the rich history of Empordà ceramics in this beautifully restored factory, making sure to grab a unique artisanal souvenir from the museum's excellent gift shop."
+          }
+        },
+        {
+          "name": {
+            "de": "Espai Tònic",
+            "hu": "Espai Tònic",
+            "ro": "Espai Tònic",
+            "en": "Espai Tònic"
+          },
+          "coords": [
+            3.046716,
+            41.956796
+          ],
+          "category": "museum",
+          "arrive_at": "14:52",
+          "stay_min": 130,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie anregende zeitgenössische Kunst in dieser einzigartigen Galerie und kommen Sie mit den freundlichen Kuratoren ins Gespräch, die oft tiefe Einblicke in die Ausstellungen geben.",
+            "hu": "Fedezze fel a gondolatébresztő kortárs művészetet ebben az egyedülálló, független galériában, és bátran elegyedjen szóba a barátságos kurátorokkal, akik lenyűgöző részleteket árulnak el.",
+            "ro": "Explorați arta contemporană provocatoare în acest spațiu de galerie independent unic și încercați să interacționați cu curatorii prietenoși care oferă adesea perspective profunde asupra expozițiilor.",
+            "en": "Explore thought-provoking contemporary art in this unique independent gallery space, and try to engage with the friendly curators who often provide deep, fascinating insights into the current exhibitions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung des imposanten Castell de La Bisbal d'Empordà. Gegen Mittag bewundern Sie die Santa Maria, bevor Sie bei den Brava! Performing Arts vorbeischauen. Der Nachmittag ist ganz dem Terrakotta-Keramikmuseum gewidmet, das das Töpfererbe der Stadt zeigt. Verbringen Sie schließlich einen entspannten Abend mit zeitgenössischen Werken im Espai Tònic.",
+        "hu": "Kezdje a reggelt az impozáns Castell de La Bisbal d'Empordà felfedezésével. Ahogy közeledik a dél, csodálja meg a Santa Maria szépségét, majd térjen be a Brava! Performing Arts központba. A délutánt teljesen a Terracotta Kerámiamúzeumnak szentelheti. Végül töltsön egy pihentető estét a kortárs művészetet bemutató Espai Tònic kiállításain.",
+        "ro": "Începeți dimineața explorând impunătorul Castell de La Bisbal d'Empordà. Pe măsură ce se apropie amiaza, admirați frumusețea bisericii Santa Maria înainte de a opri la Brava! Performing Arts. După-amiaza este dedicată în întregime Muzeului de Ceramică Terracotta. În cele din urmă, petreceți o seară relaxată admirând lucrările contemporane la Espai Tònic.",
+        "en": "Start your morning exploring the imposing Castell de La Bisbal d'Empordà. As midday approaches, admire the architectural beauty of Santa Maria before stopping by the Brava! Performing Arts space. Your afternoon is completely dedicated to the Terracotta Ceramics Museum, showcasing the town's pottery heritage. Finally, spend a relaxed evening soaking in contemporary works at Espai Tònic."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:38",
+      "total_km": 2.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Castell de La Bisbal d'Empordà",
+            "hu": "Castell de La Bisbal d'Empordà",
+            "ro": "Castell de La Bisbal d'Empordà",
+            "en": "Castell de La Bisbal d'Empordà"
+          },
+          "coords": [
+            3.037341,
+            41.95948
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die romanische Architektur dieses ehemaligen Bischofspalastes und versuchen Sie, die obere Terrasse zu betreten, um einen weiten Panoramablick über die gesamte Stadt zu genießen.",
+            "hu": "Csodálja meg ennek az egykori püspöki palotának a román kori építészetét, és próbáljon feljutni a felső teraszra, hogy élvezhesse az egész városra nyíló pazar panorámát.",
+            "ro": "Admirați arhitectura romanică a acestui fost palat episcopal și încercați să accesați terasa superioară, dacă este deschisă, pentru a vă bucura de vederi panoramice superbe asupra întregului oraș.",
+            "en": "Admire the Romanesque architecture of this former episcopal palace, and try to access the upper terrace if open to enjoy sweeping panoramic views of the entire town."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Maria",
+            "hu": "Santa Maria",
+            "ro": "Santa Maria",
+            "en": "Santa Maria"
+          },
+          "coords": [
+            3.038595,
+            41.960169
+          ],
+          "category": "religious",
+          "arrive_at": "10:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beachten Sie die beeindruckende barocke Fassade dieser prominenten zentralen Kirche. Es wird dringend empfohlen, sie in den ruhigen Morgenstunden zu besuchen, um die friedliche Atmosphäre zu genießen.",
+            "hu": "Figyelje meg ennek a kiemelkedő központi templomnak a lenyűgöző barokk homlokzatát, és érdemes a csendes délelőtti órákban idelátogatni, hogy teljesen átélhesse a békés, történelmi hangulatot.",
+            "ro": "Observați fațada barocă impresionantă a acestei biserici centrale proeminente și este foarte recomandat să o vizitați în orele liniștite ale dimineții pentru a aprecia pe deplin atmosfera sa pașnică.",
+            "en": "Notice the impressive baroque facade of this prominent central church, and it is highly recommended to visit during the quiet morning hours to fully appreciate its peaceful, historic atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "The Terracotta Ceramics Museum",
+            "hu": "The Terracotta Ceramics Museum",
+            "ro": "The Terracotta Ceramics Museum",
+            "en": "The Terracotta Ceramics Museum"
+          },
+          "coords": [
+            3.043972,
+            41.959385
+          ],
+          "category": "museum",
+          "arrive_at": "11:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte der Empordà-Keramik in dieser wunderschön restaurierten Fabrik und vergessen Sie nicht, ein einzigartiges handwerkliches Souvenir aus dem Museumsshop mitzunehmen.",
+            "hu": "Fedezze fel az empordài kerámiák gazdag történelmét ebben a gyönyörűen felújított gyárban, és mindenképpen szerezzen be egy egyedi kézműves emléket a múzeum kiváló ajándékboltjából.",
+            "ro": "Descoperiți istoria bogată a ceramicii din Empordà în această fabrică frumos restaurată, asigurându-vă că achiziționați un suvenir artizanal unic de la magazinul excelent al muzeului.",
+            "en": "Discover the rich history of Empordà ceramics in this beautifully restored factory, making sure to grab a unique artisanal souvenir from the museum's excellent gift shop."
+          }
+        },
+        {
+          "name": {
+            "de": "Espai Tònic",
+            "hu": "Espai Tònic",
+            "ro": "Espai Tònic",
+            "en": "Espai Tònic"
+          },
+          "coords": [
+            3.046716,
+            41.956796
+          ],
+          "category": "museum",
+          "arrive_at": "12:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie anregende zeitgenössische Kunst in dieser einzigartigen Galerie und kommen Sie mit den freundlichen Kuratoren ins Gespräch, die oft tiefe Einblicke in die Ausstellungen geben.",
+            "hu": "Fedezze fel a gondolatébresztő kortárs művészetet ebben az egyedülálló, független galériában, és bátran elegyedjen szóba a barátságos kurátorokkal, akik lenyűgöző részleteket árulnak el.",
+            "ro": "Explorați arta contemporană provocatoare în acest spațiu de galerie independent unic și încercați să interacționați cu curatorii prietenoși care oferă adesea perspective profunde asupra expozițiilor.",
+            "en": "Explore thought-provoking contemporary art in this unique independent gallery space, and try to engage with the friendly curators who often provide deep, fascinating insights into the current exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Ajuntament",
+            "hu": "Ajuntament",
+            "ro": "Ajuntament",
+            "en": "Ajuntament"
+          },
+          "coords": [
+            3.055447,
+            41.959148
+          ],
+          "category": "historical",
+          "arrive_at": "14:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Sehen Sie das bürgerliche Zentrum des historischen Dorfes mit seiner klassischen Steinarchitektur und machen Sie eine kurze Fotopause auf dem angrenzenden ruhigen Platz.",
+            "hu": "Tekintse meg a történelmi falu polgári központját annak klasszikus kőépítészetével, és tartson egy rövid fotószünetet a szomszédos csendes téren, hogy megörökítse a katalán vidéki élet esszenciáját.",
+            "ro": "Vedeți centrul civic al satului istoric cu arhitectura sa clasică din piatră, luând o scurtă pauză foto în piața liniștită adiacentă pentru a surprinde esența vieții rurale catalane.",
+            "en": "See the civic heart of the historic village with its classic stone architecture, taking a quick photo break in the adjacent quiet square to capture the essence of Catalan rural life."
+          }
+        },
+        {
+          "name": {
+            "de": "Necròpolis medieval de Vulpellac",
+            "hu": "Necròpolis medieval de Vulpellac",
+            "ro": "Necròpolis medieval de Vulpellac",
+            "en": "Necròpolis medieval de Vulpellac"
+          },
+          "coords": [
+            3.054501,
+            41.959952
+          ],
+          "category": "historical",
+          "arrive_at": "16:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie zwischen alten, faszinierenden Steingräbern, um die mittelalterliche Geschichte hautnah zu spüren, aber tragen Sie unbedingt bequeme flache Schuhe, da der Boden recht uneben sein kann.",
+            "hu": "Sétáljon az ősi, lenyűgöző kősírok között, hogy igazán átérezze a régió középkori történelmét, de mindenképpen kényelmes, lapos talpú cipőt viseljen, mivel a környező talaj meglehetősen egyenetlen.",
+            "ro": "Plimbați-vă printre mormintele antice și fascinante din piatră pentru a simți istoria medievală, dar asigurați-vă că purtați încălțăminte plată, deoarece terenul poate fi destul de denivelat.",
+            "en": "Walk among ancient, fascinating stone graves to truly feel the region's medieval history, but make sure to wear comfortable flat shoes as the surrounding ground and pathways can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Maria de Fonteta",
+            "hu": "Santa Maria de Fonteta",
+            "ro": "Santa Maria de Fonteta",
+            "en": "Santa Maria de Fonteta"
+          },
+          "coords": [
+            3.057385,
+            41.950357
+          ],
+          "category": "religious",
+          "arrive_at": "17:28",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie den rustikalen Charme dieser gut erhaltenen kleinen Dorfkirche und versuchen Sie, Ihren Besuch auf den späten Nachmittag zu legen, wenn das Licht das alte Mauerwerk perfekt beleuchtet.",
+            "hu": "Élvezze ennek a jól karbantartott kis falusi templomnak a rusztikus báját, és próbálja meg a rövid látogatást a késő délutáni órákra időzíteni, amikor az aranyóra fénye megvilágítja a kőfalakat.",
+            "ro": "Bucurați-vă de farmecul rustic al acestei mici biserici de sat și încercați să vă programați scurta vizită spre sfârșitul după-amiezii, când lumina orei de aur iluminează perfect zidăria sa antică.",
+            "en": "Enjoy the rustic charm of this well-preserved small village church, and try timing your brief visit for the late afternoon when the golden hour light perfectly illuminates its ancient stonework."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie direkt ins historische Herz von La Bisbal und besuchen Sie morgens die Hauptburg und die zentrale Kirche. Tauchen Sie mittags im Terrakottamuseum in die berühmte Töpfergeschichte ein. Radeln Sie am Nachmittag nach Vulpellac, um das Rathaus und die Nekropole zu sehen. Beenden Sie Ihre Fahrt an der rustikalen Santa Maria de Fonteta.",
+        "hu": "Tekerjen egyenesen La Bisbal történelmi szívébe, és látogassa meg a fő kastélyt és a központi templomot. Délben merüljön el a régió híres fazekas történelmében a Terracotta Múzeumban. Délután biciklizzen Vulpellac felé, hogy megnézze a városházát és a középkori nekropoliszt. Zárja a túrát a rusztikus Santa Maria de Fonteta templomnál.",
+        "ro": "Pedalați direct în inima istorică a orașului La Bisbal cu o vizită matinală la castelul principal și biserica centrală. La amiază, explorați istoria ceramicii la Muzeul Terracotta, urmată de arta de la Espai Tònic. După-amiaza, mergeți cu bicicleta spre Vulpellac pentru a vedea primăria și necropola. Încheiați plimbarea la rustica Santa Maria de Fonteta.",
+        "en": "Pedal your way straight to the historic heart of La Bisbal with a morning visit to the main castle and the central church. At midday, dive into the region's famous pottery history at the Terracotta Museum followed by modern art at Espai Tònic. For the afternoon, cycle out towards Vulpellac to see its charming town hall and medieval necropolis. Conclude your ride at the rustic Santa Maria de Fonteta."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:08",
+      "total_km": 11.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Torre de Cruïlles",
+            "hu": "Torre de Cruïlles",
+            "ro": "Torre de Cruïlles",
+            "en": "Torre de Cruïlles"
+          },
+          "coords": [
+            3.011189,
+            41.956118
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Stehen Sie vor diesem ikonischen zylindrischen Turm aus dem elften Jahrhundert, der als stolzer Überrest einer größeren Burg erhalten blieb, und bringen Sie eine Kamera mit gutem Zoomobjektiv mit.",
+            "hu": "Álljon meg ezelőtt az ikonikus tizenegyedik századi hengeres torony előtt, amely egy nagyobb kastély büszke maradványa, és hozzon magával egy jó zoomobjektíves fényképezőgépet a részletekhez.",
+            "ro": "Stați în fața acestui turn cilindric iconic din secolul al unsprezecelea, care rămâne ca o relicvă mândră a unui castel mai mare, și aduceți o cameră cu zoom pentru a surprinde detaliile fine.",
+            "en": "Stand before this iconic eleventh-century cylindrical tower which remains as a proud remnant of a larger castle, and bring a camera with a good zoom lens to capture the fine details of its high stonework."
+          }
+        },
+        {
+          "name": {
+            "de": "Mare de Déu de l'Esperança",
+            "hu": "Mare de Déu de l'Esperança",
+            "ro": "Mare de Déu de l'Esperança",
+            "en": "Mare de Déu de l'Esperança"
+          },
+          "coords": [
+            3.01187,
+            41.963907
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erleben Sie die tiefe Ruhe dieses ländlichen religiösen Heiligtums inmitten der Natur, und denken Sie daran, eine kleine Flasche Wasser mitzunehmen, da es in der Nähe keine Geschäfte gibt.",
+            "hu": "Tapasztalja meg ennek a teljesen a természet lágy ölén fekvő vidéki vallási szentélynek a mély békéjét, és ne felejtsen el egy kis üveg vizet magával vinni, mivel nincsenek boltok a közelben.",
+            "ro": "Experimentați pacea profundă a acestui sanctuar religios rural înconjurat complet de natură, amintindu-vă să aveți o sticlă mică de apă la voi, deoarece magazinele din apropiere sunt inexistente.",
+            "en": "Experience the profound peace of this rural religious sanctuary completely surrounded by nature, keeping in mind to carry a small bottle of water as nearby shops or modern amenities are practically non-existent."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell de La Bisbal d'Empordà",
+            "hu": "Castell de La Bisbal d'Empordà",
+            "ro": "Castell de La Bisbal d'Empordà",
+            "en": "Castell de La Bisbal d'Empordà"
+          },
+          "coords": [
+            3.037341,
+            41.95948
+          ],
+          "category": "castle",
+          "arrive_at": "11:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die romanische Architektur dieses ehemaligen Bischofspalastes und versuchen Sie, die obere Terrasse zu betreten, um einen weiten Panoramablick über die gesamte Stadt zu genießen.",
+            "hu": "Csodálja meg ennek az egykori püspöki palotának a román kori építészetét, és próbáljon feljutni a felső teraszra, hogy élvezhesse az egész városra nyíló pazar panorámát.",
+            "ro": "Admirați arhitectura romanică a acestui fost palat episcopal și încercați să accesați terasa superioară, dacă este deschisă, pentru a vă bucura de vederi panoramice superbe asupra întregului oraș.",
+            "en": "Admire the Romanesque architecture of this former episcopal palace, and try to access the upper terrace if open to enjoy sweeping panoramic views of the entire town."
+          }
+        },
+        {
+          "name": {
+            "de": "The Terracotta Ceramics Museum",
+            "hu": "The Terracotta Ceramics Museum",
+            "ro": "The Terracotta Ceramics Museum",
+            "en": "The Terracotta Ceramics Museum"
+          },
+          "coords": [
+            3.043972,
+            41.959385
+          ],
+          "category": "museum",
+          "arrive_at": "12:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte der Empordà-Keramik in dieser wunderschön restaurierten Fabrik und vergessen Sie nicht, ein einzigartiges handwerkliches Souvenir aus dem Museumsshop mitzunehmen.",
+            "hu": "Fedezze fel az empordài kerámiák gazdag történelmét ebben a gyönyörűen felújított gyárban, és mindenképpen szerezzen be egy egyedi kézműves emléket a múzeum kiváló ajándékboltjából.",
+            "ro": "Descoperiți istoria bogată a ceramicii din Empordà în această fabrică frumos restaurată, asigurându-vă că achiziționați un suvenir artizanal unic de la magazinul excelent al muzeului.",
+            "en": "Discover the rich history of Empordà ceramics in this beautifully restored factory, making sure to grab a unique artisanal souvenir from the museum's excellent gift shop."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell d'Empordá",
+            "hu": "Castell d'Empordá",
+            "ro": "Castell d'Empordá",
+            "en": "Castell d'Empordá"
+          },
+          "coords": [
+            3.044139,
+            41.978088
+          ],
+          "category": "castle",
+          "arrive_at": "14:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Schlendern Sie über das majestätische Gelände dieses luxuriösen Schlosses, das heute ein Boutique-Hotel ist, und reservieren Sie unbedingt einen Tisch in ihrem malerischen Terrassenrestaurant.",
+            "hu": "Barangolja be ennek a luxus butikhotellé alakított, fenséges dombtetőn álló kastélynak a parkját, és mindenképpen fontolja meg, hogy asztalt foglal a festői teraszos éttermükben egy ebédre.",
+            "ro": "Plimbați-vă pe domeniile maiestuoase ale acestui luxos castel de pe deal transformat în hotel de tip boutique și cu siguranță luați în considerare rezervarea unei mese la restaurantul lor cu terasă.",
+            "en": "Wander the majestic grounds of this luxurious hilltop castle turned boutique hotel, and definitely consider booking a table at their scenic terrace restaurant for an unforgettable, elegant lunch overlooking the valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu del bonsai",
+            "hu": "Museu del bonsai",
+            "ro": "Museu del bonsai",
+            "en": "Museu del bonsai"
+          },
+          "coords": [
+            3.025398,
+            41.97863
+          ],
+          "category": "museum",
+          "arrive_at": "15:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die akribisch beschnittenen Miniaturbäume in dieser ruhigen botanischen Sammlung und nehmen Sie sich Zeit, um die Tafeln zu lesen, die das Alter jedes lebenden Exemplars beschreiben.",
+            "hu": "Csodálja meg a gondosan metszett miniatűr fákat ebben a békés botanikai gyűjteményben, és szánjon időt az informatív táblák elolvasására, amelyek részletezik minden egyes példány pontos korát.",
+            "ro": "Minunați-vă de copacii în miniatură tăiați meticulos din această colecție botanică senină și frumos organizată, luându-vă timp pentru a citi plăcuțele informative despre fiecare exemplar.",
+            "en": "Marvel at the meticulously pruned miniature trees in this serene and beautifully organized botanical collection, taking plenty of time to read the informative plaques that detail the exact age and species of each living specimen."
+          }
+        },
+        {
+          "name": {
+            "de": "Necròpolis medieval de Vulpellac",
+            "hu": "Necròpolis medieval de Vulpellac",
+            "ro": "Necròpolis medieval de Vulpellac",
+            "en": "Necròpolis medieval de Vulpellac"
+          },
+          "coords": [
+            3.054501,
+            41.959952
+          ],
+          "category": "historical",
+          "arrive_at": "17:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie zwischen alten, faszinierenden Steingräbern, um die mittelalterliche Geschichte hautnah zu spüren, aber tragen Sie unbedingt bequeme flache Schuhe, da der Boden recht uneben sein kann.",
+            "hu": "Sétáljon az ősi, lenyűgöző kősírok között, hogy igazán átérezze a régió középkori történelmét, de mindenképpen kényelmes, lapos talpú cipőt viseljen, mivel a környező talaj meglehetősen egyenetlen.",
+            "ro": "Plimbați-vă printre mormintele antice și fascinante din piatră pentru a simți istoria medievală, dar asigurați-vă că purtați încălțăminte plată, deoarece terenul poate fi destul de denivelat.",
+            "en": "Walk among ancient, fascinating stone graves to truly feel the region's medieval history, but make sure to wear comfortable flat shoes as the surrounding ground and pathways can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Maria de Fonteta",
+            "hu": "Santa Maria de Fonteta",
+            "ro": "Santa Maria de Fonteta",
+            "en": "Santa Maria de Fonteta"
+          },
+          "coords": [
+            3.057385,
+            41.950357
+          ],
+          "category": "religious",
+          "arrive_at": "18:58",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie den rustikalen Charme dieser gut erhaltenen kleinen Dorfkirche und versuchen Sie, Ihren Besuch auf den späten Nachmittag zu legen, wenn das Licht das alte Mauerwerk perfekt beleuchtet.",
+            "hu": "Élvezze ennek a jól karbantartott kis falusi templomnak a rusztikus báját, és próbálja meg a rövid látogatást a késő délutáni órákra időzíteni, amikor az aranyóra fénye megvilágítja a kőfalakat.",
+            "ro": "Bucurați-vă de farmecul rustic al acestei mici biserici de sat și încercați să vă programați scurta vizită spre sfârșitul după-amiezii, când lumina orei de aur iluminează perfect zidăria sa antică.",
+            "en": "Enjoy the rustic charm of this well-preserved small village church, and try timing your brief visit for the late afternoon when the golden hour light perfectly illuminates its ancient stonework."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Begeben Sie sich auf eine große Autotour, die an der alten Torre de Cruïlles und dem ländlichen Heiligtum beginnt. Fahren Sie mittags nach La Bisbal, um die Burg und das Terrakottamuseum zu erleben. Fahren Sie nachmittags zum Castell d'Empordá und bewundern Sie das Bonsai-Museum. Beenden Sie Ihren Tag bei den mittelalterlichen Überresten rund um Vulpellac und Fonteta.",
+        "hu": "Induljon egy nagyszerű autós túrára, kezdve az ősi Torre de Cruïlles-nél és a vidéki szentélynél. Délben induljon La Bisbalba, hogy megtapasztalja a kastélyt és a Terracotta Múzeumot. Délután vezessen fel a fenséges Castell d'Empordá-hoz, és csodálja meg a bonsai múzeumot. Zárja a napot a Vulpellac és Fonteta körüli középkori maradványok felfedezésével.",
+        "ro": "Porniți într-un grandios tur cu mașina începând de la vechiul Torre de Cruïlles și sanctuarul rural l'Esperança. La amiază, îndreptați-vă spre La Bisbal pentru a vedea castelul și muzeul Terracotta. După-amiaza, conduceți până la maiestuosul Castell d'Empordá și muzeul de bonsai. Încheiați ziua explorând rămășițele medievale din jurul Vulpellac și Fonteta.",
+        "en": "Embark on a grand driving tour starting at the ancient Torre de Cruïlles and the peaceful rural sanctuary of l'Esperança. By midday, head into La Bisbal to experience the castle and its iconic Terracotta Museum. In the afternoon, drive up to the majestic Castell d'Empordá and marvel at the tiny wonders inside the bonsai museum. End your day trip exploring the medieval remnants scattered around Vulpellac and Fonteta."
+      }
+    }
+  }
+}

@@ -1,0 +1,497 @@
+{
+  "city_id": "france-ile-d-houat-cities-v2",
+  "anchor": {
+    "name": "Île-d'Houat",
+    "coords": [
+      -2.95521,
+      47.38995
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:27",
+      "total_km": 2.44,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Gildas",
+            "hu": "Église Saint-Gildas",
+            "ro": "Église Saint-Gildas",
+            "en": "Église Saint-Gildas"
+          },
+          "coords": [
+            -2.95587,
+            47.390546
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Schönheit dieser Inselkirche und achten Sie auf die maritimen Details; kommen Sie früh, um die morgendliche Ruhe zu genießen.",
+            "hu": "Csodálja meg a szigeti templom egyszerű szépségét és tengerészeti részleteit; érdemes korán érkezni, hogy élvezze a reggeli csendet.",
+            "ro": "Admirați frumusețea simplă a acestei biserici insulare și detaliile sale maritime; sosiți devreme pentru a vă bucura de liniștea dimineții.",
+            "en": "Admire the simple beauty of this island church and its maritime details; arrive early in the morning to enjoy the peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "moulin",
+            "hu": "moulin",
+            "ro": "moulin",
+            "en": "moulin"
+          },
+          "coords": [
+            -2.955784,
+            47.386657
+          ],
+          "category": "landmark",
+          "arrive_at": "09:56",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Fotografieren Sie diese malerische alte Mühle, ein Zeugnis der ländlichen Vergangenheit der Insel, am besten bei gutem Licht am Vormittag.",
+            "hu": "Fotózza le ezt a festői öreg malmot, amely a sziget múltjáról tanúskodik; a legjobb, ha a délelőtti fényben keresi fel.",
+            "ro": "Fotografiați această veche moară pitorească, o mărturie a trecutului rural al insulei; cel mai bine este să o vizitați în lumina dimineții.",
+            "en": "Photograph this picturesque old mill, a testament to the island's rural past; it is best visited in the bright morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort Central",
+            "hu": "Fort Central",
+            "ro": "Fort Central",
+            "en": "Fort Central"
+          },
+          "coords": [
+            -2.962304,
+            47.387784
+          ],
+          "category": "castle",
+          "arrive_at": "10:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die massiven Mauern dieses zentralen Forts, das einst dem Schutz diente; bringen Sie festes Schuhwerk für die unebenen Pfade mit.",
+            "hu": "Fedezze fel az egykor védelmet nyújtó központi erőd hatalmas falait; hozzon magával túracipőt az egyenetlen ösvények miatt.",
+            "ro": "Explorați zidurile masive ale acestui fort central care odinioară oferea protecție; purtați încălțăminte rezistentă pentru potecile denivelate.",
+            "en": "Explore the massive walls of this central fort that once provided protection; wear sturdy shoes to navigate the uneven paths comfortably."
+          }
+        },
+        {
+          "name": {
+            "de": "Er Menhir",
+            "hu": "Er Menhir",
+            "ro": "Er Menhir",
+            "en": "Er Menhir"
+          },
+          "coords": [
+            -2.962597,
+            47.3897
+          ],
+          "category": "historical",
+          "arrive_at": "11:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Stehen Sie staunend vor diesem prähistorischen Monolithen und spüren Sie die alte Geschichte; berühren Sie den Stein vorsichtig aus Respekt.",
+            "hu": "Álljon csodálattal e történelem előtti monolit előtt, és érezze át a múltat; tiszteletből csak óvatosan érintse meg a követ.",
+            "ro": "Stați cu uimire în fața acestui monolit preistoric și simțiți istoria antică; atingeți piatra cu prudență și respect.",
+            "en": "Stand in awe before this prehistoric monolith and feel the ancient history; touch the stone gently to show respect for the site."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort de Koh Kastel",
+            "hu": "Fort de Koh Kastel",
+            "ro": "Fort de Koh Kastel",
+            "en": "Fort de Koh Kastel"
+          },
+          "coords": [
+            -2.950909,
+            47.390469
+          ],
+          "category": "fortress",
+          "arrive_at": "13:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.89,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Überreste dieser Festungsanlage mit spektakulärem Blick aufs Meer; an windigen Tagen ist eine leichte Jacke ratsam.",
+            "hu": "Fedezze fel az erőd romjait, ahonnan látványos kilátás nyílik a tengerre; szeles napokon érdemes könnyű kabátot viselni.",
+            "ro": "Descoperiți ruinele acestei cetăți cu vederi spectaculoase la mare; în zilele cu vânt, este recomandat să purtați o jachetă ușoară.",
+            "en": "Discover the ruins of this fortress offering spectacular ocean views; bringing a light jacket is advisable on windy days."
+          }
+        },
+        {
+          "name": {
+            "de": "Tréac'h er Gourèd",
+            "hu": "Tréac'h er Gourèd",
+            "ro": "Tréac'h er Gourèd",
+            "en": "Tréac'h er Gourèd"
+          },
+          "coords": [
+            -2.945623,
+            47.389654
+          ],
+          "category": "recreational",
+          "arrive_at": "14:42",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.41,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem wunderschönen Sandstrand mit kristallklarem Wasser; vergessen Sie nicht, Sonnencreme und ausreichend Wasser mitzubringen.",
+            "hu": "Pihenjen ezen a gyönyörű homokos strandon, ahol kristálytiszta a víz; ne felejtsen el naptejet és elegendő ivóvizet hozni magával.",
+            "ro": "Relaxați-vă pe această plajă frumoasă cu nisip fin și apă cristalină; nu uitați să luați cremă de protecție solară și apă.",
+            "en": "Relax on this beautiful sandy beach with crystal-clear water; make sure to bring plenty of sunscreen and drinking water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Spaziergang auf der Insel beginnt im Dorf bei der historischen Kirche Saint-Gildas. Zur Mittagszeit erkunden Sie die alte Mühle und das majestätische Fort Central, die von der reichen Vergangenheit zeugen. Am Nachmittag führt der Weg zum geheimnisvollen Er Menhir und weiter zum Koh Kastel. Der Tag endet entspannt an den malerischen Ufern des Strandes Tréac'h er Gourèd.",
+        "hu": "Szigeti sétája a faluban, a történelmi Saint-Gildas templomnál kezdődik. Délben felfedezheti a régi malmot és a fenséges Fort Centralt, melyek a múltat idézik. Délután az út a titokzatos Er Menhirhez és a Koh Kastelhez vezet. A nap kellemesen, a Tréac'h er Gourèd strand festői partjainál ér véget.",
+        "ro": "Plimbarea pe insulă începe în sat, la biserica istorică Saint-Gildas. La prânz, explorați vechea moară și maiestuosul Fort Central, mărturii ale trecutului. După-amiaza, traseul vă duce spre misteriosul Er Menhir și cetatea Koh Kastel. Ziua se încheie relaxant pe malurile pitorești ale plajei Tréac'h er Gourèd.",
+        "en": "Your island walk begins in the village at the historical Saint-Gildas church. By midday, you'll explore the old mill and the majestic Fort Central, testaments to a rich past. The afternoon trail leads to the mysterious Er Menhir and the ruins of Koh Kastel. The day concludes peacefully on the picturesque shores of Tréac'h er Gourèd beach."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:37",
+      "total_km": 5.74,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Gildas",
+            "hu": "Église Saint-Gildas",
+            "ro": "Église Saint-Gildas",
+            "en": "Église Saint-Gildas"
+          },
+          "coords": [
+            -2.95587,
+            47.390546
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Radtour an der Hauptkirche der Insel, einem ruhigen spirituellen Zentrum; parken Sie Ihr Fahrrad draußen an den vorgesehenen Plätzen.",
+            "hu": "Kezdje a kerékpártúrát a sziget fő templománál, a csendes spirituális központnál; a kerékpárt hagyja kint a kijelölt helyeken.",
+            "ro": "Începeți turul cu bicicleta la biserica principală a insulei, un centru spiritual liniștit; parcați bicicleta afară în locurile special amenajate.",
+            "en": "Start your cycling tour at the island's main church, a quiet spiritual center; be sure to park your bike outside in designated areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhirs de Men Plat",
+            "hu": "Menhirs de Men Plat",
+            "ro": "Menhirs de Men Plat",
+            "en": "Menhirs de Men Plat"
+          },
+          "coords": [
+            -2.968216,
+            47.390069
+          ],
+          "category": "historical",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.93,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese faszinierenden stehenden Steine in der offenen Landschaft; ein Weitwinkelobjektiv eignet sich perfekt für unvergessliche Fotos.",
+            "hu": "Csodálja meg ezeket a lenyűgöző álló köveket a nyílt tájban; egy nagylátószögű objektív tökéletes a felejthetetlen fotókhoz.",
+            "ro": "Admirați aceste pietre ridicate fascinante în peisajul deschis; un obiectiv cu unghi larg este perfect pentru fotografii de neuitat.",
+            "en": "Admire these fascinating standing stones set in the open landscape; a wide-angle lens is perfectly suited for memorable photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de Perh Bras",
+            "hu": "Menhir de Perh Bras",
+            "ro": "Menhir de Perh Bras",
+            "en": "Menhir de Perh Bras"
+          },
+          "coords": [
+            -2.973418,
+            47.389259
+          ],
+          "category": "historical",
+          "arrive_at": "11:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betrachten Sie diesen isolierten Menhir, der von alten Ritualen erzählt; bleiben Sie auf den markierten Wegen, um die lokale Flora zu schützen.",
+            "hu": "Nézze meg ezt az elszigetelt menhirt, amely ősi rituálékról mesél; maradjon a kijelölt ösvényeken a helyi növényvilág védelme érdekében.",
+            "ro": "Observați acest menhir izolat care povestește despre ritualuri antice; rămâneți pe potecile marcate pentru a proteja flora locală.",
+            "en": "Observe this isolated menhir that tells tales of ancient rituals; stick to the marked paths to protect the delicate local flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Porz Plouz",
+            "hu": "Porz Plouz",
+            "ro": "Porz Plouz",
+            "en": "Porz Plouz"
+          },
+          "coords": [
+            -2.977461,
+            47.389318
+          ],
+          "category": "recreational",
+          "arrive_at": "12:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die frische Brise in dieser charmanten kleinen Bucht; der Sandstrand ist ideal für ein kurzes Picknick zwischendurch.",
+            "hu": "Élvezze a friss szellőt ebben a hangulatos kis öbölben; a homokos part ideális egy rövid napközbeni piknikhez.",
+            "ro": "Bucurați-vă de briza proaspătă în acest mic golf fermecător; plaja cu nisip este ideală pentru un scurt picnic intermediar.",
+            "en": "Enjoy the fresh breeze in this charming little cove; the sandy shoreline makes for an ideal spot for a quick midday picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen à galerie de Stang-Vras",
+            "hu": "Dolmen à galerie de Stang-Vras",
+            "ro": "Dolmen à galerie de Stang-Vras",
+            "en": "Dolmen à galerie de Stang-Vras"
+          },
+          "coords": [
+            -2.984848,
+            47.395827
+          ],
+          "category": "historical",
+          "arrive_at": "13:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.91,
+          "tip_5lang": {
+            "de": "Untersuchen Sie dieses beeindruckende Galeriegrab der Jungsteinzeit; das Mitführen einer Taschenlampe hilft, verborgene Details zu erkennen.",
+            "hu": "Vizsgálja meg ezt a lenyűgöző újkőkori folyosósírt; egy zseblámpa segíthet a rejtett részletek jobb megfigyelésében.",
+            "ro": "Investigați acest mormânt cu galerie impresionant din neolitic; o lanternă vă poate ajuta să vedeți detaliile ascunse.",
+            "en": "Investigate this impressive Neolithic gallery grave; carrying a flashlight will help you spot hidden details inside the structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Beg er Vilenn",
+            "hu": "Beg er Vilenn",
+            "ro": "Beg er Vilenn",
+            "en": "Beg er Vilenn"
+          },
+          "coords": [
+            -2.981243,
+            47.399924
+          ],
+          "category": "natural",
+          "arrive_at": "15:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.52,
+          "tip_5lang": {
+            "de": "Erleben Sie die raue Naturschönheit dieser Landspitze mit spektakulärer Brandung; achten Sie auf die rutschigen Klippen am Wasser.",
+            "hu": "Tapasztalja meg ennek a földfoknak a zord természeti szépségét és a látványos hullámverést; vigyázzon a víz melletti csúszós sziklákra.",
+            "ro": "Experimentați frumusețea naturală aspră a acestui promontoriu cu valuri spectaculoase; aveți grijă la stâncile alunecoase de lângă apă.",
+            "en": "Experience the rugged natural beauty of this headland with its spectacular surf; be careful on the slippery cliffs near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Tréac'h Salus",
+            "hu": "Tréac'h Salus",
+            "ro": "Tréac'h Salus",
+            "en": "Tréac'h Salus"
+          },
+          "coords": [
+            -2.95726,
+            47.381979
+          ],
+          "category": "recreational",
+          "arrive_at": "16:52",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.68,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an diesem weitläufigen Strand ausklingen und beobachten Sie die Wellen; hier können Sie wunderbar Muscheln sammeln.",
+            "hu": "Zárja a napot ezen a tágas strandon, és figyelje a hullámokat; a hely kiválóan alkalmas kagylógyűjtésre is.",
+            "ro": "Încheiați ziua pe această plajă spațioasă și priviți valurile; aici este un loc minunat pentru a aduna scoici.",
+            "en": "Wind down your day on this expansive beach and watch the waves roll in; it's a wonderful location for collecting seashells."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen startet auf zwei Rädern im Dorfzentrum, bevor Sie sich in die wildere Landschaft zu den mystischen Menhiren von Men Plat aufmachen. Mittags radeln Sie zum Perh Bras und entspannen in der Bucht von Porz Plouz. Der Nachmittag ist geprägt von den historischen Wundern beim Dolmen von Stang-Vras und den rauen Klippen am Beg er Vilenn. Die Tour endet gemütlich am weiten Sandstrand von Tréac'h Salus.",
+        "hu": "A délelőtt két keréken indul a faluközpontból, mielőtt a vadabb tájra, a Men Plat misztikus menhirjei felé venné az irányt. Délben a Perh Brashoz kerekezik, majd a Porz Plouz öbölben pihen meg. A délutánt a Stang-Vras dolmen történelmi csodái és a Beg er Vilenn zord sziklái határozzák meg. A túra kellemesen, a Tréac'h Salus tágas homokos partján ér véget.",
+        "ro": "Dimineața începe pe două roți în centrul satului, înainte de a vă îndrepta spre peisajul sălbatic și menhirele mistice de la Men Plat. La prânz pedalați spre Perh Bras și vă relaxați în golful Porz Plouz. După-amiaza este marcată de minunile istorice de la dolmenul Stang-Vras și stâncile abrupte de la Beg er Vilenn. Turul se încheie confortabil pe plaja întinsă Tréac'h Salus.",
+        "en": "Your morning starts on two wheels in the village center before heading into the wilder landscape to see the mystical Men Plat menhirs. At midday, pedal toward Perh Bras and relax in the Porz Plouz cove. The afternoon features historical wonders at the Stang-Vras dolmen and the rugged cliffs of Beg er Vilenn. The ride concludes comfortably on the wide sandy beach of Tréac'h Salus."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:07",
+      "total_km": 4.14,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Batterie d'artillerie d'En Tal",
+            "hu": "Batterie d'artillerie d'En Tal",
+            "ro": "Batterie d'artillerie d'En Tal",
+            "en": "Batterie d'artillerie d'En Tal"
+          },
+          "coords": [
+            -2.941693,
+            47.393217
+          ],
+          "category": "fortress",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese historische Küstenbatterie, die zur Verteidigung diente; kommen Sie am Vormittag, wenn das Licht die Ruinen am besten ausleuchtet.",
+            "hu": "Látogasson el ehhez a történelmi parti tüzérségi üteghez, amely a védelmet szolgálta; délelőtt jöjjön, amikor a fény a legjobban megvilágítja a romokat.",
+            "ro": "Vizitați această baterie de coastă istorică folosită pentru apărare; veniți dimineața când lumina scoate în evidență cel mai bine ruinele.",
+            "en": "Visit this historic coastal artillery battery that was once used for defense; arrive in the morning when the light illuminates the ruins best."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort de Koh Kastel",
+            "hu": "Fort de Koh Kastel",
+            "ro": "Fort de Koh Kastel",
+            "en": "Fort de Koh Kastel"
+          },
+          "coords": [
+            -2.950909,
+            47.390469
+          ],
+          "category": "fortress",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Stopp an diesen wehrhaften Festungsresten, um die Aussicht zu genießen; ein Fernglas bringt Schiffe am Horizont näher.",
+            "hu": "Álljon meg egy rövid időre ezen az erődítménymaradványon a kilátás kedvéért; egy távcső közelebb hozza a horizonton lévő hajókat.",
+            "ro": "Faceți o scurtă oprire la aceste ruine fortificate pentru a vă bucura de priveliște; un binoclu aduce navele de la orizont mai aproape.",
+            "en": "Make a brief stop at these fortified ruins to enjoy the sweeping views; a pair of binoculars will bring ships on the horizon closer."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Gildas",
+            "hu": "Église Saint-Gildas",
+            "ro": "Église Saint-Gildas",
+            "en": "Église Saint-Gildas"
+          },
+          "coords": [
+            -2.95587,
+            47.390546
+          ],
+          "category": "religious",
+          "arrive_at": "11:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Halten Sie im Dorfzentrum an der Kirche für einen Moment der Besinnung; achten Sie auf die traditionelle Architektur der Bretagne.",
+            "hu": "Álljon meg a falu központjában lévő templomnál egy pillanatnyi elmélkedésre; figyelje meg a hagyományos breton építészetet.",
+            "ro": "Opriți-vă la biserica din centrul satului pentru un moment de reflecție; remarcați arhitectura tradițională specifică regiunii Bretania.",
+            "en": "Pause at the church in the village center for a moment of quiet reflection; pay attention to the traditional Brittany architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort Central",
+            "hu": "Fort Central",
+            "ro": "Fort Central",
+            "en": "Fort Central"
+          },
+          "coords": [
+            -2.962304,
+            47.387784
+          ],
+          "category": "castle",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.57,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch das markante Fort im Herzen der Insel; lassen Sie das Fahrzeug am Dorfrand stehen, da der Zugang eingeschränkt ist.",
+            "hu": "Sétáljon végig a sziget szívében található markáns erődön; a járművet a falu szélén hagyja, mivel a behajtás korlátozott.",
+            "ro": "Plimbați-vă prin fortul impresionant din inima insulei; lăsați vehiculul la marginea satului, deoarece accesul este restricționat.",
+            "en": "Walk through the striking fort in the heart of the island; leave your vehicle at the edge of the village as access is restricted."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen à galerie de Stang-Vras",
+            "hu": "Dolmen à galerie de Stang-Vras",
+            "ro": "Dolmen à galerie de Stang-Vras",
+            "en": "Dolmen à galerie de Stang-Vras"
+          },
+          "coords": [
+            -2.984848,
+            47.395827
+          ],
+          "category": "historical",
+          "arrive_at": "14:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.92,
+          "tip_5lang": {
+            "de": "Fahren Sie in den wilden Westen der Insel zu diesem faszinierenden Hünengrab; parken Sie respektvoll am Rand der engen Naturwege.",
+            "hu": "Utazzon a sziget vad nyugati részére ehhez a lenyűgöző megalitikus sírhoz; parkoljon tiszteletteljesen a keskeny ösvények szélén.",
+            "ro": "Mergeți spre vestul sălbatic al insulei către acest mormânt megalitic fascinant; parcați cu respect la marginea potecilor înguste.",
+            "en": "Drive to the wild west of the island to see this fascinating megalithic tomb; park respectfully on the side of the narrow dirt paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Beg er Vilenn",
+            "hu": "Beg er Vilenn",
+            "ro": "Beg er Vilenn",
+            "en": "Beg er Vilenn"
+          },
+          "coords": [
+            -2.981243,
+            47.399924
+          ],
+          "category": "natural",
+          "arrive_at": "15:22",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.52,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Inselerkundung an dieser rauen Klippenspitze; die Sonnenuntergänge hier sind unvergesslich, bringen Sie also Ihre Kamera mit.",
+            "hu": "Fejezze be a szigeti felfedezést ezen a zord sziklafokon; a naplementék itt felejthetetlenek, ezért mindenképpen hozza magával a fényképezőgépét.",
+            "ro": "Încheiați explorarea insulei pe acest promontoriu stâncos; apusurile aici sunt de neuitat, așa că nu uitați aparatul foto.",
+            "en": "Finish your island exploration at this rugged cliff point; the sunsets here are truly unforgettable, so be sure to bring your camera."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Inseltour startet im Osten an der alten Batterie d'En Tal und der Festung Koh Kastel, wo maritime Geschichte lebendig wird. Gegen Mittag durchqueren Sie das charmante Dorfzentrum mit der Kirche Saint-Gildas und besichtigen das nahegelegene Fort Central. Am Nachmittag führt die Route weiter in den Westen, zu den prähistorischen Steinen von Stang-Vras. Der erlebnisreiche Tag findet seinen krönenden Abschluss an den dramatischen Klippen von Beg er Vilenn.",
+        "hu": "Szigeti túrája keleten, a régi d'En Tal ütegnél és a Koh Kastel erődnél kezdődik, ahol megelevenedik a tengeri történelem. Délben áthalad a bájos faluközponton, a Saint-Gildas templommal, és megtekinti a közeli Fort Centralt. Délután az útvonal tovább halad nyugatra, a Stang-Vras történelem előtti köveihez. Az élményekben gazdag nap a Beg er Vilenn drámai szikláinál ér véget.",
+        "ro": "Turul insulei începe în est, la vechea baterie d'En Tal și fortăreața Koh Kastel, unde istoria maritimă prinde viață. La prânz veți traversa centrul fermecător al satului, vizitând biserica Saint-Gildas și Fort Central. După-amiaza traseul continuă spre vest, către pietrele preistorice de la Stang-Vras. Ziua plină de evenimente se încheie grandios pe stâncile dramatice de la Beg er Vilenn.",
+        "en": "Your island tour begins in the east at the old En Tal battery and Koh Kastel fortress, where maritime history comes alive. By midday, you'll cross the charming village center, visiting Saint-Gildas church and the nearby Fort Central. In the afternoon, the route continues westward to the prehistoric stones of Stang-Vras. This eventful day culminates spectacularly on the dramatic cliffs of Beg er Vilenn."
+      }
+    }
+  }
+}

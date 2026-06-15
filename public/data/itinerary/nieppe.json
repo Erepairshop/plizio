@@ -1,0 +1,474 @@
+{
+  "city_id": "nieppe",
+  "anchor": {
+    "name": "Nieppe",
+    "coords": [
+      2.8389,
+      50.7031
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:13",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Martin Kirche",
+            "hu": "Saint-Martin Templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            2.83935,
+            50.704009
+          ],
+          "category": "religious",
+          "arrive_at": "09:02",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Buntglasfenster dieser zentralen Pfarrkirche, ein spiritueller Leuchtturm, der nach Kriegszerstörungen wiederaufgebaut wurde, ideal am Morgen.",
+            "hu": "Csodálja meg a központi plébániatemplom színes üvegablakait, amely a háború után újjáépülve a legjobb arcát a kora reggeli napfényben mutatja a látogatóknak.",
+            "ro": "Admirați vitraliile frumoase ale acestei biserici parohiale, un far spiritual reconstruit după război, de preferat a fi vizitată în lumina dimineții.",
+            "en": "Admire the beautiful stained glass of this central parish church, a spiritual beacon rebuilt after wartime destruction, best visited in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Nieppe",
+            "hu": "Nieppe Kastély",
+            "ro": "Castelul Nieppe",
+            "en": "Nieppe Castle"
+          },
+          "coords": [
+            2.839224,
+            50.705246
+          ],
+          "category": "historical",
+          "arrive_at": "09:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Gelände des Schlosses Nieppe, das an die aristokratische Vergangenheit erinnert, und prüfen Sie vorab die lokalen Öffnungszeiten.",
+            "hu": "Fedezze fel a nieppe-i kastély történelmi parkját, amely a város arisztokratikus múltját idézi, de előtte érdemes pontosan ellenőrizni a nyitvatartást.",
+            "ro": "Explorați domeniul istoric al Castelului Nieppe, ce amintește de trecutul aristocratic al orașului, verificând în prealabil orarul de funcționare.",
+            "en": "Explore the historic grounds of Nieppe Castle, which serves as a poignant reminder of the town's aristocratic past, checking the local hall's opening hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame de Grâce",
+            "hu": "Notre-Dame de Grâce",
+            "ro": "Notre-Dame de Grâce",
+            "en": "Notre-Dame de Grâce"
+          },
+          "coords": [
+            2.836303,
+            50.720162
+          ],
+          "category": "landmark",
+          "arrive_at": "11:38",
+          "stay_min": 15,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem charmanten Wegschrein, der Unserer Lieben Frau der Gnade gewidmet ist, und genießen Sie einen Moment der friedlichen Besinnung.",
+            "hu": "Álljon meg egy pillanatra ennél a Kegyelmes Miasszonyunknak szentelt útmenti szentélynél, amely békés elmélkedésre csábít a főút közelében.",
+            "ro": "Opriți-vă la acest altar fermecător dedicat Maicii Domnului a Harului, care oferă un moment de reflecție pașnică la doar câțiva pași de drum.",
+            "en": "Pause at this charming wayside shrine dedicated to Our Lady of Grace, offering a peaceful moment of reflection, easily accessible just off the main path."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame",
+            "hu": "Notre-Dame Templom",
+            "ro": "Biserica Notre-Dame",
+            "en": "Église Notre-Dame"
+          },
+          "coords": [
+            2.856565,
+            50.696924
+          ],
+          "category": "religious",
+          "arrive_at": "12:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser zweiten Pfarrkirche, die der lokalen Gemeinde Halt gibt und ein ruhiger Stopp auf Ihrem Spaziergang ist.",
+            "hu": "Csodálja meg a helyi közösséget összefogó templom különleges építészetét, amely békés megállót jelent a környékbeli séták során.",
+            "ro": "Minunați-vă de arhitectura distinctă a acestei a doua biserici parohiale ce ancorează comunitatea, fiind o oprire senină în timpul plimbării.",
+            "en": "Marvel at the distinct architecture of this secondary parish church that anchors the local community, making it a serene stop during your neighborhood stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Erweiterung des Friedhofs von Nieppe",
+            "hu": "Nieppe Községi Temető Bővítése",
+            "ro": "Extensia Cimitirului Comunal Nieppe",
+            "en": "Nieppe Communal Cemetery Extension"
+          },
+          "coords": [
+            2.855779,
+            50.699779
+          ],
+          "category": "historical",
+          "arrive_at": "13:23",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erweisen Sie an dieser gepflegten Erweiterung der Commonwealth-Kriegsgräber Ihren Respekt, einem Ort, der ein ruhiges Verhalten voraussetzt.",
+            "hu": "Fejezze ki tiszteletét ezen a gondosan karbantartott nemzetközösségi háborús temetőben, ahol a csendes és tiszteletteljes viselkedés alapvető.",
+            "ro": "Aduceți un omagiu la această extensie a cimitirului de război al Commonwealth-ului, un loc istoric unde un comportament respectuos este esențial.",
+            "en": "Pay your respects at this meticulously maintained Commonwealth War Graves extension, a sobering historical site where a quiet, respectful demeanor is essential."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Herzen von Nieppe mit der Erkundung der Pfarrkirche und des historischen Schlosses. Gegen Mittag machen Sie sich auf den Weg zu einem charmanten Wegschrein. Der Nachmittag wird besinnlich, wenn Sie in den südlichen Teil der Stadt schlendern und die zweite Kirche besuchen. Der Abend bricht ruhig am Militärfriedhof herein und bietet Zeit für tiefgründige Reflexionen.",
+        "hu": "A reggel Nieppe szívében indul, a plébániatemplom és a történelmi kastély felfedezésével. Délben észak felé veszi az irányt egy bájos útmenti szentélyhez. A délután elmélyültebb, ahogy a város déli részén lévő második templomhoz sétál. Az este csendesen ereszkedik le a katonai temetőnél, teret engedve a régió történelmén való mélyebb gondolkodásnak.",
+        "ro": "Dimineața începe în inima orașului Nieppe, explorând biserica parohială și domeniul castelului istoric. La prânz, vă veți îndrepta spre un altar fermecător. După-amiaza ia o turnură reflectivă pe măsură ce vă plimbați prin partea de sud, vizitând a doua biserică. Seara coboară liniștit lângă cimitirul militar, oferind timp pentru reflecție asupra istoriei regiunii.",
+        "en": "Morning begins in the heart of Nieppe, exploring the main parish church and the historic castle grounds. By midday, you'll head north towards a charming wayside shrine. The afternoon takes a reflective turn as you wander towards the southern part of town, visiting the secondary parish church. Evening falls quietly by the military cemetery, offering time for deep reflection on the region's history."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:44",
+      "total_km": 6.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Martin Kirche",
+            "hu": "Saint-Martin Templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            2.83935,
+            50.704009
+          ],
+          "category": "religious",
+          "arrive_at": "09:01",
+          "stay_min": 50,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Buntglasfenster dieser zentralen Pfarrkirche, ein spiritueller Leuchtturm, der nach Kriegszerstörungen wiederaufgebaut wurde, ideal am Morgen.",
+            "hu": "Csodálja meg a központi plébániatemplom színes üvegablakait, amely a háború után újjáépülve a legjobb arcát a kora reggeli napfényben mutatja a látogatóknak.",
+            "ro": "Admirați vitraliile frumoase ale acestei biserici parohiale, un far spiritual reconstruit după război, de preferat a fi vizitată în lumina dimineții.",
+            "en": "Admire the beautiful stained glass of this central parish church, a spiritual beacon rebuilt after wartime destruction, best visited in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Nieppe",
+            "hu": "Nieppe Kastély",
+            "ro": "Castelul Nieppe",
+            "en": "Nieppe Castle"
+          },
+          "coords": [
+            2.839224,
+            50.705246
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Gelände des Schlosses Nieppe, das an die aristokratische Vergangenheit erinnert, und prüfen Sie vorab die lokalen Öffnungszeiten.",
+            "hu": "Fedezze fel a nieppe-i kastély történelmi parkját, amely a város arisztokratikus múltját idézi, de előtte érdemes pontosan ellenőrizni a nyitvatartást.",
+            "ro": "Explorați domeniul istoric al Castelului Nieppe, ce amintește de trecutul aristocratic al orașului, verificând în prealabil orarul de funcționare.",
+            "en": "Explore the historic grounds of Nieppe Castle, which serves as a poignant reminder of the town's aristocratic past, checking the local hall's opening hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame de Grâce",
+            "hu": "Notre-Dame de Grâce",
+            "ro": "Notre-Dame de Grâce",
+            "en": "Notre-Dame de Grâce"
+          },
+          "coords": [
+            2.836303,
+            50.720162
+          ],
+          "category": "landmark",
+          "arrive_at": "11:21",
+          "stay_min": 15,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem charmanten Wegschrein, der Unserer Lieben Frau der Gnade gewidmet ist, und genießen Sie einen Moment der friedlichen Besinnung.",
+            "hu": "Álljon meg egy pillanatra ennél a Kegyelmes Miasszonyunknak szentelt útmenti szentélynél, amely békés elmélkedésre csábít a főút közelében.",
+            "ro": "Opriți-vă la acest altar fermecător dedicat Maicii Domnului a Harului, care oferă un moment de reflecție pașnică la doar câțiva pași de drum.",
+            "en": "Pause at this charming wayside shrine dedicated to Our Lady of Grace, offering a peaceful moment of reflection, easily accessible just off the main path."
+          }
+        },
+        {
+          "name": {
+            "de": "Militärfriedhof Pont d'Achelles",
+            "hu": "Pont d'Achelles Katonai Temető",
+            "ro": "Cimitirul Militar Pont d'Achelles",
+            "en": "Pont d'Achelles Military Cemetery"
+          },
+          "coords": [
+            2.819175,
+            50.715387
+          ],
+          "category": "historical",
+          "arrive_at": "11:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen ergreifenden Militärfriedhof aus dem Ersten Weltkrieg, um über die Verluste der Region nachzudenken, und bringen Sie einen Schirm mit.",
+            "hu": "Látogasson el erre a megrendítő első világháborús katonai temetőbe, és ne felejtsen el esernyőt vinni, mivel a területen kevés a menedék.",
+            "ro": "Vizitați acest cimitir militar emoționant din Primul Război Mondial pentru a reflecta asupra istoriei, aducând o umbrelă din cauza lipsei adăposturilor.",
+            "en": "Visit this poignant First World War military cemetery to reflect on the region's heavy toll, bringing an umbrella as there is very little shelter available."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame du Rosaire",
+            "hu": "Notre-Dame du Rosaire",
+            "ro": "Notre-Dame du Rosaire",
+            "en": "Notre-Dame du Rosaire"
+          },
+          "coords": [
+            2.821885,
+            50.698434
+          ],
+          "category": "landmark",
+          "arrive_at": "13:13",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Betrachten Sie die feinen Details dieses kleinen, der Rosenkranzkönigin gewidmeten Wahrzeichens, ideal für ein schnelles Foto auf dem Weg nach Westen.",
+            "hu": "Figyelje meg a Rózsafüzér Királynőjének szentelt apró helyi nevezetesség finom részleteit, amely tökéletes egy gyors fotóhoz nyugat felé tartva.",
+            "ro": "Observați detaliile delicate ale acestui mic reper de cartier dedicat Fecioarei Rozariului, perfect pentru o fotografie rapidă pe drumul spre vest.",
+            "en": "Observe the delicate details of this small neighborhood landmark dedicated to Our Lady of the Rosary, perfect for a quick photo as you travel westward."
+          }
+        },
+        {
+          "name": {
+            "de": "Ferme des Orgues",
+            "hu": "Ferme des Orgues Múzeum",
+            "ro": "Ferme des Orgues",
+            "en": "Ferme des Orgues - Musée de la musique mécanique"
+          },
+          "coords": [
+            2.805898,
+            50.697042
+          ],
+          "category": "museum",
+          "arrive_at": "13:34",
+          "stay_min": 130,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erleben Sie die skurrile Welt der mechanischen Musik in diesem einzigartigen Bauernhof-Museum und kommen Sie rechtzeitig zu einer geführten Vorführung.",
+            "hu": "Tapasztalja meg a gépzene varázslatos világát ebben az egyedülálló múzeumfarmon, és érkezzen időben az egyik lenyűgöző tárlatvezetésre.",
+            "ro": "Experimentați lumea fantezistă a muzicii mecanice la această fermă-muzeu unică, asigurându-vă că ajungeți la timp pentru o demonstrație ghidată.",
+            "en": "Experience the whimsical world of mechanical music at this unique museum farm, ensuring you arrive in time for one of their captivating guided demonstrations."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt an der Kirche und dem Schloss, bevor Sie in Richtung Norden radeln. Mittags passieren Sie kleine Schreine und einen Weltkriegsfriedhof. Der Nachmittag ist geprägt von den lebhaften Melodien des Museums für mechanische Musik am Stadtrand. Beenden Sie Ihr Radabenteuer am Abend und blicken Sie auf eine perfekte Mischung aus Geschichte und Kultur zurück.",
+        "hu": "Kezdje a túrát a központi templomnál és a kastélynál, mielőtt észak felé pedálozna. A délidő kis szentélyek és egy első világháborús temető érintésével telik. A délutánt a külvárosi gépzenei múzeum vidám dallamai töltik ki. Zárja a kerékpáros kalandot az este közeledtével, visszagondolva a történelmet és a helyi kultúrát tökéletesen ötvöző napra.",
+        "ro": "Începeți plimbarea la biserica centrală și la castel, înainte de a pedala spre nord. Prânzul vă aduce pe lângă mici altare și un cimitir din Primul Război Mondial. După-amiaza este plină de melodiile vesele ale muzeului de muzică mecanică. Încheiați-vă aventura ciclistă pe măsură ce se apropie seara, reflectând la o zi care a echilibrat istoria cu o cultură locală inedită.",
+        "en": "Start your ride at the central church and castle before pedaling north into the open air. Midday brings you past small shrines to a solemn World War I cemetery. The afternoon is filled with the lively tunes of the mechanical music museum on the outskirts. Conclude your cycling adventure as evening approaches, reflecting on a day that perfectly balanced profound history with quirky local culture."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:18",
+      "total_km": 9.45,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Martin Kirche",
+            "hu": "Saint-Martin Templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            2.83935,
+            50.704009
+          ],
+          "category": "religious",
+          "arrive_at": "09:01",
+          "stay_min": 50,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Buntglasfenster dieser zentralen Pfarrkirche, ein spiritueller Leuchtturm, der nach Kriegszerstörungen wiederaufgebaut wurde, ideal am Morgen.",
+            "hu": "Csodálja meg a központi plébániatemplom színes üvegablakait, amely a háború után újjáépülve a legjobb arcát a kora reggeli napfényben mutatja a látogatóknak.",
+            "ro": "Admirați vitraliile frumoase ale acestei biserici parohiale, un far spiritual reconstruit după război, de preferat a fi vizitată în lumina dimineții.",
+            "en": "Admire the beautiful stained glass of this central parish church, a spiritual beacon rebuilt after wartime destruction, best visited in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Nieppe",
+            "hu": "Nieppe Kastély",
+            "ro": "Castelul Nieppe",
+            "en": "Nieppe Castle"
+          },
+          "coords": [
+            2.839224,
+            50.705246
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Gelände des Schlosses Nieppe, das an die aristokratische Vergangenheit erinnert, und prüfen Sie vorab die lokalen Öffnungszeiten.",
+            "hu": "Fedezze fel a nieppe-i kastély történelmi parkját, amely a város arisztokratikus múltját idézi, de előtte érdemes pontosan ellenőrizni a nyitvatartást.",
+            "ro": "Explorați domeniul istoric al Castelului Nieppe, ce amintește de trecutul aristocratic al orașului, verificând în prealabil orarul de funcționare.",
+            "en": "Explore the historic grounds of Nieppe Castle, which serves as a poignant reminder of the town's aristocratic past, checking the local hall's opening hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame de Grâce",
+            "hu": "Notre-Dame de Grâce",
+            "ro": "Notre-Dame de Grâce",
+            "en": "Notre-Dame de Grâce"
+          },
+          "coords": [
+            2.836303,
+            50.720162
+          ],
+          "category": "landmark",
+          "arrive_at": "11:16",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem charmanten Wegschrein, der Unserer Lieben Frau der Gnade gewidmet ist, und genießen Sie einen Moment der friedlichen Besinnung.",
+            "hu": "Álljon meg egy pillanatra ennél a Kegyelmes Miasszonyunknak szentelt útmenti szentélynél, amely békés elmélkedésre csábít a főút közelében.",
+            "ro": "Opriți-vă la acest altar fermecător dedicat Maicii Domnului a Harului, care oferă un moment de reflecție pașnică la doar câțiva pași de drum.",
+            "en": "Pause at this charming wayside shrine dedicated to Our Lady of Grace, offering a peaceful moment of reflection, easily accessible just off the main path."
+          }
+        },
+        {
+          "name": {
+            "de": "Militärfriedhof Pont d'Achelles",
+            "hu": "Pont d'Achelles Katonai Temető",
+            "ro": "Cimitirul Militar Pont d'Achelles",
+            "en": "Pont d'Achelles Military Cemetery"
+          },
+          "coords": [
+            2.819175,
+            50.715387
+          ],
+          "category": "historical",
+          "arrive_at": "11:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen ergreifenden Militärfriedhof aus dem Ersten Weltkrieg, um über die Verluste der Region nachzudenken, und bringen Sie einen Schirm mit.",
+            "hu": "Látogasson el erre a megrendítő első világháborús katonai temetőbe, és ne felejtsen el esernyőt vinni, mivel a területen kevés a menedék.",
+            "ro": "Vizitați acest cimitir militar emoționant din Primul Război Mondial pentru a reflecta asupra istoriei, aducând o umbrelă din cauza lipsei adăposturilor.",
+            "en": "Visit this poignant First World War military cemetery to reflect on the region's heavy toll, bringing an umbrella as there is very little shelter available."
+          }
+        },
+        {
+          "name": {
+            "de": "Ferme des Orgues",
+            "hu": "Ferme des Orgues Múzeum",
+            "ro": "Ferme des Orgues",
+            "en": "Ferme des Orgues - Musée de la musique mécanique"
+          },
+          "coords": [
+            2.805898,
+            50.697042
+          ],
+          "category": "museum",
+          "arrive_at": "12:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die skurrile Welt der mechanischen Musik in diesem einzigartigen Bauernhof-Museum und kommen Sie rechtzeitig zu einer geführten Vorführung.",
+            "hu": "Tapasztalja meg a gépzene varázslatos világát ebben az egyedülálló múzeumfarmon, és érkezzen időben az egyik lenyűgöző tárlatvezetésre.",
+            "ro": "Experimentați lumea fantezistă a muzicii mecanice la această fermă-muzeu unică, asigurându-vă că ajungeți la timp pentru o demonstrație ghidată.",
+            "en": "Experience the whimsical world of mechanical music at this unique museum farm, ensuring you arrive in time for one of their captivating guided demonstrations."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame",
+            "hu": "Notre-Dame Templom",
+            "ro": "Biserica Notre-Dame",
+            "en": "Église Notre-Dame"
+          },
+          "coords": [
+            2.856565,
+            50.696924
+          ],
+          "category": "religious",
+          "arrive_at": "14:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser zweiten Pfarrkirche, die der lokalen Gemeinde Halt gibt und ein ruhiger Stopp auf Ihrem Spaziergang ist.",
+            "hu": "Csodálja meg a helyi közösséget összefogó templom különleges építészetét, amely békés megállót jelent a környékbeli séták során.",
+            "ro": "Minunați-vă de arhitectura distinctă a acestei a doua biserici parohiale ce ancorează comunitatea, fiind o oprire senină în timpul plimbării.",
+            "en": "Marvel at the distinct architecture of this secondary parish church that anchors the local community, making it a serene stop during your neighborhood stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Erweiterung des Friedhofs von Nieppe",
+            "hu": "Nieppe Községi Temető Bővítése",
+            "ro": "Extensia Cimitirului Comunal Nieppe",
+            "en": "Nieppe Communal Cemetery Extension"
+          },
+          "coords": [
+            2.855779,
+            50.699779
+          ],
+          "category": "historical",
+          "arrive_at": "15:28",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erweisen Sie an dieser gepflegten Erweiterung der Commonwealth-Kriegsgräber Ihren Respekt, einem Ort, der ein ruhiges Verhalten voraussetzt.",
+            "hu": "Fejezze ki tiszteletét ezen a gondosan karbantartott nemzetközösségi háborús temetőben, ahol a csendes és tiszteletteljes viselkedés alapvető.",
+            "ro": "Aduceți un omagiu la această extensie a cimitirului de război al Commonwealth-ului, un loc istoric unde un comportament respectuos este esențial.",
+            "en": "Pay your respects at this meticulously maintained Commonwealth War Graves extension, a sobering historical site where a quiet, respectful demeanor is essential."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie ins Zentrum von Nieppe, um die Kirche und das markante Schloss zu erkunden. Mittags führt eine kurze Fahrt zum nördlichen Militärfriedhof und einem Wegschrein. Der Nachmittag ist dem charmanten Museum für mechanische Musik vorbehalten. Beenden Sie Ihre umfassende Tour am späten Nachmittag, indem Sie dem südlichen Militärfriedhof bei einsetzender Dämmerung Respekt zollen.",
+        "hu": "Vezessen be Nieppe központjába a templom és a kastély felfedezésére. Délben tegyen gyors kitérőt az északi katonai temetőhöz és egy finom útszéli szentélyhez. A délután a lenyűgöző gépzenei múzeumé, amely igazi auditív élmény. Fejezze be átfogó túráját késő délután, a déli katonai temetőben leróva kegyeletét, ahogy az alkonyat leszáll.",
+        "ro": "Conduceți spre centrul orașului Nieppe pentru a explora biserica și castelul proeminent. La prânz, bucurați-vă de o călătorie rapidă spre cimitirul militar din nord și un altar de pe marginea drumului. După-amiaza este rezervată muzeului de muzică mecanică. Terminați-vă turul în târziul după-amiezii, aducând un omagiu la cimitirul militar din sud odată cu lăsarea serii.",
+        "en": "Drive into Nieppe's core to explore its central church and prominent castle. Midday allows a swift journey to the northern military cemetery and a delicate roadside shrine. The afternoon is reserved for the delightful mechanical music museum, an auditory treat. Finish your comprehensive tour in the late afternoon by paying respects at the southern military cemetery as dusk sets in."
+      }
+    }
+  }
+}

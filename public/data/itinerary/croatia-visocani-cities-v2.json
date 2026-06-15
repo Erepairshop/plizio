@@ -1,0 +1,474 @@
+{
+  "city_id": "croatia-visocani-cities-v2",
+  "anchor": {
+    "name": "Visočani",
+    "coords": [
+      17.793,
+      42.857
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:57",
+      "total_km": 5.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Vukova glava",
+            "hu": "Vukova glava",
+            "ro": "Vukova glava",
+            "en": "Vukova glava"
+          },
+          "coords": [
+            17.79876,
+            42.862294
+          ],
+          "category": "natural",
+          "arrive_at": "09:21",
+          "stay_min": 45,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Erkunden Sie die rauen Hänge der Vukova glava, ein markantes Naturdenkmal mit herrlichem Talblick, und bringen Sie feste Wanderschuhe für die steinigen Pfade mit.",
+            "hu": "Fedezze fel a Vukova glava zord lejtőit, egy lenyűgöző természeti látványosságot kiváló völgyi kilátással, de hozzon erős túracipőt a sziklás ösvényekhez.",
+            "ro": "Explorați pantele accidentate de la Vukova glava, un punct de reper natural izbitor, și aduceți ghete de drumeție rezistente pentru potecile stâncoase de aici.",
+            "en": "Explore the rugged slopes of Vukova glava, a striking natural landmark offering superb valley views, so bring sturdy hiking boots for the rocky paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Rvač",
+            "hu": "Rvač",
+            "ro": "Rvač",
+            "en": "Rvač"
+          },
+          "coords": [
+            17.809998,
+            42.860471
+          ],
+          "category": "natural",
+          "arrive_at": "10:21",
+          "stay_min": 45,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die unberührten Karstlandschaften vom Gipfel des Rvač, einem ruhigen Rückzugsort, an dem es dringend empfohlen wird, extra Wasser einzupacken.",
+            "hu": "Csodálja meg az érintetlen karsztvidéket a Rvač csúcsáról, amely egy békés menedék a horvát hátországban, ahol extra ivóvíz csomagolása erősen ajánlott.",
+            "ro": "Admirați peisajele carstice neatinse de pe vârful Rvač, o evadare senină în interiorul Croației, unde aducerea unei cantități suplimentare de apă este esențială.",
+            "en": "Admire the untouched karst landscapes from the peak of Rvač, a serene escape in the Croatian hinterland where packing extra water is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Oblik",
+            "hu": "Oblik",
+            "ro": "Oblik",
+            "en": "Oblik"
+          },
+          "coords": [
+            17.809183,
+            42.869572
+          ],
+          "category": "natural",
+          "arrive_at": "11:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie den markanten Hügel Oblik, dessen einzigartige Form den Horizont dominiert und der ein toller Fotospot ist, wenn Sie das grelle Mittagslicht meiden.",
+            "hu": "Fedezze fel az Oblik kiemelkedő dombját, melynek egyedi formája uralja a horizontot, és fantasztikus fotóhelyszín, ha még az erős déli napfény előtt érkezik.",
+            "ro": "Descoperiți dealul proeminent Oblik, a cărui formă domină orizontul, devenind un loc fantastic pentru fotografie dacă sosiți înainte de soarele dur de amiază.",
+            "en": "Discover the prominent hill of Oblik, whose unique shape dominates the horizon, making it a fantastic photography spot if you arrive before the harsh midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Međe brdo",
+            "hu": "Međe brdo",
+            "ro": "Međe brdo",
+            "en": "Međe brdo"
+          },
+          "coords": [
+            17.802778,
+            42.879156
+          ],
+          "category": "natural",
+          "arrive_at": "12:39",
+          "stay_min": 45,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause am Međe brdo, einem rauen Kamm mit wilder Flora, wo eine leichte Windjacke Sie vor den ständigen frischen Brisen schützt.",
+            "hu": "Tartson egy frissítő pihenőt a Međe brdo-n, egy vad flórájú zord gerincen, ahol egy könnyű széldzseki megvédi az állandóan fújó hűvös hegyi szellőtől.",
+            "ro": "Faceți o pauză revigorantă la Međe brdo, o creastă cu floră sălbatică, unde o jachetă subțire vă va proteja eficient de brizele răcoroase constante.",
+            "en": "Take a refreshing break at Međe brdo, a beautifully rugged crest showcasing wild flora, where a light windbreaker will protect you from the constant breezes."
+          }
+        },
+        {
+          "name": {
+            "de": "Velika kapa",
+            "hu": "Velika kapa",
+            "ro": "Velika kapa",
+            "en": "Velika kapa"
+          },
+          "coords": [
+            17.787327,
+            42.879731
+          ],
+          "category": "natural",
+          "arrive_at": "13:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Wandern Sie zur Velika kapa, um das weite Panorama des dalmatinischen Hinterlandes zu erleben, und nutzen Sie unbedingt Trekkingstöcke für den steilen Anstieg.",
+            "hu": "Túrázzon fel a Velika kapa-ra a dalmát hátország panorámájáért, és mindenképpen használjon túrabotokat az utolsó, meredek kaptató biztonságos megtételéhez.",
+            "ro": "Urcați pe Velika kapa pentru a experimenta panorama vastă a hinterlandului dalmat și asigurați-vă că folosiți bețe de drumeție pentru ascensiunea finală abruptă.",
+            "en": "Hike up to Velika kapa to experience the panoramic sweep of the Dalmatian hinterland, and be sure to use trekking poles for the steep final ascent."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung der markanten Vukova glava, wo das frühe Licht die raue kroatische Landschaft wunderschön beleuchtet. Setzen Sie Ihren Weg zu den unberührten Karstlandschaften des Rvač fort.\n\nMittags erreichen Sie den prominenten Hügel Oblik, der den perfekten Aussichtspunkt für ein wohlverdientes Picknick mit weitem Talblick bietet. Der Weg führt Sie dann durch die vielfältige Flora des Međe brdo.\n\nAm Nachmittag fordern Sie sich mit einem stetigen Aufstieg zur Velika kapa heraus. Dieser natürliche Aussichtspunkt offenbart die schiere Größe des dalmatinischen Hinterlandes und belohnt jeden Schritt.\n\nBeenden Sie Ihren Wandertag, während die Sonne tiefer sinkt und lange Schatten über die steinigen Kämme wirft. Kehren Sie erfrischt in das Dorf Visočani zurück.",
+        "hu": "Kezdje a reggelt a Vukova glava lenyűgöző csúcsának felfedezésével, ahol a kora reggeli fény gyönyörűen megvilágítja a zord horvát tájat. Folytassa útját a Rvač érintetlen karsztvidékei felé, élvezve a természet csendjét.\n\nA dél a kiemelkedő Oblik dombjához hozza el, amely tökéletes kilátópont egy jól megérdemelt piknikhez a völgyre nyíló kilátással. Az ösvény ezután a Međe brdo változatos vadflóráján vezet keresztül.\n\nDélután tegye próbára magát a Velika kapa folyamatos emelkedőjén. Ez a természetes kilátópont megmutatja a dalmát hátország puszta nagyságát, minden lépést megjutalmazva.\n\nFejezze be a túranapot, ahogy a nap lemenni készül, hosszú árnyékokat vetve a köves gerincekre. Térjen vissza Visočani falujába felfrissülve és a helyi vadonhoz kapcsolódva.",
+        "ro": "Începeți dimineața explorând vârful izbitor de la Vukova glava, unde lumina dimineții iluminează frumos terenul croat accidentat. Continuați plimbarea spre peisajele carstice neatinse de la Rvač, bucurându-vă de liniștea naturii.\n\nLa amiază ajungeți la dealul proeminent Oblik, oferind punctul de observație perfect pentru un picnic binemeritat, cu vederi ample asupra văii. Traseul vă duce apoi prin flora diversă de la Međe brdo.\n\nDupă-amiaza, provocați-vă cu o ascensiune constantă pe Velika kapa. Acest punct de belvedere natural dezvăluie amploarea hinterlandului dalmat, răsplătind din plin fiecare pas al drumeției.\n\nÎncheiați ziua de drumeție pe măsură ce soarele începe să coboare, aruncând umbre lungi peste crestele pietroase. Întoarceți-vă în satul Visočani simțindu-vă revigorați de sălbăticia locală.",
+        "en": "Start your morning exploring the striking peak of Vukova glava, where the early light beautifully illuminates the rugged Croatian terrain. Continue your walk towards the untouched karst landscapes of Rvač, enjoying the deep silence of nature.\n\nMidday brings you to the prominent hill of Oblik, providing the perfect vantage point for a well-deserved picnic lunch with sweeping valley views. The trail then leads you through the diverse wild flora of Međe brdo.\n\nIn the afternoon, challenge yourself with a steady ascent up Velika kapa. This natural viewpoint reveals the sheer scale of the Dalmatian hinterland, rewarding every step of your hike.\n\nConclude your hiking day as the sun begins to lower, casting long shadows over the stony ridges. Head back to the village of Visočani feeling refreshed and deeply connected to the pristine local wilderness."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 9.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Crvanj",
+            "hu": "Crvanj",
+            "ro": "Crvanj",
+            "en": "Crvanj"
+          },
+          "coords": [
+            17.762207,
+            42.857575
+          ],
+          "category": "natural",
+          "arrive_at": "09:24",
+          "stay_min": 45,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Streifen Sie durch die grünen Ausläufer des Crvanj, ein idealer Start für Naturliebhaber, wo der morgendliche Nebel oft eine warme Kleidungsschicht erfordert.",
+            "hu": "Barangoljon a Crvanj buja lábánál, amely kiváló kiindulópont a természetkedvelőknek, és ahol a reggeli köd miatt gyakran meleg aláöltözet szükséges.",
+            "ro": "Plimbați-vă prin poalele dealului Crvanj, un punct de pornire excelent pentru iubitorii de natură, unde ceața matinală necesită adesea îmbrăcăminte călduroasă.",
+            "en": "Wander through the lush foothills of Crvanj, an excellent starting point for nature lovers, where morning mist often requires a warm base layer for comfort."
+          }
+        },
+        {
+          "name": {
+            "de": "Velika kapa",
+            "hu": "Velika kapa",
+            "ro": "Velika kapa",
+            "en": "Velika kapa"
+          },
+          "coords": [
+            17.787327,
+            42.879731
+          ],
+          "category": "natural",
+          "arrive_at": "10:27",
+          "stay_min": 45,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Wandern Sie zur Velika kapa, um das weite Panorama des dalmatinischen Hinterlandes zu erleben, und nutzen Sie unbedingt Trekkingstöcke für den steilen Anstieg.",
+            "hu": "Túrázzon fel a Velika kapa-ra a dalmát hátország panorámájáért, és mindenképpen használjon túrabotokat az utolsó, meredek kaptató biztonságos megtételéhez.",
+            "ro": "Urcați pe Velika kapa pentru a experimenta panorama vastă a hinterlandului dalmat și asigurați-vă că folosiți bețe de drumeție pentru ascensiunea finală abruptă.",
+            "en": "Hike up to Velika kapa to experience the panoramic sweep of the Dalmatian hinterland, and be sure to use trekking poles for the steep final ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Grabova gruda",
+            "hu": "Grabova gruda",
+            "ro": "Grabova gruda",
+            "en": "Grabova gruda"
+          },
+          "coords": [
+            17.806012,
+            42.880618
+          ],
+          "category": "natural",
+          "arrive_at": "11:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die Einsamkeit der Grabova gruda, einer felsigen Erhebung voller Vögel, sodass ein Fernglas Ihre Tierbeobachtungen deutlich bereichern wird.",
+            "hu": "Élvezze a Grabova gruda elszigeteltségét, e madárvilágban gazdag sziklás magaslatot, így egy távcső viselése nagyban fokozza a vadvilág megfigyelését.",
+            "ro": "Bucurați-vă de izolarea de la Grabova gruda, o proeminență stâncoasă bogată în păsări locale, așa că un binoclu va îmbunătăți mult observarea faunei.",
+            "en": "Enjoy the isolation of Grabova gruda, a rocky prominence rich with local birdlife, so carrying binoculars will greatly enhance your wildlife spotting."
+          }
+        },
+        {
+          "name": {
+            "de": "Međe brdo",
+            "hu": "Međe brdo",
+            "ro": "Međe brdo",
+            "en": "Međe brdo"
+          },
+          "coords": [
+            17.802778,
+            42.879156
+          ],
+          "category": "natural",
+          "arrive_at": "12:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause am Međe brdo, einem rauen Kamm mit wilder Flora, wo eine leichte Windjacke Sie vor den ständigen frischen Brisen schützt.",
+            "hu": "Tartson egy frissítő pihenőt a Međe brdo-n, egy vad flórájú zord gerincen, ahol egy könnyű széldzseki megvédi az állandóan fújó hűvös hegyi szellőtől.",
+            "ro": "Faceți o pauză revigorantă la Međe brdo, o creastă cu floră sălbatică, unde o jachetă subțire vă va proteja eficient de brizele răcoroase constante.",
+            "en": "Take a refreshing break at Međe brdo, a beautifully rugged crest showcasing wild flora, where a light windbreaker will protect you from the constant breezes."
+          }
+        },
+        {
+          "name": {
+            "de": "Oblik",
+            "hu": "Oblik",
+            "ro": "Oblik",
+            "en": "Oblik"
+          },
+          "coords": [
+            17.809183,
+            42.869572
+          ],
+          "category": "natural",
+          "arrive_at": "12:54",
+          "stay_min": 45,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie den markanten Hügel Oblik, dessen einzigartige Form den Horizont dominiert und der ein toller Fotospot ist, wenn Sie das grelle Mittagslicht meiden.",
+            "hu": "Fedezze fel az Oblik kiemelkedő dombját, melynek egyedi formája uralja a horizontot, és fantasztikus fotóhelyszín, ha még az erős déli napfény előtt érkezik.",
+            "ro": "Descoperiți dealul proeminent Oblik, a cărui formă domină orizontul, devenind un loc fantastic pentru fotografie dacă sosiți înainte de soarele dur de amiază.",
+            "en": "Discover the prominent hill of Oblik, whose unique shape dominates the horizon, making it a fantastic photography spot if you arrive before the harsh midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Rvač",
+            "hu": "Rvač",
+            "ro": "Rvač",
+            "en": "Rvač"
+          },
+          "coords": [
+            17.809998,
+            42.860471
+          ],
+          "category": "natural",
+          "arrive_at": "13:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die unberührten Karstlandschaften vom Gipfel des Rvač, einem ruhigen Rückzugsort, an dem es dringend empfohlen wird, extra Wasser einzupacken.",
+            "hu": "Csodálja meg az érintetlen karsztvidéket a Rvač csúcsáról, amely egy békés menedék a horvát hátországban, ahol extra ivóvíz csomagolása erősen ajánlott.",
+            "ro": "Admirați peisajele carstice neatinse de pe vârful Rvač, o evadare senină în interiorul Croației, unde aducerea unei cantități suplimentare de apă este esențială.",
+            "en": "Admire the untouched karst landscapes from the peak of Rvač, a serene escape in the Croatian hinterland where packing extra water is highly recommended."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an den grünen Ausläufern des Crvanj und lassen Sie sich von der frischen Morgenluft beleben. Von hier aus navigieren Sie durch das hügelige Gelände zur aufragenden Velika kapa.\n\nGegen Mittag erreichen Sie Grabova gruda, eine fantastische felsige Erhebung, wo Sie durchatmen und der Vogelwelt lauschen können. Eine kurze Fahrt entfernt liegt Međe brdo, perfekt für eine kleine Pause.\n\nWenn der Nachmittag voranschreitet, treten Sie in die Pedale Richtung Oblik und erobern die wechselnden Höhenlagen, um die besten Aussichten der Region zu genießen. Die Karstwege bieten viel Dynamik.\n\nLassen Sie Ihr Abenteuer in Rvač ausklingen und schätzen Sie die friedliche Atmosphäre, wenn der Abend naht. Die Rückfahrt bietet eine sanfte Abfahrt und beendet einen aufregenden Erkundungstag.",
+        "hu": "Kezdje a kerékpáros utazást a Crvanj buja lábánál, hagyva, hogy a friss reggeli levegő energiával töltse fel, miközben az érintetlen természetben teker. Innen haladjon a dombos terepen a Velika kapa felé.\n\nDélre érkezzen meg a Grabova gruda sziklás magaslatára, ahol kifújhatja magát és hallgathatja a helyi madárvilágot. Egy rövid útra fekszik a Međe brdo, amely tökéletes egy gyors pihenőre a vadvirágok között.\n\nAhogy telik a délután, tekerjen az Oblik felé, meghódítva a változatos domborzatot, hogy élvezze a régió legjobb kilátásait. A karsztos ösvények izgalmas és dinamikus kerékpáros környezetet biztosítanak.\n\nFejezze be kalandját a Rvač-nál, értékelve a békés légkört az este közeledtével. A visszaút enyhe ereszkedést kínál, lezárva a zord hátország kerékpáros felfedezésének izgalmas napját.",
+        "ro": "Începeți călătoria cu bicicleta la poalele luxuriante de la Crvanj, lăsând aerul proaspăt al dimineții să vă energizeze. De aici, navigați pe terenul vălurit spre prezența impunătoare a vârfului Velika kapa.\n\nPână la amiază, ajungeți la Grabova gruda, o proeminență stâncoasă fantastică unde vă puteți trage sufletul și asculta păsările. La scurtă distanță se află Međe brdo, perfect pentru o pauză rapidă.\n\nPe măsură ce după-amiaza avansează, pedalați spre Oblik, cucerind elevația variată pentru a vă bucura de unele dintre cele mai bune priveliști. Căile carstice oferă un mediu de ciclism dinamic.\n\nÎncheiați aventura la Rvač, apreciind atmosfera senină pe măsură ce se apropie seara. Călătoria de întoarcere oferă o coborâre ușoară, încheind o zi palpitantă de explorare a hinterlandului accidentat.",
+        "en": "Kick off your cycling journey at the lush foothills of Crvanj, letting the crisp morning air energize you as you pedal through untouched nature. From here, navigate the rolling terrain towards the towering presence of Velika kapa.\n\nBy midday, arrive at Grabova gruda, a fantastic rocky prominence where you can catch your breath and listen to local birdlife. A short ride away lies Međe brdo, perfect for a quick break surrounded by vibrant wildflowers.\n\nAs the afternoon progresses, push the pedals towards Oblik, conquering the varied elevation to enjoy some of the best vistas in the region. The karst paths provide an exciting and dynamic cycling environment.\n\nWind down your adventure at Rvač, appreciating the serene atmosphere as evening approaches. The ride back offers a gentle descent, concluding a thrilling day of exploring the rugged hinterland by bike."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:03",
+      "total_km": 9.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Oštrikovac",
+            "hu": "Oštrikovac",
+            "ro": "Oštrikovac",
+            "en": "Oštrikovac"
+          },
+          "coords": [
+            17.779384,
+            42.839809
+          ],
+          "category": "natural",
+          "arrive_at": "09:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Überqueren Sie die steinigen Pfade des Oštrikovac, einem klassischen Karsthügel, auf dem wegen des fehlenden Schattens ein Sonnenhut unerlässlich ist.",
+            "hu": "Haladjon át az Oštrikovac köves ösvényein, egy széles kilátást nyújtó karsztdombon, ahol a teljes árnyékhiány miatt elengedhetetlen a napkalap viselése.",
+            "ro": "Traversați potecile pietroase de la Oštrikovac, un deal carstic clasic care oferă priveliști largi, unde purtarea unei pălării este esențială din cauza lipsei de umbră.",
+            "en": "Traverse the stony paths of Oštrikovac, a classic karst hill offering wide vistas, where wearing a hat is essential due to the complete lack of shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Runjava glava",
+            "hu": "Runjava glava",
+            "ro": "Runjava glava",
+            "en": "Runjava glava"
+          },
+          "coords": [
+            17.801109,
+            42.841014
+          ],
+          "category": "natural",
+          "arrive_at": "09:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Klettern Sie auf die Runjava glava mit ihrem rauen Gelände, einer idealen Herausforderung für Wanderer, die griffige Schuhe für den losen Schotter tragen sollten.",
+            "hu": "Másszon fel a Runjava glava jellegzetes rögös terepére, mely ideális kihívás aktív túrázóknak, akiknek jól tapadó cipőt kell viselniük a laza kavicson.",
+            "ro": "Cățărați-vă pe terenul accidentat de la Runjava glava, o provocare ideală pentru drumeții activi care ar trebui să poarte încălțăminte cu aderență bună.",
+            "en": "Scramble up Runjava glava to see its characteristic rugged terrain, an ideal challenge for active hikers who should wear grippy shoes for the loose gravel."
+          }
+        },
+        {
+          "name": {
+            "de": "Vojska glava",
+            "hu": "Vojska glava",
+            "ro": "Vojska glava",
+            "en": "Vojska glava"
+          },
+          "coords": [
+            17.807801,
+            42.837711
+          ],
+          "category": "natural",
+          "arrive_at": "10:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie den historischen Aussichtspunkt Vojska glava mit seinen weiten strategischen Blicken und packen Sie unbedingt Snacks für ein Gipfelpicknick ein.",
+            "hu": "Látogassa meg a történelmi Vojska glava kilátót, amely széles stratégiai kilátásairól híres, és ne felejtsen el könnyű rágcsálnivalót vinni a csúcsra.",
+            "ro": "Vizitați punctul de observație Vojska glava, renumit pentru priveliștile sale strategice ample, și amintiți-vă să împachetați gustări pentru un picnic pe vârf.",
+            "en": "Visit the historic vantage point of Vojska glava, renowned for its sweeping strategic views, and remember to pack some light snacks for a summit picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Požar",
+            "hu": "Požar",
+            "ro": "Požar",
+            "en": "Požar"
+          },
+          "coords": [
+            17.802753,
+            42.847733
+          ],
+          "category": "natural",
+          "arrive_at": "11:24",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Durchstreifen Sie die wilde Weite von Požar, einer von der Ökologie geprägten Naturfläche mit ruhigen Wegen, auf denen Insektenspray im Sommer sehr nützlich ist.",
+            "hu": "Járja be a Požar vad kiterjedését, a múltbéli ökológiai változások által formált csendes ösvényeket, ahol a rovarriasztó nyáron meglehetősen hasznos lehet.",
+            "ro": "Hoinăriți prin întinderea sălbatică de la Požar, o zonă naturală cu poteci liniștite, unde spray-ul împotriva insectelor este extrem de util în timpul verii calde.",
+            "en": "Roam the wild expanse of Požar, a natural area shaped by past ecological shifts, offering quiet trails where insect repellent is quite useful in the summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Vukova glava",
+            "hu": "Vukova glava",
+            "ro": "Vukova glava",
+            "en": "Vukova glava"
+          },
+          "coords": [
+            17.79876,
+            42.862294
+          ],
+          "category": "natural",
+          "arrive_at": "12:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die rauen Hänge der Vukova glava, ein markantes Naturdenkmal mit herrlichem Talblick, und bringen Sie feste Wanderschuhe für die steinigen Pfade mit.",
+            "hu": "Fedezze fel a Vukova glava zord lejtőit, egy lenyűgöző természeti látványosságot kiváló völgyi kilátással, de hozzon erős túracipőt a sziklás ösvényekhez.",
+            "ro": "Explorați pantele accidentate de la Vukova glava, un punct de reper natural izbitor, și aduceți ghete de drumeție rezistente pentru potecile stâncoase de aici.",
+            "en": "Explore the rugged slopes of Vukova glava, a striking natural landmark offering superb valley views, so bring sturdy hiking boots for the rocky paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Međe brdo",
+            "hu": "Međe brdo",
+            "ro": "Međe brdo",
+            "en": "Međe brdo"
+          },
+          "coords": [
+            17.802778,
+            42.879156
+          ],
+          "category": "natural",
+          "arrive_at": "13:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause am Međe brdo, einem rauen Kamm mit wilder Flora, wo eine leichte Windjacke Sie vor den ständigen frischen Brisen schützt.",
+            "hu": "Tartson egy frissítő pihenőt a Međe brdo-n, egy vad flórájú zord gerincen, ahol egy könnyű széldzseki megvédi az állandóan fújó hűvös hegyi szellőtől.",
+            "ro": "Faceți o pauză revigorantă la Međe brdo, o creastă cu floră sălbatică, unde o jachetă subțire vă va proteja eficient de brizele răcoroase constante.",
+            "en": "Take a refreshing break at Međe brdo, a beautifully rugged crest showcasing wild flora, where a light windbreaker will protect you from the constant breezes."
+          }
+        },
+        {
+          "name": {
+            "de": "Grabova gruda",
+            "hu": "Grabova gruda",
+            "ro": "Grabova gruda",
+            "en": "Grabova gruda"
+          },
+          "coords": [
+            17.806012,
+            42.880618
+          ],
+          "category": "natural",
+          "arrive_at": "13:53",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die Einsamkeit der Grabova gruda, einer felsigen Erhebung voller Vögel, sodass ein Fernglas Ihre Tierbeobachtungen deutlich bereichern wird.",
+            "hu": "Élvezze a Grabova gruda elszigeteltségét, e madárvilágban gazdag sziklás magaslatot, így egy távcső viselése nagyban fokozza a vadvilág megfigyelését.",
+            "ro": "Bucurați-vă de izolarea de la Grabova gruda, o proeminență stâncoasă bogată în păsări locale, așa că un binoclu va îmbunătăți mult observarea faunei.",
+            "en": "Enjoy the isolation of Grabova gruda, a rocky prominence rich with local birdlife, so carrying binoculars will greatly enhance your wildlife spotting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour in Richtung Süden zum Oštrikovac, wo die offenen Straßen fantastische Karstlandschaften offenbaren. Eine kurze Fahrt bringt Sie dann zur Runjava glava mit ihrem rauen Terrain.\n\nGegen Mittag besuchen Sie den historischen Aussichtspunkt Vojska glava, bevor Sie zum weitläufigen Naturgebiet Požar fahren. Diese Orte sind gut erreichbar und bieten exzellente Möglichkeiten für kurze Spaziergänge.\n\nAm Nachmittag cruisen Sie zurück nach Norden zur Vukova glava und bewundern, wie das Licht die Farben des Tals verändert. Fahren Sie weiter zum Međe brdo, um sich inmitten einzigartiger Vegetation die Beine zu vertreten.\n\nBeenden Sie Ihren Roadtrip an der Grabova gruda am späten Nachmittag. Die isolierte Felsformation bietet eine ruhige, dramatische Kulisse, um einen perfekten Tag in der Natur von Visočani abzuschließen.",
+        "hu": "Kezdje autós túráját dél felé indulva az Oštrikovac-hoz, ahol a nyílt utak lenyűgöző karszt panorámát nyújtanak a reggeli fényben. Egy rövid út után a Runjava glava zord, textúrált tájához érkezik.\n\nA dél közeledtével látogassa meg a történelmi Vojska glava kilátót, mielőtt a Požar kiterjedt természeti területére hajtana. Ezek a könnyen megközelíthető helyek kiváló lehetőséget nyújtanak egy kis sétára.\n\nDélután autózzon vissza észak felé a Vukova glava irányába, megcsodálva, hogyan változtatja meg a napfény a völgy színeit. Folytassa útját a Međe brdo-hoz, hogy kinyújtóztassa lábait a felvidéki növényzet között.\n\nFejezze be a kirándulást a Grabova gruda-nál a késő délutáni órákban. Az elszigetelt sziklás magaslat csendes, drámai hátteret kínál egy tökéletes természeti nap lezárásához Visočani környékén.",
+        "ro": "Începeți turul cu mașina îndreptându-vă spre sud, la Oštrikovac, unde drumurile deschise lasă loc priveliștilor carstice uimitoare. O scurtă plimbare vă duce apoi la Runjava glava, cunoscută pentru peisajul său accidentat.\n\nPe măsură ce se apropie amiaza, vizitați punctul de observație Vojska glava înainte de a conduce spre zona naturală expansivă Požar. Aceste locuri sunt accesibile și oferă oportunități excelente pentru scurte plimbări.\n\nDupă-amiaza, mergeți înapoi spre nord spre Vukova glava, admirând modul în care lumina schimbă culorile văii. Continuați spre Međe brdo pentru a vă întinde picioarele printre vegetația montană unică.\n\nTerminați excursia la Grabova gruda exact când se instalează după-amiaza târziu. Prominența stâncoasă izolată oferă un fundal liniștit și dramatic pentru a încheia o zi perfectă de explorare în Visočani.",
+        "en": "Start your driving tour by heading south to Oštrikovac, where the open roads give way to stunning karst vistas in the morning light. A brief drive then takes you to Runjava glava, a spot known for its rugged, textured landscape.\n\nAs midday nears, visit the historic vantage point of Vojska glava before driving up to the expansive natural area of Požar. These spots are easily accessible and provide excellent opportunities for short nature walks and photography.\n\nIn the afternoon, cruise back north towards Vukova glava, admiring how the shifting sunlight changes the colors of the valley. Continue to Međe brdo to stretch your legs among the unique highland vegetation.\n\nFinish your road trip at Grabova gruda just as the late afternoon sets in. The isolated rocky prominence offers a quiet, dramatic backdrop to end a perfect day of hopping between Visočani's natural landmarks."
+      }
+    }
+  }
+}

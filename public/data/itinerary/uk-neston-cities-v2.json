@@ -1,0 +1,474 @@
+{
+  "city_id": "uk-neston-cities-v2",
+  "anchor": {
+    "name": "Neston",
+    "coords": [
+      -3.0642,
+      53.2897
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:20",
+      "total_km": 1.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Neston",
+            "hu": "Neston Vasútállomás",
+            "ro": "Gara Neston",
+            "en": "Neston Railway Station"
+          },
+          "coords": [
+            -3.064,
+            53.292
+          ],
+          "category": "station",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Neston-Reise an diesem historischen Bahnhof aus den 1880er Jahren und prüfen Sie unbedingt den Fahrplan, um Wartezeiten bei den stündlichen Zügen zu meiden.",
+            "hu": "Kezdje nestoni útját ezen az 1880-as évekbeli történelmi állomáson, és feltétlenül ellenőrizze a menetrendet, hogy elkerülje az óránként járó vonatok miatti várakozást.",
+            "ro": "Începeți călătoria în Neston la această stație istorică din anii 1880 și asigurați-vă că verificați mersul trenurilor pentru a nu aștepta garniturile care circulă la oră.",
+            "en": "Start your Neston journey at this historic station from the 1880s, serving the Borderlands Line, and be sure to check the timetable to avoid waiting for the hourly trains."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Neston",
+            "hu": "Neston Városháza",
+            "ro": "Primăria Neston",
+            "en": "Neston Town Hall"
+          },
+          "coords": [
+            -3.06437,
+            53.29049
+          ],
+          "category": "civic",
+          "arrive_at": "09:28",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die auffällige viktorianische Architektur dieses bürgerlichen Gebäudes und versuchen Sie, an einem Freitag zu kommen, um den belebten Markt davor zu besuchen.",
+            "hu": "Csodálja meg ennek a városközponti középületnek a lenyűgöző viktoriánus építészetét, és próbáljon meg pénteken érkezni, hogy felfedezhesse a nyüzsgő helyi piac kínálatát.",
+            "ro": "Admirați arhitectura victoriană a acestei clădiri civice din centrul orașului și încercați să o vizitați într-o vineri pentru a explora piața locală aglomerată din fața ei.",
+            "en": "Admire the striking Victorian architecture of this civic building located right in the town center, and try to visit on a Friday to browse the bustling local market outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Neston Kreuz",
+            "hu": "Neston Kereszt",
+            "ro": "Crucea Neston",
+            "en": "Neston Cross"
+          },
+          "coords": [
+            -3.06443,
+            53.289843
+          ],
+          "category": "historical",
+          "arrive_at": "09:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses faszinierende mittelalterliche Sandsteinkreuz aus der Wikingerzeit und betrachten Sie die Schnitzereien genau, bevor Sie nahegelegene Cafés besuchen.",
+            "hu": "Fedezze fel ezt a viking korból származó, lenyűgöző középkori homokkő keresztet, és vizsgálja meg a faragásokat, mielőtt beülne egy közeli hangulatos helyi kávézóba pihenni.",
+            "ro": "Descoperiți această cruce medievală de gresie din epoca vikingilor și priviți cu atenție sculpturile complicate înainte de a vă îndrepta spre cafenelele locale din apropiere.",
+            "en": "Discover this fascinating medieval sandstone cross which dates back to the Viking era, and look closely at the intricate carvings before heading to the nearby local cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St Mary and St Helen",
+            "hu": "St Mary and St Helen Templom",
+            "ro": "Biserica St Mary și St Helen",
+            "en": "St Mary and St Helen's Church"
+          },
+          "coords": [
+            -3.064273,
+            53.289201
+          ],
+          "category": "religious",
+          "arrive_at": "11:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Betreten Sie diese wunderschöne Pfarrkirche, um die atemberaubenden Buntglasfenster zu sehen, und nehmen Sie sich Zeit für Besinnung, bevor Sie den alten Friedhof erkunden.",
+            "hu": "Lépjen be ebbe a gyönyörű plébániatemplomba, hogy megcsodálja lenyűgöző ólomüveg ablakait, és szánjon egy percet a csendes elmélkedésre, mielőtt bejárja a régi temetőt.",
+            "ro": "Pășiți în această frumoasă biserică parohială pentru a vedea vitraliile sale uimitoare și luați-vă un moment de liniște înainte de a explora cimitirul antic din jurul ei.",
+            "en": "Step inside this beautiful parish church to see its stunning stained glass windows, and take a moment of quiet reflection before exploring the ancient surrounding graveyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Stanney Fields Park",
+            "hu": "Stanney Fields Park",
+            "ro": "Parcul Stanney Fields",
+            "en": "Stanney Fields Park"
+          },
+          "coords": [
+            -3.058404,
+            53.28884
+          ],
+          "category": "park",
+          "arrive_at": "12:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang durch diese gepflegte Grünanlage mit hübscher Blumenpracht und bringen Sie bequeme Schuhe mit, um die umlaufenden Wege vollständig abzugehen.",
+            "hu": "Tegyen egy békés sétát ebben a gyönyörű virágkompozíciókkal díszített parkban, és mindenképpen hozzon kényelmes cipőt, hogy kényelmesen bejárhassa az itteni peremösvényeket.",
+            "ro": "Bucurați-vă de o plimbare liniștită prin acest spațiu verde bine întreținut cu aranjamente florale și aduceți încălțăminte confortabilă pentru a parcurge aleile perimetrale.",
+            "en": "Enjoy a peaceful stroll through this well-maintained green space featuring lovely floral displays, and bring some comfortable shoes to fully walk the perimeter pathways here."
+          }
+        },
+        {
+          "name": {
+            "de": "The Malt Shovel",
+            "hu": "The Malt Shovel",
+            "ro": "The Malt Shovel",
+            "en": "The Malt Shovel"
+          },
+          "coords": [
+            -3.065036,
+            53.292506
+          ],
+          "category": "historical",
+          "arrive_at": "13:30",
+          "stay_min": 110,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem traditionellen, historischen englischen Pub mit gemütlicher Atmosphäre und fragen Sie das freundliche Personal nach der tiefen Geschichte des Hauses.",
+            "hu": "Pihenjen meg ebben a hagyományos, hangulatos angol kocsmában, és bátran kérdezze a barátságos pultost a kiváló helyi söröket kínáló épület történelmi múltjával kapcsolatban.",
+            "ro": "Relaxați-vă în acest pub englezesc tradițional și istoric, recunoscut pentru atmosfera primitoare, și nu uitați să întrebați personalul amabil despre trecutul clădirii.",
+            "en": "Relax at this traditional, historic English pub known for its cozy atmosphere and local ales, and be sure to ask the friendly bar staff about the building's deep history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung des charmanten Zentrums von Neston, vom historischen Bahnhof bis hin zur beeindruckenden Architektur des Rathauses.\nTauchen Sie am Mittag am Neston Cross in die Vergangenheit ein und genießen Sie die friedliche Ruhe in der nahe gelegenen Pfarrkirche St Mary and St Helen.\nDer Nachmittag lädt zu einem angenehmen Spaziergang durch den Stanney Fields Park ein, der eine grüne Oase unweit des belebten Stadtzentrums von Neston bietet.\nWenn der Abend naht, beenden Sie Ihren Rundgang im The Malt Shovel, wo Sie sich bei einem wohlverdienten lokalen Bier in klassischer Pub-Atmosphäre entspannen können.",
+        "hu": "Kezdje a reggelt Neston bájos központjának felfedezésével; érkezzen meg a történelmi vasútállomásra, majd csodálja meg a Városháza lenyűgöző viktoriánus építészetét.\nDélben merüljön el a múltban a Neston Crossnál, és élvezze a béke szigetét a közeli St Mary and St Helen plébániatemplom csendes, történelmi falai között.\nA délután egy kellemes sétára invitál a Stanney Fields Parkban, amely pihentető zöld oázist kínál, csupán egy rövid távolságra a nyüzsgő városközponttól.\nAz este közeledtével fejezze be sétáját a The Malt Shovel klasszikus kocsmájában, ahol egy jól megérdemelt helyi sör mellett lazíthat a tartalmas nap után.",
+        "ro": "Începeți dimineața explorând centrul fermecător al orașului Neston, de la gara istorică până la admirarea arhitecturii victoriene impresionante a Primăriei locale.\nPână la prânz, aprofundați trecutul îndepărtat la Neston Cross și bucurați-vă de liniștea pașnică a Bisericii Parohiale St Mary și St Helen din imediata apropiere.\nDupă-amiaza vă invită la o plimbare plăcută prin Parcul Stanney Fields, care oferă o oază verde relaxantă, situată la o scurtă distanță de centrul plin de viață.\nOdată cu lăsarea serii, încheiați turul la The Malt Shovel, unde vă puteți relaxa cu o bere locală binemeritată într-o atmosferă de pub istoric clasic.",
+        "en": "Start your morning exploring Neston's charming center, arriving at the historic station before taking in the impressive Victorian architecture of the local Town Hall.\nBy midday, delve into the area's deep past at the Neston Cross and enjoy the peaceful tranquility of the Parish Church of St Mary and St Helen right nearby.\nThe afternoon invites you for a pleasant stroll through Stanney Fields Park, offering a relaxing green oasis just a short distance from the bustling town center.\nAs evening approaches, conclude your walking tour at The Malt Shovel, where you can unwind with a well-earned local ale in a classic historical pub setting."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:19",
+      "total_km": 6.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Neston",
+            "hu": "Neston Városháza",
+            "ro": "Primăria Neston",
+            "en": "Neston Town Hall"
+          },
+          "coords": [
+            -3.06437,
+            53.29049
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die auffällige viktorianische Architektur dieses bürgerlichen Gebäudes und versuchen Sie, an einem Freitag zu kommen, um den belebten Markt davor zu besuchen.",
+            "hu": "Csodálja meg ennek a városközponti középületnek a lenyűgöző viktoriánus építészetét, és próbáljon meg pénteken érkezni, hogy felfedezhesse a nyüzsgő helyi piac kínálatát.",
+            "ro": "Admirați arhitectura victoriană a acestei clădiri civice din centrul orașului și încercați să o vizitați într-o vineri pentru a explora piața locală aglomerată din fața ei.",
+            "en": "Admire the striking Victorian architecture of this civic building located right in the town center, and try to visit on a Friday to browse the bustling local market outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Neston Kreuz",
+            "hu": "Neston Kereszt",
+            "ro": "Crucea Neston",
+            "en": "Neston Cross"
+          },
+          "coords": [
+            -3.06443,
+            53.289843
+          ],
+          "category": "historical",
+          "arrive_at": "09:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses faszinierende mittelalterliche Sandsteinkreuz aus der Wikingerzeit und betrachten Sie die Schnitzereien genau, bevor Sie nahegelegene Cafés besuchen.",
+            "hu": "Fedezze fel ezt a viking korból származó, lenyűgöző középkori homokkő keresztet, és vizsgálja meg a faragásokat, mielőtt beülne egy közeli hangulatos helyi kávézóba pihenni.",
+            "ro": "Descoperiți această cruce medievală de gresie din epoca vikingilor și priviți cu atenție sculpturile complicate înainte de a vă îndrepta spre cafenelele locale din apropiere.",
+            "en": "Discover this fascinating medieval sandstone cross which dates back to the Viking era, and look closely at the intricate carvings before heading to the nearby local cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturschutzgebiet Windle Hill",
+            "hu": "Windle Hill Természetvédelmi Terület",
+            "ro": "Rezervația Naturală Windle Hill",
+            "en": "Windle Hill Nature Reserve"
+          },
+          "coords": [
+            -3.037031,
+            53.282933
+          ],
+          "category": "natural",
+          "arrive_at": "11:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses schöne Hügelreservat mit weitem Blick auf die Landschaft und besuchen Sie es in den frühen Morgenstunden, um die besten Vogelbeobachtungen zu erleben.",
+            "hu": "Fedezze fel ezt a csodás hegyvidéki rezervátumot, ahonnan pazar kilátás nyílik a tájra, és látogasson el ide kora reggel a legjobb madármegfigyelési lehetőségek érdekében.",
+            "ro": "Explorați această rezervație superbă pe deal, care oferă vederi panoramice asupra peisajului, și vizitați-o dimineața devreme pentru cele mai bune ocazii de a observa păsări.",
+            "en": "Explore this beautiful hilltop reserve offering sweeping views of the surrounding countryside, and visit during the early morning hours for the best bird watching opportunities."
+          }
+        },
+        {
+          "name": {
+            "de": "Fundort der römischen Münze",
+            "hu": "1930-as Római Érme Lelőhely",
+            "ro": "Locul Monedei Romane din 1930",
+            "en": "Roman Coin found 1930 Site"
+          },
+          "coords": [
+            -3.05056,
+            53.282698
+          ],
+          "category": "historical",
+          "arrive_at": "12:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie den genauen Ort, an dem 1930 überraschend eine römische Münze ausgegraben wurde, und nutzen Sie eine Karten-App, um die eher unscheinbare Stelle zu finden.",
+            "hu": "Keresse fel azt a pontos helyet, ahol 1930-ban egy római érmét ástak ki a földből, és használjon egy térképalkalmazást, hogy megtalálja a kissé jelöletlen történelmi pontot.",
+            "ro": "Vizitați locul exact în care a fost descoperită o monedă romană în 1930 și utilizați o aplicație de hărți pentru a găsi această locație destul de nemarcată de pe traseu.",
+            "en": "Visit the exact spot where a historic Roman coin was unexpectedly unearthed back in 1930, and use a map app to find the somewhat unmarked location near the main crossing paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten Ness",
+            "hu": "Ness Botanikus Kert",
+            "ro": "Grădinile Botanice Ness",
+            "en": "Ness Botanic Gardens"
+          },
+          "coords": [
+            -3.043,
+            53.2724
+          ],
+          "category": "garden",
+          "arrive_at": "13:59",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese spektakulären, von der Universität verwalteten Gärten mit Blick auf den Fluss Dee und probieren Sie ein Stück Kuchen im charmanten Besucherzentrum.",
+            "hu": "Sétáljon végig az egyetem által kezelt látványos kerteken, amelyek a Dee folyóra néznek, és mindenképpen álljon meg a látogatóközpont kávézójában egy szelet házi süteményre.",
+            "ro": "Plimbați-vă prin aceste grădini spectaculoase administrate de universitate cu vedere la râul Dee și asigurați-vă că opriți la cafeneaua centrului pentru o felie de prăjitură.",
+            "en": "Wander through these spectacular university-managed gardens overlooking the River Dee, and make sure to stop by the delightful visitor center cafe for a slice of homemade cake."
+          }
+        },
+        {
+          "name": {
+            "de": "Denhall Zeche Schacht",
+            "hu": "Denhall Szénbánya Akna",
+            "ro": "Puțul Minier Denhall",
+            "en": "Denhall Colliery Mineshaft"
+          },
+          "coords": [
+            -3.064134,
+            53.276043
+          ],
+          "category": "historical",
+          "arrive_at": "15:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erfahren Sie an diesem ehemaligen Bergbaustandort mehr über das Erbe der Region und halten Sie sich beim Fotografieren der Ruinen sicher vom Rand der alten Anlagen fern.",
+            "hu": "Ismerje meg a környék gazdag ipari örökségét ezen az egykori parti bányászati területen, és tartson biztonságos távolságot a peremektől, miközben fotózza a régi romokat.",
+            "ro": "Aflați despre moștenirea industrială a zonei la acest fost sit minier de coastă și păstrați o distanță sigură de margini în timp ce faceți fotografii cu vechile ruine rămase.",
+            "en": "Learn about the area's rich industrial heritage at this former coastal mining site, and keep a safe distance from the edges while taking photos of the old infrastructure ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Wirral Zeche Schacht C",
+            "hu": "Wirral Szénbánya C Akna",
+            "ro": "Puțul Minier Wirral C",
+            "en": "Wirral Colliery Mineshaft C"
+          },
+          "coords": [
+            -3.067671,
+            53.278925
+          ],
+          "category": "historical",
+          "arrive_at": "16:29",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie an diesem historischen Schacht ein weiteres Stück von Nestons Bergbauvergangenheit und tragen Sie feste Schuhe, da die Wege zu den Überresten oft schlammig sind.",
+            "hu": "Fedezze fel Neston szénbányászati múltjának egy újabb fontos részletét ezen a történelmi helyszínen, és viseljen masszív bakancsot, mivel a romokhoz vezető utak sarasak.",
+            "ro": "Descoperiți o altă piesă crucială a trecutului minier din Neston la această locație istorică și purtați cizme rezistente, deoarece cărările către ruine pot fi noroioase.",
+            "en": "Uncover another crucial piece of Neston's coal mining past at this historic shaft location, and wear sturdy boots as the paths leading up to the remains can be quite muddy."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer im Herzen von Neston am Rathaus und dem mittelalterlichen Neston Cross, bevor Sie in die malerischen ländlichen Landschaften aufbrechen.\nRadeln Sie zum Windle Hill Nature Reserve für einen weiten Blick und entdecken Sie dann die faszinierende Geschichte des Fundortes einer römischen Münze.\nVerbringen Sie den Nachmittag in den wunderschönen Ness Botanic Gardens und bewundern Sie die bunte Blumenpracht, bevor Sie Ihre Reise entlang der Küste fortsetzen.\nBeenden Sie Ihre Radtour mit der Erkundung des reichen industriellen Erbes der Region an den Küstenschächten von Denhall und Wirral, während die Sonne untergeht.",
+        "hu": "Kezdje kerékpáros kalandját Neston szívében, a Városházánál és a középkori Neston Crossnál, mielőtt elindulna a festői, zöldellő vidéki tájak felé.\nTekerjen el a Windle Hill természetvédelmi területre a csodás kilátásért, majd fedezze fel a közelben talált római érme pontos, történelmi helyszínét is.\nTöltse a délutánt a gyönyörű Ness Botanikus Kertben, ahol lenyűgöző virágkompozíciókat csodálhat meg, mielőtt továbbfolytatná útját a parti sáv mentén dél felé.\nFejezze be a túrát a Denhall és a Wirral szénbányák partmenti aknáinál, felfedezve a környék gazdag ipari örökségét, miközben a nap lassan lenyugszik a víz felett.",
+        "ro": "Începeți aventura pe bicicletă în inima orașului Neston la Primărie și crucea medievală, înainte de a vă îndrepta spre peisajele rurale pitorești din împrejurimi.\nPedalați până la Rezervația Naturală Windle Hill pentru vederi panoramice, apoi descoperiți istoria fascinantă a locului în care a fost găsită o monedă romană.\nPetreceți după-amiaza plimbându-vă prin frumoasele Grădini Botanice Ness, admirând aranjamentele florale vibrante înainte de a continua călătoria pe coastă.\nÎncheiați turul pe bicicletă explorând bogata moștenire industrială a zonei la fostele puțuri miniere de coastă Denhall și Wirral, la apusul soarelui.",
+        "en": "Kick off your cycling adventure in the heart of Neston at the Town Hall and the medieval Neston Cross before heading out towards the scenic rural landscapes.\nPedal out to the Windle Hill Nature Reserve to enjoy sweeping views, then discover the fascinating history behind the exact spot of a 1930 Roman Coin find nearby.\nSpend your afternoon wandering the beautiful Ness Botanic Gardens, taking in the vibrant floral displays before continuing your coastal journey south.\nConclude your bike tour exploring the area's rich industrial heritage at the coastal Denhall and Wirral Colliery shafts as the sun begins to set over the water."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:43",
+      "total_km": 13.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche St Mary and St Helen",
+            "hu": "St Mary and St Helen Templom",
+            "ro": "Biserica St Mary și St Helen",
+            "en": "St Mary and St Helen's Church"
+          },
+          "coords": [
+            -3.064273,
+            53.289201
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betreten Sie diese wunderschöne Pfarrkirche, um die atemberaubenden Buntglasfenster zu sehen, und nehmen Sie sich Zeit für Besinnung, bevor Sie den alten Friedhof erkunden.",
+            "hu": "Lépjen be ebbe a gyönyörű plébániatemplomba, hogy megcsodálja lenyűgöző ólomüveg ablakait, és szánjon egy percet a csendes elmélkedésre, mielőtt bejárja a régi temetőt.",
+            "ro": "Pășiți în această frumoasă biserică parohială pentru a vedea vitraliile sale uimitoare și luați-vă un moment de liniște înainte de a explora cimitirul antic din jurul ei.",
+            "en": "Step inside this beautiful parish church to see its stunning stained glass windows, and take a moment of quiet reflection before exploring the ancient surrounding graveyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten Ness",
+            "hu": "Ness Botanikus Kert",
+            "ro": "Grădinile Botanice Ness",
+            "en": "Ness Botanic Gardens"
+          },
+          "coords": [
+            -3.043,
+            53.2724
+          ],
+          "category": "garden",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese spektakulären, von der Universität verwalteten Gärten mit Blick auf den Fluss Dee und probieren Sie ein Stück Kuchen im charmanten Besucherzentrum.",
+            "hu": "Sétáljon végig az egyetem által kezelt látványos kerteken, amelyek a Dee folyóra néznek, és mindenképpen álljon meg a látogatóközpont kávézójában egy szelet házi süteményre.",
+            "ro": "Plimbați-vă prin aceste grădini spectaculoase administrate de universitate cu vedere la râul Dee și asigurați-vă că opriți la cafeneaua centrului pentru o felie de prăjitură.",
+            "en": "Wander through these spectacular university-managed gardens overlooking the River Dee, and make sure to stop by the delightful visitor center cafe for a slice of homemade cake."
+          }
+        },
+        {
+          "name": {
+            "de": "Ness Zeche Schacht",
+            "hu": "Ness Szénbánya Akna",
+            "ro": "Puțul Minier Ness",
+            "en": "Ness Colliery Mineshaft"
+          },
+          "coords": [
+            -3.061031,
+            53.276579
+          ],
+          "category": "historical",
+          "arrive_at": "10:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Wandeln Sie an dieser historischen Förderstätte auf den Spuren der Bergleute des 19. Jahrhunderts und verbinden Sie den Besuch mit einem Spaziergang entlang der nahen Küste.",
+            "hu": "Kövesse a 19. századi bányászok nyomdokait ezen a hangulatos történelmi bányászati helyszínen, és kösse össze látogatását egy partmenti sétával a teljes élmény érdekében.",
+            "ro": "Urmați pașii minerilor din secolul al XIX-lea la acest sit istoric evocator de extracție și combinați vizita cu o plimbare de-a lungul coastei pentru o narațiune completă.",
+            "en": "Trace the steps of 19th-century miners at this evocative historical extraction site, and combine your visit with a walk along the shoreline for a complete historical narrative."
+          }
+        },
+        {
+          "name": {
+            "de": "Wirral Zeche Schacht D",
+            "hu": "Wirral Szénbánya D Akna",
+            "ro": "Puțul Minier Wirral D",
+            "en": "Wirral Colliery Mineshaft D"
+          },
+          "coords": [
+            -3.066396,
+            53.279133
+          ],
+          "category": "historical",
+          "arrive_at": "12:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stehen Sie an der Stelle dieses ehemaligen Zeche-Schachts, um das Ausmaß der Industrie zu begreifen, und lesen Sie vorher über die Geologie, um die tiefen Grabungen zu ehren.",
+            "hu": "Álljon meg ennek az egykori jelentős helyi bányászati aknának a helyén, és olvasson utána a helyi geológiának, hogy jobban megértse a mély ásatások elképesztő kiterjedését.",
+            "ro": "Stați pe locul acestui fost puț minier pentru a înțelege amploarea industriei trecute și citiți despre geologia locală pentru a aprecia excavațiile adânci de aici.",
+            "en": "Stand at the site of this former significant local colliery shaft to grasp the scale of past industry, and read up on the local geology beforehand to appreciate the deep digs."
+          }
+        },
+        {
+          "name": {
+            "de": "Der Wirral Way",
+            "hu": "A Wirral Way",
+            "ro": "Calea Wirral",
+            "en": "The Wirral Way"
+          },
+          "coords": [
+            -3.003907,
+            53.351027
+          ],
+          "category": "natural",
+          "arrive_at": "13:58",
+          "stay_min": 105,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 9.0,
+          "tip_5lang": {
+            "de": "Radeln oder spazieren Sie auf dieser malerischen ehemaligen Bahnstrecke durch die üppige Halbinsel und halten Sie Ausschau nach der vielfältigen Tierwelt in den Hecken hier.",
+            "hu": "Kerékpározzon vagy sétáljon végig ezen a festői egykori vasútvonalon a buja félszigeten, és tartsa nyitva a szemét a szegélyező sövényekben megbújó változatos vadvilág miatt.",
+            "ro": "Plimbați-vă pe această fostă cale ferată pitorească prin peninsulă și fiți cu ochii în patru pentru a observa fauna diversă care se ascunde în gardurile vii de pe margine.",
+            "en": "Cycle or walk along this scenic former railway line that cuts right through the lush peninsula, and keep an eye out for the varied wildlife dwelling in the bordering hedgerows."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt mit den atemberaubenden Buntglasfenstern der Kirche St Mary and St Helen und genießen Sie einen ruhigen Moment im Zentrum der Stadt.\nFahren Sie nach Süden, um in die natürliche Schönheit der Ness Botanic Gardens einzutauchen, ein weitläufiges Paradies mit wunderschönen Küstenblicken.\nTauchen Sie in die reiche Bergbaugeschichte der Halbinsel ein, indem Sie die Überreste der Schächte von Ness und Wirral entlang der rauen Küstenlinie besuchen.\nBeenden Sie Ihren Tagesausflug mit einer längeren Fahrt nach Norden zum Wirral Way, wo Sie sich in der Dämmerung auf der malerischen ehemaligen Bahntrasse die Beine vertreten können.",
+        "hu": "Kezdje autós útját a St Mary and St Helen templom lenyűgöző ólomüveg ablakainak megcsodálásával, élvezve a nyugodt pillanatokat a városközpontban az indulás előtt.\nVezessen dél felé, és merüljön el a Ness Botanikus Kert természetes szépségében; ez a hatalmas földi paradicsom csodás ösvényeket és lenyűgöző parti kilátást kínál.\nFedezze fel a félsziget gazdag bányászati múltját a zord partvonal mentén szétszórt Ness és Wirral szénbányák aknáinak beszédes, történelmi maradványainál.\nFejezze be egynapos kirándulását egy hosszabb északi úttal a Wirral Way-hez, ahol szürkületkor kellemes sétát tehet ezen a gyönyörű, egykori vasútvonalon.",
+        "ro": "Începeți traseul auto admirând vitraliile uimitoare ale Bisericii St Mary și St Helen, bucurându-vă de un moment de liniște în centrul orașului înainte de plecare.\nConduceți spre sud pentru a vă scufunda în frumusețea naturală a Grădinilor Botanice Ness, un paradis vibrant care oferă alei minunate și vederi superbe la coastă.\nAprofundați bogata istorie minieră a peninsulei vizitând rămășițele evocatoare ale puțurilor Ness și Wirral, împrăștiate de-a lungul coastei accidentate din zonă.\nÎncheiați-vă excursia de o zi cu o plimbare mai lungă spre nord pentru a accesa The Wirral Way, unde vă puteți dezmorți picioarele pe fosta cale ferată la amurg.",
+        "en": "Start your drive by taking in the stunning stained glass of St Mary and St Helen's Church, enjoying a peaceful moment in the center of town before departing.\nDrive south to immerse yourself in the natural beauty of Ness Botanic Gardens, a sprawling, vibrant paradise offering lovely pathways and gorgeous coastal views.\nDelve into the rich mining history of the peninsula by visiting the evocative remnants of the Ness and Wirral Colliery shafts scattered along the rugged shoreline.\nFinish your day trip with a longer drive north to access The Wirral Way, where you can stretch your legs on this beautiful former railway line at twilight."
+      }
+    }
+  }
+}

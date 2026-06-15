@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-pula-chia-cities-v2",
+  "anchor": {
+    "name": "Pula & Chia",
+    "coords": [
+      8.869894,
+      38.895773
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:56",
+      "total_km": 2.05,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bithia",
+            "hu": "Bithia",
+            "ro": "Bithia",
+            "en": "Bithia"
+          },
+          "coords": [
+            8.890361,
+            38.898189
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten phönizischen Ruinen in Ufernähe und mieten Sie sich eine Tauchermaske, um die versunkenen Artefakte zu sehen.",
+            "hu": "Fedezze fel az ősi föníciai romokat a partvonal mentén, és béreljen búvármaszot, hogy megcsodálhassa a víz alatti ereklyéket.",
+            "ro": "Explorați vechile ruine feniciene de lângă țărm și închiriați o mască pentru a admira artefactele scufundate în apele cristaline.",
+            "en": "Explore the ancient Phoenician ruins near the shoreline, and watch for submerged artifacts by renting a mask at the local dive stand."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Chia",
+            "hu": "Spiaggia di Chia",
+            "ro": "Spiaggia di Chia",
+            "en": "Spiaggia di Chia"
+          },
+          "coords": [
+            8.886318,
+            38.897277
+          ],
+          "category": "recreational",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem goldenen Sand dieses berühmten Strandes, aber kommen Sie früh, um einen erstklassigen Platz am Wasser zu ergattern.",
+            "hu": "Pihenjen ennek a híres strandnak az aranyhomokján, de érkezzen korán, hogy biztosítson magának egy remek helyet a türkizkék víz mellett.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje celebre, dar ajungeți devreme pentru a prinde un loc excelent lângă apa cristalină.",
+            "en": "Relax on the golden sands of this famous expansive beach, but arrive early to secure a prime spot near the crystalline turquoise water."
+          }
+        },
+        {
+          "name": {
+            "de": "Chia Tower",
+            "hu": "Chia Tower",
+            "ro": "Chia Tower",
+            "en": "Chia Tower"
+          },
+          "coords": [
+            8.884939,
+            38.895301
+          ],
+          "category": "landmark",
+          "arrive_at": "11:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Steigen Sie für Panoramafotos auf diesen historischen Wachturm aus dem 16. Jahrhundert und tragen Sie feste Schuhe für den felsigen Weg.",
+            "hu": "Másszon fel erre a történelmi 16. századi őrtoronyra a panorámás fotókért, de viseljen masszív cipőt az egyenetlen sziklás ösvény miatt.",
+            "ro": "Urcați în acest turn istoric de veghe din secolul al XVI-lea pentru fotografii panoramice, purtând încălțăminte robustă pe poteca stâncoasă.",
+            "en": "Climb up to this historic 16th-century coastal watchtower for panoramic photos, wearing sturdy shoes to navigate the uneven rocky path."
+          }
+        },
+        {
+          "name": {
+            "de": "Sa Colonia",
+            "hu": "Sa Colonia",
+            "ro": "Sa Colonia",
+            "en": "Sa Colonia"
+          },
+          "coords": [
+            8.878644,
+            38.894649
+          ],
+          "category": "recreational",
+          "arrive_at": "12:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Genießen Sie ein friedliches Bad im flachen Wasser dieser familienfreundlichen Bucht und nutzen Sie die nahegelegenen Kioske für kalte Getränke.",
+            "hu": "Élvezze a békés úszást e családbarát öböl sekély vizeiben, és használja ki a közeli kioszkokat egy frissítő hideg italért.",
+            "ro": "Bucurați-vă de o înot liniștit în apele puțin adânci ale acestui golf prietenos, profitând de chioșcurile din apropiere pentru o băutură rece.",
+            "en": "Enjoy a peaceful swim in the shallow waters of this family-friendly bay, taking advantage of the nearby kiosks for a refreshing cold drink."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala del morto",
+            "hu": "Cala del morto",
+            "ro": "Cala del morto",
+            "en": "Cala del morto"
+          },
+          "coords": [
+            8.874645,
+            38.891489
+          ],
+          "category": "recreational",
+          "arrive_at": "13:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Suchen Sie diese kleine versteckte Bucht für ein intimes Schnorchelerlebnis auf und bringen Sie Ihren eigenen Regenschirm mit, da es hier nichts gibt.",
+            "hu": "Keresse fel ezt az apró rejtett öblöt egy meghitt sznorkelezéshez, és hozzon saját napernyőt, mivel itt nincsenek kölcsönzési lehetőségek.",
+            "ro": "Căutați acest mic golf ascuns pentru o experiență intimă de snorkeling și aduceți-vă propria umbrelă, deoarece nu există facilități.",
+            "en": "Seek out this small hidden cove for an intimate snorkeling experience, and bring your own umbrella as there are no rental facilities here."
+          }
+        },
+        {
+          "name": {
+            "de": "Campana",
+            "hu": "Campana",
+            "ro": "Campana",
+            "en": "Campana"
+          },
+          "coords": [
+            8.87073,
+            38.888767
+          ],
+          "category": "recreational",
+          "arrive_at": "15:11",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die natürlichen Sanddünen, die diesen Strand umrahmen, und bleiben Sie auf den Holzstegen, um die Flora zu schützen.",
+            "hu": "Sétáljon végig az ezen érintetlen strandot szegélyező lenyűgöző homokdűnéken, a kijelölt fa sétányokon maradva a növényzet védelmében.",
+            "ro": "Plimbați-vă printre dunele naturale impresionante de nisip, folosind exclusiv pasarelele din lemn pentru a proteja flora fragilă a zonei.",
+            "en": "Stroll through the impressive natural sand dunes framing this pristine beach, keeping to the designated wooden walkways to protect the flora."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihren Tag mit der Entdeckung der antiken Wurzeln der sardischen Küste. Erkunden Sie historische Ruinen in der kühlen, erfrischenden Meeresbrise und tauchen Sie in die Vergangenheit ein.\nMidday: Wenn die Sonne höher steigt, wechseln Sie zu den berühmten Aussichtspunkten der Küste und den historischen Wachtürmen. Das türkisfarbene Meer bietet die perfekte Kulisse für Ihre Fotos.\nAfternoon: Der Nachmittag ist der Entspannung an den unberührten goldenen Stränden gewidmet. Wandern Sie zwischen versteckten Buchten und weitläufigen Dünen und schwimmen Sie im kristallklaren Wasser.\nEvening: Beenden Sie Ihre Reise, während das Licht in den Sonnenuntergang übergeht. Denken Sie in einer ruhigen Bucht über die Naturwunder des Tages nach und genießen Sie den friedlichen Rhythmus der Wellen.",
+        "hu": "Morning: Kezdje a napot a szardíniai tengerpart ősi gyökereinek felfedezésével. Barangoljon a történelmi romok között a hűs és frissítő tengeri szellőben, elmerülve a gazdag mediterrán múltban.\nMidday: Ahogy a nap egyre feljebb hág, látogasson el az ikonikus parti kilátókhoz és a történelmi őrtornyokhoz. A csillogó türkizkék tenger tökéletes hátteret biztosít az emlékezetes panorámafotókhoz.\nAfternoon: A délután a kikapcsolódásé az érintetlen, aranyhomokos strandokon. Sétáljon a rejtett öblök és a kiterjedt dűnék között, és találja meg a tökéletes helyet egy kristálytiszta vizes csobbanásra.\nEvening: Zárja utazását, amint a parti fények lágy naplementébe fordulnak. Idézze fel a nap természeti és történelmi csodáit egy csendes öbölből, élvezve a Földközi-tenger hullámainak nyugodt ritmusát.",
+        "ro": "Morning: Începeți ziua descoperind rădăcinile antice ale coastei Sardiniei. Explorați ruinele istorice și scufundați-vă în bogatul trecut mediteranean în timp ce briza mării rămâne răcoroasă și plăcută.\nMidday: Pe măsură ce soarele urcă, îndreptați-vă către punctele de belvedere emblematice și turnurile de veghe. Marea turcoaz strălucitoare oferă fundalul perfect pentru fotografii panoramice memorabile.\nAfternoon: După-amiaza este dedicată relaxării pe plajele aurii și imaculate. Plimbați-vă printre golfurile ascunse și dunele întinse, găsind locul perfect pentru a înota în apele cristaline de smarald.\nEvening: Încheiați-vă călătoria în timp ce lumina coastei se transformă într-un apus blând. Reflectați la minunile naturale și istorice ale zilei dintr-un golf senin, bucurându-vă de ritmul valurilor.",
+        "en": "Morning: Start your day uncovering the ancient roots of the Sardinian coast. Explore historical ruins and immerse yourself in the rich Mediterranean past while the coastal breeze remains cool and refreshing.\nMidday: As the sun climbs higher, transition towards the iconic coastal viewpoints and historic watchtowers. The shimmering turquoise sea presents the perfect backdrop for memorable panoramic photographs.\nAfternoon: The afternoon is dedicated to relaxation along pristine, golden beaches. Wander between hidden coves and expansive dunes, finding the perfect spot to swim in the crystal-clear emerald waters.\nEvening: Conclude your journey as the coastal light softens into sunset. Reflect on the day's natural and historical wonders from a serene bay, enjoying the tranquil rhythm of the Mediterranean waves."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:12",
+      "total_km": 5.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Nuraghe Baccu Idda",
+            "hu": "Nuraghe Baccu Idda",
+            "ro": "Nuraghe Baccu Idda",
+            "en": "Nuraghe Baccu Idda"
+          },
+          "coords": [
+            8.877437,
+            38.912032
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Steinstrukturen der Bronzezeit in den Hügeln und packen Sie viel Wasser ein, da die Wanderung sonnig ist.",
+            "hu": "Fedezze fel a dombok között megbúvó lenyűgöző bronzkori kőépítményeket, és vigyen magával sok vizet, mert a túra nagyon napos lehet.",
+            "ro": "Descoperiți fascinantele structuri de piatră din Epoca Bronzului aflate pe dealuri și luați multă apă, deoarece drumeția este foarte însorită.",
+            "en": "Discover the fascinating Bronze Age stone structures nestled in the hills, and pack plenty of water since the hike can be quite sun-exposed."
+          }
+        },
+        {
+          "name": {
+            "de": "Bithia",
+            "hu": "Bithia",
+            "ro": "Bithia",
+            "en": "Bithia"
+          },
+          "coords": [
+            8.890361,
+            38.898189
+          ],
+          "category": "historical",
+          "arrive_at": "10:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten phönizischen Ruinen in Ufernähe und mieten Sie sich eine Tauchermaske, um die versunkenen Artefakte zu sehen.",
+            "hu": "Fedezze fel az ősi föníciai romokat a partvonal mentén, és béreljen búvármaszot, hogy megcsodálhassa a víz alatti ereklyéket.",
+            "ro": "Explorați vechile ruine feniciene de lângă țărm și închiriați o mască pentru a admira artefactele scufundate în apele cristaline.",
+            "en": "Explore the ancient Phoenician ruins near the shoreline, and watch for submerged artifacts by renting a mask at the local dive stand."
+          }
+        },
+        {
+          "name": {
+            "de": "Chia Tower",
+            "hu": "Chia Tower",
+            "ro": "Chia Tower",
+            "en": "Chia Tower"
+          },
+          "coords": [
+            8.884939,
+            38.895301
+          ],
+          "category": "landmark",
+          "arrive_at": "12:04",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Steigen Sie für Panoramafotos auf diesen historischen Wachturm aus dem 16. Jahrhundert und tragen Sie feste Schuhe für den felsigen Weg.",
+            "hu": "Másszon fel erre a történelmi 16. századi őrtoronyra a panorámás fotókért, de viseljen masszív cipőt az egyenetlen sziklás ösvény miatt.",
+            "ro": "Urcați în acest turn istoric de veghe din secolul al XVI-lea pentru fotografii panoramice, purtând încălțăminte robustă pe poteca stâncoasă.",
+            "en": "Climb up to this historic 16th-century coastal watchtower for panoramic photos, wearing sturdy shoes to navigate the uneven rocky path."
+          }
+        },
+        {
+          "name": {
+            "de": "Campana",
+            "hu": "Campana",
+            "ro": "Campana",
+            "en": "Campana"
+          },
+          "coords": [
+            8.87073,
+            38.888767
+          ],
+          "category": "recreational",
+          "arrive_at": "12:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die natürlichen Sanddünen, die diesen Strand umrahmen, und bleiben Sie auf den Holzstegen, um die Flora zu schützen.",
+            "hu": "Sétáljon végig az ezen érintetlen strandot szegélyező lenyűgöző homokdűnéken, a kijelölt fa sétányokon maradva a növényzet védelmében.",
+            "ro": "Plimbați-vă printre dunele naturale impresionante de nisip, folosind exclusiv pasarelele din lemn pentru a proteja flora fragilă a zonei.",
+            "en": "Stroll through the impressive natural sand dunes framing this pristine beach, keeping to the designated wooden walkways to protect the flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Su Giudeu",
+            "hu": "Su Giudeu",
+            "ro": "Su Giudeu",
+            "en": "Su Giudeu"
+          },
+          "coords": [
+            8.862305,
+            38.883771
+          ],
+          "category": "landmark",
+          "arrive_at": "13:57",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Flamingos, die in der Lagune direkt hinter dem Strand waten, und nutzen Sie ein Fernglas für die beste Wildtierbeobachtung.",
+            "hu": "Csodálja meg a lagúnában gázoló flamingókat közvetlenül a látványos strand mögött, és használjon távcsövet a legjobb megfigyelés érdekében.",
+            "ro": "Admirați păsările flamingo din laguna din spatele plajei spectaculoase, folosind binoclul pentru cea mai bună observare a faunei sălbatice.",
+            "en": "Marvel at the flamingos wading in the lagoon right behind the spectacular beach, using binoculars for the best un-intrusive wildlife viewing."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Cipolla",
+            "hu": "Cala Cipolla",
+            "ro": "Cala Cipolla",
+            "en": "Cala Cipolla"
+          },
+          "coords": [
+            8.854615,
+            38.878758
+          ],
+          "category": "recreational",
+          "arrive_at": "14:27",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das klare smaragdgrüne Wasser umgeben von Granitklippen ein und kommen Sie am späten Nachmittag, um den Menschenmassen zu entgehen.",
+            "hu": "Merüljön el a gránitsziklákkal körülvett tiszta smaragd vízben, és érkezzen késő délután, hogy elkerülje a legnagyobb tömeget ebben az öbölben.",
+            "ro": "Scufundați-vă în apele de smarald cristaline înconjurate de stânci de granit și ajungeți târziu după-amiaza pentru a evita aglomerația.",
+            "en": "Dive into the clear emerald waters surrounded by granite cliffs, and arrive by late afternoon to avoid the peak crowds at this popular cove."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihren Tag mit der Entdeckung der antiken Wurzeln der sardischen Küste. Erkunden Sie historische Ruinen in der kühlen, erfrischenden Meeresbrise und tauchen Sie in die Vergangenheit ein.\nMidday: Wenn die Sonne höher steigt, wechseln Sie zu den berühmten Aussichtspunkten der Küste und den historischen Wachtürmen. Das türkisfarbene Meer bietet die perfekte Kulisse für Ihre Fotos.\nAfternoon: Der Nachmittag ist der Entspannung an den unberührten goldenen Stränden gewidmet. Wandern Sie zwischen versteckten Buchten und weitläufigen Dünen und schwimmen Sie im kristallklaren Wasser.\nEvening: Beenden Sie Ihre Reise, während das Licht in den Sonnenuntergang übergeht. Denken Sie in einer ruhigen Bucht über die Naturwunder des Tages nach und genießen Sie den friedlichen Rhythmus der Wellen.",
+        "hu": "Morning: Kezdje a napot a szardíniai tengerpart ősi gyökereinek felfedezésével. Barangoljon a történelmi romok között a hűs és frissítő tengeri szellőben, elmerülve a gazdag mediterrán múltban.\nMidday: Ahogy a nap egyre feljebb hág, látogasson el az ikonikus parti kilátókhoz és a történelmi őrtornyokhoz. A csillogó türkizkék tenger tökéletes hátteret biztosít az emlékezetes panorámafotókhoz.\nAfternoon: A délután a kikapcsolódásé az érintetlen, aranyhomokos strandokon. Sétáljon a rejtett öblök és a kiterjedt dűnék között, és találja meg a tökéletes helyet egy kristálytiszta vizes csobbanásra.\nEvening: Zárja utazását, amint a parti fények lágy naplementébe fordulnak. Idézze fel a nap természeti és történelmi csodáit egy csendes öbölből, élvezve a Földközi-tenger hullámainak nyugodt ritmusát.",
+        "ro": "Morning: Începeți ziua descoperind rădăcinile antice ale coastei Sardiniei. Explorați ruinele istorice și scufundați-vă în bogatul trecut mediteranean în timp ce briza mării rămâne răcoroasă și plăcută.\nMidday: Pe măsură ce soarele urcă, îndreptați-vă către punctele de belvedere emblematice și turnurile de veghe. Marea turcoaz strălucitoare oferă fundalul perfect pentru fotografii panoramice memorabile.\nAfternoon: După-amiaza este dedicată relaxării pe plajele aurii și imaculate. Plimbați-vă printre golfurile ascunse și dunele întinse, găsind locul perfect pentru a înota în apele cristaline de smarald.\nEvening: Încheiați-vă călătoria în timp ce lumina coastei se transformă într-un apus blând. Reflectați la minunile naturale și istorice ale zilei dintr-un golf senin, bucurându-vă de ritmul valurilor.",
+        "en": "Morning: Start your day uncovering the ancient roots of the Sardinian coast. Explore historical ruins and immerse yourself in the rich Mediterranean past while the coastal breeze remains cool and refreshing.\nMidday: As the sun climbs higher, transition towards the iconic coastal viewpoints and historic watchtowers. The shimmering turquoise sea presents the perfect backdrop for memorable panoramic photographs.\nAfternoon: The afternoon is dedicated to relaxation along pristine, golden beaches. Wander between hidden coves and expansive dunes, finding the perfect spot to swim in the crystal-clear emerald waters.\nEvening: Conclude your journey as the coastal light softens into sunset. Reflect on the day's natural and historical wonders from a serene bay, enjoying the tranquil rhythm of the Mediterranean waves."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:58",
+      "total_km": 8.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Nuraghe Baccu Idda",
+            "hu": "Nuraghe Baccu Idda",
+            "ro": "Nuraghe Baccu Idda",
+            "en": "Nuraghe Baccu Idda"
+          },
+          "coords": [
+            8.877437,
+            38.912032
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Steinstrukturen der Bronzezeit in den Hügeln und packen Sie viel Wasser ein, da die Wanderung sonnig ist.",
+            "hu": "Fedezze fel a dombok között megbúvó lenyűgöző bronzkori kőépítményeket, és vigyen magával sok vizet, mert a túra nagyon napos lehet.",
+            "ro": "Descoperiți fascinantele structuri de piatră din Epoca Bronzului aflate pe dealuri și luați multă apă, deoarece drumeția este foarte însorită.",
+            "en": "Discover the fascinating Bronze Age stone structures nestled in the hills, and pack plenty of water since the hike can be quite sun-exposed."
+          }
+        },
+        {
+          "name": {
+            "de": "Bithia",
+            "hu": "Bithia",
+            "ro": "Bithia",
+            "en": "Bithia"
+          },
+          "coords": [
+            8.890361,
+            38.898189
+          ],
+          "category": "historical",
+          "arrive_at": "10:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten phönizischen Ruinen in Ufernähe und mieten Sie sich eine Tauchermaske, um die versunkenen Artefakte zu sehen.",
+            "hu": "Fedezze fel az ősi föníciai romokat a partvonal mentén, és béreljen búvármaszot, hogy megcsodálhassa a víz alatti ereklyéket.",
+            "ro": "Explorați vechile ruine feniciene de lângă țărm și închiriați o mască pentru a admira artefactele scufundate în apele cristaline.",
+            "en": "Explore the ancient Phoenician ruins near the shoreline, and watch for submerged artifacts by renting a mask at the local dive stand."
+          }
+        },
+        {
+          "name": {
+            "de": "Chia Tower",
+            "hu": "Chia Tower",
+            "ro": "Chia Tower",
+            "en": "Chia Tower"
+          },
+          "coords": [
+            8.884939,
+            38.895301
+          ],
+          "category": "landmark",
+          "arrive_at": "11:56",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Steigen Sie für Panoramafotos auf diesen historischen Wachturm aus dem 16. Jahrhundert und tragen Sie feste Schuhe für den felsigen Weg.",
+            "hu": "Másszon fel erre a történelmi 16. századi őrtoronyra a panorámás fotókért, de viseljen masszív cipőt az egyenetlen sziklás ösvény miatt.",
+            "ro": "Urcați în acest turn istoric de veghe din secolul al XVI-lea pentru fotografii panoramice, purtând încălțăminte robustă pe poteca stâncoasă.",
+            "en": "Climb up to this historic 16th-century coastal watchtower for panoramic photos, wearing sturdy shoes to navigate the uneven rocky path."
+          }
+        },
+        {
+          "name": {
+            "de": "Su Giudeu",
+            "hu": "Su Giudeu",
+            "ro": "Su Giudeu",
+            "en": "Su Giudeu"
+          },
+          "coords": [
+            8.862305,
+            38.883771
+          ],
+          "category": "landmark",
+          "arrive_at": "12:26",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Flamingos, die in der Lagune direkt hinter dem Strand waten, und nutzen Sie ein Fernglas für die beste Wildtierbeobachtung.",
+            "hu": "Csodálja meg a lagúnában gázoló flamingókat közvetlenül a látványos strand mögött, és használjon távcsövet a legjobb megfigyelés érdekében.",
+            "ro": "Admirați păsările flamingo din laguna din spatele plajei spectaculoase, folosind binoclul pentru cea mai bună observare a faunei sălbatice.",
+            "en": "Marvel at the flamingos wading in the lagoon right behind the spectacular beach, using binoculars for the best un-intrusive wildlife viewing."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Cipolla",
+            "hu": "Cala Cipolla",
+            "ro": "Cala Cipolla",
+            "en": "Cala Cipolla"
+          },
+          "coords": [
+            8.854615,
+            38.878758
+          ],
+          "category": "recreational",
+          "arrive_at": "12:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das klare smaragdgrüne Wasser umgeben von Granitklippen ein und kommen Sie am späten Nachmittag, um den Menschenmassen zu entgehen.",
+            "hu": "Merüljön el a gránitsziklákkal körülvett tiszta smaragd vízben, és érkezzen késő délután, hogy elkerülje a legnagyobb tömeget ebben az öbölben.",
+            "ro": "Scufundați-vă în apele de smarald cristaline înconjurate de stânci de granit și ajungeți târziu după-amiaza pentru a evita aglomerația.",
+            "en": "Dive into the clear emerald waters surrounded by granite cliffs, and arrive by late afternoon to avoid the peak crowds at this popular cove."
+          }
+        },
+        {
+          "name": {
+            "de": "Antoni Areddu",
+            "hu": "Antoni Areddu",
+            "ro": "Antoni Areddu",
+            "en": "Antoni Areddu"
+          },
+          "coords": [
+            8.830008,
+            38.888957
+          ],
+          "category": "recreational",
+          "arrive_at": "14:13",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Machen Sie eine ruhige Wanderung durch dieses malerische Küstenreservat mit herrlichem Meerblick und stellen Sie sicher, dass Ihr Telefon aufgeladen ist.",
+            "hu": "Tegyen egy csendes túrát ebben a lenyűgöző óceáni panorámát kínáló parti rezervátumban, és ügyeljen arra, hogy a telefonja fel legyen töltve.",
+            "ro": "Faceți o drumeție liniștită prin această rezervație de coastă cu vedere la ocean, asigurându-vă că telefonul este complet încărcat pentru navigație.",
+            "en": "Take a quiet hike through this scenic coastal reserve offering sweeping ocean vistas, ensuring your phone is fully charged for navigation."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihren Tag mit der Entdeckung der antiken Wurzeln der sardischen Küste. Erkunden Sie historische Ruinen in der kühlen, erfrischenden Meeresbrise und tauchen Sie in die Vergangenheit ein.\nMidday: Wenn die Sonne höher steigt, wechseln Sie zu den berühmten Aussichtspunkten der Küste und den historischen Wachtürmen. Das türkisfarbene Meer bietet die perfekte Kulisse für Ihre Fotos.\nAfternoon: Der Nachmittag ist der Entspannung an den unberührten goldenen Stränden gewidmet. Wandern Sie zwischen versteckten Buchten und weitläufigen Dünen und schwimmen Sie im kristallklaren Wasser.\nEvening: Beenden Sie Ihre Reise, während das Licht in den Sonnenuntergang übergeht. Denken Sie in einer ruhigen Bucht über die Naturwunder des Tages nach und genießen Sie den friedlichen Rhythmus der Wellen.",
+        "hu": "Morning: Kezdje a napot a szardíniai tengerpart ősi gyökereinek felfedezésével. Barangoljon a történelmi romok között a hűs és frissítő tengeri szellőben, elmerülve a gazdag mediterrán múltban.\nMidday: Ahogy a nap egyre feljebb hág, látogasson el az ikonikus parti kilátókhoz és a történelmi őrtornyokhoz. A csillogó türkizkék tenger tökéletes hátteret biztosít az emlékezetes panorámafotókhoz.\nAfternoon: A délután a kikapcsolódásé az érintetlen, aranyhomokos strandokon. Sétáljon a rejtett öblök és a kiterjedt dűnék között, és találja meg a tökéletes helyet egy kristálytiszta vizes csobbanásra.\nEvening: Zárja utazását, amint a parti fények lágy naplementébe fordulnak. Idézze fel a nap természeti és történelmi csodáit egy csendes öbölből, élvezve a Földközi-tenger hullámainak nyugodt ritmusát.",
+        "ro": "Morning: Începeți ziua descoperind rădăcinile antice ale coastei Sardiniei. Explorați ruinele istorice și scufundați-vă în bogatul trecut mediteranean în timp ce briza mării rămâne răcoroasă și plăcută.\nMidday: Pe măsură ce soarele urcă, îndreptați-vă către punctele de belvedere emblematice și turnurile de veghe. Marea turcoaz strălucitoare oferă fundalul perfect pentru fotografii panoramice memorabile.\nAfternoon: După-amiaza este dedicată relaxării pe plajele aurii și imaculate. Plimbați-vă printre golfurile ascunse și dunele întinse, găsind locul perfect pentru a înota în apele cristaline de smarald.\nEvening: Încheiați-vă călătoria în timp ce lumina coastei se transformă într-un apus blând. Reflectați la minunile naturale și istorice ale zilei dintr-un golf senin, bucurându-vă de ritmul valurilor.",
+        "en": "Morning: Start your day uncovering the ancient roots of the Sardinian coast. Explore historical ruins and immerse yourself in the rich Mediterranean past while the coastal breeze remains cool and refreshing.\nMidday: As the sun climbs higher, transition towards the iconic coastal viewpoints and historic watchtowers. The shimmering turquoise sea presents the perfect backdrop for memorable panoramic photographs.\nAfternoon: The afternoon is dedicated to relaxation along pristine, golden beaches. Wander between hidden coves and expansive dunes, finding the perfect spot to swim in the crystal-clear emerald waters.\nEvening: Conclude your journey as the coastal light softens into sunset. Reflect on the day's natural and historical wonders from a serene bay, enjoying the tranquil rhythm of the Mediterranean waves."
+      }
+    }
+  }
+}

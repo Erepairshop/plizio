@@ -1,0 +1,497 @@
+{
+  "city_id": "italy-pula-cities-v2",
+  "anchor": {
+    "name": "Pula",
+    "coords": [
+      9.00165,
+      39.00743
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:52",
+      "total_km": 2.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di San Giovanni Battista",
+            "hu": "Chiesa di San Giovanni Battista",
+            "ro": "Chiesa di San Giovanni Battista",
+            "en": "Chiesa di San Giovanni Battista"
+          },
+          "coords": [
+            9.00254,
+            39.011518
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, aber faszinierende Architektur dieser alten Kirche, die den Kern von Pula bildet, und achten Sie auf die Gottesdienstzeiten für einen Besuch.",
+            "hu": "Csodálja meg ennek a Pula szívét alkotó, egyszerű, mégis lenyűgöző régi templomnak az építészetét, és figyeljen a nyitvatartásra, hogy belülről is megtekinthesse.",
+            "ro": "Admirați arhitectura simplă, dar fascinantă a acestei biserici vechi care formează inima orașului Pula și verificați programul slujbelor pentru a o vizita în liniște.",
+            "en": "Admire the simple yet fascinating architecture of this old church that forms the heart of Pula, and check the local service times to ensure a peaceful visit inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Civico Archeologico Giovanni Patroni",
+            "hu": "Museo Civico Archeologico Giovanni Patroni",
+            "ro": "Museo Civico Archeologico Giovanni Patroni",
+            "en": "Museo Civico Archeologico Giovanni Patroni"
+          },
+          "coords": [
+            9.000967,
+            39.010251
+          ],
+          "category": "museum",
+          "arrive_at": "09:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem Museum faszinierende archäologische Funde aus der antiken Stadt Nora, aber nehmen Sie sich eine gute Stunde Zeit, um alle Details zu erfassen.",
+            "hu": "Fedezze fel a Nora ókori városából származó lenyűgöző régészeti leleteket ebben a múzeumban, de szánjon rá legalább egy órát, hogy minden részletet alaposan megvizsgáljon.",
+            "ro": "Descoperiți descoperirile arheologice fascinante din orașul antic Nora în acest muzeu, dar acordați-vă cel puțin o oră bună pentru a asimila absolut toate detaliile expuse.",
+            "en": "Discover fascinating archaeological finds from the ancient city of Nora in this museum, but allocate at least a solid hour to fully appreciate the wealth of historical details."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Raimondo Nonnato",
+            "hu": "Chiesa di San Raimondo Nonnato",
+            "ro": "Chiesa di San Raimondo Nonnato",
+            "en": "Chiesa di San Raimondo Nonnato"
+          },
+          "coords": [
+            9.005168,
+            39.005204
+          ],
+          "category": "religious",
+          "arrive_at": "11:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese charmante kleine Kirche, die dem heiligen Raimund geweiht ist, und genießen Sie die spirituelle Ruhe abseits des geschäftigen Stadtzentrums.",
+            "hu": "Látogassa meg ezt a bájos kis templomot, amelyet Szent Rajmundnak szenteltek, és élvezze a spirituális nyugalmat, távol a nyüzsgő városközpont zajától egy rövid pihenőre.",
+            "ro": "Vizitați această bisericuță fermecătoare închinată Sfântului Raimund și bucurați-vă de liniștea spirituală departe de centrul aglomerat al orașului pentru o scurtă pauză.",
+            "en": "Visit this charming little church dedicated to Saint Raymond Nonnatus, and enjoy the profound spiritual tranquility away from the busy town center for a reflective pause."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Maria Carta",
+            "hu": "Teatro Maria Carta",
+            "ro": "Teatro Maria Carta",
+            "en": "Teatro Maria Carta"
+          },
+          "coords": [
+            9.007613,
+            39.004797
+          ],
+          "category": "cultural",
+          "arrive_at": "12:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die kulturelle Atmosphäre in diesem nach der berühmten sardischen Sängerin benannten Theater, wobei Sie am besten vorab online nach aktuellen Vorstellungen suchen.",
+            "hu": "Tapasztalja meg a kulturális légkört ebben a híres szardíniai énekesnőről elnevezett színházban, és érdemes előre online tájékozódni az aktuális előadásokról.",
+            "ro": "Experimentați atmosfera culturală în acest teatru numit după celebra cântăreață sardă și cel mai bine este să verificați în avans online pentru spectacolele curente.",
+            "en": "Experience the cultural atmosphere in this theater named after the famous Sardinian singer, and check online beforehand to see if there are any interesting current performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Su Stangioni Foxi Niedda",
+            "hu": "Su Stangioni Foxi Niedda",
+            "ro": "Su Stangioni Foxi Niedda",
+            "en": "Su Stangioni Foxi Niedda"
+          },
+          "coords": [
+            9.023264,
+            39.008695
+          ],
+          "category": "recreational",
+          "arrive_at": "14:07",
+          "stay_min": 105,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch dieses idyllische Küstenfeuchtgebiet, das sich hervorragend zur Vogelbeobachtung eignet, und bringen Sie unbedingt ein Fernglas für die Flamingos mit.",
+            "hu": "Sétáljon végig ezen az idilli tengerparti vizes élőhelyen, amely kiválóan alkalmas madármegfigyelésre, és feltétlenül hozzon magával távcsövet a flamingókhoz.",
+            "ro": "Plimbați-vă prin această zonă umedă de coastă idilică, care este excelentă pentru observarea păsărilor, și asigurați-vă că aduceți binoclul pentru a admira flamingii.",
+            "en": "Stroll through this idyllic coastal wetland area which is absolutely excellent for bird watching, and be sure to bring your binoculars to catch sight of the beautiful flamingos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im historischen Herzen von Pula. Ein kurzer Spaziergang führt Sie zur beeindruckenden Kirche San Giovanni Battista und anschließend zum archäologischen Museum, wo Sie in die Geschichte Noras eintauchen.\nGegen Mittag schlendern Sie gemütlich weiter zur charmanten Kirche San Raimondo Nonnato. Genießen Sie die ruhige Atmosphäre abseits des Trubels, bevor Sie die lokale Kultur im Teatro Maria Carta entdecken.\nAm Nachmittag lassen Sie das Zentrum hinter sich und wandern gemütlich in Richtung Küste. Die Natur rund um die Stadt lädt dazu ein, die mediterrane Luft tief einzuatmen und die Umgebung zu genießen.\nDer Tag endet idyllisch an den Feuchtgebieten von Su Stangioni Foxi Niedda. Hier können Sie die vielfältige Vogelwelt beobachten und den malerischen Sonnenuntergang über der sardischen Landschaft auf sich wirken lassen.",
+        "hu": "Kezdje a napot Pula történelmi szívében. Egy rövid séta elvezeti a lenyűgöző San Giovanni Battista templomhoz, majd a régészeti múzeumhoz, ahol elmerülhet Nora gazdag és izgalmas történelmében.\nDél körül sétáljon tovább a bájos San Raimondo Nonnato templomhoz. Élvezze a csendes légkört távol a tömegtől, mielőtt felfedezné a helyi kultúrát a közeli Teatro Maria Carta épületénél.\nDélután hagyja maga mögött a központot, és sétáljon kényelmesen a tengerpart irányába. A város körüli természet arra csábít, hogy mélyen beszívja a mediterrán levegőt és gyönyörködjön a tájban.\nA nap idillien ér véget a Su Stangioni Foxi Niedda vizes élőhelyeinél. Itt megfigyelheti a változatos madárvilágot, és élvezheti a festői naplementét a szardíniai táj felett.",
+        "ro": "Începeți ziua în inima istorică a orașului Pula. O scurtă plimbare vă duce la impresionanta Biserică San Giovanni Battista și apoi la muzeul arheologic, unde vă veți cufunda în istoria Norei.\nPână la prânz, plimbați-vă pe îndelete până la fermecătoarea Biserică San Raimondo Nonnato. Bucurați-vă de atmosfera liniștită înainte de a descoperi cultura locală la Teatro Maria Carta.\nDupă-amiaza, lăsați centrul în urmă și mergeți confortabil spre coastă. Natura din jurul orașului vă invită să respirați adânc aerul mediteranean și să vă bucurați cu adevărat de peisaj.\nZiua se termină idilic în zonele umede de la Su Stangioni Foxi Niedda. Aici puteți observa viața diversă a păsărilor și puteți lăsa apusul pitoresc peste peisajul sardinian să vă fascineze.",
+        "en": "Start your day in the historic heart of Pula. A very short walk takes you to the impressive Church of San Giovanni Battista and then to the archaeological museum to dive into Nora's deep history.\nAround midday, stroll leisurely to the charming Church of San Raimondo Nonnato. Enjoy the remarkably quiet atmosphere away from the hustle before discovering the local culture at Teatro Maria Carta.\nIn the afternoon, leave the bustling center behind and walk comfortably towards the lovely coast. The nature surrounding the town invites you to breathe in the Mediterranean air.\nThe day ends in the wetlands of Su Stangioni Foxi Niedda. Here you can observe the diverse birdlife and simply let the picturesque sunset over the wild Sardinian landscape work its magic on you."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:00",
+      "total_km": 6.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo Civico Archeologico Giovanni Patroni",
+            "hu": "Museo Civico Archeologico Giovanni Patroni",
+            "ro": "Museo Civico Archeologico Giovanni Patroni",
+            "en": "Museo Civico Archeologico Giovanni Patroni"
+          },
+          "coords": [
+            9.000967,
+            39.010251
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem Museum faszinierende archäologische Funde aus der antiken Stadt Nora, aber nehmen Sie sich eine gute Stunde Zeit, um alle Details zu erfassen.",
+            "hu": "Fedezze fel a Nora ókori városából származó lenyűgöző régészeti leleteket ebben a múzeumban, de szánjon rá legalább egy órát, hogy minden részletet alaposan megvizsgáljon.",
+            "ro": "Descoperiți descoperirile arheologice fascinante din orașul antic Nora în acest muzeu, dar acordați-vă cel puțin o oră bună pentru a asimila absolut toate detaliile expuse.",
+            "en": "Discover fascinating archaeological finds from the ancient city of Nora in this museum, but allocate at least a solid hour to fully appreciate the wealth of historical details."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuraghe Furcadizzo",
+            "hu": "Nuraghe Furcadizzo",
+            "ro": "Nuraghe Furcadizzo",
+            "en": "Nuraghe Furcadizzo"
+          },
+          "coords": [
+            9.02369,
+            39.016431
+          ],
+          "category": "historical",
+          "arrive_at": "11:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die mystischen Überreste dieses prähistorischen Nuraghen-Turms, der die reiche Geschichte Sardiniens bezeugt, und tragen Sie festes Schuhwerk für das Gelände.",
+            "hu": "Fedezze fel ennek a történelem előtti nuraghe toronynak a misztikus maradványait, amely Szardínia gazdag múltját őrzi, és viseljen zárt, kényelmes cipőt az egyenetlen terepen.",
+            "ro": "Explorați rămășițele mistice ale acestui turn preistoric nuragic care mărturisește istoria bogată a Sardiniei și purtați încălțăminte solidă pentru terenul stâncos de aici.",
+            "en": "Explore the mystical remains of this prehistoric Nuragic tower that bears witness to Sardinia's rich history, and make sure to wear sturdy shoes for the uneven, rocky terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Furcadizzu",
+            "hu": "Spiaggia di Furcadizzu",
+            "ro": "Spiaggia di Furcadizzu",
+            "en": "Spiaggia di Furcadizzu"
+          },
+          "coords": [
+            9.024822,
+            39.013617
+          ],
+          "category": "recreational",
+          "arrive_at": "12:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem wunderschönen Strand mit seinem kristallklaren Wasser, aber denken Sie daran, ausreichend Sonnencreme und Wasser für einen langen Strandaufenthalt einzupacken.",
+            "hu": "Pihenjen ezen a gyönyörű strandon, ahol kristálytiszta a víz, de ne felejtsen el elegendő naptejet és vizet csomagolni a hosszú, kényelmes tengerparti tartózkodáshoz.",
+            "ro": "Relaxați-vă pe această plajă frumoasă cu apele sale cristaline, dar amintiți-vă să împachetați suficientă cremă de soare și apă pentru o ședere prelungită pe plajă.",
+            "en": "Relax on this beautiful beach with its crystal clear waters, but remember to pack plenty of sunscreen and refreshing water for a long, comfortable stay under the Mediterranean sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Su Stangioni Foxi Lino",
+            "hu": "Su Stangioni Foxi Lino",
+            "ro": "Su Stangioni Foxi Lino",
+            "en": "Su Stangioni Foxi Lino"
+          },
+          "coords": [
+            9.024726,
+            39.002955
+          ],
+          "category": "recreational",
+          "arrive_at": "13:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Natur dieses weiteren Feuchtgebietes entlang der Küste, das oft ruhiger ist als die Hauptstrände, perfekt für ein entspanntes Picknick am Nachmittag.",
+            "hu": "Élvezze a békés természetet ebben a part menti vizes élőhelyben, amely gyakran csendesebb, mint a főbb strandok, és egyszerűen tökéletes helyszín egy pihentető délutáni piknikhez.",
+            "ro": "Bucurați-vă de natura pașnică a acestei zone umede de-a lungul coastei, care este adesea mai liniștită decât plajele principale, perfectă pentru un picnic relaxant de după-amiază.",
+            "en": "Enjoy the peaceful nature of this additional coastal wetland area, which is often quieter than the main beaches, making it perfectly suited for a relaxing afternoon picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Is Figus",
+            "hu": "Is Figus",
+            "ro": "Is Figus",
+            "en": "Is Figus"
+          },
+          "coords": [
+            9.015388,
+            38.992487
+          ],
+          "category": "recreational",
+          "arrive_at": "15:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause in dieser herrlichen grünen Gegend in der Nähe von Nora, wo Sie die üppige mediterrane Vegetation bewundern und dem Rauschen der Wellen lauschen können.",
+            "hu": "Tartson egy kis szünetet ezen a csodálatos zöld területen Nora közelében, ahol megcsodálhatja a buja mediterrán növényzetet, és közben hallgathatja a közeli tenger lágy hullámait.",
+            "ro": "Faceți o pauză în această zonă verde magnifică de lângă Nora, unde puteți admira vegetația mediteraneană luxuriantă și puteți asculta sunetul valurilor care se sparg la țărm.",
+            "en": "Take a well-deserved break in this magnificent green area near Nora, where you can admire the lush Mediterranean vegetation while listening to the soothing sound of the crashing waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Sant'Efisio",
+            "hu": "Chiesa di Sant'Efisio",
+            "ro": "Chiesa di Sant'Efisio",
+            "en": "Chiesa di Sant'Efisio"
+          },
+          "coords": [
+            9.013017,
+            38.98974
+          ],
+          "category": "religious",
+          "arrive_at": "16:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses historisch bedeutsame Heiligtum direkt am Meer, das den Schutzpatron feiert, und spüren Sie die tiefe Hingabe, die diesen malerischen Ort umgibt.",
+            "hu": "Látogasson el erre a tengerparti történelmi jelentőségű szentélyre, amely a védőszentet ünnepli, és érezze át azt a mély áhítatot, amely ezt a festői, ősi zarándokhelyet körülveszi.",
+            "ro": "Vizitați acest sanctuar pitoresc cu semnificație istorică situat chiar pe malul mării, care îl celebrează pe sfântul patron, și simțiți devotamentul profund din acest loc.",
+            "en": "Visit this historically significant sanctuary located right by the sea that celebrates the patron saint, and feel the profound devotion that beautifully surrounds this picturesque location."
+          }
+        },
+        {
+          "name": {
+            "de": "Acquario di Pula",
+            "hu": "Acquario di Pula",
+            "ro": "Acquario di Pula",
+            "en": "Acquario di Pula"
+          },
+          "coords": [
+            9.005748,
+            38.986447
+          ],
+          "category": "landmark",
+          "arrive_at": "17:10",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die lokale Meereswelt ein und betrachten Sie die faszinierenden Arten des Mittelmeers hautnah, ideal für Familien, die den Tag lehrreich ausklingen lassen möchten.",
+            "hu": "Merüljön el a helyi tengeri világban, és figyelje meg testközelből a Földközi-tenger lenyűgöző fajait, amely ideális program azoknak a családoknak, akik tanulással zárnák a napot.",
+            "ro": "Scufundați-vă în lumea marină locală și priviți de aproape speciile fascinante din Marea Mediterană, locul ideal pentru familiile care doresc să-și încheie ziua într-un mod educativ.",
+            "en": "Dive into the local marine world and get a close-up look at the fascinating species of the Mediterranean, an ideal experience for families looking to end the day with an educational touch."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am archäologischen Museum im Zentrum, bevor Sie zügig in Richtung Nordosten radeln. Der faszinierende Nuraghe Furcadizzo bietet Ihnen dort einen Einblick in prähistorische Zeiten.\nZur Mittagszeit lockt die nahegelegene Spiaggia di Furcadizzu mit feinem Sand und klarem Wasser. Genießen Sie eine erfrischende Pause am Meer und lassen Sie die Seele unter der Sonne Sardiniens baumeln.\nAm Nachmittag fahren Sie entspannt entlang der Küstenfeuchtgebiete bis nach Is Figus. Die salzige Brise und die reiche Flora machen diese landschaftlich reizvolle Strecke zu einem unvergesslichen Erlebnis.\nGegen Abend erreichen Sie das historische Heiligtum Sant'Efisio und das spannende Aquarium von Pula. Ein perfekter Abschluss, um die marine Vielfalt der Region kennenzulernen.",
+        "hu": "Kezdje a kerékpártúrát a központban lévő régészeti múzeumnál, mielőtt északkelet felé indulna. A lenyűgöző Nuraghe Furcadizzo bepillantást enged a sziget izgalmas történelem előtti korszakaiba.\nDélben a közeli Spiaggia di Furcadizzu finom homokjával és tiszta vizével csábít. Élvezze a frissítő pihenőt a tengerparton, és hagyja, hogy a szardíniai nap sugarai feltöltsék energiával.\nDélután tekerjen lazán a part menti vizes élőhelyek mellett egészen Is Figusig. A sós tengeri szellő és a gazdag növényvilág ezt a festői utat valóban felejthetetlen vizuális élménnyé teszi.\nKora este érkezik meg a történelmi Sant'Efisio szentélyhez és a pulai akváriumhoz. Ez egy tökéletes befejezés a régió színes és különleges tengeri élővilágának megismeréséhez.",
+        "ro": "Începeți turul cu bicicleta la muzeul arheologic din centru, înainte de a pedala rapid spre nord-est. Fascinantul Nuraghe Furcadizzo vă oferă o perspectivă inedită asupra timpurilor preistorice.\nLa prânz, plaja din apropiere Spiaggia di Furcadizzu vă atrage cu nisip fin și apă limpede. Bucurați-vă de o pauză răcoritoare la mare și lăsați-vă sufletul să se relaxeze sub soarele sardinian.\nDupă-amiaza, mergeți relaxat de-a lungul zonelor umede de coastă până la Is Figus. Briza sărată și flora foarte bogată fac din acest traseu extrem de pitoresc o experiență cu totul de neuitat.\nSpre seară, ajungeți la sanctuarul istoric Sant'Efisio și la interesantul Acvariu din Pula. Un final perfect pentru a cunoaște și admira diversitatea marină fabuloasă a acestei regiuni.",
+        "en": "Start your exciting bike tour at the archaeological museum in the center before pedaling briskly towards the northeast. The fascinating Nuraghe Furcadizzo offers a glimpse into prehistoric times.\nAt lunchtime, the nearby Spiaggia di Furcadizzu attracts visitors with its fine sand and clear water. Enjoy a refreshing break by the sea and let your soul relax under the warm Sardinian sun.\nIn the afternoon, ride easily along the beautiful coastal wetlands all the way down to Is Figus. The salty breeze and the rich local flora make this scenic route an unforgettable experience.\nTowards the evening, you will reach the historic Sant'Efisio sanctuary and the exciting Pula Aquarium. A truly perfect ending to get to know the magnificent marine diversity of the region."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 7.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Spiaggia di Porto Columbu",
+            "hu": "Spiaggia di Porto Columbu",
+            "ro": "Spiaggia di Porto Columbu",
+            "en": "Spiaggia di Porto Columbu"
+          },
+          "coords": [
+            9.024104,
+            39.019628
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag an diesem familienfreundlichen Strand mit weichem Sand, der einen sanften Einstieg ins Wasser bietet und somit perfekt für ein sicheres morgendliches Bad ist.",
+            "hu": "Kezdje a napot ezen a családbarát, finom homokos strandon, amely fokozatosan mélyülő vizével tökéletes és biztonságos helyszínt biztosít egy kellemes, kora reggeli frissítő úszáshoz.",
+            "ro": "Începeți ziua pe această plajă prietenoasă cu familiile, cu nisip fin, care oferă o intrare blândă în apă, fiind astfel perfectă pentru o baie matinală sigură și foarte revigorantă.",
+            "en": "Start your day on this family-friendly beach with soft sand that offers a wonderfully gentle entry into the clear water, making it absolutely perfect for a safe and refreshing morning swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuraghe Furcadizzo",
+            "hu": "Nuraghe Furcadizzo",
+            "ro": "Nuraghe Furcadizzo",
+            "en": "Nuraghe Furcadizzo"
+          },
+          "coords": [
+            9.02369,
+            39.016431
+          ],
+          "category": "historical",
+          "arrive_at": "10:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die mystischen Überreste dieses prähistorischen Nuraghen-Turms, der die reiche Geschichte Sardiniens bezeugt, und tragen Sie festes Schuhwerk für das Gelände.",
+            "hu": "Fedezze fel ennek a történelem előtti nuraghe toronynak a misztikus maradványait, amely Szardínia gazdag múltját őrzi, és viseljen zárt, kényelmes cipőt az egyenetlen terepen.",
+            "ro": "Explorați rămășițele mistice ale acestui turn preistoric nuragic care mărturisește istoria bogată a Sardiniei și purtați încălțăminte solidă pentru terenul stâncos de aici.",
+            "en": "Explore the mystical remains of this prehistoric Nuragic tower that bears witness to Sardinia's rich history, and make sure to wear sturdy shoes for the uneven, rocky terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Giovanni Battista",
+            "hu": "Chiesa di San Giovanni Battista",
+            "ro": "Chiesa di San Giovanni Battista",
+            "en": "Chiesa di San Giovanni Battista"
+          },
+          "coords": [
+            9.00254,
+            39.011518
+          ],
+          "category": "religious",
+          "arrive_at": "11:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, aber faszinierende Architektur dieser alten Kirche, die den Kern von Pula bildet, und achten Sie auf die Gottesdienstzeiten für einen Besuch.",
+            "hu": "Csodálja meg ennek a Pula szívét alkotó, egyszerű, mégis lenyűgöző régi templomnak az építészetét, és figyeljen a nyitvatartásra, hogy belülről is megtekinthesse.",
+            "ro": "Admirați arhitectura simplă, dar fascinantă a acestei biserici vechi care formează inima orașului Pula și verificați programul slujbelor pentru a o vizita în liniște.",
+            "en": "Admire the simple yet fascinating architecture of this old church that forms the heart of Pula, and check the local service times to ensure a peaceful visit inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa della Madonna della Consolazione",
+            "hu": "Chiesa della Madonna della Consolazione",
+            "ro": "Chiesa della Madonna della Consolazione",
+            "en": "Chiesa della Madonna della Consolazione"
+          },
+          "coords": [
+            8.991466,
+            38.995519
+          ],
+          "category": "religious",
+          "arrive_at": "12:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser friedlichen Kirche etwas außerhalb, bewundern Sie die ruhige Umgebung und nutzen Sie die Gelegenheit für ein paar Minuten der inneren Einkehr während der Fahrt.",
+            "hu": "Álljon meg ennél a békés, kissé kieső templomnál, csodálja meg a csendes környezetet, és használja ki a lehetőséget néhány percnyi elmélyülésre, mielőtt folytatná a hosszú utat.",
+            "ro": "Opriți-vă la această biserică pașnică aflată puțin în afara centrului, admirați împrejurimile liniștite și profitați de ocazie pentru câteva minute de reflecție interioară pe drum.",
+            "en": "Stop at this peaceful church located slightly out of town, admire the serene surroundings, and take the wonderful opportunity for a few minutes of quiet inner reflection during your drive."
+          }
+        },
+        {
+          "name": {
+            "de": "Is Figus",
+            "hu": "Is Figus",
+            "ro": "Is Figus",
+            "en": "Is Figus"
+          },
+          "coords": [
+            9.015388,
+            38.992487
+          ],
+          "category": "recreational",
+          "arrive_at": "13:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause in dieser herrlichen grünen Gegend in der Nähe von Nora, wo Sie die üppige mediterrane Vegetation bewundern und dem Rauschen der Wellen lauschen können.",
+            "hu": "Tartson egy kis szünetet ezen a csodálatos zöld területen Nora közelében, ahol megcsodálhatja a buja mediterrán növényzetet, és közben hallgathatja a közeli tenger lágy hullámait.",
+            "ro": "Faceți o pauză în această zonă verde magnifică de lângă Nora, unde puteți admira vegetația mediteraneană luxuriantă și puteți asculta sunetul valurilor care se sparg la țărm.",
+            "en": "Take a well-deserved break in this magnificent green area near Nora, where you can admire the lush Mediterranean vegetation while listening to the soothing sound of the crashing waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Sant'Efisio",
+            "hu": "Chiesa di Sant'Efisio",
+            "ro": "Chiesa di Sant'Efisio",
+            "en": "Chiesa di Sant'Efisio"
+          },
+          "coords": [
+            9.013017,
+            38.98974
+          ],
+          "category": "religious",
+          "arrive_at": "14:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses historisch bedeutsame Heiligtum direkt am Meer, das den Schutzpatron feiert, und spüren Sie die tiefe Hingabe, die diesen malerischen Ort umgibt.",
+            "hu": "Látogasson el erre a tengerparti történelmi jelentőségű szentélyre, amely a védőszentet ünnepli, és érezze át azt a mély áhítatot, amely ezt a festői, ősi zarándokhelyet körülveszi.",
+            "ro": "Vizitați acest sanctuar pitoresc cu semnificație istorică situat chiar pe malul mării, care îl celebrează pe sfântul patron, și simțiți devotamentul profund din acest loc.",
+            "en": "Visit this historically significant sanctuary located right by the sea that celebrates the patron saint, and feel the profound devotion that beautifully surrounds this picturesque location."
+          }
+        },
+        {
+          "name": {
+            "de": "Acquario di Pula",
+            "hu": "Acquario di Pula",
+            "ro": "Acquario di Pula",
+            "en": "Acquario di Pula"
+          },
+          "coords": [
+            9.005748,
+            38.986447
+          ],
+          "category": "landmark",
+          "arrive_at": "15:20",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die lokale Meereswelt ein und betrachten Sie die faszinierenden Arten des Mittelmeers hautnah, ideal für Familien, die den Tag lehrreich ausklingen lassen möchten.",
+            "hu": "Merüljön el a helyi tengeri világban, és figyelje meg testközelből a Földközi-tenger lenyűgöző fajait, amely ideális program azoknak a családoknak, akik tanulással zárnák a napot.",
+            "ro": "Scufundați-vă în lumea marină locală și priviți de aproape speciile fascinante din Marea Mediterană, locul ideal pentru familiile care doresc să-și încheie ziua într-un mod educativ.",
+            "en": "Dive into the local marine world and get a close-up look at the fascinating species of the Mediterranean, an ideal experience for families looking to end the day with an educational touch."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt im Norden an der familienfreundlichen Spiaggia di Porto Columbu. Nach einem erfrischenden Strandbesuch fahren Sie ein kurzes Stück zum beeindruckenden Nuraghe Furcadizzo.\nAm Mittag erreichen Sie das Zentrum von Pula. Besuchen Sie die Kirche San Giovanni Battista und fahren Sie dann gemütlich weiter zur malerischen Madonna della Consolazione etwas außerhalb der Stadt.\nDer Nachmittag führt Sie in den charmanten Süden. Die naturbelassene Oase Is Figus bietet eine wunderbare Kulisse für eine kurze Auszeit, bevor Sie zum spirituellen Zentrum in der Nähe von Nora weiterfahren.\nBeenden Sie den Tag an der Küste mit einem Besuch der historischen Kirche Sant'Efisio und des Aquariums. Diese Mischung aus tiefer Geschichte und faszinierender Natur bildet ein perfektes Finale.",
+        "hu": "Autós túrája északon, a családbarát Spiaggia di Porto Columbu strandon kezdődik. Egy frissítő tengerparti látogatás után egy rövid utat tesz meg a lenyűgöző Nuraghe Furcadizzo ősi tornyához.\nDélben eléri Pula pezsgő központját. Látogassa meg a San Giovanni Battista templomot, majd vezessen kényelmesen tovább a város szélén található festői Madonna della Consolazione templomhoz.\nA délután a bájos déli vidékre vezet. Az Is Figus természetes oázisa csodálatos hátteret biztosít egy rövid pihenőhöz, mielőtt tovább utazna a Nora közelében fekvő spirituális központhoz.\nZárja a napot a tengerparton a történelmi Sant'Efisio templom és az akvárium meglátogatásával. A mély történelem és a lenyűgöző tengeri természet ezen keveréke tökéletes finálét alkot.",
+        "ro": "Turul auto începe în nord, la plaja prietenoasă Spiaggia di Porto Columbu. După o vizită revigorantă la plajă, veți conduce o distanță scurtă până la impresionantul Nuraghe Furcadizzo de aici.\nLa prânz ajungeți în centrul orașului Pula. Vizitați Biserica San Giovanni Battista și apoi mergeți confortabil mai departe spre pitoreasca Madonna della Consolazione situată la marginea orașului.\nDupă-amiaza vă poartă în sudul cel fermecător. Oaza naturală Is Figus oferă un cadru minunat pentru o scurtă pauză, înainte de a continua spre centrul spiritual aflat destul de aproape de Nora.\nÎncheiați ziua pe frumoasa coastă cu o vizită la biserica istorică Sant'Efisio și la acvariu. Acest amestec fabulos de istorie profundă și natură marină fascinantă formează un final absolut perfect.",
+        "en": "Your car tour starts in the north at the family-friendly Spiaggia di Porto Columbu. After a refreshing beach visit, you'll drive a very short distance to the impressive Nuraghe Furcadizzo.\nAt noon you will seamlessly reach the center of Pula. Visit the Church of San Giovanni Battista and then drive comfortably on to the picturesque Madonna della Consolazione just outside the town.\nThe afternoon takes you quickly to the charming south. The natural oasis of Is Figus offers a wonderful backdrop for a short break before continuing to the ancient spiritual center near Nora.\nEnd your day on the beautiful coast with a visit to the historic Sant'Efisio church and the aquarium. This fantastic mixture of deep history and fascinating marine nature forms a perfect finale."
+      }
+    }
+  }
+}

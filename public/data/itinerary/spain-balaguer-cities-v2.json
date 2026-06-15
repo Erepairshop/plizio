@@ -1,0 +1,543 @@
+{
+  "city_id": "spain-balaguer-cities-v2",
+  "anchor": {
+    "name": "Balaguer",
+    "coords": [
+      0.81094,
+      41.79117
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:21",
+      "total_km": 2.69,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Església del Sagrat Cor",
+            "hu": "Església del Sagrat Cor",
+            "ro": "Església del Sagrat Cor",
+            "en": "Església del Sagrat Cor"
+          },
+          "coords": [
+            0.811307,
+            41.791281
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neugotischen Elemente dieser charmanten Kirche und kommen Sie am frühen Morgen, um einen ruhigen, spirituellen Start in den Tag zu erleben.",
+            "hu": "Csodálja meg e bájos templom neogótikus elemeit, és látogasson el kora reggel, hogy csendesen, átszellemülten induljon a napja.",
+            "ro": "Admirați elementele neogotice ale acestei biserici fermecătoare și vizitați-o dimineața devreme pentru un început de zi liniștit, plin de spiritualitate.",
+            "en": "Admire the neo-Gothic elements in this charming church and visit during the early morning for a quiet, spiritual start to your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Església de Santa Maria de Balaguer",
+            "hu": "Església de Santa Maria de Balaguer",
+            "ro": "Església de Santa Maria de Balaguer",
+            "en": "Església de Santa Maria de Balaguer"
+          },
+          "coords": [
+            0.804416,
+            41.791718
+          ],
+          "category": "religious",
+          "arrive_at": "09:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.57,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die schiere Größe dieses einschiffigen gotischen Meisterwerks, und treten Sie ein, wenn das Sonnenlicht durch die Buntglasfenster fällt.",
+            "hu": "Gyönyörködjön a városképet uraló, egyhajós gótikus remekmű méreteiben, és lépjen be, amikor a napfény átragyog az ólomüveg ablakokon.",
+            "ro": "Minunați-vă de dimensiunile acestei capodopere gotice cu o singură navă și intrați atunci când lumina soarelui strălucește prin vitralii.",
+            "en": "Marvel at the sheer scale of this single-nave Gothic masterpiece dominating the skyline, and step inside when sunlight hits the stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell Formós",
+            "hu": "Castell Formós",
+            "ro": "Castell Formós",
+            "en": "Castell Formós"
+          },
+          "coords": [
+            0.805807,
+            41.794166
+          ],
+          "category": "historical",
+          "arrive_at": "10:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser einst mächtigen Festung aus der islamischen Zeit und tragen Sie festes Schuhwerk, um die mittelalterlichen Ruinen sicher zu begehen.",
+            "hu": "Fedezze fel az egykor a régiót uraló iszlám kori erődítmény maradványait, és viseljen kényelmes cipőt, hogy biztonságosan mozoghasson a romok között.",
+            "ro": "Explorați rămășițele acestei mari fortărețe din epoca islamică și purtați încălțăminte rezistentă pentru a naviga în siguranță printre ruinele medievale.",
+            "en": "Explore the remnants of this grand Islamic-era fortress that once ruled the region, and wear sturdy shoes to navigate the medieval ruins safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Jaciment arqueològic del Pla d'Almatà",
+            "hu": "Jaciment arqueològic del Pla d'Almatà",
+            "ro": "Jaciment arqueològic del Pla d'Almatà",
+            "en": "Jaciment arqueològic del Pla d'Almatà"
+          },
+          "coords": [
+            0.80212,
+            41.796405
+          ],
+          "category": "historical",
+          "arrive_at": "12:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine der größten antiken islamischen Siedlungen Kataloniens und schließen Sie sich einer Wochenendführung an, um die Anlage der Medina zu verstehen.",
+            "hu": "Fedezze fel Katalónia egyik legnagyobb ősi iszlám települését, és csatlakozzon egy hétvégi vezetett túrához, hogy megértse a medina felépítését.",
+            "ro": "Descoperiți una dintre cele mai mari așezări islamice antice din Catalonia și alăturați-vă unui tur ghidat în weekend pentru a înțelege structura medinei.",
+            "en": "Discover one of the largest ancient Islamic settlements in Catalonia, and join a guided weekend tour to fully grasp the layout of the Medina."
+          }
+        },
+        {
+          "name": {
+            "de": "Centre d'Interpretació de l'Or del Segre",
+            "hu": "Centre d'Interpretació de l'Or del Segre",
+            "ro": "Centre d'Interpretació de l'Or del Segre",
+            "en": "Centre d'Interpretació de l'Or del Segre"
+          },
+          "coords": [
+            0.809462,
+            41.795172
+          ],
+          "category": "museum",
+          "arrive_at": "13:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.61,
+          "tip_5lang": {
+            "de": "Erfahren Sie die faszinierende Geschichte des Goldwaschens im Fluss Segre und verpassen Sie nicht den Workshop, bei dem Sie selbst Goldflocken gewinnen können.",
+            "hu": "Ismerje meg a Segre folyó aranymosásának lenyűgöző történetét, és ne hagyja ki az interaktív foglalkozást, ahol kipróbálhatja az aranylemezkék kinyerését.",
+            "ro": "Aflați istoria fascinantă a spălării aurului în râul Segre și nu ratați atelierul interactiv unde puteți încerca să extrageți chiar dumneavoastră fulgi de aur.",
+            "en": "Learn the fascinating history of gold panning in the Segre River, and don't miss the interactive workshop where you can try extracting gold flakes."
+          }
+        },
+        {
+          "name": {
+            "de": "Sant Domènec",
+            "hu": "Sant Domènec",
+            "ro": "Sant Domènec",
+            "en": "Sant Domènec"
+          },
+          "coords": [
+            0.809405,
+            41.793733
+          ],
+          "category": "religious",
+          "arrive_at": "15:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses gotische Wunder mit seinem wunderschönen Kreuzgang, um wahre architektonische Ruhe zu erleben, aber prüfen Sie vorher die Öffnungszeiten.",
+            "hu": "Látogasson el ebbe a gyönyörű kerengővel büszkélkedő gótikus csodába, de indulás előtt mindenképpen ellenőrizze a korlátozott nyitvatartási időt.",
+            "ro": "Vizitați această minune gotică cu un claustru frumos pentru a experimenta adevărata liniște arhitecturală, dar verificați orele de vizitare înainte de a merge.",
+            "en": "Visit this Gothic marvel with its beautiful cloister to experience true architectural serenity, but check the restricted visiting hours before you go."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu de la Noguera",
+            "hu": "Museu de la Noguera",
+            "ro": "Museu de la Noguera",
+            "en": "Museu de la Noguera"
+          },
+          "coords": [
+            0.804586,
+            41.788443
+          ],
+          "category": "museum",
+          "arrive_at": "16:11",
+          "stay_min": 130,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Tauchen Sie in Balaguers maurische und mittelalterliche Vergangenheit ein und nehmen Sie sich Zeit, die gut übersetzten Erklärungstafeln zu lesen.",
+            "hu": "Merüljön el Balaguer mór és középkori múltjában egy hihetetlen leletgyűjteményen keresztül, és szánjon időt a jól lefordított magyarázó táblák elolvasására.",
+            "ro": "Scufundați-vă în trecutul maur și medieval al orașului Balaguer printr-o colecție incredibilă de artefacte și citiți cu atenție plăcuțele explicative.",
+            "en": "Dive into Balaguer's Moorish and medieval past through an incredible artifact collection, and take your time reading the well-translated contextual plaques."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der spirituellen Atmosphäre der Església del Sagrat Cor, bevor Sie zum gotischen Meisterwerk Església de Santa Maria schlendern. Mittags tauchen Sie in die Geschichte ein und erkunden die Ruinen des Castell Formós sowie die alte islamische Siedlung am Pla d'Almatà auf den Höhen. Nachmittags können Sie im Goldzentrum am Segre Ihr Glück beim Goldwaschen versuchen, gefolgt von einer ruhigen Pause im wunderschönen Kreuzgang von Sant Domènec. Beenden Sie Ihre Tour mit einem fesselnden Besuch im Museu de la Noguera, um die maurischen Wurzeln von Balaguer zu entdecken, während der Abend anbricht.",
+        "hu": "Kezdje a reggelt a Sagrat Cor templom spirituális hangulatával, majd sétáljon el a grandiózus gótikus remekműhöz, a Santa Maria templomhoz. A dél a történelemé: fedezze fel a Castell Formós ősi romjait és a kiterjedt iszlám kori települést a Pla d'Almatán, a város magaslatain. Délután próbálja ki az aranymosást az Or del Segre Látogatóközpontban, majd pihenjen meg a Sant Domènec gyönyörű kerengőjében. Zárja a gyalogtúrát a Noguera Múzeumban, ahol nyomon követheti Balaguer mór gyökereit, miközben az este lassan leszáll a városra.",
+        "ro": "Începeți dimineața absorbind atmosfera spirituală de la Biserica Sagrat Cor înainte de a vă plimba spre marea capodoperă gotică, Biserica Santa Maria. La amiază, explorați ruinele antice ale Castell Formós și vasta așezare islamică de la Pla d'Almatà, situate pe înălțimile orașului. După-amiaza, încercați-vă norocul la spălatul aurului la Centrul Or del Segre, urmat de o pauză senină în claustrul frumos al bisericii Sant Domènec. Încheiați turul cu o vizită captivantă la Museu de la Noguera, urmărind rădăcinile maure ale orașului Balaguer pe măsură ce seara se lasă ușor peste oraș.",
+        "en": "Start your morning absorbing the spiritual atmosphere at Església del Sagrat Cor before wandering to the grand Gothic masterpiece, Església de Santa Maria. Midday invites a historical dive, exploring the ancient ruins of Castell Formós and the extensive Islamic settlement at Pla d'Almatà on the city's heights. In the afternoon, try your hand at gold panning at the Centre d'Interpretació de l'Or del Segre, followed by a serene pause in the beautiful cloister of Sant Domènec. Conclude your walking tour with an immersive visit to Museu de la Noguera, tracing the Moorish roots of Balaguer as evening gently settles over the city."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:29",
+      "total_km": 2.45,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Teatre municipal de Balaguer",
+            "hu": "Teatre municipal de Balaguer",
+            "ro": "Teatre municipal de Balaguer",
+            "en": "Teatre municipal de Balaguer"
+          },
+          "coords": [
+            0.804365,
+            41.78621
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Werfen Sie einen Blick auf dieses moderne Kulturzentrum mit seinen lebendigen lokalen Aufführungen und prüfen Sie vorab den Spielplan für die Abendvorstellungen.",
+            "hu": "Vessen egy pillantást erre a vibráló helyi előadásoknak otthont adó modern kulturális központra, és nézze meg előre a műsort, ha esti bemutatót is megnézne.",
+            "ro": "Aruncați o privire la acest centru cultural modern ce găzduiește spectacole locale vibrante și verificați programul din timp dacă doriți să prindeți un spectacol de seară.",
+            "en": "Catch a glimpse of this modern cultural hub hosting vibrant local performances, and check their schedule in advance if you want to attend an evening show."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu de la Noguera",
+            "hu": "Museu de la Noguera",
+            "ro": "Museu de la Noguera",
+            "en": "Museu de la Noguera"
+          },
+          "coords": [
+            0.804586,
+            41.788443
+          ],
+          "category": "museum",
+          "arrive_at": "10:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Tauchen Sie in Balaguers maurische und mittelalterliche Vergangenheit ein und nehmen Sie sich Zeit, die gut übersetzten Erklärungstafeln zu lesen.",
+            "hu": "Merüljön el Balaguer mór és középkori múltjában egy hihetetlen leletgyűjteményen keresztül, és szánjon időt a jól lefordított magyarázó táblák elolvasására.",
+            "ro": "Scufundați-vă în trecutul maur și medieval al orașului Balaguer printr-o colecție incredibilă de artefacte și citiți cu atenție plăcuțele explicative.",
+            "en": "Dive into Balaguer's Moorish and medieval past through an incredible artifact collection, and take your time reading the well-translated contextual plaques."
+          }
+        },
+        {
+          "name": {
+            "de": "Església de Sant Josep",
+            "hu": "Església de Sant Josep",
+            "ro": "Església de Sant Josep",
+            "en": "Església de Sant Josep"
+          },
+          "coords": [
+            0.805811,
+            41.788461
+          ],
+          "category": "religious",
+          "arrive_at": "11:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beachten Sie die elegante Einfachheit dieser friedlichen lokalen Kirche und nehmen Sie sich einen Moment Zeit, um sich abseits der Massen auszuruhen.",
+            "hu": "Figyelje meg a Szent Józsefnek szentelt, békés helyi templom elegáns egyszerűségét, és pihenjen meg egy pillanatra a tömegtől távol eső fapadokon.",
+            "ro": "Observați simplitatea elegantă a acestei biserici locale pașnice închinate Sfântului Iosif și odihniți-vă o clipă pe băncile de lemn, departe de agitație.",
+            "en": "Notice the elegant simplicity of this peaceful local church dedicated to Saint Joseph, and take a moment to rest on the wooden pews away from the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Església de Santa Maria de Balaguer",
+            "hu": "Església de Santa Maria de Balaguer",
+            "ro": "Església de Santa Maria de Balaguer",
+            "en": "Església de Santa Maria de Balaguer"
+          },
+          "coords": [
+            0.804416,
+            41.791718
+          ],
+          "category": "religious",
+          "arrive_at": "12:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die schiere Größe dieses einschiffigen gotischen Meisterwerks, und treten Sie ein, wenn das Sonnenlicht durch die Buntglasfenster fällt.",
+            "hu": "Gyönyörködjön a városképet uraló, egyhajós gótikus remekmű méreteiben, és lépjen be, amikor a napfény átragyog az ólomüveg ablakokon.",
+            "ro": "Minunați-vă de dimensiunile acestei capodopere gotice cu o singură navă și intrați atunci când lumina soarelui strălucește prin vitralii.",
+            "en": "Marvel at the sheer scale of this single-nave Gothic masterpiece dominating the skyline, and step inside when sunlight hits the stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Maria d'Almatà",
+            "hu": "Santa Maria d'Almatà",
+            "ro": "Santa Maria d'Almatà",
+            "en": "Santa Maria d'Almatà"
+          },
+          "coords": [
+            0.806037,
+            41.795825
+          ],
+          "category": "religious",
+          "arrive_at": "13:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Erleben Sie das spirituelle Erbe dieser historisch reichen religiösen Stätte auf dem Hügel und bringen Sie eine Kamera für die atemberaubende Aussicht mit.",
+            "hu": "Legyen tanúja e dombon fekvő, történelmi vallási helyszín szellemi örökségének, és hozzon fényképezőgépet, hogy megörökítse a pazar kilátást a városra.",
+            "ro": "Descoperiți moștenirea spirituală a acestui sit religios încărcat de istorie de pe deal și aduceți un aparat foto pentru a surprinde vederea panoramică superbă.",
+            "en": "Witness the spiritual heritage of this historically rich religious site on the hill, and bring a camera to capture the stunning panoramic views over the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell Formós",
+            "hu": "Castell Formós",
+            "ro": "Castell Formós",
+            "en": "Castell Formós"
+          },
+          "coords": [
+            0.805807,
+            41.794166
+          ],
+          "category": "landmark",
+          "arrive_at": "13:58",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser einst mächtigen Festung aus der islamischen Zeit und tragen Sie festes Schuhwerk, um die mittelalterlichen Ruinen sicher zu begehen.",
+            "hu": "Fedezze fel az egykor a régiót uraló iszlám kori erődítmény maradványait, és viseljen kényelmes cipőt, hogy biztonságosan mozoghasson a romok között.",
+            "ro": "Explorați rămășițele acestei mari fortărețe din epoca islamică și purtați încălțăminte rezistentă pentru a naviga în siguranță printre ruinele medievale.",
+            "en": "Explore the remnants of this grand Islamic-era fortress that once ruled the region, and wear sturdy shoes to navigate the medieval ruins safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Centre d'Interpretació de l'Or del Segre",
+            "hu": "Centre d'Interpretació de l'Or del Segre",
+            "ro": "Centre d'Interpretació de l'Or del Segre",
+            "en": "Centre d'Interpretació de l'Or del Segre"
+          },
+          "coords": [
+            0.809462,
+            41.795172
+          ],
+          "category": "museum",
+          "arrive_at": "14:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Erfahren Sie die faszinierende Geschichte des Goldwaschens im Fluss Segre und verpassen Sie nicht den Workshop, bei dem Sie selbst Goldflocken gewinnen können.",
+            "hu": "Ismerje meg a Segre folyó aranymosásának lenyűgöző történetét, és ne hagyja ki az interaktív foglalkozást, ahol kipróbálhatja az aranylemezkék kinyerését.",
+            "ro": "Aflați istoria fascinantă a spălării aurului în râul Segre și nu ratați atelierul interactiv unde puteți încerca să extrageți chiar dumneavoastră fulgi de aur.",
+            "en": "Learn the fascinating history of gold panning in the Segre River, and don't miss the interactive workshop where you can try extracting gold flakes."
+          }
+        },
+        {
+          "name": {
+            "de": "La Mercantil",
+            "hu": "La Mercantil",
+            "ro": "La Mercantil",
+            "en": "La Mercantil"
+          },
+          "coords": [
+            0.814351,
+            41.78907
+          ],
+          "category": "cultural",
+          "arrive_at": "15:59",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.78,
+          "tip_5lang": {
+            "de": "Genießen Sie die dynamische Atmosphäre dieses renommierten Theatersaals und informieren Sie sich online über aktuelle zeitgenössische Theaterstücke.",
+            "hu": "Élvezze e neves helyi előadóművészeti tér dinamikus hangulatát, és ellenőrizze online a műsort, hogy egy kortárs darabot is meg tudjon tekinteni.",
+            "ro": "Bucurați-vă de atmosfera dinamică a acestui renumit spațiu local de arte spectacolului și verificați programul online pentru a prinde o piesă contemporană.",
+            "en": "Enjoy the dynamic atmosphere of this renowned local performing arts space, and check their online schedule to align your visit with a contemporary play."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Radtag am Teatre Municipal, bevor Sie zum Museu de la Noguera radeln, um die faszinierenden mittelalterlichen Artefakte zu entdecken. Mittags pendeln Sie zwischen der beschaulichen Església de Sant Josep und der monumentalen Església de Santa Maria und genießen die Kontraste. Verbringen Sie den Nachmittag damit, zu den Höhen von Santa Maria d'Almatà und Castell Formós hinaufzufahren und den herrlichen Panoramablick zu genießen. Beenden Sie die Fahrt im interaktiven Goldzentrum am Segre und lassen Sie den Tag am modernen Veranstaltungsort La Mercantil entspannt ausklingen.",
+        "hu": "Kezdje a biciklis napot a Városi Színháznál, majd tekerjen el a Noguera Múzeumhoz, hogy felfedezze a régió lenyűgöző középkori leleteit. Ahogy közeledik a dél, látogasson el a Sant Josep templomhoz és a monumentális Santa Maria templomhoz, elmerülve az építészeti kontrasztokban. Délután tekerjen fel a Santa Maria d'Almatà és a Castell Formós magaslataira, ahonnan elsöprő panoráma nyílik az egész folyóvölgyre. Fejezze be az utat a Segre menti interaktív Aranyközpontban, és zárja a napot a La Mercantil modern kulturális helyszíne közelében.",
+        "ro": "Începeți ziua de ciclism la Teatrul Municipal înainte de a merge la Museu de la Noguera pentru a descoperi fascinantele artefacte medievale ale regiunii. La amiază, plimbați-vă între biserica pitorească Sant Josep și monumentala Biserică Santa Maria, bucurându-vă de contrastele lor arhitecturale. Petreceți după-amiaza pedalând spre înălțimile Santa Maria d'Almatà și Castell Formós, admirând priveliștile panoramice ample asupra văii râului. Încheiați cursa explorând Centrul Interactiv al Aurului de-a lungul râului Segre, relaxându-vă cu o ultimă oprire lângă spațiul cultural modern, La Mercantil.",
+        "en": "Kick off your cycling day at the Teatre municipal before riding to the Museu de la Noguera to uncover the region's fascinating medieval artifacts. As midday rolls in, hop between the quaint Església de Sant Josep and the monumental Església de Santa Maria, soaking in the architectural contrasts. Spend the afternoon pedaling up to the heights of Santa Maria d'Almatà and Castell Formós, enjoying sweeping panoramic views of the entire river valley. Finish your ride exploring the interactive Gold Center along the Segre, winding down with a final stop near the modern cultural venue, La Mercantil."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:48",
+      "total_km": 5.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Castell de la Ràpita",
+            "hu": "Castell de la Ràpita",
+            "ro": "Castell de la Ràpita",
+            "en": "Castell de la Ràpita"
+          },
+          "coords": [
+            0.833559,
+            41.787478
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die mittelalterlichen Geheimnisse dieser etwas abgelegenen Burg und fahren Sie vorsichtig auf den schmalen Zufahrtsstraßen hinauf.",
+            "hu": "Fedezze fel e kissé félreeső, mély regionális történelemmel büszkélkedő vár középkori titkait, és vezessen óvatosan az ide vezető keskeny bekötőutakon.",
+            "ro": "Descoperiți secretele medievale ale acestui castel ușor izolat, cu o istorie regională bogată, și conduceți cu atenție pe drumurile de acces înguste.",
+            "en": "Uncover the medieval secrets of this slightly remote castle boasting deep regional history, and drive carefully on the narrow access roads leading up to it."
+          }
+        },
+        {
+          "name": {
+            "de": "Sant Jordi",
+            "hu": "Sant Jordi",
+            "ro": "Sant Jordi",
+            "en": "Sant Jordi"
+          },
+          "coords": [
+            0.836628,
+            41.798133
+          ],
+          "category": "religious",
+          "arrive_at": "10:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Schätzen Sie die stille Hingabe und das klassische Design dieser charmanten Kirche und verbinden Sie Ihren Besuch mit einem Spaziergang durch die Umgebung.",
+            "hu": "Értékelje a külső városrészben fekvő bájos templom csendes áhítatát és klasszikus kialakítását, és kösse össze a látogatást egy pihentető sétával a környéken.",
+            "ro": "Apreciați devotamentul liniștit și designul clasic al acestei biserici fermecătoare din afara orașului și combinați vizita cu o plimbare relaxantă prin împrejurimi.",
+            "en": "Appreciate the quiet devotion and classic design of this charming outer-city church, and combine your visit with a relaxing stroll through the surrounding area."
+          }
+        },
+        {
+          "name": {
+            "de": "Jaciment arqueològic del Pla d'Almatà",
+            "hu": "Jaciment arqueològic del Pla d'Almatà",
+            "ro": "Jaciment arqueològic del Pla d'Almatà",
+            "en": "Jaciment arqueològic del Pla d'Almatà"
+          },
+          "coords": [
+            0.80212,
+            41.796405
+          ],
+          "category": "historical",
+          "arrive_at": "11:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.86,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine der größten antiken islamischen Siedlungen Kataloniens und schließen Sie sich einer Wochenendführung an, um die Anlage der Medina zu verstehen.",
+            "hu": "Fedezze fel Katalónia egyik legnagyobb ősi iszlám települését, és csatlakozzon egy hétvégi vezetett túrához, hogy megértse a medina felépítését.",
+            "ro": "Descoperiți una dintre cele mai mari așezări islamice antice din Catalonia și alăturați-vă unui tur ghidat în weekend pentru a înțelege structura medinei.",
+            "en": "Discover one of the largest ancient Islamic settlements in Catalonia, and join a guided weekend tour to fully grasp the layout of the Medina."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell Formós",
+            "hu": "Castell Formós",
+            "ro": "Castell Formós",
+            "en": "Castell Formós"
+          },
+          "coords": [
+            0.805807,
+            41.794166
+          ],
+          "category": "landmark",
+          "arrive_at": "12:40",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser einst mächtigen Festung aus der islamischen Zeit und tragen Sie festes Schuhwerk, um die mittelalterlichen Ruinen sicher zu begehen.",
+            "hu": "Fedezze fel az egykor a régiót uraló iszlám kori erődítmény maradványait, és viseljen kényelmes cipőt, hogy biztonságosan mozoghasson a romok között.",
+            "ro": "Explorați rămășițele acestei mari fortărețe din epoca islamică și purtați încălțăminte rezistentă pentru a naviga în siguranță printre ruinele medievale.",
+            "en": "Explore the remnants of this grand Islamic-era fortress that once ruled the region, and wear sturdy shoes to navigate the medieval ruins safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Centre d'Interpretació de l'Or del Segre",
+            "hu": "Centre d'Interpretació de l'Or del Segre",
+            "ro": "Centre d'Interpretació de l'Or del Segre",
+            "en": "Centre d'Interpretació de l'Or del Segre"
+          },
+          "coords": [
+            0.809462,
+            41.795172
+          ],
+          "category": "museum",
+          "arrive_at": "12:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Erfahren Sie die faszinierende Geschichte des Goldwaschens im Fluss Segre und verpassen Sie nicht den Workshop, bei dem Sie selbst Goldflocken gewinnen können.",
+            "hu": "Ismerje meg a Segre folyó aranymosásának lenyűgöző történetét, és ne hagyja ki az interaktív foglalkozást, ahol kipróbálhatja az aranylemezkék kinyerését.",
+            "ro": "Aflați istoria fascinantă a spălării aurului în râul Segre și nu ratați atelierul interactiv unde puteți încerca să extrageți chiar dumneavoastră fulgi de aur.",
+            "en": "Learn the fascinating history of gold panning in the Segre River, and don't miss the interactive workshop where you can try extracting gold flakes."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu de la Noguera",
+            "hu": "Museu de la Noguera",
+            "ro": "Museu de la Noguera",
+            "en": "Museu de la Noguera"
+          },
+          "coords": [
+            0.804586,
+            41.788443
+          ],
+          "category": "museum",
+          "arrive_at": "14:38",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.84,
+          "tip_5lang": {
+            "de": "Tauchen Sie in Balaguers maurische und mittelalterliche Vergangenheit ein und nehmen Sie sich Zeit, die gut übersetzten Erklärungstafeln zu lesen.",
+            "hu": "Merüljön el Balaguer mór és középkori múltjában egy hihetetlen leletgyűjteményen keresztül, és szánjon időt a jól lefordított magyarázó táblák elolvasására.",
+            "ro": "Scufundați-vă în trecutul maur și medieval al orașului Balaguer printr-o colecție incredibilă de artefacte și citiți cu atenție plăcuțele explicative.",
+            "en": "Dive into Balaguer's Moorish and medieval past through an incredible artifact collection, and take your time reading the well-translated contextual plaques."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour mit einem Ausflug an den Stadtrand, um die mittelalterliche Geschichte des Castell de la Ràpita und Sant Jordi zu entdecken. Gegen Mittag fahren Sie zurück in die Stadt, um durch die riesige antike islamische Siedlung in der archäologischen Stätte Pla d'Almatà zu wandern. Der Nachmittag eignet sich perfekt für das Castell Formós, bevor Sie sich im nahegelegenen Interpretationszentrum mit der goldenen Geschichte des Flusses befassen. Parken Sie gegen Abend in der Nähe des Zentrums, um im Museu de la Noguera tief in das Erbe von Balaguer einzutauchen und Ihre Reise abzuschließen.",
+        "hu": "Kezdje autós túráját a külvárosban, ahol felfedezheti a Castell de la Ràpita középkori történetét és a Sant Jordi templom csendes varázsát. Délre hajtson vissza a város magaslatai felé, hogy bebarangolja a hatalmas, ősi iszlám települést a Pla d'Almatà régészeti lelőhelyen. A kora délután tökéletes egy rövid megállóra a Castell Formós romjainál, majd ismerkedjen meg a folyó aranytörténetével a közeli látogatóközpontban. Estefelé parkoljon le a városközpont közelében, hogy a Noguera Múzeumban elmerüljön Balaguer örökségében, és ezzel zárja le átfogó utazását.",
+        "ro": "Începeți turul cu mașina evadând la periferie pentru a descoperi istoria medievală de la Castell de la Ràpita și farmecul liniștit al bisericii Sant Jordi. Până la amiază, conduceți înapoi spre înălțimile orașului pentru a vă plimba prin vasta așezare islamică antică de la situl arheologic Pla d'Almatà. După-amiaza devreme este perfectă pentru o oprire la ruinele Castell Formós înainte de a explora istoria auriferă a râului la centrul de interpretare. Parcați aproape de centru spre seară pentru a vă scufunda în moștenirea orașului Balaguer la Museu de la Noguera, încheindu-vă astfel călătoria.",
+        "en": "Begin your driving tour by escaping to the outskirts to uncover the medieval history at Castell de la Ràpita and the quiet charm of Sant Jordi. By midday, drive back towards the city heights to wander through the vast ancient Islamic settlement at the Pla d'Almatà archaeological site. The early afternoon is perfect for a quick stop at the ruins of Castell Formós before engaging with the river's golden history at the nearby interpretation center. Park near the city center as evening approaches to dive deep into Balaguer's heritage at Museu de la Noguera, bringing your comprehensive journey to a close."
+      }
+    }
+  }
+}

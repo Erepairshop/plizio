@@ -1,0 +1,428 @@
+{
+  "city_id": "spain-arenys-de-mar-cities-v2",
+  "anchor": {
+    "name": "Arenys de Mar",
+    "coords": [
+      2.549539,
+      41.580557
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:31",
+      "total_km": 1.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ajuntament d'Arenys de Mar",
+            "hu": "Ajuntament d'Arenys de Mar",
+            "ro": "Ajuntament d'Arenys de Mar",
+            "en": "Ajuntament d'Arenys de Mar"
+          },
+          "coords": [
+            2.551629,
+            41.579485
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fassade dieses historischen Rathauses, ein Symbol lokaler Identität, und fotografieren Sie das Gebäude am besten im sanften Morgenlicht.",
+            "hu": "Csodálja meg a történelmi városháza homlokzatát, amely a helyi identitás szimbóluma, és a legjobb képeket a lágy reggeli fényben készítheti el.",
+            "ro": "Admirați fațada acestei primării istorice, un simbol al identității locale, și fotografiați clădirea în lumina blândă a dimineții pentru un contrast perfect.",
+            "en": "Admire the facade of this historic town hall, a symbol of local identity, and capture the best photographs of the building during the soft morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre d'en Llobet",
+            "hu": "Torre d'en Llobet",
+            "ro": "Torre d'en Llobet",
+            "en": "Torre d'en Llobet"
+          },
+          "coords": [
+            2.549066,
+            41.578494
+          ],
+          "category": "tower",
+          "arrive_at": "10:34",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Dieser alte Wachturm bot Schutz vor Piraten, weshalb Sie unbedingt nach oben schauen sollten, um die architektonischen Details der Schießscharten zu sehen.",
+            "hu": "Ez az ősi őrtorony védelmet nyújtott a kalózok ellen, ezért mindenképpen pillantson fel, hogy megfigyelhesse a lőrések építészeti részleteit kívülről.",
+            "ro": "Acest turn de veghe oferea protecție împotriva piraților, așa că uitați-vă cu atenție la detalii pentru a observa crenelurile din exteriorul fortificat.",
+            "en": "This ancient watchtower provided protection from pirates, so be sure to look up to observe the architectural details of the arrow slits from the outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Església de Santa Maria",
+            "hu": "Església de Santa Maria",
+            "ro": "Església de Santa Maria",
+            "en": "Església de Santa Maria"
+          },
+          "coords": [
+            2.549268,
+            41.580603
+          ],
+          "category": "religious",
+          "arrive_at": "11:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Treten Sie ein in diese prachtvolle Barockkirche mit ihrem beeindruckenden Altarbild, aber kleiden Sie sich respektvoll, um die ruhige Atmosphäre zu wahren.",
+            "hu": "Lépjen be ebbe a csodálatos barokk templomba, amely lenyűgöző oltárképpel büszkélkedhet, de öltözzön tisztelettudóan a békés légkör fenntartása érdekében.",
+            "ro": "Pășiți în această magnifică biserică barocă cu un altar impresionant, dar asigurați-vă că sunteți îmbrăcați respectuos pentru a menține o atmosferă calmă.",
+            "en": "Step inside this magnificent Baroque church featuring a stunning altarpiece, but be sure to dress respectfully to maintain the peaceful religious atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Mollfulleda de Mineralogia",
+            "hu": "Museu Mollfulleda de Mineralogia",
+            "ro": "Museu Mollfulleda de Mineralogia",
+            "en": "Museu Mollfulleda de Mineralogia"
+          },
+          "coords": [
+            2.548235,
+            41.581612
+          ],
+          "category": "museum",
+          "arrive_at": "11:46",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier eine der besten Mineraliensammlungen Kataloniens und nehmen Sie sich Zeit für die leuchtenden Fluorit-Kristalle im hinteren Ausstellungsraum.",
+            "hu": "Fedezze fel Katalónia egyik legjobb ásványgyűjteményét, és szánjon időt a hátsó kiállítótérben található, ragyogó fluorit kristályok alapos megtekintésére.",
+            "ro": "Descoperiți aici una dintre cele mai bune colecții de minerale din Catalonia și alocați timp cristalelor de fluorină strălucitoare din sala din spate.",
+            "en": "Discover one of Catalonia's best mineral collections here, and take your time admiring the brightly colored fluorite crystals in the back exhibition room."
+          }
+        },
+        {
+          "name": {
+            "de": "Turó del Mal Temps",
+            "hu": "Turó del Mal Temps",
+            "ro": "Turó del Mal Temps",
+            "en": "Turó del Mal Temps"
+          },
+          "coords": [
+            2.556,
+            41.581168
+          ],
+          "category": "natural",
+          "arrive_at": "13:36",
+          "stay_min": 55,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diesen natürlichen Aussichtspunkt für ein Panorama auf die Küste und bringen Sie bequeme Schuhe für den kurzen, aber etwas unebenen Weg mit.",
+            "hu": "Mássza meg ezt a természetes kilátópontot a partmenti panorámáért, és hozzon kényelmes cipőt a rövid, de kissé egyenetlen és meredek gyalogúthoz.",
+            "ro": "Urcați pe acest punct de belvedere natural pentru o panoramă de coastă și purtați încălțăminte confortabilă pentru poteca scurtă, dar destul de abruptă.",
+            "en": "Climb to this natural viewpoint for a sweeping coastal panorama, and make sure to bring comfortable walking shoes for the short but slightly uneven path."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am historischen Rathaus von Arenys de Mar. Spazieren Sie durch die charmanten Gassen zum alten Wachturm Torre d'en Llobet. Mittags bestaunen Sie die barocke Pracht der Kirche Santa Maria. Der Nachmittag gehört der faszinierenden Mineraliensammlung des Mollfulleda-Museums. Zum Abschluss wandern Sie auf den Turó del Mal Temps und genießen die friedliche Küstenaussicht.",
+        "hu": "Kezdje a napot Arenys de Mar történelmi városházájánál. Sétáljon a hangulatos utcákon a régi Torre d'en Llobet őrtoronyhoz. Délben csodálja meg a Santa Maria templom barokk pompáját. A délután a Mollfulleda múzeum lenyűgöző ásványgyűjteményéé. Befejezésül túrázzon fel a Turó del Mal Temps dombra, és élvezze a békés partmenti kilátást a csodás tengeri naplemente fényében.",
+        "ro": "Începeți ziua la primăria istorică din Arenys de Mar. Plimbați-vă pe străzile fermecătoare până la vechiul turn de veghe Torre d'en Llobet. La prânz, admirați splendoarea barocă a Bisericii Santa Maria. După-amiaza aparține fascinantei colecții de minerale a Muzeului Mollfulleda. În cele din urmă, urcați pe Turó del Mal Temps și bucurați-vă de priveliștea pașnică a coastei luminate.",
+        "en": "Start your day at the historic town hall of Arenys de Mar. Stroll through the charming streets to the old watchtower Torre d'en Llobet. At midday, marvel at the Baroque splendor of the Santa Maria Church. The afternoon belongs to the fascinating mineral collection of the Mollfulleda Museum. Finally, hike up to the Turó del Mal Temps and enjoy the peaceful coastal view at dusk."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:43",
+      "total_km": 5.65,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museu Mollfulleda de Mineralogia",
+            "hu": "Museu Mollfulleda de Mineralogia",
+            "ro": "Museu Mollfulleda de Mineralogia",
+            "en": "Museu Mollfulleda de Mineralogia"
+          },
+          "coords": [
+            2.548235,
+            41.581612
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier eine der besten Mineraliensammlungen Kataloniens und nehmen Sie sich Zeit für die leuchtenden Fluorit-Kristalle im hinteren Ausstellungsraum.",
+            "hu": "Fedezze fel Katalónia egyik legjobb ásványgyűjteményét, és szánjon időt a hátsó kiállítótérben található, ragyogó fluorit kristályok alapos megtekintésére.",
+            "ro": "Descoperiți aici una dintre cele mai bune colecții de minerale din Catalonia și alocați timp cristalelor de fluorină strălucitoare din sala din spate.",
+            "en": "Discover one of Catalonia's best mineral collections here, and take your time admiring the brightly colored fluorite crystals in the back exhibition room."
+          }
+        },
+        {
+          "name": {
+            "de": "Església de Santa Maria",
+            "hu": "Església de Santa Maria",
+            "ro": "Església de Santa Maria",
+            "en": "Església de Santa Maria"
+          },
+          "coords": [
+            2.549268,
+            41.580603
+          ],
+          "category": "religious",
+          "arrive_at": "10:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Treten Sie ein in diese prachtvolle Barockkirche mit ihrem beeindruckenden Altarbild, aber kleiden Sie sich respektvoll, um die ruhige Atmosphäre zu wahren.",
+            "hu": "Lépjen be ebbe a csodálatos barokk templomba, amely lenyűgöző oltárképpel büszkélkedhet, de öltözzön tisztelettudóan a békés légkör fenntartása érdekében.",
+            "ro": "Pășiți în această magnifică biserică barocă cu un altar impresionant, dar asigurați-vă că sunteți îmbrăcați respectuos pentru a menține o atmosferă calmă.",
+            "en": "Step inside this magnificent Baroque church featuring a stunning altarpiece, but be sure to dress respectfully to maintain the peaceful religious atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell de Can Jalpí",
+            "hu": "Castell de Can Jalpí",
+            "ro": "Castell de Can Jalpí",
+            "en": "Castell de Can Jalpí"
+          },
+          "coords": [
+            2.539897,
+            41.59922
+          ],
+          "category": "castle",
+          "arrive_at": "11:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Dieses malerische Schloss besticht durch sein romantisches Äußeres, also spazieren Sie gemütlich durch die Gärten und genießen Sie die ruhige Umgebung.",
+            "hu": "Ez a festői kastély romantikus külsejével hódít, ezért tegyen egy kényelmes sétát a kertekben, és élvezze a varázslatos, nyugodt természeti környezetet.",
+            "ro": "Acest castel pitoresc captivează prin exteriorul său romantic, așa că faceți o plimbare pe îndelete prin grădini pentru a vă bucura de peisajul liniștit.",
+            "en": "This picturesque castle captivates with its romantic exterior, so take a leisurely stroll through the surrounding gardens to fully enjoy the tranquil setting."
+          }
+        },
+        {
+          "name": {
+            "de": "Far de Can Jalpí",
+            "hu": "Far de Can Jalpí",
+            "ro": "Far de Can Jalpí",
+            "en": "Far de Can Jalpí"
+          },
+          "coords": [
+            2.539351,
+            41.600251
+          ],
+          "category": "natural",
+          "arrive_at": "13:07",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Dieser kleine dekorative Leuchtturm inmitten der Natur ist ein charmantes Fotomotiv, weshalb Sie den kleinen See umrunden sollten, um den besten Winkel zu finden.",
+            "hu": "Ez a természet lágyán fekvő apró, dekoratív világítótorony bájos fotótéma, ezért sétálja körbe a kis tavat, hogy megtalálja a legideálisabb szöget.",
+            "ro": "Acest mic far decorativ înconjurat de natură este un subiect foto fermecător, așa că ocoliți lacul de dimensiuni reduse pentru a găsi cel mai bun unghi.",
+            "en": "This small decorative lighthouse surrounded by nature makes a charming photo subject, so walk around the adjacent little lake to find the absolute best angle."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre d'en Llobet",
+            "hu": "Torre d'en Llobet",
+            "ro": "Torre d'en Llobet",
+            "en": "Torre d'en Llobet"
+          },
+          "coords": [
+            2.549066,
+            41.578494
+          ],
+          "category": "tower",
+          "arrive_at": "13:48",
+          "stay_min": 55,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Dieser alte Wachturm bot Schutz vor Piraten, weshalb Sie unbedingt nach oben schauen sollten, um die architektonischen Details der Schießscharten zu sehen.",
+            "hu": "Ez az ősi őrtorony védelmet nyújtott a kalózok ellen, ezért mindenképpen pillantson fel, hogy megfigyelhesse a lőrések építészeti részleteit kívülről.",
+            "ro": "Acest turn de veghe oferea protecție împotriva piraților, așa că uitați-vă cu atenție la detalii pentru a observa crenelurile din exteriorul fortificat.",
+            "en": "This ancient watchtower provided protection from pirates, so be sure to look up to observe the architectural details of the arrow slits from the outside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet kulturell im Mineralienmuseum. Danach fahren Sie kurz zur beeindruckenden Kirche Santa Maria. Mittags radeln Sie aus der Stadt hinaus zum romantischen Castell de Can Jalpí und entspannen in den Gärten. Der Nachmittag führt Sie zum malerischen, kleinen Leuchtturm von Can Jalpí. Zum Sonnenuntergang kehren Sie zurück und betrachten den alten Wachturm Torre d'en Llobet.",
+        "hu": "Kerékpártúrája kulturálisan indul az ásványmúzeumban. Ezután röviden átteker a Santa Maria templomhoz. Délben kilovagol a városból a romantikus Castell de Can Jalpí kastélyhoz, és pihen a kertekben. A délután a festői, kis Can Jalpí világítótoronyhoz vezeti. Naplementekor visszatér a központba, és megtekinti a történelmi Torre d'en Llobet őrtornyot a kellemes esti levegőben.",
+        "ro": "Turul cu bicicleta începe la muzeul de minerale. Apoi mergeți scurt spre impresionanta Biserică Santa Maria. La prânz, pedalați în afara orașului până la romanticul Castell de Can Jalpí. După-amiaza vă duce la farul pitoresc și mic din Can Jalpí, înconjurat de natură. La apus, vă întoarceți în centru și priviți vechiul turn de veghe Torre d'en Llobet.",
+        "en": "Your bike tour starts culturally at the mineral museum. Then you ride briefly to the impressive Santa Maria Church. At midday, pedal out of town to the romantic Castell de Can Jalpí and relax in the gardens. The afternoon takes you to the picturesque, small Can Jalpí lighthouse. At sunset, return to the center and view the ancient Torre d'en Llobet watchtower."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:22",
+      "total_km": 6.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Castell de Can Jalpí",
+            "hu": "Castell de Can Jalpí",
+            "ro": "Castell de Can Jalpí",
+            "en": "Castell de Can Jalpí"
+          },
+          "coords": [
+            2.539897,
+            41.59922
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Dieses malerische Schloss besticht durch sein romantisches Äußeres, also spazieren Sie gemütlich durch die Gärten und genießen Sie die ruhige Umgebung.",
+            "hu": "Ez a festői kastély romantikus külsejével hódít, ezért tegyen egy kényelmes sétát a kertekben, és élvezze a varázslatos, nyugodt természeti környezetet.",
+            "ro": "Acest castel pitoresc captivează prin exteriorul său romantic, așa că faceți o plimbare pe îndelete prin grădini pentru a vă bucura de peisajul liniștit.",
+            "en": "This picturesque castle captivates with its romantic exterior, so take a leisurely stroll through the surrounding gardens to fully enjoy the tranquil setting."
+          }
+        },
+        {
+          "name": {
+            "de": "Església de Santa Maria",
+            "hu": "Església de Santa Maria",
+            "ro": "Església de Santa Maria",
+            "en": "Església de Santa Maria"
+          },
+          "coords": [
+            2.549268,
+            41.580603
+          ],
+          "category": "religious",
+          "arrive_at": "10:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Treten Sie ein in diese prachtvolle Barockkirche mit ihrem beeindruckenden Altarbild, aber kleiden Sie sich respektvoll, um die ruhige Atmosphäre zu wahren.",
+            "hu": "Lépjen be ebbe a csodálatos barokk templomba, amely lenyűgöző oltárképpel büszkélkedhet, de öltözzön tisztelettudóan a békés légkör fenntartása érdekében.",
+            "ro": "Pășiți în această magnifică biserică barocă cu un altar impresionant, dar asigurați-vă că sunteți îmbrăcați respectuos pentru a menține o atmosferă calmă.",
+            "en": "Step inside this magnificent Baroque church featuring a stunning altarpiece, but be sure to dress respectfully to maintain the peaceful religious atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Turó del Mal Temps",
+            "hu": "Turó del Mal Temps",
+            "ro": "Turó del Mal Temps",
+            "en": "Turó del Mal Temps"
+          },
+          "coords": [
+            2.556,
+            41.581168
+          ],
+          "category": "natural",
+          "arrive_at": "11:18",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diesen natürlichen Aussichtspunkt für ein Panorama auf die Küste und bringen Sie bequeme Schuhe für den kurzen, aber etwas unebenen Weg mit.",
+            "hu": "Mássza meg ezt a természetes kilátópontot a partmenti panorámáért, és hozzon kényelmes cipőt a rövid, de kissé egyenetlen és meredek gyalogúthoz.",
+            "ro": "Urcați pe acest punct de belvedere natural pentru o panoramă de coastă și purtați încălțăminte confortabilă pentru poteca scurtă, dar destul de abruptă.",
+            "en": "Climb to this natural viewpoint for a sweeping coastal panorama, and make sure to bring comfortable walking shoes for the short but slightly uneven path."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre dels Encantats",
+            "hu": "Torre dels Encantats",
+            "ro": "Torre dels Encantats",
+            "en": "Torre dels Encantats"
+          },
+          "coords": [
+            2.530317,
+            41.571793
+          ],
+          "category": "castle",
+          "arrive_at": "11:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Die Ruinen dieser historischen Burg thronen über der Landschaft; tragen Sie festes Schuhwerk, da der Zugangsweg steinig und teilweise etwas überwuchert ist.",
+            "hu": "Ennek a történelmi várnak a romjai a táj fölé magasodnak; viseljen masszív lábbelit, mivel a hozzáférési útvonal sziklás és helyenként meglehetősen benőtt.",
+            "ro": "Ruinele acestui castel istoric domină peisajul; purtați încălțăminte robustă, deoarece calea de acces este stâncoasă și pe alocuri acoperită de vegetație.",
+            "en": "The ruins of this historic castle tower over the landscape; wear sturdy footwear as the access path can be quite rocky and somewhat overgrown in certain areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador 11 de setembre",
+            "hu": "Mirador 11 de setembre",
+            "ro": "Mirador 11 de setembre",
+            "en": "Mirador 11 de setembre"
+          },
+          "coords": [
+            2.528125,
+            41.571079
+          ],
+          "category": "natural",
+          "arrive_at": "13:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Blick auf das Mittelmeer von diesem ruhigen Platz und bringen Sie eine leichte Jacke mit, da der Seewind hier oft etwas kühler weht.",
+            "hu": "Élvezze a Földközi-tengerre nyíló széles kilátást erről a csendes helyről, és hozzon magával egy könnyű kabátot, mivel a tengeri szél itt gyakran hűvösebb.",
+            "ro": "Bucurați-vă de vederea vastă spre Marea Mediterană din acest loc liniștit și aduceți o jachetă ușoară, deoarece briza mării bate adesea mai rece aici.",
+            "en": "Enjoy the sweeping view of the Mediterranean Sea from this quiet spot, and bring a light jacket as the sea breeze can often blow a little bit cooler up here."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de la Musclera",
+            "hu": "Platja de la Musclera",
+            "ro": "Platja de la Musclera",
+            "en": "Platja de la Musclera"
+          },
+          "coords": [
+            2.533855,
+            41.570924
+          ],
+          "category": "recreational",
+          "arrive_at": "13:37",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Dieser schöne Sandstrand lädt zum Entspannen ein, daher sollten Sie früh am Nachmittag ankommen, um sich den besten Platz in der Nähe des Wassers zu sichern.",
+            "hu": "Ez a gyönyörű homokos strand pihenésre csábít, ezért érdemes kora délután érkezni, hogy biztosítsa a legjobb és legkényelmesebb helyet a víz közvetlen közelében.",
+            "ro": "Această plajă frumoasă de nisip vă invită la relaxare, așa că ar trebui să ajungeți la începutul după-amiezii pentru a vă asigura cel mai bun loc lângă apă.",
+            "en": "This beautiful sandy beach invites you to relax, so you should arrive in the early afternoon to secure the very best spot right near the refreshing water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt am majestätischen Castell de Can Jalpí am Stadtrand. Fahren Sie dann ins Zentrum zur prächtigen Kirche Santa Maria. Mittags genießen Sie vom Turó del Mal Temps aus erste Küstenblicke. Am Nachmittag erkunden Sie die faszinierenden Ruinen der Torre dels Encantats. Den Tag lassen Sie entspannt ausklingen, erst am Mirador 11 de setembre und dann am schönen Musclera-Strand.",
+        "hu": "A nap a fenséges Castell de Can Jalpí-nál kezdődik a város szélén. Ezután vezessen a központba a pompás Santa Maria templomhoz. Délben a Turó del Mal Temps-ről élvezheti a part menti kilátást. Délután felfedezi a Torre dels Encantats lenyűgöző romjait. A napot nyugodtan zárja le a Mirador 11 de setembre kilátónál, majd végül a gyönyörű Musclera homokos tengerparton.",
+        "ro": "Ziua începe la maiestuosul Castell de Can Jalpí de la periferie. Apoi conduceți în centru către magnifica Biserică Santa Maria. La prânz, bucurați-vă de primele priveliști de coastă de pe Turó del Mal Temps. După-amiaza, explorați ruinele fascinante de la Torre dels Encantats. Vă încheiați ziua relaxant, la Mirador 11 de setembre și apoi pe frumoasa plajă Musclera.",
+        "en": "The day begins at the majestic Castell de Can Jalpí on the outskirts. Then drive to the center to the magnificent Santa Maria Church. At midday, enjoy the first coastal views from the Turó del Mal Temps. In the afternoon, explore the fascinating ruins of the Torre dels Encantats. End your day relaxing at the Mirador 11 de setembre and then on the beautiful Musclera beach."
+      }
+    }
+  }
+}

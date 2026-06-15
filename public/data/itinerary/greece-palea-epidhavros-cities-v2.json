@@ -1,0 +1,497 @@
+{
+  "city_id": "greece-palea-epidhavros-cities-v2",
+  "anchor": {
+    "name": "Palea Epidhavros",
+    "coords": [
+      23.15564,
+      37.63773
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:16",
+      "total_km": 2.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ruinen des Artemis-Tempels",
+            "hu": "Artemisz-templom romjai",
+            "ro": "Ruinele Templului lui Artemis",
+            "en": "Ereipia Naou Artemidos"
+          },
+          "coords": [
+            23.150324,
+            37.636441
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die antiken Ruinen des Artemis-Tempels, der einen faszinierenden Einblick in die Religion bietet, aber tragen Sie festes Schuhwerk für den unebenen Boden.",
+            "hu": "Fedezze fel az Artemisz-templom ősi romjait, amelyek lenyűgöző bepillantást nyújtanak a vallásba, de az egyenetlen talaj miatt mindenképpen viseljen masszív cipőt.",
+            "ro": "Descoperiți ruinele antice ale Templului lui Artemis, o incursiune fascinantă în religia greacă, dar nu uitați să purtați încălțăminte adecvată pentru terenul accidentat.",
+            "en": "Discover the ancient ruins of the Temple of Artemis, a fascinating glimpse into classical Greek religion, but remember to wear sturdy shoes for the uneven ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Mykenische Nekropole",
+            "hu": "Mükénéi temető",
+            "ro": "Cimitirul Micenian",
+            "en": "Mycenaean Cemetery of the Ancient City of Epidaurus"
+          },
+          "coords": [
+            23.152637,
+            37.63515
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierende mykenische Nekropole, um frühe Bestattungsriten zu verstehen, und bringen Sie Wasser mit, da es hier tagsüber kaum natürlichen Schatten gibt.",
+            "hu": "Fedezze fel a mükénéi temetőt a korai temetkezési szokások megismeréséhez, és hozzon magával sok vizet, mivel a területen napközben szinte egyáltalán nincs árnyék.",
+            "ro": "Explorați fascinantul cimitir micenian pentru a înțelege obiceiurile funerare timpurii și aduceți multă apă, deoarece situl oferă foarte puțină umbră naturală ziua.",
+            "en": "Explore the fascinating Mycenaean Cemetery to understand early burial customs, and bring plenty of water as the site offers very little natural shade during the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Kleines Theater von Epidauros",
+            "hu": "Kis Színház",
+            "ro": "Micul Teatru din Epidaur",
+            "en": "Mikro Theatro Arkhaias Epidaurou"
+          },
+          "coords": [
+            23.160244,
+            37.63345
+          ],
+          "category": "historical",
+          "arrive_at": "12:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie das gut erhaltene Kleine Theater von Epidauros mit seinem herrlichen Meerblick und kommen Sie am frühen Nachmittag, um das beste Licht für Fotos zu haben.",
+            "hu": "Csodálja meg a jól karbantartott Kis Színházat és a lenyűgöző tengeri kilátást, majd próbáljon kora délután érkezni, hogy a legjobb fényviszonyok mellett fotózhasson.",
+            "ro": "Admirați Micul Teatru din Epidaur, foarte bine conservat, cu vederi uimitoare la mare, și vizitați-l la începutul după-amiezii pentru a prinde cea mai bună lumină.",
+            "en": "Marvel at the well-preserved Little Theatre of Ancient Epidaurus with its stunning sea views, and visit early in the afternoon to capture the best lighting for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Akropolis des antiken Epidauros",
+            "hu": "Ősi Akropolisz",
+            "ro": "Acropola Anticului Epidaur",
+            "en": "Acropolis of Ancient Epidavros"
+          },
+          "coords": [
+            23.161671,
+            37.632992
+          ],
+          "category": "landmark",
+          "arrive_at": "13:29",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Steigen Sie zur Akropolis des antiken Epidauros hinauf, um historische Überreste und einen Panoramablick zu genießen, aber achten Sie auf Ihre Schritte auf den steilen Wegen.",
+            "hu": "Másszon fel az ősi Akropoliszhoz a történelmi maradványok és a tengerparti panoráma megtekintéséért, de nagyon vigyázzon a lépéseire a meredek, sziklás ösvényeken.",
+            "ro": "Urcați la Acropola anticului Epidaur pentru a vedea vestigiile și o panoramă superbă a coastei, dar aveți grijă la fiecare pas pe potecile stâncoase și abrupte.",
+            "en": "Climb up to the Acropolis of Ancient Epidavros to see the historical remnants and panoramic coastal vistas, but watch your step on the steep, rocky trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Versunkene Stadt von Epidauros",
+            "hu": "Epidavrosz Elsüllyedt Városa",
+            "ro": "Orașul Scufundat din Epidaur",
+            "en": "Sunken city of Epidaurus"
+          },
+          "coords": [
+            23.158859,
+            37.626203
+          ],
+          "category": "historical",
+          "arrive_at": "14:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schnorcheln Sie über den gut erhaltenen Fundamenten der Versunkenen Stadt in Ufernähe und vergessen Sie nicht eine wasserdichte Kamera für tolle Unterwasseraufnahmen.",
+            "hu": "Sznorkelezzen az elsüllyedt város hihetetlenül épen maradt alapjai felett a part közelében, és ne felejtsen el vízálló kamerát csomagolni a víz alatti romokhoz.",
+            "ro": "Faceți snorkeling deasupra fundațiilor incredibil de bine conservate ale Orașului Scufundat lângă țărm și luați o cameră subacvatică pentru a imortaliza ruinele.",
+            "en": "Snorkel over the incredibly preserved foundations of the Sunken City right near the shore, and don't forget to pack a waterproof camera to capture the underwater ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Gliati Strandbereich",
+            "hu": "Gliati strand",
+            "ro": "Zona de coastă Gliati",
+            "en": "Gliati"
+          },
+          "coords": [
+            23.156536,
+            37.6252
+          ],
+          "category": "recreational",
+          "arrive_at": "15:31",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in der ruhigen Gegend von Gliati nach einem Tag voller Erkundungen und holen Sie sich einen Snack, bevor Sie Ihr Handtuch auf dem Sand ausbreiten.",
+            "hu": "Pihenjen a békés Gliati területén a történelmi felfedezések után, és vegyen egy könnyű harapnivalót a helyi árusoktól, mielőtt kiterítené a törölközőjét a homokra.",
+            "ro": "Relaxați-vă în zona liniștită Gliati după o zi de explorare istorică și cumpărați o gustare ușoară de la un vânzător local înainte de a vă așeza prosopul pe nisip.",
+            "en": "Relax at the peaceful Gliati area after a day of historical exploration, and grab a light snack from a nearby local vendor before laying out your towel on the sand."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt mit einem tiefen Eintauchen in die antike Geschichte bei der Erkundung des Artemis-Tempels und der mykenischen Nekropole.\n\nMittags werden Sie die unglaubliche Akustik des Kleinen Theaters bewundern, einem antiken Meisterwerk mit Blick auf das Meer.\n\nDer Nachmittag bietet Ihnen eine Wanderung zur Akropolis und Schnorcheln über der atemberaubenden Versunkenen Stadt.\n\nWenn der Abend naht, entspannen Sie sich am friedlichen Gliati und genießen Sie die sanfte Meeresbrise beim Sonnenuntergang.",
+        "hu": "A délelőtt a régió ókori történelmének felfedezésével kezdődik, megtekintve az Artemisz-templomot és a mükénéi temetőt.\n\nDélben a Kis Színház páratlan akusztikáját csodálhatja meg, amely az ókor mesterműveként a tengerre néz.\n\nA délután az Akropolisz panorámájával folytatódik, majd sznorkelezéssel a hihetetlen Elsüllyedt Város felett.\n\nAhogy közeledik az este, pihenjen a békés Gliati partján, élvezve a lágy tengeri szellőt, miközben a nap lassan lebukik.",
+        "ro": "Dimineața începe cu o incursiune profundă în istoria antică, explorând Templul lui Artemis și Cimitirul Micenian.\n\nLa prânz, veți admira acustica Micului Teatru, o adevărată capodoperă a antichității cu vedere la marea albastră.\n\nDupă-amiaza continuă cu o plimbare spre Acropolă pentru panorame uimitoare, urmată de snorkeling peste uimitorul Oraș Scufundat.\n\nSpre seară, relaxați-vă pe țărmul pașnic de la Gliati, bucurându-vă de briza blândă a mării la apusul soarelui.",
+        "en": "Your morning begins with a deep dive into the region's ancient history, exploring the Temple of Artemis and the Mycenaean Cemetery.\n\nBy midday, you will marvel at the acoustics of the Little Theatre, a true masterpiece of antiquity overlooking the sea.\n\nThe afternoon continues with a walk up to the Acropolis for stunning panoramas, followed by snorkeling over the incredible Sunken City.\n\nAs the evening approaches, relax and unwind at the peaceful Gliati, enjoying the gentle sea breeze as the day gently fades."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:06",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Strand Panagia Polemarkhos",
+            "hu": "Panagia Polemarkhos strand",
+            "ro": "Plaja Panagia Polemarkhos",
+            "en": "Paralia \"Panagia Polemarkhos\""
+          },
+          "coords": [
+            23.163621,
+            37.655192
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie das kristallklare Wasser am Strand Panagia Polemarkhos, aber kommen Sie früh, da dieser abgeschiedene Kieselstrand über keine organisierten Anlagen verfügt.",
+            "hu": "Élvezze a Paralia Panagia Polemarkhos kristálytiszta vizét és buja környezetét, de érkezzen korán, mert ez az eldugott kavicsos strand nem rendelkezik kiépített mosdókkal.",
+            "ro": "Bucurați-vă de apele cristaline de la Paralia Panagia Polemarkhos, dar ajungeți devreme, deoarece această plajă frumoasă și izolată cu pietriș nu are facilități.",
+            "en": "Enjoy the pristine waters and lush surroundings of Paralia Panagia Polemarkhos, but arrive early as this secluded, beautiful pebble beach lacks organized facilities."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalamaki",
+            "hu": "Kalamaki strand",
+            "ro": "Plaja Kalamaki",
+            "en": "Kalamaki"
+          },
+          "coords": [
+            23.162054,
+            37.641777
+          ],
+          "category": "recreational",
+          "arrive_at": "10:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie ein erfrischendes Bad im klaren blauen Wasser des Kalamaki-Strandes und bringen Sie am besten einen eigenen Regenschirm mit, da der natürliche Schatten fehlt.",
+            "hu": "Ússzon egy frissítőt a Kalamaki strand tiszta kék vizében, és fontolja meg saját napernyő hozatalát, mivel a természetes árnyék a déli órákban meglehetősen kevés.",
+            "ro": "Faceți o baie răcoritoare în apele albastre și limpezi ale plajei Kalamaki și luați în considerare să aduceți propria umbrelă, deoarece umbra naturală este rară la prânz.",
+            "en": "Take a refreshing swim in the clear blue waters of Kalamaki beach, and consider bringing your own umbrella since the natural shade can be quite limited during midday."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinen des Artemis-Tempels",
+            "hu": "Artemisz-templom romjai",
+            "ro": "Ruinele Templului lui Artemis",
+            "en": "Ereipia Naou Artemidos"
+          },
+          "coords": [
+            23.150324,
+            37.636441
+          ],
+          "category": "historical",
+          "arrive_at": "11:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die antiken Ruinen des Artemis-Tempels, der einen faszinierenden Einblick in die Religion bietet, aber tragen Sie festes Schuhwerk für den unebenen Boden.",
+            "hu": "Fedezze fel az Artemisz-templom ősi romjait, amelyek lenyűgöző bepillantást nyújtanak a vallásba, de az egyenetlen talaj miatt mindenképpen viseljen masszív cipőt.",
+            "ro": "Descoperiți ruinele antice ale Templului lui Artemis, o incursiune fascinantă în religia greacă, dar nu uitați să purtați încălțăminte adecvată pentru terenul accidentat.",
+            "en": "Discover the ancient ruins of the Temple of Artemis, a fascinating glimpse into classical Greek religion, but remember to wear sturdy shoes for the uneven ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Kleines Theater von Epidauros",
+            "hu": "Kis Színház",
+            "ro": "Micul Teatru din Epidaur",
+            "en": "Mikro Theatro Arkhaias Epidaurou"
+          },
+          "coords": [
+            23.160244,
+            37.63345
+          ],
+          "category": "historical",
+          "arrive_at": "13:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das gut erhaltene Kleine Theater von Epidauros mit seinem herrlichen Meerblick und kommen Sie am frühen Nachmittag, um das beste Licht für Fotos zu haben.",
+            "hu": "Csodálja meg a jól karbantartott Kis Színházat és a lenyűgöző tengeri kilátást, majd próbáljon kora délután érkezni, hogy a legjobb fényviszonyok mellett fotózhasson.",
+            "ro": "Admirați Micul Teatru din Epidaur, foarte bine conservat, cu vederi uimitoare la mare, și vizitați-l la începutul după-amiezii pentru a prinde cea mai bună lumină.",
+            "en": "Marvel at the well-preserved Little Theatre of Ancient Epidaurus with its stunning sea views, and visit early in the afternoon to capture the best lighting for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Versunkene Stadt",
+            "hu": "Elsüllyedt Város",
+            "ro": "Orașul Scufundat",
+            "en": "Sunken City"
+          },
+          "coords": [
+            23.157774,
+            37.625798
+          ],
+          "category": "landmark",
+          "arrive_at": "14:47",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Schnorcheln Sie über den gut erhaltenen Fundamenten der Versunkenen Stadt in Ufernähe und vergessen Sie nicht eine wasserdichte Kamera für tolle Unterwasseraufnahmen.",
+            "hu": "Sznorkelezzen az elsüllyedt város hihetetlenül épen maradt alapjai felett a part közelében, és ne felejtsen el vízálló kamerát csomagolni a víz alatti romokhoz.",
+            "ro": "Faceți snorkeling deasupra fundațiilor incredibil de bine conservate ale Orașului Scufundat lângă țărm și luați o cameră subacvatică pentru a imortaliza ruinele.",
+            "en": "Snorkel over the incredibly preserved foundations of the Sunken City right near the shore, and don't forget to pack a waterproof camera to capture the underwater ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Vagionia Strand",
+            "hu": "Vagionia strand",
+            "ro": "Plaja Vagionia",
+            "en": "Vagionia beach"
+          },
+          "coords": [
+            23.159277,
+            37.641218
+          ],
+          "category": "recreational",
+          "arrive_at": "15:21",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den ruhigen Ufern des Vagionia-Strandes und halten Sie Ihre Badeschuhe bereit, um sicher über die kleinen Steine am Wasser zu gehen.",
+            "hu": "Pihenjen meg a Vagionia strand békés partjain a mediterrán napsütésben, és tartsa kéznél a vízi cipőjét, hogy könnyedén átsétálhasson a víz szélén lévő köveken.",
+            "ro": "Relaxați-vă pe malurile liniștite ale plajei Vagionia sub soarele mediteranean și păstrați încălțămintea de apă la îndemână pentru a merge ușor pe pietrele mici.",
+            "en": "Unwind on the serene shores of Vagionia beach while enjoying the Mediterranean sun, and keep your water shoes handy to easily navigate the small stones at the water's edge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einer Fahrt zu den nördlichen Stränden und genießen Sie die ruhige Atmosphäre an der Panagia Polemarkhos.\n\nGegen Mittag radeln Sie nach Kalamaki und zum historischen Artemis-Tempel, wo sich Küstenschönheit und Ruinen vereinen.\n\nAm Nachmittag erreichen Sie das prächtige Kleine Theater und erhaschen einen Blick auf die Versunkene Stadt.\n\nBeenden Sie Ihr Radabenteuer mit einem entspannten Abend am Strand von Vagionia, wo ruhige Wellen den Tag ausklingen lassen.",
+        "hu": "Kezdje a reggelt a festői északi strandok felé kerekezve, élvezve a Panagia Polemarkhos békés és csendes atmoszféráját.\n\nDél körül tekerjen Kalamaki és a történelmi Artemisz-templom felé, tökéletesen ötvözve a tengerparti szépséget a romokkal.\n\nDélután elérheti a csodálatos Kis Színházat, és bepillantást nyerhet a víz alatti történelembe az Elsüllyedt Városnál.\n\nZárja kerékpáros kalandját a Vagionia strand nyugodt estéjével, ahol a lágy hullámok tökéletes lezárást nyújtanak.",
+        "ro": "Începeți dimineața cu o plimbare spre plajele din nord, bucurându-vă de atmosfera liniștită de la Panagia Polemarkhos.\n\nÎn jurul prânzului, pedalați spre Kalamaki și Templul istoric al lui Artemis, îmbinând frumusețea coastei cu ruinele.\n\nDupă-amiaza, veți ajunge la Micul Teatru și veți arunca o privire asupra istoriei scufundate de la Orașul Scufundat.\n\nÎncheiați aventura pe bicicletă cu o seară relaxantă la plaja Vagionia, unde valurile calme oferă un final perfect.",
+        "en": "Start your morning with a ride to the pristine northern beaches, enjoying the serene atmosphere at Panagia Polemarkhos.\n\nAround midday, pedal towards Kalamaki and the historic Temple of Artemis, perfectly blending coastal beauty with ancient ruins.\n\nIn the afternoon, you will reach the magnificent Little Theatre and catch a glimpse of the submerged history at the Sunken City.\n\nConclude your cycling adventure with a relaxing evening at Vagionia beach, where the calm waves offer a perfect end to the day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:09",
+      "total_km": 6.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ruinen des Artemis-Tempels",
+            "hu": "Artemisz-templom romjai",
+            "ro": "Ruinele Templului lui Artemis",
+            "en": "Ereipia Naou Artemidos"
+          },
+          "coords": [
+            23.150324,
+            37.636441
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die antiken Ruinen des Artemis-Tempels, der einen faszinierenden Einblick in die Religion bietet, aber tragen Sie festes Schuhwerk für den unebenen Boden.",
+            "hu": "Fedezze fel az Artemisz-templom ősi romjait, amelyek lenyűgöző bepillantást nyújtanak a vallásba, de az egyenetlen talaj miatt mindenképpen viseljen masszív cipőt.",
+            "ro": "Descoperiți ruinele antice ale Templului lui Artemis, o incursiune fascinantă în religia greacă, dar nu uitați să purtați încălțăminte adecvată pentru terenul accidentat.",
+            "en": "Discover the ancient ruins of the Temple of Artemis, a fascinating glimpse into classical Greek religion, but remember to wear sturdy shoes for the uneven ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Mykenische Nekropole",
+            "hu": "Mükénéi temető",
+            "ro": "Cimitirul Micenian",
+            "en": "Mycenaean Cemetery of the Ancient City of Epidaurus"
+          },
+          "coords": [
+            23.152637,
+            37.63515
+          ],
+          "category": "historical",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierende mykenische Nekropole, um frühe Bestattungsriten zu verstehen, und bringen Sie Wasser mit, da es hier tagsüber kaum natürlichen Schatten gibt.",
+            "hu": "Fedezze fel a mükénéi temetőt a korai temetkezési szokások megismeréséhez, és hozzon magával sok vizet, mivel a területen napközben szinte egyáltalán nincs árnyék.",
+            "ro": "Explorați fascinantul cimitir micenian pentru a înțelege obiceiurile funerare timpurii și aduceți multă apă, deoarece situl oferă foarte puțină umbră naturală ziua.",
+            "en": "Explore the fascinating Mycenaean Cemetery to understand early burial customs, and bring plenty of water as the site offers very little natural shade during the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Panagia Polemarkhos",
+            "hu": "Panagia Polemarkhos strand",
+            "ro": "Plaja Panagia Polemarkhos",
+            "en": "Paralia \"Panagia Polemarkhos\""
+          },
+          "coords": [
+            23.163621,
+            37.655192
+          ],
+          "category": "recreational",
+          "arrive_at": "11:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Genießen Sie das kristallklare Wasser am Strand Panagia Polemarkhos, aber kommen Sie früh, da dieser abgeschiedene Kieselstrand über keine organisierten Anlagen verfügt.",
+            "hu": "Élvezze a Paralia Panagia Polemarkhos kristálytiszta vizét és buja környezetét, de érkezzen korán, mert ez az eldugott kavicsos strand nem rendelkezik kiépített mosdókkal.",
+            "ro": "Bucurați-vă de apele cristaline de la Paralia Panagia Polemarkhos, dar ajungeți devreme, deoarece această plajă frumoasă și izolată cu pietriș nu are facilități.",
+            "en": "Enjoy the pristine waters and lush surroundings of Paralia Panagia Polemarkhos, but arrive early as this secluded, beautiful pebble beach lacks organized facilities."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalamaki",
+            "hu": "Kalamaki strand",
+            "ro": "Plaja Kalamaki",
+            "en": "Kalamaki"
+          },
+          "coords": [
+            23.162054,
+            37.641777
+          ],
+          "category": "recreational",
+          "arrive_at": "13:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie ein erfrischendes Bad im klaren blauen Wasser des Kalamaki-Strandes und bringen Sie am besten einen eigenen Regenschirm mit, da der natürliche Schatten fehlt.",
+            "hu": "Ússzon egy frissítőt a Kalamaki strand tiszta kék vizében, és fontolja meg saját napernyő hozatalát, mivel a természetes árnyék a déli órákban meglehetősen kevés.",
+            "ro": "Faceți o baie răcoritoare în apele albastre și limpezi ale plajei Kalamaki și luați în considerare să aduceți propria umbrelă, deoarece umbra naturală este rară la prânz.",
+            "en": "Take a refreshing swim in the clear blue waters of Kalamaki beach, and consider bringing your own umbrella since the natural shade can be quite limited during midday."
+          }
+        },
+        {
+          "name": {
+            "de": "Kleines Theater von Epidauros",
+            "hu": "Kis Színház",
+            "ro": "Micul Teatru din Epidaur",
+            "en": "Mikro Theatro Arkhaias Epidaurou"
+          },
+          "coords": [
+            23.160244,
+            37.63345
+          ],
+          "category": "historical",
+          "arrive_at": "14:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie das gut erhaltene Kleine Theater von Epidauros mit seinem herrlichen Meerblick und kommen Sie am frühen Nachmittag, um das beste Licht für Fotos zu haben.",
+            "hu": "Csodálja meg a jól karbantartott Kis Színházat és a lenyűgöző tengeri kilátást, majd próbáljon kora délután érkezni, hogy a legjobb fényviszonyok mellett fotózhasson.",
+            "ro": "Admirați Micul Teatru din Epidaur, foarte bine conservat, cu vederi uimitoare la mare, și vizitați-l la începutul după-amiezii pentru a prinde cea mai bună lumină.",
+            "en": "Marvel at the well-preserved Little Theatre of Ancient Epidaurus with its stunning sea views, and visit early in the afternoon to capture the best lighting for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Akropolis des antiken Epidauros",
+            "hu": "Ősi Akropolisz",
+            "ro": "Acropola Anticului Epidaur",
+            "en": "Acropolis of Ancient Epidavros"
+          },
+          "coords": [
+            23.161671,
+            37.632992
+          ],
+          "category": "landmark",
+          "arrive_at": "15:52",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Steigen Sie zur Akropolis des antiken Epidauros hinauf, um historische Überreste und einen Panoramablick zu genießen, aber achten Sie auf Ihre Schritte auf den steilen Wegen.",
+            "hu": "Másszon fel az ősi Akropoliszhoz a történelmi maradványok és a tengerparti panoráma megtekintéséért, de nagyon vigyázzon a lépéseire a meredek, sziklás ösvényeken.",
+            "ro": "Urcați la Acropola anticului Epidaur pentru a vedea vestigiile și o panoramă superbă a coastei, dar aveți grijă la fiecare pas pe potecile stâncoase și abrupte.",
+            "en": "Climb up to the Acropolis of Ancient Epidavros to see the historical remnants and panoramic coastal vistas, but watch your step on the steep, rocky trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Versunkene Stadt von Epidauros",
+            "hu": "Epidavrosz Elsüllyedt Városa",
+            "ro": "Orașul Scufundat din Epidaur",
+            "en": "Sunken city of Epidaurus"
+          },
+          "coords": [
+            23.158859,
+            37.626203
+          ],
+          "category": "historical",
+          "arrive_at": "16:19",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schnorcheln Sie über den gut erhaltenen Fundamenten der Versunkenen Stadt in Ufernähe und vergessen Sie nicht eine wasserdichte Kamera für tolle Unterwasseraufnahmen.",
+            "hu": "Sznorkelezzen az elsüllyedt város hihetetlenül épen maradt alapjai felett a part közelében, és ne felejtsen el vízálló kamerát csomagolni a víz alatti romokhoz.",
+            "ro": "Faceți snorkeling deasupra fundațiilor incredibil de bine conservate ale Orașului Scufundat lângă țărm și luați o cameră subacvatică pentru a imortaliza ruinele.",
+            "en": "Snorkel over the incredibly preserved foundations of the Sunken City right near the shore, and don't forget to pack a waterproof camera to capture the underwater ruins."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie heute Morgen direkt in die Geschichte, indem Sie den Artemis-Tempel und die nahegelegene mykenische Nekropole besuchen.\n\nGegen Mittag fahren Sie die malerische Küste hinauf, um an der Panagia Polemarkhos und in Kalamaki an den besten Stränden zu entspannen.\n\nDer Nachmittag beinhaltet einen Halt am majestätischen Kleinen Theater und eine Erkundung der antiken Akropolis.\n\nDer Tag endet mit einem unvergesslichen Abend beim Schwimmen über den klassischen Ruinen der Versunkenen Stadt.",
+        "hu": "Autózzon egyenesen a történelembe ma reggel az Artemisz-templom és a szomszédos mükénéi temető lenyűgöző felfedezésével.\n\nDélben vezessen a festői partvidéken, hogy pihenjen a Panagia Polemarkhosnál és Kalamakinál, a legjobb helyi strandokon.\n\nA délután folyamán megáll a fenséges Kis Színháznál, mielőtt felfedezné az ősi Akropolisz magaslatait és lenyűgöző kilátását.\n\nA nap egy felejthetetlen esti úszással zárul a híres Elsüllyedt Város klasszikus víz alatti romjai felett a tengerben.",
+        "ro": "Conduceți direct în istorie în această dimineață vizitând Templul lui Artemis și cimitirul micenian învecinat, extrem de importante.\n\nLa prânz, mergeți de-a lungul coastei pitorești pentru a vă relaxa la Panagia Polemarkhos și Kalamaki, explorând plajele.\n\nDupă-amiaza include o oprire la Micul Teatru înainte de a explora înălțimile de pe coastă ale anticei Acropole.\n\nZiua se încheie cu o seară de neuitat înotând deasupra ruinelor clasice ale fascinantului Oraș Scufundat din Epidaur.",
+        "en": "Drive straight into history this morning by visiting the deeply significant Temple of Artemis and the neighboring Mycenaean Cemetery.\n\nBy midday, cruise up the scenic coastline to relax at Panagia Polemarkhos and Kalamaki, experiencing the best of the local beaches.\n\nYour afternoon features a stop at the majestic Little Theatre before exploring the coastal heights of the ancient Acropolis.\n\nThe day wraps up with an unforgettable evening swimming above the classical ruins of the Sunken City of Epidaurus."
+      }
+    }
+  }
+}

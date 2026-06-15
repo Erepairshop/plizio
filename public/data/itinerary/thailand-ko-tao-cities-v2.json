@@ -1,0 +1,474 @@
+{
+  "city_id": "thailand-ko-tao-cities-v2",
+  "anchor": {
+    "name": "Ko Tao",
+    "coords": [
+      99.838,
+      10.09
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:19",
+      "total_km": 2.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ocean Sound Yoga",
+            "hu": "Ocean Sound Jóga",
+            "ro": "Ocean Sound Yoga",
+            "en": "Ocean Sound Yoga"
+          },
+          "coords": [
+            99.82675,
+            10.068114
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einer entspannenden Yogasitzung in dieser ruhigen Umgebung, aber denken Sie daran, Ihre Matte in der Hochsaison vorab zu buchen.",
+            "hu": "Kezdje a napot egy pihentető jógaórával ebben a nyugodt környezetben, de főszezonban ne felejtse el előre lefoglalni a matracát.",
+            "ro": "Începeți ziua cu o sesiune de yoga relaxantă în acest cadru liniștit, dar nu uitați să vă rezervați salteaua în avans în sezonul de vârf.",
+            "en": "Start your day with a relaxing yoga session in this tranquil setting, but remember to book your mat in advance during the busy high season."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Thian",
+            "hu": "Ao Thian",
+            "ro": "Ao Thian",
+            "en": "Ao Thian"
+          },
+          "coords": [
+            99.833633,
+            10.063368
+          ],
+          "category": "landmark",
+          "arrive_at": "10:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den unberührten, wenig besuchten Sand dieses versteckten Juwels und bringen Sie Ihre eigene Schnorchelausrüstung mit, um das Meeresleben zu beobachten.",
+            "hu": "Élvezze ennek a rejtett gyöngyszemnek az érintetlen, csendes homokját, és mindenképpen hozzon saját sznorkelfelszerelést a tengeri élőlények megfigyeléséhez.",
+            "ro": "Bucurați-vă de nisipul virgin și neaglomerat al acestei bijuterii ascunse și asigurați-vă că aduceți propriul echipament de snorkeling pentru a vedea viața marină.",
+            "en": "Enjoy the pristine, uncrowded sands of this hidden gem, and be sure to bring your own snorkel gear to spot marine life just offshore."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Hin Ngam",
+            "hu": "Ao Hin Ngam",
+            "ro": "Ao Hin Ngam",
+            "en": "Ao Hin Ngam"
+          },
+          "coords": [
+            99.841103,
+            10.067682
+          ],
+          "category": "landmark",
+          "arrive_at": "11:54",
+          "stay_min": 60,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die wunderschönen runden Steine, die dieser Bucht ihren Namen geben, aber lassen Sie die Felsen bitte zum Schutz der Umwelt dort liegen.",
+            "hu": "Csodálja meg a gyönyörű kerek köveket, amelyekről ez az öböl a nevét kapta, de kérjük, hagyja a sziklákat a helyükön a környezet védelme érdekében.",
+            "ro": "Minunați-vă de frumoasele pietre rotunde care dau numele acestui golf, dar vă rugăm să lăsați rocile acolo unde sunt pentru a proteja mediul.",
+            "en": "Marvel at the beautiful rounded stones that give this bay its name, but please leave the rocks where they are to protect the environment."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Luek",
+            "hu": "Ao Luek",
+            "ro": "Ao Luek",
+            "en": "Ao Luek"
+          },
+          "coords": [
+            99.841088,
+            10.071068
+          ],
+          "category": "landmark",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schwimmen Sie im kristallklaren Wasser dieser tiefen Bucht und mieten Sie ein Kajak, um die malerische Küste weiter zu erkunden.",
+            "hu": "Ússzon egyet ennek a mély öbölnek a kristálytiszta vizében, és fontolja meg egy kajak bérlését a festői partszakasz felfedezéséhez.",
+            "ro": "Înotați în apele cristaline ale acestui golf adânc și pitoresc și luați în considerare închirierea unui caiac pentru a explora coasta.",
+            "en": "Swim in the crystal-clear waters of this deep, scenic bay, and consider renting a kayak from the local shop to explore the coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Cindy's Tower",
+            "hu": "Cindy Tornya",
+            "ro": "Turnul lui Cindy",
+            "en": "Cindy's Tower"
+          },
+          "coords": [
+            99.835437,
+            10.071133
+          ],
+          "category": "natural",
+          "arrive_at": "14:24",
+          "stay_min": 55,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende Aussicht von diesem natürlichen Aussichtspunkt, wobei Sie für den felsigen Aufstieg unbedingt feste Schuhe tragen sollten.",
+            "hu": "Gyönyörködjön a lenyűgöző panorámában erről a természetes kilátópontról, bár a sziklás kaptatóhoz érdemes masszív cipőt viselnie.",
+            "ro": "Admirați priveliștile panoramice de la acest punct de observație natural, deși ar trebui să purtați încălțăminte rezistentă pentru urcarea stâncoasă.",
+            "en": "Take in the panoramic southern views from this natural vantage point, though you should wear sturdy shoes for the rocky final ascent."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einer beruhigenden Yogasitzung, bevor Sie zu einer Wanderung an der südlichen Küste aufbrechen. Gegen Mittag entdecken Sie den ruhigen Sand von Ao Thian und die einzigartigen Kieselsteine von Ao Hin Ngam. Der Nachmittag lädt zu einem erfrischenden Bad in den tiefen Gewässern von Ao Luek ein. Beenden Sie Ihren Tag am Cindy's Tower mit einem atemberaubenden Blick.",
+        "hu": "Kezdje a reggelt egy megnyugtató jógaórával, mielőtt elindulna a déli parti sétára. Délben felfedezheti Ao Thian csendes homokját és Ao Hin Ngam egyedülálló kavicsos partjait. A délután egy frissítő úszásra csábít Ao Luek mély vizében. Végül fejezze be a napot a Cindy Tornyához vezető mászással, ahonnan csodálatos kilátás nyílik a dzsungelre és a tengerre.",
+        "ro": "Începeți dimineața cu o sesiune de yoga liniștitoare înainte de a porni într-o plimbare pe coasta de sud. Până la prânz, veți descoperi nisipurile liniștite din Ao Thian și țărmurile unice cu pietriș din Ao Hin Ngam. După-amiaza vă invită la o baie revigorantă în apele adânci din Ao Luek. Încheiați-vă ziua urcând la Turnul lui Cindy pentru o priveliște impresionantă asupra junglei.",
+        "en": "Start your morning with a calming yoga session before embarking on a southern coastal walk. By midday, you'll discover the quiet sands of Ao Thian and the unique pebble shores of Ao Hin Ngam. The afternoon invites a refreshing swim in the deep waters of Ao Luek. Finally, end your day climbing up to Cindy's Tower for a sweeping panoramic view of the vibrant jungle and the surrounding sea."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:10",
+      "total_km": 3.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Love Koh Tao viewpoint",
+            "hu": "Love Koh Tao kilátó",
+            "ro": "Punctul de belvedere Love Koh Tao",
+            "en": "Love Koh Tao viewpoint"
+          },
+          "coords": [
+            99.839826,
+            10.086202
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Trinken Sie eine erfrischende Kokosnuss, während Sie die Aussicht genießen, aber seien Sie auf einen steilen Anstieg gefasst, um hierher zu gelangen.",
+            "hu": "Kortyoljon el egy frissítő kókuszt, miközben élvezi a kilátást, de készüljön fel egy meredek végső emelkedőre, hogy ide jusson.",
+            "ro": "Savurați o nucă de cocos proaspătă în timp ce vă bucurați de priveliștile spectaculoase, dar fiți pregătiți pentru o urcare abruptă pentru a ajunge aici.",
+            "en": "Sip a refreshing coconut while enjoying spectacular sunrise views over Tanote Bay, but be prepared for a steep final push to get up here."
+          }
+        },
+        {
+          "name": {
+            "de": "Tanote Peak",
+            "hu": "Tanote-csúcs",
+            "ro": "Vârful Tanote",
+            "en": "Tanote Peak"
+          },
+          "coords": [
+            99.839144,
+            10.089549
+          ],
+          "category": "natural",
+          "arrive_at": "09:43",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Fotografieren Sie von diesem erhöhten Dschungelplatz aus, und verwenden Sie Mückenschutzmittel, da das dichte Blätterdach Insekten anzieht.",
+            "hu": "Készítsen lélegzetelállító fotókat erről a magaslati dzsungelből, és használjon szúnyogriasztót, mivel a sűrű lombozat vonzza a rovarokat.",
+            "ro": "Capturați fotografii uimitoare din acest loc ridicat în junglă și folosiți repelent de țânțari, deoarece coronamentul dens atrage insectele.",
+            "en": "Capture breathtaking photos from this elevated jungle spot, and use mosquito repellent as the dense canopy attracts bugs."
+          }
+        },
+        {
+          "name": {
+            "de": "Point of view",
+            "hu": "Point of view (Kilátópont)",
+            "ro": "Point of view",
+            "en": "Point of view"
+          },
+          "coords": [
+            99.840677,
+            10.090124
+          ],
+          "category": "natural",
+          "arrive_at": "10:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ruhen Sie sich an diesem ruhigen Aussichtspunkt aus, der eine friedliche Alternative zu den belebteren Orten bietet.",
+            "hu": "Pihentesse meg a lábait ezen a csendes kilátóhelyen, amely békés alternatívát kínál a forgalmasabb kilátópontokhoz képest.",
+            "ro": "Odihniți-vă picioarele la acest punct de observație liniștit care oferă o alternativă pașnică la punctele de belvedere mai aglomerate.",
+            "en": "Rest your legs at this quiet overlook that perfectly frames the eastern bays, offering a peaceful alternative to the busier viewpoints."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Tanot",
+            "hu": "Ao Tanot",
+            "ro": "Ao Tanot",
+            "en": "Ao Tanot"
+          },
+          "coords": [
+            99.849814,
+            10.083365
+          ],
+          "category": "landmark",
+          "arrive_at": "10:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie ins Wasser ein, um Korallen und Riffhaie zu sehen, aber vermeiden Sie es, die empfindlichen Korallen beim Schnorcheln zu berühren.",
+            "hu": "Merüljön el a vízben, hogy elképesztő korallképződményeket és szirtcápákat lásson, de kerülje az érzékeny korallok érintését.",
+            "ro": "Plonjați în apă pentru a vedea formațiuni de corali și rechini de recif, dar evitați să atingeți coralii sensibili în timp ce faceți snorkeling.",
+            "en": "Plunge into the water to see incredible coral formations and reef sharks, but strictly avoid touching the sensitive corals while you snorkel."
+          }
+        },
+        {
+          "name": {
+            "de": "Laem Thian",
+            "hu": "Laem Thian",
+            "ro": "Laem Thian",
+            "en": "Laem Thian"
+          },
+          "coords": [
+            99.854301,
+            10.088858
+          ],
+          "category": "recreational",
+          "arrive_at": "12:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die dramatischen Felsformationen und das verlassene Resort, das im goldenen Nachmittagslicht eine fantastische Fotokulisse bietet.",
+            "hu": "Fedezze fel a drámai sziklaalakzatokat és az elhagyatott üdülőhelyet, amely fantasztikus fotózási lehetőséget kínál a délutáni fényben.",
+            "ro": "Descoperiți formațiunile stâncoase dramatice și stațiunea abandonată, care oferă oportunități fantastice de fotografie în lumina aurie a după-amiezii.",
+            "en": "Discover the dramatic rock formations and the abandoned resort, which makes for fantastic photography in the beautiful afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "Mao Bay - Ao Mamuang",
+            "hu": "Mao-öböl (Ao Mamuang)",
+            "ro": "Golful Mao - Ao Mamuang",
+            "en": "Mao Bay - Ao Mamuang"
+          },
+          "coords": [
+            99.851224,
+            10.092099
+          ],
+          "category": "recreational",
+          "arrive_at": "13:25",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem abgelegenen Strand und organisieren Sie ein Longtail-Boot für die Rückfahrt, falls der hügelige Rückweg zu anstrengend ist.",
+            "hu": "Pihenjen ezen a távoli strandon, és szervezzen egy longtail hajós utat vissza, ha túl fáradt lenne a dombos visszaúthoz.",
+            "ro": "Relaxați-vă pe această plajă izolată și organizați o plimbare cu barca longtail înapoi dacă sunteți prea obosit pentru a pedala pe întoarcerea deluroasă.",
+            "en": "Relax on this remote and tranquil beach, and arrange for a longtail boat ride back if you're too tired to cycle the hilly return route."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radabenteuer beginnt am atemberaubenden Aussichtspunkt Love Koh Tao, gefolgt von Dschungelpfaden zum Tanote Peak. Mittags erreichen Sie Ao Tanot zum erstklassigen Schnorcheln an den lebhaften Riffen. Am Nachmittag radeln Sie zu den markanten Felsformationen von Laem Thian. Die Reise endet in der abgelegenen Mao Bay, die perfekte Ruhe bietet, bevor die Dämmerung hereinbricht.",
+        "hu": "A kerékpáros kaland a lélegzetelállító Love Koh Tao kilátónál kezdődik, majd a dzsungel ösvényein halad a Tanote-csúcsig. Délben az Ao Tanot várja egy kis sznorkelezéssel a színes zátonyok között. Délután tekerjen el Laem Thian lenyűgöző sziklaalakzataihoz. Az utazás az elszigetelt Mao-öbölben ér véget, amely tökéletes nyugalmat kínál a szürkület beállta előtt.",
+        "ro": "Aventura dvs. pe bicicletă începe la punctul de belvedere uluitor Love Koh Tao, urmat de trasee prin junglă către Vârful Tanote. La prânz veți ajunge la Ao Tanot pentru snorkeling de clasă mondială. După-amiaza, pedalați spre formațiunile stâncoase impresionante din Laem Thian. Călătoria se încheie în izolatul Golf Mao, oferind o liniște perfectă înainte de lăsarea serii.",
+        "en": "Your cycling adventure kicks off at the breathtaking Love Koh Tao viewpoint, followed by jungle trails to Tanote Peak. Midday brings you down to Ao Tanot for world-class snorkeling among vibrant reefs. In the afternoon, pedal your way to the striking rock formations of the abandoned Laem Thian. The journey concludes at the secluded Mao Bay, offering perfect tranquility before dusk."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:10",
+      "total_km": 8.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ocean Sound Yoga",
+            "hu": "Ocean Sound Jóga",
+            "ro": "Ocean Sound Yoga",
+            "en": "Ocean Sound Yoga"
+          },
+          "coords": [
+            99.82675,
+            10.068114
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen mit wohltuenden Dehnübungen, und kommen Sie 15 Minuten früher an, um sich einen guten Platz zu sichern.",
+            "hu": "Kezdje a reggelt frissítő nyújtással ezen a nyugodt helyen, és érkezzen 15 perccel korábban, hogy jó helyet biztosítson magának.",
+            "ro": "Începeți dimineața cu exerciții de întindere revigorante, ajungând cu 15 minute mai devreme pentru a vă asigura un loc bun în studio.",
+            "en": "Begin your morning with some rejuvenating stretches in this tranquil setting, arriving 15 minutes early to secure a good spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Luek",
+            "hu": "Ao Luek",
+            "ro": "Ao Luek",
+            "en": "Ao Luek"
+          },
+          "coords": [
+            99.841088,
+            10.071068
+          ],
+          "category": "landmark",
+          "arrive_at": "10:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an dieser weiten Bucht, die für kleine Riffhaie bekannt ist, aber zahlen Sie die kleine Eintrittsgebühr, die ein Getränk beinhaltet.",
+            "hu": "Pihenjen ebben a széles öbölben, amely híres a kis szirtcápáiról, és fizesse be az apró belépődíjat, amely tartalmaz egy hideg italt.",
+            "ro": "Relaxați-vă în acest golf uimitor, faimos pentru puii de rechin de recif, dar plătiți mica taxă de intrare care include o băutură rece.",
+            "en": "Relax at this stunning, wide bay famous for its baby blacktip reef sharks, but pay the small entrance fee which includes a cold drink."
+          }
+        },
+        {
+          "name": {
+            "de": "Love Koh Tao viewpoint",
+            "hu": "Love Koh Tao kilátó",
+            "ro": "Punctul de belvedere Love Koh Tao",
+            "en": "Love Koh Tao viewpoint"
+          },
+          "coords": [
+            99.839826,
+            10.086202
+          ],
+          "category": "natural",
+          "arrive_at": "11:33",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Blick auf die Ostküste von diesem charmanten Café aus, dem perfekten Ort für eine Kaffeepause am Vormittag.",
+            "hu": "Élvezze a keleti partra nyíló pazar kilátást ebből a bájos kávézóból, amely tökéletes hely egy délelőtti kávészünetre.",
+            "ro": "Bucurați-vă de priveliștile ample ale coastei de est de la această cafenea fermecătoare, locul perfect pentru o pauză de cafea de dimineață.",
+            "en": "Enjoy sweeping vistas of the island's eastern coast from this charming café, making it the perfect spot for a mid-morning coffee break."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Tanot",
+            "hu": "Ao Tanot",
+            "ro": "Ao Tanot",
+            "en": "Ao Tanot"
+          },
+          "coords": [
+            99.849814,
+            10.083365
+          ],
+          "category": "landmark",
+          "arrive_at": "12:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Verbringen Sie den Mittag beim Schnorcheln, und wagen Sie den Sprung vom berühmten Felsen, wenn Sie sich abenteuerlustig fühlen.",
+            "hu": "Töltse a delet sznorkelezéssel a süllyedt katamarán körül, és merészeljen ugrani a híres ugrószikláról, ha kalandvágyó.",
+            "ro": "Petreceți prânzul făcând snorkeling și faceți saltul îndrăzneț de pe faimoasa stâncă de sărituri dacă vă simțiți aventuros.",
+            "en": "Spend your midday snorkeling around the sunken catamaran, and take the daring leap from the famous jumping rock if you feel adventurous."
+          }
+        },
+        {
+          "name": {
+            "de": "Point of view",
+            "hu": "Point of view",
+            "ro": "Point of view",
+            "en": "Point of view"
+          },
+          "coords": [
+            99.840677,
+            10.090124
+          ],
+          "category": "natural",
+          "arrive_at": "13:24",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Abstecher zu diesem ruhigen Aussichtspunkt, um den Ozean zu überblicken, und halten Sie Ihre Kamera bereit.",
+            "hu": "Tegyen egy rövid kitérőt ehhez a nyugodt kilátóhoz, hogy megcsodálja a zavartalan óceáni kilátást, és tartsa kéznél a kameráját.",
+            "ro": "Faceți un ocol rapid către acest punct de belvedere senin pentru priveliști neîntrerupte asupra oceanului, ținând aparatul foto la îndemână.",
+            "en": "Take a quick detour to this serene lookout point for uninterrupted ocean views, keeping your camera handy for the vibrant landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Top of the rock",
+            "hu": "A szikla teteje",
+            "ro": "Vârful stâncii",
+            "en": "Top of the rock"
+          },
+          "coords": [
+            99.841411,
+            10.098959
+          ],
+          "category": "natural",
+          "arrive_at": "13:52",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erleben Sie einen der höchsten zugänglichen Punkte der Insel, aber fahren Sie auf den steilen unbefestigten Abschnitten sehr vorsichtig.",
+            "hu": "Tapasztalja meg a sziget egyik legmagasabb pontját, bár óvatosságra van szükség a meredek, burkolatlan szakaszokon való vezetéskor.",
+            "ro": "Experimentați unul dintre cele mai înalte puncte accesibile de pe insulă, deși este nevoie de precauție când conduceți pe secțiunile abrupte.",
+            "en": "Experience one of the highest accessible points on the island, though caution is strictly needed when driving up the steep, unpaved sections."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Mao",
+            "hu": "Ao Mao",
+            "ro": "Ao Mao",
+            "en": "Ao Mao"
+          },
+          "coords": [
+            99.852837,
+            10.092757
+          ],
+          "category": "landmark",
+          "arrive_at": "14:25",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an dieser friedlichen Bucht, in der der Dschungel auf das Meer trifft, aber nehmen Sie Ihren gesamten Müll wieder mit.",
+            "hu": "Fejezze be a napot ezen a békés öbölben, ahol a dzsungel találkozik a tengerrel, de vigye magával minden szemetét, hogy megőrizze a szépségét.",
+            "ro": "Încheiați ziua în acest golf pașnic unde jungla se întâlnește cu marea, dar luați tot gunoiul cu dvs. pentru a păstra frumusețea neatinsă.",
+            "en": "End your day at this peaceful bay where the dense jungle perfectly meets the sea, but be sure to pack out all your trash to preserve the nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie die Tour mit Morgen-Yoga und fahren Sie dann zur spektakulären Bucht Ao Luek. Mittags bieten sich Panoramablicke vom Love Koh Tao Aussichtspunkt und ein Tauchgang in die Unterwasserwelt von Ao Tanot an. Die Nachmittagsfahrt führt Sie hoch hinauf zum Point of view und zum Top of the rock. Beenden Sie Ihre Insel-Expedition in der abgelegenen Natur von Ao Mao.",
+        "hu": "Kezdje a túrát egy kis reggeli jógával, majd guruljon el a látványos Ao Luek öbölhöz. Délben panorámás kilátás nyílik a Love Koh Tao kilátóból, majd egy merülés következik az Ao Tanot víz alatti csodáiba. A délutáni út magasra visz, a Point of view és a Top of the rock felé. Fejezze be szigeti expedícióját a békés és távoli Ao Mao-ban.",
+        "ro": "Începeți turul cu puțină yoga dimineața, apoi conduceți către golful spectaculos Ao Luek. La prânz aveți parte de vederi panoramice de la punctul de belvedere Love Koh Tao și o scufundare în minunile subacvatice din Ao Tanot. Conducerea de după-amiază vă duce sus la Point of view și Top of the rock. Încheiați-vă expediția pe insulă în pașnicul Ao Mao.",
+        "en": "Kickstart the tour with some morning yoga, then cruise smoothly to the spectacular bay of Ao Luek. Midday features panoramic vistas from the Love Koh Tao viewpoint and a deep dive into the underwater wonders of Ao Tanot. The afternoon drive takes you high up to the Point of view and Top of the rock. Conclude your island expedition at the serene and remote Ao Mao."
+      }
+    }
+  }
+}

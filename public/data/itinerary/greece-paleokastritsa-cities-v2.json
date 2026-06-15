@@ -1,0 +1,474 @@
+{
+  "city_id": "greece-paleokastritsa-cities-v2",
+  "anchor": {
+    "name": "Paleokastritsa",
+    "coords": [
+      19.706667,
+      39.672778
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 1.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Alipa Strand",
+            "hu": "Alipa strand",
+            "ro": "Plaja Alipa",
+            "en": "Alipa beach"
+          },
+          "coords": [
+            19.706957,
+            39.672783
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Kiesstrand von Alipa, wo klares Wasser zum Schwimmen einlädt, aber vergessen Sie Ihre Badeschuhe für den steinigen Untergrund nicht.",
+            "hu": "Pihenjen az Alipa kavicsos partján, ahol a kristálytiszta víz úszásra csábít, de mindenképpen hozzon magával vízicipőt a kövek elleni védelemhez.",
+            "ro": "Relaxați-vă pe plaja cu pietriș Alipa, unde apele clare vă invită la înot, dar nu uitați să aduceți încălțăminte de apă pentru un confort sporit.",
+            "en": "Relax on the pebble shores of Alipa beach where clear waters invite you to swim, but remember to bring water shoes for comfort against the stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Ampelaki Strand",
+            "hu": "Ampelaki strand",
+            "ro": "Plaja Ampelaki",
+            "en": "Ampelaki Beach"
+          },
+          "coords": [
+            19.700754,
+            39.672681
+          ],
+          "category": "recreational",
+          "arrive_at": "10:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige, von grünen Hügeln umgebene Bucht des Ampelaki-Strandes und kommen Sie früh am Morgen, um sich einen Schattenplatz zu sichern.",
+            "hu": "Fedezze fel az Ampelaki strand zöldellő dombokkal övezett nyugodt öblét, és érkezzen kora reggel, hogy jó helyet biztosítson magának a természetes árnyékban.",
+            "ro": "Descoperiți golful liniștit al plajei Ampelaki, înconjurat de dealuri verzi, și sosiți devreme dimineața pentru a prinde un loc bun cu umbră naturală.",
+            "en": "Discover the tranquil bay of Ampelaki Beach, surrounded by lush green hills, and arrive early in the morning to secure a good spot with natural shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Korfu Aquarium",
+            "hu": "Korfu Akvárium",
+            "ro": "Acvariul din Corfu",
+            "en": "Corfu Aquarium"
+          },
+          "coords": [
+            19.701125,
+            39.67177
+          ],
+          "category": "recreational",
+          "arrive_at": "11:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie das faszinierende Meeresleben des Ionischen Meeres im Korfu-Aquarium, das sich besonders in den heißen Mittagsstunden für Familien anbietet.",
+            "hu": "Fedezze fel a Jón-tenger élénk tengeri élővilágát a Korfu Akváriumban, amely kiváló megállóhely családok számára, különösen a legmelegebb órákban.",
+            "ro": "Explorați viața marină vibrantă a Mării Ionice la Acvariul din Corfu, care este o oprire excelentă pentru familii, mai ales în timpul orelor fierbinți.",
+            "en": "Explore the vibrant marine life of the Ionian Sea at the Corfu Aquarium, which is an excellent stop for families, especially during the hottest hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Paleokastritsa West",
+            "hu": "Paleokasztríca Nyugat",
+            "ro": "Paleokastritsa Vest",
+            "en": "Paleokastritsa West"
+          },
+          "coords": [
+            19.703363,
+            39.671913
+          ],
+          "category": "recreational",
+          "arrive_at": "13:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie einen malerischen Spaziergang entlang Paleokastritsa West mit seiner atemberaubenden Küstenaussicht und halten Sie Ihre Kamera griffbereit.",
+            "hu": "Élvezze a festői sétát a lenyűgöző tengerparti kilátást nyújtó nyugati Paleokasztrícában, és ne felejtse el magával hozni fényképezőgépét a fotókhoz.",
+            "ro": "Bucurați-vă de o plimbare pitorească de-a lungul coastei vestice din Paleokastritsa, asigurându-vă că aveți camera pregătită pentru fotografii deosebite.",
+            "en": "Enjoy a picturesque walk along Paleokastritsa West with its stunning coastal views, making sure to bring your camera for spectacular afternoon photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Paleokastritsa",
+            "hu": "Paleokasztríca Kolostor Múzeum",
+            "ro": "Muzeul Mănăstirii Paleokastritsa",
+            "en": "Mouseio Ieras Mones Palaiokastritsas"
+          },
+          "coords": [
+            19.701602,
+            39.669619
+          ],
+          "category": "museum",
+          "arrive_at": "14:55",
+          "stay_min": 130,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses historische Kloster-Museum auf dem Hügel mit seltenen byzantinischen Ikonen und achten Sie darauf, Schultern und Knie zu bedecken.",
+            "hu": "Látogasson el erre a hegytetőn álló, ritka bizánci ikonokat bemutató történelmi kolostormúzeumba, és ügyeljen arra, hogy válla és térde fedve legyen.",
+            "ro": "Vizitați acest muzeu istoric al mănăstirii cu icoane bizantine rare și asigurați-vă că aveți umerii și genunchii acoperiți corespunzător la intrare.",
+            "en": "Visit this historic hilltop monastery museum featuring rare Byzantine icons, and ensure your shoulders and knees are respectfully covered before entering."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag entspannt am klaren Wasser des Alipa-Strandes.\n\nSetzen Sie Ihren Ausflug mit einem kurzen Spaziergang zum ruhigen Ampelaki-Strand fort.\n\nAm Nachmittag können Sie die Meeresfauna im Korfu-Aquarium erkunden, bevor Sie die westliche Bucht bewundern.\n\nBeenden Sie Ihre Wanderung mit dem Aufstieg zum historischen Kloster, wo Sie atemberaubende Ausblicke genießen können.",
+        "hu": "Kezdje a napot egy pihentető fürdőzéssel az Alipa strand kristálytiszta vizeinél.\n\nFolytassa útját egy rövid sétával a festői és nyugodt Ampelaki strand felé.\n\nDélután fedezze fel a Korfu Akvárium tengeri élőlényeit, majd sétáljon végig a nyugati partvonalon.\n\nZárja gyalogtúráját a dombtetőn álló történelmi kolostorban, ahonnan lenyűgöző kilátás nyílik a tengerre.",
+        "ro": "Începeți-vă ziua relaxându-vă lângă apele limpezi ale plajei Alipa.\n\nContinuați cu o scurtă plimbare către plaja Ampelaki pentru mai multă liniște pe coastă.\n\nDupă-amiază, explorați viața marină la Acvariul din Corfu înainte de a admira golful vestic.\n\nÎncheiați turul pietonal urcând la mănăstirea istorică, unde veți avea parte de o panoramă superbă la apus.",
+        "en": "Begin your day relaxing by the clear waters of Alipa beach.\n\nContinue with a short walk to Ampelaki Beach for more coastal tranquility.\n\nIn the afternoon, explore marine life at the Corfu Aquarium before admiring the bays from Paleokastritsa West.\n\nConclude your walking tour ascending to the historic hilltop monastery, taking in the magnificent sunset views."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:16",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Enotis Olivenöl-Museum",
+            "hu": "Enotis Olívaolaj Múzeum",
+            "ro": "Muzeul Enotis",
+            "en": "Enotis - Olive Groves & Museum"
+          },
+          "coords": [
+            19.696392,
+            39.690525
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erfahren Sie im Enotis Museum alles über die traditionelle korfiotische Olivenölproduktion und nehmen Sie unbedingt an der geführten Verkostung teil.",
+            "hu": "Ismerje meg a hagyományos korfui olívaolaj-termelést az Enotis Múzeumban, ahol a túra végén mindenképpen vegyen részt a vezetett kóstolóprogramon.",
+            "ro": "Aflați despre producția tradițională de ulei de măsline corfiot la Muzeul Enotis, unde trebuie neapărat să participați la degustarea ghidată de la final.",
+            "en": "Learn about traditional Corfiot olive oil production at Enotis Museum, where you should definitely participate in the guided tasting session at the end."
+          }
+        },
+        {
+          "name": {
+            "de": "Bella Vista",
+            "hu": "Bella Vista",
+            "ro": "Bella Vista",
+            "en": "Bella Vista"
+          },
+          "coords": [
+            19.699819,
+            39.679449
+          ],
+          "category": "natural",
+          "arrive_at": "10:57",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf die herzförmigen Buchten von Bella Vista, einem perfekten Aussichtspunkt, ideal für ein Fernglas.",
+            "hu": "Gyönyörködjön a szív alakú öblök lélegzetelállító panorámájában a Bella Vistáról, egy tökéletes kilátópontról, ahol egy távcső nagyszerű élményt nyújt.",
+            "ro": "Admirați priveliștea panoramică a golfurilor în formă de inimă de la Bella Vista, un punct de observație perfect unde un binoclu vă va fi foarte util.",
+            "en": "Take in the breathtaking panoramic views of the heart-shaped bays from Bella Vista, a perfect vantage point where binoculars will greatly enhance your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle der Heiligen Kyriaki",
+            "hu": "Szent Kiriaki kápolna",
+            "ro": "Capela Sfânta Kyriaki",
+            "en": "Chapel of Saint Kyriaki"
+          },
+          "coords": [
+            19.68693,
+            39.678358
+          ],
+          "category": "historical",
+          "arrive_at": "12:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die bezaubernde Kapelle der Heiligen Kyriaki vor einer dramatischen Küstenkulisse und tragen Sie festes Schuhwerk für den unebenen Weg.",
+            "hu": "Csodálja meg a drámai tengerparti háttér előtt álló bájos Szent Kiriaki kápolnát, és viseljen masszív cipőt, mivel a megközelítési út meglehetősen egyenetlen.",
+            "ro": "Admirați fermecătoarea Capelă a Sfintei Kyriaki, pe un fundal de coastă dramatic, și purtați încălțăminte robustă, deoarece poteca poate fi neregulată.",
+            "en": "Admire the charming Chapel of Saint Kyriaki set against a dramatic coastal backdrop, and wear sturdy walking shoes as the access path can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Korfu Aquarium",
+            "hu": "Korfu Akvárium",
+            "ro": "Acvariul din Corfu",
+            "en": "Corfu Aquarium"
+          },
+          "coords": [
+            19.701125,
+            39.67177
+          ],
+          "category": "recreational",
+          "arrive_at": "13:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie das faszinierende Meeresleben des Ionischen Meeres im Korfu-Aquarium, das sich besonders in den heißen Mittagsstunden für Familien anbietet.",
+            "hu": "Fedezze fel a Jón-tenger élénk tengeri élővilágát a Korfu Akváriumban, amely kiváló megállóhely családok számára, különösen a legmelegebb órákban.",
+            "ro": "Explorați viața marină vibrantă a Mării Ionice la Acvariul din Corfu, care este o oprire excelentă pentru familii, mai ales în timpul orelor fierbinți.",
+            "en": "Explore the vibrant marine life of the Ionian Sea at the Corfu Aquarium, which is an excellent stop for families, especially during the hottest hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Ampelaki Strand",
+            "hu": "Ampelaki strand",
+            "ro": "Plaja Ampelaki",
+            "en": "Ampelaki Beach"
+          },
+          "coords": [
+            19.700754,
+            39.672681
+          ],
+          "category": "recreational",
+          "arrive_at": "15:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige, von grünen Hügeln umgebene Bucht des Ampelaki-Strandes und kommen Sie früh am Morgen, um sich einen Schattenplatz zu sichern.",
+            "hu": "Fedezze fel az Ampelaki strand zöldellő dombokkal övezett nyugodt öblét, és érkezzen kora reggel, hogy jó helyet biztosítson magának a természetes árnyékban.",
+            "ro": "Descoperiți golful liniștit al plajei Ampelaki, înconjurat de dealuri verzi, și sosiți devreme dimineața pentru a prinde un loc bun cu umbră naturală.",
+            "en": "Discover the tranquil bay of Ampelaki Beach, surrounded by lush green hills, and arrive early in the morning to secure a good spot with natural shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Alipa Strand",
+            "hu": "Alipa strand",
+            "ro": "Plaja Alipa",
+            "en": "Alipa beach"
+          },
+          "coords": [
+            19.706957,
+            39.672783
+          ],
+          "category": "recreational",
+          "arrive_at": "16:31",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Kiesstrand von Alipa, wo klares Wasser zum Schwimmen einlädt, aber vergessen Sie Ihre Badeschuhe für den steinigen Untergrund nicht.",
+            "hu": "Pihenjen az Alipa kavicsos partján, ahol a kristálytiszta víz úszásra csábít, de mindenképpen hozzon magával vízicipőt a kövek elleni védelemhez.",
+            "ro": "Relaxați-vă pe plaja cu pietriș Alipa, unde apele clare vă invită la înot, dar nu uitați să aduceți încălțăminte de apă pentru un confort sporit.",
+            "en": "Relax on the pebble shores of Alipa beach where clear waters invite you to swim, but remember to bring water shoes for comfort against the stones."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie im Norden mit einer faszinierenden Tour durch die Olivenhaine des Enotis Museums.\n\nFahren Sie hinab zur Bella Vista und der abgelegenen Kapelle der Heiligen Kyriaki, um dramatische Küstenpanoramen zu genießen.\n\nKühlen Sie sich bei einem Besuch im Korfu-Aquarium in den heißen Nachmittagsstunden ab.\n\nLassen Sie den Tag an den herrlichen Kiesstränden von Ampelaki und Alipa entspannt ausklingen.",
+        "hu": "Kezdje a napot északon, egy lenyűgöző túrával az Enotis Múzeum olajfaligeteiben.\n\nGuruljon le a Bella Vistához és a félreeső Szent Kiriaki kápolnához, hogy megcsodálja a drámai tengerparti panorámát.\n\nHűsöljön a Korfu Akváriumban a délutáni hőségben, és ismerkedjen meg a helyi tengeri élőlényekkel.\n\nZárja a napot pihentető fürdőzéssel Ampelaki és Alipa gyönyörű kavicsos strandjain.",
+        "ro": "Începeți în nord cu un tur fascinant prin plantațiile de măslini ale Muzeului Enotis.\n\nCoborâți cu bicicleta spre Bella Vista și Capela retrasă Sfânta Kyriaki pentru a vă bucura de panorame de coastă dramatice.\n\nRăcoriți-vă cu o vizită la Acvariul din Corfu în timpul orelor fierbinți ale după-amiezii.\n\nÎncheiați ziua relaxându-vă pe plajele superbe cu pietriș din Ampelaki și Alipa.",
+        "en": "Start in the north with a fascinating tour through the olive groves of the Enotis Museum.\n\nRide down to Bella Vista and the secluded Chapel of Saint Kyriaki to take in dramatic coastal panoramas.\n\nCool off with a visit to the Corfu Aquarium during the hottest hours of the afternoon.\n\nEnd your day relaxing on the gorgeous pebble shores of Ampelaki and Alipa beaches."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:36",
+      "total_km": 5.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Liniodoros Strand",
+            "hu": "Liniodoros strand",
+            "ro": "Plaja Liniodoros",
+            "en": "Liniodoros"
+          },
+          "coords": [
+            19.723952,
+            39.655994
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen am einsamen Liniodoros-Strand mit seinem unberührten Wasser, aber bringen Sie eigenes Wasser und Snacks mit, da es keine Kioske gibt.",
+            "hu": "Meneküljön el a tömeg elől a félreeső, kristálytiszta vizű Liniodoros strandra, de hozzon magával saját vizet és nassolnivalót, mert itt nincsenek büfék.",
+            "ro": "Scăpați de aglomerație pe plaja izolată Liniodoros cu apele sale cristaline, dar asigurați-vă că aduceți propriile provizii, deoarece nu există facilități.",
+            "en": "Escape the crowds at the secluded Liniodoros beach with its pristine waters, but you must bring your own water and snacks as there are no facilities here."
+          }
+        },
+        {
+          "name": {
+            "de": "Limni Strand",
+            "hu": "Limni strand",
+            "ro": "Plaja Limni",
+            "en": "Limni"
+          },
+          "coords": [
+            19.72392,
+            39.665489
+          ],
+          "category": "recreational",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie den einzigartigen doppelseitigen Kiesstrand von Limni, der eine Halbinsel verbindet, und probieren Sie hier das Schnorcheln unbedingt aus.",
+            "hu": "Csodálja meg a Limni egyedülálló, kétoldalas kavicsos strandját, amely egy apró félszigetet köt össze, és próbálja ki a sznorkelezést a sziklás vizekben.",
+            "ro": "Admirați plaja unică cu pietriș cu două fețe din Limni, care leagă o mică peninsulă, și încercați snorkelingul aici, deoarece formațiunile sunt vii.",
+            "en": "Marvel at the unique double-sided pebble beach of Limni connecting a tiny peninsula, and try snorkeling here as the underwater rock formations are vivid."
+          }
+        },
+        {
+          "name": {
+            "de": "Liapades Bucht",
+            "hu": "Liapades-öböl",
+            "ro": "Golful Liapades",
+            "en": "Liapades Bay"
+          },
+          "coords": [
+            19.72091,
+            39.669848
+          ],
+          "category": "landmark",
+          "arrive_at": "11:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre und das türkisfarbene Wasser in der Bucht von Liapades, wo sich das Mieten eines Tretboots zur Erkundung lohnt.",
+            "hu": "Élvezze az élénk hangulatot és a türkizkék vizet a gyönyörű Liapades-öbölben, ahol érdemes vízibiciklit bérelni a közeli rejtett barlangok felfedezéséhez.",
+            "ro": "Bucurați-vă de atmosfera plină de viață și de apele turcoaz din frumosul Golf Liapades, unde închirierea unei hidrobiciclete este foarte recomandată.",
+            "en": "Soak up the lively atmosphere and turquoise waters at beautiful Liapades Bay, where renting a pedal boat is highly recommended to explore nearby coves."
+          }
+        },
+        {
+          "name": {
+            "de": "Akra Kosteri",
+            "hu": "Akra Kosteri",
+            "ro": "Akra Kosteri",
+            "en": "Akra Kosteri"
+          },
+          "coords": [
+            19.7127,
+            39.6707
+          ],
+          "category": "landmark",
+          "arrive_at": "12:12",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Stehen Sie am Rande von Akra Kosteri, um zu beobachten, wie dramatische Wellen gegen die Klippen krachen, und halten Sie sicheren Abstand zur Kante.",
+            "hu": "Álljon ki az Akra Kosteri szélére, hogy szemtanúja legyen a csipkézett tengeri szikláknak csapódó drámai hullámoknak, és tartson biztonságos távolságot.",
+            "ro": "Stați la marginea Akra Kosteri pentru a asista la valurile dramatice care se sparg de stâncile ascuțite, păstrând o distanță sigură de marginile alunecoase.",
+            "en": "Stand at the edge of Akra Kosteri to witness dramatic waves crashing against the jagged sea cliffs, and keep a safe distance from the slippery edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Paleokastritsa",
+            "hu": "Paleokasztríca Kolostor Múzeum",
+            "ro": "Muzeul Mănăstirii Paleokastritsa",
+            "en": "Mouseio Ieras Mones Palaiokastritsas"
+          },
+          "coords": [
+            19.701602,
+            39.669619
+          ],
+          "category": "museum",
+          "arrive_at": "12:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses historische Kloster-Museum auf dem Hügel mit seltenen byzantinischen Ikonen und achten Sie darauf, Schultern und Knie zu bedecken.",
+            "hu": "Látogasson el erre a hegytetőn álló, ritka bizánci ikonokat bemutató történelmi kolostormúzeumba, és ügyeljen arra, hogy válla és térde fedve legyen.",
+            "ro": "Vizitați acest muzeu istoric al mănăstirii cu icoane bizantine rare și asigurați-vă că aveți umerii și genunchii acoperiți corespunzător la intrare.",
+            "en": "Visit this historic hilltop monastery museum featuring rare Byzantine icons, and ensure your shoulders and knees are respectfully covered before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Bella Vista",
+            "hu": "Bella Vista",
+            "ro": "Bella Vista",
+            "en": "Bella Vista"
+          },
+          "coords": [
+            19.699819,
+            39.679449
+          ],
+          "category": "natural",
+          "arrive_at": "14:23",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf die herzförmigen Buchten von Bella Vista, einem perfekten Aussichtspunkt, ideal für ein Fernglas.",
+            "hu": "Gyönyörködjön a szív alakú öblök lélegzetelállító panorámájában a Bella Vistáról, egy tökéletes kilátópontról, ahol egy távcső nagyszerű élményt nyújt.",
+            "ro": "Admirați priveliștea panoramică a golfurilor în formă de inimă de la Bella Vista, un punct de observație perfect unde un binoclu vă va fi foarte util.",
+            "en": "Take in the breathtaking panoramic views of the heart-shaped bays from Bella Vista, a perfect vantage point where binoculars will greatly enhance your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Enotis Olivenöl-Museum",
+            "hu": "Enotis Olívaolaj Múzeum",
+            "ro": "Muzeul Enotis",
+            "en": "Enotis - Olive Groves & Museum"
+          },
+          "coords": [
+            19.696392,
+            39.690525
+          ],
+          "category": "museum",
+          "arrive_at": "15:26",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erfahren Sie im Enotis Museum alles über die traditionelle korfiotische Olivenölproduktion und nehmen Sie unbedingt an der geführten Verkostung teil.",
+            "hu": "Ismerje meg a hagyományos korfui olívaolaj-termelést az Enotis Múzeumban, ahol a túra végén mindenképpen vegyen részt a vezetett kóstolóprogramon.",
+            "ro": "Aflați despre producția tradițională de ulei de măsline corfiot la Muzeul Enotis, unde trebuie neapărat să participați la degustarea ghidată de la final.",
+            "en": "Learn about traditional Corfiot olive oil production at Enotis Museum, where you should definitely participate in the guided tasting session at the end."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Entfliehen Sie dem morgendlichen Trubel und entdecken Sie im Südosten den ruhigen, unberührten Liniodoros-Strand.\n\nFahren Sie entlang der Küste zu den beeindruckenden Buchten und dramatischen Klippen bei Limni und Akra Kosteri.\n\nBesuchen Sie am Nachmittag das majestätische Kloster auf dem Hügel und genießen Sie das berühmte Panorama von Bella Vista.\n\nSchließen Sie Ihren Ausflug mit einem authentischen Erlebnis im Enotis Olivenöl-Museum ab.",
+        "hu": "Meneküljön el a reggeli nyüzsgés elől, és fedezze fel a délkeleti, nyugodt és érintetlen Liniodoros strandot.\n\nVezessen végig a part mentén, érintve Limni egyedi öbleit és Akra Kosteri lenyűgöző tengeri szikláit.\n\nDélután látogasson el a fenséges dombtetői kolostorba, majd gyönyörködjön a Bella Vista híres panorámájában.\n\nZárja utazását egy autentikus élménnyel a helyi olajfaligetek között az Enotis Múzeumban.",
+        "ro": "Scăpați de agitația matinală explorând în sud-est plaja liniștită și neatinsă Liniodoros.\n\nConduceți de-a lungul coastei admirând golfurile unice și stâncile dramatice de la Limni și Akra Kosteri.\n\nDupă-amiaza, vizitați mănăstirea maiestuoasă de pe deal și admirați faimoasa panoramă de la Bella Vista.\n\nÎncheiați-vă călătoria cu o experiență autentică printre plantațiile de măslini de la Muzeul Enotis.",
+        "en": "Escape the morning crowds by discovering the quiet, pristine Liniodoros beach in the southeast.\n\nDrive along the coast, taking in the unique bays and dramatic sea cliffs at Limni and Akra Kosteri.\n\nIn the afternoon, visit the majestic hilltop monastery and take in the famous panorama from Bella Vista.\n\nConclude your road trip with an authentic local experience among the olive groves at the Enotis Museum."
+      }
+    }
+  }
+}

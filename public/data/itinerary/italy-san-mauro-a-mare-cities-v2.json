@@ -1,0 +1,428 @@
+{
+  "city_id": "italy-san-mauro-a-mare-cities-v2",
+  "anchor": {
+    "name": "San Mauro a Mare",
+    "coords": [
+      12.44665,
+      44.16311
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 1.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Parrocchia Santa Maria Goretti",
+            "hu": "Parrocchia Santa Maria Goretti",
+            "ro": "Parrocchia Santa Maria Goretti",
+            "en": "Parrocchia Santa Maria Goretti"
+          },
+          "coords": [
+            12.442215,
+            44.164003
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Architektur dieser örtlichen Kirche und kleiden Sie sich respektvoll, wenn Sie eintreten, um einen Moment der Ruhe zu genießen.",
+            "hu": "Csodálja meg a helyi templom egyszerű építészetét, és öltözzön tisztelettudóan, amikor belép, hogy élvezze a csend és a béke pillanatát a nyaralás alatt.",
+            "ro": "Admirați arhitectura simplă a acestei biserici locale și îmbrăcați-vă respectuos când intrați pentru a vă bucura de un moment liniștit și plin de pace.",
+            "en": "Admire the simple architecture of this local church, and ensure you dress respectfully when entering to enjoy a quiet moment of peace during your morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco giochi Cavallino Rosso",
+            "hu": "Parco giochi Cavallino Rosso",
+            "ro": "Parco giochi Cavallino Rosso",
+            "en": "Parco giochi Cavallino Rosso"
+          },
+          "coords": [
+            12.44457,
+            44.164718
+          ],
+          "category": "recreational",
+          "arrive_at": "09:53",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Gönnen Sie den Kindern eine Pause in diesem farbenfrohen Vergnügungspark und kaufen Sie die Tickets für mehrere Fahrten im Voraus, um Zeit zu sparen.",
+            "hu": "Kínáljon egy kis szünetet a gyerekeknek ebben a színes vidámparkban, és vegye meg előre a többszöri utazásra szóló jegyeket a gyorsabb bejutás érdekében.",
+            "ro": "Oferiți copiilor o pauză în acest parc de distracții colorat și cumpărați biletele pentru mai multe curse în avans pentru a economisi timp de așteptare.",
+            "en": "Treat the kids to a fun break at this colorful amusement park, and consider buying the multiple-ride tickets in advance to save both money and time here."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Royal & Toni",
+            "hu": "Bagno Royal & Toni",
+            "ro": "Bagno Royal & Toni",
+            "en": "Bagno Royal & Toni"
+          },
+          "coords": [
+            12.446727,
+            44.164947
+          ],
+          "category": "recreational",
+          "arrive_at": "10:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die familienfreundliche Atmosphäre ein und nutzen Sie die sauberen Duschanlagen nach einem erfrischenden Bad im weiten Adriatischen Meer.",
+            "hu": "Merüljön el a családbarát strand hangulatában, és használja a kényelmes zuhanyzókat az Adriai-tengerben tett frissítő fürdőzés után a meleg napokon.",
+            "ro": "Scufundați-vă în atmosfera prietenoasă a acestui lido și folosiți dușurile convenabile după o baie revigorantă și relaxantă în apele Mării Adriatice.",
+            "en": "Immerse yourself in the family-friendly atmosphere of this beach club, and make use of the convenient showers after a refreshing dip in the Adriatic Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Ermes",
+            "hu": "Bagno Ermes",
+            "ro": "Bagno Ermes",
+            "en": "Bagno Ermes"
+          },
+          "coords": [
+            12.448425,
+            44.16434
+          ],
+          "category": "recreational",
+          "arrive_at": "12:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses gepflegte Strandbad für einen sonnigen Nachmittag und probieren Sie unbedingt die Snacks, die im kleinen Kiosk direkt am Strand angeboten werden.",
+            "hu": "Látogasson el erre a gondozott strandra egy kényelmes pihenésre, és mindenképpen kóstolja meg a közvetlenül a parton található kis kioszkban kínált falatokat.",
+            "ro": "Vizitați această plajă bine întreținută pentru o pauză confortabilă și asigurați-vă că gustați gustările locale oferite la micul chioșc chiar pe plajă.",
+            "en": "Visit this well-maintained beach club for a comfortable afternoon, and be sure to try the local snacks offered at the small kiosk right on the beachfront."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Delio 2",
+            "hu": "Bagno Delio 2",
+            "ro": "Bagno Delio 2",
+            "en": "Bagno Delio 2"
+          },
+          "coords": [
+            12.449809,
+            44.163141
+          ],
+          "category": "recreational",
+          "arrive_at": "13:30",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an diesem entspannten Küstenabschnitt ausklingen, der sich perfekt für einen gemütlichen Spaziergang entlang der ruhigen Wasserlinie eignet.",
+            "hu": "Zárja a napot ezen a nyugodt partszakaszon, amely tökéletesen alkalmas egy kellemes délutáni sétára a békés vízpart mentén a lassan lemenő nap fényében.",
+            "ro": "Încheiați ziua pe această secțiune de coastă relaxantă, care este perfectă pentru o plimbare plăcută și prelungită de-a lungul liniei liniștite a apei.",
+            "en": "Wind down your day at this relaxing coastal section, which is perfectly suited for a pleasant stroll along the peaceful shoreline as the afternoon settles."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im spirituellen Zentrum von San Mauro a Mare, bevor Sie sich im nahegelegenen Vergnügungspark amüsieren. Gegen Mittag wechseln Sie an die sonnenverwöhnte Küste und tauchen in die klassische Strandatmosphäre ein. Verbringen Sie den Nachmittag mit einem Bummel zwischen den lebhaften Strandbädern. Der Tag klingt entspannt bei einem Spaziergang entlang der ruhigen Küste aus.",
+        "hu": "Kezdje a reggelt San Mauro a Mare spirituális központjának felfedezésével, mielőtt a közeli vidámparkban szórakoznának. Délben irány a napsütötte part, ahol élvezheti a klasszikus strandhangulatot. A délutánt a nyüzsgő strandok közötti sétával és a frissítő tengeri szellővel töltheti. A kora este csendesen ereszkedik le, amelyet egy pihentető tengerparti sétával zárhat.",
+        "ro": "Începeți dimineața explorând inima spirituală a orașului San Mauro a Mare, înainte de a vă distra la parcul de distracții din apropiere. La prânz, mergeți spre coasta însorită pentru atmosfera clasică de plajă. Petreceți după-amiaza plimbându-vă printre plajele vibrante, bucurându-vă de briza proaspătă. Ziua se încheie blând, fiind perfectă pentru o plimbare relaxantă de-a lungul apei.",
+        "en": "Start your morning exploring the spiritual heart of San Mauro a Mare at the local parish before treating the family to some fun at the nearby amusement park. By midday, transition to the sun-kissed coast and settle into the classic beach atmosphere. Spend your afternoon strolling between the vibrant lidos, enjoying the refreshing sea breeze. Conclude with a relaxed coastal walk."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:17",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Stazione di inanellamento LIPU",
+            "hu": "Stazione di inanellamento LIPU",
+            "ro": "Stazione di inanellamento LIPU",
+            "en": "Stazione di inanellamento LIPU"
+          },
+          "coords": [
+            12.433841,
+            44.164557
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie faszinierende Zugvögel an dieser wichtigen Beringungsstation und bringen Sie ein Fernglas für die besten Sichtungen am frühen Morgen mit.",
+            "hu": "Figyelje meg a lenyűgöző vándormadarakat ezen a fontos természetvédelmi gyűrűzőállomáson, és hozzon magával távcsövet a legjobb kora reggeli megfigyeléshez.",
+            "ro": "Observați păsările migratoare la această stație importantă de inelare în natură și aduceți binoclu pentru cele mai bune observații dis-de-dimineață.",
+            "en": "Observe fascinating migratory birds at this important nature ringing station, and be sure to bring binoculars for the best sightings during the early morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Parrocchia Santa Maria Goretti",
+            "hu": "Parrocchia Santa Maria Goretti",
+            "ro": "Parrocchia Santa Maria Goretti",
+            "en": "Parrocchia Santa Maria Goretti"
+          },
+          "coords": [
+            12.442215,
+            44.164003
+          ],
+          "category": "religious",
+          "arrive_at": "10:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, spirituelle Architektur dieser örtlichen Kirche und kleiden Sie sich respektvoll, um einen Moment der Ruhe zu genießen.",
+            "hu": "Csodálja meg ennek a templomnak az egyszerű, spirituális építészetét, és öltözzön tisztelettudóan, hogy élvezze a csend és a béke értékes pillanatát.",
+            "ro": "Admirați arhitectura simplă, dar spirituală a bisericii locale și îmbrăcați-vă respectuos când intrați pentru a vă bucura de un moment de liniște.",
+            "en": "Admire the simple yet deeply spiritual architecture of this local church, and ensure you dress respectfully when entering to enjoy a quiet moment of peace."
+          }
+        },
+        {
+          "name": {
+            "de": "Public Beach",
+            "hu": "Public Beach",
+            "ro": "Public Beach",
+            "en": "Public Beach"
+          },
+          "coords": [
+            12.443022,
+            44.169231
+          ],
+          "category": "recreational",
+          "arrive_at": "10:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie das Treiben an diesem offenen Strandbereich mit viel Platz, aber vergessen Sie nicht, Ihren Sonnenschirm für die starke Mittagssonne mitzubringen.",
+            "hu": "Élvezze a nyüzsgő hangulatot ezen a tágas szabadstrandon, de ne felejtse el magával hozni saját napernyőjét, hogy védekezzen a déli napsütés ellen.",
+            "ro": "Bucurați-vă de atmosfera de pe această plajă publică spațioasă, dar nu uitați să vă aduceți propria umbrelă pentru a vă proteja de soarele puternic la prânz.",
+            "en": "Enjoy the lively atmosphere at this spacious open beach area, but don't forget to bring your own umbrella to shield yourself during the intense midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "La Casa Rossa",
+            "hu": "La Casa Rossa",
+            "ro": "La Casa Rossa",
+            "en": "La Casa Rossa"
+          },
+          "coords": [
+            12.450984,
+            44.158506
+          ],
+          "category": "museum",
+          "arrive_at": "12:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das Erbe des Dichters Giovanni Pascoli in diesem historischen roten Haus ein, wo Sie sich Zeit nehmen sollten, die Details zu lesen.",
+            "hu": "Merüljön el Giovanni Pascoli költő örökségében ebben a piros történelmi házban, ahol érdemes időt szánni gyermekkorának részletes elolvasására.",
+            "ro": "Scufundați-vă în moștenirea poetului Giovanni Pascoli în această casă istorică roșie, unde ar trebui să vă luați timp pentru a citi detaliile fascinante.",
+            "en": "Delve into the legacy of poet Giovanni Pascoli in this historic red house, where you should take your time to read the fascinating details of his childhood."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Radio d'Epoca",
+            "hu": "Museo Radio d'Epoca",
+            "ro": "Museo Radio d'Epoca",
+            "en": "Museo Radio d'Epoca"
+          },
+          "coords": [
+            12.460717,
+            44.15037
+          ],
+          "category": "museum",
+          "arrive_at": "14:07",
+          "stay_min": 130,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte der Kommunikation durch antike Radios und fragen Sie das Personal nach den faszinierenden Geschichten der Ausstellungsstücke.",
+            "hu": "Fedezze fel a kommunikáció történetét az antik rádiókon keresztül, és kérdezze meg a személyzetet a legritkább kiállítási tárgyak mögött rejlő történetekről.",
+            "ro": "Descoperiți istoria comunicării prin radiouri antice și întrebați personalul despre poveștile din spatele celor mai rare exponate din colecție.",
+            "en": "Discover the fascinating history of communication through antique radios, and ask the knowledgeable staff about the stories behind the rarest exhibits."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine morgendliche Radtour führt Sie zur ruhigen Naturstation, wo sich Zugvögel sammeln, und bietet einen friedlichen Start. Mittags radeln Sie zum spirituellen Zentrum und entspannen am öffentlichen Strand. Am Nachmittag fahren Sie weiter nach Süden, um historische Museen in Ruhe zu erkunden. Beenden Sie den Tag bei den antiken Radios, bevor Sie in den späten Nachmittag zurückkehren.",
+        "hu": "Egy reggeli kerékpározás a békés természetvédelmi állomásra visz, ahol a vándormadarak gyülekeznek. Délben a város spirituális központja felé pedálozhat, majd a szabadstrandon pihenhet. Délután tekerjen délebbre, hogy kényelmes tempóban fedezze fel a történelmi múzeumokat. Zárja a napot az antik rádiók között, mielőtt visszaindulna a késő délutánba.",
+        "ro": "O plimbare matinală cu bicicleta vă duce la stația de natură unde se adună păsările, oferind un început liniștit. La prânz pedalați spre centrul spiritual și vă relaxați pe plaja publică. După-amiaza, mergeți mai spre sud pentru a explora muzeele istorice într-un ritm relaxat. Încheiați ziua printre radiourile antice, înainte de a vă întoarce la cazare.",
+        "en": "A morning ride takes you to the serene nature station where migratory birds gather, offering a peaceful start to the day. Midday finds you pedaling towards the town's spiritual center and then relaxing on the expansive public beach. As afternoon progresses, cycle further south to explore historic and cultural museums at a leisurely pace. End the day reflecting on antique radios."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:24",
+      "total_km": 7.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa",
+            "hu": "Chiesa",
+            "ro": "Chiesa",
+            "en": "Chiesa"
+          },
+          "coords": [
+            12.436134,
+            44.171051
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese kleine Kirche abseits des Trubels, die oft kühler ist und somit einen perfekten und ruhigen Rückzugsort in den frühen Stunden bietet.",
+            "hu": "Fedezze fel ezt a kis templomot távol a fő nyüzsgéstől, amely gyakran hűvösebb, és így tökéletes, békés menedéket nyújt a reggeli órákban a turistáknak.",
+            "ro": "Explorați această biserică mică departe de agitație, care este adesea mai răcoroasă, oferind astfel un refugiu perfect și liniștit în orele dimineții.",
+            "en": "Explore this small, charming church away from the main hustle, which is often cooler and therefore provides a perfect peaceful retreat during the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Eden",
+            "hu": "Bagno Eden",
+            "ro": "Bagno Eden",
+            "en": "Bagno Eden"
+          },
+          "coords": [
+            12.429325,
+            44.178674
+          ],
+          "category": "recreational",
+          "arrive_at": "09:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem ruhigen Küstenabschnitt, der für sauberen Sand bekannt ist, und mieten Sie einen Liegestuhl, um sich den besten Platz zu sichern.",
+            "hu": "Pihenjen ezen a tiszta homokjáról ismert, csendes partszakaszon, és béreljen napágyat még délelőtt, hogy biztosítsa a legjobb helyet a tengerparti kikapcsolódáshoz.",
+            "ro": "Relaxați-vă pe această coastă liniștită recunoscută pentru nisipul curat și închiriați un șezlong pentru a vă asigura cel mai bun loc devreme.",
+            "en": "Relax at this quiet stretch of coast known for its clean sand, and rent a lounge chair early in the day to secure the best spot for your seaside relaxation."
+          }
+        },
+        {
+          "name": {
+            "de": "Stazione di inanellamento LIPU",
+            "hu": "Stazione di inanellamento LIPU",
+            "ro": "Stazione di inanellamento LIPU",
+            "en": "Stazione di inanellamento LIPU"
+          },
+          "coords": [
+            12.433841,
+            44.164557
+          ],
+          "category": "natural",
+          "arrive_at": "11:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese Station und beobachten Sie die Natur; nehmen Sie sich Zeit, die Tafeln zu lesen, um die lokalen Zugvögel besser zu verstehen.",
+            "hu": "Látogasson el erre az állomásra és figyelje meg a természetet; szánjon időt a táblák elolvasására, hogy jobban megértse a helyi vándormadarak életét.",
+            "ro": "Vizitați această stație și observați natura; luați-vă timp să citiți panourile pentru a înțelege mai bine păsările migratoare locale și habitatul lor.",
+            "en": "Visit this station and observe nature closely; take time to read the informational boards to better understand the local migratory birds and their unique habitat."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Alba",
+            "hu": "Bagno Alba",
+            "ro": "Bagno Alba",
+            "en": "Bagno Alba"
+          },
+          "coords": [
+            12.445684,
+            44.165984
+          ],
+          "category": "recreational",
+          "arrive_at": "12:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erleben Sie italienisches Strandleben mit ausgezeichneten Einrichtungen, in denen Sie einen kühlen Drink an der Bar probieren sollten, während Sie das Meer betrachten.",
+            "hu": "Tapasztalja meg az olasz tengerparti életet kiváló létesítményekkel, ahol érdemes megkóstolni egy hideg italt a bárban, miközben a tengert figyeli az árnyékból.",
+            "ro": "Experimentați viața de plajă italiană cu facilități excelente, unde ar trebui să savurați o băutură rece la bar în timp ce admirați liniștea mării albastre.",
+            "en": "Experience classic Italian beach life with excellent facilities, where you should try a cold drink at the bar while comfortably watching the gentle waves."
+          }
+        },
+        {
+          "name": {
+            "de": "La Casa Rossa",
+            "hu": "La Casa Rossa",
+            "ro": "La Casa Rossa",
+            "en": "La Casa Rossa"
+          },
+          "coords": [
+            12.450984,
+            44.158506
+          ],
+          "category": "museum",
+          "arrive_at": "13:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das Erbe des Dichters Giovanni Pascoli in diesem historischen Haus ein, wo Sie die detaillierten Einblicke in seine reiche Kindheit lesen sollten.",
+            "hu": "Merüljön el Giovanni Pascoli költő örökségében ebben a történelmi házban, ahol érdemes időt szánni gyermekkorának részletes elolvasására és megértésére.",
+            "ro": "Scufundați-vă în moștenirea poetului Giovanni Pascoli în această casă istorică, unde ar trebui să vă luați timp pentru a citi detaliile fascinante ale tinereții sale.",
+            "en": "Delve into the legacy of poet Giovanni Pascoli in this historic red house, where you should take your time to thoroughly read the fascinating details of his early life."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Radio d'Epoca",
+            "hu": "Museo Radio d'Epoca",
+            "ro": "Museo Radio d'Epoca",
+            "en": "Museo Radio d'Epoca"
+          },
+          "coords": [
+            12.460717,
+            44.15037
+          ],
+          "category": "museum",
+          "arrive_at": "15:14",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Entwicklung der Kommunikation durch antike Radios und fragen Sie das Personal nach den faszinierenden Geschichten der seltensten Ausstellungsstücke.",
+            "hu": "Fedezze fel a kommunikáció történetét az antik rádiókon keresztül, és kérdezze meg a személyzetet a legritkább kiállítási tárgyak mögött rejlő titkokról.",
+            "ro": "Descoperiți istoria comunicării prin radiouri antice și întrebați personalul amabil despre poveștile din spatele celor mai rare și valoroase exponate.",
+            "en": "Discover the fascinating history of communication through antique radios, and ask the knowledgeable staff about the rich stories behind the rarest exhibits."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie frühmorgens in den Norden, um eine ruhige Kirche zu erkunden und die unberührten Strände zu genießen. Mittags fahren Sie bequem zum Naturschutzgebiet und weiter zu den belebten zentralen Küstenabschnitten. Ihr Nachmittag ist den kulturellen Schätzen gewidmet, wenn Sie zum historischen Pascoli-Haus fahren. Der spätere Nachmittag bleibt für Vintage-Entdeckungen im Radiomuseum reserviert.",
+        "hu": "Autózzon korán északra, hogy felfedezzen egy csendes templomot és élvezze az érintetlen északi strandokat. Délben kényelmesen eljuthat a természetvédelmi területre, majd a nyüzsgő központi partszakaszokra. A délutánt a kulturális gyöngyszemeknek szentelheti, elautózva a történelmi Pascoli-házhoz. A késő délután a rádiómúzeum vintage felfedezéseinek van fenntartva.",
+        "ro": "Conduceți dimineața spre limitele nordice pentru a explora o biserică liniștită și plajele imaculate înainte de aglomerație. La prânz, navigați confortabil spre rezervația naturală și apoi spre plajele centrale pline de viață. După-amiaza este dedicată comorilor culturale, conducând spre casa istorică Pascoli. Ziua este rezervată descoperirilor vintage la muzeul radioului.",
+        "en": "Drive to the northern limits early on to explore a quiet church and enjoy the pristine northern beaches before the crowds arrive. By midday, comfortably navigate to the nature reserve and then down to the lively central shorelines for a break. Your afternoon is dedicated to the cultural gems, driving smoothly to the historic Pascoli house. The day wraps up with vintage discoveries at the radio museum."
+      }
+    }
+  }
+}

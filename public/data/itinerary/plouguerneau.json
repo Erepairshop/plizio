@@ -1,0 +1,451 @@
+{
+  "city_id": "plouguerneau",
+  "anchor": {
+    "name": "Plouguerneau",
+    "coords": [
+      -4.5042,
+      48.6058
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:54",
+      "total_km": 4.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Écomusée des Goémoniers",
+            "hu": "Écomusée des Goémoniers",
+            "ro": "Écomusée des Goémoniers",
+            "en": "Écomusée des Goémoniers"
+          },
+          "coords": [
+            -4.507345,
+            48.60835
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem einzigartigen Museum die faszinierende Geschichte der lokalen Algenernte und prüfen Sie vor dem Besuch den Workshop-Plan.",
+            "hu": "Fedezze fel a helyi hínárgyűjtés lenyűgöző történetét ebben az egyedi múzeumban, és látogatás előtt mindenképpen ellenőrizze a workshopok naptárát.",
+            "ro": "Descoperiți istoria fascinantă a recoltării algelor locale în acest muzeu unic și asigurați-vă că verificați programul atelierelor înainte de vizită.",
+            "en": "Discover the fascinating local seaweed harvesting history at this unique museum, and be sure to check the seasonal workshop schedule before you visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Site d'Iliz Koz",
+            "hu": "Site d'Iliz Koz",
+            "ro": "Site d'Iliz Koz",
+            "en": "Site d'Iliz Koz"
+          },
+          "coords": [
+            -4.513378,
+            48.628341
+          ],
+          "category": "historical",
+          "arrive_at": "11:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese bemerkenswerten mittelalterlichen Dorfruinen im Sand und tragen Sie festes Schuhwerk, um den unebenen Boden bequem zu meistern.",
+            "hu": "Fedezze fel ezeket a homok által elnyelt lenyűgöző középkori faluromokat, és viseljen masszív cipőt a kissé egyenetlen talajon való sétáláshoz.",
+            "ro": "Explorați aceste ruine remarcabile ale satului medieval înghițit de nisip și purtați încălțăminte robustă pentru a naviga confortabil pe teren.",
+            "en": "Explore these remarkable medieval village ruins swallowed by sand centuries ago, wearing sturdy shoes to comfortably navigate the uneven ground here."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Michel",
+            "hu": "Chapelle Saint-Michel",
+            "ro": "Chapelle Saint-Michel",
+            "en": "Chapelle Saint-Michel"
+          },
+          "coords": [
+            -4.517648,
+            48.632871
+          ],
+          "category": "religious",
+          "arrive_at": "12:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese reizvolle Küstenkapelle, die den Elementen trotzt, und bringen Sie eine Windjacke mit, um die weiten Ausblicke zu genießen.",
+            "hu": "Csodálja meg ezt a tengerparti kápolnát, amely büszkén dacol az elemekkel, és hozzon magával egy széldzsekit, hogy élvezhesse az óceáni kilátást.",
+            "ro": "Admirați această capelă de coastă fermecătoare care înfruntă elementele și aduceți o geacă de vânt pentru a vă bucura de priveliștile oceanice.",
+            "en": "Admire this charming coastal chapel standing proudly against the elements, and bring a windbreaker to comfortably enjoy the sweeping oceanic vistas."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Grève Blanche",
+            "hu": "Plage de la Grève Blanche",
+            "ro": "Plage de la Grève Blanche",
+            "en": "Plage de la Grève Blanche"
+          },
+          "coords": [
+            -4.531745,
+            48.628709
+          ],
+          "category": "natural",
+          "arrive_at": "13:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem makellosen weißen Sandstrand, der ideal zum Fotografieren ist, und kommen Sie früh, um die besten Plätze zu sichern.",
+            "hu": "Pihenjen ezen a fotózásra is tökéletes, érintetlen fehér homokos partszakaszon, és érkezzen korán, hogy biztosan a legjobb tengerparti helyet kapja.",
+            "ro": "Relaxați-vă pe această întindere curată de nisip alb, perfectă pentru fotografii, și veniți devreme pentru a vă asigura cele mai bune locuri.",
+            "en": "Relax on this pristine stretch of white sand perfect for coastal photography, and try to arrive early in the day to secure the best seaside spots."
+          }
+        },
+        {
+          "name": {
+            "de": "Grève Blanche",
+            "hu": "Grève Blanche",
+            "ro": "Grève Blanche",
+            "en": "Grève Blanche"
+          },
+          "coords": [
+            -4.529982,
+            48.629765
+          ],
+          "category": "recreational",
+          "arrive_at": "15:09",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie einen friedlichen Nachmittagsspaziergang entlang dieser schönen Küste und packen Sie ein Picknick ein, um die maritime Atmosphäre zu erleben.",
+            "hu": "Élvezze a békés délutáni sétát ezen a gyönyörű szabadidős partszakaszon, és csomagoljon be egy kis pikniket a csodálatos tengeri hangulat mellé.",
+            "ro": "Bucurați-vă de o plimbare liniștită de după-amiază de-a lungul acestei frumoase coaste și aduceți un mic picnic pentru a savura atmosfera maritimă.",
+            "en": "Enjoy a peaceful afternoon stroll along this beautiful recreational shoreline, packing a small picnic to savor the wonderful maritime atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Abenteuer eingetaucht in das reiche maritime Erbe im Algenmuseum. Mittags erreichen Sie die faszinierenden mittelalterlichen Ruinen von Iliz Koz. Den Nachmittag verbringen Sie damit, die frische Meeresluft an der Küstenkapelle einzuatmen. Ihr Abend endet mit einem friedlichen Spaziergang entlang der Grève Blanche.",
+        "hu": "Kezdje kalandját a tengeri örökségben elmerülve a hínármúzeumban. A dél elérkezik Iliz Koz lenyűgöző középkori romjaihoz. A délutánt a friss óceáni levegő belélegzésével tölti a partmenti kápolnáknál. Az estéje egy békés sétával zárul a Grève Blanche partjainál.",
+        "ro": "Începeți aventura scufundat în bogatul patrimoniu maritim la muzeul algelor. Amiaza vă aduce la fascinantele ruine medievale din Iliz Koz. După-amiaza este petrecută respirând aerul proaspăt al oceanului la capelele de coastă. Seara se încheie cu o plimbare liniștită de-a lungul coastelor Grève Blanche.",
+        "en": "Begin your adventure immersed in the rich maritime heritage at the seaweed museum. Midday brings you to the fascinating medieval ruins of Iliz Koz. Afternoon is spent breathing the fresh ocean air at the scenic coastal chapels and white sand stretches. Your evening concludes with a peaceful walk along the Grève Blanche shores."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:12",
+      "total_km": 14.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pont du Diable",
+            "hu": "Pont du Diable",
+            "ro": "Pont du Diable",
+            "en": "Pont du Diable"
+          },
+          "coords": [
+            -4.481969,
+            48.575003
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen alten, mysteriösen Steinübergang in den Gezeitengewässern und kommen Sie bei Ebbe, um seine raue Architektur zu würdigen.",
+            "hu": "Csodálja meg ezt az árapályvizekkel körülvett, ősi és titokzatos kőátkelőt, és látogasson el apálykor, hogy teljes mértékben értékelje a formáját.",
+            "ro": "Minunați-vă de această trecere de piatră veche și misterioasă și vizitați-o în timpul refluxului pentru a aprecia pe deplin arhitectura sa robustă.",
+            "en": "Marvel at this ancient, mysterious stone crossing surrounded by tidal waters, and visit during low tide to fully appreciate its rugged architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Écomusée des Goémoniers",
+            "hu": "Écomusée des Goémoniers",
+            "ro": "Écomusée des Goémoniers",
+            "en": "Écomusée des Goémoniers"
+          },
+          "coords": [
+            -4.507345,
+            48.60835
+          ],
+          "category": "museum",
+          "arrive_at": "10:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem einzigartigen Museum die faszinierende Geschichte der lokalen Algenernte und prüfen Sie vor dem Besuch den Workshop-Plan.",
+            "hu": "Fedezze fel a helyi hínárgyűjtés lenyűgöző történetét ebben az egyedi múzeumban, és látogatás előtt mindenképpen ellenőrizze a workshopok naptárát.",
+            "ro": "Descoperiți istoria fascinantă a recoltării algelor locale în acest muzeu unic și asigurați-vă că verificați programul atelierelor înainte de vizită.",
+            "en": "Discover the fascinating local seaweed harvesting history at this unique museum, and be sure to check the seasonal workshop schedule before you visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Site d'Iliz Koz",
+            "hu": "Site d'Iliz Koz",
+            "ro": "Site d'Iliz Koz",
+            "en": "Site d'Iliz Koz"
+          },
+          "coords": [
+            -4.513378,
+            48.628341
+          ],
+          "category": "historical",
+          "arrive_at": "12:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese bemerkenswerten mittelalterlichen Dorfruinen im Sand und tragen Sie festes Schuhwerk, um den unebenen Boden bequem zu meistern.",
+            "hu": "Fedezze fel ezeket a homok által elnyelt lenyűgöző középkori faluromokat, és viseljen masszív cipőt a kissé egyenetlen talajon való sétáláshoz.",
+            "ro": "Explorați aceste ruine remarcabile ale satului medieval înghițit de nisip și purtați încălțăminte robustă pentru a naviga confortabil pe teren.",
+            "en": "Explore these remarkable medieval village ruins swallowed by sand centuries ago, wearing sturdy shoes to comfortably navigate the uneven ground here."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Lilia",
+            "hu": "Plage de Lilia",
+            "ro": "Plage de Lilia",
+            "en": "Plage de Lilia"
+          },
+          "coords": [
+            -4.564424,
+            48.620839
+          ],
+          "category": "recreational",
+          "arrive_at": "14:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Machen Sie eine erfrischende Pause an diesem malerischen Strand mit klarem Wasser und halten Sie Ausschau nach interessanten lokalen Muscheln am Ufer.",
+            "hu": "Tartson egy frissítő szünetet ezen a gyönyörű, tiszta vizű festői strandon, és tartsa nyitva a szemét az érdekes helyi kagylók után a homokban.",
+            "ro": "Faceți o pauză răcoritoare la această plajă pitorească cu ape limpezi și căutați scoici locale interesante împrăștiate de-a lungul țărmului.",
+            "en": "Take a refreshing break at this lovely scenic beach offering clear waters, and keep an eye out for interesting local seashells scattered on the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare de l'Île Vierge",
+            "hu": "Phare de l'Île Vierge",
+            "ro": "Phare de l'Île Vierge",
+            "en": "Phare de l'Île Vierge"
+          },
+          "coords": [
+            -4.566944,
+            48.638889
+          ],
+          "category": "historical",
+          "arrive_at": "15:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erleben Sie hier den höchsten steinernen Leuchtturm Europas in seiner vollen Pracht und buchen Sie Ihren Bootstransfer frühzeitig für den Besuch.",
+            "hu": "Csodálja meg Európa legmagasabb kőből épült világítótornyának fenséges látványát, és jó előre foglalja le a hajótranszfert a zökkenőmentes élményért.",
+            "ro": "Vedeți cel mai înalt far de piatră din Europa stând maiestuos aici și rezervați-vă transferul cu barca din timp pentru a asigura o vizită plăcută.",
+            "en": "Witness the tallest stone lighthouse in Europe standing majestically here, and book your boat transfer well in advance to ensure a smooth visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Saint-Cava",
+            "hu": "Plage de Saint-Cava",
+            "ro": "Plage de Saint-Cava",
+            "en": "Plage de Saint-Cava"
+          },
+          "coords": [
+            -4.567057,
+            48.616112
+          ],
+          "category": "recreational",
+          "arrive_at": "17:27",
+          "stay_min": 105,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Ausflug an dieser ruhigen Bucht mit fantastischem Blick auf den Sonnenuntergang und packen Sie eine zusätzliche Kleidungsschicht ein.",
+            "hu": "Zárja kirándulását ebben a békés tengerparti öbölben, ahonnan fantasztikus a naplemente, és hozzon extra ruhát az esti tengeri szellő miatt.",
+            "ro": "Încheiați-vă călătoria în acest golf senin de coastă cu vederi fantastice la apus, împachetând un strat suplimentar pentru briza mării de seară.",
+            "en": "Conclude your trip at this serene coastal bay with fantastic sunset views, packing an extra layer of clothing as the evening sea breeze sets in."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am geheimnisvollen Teufelsbrücke. Mittags tauchen Sie im einzigartigen Algenmuseum und bei den antiken Ruinen in die lokale Geschichte ein. Radeln Sie am Nachmittag zu dem majestätischen Leuchtturm, der die Küste dominiert. Am Abend beobachten Sie, wie sich der Himmel über dem entspannenden Strand von Saint-Cava verfärbt.",
+        "hu": "Indítsa kerékpártúráját a titokzatos Ördöghídnál. Délben megismerkedhet a helyi történelemmel az egyedülálló hínármúzeumban és az ősi romoknál. Délután tekerjen a sziklás tengerpartot uraló fenséges világítótorony felé. Végül nézze meg az esti égbolt átalakulását a pihentető Saint-Cava strandon.",
+        "ro": "Începeți turul cu bicicleta cu o oprire la misteriosul Pod al Diavolului. Amiaza vă poartă prin istoria locală la muzeul algelor și ruinele antice. În timpul după-amiezii, pedalați spre farul maiestuos care domină litoralul stâncos. În cele din urmă, urmăriți cum se transformă cerul serii deasupra plajei relaxante Saint-Cava.",
+        "en": "Kick off your cycling tour with a stop at the mysterious Devil's Bridge. Midday takes you through local history at the unique seaweed museum and ancient ruins. During the afternoon, pedal your way towards the majestic lighthouse dominating the rocky coastline. Finally, watch the evening sky transform over the relaxing Saint-Cava beach."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:38",
+      "total_km": 22.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Grève du vougot",
+            "hu": "Grève du vougot",
+            "ro": "Grève du vougot",
+            "en": "Grève du vougot"
+          },
+          "coords": [
+            -4.456029,
+            48.632782
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Morgen mit den weiten Sanddünen und sanften Meereswellen, wobei Sie auf den markierten Wegen bleiben sollten, um die Flora zu schützen.",
+            "hu": "Kezdje a reggelt a hatalmas homokdűnék és a lágy óceáni hullámok élvezetével, ügyelve arra, hogy a kijelölt ösvényeken maradjon a növények védelmében.",
+            "ro": "Începeți dimineața bucurându-vă de dunele vaste de nisip și de valurile blânde, asigurându-vă că rămâneți pe trasee pentru a proteja flora locală.",
+            "en": "Start the morning enjoying the vast sandy dunes and gentle ocean waves here, making sure to stay on the marked trails to protect local flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Site d'Iliz Koz",
+            "hu": "Site d'Iliz Koz",
+            "ro": "Site d'Iliz Koz",
+            "en": "Site d'Iliz Koz"
+          },
+          "coords": [
+            -4.513378,
+            48.628341
+          ],
+          "category": "historical",
+          "arrive_at": "10:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese bemerkenswerten mittelalterlichen Dorfruinen im Sand und tragen Sie festes Schuhwerk, um den unebenen Boden bequem zu meistern.",
+            "hu": "Fedezze fel ezeket a homok által elnyelt lenyűgöző középkori faluromokat, és viseljen masszív cipőt a kissé egyenetlen talajon való sétáláshoz.",
+            "ro": "Explorați aceste ruine remarcabile ale satului medieval înghițit de nisip și purtați încălțăminte robustă pentru a naviga confortabil pe teren.",
+            "en": "Explore these remarkable medieval village ruins swallowed by sand centuries ago, wearing sturdy shoes to comfortably navigate the uneven ground here."
+          }
+        },
+        {
+          "name": {
+            "de": "Écomusée des Goémoniers",
+            "hu": "Écomusée des Goémoniers",
+            "ro": "Écomusée des Goémoniers",
+            "en": "Écomusée des Goémoniers"
+          },
+          "coords": [
+            -4.507345,
+            48.60835
+          ],
+          "category": "museum",
+          "arrive_at": "11:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem einzigartigen Museum die faszinierende Geschichte der lokalen Algenernte und prüfen Sie vor dem Besuch den Workshop-Plan.",
+            "hu": "Fedezze fel a helyi hínárgyűjtés lenyűgöző történetét ebben az egyedi múzeumban, és látogatás előtt mindenképpen ellenőrizze a workshopok naptárát.",
+            "ro": "Descoperiți istoria fascinantă a recoltării algelor locale în acest muzeu unic și asigurați-vă că verificați programul atelierelor înainte de vizită.",
+            "en": "Discover the fascinating local seaweed harvesting history at this unique museum, and be sure to check the seasonal workshop schedule before you visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont du Diable",
+            "hu": "Pont du Diable",
+            "ro": "Pont du Diable",
+            "en": "Pont du Diable"
+          },
+          "coords": [
+            -4.481969,
+            48.575003
+          ],
+          "category": "historical",
+          "arrive_at": "13:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen alten, mysteriösen Steinübergang in den Gezeitengewässern und kommen Sie bei Ebbe, um seine raue Architektur zu würdigen.",
+            "hu": "Csodálja meg ezt az árapályvizekkel körülvett, ősi és titokzatos kőátkelőt, és látogasson el apálykor, hogy teljes mértékben értékelje a formáját.",
+            "ro": "Minunați-vă de această trecere de piatră veche și misterioasă și vizitați-o în timpul refluxului pentru a aprecia pe deplin arhitectura sa robustă.",
+            "en": "Marvel at this ancient, mysterious stone crossing surrounded by tidal waters, and visit during low tide to fully appreciate its rugged architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Baie des Anges",
+            "hu": "Plage de la Baie des Anges",
+            "ro": "Plage de la Baie des Anges",
+            "en": "Plage de la Baie des Anges"
+          },
+          "coords": [
+            -4.570716,
+            48.596709
+          ],
+          "category": "recreational",
+          "arrive_at": "15:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese idyllische Engelsbucht mit ruhigem Wasser zum Waten und bringen Sie eine wasserdichte Kamera für tolle Urlaubsschnappschüsse mit.",
+            "hu": "Fedezze fel ezt az idilli angyalöblöt, amelynek nyugodt vize tökéletes a gázoláshoz, és hozzon vízálló kamerát a nagyszerű nyaralási fotókhoz.",
+            "ro": "Descoperiți acest golf idilic al îngerilor, cu ape calme, perfecte pentru o baie, și aduceți o cameră rezistentă la apă pentru fotografii grozave.",
+            "en": "Discover this idyllic angel bay offering calm waters perfect for wading, and consider bringing along a waterproof camera for great holiday snapshots."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare de l'Île Vierge",
+            "hu": "Phare de l'Île Vierge",
+            "ro": "Phare de l'Île Vierge",
+            "en": "Phare de l'Île Vierge"
+          },
+          "coords": [
+            -4.566944,
+            48.638889
+          ],
+          "category": "historical",
+          "arrive_at": "16:48",
+          "stay_min": 110,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.7,
+          "tip_5lang": {
+            "de": "Erleben Sie hier den höchsten steinernen Leuchtturm Europas in seiner vollen Pracht und buchen Sie Ihren Bootstransfer frühzeitig für den Besuch.",
+            "hu": "Csodálja meg Európa legmagasabb kőből épült világítótornyának fenséges látványát, és jó előre foglalja le a hajótranszfert a zökkenőmentes élményért.",
+            "ro": "Vedeți cel mai înalt far de piatră din Europa stând maiestuos aici și rezervați-vă transferul cu barca din timp pentru a asigura o vizită plăcută.",
+            "en": "Witness the tallest stone lighthouse in Europe standing majestically here, and book your boat transfer well in advance to ensure a smooth visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre malerische Fahrt und erkunden Sie die weiten natürlichen Dünen der Ostküste. Tauchen Sie mittags in die fesselnde Geschichte des begrabenen Dorfes ein. Der Nachmittag bietet eine gemütliche Küstenfahrt zur malerischen Engelsbucht. Ihr Tag gipfelt perfekt unter dem imposanten Schatten von Europas höchstem Steinleuchtturm.",
+        "hu": "Kezdje a festői autózást a keleti part lenyűgöző természetes dűnéinek felfedezésével. Délre merüljön el az eltemetett középkori falu magával ragadó történetében. A délután egy kellemes autózást kínál a festői angyalöböl felé. A nap tökéletesen csúcsosodik ki Európa legmagasabb kő világítótornyának impozáns árnyékában.",
+        "ro": "Începeți condusul pitoresc explorând dunele naturale vaste ale coastei de est. Până la prânz, aprofundați istoria captivantă a satului medieval îngropat. După-amiaza prezintă o plimbare liniștită pe coastă spre golful idilic al îngerilor. Ziua culminează perfect sub umbra impunătoare a celui mai înalt far de piatră din Europa.",
+        "en": "Start your scenic drive exploring the sweeping natural dunes of the eastern coast. By midday, delve into the captivating history of the buried medieval village. The afternoon features a leisurely coastal drive toward the scenic angel bay and beyond. Your day culminates perfectly under the imposing shadow of Europe's tallest stone lighthouse."
+      }
+    }
+  }
+}

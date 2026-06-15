@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-chiavari-cities-v2",
+  "anchor": {
+    "name": "Chiavari",
+    "coords": [
+      9.32446,
+      44.31757
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:49",
+      "total_km": 3.51,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bagni Ste",
+            "hu": "Bagni Ste",
+            "ro": "Bagni Ste",
+            "en": "Bagni Ste"
+          },
+          "coords": [
+            9.312006,
+            44.318643
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 55,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige morgendliche Küstenlinie im Bagni Ste, wo die sanften Wellen eine perfekte Kulisse bieten, wenn Sie früh genug für einen guten Platz ankommen.",
+            "hu": "Élvezze a csendes tengerparti reggelt a Bagni Ste területén, ahol a békés hullámzás tökéletes hátteret nyújt, ha elég korán érkezik egy kényelmes hely biztosításához.",
+            "ro": "Bucurați-vă de coasta liniștită a dimineții la Bagni Ste, unde valurile senine oferă un decor perfect dacă ajungeți suficient de devreme pentru a prinde un loc bun.",
+            "en": "Enjoy the calm morning coastline at Bagni Ste, where the serene waves offer a perfect backdrop if you arrive early enough to secure a comfortable seaside spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Ciccio",
+            "hu": "Bagni Ciccio",
+            "ro": "Bagni Ciccio",
+            "en": "Bagni Ciccio"
+          },
+          "coords": [
+            9.314656,
+            44.317435
+          ],
+          "category": "recreational",
+          "arrive_at": "09:59",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Setzen Sie Ihren Küstenspaziergang im Bagni Ciccio fort, um die authentische Strandatmosphäre zu spüren, die Sie am besten mit einem kühlen Getränk vom Kiosk genießen.",
+            "hu": "Folytassa tengerparti sétáját a Bagni Ciccio strandján a helyi hangulatért, amelyet egy közeli kioszkból származó frissítő ital kíséretében érdemes a leginkább átélni.",
+            "ro": "Continuați plimbarea de coastă la Bagni Ciccio pentru a simți atmosfera locală, care este cel mai bine experimentată savurând o băutură răcoritoare de la un chioșc.",
+            "en": "Continue your coastal stroll at Bagni Ciccio to feel the authentic local beach vibe, which is best experienced by grabbing a quick refreshing drink from a nearby kiosk."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Nino",
+            "hu": "Bagni Nino",
+            "ro": "Bagni Nino",
+            "en": "Bagni Nino"
+          },
+          "coords": [
+            9.316305,
+            44.316605
+          ],
+          "category": "recreational",
+          "arrive_at": "10:47",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich eine wohlverdiente Pause im Bagni Nino, um das lebhafte Treiben am Meer zu beobachten, und vergessen Sie nicht, reichlich Sonnencreme aufzutragen.",
+            "hu": "Tartson egy jól megérdemelt pihenőt a Bagni Nino részen, hogy megfigyelje a nyüzsgő parti életet, de feltétlenül hozzon magával naptejet az erős déli napsütés miatt.",
+            "ro": "Luați o pauză binemeritată la Bagni Nino pentru a privi activitățile pline de viață de la malul mării, asigurându-vă că aveți protecție solară pentru soarele amiezii.",
+            "en": "Take a well-deserved rest at Bagni Nino to watch the lively seaside activities, making sure to bring plenty of sunscreen as the midday sun can be quite intense here."
+          }
+        },
+        {
+          "name": {
+            "de": "Santuario Madonna dell'Ulivo",
+            "hu": "Santuario Madonna dell'Ulivo",
+            "ro": "Santuario Madonna dell'Ulivo",
+            "en": "Santuario Madonna dell'Ulivo"
+          },
+          "coords": [
+            9.318266,
+            44.322825
+          ],
+          "category": "religious",
+          "arrive_at": "11:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die spirituelle Ruhe des Santuario Madonna dell'Ulivo, um die religiöse Kunst zu bewundern, wobei Sie an angemessene, bescheidene Kleidung denken sollten.",
+            "hu": "Fedezze fel a Santuario Madonna dell'Ulivo lelki nyugalmát és csodálja meg művészetét, szem előtt tartva, hogy a szentélybe lépéshez szerény öltözet kötelező.",
+            "ro": "Descoperiți calmul spiritual de la Santuario Madonna dell'Ulivo pentru a admira arta religioasă, amintindu-vă că este necesară o ținută decentă pentru a vizita sanctuarul.",
+            "en": "Discover the spiritual calm of Santuario Madonna dell'Ulivo to admire its beautiful religious art, keeping in mind that modest dress is required to enter the sanctuary."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello",
+            "hu": "Castello",
+            "ro": "Castello",
+            "en": "Castello"
+          },
+          "coords": [
+            9.337534,
+            44.337387
+          ],
+          "category": "castle",
+          "arrive_at": "12:59",
+          "stay_min": 110,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour am historischen Castello, um den Panoramablick auf Chiavari zu genießen, und tragen Sie festes Schuhwerk, da der letzte Aufstieg ziemlich steil ist.",
+            "hu": "Zárja gyalogos túráját a történelmi Castellónál, hogy élvezze a Chiavari-ra nyíló panorámát, de viseljen masszív cipőt, mivel az utolsó emelkedő meglehetősen meredek.",
+            "ro": "Încheiați turul la istoricul Castello pentru a vă bucura de vederi panoramice asupra orașului Chiavari, purtând încălțăminte comodă deoarece urcarea finală este abruptă.",
+            "en": "Conclude your walking tour at the historic Castello to enjoy panoramic views of Chiavari, wearing sturdy walking shoes as the final ascent involves some steep paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einem sanften Spaziergang entlang der Küste, bei dem Sie die beruhigende Atmosphäre von Bagni Ste und Bagni Ciccio erkunden.\n\nZur Mittagszeit erwacht in Bagni Nino eine lebhafte Energie, wo die lokale Strandkultur unter der Sonne richtig auflebt.\n\nAm Nachmittag wendet sich die Reise ins Landesinnere zur spirituellen Gelassenheit des Santuario Madonna dell'Ulivo.\n\nDer Abend bricht herein, wenn Sie das historische Castello erreichen, das atemberaubende Ausblicke auf die wunderschöne Stadt Chiavari bietet.",
+        "hu": "A reggel egy kellemes tengerparti sétával indul, amely során felfedezheti a Bagni Ste és a Bagni Ciccio megnyugtató atmoszféráját.\n\nDélben a Bagni Nino pezsgő energiája várja, ahol a helyi strandkultúra igazán életre kel a szikrázó napsütésben.\n\nDélután az utazás a szárazföld belseje felé fordul, hogy megtapasztalhassa a Santuario Madonna dell'Ulivo lelki nyugalmát.\n\nAz este a történelmi Castellónál éri utol, amely lélegzetelállító naplementés kilátást nyújt a gyönyörű Chiavari városára.",
+        "ro": "Dimineața începe cu o plimbare blândă de-a lungul coastei, explorând atmosferele liniștitoare de la malul mării din Bagni Ste și Bagni Ciccio.\n\nAmiaza aduce o energie vibrantă la Bagni Nino, unde cultura locală a plajei prinde cu adevărat viață sub soarele cald.\n\nDupă-amiaza, călătoria se îndreaptă spre interiorul orașului către seninătatea spirituală a Santuario Madonna dell'Ulivo.\n\nSeara coboară pe măsură ce ajungeți la istoricul Castello, oferind priveliști uluitoare la apus peste frumosul oraș Chiavari.",
+        "en": "Morning begins with a gentle stroll along the coast, exploring the calming seaside atmospheres of Bagni Ste and Bagni Ciccio.\n\nMidday brings a vibrant energy at Bagni Nino, where the local beach culture truly comes alive under the bright sun.\n\nIn the afternoon, the journey turns inland towards the spiritual serenity of the beautiful Santuario Madonna dell'Ulivo.\n\nEvening falls as you reach the historic Castello, offering breathtaking sunset views over the picturesque town of Chiavari."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:28",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parco Naturale Regionale di Portofino",
+            "hu": "Parco Naturale Regionale di Portofino",
+            "ro": "Parco Naturale Regionale di Portofino",
+            "en": "Parco Naturale Regionale di Portofino"
+          },
+          "coords": [
+            9.303644,
+            44.326677
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Radtour durch den Parco Naturale Regionale di Portofino, um die unberührte Flora zu erleben, und prüfen Sie vorab Ihren Reifendruck.",
+            "hu": "Kezdje a kerékpározást a Parco Naturale Regionale di Portofino ösvényein a mediterrán növényzet felfedezésével, de előtte ellenőrizze a guminyomást.",
+            "ro": "Începeți plimbarea cu bicicleta prin Parco Naturale Regionale di Portofino pentru a admira flora intactă, verificând presiunea anvelopelor înainte.",
+            "en": "Start cycling through the Parco Naturale Regionale di Portofino to immerse yourself in untouched Mediterranean flora, checking your tire pressure first."
+          }
+        },
+        {
+          "name": {
+            "de": "Madonna delle Grazie",
+            "hu": "Madonna delle Grazie",
+            "ro": "Madonna delle Grazie",
+            "en": "Madonna delle Grazie"
+          },
+          "coords": [
+            9.301121,
+            44.325174
+          ],
+          "category": "religious",
+          "arrive_at": "10:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Halten Sie an der Madonna delle Grazie für einen Moment tiefer Ruhe und respektieren Sie die stille Atmosphäre, die von der lokalen Gemeinde gepflegt wird.",
+            "hu": "Álljon meg a Madonna delle Grazie-nál egy pillanatnyi mély nyugalomért, és ügyeljen arra, hogy tiszteletben tartsa a helyi közösség által fenntartott csendet.",
+            "ro": "Opriți la Madonna delle Grazie pentru a experimenta un moment de liniște profundă, având grijă să respectați atmosfera tăcută menținută de comunitate.",
+            "en": "Stop by Madonna delle Grazie to experience a moment of profound tranquility, making sure to respect the silent atmosphere maintained by the local faithful."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Ste",
+            "hu": "Bagni Ste",
+            "ro": "Bagni Ste",
+            "en": "Bagni Ste"
+          },
+          "coords": [
+            9.312006,
+            44.318643
+          ],
+          "category": "recreational",
+          "arrive_at": "11:13",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Fahren Sie hinunter zum Bagni Ste für eine erfrischende Meeresbrise, wo Sie Ihr Fahrrad sicher anschließen können, um am Wasser spazieren zu gehen.",
+            "hu": "Guruljon le a Bagni Ste partszakaszra egy tengeri szellőért, ahol a kerékpárt a sétányon lezárva biztonságosan tehet egy rövid sétát a vízparton.",
+            "ro": "Coborâți spre Bagni Ste pentru o briză răcoroasă de mare, unde legarea bicicletei lângă promenadă vă permite să vă bucurați de o scurtă plimbare pe mal.",
+            "en": "Ride down to Bagni Ste for a refreshing sea breeze, where locking your bike near the main promenade allows you to safely enjoy a short walk by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Santuario Madonna dell'Ulivo",
+            "hu": "Santuario Madonna dell'Ulivo",
+            "ro": "Santuario Madonna dell'Ulivo",
+            "en": "Santuario Madonna dell'Ulivo"
+          },
+          "coords": [
+            9.318266,
+            44.322825
+          ],
+          "category": "religious",
+          "arrive_at": "12:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Treten Sie hinauf zum Santuario Madonna dell'Ulivo, um die Architektur zu bewundern, und halten Sie Wasser bereit, da die Steigung recht anspruchsvoll ist.",
+            "hu": "Tekerjen fel a Santuario Madonna dell'Ulivo-hoz, hogy megcsodálja elegáns építészetét, és tartson kéznél vizet, mivel az enyhe emelkedő fárasztó lehet.",
+            "ro": "Pedalați până la Santuario Madonna dell'Ulivo pentru a observa arhitectura sa, păstrând apă la îndemână, deoarece panta poate fi surprinzător de solicitantă.",
+            "en": "Pedal up to the Santuario Madonna dell'Ulivo to witness its elegant architecture, keeping a water bottle handy as the slight incline can be demanding."
+          }
+        },
+        {
+          "name": {
+            "de": "San Martino di Maxena",
+            "hu": "San Martino di Maxena",
+            "ro": "San Martino di Maxena",
+            "en": "San Martino di Maxena"
+          },
+          "coords": [
+            9.317414,
+            44.335059
+          ],
+          "category": "religious",
+          "arrive_at": "12:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie San Martino di Maxena, um in die Religionsgeschichte einzutauchen, und versuchen Sie, kurz vor Mittag dort zu sein, um die Glocken zu hören.",
+            "hu": "Látogasson el a San Martino di Maxena templomba a vallástörténet megismeréséhez, és próbáljon dél előtt érkezni, hogy hallhassa a hagyományos harangozást.",
+            "ro": "Vizitați San Martino di Maxena pentru a aprofunda istoria religioasă și încercați să ajungeți înainte de prânz pentru a auzi sunetul tradițional al clopotelor.",
+            "en": "Visit San Martino di Maxena to delve into regional religious history, and try to arrive just before noon to hear the traditional ringing of the church bells."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello",
+            "hu": "Castello",
+            "ro": "Castello",
+            "en": "Castello"
+          },
+          "coords": [
+            9.337534,
+            44.337387
+          ],
+          "category": "castle",
+          "arrive_at": "13:38",
+          "stay_min": 110,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Radtag am Castello für einen majestätischen Blick über das Tal und seien Sie vorsichtig auf den Kopfsteinpflasterwegen, die abwärts rutschig sind.",
+            "hu": "Zárja kerékpáros napját a Castellónál a fenséges kilátásért, de vigyázzon a macskaköves utakon, amelyek lefelé haladva rendkívül csúszósak lehetnek.",
+            "ro": "Terminați ziua de ciclism la Castello pentru o priveliște maiestuoasă asupra văii, având grijă pe cărările pietruite care pot fi alunecoase la coborâre.",
+            "en": "Finish your cycling day at the Castello for a majestic overlook of the entire valley, taking care on the cobblestone paths that can be slippery downhill."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre morgendliche Fahrt beginnt in den üppigen Landschaften des Naturparks, gefolgt von einem ruhigen Stopp an der Madonna delle Grazie.\n\nZur Mittagszeit fahren Sie hinunter an die Küste und genießen die erfrischende Meeresbrise am entspannten Strand von Bagni Ste.\n\nDas Nachmittagstreten führt Sie bergauf zum Santuario Madonna dell'Ulivo und in die historische Kirche San Martino di Maxena.\n\nWenn der Abend naht, bringt Sie ein letzter lohnender Aufstieg zum Castello für ein majestätisches Dämmerungspanorama des Tals.",
+        "hu": "A reggeli tekerés a lenyűgöző természeti park zöldellő tájain kezdődik, amelyet egy békés megálló követ a Madonna delle Grazie szentélynél.\n\nDélben legurul a tengerpartra, hogy élvezze a frissítő sós szellőt a Bagni Ste nyugodt és barátságos partszakaszán.\n\nDélután a pedálozás felfelé, a Santuario Madonna dell'Ulivo és a történelmi San Martino di Maxena templom felé veszi az irányt.\n\nAz este közeledtével egy utolsó, kihívást jelentő emelkedő várja a Castellóhoz, ahol fenséges alkonyati panoráma nyílik a völgyre.",
+        "ro": "Cursa ta de dimineață începe în peisajele luxuriante ale Parcului Natural, urmată de o oprire senină și liniștită la Madonna delle Grazie.\n\nLa amiază te vei plimba pe coastă, prinzând briza răcoroasă a mării la plaja relaxantă de la Bagni Ste.\n\nPedalarea de după-amiază te poartă spre Santuario Madonna dell'Ulivo și la istorica biserică San Martino di Maxena.\n\nPe măsură ce se apropie seara, o ultimă urcare plină de satisfacții te aduce la Castello pentru o panoramă maiestuoasă de amurg a văii.",
+        "en": "Your morning ride kicks off in the lush landscapes of the Parco Naturale, followed by a serene stop at the beautiful Madonna delle Grazie.\n\nMidday sees you cruising down to the coast, catching the refreshing sea breezes at the relaxed seaside setting of Bagni Ste.\n\nAfternoon pedaling takes you gently uphill towards Santuario Madonna dell'Ulivo and the historic San Martino di Maxena.\n\nAs evening approaches, a rewarding final climb brings you to the Castello for a majestic twilight panorama over the entire valley."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:37",
+      "total_km": 6.85,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "manufatto ex Monte Telegrafo",
+            "hu": "manufatto ex Monte Telegrafo",
+            "ro": "manufatto ex Monte Telegrafo",
+            "en": "manufatto ex Monte Telegrafo"
+          },
+          "coords": [
+            9.304269,
+            44.327877
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fahren Sie hinauf zum Monte Telegrafo, um dieses historische Bauwerk zu erkunden, und nutzen Sie die kleinen unbefestigten Haltebuchten zum sicheren Parken.",
+            "hu": "Hajtson fel a Monte Telegrafo épületéhez ennek az érdekes történelmi szerkezetnek a felfedezéséhez, és használja a kis földes kiállókat a biztonságos parkoláshoz.",
+            "ro": "Conduceți până la Monte Telegrafo pentru a explora această structură istorică, folosind micile zone neasfaltate pentru a parca în siguranță.",
+            "en": "Drive up to the manufatto ex Monte Telegrafo to explore this fascinating historical structure, utilizing the small unpaved pull-off areas to park safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Naturale Regionale di Portofino",
+            "hu": "Parco Naturale Regionale di Portofino",
+            "ro": "Parco Naturale Regionale di Portofino",
+            "en": "Parco Naturale Regionale di Portofino"
+          },
+          "coords": [
+            9.303644,
+            44.326677
+          ],
+          "category": "natural",
+          "arrive_at": "10:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Fahren Sie weiter zum Parco Naturale, um spektakuläre Klippen zu sehen, und tragen Sie bequeme Wanderschuhe für die kurzen Wege vom Parkplatz.",
+            "hu": "Folytassa útját a természeti parkhoz a látványos tengerparti sziklákért, és viseljen kényelmes túracipőt a parkolótól induló rövid sétákhoz.",
+            "ro": "Continuați spre Parco Naturale pentru a vedea stânci de coastă spectaculoase, purtând bocanci comozi pentru plimbările scurte de la parcare.",
+            "en": "Continue to the Parco Naturale Regionale di Portofino to witness spectacular coastal cliffs, wearing comfortable hiking boots for the short walks from the parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Sant'Antonino Martire di Sanguineto",
+            "hu": "Sant'Antonino Martire di Sanguineto",
+            "ro": "Sant'Antonino Martire di Sanguineto",
+            "en": "Sant'Antonino Martire di Sanguineto"
+          },
+          "coords": [
+            9.306968,
+            44.335252
+          ],
+          "category": "religious",
+          "arrive_at": "11:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Navigieren Sie zum Sant'Antonino Martire, um die charmante Fassade zu bewundern, und prüfen Sie vorher die Messezeiten für eine Innenbesichtigung.",
+            "hu": "Navigáljon el a Sant'Antonino Martire templomhoz a bájos homlokzat megcsodálásához, de előtte ellenőrizze a helyi misék időpontját a belső megtekintéshez.",
+            "ro": "Navigați către Sant'Antonino Martire pentru a admira fațada rustică, verificând orarul slujbelor în prealabil pentru a vă asigura că interiorul este deschis.",
+            "en": "Navigate to Sant'Antonino Martire di Sanguineto to admire its charming rustic facade, checking local mass schedules beforehand to ensure the interior is open."
+          }
+        },
+        {
+          "name": {
+            "de": "San Martino di Maxena",
+            "hu": "San Martino di Maxena",
+            "ro": "San Martino di Maxena",
+            "en": "San Martino di Maxena"
+          },
+          "coords": [
+            9.317414,
+            44.335059
+          ],
+          "category": "religious",
+          "arrive_at": "12:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fahren Sie hinüber nach San Martino di Maxena und genießen Sie die ländliche Umgebung, wobei Sie auf den schmalen Zufahrtsstraßen vorsichtig fahren sollten.",
+            "hu": "Hajtson át San Martino di Maxenába a csendes vidéki környezet élvezetéért, és vezessen óvatosan a békés dombvidéket jellemző szűk bekötőutakon.",
+            "ro": "Mergeți spre San Martino di Maxena pentru a aprecia peisajul rural liniștit, conducând cu atenție pe drumurile de acces înguste din această regiune deluroasă.",
+            "en": "Head over to San Martino di Maxena to appreciate its quiet countryside setting, driving carefully on the narrow access roads that characterize this peaceful hilly region."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello",
+            "hu": "Castello",
+            "ro": "Castello",
+            "en": "Castello"
+          },
+          "coords": [
+            9.337534,
+            44.337387
+          ],
+          "category": "castle",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Fahren Sie hinauf zum berühmten Castello, um die mittelalterliche Geschichte zu erleben, und nutzen Sie den ausgewiesenen Besucherparkplatz direkt vor den Mauern.",
+            "hu": "Kapaszkodjon fel az ikonikus Castellóhoz a helyi középkori történelem megismeréséhez, és feltétlenül használja a főfalak mellett kijelölt látogatói parkolót.",
+            "ro": "Urcați la iconicul Castello pentru a vă cufunda în secole de istorie medievală, având grijă să folosiți zona de parcare desemnată chiar în afara zidurilor cetății.",
+            "en": "Ascend to the iconic Castello to soak in centuries of local medieval history, making sure to use the designated visitor parking area just outside the main fortress walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Santuario Madonna dell'Ulivo",
+            "hu": "Santuario Madonna dell'Ulivo",
+            "ro": "Santuario Madonna dell'Ulivo",
+            "en": "Santuario Madonna dell'Ulivo"
+          },
+          "coords": [
+            9.318266,
+            44.322825
+          ],
+          "category": "religious",
+          "arrive_at": "14:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Halten Sie am Santuario Madonna dell'Ulivo, um die kulturellen Relikte zu bestaunen, und lassen Sie Ihr Auto im Schatten stehen, um es in der Nachmittagssonne kühl zu halten.",
+            "hu": "Álljon meg a Santuario Madonna dell'Ulivo-nál a kulturális relikviák megcsodálásához, és hagyja autóját a közeli árnyékos helyeken, hogy ne forrósodjon fel a délutáni napon.",
+            "ro": "Opriți la Santuario Madonna dell'Ulivo pentru a admira relicvele sale semnificative, lăsând mașina în locurile umbrite din apropiere pentru a o menține răcoroasă.",
+            "en": "Stop at Santuario Madonna dell'Ulivo to marvel at its culturally significant relics, leaving your car in the shaded spots nearby to keep it cool during the afternoon sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Nino",
+            "hu": "Bagni Nino",
+            "ro": "Bagni Nino",
+            "en": "Bagni Nino"
+          },
+          "coords": [
+            9.316305,
+            44.316605
+          ],
+          "category": "recreational",
+          "arrive_at": "15:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt im Bagni Nino, um am Meer zu entspannen, und achten Sie genau auf die lokalen Parkuhren, die an geschäftigen Abenden streng kontrolliert werden.",
+            "hu": "Zárja autós útját a Bagni Nino strandon egy kis tengerparti lazítással, de figyeljen a parkolóórákra, amelyeket szigorúan ellenőriznek a forgalmas estéken.",
+            "ro": "Încheiați călătoria la Bagni Nino pentru a vă relaxa pe litoralul vibrant, acordând mare atenție parcometrelor locale care sunt strict aplicate în serile aglomerate.",
+            "en": "Conclude your drive at Bagni Nino to relax by the vibrant seaside, paying close attention to the local parking meters which are strictly enforced during busy evenings."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die morgendliche Fahrt beginnt bei den faszinierenden historischen Höhen des Monte Telegrafo und den atemberaubenden Klippen des Parco Naturale.\n\nZur Mittagszeit navigieren Sie über die malerischen Straßen im Landesinneren, um das rustikale Sant'Antonino Martire und San Martino di Maxena zu besuchen.\n\nAm Nachmittag erkunden Sie die imposanten Mauern des mittelalterlichen Castello und das kulturell reiche Santuario Madonna dell'Ulivo.\n\nIhr Abend endet mit einem entspannenden Aufenthalt am Meer im Bagni Nino, wo Sie das Küstenflair genießen können.",
+        "hu": "A reggeli autózás a Monte Telegrafo lenyűgöző történelmi magasságaival és a Parco Naturale lélegzetelállító szikláival veszi kezdetét.\n\nDélben a festői szárazföldi utakon navigálva meglátogathatja a rusztikus Sant'Antonino Martire és San Martino di Maxena templomokat.\n\nA délután folyamán felfedezheti a középkori Castello impozáns falait és a kulturálisan gazdag Santuario Madonna dell'Ulivo szentélyt.\n\nAz estéje egy pihentető tengerparti megállóval zárul a Bagni Nino nyüzsgő partjainál, a tenger sós illatával a levegőben.",
+        "ro": "Plimbarea de dimineață începe cu înălțimile istorice fascinante de la Monte Telegrafo și stâncile uluitoare din Parco Naturale.\n\nAmiaza este petrecută navigând pe drumurile pitorești interioare pentru a vizita rusticul Sant'Antonino Martire și San Martino di Maxena.\n\nÎn timpul după-amiezii, veți explora zidurile impunătoare ale castelului medieval și Santuario Madonna dell'Ulivo, o zonă bogată cultural.\n\nSeara se încheie cu o oprire relaxantă pe malul mării la Bagni Nino, unde vă puteți bucura de apusul de soare liniștit pe coastă.",
+        "en": "The morning drive starts with the fascinating historical heights of Monte Telegrafo and the breathtaking coastal cliffs of the Parco Naturale.\n\nMidday is spent peacefully navigating the picturesque inland roads to visit the rustic Sant'Antonino Martire and San Martino di Maxena.\n\nDuring the afternoon, you will explore the imposing walls of the medieval Castello and the culturally rich Santuario Madonna dell'Ulivo.\n\nYour evening smoothly concludes with a relaxing and refreshing seaside stop at the lively beachfront of Bagni Nino."
+      }
+    }
+  }
+}

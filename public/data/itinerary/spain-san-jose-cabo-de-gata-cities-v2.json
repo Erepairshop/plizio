@@ -1,0 +1,405 @@
+{
+  "city_id": "spain-san-jose-cabo-de-gata-cities-v2",
+  "anchor": {
+    "name": "San José (Cabo de Gata)",
+    "coords": [
+      -2.108428,
+      36.761644
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:26",
+      "total_km": 1.73,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Parque de \"La Molina\"",
+            "hu": "Parque de \"La Molina\"",
+            "ro": "Parque de \"La Molina\"",
+            "en": "Parque de \"La Molina\""
+          },
+          "coords": [
+            -2.108199,
+            36.766858
+          ],
+          "category": "park",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag in diesem charmanten Stadtpark, um das lokale Leben zu genießen, und ruhen Sie sich einen Moment im kühlen Schatten der alten Bäume aus.",
+            "hu": "Kezdje a napját ebben a bájos városi parkban, hogy megtapasztalja a helyi életet, és szánjon egy percet a pihenésre az öreg fák hűsítő árnyékában a tömeg előtt.",
+            "ro": "Începeți ziua în acest parc urban fermecător pentru a experimenta viața locală, luându-vă un moment de odihnă sub umbra răcoroasă a copacilor săi maturi.",
+            "en": "Start your day in this charming urban park to experience local daily life before the crowds arrive, taking a moment to rest under the shade of its mature trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de San José",
+            "hu": "Playa de San José",
+            "ro": "Playa de San José",
+            "en": "Playa de San José"
+          },
+          "coords": [
+            -2.106712,
+            36.76239
+          ],
+          "category": "recreational",
+          "arrive_at": "10:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.52,
+          "tip_5lang": {
+            "de": "Schlendern Sie an diesem familienfreundlichen Hauptstrand mit feinem goldenen Sand entlang und mieten Sie sich unbedingt früh am Morgen einen guten Sonnenschirm.",
+            "hu": "Sétáljon végig ezen a finom aranyhomokos, családbarát központi strandon, amely kiváló fürdési feltételeket kínál, és mindenképpen béreljen napernyőt kora reggel.",
+            "ro": "Plimbați-vă de-a lungul acestei plaje centrale cu nisip auriu fin, care oferă condiții excelente de înot, și asigurați-vă că închiriați o umbrelă de soare dimineața.",
+            "en": "Stroll along this family-friendly central beach with fine golden sand that offers excellent swimming conditions, and be sure to rent a parasol early in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Fondeadero de San José",
+            "hu": "Fondeadero de San José",
+            "ro": "Fondeadero de San José",
+            "en": "Fondeadero de San José"
+          },
+          "coords": [
+            -2.106626,
+            36.757501
+          ],
+          "category": "landmark",
+          "arrive_at": "11:56",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.54,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen historischen Ankerplatz, an dem einst alte Seefahrer ihre Schiffe festmachten, und tragen Sie unbedingt festes Schuhwerk für den felsigen Rand.",
+            "hu": "Fedezze fel ezt a történelmi horgonyzóhelyet, ahol egykor tengerészek kötötték ki hajóikat, és mindenképpen viseljen masszív cipőt a sziklás parton való sétához.",
+            "ro": "Descoperiți acest ancoraj istoric unde marinarii de altădată își acostau navele, oferind o privire în trecut, și purtați încălțăminte robustă pentru marginea stâncoasă.",
+            "en": "Discover this historic anchorage where ancient sailors once moored their ships, offering a glimpse into the maritime past, and wear sturdy shoes for the rocky edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de La Calilla",
+            "hu": "Playa de La Calilla",
+            "ro": "Playa de La Calilla",
+            "en": "Playa de La Calilla"
+          },
+          "coords": [
+            -2.109908,
+            36.756248
+          ],
+          "category": "recreational",
+          "arrive_at": "12:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.39,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem gemütlichen, leicht versteckten Strand mit türkisblauem Wasser und packen Sie eine Schnorchelmaske ein, um die Meeresbewohner zu sehen.",
+            "hu": "Pihenjen ezen a hangulatos, kissé eldugott strandon, amely kristálytiszta türkizkék vizéről ismert, és hozzon magával búvármaszkot a sziklák melletti tengeri élethez.",
+            "ro": "Relaxați-vă pe această plajă confortabilă și ușor ascunsă, cunoscută pentru apele sale turcoaz, și luați-vă o mască de snorkeling pentru a explora fauna marină.",
+            "en": "Relax at this cozy, somewhat hidden beach known for its remarkably clear turquoise waters, and pack a snorkel mask to explore the vibrant marine life near the rocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador del Sollarete",
+            "hu": "Mirador del Sollarete",
+            "ro": "Mirador del Sollarete",
+            "en": "Mirador del Sollarete"
+          },
+          "coords": [
+            -2.109911,
+            36.753676
+          ],
+          "category": "natural",
+          "arrive_at": "13:31",
+          "stay_min": 55,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf die Küste von diesem erhöhten natürlichen Aussichtspunkt, der sich absolut perfekt für wunderschöne Fotos eignet.",
+            "hu": "Élvezze a lélegzetelállító panorámát a tengerpartra erről a megemelt természetes kilátópontról, amely egyszerűen tökéletes lenyűgöző délutáni fényképek készítéséhez.",
+            "ro": "Bucurați-vă de o vedere panoramică uluitoare a coastei de la acest punct de observație natural ridicat, care este absolut perfect pentru a face fotografii uimitoare.",
+            "en": "Enjoy a breathtaking panoramic view of the coastline from this elevated natural vantage point, which is absolutely perfect for capturing stunning afternoon photographs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen in der ruhigen Atmosphäre der Grünflächen und des charmanten Zentrums von San José.\nGegen Mittag können Sie den feinen Sand des Hauptstrandes und die historischen Aussichtspunkte genießen.\nDer Nachmittag lädt zu einer intensiveren Erkundung der versteckten Buchten und markanten Felsvorsprünge ein.\nLassen Sie den Tag mit einem spektakulären Sonnenuntergang am felsigen Südkap ausklingen.",
+        "hu": "Kezdje a reggelt San José zöldterületeinek és bájos központjának nyugodt légkörében.\nA dél közeledtével élvezze a fő strand finom homokját és a történelmi parti kilátópontokat.\nA délután a rejtett öblök és a drámai sziklás kiszögellések mélyebb felfedezésére hív.\nZárja a napot egy látványos mediterrán naplemente megcsodálásával a zord déli hegyfokokról.",
+        "ro": "Începeți dimineața absorbind atmosfera liniștită a spațiilor verzi și a centrului fermecător din San José.\nSpre prânz, bucurați-vă de nisipul fin al plajei principale și de punctele de observare istorice.\nDupă-amiaza vă invită la o explorare mai profundă a golfurilor ascunse și a aflorimentelor stâncoase.\nÎncheiați ziua admirând un apus mediteranean spectaculos de pe promontoriile sudice.",
+        "en": "Start the morning absorbing the tranquil atmosphere of San José's green spaces and charming center.\nAs midday approaches, enjoy the pristine sands of the main beach and the historic coastal viewpoints.\nThe afternoon invites deeper exploration of the hidden coves and dramatic rocky outcrops.\nConclude your day admiring a spectacular Mediterranean sunset from the rugged southern headlands."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:26",
+      "total_km": 3.72,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Parque Günter Kunkel",
+            "hu": "Parque Günter Kunkel",
+            "ro": "Parque Günter Kunkel",
+            "en": "Parque Günter Kunkel"
+          },
+          "coords": [
+            -2.111741,
+            36.766524
+          ],
+          "category": "park",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese friedliche Grünfläche, um einzigartige lokale Flora zu entdecken, und nutzen Sie die gepflasterten Wege für einen reibungslosen Start Ihrer Tour.",
+            "hu": "Fedezze fel ezt a híres botanikusról elnevezett békés zöldterületet az egyedi helyi növényvilágért, és használja a burkolt utakat a kerékpártúra sima indulásához.",
+            "ro": "Explorați acest spațiu verde liniștit numit după faimosul botanist pentru a descoperi flora locală și folosiți aleile pavate pentru un început lin de plimbare.",
+            "en": "Explore this peaceful green space named after the famous botanist to discover unique local flora, and use the paved paths for a smooth start to your cycling trip."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de San José",
+            "hu": "Playa de San José",
+            "ro": "Playa de San José",
+            "en": "Playa de San José"
+          },
+          "coords": [
+            -2.106712,
+            36.76239
+          ],
+          "category": "recreational",
+          "arrive_at": "10:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.71,
+          "tip_5lang": {
+            "de": "Schlendern Sie an diesem familienfreundlichen Hauptstrand mit feinem goldenen Sand entlang und mieten Sie sich unbedingt früh am Morgen einen guten Sonnenschirm.",
+            "hu": "Sétáljon végig ezen a finom aranyhomokos, családbarát központi strandon, amely kiváló fürdési feltételeket kínál, és mindenképpen béreljen napernyőt kora reggel.",
+            "ro": "Plimbați-vă de-a lungul acestei plaje centrale cu nisip auriu fin, care oferă condiții excelente de înot, și asigurați-vă că închiriați o umbrelă de soare dimineața.",
+            "en": "Stroll along this family-friendly central beach with fine golden sand that offers excellent swimming conditions, and be sure to rent a parasol early in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Fondeadero de San José",
+            "hu": "Fondeadero de San José",
+            "ro": "Fondeadero de San José",
+            "en": "Fondeadero de San José"
+          },
+          "coords": [
+            -2.106626,
+            36.757501
+          ],
+          "category": "landmark",
+          "arrive_at": "11:47",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.54,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen historischen Ankerplatz, an dem einst alte Seefahrer ihre Schiffe festmachten, und tragen Sie unbedingt festes Schuhwerk für den felsigen Rand.",
+            "hu": "Fedezze fel ezt a történelmi horgonyzóhelyet, ahol egykor tengerészek kötötték ki hajóikat, és mindenképpen viseljen masszív cipőt a sziklás parton való sétához.",
+            "ro": "Descoperiți acest ancoraj istoric unde marinarii de altădată își acostau navele, oferind o privire în trecut, și purtați încălțăminte robustă pentru marginea stâncoasă.",
+            "en": "Discover this historic anchorage where ancient sailors once moored their ships, offering a glimpse into the maritime past, and wear sturdy shoes for the rocky edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Molino del Collado de los Genoveses",
+            "hu": "Molino del Collado de los Genoveses",
+            "ro": "Molino del Collado de los Genoveses",
+            "en": "Molino del Collado de los Genoveses"
+          },
+          "coords": [
+            -2.115747,
+            36.755581
+          ],
+          "category": "landmark",
+          "arrive_at": "12:18",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.02,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese sorgfältig restaurierte traditionelle Windmühle, die von der landwirtschaftlichen Geschichte zeugt, und sichern Sie Ihr Fahrrad vor dem Aufstieg.",
+            "hu": "Csodálja meg ezt a gondosan felújított hagyományos szélmalmot, amely a régió mezőgazdasági történelmének bizonyítéka, és zárja le jól a kerékpárját a felmászás előtt.",
+            "ro": "Admirați această moară de vânt tradițională restaurată care stă ca o mărturie a istoriei agricole a regiunii și asigurați-vă bine bicicleta înainte de a urca.",
+            "en": "Admire this carefully restored traditional windmill that stands as a testament to the region's agricultural history, and secure your bike well before walking up."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de los Genoveses",
+            "hu": "Playa de los Genoveses",
+            "ro": "Playa de los Genoveses",
+            "en": "Playa de los Genoveses"
+          },
+          "coords": [
+            -2.121452,
+            36.743846
+          ],
+          "category": "recreational",
+          "arrive_at": "12:41",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.45,
+          "tip_5lang": {
+            "de": "Radeln Sie zu dieser unberührten, von vulkanischen Hügeln umgebenen halbmondförmigen Bucht und bringen Sie ausreichend Trinkwasser mit, da es keine Anlagen gibt.",
+            "hu": "Tekerjen el ehhez a drámai vulkanikus dombokkal körülvett, érintetlen, félhold alakú öbölhöz, és hozzon magával sok ivóvizet, mivel nincsenek modern létesítmények.",
+            "ro": "Pedalați către acest golf neatins înconjurat de dealuri vulcanice dramatice, aducând multă apă de băut, deoarece nu există deloc facilități moderne în zonă.",
+            "en": "Cycle to this iconic, completely untouched crescent bay surrounded by dramatic volcanic hills, bringing plenty of drinking water since there are no modern facilities."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen in der ruhigen Atmosphäre der Grünflächen und des charmanten Zentrums von San José.\nGegen Mittag können Sie den feinen Sand des Hauptstrandes und die historischen Aussichtspunkte genießen.\nDer Nachmittag lädt zu einer intensiveren Erkundung der versteckten Buchten und markanten Felsvorsprünge ein.\nLassen Sie den Tag mit einem spektakulären Sonnenuntergang am felsigen Südkap ausklingen.",
+        "hu": "Kezdje a reggelt San José zöldterületeinek és bájos központjának nyugodt légkörében.\nA dél közeledtével élvezze a fő strand finom homokját és a történelmi parti kilátópontokat.\nA délután a rejtett öblök és a drámai sziklás kiszögellések mélyebb felfedezésére hív.\nZárja a napot egy látványos mediterrán naplemente megcsodálásával a zord déli hegyfokokról.",
+        "ro": "Începeți dimineața absorbind atmosfera liniștită a spațiilor verzi și a centrului fermecător din San José.\nSpre prânz, bucurați-vă de nisipul fin al plajei principale și de punctele de observare istorice.\nDupă-amiaza vă invită la o explorare mai profundă a golfurilor ascunse și a aflorimentelor stâncoase.\nÎncheiați ziua admirând un apus mediteranean spectaculos de pe promontoriile sudice.",
+        "en": "Start the morning absorbing the tranquil atmosphere of San José's green spaces and charming center.\nAs midday approaches, enjoy the pristine sands of the main beach and the historic coastal viewpoints.\nThe afternoon invites deeper exploration of the hidden coves and dramatic rocky outcrops.\nConclude your day admiring a spectacular Mediterranean sunset from the rugged southern headlands."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:11",
+      "total_km": 5.06,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Torre de Calahiguera",
+            "hu": "Torre de Calahiguera",
+            "ro": "Torre de Calahiguera",
+            "en": "Torre de Calahiguera"
+          },
+          "coords": [
+            -2.086116,
+            36.767686
+          ],
+          "category": "tower",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem alten Wehrturm auf den schroffen Klippen, um die weite Aussicht auf das Meer zu genießen, und parken Sie vorsichtig am unbefestigten Weg.",
+            "hu": "Vezessen ehhez a zord sziklákon magasodó ősi védelmi őrtoronyhoz a tengeri kilátásért, és parkoljon nagyon óvatosan a földes, kissé egyenetlen bekötőút mentén.",
+            "ro": "Conduceți către acest vechi turn de veghe de pe stâncile abrupte pentru vederi maritime extinse, parcând cu mare precauție de-a lungul drumului de acces nepavat.",
+            "en": "Drive to this ancient defensive watchtower perched high on the rugged cliffs for sweeping maritime views, parking cautiously along the unpaved approach road."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Higuera",
+            "hu": "Cala Higuera",
+            "ro": "Cala Higuera",
+            "en": "Cala Higuera"
+          },
+          "coords": [
+            -2.093811,
+            36.76507
+          ],
+          "category": "recreational",
+          "arrive_at": "09:37",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese malerische, bei Einheimischen beliebte Felsenbucht und bringen Sie unbedingt Badeschuhe mit, um den Kieselstrand bequem und sicher zu betreten.",
+            "hu": "Látogasson el ebbe a helyiek által kedvelt, festői sziklás öbölbe a nyugalomért, és feltétlenül hozzon magával vízi cipőt a kavicsos parton való kényelmes sétához.",
+            "ro": "Vizitați acest golf stâncos pitoresc preferat de localnici pentru liniște și asigurați-vă că aduceți încălțăminte de apă pentru a naviga țărmul plin cu pietriș.",
+            "en": "Visit this picturesque rocky cove favored by locals for its absolute tranquility, and make sure to bring water shoes to navigate the beautiful pebble shoreline comfortably."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de San José",
+            "hu": "Playa de San José",
+            "ro": "Playa de San José",
+            "en": "Playa de San José"
+          },
+          "coords": [
+            -2.106712,
+            36.76239
+          ],
+          "category": "recreational",
+          "arrive_at": "10:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.45,
+          "tip_5lang": {
+            "de": "Schlendern Sie an diesem familienfreundlichen Hauptstrand mit feinem goldenen Sand entlang und mieten Sie sich unbedingt früh am Morgen einen guten Sonnenschirm.",
+            "hu": "Sétáljon végig ezen a finom aranyhomokos, családbarát központi strandon, amely kiváló fürdési feltételeket kínál, és mindenképpen béreljen napernyőt kora reggel.",
+            "ro": "Plimbați-vă de-a lungul acestei plaje centrale cu nisip auriu fin, care oferă condiții excelente de înot, și asigurați-vă că închiriați o umbrelă de soare dimineața.",
+            "en": "Stroll along this family-friendly central beach with fine golden sand that offers excellent swimming conditions, and be sure to rent a parasol early in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador del Sollarete",
+            "hu": "Mirador del Sollarete",
+            "ro": "Mirador del Sollarete",
+            "en": "Mirador del Sollarete"
+          },
+          "coords": [
+            -2.109911,
+            36.753676
+          ],
+          "category": "natural",
+          "arrive_at": "11:57",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.02,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf die Küste von diesem erhöhten natürlichen Aussichtspunkt, der sich absolut perfekt für wunderschöne Fotos eignet.",
+            "hu": "Élvezze a lélegzetelállító panorámát a tengerpartra erről a megemelt természetes kilátópontról, amely egyszerűen tökéletes lenyűgöző délutáni fényképek készítéséhez.",
+            "ro": "Bucurați-vă de o vedere panoramică uluitoare a coastei de la acest punct de observație natural ridicat, care este absolut perfect pentru a face fotografii uimitoare.",
+            "en": "Enjoy a breathtaking panoramic view of the coastline from this elevated natural vantage point, which is absolutely perfect for capturing stunning afternoon photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de los Genoveses",
+            "hu": "Playa de los Genoveses",
+            "ro": "Playa de los Genoveses",
+            "en": "Playa de los Genoveses"
+          },
+          "coords": [
+            -2.121452,
+            36.743846
+          ],
+          "category": "recreational",
+          "arrive_at": "12:26",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.69,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt an dieser unberührten Bucht umgeben von vulkanischen Hügeln und kommen Sie früh, um einen Platz auf dem begrenzten Parkplatz zu sichern.",
+            "hu": "Fejezze be útját ennél a vulkanikus dombokkal körülvett, érintetlen öbölnél, és érkezzen minél korábban, hogy helyet biztosítson a korlátozott fizetős parkolóban.",
+            "ro": "Terminați drumul la acest golf iconic neatins, înconjurat de dealuri vulcanice, asigurându-vă că ajungeți devreme pentru un loc în parcarea cu capacitate limitată.",
+            "en": "Finish your drive at this iconic untouched bay surrounded by volcanic hills, ensuring you arrive early to secure a spot in the limited regulated parking area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen in der ruhigen Atmosphäre der Grünflächen und des charmanten Zentrums von San José.\nGegen Mittag können Sie den feinen Sand des Hauptstrandes und die historischen Aussichtspunkte genießen.\nDer Nachmittag lädt zu einer intensiveren Erkundung der versteckten Buchten und markanten Felsvorsprünge ein.\nLassen Sie den Tag mit einem spektakulären Sonnenuntergang am felsigen Südkap ausklingen.",
+        "hu": "Kezdje a reggelt San José zöldterületeinek és bájos központjának nyugodt légkörében.\nA dél közeledtével élvezze a fő strand finom homokját és a történelmi parti kilátópontokat.\nA délután a rejtett öblök és a drámai sziklás kiszögellések mélyebb felfedezésére hív.\nZárja a napot egy látványos mediterrán naplemente megcsodálásával a zord déli hegyfokokról.",
+        "ro": "Începeți dimineața absorbind atmosfera liniștită a spațiilor verzi și a centrului fermecător din San José.\nSpre prânz, bucurați-vă de nisipul fin al plajei principale și de punctele de observare istorice.\nDupă-amiaza vă invită la o explorare mai profundă a golfurilor ascunse și a aflorimentelor stâncoase.\nÎncheiați ziua admirând un apus mediteranean spectaculos de pe promontoriile sudice.",
+        "en": "Start the morning absorbing the tranquil atmosphere of San José's green spaces and charming center.\nAs midday approaches, enjoy the pristine sands of the main beach and the historic coastal viewpoints.\nThe afternoon invites deeper exploration of the hidden coves and dramatic rocky outcrops.\nConclude your day admiring a spectacular Mediterranean sunset from the rugged southern headlands."
+      }
+    }
+  }
+}

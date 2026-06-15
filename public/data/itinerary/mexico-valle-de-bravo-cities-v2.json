@@ -1,0 +1,451 @@
+{
+  "city_id": "mexico-valle-de-bravo-cities-v2",
+  "anchor": {
+    "name": "Valle de Bravo",
+    "coords": [
+      -100.130556,
+      19.1925
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:05",
+      "total_km": 1.35,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo Joaquin Arcadio Pagaza",
+            "hu": "Museo Joaquin Arcadio Pagaza",
+            "ro": "Museo Joaquin Arcadio Pagaza",
+            "en": "Museo Joaquin Arcadio Pagaza"
+          },
+          "coords": [
+            -100.130255,
+            19.192385
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das erhaltene Haus des berühmten Dichters, um das lokale Leben im 19. Jahrhundert zu verstehen, und prüfen Sie den Innenhof-Plan auf abendliche Lesungen.",
+            "hu": "Fedezd fel a híres költő megőrzött otthonát, hogy megértsd a 19. századi helyi életet, és ellenőrizd az udvari programot az esetleges esti költészeti felolvasásokért.",
+            "ro": "Explorați casa conservată a celebrului poet pentru a înțelege viața locală din secolul al XIX-lea și verificați programul curții pentru lecturi de poezie seara.",
+            "en": "Explore the preserved home of the famous poet to understand 19th-century local life, and check the courtyard schedule for unexpected evening poetry readings."
+          }
+        },
+        {
+          "name": {
+            "de": "Club de Leones",
+            "hu": "Club de Leones",
+            "ro": "Club de Leones",
+            "en": "Club de Leones"
+          },
+          "coords": [
+            -100.132728,
+            19.194829
+          ],
+          "category": "cultural",
+          "arrive_at": "10:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie die lebhaften kulturellen Aktivitäten in diesem Gemeindezentrum und denken Sie daran, das Personal nach temporären Kunstausstellungen in den Hinterzimmern zu fragen.",
+            "hu": "Csodáld meg a közösségi központban zajló élénk kulturális tevékenységeket, és ne felejtsd el megkérdezni a személyzetet a hátsó termekben rejlő időszaki kiállításokról.",
+            "ro": "Admirați activitățile culturale vibrante găzduite la această piatră de temelie a comunității și nu uitați să întrebați personalul despre expozițiile de artă din camerele din spate.",
+            "en": "Admire the vibrant cultural activities hosted at this community cornerstone, and remember to ask the staff about temporary art exhibits hidden in the back rooms."
+          }
+        },
+        {
+          "name": {
+            "de": "Venado Azul",
+            "hu": "Venado Azul",
+            "ro": "Venado Azul",
+            "en": "Venado Azul"
+          },
+          "coords": [
+            -100.128748,
+            19.189818
+          ],
+          "category": "museum",
+          "arrive_at": "11:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Entdecken Sie die mystischen indigenen Artefakte in diesem einzigartigen Museum, aber bringen Sie Bargeld für den kleinen Kunsthandwerksladen nahe dem Ausgang mit.",
+            "hu": "Fedezd fel a misztikus őslakos leleteket ebben az egyedi múzeumban, de hozz magaddal készpénzt a kijárat melletti, autentikus kézműves termékeket kínáló kis boltba.",
+            "ro": "Descoperiți artefactele indigene mistice din acest muzeu unic, dar asigurați-vă că aveți numerar pentru micul magazin de artizanat care oferă produse autentice la ieșire.",
+            "en": "Discover the mystical indigenous artifacts inside this unique museum, but ensure you bring cash for the small artisan shop offering authentic handmade crafts near the exit."
+          }
+        },
+        {
+          "name": {
+            "de": "El Faro",
+            "hu": "El Faro",
+            "ro": "El Faro",
+            "en": "El Faro"
+          },
+          "coords": [
+            -100.129811,
+            19.188366
+          ],
+          "category": "landmark",
+          "arrive_at": "13:28",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Abstecher zu diesem markanten Wahrzeichen mit malerischem Blick auf die Stadt und kommen Sie kurz vor der goldenen Stunde für tolle Fotos.",
+            "hu": "Tegyél egy gyors kitérőt ehhez a kiemelkedő helyi nevezetességhez a festői kilátásért, és próbálj meg közvetlenül az aranyóra előtt érkezni a legszebb fotókért.",
+            "ro": "Faceți un scurt ocol către acest reper local proeminent, care oferă vederi pitorești ale orașului, și încercați să ajungeți chiar înainte de ora de aur pentru fotografii.",
+            "en": "Take a quick detour to this prominent local landmark offering picturesque views of the town, and try arriving just before golden hour for the most striking photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Arqueología",
+            "hu": "Museo de Arqueología",
+            "ro": "Museo de Arqueología",
+            "en": "Museo de Arqueología"
+          },
+          "coords": [
+            -100.129993,
+            19.187215
+          ],
+          "category": "museum",
+          "arrive_at": "13:55",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Tauchen Sie tief in die prähispanische Geschichte der Region durch gut kuratierte Exponate ein und verbringen Sie Zeit mit den filigran geschnitzten Steinköpfen im Erdgeschoss.",
+            "hu": "Merülj el a régió ősi prehispán történelmében a gondosan válogatott kiállításokon keresztül, és szánj extra időt az első emeleti, bonyolultan faragott kőfejek megvizsgálására.",
+            "ro": "Aprofundați istoria antică pre-hispanică a regiunii prin exponate bine organizate și petreceți timp examinând capetele de piatră sculptate complex de la primul etaj.",
+            "en": "Dive deep into the region's ancient pre-Hispanic history through well-curated exhibits, and spend extra time examining the intricately carved stone heads on the first floor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im kulturellen Zentrum von Valle de Bravo und tauchen Sie in das Leben von Joaquín Arcadio Pagaza ein. Mittags besuchen Sie Gemeindezentren und einzigartige Sammlungen zum indigenen Erbe. Am Nachmittag genießen Sie einen kurzen Spaziergang zum malerischen Wahrzeichen El Faro. Der Abend endet mit faszinierenden präkolumbianischen Artefakten.",
+        "hu": "Kezdd a reggelt Valle de Bravo kulturális szívében, elmerülve Joaquín Arcadio Pagaza életében. A dél felé közeledve fedezd fel a helyi közösségi tereket és az egyedülálló őslakos örökséget. Délután élvezd a rövid sétát a festői El Faro nevezetességhez. Az estét a lenyűgöző ősi prehispán leletek megtekintésével zárd, mielőtt vacsorázni indulnál.",
+        "ro": "Începeți dimineața explorând inima culturală a orașului Valle de Bravo, aprofundând viața lui Joaquín Arcadio Pagaza. La amiază vizitați spațiile comunității locale și colecțiile unice de patrimoniu indigen. După-amiaza, faceți o scurtă plimbare până la reperul pitoresc El Faro. Seara se încheie cu fascinante artefacte antice pre-hispanice înainte de cină.",
+        "en": "Start your morning exploring the cultural heart of Valle de Bravo by diving into the life of Joaquín Arcadio Pagaza. Midday takes you deeper into local community spaces and unique indigenous heritage collections. In the afternoon, enjoy a short stroll to the scenic El Faro landmark. The evening concludes with fascinating ancient pre-Hispanic artifacts before dinner."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:23",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "San Francisco",
+            "hu": "San Francisco",
+            "ro": "San Francisco",
+            "en": "San Francisco"
+          },
+          "coords": [
+            -100.140238,
+            19.213934
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese ruhige historische Stätte, um die koloniale Architektur zu bewundern, und spazieren Sie durch die angrenzenden Gassen zu den bunten Häuserfassaden.",
+            "hu": "Sétálj végig ezen a békés történelmi helyszínen a gyarmati építészet megcsodálásához, és fedezd fel a csendes szomszédos sikátorokat a színes, hagyományos házhomlokzatokért.",
+            "ro": "Plimbați-vă prin acest loc istoric senin pentru a aprecia arhitectura colonială și mergeți pe aleile adiacente liniștite pentru a observa fațadele tradiționale colorate.",
+            "en": "Wander through this serene historical site to appreciate the colonial architecture, and walk around the quiet adjacent alleys to spot colorful, traditional house facades."
+          }
+        },
+        {
+          "name": {
+            "de": "Sal'on Los Girasoles",
+            "hu": "Sal'on Los Girasoles",
+            "ro": "Sal'on Los Girasoles",
+            "en": "Sal'on Los Girasoles"
+          },
+          "coords": [
+            -100.135933,
+            19.202233
+          ],
+          "category": "cultural",
+          "arrive_at": "10:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte lokale Atmosphäre in dieser ikonischen Kulturhalle und versuchen Sie, an einem Wochenende an einer Tanzprobe für ein authentisches Erlebnis teilzunehmen.",
+            "hu": "Éld át az élénk helyi hangulatot ebben az ikonikus kulturális csarnokban, és próbálj meg elkapni egy hétvégi közösségi táncpróbát egy autentikus Valle de Bravo-i élményért.",
+            "ro": "Experimentați atmosfera locală plină de viață în această sală culturală iconică și încercați să prindeți o repetiție de dans a comunității în weekend pentru un gust autentic.",
+            "en": "Experience the lively local atmosphere at this iconic cultural hall, and try to catch one of their weekend community dance rehearsals for an authentic taste of Valle de Bravo."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Joaquin Arcadio Pagaza",
+            "hu": "Museo Joaquin Arcadio Pagaza",
+            "ro": "Museo Joaquin Arcadio Pagaza",
+            "en": "Museo Joaquin Arcadio Pagaza"
+          },
+          "coords": [
+            -100.130255,
+            19.192385
+          ],
+          "category": "museum",
+          "arrive_at": "11:24",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie das erhaltene Haus des berühmten Dichters, um das lokale Leben im 19. Jahrhundert zu verstehen, und prüfen Sie den Innenhof-Plan auf abendliche Lesungen.",
+            "hu": "Fedezd fel a híres költő megőrzött otthonát, hogy megértsd a 19. századi helyi életet, és ellenőrizd az udvari programot az esetleges esti költészeti felolvasásokért.",
+            "ro": "Explorați casa conservată a celebrului poet pentru a înțelege viața locală din secolul al XIX-lea și verificați programul curții pentru lecturi de poezie seara.",
+            "en": "Explore the preserved home of the famous poet to understand 19th-century local life, and check the courtyard schedule for unexpected evening poetry readings."
+          }
+        },
+        {
+          "name": {
+            "de": "Venado Azul",
+            "hu": "Venado Azul",
+            "ro": "Venado Azul",
+            "en": "Venado Azul"
+          },
+          "coords": [
+            -100.128748,
+            19.189818
+          ],
+          "category": "museum",
+          "arrive_at": "13:06",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die mystischen indigenen Artefakte in diesem einzigartigen Museum, aber bringen Sie Bargeld für den kleinen Kunsthandwerksladen nahe dem Ausgang mit.",
+            "hu": "Fedezd fel a misztikus őslakos leleteket ebben az egyedi múzeumban, de hozz magaddal készpénzt a kijárat melletti, autentikus kézműves termékeket kínáló kis boltba.",
+            "ro": "Descoperiți artefactele indigene mistice din acest muzeu unic, dar asigurați-vă că aveți numerar pentru micul magazin de artizanat care oferă produse autentice la ieșire.",
+            "en": "Discover the mystical indigenous artifacts inside this unique museum, but ensure you bring cash for the small artisan shop offering authentic handmade crafts near the exit."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Arqueología",
+            "hu": "Museo de Arqueología",
+            "ro": "Museo de Arqueología",
+            "en": "Museo de Arqueología"
+          },
+          "coords": [
+            -100.129993,
+            19.187215
+          ],
+          "category": "museum",
+          "arrive_at": "14:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie tief in die prähispanische Geschichte der Region durch gut kuratierte Exponate ein und verbringen Sie Zeit mit den filigran geschnitzten Steinköpfen im Erdgeschoss.",
+            "hu": "Merülj el a régió ősi prehispán történelmében a gondosan válogatott kiállításokon keresztül, és szánj extra időt az első emeleti, bonyolultan faragott kőfejek megvizsgálására.",
+            "ro": "Aprofundați istoria antică pre-hispanică a regiunii prin exponate bine organizate și petreceți timp examinând capetele de piatră sculptate complex de la primul etaj.",
+            "en": "Dive deep into the region's ancient pre-Hispanic history through well-curated exhibits, and spend extra time examining the intricately carved stone heads on the first floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Despegue Parapentes",
+            "hu": "Despegue Parapentes",
+            "ro": "Despegue Parapentes",
+            "en": "Despegue Parapentes"
+          },
+          "coords": [
+            -100.113669,
+            19.18454
+          ],
+          "category": "natural",
+          "arrive_at": "16:38",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Beobachten Sie, wie Abenteurer über den atemberaubenden See gleiten, und tragen Sie bequeme Wanderschuhe, da das Gelände rund um die Startzone ziemlich uneben ist.",
+            "hu": "Figyeld meg, ahogy az izgalmat keresők átsiklanak a lenyűgöző tó felett erről a kilátóról, és viselj kényelmes túracipőt, mivel a kilövőzóna körüli terep meglehetősen egyenetlen.",
+            "ro": "Urmăriți căutătorii de senzații tari planând peste lacul uimitor din acest punct de observație natural și purtați pantofi comozi de drumeție, deoarece terenul este destul de denivelat.",
+            "en": "Watch thrill-seekers glide over the stunning lake from this elevated natural vantage point, and wear comfortable hiking shoes as the terrain around the launch zone is quite uneven."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit einer erfrischenden Fahrt zum historischen Viertel San Francisco und zum lebhaften Sal'on Los Girasoles. Gegen Mittag radeln Sie zurück in die Innenstadt für aufschlussreiche Museumsbesuche. Der Nachmittag ist für tiefe archäologische Wunder reserviert. Beenden Sie Ihren Tag, indem Sie die Gleitschirmflieger bei Sonnenuntergang beobachten.",
+        "hu": "Kezdd a reggelt egy frissítő bringázással a történelmi San Francisco negyedhez és a nyüzsgő Sal'on Los Girasoles-hoz. Ahogy közeledik a dél, tekerj vissza a központba, hogy betekintést nyerj a régió művészeti és ősi gyökereibe a múzeumokban. A délután a régészeti csodáké. Zárd a napot úgy, hogy megnézed a naplementében szárnyaló siklóernyősöket.",
+        "ro": "Începeți dimineața cu o plimbare revigorantă către zona istorică San Francisco și animatul Sal'on Los Girasoles. Spre prânz, întoarceți-vă în centrul orașului pentru vizite la muzee care detaliază rădăcinile regiunii. După-amiaza este rezervată descoperirii minunilor arheologice profunde. Încheiați-vă ziua privind parapantiștii planând la apus.",
+        "en": "Kick off the morning with a refreshing ride to the historic San Francisco area and the lively Sal'on Los Girasoles. As midday approaches, cycle back into the core town for insightful museum visits detailing the region's artistic and ancestral roots. The afternoon is reserved for uncovering deep archaeological wonders. Finish your day watching paragliders soar at sunset."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 6.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "San Francisco",
+            "hu": "San Francisco",
+            "ro": "San Francisco",
+            "en": "San Francisco"
+          },
+          "coords": [
+            -100.140238,
+            19.213934
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese ruhige historische Stätte, um die koloniale Architektur zu bewundern, und spazieren Sie durch die angrenzenden Gassen zu den bunten Häuserfassaden.",
+            "hu": "Sétálj végig ezen a békés történelmi helyszínen a gyarmati építészet megcsodálásához, és fedezd fel a csendes szomszédos sikátorokat a színes, hagyományos házhomlokzatokért.",
+            "ro": "Plimbați-vă prin acest loc istoric senin pentru a aprecia arhitectura colonială și mergeți pe aleile adiacente liniștite pentru a observa fațadele tradiționale colorate.",
+            "en": "Wander through this serene historical site to appreciate the colonial architecture, and walk around the quiet adjacent alleys to spot colorful, traditional house facades."
+          }
+        },
+        {
+          "name": {
+            "de": "Sal'on Los Girasoles",
+            "hu": "Sal'on Los Girasoles",
+            "ro": "Sal'on Los Girasoles",
+            "en": "Sal'on Los Girasoles"
+          },
+          "coords": [
+            -100.135933,
+            19.202233
+          ],
+          "category": "cultural",
+          "arrive_at": "10:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte lokale Atmosphäre in dieser ikonischen Kulturhalle und versuchen Sie, an einem Wochenende an einer Tanzprobe für ein authentisches Erlebnis teilzunehmen.",
+            "hu": "Éld át az élénk helyi hangulatot ebben az ikonikus kulturális csarnokban, és próbálj meg elkapni egy hétvégi közösségi táncpróbát egy autentikus Valle de Bravo-i élményért.",
+            "ro": "Experimentați atmosfera locală plină de viață în această sală culturală iconică și încercați să prindeți o repetiție de dans a comunității în weekend pentru un gust autentic.",
+            "en": "Experience the lively local atmosphere at this iconic cultural hall, and try to catch one of their weekend community dance rehearsals for an authentic taste of Valle de Bravo."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Joaquin Arcadio Pagaza",
+            "hu": "Museo Joaquin Arcadio Pagaza",
+            "ro": "Museo Joaquin Arcadio Pagaza",
+            "en": "Museo Joaquin Arcadio Pagaza"
+          },
+          "coords": [
+            -100.130255,
+            19.192385
+          ],
+          "category": "museum",
+          "arrive_at": "11:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie das erhaltene Haus des berühmten Dichters, um das lokale Leben im 19. Jahrhundert zu verstehen, und prüfen Sie den Innenhof-Plan auf abendliche Lesungen.",
+            "hu": "Fedezd fel a híres költő megőrzött otthonát, hogy megértsd a 19. századi helyi életet, és ellenőrizd az udvari programot az esetleges esti költészeti felolvasásokért.",
+            "ro": "Explorați casa conservată a celebrului poet pentru a înțelege viața locală din secolul al XIX-lea și verificați programul curții pentru lecturi de poezie seara.",
+            "en": "Explore the preserved home of the famous poet to understand 19th-century local life, and check the courtyard schedule for unexpected evening poetry readings."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Arqueología",
+            "hu": "Museo de Arqueología",
+            "ro": "Museo de Arqueología",
+            "en": "Museo de Arqueología"
+          },
+          "coords": [
+            -100.129993,
+            19.187215
+          ],
+          "category": "museum",
+          "arrive_at": "12:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Tauchen Sie tief in die prähispanische Geschichte der Region durch gut kuratierte Exponate ein und verbringen Sie Zeit mit den filigran geschnitzten Steinköpfen im Erdgeschoss.",
+            "hu": "Merülj el a régió ősi prehispán történelmében a gondosan válogatott kiállításokon keresztül, és szánj extra időt az első emeleti, bonyolultan faragott kőfejek megvizsgálására.",
+            "ro": "Aprofundați istoria antică pre-hispanică a regiunii prin exponate bine organizate și petreceți timp examinând capetele de piatră sculptate complex de la primul etaj.",
+            "en": "Dive deep into the region's ancient pre-Hispanic history through well-curated exhibits, and spend extra time examining the intricately carved stone heads on the first floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Despegue Parapentes",
+            "hu": "Despegue Parapentes",
+            "ro": "Despegue Parapentes",
+            "en": "Despegue Parapentes"
+          },
+          "coords": [
+            -100.113669,
+            19.18454
+          ],
+          "category": "natural",
+          "arrive_at": "14:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Beobachten Sie, wie Abenteurer über den atemberaubenden See gleiten, und tragen Sie bequeme Wanderschuhe, da das Gelände rund um die Startzone ziemlich uneben ist.",
+            "hu": "Figyeld meg, ahogy az izgalmat keresők átsiklanak a lenyűgöző tó felett erről a kilátóról, és viselj kényelmes túracipőt, mivel a kilövőzóna körüli terep meglehetősen egyenetlen.",
+            "ro": "Urmăriți căutătorii de senzații tari planând peste lacul uimitor din acest punct de observație natural și purtați pantofi comozi de drumeție, deoarece terenul este destul de denivelat.",
+            "en": "Watch thrill-seekers glide over the stunning lake from this elevated natural vantage point, and wear comfortable hiking shoes as the terrain around the launch zone is quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Cascada el Molino",
+            "hu": "Cascada el Molino",
+            "ro": "Cascada el Molino",
+            "en": "Cascada el Molino"
+          },
+          "coords": [
+            -100.118344,
+            19.172642
+          ],
+          "category": "landmark",
+          "arrive_at": "16:00",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem herrlichen Wasserfall inmitten üppigen Grüns und nehmen Sie eine leichte Regenjacke mit, da der Nebel des Wassers Ihre Kleidung schnell durchnässen kann.",
+            "hu": "Pihenj meg ezen a csodálatos, buja zöldben megbúvó vízesésnél, és vigyél magaddal egy könnyű esőkabátot, mert a lezúduló víz permete gyorsan átáztathatja a ruháidat.",
+            "ro": "Relaxați-vă la această cascadă magnifică ascunsă în verdeața luxuriantă și purtați o jachetă de ploaie ușoară, deoarece ceața din apa care se prăbușește vă poate uda rapid hainele.",
+            "en": "Unwind at this magnificent roaring waterfall hidden within lush greenery, and carry a light rain jacket because the mist from the crashing water can quickly soak your clothes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt im nördlichen historischen Viertel und bietet schnellen Zugang zu kolonialem Charme und Kulturhallen. Gegen Mittag navigieren Sie durch das geschäftige Zentrum, um die reiche regionale Geschichte zu erkunden. Fahren Sie am späten Nachmittag in die Hügel, um spektakuläre Gleitschirmflieger zu sehen. Beenden Sie die Reise in der Natur an einem Wasserfall.",
+        "hu": "Az utazás az északi történelmi negyedben kezdődik, ahol gyarmati báj és kulturális termek várnak. Délben a nyüzsgő központon keresztül haladva fedezd fel a gazdag helyi történelmet. Késő délután vezess fel a festői dombokra, hogy szemtanúja lehess a lenyűgöző siklóernyősöknek. Zárd a napot a természetben, egy zúgó helyi vízesésnél kikapcsolódva.",
+        "ro": "Conducerea începe în cartierul istoric de nord, oferind acces rapid la farmecul colonial și la sălile culturale. La amiază, navigați prin centrul plin de viață pentru a explora bogata istorie regională. După-amiaza târziu, conduceți pe dealurile pitorești pentru a vedea spectaculoșii parapantiști. Încheiați călătoria scufundat în natură la o cascadă locală urlătoare.",
+        "en": "Your drive begins in the northern historic district, offering quick access to colonial charm and cultural halls. By midday, navigate through the bustling center to explore rich regional history and impressive archaeological collections. In the late afternoon, drive up the scenic hills to witness spectacular paragliding action. End the journey immersed in nature at a roaring local waterfall."
+      }
+    }
+  }
+}

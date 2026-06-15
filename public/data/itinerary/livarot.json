@@ -1,0 +1,474 @@
+{
+  "city_id": "livarot",
+  "anchor": {
+    "name": "Livarot",
+    "coords": [
+      0.1525,
+      49.0067
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:34",
+      "total_km": 4.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Graindorge Käserei",
+            "hu": "Graindorge Sajtgyár",
+            "ro": "Fabrica de brânză Graindorge",
+            "en": "Graindorge Cheese Factory"
+          },
+          "coords": [
+            0.152137,
+            49.001037
+          ],
+          "category": "culinary",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie den faszinierenden Herstellungsprozess der berühmten Normandie-Käse durch eine verglaste Galerie, aber kommen Sie rechtzeitig vor dem Mittagessen, um die aktive Morgenproduktion in vollem Gange zu sehen.",
+            "hu": "Fedezze fel Normandia híres sajtjainak készítési folyamatát egy üvegfalú galérián keresztül, de feltétlenül érkezzen ebéd előtt, hogy még láthassa az aktív reggeli termelést.",
+            "ro": "Descoperiți procesul fascinant din spatele celebrelor brânzeturi normande printr-o galerie vitrată, dar sosiți înainte de prânz pentru a prinde liniile de producție active.",
+            "en": "Discover the fascinating process behind Normandy's famous PDO cheeses through a glass-walled gallery, but arrive before lunch to catch the active morning production lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir de l'Isle",
+            "hu": "Manoir de l'Isle",
+            "ro": "Manoir de l'Isle",
+            "en": "Manoir de l'Isle"
+          },
+          "coords": [
+            0.146944,
+            49.005
+          ],
+          "category": "historical",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie um dieses elegante historische Herrenhaus, das klassische normannische Architektur zeigt, und nutzen Sie die Gelegenheit, sich in den wunderschön gepflegten angrenzenden öffentlichen Gärten zu entspannen.",
+            "hu": "Sétáljon a klasszikus normann építészetet bemutató elegáns történelmi kúria körül, és szánjon egy percet a pihenésre a gyönyörűen karbantartott szomszédos közkertekben.",
+            "ro": "Plimbați-vă în jurul acestui conac istoric elegant care prezintă arhitectura clasică normandă și faceți un moment pentru a vă relaxa în grădinile publice adiacente frumos întreținute.",
+            "en": "Stroll around this elegant historic manor that showcases classical Norman architecture, and take a moment to relax in its beautifully maintained adjacent public gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir de Carel",
+            "hu": "Manoir de Carel",
+            "ro": "Manoir de Carel",
+            "en": "Manoir de Carel"
+          },
+          "coords": [
+            0.146572,
+            49.011941
+          ],
+          "category": "castle",
+          "arrive_at": "12:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie den markanten Kontrast aus Stein und Ziegel an diesem von einem Wassergraben umgebenen Schloss, beachten Sie jedoch, dass es in Privatbesitz ist und die beste Aussicht von der Begrenzungsmauer aus besteht.",
+            "hu": "Csodálja meg a kő és tégla feltűnő kontrasztját ennél a várárokkal körülvett 18. századi kastélynál, de vegye figyelembe, hogy magántulajdonban van, így a legjobban az útról tekinthető meg.",
+            "ro": "Admirați contrastul izbitor de piatră și cărămidă la acest castel din secolul al XVIII-lea înconjurat de un șanț, deși rețineți că este proprietate privată și vizionarea este optimă de pe drum.",
+            "en": "Admire the striking contrast of stone and brick at this 18th-century chateau surrounded by a moat, though be aware it is privately owned so viewing is best from the perimeter road."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            0.142889,
+            48.999276
+          ],
+          "category": "religious",
+          "arrive_at": "14:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Treten Sie in diese charmante Kirche ein, um ihre Buntglasfenster und die friedliche Atmosphäre zu schätzen, und achten Sie besonders auf die aufwendigen Holzschnitzereien in der Nähe des Altars.",
+            "hu": "Lépjen be ebbe a bájos templomba, hogy megcsodálhassa az ólomüveg ablakokat és a békés légkört, figyelve az oltár melletti bonyolult és értékes fafaragásokra.",
+            "ro": "Pășiți în această biserică fermecătoare pentru a-i aprecia vitraliile și atmosfera pașnică, fiind atenți la sculpturile complicate în lemn din apropierea altarului principal.",
+            "en": "Step into this charming church to appreciate its stained glass windows and peaceful atmosphere, keeping an eye out for the intricate wooden carvings near the main altar."
+          }
+        },
+        {
+          "name": {
+            "de": "DevalKart",
+            "hu": "DevalKart",
+            "ro": "DevalKart",
+            "en": "DevalKart"
+          },
+          "coords": [
+            0.132065,
+            48.999777
+          ],
+          "category": "landmark",
+          "arrive_at": "15:04",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erleben Sie einen Adrenalinstoß, indem Sie auf unmotorisierten Karts die grasbewachsenen Hänge hinunterrasen, und bringen Sie bequeme geschlossene Schuhe für den sicheren Rücktransport mit dem Skilift mit.",
+            "hu": "Tapasztalja meg az adrenalint, ahogy nem motorizált gokartokon száguld le a füves lejtőkön, és hozzon kényelmes, zárt cipőt a sílifttel való biztonságos visszatéréshez.",
+            "ro": "Experimentați o descărcare de adrenalină concurând pe pantele cu iarbă pe karturi nemotorizate, aducând încălțăminte confortabilă și închisă pentru a naviga în siguranță la întoarcerea cu teleschiul.",
+            "en": "Experience an adrenaline rush by racing down the grassy slopes on non-motorized karts, bringing comfortable closed-toe shoes to safely navigate the uphill ski-lift return."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag in Livarot mit einem kulinarischen Erlebnis und entdecken Sie die Geheimnisse der lokalen Käseherstellung in der berühmten Graindorge-Fabrik.\nWenn die Mittagszeit naht, wechseln Sie von der Gastronomie zur Geschichte, indem Sie das elegante Manoir de l'Isle und das von einem Wassergraben umgebene Manoir de Carel erkunden.\nVerbringen Sie den Nachmittag damit, die spirituelle Architektur des Dorfes in der Église Saint-Pierre zu bewundern, die eine friedliche Pause bietet.\nLassen Sie den Tag mit unbeschwertem Spaß auf den DevalKart-Strecken ausklingen, bevor Sie ein entspanntes Abendessen im Dorf genießen.",
+        "hu": "Kezdje a napot Livarotban egy igazi kulináris élménnyel, felfedezve a helyi sajtkészítés titkait a híres Graindorge gyárban.\nAz ebédidő közeledtével váltson a gasztronómiáról a helyi történelemre az elegáns Manoir de l'Isle és a várárokkal körülvett Manoir de Carel felfedezésével.\nTöltse a délutánt a falu építészetének megcsodálásával, látogasson el az Église Saint-Pierre templomba, amely csendes, elmélyült pihenést kínál.\nZárja a napot egy kis vidám szórakozással a DevalKart pályáin, majd fogyasszon el egy pihentető vacsorát a faluban.",
+        "ro": "Începeți-vă ziua în Livarot cu o experiență culinară de excepție, descoperind secretele preparării brânzei la renumita fabrică Graindorge.\nPe măsură ce se apropie ora prânzului, treceți la istoria locală, explorând grațiosul Manoir de l'Isle și pitorescul Manoir de Carel.\nPetreceți-vă după-amiaza admirând arhitectura spirituală a satului la Église Saint-Pierre, care oferă un răgaz liniștit și contemplativ.\nÎncheiați ziua cu puțină distracție plină de adrenalină pe pistele DevalKart, înainte de a vă bucura de o cină relaxată în sat.",
+        "en": "Start your day in Livarot with a quintessential culinary experience, uncovering the secrets of local cheese making at the renowned Graindorge factory.\nAs lunchtime approaches, transition from gastronomy to local history by exploring the graceful Manoir de l'Isle and the moated Manoir de Carel.\nSpend your afternoon taking in the spiritual architecture of the village at Église Saint-Pierre, which offers a quiet, contemplative respite.\nWrap up the day with some lighthearted fun at the DevalKart tracks before enjoying a relaxed dinner back in the heart of the village."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:52",
+      "total_km": 6.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Graindorge Käserei",
+            "hu": "Graindorge Sajtgyár",
+            "ro": "Fabrica de brânză Graindorge",
+            "en": "Graindorge Cheese Factory"
+          },
+          "coords": [
+            0.152137,
+            49.001037
+          ],
+          "category": "culinary",
+          "arrive_at": "09:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie den faszinierenden Herstellungsprozess der berühmten Normandie-Käse durch eine verglaste Galerie, aber kommen Sie rechtzeitig vor dem Mittagessen, um die aktive Morgenproduktion in vollem Gange zu sehen.",
+            "hu": "Fedezze fel Normandia híres sajtjainak készítési folyamatát egy üvegfalú galérián keresztül, de feltétlenül érkezzen ebéd előtt, hogy még láthassa az aktív reggeli termelést.",
+            "ro": "Descoperiți procesul fascinant din spatele celebrelor brânzeturi normande printr-o galerie vitrată, dar sosiți înainte de prânz pentru a prinde liniile de producție active.",
+            "en": "Discover the fascinating process behind Normandy's famous PDO cheeses through a glass-walled gallery, but arrive before lunch to catch the active morning production lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir de l'Isle",
+            "hu": "Manoir de l'Isle",
+            "ro": "Manoir de l'Isle",
+            "en": "Manoir de l'Isle"
+          },
+          "coords": [
+            0.146944,
+            49.005
+          ],
+          "category": "historical",
+          "arrive_at": "10:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie um dieses elegante historische Herrenhaus, das klassische normannische Architektur zeigt, und nutzen Sie die Gelegenheit, sich in den wunderschön gepflegten angrenzenden öffentlichen Gärten zu entspannen.",
+            "hu": "Sétáljon a klasszikus normann építészetet bemutató elegáns történelmi kúria körül, és szánjon egy percet a pihenésre a gyönyörűen karbantartott szomszédos közkertekben.",
+            "ro": "Plimbați-vă în jurul acestui conac istoric elegant care prezintă arhitectura clasică normandă și faceți un moment pentru a vă relaxa în grădinile publice adiacente frumos întreținute.",
+            "en": "Stroll around this elegant historic manor that showcases classical Norman architecture, and take a moment to relax in its beautifully maintained adjacent public gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir de Carel",
+            "hu": "Manoir de Carel",
+            "ro": "Manoir de Carel",
+            "en": "Manoir de Carel"
+          },
+          "coords": [
+            0.146572,
+            49.011941
+          ],
+          "category": "castle",
+          "arrive_at": "12:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie den markanten Kontrast aus Stein und Ziegel an diesem von einem Wassergraben umgebenen Schloss, beachten Sie jedoch, dass es in Privatbesitz ist und die beste Aussicht von der Begrenzungsmauer aus besteht.",
+            "hu": "Csodálja meg a kő és tégla feltűnő kontrasztját ennél a várárokkal körülvett 18. századi kastélynál, de vegye figyelembe, hogy magántulajdonban van, így a legjobban az útról tekinthető meg.",
+            "ro": "Admirați contrastul izbitor de piatră și cărămidă la acest castel din secolul al XVIII-lea înconjurat de un șanț, deși rețineți că este proprietate privată și vizionarea este optimă de pe drum.",
+            "en": "Admire the striking contrast of stone and brick at this 18th-century chateau surrounded by a moat, though be aware it is privately owned so viewing is best from the perimeter road."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Michel",
+            "hu": "Église Saint-Michel",
+            "ro": "Église Saint-Michel",
+            "en": "Église Saint-Michel"
+          },
+          "coords": [
+            0.134321,
+            49.018447
+          ],
+          "category": "religious",
+          "arrive_at": "13:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese malerische ländliche Kirche inmitten der üppigen Landschaft der Normandie, die nachmittags ein ruhiges Fotomotiv auf Ihrer Radtour bietet.",
+            "hu": "Látogasson el erre a festői vidéki templomra, amelyet Normandia buja vidéke vesz körül, és amely a kora délutáni órákban derűs fotózási lehetőséget kínál.",
+            "ro": "Vizitați această biserică rurală pitorească înconjurată de mediul rural luxuriant din Normandia, oferind o oportunitate foto senină în timpul plimbării cu bicicleta.",
+            "en": "Visit this picturesque rural church surrounded by Normandy's lush countryside, offering a serene photo opportunity as you cycle through the idyllic landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            0.142889,
+            48.999276
+          ],
+          "category": "religious",
+          "arrive_at": "14:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Treten Sie in diese charmante Kirche ein, um ihre Buntglasfenster und die friedliche Atmosphäre zu schätzen, und achten Sie besonders auf die aufwendigen Holzschnitzereien in der Nähe des Altars.",
+            "hu": "Lépjen be ebbe a bájos templomba, hogy megcsodálhassa az ólomüveg ablakokat és a békés légkört, figyelve az oltár melletti bonyolult és értékes fafaragásokra.",
+            "ro": "Pășiți în această biserică fermecătoare pentru a-i aprecia vitraliile și atmosfera pașnică, fiind atenți la sculpturile complicate în lemn din apropierea altarului principal.",
+            "en": "Step into this charming church to appreciate its stained glass windows and peaceful atmosphere, keeping an eye out for the intricate wooden carvings near the main altar."
+          }
+        },
+        {
+          "name": {
+            "de": "DevalKart",
+            "hu": "DevalKart",
+            "ro": "DevalKart",
+            "en": "DevalKart"
+          },
+          "coords": [
+            0.132065,
+            48.999777
+          ],
+          "category": "landmark",
+          "arrive_at": "15:22",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erleben Sie einen Adrenalinstoß, indem Sie auf unmotorisierten Karts die grasbewachsenen Hänge hinunterrasen, und bringen Sie bequeme geschlossene Schuhe für den sicheren Rücktransport mit dem Skilift mit.",
+            "hu": "Tapasztalja meg az adrenalint, ahogy nem motorizált gokartokon száguld le a füves lejtőkön, és hozzon kényelmes, zárt cipőt a sílifttel való biztonságos visszatéréshez.",
+            "ro": "Experimentați o descărcare de adrenalină concurând pe pantele cu iarbă pe karturi nemotorizate, aducând încălțăminte confortabilă și închisă pentru a naviga în siguranță la întoarcerea cu teleschiul.",
+            "en": "Experience an adrenaline rush by racing down the grassy slopes on non-motorized karts, bringing comfortable closed-toe shoes to safely navigate the uphill ski-lift return."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie in den Tag mit einem faszinierenden Stopp in der Graindorge-Käserei, wo der Duft von frischem Käse Ihre Sinne weckt.\nDie Mittagsroute führt Sie vorbei an historischen Schätzen wie dem Manoir de l'Isle und dem beeindruckenden, von Wasser umgebenen Manoir de Carel.\nAm Nachmittag radeln Sie entspannt durch die ländliche Normandie, um malerische Dorfkirchen wie Saint-Michel und Saint-Pierre zu besichtigen.\nLassen Sie das Fahrrad kurz ruhen und genießen Sie eine rasante Abfahrt auf den DevalKart-Pisten, um den Tag sportlich abzuschließen.",
+        "hu": "Indítsa a kerékpáros napot egy lenyűgöző megállóval a Graindorge sajtgyárban, ahol a friss normann sajtok illata ébreszti az érzékeit.\nA déli útvonal olyan történelmi kincsek mellett vezet el, mint a Manoir de l'Isle és a lenyűgöző, vízzel körülvett Manoir de Carel.\nDélután nyugodtan kerékpározzon a vidéki tájon, hogy felfedezze az olyan festői templomokat, mint a Saint-Michel és a Saint-Pierre.\nPihentesse meg a kerékpárt egy kicsit, és élvezze a gyors ereszkedést a DevalKart pályáin, hogy sportosan zárja a napot.",
+        "ro": "Începeți ziua de ciclism cu o oprire fascinantă la fabrica de brânză Graindorge, unde parfumul brânzei proaspete vă va trezi simțurile.\nTraseul de prânz vă poartă pe lângă comori istorice precum Manoir de l'Isle și impresionantul Manoir de Carel înconjurat de apă.\nDupă-amiaza, pedalați relaxat prin peisajul rural normand pentru a vizita biserici pitorești de sat precum Saint-Michel și Saint-Pierre.\nLăsați bicicleta să se odihnească și bucurați-vă de o coborâre rapidă pe pistele DevalKart pentru a încheia ziua într-un mod sportiv.",
+        "en": "Pedal into your day with a fascinating stop at the Graindorge cheese factory, where the scent of fresh Normandy dairy awakens the senses.\nYour midday cycling route weaves past historic treasures like the Manoir de l'Isle and the impressive, water-ringed Manoir de Carel.\nIn the afternoon, enjoy a relaxed ride through the lush countryside to visit picturesque village churches like Saint-Michel and Saint-Pierre.\nGive the bike a brief rest and enjoy a thrilling downhill ride on the DevalKart tracks to round off a brilliant active day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 11.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Graindorge Käserei",
+            "hu": "Graindorge Sajtgyár",
+            "ro": "Fabrica de brânză Graindorge",
+            "en": "Graindorge Cheese Factory"
+          },
+          "coords": [
+            0.152137,
+            49.001037
+          ],
+          "category": "culinary",
+          "arrive_at": "09:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie den faszinierenden Herstellungsprozess der berühmten Normandie-Käse durch eine verglaste Galerie, aber kommen Sie rechtzeitig vor dem Mittagessen, um die aktive Morgenproduktion in vollem Gange zu sehen.",
+            "hu": "Fedezze fel Normandia híres sajtjainak készítési folyamatát egy üvegfalú galérián keresztül, de feltétlenül érkezzen ebéd előtt, hogy még láthassa az aktív reggeli termelést.",
+            "ro": "Descoperiți procesul fascinant din spatele celebrelor brânzeturi normande printr-o galerie vitrată, dar sosiți înainte de prânz pentru a prinde liniile de producție active.",
+            "en": "Discover the fascinating process behind Normandy's famous PDO cheeses through a glass-walled gallery, but arrive before lunch to catch the active morning production lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir de Carel",
+            "hu": "Manoir de Carel",
+            "ro": "Manoir de Carel",
+            "en": "Manoir de Carel"
+          },
+          "coords": [
+            0.146572,
+            49.011941
+          ],
+          "category": "castle",
+          "arrive_at": "10:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie den markanten Kontrast aus Stein und Ziegel an diesem von einem Wassergraben umgebenen Schloss, beachten Sie jedoch, dass es in Privatbesitz ist und die beste Aussicht von der Begrenzungsmauer aus besteht.",
+            "hu": "Csodálja meg a kő és tégla feltűnő kontrasztját ennél a várárokkal körülvett 18. századi kastélynál, de vegye figyelembe, hogy magántulajdonban van, így a legjobban az útról tekinthető meg.",
+            "ro": "Admirați contrastul izbitor de piatră și cărămidă la acest castel din secolul al XVIII-lea înconjurat de un șanț, deși rețineți că este proprietate privată și vizionarea este optimă de pe drum.",
+            "en": "Admire the striking contrast of stone and brick at this 18th-century chateau surrounded by a moat, though be aware it is privately owned so viewing is best from the perimeter road."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Michel",
+            "hu": "Église Saint-Michel",
+            "ro": "Église Saint-Michel",
+            "en": "Église Saint-Michel"
+          },
+          "coords": [
+            0.134321,
+            49.018447
+          ],
+          "category": "religious",
+          "arrive_at": "12:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese malerische ländliche Kirche inmitten der üppigen Landschaft der Normandie, die ein ruhiges Fotomotiv bietet, wo Sie Ihr Auto direkt in der Nähe parken können.",
+            "hu": "Látogasson el erre a festői vidéki templomra, amelyet Normandia buja vidéke vesz körül, és amely derűs fotózási lehetőséget kínál kényelmes parkolással.",
+            "ro": "Vizitați această biserică rurală pitorească înconjurată de mediul rural luxuriant din Normandia, oferind o oportunitate foto senină cu parcare ușoară în apropiere.",
+            "en": "Visit this picturesque rural church surrounded by Normandy's lush countryside, offering a serene photo opportunity with the convenience of easy nearby parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            0.142889,
+            48.999276
+          ],
+          "category": "religious",
+          "arrive_at": "13:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Treten Sie in diese charmante Kirche ein, um ihre Buntglasfenster und die friedliche Atmosphäre zu schätzen, und achten Sie besonders auf die aufwendigen Holzschnitzereien in der Nähe des Altars.",
+            "hu": "Lépjen be ebbe a bájos templomba, hogy megcsodálhassa az ólomüveg ablakokat és a békés légkört, figyelve az oltár melletti bonyolult és értékes fafaragásokra.",
+            "ro": "Pășiți în această biserică fermecătoare pentru a-i aprecia vitraliile și atmosfera pașnică, fiind atenți la sculpturile complicate în lemn din apropierea altarului principal.",
+            "en": "Step into this charming church to appreciate its stained glass windows and peaceful atmosphere, keeping an eye out for the intricate wooden carvings near the main altar."
+          }
+        },
+        {
+          "name": {
+            "de": "DevalKart",
+            "hu": "DevalKart",
+            "ro": "DevalKart",
+            "en": "DevalKart"
+          },
+          "coords": [
+            0.132065,
+            48.999777
+          ],
+          "category": "landmark",
+          "arrive_at": "13:44",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erleben Sie einen Adrenalinstoß, indem Sie auf unmotorisierten Karts die grasbewachsenen Hänge hinunterrasen, und bringen Sie bequeme geschlossene Schuhe für den sicheren Rücktransport mit dem Skilift mit.",
+            "hu": "Tapasztalja meg az adrenalint, ahogy nem motorizált gokartokon száguld le a füves lejtőkön, és hozzon kényelmes, zárt cipőt a sílifttel való biztonságos visszatéréshez.",
+            "ro": "Experimentați o descărcare de adrenalină concurând pe pantele cu iarbă pe karturi nemotorizate, aducând încălțăminte confortabilă și închisă pentru a naviga în siguranță la întoarcerea cu teleschiul.",
+            "en": "Experience an adrenaline rush by racing down the grassy slopes on non-motorized karts, bringing comfortable closed-toe shoes to safely navigate the uphill ski-lift return."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Jacques-le-Majeur",
+            "hu": "Église Saint-Jacques-le-Majeur",
+            "ro": "Église Saint-Jacques-le-Majeur",
+            "en": "Église Saint-Jacques-le-Majeur"
+          },
+          "coords": [
+            0.140478,
+            48.985483
+          ],
+          "category": "religious",
+          "arrive_at": "14:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historisch bedeutsame Pfarrkirche mit ihrem traditionellen regionalen Glockenturm und überprüfen Sie das örtliche schwarze Brett auf gelegentliche sommerliche Choraufführungen.",
+            "hu": "Fedezze fel ezt a történelmileg jelentős plébániatemplomot hagyományos regionális harangtornyával, és ellenőrizze a helyi hirdetőtáblát az alkalmi nyári kóruselőadások miatt.",
+            "ro": "Explorați această biserică parohială semnificativă din punct de vedere istoric cu clopotnița sa regională tradițională, verificând panoul local pentru spectacole ocazionale ale corului de vară.",
+            "en": "Explore this historically significant parish church with its traditional regional bell tower, checking the local notice board for occasional summer choral performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Ouen Church",
+            "hu": "Saint-Ouen templom",
+            "ro": "Biserica Saint-Ouen",
+            "en": "Saint-Ouen Church"
+          },
+          "coords": [
+            0.185,
+            48.978611
+          ],
+          "category": "religious",
+          "arrive_at": "15:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour an diesem malerischen religiösen Denkmal etwas außerhalb des Dorfes, das das tiefe spirituelle Erbe von Livarot inmitten einer idyllischen Fahrt widerspiegelt.",
+            "hu": "Fejezze be túráját ennél a falun kívül fekvő, festői vallási emlékműnél, amely a Livarot régió mély spirituális örökségét tükrözi egy idilli autózás közepette.",
+            "ro": "Încheiați-vă turul la acest monument religios pitoresc situat în afara satului, reflectând moștenirea spirituală profundă a regiunii Livarot în mijlocul unei plimbări idilice.",
+            "en": "Conclude your driving tour at this quaint religious monument set slightly outside the village, reflecting the deep spiritual heritage of Livarot amidst an idyllic countryside setting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Roadtrip durch Livarot beginnt idealerweise mit den aromatischen Käsehallen von Graindorge, wo der Morgen dem Handwerk gewidmet ist.\nMit dem Auto erreichen Sie schnell historische Perlen wie das Manoir de Carel sowie charmante ländliche Kirchen wie Saint-Michel, die über das Umland verstreut sind.\nDer Nachmittag verbindet Spaß im DevalKart-Park mit spiritueller Besinnung in der Église Saint-Jacques-le-Majeur im Süden der Stadt.\nZum Abschluss fahren Sie hinaus zur idyllisch gelegenen Saint-Ouen Church, wo Sie den Tag in völliger normannischer Ruhe ausklingen lassen können.",
+        "hu": "Egy livaroti autós utazás ideálisan a Graindorge sajtgyár aromás csarnokaiban kezdődik, ahol a délelőttöt a kézművességnek szentelik.\nAutóval gyorsan elérheti az olyan történelmi gyöngyszemeket, mint a Manoir de Carel, valamint a környéken szétszórt bájos vidéki templomokat.\nA délután a DevalKart parkban nyújtott szórakozást a város déli részén található Église Saint-Jacques-le-Majeur spirituális elmélyülésével ötvözi.\nVégül kocsikázzon ki az idillien elhelyezkedő Saint-Ouen templomhoz, ahol a napot teljes normann nyugalomban zárhatja.",
+        "ro": "O excursie cu mașina prin Livarot începe ideal cu sălile aromate de brânză de la Graindorge, unde dimineața este dedicată meșteșugului.\nCu mașina, puteți ajunge rapid la perle istorice precum Manoir de Carel și biserici rurale fermecătoare precum Saint-Michel, împrăștiate în împrejurimi.\nDupă-amiaza combină distracția în parcul DevalKart cu contemplarea spirituală la Église Saint-Jacques-le-Majeur din sudul orașului.\nÎn cele din urmă, conduceți spre Biserica Saint-Ouen situată idilic, unde puteți încheia ziua într-o pace normandă completă.",
+        "en": "A road trip through Livarot ideally begins at the aromatic cheese halls of Graindorge, diving deep into the region's famous culinary craft.\nHaving a car allows quick hops to historic gems like the moated Manoir de Carel and scattered rural parishes like Église Saint-Michel.\nThe afternoon perfectly balances adrenaline at the DevalKart track with architectural appreciation at the beautifully constructed Église Saint-Jacques-le-Majeur.\nFinally, take a short scenic drive out to the idyllic Saint-Ouen Church, wrapping up your day in complete Norman tranquility."
+      }
+    }
+  }
+}

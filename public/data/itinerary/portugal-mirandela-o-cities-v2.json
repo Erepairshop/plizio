@@ -1,0 +1,405 @@
+{
+  "city_id": "portugal-mirandela-o-cities-v2",
+  "anchor": {
+    "name": "Macedo de Cavaleiros",
+    "coords": [
+      -6.95,
+      41.5333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:24",
+      "total_km": 0.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Junta de Freguesia de Macedo de Cavaleiros",
+            "hu": "Junta de Freguesia de Macedo de Cavaleiros",
+            "ro": "Junta de Freguesia de Macedo de Cavaleiros",
+            "en": "Junta de Freguesia de Macedo de Cavaleiros"
+          },
+          "coords": [
+            -6.965135,
+            41.538863
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur des Rathauses und seine Bedeutung für die lokale Verwaltung, wobei Sie am besten am frühen Morgen für ruhige Fotos vorbeikommen sollten.",
+            "hu": "Csodálja meg a városháza építészetét és a helyi közigazgatásban betöltött szerepét, és érkezzen kora reggel a legszebb, zavartalan fotók elkészítéséhez.",
+            "ro": "Admirați arhitectura primăriei și rolul său în administrația locală, ajungând aici dimineața devreme pentru a face cele mai bune fotografii fără aglomerație.",
+            "en": "Admire the architecture of the town hall and its importance to local administration, making sure to arrive early in the morning for the best undisturbed photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Municipal Museu Martim Gonçalves de Macedo",
+            "hu": "Municipal Museu Martim Gonçalves de Macedo",
+            "ro": "Municipal Museu Martim Gonçalves de Macedo",
+            "en": "Municipal Museu Martim Gonçalves de Macedo"
+          },
+          "coords": [
+            -6.96377,
+            41.539625
+          ],
+          "category": "museum",
+          "arrive_at": "09:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte dieses lokalen Helden in den gut kuratierten Ausstellungsräumen und nehmen Sie sich Zeit für die interaktiven Displays.",
+            "hu": "Fedezze fel ennek a helyi hősnek a lenyűgöző történetét a kiválóan rendezett kiállítótermekben, és szánjon elegendő időt az interaktív bemutatók megtekintésére.",
+            "ro": "Descoperiți istoria fascinantă a acestui erou local în sălile de expoziție bine organizate și alocați-vă timp suficient pentru a explora afișajele interactive.",
+            "en": "Discover the fascinating history of this local hero in the well-curated exhibition halls, and take your time to fully engage with the interactive displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu de Arte Sacra",
+            "hu": "Museu de Arte Sacra",
+            "ro": "Museu de Arte Sacra",
+            "en": "Museu de Arte Sacra"
+          },
+          "coords": [
+            -6.961197,
+            41.5385
+          ],
+          "category": "museum",
+          "arrive_at": "11:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die tief verwurzelte religiöse Kunst der Region ein und achten Sie besonders auf die feinen Holzschnitzereien, die oft im Hauptsaal zu finden sind.",
+            "hu": "Merüljön el a régió mélyen gyökerező vallási művészetében, és fordítson különös figyelmet a főteremben található, rendkívül finoman kidolgozott fafaragásokra.",
+            "ro": "Cufundați-vă în arta religioasă profund înrădăcinată a regiunii și acordați o atenție deosebită sculpturilor fine din lemn expuse de obicei în sala principală.",
+            "en": "Immerse yourself in the region's deeply rooted religious art and pay special attention to the fine wood carvings that are typically showcased in the main hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Infantil do Mercado",
+            "hu": "Parque Infantil do Mercado",
+            "ro": "Parque Infantil do Mercado",
+            "en": "Parque Infantil do Mercado"
+          },
+          "coords": [
+            -6.958577,
+            41.537802
+          ],
+          "category": "family",
+          "arrive_at": "12:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich eine entspannte Pause in diesem lebhaften Park, wo Kinder spielen können und Sie auf einer der schattigen Bänke neue Energie tanken dürfen.",
+            "hu": "Tartson egy pihentető szünetet ebben a nyüzsgő parkban, ahol a gyerekek játszhatnak, Ön pedig feltöltődhet egy árnyékos padon ülve a következő múzeum előtt.",
+            "ro": "Faceți o pauză relaxantă în acest parc plin de viață, unde copiii se pot juca, iar dumneavoastră vă puteți reîncărca bateriile pe una dintre băncile umbrite.",
+            "en": "Take a relaxing break in this lively park where children can play freely and you can recharge your batteries on one of the shaded benches before continuing."
+          }
+        },
+        {
+          "name": {
+            "de": "Municipal Museum of Archaeology Colonel Albino Pereira Lopo",
+            "hu": "Municipal Museum of Archaeology Colonel Albino Pereira Lopo",
+            "ro": "Municipal Museum of Archaeology Colonel Albino Pereira Lopo",
+            "en": "Municipal Museum of Archaeology Colonel Albino Pereira Lopo"
+          },
+          "coords": [
+            -6.956601,
+            41.536148
+          ],
+          "category": "museum",
+          "arrive_at": "14:14",
+          "stay_min": 130,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erkunden Sie die reiche archäologische Vergangenheit der Gegend anhand seltener Artefakte und fragen Sie das Personal nach der Herkunft der römischen Fundstücke.",
+            "hu": "Ismerje meg a környék gazdag régészeti múltját a ritka leleteken keresztül, és mindenképpen kérdezze meg a személyzetet a római kori tárgyak pontos eredetéről.",
+            "ro": "Explorați bogatul trecut arheologic al zonei prin intermediul artefactelor rare și asigurați-vă că întrebați personalul despre originea descoperirilor romane.",
+            "en": "Explore the area's rich archaeological past through rare artifacts, and be sure to ask the knowledgeable staff about the specific origins of the Roman finds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen unseren Spaziergang im Herzen von Macedo de Cavaleiros am Rathaus. Danach tauchen wir im Martim Gonçalves Museum tief in die spannende lokale Geschichte ein.\n\nGegen Mittag bummeln wir gemütlich zum Museum für sakrale Kunst. Die kompakte Innenstadt ermöglicht ein entspanntes Tempo. Anschließend erholen wir uns im familienfreundlichen Park.\n\nDer Nachmittag ist der antiken Vergangenheit gewidmet. Wir besuchen das faszinierende Archäologiemuseum, wo seltene Artefakte die tiefe römische und keltische Geschichte der portugiesischen Region offenbaren.\n\nUnser Rundgang endet, wenn das späte Nachmittagslicht weicher wird. Wir verlassen das Museum mit einer tiefen Wertschätzung für das reiche kulturelle Erbe dieser charmanten nordportugiesischen Stadt.",
+        "hu": "Gyalogtúránkat Macedo de Cavaleiros szívében, a városházánál kezdjük. A reggeli levegő frissessége kísér, miközben elsőként a Martim Gonçalves Múzeum izgalmas történelmi anyagát fedezzük fel.\n\nKora délután kényelmesen átsétálunk a Szakrális Művészetek Múzeumába. A belváros közelsége miatt könnyű a séta. Később a helyi parkban pihenünk meg, ami ideális családok számára is.\n\nA délután az ókori múlté. Ellátogatunk a Városi Régészeti Múzeumba, ahol a lenyűgöző leletek feltárják ennek a portugál régiónak a gazdag és mélyreható történelmi gyökereit.\n\nSétánk a késő délutáni fények lágyulásával ér véget. Úgy távozunk a múzeumból, hogy igazán értékeljük ennek a bájos észak-portugáliai városnak a lenyűgöző kulturális örökségét.",
+        "ro": "Începem turul nostru pietonal în inima orașului Macedo de Cavaleiros. Aerul dimineții ne salută în timp ce vizităm primăria, urmată de o scufundare în istorie la Muzeul Martim Gonçalves.\n\nPe măsură ce se apropie amiaza, ne plimbăm spre Muzeul de Artă Sacră. Centrul compact permite un ritm relaxat. Apoi facem o pauză plăcută în parcul pieței, perfect pentru familii și odihnă.\n\nDupă-amiaza este dedicată trecutului antic. Vizităm Muzeul Municipal de Arheologie, unde artefacte fascinante scot la iveală istoria profundă a acestei frumoase regiuni portugheze.\n\nTurul se încheie pe măsură ce lumina după-amiezii târzii se domolește. Părăsim muzeul cu o apreciere profundă pentru bogatul patrimoniu cultural ascuns în acest fermecător oraș din nord.",
+        "en": "We start our walking tour in the heart of Macedo de Cavaleiros. The morning air greets us as we visit the local administration building, followed by our first dive into history at the Martim Gonçalves Museum.\n\nAs midday approaches, we stroll to the Museum of Sacred Art. The compact town center allows for a relaxed pace. We then take a pleasant break at the local market park, perfect for resting.\n\nThe afternoon is dedicated to the ancient past. We visit the Municipal Museum of Archaeology, where fascinating artifacts vividly reveal the deep history of this historic Portuguese region.\n\nOur walking tour concludes as the late afternoon light softens. We leave the museum with a profound appreciation for the rich cultural heritage tucked within this charming northern Portuguese town."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:47",
+      "total_km": 6.55,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Municipal Museum of Archaeology Colonel Albino Pereira Lopo",
+            "hu": "Municipal Museum of Archaeology Colonel Albino Pereira Lopo",
+            "ro": "Municipal Museum of Archaeology Colonel Albino Pereira Lopo",
+            "en": "Municipal Museum of Archaeology Colonel Albino Pereira Lopo"
+          },
+          "coords": [
+            -6.956601,
+            41.536148
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die reiche archäologische Vergangenheit der Gegend anhand seltener Artefakte und fragen Sie das Personal nach der Herkunft der römischen Fundstücke.",
+            "hu": "Ismerje meg a környék gazdag régészeti múltját a ritka leleteken keresztül, és mindenképpen kérdezze meg a személyzetet a római kori tárgyak pontos eredetéről.",
+            "ro": "Explorați bogatul trecut arheologic al zonei prin intermediul artefactelor rare și asigurați-vă că întrebați personalul despre originea descoperirilor romane.",
+            "en": "Explore the area's rich archaeological past through rare artifacts, and be sure to ask the knowledgeable staff about the specific origins of the Roman finds."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu de Arte Sacra",
+            "hu": "Museu de Arte Sacra",
+            "ro": "Museu de Arte Sacra",
+            "en": "Museu de Arte Sacra"
+          },
+          "coords": [
+            -6.961197,
+            41.5385
+          ],
+          "category": "museum",
+          "arrive_at": "10:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die tief verwurzelte religiöse Kunst der Region ein und achten Sie besonders auf die feinen Holzschnitzereien, die oft im Hauptsaal zu finden sind.",
+            "hu": "Merüljön el a régió mélyen gyökerező vallási művészetében, és fordítson különös figyelmet a főteremben található, rendkívül finoman kidolgozott fafaragásokra.",
+            "ro": "Cufundați-vă în arta religioasă profund înrădăcinată a regiunii și acordați o atenție deosebită sculpturilor fine din lemn expuse de obicei în sala principală.",
+            "en": "Immerse yourself in the region's deeply rooted religious art and pay special attention to the fine wood carvings that are typically showcased in the main hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Municipal Museu Martim Gonçalves de Macedo",
+            "hu": "Municipal Museu Martim Gonçalves de Macedo",
+            "ro": "Municipal Museu Martim Gonçalves de Macedo",
+            "en": "Municipal Museu Martim Gonçalves de Macedo"
+          },
+          "coords": [
+            -6.96377,
+            41.539625
+          ],
+          "category": "museum",
+          "arrive_at": "12:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte dieses lokalen Helden in den gut kuratierten Ausstellungsräumen und nehmen Sie sich Zeit für die interaktiven Displays.",
+            "hu": "Fedezze fel ennek a helyi hősnek a lenyűgöző történetét a kiválóan rendezett kiállítótermekben, és szánjon elegendő időt az interaktív bemutatók megtekintésére.",
+            "ro": "Descoperiți istoria fascinantă a acestui erou local în sălile de expoziție bine organizate și alocați-vă timp suficient pentru a explora afișajele interactive.",
+            "en": "Discover the fascinating history of this local hero in the well-curated exhibition halls, and take your time to fully engage with the interactive displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Pelourinho",
+            "hu": "Pelourinho",
+            "ro": "Pelourinho",
+            "en": "Pelourinho"
+          },
+          "coords": [
+            -6.938539,
+            41.551227
+          ],
+          "category": "landmark",
+          "arrive_at": "14:29",
+          "stay_min": 15,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses historische Monument als Symbol der städtischen Autonomie und nutzen Sie das sanfte Nachmittagslicht, um die Steindetails einzufangen.",
+            "hu": "Tekintse meg ezt a történelmi emlékművet, mint a városi autonómia szimbólumát, és használja ki a délutáni lágy fényeket a kőből faragott részletek fotózásához.",
+            "ro": "Observați acest monument istoric ca simbol al autonomiei municipale și profitați de lumina blândă a după-amiezii pentru a surprinde detaliile sculptate în piatră.",
+            "en": "View this historical monument as a powerful symbol of municipal autonomy, and take advantage of the soft afternoon light to photograph its carved stone details."
+          }
+        },
+        {
+          "name": {
+            "de": "Barragem da Carvalheira",
+            "hu": "Barragem da Carvalheira",
+            "ro": "Barragem da Carvalheira",
+            "en": "Barragem da Carvalheira"
+          },
+          "coords": [
+            -6.978573,
+            41.552083
+          ],
+          "category": "natural",
+          "arrive_at": "15:02",
+          "stay_min": 105,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Naturlandschaft an diesem Stausee, wo ein Spaziergang entlang des Wassers perfekt ist, um dem städtischen Trubel zu entfliehen.",
+            "hu": "Élvezze a békés természeti tájat ennél a víztározónál, ahol egy kellemes séta a vízparton tökéletes kikapcsolódást nyújt a város zaja után.",
+            "ro": "Bucurați-vă de peisajul natural pașnic de la acest baraj, unde o plimbare relaxantă de-a lungul apei este perfectă pentru a scăpa de agitația orașului.",
+            "en": "Enjoy the peaceful natural landscape at this reservoir, where a leisurely stroll along the water's edge provides a perfect escape from the bustling town center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir starten unsere Radtour am spannenden Archäologiemuseum. Nachdem wir in die Antike eingetaucht sind, radeln wir bequem zum nahegelegenen Museum für sakrale Kunst im Zentrum.\n\nZur Mittagszeit führt uns der Weg weiter durch die Stadtgeschichte zum Martim Gonçalves Museum. Die kurzen Wege im Zentrum sind ideal, um alles entspannt mit dem Fahrrad zu erreichen.\n\nAm Nachmittag verlassen wir das Stadtzentrum und fahren zum historischen Pelourinho-Monument. Von dort aus wird die Fahrt naturnäher und wir genießen die weite Landschaft der Region.\n\nDie Tour endet am malerischen Stausee Barragem da Carvalheira. Hier können wir die Fahrräder abstellen, am Wasser entspannen und die friedliche Atmosphäre der Natur voll auskosten.",
+        "hu": "Kerékpártúránkat az izgalmas Régészeti Múzeumnál kezdjük. Miután elmélyedtünk az ókorban, kényelmesen elkarikázunk a központban található közeli Szakrális Művészetek Múzeumához.\n\nDélben a várostörténeti utunk a Martim Gonçalves Múzeumhoz vezet. A rövid központi távolságok tökéletesek arra, hogy kerékpárral mindent könnyedén és nyugodtan felfedezzünk.\n\nDélután elhagyjuk a városközpontot, és a történelmi Pelourinho emlékműhöz pedálozunk. Innen az út egyre zöldebbé válik, és élvezhetjük a régió tágas és gyönyörű vidéki tájait.\n\nA túra a festői Barragem da Carvalheira víztározónál ér véget. Itt leparkolhatjuk a kerékpárokat, pihenhetünk a vízparton, és teljes mértékben kiélvezhetjük a természet békéjét.",
+        "ro": "Începem turul cu bicicleta la fascinantul Muzeu de Arheologie. După ce ne scufundăm în antichitate, pedalăm confortabil către Muzeul de Artă Sacră din apropiere, aflat în centru.\n\nLa prânz, traseul ne poartă mai departe prin istoria orașului la Muzeul Martim Gonçalves. Distanțele scurte din centru sunt ideale pentru a explora totul relaxat pe două roți.\n\nDupă-amiaza lăsăm centrul orașului în urmă și mergem cu bicicleta spre monumentul istoric Pelourinho. De acolo, plimbarea devine mai naturală și ne bucurăm de peisajele deschise.\n\nTurul se încheie la pitorescul baraj Barragem da Carvalheira. Aici putem parca bicicletele, ne putem relaxa lângă apă și ne putem bucura din plin de atmosfera liniștită a naturii.",
+        "en": "We start our cycling tour at the fascinating Museum of Archaeology. After delving into antiquity, we comfortably pedal to the nearby Museum of Sacred Art in the town center.\n\nAt midday, our path leads us further through local history to the Martim Gonçalves Museum. The short distances in the center are ideal for exploring everything relaxedly on a bicycle.\n\nIn the afternoon, we leave the town center behind and cycle to the historic Pelourinho monument. From there, the ride becomes closer to nature as we enjoy the open regional landscapes.\n\nThe tour ends at the picturesque Barragem da Carvalheira reservoir. Here we can park our bikes, relax by the water, and fully embrace the peaceful atmosphere of the great outdoors."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 15.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Municipal Museum of Archaeology Colonel Albino Pereira Lopo",
+            "hu": "Municipal Museum of Archaeology Colonel Albino Pereira Lopo",
+            "ro": "Municipal Museum of Archaeology Colonel Albino Pereira Lopo",
+            "en": "Municipal Museum of Archaeology Colonel Albino Pereira Lopo"
+          },
+          "coords": [
+            -6.956601,
+            41.536148
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die reiche archäologische Vergangenheit der Gegend anhand seltener Artefakte und fragen Sie das Personal nach der Herkunft der römischen Fundstücke.",
+            "hu": "Ismerje meg a környék gazdag régészeti múltját a ritka leleteken keresztül, és mindenképpen kérdezze meg a személyzetet a római kori tárgyak pontos eredetéről.",
+            "ro": "Explorați bogatul trecut arheologic al zonei prin intermediul artefactelor rare și asigurați-vă că întrebați personalul despre originea descoperirilor romane.",
+            "en": "Explore the area's rich archaeological past through rare artifacts, and be sure to ask the knowledgeable staff about the specific origins of the Roman finds."
+          }
+        },
+        {
+          "name": {
+            "de": "Municipal Museu Martim Gonçalves de Macedo",
+            "hu": "Municipal Museu Martim Gonçalves de Macedo",
+            "ro": "Municipal Museu Martim Gonçalves de Macedo",
+            "en": "Municipal Museu Martim Gonçalves de Macedo"
+          },
+          "coords": [
+            -6.96377,
+            41.539625
+          ],
+          "category": "museum",
+          "arrive_at": "10:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte dieses lokalen Helden in den gut kuratierten Ausstellungsräumen und nehmen Sie sich Zeit für die interaktiven Displays.",
+            "hu": "Fedezze fel ennek a helyi hősnek a lenyűgöző történetét a kiválóan rendezett kiállítótermekben, és szánjon elegendő időt az interaktív bemutatók megtekintésére.",
+            "ro": "Descoperiți istoria fascinantă a acestui erou local în sălile de expoziție bine organizate și alocați-vă timp suficient pentru a explora afișajele interactive.",
+            "en": "Discover the fascinating history of this local hero in the well-curated exhibition halls, and take your time to fully engage with the interactive displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Pelourinho",
+            "hu": "Pelourinho",
+            "ro": "Pelourinho",
+            "en": "Pelourinho"
+          },
+          "coords": [
+            -6.938539,
+            41.551227
+          ],
+          "category": "landmark",
+          "arrive_at": "12:40",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses historische Monument als Symbol der städtischen Autonomie und nutzen Sie das sanfte Nachmittagslicht, um die Steindetails einzufangen.",
+            "hu": "Tekintse meg ezt a történelmi emlékművet, mint a városi autonómia szimbólumát, és használja ki a délutáni lágy fényeket a kőből faragott részletek fotózásához.",
+            "ro": "Observați acest monument istoric ca simbol al autonomiei municipale și profitați de lumina blândă a după-amiezii pentru a surprinde detaliile sculptate în piatră.",
+            "en": "View this historical monument as a powerful symbol of municipal autonomy, and take advantage of the soft afternoon light to photograph its carved stone details."
+          }
+        },
+        {
+          "name": {
+            "de": "Barragem da Carvalheira",
+            "hu": "Barragem da Carvalheira",
+            "ro": "Barragem da Carvalheira",
+            "en": "Barragem da Carvalheira"
+          },
+          "coords": [
+            -6.978573,
+            41.552083
+          ],
+          "category": "natural",
+          "arrive_at": "13:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Naturlandschaft an diesem Stausee, wo ein Spaziergang entlang des Wassers perfekt ist, um dem städtischen Trubel zu entfliehen.",
+            "hu": "Élvezze a békés természeti tájat ennél a víztározónál, ahol egy kellemes séta a vízparton tökéletes kikapcsolódást nyújt a város zaja után.",
+            "ro": "Bucurați-vă de peisajul natural pașnic de la acest baraj, unde o plimbare relaxantă de-a lungul apei este perfectă pentru a scăpa de agitația orașului.",
+            "en": "Enjoy the peaceful natural landscape at this reservoir, where a leisurely stroll along the water's edge provides a perfect escape from the bustling town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Albufeira do Azibo",
+            "hu": "Albufeira do Azibo",
+            "ro": "Albufeira do Azibo",
+            "en": "Albufeira do Azibo"
+          },
+          "coords": [
+            -6.903792,
+            41.572954
+          ],
+          "category": "natural",
+          "arrive_at": "14:36",
+          "stay_min": 105,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die atemberaubende Schönheit dieses geschützten Stausees und bringen Sie ein Fernglas mit, um die vielfältige Vogelwelt der Region zu beobachten.",
+            "hu": "Tapasztalja meg ennek a védett víztározónak a lélegzetelállító szépségét, és mindenképpen hozzon magával távcsövet a helyi madárvilág megfigyeléséhez.",
+            "ro": "Experimentați frumusețea uluitoare a acestui lac de acumulare protejat și aduceți cu dumneavoastră un binoclu pentru a observa diversitatea păsărilor din zonă.",
+            "en": "Experience the breathtaking beauty of this protected reservoir, and make sure to bring binoculars to fully appreciate the area's incredibly diverse birdlife."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir starten unseren motorisierten Tagesausflug am städtischen Archäologiemuseum, wo wir einen tiefen Einblick in die Vergangenheit erhalten. Eine kurze Fahrt bringt uns dann zum Martim Gonçalves Museum.\n\nZur Mittagszeit verlassen wir das Zentrum und fahren zum historischen Pelourinho. Durch das Auto überbrücken wir die Distanzen mühelos und haben mehr Zeit für die Wahrzeichen der Stadt.\n\nDer Nachmittag zieht uns hinaus in die weite Natur. Wir fahren zur Barragem da Carvalheira, einem ruhigen Stausee, der eine willkommene Abwechslung zur städtischen Architektur bietet.\n\nDen Abend verbringen wir am spektakulären Albufeira do Azibo. Dieses herrliche Naturgebiet ist der perfekte Ort, um den Tag entspannt ausklingen zu lassen und die Vogelwelt zu beobachten.",
+        "hu": "Autós kirándulásunkat a városi Régészeti Múzeumnál kezdjük, ahol mélyebb bepillantást nyerünk a múltba. Egy rövid vezetés után a Martim Gonçalves Múzeum kiállításait fedezzük fel.\n\nDélben elhagyjuk a központot, és a történelmi Pelourinho emlékműhöz hajtunk. Az autó segítségével könnyedén áthidaljuk a távolságokat, így több idő marad a város nevezetességeire.\n\nA délután a természet hívószaváé. A Barragem da Carvalheira víztározóhoz utazunk, amelynek nyugodt környezete kellemes kontrasztot nyújt a városi építészettel szemben.\n\nAz estét a lenyűgöző Albufeira do Azibo partjainál töltjük. Ez a gyönyörű természetvédelmi terület a tökéletes helyszín a nap lezárására és a madárvilág megfigyelésére.",
+        "ro": "Începem excursia noastră cu mașina la Muzeul Municipal de Arheologie, unde obținem o perspectivă profundă asupra trecutului. O scurtă plimbare ne duce apoi la Muzeul Martim Gonçalves.\n\nLa prânz, părăsim centrul și conducem către istoricul Pelourinho. Cu mașina, acoperim fără efort distanțele și avem mai mult timp la dispoziție pentru a admira reperele orașului.\n\nDupă-amiaza ne atrage în marea natură. Conducem la Barragem da Carvalheira, un baraj liniștit care oferă o schimbare binevenită față de arhitectura strict urbană explorată anterior.\n\nNe petrecem seara la spectaculosul Albufeira do Azibo. Această zonă naturală magnifică este locul perfect pentru a încheia ziua într-un mod relaxat și pentru a observa păsările.",
+        "en": "We start our driving tour at the Municipal Museum of Archaeology, gaining deep insights into the region's ancient past. A brief drive then takes us to the Martim Gonçalves Museum.\n\nAt midday, we leave the immediate center and drive to the historic Pelourinho. Traveling by car effortlessly bridges the distances, giving us more time to appreciate the town's key landmarks.\n\nThe afternoon draws us out into sweeping nature. We drive to the Barragem da Carvalheira, a tranquil reservoir that offers a very welcome contrast to the urban architecture we explored earlier.\n\nWe spend our evening at the spectacular Albufeira do Azibo. This magnificent natural protected area is the absolute perfect place to wind down the day and observe local birdlife."
+      }
+    }
+  }
+}

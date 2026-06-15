@@ -1,0 +1,520 @@
+{
+  "city_id": "leers",
+  "anchor": {
+    "name": "Leers",
+    "coords": [
+      3.2439,
+      50.6817
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:56",
+      "total_km": 3.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Leers",
+            "hu": "Leers Városháza",
+            "ro": "Primăria Leers",
+            "en": "Leers Town Hall"
+          },
+          "coords": [
+            3.219528,
+            50.682634
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses zentralen Platzes und prüfen Sie die Anschlagtafeln auf bevorstehende lokale Veranstaltungen.",
+            "hu": "Csodálja meg a központi csomópont polgári építészetét, és indulás előtt ellenőrizze a hirdetőtáblákon a közelgő helyi eseményeket.",
+            "ro": "Admirați arhitectura civică a acestui punct central și verificați avizierele pentru evenimentele locale viitoare înainte de a pleca.",
+            "en": "Admire the civic architecture of this central hub, and check the notice boards for upcoming local events before walking further."
+          }
+        },
+        {
+          "name": {
+            "de": "Windmühle von Leers",
+            "hu": "Leersi szélmalom",
+            "ro": "Moara de vânt din Leers",
+            "en": "Moulin à vent de Leers"
+          },
+          "coords": [
+            3.231153,
+            50.681634
+          ],
+          "category": "landmark",
+          "arrive_at": "09:47",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Fotografieren Sie diese wunderschön erhaltene traditionelle Windmühle, die an Wochenenden oft für die Öffentlichkeit zugänglich ist.",
+            "hu": "Fotózza le ezt a gyönyörűen megőrzött hagyományos szélmalmot, és próbáljon hétvégén érkezni, amikor a belső tér is látogatható.",
+            "ro": "Fotografiați această moară de vânt tradițională frumos conservată, vizitând-o la sfârșit de săptămână când interiorul este deschis.",
+            "en": "Snap a photo of this beautifully preserved traditional windmill, remembering to visit on weekends when the interior is occasionally open to the public."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Guy Haquette",
+            "hu": "Guy Haquette Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie Locală Guy Haquette",
+            "en": "Musée d'Histoire Locale Guy Haquette"
+          },
+          "coords": [
+            3.236283,
+            50.681391
+          ],
+          "category": "museum",
+          "arrive_at": "10:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende ländliche Artefakte, aber überprüfen Sie unbedingt die saisonalen Öffnungszeiten, da diese stark variieren.",
+            "hu": "Fedezze fel a lenyűgöző vidéki örökség tárgyait, de előtte feltétlenül ellenőrizze a szezonális és változó nyitvatartási időket.",
+            "ro": "Explorați artefactele fascinante ale patrimoniului rural, dar asigurați-vă că verificați programul de funcționare sezonier care variază.",
+            "en": "Explore fascinating rural heritage artifacts, but ensure you confirm the seasonal opening hours as they vary greatly throughout the year."
+          }
+        },
+        {
+          "name": {
+            "de": "Bourloire du Cercle Saint-Louis",
+            "hu": "Bourloire du Cercle Saint-Louis",
+            "ro": "Bourloire du Cercle Saint-Louis",
+            "en": "Bourloire du Cercle Saint-Louis"
+          },
+          "coords": [
+            3.248547,
+            50.68088
+          ],
+          "category": "historical",
+          "arrive_at": "12:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erleben Sie das einzigartige flämische Bourle-Spiel auf der gebogenen Bahn und lassen Sie sich von Einheimischen die Regeln erklären.",
+            "hu": "Próbálja ki az egyedülálló flamand bourle játékot az ívelt pályán, és kérjen meg egy helyi tagot, hogy magyarázza el a pontozási szabályokat.",
+            "ro": "Experimentați jocul tradițional flamand de bourle pe o pistă curbată și rugați un localnic să vă explice regulile complexe de punctare.",
+            "en": "Experience the unique traditional Flemish game of bourle on a curved track, and ask a local member to explain the complex scoring rules."
+          }
+        },
+        {
+          "name": {
+            "de": "Oldies Racing",
+            "hu": "Oldies Racing",
+            "ro": "Oldies Racing",
+            "en": "Oldies racing"
+          },
+          "coords": [
+            3.239175,
+            50.673968
+          ],
+          "category": "landmark",
+          "arrive_at": "13:46",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die nostalgische Atmosphäre klassischer Rennveranstaltungen und kommen Sie früh, um sich einen guten Aussichtspunkt zu sichern.",
+            "hu": "Élvezze a klasszikus versenyek nosztalgikus hangulatát, és érkezzen korán, hogy jó kilátást biztosítson magának a rajtvonal közelében.",
+            "ro": "Bucurați-vă de atmosfera nostalgică a curselor clasice, asigurându-vă că ajungeți devreme pentru a prinde un loc bun lângă linia de start.",
+            "en": "Enjoy the nostalgic atmosphere of classic racing events, making sure to arrive early to secure a good viewing spot near the starting line."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen am Rathaus von Leers und bewundern Sie die Architektur, bevor Sie zur historischen Windmühle schlendern. Mittags tauchen Sie im Musée d'Histoire Locale in die regionale Vergangenheit ein. Verbringen Sie den Nachmittag mit dem traditionellen Bourle-Spiel im Cercle Saint-Louis. Lassen Sie den Tag bei der lebhaften Atmosphäre des Oldies Racing entspannt ausklingen.",
+        "hu": "Kezdje a reggelt a központi Leers Városházánál, majd sétáljon át a jellegzetes szélmalomhoz. Délben merüljön el a régió múltjában a Helytörténeti Múzeumban, amely lenyűgöző helyi emlékeket őriz. A délutánt a hagyományos bourle játék megismerésével töltheti a Cercle Saint-Louis-ban. A napot az Oldies racing pezsgő atmoszférájában zárhatja egy kellemes esti kikapcsolódással.",
+        "ro": "Începeți dimineața la Primăria din Leers, admirând arhitectura sa, înainte de o scurtă plimbare către moara de vânt. La prânz, aprofundați trecutul regional la Muzeul de Istorie Locală, plin de exponate fascinante. Petreceți după-amiaza experimentând jocul tradițional de bourle la Cercle Saint-Louis. Încheiați ziua bucurându-vă de atmosfera vibrantă de la Oldies racing.",
+        "en": "Start the morning at the central Leers Town Hall, admiring its civic architecture before a short stroll to the iconic Moulin à vent. By midday, delve into the regional past at the Musée d'Histoire Locale, offering fascinating local insights. Spend the afternoon experiencing the traditional game of bourle at Cercle Saint-Louis. Wrap up your day enjoying the vibrant atmosphere at Oldies racing."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:32",
+      "total_km": 7.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Leers",
+            "hu": "Leers Városháza",
+            "ro": "Primăria Leers",
+            "en": "Leers Town Hall"
+          },
+          "coords": [
+            3.219528,
+            50.682634
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses zentralen Platzes und prüfen Sie die Anschlagtafeln auf bevorstehende lokale Veranstaltungen.",
+            "hu": "Csodálja meg a központi csomópont polgári építészetét, és indulás előtt ellenőrizze a hirdetőtáblákon a közelgő helyi eseményeket.",
+            "ro": "Admirați arhitectura civică a acestui punct central și verificați avizierele pentru evenimentele locale viitoare înainte de a pleca.",
+            "en": "Admire the civic architecture of this central hub, and check the notice boards for upcoming local events before walking further."
+          }
+        },
+        {
+          "name": {
+            "de": "Windmühle von Leers",
+            "hu": "Leersi szélmalom",
+            "ro": "Moara de vânt din Leers",
+            "en": "Moulin à vent de Leers"
+          },
+          "coords": [
+            3.231153,
+            50.681634
+          ],
+          "category": "landmark",
+          "arrive_at": "09:39",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Fotografieren Sie diese wunderschön erhaltene traditionelle Windmühle, die an Wochenenden oft für die Öffentlichkeit zugänglich ist.",
+            "hu": "Fotózza le ezt a gyönyörűen megőrzött hagyományos szélmalmot, és próbáljon hétvégén érkezni, amikor a belső tér is látogatható.",
+            "ro": "Fotografiați această moară de vânt tradițională frumos conservată, vizitând-o la sfârșit de săptămână când interiorul este deschis.",
+            "en": "Snap a photo of this beautifully preserved traditional windmill, remembering to visit on weekends when the interior is occasionally open to the public."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Guy Haquette",
+            "hu": "Guy Haquette Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie Locală Guy Haquette",
+            "en": "Musée d'Histoire Locale Guy Haquette"
+          },
+          "coords": [
+            3.236283,
+            50.681391
+          ],
+          "category": "museum",
+          "arrive_at": "10:06",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende ländliche Artefakte, aber überprüfen Sie unbedingt die saisonalen Öffnungszeiten, da diese stark variieren.",
+            "hu": "Fedezze fel a lenyűgöző vidéki örökség tárgyait, de előtte feltétlenül ellenőrizze a szezonális és változó nyitvatartási időket.",
+            "ro": "Explorați artefactele fascinante ale patrimoniului rural, dar asigurați-vă că verificați programul de funcționare sezonier care variază.",
+            "en": "Explore fascinating rural heritage artifacts, but ensure you confirm the seasonal opening hours as they vary greatly throughout the year."
+          }
+        },
+        {
+          "name": {
+            "de": "Bourloire du Cercle Saint-Louis",
+            "hu": "Bourloire du Cercle Saint-Louis",
+            "ro": "Bourloire du Cercle Saint-Louis",
+            "en": "Bourloire du Cercle Saint-Louis"
+          },
+          "coords": [
+            3.248547,
+            50.68088
+          ],
+          "category": "historical",
+          "arrive_at": "11:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erleben Sie das einzigartige flämische Bourle-Spiel auf der gebogenen Bahn und lassen Sie sich von Einheimischen die Regeln erklären.",
+            "hu": "Próbálja ki az egyedülálló flamand bourle játékot az ívelt pályán, és kérjen meg egy helyi tagot, hogy magyarázza el a pontozási szabályokat.",
+            "ro": "Experimentați jocul tradițional flamand de bourle pe o pistă curbată și rugați un localnic să vă explice regulile complexe de punctare.",
+            "en": "Experience the unique traditional Flemish game of bourle on a curved track, and ask a local member to explain the complex scoring rules."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Vaast",
+            "hu": "Saint-Vaast Templom",
+            "ro": "Biserica Saint-Vaast",
+            "en": "Saint-Vaast Church"
+          },
+          "coords": [
+            3.27335,
+            50.687661
+          ],
+          "category": "religious",
+          "arrive_at": "13:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Buntglasfenster dieser grenzüberschreitenden Kirche, während Sie die laufenden Gottesdienste respektieren.",
+            "hu": "Csodálja meg ennek a határon átnyúló templomnak a gyönyörű ólomüvegét, tiszteletben tartva a folyamatban lévő csendes istentiszteleteket.",
+            "ro": "Admirați vitraliile frumoase și ambianța liniștită a acestei biserici transfrontaliere, respectând slujbele silențioase aflate în desfășurare.",
+            "en": "Marvel at the beautiful stained glass and peaceful ambiance of this cross-border church, keeping in mind to respect ongoing quiet services."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinen der Burg Royère",
+            "hu": "Royère kastély romjai",
+            "ro": "Ruinele castelului Royère",
+            "en": "Ruines du château de la Royère"
+          },
+          "coords": [
+            3.275826,
+            50.675572
+          ],
+          "category": "castle",
+          "arrive_at": "14:08",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die mittelalterlichen Ruinen dieser einstigen Festung und tragen Sie festes Schuhwerk für die unebenen Steinwege.",
+            "hu": "Sétáljon az egykor hatalmas erődítmény középkori romjai között, és viseljen masszív cipőt az egyenetlen, ősi kőösvényeken való haladáshoz.",
+            "ro": "Plimbați-vă printre ruinele medievale ale acestei foste fortărețe, purtând încălțăminte robustă pentru a naviga pe aleile pietruite denivelate.",
+            "en": "Walk among the evocative medieval ruins of this once-grand fortress, wearing sturdy shoes to navigate the uneven and ancient stone pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Oldies Racing",
+            "hu": "Oldies Racing",
+            "ro": "Oldies Racing",
+            "en": "Oldies racing"
+          },
+          "coords": [
+            3.239175,
+            50.673968
+          ],
+          "category": "landmark",
+          "arrive_at": "15:22",
+          "stay_min": 70,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die nostalgische Atmosphäre klassischer Rennveranstaltungen und kommen Sie früh, um sich einen guten Aussichtspunkt zu sichern.",
+            "hu": "Élvezze a klasszikus versenyek nosztalgikus hangulatát, és érkezzen korán, hogy jó kilátást biztosítson magának a rajtvonal közelében.",
+            "ro": "Bucurați-vă de atmosfera nostalgică a curselor clasice, asigurându-vă că ajungeți devreme pentru a prinde un loc bun lângă linia de start.",
+            "en": "Enjoy the nostalgic atmosphere of classic racing events, making sure to arrive early to secure a good viewing spot near the starting line."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt im Herzen von Leers am Rathaus und der charmanten Windmühle. Mittags erkunden Sie das lokale Erbe im Museum und die historische Bourloire du Cercle Saint-Louis. Radeln Sie am Nachmittag über die Grenze zur Kirche Saint-Vaast und den Ruinen der Burg Royère. Beenden Sie Ihre Fahrt beim Oldies Racing und belohnen Sie sich nach einem aktiven Tag.",
+        "hu": "Kerékpártúrája Leers szívében, a Városházánál és a bájos szélmalomnál kezdődik. A nap közepén a múzeum és a történelmi Bourloire du Cercle Saint-Louis kínál kulturális élményeket. Délután tekerjen át a határon, hogy megcsodálja a Saint-Vaast templomot és a Royère kastély romjait. Fejezze be túráját az Oldies racingnél, megpihenve egy aktív és felfedezésekkel teli nap után.",
+        "ro": "Turul cu bicicleta începe în inima orașului Leers, la Primărie și fermecătoarea moară de vânt. Prânzul vă aduce la muzeu și la istorica Bourloire du Cercle Saint-Louis. După-amiaza, pedalați peste graniță pentru a admira Biserica Saint-Vaast și ruinele Castelului Royère. Încheiați-vă plimbarea la Oldies racing, relaxându-vă după o zi plină de explorări.",
+        "en": "Your cycling tour begins in the heart of Leers at the Town Hall and the charming windmill. Midday takes you through local heritage at the museum and the historic Bourloire du Cercle Saint-Louis. In the afternoon, pedal across the border to admire Saint-Vaast Church and the evocative ruins of Royère Castle. Conclude your ride at Oldies racing, rewarding yourself after a day of exploration."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 16.1,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Roubaix Kanal",
+            "hu": "Roubaix Csatorna",
+            "ro": "Canalul Roubaix",
+            "en": "Roubaix Canal"
+          },
+          "coords": [
+            3.122778,
+            50.672222
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Machen Sie einen erfrischenden Morgenspaziergang entlang der ruhigen Wasserwege und achten Sie auf Wasservögel und vorbeifahrende Radfahrer.",
+            "hu": "Tegyen egy frissítő reggeli sétát a nyugodt víziutak mentén, figyelve a helyi vízimadarakat és az elhaladó kerékpárosokat a vontatóúton.",
+            "ro": "Faceți o plimbare răcoritoare de dimineață de-a lungul cursurilor de apă liniștite, fiind atenți la păsările de apă și bicicliștii în trecere.",
+            "en": "Take a refreshing morning stroll along the tranquil waterways, keeping an eye out for local waterfowl and passing cyclists on the towpath."
+          }
+        },
+        {
+          "name": {
+            "de": "Bourloire Saint-Eloi",
+            "hu": "Bourloire Saint-Eloi",
+            "ro": "Bourloire Saint-Eloi",
+            "en": "Bourloire Saint-Eloi"
+          },
+          "coords": [
+            3.147692,
+            50.69409
+          ],
+          "category": "cultural",
+          "arrive_at": "10:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie an dieser historischen Bourle-Stätte tiefer in die Kultur ein, wo ein Getränk an der angrenzenden Bar das Erlebnis abrundet.",
+            "hu": "Merüljön el a regionális kultúrában ezen a történelmi bourle helyszínen, ahol egy gyors ital a szomszédos bárban fokozza a helyi élményt.",
+            "ro": "Aprofundați cultura regională la acest site istoric de bourle, unde o băutură rapidă la barul adiacent îmbunătățește experiența locală.",
+            "en": "Dive deeper into regional culture at this historic bourle site, where grabbing a quick drink at the adjacent bar enhances the local experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Leers",
+            "hu": "Leers Városháza",
+            "ro": "Primăria Leers",
+            "en": "Leers Town Hall"
+          },
+          "coords": [
+            3.219528,
+            50.682634
+          ],
+          "category": "civic",
+          "arrive_at": "11:42",
+          "stay_min": 25,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses zentralen Platzes und prüfen Sie die Anschlagtafeln auf bevorstehende lokale Veranstaltungen.",
+            "hu": "Csodálja meg a központi csomópont polgári építészetét, és indulás előtt ellenőrizze a hirdetőtáblákon a közelgő helyi eseményeket.",
+            "ro": "Admirați arhitectura civică a acestui punct central și verificați avizierele pentru evenimentele locale viitoare înainte de a pleca.",
+            "en": "Admire the civic architecture of this central hub, and check the notice boards for upcoming local events before walking further."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum Guy Haquette",
+            "hu": "Guy Haquette Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie Locală Guy Haquette",
+            "en": "Musée d'Histoire Locale Guy Haquette"
+          },
+          "coords": [
+            3.236283,
+            50.681391
+          ],
+          "category": "museum",
+          "arrive_at": "12:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende ländliche Artefakte, aber überprüfen Sie unbedingt die saisonalen Öffnungszeiten, da diese stark variieren.",
+            "hu": "Fedezze fel a lenyűgöző vidéki örökség tárgyait, de előtte feltétlenül ellenőrizze a szezonális és változó nyitvatartási időket.",
+            "ro": "Explorați artefactele fascinante ale patrimoniului rural, dar asigurați-vă că verificați programul de funcționare sezonier care variază.",
+            "en": "Explore fascinating rural heritage artifacts, but ensure you confirm the seasonal opening hours as they vary greatly throughout the year."
+          }
+        },
+        {
+          "name": {
+            "de": "Bourloire du Cercle Saint-Louis",
+            "hu": "Bourloire du Cercle Saint-Louis",
+            "ro": "Bourloire du Cercle Saint-Louis",
+            "en": "Bourloire du Cercle Saint-Louis"
+          },
+          "coords": [
+            3.248547,
+            50.68088
+          ],
+          "category": "historical",
+          "arrive_at": "13:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erleben Sie das einzigartige flämische Bourle-Spiel auf der gebogenen Bahn und lassen Sie sich von Einheimischen die Regeln erklären.",
+            "hu": "Próbálja ki az egyedülálló flamand bourle játékot az ívelt pályán, és kérjen meg egy helyi tagot, hogy magyarázza el a pontozási szabályokat.",
+            "ro": "Experimentați jocul tradițional flamand de bourle pe o pistă curbată și rugați un localnic să vă explice regulile complexe de punctare.",
+            "en": "Experience the unique traditional Flemish game of bourle on a curved track, and ask a local member to explain the complex scoring rules."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Vaast",
+            "hu": "Saint-Vaast Templom",
+            "ro": "Biserica Saint-Vaast",
+            "en": "Saint-Vaast Church"
+          },
+          "coords": [
+            3.27335,
+            50.687661
+          ],
+          "category": "religious",
+          "arrive_at": "15:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Buntglasfenster dieser grenzüberschreitenden Kirche, während Sie die laufenden Gottesdienste respektieren.",
+            "hu": "Csodálja meg ennek a határon átnyúló templomnak a gyönyörű ólomüvegét, tiszteletben tartva a folyamatban lévő csendes istentiszteleteket.",
+            "ro": "Admirați vitraliile frumoase și ambianța liniștită a acestei biserici transfrontaliere, respectând slujbele silențioase aflate în desfășurare.",
+            "en": "Marvel at the beautiful stained glass and peaceful ambiance of this cross-border church, keeping in mind to respect ongoing quiet services."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinen der Burg Royère",
+            "hu": "Royère kastély romjai",
+            "ro": "Ruinele castelului Royère",
+            "en": "Ruines du château de la Royère"
+          },
+          "coords": [
+            3.275826,
+            50.675572
+          ],
+          "category": "castle",
+          "arrive_at": "15:59",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die mittelalterlichen Ruinen dieser einstigen Festung und tragen Sie festes Schuhwerk für die unebenen Steinwege.",
+            "hu": "Sétáljon az egykor hatalmas erődítmény középkori romjai között, és viseljen masszív cipőt az egyenetlen, ősi kőösvényeken való haladáshoz.",
+            "ro": "Plimbați-vă printre ruinele medievale ale acestei foste fortărețe, purtând încălțăminte robustă pentru a naviga pe aleile pietruite denivelate.",
+            "en": "Walk among the evocative medieval ruins of this once-grand fortress, wearing sturdy shoes to navigate the uneven and ancient stone pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Oldies Racing",
+            "hu": "Oldies Racing",
+            "ro": "Oldies Racing",
+            "en": "Oldies racing"
+          },
+          "coords": [
+            3.239175,
+            50.673968
+          ],
+          "category": "landmark",
+          "arrive_at": "17:05",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die nostalgische Atmosphäre klassischer Rennveranstaltungen und kommen Sie früh, um sich einen guten Aussichtspunkt zu sichern.",
+            "hu": "Élvezze a klasszikus versenyek nosztalgikus hangulatát, és érkezzen korán, hogy jó kilátást biztosítson magának a rajtvonal közelében.",
+            "ro": "Bucurați-vă de atmosfera nostalgică a curselor clasice, asigurându-vă că ajungeți devreme pentru a prinde un loc bun lângă linia de start.",
+            "en": "Enjoy the nostalgic atmosphere of classic racing events, making sure to arrive early to secure a good viewing spot near the starting line."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie am ruhigen Kanal von Roubaix, bevor Sie zur kulturellen Bourloire Saint-Eloi fahren. Mittags fahren Sie ins Zentrum von Leers, um das Rathaus zu sehen und das Heimatmuseum zu besuchen. Der Nachmittag lädt Sie ein, nach Belgien zur Kirche Saint-Vaast und den Burgruinen von Royère zu fahren. Beenden Sie Ihren Roadtrip beim Oldies Racing in lebhafter Atmosphäre.",
+        "hu": "Induljon a nyugodt Roubaix-csatorna mentén, mielőtt a kulturális Bourloire Saint-Eloi felé veszi az irányt. Délben utazzon Leers központjába, tekintse meg a Városházát és a Helytörténeti Múzeumot. A délután folyamán lépje át a belga határt a Saint-Vaast templom és az ősi Royère kastély romjai miatt. Zárja autós kirándulását az Oldies racing pezsgő hangulatában.",
+        "ro": "Începeți de-a lungul liniștitului Canal Roubaix înainte de a conduce spre culturala Bourloire Saint-Eloi. La prânz, mergeți în centrul Leers pentru a vedea Primăria și Muzeul de Istorie Locală. După-amiaza vă invită să treceți în Belgia pentru Biserica Saint-Vaast și ruinele Castelului Royère. Terminați călătoria la Oldies racing, bucurându-vă de atmosfera locală plină de viață.",
+        "en": "Start along the serene Roubaix Canal before driving to discover the cultural Bourloire Saint-Eloi. By midday, head into central Leers to view the Town Hall and immerse yourself in the Local History Museum. The afternoon invites you to cross into Belgium for Saint-Vaast Church and the ancient Royère Castle ruins. Finish your road trip at Oldies racing, enjoying the lively local vibe."
+      }
+    }
+  }
+}

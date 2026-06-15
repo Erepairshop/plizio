@@ -1,0 +1,428 @@
+{
+  "city_id": "jarny",
+  "anchor": {
+    "name": "Jarny",
+    "coords": [
+      5.8772,
+      49.1589
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:39",
+      "total_km": 2.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Maximin",
+            "hu": "Saint-Maximin templom",
+            "ro": "Biserica Saint-Maximin",
+            "en": "Saint-Maximin Church"
+          },
+          "coords": [
+            5.88333,
+            49.1559
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen Details dieser Kirche und nehmen Sie sich Zeit für die ruhige Atmosphäre, während Sie auf bequemes Schuhwerk für das Kopfsteinpflaster achten.",
+            "hu": "Csodálja meg a templom történelmi részleteit és élvezze a békés légkört, miközben kényelmes cipőt visel a macskaköves környék felfedezéséhez.",
+            "ro": "Admirați detaliile istorice ale acestei biserici și bucurați-vă de atmosfera liniștită, purtând încălțăminte comodă pentru a explora împrejurimile.",
+            "en": "Admire the historic details of this charming church and soak in its peaceful atmosphere, ensuring you wear comfortable shoes to explore the surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Ehemalige Mine Jarny",
+            "hu": "Egykori Jarny bánya",
+            "ro": "Fosta mină Jarny",
+            "en": "Former Jarny Mine"
+          },
+          "coords": [
+            5.888258,
+            49.15788
+          ],
+          "category": "historical",
+          "arrive_at": "09:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste des alten Bergwerks, das Jarnys Industriegeschichte prägte, und bringen Sie eine Jacke mit, da das Gelände oft windig ist.",
+            "hu": "Fedezze fel a régi bánya maradványait, amely meghatározta Jarny ipartörténetét, és hozzon magával egy kabátot, mivel a terület gyakran szeles lehet.",
+            "ro": "Explorați rămășițele vechii mine care a conturat istoria industrială a Jarny-ului, aducând o jachetă deoarece zona poate fi destul de vântoasă uneori.",
+            "en": "Explore the remains of the old mine that shaped Jarny's industrial history, and bring a light jacket as the open grounds can often be quite breezy."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturschutzgebiet Marais de Droitaumont",
+            "hu": "Droitaumont-i mocsár Természetvédelmi Terület",
+            "ro": "Rezervația naturală Marais de Droitaumont",
+            "en": "Espace naturel sensible du marais de Droitaumont"
+          },
+          "coords": [
+            5.876006,
+            49.151279
+          ],
+          "category": "natural",
+          "arrive_at": "11:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch dieses geschützte Feuchtgebiet voller einzigartiger Flora und Fauna, und vergessen Sie Ihr Fernglas zur Vogelbeobachtung am Morgen nicht.",
+            "hu": "Sétáljon végig ezen a védett vizes élőhelyen, amely tele van egyedi növény- és állatvilággal, és ne felejtse el a távcsövet a madármegfigyeléshez.",
+            "ro": "Plimbați-vă prin această zonă umedă protejată plină de floră și faună unică, și nu uitați binoclul pentru a observa diverse specii de păsări dimineața.",
+            "en": "Walk through this protected wetland teeming with unique flora and fauna, and don't forget your binoculars for excellent morning birdwatching sessions."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-Joseph",
+            "hu": "Saint-Joseph kápolna",
+            "ro": "Capela Saint-Joseph",
+            "en": "Chapelle Saint-Joseph"
+          },
+          "coords": [
+            5.882659,
+            49.147697
+          ],
+          "category": "religious",
+          "arrive_at": "13:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese charmante kleine Kapelle mit ihrer authentischen Schlichtheit, und nutzen Sie das sanfte Nachmittagslicht für schöne Fotos der Fassade.",
+            "hu": "Fedezze fel ezt a bájos kis kápolnát a maga hiteles egyszerűségével, és használja ki a lágy délutáni fényeket a homlokzat csodálatos fotózásához.",
+            "ro": "Descoperiți această capelă fermecătoare cu simplitatea ei autentică și profitați de lumina blândă a după-amiezii pentru fotografii superbe ale fațadei.",
+            "en": "Discover this charming small chapel with its authentic simplicity, and take advantage of the soft afternoon light for beautiful photos of the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Moncel",
+            "hu": "Moncel kastély",
+            "ro": "Castelul Moncel",
+            "en": "Château de Moncel"
+          },
+          "coords": [
+            5.890759,
+            49.147706
+          ],
+          "category": "historical",
+          "arrive_at": "13:49",
+          "stay_min": 110,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses historische Schloss, das von einem wunderschönen Park umgeben ist, und nehmen Sie sich Zeit für einen entspannten Spaziergang durch die herrlichen Gärten.",
+            "hu": "Látogasson el ehhez a történelmi kastélyhoz, amelyet egy gyönyörű park vesz körül, és szánjon időt egy pihentető sétára a csodálatos kertekben.",
+            "ro": "Vizitați acest castel istoric înconjurat de un parc superb și alocați timp suficient pentru o plimbare relaxantă prin grădinile sale magnifice.",
+            "en": "Visit this historic castle surrounded by a gorgeous public park, and make sure to allocate enough time for a relaxing walk through its magnificent gardens."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an der Kirche Saint-Maximin und genießen Sie die ruhige Atmosphäre. Wechseln Sie dann zur industriellen Vergangenheit an der alten Mine.\n\nBegeben Sie sich in die Natur bei einem erfrischenden Spaziergang durch den Marais de Droitaumont, ideal für eine Mittagspause.\n\nEntdecken Sie die charmante Chapelle Saint-Joseph, bevor Sie zum beeindruckenden Château de Moncel und seinem Park aufbrechen.\n\nEntspannen Sie in den Gärten des Schlosses und lassen Sie einen Tag ausklingen, der Geschichte, Industrie und Natur perfekt miteinander verbunden hat.",
+        "hu": "Kezdje a napot a Saint-Maximin templomnál, elmerülve a békés hangulatban. Ezután váltson Jarny ipari múltjára a régi bánya területén.\n\nIrány a természet egy frissítő sétával a Marais de Droitaumont mocsárvidékén, amely tökéletes egy déli kikapcsolódáshoz.\n\nFedezze fel a Chapelle Saint-Joseph báját, mielőtt a grandiózus Château de Moncel és annak hatalmas parkja felé veszi az irányt.\n\nPihenjen a kastély kertjében a nap végén, visszagondolva a történelem, az ipar és a természet e tökéletes egyensúlyára.",
+        "ro": "Începeți ziua la Biserica Saint-Maximin, bucurându-vă de atmosfera senină. Apoi, treceți la trecutul industrial la vechea mină.\n\nMergeți în natură cu o plimbare revigorantă prin Marais de Droitaumont, perfectă pentru o pauză de prânz înconjurată de zone umede.\n\nDescoperiți farmecul Capelei Saint-Joseph înainte de a vă îndrepta spre grandiosul Château de Moncel și parcul său imens.\n\nRelaxați-vă în grădinile castelului la lăsarea serii, reflectând asupra unei zile care a îmbinat perfect istoria, industria și natura.",
+        "en": "Begin your day at Saint-Maximin Church, soaking in the serene local ambiance. Then, transition to Jarny's industrial past at the old mine site.\n\nHead into nature with a refreshing stroll through the Marais de Droitaumont, perfect for a midday break surrounded by local wildlife and wetlands.\n\nDiscover the quaint charm of Chapelle Saint-Joseph before making your way to the grand Château de Moncel and its beautiful, sprawling park grounds.\n\nRelax in the gardens of the château as the day winds down, reflecting on a journey that balanced history, industry, and the natural world perfectly."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:36",
+      "total_km": 6.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kapelle Notre-Dame-du-Rail",
+            "hu": "Notre-Dame-du-Rail kápolna",
+            "ro": "Capela Notre-Dame-du-Rail",
+            "en": "Chapelle Notre-Dame-du-Rail"
+          },
+          "coords": [
+            5.871222,
+            49.16304
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die tiefe Verbindung dieser einzigartigen Kapelle zur Eisenbahngeschichte, und besuchen Sie sie am besten vormittags für Ruhe.",
+            "hu": "Ismerje meg ennek az egyedülálló kápolnának a vasúttörténettel való mély kapcsolatát, és lehetőleg délelőtt látogassa meg a nyugalom érdekében.",
+            "ro": "Aflați despre legătura profundă a acestei capele unice cu istoria feroviară și vizitați-o de preferință dimineața pentru o experiență mai liniștită.",
+            "en": "Learn about this unique chapel's deep connection to local railway history, and try to visit it in the morning for a much more peaceful experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Maximin",
+            "hu": "Saint-Maximin templom",
+            "ro": "Biserica Saint-Maximin",
+            "en": "Saint-Maximin Church"
+          },
+          "coords": [
+            5.88333,
+            49.1559
+          ],
+          "category": "religious",
+          "arrive_at": "09:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen Details dieser Kirche und nehmen Sie sich Zeit für die ruhige Atmosphäre, während Sie auf bequemes Schuhwerk für das Kopfsteinpflaster achten.",
+            "hu": "Csodálja meg a templom történelmi részleteit és élvezze a békés légkört, miközben kényelmes cipőt visel a macskaköves környék felfedezéséhez.",
+            "ro": "Admirați detaliile istorice ale acestei biserici și bucurați-vă de atmosfera liniștită, purtând încălțăminte comodă pentru a explora împrejurimile.",
+            "en": "Admire the historic details of this charming church and soak in its peaceful atmosphere, ensuring you wear comfortable shoes to explore the surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Ehemalige Mine Jarny",
+            "hu": "Egykori Jarny bánya",
+            "ro": "Fosta mină Jarny",
+            "en": "Former Jarny Mine"
+          },
+          "coords": [
+            5.888258,
+            49.15788
+          ],
+          "category": "historical",
+          "arrive_at": "10:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste des alten Bergwerks, das Jarnys Industriegeschichte prägte, und bringen Sie eine Jacke mit, da das Gelände oft windig ist.",
+            "hu": "Fedezze fel a régi bánya maradványait, amely meghatározta Jarny ipartörténetét, és hozzon magával egy kabátot, mivel a terület gyakran szeles lehet.",
+            "ro": "Explorați rămășițele vechii mine care a conturat istoria industrială a Jarny-ului, aducând o jachetă deoarece zona poate fi destul de vântoasă uneori.",
+            "en": "Explore the remains of the old mine that shaped Jarny's industrial history, and bring a light jacket as the open grounds can often be quite breezy."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Moncel",
+            "hu": "Moncel kastély",
+            "ro": "Castelul Moncel",
+            "en": "Château de Moncel"
+          },
+          "coords": [
+            5.890759,
+            49.147706
+          ],
+          "category": "historical",
+          "arrive_at": "12:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses historische Schloss, das von einem wunderschönen Park umgeben ist, und nehmen Sie sich Zeit für einen entspannten Spaziergang durch die herrlichen Gärten.",
+            "hu": "Látogasson el ehhez a történelmi kastélyhoz, amelyet egy gyönyörű park vesz körül, és szánjon időt egy pihentető sétára a csodálatos kertekben.",
+            "ro": "Vizitați acest castel istoric înconjurat de un parc superb și alocați timp suficient pentru o plimbare relaxantă prin grădinile sale magnifice.",
+            "en": "Visit this historic castle surrounded by a gorgeous public park, and make sure to allocate enough time for a relaxing walk through its magnificent gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss und Gutshof Tichémont",
+            "hu": "Tichémont kastély és birtok",
+            "ro": "Domeniul și castelul Tichémont",
+            "en": "Domaine de la ferme et du château de Tichémont"
+          },
+          "coords": [
+            5.902512,
+            49.179091
+          ],
+          "category": "castle",
+          "arrive_at": "13:46",
+          "stay_min": 110,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposante Architektur dieses weitläufigen Anwesens und achten Sie auf die Öffnungszeiten des Hofladens für lokale Spezialitäten.",
+            "hu": "Csodálja meg e kiterjedt birtok lenyűgöző építészetét, és figyeljen a gazdasági bolt nyitvatartására, ha helyi specialitásokat szeretne kóstolni.",
+            "ro": "Admirați arhitectura impunătoare a acestui domeniu extins și verificați programul magazinului fermei dacă doriți să cumpărați specialități locale.",
+            "en": "Admire the imposing architecture of this expansive estate, and check the farm shop's opening hours if you want to purchase some local specialties."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour an der Chapelle Notre-Dame-du-Rail und fahren Sie dann zur Kirche Saint-Maximin für einen friedlichen Moment.\n\nRadeln Sie zum ehemaligen Bergwerk Jarny, um in die reiche Industriezeit der Region einzutauchen, ein faszinierendes Highlight.\n\nFahren Sie weiter zum wunderschönen Château de Moncel und nehmen Sie sich Zeit für einen Spaziergang durch die weitläufigen öffentlichen Gärten.\n\nBeenden Sie den Nachmittag mit einer malerischen Fahrt zum Domaine de Tichémont. Die ländliche Umgebung bietet einen tollen Abschluss.",
+        "hu": "Kezdje kerékpártúráját a Chapelle Notre-Dame-du-Rail kápolnánál, majd tekerjen a Saint-Maximin templomhoz egy békés pillanatért.\n\nKerékpározzon el az egykori bánya területére, hogy elmerüljön a régió gazdag ipari múltjában, amely a nap izgalmas fénypontja.\n\nFolytassa útját a gyönyörű Château de Moncel felé, időt szánva a hatalmas nyilvános kertek bejárására és a birtok megcsodálására.\n\nZárja a délutánt egy festői úttal a Domaine de Tichémont felé. A vidéki környezet fantasztikus lezárást nyújt az aktív kalandnak.",
+        "ro": "Începeți turul cu bicicleta la Chapelle Notre-Dame-du-Rail, pedalând apoi spre Biserica Saint-Maximin pentru un moment de liniște.\n\nMergeți cu bicicleta la fosta mină pentru a aprofunda era industrială a regiunii. Acesta este un punct central fascinant pentru explorarea de prânz.\n\nContinuați spre frumosul Château de Moncel, alocând timp pentru a vă plimba prin grădinile sale publice extinse și a-i admira măreția.\n\nÎncheiați după-amiaza cu o plimbare pitorească până la Domaine de Tichémont. Împrejurimile rurale oferă o relaxare perfectă la final de zi.",
+        "en": "Kick off your cycling tour at Chapelle Notre-Dame-du-Rail, honoring local railway heritage. Pedal to Saint-Maximin Church for a peaceful historical moment.\n\nCycle over to the Former Jarny Mine to delve into the area's rich industrial era. This forms a fascinating centerpiece for your midday exploration.\n\nContinue riding to the beautiful Château de Moncel, taking time to walk through its expansive public gardens and appreciate the estate's grandeur.\n\nEnd the afternoon with a scenic ride out to the Domaine de Tichémont. The rural surroundings offer a fantastic wind-down to your active adventure."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:22",
+      "total_km": 9.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Vanne",
+            "hu": "Saint-Vanne templom",
+            "ro": "Biserica Saint-Vanne",
+            "en": "Église Saint-Vanne"
+          },
+          "coords": [
+            5.841827,
+            49.145044
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die robusten Linien dieser charmanten Landkirche und nutzen Sie den nahen Parkplatz für einen problemlosen Start in den Tag.",
+            "hu": "Tekintse meg ennek a bájos vidéki templomnak a robusztus vonalait, és használja a közeli parkolót a nap gondtalan és zökkenőmentes megkezdéséhez.",
+            "ro": "Observați liniile robuste ale acestei biserici rurale fermecătoare și folosiți parcarea din apropiere pentru un început de zi fără absolut nicio grijă.",
+            "en": "Observe the robust lines of this charming rural church, and make use of the convenient nearby parking area for a hassle-free start to your morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Martin",
+            "hu": "Saint-Martin templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            5.856646,
+            49.167317
+          ],
+          "category": "religious",
+          "arrive_at": "09:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Lassen Sie die zeitlose Eleganz dieser historischen Kirche auf sich wirken und treten Sie leise ein, da hier oft kleine Gemeindeveranstaltungen stattfinden.",
+            "hu": "Engedje, hogy hatással legyen önre a történelmi templom időtlen eleganciája, és lépjen be halkan, mivel gyakran tartanak itt kis közösségi eseményeket.",
+            "ro": "Lăsați-vă impresionat de eleganța atemporală a acestei biserici istorice și intrați în liniște, deoarece deseori au loc mici evenimente comunitare aici.",
+            "en": "Let the timeless elegance of this historic church impress you, and enter quietly as small local community events are frequently held inside its walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Notre-Dame-du-Rail",
+            "hu": "Notre-Dame-du-Rail kápolna",
+            "ro": "Capela Notre-Dame-du-Rail",
+            "en": "Chapelle Notre-Dame-du-Rail"
+          },
+          "coords": [
+            5.871222,
+            49.16304
+          ],
+          "category": "religious",
+          "arrive_at": "10:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die tiefe Verbindung dieser einzigartigen Kapelle zur Eisenbahngeschichte, und besuchen Sie sie am besten vormittags für Ruhe.",
+            "hu": "Ismerje meg ennek az egyedülálló kápolnának a vasúttörténettel való mély kapcsolatát, és lehetőleg délelőtt látogassa meg a nyugalom érdekében.",
+            "ro": "Aflați despre legătura profundă a acestei capele unice cu istoria feroviară și vizitați-o de preferință dimineața pentru o experiență mai liniștită.",
+            "en": "Learn about this unique chapel's deep connection to local railway history, and try to visit it in the morning for a much more peaceful experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Ehemalige Mine Jarny",
+            "hu": "Egykori Jarny bánya",
+            "ro": "Fosta mină Jarny",
+            "en": "Former Jarny Mine"
+          },
+          "coords": [
+            5.888258,
+            49.15788
+          ],
+          "category": "historical",
+          "arrive_at": "11:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste des alten Bergwerks, das Jarnys Industriegeschichte prägte, und bringen Sie eine Jacke mit, da das Gelände oft windig ist.",
+            "hu": "Fedezze fel a régi bánya maradványait, amely meghatározta Jarny ipartörténetét, és hozzon magával egy kabátot, mivel a terület gyakran szeles lehet.",
+            "ro": "Explorați rămășițele vechii mine care a conturat istoria industrială a Jarny-ului, aducând o jachetă deoarece zona poate fi destul de vântoasă uneori.",
+            "en": "Explore the remains of the old mine that shaped Jarny's industrial history, and bring a light jacket as the open grounds can often be quite breezy."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss und Gutshof Tichémont",
+            "hu": "Tichémont kastély és birtok",
+            "ro": "Domeniul și castelul Tichémont",
+            "en": "Domaine de la ferme et du château de Tichémont"
+          },
+          "coords": [
+            5.902512,
+            49.179091
+          ],
+          "category": "castle",
+          "arrive_at": "12:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposante Architektur dieses weitläufigen Anwesens und achten Sie auf die Öffnungszeiten des Hofladens für lokale Spezialitäten.",
+            "hu": "Csodálja meg e kiterjedt birtok lenyűgöző építészetét, és figyeljen a gazdasági bolt nyitvatartására, ha helyi specialitásokat szeretne kóstolni.",
+            "ro": "Admirați arhitectura impunătoare a acestui domeniu extins și verificați programul magazinului fermei dacă doriți să cumpărați specialități locale.",
+            "en": "Admire the imposing architecture of this expansive estate, and check the farm shop's opening hours if you want to purchase some local specialties."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Gorgon",
+            "hu": "Saint-Gorgon templom",
+            "ro": "Biserica Saint-Gorgon",
+            "en": "Église Saint-Gorgon"
+          },
+          "coords": [
+            5.881133,
+            49.17387
+          ],
+          "category": "religious",
+          "arrive_at": "14:12",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihre Tour an dieser friedlichen Kirche ab und genießen Sie den weiten Blick auf die Landschaft, der sich hervorragend für ein Abschlussfoto eignet.",
+            "hu": "Zárja túráját ennél a békés templomnál, és élvezze a tájra nyíló széles kilátást, amely kiválóan alkalmas egy emlékezetes zárófotó elkészítéséhez.",
+            "ro": "Încheiați-vă turul la această biserică pașnică și bucurați-vă de priveliștile ample asupra peisajului, un loc excelent pentru o fotografie de final.",
+            "en": "Conclude your tour at this peaceful church and enjoy the wide views of the surrounding countryside, making it a perfect spot for a final photograph."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt an der ländlichen Église Saint-Vanne und fahren Sie dann kurz zur Église Saint-Martin, um deren Eleganz zu bewundern.\n\nFahren Sie zur Chapelle Notre-Dame-du-Rail, gefolgt von der ehemaligen Mine. Hier werden die tiefen industriellen Wurzeln der Stadt sichtbar.\n\nFahren Sie bequem zum großen Domaine de Tichémont, erkunden Sie das Schlossgelände und genießen Sie die frische landwirtschaftliche Atmosphäre.\n\nBeenden Sie Ihren Roadtrip an der Église Saint-Gorgon. Die friedliche Umgebung und die Aussicht bieten einen perfekten, ruhigen Abschluss des Tages.",
+        "hu": "Kezdje autós útját a vidéki Église Saint-Vanne-nál, majd ugorjon át az Église Saint-Martin templomhoz annak időtlen eleganciájáért.\n\nVezessen a Chapelle Notre-Dame-du-Rail kápolnához, majd a régi bányához. Itt tisztán láthatóak a város mély ipari gyökerei.\n\nUtazzon kényelmesen a grandiózus Domaine de Tichémont birtokhoz, felfedezve a kastély parkját és élvezve a friss vidéki levegőt.\n\nFejezze be kirándulását az Église Saint-Gorgon templomnál. A békés környezet és a kilátás tökéletes, csendes lezárást biztosít.",
+        "ro": "Începeți traseul auto la Église Saint-Vanne, apoi treceți scurt pe la Église Saint-Martin pentru a admira eleganța sa atemporală.\n\nConduceți spre Chapelle Notre-Dame-du-Rail, urmată de o vizită la fosta mină. Aici, rădăcinile industriale ale orașului sunt vizibile.\n\nCălătoriți confortabil până la grandiosul Domaine de Tichémont, explorând domeniul castelului și bucurându-vă de aerul proaspăt.\n\nÎncheiați călătoria la Église Saint-Gorgon. Cadrul pașnic și priveliștile din jur oferă un final de zi perfect și liniștit.",
+        "en": "Start your drive at the rural Église Saint-Vanne, setting a calm tone. Quickly hop over to Église Saint-Martin to admire its timeless elegance.\n\nDrive to Chapelle Notre-Dame-du-Rail, followed by a visit to the Former Jarny Mine. Here, the deep industrial roots of the town are clearly visible.\n\nCruise comfortably out to the grand Domaine de Tichémont, exploring the sprawling castle grounds and taking in the fresh agricultural atmosphere.\n\nConclude your road trip at Église Saint-Gorgon. The peaceful setting and surrounding views provide a perfect, quiet wrap-up to the day."
+      }
+    }
+  }
+}

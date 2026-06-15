@@ -1,0 +1,405 @@
+{
+  "city_id": "guise",
+  "anchor": {
+    "name": "Guise",
+    "coords": [
+      3.6275,
+      49.9003
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:24",
+      "total_km": 1.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Pierre et Saint-Paul",
+            "hu": "Szent Péter és Pál templom",
+            "ro": "Biserica Saint-Pierre și Saint-Paul",
+            "en": "Saint-Pierre and Saint-Paul Church"
+          },
+          "coords": [
+            3.623979,
+            49.898513
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne gotische Architektur dieser zentralen Kirche mit ihrer reichen Geschichte und kommen Sie am besten frühmorgens, wenn das Licht die Buntglasfenster erstrahlen lässt.",
+            "hu": "Csodálja meg ennek a központi templomnak a gyönyörű gótikus építészetét, amely mély helyi történelmet őriz, és próbáljon kora reggel érkezni, amikor a fény csodásan megvilágítja az üvegablakokat.",
+            "ro": "Admirați frumoasa arhitectură gotică a acestei biserici centrale pline de istorie și încercați să o vizitați dis-de-dimineață, când lumina pune minunat în valoare superbele sale vitralii colorate.",
+            "en": "Admire the beautiful Gothic architecture of this central church, which holds deep local history, and try to visit early in the morning when the light beautifully illuminates its stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Guise",
+            "hu": "Guise-i kastély",
+            "ro": "Castelul Guise",
+            "en": "Guise Castle"
+          },
+          "coords": [
+            3.622747,
+            49.897238
+          ],
+          "category": "fortress",
+          "arrive_at": "10:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Erkunden Sie die beeindruckenden Ruinen und unterirdischen Gänge dieser mittelalterlichen Festung, die einst die Region schützte, und tragen Sie festes Schuhwerk für die unebenen Pflastersteine.",
+            "hu": "Fedezze fel e középkori erődítmény lenyűgöző romjait és földalatti folyosóit, amely egykor a régiót védte, és viseljen kényelmes, masszív cipőt, hogy biztonságosan sétálhasson az egyenetlen köveken.",
+            "ro": "Explorați ruinele impresionante și pasajele subterane ale acestei fortărețe medievale care proteja regiunea și purtați încălțăminte rezistentă pentru a merge în siguranță pe aleile pietruite denivelate.",
+            "en": "Explore the impressive ruins and underground passages of this medieval fortress, which once protected the region, and wear sturdy shoes to safely navigate its uneven cobblestone pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergfried von Schloss Guise",
+            "hu": "A guise-i kastély öregtornya",
+            "ro": "Donjonul castelului Guise",
+            "en": "Donjon of Guise Castle"
+          },
+          "coords": [
+            3.623955,
+            49.89699
+          ],
+          "category": "landmark",
+          "arrive_at": "11:25",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.09,
+          "tip_5lang": {
+            "de": "Steigen Sie zu den Überresten des mächtigen Bergfrieds hinauf, um die Wehrhaftigkeit der Herzöge von Guise zu spüren, und bringen Sie Ihre Kamera für den atemberaubenden Blick über das Oise-Tal mit.",
+            "hu": "Másszon fel az impozáns öregtorony maradványaihoz, hogy átélje a guise-i hercegek védelmi erejét, és vigyen magával fényképezőgépet, hogy megörökítse a völgyre nyíló lélegzetelállító panorámát.",
+            "ro": "Urcați la rămășițele impunătorului donjon pentru a simți forța defensivă a ducilor de Guise și aduceți aparatul foto pentru a surprinde panorama uluitoare asupra frumoasei văi a râului Oise.",
+            "en": "Climb to the remains of the imposing donjon to experience the defensive might of the Dukes of Guise, and bring your camera to capture the breathtaking panoramic views of the Oise valley below."
+          }
+        },
+        {
+          "name": {
+            "de": "Axe vert de la Thiérache",
+            "hu": "Axe vert de la Thiérache",
+            "ro": "Axe vert de la Thiérache",
+            "en": "Axe vert de la Thiérache"
+          },
+          "coords": [
+            3.626795,
+            49.894984
+          ],
+          "category": "landmark",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Machen Sie einen entspannten Spaziergang auf dieser zu einem grünen Weg umgebauten ehemaligen Bahntrasse, die die Natur der Region zeigt, und mieten Sie ein Fahrrad, um mühelos mehr zu entdecken.",
+            "hu": "Tegyen egy pihentető sétát ezen a zöld úttá alakított egykori vasútvonalon, amely bemutatja a régió természeti szépségét, és béreljen kerékpárt a közelben, hogy könnyedén nagyobb távolságot tegyen meg.",
+            "ro": "Faceți o plimbare relaxantă de-a lungul acestei foste căi ferate transformate într-o cale verde luxuriantă care prezintă frumusețea naturală, și închiriați o bicicletă pentru a explora mai mult.",
+            "en": "Take a relaxing stroll along this former railway line converted into a lush greenway, which showcases the natural beauty of the region, and rent a bicycle nearby to cover more distance effortlessly."
+          }
+        },
+        {
+          "name": {
+            "de": "Godin Familistère",
+            "hu": "Godin Familistère",
+            "ro": "Familisterul Godin",
+            "en": "Godin Familistère"
+          },
+          "coords": [
+            3.625984,
+            49.903391
+          ],
+          "category": "museum",
+          "arrive_at": "13:14",
+          "stay_min": 130,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.94,
+          "tip_5lang": {
+            "de": "Entdecken Sie die utopische Vision von Jean-Baptiste André Godin in diesem bemerkenswerten Sozialpalast, der den Arbeiterwohnungsbau revolutionierte, und nehmen Sie an einer Führung teil.",
+            "hu": "Fedezze fel Jean-Baptiste André Godin utópisztikus vízióját ebben a figyelemre méltó szociális palotában, amely forradalmasította a munkáslakásokat, és csatlakozzon egy vezetett túrához a megértésért.",
+            "ro": "Descoperiți viziunea utopică a lui Jean-Baptiste André Godin în acest palat social remarcabil care a revoluționat locuințele muncitorilor și alăturați-vă unui tur ghidat pentru a-i înțelege istoria.",
+            "en": "Discover the utopian vision of Jean-Baptiste André Godin in this remarkable social palace, which revolutionized workers' housing, and join a guided tour to fully understand its fascinating history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt im Herzen von Guise mit dem gotischen Charme der Kirche Saint-Pierre et Saint-Paul. Gegen Mittag reisen Sie beim mächtigen Schloss Guise in die Vergangenheit und erkunden dessen Befestigungen. Der Nachmittag lädt zu einem erfrischenden Spaziergang auf dem grünen Weg Axe vert de la Thiérache ein. Sie beenden den Tag mit der utopischen Architektur des Godin Familistère.",
+        "hu": "A reggel Guise szívében indul, ahol átélheti a Szent Péter és Pál templom gótikus báját. Délben visszalép az időben a hatalmas guise-i kastélynál, felfedezve annak középkori erődítményeit. A délután egy frissítő sétára csábít a buja Axe vert de la Thiérache zöld ösvényen. Végül a napját a Godin Familistère utópisztikus építészetének megcsodálásával zárja, mielőtt leszállna az est.",
+        "ro": "Dimineața dumneavoastră începe în inima orașului Guise, îmbrățișând farmecul gotic al bisericii centrale. Până la prânz, faceți un pas înapoi în timp la puternicul Castel Guise, explorând fortificațiile sale medievale. După-amiaza vă invită la o plimbare revigorantă de-a lungul traseului verde luxuriant Axe vert de la Thiérache. Veți încheia ziua minunându-vă de arhitectura utopică a Familisterului Godin.",
+        "en": "Your morning starts in the heart of Guise, embracing the Gothic charm of the Saint-Pierre et Saint-Paul church. By midday, you are stepping back in time at the mighty Guise Castle, exploring its medieval fortifications and donjon. The afternoon invites you for a refreshing walk along the lush Axe vert de la Thiérache greenway. Finally, you will conclude your day marvelling at the utopian architecture of the Godin Familistère before evening sets in."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:47",
+      "total_km": 4.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Médard",
+            "hu": "Saint-Médard templom",
+            "ro": "Biserica Saint-Médard",
+            "en": "Saint-Médard Church"
+          },
+          "coords": [
+            3.63348,
+            49.898555
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Fahrt an dieser charmanten historischen Kirche mit ihrer friedlichen Atmosphäre und bewundern Sie den traditionellen Glockenturm, bevor Sie zum nahegelegenen Friedhof weiterfahren.",
+            "hu": "Kezdje útját ennél a bájos történelmi templomnál, amely békés hangulatot áraszt egy csendes környéken, és szánjon egy percet a hagyományos harangtorony megcsodálására a temető meglátogatása előtt.",
+            "ro": "Începeți plimbarea la această biserică istorică fermecătoare care oferă o atmosferă pașnică într-un cartier liniștit și admirați clopotnița sa tradițională înainte de a merge la cimitirul din apropiere.",
+            "en": "Start your ride at this charming historic church that offers a peaceful atmosphere in a quiet neighborhood, and take a moment to admire its traditional bell tower before heading to the nearby cemetery."
+          }
+        },
+        {
+          "name": {
+            "de": "Friedhof Saint-Médard",
+            "hu": "Saint-Médard temető",
+            "ro": "Cimitirul Saint-Médard",
+            "en": "Saint-Médard Cemetery"
+          },
+          "coords": [
+            3.63469,
+            49.89973
+          ],
+          "category": "park",
+          "arrive_at": "10:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Schlendern Sie über diesen ruhigen historischen Friedhof, auf dem viele prominente Persönlichkeiten ruhen, was einen Einblick in die Vergangenheit der Stadt bietet, und verhalten Sie sich stets respektvoll.",
+            "hu": "Sétáljon át ezen a nyugodt történelmi temetőn, ahol számos kiemelkedő helyi személyiség nyugszik, bepillantást engedve a város múltjába, és felfedezés közben tartsa tiszteletben a békés környezetet.",
+            "ro": "Plimbați-vă prin acest cimitir istoric senin unde se odihnesc multe figuri locale proeminente, oferind o privire emoționantă asupra trecutului orașului, și păstrați o atitudine respectuoasă pe parcurs.",
+            "en": "Wander through this serene historical cemetery where many prominent local figures rest, providing a poignant glimpse into the town's past, and stay respectful of the tranquil environment as you explore."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Guise",
+            "hu": "Guise-i kastély",
+            "ro": "Castelul Guise",
+            "en": "Guise Castle"
+          },
+          "coords": [
+            3.622747,
+            49.897238
+          ],
+          "category": "fortress",
+          "arrive_at": "11:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und tauchen Sie in die weiten Ruinen dieser Festung ein, die die mittelalterliche Landschaft dominierte, und erkunden Sie das unterirdische Netzwerk, um die Größe zu erfassen.",
+            "hu": "Parkolja le kerékpárját, és merüljön el ennek a hatalmas erődítménynek a romjaiban, amely egykor uralta a középkori tájat, és fedezze fel a kiterjedt földalatti hálózatot a valódi méretek megértéséhez.",
+            "ro": "Parcați bicicleta și pătrundeți în ruinele vaste ale acestei fortărețe formidabile care a dominat peisajul medieval și explorați rețeaua subterană întinsă pentru a-i înțelege cu adevărat scara imensă.",
+            "en": "Park your bike and delve into the vast ruins of this formidable stronghold that dominated the medieval landscape, and explore the sprawling underground network to truly grasp its immense scale."
+          }
+        },
+        {
+          "name": {
+            "de": "Godin Familistère",
+            "hu": "Godin Familistère",
+            "ro": "Familisterul Godin",
+            "en": "Godin Familistère"
+          },
+          "coords": [
+            3.625984,
+            49.903391
+          ],
+          "category": "museum",
+          "arrive_at": "12:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen bahnbrechenden, für soziale Gleichheit entworfenen Industrie- und Wohnkomplex, ein absolutes Muss in Guise, und informieren Sie sich über Sonderausstellungen im Innenhof.",
+            "hu": "Látogasson el a társadalmi egyenlőség jegyében tervezett úttörő ipari és lakóparkba, amelyet mindenképp látnia kell Guise-ben, és ellenőrizze a központi udvarban tartott időszakos kiállítások idejét.",
+            "ro": "Vizitați complexul industrial și rezidențial revoluționar conceput pentru egalitate socială, o atracție de neratat în Guise, și verificați programul expozițiilor speciale din curtea centrală.",
+            "en": "Visit the groundbreaking industrial and residential complex designed for social equality, an absolute must-see in Guise, and check the schedule for special exhibitions inside the central courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Germain",
+            "hu": "Saint-Germain templom",
+            "ro": "Biserica Saint-Germain",
+            "en": "Saint-Germain Church"
+          },
+          "coords": [
+            3.623877,
+            49.92384
+          ],
+          "category": "religious",
+          "arrive_at": "14:37",
+          "stay_min": 70,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour an dieser hochgelegenen, malerischen Kirche mit einzigartigen architektonischen Details und genießen Sie die friedliche Bergauffahrt mit Blick auf die ländliche Umgebung.",
+            "hu": "Fejezze be a kerékpártúrát ennél a magasan fekvő, különleges építészeti részletekkel rendelkező, festői templomnál, és élvezze a békés felfelé vezető utat, miközben gyönyörködik a vidéki tájban.",
+            "ro": "Terminați turul cu bicicleta la această biserică pitorească situată la înălțime, cu detalii arhitecturale unice, și bucurați-vă de urcarea pașnică admirând peisajul rural minunat din împrejurimi.",
+            "en": "Finish your cycling tour at this elevated, quaint church that features unique architectural details, and enjoy the peaceful uphill ride while taking in the wonderful surrounding rural scenery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag im ruhigen Ostviertel an der historischen Kirche Saint-Médard. Gegen Mittag radeln Sie zum friedlichen Friedhof Saint-Médard und erobern dann das historische Schloss Guise. Am Nachmittag wartet der beeindruckende Sozialpalast Godin Familistère auf Ihre Entdeckung. Der späte Nachmittag bietet eine friedliche Fahrt zur malerischen Kirche Saint-Germain als Abschluss.",
+        "hu": "Kezdje a kerékpáros napot a nyugodt keleti negyedben, a történelmi Saint-Médard templomnál. Dél felé tekerjen át a békés Saint-Médard temetőhöz, majd hódítsa meg a kastély történelmi magaslatait. Ahogy halad a délután, a Godin Familistère lenyűgöző szociális palotája várja felfedezésre. A késő délután egy békés kerékpározást kínál a festői Saint-Germain templomhoz, lezárva a napot.",
+        "ro": "Începeți ziua de ciclism în cartierul estic liniștit, la istorica Biserică Saint-Médard. Spre prânz, pedalați către seninul Cimitir Saint-Médard înainte de a cuceri înălțimile Castelului Guise. Pe măsură ce după-amiaza avansează, impresionantul palat social al Familisterului Godin vă așteaptă. După-amiaza târziu vă oferă o plimbare pașnică până la pitoreasca Biserică Saint-Germain.",
+        "en": "Kick off your cycling day in the tranquil eastern quarter at the historic Église Saint-Médard. Towards midday, pedal over to the serene Cimetière Saint-Médard before conquering the historic heights of Guise Castle. As the afternoon progresses, the awe-inspiring social palace of Godin Familistère awaits your discovery. The late afternoon offers a peaceful ride out to the quaint Église Saint-Germain."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:39",
+      "total_km": 6.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Godin Familistère",
+            "hu": "Godin Familistère",
+            "ro": "Familisterul Godin",
+            "en": "Godin Familistère"
+          },
+          "coords": [
+            3.625984,
+            49.903391
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Kommen Sie früh, um leicht einen Parkplatz bei diesem massiven sozialen Wohnprojekt aus dem 19. Jahrhundert zu finden, und beginnen Sie Ihren Tag mit der Erkundung des großen, lichtdurchfluteten Pavillons.",
+            "hu": "Érkezzen korán, hogy könnyen találjon parkolóhelyet ennél a 19. századi szociális lakásépítési projektnél, amely újraalkotta a közösségi életet, és kezdje a napot a grandiózus központi pavilonban.",
+            "ro": "Ajungeți devreme pentru a găsi ușor parcare la acest proiect masiv de locuințe sociale din secolul 19, care a redefinit viața comunitară, și începeți ziua explorând marele său pavilion central luminos.",
+            "en": "Arrive early to easily find parking at this massive 19th-century social housing project that completely redefined communal living, and start your day by exploring its grand, light-filled central pavilion."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Germain",
+            "hu": "Saint-Germain templom",
+            "ro": "Biserica Saint-Germain",
+            "en": "Saint-Germain Church"
+          },
+          "coords": [
+            3.623877,
+            49.92384
+          ],
+          "category": "religious",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Fahren Sie zu dieser ruhigen, wunderschön erhaltenen Kirche im nördlichen Teil der Stadt und nutzen Sie die friedliche Umgebung, um über das reiche religiöse Erbe der gesamten Region nachzudenken.",
+            "hu": "Vezessen fel ehhez a nyugodt, gyönyörűen megőrzött templomhoz a város északi részén, és használja ki a csendes környezetet, hogy elgondolkozzon az egész régió hosszú és gazdag vallási örökségén.",
+            "ro": "Conduceți până la această biserică liniștită, frumos conservată din partea de nord a orașului, și profitați de cadrul tăcut pentru a reflecta asupra moștenirii religioase lungi a întregii regiuni.",
+            "en": "Drive up to this tranquil, beautifully preserved church nestled in the northern part of town, and take advantage of the quiet setting to reflect on the long religious heritage of the entire region."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Médard",
+            "hu": "Saint-Médard templom",
+            "ro": "Biserica Saint-Médard",
+            "en": "Saint-Médard Church"
+          },
+          "coords": [
+            3.63348,
+            49.898555
+          ],
+          "category": "religious",
+          "arrive_at": "11:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe dieser attraktiven Kirche, die das östliche Viertel mit ihrem klassischen Design prägt, und bewundern Sie ihr schlichtes, aber elegantes Inneres, bevor Sie zu den Wehranlagen fahren.",
+            "hu": "Parkoljon le e vonzó templom közelében, amely klasszikus dizájnjával a keleti negyedet díszíti, és lépjen be, hogy megcsodálja egyszerű, mégis elegáns belső terét a védelmi helyszínek meglátogatása előtt.",
+            "ro": "Parcați lângă această biserică atractivă care ancorează cartierul estic prin designul său clasic și intrați pentru a-i admira interiorul simplu, dar elegant, înainte de a trece la siturile defensive.",
+            "en": "Park near this attractive church that anchors the eastern neighborhood with its classic design, and step inside to admire its simple yet elegant interior before moving on to the town's defensive sites."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Guise",
+            "hu": "Guise-i kastély",
+            "ro": "Castelul Guise",
+            "en": "Guise Castle"
+          },
+          "coords": [
+            3.622747,
+            49.897238
+          ],
+          "category": "fortress",
+          "arrive_at": "12:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Halten Sie an den monumentalen Ruinen dieses Schlosses, um mehr über seine strategische Rolle zu erfahren, und stellen Sie sicher, dass Sie die unglaublichen unterirdischen Gewölbe besichtigen, die jeden faszinieren.",
+            "hu": "Álljon meg a kastély monumentális romjainál, hogy megismerje annak kulcsfontosságú stratégiai szerepét a történelem során, és feltétlenül tekintse meg a hihetetlen földalatti boltozatokat, amelyek mindenkit lenyűgöznek.",
+            "ro": "Opriți-vă la ruinele monumentale ale acestui castel pentru a afla despre rolul său strategic crucial și asigurați-vă că accesați bolțile subterane incredibile care cu siguranță vor uimi vizitatorii.",
+            "en": "Stop at the monumental ruins of this castle to learn about its crucial strategic role throughout history, and make sure to access the incredible subterranean vaults that are sure to amaze visitors of all ages."
+          }
+        },
+        {
+          "name": {
+            "de": "Axe vert de la Thiérache",
+            "hu": "Axe vert de la Thiérache",
+            "ro": "Axe vert de la Thiérache",
+            "en": "Axe vert de la Thiérache"
+          },
+          "coords": [
+            3.626795,
+            49.894984
+          ],
+          "category": "landmark",
+          "arrive_at": "13:54",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise mit einem friedlichen Spaziergang auf diesem grünen Naturpfad, der einer alten Eisenbahnlinie neues Leben einhaucht, und tragen Sie bequeme Schuhe für diese erfrischende Flucht ins Grüne.",
+            "hu": "Fejezze be utazását egy békés sétával ezen a zöldellő tanösvényen, amely életet lehel egy régi vasútvonalba, és viseljen kényelmes sétacipőt, hogy teljes mértékben élvezhesse ezt a frissítő vidéki kiruccanást.",
+            "ro": "Încheiați-vă călătoria cu o plimbare liniștită pe acest traseu natural înverzit, care dă viață unei vechi căi ferate, și purtați pantofi confortabili pentru a vă bucura de această evadare revigorantă.",
+            "en": "End your trip with a peaceful walk along this verdant nature trail that breathes life into an old railway, and wear comfortable walking shoes to fully enjoy this refreshing escape into the countryside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt leuchtend am monumentalen Godin Familistère und erkundet die utopischen Träume des 19. Jahrhunderts. Mittags fahren Sie in den Norden, um die wunderschön erhaltene Kirche Saint-Germain zu besuchen. Entdecken Sie am Nachmittag die klassische Eleganz von Saint-Médard und die Ruinen von Schloss Guise. Der Tag klingt mit einem friedlichen Spaziergang in der Natur aus.",
+        "hu": "Autós túrája lendületesen indul a monumentális Godin Familistère-nél, felfedezve a 19. század utópisztikus álmait. Délben az északi határok felé cirkál, hogy meglátogassa a gyönyörűen megőrzött Saint-Germain templomot. Délután fedezze fel a Saint-Médard templom klasszikus eleganciáját és a kastély hatalmas romjait. A nap tökéletesen zárul egy békés, pihentető sétával a természetben.",
+        "ro": "Turul dumneavoastră auto începe luminos la monumentalul Familister Godin, explorând visele utopice ale secolului 19. La prânz, veți conduce spre nord pentru a vizita frumoasa Biserică Saint-Germain. După-amiaza, descoperiți eleganța clasică a bisericii Saint-Médard și ruinele medievale întinse ale Castelului Guise. Ziua se încheie perfect cu o plimbare pașnică și relaxantă în mijlocul naturii.",
+        "en": "Your driving tour begins brightly at the monumental Godin Familistère, exploring the utopian dreams of the 19th century. By midday, you will cruise to the northern limits to visit the beautifully preserved Église Saint-Germain. In the afternoon, discover the classic elegance of Église Saint-Médard and the sprawling medieval ruins of Guise Castle. The day winds down perfectly with a peaceful nature walk."
+      }
+    }
+  }
+}

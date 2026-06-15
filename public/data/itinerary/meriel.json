@@ -1,0 +1,474 @@
+{
+  "city_id": "meriel",
+  "anchor": {
+    "name": "Mériel",
+    "coords": [
+      2.205,
+      49.0792
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:54",
+      "total_km": 3.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Éloi",
+            "hu": "Saint-Éloi templom",
+            "ro": "Biserica Saint-Éloi",
+            "en": "Saint-Éloi Church"
+          },
+          "coords": [
+            2.206761,
+            49.080342
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schönen Buntglasfenster dieser historischen Dorfkirche und kommen Sie am besten früh, um die morgendliche Ruhe zu genießen.",
+            "hu": "Csodálja meg ennek a történelmi falusi templomnak a gyönyörű ólomüveg ablakait, és érkezzen korán, hogy kiélvezze a békés reggeli hangulatot.",
+            "ro": "Admirați vitraliile frumoase ale acestei biserici istorice de sat și încercați să o vizitați devreme pentru a vă bucura de atmosfera liniștită.",
+            "en": "Admire the beautiful stained glass windows of this historic village church, and try to visit early to enjoy the peaceful morning atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Jean-Gabin-Museum",
+            "hu": "Jean Gabin Múzeum",
+            "ro": "Muzeul Jean Gabin",
+            "en": "Jean Gabin Museum"
+          },
+          "coords": [
+            2.203832,
+            49.077333
+          ],
+          "category": "museum",
+          "arrive_at": "09:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie das faszinierende Leben des legendären französischen Schauspielers in seiner Heimatstadt, aber prüfen Sie vorab online die Öffnungszeiten.",
+            "hu": "Fedezze fel az ikonikus francia színész lenyűgöző életét és karrierjét szülővárosában, de előtte mindenképp ellenőrizze az online nyitvatartási időt.",
+            "ro": "Descoperiți viața și cariera fascinantă a celebrului actor francez în orașul său natal, dar nu uitați să verificați online programul de vizitare restrâns.",
+            "en": "Discover the fascinating life and career of the iconic French actor in his hometown, but remember to check the restricted opening hours online beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Abtei Val",
+            "hu": "Val apátság",
+            "ro": "Abația Val",
+            "en": "Val Abbey"
+          },
+          "coords": [
+            2.226389,
+            49.078611
+          ],
+          "category": "monastic",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die ruhigen Ruinen dieses alten Zisterzienserklosters vor einer Waldkulisse und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel ezen ősi ciszterci kolostor békés romjait az erdei háttérrel, de viseljen kényelmes cipőt az egyenetlen talajon való sétához.",
+            "ro": "Explorați ruinele senine ale acestei vechi mănăstiri cisterciene, cu un fundal de pădure, purtând încălțăminte solidă pentru terenul denivelat.",
+            "en": "Explore the serene ruins of this ancient Cistercian monastery set against a forest backdrop, wearing sturdy shoes to comfortably walk the uneven grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturschutzgebiet Stors Marsh",
+            "hu": "Stors-mocsár Természetvédelmi Terület",
+            "ro": "Rezervația Naturală Mlaștinile Stors",
+            "en": "Stors Marsh Nature Reserve"
+          },
+          "coords": [
+            2.222411,
+            49.085861
+          ],
+          "category": "natural",
+          "arrive_at": "13:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie auf den Holzpfaden dieses üppigen Feuchtgebiets, um seltene Vögel zu beobachten, und bringen Sie Insektenschutz und ein Fernglas mit.",
+            "hu": "Sétáljon végig a buja vizes élőhely fapallóin, hogy ritka madarakat figyeljen meg, és ne hagyja otthon a szúnyogriasztót és a távcsövét sem.",
+            "ro": "Plimbați-vă pe cărările din lemn ale acestei rezervații umede luxuriante pentru a vedea păsări rare, și aduceți repelent de insecte și un binoclu.",
+            "en": "Walk the wooden paths of this lush wetland reserve to spot rare local birds, and bring insect repellent and binoculars for the best nature experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Stors",
+            "hu": "Stors Kastély",
+            "ro": "Castelul Stors",
+            "en": "Château de Stors"
+          },
+          "coords": [
+            2.20901,
+            49.089589
+          ],
+          "category": "castle",
+          "arrive_at": "15:04",
+          "stay_min": 110,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die großartige Architektur und die Terrassengärten dieses historischen Anwesens und beachten Sie, dass Führungen im Voraus gebucht werden müssen.",
+            "hu": "Csodálja meg a történelmi birtok nagyszerű építészetét és teraszos kertjeit, de ne feledje, hogy a vezetett túrákhoz előzetes foglalás szükséges.",
+            "ro": "Minunați-vă de arhitectura grandioasă și de grădinile terasate ale acestei moșii istorice, reținând că tururile ghidate necesită rezervare în avans.",
+            "en": "Marvel at the grand architecture and terraced gardens of this historic estate overlooking the Oise, noting that guided tours require advance booking."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit dem Dorfcharme von Mériel und dem filmischen Erbe von Gabin. Gegen Mittag schlendern Sie in Richtung des üppigen Oise-Tals und der historischen Ruinen. Der Nachmittag ist den Naturpfaden und eleganten Schlössern vorbehalten, die die königliche Vergangenheit der Region zeigen. Ihr Abend endet mit einer ruhigen Reflexion an den historischen Pfarrkirchen bei Sonnenuntergang.",
+        "hu": "Kezdje a reggelt Mériel falu varázsának és Gabin filmes örökségének felfedezésével. Délben sétáljon a buja Oise-völgy és a történelmi romok felé. A délutánt a tanösvényeknek és az elegáns kastélyoknak szentelheti, amelyek közelebb hozzák a régió királyi múltját. Az este a környező történelmi plébániatemplomoknál tett csendes elmélkedéssel zárul, miközben a nap lassan nyugovóra tér.",
+        "ro": "Începeți dimineața cufundându-vă în farmecul satului Mériel și moștenirea cinematografică a lui Gabin. Până la prânz, îndreptați-vă spre valea luxuriantă a râului Oise și ruinele istorice. După-amiaza este rezervată traseelor naturale și castelelor elegante, aducându-vă aproape de trecutul regal. Seara se încheie cu o reflecție liniștită la bisericile parohiale istorice la apus.",
+        "en": "Begin your morning immersing yourself in Mériel's village charm and Gabin's cinematic legacy. By midday, wander out towards the lush Oise valley and historic ruins. The afternoon is reserved for nature trails and elegant châteaux, bringing you close to the region's royal past. Your evening concludes with a quiet reflection by the surrounding historic parish churches as the sun gently sets."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:04",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Éloi",
+            "hu": "Saint-Éloi templom",
+            "ro": "Biserica Saint-Éloi",
+            "en": "Saint-Éloi Church"
+          },
+          "coords": [
+            2.206761,
+            49.080342
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schönen Buntglasfenster dieser historischen Dorfkirche und kommen Sie am besten früh, um die morgendliche Ruhe zu genießen.",
+            "hu": "Csodálja meg ennek a történelmi falusi templomnak a gyönyörű ólomüveg ablakait, és érkezzen korán, hogy kiélvezze a békés reggeli hangulatot.",
+            "ro": "Admirați vitraliile frumoase ale acestei biserici istorice de sat și încercați să o vizitați devreme pentru a vă bucura de atmosfera liniștită.",
+            "en": "Admire the beautiful stained glass windows of this historic village church, and try to visit early to enjoy the peaceful morning atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Jean-Gabin-Museum",
+            "hu": "Jean Gabin Múzeum",
+            "ro": "Muzeul Jean Gabin",
+            "en": "Jean Gabin Museum"
+          },
+          "coords": [
+            2.203832,
+            49.077333
+          ],
+          "category": "museum",
+          "arrive_at": "09:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie das faszinierende Leben des legendären französischen Schauspielers in seiner Heimatstadt, aber prüfen Sie vorab online die Öffnungszeiten.",
+            "hu": "Fedezze fel az ikonikus francia színész lenyűgöző életét és karrierjét szülővárosában, de előtte mindenképp ellenőrizze az online nyitvatartási időt.",
+            "ro": "Descoperiți viața și cariera fascinantă a celebrului actor francez în orașul său natal, dar nu uitați să verificați online programul de vizitare restrâns.",
+            "en": "Discover the fascinating life and career of the iconic French actor in his hometown, but remember to check the restricted opening hours online beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Abtei Val",
+            "hu": "Val apátság",
+            "ro": "Abația Val",
+            "en": "Val Abbey"
+          },
+          "coords": [
+            2.226389,
+            49.078611
+          ],
+          "category": "monastic",
+          "arrive_at": "11:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die ruhigen Ruinen dieses alten Zisterzienserklosters vor einer Waldkulisse und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel ezen ősi ciszterci kolostor békés romjait az erdei háttérrel, de viseljen kényelmes cipőt az egyenetlen talajon való sétához.",
+            "ro": "Explorați ruinele senine ale acestei vechi mănăstiri cisterciene, cu un fundal de pădure, purtând încălțăminte solidă pentru terenul denivelat.",
+            "en": "Explore the serene ruins of this ancient Cistercian monastery set against a forest backdrop, wearing sturdy shoes to comfortably walk the uneven grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturschutzgebiet Stors Marsh",
+            "hu": "Stors-mocsár Természetvédelmi Terület",
+            "ro": "Rezervația Naturală Mlaștinile Stors",
+            "en": "Stors Marsh Nature Reserve"
+          },
+          "coords": [
+            2.222411,
+            49.085861
+          ],
+          "category": "natural",
+          "arrive_at": "13:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie auf den Holzpfaden dieses üppigen Feuchtgebiets, um seltene Vögel zu beobachten, und bringen Sie Insektenschutz und ein Fernglas mit.",
+            "hu": "Sétáljon végig a buja vizes élőhely fapallóin, hogy ritka madarakat figyeljen meg, és ne hagyja otthon a szúnyogriasztót és a távcsövét sem.",
+            "ro": "Plimbați-vă pe cărările din lemn ale acestei rezervații umede luxuriante pentru a vedea păsări rare, și aduceți repelent de insecte și un binoclu.",
+            "en": "Walk the wooden paths of this lush wetland reserve to spot rare local birds, and bring insect repellent and binoculars for the best nature experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Stors",
+            "hu": "Stors Kastély",
+            "ro": "Castelul Stors",
+            "en": "Château de Stors"
+          },
+          "coords": [
+            2.20901,
+            49.089589
+          ],
+          "category": "castle",
+          "arrive_at": "14:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die großartige Architektur und die Terrassengärten dieses historischen Anwesens und beachten Sie, dass Führungen im Voraus gebucht werden müssen.",
+            "hu": "Csodálja meg a történelmi birtok nagyszerű építészetét és teraszos kertjeit, de ne feledje, hogy a vezetett túrákhoz előzetes foglalás szükséges.",
+            "ro": "Minunați-vă de arhitectura grandioasă și de grădinile terasate ale acestei moșii istorice, reținând că tururile ghidate necesită rezervare în avans.",
+            "en": "Marvel at the grand architecture and terraced gardens of this historic estate overlooking the Oise, noting that guided tours require advance booking."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Quentin",
+            "hu": "Saint-Quentin templom",
+            "ro": "Biserica Saint-Quentin",
+            "en": "Saint-Quentin Church"
+          },
+          "coords": [
+            2.191087,
+            49.096126
+          ],
+          "category": "religious",
+          "arrive_at": "15:54",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den ruhigen romanischen Charme dieser malerischen Landkirche und bringen Sie eine Kamera für schöne Außenaufnahmen im Nachmittagslicht mit.",
+            "hu": "Szánjon egy kis időt a vidéki templom csendes román kori varázsának értékelésére, és hozzon magával fényképezőgépet a délutáni külső fotókhoz.",
+            "ro": "Acordați-vă un moment pentru a aprecia farmecul romanic liniștit al acestei biserici rurale, aducând o cameră pentru fotografii exterioare minunate.",
+            "en": "Take a moment to appreciate the quiet Romanesque charm of this countryside church, bringing a camera for lovely exterior shots in the afternoon light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit dem Dorfcharme von Mériel und dem filmischen Erbe von Gabin. Gegen Mittag schlendern Sie in Richtung des üppigen Oise-Tals und der historischen Ruinen. Der Nachmittag ist den Naturpfaden und eleganten Schlössern vorbehalten, die die königliche Vergangenheit der Region zeigen. Ihr Abend endet mit einer ruhigen Reflexion an den historischen Pfarrkirchen bei Sonnenuntergang.",
+        "hu": "Kezdje a reggelt Mériel falu varázsának és Gabin filmes örökségének felfedezésével. Délben sétáljon a buja Oise-völgy és a történelmi romok felé. A délutánt a tanösvényeknek és az elegáns kastélyoknak szentelheti, amelyek közelebb hozzák a régió királyi múltját. Az este a környező történelmi plébániatemplomoknál tett csendes elmélkedéssel zárul, miközben a nap lassan nyugovóra tér.",
+        "ro": "Începeți dimineața cufundându-vă în farmecul satului Mériel și moștenirea cinematografică a lui Gabin. Până la prânz, îndreptați-vă spre valea luxuriantă a râului Oise și ruinele istorice. După-amiaza este rezervată traseelor naturale și castelelor elegante, aducându-vă aproape de trecutul regal. Seara se încheie cu o reflecție liniștită la bisericile parohiale istorice la apus.",
+        "en": "Begin your morning immersing yourself in Mériel's village charm and Gabin's cinematic legacy. By midday, wander out towards the lush Oise valley and historic ruins. The afternoon is reserved for nature trails and elegant châteaux, bringing you close to the region's royal past. Your evening concludes with a quiet reflection by the surrounding historic parish churches as the sun gently sets."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:43",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Jean-Gabin-Museum",
+            "hu": "Jean Gabin Múzeum",
+            "ro": "Muzeul Jean Gabin",
+            "en": "Jean Gabin Museum"
+          },
+          "coords": [
+            2.203832,
+            49.077333
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 110,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das faszinierende Leben des legendären französischen Schauspielers in seiner Heimatstadt, aber prüfen Sie vorab online die Öffnungszeiten.",
+            "hu": "Fedezze fel az ikonikus francia színész lenyűgöző életét és karrierjét szülővárosában, de előtte mindenképp ellenőrizze az online nyitvatartási időt.",
+            "ro": "Descoperiți viața și cariera fascinantă a celebrului actor francez în orașul său natal, dar nu uitați să verificați online programul de vizitare restrâns.",
+            "en": "Discover the fascinating life and career of the iconic French actor in his hometown, but remember to check the restricted opening hours online beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Éloi",
+            "hu": "Saint-Éloi templom",
+            "ro": "Biserica Saint-Éloi",
+            "en": "Saint-Éloi Church"
+          },
+          "coords": [
+            2.206761,
+            49.080342
+          ],
+          "category": "religious",
+          "arrive_at": "11:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schönen Buntglasfenster dieser historischen Dorfkirche und kommen Sie am besten früh, um die morgendliche Ruhe zu genießen.",
+            "hu": "Csodálja meg ennek a történelmi falusi templomnak a gyönyörű ólomüveg ablakait, és érkezzen korán, hogy kiélvezze a békés reggeli hangulatot.",
+            "ro": "Admirați vitraliile frumoase ale acestei biserici istorice de sat și încercați să o vizitați devreme pentru a vă bucura de atmosfera liniștită.",
+            "en": "Admire the beautiful stained glass windows of this historic village church, and try to visit early to enjoy the peaceful morning atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Stors",
+            "hu": "Stors Kastély",
+            "ro": "Castelul Stors",
+            "en": "Château de Stors"
+          },
+          "coords": [
+            2.20901,
+            49.089589
+          ],
+          "category": "castle",
+          "arrive_at": "11:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die großartige Architektur und die Terrassengärten dieses historischen Anwesens und beachten Sie, dass Führungen im Voraus gebucht werden müssen.",
+            "hu": "Csodálja meg a történelmi birtok nagyszerű építészetét és teraszos kertjeit, de ne feledje, hogy a vezetett túrákhoz előzetes foglalás szükséges.",
+            "ro": "Minunați-vă de arhitectura grandioasă și de grădinile terasate ale acestei moșii istorice, reținând că tururile ghidate necesită rezervare în avans.",
+            "en": "Marvel at the grand architecture and terraced gardens of this historic estate overlooking the Oise, noting that guided tours require advance booking."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Quentin",
+            "hu": "Saint-Quentin templom",
+            "ro": "Biserica Saint-Quentin",
+            "en": "Saint-Quentin Church"
+          },
+          "coords": [
+            2.191087,
+            49.096126
+          ],
+          "category": "religious",
+          "arrive_at": "13:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den ruhigen romanischen Charme dieser malerischen Landkirche und bringen Sie eine Kamera für schöne Außenaufnahmen im Nachmittagslicht mit.",
+            "hu": "Szánjon egy kis időt a vidéki templom csendes román kori varázsának értékelésére, és hozzon magával fényképezőgépet a délutáni külső fotókhoz.",
+            "ro": "Acordați-vă un moment pentru a aprecia farmecul romanic liniștit al acestei biserici rurale, aducând o cameră pentru fotografii exterioare minunate.",
+            "en": "Take a moment to appreciate the quiet Romanesque charm of this countryside church, bringing a camera for lovely exterior shots in the afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturschutzgebiet Stors Marsh",
+            "hu": "Stors-mocsár Természetvédelmi Terület",
+            "ro": "Rezervația Naturală Mlaștinile Stors",
+            "en": "Stors Marsh Nature Reserve"
+          },
+          "coords": [
+            2.222411,
+            49.085861
+          ],
+          "category": "natural",
+          "arrive_at": "13:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie auf den Holzpfaden dieses üppigen Feuchtgebiets, um seltene Vögel zu beobachten, und bringen Sie Insektenschutz und ein Fernglas mit.",
+            "hu": "Sétáljon végig a buja vizes élőhely fapallóin, hogy ritka madarakat figyeljen meg, és ne hagyja otthon a szúnyogriasztót és a távcsövét sem.",
+            "ro": "Plimbați-vă pe cărările din lemn ale acestei rezervații umede luxuriante pentru a vedea păsări rare, și aduceți repelent de insecte și un binoclu.",
+            "en": "Walk the wooden paths of this lush wetland reserve to spot rare local birds, and bring insect repellent and binoculars for the best nature experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Abtei Val",
+            "hu": "Val apátság",
+            "ro": "Abația Val",
+            "en": "Val Abbey"
+          },
+          "coords": [
+            2.226389,
+            49.078611
+          ],
+          "category": "monastic",
+          "arrive_at": "15:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die ruhigen Ruinen dieses alten Zisterzienserklosters vor einer Waldkulisse und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel ezen ősi ciszterci kolostor békés romjait az erdei háttérrel, de viseljen kényelmes cipőt az egyenetlen talajon való sétához.",
+            "ro": "Explorați ruinele senine ale acestei vechi mănăstiri cisterciene, cu un fundal de pădure, purtând încălțăminte solidă pentru terenul denivelat.",
+            "en": "Explore the serene ruins of this ancient Cistercian monastery set against a forest backdrop, wearing sturdy shoes to comfortably walk the uneven grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Sulpice",
+            "hu": "Saint-Sulpice templom",
+            "ro": "Biserica Saint-Sulpice",
+            "en": "Saint-Sulpice Church"
+          },
+          "coords": [
+            2.233404,
+            49.06427
+          ],
+          "category": "religious",
+          "arrive_at": "16:33",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit der Betrachtung der feinen Steinmetzarbeiten dieser schön erhaltenen Pfarrkirche, die einen friedlichen Rückzugsort bietet.",
+            "hu": "Zárja a napot ennek a gyönyörűen megőrzött plébániatemplomnak a bonyolult kőfaragványainak megfigyelésével, amely békés menedéket nyújt a hazautazás előtt.",
+            "ro": "Încheiați-vă ziua observând lucrările complexe în piatră ale acestei biserici parohiale, care oferă un refugiu liniștit înainte de a vă întoarce acasă.",
+            "en": "End your day observing the intricate stonework of this beautifully preserved parish church, which offers a peaceful retreat before heading back home."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit dem Dorfcharme von Mériel und dem filmischen Erbe von Gabin. Gegen Mittag schlendern Sie in Richtung des üppigen Oise-Tals und der historischen Ruinen. Der Nachmittag ist den Naturpfaden und eleganten Schlössern vorbehalten, die die königliche Vergangenheit der Region zeigen. Ihr Abend endet mit einer ruhigen Reflexion an den historischen Pfarrkirchen bei Sonnenuntergang.",
+        "hu": "Kezdje a reggelt Mériel falu varázsának és Gabin filmes örökségének felfedezésével. Délben sétáljon a buja Oise-völgy és a történelmi romok felé. A délutánt a tanösvényeknek és az elegáns kastélyoknak szentelheti, amelyek közelebb hozzák a régió királyi múltját. Az este a környező történelmi plébániatemplomoknál tett csendes elmélkedéssel zárul, miközben a nap lassan nyugovóra tér.",
+        "ro": "Începeți dimineața cufundându-vă în farmecul satului Mériel și moștenirea cinematografică a lui Gabin. Până la prânz, îndreptați-vă spre valea luxuriantă a râului Oise și ruinele istorice. După-amiaza este rezervată traseelor naturale și castelelor elegante, aducându-vă aproape de trecutul regal. Seara se încheie cu o reflecție liniștită la bisericile parohiale istorice la apus.",
+        "en": "Begin your morning immersing yourself in Mériel's village charm and Gabin's cinematic legacy. By midday, wander out towards the lush Oise valley and historic ruins. The afternoon is reserved for nature trails and elegant châteaux, bringing you close to the region's royal past. Your evening concludes with a quiet reflection by the surrounding historic parish churches as the sun gently sets."
+      }
+    }
+  }
+}

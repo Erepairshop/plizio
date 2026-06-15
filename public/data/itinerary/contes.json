@@ -1,0 +1,451 @@
+{
+  "city_id": "contes",
+  "anchor": {
+    "name": "Contes",
+    "coords": [
+      7.3139,
+      43.8119
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:32",
+      "total_km": 1.95,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Joseph",
+            "hu": "Saint-Joseph templom",
+            "ro": "Biserica Saint-Joseph",
+            "en": "Église Saint-Joseph"
+          },
+          "coords": [
+            7.31409,
+            43.812951
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Erkundung an der markanten Kirche Saint-Joseph mit ihrer klassischen Fassade und spazieren Sie umher, um ihre Bedeutung für die örtliche Gemeinschaft zu erfassen.",
+            "hu": "Kezdje a felfedezést a klasszikus homlokzattal büszkélkedő Saint-Joseph templomnál, és sétálja körbe az épületet, hogy teljesen megértse annak helyi közösségbeli jelentőségét.",
+            "ro": "Începeți explorarea la biserica Saint-Joseph, caracterizată prin fațada sa clasică, și faceți un tur al perimetrului pentru a înțelege importanța sa pentru comunitatea locală.",
+            "en": "Start your exploration at the prominent Église Saint-Joseph, characterized by its classic facade, and walk around its perimeter to fully grasp the importance it holds for the local community."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainte-Marie-Madeleine Church",
+            "hu": "Sainte-Marie-Madeleine templom",
+            "ro": "Biserica Sainte-Marie-Madeleine",
+            "en": "Sainte-Marie-Madeleine Church"
+          },
+          "coords": [
+            7.31479,
+            43.811779
+          ],
+          "category": "religious",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante mittelalterliche Architektur der Sainte-Marie-Madeleine, den spirituellen Anker von Contes, und treten Sie früh ein, um das Morgenlicht zu genießen.",
+            "hu": "Csodálja meg a Sainte-Marie-Madeleine lenyűgöző középkori építészetét, és érkezzen kora reggel, hogy megfigyelhesse az üvegablakokon átszűrődő csodás napfényt.",
+            "ro": "Admirați arhitectura medievală impresionantă a bisericii Sainte-Marie-Madeleine din Contes și intrați devreme pentru a vă bucura de lumina dimineții prin vitraliile colorate.",
+            "en": "Admire the striking medieval architecture of Sainte-Marie-Madeleine Church, a spiritual anchor of Contes, and step inside early to catch the morning sunlight through the stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint Roch",
+            "hu": "Saint Roch kápolna",
+            "ro": "Capela Saint Roch",
+            "en": "Saint Roch Chapel"
+          },
+          "coords": [
+            7.315619,
+            43.810402
+          ],
+          "category": "religious",
+          "arrive_at": "10:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Entdecken Sie die intime Kapelle Saint Roch, ein historisches Juwel, das dem Schutzpatron der Pestkranken gewidmet ist, und genießen Sie die kühle, ruhige Atmosphäre im Inneren.",
+            "hu": "Fedezze fel az intim Saint Roch kápolnát, mely a pestisesek védőszentjének állít emléket, és töltsön el néhány percet csendes elmélkedéssel a hűvös belső térben.",
+            "ro": "Descoperiți capela intimă Saint Roch, o bijuterie istorică dedicată sfântului patron al bolnavilor de ciumă, și luați-vă un moment de liniște în interiorul ei răcoros și pitoresc.",
+            "en": "Discover the intimate Saint Roch Chapel, a beautifully preserved historic gem dedicated to the patron saint of plague sufferers, and take a moment for quiet reflection in its cool interior."
+          }
+        },
+        {
+          "name": {
+            "de": "L'Hélice",
+            "hu": "L'Hélice",
+            "ro": "L'Hélice",
+            "en": "L'Hélice"
+          },
+          "coords": [
+            7.313581,
+            43.808311
+          ],
+          "category": "cultural",
+          "arrive_at": "11:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Tauchen Sie im L'Hélice in die lokale Kultur ein, einem Zentrum für Geschichte und Kunst, und sprechen Sie mit dem freundlichen Personal, um verborgene Geschichten der Region zu erfahren.",
+            "hu": "Merüljön el a helyi kultúrában a L'Hélice központjában, és bátran beszélgessen a barátságos személyzettel, akik szívesen mesélnek a régió rejtett történelmi történeteiről.",
+            "ro": "Pătrundeți în cultura locală la L'Hélice, un centru fascinant de istorie și artă comunitară, și discutați cu personalul primitor pentru a afla poveștile ascunse ale regiunii.",
+            "en": "Dive into local culture at L'Hélice, a fascinating hub of history and community arts, and don't hesitate to engage with the welcoming staff to learn hidden stories of the surrounding region."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-de-l'Assomption",
+            "hu": "Notre-Dame-de-l'Assomption templom",
+            "ro": "Biserica Notre-Dame-de-l'Assomption",
+            "en": "Église Notre-Dame-de-l'Assomption"
+          },
+          "coords": [
+            7.296423,
+            43.808947
+          ],
+          "category": "religious",
+          "arrive_at": "13:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.37,
+          "tip_5lang": {
+            "de": "Suchen Sie die wunderschöne Kirche Notre-Dame-de-l'Assomption im Westen auf, um ihre ruhige Atmosphäre zu genießen, und prüfen Sie vorab die Messezeiten für offene Türen.",
+            "hu": "Keresse fel a nyugati peremvidéken található Notre-Dame-de-l'Assomption templomot a békés hangulatért, de érkezés előtt érdemes ellenőrizni a nyitvatartást és a misék rendjét.",
+            "ro": "Căutați superba biserică Notre-Dame-de-l'Assomption la periferia vestică pentru atmosfera sa senină, verificând programul slujbelor înainte de sosire pentru a găsi ușile deschise.",
+            "en": "Seek out the lovely Église Notre-Dame-de-l'Assomption in the western outskirts to enjoy its serene atmosphere, ideally checking the local mass schedule before arriving to ensure open doors."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Rundgang durch Contes beginnt im historischen Herzen, wo Sie die Morgensonne an der Église Saint-Joseph begrüßen. Der Mittag lädt zu einem gemütlichen Spaziergang zu Sainte-Marie-Madeleine und Saint Roch ein. Nachmittags tauchen Sie in die Kultur des L'Hélice ein. Schließen Sie mit einem ruhigen Spaziergang zur Kirche Notre-Dame-de-l'Assomption am westlichen Rand der Stadt ab.",
+        "hu": "A Contes-i séta a történelmi központban kezdődik, ahol a reggeli napfény a Saint-Joseph templomnál fogadja. A délidő egy kellemes sétát kínál a Sainte-Marie-Madeleine és a Saint Roch érintésével. Délután a L'Hélice kulturális kiállításai várják, majd az estét egy békés, nyugati irányú sétával zárhatja a Notre-Dame-de-l'Assomption templom lenyűgöző épületénél.",
+        "ro": "Turul pietonal prin Contes începe în centrul istoric, salutând soarele dimineții la Église Saint-Joseph. Prânzul invită la o plimbare spre Sainte-Marie-Madeleine și Saint Roch. După-amiaza, lăsați-vă captivați de expozițiile culturale de la L'Hélice. Încheiați ziua cu o plimbare liniștită la apus spre periferia vestică, la biserica Notre-Dame-de-l'Assomption.",
+        "en": "Your walking tour of Contes begins in the historical heart, greeting the morning sun at Église Saint-Joseph. Midday invites a leisurely stroll through the central alleys, stopping by Sainte-Marie-Madeleine and Saint Roch. In the afternoon, immerse yourself in the cultural exhibits of L'Hélice. Conclude with a peaceful sunset walk toward the western outskirts at Notre-Dame-de-l'Assomption."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:51",
+      "total_km": 6.07,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "L'Hélice",
+            "hu": "L'Hélice",
+            "ro": "L'Hélice",
+            "en": "L'Hélice"
+          },
+          "coords": [
+            7.313581,
+            43.808311
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Tauchen Sie im L'Hélice in die lokale Kultur ein, einem Zentrum für Geschichte und Kunst, und sprechen Sie mit dem freundlichen Personal, um verborgene Geschichten der Region zu erfahren.",
+            "hu": "Merüljön el a helyi kultúrában a L'Hélice központjában, és bátran beszélgessen a barátságos személyzettel, akik szívesen mesélnek a régió rejtett történelmi történeteiről.",
+            "ro": "Pătrundeți în cultura locală la L'Hélice, un centru fascinant de istorie și artă comunitară, și discutați cu personalul primitor pentru a afla poveștile ascunse ale regiunii.",
+            "en": "Dive into local culture at L'Hélice, a fascinating hub of history and community arts, and don't hesitate to engage with the welcoming staff to learn hidden stories of the surrounding region."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint Roch",
+            "hu": "Saint Roch kápolna",
+            "ro": "Capela Saint Roch",
+            "en": "Saint Roch Chapel"
+          },
+          "coords": [
+            7.315619,
+            43.810402
+          ],
+          "category": "religious",
+          "arrive_at": "10:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Entdecken Sie die intime Kapelle Saint Roch, ein historisches Juwel, das dem Schutzpatron der Pestkranken gewidmet ist, und genießen Sie die kühle, ruhige Atmosphäre im Inneren.",
+            "hu": "Fedezze fel az intim Saint Roch kápolnát, mely a pestisesek védőszentjének állít emléket, és töltsön el néhány percet csendes elmélkedéssel a hűvös belső térben.",
+            "ro": "Descoperiți capela intimă Saint Roch, o bijuterie istorică dedicată sfântului patron al bolnavilor de ciumă, și luați-vă un moment de liniște în interiorul ei răcoros și pitoresc.",
+            "en": "Discover the intimate Saint Roch Chapel, a beautifully preserved historic gem dedicated to the patron saint of plague sufferers, and take a moment for quiet reflection in its cool interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainte-Marie-Madeleine Church",
+            "hu": "Sainte-Marie-Madeleine templom",
+            "ro": "Biserica Sainte-Marie-Madeleine",
+            "en": "Sainte-Marie-Madeleine Church"
+          },
+          "coords": [
+            7.31479,
+            43.811779
+          ],
+          "category": "religious",
+          "arrive_at": "11:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante mittelalterliche Architektur der Sainte-Marie-Madeleine, den spirituellen Anker von Contes, und treten Sie früh ein, um das Morgenlicht zu genießen.",
+            "hu": "Csodálja meg a Sainte-Marie-Madeleine lenyűgöző középkori építészetét, és érkezzen kora reggel, hogy megfigyelhesse az üvegablakokon átszűrődő csodás napfényt.",
+            "ro": "Admirați arhitectura medievală impresionantă a bisericii Sainte-Marie-Madeleine din Contes și intrați devreme pentru a vă bucura de lumina dimineții prin vitraliile colorate.",
+            "en": "Admire the striking medieval architecture of Sainte-Marie-Madeleine Church, a spiritual anchor of Contes, and step inside early to catch the morning sunlight through the stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sainte-Hélène",
+            "hu": "Sainte-Hélène templom",
+            "ro": "Biserica Sainte-Hélène",
+            "en": "Église Sainte-Hélène"
+          },
+          "coords": [
+            7.342542,
+            43.813336
+          ],
+          "category": "religious",
+          "arrive_at": "12:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.23,
+          "tip_5lang": {
+            "de": "Besuchen Sie die kulturell bedeutsame Kirche Sainte-Hélène, um ihre traditionelle Architektur zu bewundern, und genießen Sie die angenehme Brise an heißen Tagen auf dem Hügel.",
+            "hu": "Látogasson el a kulturális jelentőségű Sainte-Hélène templomba, hogy megcsodálja hagyományos építészetét, és élvezze a dombtetőn fújó kellemes, hűsítő szellőt a meleg napokon.",
+            "ro": "Vizitați biserica Sainte-Hélène pentru a aprecia arhitectura sa tradițională regională, ținând cont că locația sa liniștită pe deal oferă o briză plăcută în zilele călduroase.",
+            "en": "Visit the culturally significant Église Sainte-Hélène to appreciate its traditional regional architecture, keeping in mind that its peaceful hilltop setting offers a lovely breeze on hot days."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saints-Pierre-et-Paul",
+            "hu": "Saints-Pierre-et-Paul templom",
+            "ro": "Biserica Saints-Pierre-et-Paul",
+            "en": "Église Saints-Pierre-et-Paul"
+          },
+          "coords": [
+            7.338429,
+            43.803696
+          ],
+          "category": "religious",
+          "arrive_at": "13:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.12,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historische Kirche Saints-Pierre-et-Paul, die sich anmutig in die Landschaft schmiegt, und achten Sie auf das bemerkenswert erhaltene Mauerwerk der Fassade.",
+            "hu": "Fedezze fel a történelmi Saints-Pierre-et-Paul templomot, amely kecsesen simul a tájba, és szenteljen külön figyelmet a remekül megőrzött külső kőfalaknak a túra folytatása előtt.",
+            "ro": "Explorați istorica biserică Saints-Pierre-et-Paul, integrată grațios în peisajul local, și observați cu atenție zidăria exterioară remarcabil de bine conservată înainte de a pleca.",
+            "en": "Explore the historic Église Saints-Pierre-et-Paul, nestled gracefully into the local landscape, and pay attention to the remarkably preserved exterior stonework before continuing your ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Bassin DFCI",
+            "hu": "Bassin DFCI",
+            "ro": "Bassin DFCI",
+            "en": "Bassin DFCI"
+          },
+          "coords": [
+            7.366929,
+            43.804466
+          ],
+          "category": "natural",
+          "arrive_at": "14:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.28,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am Bassin DFCI, einem wichtigen Wasserreservat inmitten der üppigen Mittelmeernatur, und bringen Sie eine Kamera für die herrlichen Panoramablicke mit.",
+            "hu": "Pihenjen meg a Bassin DFCI mellett, amely egy buja mediterrán természettel körülvett víztározó, és hozzon magával fényképezőgépet a környező zöldellő völgyek panorámájához.",
+            "ro": "Relaxați-vă la Bassin DFCI, un rezervor de apă înconjurat de natura mediteraneană luxuriantă, și aduceți un aparat foto pentru a surprinde priveliștile panoramice superbe.",
+            "en": "Relax by the Bassin DFCI, an essential water reserve enveloped by lush Mediterranean nature, and bring a camera to capture the stunning panoramic views over the surrounding green valleys."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Fahrradtag mit Inspiration im Kulturzentrum L'Hélice. Mit zunehmender Wärme radeln Sie gemütlich zwischen den nahegelegenen Kapellen Saint Roch und Sainte-Marie-Madeleine. Nachmittags geht es in die hügelige Landschaft zu charmanten Landkirchen. Beenden Sie die Tour am Abend am Bassin DFCI, wo Sie mit ruhiger Natur und frischer Luft belohnt werden.",
+        "hu": "Kezdje a kerékpáros napot egy reggeli inspirációval a L'Hélice kulturális központjában. Ahogy melegszik az idő, tekerjen a közeli Saint Roch és Sainte-Marie-Madeleine kápolnák között. A délutáni túra dombos tájakon visz át, falusi templomokat felfedezve. Zárja a napot egy kellemes utazással a Bassin DFCI felé, ahol a csendes természet és a friss levegő várja.",
+        "ro": "Începeți ziua de ciclism cu o doză de cultură matinală la L'Hélice. Pe măsură ce ziua se încălzește, pedalați ușor între capelele din apropiere, precum Saint Roch și Sainte-Marie-Madeleine. Plimbările de după-amiază vă duc spre bisericile rurale. Finalizați traseul pe seară la Bassin DFCI, recompensându-vă cu natură liniștită și aer curat după efortul depus.",
+        "en": "Kick off your cycling day with morning inspiration at the cultural hub of L'Hélice. As the day warms up, gently pedal between the nearby heritage chapels like Saint Roch and Sainte-Marie-Madeleine. Afternoon rides take you into the rolling landscapes to discover charming rural churches. Finish with an evening cycle to Bassin DFCI, rewarding yourself with tranquil nature and fresh air."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 9.94,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Notre-Dame-de-l'Assomption",
+            "hu": "Notre-Dame-de-l'Assomption templom",
+            "ro": "Biserica Notre-Dame-de-l'Assomption",
+            "en": "Église Notre-Dame-de-l'Assomption"
+          },
+          "coords": [
+            7.296423,
+            43.808947
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Suchen Sie die wunderschöne Kirche Notre-Dame-de-l'Assomption im Westen auf, um ihre ruhige Atmosphäre zu genießen, und prüfen Sie vorab die Messezeiten für offene Türen.",
+            "hu": "Keresse fel a nyugati peremvidéken található Notre-Dame-de-l'Assomption templomot a békés hangulatért, de érkezés előtt érdemes ellenőrizni a nyitvatartást és a misék rendjét.",
+            "ro": "Căutați superba biserică Notre-Dame-de-l'Assomption la periferia vestică pentru atmosfera sa senină, verificând programul slujbelor înainte de sosire pentru a găsi ușile deschise.",
+            "en": "Seek out the lovely Église Notre-Dame-de-l'Assomption in the western outskirts to enjoy its serene atmosphere, ideally checking the local mass schedule before arriving to ensure open doors."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Joseph",
+            "hu": "Saint-Joseph templom",
+            "ro": "Biserica Saint-Joseph",
+            "en": "Église Saint-Joseph"
+          },
+          "coords": [
+            7.31409,
+            43.812951
+          ],
+          "category": "religious",
+          "arrive_at": "09:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.48,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Erkundung an der markanten Kirche Saint-Joseph mit ihrer klassischen Fassade und spazieren Sie umher, um ihre Bedeutung für die örtliche Gemeinschaft zu erfassen.",
+            "hu": "Kezdje a felfedezést a klasszikus homlokzattal büszkélkedő Saint-Joseph templomnál, és sétálja körbe az épületet, hogy teljesen megértse annak helyi közösségbeli jelentőségét.",
+            "ro": "Începeți explorarea la biserica Saint-Joseph, caracterizată prin fațada sa clasică, și faceți un tur al perimetrului pentru a înțelege importanța sa pentru comunitatea locală.",
+            "en": "Start your exploration at the prominent Église Saint-Joseph, characterized by its classic facade, and walk around its perimeter to fully grasp the importance it holds for the local community."
+          }
+        },
+        {
+          "name": {
+            "de": "L'Hélice",
+            "hu": "L'Hélice",
+            "ro": "L'Hélice",
+            "en": "L'Hélice"
+          },
+          "coords": [
+            7.313581,
+            43.808311
+          ],
+          "category": "cultural",
+          "arrive_at": "10:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.52,
+          "tip_5lang": {
+            "de": "Tauchen Sie im L'Hélice in die lokale Kultur ein, einem Zentrum für Geschichte und Kunst, und sprechen Sie mit dem freundlichen Personal, um verborgene Geschichten der Region zu erfahren.",
+            "hu": "Merüljön el a helyi kultúrában a L'Hélice központjában, és bátran beszélgessen a barátságos személyzettel, akik szívesen mesélnek a régió rejtett történelmi történeteiről.",
+            "ro": "Pătrundeți în cultura locală la L'Hélice, un centru fascinant de istorie și artă comunitară, și discutați cu personalul primitor pentru a afla poveștile ascunse ale regiunii.",
+            "en": "Dive into local culture at L'Hélice, a fascinating hub of history and community arts, and don't hesitate to engage with the welcoming staff to learn hidden stories of the surrounding region."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sainte-Hélène",
+            "hu": "Sainte-Hélène templom",
+            "ro": "Biserica Sainte-Hélène",
+            "en": "Église Sainte-Hélène"
+          },
+          "coords": [
+            7.342542,
+            43.813336
+          ],
+          "category": "religious",
+          "arrive_at": "12:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.39,
+          "tip_5lang": {
+            "de": "Besuchen Sie die kulturell bedeutsame Kirche Sainte-Hélène, um ihre traditionelle Architektur zu bewundern, und genießen Sie die angenehme Brise an heißen Tagen auf dem Hügel.",
+            "hu": "Látogasson el a kulturális jelentőségű Sainte-Hélène templomba, hogy megcsodálja hagyományos építészetét, és élvezze a dombtetőn fújó kellemes, hűsítő szellőt a meleg napokon.",
+            "ro": "Vizitați biserica Sainte-Hélène pentru a aprecia arhitectura sa tradițională regională, ținând cont că locația sa liniștită pe deal oferă o briză plăcută în zilele călduroase.",
+            "en": "Visit the culturally significant Église Sainte-Hélène to appreciate its traditional regional architecture, keeping in mind that its peaceful hilltop setting offers a lovely breeze on hot days."
+          }
+        },
+        {
+          "name": {
+            "de": "Bassin DFCI",
+            "hu": "Bassin DFCI",
+            "ro": "Bassin DFCI",
+            "en": "Bassin DFCI"
+          },
+          "coords": [
+            7.366929,
+            43.804466
+          ],
+          "category": "natural",
+          "arrive_at": "13:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.19,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am Bassin DFCI, einem wichtigen Wasserreservat inmitten der üppigen Mittelmeernatur, und bringen Sie eine Kamera für die herrlichen Panoramablicke mit.",
+            "hu": "Pihenjen meg a Bassin DFCI mellett, amely egy buja mediterrán természettel körülvett víztározó, és hozzon magával fényképezőgépet a környező zöldellő völgyek panorámájához.",
+            "ro": "Relaxați-vă la Bassin DFCI, un rezervor de apă înconjurat de natura mediteraneană luxuriantă, și aduceți un aparat foto pentru a surprinde priveliștile panoramice superbe.",
+            "en": "Relax by the Bassin DFCI, an essential water reserve enveloped by lush Mediterranean nature, and bring a camera to capture the stunning panoramic views over the surrounding green valleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Dorf",
+            "hu": "Ófalu",
+            "ro": "Satul Vechi",
+            "en": "Old Village"
+          },
+          "coords": [
+            7.373466,
+            43.77464
+          ],
+          "category": "historical",
+          "arrive_at": "14:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.36,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die kurvigen Steingassen des alten Dorfes, um authentischen provenzalischen Charme zu erleben, und tragen Sie bequeme Schuhe für die unebenen Stufen.",
+            "hu": "Sétáljon végig az ófalu kanyargós kőutcáin, hogy megtapasztalja az igazi provence-i bájt, de mindenképpen kényelmes cipőt viseljen a sok évszázados, egyenetlen lépcső miatt.",
+            "ro": "Plimbați-vă pe străduțele pietruite ale vechiului sat pentru a simți farmecul provensal autentic, asigurându-vă că purtați încălțăminte comodă pentru treptele vechi și inegale.",
+            "en": "Wander through the winding stone alleys of the Old Village to experience authentic Provencal charm, making sure to wear comfortable walking shoes for the uneven, centuries-old steps."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre malerische Fahrt durch die Region Contes beginnt an der Notre-Dame-de-l'Assomption. Mittags erkunden Sie den dichten historischen Kern mit seinen Kirchen und dem L'Hélice. Später fahren Sie zum ruhigen Bassin DFCI und genießen die wechselnden Aussichten. Lassen Sie den Abend inmitten des rustikalen, zeitlosen Charmes der Ruinen des alten Dorfes ausklingen.",
+        "hu": "A Contes környéki autós túra a Notre-Dame-de-l'Assomption templomnál indul. Délben a történelmi központba érkezik, ahol templomokat és a L'Hélice kiállításait fedezheti fel. Később a békés Bassin DFCI felé veheti az irányt, élvezve a völgy változó panorámáját. Az este az Ófalu rusztikus és időtlen bájában ér véget, amely tökéletes lezárása a napnak.",
+        "ro": "Călătoria pitorească cu mașina prin regiunea Contes începe la Notre-Dame-de-l'Assomption. Prânzul vă aduce în centrul istoric dens pentru a explora biserici și L'Hélice. Mai târziu, conduceți spre liniștitul Bassin DFCI, bucurându-vă de peisajele văii. Lăsați seara să se stingă încet în mijlocul farmecului rustic și atemporal al vechiului sat provensal.",
+        "en": "Your scenic drive through the Contes area starts at the grand Notre-Dame-de-l'Assomption. Midday brings you into the dense historical core to explore majestic churches and the exhibits at L'Hélice. Later, cruise out toward the serene Bassin DFCI, enjoying the shifting valley views. Let the evening fade away amidst the rustic, timeless charm of the Old Village ruins."
+      }
+    }
+  }
+}

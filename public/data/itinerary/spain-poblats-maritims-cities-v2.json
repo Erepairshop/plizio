@@ -1,0 +1,520 @@
+{
+  "city_id": "spain-poblats-maritims-cities-v2",
+  "anchor": {
+    "name": "Poblats Marítims",
+    "coords": [
+      -0.07345,
+      39.86729
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:02",
+      "total_km": 2.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Arenal de Borriana",
+            "hu": "Arenal de Borriana",
+            "ro": "Arenal de Borriana",
+            "en": "Arenal de Borriana"
+          },
+          "coords": [
+            -0.062091,
+            39.869229
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Strand, der für seinen feinen Sand bekannt ist; kommen Sie früh, um die beste Aussicht aufs ruhige Meer zu genießen.",
+            "hu": "Pihenjen ezen a festői strandon, amely finom homokjáról ismert; érkezzen korán, hogy a legjobb kilátást élvezhesse a nyugodt tengerre és elkerülje a tömeget.",
+            "ro": "Relaxați-vă pe această plajă pitorească renumită pentru nisipul fin; ajungeți devreme pentru a vă bucura de cele mai bune priveliști ale mării calme și clare.",
+            "en": "Relax on this picturesque beach known for its fine sand; arrive early in the day to enjoy the best views of the calm sea and secure a prime spot near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Far Negre de l'Arenal",
+            "hu": "Far Negre de l'Arenal",
+            "ro": "Far Negre de l'Arenal",
+            "en": "Far Negre de l'Arenal"
+          },
+          "coords": [
+            -0.062651,
+            39.860878
+          ],
+          "category": "landmark",
+          "arrive_at": "10:39",
+          "stay_min": 25,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen markanten schwarzen Leuchtturm, der die Küstengeschichte prägt; fotografieren Sie ihn am besten mit dem azurblauen Meer im Hintergrund.",
+            "hu": "Csodálja meg ezt a lenyűgöző fekete világítótornyot, amely a parti történelmet őrzi; a legjobb fotókat az azúrkék tengerrel a háttérben készítheti el.",
+            "ro": "Admirați acest far negru impresionant care marchează istoria de coastă; fotografiați-l cu marea de un albastru azuriu în fundal pentru un contrast perfect.",
+            "en": "Admire this striking black lighthouse that defines local maritime history; photograph it with the azure sea in the background for the perfect visual contrast."
+          }
+        },
+        {
+          "name": {
+            "de": "Far Verd",
+            "hu": "Far Verd",
+            "ro": "Far Verd",
+            "en": "Far Verd"
+          },
+          "coords": [
+            -0.067193,
+            39.857608
+          ],
+          "category": "landmark",
+          "arrive_at": "11:12",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie das grüne Leuchtfeuer, ein charmantes nautisches Symbol; achten Sie auf die vielen kleinen Fischerboote, die hier sicher in den Hafen einlaufen.",
+            "hu": "Fedezze fel a zöld világítótornyot, egy bájos tengerészeti szimbólumot; figyelje meg a kis halászhajókat, ahogy biztonságosan befutnak a közeli kikötőbe.",
+            "ro": "Descoperiți farul verde, un simbol nautic fermecător; urmăriți micile bărci de pescuit care intră în siguranță în portul pitoresc din apropiere.",
+            "en": "Discover the green beacon, a charming nautical symbol; watch the small local fishing boats safely navigating their way into the nearby picturesque port."
+          }
+        },
+        {
+          "name": {
+            "de": "Far Roig",
+            "hu": "Far Roig",
+            "ro": "Far Roig",
+            "en": "Far Roig"
+          },
+          "coords": [
+            -0.06907,
+            39.858572
+          ],
+          "category": "landmark",
+          "arrive_at": "11:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diesen leuchtend roten Hafenturm, der Seeleuten den Weg weist; ein Spaziergang entlang der Mole bietet hier fantastische Fotomotive.",
+            "hu": "Látogassa meg ezt az élénkpiros kikötői tornyot, amely a tengerészeket irányítja; a móló mentén tett séta fantasztikus fotótémákat kínál mindenki számára.",
+            "ro": "Vizitați acest turn portuar roșu strălucitor care ghidează marinarii; o plimbare de-a lungul digului oferă oportunități foto fantastice și o briză plăcută.",
+            "en": "Visit this bright red harbor tower that safely guides sailors; taking a leisurely walk along the pier provides fantastic photo opportunities of the coast."
+          }
+        },
+        {
+          "name": {
+            "de": "les Escales al Mar",
+            "hu": "les Escales al Mar",
+            "ro": "les Escales al Mar",
+            "en": "les Escales al Mar"
+          },
+          "coords": [
+            -0.077056,
+            39.862808
+          ],
+          "category": "natural",
+          "arrive_at": "12:17",
+          "stay_min": 105,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick an diesen markanten Stufen zum Meer; setzen Sie sich auf die Steine und lauschen Sie dem beruhigenden Rauschen der Wellen.",
+            "hu": "Élvezze a panorámát ezeknél a tengerhez vezető jellegzetes lépcsőknél; üljön le a kövekre, és hallgassa a hullámok megnyugtató, ritmikus morajlását.",
+            "ro": "Bucurați-vă de panorama oferită de aceste trepte distinctive spre mare; așezați-vă pe pietre și ascultați sunetul liniștitor al valurilor care se sparg.",
+            "en": "Enjoy the panoramic views at these distinctive steps leading down to the sea; sit on the stone sections to simply listen to the soothing sound of the waves."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag entspannt am Arenal de Borriana, wo die frische Meeresbrise Sie weckt und der goldene Sand zu einem morgendlichen Spaziergang einlädt.\n\nGegen Mittag erreichen Sie den markanten Far Negre de l'Arenal, dessen dunkle Silhouette einen wunderbaren Kontrast zum blauen Himmel und den Wellen bildet.\n\nAm Nachmittag schlendern Sie weiter zu den charmanten Leuchtfeuern Far Verd und Far Roig, die den kleinen Fischerbooten sicher ihren Weg in den Hafen weisen.\n\nDer Tag endet an den eindrucksvollen Escales al Mar, wo Sie sich niederlassen und bei beruhigendem Wellenrauschen die wunderschönen Farben der Dämmerung genießen.",
+        "hu": "Kezdje a napot az Arenal de Borriana strandon, ahol a friss tengeri szellő felébreszti, és az aranyló homok egy békés reggeli sétára csábítja a part mentén.\n\nDélben elérkezik a lenyűgöző Far Negre de l'Arenal világítótoronyhoz, amelynek sötét sziluettje csodálatos kontrasztot alkot a kék éggel és a tengerrel.\n\nDélután sétáljon tovább a Far Verd és Far Roig bájos világítótornyai felé, amelyek a kis halászhajókat irányítják biztonságosan a helyi kikötőbe.\n\nA nap a jellegzetes Escales al Mar lépcsőinél ér véget, ahol leülve a kövekre megcsodálhatja az alkonyat színeit a hullámok nyugtató hangja kíséretében.",
+        "ro": "Începeți ziua relaxat la Arenal de Borriana, unde briza proaspătă a mării vă trezește, iar nisipul auriu vă invită la o plimbare matinală liniștită.\n\nLa prânz, ajungeți la impresionantul Far Negre de l'Arenal, a cărui siluetă întunecată creează un contrast minunat cu cerul albastru și valurile.\n\nDupă-amiaza, continuați plimbarea către fermecătoarele faruri Far Verd și Far Roig, care ghidează în siguranță micile bărci de pescuit în port.\n\nZiua se încheie la distinctele Escales al Mar, unde vă puteți așeza pentru a savura culorile amurgului, acompaniat de sunetul liniștitor al valurilor.",
+        "en": "Begin your day feeling completely refreshed at the Arenal de Borriana, where the cool sea breeze awakens you and the golden sand invites a peaceful morning stroll.\n\nBy midday, you will reach the striking Far Negre de l'Arenal, its dark silhouette providing a stunning visual contrast against the bright blue sky and rolling waves.\n\nIn the afternoon, continue your pleasant seaside walk towards the charming Far Verd and Far Roig beacons, watching fishing boats navigate into the local harbor.\n\nThe day concludes beautifully at les Escales al Mar, where you can sit comfortably and enjoy the stunning twilight colors accompanied by the soothing sound of the sea."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:26",
+      "total_km": 5.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ermita de l’Ecce Homo",
+            "hu": "Ermita de l’Ecce Homo",
+            "ro": "Ermita de l’Ecce Homo",
+            "en": "Ermita de l’Ecce Homo"
+          },
+          "coords": [
+            -0.085317,
+            39.874912
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese friedliche Einsiedelei voller lokaler Hingabe; achten Sie besonders auf die feinen architektonischen Details am historischen Portal.",
+            "hu": "Látogassa meg ezt a helyi áhítattal teli békés remetelakot; fordítson különös figyelmet a történelmi portál finom építészeti részleteire a bejáratnál.",
+            "ro": "Vizitați acest schit pașnic plin de devotament local; acordați o atenție deosebită detaliilor arhitecturale fine de pe portalul istoric de la intrare.",
+            "en": "Visit this peaceful hermitage filled with deep local devotion; pay special attention to the fine architectural details carved into the historic entrance portal."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de Calatrava",
+            "hu": "Torre de Calatrava",
+            "ro": "Torre de Calatrava",
+            "en": "Torre de Calatrava"
+          },
+          "coords": [
+            -0.076452,
+            39.887549
+          ],
+          "category": "museum",
+          "arrive_at": "09:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen faszinierenden historischen Wachturm und sein Museum; steigen Sie die Treppen hinauf, um die faszinierende Ausstellung besser zu verstehen.",
+            "hu": "Fedezze fel ezt a lenyűgöző történelmi őrtornyot és a benne lévő múzeumot; másszon fel a lépcsőkön, hogy jobban megértse a hely izgalmas kiállítását.",
+            "ro": "Explorați acest turn de veghe istoric fascinant și muzeul său; urcați scările pentru a înțelege mai bine expoziția captivantă despre istoria apărării.",
+            "en": "Explore this fascinating historic watchtower and its engaging museum; climb the narrow stairs to fully appreciate the defensive history showcased inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditori Municipal Juan Varea",
+            "hu": "Auditori Municipal Juan Varea",
+            "ro": "Auditori Municipal Juan Varea",
+            "en": "Auditori Municipal Juan Varea"
+          },
+          "coords": [
+            -0.080548,
+            39.888317
+          ],
+          "category": "cultural",
+          "arrive_at": "11:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erleben Sie die kulturelle Atmosphäre dieses modernen Auditoriums; werfen Sie einen Blick auf das aktuelle Programm für spontane abendliche Vorstellungen.",
+            "hu": "Tapasztalja meg ennek a modern auditóriumnak a kulturális atmoszféráját; érdemes vetni egy pillantást az aktuális programra egy spontán esti előadásért.",
+            "ro": "Experimentați atmosfera culturală a acestui auditoriu modern; aruncați o privire pe programul actual pentru a prinde o reprezentație spontană de seară.",
+            "en": "Experience the vibrant cultural atmosphere of this modern auditorium; check the current event schedule outside for a chance to catch a spontaneous evening show."
+          }
+        },
+        {
+          "name": {
+            "de": "Hotel de les tortugues autòctones",
+            "hu": "Hotel de les tortugues autòctones",
+            "ro": "Hotel de les tortugues autòctones",
+            "en": "Hotel de les tortugues autòctones"
+          },
+          "coords": [
+            -0.057526,
+            39.88095
+          ],
+          "category": "recreational",
+          "arrive_at": "13:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses einzigartige Schutzgebiet für einheimische Schildkröten; verhalten Sie sich ruhig, um die empfindlichen Tiere in ihrem natürlichen Habitat zu sehen.",
+            "hu": "Fedezze fel ezt az egyedülálló menedékhelyet az őshonos teknősök számára; maradjon csendben, hogy megfigyelhesse az érzékeny állatokat természetes élőhelyükön.",
+            "ro": "Descoperiți acest sanctuar unic dedicat broaștelor țestoase autohtone; păstrați liniștea pentru a vedea aceste animale sensibile în habitatul lor natural.",
+            "en": "Discover this unique sanctuary dedicated to native local turtles; remain extremely quiet to spot these sensitive creatures thriving in their natural habitat."
+          }
+        },
+        {
+          "name": {
+            "de": "Molí",
+            "hu": "Molí",
+            "ro": "Molí",
+            "en": "Molí"
+          },
+          "coords": [
+            -0.056095,
+            39.879761
+          ],
+          "category": "museum",
+          "arrive_at": "14:28",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem alten Mühlenmuseum in die lokale Agrargeschichte ein; fragen Sie das Personal nach der faszinierenden Funktionsweise der antiken Maschinen.",
+            "hu": "Merüljön el a helyi agrártörténelemben ebben a régi malommúzeumban; kérdezze meg a személyzetet az antik gépek lenyűgöző működési mechanizmusairól.",
+            "ro": "Scufundați-vă în istoria agricolă locală în acest vechi muzeu al morii; întrebați personalul despre funcționarea fascinantă a mașinilor antice expuse.",
+            "en": "Dive into local agricultural history at this perfectly preserved old mill museum; ask the friendly staff to explain the fascinating mechanics of the antique machinery."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre del Mar",
+            "hu": "Torre del Mar",
+            "ro": "Torre del Mar",
+            "en": "Torre del Mar"
+          },
+          "coords": [
+            -0.05361,
+            39.878524
+          ],
+          "category": "tower",
+          "arrive_at": "16:09",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen alten Wehrturm in Strandnähe; nutzen Sie das weiche Nachmittagslicht für atemberaubende Fotografien der robusten Steinmauern.",
+            "hu": "Csodálja meg ezt a tengerpart közelében található régi védőtornyot; használja ki a lágy délutáni fényeket a robusztus kőfalak lélegzetelállító fotózásához.",
+            "ro": "Admirați acest vechi turn de apărare situat aproape de plajă; profitați de lumina blândă a după-amiezii pentru fotografii uluitoare ale zidurilor robuste din piatră.",
+            "en": "Admire this sturdy old defense tower located conveniently close to the beach; take advantage of the soft afternoon light for breathtaking photos of the stone walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Arenal de Borriana",
+            "hu": "Arenal de Borriana",
+            "ro": "Arenal de Borriana",
+            "en": "Arenal de Borriana"
+          },
+          "coords": [
+            -0.062091,
+            39.869229
+          ],
+          "category": "natural",
+          "arrive_at": "16:41",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Strand, der für seinen feinen Sand bekannt ist; kommen Sie früh, um die beste Aussicht aufs ruhige Meer zu genießen.",
+            "hu": "Pihenjen ezen a festői strandon, amely finom homokjáról ismert; érkezzen korán, hogy a legjobb kilátást élvezhesse a nyugodt tengerre és elkerülje a tömeget.",
+            "ro": "Relaxați-vă pe această plajă pitorească renumită pentru nisipul fin; ajungeți devreme pentru a vă bucura de cele mai bune priveliști ale mării calme și clare.",
+            "en": "Relax on this picturesque beach known for its fine sand; arrive early in the day to enjoy the best views of the calm sea and secure a prime spot near the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet kulturell an der ruhigen Ermita de l’Ecce Homo, bevor Sie zügig zum historischen Torre de Calatrava radeln, um dessen Museum zu erkunden.\n\nAm Mittag besuchen Sie das moderne Auditori Municipal Juan Varea. Danach geht es auf zwei Rädern durch die Straßen zum faszinierenden Hotel de les tortugues autòctones.\n\nDer Nachmittag steht ganz im Zeichen der Geschichte, wenn Sie das alte Molí Museum besuchen und anschließend zum robusten Torre del Mar an der Küste fahren.\n\nLassen Sie den erlebnisreichen Tag schließlich am weitläufigen Arenal de Borriana ausklingen, wo Sie bei einem entspannten Strandspaziergang die Seele baumeln lassen.",
+        "hu": "Kerékpártúrája a békés Ermita de l’Ecce Homo-nál indul, mielőtt eltekerne a történelmi Torre de Calatrava-hoz, hogy felfedezze annak érdekes múzeumát.\n\nDélben látogassa meg a modern Auditori Municipal Juan Varea-t. Ezután két keréken halad tovább a lenyűgöző Hotel de les tortugues autòctones teknősmenedékhelyre.\n\nA délután a történelemé: látogasson el a régi Molí múzeumba, majd tekerjen el a part mentén található robusztus Torre del Mar őrtoronyhoz.\n\nVégül zárja ezt az eseménydús napot a tágas Arenal de Borriana strandon, ahol egy pihentető séta során gyönyörködhet az esti tenger nyugodt szépségében.",
+        "ro": "Turul pe bicicletă începe cultural la pașnica Ermita de l’Ecce Homo, înainte de a pedala rapid spre istoricul Torre de Calatrava pentru a explora muzeul său.\n\nLa prânz, vizitați modernul Auditori Municipal Juan Varea. Apoi, mergeți pe două roți către fascinantul sanctuar Hotel de les tortugues autòctones.\n\nDupă-amiaza este dedicată istoriei, vizitând vechiul muzeu Molí, urmat de o plimbare scurtă până la robustul Torre del Mar situat aproape de coastă.\n\nÎncheiați ziua plină de evenimente pe întinsa plajă Arenal de Borriana, unde vă puteți relaxa sufletul cu o plimbare liniștită de seară pe nisip.",
+        "en": "Your cycling tour starts culturally at the peaceful Ermita de l’Ecce Homo, before you pedal briskly to the historic Torre de Calatrava to explore its engaging museum.\n\nAt midday, visit the modern Auditori Municipal Juan Varea. Afterward, ride your bike through the streets to the fascinating Hotel de les tortugues autòctones sanctuary.\n\nThe afternoon is dedicated to local history as you explore the old Molí museum and then ride to the sturdy Torre del Mar, perfectly positioned near the coastline.\n\nFinally, wind down your eventful day at the expansive Arenal de Borriana beach, where you can relax completely with a soothing evening stroll along the beautiful shoreline."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:48",
+      "total_km": 8.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Auditori Municipal Juan Varea",
+            "hu": "Auditori Municipal Juan Varea",
+            "ro": "Auditori Municipal Juan Varea",
+            "en": "Auditori Municipal Juan Varea"
+          },
+          "coords": [
+            -0.080548,
+            39.888317
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erleben Sie die kulturelle Atmosphäre dieses modernen Auditoriums; werfen Sie einen Blick auf das aktuelle Programm für spontane abendliche Vorstellungen.",
+            "hu": "Tapasztalja meg ennek a modern auditóriumnak a kulturális atmoszféráját; érdemes vetni egy pillantást az aktuális programra egy spontán esti előadásért.",
+            "ro": "Experimentați atmosfera culturală a acestui auditoriu modern; aruncați o privire pe programul actual pentru a prinde o reprezentație spontană de seară.",
+            "en": "Experience the vibrant cultural atmosphere of this modern auditorium; check the current event schedule outside for a chance to catch a spontaneous evening show."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de Calatrava",
+            "hu": "Torre de Calatrava",
+            "ro": "Torre de Calatrava",
+            "en": "Torre de Calatrava"
+          },
+          "coords": [
+            -0.076452,
+            39.887549
+          ],
+          "category": "museum",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen faszinierenden historischen Wachturm und sein Museum; steigen Sie die Treppen hinauf, um die faszinierende Ausstellung besser zu verstehen.",
+            "hu": "Fedezze fel ezt a lenyűgöző történelmi őrtornyot és a benne lévő múzeumot; másszon fel a lépcsőkön, hogy jobban megértse a hely izgalmas kiállítását.",
+            "ro": "Explorați acest turn de veghe istoric fascinant și muzeul său; urcați scările pentru a înțelege mai bine expoziția captivantă despre istoria apărării.",
+            "en": "Explore this fascinating historic watchtower and its engaging museum; climb the narrow stairs to fully appreciate the defensive history showcased inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita de l’Ecce Homo",
+            "hu": "Ermita de l’Ecce Homo",
+            "ro": "Ermita de l’Ecce Homo",
+            "en": "Ermita de l’Ecce Homo"
+          },
+          "coords": [
+            -0.085317,
+            39.874912
+          ],
+          "category": "religious",
+          "arrive_at": "12:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese friedliche Einsiedelei voller lokaler Hingabe; achten Sie besonders auf die feinen architektonischen Details am historischen Portal.",
+            "hu": "Látogassa meg ezt a helyi áhítattal teli békés remetelakot; fordítson különös figyelmet a történelmi portál finom építészeti részleteire a bejáratnál.",
+            "ro": "Vizitați acest schit pașnic plin de devotament local; acordați o atenție deosebită detaliilor arhitecturale fine de pe portalul istoric de la intrare.",
+            "en": "Visit this peaceful hermitage filled with deep local devotion; pay special attention to the fine architectural details carved into the historic entrance portal."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre del Mar",
+            "hu": "Torre del Mar",
+            "ro": "Torre del Mar",
+            "en": "Torre del Mar"
+          },
+          "coords": [
+            -0.05361,
+            39.878524
+          ],
+          "category": "tower",
+          "arrive_at": "13:04",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen alten Wehrturm in Strandnähe; nutzen Sie das weiche Nachmittagslicht für atemberaubende Fotografien der robusten Steinmauern.",
+            "hu": "Csodálja meg ezt a tengerpart közelében található régi védőtornyot; használja ki a lágy délutáni fényeket a robusztus kőfalak lélegzetelállító fotózásához.",
+            "ro": "Admirați acest vechi turn de apărare situat aproape de plajă; profitați de lumina blândă a după-amiezii pentru fotografii uluitoare ale zidurilor robuste din piatră.",
+            "en": "Admire this sturdy old defense tower located conveniently close to the beach; take advantage of the soft afternoon light for breathtaking photos of the stone walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Molí",
+            "hu": "Molí",
+            "ro": "Molí",
+            "en": "Molí"
+          },
+          "coords": [
+            -0.056095,
+            39.879761
+          ],
+          "category": "museum",
+          "arrive_at": "13:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem alten Mühlenmuseum in die lokale Agrargeschichte ein; fragen Sie das Personal nach der faszinierenden Funktionsweise der antiken Maschinen.",
+            "hu": "Merüljön el a helyi agrártörténelemben ebben a régi malommúzeumban; kérdezze meg a személyzetet az antik gépek lenyűgöző működési mechanizmusairól.",
+            "ro": "Scufundați-vă în istoria agricolă locală în acest vechi muzeu al morii; întrebați personalul despre funcționarea fascinantă a mașinilor antice expuse.",
+            "en": "Dive into local agricultural history at this perfectly preserved old mill museum; ask the friendly staff to explain the fascinating mechanics of the antique machinery."
+          }
+        },
+        {
+          "name": {
+            "de": "Hotel de les tortugues autòctones",
+            "hu": "Hotel de les tortugues autòctones",
+            "ro": "Hotel de les tortugues autòctones",
+            "en": "Hotel de les tortugues autòctones"
+          },
+          "coords": [
+            -0.057526,
+            39.88095
+          ],
+          "category": "recreational",
+          "arrive_at": "15:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses einzigartige Schutzgebiet für einheimische Schildkröten; verhalten Sie sich ruhig, um die empfindlichen Tiere in ihrem natürlichen Habitat zu sehen.",
+            "hu": "Fedezze fel ezt az egyedülálló menedékhelyet az őshonos teknősök számára; maradjon csendben, hogy megfigyelhesse az érzékeny állatokat természetes élőhelyükön.",
+            "ro": "Descoperiți acest sanctuar unic dedicat broaștelor țestoase autohtone; păstrați liniștea pentru a vedea aceste animale sensibile în habitatul lor natural.",
+            "en": "Discover this unique sanctuary dedicated to native local turtles; remain extremely quiet to spot these sensitive creatures thriving in their natural habitat."
+          }
+        },
+        {
+          "name": {
+            "de": "Arenal de Borriana",
+            "hu": "Arenal de Borriana",
+            "ro": "Arenal de Borriana",
+            "en": "Arenal de Borriana"
+          },
+          "coords": [
+            -0.062091,
+            39.869229
+          ],
+          "category": "natural",
+          "arrive_at": "16:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Strand, der für seinen feinen Sand bekannt ist; kommen Sie früh, um die beste Aussicht aufs ruhige Meer zu genießen.",
+            "hu": "Pihenjen ezen a festői strandon, amely finom homokjáról ismert; érkezzen korán, hogy a legjobb kilátást élvezhesse a nyugodt tengerre és elkerülje a tömeget.",
+            "ro": "Relaxați-vă pe această plajă pitorească renumită pentru nisipul fin; ajungeți devreme pentru a vă bucura de cele mai bune priveliști ale mării calme și clare.",
+            "en": "Relax on this picturesque beach known for its fine sand; arrive early in the day to enjoy the best views of the calm sea and secure a prime spot near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Far Negre de l'Arenal",
+            "hu": "Far Negre de l'Arenal",
+            "ro": "Far Negre de l'Arenal",
+            "en": "Far Negre de l'Arenal"
+          },
+          "coords": [
+            -0.062651,
+            39.860878
+          ],
+          "category": "landmark",
+          "arrive_at": "17:53",
+          "stay_min": 55,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen markanten schwarzen Leuchtturm, der die Küstengeschichte prägt; fotografieren Sie ihn am besten mit dem azurblauen Meer im Hintergrund.",
+            "hu": "Csodálja meg ezt a lenyűgöző fekete világítótornyot, amely a parti történelmet őrzi; a legjobb fotókat az azúrkék tengerrel a háttérben készítheti el.",
+            "ro": "Admirați acest far negru impresionant care marchează istoria de coastă; fotografiați-l cu marea de un albastru azuriu în fundal pentru un contrast perfect.",
+            "en": "Admire this striking black lighthouse that defines local maritime history; photograph it with the azure sea in the background for the perfect visual contrast."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der motorisierte Ausflug beginnt am modernen Auditori Municipal Juan Varea, gefolgt von einem kurzen Spaziergang zum faszinierenden historischen Torre de Calatrava.\n\nGegen Mittag fahren Sie zur friedlichen Ermita de l’Ecce Homo. Danach bringt Sie Ihr Auto zum robusten Torre del Mar, einem stummen Zeugen der Küstenverteidigung.\n\nNachmittags erkunden Sie die Agrargeschichte im Molí Museum und beobachten anschließend im Hotel de les tortugues autòctones die faszinierenden einheimischen Schildkröten.\n\nDer Abend wird magisch: Nach entspannten Momenten am Arenal de Borriana bewundern Sie den ikonischen Far Negre de l'Arenal, der stolz in der Dämmerung leuchtet.",
+        "hu": "A motoros kirándulás a modern Auditori Municipal Juan Varea-nál kezdődik, amelyet egy rövid séta követ a lenyűgöző történelmi Torre de Calatrava múzeumához.\n\nDélben a békés Ermita de l’Ecce Homo-hoz hajt. Ezután autója a part menti védelem néma tanújához, a robusztus Torre del Mar őrtoronyhoz viszi.\n\nDélután fedezze fel az agrártörténelmet a Molí múzeumban, majd figyelje meg az őshonos teknősöket a Hotel de les tortugues autòctones menedékhelyen.\n\nAz este varázslatos lesz: az Arenal de Borriana pihentető pillanatai után csodálja meg az ikonikus Far Negre de l'Arenal-t, amely büszkén áll az alkonyatban.",
+        "ro": "Excursia motorizată începe la modernul Auditori Municipal Juan Varea, urmată de o scurtă plimbare până la fascinantul turn istoric Torre de Calatrava.\n\nLa prânz, conduceți către pașnica Ermita de l’Ecce Homo. Apoi, mașina vă duce la robustul Torre del Mar, un martor tăcut al apărării coastei.\n\nDupă-amiaza explorați istoria agricolă la muzeul Molí și apoi observați fascinantele broaște țestoase autohtone la Hotel de les tortugues autòctones.\n\nSeara devine magică: după momente de relaxare la Arenal de Borriana, admirați iconicul Far Negre de l'Arenal, care strălucește mândru în lumina crepusculului.",
+        "en": "Your driving adventure begins at the modern Auditori Municipal Juan Varea, followed by a short, pleasant walk to the fascinating historic Torre de Calatrava museum.\n\nAround midday, drive to the peaceful Ermita de l’Ecce Homo. Then, your car takes you directly to the sturdy Torre del Mar, a silent witness to coastal defense.\n\nIn the afternoon, explore local agricultural history at the Molí museum before observing the fascinating native turtles thriving at the Hotel de les tortugues autòctones.\n\nThe evening is truly magical: after relaxing moments at the Arenal de Borriana, admire the iconic Far Negre de l'Arenal standing proudly against the twilight sky."
+      }
+    }
+  }
+}

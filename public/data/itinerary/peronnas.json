@@ -1,0 +1,520 @@
+{
+  "city_id": "peronnas",
+  "anchor": {
+    "name": "Péronnas",
+    "coords": [
+      5.2028,
+      46.1786
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:54",
+      "total_km": 5.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Eusèbe",
+            "hu": "Église Saint-Eusèbe",
+            "ro": "Église Saint-Eusèbe",
+            "en": "Église Saint-Eusèbe"
+          },
+          "coords": [
+            5.197495,
+            46.181502
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses Wahrzeichens, dessen ruhige Atmosphäre ideal für eine kurze Pause ist, also prüfen Sie die Öffnungszeiten am Pfarrbrett.",
+            "hu": "Csodálja meg e vallási nevezetesség békés építészetét, melynek nyugodt légköre tökéletes egy csendes pillanatra, ezért ellenőrizze a nyitvatartást a táblán.",
+            "ro": "Admirați arhitectura liniștită a acestui reper religios, a cărui atmosferă calmă este perfectă pentru o pauză, așa că verificați orarul pe panoul parohial.",
+            "en": "Admire the tranquil architecture of this local religious landmark, whose calm atmosphere is perfect for a quiet moment, so check the open hours on the parish board."
+          }
+        },
+        {
+          "name": {
+            "de": "La Vernée Castle",
+            "hu": "La Vernée kastély",
+            "ro": "Castelul La Vernée",
+            "en": "La Vernée Castle"
+          },
+          "coords": [
+            5.179919,
+            46.172624
+          ],
+          "category": "historical",
+          "arrive_at": "10:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Gelände dieses eleganten Anwesens, das Einblicke ins adelige Leben bietet, aber bleiben Sie beim Fotografieren auf den öffentlichen Wegen.",
+            "hu": "Fedezze fel ezen elegáns birtok történelmi parkját, mely bepillantást enged a nemesi életbe, de fényképezéskor ügyeljen arra, hogy a kijelölt ösvényeken maradjon.",
+            "ro": "Explorați domeniul istoric al acestei moșii elegante, care oferă o privire în viața nobilimii regionale, dar rămâneți pe cărările publice în timp ce fotografiați.",
+            "en": "Explore the historical grounds of this elegant estate, which offers a glimpse into regional noble life, but remember to stay on the public paths while photographing."
+          }
+        },
+        {
+          "name": {
+            "de": "Ludilucky",
+            "hu": "Ludilucky",
+            "ro": "Ludilucky",
+            "en": "Ludilucky"
+          },
+          "coords": [
+            5.195908,
+            46.170771
+          ],
+          "category": "family",
+          "arrive_at": "11:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder auf diesem familienfreundlichen Spielplatz Energie abbauen, der tolle Anlagen bietet, also bringen Sie unbedingt Wasser und bequeme Schuhe mit.",
+            "hu": "Hagyja, hogy a gyerekek levezessék energiájukat ezen a nagyszerű családi játszótéren, így érdemes vizet és kényelmes cipőt hozni a hosszas kikapcsolódáshoz.",
+            "ro": "Lăsați copiii să-și consume energia la acest loc de joacă, care oferă facilități de recreere grozave, fiind recomandat să aduceți apă și încălțăminte confortabilă.",
+            "en": "Let the kids burn off energy at this family-friendly play area, which boasts great recreational facilities, making it wise to bring some water and comfortable shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Espace naturel sensible de la forêt de Seillon",
+            "hu": "Espace naturel sensible de la forêt de Seillon",
+            "ro": "Espace naturel sensible de la forêt de Seillon",
+            "en": "Espace naturel sensible de la forêt de Seillon"
+          },
+          "coords": [
+            5.215054,
+            46.168
+          ],
+          "category": "natural",
+          "arrive_at": "13:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Atmen Sie die frische Luft in diesem Naturschutzgebiet ein, einem Rückzugsort für die lokale Tierwelt, und achten Sie darauf, stets die markierten Wege zu nutzen.",
+            "hu": "Szívja magába a friss levegőt ezen az érzékeny természeti területen, mely a helyi élővilág menedéke, és mindig tartsa tiszteletben a kijelölt természetvédelmi utakat.",
+            "ro": "Respirați aerul proaspăt în această zonă naturală sensibilă, un sanctuar pentru flora locală, și asigurați-vă că respectați mereu traseele de conservare marcate.",
+            "en": "Breathe in the fresh air at this sensitive natural area, a sanctuary for local flora and fauna, and make sure to respect the marked conservation trails at all times."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Saix",
+            "hu": "Château de Saix",
+            "ro": "Château de Saix",
+            "en": "Château de Saix"
+          },
+          "coords": [
+            5.223549,
+            46.164477
+          ],
+          "category": "castle",
+          "arrive_at": "15:04",
+          "stay_min": 110,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die klassischen Fassaden dieses historischen Schlosses, das das reiche Erbe der Region widerspiegelt, obwohl man es am besten von außen bewundern sollte.",
+            "hu": "Csodálja meg e történelmi kastély klasszikus homlokzatát, mely a régió gazdag örökségét tükrözi, bár leginkább egy kellemes séta keretében, kívülről élvezhető igazán.",
+            "ro": "Minunați-vă de fațadele clasice ale acestui castel istoric, reflectând moștenirea bogată, deși este cel mai bine admirat de la exterior în timpul unei plimbări ușoare.",
+            "en": "Marvel at the classical facades of this historic castle, reflecting the rich heritage of the area, though it is best enjoyed from the exterior during a gentle stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Rundgang durch Péronnas beginnt im Zentrum der Gemeinde an der friedlichen Église Saint-Eusèbe. Die Morgenluft sorgt für einen ruhigen Start in den Tag. \n Gegen Mittag schlendern Sie westwärts zum La Vernée Castle, um historische Atmosphäre zu schnuppern, gefolgt von etwas Spaß im Ludilucky. \n Der Nachmittag führt Sie in die Natur, wenn Sie durch das Espace naturel sensible de la forêt de Seillon wandern und die Waldluft genießen. \n Sie beenden Ihre Wanderung am imposanten Château de Saix, einem passenden historischen Abschluss für diesen Tag voller lokaler Entdeckungen.",
+        "hu": "Péronnas-i gyalogtúrája a közösség szívében, a békés Église Saint-Eusèbe-nél veszi kezdetét. A reggeli levegő nyugodt alaphangot ad az előttünk álló útnak. \n Ahogy közeledik a dél, nyugat felé sétál a La Vernée kastélyhoz a történelmi hangulatért, amit egy kis könnyed szórakozás követ a Ludilucky-ban. \n A délután a természetbe vezet, miközben az Espace naturel sensible de la forêt de Seillon erdejében túrázva élvezi a friss, erdei illatokat. \n Gyalogos útját az impozáns Château de Saix-nál fejezi be, amely méltó történelmi lezárása a helyi örökség felfedezésével töltött napnak.",
+        "ro": "Turul pietonal din Péronnas începe în inima comunității la pașnica Église Saint-Eusèbe. Aerul dimineții stabilește un ton liniștit pentru călătoria ce urmează. \n Pe măsură ce se apropie prânzul, vă veți plimba spre vest, la Castelul La Vernée, pentru a absorbi vibrațiile istorice, urmat de puțină distracție la Ludilucky. \n După-amiaza face tranziția către natură, în timp ce faceți drumeții prin Espace naturel sensible, respirând aromele proaspete ale pădurii. \n Vă veți încheia călătoria pe jos la impunătorul Château de Saix, un final istoric potrivit pentru o zi petrecută explorând patrimoniul local.",
+        "en": "Your walking tour of Péronnas begins at the heart of the community with the peaceful Église Saint-Eusèbe. The morning air sets a tranquil tone for the journey ahead. \n As midday approaches, you will stroll westward toward La Vernée Castle, soaking in the historical vibes, followed by some lighthearted fun at Ludilucky. \n The afternoon transitions into nature as you hike through the Espace naturel sensible de la forêt de Seillon, breathing in the fresh woodland scents. \n You will conclude your foot journey at the imposing Château de Saix, a fitting historical finale to a day spent exploring local heritage."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:50",
+      "total_km": 8.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Eusèbe",
+            "hu": "Église Saint-Eusèbe",
+            "ro": "Église Saint-Eusèbe",
+            "en": "Église Saint-Eusèbe"
+          },
+          "coords": [
+            5.197495,
+            46.181502
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses Wahrzeichens, dessen ruhige Atmosphäre ideal für eine kurze Pause ist, also prüfen Sie die Öffnungszeiten am Pfarrbrett.",
+            "hu": "Csodálja meg e vallási nevezetesség békés építészetét, melynek nyugodt légköre tökéletes egy csendes pillanatra, ezért ellenőrizze a nyitvatartást a táblán.",
+            "ro": "Admirați arhitectura liniștită a acestui reper religios, a cărui atmosferă calmă este perfectă pentru o pauză, așa că verificați orarul pe panoul parohial.",
+            "en": "Admire the tranquil architecture of this local religious landmark, whose calm atmosphere is perfect for a quiet moment, so check the open hours on the parish board."
+          }
+        },
+        {
+          "name": {
+            "de": "La Vernée Castle",
+            "hu": "La Vernée kastély",
+            "ro": "Castelul La Vernée",
+            "en": "La Vernée Castle"
+          },
+          "coords": [
+            5.179919,
+            46.172624
+          ],
+          "category": "historical",
+          "arrive_at": "10:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Gelände dieses eleganten Anwesens, das Einblicke ins adelige Leben bietet, aber bleiben Sie beim Fotografieren auf den öffentlichen Wegen.",
+            "hu": "Fedezze fel ezen elegáns birtok történelmi parkját, mely bepillantást enged a nemesi életbe, de fényképezéskor ügyeljen arra, hogy a kijelölt ösvényeken maradjon.",
+            "ro": "Explorați domeniul istoric al acestei moșii elegante, care oferă o privire în viața nobilimii regionale, dar rămâneți pe cărările publice în timp ce fotografiați.",
+            "en": "Explore the historical grounds of this elegant estate, which offers a glimpse into regional noble life, but remember to stay on the public paths while photographing."
+          }
+        },
+        {
+          "name": {
+            "de": "Ludilucky",
+            "hu": "Ludilucky",
+            "ro": "Ludilucky",
+            "en": "Ludilucky"
+          },
+          "coords": [
+            5.195908,
+            46.170771
+          ],
+          "category": "family",
+          "arrive_at": "11:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder auf diesem familienfreundlichen Spielplatz Energie abbauen, der tolle Anlagen bietet, also bringen Sie unbedingt Wasser und bequeme Schuhe mit.",
+            "hu": "Hagyja, hogy a gyerekek levezessék energiájukat ezen a nagyszerű családi játszótéren, így érdemes vizet és kényelmes cipőt hozni a hosszas kikapcsolódáshoz.",
+            "ro": "Lăsați copiii să-și consume energia la acest loc de joacă, care oferă facilități de recreere grozave, fiind recomandat să aduceți apă și încălțăminte confortabilă.",
+            "en": "Let the kids burn off energy at this family-friendly play area, which boasts great recreational facilities, making it wise to bring some water and comfortable shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Bécassinière",
+            "hu": "Château de la Bécassinière",
+            "ro": "Château de la Bécassinière",
+            "en": "Château de la Bécassinière"
+          },
+          "coords": [
+            5.218956,
+            46.159814
+          ],
+          "category": "castle",
+          "arrive_at": "12:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie den ländlichen Charme rund um dieses weniger bekannte Schloss, das als stummer Zeuge der Geschichte dient und eine tolle Kulisse für Landschaftsfotos ist.",
+            "hu": "Fedezze fel e kevésbé ismert kastélyt övező vidéki bájt, mely a történelem néma tanújaként áll, így nagyszerű hátteret biztosít a tájképfotózás szerelmeseinek.",
+            "ro": "Descoperiți farmecul rural din jurul acestui castel mai puțin cunoscut, un martor tăcut al istoriei, care servește drept fundal excelent pentru fotografia de peisaj.",
+            "en": "Discover the rural charm surrounding this lesser-known chateau, which stands as a silent witness to history, making it a great backdrop for your landscape photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Saix",
+            "hu": "Château de Saix",
+            "ro": "Château de Saix",
+            "en": "Château de Saix"
+          },
+          "coords": [
+            5.223549,
+            46.164477
+          ],
+          "category": "castle",
+          "arrive_at": "14:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die klassischen Fassaden dieses historischen Schlosses, das das reiche Erbe der Region widerspiegelt, obwohl man es am besten von außen bewundern sollte.",
+            "hu": "Csodálja meg e történelmi kastély klasszikus homlokzatát, mely a régió gazdag örökségét tükrözi, bár leginkább egy kellemes séta keretében, kívülről élvezhető igazán.",
+            "ro": "Minunați-vă de fațadele clasice ale acestui castel istoric, reflectând moștenirea bogată, deși este cel mai bine admirat de la exterior în timpul unei plimbări ușoare.",
+            "en": "Marvel at the classical facades of this historic castle, reflecting the rich heritage of the area, though it is best enjoyed from the exterior during a gentle stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Espace naturel sensible de la forêt de Seillon",
+            "hu": "Espace naturel sensible de la forêt de Seillon",
+            "ro": "Espace naturel sensible de la forêt de Seillon",
+            "en": "Espace naturel sensible de la forêt de Seillon"
+          },
+          "coords": [
+            5.215054,
+            46.168
+          ],
+          "category": "natural",
+          "arrive_at": "15:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Atmen Sie die frische Luft in diesem Naturschutzgebiet ein, einem Rückzugsort für die lokale Tierwelt, und achten Sie darauf, stets die markierten Wege zu nutzen.",
+            "hu": "Szívja magába a friss levegőt ezen az érzékeny természeti területen, mely a helyi élővilág menedéke, és mindig tartsa tiszteletben a kijelölt természetvédelmi utakat.",
+            "ro": "Respirați aerul proaspăt în această zonă naturală sensibilă, un sanctuar pentru flora locală, și asigurați-vă că respectați mereu traseele de conservare marcate.",
+            "en": "Breathe in the fresh air at this sensitive natural area, a sanctuary for local flora and fauna, and make sure to respect the marked conservation trails at all times."
+          }
+        },
+        {
+          "name": {
+            "de": "Seillon Forest",
+            "hu": "Seillon erdő",
+            "ro": "Pădurea Seillon",
+            "en": "Seillon Forest"
+          },
+          "coords": [
+            5.234902,
+            46.171588
+          ],
+          "category": "natural",
+          "arrive_at": "17:05",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die dichten Wälder dieses riesigen Forstes ein, der für seine alten Eichen bekannt ist, und bringen Sie Insektenspray für eine ungestörte Wanderung mit.",
+            "hu": "Merüljön el e kiterjedt erdő sűrű vadonjában, mely ősi tölgyfáiról híres, és ne felejtsen el rovarriasztót hozni egy zavartalan, természetközeli túrához a fák között.",
+            "ro": "Cufundați-vă în pădurile dense ale acestei zone expansive, faimoasă pentru stejarii săi seculari, și aduceți spray împotriva insectelor pentru o drumeție liniștită.",
+            "en": "Immerse yourself in the dense woodlands of this expansive forest, famous for its ancient oak trees, and bring bug spray to enjoy an uninterrupted hike in nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihr Fahrradabenteuer an der Église Saint-Eusèbe und genießen Sie die ruhige Morgenatmosphäre. \n Fahren Sie flott zum La Vernée Castle für einen Hauch von regionalem Adel und radeln Sie dann für eine spielerische Pause zum Ludilucky. \n Am Nachmittag treten Sie in die Pedale zum Château de la Bécassinière und Château de Saix und bewundern die historische Architektur. \n Lassen Sie den Tag ausklingen, indem Sie in das weitläufige Grün des Seillon Forest eintauchen, wo die alten Bäume ein herrliches Blätterdach bieten.",
+        "hu": "Kezdje kerékpáros kalandját az Église Saint-Eusèbe-nél, élvezve a derűs reggeli atmoszférát. \n Tekerjen tempósan a La Vernée kastélyhoz egy kis nemesi hangulatért, majd guruljon el a Ludilucky-hoz egy játékos pihenőre. \n Délután folytassa útját a Château de la Bécassinière és a Château de Saix felé, megcsodálva a csendes utakon megbúvó történelmi építészetet. \n Zárja a napot a Seillon erdő kiterjedt zöldjében, ahol az ősi fák fenséges lombkoronát biztosítanak a túra utolsó kilométereihez.",
+        "ro": "Începeți aventura pe bicicletă la Église Saint-Eusèbe, îmbrățișând atmosfera senină a dimineții. \n Călătoriți alert către Castelul La Vernée pentru o notă de noblețe, apoi pedalați spre Ludilucky pentru o pauză jucăușă. \n După-amiaza, mergeți la Château de la Bécassinière și Château de Saix, minunându-vă de arhitectura istorică păstrată de-a lungul drumurilor. \n Încheiați ziua scufundându-vă în verdeața vastă a Pădurii Seillon, unde copacii seculari oferă un baldachin magnific pentru ultimii kilometri.",
+        "en": "Kickstart your cycling adventure at Église Saint-Eusèbe, embracing the serene morning atmosphere. \n Ride briskly to La Vernée Castle for a touch of regional nobility, then cycle to Ludilucky for a playful break. \n In the afternoon, pedal your way to Château de la Bécassinière and Château de Saix, marveling at the preserved historical architecture along the quiet roads. \n Wrap up the day by immersing yourself in the sprawling greenery of Seillon Forest, where the ancient trees provide a magnificent canopy for your final miles."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:45",
+      "total_km": 11.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "La Vernée Castle",
+            "hu": "La Vernée kastély",
+            "ro": "Castelul La Vernée",
+            "en": "La Vernée Castle"
+          },
+          "coords": [
+            5.179919,
+            46.172624
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Gelände dieses eleganten Anwesens, das Einblicke ins adelige Leben bietet, aber bleiben Sie beim Fotografieren auf den öffentlichen Wegen.",
+            "hu": "Fedezze fel ezen elegáns birtok történelmi parkját, mely bepillantást enged a nemesi életbe, de fényképezéskor ügyeljen arra, hogy a kijelölt ösvényeken maradjon.",
+            "ro": "Explorați domeniul istoric al acestei moșii elegante, care oferă o privire în viața nobilimii regionale, dar rămâneți pe cărările publice în timp ce fotografiați.",
+            "en": "Explore the historical grounds of this elegant estate, which offers a glimpse into regional noble life, but remember to stay on the public paths while photographing."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Eusèbe",
+            "hu": "Église Saint-Eusèbe",
+            "ro": "Église Saint-Eusèbe",
+            "en": "Église Saint-Eusèbe"
+          },
+          "coords": [
+            5.197495,
+            46.181502
+          ],
+          "category": "religious",
+          "arrive_at": "10:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses Wahrzeichens, dessen ruhige Atmosphäre ideal für eine kurze Pause ist, also prüfen Sie die Öffnungszeiten am Pfarrbrett.",
+            "hu": "Csodálja meg e vallási nevezetesség békés építészetét, melynek nyugodt légköre tökéletes egy csendes pillanatra, ezért ellenőrizze a nyitvatartást a táblán.",
+            "ro": "Admirați arhitectura liniștită a acestui reper religios, a cărui atmosferă calmă este perfectă pentru o pauză, așa că verificați orarul pe panoul parohial.",
+            "en": "Admire the tranquil architecture of this local religious landmark, whose calm atmosphere is perfect for a quiet moment, so check the open hours on the parish board."
+          }
+        },
+        {
+          "name": {
+            "de": "Ludilucky",
+            "hu": "Ludilucky",
+            "ro": "Ludilucky",
+            "en": "Ludilucky"
+          },
+          "coords": [
+            5.195908,
+            46.170771
+          ],
+          "category": "family",
+          "arrive_at": "11:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder auf diesem familienfreundlichen Spielplatz Energie abbauen, der tolle Anlagen bietet, also bringen Sie unbedingt Wasser und bequeme Schuhe mit.",
+            "hu": "Hagyja, hogy a gyerekek levezessék energiájukat ezen a nagyszerű családi játszótéren, így érdemes vizet és kényelmes cipőt hozni a hosszas kikapcsolódáshoz.",
+            "ro": "Lăsați copiii să-și consume energia la acest loc de joacă, care oferă facilități de recreere grozave, fiind recomandat să aduceți apă și încălțăminte confortabilă.",
+            "en": "Let the kids burn off energy at this family-friendly play area, which boasts great recreational facilities, making it wise to bring some water and comfortable shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Bécassinière",
+            "hu": "Château de la Bécassinière",
+            "ro": "Château de la Bécassinière",
+            "en": "Château de la Bécassinière"
+          },
+          "coords": [
+            5.218956,
+            46.159814
+          ],
+          "category": "castle",
+          "arrive_at": "12:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie den ländlichen Charme rund um dieses weniger bekannte Schloss, das als stummer Zeuge der Geschichte dient und eine tolle Kulisse für Landschaftsfotos ist.",
+            "hu": "Fedezze fel e kevésbé ismert kastélyt övező vidéki bájt, mely a történelem néma tanújaként áll, így nagyszerű hátteret biztosít a tájképfotózás szerelmeseinek.",
+            "ro": "Descoperiți farmecul rural din jurul acestui castel mai puțin cunoscut, un martor tăcut al istoriei, care servește drept fundal excelent pentru fotografia de peisaj.",
+            "en": "Discover the rural charm surrounding this lesser-known chateau, which stands as a silent witness to history, making it a great backdrop for your landscape photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Saix",
+            "hu": "Château de Saix",
+            "ro": "Château de Saix",
+            "en": "Château de Saix"
+          },
+          "coords": [
+            5.223549,
+            46.164477
+          ],
+          "category": "castle",
+          "arrive_at": "13:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die klassischen Fassaden dieses historischen Schlosses, das das reiche Erbe der Region widerspiegelt, obwohl man es am besten von außen bewundern sollte.",
+            "hu": "Csodálja meg e történelmi kastély klasszikus homlokzatát, mely a régió gazdag örökségét tükrözi, bár leginkább egy kellemes séta keretében, kívülről élvezhető igazán.",
+            "ro": "Minunați-vă de fațadele clasice ale acestui castel istoric, reflectând moștenirea bogată, deși este cel mai bine admirat de la exterior în timpul unei plimbări ușoare.",
+            "en": "Marvel at the classical facades of this historic castle, reflecting the rich heritage of the area, though it is best enjoyed from the exterior during a gentle stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Espace naturel sensible de la forêt de Seillon",
+            "hu": "Espace naturel sensible de la forêt de Seillon",
+            "ro": "Espace naturel sensible de la forêt de Seillon",
+            "en": "Espace naturel sensible de la forêt de Seillon"
+          },
+          "coords": [
+            5.215054,
+            46.168
+          ],
+          "category": "natural",
+          "arrive_at": "15:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Atmen Sie die frische Luft in diesem Naturschutzgebiet ein, einem Rückzugsort für die lokale Tierwelt, und achten Sie darauf, stets die markierten Wege zu nutzen.",
+            "hu": "Szívja magába a friss levegőt ezen az érzékeny természeti területen, mely a helyi élővilág menedéke, és mindig tartsa tiszteletben a kijelölt természetvédelmi utakat.",
+            "ro": "Respirați aerul proaspăt în această zonă naturală sensibilă, un sanctuar pentru flora locală, și asigurați-vă că respectați mereu traseele de conservare marcate.",
+            "en": "Breathe in the fresh air at this sensitive natural area, a sanctuary for local flora and fauna, and make sure to respect the marked conservation trails at all times."
+          }
+        },
+        {
+          "name": {
+            "de": "Seillon Forest",
+            "hu": "Seillon erdő",
+            "ro": "Pădurea Seillon",
+            "en": "Seillon Forest"
+          },
+          "coords": [
+            5.234902,
+            46.171588
+          ],
+          "category": "natural",
+          "arrive_at": "16:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die dichten Wälder dieses riesigen Forstes ein, der für seine alten Eichen bekannt ist, und bringen Sie Insektenspray für eine ungestörte Wanderung mit.",
+            "hu": "Merüljön el e kiterjedt erdő sűrű vadonjában, mely ősi tölgyfáiról híres, és ne felejtsen el rovarriasztót hozni egy zavartalan, természetközeli túrához a fák között.",
+            "ro": "Cufundați-vă în pădurile dense ale acestei zone expansive, faimoasă pentru stejarii săi seculari, și aduceți spray împotriva insectelor pentru o drumeție liniștită.",
+            "en": "Immerse yourself in the dense woodlands of this expansive forest, famous for its ancient oak trees, and bring bug spray to enjoy an uninterrupted hike in nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de Bouvent",
+            "hu": "Lac de Bouvent",
+            "ro": "Lacul Bouvent",
+            "en": "Lac de Bouvent"
+          },
+          "coords": [
+            5.264413,
+            46.191159
+          ],
+          "category": "natural",
+          "arrive_at": "18:00",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den schimmernden Wassern dieses schönen Sees, der viele Wasseraktivitäten bietet, was ihn zum idealen Endpunkt vor dem Sonnenuntergang macht.",
+            "hu": "Pihenjen meg e gyönyörű tó csillogó vizénél, mely számos vízi tevékenységet kínál, így ideális utolsó állomás lehet egy hosszú nap után, még naplemente előtt.",
+            "ro": "Relaxați-vă pe malul apelor strălucitoare ale acestui lac frumos, care oferă numeroase activități, fiind o oprire finală ideală înainte ca soarele să apună complet.",
+            "en": "Relax by the shimmering waters of this beautiful lake, offering numerous water activities, making it an ideal final stop if you arrive before the sunset fades."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt am La Vernée Castle und taucht im Licht der Morgensonne direkt in die aristokratische Geschichte der Region ein. \n Eine kurze Fahrt bringt Sie zur charmanten Église Saint-Eusèbe, gefolgt von familienorientierter Freizeit im Ludilucky vor dem Mittagessen. \n Der Nachmittag verbindet Sie mit den südlichen Anwesen Château de la Bécassinière und Château de Saix, wo sich landschaftliches Fahren mit Entdeckungen paart. \n Der Tag klingt sanft aus mit einer Fahrt in den Seillon Forest und schließlich zum Lac de Bouvent für eine erfrischende Abenddämmerung.",
+        "hu": "Autós útja a La Vernée kastélynál kezdődik, ahol a reggeli napsütésben egyenesen a régió arisztokratikus történelmébe csöppenhet. \n Egy rövid út vezet a bájos Église Saint-Eusèbe-hez, melyet a Ludilucky családbarát kikapcsolódása követ még ebéd előtt. \n A délutáni kocsikázás során felfedezheti a déli Château de la Bécassinière és Château de Saix birtokokat, ötvözve a festői utat az építészettel. \n A nap méltó lezárásaként vezessen be a Seillon erdőbe, majd végül a Lac de Bouvent tóhoz, ahol egy frissítő vízparti alkonyat várja.",
+        "ro": "Călătoria cu mașina începe la Castelul La Vernée, scufundându-vă direct în istoria aristocratică a regiunii sub soarele dimineții. \n Un scurt drum vă duce la fermecătoarea Église Saint-Eusèbe, urmată de timp liber orientat spre familie la Ludilucky înainte de prânz. \n Excursia de după-amiază vă conectează cu moșiile sudice Château de la Bécassinière și Château de Saix, îmbinând condusul pitoresc cu descoperirea. \n Ziua se încheie grațios cu o plimbare spre Pădurea Seillon și, în final, la Lac de Bouvent pentru un amurg răcoritor pe malul apei.",
+        "en": "Your drive begins at La Vernée Castle, plunging straight into the aristocratic history of the region as the morning sun rises. \n A short drive takes you to the charming Église Saint-Eusèbe, followed by family-oriented leisure time at Ludilucky before lunch. \n The afternoon road trip connects you with the southern estates of Château de la Bécassinière and Château de Saix, blending scenic driving with architectural discovery. \n The day gracefully winds down with a drive into Seillon Forest and eventually to Lac de Bouvent for a refreshing lakeside twilight."
+      }
+    }
+  }
+}

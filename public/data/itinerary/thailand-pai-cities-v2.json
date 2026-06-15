@@ -1,0 +1,474 @@
+{
+  "city_id": "thailand-pai-cities-v2",
+  "anchor": {
+    "name": "Pai",
+    "coords": [
+      98.440579,
+      19.358106
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:02",
+      "total_km": 2.23,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Wat Luang",
+            "hu": "Wat Luang",
+            "ro": "Wat Luang",
+            "en": "Wat Luang"
+          },
+          "coords": [
+            98.43864,
+            19.359902
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie früh am Tag die aufwendige Lanna-Architektur dieses zentralen Tempels und denken Sie daran, sich bescheiden zu kleiden und die Schuhe auszuziehen.",
+            "hu": "Csodálja meg ennek a központi templomnak a bonyolult Lanna építészetét a kora reggeli békében, és ne feledjen szerényen öltözni, illetve levenni a cipőjét belépés előtt.",
+            "ro": "Admirați arhitectura Lanna complicată a acestui templu central devreme în zi, când este cel mai pașnic, amintindu-vă să vă îmbrăcați modest și să vă descălțați la intrare.",
+            "en": "Admire the intricate Lanna architecture of this central temple early in the day when it is most peaceful, remembering to dress modestly and remove your shoes before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Al-Israa Masjid",
+            "hu": "Al-Israa Masjid",
+            "ro": "Al-Israa Masjid",
+            "en": "Al-Israa Masjid"
+          },
+          "coords": [
+            98.440138,
+            19.360199
+          ],
+          "category": "religious",
+          "arrive_at": "09:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die spirituelle Vielfalt von Pai bei einem Besuch dieser einladenden Moschee, wo Sie die Gebetszeiten respektieren und die ruhige Atmosphäre genießen sollten.",
+            "hu": "Fedezze fel Pai spirituális sokszínűségét ebben a barátságos mecsetben, ahol tartsa tiszteletben az imaidőket, és élvezze az udvar csendes, békés hangulatát.",
+            "ro": "Descoperiți diversitatea spirituală din Pai vizitând această moschee primitoare, unde trebuie să respectați orele de rugăciune și să vă bucurați de ambianța liniștită din curte.",
+            "en": "Discover the spiritual diversity of Pai by visiting this welcoming mosque, where you should be respectful of prayer times and enjoy the quiet ambiance in the courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Klang",
+            "hu": "Wat Klang",
+            "ro": "Wat Klang",
+            "en": "Wat Klang"
+          },
+          "coords": [
+            98.442835,
+            19.360093
+          ],
+          "category": "religious",
+          "arrive_at": "10:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit, um den wunderschönen goldenen Chedi dieses zentral gelegenen Tempels zu betrachten, der ein toller Ort für ruhige Besinnung abseits der Hauptstraße ist.",
+            "hu": "Szánjon időt a központi elhelyezkedésű templom gyönyörű arany chedi-jének megfigyelésére, amely kiváló helyszín a csendes elmélkedésre a nyüzsgő sétálóutcától távol.",
+            "ro": "Faceți-vă timp pentru a observa frumosul chedi auriu de la acest templu central, care servește drept un loc excelent pentru reflecție liniștită, departe de strada principală.",
+            "en": "Take your time to observe the beautiful golden chedi at this centrally located temple, which serves as a great spot for quiet reflection away from the main walking street."
+          }
+        },
+        {
+          "name": {
+            "de": "Nitnois",
+            "hu": "Nitnois",
+            "ro": "Nitnois",
+            "en": "Nitnois"
+          },
+          "coords": [
+            98.443236,
+            19.351267
+          ],
+          "category": "cultural",
+          "arrive_at": "11:29",
+          "stay_min": 60,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Engagieren Sie sich in der lokalen Kunstszene an diesem pulsierenden kulturellen Ort, indem Sie mit den Schöpfern sprechen und vielleicht ein handgemachtes Souvenir kaufen.",
+            "hu": "Ismerkedjen meg a helyi művészeti élettel ezen a nyüzsgő kulturális helyszínen, beszélgessen az alkotókkal, és vásároljon egyedi, kézzel készített emléktárgyakat.",
+            "ro": "Interacționați cu scena artistică locală în acest loc cultural vibrant făcându-vă timp să vorbiți cu creatorii și poate cumpărând un suvenir unic lucrat manual.",
+            "en": "Engage with the local artistic scene at this vibrant cultural spot by taking the time to speak with the creators and perhaps purchasing a unique handmade souvenir."
+          }
+        },
+        {
+          "name": {
+            "de": "Night Bazaar Pai",
+            "hu": "Night Bazaar Pai",
+            "ro": "Night Bazaar Pai",
+            "en": "Night Bazaar Pai"
+          },
+          "coords": [
+            98.441649,
+            19.359966
+          ],
+          "category": "landmark",
+          "arrive_at": "12:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie die belebten Stände voller Streetfood und lokalem Kunsthandwerk und kommen Sie hungrig, um die köstlichen traditionellen thailändischen Snacks zu probieren.",
+            "hu": "Fedezze fel az utcai ételekkel és helyi kézműves termékekkel teli nyüzsgő standokat, és érkezzen éhesen, hogy megkóstolhassa a hagyományos thai finomságokat.",
+            "ro": "Explorați tarabele pline de viață cu mâncare de stradă și meșteșuguri locale, asigurându-vă că ajungeți flămând pentru a gusta delicioasele gustări tradiționale thailandeze.",
+            "en": "Explore the bustling stalls filled with street food and local crafts, ensuring you arrive hungry to sample the delicious traditional Thai snacks offered by numerous vendors."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang im Herzen von Pai, besichtigen Sie den wunderschönen Wat Luang und erleben Sie die spirituelle Vielfalt der nahegelegenen Al-Israa-Moschee.\nSetzen Sie Ihren Spaziergang zum Wat Klang fort, um ruhige Momente zu genießen, bevor Sie in das lokale Kunsthandwerk bei Nitnois eintauchen.\nWidmen Sie den späten Nachmittag der Erkundung der lebhaften zentralen Bereiche und genießen Sie die pulsierende Atmosphäre der belebten Fußgängerzonen von Pai.\nBeenden Sie Ihren Tag auf dem berühmten Nachtmarkt von Pai, wo Sie köstliches Streetfood probieren und unter den Sternen nach einzigartigen Souvenirs stöbern können.",
+        "hu": "Kezdje gyalogtúráját Pai szívében, látogasson el a gyönyörű Wat Luangba, és tapasztalja meg a közeli Al-Israa mecset spirituális sokszínűségét.\nFolytassa sétáját a Wat Klang felé egy kis elmélkedésre, mielőtt elmerülne a helyi művészetekben és a kulturális örökségben a Nitnois-ban.\nKéső délutánját szentelje a nyüzsgő központi területek felfedezésének, magába szívva Pai sétálóutcáinak élénk atmoszféráját és egyedi varázsát.\nZárja a napot a híres Pai Éjszakai Piacon, ahol ízletes utcai ételeket kóstolhat, és a csillagok alatt válogathat az egyedi ajándéktárgyakat kínáló standok között.",
+        "ro": "Începeți turul pietonal în inima orașului Pai, vizitând frumosul Wat Luang și experimentând diversitatea spirituală la moscheea Al-Israa din apropiere.\nContinuați plimbarea spre Wat Klang pentru momente de reflecție, înainte de a vă scufunda în arta și patrimoniul cultural local la Nitnois.\nDedicați după-amiaza târzie navigării către zonele centrale pline de viață, absorbind atmosfera vibrantă și farmecul străzilor pietonale din Pai.\nÎncheiați ziua la celebrul Bazar de Noapte din Pai, unde puteți savura mâncare de stradă delicioasă și puteți căuta suveniruri unice sub cerul înstelat.",
+        "en": "Start your walking tour in the heart of Pai, visiting the beautiful Wat Luang and experiencing the spiritual diversity at the nearby Al-Israa Masjid.\nContinue your stroll to Wat Klang for moments of reflection before diving into the local arts and cultural heritage at Nitnois to appreciate handmade crafts.\nDedicate your late afternoon to navigating toward the lively central areas, absorbing the vibrant atmosphere and the distinct charm of Pai's bustling walking streets.\nConclude your day at the famous Night Bazaar Pai, where you can feast on delicious street food and browse through countless stalls offering unique souvenirs under the stars."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 4.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Wat Sri Don Chai temple",
+            "hu": "Wat Sri Don Chai temple",
+            "ro": "Wat Sri Don Chai temple",
+            "en": "Wat Sri Don Chai temple"
+          },
+          "coords": [
+            98.447531,
+            19.379464
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Radtour an diesem historischen Tempel, der als der erste in Pai erbaute gilt und eine ruhige Atmosphäre für morgendliche Erkundungen bietet.",
+            "hu": "Kezdje kerékpártúráját ennél a történelmi északi templomnál, amely Pai elsőként épült szentélyeként békés légkört kínál a kora reggeli felfedezéshez.",
+            "ro": "Începeți turul cu bicicleta la acest templu nordic istoric, care are distincția de a fi primul construit în Pai, oferind o atmosferă senină pentru explorarea matinală.",
+            "en": "Begin your biking tour at this historic northern temple, which holds the distinction of being the first built in Pai, offering a serene atmosphere for morning exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Mini Golf The Putt Club",
+            "hu": "Mini Golf The Putt Club",
+            "ro": "Mini Golf The Putt Club",
+            "en": "Mini Golf The Putt Club"
+          },
+          "coords": [
+            98.439642,
+            19.373215
+          ],
+          "category": "recreational",
+          "arrive_at": "09:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine unterhaltsame Pause vom Sightseeing und genießen Sie eine lockere Runde Minigolf in dieser üppigen Umgebung, ideal kombiniert mit einem kühlen Getränk vor Ort.",
+            "hu": "Tartson egy szórakoztató szünetet a városnézésben, játsszon egy kötetlen minigolf-partit ebben a buja környezetben, és ne felejtsen el kérni egy hűsítő italt a helyszínen.",
+            "ro": "Luați o pauză distractivă de la vizitare și bucurați-vă de o rundă de minigolf în acest cadru luxuriant, asigurându-vă că luați o băutură rece de la facilitatea din incintă.",
+            "en": "Take a fun break from sightseeing and enjoy a casual round of mini-golf in this lush setting, making sure to grab a refreshing cold drink from their onsite facility."
+          }
+        },
+        {
+          "name": {
+            "de": "Bouddhist temple",
+            "hu": "Bouddhist temple",
+            "ro": "Bouddhist temple",
+            "en": "Bouddhist temple"
+          },
+          "coords": [
+            98.432332,
+            19.364744
+          ],
+          "category": "landmark",
+          "arrive_at": "11:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die traditionelle religiöse Kunstfertigkeit in diesem friedlichen Heiligtum, in dem Sie die Einheimischen bei ihren täglichen spirituellen Praktiken beobachten können.",
+            "hu": "Csodálja meg a hagyományos vallási művészetet ebben a békés szentélyben, ahol csendben megfigyelheti a helyi hívőket a napi spirituális gyakorlataik közben.",
+            "ro": "Minunați-vă de măiestria religioasă tradițională expusă în acest sanctuar pașnic, unde puteți observa în liniște credincioșii locali implicându-se în practicile lor spirituale zilnice.",
+            "en": "Marvel at the traditional religious artistry displayed within this peaceful sanctuary, where you can quietly observe local worshippers engaging in their daily spiritual practices."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Luang",
+            "hu": "Wat Luang",
+            "ro": "Wat Luang",
+            "en": "Wat Luang"
+          },
+          "coords": [
+            98.43864,
+            19.359902
+          ],
+          "category": "religious",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem bedeutenden zentralen Tempel an, um seine große, wunderschön verzierte Stupa zu bewundern, und parken Sie Ihr Fahrrad sicher vor dem Haupteingang.",
+            "hu": "Álljon meg ennél a jelentős központi templomnál, hogy megcsodálja a hatalmas, gyönyörűen díszített sztúpát, és ügyeljen arra, hogy kerékpárját biztonságosan lezárja a főbejáratnál.",
+            "ro": "Opriți-vă la acest important templu central pentru a aprecia stupa sa mare și frumos împodobită, având grijă să parcați bicicleta în siguranță în afara porții principale de intrare.",
+            "en": "Stop by this significant central temple to appreciate its large, beautifully adorned stupa, taking care to park your bike securely outside the main entrance gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Night Bazaar Pai",
+            "hu": "Night Bazaar Pai",
+            "ro": "Night Bazaar Pai",
+            "en": "Night Bazaar Pai"
+          },
+          "coords": [
+            98.441649,
+            19.359966
+          ],
+          "category": "landmark",
+          "arrive_at": "12:42",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Navigieren Sie durch das pulsierende Herz der Stadt, schließen Sie Ihr Fahrrad in der Nähe ab und schlendern Sie durch die Fußgängerzone mit ihrer Mischung aus Schmuck und Essen.",
+            "hu": "Navigáljon a város nyüzsgő szívében, kösse le kerékpárját a közelben, majd sétáljon végig az utcán, hogy felfedezze a kézműves ékszerek és az utcai ételek eklektikus keverékét.",
+            "ro": "Navigați prin inima vibrantă a orașului asigurându-vă bicicleta în apropiere, apoi rătăciți pe strada pietonală pentru a găsi un amestec eclectic de bijuterii și mâncare de stradă.",
+            "en": "Navigate through the vibrant heart of the town by securing your bicycle nearby, then wander the walking street to find an eclectic mix of handmade jewelry and street food."
+          }
+        },
+        {
+          "name": {
+            "de": "Long Neck Karen Villa in Pai",
+            "hu": "Long Neck Karen Villa in Pai",
+            "ro": "Long Neck Karen Villa in Pai",
+            "en": "Long Neck Karen Villa in Pai"
+          },
+          "coords": [
+            98.456219,
+            19.358905
+          ],
+          "category": "landmark",
+          "arrive_at": "13:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Lernen Sie in diesem Kulturdorf respektvoll die einzigartigen Traditionen der Karen-Gemeinschaft kennen und bringen Sie Bargeld mit, um authentische gewebte Textilien zu kaufen.",
+            "hu": "Ismerje meg tiszteletteljesen a Karen közösség egyedi hagyományait ebben a kulturális faluban, és vigyen magával készpénzt, hogy autentikus szőtt textíliák vásárlásával támogassa őket.",
+            "ro": "Învățați cu respect despre tradițiile unice ale comunității Karen în acest sat cultural, aducând niște bani gheață pentru a-i sprijini cumpărând textile țesute autentice.",
+            "en": "Learn respectfully about the unique traditions of the Karen community at this cultural village, bringing some cash to support them by buying authentic woven textiles."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Fahrradabenteuer mit einem Besuch des historischen Wat Sri Don Chai, bevor Sie im Putt Club eine entspannte Runde Minigolf spielen.\nRadeln Sie in Richtung Süden, um den friedlichen buddhistischen Tempel und den kulturell bedeutsamen Wat Luang zu erkunden und die malerische Landschaft zu genießen.\nNavigieren Sie durch das geschäftige Herz der Stadt nahe des Nachtmarktes, genießen Sie das Straßenleben und sichern Sie Ihr Fahrrad, um die Stände zu erkunden.\nBeenden Sie Ihre Tour in der Long Neck Karen Villa, wo Sie respektvoll mehr über deren reiche Traditionen erfahren und authentische Textilien kaufen können.",
+        "hu": "Kezdje kerékpáros kalandját a történelmi Wat Sri Don Chai meglátogatásával, majd induljon el a The Putt Clubba egy szórakoztató minigolf-partira.\nTervezzen délre, hogy felfedezze a békés buddhista templomot és a kulturálisan jelentős Wat Luangot, miközben élvezi a völgy festői tájait.\nNavigáljon a város nyüzsgő szívében, az Éjszakai Piac közelében, szívja magába az utcai életet, és kösse le kerékpárját, hogy felfedezze a színes standokat.\nFejezze be túráját a Long Neck Karen Villában, ahol tiszteletteljesen megismerheti gazdag hagyományaikat, és hiteles textíliákat vásárolhat a kézművesektől.",
+        "ro": "Începeți aventura cu bicicleta vizitând istoricul Wat Sri Don Chai, înainte de a vă îndrepta spre The Putt Club pentru o rundă relaxantă de minigolf.\nPedalați spre sud pentru a explora templul budist pașnic și importantul Wat Luang, bucurându-vă de briza blândă și de peisajele pitorești ale văii.\nNavigați prin inima plină de viață a orașului, lângă Bazarul de Noapte, admirând viața stradală și asigurându-vă bicicleta pentru a explora tarabele colorate.\nTerminați cursa la Long Neck Karen Villa, unde puteți învăța cu respect despre tradițiile lor bogate și puteți cumpăra textile autentice direct de la artizani.",
+        "en": "Kick off your cycling adventure by visiting the historic Wat Sri Don Chai before heading to The Putt Club for a fun and relaxing round of mini-golf.\nPedal south to explore the peaceful Bouddhist temple and the culturally significant Wat Luang, enjoying the gentle breeze and scenic landscapes of the valley.\nNavigate through the bustling heart of town near the Night Bazaar area, taking in the vibrant street life and securing your bike to explore the colorful stalls.\nFinish your ride at the Long Neck Karen Villa, where you can respectfully learn about their rich traditions and purchase authentic textiles directly from the artisans."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:53",
+      "total_km": 10.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Wat Sai Khao",
+            "hu": "Wat Sai Khao",
+            "ro": "Wat Sai Khao",
+            "en": "Wat Sai Khao"
+          },
+          "coords": [
+            98.444734,
+            19.339633
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zu den südlichen Ausläufern von Pai, um diesen ruhigen Tempel zu besuchen, genießen Sie den malerischen Bergblick und nutzen Sie die ausreichend vorhandenen Parkplätze.",
+            "hu": "Autózzon le Pai déli külvárosába, hogy meglátogassa ezt a nyugodt templomot, élvezze a festői hegyi kilátást útközben, és használja ki a tágas, ingyenes parkolóhelyet.",
+            "ro": "Conduceți până la periferia sudică a orașului Pai pentru a vizita acest templu liniștit, bucurându-vă de priveliștile pitorești ale munților și utilizând spațiul amplu de parcare disponibil.",
+            "en": "Drive down to the southern outskirts of Pai to visit this tranquil temple, enjoying the scenic mountain views along the way and utilizing the ample parking space available."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Kung Kaeng temple",
+            "hu": "Wat Kung Kaeng temple",
+            "ro": "Wat Kung Kaeng temple",
+            "en": "Wat Kung Kaeng temple"
+          },
+          "coords": [
+            98.435369,
+            19.343683
+          ],
+          "category": "landmark",
+          "arrive_at": "09:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur und die friedliche Umgebung dieses weniger besuchten Tempels, der eine perfekte Gelegenheit zum Fotografieren ohne Touristenmassen bietet.",
+            "hu": "Csodálja meg e kevésbé látogatott templom jellegzetes építészetét és békés környezetét, amely tökéletes lehetőséget kínál a fotózásra a szokásos turistatömegek nélkül.",
+            "ro": "Admirați arhitectura distinctivă și împrejurimile pașnice ale acestui templu mai puțin vizitat, care oferă o oportunitate perfectă pentru fotografie fără aglomerația turistică obișnuită.",
+            "en": "Admire the distinctive architecture and peaceful surroundings of this lesser-visited temple, which provides a perfect opportunity for photography without the usual tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "White Buddha",
+            "hu": "White Buddha",
+            "ro": "White Buddha",
+            "en": "White Buddha"
+          },
+          "coords": [
+            98.451871,
+            19.344229
+          ],
+          "category": "historical",
+          "arrive_at": "10:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Steigen Sie die weite Treppe hinauf, um diese prächtige Statue am Hang zu erreichen; tragen Sie bequeme Schuhe und bereiten Sie sich auf einen atemberaubenden Panoramablick vor.",
+            "hu": "Mássza meg az ívelt lépcsőt, hogy elérje ezt a csodálatos domboldali szobrot, viseljen kényelmes sétacipőt, és készüljön fel a völgyre nyíló lélegzetelállító panorámára.",
+            "ro": "Urcați scara largă pentru a ajunge la această statuie magnifică de pe deal, unde ar trebui să purtați pantofi confortabili și să vă pregătiți pentru vederi panoramice uluitoare.",
+            "en": "Climb the sweeping staircase to reach this magnificent hillside statue, where you should wear comfortable walking shoes and prepare for breathtaking panoramic views of the valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Nitnois",
+            "hu": "Nitnois",
+            "ro": "Nitnois",
+            "en": "Nitnois"
+          },
+          "coords": [
+            98.443236,
+            19.351267
+          ],
+          "category": "cultural",
+          "arrive_at": "11:59",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die kreative Seite der lokalen Gemeinschaft an diesem einzigartigen kulturellen Ort und nehmen Sie sich Zeit, um nach speziellen Kunstwerken als Souvenirs zu stöbern.",
+            "hu": "Fedezze fel a helyi közösség kreatív oldalát ezen az egyedi kulturális helyszínen, és szánjon egy pillanatot a különleges művészeti alkotások és tökéletes ajándéktárgyak böngészésére.",
+            "ro": "Descoperiți latura creativă a comunității locale la acest loc cultural unic, făcându-vă un moment pentru a răsfoi artele și meșteșugurile specializate care reprezintă suveniruri perfecte.",
+            "en": "Discover the creative side of the local community at this unique cultural venue, taking a moment to browse the specialized arts and crafts that make for perfect souvenirs."
+          }
+        },
+        {
+          "name": {
+            "de": "Night Bazaar Pai",
+            "hu": "Night Bazaar Pai",
+            "ro": "Night Bazaar Pai",
+            "en": "Night Bazaar Pai"
+          },
+          "coords": [
+            98.441649,
+            19.359966
+          ],
+          "category": "landmark",
+          "arrive_at": "13:01",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erleben Sie den farbenfrohen zentralen Markt, indem Sie in der Nähe parken und dann in die lebhafte Atmosphäre voller unwiderstehlicher Essensdüfte und lokaler Waren eintauchen.",
+            "hu": "Tapasztalja meg a színes központi piacot úgy, hogy a közelben parkol le, majd merüljön el az ellenállhatatlan ételillatokkal és helyi árukkal teli, pezsgő hangulatban.",
+            "ro": "Experimentați zona plină de culoare a pieței centrale parcând într-un loc desemnat din apropiere, apoi scufundați-vă în atmosfera plină de arome de mâncare și bunuri locale.",
+            "en": "Experience the colorful central market area by parking in a designated spot nearby, then dive into the lively atmosphere filled with irresistible food aromas and local goods."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint Teresa of Calcutta",
+            "hu": "Saint Teresa of Calcutta",
+            "ro": "Saint Teresa of Calcutta",
+            "en": "Saint Teresa of Calcutta"
+          },
+          "coords": [
+            98.421466,
+            19.361112
+          ],
+          "category": "landmark",
+          "arrive_at": "13:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese bescheidene, aber kulturell bedeutsame katholische Kirche im Herzen Nordthailands und beachten Sie die faszinierende architektonische Mischung der Stile.",
+            "hu": "Látogasson el ebbe a szerény, ám kulturálisan jelentős katolikus templomba Észak-Thaiföld szívében, és figyelje meg a helyi és nyugati stílusok lenyűgöző építészeti ötvözetét.",
+            "ro": "Vizitați această biserică catolică modestă, dar semnificativă cultural, din inima nordului Thailandei, observând amestecul arhitectural fascinant de stiluri locale și occidentale.",
+            "en": "Visit this modest yet culturally significant Catholic church in the heart of northern Thailand, noting the fascinating architectural blend of local and western styles."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Sri Don Chai temple",
+            "hu": "Wat Sri Don Chai temple",
+            "ro": "Wat Sri Don Chai temple",
+            "en": "Wat Sri Don Chai temple"
+          },
+          "coords": [
+            98.447531,
+            19.379464
+          ],
+          "category": "landmark",
+          "arrive_at": "14:43",
+          "stay_min": 70,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt an dieser ehrwürdigen Stätte, dem ältesten Tempel von Pai, wo Sie die tiefe historische Atmosphäre aufsaugen und antike Buddha-Statuen bestaunen können.",
+            "hu": "Zárja autózását ezen a tiszteletre méltó helyen, Pai legrégebbi templománál, ahol magába szívhatja a mély történelmi hangulatot, és megcsodálhatja az antik Buddha-képeket.",
+            "ro": "Încheiați-vă călătoria la acest loc venerabil, cunoscut drept cel mai vechi templu din Pai, unde puteți absorbi ambianța istorică profundă și vă puteți minuna de imaginile antice.",
+            "en": "Conclude your drive at this venerable site, known as Pai's oldest temple, where you can experience a deep sense of history and serenity as the sun sets over the valley."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Roadtrip mit der Erkundung des ruhigen Wat Sai Khao am südlichen Stadtrand, gefolgt von dem friedlichen und wunderschön gestalteten Wat Kung Kaeng.\nFahren Sie in die Hügel, um den majestätischen Weißen Buddha mit seinem Panoramablick zu sehen, und tauchen Sie danach bei Nitnois in die lokale Kultur ein.\nMachen Sie eine Pause im lebhaften Nachtmarktviertel und fahren Sie dann zur architektonisch faszinierenden katholischen Kirche Saint Teresa of Calcutta.\nBeenden Sie Ihren Tag mit einer Fahrt nach Norden zum Wat Sri Don Chai, dem ältesten Tempel von Pai, um bei Sonnenuntergang historische Gelassenheit zu erleben.",
+        "hu": "Kezdje autós utazását a déli külvárosban található nyugodt Wat Sai Khao felfedezésével, amelyet a békés és gyönyörűen kialakított Wat Kung Kaeng templom követ.\nAutózzon fel a hegyekbe, hogy megcsodálja a fenséges Fehér Buddhát és a panorámát, majd ereszkedjen le, hogy megismerje a helyi kultúrát a Nitnois-ban.\nÁlljon meg a nyüzsgő Éjszakai Piac környékén egy kis pihenőre, majd tegyen egy rövid utat az építészetileg lenyűgöző Kalkuttai Szent Teréz katolikus templomhoz.\nZárja a napot észak felé autózva a Wat Sri Don Chai-hoz, Pai legrégebbi templomához, ahol a naplementében mély történelmi nyugalmat tapasztalhat meg.",
+        "ro": "Începeți excursia cu mașina explorând liniștitul Wat Sai Khao la periferia sudică, urmat de templul pașnic și frumos proiectat Wat Kung Kaeng.\nConduceți pe dealuri pentru a vedea maiestuosul Buddha Alb și priveliștile sale panoramice, apoi coborâți pentru a interacționa cu cultura locală creativă la Nitnois.\nOpriți-vă în zona vibrantă a Bazarului de Noapte pentru o pauză plină de viață, apoi faceți o scurtă plimbare pentru a vizita fascinanta biserică catolică Sfânta Tereza.\nÎncheiați ziua conducând spre nord la Wat Sri Don Chai, cel mai vechi templu din Pai, unde puteți experimenta un sentiment profund de istorie și seninătate la apus.",
+        "en": "Start your road trip by exploring the tranquil Wat Sai Khao on the southern outskirts, followed by the peaceful and beautifully designed Wat Kung Kaeng temple.\nDrive up the hills to witness the majestic White Buddha and its panoramic views, then head back down to engage with the creative local culture at Nitnois.\nStop by the vibrant Night Bazaar area for a lively break, then take a short drive to visit the architecturally fascinating Saint Teresa of Calcutta Catholic church.\nEnd your day driving north to Wat Sri Don Chai, Pai's oldest temple, where you can experience a deep sense of history and serenity as the sun sets over the valley."
+      }
+    }
+  }
+}

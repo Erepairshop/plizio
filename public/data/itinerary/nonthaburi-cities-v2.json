@@ -1,0 +1,520 @@
+{
+  "city_id": "nonthaburi-cities-v2",
+  "anchor": {
+    "name": "Nonthaburi",
+    "coords": [
+      100.5144,
+      13.859
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:38",
+      "total_km": 1.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Nonthaburi Market",
+            "hu": "Nonthaburi Piac",
+            "ro": "Piața Nonthaburi",
+            "en": "Nonthaburi Market"
+          },
+          "coords": [
+            100.495003,
+            13.842232
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen belebten Markt voller frischer Produkte und Streetfood, aber kommen Sie früh, um die beste morgendliche Atmosphäre vor der Mittagshitze zu genießen.",
+            "hu": "Fedezze fel ezt a nyüzsgő, friss termékekkel és utcai ételekkel teli piacot, de érkezzen korán, hogy elkerülje a hőséget és megtapasztalja az igazi reggeli hangulatot.",
+            "ro": "Explorați această piață plină de viață, cu produse proaspete și mâncare locală, dar sosiți devreme pentru a prinde cea mai vibrantă atmosferă matinală înainte de căldură.",
+            "en": "Explore this bustling cultural hub filled with fresh produce and local street food, but arrive early to catch the most vibrant morning atmosphere before the heat sets in."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Bang Kwang",
+            "hu": "Wat Bang Kwang",
+            "ro": "Wat Bang Kwang",
+            "en": "Wat Bang Kwang"
+          },
+          "coords": [
+            100.493746,
+            13.841387
+          ],
+          "category": "religious",
+          "arrive_at": "10:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur und friedliche Atmosphäre dieses lokalen Tempels und denken Sie daran, sich respektvoll mit bedeckten Schultern und Knien zu kleiden.",
+            "hu": "Csodálja meg ennek a jelentős helyi templomnak a bonyolult építészetét, és ne feledje, hogy a tisztelet jeléül fedett vállal és térddel érdemes idelátogatni.",
+            "ro": "Admirați arhitectura detaliată și ambianța senină a acestui templu local, amintindu-vă să vă îmbrăcați decent, cu umerii și genunchii acoperiți, din respect.",
+            "en": "Admire the intricate architecture and serene ambiance of this significant local temple, remembering to dress modestly with covered shoulders and knees out of respect."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Thinnakorn Nimit",
+            "hu": "Wat Thinnakorn Nimit",
+            "ro": "Wat Thinnakorn Nimit",
+            "en": "Wat Thinnakorn Nimit"
+          },
+          "coords": [
+            100.498079,
+            13.844509
+          ],
+          "category": "religious",
+          "arrive_at": "10:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie in dieser spirituellen Oase wunderschöne Wandmalereien mit buddhistischen Geschichten, wobei ruhiges Verhalten das friedliche Erlebnis deutlich verstärkt.",
+            "hu": "Fedezze fel a buddhista történeteket ábrázoló gyönyörű falfestményeket ebben a csendes szentélyben, ahol a halk viselkedés még jobban elmélyíti a békés élményt.",
+            "ro": "Descoperiți picturile murale frumoase cu povești budiste în acest refugiu spiritual, unde păstrarea liniștii îmbunătățește profund experiența pașnică de aici.",
+            "en": "Discover the beautiful murals depicting Buddhist tales inside this spiritual haven, where maintaining a quiet demeanor enhances the profoundly peaceful experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Bang Phreak Tai",
+            "hu": "Wat Bang Phreak Tai",
+            "ro": "Wat Bang Phreak Tai",
+            "en": "Wat Bang Phreak Tai"
+          },
+          "coords": [
+            100.493403,
+            13.848848
+          ],
+          "category": "religious",
+          "arrive_at": "11:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie den authentischen Charme dieses weniger überlaufenen Tempels und schalten Sie den Kamerablitz aus, wenn Sie die empfindlichen Statuen fotografieren.",
+            "hu": "Élvezze ennek a kevésbé zsúfolt, autentikus környékbeli templomnak a varázsát, és kapcsolja ki a vaku fényét, amikor a finoman kidolgozott szobrokat fényképezi.",
+            "ro": "Apreciați farmecul autentic și mai puțin aglomerat al acestui templu de cartier, oprind blițul aparatului foto atunci când fotografiați statuile sale delicate.",
+            "en": "Take a moment to appreciate the less crowded, authentic charm of this neighborhood temple, keeping your camera flash off when photographing the delicate statues."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Bang Phreak Naue",
+            "hu": "Wat Bang Phreak Naue",
+            "ro": "Wat Bang Phreak Naue",
+            "en": "Wat Bang Phreak Naue"
+          },
+          "coords": [
+            100.494514,
+            13.851455
+          ],
+          "category": "religious",
+          "arrive_at": "12:28",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die verzierten Gebetshallen dieses schönen nördlichen Partner-Tempels und beobachten Sie respektvoll aus der Ferne den täglichen Ablauf der Mönche.",
+            "hu": "Járja be ennek az északi testvértemplomnak a díszes imatermeit, és szánjon időt arra, hogy tisztelettudó távolságból megfigyelje a szerzetesek napi teendőit.",
+            "ro": "Explorați sălile de rugăciune ornate ale acestui frumos templu nordic, luându-vă timp pentru a observa cu respect rutina zilnică a călugărilor de la distanță.",
+            "en": "Explore the ornate prayer halls of this beautiful northern counterpart temple, taking time to observe the monks' daily routines respectfully from a slight distance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt auf dem belebten Markt von Nonthaburi mit seinem lokalen Handel.\n\nWir besuchen dann den Wat Bang Kwang für einen friedlichen Kontrast.\n\nMittags erkunden wir die beeindruckenden Wandmalereien im Wat Thinnakorn Nimit.\n\nNachmittags spazieren wir zum Wat Bang Phreak Tai und beenden den Tag am kunstvollen Wat Bang Phreak Naue.",
+        "hu": "A reggel a nyüzsgő, kereskedelemmel teli Nonthaburi piacon kezdődik.\n\nEzután a békés Wat Bang Kwang templomhoz látogatunk a szép kontrasztért.\n\nDélben felfedezzük a Wat Thinnakorn Nimit lenyűgöző falfestményeit.\n\nDélután a Wat Bang Phreak Tai felé sétálunk, majd a díszes Wat Bang Phreak Naue templomnál zárjuk utunkat.",
+        "ro": "Dimineața începe la animata Piață Nonthaburi, plină de comerț local.\n\nApoi vizităm pașnicul Wat Bang Kwang pentru un contrast relaxant.\n\nLa prânz, explorăm picturile murale magnifice de la Wat Thinnakorn Nimit.\n\nDupă-amiaza ne plimbăm spre Wat Bang Phreak Tai și încheiem la frumosul și ornamentatul Wat Bang Phreak Naue.",
+        "en": "Morning starts at the bustling Nonthaburi Market, alive with local commerce.\n\nWe then visit Wat Bang Kwang for a peaceful contrast.\n\nMidday shifts to exploring the beautiful murals of Wat Thinnakorn Nimit.\n\nIn the afternoon, we stroll towards Wat Bang Phreak Tai and conclude at the beautifully ornate Wat Bang Phreak Naue."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:12",
+      "total_km": 5.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Nonthaburi Market",
+            "hu": "Nonthaburi Piac",
+            "ro": "Piața Nonthaburi",
+            "en": "Nonthaburi Market"
+          },
+          "coords": [
+            100.495003,
+            13.842232
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen belebten Markt voller frischer Produkte und Streetfood, aber kommen Sie früh, um die beste morgendliche Atmosphäre vor der Mittagshitze zu genießen.",
+            "hu": "Fedezze fel ezt a nyüzsgő, friss termékekkel és utcai ételekkel teli piacot, de érkezzen korán, hogy elkerülje a hőséget és megtapasztalja az igazi reggeli hangulatot.",
+            "ro": "Explorați această piață plină de viață, cu produse proaspete și mâncare locală, dar sosiți devreme pentru a prinde cea mai vibrantă atmosferă matinală înainte de căldură.",
+            "en": "Explore this bustling cultural hub filled with fresh produce and local street food, but arrive early to catch the most vibrant morning atmosphere before the heat sets in."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Bang Kwang",
+            "hu": "Wat Bang Kwang",
+            "ro": "Wat Bang Kwang",
+            "en": "Wat Bang Kwang"
+          },
+          "coords": [
+            100.493746,
+            13.841387
+          ],
+          "category": "religious",
+          "arrive_at": "10:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur und friedliche Atmosphäre dieses lokalen Tempels und denken Sie daran, sich respektvoll mit bedeckten Schultern und Knien zu kleiden.",
+            "hu": "Csodálja meg ennek a jelentős helyi templomnak a bonyolult építészetét, és ne feledje, hogy a tisztelet jeléül fedett vállal és térddel érdemes idelátogatni.",
+            "ro": "Admirați arhitectura detaliată și ambianța senină a acestui templu local, amintindu-vă să vă îmbrăcați decent, cu umerii și genunchii acoperiți, din respect.",
+            "en": "Admire the intricate architecture and serene ambiance of this significant local temple, remembering to dress modestly with covered shoulders and knees out of respect."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Thinnakorn Nimit",
+            "hu": "Wat Thinnakorn Nimit",
+            "ro": "Wat Thinnakorn Nimit",
+            "en": "Wat Thinnakorn Nimit"
+          },
+          "coords": [
+            100.498079,
+            13.844509
+          ],
+          "category": "religious",
+          "arrive_at": "10:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie in dieser spirituellen Oase wunderschöne Wandmalereien mit buddhistischen Geschichten, wobei ruhiges Verhalten das friedliche Erlebnis deutlich verstärkt.",
+            "hu": "Fedezze fel a buddhista történeteket ábrázoló gyönyörű falfestményeket ebben a csendes szentélyben, ahol a halk viselkedés még jobban elmélyíti a békés élményt.",
+            "ro": "Descoperiți picturile murale frumoase cu povești budiste în acest refugiu spiritual, unde păstrarea liniștii îmbunătățește profund experiența pașnică de aici.",
+            "en": "Discover the beautiful murals depicting Buddhist tales inside this spiritual haven, where maintaining a quiet demeanor enhances the profoundly peaceful experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Lannaboon",
+            "hu": "Wat Lannaboon",
+            "ro": "Wat Lannaboon",
+            "en": "Wat Lannaboon"
+          },
+          "coords": [
+            100.5086,
+            13.841553
+          ],
+          "category": "religious",
+          "arrive_at": "11:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die friedliche Ästhetik am Flussufer dieses historisch reichen Heiligtums und tragen Sie bequeme Slipper, da Sie diese oft ausziehen müssen.",
+            "hu": "Csodálja meg ennek a történelmileg gazdag szentélynek a békés, folyóparti esztétikáját, és viseljen könnyen levehető cipőt a gyakori belépések miatt.",
+            "ro": "Minunați-vă de estetica pașnică de pe malul râului a acestui sanctuar istoric, purtând încălțăminte ușor de scos, deoarece va trebui să o descălțați des.",
+            "en": "Marvel at the peaceful riverside aesthetics of this historically rich sanctuary, wearing easily removable slip-on shoes since you will need to take them off frequently."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Bang Phreak Naue",
+            "hu": "Wat Bang Phreak Naue",
+            "ro": "Wat Bang Phreak Naue",
+            "en": "Wat Bang Phreak Naue"
+          },
+          "coords": [
+            100.494514,
+            13.851455
+          ],
+          "category": "religious",
+          "arrive_at": "12:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die verzierten Gebetshallen dieses schönen nördlichen Partner-Tempels und beobachten Sie respektvoll aus der Ferne den täglichen Ablauf der Mönche.",
+            "hu": "Járja be ennek az északi testvértemplomnak a díszes imatermeit, és szánjon időt arra, hogy tisztelettudó távolságból megfigyelje a szerzetesek napi teendőit.",
+            "ro": "Explorați sălile de rugăciune ornate ale acestui frumos templu nordic, luându-vă timp pentru a observa cu respect rutina zilnică a călugărilor de la distanță.",
+            "en": "Explore the ornate prayer halls of this beautiful northern counterpart temple, taking time to observe the monks' daily routines respectfully from a slight distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Samon Kot",
+            "hu": "Wat Samon Kot",
+            "ro": "Wat Samon Kot",
+            "en": "Wat Samon Kot"
+          },
+          "coords": [
+            100.498418,
+            13.860117
+          ],
+          "category": "religious",
+          "arrive_at": "13:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese für ihre Stupas bekannte religiöse Stätte am besten am späten Nachmittag, wenn das weichere Licht perfekte Bedingungen für Fotos bietet.",
+            "hu": "Látogasson el erre a jellegzetes sztúpáiról ismert vallási helyszínre késő délután, amikor a lágyabb fényviszonyok tökéletes lehetőséget nyújtanak a fotózáshoz.",
+            "ro": "Vizitați acest sit religios cunoscut pentru stupele sale distinctive, venind la sfârșitul după-amiezii, când lumina mai blândă este perfectă pentru fotografii.",
+            "en": "Visit this culturally significant religious site known for its distinctive stupas, coming late in the afternoon when the softer light makes for perfect photography."
+          }
+        },
+        {
+          "name": {
+            "de": "The Owl Market",
+            "hu": "The Owl Market",
+            "ro": "The Owl Market",
+            "en": "The Owl Market"
+          },
+          "coords": [
+            100.494094,
+            13.869513
+          ],
+          "category": "landmark",
+          "arrive_at": "13:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die lebhafte Atmosphäre dieses riesigen Nachtmarktes voller Snacks, und halten Sie Kleingeld bereit, um das vielseitige Streetfood zu probieren.",
+            "hu": "Vesse bele magát ennek a hatalmas éjszakai piacnak a nyüzsgésébe, és tartson magánál aprópénzt, hogy könnyedén megkóstolhassa a különféle ízletes utcai ételeket.",
+            "ro": "Pătrundeți în atmosfera vibrantă a acestei piețe de noapte pline de gustări și bunuri, păstrând mărunțiș la îndemână pentru a cumpăra ușor mâncarea de stradă.",
+            "en": "Dive into the vibrant atmosphere of this massive night market full of thrift goods and snacks, keeping small change handy to easily purchase the varied street food."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Radtour startet am pulsierenden Markt von Nonthaburi.\n\nWir radeln zum nahegelegenen Wat Bang Kwang und Wat Thinnakorn Nimit.\n\nMittags besichtigen wir den Wat Lannaboon am Flussufer und fahren nach Norden zum Wat Bang Phreak Naue.\n\nAbends erreichen wir über den Wat Samon Kot das lebhafte Treiben auf dem Owl Market.",
+        "hu": "Kerékpártúránk a nyüzsgő Nonthaburi piacról indul.\n\nA közeli Wat Bang Kwang és Wat Thinnakorn Nimit felé tekerünk.\n\nDélben megnézzük a folyóparti Wat Lannaboon templomot és észak felé haladunk a Wat Bang Phreak Naue felé.\n\nAz estét a Wat Samon Kot után a nyüzsgő Owl Market finom ételei koronázzák meg.",
+        "ro": "Plimbarea cu bicicleta începe la Piața Nonthaburi.\n\nPedalăm spre Wat Bang Kwang și Wat Thinnakorn Nimit aflate în apropiere.\n\nLa prânz explorăm Wat Lannaboon de pe râu și mergem spre nord către Wat Bang Phreak Naue.\n\nSeara ne aduce prin Wat Samon Kot la Piața Owl pentru o masă stradală binemeritată.",
+        "en": "Our bike ride starts at the vibrant Nonthaburi Market.\n\nWe pedal to the nearby Wat Bang Kwang and Wat Thinnakorn Nimit.\n\nMidday sees us exploring the riverside Wat Lannaboon and heading north to Wat Bang Phreak Naue.\n\nEvening brings us via Wat Samon Kot to the lively Owl Market for well-deserved street food."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:35",
+      "total_km": 7.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Wat Phuttha Panya",
+            "hu": "Wat Phuttha Panya",
+            "ro": "Wat Phuttha Panya",
+            "en": "Wat Phuttha Panya"
+          },
+          "coords": [
+            100.526807,
+            13.84452
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Reise an diesem gepflegten modernen Tempel und nutzen Sie die ruhige Morgenstimmung, um sich vor der Erkundung der Stadt zu zentrieren.",
+            "hu": "Kezdje útját ennél a modern, gyönyörűen karbantartott templomnál, kihasználva a csendes reggeli nyugalmat egy kis elmélyülésre a város felfedezése előtt.",
+            "ro": "Începeți-vă călătoria la acest templu modern și bine întreținut, profitând de liniștea sa matinală pentru a vă relaxa înainte de a explora restul orașului.",
+            "en": "Begin your journey at this modern and beautifully maintained temple, taking advantage of its serene morning quiet to center yourself before exploring the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Lannaboon",
+            "hu": "Wat Lannaboon",
+            "ro": "Wat Lannaboon",
+            "en": "Wat Lannaboon"
+          },
+          "coords": [
+            100.5086,
+            13.841553
+          ],
+          "category": "religious",
+          "arrive_at": "09:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die friedliche Ästhetik am Flussufer dieses historisch reichen Heiligtums und tragen Sie bequeme Slipper, da Sie diese oft ausziehen müssen.",
+            "hu": "Csodálja meg ennek a történelmileg gazdag szentélynek a békés, folyóparti esztétikáját, és viseljen könnyen levehető cipőt a gyakori belépések miatt.",
+            "ro": "Minunați-vă de estetica pașnică de pe malul râului a acestui sanctuar istoric, purtând încălțăminte ușor de scos, deoarece va trebui să o descălțați des.",
+            "en": "Marvel at the peaceful riverside aesthetics of this historically rich sanctuary, wearing easily removable slip-on shoes since you will need to take them off frequently."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Thinnakorn Nimit",
+            "hu": "Wat Thinnakorn Nimit",
+            "ro": "Wat Thinnakorn Nimit",
+            "en": "Wat Thinnakorn Nimit"
+          },
+          "coords": [
+            100.498079,
+            13.844509
+          ],
+          "category": "religious",
+          "arrive_at": "10:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie in dieser spirituellen Oase wunderschöne Wandmalereien mit buddhistischen Geschichten, wobei ruhiges Verhalten das friedliche Erlebnis deutlich verstärkt.",
+            "hu": "Fedezze fel a buddhista történeteket ábrázoló gyönyörű falfestményeket ebben a csendes szentélyben, ahol a halk viselkedés még jobban elmélyíti a békés élményt.",
+            "ro": "Descoperiți picturile murale frumoase cu povești budiste în acest refugiu spiritual, unde păstrarea liniștii îmbunătățește profund experiența pașnică de aici.",
+            "en": "Discover the beautiful murals depicting Buddhist tales inside this spiritual haven, where maintaining a quiet demeanor enhances the profoundly peaceful experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Nonthaburi Market",
+            "hu": "Nonthaburi Piac",
+            "ro": "Piața Nonthaburi",
+            "en": "Nonthaburi Market"
+          },
+          "coords": [
+            100.495003,
+            13.842232
+          ],
+          "category": "cultural",
+          "arrive_at": "11:18",
+          "stay_min": 50,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen belebten Markt voller frischer Produkte und Streetfood, aber kommen Sie früh, um die beste morgendliche Atmosphäre vor der Mittagshitze zu genießen.",
+            "hu": "Fedezze fel ezt a nyüzsgő, friss termékekkel és utcai ételekkel teli piacot, de érkezzen korán, hogy elkerülje a hőséget és megtapasztalja az igazi reggeli hangulatot.",
+            "ro": "Explorați această piață plină de viață, cu produse proaspete și mâncare locală, dar sosiți devreme pentru a prinde cea mai vibrantă atmosferă matinală înainte de căldură.",
+            "en": "Explore this bustling cultural hub filled with fresh produce and local street food, but arrive early to catch the most vibrant morning atmosphere before the heat sets in."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Bang Kwang",
+            "hu": "Wat Bang Kwang",
+            "ro": "Wat Bang Kwang",
+            "en": "Wat Bang Kwang"
+          },
+          "coords": [
+            100.493746,
+            13.841387
+          ],
+          "category": "religious",
+          "arrive_at": "12:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur und friedliche Atmosphäre dieses lokalen Tempels und denken Sie daran, sich respektvoll mit bedeckten Schultern und Knien zu kleiden.",
+            "hu": "Csodálja meg ennek a jelentős helyi templomnak a bonyolult építészetét, és ne feledje, hogy a tisztelet jeléül fedett vállal és térddel érdemes idelátogatni.",
+            "ro": "Admirați arhitectura detaliată și ambianța senină a acestui templu local, amintindu-vă să vă îmbrăcați decent, cu umerii și genunchii acoperiți, din respect.",
+            "en": "Admire the intricate architecture and serene ambiance of this significant local temple, remembering to dress modestly with covered shoulders and knees out of respect."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Bang Phreak Naue",
+            "hu": "Wat Bang Phreak Naue",
+            "ro": "Wat Bang Phreak Naue",
+            "en": "Wat Bang Phreak Naue"
+          },
+          "coords": [
+            100.494514,
+            13.851455
+          ],
+          "category": "religious",
+          "arrive_at": "12:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die verzierten Gebetshallen dieses schönen nördlichen Partner-Tempels und beobachten Sie respektvoll aus der Ferne den täglichen Ablauf der Mönche.",
+            "hu": "Járja be ennek az északi testvértemplomnak a díszes imatermeit, és szánjon időt arra, hogy tisztelettudó távolságból megfigyelje a szerzetesek napi teendőit.",
+            "ro": "Explorați sălile de rugăciune ornate ale acestui frumos templu nordic, luându-vă timp pentru a observa cu respect rutina zilnică a călugărilor de la distanță.",
+            "en": "Explore the ornate prayer halls of this beautiful northern counterpart temple, taking time to observe the monks' daily routines respectfully from a slight distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Samon Kot",
+            "hu": "Wat Samon Kot",
+            "ro": "Wat Samon Kot",
+            "en": "Wat Samon Kot"
+          },
+          "coords": [
+            100.498418,
+            13.860117
+          ],
+          "category": "religious",
+          "arrive_at": "13:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese für ihre Stupas bekannte religiöse Stätte am besten am späten Nachmittag, wenn das weichere Licht perfekte Bedingungen für Fotos bietet.",
+            "hu": "Látogasson el erre a jellegzetes sztúpáiról ismert vallási helyszínre késő délután, amikor a lágyabb fényviszonyok tökéletes lehetőséget nyújtanak a fotózáshoz.",
+            "ro": "Vizitați acest sit religios cunoscut pentru stupele sale distinctive, venind la sfârșitul după-amiezii, când lumina mai blândă este perfectă pentru fotografii.",
+            "en": "Visit this culturally significant religious site known for its distinctive stupas, coming late in the afternoon when the softer light makes for perfect photography."
+          }
+        },
+        {
+          "name": {
+            "de": "The Owl Market",
+            "hu": "The Owl Market",
+            "ro": "The Owl Market",
+            "en": "The Owl Market"
+          },
+          "coords": [
+            100.494094,
+            13.869513
+          ],
+          "category": "landmark",
+          "arrive_at": "14:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die lebhafte Atmosphäre dieses riesigen Nachtmarktes voller Snacks, und halten Sie Kleingeld bereit, um das vielseitige Streetfood zu probieren.",
+            "hu": "Vesse bele magát ennek a hatalmas éjszakai piacnak a nyüzsgésébe, és tartson magánál aprópénzt, hogy könnyedén megkóstolhassa a különféle ízletes utcai ételeket.",
+            "ro": "Pătrundeți în atmosfera vibrantă a acestei piețe de noapte pline de gustări și bunuri, păstrând mărunțiș la îndemână pentru a cumpăra ușor mâncarea de stradă.",
+            "en": "Dive into the vibrant atmosphere of this massive night market full of thrift goods and snacks, keeping small change handy to easily purchase the varied street food."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir starten am friedlichen Wat Phuttha Panya und fahren zum Wat Lannaboon.\n\nMittags stehen Wat Thinnakorn Nimit und der historische Nonthaburi-Markt auf dem Plan.\n\nNachmittags besuchen wir Wat Bang Kwang, Wat Bang Phreak Naue und Wat Samon Kot.\n\nBei Dunkelheit erreichen wir den riesigen Owl Market für ein Abendessen.",
+        "hu": "Az autós túra a Wat Phuttha Panya templomnál indul, majd a Wat Lannaboon felé megyünk.\n\nDélben a Wat Thinnakorn Nimit és a Nonthaburi piac következik.\n\nDélután a Wat Bang Kwang, a Wat Bang Phreak Naue és a Wat Samon Kot vár ránk.\n\nSötétedéskor érkezünk a hatalmas Owl Marketbe egy ízletes vacsorára és vásárlásra.",
+        "ro": "Începem la Wat Phuttha Panya și conducem la Wat Lannaboon.\n\nLa prânz vizităm Wat Thinnakorn Nimit și istorica Piață Nonthaburi.\n\nDupă-amiaza ne duce la Wat Bang Kwang, Wat Bang Phreak Naue și Wat Samon Kot.\n\nLa lăsarea serii, ajungem la imensa Piață Owl pentru a ne bucura de cumpărături și de o cină delicioasă.",
+        "en": "We kick off at the serene Wat Phuttha Panya and drive to Wat Lannaboon.\n\nMidday features visits to Wat Thinnakorn Nimit and the historic Nonthaburi Market.\n\nThe afternoon takes us to Wat Bang Kwang, Wat Bang Phreak Naue, and Wat Samon Kot.\n\nAs dusk falls, we arrive at the sprawling Owl Market for shopping and dinner."
+      }
+    }
+  }
+}

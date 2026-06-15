@@ -1,0 +1,474 @@
+{
+  "city_id": "greece-islands-cities-v2",
+  "anchor": {
+    "name": "Kythira",
+    "coords": [
+      22.991,
+      36.3193
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 2.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Strand Kalamitsi",
+            "hu": "Kalamitsi strand",
+            "ro": "Plaja Kalamitsi",
+            "en": "Kalamitsi Beach"
+          },
+          "coords": [
+            22.993475,
+            36.316809
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem ruhigen Kieselstrand, wo kristallklares Wasser zu einem morgendlichen Bad einlädt, also bringen Sie Badeschuhe mit.",
+            "hu": "Kezdje a napot ezen a békés kavicsos strandon, ahol a kristálytiszta víz frissítő reggeli úszásra csábít, ezért hozzon magával vízicipőt a kényelem érdekében.",
+            "ro": "Începeți ziua pe această plajă liniștită cu pietriș, unde apele cristaline vă invită la o înot înviorător, așa că aduceți încălțăminte de apă pentru confort.",
+            "en": "Start your day at this peaceful pebble beach where crystal-clear waters invite you for a refreshing morning swim, so bring water shoes for comfort."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Phure Ammos",
+            "hu": "Phure Ammos strand",
+            "ro": "Plaja Phure Ammos",
+            "en": "Phure Ammos Beach"
+          },
+          "coords": [
+            22.989922,
+            36.318646
+          ],
+          "category": "recreational",
+          "arrive_at": "10:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die rötlichen Kieselsteine dieser malerischen Küste, ein hervorragender Ort zum Sonnenbaden, wo Sie früh ankommen sollten, um einen guten Platz zu finden.",
+            "hu": "Csodálja meg e festői partvidék jellegzetes vöröses kavicsait, amely kiváló hely a napozásra, ahová érdemes korán érkezni a legjobb helyekért.",
+            "ro": "Admirați pietricelele roșiatice ale acestei coaste pitorești, un loc excelent pentru plajă unde ar trebui să ajungeți devreme pentru a prinde un loc bun.",
+            "en": "Admire the distinct reddish pebbles of this scenic coastline, an excellent spot for sunbathing where you should definitely arrive early to secure a good spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Lorentzos",
+            "hu": "Lorentzos strand",
+            "ro": "Plaja Lorentzos",
+            "en": "Lorentzos Beach"
+          },
+          "coords": [
+            22.99785,
+            36.314032
+          ],
+          "category": "recreational",
+          "arrive_at": "12:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie in der ruhigen Atmosphäre dieser abgelegenen, von Klippen umgebenen Bucht und vergessen Sie nicht, eigene Snacks einzupacken, da die Annehmlichkeiten begrenzt sind.",
+            "hu": "Pihenjen meg ebben a drámai sziklákkal körülvett, eldugott öbölben, és ne felejtsen el saját harapnivalót csomagolni, mivel a szolgáltatások korlátozottak.",
+            "ro": "Relaxați-vă în atmosfera senină a acestui golf izolat înconjurat de stânci și nu uitați să luați propriile gustări, deoarece facilitățile sunt limitate aici.",
+            "en": "Relax in the serene atmosphere of this secluded cove surrounded by dramatic cliffs, and do not forget to pack your own snacks as amenities are limited here."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Kakia Lagkada",
+            "hu": "Kakia Lagkada strand",
+            "ro": "Plaja Kakia Lagkada",
+            "en": "Kakia Lagkada Beach"
+          },
+          "coords": [
+            22.999331,
+            36.311151
+          ],
+          "category": "recreational",
+          "arrive_at": "13:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die raue Schönheit dieses historischen, für Piratenlegenden bekannten Strandes, ein faszinierender Halt, an dem festes Schuhwerk empfohlen wird.",
+            "hu": "Fedezze fel e történelmi, kalózlegendákról ismert strand zord szépségét, amely lenyűgöző megállóhely, ahol az erős lábbeli viselése erősen ajánlott.",
+            "ro": "Explorați frumusețea accidentată a acestei plaje istorice cunoscute pentru legende cu pirați, o oprire fascinantă unde se recomandă încălțăminte rezistentă.",
+            "en": "Explore the rugged beauty of this historic beach known for its pirate legends, making it a fascinating stop where sturdy footwear is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "See (Agia Pelagia)",
+            "hu": "Tó (Agia Pelagia)",
+            "ro": "Lacul (Agia Pelagia)",
+            "en": "Lake (Agia Pelagia)"
+          },
+          "coords": [
+            23.003593,
+            36.307636
+          ],
+          "category": "recreational",
+          "arrive_at": "14:45",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Küstenspaziergang an dieser wunderschönen natürlichen Lagune, die sich perfekt für ein Bad am späten Nachmittag eignet, und fotografieren Sie die warmen Farben.",
+            "hu": "Zárja parti sétáját ennél a gyönyörű természetes lagúnánál, amely tökéletes egy késő délutáni csobbanáshoz, miközben lencsevégre kapja a lenyugvó nap meleg színeit.",
+            "ro": "Încheiați plimbarea pe coastă la această frumoasă lagună naturală perfectă pentru o baie de după-amiază, surprinzând culorile calde ale soarelui cu aparatul foto.",
+            "en": "Conclude your coastal walk at this beautiful natural lagoon perfect for a late afternoon dip, capturing the warm colors of the setting sun on your camera."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt erfrischend an den ruhigen Kieselstränden von Kalamitsi und den markanten rötlichen Sandstränden von Phure Ammos. Mittags finden Sie am ruhigen Strand von Lorentzos perfekte Abgeschiedenheit und eine dramatische Aussicht auf die Klippen. Am Nachmittag entdecken Sie die raue Schönheit und die historischen Piratengeschichten von Kakia Lagkada. Der Abend klingt an der malerischen Limne-Lagune aus, wo die warme Meeresbrise den Tag abrundet.",
+        "hu": "A reggel frissítő kezdést hoz Kalamitsi nyugodt kavicsos partjain és Phure Ammos feltűnő vöröses homokján. A délidő tökéletes elvonulásra és drámai sziklákra nyíló kilátásra csábít a csendes Lorentzos strandon. Délután felfedezi a zord szépséget és a történelmi kalózmeséket, amelyek Kakia Lagkada felett keringenek. Az este kecsesen zárul a festői Limne lagúnánál, ahol a lágy tengerparti szellő tökéletesen kiegészíti a meleg naplementét.",
+        "ro": "Dimineața aduce un început revigorant pe țărmurile liniștite de la Kalamitsi și nisipurile roșiatice de la Phure Ammos. Amiaza vă invită să găsiți izolarea perfectă și vederi dramatice la stânci pe plaja liniștită Lorentzos. După-amiaza veți descoperi frumusețea accidentată și poveștile istorice cu pirați din Kakia Lagkada. Seara se încheie grațios la laguna pitorească Limne, unde briza blândă de coastă completează perfect apusul cald.",
+        "en": "Morning brings a refreshing start along the tranquil pebble shores of Kalamitsi and the striking reddish sands of Phure Ammos. Midday invites you to find perfect seclusion and dramatic cliffside views at the quiet Lorentzos beach. In the afternoon, you will uncover the rugged beauty and historical pirate tales echoing through Kakia Lagkada. The evening gracefully wraps up at the scenic Limne lagoon, where the gentle coastal breeze perfectly complements the warm sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:57",
+      "total_km": 4.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Theater Potamos",
+            "hu": "Potamos Színház",
+            "ro": "Teatrul Potamos",
+            "en": "Potamos Theater"
+          },
+          "coords": [
+            22.971353,
+            36.303775
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Architektur dieses kulturellen Zentrums in einem charmanten Dorf, wo Sie sich an der Informationstafel über lokale Kunst informieren können.",
+            "hu": "Csodálja meg e kulturális központ építészeti részleteit egy bájos faluban, ahol a helyi művészetekről is tanulhat, ha meglátogatja a közeli információs táblát.",
+            "ro": "Minunați-vă de detaliile arhitecturale ale acestui centru cultural dintr-un sat fermecător, unde puteți afla despre artele locale vizitând panoul informativ.",
+            "en": "Marvel at the architectural details of this cultural hub set in a charming village, where you can learn about local arts if you visit the nearby information board."
+          }
+        },
+        {
+          "name": {
+            "de": "Quelle Triphullianikon",
+            "hu": "Triphullianikon-forrás",
+            "ro": "Izvorul Triphullianikon",
+            "en": "Triphullianikon Spring"
+          },
+          "coords": [
+            22.978262,
+            36.299469
+          ],
+          "category": "landmark",
+          "arrive_at": "10:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die traditionelle Handwerkskunst dieses historischen Wahrzeichens, ein hervorragender Ort für eine kurze Fotopause und eine Erfrischung.",
+            "hu": "Fedezze fel e történelmi nevezetesség hagyományos kőfaragó mesterségét, amely kiváló hely egy gyors fotószünetre és hidratálásra, mielőtt folytatná útját.",
+            "ro": "Descoperiți meșteșugul tradițional în piatră al acestui reper istoric, un loc excelent pentru o scurtă pauză foto și hidratare înainte de a continua drumul.",
+            "en": "Discover the traditional stone craftsmanship of this historic landmark, an excellent spot for a quick photo break while hydrating before continuing your ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Palaiokhora Kythera",
+            "hu": "Küthéra Palaiokhora",
+            "ro": "Palaiokhora Kythira",
+            "en": "Palaiokhora of Kythira"
+          },
+          "coords": [
+            22.997939,
+            36.298387
+          ],
+          "category": "castle",
+          "arrive_at": "11:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die gespenstischen Ruinen dieser alten byzantinischen Zitadelle über einer Schlucht und seien Sie an den steilen Klippenrändern sehr vorsichtig.",
+            "hu": "Barangoljon e szurdok szélén magasodó ősi bizánci fellegvár kísérteties romjai között, miközben a felfedezés során nagyon óvatos a meredek sziklafalak közelében.",
+            "ro": "Plimbați-vă printre ruinele obsedante ale acestei vechi cetăți bizantine de pe un defileu, fiind extrem de atenți la marginile abrupte ale stâncii în timpul explorării.",
+            "en": "Wander through the haunting ruins of this ancient Byzantine citadel perched on a gorge, being extremely careful near the steep cliff edges while exploring."
+          }
+        },
+        {
+          "name": {
+            "de": "See (Agia Pelagia)",
+            "hu": "Tó (Agia Pelagia)",
+            "ro": "Lacul (Agia Pelagia)",
+            "en": "Lake (Agia Pelagia)"
+          },
+          "coords": [
+            23.003593,
+            36.307636
+          ],
+          "category": "recreational",
+          "arrive_at": "12:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die erfrischende Küstenbrise an diesem natürlichen Gewässer direkt hinter dem Strand, das eine ruhige Umgebung für die Vogelbeobachtung bietet.",
+            "hu": "Élvezze a frissítő parti szellőt ennél a közvetlenül a strand mögötti természetes vízfelületnél, amely nyugodt környezetet biztosít a madármegfigyeléshez.",
+            "ro": "Bucurați-vă de briza răcoroasă de coastă la această apă naturală chiar în spatele plajei, oferind un mediu liniștit unde observarea păsărilor este plină de satisfacții.",
+            "en": "Enjoy the refreshing coastal breeze at this natural body of water just behind the beach, providing a serene environment where birdwatching is highly rewarding."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Kakia Lagkada",
+            "hu": "Kakia Lagkada strand",
+            "ro": "Plaja Kakia Lagkada",
+            "en": "Kakia Lagkada Beach"
+          },
+          "coords": [
+            22.999331,
+            36.311151
+          ],
+          "category": "recreational",
+          "arrive_at": "13:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ruhen Sie sich am Ausgang einer dramatischen Schlucht direkt am Ufer aus, was diesen Strand zu einem spektakulären Ort für die Suche nach Seeglas macht.",
+            "hu": "Pihenjen meg egy drámai szurdok kijáratánál, amely közvetlenül a partra nyílik, így e strand látványos helyszínt nyújt egyedi tengeri üvegek és kavicsok kereséséhez.",
+            "ro": "Odihniți-vă la ieșirea unui defileu dramatic chiar pe țărm, făcând din această plajă un loc spectaculos unde puteți căuta sticlă de mare și pietricele unice.",
+            "en": "Rest at the exit of a dramatic gorge right onto the shoreline, making this beach a spectacular spot where you can search for unique sea glass and pebbles."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Lorentzos",
+            "hu": "Lorentzos strand",
+            "ro": "Plaja Lorentzos",
+            "en": "Lorentzos Beach"
+          },
+          "coords": [
+            22.99785,
+            36.314032
+          ],
+          "category": "recreational",
+          "arrive_at": "15:12",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beobachten Sie den Farbwechsel des späten Nachmittags von diesem abgelegenen Sandstrand aus, ein perfektes Ende Ihrer Radtour, bei dem ein warmer Pullover nützlich ist.",
+            "hu": "Figyelje a késő délutáni színek változását erről az eldugott homokos szakaszról, amely tökéletes lezárása a kerékpártúrának, bár szürkületkor meleg pulóver kellhet.",
+            "ro": "Priviți cum se schimbă culorile de după-amiază de pe această fâșie de nisip izolată, un sfârșit relaxant perfect pentru turul dvs. cu bicicleta la apus.",
+            "en": "Watch the late afternoon colors change from this secluded sandy stretch, a perfect relaxing end to your bike tour where a warm sweater is needed at dusk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit Kultur im Theatro Potamou, gefolgt vom historischen Charme von Bruse Triphullianikon. Mittags radeln Sie hinauf, um die byzantinischen Ruinen von Palaiokhora Kutheron über der Schlucht zu erkunden. Am Nachmittag führt die Route hinab zur Küste, um das Wasser von Limne und den Ausgang der Kakia Lagkada-Schlucht zu genießen. Der Abend lässt Sie an den ruhigen Ufern von Lorentzos entspannen.",
+        "hu": "A reggel a Theatro Potamou kulturális élményével kezdődik, majd a Bruse Triphullianikon történelmi bája következik. A délidő kalandot hoz, ahogy felkerékpározik Palaiokhora Kutheron drámai bizánci romjaihoz a szurdok felett. Délután az útvonal a part felé ereszkedik, hogy élvezze a Limne nyugodt vizét és a Kakia Lagkada szurdokát. Az este a Lorentzos csendes partjainál éri Önt pihenés közben.",
+        "ro": "Dimineața începe cu o imersiune culturală la Theatro Potamou urmată de farmecul istoric de la Bruse Triphullianikon. Amiaza aduce aventură în timp ce pedalați pentru a explora ruinele bizantine de la Palaiokhora Kutheron. După-amiaza, traseul coboară spre coastă pentru a vă bucura de apele senine din Limne și ieșirea defileului Kakia Lagkada. Seara vă găsește relaxându-vă pe țărmurile liniștite din Lorentzos la apus.",
+        "en": "Morning starts with cultural immersion at Theatro Potamou followed by the historic stone charm of Bruse Triphullianikon. Midday brings adventure as you cycle up to explore the dramatic Byzantine ruins of Palaiokhora Kutheron over the gorge. In the afternoon, the route descends toward the coast to enjoy the serene waters of Limne and the dramatic exit of Kakia Lagkada gorge. The evening finds you relaxing by the calm shores of Lorentzos as twilight approaches."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:09",
+      "total_km": 7.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Burg des Agios Georgios von Kolokythia",
+            "hu": "Kolokythia-i Agios Georgios vára",
+            "ro": "Castelul Agios Georgios din Kolokythia",
+            "en": "Castle of Agios Georgios of Kolokythia"
+          },
+          "coords": [
+            22.975753,
+            36.335494
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesen imposanten Festungsruinen mit Blick aufs Meer, die einen atemberaubenden Panoramablick bieten, für den Weitwinkelobjektive ein Muss sind.",
+            "hu": "Lépjen vissza az időben e tengerre néző, impozáns erődromoknál, amelyek lélegzetelállító panorámát nyújtanak, így a nagylátószögű objektív elengedhetetlen.",
+            "ro": "Pășiți înapoi în timp la aceste ruine impunătoare de fortăreață cu vedere la mare, oferind vederi panoramice uluitoare unde lentilele cu unghi larg sunt absolut necesare.",
+            "en": "Step back in time at these imposing fortress ruins overlooking the sea, offering breathtaking panoramic views where wide-angle lenses are an absolute must."
+          }
+        },
+        {
+          "name": {
+            "de": "Agia Patrikia",
+            "hu": "Agia Patrikia",
+            "ro": "Agia Patrikia",
+            "en": "Agia Patrikia"
+          },
+          "coords": [
+            22.976728,
+            36.336526
+          ],
+          "category": "recreational",
+          "arrive_at": "10:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch den kleinen Hafen dieser Küstensiedlung, wo bunte Fischerboote im Wasser schaukeln, ein großartiger Ort für einen authentischen Meeresfrüchte-Snack.",
+            "hu": "Sétáljon végig e tengerparti település kis, festői kikötőjében, ahol színes halászhajók ringatóznak a vízen, és amely remek hely egy autentikus tengeri falatozásra.",
+            "ro": "Plimbați-vă de-a lungul micului port pitoresc al acestei așezări de coastă unde bărcile de pescuit colorate se leagănă în apă, un loc minunat pentru o gustare cu fructe de mare.",
+            "en": "Stroll along the small, picturesque harbor of this coastal settlement where colorful fishing boats bob in the water, a great spot for an authentic seafood snack."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Agia Pelagia",
+            "hu": "Agia Pelagia strand",
+            "ro": "Plaja Agia Pelagia",
+            "en": "Agia Pelagia Beach"
+          },
+          "coords": [
+            22.981208,
+            36.326361
+          ],
+          "category": "recreational",
+          "arrive_at": "11:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Schwimmen Sie im klaren Wasser dieses lebhaften, von Tavernen gesäumten Küstendorfes, und sichern Sie sich während der Sonnenstunden einen schattigen Platz unter den Bäumen.",
+            "hu": "Ússzon e nyüzsgő, tavernákkal szegélyezett tengerparti falu tiszta kék vizében, és a legmelegebb órákban mindenképpen árnyékos helyet válasszon a fák alatt.",
+            "ro": "Înotați în apele albastre clare ale acestei plaje vibrante dintr-un sat de coastă plin de taverne, asigurându-vă că prindeți un loc umbrit sub copaci în orele de vârf de soare.",
+            "en": "Swim in the clear blue waters of this vibrant coastal village beach lined with tavernas, ensuring you grab a shaded spot under the trees during peak sun hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Phure Ammos",
+            "hu": "Phure Ammos strand",
+            "ro": "Plaja Phure Ammos",
+            "en": "Phure Ammos Beach"
+          },
+          "coords": [
+            22.989922,
+            36.318646
+          ],
+          "category": "recreational",
+          "arrive_at": "13:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erleben Sie den Kontrast von tiefblauem Wasser und roten Kieselsteinen an diesem Naturwunder, einer fantastischen Kulisse zum Entspannen vor der Weiterfahrt.",
+            "hu": "Tapasztalja meg a mélykék víz és a vörös kavicsok feltűnő kontrasztját e természeti csodánál, amely fantasztikus helyszín a pihenéshez a vezetés folytatása előtt.",
+            "ro": "Experimentați contrastul izbitor dintre apele albastre adânci și pietricelele roșii la această minune naturală, un cadru fantastic pentru relaxare înainte de a continua drumul.",
+            "en": "Experience the striking contrast of deep blue waters against red pebbles at this natural wonder, a fantastic setting for relaxing before continuing your drive."
+          }
+        },
+        {
+          "name": {
+            "de": "Palaiokhora Kythera",
+            "hu": "Küthéra Palaiokhora",
+            "ro": "Palaiokhora Kythira",
+            "en": "Palaiokhora of Kythira"
+          },
+          "coords": [
+            22.997939,
+            36.298387
+          ],
+          "category": "castle",
+          "arrive_at": "14:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Navigieren Sie durch die faszinierende Geschichte dieser verlassenen Bergstadt, die oft Mystras von Kythira genannt wird, und bringen Sie ausreichend Wasser mit.",
+            "hu": "Ismerje meg ezen elhagyatott dombtetőn fekvő, gyakran Küthéra Misztrászának nevezett város lenyűgöző történetét, és vigyen magával elegendő vizet a meredek ösvényekre.",
+            "ro": "Navigați prin istoria fascinantă a acestui oraș abandonat pe un deal numit adesea Mystras de Kythira, asigurându-vă că aduceți multă apă pentru căile abrupte.",
+            "en": "Navigate the fascinating history of this abandoned hilltop town often called the Mystras of Kythira, making sure to bring plenty of water for the steep pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Quelle Triphullianikon",
+            "hu": "Triphullianikon-forrás",
+            "ro": "Izvorul Triphullianikon",
+            "en": "Triphullianikon Spring"
+          },
+          "coords": [
+            22.978262,
+            36.299469
+          ],
+          "category": "landmark",
+          "arrive_at": "15:52",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die friedliche Ästhetik dieser historischen Wasserquelle inmitten der üppigen Insellandschaft, wo das lauschen des sanften Fließens ein achtsamer Moment ist.",
+            "hu": "Csodálja meg e buja szigeti tájban megbúvó történelmi vízforrás békés esztétikáját, ahol a lágy áramlás hallgatása tökéletes, elmélyült pillanatot nyújt.",
+            "ro": "Admirați estetica senină a acestei surse istorice de apă ascunsă printre peisajul insular luxuriant, unde a asculta curgerea blândă este un moment perfect de conștientizare.",
+            "en": "Admire the serene aesthetic of this historic water source hidden amidst the lush island landscape, where listening to the gentle flow is a perfect mindful moment."
+          }
+        },
+        {
+          "name": {
+            "de": "Theater Potamos",
+            "hu": "Potamos Színház",
+            "ro": "Teatrul Potamos",
+            "en": "Potamos Theater"
+          },
+          "coords": [
+            22.971353,
+            36.303775
+          ],
+          "category": "cultural",
+          "arrive_at": "16:19",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Inselreise in diesem charmanten Freilufttheater inmitten der lokalen Kultur und passen Sie Ihren Besuch so ab, dass Sie das schöne Abendlicht einfangen.",
+            "hu": "Zárja szigeti utazását a helyi kultúrában elmerülve ezen a bájos szabadtéri színházi területen, és időzítse látogatását úgy, hogy elcsípje a falu feletti szép esti fényeket.",
+            "ro": "Încheiați-vă călătoria pe insulă cufundat în cultura locală la acest spațiu fermecător de teatru în aer liber, programându-vă vizita pentru a prinde lumina frumoasă a serii.",
+            "en": "Conclude your island journey immersed in the local culture at this charming open-air theater space, timing your visit to catch beautiful evening light over the village."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen führt Sie in den hohen Norden, um das imposante Schloss von Agios Georgios zu erkunden, bevor Sie sich bei den Fischerbooten von Agia Patrikia entspannen. Mittags können Sie an den Stränden von Agia Pelagia und den roten Kieselsteinen von Phure Ammos die Sonne genießen. Am Nachmittag tauchen Sie in die Geschichte der byzantinischen Hauptstadt Palaiokhora und der Steine von Bruse ein. Der Abend endet elegant in Potamos im Freilufttheater.",
+        "hu": "A reggel a messzi északra viszi, hogy felfedezze az Agios Georgios erődöt, mielőtt megpihen Agia Patrikia halászhajóinál. A délidő tökéletes a napsütötte pihenésre Agia Pelagia népszerű partjain és Phure Ammos vörös kavicsainál. Délután elmélyül a történelemben a romos bizánci főváros, Palaiokhora és Bruse csendes kövei között. Az este elegánsan zárul Potamosban, ahol a szabadtéri színháznál szívhatja magába a helyi kultúrát.",
+        "ro": "Dimineața vă duce în nordul îndepărtat pentru a explora impunătorul Castel Agios Georgios înainte de a vă relaxa lângă bărcile de la Agia Patrikia. Amiaza este perfectă pentru relaxare pe plajele populare din Agia Pelagia și la pietricelele roșii din Phure Ammos. După-amiaza vă veți cufunda în istoria profundă explorând capitala bizantină Palaiokhora și pietrele liniștite din Bruse. Seara se încheie elegant în Potamos cu teatrul în aer liber.",
+        "en": "The morning takes you to the far north to explore the commanding Castle of Agios Georgios before unwinding by the fishing boats of Agia Patrikia. Midday is perfect for sun-soaked relaxation along the popular shores of Agia Pelagia and the unique red pebbles of Phure Ammos. In the afternoon, you will dive into deep history exploring the ruined Byzantine capital of Palaiokhora and the quiet stones of Bruse. The evening elegantly concludes in Potamos, absorbing the local culture at the open-air theater."
+      }
+    }
+  }
+}

@@ -1,0 +1,520 @@
+{
+  "city_id": "italy-santa-severa-cities-v2",
+  "anchor": {
+    "name": "Santa Severa",
+    "coords": [
+      11.95365,
+      42.02176
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "19:54",
+      "total_km": 1.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Castello di Santa Severa",
+            "hu": "Castello di Santa Severa",
+            "ro": "Castello di Santa Severa",
+            "en": "Castello di Santa Severa"
+          },
+          "coords": [
+            11.956956,
+            42.016007
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die majestätische Burg direkt am Meer und besuchen Sie frühzeitig den Innenhof, um dem größten Besucheransturm zu entgehen.",
+            "hu": "Csodálja meg ezt a tengerparti kastélyt, és érkezzen korán a belső udvarhoz, hogy elkerülje a legnagyobb tömeget.",
+            "ro": "Admirați acest castel maiestuos situat chiar pe malul mării și vizitați curtea interioară devreme pentru a evita aglomerația.",
+            "en": "Admire this majestic castle located right on the seafront, and visit the inner courtyard early to avoid the largest crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Mare e della Navigazione Antica",
+            "hu": "Museo del Mare e della Navigazione Antica",
+            "ro": "Museo del Mare e della Navigazione Antica",
+            "en": "Museo del Mare e della Navigazione Antica"
+          },
+          "coords": [
+            11.958389,
+            42.016561
+          ],
+          "category": "museum",
+          "arrive_at": "10:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende antike Schifffahrtstechniken in diesem Museum und nehmen Sie sich Zeit für die detaillierten Schiffsmodelle.",
+            "hu": "Fedezze fel az ősi hajózási technikákat ebben a múzeumban, és szánjon időt a részletes hajómodellek tanulmányozására.",
+            "ro": "Descoperiți tehnicile antice de navigație în acest muzeu fascinant și acordați-vă timp pentru a studia modelele detaliate ale navelor.",
+            "en": "Discover fascinating ancient navigation techniques in this museum, and take your time to study the detailed ship models."
+          }
+        },
+        {
+          "name": {
+            "de": "Antiquarium Pyrgense",
+            "hu": "Antiquarium Pyrgense",
+            "ro": "Antiquarium Pyrgense",
+            "en": "Antiquarium Pyrgense"
+          },
+          "coords": [
+            11.959415,
+            42.016834
+          ],
+          "category": "museum",
+          "arrive_at": "12:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die wertvollen etruskischen Artefakte und achten Sie besonders auf die rekonstruierten Giebelfiguren des Tempels.",
+            "hu": "Fedezze fel az értékes etruszk leleteket, és fordítson különös figyelmet a templom rekonstruált oromzati szobraira.",
+            "ro": "Explorați artefactele etrusce valoroase și acordați o atenție deosebită figurilor de fronton reconstruite ale templului.",
+            "en": "Explore the valuable Etruscan artifacts and pay special attention to the reconstructed pediment figures of the temple."
+          }
+        },
+        {
+          "name": {
+            "de": "Resti della Porta Alsium",
+            "hu": "Resti della Porta Alsium",
+            "ro": "Resti della Porta Alsium",
+            "en": "Resti della Porta Alsium"
+          },
+          "coords": [
+            11.95981,
+            42.015928
+          ],
+          "category": "historical",
+          "arrive_at": "13:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Betrachten Sie die Überreste dieses antiken Tors, das einen Einblick in die römische Stadtplanung bietet, und tragen Sie bequeme Schuhe für das unebene Gelände.",
+            "hu": "Tekintse meg az ókori kapu maradványait, amely bepillantást enged a római várostervezésbe, és viseljen kényelmes cipőt az egyenetlen talaj miatt.",
+            "ro": "Observați rămășițele acestei porți antice care oferă o perspectivă asupra planificării urbane romane și purtați încălțăminte confortabilă pentru terenul accidentat.",
+            "en": "Observe the remains of this ancient gate that offers insight into Roman urban planning, and wear comfortable shoes for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Pyrgi",
+            "hu": "Pyrgi",
+            "ro": "Pyrgi",
+            "en": "Pyrgi"
+          },
+          "coords": [
+            11.96202,
+            42.015753
+          ],
+          "category": "historical",
+          "arrive_at": "15:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die Geschichte dieser antiken Hafenstadt und besuchen Sie die Ausgrabungsstätte am besten am späten Nachmittag für optimales Licht.",
+            "hu": "Merüljön el ennek az ókori kikötővárosnak a történetében, és a legjobb fényviszonyok érdekében késő délután látogassa meg az ásatási területet.",
+            "ro": "Cufundați-vă în istoria acestui oraș-port antic și vizitați situl arheologic spre sfârșitul după-amiezii pentru o lumină optimă.",
+            "en": "Immerse yourself in the history of this ancient port city, and visit the excavation site in the late afternoon for optimal lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Temple B",
+            "hu": "Temple B",
+            "ro": "Temple B",
+            "en": "Temple B"
+          },
+          "coords": [
+            11.963799,
+            42.01506
+          ],
+          "category": "historical",
+          "arrive_at": "16:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Grundmauern dieses historischen Tempels und lesen Sie die Infotafeln, um die architektonischen Details der Etrusker zu verstehen.",
+            "hu": "Csodálja meg a történelmi templom alapfalait, és olvassa el a tájékoztató táblákat, hogy megértse az etruszk építészeti részleteket.",
+            "ro": "Admirați fundațiile acestui templu istoric și citiți panourile informative pentru a înțelege detaliile arhitecturale etrusce.",
+            "en": "Admire the foundations of this historic temple, and read the information boards to understand the Etruscan architectural details."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Santa Severa",
+            "hu": "Spiaggia di Santa Severa",
+            "ro": "Spiaggia di Santa Severa",
+            "en": "Spiaggia di Santa Severa"
+          },
+          "coords": [
+            11.966551,
+            42.012051
+          ],
+          "category": "recreational",
+          "arrive_at": "18:09",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem weiten Sandstrand mit Blick auf die Burg und bringen Sie Ihren eigenen Sonnenschirm mit, da die Schattenplätze begrenzt sind.",
+            "hu": "Pihenjen ezen a tágas homokos strandon, ahonnan kilátás nyílik a kastélyra, és hozzon magával napernyőt, mivel az árnyékos helyek száma korlátozott.",
+            "ro": "Relaxați-vă pe această plajă largă de nisip cu vedere la castel și aduceți-vă propria umbrelă, deoarece locurile la umbră sunt limitate.",
+            "en": "Relax on this wide sandy beach overlooking the castle, and bring your own umbrella as shaded spots are quite limited."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am imposanten Castello di Santa Severa, wo die Meeresbrise Sie weckt. Am Vormittag tauchen Sie in die maritimen Ausstellungen des Museo del Mare ein und bewundern antike Schätze im Antiquarium. Der Nachmittag führt Sie durch die faszinierenden Ausgrabungen von Pyrgi und historische Tempelanlagen. Zum Ausklang entspannen Sie am Strand und genießen den Sonnenuntergang.",
+        "hu": "A napja a lenyűgöző Castello di Santa Severa kastélynál kezdődik, tengeri szellő kíséretében. Délelőtt a Museo del Mare tengeri kiállításain és az Antiquarium kincsein ámulhat. A délután folyamán bejárhatja Pyrgi lenyűgöző ásatásait és a történelmi templomokat. Zárásként a festői strandon pihenhet, miközben a lemenő nap sugarai festik meg az eget.",
+        "ro": "Ziua începe la impresionantul Castello di Santa Severa, mângâiat de briza mării. Dimineața explorați expozițiile maritime de la Museo del Mare și comorile din Antiquarium. După-amiaza vă conduce prin săpăturile fascinante de la Pyrgi și prin temple istorice. Seara, vă relaxați pe plajă și admirați apusul de soare cu castelul pe fundal.",
+        "en": "Your day begins at the impressive Castello di Santa Severa, awakened by the sea breeze. In the morning, immerse yourself in maritime history at the Museo del Mare and the Antiquarium. The afternoon takes you through the fascinating excavations of Pyrgi and ancient temples. Finally, relax on the beach and enjoy a spectacular sunset over the water."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:26",
+      "total_km": 5.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Villa Romana \"I Grottini\"",
+            "hu": "Villa Romana \"I Grottini\"",
+            "ro": "Villa Romana \"I Grottini\"",
+            "en": "Villa Romana \"I Grottini\""
+          },
+          "coords": [
+            11.936167,
+            42.028595
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Ruinen dieser römischen Villa und achten Sie auf die gut erhaltenen Mosaikfragmente entlang des Hauptweges.",
+            "hu": "Fedezze fel a római villa lenyűgöző romjait, és figyelje meg a jól megőrzött mozaiktöredékeket a főútvonal mentén.",
+            "ro": "Explorați ruinele fascinante ale acestei vile romane și fiți atenți la fragmentele de mozaic bine conservate de-a lungul potecii principale.",
+            "en": "Explore the fascinating ruins of this Roman villa, and look out for the well-preserved mosaic fragments along the main path."
+          }
+        },
+        {
+          "name": {
+            "de": "Il Marinaio",
+            "hu": "Il Marinaio",
+            "ro": "Il Marinaio",
+            "en": "Il Marinaio"
+          },
+          "coords": [
+            11.953978,
+            42.018751
+          ],
+          "category": "recreational",
+          "arrive_at": "10:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre an diesem charmanten Erholungsort und machen Sie fantastische Fotos vom glitzernden Mittelmeer.",
+            "hu": "Élvezze a békés hangulatot ezen a hangulatos pihenőhelyen, és készítsen fantasztikus fotókat a csillogó Földközi-tengerről.",
+            "ro": "Bucurați-vă de atmosfera pașnică din acest loc de recreere fermecător și faceți fotografii fantastice cu Marea Mediterană strălucitoare.",
+            "en": "Enjoy the peaceful atmosphere at this charming recreational spot, and take fantastic photos of the sparkling Mediterranean Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello di Santa Severa",
+            "hu": "Castello di Santa Severa",
+            "ro": "Castello di Santa Severa",
+            "en": "Castello di Santa Severa"
+          },
+          "coords": [
+            11.956956,
+            42.016007
+          ],
+          "category": "castle",
+          "arrive_at": "11:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die majestätische Burg direkt am Meer und besuchen Sie frühzeitig den Innenhof, um dem größten Besucheransturm zu entgehen.",
+            "hu": "Csodálja meg ezt a tengerparti kastélyt, és érkezzen korán a belső udvarhoz, hogy elkerülje a legnagyobb tömeget.",
+            "ro": "Admirați acest castel maiestuos situat chiar pe malul mării și vizitați curtea interioară devreme pentru a evita aglomerația.",
+            "en": "Admire this majestic castle located right on the seafront, and visit the inner courtyard early to avoid the largest crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Mare e della Navigazione Antica",
+            "hu": "Museo del Mare e della Navigazione Antica",
+            "ro": "Museo del Mare e della Navigazione Antica",
+            "en": "Museo del Mare e della Navigazione Antica"
+          },
+          "coords": [
+            11.958389,
+            42.016561
+          ],
+          "category": "museum",
+          "arrive_at": "13:19",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende antike Schifffahrtstechniken in diesem Museum und nehmen Sie sich Zeit für die detaillierten Schiffsmodelle.",
+            "hu": "Fedezze fel az ősi hajózási technikákat ebben a múzeumban, és szánjon időt a részletes hajómodellek tanulmányozására.",
+            "ro": "Descoperiți tehnicile antice de navigație în acest muzeu fascinant și acordați-vă timp pentru a studia modelele detaliate ale navelor.",
+            "en": "Discover fascinating ancient navigation techniques in this museum, and take your time to study the detailed ship models."
+          }
+        },
+        {
+          "name": {
+            "de": "Pyrgi",
+            "hu": "Pyrgi",
+            "ro": "Pyrgi",
+            "en": "Pyrgi"
+          },
+          "coords": [
+            11.96202,
+            42.015753
+          ],
+          "category": "historical",
+          "arrive_at": "15:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die Geschichte dieser antiken Hafenstadt und besuchen Sie die Ausgrabungsstätte am besten am späten Nachmittag für optimales Licht.",
+            "hu": "Merüljön el ennek az ókori kikötővárosnak a történetében, és a legjobb fényviszonyok érdekében késő délután látogassa meg az ásatási területet.",
+            "ro": "Cufundați-vă în istoria acestui oraș-port antic și vizitați situl arheologic spre sfârșitul după-amiezii pentru o lumină optimă.",
+            "en": "Immerse yourself in the history of this ancient port city, and visit the excavation site in the late afternoon for optimal lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Castrum Carcari",
+            "hu": "Castrum Carcari",
+            "ro": "Castrum Carcari",
+            "en": "Castrum Carcari"
+          },
+          "coords": [
+            11.967236,
+            42.04005
+          ],
+          "category": "castle",
+          "arrive_at": "16:36",
+          "stay_min": 110,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese abgelegene Festungsanlage und bringen Sie ausreichend Wasser mit, da es in der unmittelbaren Umgebung keine Verpflegungsmöglichkeiten gibt.",
+            "hu": "Látogassa meg ezt a félreeső erődöt, és hozzon magával elegendő vizet, mivel a közvetlen közelben nincsenek étkezési lehetőségek.",
+            "ro": "Vizitați această fortificație retrasă și aduceți cu dumneavoastră suficientă apă, deoarece nu există opțiuni de luat masa în imediata apropiere.",
+            "en": "Visit this remote fortification and bring plenty of water with you, as there are no dining options in the immediate vicinity."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Sie starten sportlich bei der Villa Romana I Grottini und erkunden die antiken Überreste. Eine kurze Fahrt bringt Sie zum Erholungsort Il Marinaio am Wasser. Gegen Mittag erreichen Sie das beeindruckende Castello und das benachbarte Schifffahrtsmuseum. Nach der Besichtigung der antiken Hafenstadt Pyrgi radeln Sie in Richtung Castrum Carcari, wo der Tag ausklingt.",
+        "hu": "Aktívan indul a nap a Villa Romana I Grottini ősi romjainál. Egy rövid tekerés elviszi az Il Marinaio pihenőhelyre. Dél körül eléri a lenyűgöző tengerparti kastélyt és a hajózási múzeumot. Pyrgi ősi kikötővárosának felfedezése után a Castrum Carcari erődítmény felé veszi az irányt, ahol egy békés környezetben zárhatja a napot.",
+        "ro": "Începeți activ la ruinele Villa Romana I Grottini. O scurtă plimbare vă duce la locul de relaxare Il Marinaio de pe coastă. La prânz ajungeți la impresionantul castel pe malul mării și la muzeul maritim. După ce explorați orașul antic Pyrgi, pedalați spre Castrum Carcari, o fortificație liniștită unde vă veți încheia ziua.",
+        "en": "Start actively at the ancient ruins of Villa Romana I Grottini before riding to the relaxing coastal spot of Il Marinaio. Around noon, you will reach the majestic seaside castle and the adjacent maritime museum. After exploring the ancient port of Pyrgi, cycle towards Castrum Carcari, where your day concludes in a peaceful, historic setting."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:45",
+      "total_km": 6.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Castrum Carcari",
+            "hu": "Castrum Carcari",
+            "ro": "Castrum Carcari",
+            "en": "Castrum Carcari"
+          },
+          "coords": [
+            11.967236,
+            42.04005
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese abgelegene Festungsanlage und bringen Sie ausreichend Wasser mit, da es in der unmittelbaren Umgebung keine Verpflegungsmöglichkeiten gibt.",
+            "hu": "Látogassa meg ezt a félreeső erődöt, és hozzon magával elegendő vizet, mivel a közvetlen közelben nincsenek étkezési lehetőségek.",
+            "ro": "Vizitați această fortificație retrasă și aduceți cu dumneavoastră suficientă apă, deoarece nu există opțiuni de luat masa în imediata apropiere.",
+            "en": "Visit this remote fortification and bring plenty of water with you, as there are no dining options in the immediate vicinity."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Romana \"I Grottini\"",
+            "hu": "Villa Romana \"I Grottini\"",
+            "ro": "Villa Romana \"I Grottini\"",
+            "en": "Villa Romana \"I Grottini\""
+          },
+          "coords": [
+            11.936167,
+            42.028595
+          ],
+          "category": "historical",
+          "arrive_at": "10:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Ruinen dieser römischen Villa und achten Sie auf die gut erhaltenen Mosaikfragmente entlang des Hauptweges.",
+            "hu": "Fedezze fel a római villa lenyűgöző romjait, és figyelje meg a jól megőrzött mozaiktöredékeket a főútvonal mentén.",
+            "ro": "Explorați ruinele fascinante ale acestei vile romane și fiți atenți la fragmentele de mozaic bine conservate de-a lungul potecii principale.",
+            "en": "Explore the fascinating ruins of this Roman villa, and look out for the well-preserved mosaic fragments along the main path."
+          }
+        },
+        {
+          "name": {
+            "de": "La Scogliera",
+            "hu": "La Scogliera",
+            "ro": "La Scogliera",
+            "en": "La Scogliera"
+          },
+          "coords": [
+            11.943084,
+            42.023948
+          ],
+          "category": "recreational",
+          "arrive_at": "11:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang dieser malerischen Klippen und tragen Sie rutschfeste Schuhe, um die besten Aussichtspunkte sicher zu erreichen.",
+            "hu": "Sétáljon végig ezeken a festői sziklákon, és viseljen csúszásmentes cipőt, hogy biztonságosan elérje a legjobb kilátópontokat.",
+            "ro": "Plimbați-vă de-a lungul acestor stânci pitorești și purtați încălțăminte antiderapantă pentru a ajunge în siguranță la cele mai bune puncte de belvedere.",
+            "en": "Stroll along these picturesque cliffs, and wear non-slip shoes to safely reach the best viewpoints along the rocky coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello di Santa Severa",
+            "hu": "Castello di Santa Severa",
+            "ro": "Castello di Santa Severa",
+            "en": "Castello di Santa Severa"
+          },
+          "coords": [
+            11.956956,
+            42.016007
+          ],
+          "category": "castle",
+          "arrive_at": "13:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die majestätische Burg direkt am Meer und besuchen Sie frühzeitig den Innenhof, um dem größten Besucheransturm zu entgehen.",
+            "hu": "Csodálja meg ezt a tengerparti kastélyt, és érkezzen korán a belső udvarhoz, hogy elkerülje a legnagyobb tömeget.",
+            "ro": "Admirați acest castel maiestuos situat chiar pe malul mării și vizitați curtea interioară devreme pentru a evita aglomerația.",
+            "en": "Admire this majestic castle located right on the seafront, and visit the inner courtyard early to avoid the largest crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Mare e della Navigazione Antica",
+            "hu": "Museo del Mare e della Navigazione Antica",
+            "ro": "Museo del Mare e della Navigazione Antica",
+            "en": "Museo del Mare e della Navigazione Antica"
+          },
+          "coords": [
+            11.958389,
+            42.016561
+          ],
+          "category": "museum",
+          "arrive_at": "14:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende antike Schifffahrtstechniken in diesem Museum und nehmen Sie sich Zeit für die detaillierten Schiffsmodelle.",
+            "hu": "Fedezze fel az ősi hajózási technikákat ebben a múzeumban, és szánjon időt a részletes hajómodellek tanulmányozására.",
+            "ro": "Descoperiți tehnicile antice de navigație în acest muzeu fascinant și acordați-vă timp pentru a studia modelele detaliate ale navelor.",
+            "en": "Discover fascinating ancient navigation techniques in this museum, and take your time to study the detailed ship models."
+          }
+        },
+        {
+          "name": {
+            "de": "Antiquarium Pyrgense",
+            "hu": "Antiquarium Pyrgense",
+            "ro": "Antiquarium Pyrgense",
+            "en": "Antiquarium Pyrgense"
+          },
+          "coords": [
+            11.959415,
+            42.016834
+          ],
+          "category": "museum",
+          "arrive_at": "16:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die wertvollen etruskischen Artefakte und achten Sie besonders auf die rekonstruierten Giebelfiguren des Tempels.",
+            "hu": "Fedezze fel az értékes etruszk leleteket, és fordítson különös figyelmet a templom rekonstruált oromzati szobraira.",
+            "ro": "Explorați artefactele etrusce valoroase și acordați o atenție deosebită figurilor de fronton reconstruite ale templului.",
+            "en": "Explore the valuable Etruscan artifacts and pay special attention to the reconstructed pediment figures of the temple."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Santa Severa",
+            "hu": "Spiaggia di Santa Severa",
+            "ro": "Spiaggia di Santa Severa",
+            "en": "Spiaggia di Santa Severa"
+          },
+          "coords": [
+            11.966551,
+            42.012051
+          ],
+          "category": "recreational",
+          "arrive_at": "18:00",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem weiten Sandstrand mit Blick auf die Burg und bringen Sie Ihren eigenen Sonnenschirm mit, da die Schattenplätze begrenzt sind.",
+            "hu": "Pihenjen ezen a tágas homokos strandon, ahonnan kilátás nyílik a kastélyra, és hozzon magával napernyőt, mivel az árnyékos helyek száma korlátozott.",
+            "ro": "Relaxați-vă pe această plajă largă de nisip cu vedere la castel și aduceți-vă propria umbrelă, deoarece locurile la umbră sunt limitate.",
+            "en": "Relax on this wide sandy beach overlooking the castle, and bring your own umbrella as shaded spots are quite limited."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie zuerst die abgelegene Festung Castrum Carcari im Hinterland. Danach geht es zur römischen Villa I Grottini und weiter zur malerischen La Scogliera. Am Nachmittag parken Sie am Castello di Santa Severa, um Burg und Museen ausgiebig zu besichtigen. Der perfekte Tag endet mit einem entspannten Spaziergang am weitläufigen Sandstrand.",
+        "hu": "Autóval először a békés Castrum Carcari erődöt fedezi fel. Ezután a római Villa I Grottini és a festői La Scogliera következik. Kora délután a Castello di Santa Severa parkolójában hagyja az autót, hogy bejárja a kastélyt és a múzeumokat. A tökéletes napot egy lazító séta zárja a gyönyörű, hosszú homokos strandon.",
+        "ro": "Cu mașina vizitați mai întâi fortificația retrasă Castrum Carcari. Apoi vă îndreptați spre Villa Romana I Grottini și pitoreasca La Scogliera. După-amiaza, parcați la Castello di Santa Severa pentru a explora pe îndelete castelul și muzeele învecinate. Ziua perfectă se încheie cu o plimbare relaxantă pe plaja largă cu nisip.",
+        "en": "Drive first to the remote fortification of Castrum Carcari to start your morning. Next, head to the Roman Villa I Grottini and the picturesque La Scogliera. In the afternoon, park at Castello di Santa Severa to thoroughly explore the castle and its adjacent museums. Your perfect day ends with a relaxing stroll along the wide sandy beach."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "graulhet",
+  "anchor": {
+    "name": "Graulhet",
+    "coords": [
+      1.9886,
+      43.7608
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:03",
+      "total_km": 2.15,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Graulhet",
+            "hu": "Graulhet Városháza",
+            "ro": "Primăria Graulhet",
+            "en": "Graulhet Town Hall"
+          },
+          "coords": [
+            1.988877,
+            43.759792
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beachten Sie die beeindruckenden Details des Rathauses, die das lokale Erbe widerspiegeln, und trinken Sie auf dem nahen Platz einen Morgenkaffee.",
+            "hu": "Figyelje meg a városháza lenyűgöző részleteit, amelyek a helyi örökséget tükrözik, és igyon egy reggeli kávét a közeli téren található kávézóban.",
+            "ro": "Observați detaliile municipale impresionante ale primăriei ce reflectă moștenirea locală și opriți-vă în piața din apropiere pentru o cafea dimineața.",
+            "en": "Notice the impressive municipal details of the town hall that reflect local heritage, and stop by the nearby square to grab a morning coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Brücke",
+            "hu": "Öreg Híd",
+            "ro": "Podul Vechi",
+            "en": "Old Bridge"
+          },
+          "coords": [
+            1.989912,
+            43.762802
+          ],
+          "category": "historical",
+          "arrive_at": "09:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie die alte Architektur dieser historischen Brücke über den Dadou, aber tragen Sie für das Kopfsteinpflaster bequeme flache Schuhe.",
+            "hu": "Csodálja meg a Dadou folyón átívelő történelmi híd ősi építészetét, de a régi macskakövek miatt mindenképpen lapos talpú cipőt viseljen.",
+            "ro": "Admirați arhitectura antică a acestui pod istoric peste râul Dadou, dar purtați încălțăminte fără toc pentru a păși în siguranță pe piatra cubică.",
+            "en": "Admire the ancient architecture of this historic bridge spanning the Dadou river, but remember to wear flat shoes for its old cobblestones."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-Roch",
+            "hu": "Szent Rókus Kápolna",
+            "ro": "Capela Saint-Roch",
+            "en": "Chapel of Saint Roch"
+          },
+          "coords": [
+            1.990775,
+            43.765541
+          ],
+          "category": "religious",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses friedliche Heiligtum für den heiligen Rochus mit seinem charmanten Inneren, idealerweise bevor die starke Mittagssonne scheint.",
+            "hu": "Lépjen be ebbe a Szent Rókusnak szentelt békés szentélybe, hogy lássa annak bájos belső terét, amelyet a déli hőség előtt a legjobb csendben megtekinteni.",
+            "ro": "Pășiți în acest sanctuar religios pașnic dedicat Sfântului Roch pentru a vedea interiorul său fermecător, vizitat cel mai bine liniștit înainte de prânz.",
+            "en": "Step inside this peaceful religious sanctuary dedicated to Saint Roch to see its charming interior, best visited quietly before the midday sun hits."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Pierre",
+            "hu": "Szent Péter Templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Saint Peter's Church"
+          },
+          "coords": [
+            2.004337,
+            43.76013
+          ],
+          "category": "religious",
+          "arrive_at": "12:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die markanten architektonischen Merkmale dieser zentralen Kirche und achten Sie am Anschlagbrett auf die Veranstaltungen der Gemeinde.",
+            "hu": "Fedezze fel e központi templom kiemelkedő építészeti vonásait, és ne felejtse el megnézni a faliújságon a helyi közösségi események menetrendjét.",
+            "ro": "Explorați caracteristicile arhitecturale proeminente ale acestei biserici centrale și nu uitați să verificați panoul pentru evenimentele comunității.",
+            "en": "Explore the prominent architectural features of this central church, and remember to check the notice board for local community event schedules."
+          }
+        },
+        {
+          "name": {
+            "de": "Reformierter Tempel",
+            "hu": "Református Templom",
+            "ro": "Templul Reformat",
+            "en": "Reformed Temple"
+          },
+          "coords": [
+            2.006255,
+            43.762496
+          ],
+          "category": "religious",
+          "arrive_at": "12:53",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die strenge Schönheit dieses reformierten Tempels, der die Glaubensgeschichte der Region zeigt, am besten vom Vorplatz aus fotografiert.",
+            "hu": "Fedezze fel e református templom szigorú szépségét, amely rávilágít a régió vallástörténetére, és amit a legjobb az első udvarról lefotózni.",
+            "ro": "Descoperiți frumusețea austeră a acestui templu reformat care evidențiază istoria credinței din regiune, ideal de fotografiat din curtea din față.",
+            "en": "Discover the austere beauty of this reformed temple which highlights the region's diverse faith history, best photographed from the front courtyard."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der Erkundung des bürgerlichen Herzens von Graulhet und des Pont Vieux. Genießen Sie mittags einen ruhigen Moment in der Chapelle Saint-Roch vor dem Mittagessen. Der Nachmittag führt Sie zur imposanten Église Saint-Pierre. Beenden Sie Ihren Spaziergang und entdecken Sie den reformierten Tempel in der einsetzenden Dämmerung.",
+        "hu": "Kezdje a reggelt Graulhet központjának és a történelmi Pont Vieux-nek a felfedezésével. Délben élvezze a békés pillanatot a Chapelle Saint-Roch kápolnában, mielőtt megebédelne. A délután az impozáns Église Saint-Pierre-hez és környékéhez vezeti. Zárja a gyalogos túrát a református templom felfedezésével az este közeledtével.",
+        "ro": "Începeți dimineața explorând centrul civic din Graulhet și istoricul Pont Vieux. La prânz, bucurați-vă de un moment pașnic la Chapelle Saint-Roch înainte de masa de prânz. După-amiaza vă aduce la impunătoarea Église Saint-Pierre. Încheiați turul pietonal descoperind templul reformat odată cu lăsarea serii deasupra orașului vechi.",
+        "en": "Start your morning exploring Graulhet's civic heart and the historic Pont Vieux, soaking in the town's atmosphere. At midday, enjoy a peaceful moment at the Chapelle Saint-Roch before grabbing lunch. The afternoon brings you to the imposing Église Saint-Pierre and its surroundings. Conclude your walking tour discovering the reformed temple as evening sets in."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 6.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Alte Brücke",
+            "hu": "Öreg Híd",
+            "ro": "Podul Vechi",
+            "en": "Old Bridge"
+          },
+          "coords": [
+            1.989912,
+            43.762802
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die alte Architektur dieser historischen Brücke über den Dadou, aber tragen Sie für das Kopfsteinpflaster bequeme flache Schuhe.",
+            "hu": "Csodálja meg a Dadou folyón átívelő történelmi híd ősi építészetét, de a régi macskakövek miatt mindenképpen lapos talpú cipőt viseljen.",
+            "ro": "Admirați arhitectura antică a acestui pod istoric peste râul Dadou, dar purtați încălțăminte fără toc pentru a păși în siguranță pe piatra cubică.",
+            "en": "Admire the ancient architecture of this historic bridge spanning the Dadou river, but remember to wear flat shoes for its old cobblestones."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-Roch",
+            "hu": "Szent Rókus Kápolna",
+            "ro": "Capela Saint-Roch",
+            "en": "Chapel of Saint Roch"
+          },
+          "coords": [
+            1.990775,
+            43.765541
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses friedliche Heiligtum für den heiligen Rochus mit seinem charmanten Inneren, idealerweise bevor die starke Mittagssonne scheint.",
+            "hu": "Lépjen be ebbe a Szent Rókusnak szentelt békés szentélybe, hogy lássa annak bájos belső terét, amelyet a déli hőség előtt a legjobb csendben megtekinteni.",
+            "ro": "Pășiți în acest sanctuar religios pașnic dedicat Sfântului Roch pentru a vedea interiorul său fermecător, vizitat cel mai bine liniștit înainte de prânz.",
+            "en": "Step inside this peaceful religious sanctuary dedicated to Saint Roch to see its charming interior, best visited quietly before the midday sun hits."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Lézignac",
+            "hu": "Lézignac Kastély",
+            "ro": "Castelul Lézignac",
+            "en": "Lézignac Castle"
+          },
+          "coords": [
+            1.966971,
+            43.770254
+          ],
+          "category": "castle",
+          "arrive_at": "11:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie das rustikale Äußere dieses beeindruckenden Schlosses, um seine ländliche Pracht zu schätzen, und bringen Sie ein Fernglas mit.",
+            "hu": "Csodálja meg e lenyűgöző kastélybirtok rusztikus külsejét, és mindenképpen hozzon magával távcsövet a részletek alaposabb megfigyeléséhez.",
+            "ro": "Priviți exteriorul rustic al acestui impresionant domeniu al castelului pentru a-i aprecia măreția rurală, aducând un binoclu pentru detalii.",
+            "en": "Gaze upon the rustic exterior of this impressive castle estate to appreciate its rural grandeur, bringing binoculars for better views of its details."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame des Vignes",
+            "hu": "Notre-Dame des Vignes Templom",
+            "ro": "Biserica Notre-Dame des Vignes",
+            "en": "Our Lady of the Vines Church"
+          },
+          "coords": [
+            1.973492,
+            43.757698
+          ],
+          "category": "religious",
+          "arrive_at": "12:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese kleine Vorstadtkirche, um einen ruhigen Moment zu genießen, und parken Sie etwas weiter die Straße hinunter, wo es mehr Platz gibt.",
+            "hu": "Látogasson el ebbe a kisebb külvárosi templomba egy nyugodt pillanatra, és parkoljon egy kicsit lejjebb az úton, ahol mindig van bőséges parkolóhely.",
+            "ro": "Vizitați această mică biserică suburbană pentru un moment senin de reflecție și parcați puțin mai departe pe drum, unde spațiile sunt mereu abundente.",
+            "en": "Visit this smaller suburban church to enjoy a serene moment of reflection, and park slightly further down the road where spaces are always plentiful."
+          }
+        },
+        {
+          "name": {
+            "de": "Nabeillou-See",
+            "hu": "Nabeillou-tó",
+            "ro": "Lacul Nabeillou",
+            "en": "Lake Nabeillou"
+          },
+          "coords": [
+            1.969135,
+            43.755999
+          ],
+          "category": "recreational",
+          "arrive_at": "13:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Machen Sie einen entspannenden Spaziergang an den ruhigen Ufern dieses beliebten Sees, aber packen Sie im Sommer unbedingt Insektenschutzmittel ein.",
+            "hu": "Tegyen egy pihentető sétát e népszerű helyi tó partján, de nyáron mindenképpen vigyen magával rovarriasztót, ha a víz mellett szeretne üldögélni.",
+            "ro": "Faceți o plimbare relaxantă de-a lungul malurilor liniștite ale acestui lac popular, dar luați repelent de insecte dacă stați lângă apă vara.",
+            "en": "Take a relaxing stroll along the tranquil shores of this popular local lake, but pack insect repellent if you plan to sit by the water in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Miquelou-See",
+            "hu": "Miquelou-tó",
+            "ro": "Lacul Miquelou",
+            "en": "Lake Miquelou"
+          },
+          "coords": [
+            1.995031,
+            43.747879
+          ],
+          "category": "natural",
+          "arrive_at": "15:00",
+          "stay_min": 105,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die unberührte Natur rund um diesen wunderschönen See, der sich ideal für einen Spaziergang am späten Nachmittag eignet; nehmen Sie eine Jacke mit.",
+            "hu": "Élvezze az érintetlen természeti környezetet a gyönyörű tó körül, amely tökéletes egy békés késő délutáni sétához, ezért hozzon egy könnyű kabátot.",
+            "ro": "Bucurați-vă de mediul natural imaculat din jurul acestui lac frumos, perfect pentru o plimbare după-amiaza târziu, așa că luați o jachetă ușoară.",
+            "en": "Enjoy the pristine natural environment around this beautiful lake, perfect for a peaceful late afternoon walk so be sure to bring a light jacket."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt mit den bezaubernden historischen Sehenswürdigkeiten von Pont Vieux. Mittags fahren Sie zum großen Château de Lézignac, um die Architektur zu bewundern. Am Nachmittag radeln Sie zur Église Notre-Dame des Vignes und zum entspannenden Lac de Nabeillou. Beenden Sie den Tag am Lac de Miquelou bei einem wunderschönen Sonnenuntergang.",
+        "hu": "A kerékpáros utazás a Pont Vieux és a Saint-Roch bájos történelmi látnivalóival kezdődik. Délben a nagyszerű Château de Lézignac felé lovagol, hogy megcsodálja az építészetét. Délután tekerjen a nyugodt Église Notre-Dame des Vignes és a pihentető Lac de Nabeillou felé. Fejezze be az aktív napot a Lac de Miquelou-nál, ahogy a nap lemegy.",
+        "ro": "Călătoria cu bicicleta începe cu atracțiile istorice fermecătoare de la Pont Vieux. La prânz vă îndreptați spre grandiosul Château de Lézignac pentru a admira arhitectura. După-amiaza, pedalați către Église Notre-Dame des Vignes și relaxantul Lac de Nabeillou. Terminați ziua activă la Lac de Miquelou, admirând reflexiile de pe suprafața apei.",
+        "en": "Your cycling journey starts with the charming historical sights of the Pont Vieux and Saint-Roch. Midday sees you riding towards the grand Château de Lézignac to admire its architecture. In the afternoon, pedal out to the serene Église Notre-Dame des Vignes and the relaxing Lac de Nabeillou. Finish your active day at Lac de Miquelou as the sun goes down."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 9.05,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Graulhet",
+            "hu": "Graulhet Városháza",
+            "ro": "Primăria Graulhet",
+            "en": "Graulhet Town Hall"
+          },
+          "coords": [
+            1.988877,
+            43.759792
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beachten Sie die beeindruckenden Details des Rathauses, die das lokale Erbe widerspiegeln, und trinken Sie auf dem nahen Platz einen Morgenkaffee.",
+            "hu": "Figyelje meg a városháza lenyűgöző részleteit, amelyek a helyi örökséget tükrözik, és igyon egy reggeli kávét a közeli téren található kávézóban.",
+            "ro": "Observați detaliile municipale impresionante ale primăriei ce reflectă moștenirea locală și opriți-vă în piața din apropiere pentru o cafea dimineața.",
+            "en": "Notice the impressive municipal details of the town hall that reflect local heritage, and stop by the nearby square to grab a morning coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Brücke",
+            "hu": "Öreg Híd",
+            "ro": "Podul Vechi",
+            "en": "Old Bridge"
+          },
+          "coords": [
+            1.989912,
+            43.762802
+          ],
+          "category": "historical",
+          "arrive_at": "09:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie die alte Architektur dieser historischen Brücke über den Dadou, aber tragen Sie für das Kopfsteinpflaster bequeme flache Schuhe.",
+            "hu": "Csodálja meg a Dadou folyón átívelő történelmi híd ősi építészetét, de a régi macskakövek miatt mindenképpen lapos talpú cipőt viseljen.",
+            "ro": "Admirați arhitectura antică a acestui pod istoric peste râul Dadou, dar purtați încălțăminte fără toc pentru a păși în siguranță pe piatra cubică.",
+            "en": "Admire the ancient architecture of this historic bridge spanning the Dadou river, but remember to wear flat shoes for its old cobblestones."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Lézignac",
+            "hu": "Lézignac Kastély",
+            "ro": "Castelul Lézignac",
+            "en": "Lézignac Castle"
+          },
+          "coords": [
+            1.966971,
+            43.770254
+          ],
+          "category": "castle",
+          "arrive_at": "11:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie das rustikale Äußere dieses beeindruckenden Schlosses, um seine ländliche Pracht zu schätzen, und bringen Sie ein Fernglas mit.",
+            "hu": "Csodálja meg e lenyűgöző kastélybirtok rusztikus külsejét, és mindenképpen hozzon magával távcsövet a részletek alaposabb megfigyeléséhez.",
+            "ro": "Priviți exteriorul rustic al acestui impresionant domeniu al castelului pentru a-i aprecia măreția rurală, aducând un binoclu pentru detalii.",
+            "en": "Gaze upon the rustic exterior of this impressive castle estate to appreciate its rural grandeur, bringing binoculars for better views of its details."
+          }
+        },
+        {
+          "name": {
+            "de": "Nabeillou-See",
+            "hu": "Nabeillou-tó",
+            "ro": "Lacul Nabeillou",
+            "en": "Lake Nabeillou"
+          },
+          "coords": [
+            1.969135,
+            43.755999
+          ],
+          "category": "recreational",
+          "arrive_at": "12:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Machen Sie einen entspannenden Spaziergang an den ruhigen Ufern dieses beliebten Sees, aber packen Sie im Sommer unbedingt Insektenschutzmittel ein.",
+            "hu": "Tegyen egy pihentető sétát e népszerű helyi tó partján, de nyáron mindenképpen vigyen magával rovarriasztót, ha a víz mellett szeretne üldögélni.",
+            "ro": "Faceți o plimbare relaxantă de-a lungul malurilor liniștite ale acestui lac popular, dar luați repelent de insecte dacă stați lângă apă vara.",
+            "en": "Take a relaxing stroll along the tranquil shores of this popular local lake, but pack insect repellent if you plan to sit by the water in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Pierre",
+            "hu": "Szent Péter Templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Saint Peter's Church"
+          },
+          "coords": [
+            2.004337,
+            43.76013
+          ],
+          "category": "religious",
+          "arrive_at": "13:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die markanten architektonischen Merkmale dieser zentralen Kirche und achten Sie am Anschlagbrett auf die Veranstaltungen der Gemeinde.",
+            "hu": "Fedezze fel e központi templom kiemelkedő építészeti vonásait, és ne felejtse el megnézni a faliújságon a helyi közösségi események menetrendjét.",
+            "ro": "Explorați caracteristicile arhitecturale proeminente ale acestei biserici centrale și nu uitați să verificați panoul pentru evenimentele comunității.",
+            "en": "Explore the prominent architectural features of this central church, and remember to check the notice board for local community event schedules."
+          }
+        },
+        {
+          "name": {
+            "de": "Reformierter Tempel",
+            "hu": "Református Templom",
+            "ro": "Templul Reformat",
+            "en": "Reformed Temple"
+          },
+          "coords": [
+            2.006255,
+            43.762496
+          ],
+          "category": "religious",
+          "arrive_at": "14:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die strenge Schönheit dieses reformierten Tempels, der die Glaubensgeschichte der Region zeigt, am besten vom Vorplatz aus fotografiert.",
+            "hu": "Fedezze fel e református templom szigorú szépségét, amely rávilágít a régió vallástörténetére, és amit a legjobb az első udvarról lefotózni.",
+            "ro": "Descoperiți frumusețea austeră a acestui templu reformat care evidențiază istoria credinței din regiune, ideal de fotografiat din curtea din față.",
+            "en": "Discover the austere beauty of this reformed temple which highlights the region's diverse faith history, best photographed from the front courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Miquelou-See",
+            "hu": "Miquelou-tó",
+            "ro": "Lacul Miquelou",
+            "en": "Lake Miquelou"
+          },
+          "coords": [
+            1.995031,
+            43.747879
+          ],
+          "category": "natural",
+          "arrive_at": "15:16",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die unberührte Natur rund um diesen wunderschönen See, der sich ideal für einen Spaziergang am späten Nachmittag eignet; nehmen Sie eine Jacke mit.",
+            "hu": "Élvezze az érintetlen természeti környezetet a gyönyörű tó körül, amely tökéletes egy békés késő délutáni sétához, ezért hozzon egy könnyű kabátot.",
+            "ro": "Bucurați-vă de mediul natural imaculat din jurul acestui lac frumos, perfect pentru o plimbare după-amiaza târziu, așa că luați o jachetă ușoară.",
+            "en": "Enjoy the pristine natural environment around this beautiful lake, perfect for a peaceful late afternoon walk so be sure to bring a light jacket."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie durch Graulhet, beginnend am Hôtel de Ville und dem Pont Vieux. Die Mittagszeit ermöglicht eine kurze Fahrt zum rustikalen Château de Lézignac und einen Stopp am Lac de Nabeillou. Am Nachmittag fahren Sie zu den großen Kirchen im Osten. Beenden Sie Ihren Roadtrip und entspannen Sie sich am Abend am wunderschönen Lac de Miquelou.",
+        "hu": "Vezessen át Graulhet-en, kezdve a központi Hôtel de Ville-nél és az ikonikus Pont Vieux-nél. A délben tegyen egy gyors utat a Château de Lézignac-hoz és egy frissítő megállót a Lac de Nabeillou-nál. A délutáni vezetés összeköti a keleti nagy templomokkal. Zárja le az átfogó autós túrát, és pihenjen a Lac de Miquelou vizénél.",
+        "ro": "Conduceți prin Graulhet, începând cu Hôtel de Ville și iconicul Pont Vieux. Prânzul vă permite un drum rapid spre Château de Lézignac și o oprire la Lac de Nabeillou. Condusul de după-amiază vă conectează eficient la bisericile majore din est. Încheiați călătoria dvs. completă cu mașina, reflectând pe malurile liniștite de la Lac de Miquelou.",
+        "en": "Drive through Graulhet starting at the central Hôtel de Ville and the iconic Pont Vieux nearby. Midday allows a quick drive to the rustic Château de Lézignac and a refreshing stop at Lac de Nabeillou. Afternoon driving connects you efficiently to the major churches in the east. Wrap up your comprehensive road trip reflecting by the waters of Lac de Miquelou."
+      }
+    }
+  }
+}

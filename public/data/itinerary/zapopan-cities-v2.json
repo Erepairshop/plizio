@@ -1,0 +1,451 @@
+{
+  "city_id": "zapopan-cities-v2",
+  "anchor": {
+    "name": "Zapopan",
+    "coords": [
+      -103.3918,
+      20.7202
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:06",
+      "total_km": 1.05,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de las Américas (Juan Pablo II)",
+            "hu": "Plaza de las Américas (Juan Pablo II)",
+            "ro": "Plaza de las Américas (Juan Pablo II)",
+            "en": "Plaza de las Américas (Juan Pablo II)"
+          },
+          "coords": [
+            -103.391049,
+            20.72108
+          ],
+          "category": "park",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die markanten Statuen und das Treiben an diesem zentralen Platz; ein früher Besuch garantiert tolle Fotos vor der Mittagshitze.",
+            "hu": "Figyelje meg a lenyűgöző szobrokat ezen a nyüzsgő központi téren; érkezzen korán, hogy a legnagyobb hőség előtt készíthessen remek fotókat.",
+            "ro": "Observați statuile impresionante și agitația din această piață centrală; ajungeți devreme pentru fotografii bune înainte de căldura amiezii.",
+            "en": "Observe the striking statues and lively crowds in this central hub; arriving early guarantees good photos before the intense heat sets in."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Etnografico Huichol Wixárika",
+            "hu": "Museo Etnografico Huichol Wixárika",
+            "ro": "Museo Etnografico Huichol Wixárika",
+            "en": "Museo Etnografico Huichol Wixárika"
+          },
+          "coords": [
+            -103.392053,
+            20.721709
+          ],
+          "category": "museum",
+          "arrive_at": "10:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die detailreichen Fadenbilder der Wixárika und denken Sie an Kleingeld für die Spendenbox oder den kleinen Souvenirladen.",
+            "hu": "Csodálja meg a Wixárika nép lenyűgözően részletes fonal- és gyöngyképeit, és vigyen magával aprópénzt a kis szuvenírbolt miatt.",
+            "ro": "Admirați picturile detaliate cu fire și mărgele ale poporului Wixárika, asigurându-vă că aveți mărunt pentru cutia de donații.",
+            "en": "Admire the incredibly detailed yarn paintings and beadwork of the Wixárika people, and remember to bring small change for the donation box or gift shop."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Arte de Zapopan",
+            "hu": "Museo de Arte de Zapopan",
+            "ro": "Museo de Arte de Zapopan",
+            "en": "Museo de Arte de Zapopan"
+          },
+          "coords": [
+            -103.389812,
+            20.720388
+          ],
+          "category": "museum",
+          "arrive_at": "12:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie zeitgenössische Kunstausstellungen in diesen modernen Räumen; prüfen Sie vorher die Website, da Sondergalerien oft Reservierungen erfordern.",
+            "hu": "Fedezzen fel kortárs művészeti kiállításokat ebben a modern térben; érdemes előre megnézni a weboldalt, mert a különleges termekbe foglalás kellhet.",
+            "ro": "Explorați expoziții de artă contemporană în acest spațiu modern; verificați site-ul în avans, deoarece galeriile speciale pot necesita rezervare.",
+            "en": "Explore thought-provoking contemporary art exhibitions in this modern space; check their website beforehand as special galleries occasionally require pre-booking."
+          }
+        },
+        {
+          "name": {
+            "de": "Condición Suspendida",
+            "hu": "Condición Suspendida",
+            "ro": "Condición Suspendida",
+            "en": "Condición Suspendida"
+          },
+          "coords": [
+            -103.387371,
+            20.720036
+          ],
+          "category": "historical",
+          "arrive_at": "13:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die architektonischen Formen dieses historischen Wahrzeichens, aber nähern Sie sich über den östlichen Fußweg für die sicherste Aussicht.",
+            "hu": "Csodálja meg ennek a történelmi mérföldkőnek az egyedi építészeti formáit, de a keleti sétány felől közelítse meg a legbiztonságosabb élményért.",
+            "ro": "Admirați formele arhitecturale unice ale acestui punct de reper istoric, dar apropiați-vă de pe aleea pietonală de est pentru cea mai sigură priveliște.",
+            "en": "Marvel at the unique architectural forms of this historical landmark, but approach from the eastern pedestrian path for the safest and most scenic view."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoologico Villa Fantasía",
+            "hu": "Zoologico Villa Fantasía",
+            "ro": "Zoologico Villa Fantasía",
+            "en": "Zoologico Villa Fantasía"
+          },
+          "coords": [
+            -103.384404,
+            20.722674
+          ],
+          "category": "family",
+          "arrive_at": "15:21",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannten Spaziergang zwischen geretteten Tieren und viel Grün; packen Sie Mückenspray ein, wenn Sie am späten Nachmittag kommen.",
+            "hu": "Élvezze a sétát a megmentett állatok és a buja zöld növényzet között; vigyen magával szúnyogriasztót, ha késő délután érkezik ide.",
+            "ro": "Bucurați-vă de o plimbare printre animalele salvate și verdeață în acest parc familial; luați spray împotriva țânțarilor dacă veniți după-amiaza târziu.",
+            "en": "Enjoy a relaxing walk among rescued animals and lush greenery in this family park; pack some mosquito repellent if you are visiting in the late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf der lebhaften Plaza de las Américas und genießen Sie die lokale Atmosphäre.\n\nMittags tauchen Sie im Huichol-Wixárika-Museum in indigenes Erbe ein und besuchen das Kunstmuseum.\n\nDer Nachmittag führt Sie zum faszinierenden Denkmal Condición Suspendida.\n\nBeenden Sie Ihren gemütlichen Spaziergang mit einem Abendrundgang durch den familienfreundlichen Zoo Villa Fantasía.",
+        "hu": "Kezdje a napot a nyüzsgő Plaza de las Américas téren, és élvezze a helyi hangulatot.\n\nDélben merüljön el az őslakosok örökségében a Huichol Wixárika Múzeumban, majd nézze meg a Művészeti Múzeumot.\n\nDélután a Condición Suspendida emlékmű várja a látogatókat.\n\nZárja a napot egy kellemes esti sétával a családbarát Villa Fantasía állatkertben és buja növényzetű parkban.",
+        "ro": "Începeți ziua în vibranta Plaza de las Américas, simțind atmosfera locală.\n\nLa prânz, explorați moștenirea indigenă la Muzeul Huichol Wixárika și arta contemporană la Muzeul de Artă.\n\nDupă-amiaza vă aduce la fascinantul monument istoric Condición Suspendida.\n\nÎncheiați plimbarea cu o vizită relaxantă de seară la Villa Fantasía, o locație perfectă și verde pentru familii.",
+        "en": "Start your day at the vibrant Plaza de las Américas, taking in the lively local atmosphere.\n\nBy midday, delve into indigenous heritage at the Huichol Wixárika Museum and explore contemporary pieces at the nearby Art Museum.\n\nAfternoon brings you to the intriguing Condición Suspendida monument.\n\nConclude your gentle walking tour with an evening stroll through the family-friendly Villa Fantasía."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:33",
+      "total_km": 3.25,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de las Américas (Juan Pablo II)",
+            "hu": "Plaza de las Américas (Juan Pablo II)",
+            "ro": "Plaza de las Américas (Juan Pablo II)",
+            "en": "Plaza de las Américas (Juan Pablo II)"
+          },
+          "coords": [
+            -103.391049,
+            20.72108
+          ],
+          "category": "park",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die markanten Statuen und das Treiben an diesem zentralen Platz; ein früher Besuch garantiert tolle Fotos vor der Mittagshitze.",
+            "hu": "Figyelje meg a lenyűgöző szobrokat ezen a nyüzsgő központi téren; érkezzen korán, hogy a legnagyobb hőség előtt készíthessen remek fotókat.",
+            "ro": "Observați statuile impresionante și agitația din această piață centrală; ajungeți devreme pentru fotografii bune înainte de căldura amiezii.",
+            "en": "Observe the striking statues and lively crowds in this central hub; arriving early guarantees good photos before the intense heat sets in."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Arte de Zapopan",
+            "hu": "Museo de Arte de Zapopan",
+            "ro": "Museo de Arte de Zapopan",
+            "en": "Museo de Arte de Zapopan"
+          },
+          "coords": [
+            -103.389812,
+            20.720388
+          ],
+          "category": "museum",
+          "arrive_at": "10:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie zeitgenössische Kunstausstellungen in diesen modernen Räumen; prüfen Sie vorher die Website, da Sondergalerien oft Reservierungen erfordern.",
+            "hu": "Fedezzen fel kortárs művészeti kiállításokat ebben a modern térben; érdemes előre megnézni a weboldalt, mert a különleges termekbe foglalás kellhet.",
+            "ro": "Explorați expoziții de artă contemporană în acest spațiu modern; verificați site-ul în avans, deoarece galeriile speciale pot necesita rezervare.",
+            "en": "Explore thought-provoking contemporary art exhibitions in this modern space; check their website beforehand as special galleries occasionally require pre-booking."
+          }
+        },
+        {
+          "name": {
+            "de": "Foro Cometa",
+            "hu": "Foro Cometa",
+            "ro": "Foro Cometa",
+            "en": "Foro Cometa"
+          },
+          "coords": [
+            -103.384169,
+            20.727636
+          ],
+          "category": "cultural",
+          "arrive_at": "12:11",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die kreative Atmosphäre dieses kulturellen Treffpunkts und achten Sie auf die Tafel am Eingang für spontane Abendveranstaltungen.",
+            "hu": "Szívja magába e nyüzsgő kulturális helyszín kreatív atmoszféráját, és figyelje a bejárati táblát az esetleges rögtönzött esti előadások miatt.",
+            "ro": "Simțiți atmosfera creativă a acestei locații culturale aglomerate și verificați programul de la intrare pentru posibile spectacole de seară.",
+            "en": "Take in the creative atmosphere of this bustling cultural venue, and look out for the schedule on the entrance board for impromptu evening performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Ágora Jenkins",
+            "hu": "Ágora Jenkins",
+            "ro": "Ágora Jenkins",
+            "en": "Ágora Jenkins"
+          },
+          "coords": [
+            -103.381026,
+            20.737253
+          ],
+          "category": "cultural",
+          "arrive_at": "12:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erleben Sie das dynamische Design dieses kulturellen Freiluftplatzes, den Sie am besten mit einem Sonnenhut besuchen, da Schatten spärlich ist.",
+            "hu": "Tapasztalja meg ennek a szabadtéri kulturális térnek a dinamikus dizájnját; vigyen magával kalapot, mivel napközben elég kevés az árnyék.",
+            "ro": "Experimentați designul dinamic al acestei piețe culturale în aer liber, pe care este bine să o vizitați cu pălărie de soare, umbra fiind rară.",
+            "en": "Experience the dynamic design of this open-air cultural plaza, which is best visited with a sun hat since shade can be quite sparse during midday."
+          }
+        },
+        {
+          "name": {
+            "de": "Calle 2",
+            "hu": "Calle 2",
+            "ro": "Calle 2",
+            "en": "Calle 2"
+          },
+          "coords": [
+            -103.376515,
+            20.734986
+          ],
+          "category": "cultural",
+          "arrive_at": "13:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie zahlreiche lokale Events und Kunst in diesem großen Komplex; tragen Sie bequeme Schuhe, um das weitläufige Gelände zu erkunden.",
+            "hu": "Fedezzen fel helyi eseményeket és művészeti bemutatókat ebben a hatalmas komplexumban; viseljen kényelmes cipőt, hogy be tudja járni a területet.",
+            "ro": "Descoperiți o serie de evenimente locale și expoziții artistice în acest complex; purtați încălțăminte confortabilă pentru a acoperi spațiul vast.",
+            "en": "Discover an array of local events and artistic showcases in this large complex, making it wise to wear comfortable walking shoes to cover the vast grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditorio Telmex",
+            "hu": "Auditorio Telmex",
+            "ro": "Auditorio Telmex",
+            "en": "Auditorio Telmex"
+          },
+          "coords": [
+            -103.381296,
+            20.733298
+          ],
+          "category": "cultural",
+          "arrive_at": "14:23",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante moderne Fassade dieser berühmten Veranstaltungshalle; holen Sie sich einen kleinen Snack bei den Händlern in der Nähe.",
+            "hu": "Csodálja meg Latin-Amerika egyik legkiemelkedőbb szórakoztató központjának modern homlokzatát; vegyen egy gyors harapnivalót a közeli árusoktól.",
+            "ro": "Admirați fațada modernă impresionantă a uneia dintre cele mai renumite locații de divertisment; luați o gustare rapidă de la vânzătorii din apropiere.",
+            "en": "Admire the striking modern facade of one of Latin America's most prominent entertainment venues; grab a quick snack from the vendors nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour auf der Plaza de las Américas und genießen Sie die Morgenbrise.\n\nFahren Sie mittags zum Kunstmuseum für eine Dosis moderner Kreativität.\n\nNachmittags radeln Sie in den Norden ins kulturelle Viertel zu Foro Cometa und Ágora Jenkins.\n\nBeenden Sie Ihren aktiven Tag an der Calle 2 und dem berühmten Auditorio Telmex, während der Abend langsam hereinbricht.",
+        "hu": "Indítsa a kerékpártúrát a Plaza de las Américas téren a friss reggeli levegőn.\n\nDélben tekerjen el a Művészeti Múzeumba egy kis modern kortárs kultúráért.\n\nDélután fedezze fel északra a kulturális negyedet, megállva a Foro Cometa és az Ágora Jenkins mellett.\n\nZárja az aktív napot a Calle 2 és az ikonikus Auditorio Telmex körüli pezsgő területeken.",
+        "ro": "Începeți turul cu bicicleta în Plaza de las Américas, bucurându-vă de aerul dimineții.\n\nPedalați spre Muzeul de Artă la prânz pentru o doză de creativitate modernă.\n\nDupă-amiaza, mergeți spre nord în cartierul cultural, vizitând Foro Cometa și Ágora Jenkins.\n\nÎncheiați ziua activă explorând spațiile de la Calle 2 și celebrul Auditorio Telmex, pe măsură ce se lasă seara.",
+        "en": "Kick off your cycling tour at Plaza de las Américas, enjoying the morning breeze.\n\nRide towards the Art Museum for a midday dose of modern creativity.\n\nIn the afternoon, pedal north to the vibrant cultural district, stopping at Foro Cometa and Ágora Jenkins.\n\nFinish your active day exploring the lively spaces around Calle 2 and the iconic Auditorio Telmex as the evening sets in."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:46",
+      "total_km": 7.55,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parque Avila Camacho",
+            "hu": "Parque Avila Camacho",
+            "ro": "Parque Avila Camacho",
+            "en": "Parque Avila Camacho"
+          },
+          "coords": [
+            -103.373752,
+            20.712155
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am See und in den Gärten dieses weitläufigen Parks; die Miete eines Tretboots ist sehr zu empfehlen, um die Umgebung zu sehen.",
+            "hu": "Pihenjen a csendes tó és a gondozott kertek mellett ebben a tágas parkban; érdemes vizibiciklit bérelni a terület hangulatos felfedezéséhez.",
+            "ro": "Relaxați-vă lângă lacul liniștit și grădinile îngrijite; închirierea unei bărci cu pedale este o modalitate recomandată de a vedea parcul.",
+            "en": "Unwind by the serene lake and manicured gardens in this expansive park; renting a small paddleboat is a highly recommended way to view the area."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Etnografico Huichol Wixárika",
+            "hu": "Museo Etnografico Huichol Wixárika",
+            "ro": "Museo Etnografico Huichol Wixárika",
+            "en": "Museo Etnografico Huichol Wixárika"
+          },
+          "coords": [
+            -103.392053,
+            20.721709
+          ],
+          "category": "museum",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die detailreichen Fadenbilder der Wixárika und denken Sie an Kleingeld für die Spendenbox oder den kleinen Souvenirladen.",
+            "hu": "Csodálja meg a Wixárika nép lenyűgözően részletes fonal- és gyöngyképeit, és vigyen magával aprópénzt a kis szuvenírbolt miatt.",
+            "ro": "Admirați picturile detaliate cu fire și mărgele ale poporului Wixárika, asigurându-vă că aveți mărunt pentru cutia de donații.",
+            "en": "Admire the incredibly detailed yarn paintings and beadwork of the Wixárika people, and remember to bring small change for the donation box or gift shop."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de las Américas (Juan Pablo II)",
+            "hu": "Plaza de las Américas (Juan Pablo II)",
+            "ro": "Plaza de las Américas (Juan Pablo II)",
+            "en": "Plaza de las Américas (Juan Pablo II)"
+          },
+          "coords": [
+            -103.391049,
+            20.72108
+          ],
+          "category": "park",
+          "arrive_at": "12:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Beobachten Sie die markanten Statuen und das Treiben an diesem zentralen Platz; ein früher Besuch garantiert tolle Fotos vor der Mittagshitze.",
+            "hu": "Figyelje meg a lenyűgöző szobrokat ezen a nyüzsgő központi téren; érkezzen korán, hogy a legnagyobb hőség előtt készíthessen remek fotókat.",
+            "ro": "Observați statuile impresionante și agitația din această piață centrală; ajungeți devreme pentru fotografii bune înainte de căldura amiezii.",
+            "en": "Observe the striking statues and lively crowds in this central hub; arriving early guarantees good photos before the intense heat sets in."
+          }
+        },
+        {
+          "name": {
+            "de": "El Grillo",
+            "hu": "El Grillo",
+            "ro": "El Grillo",
+            "en": "El Grillo"
+          },
+          "coords": [
+            -103.369594,
+            20.73354
+          ],
+          "category": "historical",
+          "arrive_at": "13:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Erforschen Sie die antiken Wurzeln der Region in dieser archäologischen Zone, und denken Sie wegen des unebenen Geländes an festes Schuhwerk.",
+            "hu": "Kutassa fel a régió ősi gyökereit ezen a jelentős régészeti területen, de a göröngyös terep miatt mindenképpen strapabíró lábbelit viseljen.",
+            "ro": "Investigați rădăcinile antice ale regiunii la această zonă arheologică; asigurați-vă că purtați încălțăminte solidă din cauza terenului accidentat.",
+            "en": "Investigate the ancient roots of the region at this significant archaeological zone, and remember to wear sturdy footwear due to uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditorio Central",
+            "hu": "Auditorio Central",
+            "ro": "Auditorio Central",
+            "en": "Auditorio Central"
+          },
+          "coords": [
+            -103.380751,
+            20.741605
+          ],
+          "category": "cultural",
+          "arrive_at": "14:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Betrachten Sie die beeindruckende Architektur dieses großen Auditoriums; der Platz davor ist ein fantastischer Ort für Panoramabilder.",
+            "hu": "Tekintse meg e nagyszerű előadóterem lenyűgöző építészetét; az épület előtti tér fantasztikus helyszín a panorámás fényképek elkészítéséhez.",
+            "ro": "Vizionați arhitectura impresionantă a acestui auditoriu grandios; piața din față este un loc fantastic pentru a face fotografii panoramice.",
+            "en": "View the impressive architecture of this grand auditorium that hosts major civic events; the plaza outside is a fantastic spot for panoramic photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Estudio Cavaret",
+            "hu": "Teatro Estudio Cavaret",
+            "ro": "Teatro Estudio Cavaret",
+            "en": "Teatro Estudio Cavaret"
+          },
+          "coords": [
+            -103.378299,
+            20.736808
+          ],
+          "category": "cultural",
+          "arrive_at": "15:36",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie das intime Theaterflair dieses beliebten Veranstaltungsortes und prüfen Sie früh die Abendkasse, wenn Sie eine Show sehen möchten.",
+            "hu": "Szívja magába e közkedvelt előadótér meghitt színházi hangulatát, és ellenőrizze korán a jegypénztárt, ha esti műsort is megtekintene.",
+            "ro": "Bucurați-vă de vibrația teatrală intimă a acestui spațiu de spectacole iubit; verificați casa de bilete devreme dacă doriți să prindeți un spectacol.",
+            "en": "Soak in the intimate theatrical vibe of this well-loved performance space, and check the box office early if you plan to catch an evening show."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zum Parque Avila Camacho für entspannte Stunden am Wasser.\n\nMittags geht es ins Zentrum, um das Huichol-Wixárika-Museum und die historische Plaza de las Américas zu erkunden.\n\nNachmittags steuern Sie die historische Stätte El Grillo an.\n\nIhr Roadtrip endet im nördlichen Kulturzentrum mit einem Besuch des Auditorio Central und Teatro Estudio Cavaret.",
+        "hu": "Autózzon reggel az Avila Camacho parkba, ahol békésen indul a nap.\n\nDélben irány a központ, hogy felfedezze a Huichol Wixárika Múzeumot és a Plaza de las Américas teret.\n\nDélután látogasson el az El Grillo történelmi helyszínére.\n\nAz autós kirándulás az északi kulturális központban ér véget, megcsodálva az Auditorio Centralt és a Teatro Estudio Cavaret-t.",
+        "ro": "Conduceți dimineața la Parque Avila Camacho pentru relaxare lângă apă.\n\nLa prânz, mergeți în centru pentru a explora Muzeul Huichol Wixárika și istorica Plaza de las Américas.\n\nDupă-amiaza, vizitați situl istoric El Grillo.\n\nExcursia se încheie în centrul cultural nordic, admirând impresionantul Auditorio Central și Teatro Estudio Cavaret.",
+        "en": "Drive first to Parque Avila Camacho for a peaceful morning by the water.\n\nBy noon, head to the city center to explore the Huichol Wixárika Museum and the historic Plaza de las Américas.\n\nIn the afternoon, navigate to the historical site of El Grillo.\n\nYour road trip concludes in the northern cultural hub, visiting the impressive Auditorio Central and Teatro Estudio Cavaret."
+      }
+    }
+  }
+}

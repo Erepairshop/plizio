@@ -1,0 +1,474 @@
+{
+  "city_id": "esvres",
+  "anchor": {
+    "name": "Esvres",
+    "coords": [
+      0.7861,
+      47.2844
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:17",
+      "total_km": 2.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Médard Church",
+            "hu": "Saint-Médard Church",
+            "ro": "Saint-Médard Church",
+            "en": "Saint-Médard Church"
+          },
+          "coords": [
+            0.785272,
+            47.284066
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die historischen Buntglasfenster dieser zentralen Kirche, die Einblicke in die lokale Geschichte bieten, und kommen Sie am besten morgens wegen des Lichts.",
+            "hu": "Csodálja meg a központi templom történelmi ólomüveg ablakait, amelyek a helyi történelmet mesélik el, és érdemes reggel érkezni a legszebb fényviszonyokért.",
+            "ro": "Admirați vitraliile istorice ale acestei biserici centrale, care oferă o perspectivă asupra istoriei locale, și veniți dimineața pentru cea mai bună lumină.",
+            "en": "Admire the historic stained glass windows of this central church, offering insights into local history, and try to arrive in the morning for the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Château d'Esvres",
+            "hu": "Château d'Esvres",
+            "ro": "Château d'Esvres",
+            "en": "Château d'Esvres"
+          },
+          "coords": [
+            0.785,
+            47.2847
+          ],
+          "category": "fortress",
+          "arrive_at": "09:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die gut erhaltenen Ruinen dieser alten Festung, um die mittelalterliche Architektur zu bewundern, und tragen Sie bequeme Schuhe für die unebenen Wege.",
+            "hu": "Fedezze fel az ősi erődítmény jó állapotban fennmaradt romjait és középkori építészetét, és mindenképpen viseljen kényelmes cipőt az egyenetlen talaj miatt.",
+            "ro": "Explorați ruinele bine conservate ale acestei vechi fortărețe pentru a admira arhitectura medievală și asigurați-vă că purtați încălțăminte comodă pe terenul denivelat.",
+            "en": "Explore the well-preserved ruins of this ancient fortress to admire medieval architecture, and make sure to wear comfortable shoes for the uneven grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Vaugrignon",
+            "hu": "Château de Vaugrignon",
+            "ro": "Château de Vaugrignon",
+            "en": "Château de Vaugrignon"
+          },
+          "coords": [
+            0.779523,
+            47.286314
+          ],
+          "category": "castle",
+          "arrive_at": "11:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch das beeindruckende Gelände dieses Schlosses, um ein Gefühl für das aristokratische Leben zu bekommen, und fotografieren Sie die Fassade aus der Ferne.",
+            "hu": "Sétáljon végig a lenyűgöző kastély területén, hogy bepillantást nyerjen az arisztokrata életbe, és készítsen nagyszerű fotókat a homlokzatról tisztes távolságból.",
+            "ro": "Plimbați-vă pe domeniul impresionant al acestui castel pentru a simți atmosfera vieții aristocratice și fotografiați fațada impunătoare de la distanță.",
+            "en": "Stroll through the impressive grounds of this castle to get a sense of aristocratic life, and be sure to capture great photos of the facade from a distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Éolienne Bollée",
+            "hu": "Éolienne Bollée",
+            "ro": "Éolienne Bollée",
+            "en": "Éolienne Bollée"
+          },
+          "coords": [
+            0.792201,
+            47.277642
+          ],
+          "category": "landmark",
+          "arrive_at": "12:57",
+          "stay_min": 15,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Betrachten Sie diese faszinierende historische Windkraftanlage aus dem 19. Jahrhundert, ein Meisterwerk der Ingenieurskunst, und achten Sie auf die filigranen Metallstrukturen.",
+            "hu": "Tekintse meg ezt a lenyűgöző 19. századi történelmi szélturbinát, amely egy igazi mérnöki remekmű, és figyelje meg a finom fémszerkezetek apró részleteit.",
+            "ro": "Observați această fascinantă turbină eoliană istorică din secolul al XIX-lea, o capodoperă a ingineriei, și acordați atenție structurilor metalice delicate.",
+            "en": "View this fascinating historical 19th-century wind turbine, a masterpiece of engineering, and pay close attention to the intricate metal structures."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen du Moulin de Sauquet",
+            "hu": "Dolmen du Moulin de Sauquet",
+            "ro": "Dolmen du Moulin de Sauquet",
+            "en": "Dolmen du Moulin de Sauquet"
+          },
+          "coords": [
+            0.79418,
+            47.268964
+          ],
+          "category": "historical",
+          "arrive_at": "13:27",
+          "stay_min": 110,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses prähistorische Megalithgrab am Stadtrand, um die alten Zivilisationen zu würdigen, und nehmen Sie ein Picknick für die ruhige Umgebung mit.",
+            "hu": "Látogasson el erre a történelem előtti megalitikus sírhelyre, hogy tisztelegjen az ősi civilizációk előtt, és hozzon magával pikniket a csendes, nyugodt környezetbe.",
+            "ro": "Vizitați acest mormânt megalitic preistoric pentru a aprecia civilizațiile antice și aduceți cu dumneavoastră un picnic pentru a vă bucura de mediul liniștit.",
+            "en": "Visit this prehistoric megalithic tomb to appreciate ancient civilizations, and consider bringing a picnic to enjoy in the quiet, peaceful surrounding area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Zentrum von Esvres mit einem Besuch der historischen Saint-Médard Kirche, gefolgt von der Erkundung des Château d'Esvres. Am Mittag spazieren Sie gemütlich in Richtung Westen zum prächtigen Château de Vaugrignon und bewundern die majestätische Architektur. Nachmittags führt der Weg zur einzigartigen Éolienne Bollée, einem Meisterwerk der Ingenieurskunst. Lassen Sie den Tag am Dolmen du Moulin de Sauquet ausklingen, wo Sie die prähistorische Geschichte in einer ruhigen Umgebung auf sich wirken lassen können.",
+        "hu": "Kezdje a napot Esvres központjában a történelmi Saint-Médard templom megtekintésével, majd fedezze fel a Château d'Esvres romjait. Délben tegyen egy kellemes sétát nyugat felé a pompás Château de Vaugrignon kastélyhoz, és csodálja meg építészetét. Délután az út a különleges Éolienne Bollée szélkerékhez vezet, amely a mérnöki zsenialitás bizonyítéka. Fejezze be a napot a Dolmen du Moulin de Sauquet-nél, ahol csendes környezetben merülhet el az őskori történelemben.",
+        "ro": "Începeți ziua în centrul localității Esvres cu o vizită la biserica istorică Saint-Médard, urmată de explorarea ruinelor de la Château d'Esvres. La prânz, faceți o plimbare plăcută spre vest până la magnificul Château de Vaugrignon și admirați arhitectura sa. După-amiaza, drumul vă duce la unicul Éolienne Bollée, o capodoperă a ingineriei. Încheiați ziua la Dolmen du Moulin de Sauquet, unde puteți reflecta asupra istoriei preistorice într-un mediu liniștit.",
+        "en": "Start your day in the center of Esvres by visiting the historic Saint-Médard Church, followed by exploring the ruins of Château d'Esvres. At midday, take a pleasant walk west to the magnificent Château de Vaugrignon and admire its majestic architecture. In the afternoon, the path leads to the unique Éolienne Bollée, a true masterpiece of engineering. Conclude your day at the Dolmen du Moulin de Sauquet, absorbing prehistoric history in a quiet and peaceful environment."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:09",
+      "total_km": 6.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Médard Church",
+            "hu": "Saint-Médard Church",
+            "ro": "Saint-Médard Church",
+            "en": "Saint-Médard Church"
+          },
+          "coords": [
+            0.785272,
+            47.284066
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die historischen Buntglasfenster dieser zentralen Kirche, die Einblicke in die lokale Geschichte bieten, und kommen Sie am besten morgens wegen des Lichts.",
+            "hu": "Csodálja meg a központi templom történelmi ólomüveg ablakait, amelyek a helyi történelmet mesélik el, és érdemes reggel érkezni a legszebb fényviszonyokért.",
+            "ro": "Admirați vitraliile istorice ale acestei biserici centrale, care oferă o perspectivă asupra istoriei locale, și veniți dimineața pentru cea mai bună lumină.",
+            "en": "Admire the historic stained glass windows of this central church, offering insights into local history, and try to arrive in the morning for the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Château d'Esvres",
+            "hu": "Château d'Esvres",
+            "ro": "Château d'Esvres",
+            "en": "Château d'Esvres"
+          },
+          "coords": [
+            0.785,
+            47.2847
+          ],
+          "category": "fortress",
+          "arrive_at": "09:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die gut erhaltenen Ruinen dieser alten Festung, um die mittelalterliche Architektur zu bewundern, und tragen Sie bequeme Schuhe für die unebenen Wege.",
+            "hu": "Fedezze fel az ősi erődítmény jó állapotban fennmaradt romjait és középkori építészetét, és mindenképpen viseljen kényelmes cipőt az egyenetlen talaj miatt.",
+            "ro": "Explorați ruinele bine conservate ale acestei vechi fortărețe pentru a admira arhitectura medievală și asigurați-vă că purtați încălțăminte comodă pe terenul denivelat.",
+            "en": "Explore the well-preserved ruins of this ancient fortress to admire medieval architecture, and make sure to wear comfortable shoes for the uneven grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Éolienne Bollée",
+            "hu": "Éolienne Bollée",
+            "ro": "Éolienne Bollée",
+            "en": "Éolienne Bollée"
+          },
+          "coords": [
+            0.792201,
+            47.277642
+          ],
+          "category": "landmark",
+          "arrive_at": "11:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Betrachten Sie diese faszinierende historische Windkraftanlage aus dem 19. Jahrhundert, ein Meisterwerk der Ingenieurskunst, und achten Sie auf die filigranen Metallstrukturen.",
+            "hu": "Tekintse meg ezt a lenyűgöző 19. századi történelmi szélturbinát, amely egy igazi mérnöki remekmű, és figyelje meg a finom fémszerkezetek apró részleteit.",
+            "ro": "Observați această fascinantă turbină eoliană istorică din secolul al XIX-lea, o capodoperă a ingineriei, și acordați atenție structurilor metalice delicate.",
+            "en": "View this fascinating historical 19th-century wind turbine, a masterpiece of engineering, and pay close attention to the intricate metal structures."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen du Moulin de Sauquet",
+            "hu": "Dolmen du Moulin de Sauquet",
+            "ro": "Dolmen du Moulin de Sauquet",
+            "en": "Dolmen du Moulin de Sauquet"
+          },
+          "coords": [
+            0.79418,
+            47.268964
+          ],
+          "category": "historical",
+          "arrive_at": "11:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses prähistorische Megalithgrab am Stadtrand, um die alten Zivilisationen zu würdigen, und nehmen Sie ein Picknick für die ruhige Umgebung mit.",
+            "hu": "Látogasson el erre a történelem előtti megalitikus sírhelyre, hogy tisztelegjen az ősi civilizációk előtt, és hozzon magával pikniket a csendes, nyugodt környezetbe.",
+            "ro": "Vizitați acest mormânt megalitic preistoric pentru a aprecia civilizațiile antice și aduceți cu dumneavoastră un picnic pentru a vă bucura de mediul liniștit.",
+            "en": "Visit this prehistoric megalithic tomb to appreciate ancient civilizations, and consider bringing a picnic to enjoy in the quiet, peaceful surrounding area."
+          }
+        },
+        {
+          "name": {
+            "de": "Ancien Prieuré Saint-Pierre",
+            "hu": "Ancien Prieuré Saint-Pierre",
+            "ro": "Ancien Prieuré Saint-Pierre",
+            "en": "Ancien Prieuré Saint-Pierre"
+          },
+          "coords": [
+            0.807589,
+            47.276096
+          ],
+          "category": "religious",
+          "arrive_at": "13:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die spirituelle Ruhe dieses ehemaligen Priorats abseits des Zentrums und respektieren Sie die Stille beim Erkunden der alten Mauern.",
+            "hu": "Fedezze fel ennek a központtól távolabb eső egykori perjelségnek a spirituális nyugalmát, és tartsa tiszteletben a csendet az ősi falak felfedezése közben.",
+            "ro": "Descoperiți liniștea spirituală a acestui fost priorat situat departe de centru și respectați tăcerea în timp ce explorați vechile ziduri.",
+            "en": "Discover the spiritual tranquility of this former priory away from the center, and maintain a respectful silence while exploring the ancient walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Priory of Esvres",
+            "hu": "Priory of Esvres",
+            "ro": "Priory of Esvres",
+            "en": "Priory of Esvres"
+          },
+          "coords": [
+            0.794742,
+            47.30211
+          ],
+          "category": "monastic",
+          "arrive_at": "13:59",
+          "stay_min": 70,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Wandern Sie um dieses historische Klostergelände, das tief mit der religiösen Geschichte der Region verwurzelt ist, und suchen Sie nach den alten Torbögen.",
+            "hu": "Sétálja körbe ezt a történelmi kolostorépületet, amely mélyen gyökerezik a régió vallástörténetében, és keresse meg az ősi boltíveket a bejáratnál.",
+            "ro": "Plimbați-vă în jurul acestei proprietăți monastice istorice, adânc înrădăcinată în istoria religioasă a regiunii, și căutați arcadele antice de la intrare.",
+            "en": "Wander around this historic monastic property deeply rooted in the region's religious history, and make sure to look for the ancient archways near the entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour an der zentralen Saint-Médard Kirche und fahren Sie weiter zum historischen Château d'Esvres. Gegen Mittag radeln Sie zur faszinierenden Éolienne Bollée und weiter zum prähistorischen Dolmen du Moulin de Sauquet. Am Nachmittag führt die Route zum friedlichen Ancien Prieuré Saint-Pierre, wo Sie die Stille der alten Mauern genießen können. Der Tag endet am Priory of Esvres im Norden, einem perfekten Ort für eine entspannte Reflexion über die reiche Geschichte der Region.",
+        "hu": "Kezdje kerékpártúráját a központi Saint-Médard templomnál, majd tekerjen tovább a történelmi Château d'Esvres felé. Dél körül látogasson el a lenyűgöző Éolienne Bollée szélkerékhez, majd az őskori Dolmen du Moulin de Sauquet-hez. Délután az útvonal a békés Ancien Prieuré Saint-Pierre-hez vezet, ahol élvezheti az ősi falak csendjét. A nap északon, a Priory of Esvres-nél ér véget, amely tökéletes hely a régió gazdag történelmének elmélyült megismerésére.",
+        "ro": "Începeți turul cu bicicleta la biserica centrală Saint-Médard și continuați spre istoricul Château d'Esvres. În jurul prânzului, pedalați spre fascinanta Éolienne Bollée și apoi spre preistoricul Dolmen du Moulin de Sauquet. După-amiaza, traseul vă duce la pașnicul Ancien Prieuré Saint-Pierre, unde vă puteți bucura de liniștea vechilor ziduri. Ziua se încheie la Priory of Esvres în nord, un loc perfect pentru o reflecție relaxată asupra istoriei bogate.",
+        "en": "Start your bike tour at the central Saint-Médard Church and continue riding to the historic Château d'Esvres. Around midday, cycle to the fascinating Éolienne Bollée and onwards to the prehistoric Dolmen du Moulin de Sauquet. In the afternoon, the route leads to the peaceful Ancien Prieuré Saint-Pierre, where you can enjoy the silence of the ancient walls. The day ends at the Priory of Esvres in the north, a perfect place for relaxed reflection on the region's rich history."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:20",
+      "total_km": 11.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Château de la Dorée",
+            "hu": "Château de la Dorée",
+            "ro": "Château de la Dorée",
+            "en": "Château de la Dorée"
+          },
+          "coords": [
+            0.773605,
+            47.299011
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur dieses Schlosses am Stadtrand, das ein Symbol für lokalen Reichtum ist, und nutzen Sie den nahen Parkplatz.",
+            "hu": "Csodálja meg ennek a külvárosi kastélynak az elegáns építészetét, amely a helyi gazdagság szimbóluma, és használja ki a közeli kényelmes parkolási lehetőséget.",
+            "ro": "Admirați arhitectura elegantă a acestui castel de la periferie, un simbol al bogăției locale, și profitați de parcarea convenabilă din apropiere.",
+            "en": "Admire the elegant architecture of this outskirts castle, a symbol of local wealth, and take advantage of the convenient parking area nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Vaugrignon",
+            "hu": "Château de Vaugrignon",
+            "ro": "Château de Vaugrignon",
+            "en": "Château de Vaugrignon"
+          },
+          "coords": [
+            0.779523,
+            47.286314
+          ],
+          "category": "castle",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch das beeindruckende Gelände dieses Schlosses, um ein Gefühl für das aristokratische Leben zu bekommen, und fotografieren Sie die Fassade aus der Ferne.",
+            "hu": "Sétáljon végig a lenyűgöző kastély területén, hogy bepillantást nyerjen az arisztokrata életbe, és készítsen nagyszerű fotókat a homlokzatról tisztes távolságból.",
+            "ro": "Plimbați-vă pe domeniul impresionant al acestui castel pentru a simți atmosfera vieții aristocratice și fotografiați fațada impunătoare de la distanță.",
+            "en": "Stroll through the impressive grounds of this castle to get a sense of aristocratic life, and be sure to capture great photos of the facade from a distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Médard Church",
+            "hu": "Saint-Médard Church",
+            "ro": "Saint-Médard Church",
+            "en": "Saint-Médard Church"
+          },
+          "coords": [
+            0.785272,
+            47.284066
+          ],
+          "category": "religious",
+          "arrive_at": "11:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die historischen Buntglasfenster dieser zentralen Kirche, die Einblicke in die lokale Geschichte bieten, und kommen Sie am besten morgens wegen des Lichts.",
+            "hu": "Csodálja meg a központi templom történelmi ólomüveg ablakait, amelyek a helyi történelmet mesélik el, és érdemes reggel érkezni a legszebb fényviszonyokért.",
+            "ro": "Admirați vitraliile istorice ale acestei biserici centrale, care oferă o perspectivă asupra istoriei locale, și veniți dimineața pentru cea mai bună lumină.",
+            "en": "Admire the historic stained glass windows of this central church, offering insights into local history, and try to arrive in the morning for the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Château d'Esvres",
+            "hu": "Château d'Esvres",
+            "ro": "Château d'Esvres",
+            "en": "Château d'Esvres"
+          },
+          "coords": [
+            0.785,
+            47.2847
+          ],
+          "category": "fortress",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die gut erhaltenen Ruinen dieser alten Festung, um die mittelalterliche Architektur zu bewundern, und tragen Sie bequeme Schuhe für die unebenen Wege.",
+            "hu": "Fedezze fel az ősi erődítmény jó állapotban fennmaradt romjait és középkori építészetét, és mindenképpen viseljen kényelmes cipőt az egyenetlen talaj miatt.",
+            "ro": "Explorați ruinele bine conservate ale acestei vechi fortărețe pentru a admira arhitectura medievală și asigurați-vă că purtați încălțăminte comodă pe terenul denivelat.",
+            "en": "Explore the well-preserved ruins of this ancient fortress to admire medieval architecture, and make sure to wear comfortable shoes for the uneven grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Priory of Esvres",
+            "hu": "Priory of Esvres",
+            "ro": "Priory of Esvres",
+            "en": "Priory of Esvres"
+          },
+          "coords": [
+            0.794742,
+            47.30211
+          ],
+          "category": "monastic",
+          "arrive_at": "14:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Wandern Sie um dieses historische Klostergelände, das tief mit der religiösen Geschichte der Region verwurzelt ist, und suchen Sie nach den alten Torbögen.",
+            "hu": "Sétálja körbe ezt a történelmi kolostorépületet, amely mélyen gyökerezik a régió vallástörténetében, és keresse meg az ősi boltíveket a bejáratnál.",
+            "ro": "Plimbați-vă în jurul acestei proprietăți monastice istorice, adânc înrădăcinată în istoria religioasă a regiunii, și căutați arcadele antice de la intrare.",
+            "en": "Wander around this historic monastic property deeply rooted in the region's religious history, and make sure to look for the ancient archways near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Indre Valley",
+            "hu": "Indre Valley",
+            "ro": "Indre Valley",
+            "en": "Indre Valley"
+          },
+          "coords": [
+            0.792644,
+            47.32018
+          ],
+          "category": "natural",
+          "arrive_at": "14:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende natürliche Schönheit und die sanften Hügel dieses üppigen Tals, und planen Sie einen Spaziergang entlang des malerischen Flussufers.",
+            "hu": "Élvezze a lenyűgöző természeti szépséget és e buja völgy lankás dombjait, és mindenképpen tervezzen egy pihentető sétát a festői folyóparton.",
+            "ro": "Bucurați-vă de frumusețea naturală uimitoare și de dealurile domoale ale acestei văi luxuriante și planificați o plimbare de-a lungul malului pitoresc al râului.",
+            "en": "Enjoy the stunning natural beauty and rolling hills of this lush valley, and be sure to plan a relaxing walk along the picturesque riverbank."
+          }
+        },
+        {
+          "name": {
+            "de": "Ancien Prieuré Saint-Pierre",
+            "hu": "Ancien Prieuré Saint-Pierre",
+            "ro": "Ancien Prieuré Saint-Pierre",
+            "en": "Ancien Prieuré Saint-Pierre"
+          },
+          "coords": [
+            0.807589,
+            47.276096
+          ],
+          "category": "religious",
+          "arrive_at": "16:10",
+          "stay_min": 70,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die spirituelle Ruhe dieses ehemaligen Priorats abseits des Zentrums und respektieren Sie die Stille beim Erkunden der alten Mauern.",
+            "hu": "Fedezze fel ennek a központtól távolabb eső egykori perjelségnek a spirituális nyugalmát, és tartsa tiszteletben a csendet az ősi falak felfedezése közben.",
+            "ro": "Descoperiți liniștea spirituală a acestui fost priorat situat departe de centru și respectați tăcerea în timp ce explorați vechile ziduri.",
+            "en": "Discover the spiritual tranquility of this former priory away from the center, and maintain a respectful silence while exploring the ancient walls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour am Rande der Stadt mit einem Besuch des prächtigen Château de la Dorée und fahren Sie dann zum Château de Vaugrignon. Mittags parken Sie im Zentrum, um die Saint-Médard Kirche und die Überreste des Château d'Esvres zu besichtigen. Am Nachmittag fahren Sie gemütlich zum Priory of Esvres und genießen anschließend die Natur im grünen Indre Valley. Beenden Sie den Tag mit einem Ausflug zum Ancien Prieuré Saint-Pierre, um die friedliche Abendstimmung auf sich wirken zu lassen.",
+        "hu": "Kezdje autós túráját a város szélén a pompás Château de la Dorée megtekintésével, majd haladjon tovább a Château de Vaugrignon felé. Délben parkoljon le a központban, hogy felfedezze a Saint-Médard templomot és a Château d'Esvres maradványait. Délután utazzon el a Priory of Esvres-hez, majd élvezze a természetet a zöldellő Indre-völgyben. Zárja a napot az Ancien Prieuré Saint-Pierre meglátogatásával, ahol átadhatja magát a békés esti hangulatnak.",
+        "ro": "Începeți turul cu mașina la marginea orașului, cu o vizită la magnificul Château de la Dorée, și apoi mergeți la Château de Vaugrignon. La prânz, parcați în centru pentru a explora biserica Saint-Médard și rămășițele de la Château d'Esvres. După-amiaza, conduceți liniștit spre Priory of Esvres și bucurați-vă de natură în valea verde Indre. Încheiați ziua cu o excursie la Ancien Prieuré Saint-Pierre pentru a vă bucura de atmosfera pașnică a serii.",
+        "en": "Start your driving tour on the outskirts of town with a visit to the magnificent Château de la Dorée, then head to Château de Vaugrignon. At midday, park in the center to explore the Saint-Médard Church and the remains of Château d'Esvres. In the afternoon, take a leisurely drive to the Priory of Esvres and enjoy the nature of the lush Indre Valley. Conclude your day with a trip to the Ancien Prieuré Saint-Pierre, soaking in the peaceful and quiet evening atmosphere."
+      }
+    }
+  }
+}

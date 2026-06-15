@@ -1,0 +1,451 @@
+{
+  "city_id": "spain-bueu-cities-v2",
+  "anchor": {
+    "name": "Bueu",
+    "coords": [
+      -8.80408,
+      42.32764
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:22",
+      "total_km": 2.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Igrexa de Santa María de Beluso",
+            "hu": "Igrexa de Santa María de Beluso",
+            "ro": "Igrexa de Santa María de Beluso",
+            "en": "Igrexa de Santa María de Beluso"
+          },
+          "coords": [
+            -8.813578,
+            42.330913
+          ],
+          "category": "religious",
+          "arrive_at": "09:14",
+          "stay_min": 50,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die charmante ländliche Architektur dieser historischen Kirche und achten Sie auf die lokalen Steinmetzarbeiten, bevor Sie weitergehen.",
+            "hu": "Csodálja meg a történelmi templom bájos vidéki építészetét, és figyeljen a helyi kőfaragványokra, mielőtt folytatná felfedezőútját.",
+            "ro": "Admirați arhitectura rurală fermecătoare a acestei biserici istorice înainte de a continua explorarea, fiind atenți la sculpturile locale în piatră.",
+            "en": "Admire the charming rural architecture of this historic church before continuing your journey, keeping an eye out for the local stone carvings."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Tulla",
+            "hu": "Praia de Tulla",
+            "ro": "Praia de Tulla",
+            "en": "Praia de Tulla"
+          },
+          "coords": [
+            -8.813945,
+            42.337666
+          ],
+          "category": "recreational",
+          "arrive_at": "10:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem feinen Sand dieses wunderschönen, von üppiger Vegetation gesäumten Strandes und bringen Sie eigene Snacks mit.",
+            "hu": "Pihenjen meg ezen a buja növényzettel szegélyezett gyönyörű homokos strandon, és hozzon magával rágcsálnivalót, mivel a helyi kínálat korlátozott.",
+            "ro": "Relaxați-vă pe nisipul fin al acestei plaje frumoase mărginite de vegetație luxuriantă și aduceți-vă propriile gustări, facilitățile fiind limitate.",
+            "en": "Relax on the fine sands of this beautiful beach bordered by lush vegetation, and bring your own snacks as local facilities can be quite limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Cornide",
+            "hu": "Praia de Cornide",
+            "ro": "Praia de Cornide",
+            "en": "Praia de Cornide"
+          },
+          "coords": [
+            -8.818325,
+            42.337249
+          ],
+          "category": "recreational",
+          "arrive_at": "11:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieses kleineren Küstenabschnitts für ein schnelles Bad, aber achten Sie auf die felsigen Bereiche im Wasser.",
+            "hu": "Élvezze a békés légkört ezen a kisebb, gyors fürdőzésre tökéletes partszakaszon, de a vízbe lépéskor ügyeljen az élesebb sziklás részekre.",
+            "ro": "Bucurați-vă de atmosfera pașnică a acestei porțiuni de coastă perfecte pentru o baie rapidă, dar aveți grijă la zonele stâncoase când intrați în apă.",
+            "en": "Enjoy the peaceful atmosphere of this smaller coastal stretch perfect for a quick dip, but be mindful of the rocky areas when entering the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Mourisca",
+            "hu": "Praia da Mourisca",
+            "ro": "Praia da Mourisca",
+            "en": "Praia da Mourisca"
+          },
+          "coords": [
+            -8.822419,
+            42.337463
+          ],
+          "category": "recreational",
+          "arrive_at": "12:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Diese geschützte Bucht bietet hervorragende Wasserklarheit zum Schnorcheln, also packen Sie Ihre Maske ein, um die Unterwasserwelt zu erkunden.",
+            "hu": "Ez a védett öböl kiváló víztisztaságot kínál a sznorkelezéshez, így mindenképpen hozzon maszkot a nyugodt part menti tengeri élőlények felfedezéséhez.",
+            "ro": "Acest golf adăpostit oferă o claritate excelentă a apei pentru snorkeling, așa că luați-vă masca pentru a explora viața marină de lângă țărm.",
+            "en": "This sheltered cove offers excellent water clarity for snorkeling, so pack your mask to explore the vibrant marine life just off the tranquil shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Vila Romana da Mourisca",
+            "hu": "Vila Romana da Mourisca",
+            "ro": "Vila Romana da Mourisca",
+            "en": "Vila Romana da Mourisca"
+          },
+          "coords": [
+            -8.823635,
+            42.33708
+          ],
+          "category": "historical",
+          "arrive_at": "14:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Ruinen einer antiken römischen Salzanlage direkt am Meer und tragen Sie festes Schuhwerk für die unebenen Wege.",
+            "hu": "Fedezze fel egy ősi római sózóüzem lenyűgöző romjait közvetlenül a tenger mellett, és viseljen masszív cipőt az egyenetlen ösvényeken való sétához.",
+            "ro": "Descoperiți ruinele fascinante ale unei vechi fabrici romane de sărare direct la malul mării și purtați încălțăminte solidă pentru potecile inegale.",
+            "en": "Discover the fascinating ruins of an ancient Roman salting factory right by the sea, and wear sturdy shoes to safely navigate the uneven pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Bucieira",
+            "hu": "Praia da Bucieira",
+            "ro": "Praia da Bucieira",
+            "en": "Praia da Bucieira"
+          },
+          "coords": [
+            -8.824802,
+            42.339711
+          ],
+          "category": "recreational",
+          "arrive_at": "15:37",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Machen Sie einen ruhigen Spaziergang entlang dieses relativ unberührten Sandstreifens, um den Sonnenuntergang zu beobachten, und ziehen Sie sich warm an.",
+            "hu": "Tegyen egy csendes sétát ezen a viszonylag érintetlen homokos sávon a naplemente megtekintéséhez, és öltözzön fel melegen a feltámadó tengeri szél miatt.",
+            "ro": "Faceți o plimbare liniștită de-a lungul acestei fâșii de nisip relativ neatinse pentru apus și îmbrăcați-vă gros, deoarece briza mării se intensifică.",
+            "en": "Take a quiet stroll along this relatively untouched sandy strip to watch the sunset, and wrap up warmly as the sea breeze tends to pick up late."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt an der historischen Kirche Beluso, bevor Sie zum Sandstrand Praia de Tulla hinabsteigen. Der Mittag lädt zum entspannten Strand-Hopping an der friedlichen Küste ein. Am Nachmittag entdecken Sie antike römische Geschichte bei den Ruinen von Mourisca. Abends können Sie den Sonnenuntergang über dem Strand Praia da Bucieira beobachten.",
+        "hu": "A reggel a történelmi Beluso templomnál indul, majd a Praia de Tulla homokos partjára vezet. A délidő laza strandolásra csábít a békés partszakaszon. Délután fedezze fel a Mourisca romok ókori római történelmét. Ahogy közeledik az este, csodálja meg a békés naplementét a Praia da Bucieira érintetlen homokján.",
+        "ro": "Dimineața începe la biserica istorică Beluso, înainte de a coborî spre țărmurile Praia de Tulla. Prânzul invită la plimbări relaxante pe plajele pașnice. După-amiaza, descoperiți istoria antică romană la ruinele Mourisca. Seara, priviți cum soarele apune liniștit peste nisipurile imaculate ale Praia da Bucieira.",
+        "en": "Morning starts at the historic Beluso church before wandering down to the sandy shores of Praia de Tulla. Midday invites relaxed beach-hopping along the peaceful coast. In the afternoon, uncover ancient Roman history at the Mourisca ruins. As evening approaches, watch the sun set quietly over the pristine sands of Praia da Bucieira."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 3.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Igrexa de Santa María de Beluso",
+            "hu": "Igrexa de Santa María de Beluso",
+            "ro": "Igrexa de Santa María de Beluso",
+            "en": "Igrexa de Santa María de Beluso"
+          },
+          "coords": [
+            -8.813578,
+            42.330913
+          ],
+          "category": "religious",
+          "arrive_at": "09:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die charmante ländliche Architektur dieser historischen Kirche und achten Sie auf die lokalen Steinmetzarbeiten, bevor Sie weitergehen.",
+            "hu": "Csodálja meg a történelmi templom bájos vidéki építészetét, és figyeljen a helyi kőfaragványokra, mielőtt folytatná felfedezőútját.",
+            "ro": "Admirați arhitectura rurală fermecătoare a acestei biserici istorice înainte de a continua explorarea, fiind atenți la sculpturile locale în piatră.",
+            "en": "Admire the charming rural architecture of this historic church before continuing your journey, keeping an eye out for the local stone carvings."
+          }
+        },
+        {
+          "name": {
+            "de": "Vila Romana da Mourisca",
+            "hu": "Vila Romana da Mourisca",
+            "ro": "Vila Romana da Mourisca",
+            "en": "Vila Romana da Mourisca"
+          },
+          "coords": [
+            -8.823635,
+            42.33708
+          ],
+          "category": "historical",
+          "arrive_at": "10:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Ruinen einer antiken römischen Salzanlage direkt am Meer und tragen Sie festes Schuhwerk für die unebenen Wege.",
+            "hu": "Fedezze fel egy ősi római sózóüzem lenyűgöző romjait közvetlenül a tenger mellett, és viseljen masszív cipőt az egyenetlen ösvényeken való sétához.",
+            "ro": "Descoperiți ruinele fascinante ale unei vechi fabrici romane de sărare direct la malul mării și purtați încălțăminte solidă pentru potecile inegale.",
+            "en": "Discover the fascinating ruins of an ancient Roman salting factory right by the sea, and wear sturdy shoes to safely navigate the uneven pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "A Praia Pequena de Ancoradouro",
+            "hu": "A Praia Pequena de Ancoradouro",
+            "ro": "A Praia Pequena de Ancoradouro",
+            "en": "A Praia Pequena de Ancoradouro"
+          },
+          "coords": [
+            -8.826499,
+            42.33332
+          ],
+          "category": "recreational",
+          "arrive_at": "11:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Suchen Sie sich ein abgeschiedenes Plätzchen an diesem malerischen Strand, um den Massen zu entfliehen, und kommen Sie bei Ebbe für mehr Liegefläche.",
+            "hu": "Keressen egy eldugott helyet ezen a festői kis parton a nagyobb tömeg elkerülése érdekében, és apály idején látogasson el ide a nagyobb pihenőhelyért.",
+            "ro": "Găsiți un loc retras pe acest țărm mic și pitoresc pentru a scăpa de aglomerație și vizitați în timpul refluxului pentru a maximiza zona de odihnă.",
+            "en": "Find a secluded spot on this petite and picturesque shore to escape the larger crowds, and visit during low tide to maximize your resting area."
+          }
+        },
+        {
+          "name": {
+            "de": "Os Moscallos",
+            "hu": "Os Moscallos",
+            "ro": "Os Moscallos",
+            "en": "Os Moscallos"
+          },
+          "coords": [
+            -8.82728,
+            42.328076
+          ],
+          "category": "recreational",
+          "arrive_at": "12:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die dramatischen Felsformationen an diesem Aussichtspunkt und bleiben Sie auf den markierten Wegen, um die lokale Flora zu schützen.",
+            "hu": "Csodálja meg a drámai tengerparti sziklaalakzatokat ezen a festői helyen, de ügyeljen arra, hogy a kijelölt ösvényeken maradjon a növényzet védelmében.",
+            "ro": "Admirați formațiunile stâncoase dramatice de coastă care definesc acest loc pitoresc, având grijă să rămâneți pe trasee pentru a proteja flora.",
+            "en": "Marvel at the dramatic coastal rock formations defining this scenic spot, taking care to stay on marked trails to protect the fragile local flora."
+          }
+        },
+        {
+          "name": {
+            "de": "ZEC Cabo Udra",
+            "hu": "ZEC Cabo Udra",
+            "ro": "ZEC Cabo Udra",
+            "en": "ZEC Cabo Udra"
+          },
+          "coords": [
+            -8.827524,
+            42.324795
+          ],
+          "category": "natural",
+          "arrive_at": "13:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses Naturschutzgebiet, um atemberaubende Panoramablicke zu erleben, und stellen Sie sicher, dass Ihre Kamera aufgeladen ist.",
+            "hu": "Túrázzon végig ezen a védett természeti övezeten a lélegzetelállító óceáni panorámáért, és győződjön meg róla, hogy fényképezőgépe teljesen fel van töltve.",
+            "ro": "Faceți drumeții prin această zonă naturală protejată pentru vederi panoramice uluitoare la ocean, asigurându-vă că aparatul foto este complet încărcat.",
+            "en": "Hike through this protected natural zone to experience breathtaking panoramic ocean views, making sure your camera is fully charged for the scenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia dos Barcos",
+            "hu": "Praia dos Barcos",
+            "ro": "Praia dos Barcos",
+            "en": "Praia dos Barcos"
+          },
+          "coords": [
+            -8.825481,
+            42.323977
+          ],
+          "category": "recreational",
+          "arrive_at": "15:15",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie die traditionellen Fischerboote, die sanft im Wasser schaukeln, von diesem ruhigen Strand aus, ein perfektes Fotomotiv am Nachmittag.",
+            "hu": "Figyelje meg a vízben ringatózó hagyományos halászhajókat erről a nyugodt strandról, amely tökéletes és fotogén befejezése lesz a délutánnak.",
+            "ro": "Observați bărcile tradiționale de pescuit plutind ușor pe apă de pe această plajă senină, oferind un final perfect și fotogenic pentru după-amiază.",
+            "en": "Observe the traditional fishing boats bobbing gently in the water from this serene beach, providing a perfect and photogenic end to your afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit lokalem Erbe vor einer Fahrt zu den römischen Ruinen. Mittags erkunden Sie versteckte Buchten wie Ancoradouro. Der Nachmittag bringt dramatische Ausblicke bei Os Moscallos und dem majestätischen Reservat Cabo Udra. Der aktive Tag endet friedlich mit dem Beobachten traditioneller Fischerboote am Praia dos Barcos.",
+        "hu": "A reggel a helyi örökséggel kezdődik, majd egy festői tekerés következik a római romokhoz. Délben eldugott öblöket fedezhet fel, mint Ancoradouro. A délután drámai kilátást nyújt az Os Moscallos-nál és a lenyűgöző Cabo Udra rezervátumban. Az aktív nap a Praia dos Barcos halászhajóinak békés látványával zárul.",
+        "ro": "Dimineața începe cu patrimoniul local înainte de o plimbare spre ruinele romane. Prânzul explorează golfuri ascunse precum Ancoradouro. După-amiaza aduce vederi dramatice la Os Moscallos și maiestuoasa rezervație Cabo Udra. Ziua activă se încheie pașnic urmărind bărcile tradiționale de pescuit la Praia dos Barcos.",
+        "en": "Morning begins with local heritage before a scenic ride to the Roman salting factory ruins. Midday explores tucked-away coves like Ancoradouro. Afternoon brings dramatic views at Os Moscallos and the majestic Cabo Udra nature reserve. The active day concludes peacefully by watching traditional fishing boats bobbing at Praia dos Barcos."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:36",
+      "total_km": 4.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Igrexa de Santa María de Beluso",
+            "hu": "Igrexa de Santa María de Beluso",
+            "ro": "Igrexa de Santa María de Beluso",
+            "en": "Igrexa de Santa María de Beluso"
+          },
+          "coords": [
+            -8.813578,
+            42.330913
+          ],
+          "category": "religious",
+          "arrive_at": "09:02",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die charmante ländliche Architektur dieser historischen Kirche und achten Sie auf die lokalen Steinmetzarbeiten, bevor Sie weitergehen.",
+            "hu": "Csodálja meg a történelmi templom bájos vidéki építészetét, és figyeljen a helyi kőfaragványokra, mielőtt folytatná felfedezőútját.",
+            "ro": "Admirați arhitectura rurală fermecătoare a acestei biserici istorice înainte de a continua explorarea, fiind atenți la sculpturile locale în piatră.",
+            "en": "Admire the charming rural architecture of this historic church before continuing your journey, keeping an eye out for the local stone carvings."
+          }
+        },
+        {
+          "name": {
+            "de": "Vila Romana da Mourisca",
+            "hu": "Vila Romana da Mourisca",
+            "ro": "Vila Romana da Mourisca",
+            "en": "Vila Romana da Mourisca"
+          },
+          "coords": [
+            -8.823635,
+            42.33708
+          ],
+          "category": "historical",
+          "arrive_at": "09:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Ruinen einer antiken römischen Salzanlage direkt am Meer und tragen Sie festes Schuhwerk für die unebenen Wege.",
+            "hu": "Fedezze fel egy ősi római sózóüzem lenyűgöző romjait közvetlenül a tenger mellett, és viseljen masszív cipőt az egyenetlen ösvényeken való sétához.",
+            "ro": "Descoperiți ruinele fascinante ale unei vechi fabrici romane de sărare direct la malul mării și purtați încălțăminte solidă pentru potecile inegale.",
+            "en": "Discover the fascinating ruins of an ancient Roman salting factory right by the sea, and wear sturdy shoes to safely navigate the uneven pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "ZEC Cabo Udra",
+            "hu": "ZEC Cabo Udra",
+            "ro": "ZEC Cabo Udra",
+            "en": "ZEC Cabo Udra"
+          },
+          "coords": [
+            -8.827524,
+            42.324795
+          ],
+          "category": "natural",
+          "arrive_at": "11:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses Naturschutzgebiet, um atemberaubende Panoramablicke zu erleben, und stellen Sie sicher, dass Ihre Kamera aufgeladen ist.",
+            "hu": "Túrázzon végig ezen a védett természeti övezeten a lélegzetelállító óceáni panorámáért, és győződjön meg róla, hogy fényképezőgépe teljesen fel van töltve.",
+            "ro": "Faceți drumeții prin această zonă naturală protejată pentru vederi panoramice uluitoare la ocean, asigurându-vă că aparatul foto este complet încărcat.",
+            "en": "Hike through this protected natural zone to experience breathtaking panoramic ocean views, making sure your camera is fully charged for the scenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Cunchosa",
+            "hu": "Praia da Cunchosa",
+            "ro": "Praia da Cunchosa",
+            "en": "Praia da Cunchosa"
+          },
+          "coords": [
+            -8.821322,
+            42.314568
+          ],
+          "category": "recreational",
+          "arrive_at": "12:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Betreten Sie den goldenen Sand dieses weitläufigen Strandes, der sich ideal zum Schwimmen eignet, obwohl es ratsam ist, vorher die Brandung zu prüfen.",
+            "hu": "Lépjen rá ennek a tágas strandnak az aranyhomokjára, amely ideális egy frissítő úszáshoz, bár előtte érdemes ellenőrizni a hullámzási viszonyokat.",
+            "ro": "Pășiți pe nisipul auriu al acestei plaje expansive, ideală pentru înot relaxant, deși este foarte recomandat să verificați condițiile valurilor în prealabil.",
+            "en": "Step onto the golden sands of this expansive beach ideal for a relaxing swim, though checking the surf conditions beforehand is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "A Area de Bon",
+            "hu": "A Area de Bon",
+            "ro": "A Area de Bon",
+            "en": "A Area de Bon"
+          },
+          "coords": [
+            -8.81896,
+            42.31434
+          ],
+          "category": "recreational",
+          "arrive_at": "13:51",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Küstenreise an diesem für seine Sauberkeit bekannten Strand und achten Sie darauf, Ihren gesamten Müll wieder mit nach Hause zu nehmen.",
+            "hu": "Fejezze be tengerparti utazását ezen a kivételes tisztaságáról ismert strandon, és a környezet védelme érdekében feltétlenül vigye haza a szemetét.",
+            "ro": "Încheiați-vă călătoria pe coastă la această plajă cunoscută pentru curățenia sa excepțională, asigurându-vă că luați toate gunoaiele cu dumneavoastră.",
+            "en": "Finish your coastal journey at this highly-rated beach known for its exceptional cleanliness, ensuring you take all your rubbish home with you."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt an der charmanten Kirche Beluso vor einer Fahrt zu den antiken römischen Ruinen von Mourisca. Mittags zieht es Sie in die weitläufige Natur des Cabo Udra Reservats. Der Nachmittag führt zu den weiten südlichen Küstenabschnitten am Praia da Cunchosa. Der Roadtrip-Abend endet mit purem Sand und Entspannung in A Area de Bon.",
+        "hu": "A reggel a bájos Beluso templomnál indul, mielőtt a Mourisca ókori római romjaihoz hajtana. A délidő a Cabo Udra rezervátum hatalmas természeti szépségébe kalauzolja. Délután a déli tengerparti szakaszokra, a Praia da Cunchosa felé veszi az irányt. Az autós utazás estéje pihenéssel zárul az A Area de Bon érintetlen homokján.",
+        "ro": "Dimineața vizitează fermecătoarea biserică Beluso înainte de a conduce spre ruinele romane de la Mourisca. Prânzul vă duce în frumusețea naturală vastă a rezervației Cabo Udra. După-amiaza face tranziția către întinderile coastei sudice la Praia da Cunchosa. Seara se încheie cu nisipuri imaculate și relaxare la A Area de Bon.",
+        "en": "Morning visits the charming Beluso church before a quick drive to the ancient Roman ruins at Mourisca. Midday takes you to the sprawling natural beauty of the Cabo Udra reserve. Afternoon transitions to the expansive southern coastal stretches at Praia da Cunchosa. Your road trip evening ends with pristine sands and relaxation at A Area de Bon."
+      }
+    }
+  }
+}

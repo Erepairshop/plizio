@@ -1,0 +1,428 @@
+{
+  "city_id": "tapachula-cities-v2",
+  "anchor": {
+    "name": "Tapachula",
+    "coords": [
+      -92.2675,
+      14.9075
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:39",
+      "total_km": 5.25,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Archäologisches Museum von Soconusco",
+            "hu": "Soconusco Régészeti Múzeum",
+            "ro": "Muzeul Arheologic din Soconusco",
+            "en": "Archaeological Museum of Soconusco"
+          },
+          "coords": [
+            -92.265364,
+            14.910225
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die faszinierenden prähispanischen Artefakte, die die Geschichte von Soconusco erzählen, und beginnen Sie Ihren Besuch im ersten Stockwerk, wo es am ruhigsten ist.",
+            "hu": "Csodálja meg a lenyűgöző prehispán leleteket, amelyek Soconusco gazdag történelmét mesélik el, és kezdje a látogatást a csendesebb felső szinten a tömeg elkerülése érdekében.",
+            "ro": "Admirați artefactele pre-hispanice fascinante care spun povestea regiunii Soconusco și începeți vizita la primul etaj, unde atmosfera este liniștită pentru o explorare ușoară.",
+            "en": "Marvel at the fascinating pre-Hispanic artifacts that tell the rich history of the Soconusco region, and start your visit on the upper floor to enjoy a quieter exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Convivencia",
+            "hu": "Convivencia",
+            "ro": "Convivencia",
+            "en": "Convivencia"
+          },
+          "coords": [
+            -92.260335,
+            14.906818
+          ],
+          "category": "recreational",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem lebhaften städtischen Park voller schattiger Bäume und beobachten Sie das lokale Leben am besten bei einem Spaziergang am frühen Vormittag.",
+            "hu": "Pihenjen meg ebben a nyüzsgő városi parkban, amely árnyékos fákkal teli, és figyelje meg a helyi életet, lehetőleg egy kora délelőtti kényelmes séta során a friss levegőn.",
+            "ro": "Relaxați-vă în acest parc urban plin de viață și copaci umbroși, observând viața locală cel mai bine printr-o plimbare liniștită în prima parte a dimineții pentru aer proaspăt.",
+            "en": "Relax in this lively urban park full of shady trees while watching local life unfold, best enjoyed during a leisurely early morning stroll when the air is still fresh and cool."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Bicentenario",
+            "hu": "Parque Bicentenario",
+            "ro": "Parque Bicentenario",
+            "en": "Parque Bicentenario"
+          },
+          "coords": [
+            -92.263348,
+            14.905662
+          ],
+          "category": "landmark",
+          "arrive_at": "12:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen wunderschönen Park, in dem regelmäßig kulturelle Veranstaltungen stattfinden, und probieren Sie unbedingt ein erfrischendes Getränk an einem der Stände.",
+            "hu": "Sétáljon át ezen a gyönyörű parkon, ahol gyakran tartanak kulturális eseményeket, és mindenképpen kóstoljon meg egy frissítő helyi italt valamelyik közeli árusítóhelyen pihenve.",
+            "ro": "Plimbați-vă prin acest parc frumos care găzduiește frecvent evenimente culturale și asigurați-vă că gustați o băutură răcoritoare de la unul dintre standurile locale din apropiere.",
+            "en": "Stroll through this beautiful park that frequently hosts cultural events, and make sure to try a refreshing local drink from one of the nearby vendor stands while resting quietly."
+          }
+        },
+        {
+          "name": {
+            "de": "Reloj Floral",
+            "hu": "Reloj Floral",
+            "ro": "Reloj Floral",
+            "en": "Reloj Floral"
+          },
+          "coords": [
+            -92.264767,
+            14.889939
+          ],
+          "category": "landmark",
+          "arrive_at": "14:01",
+          "stay_min": 15,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.75,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die farbenprächtige Blumenuhr als ikonisches Wahrzeichen der Stadt und fotografieren Sie das Meisterwerk am besten bei natürlichem Licht am frühen Nachmittag.",
+            "hu": "Csodálja meg a színpompás virágórát, a város ikonikus nevezetességét, és a legjobb fényképek elkészítéséhez érdemes a kora délutáni természetes fényviszonyokat kihasználni.",
+            "ro": "Admirați ceasul floral colorat ca punct de reper iconic al orașului și obțineți cele mai bune fotografii cu această capodoperă profitând de lumina naturală din după-amiază.",
+            "en": "Marvel at the colorful floral clock serving as an iconic city landmark, and capture the best photographs of this masterpiece by taking advantage of the early afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "Fuente Atzacua",
+            "hu": "Fuente Atzacua",
+            "ro": "Fuente Atzacua",
+            "en": "Fuente Atzacua"
+          },
+          "coords": [
+            -92.242888,
+            14.898033
+          ],
+          "category": "landmark",
+          "arrive_at": "14:54",
+          "stay_min": 15,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur dieser modernen Wasserfontäne im Stadtzentrum und nehmen Sie sich Zeit für eine kurze Pause auf einer der Bänke im Halbschatten.",
+            "hu": "Csodálja meg ennek a modern szökőkútnak a lenyűgöző építészetét a városban, és szánjon időt egy rövid pihenőre a környező padok egyikén a kellemes, hűvös félárnyékban ülve.",
+            "ro": "Admirați arhitectura impresionantă a acestei fântâni moderne din centrul orașului și rezervați-vă timp pentru o scurtă pauză pe una dintre băncile din jur la umbră.",
+            "en": "Admire the impressive architecture of this modern water fountain located in the city center, and take a moment to rest on one of the surrounding benches in partial shade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag im archäologischen Museum, um die tiefe Geschichte der Region Soconusco kennenzulernen. Danach geht es zum Park Convivencia für einen entspannten Vormittag. Mittags lädt der zentrale Parque Bicentenario zu einer erholsamen Pause inmitten des städtischen Lebens ein. Am Nachmittag spazieren Sie zur farbenfrohen Blumenuhr, dem berühmten Reloj Floral. Zum Abschluss des Tages bewundern Sie die moderne Architektur der Fuente Atzacua.",
+        "hu": "Kezdje a napot a régészeti múzeumban, ahol megismerkedhet a Soconusco régió gazdag múltjával. Ezután sétáljon át a Convivencia parkba egy pihentető délelőttre. Délben a központi Parque Bicentenario tökéletes helyszínt biztosít egy kis feltöltődésre a városi nyüzsgésben. Délután tekintse meg a színes és ikonikus virágórát, majd zárja a napot a modern Fuente Atzacua lenyűgöző építészetének megcsodálásával.",
+        "ro": "Începeți ziua la muzeul arheologic pentru a descoperi istoria profundă a regiunii Soconusco. Apoi, mergeți la parcul Convivencia pentru o dimineață relaxantă. La prânz, Parque Bicentenario central oferă o pauză perfectă în mijlocul vieții urbane. După-amiaza, faceți o plimbare spre ceasul floral colorat și iconic. Încheiați ziua admirând arhitectura modernă și impresionantă a fântânii Fuente Atzacua.",
+        "en": "Start your day at the archaeological museum to uncover the deep history of the Soconusco region. Next, head to Convivencia park for a relaxing morning stroll. At midday, the central Parque Bicentenario offers a perfect rest spot amidst the vibrant city life. In the afternoon, walk towards the colorful and iconic floral clock. Conclude your day by admiring the modern architecture of the Fuente Atzacua before heading back."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 7.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Archäologisches Museum von Soconusco",
+            "hu": "Soconusco Régészeti Múzeum",
+            "ro": "Muzeul Arheologic din Soconusco",
+            "en": "Archaeological Museum of Soconusco"
+          },
+          "coords": [
+            -92.265364,
+            14.910225
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die faszinierenden prähispanischen Artefakte, die die Geschichte von Soconusco erzählen, und beginnen Sie Ihren Besuch im ersten Stockwerk, wo es am ruhigsten ist.",
+            "hu": "Csodálja meg a lenyűgöző prehispán leleteket, amelyek Soconusco gazdag történelmét mesélik el, és kezdje a látogatást a csendesebb felső szinten a tömeg elkerülése érdekében.",
+            "ro": "Admirați artefactele pre-hispanice fascinante care spun povestea regiunii Soconusco și începeți vizita la primul etaj, unde atmosfera este liniștită pentru o explorare ușoară.",
+            "en": "Marvel at the fascinating pre-Hispanic artifacts that tell the rich history of the Soconusco region, and start your visit on the upper floor to enjoy a quieter exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Convivencia",
+            "hu": "Convivencia",
+            "ro": "Convivencia",
+            "en": "Convivencia"
+          },
+          "coords": [
+            -92.260335,
+            14.906818
+          ],
+          "category": "recreational",
+          "arrive_at": "10:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem lebhaften städtischen Park voller schattiger Bäume und beobachten Sie das lokale Leben am besten bei einem Spaziergang am frühen Vormittag.",
+            "hu": "Pihenjen meg ebben a nyüzsgő városi parkban, amely árnyékos fákkal teli, és figyelje meg a helyi életet, lehetőleg egy kora délelőtti kényelmes séta során a friss levegőn.",
+            "ro": "Relaxați-vă în acest parc urban plin de viață și copaci umbroși, observând viața locală cel mai bine printr-o plimbare liniștită în prima parte a dimineții pentru aer proaspăt.",
+            "en": "Relax in this lively urban park full of shady trees while watching local life unfold, best enjoyed during a leisurely early morning stroll when the air is still fresh and cool."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Bicentenario",
+            "hu": "Parque Bicentenario",
+            "ro": "Parque Bicentenario",
+            "en": "Parque Bicentenario"
+          },
+          "coords": [
+            -92.263348,
+            14.905662
+          ],
+          "category": "landmark",
+          "arrive_at": "12:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen wunderschönen Park, in dem regelmäßig kulturelle Veranstaltungen stattfinden, und probieren Sie unbedingt ein erfrischendes Getränk an einem der Stände.",
+            "hu": "Sétáljon át ezen a gyönyörű parkon, ahol gyakran tartanak kulturális eseményeket, és mindenképpen kóstoljon meg egy frissítő helyi italt valamelyik közeli árusítóhelyen pihenve.",
+            "ro": "Plimbați-vă prin acest parc frumos care găzduiește frecvent evenimente culturale și asigurați-vă că gustați o băutură răcoritoare de la unul dintre standurile locale din apropiere.",
+            "en": "Stroll through this beautiful park that frequently hosts cultural events, and make sure to try a refreshing local drink from one of the nearby vendor stands while resting quietly."
+          }
+        },
+        {
+          "name": {
+            "de": "Fuente Atzacua",
+            "hu": "Fuente Atzacua",
+            "ro": "Fuente Atzacua",
+            "en": "Fuente Atzacua"
+          },
+          "coords": [
+            -92.242888,
+            14.898033
+          ],
+          "category": "landmark",
+          "arrive_at": "13:39",
+          "stay_min": 15,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur dieser modernen Wasserfontäne im Stadtzentrum und nehmen Sie sich Zeit für eine kurze Pause auf einer der Bänke im Halbschatten.",
+            "hu": "Csodálja meg ennek a modern szökőkútnak a lenyűgöző építészetét a városban, és szánjon időt egy rövid pihenőre a környező padok egyikén a kellemes, hűvös félárnyékban ülve.",
+            "ro": "Admirați arhitectura impresionantă a acestei fântâni moderne din centrul orașului și rezervați-vă timp pentru o scurtă pauză pe una dintre băncile din jur la umbră.",
+            "en": "Admire the impressive architecture of this modern water fountain located in the city center, and take a moment to rest on one of the surrounding benches in partial shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Castejón",
+            "hu": "Castejón",
+            "ro": "Castejón",
+            "en": "Castejón"
+          },
+          "coords": [
+            -92.237466,
+            14.890656
+          ],
+          "category": "recreational",
+          "arrive_at": "13:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieses gepflegten Erholungsgebietes und bringen Sie bequeme Schuhe mit, um die malerischen Wege am Nachmittag entspannt zu erkunden.",
+            "hu": "Élvezze a gondozott rekreációs terület békés hangulatát, és hozzon magával kényelmes cipőt, hogy a festői ösvényeken a délután folyamán kényelmesen, sietség nélkül sétálhasson.",
+            "ro": "Bucurați-vă de atmosfera pașnică a acestei zone de agrement bine întreținute și aduceți încălțăminte confortabilă pentru a explora pe îndelete potecile pitorești după-amiaza.",
+            "en": "Enjoy the peaceful atmosphere of this well-maintained recreational area, and be sure to bring comfortable walking shoes to easily explore the scenic pathways throughout the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Reloj Floral",
+            "hu": "Reloj Floral",
+            "ro": "Reloj Floral",
+            "en": "Reloj Floral"
+          },
+          "coords": [
+            -92.264767,
+            14.889939
+          ],
+          "category": "landmark",
+          "arrive_at": "15:30",
+          "stay_min": 15,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die farbenprächtige Blumenuhr als ikonisches Wahrzeichen der Stadt und fotografieren Sie das Meisterwerk am besten bei natürlichem Licht am frühen Nachmittag.",
+            "hu": "Csodálja meg a színpompás virágórát, a város ikonikus nevezetességét, és a legjobb fényképek elkészítéséhez érdemes a kora délutáni természetes fényviszonyokat kihasználni.",
+            "ro": "Admirați ceasul floral colorat ca punct de reper iconic al orașului și obțineți cele mai bune fotografii cu această capodoperă profitând de lumina naturală din după-amiază.",
+            "en": "Marvel at the colorful floral clock serving as an iconic city landmark, and capture the best photographs of this masterpiece by taking advantage of the early afternoon light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour mit kulturellen Einblicken im archäologischen Museum von Soconusco. Radeln Sie weiter zum Park Convivencia und genießen Sie die grüne Oase der Stadt. Die Mittagszeit verbringen Sie im lebendigen Parque Bicentenario, wo Sie die lokale Atmosphäre aufnehmen können. Nachmittags fahren Sie zur beeindruckenden Fuente Atzacua und entspannen in den Grünanlagen von Castejón. Der Tag endet am berühmten Reloj Floral.",
+        "hu": "Kezdje kerékpártúráját a soconuscói régészeti múzeumban tett kulturális látogatással. Tekerjen tovább a Convivencia parkba, és élvezze a város zöld oázisát. A delet a nyüzsgő Parque Bicentenarioban tölti, ahol magába szívhatja a helyi hangulatot. Délután tekerjen el a lenyűgöző Fuente Atzacua szökőkúthoz, majd pihenjen meg Castejón zöldterületein. A tartalmas nap a híres és színpompás virágóránál ér véget kellemes környezetben.",
+        "ro": "Începeți turul cu bicicleta cu o incursiune culturală la muzeul arheologic din Soconusco. Pedalați spre parcul Convivencia și bucurați-vă de oaza verde a orașului. Prânzul este petrecut în vibrantul Parque Bicentenario, unde veți simți atmosfera locală. După-amiaza, mergeți la impresionanta Fuente Atzacua și relaxați-vă în zonele verzi din Castejón. Ziua se încheie liniștit la faimosul ceas floral.",
+        "en": "Start your bike tour with deep cultural insights at the archaeological museum of Soconusco. Pedal over to Convivencia park and enjoy the city's green oasis. Midday is spent in the lively Parque Bicentenario, absorbing the local atmosphere. In the afternoon, ride to the impressive Fuente Atzacua and relax in the lush, green surroundings of Castejón. The day gracefully concludes at the famous floral clock landmark."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:06",
+      "total_km": 20.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Archäologisches Museum von Soconusco",
+            "hu": "Soconusco Régészeti Múzeum",
+            "ro": "Muzeul Arheologic din Soconusco",
+            "en": "Archaeological Museum of Soconusco"
+          },
+          "coords": [
+            -92.265364,
+            14.910225
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die faszinierenden prähispanischen Artefakte, die die Geschichte von Soconusco erzählen, und beginnen Sie Ihren Besuch im ersten Stockwerk, wo es am ruhigsten ist.",
+            "hu": "Csodálja meg a lenyűgöző prehispán leleteket, amelyek Soconusco gazdag történelmét mesélik el, és kezdje a látogatást a csendesebb felső szinten a tömeg elkerülése érdekében.",
+            "ro": "Admirați artefactele pre-hispanice fascinante care spun povestea regiunii Soconusco și începeți vizita la primul etaj, unde atmosfera este liniștită pentru o explorare ușoară.",
+            "en": "Marvel at the fascinating pre-Hispanic artifacts that tell the rich history of the Soconusco region, and start your visit on the upper floor to enjoy a quieter exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Bicentenario",
+            "hu": "Parque Bicentenario",
+            "ro": "Parque Bicentenario",
+            "en": "Parque Bicentenario"
+          },
+          "coords": [
+            -92.263348,
+            14.905662
+          ],
+          "category": "landmark",
+          "arrive_at": "10:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen wunderschönen Park, in dem regelmäßig kulturelle Veranstaltungen stattfinden, und probieren Sie unbedingt ein erfrischendes Getränk an einem der Stände.",
+            "hu": "Sétáljon át ezen a gyönyörű parkon, ahol gyakran tartanak kulturális eseményeket, és mindenképpen kóstoljon meg egy frissítő helyi italt valamelyik közeli árusítóhelyen pihenve.",
+            "ro": "Plimbați-vă prin acest parc frumos care găzduiește frecvent evenimente culturale și asigurați-vă că gustați o băutură răcoritoare de la unul dintre standurile locale din apropiere.",
+            "en": "Stroll through this beautiful park that frequently hosts cultural events, and make sure to try a refreshing local drink from one of the nearby vendor stands while resting quietly."
+          }
+        },
+        {
+          "name": {
+            "de": "Feria Mesoamericana",
+            "hu": "Feria Mesoamericana",
+            "ro": "Feria Mesoamericana",
+            "en": "Feria Mesoamericana"
+          },
+          "coords": [
+            -92.291051,
+            14.878992
+          ],
+          "category": "recreational",
+          "arrive_at": "12:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie das weitläufige Gelände dieses bedeutenden Messegeländes, das oft voller Leben ist, und informieren Sie sich vorab online über aktuelle lokale Veranstaltungen.",
+            "hu": "Fedezze fel ennek a jelentős vásártérnek a tágas területét, amely gyakran tele van élettel, és érdemes előre tájékozódni az interneten az éppen zajló aktuális helyi programokról.",
+            "ro": "Explorați terenurile spațioase ale acestui important centru expozițional care este adesea plin de viață și verificați în prealabil online pentru evenimente locale curente.",
+            "en": "Explore the expansive grounds of this important fairground that is often bustling with life, and remember to check online beforehand to see if any exciting local events are on."
+          }
+        },
+        {
+          "name": {
+            "de": "Palma Sola",
+            "hu": "Palma Sola",
+            "ro": "Palma Sola",
+            "en": "Palma Sola"
+          },
+          "coords": [
+            -92.192315,
+            14.863165
+          ],
+          "category": "recreational",
+          "arrive_at": "13:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 10.8,
+          "tip_5lang": {
+            "de": "Verbringen Sie entspannte Stunden in diesem malerischen Freizeitbereich am Rande der Stadt und packen Sie unbedingt ein kleines Picknick für eine Pause im Schatten der Bäume ein.",
+            "hu": "Töltsön el néhány pihentető órát ebben a festői szabadidős övezetben a város szélén, és mindenképpen csomagoljon egy kis pikniket, amelyet az öreg fák árnyékában költhet el.",
+            "ro": "Petreceți câteva ore relaxante în această zonă de agrement pitorească de la marginea orașului și împachetați neapărat un mic picnic pentru o pauză delicioasă la umbra copacilor.",
+            "en": "Spend a few relaxing hours in this picturesque recreational area on the city's edge, and make sure to pack a small picnic to enjoy during a well-deserved break under the trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Acuático Yolonam",
+            "hu": "Parque Acuático Yolonam",
+            "ro": "Parque Acuático Yolonam",
+            "en": "Parque Acuático Yolonam"
+          },
+          "coords": [
+            -92.199154,
+            14.91193
+          ],
+          "category": "recreational",
+          "arrive_at": "15:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.45,
+          "tip_5lang": {
+            "de": "Erfrischen Sie sich in den großzügigen Pools dieses fantastischen Wasserparks in Tapachula und kommen Sie am besten am späten Nachmittag, um die starke Mittagssonne zu vermeiden.",
+            "hu": "Frissüljön fel ennek a fantasztikus tapachulai víziparknak a tágas medencéiben, és érkezzen inkább a késő délutáni órákban, hogy okosan elkerülje a legforróbb, déli napsütést.",
+            "ro": "Răcoriți-vă în piscinele spațioase ale acestui parc acvatic fantastic din Tapachula și veniți spre sfârșitul după-amiezii pentru a evita în mod inteligent cel mai puternic soare.",
+            "en": "Cool off in the spacious pools of this fantastic water park in Tapachula, and try to arrive in the late afternoon to smartly avoid the strongest and most intense midday sun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Autotrip beginnt mit einer faszinierenden Reise in die Vergangenheit im archäologischen Museum. Fahren Sie kurz ins Zentrum, um den belebten Parque Bicentenario zu erleben. Mittags bringt Sie das Auto zur weitläufigen Feria Mesoamericana, wo Sie die Atmosphäre des Geländes auf sich wirken lassen. Am Nachmittag fahren Sie hinaus in die Natur nach Palma Sola. Beenden Sie diesen erlebnisreichen Tag mit einem erfrischenden Bad im Parque Acuático Yolonam.",
+        "hu": "Az autós kirándulás a régészeti múzeumban tett lenyűgöző időutazással indul a múltba. Vezessen a központba, hogy megtapasztalja a nyüzsgő Parque Bicentenario hangulatát. Délben kocsival a hatalmas Feria Mesoamericana területére érkezik, ahol felfedezheti a vásártér különleges atmoszféráját. Délután irány a természet a festői Palma Sola felé. Zárja ezt az eseménydús napot egy frissítő fürdőzéssel a fantasztikus Yolonam víziparkban.",
+        "ro": "Excursia cu mașina începe cu o călătorie fascinantă în trecut la muzeul arheologic. Conduceți spre centru pentru a experimenta animatul Parque Bicentenario. La prânz, mașina vă duce la vasta Feria Mesoamericana pentru a vă bucura de atmosfera complexului. După-amiaza, ieșiți în natură spre pitoreasca Palma Sola. Încheiați această zi plină de evenimente cu o baie răcoritoare în apele din Parque Acuático Yolonam.",
+        "en": "The car trip begins with a fascinating journey into the past at the archaeological museum. Drive shortly to the center to experience the lively Parque Bicentenario. At midday, your vehicle takes you to the expansive Feria Mesoamericana to soak up the vast fairground atmosphere. In the afternoon, drive out into nature towards picturesque Palma Sola. End this eventful day with a refreshing swim at Parque Acuático Yolonam."
+      }
+    }
+  }
+}

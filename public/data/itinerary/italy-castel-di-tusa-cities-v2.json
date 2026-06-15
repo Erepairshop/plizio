@@ -1,0 +1,405 @@
+{
+  "city_id": "italy-castel-di-tusa-cities-v2",
+  "anchor": {
+    "name": "Castel di Tusa",
+    "coords": [
+      14.25241,
+      38.00825
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:24",
+      "total_km": 1.29,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Marina",
+            "hu": "Marina",
+            "ro": "Marina",
+            "en": "Marina"
+          },
+          "coords": [
+            14.252455,
+            38.008917
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Spazieren Sie an der lebhaften Marina entlang, um das authentische sizilianische Küstenflair zu genießen, und kommen Sie früh für den besten Platz.",
+            "hu": "Sétáljon a nyüzsgő Marinán, hogy átélje az autentikus szicíliai tengerparti hangulatot, és érkezzen korán a legjobb kavicsos helyekért.",
+            "ro": "Plimbați-vă de-a lungul portului Marina pentru a simți atmosfera de coastă siciliană și ajungeți devreme pentru a prinde cel mai bun loc.",
+            "en": "Stroll along the vibrant Marina to soak in the authentic Sicilian coastal atmosphere, and arrive early to snag the best spot on the pebbles."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello di San Giorgio",
+            "hu": "Castello di San Giorgio",
+            "ro": "Castello di San Giorgio",
+            "en": "Castello di San Giorgio"
+          },
+          "coords": [
+            14.250168,
+            38.010542
+          ],
+          "category": "castle",
+          "arrive_at": "10:29",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Ruinen des Castello di San Giorgio für einen Einblick in mittelalterliche Strategien und tragen Sie festes Schuhwerk für den Weg.",
+            "hu": "Csodálja meg a San Giorgio kastély romjait, melyek a középkori védelemről mesélnek, és viseljen masszív cipőt a sziklás kaptatóhoz.",
+            "ro": "Admirați ruinele Castelului San Giorgio pentru a înțelege strategiile medievale de apărare și purtați încălțăminte solidă pentru poteca stâncoasă.",
+            "en": "Admire the ruins of Castello di San Giorgio for a glimpse into medieval defense strategies, and wear sturdy shoes for the rocky path up the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Lampare",
+            "hu": "Lampare",
+            "ro": "Lampare",
+            "en": "Lampare"
+          },
+          "coords": [
+            14.251185,
+            38.010684
+          ],
+          "category": "recreational",
+          "arrive_at": "11:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.09,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Strand Lampare, um das kristallklare Wasser zu bewundern, aber bringen Sie Badeschuhe für den kieseligen Uferbereich mit.",
+            "hu": "Pihenjen a Lampare strandon és csodálja meg a kristálytiszta Tirrén-tengert, de feltétlenül hozzon magával vízicipőt a köves part miatt.",
+            "ro": "Relaxați-vă la plaja Lampare pentru apele cristaline ale Mării Tireniene, dar aduceți pantofi de apă, deoarece țărmul este acoperit de pietre.",
+            "en": "Relax at Lampare beach to admire the crystal-clear Tyrrhenian waters, but bring water shoes as the shoreline is covered in large, smooth stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Ecomuseo dei Nebrodi Occidentali",
+            "hu": "Ecomuseo dei Nebrodi Occidentali",
+            "ro": "Ecomuseo dei Nebrodi Occidentali",
+            "en": "Ecomuseo dei Nebrodi Occidentali"
+          },
+          "coords": [
+            14.258228,
+            38.007499
+          ],
+          "category": "museum",
+          "arrive_at": "12:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie das Ecomuseo, um die tiefen kulturellen Wurzeln der Nebrodi-Region zu verstehen, und beachten Sie die Kunsthandwerksausstellungen.",
+            "hu": "Fedezze fel az Ecomuseót, hogy megértse a Nebrodi régió mély kulturális gyökereit, és mindenképp nézze meg az első emeleti kézműves kiállítást.",
+            "ro": "Explorați Ecomuseo pentru a înțelege rădăcinile culturale adânci ale regiunii Nebrodi și asigurați-vă că verificați expozițiile artizanale.",
+            "en": "Explore the Ecomuseo to understand the deep cultural roots of the Nebrodi region, and make sure to check the local artisan exhibits on the first floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Mezzolimone",
+            "hu": "Lido Mezzolimone",
+            "ro": "Lido Mezzolimone",
+            "en": "Lido Mezzolimone"
+          },
+          "coords": [
+            14.259542,
+            38.009278
+          ],
+          "category": "recreational",
+          "arrive_at": "14:39",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Entspannen Sie im Lido Mezzolimone, einem charmanten Strandclub, der sich perfekt für den Sonnenuntergang eignet, und bestellen Sie einen Aperol.",
+            "hu": "Kapcsolódjon ki a Lido Mezzolimone hangulatos strandklubjában, amely tökéletes naplemente-nézéshez, és rendeljen egy frissítő Aperolt a nap végén.",
+            "ro": "Relaxați-vă la Lido Mezzolimone, un club de plajă fermecător ideal pentru apus, așa că o comandați un Aperol Spritz pentru a încheia ziua perfect.",
+            "en": "Unwind at Lido Mezzolimone, a charming local beach club perfect for sunset viewing, so order a refreshing Aperol Spritz to cap off your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen an der lokalen Marina und atmen Sie die salzige Meeresbrise ein. Mittags steigen Sie zum historischen Castello di San Giorgio hinauf und erkunden die Kieselstrände von Lampare. Entdecken Sie am Nachmittag lokale Traditionen im Ecomuseo dei Nebrodi Occidentali. Lassen Sie den Tag entspannt bei den warmen Sonnenuntergangsfarben am Lido Mezzolimone ausklingen.",
+        "hu": "Kezdje a reggelt a helyi Marina sós tengeri szellőjével, egy laza sétával. Délben másszon fel a történelmi San Giorgio kastélyhoz a lenyűgöző kilátásért, majd fedezze fel a Lampare partot. Délután ismerkedjen meg a helyi hagyományokkal az Ecomuseo dei Nebrodi Occidentali falai között. Zárja a napot egy pihentető, naplementés lazítással a hangulatos Lido Mezzolimone strandon.",
+        "ro": "Începeți dimineața bucurându-vă de briza sărată la Marina, într-un ritm relaxant. Până la amiază, urcați la istoricul Castel San Giorgio pentru priveliști asupra mării și explorați țărmurile din Lampare. După-amiaza, descoperiți tradițiile locale la Ecomuseo dei Nebrodi Occidentali. Încheiați ziua relaxându-vă și admirând culorile apusului la fermecătorul Lido Mezzolimone.",
+        "en": "Begin your morning taking in the salty breeze at the local Marina, setting a relaxed pace. By midday, climb up to the historic Castello di San Giorgio for sweeping sea views and explore the pebbled shores of Lampare. In the afternoon, discover local traditions at the Ecomuseo dei Nebrodi Occidentali. Conclude your day relaxing and enjoying the sunset colors at Lido Mezzolimone."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:28",
+      "total_km": 2.19,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Marina",
+            "hu": "Marina",
+            "ro": "Marina",
+            "en": "Marina"
+          },
+          "coords": [
+            14.252455,
+            38.008917
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Spazieren Sie an der lebhaften Marina entlang, um das authentische sizilianische Küstenflair zu genießen, und kommen Sie früh für den besten Platz.",
+            "hu": "Sétáljon a nyüzsgő Marinán, hogy átélje az autentikus szicíliai tengerparti hangulatot, és érkezzen korán a legjobb kavicsos helyekért.",
+            "ro": "Plimbați-vă de-a lungul portului Marina pentru a simți atmosfera de coastă siciliană și ajungeți devreme pentru a prinde cel mai bun loc.",
+            "en": "Stroll along the vibrant Marina to soak in the authentic Sicilian coastal atmosphere, and arrive early to snag the best spot on the pebbles."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello di San Giorgio",
+            "hu": "Castello di San Giorgio",
+            "ro": "Castello di San Giorgio",
+            "en": "Castello di San Giorgio"
+          },
+          "coords": [
+            14.250168,
+            38.010542
+          ],
+          "category": "castle",
+          "arrive_at": "10:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Ruinen des Castello di San Giorgio für einen Einblick in mittelalterliche Strategien und tragen Sie festes Schuhwerk für den Weg.",
+            "hu": "Csodálja meg a San Giorgio kastély romjait, melyek a középkori védelemről mesélnek, és viseljen masszív cipőt a sziklás kaptatóhoz.",
+            "ro": "Admirați ruinele Castelului San Giorgio pentru a înțelege strategiile medievale de apărare și purtați încălțăminte solidă pentru poteca stâncoasă.",
+            "en": "Admire the ruins of Castello di San Giorgio for a glimpse into medieval defense strategies, and wear sturdy shoes for the rocky path up the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Ecomuseo dei Nebrodi Occidentali",
+            "hu": "Ecomuseo dei Nebrodi Occidentali",
+            "ro": "Ecomuseo dei Nebrodi Occidentali",
+            "en": "Ecomuseo dei Nebrodi Occidentali"
+          },
+          "coords": [
+            14.258228,
+            38.007499
+          ],
+          "category": "museum",
+          "arrive_at": "11:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.78,
+          "tip_5lang": {
+            "de": "Erkunden Sie das Ecomuseo, um die tiefen kulturellen Wurzeln der Nebrodi-Region zu verstehen, und beachten Sie die Kunsthandwerksausstellungen.",
+            "hu": "Fedezze fel az Ecomuseót, hogy megértse a Nebrodi régió mély kulturális gyökereit, és mindenképp nézze meg az első emeleti kézműves kiállítást.",
+            "ro": "Explorați Ecomuseo pentru a înțelege rădăcinile culturale adânci ale regiunii Nebrodi și asigurați-vă că verificați expozițiile artizanale.",
+            "en": "Explore the Ecomuseo to understand the deep cultural roots of the Nebrodi region, and make sure to check the local artisan exhibits on the first floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Halaesa",
+            "hu": "Halaesa",
+            "ro": "Halaesa",
+            "en": "Halaesa"
+          },
+          "coords": [
+            14.262042,
+            37.999051
+          ],
+          "category": "historical",
+          "arrive_at": "13:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Durchstreifen Sie die weitläufigen Ruinen des antiken Halaesa, um die griechisch-römische Vergangenheit zu entdecken, und nehmen Sie viel Wasser mit.",
+            "hu": "Barangoljon az ősi Halaesa kiterjedt romjai között, hogy felfedezze görög-római múltját, és vigyen sok vizet, mert kevés az árnyék a kövek közt.",
+            "ro": "Rătăciți printre ruinele extinse ale anticului Halaesa pentru a descoperi trecutul său greco-roman și aduceți multă apă, fiind puțină umbră.",
+            "en": "Wander the sprawling ruins of ancient Halaesa to uncover its Greco-Roman past, and bring plenty of water as there is little shade among the stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Agorà of Halaesa",
+            "hu": "Agorà of Halaesa",
+            "ro": "Agorà of Halaesa",
+            "en": "Agorà of Halaesa"
+          },
+          "coords": [
+            14.262724,
+            37.997834
+          ],
+          "category": "historical",
+          "arrive_at": "14:38",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Stehen Sie auf der Agorà von Halaesa, um sich das bürgerliche Leben der antiken Siedlung vorzustellen, und betrachten Sie die erhaltenen Säulen.",
+            "hu": "Álljon meg a Halaesa Agórán, hogy elképzelje az egykori település nyüzsgő civil életét, és vegye szemügyre a jó állapotban fennmaradt oszlopokat.",
+            "ro": "Stați în Agorà of Halaesa pentru a vă imagina viața civică a așezării antice și priviți cu atenție la coloanele de fundație bine conservate.",
+            "en": "Stand in the Agorà of Halaesa to picture the bustling civic life of this ancient settlement, and look closely at the preserved foundational columns."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour an der Marina und spüren Sie die morgendliche Energie der Küste. Fahren Sie gemütlich zum Castello di San Giorgio und besuchen Sie mittags das aufschlussreiche Ecomuseo. Am Nachmittag radeln Sie zu den antiken Ruinen von Halaesa, um eine Reise in die Vergangenheit zu machen. Erkunden Sie schließlich die Agorà, während die späte Sonne die Steine golden färbt.",
+        "hu": "Kezdje kerékpártúráját a Marinánál, élvezve a partvidék reggeli energiáját. Tekerjen el a San Giorgio kastélyhoz, mielőtt délben egy kulturális elmélyülésre az Ecomuseóba látogatna. Délután tekerjen tovább az ősi Halaesa romjaihoz, és repüljön vissza az időben. Végül fedezze fel a Halaesa Agórát, ahogy a lemenő nap aranyos árnyalatokat vet a régészeti kövekre.",
+        "ro": "Începeți turul cu bicicleta la Marina, simțind energia matinală a coastei. Pedalați lin către Castelul San Giorgio înainte de a vizita Ecomuseo pentru o pauză culturală. După-amiaza, mergeți mai departe spre ruinele antice din Halaesa pentru a călători în timp. La final, explorați Agorà of Halaesa în timp ce soarele târziu aruncă nuanțe aurii peste pietrele arheologice.",
+        "en": "Start your cycling tour at the Marina, feeling the morning energy of the coastline. Ride smoothly to the Castello di San Giorgio before visiting the insightful Ecomuseo for a midday cultural dive. In the afternoon, pedal further out to the ancient ruins of Halaesa to step back in time. Finally, explore the Agorà of Halaesa as the late sun casts golden hues over the archaeological stones."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:46",
+      "total_km": 5.09,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ecomuseo dei Nebrodi Occidentali",
+            "hu": "Ecomuseo dei Nebrodi Occidentali",
+            "ro": "Ecomuseo dei Nebrodi Occidentali",
+            "en": "Ecomuseo dei Nebrodi Occidentali"
+          },
+          "coords": [
+            14.258228,
+            38.007499
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das Ecomuseo, um die tiefen kulturellen Wurzeln der Nebrodi-Region zu verstehen, und beachten Sie die Kunsthandwerksausstellungen.",
+            "hu": "Fedezze fel az Ecomuseót, hogy megértse a Nebrodi régió mély kulturális gyökereit, és mindenképp nézze meg az első emeleti kézműves kiállítást.",
+            "ro": "Explorați Ecomuseo pentru a înțelege rădăcinile culturale adânci ale regiunii Nebrodi și asigurați-vă că verificați expozițiile artizanale.",
+            "en": "Explore the Ecomuseo to understand the deep cultural roots of the Nebrodi region, and make sure to check the local artisan exhibits on the first floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Halaesa",
+            "hu": "Halaesa",
+            "ro": "Halaesa",
+            "en": "Halaesa"
+          },
+          "coords": [
+            14.262042,
+            37.999051
+          ],
+          "category": "historical",
+          "arrive_at": "10:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Durchstreifen Sie die weitläufigen Ruinen des antiken Halaesa, um die griechisch-römische Vergangenheit zu entdecken, und nehmen Sie viel Wasser mit.",
+            "hu": "Barangoljon az ősi Halaesa kiterjedt romjai között, hogy felfedezze görög-római múltját, és vigyen sok vizet, mert kevés az árnyék a kövek közt.",
+            "ro": "Rătăciți printre ruinele extinse ale anticului Halaesa pentru a descoperi trecutul său greco-roman și aduceți multă apă, fiind puțină umbră.",
+            "en": "Wander the sprawling ruins of ancient Halaesa to uncover its Greco-Roman past, and bring plenty of water as there is little shade among the stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Agorà of Halaesa",
+            "hu": "Agorà of Halaesa",
+            "ro": "Agorà of Halaesa",
+            "en": "Agorà of Halaesa"
+          },
+          "coords": [
+            14.262724,
+            37.997834
+          ],
+          "category": "historical",
+          "arrive_at": "12:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Stehen Sie auf der Agorà von Halaesa, um sich das bürgerliche Leben der antiken Siedlung vorzustellen, und betrachten Sie die erhaltenen Säulen.",
+            "hu": "Álljon meg a Halaesa Agórán, hogy elképzelje az egykori település nyüzsgő civil életét, és vegye szemügyre a jó állapotban fennmaradt oszlopokat.",
+            "ro": "Stați în Agorà of Halaesa pentru a vă imagina viața civică a așezării antice și priviți cu atenție la coloanele de fundație bine conservate.",
+            "en": "Stand in the Agorà of Halaesa to picture the bustling civic life of this ancient settlement, and look closely at the preserved foundational columns."
+          }
+        },
+        {
+          "name": {
+            "de": "Roman bridge",
+            "hu": "Roman bridge",
+            "ro": "Roman bridge",
+            "en": "Roman bridge"
+          },
+          "coords": [
+            14.26932,
+            37.991018
+          ],
+          "category": "historical",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Bewundern Sie die überraschend intakte Römerbrücke, die einst Handelswege verband, und gehen Sie für ein tolles Fotomotiv vorsichtig hinüber.",
+            "hu": "Csodálja meg a meglepően ép római hidat, amely egykor fontos kereskedelmi utakat kötött össze, és óvatosan sétáljon át rajta egy jó fotóért.",
+            "ro": "Minunați-vă de podul roman surprinzător de intact care lega odată rute comerciale și treceți cu grijă peste el pentru o fotografie excelentă.",
+            "en": "Marvel at the surprisingly intact Roman bridge that once connected crucial trade routes, and carefully walk across it for a great photo opportunity."
+          }
+        },
+        {
+          "name": {
+            "de": "Praja naturista Rocca Palumma",
+            "hu": "Praja naturista Rocca Palumma",
+            "ro": "Praja naturista Rocca Palumma",
+            "en": "Praja naturista Rocca Palumma"
+          },
+          "coords": [
+            14.244757,
+            38.01027
+          ],
+          "category": "recreational",
+          "arrive_at": "15:01",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die abgeschiedene Praja naturista Rocca Palumma für ein friedliches, fkk-freundliches Erlebnis und seien Sie bereit für den Abstieg.",
+            "hu": "Látogasson el az eldugott Praja naturista Rocca Palummára egy békés naturista strandolásért, és készüljön fel a meredek tengerparti leereszkedésre.",
+            "ro": "Vizitați retrasa Praja naturista Rocca Palumma pentru o experiență liniștită de plajă naturistă și fiți pregătit pentru o coborâre abruptă pe coastă.",
+            "en": "Visit the secluded Praja naturista Rocca Palumma for a peaceful, clothing-optional sunbathing experience, and be prepared for a steep coastal descent."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt mit einem tiefen Einblick in das lokale Erbe im Ecomuseo dei Nebrodi Occidentali. Fahren Sie dann zum archäologischen Park von Halaesa und seiner historischen Agorà. Fahren Sie am Nachmittag zur bemerkenswert gut erhaltenen Römerbrücke im üppigen Hinterland. Beenden Sie Ihren Roadtrip am versteckten Strand der Praja naturista Rocca Palumma am wunderschönen Meer.",
+        "hu": "Autós útja a helyi örökség felfedezésével kezdődik az Ecomuseo dei Nebrodi Occidentaliban. Ezután vegye az irányt a kiterjedt Halaesa régészeti park és történelmi Agórája felé a déli napsütésben. Délután vezessen a meglepően jó állapotban fennmaradt római hídhoz. Festői autózását a tengerparti, eldugott Praja naturista Rocca Palumma strandján fejezze be teljes nyugalomban.",
+        "ro": "Călătoria începe cu o incursiune în patrimoniul local la Ecomuseo dei Nebrodi Occidentali. Apoi, navigați spre vastul parc arheologic Halaesa și Agorà sa istorică, bucurându-vă de soare printre vestigiile grecești. Conduceți spre podul roman remarcabil conservat în timpul după-amiezii. Încheiați această excursie pitorească la plaja ascunsă Praja naturista Rocca Palumma de la malul mării.",
+        "en": "Your drive begins with a deep dive into local heritage at the Ecomuseo dei Nebrodi Occidentali. Next, navigate towards the expansive archaeological park of Halaesa and its historic Agorà, soaking in the midday sun among ancient Greek remnants. Drive to the remarkably preserved Roman bridge in the afternoon. End your scenic road trip at the hidden Praja naturista Rocca Palumma by the sea."
+      }
+    }
+  }
+}

@@ -1,0 +1,451 @@
+{
+  "city_id": "spain-eibar-cities-v2",
+  "anchor": {
+    "name": "Eibar",
+    "coords": [
+      -2.473275,
+      43.184284
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:14",
+      "total_km": 0.95,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Eibarko udaletxea",
+            "hu": "Eibarko udaletxea",
+            "ro": "Eibarko udaletxea",
+            "en": "Eibarko udaletxea"
+          },
+          "coords": [
+            -2.473423,
+            43.184539
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Fassade dieses historischen Rathauses im Herzen des städtischen Lebens von Eibar und beachten Sie die lokalen Bekanntmachungen am Hauptplatz.",
+            "hu": "Csodálja meg ennek a történelmi városházának a lenyűgöző homlokzatát Eibar szívében, és érdemes elolvasni a helyi hirdetményeket a főtéren.",
+            "ro": "Admirați fațada impresionantă a acestei primării istorice din centrul orașului Eibar și nu uitați să verificați avizele locale de pe piața principală plină de viață.",
+            "en": "Admire the striking facade of this historic city hall, which marks the heart of Eibar's civic life, and be sure to check the local notices on the main plaza."
+          }
+        },
+        {
+          "name": {
+            "de": "Txantxazelaiko auditorioa",
+            "hu": "Txantxazelaiko auditorioa",
+            "ro": "Txantxazelaiko auditorioa",
+            "en": "Txantxazelaiko auditorioa"
+          },
+          "coords": [
+            -2.471898,
+            43.183909
+          ],
+          "category": "cultural",
+          "arrive_at": "10:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erleben Sie den kulturellen Puls der Stadt in diesem modernen Freiluftauditorium, wo Sie oft Proben miterleben oder tagsüber auf den sonnigen Stufen entspannen können.",
+            "hu": "Élje át a város kulturális lüktetését ebben a modern szabadtéri nézőtéren, ahol napközben gyakran próbákat láthat, vagy megpihenhet a napfényes lépcsőkön.",
+            "ro": "Experimentați pulsul cultural al orașului la acest auditoriu modern în aer liber, unde adesea puteți surprinde repetiții sau vă puteți odihni pe treptele sale însorite.",
+            "en": "Experience the cultural heartbeat of the city at this modern open-air auditorium, where you can often catch rehearsals or rest on its sunlit steps during the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Iñarra jauregia (Aldatsa)",
+            "hu": "Iñarra jauregia (Aldatsa)",
+            "ro": "Iñarra jauregia (Aldatsa)",
+            "en": "Iñarra jauregia (Aldatsa)"
+          },
+          "coords": [
+            -2.470588,
+            43.186773
+          ],
+          "category": "historical",
+          "arrive_at": "11:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entdecken Sie die elegante Architektur dieses klassischen Palastes, der Eibars noble Vergangenheit zeigt, und achten Sie auf die aufwendigen Steinarbeiten über dem Portal.",
+            "hu": "Fedezze fel e klasszikus palota elegáns építészetét, amely Eibar nemesi múltját mutatja be, és figyelje meg a főbejárat feletti bonyolult kőfaragásokat.",
+            "ro": "Descoperiți arhitectura elegantă a acestui palat clasic ce ilustrează trecutul nobil al Eibarului și acordați atenție detaliilor de piatră de deasupra intrării principale.",
+            "en": "Discover the elegant architecture of this classical palace showcasing Eibar's noble past, and pay attention to the intricate stonework above its main entryway."
+          }
+        },
+        {
+          "name": {
+            "de": "Armagintzaren Museoa",
+            "hu": "Armagintzaren Museoa",
+            "ro": "Armagintzaren Museoa",
+            "en": "Armagintzaren Museoa"
+          },
+          "coords": [
+            -2.469526,
+            43.184545
+          ],
+          "category": "museum",
+          "arrive_at": "13:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Industriegeschichte der Waffenherstellung ein, die Eibar prägte, und verbringen Sie etwas mehr Zeit in der tollen Fahrradausstellung.",
+            "hu": "Merüljön el az Eibart formáló fegyvergyártás lenyűgöző ipartörténetében, és szánjon egy kis extra időt a gyönyörűen összeállított veterán kerékpáros kiállításra.",
+            "ro": "Pătrundeți în fascinanta istorie industrială a fabricării armelor ce a definit orașul Eibar și petreceți timp suplimentar la frumoasa expoziție de biciclete de epocă.",
+            "en": "Delve into the fascinating industrial history of arms manufacturing that shaped Eibar, and spend extra time in the beautifully curated vintage bicycle exhibit."
+          }
+        },
+        {
+          "name": {
+            "de": "Coliseo antzokia",
+            "hu": "Coliseo antzokia",
+            "ro": "Coliseo antzokia",
+            "en": "Coliseo antzokia"
+          },
+          "coords": [
+            -2.467489,
+            43.185984
+          ],
+          "category": "cultural",
+          "arrive_at": "14:44",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an diesem ikonischen Theater mit seinem schönen klassischen Design und holen Sie sich einen Kaffee im nahegelegenen Café am Abend.",
+            "hu": "Zárja sétáját ennél az ikonikus, gyönyörű klasszikus dizájnnal rendelkező színháznál, és igyon egy kávét a közeli kávézóban, hogy élvezze az esti hangulatot.",
+            "ro": "Încheiați plimbarea la acest teatru iconic cu un design clasic frumos și savurați o cafea la cafeneaua din apropiere pentru a vă bucura de atmosfera de seară.",
+            "en": "Conclude your walk at this iconic theater with its beautiful classic design, and try to grab a coffee at the nearby cafe to enjoy the lively evening atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einem Spaziergang durch Eibars bürgerliches Herz am Rathaus. Der Mittag bietet kulturellen Charme im Freiluftauditorium und Einblicke in das adelige Leben im Iñarra Jauregia. Der Nachmittag ist dem Waffenmuseum gewidmet, das die industrielle Seele zeigt. Der Abend klingt elegant am ikonischen Coliseo-Theater aus.",
+        "hu": "A reggel egy sétával indul Eibar polgári központjában, a történelmi városházánál. A dél kultúrát kínál a szabadtéri nézőtéren és betekintést az arisztokrata életbe az Iñarra palotában. A délutánt a fegyvermúzeumnak szenteljük, amely a város ipari lelkét mutatja be. Az estét a híres Coliseo színház ikonikus épülete koronázza meg.",
+        "ro": "Dimineața începe cu o plimbare prin inima civică a orașului Eibar la primărie. Prânzul oferă farmec cultural la auditoriul în aer liber și o privire în viața aristocratică la Iñarra Jauregia. După-amiaza este dedicată Muzeului Armelor, dezvăluind sufletul industrial. Seara se încheie elegant cu o vizită la teatrul Coliseo.",
+        "en": "Morning begins with a stroll through Eibar’s civic heart, exploring the historic town hall. Midday offers cultural charm at the outdoor auditorium and a glimpse into aristocratic life at Iñarra Jauregia. The afternoon is dedicated to the fascinating Arms Museum, revealing the town's industrial soul. Evening settles gracefully with a visit to the iconic Coliseo theater."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 2.65,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Markeskoa",
+            "hu": "Markeskoa",
+            "ro": "Markeskoa",
+            "en": "Markeskoa"
+          },
+          "coords": [
+            -2.478637,
+            43.183362
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise an diesem bemerkenswerten historischen Ort mit seiner robusten traditionellen baskischen Architektur, perfekt für ein paar authentische Fotos.",
+            "hu": "Lépjen vissza az időben ezen a figyelemre méltó történelmi helyszínen, amely robusztus hagyományos baszk építészetével tűnik ki, és tökéletes autentikus fotókhoz.",
+            "ro": "Întoarceți-vă în timp la acest remarcabil sit istoric ce se remarcă prin arhitectura sa tradițională bască robustă, locul perfect pentru a face câteva fotografii autentice.",
+            "en": "Step back in time at this remarkable historical site that stands out with its robust traditional Basque architecture, perfect for snapping a few authentic photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Eibarko udaletxea",
+            "hu": "Eibarko udaletxea",
+            "ro": "Eibarko udaletxea",
+            "en": "Eibarko udaletxea"
+          },
+          "coords": [
+            -2.473423,
+            43.184539
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Fassade dieses historischen Rathauses im Herzen des städtischen Lebens von Eibar und beachten Sie die lokalen Bekanntmachungen am Hauptplatz.",
+            "hu": "Csodálja meg ennek a történelmi városházának a lenyűgöző homlokzatát Eibar szívében, és érdemes elolvasni a helyi hirdetményeket a főtéren.",
+            "ro": "Admirați fațada impresionantă a acestei primării istorice din centrul orașului Eibar și nu uitați să verificați avizele locale de pe piața principală plină de viață.",
+            "en": "Admire the striking facade of this historic city hall, which marks the heart of Eibar's civic life, and be sure to check the local notices on the main plaza."
+          }
+        },
+        {
+          "name": {
+            "de": "Eibarko gaztetxea",
+            "hu": "Eibarko gaztetxea",
+            "ro": "Eibarko gaztetxea",
+            "en": "Eibarko gaztetxea"
+          },
+          "coords": [
+            -2.461592,
+            43.187134
+          ],
+          "category": "cultural",
+          "arrive_at": "11:58",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Spüren Sie die lebhafte Energie der lokalen Jugendkultur in diesem dynamischen Zentrum, wo bunte Wandmalereien und spannende Gemeinschaftsveranstaltungen locken.",
+            "hu": "Érezze a helyi ifjúsági kultúra vibráló energiáját ebben a dinamikus központban, ahol színes falfestmények és vonzó közösségi események várják a látogatókat.",
+            "ro": "Simțiți energia vibrantă a culturii tineretului local la acest centru cultural dinamic, unde muralele colorate și evenimentele comunitare captivante sunt la ordinea zilei.",
+            "en": "Feel the vibrant energy of the local youth culture at this dynamic cultural center, where colorful murals and engaging community events are always on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Untzueta jauregia",
+            "hu": "Untzueta jauregia",
+            "ro": "Untzueta jauregia",
+            "en": "Untzueta jauregia"
+          },
+          "coords": [
+            -2.452153,
+            43.190595
+          ],
+          "category": "historical",
+          "arrive_at": "13:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Bewundern Sie den beeindruckenden aristokratischen Grundriss dieses großen Palastes am Fluss und gehen Sie nach hinten, um die gut erhaltenen strukturellen Details zu sehen.",
+            "hu": "Csodálja meg e folyóparti nagyszerű palota lenyűgöző arisztokratikus elrendezését, és sétáljon körbe a hátuljához, hogy lássa a szépen megőrzött szerkezeti részleteket.",
+            "ro": "Minunați-vă de aspectul aristocratic impresionant al acestui mare palat de lângă râu și faceți o plimbare în spate pentru a vedea detaliile structurale frumos conservate.",
+            "en": "Marvel at the impressive aristocratic layout of this grand palace near the river, and walk around to the back to see the beautifully preserved structural details."
+          }
+        },
+        {
+          "name": {
+            "de": "Azitaingo Andra Mariaren Jasokundea",
+            "hu": "Azitaingo Andra Mariaren Jasokundea",
+            "ro": "Azitaingo Andra Mariaren Jasokundea",
+            "en": "Azitaingo Andra Mariaren Jasokundea"
+          },
+          "coords": [
+            -2.451253,
+            43.18957
+          ],
+          "category": "religious",
+          "arrive_at": "14:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Moment der Ruhe in diesem hübschen religiösen Heiligtum mit seinem markanten Holzaltar und nehmen Sie sich Zeit für die friedliche und ruhige Atmosphäre.",
+            "hu": "Élvezze a béke pillanatát ebben a kedves vallási szentélyben, különleges fa oltárképével, és szánjon időt a békés és csendes atmoszféra értékelésére.",
+            "ro": "Bucurați-vă de un moment de pace în acest sanctuar religios fermecător cu altarul său distinct din lemn, făcându-vă timp pentru a aprecia atmosfera senină și liniștită.",
+            "en": "Enjoy a moment of peace inside this lovely religious sanctuary with its distinct wooden altarpiece, taking time to appreciate the serene and quiet atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Zubi zaharra",
+            "hu": "Zubi zaharra",
+            "ro": "Zubi zaharra",
+            "en": "Zubi zaharra"
+          },
+          "coords": [
+            -2.450592,
+            43.190596
+          ],
+          "category": "historical",
+          "arrive_at": "15:05",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese historische alte Brücke, die einen malerischen Blick auf die Flussufer bietet, und halten Sie Ausschau nach den lokalen Wasservögeln darunter.",
+            "hu": "Keljen át ezen a történelmi öreg hídon, amely festői kilátást nyújt a folyópartokra, és feltétlenül figyelje meg az alatta gyakran összegyűlő helyi vízimadarakat.",
+            "ro": "Traversați acest vechi pod istoric ce oferă o vedere pitorească asupra malurilor râului și aveți grijă să observați păsările de apă care se adună adesea sub el.",
+            "en": "Cross this historic old bridge that offers a picturesque view of the riverbanks, and be sure to watch out for the local waterfowl that often gather underneath it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen startet am historischen Markeskoa, bevor Sie zum Rathaus radeln. Mittags erleben Sie die lokale Energie im lebhaften Jugendzentrum. Am Nachmittag entdecken Sie das elegante Untzueta Jauregia und finden Ruhe in Azitains Heiligtum. Der Abend endet auf der alten malerischen Brücke beim Sonnenuntergang über dem Fluss.",
+        "hu": "A reggel a történelmi Markeskoánál kezdődik, mielőtt a városházához kerékpározna. Délben a pezsgő ifjúsági központba látogat, megtapasztalva a helyi energiákat. Délután fedezze fel az elegáns Untzueta palotát és találjon békét az azitaini szentélyben. Az estét a festői öreg hídon átkelve zárhatja a folyó feletti naplementében.",
+        "ro": "Dimineața începe la istoricul Markeskoa înainte de a pedala spre primărie. Prânzul vă poartă prin centrul vibrant al tineretului, simțind energia locală. După-amiaza, descoperiți elegantul Untzueta Jauregia și găsiți liniște la sanctuarul Azitain. Seara se încheie traversând vechiul pod pitoresc la apus.",
+        "en": "Morning kicks off at the historic Markeskoa before cycling to the grand town hall. Midday takes you through the vibrant youth center, embracing local energy. In the afternoon, discover the elegant Untzueta Jauregia and find peace at Azitain's sanctuary. The evening wraps up by crossing the picturesque old bridge as the sun sets over the river."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:06",
+      "total_km": 9.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Lobiano Jauregia",
+            "hu": "Lobiano Jauregia",
+            "ro": "Lobiano Jauregia",
+            "en": "Lobiano Jauregia"
+          },
+          "coords": [
+            -2.501425,
+            43.18646
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die majestätischen Ruinen dieser alten befestigten Struktur, die leicht erhöht liegt, und tragen Sie feste Schuhe für die unebenen historischen Steinwege.",
+            "hu": "Fedezze fel ennek a kissé magaslaton fekvő régi erődítménynek a fenséges romjait, és viseljen masszív cipőt, hogy könnyedén eligazodjon az egyenetlen történelmi kőösvényeken.",
+            "ro": "Explorați ruinele maiestuoase ale acestei vechi structuri fortificate așezate la o ușoară înălțime și purtați încălțăminte robustă pentru a naviga ușor pe cărările de piatră.",
+            "en": "Explore the majestic ruins of this old fortified structure perched slightly elevated, and wear sturdy shoes to easily navigate the uneven historic stone pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Urko",
+            "hu": "Urko",
+            "ro": "Urko",
+            "en": "Urko"
+          },
+          "coords": [
+            -2.486969,
+            43.20144
+          ],
+          "category": "natural",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Wandern Sie hinauf zu diesem atemberaubenden natürlichen Aussichtspunkt für einen Panoramablick auf das Eibar-Tal, und denken Sie daran, viel Wasser mitzunehmen.",
+            "hu": "Túrázzon fel ehhez a lenyűgöző természetes kilátóponthoz, hogy megjutalmazza magát az egész Eibar-völgy panorámájával, de ne felejtsen el sok vizet vinni az útra.",
+            "ro": "Urcați până la acest punct de belvedere natural uimitor pentru a vă recompensa cu priveliști panoramice ale văii Eibar, amintindu-vă să aduceți multă apă pe traseu.",
+            "en": "Hike up to this stunning natural viewpoint to reward yourself with panoramic sights of the entire Eibar valley, remembering to bring plenty of water for the trail."
+          }
+        },
+        {
+          "name": {
+            "de": "Markeskoa",
+            "hu": "Markeskoa",
+            "ro": "Markeskoa",
+            "en": "Markeskoa"
+          },
+          "coords": [
+            -2.478637,
+            43.183362
+          ],
+          "category": "historical",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise an diesem bemerkenswerten historischen Ort mit seiner robusten traditionellen baskischen Architektur, perfekt für ein paar authentische Fotos.",
+            "hu": "Lépjen vissza az időben ezen a figyelemre méltó történelmi helyszínen, amely robusztus hagyományos baszk építészetével tűnik ki, és tökéletes autentikus fotókhoz.",
+            "ro": "Întoarceți-vă în timp la acest remarcabil sit istoric ce se remarcă prin arhitectura sa tradițională bască robustă, locul perfect pentru a face câteva fotografii autentice.",
+            "en": "Step back in time at this remarkable historical site that stands out with its robust traditional Basque architecture, perfect for snapping a few authentic photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Armagintzaren Museoa",
+            "hu": "Armagintzaren Museoa",
+            "ro": "Armagintzaren Museoa",
+            "en": "Armagintzaren Museoa"
+          },
+          "coords": [
+            -2.469526,
+            43.184545
+          ],
+          "category": "museum",
+          "arrive_at": "13:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Industriegeschichte der Waffenherstellung ein, die Eibar prägte, und verbringen Sie etwas mehr Zeit in der tollen Fahrradausstellung.",
+            "hu": "Merüljön el az Eibart formáló fegyvergyártás lenyűgöző ipartörténetében, és szánjon egy kis extra időt a gyönyörűen összeállított veterán kerékpáros kiállításra.",
+            "ro": "Pătrundeți în fascinanta istorie industrială a fabricării armelor ce a definit orașul Eibar și petreceți timp suplimentar la frumoasa expoziție de biciclete de epocă.",
+            "en": "Delve into the fascinating industrial history of arms manufacturing that shaped Eibar, and spend extra time in the beautifully curated vintage bicycle exhibit."
+          }
+        },
+        {
+          "name": {
+            "de": "Topinburu",
+            "hu": "Topinburu",
+            "ro": "Topinburu",
+            "en": "Topinburu"
+          },
+          "coords": [
+            -2.451206,
+            43.169028
+          ],
+          "category": "natural",
+          "arrive_at": "15:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Atmen Sie die frische Luft in dieser friedlichen Grünanlage mit Blick auf die Stadt ein, die sehr empfehlenswert für ein ruhiges Mittagspicknick in üppiger Natur ist.",
+            "hu": "Lélegezze be a friss levegőt ezen a várost néző békés zöld területen, amely kifejezetten ajánlott egy csendes déli piknikhez, dús baszk természettel körülvéve.",
+            "ro": "Respirați aerul proaspăt în această zonă verde pașnică cu vedere spre oraș, foarte recomandată pentru un picnic liniștit de prânz înconjurat de natura bască luxuriantă.",
+            "en": "Breathe in the fresh air at this peaceful green area overlooking the town, which is highly recommended for a quiet midday picnic surrounded by lush Basque nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Galdaramuño",
+            "hu": "Galdaramuño",
+            "ro": "Galdaramuño",
+            "en": "Galdaramuño"
+          },
+          "coords": [
+            -2.473166,
+            43.166151
+          ],
+          "category": "natural",
+          "arrive_at": "16:21",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ungezähmte Schönheit dieses malerischen Bergortes, der fantastische Sonnenuntergänge bietet, und bringen Sie eine leichte Jacke für den kühlen Wind mit.",
+            "hu": "Fedezze fel e festői hegyvidéki hely vad szépségét, amely fantasztikus naplemente-kilátást nyújt, de mindenképpen vigyen magával egy könnyű dzsekit a hűvös szél miatt.",
+            "ro": "Descoperiți frumusețea sălbatică a acestei locații montane pitorești ce oferă priveliști fantastice la apus, asigurându-vă că aduceți o jachetă ușoară pentru vânt.",
+            "en": "Discover the untamed beauty of this scenic mountainous location offering fantastic sunset views, making sure to bring a light jacket as it gets breezy up here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einer Fahrt zu den Ruinen von Lobiano Jauregia, gefolgt von der Fahrt zum Urko. Mittags bewundern Sie das historische Markeskoa. Nachmittags tauchen Sie im Waffenmuseum in die Geschichte ein. Der Abend lädt zu Bergfahrten nach Topinburu und Galdaramuño ein, die atemberaubende Sonnenuntergangspanoramen bieten.",
+        "hu": "A reggel egy autózással indul a fenséges Lobiano Jauregia romjaihoz, majd egy frissítő út vár Urkohoz. Délben leereszkedünk a történelmi Markeskoához. Délután merüljön el a történelemben a fegyvermúzeumban. Az este festői hegyi utakat tartogat Topinburu és Galdaramuño felé, ahonnan lélegzetelállító a naplemente.",
+        "ro": "Dimineața începe cu o plimbare spre ruinele maiestuoase Lobiano Jauregia, urmată de o urcare spre Urko. La prânz admirați istoricul Markeskoa. După-amiaza, cufundați-vă în istorie la Muzeul Armelor. Seara necesită trasee montane pitorești spre Topinburu și Galdaramuño, oferind panorame superbe la apus.",
+        "en": "Morning begins with a drive to the majestic Lobiano Jauregia ruins, followed by an energizing ascent to Urko. Midday brings you back down to admire the historic Markeskoa. In the afternoon, immerse yourself in history at the Arms Museum. The evening calls for scenic mountain drives to Topinburu and Galdaramuño, offering breathtaking sunset panoramas."
+      }
+    }
+  }
+}

@@ -1,0 +1,451 @@
+{
+  "city_id": "france-ile-de-noirmoutier-cities-v2",
+  "anchor": {
+    "name": "Île de Noirmoutier",
+    "coords": [
+      -2.25828,
+      46.99226
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:36",
+      "total_km": 1.45,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Château-Musée de Noirmoutier",
+            "hu": "Noirmoutier kastélymúzeum",
+            "ro": "Castelul-Muzeu din Noirmoutier",
+            "en": "Noirmoutier Castle Museum"
+          },
+          "coords": [
+            -2.242127,
+            47.000465
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese bemerkenswert erhaltene Burg aus dem 12. Jahrhundert, um die mittelalterliche Geschichte der Insel kennenzulernen, und besteigen Sie den Bergfried für ein tolles Panorama.",
+            "hu": "Fedezze fel ezt a figyelemre méltóan megőrzött 12. századi kastélyt a sziget középkori történelméért, és feltétlenül másszon fel az öregtoronyba a lenyűgöző panorámáért.",
+            "ro": "Explorați acest castel din secolul al XII-lea uimitor de bine conservat pentru a descoperi istoria medievală, asigurându-vă că urcați în donjon pentru o panoramă excepțională.",
+            "en": "Explore this remarkably preserved 12th-century castle to uncover the island's medieval history, and be sure to climb the keep for panoramic views of the entire region."
+          }
+        },
+        {
+          "name": {
+            "de": "Centre des patrimoines maritimes",
+            "hu": "Tengerészeti Örökség Központ",
+            "ro": "Centrul Patrimoniului Maritim",
+            "en": "Maritime Heritage Center"
+          },
+          "coords": [
+            -2.243459,
+            46.999559
+          ],
+          "category": "museum",
+          "arrive_at": "10:52",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch faszinierende Ausstellungen über den traditionellen Schiffbau in das maritime Erbe ein und nutzen Sie die informativen Führungen, die oft am späten Vormittag stattfinden.",
+            "hu": "Merüljön el a sziget gazdag tengerészeti örökségében a hagyományos hajóépítést bemutató izgalmas kiállításokon, és csatlakozzon egy délelőtti vezetett túrához az extra élményért.",
+            "ro": "Pătrundeți în bogata moștenire maritimă a insulei prin expoziții fascinante despre construcția tradițională de nave, ținând cont că tururile ghidate au loc adesea dimineața.",
+            "en": "Dive into the rich maritime heritage of the island through fascinating exhibits on traditional shipbuilding, while noting that guided tours often run during the late morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Centre Culturel Les Salorges",
+            "hu": "Les Salorges Kulturális Központ",
+            "ro": "Centrul Cultural Les Salorges",
+            "en": "Les Salorges Cultural Center"
+          },
+          "coords": [
+            -2.245005,
+            46.999515
+          ],
+          "category": "cultural",
+          "arrive_at": "11:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie zeitgenössische Kunst und lokale Ausstellungen in diesen historischen, wunderschön umgebauten Salzlagern, die Sie am besten kurz vor der Mittagspause besuchen.",
+            "hu": "Csodálja meg a kortárs művészeti és helyi kulturális kiállításokat ezekben a történelmi, gyönyörűen átalakított sóraktárakban, amelyeket érdemes közvetlenül ebédidő előtt meglátogatni.",
+            "ro": "Admirați arta contemporană și expozițiile locale în aceste foste depozite istorice de sare frumos transformate, cel mai bine vizitate chiar înainte de prânz pentru a evita aglomerația.",
+            "en": "Admire contemporary art and local cultural exhibitions within these historic, beautifully converted salt warehouses, best visited just before lunchtime to avoid the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "La Fabrik",
+            "hu": "La Fabrik Művészeti Tér",
+            "ro": "La Fabrik",
+            "en": "La Fabrik"
+          },
+          "coords": [
+            -2.24668,
+            47.000952
+          ],
+          "category": "museum",
+          "arrive_at": "12:37",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie skurrile, einfallsreiche lokale Kunsthandwerke in diesem einzigartigen kreativen Raum und erwägen Sie, ein handgemachtes Souvenir direkt von den Künstlern zu kaufen.",
+            "hu": "Fedezze fel a mókás, ötletes helyi kézműves termékeket és művészeti installációkat ebben az egyedi kreatív térben, és vásároljon egyedi, kézzel készített ajándékot a művészektől.",
+            "ro": "Descoperiți meșteșuguri locale și instalații de artă pline de inventivitate în acest spațiu creativ unic și nu ezitați să cumpărați un suvenir realizat manual direct de la artizani.",
+            "en": "Discover quirky, inventive local crafts and art installations in this unique creative space, and consider purchasing a handmade souvenir directly from the resident artisans."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Aquatique Océan'Ile",
+            "hu": "Océan'Ile Vízipark",
+            "ro": "Parcul Acvatic Océan'Ile",
+            "en": "Océan'Ile Water Park"
+          },
+          "coords": [
+            -2.248591,
+            46.992494
+          ],
+          "category": "recreational",
+          "arrive_at": "13:51",
+          "stay_min": 105,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit familiärem Spaß in diesem lebhaften Wasserpark und bringen Sie Ihre eigenen Handtücher mit, während Sie die Wellenbäder und aufregenden Rutschen genießen.",
+            "hu": "Zárja a gyalogos túrát családi szórakozással ebben a nyüzsgő vízi parkban, és hozzon magával saját törölközőt, miközben élvezi a hullámmedencéket és az izgalmas csúszdákat.",
+            "ro": "Încheiați-vă plimbarea cu o distracție în familie la acest parc acvatic plin de viață, aducându-vă propriile prosoape pentru a economisi în timp ce vă bucurați de piscine și tobogane.",
+            "en": "End your walking tour with family-friendly fun at this lively water park, packing your own towels to save money while enjoying the wave pools and thrilling water slides."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im Herzen der Insel und erkunden Sie das majestätische Schloss von Noirmoutier. Die mittelalterlichen Mauern erzählen spannende Geschichten. Danach tauchen wir im maritimen Zentrum in die Seefahrtstradition ein.\nZur Mittagszeit erwarten Sie im Centre Culturel Les Salorges faszinierende Kunstwerke. Diese historischen Salzspeicher bieten eine einmalige Atmosphäre.\nAm Nachmittag spazieren wir zur La Fabrik, wo lokale Künstler ihre kreativen Werke präsentieren. Die inspirierende Umgebung lädt zum Verweilen ein.\nDer Tag endet entspannt im Parc Aquatique Océan'Ile. Hier können Sie die gewonnenen Eindrücke Revue passieren lassen und das kühle Nass in vollen Zügen genießen.",
+        "hu": "Kezdje a reggelt a sziget szívében, felfedezve a fenséges Noirmoutier kastélyt, amelynek középkori falai izgalmas történeteket rejtenek. Ezután merüljön el a tengerészeti központ kiállításaiban.\nDélben a Centre Culturel Les Salorges kortárs művészeti alkotásai várják. Ezek a történelmi sóraktárak egyedülálló kulturális élményt nyújtanak.\nDélután sétáljon át a La Fabrik kreatív terébe, ahol a helyi művészek egyedi kézműves munkáit csodálhatja meg, és ihletet meríthet a különleges hangulatból.\nA nap egy frissítő élménnyel zárul a Parc Aquatique Océan'Ile vízi parkjában, ahol a család minden tagja kikapcsolódhat a mozgalmas gyalogos túra után.",
+        "ro": "Începeți dimineața în inima insulei explorând maiestuosul Castel Noirmoutier, ale cărui ziduri medievale ascund povești captivante. Apoi, descoperiți tradițiile locale la centrul maritim.\nLa prânz, expozițiile de artă contemporană de la Centre Culturel Les Salorges vă așteaptă. Aceste foste depozite de sare oferă acum o atmosferă culturală unică.\nDupă-amiaza, plimbați-vă până la La Fabrik, un spațiu creativ unde artizanii locali își expun capodoperele. Mediul inspirat vă invită la contemplare.\nZiua se încheie cu o notă relaxantă la Parc Aquatique Océan'Ile. Aici, vă puteți bucura de distracție în apă, lăsând în urmă agitația plimbării urbane.",
+        "en": "Start your morning in the island's heart, exploring the majestic Noirmoutier Castle where medieval walls reveal fascinating tales. Afterward, dive into maritime traditions nearby.\nAt midday, contemporary art awaits at the Centre Culturel Les Salorges. These beautifully restored historic salt warehouses offer a truly unique cultural atmosphere.\nIn the afternoon, stroll over to La Fabrik, a creative hub where local artisans showcase their inventive crafts. The inspiring environment is perfect for discovering unique treasures.\nThe day concludes with family fun at the Parc Aquatique Océan'Ile. Enjoy the refreshing water activities as you unwind from a full day of walking through the island's history."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:42",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "L'île aux papillons",
+            "hu": "Pillangók szigete",
+            "ro": "Insula fluturilor",
+            "en": "Butterfly Island"
+          },
+          "coords": [
+            -2.244173,
+            46.97154
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch das größte Schmetterlingshaus Frankreichs, um Tausende bunte Arten frei fliegen zu sehen, und tragen Sie leichte Kleidung, da das tropische Klima recht feucht ist.",
+            "hu": "Sétáljon végig Franciaország legnagyobb pillangóházán, ahol több ezer színes faj repdes szabadon, és viseljen könnyű ruházatot, mivel a trópusi klíma meglehetősen párás.",
+            "ro": "Plimbați-vă prin cea mai mare seră de fluturi din Franța pentru a vedea mii de specii colorate, purtând haine lejere, deoarece climatul tropical este destul de umed și cald.",
+            "en": "Wander through the largest butterfly greenhouse in France to see thousands of colorful species flying freely, ensuring you wear light clothing as the tropical climate is quite humid."
+          }
+        },
+        {
+          "name": {
+            "de": "Village miniature",
+            "hu": "Miniatűr falu",
+            "ro": "Satul miniatură",
+            "en": "Miniature Village"
+          },
+          "coords": [
+            -2.25904,
+            46.984446
+          ],
+          "category": "landmark",
+          "arrive_at": "10:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die detailgetreuen Miniaturnachbildungen traditioneller Dörfer der Vendée, ein reizvoller Halt, bei dem das Mitbringen einer Kamera mit Makroobjektiv sehr zu empfehlen ist.",
+            "hu": "Csodálja meg a hagyományos vendée-i falvak aprólékosan kidolgozott miniatűr másolatait, egy elragadó megállóhely, ahová erősen ajánlott makróobjektíves fényképezőgépet hozni.",
+            "ro": "Admirați miniaturile meticulos realizate ale satelor tradiționale din Vendée, o oprire încântătoare unde vă recomandăm să aduceți un aparat foto cu un obiectiv macro bun.",
+            "en": "Marvel at the meticulously crafted miniature recreations of traditional Vendée villages, a delightful stop where bringing a camera with a good macro lens is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Jean-Baptiste",
+            "hu": "Keresztelő Szent János-templom",
+            "ro": "Biserica Saint-Jean-Baptiste",
+            "en": "Saint-Jean-Baptiste Church"
+          },
+          "coords": [
+            -2.268796,
+            46.979786
+          ],
+          "category": "religious",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Treten Sie in diese wunderschöne historische Kirche ein, um die friedliche Atmosphäre und die Buntglasfenster zu bewundern, und denken Sie daran, sich drinnen leise zu verhalten.",
+            "hu": "Lépjen be ebbe a gyönyörű történelmi templomba, hogy megcsodálja a békés légkört és a lenyűgöző ólomüveg ablakokat, ügyelve a csendre a csendes imádságok idején.",
+            "ro": "Pășiți în această frumoasă biserică istorică pentru a-i admira atmosfera pașnică și vitraliile uimitoare, amintindu-vă să păstrați liniștea în momentele de rugăciune privată.",
+            "en": "Step inside this beautiful historic church to admire its peaceful atmosphere and stunning stained glass windows, remembering to keep your voice down during moments of private prayer."
+          }
+        },
+        {
+          "name": {
+            "de": "Le sel de Ronan",
+            "hu": "Ronan sólepárlója",
+            "ro": "Sarea lui Ronan",
+            "en": "Ronan's Salt"
+          },
+          "coords": [
+            -2.265902,
+            46.983193
+          ],
+          "category": "landmark",
+          "arrive_at": "11:53",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Erfahren Sie direkt vom leidenschaftlichen lokalen Erzeuger mehr über die traditionelle Meersalzgewinnung und kaufen Sie unbedingt eine Tüte des berühmten 'Fleur de Sel'.",
+            "hu": "Ismerje meg a sziget hagyományos tengeri só betakarítását közvetlenül a szenvedélyes helyi termelőtől, és feltétlenül vegyen egy zacskó híres 'fleur de sel'-t hazavitelre.",
+            "ro": "Aflați despre recoltarea tradițională a sării de mare direct de la producătorul local pasionat și asigurați-vă că achiziționați o pungă de 'fleur de sel' ca suvenir autentic.",
+            "en": "Learn about the island's traditional sea salt harvesting directly from the passionate local producer, and make sure to buy a bag of the famous 'fleur de sel' to take home."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin de la Bosse",
+            "hu": "La Bosse szélmalom",
+            "ro": "Moara din Bosse",
+            "en": "Bosse Windmill"
+          },
+          "coords": [
+            -2.282477,
+            46.982349
+          ],
+          "category": "landmark",
+          "arrive_at": "12:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Fotografieren Sie diese gut erhaltene Windmühle, die von der landwirtschaftlichen Vergangenheit der Insel zeugt und über die malerischen Küstenradwege leicht zu erreichen ist.",
+            "hu": "Fényképezze le ezt az ikonikus, jól megőrzött szélmalmot, amely a sziget mezőgazdasági múltjának bizonyítéka, és amely könnyen megközelíthető a festői tengerparti kerékpárutakon.",
+            "ro": "Fotografiați această moară de vânt emblematică și bine conservată, o mărturie a trecutului agricol al insulei, ușor accesibilă prin traseele pitorești de ciclism de coastă.",
+            "en": "Photograph this iconic, well-preserved windmill that stands as a testament to the island's agricultural past, easily accessible via the scenic coastal cycling trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Bosse",
+            "hu": "La Bosse strand",
+            "ro": "Plaja Bosse",
+            "en": "Bosse Beach"
+          },
+          "coords": [
+            -2.281239,
+            46.979366
+          ],
+          "category": "recreational",
+          "arrive_at": "13:12",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem unberührten Sandstrand, der bei den Einheimischen beliebt ist, und bringen Sie eigene Snacks mit, da die Restaurants in der Nebensaison begrenzt sind.",
+            "hu": "Pihenjen ezen a helyiek által kedvelt, érintetlen homokos strandon, ahová érdemes saját harapnivalót hozni, mivel az étkezési lehetőségek a főszezonon kívül korlátozottak lehetnek.",
+            "ro": "Relaxați-vă pe această plajă de nisip virgină, preferată de localnici, fiind ideal să vă aduceți propriile gustări deoarece opțiunile de luat masa sunt limitate în extrasezon.",
+            "en": "Relax on this pristine stretch of sandy beach favored by locals, where bringing your own snacks is ideal since nearby dining options can be limited during the off-season."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt farbenfroh im L'île aux papillons, wo Sie inmitten exotischer Pflanzen unzählige Schmetterlinge beobachten können. Ein wahrhaft magischer Start in den Morgen.\nGegen Mittag radeln wir zum Village miniature, um die liebevollen Nachbildungen der Region zu bestaunen. Gleich danach lädt die friedliche Kirche Saint-Jean-Baptiste zur Besinnung ein.\nAm Nachmittag führt uns die Route zu den traditionellen Salzgärten bei Le sel de Ronan. Die authentische Meersalzgewinnung ist tief in der Geschichte der Insel verwurzelt.\nZum Abschluss erreichen wir die historische Mühle und entspannen am Plage de la Bosse. Die sanfte Meeresbrise und der feine Sand runden die Fahrradtour perfekt ab.",
+        "hu": "A nap színesen indul a L'île aux papillons trópusi lepkeházában, ahol egzotikus növények között repkedő ezernyi pillangó varázsolja el a látogatókat egy csodás reggelen.\nDélben a Village miniature felé kerekezünk, hogy megcsodáljuk a régió aprólékos makettjeit, majd a Saint-Jean-Baptiste templom békés falai között tartunk egy rövid pihenőt.\nDélután a festői sólepárlókhoz vezet utunk. A Le sel de Ronan bemutatja a sziget híres sótermelési hagyományait, ahol közvetlenül a termelőtől tanulhatunk.\nA túra a történelmi szélmalom megtekintésével és a Plage de la Bosse homokos partján ér véget. A tengeri szellő és a hullámok hangja tökéletes lezárást nyújt.",
+        "ro": "Ziua începe plină de culoare la L'île aux papillons, unde mii de fluturi zboară printre plante exotice. Este un start cu adevărat magic și liniștitor pentru o dimineață senină.\nSpre prânz, pedalăm către Village miniature pentru a admira machetele detaliate ale satelor din regiune, urmat de un scurt moment de reculegere la biserica Saint-Jean-Baptiste.\nDupă-amiaza, traseul ne duce la bazinele tradiționale de sare de la Le sel de Ronan. Veți învăța despre recoltarea manuală a sării, o tradiție esențială a insulei.\nLa final, admirăm moara istorică și ne relaxăm pe nisipul fin de la Plage de la Bosse. Briza oceanului și sunetul valurilor completează perfect această aventură pe două roți.",
+        "en": "Your day begins vibrantly at L'île aux papillons, wandering through a tropical greenhouse filled with thousands of colorful butterflies. It's a magical way to start the morning.\nAround midday, cycle towards the Village miniature to marvel at detailed regional replicas. Shortly after, the peaceful Saint-Jean-Baptiste Church offers a quiet moment of reflection.\nIn the afternoon, follow the scenic path to the traditional salt pans at Le sel de Ronan. Learn directly from the producer about the island's famous sea salt harvesting.\nYour ride finishes by passing the historic windmill before relaxing at Plage de la Bosse. The gentle sea breeze and sandy shores provide a perfect end to the cycling tour."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:46",
+      "total_km": 9.05,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Batterie Gneisenau",
+            "hu": "Gneisenau üteg",
+            "ro": "Bateria Gneisenau",
+            "en": "Gneisenau Battery"
+          },
+          "coords": [
+            -2.272346,
+            47.012205
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese in die Landschaft eingebetteten Weltkriegsbunker, eine nachdenklich stimmende historische Stätte, für die festes Schuhwerk wegen des unebenen Bodens empfohlen wird.",
+            "hu": "Fedezze fel ezeket a kísérteties, második világháborús bunkereket a tájban, egy elgondolkodtató történelmi helyszínt, ahol stabil lábbeli ajánlott az egyenetlen terep miatt.",
+            "ro": "Explorați aceste buncăre ascunse din al Doilea Război Mondial, un sit istoric impresionant unde este recomandată o încălțăminte robustă pentru a naviga în siguranță pe terenul accidentat.",
+            "en": "Explore these haunting World War II bunkers tucked away in the landscape, a sobering historical site where sturdy footwear is recommended for safely navigating the uneven ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Château-Musée de Noirmoutier",
+            "hu": "Noirmoutier kastélymúzeum",
+            "ro": "Castelul-Muzeu din Noirmoutier",
+            "en": "Noirmoutier Castle Museum"
+          },
+          "coords": [
+            -2.242127,
+            47.000465
+          ],
+          "category": "museum",
+          "arrive_at": "09:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese bemerkenswert erhaltene Burg aus dem 12. Jahrhundert, um die mittelalterliche Geschichte der Insel kennenzulernen, und besteigen Sie den Bergfried für ein tolles Panorama.",
+            "hu": "Fedezze fel ezt a figyelemre méltóan megőrzött 12. századi kastélyt a sziget középkori történelméért, és feltétlenül másszon fel az öregtoronyba a lenyűgöző panorámáért.",
+            "ro": "Explorați acest castel din secolul al XII-lea uimitor de bine conservat pentru a descoperi istoria medievală, asigurându-vă că urcați în donjon pentru o panoramă excepțională.",
+            "en": "Explore this remarkably preserved 12th-century castle to uncover the island's medieval history, and be sure to climb the keep for panoramic views of the entire region."
+          }
+        },
+        {
+          "name": {
+            "de": "Le sel de Ronan",
+            "hu": "Ronan sólepárlója",
+            "ro": "Sarea lui Ronan",
+            "en": "Ronan's Salt"
+          },
+          "coords": [
+            -2.265902,
+            46.983193
+          ],
+          "category": "landmark",
+          "arrive_at": "11:42",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Erfahren Sie direkt vom leidenschaftlichen lokalen Erzeuger mehr über die traditionelle Meersalzgewinnung und kaufen Sie unbedingt eine Tüte des berühmten 'Fleur de Sel'.",
+            "hu": "Ismerje meg a sziget hagyományos tengeri só betakarítását közvetlenül a szenvedélyes helyi termelőtől, és feltétlenül vegyen egy zacskó híres 'fleur de sel'-t hazavitelre.",
+            "ro": "Aflați despre recoltarea tradițională a sării de mare direct de la producătorul local pasionat și asigurați-vă că achiziționați o pungă de 'fleur de sel' ca suvenir autentic.",
+            "en": "Learn about the island's traditional sea salt harvesting directly from the passionate local producer, and make sure to buy a bag of the famous 'fleur de sel' to take home."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Jean-Baptiste",
+            "hu": "Keresztelő Szent János-templom",
+            "ro": "Biserica Saint-Jean-Baptiste",
+            "en": "Saint-Jean-Baptiste Church"
+          },
+          "coords": [
+            -2.268796,
+            46.979786
+          ],
+          "category": "religious",
+          "arrive_at": "12:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Treten Sie in diese wunderschöne historische Kirche ein, um die friedliche Atmosphäre und die Buntglasfenster zu bewundern, und denken Sie daran, sich drinnen leise zu verhalten.",
+            "hu": "Lépjen be ebbe a gyönyörű történelmi templomba, hogy megcsodálja a békés légkört és a lenyűgöző ólomüveg ablakokat, ügyelve a csendre a csendes imádságok idején.",
+            "ro": "Pășiți în această frumoasă biserică istorică pentru a-i admira atmosfera pașnică și vitraliile uimitoare, amintindu-vă să păstrați liniștea în momentele de rugăciune privată.",
+            "en": "Step inside this beautiful historic church to admire its peaceful atmosphere and stunning stained glass windows, remembering to keep your voice down during moments of private prayer."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Martinière",
+            "hu": "Martinière strand",
+            "ro": "Plaja Martinière",
+            "en": "Martinière Beach"
+          },
+          "coords": [
+            -2.277629,
+            46.975491
+          ],
+          "category": "recreational",
+          "arrive_at": "13:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie einen friedlichen Spaziergang entlang dieses ruhigen Strandes mit Blick auf den Ozean, der perfekte Ort, um einen spektakulären Sonnenuntergang zu erleben.",
+            "hu": "Élvezze a békés sétát ezen a csendes, kagylókkal borított, nyílt óceánra néző strandon, amely a tökéletes hely egy látványos naplemente megtekintéséhez, mielőtt visszatérne a központba.",
+            "ro": "Bucurați-vă de o plimbare liniștită de-a lungul acestei plaje presărate cu scoici, locul perfect pentru a surprinde un apus de soare spectaculos înainte de a vă întoarce în oraș.",
+            "en": "Enjoy a peaceful stroll along this quiet, shell-strewn beach facing the open ocean, the perfect spot to catch a spectacular sunset before heading back to the town center."
+          }
+        },
+        {
+          "name": {
+            "de": "L'île aux papillons",
+            "hu": "Pillangók szigete",
+            "ro": "Insula fluturilor",
+            "en": "Butterfly Island"
+          },
+          "coords": [
+            -2.244173,
+            46.97154
+          ],
+          "category": "recreational",
+          "arrive_at": "14:16",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch das größte Schmetterlingshaus Frankreichs, um Tausende bunte Arten frei fliegen zu sehen, und tragen Sie leichte Kleidung, da das tropische Klima recht feucht ist.",
+            "hu": "Sétáljon végig Franciaország legnagyobb pillangóházán, ahol több ezer színes faj repdes szabadon, és viseljen könnyű ruházatot, mivel a trópusi klíma meglehetősen párás.",
+            "ro": "Plimbați-vă prin cea mai mare seră de fluturi din Franța pentru a vedea mii de specii colorate, purtând haine lejere, deoarece climatul tropical este destul de umed și cald.",
+            "en": "Wander through the largest butterfly greenhouse in France to see thousands of colorful species flying freely, ensuring you wear light clothing as the tropical climate is quite humid."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir starten hoch im Norden bei der Batterie Gneisenau. Diese stummen Zeugen des Zweiten Weltkriegs bieten einen tiefen, nachdenklichen Einblick in die Inselgeschichte.\nAm Mittag fahren wir zum prächtigen Schloss von Noirmoutier, um ins Mittelalter einzutauchen. Danach geht es zu den Salzgärten, wo traditionelles Handwerk lebendig wird.\nDer Nachmittag bringt uns zur Kirche Saint-Jean-Baptiste und anschließend zum Plage de la Martinière. Hier können wir die Seele an der frischen Ozeanluft baumeln lassen.\nAm Abend erreichen wir das faszinierende Schmetterlingshaus L'île aux papillons. Ein bunter und friedlicher Ausklang eines ereignisreichen Roadtrips über die gesamte Insel.",
+        "hu": "Autós túránkat északon, a Batterie Gneisenau második világháborús bunkereinél kezdjük. Ezek a csendes történelmi emlékek elgondolkodtató bevezetést nyújtanak a sziget múltjába.\nDélben a fenséges Noirmoutier kastélyhoz hajtunk, majd a híres sólepárlókat látogatjuk meg. A történelmi építészet és a hagyományos kézművesség lenyűgöző kontrasztot alkot.\nDélután a Saint-Jean-Baptiste templom nyújt lelki feltöltődést, mielőtt a Plage de la Martinière csendes partjainál gyönyörködnénk a végtelen óceáni kilátásban.\nEste a L'île aux papillons színpompás lepkeházában zárjuk a napot. A trópusi növényzet és a repkedő pillangók tökéletes megnyugvást hoznak az izgalmas utazás végén.",
+        "ro": "Începem în nord la Batterie Gneisenau. Aceste buncăre din al Doilea Război Mondial stau ca niște martori tăcuți ai istoriei, oferind o privire profundă asupra trecutului insulei.\nLa prânz, conducem către maiestuosul Castel Noirmoutier pentru o incursiune medievală, urmată de o vizită la bazinele de sare, unde meșteșugul tradițional este încă viu.\nDupă-amiaza ne aduce la biserica Saint-Jean-Baptiste și apoi la Plage de la Martinière. Aici, ne putem relaxa ascultând valurile și respirând aerul proaspăt al oceanului.\nSpre seară, ajungem la fascinanta seră de fluturi L'île aux papillons. Un final colorat și pașnic pentru o călătorie captivantă cu mașina de-a lungul întregii insule.",
+        "en": "We kick off in the far north at the Batterie Gneisenau. These silent World War II bunkers provide a profound and sobering glimpse into the island's strategic military past.\nAt midday, drive to the magnificent Noirmoutier Castle to delve into medieval history, followed by a visit to the salt pans where traditional harvesting methods remain alive.\nThe afternoon brings us to the historic Saint-Jean-Baptiste Church, and then to Plage de la Martinière. Enjoy the fresh ocean breeze and expansive views along the quiet shoreline.\nIn the evening, we reach the magical L'île aux papillons greenhouse. The vibrant tropical environment and freely flying butterflies offer a tranquil close to your road trip."
+      }
+    }
+  }
+}

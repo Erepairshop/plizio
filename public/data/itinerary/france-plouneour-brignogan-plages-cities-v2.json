@@ -1,0 +1,405 @@
+{
+  "city_id": "france-plouneour-brignogan-plages-cities-v2",
+  "anchor": {
+    "name": "Plounéour-Brignogan-Plages",
+    "coords": [
+      -4.32723,
+      48.65185
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:26",
+      "total_km": 2.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "stele",
+            "hu": "stele",
+            "ro": "stele",
+            "en": "stele"
+          },
+          "coords": [
+            -4.32184,
+            48.651485
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diese antike Stele, um die prähistorischen Wurzeln der Region zu entdecken; treten Sie näher heran, um die Verwitterungsdetails zu sehen.",
+            "hu": "Vizsgálja meg ezt az ősi sztélét, hogy felfedezze a régió történelem előtti gyökereit; lépjen közelebb, hogy megnézze az időjárás okozta részleteket.",
+            "ro": "Examinați această stelă antică pentru a descoperi rădăcinile preistorice ale regiunii; apropiați-vă pentru a vedea detaliile eroziunii.",
+            "en": "Examine this ancient stele to uncover the region's prehistoric roots; approach closely to see the weathering details."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de menoignon",
+            "hu": "Menhir de menoignon",
+            "ro": "Menhir de menoignon",
+            "en": "Menhir de menoignon"
+          },
+          "coords": [
+            -4.325082,
+            48.65551
+          ],
+          "category": "historical",
+          "arrive_at": "10:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen markanten Hinkelstein, der die Landschaft seit Jahrtausenden bewacht; tragen Sie festes Schuhwerk, da das Gras nass sein kann.",
+            "hu": "Csodálja meg ezt a lenyűgöző állókövet, amely évezredek óta őrzi a tájat; viseljen erős cipőt, mert a környező fű nedves lehet.",
+            "ro": "Admirați această piatră verticală impresionantă care străjuiește peisajul de milenii; purtați încălțăminte rezistentă, deoarece iarba din jur poate fi umedă.",
+            "en": "Marvel at this striking standing stone that has guarded the landscape for millennia; wear sturdy shoes as the surrounding grass can be damp."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée du Coquillage",
+            "hu": "Musée du Coquillage",
+            "ro": "Musée du Coquillage",
+            "en": "Musée du Coquillage"
+          },
+          "coords": [
+            -4.326819,
+            48.664049
+          ],
+          "category": "museum",
+          "arrive_at": "12:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Tauchen Sie in eine beeindruckende Muschelsammlung aus aller Welt ein; prüfen Sie vorab die saisonal abweichenden Öffnungszeiten.",
+            "hu": "Merüljön el a világ minden tájáról származó kagylók lenyűgöző gyűjteményében; előzetesen ellenőrizze a szezonálisan változó nyitvatartást.",
+            "ro": "Pătrundeți într-o colecție impresionantă de scoici din întreaga lume; verificați în prealabil programul de funcționare, deoarece acesta variază în funcție de sezon.",
+            "en": "Dive into an impressive collection of seashells from around the world; check the opening hours beforehand as they vary by season."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sainte-Bernadette",
+            "hu": "Église Sainte-Bernadette",
+            "ro": "Église Sainte-Bernadette",
+            "en": "Église Sainte-Bernadette"
+          },
+          "coords": [
+            -4.324313,
+            48.665288
+          ],
+          "category": "religious",
+          "arrive_at": "13:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Finden Sie Ruhe in dieser bezaubernden örtlichen Kirche mit ihrer schlichten Eleganz; respektieren Sie die Stille während der Gebetszeiten.",
+            "hu": "Találjon egy pillanatnyi békét ebben az egyszerű, de elegáns építészetéről ismert bájos helyi templomban; tartsa tiszteletben a csendet imaidőben.",
+            "ro": "Găsiți un moment de liniște în această biserică locală fermecătoare, recunoscută pentru arhitectura sa simplă; respectați tăcerea în timpul orelor de rugăciune.",
+            "en": "Find a moment of peace in this charming local church known for its simple yet elegant architecture; respect the silence during prayer times."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Garo",
+            "hu": "Plage du Garo",
+            "ro": "Plage du Garo",
+            "en": "Plage du Garo"
+          },
+          "coords": [
+            -4.328532,
+            48.667559
+          ],
+          "category": "recreational",
+          "arrive_at": "14:41",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am goldenen Sand dieses schönen Strandes; bringen Sie eine Windjacke mit, da die Küstenbrise recht frisch sein kann.",
+            "hu": "Pihenjen meg ezen a gyönyörű, aranyszínű homokos strandon; hozzon széldzsekit, mivel a part menti szellő meglehetősen hűvös lehet.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje frumoase la finalul plimbării; aduceți o jachetă de vânt, deoarece briza de pe coastă poate fi rece.",
+            "en": "Relax on the golden sands of this beautiful beach to end your walking tour; bring a windbreaker as the coastal breezes can be quite brisk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang mit dem reichen prähistorischen Erbe an der antiken Stele und nehmen Sie sich Zeit für die Geschichte.\nGegen Mittag setzen Sie Ihre Entdeckungsreise beim imposanten Menhir de menoignon fort, der stolz in den bretonischen Himmel ragt.\nDer Nachmittag wird im Musée du Coquillage kulturell, gefolgt von einem ruhigen Moment der Besinnung in der Église Sainte-Bernadette.\nBeenden Sie Ihren angenehmen Spaziergang an der Plage du Garo, wo goldener Sand und Meeresbrise einen perfekten Ausklang bieten.",
+        "hu": "Kezdje sétáját a gazdag őskori örökség felfedezésével az ősi sztélénél, időt szánva a mély történelem megismerésére.\nAhogy közeledik a dél, folytassa a felfedezést az impozáns Menhir de menoignon meglátogatásával, amely büszkén magasodik a breton égbolt felé.\nA délután kulturális fordulatot vesz a Musée du Coquillage-ban, amelyet egy csendes elmélkedés követ az Église Sainte-Bernadette templomban.\nFejezze be kellemes sétáját a Plage du Garo strandon, ahol az aranyszínű homok és a tengeri szellő tökéletes, pihentető befejezést nyújt.",
+        "ro": "Începeți plimbarea explorând bogata moștenire preistorică la vechea stelă, acordându-vă timp pentru a aprecia istoria profundă a locului.\nSpre prânz, continuați-vă descoperirea vizitând impunătorul Menhir de menoignon, care se înalță cu mândrie sub cerul breton.\nDupă-amiaza ia o întorsătură culturală la Musée du Coquillage, urmată de un moment de liniște la biserica Église Sainte-Bernadette.\nÎncheiați-vă plimbarea plăcută la Plage du Garo, unde nisipul auriu și briza mării oferă un final perfect și relaxant al zilei.",
+        "en": "Begin your walking journey by delving into the rich prehistoric heritage at the ancient stele, taking your time to appreciate the deep history.\nAs noon approaches, continue your discovery by visiting the imposing Menhir de menoignon, standing proudly against the Breton sky.\nThe afternoon takes a cultural turn at the Musée du Coquillage, where intricate marine treasures await, followed by a quiet reflection at Église Sainte-Bernadette.\nConclude your pleasant stroll at Plage du Garo, where the golden sands and sea breeze provide a perfect, relaxing finish to the day."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:28",
+      "total_km": 5.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Observatoire ornithologique",
+            "hu": "Observatoire ornithologique",
+            "ro": "Observatoire ornithologique",
+            "en": "Observatoire ornithologique"
+          },
+          "coords": [
+            -4.311382,
+            48.641774
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie seltene Küstenvögel in diesem friedlichen Observatorium; bringen Sie für das beste Erlebnis am frühen Morgen ein Fernglas mit.",
+            "hu": "Figyeljen meg ritka partmenti madarakat ebben a békés madárlesben; hozzon távcsövet a legjobb kora reggeli élmény érdekében.",
+            "ro": "Observați păsări de coastă rare la acest observator liniștit; aduceți binoclul pentru cea mai bună experiență de vizionare dis-de-dimineață.",
+            "en": "Spot rare coastal birds at this peaceful observatory overlooking the wetlands; bring binoculars for the best viewing experience early in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen du Dievet",
+            "hu": "Dolmen du Dievet",
+            "ro": "Dolmen du Dievet",
+            "en": "Dolmen du Dievet"
+          },
+          "coords": [
+            -4.312017,
+            48.654766
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.44,
+          "tip_5lang": {
+            "de": "Tauchen Sie an diesem faszinierenden Dolmengrab in die Jungsteinzeit ein; stellen Sie Ihr Fahrrad sicher am nahen Wegeingang ab.",
+            "hu": "Lépjen vissza az újkőkorba ennél a lenyűgöző dolmen sírnál; parkolja le biztonságosan kerékpárját a közeli ösvény bejáratánál.",
+            "ro": "Pășiți în era neolitică la acest mormânt dolmen fascinant; parcați-vă bicicleta în siguranță la intrarea pe potecă înainte de a explora.",
+            "en": "Step back into the Neolithic era at this fascinating dolmen tomb; park your bike securely at the nearby path entrance before exploring."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Tour Blanche",
+            "hu": "Plage de la Tour Blanche",
+            "ro": "Plage de la Tour Blanche",
+            "en": "Plage de la Tour Blanche"
+          },
+          "coords": [
+            -4.318264,
+            48.670304
+          ],
+          "category": "recreational",
+          "arrive_at": "12:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.78,
+          "tip_5lang": {
+            "de": "Genießen Sie eine malerische Radpause an diesem unberührten weißen Sandstrand; ein toller Ort für ein Picknick mit selbstgemachten Snacks.",
+            "hu": "Tartson egy festői kerékpáros szünetet ezen az érintetlen, fehér homokos strandon; kiváló hely leteríteni egy törölközőt és elfogyasztani egy uzsonnát.",
+            "ro": "Bucurați-vă de o pauză pitorească de-a lungul acestei plaje imaculate; este un loc excelent pentru a întinde un prosop și a savura o gustare.",
+            "en": "Enjoy a scenic cycling break along this pristine white-sand beach; it is a great spot to lay down a towel and enjoy a packed snack."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de Men Marz",
+            "hu": "Menhir de Men Marz",
+            "ro": "Menhir de Men Marz",
+            "en": "Menhir de Men Marz"
+          },
+          "coords": [
+            -4.335203,
+            48.670326
+          ],
+          "category": "landmark",
+          "arrive_at": "13:25",
+          "stay_min": 15,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.24,
+          "tip_5lang": {
+            "de": "Blicken Sie auf einen der höchsten christianisierten Menhire der Bretagne; fotografieren Sie von der Südseite für das beste Licht.",
+            "hu": "Tekintsen fel Bretagne egyik legmagasabb kereszténnyé tett menhirjére; készítsen fotókat a déli oldalról a legjobb természetes fény érdekében.",
+            "ro": "Priviți în sus la unul dintre cele mai înalte menhire creștinate din Bretania; faceți fotografii din partea de sud pentru cea mai bună lumină.",
+            "en": "Look up at one of Brittany's tallest Christianized menhirs; capture photos from the southern side for the best natural lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Chardons Bleus",
+            "hu": "Plage des Chardons Bleus",
+            "ro": "Plage des Chardons Bleus",
+            "en": "Plage des Chardons Bleus"
+          },
+          "coords": [
+            -4.334846,
+            48.676136
+          ],
+          "category": "recreational",
+          "arrive_at": "13:43",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.64,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem ruhigen Nordstrand, der für seine blauen Disteln bekannt ist; schonen Sie die Dünensysteme, indem Sie auf den Wegen bleiben.",
+            "hu": "Kapcsolódjon ki ezen a kék bogáncsairól ismert nyugodt északi strandon; tartsa tiszteletben a törékeny dűnéket azzal, hogy a kijelölt ösvényeken marad.",
+            "ro": "Relaxați-vă la această plajă nordică liniștită, cunoscută pentru ciulinii săi albaștri; respectați ecosistemele de dune rămânând pe potecile marcate.",
+            "en": "Unwind at this tranquil northern beach known for its striking blue thistles; respect the fragile dune ecosystems by staying on marked paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer in der Natur am Vogelobservatorium und genießen Sie die morgendliche Vogelaktivität an der Küste.\nMittags radeln Sie landeinwärts, um die Geheimnisse des Dolmen du Dievet, einer faszinierenden neolithischen Stätte, zu lüften.\nAm Nachmittag treten Sie in die Pedale zum atemberaubenden weißen Sand der Plage de la Tour Blanche und bestaunen den Menhir de Men Marz.\nIhre Fahrt endet am Plage des Chardons Bleus, wo Sie Ihre Beine ausruhen und das Rauschen der Wellen genießen können.",
+        "hu": "Kezdje kerékpáros kalandját a természetben a madárlesnél, élvezve a kora reggeli madármozgást a part mentén.\nDélben kerékpározzon a szárazföld belseje felé, hogy felfedezze a Dolmen du Dievet rejtelmeit, egy buja növényzettel körülvett újkőkori helyszínt.\nDélután tekerjen a Plage de la Tour Blanche lenyűgöző fehér homokja felé, mielőtt megcsodálná a magasodó Menhir de Men Marz-t.\nUtazása a Plage des Chardons Bleus strandon ér véget, ahol megpihentetheti lábait és figyelheti a partot mosó hullámokat.",
+        "ro": "Începeți-vă aventura cu bicicleta în natură la observatorul ornitologic, bucurându-vă de activitatea matinală a păsărilor pe coastă.\nLa prânz, pedalați spre interior pentru a descoperi misterele Dolmen du Dievet, un sit neolitic fascinant înconjurat de verdeață.\nDupă-amiaza, îndreptați-vă spre nisipul alb uimitor de la Plage de la Tour Blanche înainte de a admira impunătorul Menhir de Men Marz.\nCălătoria se încheie la Plage des Chardons Bleus, unde vă puteți odihni picioarele și puteți urmări valurile spălând țărmul stâncos.",
+        "en": "Start your cycling adventure immersed in nature at the ornithological observatory, enjoying the early morning bird activity along the coast.\nBy midday, cycle inland to uncover the mysteries of the Dolmen du Dievet, a fascinating Neolithic site surrounded by lush greenery.\nIn the afternoon, pedal towards the stunning white sands of Plage de la Tour Blanche before marveling at the towering Menhir de Men Marz.\nYour ride finishes at Plage des Chardons Bleus, where you can rest your legs and watch the waves wash against the striking shoreline."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:35",
+      "total_km": 4.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Mairie déléguée - Plounéour-Trez",
+            "hu": "Mairie déléguée - Plounéour-Trez",
+            "ro": "Mairie déléguée - Plounéour-Trez",
+            "en": "Mairie déléguée - Plounéour-Trez"
+          },
+          "coords": [
+            -4.318048,
+            48.650424
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Fahrt am historischen Rathaus, dem Zentrum der Gemeinde; direkt davor finden Sie bequeme und kostenlose Parkplätze.",
+            "hu": "Kezdje útját a történelmi városházánál, amely a helyi közösség központja; közvetlenül az épület előtt kényelmes, ingyenes parkolóhelyeket talál.",
+            "ro": "Începeți plimbarea la primăria istorică ce reprezintă centrul comunității locale; puteți găsi locuri de parcare gratuite chiar în față.",
+            "en": "Start your drive at the historic town hall that anchors the local community; you can find convenient free parking spaces right out front."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Lividic",
+            "hu": "Plage du Lividic",
+            "ro": "Plage du Lividic",
+            "en": "Plage du Lividic"
+          },
+          "coords": [
+            -4.306258,
+            48.666769
+          ],
+          "category": "recreational",
+          "arrive_at": "10:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Machen Sie einen erfrischenden Spaziergang an diesem weiten Küstenabschnitt; kommen Sie im Sommer früh, um einen Parkplatz zu sichern.",
+            "hu": "Tegyen egy frissítő sétát ezen a kiterjedt partvidéken; érkezzen korán, hogy biztosítson magának parkolóhelyet a forgalmas nyári hónapokban.",
+            "ro": "Faceți o plimbare revigorantă pe această întindere vastă de coastă; ajungeți devreme pentru a prinde un loc de parcare în lunile aglomerate de vară.",
+            "en": "Take a refreshing stroll on this expansive stretch of coastline; arrive early to secure a parking spot during the busy summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sainte-Bernadette",
+            "hu": "Église Sainte-Bernadette",
+            "ro": "Église Sainte-Bernadette",
+            "en": "Église Sainte-Bernadette"
+          },
+          "coords": [
+            -4.324313,
+            48.665288
+          ],
+          "category": "religious",
+          "arrive_at": "11:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.33,
+          "tip_5lang": {
+            "de": "Bewundern Sie die modernen architektonischen Züge dieser Küstenkirche; sie ist gut mit dem Auto erreichbar, aber die Straßen sind eng.",
+            "hu": "Csodálja meg e tengerparti templom modernista építészeti elemeit; autóval könnyen megközelíthető, bár a közeli utak meglehetősen szűkek.",
+            "ro": "Admirați accentele arhitecturale moderniste ale acestei biserici; este ușor accesibilă cu mașina, deși drumurile din apropiere sunt destul de înguste.",
+            "en": "Admire the modernist architectural touches of this coastal church; it is easily accessible by car, though the nearby roads are quite narrow."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Petit Nice",
+            "hu": "Plage du Petit Nice",
+            "ro": "Plage du Petit Nice",
+            "en": "Plage du Petit Nice"
+          },
+          "coords": [
+            -4.328163,
+            48.670344
+          ],
+          "category": "recreational",
+          "arrive_at": "12:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.62,
+          "tip_5lang": {
+            "de": "Tanken Sie Sonne in dieser geschützten Bucht namens 'Klein Nizza'; der Parkplatz ist klein, stellen Sie sich darauf ein, etwas oberhalb zu parken.",
+            "hu": "Szívja magába a napsütést ebben a találóan 'Kis Nizzának' nevezett védett öbölben; a parkoló kicsi, készüljön fel arra, hogy feljebb parkoljon.",
+            "ro": "Bucurați-vă de soare în acest golf adăpostit numit 'Mica Nisa'; parcarea este mică, așa că fiți pregătit să parcați puțin mai sus.",
+            "en": "Soak up the sun at this sheltered sandy cove aptly named 'Little Nice'; the parking area is small, so be prepared to park slightly uphill."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Crapauds",
+            "hu": "Plage des Crapauds",
+            "ro": "Plage des Crapauds",
+            "en": "Plage des Crapauds"
+          },
+          "coords": [
+            -4.326749,
+            48.672706
+          ],
+          "category": "recreational",
+          "arrive_at": "13:50",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.29,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Roadtrip, indem Sie den Sonnenuntergang über den Felsen beobachten; nutzen Sie den nahen Schotterplatz zum Parken.",
+            "hu": "Fejezze be autós kirándulását a drámai sziklaalakzatok feletti naplemente megtekintésével; használja a közeli kavicsos parkolót.",
+            "ro": "Încheiați-vă excursia privind apusul de soare peste formațiunile stâncoase dramatice; utilizați parcarea cu pietriș din apropiere.",
+            "en": "End your road trip by watching the sunset over the dramatic rock formations here; use the nearby gravel lot for stress-free long-term parking."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren malerischen Roadtrip im historischen Herzen der Stadt an der Mairie déléguée und genießen Sie die lokale Atmosphäre.\nFahren Sie mittags zum weitläufigen Plage du Lividic, wo die weiten Sand- und Ozeanstrände ein atemberaubendes Panorama bieten.\nVerbringen Sie den Nachmittag in der modernen Église Sainte-Bernadette und entspannen Sie sich am malerischen Plage du Petit Nice.\nBeenden Sie Ihre Reise am Plage des Crapauds, der einen idealen Aussichtspunkt für einen unvergesslichen Sonnenuntergang bietet.",
+        "hu": "Kezdje festői autós utazását a város történelmi szívében, a Mairie déléguée-nél, magába szívva a különleges helyi atmoszférát.\nDél körül vezessen ki a kiterjedt Plage du Lividic-hez, ahol a hatalmas homokos partszakasz és az óceán lélegzetelállító panorámát nyújt.\nDélutánját a modern Église Sainte-Bernadette felfedezésével töltse, majd kapcsolódjon ki a védett, festői Plage du Petit Nice-en.\nFejezze be utazását a Plage des Crapauds strandon, amely ideális kilátópontot nyújt egy felejthetetlen tengerparti naplementéhez.",
+        "ro": "Începeți-vă excursia pitorească cu mașina în inima istorică a orașului, la Mairie déléguée, absorbind atmosfera locală pitorească.\nConduceți spre expansiva Plage du Lividic în jurul prânzului, unde întinderile vaste de nisip și oceanul oferă o panoramă uimitoare.\nPetreceți după-amiaza explorând moderna Église Sainte-Bernadette și apoi relaxați-vă la pitoreasca Plage du Petit Nice.\nÎncheiați-vă călătoria la Plage des Crapauds, care oferă un punct de observație ideal pentru un apus de soare de neuitat pe coastă.",
+        "en": "Kick off your scenic road trip in the historic heart of the town at the Mairie déléguée, soaking in the quaint local atmosphere.\nDrive out to the expansive Plage du Lividic around midday, where the vast stretches of sand and ocean offer a breathtaking panorama.\nSpend your afternoon exploring the modern Église Sainte-Bernadette and then unwinding at the sheltered, picturesque Plage du Petit Nice.\nWrap up your journey at Plage des Crapauds, providing an ideal vantage point for an unforgettable coastal sunset from the comfort of the shore."
+      }
+    }
+  }
+}

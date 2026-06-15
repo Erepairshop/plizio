@@ -1,0 +1,497 @@
+{
+  "city_id": "greece-syros-and-ermoupoli-cities-v2",
+  "anchor": {
+    "name": "Syros and Ermoupoli",
+    "coords": [
+      24.94025,
+      37.44025
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:33",
+      "total_km": 1.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pinakotheke Kukladon",
+            "hu": "Pinakotheke Kukladon",
+            "ro": "Pinakotheke Kukladon",
+            "en": "Pinakotheke Kukladon"
+          },
+          "coords": [
+            24.945446,
+            37.4414
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Die Kykladen-Kunstgalerie bietet eine lebhafte Sammlung regionaler Kunstwerke, weshalb sich ein Kombiticket für weitere lokale Ausstellungen lohnt.",
+            "hu": "A Kükládok Művészeti Galéria a regionális alkotások élénk gyűjteményét kínálja, ezért érdemes kombinált jegyet venni a spórolás érdekében.",
+            "ro": "Galeria de Artă a Cicladelor oferă o colecție vibrantă de lucrări regionale, așa că merită să cumpărați un bilet combinat pentru a economisi.",
+            "en": "The Cyclades Art Gallery offers a vibrant collection of regional artwork, so buy a combined ticket to save money on other local exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Arkhaiologiko Mouseio Surou",
+            "hu": "Arkhaiologiko Mouseio Surou",
+            "ro": "Arkhaiologiko Mouseio Surou",
+            "en": "Arkhaiologiko Mouseio Surou"
+          },
+          "coords": [
+            24.94238,
+            37.445141
+          ],
+          "category": "museum",
+          "arrive_at": "10:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie prähistorische Artefakte aus Chalandriani in diesem historischen Gebäude und achten Sie auf die kleinen Marmorfiguren am Eingang.",
+            "hu": "Fedezze fel Chalandriani őskori leleteit ebben a történelmi épületben, és nézze meg közelebbről a bejárat melletti apró márványfigurákat.",
+            "ro": "Explorați artefactele preistorice din Chalandriani în această clădire istorică și priviți îndeaproape micile figurine de marmură de lângă intrare.",
+            "en": "Explore prehistoric artifacts from Chalandriani within this historic building, and look closely at the small marble figurines near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Pneumatiko Kentro Ermoupoles",
+            "hu": "Pneumatiko Kentro Ermoupoles",
+            "ro": "Pneumatiko Kentro Ermoupoles",
+            "en": "Pneumatiko Kentro Ermoupoles"
+          },
+          "coords": [
+            24.94344,
+            37.445266
+          ],
+          "category": "cultural",
+          "arrive_at": "12:40",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Dieses elegante Kulturzentrum beherbergt wunderschöne Ausstellungen in einem neoklassizistischen Rahmen, ideal für eine kurze Pause im schattigen Innenhof.",
+            "hu": "Ez az elegáns kulturális központ gyönyörű kiállításoknak ad otthont egy neoklasszikus környezetben, tökéletes egy rövid pihenőre az árnyékos udvaron.",
+            "ro": "Acest centru cultural elegant găzduiește expoziții frumoase într-un cadru neoclasic, fiind perfect pentru o scurtă pauză în curtea umbrită.",
+            "en": "This elegant cultural center hosts beautiful exhibitions in a neo-classical setting, making it perfect for a quick break in the shaded courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Demotike mousike Ermoupoles",
+            "hu": "Demotike mousike Ermoupoles",
+            "ro": "Demotike mousike Ermoupoles",
+            "en": "Demotike mousike Ermoupoles"
+          },
+          "coords": [
+            24.944511,
+            37.444668
+          ],
+          "category": "cultural",
+          "arrive_at": "13:52",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erleben Sie das reiche musikalische Erbe von Syros an diesem lokalen Treffpunkt und prüfen Sie den Zeitplan für gelegentliche kostenlose Aufführungen.",
+            "hu": "Tapasztalja meg Szírosz gazdag zenei örökségét ezen a helyi központon, ahol érdemes megnézni az ingyenes délutáni előadások menetrendjét.",
+            "ro": "Experimentați bogata moștenire muzicală a insulei Syros la acest centru local, unde ar trebui să verificați programul pentru spectacole gratuite de după-amiază.",
+            "en": "Experience the rich musical heritage of Syros at this local hub, where you should check the schedule for occasional free afternoon performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Ekklesiastiko Mouseio",
+            "hu": "Ekklesiastiko Mouseio",
+            "ro": "Ekklesiastiko Mouseio",
+            "en": "Ekklesiastiko Mouseio"
+          },
+          "coords": [
+            24.944495,
+            37.44603
+          ],
+          "category": "museum",
+          "arrive_at": "15:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Dieses ruhige Museum beherbergt seltene religiöse Ikonen und erfordert respektvolle Kleidung, also bedecken Sie bitte Schultern und Knie.",
+            "hu": "A ritka vallási ikonoknak és tárgyaknak otthont adó csendes múzeum tiszteletteljes öltözködést követel, ezért takarja el a vállait és a térdeit.",
+            "ro": "Găzduind icoane și artefacte religioase rare, acest muzeu liniștit necesită o ținută respectuoasă, așa că asigurați-vă că aveți umerii și genunchii acoperiți.",
+            "en": "Home to rare religious icons and artifacts, this tranquil museum requires respectful attire so make sure your shoulders and knees are covered."
+          }
+        },
+        {
+          "name": {
+            "de": "Swim spot",
+            "hu": "Swim spot",
+            "ro": "Swim spot",
+            "en": "Swim spot"
+          },
+          "coords": [
+            24.9465,
+            37.446603
+          ],
+          "category": "natural",
+          "arrive_at": "16:48",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie am kristallklaren Wasser an diesem leicht zugänglichen städtischen Badeplatz und bringen Sie Badeschuhe für den felsigen Einstieg mit.",
+            "hu": "Pihenjen a kristálytiszta víz mellett ezen a könnyen megközelíthető városi fürdőhelyen, és hozzon vizicipőt a sziklás belépés miatt.",
+            "ro": "Relaxați-vă la apele cristaline de la acest loc de înot urban ușor accesibil și aduceți încălțăminte de apă, deoarece intrarea poate fi stâncoasă.",
+            "en": "Relax by the crystal-clear waters at this easily accessible urban swim spot, and bring water shoes as the entry can be quite rocky."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang am Hafen und erkunden Sie die Kykladen-Kunstgalerie, um sofort den künstlerischen Puls von Syros zu spüren.\nSchlendern Sie in Richtung des historischen Zentrums und besuchen Sie das Archäologische Museum sowie das Kulturzentrum für tiefe Einblicke.\nGenießen Sie die lebhafte Atmosphäre der städtischen Musik, bevor Sie die seltenen Stücke im ruhigen Kirchenmuseum betrachten.\nBeenden Sie Ihren Tag mit einem erfrischenden Bad an einem felsigen städtischen Badeplatz und beobachten Sie den Sonnenuntergang über der Ägäis.",
+        "hu": "Kezdje sétáját a kikötő közelében, és fedezze fel a Kükládok Művészeti Galériát, hogy azonnal átérezze Szírosz művészi lüktetését.\nSétáljon a történelmi központ felé, látogassa meg a Régészeti Múzeumot és a Kulturális Központot a helyi örökség alapos megismeréséhez.\nÉlvezze a városi zenei központ élénk atmoszféráját, mielőtt megtekintené a csendes Egyházi Múzeum ritka kincseit.\nZárja a napot egy frissítő csobbanással egy sziklás városi fürdőhelyen, és nézze, ahogy a naplemente befesteni az égei vizeket.",
+        "ro": "Începeți plimbarea lângă port, explorând Galeria de Artă a Cicladelor pentru a simți imediat pulsul artistic al insulei Syros.\nPlimbați-vă spre centrul istoric, vizitând Muzeul Arheologic și Centrul Cultural pentru o scufundare profundă în moștenirea locală.\nBucurați-vă de atmosfera plină de viață a muzicii municipale înainte de a vedea obiectele rare la liniștitul Muzeu Ecleziastic.\nÎncheiați-vă ziua cu o baie răcoritoare la un loc de înot stâncos din oraș, privind apusul pictând cerul deasupra apelor Mării Egee.",
+        "en": "Begin your walk near the harbor, exploring the Cyclades Art Gallery to feel the artistic pulse of Syros right away.\nStroll towards the historic center, visiting the Archaeological Museum and the Cultural Center for a deep dive into local heritage.\nEnjoy the lively atmosphere of the Municipal Music hub before viewing the rare items at the tranquil Ecclesiastical Museum.\nConclude your day with a refreshing dip at a rocky urban swim spot, watching the sunset paint the sky over the Aegean waters."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 3.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Industrial Museum",
+            "hu": "Industrial Museum",
+            "ro": "Industrial Museum",
+            "en": "Industrial Museum"
+          },
+          "coords": [
+            24.934665,
+            37.437755
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende industrielle Vergangenheit von Ermoupoli mit restaurierten Maschinen und fragen Sie das Personal nach den alten Textilfabriken.",
+            "hu": "Fedezze fel Ermoupoli lenyűgöző ipari múltját a felújított gépekkel, és kérdezze a hozzáértő személyzetet a régi textilgyárakról.",
+            "ro": "Descoperiți trecutul industrial fascinant al orașului Ermoupoli, cu mașinăriile sale restaurate, și întrebați personalul despre vechile fabrici textile.",
+            "en": "Uncover the fascinating industrial past of Ermoupoli with its restored machinery, and ask the knowledgeable staff about the old textile factories."
+          }
+        },
+        {
+          "name": {
+            "de": "Pinakotheke Kukladon",
+            "hu": "Pinakotheke Kukladon",
+            "ro": "Pinakotheke Kukladon",
+            "en": "Pinakotheke Kukladon"
+          },
+          "coords": [
+            24.945446,
+            37.4414
+          ],
+          "category": "museum",
+          "arrive_at": "10:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Die Kykladen-Kunstgalerie bietet eine lebhafte Sammlung regionaler Kunstwerke, weshalb sich ein Kombiticket für weitere lokale Ausstellungen lohnt.",
+            "hu": "A Kükládok Művészeti Galéria a regionális alkotások élénk gyűjteményét kínálja, ezért érdemes kombinált jegyet venni a spórolás érdekében.",
+            "ro": "Galeria de Artă a Cicladelor oferă o colecție vibrantă de lucrări regionale, așa că merită să cumpărați un bilet combinat pentru a economisi.",
+            "en": "The Cyclades Art Gallery offers a vibrant collection of regional artwork, so buy a combined ticket to save money on other local exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "mnemeio mikrasiatikes katastrophes",
+            "hu": "mnemeio mikrasiatikes katastrophes",
+            "ro": "mnemeio mikrasiatikes katastrophes",
+            "en": "mnemeio mikrasiatikes katastrophes"
+          },
+          "coords": [
+            24.936605,
+            37.44596
+          ],
+          "category": "historical",
+          "arrive_at": "12:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Dieses berührende Denkmal erinnert an die Flüchtlinge der kleinasiatischen Katastrophe und bietet einen ruhigen Ort zum Nachdenken, den Sie respektvoll besuchen sollten.",
+            "hu": "Ez a megható emlékmű a kis-ázsiai katasztrófa menekültjeinek állít emléket, csendes helyet kínálva az elmélkedésre, ezért tisztelettel közeledjen.",
+            "ro": "Acest memorial emoționant comemorează refugiații catastrofei din Asia Mică, oferind un loc liniștit pentru reflecție, așa că apropiați-vă cu respect.",
+            "en": "This touching memorial commemorates the refugees of the Asia Minor catastrophe, offering a quiet place for reflection so approach it with respect."
+          }
+        },
+        {
+          "name": {
+            "de": "Arkhaiologiko Mouseio Surou",
+            "hu": "Arkhaiologiko Mouseio Surou",
+            "ro": "Arkhaiologiko Mouseio Surou",
+            "en": "Arkhaiologiko Mouseio Surou"
+          },
+          "coords": [
+            24.94238,
+            37.445141
+          ],
+          "category": "museum",
+          "arrive_at": "13:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie prähistorische Artefakte aus Chalandriani in diesem historischen Gebäude und achten Sie auf die kleinen Marmorfiguren am Eingang.",
+            "hu": "Fedezze fel Chalandriani őskori leleteit ebben a történelmi épületben, és nézze meg közelebbről a bejárat melletti apró márványfigurákat.",
+            "ro": "Explorați artefactele preistorice din Chalandriani în această clădire istorică și priviți îndeaproape micile figurine de marmură de lângă intrare.",
+            "en": "Explore prehistoric artifacts from Chalandriani within this historic building, and look closely at the small marble figurines near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Anastaseos tou Soteros",
+            "hu": "Anastaseos tou Soteros",
+            "ro": "Anastaseos tou Soteros",
+            "en": "Anastaseos tou Soteros"
+          },
+          "coords": [
+            24.941282,
+            37.448628
+          ],
+          "category": "religious",
+          "arrive_at": "15:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Diese majestätische orthodoxe Kirche auf einem Hügel bietet einen weiten Blick auf die Ägäis und lässt sich am besten während der goldenen Stunde fotografieren.",
+            "hu": "A dombtetőn álló, az Égei-tengerre pazar kilátást nyújtó fenséges ortodox templomot a legjobb az aranyórában lefotózni.",
+            "ro": "Situată pe un deal cu vederi ample asupra Mării Egee, această biserică ortodoxă maiestuoasă este cel mai bine de fotografiat în timpul orei de aur.",
+            "en": "Perched on a hilltop with sweeping views of the Aegean Sea, this majestic orthodox church is best photographed during the golden hour."
+          }
+        },
+        {
+          "name": {
+            "de": "Ekthese Markou Bambakare Enthumemata",
+            "hu": "Ekthese Markou Bambakare Enthumemata",
+            "ro": "Ekthese Markou Bambakare Enthumemata",
+            "en": "Ekthese Markou Bambakare Enthumemata"
+          },
+          "coords": [
+            24.935466,
+            37.44927
+          ],
+          "category": "museum",
+          "arrive_at": "15:50",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in das Leben des legendären Rebetiko-Musikers Markos Vamvakaris und kaufen Sie eine CD im kleinen Souvenirladen.",
+            "hu": "Merüljön el a legendás rebetiko zenész, Markos Vamvakaris életében, és vegyen egy CD-t a kis ajándékboltban zenei szuvenírként.",
+            "ro": "Pătrundeți în viața legendarului muzician rebetiko Markos Vamvakaris și cumpărați un CD din micul magazin de suveniruri.",
+            "en": "Dive into the life of the legendary rebetiko musician Markos Vamvakaris, and pick up a CD in the small gift shop as a musical souvenir."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Fahrradabenteuer am beeindruckenden Industriemuseum und entdecken Sie die reiche Produktionsgeschichte von Ermoupoli.\nFahren Sie nach Osten zum lebhaften Stadtzentrum, um die Kykladen-Kunstgalerie zu bewundern, und radeln Sie dann zum nachdenklichen Denkmal.\nParken Sie Ihr Fahrrad, um das Archäologische Museum zu erkunden, bevor Sie die verwinkelten Straßen zur Auferstehungskirche hinauffahren.\nBeenden Sie Ihre Fahrt im charmanten Ano Syros und feiern Sie die lokale Rebetiko-Kultur im Markos Vamvakaris Museum am Abend.",
+        "hu": "Kezdje kerékpáros kalandját a lenyűgöző Ipari Múzeumban, megfejtve a modern Ermoupoli alakító gazdag gyártási történelmét.\nTekerjen kelet felé a nyüzsgő városközpontba, hogy megcsodálja a Kükládok Művészeti Galériáját, majd tekerjen el az emlékmű mellett.\nParkolja le a kerékpárt a Régészeti Múzeum felfedezéséhez, mielőtt felmászna a kanyargós utcákon a lenyűgöző Feltámadás templomához.\nFejezze be az utazást a bájos Ano Syrosban, ünnepelve a helyi rebetiko kultúrát a Markos Vamvakaris Múzeumban, ahogy leszáll az est.",
+        "ro": "Începeți aventura cu bicicleta la impresionantul Muzeu Industrial, descoperind istoria bogată a producției care a modelat orașul Ermoupoli.\nMergeți spre est către centrul vibrant al orașului pentru a admira Galeria de Artă, apoi pedalați pe lângă memorialul Asiei Mici.\nParcați bicicleta pentru a explora Muzeul Arheologic înainte de a urca străzile șerpuite spre uluitoarea Biserică a Învierii.\nTerminați plimbarea în fermecătorul Ano Syros, sărbătorind cultura rebetiko locală la Muzeul Markos Vamvakaris odată cu lăsarea serii.",
+        "en": "Start your cycling adventure at the impressive Industrial Museum, unraveling the rich manufacturing history that shaped modern Ermoupoli.\nRide east towards the lively city center to admire the Cyclades Art Gallery, then pedal past the thoughtful Asia Minor memorial.\nPark your bike to explore the Archaeological Museum before climbing up the winding streets to the striking Church of Resurrection.\nFinish your ride in charming Ano Syros, celebrating the local rebetiko culture at the Markos Vamvakaris Museum as evening falls."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:17",
+      "total_km": 5.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bathu Gialoudi",
+            "hu": "Bathu Gialoudi",
+            "ro": "Bathu Gialoudi",
+            "en": "Bathu Gialoudi"
+          },
+          "coords": [
+            24.950196,
+            37.430028
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entfliehen Sie dem Stadtlärm in diesem malerischen Küstenerholungsgebiet und packen Sie ein Picknick ein, um den unverbauten Meerblick zu genießen.",
+            "hu": "Meneküljön el a város zajától ezen a festői tengerparti rekreációs területen, és hozzon egy pikniket, hogy élvezze a zavartalan kilátást a tengerre.",
+            "ro": "Evadați de agitația orașului în această zonă de recreere de coastă pitorească, unde ar trebui să luați un picnic pentru a vă bucura de vederile neîntrerupte.",
+            "en": "Escape the city buzz at this scenic coastal recreational area, where you should pack a picnic to enjoy the uninterrupted sea views."
+          }
+        },
+        {
+          "name": {
+            "de": "Industrial Museum",
+            "hu": "Industrial Museum",
+            "ro": "Industrial Museum",
+            "en": "Industrial Museum"
+          },
+          "coords": [
+            24.934665,
+            37.437755
+          ],
+          "category": "landmark",
+          "arrive_at": "10:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende industrielle Vergangenheit von Ermoupoli mit restaurierten Maschinen und fragen Sie das Personal nach den alten Textilfabriken.",
+            "hu": "Fedezze fel Ermoupoli lenyűgöző ipari múltját a felújított gépekkel, és kérdezze a hozzáértő személyzetet a régi textilgyárakról.",
+            "ro": "Descoperiți trecutul industrial fascinant al orașului Ermoupoli, cu mașinăriile sale restaurate, și întrebați personalul despre vechile fabrici textile.",
+            "en": "Uncover the fascinating industrial past of Ermoupoli with its restored machinery, and ask the knowledgeable staff about the old textile factories."
+          }
+        },
+        {
+          "name": {
+            "de": "Pinakotheke Kukladon",
+            "hu": "Pinakotheke Kukladon",
+            "ro": "Pinakotheke Kukladon",
+            "en": "Pinakotheke Kukladon"
+          },
+          "coords": [
+            24.945446,
+            37.4414
+          ],
+          "category": "museum",
+          "arrive_at": "11:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Die Kykladen-Kunstgalerie bietet eine lebhafte Sammlung regionaler Kunstwerke, weshalb sich ein Kombiticket für weitere lokale Ausstellungen lohnt.",
+            "hu": "A Kükládok Művészeti Galéria a regionális alkotások élénk gyűjteményét kínálja, ezért érdemes kombinált jegyet venni a spórolás érdekében.",
+            "ro": "Galeria de Artă a Cicladelor oferă o colecție vibrantă de lucrări regionale, așa că merită să cumpărați un bilet combinat pentru a economisi.",
+            "en": "The Cyclades Art Gallery offers a vibrant collection of regional artwork, so buy a combined ticket to save money on other local exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Arkhaiologiko Mouseio Surou",
+            "hu": "Arkhaiologiko Mouseio Surou",
+            "ro": "Arkhaiologiko Mouseio Surou",
+            "en": "Arkhaiologiko Mouseio Surou"
+          },
+          "coords": [
+            24.94238,
+            37.445141
+          ],
+          "category": "museum",
+          "arrive_at": "13:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie prähistorische Artefakte aus Chalandriani in diesem historischen Gebäude und achten Sie auf die kleinen Marmorfiguren am Eingang.",
+            "hu": "Fedezze fel Chalandriani őskori leleteit ebben a történelmi épületben, és nézze meg közelebbről a bejárat melletti apró márványfigurákat.",
+            "ro": "Explorați artefactele preistorice din Chalandriani în această clădire istorică și priviți îndeaproape micile figurine de marmură de lângă intrare.",
+            "en": "Explore prehistoric artifacts from Chalandriani within this historic building, and look closely at the small marble figurines near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Anastaseos tou Soteros",
+            "hu": "Anastaseos tou Soteros",
+            "ro": "Anastaseos tou Soteros",
+            "en": "Anastaseos tou Soteros"
+          },
+          "coords": [
+            24.941282,
+            37.448628
+          ],
+          "category": "religious",
+          "arrive_at": "14:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Diese majestätische orthodoxe Kirche auf einem Hügel bietet einen weiten Blick auf die Ägäis und lässt sich am besten während der goldenen Stunde fotografieren.",
+            "hu": "A dombtetőn álló, az Égei-tengerre pazar kilátást nyújtó fenséges ortodox templomot a legjobb az aranyórában lefotózni.",
+            "ro": "Situată pe un deal cu vederi ample asupra Mării Egee, această biserică ortodoxă maiestuoasă este cel mai bine de fotografiat în timpul orei de aur.",
+            "en": "Perched on a hilltop with sweeping views of the Aegean Sea, this majestic orthodox church is best photographed during the golden hour."
+          }
+        },
+        {
+          "name": {
+            "de": "Ekthese Markou Bambakare Enthumemata",
+            "hu": "Ekthese Markou Bambakare Enthumemata",
+            "ro": "Ekthese Markou Bambakare Enthumemata",
+            "en": "Ekthese Markou Bambakare Enthumemata"
+          },
+          "coords": [
+            24.935466,
+            37.44927
+          ],
+          "category": "museum",
+          "arrive_at": "15:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in das Leben des legendären Rebetiko-Musikers Markos Vamvakaris und kaufen Sie eine CD im kleinen Souvenirladen.",
+            "hu": "Merüljön el a legendás rebetiko zenész, Markos Vamvakaris életében, és vegyen egy CD-t a kis ajándékboltban zenei szuvenírként.",
+            "ro": "Pătrundeți în viața legendarului muzician rebetiko Markos Vamvakaris și cumpărați un CD din micul magazin de suveniruri.",
+            "en": "Dive into the life of the legendary rebetiko musician Markos Vamvakaris, and pick up a CD in the small gift shop as a musical souvenir."
+          }
+        },
+        {
+          "name": {
+            "de": "KOIMETERIO TON AGGELON",
+            "hu": "KOIMETERIO TON AGGELON",
+            "ro": "KOIMETERIO TON AGGELON",
+            "en": "KOIMETERIO TON AGGELON"
+          },
+          "coords": [
+            24.934122,
+            37.453327
+          ],
+          "category": "landmark",
+          "arrive_at": "16:47",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Dieser historische Friedhof bietet tiefe emotionale Resonanz und atemberaubende Marmorskulpturen, also schlendern Sie leise, um die Architektur zu bewundern.",
+            "hu": "Ez a történelmi temető mély érzelmi rezonanciával és lenyűgöző márványszobrokkal rendelkezik, ezért sétáljon csendben a komor építészeti szépség értékeléséhez.",
+            "ro": "Acest cimitir istoric are o profundă rezonanță emoțională și sculpturi din marmură uimitoare, așa că plimbați-vă în liniște pentru a aprecia frumusețea sa arhitecturală sumbră.",
+            "en": "This historic cemetery holds deep emotional resonance and stunning marble sculptures, so wander quietly to appreciate its somber architectural beauty."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zum Bathu Gialoudi für einen ruhigen Küstenspaziergang im Morgenlicht und spüren Sie die entspannte Atmosphäre im Süden.\nFahren Sie zurück in die Stadt, tauchen Sie in das Industriemuseum und die Kykladen-Kunstgalerie ein, bevor Sie Ihr Auto abstellen.\nBesuchen Sie das zentrale Archäologische Museum und fahren Sie dann die steilen Hügel hinauf, um die beeindruckende Auferstehungskirche zu sehen.\nFahren Sie in die historischen oberen Viertel, besuchen Sie das Vamvakaris Museum und beenden Sie den Tag am stimmungsvollen Engelfriedhof.",
+        "hu": "Autózzon el Bathu Gialoudi felé egy békés tengerparti sétára a reggeli fényben, és érezze a sziget déli peremének nyugodt hangulatát.\nInduljon vissza a városba, merüljön el a hatalmas Ipari Múzeumban és a Művészeti Galériában, mielőtt egy időre letenné az autót.\nNézze meg a központi Régészeti Múzeumot, majd vezessen fel a meredek dombokra, hogy megcsodálja a lenyűgöző Feltámadás templomát.\nNavigáljon a történelmi felső negyedekbe, látogasson el a Vamvakaris Múzeumba, és fejezze be a napot a hangulatos Angyalok Temetőjében.",
+        "ro": "Conduceți spre Bathu Gialoudi pentru o plimbare liniștită pe coastă în lumina dimineții, simțind vibrația senină a marginii sudice a insulei.\nÎntoarceți-vă în oraș, scufundându-vă în Muzeul Industrial și Galeria de Artă a Cicladelor înainte de a lăsa mașina pentru un timp.\nVizitați Muzeul Arheologic central, apoi conduceți pe dealurile abrupte pentru a privi impresionanta Biserică a Învierii.\nNavigați către cartierele superioare istorice, vizitând Muzeul Vamvakaris și terminând ziua la evocatorul Cimitir al Îngerilor.",
+        "en": "Drive out to Bathu Gialoudi for a peaceful coastal walk in the morning light, feeling the serene vibe of the island's southern edge.\nHead back into town, diving into the extensive Industrial Museum and the Cyclades Art Gallery before leaving your car for a while.\nCheck out the central Archaeological Museum, then drive up the steep hills to gaze upon the impressive Church of Resurrection.\nNavigate to the historical upper quarters, visiting the Vamvakaris Museum and ending the day at the evocative Cemetery of Angels."
+      }
+    }
+  }
+}

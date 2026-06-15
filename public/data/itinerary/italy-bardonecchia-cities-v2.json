@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-bardonecchia-cities-v2",
+  "anchor": {
+    "name": "Bardonecchia",
+    "coords": [
+      6.703205,
+      45.078339
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 2.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Municipio di Bardonecchia",
+            "hu": "Municipio di Bardonecchia",
+            "ro": "Municipio di Bardonecchia",
+            "en": "Municipio di Bardonecchia"
+          },
+          "coords": [
+            6.70397,
+            45.078223
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das historische Rathaus, das den Mittelpunkt der Gemeinde bildet, achten Sie auf die alpine Architektur und prüfen Sie lokale Veranstaltungen.",
+            "hu": "Csodálja meg a közösség központját jelentő történelmi városházát és annak alpesi építészetét, majd ellenőrizze a helyi eseményeket a hirdetőtáblán.",
+            "ro": "Admirați primăria istorică ce reprezintă centrul comunității, remarcând arhitectura alpină, și verificați panoul informativ pentru evenimente locale.",
+            "en": "Admire the historic town hall that anchors the community, noting its alpine architecture, and check the notice board for local events before walking on."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo delle Feste",
+            "hu": "Palazzo delle Feste",
+            "ro": "Palazzo delle Feste",
+            "en": "Palazzo delle Feste"
+          },
+          "coords": [
+            6.69649,
+            45.076398
+          ],
+          "category": "castle",
+          "arrive_at": "10:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen eleganten Veranstaltungsort mit seinen markanten Jugendstilelementen und bringen Sie eine Kamera für die majestätische Bergkulisse mit.",
+            "hu": "Fedezze fel ezt a kulturális eseményekről és szecessziós stílusjegyeiről ismert elegáns helyszínt, és hozzon fényképezőgépet a fenséges hegyi háttérhez.",
+            "ro": "Explorați acest loc elegant, cunoscut pentru evenimente culturale și detalii Art Nouveau, având la voi o cameră pentru fundalul montan maiestuos.",
+            "en": "Explore this elegant venue known for cultural events and its striking art nouveau touches, bringing a camera to capture the majestic mountain backdrop."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo etnografico",
+            "hu": "Museo etnografico",
+            "ro": "Museo etnografico",
+            "en": "Museo etnografico"
+          },
+          "coords": [
+            6.697303,
+            45.08055
+          ],
+          "category": "museum",
+          "arrive_at": "12:07",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende lokale Geschichte und das traditionelle alpine Leben in diesen Ausstellungen, wobei Sie sich Zeit für die Holzschnitzereien nehmen.",
+            "hu": "Fedezze fel a lenyűgöző helyi történelmet és a hagyományos alpesi életet ezeken a kiállításokon, és szánjon extra időt a fafaragásokat bemutató részre.",
+            "ro": "Descoperiți istoria locală fascinantă și viața alpină tradițională expuse aici, alocând timp suplimentar pentru secțiunea detaliată a sculpturilor în lemn.",
+            "en": "Discover the fascinating local history and traditional alpine life displayed in these exhibits, allocating extra time for the intricate woodcarving section."
+          }
+        },
+        {
+          "name": {
+            "de": "San Rocco",
+            "hu": "San Rocco",
+            "ro": "San Rocco",
+            "en": "San Rocco"
+          },
+          "coords": [
+            6.692457,
+            45.081089
+          ],
+          "category": "religious",
+          "arrive_at": "13:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Moment an dieser charmanten religiösen Stätte, die die tiefen spirituellen Wurzeln der Gegend widerspiegelt, und achten Sie auf die Steinfassade.",
+            "hu": "Töltsön el egy békés pillanatot ezen a bájos vallási helyszínen, amely a térség mély spirituális gyökereit tükrözi, és figyelje meg a kőhomlokzat finom részleteit.",
+            "ro": "Petreceți un moment de liniște la acest lăcaș religios fermecător care reflectă rădăcinile spirituale adânci ale zonei, remarcând detaliile fațadei din piatră.",
+            "en": "Take a peaceful moment at this charming religious site that reflects the deep spiritual roots of the area, noting the fine details of the stone facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Tur d'Amun",
+            "hu": "Tur d'Amun",
+            "ro": "Tur d'Amun",
+            "en": "Tur d'Amun"
+          },
+          "coords": [
+            6.697285,
+            45.083584
+          ],
+          "category": "castle",
+          "arrive_at": "14:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Steigen Sie zu diesen alten Burgruinen hinauf, um die mittelalterliche Vergangenheit des Tals zu entdecken, und tragen Sie festes Schuhwerk für die unebenen Wege.",
+            "hu": "Másszon fel ehhez az ősi várromhoz, hogy felfedezze a völgy középkori múltját, és viseljen masszív cipőt az egyenetlen ösvényeken való biztonságos közlekedéshez.",
+            "ro": "Urcați la aceste ruine antice de castel pentru a descoperi trecutul medieval al văii, purtând încălțăminte robustă pentru a naviga în siguranță pe potecile inegale.",
+            "en": "Climb up to these ancient castle ruins to uncover the medieval past of the valley, wearing sturdy shoes to safely navigate the uneven pathways and steps."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro 19",
+            "hu": "Centro 19",
+            "ro": "Centro 19",
+            "en": "Centro 19"
+          },
+          "coords": [
+            6.703862,
+            45.082765
+          ],
+          "category": "fortress",
+          "arrive_at": "16:09",
+          "stay_min": 110,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diese historische Festung, die die strategische militärische Bedeutung der Region unterstreicht, und bringen Sie eine kleine Taschenlampe mit.",
+            "hu": "Vizsgálja meg ezt a történelmi erődítményt, amely a régió stratégiai katonai jelentőségét emeli ki, és hozzon magával egy kis zseblámpát a sötétebb sarkokhoz.",
+            "ro": "Investigați această fortificație istorică ce subliniază importanța militară strategică a regiunii și aduceți o lanternă mică pentru a vedea în colțurile întunecate.",
+            "en": "Investigate this historic fortification that highlights the region's strategic military importance, and bring a small flashlight to see into the darker corners."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt im Herzen von Bardonecchia mit der Entdeckung des historischen Rathauses und des eleganten Palazzo delle Feste. Gegen Mittag tauchen Sie im ethnografischen Museum in alpine Traditionen ein und finden Ruhe in San Rocco. Der Nachmittag bietet einen Aufstieg zu den alten Ruinen von Tur d'Amun mit spektakulärem Talblick. Am Abend endet Ihre Reise mit der Erkundung des militärischen Erbes im Centro 19.",
+        "hu": "A reggel Bardonecchia szívében indul, ahol felfedezi a történelmi városházát és az elegáns Palazzo delle Feste-t. Délben az etnográfiai múzeumban elmerül a helyi alpesi hagyományokban, majd megpihen a San Rocconál. A délután folyamán felmászik a Tur d'Amun ősi romjaihoz, lenyűgöző völgyi kilátással. Ahogy leszáll az est, az utazás a Centro 19 katonai örökségének felfedezésével zárul.",
+        "ro": "Dimineața începe în inima orașului Bardonecchia, descoperind primăria istorică și elegantul Palazzo delle Feste. La prânz, veți explora tradițiile alpine la muzeul etnografic și veți găsi liniște la San Rocco. După-amiaza include o urcare la ruinele antice Tur d'Amun, oferind vederi spectaculoase asupra văii. Odată cu lăsarea serii, călătoria se încheie cu explorarea moștenirii militare la Centro 19.",
+        "en": "Your morning starts in the heart of Bardonecchia, discovering the historic town hall and the elegant Palazzo delle Feste. By midday, you will delve into local alpine traditions at the ethnographic museum and find peace at San Rocco. The afternoon features a climb to the ancient Tur d'Amun ruins, offering spectacular valley views. As evening falls, your journey concludes exploring the military heritage at Centro 19."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Municipio di Bardonecchia",
+            "hu": "Municipio di Bardonecchia",
+            "ro": "Municipio di Bardonecchia",
+            "en": "Municipio di Bardonecchia"
+          },
+          "coords": [
+            6.70397,
+            45.078223
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das historische Rathaus, das den Mittelpunkt der Gemeinde bildet, achten Sie auf die alpine Architektur und prüfen Sie lokale Veranstaltungen.",
+            "hu": "Csodálja meg a közösség központját jelentő történelmi városházát és annak alpesi építészetét, majd ellenőrizze a helyi eseményeket a hirdetőtáblán.",
+            "ro": "Admirați primăria istorică ce reprezintă centrul comunității, remarcând arhitectura alpină, și verificați panoul informativ pentru evenimente locale.",
+            "en": "Admire the historic town hall that anchors the community, noting its alpine architecture, and check the notice board for local events before walking on."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo delle Feste",
+            "hu": "Palazzo delle Feste",
+            "ro": "Palazzo delle Feste",
+            "en": "Palazzo delle Feste"
+          },
+          "coords": [
+            6.69649,
+            45.076398
+          ],
+          "category": "castle",
+          "arrive_at": "10:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen eleganten Veranstaltungsort mit seinen markanten Jugendstilelementen und bringen Sie eine Kamera für die majestätische Bergkulisse mit.",
+            "hu": "Fedezze fel ezt a kulturális eseményekről és szecessziós stílusjegyeiről ismert elegáns helyszínt, és hozzon fényképezőgépet a fenséges hegyi háttérhez.",
+            "ro": "Explorați acest loc elegant, cunoscut pentru evenimente culturale și detalii Art Nouveau, având la voi o cameră pentru fundalul montan maiestuos.",
+            "en": "Explore this elegant venue known for cultural events and its striking art nouveau touches, bringing a camera to capture the majestic mountain backdrop."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo etnografico",
+            "hu": "Museo etnografico",
+            "ro": "Museo etnografico",
+            "en": "Museo etnografico"
+          },
+          "coords": [
+            6.697303,
+            45.08055
+          ],
+          "category": "museum",
+          "arrive_at": "11:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende lokale Geschichte und das traditionelle alpine Leben in diesen Ausstellungen, wobei Sie sich Zeit für die Holzschnitzereien nehmen.",
+            "hu": "Fedezze fel a lenyűgöző helyi történelmet és a hagyományos alpesi életet ezeken a kiállításokon, és szánjon extra időt a fafaragásokat bemutató részre.",
+            "ro": "Descoperiți istoria locală fascinantă și viața alpină tradițională expuse aici, alocând timp suplimentar pentru secțiunea detaliată a sculpturilor în lemn.",
+            "en": "Discover the fascinating local history and traditional alpine life displayed in these exhibits, allocating extra time for the intricate woodcarving section."
+          }
+        },
+        {
+          "name": {
+            "de": "Tur d'Amun",
+            "hu": "Tur d'Amun",
+            "ro": "Tur d'Amun",
+            "en": "Tur d'Amun"
+          },
+          "coords": [
+            6.697285,
+            45.083584
+          ],
+          "category": "castle",
+          "arrive_at": "13:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Steigen Sie zu diesen alten Burgruinen hinauf, um die mittelalterliche Vergangenheit des Tals zu entdecken, und tragen Sie festes Schuhwerk für die unebenen Wege.",
+            "hu": "Másszon fel ehhez az ősi várromhoz, hogy felfedezze a völgy középkori múltját, és viseljen masszív cipőt az egyenetlen ösvényeken való biztonságos közlekedéshez.",
+            "ro": "Urcați la aceste ruine antice de castel pentru a descoperi trecutul medieval al văii, purtând încălțăminte robustă pentru a naviga în siguranță pe potecile inegale.",
+            "en": "Climb up to these ancient castle ruins to uncover the medieval past of the valley, wearing sturdy shoes to safely navigate the uneven pathways and steps."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Forte di Bramafam",
+            "hu": "Museo del Forte di Bramafam",
+            "ro": "Museo del Forte di Bramafam",
+            "en": "Museo del Forte di Bramafam"
+          },
+          "coords": [
+            6.710892,
+            45.070891
+          ],
+          "category": "museum",
+          "arrive_at": "15:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem beeindruckenden Bergfort in umfangreiche militärische Ausstellungen ein und prüfen Sie vorab die saisonalen Öffnungszeiten für vollen Zugang.",
+            "hu": "Merüljön el a kiterjedt katonai kiállításokban ebben a lenyűgöző felújított hegyi erődben, és előzetesen ellenőrizze a szezonális nyitvatartási időt.",
+            "ro": "Pătrundeți în expozițiile militare detaliate la acest fort montan restaurat impresionant, verificând în prealabil programul sezonier pentru a asigura accesul.",
+            "en": "Delve into extensive military exhibits at this impressive restored mountain fort, checking the seasonal opening hours beforehand to ensure full access."
+          }
+        },
+        {
+          "name": {
+            "de": "San Giuseppe",
+            "hu": "San Giuseppe",
+            "ro": "San Giuseppe",
+            "en": "San Giuseppe"
+          },
+          "coords": [
+            6.719856,
+            45.071718
+          ],
+          "category": "religious",
+          "arrive_at": "16:55",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die einfache, aber schöne Architektur dieser lokalen, dem Heiligen Josef gewidmeten Kirche und genießen Sie einen Moment der Ruhe in der Umgebung.",
+            "hu": "Csodálja meg a Szent Józsefnek szentelt helyi templom egyszerű, de gyönyörű építészetét, és szánjon egy pillanatot a nyugodt környező táj értékelésére.",
+            "ro": "Admirați arhitectura simplă, dar frumoasă a acestei biserici locale dedicate Sfântului Iosif, luându-vă un moment pentru a aprecia peisajul senin din jur.",
+            "en": "Admire the simple yet beautiful architecture of this local church dedicated to Saint Joseph, taking a moment to appreciate the serene surrounding landscape."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag entspannt am zentralen Rathaus, bevor Sie zum ikonischen Palazzo delle Feste gleiten. Ihre Mittagsfahrt führt Sie zum ethnografischen Museum und hinauf zum Tur d'Amun für eine historische Perspektive. Am Nachmittag radeln Sie zum beeindruckenden Forte di Bramafam, um alpine Verteidigungsanlagen zu sehen. Der Abend bringt einen entspannten Abschluss an der friedlichen Kirche San Giuseppe.",
+        "hu": "Kezdje a kerékpáros napot a központi városházánál, majd guruljon át az ikonikus Palazzo delle Feste épületéhez. A déli utazás az etnográfiai múzeumon keresztül a magasan fekvő Tur d'Amun történelmi perspektívájához vezet. Délután tekerjen el a lenyűgöző Forte di Bramafamhoz, hogy tanúja legyen a monumentális alpesi védelemnek. Az este nyugodt befejezést kínál a békés San Giuseppe templomnál.",
+        "ro": "Începeți ziua de ciclism la primăria centrală înainte de a pedala spre iconicul Palazzo delle Feste. Plimbarea de la prânz vă poartă prin muzeul etnografic și sus la Tur d'Amun pentru o perspectivă istorică. După-amiaza, pedalați spre impresionantul Forte di Bramafam pentru a vedea apărările alpine monumentale. Seara aduce o relaxare binemeritată la pașnica biserică San Giuseppe.",
+        "en": "Kick off your cycling day smoothly at the central town hall before gliding over to the iconic Palazzo delle Feste. Your midday ride takes you through the local ethnographic museum and up to the elevated Tur d'Amun for a historical perspective. In the afternoon, pedal out to the impressive Forte di Bramafam to witness monumental alpine defenses. The evening brings a relaxing coastal breeze as you finish at the peaceful San Giuseppe."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:33",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo etnografico",
+            "hu": "Museo etnografico",
+            "ro": "Museo etnografico",
+            "en": "Museo etnografico"
+          },
+          "coords": [
+            6.697303,
+            45.08055
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende lokale Geschichte und das traditionelle alpine Leben in diesen Ausstellungen, wobei Sie sich Zeit für die Holzschnitzereien nehmen.",
+            "hu": "Fedezze fel a lenyűgöző helyi történelmet és a hagyományos alpesi életet ezeken a kiállításokon, és szánjon extra időt a fafaragásokat bemutató részre.",
+            "ro": "Descoperiți istoria locală fascinantă și viața alpină tradițională expuse aici, alocând timp suplimentar pentru secțiunea detaliată a sculpturilor în lemn.",
+            "en": "Discover the fascinating local history and traditional alpine life displayed in these exhibits, allocating extra time for the intricate woodcarving section."
+          }
+        },
+        {
+          "name": {
+            "de": "Tur d'Amun",
+            "hu": "Tur d'Amun",
+            "ro": "Tur d'Amun",
+            "en": "Tur d'Amun"
+          },
+          "coords": [
+            6.697285,
+            45.083584
+          ],
+          "category": "castle",
+          "arrive_at": "10:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Steigen Sie zu diesen alten Burgruinen hinauf, um die mittelalterliche Vergangenheit des Tals zu entdecken, und tragen Sie festes Schuhwerk für die unebenen Wege.",
+            "hu": "Másszon fel ehhez az ősi várromhoz, hogy felfedezze a völgy középkori múltját, és viseljen masszív cipőt az egyenetlen ösvényeken való biztonságos közlekedéshez.",
+            "ro": "Urcați la aceste ruine antice de castel pentru a descoperi trecutul medieval al văii, purtând încălțăminte robustă pentru a naviga în siguranță pe potecile inegale.",
+            "en": "Climb up to these ancient castle ruins to uncover the medieval past of the valley, wearing sturdy shoes to safely navigate the uneven pathways and steps."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Forte di Bramafam",
+            "hu": "Museo del Forte di Bramafam",
+            "ro": "Museo del Forte di Bramafam",
+            "en": "Museo del Forte di Bramafam"
+          },
+          "coords": [
+            6.710892,
+            45.070891
+          ],
+          "category": "museum",
+          "arrive_at": "12:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem beeindruckenden Bergfort in umfangreiche militärische Ausstellungen ein und prüfen Sie vorab die saisonalen Öffnungszeiten für vollen Zugang.",
+            "hu": "Merüljön el a kiterjedt katonai kiállításokban ebben a lenyűgöző felújított hegyi erődben, és előzetesen ellenőrizze a szezonális nyitvatartási időt.",
+            "ro": "Pătrundeți în expozițiile militare detaliate la acest fort montan restaurat impresionant, verificând în prealabil programul sezonier pentru a asigura accesul.",
+            "en": "Delve into extensive military exhibits at this impressive restored mountain fort, checking the seasonal opening hours beforehand to ensure full access."
+          }
+        },
+        {
+          "name": {
+            "de": "Cappella Notre Dame du Coignet",
+            "hu": "Cappella Notre Dame du Coignet",
+            "ro": "Cappella Notre Dame du Coignet",
+            "en": "Cappella Notre Dame du Coignet"
+          },
+          "coords": [
+            6.692031,
+            45.064379
+          ],
+          "category": "religious",
+          "arrive_at": "14:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese exquisite, in der Alpenlandschaft versteckte Kapelle, um die bemerkenswerten Fresken zu sehen, und nähern Sie sich leise, um die Ruhe zu wahren.",
+            "hu": "Látogasson el ebbe az alpesi tájban megbúvó gyönyörű kápolnába, hogy megtekintse figyelemreméltó történelmi freskóit, és csendben közeledjen a nyugalom tiszteletben tartása végett.",
+            "ro": "Vizitați această capelă rafinată ascunsă în decorul alpin pentru a vedea frescele sale istorice remarcabile, apropiindu-vă în liniște pentru a respecta atmosfera.",
+            "en": "Visit this exquisite chapel hidden in the alpine scenery to see its remarkable historical frescoes, approaching quietly to respect the tranquil atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa Parrocchiale di Sant'Antonio Abate",
+            "hu": "Chiesa Parrocchiale di Sant'Antonio Abate",
+            "ro": "Chiesa Parrocchiale di Sant'Antonio Abate",
+            "en": "Chiesa Parrocchiale di Sant'Antonio Abate"
+          },
+          "coords": [
+            6.684326,
+            45.060952
+          ],
+          "category": "religious",
+          "arrive_at": "14:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das aufwendige Innere dieser Pfarrkirche, die den Gläubigen seit Jahrhunderten dient, und betrachten Sie das wunderschön gefertigte hölzerne Altarbild.",
+            "hu": "Csodálja meg e plébániatemplom kidolgozott belső terét, amely évszázadok óta szolgálja a helyi híveket, és figyelje meg a gyönyörűen megmunkált fa oltárképet.",
+            "ro": "Minunați-vă de interiorul elaborat al acestei biserici parohiale ce a servit credincioșii timp de secole, observând altarul din lemn frumos lucrat.",
+            "en": "Marvel at the elaborate interior of this parish church that has served the local faithful for centuries, observing the beautifully crafted wooden altarpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Cappella di San Pietro",
+            "hu": "Cappella di San Pietro",
+            "ro": "Cappella di San Pietro",
+            "en": "Cappella di San Pietro"
+          },
+          "coords": [
+            6.68677,
+            45.06308
+          ],
+          "category": "religious",
+          "arrive_at": "15:23",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre historische Tour an dieser bescheidenen Kapelle zwischen traditionellen Häusern und genießen Sie die authentische Dorfatmosphäre, bevor Sie ein Café aufsuchen.",
+            "hu": "Fejezze be történelmi túráját ennél a hagyományos házak között megbúvó szerény kápolnánál, élvezve az autentikus falusi hangulatot, mielőtt beülne egy kávézóba.",
+            "ro": "Încheiați-vă turul istoric la această capelă modestă amplasată printre casele tradiționale, bucurându-vă de atmosfera autentică a satului înainte de a merge la o cafenea.",
+            "en": "End your historical tour at this modest chapel nestled among the traditional houses, enjoying the authentic village vibe before heading to a local cafe."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour mit der alpinen Kultur im ethnografischen Museum, gefolgt von einer kurzen Fahrt zu den Ruinen von Tur d'Amun. Mittags erreichen Sie bequem das gewaltige Forte di Bramafam, wo Militärgeschichte die Landschaft prägt. Der Nachmittag verlagert sich an die malerischen westlichen Ränder, um die Fresken von Notre Dame du Coignet und Sant'Antonio Abate zu erkunden. Ihr Abend klingt angenehm an der malerischen Cappella di San Pietro aus.",
+        "hu": "Kezdje autós túráját az alpesi kultúra elmerülésével az etnográfiai múzeumban, majd vezessen a Tur d'Amun romjaihoz. Délben könnyedén elérheti a hatalmas Forte di Bramafamot, ahol a hadtörténet uralja a tájat. A délután a festői nyugati peremekre helyeződik át, a Notre Dame du Coignet és a Sant'Antonio Abate freskóinak felfedezésével. Az estéje kellemesen zárul a furcsa Cappella di San Pietro mellett.",
+        "ro": "Începeți turul cu mașina explorând cultura alpină la muzeul etnografic, urmat de o scurtă călătorie la ruinele Tur d'Amun. La prânz, ajungeți ușor la masivul Forte di Bramafam, unde istoria militară domină peisajul. După-amiaza se mută pe marginile vestice pitorești, explorând frescele de la Notre Dame du Coignet și Sant'Antonio Abate. Seara se încheie plăcut la pitoreasca Cappella di San Pietro.",
+        "en": "Start your driving tour delving into alpine culture at the ethnographic museum, followed by a quick drive to the Tur d'Amun ruins. Midday allows you to easily reach the massive Forte di Bramafam, where military history dominates the landscape. The afternoon shifts to the scenic western edges, exploring the stunning frescoes of Notre Dame du Coignet and Sant'Antonio Abate. Your evening winds down pleasantly at the quaint Cappella di San Pietro."
+      }
+    }
+  }
+}

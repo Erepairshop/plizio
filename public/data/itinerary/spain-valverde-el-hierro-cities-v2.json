@@ -1,0 +1,497 @@
+{
+  "city_id": "spain-valverde-el-hierro-cities-v2",
+  "anchor": {
+    "name": "Valverde",
+    "coords": [
+      -17.915147,
+      27.809685
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 2.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Centro Cultural y Teatro Asabanos",
+            "hu": "Centro Cultural y Teatro Asabanos",
+            "ro": "Centro Cultural y Teatro Asabanos",
+            "en": "Centro Cultural y Teatro Asabanos"
+          },
+          "coords": [
+            -17.910975,
+            27.81335
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses historische Zentrum, das Herz des kulturellen Lebens von Valverde, wo Sie regionale Ausstellungen am besten früh morgens ohne Menschenmassen erleben können.",
+            "hu": "Látogassa meg ezt a kulturális központot, amely Valverde művészeti életének szíve, és érdemes korán érkezni a zavartalan kiállításnézéshez.",
+            "ro": "Vizitați acest centru cultural istoric, inima vieții artistice din Valverde, unde expozițiile regionale se văd cel mai bine dimineața devreme.",
+            "en": "Visit this historical cultural center, the heart of Valverde's arts scene, where you should arrive early to enjoy regional exhibitions without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuestra Señora de la Concepción",
+            "hu": "Nuestra Señora de la Concepción",
+            "ro": "Nuestra Señora de la Concepción",
+            "en": "Nuestra Señora de la Concepción"
+          },
+          "coords": [
+            -17.914369,
+            27.807544
+          ],
+          "category": "historical",
+          "arrive_at": "10:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese ikonische Kirche aus dem 18. Jahrhundert mit ihrer traditionellen kanarischen Architektur, achten Sie aber auf angemessene Kleidung beim Eintreten.",
+            "hu": "Csodálja meg ezt az ikonikus, 18. századi templomot hagyományos kanári építészetével, de ügyeljen a megfelelő öltözékre a belépéskor.",
+            "ro": "Admirați această biserică emblematică din secolul al XVIII-lea cu arhitectură tradițională canariană, dar asigurați-vă că purtați haine adecvate la intrare.",
+            "en": "Admire this iconic 18th-century church with its traditional Canarian architecture, but ensure you wear respectful clothing before stepping inside."
+          }
+        },
+        {
+          "name": {
+            "de": "El Casino de Valverde",
+            "hu": "El Casino de Valverde",
+            "ro": "El Casino de Valverde",
+            "en": "El Casino de Valverde"
+          },
+          "coords": [
+            -17.914978,
+            27.806097
+          ],
+          "category": "cultural",
+          "arrive_at": "11:44",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses klassische Gebäude, das einst als sozialer Treffpunkt der Elite diente, und trinken Sie einen Kaffee im nahegelegenen Platz, um die Atmosphäre zu genießen.",
+            "hu": "Fedezze fel ezt a klasszikus épületet, amely egykor az elit társadalmi központja volt, és igyon egy kávét a közeli téren a hangulat kedvéért.",
+            "ro": "Descoperiți această clădire clasică care servea drept loc de întâlnire pentru elită și beți o cafea în piața din apropiere pentru a savura atmosfera.",
+            "en": "Discover this classic building that once served as a social hub for the local elite, and grab a coffee at the nearby square to soak in the atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro etnográfico Casa de Las Quinteras",
+            "hu": "Centro etnográfico Casa de Las Quinteras",
+            "ro": "Centro etnográfico Casa de Las Quinteras",
+            "en": "Centro etnográfico Casa de Las Quinteras"
+          },
+          "coords": [
+            -17.91698,
+            27.80568
+          ],
+          "category": "museum",
+          "arrive_at": "12:47",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem faszinierenden Museum in die traditionelle Handwerkskunst von El Hierro ein, wobei Sie für die detaillierten Webarbeiten eine Lupe oder gute Brille mitbringen sollten.",
+            "hu": "Merüljön el El Hierro hagyományos kézművességében ebben a lenyűgöző múzeumban, amihez érdemes magával hoznia az olvasószemüvegét a finom szőttesek miatt.",
+            "ro": "Explorați meșteșugurile tradiționale ale insulei El Hierro în acest muzeu fascinant, unde ochelarii de citit vă vor ajuta să vedeți detaliile textilelor.",
+            "en": "Dive into the traditional craftsmanship of El Hierro in this fascinating museum, where bringing reading glasses will help you appreciate the intricate textiles."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de las Pernadas",
+            "hu": "Mirador de las Pernadas",
+            "ro": "Mirador de las Pernadas",
+            "en": "Mirador de las Pernadas"
+          },
+          "coords": [
+            -17.908602,
+            27.818042
+          ],
+          "category": "natural",
+          "arrive_at": "14:50",
+          "stay_min": 55,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem Aussichtspunkt den atemberaubenden Panoramablick auf die Küste, vergessen Sie jedoch nicht, eine windfeste Jacke für den starken Nachmittagswind einzupacken.",
+            "hu": "Élvezze a lélegzetelállító panorámát a tengerpartra erről a kilátóról, de ne felejtsen el szélálló kabátot csomagolni az erős délutáni szél miatt.",
+            "ro": "Bucurați-vă de priveliștile panoramice uimitoare ale coastei de la acest punct de belvedere, dar nu uitați să luați o jachetă rezistentă la vânt.",
+            "en": "Enjoy breathtaking panoramic coastal views from this scenic viewpoint, but make sure to pack a windproof jacket for the strong afternoon breezes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie Ihren Tag im Herzen von Valverde und spüren Sie den historischen Puls der Hauptstadt, während Sie an kolonialer Architektur und alten Kirchen vorbeispazieren.\n\nMittag: Wenn die Sonne höher steigt, tauchen Sie in die reichen ethnografischen Traditionen von El Hierro ein und entdecken das lebendige Erbe der Insel.\n\nNachmittag: Richten Sie Ihren Blick auf die einzigartige Geologie der Insel, indem Sie spektakuläre Aussichtspunkte und raue Küstenwunder besuchen.\n\nAbend: Lassen Sie den Tag mit einer frischen Meeresbrise ausklingen und bewundern Sie die vulkanische Schönheit der Kanaren, wenn die Dämmerung hereinbricht.",
+        "hu": "Reggel: Kezdje a napot Valverde szívében, érezve a főváros történelmi lüktetését, miközben gyarmati épületek és ikonikus templomok mellett sétál el.\n\nDél: Ahogy a nap egyre magasabbra hág, merüljön el El Hierro gazdag néprajzi hagyományaiban, és fedezze fel a helyiek mindennapi szigeti örökségét.\n\nDélután: Fordítsa figyelmét a sziget egyedülálló geológiája felé, látogasson el a lenyűgöző kilátókhoz és a tengerpart természeti csodáihoz.\n\nEste: Zárja utazását a friss óceáni szellőt élvezve, és gyönyörködjön a Kanári-szigetek vulkáni szépségében, ahogy leszáll az alkonyat a drámai sziklákon.",
+        "ro": "Dimineață: Începeți ziua explorând inima orașului Valverde, simțind pulsul istoric al capitalei în timp ce treceți pe lângă arhitectura colonială și bisericile emblematice.\n\nPrânz: Pe măsură ce soarele urcă, explorați tradițiile etnografice bogate din El Hierro, descoperind modul în care localnicii și-au păstrat moștenirea.\n\nDupă-amiază: Îndreptați-vă atenția spre geologia unică a insulei și peisajele sale vaste, vizitând puncte de belvedere spectaculoase și minuni de coastă.\n\nSeară: Încheiați-vă călătoria bucurându-vă de briza proaspătă a oceanului, reflectând la frumusețea vulcanică a Canarelor la lăsarea serii.",
+        "en": "Morning: Start your day exploring the heart of Valverde, feeling the historical pulse of the capital as you walk past colonial architecture and iconic churches.\n\nMidday: As the sun climbs, delve deep into the rich ethnographic traditions of El Hierro, discovering how locals have woven their heritage into everyday island life.\n\nAfternoon: Shift your focus toward the island's unique geology and sweeping landscapes, visiting spectacular viewpoints and coastal wonders.\n\nEvening: Conclude your journey by taking in the fresh ocean breeze, reflecting on the volcanic beauty of the Canary Islands as twilight settles over the dramatic cliffs."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 2.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mirador de las Pernadas",
+            "hu": "Mirador de las Pernadas",
+            "ro": "Mirador de las Pernadas",
+            "en": "Mirador de las Pernadas"
+          },
+          "coords": [
+            -17.908602,
+            27.818042
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem Aussichtspunkt den atemberaubenden Panoramablick auf die Küste, vergessen Sie jedoch nicht, eine windfeste Jacke für den starken Nachmittagswind einzupacken.",
+            "hu": "Élvezze a lélegzetelállító panorámát a tengerpartra erről a kilátóról, de ne felejtsen el szélálló kabátot csomagolni az erős délutáni szél miatt.",
+            "ro": "Bucurați-vă de priveliștile panoramice uimitoare ale coastei de la acest punct de belvedere, dar nu uitați să luați o jachetă rezistentă la vânt.",
+            "en": "Enjoy breathtaking panoramic coastal views from this scenic viewpoint, but make sure to pack a windproof jacket for the strong afternoon breezes."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Cultural y Teatro Asabanos",
+            "hu": "Centro Cultural y Teatro Asabanos",
+            "ro": "Centro Cultural y Teatro Asabanos",
+            "en": "Centro Cultural y Teatro Asabanos"
+          },
+          "coords": [
+            -17.910975,
+            27.81335
+          ],
+          "category": "cultural",
+          "arrive_at": "09:38",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses historische Zentrum, das Herz des kulturellen Lebens von Valverde, wo Sie regionale Ausstellungen am besten früh morgens ohne Menschenmassen erleben können.",
+            "hu": "Látogassa meg ezt a kulturális központot, amely Valverde művészeti életének szíve, és érdemes korán érkezni a zavartalan kiállításnézéshez.",
+            "ro": "Vizitați acest centru cultural istoric, inima vieții artistice din Valverde, unde expozițiile regionale se văd cel mai bine dimineața devreme.",
+            "en": "Visit this historical cultural center, the heart of Valverde's arts scene, where you should arrive early to enjoy regional exhibitions without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuestra Señora de la Concepción",
+            "hu": "Nuestra Señora de la Concepción",
+            "ro": "Nuestra Señora de la Concepción",
+            "en": "Nuestra Señora de la Concepción"
+          },
+          "coords": [
+            -17.914369,
+            27.807544
+          ],
+          "category": "historical",
+          "arrive_at": "10:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese ikonische Kirche aus dem 18. Jahrhundert mit ihrer traditionellen kanarischen Architektur, achten Sie aber auf angemessene Kleidung beim Eintreten.",
+            "hu": "Csodálja meg ezt az ikonikus, 18. századi templomot hagyományos kanári építészetével, de ügyeljen a megfelelő öltözékre a belépéskor.",
+            "ro": "Admirați această biserică emblematică din secolul al XVIII-lea cu arhitectură tradițională canariană, dar asigurați-vă că purtați haine adecvate la intrare.",
+            "en": "Admire this iconic 18th-century church with its traditional Canarian architecture, but ensure you wear respectful clothing before stepping inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro etnográfico Casa de Las Quinteras",
+            "hu": "Centro etnográfico Casa de Las Quinteras",
+            "ro": "Centro etnográfico Casa de Las Quinteras",
+            "en": "Centro etnográfico Casa de Las Quinteras"
+          },
+          "coords": [
+            -17.91698,
+            27.80568
+          ],
+          "category": "museum",
+          "arrive_at": "12:04",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem faszinierenden Museum in die traditionelle Handwerkskunst von El Hierro ein, wobei Sie für die detaillierten Webarbeiten eine Lupe oder gute Brille mitbringen sollten.",
+            "hu": "Merüljön el El Hierro hagyományos kézművességében ebben a lenyűgöző múzeumban, amihez érdemes magával hoznia az olvasószemüvegét a finom szőttesek miatt.",
+            "ro": "Explorați meșteșugurile tradiționale ale insulei El Hierro în acest muzeu fascinant, unde ochelarii de citit vă vor ajuta să vedeți detaliile textilelor.",
+            "en": "Dive into the traditional craftsmanship of El Hierro in this fascinating museum, where bringing reading glasses will help you appreciate the intricate textiles."
+          }
+        },
+        {
+          "name": {
+            "de": "Cueva de la Pólvora",
+            "hu": "Cueva de la Pólvora",
+            "ro": "Cueva de la Pólvora",
+            "en": "Cueva de la Pólvora"
+          },
+          "coords": [
+            -17.913532,
+            27.800791
+          ],
+          "category": "landmark",
+          "arrive_at": "13:47",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende historische vulkanische Höhle, die einst als Pulvermagazin diente, und nehmen Sie unbedingt eine Taschenlampe für die dunkleren Ecken mit.",
+            "hu": "Fedezze fel ezt a lenyűgöző, egykor lőporraktárként szolgáló vulkáni barlangot, és feltétlenül vigyen magával zseblámpát a sötétebb sarkokhoz.",
+            "ro": "Explorați această peșteră vulcanică istorică, folosită odinioară ca depozit de pulbere, și luați neapărat o lanternă pentru a vedea colțurile întunecate.",
+            "en": "Explore this fascinating historical volcanic cave once used as a gunpowder magazine, and be sure to bring a flashlight to illuminate its darker corners."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador del Parque Eólico",
+            "hu": "Mirador del Parque Eólico",
+            "ro": "Mirador del Parque Eólico",
+            "en": "Mirador del Parque Eólico"
+          },
+          "coords": [
+            -17.917533,
+            27.798363
+          ],
+          "category": "natural",
+          "arrive_at": "14:50",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie hier die innovativen Windkraftanlagen, die die Insel mit erneuerbarer Energie versorgen, am besten bei Sonnenuntergang für spektakuläre Fotos.",
+            "hu": "Csodálja meg az innovatív szélturbinákat, amelyek megújuló energiával látják el a szigetet, a legszebb fotókat pedig naplementekor készítheti.",
+            "ro": "Admirați aici turbinele eoliene inovatoare care alimentează insula cu energie regenerabilă, apusul fiind momentul ideal pentru fotografii spectaculoase.",
+            "en": "Marvel at the innovative wind turbines providing the island with renewable energy, visiting at sunset to capture truly spectacular landscape photographs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie Ihren Tag im Herzen von Valverde und spüren Sie den historischen Puls der Hauptstadt, während Sie an kolonialer Architektur und alten Kirchen vorbeispazieren.\n\nMittag: Wenn die Sonne höher steigt, tauchen Sie in die reichen ethnografischen Traditionen von El Hierro ein und entdecken das lebendige Erbe der Insel.\n\nNachmittag: Richten Sie Ihren Blick auf die einzigartige Geologie der Insel, indem Sie spektakuläre Aussichtspunkte und raue Küstenwunder besuchen.\n\nAbend: Lassen Sie den Tag mit einer frischen Meeresbrise ausklingen und bewundern Sie die vulkanische Schönheit der Kanaren, wenn die Dämmerung hereinbricht.",
+        "hu": "Reggel: Kezdje a napot Valverde szívében, érezve a főváros történelmi lüktetését, miközben gyarmati épületek és ikonikus templomok mellett sétál el.\n\nDél: Ahogy a nap egyre magasabbra hág, merüljön el El Hierro gazdag néprajzi hagyományaiban, és fedezze fel a helyiek mindennapi szigeti örökségét.\n\nDélután: Fordítsa figyelmét a sziget egyedülálló geológiája felé, látogasson el a lenyűgöző kilátókhoz és a tengerpart természeti csodáihoz.\n\nEste: Zárja utazását a friss óceáni szellőt élvezve, és gyönyörködjön a Kanári-szigetek vulkáni szépségében, ahogy leszáll az alkonyat a drámai sziklákon.",
+        "ro": "Dimineață: Începeți ziua explorând inima orașului Valverde, simțind pulsul istoric al capitalei în timp ce treceți pe lângă arhitectura colonială și bisericile emblematice.\n\nPrânz: Pe măsură ce soarele urcă, explorați tradițiile etnografice bogate din El Hierro, descoperind modul în care localnicii și-au păstrat moștenirea.\n\nDupă-amiază: Îndreptați-vă atenția spre geologia unică a insulei și peisajele sale vaste, vizitând puncte de belvedere spectaculoase și minuni de coastă.\n\nSeară: Încheiați-vă călătoria bucurându-vă de briza proaspătă a oceanului, reflectând la frumusețea vulcanică a Canarelor la lăsarea serii.",
+        "en": "Morning: Start your day exploring the heart of Valverde, feeling the historical pulse of the capital as you walk past colonial architecture and iconic churches.\n\nMidday: As the sun climbs, delve deep into the rich ethnographic traditions of El Hierro, discovering how locals have woven their heritage into everyday island life.\n\nAfternoon: Shift your focus toward the island's unique geology and sweeping landscapes, visiting spectacular viewpoints and coastal wonders.\n\nEvening: Conclude your journey by taking in the fresh ocean breeze, reflecting on the volcanic beauty of the Canary Islands as twilight settles over the dramatic cliffs."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:36",
+      "total_km": 9.9,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Falla de San Andrés",
+            "hu": "Falla de San Andrés",
+            "ro": "Falla de San Andrés",
+            "en": "Falla de San Andrés"
+          },
+          "coords": [
+            -17.921976,
+            27.788601
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie an diesem Naturdenkmal die geologischen Verwerfungen der Insel aus nächster Nähe, wobei festes Schuhwerk für den unebenen Boden unerlässlich ist.",
+            "hu": "Figyelje meg testközelből a sziget geológiai törésvonalait ennél a természeti emlékműnél, amelyhez masszív túracipő viselése elengedhetetlen.",
+            "ro": "Observați de aproape faliile geologice ale insulei la acest monument natural, încălțămintea robustă fiind esențială pentru terenul accidentat.",
+            "en": "Observe the island's impressive geological fault lines up close at this natural monument, where wearing sturdy hiking boots is essential for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Punta de Tigirote",
+            "hu": "Punta de Tigirote",
+            "ro": "Punta de Tigirote",
+            "en": "Punta de Tigirote"
+          },
+          "coords": [
+            -17.9284,
+            27.787354
+          ],
+          "category": "natural",
+          "arrive_at": "10:11",
+          "stay_min": 45,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erleben Sie die raue Schönheit der Vulkanküste an dieser abgelegenen Landspitze, bleiben Sie jedoch wegen der unberechenbaren Wellen unbedingt auf den markierten Pfaden.",
+            "hu": "Tapasztalja meg a vulkáni partvidék zord szépségét ezen a távoli fokon, de a kiszámíthatatlan hullámok miatt maradjon a kijelölt ösvényeken.",
+            "ro": "Experimentați frumusețea aspră a coastei vulcanice la acest promontoriu izolat, dar rămâneți pe potecile marcate din cauza valurilor imprevizibile.",
+            "en": "Experience the rugged beauty of the volcanic coastline at this remote headland, but make sure to stay on marked trails due to unpredictable waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de La Estaca",
+            "hu": "Mirador de La Estaca",
+            "ro": "Mirador de La Estaca",
+            "en": "Mirador de La Estaca"
+          },
+          "coords": [
+            -17.903992,
+            27.786293
+          ],
+          "category": "natural",
+          "arrive_at": "11:01",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Blicken Sie von diesem Aussichtspunkt auf den malerischen Hafen hinab und nutzen Sie ein Fernglas, um die ankommenden kleinen Fischerboote zu beobachten.",
+            "hu": "Tekintsen le a festői kikötőre erről a kilátóról, és használjon távcsövet, hogy megfigyelhesse az érkező apró halászhajókat.",
+            "ro": "Priviți în jos spre portul pitoresc de la acest punct de observație și folosiți un binoclu pentru a observa micile bărci de pescari care sosesc.",
+            "en": "Gaze down at the picturesque harbor from this elevated viewpoint, and bring binoculars to easily spot the incoming small fishing boats."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro etnográfico Casa de Las Quinteras",
+            "hu": "Centro etnográfico Casa de Las Quinteras",
+            "ro": "Centro etnográfico Casa de Las Quinteras",
+            "en": "Centro etnográfico Casa de Las Quinteras"
+          },
+          "coords": [
+            -17.91698,
+            27.80568
+          ],
+          "category": "museum",
+          "arrive_at": "11:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem faszinierenden Museum in die traditionelle Handwerkskunst von El Hierro ein, wobei Sie für die detaillierten Webarbeiten eine Lupe oder gute Brille mitbringen sollten.",
+            "hu": "Merüljön el El Hierro hagyományos kézművességében ebben a lenyűgöző múzeumban, amihez érdemes magával hoznia az olvasószemüvegét a finom szőttesek miatt.",
+            "ro": "Explorați meșteșugurile tradiționale ale insulei El Hierro în acest muzeu fascinant, unde ochelarii de citit vă vor ajuta să vedeți detaliile textilelor.",
+            "en": "Dive into the traditional craftsmanship of El Hierro in this fascinating museum, where bringing reading glasses will help you appreciate the intricate textiles."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuestra Señora de la Concepción",
+            "hu": "Nuestra Señora de la Concepción",
+            "ro": "Nuestra Señora de la Concepción",
+            "en": "Nuestra Señora de la Concepción"
+          },
+          "coords": [
+            -17.914369,
+            27.807544
+          ],
+          "category": "historical",
+          "arrive_at": "13:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese ikonische Kirche aus dem 18. Jahrhundert mit ihrer traditionellen kanarischen Architektur, achten Sie aber auf angemessene Kleidung beim Eintreten.",
+            "hu": "Csodálja meg ezt az ikonikus, 18. századi templomot hagyományos kanári építészetével, de ügyeljen a megfelelő öltözékre a belépéskor.",
+            "ro": "Admirați această biserică emblematică din secolul al XVIII-lea cu arhitectură tradițională canariană, dar asigurați-vă că purtați haine adecvate la intrare.",
+            "en": "Admire this iconic 18th-century church with its traditional Canarian architecture, but ensure you wear respectful clothing before stepping inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Cultural y Teatro Asabanos",
+            "hu": "Centro Cultural y Teatro Asabanos",
+            "ro": "Centro Cultural y Teatro Asabanos",
+            "en": "Centro Cultural y Teatro Asabanos"
+          },
+          "coords": [
+            -17.910975,
+            27.81335
+          ],
+          "category": "cultural",
+          "arrive_at": "14:34",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses historische Zentrum, das Herz des kulturellen Lebens von Valverde, wo Sie regionale Ausstellungen am besten früh morgens ohne Menschenmassen erleben können.",
+            "hu": "Látogassa meg ezt a kulturális központot, amely Valverde művészeti életének szíve, és érdemes korán érkezni a zavartalan kiállításnézéshez.",
+            "ro": "Vizitați acest centru cultural istoric, inima vieții artistice din Valverde, unde expozițiile regionale se văd cel mai bine dimineața devreme.",
+            "en": "Visit this historical cultural center, the heart of Valverde's arts scene, where you should arrive early to enjoy regional exhibitions without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de las Pernadas",
+            "hu": "Mirador de las Pernadas",
+            "ro": "Mirador de las Pernadas",
+            "en": "Mirador de las Pernadas"
+          },
+          "coords": [
+            -17.908602,
+            27.818042
+          ],
+          "category": "natural",
+          "arrive_at": "15:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem Aussichtspunkt den atemberaubenden Panoramablick auf die Küste, vergessen Sie jedoch nicht, eine windfeste Jacke für den starken Nachmittagswind einzupacken.",
+            "hu": "Élvezze a lélegzetelállító panorámát a tengerpartra erről a kilátóról, de ne felejtsen el szélálló kabátot csomagolni az erős délutáni szél miatt.",
+            "ro": "Bucurați-vă de priveliștile panoramice uimitoare ale coastei de la acest punct de belvedere, dar nu uitați să luați o jachetă rezistentă la vânt.",
+            "en": "Enjoy breathtaking panoramic coastal views from this scenic viewpoint, but make sure to pack a windproof jacket for the strong afternoon breezes."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscinas La Caleta",
+            "hu": "Piscinas La Caleta",
+            "ro": "Piscinas La Caleta",
+            "en": "Piscinas La Caleta"
+          },
+          "coords": [
+            -17.887645,
+            27.800616
+          ],
+          "category": "landmark",
+          "arrive_at": "16:06",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesen natürlichen Meerwasserschwimmbecken, bringen Sie jedoch unbedingt Wasserschuhe mit, um nicht auf den rutschigen Vulkanfelsen auszurutschen.",
+            "hu": "Pihenjen meg ezekben a természetes tengervizes medencékben, de feltétlenül vigyen magával vízi cipőt, nehogy elcsússzon a vulkáni sziklákon.",
+            "ro": "Relaxați-vă în aceste piscine naturale cu apă de mare, dar nu uitați să luați încălțăminte de apă pentru a nu aluneca pe rocile vulcanice.",
+            "en": "Relax in these naturally formed seawater swimming pools, but ensure you bring water shoes to avoid slipping on the wet volcanic rocks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie Ihren Tag im Herzen von Valverde und spüren Sie den historischen Puls der Hauptstadt, während Sie an kolonialer Architektur und alten Kirchen vorbeispazieren.\n\nMittag: Wenn die Sonne höher steigt, tauchen Sie in die reichen ethnografischen Traditionen von El Hierro ein und entdecken das lebendige Erbe der Insel.\n\nNachmittag: Richten Sie Ihren Blick auf die einzigartige Geologie der Insel, indem Sie spektakuläre Aussichtspunkte und raue Küstenwunder besuchen.\n\nAbend: Lassen Sie den Tag mit einer frischen Meeresbrise ausklingen und bewundern Sie die vulkanische Schönheit der Kanaren, wenn die Dämmerung hereinbricht.",
+        "hu": "Reggel: Kezdje a napot Valverde szívében, érezve a főváros történelmi lüktetését, miközben gyarmati épületek és ikonikus templomok mellett sétál el.\n\nDél: Ahogy a nap egyre magasabbra hág, merüljön el El Hierro gazdag néprajzi hagyományaiban, és fedezze fel a helyiek mindennapi szigeti örökségét.\n\nDélután: Fordítsa figyelmét a sziget egyedülálló geológiája felé, látogasson el a lenyűgöző kilátókhoz és a tengerpart természeti csodáihoz.\n\nEste: Zárja utazását a friss óceáni szellőt élvezve, és gyönyörködjön a Kanári-szigetek vulkáni szépségében, ahogy leszáll az alkonyat a drámai sziklákon.",
+        "ro": "Dimineață: Începeți ziua explorând inima orașului Valverde, simțind pulsul istoric al capitalei în timp ce treceți pe lângă arhitectura colonială și bisericile emblematice.\n\nPrânz: Pe măsură ce soarele urcă, explorați tradițiile etnografice bogate din El Hierro, descoperind modul în care localnicii și-au păstrat moștenirea.\n\nDupă-amiază: Îndreptați-vă atenția spre geologia unică a insulei și peisajele sale vaste, vizitând puncte de belvedere spectaculoase și minuni de coastă.\n\nSeară: Încheiați-vă călătoria bucurându-vă de briza proaspătă a oceanului, reflectând la frumusețea vulcanică a Canarelor la lăsarea serii.",
+        "en": "Morning: Start your day exploring the heart of Valverde, feeling the historical pulse of the capital as you walk past colonial architecture and iconic churches.\n\nMidday: As the sun climbs, delve deep into the rich ethnographic traditions of El Hierro, discovering how locals have woven their heritage into everyday island life.\n\nAfternoon: Shift your focus toward the island's unique geology and sweeping landscapes, visiting spectacular viewpoints and coastal wonders.\n\nEvening: Conclude your journey by taking in the fresh ocean breeze, reflecting on the volcanic beauty of the Canary Islands as twilight settles over the dramatic cliffs."
+      }
+    }
+  }
+}

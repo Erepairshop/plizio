@@ -1,0 +1,474 @@
+{
+  "city_id": "vendome",
+  "anchor": {
+    "name": "Vendôme",
+    "coords": [
+      1.0656,
+      47.7928
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 1.29,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum von Vendôme",
+            "hu": "Vendôme Múzeum",
+            "ro": "Muzeul din Vendôme",
+            "en": "Vendôme Museum"
+          },
+          "coords": [
+            1.064507,
+            47.792111
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende lokale Geschichte und bildende Kunst in diesem majestätischen ehemaligen Abteigebäude, aber prüfen Sie vorab die Sonderausstellungen.",
+            "hu": "Fedezze fel a lenyűgöző helyi történelmet és a képzőművészetet ebben a fenséges egykori apátsági épületben, de látogatás előtt mindenképp ellenőrizze az időszaki kiállításokat.",
+            "ro": "Explorați istoria locală fascinantă și artele plastice în această clădire maiestuoasă a fostei abații, dar asigurați-vă că verificați expozițiile temporare înainte de a vizita.",
+            "en": "Explore fascinating local history and fine arts in this majestic former abbey building, but make sure to check the temporary exhibitions before you visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Ronsard-Park",
+            "hu": "Ronsard Park",
+            "ro": "Parcul Ronsard",
+            "en": "Ronsard Park"
+          },
+          "coords": [
+            1.066535,
+            47.792803
+          ],
+          "category": "park",
+          "arrive_at": "10:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Spaziergang durch wunderschöne botanische Sammlungen zu Ehren des berühmten Dichters und bringen Sie ein kleines Picknick für den Schatten mit.",
+            "hu": "Élvezze a békés sétát a híres költőnek szentelt gyönyörű botanikai gyűjtemények között, és hozzon magával egy kis pikniket, hogy kényelmesen pihenjen az árnyékos fák alatt.",
+            "ro": "Bucurați-vă de o plimbare liniștită printre colecțiile botanice frumoase dedicate celebrului poet și aduceți un mic picnic pentru a vă relaxa confortabil sub copacii umbroși.",
+            "en": "Enjoy a peaceful stroll among beautiful botanical collections dedicated to the famous poet, and bring a small picnic to relax comfortably under the shady trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt-Georgs-Tor",
+            "hu": "Szent György Kapu",
+            "ro": "Poarta Sfântul Gheorghe",
+            "en": "Saint-George's Gate"
+          },
+          "coords": [
+            1.064011,
+            47.791013
+          ],
+          "category": "fortress",
+          "arrive_at": "12:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses imposante mittelalterliche Tor, das einst die Stadtmauern verteidigte, und fotografieren Sie seine architektonischen Details zur goldenen Stunde.",
+            "hu": "Csodálja meg ezt az impozáns középkori kaput, amely egykor a városfalakat védte, és próbálja meg az aranyórában lefotózni a lenyűgöző építészeti részleteket a legjobb fényért.",
+            "ro": "Admirați această poartă medievală impunătoare care apăra odată zidurile orașului și încercați să fotografiați detaliile sale arhitecturale în timpul orei de aur pentru cea mai bună lumină.",
+            "en": "Admire this imposing medieval gateway that once defended the city walls, and try to photograph its stunning architectural details during the golden hour for the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss von Vendôme",
+            "hu": "Vendôme Kastély",
+            "ro": "Castelul din Vendôme",
+            "en": "Château de Vendôme"
+          },
+          "coords": [
+            1.065765,
+            47.789283
+          ],
+          "category": "fortress",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die romantischen Ruinen dieser alten feudalen Festung mit Blick auf die Landschaft und tragen Sie festes Schuhwerk für die unebenen historischen Wege.",
+            "hu": "Sétáljon a tájra néző ősi feudális erőd romantikus romjai között, és viseljen masszív cipőt, hogy biztonságosan eligazodjon az egyenetlen történelmi kőutakon.",
+            "ro": "Plimbați-vă prin ruinele romantice ale acestei vechi fortărețe feudale cu vedere la peisaj și purtați pantofi rezistenți pentru a naviga în siguranță pe căile istorice inegale din piatră.",
+            "en": "Wander through the romantic ruins of this ancient feudal fortress overlooking the landscape, and wear sturdy shoes to safely navigate the uneven historical stone pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Dreifaltigkeitsabtei",
+            "hu": "Szentháromság Apátság",
+            "ro": "Abația Trinității",
+            "en": "Trinity Abbey"
+          },
+          "coords": [
+            1.069033,
+            47.791192
+          ],
+          "category": "monastic",
+          "arrive_at": "15:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die spektakuläre spätgotische Fassade dieses historischen Klosterkomplexes und treten Sie leise ein, um das prächtige geschnitzte Chorgestühl zu bewundern.",
+            "hu": "Csodálja meg a történelmi kolostorkomplexum látványos lángoló gótikus homlokzatát, és lépjen be csendben, hogy testközelből megcsodálhassa a csodálatos faragott fa kórusüléseket.",
+            "ro": "Minunați-vă de spectaculoasa fațadă gotică flamboaiantă a acestui complex monahal istoric și pășiți încet înăuntru pentru a admira îndeaproape superbele strane din lemn sculptat.",
+            "en": "Marvel at the spectacular Flamboyant Gothic facade of this historic monastic complex, and step quietly inside to admire the magnificent carved wooden choir stalls up close."
+          }
+        },
+        {
+          "name": {
+            "de": "Islette-Turm",
+            "hu": "Islette Torony",
+            "ro": "Turnul Islette",
+            "en": "Islette Tower"
+          },
+          "coords": [
+            1.068526,
+            47.793985
+          ],
+          "category": "historical",
+          "arrive_at": "15:45",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.31,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses markante historische Wahrzeichen entlang der alten Befestigungsanlagen und folgen Sie dem malerischen Uferweg, um seine strategische Lage voll zu würdigen.",
+            "hu": "Fedezze fel ezt a jellegzetes történelmi nevezetességet az ősi erődítmények mentén, és kövesse a szomszédos festői folyóparti ösvényt, hogy teljes mértékben értékelje stratégiai elhelyezkedését.",
+            "ro": "Descoperiți acest punct de reper istoric distinctiv care se înalță de-a lungul fortificațiilor antice și urmați traseul pitoresc alăturat de pe malul râului pentru a-i aprecia poziția.",
+            "en": "Discover this distinctive historical landmark towering along the ancient fortifications, and follow the adjacent scenic riverside path to fully appreciate its strategic placement."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen in Vendôme beginnt mit einem tiefen Eintauchen in die Geschichte. Wenn Sie durch die alten Straßen spazieren, spüren Sie den Nachhall vergangener Jahrhunderte in den Steinmauern. Das sanfte Morgenlicht beleuchtet die charmanten architektonischen Details der Stadt und lädt ein, ihre Geheimnisse zu entdecken.\nGegen Mittag verlagert sich der Fokus auf die üppigen Grünflächen im Stadtzentrum. Ein Spaziergang durch die Parks bietet einen willkommenen Kontrast zum historischen Mauerwerk. Die bunten botanischen Beete und das beruhigende Rauschen des Flusses schaffen eine perfekte Atmosphäre für eine Pause.\nDer Nachmittag lädt zur weiteren Erkundung der majestätischen Festungen und hohen mittelalterlichen Strukturen von Vendôme ein. Das Erklimmen der alten Pfade offenbart Panoramablicke auf die Landschaft. Jeder Schritt enthüllt eine neue Schicht des reichen Erbes, von imposanten Toren bis zu klösterlichen Innenhöfen.\nWenn der Abend naht, wird die Stimmung der Stadt weicher. Die untergehende Sonne wirft ein warmes goldenes Licht auf das ruhige Wasser und die alten Brücken, ideal für einen letzten Spaziergang. Genießen Sie die friedliche Atmosphäre, während der Tag in diesem historischen französischen Juwel ausklingt.",
+        "hu": "A reggel Vendôme-ban a történelemben való elmélyüléssel kezdődik. Ahogy az ősi utcákon sétál, érezni fogja az elmúlt évszázadok visszhangját a monumentális kőhomlokzatokon keresztül. A lágy reggeli fény tökéletesen megvilágítja a város bájos építészeti részleteit, hívogatva a titkok felfedezésére.\nDélben a fókusz a városközpontot élettel megtöltő buja zöldterületekre helyeződik át. A parkokban tett séta kellemes kontrasztot kínál a történelmi falazatokkal szemben. A színes botanikai bemutatók és a folyó nyugtató hangja tökéletes légkört teremtenek egy pihentető szünethez.\nA délután Vendôme fenséges erődítményeinek és magasba törő középkori építményeinek további felfedezésére csábít. Az ősi ösvények megmászása panorámás kilátást nyújt a környező tájra. Minden lépés a város gazdag örökségének újabb rétegét tárja fel az impozáns kapuktól a csendes kolostori udvarokig.\nAhogy közeledik az este, a város hangulata gyönyörűen lágyul. A lenyugvó nap meleg aranyfényt vet a nyugodt vizekre és az ősi hidakra, tökéletes hátteret biztosítva egy búcsúsétához. Élvezze a békés légkört, ahogy a nap kecsesen véget ér ebben a történelmi francia gyöngyszemben.",
+        "ro": "Dimineața în Vendôme începe cu o incursiune profundă în istorie. Pe măsură ce vă plimbați pe străzile antice, veți simți rezonanța secolelor trecute prin fațadele monumentale din piatră. Lumina blândă a dimineții iluminează perfect detaliile arhitecturale fermecătoare, invitându-vă să descoperiți secrete.\nLa amiază, accentul se mută pe spațiile verzi luxuriante care dau viață centrului orașului. O plimbare prin parcuri oferă un contrast binevenit cu zidăria istorică. Aranjamentele botanice colorate și sunetul liniștitor al râului creează o atmosferă perfectă pentru o pauză de relaxare confortabilă.\nDupă-amiaza invită la o explorare suplimentară a fortărețelor maiestuoase și a structurilor medievale din Vendôme. Urcarea pe cărările antice dezvăluie vederi panoramice ale peisajelor din jur. Fiecare pas descoperă un nou strat al bogatei moșteniri a orașului, de la porți impunătoare la curți monahale.\nPe măsură ce seara se apropie, starea de spirit a orașului se îndulcește. Soarele la apus aruncă o strălucire aurie caldă peste apele liniștite și podurile vechi, oferind un fundal perfect pentru o plimbare de rămas bun. Bucurați-vă de ambianța pașnică în timp ce ziua se încheie în această bijuterie franceză.",
+        "en": "Morning in Vendôme starts with a deep dive into history. As you walk the ancient streets, you'll feel the resonance of past centuries echoing through monumental stone facades and quiet alleys. The gentle morning light perfectly illuminates the city's charming architectural details, inviting you to discover its secrets.\nBy midday, the focus shifts to the lush green spaces that breathe life into the city center. Strolling through the vibrant parks offers a welcome contrast to the historic masonry. The colorful botanical displays and the soothing sound of the river create a perfect atmosphere for a relaxing break.\nThe afternoon invites further exploration of Vendôme's majestic fortresses and towering medieval structures. Climbing the ancient pathways reveals panoramic views of the surrounding landscapes. Every step uncovers a new layer of the town's rich heritage, from imposing gates to quiet monastic courtyards.\nAs evening approaches, the city's mood softens beautifully. The setting sun casts a warm golden glow over the tranquil waters and ancient bridges, providing a perfect backdrop for a farewell stroll. Enjoy the peaceful ambiance as the day gracefully concludes in this historic French gem."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 3.61,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Platz der Freiheit",
+            "hu": "Szabadság tér",
+            "ro": "Piața Libertății",
+            "en": "Square de la Liberté"
+          },
+          "coords": [
+            1.033221,
+            47.792833
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen, indem Sie die lokale Atmosphäre auf diesem lebhaften Platz aufsaugen, und holen Sie sich ein frisches Gebäck, um es auf einer bequemen Bank zu genießen.",
+            "hu": "Kezdje a reggelt a helyi hangulat magába szívásával ezen a nyüzsgő nyitott téren, és vegyen egy friss péksüteményt a közeli pékségből, amit a kényelmes padok egyikén elfogyaszthat.",
+            "ro": "Începeți dimineața absorbind atmosfera locală din această piață vibrantă și luați un produs de patiserie proaspăt de la o brutărie din apropiere pentru a-l savura pe o bancă.",
+            "en": "Start your morning absorbing the local atmosphere in this vibrant open square, and grab a fresh pastry from a nearby bakery to enjoy on one of the comfortable public benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Vendôme",
+            "hu": "Vendôme Múzeum",
+            "ro": "Muzeul din Vendôme",
+            "en": "Vendôme Museum"
+          },
+          "coords": [
+            1.064507,
+            47.792111
+          ],
+          "category": "museum",
+          "arrive_at": "09:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende lokale Geschichte und bildende Kunst in diesem majestätischen ehemaligen Abteigebäude, aber prüfen Sie vorab die Sonderausstellungen.",
+            "hu": "Fedezze fel a lenyűgöző helyi történelmet és a képzőművészetet ebben a fenséges egykori apátsági épületben, de látogatás előtt mindenképp ellenőrizze az időszaki kiállításokat.",
+            "ro": "Explorați istoria locală fascinantă și artele plastice în această clădire maiestuoasă a fostei abații, dar asigurați-vă că verificați expozițiile temporare înainte de a vizita.",
+            "en": "Explore fascinating local history and fine arts in this majestic former abbey building, but make sure to check the temporary exhibitions before you visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Ronsard-Park",
+            "hu": "Ronsard Park",
+            "ro": "Parcul Ronsard",
+            "en": "Ronsard Park"
+          },
+          "coords": [
+            1.066535,
+            47.792803
+          ],
+          "category": "park",
+          "arrive_at": "11:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Spaziergang durch wunderschöne botanische Sammlungen zu Ehren des berühmten Dichters und bringen Sie ein kleines Picknick für den Schatten mit.",
+            "hu": "Élvezze a békés sétát a híres költőnek szentelt gyönyörű botanikai gyűjtemények között, és hozzon magával egy kis pikniket, hogy kényelmesen pihenjen az árnyékos fák alatt.",
+            "ro": "Bucurați-vă de o plimbare liniștită printre colecțiile botanice frumoase dedicate celebrului poet și aduceți un mic picnic pentru a vă relaxa confortabil sub copacii umbroși.",
+            "en": "Enjoy a peaceful stroll among beautiful botanical collections dedicated to the famous poet, and bring a small picnic to relax comfortably under the shady trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss von Vendôme",
+            "hu": "Vendôme Kastély",
+            "ro": "Castelul din Vendôme",
+            "en": "Château de Vendôme"
+          },
+          "coords": [
+            1.065765,
+            47.789283
+          ],
+          "category": "fortress",
+          "arrive_at": "12:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die romantischen Ruinen dieser alten feudalen Festung mit Blick auf die Landschaft und tragen Sie festes Schuhwerk für die unebenen historischen Wege.",
+            "hu": "Sétáljon a tájra néző ősi feudális erőd romantikus romjai között, és viseljen masszív cipőt, hogy biztonságosan eligazodjon az egyenetlen történelmi kőutakon.",
+            "ro": "Plimbați-vă prin ruinele romantice ale acestei vechi fortărețe feudale cu vedere la peisaj și purtați pantofi rezistenți pentru a naviga în siguranță pe căile istorice inegale din piatră.",
+            "en": "Wander through the romantic ruins of this ancient feudal fortress overlooking the landscape, and wear sturdy shoes to safely navigate the uneven historical stone pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Dreifaltigkeitsabtei",
+            "hu": "Szentháromság Apátság",
+            "ro": "Abația Trinității",
+            "en": "Trinity Abbey"
+          },
+          "coords": [
+            1.069033,
+            47.791192
+          ],
+          "category": "monastic",
+          "arrive_at": "14:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die spektakuläre spätgotische Fassade dieses historischen Klosterkomplexes und treten Sie leise ein, um das prächtige geschnitzte Chorgestühl zu bewundern.",
+            "hu": "Csodálja meg a történelmi kolostorkomplexum látványos lángoló gótikus homlokzatát, és lépjen be csendben, hogy testközelből megcsodálhassa a csodálatos faragott fa kórusüléseket.",
+            "ro": "Minunați-vă de spectaculoasa fațadă gotică flamboaiantă a acestui complex monahal istoric și pășiți încet înăuntru pentru a admira îndeaproape superbele strane din lemn sculptat.",
+            "en": "Marvel at the spectacular Flamboyant Gothic facade of this historic monastic complex, and step quietly inside to admire the magnificent carved wooden choir stalls up close."
+          }
+        },
+        {
+          "name": {
+            "de": "Außenbecken",
+            "hu": "Külső Medence",
+            "ro": "Bazinul Exterior",
+            "en": "Bassin Extérieur"
+          },
+          "coords": [
+            1.074588,
+            47.790574
+          ],
+          "category": "family",
+          "arrive_at": "14:50",
+          "stay_min": 55,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.42,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Ende des Tages am ruhigen Wasser dieses familienfreundlichen Beckens und bringen Sie etwas Entenfutter mit, wenn Sie mit Kindern die heimische Tierwelt beobachten möchten.",
+            "hu": "Pihenjen a nap végén e családbarát rekreációs medence nyugtató vizeinél, és hozzon magával egy kis kacsacsemeget, ha gyermekeivel szeretné etetni a helyi madarakat.",
+            "ro": "Relaxați-vă lângă apele liniștitoare ale acestui bazin de agrement potrivit pentru familii la sfârșitul zilei și aduceți puțină hrană pentru rațe dacă aveți copii pasionați de natură.",
+            "en": "Relax by the calming waters of this family-friendly recreational basin at the day's end, and bring some duck food if you have children who want to interact with the local wildlife."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen in Vendôme beginnt mit einem tiefen Eintauchen in die Geschichte. Wenn Sie durch die alten Straßen spazieren, spüren Sie den Nachhall vergangener Jahrhunderte in den Steinmauern. Das sanfte Morgenlicht beleuchtet die charmanten architektonischen Details der Stadt und lädt ein, ihre Geheimnisse zu entdecken.\nGegen Mittag verlagert sich der Fokus auf die üppigen Grünflächen im Stadtzentrum. Ein Spaziergang durch die Parks bietet einen willkommenen Kontrast zum historischen Mauerwerk. Die bunten botanischen Beete und das beruhigende Rauschen des Flusses schaffen eine perfekte Atmosphäre für eine Pause.\nDer Nachmittag lädt zur weiteren Erkundung der majestätischen Festungen und hohen mittelalterlichen Strukturen von Vendôme ein. Das Erklimmen der alten Pfade offenbart Panoramablicke auf die Landschaft. Jeder Schritt enthüllt eine neue Schicht des reichen Erbes, von imposanten Toren bis zu klösterlichen Innenhöfen.\nWenn der Abend naht, wird die Stimmung der Stadt weicher. Die untergehende Sonne wirft ein warmes goldenes Licht auf das ruhige Wasser und die alten Brücken, ideal für einen letzten Spaziergang. Genießen Sie die friedliche Atmosphäre, während der Tag in diesem historischen französischen Juwel ausklingt.",
+        "hu": "A reggel Vendôme-ban a történelemben való elmélyüléssel kezdődik. Ahogy az ősi utcákon sétál, érezni fogja az elmúlt évszázadok visszhangját a monumentális kőhomlokzatokon keresztül. A lágy reggeli fény tökéletesen megvilágítja a város bájos építészeti részleteit, hívogatva a titkok felfedezésére.\nDélben a fókusz a városközpontot élettel megtöltő buja zöldterületekre helyeződik át. A parkokban tett séta kellemes kontrasztot kínál a történelmi falazatokkal szemben. A színes botanikai bemutatók és a folyó nyugtató hangja tökéletes légkört teremtenek egy pihentető szünethez.\nA délután Vendôme fenséges erődítményeinek és magasba törő középkori építményeinek további felfedezésére csábít. Az ősi ösvények megmászása panorámás kilátást nyújt a környező tájra. Minden lépés a város gazdag örökségének újabb rétegét tárja fel az impozáns kapuktól a csendes kolostori udvarokig.\nAhogy közeledik az este, a város hangulata gyönyörűen lágyul. A lenyugvó nap meleg aranyfényt vet a nyugodt vizekre és az ősi hidakra, tökéletes hátteret biztosítva egy búcsúsétához. Élvezze a békés légkört, ahogy a nap kecsesen véget ér ebben a történelmi francia gyöngyszemben.",
+        "ro": "Dimineața în Vendôme începe cu o incursiune profundă în istorie. Pe măsură ce vă plimbați pe străzile antice, veți simți rezonanța secolelor trecute prin fațadele monumentale din piatră. Lumina blândă a dimineții iluminează perfect detaliile arhitecturale fermecătoare, invitându-vă să descoperiți secrete.\nLa amiază, accentul se mută pe spațiile verzi luxuriante care dau viață centrului orașului. O plimbare prin parcuri oferă un contrast binevenit cu zidăria istorică. Aranjamentele botanice colorate și sunetul liniștitor al râului creează o atmosferă perfectă pentru o pauză de relaxare confortabilă.\nDupă-amiaza invită la o explorare suplimentară a fortărețelor maiestuoase și a structurilor medievale din Vendôme. Urcarea pe cărările antice dezvăluie vederi panoramice ale peisajelor din jur. Fiecare pas descoperă un nou strat al bogatei moșteniri a orașului, de la porți impunătoare la curți monahale.\nPe măsură ce seara se apropie, starea de spirit a orașului se îndulcește. Soarele la apus aruncă o strălucire aurie caldă peste apele liniștite și podurile vechi, oferind un fundal perfect pentru o plimbare de rămas bun. Bucurați-vă de ambianța pașnică în timp ce ziua se încheie în această bijuterie franceză.",
+        "en": "Morning in Vendôme starts with a deep dive into history. As you walk the ancient streets, you'll feel the resonance of past centuries echoing through monumental stone facades and quiet alleys. The gentle morning light perfectly illuminates the city's charming architectural details, inviting you to discover its secrets.\nBy midday, the focus shifts to the lush green spaces that breathe life into the city center. Strolling through the vibrant parks offers a welcome contrast to the historic masonry. The colorful botanical displays and the soothing sound of the river create a perfect atmosphere for a relaxing break.\nThe afternoon invites further exploration of Vendôme's majestic fortresses and towering medieval structures. Climbing the ancient pathways reveals panoramic views of the surrounding landscapes. Every step uncovers a new layer of the town's rich heritage, from imposing gates to quiet monastic courtyards.\nAs evening approaches, the city's mood softens beautifully. The setting sun casts a warm golden glow over the tranquil waters and ancient bridges, providing a perfect backdrop for a farewell stroll. Enjoy the peaceful ambiance as the day gracefully concludes in this historic French gem."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:39",
+      "total_km": 3.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Platz der Freiheit",
+            "hu": "Szabadság tér",
+            "ro": "Piața Libertății",
+            "en": "Square de la Liberté"
+          },
+          "coords": [
+            1.033221,
+            47.792833
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen, indem Sie die lokale Atmosphäre auf diesem lebhaften Platz aufsaugen, und holen Sie sich ein frisches Gebäck, um es auf einer bequemen Bank zu genießen.",
+            "hu": "Kezdje a reggelt a helyi hangulat magába szívásával ezen a nyüzsgő nyitott téren, és vegyen egy friss péksüteményt a közeli pékségből, amit a kényelmes padok egyikén elfogyaszthat.",
+            "ro": "Începeți dimineața absorbind atmosfera locală din această piață vibrantă și luați un produs de patiserie proaspăt de la o brutărie din apropiere pentru a-l savura pe o bancă.",
+            "en": "Start your morning absorbing the local atmosphere in this vibrant open square, and grab a fresh pastry from a nearby bakery to enjoy on one of the comfortable public benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Vendôme",
+            "hu": "Vendôme Múzeum",
+            "ro": "Muzeul din Vendôme",
+            "en": "Vendôme Museum"
+          },
+          "coords": [
+            1.064507,
+            47.792111
+          ],
+          "category": "museum",
+          "arrive_at": "09:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende lokale Geschichte und bildende Kunst in diesem majestätischen ehemaligen Abteigebäude, aber prüfen Sie vorab die Sonderausstellungen.",
+            "hu": "Fedezze fel a lenyűgöző helyi történelmet és a képzőművészetet ebben a fenséges egykori apátsági épületben, de látogatás előtt mindenképp ellenőrizze az időszaki kiállításokat.",
+            "ro": "Explorați istoria locală fascinantă și artele plastice în această clădire maiestuoasă a fostei abații, dar asigurați-vă că verificați expozițiile temporare înainte de a vizita.",
+            "en": "Explore fascinating local history and fine arts in this majestic former abbey building, but make sure to check the temporary exhibitions before you visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt-Georgs-Tor",
+            "hu": "Szent György Kapu",
+            "ro": "Poarta Sfântul Gheorghe",
+            "en": "Saint-George's Gate"
+          },
+          "coords": [
+            1.064011,
+            47.791013
+          ],
+          "category": "fortress",
+          "arrive_at": "11:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses imposante mittelalterliche Tor, das einst die Stadtmauern verteidigte, und fotografieren Sie seine architektonischen Details zur goldenen Stunde.",
+            "hu": "Csodálja meg ezt az impozáns középkori kaput, amely egykor a városfalakat védte, és próbálja meg az aranyórában lefotózni a lenyűgöző építészeti részleteket a legjobb fényért.",
+            "ro": "Admirați această poartă medievală impunătoare care apăra odată zidurile orașului și încercați să fotografiați detaliile sale arhitecturale în timpul orei de aur pentru cea mai bună lumină.",
+            "en": "Admire this imposing medieval gateway that once defended the city walls, and try to photograph its stunning architectural details during the golden hour for the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss von Vendôme",
+            "hu": "Vendôme Kastély",
+            "ro": "Castelul din Vendôme",
+            "en": "Château de Vendôme"
+          },
+          "coords": [
+            1.065765,
+            47.789283
+          ],
+          "category": "fortress",
+          "arrive_at": "12:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.31,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die romantischen Ruinen dieser alten feudalen Festung mit Blick auf die Landschaft und tragen Sie festes Schuhwerk für die unebenen historischen Wege.",
+            "hu": "Sétáljon a tájra néző ősi feudális erőd romantikus romjai között, és viseljen masszív cipőt, hogy biztonságosan eligazodjon az egyenetlen történelmi kőutakon.",
+            "ro": "Plimbați-vă prin ruinele romantice ale acestei vechi fortărețe feudale cu vedere la peisaj și purtați pantofi rezistenți pentru a naviga în siguranță pe căile istorice inegale din piatră.",
+            "en": "Wander through the romantic ruins of this ancient feudal fortress overlooking the landscape, and wear sturdy shoes to safely navigate the uneven historical stone pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Dreifaltigkeitsabtei",
+            "hu": "Szentháromság Apátság",
+            "ro": "Abația Trinității",
+            "en": "Trinity Abbey"
+          },
+          "coords": [
+            1.069033,
+            47.791192
+          ],
+          "category": "monastic",
+          "arrive_at": "14:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die spektakuläre spätgotische Fassade dieses historischen Klosterkomplexes und treten Sie leise ein, um das prächtige geschnitzte Chorgestühl zu bewundern.",
+            "hu": "Csodálja meg a történelmi kolostorkomplexum látványos lángoló gótikus homlokzatát, és lépjen be csendben, hogy testközelből megcsodálhassa a csodálatos faragott fa kórusüléseket.",
+            "ro": "Minunați-vă de spectaculoasa fațadă gotică flamboaiantă a acestui complex monahal istoric și pășiți încet înăuntru pentru a admira îndeaproape superbele strane din lemn sculptat.",
+            "en": "Marvel at the spectacular Flamboyant Gothic facade of this historic monastic complex, and step quietly inside to admire the magnificent carved wooden choir stalls up close."
+          }
+        },
+        {
+          "name": {
+            "de": "Außenbecken",
+            "hu": "Külső Medence",
+            "ro": "Bazinul Exterior",
+            "en": "Bassin Extérieur"
+          },
+          "coords": [
+            1.074588,
+            47.790574
+          ],
+          "category": "family",
+          "arrive_at": "14:44",
+          "stay_min": 55,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Ende des Tages am ruhigen Wasser dieses familienfreundlichen Beckens und bringen Sie etwas Entenfutter mit, wenn Sie mit Kindern die heimische Tierwelt beobachten möchten.",
+            "hu": "Pihenjen a nap végén e családbarát rekreációs medence nyugtató vizeinél, és hozzon magával egy kis kacsacsemeget, ha gyermekeivel szeretné etetni a helyi madarakat.",
+            "ro": "Relaxați-vă lângă apele liniștitoare ale acestui bazin de agrement potrivit pentru familii la sfârșitul zilei și aduceți puțină hrană pentru rațe dacă aveți copii pasionați de natură.",
+            "en": "Relax by the calming waters of this family-friendly recreational basin at the day's end, and bring some duck food if you have children who want to interact with the local wildlife."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen in Vendôme beginnt mit einem tiefen Eintauchen in die Geschichte. Wenn Sie durch die alten Straßen spazieren, spüren Sie den Nachhall vergangener Jahrhunderte in den Steinmauern. Das sanfte Morgenlicht beleuchtet die charmanten architektonischen Details der Stadt und lädt ein, ihre Geheimnisse zu entdecken.\nGegen Mittag verlagert sich der Fokus auf die üppigen Grünflächen im Stadtzentrum. Ein Spaziergang durch die Parks bietet einen willkommenen Kontrast zum historischen Mauerwerk. Die bunten botanischen Beete und das beruhigende Rauschen des Flusses schaffen eine perfekte Atmosphäre für eine Pause.\nDer Nachmittag lädt zur weiteren Erkundung der majestätischen Festungen und hohen mittelalterlichen Strukturen von Vendôme ein. Das Erklimmen der alten Pfade offenbart Panoramablicke auf die Landschaft. Jeder Schritt enthüllt eine neue Schicht des reichen Erbes, von imposanten Toren bis zu klösterlichen Innenhöfen.\nWenn der Abend naht, wird die Stimmung der Stadt weicher. Die untergehende Sonne wirft ein warmes goldenes Licht auf das ruhige Wasser und die alten Brücken, ideal für einen letzten Spaziergang. Genießen Sie die friedliche Atmosphäre, während der Tag in diesem historischen französischen Juwel ausklingt.",
+        "hu": "A reggel Vendôme-ban a történelemben való elmélyüléssel kezdődik. Ahogy az ősi utcákon sétál, érezni fogja az elmúlt évszázadok visszhangját a monumentális kőhomlokzatokon keresztül. A lágy reggeli fény tökéletesen megvilágítja a város bájos építészeti részleteit, hívogatva a titkok felfedezésére.\nDélben a fókusz a városközpontot élettel megtöltő buja zöldterületekre helyeződik át. A parkokban tett séta kellemes kontrasztot kínál a történelmi falazatokkal szemben. A színes botanikai bemutatók és a folyó nyugtató hangja tökéletes légkört teremtenek egy pihentető szünethez.\nA délután Vendôme fenséges erődítményeinek és magasba törő középkori építményeinek további felfedezésére csábít. Az ősi ösvények megmászása panorámás kilátást nyújt a környező tájra. Minden lépés a város gazdag örökségének újabb rétegét tárja fel az impozáns kapuktól a csendes kolostori udvarokig.\nAhogy közeledik az este, a város hangulata gyönyörűen lágyul. A lenyugvó nap meleg aranyfényt vet a nyugodt vizekre és az ősi hidakra, tökéletes hátteret biztosítva egy búcsúsétához. Élvezze a békés légkört, ahogy a nap kecsesen véget ér ebben a történelmi francia gyöngyszemben.",
+        "ro": "Dimineața în Vendôme începe cu o incursiune profundă în istorie. Pe măsură ce vă plimbați pe străzile antice, veți simți rezonanța secolelor trecute prin fațadele monumentale din piatră. Lumina blândă a dimineții iluminează perfect detaliile arhitecturale fermecătoare, invitându-vă să descoperiți secrete.\nLa amiază, accentul se mută pe spațiile verzi luxuriante care dau viață centrului orașului. O plimbare prin parcuri oferă un contrast binevenit cu zidăria istorică. Aranjamentele botanice colorate și sunetul liniștitor al râului creează o atmosferă perfectă pentru o pauză de relaxare confortabilă.\nDupă-amiaza invită la o explorare suplimentară a fortărețelor maiestuoase și a structurilor medievale din Vendôme. Urcarea pe cărările antice dezvăluie vederi panoramice ale peisajelor din jur. Fiecare pas descoperă un nou strat al bogatei moșteniri a orașului, de la porți impunătoare la curți monahale.\nPe măsură ce seara se apropie, starea de spirit a orașului se îndulcește. Soarele la apus aruncă o strălucire aurie caldă peste apele liniștite și podurile vechi, oferind un fundal perfect pentru o plimbare de rămas bun. Bucurați-vă de ambianța pașnică în timp ce ziua se încheie în această bijuterie franceză.",
+        "en": "Morning in Vendôme starts with a deep dive into history. As you walk the ancient streets, you'll feel the resonance of past centuries echoing through monumental stone facades and quiet alleys. The gentle morning light perfectly illuminates the city's charming architectural details, inviting you to discover its secrets.\nBy midday, the focus shifts to the lush green spaces that breathe life into the city center. Strolling through the vibrant parks offers a welcome contrast to the historic masonry. The colorful botanical displays and the soothing sound of the river create a perfect atmosphere for a relaxing break.\nThe afternoon invites further exploration of Vendôme's majestic fortresses and towering medieval structures. Climbing the ancient pathways reveals panoramic views of the surrounding landscapes. Every step uncovers a new layer of the town's rich heritage, from imposing gates to quiet monastic courtyards.\nAs evening approaches, the city's mood softens beautifully. The setting sun casts a warm golden glow over the tranquil waters and ancient bridges, providing a perfect backdrop for a farewell stroll. Enjoy the peaceful ambiance as the day gracefully concludes in this historic French gem."
+      }
+    }
+  }
+}

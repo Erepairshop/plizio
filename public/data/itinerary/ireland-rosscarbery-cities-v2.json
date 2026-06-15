@@ -1,0 +1,428 @@
+{
+  "city_id": "ireland-rosscarbery-cities-v2",
+  "anchor": {
+    "name": "Rosscarbery",
+    "coords": [
+      -9.03293,
+      51.57751
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:05",
+      "total_km": 2.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "St. Fachtna’s Cathedral",
+            "hu": "St. Fachtna’s Cathedral",
+            "ro": "St. Fachtna’s Cathedral",
+            "en": "St. Fachtna’s Cathedral"
+          },
+          "coords": [
+            -9.029556,
+            51.57801
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die architektonischen Details dieser historischen Kathedrale, die auf einer alten Klostersiedlung steht, und besuchen Sie sie früh für das beste Licht.",
+            "hu": "Csodálja meg ennek a történelmi katedrálisnak az építészeti részleteit, amely egy ősi kolostori településen áll, és látogasson el korán a legjobb fényviszonyokért.",
+            "ro": "Admirați detaliile arhitecturale ale acestei catedrale istorice situate pe o veche așezare monahală și vizitați-o dimineața devreme pentru cea mai bună lumină.",
+            "en": "Admire the architectural details of this historic cathedral standing on an ancient monastic settlement, and be sure to visit early for the most beautiful lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Rosscarbery Catholic Church",
+            "hu": "Rosscarbery Catholic Church",
+            "ro": "Rosscarbery Catholic Church",
+            "en": "Rosscarbery Catholic Church"
+          },
+          "coords": [
+            -9.028201,
+            51.581562
+          ],
+          "category": "religious",
+          "arrive_at": "10:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre und die kunstvollen Glasfenster dieser charmanten lokalen Kirche, die Sie am besten außerhalb der Gottesdienstzeiten besuchen.",
+            "hu": "Élvezze e hangulatos helyi templom békés légkörét és díszes ólomüveg ablakait, amelyet a legérdemesebb a hivatalos misék idején kívül megtekinteni a nyugalomért.",
+            "ro": "Bucurați-vă de atmosfera pașnică și de vitraliile ornamentate ale acestei fermecătoare biserici locale, pe care este ideal să o vizitați în afara orelor de slujbă.",
+            "en": "Enjoy the peaceful atmosphere and ornate stained glass windows of this charming local church, which is best visited outside of official mass times for true quiet."
+          }
+        },
+        {
+          "name": {
+            "de": "Ross Abbey",
+            "hu": "Ross Abbey",
+            "ro": "Ross Abbey",
+            "en": "Ross Abbey"
+          },
+          "coords": [
+            -9.030147,
+            51.57665
+          ],
+          "category": "historical",
+          "arrive_at": "11:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die stimmungsvollen Ruinen dieser bedeutenden mittelalterlichen Abtei, um Irlands spirituelle Geschichte zu verstehen, und tragen Sie feste Wanderschuhe.",
+            "hu": "Fedezze fel ennek a jelentős középkori apátságnak a hangulatos romjait, hogy megértse Írország spirituális történelmét, és feltétlenül viseljen masszív túracipőt.",
+            "ro": "Explorați ruinele atmosferice ale acestei importante abații medievale pentru a înțelege istoria spirituală a Irlandei și asigurați-vă că purtați încălțăminte robustă.",
+            "en": "Explore the atmospheric ruins of this significant medieval abbey to understand Ireland's spiritual history, and be sure to wear sturdy walking shoes on the uneven ground."
+          }
+        },
+        {
+          "name": {
+            "de": "The Lagoon Activity Centre",
+            "hu": "The Lagoon Activity Centre",
+            "ro": "The Lagoon Activity Centre",
+            "en": "The Lagoon Activity Centre"
+          },
+          "coords": [
+            -9.027043,
+            51.57749
+          ],
+          "category": "recreational",
+          "arrive_at": "12:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Mieten Sie ein Kajak oder ein Tretboot an diesem lebhaften Freizeitzentrum, um die geschützte Bucht vom Wasser aus zu erleben, aber buchen Sie im Sommer besser im Voraus.",
+            "hu": "Béreljen kajakot vagy vízibiciklit ebben a nyüzsgő szabadidőközpontban, hogy a vízről tapasztalja meg a védett öblöt, de nyáron érdemes előre lefoglalni az eszközt.",
+            "ro": "Închiriați un caiac sau o hidrobicicletă la acest centru de agrement animat pentru a experimenta golful protejat, dar asigurați-vă că rezervați din timp în timpul verii.",
+            "en": "Rent a kayak or pedal boat at this lively activity centre to experience the sheltered bay from the water, but make sure to book ahead during the busy summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "The Warren Dunes",
+            "hu": "The Warren Dunes",
+            "ro": "The Warren Dunes",
+            "en": "The Warren Dunes"
+          },
+          "coords": [
+            -9.018083,
+            51.566478
+          ],
+          "category": "natural",
+          "arrive_at": "14:20",
+          "stay_min": 105,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die naturbelassenen Sanddünen, die seltene Pflanzenarten beherbergen, und bleiben Sie dabei auf den markierten Pfaden, um das Ökosystem zu schützen.",
+            "hu": "Sétáljon végig a ritka növényfajoknak otthont adó természetes homokdűnéken, és mindenképpen maradjon a kijelölt ösvényeken a törékeny helyi ökoszisztéma védelme érdekében.",
+            "ro": "Plimbați-vă printre dunele naturale de nisip care găzduiesc specii rare de plante și rămâneți pe traseele marcate pentru a proteja ecosistemul local destul de fragil.",
+            "en": "Stroll through the natural sand dunes that host rare plant species, and always make sure to stick to the clearly marked paths to protect the fragile coastal ecosystem."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag in Rosscarbery mit der Erkundung der majestätischen St. Fachtna's Kathedrale. Danach führt der Weg vorbei an historischen Kirchen und alten Abteiruinen in das Herz der lokalen Geschichte. Am Nachmittag lockt die Bucht mit Wasseraktivitäten und den malerischen Sanddünen der Warren Küste. Der Abend klingt an den dramatischen Ruinen der alten Küstenburgen am Ozean aus.",
+        "hu": "Kezdje a napot Rosscarberyben a fenséges St. Fachtna katedrális felfedezésével. Ezután az út történelmi templomok és ősi apátságromok mellett vezet a helyi történelem szívébe. Délután az öböl vízi tevékenységekkel és a Warren part festői homokdűnéivel csábít. Az estét az óceánparti ősi tengerparti kastélyok drámai romjainál fejezheti be a legszebb fényben.",
+        "ro": "Începeți ziua în Rosscarbery cu explorarea maiestuoasei Catedrale St. Fachtna. Apoi, traseul trece pe lângă biserici istorice și ruine de abații antice, direct în inima istoriei locale. După-amiaza, golful vă atrage cu activități pe apă și dunele pitorești ale coastei Warren. Seara se încheie lângă ruinele dramatice ale vechilor castele de coastă de lângă ocean.",
+        "en": "Start your day in Rosscarbery by exploring the majestic St. Fachtna's Cathedral in the morning light. The path then leads past historic churches and ancient abbey ruins into the heart of local history. In the afternoon, the sheltered bay beckons with water activities and the scenic sand dunes of the Warren coast. The evening concludes beautifully at the dramatic ruins of the coastal castles."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:35",
+      "total_km": 3.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "St. Fachtna’s Cathedral",
+            "hu": "St. Fachtna’s Cathedral",
+            "ro": "St. Fachtna’s Cathedral",
+            "en": "St. Fachtna’s Cathedral"
+          },
+          "coords": [
+            -9.029556,
+            51.57801
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die architektonischen Details dieser historischen Kathedrale, die auf einer alten Klostersiedlung steht, und besuchen Sie sie früh für das beste Licht.",
+            "hu": "Csodálja meg ennek a történelmi katedrálisnak az építészeti részleteit, amely egy ősi kolostori településen áll, és látogasson el korán a legjobb fényviszonyokért.",
+            "ro": "Admirați detaliile arhitecturale ale acestei catedrale istorice situate pe o veche așezare monahală și vizitați-o dimineața devreme pentru cea mai bună lumină.",
+            "en": "Admire the architectural details of this historic cathedral standing on an ancient monastic settlement, and be sure to visit early for the most beautiful lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Ross Abbey",
+            "hu": "Ross Abbey",
+            "ro": "Ross Abbey",
+            "en": "Ross Abbey"
+          },
+          "coords": [
+            -9.030147,
+            51.57665
+          ],
+          "category": "historical",
+          "arrive_at": "10:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die stimmungsvollen Ruinen dieser bedeutenden mittelalterlichen Abtei, um Irlands spirituelle Geschichte zu verstehen, und tragen Sie feste Wanderschuhe.",
+            "hu": "Fedezze fel ennek a jelentős középkori apátságnak a hangulatos romjait, hogy megértse Írország spirituális történelmét, és feltétlenül viseljen masszív túracipőt.",
+            "ro": "Explorați ruinele atmosferice ale acestei importante abații medievale pentru a înțelege istoria spirituală a Irlandei și asigurați-vă că purtați încălțăminte robustă.",
+            "en": "Explore the atmospheric ruins of this significant medieval abbey to understand Ireland's spiritual history, and be sure to wear sturdy walking shoes on the uneven ground."
+          }
+        },
+        {
+          "name": {
+            "de": "The Warren",
+            "hu": "The Warren",
+            "ro": "The Warren",
+            "en": "The Warren"
+          },
+          "coords": [
+            -9.014567,
+            51.564818
+          ],
+          "category": "recreational",
+          "arrive_at": "11:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem beliebten, goldenen Sandstrand, der ideal für ein Picknick am Nachmittag ist, und überprüfen Sie vorher die lokalen Gezeitenzeiten.",
+            "hu": "Pihenjen ezen a népszerű, aranyhomokos strandon, amely ideális egy délutáni piknikhez, és mindenképpen ellenőrizze előre a helyi árapály-táblázatokat a biztonságért.",
+            "ro": "Relaxați-vă pe această plajă populară cu nisip auriu, ideală pentru un picnic de după-amiază, și asigurați-vă că verificați în prealabil orarul mareelor din zonă.",
+            "en": "Relax on this highly popular, golden sandy beach that is absolutely perfect for an afternoon picnic, just remember to check the local tide tables before you set out."
+          }
+        },
+        {
+          "name": {
+            "de": "Downeen Castle North",
+            "hu": "Downeen Castle North",
+            "ro": "Downeen Castle North",
+            "en": "Downeen Castle North"
+          },
+          "coords": [
+            -9.027575,
+            51.563615
+          ],
+          "category": "castle",
+          "arrive_at": "13:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Überreste dieser spektakulären Klippenfestung der O'Cowhig, die von der rauen See umspült wird, und halten Sie stets einen sicheren Abstand zum Abgrund.",
+            "hu": "Csodálja meg az O'Cowhig klán látványos sziklaerődjének maradványait, amelyet a zord tenger mos, és a biztonság érdekében mindig tartson megfelelő távolságot a peremtől.",
+            "ro": "Admirați rămășițele acestei spectaculoase fortărețe pe stâncă a familiei O'Cowhig, spălată de marea agitată, și păstrați întotdeauna o distanță sigură față de margine.",
+            "en": "Marvel at the remains of this spectacular O'Cowhig cliff fortress washed by the rough sea, and ensure you always maintain a very safe distance from the crumbly edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Castle Bay",
+            "hu": "Castle Bay",
+            "ro": "Castle Bay",
+            "en": "Castle Bay"
+          },
+          "coords": [
+            -9.023582,
+            51.55835
+          ],
+          "category": "landmark",
+          "arrive_at": "14:40",
+          "stay_min": 55,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Fotografieren Sie diese atemberaubende, von Klippen umrahmte Bucht, die eine dramatische Küstenlandschaft bietet, bei Ebbe für die schönsten Spiegelungen auf dem feuchten Sand.",
+            "hu": "Fényképezze le ezt a lenyűgöző, sziklákkal keretezett öblöt, amely drámai tengerparti tájat kínál, és látogasson el apálykor a legszebb tükröződésekért a nedves homokon.",
+            "ro": "Fotografiați acest golf uimitor înconjurat de stânci care oferă un peisaj de coastă dramatic și veniți la reflux pentru cele mai frumoase reflexii pe nisipul umed.",
+            "en": "Photograph this stunning cliff-framed bay offering a truly dramatic coastal landscape, and try to visit at low tide for the most beautiful reflections on the wet sand."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag in Rosscarbery mit der Erkundung der majestätischen St. Fachtna's Kathedrale. Danach führt der Weg vorbei an historischen Kirchen und alten Abteiruinen in das Herz der lokalen Geschichte. Am Nachmittag lockt die Bucht mit Wasseraktivitäten und den malerischen Sanddünen der Warren Küste. Der Abend klingt an den dramatischen Ruinen der alten Küstenburgen am Ozean aus.",
+        "hu": "Kezdje a napot Rosscarberyben a fenséges St. Fachtna katedrális felfedezésével. Ezután az út történelmi templomok és ősi apátságromok mellett vezet a helyi történelem szívébe. Délután az öböl vízi tevékenységekkel és a Warren part festői homokdűnéivel csábít. Az estét az óceánparti ősi tengerparti kastélyok drámai romjainál fejezheti be a legszebb fényben.",
+        "ro": "Începeți ziua în Rosscarbery cu explorarea maiestuoasei Catedrale St. Fachtna. Apoi, traseul trece pe lângă biserici istorice și ruine de abații antice, direct în inima istoriei locale. După-amiaza, golful vă atrage cu activități pe apă și dunele pitorești ale coastei Warren. Seara se încheie lângă ruinele dramatice ale vechilor castele de coastă de lângă ocean.",
+        "en": "Start your day in Rosscarbery by exploring the majestic St. Fachtna's Cathedral in the morning light. The path then leads past historic churches and ancient abbey ruins into the heart of local history. In the afternoon, the sheltered bay beckons with water activities and the scenic sand dunes of the Warren coast. The evening concludes beautifully at the dramatic ruins of the coastal castles."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 6.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Coppingers Court",
+            "hu": "Coppingers Court",
+            "ro": "Coppingers Court",
+            "en": "Coppingers Court"
+          },
+          "coords": [
+            -9.066743,
+            51.57158
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die unheimlichen Ruinen dieses vierstöckigen befestigten Hauses aus dem 17. Jahrhundert, aber respektieren Sie die Zäune, da es auf einem Privatgrundstück steht.",
+            "hu": "Fedezze fel ennek a 17. századi, négyszintes erődített háznak a kísérteties romjait, de mindenképpen tartsa tiszteletben a kerítéseket, mivel magánterületen található.",
+            "ro": "Explorați ruinele stranii ale acestei case fortificate cu patru etaje din secolul al XVII-lea, dar asigurați-vă că respectați gardurile, deoarece se află pe un teren privat.",
+            "en": "Explore the eerie ruins of this impressive four-story 17th-century fortified house, but be sure to respect the surrounding fences as it sits on private farm land."
+          }
+        },
+        {
+          "name": {
+            "de": "Lookout over Millcove",
+            "hu": "Lookout over Millcove",
+            "ro": "Lookout over Millcove",
+            "en": "Lookout over Millcove"
+          },
+          "coords": [
+            -9.048874,
+            51.564291
+          ],
+          "category": "natural",
+          "arrive_at": "10:34",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den fantastischen Panoramablick auf die Bucht von dieser erhöhten Position, die ideal für Vogelbeobachtungen ist, und bringen Sie unbedingt Ihr eigenes Fernglas mit.",
+            "hu": "Élvezze a fantasztikus panorámát az öbölre erről a magaslati pontról, amely tökéletes madármegfigyeléshez, és ne felejtse el magával hozni a saját távcsövét a látványért.",
+            "ro": "Bucurați-vă de vederea panoramică fantastică asupra golfului din acest punct de observație ideal pentru ornitologie și nu uitați să vă aduceți propriul binoclu.",
+            "en": "Enjoy the fantastic panoramic views of the bay from this elevated position that is ideal for birdwatching, and don't forget to bring your own binoculars for a closer look."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Fachtna’s Cathedral",
+            "hu": "St. Fachtna’s Cathedral",
+            "ro": "St. Fachtna’s Cathedral",
+            "en": "St. Fachtna’s Cathedral"
+          },
+          "coords": [
+            -9.029556,
+            51.57801
+          ],
+          "category": "religious",
+          "arrive_at": "11:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die architektonischen Details dieser historischen Kathedrale, die auf einer alten Klostersiedlung steht, und besuchen Sie sie früh für das beste Licht.",
+            "hu": "Csodálja meg ennek a történelmi katedrálisnak az építészeti részleteit, amely egy ősi kolostori településen áll, és látogasson el korán a legjobb fényviszonyokért.",
+            "ro": "Admirați detaliile arhitecturale ale acestei catedrale istorice situate pe o veche așezare monahală și vizitați-o dimineața devreme pentru cea mai bună lumină.",
+            "en": "Admire the architectural details of this historic cathedral standing on an ancient monastic settlement, and be sure to visit early for the most beautiful lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "The Lagoon Activity Centre",
+            "hu": "The Lagoon Activity Centre",
+            "ro": "The Lagoon Activity Centre",
+            "en": "The Lagoon Activity Centre"
+          },
+          "coords": [
+            -9.027043,
+            51.57749
+          ],
+          "category": "recreational",
+          "arrive_at": "12:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Mieten Sie ein Kajak oder ein Tretboot an diesem lebhaften Freizeitzentrum, um die geschützte Bucht vom Wasser aus zu erleben, aber buchen Sie im Sommer besser im Voraus.",
+            "hu": "Béreljen kajakot vagy vízibiciklit ebben a nyüzsgő szabadidőközpontban, hogy a vízről tapasztalja meg a védett öblöt, de nyáron érdemes előre lefoglalni az eszközt.",
+            "ro": "Închiriați un caiac sau o hidrobicicletă la acest centru de agrement animat pentru a experimenta golful protejat, dar asigurați-vă că rezervați din timp în timpul verii.",
+            "en": "Rent a kayak or pedal boat at this lively activity centre to experience the sheltered bay from the water, but make sure to book ahead during the busy summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "The Warren Dunes",
+            "hu": "The Warren Dunes",
+            "ro": "The Warren Dunes",
+            "en": "The Warren Dunes"
+          },
+          "coords": [
+            -9.018083,
+            51.566478
+          ],
+          "category": "natural",
+          "arrive_at": "13:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die naturbelassenen Sanddünen, die seltene Pflanzenarten beherbergen, und bleiben Sie dabei auf den markierten Pfaden, um das Ökosystem zu schützen.",
+            "hu": "Sétáljon végig a ritka növényfajoknak otthont adó természetes homokdűnéken, és mindenképpen maradjon a kijelölt ösvényeken a törékeny helyi ökoszisztéma védelme érdekében.",
+            "ro": "Plimbați-vă printre dunele naturale de nisip care găzduiesc specii rare de plante și rămâneți pe traseele marcate pentru a proteja ecosistemul local destul de fragil.",
+            "en": "Stroll through the natural sand dunes that host rare plant species, and always make sure to stick to the clearly marked paths to protect the fragile coastal ecosystem."
+          }
+        },
+        {
+          "name": {
+            "de": "Downeen Castle South",
+            "hu": "Downeen Castle South",
+            "ro": "Downeen Castle South",
+            "en": "Downeen Castle South"
+          },
+          "coords": [
+            -9.024661,
+            51.560023
+          ],
+          "category": "castle",
+          "arrive_at": "14:55",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die verwitterten Steine dieser zweiten historischen Festungsanlage entlang der felsigen Küste und kommen Sie am späten Nachmittag für stimmungsvolle Fotos.",
+            "hu": "Tekintse meg ennek a második történelmi erődítménynek az időjárás által kikezdett köveit a sziklás parton, és érkezzen késő délután a igazán hangulatos fényképekért.",
+            "ro": "Observați pietrele erodate ale acestei a doua fortificații istorice de-a lungul coastei stâncoase și veniți după-amiaza târziu pentru fotografii pline de atmosferă.",
+            "en": "Observe the weathered stones of this second historic fortification situated along the rocky coast, and arrive in the late afternoon for some truly atmospheric photographs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag in Rosscarbery mit der Erkundung der majestätischen St. Fachtna's Kathedrale. Danach führt der Weg vorbei an historischen Kirchen und alten Abteiruinen in das Herz der lokalen Geschichte. Am Nachmittag lockt die Bucht mit Wasseraktivitäten und den malerischen Sanddünen der Warren Küste. Der Abend klingt an den dramatischen Ruinen der alten Küstenburgen am Ozean aus.",
+        "hu": "Kezdje a napot Rosscarberyben a fenséges St. Fachtna katedrális felfedezésével. Ezután az út történelmi templomok és ősi apátságromok mellett vezet a helyi történelem szívébe. Délután az öböl vízi tevékenységekkel és a Warren part festői homokdűnéivel csábít. Az estét az óceánparti ősi tengerparti kastélyok drámai romjainál fejezheti be a legszebb fényben.",
+        "ro": "Începeți ziua în Rosscarbery cu explorarea maiestuoasei Catedrale St. Fachtna. Apoi, traseul trece pe lângă biserici istorice și ruine de abații antice, direct în inima istoriei locale. După-amiaza, golful vă atrage cu activități pe apă și dunele pitorești ale coastei Warren. Seara se încheie lângă ruinele dramatice ale vechilor castele de coastă de lângă ocean.",
+        "en": "Start your day in Rosscarbery by exploring the majestic St. Fachtna's Cathedral in the morning light. The path then leads past historic churches and ancient abbey ruins into the heart of local history. In the afternoon, the sheltered bay beckons with water activities and the scenic sand dunes of the Warren coast. The evening concludes beautifully at the dramatic ruins of the coastal castles."
+      }
+    }
+  }
+}

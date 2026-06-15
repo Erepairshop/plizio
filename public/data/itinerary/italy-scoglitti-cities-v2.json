@@ -1,0 +1,451 @@
+{
+  "city_id": "italy-scoglitti-cities-v2",
+  "anchor": {
+    "name": "Scoglitti",
+    "coords": [
+      14.43166,
+      36.89212
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:15",
+      "total_km": 2.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Circolo Velico Anemos",
+            "hu": "Circolo Velico Anemos",
+            "ro": "Circolo Velico Anemos",
+            "en": "Circolo Velico Anemos"
+          },
+          "coords": [
+            14.424614,
+            36.897611
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Segler in diesem aktiven Club, einem idealen Ort, um die Küste zu fotografieren, während Sie am besten eine Windjacke tragen.",
+            "hu": "Figyelje meg a helyi vitorlázókat ebben az aktív klubban, amely tökéletes hely a partvonal fotózására, de érdemes széldzsekit viselnie.",
+            "ro": "Urmăriți marinarii locali la acest club de navigație activ, un loc ideal pentru a fotografia coasta, unde vă recomandăm să purtați o jachetă de vânt.",
+            "en": "Watch local sailors navigate the winds at this active sailing club, an ideal spot to photograph the coastline while wearing a windbreaker."
+          }
+        },
+        {
+          "name": {
+            "de": "Baraka Beach",
+            "hu": "Baraka Beach",
+            "ro": "Baraka Beach",
+            "en": "Baraka Beach"
+          },
+          "coords": [
+            14.425507,
+            36.896243
+          ],
+          "category": "recreational",
+          "arrive_at": "10:13",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sand dieses beliebten nördlichen Strandes, der sich perfekt für ein morgendliches Bad eignet, und vergessen Sie Ihr Strandtuch nicht.",
+            "hu": "Pihenjen ennek a népszerű északi strandnak az aranyhomokján, amely tökéletes egy frissítő reggeli úszáshoz, ezért hozzon magával strandtörülközőt.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje nordice populare, perfectă pentru o baie matinală răcoritoare, așa că nu uitați să aduceți un prosop de plajă.",
+            "en": "Relax on the golden sands of this popular northern beach, perfect for a refreshing morning swim, so remember to bring your favorite beach towel."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro di Scoglitti",
+            "hu": "Faro di Scoglitti",
+            "ro": "Faro di Scoglitti",
+            "en": "Faro di Scoglitti"
+          },
+          "coords": [
+            14.427733,
+            36.892378
+          ],
+          "category": "landmark",
+          "arrive_at": "11:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Küstenarchitektur des städtischen Leuchtturms, der als wichtige Navigationshilfe dient, und kommen Sie bei klarem Wetter für die beste Aussicht.",
+            "hu": "Csodálja meg a városi világítótorony klasszikus tengerparti építészetét, amely fontos navigációs segédeszköz, és tiszta időben látogasson el a legjobb kilátásért.",
+            "ro": "Admirați arhitectura de coastă clasică a farului orașului, care servește drept un ajutor vital pentru navigație, și vizitați pe vreme senină pentru cele mai bune priveliști.",
+            "en": "Admire the classic coastal architecture of the town's lighthouse, which serves as a vital navigational aid, and visit during clear weather for the best views."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Francesco di Paola",
+            "hu": "Chiesa di San Francesco di Paola",
+            "ro": "Chiesa di San Francesco di Paola",
+            "en": "Chiesa di San Francesco di Paola"
+          },
+          "coords": [
+            14.42956,
+            36.891253
+          ],
+          "category": "religious",
+          "arrive_at": "11:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betreten Sie diese friedliche Kirche, die dem Schutzpatron der Seeleute gewidmet ist, um ihr bescheidenes Inneres zu bewundern, und sprechen Sie aus Respekt leise.",
+            "hu": "Lépjen be a tengerészek védőszentjének szentelt békés templomba, hogy megcsodálja szerény belsejét, és tartsa halkan a hangját a hívők iránti tiszteletből.",
+            "ro": "Pășiți în această biserică liniștită dedicată sfântului patron al marinarilor pentru a admira interiorul său modest, vorbind încet din respect pentru credincioși.",
+            "en": "Step inside this peaceful church dedicated to the patron saint of sailors to admire its modest interior, keeping your voice low out of respect for worshippers."
+          }
+        },
+        {
+          "name": {
+            "de": "La Capannina",
+            "hu": "La Capannina",
+            "ro": "La Capannina",
+            "en": "La Capannina"
+          },
+          "coords": [
+            14.430382,
+            36.889415
+          ],
+          "category": "recreational",
+          "arrive_at": "12:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie eine Pause an diesem einladenden Küstenort, an dem sich Einheimische zur Entspannung treffen, und gönnen Sie sich ein kühles Getränk im Schatten.",
+            "hu": "Élvezze a kellemes pihenőt ezen a barátságos tengerparti helyen, ahol a helyiek összegyűlnek, és amely nagyszerű hely egy árnyékban elfogyasztott hideg italhoz.",
+            "ro": "Bucurați-vă de o pauză plăcută în acest loc de coastă primitor unde localnicii se adună, fiind un loc minunat pentru a sta cu o băutură rece la umbră.",
+            "en": "Enjoy a pleasant break at this welcoming coastal spot where locals gather for relaxation, making it a great place to sit back with a cold drink in the shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Totem Beach",
+            "hu": "Totem Beach",
+            "ro": "Totem Beach",
+            "en": "Totem Beach"
+          },
+          "coords": [
+            14.437271,
+            36.882693
+          ],
+          "category": "recreational",
+          "arrive_at": "13:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lebhafte Atmosphäre dieses südlichen Strandbereichs mit seinen einzigartigen Markierungen und kommen Sie früh, um sich einen guten Platz am Wasser zu sichern.",
+            "hu": "Fedezze fel ennek a déli strandnak a pezsgő hangulatát, amelyet egyedi jelölései jellemeznek, és érkezzen korán, hogy biztosítson magának egy jó helyet a vízparton.",
+            "ro": "Descoperiți atmosfera vibrantă a acestei plaje sudice caracterizată prin marcajele sale unice și ajungeți devreme pentru a prinde un loc bun la marginea apei.",
+            "en": "Discover the vibrant atmosphere of this southern beach area characterized by its unique markers, and arrive early to secure a prime spot near the water's edge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am aktiven Segelclub. Gehen Sie ein kurzes Stück zu den goldenen Sandstränden eines beliebten Strandes. Gegen Mittag bewundern Sie den Küstenleuchtturm, bevor Sie die friedliche Kirche der Seeleute betreten. Entspannen Sie sich am Nachmittag mit einem erfrischenden Getränk an einem einladenden Treffpunkt. Beenden Sie Ihre Tour an einem lebhaften südlichen Strand.",
+        "hu": "Kezdje a reggelt az aktív vitorlásklubnál. Folytassa útját egy rövid sétával egy népszerű északi strand aranyhomokjához. Dél közeledtével csodálja meg a világítótornyot, mielőtt belépne a tengerészek békés templomába. Délután pihenjen meg egy frissítő itallal egy barátságos helyi gyülekezőhelyen. Fejezze be a sétát egy pezsgő déli strandon, élvezve a naplementét.",
+        "ro": "Începeți dimineața la clubul de navigație, simțind briza mării. Continuați pe o distanță scurtă până la nisipurile aurii ale unei plaje populare. La prânz, admirați farul de coastă înainte de a intra în biserica liniștită a marinarilor. După-amiaza, relaxați-vă cu o băutură răcoritoare la un loc de întâlnire primitor. Încheiați turul la o plajă sudică vibrantă, bucurându-vă de apus.",
+        "en": "Begin your morning at the active sailing club, feeling the fresh sea breeze. Walk to the golden sands of a popular northern beach nearby. At midday, admire the coastal lighthouse before entering the peaceful church of the sailors' patron saint. Later, relax with a refreshing drink at a welcoming local gathering spot. Conclude your tour at a vibrant southern beach, enjoying the vibrant sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 3.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Faro di Scoglitti",
+            "hu": "Faro di Scoglitti",
+            "ro": "Faro di Scoglitti",
+            "en": "Faro di Scoglitti"
+          },
+          "coords": [
+            14.427733,
+            36.892378
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Küstenarchitektur des städtischen Leuchtturms, der als wichtige Navigationshilfe dient, und kommen Sie bei klarem Wetter für die beste Aussicht.",
+            "hu": "Csodálja meg a városi világítótorony klasszikus tengerparti építészetét, amely fontos navigációs segédeszköz, és tiszta időben látogasson el a legjobb kilátásért.",
+            "ro": "Admirați arhitectura de coastă clasică a farului orașului, care servește drept un ajutor vital pentru navigație, și vizitați pe vreme senină pentru cele mai bune priveliști.",
+            "en": "Admire the classic coastal architecture of the town's lighthouse, which serves as a vital navigational aid, and visit during clear weather for the best views."
+          }
+        },
+        {
+          "name": {
+            "de": "Totem Beach",
+            "hu": "Totem Beach",
+            "ro": "Totem Beach",
+            "en": "Totem Beach"
+          },
+          "coords": [
+            14.437271,
+            36.882693
+          ],
+          "category": "recreational",
+          "arrive_at": "09:42",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lebhafte Atmosphäre dieses südlichen Strandbereichs mit seinen einzigartigen Markierungen und kommen Sie früh, um sich einen guten Platz am Wasser zu sichern.",
+            "hu": "Fedezze fel ennek a déli strandnak a pezsgő hangulatát, amelyet egyedi jelölései jellemeznek, és érkezzen korán, hogy biztosítson magának egy jó helyet a vízparton.",
+            "ro": "Descoperiți atmosfera vibrantă a acestei plaje sudice caracterizată prin marcajele sale unice și ajungeți devreme pentru a prinde un loc bun la marginea apei.",
+            "en": "Discover the vibrant atmosphere of this southern beach area characterized by its unique markers, and arrive early to secure a prime spot near the water's edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Mura",
+            "hu": "Mura",
+            "ro": "Mura",
+            "en": "Mura"
+          },
+          "coords": [
+            14.439571,
+            36.875265
+          ],
+          "category": "historical",
+          "arrive_at": "10:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Verfolgen Sie die Umrisse der alten Verteidigungsmauern, die einst die Siedlung schützten, und treten Sie vorsichtig über das unebene Gelände, während Sie die steinernen Ruinen erkunden.",
+            "hu": "Kövesse a települést egykor védő ősi védőfalak vonalát, és lépkedjen óvatosan az egyenetlen terepen, miközben felfedezi a köves romokat.",
+            "ro": "Urmăriți conturul vechilor ziduri de apărare care protejau cândva așezarea, pășind cu atenție pe terenul accidentat în timp ce explorați ruinele de piatră.",
+            "en": "Trace the outline of the ancient defensive walls that once protected the settlement, stepping carefully over the uneven terrain as you explore the stony ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Agorà di Ponente",
+            "hu": "Agorà di Ponente",
+            "ro": "Agorà di Ponente",
+            "en": "Agorà di Ponente"
+          },
+          "coords": [
+            14.440762,
+            36.873025
+          ],
+          "category": "historical",
+          "arrive_at": "12:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Stellen Sie sich das geschäftige öffentliche Leben der alten Griechen an dieser westlichen Marktplatzruine vor und bringen Sie einen Sonnenhut mit, da es hier keinen Schatten gibt.",
+            "hu": "Képzelje el az ókori görögök nyüzsgő közéletét ezen a nyugati piactéren, és hozzon magával napkalapot, mivel a kövek között nincsen árnyék.",
+            "ro": "Imaginați-vă viața publică plină de viață a grecilor antici la această ruină a pieței vestice, aducând o pălărie de soare, deoarece nu există umbră printre aceste pietre.",
+            "en": "Visualize the bustling public life of the ancient Greeks at this western marketplace ruin, bringing a sun hat since there is no shade among these exposed stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa dell'altare",
+            "hu": "Casa dell'altare",
+            "ro": "Casa dell'altare",
+            "en": "Casa dell'altare"
+          },
+          "coords": [
+            14.442418,
+            36.874277
+          ],
+          "category": "historical",
+          "arrive_at": "13:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betrachten Sie die Überreste dieses alten Wohnhauses mit einem historischen Altarraum und nehmen Sie sich Zeit, die Informationstafeln in der Nähe zu lesen.",
+            "hu": "Figyelje meg ennek az ősi lakóháznak a maradványait, amely történelmi oltárral is büszkélkedhet, és szánjon időt a közeli információs táblák elolvasására.",
+            "ro": "Observați rămășițele acestei vechi locuințe interne cu un spațiu de altar istoric și luați-vă timp pentru a citi plăcuțele informative din apropiere.",
+            "en": "Observe the intricate remnants of this ancient domestic dwelling featuring a historic altar space, and take your time reading the informational plaques nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Kamarina",
+            "hu": "Kamarina",
+            "ro": "Kamarina",
+            "en": "Kamarina"
+          },
+          "coords": [
+            14.445475,
+            36.873493
+          ],
+          "category": "historical",
+          "arrive_at": "14:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie an dieser bedeutenden archäologischen Stätte mit einer reichen Sammlung griechischer Artefakte in die Antike ein und beginnen Sie im Museum, um den Kontext zu verstehen.",
+            "hu": "Merüljön el az ókorban ezen a jelentős régészeti lelőhelyen, amely gazdag görög leletekkel rendelkezik, és kezdje a múzeumban a történelmi kontextus megértéséhez.",
+            "ro": "Scufundați-vă în antichitate la acest sit arheologic major care oferă o colecție bogată de artefacte grecești și începeți vizita la muzeu pentru a înțelege contextul istoric.",
+            "en": "Dive deep into antiquity at this major archaeological site offering a rich collection of Greek artifacts, and start your visit at the museum to grasp the historical context."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour am städtischen Leuchtturm und genießen Sie die Aussicht. Radeln Sie bald zu einem südlichen Strandbereich. Fahren Sie ins Landesinnere zur antiken Welt und treffen Sie auf die historischen Verteidigungsmauern. Der Nachmittag ist der Erkundung der westlichen Marktplatzruinen gewidmet. Beenden Sie Ihre Fahrt bei den Wohnhäusern und der Hauptstätte von Kamarina.",
+        "hu": "Kezdje kerékpáros útját a város világítótornya közelében. Röviddel ezután tekerjen le egy nyüzsgő déli strandhoz. Lovagoljon a szárazföld belseje felé, először a történelmi védőfalakkal találkozva. A délutánt a nyugati piactér romjainak felfedezésének szentelik, elképzelve a nyüzsgő életet. Fejezze be utazását a lakóházak maradványainál és Kamarina fő régészeti lelőhelyén.",
+        "ro": "Începeți călătoria cu bicicleta lângă farul orașului, bucurându-vă de priveliști. La scurt timp, pedalați spre o plajă sudică. Mergeți spre interior către lumea antică, întâlnind mai întâi zidurile istorice de apărare. După-amiaza este dedicată explorării ruinelor pieței vestice. Încheiați plimbarea la rămășițele locuințelor și la situl arheologic principal din vechea Kamarina.",
+        "en": "Kick off your cycling journey near the town's lighthouse, enjoying the coastal views. Soon after, pedal down to a lively southern beach area. Ride inland towards the ancient world, first encountering the historic defensive walls. The afternoon is dedicated to exploring the western marketplace ruins. Finish your ride at the domestic remnants and the main archaeological site of Kamarina."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:55",
+      "total_km": 3.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Circolo Velico Anemos",
+            "hu": "Circolo Velico Anemos",
+            "ro": "Circolo Velico Anemos",
+            "en": "Circolo Velico Anemos"
+          },
+          "coords": [
+            14.424614,
+            36.897611
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Segler in diesem aktiven Club, einem idealen Ort, um die Küste zu fotografieren, während Sie am besten eine Windjacke tragen.",
+            "hu": "Figyelje meg a helyi vitorlázókat ebben az aktív klubban, amely tökéletes hely a partvonal fotózására, de érdemes széldzsekit viselnie.",
+            "ro": "Urmăriți marinarii locali la acest club de navigație activ, un loc ideal pentru a fotografia coasta, unde vă recomandăm să purtați o jachetă de vânt.",
+            "en": "Watch local sailors navigate the winds at this active sailing club, an ideal spot to photograph the coastline while wearing a windbreaker."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Francesco di Paola",
+            "hu": "Chiesa di San Francesco di Paola",
+            "ro": "Chiesa di San Francesco di Paola",
+            "en": "Chiesa di San Francesco di Paola"
+          },
+          "coords": [
+            14.42956,
+            36.891253
+          ],
+          "category": "religious",
+          "arrive_at": "10:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Betreten Sie diese friedliche Kirche, die dem Schutzpatron der Seeleute gewidmet ist, um ihr bescheidenes Inneres zu bewundern, und sprechen Sie aus Respekt leise.",
+            "hu": "Lépjen be a tengerészek védőszentjének szentelt békés templomba, hogy megcsodálja szerény belsejét, és tartsa halkan a hangját a hívők iránti tiszteletből.",
+            "ro": "Pășiți în această biserică liniștită dedicată sfântului patron al marinarilor pentru a admira interiorul său modest, vorbind încet din respect pentru credincioși.",
+            "en": "Step inside this peaceful church dedicated to the patron saint of sailors to admire its modest interior, keeping your voice low out of respect for worshippers."
+          }
+        },
+        {
+          "name": {
+            "de": "Agorà di Levante",
+            "hu": "Agorà di Levante",
+            "ro": "Agorà di Levante",
+            "en": "Agorà di Levante"
+          },
+          "coords": [
+            14.441914,
+            36.87313
+          ],
+          "category": "historical",
+          "arrive_at": "10:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie das östliche Gegenstück des alten Bürgerzentrums, in dem ein reger Austausch stattfand, und tragen Sie feste Wanderschuhe für die staubigen Wege.",
+            "hu": "Fedezze fel az ősi polgári központ keleti párját, ahol jelentős események zajlottak, és viseljen masszív túracipőt a poros régészeti ösvényeken.",
+            "ro": "Explorați contrapartea estică a vechiului centru civic unde aveau loc schimburi importante, purtând pantofi de mers rezistenți pentru cărările arheologice prăfuite.",
+            "en": "Explore the eastern counterpart of the ancient civic center where significant civic exchanges occurred, wearing sturdy walking shoes for the dusty archaeological paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Agorà di Ponente",
+            "hu": "Agorà di Ponente",
+            "ro": "Agorà di Ponente",
+            "en": "Agorà di Ponente"
+          },
+          "coords": [
+            14.440762,
+            36.873025
+          ],
+          "category": "historical",
+          "arrive_at": "12:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Stellen Sie sich das geschäftige öffentliche Leben der alten Griechen an dieser westlichen Marktplatzruine vor und bringen Sie einen Sonnenhut mit, da es hier keinen Schatten gibt.",
+            "hu": "Képzelje el az ókori görögök nyüzsgő közéletét ezen a nyugati piactéren, és hozzon magával napkalapot, mivel a kövek között nincsen árnyék.",
+            "ro": "Imaginați-vă viața publică plină de viață a grecilor antici la această ruină a pieței vestice, aducând o pălărie de soare, deoarece nu există umbră printre aceste pietre.",
+            "en": "Visualize the bustling public life of the ancient Greeks at this western marketplace ruin, bringing a sun hat since there is no shade among these exposed stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Kamarina",
+            "hu": "Kamarina",
+            "ro": "Kamarina",
+            "en": "Kamarina"
+          },
+          "coords": [
+            14.445475,
+            36.873493
+          ],
+          "category": "historical",
+          "arrive_at": "13:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie an dieser bedeutenden archäologischen Stätte mit einer reichen Sammlung griechischer Artefakte in die Antike ein und beginnen Sie im Museum, um den Kontext zu verstehen.",
+            "hu": "Merüljön el az ókorban ezen a jelentős régészeti lelőhelyen, amely gazdag görög leletekkel rendelkezik, és kezdje a múzeumban a történelmi kontextus megértéséhez.",
+            "ro": "Scufundați-vă în antichitate la acest sit arheologic major care oferă o colecție bogată de artefacte grecești și începeți vizita la muzeu pentru a înțelege contextul istoric.",
+            "en": "Dive deep into antiquity at this major archaeological site offering a rich collection of Greek artifacts, and start your visit at the museum to grasp the historical context."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Fahrtag am nördlichen Segelclub. Eine kurze Fahrt bringt Sie zu einem Kirchenbesuch ins Zentrum. Fahren Sie nach Süden zum weitläufigen archäologischen Park und beginnen Sie mit den östlichen Ruinen. Nach einem kurzen Spaziergang tauchen Sie in die westlichen Marktplatzruinen ein. Beenden Sie Ihren Ausflug an der Hauptstätte von Kamarina und erkunden Sie Artefakte.",
+        "hu": "Kezdje az autós napot az északi vitorlásklubnál. Egy rövid autóút a városközpontba visz egy békés templomlátogatásra. Vezessen délre a hatalmas régészeti parkba, kezdve a keleti romokkal. Egy rövid séta után merüljön el a nyugati piactér romjaiban, elképzelve a mindennapi életet. Fejezze be a történelmi kirándulást a fő Kamarina helyszínen, értékes leleteket felfedezve.",
+        "ro": "Începeți ziua de condus la clubul de navigație din nord. O scurtă plimbare vă aduce în centru pentru o vizită la biserică. Mergeți cu mașina spre sud, la vastul parc arheologic, începând cu ruinele estice. După o scurtă plimbare, explorați ruinele pieței vestice, imaginându-vă viața zilnică. Încheiați excursia la situl principal Kamarina, explorând artefacte înainte de a vă întoarce.",
+        "en": "Start your driving day by the northern sailing club, observing the local maritime culture. A short drive brings you into the town center for a peaceful church visit. Head south by car to the vast archaeological park, beginning with the eastern ruins. After a short walk, delve into the western marketplace ruins. End your historical excursion at the main Kamarina site before driving back."
+      }
+    }
+  }
+}

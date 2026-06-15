@@ -1,0 +1,405 @@
+{
+  "city_id": "apt",
+  "anchor": {
+    "name": "Apt",
+    "coords": [
+      5.3964,
+      43.8761
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:41",
+      "total_km": 1.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Provencal Market of Apt",
+            "hu": "Provencal Market of Apt",
+            "ro": "Provencal Market of Apt",
+            "en": "Provencal Market of Apt"
+          },
+          "coords": [
+            5.395387,
+            43.877249
+          ],
+          "category": "culinary",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie frische regionale Produkte auf diesem lebhaften provenzalischen Markt und probieren Sie unbedingt die kandierten Früchte, für die Apt berühmt ist.",
+            "hu": "Fedezze fel a friss helyi termékeket ezen a nyüzsgő provence-i piacon, és mindenképpen kóstolja meg a kandírozott gyümölcsöket, amelyekről Apt híres.",
+            "ro": "Descoperiți produse locale proaspete în această piață provensală plină de viață și asigurați-vă că gustați fructele confiate pentru care orașul Apt este renumit.",
+            "en": "Discover fresh local produce at this bustling Provencal market, and be sure to taste the candied fruits for which Apt is famous."
+          }
+        },
+        {
+          "name": {
+            "de": "Clock Tower",
+            "hu": "Clock Tower",
+            "ro": "Clock Tower",
+            "en": "Clock Tower"
+          },
+          "coords": [
+            5.397189,
+            43.87595
+          ],
+          "category": "historical",
+          "arrive_at": "10:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen historischen Uhrturm, der das Stadtbild prägt, und achten Sie auf die kunstvollen Details an der Spitze, die bei Sonnenlicht gut zur Geltung kommen.",
+            "hu": "Csodálja meg ezt a történelmi óratornyot, amely meghatározza a városképet, és figyelje meg a csúcsán lévő díszes részleteket, amelyek napfényben érvényesülnek a legjobban.",
+            "ro": "Admirați acest turn istoric cu ceas care definește peisajul urban și observați detaliile ornamentate din partea de sus, care sunt cel mai bine văzute în lumina soarelui.",
+            "en": "Admire this historic clock tower that defines the cityscape, and look out for the ornate details at the top which are best appreciated in bright sunlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Apt Museum",
+            "hu": "Apt Museum",
+            "ro": "Apt Museum",
+            "en": "Apt Museum"
+          },
+          "coords": [
+            5.3977,
+            43.8757
+          ],
+          "category": "museum",
+          "arrive_at": "11:24",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reiche Geschichte der Region ein, indem Sie die faszinierenden archäologischen Exponate erkunden, und nehmen Sie sich Zeit für die römischen Artefakte.",
+            "hu": "Merüljön el a régió gazdag történelmében a lenyűgöző régészeti kiállítások felfedezésével, és feltétlenül szánjon időt a római kori leletekre is.",
+            "ro": "Cufundați-vă în istoria bogată a regiunii explorând exponatele arheologice fascinante și asigurați-vă că vă rezervați timp pentru a studia artefactele romane.",
+            "en": "Immerse yourself in the region's rich history by exploring the fascinating archaeological exhibits, and make sure to take your time examining the Roman artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Luberon Park House",
+            "hu": "Luberon Park House",
+            "ro": "Luberon Park House",
+            "en": "Luberon Park House"
+          },
+          "coords": [
+            5.397772,
+            43.875311
+          ],
+          "category": "museum",
+          "arrive_at": "13:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Informieren Sie sich über die lokale Flora und Fauna im Besucherzentrum und holen Sie sich an der Rezeption nützliche Karten für Ihre Erkundungen im Naturpark.",
+            "hu": "Tájékozódjon a helyi növény- és állatvilágról ebben a látogatóközpontban, és kérjen hasznos térképeket a recepción a natúrpark további felfedezéséhez.",
+            "ro": "Aflați despre flora și fauna locală în acest centru de vizitatori și luați hărți utile de la recepție pentru explorările dumneavoastră viitoare în parcul natural.",
+            "en": "Learn about the local flora and fauna at this visitor center, and pick up useful maps from the reception desk for your further explorations in the natural park."
+          }
+        },
+        {
+          "name": {
+            "de": "Stade St Michel",
+            "hu": "Stade St Michel",
+            "ro": "Stade St Michel",
+            "en": "Stade St Michel"
+          },
+          "coords": [
+            5.397699,
+            43.881643
+          ],
+          "category": "family",
+          "arrive_at": "14:56",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Nutzen Sie diesen weitläufigen Bereich für eine entspannte Pause im Freien, während die Kinder spielen können, und bringen Sie etwas Wasser für sportliche Aktivitäten mit.",
+            "hu": "Használja ki ezt a tágas területet egy pihentető szabadtéri szünetre, miközben a gyerekek játszhatnak, és vigyen magával egy kis vizet a sporttevékenységekhez.",
+            "ro": "Profitați de această zonă spațioasă pentru o pauză relaxantă în aer liber, în timp ce copiii se pot juca, și aduceți niște apă dacă plănuiți activități sportive.",
+            "en": "Take advantage of this spacious area for a relaxing outdoor break while the kids play, and remember to bring some water if you plan on joining in on sports activities."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Tag auf dem Markt und lassen Sie sich von den Düften verzaubern.\n\nErkunden Sie die reiche Geschichte der Stadt im Museum und am historischen Uhrturm.\n\nErfahren Sie im Luberon Park House mehr über die beeindruckende Natur der Umgebung.\n\nBeenden Sie den Tag entspannt am Stade St Michel, ideal für Familien und Freizeit.",
+        "hu": "Kezdje a napot a helyi piacon, és hagyja, hogy elvarázsolják a különleges illatok.\n\nFedezze fel a város gazdag történelmét a múzeumban és a történelmi óratoronynál.\n\nTudjon meg többet a környék lenyűgöző természetéről a Luberon Park House-ban.\n\nFejezze be a napot egy pihentető sétával a Stade St Michel környékén a friss levegőn.",
+        "ro": "Începeți ziua la piața locală și lăsați-vă fermecați de aromele produselor proaspete.\n\nExplorați istoria bogată a orașului la muzeu și la pitorescul turn cu ceas.\n\nAflați mai multe despre natura impresionantă a împrejurimilor la Casa Parcului Luberon.\n\nÎncheiați ziua relaxându-vă la Stade St Michel, un loc perfect pentru activități de seară.",
+        "en": "Start your day at the local market and let yourself be enchanted by the fresh aromas.\n\nExplore the rich history of the city at the local museum and the historic clock tower.\n\nLearn more about the impressive nature of the surrounding area at the Luberon Park House.\n\nEnd your day relaxing at Stade St Michel, an ideal spot for family leisure and fresh air."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 3.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Provencal Market of Apt",
+            "hu": "Provencal Market of Apt",
+            "ro": "Provencal Market of Apt",
+            "en": "Provencal Market of Apt"
+          },
+          "coords": [
+            5.395387,
+            43.877249
+          ],
+          "category": "culinary",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie frische regionale Produkte auf diesem lebhaften provenzalischen Markt und probieren Sie unbedingt die kandierten Früchte, für die Apt berühmt ist.",
+            "hu": "Fedezze fel a friss helyi termékeket ezen a nyüzsgő provence-i piacon, és mindenképpen kóstolja meg a kandírozott gyümölcsöket, amelyekről Apt híres.",
+            "ro": "Descoperiți produse locale proaspete în această piață provensală plină de viață și asigurați-vă că gustați fructele confiate pentru care orașul Apt este renumit.",
+            "en": "Discover fresh local produce at this bustling Provencal market, and be sure to taste the candied fruits for which Apt is famous."
+          }
+        },
+        {
+          "name": {
+            "de": "Clock Tower",
+            "hu": "Clock Tower",
+            "ro": "Clock Tower",
+            "en": "Clock Tower"
+          },
+          "coords": [
+            5.397189,
+            43.87595
+          ],
+          "category": "historical",
+          "arrive_at": "10:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen historischen Uhrturm, der das Stadtbild prägt, und achten Sie auf die kunstvollen Details an der Spitze, die bei Sonnenlicht gut zur Geltung kommen.",
+            "hu": "Csodálja meg ezt a történelmi óratornyot, amely meghatározza a városképet, és figyelje meg a csúcsán lévő díszes részleteket, amelyek napfényben érvényesülnek a legjobban.",
+            "ro": "Admirați acest turn istoric cu ceas care definește peisajul urban și observați detaliile ornamentate din partea de sus, care sunt cel mai bine văzute în lumina soarelui.",
+            "en": "Admire this historic clock tower that defines the cityscape, and look out for the ornate details at the top which are best appreciated in bright sunlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Apt Museum",
+            "hu": "Apt Museum",
+            "ro": "Apt Museum",
+            "en": "Apt Museum"
+          },
+          "coords": [
+            5.3977,
+            43.8757
+          ],
+          "category": "museum",
+          "arrive_at": "11:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reiche Geschichte der Region ein, indem Sie die faszinierenden archäologischen Exponate erkunden, und nehmen Sie sich Zeit für die römischen Artefakte.",
+            "hu": "Merüljön el a régió gazdag történelmében a lenyűgöző régészeti kiállítások felfedezésével, és feltétlenül szánjon időt a római kori leletekre is.",
+            "ro": "Cufundați-vă în istoria bogată a regiunii explorând exponatele arheologice fascinante și asigurați-vă că vă rezervați timp pentru a studia artefactele romane.",
+            "en": "Immerse yourself in the region's rich history by exploring the fascinating archaeological exhibits, and make sure to take your time examining the Roman artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Stade St Michel",
+            "hu": "Stade St Michel",
+            "ro": "Stade St Michel",
+            "en": "Stade St Michel"
+          },
+          "coords": [
+            5.397699,
+            43.881643
+          ],
+          "category": "family",
+          "arrive_at": "13:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Nutzen Sie diesen weitläufigen Bereich für eine entspannte Pause im Freien, während die Kinder spielen können, und bringen Sie etwas Wasser für sportliche Aktivitäten mit.",
+            "hu": "Használja ki ezt a tágas területet egy pihentető szabadtéri szünetre, miközben a gyerekek játszhatnak, és vigyen magával egy kis vizet a sporttevékenységekhez.",
+            "ro": "Profitați de această zonă spațioasă pentru o pauză relaxantă în aer liber, în timp ce copiii se pot juca, și aduceți niște apă dacă plănuiți activități sportive.",
+            "en": "Take advantage of this spacious area for a relaxing outdoor break while the kids play, and remember to bring some water if you plan on joining in on sports activities."
+          }
+        },
+        {
+          "name": {
+            "de": "Baignade flottante de la Riaille",
+            "hu": "Baignade flottante de la Riaille",
+            "ro": "Baignade flottante de la Riaille",
+            "en": "Baignade flottante de la Riaille"
+          },
+          "coords": [
+            5.378546,
+            43.892063
+          ],
+          "category": "family",
+          "arrive_at": "14:35",
+          "stay_min": 105,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Erfrischen Sie sich an heißen Tagen in diesem sicheren Schwimmbereich und kommen Sie am besten frühzeitig, um sich einen guten Schattenplatz am Ufer zu sichern.",
+            "hu": "Frissüljön fel a forró napokon ezen a biztonságos fürdőhelyen, és érdemes korán érkeznie, hogy biztosan találjon egy jó árnyékos helyet a parton.",
+            "ro": "Răcoriți-vă în zilele fierbinți în această zonă sigură de înot și încercați să ajungeți devreme pentru a vă asigura un loc bun la umbră pe mal.",
+            "en": "Cool off on hot days in this safe swimming area, and try to arrive early so you can secure a good shaded spot on the shore before it gets crowded."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie zunächst zum bunten Markt und genießen Sie das lebhafte Treiben der Stadt.\n\nNach einem Stopp am Uhrturm vertiefen Sie Ihr Wissen im spannenden archäologischen Museum.\n\nEine kurze Fahrt bringt Sie zum Stadion für sportliche Aktivitäten oder eine kleine Pause.\n\nGenießen Sie die Abendsonne bei einem erfrischenden Bad in der Baignade flottante de la Riaille.",
+        "hu": "Először kerékpározzon el a színes piacra, és élvezze a város nyüzsgő forgatagát.\n\nAz óratorony után mélyítse el tudását az izgalmas régészeti múzeumban a központban.\n\nEgy rövid út elviszi a stadionhoz, ahol sportolhat vagy tarthat egy kis pihenőt.\n\nÉlvezze az esti napsütést egy frissítő fürdőzéssel a Baignade flottante de la Riaille-ban.",
+        "ro": "Mergeți cu bicicleta la piața colorată și bucurați-vă de agitația plină de viață a orașului.\n\nDupă o oprire la turnul cu ceas, aprofundați-vă cunoștințele în muzeul de arheologie.\n\nO scurtă plimbare vă duce la stadion pentru activități sportive sau o scurtă pauză.\n\nBucurați-vă de soarele serii cu o baie răcoritoare la Baignade flottante de la Riaille.",
+        "en": "Cycle first to the colorful market and enjoy the lively hustle and bustle of the city.\n\nAfter a stop at the clock tower, deepen your knowledge at the exciting archaeological museum.\n\nA short ride takes you to the stadium for some sports activities or a quick rest.\n\nEnjoy the evening sun with a refreshing swim at the Baignade flottante de la Riaille."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 18.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Provencal Market of Apt",
+            "hu": "Provencal Market of Apt",
+            "ro": "Provencal Market of Apt",
+            "en": "Provencal Market of Apt"
+          },
+          "coords": [
+            5.395387,
+            43.877249
+          ],
+          "category": "culinary",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie frische regionale Produkte auf diesem lebhaften provenzalischen Markt und probieren Sie unbedingt die kandierten Früchte, für die Apt berühmt ist.",
+            "hu": "Fedezze fel a friss helyi termékeket ezen a nyüzsgő provence-i piacon, és mindenképpen kóstolja meg a kandírozott gyümölcsöket, amelyekről Apt híres.",
+            "ro": "Descoperiți produse locale proaspete în această piață provensală plină de viață și asigurați-vă că gustați fructele confiate pentru care orașul Apt este renumit.",
+            "en": "Discover fresh local produce at this bustling Provencal market, and be sure to taste the candied fruits for which Apt is famous."
+          }
+        },
+        {
+          "name": {
+            "de": "Luberon Park House",
+            "hu": "Luberon Park House",
+            "ro": "Luberon Park House",
+            "en": "Luberon Park House"
+          },
+          "coords": [
+            5.397772,
+            43.875311
+          ],
+          "category": "museum",
+          "arrive_at": "10:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Informieren Sie sich über die lokale Flora und Fauna im Besucherzentrum und holen Sie sich an der Rezeption nützliche Karten für Ihre Erkundungen im Naturpark.",
+            "hu": "Tájékozódjon a helyi növény- és állatvilágról ebben a látogatóközpontban, és kérjen hasznos térképeket a recepción a natúrpark további felfedezéséhez.",
+            "ro": "Aflați despre flora și fauna locală în acest centru de vizitatori și luați hărți utile de la recepție pentru explorările dumneavoastră viitoare în parcul natural.",
+            "en": "Learn about the local flora and fauna at this visitor center, and pick up useful maps from the reception desk for your further explorations in the natural park."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscines Allard",
+            "hu": "Piscines Allard",
+            "ro": "Piscines Allard",
+            "en": "Piscines Allard"
+          },
+          "coords": [
+            5.370654,
+            43.887543
+          ],
+          "category": "family",
+          "arrive_at": "11:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Verbringen Sie vergnügliche Stunden in diesen familienfreundlichen Schwimmbädern, die ideal für Kinder sind, und denken Sie daran, ausreichend Sonnencreme einzupacken.",
+            "hu": "Töltsön el néhány vidám órát ezekben a családbarát medencékben, amelyek ideálisak a gyerekek számára, és ne felejtsen el elegendő naptejet csomagolni.",
+            "ro": "Petreceți câteva ore distractive în aceste piscine potrivite pentru familii, care sunt ideale pentru copii, și nu uitați să împachetați multă cremă de protecție solară.",
+            "en": "Spend some fun hours at these family-friendly swimming pools which are ideal for children, and just remember to pack plenty of sunscreen for the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Baignade flottante de la Riaille",
+            "hu": "Baignade flottante de la Riaille",
+            "ro": "Baignade flottante de la Riaille",
+            "en": "Baignade flottante de la Riaille"
+          },
+          "coords": [
+            5.378546,
+            43.892063
+          ],
+          "category": "family",
+          "arrive_at": "13:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erfrischen Sie sich an heißen Tagen in diesem sicheren Schwimmbereich und kommen Sie am besten frühzeitig, um sich einen guten Schattenplatz am Ufer zu sichern.",
+            "hu": "Frissüljön fel a forró napokon ezen a biztonságos fürdőhelyen, és érdemes korán érkeznie, hogy biztosan találjon egy jó árnyékos helyet a parton.",
+            "ro": "Răcoriți-vă în zilele fierbinți în această zonă sigură de înot și încercați să ajungeți devreme pentru a vă asigura un loc bun la umbră pe mal.",
+            "en": "Cool off on hot days in this safe swimming area, and try to arrive early so you can secure a good shaded spot on the shore before it gets crowded."
+          }
+        },
+        {
+          "name": {
+            "de": "Réserve de Rustrel",
+            "hu": "Réserve de Rustrel",
+            "ro": "Réserve de Rustrel",
+            "en": "Réserve de Rustrel"
+          },
+          "coords": [
+            5.454812,
+            43.917267
+          ],
+          "category": "natural",
+          "arrive_at": "14:35",
+          "stay_min": 105,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die spektakulären Ockerfelsen, die oft als provenzalisches Colorado bezeichnet werden, und tragen Sie festes Schuhwerk für die unebenen Wanderwege.",
+            "hu": "Csodálja meg a látványos okkersziklákat, amelyeket gyakran provence-i Coloradónak neveznek, és viseljen zárt cipőt a helyenként egyenetlen túraútvonalak miatt.",
+            "ro": "Experimentați spectaculoasele stânci de ocru, adesea numite Colorado-ul provensal, și purtați încălțăminte robustă, deoarece traseele pot fi destul de denivelate.",
+            "en": "Experience the spectacular ochre cliffs, often referred to as the Provencal Colorado, and make sure to wear sturdy shoes for the occasionally uneven hiking trails."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit einem Marktbesuch und lernen Sie danach das Luberon Park House kennen.\n\nFahren Sie zu den Piscines Allard, wo sich die ganze Familie hervorragend abkühlen kann.\n\nEntspannen Sie an der idyllischen Baignade flottante de la Riaille bei schönstem Wetter.\n\nDer Höhepunkt ist die Fahrt zur spektakulären Réserve de Rustrel mit ihren Ockerfelsen.",
+        "hu": "Kezdje a piac meglátogatásával, majd ismerkedjen meg a Luberon Park House kiállításaival.\n\nVezessen a Piscines Allard-hoz, ahol az egész család kiválóan felfrissülhet a vízben.\n\nPihenjen az idilli Baignade flottante de la Riaille partján a gyönyörű időben.\n\nA nap fénypontja a látványos Réserve de Rustrel és a különleges okkersziklák felfedezése.",
+        "ro": "Începeți cu o vizită la piață și apoi faceți cunoștință cu expoziția de la Casa Parcului.\n\nConduceți la Piscines Allard, unde întreaga familie se poate răcori și distra de minune.\n\nRelaxați-vă pe țărmurile idilice ale Baignade flottante de la Riaille în vremea frumoasă.\n\nPunctul culminant este o excursie la spectaculoasa Rezervație Rustrel cu stâncile sale.",
+        "en": "Start with a visit to the market and then get to know the Luberon Park House exhibits.\n\nDrive to the Piscines Allard where the whole family can cool off and have a great time.\n\nRelax on the idyllic shores of the Baignade flottante de la Riaille in the beautiful weather.\n\nThe highlight is a trip to the spectacular Réserve de Rustrel with its famous ochre cliffs."
+      }
+    }
+  }
+}

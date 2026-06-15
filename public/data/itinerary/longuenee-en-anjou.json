@@ -1,0 +1,497 @@
+{
+  "city_id": "longuenee-en-anjou",
+  "anchor": {
+    "name": "Longuenée-en-Anjou",
+    "coords": [
+      -0.6728,
+      47.5619
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:17",
+      "total_km": 5.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Église Saint-Martin",
+            "ro": "Église Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            -0.672899,
+            47.561595
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Buntglasfenster dieser zentralen Kirche und kommen Sie früh, um das Morgenlicht am Hauptaltar einzufangen.",
+            "hu": "Csodálja meg e központi templom gyönyörű ólomüveg ablakait, és érkezzen korán, hogy elcsípje a főoltárt megvilágító csodás reggeli fényeket.",
+            "ro": "Admirați frumoasele vitralii ale acestei biserici centrale și încercați să ajungeți devreme pentru a surprinde lumina dimineții pe altarul principal.",
+            "en": "Admire the beautiful stained glass windows of this central church, and try to arrive early to capture the morning light illuminating the main altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Chesnaie",
+            "hu": "Château de la Chesnaie",
+            "ro": "Château de la Chesnaie",
+            "en": "Château de la Chesnaie"
+          },
+          "coords": [
+            -0.679551,
+            47.573744
+          ],
+          "category": "castle",
+          "arrive_at": "10:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Dieses charmante private Schloss besticht durch elegante klassische Architektur; bringen Sie ein Teleobjektiv mit, um die Fassade von der Straße aus zu fotografieren.",
+            "hu": "Ez a bájos magánkastély elegáns klasszikus építészettel büszkélkedhet, ezért hozzon teleobjektívet, hogy az útról lefotózhassa a homlokzatát.",
+            "ro": "Acest fermecător castel privat se mândrește cu o arhitectură clasică elegantă, așa că aduceți un teleobiectiv pentru a fotografia fațada de pe drum.",
+            "en": "This charming private castle boasts elegant classical architecture, so bring a telephoto lens to photograph its façade from the public roadside."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Symphorien",
+            "hu": "Église Saint-Symphorien",
+            "ro": "Église Saint-Symphorien",
+            "en": "Église Saint-Symphorien"
+          },
+          "coords": [
+            -0.662004,
+            47.576955
+          ],
+          "category": "religious",
+          "arrive_at": "11:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Stille dieser historischen Pfarrkirche, aber sprechen Sie leise, da Einheimische den Raum oft zur Nachmittagsandacht nutzen.",
+            "hu": "Fedezze fel e történelmi plébániatemplom csendes nyugalmát, de beszéljen halkan, mivel a helyiek gyakran használják a teret csendes elmélkedésre.",
+            "ro": "Descoperiți seninătatea liniștită a acestei biserici parohiale istorice, dar păstrați liniștea, deoarece localnicii folosesc spațiul pentru reflecție.",
+            "en": "Discover the quiet serenity of this historic parish church, but keep your voice low as locals often use the space for silent afternoon reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "La Roussière",
+            "hu": "La Roussière",
+            "ro": "La Roussière",
+            "en": "La Roussière"
+          },
+          "coords": [
+            -0.647718,
+            47.572839
+          ],
+          "category": "castle",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit, um die imposanten Steinmauern dieses alten Herrenhauses zu bewundern, und bleiben Sie auf den markierten Wegen.",
+            "hu": "Szánjon egy percet az öreg udvarház impozáns kőfalainak megcsodálására, és maradjon a kijelölt ösvényeken, hogy tiszteletben tartsa a magánterületet.",
+            "ro": "Luați-vă un moment pentru a aprecia pereții impunători de piatră ai acestui vechi conac și rămâneți pe potecile marcate pentru a respecta proprietatea privată.",
+            "en": "Take a moment to appreciate the imposing stone walls of this old manor house, and stay on the marked paths to respect the surrounding private property."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Marcillé",
+            "hu": "Château de Marcillé",
+            "ro": "Château de Marcillé",
+            "en": "Château de Marcillé"
+          },
+          "coords": [
+            -0.646944,
+            47.565944
+          ],
+          "category": "castle",
+          "arrive_at": "14:27",
+          "stay_min": 110,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den malerischen Wassergraben, in dem sich die beeindruckenden Türme spiegeln, und besuchen Sie uns am späten Nachmittag für das beste Licht.",
+            "hu": "Élvezze a festői várárkot, amely ezen erőd lenyűgöző tornyait tükrözi, de látogasson el a késő délutáni órákban, hogy elcsípje a legjobb aranyórás fényeket.",
+            "ro": "Bucurați-vă de șanțul pitoresc care reflectă turnurile impresionante ale acestei fortărețe, dar vizitați după-amiaza târziu pentru cea mai bună lumină.",
+            "en": "Enjoy the picturesque moat reflecting the impressive towers of this fortress, but visit during the late afternoon to catch the best golden hour lighting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen unsere Wanderung an der charmanten Église Saint-Martin und bewundern am Morgen ihre historische Architektur. Gegen Mittag wandern wir zum Château de la Chesnaie und zur Église Saint-Symphorien, um das lokale Erbe zu entdecken. Der Nachmittag führt uns zur eleganten La Roussière, wo ruhige Wege zum Verweilen einladen. Wir beenden unseren Spaziergang am Château de Marcillé und genießen die abendliche Brise.",
+        "hu": "Sétánkat a hangulatos Église Saint-Martin templomnál kezdjük, megcsodálva történelmi építészetét a reggeli fényben. Délben a Château de la Chesnaie és az Église Saint-Symphorien felé vesszük az irányt, felfedezve a helyi örökséget. A délután az elegáns La Roussière-hez vezet, ahol a nyugodt ösvények lassításra csábítanak. A napot a Château de Marcillé-nél zárjuk, élvezve az esti szellőt és a kastély szépségét.",
+        "ro": "Începem plimbarea noastră la fermecătoarea Église Saint-Martin, admirând arhitectura sa istorică în lumina dimineții. La prânz, mergem spre Château de la Chesnaie și Église Saint-Symphorien, descoperind bogatul patrimoniu local. După-amiaza ne poartă spre eleganta La Roussière, unde aleile liniștite te invită la un ritm mai lent. Încheiem ziua la Château de Marcillé, bucurându-ne de briza serii și de frumusețea castelului.",
+        "en": "We start our walking journey at the charming Église Saint-Martin, admiring its historic architecture in the morning light. By midday, we hike towards Château de la Chesnaie and Église Saint-Symphorien, discovering the rich local heritage. The afternoon takes us to the elegant La Roussière, where tranquil pathways invite a slower pace. We conclude our walk at Château de Marcillé, enjoying the evening breeze and contemplating the castle's timeless beauty."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:35",
+      "total_km": 10.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Église Saint-Martin",
+            "ro": "Église Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            -0.672899,
+            47.561595
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Buntglasfenster dieser zentralen Kirche und kommen Sie früh, um das Morgenlicht am Hauptaltar einzufangen.",
+            "hu": "Csodálja meg e központi templom gyönyörű ólomüveg ablakait, és érkezzen korán, hogy elcsípje a főoltárt megvilágító csodás reggeli fényeket.",
+            "ro": "Admirați frumoasele vitralii ale acestei biserici centrale și încercați să ajungeți devreme pentru a surprinde lumina dimineții pe altarul principal.",
+            "en": "Admire the beautiful stained glass windows of this central church, and try to arrive early to capture the morning light illuminating the main altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Chesnaie",
+            "hu": "Château de la Chesnaie",
+            "ro": "Château de la Chesnaie",
+            "en": "Château de la Chesnaie"
+          },
+          "coords": [
+            -0.679551,
+            47.573744
+          ],
+          "category": "castle",
+          "arrive_at": "09:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Dieses charmante private Schloss besticht durch elegante klassische Architektur; bringen Sie ein Teleobjektiv mit, um die Fassade von der Straße aus zu fotografieren.",
+            "hu": "Ez a bájos magánkastély elegáns klasszikus építészettel büszkélkedhet, ezért hozzon teleobjektívet, hogy az útról lefotózhassa a homlokzatát.",
+            "ro": "Acest fermecător castel privat se mândrește cu o arhitectură clasică elegantă, așa că aduceți un teleobiectiv pentru a fotografia fațada de pe drum.",
+            "en": "This charming private castle boasts elegant classical architecture, so bring a telephoto lens to photograph its façade from the public roadside."
+          }
+        },
+        {
+          "name": {
+            "de": "Château des Grandes Maisons",
+            "hu": "Château des Grandes Maisons",
+            "ro": "Château des Grandes Maisons",
+            "en": "Château des Grandes Maisons"
+          },
+          "coords": [
+            -0.660265,
+            47.586667
+          ],
+          "category": "castle",
+          "arrive_at": "11:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die raffinierten Details dieses noblen Landguts von den äußeren Toren aus und tragen Sie bequeme Schuhe für die unebenen Wege.",
+            "hu": "Bámulja meg e nemesi vidéki birtok kifinomult részleteit a külső kapuktól, és viseljen kényelmes sétacipőt az egyenetlen ösvények miatt.",
+            "ro": "Priviți detaliile rafinate ale acestei moșii rurale nobile de la porțile exterioare și purtați încălțăminte confortabilă pentru aleile inegale din jur.",
+            "en": "Gaze at the refined details of this noble country estate from the outer gates, and consider wearing comfortable walking shoes for the uneven pathways around it."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Symphorien",
+            "hu": "Église Saint-Symphorien",
+            "ro": "Église Saint-Symphorien",
+            "en": "Église Saint-Symphorien"
+          },
+          "coords": [
+            -0.662004,
+            47.576955
+          ],
+          "category": "religious",
+          "arrive_at": "12:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Stille dieser historischen Pfarrkirche, aber sprechen Sie leise, da Einheimische den Raum oft zur Nachmittagsandacht nutzen.",
+            "hu": "Fedezze fel e történelmi plébániatemplom csendes nyugalmát, de beszéljen halkan, mivel a helyiek gyakran használják a teret csendes elmélkedésre.",
+            "ro": "Descoperiți seninătatea liniștită a acestei biserici parohiale istorice, dar păstrați liniștea, deoarece localnicii folosesc spațiul pentru reflecție.",
+            "en": "Discover the quiet serenity of this historic parish church, but keep your voice low as locals often use the space for silent afternoon reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "La Roussière",
+            "hu": "La Roussière",
+            "ro": "La Roussière",
+            "en": "La Roussière"
+          },
+          "coords": [
+            -0.647718,
+            47.572839
+          ],
+          "category": "castle",
+          "arrive_at": "13:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit, um die imposanten Steinmauern dieses alten Herrenhauses zu bewundern, und bleiben Sie auf den markierten Wegen.",
+            "hu": "Szánjon egy percet az öreg udvarház impozáns kőfalainak megcsodálására, és maradjon a kijelölt ösvényeken, hogy tiszteletben tartsa a magánterületet.",
+            "ro": "Luați-vă un moment pentru a aprecia pereții impunători de piatră ai acestui vechi conac și rămâneți pe potecile marcate pentru a respecta proprietatea privată.",
+            "en": "Take a moment to appreciate the imposing stone walls of this old manor house, and stay on the marked paths to respect the surrounding private property."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Marcillé",
+            "hu": "Château de Marcillé",
+            "ro": "Château de Marcillé",
+            "en": "Château de Marcillé"
+          },
+          "coords": [
+            -0.646944,
+            47.565944
+          ],
+          "category": "castle",
+          "arrive_at": "15:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den malerischen Wassergraben, in dem sich die beeindruckenden Türme spiegeln, und besuchen Sie uns am späten Nachmittag für das beste Licht.",
+            "hu": "Élvezze a festői várárkot, amely ezen erőd lenyűgöző tornyait tükrözi, de látogasson el a késő délutáni órákban, hogy elcsípje a legjobb aranyórás fényeket.",
+            "ro": "Bucurați-vă de șanțul pitoresc care reflectă turnurile impresionante ale acestei fortărețe, dar vizitați după-amiaza târziu pentru cea mai bună lumină.",
+            "en": "Enjoy the picturesque moat reflecting the impressive towers of this fortress, but visit during the late afternoon to catch the best golden hour lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Plessis-Macé Castle",
+            "hu": "Plessis-Macé Castle",
+            "ro": "Plessis-Macé Castle",
+            "en": "Plessis-Macé Castle"
+          },
+          "coords": [
+            -0.675345,
+            47.546312
+          ],
+          "category": "historical",
+          "arrive_at": "16:45",
+          "stay_min": 110,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie eine der schönsten Burgen des Anjou mit einem spektakulären Holzbalkon und prüfen Sie vor Ihrer Ankunft die Zeiten der Führungen online.",
+            "hu": "Fedezze fel Anjou egyik legszebb, látványos faerkéllyel rendelkező erődített kastélyát, és érkezés előtt ellenőrizze online az idegenvezetések menetrendjét.",
+            "ro": "Explorați unul dintre cele mai frumoase castele fortificate din Anjou cu un balcon din lemn spectaculos și verificați programul tururilor ghidate online.",
+            "en": "Explore one of Anjou's finest fortified castles featuring a spectacular wooden balcony, and check the guided tour schedule online before your arrival."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an der Église Saint-Martin, bevor Sie zum historischen Château de la Chesnaie radeln. Mittags erwartet Sie eine landschaftlich reizvolle Fahrt zum Château des Grandes Maisons und zur Église Saint-Symphorien. Verbringen Sie den Nachmittag damit, an der La Roussière und dem Château de Marcillé vorbeizufahren. Die Reise endet am prächtigen Plessis-Macé Castle, einem wahren historischen Juwel.",
+        "hu": "Kezdje kerékpártúráját az Église Saint-Martin templomnál, mielőtt a történelmi Château de la Chesnaie felé pedálozna. A délben festői utazás vár a Château des Grandes Maisons és a hangulatos Église Saint-Symphorien felé. A délutánt a La Roussière és a Château de Marcillé melletti gurulással töltheti. Az utazás csodálatosan ér véget a fenséges Plessis-Macé Castle-nél, amely egy igazi történelmi gyöngyszem.",
+        "ro": "Începeți turul cu bicicleta la Église Saint-Martin înainte de a pedala spre istoricul Château de la Chesnaie. Prânzul aduce o plimbare pitorească spre Château des Grandes Maisons și pitoreasca Église Saint-Symphorien. Petreceți-vă după-amiaza trecând pe lângă La Roussière și Château de Marcillé. Călătoria se încheie frumos la magnificul Plessis-Macé Castle, o adevărată bijuterie istorică.",
+        "en": "Kick off your cycling tour at Église Saint-Martin before pedaling to the historic Château de la Chesnaie. Midday brings a scenic ride to Château des Grandes Maisons and the quaint Église Saint-Symphorien. Spend your afternoon cruising past the grand La Roussière and Château de Marcillé, soaking in the architectural wonders. The journey ends beautifully at the magnificent Plessis-Macé Castle, a true historical gem."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:03",
+      "total_km": 14.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plessis-Macé Castle",
+            "hu": "Plessis-Macé Castle",
+            "ro": "Plessis-Macé Castle",
+            "en": "Plessis-Macé Castle"
+          },
+          "coords": [
+            -0.675345,
+            47.546312
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie eine der schönsten Burgen des Anjou mit einem spektakulären Holzbalkon und prüfen Sie vor Ihrer Ankunft die Zeiten der Führungen online.",
+            "hu": "Fedezze fel Anjou egyik legszebb, látványos faerkéllyel rendelkező erődített kastélyát, és érkezés előtt ellenőrizze online az idegenvezetések menetrendjét.",
+            "ro": "Explorați unul dintre cele mai frumoase castele fortificate din Anjou cu un balcon din lemn spectaculos și verificați programul tururilor ghidate online.",
+            "en": "Explore one of Anjou's finest fortified castles featuring a spectacular wooden balcony, and check the guided tour schedule online before your arrival."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Pierre Church",
+            "hu": "Saint-Pierre Church",
+            "ro": "Saint-Pierre Church",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            -0.674421,
+            47.543847
+          ],
+          "category": "religious",
+          "arrive_at": "10:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beachten Sie den bescheidenen, aber fesselnden Baustil dieser kleinen Dorfkirche und schauen Sie sich das alte Mauerwerk in der Nähe des Haupteingangs genau an.",
+            "hu": "Vegye észre e kis falusi templom szerény, mégis magával ragadó építészeti stílusát, és nézze meg közelebbről a főbejárat melletti ősi kőfalazatot.",
+            "ro": "Observați stilul arhitectural modest, dar captivant al acestei mici biserici de sat și priviți îndeaproape zidăria antică vizibilă lângă intrarea principală.",
+            "en": "Notice the modest yet captivating architectural style of this small village church, and look closely at the ancient stonework visible near the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Église Saint-Martin",
+            "ro": "Église Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            -0.672899,
+            47.561595
+          ],
+          "category": "religious",
+          "arrive_at": "11:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Buntglasfenster dieser zentralen Kirche und kommen Sie früh, um das Morgenlicht am Hauptaltar einzufangen.",
+            "hu": "Csodálja meg e központi templom gyönyörű ólomüveg ablakait, és érkezzen korán, hogy elcsípje a főoltárt megvilágító csodás reggeli fényeket.",
+            "ro": "Admirați frumoasele vitralii ale acestei biserici centrale și încercați să ajungeți devreme pentru a surprinde lumina dimineții pe altarul principal.",
+            "en": "Admire the beautiful stained glass windows of this central church, and try to arrive early to capture the morning light illuminating the main altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Chesnaie",
+            "hu": "Château de la Chesnaie",
+            "ro": "Château de la Chesnaie",
+            "en": "Château de la Chesnaie"
+          },
+          "coords": [
+            -0.679551,
+            47.573744
+          ],
+          "category": "castle",
+          "arrive_at": "11:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Dieses charmante private Schloss besticht durch elegante klassische Architektur; bringen Sie ein Teleobjektiv mit, um die Fassade von der Straße aus zu fotografieren.",
+            "hu": "Ez a bájos magánkastély elegáns klasszikus építészettel büszkélkedhet, ezért hozzon teleobjektívet, hogy az útról lefotózhassa a homlokzatát.",
+            "ro": "Acest fermecător castel privat se mândrește cu o arhitectură clasică elegantă, așa că aduceți un teleobiectiv pentru a fotografia fațada de pe drum.",
+            "en": "This charming private castle boasts elegant classical architecture, so bring a telephoto lens to photograph its façade from the public roadside."
+          }
+        },
+        {
+          "name": {
+            "de": "Château des Grandes Maisons",
+            "hu": "Château des Grandes Maisons",
+            "ro": "Château des Grandes Maisons",
+            "en": "Château des Grandes Maisons"
+          },
+          "coords": [
+            -0.660265,
+            47.586667
+          ],
+          "category": "castle",
+          "arrive_at": "13:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die raffinierten Details dieses noblen Landguts von den äußeren Toren aus und tragen Sie bequeme Schuhe für die unebenen Wege.",
+            "hu": "Bámulja meg e nemesi vidéki birtok kifinomult részleteit a külső kapuktól, és viseljen kényelmes sétacipőt az egyenetlen ösvények miatt.",
+            "ro": "Priviți detaliile rafinate ale acestei moșii rurale nobile de la porțile exterioare și purtați încălțăminte confortabilă pentru aleile inegale din jur.",
+            "en": "Gaze at the refined details of this noble country estate from the outer gates, and consider wearing comfortable walking shoes for the uneven pathways around it."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Clément-Teich",
+            "hu": "Saint-Clément-tó",
+            "ro": "Iazul Saint-Clément",
+            "en": "Saint-Clément Pond"
+          },
+          "coords": [
+            -0.73201,
+            47.585486
+          ],
+          "category": "natural",
+          "arrive_at": "14:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den ruhigen Gewässern dieses großen natürlichen Teiches voller Vögel und bringen Sie ein Fernglas mit, um Eisvögel zu beobachten.",
+            "hu": "Pihenjen e hatalmas, helyi madaraktól nyüzsgő természetes tó nyugodt vizénél, és hozzon távcsövet, hogy könnyen kiszúrja a színes jégmadarakat a nádasban.",
+            "ro": "Relaxați-vă lângă apele calme ale acestui iaz natural plin de păsări locale și aduceți binoclu pentru a observa cu ușurință pescărașii colorați din stuf.",
+            "en": "Relax by the calm waters of this expansive natural pond teeming with local birds, and bring binoculars to easily spot the colorful kingfishers in the reeds."
+          }
+        },
+        {
+          "name": {
+            "de": "Forst von Longuenée",
+            "hu": "Longuenée-erdő",
+            "ro": "Pădurea Longuenée",
+            "en": "Longuenée Forest"
+          },
+          "coords": [
+            -0.714984,
+            47.556556
+          ],
+          "category": "natural",
+          "arrive_at": "16:18",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Atmen Sie die frische Luft unter dem dichten Blätterdach dieser ausgedehnten alten Wälder ein, aber bringen Sie in den feuchten Sommermonaten Mückenschutz mit.",
+            "hu": "Lélegezze be a friss levegőt e hatalmas ősi erdők sűrű lombkoronája alatt, de a párás nyári hónapokban mindenképpen vigyen magával szúnyogriasztót.",
+            "ro": "Respirați aerul proaspăt sub coronamentul dens al acestor păduri străvechi întinse, dar asigurați-vă că aveți repelent de țânțari în lunile umede de vară.",
+            "en": "Breathe in the fresh air under the dense canopy of these sprawling ancient woods, but be sure to carry mosquito repellent during the humid summer months."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Roadtrip beginnt am spektakulären Plessis-Macé Castle, gefolgt von einer kurzen Fahrt zur Saint-Pierre Church. Fahren Sie mittags durch die Stadt, um die Église Saint-Martin und das Château de la Chesnaie zu besichtigen. Der Nachmittag ist der Natur gewidmet, beginnend mit dem friedlichen Saint-Clément Pond. Der Tag endet mit einem erfrischenden Abendspaziergang durch den üppigen Longuenée Forest.",
+        "hu": "Autós túrája a látványos Plessis-Macé Castle-nél kezdődik, amelyet egy rövid út követ a szomszédos Saint-Pierre Church felé. Délben hajtson át a városon, hogy megnézze az Église Saint-Martin templomot és a Château de la Chesnaie-t. A délutánt a természetnek szenteljük, amely a békés Saint-Clément Pond-nál kezdődik. A napot egy frissítő esti séta zárja a buja Longuenée Forest területén.",
+        "ro": "Excursia cu mașina începe la spectaculosul Plessis-Macé Castle, urmat rapid de o scurtă oprire la Saint-Pierre Church. La prânz, conduceți prin oraș pentru a vedea Église Saint-Martin și retrasul Château de la Chesnaie. După-amiaza este rezervată naturii, începând cu liniștitul Saint-Clément Pond. Ziua se încheie cu o plimbare răcoritoare de seară prin uimitoarea Longuenée Forest.",
+        "en": "Your road trip starts at the spectacular Plessis-Macé Castle, quickly followed by a short drive to the neighboring Saint-Pierre Church. By midday, drive through the town to see Église Saint-Martin and the secluded Château de la Chesnaie. The afternoon is reserved for nature, beginning with the peaceful Saint-Clément Pond before heading to the woods. The day wraps up with a refreshing evening walk through Longuenée Forest."
+      }
+    }
+  }
+}

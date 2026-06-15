@@ -1,0 +1,497 @@
+{
+  "city_id": "germany-kampen-sylt-cities-v2",
+  "anchor": {
+    "name": "Kampen (Sylt)",
+    "coords": [
+      8.34407,
+      54.95377
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:18",
+      "total_km": 1.25,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kaamp-Hüs",
+            "hu": "Kaamp-Hüs",
+            "ro": "Kaamp-Hüs",
+            "en": "Kaamp-Hüs"
+          },
+          "coords": [
+            8.343008,
+            54.955399
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier, um die Inselgeschichte zu verstehen, und prüfen Sie direkt am Eingang den Veranstaltungskalender.",
+            "hu": "Kezdje itt a túrát a sziget történelmének megismerésével, és belépéskor azonnal nézze meg az eseménynaptárt.",
+            "ro": "Începeți aici pentru a înțelege istoria insulei și verificați calendarul de evenimente imediat cum intrați.",
+            "en": "Begin your tour at this charming museum to grasp the local island history, and check their events calendar right when you enter."
+          }
+        },
+        {
+          "name": {
+            "de": "Galerie Rudolf",
+            "hu": "Galerie Rudolf",
+            "ro": "Galeria Rudolf",
+            "en": "Galerie Rudolf"
+          },
+          "coords": [
+            8.342617,
+            54.954202
+          ],
+          "category": "cultural",
+          "arrive_at": "10:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die sorgfältig kuratierte Kunst, die das Küstenlicht einfängt, und scheuen Sie sich nicht, das Personal nach den Künstlern zu fragen.",
+            "hu": "Csodálja meg a tengerparti fényt megörökítő művészetet, és nyugodtan kérdezze a személyzetet a helyi alkotókról.",
+            "ro": "Admirați arta care surprinde lumina coastei și nu ezitați să întrebați personalul despre artiștii locali.",
+            "en": "Admire the carefully curated fine art that captures Sylt's coastal light, and don't hesitate to ask the staff about the local artists."
+          }
+        },
+        {
+          "name": {
+            "de": "Ganggrab bei Kampen",
+            "hu": "Kampeni folyosósír",
+            "ro": "Mormântul cu coridor din Kampen",
+            "en": "Passage Grave near Kampen"
+          },
+          "coords": [
+            8.337178,
+            54.954977
+          ],
+          "category": "historical",
+          "arrive_at": "12:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses prähistorische Megalithgrab, aber tragen Sie festes Schuhwerk, da das Gelände oft uneben ist.",
+            "hu": "Fedezze fel ezt a történelem előtti megalitikus sírt, de viseljen masszív cipőt, mivel a terep meglehetősen egyenetlen.",
+            "ro": "Explorați acest mormânt megalitic preistoric, dar purtați încălțăminte rezistentă deoarece terenul poate fi accidentat.",
+            "en": "Explore this ancient megalithic passage grave to touch prehistoric roots, wearing sturdy shoes since the terrain is uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Dünenlandschaft auf dem Roten Kliff",
+            "hu": "Rotes Kliff dűnevidék",
+            "ro": "Dunele de pe Rotes Kliff",
+            "en": "Dune Landscape on the Red Cliff"
+          },
+          "coords": [
+            8.329178,
+            54.952842
+          ],
+          "category": "natural",
+          "arrive_at": "14:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der spektakulären Roten Klippen für herrliche Panoramen, bleiben Sie jedoch strikt auf den Wegen zum Naturschutz.",
+            "hu": "Sétáljon végig a Vörös Szikla dűnéin a lenyűgöző panorámáért, de szigorúan maradjon a kijelölt utakon a természet védelme érdekében.",
+            "ro": "Plimbați-vă pe dunele Stâncii Roșii pentru panorame superbe, dar rămâneți pe cărările marcate pentru a proteja ecosistemul.",
+            "en": "Walk along the breathtaking Red Cliff dunes for stunning panoramas, but stick strictly to marked paths to protect the fragile ecosystem."
+          }
+        },
+        {
+          "name": {
+            "de": "Uwe-Düne",
+            "hu": "Uwe-Düne",
+            "ro": "Uwe-Düne",
+            "en": "Uwe-Düne"
+          },
+          "coords": [
+            8.33054,
+            54.954223
+          ],
+          "category": "natural",
+          "arrive_at": "15:23",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Holzstufen zum höchsten Punkt der Insel, und bringen Sie eine Windjacke mit, da es oben sehr windig sein kann.",
+            "hu": "Mássza meg a faszöcskéket a sziget legmagasabb pontjáig, és vigyen magával széldzsekit, mert a csúcson nagyon szeles az idő.",
+            "ro": "Urcați treptele de lemn până în cel mai înalt punct al insulei și luați o jachetă de vânt, deoarece sus suflă cu putere.",
+            "en": "Climb the wooden steps to the highest peak on the island for a spectacular 360-degree view, bringing a windbreaker for the breezy top."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden Sie die kulturelle Seele von Kampen im Kaamp-Hüs und in der charmanten Galerie Rudolf.\n\nZur Mittagszeit tauchen Sie beim Ganggrab tief in die prähistorische Vergangenheit der Insel ein.\n\nAm Nachmittag spazieren Sie entlang der spektakulären und wilden Dünenlandschaft des Roten Kliffs.\n\nDer Tag endet mit einem herrlichen Panoramablick von der Uwe-Düne in der frischen Abendbrise.",
+        "hu": "Reggel felfedezheti Kampen kulturális lelkét a Kaamp-Hüs-ben és a bájos Galerie Rudolfban.\n\nDélben a történelmi folyosósírnál a sziget ősi múltjába merülhet el.\n\nDélután a Vörös Szikla vad és látványos dűnevidéke mentén tehet egy emlékezetes sétát.\n\nA nap az Uwe-Düne csúcsáról nyíló csodálatos panorámával és a friss esti szellővel zárul.",
+        "ro": "Dimineața explorați sufletul cultural din Kampen vizitând Kaamp-Hüs și fermecătoarea Galerie Rudolf.\n\nLa prânz, coborâți în trecutul preistoric al insulei la vechiul mormânt megalitic cu coridor.\n\nDupă-amiaza faceți o plimbare revigorantă de-a lungul spectaculoaselor dune de la Stânca Roșie.\n\nZiua se încheie cu o panoramă superbă de pe vârful Uwe-Düne, sub briza proaspătă a serii.",
+        "en": "Start your day in the cultural heart of Kampen, exploring the local heritage at Kaamp-Hüs and modern coastal art at Galerie Rudolf.\n\nStroll towards the historical Ganggrab, feeling the weight of the island's prehistoric past under the bright midday sky.\n\nThe afternoon takes you to the famous Red Cliff dunes, offering unparalleled views of the North Sea's rolling waves.\n\nConclude your walking tour atop the towering Uwe-Düne, where the brisk evening wind complements the magnificent island sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:04",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Denghoog",
+            "hu": "Denghoog",
+            "ro": "Denghoog",
+            "en": "Denghoog"
+          },
+          "coords": [
+            8.329115,
+            54.940442
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses gut erhaltene Steingrab früh am Tag, um der Enge bei hohem Besucheraufkommen aus dem Weg zu gehen.",
+            "hu": "Lépjen be ebbe a jól megőrzött kősírba korán a nap folyamán, hogy elkerülje a későbbi nagy tömeget.",
+            "ro": "Intrați în acest mormânt de piatră bine conservat la primele ore ale dimineții pentru a evita aglomerația din spațiul strâmt.",
+            "en": "Enter this well-preserved stone grave early in the day to avoid the cramped conditions when the crowds arrive later."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm Kampen",
+            "hu": "Kampeni világítótorony",
+            "ro": "Farul din Kampen",
+            "en": "Kampen Lighthouse"
+          },
+          "coords": [
+            8.340687,
+            54.946226
+          ],
+          "category": "landmark",
+          "arrive_at": "09:41",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fotografieren Sie den markanten schwarz-weißen Turm am besten vom Radweg aus für eine tolle Perspektive.",
+            "hu": "A jellegzetes fekete-fehér tornyot a legjobb a kerékpárútról fotózni a tökéletes perspektíva érdekében.",
+            "ro": "Fotografiați turnul distinctiv alb-negru de pe pista de biciclete pentru a obține o perspectivă excelentă.",
+            "en": "Photograph the distinctive black and white tower from the nearby bike path to get the best perspective without trespassing."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaamp-Hüs",
+            "hu": "Kaamp-Hüs",
+            "ro": "Kaamp-Hüs",
+            "en": "Kaamp-Hüs"
+          },
+          "coords": [
+            8.343008,
+            54.955399
+          ],
+          "category": "museum",
+          "arrive_at": "10:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad am vorgesehenen Platz und holen Sie sich an der Information Tipps für weitere Sylt-Ausflüge.",
+            "hu": "Parkolja le a biciklit a kijelölt helyen, és kérjen tippet az információs pultnál további szigeti kirándulásokhoz.",
+            "ro": "Parcați bicicleta în locul special amenajat și cereți ponturi la biroul de informații pentru alte excursii pe insulă.",
+            "en": "Park your bike safely at the designated racks and ask the information desk inside for excellent local day-trip recommendations."
+          }
+        },
+        {
+          "name": {
+            "de": "Rechteckdolmen im Rundhügel",
+            "hu": "Négyszögletes dolmen a körhalomban",
+            "ro": "Dolmenul dreptunghiular",
+            "en": "Rectangular Dolmen in the Round Barrow"
+          },
+          "coords": [
+            8.336465,
+            54.959322
+          ],
+          "category": "historical",
+          "arrive_at": "11:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Lesen Sie die kleinen Hinweisschilder sorgfältig durch, um die komplexe Bauweise dieses Grabes aus der Jungsteinzeit zu verstehen.",
+            "hu": "Olvassa el figyelmesen a kis táblákat, hogy megértse ennek az újkőkori sírnak az összetett építési módját.",
+            "ro": "Citiți cu atenție panourile informative pentru a înțelege structura complexă a acestui mormânt neolitic.",
+            "en": "Read the small information plaques carefully to fully understand the complex construction of this Neolithic burial site."
+          }
+        },
+        {
+          "name": {
+            "de": "Quermarkenfeuer Rotes Kliff",
+            "hu": "Vörös Szikla mellékvilágítótorony",
+            "ro": "Farul secundar Rotes Kliff",
+            "en": "Cross-mark Fire Red Cliff"
+          },
+          "coords": [
+            8.337811,
+            54.965675
+          ],
+          "category": "landmark",
+          "arrive_at": "13:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie den Kontrast zwischen dem achteckigen Backsteinturm und der wilden Küstennatur, ideal für ein Picknick in der Nähe.",
+            "hu": "Élvezze az oktogonális téglatorony és a vad partvidék kontrasztját, amely tökéletes helyszín egy közeli piknikhez.",
+            "ro": "Bucurați-vă de contrastul dintre turnul octogonal de cărămidă și natura sălbatică, ideal pentru un mic picnic alături.",
+            "en": "Enjoy the contrast between the octagonal brick tower and the wild coastal nature, making it a perfect spot for a quick snack."
+          }
+        },
+        {
+          "name": {
+            "de": "Sonnenterrasse Kampen",
+            "hu": "Kampen napozóterasz",
+            "ro": "Terasa însorită Kampen",
+            "en": "Kampen Sun Terrace"
+          },
+          "coords": [
+            8.33236,
+            54.962994
+          ],
+          "category": "natural",
+          "arrive_at": "13:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Lehnen Sie sich in den Strandkörben zurück und beobachten Sie die Nordsee, aber denken Sie an Sonnencreme, da Schatten hier selten ist.",
+            "hu": "Dőljön hátra a strandkosarakban a tenger morajlását hallgatva, de ne felejtse el a naptejet, mivel az árnyék errefelé ritka.",
+            "ro": "Relaxați-vă în coșurile de plajă și priviți Marea Nordului, dar nu uitați crema de soare, deoarece umbra este rară aici.",
+            "en": "Lean back in the traditional beach chairs and watch the North Sea, but remember your sunscreen as natural shade is scarce here."
+          }
+        },
+        {
+          "name": {
+            "de": "Uwe-Düne",
+            "hu": "Uwe-Düne",
+            "ro": "Uwe-Düne",
+            "en": "Uwe-Düne"
+          },
+          "coords": [
+            8.33054,
+            54.954223
+          ],
+          "category": "natural",
+          "arrive_at": "15:09",
+          "stay_min": 55,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad unten ab und bewältigen Sie die vielen Treppen für den besten Blick über Sylt in der Nachmittagssonne.",
+            "hu": "Zárja le a biciklit lent, és mássza meg a lépcsőket a délutáni napfényben fürdőző Sylt legjobb kilátásáért.",
+            "ro": "Lăsați bicicleta jos și urcați scările pentru a obține cea mai bună panoramă asupra insulei în lumina după-amiezii.",
+            "en": "Lock your bike at the bottom and tackle the numerous stairs to earn the best vantage point over Sylt in the afternoon sun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit einer morgendlichen Radtour zum antiken Denghoog und dem ikonischen Kampener Leuchtturm.\n\nZur Mittagszeit erkunden Sie die lokale Geschichte im Kaamp-Hüs und das beeindruckende steinzeitliche Rechteckdolmen.\n\nRadeln Sie am Nachmittag gen Norden, um das charmante Quermarkenfeuer über dem Meer zu bestaunen.\n\nBeenden Sie Ihre Fahrradtour entspannt auf der Sonnenterrasse, bevor Sie den weiten Blick von der Uwe-Düne genießen.",
+        "hu": "Kezdje a napot egy reggeli bringázással az ősi Denghooghoz és az ikonikus kampeni világítótoronyhoz.\n\nDélben fedezze fel a helyi történelmet a Kaamp-Hüsben és az egyedülálló újkőkori négyszögletes dolmennél.\n\nDélután tekerjen észak felé, és csodálja meg a varázslatos Quermarkenfeuer mellékvilágítótornyot.\n\nZárja a kerékpártúrát a napfényes teraszon pihenve, mielőtt megcsodálná az Uwe-Düne fenséges kilátását.",
+        "ro": "Începeți cu o plimbare matinală cu bicicleta spre situl antic Denghoog și iconicul far din Kampen.\n\nLa prânz explorați istoria locală la Kaamp-Hüs și vizitați impresionantul dolmen dreptunghiular megalitic.\n\nPedalați spre nord după-amiaza pentru a admira fermecătorul far Quermarkenfeuer deasupra Mării Nordului.\n\nÎncheiați turul relaxându-vă pe terasa însorită, înainte de a urca pentru priveliștea de seară de pe Uwe-Düne.",
+        "en": "Start with a morning ride to the ancient Denghoog mound and the iconic Kampen lighthouse.\n\nMidday invites you to explore local history at Kaamp-Hüs and the megalithic rectangular dolmen.\n\nPedal north in the afternoon to see the charming Quermarkenfeuer lighthouse on the Red Cliff.\n\nFinish your cycling journey relaxing at the sunny Sonnenterrasse and catching the panoramic breeze atop Uwe-Düne."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:50",
+      "total_km": 8.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Mariann",
+            "hu": "Mariann",
+            "ro": "Mariann",
+            "en": "Mariann"
+          },
+          "coords": [
+            8.361543,
+            54.935665
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie rücksichtsvoll in der Nähe dieses ruhigen Wahrzeichens und beginnen Sie Ihren Tag entspannt abseits der Menschenmassen.",
+            "hu": "Parkoljon körültekintően e csendes nevezetesség közelében, és kezdje a napját nyugodtan, távol a tömegtől.",
+            "ro": "Parcați cu atenție lângă acest reper liniștit și începeți ziua într-o notă relaxantă, departe de aglomerație.",
+            "en": "Park considerately near this quiet landmark and start your day relaxed, well away from the busier central crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Denghoog",
+            "hu": "Denghoog",
+            "ro": "Denghoog",
+            "en": "Denghoog"
+          },
+          "coords": [
+            8.329115,
+            54.940442
+          ],
+          "category": "landmark",
+          "arrive_at": "09:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Achten Sie beim Eintritt auf Ihren Kopf, da der prähistorische Zugang in das Hügelgrab extrem niedrig ist.",
+            "hu": "Belépéskor vigyázzon a fejére, mivel az őskori halomsír bejárata rendkívül alacsony és szűk.",
+            "ro": "Atenție la cap când intrați, deoarece accesul preistoric în interiorul mormântului este foarte jos.",
+            "en": "Mind your head upon entry, as the ancient prehistoric access point into this burial mound is notoriously low."
+          }
+        },
+        {
+          "name": {
+            "de": "Falkenstein Fine Art",
+            "hu": "Falkenstein Fine Art",
+            "ro": "Falkenstein Fine Art",
+            "en": "Falkenstein Fine Art"
+          },
+          "coords": [
+            8.343307,
+            54.952383
+          ],
+          "category": "museum",
+          "arrive_at": "10:09",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Nutzen Sie die zentralen Parkplätze im Dorf, bevor Sie diese herausragende Sammlung zeitgenössischer Kunstwerke erkunden.",
+            "hu": "Használja a falu központi parkolóit, mielőtt felfedezné a kortárs művészeti alkotások ezen kiemelkedő gyűjteményét.",
+            "ro": "Folosiți parcările centrale din sat înainte de a explora această colecție deosebită de artă contemporană.",
+            "en": "Make use of the central village parking lots before exploring this outstanding collection of contemporary artworks."
+          }
+        },
+        {
+          "name": {
+            "de": "Uwe-Düne",
+            "hu": "Uwe-Düne",
+            "ro": "Uwe-Düne",
+            "en": "Uwe-Düne"
+          },
+          "coords": [
+            8.33054,
+            54.954223
+          ],
+          "category": "natural",
+          "arrive_at": "11:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Nach einem kurzen Fußweg vom Auto aus erwartet Sie die Aussichtsplattform mit spektakulärer Sicht bis nach Dänemark.",
+            "hu": "Az autótól egy rövid séta után várja Önt a kilátóplatform, ahonnan tiszta időben egészen Dániáig elláthat.",
+            "ro": "După o scurtă plimbare de la mașină, platforma de observație vă oferă o priveliște spectaculoasă până în Danemarca.",
+            "en": "After a brief walk from your car, the observation platform awaits with spectacular views stretching all the way to Denmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Quermarkenfeuer Rotes Kliff",
+            "hu": "Vörös Szikla mellékvilágítótorony",
+            "ro": "Farul secundar Rotes Kliff",
+            "en": "Cross-mark Fire Red Cliff"
+          },
+          "coords": [
+            8.337811,
+            54.965675
+          ],
+          "category": "landmark",
+          "arrive_at": "12:19",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Dies ist ein hervorragender Stopp für Landschaftsfotografen; parken Sie etwas weiter weg und genießen Sie den Dünenweg dorthin.",
+            "hu": "Kiváló megálló tájképfotósoknak; parkoljon egy kicsit távolabb, és élvezze a dűnék között vezető rövid sétát.",
+            "ro": "O oprire excelentă pentru fotografi de peisaj; parcați puțin mai departe și bucurați-vă de drumul prin dune.",
+            "en": "This is an excellent stop for landscape photographers; park slightly further away and enjoy the short dune walk there."
+          }
+        },
+        {
+          "name": {
+            "de": "Nielönn/Sylt",
+            "hu": "Nielönn/Sylt",
+            "ro": "Nielönn/Sylt",
+            "en": "Nielönn/Sylt"
+          },
+          "coords": [
+            8.354914,
+            54.969846
+          ],
+          "category": "natural",
+          "arrive_at": "12:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit für einen ruhigen Naturspaziergang am Rande des Wattenmeeres und beobachten Sie die vielfältige Vogelwelt.",
+            "hu": "Szánjon időt egy csendes természetjárásra a Watt-tenger szélén, és figyelje meg a gazdag és változatos madárvilágot.",
+            "ro": "Acordați-vă timp pentru o plimbare liniștită la marginea Mării Wadden și observați diversele specii de păsări.",
+            "en": "Take your time for a quiet nature walk on the edge of the Wadden Sea and bring binoculars to observe the diverse birdlife."
+          }
+        },
+        {
+          "name": {
+            "de": "FKK Kampen",
+            "hu": "FKK Kampen strand",
+            "ro": "Plaja FKK Kampen",
+            "en": "FKK Kampen"
+          },
+          "coords": [
+            8.339909,
+            54.972396
+          ],
+          "category": "recreational",
+          "arrive_at": "14:05",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an diesem berühmten FKK-Strand ausklingen, wo Sie ungestört den weiten Horizont der Nordsee genießen können.",
+            "hu": "Zárja a napot ezen a híres nudista strandon, ahol zavartalanul élvezheti az Északi-tenger széles horizontját.",
+            "ro": "Încheiați ziua pe această faimoasă plajă de nudiști, unde vă puteți bucura netulburați de orizontul larg al mării.",
+            "en": "Wind down your day at this famous nudist beach, where you can undisturbed enjoy the wide horizon of the North Sea waves."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am ruhigen Wahrzeichen Mariann, gefolgt von einem Besuch der prähistorischen Grabstätte Denghoog.\n\nFahren Sie zur Mittagszeit nach Kampen hinein, um die beeindruckende Kunst bei Falkenstein Fine Art zu betrachten und anschließend die Uwe-Düne zu besteigen.\n\nDer Nachmittag bringt Sie zur rauen Küstenlandschaft am Quermarkenfeuer und zu den ruhigen Naturpfaden bei Nielönn.\n\nAm späten Nachmittag lassen Sie den Tag am Strand von FKK Kampen entspannt bei Meeresrauschen ausklingen.",
+        "hu": "Kezdje a napot a csendes Mariann nevezetességnél, majd tegyen egy kitérőt az ősi Denghoog sírhalom felé.\n\nDélben vezessen be Kampen központjába a Falkenstein Fine Art lenyűgöző kiállításáért, majd hódítsa meg az Uwe-Düne lépcsőit.\n\nDélután élvezze a Quermarkenfeuer körüli zord partvidéket és a Nielönn nyugodt természeti ösvényeit.\n\nA nap végén lazítson a tenger morajlását hallgatva az FKK Kampen híres strandján.",
+        "ro": "Începeți dimineața la liniștitul reper Mariann, apoi conduceți spre sud pentru a descoperi fascinantul sit Denghoog.\n\nLa prânz, vizitați centrul orașului Kampen pentru a admira expozițiile de la Falkenstein Fine Art și urcați pe Uwe-Düne.\n\nDupă-amiaza vă duce la pitorescul far Quermarkenfeuer și spre nord, către natura nealterată de la Nielönn.\n\nSeara se încheie pe plaja FKK Kampen, unde vă puteți relaxa netulburați ascultând valurile Mării Nordului.",
+        "en": "Begin your morning at the quiet Mariann landmark before driving to uncover the prehistoric secrets of Denghoog.\n\nMidday takes you into the village to admire the exquisite Falkenstein Fine Art and then to conquer the heights of Uwe-Düne.\n\nYour afternoon drive leads to the charming Quermarkenfeuer lighthouse and the tranquil natural expanses of Nielönn.\n\nFinish the day by parking near FKK Kampen to relax by the crashing waves of the expansive North Sea coast."
+      }
+    }
+  }
+}

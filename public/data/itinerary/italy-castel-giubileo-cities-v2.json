@@ -1,0 +1,497 @@
+{
+  "city_id": "italy-castel-giubileo-cities-v2",
+  "anchor": {
+    "name": "Castel Giubileo",
+    "coords": [
+      12.519093,
+      41.974104
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:37",
+      "total_km": 2.42,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Santa Felicita und die Märtyrersöhne",
+            "hu": "Szent Felicitász és Vértanú Fiai Templom",
+            "ro": "Biserica Sfânta Felicitas și Fiii Martiri",
+            "en": "Church of Santa Felicita and the Martyr Sons"
+          },
+          "coords": [
+            12.517422,
+            41.971447
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie in dieser modernen Pfarrei, um das lokale Gemeindeleben zu spüren; besuchen Sie sie früh, um der Mittagssonne zu entgehen und die Linien zu bewundern.",
+            "hu": "Kezdje a napot ebben a modern plébániatemplomban, amely a helyi közösség központja; érkezzen korán, hogy elkerülje a hőséget és megcsodálja az építészetét.",
+            "ro": "Începeți la această parohie modernă pentru a simți viața comunității locale; vizitați-o devreme pentru a evita soarele și a-i aprecia arhitectura distinctă.",
+            "en": "Start at this modern Roman parish to experience local community life; visit early to avoid the midday sun and appreciate its distinctive architectural lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinen der römischen Villa",
+            "hu": "Római villa romjai",
+            "ro": "Ruinele vilei romane",
+            "en": "Roman Villa Ruins"
+          },
+          "coords": [
+            12.517936,
+            41.977407
+          ],
+          "category": "historical",
+          "arrive_at": "10:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.66,
+          "tip_5lang": {
+            "de": "Entdecken Sie die antiken Villenruinen, die von einer aristokratischen Vergangenheit zeugen; tragen Sie festes Schuhwerk, da der Weg sehr uneben sein kann.",
+            "hu": "Fedezze fel az ókori római villa romjait, amelyek a terület arisztokratikus múltját őrzik; viseljen kényelmes cipőt, mivel a környező talaj meglehetősen egyenetlen.",
+            "ro": "Descoperiți ruinele vilei romane antice care dezvăluie trecutul aristocratic; purtați încălțăminte comodă, deoarece terenul din jur poate fi destul de accidentat.",
+            "en": "Uncover ancient Roman villa ruins that reveal the area's aristocratic past; wear sturdy shoes as the surrounding path can be quite uneven and dusty."
+          }
+        },
+        {
+          "name": {
+            "de": "Protohistorische Hütte",
+            "hu": "Vaskori kunyhó",
+            "ro": "Coliba preistorică",
+            "en": "Proto-historic Hut"
+          },
+          "coords": [
+            12.512331,
+            41.978534
+          ],
+          "category": "historical",
+          "arrive_at": "11:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Reisen Sie in die Vorgeschichte an dieser alten protohistorischen Hüttenstätte; bringen Sie einen Sonnenhut mit, da es hier fast keinen natürlichen Schatten gibt.",
+            "hu": "Lépjen vissza a történelem előtti időkbe ezen a vaskori kunyhó-lelőhelyen; hozzon magával kalapot, mert az ásatás körül szinte egyáltalán nincs természetes árnyék.",
+            "ro": "Întoarceți-vă în preistorie la acest sit antic de colibe; luați cu dumneavoastră o pălărie de soare, deoarece există foarte puțină umbră naturală în zonă.",
+            "en": "Step back into prehistory at this ancient proto-historic hut site; bring a wide-brimmed hat as there is very little natural shade around the excavation area."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Giovanni della Croce",
+            "hu": "Keresztes Szent János Templom",
+            "ro": "Biserica Sfântul Ioan al Crucii",
+            "en": "Church of San Giovanni della Croce"
+          },
+          "coords": [
+            12.514139,
+            41.982992
+          ],
+          "category": "religious",
+          "arrive_at": "12:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.51,
+          "tip_5lang": {
+            "de": "Bewundern Sie das ruhige Innere dieser modernen Kirche im Viertel Colle Salario; respektieren Sie die Ruhezeiten und achten Sie auf angemessene Kleidung.",
+            "hu": "Csodálja meg a Colle Salario negyed modern templomának békés belső terét; tartsa tiszteletben a helyi csendes pihenőt, és ügyeljen az alkalomhoz illő öltözködésre.",
+            "ro": "Admirați interiorul liniștit al acestei biserici moderne din cartierul Colle Salario; respectați orele de liniște și îmbrăcați-vă decent la intrare.",
+            "en": "Admire the tranquil interior of this modern church built for the Colle Salario neighborhood; respect the local quiet hours and dress modestly when entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Castel Giubileo",
+            "hu": "Castel Giubileo",
+            "ro": "Castelul Giubileo",
+            "en": "Castel Giubileo"
+          },
+          "coords": [
+            12.507405,
+            41.987923
+          ],
+          "category": "historical",
+          "arrive_at": "13:47",
+          "stay_min": 110,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.77,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste der mittelalterlichen Burg, die einst den Tiberübergang kontrollierte; steigen Sie auf den Kamm für die besten Panoramafotos.",
+            "hu": "Fedezze fel a középkori vár romjait, amely egykor a Tiberis átkelőjét őrizte; másszon fel a felső gerincre, ahonnan a legjobb panorámafotókat készítheti.",
+            "ro": "Explorați rămășițele castelului medieval care controla cândva trecerea râului Tibru; urcați pe creasta superioară pentru cele mai bune fotografii panoramice.",
+            "en": "Explore the remnants of this historic medieval castle which once controlled the Tiber river crossing; climb to the upper ridge for the best panoramic photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag in der lebendigen Pfarrei und tauchen Sie in das moderne Leben ein. Später entdecken Sie faszinierende antike römische Villenruinen und die Überreste einer alten Hütte. Am Nachmittag erleben Sie die Stille einer zeitgenössischen Kirche, bevor Ihre Wanderung an den beeindruckenden mittelalterlichen Überresten des Castel Giubileo endet.",
+        "hu": "Kezdje a napot a helyi modern közösségi élet felfedezésével a helyi plébánián. A délelőtt folyamán térjen vissza az időben, hogy megcsodálja a lenyűgöző római villaromokat és egy vaskori kunyhó alapjait. Délután tapasztalja meg egy kortárs templom spirituális csendjét, mielőtt a Castel Giubileo nagyszerű középkori romjainál fejezné be sétáját.",
+        "ro": "Începeți ziua explorând viața parohiei moderne locale. Pe parcursul dimineții, faceți un salt în timp pentru a descoperi fascinantele ruine ale unei vile romane și ale unei colibe preistorice. După-amiaza, treceți la liniștea spirituală a unei biserici contemporane, înainte de a vă încheia călătoria la grandioasele rămășițe medievale ale Castelului Giubileo.",
+        "en": "Start the day exploring modern neighborhood life at the lively parish. As the morning progresses, step back centuries in time to uncover fascinating ancient Roman villa ruins and the foundations of a proto-historic hut. By afternoon, transition to the spiritual quiet of a contemporary church before finishing your journey at the grand medieval remnants of Castel Giubileo."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:59",
+      "total_km": 4.34,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Römische Zisterne der Villa Spada",
+            "hu": "Villa Spada római ciszterna",
+            "ro": "Cisterna romană de la Villa Spada",
+            "en": "Roman Cistern at Villa Spada"
+          },
+          "coords": [
+            12.506945,
+            41.973054
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die massive antike Zisterne, die einst die Landgüter mit Wasser versorgte; schließen Sie Ihr Fahrrad am Parkeingang sicher ab.",
+            "hu": "Vizsgálja meg az ókori római ciszternát, amely egykor a helyi birtokokat látta el vízzel; a romok felfedezése előtt biztonságosan zárja le a kerékpárját.",
+            "ro": "Examinați cisterna romană masivă care aproviziona cândva moșiile cu apă; asigurați-vă bicicleta la intrarea în parc înainte de a explora ruinele istorice.",
+            "en": "Examine the massive ancient Roman cistern that once supplied local estates with water; carefully secure your bike at the park entrance before exploring the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Protohistorische Hütte",
+            "hu": "Vaskori kunyhó",
+            "ro": "Coliba preistorică",
+            "en": "Proto-historic Hut"
+          },
+          "coords": [
+            12.512331,
+            41.978534
+          ],
+          "category": "historical",
+          "arrive_at": "10:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Reisen Sie in die Vorgeschichte an dieser alten protohistorischen Hüttenstätte; bringen Sie einen Sonnenhut mit, da es hier fast keinen natürlichen Schatten gibt.",
+            "hu": "Lépjen vissza a történelem előtti időkbe ezen a vaskori kunyhó-lelőhelyen; hozzon magával kalapot, mert az ásatás körül szinte egyáltalán nincs természetes árnyék.",
+            "ro": "Întoarceți-vă în preistorie la acest sit antic de colibe; luați cu dumneavoastră o pălărie de soare, deoarece există foarte puțină umbră naturală în zonă.",
+            "en": "Step back into prehistory at this ancient proto-historic hut site; bring a wide-brimmed hat as there is very little natural shade around the excavation area."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinen der römischen Villa",
+            "hu": "Római villa romjai",
+            "ro": "Ruinele vilei romane",
+            "en": "Roman Villa Ruins"
+          },
+          "coords": [
+            12.517936,
+            41.977407
+          ],
+          "category": "historical",
+          "arrive_at": "11:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Entdecken Sie die antiken Villenruinen, die von einer aristokratischen Vergangenheit zeugen; tragen Sie festes Schuhwerk, da der Weg sehr uneben sein kann.",
+            "hu": "Fedezze fel az ókori római villa romjait, amelyek a terület arisztokratikus múltját őrzik; viseljen kényelmes cipőt, mivel a környező talaj meglehetősen egyenetlen.",
+            "ro": "Descoperiți ruinele vilei romane antice care dezvăluie trecutul aristocratic; purtați încălțăminte comodă, deoarece terenul din jur poate fi destul de accidentat.",
+            "en": "Uncover ancient Roman villa ruins that reveal the area's aristocratic past; wear sturdy shoes as the surrounding path can be quite uneven and dusty."
+          }
+        },
+        {
+          "name": {
+            "de": "Castel Giubileo",
+            "hu": "Castel Giubileo",
+            "ro": "Castelul Giubileo",
+            "en": "Castel Giubileo"
+          },
+          "coords": [
+            12.507405,
+            41.987923
+          ],
+          "category": "historical",
+          "arrive_at": "13:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.45,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste der mittelalterlichen Burg, die einst den Tiberübergang kontrollierte; steigen Sie auf den Kamm für die besten Panoramafotos.",
+            "hu": "Fedezze fel a középkori vár romjait, amely egykor a Tiberis átkelőjét őrizte; másszon fel a felső gerincre, ahonnan a legjobb panorámafotókat készítheti.",
+            "ro": "Explorați rămășițele castelului medieval care controla cândva trecerea râului Tibru; urcați pe creasta superioară pentru cele mai bune fotografii panoramice.",
+            "en": "Explore the remnants of this historic medieval castle which once controlled the Tiber river crossing; climb to the upper ridge for the best panoramic photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Brücke von Castel Giubileo",
+            "hu": "Castel Giubileo híd",
+            "ro": "Podul Castel Giubileo",
+            "en": "Castel Giubileo Bridge"
+          },
+          "coords": [
+            12.496944,
+            41.987578
+          ],
+          "category": "landmark",
+          "arrive_at": "14:50",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.86,
+          "tip_5lang": {
+            "de": "Radeln Sie über diese markante Betonbrücke über den Tiber und genießen Sie die Brise; bleiben Sie auf dem markierten Radweg, um den starken Verkehr zu meiden.",
+            "hu": "Tekerjen át ezen a Tiberis folyót átívelő ikonikus betonhídon, és élvezze a frissítőt szellőt; maradjon a kijelölt kerékpárúton a forgalom elkerülése érdekében.",
+            "ro": "Traversați cu bicicleta acest pod de beton iconic peste râul Tibru pentru a simți briza; rămâneți pe pista de biciclete pentru a evita traficul greu.",
+            "en": "Cycle across this iconic concrete bridge spanning the Tiber river to enjoy the refreshing breeze; stay clearly in the designated bike path to avoid heavy traffic."
+          }
+        },
+        {
+          "name": {
+            "de": "Antikes Mausoleum",
+            "hu": "Ókori mauzóleum",
+            "ro": "Mausoleul Antic",
+            "en": "Ancient Mausoleum"
+          },
+          "coords": [
+            12.494439,
+            41.98059
+          ],
+          "category": "historical",
+          "arrive_at": "15:09",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses imposante antike römische Mausoleum in der Nähe des Flussufers; schließen Sie Ihr Rad ab und bringen Sie eine Taschenlampe für Details mit.",
+            "hu": "Fedezze fel ezt az impozáns, folyópart közelében megbúvó római mauzóleumot; zárja le jól a biciklit, és hozzon zseblámpát a belső részletek megfigyeléséhez.",
+            "ro": "Descoperiți acest impunător mausoleu roman ascuns lângă malul râului; legați bine bicicleta și aduceți o lanternă pentru a observa detaliile interioare.",
+            "en": "Discover this imposing ancient Roman mausoleum hidden near the river banks; lock your bike securely and bring a flashlight to see the remaining internal details."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie durch die Geschichte, beginnend mit einer antiken Zisterne. Wenn Sie nach Norden fahren, erkunden Sie bemerkenswerte archäologische Überreste der Römer. Mittags erreichen Sie die imposanten Höhen des Castel Giubileo, bevor eine Fahrt über die markante Brücke und ein letzter Halt an einem rätselhaften antiken Mausoleum den Tag krönen.",
+        "hu": "Tekerjen át a történelmen egy lenyűgöző ókori ciszterna megtekintésével indulva. Ahogy észak felé halad, fedezze fel a területen szétszórt római régészeti leleteket. Délben megérkezik a Castel Giubileo impozáns magaslataira, majd az ikonikus hídon át egy titokzatos ókori mauzóleumnál fejezi be ezt a felejthetetlen kétkerekes kirándulást.",
+        "ro": "Pedalați prin istorie, începând cu o impresionantă cisternă antică. Pe măsură ce mergeți spre nord, explorați remarcabile vestigii arheologice romane. La prânz, ajungeți pe înălțimile impunătoare ale Castelului Giubileo, urmate de o plimbare revigorantă pe podul iconic și o oprire finală memorabilă la un mausoleu antic enigmatic de lângă râu.",
+        "en": "Pedal through history starting with an impressive ancient Roman cistern. As you cycle north, explore remarkable proto-historic and Roman archaeological remains scattered across the area. Midday brings you to the imposing heights of Castel Giubileo, before an exhilarating ride across the iconic bridge and a final, memorable stop at an enigmatic ancient mausoleum."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:18",
+      "total_km": 7.61,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Rom-Tempel in Italien",
+            "hu": "Római Olaszország Templom",
+            "ro": "Templul din Roma, Italia",
+            "en": "Rome Italy Temple"
+          },
+          "coords": [
+            12.544815,
+            41.9705
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die glänzende Architektur und die gepflegten Gärten dieses Tempels der Heiligen der Letzten Tage; nutzen Sie den großen Besucherparkplatz.",
+            "hu": "Csodálja meg az Utolsó Napok Szentjei templomának ragyogó építészetét és gondozott kertjeit; használja a tágas, ingyenes látogatói parkolót közvetlenül kint.",
+            "ro": "Admirați arhitectura strălucitoare și grădinile frumos îngrijite ale acestui templu al Sfinților din Zilele din Urmă; folosiți parcarea gratuită pentru vizitatori.",
+            "en": "Marvel at the gleaming architecture and beautifully manicured gardens of this Latter-day Saint temple; use the spacious free visitor parking lot just outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Sant'Alberto Magno",
+            "hu": "Nagy Szent Albert Templom",
+            "ro": "Biserica Sfântul Albert cel Mare",
+            "en": "Church of Sant'Alberto Magno"
+          },
+          "coords": [
+            12.53472,
+            41.964481
+          ],
+          "category": "religious",
+          "arrive_at": "09:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.05,
+          "tip_5lang": {
+            "de": "Beachten Sie die kühnen Kurven dieses modernen architektonischen Meisterwerks; überprüfen Sie den Zeitplan der Pfarrei online, da die Zeiten variieren können.",
+            "hu": "Figyelje meg ennek a modern építészeti remekműnek a merész íveit; ellenőrizze a plébánia nyitvatartását online, mivel a látogatási idők meglehetősen változók.",
+            "ro": "Observați curbele îndrăznețe ale acestei capodopere arhitecturale moderne; verificați programul parohiei online, deoarece orele de deschidere pot varia considerabil.",
+            "en": "Notice the bold, striking curves of this modern post-conciliar architectural masterpiece; check the parish schedule online as opening hours can be irregular."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Maria della Speranza",
+            "hu": "A Reménység Szűz Máriája Templom",
+            "ro": "Biserica Sfânta Maria a Speranței",
+            "en": "Church of Santa Maria della Speranza"
+          },
+          "coords": [
+            12.521689,
+            41.958736
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.23,
+          "tip_5lang": {
+            "de": "Erleben Sie die spirituelle Ruhe in dieser einladenden Stadtteilpfarrei; parken Sie in den angrenzenden Wohnstraßen und achten Sie darauf, keine Einfahrten zu blockieren.",
+            "hu": "Élje át a spirituális nyugalmat ebben a barátságos kerületi templomban; parkoljon a szomszédos lakóutcákban, ügyelve arra, hogy ne állja el a kocsibejárókat.",
+            "ro": "Simțiți calmul spiritual din interiorul acestei parohii primitoare; parcați pe străzile rezidențiale adiacente, având grijă să nu blocați accesul la curți.",
+            "en": "Experience the spiritual calm inside this welcoming neighborhood parish; park on the adjacent residential streets, being careful not to block driveway access."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Sant'Ugo",
+            "hu": "Szent Hugó Templom",
+            "ro": "Biserica Sfântul Ugo",
+            "en": "Church of Sant'Ugo"
+          },
+          "coords": [
+            12.517742,
+            41.963924
+          ],
+          "category": "religious",
+          "arrive_at": "11:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Schätzen Sie das geräumige, helle Innere dieser aktiven Gemeindekirche; der angrenzende Platz bietet auch zu Spitzenzeiten gute und bequeme Parkmöglichkeiten.",
+            "hu": "Értékelje az aktív közösségi templom tágas, világos, kortárs belső terét; a szomszédos téren még a csúcsidőszakban is kényelmesen lehet autót parkolni.",
+            "ro": "Apreciați interiorul contemporan și luminos al acestei biserici active; piațeta adiacentă oferă parcare convenabilă chiar și în perioadele cele mai aglomerate.",
+            "en": "Appreciate the spacious, well-lit contemporary interior of this active community church; the adjacent piazzale offers convenient parking even during peak times."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Felicita und die Märtyrersöhne",
+            "hu": "Szent Felicitász és Vértanú Fiai Templom",
+            "ro": "Biserica Sfânta Felicitas și Fiii Martiri",
+            "en": "Church of Santa Felicita and the Martyr Sons"
+          },
+          "coords": [
+            12.517422,
+            41.971447
+          ],
+          "category": "religious",
+          "arrive_at": "11:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.83,
+          "tip_5lang": {
+            "de": "Lernen Sie diese moderne Pfarrei kennen, um das lokale Gemeindeleben zu spüren; nutzen Sie die Parkplätze an der Straße, um die markanten architektonischen Linien zu bewundern.",
+            "hu": "Látogasson el ebbe a modern plébániatemplomba, amely a közösség központja; használja az utcai parkolókat, hogy megcsodálja a különleges építészeti megoldásokat.",
+            "ro": "Vizitați această parohie modernă pentru a simți viața comunității locale; folosiți locurile de parcare de pe stradă pentru a aprecia arhitectura sa distinctă.",
+            "en": "Visit this modern Roman parish to experience local community life; use the nearby street parking spaces to appreciate its distinctive architectural lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Zisterne der Villa Spada",
+            "hu": "Villa Spada római ciszterna",
+            "ro": "Cisterna romană de la Villa Spada",
+            "en": "Roman Cistern at Villa Spada"
+          },
+          "coords": [
+            12.506945,
+            41.973054
+          ],
+          "category": "historical",
+          "arrive_at": "12:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.88,
+          "tip_5lang": {
+            "de": "Betrachten Sie die antike Zisterne, die einst die Landgüter mit Wasser versorgte; parken Sie Ihr Fahrzeug in der Nähe des Parkeingangs, bevor Sie losgehen.",
+            "hu": "Vizsgálja meg az ókori római ciszternát, amely egykor a birtokokat látta el vízzel; parkolja le járművét a fő parkbejárat közelében, mielőtt felfedezné a romokat.",
+            "ro": "Examinați cisterna romană masivă care aproviziona moșiile cu apă; parcați vehiculul lângă intrarea principală a parcului înainte de a explora ruinele antice.",
+            "en": "Examine the massive ancient Roman cistern that once supplied local estates with water; park your vehicle near the main park entrance before exploring the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Castel Giubileo",
+            "hu": "Castel Giubileo",
+            "ro": "Castelul Giubileo",
+            "en": "Castel Giubileo"
+          },
+          "coords": [
+            12.507405,
+            41.987923
+          ],
+          "category": "historical",
+          "arrive_at": "14:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.64,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste der mittelalterlichen Burg, die einst den Tiberübergang kontrollierte; steigen Sie auf den Kamm für die besten Panoramafotos.",
+            "hu": "Fedezze fel a középkori vár romjait, amely egykor a Tiberis átkelőjét őrizte; másszon fel a felső gerincre, ahonnan a legjobb panorámafotókat készítheti.",
+            "ro": "Explorați rămășițele castelului medieval care controla cândva trecerea râului Tibru; urcați pe creasta superioară pentru cele mai bune fotografii panoramice.",
+            "en": "Explore the remnants of this historic medieval castle which once controlled the Tiber river crossing; climb to the upper ridge for the best panoramic photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Antikes Mausoleum",
+            "hu": "Ókori mauzóleum",
+            "ro": "Mausoleul Antic",
+            "en": "Ancient Mausoleum"
+          },
+          "coords": [
+            12.494439,
+            41.98059
+          ],
+          "category": "historical",
+          "arrive_at": "15:28",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.33,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses imposante antike Mausoleum nahe dem Flussufer; parken Sie vorsichtig entlang der Straße und bringen Sie eine gute Taschenlampe mit.",
+            "hu": "Fedezze fel ezt az impozáns, folyópart közelében megbúvó ókori mauzóleumot; parkoljon óvatosan az út mentén, és hozzon zseblámpát a részletek felfedezéséhez.",
+            "ro": "Descoperiți acest impunător mausoleu antic roman de lângă malul râului; parcați cu atenție pe drumul adiacent și aduceți o lanternă pentru a vedea detaliile.",
+            "en": "Discover this imposing ancient Roman mausoleum hidden near the river banks; park carefully along the adjacent road and bring a flashlight to see the details."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit der Architektur des Rom-Tempels und einzigartigen modernen Vorstadtkirchen. Der Nachmittag führt Sie nahtlos in die tiefere Geschichte zu einer antiken Zisterne in einem Park. Schließlich fahren Sie in Richtung Tiber, um die imposante mittelalterliche Festung Castel Giubileo und ein beeindruckendes Mausoleum am Flussufer zu erkunden.",
+        "hu": "Kezdje a napot a római templom lenyűgöző építészetével és modern külvárosi templomokkal. A délután folyamán a távolabbi történelem felé halad, meglátogatva egy helyi parkban elrejtett ókori római ciszternát. Végül vezessen a Tiberis felé, hogy felfedezze a Castel Giubileo parancsnoki várát és egy folyóparti mauzóleumot.",
+        "ro": "Începeți cu arhitectura templului din Roma și o serie de biserici suburbane moderne unice. După-amiaza face o tranziție lină către istoria antică, aducându-vă la o cisternă romană ascunsă într-un parc. În cele din urmă, conduceți spre Tibru pentru a explora fortăreața medievală Castel Giubileo și un mausoleu impunător situat pe malul râului.",
+        "en": "Begin with the striking architecture of the Rome Italy Temple and a series of unique modern suburban churches. The afternoon smoothly transitions into deep history, bringing you to an ancient Roman cistern hidden in a local park. Finally, drive towards the Tiber river to explore the commanding medieval fortress of Castel Giubileo and an imposing riverside mausoleum."
+      }
+    }
+  }
+}

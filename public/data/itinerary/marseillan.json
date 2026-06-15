@@ -1,0 +1,511 @@
+{
+  "city_id": "marseillan",
+  "anchor": {
+    "name": "Marseillan",
+    "coords": [
+      3.5278,
+      43.3564
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 4.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Marseillan-Plage",
+            "hu": "Marseillan strand",
+            "ro": "Plaja Marseillan",
+            "en": "Marseillan Beach"
+          },
+          "coords": [
+            3.527778,
+            43.356389
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem weitläufigen Sandstrand und genießen Sie die ruhige Morgenbrise, bringen Sie jedoch unbedingt Sonnencreme und ein Handtuch mit.",
+            "hu": "Kezdje a napot ezen a tágas homokos strandon, és élvezze a békés reggeli szellőt, de mindenképpen hozzon magával elegendő naptejet és egy kényelmes törölközőt.",
+            "ro": "Începeți ziua pe această plajă extinsă de nisip și bucurați-vă de briza liniștită a dimineții, dar asigurați-vă că aduceți multă cremă de protecție solară.",
+            "en": "Start your day at this expansive sandy beach and enjoy the peaceful morning breeze, but make sure to bring along plenty of sunscreen and a comfortable towel."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Marseillan",
+            "hu": "Marseillan kikötője",
+            "ro": "Portul Marseillan",
+            "en": "Port of Marseillan"
+          },
+          "coords": [
+            3.530936,
+            43.353769
+          ],
+          "category": "recreational",
+          "arrive_at": "10:21",
+          "stay_min": 50,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Flanieren Sie entlang des malerischen Hafens mit seinen bunten Booten und traditionellen Restaurants, wo Sie unbedingt frische Meeresfrüchte probieren sollten.",
+            "hu": "Sétáljon végig a festői kikötőn a színes hajók és hagyományos éttermek között, ahol mindenképpen érdemes megkóstolni a frissen fogott helyi tengeri herkentyűket.",
+            "ro": "Plimbați-vă de-a lungul portului pitoresc cu bărci colorate și restaurante tradiționale, unde trebuie neapărat să vă opriți pentru a gusta fructe de mare proaspete.",
+            "en": "Stroll along the picturesque harbor filled with colorful boats and traditional restaurants, where you absolutely must stop to taste some freshly caught local seafood."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus Noilly Prat",
+            "hu": "Noilly Prat Ház",
+            "ro": "Casa Noilly Prat",
+            "en": "Maison Noilly Prat"
+          },
+          "coords": [
+            3.531484,
+            43.352974
+          ],
+          "category": "culinary",
+          "arrive_at": "11:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Geschichte dieses berühmten Wermuts ein und nehmen Sie an einer faszinierenden Führung teil, am besten buchen Sie Ihre Tickets vorab online.",
+            "hu": "Merüljön el ennek a híres vermutnak a történetében egy lenyűgöző pincelátogatás során, bár a belépőjegyeket erősen ajánlott előre, online lefoglalni a neten.",
+            "ro": "Pătrundeți în istoria acestui faimos vermut participând la un tur ghidat fascinant, deși este foarte recomandat să vă rezervați biletele în avans online.",
+            "en": "Dive into the history of this famous vermouth by joining a fascinating guided tour of the cellars, though it is highly recommended to book your tickets in advance online."
+          }
+        },
+        {
+          "name": {
+            "de": "Canal du Midi - Les Onglous",
+            "hu": "Canal du Midi - Les Onglous",
+            "ro": "Canal du Midi - Les Onglous",
+            "en": "Canal du Midi - Les Onglous"
+          },
+          "coords": [
+            3.539819,
+            43.340056
+          ],
+          "category": "historical",
+          "arrive_at": "13:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie das historische Meisterwerk, wo der majestätische Kanal auf die Lagune trifft, und planen Sie einen entspannten Spaziergang entlang der schattigen Uferwege.",
+            "hu": "Csodálja meg azt a történelmi remekművet, ahol a fenséges csatorna találkozik a lagúnával, és feltétlenül tervezzen egy pihentető sétát az árnyékos parti utakon.",
+            "ro": "Admirați capodopera istorică unde canalul maiestuos întâlnește laguna și asigurați-vă că planificați o plimbare relaxantă de-a lungul cărărilor umbrite de pe mal.",
+            "en": "Admire the historic masterpiece where the majestic canal meets the lagoon, and make sure to plan a relaxing walk along the beautifully shaded waterway paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage Robinson - Est",
+            "hu": "Plage Robinson - Kelet",
+            "ro": "Plaja Robinson - Est",
+            "en": "Plage Robinson - East"
+          },
+          "coords": [
+            3.559839,
+            43.320629
+          ],
+          "category": "recreational",
+          "arrive_at": "15:16",
+          "stay_min": 105,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem naturbelassenen Strandabschnitt fernab der großen Touristenmassen, packen Sie jedoch eigene Snacks ein, da es hier kaum Verpflegungsmöglichkeiten gibt.",
+            "hu": "Pihenjen ezen az érintetlen és természetes partszakaszon, távol a nagy turistatömegektől, de mindenképpen vigyen magával harapnivalót, mivel itt kevés a szolgáltatás.",
+            "ro": "Relaxați-vă pe această porțiune de plajă virgină, departe de marile aglomerații turistice, dar asigurați-vă că vă aduceți propriile gustări, deoarece facilitățile sunt puține.",
+            "en": "Relax on this pristine and natural stretch of beach away from the large tourist crowds, but be sure to pack your own snacks as there are very few facilities available."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": {
+          "morning": "Der Tag beginnt mit einem erfrischenden Spaziergang am endlosen Sandstrand von Marseillan.",
+          "midday": "Mittags erkunden wir den lebhaften Hafen und die faszinierenden Weinkeller von Noilly Prat.",
+          "afternoon": "Am Nachmittag folgen wir dem historischen Verlauf des Canal du Midi bis zur Mündung.",
+          "evening": "Der Abend klingt entspannt an der ruhigen Küste des Plage Robinson - Est aus."
+        },
+        "hu": {
+          "morning": "A nap egy frissítő sétával kezdődik Marseillan végtelen, finom homokos tengerpartján.",
+          "midday": "Délben felfedezzük a nyüzsgő kikötőt és a Noilly Prat lenyűgöző, illatos borpincéit.",
+          "afternoon": "Délután a Canal du Midi történelmi útvonalát követjük egészen a lagúna torkolatáig.",
+          "evening": "Az este lazán ér véget a Plage Robinson - Est csendes és nyugodt partszakaszán."
+        },
+        "ro": {
+          "morning": "Ziua începe cu o plimbare revigorantă pe plaja cu nisip nesfârșit din Marseillan.",
+          "midday": "La prânz, explorăm portul plin de viață și cramele fascinante ale lui Noilly Prat.",
+          "afternoon": "După-amiaza, urmărim cursul istoric al Canal du Midi până la confluența sa cu laguna.",
+          "evening": "Seara se încheie relaxant pe coasta liniștită a frumoasei plaje Robinson - Est."
+        },
+        "en": {
+          "morning": "The day begins with a refreshing walk along the endless sandy stretches of Marseillan Beach.",
+          "midday": "At midday, we explore the lively local harbor and the fascinating Noilly Prat wine cellars.",
+          "afternoon": "In the afternoon, we follow the historic path of the Canal du Midi down to its mouth.",
+          "evening": "The evening winds down in a relaxed manner on the quiet shores of Robinson Beach East."
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:20",
+      "total_km": 16.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Thau-Lagune",
+            "hu": "Thau-lagúna",
+            "ro": "Laguna Thau",
+            "en": "Thau Lagoon"
+          },
+          "coords": [
+            3.624167,
+            43.41
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die schimmernde Wasserfläche, die für ihre exzellente Austernzucht bekannt ist, und nutzen Sie die Gelegenheit für eine kleine Verkostung am Ufer.",
+            "hu": "Csodálja meg a kiváló osztrigatenyésztéséről híres, csillogó vízfelületet, és mindenképpen ragadja meg az alkalmat egy kis kóstolóra közvetlenül a parton.",
+            "ro": "Minunați-vă de întinderea strălucitoare de apă renumită pentru creșterea stridiilor și profitați de ocazie pentru o mică degustare chiar pe malul mării.",
+            "en": "Marvel at the shimmering expanse of water renowned for its excellent oyster farming, and definitely take the opportunity for a small tasting session right on the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus Noilly Prat",
+            "hu": "Noilly Prat Ház",
+            "ro": "Casa Noilly Prat",
+            "en": "Maison Noilly Prat"
+          },
+          "coords": [
+            3.531484,
+            43.352974
+          ],
+          "category": "culinary",
+          "arrive_at": "11:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Heimat des ikonischen Wermuts auf einer fesselnden Führung durch die Fässer, buchen Sie aber unbedingt im Voraus, um lange Wartezeiten zu vermeiden.",
+            "hu": "Látogasson el az ikonikus vermut otthonába egy magával ragadó vezetett túra keretében, de feltétlenül foglaljon előre, hogy elkerülje a hosszú várakozási időt.",
+            "ro": "Vizitați casa iconicului vermut într-un tur ghidat captivant printre butoaie, dar asigurați-vă că rezervați în avans pentru a evita timpii lungi de așteptare.",
+            "en": "Visit the home of the iconic vermouth on a captivating guided tour through the barrels, but be absolutely sure to book in advance to avoid long waiting times."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Marseillan",
+            "hu": "Marseillan kikötője",
+            "ro": "Portul Marseillan",
+            "en": "Port of Marseillan"
+          },
+          "coords": [
+            3.530936,
+            43.353769
+          ],
+          "category": "recreational",
+          "arrive_at": "12:51",
+          "stay_min": 50,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie das maritime Flair am charmanten Yachthafen mit seinen gemütlichen Cafés, ideal für eine Kaffeepause, während Sie das rege Treiben der Boote beobachten.",
+            "hu": "Élje át a tengeri hangulatot a hangulatos jachtkikötőben, amelynek kávézói ideálisak egy kávészünetre, miközben figyeli az elhaladó hajók élénk nyüzsgését.",
+            "ro": "Experimentați flerul maritim în portul fermecător cu cafenelele sale confortabile, perfect adaptate pentru o pauză de cafea în timp ce priviți agitația bărcilor.",
+            "en": "Experience the maritime flair at the charming marina with its cozy cafes, perfectly suited for a coffee break while you watch the lively hustle of the passing boats."
+          }
+        },
+        {
+          "name": {
+            "de": "Canal du Midi - Les Onglous",
+            "hu": "Canal du Midi - Les Onglous",
+            "ro": "Canal du Midi - Les Onglous",
+            "en": "Canal du Midi - Les Onglous"
+          },
+          "coords": [
+            3.539819,
+            43.340056
+          ],
+          "category": "historical",
+          "arrive_at": "13:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie das Endstück des weltberühmten Kanals, das malerisch in die Lagune mündet, und achten Sie dabei besonders auf den charmanten, kleinen weißen Leuchtturm.",
+            "hu": "Fedezze fel a világhírű csatorna végét, ahogy festőien a lagúnába ömlik, és fordítson különös figyelmet az ott álló bájos kis fehér világítótoronyra is.",
+            "ro": "Explorați capătul canalului de renume mondial, pe măsură ce se varsă în lagună, și acordați o atenție deosebită fermecătorului mic far alb care se află acolo.",
+            "en": "Explore the very end of the world-famous canal as it picturesquely flows into the lagoon, and pay special attention to the charming little white lighthouse standing there."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage naturiste Cap d'Agde",
+            "hu": "Cap d'Agde naturista strand",
+            "ro": "Plaja naturistă Cap d'Agde",
+            "en": "Cap d'Agde Naturist Beach"
+          },
+          "coords": [
+            3.534045,
+            43.297324
+          ],
+          "category": "recreational",
+          "arrive_at": "15:35",
+          "stay_min": 105,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 4.7,
+          "tip_5lang": {
+            "de": "Erleben Sie das unvergleichliche Freiheitsgefühl an diesem sehr bekannten FKK-Strand, achten Sie jedoch stets auf die strikten lokalen Regeln und respektieren Sie die Privatsphäre.",
+            "hu": "Élje át a páratlan szabadságérzetet ezen a híres naturista strandon, de mindig ügyeljen arra, hogy szigorúan betartsa a helyi szabályokat és tisztelje a magánszférát.",
+            "ro": "Experimentați sentimentul de libertate la această faimoasă plajă de nudiști, dar asigurați-vă că respectați cu strictețe regulile locale și intimitatea tuturor.",
+            "en": "Experience the unparalleled sense of freedom at this highly famous naturist beach, but always be sure to strictly follow local rules and respect everyone's privacy."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": {
+          "morning": "Unsere Fahrradtour startet entspannt entlang der malerischen Thau-Lagune im warmen Morgenlicht.",
+          "midday": "Gegen Mittag tauchen wir in die Geschichte des berühmten Wermuts in der Maison Noilly Prat ein.",
+          "afternoon": "Am Nachmittag radeln wir zum Hafen und zur Mündung des historischen Canal du Midi.",
+          "evening": "Der ereignisreiche Tag endet mit völliger Entspannung an den weiten Stränden von Cap d'Agde."
+        },
+        "hu": {
+          "morning": "Kerékpártúránk nyugodtan indul a festői Thau-lagúna mentén a meleg, ragyogó reggeli fényben.",
+          "midday": "Dél körül elmerülünk a híres vermut gazdag történelmében a lenyűgöző Maison Noilly Prat-ban.",
+          "afternoon": "Délután a kikötőhöz és a történelmi Canal du Midi varázslatos lagúna-torkolatához karikázunk.",
+          "evening": "Az eseménydús nap teljes kikapcsolódással zárul Cap d'Agde végtelen, szabad tengerpartjain."
+        },
+        "ro": {
+          "morning": "Turul nostru cu bicicleta începe relaxat de-a lungul pitoreștii Lagune Thau în lumina caldă.",
+          "midday": "În jurul prânzului, ne scufundăm în istoria faimosului vermut la interesanta Maison Noilly Prat.",
+          "afternoon": "După-amiaza, pedalăm spre port și gura de vărsare a istoricului și frumosului Canal du Midi.",
+          "evening": "Ziua plină de evenimente se încheie cu o relaxare totală pe plajele întinse din Cap d'Agde."
+        },
+        "en": {
+          "morning": "Our bicycle tour starts smoothly along the picturesque Thau Lagoon in the warm morning light.",
+          "midday": "Around midday, we dive deep into the rich history of the famous vermouth at Maison Noilly Prat.",
+          "afternoon": "In the afternoon, we cycle to the charming harbor and the scenic mouth of the Canal du Midi.",
+          "evening": "The eventful day concludes with absolute relaxation on the sweeping beaches of Cap d'Agde."
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:45",
+      "total_km": 39.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Haus Noilly Prat",
+            "hu": "Noilly Prat Ház",
+            "ro": "Casa Noilly Prat",
+            "en": "Maison Noilly Prat"
+          },
+          "coords": [
+            3.531484,
+            43.352974
+          ],
+          "category": "culinary",
+          "arrive_at": "09:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren kulturellen Ausflug mit einer fesselnden Wermut-Führung, wobei es ratsam ist, im Voraus zu reservieren, um sich einen der begehrten Plätze zu sichern.",
+            "hu": "Kezdje kulturális kirándulását egy lebilincselő vermuttúrával, amelynél nagyon ajánlott előre asztalt foglalni, hogy biztosítsa a rendkívül áhított helyek egyikét.",
+            "ro": "Începeți excursia culturală cu un tur captivant de vermut, unde este foarte recomandabil să rezervați cu mult timp înainte pentru a vă asigura un loc râvnit.",
+            "en": "Start your cultural excursion with a captivating vermouth tour, where it is highly advisable to reserve well in advance to secure one of the very highly coveted spots."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Marseillan",
+            "hu": "Marseillan kikötője",
+            "ro": "Portul Marseillan",
+            "en": "Port of Marseillan"
+          },
+          "coords": [
+            3.530936,
+            43.353769
+          ],
+          "category": "recreational",
+          "arrive_at": "10:41",
+          "stay_min": 50,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie nach der Verkostung gemütlich am belebten Wasser entlang und genießen Sie die wunderbare Aussicht auf die kleinen Fischerboote im sonnigen Mittelmeerhafen.",
+            "hu": "A kóstoló után tegyen egy kényelmes sétát a nyüzsgő vízparton, és élvezze a csodálatos kilátást a napos mediterrán kikötőben finoman ringatózó kis halászhajókra.",
+            "ro": "După degustare, faceți o plimbare pe malul plin de viață și bucurați-vă de priveliștile minunate ale micilor bărci de pescuit care se leagănă în portul însorit.",
+            "en": "After the tasting, take a leisurely stroll along the lively waterfront and enjoy the wonderful views of the small fishing boats gently bobbing in the sunny Mediterranean harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Thau-Lagune",
+            "hu": "Thau-lagúna",
+            "ro": "Laguna Thau",
+            "en": "Thau Lagoon"
+          },
+          "coords": [
+            3.624167,
+            43.41
+          ],
+          "category": "natural",
+          "arrive_at": "11:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Fahren Sie weiter zu diesem atemberaubenden Binnenmeer und probieren Sie an einem der kleinen Kioske unbedingt die frischen und weltweit geschätzten lokalen Austern.",
+            "hu": "Vezessen tovább ehhez a lélegzetelállító beltengerhez, és mindenképpen kóstolja meg a friss és világszerte értékelt helyi osztrigákat egy autentikus kis útmenti kioszkban.",
+            "ro": "Conduceți spre această mare interioară uluitoare și asigurați-vă că gustați stridiile locale proaspete la unul dintre micile chioșcuri autentice de pe marginea drumului.",
+            "en": "Drive on to this breathtaking inland sea and absolutely make sure to try the fresh and globally appreciated local oysters at one of the authentic little roadside kiosks."
+          }
+        },
+        {
+          "name": {
+            "de": "Canal du Midi - Les Onglous",
+            "hu": "Canal du Midi - Les Onglous",
+            "ro": "Canal du Midi - Les Onglous",
+            "en": "Canal du Midi - Les Onglous"
+          },
+          "coords": [
+            3.539819,
+            43.340056
+          ],
+          "category": "historical",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 10.5,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von diesem historischen Meisterwerk der Ingenieurskunst beeindrucken und nutzen Sie das sanfte Nachmittagslicht für wahrhaft unvergessliche Landschaftsaufnahmen.",
+            "hu": "Hagyja, hogy lenyűgözze a mérnöki munkának ez a történelmi remekműve, és használja ki a lágy délutáni fényeket az igazán felejthetetlen és csodás tájképek elkészítéséhez.",
+            "ro": "Lăsați-vă impresionat de această capodoperă istorică a ingineriei și profitați de lumina blândă a după-amiezii pentru a surprinde fotografii de peisaj cu adevărat de neuitat.",
+            "en": "Be impressed by this historic masterpiece of engineering and be sure to take full advantage of the soft afternoon light to capture truly unforgettable landscape photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Grande Conque",
+            "hu": "Grande Conque strand",
+            "ro": "Plaja Grande Conque",
+            "en": "Grande Conque Beach"
+          },
+          "coords": [
+            3.515528,
+            43.276116
+          ],
+          "category": "recreational",
+          "arrive_at": "15:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den einzigartigen schwarzen Vulkansand an diesem dramatischen Küstenabschnitt, aber seien Sie beim Abstieg über die in den Fels gehauenen Stufen etwas vorsichtig.",
+            "hu": "Csodálja meg az egyedülálló fekete vulkáni homokot ezen a drámai partszakaszon, de legyen meglehetősen óvatos, amikor leereszkedik a sziklába vájt, kissé meredek lépcsőkön.",
+            "ro": "Minunați-vă de nisipul vulcanic negru de pe această coastă dramatică, dar fiți destul de atenți când coborâți treptele oarecum abrupte sculptate direct în stânca solidă.",
+            "en": "Marvel at the unique black volcanic sand on this dramatic stretch of coast, but be quite careful when descending the somewhat steep steps carved directly into the solid rock."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Grau d'Agde",
+            "hu": "Grau d'Agde strand",
+            "ro": "Plaja Grau d'Agde",
+            "en": "Grau d'Agde Beach"
+          },
+          "coords": [
+            3.46699,
+            43.278101
+          ],
+          "category": "recreational",
+          "arrive_at": "16:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die familienfreundliche Atmosphäre und das flache, angenehme Wasser an diesem breiten Strand, der sich auch ideal für einen ruhigen Spaziergang im weichen Sand eignet.",
+            "hu": "Élvezze a családbarát légkört és a sekély vizet ezen a széles strandon, amely abszolút ideális egy csendes, pihentető sétához is a rendkívül puha, meleg finom homokban.",
+            "ro": "Bucurați-vă de atmosfera familială și de apa plăcută de pe această plajă largă, care este absolut ideală pentru o plimbare liniștită și relaxantă pe nisipul extrem de moale.",
+            "en": "Enjoy the family-friendly atmosphere and the shallow, pleasant water at this wide beach, which is also absolutely ideal for a quiet, relaxing walk across the very soft sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Petit Mousse",
+            "hu": "Le Petit Mousse",
+            "ro": "Le Petit Mousse",
+            "en": "Le Petit Mousse"
+          },
+          "coords": [
+            3.388943,
+            43.285017
+          ],
+          "category": "recreational",
+          "arrive_at": "18:00",
+          "stay_min": 105,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an diesem entspannten und freundlichen Küstenabschnitt ausklingen und gönnen Sie sich ein erfrischendes Getränk in einem der gemütlichen lokalen Strandlokale.",
+            "hu": "Zárja a hosszú napot ezen a nyugodt és barátságos partszakaszon, és kényeztesse magát egy frissítő, hideg itallal a nagyon hangulatos és autentikus helyi tengerparti létesítmények egyikében.",
+            "ro": "Încheiați ziua lungă pe această porțiune de coastă relaxată și prietenoasă și răsfățați-vă cu o băutură rece într-unul dintre localurile confortabile și autentice de pe malul mării.",
+            "en": "End your long day at this relaxed and friendly stretch of coast and treat yourself to a refreshing, cold drink in one of the very cozy and authentic local beachside establishments."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": {
+          "morning": "Mit dem Auto geht es zunächst zur weltbekannten Wermut-Kellerei und dem charmanten Hafen.",
+          "midday": "Ein kurzer Abstecher führt uns zur malerischen Thau-Lagune und zum historischen Canal du Midi.",
+          "afternoon": "Wir fahren weiter an die spektakuläre Vulkanbucht von La Grande Conque für erste Strandmomente.",
+          "evening": "Der Roadtrip endet entspannt am schönen Plage du Grau d'Agde und dem ruhigen Le Petit Mousse."
+        },
+        "hu": {
+          "morning": "Autóval először a világhírű vermutpincészet felé vesszük az irányt, majd a hangulatos kikötőhöz.",
+          "midday": "Egy rövid kitérő a festői Thau-lagúnához és a történelmi Canal du Midi csatornához vezet minket.",
+          "afternoon": "Továbbhajtunk a látványos La Grande Conque vulkáni öbölbe a lenyűgöző első tengerparti pillanatokért.",
+          "evening": "Az autós túra lazán és békésen ér véget a gyönyörű Plage du Grau d'Agde és a csendes Le Petit Mousse strandjain."
+        },
+        "ro": {
+          "morning": "Cu mașina, ne îndreptăm mai întâi spre faimoasa cramă de vermut și spre portul foarte fermecător.",
+          "midday": "Un scurt ocol ne duce la pitoreasca Lagună Thau și la remarcabilul Canal du Midi cel istoric.",
+          "afternoon": "Mergem mai departe spre spectaculosul golf vulcanic La Grande Conque pentru primele momente la plajă.",
+          "evening": "Călătoria se încheie relaxat pe frumoasa Plage du Grau d'Agde și pe liniștitul mal Le Petit Mousse."
+        },
+        "en": {
+          "morning": "By car, we first head to the world-famous vermouth winery and the charming local harbor area.",
+          "midday": "A short scenic detour takes us to the picturesque Thau Lagoon and the historic Canal du Midi.",
+          "afternoon": "We drive further down to the spectacular volcanic bay of La Grande Conque for our first beach moments.",
+          "evening": "The fantastic road trip ends relaxed at the beautiful Plage du Grau d'Agde and quiet Le Petit Mousse."
+        }
+      }
+    }
+  }
+}

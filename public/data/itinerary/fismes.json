@@ -1,0 +1,474 @@
+{
+  "city_id": "fismes",
+  "anchor": {
+    "name": "Fismes",
+    "coords": [
+      3.6806,
+      49.3072
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:33",
+      "total_km": 1.55,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Place de l'Hôtel de Ville",
+            "hu": "Place de l'Hôtel de Ville",
+            "ro": "Place de l'Hôtel de Ville",
+            "en": "Place de l'Hôtel de Ville"
+          },
+          "coords": [
+            3.679928,
+            49.307595
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Erkundung am zentralen Platz der Stadt und beobachten Sie das lokale Leben, bevor Sie zu den historischen Wahrzeichen aufbrechen.",
+            "hu": "Kezdje a város felfedezését a központi téren, figyelve a helyi élet ritmusát, mielőtt a közeli történelmi nevezetességekhez indulna.",
+            "ro": "Începeți explorarea în piața centrală a orașului, observând ritmul vieții locale înainte de a vă îndrepta spre reperele istorice din apropiere.",
+            "en": "Start your exploration at the town's central square, observing the rhythmic local life before heading to the nearby historical landmarks."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel de Ville",
+            "hu": "Hôtel de Ville",
+            "ro": "Hôtel de Ville",
+            "en": "Hôtel de Ville"
+          },
+          "coords": [
+            3.679928,
+            49.307595
+          ],
+          "category": "civic",
+          "arrive_at": "09:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur des Rathauses, die den widerstandsfähigen administrativen Geist des Wiederaufbaus nach dem Krieg einfängt.",
+            "hu": "Csodálja meg a városháza lenyűgöző polgári építészetét, amely tökéletesen megragadja a háború utáni újjáépítés rugalmas adminisztratív szellemét.",
+            "ro": "Admirați arhitectura civică impresionantă a primăriei, care surprinde perfect spiritul administrativ rezilient al reconstrucției postbelice.",
+            "en": "Admire the striking civic architecture of the town hall, which perfectly captures the resilient administrative spirit of the post-war reconstruction."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sainte-Macre",
+            "hu": "Église Sainte-Macre",
+            "ro": "Église Sainte-Macre",
+            "en": "Église Sainte-Macre"
+          },
+          "coords": [
+            3.684573,
+            49.307433
+          ],
+          "category": "religious",
+          "arrive_at": "10:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Treten Sie ein in dieses historische Heiligtum, um die restaurierten Buntglasfenster zu bewundern, die einen friedlichen Moment abseits des Trubels bieten.",
+            "hu": "Lépjen be ebbe a történelmi szentélybe, hogy megcsodálja a felújított ólomüveg ablakokat, amelyek békés pillanatot kínálnak a nyüzsgő központtól távol.",
+            "ro": "Pășiți în acest sanctuar istoric pentru a admira vitraliile restaurate, oferind un moment de liniște departe de centrul aglomerat al orașului.",
+            "en": "Step inside this historic religious sanctuary to appreciate its restored stained glass windows, offering a peaceful moment away from the bustling center."
+          }
+        },
+        {
+          "name": {
+            "de": "Grenier de Saint-Honoré - Musée du Pain",
+            "hu": "Grenier de Saint-Honoré - Musée du Pain",
+            "ro": "Grenier de Saint-Honoré - Musée du Pain",
+            "en": "Grenier de Saint-Honoré - Musée du Pain"
+          },
+          "coords": [
+            3.68132,
+            49.304954
+          ],
+          "category": "museum",
+          "arrive_at": "10:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte des französischen Backens in diesem einzigartigen Brotmuseum, in dem Sie alles über alte Techniken erfahren.",
+            "hu": "Fedezze fel a francia sütés lenyűgöző történetét ebben az egyedi kenyérmúzeumban, ahol megismerheti a hagyományos technikákat és recepteket.",
+            "ro": "Descoperiți istoria fascinantă a brutăriei franceze la acest muzeu unic al pâinii, unde puteți învăța despre tehnicile și rețetele tradiționale.",
+            "en": "Discover the fascinating history of French baking at this unique bread museum, where you can learn about traditional techniques and regional recipes."
+          }
+        },
+        {
+          "name": {
+            "de": "Départ du circuit des écrivains en guerre",
+            "hu": "Départ du circuit des écrivains en guerre",
+            "ro": "Départ du circuit des écrivains en guerre",
+            "en": "Départ du circuit des écrivains en guerre"
+          },
+          "coords": [
+            3.679461,
+            49.312664
+          ],
+          "category": "landmark",
+          "arrive_at": "12:48",
+          "stay_min": 45,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Folgen Sie dem literarischen Pfad ab dieser Tafel, um ergreifende Geschichten von Schriftstellern zu entdecken, die an der Front gedient haben.",
+            "hu": "Kövesse az információs táblától induló irodalmi ösvényt, hogy feltárja a háborúk alatt a frontvonalon szolgáló írók megrendítő történeteit.",
+            "ro": "Urmați traseul literar care începe de la acest panou pentru a descoperi poveștile emoționante ale scriitorilor care au slujit pe front în timpul războaielor.",
+            "en": "Follow the literary trail starting from this informative panel to uncover poignant stories of writers who served on the front lines during the wars."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang im Herzen von Fismes und genießen Sie das Erwachen der Stadt am Place de l'Hôtel de Ville. Bewundern Sie die Architektur des Rathauses, bevor Sie zur Église Sainte-Macre weitergehen. Nach den spirituellen Eindrücken erwartet Sie das faszinierende Brotmuseum. Am Nachmittag führt Sie die literarische Route auf den Spuren der Schriftsteller.",
+        "hu": "Kezdje sétáját Fismes szívében, élvezve a város ébredését a Place de l'Hôtel de Ville téren. Csodálja meg a városháza építészetét, mielőtt továbbsétálna a Sainte-Macre templomhoz. A spirituális élmények után a lenyűgöző kenyérmúzeum várja, amely a francia pékmesterséget mutatja be. Délután az irodalmi útvonal elvezeti az egykori írók nyomába a háborús emlékeken keresztül.",
+        "ro": "Începeți plimbarea în inima orașului Fismes, bucurându-vă de trezirea orașului în Piața Primăriei. Admirați arhitectura, înainte de a continua spre Biserica Sainte-Macre pentru un moment de liniște. După impresiile spirituale, vă așteaptă fascinantul Muzeu al Pâinii. După-amiaza, traseul literar vă poartă pe urmele scriitorilor, oferind o perspectivă istorică unică.",
+        "en": "Begin your walk in the heart of Fismes, soaking in the town's awakening atmosphere at the Place de l'Hôtel de Ville. Admire the civic architecture before proceeding to the historic Église Sainte-Macre for a moment of peace. The fascinating Bread Museum then introduces you to French baking traditions. In the afternoon, the literary trail traces the footsteps of wartime writers."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:17",
+      "total_km": 7.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Départ du circuit des écrivains en guerre",
+            "hu": "Départ du circuit des écrivains en guerre",
+            "ro": "Départ du circuit des écrivains en guerre",
+            "en": "Départ du circuit des écrivains en guerre"
+          },
+          "coords": [
+            3.679461,
+            49.312664
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Folgen Sie dem literarischen Pfad ab dieser Tafel, um ergreifende Geschichten von Schriftstellern zu entdecken, die an der Front gedient haben.",
+            "hu": "Kövesse az információs táblától induló irodalmi ösvényt, hogy feltárja a háborúk alatt a frontvonalon szolgáló írók megrendítő történeteit.",
+            "ro": "Urmați traseul literar care începe de la acest panou pentru a descoperi poveștile emoționante ale scriitorilor care au slujit pe front în timpul războaielor.",
+            "en": "Follow the literary trail starting from this informative panel to uncover poignant stories of writers who served on the front lines during the wars."
+          }
+        },
+        {
+          "name": {
+            "de": "Place de l'Hôtel de Ville",
+            "hu": "Place de l'Hôtel de Ville",
+            "ro": "Place de l'Hôtel de Ville",
+            "en": "Place de l'Hôtel de Ville"
+          },
+          "coords": [
+            3.679928,
+            49.307595
+          ],
+          "category": "recreational",
+          "arrive_at": "09:28",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Erkundung am zentralen Platz der Stadt und beobachten Sie das lokale Leben, bevor Sie zu den historischen Wahrzeichen aufbrechen.",
+            "hu": "Kezdje a város felfedezését a központi téren, figyelve a helyi élet ritmusát, mielőtt a közeli történelmi nevezetességekhez indulna.",
+            "ro": "Începeți explorarea în piața centrală a orașului, observând ritmul vieții locale înainte de a vă îndrepta spre reperele istorice din apropiere.",
+            "en": "Start your exploration at the town's central square, observing the rhythmic local life before heading to the nearby historical landmarks."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sainte-Macre",
+            "hu": "Église Sainte-Macre",
+            "ro": "Église Sainte-Macre",
+            "en": "Église Sainte-Macre"
+          },
+          "coords": [
+            3.684573,
+            49.307433
+          ],
+          "category": "religious",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Treten Sie ein in dieses historische Heiligtum, um die restaurierten Buntglasfenster zu bewundern, die einen friedlichen Moment abseits des Trubels bieten.",
+            "hu": "Lépjen be ebbe a történelmi szentélybe, hogy megcsodálja a felújított ólomüveg ablakokat, amelyek békés pillanatot kínálnak a nyüzsgő központtól távol.",
+            "ro": "Pășiți în acest sanctuar istoric pentru a admira vitraliile restaurate, oferind un moment de liniște departe de centrul aglomerat al orașului.",
+            "en": "Step inside this historic religious sanctuary to appreciate its restored stained glass windows, offering a peaceful moment away from the bustling center."
+          }
+        },
+        {
+          "name": {
+            "de": "Grenier de Saint-Honoré - Musée du Pain",
+            "hu": "Grenier de Saint-Honoré - Musée du Pain",
+            "ro": "Grenier de Saint-Honoré - Musée du Pain",
+            "en": "Grenier de Saint-Honoré - Musée du Pain"
+          },
+          "coords": [
+            3.68132,
+            49.304954
+          ],
+          "category": "museum",
+          "arrive_at": "10:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte des französischen Backens in diesem einzigartigen Brotmuseum, in dem Sie alles über alte Techniken erfahren.",
+            "hu": "Fedezze fel a francia sütés lenyűgöző történetét ebben az egyedi kenyérmúzeumban, ahol megismerheti a hagyományos technikákat és recepteket.",
+            "ro": "Descoperiți istoria fascinantă a brutăriei franceze la acest muzeu unic al pâinii, unde puteți învăța despre tehnicile și rețetele tradiționale.",
+            "en": "Discover the fascinating history of French baking at this unique bread museum, where you can learn about traditional techniques and regional recipes."
+          }
+        },
+        {
+          "name": {
+            "de": "Mémorial à la 4e division US",
+            "hu": "Mémorial à la 4e division US",
+            "ro": "Mémorial à la 4e division US",
+            "en": "Mémorial à la 4e division US"
+          },
+          "coords": [
+            3.647303,
+            49.310696
+          ],
+          "category": "landmark",
+          "arrive_at": "12:31",
+          "stay_min": 15,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Erweisen Sie an diesem feierlichen Denkmal für die amerikanischen Soldaten Ihren Respekt, einem Ort, der die tiefen historischen Bindungen widerspiegelt.",
+            "hu": "Tisztelegjen az amerikai katonák emlékműve előtt, amely egy elengedhetetlen megálló a mély történelmi kötelékek és a háborús áldozatok felidézésére.",
+            "ro": "Aduceți un omagiu la acest memorial solemn dedicat soldaților americani, o oprire esențială ce reflectă legăturile istorice și sacrificiile războiului.",
+            "en": "Pay your respects at this solemn memorial honoring the American soldiers, an essential stop reflecting the deep historical ties and wartime sacrifices."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            3.674219,
+            49.281456
+          ],
+          "category": "religious",
+          "arrive_at": "13:07",
+          "stay_min": 70,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante periphere Kirche, um ihre subtilen Details zu beobachten und einen ruhigen spirituellen Abschluss Ihrer Reise zu finden.",
+            "hu": "Látogasson el ebbe a bájos, külvárosi templomba, hogy megfigyelje finom építészeti részleteit, és csendes spirituális lezárást adjon az utazásnak.",
+            "ro": "Vizitați această biserică periferică fermecătoare pentru a observa detaliile sale arhitecturale subtile, oferind o încheiere spirituală liniștită călătoriei.",
+            "en": "Visit this charming peripheral church to observe its subtle architectural details, providing a quiet spiritual conclusion to your local sightseeing journey."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Radtour startet am literarischen Pfad, um morgens die frische Luft zu genießen. Fahren Sie dann entspannt ins Zentrum zum Rathausplatz und der Kirche Sainte-Macre. Mittags lädt das Brotmuseum zu einer spannenden Pause ein, bevor Sie das Stadtgebiet verlassen. Der Nachmittag ist geprägt von der Fahrt zum US-Mémorial und endet an der friedlichen Kirche Saint-Pierre.",
+        "hu": "A kerékpártúra az irodalmi ösvénynél kezdődik, kihasználva a friss reggeli levegőt. Utána kényelmesen tekerjen a központba a Városháza térre és a Sainte-Macre templomhoz. Délben a Kenyérmúzeum izgalmas pihenőt kínál, mielőtt elhagyná a belvárost. A délutánt az amerikai emlékműhöz vezető út határozza meg, amely a békés Saint-Pierre templomnál ér véget a külvárosban.",
+        "ro": "Turul cu bicicleta începe pe traseul literar, bucurându-vă de aerul proaspăt al dimineții. Pedalați apoi relaxat spre centrul orașului la Piața Primăriei și Biserica Sainte-Macre. La prânz, Muzeul Pâinii vă invită la o pauză captivantă înainte de a părăsi centrul. După-amiaza este marcată de plimbarea spre Memorialul SUA și se termină la liniștita Biserică Saint-Pierre.",
+        "en": "Start your biking route along the literary trail, enjoying the crisp morning air before rolling into the town center. Visit the bustling town square and the historic Église Sainte-Macre. By midday, the Bread Museum offers a captivating stop exploring traditional baking. Your afternoon pedals towards the solemn US Memorial, concluding peacefully at the peripheral Église Saint-Pierre."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:39",
+      "total_km": 8.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Mairie déléguée de Perles",
+            "hu": "Mairie déléguée de Perles",
+            "ro": "Mairie déléguée de Perles",
+            "en": "Mairie déléguée de Perles"
+          },
+          "coords": [
+            3.655339,
+            49.326713
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beachten Sie die malerische Architektur dieses Rathauses im Ortsteil Perles, die den rustikalen administrativen Charme der umliegenden Dörfer hervorhebt.",
+            "hu": "Figyelje meg a Perles körzetben található kihelyezett városháza furcsa építészetét, amely kiemeli a környező falvak rusztikus adminisztratív varázsát.",
+            "ro": "Observați arhitectura pitorească a acestei primării delegate din zona Perles, evidențiind farmecul administrativ rustic al satelor înconjurătoare.",
+            "en": "Notice the quaint architecture of this delegated town hall in the Perles area, highlighting the rustic administrative charm of the surrounding villages."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sainte-Marie-et-de-l'Assomption",
+            "hu": "Église Sainte-Marie-et-de-l'Assomption",
+            "ro": "Église Sainte-Marie-et-de-l'Assomption",
+            "en": "Église Sainte-Marie-et-de-l'Assomption"
+          },
+          "coords": [
+            3.654946,
+            49.325667
+          ],
+          "category": "religious",
+          "arrive_at": "09:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit in dieser abgelegenen Pfarrei, um ihr schlichtes ländliches Design zu schätzen, ein wahres verborgenes Juwel der Region.",
+            "hu": "Szánjon egy percet ebben az eldugott plébániában, hogy értékelje egyszerű, mégis elegáns vidéki kialakítását, amely egy igazi rejtett gyöngyszem.",
+            "ro": "Luați un moment în această parohie retrasă pentru a aprecia designul său rural simplu, dar elegant, o adevărată bijuterie ascunsă în afara orașului.",
+            "en": "Take a moment inside this secluded parish to appreciate its simple yet elegant rural design, a true hidden gem just outside the main town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Mémorial à la 4e division US",
+            "hu": "Mémorial à la 4e division US",
+            "ro": "Mémorial à la 4e division US",
+            "en": "Mémorial à la 4e division US"
+          },
+          "coords": [
+            3.647303,
+            49.310696
+          ],
+          "category": "landmark",
+          "arrive_at": "10:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Erweisen Sie an diesem feierlichen Denkmal für die amerikanischen Soldaten Ihren Respekt, einem Ort, der die tiefen historischen Bindungen widerspiegelt.",
+            "hu": "Tisztelegjen az amerikai katonák emlékműve előtt, amely egy elengedhetetlen megálló a mély történelmi kötelékek és a háborús áldozatok felidézésére.",
+            "ro": "Aduceți un omagiu la acest memorial solemn dedicat soldaților americani, o oprire esențială ce reflectă legăturile istorice și sacrificiile războiului.",
+            "en": "Pay your respects at this solemn memorial honoring the American soldiers, an essential stop reflecting the deep historical ties and wartime sacrifices."
+          }
+        },
+        {
+          "name": {
+            "de": "Place de l'Hôtel de Ville",
+            "hu": "Place de l'Hôtel de Ville",
+            "ro": "Place de l'Hôtel de Ville",
+            "en": "Place de l'Hôtel de Ville"
+          },
+          "coords": [
+            3.679928,
+            49.307595
+          ],
+          "category": "recreational",
+          "arrive_at": "10:31",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Erkundung am zentralen Platz der Stadt und beobachten Sie das lokale Leben, bevor Sie zu den historischen Wahrzeichen aufbrechen.",
+            "hu": "Kezdje a város felfedezését a központi téren, figyelve a helyi élet ritmusát, mielőtt a közeli történelmi nevezetességekhez indulna.",
+            "ro": "Începeți explorarea în piața centrală a orașului, observând ritmul vieții locale înainte de a vă îndrepta spre reperele istorice din apropiere.",
+            "en": "Start your exploration at the town's central square, observing the rhythmic local life before heading to the nearby historical landmarks."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sainte-Macre",
+            "hu": "Église Sainte-Macre",
+            "ro": "Église Sainte-Macre",
+            "en": "Église Sainte-Macre"
+          },
+          "coords": [
+            3.684573,
+            49.307433
+          ],
+          "category": "religious",
+          "arrive_at": "11:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Treten Sie ein in dieses historische Heiligtum, um die restaurierten Buntglasfenster zu bewundern, die einen friedlichen Moment abseits des Trubels bieten.",
+            "hu": "Lépjen be ebbe a történelmi szentélybe, hogy megcsodálja a felújított ólomüveg ablakokat, amelyek békés pillanatot kínálnak a nyüzsgő központtól távol.",
+            "ro": "Pășiți în acest sanctuar istoric pentru a admira vitraliile restaurate, oferind un moment de liniște departe de centrul aglomerat al orașului.",
+            "en": "Step inside this historic religious sanctuary to appreciate its restored stained glass windows, offering a peaceful moment away from the bustling center."
+          }
+        },
+        {
+          "name": {
+            "de": "Grenier de Saint-Honoré - Musée du Pain",
+            "hu": "Grenier de Saint-Honoré - Musée du Pain",
+            "ro": "Grenier de Saint-Honoré - Musée du Pain",
+            "en": "Grenier de Saint-Honoré - Musée du Pain"
+          },
+          "coords": [
+            3.68132,
+            49.304954
+          ],
+          "category": "museum",
+          "arrive_at": "11:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte des französischen Backens in diesem einzigartigen Brotmuseum, in dem Sie alles über alte Techniken erfahren.",
+            "hu": "Fedezze fel a francia sütés lenyűgöző történetét ebben az egyedi kenyérmúzeumban, ahol megismerheti a hagyományos technikákat és recepteket.",
+            "ro": "Descoperiți istoria fascinantă a brutăriei franceze la acest muzeu unic al pâinii, unde puteți învăța despre tehnicile și rețetele tradiționale.",
+            "en": "Discover the fascinating history of French baking at this unique bread museum, where you can learn about traditional techniques and regional recipes."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            3.674219,
+            49.281456
+          ],
+          "category": "religious",
+          "arrive_at": "13:29",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante periphere Kirche, um ihre subtilen Details zu beobachten und einen ruhigen spirituellen Abschluss Ihrer Reise zu finden.",
+            "hu": "Látogasson el ebbe a bájos, külvárosi templomba, hogy megfigyelje finom építészeti részleteit, és csendes spirituális lezárást adjon az utazásnak.",
+            "ro": "Vizitați această biserică periferică fermecătoare pentru a observa detaliile sale arhitecturale subtile, oferind o încheiere spirituală liniștită călătoriei.",
+            "en": "Visit this charming peripheral church to observe its subtle architectural details, providing a quiet spiritual conclusion to your local sightseeing journey."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt im ländlichen Perles am Rathaus und der charmanten Kirche Sainte-Marie. Nach dieser ruhigen Ouvertüre fahren Sie zum beeindruckenden US-Mémorial. Mittags erreichen Sie das Zentrum von Fismes, wo Sie am Rathausplatz parken können, um die Sainte-Macre Kirche zu besichtigen. Der Ausflug endet mit dem Brotmuseum und einem Besuch der Saint-Pierre Kirche im Süden.",
+        "hu": "Az autós túra a vidéki Perles-ben kezdődik a városházánál és a bájos Sainte-Marie templomnál. E nyugodt nyitány után vezessen a lenyűgöző amerikai emlékműhöz. Délben érkezik Fismes központjába, ahol a városháza terénél parkolhat, hogy megtekintse a Sainte-Macre templomot. A kirándulás a Kenyérmúzeummal és a déli Saint-Pierre templom meglátogatásával zárul.",
+        "ro": "Călătoria auto începe în mediul rural Perles, la primărie și la fermecătoarea Biserică Sainte-Marie. După această uvertură liniștită, conduceți spre impresionantul Memorial SUA. La prânz ajungeți în centrul Fismes, unde puteți parca lângă Piața Primăriei pentru a vizita Biserica Sainte-Macre. Excursia se încheie cu Muzeul Pâinii și o vizită la Biserica Saint-Pierre din sud.",
+        "en": "Your drive begins in the rural setting of Perles by the local town hall and the charming Église Sainte-Marie. Following this serene start, head to the poignant US Memorial. By midday, arrive in central Fismes, parking near the Town Hall Square to explore the Église Sainte-Macre. Conclude your day with the unique Bread Museum and a scenic drive to Église Saint-Pierre."
+      }
+    }
+  }
+}

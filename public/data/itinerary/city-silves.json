@@ -1,0 +1,451 @@
+{
+  "city_id": "city-silves",
+  "anchor": {
+    "name": "Silves",
+    "coords": [
+      -8.4406,
+      37.1894
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:48",
+      "total_km": 1.07,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Câmara Municipal de Silves",
+            "hu": "Câmara Municipal de Silves",
+            "ro": "Câmara Municipal de Silves",
+            "en": "Câmara Municipal de Silves"
+          },
+          "coords": [
+            -8.43998,
+            37.18896
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur des Rathauses als Zentrum des städtischen Lebens und prüfen Sie die Aushänge für abendliche Veranstaltungen.",
+            "hu": "Csodálja meg a városháza klasszikus építészetét, amely a civil élet központja, és mindenképpen nézze meg a hirdetőtáblákat az esti programokért.",
+            "ro": "Admirați arhitectura clasică a primăriei care ancorează viața civică din Silves și asigurați-vă că verificați panourile pentru evenimente culturale.",
+            "en": "Admire the classic architecture of the city hall that anchors Silves' civic life, and be sure to check the notice boards for evening cultural events."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Silves",
+            "hu": "Silves-i Régészeti Múzeum",
+            "ro": "Muzeul Arheologic din Silves",
+            "en": "Silves Archaeological Museum"
+          },
+          "coords": [
+            -8.438887,
+            37.188966
+          ],
+          "category": "museum",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie den beeindruckenden maurischen Brunnen und jahrhundertealte Artefakte, aber kommen Sie früh, um die islamische Keramik in Ruhe zu sehen.",
+            "hu": "Fedezze fel a lenyűgöző mór kutat és az évszázados leleteket, de érkezzen korán, hogy csendben csodálhassa meg az iszlám kerámiák remek részleteit.",
+            "ro": "Explorați fântâna maură și secole de artefacte aici, dar ajungeți devreme pentru a viziona în liniște ceramica islamică cu adevărat complexă.",
+            "en": "Explore the stunning Moorish well and centuries of artifacts here, but arrive early to secure a quiet moment viewing the intricate Islamic ceramics."
+          }
+        },
+        {
+          "name": {
+            "de": "Sé Catedral de Silves",
+            "hu": "Sé Catedral de Silves",
+            "ro": "Sé Catedral de Silves",
+            "en": "Sé Catedral de Silves"
+          },
+          "coords": [
+            -8.438555,
+            37.190022
+          ],
+          "category": "religious",
+          "arrive_at": "12:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotischen Bögen dieser ehemaligen Moschee, die zur Kathedrale wurde, und treten Sie leise ein, um die Akustik voll zu genießen.",
+            "hu": "Csodálja meg ennek a mecsetből lett katedrálisnak a gótikus íveit, és lépjen be halkan, hogy a legjobban értékelhesse a főhajó ünnepélyes akusztikáját.",
+            "ro": "Admirați arcadele gotice ale acestei foste moschei transformate în catedrală și pășiți încet pentru a aprecia acustica solemnă a navei grandioase.",
+            "en": "Marvel at the gothic arches of this former mosque turned cathedral, and step softly inside to best appreciate the solemn acoustics of the grand nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Marcarenhas Gregório",
+            "hu": "Teatro Marcarenhas Gregório",
+            "ro": "Teatro Marcarenhas Gregório",
+            "en": "Teatro Marcarenhas Gregório"
+          },
+          "coords": [
+            -8.436672,
+            37.189792
+          ],
+          "category": "cultural",
+          "arrive_at": "13:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie den intimen Charme dieses historischen Theaters als künstlerische Seele der Stadt und fragen Sie nach Backstage-Touren am Wochenende.",
+            "hu": "Fedezze fel ennek a történelmi színháznak a meghitt báját, amely Silves művészi lelkét képviseli, és kérdezzen rá a hétvégi kulisszajárásokra.",
+            "ro": "Descoperiți farmecul intim al acestui teatru istoric ce reprezintă sufletul artistic din Silves și întrebați de tururile de culise din weekend.",
+            "en": "Discover the intimate charm of this historic theater representing Silves' artistic soul, and ask the box office about weekend backstage tour options."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu da Cortiça",
+            "hu": "Museu da Cortiça",
+            "ro": "Museu da Cortiça",
+            "en": "Museu da Cortiça"
+          },
+          "coords": [
+            -8.435652,
+            37.190814
+          ],
+          "category": "museum",
+          "arrive_at": "14:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die faszinierende Geschichte der Korkproduktion, welche die Region prägte, und berühren Sie die Rindenausstellungen hautnah.",
+            "hu": "Ismerje meg a parafa gyártásának lenyűgöző történetét, amely formálta a régió gazdaságát, és érintse meg a nyers fakéreg kiállítási tárgyakat.",
+            "ro": "Aflați despre istoria fascinantă a producției de plută care a modelat economia regiunii și atingeți expozițiile de scoarță crudă pentru o senzație tactilă.",
+            "en": "Learn about the fascinating history of cork production that shaped the region's economy, and touch the raw bark displays for a tactile experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Baloiço da Ponte Romana",
+            "hu": "Baloiço da Ponte Romana",
+            "ro": "Baloiço da Ponte Romana",
+            "en": "Baloiço da Ponte Romana"
+          },
+          "coords": [
+            -8.438803,
+            37.186464
+          ],
+          "category": "landmark",
+          "arrive_at": "16:03",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Genießen Sie einen spielerischen Moment auf der Schaukel am Flussufer mit Blick auf die römische Brücke und machen Sie Fotos im warmen Abendlicht.",
+            "hu": "Élvezze a játékos pillanatot a folyóparti hintán, ahonnan tökéletes kilátás nyílik a római hídra, és készítsen fotókat az aranyóra meleg fényében.",
+            "ro": "Bucurați-vă de un moment jucăuș pe leagănul de pe malul râului cu vedere perfectă la podul roman și faceți fotografii în lumina caldă a asfințitului.",
+            "en": "Enjoy a playful moment on the riverside swing with a perfect view of the Roman bridge, and capture photos during the warm golden hour light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im Zentrum von Silves am historischen Rathaus, bevor Sie im Archäologischen Museum in die Vergangenheit eintauchen. Der Mittag ist ideal für die gotische Architektur der Kathedrale. Entdecken Sie am Nachmittag die Kunst- und Korkgeschichte der Stadt. Genießen Sie schließlich einen ruhigen Abend auf der Schaukel an der alten römischen Brücke im Sonnenuntergang.",
+        "hu": "Kezdje a reggelt Silves központjában, a történelmi városháza megcsodálásával, majd merüljön el a múltban a Régészeti Múzeumban. A dél ideális a katedrális gótikus építészetének megismerésére. Délután fedezze fel a város művészeti oldalát és a parafa történetét. Végül élvezze a békés estét a római híd melletti hintán, ahogy a nap lassan lenyugszik.",
+        "ro": "Începeți dimineața explorând inima civică din Silves la primăria istorică, înainte de a pătrunde în trecut la Muzeul Arheologic. Amiaza este perfectă pentru a admira arhitectura gotică a Catedralei. După-amiaza, descoperiți latura artistică și istoria plutei. În cele din urmă, bucurați-vă de o seară liniștită pe leagănul de lângă podul roman, în timp ce soarele apune.",
+        "en": "Start your morning exploring the civic heart of Silves, admiring the historic Câmara Municipal before diving into the deep past at the Archaeological Museum. Midday is perfect for admiring the imposing gothic architecture of the Cathedral. In the afternoon, discover the town's artistic side and cork history. Finally, enjoy a peaceful evening swing by the Roman bridge as the sun slowly sets."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:18",
+      "total_km": 2.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fissul",
+            "hu": "Fissul",
+            "ro": "Fissul",
+            "en": "Fissul"
+          },
+          "coords": [
+            -8.446481,
+            37.185982
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen dynamischen Ausstellungspavillon für regionale Messen und nutzen Sie den großen angrenzenden Parkplatz sicher für Ihr Fahrrad.",
+            "hu": "Tekintse meg ezt a dinamikus kiállítási pavilont, amely regionális vásároknak ad otthont, és használja a nagy szomszédos parkolót a biciklije számára.",
+            "ro": "Vizitați acest pavilion expozițional dinamic care găzduiește târguri regionale și utilizați parcarea mare adiacentă pentru a vă lăsa bicicleta în siguranță.",
+            "en": "Check out this dynamic exhibition pavilion that hosts regional fairs, and utilize the large adjacent parking area to safely leave your bicycle."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa da Cultura Islâmica e Mediterrânica",
+            "hu": "Casa da Cultura Islâmica e Mediterrânica",
+            "ro": "Casa da Cultura Islâmica e Mediterrânica",
+            "en": "Casa da Cultura Islâmica e Mediterrânica"
+          },
+          "coords": [
+            -8.447293,
+            37.189752
+          ],
+          "category": "museum",
+          "arrive_at": "09:28",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein ins tiefe islamische Erbe, das das maurische Silves prägte, und nehmen Sie sich Zeit für die detaillierten Architekturtafeln.",
+            "hu": "Merüljön el a mór Silvest meghatározó mély iszlám örökségben, és szánjon időt a belső udvar részletes építészeti paneljeinek elolvasására.",
+            "ro": "Aprofundați-vă în moștenirea islamică profundă care a definit Silvesul maur și luați-vă timp să citiți panourile arhitecturale detaliate din curte.",
+            "en": "Delve into the profound Islamic heritage that defined Moorish Silves, and take time to read the detailed architectural panels in the courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Câmara Municipal de Silves",
+            "hu": "Câmara Municipal de Silves",
+            "ro": "Câmara Municipal de Silves",
+            "en": "Câmara Municipal de Silves"
+          },
+          "coords": [
+            -8.43998,
+            37.18896
+          ],
+          "category": "historical",
+          "arrive_at": "11:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur des Rathauses als Zentrum des städtischen Lebens und prüfen Sie die Aushänge für abendliche Veranstaltungen.",
+            "hu": "Csodálja meg a városháza klasszikus építészetét, amely a civil élet központja, és mindenképpen nézze meg a hirdetőtáblákat az esti programokért.",
+            "ro": "Admirați arhitectura clasică a primăriei care ancorează viața civică din Silves și asigurați-vă că verificați panourile pentru evenimente culturale.",
+            "en": "Admire the classic architecture of the city hall that anchors Silves' civic life, and be sure to check the notice boards for evening cultural events."
+          }
+        },
+        {
+          "name": {
+            "de": "Sé Catedral de Silves",
+            "hu": "Sé Catedral de Silves",
+            "ro": "Sé Catedral de Silves",
+            "en": "Sé Catedral de Silves"
+          },
+          "coords": [
+            -8.438555,
+            37.190022
+          ],
+          "category": "religious",
+          "arrive_at": "12:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotischen Bögen dieser ehemaligen Moschee, die zur Kathedrale wurde, und treten Sie leise ein, um die Akustik voll zu genießen.",
+            "hu": "Csodálja meg ennek a mecsetből lett katedrálisnak a gótikus íveit, és lépjen be halkan, hogy a legjobban értékelhesse a főhajó ünnepélyes akusztikáját.",
+            "ro": "Admirați arcadele gotice ale acestei foste moschei transformate în catedrală și pășiți încet pentru a aprecia acustica solemnă a navei grandioase.",
+            "en": "Marvel at the gothic arches of this former mosque turned cathedral, and step softly inside to best appreciate the solemn acoustics of the grand nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu da Cortiça",
+            "hu": "Museu da Cortiça",
+            "ro": "Museu da Cortiça",
+            "en": "Museu da Cortiça"
+          },
+          "coords": [
+            -8.435652,
+            37.190814
+          ],
+          "category": "museum",
+          "arrive_at": "13:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die faszinierende Geschichte der Korkproduktion, welche die Region prägte, und berühren Sie die Rindenausstellungen hautnah.",
+            "hu": "Ismerje meg a parafa gyártásának lenyűgöző történetét, amely formálta a régió gazdaságát, és érintse meg a nyers fakéreg kiállítási tárgyakat.",
+            "ro": "Aflați despre istoria fascinantă a producției de plută care a modelat economia regiunii și atingeți expozițiile de scoarță crudă pentru o senzație tactilă.",
+            "en": "Learn about the fascinating history of cork production that shaped the region's economy, and touch the raw bark displays for a tactile experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Baloiço da Ponte Romana",
+            "hu": "Baloiço da Ponte Romana",
+            "ro": "Baloiço da Ponte Romana",
+            "en": "Baloiço da Ponte Romana"
+          },
+          "coords": [
+            -8.438803,
+            37.186464
+          ],
+          "category": "landmark",
+          "arrive_at": "15:33",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Genießen Sie einen spielerischen Moment auf der Schaukel am Flussufer mit Blick auf die römische Brücke und machen Sie Fotos im warmen Licht.",
+            "hu": "Élvezze a játékos pillanatot a folyóparti hintán, ahonnan tökéletes kilátás nyílik a római hídra, és készítsen fotókat az aranyóra meleg fényében.",
+            "ro": "Bucurați-vă de un moment jucăuș pe leagănul de pe malul râului cu vedere perfectă la podul roman și faceți fotografii în lumina caldă a asfințitului.",
+            "en": "Enjoy a playful moment on the riverside swing with a perfect view of the Roman bridge, and capture photos during the warm golden hour light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens zum modernen Fissul-Pavillon, bevor Sie in die Ausstellungen der Casa da Cultura Islâmica eintauchen. Genießen Sie eine aktive Fahrt zum Hauptplatz, um das Rathaus und die Kathedrale zu besuchen. Der Nachmittag führt Sie durch die Ausstellungen des Korkmuseums. Beenden Sie Ihre Tour an der malerischen Schaukel am Flussufer, um den Tag entspannt Revue passieren zu lassen.",
+        "hu": "Kerékpározzon a modern Fissul pavilon felé, majd merüljön el az Iszlám Kultúra Házának gazdag kiállításaiban. A déli tekerés a főtérre vezet, a történelmi Városházához és a fenséges Katedrálishoz. A délután a parafa múzeum lenyűgöző tárlatain vezet keresztül. Fejezze be az útját a festői folyóparti hintánál, hogy visszagondoljon az elmúlt napra.",
+        "ro": "Pedalați spre modernul pavilion Fissul pentru a începe ziua înainte de a vizita Casa da Cultura Islâmica. Bucurați-vă de o plimbare la amiază către piața principală pentru a vedea Primăria și Catedrala. După-amiaza vă poartă prin expozițiile fascinante ale muzeului plutei. Încheiați cursa la leagănul pitoresc de pe malul râului pentru a reflecta asupra zilei.",
+        "en": "Pedal towards the modern Fissul pavilion to start the day before immersing yourself in the rich displays of the Casa da Cultura Islâmica. Enjoy an active midday ride to the main square to visit the historic City Hall and majestic Cathedral. The afternoon takes you through the cork museum's fascinating exhibits. Conclude your ride at the scenic riverside swing to reflect on the day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 10.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Casa da Cultura Islâmica e Mediterrânica",
+            "hu": "Casa da Cultura Islâmica e Mediterrânica",
+            "ro": "Casa da Cultura Islâmica e Mediterrânica",
+            "en": "Casa da Cultura Islâmica e Mediterrânica"
+          },
+          "coords": [
+            -8.447293,
+            37.189752
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein ins tiefe islamische Erbe, das das maurische Silves prägte, und nehmen Sie sich Zeit für die detaillierten Architekturtafeln.",
+            "hu": "Merüljön el a mór Silvest meghatározó mély iszlám örökségben, és szánjon időt a belső udvar részletes építészeti paneljeinek elolvasására.",
+            "ro": "Aprofundați-vă în moștenirea islamică profundă care a definit Silvesul maur și luați-vă timp să citiți panourile arhitecturale detaliate din curte.",
+            "en": "Delve into the profound Islamic heritage that defined Moorish Silves, and take time to read the detailed architectural panels in the courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Silves",
+            "hu": "Silves-i Régészeti Múzeum",
+            "ro": "Muzeul Arheologic din Silves",
+            "en": "Silves Archaeological Museum"
+          },
+          "coords": [
+            -8.438887,
+            37.188966
+          ],
+          "category": "museum",
+          "arrive_at": "10:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Erkunden Sie den beeindruckenden maurischen Brunnen und jahrhundertealte Artefakte, aber kommen Sie früh, um die islamische Keramik in Ruhe zu sehen.",
+            "hu": "Fedezze fel a lenyűgöző mór kutat és az évszázados leleteket, de érkezzen korán, hogy csendben csodálhassa meg az iszlám kerámiák remek részleteit.",
+            "ro": "Explorați fântâna maură și secole de artefacte aici, dar ajungeți devreme pentru a viziona în liniște ceramica islamică cu adevărat complexă.",
+            "en": "Explore the stunning Moorish well and centuries of artifacts here, but arrive early to secure a quiet moment viewing the intricate Islamic ceramics."
+          }
+        },
+        {
+          "name": {
+            "de": "Sé Catedral de Silves",
+            "hu": "Sé Catedral de Silves",
+            "ro": "Sé Catedral de Silves",
+            "en": "Sé Catedral de Silves"
+          },
+          "coords": [
+            -8.438555,
+            37.190022
+          ],
+          "category": "religious",
+          "arrive_at": "12:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotischen Bögen dieser ehemaligen Moschee, die zur Kathedrale wurde, und treten Sie leise ein, um die Akustik voll zu genießen.",
+            "hu": "Csodálja meg ennek a mecsetből lett katedrálisnak a gótikus íveit, és lépjen be halkan, hogy a legjobban értékelhesse a főhajó ünnepélyes akusztikáját.",
+            "ro": "Admirați arcadele gotice ale acestei foste moschei transformate în catedrală și pășiți încet pentru a aprecia acustica solemnă a navei grandioase.",
+            "en": "Marvel at the gothic arches of this former mosque turned cathedral, and step softly inside to best appreciate the solemn acoustics of the grand nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu da Cortiça",
+            "hu": "Museu da Cortiça",
+            "ro": "Museu da Cortiça",
+            "en": "Museu da Cortiça"
+          },
+          "coords": [
+            -8.435652,
+            37.190814
+          ],
+          "category": "museum",
+          "arrive_at": "13:49",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die faszinierende Geschichte der Korkproduktion, welche die Region prägte, und berühren Sie die Rindenausstellungen hautnah.",
+            "hu": "Ismerje meg a parafa gyártásának lenyűgöző történetét, amely formálta a régió gazdaságát, és érintse meg a nyers fakéreg kiállítási tárgyakat.",
+            "ro": "Aflați despre istoria fascinantă a producției de plută care a modelat economia regiunii și atingeți expozițiile de scoarță crudă pentru o senzație tactilă.",
+            "en": "Learn about the fascinating history of cork production that shaped the region's economy, and touch the raw bark displays for a tactile experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Albufeira do Arade",
+            "hu": "Albufeira do Arade",
+            "ro": "Albufeira do Arade",
+            "en": "Albufeira do Arade"
+          },
+          "coords": [
+            -8.379443,
+            37.248168
+          ],
+          "category": "natural",
+          "arrive_at": "15:49",
+          "stay_min": 105,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9.5,
+          "tip_5lang": {
+            "de": "Erleben Sie die friedliche Schönheit dieses großen Stausees inmitten sanfter Hügel und packen Sie ein leichtes Picknick für das malerische Ufer ein.",
+            "hu": "Tapasztalja meg ennek a hatalmas, dombokkal körülvett víztározónak a nyugodt szépségét, és hozzon magával egy könnyű pikniket a festői vízpartra.",
+            "ro": "Experimentați frumusețea liniștită a acestui lac de acumulare întins, înconjurat de dealuri și împachetați un picnic ușor de savurat pe malul apei.",
+            "en": "Experience the tranquil beauty of this expansive reservoir surrounded by rolling hills, and pack a light picnic to enjoy near the scenic water edge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie in die Stadt und beginnen Sie den Tag in der Casa da Cultura Islâmica, um das maurische Erbe zu sehen, gefolgt vom Archäologischen Museum. Die Mitte des Tages ist der beeindruckenden Kathedrale von Silves gewidmet. Erkunden Sie nachmittags die regionalen Wurzeln im Korkmuseum. Beenden Sie Ihre Reise mit einer Fahrt zur wunderschönen Albufeira do Arade im Sonnenuntergang.",
+        "hu": "Autózzon a városba, és kezdje a napot az Iszlám Kultúra Házában a mór örökség felfedezésével, majd látogasson el a Régészeti Múzeumba. A nap közepén a fenséges Silves-i Katedrális a fő látványosság. Délután ismerje meg a regionális gyökereket a Parafa Múzeumban. Zárja az utazást egy rövid úttal a lenyűgöző Albufeira do Arade tározóhoz egy felejthetetlen naplementére.",
+        "ro": "Conduceți în oraș și începeți la Casa da Cultura Islâmica pentru a absorbi moștenirea maură, urmată de Muzeul Arheologic. Mijlocul zilei este dominat de impunătoarea Catedrală din Silves. După-amiaza, explorați rădăcinile regionale la Muzeul Plutei. Finalizați călătoria cu o scurtă plimbare cu mașina până la uimitoarea Albufeira do Arade pentru un apus perfect.",
+        "en": "Drive into the city to start your day at the Casa da Cultura Islâmica, absorbing the rich Moorish legacy before visiting the nearby Archaeological Museum. The middle of the day is anchored by the imposing Silves Cathedral. In the afternoon, explore the deep regional roots at the Cork Museum. Finish your journey with a short drive to the stunning Albufeira do Arade for an unforgettable sunset."
+      }
+    }
+  }
+}

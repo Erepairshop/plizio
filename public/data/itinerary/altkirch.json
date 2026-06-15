@@ -1,0 +1,566 @@
+{
+  "city_id": "altkirch",
+  "anchor": {
+    "name": "Altkirch",
+    "coords": [
+      7.2394,
+      47.6231
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 2.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Altkirch",
+            "hu": "Altkirch Városháza",
+            "ro": "Primăria Altkirch",
+            "en": "Altkirch Town Hall"
+          },
+          "coords": [
+            7.23491,
+            47.621856
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur des Rathauses von Altkirch, dem bürgerlichen Herzen der Sundgau-Hauptstadt, und nehmen Sie sich die Zeit, den umliegenden Platz am ruhigen frühen Morgen zu erkunden.",
+            "hu": "Csodálja meg az altkirchi városháza klasszikus építészetét, a Sundgau fővárosának polgári központját, és szánjon egy kis időt a környező tér felfedezésére a kora reggeli csendben.",
+            "ro": "Admirați arhitectura clasică a Primăriei din Altkirch, inima civică a capitalei Sundgau, și faceți-vă timp să explorați piața din jur dimineața devreme, când este cel mai liniștit.",
+            "en": "Admire the classic architecture of the Altkirch Town Hall, the civic heart of the Sundgau capital, and take a moment to explore the surrounding square early in the morning when it's quietest."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Morand",
+            "hu": "Saint-Morand Templom",
+            "ro": "Biserica Saint-Morand",
+            "en": "Saint-Morand Church"
+          },
+          "coords": [
+            7.237692,
+            47.622061
+          ],
+          "category": "religious",
+          "arrive_at": "09:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Betreten Sie diese wunderschöne historische Kirche, die dem Schutzpatron der Winzer gewidmet ist, um ihre atemberaubenden Fresken zu sehen, und achten Sie auf den antiken Sarkophag in der Nähe des Hauptaltars.",
+            "hu": "Lépjen be a szőlősgazdák védőszentjének szentelt gyönyörű történelmi templomba, hogy megcsodálja lenyűgöző freskóit, és keresse meg a főoltár közelében található ősi szarkofágot.",
+            "ro": "Intrați în această frumoasă biserică istorică dedicată sfântului patron al viticultorilor pentru a vedea frescele sale uimitoare, căutând cu atenție sarcofagul antic situat lângă altarul principal.",
+            "en": "Step inside this beautiful historic church dedicated to the patron saint of vine growers to see its stunning frescoes, keeping an eye out for the ancient sarcophagus located near the main altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Sundgau Museum",
+            "hu": "Sundgau-i Múzeum",
+            "ro": "Muzeul Sundgauvien",
+            "en": "Sundgauvien Museum"
+          },
+          "coords": [
+            7.23741,
+            47.6236
+          ],
+          "category": "museum",
+          "arrive_at": "10:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche kulturelle Erbe und das Alltagsleben der Region anhand faszinierender historischer Artefakte in diesem Heimatmuseum, wo Sie sich unbedingt die umfangreiche Trachtensammlung ansehen sollten.",
+            "hu": "Fedezze fel a régió gazdag kulturális örökségét és mindennapi életét a lenyűgöző történelmi tárgyakon keresztül ebben a helyi múzeumban, ahol mindenképpen érdemes megnézni a kiterjedt népviselet-gyűjteményt.",
+            "ro": "Descoperiți bogata moștenire culturală și viața de zi cu zi a regiunii prin artefacte istorice fascinante la acest muzeu local, unde trebuie neapărat să vizitați colecția vastă de costume tradiționale.",
+            "en": "Discover the rich cultural heritage and everyday life of the region through fascinating historical artifacts at this local museum, where you should definitely check out the extensive traditional costume collection."
+          }
+        },
+        {
+          "name": {
+            "de": "CRAC Alsace",
+            "hu": "CRAC Alsace Kortárs Művészeti Központ",
+            "ro": "CRAC Alsace",
+            "en": "CRAC Alsace"
+          },
+          "coords": [
+            7.239243,
+            47.625313
+          ],
+          "category": "cultural",
+          "arrive_at": "12:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die zum Nachdenken anregenden Ausstellungen zeitgenössischer Kunst in diesem dynamischen Schulgebäude aus dem 19. Jahrhundert, und denken Sie daran, dass der Eintritt meist frei ist, was es perfekt für eine gemütliche Kunstpause macht.",
+            "hu": "Merüljön el a gondolatébresztő kortárs művészeti kiállításokban ebben a dinamikus 19. századi iskolaépületben, és ne feledje, hogy a belépés általában ingyenes, így tökéletes egy nyugodt művészeti szünethez.",
+            "ro": "Cufundați-vă în expozițiile de artă contemporană pline de profunzime din această clădire școlară dinamică din secolul al XIX-lea și rețineți că intrarea este de obicei gratuită, fiind locul perfect pentru o pauză artistică relaxantă.",
+            "en": "Immerse yourself in thought-provoking contemporary art exhibitions within this dynamic 19th-century school building, and remember that admission is usually free, making it perfect for a leisurely artistic break."
+          }
+        },
+        {
+          "name": {
+            "de": "Litten Kapelle",
+            "hu": "Litten Kápolna",
+            "ro": "Capela Litten",
+            "en": "Chapelle de la Litten"
+          },
+          "coords": [
+            7.226463,
+            47.636991
+          ],
+          "category": "religious",
+          "arrive_at": "13:50",
+          "stay_min": 70,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Machen Sie einen friedlichen Spaziergang zu dieser bezaubernden, versteckten Kapelle, die sich zwischen die Bäume schmiegt, und nutzen Sie die malerische natürliche Umgebung, um wunderschöne Landschaftsfotos zu machen.",
+            "hu": "Tegyék meg ezt a békés sétát a fák között megbúvó bájos, eldugott kápolnához, és használják ki a festői természeti környezetet gyönyörű tájképek készítésére.",
+            "ro": "Faceți o plimbare liniștită către această capelă fermecătoare și retrasă, ascunsă printre copaci, profitând de împrejurimile naturale pitorești pentru a realiza câteva fotografii de peisaj superbe.",
+            "en": "Take a peaceful stroll to this charming, secluded chapel nestled among the trees, taking advantage of the picturesque natural surroundings to capture some beautiful landscape photography."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihre Erkundung im historischen Herzen von Altkirch. Schlendern Sie vorbei an klassischer Architektur und genießen Sie die morgendliche Ruhe, bevor Sie wunderschön erhaltene spirituelle Stätten entdecken, die ein tiefes regionales Erbe bewahren.\nMidday: Wenn die Sonne ihren Höchststand erreicht, wechseln Sie von spirituellen Wahrzeichen zu den kulturellen Schätzen des Sundgaus. Entdecken Sie faszinierende Heimatgeschichte und zeitgenössische Kunst, die die Vergangenheit mit dem modernen Puls der Stadt verbinden.\nAfternoon: Verlassen Sie das geschäftige Zentrum und begeben Sie sich zu ruhigen, idyllischen Orten in der Natur. Spazieren Sie zu malerischen Kapellen und historischen Monumenten und genießen Sie die friedliche Atmosphäre der wunderschönen Außenbezirke.\nEvening: Lassen Sie den Tag ausklingen, während das warme Nachmittagslicht die ruhigen Ecken der Stadt beleuchtet. Genießen Sie einen entspannten Spaziergang zurück in die Gegenwart, um über die Architektur und die Naturschönheiten des Tages nachzudenken.",
+        "hu": "Morning: Kezdje a felfedezést Altkirch történelmi szívében. Sétáljon a klasszikus épületek között, élvezze a terek reggeli nyugalmát, majd fedezzen fel gyönyörűen fennmaradt vallási helyszíneket, amelyek évszázados regionális örökséget őriznek.\nMidday: Amikor a nap a legmagasabban jár, térjen át a Sundgau régió kulturális kincseire. Fedezze fel a lenyűgöző helytörténetet és az élénk kortárs művészetet, szembeállítva a mély múltat a város modern, kreatív lüktetésével.\nAfternoon: Hagyja el a forgalmas központot, és induljon a természetben megbúvó, csendes, idilli helyek felé. Sétáljon festői kápolnák közelében, élvezve a gyönyörű külvárosok békés atmoszféráját és a természet csendjét.\nEvening: Zárja a napot, amikor a meleg délutáni fény csodásan megvilágítja a nyugodt sarkokat. Élvezze a csendes, elmélyült sétát, és gondoljon vissza a nap során felfedezett lenyűgöző építészeti és természeti szépségekre.",
+        "ro": "Morning: Începeți explorarea în inima istorică a orașului Altkirch. Plimbați-vă pe lângă arhitectura clasică, bucurați-vă de liniștea matinală a piețelor și descoperiți lăcașuri spirituale perfect conservate ce captează secole de moștenire regională profundă.\nMidday: La amiază, treceți de la reperele spirituale la comorile culturale ale regiunii Sundgau. Descoperiți istoria locală fascinantă și arta contemporană vibrantă, contrastând trecutul îndepărtat cu pulsul creativ și modern al orașului.\nAfternoon: Îndepărtați-vă de centrul aglomerat spre locuri mai liniștite, idilice, ascunse în natură. Plimbați-vă pe lângă capele senine și structuri istorice, bucurându-vă de atmosfera pașnică a frumoaselor periferii din Altkirch.\nEvening: Încheiați călătoria zilei în timp ce lumina caldă a după-amiezii târzii evidențiază unghiurile liniștite ale naturii. Bucurați-vă de o plimbare liniștită pentru a reflecta asupra arhitecturii și frumuseții descoperite.",
+        "en": "Morning: Begin your exploration in the historic heart of Altkirch. Wander past classic architecture and soak in the tranquil morning vibes of local squares before discovering beautifully preserved spiritual sites that capture centuries of deep regional heritage.\nMidday: As the sun peaks, transition from spiritual landmarks to the cultural treasures of the Sundgau region. Uncover fascinating local history and vibrant contemporary art, contrasting the deep past with the modern creative pulse of the town.\nAfternoon: Head outwards from the busy center towards quieter, idyllic spots nestled among nature. Stroll near serene chapels and historical structures along the town edges, enjoying the peaceful atmosphere of Altkirch's beautiful outskirts.\nEvening: Conclude the day's journey as the late afternoon sun highlights the quiet beauty of rural outposts. Enjoy a contemplative walk back to reflect on the stunning architecture and natural tranquility discovered throughout the day."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:37",
+      "total_km": 5.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Altkirch",
+            "hu": "Altkirch Városháza",
+            "ro": "Primăria Altkirch",
+            "en": "Altkirch Town Hall"
+          },
+          "coords": [
+            7.23491,
+            47.621856
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur des Rathauses von Altkirch, dem bürgerlichen Herzen der Sundgau-Hauptstadt, und nehmen Sie sich die Zeit, den umliegenden Platz am ruhigen frühen Morgen zu erkunden.",
+            "hu": "Csodálja meg az altkirchi városháza klasszikus építészetét, a Sundgau fővárosának polgári központját, és szánjon egy kis időt a környező tér felfedezésére a kora reggeli csendben.",
+            "ro": "Admirați arhitectura clasică a Primăriei din Altkirch, inima civică a capitalei Sundgau, și faceți-vă timp să explorați piața din jur dimineața devreme, când este cel mai liniștit.",
+            "en": "Admire the classic architecture of the Altkirch Town Hall, the civic heart of the Sundgau capital, and take a moment to explore the surrounding square early in the morning when it's quietest."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Morand",
+            "hu": "Saint-Morand Templom",
+            "ro": "Biserica Saint-Morand",
+            "en": "Saint-Morand Church"
+          },
+          "coords": [
+            7.237692,
+            47.622061
+          ],
+          "category": "religious",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Betreten Sie diese wunderschöne historische Kirche, die dem Schutzpatron der Winzer gewidmet ist, um ihre atemberaubenden Fresken zu sehen, und achten Sie auf den antiken Sarkophag in der Nähe des Hauptaltars.",
+            "hu": "Lépjen be a szőlősgazdák védőszentjének szentelt gyönyörű történelmi templomba, hogy megcsodálja lenyűgöző freskóit, és keresse meg a főoltár közelében található ősi szarkofágot.",
+            "ro": "Intrați în această frumoasă biserică istorică dedicată sfântului patron al viticultorilor pentru a vedea frescele sale uimitoare, căutând cu atenție sarcofagul antic situat lângă altarul principal.",
+            "en": "Step inside this beautiful historic church dedicated to the patron saint of vine growers to see its stunning frescoes, keeping an eye out for the ancient sarcophagus located near the main altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Sundgau Museum",
+            "hu": "Sundgau-i Múzeum",
+            "ro": "Muzeul Sundgauvien",
+            "en": "Sundgauvien Museum"
+          },
+          "coords": [
+            7.23741,
+            47.6236
+          ],
+          "category": "museum",
+          "arrive_at": "10:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche kulturelle Erbe und das Alltagsleben der Region anhand faszinierender historischer Artefakte in diesem Heimatmuseum, wo Sie sich unbedingt die umfangreiche Trachtensammlung ansehen sollten.",
+            "hu": "Fedezze fel a régió gazdag kulturális örökségét és mindennapi életét a lenyűgöző történelmi tárgyakon keresztül ebben a helyi múzeumban, ahol mindenképpen érdemes megnézni a kiterjedt népviselet-gyűjteményt.",
+            "ro": "Descoperiți bogata moștenire culturală și viața de zi cu zi a regiunii prin artefacte istorice fascinante la acest muzeu local, unde trebuie neapărat să vizitați colecția vastă de costume tradiționale.",
+            "en": "Discover the rich cultural heritage and everyday life of the region through fascinating historical artifacts at this local museum, where you should definitely check out the extensive traditional costume collection."
+          }
+        },
+        {
+          "name": {
+            "de": "CRAC Alsace",
+            "hu": "CRAC Alsace Kortárs Művészeti Központ",
+            "ro": "CRAC Alsace",
+            "en": "CRAC Alsace"
+          },
+          "coords": [
+            7.239243,
+            47.625313
+          ],
+          "category": "cultural",
+          "arrive_at": "11:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die zum Nachdenken anregenden Ausstellungen zeitgenössischer Kunst in diesem dynamischen Schulgebäude aus dem 19. Jahrhundert, und denken Sie daran, dass der Eintritt meist frei ist, was es perfekt für eine gemütliche Kunstpause macht.",
+            "hu": "Merüljön el a gondolatébresztő kortárs művészeti kiállításokban ebben a dinamikus 19. századi iskolaépületben, és ne feledje, hogy a belépés általában ingyenes, így tökéletes egy nyugodt művészeti szünethez.",
+            "ro": "Cufundați-vă în expozițiile de artă contemporană pline de profunzime din această clădire școlară dinamică din secolul al XIX-lea și rețineți că intrarea este de obicei gratuită, fiind locul perfect pentru o pauză artistică relaxantă.",
+            "en": "Immerse yourself in thought-provoking contemporary art exhibitions within this dynamic 19th-century school building, and remember that admission is usually free, making it perfect for a leisurely artistic break."
+          }
+        },
+        {
+          "name": {
+            "de": "Litten Kapelle",
+            "hu": "Litten Kápolna",
+            "ro": "Capela Litten",
+            "en": "Chapelle de la Litten"
+          },
+          "coords": [
+            7.226463,
+            47.636991
+          ],
+          "category": "religious",
+          "arrive_at": "13:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Machen Sie einen friedlichen Spaziergang zu dieser bezaubernden, versteckten Kapelle, die sich zwischen die Bäume schmiegt, und nutzen Sie die malerische natürliche Umgebung, um wunderschöne Landschaftsfotos zu machen.",
+            "hu": "Tegyék meg ezt a békés sétát a fák között megbúvó bájos, eldugott kápolnához, és használják ki a festői természeti környezetet gyönyörű tájképek készítésére.",
+            "ro": "Faceți o plimbare liniștită către această capelă fermecătoare și retrasă, ascunsă printre copaci, profitând de împrejurimile naturale pitorești pentru a realiza câteva fotografii de peisaj superbe.",
+            "en": "Take a peaceful stroll to this charming, secluded chapel nestled among the trees, taking advantage of the picturesque natural surroundings to capture some beautiful landscape photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Laurent",
+            "hu": "Saint-Laurent Templom",
+            "ro": "Biserica Saint-Laurent",
+            "en": "Église Saint-Laurent"
+          },
+          "coords": [
+            7.2341,
+            47.639856
+          ],
+          "category": "religious",
+          "arrive_at": "14:11",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die architektonische Eleganz und spirituelle Ruhe dieser weniger bekannten lokalen Kirche und achten Sie auf ihre bemerkenswerten Buntglasfenster, die das Nachmittagslicht wunderschön filtern.",
+            "hu": "Csodálja meg ennek a kevésbé ismert helyi templomnak az építészeti eleganciáját és spirituális nyugalmát, és figyelje meg a figyelemre méltó ólomüveg ablakokat, amelyek gyönyörűen szűrik a délutáni napfényt.",
+            "ro": "Admirați eleganța arhitecturală și liniștea spirituală a acestei biserici locale mai puțin cunoscute, observând vitraliile sale remarcabile care filtrează superb lumina soarelui de după-amiază.",
+            "en": "Marvel at the architectural elegance and spiritual tranquility of this lesser-known local church, taking note of its remarkable stained glass windows that filter the afternoon sunlight beautifully."
+          }
+        },
+        {
+          "name": {
+            "de": "Untermuhle",
+            "hu": "Alsó Malom",
+            "ro": "Moara de Jos",
+            "en": "Moulin Bas"
+          },
+          "coords": [
+            7.267368,
+            47.640689
+          ],
+          "category": "landmark",
+          "arrive_at": "15:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in dieser historischen Wassermühle am Fluss, die einen tollen Einblick in traditionelle Mahltechniken bietet und sich ideal als Ort für ein entspanntes Picknick eignet.",
+            "hu": "Repüljön vissza az időben ennél a történelmi vízimalomnál a folyó mentén, amely nagyszerű bepillantást enged a hagyományos őrlési technikákba, és ideális helyszín egy pihentető piknikhez.",
+            "ro": "Întoarceți-vă în timp la această moară de apă istorică de-a lungul râului, care oferă o privire fascinantă asupra tehnicilor tradiționale de măcinat și servește ca loc ideal pentru un picnic relaxant.",
+            "en": "Step back in time at this historic watermill structure along the river, which offers a great glimpse into traditional milling techniques and serves as an ideal spot for a relaxing picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Martin",
+            "hu": "Saint-Martin Templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            7.263914,
+            47.643011
+          ],
+          "category": "religious",
+          "arrive_at": "16:27",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise, indem Sie das robuste Mauerwerk und den friedlichen Friedhof dieser historischen Kirche am Stadtrand bewundern, die Sie am besten kurz vor Sonnenuntergang wegen der perfekten Lichtverhältnisse besuchen.",
+            "hu": "Zárja utazását a külvárosban található történelmi templom robusztus kőműves munkájának és békés temetőjének megcsodálásával, és a legjobb fényviszonyok érdekében érdemes közvetlenül naplemente előtt érkezni.",
+            "ro": "Încheiați-vă călătoria admirând zidăria robustă și cimitirul liniștit al acestei biserici istorice de la periferie, vizitând-o chiar înainte de apus pentru a prinde cele mai bune condiții de lumină.",
+            "en": "Conclude your journey by admiring the robust stonework and peaceful cemetery of this historic church in the outskirts, visiting right before sunset for the best lighting conditions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihre Erkundung im historischen Herzen von Altkirch. Radeln Sie vorbei an klassischer Architektur und genießen Sie die morgendliche Ruhe, bevor Sie wunderschön erhaltene spirituelle Stätten entdecken, die ein tiefes regionales Erbe bewahren.\nMidday: Wenn die Sonne ihren Höchststand erreicht, wechseln Sie von spirituellen Wahrzeichen zu den kulturellen Schätzen des Sundgaus. Entdecken Sie faszinierende Heimatgeschichte und zeitgenössische Kunst, die die Vergangenheit mit dem modernen Puls der Stadt verbinden.\nAfternoon: Fahren Sie vom geschäftigen Zentrum hinaus zu ruhigen, idyllischen Orten in der Natur. Radeln Sie zu malerischen Kapellen und historischen Wassermühlen am Flussufer und genießen Sie die zügige Fahrt durch die wunderschönen Außenbezirke.\nEvening: Lassen Sie den Tag ausklingen, während die goldene Stunde die Steinmauerwerke der ländlichen Kirchen in warmes Licht taucht. Genießen Sie eine letzte ruhige Fahrt, um über die Architektur und die Naturschönheiten des Tages nachzudenken.",
+        "hu": "Morning: Kezdje a felfedezést Altkirch történelmi szívében. Tekerjen a klasszikus épületek között, élvezze a terek reggeli nyugalmát, majd fedezzen fel gyönyörűen fennmaradt vallási helyszíneket, amelyek évszázados regionális örökséget őriznek.\nMidday: Amikor a nap a legmagasabban jár, térjen át a Sundgau régió kulturális kincseire. Fedezze fel a lenyűgöző helytörténetet és az élénk kortárs művészetet, szembeállítva a mély múltat a város modern, kreatív lüktetésével.\nAfternoon: Hagyja el a forgalmas központot, és kerékpározzon a természetben megbúvó, csendes, idilli helyek felé. Látogasson el festői kápolnákhoz és víz menti történelmi építményekhez, élvezve a gyönyörű külvárosok békés atmoszféráját.\nEvening: Zárja a napot, amikor az aranyóra csodás fénye megvilágítja a vidéki templomok masszív kőhomlokzatát. Élvezze a békés utat visszafelé, miközben elgondolkodik a nap során felfedezett építészeti és természeti csodákon.",
+        "ro": "Morning: Începeți explorarea în inima istorică a orașului Altkirch. Pedalați pe lângă arhitectura clasică, bucurați-vă de liniștea matinală a piețelor și descoperiți lăcașuri spirituale perfect conservate ce captează secole de moștenire regională profundă.\nMidday: La amiază, treceți de la reperele spirituale la comorile culturale ale regiunii Sundgau. Descoperiți istoria locală fascinantă și arta contemporană vibrantă, contrastând trecutul îndepărtat cu pulsul creativ și modern al orașului.\nAfternoon: Îndepărtați-vă de centrul aglomerat pedalând spre locuri mai liniștite, idilice, ascunse în natură. Treceți pe lângă capele senine și mori istorice de-a lungul apei, bucurându-vă de peisajul splendid al periferiilor din Altkirch.\nEvening: Încheiați călătoria zilei în timp ce ora de aur evidențiază fațadele robuste de piatră ale bisericilor rurale istorice. Bucurați-vă de o plimbare liniștită pe două roți pentru a reflecta asupra arhitecturii și frumuseții naturale descoperite.",
+        "en": "Morning: Begin your exploration in the historic heart of Altkirch. Ride past classic architecture and soak in the tranquil morning vibes of local squares before discovering beautifully preserved spiritual sites that capture centuries of deep regional heritage.\nMidday: As the sun peaks, transition from spiritual landmarks to the cultural treasures of the Sundgau region. Uncover fascinating local history and vibrant contemporary art, contrasting the deep past with the modern creative pulse of the town.\nAfternoon: Head outwards from the busy center towards quieter, idyllic spots nestled among nature. Cycle near serene chapels and historical structures along the water, enjoying the peaceful atmosphere and breezy trails of Altkirch's beautiful outskirts.\nEvening: Conclude the day's journey as the golden hour highlights the robust stone facades of historic rural churches. Enjoy a quiet, contemplative ride back to reflect on the architecture and natural beauty discovered throughout the day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:07",
+      "total_km": 8.6,
+      "stop_count": 9,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Maurice",
+            "hu": "Saint-Maurice Templom",
+            "ro": "Biserica Saint-Maurice",
+            "en": "Église Saint-Maurice"
+          },
+          "coords": [
+            7.223302,
+            47.598728
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen mit einem Besuch dieses großen religiösen Gebäudes, das etwas abseits des Zentrums liegt, und konzentrieren Sie sich auf die komplizierten Portaldetails, bevor die Besuchermassen eintreffen.",
+            "hu": "Kezdje a reggelt ennek a központtól kissé távolabb eső, hatalmas vallási épületnek a meglátogatásával, és figyeljen a bonyolult portál részleteire, mielőtt a tömeg elkezdene érkezni.",
+            "ro": "Începeți dimineața vizitând acest grandios edificiu religios situat puțin mai departe de centru, concentrându-vă pe detaliile complicate ale portalului înainte ca mulțimile să înceapă să sosească.",
+            "en": "Start your morning by visiting this grand religious edifice set slightly away from the center, focusing on the intricate portal details before the crowds begin to arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Altkirch",
+            "hu": "Altkirch Városháza",
+            "ro": "Primăria Altkirch",
+            "en": "Altkirch Town Hall"
+          },
+          "coords": [
+            7.23491,
+            47.621856
+          ],
+          "category": "civic",
+          "arrive_at": "09:56",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur des Rathauses von Altkirch, dem bürgerlichen Herzen der Sundgau-Hauptstadt, und nehmen Sie sich die Zeit, den umliegenden Platz am ruhigen frühen Morgen zu erkunden.",
+            "hu": "Csodálja meg az altkirchi városháza klasszikus építészetét, a Sundgau fővárosának polgári központját, és szánjon egy kis időt a környező tér felfedezésére a kora reggeli csendben.",
+            "ro": "Admirați arhitectura clasică a Primăriei din Altkirch, inima civică a capitalei Sundgau, și faceți-vă timp să explorați piața din jur dimineața devreme, când este cel mai liniștit.",
+            "en": "Admire the classic architecture of the Altkirch Town Hall, the civic heart of the Sundgau capital, and take a moment to explore the surrounding square early in the morning when it's quietest."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Morand",
+            "hu": "Saint-Morand Templom",
+            "ro": "Biserica Saint-Morand",
+            "en": "Saint-Morand Church"
+          },
+          "coords": [
+            7.237692,
+            47.622061
+          ],
+          "category": "religious",
+          "arrive_at": "10:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Betreten Sie diese wunderschöne historische Kirche, die dem Schutzpatron der Winzer gewidmet ist, um ihre atemberaubenden Fresken zu sehen, und achten Sie auf den antiken Sarkophag in der Nähe des Hauptaltars.",
+            "hu": "Lépjen be a szőlősgazdák védőszentjének szentelt gyönyörű történelmi templomba, hogy megcsodálja lenyűgöző freskóit, és keresse meg a főoltár közelében található ősi szarkofágot.",
+            "ro": "Intrați în această frumoasă biserică istorică dedicată sfântului patron al viticultorilor pentru a vedea frescele sale uimitoare, căutând cu atenție sarcofagul antic situat lângă altarul principal.",
+            "en": "Step inside this beautiful historic church dedicated to the patron saint of vine growers to see its stunning frescoes, keeping an eye out for the ancient sarcophagus located near the main altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Sundgau Museum",
+            "hu": "Sundgau-i Múzeum",
+            "ro": "Muzeul Sundgauvien",
+            "en": "Sundgauvien Museum"
+          },
+          "coords": [
+            7.23741,
+            47.6236
+          ],
+          "category": "museum",
+          "arrive_at": "11:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche kulturelle Erbe und das Alltagsleben der Region anhand faszinierender historischer Artefakte in diesem Heimatmuseum, wo Sie sich unbedingt die umfangreiche Trachtensammlung ansehen sollten.",
+            "hu": "Fedezze fel a régió gazdag kulturális örökségét és mindennapi életét a lenyűgöző történelmi tárgyakon keresztül ebben a helyi múzeumban, ahol mindenképpen érdemes megnézni a kiterjedt népviselet-gyűjteményt.",
+            "ro": "Descoperiți bogata moștenire culturală și viața de zi cu zi a regiunii prin artefacte istorice fascinante la acest muzeu local, unde trebuie neapărat să vizitați colecția vastă de costume tradiționale.",
+            "en": "Discover the rich cultural heritage and everyday life of the region through fascinating historical artifacts at this local museum, where you should definitely check out the extensive traditional costume collection."
+          }
+        },
+        {
+          "name": {
+            "de": "CRAC Alsace",
+            "hu": "CRAC Alsace Kortárs Művészeti Központ",
+            "ro": "CRAC Alsace",
+            "en": "CRAC Alsace"
+          },
+          "coords": [
+            7.239243,
+            47.625313
+          ],
+          "category": "cultural",
+          "arrive_at": "12:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die zum Nachdenken anregenden Ausstellungen zeitgenössischer Kunst in diesem dynamischen Schulgebäude aus dem 19. Jahrhundert, und denken Sie daran, dass der Eintritt meist frei ist, was es perfekt für eine gemütliche Kunstpause macht.",
+            "hu": "Merüljön el a gondolatébresztő kortárs művészeti kiállításokban ebben a dinamikus 19. századi iskolaépületben, és ne feledje, hogy a belépés általában ingyenes, így tökéletes egy nyugodt művészeti szünethez.",
+            "ro": "Cufundați-vă în expozițiile de artă contemporană pline de profunzime din această clădire școlară dinamică din secolul al XIX-lea și rețineți că intrarea este de obicei gratuită, fiind locul perfect pentru o pauză artistică relaxantă.",
+            "en": "Immerse yourself in thought-provoking contemporary art exhibitions within this dynamic 19th-century school building, and remember that admission is usually free, making it perfect for a leisurely artistic break."
+          }
+        },
+        {
+          "name": {
+            "de": "Litten Kapelle",
+            "hu": "Litten Kápolna",
+            "ro": "Capela Litten",
+            "en": "Chapelle de la Litten"
+          },
+          "coords": [
+            7.226463,
+            47.636991
+          ],
+          "category": "religious",
+          "arrive_at": "14:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Machen Sie einen friedlichen Spaziergang zu dieser bezaubernden, versteckten Kapelle, die sich zwischen die Bäume schmiegt, und nutzen Sie die malerische natürliche Umgebung, um wunderschöne Landschaftsfotos zu machen.",
+            "hu": "Tegyék meg ezt a békés sétát a fák között megbúvó bájos, eldugott kápolnához, és használják ki a festői természeti környezetet gyönyörű tájképek készítésére.",
+            "ro": "Faceți o plimbare liniștită către această capelă fermecătoare și retrasă, ascunsă printre copaci, profitând de împrejurimile naturale pitorești pentru a realiza câteva fotografii de peisaj superbe.",
+            "en": "Take a peaceful stroll to this charming, secluded chapel nestled among the trees, taking advantage of the picturesque natural surroundings to capture some beautiful landscape photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Laurent",
+            "hu": "Saint-Laurent Templom",
+            "ro": "Biserica Saint-Laurent",
+            "en": "Église Saint-Laurent"
+          },
+          "coords": [
+            7.2341,
+            47.639856
+          ],
+          "category": "religious",
+          "arrive_at": "14:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die architektonische Eleganz und spirituelle Ruhe dieser weniger bekannten lokalen Kirche und achten Sie auf ihre bemerkenswerten Buntglasfenster, die das Nachmittagslicht wunderschön filtern.",
+            "hu": "Csodálja meg ennek a kevésbé ismert helyi templomnak az építészeti eleganciáját és spirituális nyugalmát, és figyelje meg a figyelemre méltó ólomüveg ablakokat, amelyek gyönyörűen szűrik a délutáni napfényt.",
+            "ro": "Admirați eleganța arhitecturală și liniștea spirituală a acestei biserici locale mai puțin cunoscute, observând vitraliile sale remarcabile care filtrează superb lumina soarelui de după-amiază.",
+            "en": "Marvel at the architectural elegance and spiritual tranquility of this lesser-known local church, taking note of its remarkable stained glass windows that filter the afternoon sunlight beautifully."
+          }
+        },
+        {
+          "name": {
+            "de": "Untermuhle",
+            "hu": "Alsó Malom",
+            "ro": "Moara de Jos",
+            "en": "Moulin Bas"
+          },
+          "coords": [
+            7.267368,
+            47.640689
+          ],
+          "category": "landmark",
+          "arrive_at": "15:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in dieser historischen Wassermühle am Fluss, die einen tollen Einblick in traditionelle Mahltechniken bietet und sich ideal als Ort für ein entspanntes Picknick eignet.",
+            "hu": "Repüljön vissza az időben ennél a történelmi vízimalomnál a folyó mentén, amely nagyszerű bepillantást enged a hagyományos őrlési technikákba, és ideális helyszín egy pihentető piknikhez.",
+            "ro": "Întoarceți-vă în timp la această moară de apă istorică de-a lungul râului, care oferă o privire fascinantă asupra tehnicilor tradiționale de măcinat și servește ca loc ideal pentru un picnic relaxant.",
+            "en": "Step back in time at this historic watermill structure along the river, which offers a great glimpse into traditional milling techniques and serves as an ideal spot for a relaxing picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Martin",
+            "hu": "Saint-Martin Templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            7.263914,
+            47.643011
+          ],
+          "category": "religious",
+          "arrive_at": "16:57",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise, indem Sie das robuste Mauerwerk und den friedlichen Friedhof dieser historischen Kirche am Stadtrand bewundern, die Sie am besten kurz vor Sonnenuntergang wegen der perfekten Lichtverhältnisse besuchen.",
+            "hu": "Zárja utazását a külvárosban található történelmi templom robusztus kőműves munkájának és békés temetőjének megcsodálásával, és a legjobb fényviszonyok érdekében érdemes közvetlenül naplemente előtt érkezni.",
+            "ro": "Încheiați-vă călătoria admirând zidăria robustă și cimitirul liniștit al acestei biserici istorice de la periferie, vizitând-o chiar înainte de apus pentru a prinde cele mai bune condiții de lumină.",
+            "en": "Conclude your journey by admiring the robust stonework and peaceful cemetery of this historic church in the outskirts, visiting right before sunset for the best lighting conditions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihre motorisierte Erkundung im historischen Herzen von Altkirch, mit einem kurzen Abstecher in den Süden. Fahren Sie vorbei an klassischer Architektur und genießen Sie die Ruhe, bevor Sie spirituelle Stätten entdecken, die ein tiefes regionales Erbe bewahren.\nMidday: Wenn die Sonne ihren Höchststand erreicht, wechseln Sie von religiösen Wahrzeichen zu den kulturellen Schätzen des Sundgaus. Entdecken Sie faszinierende Heimatgeschichte und zeitgenössische Kunst, die die Vergangenheit mit dem modernen Puls der Stadt verbinden.\nAfternoon: Fahren Sie vom geschäftigen Zentrum hinaus zu ruhigen, idyllischen Orten in der Natur. Besuchen Sie mühelos malerische Kapellen und historische Wassermühlen und genießen Sie die Panoramafahrt durch die wunderschönen Außenbezirke von Altkirch.\nEvening: Lassen Sie den Tag ausklingen, während die goldene Stunde die Steinmauerwerke der ländlichen Kirchen in warmes Licht taucht. Genießen Sie eine entspannte Fahrt zurück, um über die Architektur und die Naturschönheiten des Tages nachzudenken.",
+        "hu": "Morning: Kezdje autós felfedezését Altkirch történelmi szívében, egy gyors déli kitérővel. Vezessen a klasszikus épületek között, élvezze a terek reggeli nyugalmát, majd fedezzen fel gyönyörűen fennmaradt vallási helyszíneket, amelyek őrzik a régió örökségét.\nMidday: Amikor a nap a legmagasabban jár, térjen át a Sundgau régió kulturális kincseire. Fedezze fel a lenyűgöző helytörténetet és az élénk kortárs művészetet, szembeállítva a mély múltat a város modern, kreatív lüktetésével.\nAfternoon: Hagyja el a forgalmas központot, és autózzon a természetben megbúvó, csendes, idilli helyek felé. Kényelmesen látogasson el festői kápolnákhoz és víz menti történelmi építményekhez, élvezve a gyönyörű külvárosok atmoszféráját.\nEvening: Zárja a napot, amikor az aranyóra csodás fénye megvilágítja a vidéki templomok masszív kőhomlokzatát. Élvezze a kényelmes utat visszafelé, miközben elgondolkodik a nap során felfedezett építészeti és természeti csodákon.",
+        "ro": "Morning: Începeți explorarea cu mașina în inima istorică a orașului Altkirch, incluzând o scurtă deviere spre sud. Conduceți pe lângă arhitectura clasică, bucurați-vă de liniștea matinală și descoperiți lăcașuri spirituale ce captează secole de moștenire regională.\nMidday: La amiază, treceți de la reperele spirituale la comorile culturale ale regiunii Sundgau. Descoperiți istoria locală fascinantă și arta contemporană vibrantă, contrastând trecutul îndepărtat cu pulsul creativ și modern al orașului.\nAfternoon: Îndepărtați-vă de centrul aglomerat conducând spre locuri mai liniștite, idilice, ascunse în natură. Vizitați confortabil capele senine și structuri istorice de-a lungul apei, bucurându-vă de drumurile pașnice ale periferiilor din Altkirch.\nEvening: Încheiați călătoria zilei în timp ce ora de aur evidențiază fațadele robuste de piatră ale bisericilor rurale istorice. Bucurați-vă de o călătorie relaxantă la volan pentru a reflecta asupra arhitecturii și frumuseții naturale descoperite pe parcursul zilei.",
+        "en": "Morning: Begin your driving exploration in the historic heart of Altkirch, starting with a quick southern detour. Cruise past classic architecture and soak in the tranquil morning vibes before discovering nicely preserved spiritual sites that capture regional heritage.\nMidday: As the sun peaks, transition from spiritual landmarks to the cultural treasures of the Sundgau region. Uncover fascinating local history and vibrant contemporary art, contrasting the deep past with the modern creative pulse of the town.\nAfternoon: Head outwards from the busy center towards quieter, idyllic spots nestled among nature. Comfortably drive between serene chapels and historical structures along the water, enjoying the peaceful scenic routes of Altkirch's beautiful outskirts.\nEvening: Conclude the day's journey as the golden hour highlights the robust stone facades of historic rural churches. Enjoy a relaxing drive back to reflect on the architecture and natural beauty effortlessly discovered throughout the day."
+      }
+    }
+  }
+}

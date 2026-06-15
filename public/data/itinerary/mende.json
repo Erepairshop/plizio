@@ -1,0 +1,497 @@
+{
+  "city_id": "mende",
+  "anchor": {
+    "name": "Mende",
+    "coords": [
+      3.5006,
+      44.5183
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:32",
+      "total_km": 0.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place au Blé",
+            "hu": "Place au Blé",
+            "ro": "Place au Blé",
+            "en": "Place au Blé"
+          },
+          "coords": [
+            3.500312,
+            44.517548
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie den historischen Kornmarktplatz, wo einst der lokale Handel florierte, und bewundern Sie bei einem Kaffee die mittelalterliche Architektur.",
+            "hu": "Fedezze fel a történelmi gabonapiac terét, ahol egykor a helyi kereskedelem virágzott, és igyon meg egy kávét a középkori épületek árnyékában.",
+            "ro": "Explorează piața istorică de cereale unde comerțul local a înflorit și asigură-te că admiri arhitectura medievală în timp ce savurezi o cafea.",
+            "en": "Explore the historic grain market square where local trade thrived, and be sure to admire the surrounding medieval architecture while sipping a coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Penitents Tower",
+            "hu": "Penitents Tower",
+            "ro": "Penitents Tower",
+            "en": "Penitents Tower"
+          },
+          "coords": [
+            3.50065,
+            44.5175
+          ],
+          "category": "historical",
+          "arrive_at": "09:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.03,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diesen bemerkenswerten Überrest der alten Stadtbefestigung, um seine strategische Bedeutung zu verstehen, aber tragen Sie festes Schuhwerk.",
+            "hu": "Másszon fel a város ősi erődítményeinek e figyelemre méltó maradványához, hogy megértse stratégiai múltját, de viseljen masszív cipőt az egyenetlen talajon.",
+            "ro": "Urcă aproape de această rămășiță remarcabilă a vechilor fortificații pentru a înțelege trecutul său strategic, dar poartă încălțăminte solidă pentru teren.",
+            "en": "Climb near this remarkable remnant of the city's ancient fortifications to understand its strategic past, but wear sturdy shoes for the uneven ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Gévaudan Museum",
+            "hu": "Gévaudan Museum",
+            "ro": "Gévaudan Museum",
+            "en": "Gévaudan Museum"
+          },
+          "coords": [
+            3.4992,
+            44.5183
+          ],
+          "category": "museum",
+          "arrive_at": "10:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte der Region und die Legende der Bestie von Gévaudan, und kaufen Sie Tickets vorab online, um Warteschlangen zu vermeiden.",
+            "hu": "Fedezze fel a régió gazdag történelmét és a gévaudani fenevad legendáját, és vegye meg a jegyét előre online, hogy elkerülje a nyári sorban állást.",
+            "ro": "Descoperă istoria bogată a regiunii și legenda Bestiei din Gévaudan și cumpără bilete online în avans pentru a evita cozile din timpul verii.",
+            "en": "Discover the region's rich history and the legend of the Beast of Gévaudan, and buy tickets online in advance to skip the busy summer queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame-et-Saint-Privat Cathedral",
+            "hu": "Notre-Dame-et-Saint-Privat Cathedral",
+            "ro": "Notre-Dame-et-Saint-Privat Cathedral",
+            "en": "Notre-Dame-et-Saint-Privat Cathedral"
+          },
+          "coords": [
+            3.498685,
+            44.517291
+          ],
+          "category": "religious",
+          "arrive_at": "12:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Bewundern Sie die kontrastierenden Glockentürme dieses gotischen Meisterwerks und besuchen Sie es gegen Mittag, um die beleuchteten Buntglasfenster zu sehen.",
+            "hu": "Csodálja meg ennek a gótikus remekműnek a kontrasztos harangtornyait, és látogasson el délben, hogy lássa a napfény által megvilágított ólomüvegeket.",
+            "ro": "Minunează-te de turnurile clopotniță contrastante ale acestei capodopere gotice și vizitează la prânz pentru a vedea vitraliile luminate de soare.",
+            "en": "Marvel at the contrasting bell towers of this gothic masterpiece, and visit around noon to witness the stunning stained glass illuminated by the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Privat Hermitage",
+            "hu": "Saint-Privat Hermitage",
+            "ro": "Saint-Privat Hermitage",
+            "en": "Saint-Privat Hermitage"
+          },
+          "coords": [
+            3.498685,
+            44.517291
+          ],
+          "category": "religious",
+          "arrive_at": "13:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Suchen Sie einen Moment der Ruhe an dieser heiligen Höhle des Schutzpatrons der Stadt, aber bringen Sie Wasser mit, da der Weg steil sein kann.",
+            "hu": "Keressen egy kis békét a város védőszentjének szentelt barlangnál, de vigyen magával egy üveg vizet, mert az ösvény meglepően meredek lehet.",
+            "ro": "Caută un moment de pace la această peșteră sacră dedicată sfântului patron al orașului, dar adu o sticlă cu apă, deoarece poteca poate fi abruptă.",
+            "en": "Seek a moment of peace at this sacred cave site dedicated to the city's patron saint, but bring a bottle of water as the path can be surprisingly steep."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame Bridge",
+            "hu": "Notre-Dame Bridge",
+            "ro": "Notre-Dame Bridge",
+            "en": "Notre-Dame Bridge"
+          },
+          "coords": [
+            3.497791,
+            44.520872
+          ],
+          "category": "historical",
+          "arrive_at": "14:42",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie über diese malerische Steinbrücke aus dem 13. Jahrhundert über den Lot und versuchen Sie, zur goldenen Stunde das perfekte Reflexionsfoto zu machen.",
+            "hu": "Sétáljon át a Lot folyón ívelő, 13. századi festői kőhídon, és próbálja meg elkapni a tökéletes tükröződő fotót az aranyórában.",
+            "ro": "Plimbă-te pe acest pod pitoresc de piatră din secolul al XIII-lea peste râul Lot și încearcă să surprinzi reflexia perfectă în timpul orei de aur.",
+            "en": "Walk across this picturesque 13th-century stone bridge arching over the Lot river, and try to capture the perfect reflection photo during the golden hour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einem Spaziergang durch das historische Zentrum von Mende, vorbei am alten Kornmarkt und den Verteidigungsanlagen.\n\nMittags tauchen Sie im Gévaudan-Museum in die lokale Folklore ein.\n\nDer Nachmittag ist der imposanten Kathedrale und der nahen Einsiedelei gewidmet.\n\nLassen Sie den Tag mit einem abendlichen Spaziergang über die historische Notre-Dame-Brücke ausklingen.",
+        "hu": "Kezdje a reggelt Mende történelmi központjában bolyongva, felfedezve a régi gabonapiacot és a középkori védműveket.\n\nDélben merüljön el a helyi folklórban a Gévaudan Múzeumban.\n\nA délutánt az impozáns katedrálisnak és a közeli remetelaknak szentelje.\n\nZárja a napot egy festői esti sétával a történelmi Notre-Dame hídon, élvezve a folyóra nyíló kilátást.",
+        "ro": "Începeți dimineața plimbându-vă prin inima istorică a orașului Mende, descoperind vechea piață de cereale.\n\nLa prânz, explorați folclorul local la Muzeul Gévaudan.\n\nDupă-amiaza este dedicată catedralei impunătoare și schitului din apropiere pentru o reflecție liniștită.\n\nÎncheiați-vă ziua cu o plimbare de seară pe podul istoric Notre-Dame, admirând priveliștea.",
+        "en": "Begin your morning wandering through the historical heart of Mende, discovering the old grain market and the medieval defense structures.\n\nBy midday, delve into local folklore and art at the Gévaudan Museum.\n\nThe afternoon is dedicated to the imposing Cathedral and the nearby Hermitage for quiet reflection.\n\nConclude your day with a scenic evening stroll over the historic Notre-Dame Bridge."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 2.32,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Notre-Dame Bridge",
+            "hu": "Notre-Dame Bridge",
+            "ro": "Notre-Dame Bridge",
+            "en": "Notre-Dame Bridge"
+          },
+          "coords": [
+            3.497791,
+            44.520872
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie über diese malerische Steinbrücke aus dem 13. Jahrhundert über den Lot und versuchen Sie, zur goldenen Stunde das perfekte Reflexionsfoto zu machen.",
+            "hu": "Sétáljon át a Lot folyón ívelő, 13. századi festői kőhídon, és próbálja meg elkapni a tökéletes tükröződő fotót az aranyórában.",
+            "ro": "Plimbă-te pe acest pod pitoresc de piatră din secolul al XIII-lea peste râul Lot și încearcă să surprinzi reflexia perfectă în timpul orei de aur.",
+            "en": "Walk across this picturesque 13th-century stone bridge arching over the Lot river, and try to capture the perfect reflection photo during the golden hour."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame-et-Saint-Privat Cathedral",
+            "hu": "Notre-Dame-et-Saint-Privat Cathedral",
+            "ro": "Notre-Dame-et-Saint-Privat Cathedral",
+            "en": "Notre-Dame-et-Saint-Privat Cathedral"
+          },
+          "coords": [
+            3.498685,
+            44.517291
+          ],
+          "category": "religious",
+          "arrive_at": "10:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die kontrastierenden Glockentürme dieses gotischen Meisterwerks und besuchen Sie es gegen Mittag, um die beleuchteten Buntglasfenster zu sehen.",
+            "hu": "Csodálja meg ennek a gótikus remekműnek a kontrasztos harangtornyait, és látogasson el délben, hogy lássa a napfény által megvilágított ólomüvegeket.",
+            "ro": "Minunează-te de turnurile clopotniță contrastante ale acestei capodopere gotice și vizitează la prânz pentru a vedea vitraliile luminate de soare.",
+            "en": "Marvel at the contrasting bell towers of this gothic masterpiece, and visit around noon to witness the stunning stained glass illuminated by the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Penitents Tower",
+            "hu": "Penitents Tower",
+            "ro": "Penitents Tower",
+            "en": "Penitents Tower"
+          },
+          "coords": [
+            3.50065,
+            44.5175
+          ],
+          "category": "historical",
+          "arrive_at": "11:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diesen bemerkenswerten Überrest der alten Stadtbefestigung, um seine strategische Bedeutung zu verstehen, aber tragen Sie festes Schuhwerk.",
+            "hu": "Másszon fel a város ősi erődítményeinek e figyelemre méltó maradványához, hogy megértse stratégiai múltját, de viseljen masszív cipőt az egyenetlen talajon.",
+            "ro": "Urcă aproape de această rămășiță remarcabilă a vechilor fortificații pentru a înțelege trecutul său strategic, dar poartă încălțăminte solidă pentru teren.",
+            "en": "Climb near this remarkable remnant of the city's ancient fortifications to understand its strategic past, but wear sturdy shoes for the uneven ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Gévaudan Museum",
+            "hu": "Gévaudan Museum",
+            "ro": "Gévaudan Museum",
+            "en": "Gévaudan Museum"
+          },
+          "coords": [
+            3.4992,
+            44.5183
+          ],
+          "category": "museum",
+          "arrive_at": "13:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte der Region und die Legende der Bestie von Gévaudan, und kaufen Sie Tickets vorab online, um Warteschlangen zu vermeiden.",
+            "hu": "Fedezze fel a régió gazdag történelmét és a gévaudani fenevad legendáját, és vegye meg a jegyét előre online, hogy elkerülje a nyári sorban állást.",
+            "ro": "Descoperă istoria bogată a regiunii și legenda Bestiei din Gévaudan și cumpără bilete online în avans pentru a evita cozile din timpul verii.",
+            "en": "Discover the region's rich history and the legend of the Beast of Gévaudan, and buy tickets online in advance to skip the busy summer queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Place au Blé",
+            "hu": "Place au Blé",
+            "ro": "Place au Blé",
+            "en": "Place au Blé"
+          },
+          "coords": [
+            3.500312,
+            44.517548
+          ],
+          "category": "historical",
+          "arrive_at": "14:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Erkunden Sie den historischen Kornmarktplatz, wo einst der lokale Handel florierte, und bewundern Sie bei einem Kaffee die mittelalterliche Architektur.",
+            "hu": "Fedezze fel a történelmi gabonapiac terét, ahol egykor a helyi kereskedelem virágzott, és igyon meg egy kávét a középkori épületek árnyékában.",
+            "ro": "Explorează piața istorică de cereale unde comerțul local a înflorit și asigură-te că admiri arhitectura medievală în timp ce savurezi o cafea.",
+            "en": "Explore the historic grain market square where local trade thrived, and be sure to admire the surrounding medieval architecture while sipping a coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Dinopedia",
+            "hu": "Dinopedia",
+            "ro": "Dinopedia",
+            "en": "Dinopedia"
+          },
+          "coords": [
+            3.507206,
+            44.505069
+          ],
+          "category": "family",
+          "arrive_at": "15:25",
+          "stay_min": 130,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie ein prähistorisches Abenteuer für die ganze Familie mit lebensgroßen Dinosauriern und beachten Sie den Tagesplan für interaktive Ausgrabungen.",
+            "hu": "Élvezze a családbarát őskori kalandot az életnagyságú dinoszaurusz modellekkel, és nézze meg a napi programot az interaktív ásatási tevékenységekhez.",
+            "ro": "Bucură-te de o aventură preistorică alături de familie, cu dinozauri în mărime naturală, și verifică programul zilnic pentru activități interactive de excavare.",
+            "en": "Enjoy a family-friendly prehistoric adventure with life-sized dinosaur models, and check the daily schedule for interactive fossil excavation activities."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt an der malerischen Notre-Dame-Brücke im sanften Morgenlicht.\n\nMittags erkunden Sie das Stadtzentrum mit der Kathedrale, dem Büßerturm und dem örtlichen Museum.\n\nAm Nachmittag radeln Sie zum Dinopedia für ein aufregendes prähistorisches Abenteuer.\n\nDer Abend klingt gemütlich aus, während Sie in die Stadt zurückkehren und auf einen aktiven Tag zurückblicken.",
+        "hu": "Kerékpáros utazása a festői Notre-Dame hídnál kezdődik, megcsodálva a reggeli fényeket.\n\nA dél a városközpontba invitálja, hogy megnézze a katedrálist, a bűnbánók tornyát és a múzeumot.\n\nDélután tekerjen el a Dinopediába egy őskori kalandra.\n\nAz este nyugodtan telik, miközben visszakerékpározik a városba, átgondolva az aktív napot.",
+        "ro": "Călătoria pe bicicletă începe la podul pitoresc Notre-Dame, surprinzând lumina blândă a dimineții.\n\nPrânzul vă invită în centrul orașului pentru a admira catedrala și muzeul local.\n\nDupă-amiaza, pedalați spre Dinopedia pentru o aventură preistorică distractivă.\n\nSeara se încheie în timp ce vă întoarceți în oraș, reflectând la o zi activă.",
+        "en": "Your cycling journey starts at the picturesque Notre-Dame Bridge, catching the gentle morning light.\n\nMidday invites you into the city center to admire the Cathedral, Penitents Tower, and local museum history.\n\nIn the afternoon, pedal your way out to Dinopedia for a fun, prehistoric adventure.\n\nThe evening winds down as you cycle back into town, reflecting on an active day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:14",
+      "total_km": 7.47,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Notre-Dame Bridge",
+            "hu": "Notre-Dame Bridge",
+            "ro": "Notre-Dame Bridge",
+            "en": "Notre-Dame Bridge"
+          },
+          "coords": [
+            3.497791,
+            44.520872
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie über diese malerische Steinbrücke aus dem 13. Jahrhundert über den Lot und versuchen Sie, zur goldenen Stunde das perfekte Reflexionsfoto zu machen.",
+            "hu": "Sétáljon át a Lot folyón ívelő, 13. századi festői kőhídon, és próbálja meg elkapni a tökéletes tükröződő fotót az aranyórában.",
+            "ro": "Plimbă-te pe acest pod pitoresc de piatră din secolul al XIII-lea peste râul Lot și încearcă să surprinzi reflexia perfectă în timpul orei de aur.",
+            "en": "Walk across this picturesque 13th-century stone bridge arching over the Lot river, and try to capture the perfect reflection photo during the golden hour."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame-et-Saint-Privat Cathedral",
+            "hu": "Notre-Dame-et-Saint-Privat Cathedral",
+            "ro": "Notre-Dame-et-Saint-Privat Cathedral",
+            "en": "Notre-Dame-et-Saint-Privat Cathedral"
+          },
+          "coords": [
+            3.498685,
+            44.517291
+          ],
+          "category": "religious",
+          "arrive_at": "10:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die kontrastierenden Glockentürme dieses gotischen Meisterwerks und besuchen Sie es gegen Mittag, um die beleuchteten Buntglasfenster zu sehen.",
+            "hu": "Csodálja meg ennek a gótikus remekműnek a kontrasztos harangtornyait, és látogasson el délben, hogy lássa a napfény által megvilágított ólomüvegeket.",
+            "ro": "Minunează-te de turnurile clopotniță contrastante ale acestei capodopere gotice și vizitează la prânz pentru a vedea vitraliile luminate de soare.",
+            "en": "Marvel at the contrasting bell towers of this gothic masterpiece, and visit around noon to witness the stunning stained glass illuminated by the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Privat Hermitage",
+            "hu": "Saint-Privat Hermitage",
+            "ro": "Saint-Privat Hermitage",
+            "en": "Saint-Privat Hermitage"
+          },
+          "coords": [
+            3.498685,
+            44.517291
+          ],
+          "category": "religious",
+          "arrive_at": "11:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Suchen Sie einen Moment der Ruhe an dieser heiligen Höhle des Schutzpatrons der Stadt, aber bringen Sie Wasser mit, da der Weg steil sein kann.",
+            "hu": "Keressen egy kis békét a város védőszentjének szentelt barlangnál, de vigyen magával egy üveg vizet, mert az ösvény meglepően meredek lehet.",
+            "ro": "Caută un moment de pace la această peșteră sacră dedicată sfântului patron al orașului, dar adu o sticlă cu apă, deoarece poteca poate fi abruptă.",
+            "en": "Seek a moment of peace at this sacred cave site dedicated to the city's patron saint, but bring a bottle of water as the path can be surprisingly steep."
+          }
+        },
+        {
+          "name": {
+            "de": "Gévaudan Museum",
+            "hu": "Gévaudan Museum",
+            "ro": "Gévaudan Museum",
+            "en": "Gévaudan Museum"
+          },
+          "coords": [
+            3.4992,
+            44.5183
+          ],
+          "category": "museum",
+          "arrive_at": "12:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte der Region und die Legende der Bestie von Gévaudan, und kaufen Sie Tickets vorab online, um Warteschlangen zu vermeiden.",
+            "hu": "Fedezze fel a régió gazdag történelmét és a gévaudani fenevad legendáját, és vegye meg a jegyét előre online, hogy elkerülje a nyári sorban állást.",
+            "ro": "Descoperă istoria bogată a regiunii și legenda Bestiei din Gévaudan și cumpără bilete online în avans pentru a evita cozile din timpul verii.",
+            "en": "Discover the region's rich history and the legend of the Beast of Gévaudan, and buy tickets online in advance to skip the busy summer queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Place au Blé",
+            "hu": "Place au Blé",
+            "ro": "Place au Blé",
+            "en": "Place au Blé"
+          },
+          "coords": [
+            3.500312,
+            44.517548
+          ],
+          "category": "historical",
+          "arrive_at": "14:08",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Erkunden Sie den historischen Kornmarktplatz, wo einst der lokale Handel florierte, und bewundern Sie bei einem Kaffee die mittelalterliche Architektur.",
+            "hu": "Fedezze fel a történelmi gabonapiac terét, ahol egykor a helyi kereskedelem virágzott, és igyon meg egy kávét a középkori épületek árnyékában.",
+            "ro": "Explorează piața istorică de cereale unde comerțul local a înflorit și asigură-te că admiri arhitectura medievală în timp ce savurezi o cafea.",
+            "en": "Explore the historic grain market square where local trade thrived, and be sure to admire the surrounding medieval architecture while sipping a coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Dinopedia",
+            "hu": "Dinopedia",
+            "ro": "Dinopedia",
+            "en": "Dinopedia"
+          },
+          "coords": [
+            3.507206,
+            44.505069
+          ],
+          "category": "family",
+          "arrive_at": "14:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie ein prähistorisches Abenteuer für die ganze Familie mit lebensgroßen Dinosauriern und beachten Sie den Tagesplan für interaktive Ausgrabungen.",
+            "hu": "Élvezze a családbarát őskori kalandot az életnagyságú dinoszaurusz modellekkel, és nézze meg a napi programot az interaktív ásatási tevékenységekhez.",
+            "ro": "Bucură-te de o aventură preistorică alături de familie, cu dinozauri în mărime naturală, și verifică programul zilnic pentru activități interactive de excavare.",
+            "en": "Enjoy a family-friendly prehistoric adventure with life-sized dinosaur models, and check the daily schedule for interactive fossil excavation activities."
+          }
+        },
+        {
+          "name": {
+            "de": "Retenue D.F.C.I. du Gros du Lac",
+            "hu": "Retenue D.F.C.I. du Gros du Lac",
+            "ro": "Retenue D.F.C.I. du Gros du Lac",
+            "en": "Retenue D.F.C.I. du Gros du Lac"
+          },
+          "coords": [
+            3.5046,
+            44.45734
+          ],
+          "category": "natural",
+          "arrive_at": "16:29",
+          "stay_min": 105,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den ruhigen Gewässern dieses abgelegenen, von Natur umgebenen Stausees und packen Sie ein leichtes Picknick für die friedliche Atmosphäre ein.",
+            "hu": "Pihenjen a természet által körülvett eldugott víztározó nyugodt vizeinél, és vigyen magával egy könnyű pikniket, hogy távol a várostól élvezze a csendet.",
+            "ro": "Relaxează-te lângă apele liniștite ale acestui rezervor retras înconjurat de natură și ia un picnic ușor pentru a te bucura din plin de atmosfera pașnică.",
+            "en": "Relax by the tranquil waters of this secluded reservoir surrounded by nature, and pack a light picnic to fully enjoy the peaceful atmosphere away from the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag an der legendären Notre-Dame-Brücke, bevor Sie die Kathedrale besuchen.\n\nZum Mittagessen erkunden Sie das Zentrum und besuchen das Gévaudan-Museum.\n\nDer späte Nachmittag führt Sie aus der Stadt hinaus zum aufregenden Dinopedia.\n\nBeenden Sie Ihren Roadtrip mit einer ruhigen abendlichen Fahrt zum Gros du Lac Stausee, um die Natur zu genießen.",
+        "hu": "Kezdje a napot az ikonikus Notre-Dame hídnál, majd látogasson el a lélegzetelállító katedrálishoz.\n\nEbédidőben fedezze fel a városközpontot és a Gévaudan Múzeumot.\n\nA késő délután a városból kifelé vezet az izgalmas Dinopedia dinoszaurusz kiállításokhoz.\n\nZárja az utat egy csendes esti vezetéssel a Gros du Lac víztározóhoz, élvezve a természet nyugalmát.",
+        "ro": "Începeți-vă ziua la podul emblematic Notre-Dame, înainte de a vizita impresionanta catedrală.\n\nLa prânz, explorați centrul orașului și vizitați Muzeul Gévaudan.\n\nDupă-amiaza târziu vă duce puțin în afara orașului, la expozițiile captivante de la Dinopedia.\n\nÎncheiați-vă călătoria cu o plimbare liniștită de seară spre rezervorul Gros du Lac.",
+        "en": "Drive into Mende to start your day at the iconic Notre-Dame Bridge before visiting the Cathedral.\n\nFor lunch, explore the town center and visit the Gévaudan Museum to learn about local mysteries.\n\nThe late afternoon takes you slightly out of town to the exciting Dinopedia exhibits.\n\nFinish your road trip with a tranquil evening drive to the Gros du Lac reservoir."
+      }
+    }
+  }
+}

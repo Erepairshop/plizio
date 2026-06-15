@@ -1,0 +1,451 @@
+{
+  "city_id": "portugal-altura-cities-v2",
+  "anchor": {
+    "name": "Altura",
+    "coords": [
+      -7.49907,
+      37.17421
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:17",
+      "total_km": 4.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Aqualine",
+            "hu": "Aqualine",
+            "ro": "Aqualine",
+            "en": "Aqualine"
+          },
+          "coords": [
+            -7.490117,
+            37.183047
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Morgen mit einer aufregenden Bootstour von Aqualine, um die Küstengewässer zu erkunden, aber buchen Sie Ihre Tickets in der Hochsaison im Voraus.",
+            "hu": "Kezdje a reggelt az Aqualine izgalmas hajótúrájával a parti vizek felfedezésére, de a főszezonban mindenképpen érdemes egy nappal előre lefoglalni a jegyeket.",
+            "ro": "Începeți dimineața cu un tur cu barca de la Aqualine pentru a explora apele de coastă, dar asigurați-vă că rezervați biletele cu o zi înainte în plin sezon turistic.",
+            "en": "Start your morning with an exhilarating boat tour from Aqualine to explore the coastal waters, but make sure to book your tickets a day in advance during peak season."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Alagoa",
+            "hu": "Praia da Alagoa",
+            "ro": "Praia da Alagoa",
+            "en": "Praia da Alagoa"
+          },
+          "coords": [
+            -7.498572,
+            37.169419
+          ],
+          "category": "recreational",
+          "arrive_at": "10:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie am weitläufigen goldenen Sand der Praia da Alagoa, einem perfekten Ort zum Schwimmen, und mieten Sie früh eine Sonnenliege für den besten Blick.",
+            "hu": "Pihenjen a Praia da Alagoa tágas, aranyhomokos partján, amely tökéletes hely a családok számára, és béreljen korán napágyat a legjobb óceáni kilátás érdekében.",
+            "ro": "Relaxați-vă pe nisipurile aurii întinse de la Praia da Alagoa, un loc perfect pentru înot, și închiriați un șezlong devreme pentru a vă asigura cea mai bună vedere.",
+            "en": "Relax on the expansive golden sands of Praia da Alagoa, a perfect spot for families to swim in calm waters, and rent a sunbed early to secure the best ocean view."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia das Primas",
+            "hu": "Praia das Primas",
+            "ro": "Praia das Primas",
+            "en": "Praia das Primas"
+          },
+          "coords": [
+            -7.503516,
+            37.168321
+          ],
+          "category": "recreational",
+          "arrive_at": "11:59",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie an den ruhigeren Abschnitten der Praia das Primas entlang für ein friedliches Erlebnis am Meer und bringen Sie Wasser mit, da es hier weniger Cafés gibt.",
+            "hu": "Sétáljon végig a Praia das Primas csendesebb szakaszain egy békésebb tengerparti élményért, és hozzon magával vizet és harapnivalót, mivel itt kevesebb a létesítmény.",
+            "ro": "Plimbați-vă de-a lungul întinderilor mai liniștite de la Praia das Primas pentru o experiență pașnică, aducând propria apă deoarece facilitățile sunt puține aici.",
+            "en": "Stroll along the slightly quieter stretches of Praia das Primas for a more peaceful seaside experience, bringing your own water and snacks as facilities are fewer here."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia Verdelago",
+            "hu": "Praia Verdelago",
+            "ro": "Praia Verdelago",
+            "en": "Praia Verdelago"
+          },
+          "coords": [
+            -7.485931,
+            37.172413
+          ],
+          "category": "recreational",
+          "arrive_at": "13:23",
+          "stay_min": 60,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die unberührte Umgebung der Praia Verdelago, wo die Natur auf das Meer trifft, und nutzen Sie die modernen Holzstege, die die empfindlichen Dünen schützen.",
+            "hu": "Fedezze fel a Praia Verdelago érintetlen környezetét, ahol a természet találkozik a tengerrel, kihasználva a törékeny dűnéket védő modern fa sétányokat a tengerparton.",
+            "ro": "Explorați mediul imaculat de la Praia Verdelago unde natura întâlnește marea, profitând de pasarelele moderne din lemn care protejează dunele fragile și peisajul.",
+            "en": "Explore the pristine environment of Praia Verdelago where nature meets the sea, taking advantage of the modern wooden boardwalks that protect the fragile dunes."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia Verde",
+            "hu": "Praia Verde",
+            "ro": "Praia Verde",
+            "en": "Praia Verde"
+          },
+          "coords": [
+            -7.478934,
+            37.173963
+          ],
+          "category": "recreational",
+          "arrive_at": "14:32",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an der Praia Verde, die von einem Pinienwald umgeben ist, und besuchen Sie das berühmte Panoramarestaurant oben für einen abendlichen Cocktail.",
+            "hu": "Zárja a napot a Praia Verde fenyőerdővel övezett partján, és látogasson el a híres panoráma étterembe egy esti koktélra, hogy élvezze a lenyűgöző tengeri naplementét.",
+            "ro": "Încheiați ziua la Praia Verde, susținută de o pădure deasă de pini în loc de stânci, și vizitați renumitul restaurant panoramic din vârf pentru un cocktail de seară.",
+            "en": "End your day at Praia Verde, uniquely backed by a dense pine forest instead of cliffs, and visit the renowned panoramic restaurant at the top for an evening cocktail."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen mit einer erfrischenden Meeresbrise bei Aqualine und bereiten uns auf einen Tag voller Küstenaktivitäten und Morgensonne vor.\n\nEin kurzer malerischer Spaziergang führt uns nach Süden zum langen goldenen Sandstrand Praia da Alagoa, der sich perfekt zum Schwimmen eignet.\n\nDie Reise geht weiter nach Osten zu den ruhigeren Praia das Primas und Praia Verdelago, wo Holzwege die Dünen schützen.\n\nWir beenden unsere Tour an der Praia Verde, die für ihren dichten Pinienwald bekannt ist, der auf das Meer trifft, ideal für einen Drink bei Sonnenuntergang.",
+        "hu": "A napot az Aqualine frissítő óceáni szellőjével indítjuk, felkészülve a partmenti programokra és élvezve a kora reggeli napsütést.\n\nEgy rövid festői séta délre vezet minket a Praia da Alagoa hosszú aranyhomokos partjára, amely tökéletes hely egy pihentető úszásra.\n\nAz utazás kelet felé folytatódik a csendesebb Praia das Primas és a Praia Verdelago felé, ahol fapadlók védik a gyönyörű dűnéket.\n\nGyalogos túránkat a Praia Verde strandján fejezzük be, amely sűrű fenyőerdejéről híres, és tökéletes helyszínt biztosít egy naplemente melletti italhoz.",
+        "ro": "Începem cu o briză răcoroasă a oceanului la Aqualine, pregătindu-ne pentru o zi plină de activități de coastă și soarele dimineții.\n\nO scurtă plimbare pitorească ne duce spre sud la întinderea aurie lungă de la Praia da Alagoa, un loc perfect pentru o înotare relaxantă.\n\nCălătoria continuă spre est către mai liniștitile Praia das Primas și Praia Verdelago, unde căile de lemn protejează dunele.\n\nÎncheiem turul nostru de mers pe jos la Praia Verde, renumită pentru pădurea deasă de pini, devenind cadrul perfect pentru o băutură la apus.",
+        "en": "We start with a refreshing ocean breeze at Aqualine, preparing for a day of coastal activities and enjoying the morning sun.\n\nA short scenic stroll leads us south to the long golden stretch of Praia da Alagoa, offering a perfect spot for a relaxing swim.\n\nThe journey continues east towards the quieter Praia das Primas and Praia Verdelago, where wooden pathways protect beautiful dunes.\n\nWe end our walking tour at Praia Verde, famous for its dense pine forest meeting the sea, making it the perfect setting for a sunset drink."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:46",
+      "total_km": 5.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Feira de Vila Nova de Cacela",
+            "hu": "Feira de Vila Nova de Cacela",
+            "ro": "Feira de Vila Nova de Cacela",
+            "en": "Feira de Vila Nova de Cacela"
+          },
+          "coords": [
+            -7.52691,
+            37.177242
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Tauchen Sie auf der belebten Feira de Vila Nova de Cacela in die lokale Kultur ein und kommen Sie früh, um die frischesten regionalen Produkte und Kunsthandwerk zu finden.",
+            "hu": "Merüljön el a helyi kultúrában a nyüzsgő Feira de Vila Nova de Cacela piacon, és érkezzen korán, hogy megtalálja a legfrissebb regionális termékeket és kézműves árukat.",
+            "ro": "Cufundați-vă în cultura locală la piața plină de viață Feira de Vila Nova de Cacela, ajungând devreme pentru a găsi cele mai proaspete produse și obiecte de artizanat.",
+            "en": "Immerse yourself in local culture at the bustling Feira de Vila Nova de Cacela market, arriving early to find the freshest regional produce and handmade crafts."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Manta Rota",
+            "hu": "Praia da Manta Rota",
+            "ro": "Praia da Manta Rota",
+            "en": "Praia da Manta Rota"
+          },
+          "coords": [
+            -7.520582,
+            37.16238
+          ],
+          "category": "recreational",
+          "arrive_at": "10:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die weiten, warmen Gewässer der Praia da Manta Rota, ein sehr beliebtes Ziel, und nutzen Sie den großen Parkplatz auf der Ostseite für eine frühe Ankunft.",
+            "hu": "Élvezze a Praia da Manta Rota hatalmas, meleg vizét, amely egy rendkívül népszerű célpont, és használja a keleti oldalon lévő tágas parkolót, ha kora reggel érkezik.",
+            "ro": "Bucurați-vă de apele calde de la Praia da Manta Rota, o destinație extrem de populară, și folosiți parcarea spațioasă din partea de est dacă ajungeți de dimineață.",
+            "en": "Enjoy the vast, warm waters of Praia da Manta Rota, a highly popular destination, and use the spacious parking lot on the eastern side if you arrive in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Lota",
+            "hu": "Praia da Lota",
+            "ro": "Praia da Lota",
+            "en": "Praia da Lota"
+          },
+          "coords": [
+            -7.510407,
+            37.166052
+          ],
+          "category": "recreational",
+          "arrive_at": "11:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie den Charme der Praia da Lota, wo sich lokale Fischereitraditionen mit dem Tourismus verbinden, und beobachten Sie traditionelle Fischerboote am Strand.",
+            "hu": "Fedezze fel a Praia da Lota varázsát, ahol a helyi halászati hagyományok keverednek a turizmussal, és sétáljon a parton, hogy megnézze a homokon pihenő halászhajókat.",
+            "ro": "Descoperiți farmecul de la Praia da Lota unde tradițiile locale de pescuit se împletesc cu turismul, plimbându-vă de-a lungul țărmului pentru a vedea bărcile de pescuit.",
+            "en": "Discover the charm of Praia da Lota where local fishing traditions blend with tourism, walking along the shore to spot the traditional fishing boats resting on the sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia das Primas",
+            "hu": "Praia das Primas",
+            "ro": "Praia das Primas",
+            "en": "Praia das Primas"
+          },
+          "coords": [
+            -7.503516,
+            37.168321
+          ],
+          "category": "recreational",
+          "arrive_at": "12:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Schlendern Sie an den ruhigeren Abschnitten der Praia das Primas entlang für ein friedliches Erlebnis am Meer und bringen Sie Wasser mit, da es hier weniger Cafés gibt.",
+            "hu": "Sétáljon végig a Praia das Primas csendesebb szakaszain egy békésebb tengerparti élményért, és hozzon magával vizet és harapnivalót, mivel itt kevesebb a létesítmény.",
+            "ro": "Plimbați-vă de-a lungul întinderilor mai liniștite de la Praia das Primas pentru o experiență pașnică, aducând propria apă deoarece facilitățile sunt puține aici.",
+            "en": "Stroll along the slightly quieter stretches of Praia das Primas for a more peaceful seaside experience, bringing your own water and snacks as facilities are fewer here."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Alagoa",
+            "hu": "Praia da Alagoa",
+            "ro": "Praia da Alagoa",
+            "en": "Praia da Alagoa"
+          },
+          "coords": [
+            -7.498572,
+            37.169419
+          ],
+          "category": "recreational",
+          "arrive_at": "13:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie am weitläufigen goldenen Sand der Praia da Alagoa, einem perfekten Ort zum Schwimmen, und mieten Sie früh eine Sonnenliege für den besten Blick.",
+            "hu": "Pihenjen a Praia da Alagoa tágas, aranyhomokos partján, amely tökéletes hely a családok számára, és béreljen korán napágyat a legjobb óceáni kilátás érdekében.",
+            "ro": "Relaxați-vă pe nisipurile aurii întinse de la Praia da Alagoa, un loc perfect pentru înot, și închiriați un șezlong devreme pentru a vă asigura cea mai bună vedere.",
+            "en": "Relax on the expansive golden sands of Praia da Alagoa, a perfect spot for families to swim in calm waters, and rent a sunbed early to secure the best ocean view."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia Verde",
+            "hu": "Praia Verde",
+            "ro": "Praia Verde",
+            "en": "Praia Verde"
+          },
+          "coords": [
+            -7.478934,
+            37.173963
+          ],
+          "category": "recreational",
+          "arrive_at": "15:01",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an der Praia Verde, die von einem Pinienwald umgeben ist, und besuchen Sie das berühmte Panoramarestaurant oben für einen abendlichen Cocktail.",
+            "hu": "Zárja a napot a Praia Verde fenyőerdővel övezett partján, és látogasson el a híres panoráma étterembe egy esti koktélra, hogy élvezze a lenyűgöző tengeri naplementét.",
+            "ro": "Încheiați ziua la Praia Verde, susținută de o pădure deasă de pini în loc de stânci, și vizitați renumitul restaurant panoramic din vârf pentru un cocktail de seară.",
+            "en": "End your day at Praia Verde, uniquely backed by a dense pine forest instead of cliffs, and visit the renowned panoramic restaurant at the top for an evening cocktail."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unser Fahrradabenteuer beginnt im Landesinneren auf dem lebhaften Markt Feira de Vila Nova de Cacela, um lokale Traditionen zu erleben.\n\nWir fahren zur Küste hinunter und erreichen Manta Rota, bevor wir zur traditionellen Praia da Lota mit ihren Fischerbooten weiterradeln.\n\nAuf malerischen Wegen passieren wir die ruhige Praia das Primas und erreichen das lebhafte Zentrum der Praia da Alagoa für ein Eis.\n\nWir beenden unsere Küstenfahrt an der Praia Verde und tauschen unsere Fahrräder gegen einen entspannenden Spaziergang durch den Pinienwald.",
+        "hu": "Kerékpáros kalandunk a szárazföld belsejében, a nyüzsgő Feira de Vila Nova de Cacela piacon kezdődik, ahol megismerjük a helyi ízeket.\n\nLekerékpározva a partra megérkezünk a Manta Rota hatalmas, meleg vizéhez, majd folytatjuk utunkat a hagyományos Praia da Lota strandhoz.\n\nA festői utakon pedálozva elhaladunk a nyugodt Praia das Primas mellett, és elérjük a Praia da Alagoa nyüzsgő központját egy fagylaltra.\n\nTengerparti utunkat a Praia Verde strandján fejezzük be, ahol kerékpárjainkat egy pihentető erdei sétára cseréljük naplemente idején.",
+        "ro": "Aventura noastră pe bicicletă începe în interior la piața animată Feira de Vila Nova de Cacela pentru a experimenta tradițiile locale.\n\nCoborând spre coastă, ajungem la Manta Rota pentru a ne bucura de apele calde înainte de a continua către tradiționala Praia da Lota.\n\nPedalând pe căile pitorești, trecem pe lângă liniștita Praia das Primas și ajungem în centrul vibrant Praia da Alagoa pentru o înghețată.\n\nÎncheiem plimbarea noastră de coastă la Praia Verde, schimbând bicicletele pentru o plimbare relaxantă prin pădurea răcoroasă de pini.",
+        "en": "Our cycling adventure kicks off inland at the lively Feira de Vila Nova de Cacela market to experience local traditions and flavors.\n\nRiding down to the coast, we arrive at Manta Rota to enjoy its vast, warm waters before continuing to the traditional Praia da Lota.\n\nPedaling along the scenic pathways, we pass the tranquil Praia das Primas and reach the vibrant center of Praia da Alagoa for ice cream.\n\nWe conclude our coastal ride at Praia Verde, exchanging our bikes for a relaxing walk through the cooling pine forest as the sun sets."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 6.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Feira de Vila Nova de Cacela",
+            "hu": "Feira de Vila Nova de Cacela",
+            "ro": "Feira de Vila Nova de Cacela",
+            "en": "Feira de Vila Nova de Cacela"
+          },
+          "coords": [
+            -7.52691,
+            37.177242
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Tauchen Sie auf der belebten Feira de Vila Nova de Cacela in die lokale Kultur ein und kommen Sie früh, um die frischesten regionalen Produkte und Kunsthandwerk zu finden.",
+            "hu": "Merüljön el a helyi kultúrában a nyüzsgő Feira de Vila Nova de Cacela piacon, és érkezzen korán, hogy megtalálja a legfrissebb regionális termékeket és kézműves árukat.",
+            "ro": "Cufundați-vă în cultura locală la piața plină de viață Feira de Vila Nova de Cacela, ajungând devreme pentru a găsi cele mai proaspete produse și obiecte de artizanat.",
+            "en": "Immerse yourself in local culture at the bustling Feira de Vila Nova de Cacela market, arriving early to find the freshest regional produce and handmade crafts."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Manta Rota",
+            "hu": "Praia da Manta Rota",
+            "ro": "Praia da Manta Rota",
+            "en": "Praia da Manta Rota"
+          },
+          "coords": [
+            -7.520582,
+            37.16238
+          ],
+          "category": "recreational",
+          "arrive_at": "10:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die weiten, warmen Gewässer der Praia da Manta Rota, ein sehr beliebtes Ziel, und nutzen Sie den großen Parkplatz auf der Ostseite für eine frühe Ankunft.",
+            "hu": "Élvezze a Praia da Manta Rota hatalmas, meleg vizét, amely egy rendkívül népszerű célpont, és használja a keleti oldalon lévő tágas parkolót, ha kora reggel érkezik.",
+            "ro": "Bucurați-vă de apele calde de la Praia da Manta Rota, o destinație extrem de populară, și folosiți parcarea spațioasă din partea de est dacă ajungeți de dimineață.",
+            "en": "Enjoy the vast, warm waters of Praia da Manta Rota, a highly popular destination, and use the spacious parking lot on the eastern side if you arrive in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Lota",
+            "hu": "Praia da Lota",
+            "ro": "Praia da Lota",
+            "en": "Praia da Lota"
+          },
+          "coords": [
+            -7.510407,
+            37.166052
+          ],
+          "category": "recreational",
+          "arrive_at": "11:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie den Charme der Praia da Lota, wo sich lokale Fischereitraditionen mit dem Tourismus verbinden, und beobachten Sie traditionelle Fischerboote am Strand.",
+            "hu": "Fedezze fel a Praia da Lota varázsát, ahol a helyi halászati hagyományok keverednek a turizmussal, és sétáljon a parton, hogy megnézze a homokon pihenő halászhajókat.",
+            "ro": "Descoperiți farmecul de la Praia da Lota unde tradițiile locale de pescuit se împletesc cu turismul, plimbându-vă de-a lungul țărmului pentru a vedea bărcile de pescuit.",
+            "en": "Discover the charm of Praia da Lota where local fishing traditions blend with tourism, walking along the shore to spot the traditional fishing boats resting on the sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Alagoa",
+            "hu": "Praia da Alagoa",
+            "ro": "Praia da Alagoa",
+            "en": "Praia da Alagoa"
+          },
+          "coords": [
+            -7.498572,
+            37.169419
+          ],
+          "category": "recreational",
+          "arrive_at": "12:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie am weitläufigen goldenen Sand der Praia da Alagoa, einem perfekten Ort zum Schwimmen, und mieten Sie früh eine Sonnenliege für den besten Blick.",
+            "hu": "Pihenjen a Praia da Alagoa tágas, aranyhomokos partján, amely tökéletes hely a családok számára, és béreljen korán napágyat a legjobb óceáni kilátás érdekében.",
+            "ro": "Relaxați-vă pe nisipurile aurii întinse de la Praia da Alagoa, un loc perfect pentru înot, și închiriați un șezlong devreme pentru a vă asigura cea mai bună vedere.",
+            "en": "Relax on the expansive golden sands of Praia da Alagoa, a perfect spot for families to swim in calm waters, and rent a sunbed early to secure the best ocean view."
+          }
+        },
+        {
+          "name": {
+            "de": "Aqualine",
+            "hu": "Aqualine",
+            "ro": "Aqualine",
+            "en": "Aqualine"
+          },
+          "coords": [
+            -7.490117,
+            37.183047
+          ],
+          "category": "recreational",
+          "arrive_at": "13:43",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Morgen mit einer aufregenden Bootstour von Aqualine, um die Küstengewässer zu erkunden, aber buchen Sie Ihre Tickets in der Hochsaison im Voraus.",
+            "hu": "Kezdje a reggelt az Aqualine izgalmas hajótúrájával a parti vizek felfedezésére, de a főszezonban mindenképpen érdemes egy nappal előre lefoglalni a jegyeket.",
+            "ro": "Începeți dimineața cu un tur cu barca de la Aqualine pentru a explora apele de coastă, dar asigurați-vă că rezervați biletele cu o zi înainte în plin sezon turistic.",
+            "en": "Start your morning with an exhilarating boat tour from Aqualine to explore the coastal waters, but make sure to book your tickets a day in advance during peak season."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia Verde",
+            "hu": "Praia Verde",
+            "ro": "Praia Verde",
+            "en": "Praia Verde"
+          },
+          "coords": [
+            -7.478934,
+            37.173963
+          ],
+          "category": "recreational",
+          "arrive_at": "14:46",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an der Praia Verde, die von einem Pinienwald umgeben ist, und besuchen Sie das berühmte Panoramarestaurant oben für einen abendlichen Cocktail.",
+            "hu": "Zárja a napot a Praia Verde fenyőerdővel övezett partján, és látogasson el a híres panoráma étterembe egy esti koktélra, hogy élvezze a lenyűgöző tengeri naplementét.",
+            "ro": "Încheiați ziua la Praia Verde, susținută de o pădure deasă de pini în loc de stânci, și vizitați renumitul restaurant panoramic din vârf pentru un cocktail de seară.",
+            "en": "End your day at Praia Verde, uniquely backed by a dense pine forest instead of cliffs, and visit the renowned panoramic restaurant at the top for an evening cocktail."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir tauchen auf dem lebhaften Markt Feira de Vila Nova de Cacela in die lokale Kultur ein und stöbern nach authentischem Kunsthandwerk.\n\nEine kurze Fahrt bringt uns zur beliebten Praia da Manta Rota und zu den kulturell reichen Sandstränden der nahe gelegenen Praia da Lota.\n\nWir fahren leicht landeinwärts, um die Aktivitäten bei Aqualine zu erkunden, bevor wir das zentrale Zentrum von Praia da Alagoa besuchen.\n\nUnser Roadtrip endet an der Praia Verde, wo günstige Parkplätze einen einfachen Übergang vom Auto zu einem herrlichen Abendessen ermöglichen.",
+        "hu": "A nyüzsgő Feira de Vila Nova de Cacela piacon elmerülünk a helyi kultúrában, és autentikus kézműves termékeket nézegetünk az utazás előtt.\n\nEgy rövid autóút egyenesen a hihetetlenül népszerű Praia da Manta Rota és a közeli Praia da Lota kulturálisan gazdag homokjához visz.\n\nKissé beljebb haladva megnézzük az Aqualine izgalmas vízi tevékenységeit, mielőtt meglátogatnánk a Praia da Alagoa központi csomópontját.\n\nAutós utazásunk a Praia Verde strandján ér véget, ahol a kényelmes parkolás lehetővé teszi a könnyű átmenetet egy lenyűgöző tengerparti vacsorához.",
+        "ro": "Ne scufundăm în cultura locală la piața vibrantă Feira de Vila Nova de Cacela, căutând meșteșuguri autentice înainte de a pleca la drum.\n\nO scurtă plimbare cu mașina ne duce direct la populara Praia da Manta Rota și la nisipurile bogate cultural de la Praia da Lota.\n\nÎndreptându-ne ușor spre interior, descoperim activitățile acvatice interesante de la Aqualine înainte de a vizita hub-ul Praia da Alagoa.\n\nExcursia noastră rutieră se termină la Praia Verde, unde parcarea convenabilă ne permite să trecem ușor de la mașină la o cină uimitoare pe malul mării.",
+        "en": "We dive into local culture at the vibrant Feira de Vila Nova de Cacela market, browsing authentic crafts before hitting the road.\n\nA short drive brings us straight to the incredibly popular Praia da Manta Rota and the culturally rich sands of nearby Praia da Lota.\n\nHeading slightly inland, we check out the exciting water activities at Aqualine before visiting the central hub of Praia da Alagoa.\n\nOur road trip finishes at Praia Verde, where convenient parking allows us to easily transition from the car to a stunning oceanfront dinner."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "france-belvedere-campomoro-cities-v2",
+  "anchor": {
+    "name": "Belvédère-Campomoro",
+    "coords": [
+      8.82156,
+      41.61685
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:32",
+      "total_km": 3.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Château Durazzo",
+            "hu": "Château Durazzo",
+            "ro": "Château Durazzo",
+            "en": "Château Durazzo"
+          },
+          "coords": [
+            8.814832,
+            41.626772
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende historische Burg, die einen einzigartigen Einblick in die adelige Vergangenheit bietet, und tragen Sie festes Schuhwerk für die unebenen mittelalterlichen Wege.",
+            "hu": "Fedezze fel ezt a lenyűgöző történelmi kastélyt, amely egyedi bepillantást enged a régió nemesi múltjába, de mindenképpen viseljen masszív cipőt az egyenetlen középkori talaj miatt.",
+            "ro": "Explorați acest castel istoric fascinant ce oferă o privire unică asupra trecutului nobil al regiunii și asigurați-vă că purtați încălțăminte robustă pentru a păși pe terenul medieval inegal.",
+            "en": "Explore this fascinating historic castle that offers a unique glimpse into the region's noble past, and be sure to wear sturdy shoes for walking the uneven medieval grounds safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sant'Antonu",
+            "hu": "Église Sant'Antonu",
+            "ro": "Église Sant'Antonu",
+            "en": "Église Sant'Antonu"
+          },
+          "coords": [
+            8.817056,
+            41.62905
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne Architektur dieser ruhigen örtlichen Kirche, die das spirituelle Zentrum der Gemeinde bildet, und denken Sie daran, während der Morgenmesse leise zu sein.",
+            "hu": "Csodálja meg e békés helyi templom gyönyörű építészetét, amely a közösség spirituális horgonyaként szolgál, de ne felejtse el lehalkítani a hangját a reggeli misék idején.",
+            "ro": "Admirați arhitectura frumoasă a acestei biserici locale liniștite care servește drept ancoră spirituală a comunității, amintindu-vă să păstrați liniștea pe durata slujbelor de dimineață.",
+            "en": "Admire the beautiful architecture of this serene local church which stands as a spiritual anchor of the community, remembering to keep your voice down during the morning mass hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Campomoro",
+            "hu": "Plage de Campomoro",
+            "ro": "Plage de Campomoro",
+            "en": "Plage de Campomoro"
+          },
+          "coords": [
+            8.814731,
+            41.63003
+          ],
+          "category": "recreational",
+          "arrive_at": "11:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem weitläufigen, familienfreundlichen Strand inmitten majestätischer Hügel, und besuchen Sie ihn zur Mittagszeit, um sich ganz einfach einen tollen Platz am Wasser zu sichern.",
+            "hu": "Pihenjen ezen a fenséges dombokkal körülvett, tágas, családbarát strandon, és próbáljon meg a déli órákban érkezni, hogy könnyedén találjon egy nagyszerű helyet közvetlenül a vízparton.",
+            "ro": "Relaxați-vă pe această plajă spațioasă, ideală pentru familii, înconjurată de dealuri maiestuoase și vizitați-o în pauza de prânz pentru a vă asigura ușor un loc excelent lângă apă.",
+            "en": "Relax on this expansive, family-friendly beach surrounded by majestic hills and pristine nature, and try visiting during the midday lull to easily secure a great spot near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "L'Uomu",
+            "hu": "L'Uomu",
+            "ro": "L'Uomu",
+            "en": "L'Uomu"
+          },
+          "coords": [
+            8.830384,
+            41.634365
+          ],
+          "category": "natural",
+          "arrive_at": "12:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick von dieser markanten natürlichen Felsformation über die Bucht und bringen Sie eine Windjacke mit, da die Küstenbrisen hier überraschend stark sind.",
+            "hu": "Élvezze a lélegzetelállító panorámát ebből a lenyűgöző természetes sziklaformációból, amely az egész öbölre néz, de hozzon magával széldzsekit, mert a parti szellő meglepően erős lehet.",
+            "ro": "Bucurați-vă de priveliștile panoramice uluitoare de la această formațiune stâncoasă naturală ce domină golful și aduceți o jachetă de vânt, deoarece briza de coastă poate fi surprinzător de puternică.",
+            "en": "Take in the breathtaking panoramic sights from this striking natural rock formation that overlooks the entire bay, and bring a windbreaker as the coastal breezes can be surprisingly strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de Capu di Locu",
+            "hu": "Menhir de Capu di Locu",
+            "ro": "Menhir de Capu di Locu",
+            "en": "Menhir de Capu di Locu"
+          },
+          "coords": [
+            8.844613,
+            41.625854
+          ],
+          "category": "historical",
+          "arrive_at": "13:42",
+          "stay_min": 110,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen uralten stehenden Stein, der das prähistorische Erbe Korsikas repräsentiert, und nutzen Sie das sanfte Nachmittagslicht, um die beeindruckendsten Fotos zu machen.",
+            "hu": "Csodálja meg ezt az ősi állókövet, amely Korzika mély történelem előtti örökségét képviseli, és használja ki a lágy délutáni fényeket a legszebb fényképek elkészítéséhez a műemlékről.",
+            "ro": "Admirați această piatră verticală străveche care reprezintă moștenirea preistorică profundă a Corsicii și folosiți lumina blândă a după-amiezii pentru a surprinde cele mai uimitoare fotografii.",
+            "en": "Marvel at this ancient standing stone which represents the deep prehistoric heritage of Corsica, and use the soft afternoon light to capture the most stunning photographs of the monument."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einem tiefen Einblick in den lokalen Adel im historischen Schloss, bevor Sie die ruhige Dorfkirche besuchen. Die Mittagszeit bietet eine sonnige Pause am beliebten Hauptstrand. Der Nachmittag führt Sie zu einem atemberaubenden natürlichen Aussichtspunkt über der Bucht. Der Abend endet mit einem besinnlichen Spaziergang zu einem prähistorischen Stein bei Sonnenuntergang.",
+        "hu": "A reggel a helyi nemesség mélyreható megismerésével kezdődik a történelmi kastélyban, mielőtt meglátogatná a falu templomát. A dél napsütéses pihenést kínál a népszerű főstrandon, amely tökéletes ebédhez. A délután egy lenyűgöző természetes kilátóponthoz vezet, ahonnan kilátás nyílik az öbölre. Az este egy elmélyült sétával zárul egy történelem előtti állókőhöz a naplemente fényében.",
+        "ro": "Dimineața începe cu o incursiune în nobilimea locală la castelul istoric, înainte de a vizita biserica liniștită a satului. Amiaza oferă un răgaz însorit pe plaja principală, perfectă pentru prânz. După-amiaza vă duce la un punct de belvedere natural uimitor ce domină golful maiestuos. Seara se încheie cu o plimbare contemplativă spre o piatră preistorică în timp ce soarele apune.",
+        "en": "Morning begins with a deep dive into local nobility at the historic castle before visiting the tranquil village church. Midday offers a sunny respite at the popular main beach, perfect for lunch and relaxation. The afternoon takes you up to a stunning natural viewpoint overlooking the majestic bay. Evening concludes with a contemplative walk to a prehistoric standing stone as the sun sets."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:17",
+      "total_km": 4.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plage de Canusellu",
+            "hu": "Plage de Canusellu",
+            "ro": "Plage de Canusellu",
+            "en": "Plage de Canusellu"
+          },
+          "coords": [
+            8.794981,
+            41.623264
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses versteckte Küstenjuwel, das für sein kristallklares Wasser bekannt ist, und bringen Sie unbedingt Ihre eigene Schnorchelausrüstung für die reiche Meeresfauna mit.",
+            "hu": "Fedezze fel ezt a kristálytiszta vizéről és békés hangulatáról ismert rejtett tengerparti gyöngyszemet, ahová érdemes korán érkezni saját sznorkelfelszereléssel a vízi élményekért.",
+            "ro": "Descoperiți această bijuterie de coastă ascunsă, faimoasă pentru apele sale cristaline, așa că ajungeți devreme cu propriul echipament de snorkeling pentru a admira viața marină.",
+            "en": "Discover this hidden coastal gem known for its crystal-clear waters and peaceful atmosphere, so arrive early with your own snorkeling gear to fully enjoy the vibrant marine life."
+          }
+        },
+        {
+          "name": {
+            "de": "Château Durazzo",
+            "hu": "Château Durazzo",
+            "ro": "Château Durazzo",
+            "en": "Château Durazzo"
+          },
+          "coords": [
+            8.814832,
+            41.626772
+          ],
+          "category": "castle",
+          "arrive_at": "10:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende historische Burg, die einen einzigartigen Einblick in die adelige Vergangenheit bietet, und tragen Sie festes Schuhwerk für die unebenen mittelalterlichen Wege.",
+            "hu": "Fedezze fel ezt a lenyűgöző történelmi kastélyt, amely egyedi bepillantást enged a régió nemesi múltjába, de mindenképpen viseljen masszív cipőt az egyenetlen középkori talaj miatt.",
+            "ro": "Explorați acest castel istoric fascinant ce oferă o privire unică asupra trecutului nobil al regiunii și asigurați-vă că purtați încălțăminte robustă pentru a păși pe terenul medieval inegal.",
+            "en": "Explore this fascinating historic castle that offers a unique glimpse into the region's noble past, and be sure to wear sturdy shoes for walking the uneven medieval grounds safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sant'Antonu",
+            "hu": "Église Sant'Antonu",
+            "ro": "Église Sant'Antonu",
+            "en": "Église Sant'Antonu"
+          },
+          "coords": [
+            8.817056,
+            41.62905
+          ],
+          "category": "religious",
+          "arrive_at": "11:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne Architektur dieser ruhigen örtlichen Kirche, die das spirituelle Zentrum der Gemeinde bildet, und denken Sie daran, während der Morgenmesse leise zu sein.",
+            "hu": "Csodálja meg e békés helyi templom gyönyörű építészetét, amely a közösség spirituális horgonyaként szolgál, de ne felejtse el lehalkítani a hangját a reggeli misék idején.",
+            "ro": "Admirați arhitectura frumoasă a acestei biserici locale liniștite care servește drept ancoră spirituală a comunității, amintindu-vă să păstrați liniștea pe durata slujbelor de dimineață.",
+            "en": "Admire the beautiful architecture of this serene local church which stands as a spiritual anchor of the community, remembering to keep your voice down during the morning mass hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Campomoro",
+            "hu": "Plage de Campomoro",
+            "ro": "Plage de Campomoro",
+            "en": "Plage de Campomoro"
+          },
+          "coords": [
+            8.814731,
+            41.63003
+          ],
+          "category": "recreational",
+          "arrive_at": "12:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem weitläufigen, familienfreundlichen Strand inmitten majestätischer Hügel, und besuchen Sie ihn zur Mittagszeit, um sich ganz einfach einen tollen Platz am Wasser zu sichern.",
+            "hu": "Pihenjen ezen a fenséges dombokkal körülvett, tágas, családbarát strandon, és próbáljon meg a déli órákban érkezni, hogy könnyedén találjon egy nagyszerű helyet közvetlenül a vízparton.",
+            "ro": "Relaxați-vă pe această plajă spațioasă, ideală pentru familii, înconjurată de dealuri maiestuoase și vizitați-o în pauza de prânz pentru a vă asigura ușor un loc excelent lângă apă.",
+            "en": "Relax on this expansive, family-friendly beach surrounded by majestic hills and pristine nature, and try visiting during the midday lull to easily secure a great spot near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir Santare",
+            "hu": "Menhir Santare",
+            "ro": "Menhir Santare",
+            "en": "Menhir Santare"
+          },
+          "coords": [
+            8.842368,
+            41.621299
+          ],
+          "category": "historical",
+          "arrive_at": "14:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise, während Sie dieses mysteriöse megalithische Artefakt inmitten der üppigen Vegetation untersuchen, und tragen Sie Insektenschutzmittel auf, bevor Sie durch den Busch gehen.",
+            "hu": "Lépjen vissza az időben, miközben megvizsgálja ezt a buja növényzet között megbúvó, titokzatos megalitikus leletet, és mindenképpen használjon rovarriasztót a bozótban való séta előtt.",
+            "ro": "Întoarceți-vă în timp în timp ce examinați acest artefact megalitic misterios ascuns în vegetația luxuriantă, asigurându-vă că aplicați suficient repelent împotriva insectelor înainte de drumeție.",
+            "en": "Step back in time as you examine this mysterious megalithic artifact nestled amidst the lush vegetation, making sure to apply plenty of insect repellent before walking through the bush."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de Capo-di-Luogo",
+            "hu": "Menhir de Capo-di-Luogo",
+            "ro": "Menhir de Capo-di-Luogo",
+            "en": "Menhir de Capo-di-Luogo"
+          },
+          "coords": [
+            8.843202,
+            41.622833
+          ],
+          "category": "historical",
+          "arrive_at": "15:27",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre historische Tour an diesem gut erhaltenen Megalithen, der die Landschaft bewacht, und halten Sie für einen Moment der ruhigen Reflexion inne, um die alte Spiritualität zu würdigen.",
+            "hu": "Fejezze be történelmi túráját ennél a jól megőrzött megalitnál, amely csendesen őrzi a tájat, és tartson egy percnyi csendes elmélkedést az ősi helyi spiritualitás tiszteletben tartása érdekében.",
+            "ro": "Încheiați-vă turul istoric la acest megalit bine conservat, care păzește în tăcere peisajul, oprindu-vă pentru un moment de reflecție liniștită pentru a aprecia spiritualitatea antică a locului.",
+            "en": "Conclude your historical tour at this well-preserved megalith that proudly silently guards the landscape, pausing for a moment of quiet reflection to appreciate the ancient local spirituality."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag an einem einsamen Strand, fahren Sie dann zum beeindruckenden mittelalterlichen Schloss. Die Mittagszeit verbindet kulturelles Erbe an der Kirche mit einer langen, entspannenden Pause am Sandstrand. Das Radfahren am Nachmittag führt Sie in die raue Landschaft, um den ersten Menhir zu entdecken. Der Abend bringt einen letzten Halt an einem weiteren stehenden Stein.",
+        "hu": "Kezdje a kerékpáros napot egy eldugott, kristálytiszta vizű strandon, majd tekerjen el a lenyűgöző középkori kastélyhoz. A dél a templom kulturális örökségét ötvözi egy hosszú pihenéssel a homokos parton. A délutáni kerékpározás kelet felé visz a zord tájon át, hogy felfedezze az első ősi állókövet. Az este egy utolsó, emlékezetes megállót tartogat egy másik lenyűgöző megalitnál.",
+        "ro": "Începeți ziua de ciclism la o plajă retrasă, apoi pedalați spre impresionantul castel medieval. Amiaza combină patrimoniul cultural de la biserică cu o pauză lungă și relaxantă pe nisipul plajei. Ciclismul de după-amiază vă duce spre est, în peisajul accidentat, pentru a descoperi primele pietre antice. Seara aduce o oprire finală memorabilă la un alt menhir impresionant aflat pe traseu.",
+        "en": "Kick off your cycling day at a secluded beach known for pristine waters, then pedal over to the impressive medieval castle. Midday combines cultural heritage at the church with a long, relaxing break on the sands of Campomoro beach. Afternoon biking takes you eastward into the rugged landscape to discover the first of the ancient standing stones. Evening brings a final, memorable stop at another impressive menhir just down the trail."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:29",
+      "total_km": 5.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plage de Canusellu",
+            "hu": "Plage de Canusellu",
+            "ro": "Plage de Canusellu",
+            "en": "Plage de Canusellu"
+          },
+          "coords": [
+            8.794981,
+            41.623264
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses versteckte Küstenjuwel, das für sein kristallklares Wasser bekannt ist, und bringen Sie unbedingt Ihre eigene Schnorchelausrüstung für die reiche Meeresfauna mit.",
+            "hu": "Fedezze fel ezt a kristálytiszta vizéről és békés hangulatáról ismert rejtett tengerparti gyöngyszemet, ahová érdemes korán érkezni saját sznorkelfelszereléssel a vízi élményekért.",
+            "ro": "Descoperiți această bijuterie de coastă ascunsă, faimoasă pentru apele sale cristaline, așa că ajungeți devreme cu propriul echipament de snorkeling pentru a admira viața marină.",
+            "en": "Discover this hidden coastal gem known for its crystal-clear waters and peaceful atmosphere, so arrive early with your own snorkeling gear to fully enjoy the vibrant marine life."
+          }
+        },
+        {
+          "name": {
+            "de": "Château Durazzo",
+            "hu": "Château Durazzo",
+            "ro": "Château Durazzo",
+            "en": "Château Durazzo"
+          },
+          "coords": [
+            8.814832,
+            41.626772
+          ],
+          "category": "castle",
+          "arrive_at": "10:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende historische Burg, die einen einzigartigen Einblick in die adelige Vergangenheit bietet, und tragen Sie festes Schuhwerk für die unebenen mittelalterlichen Wege.",
+            "hu": "Fedezze fel ezt a lenyűgöző történelmi kastélyt, amely egyedi bepillantást enged a régió nemesi múltjába, de mindenképpen viseljen masszív cipőt az egyenetlen középkori talaj miatt.",
+            "ro": "Explorați acest castel istoric fascinant ce oferă o privire unică asupra trecutului nobil al regiunii și asigurați-vă că purtați încălțăminte robustă pentru a păși pe terenul medieval inegal.",
+            "en": "Explore this fascinating historic castle that offers a unique glimpse into the region's noble past, and be sure to wear sturdy shoes for walking the uneven medieval grounds safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sant'Antonu",
+            "hu": "Église Sant'Antonu",
+            "ro": "Église Sant'Antonu",
+            "en": "Église Sant'Antonu"
+          },
+          "coords": [
+            8.817056,
+            41.62905
+          ],
+          "category": "religious",
+          "arrive_at": "11:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne Architektur dieser ruhigen örtlichen Kirche, die das spirituelle Zentrum der Gemeinde bildet, und denken Sie daran, während der Morgenmesse leise zu sein.",
+            "hu": "Csodálja meg e békés helyi templom gyönyörű építészetét, amely a közösség spirituális horgonyaként szolgál, de ne felejtse el lehalkítani a hangját a reggeli misék idején.",
+            "ro": "Admirați arhitectura frumoasă a acestei biserici locale liniștite care servește drept ancoră spirituală a comunității, amintindu-vă să păstrați liniștea pe durata slujbelor de dimineață.",
+            "en": "Admire the beautiful architecture of this serene local church which stands as a spiritual anchor of the community, remembering to keep your voice down during the morning mass hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Campomoro",
+            "hu": "Plage de Campomoro",
+            "ro": "Plage de Campomoro",
+            "en": "Plage de Campomoro"
+          },
+          "coords": [
+            8.814731,
+            41.63003
+          ],
+          "category": "recreational",
+          "arrive_at": "12:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem weitläufigen, familienfreundlichen Strand inmitten majestätischer Hügel, und besuchen Sie ihn zur Mittagszeit, um sich ganz einfach einen tollen Platz am Wasser zu sichern.",
+            "hu": "Pihenjen ezen a fenséges dombokkal körülvett, tágas, családbarát strandon, és próbáljon meg a déli órákban érkezni, hogy könnyedén találjon egy nagyszerű helyet közvetlenül a vízparton.",
+            "ro": "Relaxați-vă pe această plajă spațioasă, ideală pentru familii, înconjurată de dealuri maiestuoase și vizitați-o în pauza de prânz pentru a vă asigura ușor un loc excelent lângă apă.",
+            "en": "Relax on this expansive, family-friendly beach surrounded by majestic hills and pristine nature, and try visiting during the midday lull to easily secure a great spot near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "L'Uomu",
+            "hu": "L'Uomu",
+            "ro": "L'Uomu",
+            "en": "L'Uomu"
+          },
+          "coords": [
+            8.830384,
+            41.634365
+          ],
+          "category": "natural",
+          "arrive_at": "13:49",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick von dieser markanten natürlichen Felsformation über die Bucht und bringen Sie eine Windjacke mit, da die Küstenbrisen hier überraschend stark sind.",
+            "hu": "Élvezze a lélegzetelállító panorámát ebből a lenyűgöző természetes sziklaformációból, amely az egész öbölre néz, de hozzon magával széldzsekit, mert a parti szellő meglepően erős lehet.",
+            "ro": "Bucurați-vă de priveliștile panoramice uluitoare de la această formațiune stâncoasă naturală ce domină golful și aduceți o jachetă de vânt, deoarece briza de coastă poate fi surprinzător de puternică.",
+            "en": "Take in the breathtaking panoramic sights from this striking natural rock formation that overlooks the entire bay, and bring a windbreaker as the coastal breezes can be surprisingly strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir Santare",
+            "hu": "Menhir Santare",
+            "ro": "Menhir Santare",
+            "en": "Menhir Santare"
+          },
+          "coords": [
+            8.842368,
+            41.621299
+          ],
+          "category": "historical",
+          "arrive_at": "14:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise, während Sie dieses mysteriöse megalithische Artefakt inmitten der üppigen Vegetation untersuchen, und tragen Sie Insektenschutzmittel auf, bevor Sie durch den Busch gehen.",
+            "hu": "Lépjen vissza az időben, miközben megvizsgálja ezt a buja növényzet között megbúvó, titokzatos megalitikus leletet, és mindenképpen használjon rovarriasztót a bozótban való séta előtt.",
+            "ro": "Întoarceți-vă în timp în timp ce examinați acest artefact megalitic misterios ascuns în vegetația luxuriantă, asigurându-vă că aplicați suficient repelent împotriva insectelor înainte de drumeție.",
+            "en": "Step back in time as you examine this mysterious megalithic artifact nestled amidst the lush vegetation, making sure to apply plenty of insect repellent before walking through the bush."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de Capo-di-Luogo",
+            "hu": "Menhir de Capo-di-Luogo",
+            "ro": "Menhir de Capo-di-Luogo",
+            "en": "Menhir de Capo-di-Luogo"
+          },
+          "coords": [
+            8.843202,
+            41.622833
+          ],
+          "category": "historical",
+          "arrive_at": "15:39",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre historische Tour an diesem gut erhaltenen Megalithen, der die Landschaft bewacht, und halten Sie für einen Moment der ruhigen Reflexion inne, um die alte Spiritualität zu würdigen.",
+            "hu": "Fejezze be történelmi túráját ennél a jól megőrzött megalitnál, amely csendesen őrzi a tájat, és tartson egy percnyi csendes elmélkedést az ősi helyi spiritualitás tiszteletben tartása érdekében.",
+            "ro": "Încheiați-vă turul istoric la acest megalit bine conservat, care păzește în tăcere peisajul, oprindu-vă pentru un moment de reflecție liniștită pentru a aprecia spiritualitatea antică a locului.",
+            "en": "Conclude your historical tour at this well-preserved megalith that proudly silently guards the landscape, pausing for a moment of quiet reflection to appreciate the ancient local spirituality."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt wunderbar am abgelegenen Weststrand, bevor Sie zum majestätischen historischen Schloss fahren. Die Mittagszeit umfasst einen kurzen Halt an der Gemeindekirche, gefolgt von einer Mittagspause am Strand. Der Nachmittag ist für malerische Aussichtspunkte von den natürlichen Felsformationen reserviert. Der Abend rundet die Reise mit einer Fahrt in die Hügel zu den alten Megalithen ab.",
+        "hu": "Autós túrája csodálatosan indul az eldugott nyugati strandon, majd a fenséges történelmi kastélyhoz vezet. A dél magában foglal egy rövid megállót a templomnál, majd egy kellemes ebédszünetet a központi strandon. A délután a természetes sziklaalakzatok festői kilátópontjainak van fenntartva, érezve az erős parti szeleket. Az este tökéletesen zárja az utazást egy dombvidéki autózással az ősi megalitokhoz.",
+        "ro": "Turul dvs. cu mașina începe minunat la plaja vestică izolată, înainte de a conduce spre castelul istoric maiestuos. Amiaza include o scurtă oprire la biserica comunității, urmată de o pauză de prânz direct pe plaja centrală. După-amiaza este rezervată priveliștilor pitorești de la formațiunile stâncoase naturale. Seara încheie perfect călătoria cu o plimbare spre dealuri pentru a admira doi megaliți preistorici.",
+        "en": "Your driving tour starts wonderfully at the secluded western beach before motoring to the majestic historic castle. Midday includes a brief stop at the community church followed by a satisfying lunch break right on the expansive central beach. The afternoon is reserved for scenic viewpoints from the natural rock formations, feeling the strong coastal winds. Evening perfectly rounds off the journey with a drive into the hills to admire two ancient prehistoric megaliths."
+      }
+    }
+  }
+}

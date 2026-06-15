@@ -1,0 +1,451 @@
+{
+  "city_id": "france-la-faute-sur-mer-cities-v2",
+  "anchor": {
+    "name": "La Faute-sur-Mer",
+    "coords": [
+      -1.32137,
+      46.33278
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:58",
+      "total_km": 2.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Sainte-Thérèse",
+            "hu": "Chapelle Sainte-Thérèse",
+            "ro": "Chapelle Sainte-Thérèse",
+            "en": "Chapelle Sainte-Thérèse"
+          },
+          "coords": [
+            -1.323317,
+            46.331089
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Spaziergang an dieser charmanten Küstenkapelle, einem ruhigen spirituellen Ort, an dem Sie die Stille respektieren sollten.",
+            "hu": "Kezdje sétáját ennél a bájos tengerparti kápolnánál, egy békés spirituális helynél, ahol érdemes tiszteletben tartani a belső csendet.",
+            "ro": "Începeți plimbarea la această capelă de coastă pitorească, un loc spiritual liniștit unde ar trebui să respectați tăcerea din interior.",
+            "en": "Start your walk at this quaint seaside chapel, a serene spiritual spot where you should respect the silence inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand Plage",
+            "hu": "Grand Plage",
+            "ro": "Grand Plage",
+            "en": "Grand Plage"
+          },
+          "coords": [
+            -1.333256,
+            46.330428
+          ],
+          "category": "recreational",
+          "arrive_at": "10:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die weiten Sandstrände des Hauptstrandes, der sich ideal zum Sonnenbaden oder Schwimmen eignet, wenn Sie ein Handtuch mitbringen.",
+            "hu": "Élvezze a fő strand tágas homokos partjait, amely tökéletes napozáshoz vagy egy frissítő úszáshoz, ha hozott magával törölközőt.",
+            "ro": "Bucurați-vă de țărmurile largi de nisip ale plajei principale, perfecte pentru plajă sau o baie răcoroasă dacă aduceți un prosop.",
+            "en": "Enjoy the expansive sandy shores of the main beach, perfect for sunbathing or a refreshing swim if you bring a towel."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Bélugas",
+            "hu": "Plage des Bélugas",
+            "ro": "Plage des Bélugas",
+            "en": "Plage des Bélugas"
+          },
+          "coords": [
+            -1.328658,
+            46.327506
+          ],
+          "category": "recreational",
+          "arrive_at": "11:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Dieser familienfreundliche Strand bietet sanfte Wellen und weichen Sand, also kommen Sie früh, um einen guten Platz am Wasser zu sichern.",
+            "hu": "Ez a családbarát strand finom hullámokkal és puha homokkal várja, ezért érkezzen korán, hogy jó helyet találjon a víz közelében.",
+            "ro": "Această plajă potrivită pentru familii are valuri blânde și nisip fin, așa că ajungeți devreme pentru un loc bun lângă apă.",
+            "en": "This family-friendly beach features gentle waves and soft sand, so arrive early to secure a prime spot near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Chardons",
+            "hu": "Plage des Chardons",
+            "ro": "Plage des Chardons",
+            "en": "Plage des Chardons"
+          },
+          "coords": [
+            -1.324249,
+            46.322985
+          ],
+          "category": "recreational",
+          "arrive_at": "12:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang der malerischen Dünen dieses ruhigen Strandabschnitts und halten Sie Ausschau nach nistenden Seevögeln.",
+            "hu": "Sétáljon végig a nyugodt strand festői dűnéi mentén, és figyelje meg a közelben fészkelő helyi tengeri madarakat.",
+            "ro": "Plimbați-vă de-a lungul dunelor pitorești ale acestei plaje liniștite și fiți atenți la păsările marine locale care cuibăresc aici.",
+            "en": "Stroll along the scenic dunes of this tranquil beach sector, and keep an eye out for local seabirds nesting nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Barrique",
+            "hu": "Plage de la Barrique",
+            "ro": "Plage de la Barrique",
+            "en": "Plage de la Barrique"
+          },
+          "coords": [
+            -1.319922,
+            46.318161
+          ],
+          "category": "recreational",
+          "arrive_at": "14:13",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an diesem wunderschönen Südstrand, der fantastische Sonnenuntergänge bietet, wenn Sie bis zum späten Nachmittag bleiben.",
+            "hu": "Zárja sétáját ezen a gyönyörű déli strandon, amely lenyűgöző naplemente-kilátást nyújt, ha késő délutánig marad.",
+            "ro": "Încheiați plimbarea pe această frumoasă plajă sudică, oferind priveliști uimitoare la apus dacă rămâneți până târziu.",
+            "en": "Conclude your walk at this beautiful southern beach, offering stunning sunset views if you stay until the late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im Herzen des Dorfes an der Kapelle. Schlendern Sie mittags zum weitläufigen Hauptstrand, um die Meeresbrise zu spüren. Der Nachmittag ist der Erkundung der malerischen Dünenstrände von Bélugas und Chardons gewidmet. Beenden Sie Ihren Tag am südlichen Strand und genießen Sie die Sonne.",
+        "hu": "Kezdje a reggelt a falu szívében, a bájos kápolnánál. Délben sétáljon le a tágas fő strandra, hogy érezze a tengeri szellőt. A délutánt a Bélugas és a Chardons festői dűnéinek felfedezésére szánják. Zárja a napot a déli Plage de la Barrique-on, élvezve a lemenő napot és a hullámokat.",
+        "ro": "Începeți dimineața în inima satului la capela pitorească. La prânz, coborâți la plaja principală pentru a simți briza oceanului. După-amiaza este dedicată explorării plajelor cu dune pitorești din Bélugas și Chardons. Încheiați ziua la plaja sudică, bucurându-vă de soarele la apus.",
+        "en": "Begin your morning in the heart of the village at the quaint chapel. By midday, stroll down to the expansive main beach to feel the ocean breeze. The afternoon is dedicated to exploring the scenic dune beaches of Bélugas and Chardons. Wrap up your day at the southern Plage de la Barrique, enjoying the setting sun."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:27",
+      "total_km": 4.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plage de la Grande Casse",
+            "hu": "Plage de la Grande Casse",
+            "ro": "Plage de la Grande Casse",
+            "en": "Plage de la Grande Casse"
+          },
+          "coords": [
+            -1.347437,
+            46.338207
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Radtour an diesem windigen Nordstrand, wo Sie Ihr Fahrrad sicher abstellen können, bevor Sie spazieren gehen.",
+            "hu": "Kezdje kerékpártúráját ezen a szellős északi strandon, ahol biztonságosan leparkolhatja a biciklit, mielőtt a homokra lépne.",
+            "ro": "Începeți turul cu bicicleta la această plajă nordică brizoasă, unde puteți parca bicicleta în siguranță înainte de plimbare.",
+            "en": "Kick off your cycling tour at this breezy northern beach, where you can park your bike securely before walking the sands."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand Plage",
+            "hu": "Grand Plage",
+            "ro": "Grand Plage",
+            "en": "Grand Plage"
+          },
+          "coords": [
+            -1.333256,
+            46.330428
+          ],
+          "category": "recreational",
+          "arrive_at": "10:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Radeln Sie zum lebhaften Hauptstrand, um die geschäftige Küstenatmosphäre aufzusaugen, ideal für ein schnelles Bad im Meer.",
+            "hu": "Tekerjen le a nyüzsgő fő strandra, hogy magába szívja a tengerparti hangulatot, amely ideális egy gyors tengeri mártózáshoz.",
+            "ro": "Pedalați până la plaja principală vibrantă pentru a absorbi atmosfera de coastă, perfectă pentru o baie rapidă în ocean.",
+            "en": "Cycle down to the vibrant main beach to soak up the lively coastal atmosphere, perfect for a quick refreshing ocean dip."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Sainte-Thérèse",
+            "hu": "Chapelle Sainte-Thérèse",
+            "ro": "Chapelle Sainte-Thérèse",
+            "en": "Chapelle Sainte-Thérèse"
+          },
+          "coords": [
+            -1.323317,
+            46.331089
+          ],
+          "category": "religious",
+          "arrive_at": "11:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Unterbrechen Sie Ihre Fahrt, um diese hübsche Küstenkapelle zu bewundern und nehmen Sie sich einen ruhigen Moment für ihre Architektur.",
+            "hu": "Szakítsa meg útját, hogy megcsodálja ezt a szép tengerparti kápolnát, és szánjon egy csendes percet az egyszerű építészetére.",
+            "ro": "Faceți o pauză pentru a admira această frumoasă capelă de coastă, luându-vă un moment de liniște pentru arhitectura sa simplă.",
+            "en": "Pause your ride to admire this lovely seaside chapel, taking a quiet moment to appreciate its simple coastal architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Mairie de L'Aiguillon-la-Presqu'île",
+            "hu": "Mairie de L'Aiguillon-la-Presqu'île",
+            "ro": "Mairie de L'Aiguillon-la-Presqu'île",
+            "en": "Mairie de L'Aiguillon-la-Presqu'île"
+          },
+          "coords": [
+            -1.307721,
+            46.33413
+          ],
+          "category": "historical",
+          "arrive_at": "12:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Überqueren Sie den Fluss zum historischen Rathaus, ein toller Ort, um mehr über die lokale Verwaltung zu erfahren und Fotos zu machen.",
+            "hu": "Keljen át, hogy megnézze a történelmi városházát, amely remek hely a helyi történelem megismerésére és fotók készítésére.",
+            "ro": "Traversați pentru a vedea primăria istorică, un loc minunat pentru a afla despre istoria locală și a face fotografii.",
+            "en": "Cross over to see the historic town hall, a great spot to learn about local administration while snapping photos of the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Nicolas",
+            "hu": "Église Saint-Nicolas",
+            "ro": "Église Saint-Nicolas",
+            "en": "Église Saint-Nicolas"
+          },
+          "coords": [
+            -1.304968,
+            46.333181
+          ],
+          "category": "religious",
+          "arrive_at": "14:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese markante historische Kirche mit ihren maritimen Verbindungen und sprechen Sie leise, da sie noch aktiv ist.",
+            "hu": "Látogassa meg ezt a tengeri kapcsolatokkal rendelkező történelmi templomot, és csendben lépjen be, mivel aktív egyházközség.",
+            "ro": "Vizitați această biserică istorică cu legături maritime, păstrând liniștea deoarece rămâne o parohie activă.",
+            "en": "Visit this striking historic church with its maritime connections, keeping your voice low as it remains an active parish."
+          }
+        },
+        {
+          "name": {
+            "de": "\"Warrior Game\"",
+            "hu": "\"Warrior Game\"",
+            "ro": "\"Warrior Game\"",
+            "en": "\"Warrior Game\""
+          },
+          "coords": [
+            -1.308485,
+            46.332065
+          ],
+          "category": "recreational",
+          "arrive_at": "14:42",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Radtag mit lustigen Outdoor-Aktivitäten an diesem Erholungsort und packen Sie viel Wasser für die Herausforderungen ein.",
+            "hu": "Zárja a kerékpáros napot szabadtéri szórakozással ezen a rekreációs helyszínen, és vigyen magával sok vizet a fizikai kihívásokhoz.",
+            "ro": "Încheiați ziua de ciclism cu activități în aer liber la acest loc de agrement, aducând multă apă pentru provocările fizice.",
+            "en": "End your cycling day with fun outdoor activities at this recreational spot, packing plenty of water for the physical challenges."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre morgendliche Fahrt an den windigen nördlichen Stränden. Mittags radeln Sie am beliebten Hauptstrand und der charmanten lokalen Kapelle vorbei. Am Nachmittag überqueren Sie das Wasser in die historischen Straßen von L'Aiguillon. Beenden Sie Ihren energiegeladenen Tag im örtlichen Freizeitpark.",
+        "hu": "Kezdje a reggeli tekerést a szeles északi partszakaszokon. Délben elhalad a népszerű fő strand és a bájos helyi kápolna mellett. Délután keljen át a vízen L'Aiguillon történelmi utcáiba. Fejezze be energikus napját vidám kihívásokkal a helyi rekreációs parkban, a tiszta levegőn.",
+        "ro": "Începeți călătoria de dimineață pe porțiunile nordice. Prânzul vă poartă pe lângă plaja principală și capela locală fermecătoare. După-amiaza, traversați apa spre străzile istorice din L'Aiguillon. Terminați-vă ziua plină de energie cu provocări distractive la parcul de agrement local.",
+        "en": "Start your morning ride at the breezy northern stretches of Grande Casse. Midday brings you past the popular main beach and the charming local chapel. In the afternoon, cross the water into the historic streets of L'Aiguillon. Finish your energetic day with fun challenges at the local recreational park."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:18",
+      "total_km": 5.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plage de la Grande Casse",
+            "hu": "Plage de la Grande Casse",
+            "ro": "Plage de la Grande Casse",
+            "en": "Plage de la Grande Casse"
+          },
+          "coords": [
+            -1.347437,
+            46.338207
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Autotour am ruhigen Nordstrand und nutzen Sie den nahegelegenen öffentlichen Parkplatz für einen einfachen Zugang.",
+            "hu": "Kezdje autós túráját a csendes északi strandon, használva a közeli nyilvános parkolót az érintetlen dűnék könnyű eléréséhez.",
+            "ro": "Începeți turul cu mașina la plaja nordică liniștită, folosind parcarea publică din apropiere pentru acces ușor la dune.",
+            "en": "Start your driving tour at the quiet northern beach, using the nearby public parking lot for easy access to the pristine dunes."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Sainte-Thérèse",
+            "hu": "Chapelle Sainte-Thérèse",
+            "ro": "Chapelle Sainte-Thérèse",
+            "en": "Chapelle Sainte-Thérèse"
+          },
+          "coords": [
+            -1.323317,
+            46.331089
+          ],
+          "category": "religious",
+          "arrive_at": "10:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zu dieser charmanten Küstenkapelle für eine kurze Dosis lokalen Erbes, und parken Sie in der Straße nebenan.",
+            "hu": "Vezessen le ehhez a bájos parti kápolnához egy kis helyi örökségért, és parkoljon az utcán a rövid sétához.",
+            "ro": "Conduceți până la această capelă de coastă fermecătoare pentru o doză de patrimoniu local, parcând pe strada alăturată.",
+            "en": "Drive down to this charming coastal chapel for a brief dose of local heritage, parking just down the street to walk over."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Barrique",
+            "hu": "Plage de la Barrique",
+            "ro": "Plage de la Barrique",
+            "en": "Plage de la Barrique"
+          },
+          "coords": [
+            -1.319922,
+            46.318161
+          ],
+          "category": "recreational",
+          "arrive_at": "11:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie hier die wildere Südküste und bringen Sie eine Windjacke mit, da die Meeresbrise recht stark sein kann.",
+            "hu": "Fedezze fel itt a vadabb déli partvonalat, és hozzon magával széldzsekit, mivel a tengeri szél meglehetősen erős lehet.",
+            "ro": "Explorați țărmul sudic mai sălbatic aici, aducând o jachetă de vânt deoarece briza de pe ocean poate fi destul de puternică.",
+            "en": "Explore the wilder southern shoreline here, bringing a windbreaker as the coastal breezes can be quite strong off the ocean."
+          }
+        },
+        {
+          "name": {
+            "de": "\"Warrior Game\"",
+            "hu": "\"Warrior Game\"",
+            "ro": "\"Warrior Game\"",
+            "en": "\"Warrior Game\""
+          },
+          "coords": [
+            -1.308485,
+            46.332065
+          ],
+          "category": "recreational",
+          "arrive_at": "12:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Fahren Sie über die Brücke zu diesem aufregenden Erholungsgebiet, ein idealer Stopp, um sich bei Spielen die Beine zu vertreten.",
+            "hu": "Menjen át a hídon ehhez az izgalmas rekreációs területhez, amely ideális megálló a lábak kinyújtóztatásához aktív játékokkal.",
+            "ro": "Treceți podul spre această zonă de agrement captivantă, o oprire ideală pentru a vă dezmorți picioarele cu jocuri în aer liber.",
+            "en": "Head over the bridge to this exciting recreational area, an ideal stop to stretch your legs with energetic outdoor games."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Nicolas",
+            "hu": "Église Saint-Nicolas",
+            "ro": "Église Saint-Nicolas",
+            "en": "Église Saint-Nicolas"
+          },
+          "coords": [
+            -1.304968,
+            46.333181
+          ],
+          "category": "religious",
+          "arrive_at": "13:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betrachten Sie diese traditionelle französische Kirche, die die Gemeinde verankert, und bewundern Sie die klassischen Buntglasfenster.",
+            "hu": "Tekintse meg ezt a hagyományos francia templomot, amely a helyi közösség horgonya, és csodálja meg a klasszikus ólomüveg ablakokat.",
+            "ro": "Vedeți această biserică tradițională franceză care ancorează comunitatea, admirând pentru o clipă vitraliile sale clasice.",
+            "en": "View this traditional French church that anchors the local community, taking a moment to admire its classic stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Mairie de L'Aiguillon-la-Presqu'île",
+            "hu": "Mairie de L'Aiguillon-la-Presqu'île",
+            "ro": "Mairie de L'Aiguillon-la-Presqu'île",
+            "en": "Mairie de L'Aiguillon-la-Presqu'île"
+          },
+          "coords": [
+            -1.307721,
+            46.33413
+          ],
+          "category": "historical",
+          "arrive_at": "14:28",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt am historischen Gemeindezentrum und nutzen Sie den Rathausparkplatz, um durch die belebten Straßen zu spazieren.",
+            "hu": "Zárja a vezetést a történelmi városközpontban, a főtér parkolóját használva a nyüzsgő környező utcák bejárásához.",
+            "ro": "Încheiați călătoria la centrul municipal istoric, folosind parcarea din piața orașului pentru a vă plimba pe străzile pline de viață.",
+            "en": "Conclude your drive at the historic municipal center, using the town square parking to walk around the lively surrounding streets."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt mit der Erkundung der unberührten nördlichen Ufer. Gegen Mittag besuchen Sie die zentrale Kapelle, bevor Sie zum wilderen Südstrand fahren. Der Nachmittag führt Sie über die Brücke für Spiele im Freien. Beenden Sie die Reise am stattlichen Rathaus, wenn die Dämmerung naht.",
+        "hu": "Az autózás az érintetlen északi partok felfedezésével kezdődik. Dél körül nézze meg a központi kápolnát, mielőtt a vadabb déli strandra hajtana. A délután átviszi a hídon szabadtéri játékokhoz és történelmi látnivalókhoz. Zárja az utazást a tekintélyes városházánál, ahogy közeledik az alkony.",
+        "ro": "Călătoria începe prin explorarea țărmurilor nordice. În jurul prânzului, vizitați capela centrală înainte de a coborî spre plaja sudică mai sălbatică. După-amiaza vă duce peste pod pentru jocuri și obiective istorice. Încheiați călătoria la impunătoarea primărie pe măsură ce se apropie amurgul.",
+        "en": "Your drive begins exploring the pristine and quiet northern shores. Around midday, check out the central chapel before cruising down to the wilder southern beach. The afternoon takes you across the bridge for outdoor games and historical sights. Conclude the journey at the stately town hall as dusk approaches."
+      }
+    }
+  }
+}

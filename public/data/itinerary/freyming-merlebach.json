@@ -1,0 +1,520 @@
+{
+  "city_id": "freyming-merlebach",
+  "anchor": {
+    "name": "Freyming-Merlebach",
+    "coords": [
+      6.8192,
+      49.1472
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:35",
+      "total_km": 4.07,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Le Gouvy",
+            "hu": "Le Gouvy",
+            "ro": "Le Gouvy",
+            "en": "Le Gouvy"
+          },
+          "coords": [
+            6.82053,
+            49.146409
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie moderne Aufführungen in diesem architektonisch reizvollen Kulturzentrum, und buchen Sie Ihre Tickets am besten im Voraus online.",
+            "hu": "Fedezze fel a modern előadásokat ebben az építészetileg lenyűgöző kulturális központban, és érdemes a jegyeket előre online lefoglalni.",
+            "ro": "Descoperiți spectacole moderne în acest centru cultural cu o arhitectură uimitoare și asigurați-vă că rezervați biletele online în avans.",
+            "en": "Discover modern performances in this architecturally stunning cultural center, and be sure to book your tickets online well in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainte-Geneviève Kapelle",
+            "hu": "Sainte-Geneviève Kápolna",
+            "ro": "Capela Sainte-Geneviève",
+            "en": "Chapelle Sainte-Geneviève"
+          },
+          "coords": [
+            6.817273,
+            49.148862
+          ],
+          "category": "religious",
+          "arrive_at": "10:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ruhige Atmosphäre dieser historischen Kapelle und achten Sie auf die wunderschönen Buntglasfenster im Nachmittagslicht.",
+            "hu": "Csodálja meg a történelmi kápolna békés hangulatát, és figyelje meg a gyönyörű ólomüveg ablakokat a délutáni fényben.",
+            "ro": "Admirați atmosfera liniștită a acestei capele istorice și observați ferestrele frumoase cu vitralii în lumina după-amiezii.",
+            "en": "Admire the peaceful atmosphere of this historic chapel and pay attention to the beautiful stained glass windows in the afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "Warndt Wald",
+            "hu": "Warndt-erdő",
+            "ro": "Pădurea Warndt",
+            "en": "Warndt Forest"
+          },
+          "coords": [
+            6.823207,
+            49.152834
+          ],
+          "category": "natural",
+          "arrive_at": "11:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.62,
+          "tip_5lang": {
+            "de": "Genießen Sie einen erholsamen Spaziergang durch diesen dichten, grenzüberschreitenden Wald und tragen Sie festes Schuhwerk für die unebenen Pfade.",
+            "hu": "Élvezze a pihentető sétát ebben a sűrű, határokon átnyúló erdőben, és viseljen masszív cipőt az egyenetlen ösvények miatt.",
+            "ro": "Bucurați-vă de o plimbare relaxantă prin această pădure deasă transfrontalieră și purtați încălțăminte solidă pentru potecile denivelate.",
+            "en": "Enjoy a relaxing walk through this dense cross-border forest and make sure to wear sturdy shoes for the uneven trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame-des-Houillères",
+            "hu": "Notre-Dame-des-Houillères Templom",
+            "ro": "Biserica Notre-Dame-des-Houillères",
+            "en": "Église Notre-Dame-des-Houillères"
+          },
+          "coords": [
+            6.84,
+            49.14965
+          ],
+          "category": "religious",
+          "arrive_at": "13:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 1.27,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese Kirche, die tief mit der Bergbaugeschichte der Region verbunden ist, und respektieren Sie die Stille während der Andachten.",
+            "hu": "Fedezze fel ezt a templomot, amely mélyen kötődik a régió bányászati múltjához, és tartsa tiszteletben a csendet a szertartások alatt.",
+            "ro": "Explorați această biserică profund legată de istoria minieră a regiunii și asigurați-vă că respectați liniștea în timpul slujbelor.",
+            "en": "Explore this church deeply connected to the region's mining history, and be sure to respect the silence during prayer times."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Étienne",
+            "hu": "Saint-Étienne Templom",
+            "ro": "Biserica Saint-Étienne",
+            "en": "Église Saint-Étienne"
+          },
+          "coords": [
+            6.837618,
+            49.133241
+          ],
+          "category": "religious",
+          "arrive_at": "14:25",
+          "stay_min": 70,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 1.83,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour an dieser charmanten Kirche mit ihrer einzigartigen Architektur, und bringen Sie eine Kamera für die schönen Details mit.",
+            "hu": "Fejezze be a túrát ennél a bájos, egyedi építészetű templomnál, és feltétlenül hozzon magával fényképezőgépet a finom részletekhez.",
+            "ro": "Încheiați turul la această biserică fermecătoare cu o arhitectură unică și aduceți o cameră foto pentru detaliile sale frumoase.",
+            "en": "End your tour at this charming church with its unique architecture, and be sure to bring a camera to capture the fine details."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Am Morgen tauchen Sie in die moderne Kultur im Le Gouvy ein. Mittags spazieren Sie zur historischen Chapelle Sainte-Geneviève und atmen die frische Luft im Warndt Forest. Der Nachmittag führt Sie zur Église Notre-Dame-des-Houillères, bevor Sie den Abend an der charmanten Église Saint-Étienne ausklingen lassen.",
+        "hu": "Reggel merüljön el a modern kultúrában a Le Gouvy-ban. Délben sétáljon el a történelmi Chapelle Sainte-Geneviève-hez, majd lélegezze be a friss levegőt a Warndt-erdőben. A délután az Église Notre-Dame-des-Houillères templomhoz vezet, mielőtt az estét a bájos Église Saint-Étienne-nél zárná.",
+        "ro": "Dimineața, cufundați-vă în cultura modernă la Le Gouvy. La prânz, plimbați-vă până la istorica Chapelle Sainte-Geneviève și respirați aer curat în Pădurea Warndt. După-amiaza vă conduce la Église Notre-Dame-des-Houillères, înainte de a încheia seara la fermecătoarea Église Saint-Étienne.",
+        "en": "In the morning, immerse yourself in modern culture at Le Gouvy. At midday, walk to the historic Chapelle Sainte-Geneviève and breathe the fresh air in the Warndt Forest. The afternoon leads you to the Église Notre-Dame-des-Houillères, before ending the evening at the charming Église Saint-Étienne."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:08",
+      "total_km": 8.02,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Maurice Kirche",
+            "hu": "Saint-Maurice Templom",
+            "ro": "Biserica Saint-Maurice",
+            "en": "Saint-Maurice Church"
+          },
+          "coords": [
+            6.796781,
+            49.144201
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an dieser historischen Kirche im Herzen der Stadt, wo die Morgensonne die Fassade in ein warmes Licht taucht.",
+            "hu": "Kezdje a napot ennél a történelmi templomnál a város szívében, ahol a reggeli napfény meleg ragyogásba vonja a homlokzatot.",
+            "ro": "Începeți ziua la această biserică istorică din inima orașului, unde soarele dimineții scaldă fațada într-o strălucire caldă.",
+            "en": "Start your day at this historic church in the heart of the town, where the morning sun bathes the facade in a warm glow."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Gouvy",
+            "hu": "Le Gouvy",
+            "ro": "Le Gouvy",
+            "en": "Le Gouvy"
+          },
+          "coords": [
+            6.82053,
+            49.146409
+          ],
+          "category": "cultural",
+          "arrive_at": "09:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.75,
+          "tip_5lang": {
+            "de": "Entdecken Sie moderne Aufführungen in diesem architektonisch reizvollen Kulturzentrum, und buchen Sie Ihre Tickets am besten im Voraus online.",
+            "hu": "Fedezze fel a modern előadásokat ebben az építészetileg lenyűgöző kulturális központban, és érdemes a jegyeket előre online lefoglalni.",
+            "ro": "Descoperiți spectacole moderne în acest centru cultural cu o arhitectură uimitoare și asigurați-vă că rezervați biletele online în avans.",
+            "en": "Discover modern performances in this architecturally stunning cultural center, and be sure to book your tickets online well in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainte-Geneviève Kapelle",
+            "hu": "Sainte-Geneviève Kápolna",
+            "ro": "Capela Sainte-Geneviève",
+            "en": "Chapelle Sainte-Geneviève"
+          },
+          "coords": [
+            6.817273,
+            49.148862
+          ],
+          "category": "religious",
+          "arrive_at": "11:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ruhige Atmosphäre dieser historischen Kapelle und achten Sie auf die wunderschönen Buntglasfenster im Nachmittagslicht.",
+            "hu": "Csodálja meg a történelmi kápolna békés hangulatát, és figyelje meg a gyönyörű ólomüveg ablakokat a délutáni fényben.",
+            "ro": "Admirați atmosfera liniștită a acestei capele istorice și observați ferestrele frumoase cu vitralii în lumina după-amiezii.",
+            "en": "Admire the peaceful atmosphere of this historic chapel and pay attention to the beautiful stained glass windows in the afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "Warndt Wald",
+            "hu": "Warndt-erdő",
+            "ro": "Pădurea Warndt",
+            "en": "Warndt Forest"
+          },
+          "coords": [
+            6.823207,
+            49.152834
+          ],
+          "category": "natural",
+          "arrive_at": "12:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.62,
+          "tip_5lang": {
+            "de": "Genießen Sie einen erholsamen Spaziergang durch diesen dichten, grenzüberschreitenden Wald und tragen Sie festes Schuhwerk für die unebenen Pfade.",
+            "hu": "Élvezze a pihentető sétát ebben a sűrű, határokon átnyúló erdőben, és viseljen masszív cipőt az egyenetlen ösvények miatt.",
+            "ro": "Bucurați-vă de o plimbare relaxantă prin această pădure deasă transfrontalieră și purtați încălțăminte solidă pentru potecile denivelate.",
+            "en": "Enjoy a relaxing walk through this dense cross-border forest and make sure to wear sturdy shoes for the uneven trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Freyming Steinbruch",
+            "hu": "Freyming Kőbánya",
+            "ro": "Cariera Freyming",
+            "en": "Freyming Quarry"
+          },
+          "coords": [
+            6.788474,
+            49.162956
+          ],
+          "category": "natural",
+          "arrive_at": "13:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.77,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen beeindruckenden ehemaligen Steinbruch, der heute ein Naturparadies ist, und bleiben Sie aus Sicherheitsgründen auf den markierten Wegen.",
+            "hu": "Látogasson el ebbe a lenyűgöző egykori kőbányába, amely ma természeti paradicsom, és biztonsági okokból maradjon a kijelölt ösvényeken.",
+            "ro": "Vizitați această fostă carieră impresionantă, devenită un paradis natural, și rămâneți pe traseele marcate pentru siguranța dumneavoastră.",
+            "en": "Visit this impressive former quarry that is now a natural paradise, and always stay on the marked trails for your safety."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Nikolaus Weiher",
+            "hu": "St. Nikolaus Weiher",
+            "ro": "Lacul St. Nikolaus Weiher",
+            "en": "St. Nikolaus Weiher"
+          },
+          "coords": [
+            6.820481,
+            49.171838
+          ],
+          "category": "natural",
+          "arrive_at": "15:23",
+          "stay_min": 105,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.53,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem idyllischen See in der Nähe der deutschen Grenze, ideal für ein kleines Picknick am ruhigen Ufer.",
+            "hu": "Pihenjen meg ezen az idilli tavon a német határ közelében, amely tökéletes egy kis piknikhez a csendes parton.",
+            "ro": "Relaxați-vă la acest lac idilic aproape de granița cu Germania, perfect pentru un mic picnic pe malurile sale liniștite.",
+            "en": "Relax by this idyllic lake near the German border, which is a perfect spot for a small picnic on its quiet shores."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie morgens an der Saint-Maurice Kirche und radeln Sie dann zum Le Gouvy. Mittags entdecken Sie die Sainte-Geneviève Kapelle und die Naturpfade im Warndt Wald. Der Nachmittag ist für den imposanten Freyming Steinbruch reserviert, während Sie abends entspannt am St. Nikolaus Weiher verweilen.",
+        "hu": "Kezdje a reggelt a Saint-Maurice templomnál, majd kerékpározzon el a Le Gouvy-hoz. Délben fedezze fel a Sainte-Geneviève kápolnát és a Warndt-erdő ösvényeit. A délután az impozáns Freyming kőbányáé, míg este a St. Nikolaus Weiher partján pihenhet meg.",
+        "ro": "Începeți dimineața la Biserica Saint-Maurice și apoi pedalați către Le Gouvy. La prânz, descoperiți Capela Sainte-Geneviève și traseele din Pădurea Warndt. După-amiaza este rezervată impresionantei Cariere Freyming, în timp ce seara vă relaxați la St. Nikolaus Weiher.",
+        "en": "Start your morning at the Saint-Maurice Church and then cycle to Le Gouvy. At midday, discover the Sainte-Geneviève Chapel and the trails in the Warndt Forest. The afternoon is reserved for the impressive Freyming Quarry, while the evening is spent relaxing by the St. Nikolaus Weiher."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:50",
+      "total_km": 11.86,
+      "stop_count": 9,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Maurice Kirche",
+            "hu": "Saint-Maurice Templom",
+            "ro": "Biserica Saint-Maurice",
+            "en": "Saint-Maurice Church"
+          },
+          "coords": [
+            6.796781,
+            49.144201
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an dieser historischen Kirche im Herzen der Stadt, wo die Morgensonne die Fassade in ein warmes Licht taucht.",
+            "hu": "Kezdje a napot ennél a történelmi templomnál a város szívében, ahol a reggeli napfény meleg ragyogásba vonja a homlokzatot.",
+            "ro": "Începeți ziua la această biserică istorică din inima orașului, unde soarele dimineții scaldă fațada într-o strălucire caldă.",
+            "en": "Start your day at this historic church in the heart of the town, where the morning sun bathes the facade in a warm glow."
+          }
+        },
+        {
+          "name": {
+            "de": "Freyming Steinbruch",
+            "hu": "Freyming Kőbánya",
+            "ro": "Cariera Freyming",
+            "en": "Freyming Quarry"
+          },
+          "coords": [
+            6.788474,
+            49.162956
+          ],
+          "category": "natural",
+          "arrive_at": "09:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.15,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen beeindruckenden ehemaligen Steinbruch, der heute ein Naturparadies ist, und bleiben Sie aus Sicherheitsgründen auf den markierten Wegen.",
+            "hu": "Látogasson el ebbe a lenyűgöző egykori kőbányába, amely ma természeti paradicsom, és biztonsági okokból maradjon a kijelölt ösvényeken.",
+            "ro": "Vizitați această fostă carieră impresionantă, devenită un paradis natural, și rămâneți pe traseele marcate pentru siguranța dumneavoastră.",
+            "en": "Visit this impressive former quarry that is now a natural paradise, and always stay on the marked trails for your safety."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Nikolaus Weiher",
+            "hu": "St. Nikolaus Weiher",
+            "ro": "Lacul St. Nikolaus Weiher",
+            "en": "St. Nikolaus Weiher"
+          },
+          "coords": [
+            6.820481,
+            49.171838
+          ],
+          "category": "natural",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.53,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem idyllischen See in der Nähe der deutschen Grenze, ideal für ein kleines Picknick am ruhigen Ufer.",
+            "hu": "Pihenjen meg ezen az idilli tavon a német határ közelében, amely tökéletes egy kis piknikhez a csendes parton.",
+            "ro": "Relaxați-vă la acest lac idilic aproape de granița cu Germania, perfect pentru un mic picnic pe malurile sale liniștite.",
+            "en": "Relax by this idyllic lake near the German border, which is a perfect spot for a small picnic on its quiet shores."
+          }
+        },
+        {
+          "name": {
+            "de": "Warndt Wald",
+            "hu": "Warndt-erdő",
+            "ro": "Pădurea Warndt",
+            "en": "Warndt Forest"
+          },
+          "coords": [
+            6.823207,
+            49.152834
+          ],
+          "category": "natural",
+          "arrive_at": "12:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.11,
+          "tip_5lang": {
+            "de": "Genießen Sie einen erholsamen Spaziergang durch diesen dichten, grenzüberschreitenden Wald und tragen Sie festes Schuhwerk für die unebenen Pfade.",
+            "hu": "Élvezze a pihentető sétát ebben a sűrű, határokon átnyúló erdőben, és viseljen masszív cipőt az egyenetlen ösvények miatt.",
+            "ro": "Bucurați-vă de o plimbare relaxantă prin această pădure deasă transfrontalieră și purtați încălțăminte solidă pentru potecile denivelate.",
+            "en": "Enjoy a relaxing walk through this dense cross-border forest and make sure to wear sturdy shoes for the uneven trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainte-Geneviève Kapelle",
+            "hu": "Sainte-Geneviève Kápolna",
+            "ro": "Capela Sainte-Geneviève",
+            "en": "Chapelle Sainte-Geneviève"
+          },
+          "coords": [
+            6.817273,
+            49.148862
+          ],
+          "category": "religious",
+          "arrive_at": "13:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.62,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ruhige Atmosphäre dieser historischen Kapelle und achten Sie auf die wunderschönen Buntglasfenster im Nachmittagslicht.",
+            "hu": "Csodálja meg a történelmi kápolna békés hangulatát, és figyelje meg a gyönyörű ólomüveg ablakokat a délutáni fényben.",
+            "ro": "Admirați atmosfera liniștită a acestei capele istorice și observați ferestrele frumoase cu vitralii în lumina după-amiezii.",
+            "en": "Admire the peaceful atmosphere of this historic chapel and pay attention to the beautiful stained glass windows in the afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Gouvy",
+            "hu": "Le Gouvy",
+            "ro": "Le Gouvy",
+            "en": "Le Gouvy"
+          },
+          "coords": [
+            6.82053,
+            49.146409
+          ],
+          "category": "cultural",
+          "arrive_at": "14:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entdecken Sie moderne Aufführungen in diesem architektonisch reizvollen Kulturzentrum, und buchen Sie Ihre Tickets am besten im Voraus online.",
+            "hu": "Fedezze fel a modern előadásokat ebben az építészetileg lenyűgöző kulturális központban, és érdemes a jegyeket előre online lefoglalni.",
+            "ro": "Descoperiți spectacole moderne în acest centru cultural cu o arhitectură uimitoare și asigurați-vă că rezervați biletele online în avans.",
+            "en": "Discover modern performances in this architecturally stunning cultural center, and be sure to book your tickets online well in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame-des-Houillères",
+            "hu": "Notre-Dame-des-Houillères Templom",
+            "ro": "Biserica Notre-Dame-des-Houillères",
+            "en": "Église Notre-Dame-des-Houillères"
+          },
+          "coords": [
+            6.84,
+            49.14965
+          ],
+          "category": "religious",
+          "arrive_at": "16:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.46,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese Kirche, die tief mit der Bergbaugeschichte der Region verbunden ist, und respektieren Sie die Stille während der Andachten.",
+            "hu": "Fedezze fel ezt a templomot, amely mélyen kötődik a régió bányászati múltjához, és tartsa tiszteletben a csendet a szertartások alatt.",
+            "ro": "Explorați această biserică profund legată de istoria minieră a regiunii și asigurați-vă că respectați liniștea în timpul slujbelor.",
+            "en": "Explore this church deeply connected to the region's mining history, and be sure to respect the silence during prayer times."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Hubert",
+            "hu": "Saint-Hubert Templom",
+            "ro": "Biserica Saint-Hubert",
+            "en": "Église Saint-Hubert"
+          },
+          "coords": [
+            6.850075,
+            49.157729
+          ],
+          "category": "religious",
+          "arrive_at": "16:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.16,
+          "tip_5lang": {
+            "de": "Bewundern Sie die architektonische Eleganz dieser dem heiligen Hubertus gewidmeten Kirche, und achten Sie auf die kunstvollen Holzschnitzereien.",
+            "hu": "Csodálja meg ennek a Szent Hubertusznak szentelt templomnak az építészeti eleganciáját, és figyelje meg a díszes fafaragásokat.",
+            "ro": "Admirați eleganța arhitecturală a acestei biserici dedicate Sfântului Hubert și acordați atenție sculpturilor complicate din lemn.",
+            "en": "Admire the architectural elegance of this church dedicated to Saint Hubert, and pay special attention to the intricate wood carvings."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche de la Très-Sainte-Trinité",
+            "hu": "Très-Sainte-Trinité Templom",
+            "ro": "Biserica de la Très-Sainte-Trinité",
+            "en": "Église de la Très-Sainte-Trinité"
+          },
+          "coords": [
+            6.856579,
+            49.145117
+          ],
+          "category": "religious",
+          "arrive_at": "17:40",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.48,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an dieser beeindruckenden Kirche ausklingen, deren ruhige Umgebung zur Reflexion und Besinnung einlädt.",
+            "hu": "Zárja a napot ennél a lenyűgöző templomnál, amelynek nyugodt környezete tökéletes egy kis esti elmélkedésre és pihenésre.",
+            "ro": "Încheiați ziua la această biserică impresionantă, al cărei cadru liniștit este perfect pentru o scurtă reflecție de seară.",
+            "en": "End your day at this impressive church, where the peaceful surroundings offer a perfect setting for evening reflection."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt an der Saint-Maurice Kirche und dem atemberaubenden Freyming Steinbruch. Mittags genießen Sie die Natur am St. Nikolaus Weiher und im Warndt Wald. Nachmittags besuchen Sie das Le Gouvy und die Église Notre-Dame. Der Tag endet besinnlich an den östlichen Kirchen der Stadt.",
+        "hu": "Az utazás a Saint-Maurice templomnál és a lélegzetelállító Freyming kőbányánál kezdődik. Délben élvezze a természetet a St. Nikolaus Weiher-nél és a Warndt-erdőben. Délután látogasson el a Le Gouvy-ba és az Église Notre-Dame-ba. A nap a város keleti templomainál ér véget.",
+        "ro": "Călătoria începe la Biserica Saint-Maurice și uluitoarea Carieră Freyming. La prânz, bucurați-vă de natură la St. Nikolaus Weiher și Pădurea Warndt. După-amiaza, vizitați Le Gouvy și Église Notre-Dame. Ziua se încheie la bisericile estice ale orașului.",
+        "en": "Your drive begins at the Saint-Maurice Church and the breathtaking Freyming Quarry. At midday, enjoy nature at St. Nikolaus Weiher and the Warndt Forest. In the afternoon, visit Le Gouvy and Église Notre-Dame. The day ends peacefully at the town's eastern churches."
+      }
+    }
+  }
+}

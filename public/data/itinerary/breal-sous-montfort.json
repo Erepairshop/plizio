@@ -1,0 +1,405 @@
+{
+  "city_id": "breal-sous-montfort",
+  "anchor": {
+    "name": "Bréal-sous-Montfort",
+    "coords": [
+      -1.8667,
+      48.0478
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:15",
+      "total_km": 1.25,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Bréal-sous-Montfort",
+            "hu": "Bréal-sous-Montfort Városháza",
+            "ro": "Primăria Bréal-sous-Montfort",
+            "en": "Town Hall of Bréal-sous-Montfort"
+          },
+          "coords": [
+            -1.864109,
+            48.048485
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die bürgerliche Architektur dieses lokalen Zentrums, um die Stadtgeschichte zu verstehen, und prüfen Sie die Aushänge für abendliche Events.",
+            "hu": "Csodálja meg ennek a helyi központnak a polgári építészetét, és nézze meg a hirdetőtáblákat a közösségi esti eseményekkel kapcsolatban.",
+            "ro": "Admirați arhitectura civică a acestui centru local pentru istoria sa și verificați avizierele pentru evenimentele comunitare de seară.",
+            "en": "Admire the civic architecture of this local hub to understand town history, and check the notice boards for evening community events."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Malo",
+            "hu": "Saint-Malo Templom",
+            "ro": "Biserica Saint-Malo",
+            "en": "Saint-Malo Church"
+          },
+          "coords": [
+            -1.868319,
+            48.048394
+          ],
+          "category": "religious",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Glasfenster in diesem historischen Zentrum, um die Atmosphäre zu spüren, und kommen Sie früh für das beste Morgenlicht.",
+            "hu": "Csodálja meg az ólomüveg ablakokat ebben a történelmi központban, és érkezzen korán, hogy elcsípje a legszebb reggeli fényeket.",
+            "ro": "Admirați vitraliile din acest centru religios istoric pentru a simți atmosfera pașnică, ajungând devreme pentru cea mai bună lumină.",
+            "en": "Marvel at the stained glass in this historic religious center to feel the peaceful atmosphere, arriving early to catch the best morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Brocéliande",
+            "hu": "Brocéliande Kulturális Központ",
+            "ro": "Centrul Cultural Brocéliande",
+            "en": "Centre Culturel Brocéliande"
+          },
+          "coords": [
+            -1.866193,
+            48.049639
+          ],
+          "category": "cultural",
+          "arrive_at": "10:23",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie Ausstellungen lokaler Kunst und fragen Sie an der Rezeption unbedingt nach kostenlosen interaktiven Workshops am heutigen Tag.",
+            "hu": "Fedezze fel a helyi művészetet ünneplő kiállításokat, és feltétlenül kérdezze meg a recepciót a mai ingyenes interaktív workshopokról.",
+            "ro": "Explorați expozițiile contemporane care celebrează arta locală și întrebați la recepție despre atelierele interactive gratuite de astăzi.",
+            "en": "Explore contemporary exhibitions celebrating local artistry, ensuring you ask the front desk about any free interactive workshops today."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Waschhaus",
+            "hu": "Régi mosóház",
+            "ro": "Vechea spălătorie",
+            "en": "Vieux lavoir"
+          },
+          "coords": [
+            -1.866214,
+            48.051736
+          ],
+          "category": "historical",
+          "arrive_at": "10:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Fühlen Sie sich an diesem erhaltenen Waschplatz in die Vergangenheit versetzt und bringen Sie eine Kamera für die rustikalen Spiegelungen mit.",
+            "hu": "Lépjen vissza az időben ezen a régi mosóhelyen, és hozzon magával fényképezőgépet, hogy megörökítse a rusztikus, mohás tükröződéseket.",
+            "ro": "Întoarceți-vă în timp la această spălătorie păstrată ce evidențiază viața rurală veche, aducând o cameră pentru reflexiile sale rustice.",
+            "en": "Step back in time at this preserved washing place that highlights old rural life, bringing a camera to capture its rustic, mossy reflections."
+          }
+        },
+        {
+          "name": {
+            "de": "Musikschule Triolet 24",
+            "hu": "Triolet 24 Zeneiskola",
+            "ro": "Școala de Muzică Triolet 24",
+            "en": "École de Musique Triolet 24"
+          },
+          "coords": [
+            -1.862588,
+            48.047616
+          ],
+          "category": "cultural",
+          "arrive_at": "12:20",
+          "stay_min": 55,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Hören Sie den Schülern an diesem lebendigen kulturellen Eckpfeiler beim Üben zu und pausieren Sie auf den Bänken für ein spontanes Konzert.",
+            "hu": "Hallgassa a gyakorló diákokat ezen az élénk kulturális helyszínen, megpihenve a közeli padokon egy spontán szabadtéri szerenád erejéig.",
+            "ro": "Ascultați elevii exersând la acest punct cultural vibrant, făcând o pauză pe băncile din apropiere pentru o serenadă spontană în aer liber.",
+            "en": "Listen to students practicing at this lively cultural cornerstone, pausing on the nearby benches to enjoy a spontaneous outdoor serenade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am charmanten Rathaus und führt weiter zur friedlichen Kirche Saint-Malo. Mittags bietet das Brocéliande-Zentrum kulturelle Einblicke. Der Nachmittag lädt dazu ein, das historische Vieux Lavoir zu bewundern. Der Abend klingt mit künstlerischem Flair nahe der Musikschule aus.",
+        "hu": "A reggel a bájos városházánál kezdődik, mielőtt átsétálna a békés Saint-Malo templomhoz. A dél tanulmányi élményeket kínál a Brocéliande központban. A délután folyamán megcsodálhatja a történelmi Vieux Lavoir-t. Az estét a zeneiskola művészeti hangulata zárja.",
+        "ro": "Dimineața începe la fermecătoarea primărie, înainte de a rătăci spre pașnica biserică Saint-Malo. Prânzul oferă perspective culturale la centrul Brocéliande. După-amiaza vă invită să admirați istoricul Vieux Lavoir. Seara se încheie cu o vibrație artistică lângă școala de muzică.",
+        "en": "Morning begins at the charming Town Hall, setting a civic tone before wandering to the peaceful Saint-Malo Church. Midday offers cultural insights at the Brocéliande center. Afternoon finds you admiring the historical Vieux Lavoir. Evening winds down with artistic vibes near the music school."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:15",
+      "total_km": 6.03,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Malo",
+            "hu": "Saint-Malo Templom",
+            "ro": "Biserica Saint-Malo",
+            "en": "Saint-Malo Church"
+          },
+          "coords": [
+            -1.868319,
+            48.048394
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Glasfenster in diesem historischen Zentrum, um die Atmosphäre zu spüren, und kommen Sie früh für das beste Morgenlicht.",
+            "hu": "Csodálja meg az ólomüveg ablakokat ebben a történelmi központban, és érkezzen korán, hogy elcsípje a legszebb reggeli fényeket.",
+            "ro": "Admirați vitraliile din acest centru religios istoric pentru a simți atmosfera pașnică, ajungând devreme pentru cea mai bună lumină.",
+            "en": "Marvel at the stained glass in this historic religious center to feel the peaceful atmosphere, arriving early to catch the best morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Waschhaus",
+            "hu": "Régi mosóház",
+            "ro": "Vechea spălătorie",
+            "en": "Vieux lavoir"
+          },
+          "coords": [
+            -1.866214,
+            48.051736
+          ],
+          "category": "historical",
+          "arrive_at": "09:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Fühlen Sie sich an diesem erhaltenen Waschplatz in die Vergangenheit versetzt und bringen Sie eine Kamera für die rustikalen Spiegelungen mit.",
+            "hu": "Lépjen vissza az időben ezen a régi mosóhelyen, és hozzon magával fényképezőgépet, hogy megörökítse a rusztikus, mohás tükröződéseket.",
+            "ro": "Întoarceți-vă în timp la această spălătorie păstrată ce evidențiază viața rurală veche, aducând o cameră pentru reflexiile sale rustice.",
+            "en": "Step back in time at this preserved washing place that highlights old rural life, bringing a camera to capture its rustic, mossy reflections."
+          }
+        },
+        {
+          "name": {
+            "de": "Gärten von Brocéliande",
+            "hu": "Brocéliande Kertek",
+            "ro": "Grădinile Brocéliande",
+            "en": "Jardins de Brocéliande"
+          },
+          "coords": [
+            -1.888736,
+            48.056706
+          ],
+          "category": "recreational",
+          "arrive_at": "11:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.75,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die Sinnespfade dieser weitläufigen Gärten und tragen Sie bequeme Schuhe für die abenteuerlichen Barfußstrecken.",
+            "hu": "Sétáljon végig az érzékszervi ösvényeken ezekben a hatalmas kertekben, és viseljen nagyon kényelmes cipőt a hosszú mezítlábas utakra.",
+            "ro": "Plimbați-vă pe traseele senzoriale din aceste grădini vaste pentru a vă reconecta cu natura, purtând încălțăminte comodă pentru potecile desculțe.",
+            "en": "Wander through sensory trails in these expansive gardens to reconnect with nature, wearing very comfortable shoes for the long barefoot paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Gallo-römische Stätte",
+            "hu": "Gall-római lelőhely",
+            "ro": "Situl galo-roman",
+            "en": "Site gallo-romain de la Bouexière"
+          },
+          "coords": [
+            -1.900544,
+            48.049526
+          ],
+          "category": "historical",
+          "arrive_at": "12:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.18,
+          "tip_5lang": {
+            "de": "Entdecken Sie alte Fundamente, die von frühen Siedlungen zeugen, und lesen Sie die Tafeln sorgfältig, da die Beschilderung recht spärlich ist.",
+            "hu": "Fedezze fel az ősi alapokat, amelyek a korai településeket mutatják, és olvassa el figyelmesen a táblákat, mivel a feliratok meglehetősen ritkák.",
+            "ro": "Descoperiți fundațiile antice ce dezvăluie așezările timpurii, citind cu atenție plăcile informative, deoarece semnalizarea este destul de rară.",
+            "en": "Discover ancient foundations revealing early settlements in the region, reading the informational plaques carefully as signage is quite sparse."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Bréal-sous-Montfort",
+            "hu": "Bréal-sous-Montfort Városháza",
+            "ro": "Primăria Bréal-sous-Montfort",
+            "en": "Town Hall of Bréal-sous-Montfort"
+          },
+          "coords": [
+            -1.864109,
+            48.048485
+          ],
+          "category": "civic",
+          "arrive_at": "14:20",
+          "stay_min": 55,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die bürgerliche Architektur dieses lokalen Zentrums, um die Stadtgeschichte zu verstehen, und prüfen Sie die Aushänge.",
+            "hu": "Csodálja meg ennek a helyi központnak a polgári építészetét, és nézze meg a hirdetőtáblákat a közösségi esti eseményekért.",
+            "ro": "Admirați arhitectura civică a acestui centru local pentru istoria sa și verificați avizierele pentru evenimentele comunitare de seară.",
+            "en": "Admire the civic architecture of this local hub to understand town history, and check the notice boards for evening community events."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Tour an der Kirche Saint-Malo und radeln Sie dann zum malerischen Vieux Lavoir. Mittags lockt die Erkundung der üppigen Jardins de Brocéliande. Nachmittags wird am gallo-römischen Ort antike Geschichte lebendig. Der Abend endet gemütlich am Rathausplatz.",
+        "hu": "Kezdje a kerékpározást a fenséges Saint-Malo templomnál, mielőtt eltekerne a festői Vieux Lavoir felé. A dél a buja Jardins de Brocéliande felfedezését kínálja. A délután az ókori történelmet kelti életre a gall-római lelőhelyen. Az este a városháza terén fejeződik be kellemesen.",
+        "ro": "Începeți plimbarea cu bicicleta de la biserica Saint-Malo înainte de a pedala spre pitorescul Vieux Lavoir. Prânzul vă cheamă să explorați luxuriantele Jardins de Brocéliande. După-amiaza reînvie istoria antică la situl galo-roman. Seara se încheie liniștit în piața primăriei.",
+        "en": "Kick off your ride at the grand Saint-Malo Church before pedaling to the quaint Vieux Lavoir. Midday calls for exploring the lush Jardins de Brocéliande. Afternoon brings ancient history alive at the gallo-roman site. Evening concludes smoothly at the local Town Hall square."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:50",
+      "total_km": 6.33,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Gallo-römische Stätte",
+            "hu": "Gall-római lelőhely",
+            "ro": "Situl galo-roman",
+            "en": "Site gallo-romain de la Bouexière"
+          },
+          "coords": [
+            -1.900544,
+            48.049526
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie alte Fundamente, die von frühen Siedlungen zeugen, und lesen Sie die Tafeln sorgfältig, da die Beschilderung recht spärlich ist.",
+            "hu": "Fedezze fel az ősi alapokat, amelyek a korai településeket mutatják, és olvassa el figyelmesen a táblákat, mivel a feliratok meglehetősen ritkák.",
+            "ro": "Descoperiți fundațiile antice ce dezvăluie așezările timpurii, citind cu atenție plăcile informative, deoarece semnalizarea este destul de rară.",
+            "en": "Discover ancient foundations revealing early settlements in the region, reading the informational plaques carefully as signage is quite sparse."
+          }
+        },
+        {
+          "name": {
+            "de": "Gärten von Brocéliande",
+            "hu": "Brocéliande Kertek",
+            "ro": "Grădinile Brocéliande",
+            "en": "Jardins de Brocéliande"
+          },
+          "coords": [
+            -1.888736,
+            48.056706
+          ],
+          "category": "recreational",
+          "arrive_at": "10:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.18,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die Sinnespfade dieser weitläufigen Gärten und tragen Sie bequeme Schuhe für die abenteuerlichen Barfußstrecken.",
+            "hu": "Sétáljon végig az érzékszervi ösvényeken ezekben a hatalmas kertekben, és viseljen nagyon kényelmes cipőt a hosszú mezítlábas utakra.",
+            "ro": "Plimbați-vă pe traseele senzoriale din aceste grădini vaste pentru a vă reconecta cu natura, purtând încălțăminte comodă pentru potecile desculțe.",
+            "en": "Wander through sensory trails in these expansive gardens to reconnect with nature, wearing very comfortable shoes for the long barefoot paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Malo",
+            "hu": "Saint-Malo Templom",
+            "ro": "Biserica Saint-Malo",
+            "en": "Saint-Malo Church"
+          },
+          "coords": [
+            -1.868319,
+            48.048394
+          ],
+          "category": "religious",
+          "arrive_at": "11:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.75,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Glasfenster in diesem historischen Zentrum, um die Atmosphäre zu spüren, und kommen Sie früh für das beste Morgenlicht.",
+            "hu": "Csodálja meg az ólomüveg ablakokat ebben a történelmi központban, és érkezzen korán, hogy elcsípje a legszebb reggeli fényeket.",
+            "ro": "Admirați vitraliile din acest centru religios istoric pentru a simți atmosfera pașnică, ajungând devreme pentru cea mai bună lumină.",
+            "en": "Marvel at the stained glass in this historic religious center to feel the peaceful atmosphere, arriving early to catch the best morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Altes Waschhaus",
+            "hu": "Régi mosóház",
+            "ro": "Vechea spălătorie",
+            "en": "Vieux lavoir"
+          },
+          "coords": [
+            -1.866214,
+            48.051736
+          ],
+          "category": "historical",
+          "arrive_at": "12:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Fühlen Sie sich an diesem erhaltenen Waschplatz in die Vergangenheit versetzt und bringen Sie eine Kamera für die rustikalen Spiegelungen mit.",
+            "hu": "Lépjen vissza az időben ezen a régi mosóhelyen, és hozzon magával fényképezőgépet, hogy megörökítse a rusztikus, mohás tükröződéseket.",
+            "ro": "Întoarceți-vă în timp la această spălătorie păstrată ce evidențiază viața rurală veche, aducând o cameră pentru reflexiile sale rustice.",
+            "en": "Step back in time at this preserved washing place that highlights old rural life, bringing a camera to capture its rustic, mossy reflections."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Molant",
+            "hu": "Molant Kastély",
+            "ro": "Castelul Molant",
+            "en": "Château du Molant"
+          },
+          "coords": [
+            -1.826584,
+            48.054634
+          ],
+          "category": "historical",
+          "arrive_at": "14:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Fassade dieses großartigen Anwesens, um das aristokratische Erbe zu schätzen, und buchen Sie eine Führung im Voraus.",
+            "hu": "Csodálja meg ennek a fenséges történelmi birtoknak az elegáns homlokzatát, és ha lehetséges, foglaljon előre vezetett túrát az élményért.",
+            "ro": "Admirați fațada elegantă a acestui domeniu istoric grandios pentru moștenirea sa aristocratică, rezervând un tur ghidat în avans dacă este posibil.",
+            "en": "Admire the elegant facade of this grand historical estate to appreciate aristocratic heritage, booking a guided tour ahead if available."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen offenbart lokale Wurzeln am gallo-römischen Ort, bevor Sie zu den weitläufigen Jardins de Brocéliande fahren. Mittags geht es ins Stadtzentrum zur Kirche Saint-Malo. Der Nachmittag zeigt rustikalen Charme am Vieux Lavoir. Der Abend wird majestätisch am Château du Molant verbracht.",
+        "hu": "A reggel felfedi a helyi gyökereket a gall-római lelőhelyen, mielőtt a hatalmas Jardins de Brocéliande felé hajtana. A dél a városközpontba hív a Saint-Malo templomhoz. A délután rusztikus bájt tár fel a Vieux Lavoir-nál. Az estét a Château du Molant fenséges felfedezése tölti ki.",
+        "ro": "Dimineața descoperă rădăcinile locale la situl galo-roman înainte de a conduce spre întinsele Jardins de Brocéliande. Prânzul se mută în centrul orașului la biserica Saint-Malo. După-amiaza dezvăluie farmecul rustic la Vieux Lavoir. Seara este petrecută maiestuos explorând Château du Molant.",
+        "en": "Morning uncovers local roots at the gallo-roman site before driving to the sprawling Jardins de Brocéliande. Midday shifts to the town center to visit the Saint-Malo Church. Afternoon reveals rustic charm at the Vieux Lavoir. Evening is majestically spent exploring the Château du Molant."
+      }
+    }
+  }
+}

@@ -1,0 +1,497 @@
+{
+  "city_id": "spain-santona-cities-v2",
+  "anchor": {
+    "name": "Santoña",
+    "coords": [
+      -3.45536,
+      43.44494
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:02",
+      "total_km": 2.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ayuntamiento de Santoña",
+            "hu": "Ayuntamiento de Santoña",
+            "ro": "Ayuntamiento de Santoña",
+            "en": "Ayuntamiento de Santoña"
+          },
+          "coords": [
+            -3.45615,
+            43.444851
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Fassade des Rathauses, bevor Sie den lokalen Markt besuchen, und kommen Sie früh, um den Menschenmassen zu entgehen.",
+            "hu": "Csodálja meg a városháza elegáns homlokzatát, mielőtt felkeresné a helyi piacot, és érkezzen korán, hogy elkerülje a nyüzsgő tömeget.",
+            "ro": "Admirați fațada elegantă a primăriei înainte de a vizita piața locală și asigurați-vă că ajungeți devreme pentru a evita aglomerația.",
+            "en": "Admire the elegant facade of the town hall before visiting the local market, making sure to arrive early to avoid the bustling crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque de Manzanedo",
+            "hu": "Parque de Manzanedo",
+            "ro": "Parque de Manzanedo",
+            "en": "Parque de Manzanedo"
+          },
+          "coords": [
+            -3.455139,
+            43.445074
+          ],
+          "category": "park",
+          "arrive_at": "10:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Machen Sie einen entspannten Spaziergang unter den alten Bäumen dieses schönen Parks und bringen Sie ein kleines Picknick für eine der Bänke mit.",
+            "hu": "Tegyen egy pihentető sétát e gyönyörű park idős fái alatt, és hozzon magával egy kis pikniket, amelyet a sok árnyékos pad egyikén fogyaszthat el.",
+            "ro": "Faceți o plimbare relaxantă pe sub copacii maturi din acest parc frumos și aduceți un mic picnic pentru a-l savura pe una dintre băncile umbrite.",
+            "en": "Take a relaxing stroll under the mature trees of this beautiful park, and bring a small picnic to enjoy on one of its many shaded benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a Juan de la Cosa",
+            "hu": "Monumento a Juan de la Cosa",
+            "ro": "Monumento a Juan de la Cosa",
+            "en": "Monumento a Juan de la Cosa"
+          },
+          "coords": [
+            -3.455415,
+            43.439648
+          ],
+          "category": "historical",
+          "arrive_at": "11:56",
+          "stay_min": 15,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Zollen Sie dem berühmten Kartographen Tribut, der die erste Weltkarte zeichnete, und betrachten Sie die feinen Details am Sockel des Denkmals.",
+            "hu": "Tisztelegjen az első világtérképet rajzoló híres térképész előtt, és szánjon időt az emlékmű talapzatára vésett bonyolult részletek tanulmányozására.",
+            "ro": "Aduceți un omagiu celebrului cartograf care a desenat prima hartă a lumii, făcându-vă timp să examinați detaliile complexe de pe baza monumentului.",
+            "en": "Pay tribute to the famous cartographer who drew the first world map, taking time to examine the intricate details engraved on the monument's base."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa del Pasaje",
+            "hu": "Playa del Pasaje",
+            "ro": "Playa del Pasaje",
+            "en": "Playa del Pasaje"
+          },
+          "coords": [
+            -3.456994,
+            43.439084
+          ],
+          "category": "recreational",
+          "arrive_at": "12:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie über den ruhigen Sand dieses Strandes an der Bucht und nehmen Sie eine leichte Jacke mit, da die Meeresbrise oft frisch sein kann.",
+            "hu": "Sétáljon végig az öbölre néző strand békés homokján, és hozzon magával egy vékony kabátot, mivel a parti szellő délutánonként meglehetősen hűvös lehet.",
+            "ro": "Plimbați-vă pe nisipul liniștit al acestei plaje cu vedere la golf, luând o jachetă ușoară deoarece briza poate fi destul de rece după-amiaza.",
+            "en": "Walk along the serene sands of this bay-facing beach, bringing a light jacket as the coastal breeze can sometimes feel quite crisp in the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Fuerte de San Martín",
+            "hu": "Fuerte de San Martín",
+            "ro": "Fuerte de San Martín",
+            "en": "Fuerte de San Martín"
+          },
+          "coords": [
+            -3.447176,
+            43.439286
+          ],
+          "category": "castle",
+          "arrive_at": "13:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese imposante Küstenfestung aus dem 17. Jahrhundert und tragen Sie bequeme Schuhe, um sicher über die unebenen Steinwege zu gehen.",
+            "hu": "Fedezze fel ezt az öblöt védő, 17. századi impozáns tengerparti erődöt, és viseljen kényelmes cipőt, hogy biztonságosan navigálhasson az egyenetlen utakon.",
+            "ro": "Explorați această fortăreață de coastă impunătoare din secolul al XVII-lea și purtați pantofi confortabili pentru a naviga în siguranță pe aleile pietruite.",
+            "en": "Explore this imposing 17th-century coastal fortress that protected the bay, wearing comfortable shoes to navigate its uneven stone pathways safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Fuerte de San Carlos",
+            "hu": "Fuerte de San Carlos",
+            "ro": "Fuerte de San Carlos",
+            "en": "Fuerte de San Carlos"
+          },
+          "coords": [
+            -3.439043,
+            43.437623
+          ],
+          "category": "castle",
+          "arrive_at": "15:12",
+          "stay_min": 110,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Ruinen dieser historischen Festung am Wasser und bringen Sie Ihre Kamera für spektakuläre, freie Ausblicke auf das Meer mit.",
+            "hu": "Fedezze fel e történelmi erődítmény romjait a vízpart közelében, és hozza magával fényképezőgépét, hogy megörökítse a tengerre nyíló lenyűgöző kilátást.",
+            "ro": "Descoperiți ruinele acestei fortărețe istorice din apropierea apei și aduceți-vă aparatul foto pentru priveliști spectaculoase și neobstrucționate asupra mării.",
+            "en": "Discover the strategic ruins of this historic stronghold near the water's edge, bringing your camera for spectacular, unobstructed views of the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der Erkundung des historischen Zentrums von Santoña, einschließlich des eleganten Rathauses und des Parque de Manzanedo. Mittags ehren Sie das maritime Erbe am Denkmal von Juan de la Cosa, bevor Sie die Brise an der Playa del Pasaje genießen. Am Nachmittag wagen Sie sich zu den beeindruckenden Küstenfestungen und beginnen mit den Mauern des Fuerte de San Martín. Beenden Sie Ihre Tour am Fuerte de San Carlos und beobachten Sie die Sonnenuntergangsfarben auf dem Meer.",
+        "hu": "Kezdje a reggelt Santoña történelmi központjának felfedezésével, megtekintve az elegáns városházát és a Parque de Manzanedo békés ösvényeit. Délben tisztelegjen a tengerészeti örökség előtt a Juan de la Cosa emlékműnél, majd élvezze a szellőt a Playa del Pasaje mentén. Délután merészkedjen el a lenyűgöző part menti erődítményekhez, kezdve a Fuerte de San Martín impozáns falaival. Zárja a sétát a Fuerte de San Carlosnál, figyelve a naplemente színeit a tenger hullámain.",
+        "ro": "Începeți dimineața explorând inima istorică a Santoña, admirând primăria elegantă și aleile liniștite din Parque de Manzanedo. Până la prânz, onorați moștenirea maritimă la monumentul Juan de la Cosa, înainte de a vă bucura de briza mării pe Playa del Pasaje. După-amiaza, aventurați-vă la impresionantele fortificații de coastă, începând cu zidurile de la Fuerte de San Martín. Încheiați-vă turul la Fuerte de San Carlos, privind culorile apusului reflectate pe valuri.",
+        "en": "Start your morning exploring the historical heart of Santoña, taking in the elegant town hall and the peaceful pathways of Parque de Manzanedo. By midday, honor the town's seafaring legacy at the Juan de la Cosa monument before enjoying the calming breeze along Playa del Pasaje. In the afternoon, venture out to the impressive coastal fortifications, beginning with the imposing walls of Fuerte de San Martín. Conclude your walking tour at Fuerte de San Carlos, watching the sunset colors reflect off the ocean waves."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:54",
+      "total_km": 4.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Mirador Sorbal",
+            "hu": "Mirador Sorbal",
+            "ro": "Mirador Sorbal",
+            "en": "Mirador Sorbal"
+          },
+          "coords": [
+            -3.457845,
+            43.452927
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem Aussichtspunkt einen herrlichen Panoramablick über die Sumpfgebiete, was ihn zu einem idealen Ort für frühe Fotos macht.",
+            "hu": "Élvezze a környező mocsarakra nyíló csodálatos panorámát ebből a magasan fekvő kilátóból, amely ideális hely a kora reggeli fotózáshoz.",
+            "ro": "Bucurați-vă de o vedere panoramică magnifică asupra mlaștinilor din acest punct de belvedere, acesta fiind un loc ideal pentru fotografia matinală.",
+            "en": "Enjoy a magnificent panoramic view over the surrounding marshlands from this elevated viewpoint, making it an ideal spot for early morning photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Palacio de los Marqueses de Chiloeches",
+            "hu": "Casa Palacio de los Marqueses de Chiloeches",
+            "ro": "Casa Palacio de los Marqueses de Chiloeches",
+            "en": "Casa Palacio de los Marqueses de Chiloeches"
+          },
+          "coords": [
+            -3.457419,
+            43.442525
+          ],
+          "category": "landmark",
+          "arrive_at": "09:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Betrachten Sie die klassische kantabrische Architektur dieses Palastes und achten Sie auf das beeindruckende Wappen, während Sie ihn umrunden.",
+            "hu": "Figyelje meg a palota klasszikus kantábriai arisztokrata építészetét, és vegye észre a lenyűgöző címerét, miközben körbesétálja a csendes külsejét.",
+            "ro": "Observați arhitectura aristocratică clasică din Cantabria a acestui palat și remarcați blazonul său impresionant în timp ce vă plimbați pe afară.",
+            "en": "Observe the classic Cantabrian aristocratic architecture of this palace, noting its impressive coat of arms while walking around its quiet exterior."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro de Visitantes del Parque Natural",
+            "hu": "Centro de Visitantes del Parque Natural",
+            "ro": "Centro de Visitantes del Parque Natural",
+            "en": "Centro de Visitantes del Parque Natural"
+          },
+          "coords": [
+            -3.462852,
+            43.441828
+          ],
+          "category": "museum",
+          "arrive_at": "11:04",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem Museum mehr über die reiche Artenvielfalt der Feuchtgebiete und holen Sie sich an der Rezeption eine kostenlose Karte.",
+            "hu": "Ismerje meg a vizes élőhelyek gazdag biológiai sokféleségét ebben az interaktív múzeumban, és kérjen egy ingyenes térképet a recepción a továbbutazáshoz.",
+            "ro": "Învățați despre biodiversitatea bogată a zonelor umede la acest muzeu interactiv și luați o hartă gratuită de la recepție pentru a vă ghida.",
+            "en": "Learn about the rich biodiversity of the wetlands at this interactive museum, and grab a free map from the reception to guide your onward journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Pescadores",
+            "hu": "Pescadores",
+            "ro": "Pescadores",
+            "en": "Pescadores"
+          },
+          "coords": [
+            -3.459527,
+            43.43877
+          ],
+          "category": "historical",
+          "arrive_at": "12:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die maritime Atmosphäre des Fischerviertels, wo ein Halt in einer nahegelegenen Taverne für frische Sardellen ein Muss ist.",
+            "hu": "Szívja magába a helyi halásznegyed hiteles tengeri hangulatát, ahol feltétlenül meg kell állnia egy közeli kocsmában, hogy megkóstolja a friss szardellát.",
+            "ro": "Absorbiți atmosfera maritimă autentică a cartierului pescarilor, unde o oprire la o tavernă pentru hamsii proaspete este o necesitate absolută.",
+            "en": "Soak in the authentic maritime atmosphere of the local fishermen's quarter, where stopping at a nearby tavern for fresh anchovies is an absolute must."
+          }
+        },
+        {
+          "name": {
+            "de": "Fuerte de San Martín",
+            "hu": "Fuerte de San Martín",
+            "ro": "Fuerte de San Martín",
+            "en": "Fuerte de San Martín"
+          },
+          "coords": [
+            -3.447176,
+            43.439286
+          ],
+          "category": "castle",
+          "arrive_at": "14:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese imposante Küstenfestung aus dem 17. Jahrhundert und tragen Sie bequeme Schuhe, um sicher über die unebenen Steinwege zu gehen.",
+            "hu": "Fedezze fel ezt az öblöt védő, 17. századi impozáns tengerparti erődöt, és viseljen kényelmes cipőt, hogy biztonságosan navigálhasson az egyenetlen utakon.",
+            "ro": "Explorați această fortăreață de coastă impunătoare din secolul al XVII-lea și purtați pantofi confortabili pentru a naviga în siguranță pe aleile pietruite.",
+            "en": "Explore this imposing 17th-century coastal fortress that protected the bay, wearing comfortable shoes to navigate its uneven stone pathways safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Batería Baja de Galvanes",
+            "hu": "Batería Baja de Galvanes",
+            "ro": "Batería Baja de Galvanes",
+            "en": "Batería Baja de Galvanes"
+          },
+          "coords": [
+            -3.444693,
+            43.438945
+          ],
+          "category": "historical",
+          "arrive_at": "15:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die historischen Geschützstellungen, die einst den Hafen verteidigten, und kommen Sie am späten Nachmittag für magisches Licht.",
+            "hu": "Sétáljon végig a kikötőt egykor védő történelmi ágyúállásokon, és időzítse látogatását a késő délutánra, amikor a fényviszonyok egyszerűen varázslatosak.",
+            "ro": "Plimbați-vă prin amplasamentele istorice de artilerie care apărau portul, planificându-vă vizita după-amiaza târziu când lumina este magică.",
+            "en": "Walk through the historic gun emplacements that once defended the port, timing your visit for the late afternoon when the lighting is simply magical."
+          }
+        },
+        {
+          "name": {
+            "de": "Buciero",
+            "hu": "Buciero",
+            "ro": "Buciero",
+            "en": "Buciero"
+          },
+          "coords": [
+            -3.441896,
+            43.44714
+          ],
+          "category": "natural",
+          "arrive_at": "16:59",
+          "stay_min": 55,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Wandern Sie auf diese raue Berglandschaft, um atemberaubende Küstenblicke zu genießen, und bringen Sie viel Wasser sowie feste Wanderschuhe mit.",
+            "hu": "Túrázzon fel ezen a zord hegyvidéki tájon, hogy lélegzetelállító tengerparti kilátásban legyen része, és vigyen magával bőségesen vizet és erős túracipőt.",
+            "ro": "Urcați pe acest peisaj montan accidentat pentru priveliști de coastă uluitoare, asigurându-vă că aduceți multă apă și purtați bocanci solizi.",
+            "en": "Trek up this rugged mountain landscape to experience breathtaking coastal vistas, ensuring you bring plenty of water and wear sturdy hiking boots."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag mit dem Panoramablick vom Mirador Sorbal, bevor Sie zur herrschaftlichen Casa Palacio de los Marqueses de Chiloeches fahren. Gegen Mittag erkunden Sie die ökologischen Wunder im Besucherzentrum und das traditionelle Fischerviertel. Die nachmittägliche Fahrt führt Sie an der Küste entlang, um die historischen Verteidigungsanlagen wie Fuerte de San Martín zu entdecken. Das Abenteuer endet wunderschön am Fuße des Berges Buciero mit dramatischen abendlichen Aussichten.",
+        "hu": "Kezdje a kerékpáros napot a Mirador Sorbal panorámájával, majd tekerjen le a Casa Palacio de los Marqueses de Chiloeches megtekintéséhez. Dél körül merüljön el a vizes élőhelyek ökológiai csodáiban a látogatóközpontban, majd látogasson el a halásznegyedbe. A délutáni tekerés a festői tengerpart mentén halad, ahol felfedezheti a Fuerte de San Martín történelmi védműveit. A kaland gyönyörűen ér véget, ahogy a Buciero-hegy lábához érkezve drámai esti kilátásban gyönyörködhet.",
+        "ro": "Începeți ziua de ciclism cu vederi panoramice de la Mirador Sorbal, înainte de a coborî pentru a admira Casa Palacio de los Marqueses de Chiloeches. În jurul prânzului, descoperiți minunile ecologice ale zonelor umede la centrul de vizitatori, urmat de o oprire în cartierul pescarilor. Plimbarea de după-amiază vă duce de-a lungul coastei pitorești pentru a explora Fuerte de San Martín. Aventura se încheie la baza Muntelui Buciero, bucurându-vă de perspective dramatice la lăsarea serii.",
+        "en": "Kick off your cycling day with panoramic views from Mirador Sorbal before riding down to admire the stately Casa Palacio de los Marqueses de Chiloeches. Around noon, dive into the ecological wonders of the local wetlands at the visitor center, followed by a cultural stop in the traditional fishermen's quarter. Afternoon riding takes you along the scenic coast to explore the historic defenses of Fuerte de San Martín and Batería Baja. Your adventure ends beautifully as you cycle toward the base of Mount Buciero for dramatic evening vistas."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:08",
+      "total_km": 3.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mirador del Gromo",
+            "hu": "Mirador del Gromo",
+            "ro": "Mirador del Gromo",
+            "en": "Mirador del Gromo"
+          },
+          "coords": [
+            -3.475596,
+            43.444221
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem Aussichtspunkt für weite Blicke auf die Bucht und die Sümpfe, was ihn zu einem perfekten kurzen Stopp für frühe Fotos macht.",
+            "hu": "Álljon meg ezen a festői kilátóhelyen, ahonnan elsöprő kilátás nyílik az öbölre és a mocsarakra, így tökéletes rövid megálló a nap indításához.",
+            "ro": "Opriți-vă la acest punct de belvedere pitoresc pentru priveliști ample asupra golfului și mlaștinilor, fiind o oprire perfectă pentru a începe ziua.",
+            "en": "Stop at this scenic viewpoint for sweeping vistas of the bay and marshlands, making it a perfect quick stop to start your day with incredible photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro de Visitantes del Parque Natural",
+            "hu": "Centro de Visitantes del Parque Natural",
+            "ro": "Centro de Visitantes del Parque Natural",
+            "en": "Centro de Visitantes del Parque Natural"
+          },
+          "coords": [
+            -3.462852,
+            43.441828
+          ],
+          "category": "museum",
+          "arrive_at": "09:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem Museum mehr über die reiche Artenvielfalt der Feuchtgebiete und holen Sie sich an der Rezeption eine kostenlose Karte.",
+            "hu": "Ismerje meg a vizes élőhelyek gazdag biológiai sokféleségét ebben az interaktív múzeumban, és kérjen egy ingyenes térképet a recepción a továbbutazáshoz.",
+            "ro": "Învățați despre biodiversitatea bogată a zonelor umede la acest muzeu interactiv și luați o hartă gratuită de la recepție pentru a vă ghida.",
+            "en": "Learn about the rich biodiversity of the wetlands at this interactive museum, and grab a free map from the reception to guide your onward journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Palacio de los Marqueses de Chiloeches",
+            "hu": "Casa Palacio de los Marqueses de Chiloeches",
+            "ro": "Casa Palacio de los Marqueses de Chiloeches",
+            "en": "Casa Palacio de los Marqueses de Chiloeches"
+          },
+          "coords": [
+            -3.457419,
+            43.442525
+          ],
+          "category": "landmark",
+          "arrive_at": "11:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Betrachten Sie die klassische kantabrische Architektur dieses Palastes und achten Sie auf das beeindruckende Wappen, während Sie ihn umrunden.",
+            "hu": "Figyelje meg a palota klasszikus kantábriai arisztokrata építészetét, és vegye észre a lenyűgöző címerét, miközben körbesétálja a csendes külsejét.",
+            "ro": "Observați arhitectura aristocratică clasică din Cantabria a acestui palat și remarcați blazonul său impresionant în timp ce vă plimbați pe afară.",
+            "en": "Observe the classic Cantabrian aristocratic architecture of this palace, noting its impressive coat of arms while walking around its quiet exterior."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque de Manzanedo",
+            "hu": "Parque de Manzanedo",
+            "ro": "Parque de Manzanedo",
+            "en": "Parque de Manzanedo"
+          },
+          "coords": [
+            -3.455139,
+            43.445074
+          ],
+          "category": "park",
+          "arrive_at": "12:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Machen Sie einen entspannten Spaziergang unter den alten Bäumen dieses schönen Parks und bringen Sie ein kleines Picknick für eine der Bänke mit.",
+            "hu": "Tegyen egy pihentető sétát e gyönyörű park idős fái alatt, és hozzon magával egy kis pikniket, amelyet a sok árnyékos pad egyikén fogyaszthat el.",
+            "ro": "Faceți o plimbare relaxantă pe sub copacii maturi din acest parc frumos și aduceți un mic picnic pentru a-l savura pe una dintre băncile umbrite.",
+            "en": "Take a relaxing stroll under the mature trees of this beautiful park, and bring a small picnic to enjoy on one of its many shaded benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Fuerte de San Martín",
+            "hu": "Fuerte de San Martín",
+            "ro": "Fuerte de San Martín",
+            "en": "Fuerte de San Martín"
+          },
+          "coords": [
+            -3.447176,
+            43.439286
+          ],
+          "category": "castle",
+          "arrive_at": "13:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese imposante Küstenfestung aus dem 17. Jahrhundert und tragen Sie bequeme Schuhe, um sicher über die unebenen Steinwege zu gehen.",
+            "hu": "Fedezze fel ezt az öblöt védő, 17. századi impozáns tengerparti erődöt, és viseljen kényelmes cipőt, hogy biztonságosan navigálhasson az egyenetlen utakon.",
+            "ro": "Explorați această fortăreață de coastă impunătoare din secolul al XVII-lea și purtați pantofi confortabili pentru a naviga în siguranță pe aleile pietruite.",
+            "en": "Explore this imposing 17th-century coastal fortress that protected the bay, wearing comfortable shoes to navigate its uneven stone pathways safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Fuerte de San Carlos",
+            "hu": "Fuerte de San Carlos",
+            "ro": "Fuerte de San Carlos",
+            "en": "Fuerte de San Carlos"
+          },
+          "coords": [
+            -3.439043,
+            43.437623
+          ],
+          "category": "castle",
+          "arrive_at": "15:18",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Ruinen dieser historischen Festung am Wasser und bringen Sie Ihre Kamera für spektakuläre, freie Ausblicke auf das Meer mit.",
+            "hu": "Fedezze fel e történelmi erődítmény romjait a vízpart közelében, és hozza magával fényképezőgépét, hogy megörökítse a tengerre nyíló lenyűgöző kilátást.",
+            "ro": "Descoperiți ruinele acestei fortărețe istorice din apropierea apei și aduceți-vă aparatul foto pentru priveliști spectaculoase și neobstrucționate asupra mării.",
+            "en": "Discover the strategic ruins of this historic stronghold near the water's edge, bringing your camera for spectacular, unobstructed views of the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt hoch oben am Mirador del Gromo, wo Sie atemberaubende morgendliche Ausblicke auf die weitläufigen Sumpfgebiete einfangen. Mittags vertiefen Sie Ihr Wissen im Besucherzentrum des Naturparks, bevor Sie den aristokratischen Charme des Chiloeches-Palastes bewundern. Am Nachmittag genießen Sie eine friedliche Pause unter den Bäumen des Parque de Manzanedo. Der Tag endet unvergesslich mit der abendlichen Erkundung der majestätischen Ruinen von Fuerte de San Carlos am Meer.",
+        "hu": "Autós túrája magasan a Mirador del Gromo kilátónál kezdődik, ahonnan lélegzetelállító reggeli kilátás nyílik a kiterjedt mocsarakra. Délben mélyítse el tudását a natúrpark látogatóközpontjában, majd csodálja meg a Chiloeches-palota arisztokratikus varázsát. Délután élvezze a békés pihenést a Parque de Manzanedo fái alatt, mielőtt a part menti erődök felé venné az irányt. A nap a tengerparti Fuerte de San Carlos fenséges romjainak felejthetetlen esti felfedezésével zárul.",
+        "ro": "Turul dvs. cu mașina începe sus, la Mirador del Gromo, captând priveliști matinale uluitoare ale mlaștinilor întinse. La prânz, aprofundați-vă cunoștințele la centrul de vizitatori al parcului natural înainte de a admira farmecul aristocratic al Palatului Chiloeches. După-amiaza, bucurați-vă de un răgaz liniștit sub copacii din Parque de Manzanedo, înainte de a vă îndrepta spre forturile de coastă. Ziua se încheie explorând ruinele maiestuoase ale Fuerte de San Carlos la malul mării.",
+        "en": "Your driving tour starts high up at Mirador del Gromo, capturing breathtaking morning views of the sprawling marshlands and vibrant estuary. By midday, deepen your knowledge at the nature park's visitor center before a quick drive to admire the aristocratic charm of the Chiloeches Palace. In the afternoon, enjoy a peaceful respite under the trees of Parque de Manzanedo before heading towards the coastal forts. The day concludes with an unforgettable evening exploring the majestic ruins of Fuerte de San Carlos by the sea."
+      }
+    }
+  }
+}

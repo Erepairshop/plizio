@@ -1,0 +1,589 @@
+{
+  "city_id": "cyprus-cape-greco-cities-v2",
+  "anchor": {
+    "name": "Cape Greco",
+    "coords": [
+      34.082222,
+      34.961944
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "19:10",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "National Forest Park \"Cape Greco\"",
+            "hu": "Cape Greco Nemzeti Erdőpark",
+            "ro": "Parcul Național Forestier \"Cape Greco\"",
+            "en": "National Forest Park \"Cape Greco\""
+          },
+          "coords": [
+            34.066093,
+            34.972251
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die beeindruckende Biodiversität dieses Küstenreservats auf gut markierten Wegen, aber vergessen Sie nicht, reichlich Wasser mitzunehmen.",
+            "hu": "Fedezze fel e tengerparti rezervátum lenyűgöző biológiai sokféleségét a jól jelzett ösvényeken, de ne felejtsen el sok vizet hozni magával.",
+            "ro": "Explorați biodiversitatea uimitoare a acestei rezervații de coastă pe trasee bine marcate, dar nu uitați să aduceți multă apă, deoarece umbra lipsește.",
+            "en": "Explore the stunning biodiversity of this coastal reserve on clearly marked trails, but remember to bring plenty of water as shade is scarce."
+          }
+        },
+        {
+          "name": {
+            "de": "Wacholderbaum (Tree of Cape Greco)",
+            "hu": "Cape Greco fája (Borókafa)",
+            "ro": "Arborele Cape Greco (Ienupărul)",
+            "en": "Tree of Cape Greco (Juniper Tree)"
+          },
+          "coords": [
+            34.058717,
+            34.972744
+          ],
+          "category": "landmark",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Widerstandskraft dieses ikonischen, windgepeitschten Wacholderbaums, der den Elementen trotzt und ein perfektes Fotomotiv abgibt.",
+            "hu": "Csodálja meg e szélfútta, ikonikus borókafa ellenállóképességét, amely magányosan dacol az elemekkel, és tökéletes témát kínál a fotózáshoz.",
+            "ro": "Admirați rezistența acestui ienupăr emblematic, bătut de vânturi, care înfruntă singur elementele naturii, oferind un subiect perfect pentru fotografii.",
+            "en": "Admire the resilience of this iconic, windswept juniper tree that stands alone against the elements, making it a perfect subject for your photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Kap Greco",
+            "hu": "Cape Greco Kilátópont",
+            "ro": "Punct de belvedere Cape Greco",
+            "en": "Cape Greco View Point"
+          },
+          "coords": [
+            34.065597,
+            34.961882
+          ],
+          "category": "natural",
+          "arrive_at": "12:16",
+          "stay_min": 25,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf das Mittelmeer von dieser dramatischen Klippe aus und kommen Sie früh, um den besten Platz ohne Menschenmassen zu finden.",
+            "hu": "Élvezze a Földközi-tengerre nyíló panorámát erről a drámai szikláról, és érkezzen korán, hogy biztosítson egy nagyszerű helyet a tömeg elkerülésével.",
+            "ro": "Bucurați-vă de vederi panoramice ale Mării Mediterane de pe această stâncă dramatică, sosind devreme pentru un loc perfect, departe de aglomerație.",
+            "en": "Take in panoramic views of the Mediterranean Sea from this dramatic cliffside, arriving early to secure a prime spot away from the midday crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Tauchhöhle",
+            "hu": "Búvárbarlang",
+            "ro": "Peștera de scufundări",
+            "en": "Diving cave"
+          },
+          "coords": [
+            34.072933,
+            34.96361
+          ],
+          "category": "landmark",
+          "arrive_at": "12:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Beobachten Sie mutige Klippenspringer, die in die kristallklaren Tiefen eintauchen, aber prüfen Sie die Meeresbedingungen genau, bevor Sie selbst springen.",
+            "hu": "Nézze meg a kristálytiszta mélységbe ugró bátor sziklaugrókat, de gondosan mérje fel a tengeri viszonyokat, mielőtt ön is megpróbálkozna egy ugrással.",
+            "ro": "Priviți scafandrii curajoși sărind în adâncurile cristaline, dar evaluați cu atenție condițiile mării înainte de a încerca dumneavoastră vreo săritură.",
+            "en": "Witness daring cliff divers plunging into the crystal-clear depths here, but carefully assess the sea conditions before attempting any jumps yourself."
+          }
+        },
+        {
+          "name": {
+            "de": "Blaue Lagune",
+            "hu": "Kék Lagúna",
+            "ro": "Laguna Albastră",
+            "en": "Blue Lagoon"
+          },
+          "coords": [
+            34.079845,
+            34.966188
+          ],
+          "category": "landmark",
+          "arrive_at": "14:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Schwimmen Sie im faszinierenden, leuchtend azurblauen Wasser dieser berühmten Lagune und tragen Sie Badeschuhe, um den felsigen Meeresboden sicher zu meistern.",
+            "hu": "Ússzon a híres lagúna lenyűgöző, élénk azúrkék vizében, és viseljen vizicipőt, hogy biztonságosan közlekedjen a part menti sziklás tengerfenéken.",
+            "ro": "Înotați în apele de un azur vibrant ale acestei faimoase lagune și purtați încălțăminte de apă pentru a naviga în siguranță pe fundul stâncos.",
+            "en": "Swim in the mesmerizing, vibrant azure waters of this famous lagoon, and wear water shoes to safely navigate the rocky seabed along the shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Sünderbrücke",
+            "hu": "Bűnösök hídja",
+            "ro": "Podul Păcătoșilor",
+            "en": "Sinners'es bridge"
+          },
+          "coords": [
+            34.075227,
+            34.971751
+          ],
+          "category": "landmark",
+          "arrive_at": "15:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese markante natürliche Felsformation aus sicherer Entfernung, da das Überqueren des zerbrechlichen Bogens zum Schutz streng verboten ist.",
+            "hu": "Csodálja meg ezt a lenyűgöző természetes sziklaképződményt biztonságos távolságból, mivel a törékeny boltív védelme miatt az átkelés szigorúan tilos.",
+            "ro": "Minunați-vă de această impresionantă formațiune stâncoasă naturală de la distanță, deoarece traversarea arcului fragil este interzisă pentru a-l proteja.",
+            "en": "Marvel at this striking natural rock formation from a safe distance, as crossing the fragile arch is strictly prohibited to preserve its structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Ayioi Anargyroi Höhle",
+            "hu": "Ayioi Anargyroi barlang",
+            "ro": "Peștera Ayioi Anargyroi",
+            "en": "Ayioi Anargyroi Cave"
+          },
+          "coords": [
+            34.076437,
+            34.975903
+          ],
+          "category": "landmark",
+          "arrive_at": "17:20",
+          "stay_min": 110,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Steigen Sie die Steinstufen hinab, um diese verborgene Meereshöhle bei einer charmanten weißen Kapelle zu erkunden, und achten Sie auf rutschige Felsen.",
+            "hu": "Ereszkedjen le a kőlépcsőkön, hogy felfedezze ezt a bájos fehér kápolnához kapcsolódó rejtett tengeri barlangot, vigyázva a vízparti csúszós sziklákra.",
+            "ro": "Coborâți treptele de piatră pentru a explora această peșteră ascunsă legată de o capelă albă fermecătoare, având grijă la stâncile alunecoase de la mal.",
+            "en": "Descend the stone steps to explore this hidden sea cave linked to a charming white chapel, keeping an eye on the slippery rocks near the water edge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag in der rauen Schönheit des Nationalparks und genießen Sie die kühle Morgenbrise. Mittags erreichen Sie den einsamen Wacholderbaum und den atemberaubenden Aussichtspunkt am Kap Greco. Entdecken Sie am Nachmittag die Tauchhöhle und schwimmen Sie in der Blauen Lagune. Ihr Abend endet mit dem goldenen Licht an der Sünderbrücke und einem friedlichen Besuch der Ayioi Anargyroi Höhle.",
+        "hu": "Kezdje a napot a Nemzeti Erdőpark zord szépségében, élvezve a hűvös reggeli szellőt. A délben a magányos borókafa és a tengerre néző lenyűgöző Cape Greco kilátó várja. Délután fedezze fel a búvárbarlang izgalmát, és fürödjön a káprázatos Kék Lagúnában. Az este a bűnösök hídjánál és az Ayioi Anargyroi barlangnál tett békés látogatással zárul a lenyugvó nap fényében.",
+        "ro": "Începeți ziua scufundându-vă în frumusețea sălbatică a Parcului Național Forestier, bucurându-vă de briza dimineții. La prânz, vizitați ienupărul solitar și uimitorul punct de belvedere Cape Greco. După-amiaza, descoperiți emoția peșterii de scufundări și înotați în uimitoarea Lagună Albastră. Seara se încheie cu vederi la podul Păcătoșilor și o vizită pașnică la peștera Ayioi Anargyroi.",
+        "en": "Begin your day immersed in the rugged beauty of the National Forest Park, enjoying the cool morning breeze. Midday brings you to the solitary Juniper Tree and the breathtaking Cape Greco View Point overlooking the vast sea. In the afternoon, discover the thrill of the Diving cave and swim in the dazzling Blue Lagoon. Your evening concludes with golden hour views at Sinners'es bridge and a peaceful visit to Ayioi Anargyroi Cave."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:56",
+      "total_km": 7.3,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Echo",
+            "hu": "Echo",
+            "ro": "Echo",
+            "en": "Echo"
+          },
+          "coords": [
+            34.063499,
+            34.995314
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in der ruhigen Atmosphäre dieses Erholungsortes und bringen Sie Ihr eigenes Picknick mit, da die örtlichen Einrichtungen begrenzt sind.",
+            "hu": "Pihenjen és élvezze ennek a rejtett rekreációs helynek a nyugodt légkörét, és hozzon magával piknikfelszerelést, mivel a helyi lehetőségek korlátozottak.",
+            "ro": "Relaxați-vă în atmosfera liniștită a acestui loc de recreere și asigurați-vă că aduceți provizii pentru picnic, deoarece facilitățile locale sunt limitate.",
+            "en": "Relax and enjoy the tranquil atmosphere of this recreational spot, making sure to bring your own picnic supplies as local amenities are quite limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Ayioi Anargyroi Höhle",
+            "hu": "Ayioi Anargyroi barlang",
+            "ro": "Peștera Ayioi Anargyroi",
+            "en": "Ayioi Anargyroi Cave"
+          },
+          "coords": [
+            34.076437,
+            34.975903
+          ],
+          "category": "landmark",
+          "arrive_at": "10:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Steigen Sie die Steinstufen hinab, um diese verborgene Meereshöhle bei einer charmanten weißen Kapelle zu erkunden, und achten Sie auf rutschige Felsen.",
+            "hu": "Ereszkedjen le a kőlépcsőkön, hogy felfedezze ezt a bájos fehér kápolnához kapcsolódó rejtett tengeri barlangot, vigyázva a vízparti csúszós sziklákra.",
+            "ro": "Coborâți treptele de piatră pentru a explora această peșteră ascunsă legată de o capelă albă fermecătoare, având grijă la stâncile alunecoase de la mal.",
+            "en": "Descend the stone steps to explore this hidden sea cave linked to a charming white chapel, keeping an eye on the slippery rocks near the water edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Sünderbrücke",
+            "hu": "Bűnösök hídja",
+            "ro": "Podul Păcătoșilor",
+            "en": "Sinners'es bridge"
+          },
+          "coords": [
+            34.075227,
+            34.971751
+          ],
+          "category": "landmark",
+          "arrive_at": "12:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese markante natürliche Felsformation aus sicherer Entfernung, da das Überqueren des zerbrechlichen Bogens zum Schutz streng verboten ist.",
+            "hu": "Csodálja meg ezt a lenyűgöző természetes sziklaképződményt biztonságos távolságból, mivel a törékeny boltív védelme miatt az átkelés szigorúan tilos.",
+            "ro": "Minunați-vă de această impresionantă formațiune stâncoasă naturală de la distanță, deoarece traversarea arcului fragil este interzisă pentru a-l proteja.",
+            "en": "Marvel at this striking natural rock formation from a safe distance, as crossing the fragile arch is strictly prohibited to preserve its structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Blaue Lagune",
+            "hu": "Kék Lagúna",
+            "ro": "Laguna Albastră",
+            "en": "Blue Lagoon"
+          },
+          "coords": [
+            34.079845,
+            34.966188
+          ],
+          "category": "landmark",
+          "arrive_at": "13:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schwimmen Sie im faszinierenden, leuchtend azurblauen Wasser dieser berühmten Lagune und tragen Sie Badeschuhe, um den felsigen Meeresboden sicher zu meistern.",
+            "hu": "Ússzon a híres lagúna lenyűgöző, élénk azúrkék vizében, és viseljen vizicipőt, hogy biztonságosan közlekedjen a part menti sziklás tengerfenéken.",
+            "ro": "Înotați în apele de un azur vibrant ale acestei faimoase lagune și purtați încălțăminte de apă pentru a naviga în siguranță pe fundul stâncos.",
+            "en": "Swim in the mesmerizing, vibrant azure waters of this famous lagoon, and wear water shoes to safely navigate the rocky seabed along the shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Tauchhöhle",
+            "hu": "Búvárbarlang",
+            "ro": "Peștera de scufundări",
+            "en": "Diving cave"
+          },
+          "coords": [
+            34.072933,
+            34.96361
+          ],
+          "category": "landmark",
+          "arrive_at": "14:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Beobachten Sie mutige Klippenspringer, die in die kristallklaren Tiefen eintauchen, aber prüfen Sie die Meeresbedingungen genau, bevor Sie selbst springen.",
+            "hu": "Nézze meg a kristálytiszta mélységbe ugró bátor sziklaugrókat, de gondosan mérje fel a tengeri viszonyokat, mielőtt ön is megpróbálkozna egy ugrással.",
+            "ro": "Priviți scafandrii curajoși sărind în adâncurile cristaline, dar evaluați cu atenție condițiile mării înainte de a încerca dumneavoastră vreo săritură.",
+            "en": "Witness daring cliff divers plunging into the crystal-clear depths here, but carefully assess the sea conditions before attempting any jumps yourself."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Kap Greco",
+            "hu": "Cape Greco Kilátópont",
+            "ro": "Punct de belvedere Cape Greco",
+            "en": "Cape Greco View Point"
+          },
+          "coords": [
+            34.065597,
+            34.961882
+          ],
+          "category": "natural",
+          "arrive_at": "16:14",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf das Mittelmeer von dieser dramatischen Klippe aus und kommen Sie früh, um den besten Platz ohne Menschenmassen zu finden.",
+            "hu": "Élvezze a Földközi-tengerre nyíló panorámát erről a drámai szikláról, és érkezzen korán, hogy biztosítson egy nagyszerű helyet a tömeg elkerülésével.",
+            "ro": "Bucurați-vă de vederi panoramice ale Mării Mediterane de pe această stâncă dramatică, sosind devreme pentru un loc perfect, departe de aglomerație.",
+            "en": "Take in panoramic views of the Mediterranean Sea from this dramatic cliffside, arriving early to secure a prime spot away from the midday crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Wacholderbaum (Tree of Cape Greco)",
+            "hu": "Cape Greco fája (Borókafa)",
+            "ro": "Arborele Cape Greco (Ienupărul)",
+            "en": "Tree of Cape Greco (Juniper Tree)"
+          },
+          "coords": [
+            34.058717,
+            34.972744
+          ],
+          "category": "landmark",
+          "arrive_at": "16:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Widerstandskraft dieses ikonischen, windgepeitschten Wacholderbaums, der den Elementen trotzt und ein perfektes Fotomotiv abgibt.",
+            "hu": "Csodálja meg e szélfútta, ikonikus borókafa ellenállóképességét, amely magányosan dacol az elemekkel, és tökéletes témát kínál a fotózáshoz.",
+            "ro": "Admirați rezistența acestui ienupăr emblematic, bătut de vânturi, care înfruntă singur elementele naturii, oferind un subiect perfect pentru fotografii.",
+            "en": "Admire the resilience of this iconic, windswept juniper tree that stands alone against the elements, making it a perfect subject for your photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "National Forest Park \"Cape Greco\"",
+            "hu": "Cape Greco Nemzeti Erdőpark",
+            "ro": "Parcul Național Forestier \"Cape Greco\"",
+            "en": "National Forest Park \"Cape Greco\""
+          },
+          "coords": [
+            34.066093,
+            34.972251
+          ],
+          "category": "natural",
+          "arrive_at": "18:11",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie die beeindruckende Biodiversität dieses Küstenreservats auf gut markierten Wegen, aber vergessen Sie nicht, reichlich Wasser mitzunehmen.",
+            "hu": "Fedezze fel e tengerparti rezervátum lenyűgöző biológiai sokféleségét a jól jelzett ösvényeken, de ne felejtsen el sok vizet hozni magával.",
+            "ro": "Explorați biodiversitatea uimitoare a acestei rezervații de coastă pe trasee bine marcate, dar nu uitați să aduceți multă apă, deoarece umbra lipsește.",
+            "en": "Explore the stunning biodiversity of this coastal reserve on clearly marked trails, but remember to bring plenty of water as shade is scarce."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie in der friedlichen Echo-Gegend los, wenn die Morgensonne ihre ersten Strahlen auf die Landschaft wirft. Gegen Mittag fahren Sie zur Ayioi Anargyroi Höhle und bestaunen die Sünderbrücke. Verbringen Sie den Nachmittag damit, zwischen der Blauen Lagune und den Klippenspringer-Spots zu radeln. Am Abend erleben Sie den Sonnenuntergang am Aussichtspunkt vor der Rückfahrt durch den Waldpark.",
+        "hu": "Induljon el a békés Echo területről, ahogy a reggeli nap első sugarai megvilágítják a tájat. Dél felé haladva tekerjen le az Ayioi Anargyroi barlanghoz, és csodálja meg a bűnösök hídját. Délután kerékpározzon a látványos Kék Lagúna és a híres sziklaugró helyek között. Este csodálja meg a naplementét a kilátópontnál, mielőtt békésen visszatekerne az erdőparkon keresztül.",
+        "ro": "Porniți cu bicicleta din zona pașnică Echo, în timp ce soarele dimineții luminează peisajul. Spre prânz, mergeți la peștera Ayioi Anargyroi și minunați-vă de podul Păcătoșilor. Petreceți după-amiaza pedalând între spectaculoasa Lagună Albastră și faimoasele locuri de sărituri în apă. Seara, prindeți apusul la punctul de belvedere înainte de a vă întoarce liniștit prin parcul forestier.",
+        "en": "Pedal off from the peaceful Echo area as the morning sun casts its first rays over the landscape. Approaching midday, ride down to Ayioi Anargyroi Cave and marvel at the fragile beauty of Sinners'es bridge. Spend your afternoon cycling between the spectacular Blue Lagoon and the famous cliff diving spots. As evening falls, catch the sunset at the View Point before a final serene ride back through the Forest Park."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:32",
+      "total_km": 7.3,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "National Forest Park \"Cape Greco\"",
+            "hu": "Cape Greco Nemzeti Erdőpark",
+            "ro": "Parcul Național Forestier \"Cape Greco\"",
+            "en": "National Forest Park \"Cape Greco\""
+          },
+          "coords": [
+            34.066093,
+            34.972251
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die beeindruckende Biodiversität dieses Küstenreservats auf gut markierten Wegen, aber vergessen Sie nicht, reichlich Wasser mitzunehmen.",
+            "hu": "Fedezze fel e tengerparti rezervátum lenyűgöző biológiai sokféleségét a jól jelzett ösvényeken, de ne felejtsen el sok vizet hozni magával.",
+            "ro": "Explorați biodiversitatea uimitoare a acestei rezervații de coastă pe trasee bine marcate, dar nu uitați să aduceți multă apă, deoarece umbra lipsește.",
+            "en": "Explore the stunning biodiversity of this coastal reserve on clearly marked trails, but remember to bring plenty of water as shade is scarce."
+          }
+        },
+        {
+          "name": {
+            "de": "Wacholderbaum (Tree of Cape Greco)",
+            "hu": "Cape Greco fája (Borókafa)",
+            "ro": "Arborele Cape Greco (Ienupărul)",
+            "en": "Tree of Cape Greco (Juniper Tree)"
+          },
+          "coords": [
+            34.058717,
+            34.972744
+          ],
+          "category": "landmark",
+          "arrive_at": "10:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Widerstandskraft dieses ikonischen, windgepeitschten Wacholderbaums, der den Elementen trotzt und ein perfektes Fotomotiv abgibt.",
+            "hu": "Csodálja meg e szélfútta, ikonikus borókafa ellenállóképességét, amely magányosan dacol az elemekkel, és tökéletes témát kínál a fotózáshoz.",
+            "ro": "Admirați rezistența acestui ienupăr emblematic, bătut de vânturi, care înfruntă singur elementele naturii, oferind un subiect perfect pentru fotografii.",
+            "en": "Admire the resilience of this iconic, windswept juniper tree that stands alone against the elements, making it a perfect subject for your photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Kap Greco",
+            "hu": "Cape Greco Kilátópont",
+            "ro": "Punct de belvedere Cape Greco",
+            "en": "Cape Greco View Point"
+          },
+          "coords": [
+            34.065597,
+            34.961882
+          ],
+          "category": "natural",
+          "arrive_at": "11:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf das Mittelmeer von dieser dramatischen Klippe aus und kommen Sie früh, um den besten Platz ohne Menschenmassen zu finden.",
+            "hu": "Élvezze a Földközi-tengerre nyíló panorámát erről a drámai szikláról, és érkezzen korán, hogy biztosítson egy nagyszerű helyet a tömeg elkerülésével.",
+            "ro": "Bucurați-vă de vederi panoramice ale Mării Mediterane de pe această stâncă dramatică, sosind devreme pentru un loc perfect, departe de aglomerație.",
+            "en": "Take in panoramic views of the Mediterranean Sea from this dramatic cliffside, arriving early to secure a prime spot away from the midday crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Tauchhöhle",
+            "hu": "Búvárbarlang",
+            "ro": "Peștera de scufundări",
+            "en": "Diving cave"
+          },
+          "coords": [
+            34.072933,
+            34.96361
+          ],
+          "category": "landmark",
+          "arrive_at": "12:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Beobachten Sie mutige Klippenspringer, die in die kristallklaren Tiefen eintauchen, aber prüfen Sie die Meeresbedingungen genau, bevor Sie selbst springen.",
+            "hu": "Nézze meg a kristálytiszta mélységbe ugró bátor sziklaugrókat, de gondosan mérje fel a tengeri viszonyokat, mielőtt ön is megpróbálkozna egy ugrással.",
+            "ro": "Priviți scafandrii curajoși sărind în adâncurile cristaline, dar evaluați cu atenție condițiile mării înainte de a încerca dumneavoastră vreo săritură.",
+            "en": "Witness daring cliff divers plunging into the crystal-clear depths here, but carefully assess the sea conditions before attempting any jumps yourself."
+          }
+        },
+        {
+          "name": {
+            "de": "Blaue Lagune",
+            "hu": "Kék Lagúna",
+            "ro": "Laguna Albastră",
+            "en": "Blue Lagoon"
+          },
+          "coords": [
+            34.079845,
+            34.966188
+          ],
+          "category": "landmark",
+          "arrive_at": "13:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Schwimmen Sie im faszinierenden, leuchtend azurblauen Wasser dieser berühmten Lagune und tragen Sie Badeschuhe, um den felsigen Meeresboden sicher zu meistern.",
+            "hu": "Ússzon a híres lagúna lenyűgöző, élénk azúrkék vizében, és viseljen vizicipőt, hogy biztonságosan közlekedjen a part menti sziklás tengerfenéken.",
+            "ro": "Înotați în apele de un azur vibrant ale acestei faimoase lagune și purtați încălțăminte de apă pentru a naviga în siguranță pe fundul stâncos.",
+            "en": "Swim in the mesmerizing, vibrant azure waters of this famous lagoon, and wear water shoes to safely navigate the rocky seabed along the shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Sünderbrücke",
+            "hu": "Bűnösök hídja",
+            "ro": "Podul Păcătoșilor",
+            "en": "Sinners'es bridge"
+          },
+          "coords": [
+            34.075227,
+            34.971751
+          ],
+          "category": "landmark",
+          "arrive_at": "15:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese markante natürliche Felsformation aus sicherer Entfernung, da das Überqueren des zerbrechlichen Bogens zum Schutz streng verboten ist.",
+            "hu": "Csodálja meg ezt a lenyűgöző természetes sziklaképződményt biztonságos távolságból, mivel a törékeny boltív védelme miatt az átkelés szigorúan tilos.",
+            "ro": "Minunați-vă de această impresionantă formațiune stâncoasă naturală de la distanță, deoarece traversarea arcului fragil este interzisă pentru a-l proteja.",
+            "en": "Marvel at this striking natural rock formation from a safe distance, as crossing the fragile arch is strictly prohibited to preserve its structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Ayioi Anargyroi Höhle",
+            "hu": "Ayioi Anargyroi barlang",
+            "ro": "Peștera Ayioi Anargyroi",
+            "en": "Ayioi Anargyroi Cave"
+          },
+          "coords": [
+            34.076437,
+            34.975903
+          ],
+          "category": "landmark",
+          "arrive_at": "16:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Steigen Sie die Steinstufen hinab, um diese verborgene Meereshöhle bei einer charmanten weißen Kapelle zu erkunden, und achten Sie auf rutschige Felsen.",
+            "hu": "Ereszkedjen le a kőlépcsőkön, hogy felfedezze ezt a bájos fehér kápolnához kapcsolódó rejtett tengeri barlangot, vigyázva a vízparti csúszós sziklákra.",
+            "ro": "Coborâți treptele de piatră pentru a explora această peșteră ascunsă legată de o capelă albă fermecătoare, având grijă la stâncile alunecoase de la mal.",
+            "en": "Descend the stone steps to explore this hidden sea cave linked to a charming white chapel, keeping an eye on the slippery rocks near the water edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Echo",
+            "hu": "Echo",
+            "ro": "Echo",
+            "en": "Echo"
+          },
+          "coords": [
+            34.063499,
+            34.995314
+          ],
+          "category": "recreational",
+          "arrive_at": "17:47",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in der ruhigen Atmosphäre dieses Erholungsortes und bringen Sie Ihr eigenes Picknick mit, da die örtlichen Einrichtungen begrenzt sind.",
+            "hu": "Pihenjen és élvezze ennek a rejtett rekreációs helynek a nyugodt légkörét, és hozzon magával piknikfelszerelést, mivel a helyi lehetőségek korlátozottak.",
+            "ro": "Relaxați-vă în atmosfera liniștită a acestui loc de recreere și asigurați-vă că aduceți provizii pentru picnic, deoarece facilitățile locale sunt limitate.",
+            "en": "Relax and enjoy the tranquil atmosphere of this recreational spot, making sure to bring your own picnic supplies as local amenities are quite limited."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie früh in den Nationalpark, um die Wanderwege vor der Mittagshitze zu erkunden. Mittags wechseln Sie mühelos zwischen dem ikonischen Wacholderbaum und den weiten Ausblicken des Aussichtspunkts. Am Nachmittag parken Sie nahe der Tauchhöhle und erfrischen sich in den kristallklaren Gewässern der Blauen Lagune. Ihre Küstenfahrt endet wunderschön im Abendlicht an der Sünderbrücke und bei Echo.",
+        "hu": "Autózzon korán a Nemzeti Erdőparkba, hogy még a nappali hőség beállta előtt bejárja ösvényeit. Délre könnyedén elérheti az ikonikus borókafát és a lenyűgöző Cape Greco kilátót. Délután parkoljon le a drámai búvárbarlang közelében, és mártózzon meg a Kék Lagúna vizében. A tengerparti utazás az esti fényekkel zárul a bűnösök hídjánál és a békés Echo pihenőhelynél.",
+        "ro": "Conduceți devreme către Parcul Național Forestier pentru a explora traseele înainte de a se face cald. La prânz, deplasați-vă ușor între ienupărul emblematic și priveliștile ample de la punctul de belvedere. După-amiaza, parcați lângă peștera de scufundări și faceți o baie răcoritoare în apele Lagunei Albastre. Călătoria se încheie frumos cu lumina serii la podul Păcătoșilor și la Echo.",
+        "en": "Drive to the National Forest Park early to wander its trails before the heat of the day sets in. By midday, effortlessly hop between the iconic Juniper Tree and the sweeping vistas of the Cape Greco View Point. In the afternoon, park near the dramatic Diving cave and take a refreshing dip in the crystal waters of the Blue Lagoon. Your coastal drive finishes beautifully with evening light at Sinners'es bridge and Echo."
+      }
+    }
+  }
+}

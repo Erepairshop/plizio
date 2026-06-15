@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-manlleu-cities-v2",
+  "anchor": {
+    "name": "Manlleu",
+    "coords": [
+      2.28476,
+      42.00228
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:17",
+      "total_km": 1.35,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museu de Can Puget",
+            "hu": "Museu de Can Puget",
+            "ro": "Museu de Can Puget",
+            "en": "Museu de Can Puget"
+          },
+          "coords": [
+            2.283144,
+            42.000944
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem historischen Herrenhaus die industrielle Vergangenheit von Manlleu und besuchen Sie unbedingt das Obergeschoss für wechselnde Ausstellungen.",
+            "hu": "Fedezze fel Manlleu gazdag ipari és kulturális múltját ebben a történelmi kúriában, és távozás előtt feltétlenül nézze meg az emeleti időszaki kiállításokat.",
+            "ro": "Explorați trecutul industrial și cultural al orașului Manlleu în acest conac istoric și nu uitați să verificați etajul superior pentru expozițiile temporare.",
+            "en": "Explore this historic manor showcasing Manlleu's rich industrial and cultural past, and don't forget to check the upper floor for temporary exhibitions before leaving."
+          }
+        },
+        {
+          "name": {
+            "de": "La il·lustració de la llum del món",
+            "hu": "La il·lustració de la llum del món",
+            "ro": "La il·lustració de la llum del món",
+            "en": "La il·lustració de la llum del món"
+          },
+          "coords": [
+            2.284109,
+            42.000483
+          ],
+          "category": "landmark",
+          "arrive_at": "10:52",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses markante Denkmal, das für Aufklärung steht, und besuchen Sie es am besten bei Sonnenuntergang, um die wunderschöne Silhouette zu fotografieren.",
+            "hu": "Csodálja meg a felvilágosodást és a haladást szimbolizáló köztéri emlékművet, és próbálja meg naplementekor meglátogatni, hogy megörökítse lenyűgöző sziluettjét.",
+            "ro": "Admirați acest monument public remarcabil care simbolizează iluminismul și vizitați-l la apus pentru a surprinde silueta sa superbă pe fundalul cerului de seară.",
+            "en": "Admire this striking public monument symbolizing enlightenment and progress, and try to visit when the sun sets to capture its beautiful silhouette against the sky."
+          }
+        },
+        {
+          "name": {
+            "de": "Al Germà Victori de La Salle",
+            "hu": "Al Germà Victori de La Salle",
+            "ro": "Al Germà Victori de La Salle",
+            "en": "Al Germà Victori de La Salle"
+          },
+          "coords": [
+            2.282945,
+            41.996822
+          ],
+          "category": "historical",
+          "arrive_at": "11:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem historischen Denkmal für Bildungspioniere die Ehre und lesen Sie die Gedenktafeln sorgfältig durch, um die lokale Schulgeschichte zu verstehen.",
+            "hu": "Fejezze ki tiszteletét ezen az oktatási úttörőknek szentelt történelmi emlékművön, és olvassa el figyelmesen a feliratokat a helyi pedagógiai múlt megismeréséhez.",
+            "ro": "Aduceți un omagiu la acest monument istoric dedicat pionierilor educației și citiți cu atenție plăcile inscripționate pentru a înțelege istoria pedagogică locală.",
+            "en": "Pay your respects at this historical tribute dedicated to educational pioneers, and read the inscribed plaques carefully to understand the local pedagogical history."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Tres Fàbriques",
+            "hu": "Les Tres Fàbriques",
+            "ro": "Les Tres Fàbriques",
+            "en": "Les Tres Fàbriques"
+          },
+          "coords": [
+            2.280493,
+            41.998065
+          ],
+          "category": "historical",
+          "arrive_at": "12:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesem bedeutenden Industriekomplex des Textilbooms und tragen Sie bequeme Schuhe, um die gepflasterte Umgebung gut erkunden zu können.",
+            "hu": "Lépjen vissza az időben ennél a helyi textilipart fellendítő ipari komplexumnál, és viseljen kényelmes cipőt a macskaköves környék könnyű bejárása érdekében.",
+            "ro": "Întoarceți-vă în timp la acest complex industrial crucial pentru boom-ul textil local și purtați încălțăminte comodă pentru a naviga ușor prin zona pietruită.",
+            "en": "Step back in time at this crucial industrial complex that shaped the local textile boom, and wear comfortable walking shoes to easily navigate its cobbled surrounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Monument a Josep Serra Sió",
+            "hu": "Monument a Josep Serra Sió",
+            "ro": "Monument a Josep Serra Sió",
+            "en": "Monument a Josep Serra Sió"
+          },
+          "coords": [
+            2.276855,
+            41.999726
+          ],
+          "category": "historical",
+          "arrive_at": "14:13",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betrachten Sie diese Hommage an eine bedeutende lokale Persönlichkeit und ruhen Sie sich einen Moment auf den nahegelegenen Bänken aus, um die Stadt zu genießen.",
+            "hu": "Tekintse meg ezt a helyi büszkeséget hirdető neves személyiségnek emléket állító alkotást, és pihenjen meg egy pillanatra a közeli padokon a városi hangulatot élvezve.",
+            "ro": "Observați acest omagiu adus unei figuri locale notabile și acordați-vă un moment de odihnă pe băncile din apropiere în timp ce vă bucurați de atmosfera urbană.",
+            "en": "Observe this tribute to a notable local figure highlighting regional pride, and take a moment to rest on the nearby benches while enjoying the urban atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Monument als Viladomat",
+            "hu": "Monument als Viladomat",
+            "ro": "Monument als Viladomat",
+            "en": "Monument als Viladomat"
+          },
+          "coords": [
+            2.275722,
+            42.001893
+          ],
+          "category": "historical",
+          "arrive_at": "14:32",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Rundgang an diesem klassischen Denkmal des lokalen Erbes und kehren Sie in eines der angrenzenden Cafés ein, um sich nach der Tour zu erfrischen.",
+            "hu": "Zárja sétáját ezen a Manlleu örökségét ünneplő klasszikus emlékművön, és térjen be az egyik szomszédos kávézóba, hogy felfrissüljön a tartalmas városnézés után.",
+            "ro": "Încheiați plimbarea la acest monument clasic care celebrează patrimoniul orașului și luați în considerare o oprire la o cafenea din apropiere pentru a vă relaxa.",
+            "en": "Conclude your walk at this classic monument celebrating Manlleu's heritage, and consider stopping at one of the adjacent cafes to refresh yourself after the tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang in Manlleu am Museu de Can Puget und tauchen Sie in die reiche Vergangenheit der Stadt ein. Bewundern Sie am Mittag das moderne La il·lustració de la llum del món und das historische Al Germà Victori de La Salle. Erkunden Sie am Nachmittag die Überreste von Les Tres Fàbriques. Beenden Sie den Abend besinnlich an den Denkmälern Serra Sió und Viladomat.",
+        "hu": "Kezdje manlleui sétáját a Museu de Can Puget-ben, elmélyedve a város gazdag múltjában. Délben csodálja meg a La il·lustració de la llum del món modern hangulatát és a történelmi Al Germà Victori de La Salle-t. Délután fedezze fel a Les Tres Fàbriques lenyűgöző maradványait. Zárja az estét a Serra Sió és Viladomat műemlékeknél, ahol elgondolkodhat a környék örökségén.",
+        "ro": "Începeți plimbarea în Manlleu la Museu de Can Puget, explorând trecutul bogat al orașului. La prânz, admirați flerul modern al La il·lustració de la llum del món și istoricul Al Germà Victori de La Salle. După-amiaza, descoperiți rămășițele fascinante ale Les Tres Fàbriques. Încheiați seara reflectând la monumentele Serra Sió și Viladomat, simboluri ale mândriei locale.",
+        "en": "Begin your Manlleu walk at the Museu de Can Puget, delving into the town's rich past. By midday, admire the modern flair of La il·lustració de la llum del món and the historical Al Germà Victori de La Salle. In the afternoon, explore the fascinating remnants of Les Tres Fàbriques, the heart of local industry. Conclude the evening reflecting at the Serra Sió and Viladomat monuments."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:16",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museu Industrial del Ter",
+            "hu": "Museu Industrial del Ter",
+            "ro": "Museu Industrial del Ter",
+            "en": "Museu Industrial del Ter"
+          },
+          "coords": [
+            2.290585,
+            41.999428
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Maschinen der regionalen Textilindustrie und nehmen Sie an einer Führung teil, um die technischen Wunderwerke vollständig zu begreifen.",
+            "hu": "Fedezze fel a régió folyami textiliparát mozgató lenyűgöző gépeket, és csatlakozzon egy vezetett túrához, hogy teljesen megértse a kiállított mérnöki csodákat.",
+            "ro": "Descoperiți mașinăriile fascinante care au impulsionat industria textilă fluvială și alăturați-vă unui tur ghidat pentru a înțelege pe deplin minunile inginerești.",
+            "en": "Discover the fascinating machinery that drove the region's river-based textile industry, and join one of the guided tours to fully grasp the engineering marvels."
+          }
+        },
+        {
+          "name": {
+            "de": "Can Caseta",
+            "hu": "Can Caseta",
+            "ro": "Can Caseta",
+            "en": "Can Caseta"
+          },
+          "coords": [
+            2.292768,
+            41.997665
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die architektonischen Details dieses gut erhaltenen historischen Gebäudes und bringen Sie ein Weitwinkelobjektiv mit, um die Fassade einzufangen.",
+            "hu": "Csodálja meg e jól megőrzött történelmi épület jellegzetes építészeti részleteit, és hozzon magával nagylátószögű objektívet, hogy megörökítse a teljes homlokzatot.",
+            "ro": "Admirați detaliile arhitecturale distincte ale acestei clădiri istorice bine conservate și folosiți un obiectiv cu unghi larg pentru a surprinde întreaga sa fațadă.",
+            "en": "Admire the distinct architectural details of this well-preserved historical building, and bring a wide-angle lens to capture the full beauty of its impressive facade."
+          }
+        },
+        {
+          "name": {
+            "de": "la Sagrada Família",
+            "hu": "la Sagrada Família",
+            "ro": "la Sagrada Família",
+            "en": "la Sagrada Família"
+          },
+          "coords": [
+            2.28977,
+            41.984192
+          ],
+          "category": "religious",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre dieses schönen modernen religiösen Wahrzeichens und denken Sie daran, sich respektvoll zu kleiden und leise zu sprechen.",
+            "hu": "Élvezze ennek a gyönyörű, modern vallási nevezetességnek a nyugodt légkörét, és ne feledjen szerényen öltözködni és halkan beszélni a helyi hívek tiszteletére.",
+            "ro": "Bucurați-vă de ambianța senină a acestui frumos lăcaș de cult modern și amintiți-vă să vă îmbrăcați modest și să vorbiți încet din respect pentru credincioșii locali.",
+            "en": "Take in the serene ambiance of this beautiful modern religious landmark, and remember to dress modestly and speak quietly out of respect for the local worshippers."
+          }
+        },
+        {
+          "name": {
+            "de": "serrat de l'Horta",
+            "hu": "serrat de l'Horta",
+            "ro": "serrat de l'Horta",
+            "en": "serrat de l'Horta"
+          },
+          "coords": [
+            2.28003,
+            41.984266
+          ],
+          "category": "natural",
+          "arrive_at": "12:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Atmen Sie die frische Luft auf diesem Hügel mit Panoramablick ein und bleiben Sie unbedingt auf den markierten Wegen, um die lokale Flora und Fauna zu schützen.",
+            "hu": "Szívja magába a friss levegőt ezen a panorámás kilátást nyújtó természetes dombon, és maradjon a jelzett ösvényeken a helyi növény- és állatvilág védelme érdekében.",
+            "ro": "Respirați aer curat în timp ce explorați acest deal natural cu vederi panoramice și rămâneți pe traseele marcate pentru a proteja flora și fauna locală delicată.",
+            "en": "Breathe in the fresh air as you explore this natural hill offering panoramic views, and stick to the marked trails to protect the delicate local flora and fauna."
+          }
+        },
+        {
+          "name": {
+            "de": "serrat de Puigvaquer",
+            "hu": "serrat de Puigvaquer",
+            "ro": "serrat de Puigvaquer",
+            "en": "serrat de Puigvaquer"
+          },
+          "coords": [
+            2.282933,
+            41.980244
+          ],
+          "category": "natural",
+          "arrive_at": "14:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses malerische Naturschutzgebiet und packen Sie ein leichtes Picknick ein, das Sie inmitten der ruhigen mediterranen Landschaft genießen können.",
+            "hu": "Túrázzon ezen a szabadtéri fotózásra tökéletes festői természeti területen, és csomagoljon be egy könnyű pikniket a nyugodt mediterrán táj élvezete céljából.",
+            "ro": "Faceți o drumeție prin această zonă pitorească perfectă pentru relaxare și aduceți un mic picnic pentru a-l savura în mijlocul peisajelor mediteraneene liniștite.",
+            "en": "Hike through this scenic natural area perfect for outdoor photography and relaxation, and pack a light picnic to enjoy amidst the tranquil Mediterranean landscapes."
+          }
+        },
+        {
+          "name": {
+            "de": "Monument a José Roqué Parladé",
+            "hu": "Monument a José Roqué Parladé",
+            "ro": "Monument a José Roqué Parladé",
+            "en": "Monument a José Roqué Parladé"
+          },
+          "coords": [
+            2.271235,
+            41.999898
+          ],
+          "category": "historical",
+          "arrive_at": "15:31",
+          "stay_min": 45,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem historischen Denkmal für einen wichtigen bürgerlichen Führer inne und nutzen Sie das weiche Nachmittagslicht für beeindruckende Fotos.",
+            "hu": "Gondolkodjon el ennél a fontos civil vezetőt tisztelő történelmi emlékműnél, és használja ki a lágy délutáni fényt a részletes kőfaragások fotózásához.",
+            "ro": "Reflectați la acest monument istoric ce onorează un lider civic vital și profitați de lumina blândă a după-amiezii pentru a fotografia detaliile sale din piatră.",
+            "en": "Reflect at this historical monument honoring a vital civic leader, and use the soft afternoon light to capture striking photos of its detailed stone craftsmanship."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt am Museu Industrial del Ter, wo Sie Manlleus Flussgeschichte entdecken. Mittags radeln Sie zur eleganten Can Caseta und zur Sagrada Família. Am Nachmittag fordern Sie sich mit einer landschaftlich reizvollen Fahrt auf den Serrat de l'Horta und Serrat de Puigvaquer heraus. Beenden Sie den Tag entspannt mit einer Fahrt zum Monument a José Roqué Parladé.",
+        "hu": "Kerékpártúrája a Museu Industrial del Ter-nél kezdődik, felfedezve Manlleu folyóparti örökségét. Délben tekerjen az elegáns Can Caseta és a nyugodt Sagrada Família felé. Ahogy a délután kibontakozik, próbálja ki magát egy festői úttal a Serrat de l'Horta és a Serrat de Puigvaquer lankáin. Fejezze be a napot egy kellemes gurulással a José Roqué Parladé emlékműhöz.",
+        "ro": "Turul de ciclism începe la Museu Industrial del Ter, descoperind patrimoniul fluvial. La prânz, pedalați spre eleganta Can Caseta și liniștita Sagrada Família. Pe măsură ce se lasă după-amiaza, provocați-vă cu o plimbare pitorească pe Serrat de l'Horta și Serrat de Puigvaquer pentru vederi panoramice. Încheiați ziua relaxant la Monumentul dedicat lui José Roqué Parladé.",
+        "en": "Your cycling tour starts at the Museu Industrial del Ter, discovering Manlleu's riverside heritage. By midday, pedal towards the elegant Can Caseta and the tranquil Sagrada Família. As the afternoon unfolds, challenge yourself with a scenic ride up the Serrat de l'Horta and Serrat de Puigvaquer for sweeping views. Finish the day smoothly cycling to the Monument a José Roqué Parladé."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:48",
+      "total_km": 5.05,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sant Esteve de Vila-setrú",
+            "hu": "Sant Esteve de Vila-setrú",
+            "ro": "Sant Esteve de Vila-setrú",
+            "en": "Sant Esteve de Vila-setrú"
+          },
+          "coords": [
+            2.270232,
+            42.00705
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese bezaubernde romanische Kirche am Stadtrand und prüfen Sie vorab die örtlichen Öffnungszeiten, da der Zugang zum Innenraum oft begrenzt ist.",
+            "hu": "Látogasson el erre a külvárosi, bájos román stílusú templomra, és előzetesen ellenőrizze a nyitvatartást, mivel a belső térbe való bejutás gyakran korlátozott lehet.",
+            "ro": "Vizitați această fermecătoare biserică romanică de la periferie și verificați programul în prealabil, deoarece accesul în interior poate fi uneori destul de limitat.",
+            "en": "Visit this charming Romanesque church on the outskirts for a glimpse of ancient devotion, and check local schedules beforehand as interior access can be limited."
+          }
+        },
+        {
+          "name": {
+            "de": "La Benvinguda",
+            "hu": "La Benvinguda",
+            "ro": "La Benvinguda",
+            "en": "La Benvinguda"
+          },
+          "coords": [
+            2.279039,
+            42.009015
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Bedeutung dieser einladenden architektonischen Struktur und nähern Sie sich von der Hauptstraße, um ihre volle Größe zu erkennen.",
+            "hu": "Csodálja meg ennek a hívogató építészeti szerkezetnek a történelmi jelentőségét, és közelítse meg a főút felől, hogy teljes mértékben értékelni tudja a méreteit.",
+            "ro": "Minunați-vă de semnificația istorică a acestei structuri arhitecturale primitoare și apropiați-vă de la drumul principal pentru a-i aprecia scara și intenția inițială.",
+            "en": "Marvel at the historical significance of this welcoming architectural structure, and approach it from the main road to appreciate its scale and original intention."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu de Can Puget",
+            "hu": "Museu de Can Puget",
+            "ro": "Museu de Can Puget",
+            "en": "Museu de Can Puget"
+          },
+          "coords": [
+            2.283144,
+            42.000944
+          ],
+          "category": "museum",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem historischen Herrenhaus die industrielle Vergangenheit von Manlleu und besuchen Sie unbedingt das Obergeschoss für wechselnde Ausstellungen.",
+            "hu": "Fedezze fel Manlleu gazdag ipari és kulturális múltját ebben a történelmi kúriában, és távozás előtt feltétlenül nézze meg az emeleti időszaki kiállításokat.",
+            "ro": "Explorați trecutul industrial și cultural al orașului Manlleu în acest conac istoric și nu uitați să verificați etajul superior pentru expozițiile temporare.",
+            "en": "Explore this historic manor showcasing Manlleu's rich industrial and cultural past, and don't forget to check the upper floor for temporary exhibitions before leaving."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Industrial del Ter",
+            "hu": "Museu Industrial del Ter",
+            "ro": "Museu Industrial del Ter",
+            "en": "Museu Industrial del Ter"
+          },
+          "coords": [
+            2.290585,
+            41.999428
+          ],
+          "category": "historical",
+          "arrive_at": "12:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Maschinen der regionalen Textilindustrie und nehmen Sie an einer Führung teil, um die technischen Wunderwerke vollständig zu begreifen.",
+            "hu": "Fedezze fel a régió folyami textiliparát mozgató lenyűgöző gépeket, és csatlakozzon egy vezetett túrához, hogy teljesen megértse a kiállított mérnöki csodákat.",
+            "ro": "Descoperiți mașinăriile fascinante care au impulsionat industria textilă fluvială și alăturați-vă unui tur ghidat pentru a înțelege pe deplin minunile inginerești.",
+            "en": "Discover the fascinating machinery that drove the region's river-based textile industry, and join one of the guided tours to fully grasp the engineering marvels."
+          }
+        },
+        {
+          "name": {
+            "de": "la Sagrada Família",
+            "hu": "la Sagrada Família",
+            "ro": "la Sagrada Família",
+            "en": "la Sagrada Família"
+          },
+          "coords": [
+            2.28977,
+            41.984192
+          ],
+          "category": "religious",
+          "arrive_at": "14:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre dieses schönen modernen religiösen Wahrzeichens und denken Sie daran, sich respektvoll zu kleiden und leise zu sprechen.",
+            "hu": "Élvezze ennek a gyönyörű, modern vallási nevezetességnek a nyugodt légkörét, és ne feledjen szerényen öltözködni és halkan beszélni a helyi hívek tiszteletére.",
+            "ro": "Bucurați-vă de ambianța senină a acestui frumos lăcaș de cult modern și amintiți-vă să vă îmbrăcați modest și să vorbiți încet din respect pentru credincioșii locali.",
+            "en": "Take in the serene ambiance of this beautiful modern religious landmark, and remember to dress modestly and speak quietly out of respect for the local worshippers."
+          }
+        },
+        {
+          "name": {
+            "de": "serrat de Puigvaquer",
+            "hu": "serrat de Puigvaquer",
+            "ro": "serrat de Puigvaquer",
+            "en": "serrat de Puigvaquer"
+          },
+          "coords": [
+            2.282933,
+            41.980244
+          ],
+          "category": "natural",
+          "arrive_at": "15:03",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses malerische Naturschutzgebiet und packen Sie ein leichtes Picknick ein, das Sie inmitten der ruhigen mediterranen Landschaft genießen können.",
+            "hu": "Túrázzon ezen a szabadtéri fotózásra tökéletes festői természeti területen, és csomagoljon be egy könnyű pikniket a nyugodt mediterrán táj élvezete céljából.",
+            "ro": "Faceți o drumeție prin această zonă pitorească perfectă pentru relaxare și aduceți un mic picnic pentru a-l savura în mijlocul peisajelor mediteraneene liniștite.",
+            "en": "Hike through this scenic natural area perfect for outdoor photography and relaxation, and pack a light picnic to enjoy amidst the tranquil Mediterranean landscapes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Autotour im alten Sant Esteve de Vila-setrú, bevor Sie zu La Benvinguda weiterfahren. Mittags geht es in das kulturelle Zentrum mit dem Museu de Can Puget und dem Museu Industrial del Ter. Fahren Sie am Nachmittag in den Süden zur spirituellen Sagrada Família. Wenn der Abend naht, parken Sie und gehen Sie hinauf zum Serrat de Puigvaquer für den Sonnenuntergang.",
+        "hu": "Kezdje autós utazását az ősi Sant Esteve de Vila-setrú-nál, mielőtt a La Benvinguda hívogató építményéhez hajtana. A dél a kulturális szívbe vezet a Museu de Can Puget és a Museu Industrial del Ter látogatásával. Délután autózzon délre, hogy megtapasztalja a spirituális Sagrada Famíliát. Este parkoljon le, és sétáljon fel a Serrat de Puigvaquer-re egy gyönyörű naplementéért.",
+        "ro": "Începeți călătoria cu mașina la străvechea Sant Esteve de Vila-setrú, înainte de a trece la structura La Benvinguda. Prânzul vă aduce în inima culturală la Museu de Can Puget și Museu Industrial del Ter. După-amiaza, conduceți spre sud pentru a experimenta spirituala Sagrada Família. Când se apropie seara, parcați și urcați pe Serrat de Puigvaquer pentru un apus superb.",
+        "en": "Start your driving journey at the ancient Sant Esteve de Vila-setrú before moving to the welcoming La Benvinguda structure. Midday takes you into the cultural heart with visits to Museu de Can Puget and the Museu Industrial del Ter. In the afternoon, drive south to experience the spiritual Sagrada Família. As evening nears, park and walk up the Serrat de Puigvaquer for a beautiful sunset."
+      }
+    }
+  }
+}

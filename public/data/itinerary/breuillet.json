@@ -1,0 +1,520 @@
+{
+  "city_id": "breuillet",
+  "anchor": {
+    "name": "Breuillet",
+    "coords": [
+      2.1714,
+      48.5661
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:07",
+      "total_km": 3.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Pierre Church",
+            "hu": "Saint-Pierre Church",
+            "ro": "Saint-Pierre Church",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            2.171067,
+            48.566694
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen Details dieser ruhigen Kirche, die die Seele der Stadt widerspiegelt, und kommen Sie früh, um das sanfte Morgenlicht zu genießen.",
+            "hu": "Csodálja meg ennek a csendes templomnak a történelmi részleteit, amely a város lelkét tükrözi, és érkezzen korán, hogy élvezze a lágy reggeli fényeket a falakon.",
+            "ro": "Admirați detaliile istorice ale acestei biserici liniștite care reflectă sufletul orașului și veniți devreme pentru a vă bucura de lumina blândă a dimineții.",
+            "en": "Admire the historic details of this quiet church that reflects the soul of the city, and arrive early to enjoy the soft morning light illuminating the walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Château du Chapitre",
+            "hu": "Château du Chapitre",
+            "ro": "Château du Chapitre",
+            "en": "Château du Chapitre"
+          },
+          "coords": [
+            2.173239,
+            48.566688
+          ],
+          "category": "historical",
+          "arrive_at": "09:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie das faszinierende Schloss, das von der reichen Vergangenheit der Region erzählt, und achten Sie auf die gut erhaltenen architektonischen Merkmale.",
+            "hu": "Fedezze fel a lenyűgöző kastélyt, amely a régió gazdag múltjáról mesél, és figyeljen a kiválóan megőrzött építészeti részletekre a kényelmes séta során.",
+            "ro": "Explorați castelul fascinant care povestește despre trecutul bogat al regiunii și acordați atenție caracteristicilor arhitecturale bine conservate din exterior.",
+            "en": "Explore the fascinating castle that tells the rich past of the region, and pay attention to the well-preserved architectural features while strolling around."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Église Saint-Martin",
+            "ro": "Église Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            2.177238,
+            48.561116
+          ],
+          "category": "religious",
+          "arrive_at": "11:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese charmante Kirche, die für ihre friedliche Atmosphäre bekannt ist, und nehmen Sie sich Zeit, um die kunstvollen Fenster in Ruhe zu betrachten.",
+            "hu": "Látogasson el ebbe a békés hangulatáról ismert hangulatos templomba, és szánjon időt arra, hogy nyugodtan megcsodálja a művészi ólomüveg ablakokat.",
+            "ro": "Vizitați această biserică fermecătoare cunoscută pentru atmosfera sa liniștită și faceți-vă timp pentru a admira în liniște ferestrele artistice detaliate.",
+            "en": "Visit this charming church known for its peaceful atmosphere, and take your time to quietly admire the artistic stained glass windows before you move forward."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Yon",
+            "hu": "Église Saint-Yon",
+            "ro": "Église Saint-Yon",
+            "en": "Église Saint-Yon"
+          },
+          "coords": [
+            2.188283,
+            48.558279
+          ],
+          "category": "religious",
+          "arrive_at": "12:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie die spirituelle Ruhe dieses historischen Ortes, der tiefe Einblicke in die lokale Geschichte bietet, und tragen Sie bequeme Schuhe für den Weg.",
+            "hu": "Fedezze fel e történelmi hely szellemi nyugalmát, amely mély betekintést nyújt a helyi történelembe, és viseljen kényelmes cipőt a környék felfedezéséhez.",
+            "ro": "Descoperiți liniștea spirituală a acestui loc istoric care oferă perspective profunde asupra istoriei locale și purtați pantofi comozi pentru explorare.",
+            "en": "Discover the spiritual tranquility of this historic place that offers deep insights into local history, and wear comfortable shoes for exploring the surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscine de la résidence",
+            "hu": "Piscine de la résidence",
+            "ro": "Piscine de la résidence",
+            "en": "Piscine de la résidence"
+          },
+          "coords": [
+            2.187826,
+            48.572463
+          ],
+          "category": "family",
+          "arrive_at": "13:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Genießen Sie eine entspannte Zeit in diesem familienfreundlichen Bereich, der ideal für eine Pause ist, und packen Sie Badesachen ein, falls es warm ist.",
+            "hu": "Élvezze a pihentető időt ezen a családbarát területen, amely ideális egy kis szünetre, és mindenképpen csomagoljon fürdőruhát, ha az időjárás melegen alakul.",
+            "ro": "Bucurați-vă de un timp de relaxare în această zonă potrivită pentru familii, ideală pentru o pauză, și împachetați costume de baie dacă vremea este caldă.",
+            "en": "Enjoy a relaxing time in this family-friendly area which is ideal for a short break, and be sure to pack your swimwear just in case the weather turns warm."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Breuillet mit einem Besuch der historischen Saint-Pierre Kirche.\nDanach spazieren Sie zum faszinierenden Château du Chapitre, um mehr über die lokale Geschichte zu erfahren.\nAm Nachmittag besuchen Sie die charmanten Kirchen Saint-Martin und Saint-Yon in der Nähe.\nDer Tag endet entspannt an der familienfreundlichen Piscine de la résidence.",
+        "hu": "Kezdje a napot Breuillet szívében a történelmi Saint-Pierre templom meglátogatásával.\nEzt követően sétáljon el a lenyűgöző Château du Chapitre-hoz, hogy többet megtudjon a helyi történelemről.\nDélután látogassa meg a közeli, hangulatos Saint-Martin és Saint-Yon templomokat.\nA nap egy pihentető sétával zárul a családbarát Piscine de la résidence környékén.",
+        "ro": "Începeți ziua în inima orașului Breuillet cu o vizită la istorica Biserică Saint-Pierre.\nApoi plimbați-vă la fascinantul Château du Chapitre pentru a afla mai multe despre istoria locală.\nDupă-amiaza, vizitați fermecătoarele biserici Saint-Martin și Saint-Yon din apropiere.\nZiua se încheie cu o relaxare plăcută la Piscine de la résidence, o zonă perfectă pentru familii.",
+        "en": "Start your day in the heart of Breuillet with a visit to the historic Saint-Pierre Church.\nAfterward, stroll to the fascinating Château du Chapitre to learn more about the rich local history.\nIn the afternoon, visit the charming nearby churches of Saint-Martin and Saint-Yon.\nThe day ends with a relaxing time at the family-friendly Piscine de la résidence area."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:49",
+      "total_km": 5.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Pierre Church",
+            "hu": "Saint-Pierre Church",
+            "ro": "Saint-Pierre Church",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            2.171067,
+            48.566694
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen Details dieser ruhigen Kirche, die die Seele der Stadt widerspiegelt, und kommen Sie früh, um das sanfte Morgenlicht zu genießen.",
+            "hu": "Csodálja meg ennek a csendes templomnak a történelmi részleteit, amely a város lelkét tükrözi, és érkezzen korán, hogy élvezze a lágy reggeli fényeket a falakon.",
+            "ro": "Admirați detaliile istorice ale acestei biserici liniștite care reflectă sufletul orașului și veniți devreme pentru a vă bucura de lumina blândă a dimineții.",
+            "en": "Admire the historic details of this quiet church that reflects the soul of the city, and arrive early to enjoy the soft morning light illuminating the walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Château du Chapitre",
+            "hu": "Château du Chapitre",
+            "ro": "Château du Chapitre",
+            "en": "Château du Chapitre"
+          },
+          "coords": [
+            2.173239,
+            48.566688
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie das faszinierende Schloss, das von der reichen Vergangenheit der Region erzählt, und achten Sie auf die gut erhaltenen architektonischen Merkmale.",
+            "hu": "Fedezze fel a lenyűgöző kastélyt, amely a régió gazdag múltjáról mesél, és figyeljen a kiválóan megőrzött építészeti részletekre a kényelmes séta során.",
+            "ro": "Explorați castelul fascinant care povestește despre trecutul bogat al regiunii și acordați atenție caracteristicilor arhitecturale bine conservate din exterior.",
+            "en": "Explore the fascinating castle that tells the rich past of the region, and pay attention to the well-preserved architectural features while strolling around."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Église Saint-Martin",
+            "ro": "Église Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            2.177238,
+            48.561116
+          ],
+          "category": "religious",
+          "arrive_at": "11:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese charmante Kirche, die für ihre friedliche Atmosphäre bekannt ist, und nehmen Sie sich Zeit, um die kunstvollen Fenster in Ruhe zu betrachten.",
+            "hu": "Látogasson el ebbe a békés hangulatáról ismert hangulatos templomba, és szánjon időt arra, hogy nyugodtan megcsodálja a művészi ólomüveg ablakokat.",
+            "ro": "Vizitați această biserică fermecătoare cunoscută pentru atmosfera sa liniștită și faceți-vă timp pentru a admira în liniște ferestrele artistice detaliate.",
+            "en": "Visit this charming church known for its peaceful atmosphere, and take your time to quietly admire the artistic stained glass windows before you move forward."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Yon",
+            "hu": "Église Saint-Yon",
+            "ro": "Église Saint-Yon",
+            "en": "Église Saint-Yon"
+          },
+          "coords": [
+            2.188283,
+            48.558279
+          ],
+          "category": "religious",
+          "arrive_at": "12:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie die spirituelle Ruhe dieses historischen Ortes, der tiefe Einblicke in die lokale Geschichte bietet, und tragen Sie bequeme Schuhe für den Weg.",
+            "hu": "Fedezze fel e történelmi hely szellemi nyugalmát, amely mély betekintést nyújt a helyi történelembe, és viseljen kényelmes cipőt a környék felfedezéséhez.",
+            "ro": "Descoperiți liniștea spirituală a acestui loc istoric care oferă perspective profunde asupra istoriei locale și purtați pantofi comozi pentru explorare.",
+            "en": "Discover the spiritual tranquility of this historic place that offers deep insights into local history, and wear comfortable shoes for exploring the surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Domaine de Segrez",
+            "hu": "Domaine de Segrez",
+            "ro": "Domaine de Segrez",
+            "en": "Domaine de Segrez"
+          },
+          "coords": [
+            2.177172,
+            48.546266
+          ],
+          "category": "castle",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die Pracht dieses beeindruckenden Anwesens mit seinen weiten Gärten, und vergessen Sie Ihre Kamera nicht, um die Landschaft festzuhalten.",
+            "hu": "Merüljön el ennek a lenyűgöző birtoknak és hatalmas kertjeinek pompájában, és ne felejtse el a fényképezőgépét, hogy megörökítse a csodálatos tájat.",
+            "ro": "Cufundați-vă în splendoarea acestei proprietăți impresionante cu grădinile sale vaste și nu uitați aparatul foto pentru a surprinde peisajele minunate.",
+            "en": "Immerse yourself in the splendor of this impressive estate with its vast gardens, and don't forget your camera to capture the magnificent scenic landscapes."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Sulpice",
+            "hu": "Église Saint-Sulpice",
+            "ro": "Église Saint-Sulpice",
+            "en": "Église Saint-Sulpice"
+          },
+          "coords": [
+            2.178968,
+            48.541354
+          ],
+          "category": "religious",
+          "arrive_at": "14:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von der bescheidenen Schönheit dieser alten Kirche verzaubern, die abseits der Hauptwege liegt, und schätzen Sie die Stille im Inneren.",
+            "hu": "Hagyja, hogy elvarázsolja a főutaktól távol eső régi templom szerény szépsége, és értékelje a belső tér csendjét a délutáni látogatás során.",
+            "ro": "Lăsați-vă fermecați de frumusețea modestă a acestei biserici vechi situată departe de drumurile principale și apreciați liniștea interioară deosebită.",
+            "en": "Be enchanted by the modest beauty of this old church located away from the main paths, and appreciate the special inner silence during your afternoon visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Renarde River",
+            "hu": "Renarde River",
+            "ro": "Renarde River",
+            "en": "Renarde River"
+          },
+          "coords": [
+            2.156798,
+            48.536386
+          ],
+          "category": "natural",
+          "arrive_at": "15:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Spazieren Sie an den malerischen Ufern dieses sanften Flusses, um die Natur hautnah zu erleben, und bringen Sie ein kleines Picknick für den späten Nachmittag mit.",
+            "hu": "Sétáljon e szelíd folyó festői partján, hogy testközelből tapasztalja meg a természetet, és hozzon magával egy kis pikniket a késő délutáni megpihenéshez.",
+            "ro": "Plimbați-vă de-a lungul malurilor pitorești ale acestui râu blând pentru a experimenta natura de aproape și aduceți un mic picnic pentru după-amiaza târziu.",
+            "en": "Stroll along the picturesque banks of this gentle river to experience nature up close, and bring a small picnic to enjoy a relaxing late afternoon break."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein erfrischender Morgen erwartet Sie im Stadtzentrum an der Saint-Pierre Kirche und dem Schloss.\nMit dem Fahrrad geht es dann weiter zu den friedlichen Kirchen Saint-Martin und Saint-Yon.\nNachmittags radeln Sie zum beeindruckenden Domaine de Segrez und zur alten Église Saint-Sulpice.\nIhre Tour endet malerisch an den naturbelassenen und ruhigen Ufern des Flusses Renarde.",
+        "hu": "Frissítő reggel várja a városközpontban a Saint-Pierre templomnál és a kastélynál.\nKerékpárral induljon tovább a békés Saint-Martin és Saint-Yon templomok felé.\nDélután tekerjen el a lenyűgöző Domaine de Segrez-hez és a régi Église Saint-Sulpice-hoz.\nA túra festői környezetben, a Renarde folyó természetes és csendes partján ér véget.",
+        "ro": "O dimineață răcoroasă vă așteaptă în centrul orașului, la biserica Saint-Pierre și castel.\nCu bicicleta, continuați spre bisericile liniștite Saint-Martin și Saint-Yon.\nDupă-amiaza, pedalați către impresionantul Domaine de Segrez și vechea Église Saint-Sulpice.\nTurul se încheie pitoresc pe malurile naturale și liniștite ale râului Renarde.",
+        "en": "A refreshing morning awaits you in the city center at the Saint-Pierre Church and the castle.\nContinue your bike ride to the peaceful Saint-Martin and Saint-Yon churches.\nIn the afternoon, pedal to the impressive Domaine de Segrez and the old Église Saint-Sulpice.\nYour tour ends picturesquely on the natural and quiet banks of the gentle Renarde River."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:52",
+      "total_km": 8.3,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Château du Chapitre",
+            "hu": "Château du Chapitre",
+            "ro": "Château du Chapitre",
+            "en": "Château du Chapitre"
+          },
+          "coords": [
+            2.173239,
+            48.566688
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie das faszinierende Schloss, das von der reichen Vergangenheit der Region erzählt, und achten Sie auf die gut erhaltenen architektonischen Merkmale.",
+            "hu": "Fedezze fel a lenyűgöző kastélyt, amely a régió gazdag múltjáról mesél, és figyeljen a kiválóan megőrzött építészeti részletekre a kényelmes séta során.",
+            "ro": "Explorați castelul fascinant care povestește despre trecutul bogat al regiunii și acordați atenție caracteristicilor arhitecturale bine conservate din exterior.",
+            "en": "Explore the fascinating castle that tells the rich past of the region, and pay attention to the well-preserved architectural features while strolling around."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Pierre Church",
+            "hu": "Saint-Pierre Church",
+            "ro": "Saint-Pierre Church",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            2.171067,
+            48.566694
+          ],
+          "category": "religious",
+          "arrive_at": "10:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen Details dieser ruhigen Kirche, die die Seele der Stadt widerspiegelt, und kommen Sie früh, um das sanfte Morgenlicht zu genießen.",
+            "hu": "Csodálja meg ennek a csendes templomnak a történelmi részleteit, amely a város lelkét tükrözi, és érkezzen korán, hogy élvezze a lágy reggeli fényeket a falakon.",
+            "ro": "Admirați detaliile istorice ale acestei biserici liniștite care reflectă sufletul orașului și veniți devreme pentru a vă bucura de lumina blândă a dimineții.",
+            "en": "Admire the historic details of this quiet church that reflects the soul of the city, and arrive early to enjoy the soft morning light illuminating the walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscine de la résidence",
+            "hu": "Piscine de la résidence",
+            "ro": "Piscine de la résidence",
+            "en": "Piscine de la résidence"
+          },
+          "coords": [
+            2.187826,
+            48.572463
+          ],
+          "category": "family",
+          "arrive_at": "11:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Genießen Sie eine entspannte Zeit in diesem familienfreundlichen Bereich, der ideal für eine Pause ist, und packen Sie Badesachen ein, falls es warm ist.",
+            "hu": "Élvezze a pihentető időt ezen a családbarát területen, amely ideális egy kis szünetre, és mindenképpen csomagoljon fürdőruhát, ha az időjárás melegen alakul.",
+            "ro": "Bucurați-vă de un timp de relaxare în această zonă potrivită pentru familii, ideală pentru o pauză, și împachetați costume de baie dacă vremea este caldă.",
+            "en": "Enjoy a relaxing time in this family-friendly area which is ideal for a short break, and be sure to pack your swimwear just in case the weather turns warm."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Yon",
+            "hu": "Église Saint-Yon",
+            "ro": "Église Saint-Yon",
+            "en": "Église Saint-Yon"
+          },
+          "coords": [
+            2.188283,
+            48.558279
+          ],
+          "category": "religious",
+          "arrive_at": "12:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die spirituelle Ruhe dieses historischen Ortes, der tiefe Einblicke in die lokale Geschichte bietet, und tragen Sie bequeme Schuhe für den Weg.",
+            "hu": "Fedezze fel e történelmi hely szellemi nyugalmát, amely mély betekintést nyújt a helyi történelembe, és viseljen kényelmes cipőt a környék felfedezéséhez.",
+            "ro": "Descoperiți liniștea spirituală a acestui loc istoric care oferă perspective profunde asupra istoriei locale și purtați pantofi comozi pentru explorare.",
+            "en": "Discover the spiritual tranquility of this historic place that offers deep insights into local history, and wear comfortable shoes for exploring the surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Église Saint-Martin",
+            "ro": "Église Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            2.177238,
+            48.561116
+          ],
+          "category": "religious",
+          "arrive_at": "13:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese charmante Kirche, die für ihre friedliche Atmosphäre bekannt ist, und nehmen Sie sich Zeit, um die kunstvollen Fenster in Ruhe zu betrachten.",
+            "hu": "Látogasson el ebbe a békés hangulatáról ismert hangulatos templomba, és szánjon időt arra, hogy nyugodtan megcsodálja a művészi ólomüveg ablakokat.",
+            "ro": "Vizitați această biserică fermecătoare cunoscută pentru atmosfera sa liniștită și faceți-vă timp pentru a admira în liniște ferestrele artistice detaliate.",
+            "en": "Visit this charming church known for its peaceful atmosphere, and take your time to quietly admire the artistic stained glass windows before you move forward."
+          }
+        },
+        {
+          "name": {
+            "de": "Domaine de Segrez",
+            "hu": "Domaine de Segrez",
+            "ro": "Domaine de Segrez",
+            "en": "Domaine de Segrez"
+          },
+          "coords": [
+            2.177172,
+            48.546266
+          ],
+          "category": "castle",
+          "arrive_at": "14:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die Pracht dieses beeindruckenden Anwesens mit seinen weiten Gärten, und vergessen Sie Ihre Kamera nicht, um die Landschaft festzuhalten.",
+            "hu": "Merüljön el ennek a lenyűgöző birtoknak és hatalmas kertjeinek pompájában, és ne felejtse el a fényképezőgépét, hogy megörökítse a csodálatos tájat.",
+            "ro": "Cufundați-vă în splendoarea acestei proprietăți impresionante cu grădinile sale vaste și nu uitați aparatul foto pentru a surprinde peisajele minunate.",
+            "en": "Immerse yourself in the splendor of this impressive estate with its vast gardens, and don't forget your camera to capture the magnificent scenic landscapes."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Sulpice",
+            "hu": "Église Saint-Sulpice",
+            "ro": "Église Saint-Sulpice",
+            "en": "Église Saint-Sulpice"
+          },
+          "coords": [
+            2.178968,
+            48.541354
+          ],
+          "category": "religious",
+          "arrive_at": "15:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von der bescheidenen Schönheit dieser alten Kirche verzaubern, die abseits der Hauptwege liegt, und schätzen Sie die Stille im Inneren.",
+            "hu": "Hagyja, hogy elvarázsolja a főutaktól távol eső régi templom szerény szépsége, és értékelje a belső tér csendjét a délutáni látogatás során.",
+            "ro": "Lăsați-vă fermecați de frumusețea modestă a acestei biserici vechi situată departe de drumurile principale și apreciați liniștea interioară deosebită.",
+            "en": "Be enchanted by the modest beauty of this old church located away from the main paths, and appreciate the special inner silence during your afternoon visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Renarde River",
+            "hu": "Renarde River",
+            "ro": "Renarde River",
+            "en": "Renarde River"
+          },
+          "coords": [
+            2.156798,
+            48.536386
+          ],
+          "category": "natural",
+          "arrive_at": "16:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Spazieren Sie an den malerischen Ufern dieses sanften Flusses, um die Natur hautnah zu erleben, und bringen Sie ein kleines Picknick für den späten Nachmittag mit.",
+            "hu": "Sétáljon e szelíd folyó festői partján, hogy testközelből tapasztalja meg a természetet, és hozzon magával egy kis pikniket a késő délutáni megpihenéshez.",
+            "ro": "Plimbați-vă de-a lungul malurilor pitorești ale acestui râu blând pentru a experimenta natura de aproape și aduceți un mic picnic pentru după-amiaza târziu.",
+            "en": "Stroll along the picturesque banks of this gentle river to experience nature up close, and bring a small picnic to enjoy a relaxing late afternoon break."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt mit der Erkundung des Château du Chapitre und der nahegelegenen Hauptkirche.\nGegen Mittag erreichen Sie bequem die familienfreundlichen Bereiche und die Kirche Saint-Yon.\nAm Nachmittag führt die Route zum großen Domaine de Segrez und weiteren spirituellen Orten.\nDer Tag klingt ruhig in der Natur am Fluss Renarde aus, weit ab vom Trubel des Alltags.",
+        "hu": "Az utazás a Château du Chapitre és a közeli főtemplom felfedezésével kezdődik.\nDél körül kényelmesen elérheti a családbarát területeket és a Saint-Yon templomot.\nDélután az útvonal a nagy Domaine de Segrez-hez és más szellemi helyszínekhez vezet.\nA nap csendesen, a természet lágy ölén, a Renarde folyó partján zárul.",
+        "ro": "Călătoria începe cu explorarea Château du Chapitre și a bisericii principale din apropiere.\nÎn jurul prânzului ajungeți ușor la zonele pentru familii și la biserica Saint-Yon.\nDupă-amiaza, traseul duce la marele Domaine de Segrez și alte situri spirituale.\nZiua se încheie liniștit în natură, pe malul râului Renarde, departe de agitația zilnică.",
+        "en": "Your drive begins with exploring the Château du Chapitre and the nearby main church.\nAround midday, you easily reach the family-friendly areas and the Saint-Yon church.\nIn the afternoon, the route takes you to the grand Domaine de Segrez and other spiritual sites.\nThe day ends quietly in nature by the Renarde River, far away from everyday hustle and bustle."
+      }
+    }
+  }
+}

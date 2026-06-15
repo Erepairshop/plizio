@@ -1,0 +1,451 @@
+{
+  "city_id": "france-ile-de-groix-cities-v2",
+  "anchor": {
+    "name": "Île de Groix",
+    "coords": [
+      -3.455,
+      47.638611
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:20",
+      "total_km": 4.99,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Parcabout Chien Noir",
+            "hu": "Parcabout Chien Noir",
+            "ro": "Parcabout Chien Noir",
+            "en": "Parcabout Chien Noir"
+          },
+          "coords": [
+            -3.450567,
+            47.634601
+          ],
+          "category": "recreational",
+          "arrive_at": "09:08",
+          "stay_min": 85,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.56,
+          "tip_5lang": {
+            "de": "Klettern Sie durch die hängenden Netze des Parcabout Chien Noir für eine einzigartige Waldperspektive, aber tragen Sie bequeme Sportschuhe für mehr Sicherheit.",
+            "hu": "Másszon végig a Parcabout Chien Noir függőhálóin, hogy egyedi perspektívából lássa az erdőt, de a biztonság érdekében viseljen kényelmes sportcipőt.",
+            "ro": "Cățărați-vă prin plasele suspendate de la Parcabout Chien Noir pentru o perspectivă unică, dar asigurați-vă că purtați încălțăminte sportivă pentru siguranță.",
+            "en": "Climb through the suspended netting of Parcabout Chien Noir to enjoy a unique forest perspective, but be sure to wear comfortable athletic shoes for safety."
+          }
+        },
+        {
+          "name": {
+            "de": "Fontaine",
+            "hu": "Fontaine",
+            "ro": "Fontaine",
+            "en": "Fontaine"
+          },
+          "coords": [
+            -3.447326,
+            47.624842
+          ],
+          "category": "historical",
+          "arrive_at": "10:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen historischen Brunnen, der einst als wichtige Wasserquelle diente, und bringen Sie eine Kamera mit, um die friedliche Umgebung festzuhalten.",
+            "hu": "Fedezze fel ezt a történelmi kutat, amely egykor a szigetlakók fontos vízforrása volt, és hozzon magával fényképezőgépet a békés környezet megörökítéséhez.",
+            "ro": "Descoperiți această fântână istorică ce a servit ca sursă vitală de apă pentru insulari și aduceți un aparat foto pentru a surprinde împrejurimile liniștite.",
+            "en": "Discover this charming historic fountain that once served as a vital water source for the islanders, and bring a camera to capture the peaceful rustic surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Saisies",
+            "hu": "Les Saisies",
+            "ro": "Les Saisies",
+            "en": "Les Saisies"
+          },
+          "coords": [
+            -3.442585,
+            47.622216
+          ],
+          "category": "natural",
+          "arrive_at": "12:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Erkunden Sie die raue natürliche Schönheit von Les Saisies, um die Artenvielfalt zu erleben, und bleiben Sie auf markierten Wegen zum Schutz der Flora.",
+            "hu": "Fedezze fel a Les Saisies zord természeti szépségét és part menti biológiai sokféleségét, de maradjon a kijelölt utakon az őshonos növényvilág védelme érdekében.",
+            "ro": "Explorați frumusețea naturală de la Les Saisies pentru a experimenta biodiversitatea de coastă și rămâneți pe cărările marcate pentru a proteja flora nativă.",
+            "en": "Explore the rugged natural beauty of Les Saisies to experience the island's coastal biodiversity, and stay on marked paths to protect the fragile native flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Crique naturiste",
+            "hu": "Crique naturiste",
+            "ro": "Crique naturiste",
+            "en": "Crique naturiste"
+          },
+          "coords": [
+            -3.456117,
+            47.622985
+          ],
+          "category": "recreational",
+          "arrive_at": "13:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.02,
+          "tip_5lang": {
+            "de": "Entspannen Sie in dieser FKK-Bucht, wo kristallklares Wasser auf felsige Ufer trifft, und packen Sie ausreichend Sonnencreme sowie Trinkwasser für Ihren Aufenthalt ein.",
+            "hu": "Pihenjen ebben az eldugott naturista öbölben, ahol a kristálytiszta víz találkozik a sziklás parttal, és vigyen magával naptejet, illetve elegendő ivóvizet.",
+            "ro": "Relaxați-vă în acest golf naturist unde apele limpezi întâlnesc țărmuri stâncoase și nu uitați să luați cremă de soare și apă pentru un sejur confortabil.",
+            "en": "Relax at this secluded naturist cove where crystal-clear waters meet dramatic rocky shores, and remember to pack plenty of sunscreen and water for a comfortable stay."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin en ruine",
+            "hu": "Moulin en ruine",
+            "ro": "Moulin en ruine",
+            "en": "Moulin en ruine"
+          },
+          "coords": [
+            -3.470219,
+            47.636389
+          ],
+          "category": "historical",
+          "arrive_at": "15:30",
+          "stay_min": 110,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.85,
+          "tip_5lang": {
+            "de": "Bewundern Sie die verwitterten Überreste dieser Mühle, die von der Agrargeschichte zeugt, und besuchen Sie sie am späten Nachmittag für besonders stimmungsvolle Fotos.",
+            "hu": "Csodálja meg ennek a romos malomnak az időjárás rágta kőmaradványait, és látogasson el ide késő délután, hogy csodálatos fényviszonyok között készíthessen fotókat.",
+            "ro": "Admirați rămășițele din piatră ale acestei mori ruinate ce amintesc de istoria agricolă și veniți după-amiaza târziu pentru fotografii cu o lumină minunată.",
+            "en": "Admire the weathered stone remains of this ruined mill that whispers tales of agricultural history, and visit during late afternoon for beautifully textured photographs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am Ankerpunkt mit aktivem Spaß im Parcabout Chien Noir, gefolgt von einem Spaziergang zum historischen Brunnen. Mittags führt der Weg nach Süden zu den natürlichen Lebensräumen von Les Saisies. Der Nachmittag ist für die entspannende FKK-Bucht reserviert, wo die Schönheit der Küste strahlt. Der Abend schließt mit der stimmungsvollen Silhouette der alten Mühlenruine.",
+        "hu": "A reggel a horgonypont közelében kezdődik a Parcabout Chien Noir aktív szórakozásával, majd a történelmi kúthoz sétálunk. Délben dél felé vesszük az irányt a Les Saisies érintetlen természetébe. A délutánt a naturista öbölben töltjük, ahol a part menti szépség igazán ragyog. Az estét a romos malom lenyűgöző sziluettje zárja, gyönyörű befejezést adva a napnak.",
+        "ro": "Dimineața începe cu distracție activă la Parcabout Chien Noir, urmată de o plimbare spre fântâna istorică. La amiază ajungeți în sud, la Les Saisies, pentru a aprecia habitatele naturale intacte ale insulei. După-amiaza este rezervată relaxării pure în golful naturist cu frumusețea sa de coastă. Seara se încheie liniștit cu silueta evocatoare a morii ruinate.",
+        "en": "Morning starts near the anchor point with active fun at Parcabout Chien Noir, followed by a pleasant stroll to the historic fountain. Midday brings you south to Les Saisies to appreciate the island's untouched natural habitats. Afternoon is reserved for pure relaxation at the naturist cove where coastal beauty shines. Evening closes with the evocative silhouette of the ruined mill."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:42",
+      "total_km": 4.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Lavoir du prat",
+            "hu": "Lavoir du prat",
+            "ro": "Lavoir du prat",
+            "en": "Lavoir du prat"
+          },
+          "coords": [
+            -3.473478,
+            47.634314
+          ],
+          "category": "historical",
+          "arrive_at": "09:08",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.46,
+          "tip_5lang": {
+            "de": "Betrachten Sie das traditionelle Lavoir du prat, um die gemeinschaftliche Waschgeschichte zu verstehen, und tragen Sie feste Schuhe für das umliegende Kopfsteinpflaster.",
+            "hu": "Figyelje meg a hagyományos Lavoir du prat-ot, hogy megértse a közös mosás történetét, és viseljen sétacipőt a környező macskaköveken való biztonságos közlekedéshez.",
+            "ro": "Observați tradiționalul Lavoir du prat pentru a înțelege istoria spălatului comunal și purtați încălțăminte adecvată pentru a naviga în siguranță pe pietruitul din jur.",
+            "en": "Observe the traditional Lavoir du prat to understand the communal washing history of the island, and wear walking shoes to navigate the surrounding cobblestones safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmens dits Men Cam et Men Yann",
+            "hu": "Dolmens dits Men Cam et Men Yann",
+            "ro": "Dolmens dits Men Cam et Men Yann",
+            "en": "Dolmens dits Men Cam et Men Yann"
+          },
+          "coords": [
+            -3.485841,
+            47.635177
+          ],
+          "category": "historical",
+          "arrive_at": "10:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.93,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese alten Dolmen, um die prähistorischen Wurzeln der Insel zu spüren, und lesen Sie die Informationstafeln für faszinierende lokale Zusammenhänge.",
+            "hu": "Csodálja meg ezeket az ősi dolmeneket, amelyek a sziget történelem előtti gyökereihez kötődnek, és szánjon időt a lenyűgöző helyi kontextust bemutató táblák elolvasására.",
+            "ro": "Minunați-vă de aceste dolmene antice pentru a vă conecta cu rădăcinile preistorice ale insulei și citiți plăcile informative pentru un context local fascinant.",
+            "en": "Marvel at these ancient dolmens to connect with the island's deep prehistoric roots, and take a moment to read the informational plaques for fascinating local context."
+          }
+        },
+        {
+          "name": {
+            "de": "Allée Couverte",
+            "hu": "Allée Couverte",
+            "ro": "Allée Couverte",
+            "en": "Allée Couverte"
+          },
+          "coords": [
+            -3.487165,
+            47.635836
+          ],
+          "category": "historical",
+          "arrive_at": "12:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Gehen Sie um dieses megalithische Galeriegrab herum, um die neolithische Architektur zu würdigen, aber klettern Sie bitte nicht auf die alten Steine, um sie zu erhalten.",
+            "hu": "Sétáljon körbe ezen a megalitikus folyosósíron, hogy megcsodálja a neolitikus építészetet, de kérjük, ne másszon fel az ősi kövekre a történelmi helyszín védelmében.",
+            "ro": "Plimbați-vă în jurul acestui mormânt megalitic pentru a aprecia arhitectura neolitică, dar evitați să vă urcați pe pietrele antice pentru a păstra acest sit istoric.",
+            "en": "Walk around this megalithic gallery grave to appreciate Neolithic architectural ingenuity, but please avoid climbing on the ancient stones to preserve this historic site."
+          }
+        },
+        {
+          "name": {
+            "de": "La maison de Kerlard",
+            "hu": "La maison de Kerlard",
+            "ro": "La maison de Kerlard",
+            "en": "La maison de Kerlard"
+          },
+          "coords": [
+            -3.486715,
+            47.639292
+          ],
+          "category": "museum",
+          "arrive_at": "13:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses gut erhaltene lokale Museum, um in das authentische maritime Erbe von Groix einzutauchen, und prüfen Sie vorher die saisonalen Öffnungszeiten.",
+            "hu": "Fedezze fel ezt a jól megőrzött helyi múzeumot, hogy elmerüljön Groix tengerészeti örökségében, és előzetesen ellenőrizze a szezonálisan változó nyitvatartási időt.",
+            "ro": "Explorați acest muzeu local pentru a vă scufunda în patrimoniul maritim autentic al insulei Groix și verificați orele de deschidere deoarece variază în funcție de sezon.",
+            "en": "Explore this well-preserved local museum to dive deep into Groix's authentic maritime heritage, and check the opening hours beforehand as they vary by tourist season."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Léonard",
+            "hu": "Chapelle Saint-Léonard",
+            "ro": "Chapelle Saint-Léonard",
+            "en": "Chapelle Saint-Léonard"
+          },
+          "coords": [
+            -3.483899,
+            47.648947
+          ],
+          "category": "religious",
+          "arrive_at": "15:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.09,
+          "tip_5lang": {
+            "de": "Erleben Sie die ruhige Atmosphäre der Chapelle Saint-Léonard mit ihren maritimen Votivgaben und verhalten Sie sich während Ihres kurzen Besuchs respektvoll und leise.",
+            "hu": "Tapasztalja meg a Chapelle Saint-Léonard nyugodt légkörét a jellegzetes tengerészeti fogadalmi tárgyakkal, és őrizze meg a csendes, tiszteletteljes viselkedést látogatása során.",
+            "ro": "Experimentați atmosfera senină a Capelei Saint-Léonard cu ex-voturile sale maritime și mențineți un comportament liniștit și respectuos în timpul vizitei dumneavoastră.",
+            "en": "Experience the serene atmosphere of Chapelle Saint-Léonard with its distinctive maritime ex-votos, and maintain a quiet respectful demeanor during your brief visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Port Melin",
+            "hu": "Port Melin",
+            "ro": "Port Melin",
+            "en": "Port Melin"
+          },
+          "coords": [
+            -3.47185,
+            47.647632
+          ],
+          "category": "recreational",
+          "arrive_at": "15:57",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.92,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt am Port Melin, um weite Küstenblicke von einem charmanten kleinen Hafen zu genießen, und holen Sie sich einen Snack, bevor Sie zurückkehren.",
+            "hu": "Fejezze be kerékpározását Port Melinben, hogy élvezze a bájos kis kikötőből nyíló part menti kilátást, és egyen egy könnyű harapnivalót, mielőtt visszatér a városba.",
+            "ro": "Încheiați-vă plimbarea la Port Melin pentru a savura priveliștile de coastă din micul port fermecător și luați o gustare ușoară înainte de a vă întoarce în oraș.",
+            "en": "End your ride at Port Melin to enjoy sweeping coastal views from a charming small harbor, and grab a light snack at a nearby vendor before heading back into town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das morgendliche Radeln beginnt am historischen Lavoir du prat, bevor es zu den antiken Dolmen Men Cam und Men Yann geht. Mittags erkunden Sie die nahegelegene Allée Couverte und lernen die Inselgeschichte kennen. Der Nachmittag widmet sich den Ausstellungen im Museum von Kerlard und der stillen Kapelle. Der Abend bricht am malerischen Port Melin auf wunderbare Weise herein.",
+        "hu": "A reggeli kerékpározás a történelmi Lavoir du prat meglátogatásával indul, majd az ősi Men Cam és Men Yann dolmenekhez vezet. A delet a közeli Allée Couverte felfedezésével töltjük. A délután a La maison de Kerlard gazdag kiállításaira fókuszál, majd a csendes kápolnára. Az este a festői Port Melinben köszönt ránk, lenyűgöző kilátást nyújtva a tengerre.",
+        "ro": "Pedalarea matinală începe cu o vizită la istoricul Lavoir du prat, înainte de a ajunge la dolmenele antice. Amiaza este petrecută explorând Allée Couverte și învățând istoria insulei. După-amiaza se concentrează pe expozițiile de la La maison de Kerlard, urmate de o vizită la capela liniștită. Seara coboară frumos în pitorescul Port Melin, pe malul mării.",
+        "en": "Morning pedaling kicks off with a visit to the historic Lavoir du prat, setting a traditional tone before reaching the ancient Men Cam and Men Yann dolmens. Midday is spent exploring the nearby Allée Couverte and learning island lore. Afternoon focuses on the rich exhibits at La maison de Kerlard, followed by the quiet chapel. Evening descends beautifully at the scenic Port Melin."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:02",
+      "total_km": 5.25,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parcabout Chien Noir",
+            "hu": "Parcabout Chien Noir",
+            "ro": "Parcabout Chien Noir",
+            "en": "Parcabout Chien Noir"
+          },
+          "coords": [
+            -3.450567,
+            47.634601
+          ],
+          "category": "recreational",
+          "arrive_at": "09:02",
+          "stay_min": 85,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.56,
+          "tip_5lang": {
+            "de": "Klettern Sie durch die hängenden Netze des Parcabout Chien Noir für eine einzigartige Waldperspektive, aber tragen Sie bequeme Sportschuhe für mehr Sicherheit.",
+            "hu": "Másszon végig a Parcabout Chien Noir függőhálóin, hogy egyedi perspektívából lássa az erdőt, de a biztonság érdekében viseljen kényelmes sportcipőt.",
+            "ro": "Cățărați-vă prin plasele suspendate de la Parcabout Chien Noir pentru o perspectivă unică, dar asigurați-vă că purtați încălțăminte sportivă pentru siguranță.",
+            "en": "Climb through the suspended netting of Parcabout Chien Noir to enjoy a unique forest perspective, but be sure to wear comfortable athletic shoes for safety."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin en ruine",
+            "hu": "Moulin en ruine",
+            "ro": "Moulin en ruine",
+            "en": "Moulin en ruine"
+          },
+          "coords": [
+            -3.470219,
+            47.636389
+          ],
+          "category": "historical",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.48,
+          "tip_5lang": {
+            "de": "Bewundern Sie die verwitterten Überreste dieser Mühle, die von der Agrargeschichte zeugt, und besuchen Sie sie am späten Nachmittag für besonders stimmungsvolle Fotos.",
+            "hu": "Csodálja meg ennek a romos malomnak az időjárás rágta kőmaradványait, és látogasson el ide késő délután, hogy csodálatos fényviszonyok között készíthessen fotókat.",
+            "ro": "Admirați rămășițele din piatră ale acestei mori ruinate ce amintesc de istoria agricolă și veniți după-amiaza târziu pentru fotografii cu o lumină minunată.",
+            "en": "Admire the weathered stone remains of this ruined mill that whispers tales of agricultural history, and visit during late afternoon for beautifully textured photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "La maison de Kerlard",
+            "hu": "La maison de Kerlard",
+            "ro": "La maison de Kerlard",
+            "en": "La maison de Kerlard"
+          },
+          "coords": [
+            -3.486715,
+            47.639292
+          ],
+          "category": "museum",
+          "arrive_at": "11:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.28,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses gut erhaltene lokale Museum, um in das authentische maritime Erbe von Groix einzutauchen, und prüfen Sie vorher die saisonalen Öffnungszeiten.",
+            "hu": "Fedezze fel ezt a jól megőrzött helyi múzeumot, hogy elmerüljön Groix tengerészeti örökségében, és előzetesen ellenőrizze a szezonálisan változó nyitvatartási időt.",
+            "ro": "Explorați acest muzeu local pentru a vă scufunda în patrimoniul maritim autentic al insulei Groix și verificați orele de deschidere deoarece variază în funcție de sezon.",
+            "en": "Explore this well-preserved local museum to dive deep into Groix's authentic maritime heritage, and check the opening hours beforehand as they vary by tourist season."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de Kelhuit",
+            "hu": "Menhir de Kelhuit",
+            "ro": "Menhir de Kelhuit",
+            "en": "Menhir de Kelhuit"
+          },
+          "coords": [
+            -3.485746,
+            47.645963
+          ],
+          "category": "historical",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.74,
+          "tip_5lang": {
+            "de": "Stehen Sie neben dem einsamen Menhir de Kelhuit, um die geheimnisvolle Präsenz antiker Steine zu spüren, und bringen Sie festes Schuhwerk für den unebenen Boden mit.",
+            "hu": "Álljon meg a magányos Menhir de Kelhuit mellett, hogy érezze az ősi állókövek titokzatos jelenlétét, és viseljen stabil cipőt, mivel a környező talaj gyakran egyenetlen.",
+            "ro": "Stați lângă solitarul Menhir de Kelhuit pentru a simți prezența pietrelor antice și purtați încălțăminte robustă deoarece terenul înconjurător este adesea denivelat.",
+            "en": "Stand beside the solitary Menhir de Kelhuit to feel the mysterious presence of ancient standing stones, and bring sturdy shoes as the surrounding ground is often uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Plouziorek",
+            "hu": "Plouziorek",
+            "ro": "Plouziorek",
+            "en": "Plouziorek"
+          },
+          "coords": [
+            -3.479072,
+            47.649055
+          ],
+          "category": "recreational",
+          "arrive_at": "14:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.61,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch das malerische Erholungsgebiet Plouziorek, um im Grünen zu entspannen, und packen Sie ein kleines Picknick für eine der Holzbänke ein.",
+            "hu": "Sétáljon át Plouziorek festői rekreációs területén, hogy a buja növényzet közepette lazítson, és fontolja meg egy kis piknik csomagolását a fapadokon való étkezéshez.",
+            "ro": "Plimbați-vă prin zona de agrement pitorească Plouziorek pentru a vă relaxa în mijlocul verdeții și luați în considerare un mic picnic pentru a-l savura pe o bancă.",
+            "en": "Stroll through the scenic recreational area of Plouziorek to unwind amidst lush greenery, and consider packing a small picnic to enjoy on one of the wooden benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Lavoir",
+            "hu": "Lavoir",
+            "ro": "Lavoir",
+            "en": "Lavoir"
+          },
+          "coords": [
+            -3.47522,
+            47.644518
+          ],
+          "category": "historical",
+          "arrive_at": "16:12",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.58,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses zweite historische Waschhaus in einer ruhigen Ecke der Insel und beachten Sie die ausgeklügelten Wasserkanäle, die noch heute perfekt funktionieren.",
+            "hu": "Fedezze fel ezt a sziget egy csendes sarkában megbúvó második történelmi mosóházat, és figyelje meg a zseniális, hagyományos vízcsatornákat, amelyek ma is jól működnek.",
+            "ro": "Descoperiți această a doua spălătorie istorică ascunsă într-un colț liniștit al insulei și observați canalele de apă tradiționale ingenioase care încă funcționează.",
+            "en": "Discover this second historic washhouse tucked away in a quiet corner of the island, and notice the ingenious traditional water channels that still function perfectly today."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die morgendliche Fahrt bringt Sie schnell zum Parcabout Chien Noir für ein Waldabenteuer und weiter zur stimmungsvollen Mühlenruine. Mittags gibt es einen ausführlichen Stopp im Museum von Kerlard, um die maritime Kultur aufzunehmen. Der Nachmittag führt am Menhir de Kelhuit vorbei in die üppigen Anlagen von Plouziorek. Der Abend endet friedlich am nördlichen Waschhaus.",
+        "hu": "A reggeli autózás gyors eljutást biztosít a Parcabout Chien Noir erdei kalandjaihoz, majd a hangulatos romos malomhoz. A dél egy átfogó megállót kínál a La maison de Kerlard-nál, ahol elmerülhet a helyi tengerészeti kultúrában. A délután a lenyűgöző Menhir de Kelhuit érintésével a Plouziorek buja területeire vezet. Az este az északi mosóháznál ér véget békésen.",
+        "ro": "Condusul de dimineață oferă acces rapid la Parcabout Chien Noir, trecând ușor la moara ruinată. Amiaza permite o oprire detaliată la La maison de Kerlard pentru a absorbi cultura maritimă locală. După-amiaza vă poartă pe lângă Menhirul din Kelhuit către zonele verzi din Plouziorek. Seara se încheie în mod pașnic la spălătoria liniștită din nordul insulei.",
+        "en": "Morning driving brings quick access to Parcabout Chien Noir for some woodland adventure, easily transitioning to the nearby atmospheric ruined mill. Midday allows a comprehensive stop at La maison de Kerlard to absorb the local maritime culture. Afternoon takes you past the dramatic Menhir de Kelhuit to the lush grounds of Plouziorek. Evening ends at the quiet northern washhouse."
+      }
+    }
+  }
+}

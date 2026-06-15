@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-calambrone-cities-v2",
+  "anchor": {
+    "name": "Calambrone",
+    "coords": [
+      10.29737,
+      43.59472
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:40",
+      "total_km": 1.25,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di Santa Rosa",
+            "hu": "Chiesa di Santa Rosa",
+            "ro": "Chiesa di Santa Rosa",
+            "en": "Chiesa di Santa Rosa"
+          },
+          "coords": [
+            10.294208,
+            43.59929
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die modernen Linien dieser Küstenkirche, ein ruhiger spiritueller Anker in Calambrone, und treten Sie früh ein, um das morgendliche Licht zu genießen.",
+            "hu": "Csodálja meg ennek a partmenti templomnak a modern vonalait, amely Calambrone békés lelki horgonya, és lépjen be korán, hogy élvezze a reggeli fényeket az ablakokon át.",
+            "ro": "Admirați liniile moderne ale acestei biserici de coastă, o ancoră spirituală senină în Calambrone, și intrați devreme pentru a vă bucura de lumina liniștită a dimineții.",
+            "en": "Admire the modern lines of this coastal church, a serene spiritual anchor in Calambrone, and step inside early to enjoy the peaceful morning light through its windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Duna di Calambrone",
+            "hu": "Duna di Calambrone",
+            "ro": "Duna di Calambrone",
+            "en": "Duna di Calambrone"
+          },
+          "coords": [
+            10.292853,
+            43.596921
+          ],
+          "category": "natural",
+          "arrive_at": "09:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese geschützten Sanddünen, die das ursprüngliche toskanische Küstenökosystem zeigen, und bleiben Sie auf den markierten Holzstegen, um die Flora zu schützen.",
+            "hu": "Fedezze fel ezeket a védett homokdűnéket, amelyek az eredeti toszkán partvidéket mutatják be, és maradjon a kijelölt fapallókon, hogy megóvja a törékeny helyi flórát.",
+            "ro": "Explorați aceste dune de nisip protejate care prezintă ecosistemul original al coastei toscane și rămâneți pe pasarelele de lemn marcate pentru a proteja flora fragilă.",
+            "en": "Explore these protected sand dunes that showcase the original Tuscan coastal ecosystem, and stick to the marked wooden boardwalks to protect the fragile local flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Social Beach Calambrone",
+            "hu": "Social Beach Calambrone",
+            "ro": "Social Beach Calambrone",
+            "en": "Social Beach Calambrone"
+          },
+          "coords": [
+            10.291011,
+            43.602129
+          ],
+          "category": "recreational",
+          "arrive_at": "11:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem einladenden Strandclub, der für seine inklusive Atmosphäre bekannt ist, und mieten Sie in den Hochsommermonaten am besten im Voraus eine Liege.",
+            "hu": "Pihenjen ezen a barátságos, közösségközpontú strandon, amely befogadó légköréről ismert, és fontolja meg a napozóágyak előzetes bérlését a nyári csúcsidőszakokban.",
+            "ro": "Relaxați-vă la acest club de plajă primitor, cunoscut pentru atmosfera sa incluzivă, și luați în considerare închirierea unui șezlong în avans pe parcursul verii.",
+            "en": "Relax at this welcoming, community-focused beach club known for its inclusive atmosphere, and consider renting a sunbed in advance during the peak summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Viciente",
+            "hu": "Lido Viciente",
+            "ro": "Lido Viciente",
+            "en": "Lido Viciente"
+          },
+          "coords": [
+            10.290447,
+            43.60318
+          ],
+          "category": "recreational",
+          "arrive_at": "12:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Genießen Sie die Sonne an diesem lebhaften Küstenabschnitt mit feinem goldenen Sand und bringen Sie Ihre eigene Schnorchelausrüstung mit, um kleine Meerestiere zu sichten.",
+            "hu": "Élvezze a napsütést ezen a nyüzsgő partszakaszon, amely aranyszínű homokkal várja, és mindenképpen hozzon magával saját búvárfelszerelést a partközeli élővilág megfigyeléséhez.",
+            "ro": "Bucurați-vă de soare pe această porțiune vibrantă de coastă cu nisip auriu și asigurați-vă că vă aduceți propriul echipament de snorkeling pentru a observa viața marină.",
+            "en": "Soak up the sun at this vibrant stretch of the coast featuring golden sands and clear waters, making sure to bring your own snorkeling gear to spot tiny sea life near the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Dune beach",
+            "hu": "Le Dune beach",
+            "ro": "Le Dune beach",
+            "en": "Le Dune beach"
+          },
+          "coords": [
+            10.290129,
+            43.604744
+          ],
+          "category": "recreational",
+          "arrive_at": "13:55",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem weiten, familienfreundlichen Strand, an dem die natürlichen Dünen auf das Meer treffen, und packen Sie ein leichtes Picknick für den späten Nachmittag ein.",
+            "hu": "Kapcsolódjon ki ezen a széles, családbarát partszakaszon, ahol a dűnék találkoznak a tengerrel, és csomagoljon egy könnyű pikniket, amit a Tirrén-tenger felett lemenő napfényben élvezhet.",
+            "ro": "Relaxați-vă pe această întindere largă, ideală pentru familii, unde dunele întâlnesc marea, și împachetați un picnic ușor pentru a vă bucura de apusul deasupra Mării Tireniene.",
+            "en": "Unwind on this wide, family-friendly expanse where the natural dunes meet the sea, and pack a light picnic to enjoy as the sun begins to lower over the Tyrrhenian waters."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihren Tag im Herzen von Calambrone und entdecken Sie die modernen Linien der Chiesa di Santa Rosa, bevor Sie an der geschützten Duna di Calambrone die Meeresluft einatmen.\n\nMidday: Wenn die Sonne höher steigt, machen Sie sich auf den Weg zum einladenden Social Beach, wo die lebhafte Atmosphäre und der weiche Sand die perfekte Kulisse für eine Mittagspause bieten.\n\nAfternoon: Setzen Sie Ihren Spaziergang entlang der Küste zum Lido Viciente fort, tauchen Sie in die pulsierende Strandkultur ein, lauschen Sie den Wellen und genießen Sie die Wärme.\n\nEvening: Beenden Sie Ihre Wanderung am Strand Le Dune und beobachten Sie den spektakulären Sonnenuntergang über dem Tyrrhenischen Meer, während die sanfte Meeresbrise die Abendluft abkühlt.",
+        "hu": "Morning: Kezdje a napot Calambrone szívében, fedezze fel a Chiesa di Santa Rosa modern vonalait, mielőtt belélegezné a friss tengerparti levegőt a védett Duna di Calambrone dűnéinél.\n\nMidday: Ahogy a nap magasabbra hág, induljon el a Social Beach hívogató partjai felé, ahol a nyüzsgő légkör és a puha homok tökéletes hátteret biztosít egy pihentető déli szünethez.\n\nAfternoon: Folytassa sétáját a part mentén a Lido Viciente felé, merüljön el a nyüzsgő strandkultúrában, hallgassa a szelíd hullámokat és szívja magába a meleg mediterrán napsütést.\n\nEvening: Zárja gyalogos túráját a Le Dune strandon, és nézze meg a Tirrén-tenger felett lemenő lenyűgöző naplementét, miközben a lágy tengeri szellő kellemesen lehűti az esti levegőt.",
+        "ro": "Morning: Începeți ziua în inima orașului Calambrone, descoperind liniile moderne ale Chiesa di Santa Rosa înainte de a respira aerul proaspăt la rezervația naturală Duna di Calambrone.\n\nMidday: Pe măsură ce soarele urcă, îndreptați-vă spre țărmurile primitoare de la Social Beach, unde atmosfera plină de viață și nisipul fin oferă cadrul perfect pentru o pauză relaxantă.\n\nAfternoon: Continuați-vă plimbarea de-a lungul coastei către Lido Viciente, scufundându-vă în cultura vibrantă a plajei, ascultând valurile blânde și bucurându-vă de căldura mediteraneană.\n\nEvening: Încheiați turul pietonal la plaja Le Dune, urmărind apusul spectaculos peste Marea Tireniană în timp ce briza blândă a mării răcorește frumos aerul seral.",
+        "en": "Morning: Start your day in the heart of Calambrone, discovering the modern lines of Chiesa di Santa Rosa before breathing in the fresh coastal air at the protected Duna di Calambrone.\n\nMidday: As the sun climbs, head towards the inviting shores of Social Beach, where the lively atmosphere and soft sands provide the perfect backdrop for a relaxing midday break.\n\nAfternoon: Continue your stroll along the coast to Lido Viciente, immersing yourself in the vibrant beach culture, listening to the gentle waves, and soaking up the Mediterranean warmth.\n\nEvening: Conclude your walking tour at Le Dune beach, watching the spectacular sunset over the Tyrrhenian Sea as the gentle sea breeze cools the evening air beautifully."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:19",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Oasi Bosco di Cornacchiaia",
+            "hu": "Oasi Bosco di Cornacchiaia",
+            "ro": "Oasi Bosco di Cornacchiaia",
+            "en": "Oasi Bosco di Cornacchiaia"
+          },
+          "coords": [
+            10.324308,
+            43.598989
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese unberührte Pinienwald-Oase voller Artenvielfalt und Vogelwelt, aber denken Sie daran, feste Wanderschuhe zu tragen und reichlich Mückenspray mitzubringen.",
+            "hu": "Fedezze fel ezt a ritka, érintetlen fenyőerdő oázist, amely gazdag biodiverzitásban és madárvilágban, de ne felejtsen el kényelmes túracipőt és szúnyogriasztót hozni.",
+            "ro": "Descoperiți această oază rară de pădure de pini virgină, bogată în biodiversitate și păsări, dar nu uitați să purtați pantofi rezistenți la mers și să aduceți spray contra țânțarilor.",
+            "en": "Discover this rare, untouched pine forest oasis rich in biodiversity and birdlife, but remember to wear strong walking shoes and bring plenty of mosquito repellent."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santa Rosa",
+            "hu": "Chiesa di Santa Rosa",
+            "ro": "Chiesa di Santa Rosa",
+            "en": "Chiesa di Santa Rosa"
+          },
+          "coords": [
+            10.294208,
+            43.59929
+          ],
+          "category": "religious",
+          "arrive_at": "10:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die modernen Linien dieser Küstenkirche, ein ruhiger spiritueller Anker in Calambrone, und treten Sie früh ein, um das morgendliche Licht zu genießen.",
+            "hu": "Csodálja meg ennek a partmenti templomnak a modern vonalait, amely Calambrone békés lelki horgonya, és lépjen be korán, hogy élvezze a reggeli fényeket az ablakokon át.",
+            "ro": "Admirați liniile moderne ale acestei biserici de coastă, o ancoră spirituală senină în Calambrone, și intrați devreme pentru a vă bucura de lumina liniștită a dimineții.",
+            "en": "Admire the modern lines of this coastal church, a serene spiritual anchor in Calambrone, and step inside early to enjoy the peaceful morning light through its windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Duna di Calambrone",
+            "hu": "Duna di Calambrone",
+            "ro": "Duna di Calambrone",
+            "en": "Duna di Calambrone"
+          },
+          "coords": [
+            10.292853,
+            43.596921
+          ],
+          "category": "natural",
+          "arrive_at": "11:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese geschützten Sanddünen, die das ursprüngliche toskanische Küstenökosystem zeigen, und bleiben Sie auf den markierten Holzstegen, um die Flora zu schützen.",
+            "hu": "Fedezze fel ezeket a védett homokdűnéket, amelyek az eredeti toszkán partvidéket mutatják be, és maradjon a kijelölt fapallókon, hogy megóvja a törékeny helyi flórát.",
+            "ro": "Explorați aceste dune de nisip protejate care prezintă ecosistemul original al coastei toscane și rămâneți pe pasarelele de lemn marcate pentru a proteja flora fragilă.",
+            "en": "Explore these protected sand dunes that showcase the original Tuscan coastal ecosystem, and stick to the marked wooden boardwalks to protect the fragile local flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Social Beach Calambrone",
+            "hu": "Social Beach Calambrone",
+            "ro": "Social Beach Calambrone",
+            "en": "Social Beach Calambrone"
+          },
+          "coords": [
+            10.291011,
+            43.602129
+          ],
+          "category": "recreational",
+          "arrive_at": "12:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem einladenden Strandclub, der für seine inklusive Atmosphäre bekannt ist, und mieten Sie in den Hochsommermonaten am besten im Voraus eine Liege.",
+            "hu": "Pihenjen ezen a barátságos, közösségközpontú strandon, amely befogadó légköréről ismert, és fontolja meg a napozóágyak előzetes bérlését a nyári csúcsidőszakokban.",
+            "ro": "Relaxați-vă la acest club de plajă primitor, cunoscut pentru atmosfera sa incluzivă, și luați în considerare închirierea unui șezlong în avans pe parcursul verii.",
+            "en": "Relax at this welcoming, community-focused beach club known for its inclusive atmosphere, and consider renting a sunbed in advance during the peak summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Vigili del fuoco",
+            "hu": "Vigili del fuoco",
+            "ro": "Vigili del fuoco",
+            "en": "Vigili del fuoco"
+          },
+          "coords": [
+            10.289654,
+            43.607927
+          ],
+          "category": "recreational",
+          "arrive_at": "13:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Spazieren Sie an dieser einsatzbereiten Feuerwache vorbei, die dem Strandleben einen Hauch lokalen Bürgersinns verleiht, und halten Sie die Haupttore für Einsatzfahrzeuge frei.",
+            "hu": "Sétáljon el ezen működő tűzoltóállomás mellett, amely egyedi bepillantást enged a helyi polgári életbe, és hagyja szabadon a főkapukat a sürgősségi járművek áthaladásához.",
+            "ro": "Treceți pe lângă această stație de pompieri operațională care adaugă o notă unică vieții civice locale, și păstrați porțile principale libere pentru a permite trecerea vehiculelor.",
+            "en": "Walk past this operational fire station area which adds a unique touch of local civic life to the beachfront, and keep clear of the main gates to allow emergency vehicles passage."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia libera",
+            "hu": "Spiaggia libera",
+            "ro": "Spiaggia libera",
+            "en": "Spiaggia libera"
+          },
+          "coords": [
+            10.289136,
+            43.610665
+          ],
+          "category": "recreational",
+          "arrive_at": "15:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie den authentischen italienischen Sommer an diesem kostenlosen öffentlichen Strand mit lebhafter Atmosphäre und kommen Sie früh, um sich einen guten Platz zu sichern.",
+            "hu": "Tapasztalja meg az igazi olasz nyarat ezen az ingyenes szabadstrandon, ahol nyüzsgő helyi hangulat várja, és érkezzen korán, hogy saját napernyőjével jó helyet találjon.",
+            "ro": "Experimentați vara autentică italiană la această plajă publică gratuită cu o atmosferă locală plină de viață și ajungeți devreme pentru a vă asigura un loc bun cu propria umbrelă.",
+            "en": "Experience the authentic Italian summer at this free public beach with a lively local vibe, and arrive early to claim a good spot near the water with your own umbrella."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Meloria",
+            "hu": "Bagno Meloria",
+            "ro": "Bagno Meloria",
+            "en": "Bagno Meloria"
+          },
+          "coords": [
+            10.289385,
+            43.614355
+          ],
+          "category": "recreational",
+          "arrive_at": "16:34",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in klassische Küstenerholung an dieser gut ausgestatteten Badeanstalt, wo Sie sich zwischen den Schwimmgängen ein erfrischendes Gelato vom Kiosk holen können.",
+            "hu": "Merüljön el a klasszikus tengerparti kikapcsolódásban ezen a jól felszerelt strandon, ahol az úszások között egy frissítő fagylaltot is elfogyaszthat a közeli kioszkból.",
+            "ro": "Scufundați-vă în recreerea clasică de coastă la acest stabiliment balnear bine echipat, de unde puteți lua un gelato răcoritor de la chioșcul din apropiere între înoturi.",
+            "en": "Dive into classic coastal recreation at this well-equipped bathing establishment, where you can grab a refreshing gelato from the nearby kiosk between your ocean swims."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Radeln Sie früh zur üppigen Oasi Bosco di Cornacchiaia, um die erwachende Tierwelt zu beobachten, und fahren Sie dann zum Zentrum, um die Chiesa di Santa Rosa zu bewundern.\n\nMidday: Erkunden Sie das einzigartige Küstenökosystem der Duna di Calambrone, bevor Sie sich am Social Beach ausruhen, umgeben von anderen Sonnenanbetern und lebhafter Küstenenergie.\n\nAfternoon: Radeln Sie entspannt an der Feuerwehrwache vorbei und gesellen Sie sich zu den Einheimischen an der Spiaggia libera, um das erfrischende Wasser und den echten Sommer zu genießen.\n\nEvening: Beenden Sie Ihre Fahrt am Bagno Meloria, wo Sie Ihr Fahrrad abstellen und ein letztes Mal in die Wellen tauchen können, während das schwindende Licht den Himmel in atemberaubende Farben taucht.",
+        "hu": "Morning: Tekerjen ki korán a buja Oasi Bosco di Cornacchiaia területére, hogy megfigyelhesse az ébredő vadvilágot, majd térjen vissza a városközpontba a Chiesa di Santa Rosa szépségéhez.\n\nMidday: Fedezze fel a Duna di Calambrone egyedülálló parti ökoszisztémáját, mielőtt megpihenne a Social Beach-en, napimádók és a nyüzsgő tengerparti energia által körülvéve.\n\nAfternoon: Kerékpározzon el a tűzoltóállomás mellett, és csatlakozzon a helyiekhez a Spiaggia libera szabadstrandon, élvezve a hűsítő vizet és az autentikus olasz nyári hangulatot.\n\nEvening: Fejezze be az utat a Bagno Meloria strandon, ahol leparkolhatja kerékpárját, és még egyszer megmártózhat a habokban, miközben az alkonyat lenyűgöző színekre festi az eget.",
+        "ro": "Morning: Pedalați devreme către luxurianta Oasi Bosco di Cornacchiaia pentru a surprinde viața sălbatică trezindu-se, apoi mergeți spre centru pentru a admira frumoasa Chiesa di Santa Rosa.\n\nMidday: Explorați ecosistemul unic de coastă la Duna di Calambrone înainte de a lua o odihnă bine meritată la Social Beach, înconjurați de alți iubitori de soare și energie vibrantă.\n\nAfternoon: Mergeți lin cu bicicleta pe lângă stația de pompieri și alăturați-vă localnicilor la Spiaggia libera, bucurându-vă de apele răcoroase și de atmosfera verii italiene autentice.\n\nEvening: Terminați plimbarea la Bagno Meloria, unde vă puteți parca bicicleta și vă puteți scufunda în valuri o ultimă dată, în timp ce lumina estompată pictează cerul în culori uimitoare.",
+        "en": "Morning: Pedal out to the lush Oasi Bosco di Cornacchiaia early to catch the wildlife waking up, then ride back to the town center to admire the quiet beauty of Chiesa di Santa Rosa.\n\nMidday: Explore the unique coastal ecosystem at Duna di Calambrone before taking a well-deserved rest at Social Beach, surrounded by fellow sun-seekers and vibrant coastal energy.\n\nAfternoon: Cycle smoothly past the Vigili del fuoco station and join the locals at Spiaggia libera, enjoying the refreshing waters and the authentic Italian summer atmosphere.\n\nEvening: Finish your ride at Bagno Meloria, where you can park your bike and dive into the waves one last time as the fading light paints the sky in stunning twilight colors."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:48",
+      "total_km": 5.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Oasi Bosco di Cornacchiaia",
+            "hu": "Oasi Bosco di Cornacchiaia",
+            "ro": "Oasi Bosco di Cornacchiaia",
+            "en": "Oasi Bosco di Cornacchiaia"
+          },
+          "coords": [
+            10.324308,
+            43.598989
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese unberührte Pinienwald-Oase voller Artenvielfalt und Vogelwelt, aber denken Sie daran, feste Wanderschuhe zu tragen und reichlich Mückenspray mitzubringen.",
+            "hu": "Fedezze fel ezt a ritka, érintetlen fenyőerdő oázist, amely gazdag biodiverzitásban és madárvilágban, de ne felejtsen el kényelmes túracipőt és szúnyogriasztót hozni.",
+            "ro": "Descoperiți această oază rară de pădure de pini virgină, bogată în biodiversitate și păsări, dar nu uitați să purtați pantofi rezistenți la mers și să aduceți spray contra țânțarilor.",
+            "en": "Discover this rare, untouched pine forest oasis rich in biodiversity and birdlife, but remember to wear strong walking shoes and bring plenty of mosquito repellent."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santa Rosa",
+            "hu": "Chiesa di Santa Rosa",
+            "ro": "Chiesa di Santa Rosa",
+            "en": "Chiesa di Santa Rosa"
+          },
+          "coords": [
+            10.294208,
+            43.59929
+          ],
+          "category": "religious",
+          "arrive_at": "10:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die modernen Linien dieser Küstenkirche, ein ruhiger spiritueller Anker in Calambrone, und treten Sie früh ein, um das morgendliche Licht zu genießen.",
+            "hu": "Csodálja meg ennek a partmenti templomnak a modern vonalait, amely Calambrone békés lelki horgonya, és lépjen be korán, hogy élvezze a reggeli fényeket az ablakokon át.",
+            "ro": "Admirați liniile moderne ale acestei biserici de coastă, o ancoră spirituală senină în Calambrone, și intrați devreme pentru a vă bucura de lumina liniștită a dimineții.",
+            "en": "Admire the modern lines of this coastal church, a serene spiritual anchor in Calambrone, and step inside early to enjoy the peaceful morning light through its windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Duna di Calambrone",
+            "hu": "Duna di Calambrone",
+            "ro": "Duna di Calambrone",
+            "en": "Duna di Calambrone"
+          },
+          "coords": [
+            10.292853,
+            43.596921
+          ],
+          "category": "natural",
+          "arrive_at": "11:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese geschützten Sanddünen, die das ursprüngliche toskanische Küstenökosystem zeigen, und bleiben Sie auf den markierten Holzstegen, um die Flora zu schützen.",
+            "hu": "Fedezze fel ezeket a védett homokdűnéket, amelyek az eredeti toszkán partvidéket mutatják be, és maradjon a kijelölt fapallókon, hogy megóvja a törékeny helyi flórát.",
+            "ro": "Explorați aceste dune de nisip protejate care prezintă ecosistemul original al coastei toscane și rămâneți pe pasarelele de lemn marcate pentru a proteja flora fragilă.",
+            "en": "Explore these protected sand dunes that showcase the original Tuscan coastal ecosystem, and stick to the marked wooden boardwalks to protect the fragile local flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Dune beach",
+            "hu": "Le Dune beach",
+            "ro": "Le Dune beach",
+            "en": "Le Dune beach"
+          },
+          "coords": [
+            10.290129,
+            43.604744
+          ],
+          "category": "recreational",
+          "arrive_at": "12:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem weiten, familienfreundlichen Strand, an dem die natürlichen Dünen auf das Meer treffen, und packen Sie ein leichtes Picknick für den späten Nachmittag ein.",
+            "hu": "Kapcsolódjon ki ezen a széles, családbarát partszakaszon, ahol a dűnék találkoznak a tengerrel, és csomagoljon egy könnyű pikniket, amit a Tirrén-tenger felett lemenő napfényben élvezhet.",
+            "ro": "Relaxați-vă pe această întindere largă, ideală pentru familii, unde dunele întâlnesc marea, și împachetați un picnic ușor pentru a vă bucura de apusul deasupra Mării Tireniene.",
+            "en": "Unwind on this wide, family-friendly expanse where the natural dunes meet the sea, and pack a light picnic to enjoy as the sun begins to lower over the Tyrrhenian waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Stabilimento balneare Paracadutisti",
+            "hu": "Stabilimento balneare Paracadutisti",
+            "ro": "Stabilimento balneare Paracadutisti",
+            "en": "Stabilimento balneare Paracadutisti"
+          },
+          "coords": [
+            10.289593,
+            43.612876
+          ],
+          "category": "recreational",
+          "arrive_at": "13:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die energiegeladene Atmosphäre dieses beliebten, auch von Militärangehörigen geschätzten Küstenortes, und nutzen Sie die hervorragenden Sportanlagen im Sand.",
+            "hu": "Élvezze ennek a helyiek és katonák által is kedvelt, népszerű tengerparti helynek az energikus légkörét, és használja ki a homokon található kiváló sportlétesítményeket.",
+            "ro": "Bucurați-vă de atmosfera energică a acestui loc popular la malul mării, frecventat de localnici, și profitați de facilitățile lor excelente pentru sporturi pe nisip.",
+            "en": "Enjoy the energetic atmosphere of this popular seaside spot favored by locals and military personnel, and take advantage of their excellent sporting facilities on the sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Rosalba",
+            "hu": "Bagno Rosalba",
+            "ro": "Bagno Rosalba",
+            "en": "Bagno Rosalba"
+          },
+          "coords": [
+            10.289244,
+            43.616042
+          ],
+          "category": "recreational",
+          "arrive_at": "15:03",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Küstenreise an dieser charmanten nördlichen Strandanlage mit herrlicher Aussicht und bestellen Sie einen klassischen Aperitivo, während Sie den Sonnenuntergang beobachten.",
+            "hu": "Zárja tengerparti utazását ezen az elbűvölő északi strandon, amely gyönyörű kilátást nyújt, és rendeljen egy klasszikus aperitivót, amit a naplemente megtekintése közben kortyolgathat.",
+            "ro": "Încheiați călătoria pe coastă la această facilitate de plajă fermecătoare din nord, și comandați un aperitivo clasic pe care să-l savurați încet în timp ce priviți apusul frumos.",
+            "en": "Conclude your coastal journey at this charming northern beach facility offering lovely views, and order a classic aperitivo to sip slowly while watching the beautiful sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Fahren Sie zur prächtigen Oasi Bosco di Cornacchiaia, um tief in die Natur einzutauchen, und besuchen Sie später in Calambrone die modernistische Chiesa di Santa Rosa.\n\nMidday: Parken Sie in der Nähe der geschützten Duna di Calambrone, um die unberührten Natursande zu bewundern, und fahren Sie dann für ein Bad zu den weiten Stränden von Le Dune.\n\nAfternoon: Setzen Sie Ihren Roadtrip zum Stabilimento balneare Paracadutisti fort und tauchen Sie in die energiegeladene Atmosphäre ein, in der sich Einheimische zum Sport treffen.\n\nEvening: Parken Sie am Bagno Rosalba, um Ihren Tagesausflug stilvoll zu beenden; entspannen Sie sich in dieser erstklassigen Einrichtung mit einem Cocktail, während die Sonne langsam untergeht.",
+        "hu": "Morning: Vezessen a csodálatos Oasi Bosco di Cornacchiaia területére, hogy a természet lágy ölén kezdje a napot, majd induljon Calambrone felé a modernista Chiesa di Santa Rosa templomhoz.\n\nMidday: Parkoljon le a védett Duna di Calambrone közelében, hogy szemügyre vegye az érintetlen homokdűnéket, majd menjen egyenesen a Le Dune hatalmas strandjára egy fantasztikus déli úszásra.\n\nAfternoon: Folytassa tengerparti útját a Stabilimento balneare Paracadutisti felé, és merüljön el az energikus hangulatban, ahol a helyiek sportolni és kikapcsolódni gyűlnek össze.\n\nEvening: Parkoljon le a Bagno Rosalba strandon, hogy stílusosan fejezze be a napot; pihenjen egy koktéllal ebben az északi létesítményben, ahogy a nap lassan a horizont alá bukik.",
+        "ro": "Morning: Conduceți către superba Oasi Bosco di Cornacchiaia pentru a începe ziua în mijlocul naturii, deplasându-vă ulterior în Calambrone pentru a vizita modernista Chiesa di Santa Rosa.\n\nMidday: Parcați lângă Duna di Calambrone pentru a asista la nisipurile naturale imaculate, apoi mergeți direct la întinderile vaste de la plaja Le Dune pentru o baie fantastică.\n\nAfternoon: Continuați călătoria pe coastă spre Stabilimento balneare Paracadutisti, scufundându-vă în vibrația energică unde localnicii se adună pentru sport și petrecerea timpului liber.\n\nEvening: Parcați la Bagno Rosalba pentru a vă încheia ziua cu stil; relaxați-vă la această facilitate de top din nord cu un cocktail, în timp ce soarele coboară încet sub orizont.",
+        "en": "Morning: Drive to the magnificent Oasi Bosco di Cornacchiaia to start your day enveloped in deep nature, later moving into Calambrone to visit the modernist Chiesa di Santa Rosa.\n\nMidday: Park near the protected Duna di Calambrone to witness the pristine natural sands, then head straight to the vast expanses of Le Dune beach for a fantastic midday swim.\n\nAfternoon: Continue your coastal road trip to Stabilimento balneare Paracadutisti, diving into the energetic beachfront vibe where locals gather for sports and leisure under the sun.\n\nEvening: Park up at Bagno Rosalba to end your day trip in style; relax at this premier northern establishment with a cocktail as the sun slowly dips below the distant horizon."
+      }
+    }
+  }
+}

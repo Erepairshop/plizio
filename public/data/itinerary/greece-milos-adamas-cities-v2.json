@@ -1,0 +1,497 @@
+{
+  "city_id": "greece-milos-adamas-cities-v2",
+  "anchor": {
+    "name": "Adamas (Milos)",
+    "coords": [
+      24.422296,
+      36.743496
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:29",
+      "total_km": 1.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sandmuseum Mapmapa",
+            "hu": "Mapmapa Homokmúzeum",
+            "ro": "Muzeul de Nisip Mapmapa",
+            "en": "Mapmapa Sand Museum"
+          },
+          "coords": [
+            24.422572,
+            36.743701
+          ],
+          "category": "museum",
+          "arrive_at": "09:02",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie Kunstwerke aus dem vielfältigen Sand von Milos und achten Sie darauf, die empfindlichen Exponate bei Ihrer Führung nicht zu berühren.",
+            "hu": "Fedezze fel a kükládi sziget homokjából készült egyedi alkotásokat, de ügyeljen arra, hogy a vezetett túra során ne érintse meg a kiállítást.",
+            "ro": "Descoperiți opere de artă unice create din nisipul geologic divers al insulei Milos și aveți grijă să nu atingeți exponatele delicate în timpul vizitei.",
+            "en": "Discover unique artworks created from Milos' diverse geological sands, making it essential to handle exhibits gently during your short guided visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum von Milos",
+            "hu": "Miloszi Régészeti Múzeum",
+            "ro": "Muzeul Arheologic din Milos",
+            "en": "Archaeological Museum of Milos"
+          },
+          "coords": [
+            24.423623,
+            36.743848
+          ],
+          "category": "museum",
+          "arrive_at": "10:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Replik der Venus von Milo sowie antike Artefakte und beginnen Sie Ihren Besuch früh, um der Mittagshitze und den Gruppen zu entgehen.",
+            "hu": "Csodálja meg a híres milói Vénusz másolatát és az ókori leleteket; érdemes korán érkezni, hogy elkerülje a déli hőséget és a nagy turistacsoportokat.",
+            "ro": "Admirați replica faimoasei Venus din Milo și artefactele antice, începând vizita devreme pentru a evita căldura amiezii și grupurile mari de turiști.",
+            "en": "Marvel at the replica of the famed Venus de Milo and ancient artifacts, starting your visit early to avoid the midday heat and larger tour groups."
+          }
+        },
+        {
+          "name": {
+            "de": "Panagia Korphiatissa",
+            "hu": "Panagia Korphiatissa",
+            "ro": "Panagia Korphiatissa",
+            "en": "Panagia Korphiatissa"
+          },
+          "coords": [
+            24.42161,
+            36.743548
+          ],
+          "category": "religious",
+          "arrive_at": "12:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die kykladische Architektur und den herrlichen Meerblick von dieser orthodoxen Kirche, wobei Sie aus Respekt Ihre Schultern bedecken sollten.",
+            "hu": "Csodálja meg a kükládi építészetet és a tengerre nyíló lenyűgöző kilátást az ortodox templomból, miközben a tisztelet jeléül eltakarja a vállait.",
+            "ro": "Admirați arhitectura cicladică și vederea panoramică la mare de la această biserică ortodoxă, acoperindu-vă umerii pentru a arăta respect.",
+            "en": "Admire the beautiful Cycladic architecture and sweeping views of the sea from this Orthodox church, keeping your shoulders covered to show respect."
+          }
+        },
+        {
+          "name": {
+            "de": "Venezianische Burg von Milos",
+            "hu": "Miloszi Velencei Vár",
+            "ro": "Castelul Venețian din Milos",
+            "en": "Venetian Castle of Milos"
+          },
+          "coords": [
+            24.422663,
+            36.74569
+          ],
+          "category": "castle",
+          "arrive_at": "13:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Steigen Sie zum höchsten Punkt von Plaka hinauf, um die historischen Burgruinen zu erkunden, und tragen Sie festes Schuhwerk für die steilen Wege.",
+            "hu": "Másszon fel Plaka legmagasabb pontjára a történelmi várromok felfedezéséhez, és viseljen zárt cipőt a meredek, egyenetlen kőösvények miatt.",
+            "ro": "Urcați în cel mai înalt punct din Plaka pentru a explora ruinele istorice ale castelului, asigurându-vă că purtați încălțăminte robustă pentru traseu.",
+            "en": "Climb to the highest point of Plaka to explore these historic castle ruins, making sure to wear sturdy shoes for the steep and uneven stone pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Baptisterium der drei Kirchen",
+            "hu": "Három Templom Keresztelőkápolnája",
+            "ro": "Baptisteriul celor Trei Biserici",
+            "en": "Baptistery of Three Churches"
+          },
+          "coords": [
+            24.421398,
+            36.738399
+          ],
+          "category": "historical",
+          "arrive_at": "14:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Überreste des frühen christlichen Glaubens an dieser Stätte und bringen Sie einen Hut mit, da es kaum Schatten gibt.",
+            "hu": "Fedezze fel az ókeresztény istentiszteletek lenyűgöző maradványait ezen a történelmi helyszínen, és hozzon kalapot, mivel alig van árnyék a romoknál.",
+            "ro": "Explorați rămășițele fascinante ale cultului paleocreștin în acest sit istoric, aducând o pălărie deoarece există foarte puțină umbră în zonă.",
+            "en": "Explore the fascinating remnants of early Christian worship at this historical site, bringing a hat as there is very little shade around the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Katakomben von Trypiti",
+            "hu": "Trypiti Katakombák",
+            "ro": "Catacombele din Trypiti",
+            "en": "Catacombs of Trypiti"
+          },
+          "coords": [
+            24.423693,
+            36.737314
+          ],
+          "category": "landmark",
+          "arrive_at": "16:19",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Steigen Sie in diese weitläufigen antiken Grabkammern hinab und bewegen Sie sich vorsichtig, da die unterirdischen Tunnel ziemlich rutschig sind.",
+            "hu": "Ereszkedjen le ezekbe a kiterjedt ősi földalatti sírkamrákba, és mozogjon óvatosan, mivel a hangulatos járatok meglehetősen csúszósak lehetnek.",
+            "ro": "Coborâți în aceste vaste camere funerare subterane antice, mișcându-vă cu atenție deoarece tunelurile atmosferice pot fi destul de alunecoase.",
+            "en": "Descend into these extensive ancient underground burial chambers, moving carefully since the atmospheric subterranean tunnels can be quite slippery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit den einzigartigen geologischen und historischen Artefakten in den lokalen Museen in Adamas. Machen Sie sich mittags auf den Weg zu den erhöhten Gassen von Plaka, um die traditionelle Architektur zu bewundern. Der Nachmittag ist der Erkundung der Burgruine gewidmet. Beenden Sie Ihre Reise in Trypiti und entdecken Sie die antiken Katakomben.",
+        "hu": "Kezdje a napot az egyedülálló geológiai és történelmi leletek felfedezésével Adamas múzeumaiban. Délben induljon el Plaka magaslati sikátorai felé, hogy megcsodálja a hagyományos építészetet. A délután a velencei várromok felfedezéséről és a panoráma élvezetéről szól. Zárja a napot Trypiti ősi katakombáinak és lenyűgöző kora keresztény emlékeinek megtekintésével.",
+        "ro": "Începeți ziua explorând artefactele geologice și istorice unice din muzeele locale din Adamas. La prânz, îndreptați-vă spre aleile înalte din Plaka pentru a admira arhitectura tradițională. După-amiaza este dedicată explorării ruinelor impunătoare ale castelului venețian și bucuriei vederilor panoramice. Încheiați-vă călătoria în Trypiti descoperind catacombele antice.",
+        "en": "Begin your day delving into the unique geological and historical artifacts at the local museums in Adamas. By midday, make your way toward the elevated alleys of Plaka to admire stunning traditional architecture. The afternoon is dedicated to exploring the commanding ruins of the Venetian Castle and enjoying the panoramic island views. End your journey in Trypiti discovering ancient catacombs."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:16",
+      "total_km": 8.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Agios Nektarios",
+            "hu": "Agios Nektarios",
+            "ro": "Agios Nektarios",
+            "en": "Agios Nektarios"
+          },
+          "coords": [
+            24.447807,
+            36.73687
+          ],
+          "category": "religious",
+          "arrive_at": "09:14",
+          "stay_min": 50,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante weißgetünchte religiöse Stätte für einen Moment der Ruhe und prüfen Sie die Beschilderung für die Öffnungszeiten.",
+            "hu": "Lépjen be ebbe a bájos, fehérre meszelt vallási helyszínre egy pillanatnyi csendes elmélkedésre, de ellenőrizze a bejáratnál a nyitvatartási időt.",
+            "ro": "Pășiți în acest lăcaș de cult fermecător pentru un moment de reflecție liniștită, verificând panoul de la intrare pentru orele de deschidere.",
+            "en": "Step into this charming whitewashed religious site for a moment of quiet reflection, checking the entrance sign for the slightly irregular opening hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Nukhia",
+            "hu": "Nukhia",
+            "ro": "Nukhia",
+            "en": "Nukhia"
+          },
+          "coords": [
+            24.435409,
+            36.725485
+          ],
+          "category": "natural",
+          "arrive_at": "10:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Wandern Sie durch diese wunderschöne Naturlandschaft mit ihrer markanten vulkanischen Geologie und nehmen Sie ausreichend Wasser mit.",
+            "hu": "Túrázzon végig ezen a lenyűgöző vulkáni geológiával jellemezhető természeti tájon, és vigyen magával bőségesen vizet a felszereltség hiánya miatt.",
+            "ro": "Faceți o drumeție prin acest peisaj natural frumos caracterizat de o geologie vulcanică uimitoare, luând cu dumneavoastră multă apă potabilă.",
+            "en": "Hike through this beautiful natural landscape characterized by striking volcanic geology, carrying plenty of water as facilities are non-existent here."
+          }
+        },
+        {
+          "name": {
+            "de": "Katakomben von Trypiti",
+            "hu": "Trypiti Katakombák",
+            "ro": "Catacombele din Trypiti",
+            "en": "Catacombs of Trypiti"
+          },
+          "coords": [
+            24.423693,
+            36.737314
+          ],
+          "category": "landmark",
+          "arrive_at": "11:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Steigen Sie in diese weitläufigen antiken Grabkammern hinab und bewegen Sie sich vorsichtig, da die unterirdischen Tunnel ziemlich rutschig sind.",
+            "hu": "Ereszkedjen le ezekbe a kiterjedt ősi földalatti sírkamrákba, és mozogjon óvatosan, mivel a hangulatos járatok meglehetősen csúszósak lehetnek.",
+            "ro": "Coborâți în aceste vaste camere funerare subterane antice, mișcându-vă cu atenție deoarece tunelurile atmosferice pot fi destul de alunecoase.",
+            "en": "Descend into these extensive ancient underground burial chambers, moving carefully since the atmospheric subterranean tunnels can be quite slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Panagia Korphiatissa",
+            "hu": "Panagia Korphiatissa",
+            "ro": "Panagia Korphiatissa",
+            "en": "Panagia Korphiatissa"
+          },
+          "coords": [
+            24.42161,
+            36.743548
+          ],
+          "category": "religious",
+          "arrive_at": "12:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die kykladische Architektur und den herrlichen Meerblick von dieser orthodoxen Kirche, wobei Sie aus Respekt Ihre Schultern bedecken sollten.",
+            "hu": "Csodálja meg a kükládi építészetet és a tengerre nyíló lenyűgöző kilátást az ortodox templomból, miközben a tisztelet jeléül eltakarja a vállait.",
+            "ro": "Admirați arhitectura cicladică și vederea panoramică la mare de la această biserică ortodoxă, acoperindu-vă umerii pentru a arăta respect.",
+            "en": "Admire the beautiful Cycladic architecture and sweeping views of the sea from this Orthodox church, keeping your shoulders covered to show respect."
+          }
+        },
+        {
+          "name": {
+            "de": "Venezianische Burg von Milos",
+            "hu": "Miloszi Velencei Vár",
+            "ro": "Castelul Venețian din Milos",
+            "en": "Venetian Castle of Milos"
+          },
+          "coords": [
+            24.422663,
+            36.74569
+          ],
+          "category": "castle",
+          "arrive_at": "13:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Steigen Sie zum höchsten Punkt von Plaka hinauf, um die historischen Burgruinen zu erkunden, und tragen Sie festes Schuhwerk für die steilen Wege.",
+            "hu": "Másszon fel Plaka legmagasabb pontjára a történelmi várromok felfedezéséhez, és viseljen zárt cipőt a meredek, egyenetlen kőösvények miatt.",
+            "ro": "Urcați în cel mai înalt punct din Plaka pentru a explora ruinele istorice ale castelului, asigurându-vă că purtați încălțăminte robustă pentru traseu.",
+            "en": "Climb to the highest point of Plaka to explore these historic castle ruins, making sure to wear sturdy shoes for the steep and uneven stone pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Firopotamos",
+            "hu": "Firopotamos",
+            "ro": "Firopotamos",
+            "en": "Firopotamos"
+          },
+          "coords": [
+            24.427494,
+            36.757687
+          ],
+          "category": "recreational",
+          "arrive_at": "14:31",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie am kristallklaren Wasser dieses malerischen Fischerdorfes und kommen Sie früh, um einen guten Platz am Strand zu sichern.",
+            "hu": "Pihenjen ennek a festői, színes csónakházakkal körülvett halászfalunak a kristálytiszta vizeinél; érkezzen korán a legjobb tengerparti helyekért.",
+            "ro": "Relaxați-vă lângă apele cristaline ale acestui sat pitoresc de pescari, ajungând devreme pentru a vă asigura un loc excelent pe plaja micii așezări.",
+            "en": "Relax by the crystal-clear waters of this picturesque fishing village surrounded by colorful boathouses, arriving early to secure a prime beach spot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit einer friedlichen morgendlichen Fahrt zu bezaubernden Kirchen und den einzigartigen Naturlandschaften von Nukhia. Klettern Sie mittags nach Trypiti hinauf, um historische Katakomben zu erkunden. Am Nachmittag erobern Sie die venezianische Burg von Milos für weite Ausblicke über die Ägäis. Beenden Sie Ihren Tag, indem Sie zum lebhaften Wasser von Firopotamos hinabrollen.",
+        "hu": "Kezdje egy békés reggeli tekeréssel a bájos Agios Nektarios templomhoz és Nukhia egyedülálló természeti tájaihoz. Délben másszon fel Trypitibe, hogy felfedezze a történelmi katakombákat. Délután hódítsa meg a milói velencei várat, ahonnan lenyűgöző kilátás nyílik az Égei-tengerre. Zárja aktív napját azzal, hogy legurul Firopotamos élénk vizéhez, és kipiheni a fáradalmakat.",
+        "ro": "Începeți cu o plimbare liniștită dimineața către fermecătorul Agios Nektarios și peisajele naturale unice din Nukhia. La prânz, urcați spre Trypiti pentru a explora catacombe istorice. După-amiaza, cuceriți Castelul Venețian pentru vederi panoramice asupra Mării Egee. Încheiați ziua activă coborând ușor către apele vibrante și relaxante din Firopotamos.",
+        "en": "Start with a peaceful morning ride to the charming Agios Nektarios and the unique natural landscapes of Nukhia. At midday, climb up to Trypiti to explore historical catacombs and traditional Cycladic religious sites. In the afternoon, conquer the Venetian Castle of Milos for sweeping vistas over the Aegean. Conclude your active day by coasting down to the vibrant waters of Firopotamos."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 9.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Agios Nektarios",
+            "hu": "Agios Nektarios",
+            "ro": "Agios Nektarios",
+            "en": "Agios Nektarios"
+          },
+          "coords": [
+            24.447807,
+            36.73687
+          ],
+          "category": "religious",
+          "arrive_at": "09:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante weißgetünchte religiöse Stätte für einen Moment der Ruhe und prüfen Sie die Beschilderung für die Öffnungszeiten.",
+            "hu": "Lépjen be ebbe a bájos, fehérre meszelt vallási helyszínre egy pillanatnyi csendes elmélkedésre, de ellenőrizze a bejáratnál a nyitvatartási időt.",
+            "ro": "Pășiți în acest lăcaș de cult fermecător pentru un moment de reflecție liniștită, verificând panoul de la intrare pentru orele de deschidere.",
+            "en": "Step into this charming whitewashed religious site for a moment of quiet reflection, checking the entrance sign for the slightly irregular opening hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Mantrakia",
+            "hu": "Mantrakia",
+            "ro": "Mantrakia",
+            "en": "Mantrakia"
+          },
+          "coords": [
+            24.446246,
+            36.750745
+          ],
+          "category": "natural",
+          "arrive_at": "09:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie zwischen den traditionellen Syrmata-Strukturen, die in den weichen Fels gehauen wurden, und bringen Sie unbedingt eine Kamera mit.",
+            "hu": "Sétáljon a puha vulkáni sziklákba vájt hagyományos syrmata építmények között, és hozzon magával fényképezőgépet az autentikus tengeri hangulathoz.",
+            "ro": "Plimbați-vă printre structurile tradiționale syrmata sculptate în rocile vulcanice moi, aducând un aparat foto pentru a surprinde atmosfera maritimă.",
+            "en": "Walk among the traditional syrmata structures carved into the soft volcanic rocks, bringing a camera to capture the authentic maritime atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Tourkothalassa",
+            "hu": "Tourkothalassa",
+            "ro": "Tourkothalassa",
+            "en": "Tourkothalassa"
+          },
+          "coords": [
+            24.444672,
+            36.748867
+          ],
+          "category": "recreational",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie diese abgelegene, unberührte Küste abseits der Touristenströme und packen Sie Snacks und einen Sonnenschirm ein, da es nichts gibt.",
+            "hu": "Élvezze a félreeső, érintetlen partszakaszt távol a fő turistaközpontoktól, de pakoljon saját rágcsálnivalót és napernyőt, mivel nincs kiépítve.",
+            "ro": "Bucurați-vă de țărmul retras și imaculat, departe de centrele turistice principale, aducându-vă propriile gustări și umbrelă deoarece nu este amenajat.",
+            "en": "Enjoy the secluded and pristine shoreline away from the main tourist hubs, packing your own snacks and umbrella since it remains completely unorganized."
+          }
+        },
+        {
+          "name": {
+            "de": "Gerania",
+            "hu": "Gerania",
+            "ro": "Gerania",
+            "en": "Gerania"
+          },
+          "coords": [
+            24.447782,
+            36.750296
+          ],
+          "category": "recreational",
+          "arrive_at": "12:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch dieses hübsche Küstengebiet mit hervorragendem Blick auf die Ägäis und nehmen Sie sich Zeit, die vorbeifahrenden Boote zu beobachten.",
+            "hu": "Sétáljon végig ezen a szép tengerparti rekreációs területen, és üljön le egy pillanatra a sziklákra, hogy megfigyelje az elhaladó helyi csónakokat.",
+            "ro": "Plimbați-vă prin această zonă de recreere de coastă cu vederi excelente la Marea Egee, așezându-vă pe stânci pentru a privi bărcile locale trecând.",
+            "en": "Stroll through this lovely coastal recreational area with excellent Aegean Sea views, taking a moment to sit on the rocks and watch the local boats pass."
+          }
+        },
+        {
+          "name": {
+            "de": "Firopotamos",
+            "hu": "Firopotamos",
+            "ro": "Firopotamos",
+            "en": "Firopotamos"
+          },
+          "coords": [
+            24.427494,
+            36.757687
+          ],
+          "category": "recreational",
+          "arrive_at": "13:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am kristallklaren Wasser dieses malerischen Fischerdorfes und kommen Sie früh, um einen guten Platz am Strand zu sichern.",
+            "hu": "Pihenjen ennek a festői, színes csónakházakkal körülvett halászfalunak a kristálytiszta vizeinél; érkezzen korán a legjobb tengerparti helyekért.",
+            "ro": "Relaxați-vă lângă apele cristaline ale acestui sat pitoresc de pescari, ajungând devreme pentru a vă asigura un loc excelent pe plaja micii așezări.",
+            "en": "Relax by the crystal-clear waters of this picturesque fishing village surrounded by colorful boathouses, arriving early to secure a prime beach spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Georgios",
+            "hu": "Agios Georgios",
+            "ro": "Agios Georgios",
+            "en": "Agios Georgios"
+          },
+          "coords": [
+            24.413658,
+            36.762581
+          ],
+          "category": "religious",
+          "arrive_at": "15:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre dieser malerischen Kapelle auf dem Hügel, die sich perfekt für einen kurzen Stopp eignet, um die Beine zu vertreten.",
+            "hu": "Élvezze a dombtetőn álló bájos kápolna békés hangulatát, ahonnan kilátás nyílik az öblökre, ami tökéletes rövid megálló a lábak kinyújtóztatásához.",
+            "ro": "Bucurați-vă de ambianța senină a acestei capele pitorești de pe deal cu vedere la golfurile înconjurătoare, fiind o oprire perfectă pentru a vă întinde picioarele.",
+            "en": "Take in the serene ambiance of this quaint hilltop chapel overlooking the surrounding bays, making it the perfect quick stop to stretch your legs."
+          }
+        },
+        {
+          "name": {
+            "de": "Plathiena",
+            "hu": "Plathiena",
+            "ro": "Plathiena",
+            "en": "Plathiena"
+          },
+          "coords": [
+            24.412799,
+            36.754034
+          ],
+          "category": "recreational",
+          "arrive_at": "15:50",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am feinen Sand dieser geschützten Bucht und planen Sie Ihren Besuch für den späten Nachmittag, um einen tollen Sonnenuntergang zu sehen.",
+            "hu": "Pihenjen meg ennek a védett öbölnek a puha homokján, és időzítse a látogatását késő délutánra, hogy szemtanúja legyen a látványos naplementének.",
+            "ro": "Relaxați-vă pe nisipul fin al acestui golf adăpostit perfect pentru înot, programându-vă vizita târziu după-amiaza pentru un apus de soare cu adevărat spectaculos.",
+            "en": "Unwind on the soft sands of this sheltered bay perfect for swimming, timing your visit for the late afternoon to witness a truly spectacular sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zunächst landeinwärts, um die spirituelle Ruhe der lokalen Kapellen aufzusaugen, bevor Sie an die Nordküste fahren. Verbringen Sie Ihren Mittag damit, zwischen malerischen Fischerdörfern wie Mantrakia zu pendeln. Der Nachmittag lädt Sie ein, am ruhigen Wasser von Firopotamos zu entspannen. Beenden Sie Ihren Roadtrip mit einem herrlichen Sonnenuntergang am Strand von Plathiena.",
+        "hu": "Autózzon először a sziget belsejébe, hogy magába szívja a helyi kápolnák spirituális nyugalmát, mielőtt az északi partra indulna. A delet a festői halászfalvak, Mantrakia és Tourkothalassa közötti ugrálással töltse. A délután arra hívja, hogy pihenjen Firopotamos nyugodt vizeinél. Zárja a festői autós utazást egy csodálatos naplementével a védett Plathiena tengerpartján.",
+        "ro": "Conduceți spre interior inițial pentru a absorbi calmul spiritual al capelelor locale înainte de a vă îndrepta spre coasta de nord. Petreceți-vă prânzul între satele pitorești de pescari Mantrakia și Tourkothalassa. După-amiaza vă invită să vă relaxați lângă apele senine din Firopotamos. Încheiați excursia pitorească cu un apus de soare magnific pe plaja relaxantă Plathiena.",
+        "en": "Drive inland initially to soak in the spiritual calmness of local chapels before heading to the northern coast. Spend your midday hopping between the picturesque fishing villages of Mantrakia and Tourkothalassa, admiring their colorful boathouses. The afternoon invites you to relax by the serene waters of Firopotamos. Wrap up your scenic road trip with a magnificent sunset at Plathiena beach."
+      }
+    }
+  }
+}

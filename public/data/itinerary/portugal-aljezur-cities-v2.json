@@ -1,0 +1,497 @@
+{
+  "city_id": "portugal-aljezur-cities-v2",
+  "anchor": {
+    "name": "Aljezur",
+    "coords": [
+      -8.803678,
+      37.31925
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:19",
+      "total_km": 1.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Aljezur Táctil Museu Municipal",
+            "hu": "Aljezur Táctil Városi Múzeum",
+            "ro": "Muzeul Municipal Tactil din Aljezur",
+            "en": "Aljezur Tactile Municipal Museum"
+          },
+          "coords": [
+            -8.803302,
+            37.319144
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spüren Sie die Geschichte der Region durch interaktive, taktile Ausstellungen, und vergessen Sie nicht, das freundliche Personal um eine Tastführung zu bitten.",
+            "hu": "Tapintsa meg a régió történelmét az interaktív kiállításokon, amelyek életre keltik a múltat, és kérjen bátran egy vezetett tapintós túrát a barátságos személyzettől.",
+            "ro": "Simțiți istoria regiunii prin exponate tactile interactive care aduc trecutul la viață și nu uitați să cereți personalului amabil un tur ghidat prin atingere.",
+            "en": "Feel the history of the region through interactive, tactile exhibits that bring the past to life, and remember to ask the friendly staff for a guided touch tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa-Museu Pintor José Cercas",
+            "hu": "José Cercas Festő Emlékmúzeuma",
+            "ro": "Casa-Muzeu a Pictorului José Cercas",
+            "en": "Painter José Cercas House-Museum"
+          },
+          "coords": [
+            -8.804033,
+            37.318111
+          ],
+          "category": "museum",
+          "arrive_at": "10:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisiten Kunstwerke im ehemaligen Wohnhaus des lokalen Malers José Cercas, aber besuchen Sie unbedingt den charmanten Innenhof für eine Pause.",
+            "hu": "Csodálja meg a kiváló műalkotásokat a helyi festő, José Cercas egykori otthonában, de feltétlenül látogasson el a hangulatos belső udvarra egy kis pihenésért.",
+            "ro": "Admirați operele de artă și antichitățile în fosta casă a pictorului local José Cercas, dar asigurați-vă că vizitați curtea interioară fermecătoare pentru o pauză.",
+            "en": "Admire the exquisite artwork and antiques in the former home of local painter José Cercas, but be sure to visit the charming inner courtyard for a peaceful break."
+          }
+        },
+        {
+          "name": {
+            "de": "Fonte das Mentiras",
+            "hu": "Hazugságok Kútja",
+            "ro": "Fântâna Minciunilor",
+            "en": "Fountain of Lies"
+          },
+          "coords": [
+            -8.806779,
+            37.317064
+          ],
+          "category": "historical",
+          "arrive_at": "12:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie den antiken „Brunnen der Lügen“, der in maurische Legenden gehüllt ist, und bringen Sie eine Wasserflasche mit, während Sie die historischen Ruinen erkunden.",
+            "hu": "Fedezze fel az ősi „Hazugságok kútját”, amelyet mór legendák öveznek, és hozzon magával kulacsot, hogy hidratált maradjon a történelmi romok felfedezése közben.",
+            "ro": "Descoperiți vechea „Fântână a Minciunilor” învăluită în legende maure și aduceți o sticlă de apă pentru a vă hidrata în timp ce explorați ruinele istorice.",
+            "en": "Discover the ancient \"Fountain of Lies\" wrapped in Moorish legends of hidden princesses, and bring a water bottle to stay hydrated while exploring the historic ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelo de Aljezur",
+            "hu": "Aljezur Kastélya",
+            "ro": "Castelul din Aljezur",
+            "en": "Aljezur Castle"
+          },
+          "coords": [
+            -8.805236,
+            37.316284
+          ],
+          "category": "landmark",
+          "arrive_at": "13:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Steigen Sie zu den Ruinen dieser maurischen Burg aus dem 10. Jahrhundert hinauf, um den Panoramablick zu genießen, und tragen Sie feste Schuhe für die unebenen Wege.",
+            "hu": "Másszon fel a 10. századi mór kastély romjaihoz, ahonnan lélegzetelállító panoráma nyílik a völgyre, és viseljen masszív cipőt az egyenetlen macskaköves utakon.",
+            "ro": "Urcați la ruinele acestui castel maur din secolul al X-lea pentru a vă bucura de vederi panoramice uluitoare ale văii și purtați încălțăminte rezistentă pentru poteci.",
+            "en": "Climb up to the ruins of this 10th-century Moorish castle to enjoy breathtaking panoramic views of the valley, and wear sturdy shoes for the uneven cobblestone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Câmara Municipal de Aljezur",
+            "hu": "Aljezur Városháza",
+            "ro": "Primăria Aljezur",
+            "en": "Aljezur Town Hall"
+          },
+          "coords": [
+            -8.799367,
+            37.316098
+          ],
+          "category": "historical",
+          "arrive_at": "14:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Betrachten Sie die traditionelle Architektur des Rathauses, dem bürgerlichen Herzen von Aljezur, und überprüfen Sie die Informationstafel auf lokale Kulturveranstaltungen.",
+            "hu": "Figyelje meg a városháza hagyományos építészetét, amely Aljezur polgári szíveként szolgál, és nézze meg a kinti hirdetőtáblát a közelgő helyi kulturális eseményekről.",
+            "ro": "Observați arhitectura tradițională a primăriei care servește drept inima civică a orașului Aljezur și verificați panoul de afișaj de afară pentru evenimente culturale.",
+            "en": "Observe the traditional architecture of the town hall serving as the civic heart of Aljezur, and check the notice board outside for any upcoming local cultural events."
+          }
+        },
+        {
+          "name": {
+            "de": "Espaço +",
+            "hu": "Espaço +",
+            "ro": "Espaço +",
+            "en": "Espaço +"
+          },
+          "coords": [
+            -8.796785,
+            37.316284
+          ],
+          "category": "museum",
+          "arrive_at": "16:09",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Setzen Sie sich mit zeitgenössischer lokaler Kunst in diesem dynamischen Galerieraum auseinander und nehmen Sie sich Zeit, im kleinen Geschenkeladen nach Souvenirs zu suchen.",
+            "hu": "Ismerkedjen meg a kortárs helyi művészettel ebben a dinamikus galériatérben, és szánjon időt a kis ajándékbolt felfedezésére, ahol egyedi, kézzel készített szuveníreket talál.",
+            "ro": "Interacționați cu arta locală contemporană la acest spațiu de galerie dinamic și faceți-vă timp pentru a căuta suveniruri unice, lucrate manual, în micul magazin de cadouri.",
+            "en": "Engage with contemporary local art and cultural exhibitions at this dynamic gallery space, and take time to browse the small gift shop for unique, handmade souvenirs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung des historischen Herzens von Aljezur. Der Mittag lädt zu einem tiefen Einblick in das lokale Erbe in faszinierenden Museen und versteckten maurischen Ruinen ein. Verbringen Sie den Nachmittag damit, die weite Aussicht von der alten Burg auf dem Hügel zu bewundern. Lassen Sie den Tag entspannt am Flussufer oder in den städtischen Galerien ausklingen.",
+        "hu": "Kezdje a reggelt Aljezur történelmi központjának felfedezésével, a macskaköves utcákon kanyarogva. A dél a helyi örökség és a mór romok felfedezésére csábít a múzeumokban. A délutánt a dombtetőn álló ősi kastély lenyűgöző panorámájának megcsodálásával töltheti. Zárja a napot a folyóparton pihenve, vagy merüljön el a kortárs helyi művészetben a galériákban.",
+        "ro": "Începeți dimineața explorând inima istorică a orașului Aljezur, plimbându-vă pe străzile cu piatră cubică. La prânz, pătrundeți în moștenirea locală la muzee fascinante și ruine maure ascunse. Petreceți după-amiaza admirând priveliștile panoramice de la vechiul castel de pe deal. Încheiați-vă ziua relaxându-vă lângă râu sau explorând arta locală contemporană în galeriile civice.",
+        "en": "Begin your morning exploring the historic heart of Aljezur, winding through charming cobblestone streets. Midday invites a deep dive into local heritage at fascinating museums and hidden Moorish ruins. Spend the afternoon marveling at sweeping views from the ancient hilltop castle. Conclude your day unwinding by the river or immersing yourself in contemporary local art at civic galleries."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:51",
+      "total_km": 2.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parque de Merendas de Aljezur",
+            "hu": "Aljezur Piknikparkja",
+            "ro": "Parcul de Picnic din Aljezur",
+            "en": "Aljezur Picnic Park"
+          },
+          "coords": [
+            -8.803064,
+            37.324786
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie im Schatten der Eukalyptusbäume an diesem friedlichen Picknickplatz am Fluss und packen Sie lokalen Käse und Brot vom Markt für ein authentisches Mittagessen ein.",
+            "hu": "Pihenjen az eukaliptuszfák árnyékában ezen a békés folyóparti piknikezőhelyen, és vigyen magával egy kis helyi sajtot és kenyeret a piacról egy autentikus szabadtéri ebédhez.",
+            "ro": "Relaxați-vă la umbra eucalipților în acest loc liniștit de picnic lângă râu și împachetați brânză locală și pâine de la piață pentru un prânz autentic în aer liber.",
+            "en": "Relax under the shade of eucalyptus trees at this peaceful picnic spot by the river, and pack some local cheese and bread from the market for an authentic outdoor lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscinas Municipais de Aljezur",
+            "hu": "Aljezur Városi Medencéi",
+            "ro": "Piscinele Municipale din Aljezur",
+            "en": "Aljezur Municipal Pools"
+          },
+          "coords": [
+            -8.794993,
+            37.326192
+          ],
+          "category": "recreational",
+          "arrive_at": "09:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich mit einem erfrischenden Bad in den gut gepflegten städtischen Pools ab, die ideal für eine Mittagspause sind, und bringen Sie Ihr eigenes Handtuch und eine Badekappe mit.",
+            "hu": "Hűtse le magát egy frissítő úszással a jól karbantartott városi medencékben, és feltétlenül vigyen magával saját törölközőt és úszósapkát, amely kötelező ezen a helyen.",
+            "ro": "Răcoriți-vă cu o înot revigorant în piscinele municipale bine întreținute, ideale pentru o pauză, și asigurați-vă că aduceți propriul prosop și o cască de înot, care este obligatorie.",
+            "en": "Cool off with a refreshing swim in the well-maintained municipal pools ideal for a midday break, and make sure to bring your own towel and a swimming cap which is mandatory."
+          }
+        },
+        {
+          "name": {
+            "de": "Espaço +",
+            "hu": "Espaço +",
+            "ro": "Espaço +",
+            "en": "Espaço +"
+          },
+          "coords": [
+            -8.796785,
+            37.316284
+          ],
+          "category": "museum",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Setzen Sie sich mit zeitgenössischer lokaler Kunst in diesem dynamischen Galerieraum auseinander und nehmen Sie sich Zeit, im kleinen Geschenkeladen nach Souvenirs zu suchen.",
+            "hu": "Ismerkedjen meg a kortárs helyi művészettel ebben a dinamikus galériatérben, és szánjon időt a kis ajándékbolt felfedezésére, ahol egyedi, kézzel készített szuveníreket talál.",
+            "ro": "Interacționați cu arta locală contemporană la acest spațiu de galerie dinamic și faceți-vă timp pentru a căuta suveniruri unice, lucrate manual, în micul magazin de cadouri.",
+            "en": "Engage with contemporary local art and cultural exhibitions at this dynamic gallery space, and take time to browse the small gift shop for unique, handmade souvenirs."
+          }
+        },
+        {
+          "name": {
+            "de": "Câmara Municipal de Aljezur",
+            "hu": "Aljezur Városháza",
+            "ro": "Primăria Aljezur",
+            "en": "Aljezur Town Hall"
+          },
+          "coords": [
+            -8.799367,
+            37.316098
+          ],
+          "category": "historical",
+          "arrive_at": "12:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betrachten Sie die traditionelle Architektur des Rathauses, dem bürgerlichen Herzen von Aljezur, und überprüfen Sie die Informationstafel auf lokale Kulturveranstaltungen.",
+            "hu": "Figyelje meg a városháza hagyományos építészetét, amely Aljezur polgári szíveként szolgál, és nézze meg a kinti hirdetőtáblát a közelgő helyi kulturális eseményekről.",
+            "ro": "Observați arhitectura tradițională a primăriei care servește drept inima civică a orașului Aljezur și verificați panoul de afișaj de afară pentru evenimente culturale.",
+            "en": "Observe the traditional architecture of the town hall serving as the civic heart of Aljezur, and check the notice board outside for any upcoming local cultural events."
+          }
+        },
+        {
+          "name": {
+            "de": "Aljezur Táctil Museu Municipal",
+            "hu": "Aljezur Táctil Városi Múzeum",
+            "ro": "Muzeul Municipal Tactil din Aljezur",
+            "en": "Aljezur Tactile Municipal Museum"
+          },
+          "coords": [
+            -8.803302,
+            37.319144
+          ],
+          "category": "museum",
+          "arrive_at": "14:19",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spüren Sie die Geschichte der Region durch interaktive, taktile Ausstellungen, und vergessen Sie nicht, das freundliche Personal um eine Tastführung zu bitten.",
+            "hu": "Tapintsa meg a régió történelmét az interaktív kiállításokon, amelyek életre keltik a múltat, és kérjen bátran egy vezetett tapintós túrát a barátságos személyzettől.",
+            "ro": "Simțiți istoria regiunii prin exponate tactile interactive care aduc trecutul la viață și nu uitați să cereți personalului amabil un tur ghidat prin atingere.",
+            "en": "Feel the history of the region through interactive, tactile exhibits that bring the past to life, and remember to ask the friendly staff for a guided touch tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa-Museu Pintor José Cercas",
+            "hu": "José Cercas Festő Emlékmúzeuma",
+            "ro": "Casa-Muzeu a Pictorului José Cercas",
+            "en": "Painter José Cercas House-Museum"
+          },
+          "coords": [
+            -8.804033,
+            37.318111
+          ],
+          "category": "museum",
+          "arrive_at": "16:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisiten Kunstwerke im ehemaligen Wohnhaus des lokalen Malers José Cercas, aber besuchen Sie unbedingt den charmanten Innenhof für eine Pause.",
+            "hu": "Csodálja meg a kiváló műalkotásokat a helyi festő, José Cercas egykori otthonában, de feltétlenül látogasson el a hangulatos belső udvarra egy kis pihenésért.",
+            "ro": "Admirați operele de artă și antichitățile în fosta casă a pictorului local José Cercas, dar asigurați-vă că vizitați curtea interioară fermecătoare pentru o pauză.",
+            "en": "Admire the exquisite artwork and antiques in the former home of local painter José Cercas, but be sure to visit the charming inner courtyard for a peaceful break."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelo de Aljezur",
+            "hu": "Aljezur Kastélya",
+            "ro": "Castelul din Aljezur",
+            "en": "Aljezur Castle"
+          },
+          "coords": [
+            -8.805236,
+            37.316284
+          ],
+          "category": "landmark",
+          "arrive_at": "17:41",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Steigen Sie zu den Ruinen dieser maurischen Burg aus dem 10. Jahrhundert hinauf, um den Panoramablick zu genießen, und tragen Sie feste Schuhe für die unebenen Wege.",
+            "hu": "Másszon fel a 10. századi mór kastély romjaihoz, ahonnan lélegzetelállító panoráma nyílik a völgyre, és viseljen masszív cipőt az egyenetlen macskaköves utakon.",
+            "ro": "Urcați la ruinele acestui castel maur din secolul al X-lea pentru a vă bucura de vederi panoramice uluitoare ale văii și purtați încălțăminte rezistentă pentru poteci.",
+            "en": "Climb up to the ruins of this 10th-century Moorish castle to enjoy breathtaking panoramic views of the valley, and wear sturdy shoes for the uneven cobblestone paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung des historischen Herzens von Aljezur. Der Mittag lädt zu einem tiefen Einblick in das lokale Erbe in faszinierenden Museen und versteckten maurischen Ruinen ein. Verbringen Sie den Nachmittag damit, die weite Aussicht von der alten Burg auf dem Hügel zu bewundern. Lassen Sie den Tag entspannt am Flussufer oder in den städtischen Galerien ausklingen.",
+        "hu": "Kezdje a reggelt Aljezur történelmi központjának felfedezésével, a macskaköves utcákon kanyarogva. A dél a helyi örökség és a mór romok felfedezésére csábít a múzeumokban. A délutánt a dombtetőn álló ősi kastély lenyűgöző panorámájának megcsodálásával töltheti. Zárja a napot a folyóparton pihenve, vagy merüljön el a kortárs helyi művészetben a galériákban.",
+        "ro": "Începeți dimineața explorând inima istorică a orașului Aljezur, plimbându-vă pe străzile cu piatră cubică. La prânz, pătrundeți în moștenirea locală la muzee fascinante și ruine maure ascunse. Petreceți după-amiaza admirând priveliștile panoramice de la vechiul castel de pe deal. Încheiați-vă ziua relaxându-vă lângă râu sau explorând arta locală contemporană în galeriile civice.",
+        "en": "Begin your morning exploring the historic heart of Aljezur, winding through charming cobblestone streets. Midday invites a deep dive into local heritage at fascinating museums and hidden Moorish ruins. Spend the afternoon marveling at sweeping views from the ancient hilltop castle. Conclude your day unwinding by the river or immersing yourself in contemporary local art at civic galleries."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:02",
+      "total_km": 2.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Piscinas Municipais de Aljezur",
+            "hu": "Aljezur Városi Medencéi",
+            "ro": "Piscinele Municipale din Aljezur",
+            "en": "Aljezur Municipal Pools"
+          },
+          "coords": [
+            -8.794993,
+            37.326192
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich mit einem erfrischenden Bad in den gut gepflegten städtischen Pools ab, die ideal für eine Mittagspause sind, und bringen Sie Ihr eigenes Handtuch und eine Badekappe mit.",
+            "hu": "Hűtse le magát egy frissítő úszással a jól karbantartott városi medencékben, és feltétlenül vigyen magával saját törölközőt és úszósapkát, amely kötelező ezen a helyen.",
+            "ro": "Răcoriți-vă cu o înot revigorant în piscinele municipale bine întreținute, ideale pentru o pauză, și asigurați-vă că aduceți propriul prosop și o cască de înot, care este obligatorie.",
+            "en": "Cool off with a refreshing swim in the well-maintained municipal pools ideal for a midday break, and make sure to bring your own towel and a swimming cap which is mandatory."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque de Merendas de Aljezur",
+            "hu": "Aljezur Piknikparkja",
+            "ro": "Parcul de Picnic din Aljezur",
+            "en": "Aljezur Picnic Park"
+          },
+          "coords": [
+            -8.803064,
+            37.324786
+          ],
+          "category": "landmark",
+          "arrive_at": "10:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie im Schatten der Eukalyptusbäume an diesem friedlichen Picknickplatz am Fluss und packen Sie lokalen Käse und Brot vom Markt für ein authentisches Mittagessen ein.",
+            "hu": "Pihenjen az eukaliptuszfák árnyékában ezen a békés folyóparti piknikezőhelyen, és vigyen magával egy kis helyi sajtot és kenyeret a piacról egy autentikus szabadtéri ebédhez.",
+            "ro": "Relaxați-vă la umbra eucalipților în acest loc liniștit de picnic lângă râu și împachetați brânză locală și pâine de la piață pentru un prânz autentic în aer liber.",
+            "en": "Relax under the shade of eucalyptus trees at this peaceful picnic spot by the river, and pack some local cheese and bread from the market for an authentic outdoor lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Aljezur Táctil Museu Municipal",
+            "hu": "Aljezur Táctil Városi Múzeum",
+            "ro": "Muzeul Municipal Tactil din Aljezur",
+            "en": "Aljezur Tactile Municipal Museum"
+          },
+          "coords": [
+            -8.803302,
+            37.319144
+          ],
+          "category": "museum",
+          "arrive_at": "11:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spüren Sie die Geschichte der Region durch interaktive, taktile Ausstellungen, und vergessen Sie nicht, das freundliche Personal um eine Tastführung zu bitten.",
+            "hu": "Tapintsa meg a régió történelmét az interaktív kiállításokon, amelyek életre keltik a múltat, és kérjen bátran egy vezetett tapintós túrát a barátságos személyzettől.",
+            "ro": "Simțiți istoria regiunii prin exponate tactile interactive care aduc trecutul la viață și nu uitați să cereți personalului amabil un tur ghidat prin atingere.",
+            "en": "Feel the history of the region through interactive, tactile exhibits that bring the past to life, and remember to ask the friendly staff for a guided touch tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Fonte das Mentiras",
+            "hu": "Hazugságok Kútja",
+            "ro": "Fântâna Minciunilor",
+            "en": "Fountain of Lies"
+          },
+          "coords": [
+            -8.806779,
+            37.317064
+          ],
+          "category": "historical",
+          "arrive_at": "12:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie den antiken „Brunnen der Lügen“, der in maurische Legenden gehüllt ist, und bringen Sie eine Wasserflasche mit, während Sie die historischen Ruinen erkunden.",
+            "hu": "Fedezze fel az ősi „Hazugságok kútját”, amelyet mór legendák öveznek, és hozzon magával kulacsot, hogy hidratált maradjon a történelmi romok felfedezése közben.",
+            "ro": "Descoperiți vechea „Fântână a Minciunilor” învăluită în legende maure și aduceți o sticlă de apă pentru a vă hidrata în timp ce explorați ruinele istorice.",
+            "en": "Discover the ancient \"Fountain of Lies\" wrapped in Moorish legends of hidden princesses, and bring a water bottle to stay hydrated while exploring the historic ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelo de Aljezur",
+            "hu": "Aljezur Kastélya",
+            "ro": "Castelul din Aljezur",
+            "en": "Aljezur Castle"
+          },
+          "coords": [
+            -8.805236,
+            37.316284
+          ],
+          "category": "landmark",
+          "arrive_at": "14:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Steigen Sie zu den Ruinen dieser maurischen Burg aus dem 10. Jahrhundert hinauf, um den Panoramablick zu genießen, und tragen Sie feste Schuhe für die unebenen Wege.",
+            "hu": "Másszon fel a 10. századi mór kastély romjaihoz, ahonnan lélegzetelállító panoráma nyílik a völgyre, és viseljen masszív cipőt az egyenetlen macskaköves utakon.",
+            "ro": "Urcați la ruinele acestui castel maur din secolul al X-lea pentru a vă bucura de vederi panoramice uluitoare ale văii și purtați încălțăminte rezistentă pentru poteci.",
+            "en": "Climb up to the ruins of this 10th-century Moorish castle to enjoy breathtaking panoramic views of the valley, and wear sturdy shoes for the uneven cobblestone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Espaço +",
+            "hu": "Espaço +",
+            "ro": "Espaço +",
+            "en": "Espaço +"
+          },
+          "coords": [
+            -8.796785,
+            37.316284
+          ],
+          "category": "museum",
+          "arrive_at": "14:52",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Setzen Sie sich mit zeitgenössischer lokaler Kunst in diesem dynamischen Galerieraum auseinander und nehmen Sie sich Zeit, im kleinen Geschenkeladen nach Souvenirs zu suchen.",
+            "hu": "Ismerkedjen meg a kortárs helyi művészettel ebben a dinamikus galériatérben, és szánjon időt a kis ajándékbolt felfedezésére, ahol egyedi, kézzel készített szuveníreket talál.",
+            "ro": "Interacționați cu arta locală contemporană la acest spațiu de galerie dinamic și faceți-vă timp pentru a căuta suveniruri unice, lucrate manual, în micul magazin de cadouri.",
+            "en": "Engage with contemporary local art and cultural exhibitions at this dynamic gallery space, and take time to browse the small gift shop for unique, handmade souvenirs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung des historischen Herzens von Aljezur. Der Mittag lädt zu einem tiefen Einblick in das lokale Erbe in faszinierenden Museen und versteckten maurischen Ruinen ein. Verbringen Sie den Nachmittag damit, die weite Aussicht von der alten Burg auf dem Hügel zu bewundern. Lassen Sie den Tag entspannt am Flussufer oder in den städtischen Galerien ausklingen.",
+        "hu": "Kezdje a reggelt Aljezur történelmi központjának felfedezésével, a macskaköves utcákon kanyarogva. A dél a helyi örökség és a mór romok felfedezésére csábít a múzeumokban. A délutánt a dombtetőn álló ősi kastély lenyűgöző panorámájának megcsodálásával töltheti. Zárja a napot a folyóparton pihenve, vagy merüljön el a kortárs helyi művészetben a galériákban.",
+        "ro": "Începeți dimineața explorând inima istorică a orașului Aljezur, plimbându-vă pe străzile cu piatră cubică. La prânz, pătrundeți în moștenirea locală la muzee fascinante și ruine maure ascunse. Petreceți după-amiaza admirând priveliștile panoramice de la vechiul castel de pe deal. Încheiați-vă ziua relaxându-vă lângă râu sau explorând arta locală contemporană în galeriile civice.",
+        "en": "Begin your morning exploring the historic heart of Aljezur, winding through charming cobblestone streets. Midday invites a deep dive into local heritage at fascinating museums and hidden Moorish ruins. Spend the afternoon marveling at sweeping views from the ancient hilltop castle. Conclude your day unwinding by the river or immersing yourself in contemporary local art at civic galleries."
+      }
+    }
+  }
+}

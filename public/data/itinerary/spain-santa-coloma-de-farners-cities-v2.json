@@ -1,0 +1,451 @@
+{
+  "city_id": "spain-santa-coloma-de-farners-cities-v2",
+  "anchor": {
+    "name": "Santa Coloma de Farners",
+    "coords": [
+      2.66667,
+      41.86667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:02",
+      "total_km": 3.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Església parroquial de Santa Coloma de Farners",
+            "hu": "Església parroquial de Santa Coloma de Farners",
+            "ro": "Església parroquial de Santa Coloma de Farners",
+            "en": "Església parroquial de Santa Coloma de Farners"
+          },
+          "coords": [
+            2.66293,
+            41.863611
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotische Architektur dieser historischen Pfarrkirche und prüfen Sie vorab die Öffnungszeiten, um das atemberaubende Innere zu sehen.",
+            "hu": "Csodálja meg ennek a történelmi plébániatemplomnak a gótikus építészetét, és mindenképpen ellenőrizze a nyitvatartást, hogy láthassa a lenyűgöző belső teret.",
+            "ro": "Admirați arhitectura gotică a acestei biserici parohiale istorice și asigurați-vă că verificați programul înainte pentru a vedea interiorul uimitor.",
+            "en": "Admire the beautiful Gothic architecture of this historic parish church, and be sure to check the opening hours beforehand to see the stunning interior."
+          }
+        },
+        {
+          "name": {
+            "de": "La Casa de la Paraula",
+            "hu": "La Casa de la Paraula",
+            "ro": "La Casa de la Paraula",
+            "en": "La Casa de la Paraula"
+          },
+          "coords": [
+            2.662808,
+            41.864942
+          ],
+          "category": "museum",
+          "arrive_at": "09:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem Kulturmuseum die lokale Geschichte und literarische Ausstellungen, also nehmen Sie sich Zeit für die informativen Schautafeln.",
+            "hu": "Fedezze fel a helyi történelmet és irodalmi kiállításokat ebben a múzeumban, ezért szánjon időt az informatív táblák elolvasására a földszinten.",
+            "ro": "Descoperiți istoria locală și expozițiile literare în acest muzeu cultural și luați-vă timp să citiți panourile informative de la parter.",
+            "en": "Discover local history and literary exhibits in this engaging cultural museum, so take your time reading the informative displays on the ground floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Molí de n'Iglesias",
+            "hu": "Molí de n'Iglesias",
+            "ro": "Molí de n'Iglesias",
+            "en": "Molí de n'Iglesias"
+          },
+          "coords": [
+            2.652416,
+            41.864185
+          ],
+          "category": "historical",
+          "arrive_at": "11:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser historischen Wassermühle in der Natur, wobei bequeme Schuhe für die unebenen Wege sehr zu empfehlen sind.",
+            "hu": "Fedezze fel ennek a történelmi vízimalomnak a hangulatos maradványait a természetben, ahol kényelmes cipő viselése erősen ajánlott az egyenetlen ösvényeken.",
+            "ro": "Explorați rămășițele fermecătoare ale acestei mori istorice de apă în natură, unde se recomandă purtarea de încălțăminte confortabilă pentru potecile denivelate.",
+            "en": "Explore the charming remnants of this historic water mill surrounded by nature, where wearing comfortable walking shoes is highly recommended for the uneven paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de Sant Salvador",
+            "hu": "Parc de Sant Salvador",
+            "ro": "Parc de Sant Salvador",
+            "en": "Parc de Sant Salvador"
+          },
+          "coords": [
+            2.659129,
+            41.858403
+          ],
+          "category": "park",
+          "arrive_at": "13:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen ruhigen Park im Schatten großer Platanen und bringen Sie ein kleines Picknick mit, um es an den Bächen zu genießen.",
+            "hu": "Sétáljon át ezen a békés, hatalmas platánfák által árnyékolt parkon, és hozzon magával egy kis pikniket, amelyet a csendes patakok mellett élvezhet.",
+            "ro": "Plimbați-vă prin acest parc liniștit umbrit de platani falnici și aduceți un mic picnic pentru a vă bucura de pârâurile blânde și apele de izvor.",
+            "en": "Stroll through this tranquil park shaded by towering plane trees, and bring a small picnic to enjoy by the gentle streams and natural spring waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu de Galetes Trias",
+            "hu": "Museu de Galetes Trias",
+            "ro": "Museu de Galetes Trias",
+            "en": "Museu de Galetes Trias"
+          },
+          "coords": [
+            2.67422,
+            41.857071
+          ],
+          "category": "museum",
+          "arrive_at": "14:52",
+          "stay_min": 130,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 1.25,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem wunderbaren Familienmuseum alles über die Geschichte der traditionellen katalanischen Keksherstellung und kaufen Sie leckere Souvenirs.",
+            "hu": "Ismerje meg a hagyományos katalán kekszkészítés édes történetét ebben a csodálatos családi múzeumban, és ne felejtsen el finom falatokat venni a boltban.",
+            "ro": "Aflați despre istoria dulce a fabricării biscuiților catalani în acest muzeu de familie minunat și nu uitați să cumpărați câteva delicii gustoase din magazin.",
+            "en": "Learn about the sweet history of traditional Catalan biscuit making at this wonderful family museum, and don't forget to buy some tasty treats in the shop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im Herzen von Santa Coloma de Farners und erkunden Sie die historische Església parroquial. Nach der Besichtigung schlendern Sie zur La Casa de la Paraula, um das kulturelle Erbe zu entdecken.\n\nWenn der Mittag naht, spazieren Sie zum Rand des Stadtzentrums, um die Molí de n'Iglesias zu entdecken. Diese historische Mühle bietet einen bezaubernden Einblick in die landwirtschaftliche Vergangenheit der Region.\n\nVerbringen Sie den frühen Nachmittag mit einem Spaziergang durch den weitläufigen Parc de Sant Salvador. Unter majestätischen Bäumen und an kühlen Bächen ist es der perfekte Ort, um sich zu entspannen und die Natur zu genießen.\n\nBeenden Sie Ihren Rundgang mit einem süßen Erlebnis im Museu de Galetes Trias. Hier lernen Sie traditionelle katalanische Backtechniken kennen und können köstliche Kekse probieren, während die Sonne untergeht.",
+        "hu": "Kezdje a reggelt Santa Coloma de Farners szívében a történelmi plébániatemplom felfedezésével. Az építészet megcsodálása után sétáljon el a La Casa de la Paraula épületéhez, hogy elmerüljön a helyi kulturális örökségben.\n\nA dél közeledtével sétáljon a városközpont széle felé, és fedezze fel a Molí de n'Iglesias-t. Ez a történelmi malom varázslatos bepillantást nyújt a régió mezőgazdasági múltjába, békés helyet biztosítva a pihenésre.\n\nTöltse a kora délutánt a hatalmas Parc de Sant Salvador bebarangolásával. A fenséges fák árnyékában és a patakok által hűtött park tökéletes hely a kikapcsolódásra és a természet nyugodt szépségének élvezetére.\n\nZárja sétáját édes hangulatban a Museu de Galetes Trias múzeumban. Itt megismerkedhet a hagyományos katalán sütési technikákkal, és finom kekszeket kóstolhat, miközben a nap lenyugszik a város felett.",
+        "ro": "Începeți dimineața în inima orașului Santa Coloma de Farners, explorând istorica biserică parohială. După aceea, faceți o scurtă plimbare la La Casa de la Paraula pentru a vă cufunda în patrimoniul cultural și literar.\n\nPe măsură ce se apropie prânzul, mergeți spre marginea centrului pentru a descoperi Molí de n'Iglesias. Această moară istorică oferă o privire fermecătoare asupra trecutului agricol al regiunii, fiind un loc liniștit.\n\nPetreceți prima parte a după-amiezii plimbându-vă prin extinsul Parc de Sant Salvador. Umbrit de copaci maiestuoși, este locul perfect pentru a vă relaxa, a respira aer curat și a vă bucura de frumusețea naturii.\n\nÎncheiați-vă turul pietonal într-o notă dulce la Museu de Galetes Trias. Aici veți învăța despre tehnicile tradiționale de panificație catalană și veți avea ocazia să degustați biscuiți delicioși.",
+        "en": "Start your morning in the heart of Santa Coloma de Farners, exploring the historic Església parroquial. After admiring its architecture, take a short stroll to La Casa de la Paraula to dive deep into local cultural heritage and literature.\n\nAs the midday approaches, walk towards the edge of the town center to discover the Molí de n'Iglesias. This historic mill offers a charming glimpse into the region's agricultural past, making it a peaceful and picturesque spot for a midday break.\n\nSpend your early afternoon wandering through the expansive Parc de Sant Salvador. Shaded by majestic trees and cooled by streams, it's the perfect place to relax, breathe in the fresh air, and enjoy the tranquil beauty of nature.\n\nConclude your walking tour on a sweet note at the Museu de Galetes Trias. Here you will learn about traditional Catalan baking techniques and have the chance to sample delicious biscuits as the sun sets over this lovely Catalan town."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:24",
+      "total_km": 3.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Força de l'Alou",
+            "hu": "Força de l'Alou",
+            "ro": "Força de l'Alou",
+            "en": "Força de l'Alou"
+          },
+          "coords": [
+            2.644477,
+            41.873776
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die antiken Ruinen dieser faszinierenden Burg, um die mittelalterliche Atmosphäre zu genießen, aber bereiten Sie sich auf einen Aufstieg vor.",
+            "hu": "Látogasson el ennek a lenyűgöző kastélynak az ősi romjaihoz, hogy átélje a középkori hangulatot, de készüljön fel egy meredek mászásra a csúcs eléréséhez.",
+            "ro": "Vizitați ruinele antice ale acestui castel fascinant pentru a vă bucura de atmosfera medievală, dar pregătiți-vă pentru o urcare destul de abruptă.",
+            "en": "Visit the ancient ruins of this fascinating castle to soak in the medieval atmosphere, but be prepared for a bit of a steep climb to reach the very top."
+          }
+        },
+        {
+          "name": {
+            "de": "Molí de n'Iglesias",
+            "hu": "Molí de n'Iglesias",
+            "ro": "Molí de n'Iglesias",
+            "en": "Molí de n'Iglesias"
+          },
+          "coords": [
+            2.652416,
+            41.864185
+          ],
+          "category": "historical",
+          "arrive_at": "10:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser historischen Wassermühle in der Natur, wobei bequeme Schuhe für die unebenen Wege sehr zu empfehlen sind.",
+            "hu": "Fedezze fel ennek a történelmi vízimalomnak a hangulatos maradványait a természetben, ahol kényelmes cipő viselése erősen ajánlott az egyenetlen ösvényeken.",
+            "ro": "Explorați rămășițele fermecătoare ale acestei mori istorice de apă în natură, unde se recomandă purtarea de încălțăminte confortabilă pentru potecile denivelate.",
+            "en": "Explore the charming remnants of this historic water mill surrounded by nature, where wearing comfortable walking shoes is highly recommended for the uneven paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Església parroquial de Santa Coloma de Farners",
+            "hu": "Església parroquial de Santa Coloma de Farners",
+            "ro": "Església parroquial de Santa Coloma de Farners",
+            "en": "Església parroquial de Santa Coloma de Farners"
+          },
+          "coords": [
+            2.66293,
+            41.863611
+          ],
+          "category": "landmark",
+          "arrive_at": "12:01",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotische Architektur dieser historischen Pfarrkirche und prüfen Sie vorab die Öffnungszeiten, um das atemberaubende Innere zu sehen.",
+            "hu": "Csodálja meg ennek a történelmi plébániatemplomnak a gótikus építészetét, és mindenképpen ellenőrizze a nyitvatartást, hogy láthassa a lenyűgöző belső teret.",
+            "ro": "Admirați arhitectura gotică a acestei biserici parohiale istorice și asigurați-vă că verificați programul înainte pentru a vedea interiorul uimitor.",
+            "en": "Admire the beautiful Gothic architecture of this historic parish church, and be sure to check the opening hours beforehand to see the stunning interior."
+          }
+        },
+        {
+          "name": {
+            "de": "La Casa de la Paraula",
+            "hu": "La Casa de la Paraula",
+            "ro": "La Casa de la Paraula",
+            "en": "La Casa de la Paraula"
+          },
+          "coords": [
+            2.662808,
+            41.864942
+          ],
+          "category": "museum",
+          "arrive_at": "12:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem Kulturmuseum die lokale Geschichte und literarische Ausstellungen, also nehmen Sie sich Zeit für die informativen Schautafeln.",
+            "hu": "Fedezze fel a helyi történelmet és irodalmi kiállításokat ebben a múzeumban, ezért szánjon időt az informatív táblák elolvasására a földszinten.",
+            "ro": "Descoperiți istoria locală și expozițiile literare în acest muzeu cultural și luați-vă timp să citiți panourile informative de la parter.",
+            "en": "Discover local history and literary exhibits in this engaging cultural museum, so take your time reading the informative displays on the ground floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de Sant Salvador",
+            "hu": "Parc de Sant Salvador",
+            "ro": "Parc de Sant Salvador",
+            "en": "Parc de Sant Salvador"
+          },
+          "coords": [
+            2.659129,
+            41.858403
+          ],
+          "category": "park",
+          "arrive_at": "14:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen ruhigen Park im Schatten großer Platanen und bringen Sie ein kleines Picknick mit, um es an den Bächen zu genießen.",
+            "hu": "Sétáljon át ezen a békés, hatalmas platánfák által árnyékolt parkon, és hozzon magával egy kis pikniket, amelyet a csendes patakok mellett élvezhet.",
+            "ro": "Plimbați-vă prin acest parc liniștit umbrit de platani falnici și aduceți un mic picnic pentru a vă bucura de pârâurile blânde și apele de izvor.",
+            "en": "Stroll through this tranquil park shaded by towering plane trees, and bring a small picnic to enjoy by the gentle streams and natural spring waters."
+          }
+        },
+        {
+          "name": {
+            "de": "El Rocar",
+            "hu": "El Rocar",
+            "ro": "El Rocar",
+            "en": "El Rocar"
+          },
+          "coords": [
+            2.657417,
+            41.853776
+          ],
+          "category": "landmark",
+          "arrive_at": "15:29",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die einzigartigen Felsformationen dieses Naturdenkmals und halten Sie Ihre Kamera für einige fantastische Landschaftsaufnahmen bereit.",
+            "hu": "Csodálja meg azokat az egyedi sziklaalakzatokat, amelyekről ez a természeti nevezetesség a nevét kapta, és tartsa készenlétben a fényképezőgépét.",
+            "ro": "Minunați-vă de formațiunile stâncoase unice care dau numele acestui reper natural și păstrați-vă aparatul foto pregătit pentru fotografii panoramice.",
+            "en": "Marvel at the unique rock formations that give this natural landmark its name, and keep your camera ready for some fantastic panoramic landscape shots."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer im Norden bei der Força de l'Alou und erkunden Sie die Burgruine. Fahren Sie dann zur Molí de n'Iglesias, einer alten Mühle, die das landwirtschaftliche Erbe der Region unterstreicht.\n\nFahren Sie mittags ins historische Zentrum. Halten Sie kurz an der Pfarrkirche, bevor Sie in die reichhaltigen Ausstellungen der La Casa de la Paraula eintauchen, die faszinierende Einblicke in Literatur und Kunst bieten.\n\nAm Nachmittag verlagert sich Ihre Tour in die Natur, wenn Sie durch den wunderschönen Parc de Sant Salvador radeln. Die schattigen Wege sind perfekt, um das beruhigende Geräusch von Wasser zu genießen.\n\nBeenden Sie Ihren Radtag mit einem Besuch von El Rocar, einem markanten Felsdenkmal. Die erhöhte Aussicht von diesem natürlichen Ort ist spektakulär und bietet einen großartigen Aussichtspunkt.",
+        "hu": "Kezdje kerékpáros kalandját kissé északra a Força de l'Alou középkori várromjainál. Ezután tekerjen le a Molí de n'Iglesias felé, egy régi malomhoz, amely kiemeli a környék gazdag mezőgazdasági örökségét.\n\nDélben lovagoljon be a történelmi központba. Álljon meg a plébániatemplomnál, mielőtt elmerülne a La Casa de la Paraula gazdag kiállításaiban, amelyek lenyűgöző betekintést nyújtanak a város irodalmába.\n\nA délután a természeté, ahogy a gyönyörű Parc de Sant Salvador területén kerékpározik. Az árnyékos ösvények tökéletesek a tekeréshez, lehetővé téve, hogy élvezze a víz nyugtató hangját.\n\nFejezze be a kerékpáros napot az El Rocar sziklás nevezetességének meglátogatásával. Erről a természeti helyről lenyűgöző kilátás nyílik, nagyszerű nézőpontot biztosítva a nap visszatekintésére.",
+        "ro": "Începeți aventura cu bicicleta la nord la Força de l'Alou, explorând ruinele castelului. Apoi, pedalați spre Molí de n'Iglesias, o moară veche care evidențiază bogatul patrimoniu agricol al zonei.\n\nMergeți spre centrul istoric la prânz. Opriți-vă la biserica parohială înainte de a vă scufunda în expozițiile bogate de la La Casa de la Paraula, oferind perspective fascinante asupra literaturii.\n\nDupă-amiaza se mută în natură, pedalând prin frumosul Parc de Sant Salvador. Căile umbrite sunt perfecte pentru plimbare, permițându-vă să vă bucurați de sunetele liniștitoare ale apei și verdeața luxuriantă.\n\nTerminați-vă ziua de ciclism vizitând El Rocar, un reper stâncos proeminent. Priveliștile ridicate de pe acest sit natural sunt spectaculoase, oferind un punct de observație minunat pentru a reflecta asupra zilei.",
+        "en": "Start your cycling adventure slightly north at Força de l'Alou, exploring the medieval castle ruins. Then, bike down towards Molí de n'Iglesias, an old mill that highlights the area's rich agricultural and industrial heritage.\n\nRide into the historical center for midday. Stop briefly at the iconic Església parroquial before diving into the rich exhibits at La Casa de la Paraula, offering fascinating insights into the town's literature and art.\n\nYour afternoon shifts to nature as you cycle through the beautiful Parc de Sant Salvador. The shaded paths are perfect for riding, allowing you to enjoy the calming sounds of water and the lush green surroundings.\n\nFinish your cycling day by visiting El Rocar, a prominent rocky landmark. The elevated views from this natural site are spectacular, providing a great vantage point to reflect on your day in Santa Coloma de Farners."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 6.45,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Força de l'Alou",
+            "hu": "Força de l'Alou",
+            "ro": "Força de l'Alou",
+            "en": "Força de l'Alou"
+          },
+          "coords": [
+            2.644477,
+            41.873776
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die antiken Ruinen dieser faszinierenden Burg, um die mittelalterliche Atmosphäre zu genießen, aber bereiten Sie sich auf einen Aufstieg vor.",
+            "hu": "Látogasson el ennek a lenyűgöző kastélynak az ősi romjaihoz, hogy átélje a középkori hangulatot, de készüljön fel egy meredek mászásra a csúcs eléréséhez.",
+            "ro": "Vizitați ruinele antice ale acestui castel fascinant pentru a vă bucura de atmosfera medievală, dar pregătiți-vă pentru o urcare destul de abruptă.",
+            "en": "Visit the ancient ruins of this fascinating castle to soak in the medieval atmosphere, but be prepared for a bit of a steep climb to reach the very top."
+          }
+        },
+        {
+          "name": {
+            "de": "La Casa de la Paraula",
+            "hu": "La Casa de la Paraula",
+            "ro": "La Casa de la Paraula",
+            "en": "La Casa de la Paraula"
+          },
+          "coords": [
+            2.662808,
+            41.864942
+          ],
+          "category": "museum",
+          "arrive_at": "10:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem Kulturmuseum die lokale Geschichte und literarische Ausstellungen, also nehmen Sie sich Zeit für die informativen Schautafeln.",
+            "hu": "Fedezze fel a helyi történelmet és irodalmi kiállításokat ebben a múzeumban, ezért szánjon időt az informatív táblák elolvasására a földszinten.",
+            "ro": "Descoperiți istoria locală și expozițiile literare în acest muzeu cultural și luați-vă timp să citiți panourile informative de la parter.",
+            "en": "Discover local history and literary exhibits in this engaging cultural museum, so take your time reading the informative displays on the ground floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de Sant Salvador",
+            "hu": "Parc de Sant Salvador",
+            "ro": "Parc de Sant Salvador",
+            "en": "Parc de Sant Salvador"
+          },
+          "coords": [
+            2.659129,
+            41.858403
+          ],
+          "category": "park",
+          "arrive_at": "12:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen ruhigen Park im Schatten großer Platanen und bringen Sie ein kleines Picknick mit, um es an den Bächen zu genießen.",
+            "hu": "Sétáljon át ezen a békés, hatalmas platánfák által árnyékolt parkon, és hozzon magával egy kis pikniket, amelyet a csendes patakok mellett élvezhet.",
+            "ro": "Plimbați-vă prin acest parc liniștit umbrit de platani falnici și aduceți un mic picnic pentru a vă bucura de pârâurile blânde și apele de izvor.",
+            "en": "Stroll through this tranquil park shaded by towering plane trees, and bring a small picnic to enjoy by the gentle streams and natural spring waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu de Galetes Trias",
+            "hu": "Museu de Galetes Trias",
+            "ro": "Museu de Galetes Trias",
+            "en": "Museu de Galetes Trias"
+          },
+          "coords": [
+            2.67422,
+            41.857071
+          ],
+          "category": "museum",
+          "arrive_at": "13:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.25,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem wunderbaren Familienmuseum alles über die Geschichte der traditionellen katalanischen Keksherstellung und kaufen Sie leckere Souvenirs.",
+            "hu": "Ismerje meg a hagyományos katalán kekszkészítés édes történetét ebben a csodálatos családi múzeumban, és ne felejtsen el finom falatokat venni a boltban.",
+            "ro": "Aflați despre istoria dulce a fabricării biscuiților catalani în acest muzeu de familie minunat și nu uitați să cumpărați câteva delicii gustoase din magazin.",
+            "en": "Learn about the sweet history of traditional Catalan biscuit making at this wonderful family museum, and don't forget to buy some tasty treats in the shop."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditori",
+            "hu": "Auditori",
+            "ro": "Auditori",
+            "en": "Auditori"
+          },
+          "coords": [
+            2.666041,
+            41.859097
+          ],
+          "category": "cultural",
+          "arrive_at": "15:16",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Prüfen Sie das lokale Programm für Live-Auftritte in diesem modernen Kulturauditorium, das eine hervorragende Akustik und bequeme Sitzgelegenheiten bietet.",
+            "hu": "Ellenőrizze a helyi műsort, hogy elcsíphet-e egy élő előadást ebben a modern kulturális előadóteremben, amely kiváló akusztikával és kényelmes ülésekkel büszkélkedhet.",
+            "ro": "Verificați programul local pentru a prinde un spectacol live la acest auditorium cultural modern, care se mândrește cu o acustică excelentă și scaune confortabile.",
+            "en": "Check the local schedule to see if you can catch a live performance at this modern cultural auditorium, which boasts excellent acoustics and comfortable seating."
+          }
+        },
+        {
+          "name": {
+            "de": "Magma centre ludic termal",
+            "hu": "Magma centre ludic termal",
+            "ro": "Magma centre ludic termal",
+            "en": "Magma centre ludic termal"
+          },
+          "coords": [
+            2.676695,
+            41.847325
+          ],
+          "category": "recreational",
+          "arrive_at": "16:20",
+          "stay_min": 120,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich vollständig in den wohltuenden Thermalwassern dieses modernen Erholungsbads und buchen Sie Ihre Eintrittskarte unbedingt im Voraus.",
+            "hu": "Pihenjen meg teljesen ennek a modern rekreációs fürdőnek a nyugtató termálvizeiben, és mindenképpen jó előre foglalja le a belépőjegyét online.",
+            "ro": "Relaxați-vă complet în apele termale liniștitoare ale acestui centru spa de agrement modern și asigurați-vă că vă rezervați biletul online în avans.",
+            "en": "Unwind completely in the soothing thermal waters of this modern recreational spa, and be sure to book your entrance ticket online well in advance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zu den faszinierenden Ruinen der Força de l'Alou, um Ihren Tag mit mittelalterlicher Geschichte zu beginnen. Parken Sie dann im Zentrum, um die Kunst in der La Casa de la Paraula zu entdecken.\n\nMachen Sie mittags einen entspannten Spaziergang durch den weitläufigen Parc de Sant Salvador. Die riesigen Bäume und sanften Bäche bilden eine wunderschöne Oase direkt neben dem Stadtzentrum.\n\nFahren Sie zum Museu de Galetes Trias, um das Keks-Erbe Kataloniens zu erkunden. Nachdem Sie Süßigkeiten genossen haben, besuchen Sie das moderne Auditori, um seine schlanke Architektur zu bewundern.\n\nBeenden Sie Ihre Tour im Magma centre ludic termal. Dieser moderne Spa-Komplex nutzt das berühmte Thermalwasser der Region und bietet Ihnen das ultimative Entspannungserlebnis zum Tagesabschluss.",
+        "hu": "Vezessen a Força de l'Alou lenyűgöző romjaihoz, hogy egy kis középkori történelemmel kezdje a napot. Utána parkoljon le a központban, hogy meglátogassa a La Casa de la Paraula művészeti kiállításait.\n\nDélben tegyen egy pihentető sétát a kiterjedt Parc de Sant Salvador területén. A magasodó fák és szelíd patakok gyönyörű oázist hoznak létre a városközpont mellett, ideális egy békés meneküléshez.\n\nHajtson át a Museu de Galetes Trias-hoz, hogy felfedezze Katalónia ízletes kekszörökségét. Miután betelt az édességekkel, induljon a modern Auditorihoz, hogy megcsodálja elegáns építészetét.\n\nZárja kiterjedt túráját a Magma centre ludic termal fürdőben. Ez a modern komplexum a régió híres termálvizét használja, tökéletes relaxációs élményt kínálva a kirándulás befejezéseként.",
+        "ro": "Conduceți la ruinele fascinante de la Força de l'Alou pentru a vă începe ziua cu istorie. După aceea, parcați aproape de centrul orașului pentru a vizita La Casa de la Paraula și arta locală.\n\nPentru prânz, faceți o plimbare relaxantă prin parcul întins Sant Salvador. Copacii falnici și pârâurile blânde creează o oază frumoasă chiar lângă centrul orașului, ideală pentru liniște.\n\nConduceți la Museu de Galetes Trias pentru a explora patrimoniul de biscuiți al Cataloniei. După ce ați savurat dulciurile, mergeți la modernul Auditori pentru a-i admira arhitectura.\n\nÎncheiați-vă turul extins la Magma centre ludic termal. Acest complex spa modern folosește apele termale celebre ale regiunii, oferindu-vă experiența supremă de relaxare.",
+        "en": "Drive to the fascinating ruins of Força de l'Alou to begin your day with a touch of medieval history. Afterwards, park near the town center to visit La Casa de la Paraula, immersing yourself in local art and literary history.\n\nFor midday, take a relaxing walk through the sprawling Parc de Sant Salvador. The towering trees and gentle streams create a beautiful oasis right next to the town center, ideal for a peaceful nature escape.\n\nDrive over to the Museu de Galetes Trias to explore Catalonia's delicious biscuit heritage. Once you've had your fill of sweets, head to the modern Auditori to admire its sleek architecture and cultural significance.\n\nEnd your extensive tour at the Magma centre ludic termal. This modern spa complex uses the region's famous thermal waters, offering you the ultimate relaxation experience before wrapping up your day trip."
+      }
+    }
+  }
+}

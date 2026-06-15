@@ -1,0 +1,405 @@
+{
+  "city_id": "ma-essaouira-cities-v2",
+  "anchor": {
+    "name": "Essaouira",
+    "coords": [
+      -9.77,
+      31.5125
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:07",
+      "total_km": 2.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bab Marrakech",
+            "hu": "Bab Marrakech",
+            "ro": "Bab Marrakech",
+            "en": "Bab Marrakech"
+          },
+          "coords": [
+            -9.765924,
+            31.511924
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die massiven Steinbögen dieses historischen Medina-Tors, das einst die Stadt schützte, und kommen Sie früh, um es ohne Menschenmassen zu fotografieren.",
+            "hu": "Csodálja meg ennek a történelmi medina-kapunak a masszív kőíveit, amely egykor a várost védte, és érkezzen korán, hogy tömeg nélkül fotózhassa le.",
+            "ro": "Admirați arcadele masive din piatră ale acestei porți istorice a medinei, care odinioară apăra orașul, și ajungeți devreme pentru a o fotografia fără aglomerație.",
+            "en": "Admire the sturdy stone arches of this historic medina gate, which once guarded the city, and arrive early to photograph it without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Bab El Mechouar",
+            "hu": "Bab El Mechouar",
+            "ro": "Bab El Mechouar",
+            "en": "Bab El Mechouar"
+          },
+          "coords": [
+            -9.771767,
+            31.511105
+          ],
+          "category": "landmark",
+          "arrive_at": "09:34",
+          "stay_min": 15,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die architektonische Eleganz dieses königlichen Eingangs zur Altstadt und nehmen Sie sich einen Moment Zeit, um die feinen Fliesenarbeiten zu betrachten.",
+            "hu": "Fedezze fel ennek a királyi bejáratnak az építészeti eleganciáját, amely összeköti az óvárost a palota területével, és figyelje meg a bonyolult csempemintákat.",
+            "ro": "Descoperiți eleganța arhitecturală a acestei intrări regale care leagă orașul vechi de palat și acordați-vă un moment pentru a observa mozaicurile detaliate.",
+            "en": "Discover the architectural elegance of this royal entrance that connects the old town to the palace grounds, and take a moment to notice the intricate tile work."
+          }
+        },
+        {
+          "name": {
+            "de": "Bab Skala",
+            "hu": "Bab Skala",
+            "ro": "Bab Skala",
+            "en": "Bab Skala"
+          },
+          "coords": [
+            -9.772483,
+            31.513654
+          ],
+          "category": "historical",
+          "arrive_at": "09:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die beeindruckenden Meeresbastionen, wo noch immer historische Bronzekanonen auf den Ozean richten, und spazieren Sie für spektakuläre Ausblicke die Festungsmauern entlang.",
+            "hu": "Fedezze fel a lenyűgöző tengeri bástyákat, ahol a történelmi bronzágyúk még mindig az óceán felé néznek, és sétáljon végig a várfalakon a látványos panorámáért.",
+            "ro": "Explorați bastioanele maritime impresionante unde tunurile istorice din bronz încă privesc spre ocean și plimbați-vă pe metereze pentru vederi panoramice spectaculoase.",
+            "en": "Explore the impressive sea bastions where historic bronze cannons still point towards the ocean, and walk along the ramparts for spectacular panoramic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Gallerie Pecheur",
+            "hu": "Gallerie Pecheur",
+            "ro": "Gallerie Pecheur",
+            "en": "Gallerie Pecheur"
+          },
+          "coords": [
+            -9.766104,
+            31.516349
+          ],
+          "category": "museum",
+          "arrive_at": "11:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch faszinierende Kunstausstellungen in die lokale maritime Geschichte ein und fragen Sie den Kurator nach den verborgenen Geschichten der Fischereitradition.",
+            "hu": "Merüljön el a helyi tengerészeti történelemben a magával ragadó művészeti kiállításokon keresztül, és kérdezze meg a kurátort a halászati hagyományok rejtett történeteiről.",
+            "ro": "Scufundați-vă în istoria maritimă locală prin expoziții de artă captivante și întrebați curatorul despre poveștile ascunse din spatele tradițiilor locale de pescuit.",
+            "en": "Immerse yourself in the local maritime history through captivating art exhibitions, and ask the curator about the hidden stories behind the local fishing traditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Fischerei",
+            "hu": "Halászat",
+            "ro": "Pescărie",
+            "en": "Fishery"
+          },
+          "coords": [
+            -9.774623,
+            31.509337
+          ],
+          "category": "landmark",
+          "arrive_at": "13:22",
+          "stay_min": 45,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Beobachten Sie das geschäftige Treiben der lokalen Fischer beim Einbringen ihres Tagesfangs und verpassen Sie nicht die Gelegenheit, frische Meeresfrüchte direkt von den blauen Booten zu kaufen.",
+            "hu": "Figyelje meg a helyi halászok nyüzsgő tevékenységét, ahogy behozzák a napi fogást, és ne hagyja ki a lehetőséget, hogy friss tengeri herkentyűket vegyen a kék csónakokról.",
+            "ro": "Urmăriți activitatea plină de viață a pescarilor locali care își aduc captura zilnică și nu ratați șansa de a cumpăra fructe de mare proaspete direct din bărcile albastre.",
+            "en": "Watch the bustling activity of the local fishermen bringing in their daily catch, and don't miss the chance to buy fresh seafood directly from the colorful blue boats."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am historischen Bab Marrakech, das Sie ins Herz der Medina führt. Mittags erkunden Sie das imposante Bab Skala mit seinem Meerblick. Am Nachmittag erwarten Sie künstlerische Einblicke in der Gallerie Pecheur. Gegen Abend bietet die lebhafte Fischerei einen perfekten, authentischen Abschied.",
+        "hu": "A reggel a történelmi Bab Marrakech kapunál kezdődik, amely a medina szívébe vezet. A delet az impozáns Bab Skala és az óceáni kilátás felfedezésével tölti. Délután művészeti élmények várják a Gallerie Pecheur-ben. Ahogy közeledik az este, a nyüzsgő kikötő tökéletes, autentikus tengerparti búcsút kínál.",
+        "ro": "Dimineața începe la istorica Bab Marrakech, conducându-vă în inima medinei. La amiază explorați impunătoarea Bab Skala cu vederile sale spre ocean. După-amiaza, descoperiri artistice vă așteaptă la Gallerie Pecheur. Spre seară, portul pescăresc plin de viață oferă un rămas bun de coastă autentic și perfect.",
+        "en": "Morning begins at the historic Bab Marrakech, leading you into the heart of the medina. Midday is spent exploring the imposing Bab Skala and its ocean views. In the afternoon, artistic insights await at Gallerie Pecheur. As evening approaches, the vibrant Fishery offers a perfect, authentic coastal farewell."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:45",
+      "total_km": 3.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Carage Museum",
+            "hu": "Carage Múzeum",
+            "ro": "Muzeul Carage",
+            "en": "Carage Museum"
+          },
+          "coords": [
+            -9.762851,
+            31.513503
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine faszinierende Sammlung von Oldtimern und lokalen Kuriositäten und suchen Sie in der Eingangshalle nach einzigartigen handgefertigten Souvenirs.",
+            "hu": "Fedezze fel a veterán járművek és helyi érdekességek lenyűgöző gyűjteményét, és távozás előtt nézze meg a bejárati csarnokban kapható egyedi, kézzel készített ajándéktárgyakat.",
+            "ro": "Descoperiți o colecție fascinantă de vehicule de epocă și curiozități locale și verificați holul de la intrare pentru suveniruri unice lucrate manual înainte de a pleca.",
+            "en": "Discover a fascinating collection of vintage vehicles and local curiosities, and check the entrance hall for unique handmade souvenirs before you leave."
+          }
+        },
+        {
+          "name": {
+            "de": "Bab Marrakech",
+            "hu": "Bab Marrakech",
+            "ro": "Bab Marrakech",
+            "en": "Bab Marrakech"
+          },
+          "coords": [
+            -9.765924,
+            31.511924
+          ],
+          "category": "landmark",
+          "arrive_at": "10:52",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Radeln Sie an den hohen Mauern dieses alten Stadteingangs vorbei und nutzen Sie die nahegelegenen Ständer, um Ihr Fahrrad sicher abzustellen.",
+            "hu": "Karikázzon el ezen ősi városbejárat magasló falai mellett, és használja a közeli tárolókat kerékpárja biztonságos rögzítéséhez a szomszédos tér felfedezése közben.",
+            "ro": "Ciclati pe lângă zidurile înalte ale acestei intrări antice în oraș și folosiți suporturile din apropiere pentru a parca bicicleta în siguranță în timpul explorării.",
+            "en": "Cycle past the towering walls of this ancient entrance to the city, and use the nearby racks to safely park your bike while exploring the adjacent square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kitesensation Essaouira",
+            "hu": "Kitesensation Essaouira",
+            "ro": "Kitesensation Essaouira",
+            "en": "Kitesensation Essaouira"
+          },
+          "coords": [
+            -9.762855,
+            31.505606
+          ],
+          "category": "landmark",
+          "arrive_at": "11:11",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spüren Sie die energiegeladene Atmosphäre dieses erstklassigen Kitesurf-Spots an der windigen Küste und buchen Sie eine kurze Probestunde, um selbst die Wellen zu reiten.",
+            "hu": "Érezze a szeles partvonal ezen elsőrangú kiteszörfös helyszínének energikus hangulatát, és fontolja meg egy gyors bevezető óra foglalását, hogy maga is meglovagolja a hullámokat.",
+            "ro": "Simțiți vibrația plină de energie a acestui loc de top pentru kitesurfing de pe coasta vântoasă și luați în considerare rezervarea unei lecții scurte de introducere.",
+            "en": "Feel the energetic vibe of this premier kite-surfing spot on the windy coast, and consider booking a quick introductory lesson to catch the waves yourself."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Essaouira",
+            "hu": "Essaouira tengerpartja",
+            "ro": "Plaja din Essaouira",
+            "en": "Plage d'Essaouira"
+          },
+          "coords": [
+            -9.767577,
+            31.499204
+          ],
+          "category": "recreational",
+          "arrive_at": "11:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den weiten Sandstränden des Atlantiks und unternehmen Sie einen gemütlichen Kamelritt für ein typisch marokkanisches Stranderlebnis.",
+            "hu": "Pihenjen a végtelenül elnyúló, homokos atlanti-óceáni partokon, és próbálja ki a kényelmes tevelovaglást egy jellegzetes marokkói tengerparti élményért.",
+            "ro": "Relaxați-vă pe țărmurile vaste de nisip care se întind de-a lungul Atlanticului și faceți o plimbare relaxantă cu cămila pentru o experiență de plajă tipic marocană.",
+            "en": "Relax on the vast sandy shores that stretch endlessly along the Atlantic, and take a leisurely camel ride for a quintessential Moroccan beach experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Bab Skala",
+            "hu": "Bab Skala",
+            "ro": "Bab Skala",
+            "en": "Bab Skala"
+          },
+          "coords": [
+            -9.772483,
+            31.513654
+          ],
+          "category": "historical",
+          "arrive_at": "12:55",
+          "stay_min": 110,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihr Fahrrad am Fuße der Festungsmauern stehen, um die Bastion zu erkunden, und genießen Sie die kühlende Meeresbrise an diesem historischen Ort.",
+            "hu": "Hagyja kerékpárját a várfalak tövében, hogy felfedezze az erődítményt, és élvezze a hűsítő óceáni szellőt, amely annyira egyedivé teszi ezt a történelmi helyet.",
+            "ro": "Lăsați bicicleta la baza meterezelor pentru a explora zidurile fortificate și bucurați-vă de briza răcoroasă a oceanului care face acest loc istoric atât de unic.",
+            "en": "Leave your bike at the base of the ramparts to explore the fortified walls, and enjoy the cooling ocean breeze that makes this historical spot so unique."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radtag beginnt mit faszinierenden Ausstellungen im Carage Museum, bevor Sie durch das Bab Marrakech in die Altstadt rollen. Mittags erreichen Sie die windige Küste bei Kitesensation und Plage d'Essaouira. Am späten Nachmittag bieten die prächtigen Kanonen des Bab Skala ein dramatisches und historisches Finale Ihrer Tour.",
+        "hu": "Kerékpáros napja a Carage Múzeum lenyűgöző kiállításaival kezdődik, mielőtt a Bab Marrakech kapun át begurulna az óvárosba. A délidő a szeles partvidékre viszi a Kitesensation és a Plage d'Essaouira aktív pihenéséhez. Késő délután a Bab Skala pompás ágyúi drámai és történelmi finálét nyújtanak.",
+        "ro": "Ziua de ciclism începe cu expoziții intrigante la Muzeul Carage înainte de a intra în orașul vechi prin Bab Marrakech. Amiaza vă aduce pe coasta răcoroasă la Kitesensation și Plage d'Essaouira. Spre sfârșitul după-amiezii, tunurile magnifice de la Bab Skala oferă un final dramatic și istoric.",
+        "en": "Your cycling day starts with intriguing exhibits at the Carage Museum before rolling into the old town via Bab Marrakech. Midday brings you to the breezy coast at Kitesensation and Plage d'Essaouira for active relaxation. In the late afternoon, the magnificent cannons of Bab Skala provide a dramatic and historic finale to your ride."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:40",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kleines portugiesisches Fort",
+            "hu": "Kis portugál erőd",
+            "ro": "Micul Fort Portughez",
+            "en": "Little Portuguese Fort"
+          },
+          "coords": [
+            -9.775658,
+            31.489019
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die stimmungsvollen Ruinen dieser Küstenfestung, die von Kolonialgeschichte erzählt, und tragen Sie feste Schuhe für die unebenen Steinwege.",
+            "hu": "Fedezze fel ennek a tengerparti erődnek a hangulatos romjait, amely a gyarmati történelemről mesél, és viseljen stabil cipőt az egyenetlen kőutakon való biztonságos közlekedéshez.",
+            "ro": "Explorați ruinele pline de atmosferă ale acestei fortificații de coastă care spune povești despre istoria colonială și purtați încălțăminte solidă pentru potecile de piatră.",
+            "en": "Explore the atmospheric ruins of this seaside fortification that tells tales of colonial history, and bring solid shoes to navigate the uneven stone paths safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Borj El baroud",
+            "hu": "Borj El baroud",
+            "ro": "Borj El baroud",
+            "en": "Borj El baroud"
+          },
+          "coords": [
+            -9.777636,
+            31.487932
+          ],
+          "category": "landmark",
+          "arrive_at": "10:31",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Fotografieren Sie diesen ikonischen, verfallenen Wachturm im Meer und planen Sie Ihren Besuch bei Ebbe, um die besten Aussichtspunkte vom Sand aus zu erhalten.",
+            "hu": "Fotózza le ezt az ikonikus, tenger által lassan visszahódított romos őrtornyot, és időzítse látogatását apályra, hogy a legjobb nézőpontokat kapja a környező homokból.",
+            "ro": "Fotografiați acest turn de veghe iconic ruinat care este revendicat încet de mare și programați-vă vizita la reflux pentru cele mai bune puncte de observație.",
+            "en": "Photograph this iconic ruined watchtower slowly being reclaimed by the sea, and time your visit for low tide to get the best vantage points from the surrounding sands."
+          }
+        },
+        {
+          "name": {
+            "de": "Gefängnis von Mogador",
+            "hu": "Mogador börtön",
+            "ro": "Închisoarea Mogador",
+            "en": "Prison de Mogador"
+          },
+          "coords": [
+            -9.786647,
+            31.495735
+          ],
+          "category": "historical",
+          "arrive_at": "10:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Betrachten Sie die Überreste dieses historischen Inselgefängnisses und Quarantänezentrums und nutzen Sie ein Teleobjektiv, um die dort nistenden Falken einzufangen.",
+            "hu": "Tekintse meg ennek a karanténközpontként is szolgált történelmi szigetbörtönnek a maradványait, és használjon teleobjektívet az itt fészkelő sólymok megörökítéséhez.",
+            "ro": "Priviți rămășițele acestei închisori istorice pe insulă care a servit drept centru de carantină și folosiți un teleobiectiv pentru a capta șoimii care cuibăresc acum acolo.",
+            "en": "View the remains of this historic island prison that served as a quarantine center, and use a zoom lens to capture the nesting falcons that now call it home."
+          }
+        },
+        {
+          "name": {
+            "de": "Fischerei",
+            "hu": "Halászat",
+            "ro": "Pescărie",
+            "en": "Fishery"
+          },
+          "coords": [
+            -9.774623,
+            31.509337
+          ],
+          "category": "landmark",
+          "arrive_at": "12:13",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe, um durch den lebhaften Fischmarkt mit seinen traditionellen Holzbooten zu schlendern, und probieren Sie den frischen Fang direkt an einem Grillstand.",
+            "hu": "Parkoljon le a közelben, hogy végigsétáljon a nyüzsgő halpiacon, ahol fahajókat is építenek, és foglaljon helyet egy grillstandnál a friss fogás azonnali megkóstolásához.",
+            "ro": "Parcați în apropiere pentru a vă plimba prin piața de pește vibrantă unde sunt construite bărci de lemn și asigurați-vă un loc la un grătar pentru a gusta captura proaspătă.",
+            "en": "Park nearby to wander through the vibrant fish market where wooden boats are built, and secure a spot at a local grill stand to taste the fresh catch immediately."
+          }
+        },
+        {
+          "name": {
+            "de": "Gallerie Pecheur",
+            "hu": "Gallerie Pecheur",
+            "ro": "Gallerie Pecheur",
+            "en": "Gallerie Pecheur"
+          },
+          "coords": [
+            -9.766104,
+            31.516349
+          ],
+          "category": "museum",
+          "arrive_at": "12:30",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Küstenfahrt mit einem inspirierenden Besuch in dieser Galerie für maritime Kunst und genießen Sie die klimatisierten Räume in der Mittagshitze.",
+            "hu": "Zárja tengerparti autózását egy inspiráló látogatással ebben a tengeri művészetnek szentelt galériában, és élvezze a légkondicionált belső teret a nap legmelegebb részében.",
+            "ro": "Încheiați-vă plimbarea pe coastă cu o vizită la această galerie dedicată artei marine și bucurați-vă de interiorul cu aer condiționat în cea mai caldă parte a zilei.",
+            "en": "Conclude your coastal drive with an inspiring visit to this gallery dedicated to marine art, and enjoy the air-conditioned interior during the warmest part of the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die morgendliche Fahrt führt nach Süden zu den Küstenruinen des kleinen portugiesischen Forts und zum Borj El baroud. Mittags genießen Sie einen markanten Blick auf die historische Prison de Mogador. Am Nachmittag kehren Sie zum Hafen zurück, um die authentische Fischerei zu erleben. Der Abend klingt mit maritimer Kunst in der Gallerie Pecheur perfekt aus.",
+        "hu": "A reggeli autózás délre indul, hogy felfedezze a Kis Portugál Erőd és a Borj El baroud tengerparti romjait. A délidő távoli, de lenyűgöző kilátást nyújt a történelmi Mogador börtönre. Délután visszatér a kikötő felé, hogy megtapasztalja az autentikus halpiacot. Az estét a Gallerie Pecheur tengerészeti művészete teszi tökéletessé.",
+        "ro": "Plimbarea de dimineață se îndreaptă spre sud pentru a descoperi ruinele Micului Fort Portughez și Borj El baroud. Amiaza vă aduce o vedere îndepărtată a istoricei Închisori din Mogador. După-amiaza, vă întoarceți spre port pentru a experimenta autenticul port pescăresc. Seara se încheie perfect cu artă maritimă la Gallerie Pecheur.",
+        "en": "The morning drive heads south to uncover the coastal ruins of the Little Portuguese Fort and Borj El baroud. Midday brings you a distant but striking view of the historic Prison de Mogador. In the afternoon, you return towards the port to experience the authentic Fishery. The evening rounds off perfectly with maritime art at Gallerie Pecheur."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "aubagne",
+  "anchor": {
+    "name": "Aubagne",
+    "coords": [
+      5.5708,
+      43.2908
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:57",
+      "total_km": 0.72,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "L'argilla",
+            "hu": "L'argilla",
+            "ro": "L'argilla",
+            "en": "L'argilla"
+          },
+          "coords": [
+            5.570098,
+            43.291151
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem Keramikzentrum die faszinierende Töpferkunst von Aubagne und kaufen Sie am besten ein handgemachtes Souvenir direkt von den lokalen Handwerkern.",
+            "hu": "Fedezze fel Aubagne lenyűgöző fazekashagyományait ebben a kerámiaközpontban, és mindenképpen vásároljon egy egyedi, kézzel készített emléket a helyi mesterektől.",
+            "ro": "Explorați tradiția ceramicii din Aubagne în acest centru de artizanat și asigurați-vă că achiziționați un suvenir autentic creat manual de artiștii locali pricepuți.",
+            "en": "Discover Aubagne's fascinating pottery tradition at this vibrant ceramics center, and be sure to purchase a unique handmade souvenir directly from the local artisans."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Sauveur",
+            "hu": "Église Saint-Sauveur",
+            "ro": "Église Saint-Sauveur",
+            "en": "Église Saint-Sauveur"
+          },
+          "coords": [
+            5.570522,
+            43.293213
+          ],
+          "category": "religious",
+          "arrive_at": "10:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur dieser historischen Kirche und nehmen Sie sich einen Moment Zeit für die ruhige Atmosphäre im schönen Innenraum.",
+            "hu": "Csodálja meg e történelmi templom lenyűgöző építészetét, és szánjon egy csendes pillanatot a gyönyörű belső tér békés atmoszférájának élvezetére a látogatás során.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici istorice și rezervați-vă un moment de liniște pentru a savura atmosfera pașnică din interiorul său frumos.",
+            "en": "Admire the impressive architecture of this historic church and take a quiet moment to appreciate the peaceful atmosphere within its beautifully preserved interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Petit Monde de Marcel Pagnol",
+            "hu": "Le Petit Monde de Marcel Pagnol",
+            "ro": "Le Petit Monde de Marcel Pagnol",
+            "en": "Le Petit Monde de Marcel Pagnol"
+          },
+          "coords": [
+            5.571151,
+            43.293062
+          ],
+          "category": "cultural",
+          "arrive_at": "11:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die detailreiche Miniaturwelt von Marcel Pagnol ein und achten Sie besonders auf die feinen Santons, die das provenzalische Landleben perfekt darstellen.",
+            "hu": "Merüljön el Marcel Pagnol aprólékos miniatűr világában, és figyelje meg a hagyományos provence-i vidéki életet tökéletesen ábrázoló, finoman kidolgozott figurákat.",
+            "ro": "Pătrundeți în lumea în miniatură a lui Marcel Pagnol și acordați atenție deosebită figurinelor santon care ilustrează perfect viața tradițională din mediul rural provensal.",
+            "en": "Immerse yourself in the miniature world of Marcel Pagnol, paying close attention to the exquisite santon figures that perfectly depict traditional Provençal rural life."
+          }
+        },
+        {
+          "name": {
+            "de": "Atelier Thérèse Neveu",
+            "hu": "Atelier Thérèse Neveu",
+            "ro": "Atelier Thérèse Neveu",
+            "en": "Atelier Thérèse Neveu"
+          },
+          "coords": [
+            5.571107,
+            43.292846
+          ],
+          "category": "museum",
+          "arrive_at": "12:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.02,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über das Leben der berühmten Santon-Macherin in ihrer ehemaligen Werkstatt und besuchen Sie den Hof für fantastische Fotomotive der bunten Tonfiguren.",
+            "hu": "Ismerje meg a híres santon-készítő életét egykori műhelyében, és ne hagyja ki a belső udvart, ahol fantasztikus fotókat készíthet a színes agyagfigurákról.",
+            "ro": "Aflați despre viața celebrei creatoare de figurine santon în fostul ei atelier și vizitați curtea interioară pentru fotografii fantastice cu creațiile colorate.",
+            "en": "Learn about the life of the famous santon maker in her former workshop, and be sure to visit the courtyard for fantastic photo opportunities of the colorful clay figures."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle des Pénitents Noirs",
+            "hu": "Chapelle des Pénitents Noirs",
+            "ro": "Chapelle des Pénitents Noirs",
+            "en": "Chapelle des Pénitents Noirs"
+          },
+          "coords": [
+            5.572468,
+            43.292783
+          ],
+          "category": "cultural",
+          "arrive_at": "14:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese außergewöhnliche Kapelle mit ihrer beeindruckenden Deckenmalerei und kommen Sie am frühen Nachmittag, um das beste Licht für die Kunstwerke zu nutzen.",
+            "hu": "Látogassa meg ezt a kivételes kápolnát a lenyűgöző mennyezetfestményével, és érkezzen kora délután, hogy a legjobb fényviszonyok mellett csodálhassa meg a műalkotásokat.",
+            "ro": "Vizitați această capelă excepțională cu pictura sa impresionantă pe tavan și veniți la începutul după-amiezii pentru a beneficia de cea mai bună lumină asupra operelor.",
+            "en": "Visit this exceptional chapel featuring a stunning painted ceiling, and try to arrive in the early afternoon to enjoy the best natural lighting on the beautiful artwork."
+          }
+        },
+        {
+          "name": {
+            "de": "Square de la Paix",
+            "hu": "Square de la Paix",
+            "ro": "Square de la Paix",
+            "en": "Square de la Paix"
+          },
+          "coords": [
+            5.571835,
+            43.29049
+          ],
+          "category": "family",
+          "arrive_at": "16:02",
+          "stay_min": 55,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich nach Ihrem Spaziergang auf diesem friedlichen Platz im Herzen der Stadt und genießen Sie ein erfrischendes Getränk in einem der nahegelegenen Cafés.",
+            "hu": "Pihenjen meg a város szívében található békés téren a sétája után, és élvezze a frissítő italokat az egyik közeli hangulatos kávézó teraszán üldögélve.",
+            "ro": "Relaxați-vă după plimbare în această piață pașnică din inima orașului și bucurați-vă de o băutură răcoritoare la una dintre cafenelele primitoare din apropiere.",
+            "en": "Relax after your walk in this peaceful square in the heart of the city, and take the opportunity to enjoy a refreshing drink at one of the welcoming nearby cafes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt im historischen Zentrum, wo Sie das reiche Töpfererbe entdecken. Mittags besuchen Sie ruhige religiöse Stätten und die bezaubernde Miniaturwelt von Marcel Pagnol. Am Nachmittag erkunden Sie farbenfrohe Werkstätten und atemberaubend bemalte Kapellen. Der Abend senkt sich sanft herab, während Sie auf einem friedlichen Platz entspannen.",
+        "hu": "A reggel a történelmi központban indul a gazdag helyi fazekas örökség felfedezésével. Délben csendes vallási helyszíneket és Marcel Pagnol bájos miniatűr világát látogatja meg. Délután színes műhelyeket és lenyűgöző festett kápolnákat fedez fel. Az este lágyan ereszkedik le, miközben egy békés téren pihenve élvezi a provence-i élet lassú tempóját.",
+        "ro": "Dimineața începe în centrul istoric, descoperind bogata moștenire a ceramicii. La prânz veți vizita locuri religioase liniștite și lumile în miniatură ale lui Marcel Pagnol. După-amiaza veți explora ateliere colorate și capele pictate uimitoare. Seara coboară ușor în timp ce vă relaxați într-o piață pașnică, bucurându-vă de ritmul lent al vieții provensale.",
+        "en": "Your morning starts in the historic center, discovering the rich local pottery heritage. Midday brings you to quiet religious sites and the delightful miniature worlds of Marcel Pagnol. In the afternoon, you will explore colorful workshops and stunning painted chapels. Evening falls gently as you relax in a peaceful square, enjoying the slow pace of Provençal life."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:32",
+      "total_km": 2.95,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Maison Natale de Marcel Pagnol",
+            "hu": "Maison Natale de Marcel Pagnol",
+            "ro": "Maison Natale de Marcel Pagnol",
+            "en": "Maison Natale de Marcel Pagnol"
+          },
+          "coords": [
+            5.566362,
+            43.29279
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Geburtshaus des berühmten Schriftstellers, um seine Ursprünge zu verstehen, und lesen Sie vorab ein paar Seiten seiner Werke für ein tieferes Erlebnis.",
+            "hu": "Látogasson el a híres író szülőházába, hogy megértse gyökereit, és a teljesebb élmény érdekében olvasson el néhány oldalt a műveiből a látogatás előtt.",
+            "ro": "Vizitați casa natală a celebrului scriitor pentru a-i înțelege originile și citiți câteva pagini din operele sale în prealabil pentru o experiență mult mai profundă.",
+            "en": "Visit the birthplace of the famous writer to understand his origins, and read a few pages of his classic works beforehand for a much deeper, enriching experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Le village des santons en Provence",
+            "hu": "Le village des santons en Provence",
+            "ro": "Le village des santons en Provence",
+            "en": "Le village des santons en Provence"
+          },
+          "coords": [
+            5.565127,
+            43.294691
+          ],
+          "category": "museum",
+          "arrive_at": "10:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die riesige Krippenlandschaft mit tausenden handgemachten Figuren und suchen Sie nach den versteckten humorvollen Details, die die Künstler eingebaut haben.",
+            "hu": "Csodálja meg a hatalmas betlehemi tájat a több ezer kézzel készített figurával, és keresse meg a művészek által elrejtett humoros, apró részleteket a jelenetekben.",
+            "ro": "Admirați uriașul peisaj de crăciun cu mii de figurine lucrate manual și căutați detaliile umoristice ascunse pe care artiștii le-au integrat cu grijă în scene.",
+            "en": "Marvel at the massive nativity landscape featuring thousands of handmade figures, and look closely to find the hidden humorous details cleverly included by the artists."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Sauveur",
+            "hu": "Église Saint-Sauveur",
+            "ro": "Église Saint-Sauveur",
+            "en": "Église Saint-Sauveur"
+          },
+          "coords": [
+            5.570522,
+            43.293213
+          ],
+          "category": "religious",
+          "arrive_at": "12:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur dieser historischen Kirche und nehmen Sie sich einen Moment Zeit für die ruhige Atmosphäre im schönen Innenraum.",
+            "hu": "Csodálja meg e történelmi templom lenyűgöző építészetét, és szánjon egy csendes pillanatot a gyönyörű belső tér békés atmoszférájának élvezetére a látogatás során.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici istorice și rezervați-vă un moment de liniște pentru a savura atmosfera pașnică din interiorul său frumos.",
+            "en": "Admire the impressive architecture of this historic church and take a quiet moment to appreciate the peaceful atmosphere within its beautifully preserved interior."
+          }
+        },
+        {
+          "name": {
+            "de": "L'argilla",
+            "hu": "L'argilla",
+            "ro": "L'argilla",
+            "en": "L'argilla"
+          },
+          "coords": [
+            5.570098,
+            43.291151
+          ],
+          "category": "museum",
+          "arrive_at": "12:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem Keramikzentrum die faszinierende Töpferkunst von Aubagne und kaufen Sie am besten ein handgemachtes Souvenir direkt von den lokalen Handwerkern.",
+            "hu": "Fedezze fel Aubagne lenyűgöző fazekashagyományait ebben a kerámiaközpontban, és mindenképpen vásároljon egy egyedi, kézzel készített emléket a helyi mesterektől.",
+            "ro": "Explorați tradiția ceramicii din Aubagne în acest centru de artizanat și asigurați-vă că achiziționați un suvenir autentic creat manual de artiștii locali pricepuți.",
+            "en": "Discover Aubagne's fascinating pottery tradition at this vibrant ceramics center, and be sure to purchase a unique handmade souvenir directly from the local artisans."
+          }
+        },
+        {
+          "name": {
+            "de": "La Distillerie",
+            "hu": "La Distillerie",
+            "ro": "La Distillerie",
+            "en": "La Distillerie"
+          },
+          "coords": [
+            5.573985,
+            43.289923
+          ],
+          "category": "cultural",
+          "arrive_at": "14:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen umgebauten Kulturraum, der moderne Kunst mit industriellem Charme verbindet, und prüfen Sie vorab den Veranstaltungsplan für spannende Ausstellungen.",
+            "hu": "Fedezze fel ezt az átalakított kulturális teret, amely ötvözi a modern művészetet az ipari bájjal, és előzetesen ellenőrizze az eseménynaptárt az izgalmas kiállításokért.",
+            "ro": "Descoperiți acest spațiu cultural transformat care combină arta modernă cu farmecul industrial și verificați programul evenimentelor pentru expoziții temporare captivante.",
+            "en": "Discover this transformed cultural space blending modern art with industrial charm, and check the event schedule in advance for any captivating temporary exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Aire de Jeux de la résidence Ganteaume",
+            "hu": "Aire de Jeux de la résidence Ganteaume",
+            "ro": "Aire de Jeux de la résidence Ganteaume",
+            "en": "Aire de Jeux de la résidence Ganteaume"
+          },
+          "coords": [
+            5.573896,
+            43.287023
+          ],
+          "category": "family",
+          "arrive_at": "15:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder auf diesem gepflegten Spielplatz im Schatten spielen, während Sie sich auf einer der Bänke mit einem guten Buch ausruhen und die frische Luft genießen.",
+            "hu": "Hagyja a gyerekeket játszani ezen a jól karbantartott, árnyékos játszótéren, miközben ön egy padon pihen egy jó könyvvel, és élvezi a kellemes, friss levegőt.",
+            "ro": "Lăsați copiii să se joace în acest loc de joacă umbrit și bine întreținut, în timp ce vă odihniți pe o bancă cu o carte bună și vă bucurați de aerul curat al amiezii.",
+            "en": "Let the children play safely in this well-maintained, shaded playground while you rest on a bench with a good book and enjoy the fresh, pleasant outdoor air."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de la Légion Étrangère",
+            "hu": "Musée de la Légion Étrangère",
+            "ro": "Musée de la Légion Étrangère",
+            "en": "Musée de la Légion Étrangère"
+          },
+          "coords": [
+            5.557222,
+            43.290556
+          ],
+          "category": "museum",
+          "arrive_at": "17:22",
+          "stay_min": 130,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Erforschen Sie die faszinierende Geschichte der Fremdenlegion in diesem erstklassigen Museum und bringen Sie einen Ausweis mit, da beim Einlass strenge Sicherheitskontrollen gelten.",
+            "hu": "Fedezze fel az Idegenlégió lenyűgöző történetét ebben a kiváló múzeumban, és mindenképpen hozzon magával személyazonosító okmányt a szigorú biztonsági ellenőrzések miatt.",
+            "ro": "Explorați istoria fascinantă a Legiunii Străine în acest muzeu de primă clasă și asigurați-vă că aveți un act de identitate, deoarece există controale stricte la intrare.",
+            "en": "Explore the fascinating history of the French Foreign Legion at this top-tier museum, and make sure to bring a valid ID as strict security checks are required for entry."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt am Geburtsort einer literarischen Legende und radeln Sie dann zu riesigen Krippen-Dioramen. Mittags fahren Sie durch den historischen Kern zu zeitlosen Kirchen. Der Nachmittag führt Sie zu einem Kunstzentrum und einem schattigen Park. Schließlich gleiten Sie zum prestigeträchtigen Museum der Fremdenlegion, um den Tag eindrucksvoll zu beenden.",
+        "hu": "Kezdje a kerékpározást egy irodalmi legenda szülőhelyén, majd tekerjen a hatalmas betlehemi diorámákhoz. Délben a történelmi központban pedálozva időtlen templomokat és kerámiákat láthat. A délután egy ipari művészeti térhez és egy árnyékos parkhoz vezet. Végül guruljon el a tekintélyes Idegenlégió múzeumához, hogy méltóképpen zárja a napot.",
+        "ro": "Începeți plimbarea la locul de naștere al unei legende literare, apoi pedalați pentru a admira uriașele diorame. La prânz, treceți prin centrul istoric pentru a vedea biserici și ceramici atemporale. După-amiaza vă conduce spre un spațiu de artă industrială și un parc umbrit. La final, îndreptați-vă spre prestigiosul muzeu al Legiunii Străine pentru a încheia ziua.",
+        "en": "Kick off your ride at the birthplace of a literary legend, then cycle to marvel at massive nativity dioramas. By midday, pedal through the vibrant historic core to see timeless churches and ceramics. The afternoon leads you slightly off the beaten path to an industrial arts space and a shaded park. Finally, glide toward the prestigious Foreign Legion museum to end the day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:06",
+      "total_km": 7.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Musée de la Légion Étrangère",
+            "hu": "Musée de la Légion Étrangère",
+            "ro": "Musée de la Légion Étrangère",
+            "en": "Musée de la Légion Étrangère"
+          },
+          "coords": [
+            5.557222,
+            43.290556
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erforschen Sie die faszinierende Geschichte der Fremdenlegion in diesem erstklassigen Museum und bringen Sie einen Ausweis mit, da beim Einlass strenge Sicherheitskontrollen gelten.",
+            "hu": "Fedezze fel az Idegenlégió lenyűgöző történetét ebben a kiváló múzeumban, és mindenképpen hozzon magával személyazonosító okmányt a szigorú biztonsági ellenőrzések miatt.",
+            "ro": "Explorați istoria fascinantă a Legiunii Străine în acest muzeu de primă clasă și asigurați-vă că aveți un act de identitate, deoarece există controale stricte la intrare.",
+            "en": "Explore the fascinating history of the French Foreign Legion at this top-tier museum, and make sure to bring a valid ID as strict security checks are required for entry."
+          }
+        },
+        {
+          "name": {
+            "de": "Le village des santons en Provence",
+            "hu": "Le village des santons en Provence",
+            "ro": "Le village des santons en Provence",
+            "en": "Le village des santons en Provence"
+          },
+          "coords": [
+            5.565127,
+            43.294691
+          ],
+          "category": "museum",
+          "arrive_at": "10:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die riesige Krippenlandschaft mit tausenden handgemachten Figuren und suchen Sie nach den versteckten humorvollen Details, die die Künstler eingebaut haben.",
+            "hu": "Csodálja meg a hatalmas betlehemi tájat a több ezer kézzel készített figurával, és keresse meg a művészek által elrejtett humoros, apró részleteket a jelenetekben.",
+            "ro": "Admirați uriașul peisaj de crăciun cu mii de figurine lucrate manual și căutați detaliile umoristice ascunse pe care artiștii le-au integrat cu grijă în scene.",
+            "en": "Marvel at the massive nativity landscape featuring thousands of handmade figures, and look closely to find the hidden humorous details cleverly included by the artists."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Petit Monde de Marcel Pagnol",
+            "hu": "Le Petit Monde de Marcel Pagnol",
+            "ro": "Le Petit Monde de Marcel Pagnol",
+            "en": "Le Petit Monde de Marcel Pagnol"
+          },
+          "coords": [
+            5.571151,
+            43.293062
+          ],
+          "category": "cultural",
+          "arrive_at": "12:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die detailreiche Miniaturwelt von Marcel Pagnol ein und achten Sie besonders auf die feinen Santons, die das provenzalische Landleben perfekt darstellen.",
+            "hu": "Merüljön el Marcel Pagnol aprólékos miniatűr világában, és figyelje meg a hagyományos provence-i vidéki életet tökéletesen ábrázoló, finoman kidolgozott figurákat.",
+            "ro": "Pătrundeți în lumea în miniatură a lui Marcel Pagnol și acordați atenție deosebită figurinelor santon care ilustrează perfect viața tradițională din mediul rural provensal.",
+            "en": "Immerse yourself in the miniature world of Marcel Pagnol, paying close attention to the exquisite santon figures that perfectly depict traditional Provençal rural life."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Garlaban",
+            "hu": "Le Garlaban",
+            "ro": "Le Garlaban",
+            "en": "Le Garlaban"
+          },
+          "coords": [
+            5.577646,
+            43.312864
+          ],
+          "category": "natural",
+          "arrive_at": "13:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die spektakuläre Aussicht von diesem markanten Felsmassiv und tragen Sie unbedingt festes Schuhwerk, da die Wanderwege teilweise recht steinig und steil sind.",
+            "hu": "Élvezze a látványos kilátást erről a lenyűgöző sziklamasszívumról, és mindenképpen viseljen túracipőt, mivel a gyalogösvények helyenként nagyon kövesek és meredekek.",
+            "ro": "Bucurați-vă de priveliștile spectaculoase de pe acest masiv stâncos impresionant și purtați neapărat încălțăminte solidă, deoarece traseele pot fi stâncoase și abrupte.",
+            "en": "Enjoy the spectacular views from this striking rocky massif, and be absolutely sure to wear sturdy hiking shoes as the rugged trails can be quite rocky and steep."
+          }
+        },
+        {
+          "name": {
+            "de": "Plateau des Espillières",
+            "hu": "Plateau des Espillières",
+            "ro": "Plateau des Espillières",
+            "en": "Plateau des Espillières"
+          },
+          "coords": [
+            5.572637,
+            43.283266
+          ],
+          "category": "family",
+          "arrive_at": "15:21",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihren Tag auf dieser Hochebene mit einem entspannten Picknick ab und beobachten Sie den wunderschönen Sonnenuntergang über den sanften Hügeln der Provence.",
+            "hu": "Zárja a napot ezen a fennsíkon egy pihentető piknikkel, és figyelje meg a csodálatos naplementét, ahogy az arany fények megvilágítják a finom provence-i dombokat.",
+            "ro": "Încheiați-vă ziua pe acest platou cu un picnic relaxant și priviți apusul superb de soare care luminează cu nuanțe aurii dealurile blânde și pitorești din Provence.",
+            "en": "Conclude your exciting day on this plateau with a relaxing picnic, and watch the beautiful sunset as golden light warmly illuminates the gentle hills of Provence."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour mit der faszinierenden Geschichte der Fremdenlegion. Der späte Vormittag führt Sie ins Herz von Aubagne, um traditionelle Tonfiguren zu bewundern. Am Nachmittag wechseln Sie von der malerischen Miniaturwelt zu den weiten Naturpfaden des Garlaban. Der Abend lässt sich perfekt auf einer offenen Hochebene mit friedlichem Panoramablick verbringen.",
+        "hu": "Kezdje autós túráját az Idegenlégió lenyűgöző történetével. A késő délelőtt Aubagne szívébe vezeti önt a hagyományos agyagfigurák megcsodálására. Délután a furcsa miniatűr világból a Garlaban masszívum nagy kiterjedésű ösvényeire vált. Az estét tökéletesen töltheti egy nyitott fennsíkon, élvezve a békés és lenyűgöző panorámát a táj felett.",
+        "ro": "Începeți turul auto cu istoria fascinantă a Legiunii Străine. Dimineața târziu vă poartă în inima orașului Aubagne pentru a admira figurine tradiționale de lut. După-amiaza faceți tranziția de la lumea în miniatură la traseele naturale din masivul Garlaban. Seara este petrecută perfect pe un platou deschis, bucurându-vă de priveliști panoramice uimitoare și liniștite.",
+        "en": "Start your driving tour with the strict and fascinating history of the Foreign Legion. Late morning takes you to the heart of Aubagne to admire traditional clay figurines. By afternoon, transition from the quaint miniature world to the grand, sweeping natural trails of the Garlaban massif. The evening is perfectly spent on an open plateau, enjoying serene panoramic views."
+      }
+    }
+  }
+}

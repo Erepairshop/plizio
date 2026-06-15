@@ -1,0 +1,497 @@
+{
+  "city_id": "san-juan-del-rio-cities-v2",
+  "anchor": {
+    "name": "San Juan del Río",
+    "coords": [
+      -99.9936,
+      20.3872
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:57",
+      "total_km": 1.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Historisches und Kulturelles Zentrum",
+            "hu": "Történelmi és Kulturális Központ",
+            "ro": "Centrul Istoric și Cultural",
+            "en": "Historical and Cultural Center"
+          },
+          "coords": [
+            -99.996,
+            20.387335
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gut erhaltene Kolonialarchitektur des Kulturzentrums und versuchen Sie, an einem Wochenendmorgen zu kommen, wenn lokale Handwerker hier ausstellen.",
+            "hu": "Csodálja meg a kulturális központ gyönyörűen megőrzött gyarmati építészetét, és próbáljon hétvégi délelőtt érkezni, amikor a helyi kézművesek kiállítják termékeiket.",
+            "ro": "Admirați arhitectura colonială frumos conservată a centrului cultural și încercați să vizitați într-o dimineață de weekend când artizanii locali își expun creațiile.",
+            "en": "Admire the beautifully preserved colonial architecture of the cultural center and try to visit on a weekend morning when local artisans display their crafts nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Unabhängigkeitssäule",
+            "hu": "Függetlenség Oszlopa",
+            "ro": "Coloana Independenței",
+            "en": "Column of Independence"
+          },
+          "coords": [
+            -99.99638,
+            20.388848
+          ],
+          "category": "historical",
+          "arrive_at": "10:27",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Dieses elegante Denkmal markiert die Unabhängigkeit der Nation; gehen Sie am besten auf die andere Straßenseite, um die kunstvollen Details perfekt zu fotografieren.",
+            "hu": "Ez az elegáns emlékmű a nemzet függetlenségét jelzi, ezért érdemes az utca túloldaláról fotózni, hogy a díszes részletek jól érvényesüljenek az égen.",
+            "ro": "Acest monument elegant marchează independența națiunii, așa că traversați strada pentru a surprinde cea mai bună fotografie a detaliilor sale ornamentale.",
+            "en": "This elegant monument marks the nation's independence, so step back across the street to capture the best photograph of its ornate details against the sky."
+          }
+        },
+        {
+          "name": {
+            "de": "Reiterstandbild",
+            "hu": "Lovas Szobor",
+            "ro": "Statuia Ecvestră",
+            "en": "Man on Horseback"
+          },
+          "coords": [
+            -99.993192,
+            20.384132
+          ],
+          "category": "historical",
+          "arrive_at": "10:51",
+          "stay_min": 15,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Diese Reiterstatue ehrt das regionale Erbe und dient als toller Treffpunkt, aber seien Sie vorsichtig, wenn Sie die belebte Kreuzung überqueren, um sie aus der Nähe zu sehen.",
+            "hu": "A regionális örökséget tisztelő lovas szobor remek találkozási pont, de legyen óvatos, amikor átkel a forgalmas kereszteződésen, hogy közelről is megnézze.",
+            "ro": "Onorând moștenirea regională, această statuie ecvestră este un punct de întâlnire excelent, dar aveți grijă când traversați intersecția aglomerată pentru a o vedea îndeaproape.",
+            "en": "Honouring the regional heritage, this equestrian statue serves as a great meeting point, but be careful when crossing the bustling intersection to see it up close."
+          }
+        },
+        {
+          "name": {
+            "de": "Pantheon/Museum Santa Veracruz",
+            "hu": "Santa Veracruz Panteon/Múzeum",
+            "ro": "Panteon/Muzeul Santa Veracruz",
+            "en": "Pantheon/Museum of Santa Veracruz"
+          },
+          "coords": [
+            -99.996384,
+            20.38323
+          ],
+          "category": "museum",
+          "arrive_at": "11:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie das einzigartige Todesmuseum in diesem historischen Friedhof und tragen Sie bequeme Schuhe, da die Steinwege recht uneben sein können.",
+            "hu": "Fedezze fel a történelmi temetőben található egyedülálló Halálmúzeumot, és viseljen kényelmes cipőt, mivel a köves ösvények meglehetősen egyenetlenek lehetnek.",
+            "ro": "Explorați Muzeul Morții unic găzduit în acest cimitir istoric și purtați pantofi comozi, deoarece aleile din piatră pot fi destul de inegale.",
+            "en": "Explore the unique Museo de la Muerte housed in this historic cemetery, and wear comfortable walking shoes as the stone pathways can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Brunnen Unserer Lieben Frau von Guadalupe",
+            "hu": "A Guadalupei Szűzanya Régi Kútja",
+            "ro": "Vechiul Puț al Maicii Domnului din Guadalupe",
+            "en": "Old Well of Our Lady of Guadalupe"
+          },
+          "coords": [
+            -99.998819,
+            20.383888
+          ],
+          "category": "landmark",
+          "arrive_at": "12:56",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Dieser historische Brunnen bietet einen Einblick in die frühe Wasserversorgung der Stadt und ist ein ruhiger Ort, um im Schatten die Informationstafeln zu lesen.",
+            "hu": "Ez a történelmi kút bepillantást enged a város korai vízellátásába, és békés hely arra, hogy megpihenjen és az árnyékban elolvassa a tájékoztató táblákat.",
+            "ro": "Acest puț istoric oferă o privire asupra alimentării timpurii cu apă a orașului, fiind un loc liniștit pentru a face o pauză și a citi plăcile informative la umbră.",
+            "en": "This historic well provides a glimpse into the city's early water supply, making it a peaceful spot to pause and read the informational plaques in the shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt",
+            "hu": "Kilátó",
+            "ro": "Punct de Belvedere",
+            "en": "Viewpoint"
+          },
+          "coords": [
+            -99.997191,
+            20.380908
+          ],
+          "category": "natural",
+          "arrive_at": "14:02",
+          "stay_min": 55,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie von dieser natürlichen Erhebung aus einen weiten Blick auf die Stadt und kommen Sie am besten kurz vor Sonnenuntergang, um das goldene Licht zu erleben.",
+            "hu": "Élvezze a városra nyíló pazar kilátást erről a természetes magaslatról, és érkezzen közvetlenül naplemente előtt, hogy lássa az aranyló fényben fürdő tetőket.",
+            "ro": "Bucurați-vă de priveliștile panoramice ale orașului de la această altitudine naturală și încercați să ajungeți înainte de apus pentru a vedea acoperișurile coloniale aurii.",
+            "en": "Enjoy sweeping views of the city from this natural elevation, and aim to arrive just before sunset to watch the colonial rooftops turn golden in the fading light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der Erkundung der wunderschönen Architektur des historischen Zentrums. Gegen Mittag spazieren Sie zur Unabhängigkeitssäule und zur Reiterstatue. Entdecken Sie am Nachmittag die einzigartigen Exponate im Museum Santa Veracruz und den alten Guadalupe-Brunnen. Beenden Sie den Tag am Aussichtspunkt mit einem spektakulären Abendpanorama über die Dächer der Stadt.",
+        "hu": "Kezdje a reggelt a Történelmi Központ gyönyörű építészetének felfedezésével. Délben sétáljon el a Függetlenségi Oszlophoz és a lovas szoborhoz. Délután fedezze fel a Santa Veracruz Múzeum egyedi kiállításait és a régi Guadalupe-kutat. Zárja a napot a Kilátó felkeresésével, ahonnan látványos esti panoráma nyílik San Juan del Río gyarmati stílusú háztetőire.",
+        "ro": "Începeți dimineața explorând arhitectura superbă a Centrului Istoric. La prânz, plimbați-vă spre Coloana Independenței și statuia ecvestră. După-amiaza, descoperiți exponatele unice de la Muzeul Santa Veracruz și vechiul puț Guadalupe. Încheiați ziua urcând la Punctul de Belvedere pentru o panoramă spectaculoasă de seară peste acoperișurile coloniale din San Juan del Río.",
+        "en": "Start your morning exploring the Historical Center's beautiful architecture. Around midday, stroll to the Independence Column and the equestrian statue. In the afternoon, discover the unique exhibits at the Santa Veracruz Museum and the old Guadalupe well. Conclude your day walking up to the Viewpoint for a spectacular evening panorama over the colonial rooftops of San Juan del Río."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 4.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Brücke der Geschichte",
+            "hu": "A Történelem Hídja",
+            "ro": "Podul Istoriei",
+            "en": "Bridge of History"
+          },
+          "coords": [
+            -100.010108,
+            20.384563
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie über diese Steinbrücke aus dem 18. Jahrhundert, die einst wichtige Handelsrouten verband, aber bleiben Sie auf den Gehwegen, da Autos die Mitte nutzen.",
+            "hu": "Sétáljon át ezen a 18. századi kőhídon, amely egykor fontos kereskedelmi útvonalakat kötött össze, de maradjon a járdán, mivel a középső sávokat ma is autók használják.",
+            "ro": "Traversați acest pod de piatră din secolul al XVIII-lea, dar rămâneți pe zonele pietonale, deoarece traficul modern încă folosește benzile centrale.",
+            "en": "Walk across this 18th-century stone bridge that once linked major trade routes, but stick to the pedestrian sides as modern traffic still uses the central lanes."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Brunnen Unserer Lieben Frau von Guadalupe",
+            "hu": "A Guadalupei Szűzanya Régi Kútja",
+            "ro": "Vechiul Puț al Maicii Domnului din Guadalupe",
+            "en": "Old Well of Our Lady of Guadalupe"
+          },
+          "coords": [
+            -99.998819,
+            20.383888
+          ],
+          "category": "landmark",
+          "arrive_at": "10:37",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Dieser historische Brunnen bietet einen Einblick in die frühe Wasserversorgung der Stadt und ist ein ruhiger Ort, um im Schatten die Informationstafeln zu lesen.",
+            "hu": "Ez a történelmi kút bepillantást enged a város korai vízellátásába, és békés hely arra, hogy megpihenjen és az árnyékban elolvassa a tájékoztató táblákat.",
+            "ro": "Acest puț istoric oferă o privire asupra alimentării timpurii cu apă a orașului, fiind un loc liniștit pentru a face o pauză și a citi plăcile informative la umbră.",
+            "en": "This historic well provides a glimpse into the city's early water supply, making it a peaceful spot to pause and read the informational plaques in the shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Pantheon/Museum Santa Veracruz",
+            "hu": "Santa Veracruz Panteon/Múzeum",
+            "ro": "Panteon/Muzeul Santa Veracruz",
+            "en": "Pantheon/Museum of Santa Veracruz"
+          },
+          "coords": [
+            -99.996384,
+            20.38323
+          ],
+          "category": "museum",
+          "arrive_at": "11:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie das einzigartige Todesmuseum in diesem historischen Friedhof und tragen Sie bequeme Schuhe, da die Steinwege recht uneben sein können.",
+            "hu": "Fedezze fel a történelmi temetőben található egyedülálló Halálmúzeumot, és viseljen kényelmes cipőt, mivel a köves ösvények meglehetősen egyenetlenek lehetnek.",
+            "ro": "Explorați Muzeul Morții unic găzduit în acest cimitir istoric și purtați pantofi comozi, deoarece aleile din piatră pot fi destul de inegale.",
+            "en": "Explore the unique Museo de la Muerte housed in this historic cemetery, and wear comfortable walking shoes as the stone pathways can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches und Kulturelles Zentrum",
+            "hu": "Történelmi és Kulturális Központ",
+            "ro": "Centrul Istoric și Cultural",
+            "en": "Historical and Cultural Center"
+          },
+          "coords": [
+            -99.996,
+            20.387335
+          ],
+          "category": "landmark",
+          "arrive_at": "13:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gut erhaltene Kolonialarchitektur des Kulturzentrums und versuchen Sie, an einem Wochenendmorgen zu kommen, wenn lokale Handwerker hier ausstellen.",
+            "hu": "Csodálja meg a kulturális központ gyönyörűen megőrzött gyarmati építészetét, és próbáljon hétvégi délelőtt érkezni, amikor a helyi kézművesek kiállítják termékeiket.",
+            "ro": "Admirați arhitectura colonială frumos conservată a centrului cultural și încercați să vizitați într-o dimineață de weekend când artizanii locali își expun creațiile.",
+            "en": "Admire the beautifully preserved colonial architecture of the cultural center and try to visit on a weekend morning when local artisans display their crafts nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Thermalbad Santa Monica",
+            "hu": "Santa Monica Termálfürdő",
+            "ro": "Băile Santa Monica",
+            "en": "Santa Monica Spa"
+          },
+          "coords": [
+            -99.992417,
+            20.394187
+          ],
+          "category": "recreational",
+          "arrive_at": "14:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie Ihre Muskeln im warmen Thermalwasser dieses lokalen Spas und denken Sie daran, ein eigenes Handtuch und Badeschuhe für mehr Komfort mitzubringen.",
+            "hu": "Lazítsa el izmait a helyi termálfürdő meleg vizében, és ne felejtsen el saját törölközőt és papucsot hozni a kényelmesebb élmény érdekében.",
+            "ro": "Relaxați-vă mușchii în apele termale calde ale acestui spa local și nu uitați să vă aduceți propriul prosop și șlapi pentru o experiență mai confortabilă.",
+            "en": "Relax your muscles in the warm thermal waters of this local spa, and remember to bring your own towel and flip-flops for a more comfortable experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Freilichtbühne",
+            "hu": "Szabadtéri Színpad",
+            "ro": "Forum în Aer Liber",
+            "en": "Open Air Forum"
+          },
+          "coords": [
+            -99.991469,
+            20.407562
+          ],
+          "category": "cultural",
+          "arrive_at": "16:05",
+          "stay_min": 55,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Dieser Open-Air-Kulturort veranstaltet lebhafte Gemeindeevents; prüfen Sie vorher das Programm und bringen Sie eine leichte Jacke für kühle Abendvorstellungen mit.",
+            "hu": "Ez a szabadtéri kulturális helyszín nyüzsgő közösségi eseményeknek ad otthont, ezért érdemes előre ellenőrizni a programot, és meleg pulóvert hozni az estékre.",
+            "ro": "Acest loc cultural în aer liber găzduiește evenimente comunitare vibrante, așa că verificați programul local și aduceți o jachetă subțire pentru serile răcoroase.",
+            "en": "This open-air cultural venue hosts vibrant community events, so check the local schedule beforehand and bring a light jacket as evening performances can get chilly."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie zuerst zur beeindruckenden Brücke der Geschichte, einem Wunder der alten Technik. Gegen Mittag fahren Sie zum Guadalupe-Brunnen und zum faszinierenden Museum Santa Veracruz. Verbringen Sie den Nachmittag auf dem zentralen Platz, bevor Sie im Thermalbad Santa Monica entspannen. Ihr aktiver Tag endet stilvoll in der Freilichtbühne, wo Sie den Abend ausklingen lassen können.",
+        "hu": "Először a lenyűgöző Történelem Hídjához tekerjen, amely az ősi mérnöki munka csodája. Dél körül biciklizzen a Guadalupe-kút és a lenyűgöző Santa Veracruz Múzeum felé. Töltse a délutánt a központi téren, mielőtt a Santa Monica Termálfürdőben pihenne. Aktív napja a Szabadtéri Színpadnál ér véget, amely tökéletes kulturális tér a kikapcsolódásra, ahogy közeledik az este.",
+        "ro": "Porniți pe bicicletă către impresionantul Pod al Istoriei, o minune a ingineriei antice. La prânz, pedalați spre puțul Guadalupe și fascinantul Muzeu Santa Veracruz. Petreceți după-amiaza bucurându-vă de piața centrală înainte de a vă relaxa la Băile Santa Monica. Ziua activă se încheie la Forumul în Aer Liber, un spațiu cultural perfect pentru a vă relaxa la lăsarea serii.",
+        "en": "Pedal first to the impressive Bridge of History, a marvel of ancient engineering. By midday, cycle towards the Guadalupe well and the fascinating Santa Veracruz Museum. Spend your afternoon enjoying the central square before relaxing at the Santa Monica Spa. Your active day ends gracefully at the Open Air Forum, a perfect cultural space to wind down as the evening approaches."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:40",
+      "total_km": 17.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Pyramide El Cerrito",
+            "hu": "El Cerrito Piramis",
+            "ro": "Piramida El Cerrito",
+            "en": "Pyramid of El Cerrito"
+          },
+          "coords": [
+            -100.004556,
+            20.375663
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den beeindruckenden toltekischen Einfluss dieses antiken Zeremonialzentrums und bringen Sie ausreichend Wasser und Sonnenschutz mit, da es wenig Schatten gibt.",
+            "hu": "Csodálja meg ezen ősi szertartási központ lenyűgöző tolték hatásait, és hozzon magával sok vizet és naptejet, mivel a romoknál nagyon kevés az árnyék.",
+            "ro": "Minunați-vă de influența toltecă impresionantă a acestui vechi centru ceremonial și aduceți multă apă și protecție solară, deoarece umbra este destul de limitată.",
+            "en": "Marvel at the impressive Toltec influence of this ancient ceremonial center, and bring plenty of water and sun protection as shade is quite limited on the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Brücke der Geschichte",
+            "hu": "A Történelem Hídja",
+            "ro": "Podul Istoriei",
+            "en": "Bridge of History"
+          },
+          "coords": [
+            -100.010108,
+            20.384563
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie über diese Steinbrücke aus dem 18. Jahrhundert, die einst wichtige Handelsrouten verband, aber bleiben Sie auf den Gehwegen, da Autos die Mitte nutzen.",
+            "hu": "Sétáljon át ezen a 18. századi kőhídon, amely egykor fontos kereskedelmi útvonalakat kötött össze, de maradjon a járdán, mivel a középső sávokat ma is autók használják.",
+            "ro": "Traversați acest pod de piatră din secolul al XVIII-lea, dar rămâneți pe zonele pietonale, deoarece traficul modern încă folosește benzile centrale.",
+            "en": "Walk across this 18th-century stone bridge that once linked major trade routes, but stick to the pedestrian sides as modern traffic still uses the central lanes."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches und Kulturelles Zentrum",
+            "hu": "Történelmi és Kulturális Központ",
+            "ro": "Centrul Istoric și Cultural",
+            "en": "Historical and Cultural Center"
+          },
+          "coords": [
+            -99.996,
+            20.387335
+          ],
+          "category": "landmark",
+          "arrive_at": "11:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gut erhaltene Kolonialarchitektur des Kulturzentrums und versuchen Sie, an einem Wochenendmorgen zu kommen, wenn lokale Handwerker hier ausstellen.",
+            "hu": "Csodálja meg a kulturális központ gyönyörűen megőrzött gyarmati építészetét, és próbáljon hétvégi délelőtt érkezni, amikor a helyi kézművesek kiállítják termékeiket.",
+            "ro": "Admirați arhitectura colonială frumos conservată a centrului cultural și încercați să vizitați într-o dimineață de weekend când artizanii locali își expun creațiile.",
+            "en": "Admire the beautifully preserved colonial architecture of the cultural center and try to visit on a weekend morning when local artisans display their crafts nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Pantheon/Museum Santa Veracruz",
+            "hu": "Santa Veracruz Panteon/Múzeum",
+            "ro": "Panteon/Muzeul Santa Veracruz",
+            "en": "Pantheon/Museum of Santa Veracruz"
+          },
+          "coords": [
+            -99.996384,
+            20.38323
+          ],
+          "category": "museum",
+          "arrive_at": "13:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie das einzigartige Todesmuseum in diesem historischen Friedhof und tragen Sie bequeme Schuhe, da die Steinwege recht uneben sein können.",
+            "hu": "Fedezze fel a történelmi temetőben található egyedülálló Halálmúzeumot, és viseljen kényelmes cipőt, mivel a köves ösvények meglehetősen egyenetlenek lehetnek.",
+            "ro": "Explorați Muzeul Morții unic găzduit în acest cimitir istoric și purtați pantofi comozi, deoarece aleile din piatră pot fi destul de inegale.",
+            "en": "Explore the unique Museo de la Muerte housed in this historic cemetery, and wear comfortable walking shoes as the stone pathways can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Freilichtbühne",
+            "hu": "Szabadtéri Színpad",
+            "ro": "Forum în Aer Liber",
+            "en": "Open Air Forum"
+          },
+          "coords": [
+            -99.991469,
+            20.407562
+          ],
+          "category": "cultural",
+          "arrive_at": "15:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Dieser Open-Air-Kulturort veranstaltet lebhafte Gemeindeevents; prüfen Sie vorher das Programm und bringen Sie eine leichte Jacke für kühle Abendvorstellungen mit.",
+            "hu": "Ez a szabadtéri kulturális helyszín nyüzsgő közösségi eseményeknek ad otthont, ezért érdemes előre ellenőrizni a programot, és meleg pulóvert hozni az estékre.",
+            "ro": "Acest loc cultural în aer liber găzduiește evenimente comunitare vibrante, așa că verificați programul local și aduceți o jachetă subțire pentru serile răcoroase.",
+            "en": "This open-air cultural venue hosts vibrant community events, so check the local schedule beforehand and bring a light jacket as evening performances can get chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Thermalbad San Pedro",
+            "hu": "San Pedro Termálfürdő",
+            "ro": "Băile San Pedro",
+            "en": "San Pedro Spa"
+          },
+          "coords": [
+            -99.979521,
+            20.424392
+          ],
+          "category": "recreational",
+          "arrive_at": "16:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Erleben Sie authentische lokale Erholung in diesen weitläufigen Thermalbecken, wo eine frühe Ankunft unter der Woche einen ruhigeren Platz am Wasser garantiert.",
+            "hu": "Tapasztalja meg az autentikus helyi kikapcsolódást ezekben a tágas termálmedencékben, ahol a hétköznap kora reggeli érkezés csendesebb helyet biztosít a főmedencéknél.",
+            "ro": "Experimentați recreerea locală autentică la aceste piscine termale extinse, unde sosirea devreme în timpul săptămânii garantează un loc mai liniștit lângă zonele principale.",
+            "en": "Experience authentic local recreation at these expansive thermal pools, where arriving early on a weekday guarantees a quieter spot near the main swimming areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquarium Emanuelle",
+            "hu": "Emanuelle Akvárium",
+            "ro": "Acvariul Emanuelle",
+            "en": "Emanuelle Aquarium"
+          },
+          "coords": [
+            -99.910541,
+            20.383073
+          ],
+          "category": "wildlife",
+          "arrive_at": "17:55",
+          "stay_min": 105,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem charmanten Aquarium die vielfältige Unterwasserwelt, was besonders für Familien ein Genuss ist, wenn sie zu den Fütterungszeiten kommen.",
+            "hu": "Fedezze fel a változatos tengeri élővilágot és a regionális vízi fajokat ebben a bájos akváriumban, amely különösen a családok számára élvezetes az etetési időkben.",
+            "ro": "Descoperiți diverse viețuitoare marine și specii acvatice regionale în acest acvariu fermecător, care este deosebit de plăcut pentru familiile care vin la orele de hrănire.",
+            "en": "Discover diverse marine life and regional aquatic species in this charming aquarium, which is especially enjoyable for families who plan to visit during feeding times."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zur alten Pyramide von El Cerrito, um die archäologische Geschichte zu entdecken. Mittags erreichen Sie die historische Brücke und das lebhafte Zentrum. Am Nachmittag erkunden Sie das Museum Santa Veracruz, bevor Sie nach Norden zum San Pedro Spa fahren. Beenden Sie Ihren vielfältigen Roadtrip mit einem entspannten abendlichen Besuch im Emanuelle Aquarium.",
+        "hu": "Reggel vezessen az ősi El Cerrito Piramishoz, hogy felfedezze a lenyűgöző régészeti történelmet. Délben látogassa meg a Történelem Hídját és a nyüzsgő Történelmi Központot. Délután fedezze fel a Santa Veracruz Múzeumot, mielőtt észak felé venné az irányt a San Pedro Termálfürdőhöz. Változatos autós utazását egy pihentető esti látogatással zárja az Emanuelle Akváriumban.",
+        "ro": "Conduceți dimineața către antica Piramidă El Cerrito pentru a descoperi istoria arheologică fascinantă. La prânz ajungeți la Podul Istoriei și în vibrantul Centru Istoric. După-amiaza, explorați Muzeul Santa Veracruz înainte de a vă îndrepta spre nord către Băile San Pedro. Încheiați călătoria dumneavoastră diversă cu o vizită relaxantă de seară la Acvariul Emanuelle.",
+        "en": "Drive to the ancient Pyramid of El Cerrito in the morning to uncover fascinating archaeological history. Midday brings you to the Bridge of History and the vibrant Historical Center. In the afternoon, explore the Museum of Santa Veracruz before heading north to the open-air venues and San Pedro Spa. Finish your diverse road trip with a relaxing evening visit to the Emanuelle Aquarium."
+      }
+    }
+  }
+}

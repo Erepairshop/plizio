@@ -1,0 +1,543 @@
+{
+  "city_id": "thizy",
+  "anchor": {
+    "name": "Thizy",
+    "coords": [
+      4.3122,
+      46.0333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:12",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Biserica Saint-Georges",
+            "hu": "Biserica Saint-Georges",
+            "ro": "Biserica Saint-Georges",
+            "en": "Biserica Saint-Georges"
+          },
+          "coords": [
+            4.307951,
+            46.03444
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante historische Architektur dieser zentralen religiösen Stätte, aber besuchen Sie sie am besten vormittags für das beste Licht.",
+            "hu": "Csodálja meg a központi vallási helyszín lenyűgöző történelmi építészetét, és érdemes a reggeli órákban érkezni a legszebb belső fényekért.",
+            "ro": "Admirați arhitectura istorică impresionantă a acestui lăcaș central și planificați-vă vizita dimineața pentru a prinde cea mai bună lumină în interior.",
+            "en": "Admire the striking historical architecture of this central religious site, but remember to visit during morning hours for the best interior lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Capela Saint-Georges",
+            "hu": "Capela Saint-Georges",
+            "ro": "Capela Saint-Georges",
+            "en": "Capela Saint-Georges"
+          },
+          "coords": [
+            4.307951,
+            46.03444
+          ],
+          "category": "religious",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beachten Sie die intime Atmosphäre und feinen Details dieser kleinen Kapelle und treten Sie leise auf, um die stille Andacht der Gläubigen zu ehren.",
+            "hu": "Figyelje meg e kis kápolna meghitt hangulatát és finom részleteit, halkan lépkedve, hogy tiszteletben tartsa a helyiek csendes imádságát.",
+            "ro": "Observați atmosfera intimă și detaliile fine ale acestei mici capele, pășind încet pentru a respecta contemplarea liniștită a credincioșilor locali.",
+            "en": "Notice the intimate atmosphere and fine details of this small chapel, stepping lightly to respect the ongoing quiet contemplation of local worshippers."
+          }
+        },
+        {
+          "name": {
+            "de": "Ecomuzeul Haut-Beaujolais",
+            "hu": "Ecomuzeul Haut-Beaujolais",
+            "ro": "Ecomuzeul Haut-Beaujolais",
+            "en": "Ecomuzeul Haut-Beaujolais"
+          },
+          "coords": [
+            4.315258,
+            46.037956
+          ],
+          "category": "museum",
+          "arrive_at": "10:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Textil- und Landwirtschaftsgeschichte der Region und bitten Sie die leidenschaftlichen Guides unbedingt um eine kurze Demo.",
+            "hu": "Fedezze fel a régió gazdag textil- és vidéki történelmét az izgalmas kiállításokon, és kérjen egy rövid bemutatót a szenvedélyes helyi vezetőktől.",
+            "ro": "Descoperiți istoria textilă și rurală bogată a regiunii prin expoziții captivante și nu ezitați să cereți ghizilor locali o scurtă demonstrație.",
+            "en": "Discover the rich textile and rural history of the region through engaging exhibits, and make sure to ask the passionate local guides for a quick demo."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame-de-la-Paix",
+            "hu": "Chapelle Notre-Dame-de-la-Paix",
+            "ro": "Chapelle Notre-Dame-de-la-Paix",
+            "en": "Chapelle Notre-Dame-de-la-Paix"
+          },
+          "coords": [
+            4.303861,
+            46.045326
+          ],
+          "category": "religious",
+          "arrive_at": "12:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Umgebung dieses friedlichen, etwas abseits gelegenen Heiligtums und nehmen Sie eine leichte Jacke für die kühle Brise mit.",
+            "hu": "Élvezze e békés, kissé félreeső szentély nyugodt környezetét, de vigyen magával egy könnyű kabátot, mert a dombtetőn meglepően hűvös lehet a szél.",
+            "ro": "Bucurați-vă de împrejurimile senine ale acestui sanctuar pașnic și luați o jachetă subțire, deoarece briza de pe deal poate fi destul de răcoroasă.",
+            "en": "Take in the serene surroundings of this peaceful sanctuary set slightly apart, carrying a light jacket as the hilltop breeze can be surprisingly cool."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Roch",
+            "hu": "Chapelle Saint-Roch",
+            "ro": "Chapelle Saint-Roch",
+            "en": "Chapelle Saint-Roch"
+          },
+          "coords": [
+            4.325029,
+            46.032603
+          ],
+          "category": "religious",
+          "arrive_at": "13:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 31,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie den urigen Charme dieser dem Pestheiligen gewidmeten Kapelle und tragen Sie bequeme Wanderschuhe für den unebenen Zugangsweg.",
+            "hu": "Fedezze fel e pestisvédőszentnek szentelt kápolna festői báját, és viseljen kényelmes cipőt az egyenetlen megközelítési útvonal miatt.",
+            "ro": "Explorați farmecul pitoresc al acestei capele istorice dedicate sfântului ciumei, purtând încălțăminte confortabilă pentru cărarea ușor accidentată.",
+            "en": "Explore the quaint charm of this historical dedication to the patron saint of plagues, bringing comfortable walking shoes for the uneven approach path."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-André",
+            "hu": "Église Saint-André",
+            "ro": "Église Saint-André",
+            "en": "Église Saint-André"
+          },
+          "coords": [
+            4.329591,
+            46.034947
+          ],
+          "category": "religious",
+          "arrive_at": "14:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Größe und das beeindruckende Mauerwerk dieser schönen Pfarrkirche und achten Sie auf die kunstvollen Buntglasfenster nahe dem Altar.",
+            "hu": "Értékelje e gyönyörű plébániatemplom lenyűgöző méreteit és kőmunkáját, különös tekintettel az oltár körüli bonyolult ólomüveg ablakokra.",
+            "ro": "Apreciați grandoarea și zidăria impresionantă a acestei biserici parohiale, acordând o atenție deosebită vitraliilor detaliate din apropierea altarului.",
+            "en": "Appreciate the grand scale and impressive stonework of this beautiful parish church, looking out for the intricate stained glass windows near the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame-du-Bon-Secours",
+            "hu": "Chapelle Notre-Dame-du-Bon-Secours",
+            "ro": "Chapelle Notre-Dame-du-Bon-Secours",
+            "en": "Chapelle Notre-Dame-du-Bon-Secours"
+          },
+          "coords": [
+            4.328438,
+            46.036572
+          ],
+          "category": "landmark",
+          "arrive_at": "15:17",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Staunen Sie über dieses markante Wahrzeichen, das wunderbare Aussichtspunkte bietet, und bringen Sie eine volle Kamera für die Panoramabilder mit.",
+            "hu": "Csodálja meg ezt a lenyűgöző helyi nevezetességet, amely csodás kilátást nyújt, és ügyeljen a fényképezőgép feltöltésére a panorámaképekhez.",
+            "ro": "Minunați-vă de acest punct de reper izbitor, care oferă un peisaj minunat, asigurându-vă că aparatul foto este complet încărcat pentru panoramă.",
+            "en": "Marvel at this striking local landmark that offers wonderful vantage points, ensuring your camera is fully charged for the spectacular panoramic shots."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Herzen von Thizy und lässt Sie in die spirituellen Wurzeln eintauchen. Sie starten mit der Besichtigung architektonischer Schätze und spüren die Geschichte der alten Mauern.\nGegen Mittag vertieft sich die Reise bei der Erkundung des bekannten Ökomuseums. Dies ermöglicht einen tiefen Einblick in die industrielle Vergangenheit und verbindet Tradition mit der Moderne.\nDer Nachmittag lädt zu einem sanften Übergang in Richtung Bourg-de-Thizy ein. Hier bietet eine Reihe wunderschöner Kapellen und Kirchen ruhige Kontemplation und exzellente Fotomotive.\nDer Abend rundet Ihre Erkundungstour elegant ab und belohnt Sie mit fantastischen lokalen Panoramablicken, die bleibende Erinnerungen an die historische Region Haut-Beaujolais hinterlassen.",
+        "hu": "A reggel Thizy szívében indul, elmerülve a hely spirituális és kulturális gyökereiben. Építészeti kincsek megcsodálásával kezdi a napot, átérezve az ősi falakba ivódott történelmet.\nDélben az utazás elmélyül a híres Ökomúzeum felfedezésével. Ez betekintést nyújt a régió ipari múltjába, zökkenőmentesen összekapcsolva a hagyományos mesterségeket a modern világgal.\nA délután lágy átmenetet kínál Bourg-de-Thizy felé. Itt gyönyörű kápolnák és templomok sora nyújt békés elmélkedést és kiváló lehetőségeket lenyűgöző fényképek készítésére.\nAz este elegánsan zárja a felfedezést, panorámás helyi kilátással jutalmazva Önt, amely maradandó emlékeket hagy a festői Haut-Beaujolais régióból az utazók számára.",
+        "ro": "Dimineața începe în inima orașului Thizy, cufundându-vă în rădăcinile sale spirituale. Veți începe prin a admira comori arhitecturale, simțind istoria încorporată în zidurile antice.\nLa prânz, călătoria se aprofundează pe măsură ce explorați renumitul Ecomuzeu. Acesta permite o imersiune în trecutul industrial, conectând perfect meseriile tradiționale cu înțelegerea modernă.\nDupă-amiaza invită la o tranziție blândă către Bourg-de-Thizy. Aici, o succesiune de capele și biserici frumoase oferă o contemplare senină și oportunități excelente pentru fotografii uimitoare.\nSeara se încheie cu grație, recompensându-vă cu vederi panoramice locale de excepție, lăsându-vă amintiri de neuitat și prețioase din fermecătoarea regiune Haut-Beaujolais.",
+        "en": "Morning begins in the heart of Thizy, immersing you in its spiritual and cultural roots. You will start by marveling at architectural treasures, taking time to feel the history embedded in ancient walls.\nBy midday, the journey deepens as you explore the renowned Ecomuseum. This allows a rich dive into the region's industrial past, seamlessly connecting traditional trades with modern understanding.\nThe afternoon invites a gentle transition towards Bourg-de-Thizy. Here, a succession of beautiful chapels and churches offers serene contemplation and excellent opportunities for striking photography.\nEvening gracefully concludes your exploration, rewarding you with panoramic local views that capture the sunset, leaving you with lasting and beautiful memories of the Haut-Beaujolais."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:29",
+      "total_km": 9.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ecomuzeul Haut-Beaujolais",
+            "hu": "Ecomuzeul Haut-Beaujolais",
+            "ro": "Ecomuzeul Haut-Beaujolais",
+            "en": "Ecomuzeul Haut-Beaujolais"
+          },
+          "coords": [
+            4.315258,
+            46.037956
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Textil- und Landwirtschaftsgeschichte der Region und bitten Sie die leidenschaftlichen Guides unbedingt um eine kurze Demo.",
+            "hu": "Fedezze fel a régió gazdag textil- és vidéki történelmét az izgalmas kiállításokon, és kérjen egy rövid bemutatót a szenvedélyes helyi vezetőktől.",
+            "ro": "Descoperiți istoria textilă și rurală bogată a regiunii prin expoziții captivante și nu ezitați să cereți ghizilor locali o scurtă demonstrație.",
+            "en": "Discover the rich textile and rural history of the region through engaging exhibits, and make sure to ask the passionate local guides for a quick demo."
+          }
+        },
+        {
+          "name": {
+            "de": "Biserica Saint-Georges",
+            "hu": "Biserica Saint-Georges",
+            "ro": "Biserica Saint-Georges",
+            "en": "Biserica Saint-Georges"
+          },
+          "coords": [
+            4.307951,
+            46.03444
+          ],
+          "category": "religious",
+          "arrive_at": "10:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante historische Architektur dieser zentralen religiösen Stätte, aber besuchen Sie sie am besten vormittags für das beste Licht.",
+            "hu": "Csodálja meg a központi vallási helyszín lenyűgöző történelmi építészetét, és érdemes a reggeli órákban érkezni a legszebb belső fényekért.",
+            "ro": "Admirați arhitectura istorică impresionantă a acestui lăcaș central și planificați-vă vizita dimineața pentru a prinde cea mai bună lumină în interior.",
+            "en": "Admire the striking historical architecture of this central religious site, but remember to visit during morning hours for the best interior lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame-de-la-Paix",
+            "hu": "Chapelle Notre-Dame-de-la-Paix",
+            "ro": "Chapelle Notre-Dame-de-la-Paix",
+            "en": "Chapelle Notre-Dame-de-la-Paix"
+          },
+          "coords": [
+            4.303861,
+            46.045326
+          ],
+          "category": "religious",
+          "arrive_at": "11:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Umgebung dieses friedlichen, etwas abseits gelegenen Heiligtums und nehmen Sie eine leichte Jacke für die kühle Brise mit.",
+            "hu": "Élvezze e békés, kissé félreeső szentély nyugodt környezetét, de vigyen magával egy könnyű kabátot, mert a dombtetőn meglepően hűvös lehet a szél.",
+            "ro": "Bucurați-vă de împrejurimile senine ale acestui sanctuar pașnic și luați o jachetă subțire, deoarece briza de pe deal poate fi destul de răcoroasă.",
+            "en": "Take in the serene surroundings of this peaceful sanctuary set slightly apart, carrying a light jacket as the hilltop breeze can be surprisingly cool."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Roch",
+            "hu": "Chapelle Saint-Roch",
+            "ro": "Chapelle Saint-Roch",
+            "en": "Chapelle Saint-Roch"
+          },
+          "coords": [
+            4.325029,
+            46.032603
+          ],
+          "category": "religious",
+          "arrive_at": "12:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie den urigen Charme dieser dem Pestheiligen gewidmeten Kapelle und tragen Sie bequeme Wanderschuhe für den unebenen Zugangsweg.",
+            "hu": "Fedezze fel e pestisvédőszentnek szentelt kápolna festői báját, és viseljen kényelmes cipőt az egyenetlen megközelítési útvonal miatt.",
+            "ro": "Explorați farmecul pitoresc al acestei capele istorice dedicate sfântului ciumei, purtând încălțăminte confortabilă pentru cărarea ușor accidentată.",
+            "en": "Explore the quaint charm of this historical dedication to the patron saint of plagues, bringing comfortable walking shoes for the uneven approach path."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-André",
+            "hu": "Église Saint-André",
+            "ro": "Église Saint-André",
+            "en": "Église Saint-André"
+          },
+          "coords": [
+            4.329591,
+            46.034947
+          ],
+          "category": "religious",
+          "arrive_at": "13:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Größe und das beeindruckende Mauerwerk dieser schönen Pfarrkirche und achten Sie auf die kunstvollen Buntglasfenster nahe dem Altar.",
+            "hu": "Értékelje e gyönyörű plébániatemplom lenyűgöző méreteit és kőmunkáját, különös tekintettel az oltár körüli bonyolult ólomüveg ablakokra.",
+            "ro": "Apreciați grandoarea și zidăria impresionantă a acestei biserici parohiale, acordând o atenție deosebită vitraliilor detaliate din apropierea altarului.",
+            "en": "Appreciate the grand scale and impressive stonework of this beautiful parish church, looking out for the intricate stained glass windows near the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame-du-Bon-Secours",
+            "hu": "Chapelle Notre-Dame-du-Bon-Secours",
+            "ro": "Chapelle Notre-Dame-du-Bon-Secours",
+            "en": "Chapelle Notre-Dame-du-Bon-Secours"
+          },
+          "coords": [
+            4.328438,
+            46.036572
+          ],
+          "category": "landmark",
+          "arrive_at": "13:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Staunen Sie über dieses markante Wahrzeichen, das wunderbare Aussichtspunkte bietet, und bringen Sie eine volle Kamera für die Panoramabilder mit.",
+            "hu": "Csodálja meg ezt a lenyűgöző helyi nevezetességet, amely csodás kilátást nyújt, és ügyeljen a fényképezőgép feltöltésére a panorámaképekhez.",
+            "ro": "Minunați-vă de acest punct de reper izbitor, care oferă un peisaj minunat, asigurându-vă că aparatul foto este complet încărcat pentru panoramă.",
+            "en": "Marvel at this striking local landmark that offers wonderful vantage points, ensuring your camera is fully charged for the spectacular panoramic shots."
+          }
+        },
+        {
+          "name": {
+            "de": "Lacul Sapins",
+            "hu": "Lacul Sapins",
+            "ro": "Lacul Sapins",
+            "en": "Lacul Sapins"
+          },
+          "coords": [
+            4.370833,
+            46.006944
+          ],
+          "category": "recreational",
+          "arrive_at": "14:44",
+          "stay_min": 105,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den Ufern dieses weitläufigen Sees mit dem größten Öko-Pool Europas und kommen Sie früh, um einen guten Picknickplatz zu finden.",
+            "hu": "Pihenjen e hatalmas tó partján, amely Európa legnagyobb ökológiai medencéjével büszkélkedhet, és érkezzen korán a legjobb piknikezőhelyekért.",
+            "ro": "Relaxați-vă pe malurile acestui vast lac recreativ, cu cea mai mare piscină ecologică din Europa, venind devreme pentru un loc bun de picnic.",
+            "en": "Relax by the shores of this expansive recreational lake that boasts Europe's largest ecological pool, arriving early to secure a prime picnic spot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Herzen von Thizy und lässt Sie in die spirituellen Wurzeln eintauchen. Sie starten mit der Besichtigung architektonischer Schätze und spüren die Geschichte der alten Mauern.\nGegen Mittag vertieft sich die Reise bei der Erkundung des bekannten Ökomuseums. Dies ermöglicht einen tiefen Einblick in die industrielle Vergangenheit und verbindet Tradition mit der Moderne.\nDer Nachmittag lädt zu einem sanften Übergang in Richtung Bourg-de-Thizy ein. Hier bietet eine Reihe wunderschöner Kapellen und Kirchen ruhige Kontemplation und exzellente Fotomotive.\nDer Abend rundet Ihre Erkundungstour elegant ab und belohnt Sie mit einem erfrischenden Rückzugsort am wunderschönen See, der perfekte bleibende Erinnerungen an die weite Region hinterlässt.",
+        "hu": "A reggel Thizy szívében indul, elmerülve a hely spirituális és kulturális gyökereiben. Építészeti kincsek megcsodálásával kezdi a napot, átérezve az ősi falakba ivódott történelmet.\nDélben az utazás elmélyül a híres Ökomúzeum felfedezésével. Ez betekintést nyújt a régió ipari múltjába, zökkenőmentesen összekapcsolva a hagyományos mesterségeket a modern világgal.\nA délután lágy átmenetet kínál Bourg-de-Thizy felé. Itt gyönyörű kápolnák és templomok sora nyújt békés elmélkedést és kiváló lehetőségeket lenyűgöző fényképek készítésére.\nAz este elegánsan zárja a felfedezést, egy frissítő tóparti pihenéssel jutalmazva Önt, amely maradandó és békés emlékeket hagy Haut-Beaujolais lenyűgöző természeti kincseiről.",
+        "ro": "Dimineața începe în inima orașului Thizy, cufundându-vă în rădăcinile sale spirituale. Veți începe prin a admira comori arhitecturale, simțind istoria încorporată în zidurile antice.\nLa prânz, călătoria se aprofundează pe măsură ce explorați renumitul Ecomuzeu. Acesta permite o imersiune în trecutul industrial, conectând perfect meseriile tradiționale cu înțelegerea modernă.\nDupă-amiaza invită la o tranziție blândă către Bourg-de-Thizy. Aici, o succesiune de capele și biserici frumoase oferă o contemplare senină și oportunități excelente pentru fotografii uimitoare.\nSeara se încheie cu grație, recompensându-vă cu o retragere răcoritoare și relaxantă pe malul lacului imens, lăsându-vă amintiri de neuitat din regiunea verde Haut-Beaujolais.",
+        "en": "Morning begins in the heart of Thizy, immersing you in its spiritual and cultural roots. You will start by marveling at architectural treasures, taking time to feel the history embedded in ancient walls.\nBy midday, the journey deepens as you explore the renowned Ecomuseum. This allows a rich dive into the region's industrial past, seamlessly connecting traditional trades with modern understanding.\nThe afternoon invites a gentle transition towards Bourg-de-Thizy. Here, a succession of beautiful chapels and churches offers serene contemplation and excellent opportunities for striking photography.\nEvening gracefully concludes your exploration, rewarding you with a refreshing and incredibly scenic lakeside retreat, leaving you with lasting memories of the beautiful Haut-Beaujolais nature."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:01",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame-de-la-Paix",
+            "hu": "Chapelle Notre-Dame-de-la-Paix",
+            "ro": "Chapelle Notre-Dame-de-la-Paix",
+            "en": "Chapelle Notre-Dame-de-la-Paix"
+          },
+          "coords": [
+            4.303861,
+            46.045326
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Umgebung dieses friedlichen, etwas abseits gelegenen Heiligtums und nehmen Sie eine leichte Jacke für die kühle Brise mit.",
+            "hu": "Élvezze e békés, kissé félreeső szentély nyugodt környezetét, de vigyen magával egy könnyű kabátot, mert a dombtetőn meglepően hűvös lehet a szél.",
+            "ro": "Bucurați-vă de împrejurimile senine ale acestui sanctuar pașnic și luați o jachetă subțire, deoarece briza de pe deal poate fi destul de răcoroasă.",
+            "en": "Take in the serene surroundings of this peaceful sanctuary set slightly apart, carrying a light jacket as the hilltop breeze can be surprisingly cool."
+          }
+        },
+        {
+          "name": {
+            "de": "Ecomuzeul Haut-Beaujolais",
+            "hu": "Ecomuzeul Haut-Beaujolais",
+            "ro": "Ecomuzeul Haut-Beaujolais",
+            "en": "Ecomuzeul Haut-Beaujolais"
+          },
+          "coords": [
+            4.315258,
+            46.037956
+          ],
+          "category": "museum",
+          "arrive_at": "09:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Textil- und Landwirtschaftsgeschichte der Region und bitten Sie die leidenschaftlichen Guides unbedingt um eine kurze Demo.",
+            "hu": "Fedezze fel a régió gazdag textil- és vidéki történelmét az izgalmas kiállításokon, és kérjen egy rövid bemutatót a szenvedélyes helyi vezetőktől.",
+            "ro": "Descoperiți istoria textilă și rurală bogată a regiunii prin expoziții captivante și nu ezitați să cereți ghizilor locali o scurtă demonstrație.",
+            "en": "Discover the rich textile and rural history of the region through engaging exhibits, and make sure to ask the passionate local guides for a quick demo."
+          }
+        },
+        {
+          "name": {
+            "de": "Biserica Saint-Georges",
+            "hu": "Biserica Saint-Georges",
+            "ro": "Biserica Saint-Georges",
+            "en": "Biserica Saint-Georges"
+          },
+          "coords": [
+            4.307951,
+            46.03444
+          ],
+          "category": "religious",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante historische Architektur dieser zentralen religiösen Stätte, aber besuchen Sie sie am besten vormittags für das beste Licht.",
+            "hu": "Csodálja meg a központi vallási helyszín lenyűgöző történelmi építészetét, és érdemes a reggeli órákban érkezni a legszebb belső fényekért.",
+            "ro": "Admirați arhitectura istorică impresionantă a acestui lăcaș central și planificați-vă vizita dimineața pentru a prinde cea mai bună lumină în interior.",
+            "en": "Admire the striking historical architecture of this central religious site, but remember to visit during morning hours for the best interior lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Roch",
+            "hu": "Chapelle Saint-Roch",
+            "ro": "Chapelle Saint-Roch",
+            "en": "Chapelle Saint-Roch"
+          },
+          "coords": [
+            4.325029,
+            46.032603
+          ],
+          "category": "religious",
+          "arrive_at": "12:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie den urigen Charme dieser dem Pestheiligen gewidmeten Kapelle und tragen Sie bequeme Wanderschuhe für den unebenen Zugangsweg.",
+            "hu": "Fedezze fel e pestisvédőszentnek szentelt kápolna festői báját, és viseljen kényelmes cipőt az egyenetlen megközelítési útvonal miatt.",
+            "ro": "Explorați farmecul pitoresc al acestei capele istorice dedicate sfântului ciumei, purtând încălțăminte confortabilă pentru cărarea ușor accidentată.",
+            "en": "Explore the quaint charm of this historical dedication to the patron saint of plagues, bringing comfortable walking shoes for the uneven approach path."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-André",
+            "hu": "Église Saint-André",
+            "ro": "Église Saint-André",
+            "en": "Église Saint-André"
+          },
+          "coords": [
+            4.329591,
+            46.034947
+          ],
+          "category": "religious",
+          "arrive_at": "13:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Größe und das beeindruckende Mauerwerk dieser schönen Pfarrkirche und achten Sie auf die kunstvollen Buntglasfenster nahe dem Altar.",
+            "hu": "Értékelje e gyönyörű plébániatemplom lenyűgöző méreteit és kőmunkáját, különös tekintettel az oltár körüli bonyolult ólomüveg ablakokra.",
+            "ro": "Apreciați grandoarea și zidăria impresionantă a acestei biserici parohiale, acordând o atenție deosebită vitraliilor detaliate din apropierea altarului.",
+            "en": "Appreciate the grand scale and impressive stonework of this beautiful parish church, looking out for the intricate stained glass windows near the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame-du-Bon-Secours",
+            "hu": "Chapelle Notre-Dame-du-Bon-Secours",
+            "ro": "Chapelle Notre-Dame-du-Bon-Secours",
+            "en": "Chapelle Notre-Dame-du-Bon-Secours"
+          },
+          "coords": [
+            4.328438,
+            46.036572
+          ],
+          "category": "landmark",
+          "arrive_at": "13:41",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Staunen Sie über dieses markante Wahrzeichen, das wunderbare Aussichtspunkte bietet, und bringen Sie eine volle Kamera für die Panoramabilder mit.",
+            "hu": "Csodálja meg ezt a lenyűgöző helyi nevezetességet, amely csodás kilátást nyújt, és ügyeljen a fényképezőgép feltöltésére a panorámaképekhez.",
+            "ro": "Minunați-vă de acest punct de reper izbitor, care oferă un peisaj minunat, asigurându-vă că aparatul foto este complet încărcat pentru panoramă.",
+            "en": "Marvel at this striking local landmark that offers wonderful vantage points, ensuring your camera is fully charged for the spectacular panoramic shots."
+          }
+        },
+        {
+          "name": {
+            "de": "Lacul Sapins",
+            "hu": "Lacul Sapins",
+            "ro": "Lacul Sapins",
+            "en": "Lacul Sapins"
+          },
+          "coords": [
+            4.370833,
+            46.006944
+          ],
+          "category": "recreational",
+          "arrive_at": "14:16",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den Ufern dieses weitläufigen Sees mit dem größten Öko-Pool Europas und kommen Sie früh, um einen guten Picknickplatz zu finden.",
+            "hu": "Pihenjen e hatalmas tó partján, amely Európa legnagyobb ökológiai medencéjével büszkélkedhet, és érkezzen korán a legjobb piknikezőhelyekért.",
+            "ro": "Relaxați-vă pe malurile acestui vast lac recreativ, cu cea mai mare piscină ecologică din Europa, venind devreme pentru un loc bun de picnic.",
+            "en": "Relax by the shores of this expansive recreational lake that boasts Europe's largest ecological pool, arriving early to secure a prime picnic spot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Herzen von Thizy und lässt Sie in die spirituellen Wurzeln eintauchen. Sie starten mit der Besichtigung architektonischer Schätze und spüren die Geschichte der alten Mauern.\nGegen Mittag vertieft sich die Reise bei der Erkundung des bekannten Ökomuseums. Dies ermöglicht einen tiefen Einblick in die industrielle Vergangenheit und verbindet Tradition mit der Moderne.\nDer Nachmittag lädt zu einem sanften Übergang in Richtung Bourg-de-Thizy ein. Hier bietet eine Reihe wunderschöner Kapellen und Kirchen ruhige Kontemplation und exzellente Fotomotive.\nDer Abend rundet Ihre Erkundungstour elegant ab und belohnt Sie mit einem erfrischenden Rückzugsort am wunderschönen See, der perfekte bleibende Erinnerungen an die weite Region hinterlässt.",
+        "hu": "A reggel Thizy szívében indul, elmerülve a hely spirituális és kulturális gyökereiben. Építészeti kincsek megcsodálásával kezdi a napot, átérezve az ősi falakba ivódott történelmet.\nDélben az utazás elmélyül a híres Ökomúzeum felfedezésével. Ez betekintést nyújt a régió ipari múltjába, zökkenőmentesen összekapcsolva a hagyományos mesterségeket a modern világgal.\nA délután lágy átmenetet kínál Bourg-de-Thizy felé. Itt gyönyörű kápolnák és templomok sora nyújt békés elmélkedést és kiváló lehetőségeket lenyűgöző fényképek készítésére.\nAz este elegánsan zárja a felfedezést, egy frissítő tóparti pihenéssel jutalmazva Önt, amely maradandó és békés emlékeket hagy Haut-Beaujolais lenyűgöző természeti kincseiről.",
+        "ro": "Dimineața începe în inima orașului Thizy, cufundându-vă în rădăcinile sale spirituale. Veți începe prin a admira comori arhitecturale, simțind istoria încorporată în zidurile antice.\nLa prânz, călătoria se aprofundează pe măsură ce explorați renumitul Ecomuzeu. Acesta permite o imersiune în trecutul industrial, conectând perfect meseriile tradiționale cu înțelegerea modernă.\nDupă-amiaza invită la o tranziție blândă către Bourg-de-Thizy. Aici, o succesiune de capele și biserici frumoase oferă o contemplare senină și oportunități excelente pentru fotografii uimitoare.\nSeara se încheie cu grație, recompensându-vă cu o retragere răcoritoare și relaxantă pe malul lacului imens, lăsându-vă amintiri de neuitat din regiunea verde Haut-Beaujolais.",
+        "en": "Morning begins in the heart of Thizy, immersing you in its spiritual and cultural roots. You will start by marveling at architectural treasures, taking time to feel the history embedded in ancient walls.\nBy midday, the journey deepens as you explore the renowned Ecomuseum. This allows a rich dive into the region's industrial past, seamlessly connecting traditional trades with modern understanding.\nThe afternoon invites a gentle transition towards Bourg-de-Thizy. Here, a succession of beautiful chapels and churches offers serene contemplation and excellent opportunities for striking photography.\nEvening gracefully concludes your exploration, rewarding you with a refreshing and incredibly scenic lakeside retreat, leaving you with lasting memories of the beautiful Haut-Beaujolais nature."
+      }
+    }
+  }
+}

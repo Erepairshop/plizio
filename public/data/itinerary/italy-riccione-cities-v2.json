@@ -1,0 +1,451 @@
+{
+  "city_id": "italy-riccione-cities-v2",
+  "anchor": {
+    "name": "Riccione",
+    "coords": [
+      12.65689,
+      43.99942
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:31",
+      "total_km": 1.35,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mario",
+            "hu": "Mario",
+            "ro": "Mario",
+            "en": "Mario"
+          },
+          "coords": [
+            12.655418,
+            44.007416
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Dieser belebte Strandabschnitt bietet goldenen Sand und ein tolles Ambiente, also kommen Sie früh, um die besten Sonnenliegen direkt am Wasser zu sichern.",
+            "hu": "Ez a nyüzsgő partszakasz aranyhomokkal és remek hangulattal várja, ezért érkezzen korán, hogy a legjobb napágyakat tudja lefoglalni a víz közvetlen közelében.",
+            "ro": "Această secțiune de plajă plină de viață oferă nisip auriu și o atmosferă grozavă, deci veniți devreme pentru a rezerva cele mai bune șezlonguri lângă apă.",
+            "en": "This lively stretch of beach offers golden sand and a great atmosphere, so arrive early to secure the best sun loungers right by the water's edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido delle sirene",
+            "hu": "Lido delle sirene",
+            "ro": "Lido delle sirene",
+            "en": "Lido delle sirene"
+          },
+          "coords": [
+            12.651622,
+            44.009991
+          ],
+          "category": "recreational",
+          "arrive_at": "10:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die entspannte Küstenatmosphäre in diesem eleganten Strandbad und probieren Sie unbedingt ein erfrischendes Getränk an der lokalen Strandbar.",
+            "hu": "Élvezze a nyugodt tengerparti légkört ebben az elegáns strandfürdőben, és feltétlenül kóstoljon meg egy frissítő italt a helyi tengerparti bárban.",
+            "ro": "Bucurați-vă de atmosfera relaxantă de coastă la această baie elegantă pe plajă și asigurați-vă că savurați o băutură răcoritoare la barul local pentru energie.",
+            "en": "Enjoy the relaxed coastal atmosphere at this elegant beach club, and be sure to try a refreshing drink at the local beach bar for a perfect afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Rino & Ivo",
+            "hu": "Rino & Ivo",
+            "ro": "Rino & Ivo",
+            "en": "Rino & Ivo"
+          },
+          "coords": [
+            12.650658,
+            44.010675
+          ],
+          "category": "recreational",
+          "arrive_at": "11:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bekannt für seinen hervorragenden familiären Service, ist dieser saubere Küstenabschnitt ideal für Kinder, bringen Sie also ein paar Strandspiele mit.",
+            "hu": "A kiváló, családias kiszolgálásáról ismert, tiszta partszakasz ideális gyermekek számára, ezért érdemes magával hoznia néhány vidám strandjátékot.",
+            "ro": "Cunoscută pentru serviciile excelente adresate familiilor, această zonă curată este ideală pentru copii, așa că aduceți câteva jocuri de plajă cu voi.",
+            "en": "Known for its excellent family-friendly service, this clean coastal stretch is ideal for children, so be sure to bring along some fun beach games."
+          }
+        },
+        {
+          "name": {
+            "de": "Oreste",
+            "hu": "Oreste",
+            "ro": "Oreste",
+            "en": "Oreste"
+          },
+          "coords": [
+            12.646476,
+            44.013539
+          ],
+          "category": "recreational",
+          "arrive_at": "13:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Dieser klassische Strand besticht durch seine bunten Schirme und weichen Sandstrände, packen Sie also Sonnencreme ein und mieten Sie ein Tretboot.",
+            "hu": "Ez a klasszikus strand színes napernyőivel és finom homokjával bűvöli el a látogatókat, ezért csomagoljon naptejet, és béreljen egy vízibiciklit.",
+            "ro": "Această plajă clasică captivează cu umbrelele sale colorate și nisipul fin, așa că puneți loțiune de plajă și închiriați o hidrobicicletă pentru distracție.",
+            "en": "This classic beach captivates visitors with its colorful umbrellas and soft sand, so pack plenty of sunscreen and rent a pedal boat for some extra fun."
+          }
+        },
+        {
+          "name": {
+            "de": "Giovanni",
+            "hu": "Giovanni",
+            "ro": "Giovanni",
+            "en": "Giovanni"
+          },
+          "coords": [
+            12.644234,
+            44.015117
+          ],
+          "category": "recreational",
+          "arrive_at": "14:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Ein wunderbarer Ort für Sportbegeisterte mit verschiedenen Beachvolleyballfeldern, also schnappen Sie sich einen Ball und genießen Sie die warme Sonne.",
+            "hu": "Csodálatos hely a sport szerelmeseinek a különböző strandröplabda-pályákkal, ezért ragadjon meg egy labdát, és élvezze a meleg, ragyogó napsütést.",
+            "ro": "Un loc minunat pentru iubitorii de sport, cu diverse terenuri de volei pe plajă, deci prindeți o minge și bucurați-vă din plin de soarele cald de vară.",
+            "en": "A wonderful spot for sports enthusiasts with various beach volleyball courts, so grab a ball and enjoy the warm sunshine and friendly local competitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Nettuno",
+            "hu": "Nettuno",
+            "ro": "Nettuno",
+            "en": "Nettuno"
+          },
+          "coords": [
+            12.64302,
+            44.015886
+          ],
+          "category": "recreational",
+          "arrive_at": "15:46",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erleben Sie einen atemberaubenden Blick auf die Adria und das sanfte Rauschen der Wellen, während Sie den Tag bei einem kühlen Eis entspannt ausklingen lassen.",
+            "hu": "Élvezze az Adriai-tengerre nyíló lélegzetelállító kilátást és a hullámok lágy morajlását, miközben a napot egy hűsítő, finom fagylalttal zárja le lazán.",
+            "ro": "Experimentați o vedere uimitoare la Marea Adriatică și sunetul blând al valurilor, încheind ziua într-un mod relaxant cu o înghețată rece, delicioasă.",
+            "en": "Experience breathtaking views of the Adriatic Sea and the gentle sound of waves, winding down your day in a relaxed manner with a cool, delicious gelato."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen an den zentralen Stränden von Riccione und spüren Sie den warmen Sand. Am Mittag machen Sie einen gemütlichen Spaziergang auf der Promenade und besuchen Beachclubs. Tauchen Sie nachmittags in die lebhafte Atmosphäre ein und probieren Sie Wassersport aus. Beenden Sie den Tag im nördlichen Teil und genießen Sie den Sonnenuntergang über der Adria.",
+        "hu": "Kezdje a reggelt Riccione központi strandjainak felfedezésével, érezve a meleg homokot. Délben tegyen egy kényelmes sétát a sétányon, frissítőkre megállva a strandklubokban. Délután merüljön el a nyüzsgő partvidéki légkörben, és próbáljon ki szórakoztató vízi sportokat. Fejezze be a napot az északi részen, megcsodálva a csodálatos naplementét az Adriai-tenger felett.",
+        "ro": "Începeți dimineața explorând plajele centrale din Riccione, simțind nisipul cald. La prânz, faceți o plimbare liniștită pe promenadă, oprindu-vă la diverse cluburi. După-amiaza, plonjați în atmosfera vibrantă de coastă și încercați câteva sporturi nautice. Încheiați-vă ziua în secțiunea de nord, bucurându-vă de apusul superb deasupra Mării Adriatice.",
+        "en": "Start your morning exploring the central beaches of Riccione, feeling the warm sand under your feet. By midday, take a leisurely stroll along the promenade, stopping at various beach clubs for refreshments. In the afternoon, dive into the lively coastal atmosphere and try some fun water sports. Finish your day in the northern section, enjoying the beautiful sunset over the Adriatic Sea."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 5.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Tilde e Virgilio",
+            "hu": "Tilde e Virgilio",
+            "ro": "Tilde e Virgilio",
+            "en": "Tilde e Virgilio"
+          },
+          "coords": [
+            12.688498,
+            43.985999
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ruhiger gelegen, bietet dieser südliche Strandabschnitt die perfekte Flucht vor den Massen, bringen Sie also ein gutes Buch für entspannte Lesestunden mit.",
+            "hu": "A csendesebb déli partszakasz tökéletes menedéket nyújt a tömeg elől, ezért hozzon magával egy jó könyvet a nyugodt, kellemes olvasáshoz a napfényben.",
+            "ro": "Situată mai liniștit, această secțiune sudică oferă evadarea perfectă de mulțime, așa că aduceți o carte bună pentru câteva ore de lectură relaxantă.",
+            "en": "Located in a quieter area, this southern beach stretch offers the perfect escape from the crowds, so bring a good book for some relaxing hours in the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Riccione 7",
+            "hu": "Riccione 7",
+            "ro": "Riccione 7",
+            "en": "Riccione 7"
+          },
+          "coords": [
+            12.686336,
+            43.987309
+          ],
+          "category": "recreational",
+          "arrive_at": "10:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein moderner Strandclub mit hervorragenden gastronomischen Einrichtungen, wo Sie unbedingt das frische Meeresfrüchte-Risotto zum Mittagessen probieren sollten.",
+            "hu": "Modern strandklub kiváló gasztronómiai létesítményekkel, ahol mindenképpen érdemes megkóstolni a friss, tenger gyümölcseivel készült rizottót ebédre.",
+            "ro": "Un club de plajă modern, cu facilități gastronomice excelente, unde ar trebui neapărat să încercați un risotto proaspăt cu fructe de mare la prânz.",
+            "en": "A modern beach club boasting excellent dining facilities, where you should definitely try the fresh seafood risotto for a truly memorable seaside lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Mario",
+            "hu": "Mario",
+            "ro": "Mario",
+            "en": "Mario"
+          },
+          "coords": [
+            12.655418,
+            44.007416
+          ],
+          "category": "recreational",
+          "arrive_at": "11:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Dieser belebte Strandabschnitt bietet goldenen Sand und ein tolles Ambiente, also kommen Sie früh, um die besten Sonnenliegen direkt am Wasser zu sichern.",
+            "hu": "Ez a nyüzsgő partszakasz aranyhomokkal és remek hangulattal várja, ezért érkezzen korán, hogy a legjobb napágyakat tudja lefoglalni a víz közvetlen közelében.",
+            "ro": "Această secțiune de plajă plină de viață oferă nisip auriu și o atmosferă grozavă, deci veniți devreme pentru a rezerva cele mai bune șezlonguri lângă apă.",
+            "en": "This lively stretch of beach offers golden sand and a great atmosphere, so arrive early to secure the best sun loungers right by the water's edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Oreste",
+            "hu": "Oreste",
+            "ro": "Oreste",
+            "en": "Oreste"
+          },
+          "coords": [
+            12.646476,
+            44.013539
+          ],
+          "category": "recreational",
+          "arrive_at": "13:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Dieser klassische Strand besticht durch seine bunten Schirme und weichen Sandstrände, packen Sie also Sonnencreme ein und mieten Sie ein Tretboot.",
+            "hu": "Ez a klasszikus strand színes napernyőivel és finom homokjával bűvöli el a látogatókat, ezért csomagoljon naptejet, és béreljen egy vízibiciklit.",
+            "ro": "Această plajă clasică captivează cu umbrelele sale colorate și nisipul fin, așa că puneți loțiune de plajă și închiriați o hidrobicicletă pentru distracție.",
+            "en": "This classic beach captivates visitors with its colorful umbrellas and soft sand, so pack plenty of sunscreen and rent a pedal boat for some extra fun."
+          }
+        },
+        {
+          "name": {
+            "de": "Marino",
+            "hu": "Marino",
+            "ro": "Marino",
+            "en": "Marino"
+          },
+          "coords": [
+            12.640732,
+            44.017648
+          ],
+          "category": "recreational",
+          "arrive_at": "14:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Das kristallklare Wasser und die gepflegten Anlagen laden zum längeren Verweilen ein, mieten Sie also ein Stand-Up-Paddle-Board für eine kleine Erkundung.",
+            "hu": "A kristálytiszta víz és a gondozott létesítmények hosszabb tartózkodásra csábítanak, ezért béreljen egy állószörföt egy kisebb, izgalmas felfedezőúthoz.",
+            "ro": "Apa cristalină și facilitățile bine întreținute vă invită să stați mai mult, deci închiriați o placă de stand-up paddle pentru o scurtă explorare.",
+            "en": "The crystal-clear water and well-maintained facilities invite you to linger longer, so rent a stand-up paddleboard for a short and exciting exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Hakuna Matata",
+            "hu": "Hakuna Matata",
+            "ro": "Hakuna Matata",
+            "en": "Hakuna Matata"
+          },
+          "coords": [
+            12.636249,
+            44.021031
+          ],
+          "category": "recreational",
+          "arrive_at": "15:55",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein sehr lebhafter und jugendlicher Treffpunkt an der nördlichen Küste, ideal um neue Leute kennenzulernen, also vergessen Sie Ihre stylische Sonnenbrille nicht.",
+            "hu": "Nagyon élénk és fiatalos találkozóhely az északi parton, ideális új emberek megismerésére, ezért ne felejtse el magával hozni stílusos napszemüvegét sem.",
+            "ro": "Un loc de întâlnire foarte plin de viață și tineresc pe coasta de nord, ideal pentru a cunoaște oameni noi, deci nu uitați ochelarii de soare stilați acasă.",
+            "en": "A highly lively and youthful meeting place on the northern coast, ideal for meeting new people, so don't forget to pack your most stylish sunglasses."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Fahrradtag beginnt an den ruhigen Südstränden mit einer sanften Morgenbrise. Mittags radeln Sie in Richtung der lebhaften zentralen Bereiche, wo die Energie spürbar wird. Verbringen Sie den Nachmittag damit, verschiedene Sandstrände zu erkunden, und machen Sie Eispausen. Beenden Sie Ihre Tour im Norden und beobachten Sie die Lichter auf dem Wasser.",
+        "hu": "A kerékpáros nap a csendesebb déli strandokon kezdődik, élvezve a nyugodt reggeli szellőt. Délben tekerjen a nyüzsgő központi területek felé, ahol a part menti élet igazán felpörög. Töltse a délutánt a különböző homokos szakaszok felfedezésével, fagyizással és a kilátással. Fejezze be a túrát az északi részen, figyelve az esti fényeket a vízen.",
+        "ro": "Ziua de ciclism începe în plajele sudice liniștite, oferind o briză senină de dimineață. Pe la prânz, pedalați spre zonele centrale vibrante unde energia este intensă. Petreceți după-amiaza explorând diverse întinderi de nisip, oprindu-vă pentru înghețată și vederi la ocean. Încheiați turul în partea de nord plină de viață, privind luminile reflectate.",
+        "en": "Your cycling day starts in the quiet southern beaches, offering a serene morning breeze. Around midday, pedal towards the vibrant central areas where the coastal energy really picks up. Spend the afternoon exploring different sandy stretches, pausing for gelato and ocean views. Conclude your tour in the lively northern part, watching the evening lights reflect on the water."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:10",
+      "total_km": 5.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Hakuna Matata",
+            "hu": "Hakuna Matata",
+            "ro": "Hakuna Matata",
+            "en": "Hakuna Matata"
+          },
+          "coords": [
+            12.636249,
+            44.021031
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein sehr lebhafter und jugendlicher Treffpunkt an der nördlichen Küste, ideal um neue Leute kennenzulernen, also vergessen Sie Ihre stylische Sonnenbrille nicht.",
+            "hu": "Nagyon élénk és fiatalos találkozóhely az északi parton, ideális új emberek megismerésére, ezért ne felejtse el magával hozni stílusos napszemüvegét sem.",
+            "ro": "Un loc de întâlnire foarte plin de viață și tineresc pe coasta de nord, ideal pentru a cunoaște oameni noi, deci nu uitați ochelarii de soare stilați acasă.",
+            "en": "A highly lively and youthful meeting place on the northern coast, ideal for meeting new people, so don't forget to pack your most stylish sunglasses."
+          }
+        },
+        {
+          "name": {
+            "de": "Nello",
+            "hu": "Nello",
+            "ro": "Nello",
+            "en": "Nello"
+          },
+          "coords": [
+            12.641753,
+            44.016919
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Traditioneller Charme trifft hier auf moderne Bequemlichkeit am Strand, nutzen Sie die geräumigen Kabinen zum Umziehen und lagern Sie Ihre Sachen sicher.",
+            "hu": "A hagyományos báj találkozik a modern tengerparti kényelemmel ezen a strandon, használja a tágas kabinokat az átöltözéshez és dolgai biztonságos tárolásához.",
+            "ro": "Farmecul tradițional întâlnește confortul modern aici pe plajă, așa că folosiți cabinele spațioase pentru a vă schimba și păstrați-vă lucrurile în siguranță.",
+            "en": "Traditional charm meets modern convenience here on the beach, so take advantage of the spacious cabins to change and store your personal belongings safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido delle sirene",
+            "hu": "Lido delle sirene",
+            "ro": "Lido delle sirene",
+            "en": "Lido delle sirene"
+          },
+          "coords": [
+            12.651622,
+            44.009991
+          ],
+          "category": "recreational",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die entspannte Küstenatmosphäre in diesem eleganten Strandbad und probieren Sie unbedingt ein erfrischendes Getränk an der lokalen Strandbar.",
+            "hu": "Élvezze a nyugodt tengerparti légkört ebben az elegáns strandfürdőben, és feltétlenül kóstoljon meg egy frissítő italt a helyi tengerparti bárban.",
+            "ro": "Bucurați-vă de atmosfera relaxantă de coastă la această baie elegantă pe plajă și asigurați-vă că savurați o băutură răcoritoare la barul local pentru energie.",
+            "en": "Enjoy the relaxed coastal atmosphere at this elegant beach club, and be sure to try a refreshing drink at the local beach bar for a perfect afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Rino & Ivo",
+            "hu": "Rino & Ivo",
+            "ro": "Rino & Ivo",
+            "en": "Rino & Ivo"
+          },
+          "coords": [
+            12.650658,
+            44.010675
+          ],
+          "category": "recreational",
+          "arrive_at": "13:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bekannt für seinen hervorragenden familiären Service, ist dieser saubere Küstenabschnitt ideal für Kinder, bringen Sie also ein paar Strandspiele mit.",
+            "hu": "A kiváló, családias kiszolgálásáról ismert, tiszta partszakasz ideális gyermekek számára, ezért érdemes magával hoznia néhány vidám strandjátékot.",
+            "ro": "Cunoscută pentru serviciile excelente adresate familiilor, această zonă curată este ideală pentru copii, așa că aduceți câteva jocuri de plajă cu voi.",
+            "en": "Known for its excellent family-friendly service, this clean coastal stretch is ideal for children, so be sure to bring along some fun beach games."
+          }
+        },
+        {
+          "name": {
+            "de": "Kikko",
+            "hu": "Kikko",
+            "ro": "Kikko",
+            "en": "Kikko"
+          },
+          "coords": [
+            12.687433,
+            43.986643
+          ],
+          "category": "recreational",
+          "arrive_at": "14:25",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Dieser charmante kleine Strandbereich bietet einen fantastischen Service direkt an den Liegen, bestellen Sie sich also einen frischen Eiskaffee für den Nachmittag.",
+            "hu": "Ez a bájos kis partszakasz fantasztikus szolgáltatást nyújt közvetlenül a napágyaknál, így rendeljen egy frissítő jegeskávét a tökéletes délutáni kikapcsolódáshoz.",
+            "ro": "Această mică plajă fermecătoare oferă servicii fantastice chiar la șezlonguri, deci comandați o cafea cu gheață proaspătă pentru o după-amiază grozavă.",
+            "en": "This charming little beach area offers fantastic service directly at the sun loungers, so order a refreshing iced coffee to perfectly complete your afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Roadtrip an den jugendlichen Nordstränden mit einem frühen Kaffee und Meerblick. Fahren Sie mittags zu den klassischen zentralen Resorts, um deren Gastfreundschaft zu erleben. Der Nachmittag eignet sich perfekt für Familienstrände, die viel Spaß bieten. Lassen Sie den Abend mit einer Fahrt zur ruhigen Südküste entspannt ausklingen.",
+        "hu": "Kezdje autós útját a fiatalos északi strandokon egy korai kávéval és tengerre néző kilátással. Ebédidőben vezessen a klasszikus központi üdülőhelyek felé, hogy megtapasztalja a vendégszeretetet. A délután tökéletes a családbarát szakaszok közötti ingázásra a kényelem érdekében. Zárja az estét a békés déli partra autózva egy csendes, pihentető befejezésért.",
+        "ro": "Începeți excursia cu mașina lângă plajele tinerești din nord, luând o cafea cu vedere la mare. La prânz, conduceți către stațiunile centrale clasice pentru ospitalitatea renumită. După-amiaza este perfectă pentru a sări între zonele potrivite familiilor, pline de distracție. Încheiați seara conducând spre coasta pașnică de sud pentru un final liniștit.",
+        "en": "Kick off your road trip by the youthful northern beaches, grabbing an early coffee with a sea view. By lunchtime, drive down to the classic central resorts to experience their renowned hospitality. The afternoon is perfect for hopping between family-friendly stretches, ensuring comfort and fun. Wrap up your evening driving to the peaceful southern coast for a quiet, relaxing finale."
+      }
+    }
+  }
+}

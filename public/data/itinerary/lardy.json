@@ -1,0 +1,474 @@
+{
+  "city_id": "lardy",
+  "anchor": {
+    "name": "Lardy",
+    "coords": [
+      2.2653,
+      48.5222
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 2.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Parc Boussard",
+            "hu": "Parc Boussard",
+            "ro": "Parc Boussard",
+            "en": "Parc Boussard"
+          },
+          "coords": [
+            2.2641,
+            48.522799
+          ],
+          "category": "park",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Art-déco-Gestaltung dieses wunderschön strukturierten Parks, in dem Sie einen ruhigen Morgenspaziergang unternehmen sollten.",
+            "hu": "Csodálja meg a park lenyűgöző art deco kialakítását, ahol érdemes egy csendes reggeli sétát tenni, mielőtt a déli hőség megérkezne.",
+            "ro": "Admirați designul Art Deco al acestui parc frumos structurat, unde ar trebui să faceți o plimbare liniștită dimineața înainte să se încălzească.",
+            "en": "Admire the Art Deco layout of this beautifully structured park, where you should take a peaceful morning stroll before the midday sun arrives."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Pierre",
+            "hu": "Saint-Pierre templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            2.266317,
+            48.522303
+          ],
+          "category": "religious",
+          "arrive_at": "10:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte dieser alten Steinmauern und denken Sie daran, die ruhigen Stunden während der örtlichen Messen zu respektieren.",
+            "hu": "Fedezze fel ezen ősi kőfalak gazdag történelmét, és ügyeljen arra, hogy tiszteletben tartsa a csendes órákat a helyi misék ideje alatt.",
+            "ro": "Descoperiți istoria bogată ascunsă în vechile ziduri de piatră ale bisericii și nu uitați să respectați orele de liniște în timpul slujbelor locale.",
+            "en": "Discover the rich history embedded in the ancient stone walls of this religious site, and remember to respect the quiet hours during local masses."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont de l'Hêtre",
+            "hu": "Pont de l'Hêtre",
+            "ro": "Podul de l'Hêtre",
+            "en": "Pont de l'Hêtre Bridge"
+          },
+          "coords": [
+            2.267198,
+            48.521431
+          ],
+          "category": "historical",
+          "arrive_at": "11:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese charmante historische Brücke, um die herrliche Aussicht auf das Wasser zu genießen, und halten Sie Ihre Kamera bereit.",
+            "hu": "Sétáljon át ezen a bájos történelmi hídon, hogy élvezze a csodás kilátást, és készítse elő a fényképezőgépét a tökéletes vízi tükröződéshez.",
+            "ro": "Traversați acest pod istoric fermecător pentru a vă bucura de priveliști minunate asupra apei, având aparatul foto pregătit pentru reflecția perfectă.",
+            "en": "Cross this charming historical bridge to enjoy lovely views over the water, making sure to have your camera ready to capture the perfect reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Château du Mesnil-Voisin",
+            "hu": "Château du Mesnil-Voisin",
+            "ro": "Château du Mesnil-Voisin",
+            "en": "Château du Mesnil-Voisin"
+          },
+          "coords": [
+            2.275824,
+            48.520556
+          ],
+          "category": "castle",
+          "arrive_at": "12:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Erkunden Sie die großartige Architektur dieses herrlichen Schlosses und informieren Sie sich vorab über Führungen, um die Innenräume zu sehen.",
+            "hu": "Fedezze fel ennek a csodálatos kastélynak a lenyűgöző építészetét, és előre tájékozódjon a vezetett túrákról, hogy bejuthasson a belső terekbe.",
+            "ro": "Explorați arhitectura măreață și domeniile acestui castel magnific, verificând programul tururilor ghidate pentru a avea acces în interior.",
+            "en": "Explore the grand architecture and sweeping grounds of this magnificent castle, checking ahead for guided tour schedules to access the interiors."
+          }
+        },
+        {
+          "name": {
+            "de": "Église de la Nativité-de-la-Très Sainte-Vierge",
+            "hu": "Église de la Nativité-de-la-Très Sainte-Vierge",
+            "ro": "Biserica Nativité-de-la-Très Sainte-Vierge",
+            "en": "Église de la Nativité-de-la-Très Sainte-Vierge"
+          },
+          "coords": [
+            2.260201,
+            48.513573
+          ],
+          "category": "religious",
+          "arrive_at": "14:20",
+          "stay_min": 70,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Moment der Stille in dieser charmanten Dorfkirche und betrachten Sie die Buntglasfenster, die im Nachmittagslicht am besten wirken.",
+            "hu": "Töltsön el egy csendes pillanatot ebben a bájos falusi templomban, és figyelje meg a délutáni fényben ragyogó, bonyolult ólomüveg részleteket.",
+            "ro": "Găsiți un moment de liniște în această biserică fermecătoare de sat, remarcând vitraliile complexe care se văd cel mai bine în lumina după-amiezii.",
+            "en": "Take a moment of quiet reflection in this charming village church, noting the intricate stained glass details best viewed in the afternoon light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einem erfrischenden Spaziergang durch den Parc Boussard und seiner besonderen Atmosphäre, gefolgt von der Kirche Saint-Pierre. Mittags überqueren Sie die historische Brücke Pont de l'Hêtre und genießen die ruhige Flusslandschaft. Der Nachmittag ist der Erkundung des majestätischen Château du Mesnil-Voisin gewidmet. Der Tag endet sanft mit einem besinnlichen Besuch der Église de la Nativité, was Ihre Wandertour friedlich abschließt.",
+        "hu": "A reggel egy frissítő sétával indul a Parc Boussard-ban, melyet a közeli Saint-Pierre templom nyugodt hangulata követ. Délben átkel a történelmi Pont de l'Hêtre hídon, élvezve a folyó finom áramlását. A délután a fenséges Château du Mesnil-Voisin felfedezésének van szentelve. A nap egy csendes látogatással zárul az Église de la Nativité templomban, békésen befejezve a gyalogos túrát.",
+        "ro": "Dimineața începe cu o plimbare răcoritoare prin Parc Boussard, urmată de ambianța calmă a Bisericii Saint-Pierre din apropiere. La prânz, veți traversa podul istoric Pont de l'Hêtre, bucurându-vă de curgerea lină a râului. După-amiaza este dedicată explorării mărețului Château du Mesnil-Voisin. Ziua se încheie liniștit cu o vizită la Église de la Nativité, punând capăt în mod pașnic turului dumneavoastră pietonal.",
+        "en": "Morning begins with a refreshing stroll through Parc Boussard, embracing its distinctive style, followed by the calm ambiance of the nearby Saint-Pierre Church. By midday, you'll cross the historical Pont de l'Hêtre Bridge, enjoying the subtle flow of the river below. The afternoon is dedicated to exploring the majestic grounds of Château du Mesnil-Voisin. The day gently concludes with a reflective visit to the Église de la Nativité, ending your walking tour peacefully."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:19",
+      "total_km": 8.65,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parc Boussard",
+            "hu": "Parc Boussard",
+            "ro": "Parc Boussard",
+            "en": "Parc Boussard"
+          },
+          "coords": [
+            2.2641,
+            48.522799
+          ],
+          "category": "park",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Art-déco-Gestaltung dieses wunderschön strukturierten Parks, in dem Sie einen ruhigen Morgenspaziergang unternehmen sollten.",
+            "hu": "Csodálja meg a park lenyűgöző art deco kialakítását, ahol érdemes egy csendes reggeli sétát tenni, mielőtt a déli hőség megérkezne.",
+            "ro": "Admirați designul Art Deco al acestui parc frumos structurat, unde ar trebui să faceți o plimbare liniștită dimineața înainte să se încălzească.",
+            "en": "Admire the Art Deco layout of this beautifully structured park, where you should take a peaceful morning stroll before the midday sun arrives."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont de l'Hêtre",
+            "hu": "Pont de l'Hêtre",
+            "ro": "Podul de l'Hêtre",
+            "en": "Pont de l'Hêtre Bridge"
+          },
+          "coords": [
+            2.267198,
+            48.521431
+          ],
+          "category": "historical",
+          "arrive_at": "10:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese charmante historische Brücke, um die herrliche Aussicht auf das Wasser zu genießen, und halten Sie Ihre Kamera bereit.",
+            "hu": "Sétáljon át ezen a bájos történelmi hídon, hogy élvezze a csodás kilátást, és készítse elő a fényképezőgépét a tökéletes vízi tükröződéshez.",
+            "ro": "Traversați acest pod istoric fermecător pentru a vă bucura de priveliști minunate asupra apei, având aparatul foto pregătit pentru reflecția perfectă.",
+            "en": "Cross this charming historical bridge to enjoy lovely views over the water, making sure to have your camera ready to capture the perfect reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Château du Mesnil-Voisin",
+            "hu": "Château du Mesnil-Voisin",
+            "ro": "Château du Mesnil-Voisin",
+            "en": "Château du Mesnil-Voisin"
+          },
+          "coords": [
+            2.275824,
+            48.520556
+          ],
+          "category": "castle",
+          "arrive_at": "11:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Erkunden Sie die großartige Architektur dieses herrlichen Schlosses und informieren Sie sich vorab über Führungen, um die Innenräume zu sehen.",
+            "hu": "Fedezze fel ennek a csodálatos kastélynak a lenyűgöző építészetét, és előre tájékozódjon a vezetett túrákról, hogy bejuthasson a belső terekbe.",
+            "ro": "Explorați arhitectura măreață și domeniile acestui castel magnific, verificând programul tururilor ghidate pentru a avea acces în interior.",
+            "en": "Explore the grand architecture and sweeping grounds of this magnificent castle, checking ahead for guided tour schedules to access the interiors."
+          }
+        },
+        {
+          "name": {
+            "de": "Ufer der Juine",
+            "hu": "Juine folyó partja",
+            "ro": "Malurile râului Juine",
+            "en": "Juine River Banks"
+          },
+          "coords": [
+            2.29688,
+            48.532624
+          ],
+          "category": "natural",
+          "arrive_at": "13:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang der natürlichen Uferpfade, um Vögel zu beobachten, und bringen Sie ein kleines Picknick mit, um es am Wasser zu genießen.",
+            "hu": "Sétáljon a folyópart természetes ösvényein kiváló madármegfigyeléshez, és hozzon magával egy kis pikniket a víz nyugtató folyásánál.",
+            "ro": "Plimbați-vă pe cărările naturale ale malurilor râului pentru a observa păsările și aduceți un mic picnic pentru a vă bucura lângă apa liniștită.",
+            "en": "Stroll along the natural pathways of the river banks for excellent birdwatching, and bring a small picnic to enjoy near the water's calming flow."
+          }
+        },
+        {
+          "name": {
+            "de": "Pierre-Levée Dolmen",
+            "hu": "Pierre-Levée Dolmen",
+            "ro": "Dolmenul Pierre-Levée",
+            "en": "Dolmen dit la Pierre-Levée"
+          },
+          "coords": [
+            2.262794,
+            48.509322
+          ],
+          "category": "historical",
+          "arrive_at": "14:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die uralten Mysterien dieses prähistorischen Megalithen und tragen Sie feste Wanderschuhe, da das Gelände etwas uneben sein kann.",
+            "hu": "Csodálja meg ezen történelem előtti megalit körüli ősi rejtélyeket, és viseljen kényelmes túracipőt, mivel a környező terep kissé egyenetlen.",
+            "ro": "Minunați-vă de misterele antice ale acestui megalit preistoric, purtând încălțăminte robustă, deoarece terenul înconjurător poate fi accidentat.",
+            "en": "Marvel at the ancient mysteries surrounding this prehistoric megalith, wearing sturdy walking shoes as the surrounding terrain can be a bit uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Gillevoisin",
+            "hu": "Château de Gillevoisin",
+            "ro": "Château de Gillevoisin",
+            "en": "Château de Gillevoisin"
+          },
+          "coords": [
+            2.237125,
+            48.511242
+          ],
+          "category": "castle",
+          "arrive_at": "16:29",
+          "stay_min": 110,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das faszinierende Erbe dieses majestätischen Anwesens in der Natur, bleiben Sie jedoch auf markierten Wegen, um das Gelände zu respektieren.",
+            "hu": "Fedezze fel a természetben megbúvó fenséges birtok lenyűgöző örökségét, de érdemes a kijelölt ösvényeken maradni a magánterület tiszteletben tartásához.",
+            "ro": "Descoperiți moștenirea fascinantă a acestui domeniu majestuos ascuns în natură, dar este înțelept să rămâneți pe poteci pentru a respecta zona privată.",
+            "en": "Uncover the fascinating legacy of this majestic estate nestled in nature, though it is wise to stay on marked paths to respect the private grounds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radtag beginnt im Herzen von Lardy im Parc Boussard und führt Sie mühelos zur legendären Brücke Pont de l'Hêtre für malerische Flussansichten. Mittags erreichen Sie das großartige Château du Mesnil-Voisin, bevor Sie entspannt am Ufer der Juine radeln. Am Nachmittag entdecken Sie prähistorische Geheimnisse am Pierre-Levée Dolmen. Die Fahrt endet am ruhigen Château de Gillevoisin und bietet ein lohnendes Abendambiente.",
+        "hu": "A kerékpáros nap Lardy szívében, a Parc Boussard-ban kezdődik, majd zökkenőmentesen tekerhet át a festői Pont de l'Hêtre hídhoz. Délben megcsodálhatja a Château du Mesnil-Voisin nagyszerűségét, mielőtt a Juine folyó partján gurulna. Délután fedezze fel a történelem előtti titkokat a Pierre-Levée Dolmennél. A túra a békés Château de Gillevoisin-nél ér véget, amely jutalmazó esti hangulatot kínál.",
+        "ro": "Ziua de ciclism începe în inima orașului Lardy la Parc Boussard, pedalând apoi către podul istoric Pont de l'Hêtre pentru priveliști pitorești. La prânz ajungeți la mărețul Château du Mesnil-Voisin, înainte de o plimbare relaxantă pe malurile râului Juine. După-amiaza descoperiți secretele preistorice la Dolmenul Pierre-Levée. Călătoria se încheie la liniștitul Château de Gillevoisin, oferind o ambianță plăcută de seară.",
+        "en": "Your cycling day starts in the heart of Lardy at Parc Boussard, seamlessly pedaling over to the iconic Pont de l'Hêtre Bridge for picturesque river views. Midday brings you to the grandeur of Château du Mesnil-Voisin before a breezy ride along the Juine River Banks. During the afternoon, discover prehistoric secrets at the Pierre-Levée Dolmen. The ride concludes at the serene Château de Gillevoisin, offering a rewarding evening ambiance to finish your trip."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 15.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathauspark",
+            "hu": "Városháza park",
+            "ro": "Parcul Primăriei",
+            "en": "Town Hall Park"
+          },
+          "coords": [
+            2.221784,
+            48.57937
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Ausflug entspannt in diesem gepflegten Bürgerpark und holen Sie sich in der Nähe ein lokales Gebäck für die gemütlichen Bänke.",
+            "hu": "Kezdje a kirándulást ebben a jól karbantartott városi parkban, és vásároljon a közelben egy helyi péksüteményt, amit a kényelmes padokon elfogyaszthat.",
+            "ro": "Începeți excursia relaxându-vă în acest parc civic bine întreținut, cumpărând un produs de patiserie local pentru a-l savura pe una dintre bănci.",
+            "en": "Begin your excursion by relaxing in this well-maintained civic park, picking up a local pastry nearby to enjoy on one of the comfortable benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Boussard",
+            "hu": "Parc Boussard",
+            "ro": "Parc Boussard",
+            "en": "Parc Boussard"
+          },
+          "coords": [
+            2.2641,
+            48.522799
+          ],
+          "category": "park",
+          "arrive_at": "10:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Art-déco-Gestaltung dieses wunderschön strukturierten Parks, in dem Sie einen ruhigen Morgenspaziergang unternehmen sollten.",
+            "hu": "Csodálja meg a park lenyűgöző art deco kialakítását, ahol érdemes egy csendes reggeli sétát tenni, mielőtt a déli hőség megérkezne.",
+            "ro": "Admirați designul Art Deco al acestui parc frumos structurat, unde ar trebui să faceți o plimbare liniștită dimineața înainte să se încălzească.",
+            "en": "Admire the Art Deco layout of this beautifully structured park, where you should take a peaceful morning stroll before the midday sun arrives."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Pierre",
+            "hu": "Saint-Pierre templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            2.266317,
+            48.522303
+          ],
+          "category": "religious",
+          "arrive_at": "11:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte dieser alten Steinmauern und denken Sie daran, die ruhigen Stunden während der örtlichen Messen zu respektieren.",
+            "hu": "Fedezze fel ezen ősi kőfalak gazdag történelmét, és ügyeljen arra, hogy tiszteletben tartsa a csendes órákat a helyi misék ideje alatt.",
+            "ro": "Descoperiți istoria bogată ascunsă în vechile ziduri de piatră ale bisericii și nu uitați să respectați orele de liniște în timpul slujbelor locale.",
+            "en": "Discover the rich history embedded in the ancient stone walls of this religious site, and remember to respect the quiet hours during local masses."
+          }
+        },
+        {
+          "name": {
+            "de": "Château du Mesnil-Voisin",
+            "hu": "Château du Mesnil-Voisin",
+            "ro": "Château du Mesnil-Voisin",
+            "en": "Château du Mesnil-Voisin"
+          },
+          "coords": [
+            2.275824,
+            48.520556
+          ],
+          "category": "castle",
+          "arrive_at": "12:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die großartige Architektur dieses herrlichen Schlosses und informieren Sie sich vorab über Führungen, um die Innenräume zu sehen.",
+            "hu": "Fedezze fel ennek a csodálatos kastélynak a lenyűgöző építészetét, és előre tájékozódjon a vezetett túrákról, hogy bejuthasson a belső terekbe.",
+            "ro": "Explorați arhitectura măreață și domeniile acestui castel magnific, verificând programul tururilor ghidate pentru a avea acces în interior.",
+            "en": "Explore the grand architecture and sweeping grounds of this magnificent castle, checking ahead for guided tour schedules to access the interiors."
+          }
+        },
+        {
+          "name": {
+            "de": "Ufer der Juine",
+            "hu": "Juine folyó partja",
+            "ro": "Malurile râului Juine",
+            "en": "Juine River Banks"
+          },
+          "coords": [
+            2.29688,
+            48.532624
+          ],
+          "category": "natural",
+          "arrive_at": "14:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang der natürlichen Uferpfade, um Vögel zu beobachten, und bringen Sie ein kleines Picknick mit, um es am Wasser zu genießen.",
+            "hu": "Sétáljon a folyópart természetes ösvényein kiváló madármegfigyeléshez, és hozzon magával egy kis pikniket a víz nyugtató folyásánál.",
+            "ro": "Plimbați-vă pe cărările naturale ale malurilor râului pentru a observa păsările și aduceți un mic picnic pentru a vă bucura lângă apa liniștită.",
+            "en": "Stroll along the natural pathways of the river banks for excellent birdwatching, and bring a small picnic to enjoy near the water's calming flow."
+          }
+        },
+        {
+          "name": {
+            "de": "Pierre-Levée Dolmen",
+            "hu": "Pierre-Levée Dolmen",
+            "ro": "Dolmenul Pierre-Levée",
+            "en": "Dolmen dit la Pierre-Levée"
+          },
+          "coords": [
+            2.262794,
+            48.509322
+          ],
+          "category": "historical",
+          "arrive_at": "15:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die uralten Mysterien dieses prähistorischen Megalithen und tragen Sie feste Wanderschuhe, da das Gelände etwas uneben sein kann.",
+            "hu": "Csodálja meg ezen történelem előtti megalit körüli ősi rejtélyeket, és viseljen kényelmes túracipőt, mivel a környező terep kissé egyenetlen.",
+            "ro": "Minunați-vă de misterele antice ale acestui megalit preistoric, purtând încălțăminte robustă, deoarece terenul înconjurător poate fi accidentat.",
+            "en": "Marvel at the ancient mysteries surrounding this prehistoric megalith, wearing sturdy walking shoes as the surrounding terrain can be a bit uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Gillevoisin",
+            "hu": "Château de Gillevoisin",
+            "ro": "Château de Gillevoisin",
+            "en": "Château de Gillevoisin"
+          },
+          "coords": [
+            2.237125,
+            48.511242
+          ],
+          "category": "castle",
+          "arrive_at": "16:50",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das faszinierende Erbe dieses majestätischen Anwesens in der Natur, bleiben Sie jedoch auf markierten Wegen, um das Gelände zu respektieren.",
+            "hu": "Fedezze fel a természetben megbúvó fenséges birtok lenyűgöző örökségét, de érdemes a kijelölt ösvényeken maradni a magánterület tiszteletben tartásához.",
+            "ro": "Descoperiți moștenirea fascinantă a acestui domeniu majestuos ascuns în natură, dar este înțelept să rămâneți pe poteci pentru a respecta zona privată.",
+            "en": "Uncover the fascinating legacy of this majestic estate nestled in nature, though it is wise to stay on marked paths to respect the private grounds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zum weitläufigen Rathauspark und dann zum Parc Boussard, um das gepflegte Layout und den historischen Charme zu schätzen. Tauchen Sie mittags in das elegante Erbe der Kirche Saint-Pierre und des weitläufigen Château du Mesnil-Voisin ein. Der Nachmittag bietet landschaftlich reizvolle Fahrten am Ufer der Juine und prähistorische Erkundungen am Dolmen. Verbringen Sie schließlich einen entspannten Abend am Château de Gillevoisin.",
+        "hu": "Autózzon ki a tágas Városháza parkba, hogy ott kezdje a reggelt, majd menjen a Parc Boussard-ba a gondos elrendezés és a történelmi varázs miatt. Délben merüljön el a Saint-Pierre templom és a hatalmas Château du Mesnil-Voisin elegáns örökségében. A délután festői autózást kínál a Juine folyó mentén és őskori felfedezést a Dolmennél. Végül töltsön egy pihentető estét a Château de Gillevoisin környékén.",
+        "ro": "Conduceți către parcul spațios al Primăriei dimineața, apoi mergeți la Parc Boussard pentru a aprecia farmecul său istoric. La prânz, cufundați-vă în patrimoniul elegant al Bisericii Saint-Pierre și al întinsului Château du Mesnil-Voisin. După-amiaza oferă un amestec de condus pitoresc pe malurile râului Juine și explorare preistorică la Dolmen. În cele din urmă, petreceți o seară relaxantă explorând marginile Château de Gillevoisin.",
+        "en": "Drive out to the spacious Town Hall Park to start the morning, then cruise to Parc Boussard to appreciate its meticulous layout and nearby historical charm. At midday, immerse yourself in the elegant heritage of Saint-Pierre Church and the sprawling Château du Mesnil-Voisin. The afternoon offers a mix of scenic driving by the Juine River Banks and prehistoric exploration at the Dolmen. Finally, spend a relaxed evening wandering the edges of Château de Gillevoisin."
+      }
+    }
+  }
+}

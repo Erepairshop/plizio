@@ -1,0 +1,497 @@
+{
+  "city_id": "italy-follonica-cities-v2",
+  "anchor": {
+    "name": "Follonica",
+    "coords": [
+      10.76163,
+      42.92633
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:51",
+      "total_km": 1.41,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "San Leopoldo",
+            "hu": "San Leopoldo",
+            "ro": "San Leopoldo",
+            "en": "San Leopoldo"
+          },
+          "coords": [
+            10.760214,
+            42.923846
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die eiserne Architektur der Kirche San Leopoldo, ein Symbol der Gießereigeschichte, und besuchen Sie sie morgens für das beste Licht.",
+            "hu": "Csodálja meg a San Leopoldo templom öntöttvas építészetét, a város ipari múltjának szimbólumát, és látogassa meg délelőtt a legjobb fényviszonyokért.",
+            "ro": "Admirați arhitectura din fontă a bisericii San Leopoldo, un simbol al istoriei industriale, și vizitați-o dimineața pentru cea mai bună lumină.",
+            "en": "Admire the cast-iron architecture of San Leopoldo church, a symbol of the town's industrial foundry history, and visit in the morning for the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Granducale",
+            "hu": "Palazzo Granducale",
+            "ro": "Palazzo Granducale",
+            "en": "Palazzo Granducale"
+          },
+          "coords": [
+            10.760357,
+            42.921658
+          ],
+          "category": "historical",
+          "arrive_at": "09:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Entdecken Sie die elegante Residenz des Großherzogs Palazzo Granducale im historischen Zentrum und achten Sie auf die raffinierten architektonischen Details am Eingang.",
+            "hu": "Fedezze fel a nagyherceg elegáns rezidenciáját, a Palazzo Granducalét a történelmi központban, és figyeljen a bejárat kifinomult építészeti részleteire.",
+            "ro": "Descoperiți eleganta reședință a Marelui Duce Palazzo Granducale din centrul istoric și acordați atenție detaliilor arhitecturale rafinate de la intrare.",
+            "en": "Discover the elegant Grand Duke's residence Palazzo Granducale in the historical center, and pay close attention to the refined architectural details at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "MAGMA",
+            "hu": "MAGMA",
+            "ro": "MAGMA",
+            "en": "MAGMA"
+          },
+          "coords": [
+            10.762138,
+            42.922657
+          ],
+          "category": "museum",
+          "arrive_at": "11:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Tauchen Sie im MAGMA-Museum in die faszinierende Eisenverarbeitung der Region ein und buchen Sie Ihre Tickets am besten vorab online, um Wartezeiten zu vermeiden.",
+            "hu": "Merüljön el a régió lenyűgöző vasfeldolgozásában a MAGMA múzeumban, és érdemes előre online lefoglalni a jegyeket, hogy elkerülje a várakozást a bejáratnál.",
+            "ro": "Pătrundeți în istoria prelucrării fierului la muzeul MAGMA și rezervați-vă biletele online în avans pentru a evita timpii de așteptare la intrare în plin sezon.",
+            "en": "Delve into the region's fascinating ironworking history at the MAGMA museum, and be sure to book your tickets online in advance to avoid waiting in line at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Pinacoteca Civica Amedeo Modigliani",
+            "hu": "Pinacoteca Civica Amedeo Modigliani",
+            "ro": "Pinacoteca Civica Amedeo Modigliani",
+            "en": "Pinacoteca Civica Amedeo Modigliani"
+          },
+          "coords": [
+            10.756556,
+            42.921091
+          ],
+          "category": "museum",
+          "arrive_at": "13:04",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Betrachten Sie moderne Kunstwerke in der Pinacoteca Civica Amedeo Modigliani, die lokale Künstler feiert, und nehmen Sie sich Zeit für die wechselnden Ausstellungen.",
+            "hu": "Tekintse meg a helyi művészeket ünneplő Pinacoteca Civica Amedeo Modigliani modern műalkotásait, és szánjon elegendő időt az izgalmas időszaki kiállításokra is.",
+            "ro": "Contemplați arta modernă la Pinacoteca Civica Amedeo Modigliani, care celebrează artiștii locali, și alocați timp pentru a explora expozițiile temporare captivante.",
+            "en": "View modern artworks at the Pinacoteca Civica Amedeo Modigliani celebrating local artists, and take plenty of time to explore the engaging temporary exhibitions inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Tomboli di Follonica",
+            "hu": "Tomboli di Follonica",
+            "ro": "Tomboli di Follonica",
+            "en": "Tomboli di Follonica"
+          },
+          "coords": [
+            10.753807,
+            42.923732
+          ],
+          "category": "natural",
+          "arrive_at": "14:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch das grüne Naturschutzgebiet Tomboli di Follonica für eine erfrischende Pause unter Pinien und bringen Sie unbedingt Insektenschutzmittel mit.",
+            "hu": "Sétáljon a Tomboli di Follonica zöld természetvédelmi területén egy frissítő pihenőért a fenyők alatt, és mindenképpen vigyen magával rovarriasztót a túrához.",
+            "ro": "Plimbați-vă prin rezervația naturală verde Tomboli di Follonica pentru o pauză răcoroasă sub pini și asigurați-vă că aduceți spray împotriva insectelor.",
+            "en": "Stroll through the lush Tomboli di Follonica nature reserve for a refreshing break under the pine trees, and make sure to bring insect repellent for a comfortable walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Orchidea",
+            "hu": "Bagno Orchidea",
+            "ro": "Bagno Orchidea",
+            "en": "Bagno Orchidea"
+          },
+          "coords": [
+            10.752443,
+            42.922808
+          ],
+          "category": "recreational",
+          "arrive_at": "16:06",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am Sandstrand des Bagno Orchidea bei sanftem Meeresrauschen und mieten Sie frühzeitig einen Liegestuhl, um den besten Platz am Wasser zu sichern.",
+            "hu": "Pihenjen a Bagno Orchidea homokos strandján a lágy tengerzúgás mellett, és béreljen korán napágyat, hogy a legjobb helyet biztosítsa magának közvetlenül a vízparton.",
+            "ro": "Relaxați-vă pe plaja de nisip de la Bagno Orchidea cu sunetul blând al mării și închiriați un șezlong devreme pentru a vă asigura cel mai bun loc la malul apei.",
+            "en": "Relax on the sandy beach of Bagno Orchidea with the gentle sound of the sea, and rent a sun lounger early in the day to secure the best spot right by the water's edge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen in Follonica beginnt mit der industriellen Eleganz der Kirche San Leopoldo, gefolgt vom majestätischen Palazzo Granducale.\nMittags tauchen Sie im MAGMA-Museum tief in die Geschichte der Eisenverarbeitung ein, bevor Sie moderne Meisterwerke in der Pinacoteca bewundern.\nAm Nachmittag schlendern Sie gemütlich durch das schattige Naturreservat der Tomboli di Follonica.\nDer Tag endet entspannt am Strand von Bagno Orchidea, wo das sanfte Rauschen der Wellen den perfekten Abschluss dieses Spaziergangs bildet.",
+        "hu": "A reggel Follonicában a San Leopoldo templom ipari eleganciájával kezdődik, melyet a fenséges Palazzo Granducale követ a sétánk során.\nDélben a MAGMA múzeumban elmerülünk a vasfeldolgozás történetében, mielőtt megcsodálnánk a modern remekműveket a Pinacoteca Civica termeiben.\nDélután egy kellemes, árnyékos sétát teszünk a Tomboli di Follonica természetvédelmi terület zöld fenyőfái alatt.\nA nap a Bagno Orchidea homokos strandján ér véget, ahol a hullámok lágy zúgása tökéletes befejezése ennek az élménydús gyalogos városnézésnek.",
+        "ro": "Dimineața în Follonica începe cu eleganța industrială a bisericii San Leopoldo, urmată de maiestuosul Palazzo Granducale în centrul orașului.\nLa prânz, aprofundați istoria prelucrării fierului la muzeul MAGMA, înainte de a admira capodoperele moderne la Pinacoteca Civica din apropiere.\nDupă-amiaza, faceți o plimbare liniștită prin rezervația naturală umbrită Tomboli di Follonica, printre pinii parfumați.\nZiua se încheie relaxant pe plaja de la Bagno Orchidea, unde sunetul blând al valurilor mării oferă finalul perfect pentru această plimbare.",
+        "en": "Morning in Follonica begins with the industrial elegance of the San Leopoldo church, followed closely by the majestic Palazzo Granducale.\nAt midday, dive deep into the town's ironworking history at the MAGMA museum, before admiring modern masterpieces at the Pinacoteca Civica.\nIn the afternoon, enjoy a leisurely stroll through the shaded, fragrant pine trees of the Tomboli di Follonica nature reserve.\nThe day concludes peacefully on the sandy shores of Bagno Orchidea, where the gentle sound of the waves provides the perfect end to your walk."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:46",
+      "total_km": 3.23,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Santi Pietro e Paolo",
+            "hu": "Santi Pietro e Paolo",
+            "ro": "Santi Pietro e Paolo",
+            "en": "Santi Pietro e Paolo"
+          },
+          "coords": [
+            10.774271,
+            42.922115
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Fassade der Kirche Santi Pietro e Paolo abseits der Touristenpfade und respektieren Sie die Ruhe während der Gottesdienste am Morgen.",
+            "hu": "Csodálja meg a Santi Pietro e Paolo templom egyszerű homlokzatát távol a turisták útvonalától, és tartsa tiszteletben a nyugalmat a reggeli istentiszteletek alatt.",
+            "ro": "Admirați fațada simplă a bisericii Santi Pietro e Paolo departe de traseele turistice și respectați liniștea și intimitatea în timpul slujbelor religioase de dimineață.",
+            "en": "Admire the simple facade of the Santi Pietro e Paolo church off the beaten tourist path, and be sure to respect the quiet atmosphere during morning religious services."
+          }
+        },
+        {
+          "name": {
+            "de": "MAGMA",
+            "hu": "MAGMA",
+            "ro": "MAGMA",
+            "en": "MAGMA"
+          },
+          "coords": [
+            10.762138,
+            42.922657
+          ],
+          "category": "museum",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.99,
+          "tip_5lang": {
+            "de": "Tauchen Sie im MAGMA-Museum in die faszinierende Eisenverarbeitung der Region ein und buchen Sie Ihre Tickets am besten vorab online, um Wartezeiten zu vermeiden.",
+            "hu": "Merüljön el a régió lenyűgöző vasfeldolgozásában a MAGMA múzeumban, és érdemes előre online lefoglalni a jegyeket, hogy elkerülje a várakozást a bejáratnál.",
+            "ro": "Pătrundeți în istoria prelucrării fierului la muzeul MAGMA și rezervați-vă biletele online în avans pentru a evita timpii de așteptare la intrare în plin sezon.",
+            "en": "Delve into the region's fascinating ironworking history at the MAGMA museum, and be sure to book your tickets online in advance to avoid waiting in line at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "San Leopoldo",
+            "hu": "San Leopoldo",
+            "ro": "San Leopoldo",
+            "en": "San Leopoldo"
+          },
+          "coords": [
+            10.760214,
+            42.923846
+          ],
+          "category": "religious",
+          "arrive_at": "11:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die eiserne Architektur der Kirche San Leopoldo, ein Symbol der Gießereigeschichte, und besuchen Sie sie morgens für das beste Licht.",
+            "hu": "Csodálja meg a San Leopoldo templom öntöttvas építészetét, a város ipari múltjának szimbólumát, és látogassa meg délelőtt a legjobb fényviszonyokért.",
+            "ro": "Admirați arhitectura din fontă a bisericii San Leopoldo, un simbol al istoriei industriale, și vizitați-o dimineața pentru cea mai bună lumină.",
+            "en": "Admire the cast-iron architecture of San Leopoldo church, a symbol of the town's industrial foundry history, and visit in the morning for the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Altrimondi",
+            "hu": "Altrimondi",
+            "ro": "Altrimondi",
+            "en": "Altrimondi"
+          },
+          "coords": [
+            10.757744,
+            42.921115
+          ],
+          "category": "cultural",
+          "arrive_at": "12:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden kulturellen Exponate bei Altrimondi, um die zeitgenössische Szene Follonicas zu erleben, und prüfen Sie vorher die Öffnungszeiten.",
+            "hu": "Fedezze fel az Altrimondi lenyűgöző kulturális kiállításait, hogy megtapasztalja Follonica kortárs színterét, és indulás előtt mindenképpen ellenőrizze a nyitvatartást.",
+            "ro": "Explorați expozițiile culturale fascinante de la Altrimondi pentru a experimenta scena contemporană, și verificați orarul de funcționare înainte de a planifica vizita.",
+            "en": "Explore the fascinating cultural exhibits at Altrimondi to truly experience Follonica's contemporary scene, and check the opening hours beforehand to plan your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Tomboli di Follonica",
+            "hu": "Tomboli di Follonica",
+            "ro": "Tomboli di Follonica",
+            "en": "Tomboli di Follonica"
+          },
+          "coords": [
+            10.753807,
+            42.923732
+          ],
+          "category": "natural",
+          "arrive_at": "14:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch das grüne Naturschutzgebiet Tomboli di Follonica für eine erfrischende Pause unter Pinien und bringen Sie unbedingt Insektenschutzmittel mit.",
+            "hu": "Sétáljon a Tomboli di Follonica zöld természetvédelmi területén egy frissítő pihenőért a fenyők alatt, és mindenképpen vigyen magával rovarriasztót a túrához.",
+            "ro": "Plimbați-vă prin rezervația naturală verde Tomboli di Follonica pentru o pauză răcoroasă sub pini și asigurați-vă că aduceți spray împotriva insectelor.",
+            "en": "Stroll through the lush Tomboli di Follonica nature reserve for a refreshing break under the pine trees, and make sure to bring insect repellent for a comfortable walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Nostra Signora di Lourdes",
+            "hu": "Nostra Signora di Lourdes",
+            "ro": "Nostra Signora di Lourdes",
+            "en": "Nostra Signora di Lourdes"
+          },
+          "coords": [
+            10.747369,
+            42.926746
+          ],
+          "category": "religious",
+          "arrive_at": "15:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.62,
+          "tip_5lang": {
+            "de": "Besuchen Sie die moderne Kirche Nostra Signora di Lourdes mit ihren interessanten architektonischen Linien und genießen Sie den Moment der Stille abseits des Trubels.",
+            "hu": "Látogasson el a Nostra Signora di Lourdes modern templomába érdekes építészeti vonalaival, és élvezze a csendes pillanatot, távol a tengerpart nyüzsgő forgatagától.",
+            "ro": "Vizitați biserica modernă Nostra Signora di Lourdes cu liniile sale arhitecturale interesante și bucurați-vă de momentul de liniște departe de agitația plajei.",
+            "en": "Visit the modern Nostra Signora di Lourdes church with its interesting architectural lines, and enjoy a quiet moment of reflection away from the bustling beach crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Snoopy",
+            "hu": "Snoopy",
+            "ro": "Snoopy",
+            "en": "Snoopy"
+          },
+          "coords": [
+            10.740111,
+            42.928749
+          ],
+          "category": "recreational",
+          "arrive_at": "16:01",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.63,
+          "tip_5lang": {
+            "de": "Genießen Sie den Nachmittag am Strandbad Snoopy, das ideal für Familien ist, und probieren Sie die lokalen Snacks an der Bar, während die Kinder im Sand spielen.",
+            "hu": "Élvezze a délutánt a családok számára ideális Snoopy strandon, és kóstolja meg a helyi snackeket a bárban, miközben a gyerekek biztonságosan játszanak a homokban.",
+            "ro": "Bucurați-vă de după-amiaza la plaja Snoopy, care este ideală pentru familii, și gustați gustările locale la bar în timp ce copiii se joacă în siguranță în nisip.",
+            "en": "Enjoy the afternoon at the family-friendly Snoopy beach club along the coast, and try the local snacks at the bar while the children play safely in the warm sand."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour an der ruhigen Kirche Santi Pietro e Paolo und radeln Sie dann zum beeindruckenden Industriemuseum MAGMA.\nNach dem Besuch der historischen Kirche San Leopoldo erkunden Sie die faszinierenden Ausstellungen für zeitgenössische Kultur bei Altrimondi.\nDer Nachmittag führt Sie durch das grüne Reservat der Tomboli zur modernen Kirche Nostra Signora di Lourdes abseits des Zentrums.\nBeenden Sie Ihre sportliche Tour am Familienstrand Snoopy, wo Sie den Abend bei einer leichten Brise und einem kühlen Getränk ausklingen lassen.",
+        "hu": "Kezdje a kerékpártúrát a csendes Santi Pietro e Paolo templomnál, majd tekerjen el a lenyűgöző MAGMA ipartörténeti múzeumhoz a központban.\nA történelmi San Leopoldo templom után fedezze fel az Altrimondi kortárs kulturális kiállításait, amelyek a város modern arcát mutatják be.\nA délután a Tomboli zöld rezervátumán keresztül a modern Nostra Signora di Lourdes templomhoz vezet, távolabb a nyüzsgő városközponttól.\nFejezze be a sportos túrát a Snoopy családi strandon, ahol a kellemes tengeri szellő és egy hűsítő ital kíséretében zárhatja le a napot.",
+        "ro": "Începeți turul cu bicicleta la liniștita biserică Santi Pietro e Paolo, apoi pedalați spre impresionantul muzeu industrial MAGMA din centru.\nDupă vizitarea bisericii istorice San Leopoldo, explorați expozițiile fascinante de cultură contemporană la galeria Altrimondi.\nDupă-amiaza vă poartă prin rezervația verde Tomboli către biserica modernă Nostra Signora di Lourdes, situată mai departe de agitație.\nÎncheiați turul activ la plaja pentru familii Snoopy, unde vă puteți relaxa seara cu o briză ușoară și o băutură răcoritoare pe nisip.",
+        "en": "Start your cycling tour at the quiet Santi Pietro e Paolo church, then pedal your way to the impressive MAGMA industrial history museum.\nAfter visiting the historic San Leopoldo church, explore the fascinating contemporary cultural exhibitions on display at Altrimondi.\nThe afternoon leads you through the lush Tomboli reserve to the modern Nostra Signora di Lourdes church, set away from the bustling center.\nFinish your active tour at the family-friendly Snoopy beach, where you can unwind for the evening with a gentle breeze and a cold drink."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 6.65,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Località Casa Valli",
+            "hu": "Località Casa Valli",
+            "ro": "Località Casa Valli",
+            "en": "Località Casa Valli"
+          },
+          "coords": [
+            10.753973,
+            42.943909
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die historischen Ruinen von Località Casa Valli mit Blick auf die Landschaft und tragen Sie festes Schuhwerk für den unebenen Weg zum alten Schlossgelände.",
+            "hu": "Fedezze fel a Località Casa Valli történelmi romjait, ahonnan kilátás nyílik a tájra, és viseljen masszív cipőt a régi kastély területére vezető egyenetlen ösvény miatt.",
+            "ro": "Descoperiți ruinele istorice ale Località Casa Valli cu vedere la peisaj și purtați încălțăminte robustă pentru traseul denivelat către zona vechiului castel de piatră.",
+            "en": "Discover the historic ruins of Località Casa Valli offering views of the landscape, and wear sturdy footwear for the uneven path leading up to the old castle grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Nostra Signora di Lourdes",
+            "hu": "Nostra Signora di Lourdes",
+            "ro": "Nostra Signora di Lourdes",
+            "en": "Nostra Signora di Lourdes"
+          },
+          "coords": [
+            10.747369,
+            42.926746
+          ],
+          "category": "religious",
+          "arrive_at": "10:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.98,
+          "tip_5lang": {
+            "de": "Besuchen Sie die moderne Kirche Nostra Signora di Lourdes mit ihren interessanten architektonischen Linien und genießen Sie den Moment der Stille abseits des Trubels.",
+            "hu": "Látogasson el a Nostra Signora di Lourdes modern templomába érdekes építészeti vonalaival, és élvezze a csendes pillanatot, távol a tengerpart nyüzsgő forgatagától.",
+            "ro": "Vizitați biserica modernă Nostra Signora di Lourdes cu liniile sale arhitecturale interesante și bucurați-vă de momentul de liniște departe de agitația plajei.",
+            "en": "Visit the modern Nostra Signora di Lourdes church with its interesting architectural lines, and enjoy a quiet moment of reflection away from the bustling beach crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Nettuno",
+            "hu": "Nettuno",
+            "ro": "Nettuno",
+            "en": "Nettuno"
+          },
+          "coords": [
+            10.734311,
+            42.930774
+          ],
+          "category": "recreational",
+          "arrive_at": "11:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.15,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im gut ausgestatteten Strandbad Nettuno im Norden der Stadt und reservieren Sie Ihren Schirm im Voraus, besonders während der heißen Sommermonate.",
+            "hu": "Pihenjen a jól felszerelt Nettuno strandon a város északi részén, és foglalja le napernyőjét előre, különösen a forró nyári hónapokban a garantált hely érdekében.",
+            "ro": "Relaxați-vă la plaja bine echipată Nettuno din nordul orașului și rezervați-vă umbrela în avans, mai ales în timpul lunilor fierbinți de vară pentru o vizită perfectă.",
+            "en": "Relax at the well-equipped Nettuno beach club in the northern part of town, and be sure to reserve your umbrella in advance, especially during the hot summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Granducale",
+            "hu": "Palazzo Granducale",
+            "ro": "Palazzo Granducale",
+            "en": "Palazzo Granducale"
+          },
+          "coords": [
+            10.760357,
+            42.921658
+          ],
+          "category": "historical",
+          "arrive_at": "12:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.35,
+          "tip_5lang": {
+            "de": "Entdecken Sie die elegante Residenz des Großherzogs Palazzo Granducale im historischen Zentrum und achten Sie auf die raffinierten architektonischen Details am Eingang.",
+            "hu": "Fedezze fel a nagyherceg elegáns rezidenciáját, a Palazzo Granducalét a történelmi központban, és figyeljen a bejárat kifinomult építészeti részleteire.",
+            "ro": "Descoperiți eleganta reședință a Marelui Duce Palazzo Granducale din centrul istoric și acordați atenție detaliilor arhitecturale rafinate de la intrare.",
+            "en": "Discover the elegant Grand Duke's residence Palazzo Granducale in the historical center, and pay close attention to the refined architectural details at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "MAGMA",
+            "hu": "MAGMA",
+            "ro": "MAGMA",
+            "en": "MAGMA"
+          },
+          "coords": [
+            10.762138,
+            42.922657
+          ],
+          "category": "museum",
+          "arrive_at": "13:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Tauchen Sie im MAGMA-Museum in die faszinierende Eisenverarbeitung der Region ein und buchen Sie Ihre Tickets am besten vorab online, um Wartezeiten zu vermeiden.",
+            "hu": "Merüljön el a régió lenyűgöző vasfeldolgozásában a MAGMA múzeumban, és érdemes előre online lefoglalni a jegyeket, hogy elkerülje a várakozást a bejáratnál.",
+            "ro": "Pătrundeți în istoria prelucrării fierului la muzeul MAGMA și rezervați-vă biletele online în avans pentru a evita timpii de așteptare la intrare în plin sezon.",
+            "en": "Delve into the region's fascinating ironworking history at the MAGMA museum, and be sure to book your tickets online in advance to avoid waiting in line at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Santi Pietro e Paolo",
+            "hu": "Santi Pietro e Paolo",
+            "ro": "Santi Pietro e Paolo",
+            "en": "Santi Pietro e Paolo"
+          },
+          "coords": [
+            10.774271,
+            42.922115
+          ],
+          "category": "religious",
+          "arrive_at": "15:40",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.99,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Fassade der Kirche Santi Pietro e Paolo abseits der Touristenpfade und respektieren Sie die Ruhe während der Gottesdienste am Morgen.",
+            "hu": "Csodálja meg a Santi Pietro e Paolo templom egyszerű homlokzatát távol a turisták útvonalától, és tartsa tiszteletben a nyugalmat a reggeli istentiszteletek alatt.",
+            "ro": "Admirați fațada simplă a bisericii Santi Pietro e Paolo departe de traseele turistice și respectați liniștea și intimitatea în timpul slujbelor religioase de dimineață.",
+            "en": "Admire the simple facade of the Santi Pietro e Paolo church off the beaten tourist path, and be sure to respect the quiet atmosphere during morning religious services."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt mit einer Fahrt zu den historischen Ruinen von Località Casa Valli, die einen tollen Ausblick über die umliegende Landschaft bieten.\nAnschließend besuchen Sie die moderne Kirche Nostra Signora di Lourdes, bevor Sie entspannte Stunden am Strandbad Nettuno verbringen.\nAm Nachmittag fahren Sie ins Zentrum, um den eleganten Palazzo Granducale und die faszinierende Ausstellung des MAGMA-Museums zu besichtigen.\nZum Abschluss des Tages steuern Sie die ruhige Kirche Santi Pietro e Paolo an, um den Ausflug fernab des Trubels entspannt zu beenden.",
+        "hu": "A nap a Località Casa Valli történelmi romjaihoz tett autózással indul, ahonnan csodálatos kilátás nyílik a környező gyönyörű tájra.\nEzután látogasson el a modern Nostra Signora di Lourdes templomba, mielőtt néhány pihentető órát töltene a jól felszerelt Nettuno strandon.\nDélután vezessen a városközpontba, hogy megtekintse az elegáns Palazzo Granducale-t és a MAGMA múzeum lenyűgöző ipartörténeti kiállítását.\nA nap zárásaként vegye az irányt a csendes Santi Pietro e Paolo templom felé, hogy a nyüzsgéstől távol, békésen fejezze be a kirándulást.",
+        "ro": "Ziua începe cu o plimbare cu mașina până la ruinele istorice Località Casa Valli, care oferă o priveliște minunată asupra peisajului înconjurător.\nApoi vizitați biserica modernă Nostra Signora di Lourdes, înainte de a petrece câteva ore relaxante la clubul de plajă bine echipat Nettuno.\nDupă-amiaza, conduceți în centru pentru a vedea elegantul Palazzo Granducale și expoziția fascinantă a muzeului industrial MAGMA.\nLa sfârșitul zilei, îndreptați-vă spre liniștita biserică Santi Pietro e Paolo pentru a încheia excursia departe de agitația turistică obișnuită.",
+        "en": "The day begins with a drive up to the historic ruins of Località Casa Valli, offering great views across the surrounding picturesque landscape.\nNext, visit the modern Nostra Signora di Lourdes church before spending a few relaxing hours at the well-equipped Nettuno beach club.\nIn the afternoon, drive into the center to see the elegant Palazzo Granducale and the fascinating industrial exhibits at the MAGMA museum.\nTo cap off the day, head over to the peaceful Santi Pietro e Paolo church to comfortably end your trip away from the usual tourist hustle."
+      }
+    }
+  }
+}

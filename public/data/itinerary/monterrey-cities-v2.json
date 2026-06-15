@@ -1,0 +1,451 @@
+{
+  "city_id": "monterrey-cities-v2",
+  "anchor": {
+    "name": "Monterrey",
+    "coords": [
+      -100.3161,
+      25.6866
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:35",
+      "total_km": 6.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Arco de la Independencia",
+            "hu": "Arco de la Independencia",
+            "ro": "Arco de la Independencia",
+            "en": "Arco de la Independencia"
+          },
+          "coords": [
+            -100.318022,
+            25.684473
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen markanten historischen Bogen, der der Freiheit gewidmet ist, und kommen Sie früh, um den starken Verkehr zu meiden.",
+            "hu": "Csodálja meg ezt a szabadságnak szentelt lenyűgöző történelmi diadalívet, és próbáljon korán érkezni a nagy forgalom elkerülése végett.",
+            "ro": "Admirați acest arc istoric impresionant dedicat libertății și vizitați-l devreme pentru a evita traficul intens din apropiere.",
+            "en": "Admire this striking historical archway dedicated to freedom, and try visiting early to avoid heavy traffic nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Municipal Jose Calderón",
+            "hu": "Teatro Municipal Jose Calderón",
+            "ro": "Teatro Municipal Jose Calderón",
+            "en": "Teatro Municipal Jose Calderón"
+          },
+          "coords": [
+            -100.313672,
+            25.679736
+          ],
+          "category": "cultural",
+          "arrive_at": "10:42",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erleben Sie die lokale Kultur in diesem bezaubernden städtischen Theater; überprüfen Sie den Spielplan draußen auf kostenlose Nachmittagsproben.",
+            "hu": "Tapasztalja meg a helyi kultúrát ebben a bájos városi színházban; érdemes kint megnézni az ingyenes délutáni próbák időrendjét.",
+            "ro": "Experimentați cultura locală la acest teatru municipal fermecător; asigurați-vă că verificați programul de afară pentru repetiții gratuite de după-amiază.",
+            "en": "Experience local culture at this charming municipal theater; be sure to check the schedule outside for any free afternoon rehearsals."
+          }
+        },
+        {
+          "name": {
+            "de": "Salón de la Fama del Beisbol",
+            "hu": "Salón de la Fama del Beisbol",
+            "ro": "Salón de la Fama del Beisbol",
+            "en": "Salón de la Fama del Beisbol"
+          },
+          "coords": [
+            -100.317976,
+            25.6937
+          ],
+          "category": "museum",
+          "arrive_at": "12:06",
+          "stay_min": 100,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem modernen Museum in die Geschichte des mexikanischen Baseballs ein, wo interaktive Schlagkäfige Spaß bieten.",
+            "hu": "Merüljön el a mexikói baseball gazdag történelmében ebben a modern múzeumban, ahol az interaktív ütőketrecek szórakoztató kikapcsolódást nyújtanak.",
+            "ro": "Explorați istoria bogată a baseballului mexican la acest muzeu modern, unde cuștile interactive de lovire oferă o pauză distractivă.",
+            "en": "Delve into the rich history of Mexican baseball at this modern hall of fame, where interactive batting cages offer a fun break."
+          }
+        },
+        {
+          "name": {
+            "de": "Cyrus Art Studio",
+            "hu": "Cyrus Art Studio",
+            "ro": "Cyrus Art Studio",
+            "en": "Cyrus Art Studio"
+          },
+          "coords": [
+            -100.314517,
+            25.700942
+          ],
+          "category": "museum",
+          "arrive_at": "13:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie zeitgenössische Kunstwerke in dieser intimen Ateliergalerie und plaudern Sie mit den anwesenden Künstlern.",
+            "hu": "Fedezze fel a kortárs művészeti alkotásokat ebben a meghitt stúdiógalériában, és beszélgessen a rezidens művészekkel.",
+            "ro": "Descoperiți opere de artă contemporană în această galerie intimă de studio și discutați cu artiștii rezidenți prezenți.",
+            "en": "Explore contemporary artworks in this intimate studio gallery, and chat with the resident artists who often give impromptu tours."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Universitario de Ciencias UANL",
+            "hu": "Museo Universitario de Ciencias UANL",
+            "ro": "Museo Universitario de Ciencias UANL",
+            "en": "Museo Universitario de Ciencias UANL"
+          },
+          "coords": [
+            -100.295246,
+            25.682542
+          ],
+          "category": "museum",
+          "arrive_at": "16:25",
+          "stay_min": 130,
+          "hop_from_prev_min": 47,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende wissenschaftliche Exponate im Universitätsmuseum; beginnen Sie im obersten Stockwerk für die chronologische Übersicht.",
+            "hu": "Fedezze fel a lenyűgöző tudományos kiállításokat az egyetemi múzeumban; kezdje a legfelső emeleten az időrendi fejlődés követéséhez.",
+            "ro": "Descoperiți exponate științifice fascinante la muzeul universității; începeți la ultimul etaj pentru a urmări evoluția cronologică.",
+            "en": "Discover fascinating scientific exhibits at the university museum; start on the top floor to follow the chronological evolution displays."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Geschichte am Unabhängigkeitsbogen, bevor Sie das städtische Theater erkunden. Mittags feiern Sie Baseball-Legenden in der Halle des Ruhms. Verbringen Sie Ihren Nachmittag mit inspirierender zeitgenössischer Kunst im Cyrus Studio. Beenden Sie Ihren Tag mit faszinierenden wissenschaftlichen Ausstellungen im UANL-Museum.",
+        "hu": "Kezdje a reggelt a Függetlenségi Diadalívnél, majd fedezze fel a bájos városi színházat. Délben a sporté a főszerep, amikor a baseball legendáit ünnepli. A délutánt inspiráló kortárs művészeti alkotások között töltheti a Cyrus Stúdióban. Zárja a napot az UANL múzeum lenyűgöző tudományos kiállításaival, amely tökéletes befejezés.",
+        "ro": "Începeți dimineața absorbind istoria la Arcul Independenței înainte de a explora teatrul municipal. La prânz, schimbați ritmul sărbătorind legendele baseballului la muzeul de profil. Petreceți după-amiaza admirând arta contemporană la Cyrus Studio. Încheiați ziua explorând exponatele științifice fascinante de la muzeul UANL.",
+        "en": "Start your morning absorbing the history at the Independence Arch before exploring the city's charming municipal theater. Midday brings a sporty shift as you celebrate baseball legends and grab a quick bite nearby. Spend your afternoon wandering through inspiring contemporary art at Cyrus Studio. Conclude your day delving into fascinating scientific exhibits at the UANL museum."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:56",
+      "total_km": 5.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo del Obispado",
+            "hu": "Museo del Obispado",
+            "ro": "Museo del Obispado",
+            "en": "Museo del Obispado"
+          },
+          "coords": [
+            -100.342248,
+            25.673324
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie dieses historische Regionalmuseum in einem alten Bischofspalast und tragen Sie bequeme Schuhe für den steilen Weg.",
+            "hu": "Járja be ezt a történelmi regionális múzeumot egy régi püspöki palotában, és viseljen kényelmes cipőt a meredek macskaköves feljáróhoz.",
+            "ro": "Vizitați acest muzeu regional istoric găzduit într-un vechi palat episcopal și purtați încălțăminte confortabilă pentru aleea abruptă.",
+            "en": "Tour this historic regional museum housed in an old bishop's palace, and wear comfortable shoes for the slightly steep cobblestone approach."
+          }
+        },
+        {
+          "name": {
+            "de": "Concha del Obispado",
+            "hu": "Concha del Obispado",
+            "ro": "Concha del Obispado",
+            "en": "Concha del Obispado"
+          },
+          "coords": [
+            -100.344696,
+            25.676332
+          ],
+          "category": "cultural",
+          "arrive_at": "10:52",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schauen Sie sich dieses Freiluft-Amphitheater auf dem Hügel an; es ist perfekt für Panoramafotos, auch ohne stattfindendes Konzert.",
+            "hu": "Nézze meg ezt a dombon fekvő szabadtéri amfiteátrumot; tökéletes panorámaképek készítéséhez, még akkor is, ha épp nincs koncert.",
+            "ro": "Descoperiți acest amfiteatru în aer liber situat pe deal; este perfect pentru fotografii panoramice, chiar și fără un concert live.",
+            "en": "Check out this open-air amphitheater nestled on the hill; it is perfect for panoramic photos even if there isn't a concert happening."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador Asta Bandera",
+            "hu": "Mirador Asta Bandera",
+            "ro": "Mirador Asta Bandera",
+            "en": "Mirador Asta Bandera"
+          },
+          "coords": [
+            -100.346481,
+            25.676305
+          ],
+          "category": "natural",
+          "arrive_at": "11:53",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende Aussicht auf die Stadt von diesem Aussichtspunkt am Fahnenmast; bringen Sie eine Windjacke mit.",
+            "hu": "Élvezze a lélegzetelállító kilátást a városra erről a hatalmas zászlórúdtól; hozzon széldzsekit, mert a szél meglehetősen erős lehet itt.",
+            "ro": "Admirați priveliștile uluitoare ale orașului de la acest punct de belvedere cu un catarg uriaș; luați o jachetă de vânt, deoarece bate tare.",
+            "en": "Take in breathtaking city views from this towering flagpole viewpoint; bring a windbreaker as the breeze can be quite strong up here."
+          }
+        },
+        {
+          "name": {
+            "de": "Virgen de Guadalupe",
+            "hu": "Virgen de Guadalupe",
+            "ro": "Virgen de Guadalupe",
+            "en": "Virgen de Guadalupe"
+          },
+          "coords": [
+            -100.34342,
+            25.669481
+          ],
+          "category": "historical",
+          "arrive_at": "12:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses ruhige historische Monument, das der Jungfrau gewidmet ist, und kommen Sie früh, um der Nachmittagssonne zu entgehen.",
+            "hu": "Tegyen egy csendes látogatást a Szűzanyának szentelt békés történelmi emlékműnél, és érkezzen korán, hogy elkerülje az erős napsütést.",
+            "ro": "Faceți o vizită liniștită la acest monument istoric senin dedicat Fecioarei, ajungând devreme pentru a evita soarele intens de după-amiază.",
+            "en": "Pay a quiet visit to this serene historical monument dedicated to the Virgin, leaving early to beat the intense afternoon sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Arco de la Independencia",
+            "hu": "Arco de la Independencia",
+            "ro": "Arco de la Independencia",
+            "en": "Arco de la Independencia"
+          },
+          "coords": [
+            -100.318022,
+            25.684473
+          ],
+          "category": "historical",
+          "arrive_at": "13:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Radeln Sie zu diesem zentralen Freiheitsdenkmal und nutzen Sie die ausgewiesenen Radwege, um die belebte Kreuzung sicher zu überqueren.",
+            "hu": "Kerékpározzon el ehhez a központi szabadságemlékműhöz, és használja a kijelölt kerékpárutakat a forgalmas kereszteződés biztonságos átkeléséhez.",
+            "ro": "Mergeți cu bicicleta până la acest monument central al libertății și folosiți pistele speciale pentru a traversa în siguranță intersecția aglomerată.",
+            "en": "Cycle down to this central monument representing freedom, and use the designated bike lanes to safely cross the busy surrounding intersection."
+          }
+        },
+        {
+          "name": {
+            "de": "Salón de la Fama del Beisbol",
+            "hu": "Salón de la Fama del Beisbol",
+            "ro": "Salón de la Fama del Beisbol",
+            "en": "Salón de la Fama del Beisbol"
+          },
+          "coords": [
+            -100.317976,
+            25.6937
+          ],
+          "category": "museum",
+          "arrive_at": "14:46",
+          "stay_min": 130,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad draußen und genießen Sie eine interaktive Reise durch Mexikos größte Baseball-Legenden und historische Erinnerungsstücke.",
+            "hu": "Parkolja le a kerékpárt a komplexum előtt, és élvezze az interaktív utazást Mexikó legnagyobb baseball legendái és emlékei között.",
+            "ro": "Parcați bicicleta afară și bucurați-vă de o călătorie interactivă prin istoria celor mai mari legende ale baseballului din Mexic.",
+            "en": "Park your bike outside the complex and enjoy an interactive journey through Mexico's greatest baseball legends and historic memorabilia."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt an den Hängen des Obispado-Hügels, um regionale Geschichte und Freiluftkultur zu entdecken. Mittags genießen Sie den Panoramablick am monumentalen Fahnenmast, bevor Sie zum ruhigen Jungfrau-Monument absteigen. Am Nachmittag radeln Sie in die belebte Innenstadt zum Unabhängigkeitsbogen. Schließen Sie die Reise in der Baseball Hall of Fame ab.",
+        "hu": "Kezdje a túrát az Obispado-domb lejtőin a regionális történelem és a szabadtéri kultúra felfedezésével. Délben élvezze a panorámát a monumentális zászlórúdnál, majd guruljon le a békés Szűz-emlékműhöz. A délutáni tekerés a pezsgő belvárosba vezet, a Függetlenségi Diadalívhez. A napot a Baseball Hírességek Csarnokában a sportlegendák ünneplésével zárja.",
+        "ro": "Începeți traseul pe pantele dealului Obispado pentru a descoperi istoria regională și cultura în aer liber. La prânz, admirați panorama de la catargul monumental, înainte de a coborî la monumentul senin al Fecioarei. După-amiaza, pedalați spre centrul plin de viață pentru a vedea Arcul Independenței. Încheiați ziua celebrând legendele sportive la muzeul baseballului.",
+        "en": "Kick off your ride tackling the slopes of the Obispado hill to uncover regional history and open-air culture. By midday, soak in sweeping panoramas at the monumental flagpole before descending to the serene Virgin monument. Your afternoon ride takes you into the bustling downtown heart to admire the iconic Independence Arch. Wrap up the journey celebrating sporting legends at the Baseball Hall of Fame."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 13.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo de Autos y Transportes Mty",
+            "hu": "Museo de Autos y Transportes Mty",
+            "ro": "Museo de Autos y Transportes Mty",
+            "en": "Museo de Autos y Transportes Mty"
+          },
+          "coords": [
+            -100.311503,
+            25.713828
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie Oldtimer und historische Fahrzeuge in diesem einzigartigen Museum, das bequemerweise ausreichend kostenlose Parkplätze bietet.",
+            "hu": "Csodálja meg a klasszikus autókat ebben az egyedülálló múzeumban, amely kényelmesen bőséges, ingyenes parkolási lehetőséget kínál a helyszínen.",
+            "ro": "Admirați mașinile clasice și transportul de epocă la acest muzeu unic, care oferă parcare gratuită spațioasă chiar la fața locului.",
+            "en": "Marvel at classic cars and vintage transport at this unique museum, which conveniently offers ample free parking right on the premises."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a la Solidaridad",
+            "hu": "Monumento a la Solidaridad",
+            "ro": "Monumento a la Solidaridad",
+            "en": "Monumento a la Solidaridad"
+          },
+          "coords": [
+            -100.30579,
+            25.732216
+          ],
+          "category": "historical",
+          "arrive_at": "10:55",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Halten Sie kurz an, um diese markante skulpturale Hommage zu fotografieren, stellen Sie sich jedoch auf begrenzte Parkplätze ein.",
+            "hu": "Álljon meg röviden, hogy lefotózza ezt a lenyűgöző szobrot, de készüljön fel arra, hogy a közvetlen közelében korlátozott a parkolás.",
+            "ro": "Opriți scurt pentru a fotografia acest tribut sculptural izbitor, deși fiți pregătit pentru locuri de parcare limitate în imediata sa apropiere.",
+            "en": "Stop briefly to photograph this striking sculptural tribute to civic unity, though be prepared for limited parking directly beside it."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Antigua Anahuac",
+            "hu": "Torre Antigua Anahuac",
+            "ro": "Torre Antigua Anahuac",
+            "en": "Torre Antigua Anahuac"
+          },
+          "coords": [
+            -100.300517,
+            25.737932
+          ],
+          "category": "historical",
+          "arrive_at": "11:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesem historischen Nordturm; suchen Sie nach schattigen Parkplätzen in den angrenzenden Wohnstraßen.",
+            "hu": "Lépjen vissza az időben ennél a történelmi északi toronynál; keressen árnyékos parkolóhelyeket a szomszédos lakóutcákban.",
+            "ro": "Întoarceți-vă în timp la acest turn istoric nordic; căutați locuri de parcare la umbră pe străzile rezidențiale adiacente.",
+            "en": "Step back in time at this historic northern tower structure; look for the shaded parking spots on the residential streets adjacent to it."
+          }
+        },
+        {
+          "name": {
+            "de": "Gimnasio Nuevo Leon",
+            "hu": "Gimnasio Nuevo Leon",
+            "ro": "Gimnasio Nuevo Leon",
+            "en": "Gimnasio Nuevo Leon"
+          },
+          "coords": [
+            -100.351906,
+            25.704246
+          ],
+          "category": "landmark",
+          "arrive_at": "12:46",
+          "stay_min": 60,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Erleben Sie die architektonische Größe dieses bedeutenden Sportwahrzeichens, wo spontane lokale Trainingseinheiten ein Genuss sind.",
+            "hu": "Tapasztalja meg ennek a jelentős sportlétesítménynek az építészeti léptékét, ahol egy rögtönzött helyi edzés megtekintése is nagy élmény.",
+            "ro": "Experimentați amploarea arhitecturală a acestui punct de reper sportiv major, unde vizionarea unui antrenament local este o adevărată plăcere.",
+            "en": "Experience the architectural scale of this major sporting landmark, where catching an impromptu local practice session is a real treat."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Obispado",
+            "hu": "Museo del Obispado",
+            "ro": "Museo del Obispado",
+            "en": "Museo del Obispado"
+          },
+          "coords": [
+            -100.342248,
+            25.673324
+          ],
+          "category": "museum",
+          "arrive_at": "13:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Fahren Sie den kurvenreichen Hügel hinauf zu diesem Museum; das Navigieren der steilen Auffahrt erfordert bei größeren Fahrzeugen Vorsicht.",
+            "hu": "Hajtson fel a kanyargós történelmi dombon a múzeumhoz; a meredek kocsibejáró leküzdése némi óvatosságot igényel nagyobb járművekkel.",
+            "ro": "Urcați pe dealul istoric șerpuitor pentru a ajunge la acest muzeu; navigarea pe aleea abruptă necesită puțină atenție cu vehicule mai mari.",
+            "en": "Drive up the winding historic hill to reach this museum; navigating the steep driveway requires a bit of care in larger vehicles."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador Asta Bandera",
+            "hu": "Mirador Asta Bandera",
+            "ro": "Mirador Asta Bandera",
+            "en": "Mirador Asta Bandera"
+          },
+          "coords": [
+            -100.346481,
+            25.676305
+          ],
+          "category": "natural",
+          "arrive_at": "15:35",
+          "stay_min": 55,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie unvergleichliche Sonnenuntergänge am riesigen Fahnenmast und packen Sie sich gegen die starken Abendwinde warm ein.",
+            "hu": "Élvezze Monterrey páratlan naplementéjét az óriási zászlórúdnál, és feltétlenül öltözzön fel melegen az erős esti szelek ellen.",
+            "ro": "Bucurați-vă de apusuri de soare de neegalat la catargul uriaș, asigurându-vă că vă îmbrăcați bine împotriva vânturilor puternice de seară.",
+            "en": "Enjoy unparalleled sunset views of Monterrey at the giant flagpole, making sure to bundle up against the fierce evening winds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour mit Vintage-Schätzen im Verkehrsmuseum, bevor Sie zum Solidaritätsmonument fahren. Mittags besuchen Sie den historischen Anahuac-Turm und das imposante Nuevo Leon Gym. Am Nachmittag steuern Sie den historischen Bischofspalast an, um in die Kultur einzutauchen. Der Tag endet spektakulär mit weiten Panoramablicken am Mirador Asta Bandera.",
+        "hu": "Kezdje az autós túrát a helyi közlekedési múzeum kincseivel, mielőtt észak felé veszi az irányt a Szolidaritás Emlékműhöz. Délben látogasson el a történelmi Anahuac Toronyhoz és az impozáns Nuevo Leon Gimnáziumhoz. Délután közeledtével vezessen fel a történelmi Püspöki Palotához egy kis kulturális elmélyülésre. A nap látványosan zárul a Mirador Asta Bandera szeles panorámájával.",
+        "ro": "Începeți turul auto explorând comorile de epocă la muzeul de transport înainte de a vă îndrepta spre Monumentul Solidarității. La prânz veți vizita Turnul istoric Anahuac și impozanta Sală Nuevo Leon. După-amiaza, conduceți până la istoricul Palat Episcopal pentru o imersiune culturală. Ziua se încheie spectaculos cu panorame uluitoare la Mirador Asta Bandera.",
+        "en": "Start your driving tour exploring the vintage treasures at the local transport museum before venturing north to the Solidarity Monument. Midday leads you to the historic Antigua Anahuac Tower and the imposing Nuevo Leon Gymnasium. As afternoon approaches, navigate your way up to the historic Bishop's Palace for some cultural immersion. The day ends spectacularly with sweeping, windy panoramas at the Mirador Asta Bandera."
+      }
+    }
+  }
+}

@@ -1,0 +1,428 @@
+{
+  "city_id": "indonesia-gili-air-cities-v2",
+  "anchor": {
+    "name": "Gili Air",
+    "coords": [
+      116.0824,
+      -8.35783
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:03",
+      "total_km": 1.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Indoor tennis court",
+            "hu": "Indoor tennis court",
+            "ro": "Indoor tennis court",
+            "en": "Indoor tennis court"
+          },
+          "coords": [
+            116.083623,
+            -8.359113
+          ],
+          "category": "landmark",
+          "arrive_at": "09:13",
+          "stay_min": 25,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie die überdachte Tennishalle, um auch im Urlaub aktiv zu bleiben, aber denken Sie daran, eigene Schläger und ausreichend Trinkwasser mitzubringen.",
+            "hu": "Látogasson el a fedett teniszpályára, hogy aktív maradjon a szigeti út során, de ne felejtsen el saját ütőt és bőséges ivóvizet vinni magával.",
+            "ro": "Vizitați terenul de tenis acoperit pentru a rămâne activ în timpul călătoriei pe insulă, dar nu uitați să vă aduceți propriile rachete și multă apă potabilă.",
+            "en": "Check out the indoor tennis court to stay active during your island trip, but remember to bring your own racquets and plenty of drinking water."
+          }
+        },
+        {
+          "name": {
+            "de": "Turtle Point",
+            "hu": "Turtle Point",
+            "ro": "Turtle Point",
+            "en": "Turtle Point"
+          },
+          "coords": [
+            116.087222,
+            -8.354793
+          ],
+          "category": "landmark",
+          "arrive_at": "09:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die majestätischen Meeresschildkröten, die auf den Seegraswiesen grasen, und versuchen Sie, während der Flut für beste Sichtbarkeit zu kommen.",
+            "hu": "Csodálja meg a part menti tengerifű-ágyásokon legelésző fenséges tengeri teknősöket, és a legjobb látási viszonyok érdekében érkezzen dagály idején.",
+            "ro": "Admirați țestoasele marine maiestuoase care pasc pe paturile de iarbă de mare chiar lângă țărm și încercați să vizitați în timpul fluxului pentru o vizibilitate optimă.",
+            "en": "Marvel at the majestic sea turtles grazing on the seagrass beds right off the shore, and try to visit during high tide for the best visibility."
+          }
+        },
+        {
+          "name": {
+            "de": "Next Level Scuba",
+            "hu": "Next Level Scuba",
+            "ro": "Next Level Scuba",
+            "en": "Next Level Scuba"
+          },
+          "coords": [
+            116.086576,
+            -8.352991
+          ],
+          "category": "landmark",
+          "arrive_at": "10:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schließen Sie sich den erfahrenen Tauchlehrern von Next Level Scuba für einen aufregenden Tauchgang an und buchen Sie Ihren Platz unbedingt einen Tag im Voraus.",
+            "hu": "Csatlakozzon a Next Level Scuba profi oktatóihoz egy biztonságos és izgalmas merülésre, és mindenképpen foglaljon időpontot egy nappal előre a helybiztosítás érdekében.",
+            "ro": "Alăturați-vă instructorilor experți de la Next Level Scuba pentru o scufundare palpitantă și asigurați-vă că vă rezervați sesiunea cu o zi înainte pentru un loc.",
+            "en": "Join the expert instructors at Next Level Scuba for a safe and thrilling dive, and make sure to book your session a day in advance to secure a spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Very good location for snorkeling",
+            "hu": "Very good location for snorkeling",
+            "ro": "Very good location for snorkeling",
+            "en": "Very good location for snorkeling"
+          },
+          "coords": [
+            116.087556,
+            -8.351543
+          ],
+          "category": "landmark",
+          "arrive_at": "11:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in diesen lebhaften Schnorchelplatz voller bunter tropischer Fische und vergessen Sie nicht, riffschonende Sonnencreme zum Schutz der Korallen aufzutragen.",
+            "hu": "Merüljön el ebben a színes trópusi halaktól nyüzsgő, élénk sznorkelező helyben, és ne felejtsen el zátonybarát naptejet használni a korallok védelme érdekében.",
+            "ro": "Scufundați-vă în această locație vibrantă de snorkeling plină de pești tropicali colorați și nu uitați să purtați protecție solară sigură pentru recife.",
+            "en": "Immerse yourself in this vibrant snorkeling location teeming with colorful tropical fish, and don't forget to wear reef-safe sunscreen to protect the corals."
+          }
+        },
+        {
+          "name": {
+            "de": "Han's reef - dive site",
+            "hu": "Han's reef - dive site",
+            "ro": "Han's reef - dive site",
+            "en": "Han's reef - dive site"
+          },
+          "coords": [
+            116.086118,
+            -8.348931
+          ],
+          "category": "landmark",
+          "arrive_at": "12:53",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die vielfältige Meereswelt und die sanften Strömungen am Han's Reef, einem idealen Ort für Makrofotografie, wenn Sie eine Unterwasserkamera mitbringen.",
+            "hu": "Fedezze fel a változatos tengeri élővilágot és a lágy áramlatokat a Han's Reef-nél, amely ideális hely a makrófotózáshoz, ha hoz magával egy víz alatti kamerát.",
+            "ro": "Explorați viața marină diversă și curenții blânzi la Han's Reef, un loc ideal pentru macrofotografie dacă aduceți o cameră foto subacvatică cu dumneavoastră.",
+            "en": "Explore the diverse marine life and gentle currents at Han's Reef, an ideal spot for macro photography if you bring an underwater camera along."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einem erfrischenden Spaziergang im Süden, nahe der Tennishalle der Insel. Mittags schlendern Sie an der belebten Ostküste entlang, um beliebte Schnorchelplätze und Tauchzentren zu erkunden. Der Nachmittag bietet ruhige Momente am Han's Reef, ideal zur Beobachtung der Unterwasserwelt. Genießen Sie am Abend einen Strandspaziergang, während die Sonne sanft untergeht.",
+        "hu": "Kezdje a reggelt egy frissítő sétával a déli ösvényeken, a sziget fedett teniszpályája közelében melegítve be. Délben sétáljon fel a nyüzsgő keleti partvonalon a népszerű sznorkelező és búvárközpontokhoz. A délután nyugodt pillanatokat kínál a Han's Reef-nél a tengeri élővilág megfigyelésére. Este élvezze a kellemes tengerparti sétát, miközben a nap lágyan lebukik a horizont alá.",
+        "ro": "Începeți dimineața cu o plimbare revigorantă pe potecile din sud, încălzindu-vă lângă terenul de tenis. La amiază, plimbați-vă de-a lungul coastei estice vibrante pentru a explora centrele populare de snorkeling și scufundări. După-amiaza oferă momente liniștite la Han's Reef, perfecte pentru a observa viața marină. Seara, bucurați-vă de o plimbare pe litoral în timp ce soarele apune ușor.",
+        "en": "Start your morning with a brisk, refreshing walk around the southern paths, warming up near the island's indoor tennis court. By midday, wander up the vibrant eastern coastline to explore popular snorkeling hubs and dive centers. The afternoon offers tranquil moments at Han's Reef, perfect for observing marine life at your own pace. In the evening, enjoy a seaside stroll as the sun gently sets."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:10",
+      "total_km": 2.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "turtle area",
+            "hu": "turtle area",
+            "ro": "turtle area",
+            "en": "turtle area"
+          },
+          "coords": [
+            116.089331,
+            -8.355628
+          ],
+          "category": "landmark",
+          "arrive_at": "09:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schwimmen Sie neben anmutigen Meeresschildkröten in diesem speziellen Bereich und halten Sie respektvollen Abstand, um ihr natürliches Fressverhalten nicht zu stören.",
+            "hu": "Ússzon együtt a kecses tengeri teknősökkel ezen a kijelölt területen, ügyelve a tisztes távolság megtartására, hogy ne zavarja meg a természetes táplálkozásukat.",
+            "ro": "Înotați alături de grațioasele broaște țestoase marine în această zonă dedicată, asigurându-vă că păstrați o distanță respectuoasă pentru a nu le perturba hrănirea.",
+            "en": "Swim alongside graceful sea turtles in this dedicated area, making sure to keep a respectful distance so you don't disturb their natural feeding behavior."
+          }
+        },
+        {
+          "name": {
+            "de": "Turtle Point",
+            "hu": "Turtle Point",
+            "ro": "Turtle Point",
+            "en": "Turtle Point"
+          },
+          "coords": [
+            116.087222,
+            -8.354793
+          ],
+          "category": "landmark",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die majestätischen Meeresschildkröten, die auf den Seegraswiesen grasen, und versuchen Sie, während der Flut für beste Sichtbarkeit zu kommen.",
+            "hu": "Csodálja meg a part menti tengerifű-ágyásokon legelésző fenséges tengeri teknősöket, és a legjobb látási viszonyok érdekében érkezzen dagály idején.",
+            "ro": "Admirați țestoasele marine maiestuoase care pasc pe paturile de iarbă de mare chiar lângă țărm și încercați să vizitați în timpul fluxului pentru o vizibilitate optimă.",
+            "en": "Marvel at the majestic sea turtles grazing on the seagrass beds right off the shore, and try to visit during high tide for the best visibility."
+          }
+        },
+        {
+          "name": {
+            "de": "Next Level Scuba",
+            "hu": "Next Level Scuba",
+            "ro": "Next Level Scuba",
+            "en": "Next Level Scuba"
+          },
+          "coords": [
+            116.086576,
+            -8.352991
+          ],
+          "category": "landmark",
+          "arrive_at": "10:36",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schließen Sie sich den erfahrenen Tauchlehrern von Next Level Scuba für einen aufregenden Tauchgang an und buchen Sie Ihren Platz unbedingt einen Tag im Voraus.",
+            "hu": "Csatlakozzon a Next Level Scuba profi oktatóihoz egy biztonságos és izgalmas merülésre, és mindenképpen foglaljon időpontot egy nappal előre a helybiztosítás érdekében.",
+            "ro": "Alăturați-vă instructorilor experți de la Next Level Scuba pentru o scufundare palpitantă și asigurați-vă că vă rezervați sesiunea cu o zi înainte pentru un loc.",
+            "en": "Join the expert instructors at Next Level Scuba for a safe and thrilling dive, and make sure to book your session a day in advance to secure a spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Very good location for snorkeling",
+            "hu": "Very good location for snorkeling",
+            "ro": "Very good location for snorkeling",
+            "en": "Very good location for snorkeling"
+          },
+          "coords": [
+            116.087556,
+            -8.351543
+          ],
+          "category": "landmark",
+          "arrive_at": "11:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in diesen lebhaften Schnorchelplatz voller bunter tropischer Fische und vergessen Sie nicht, riffschonende Sonnencreme zum Schutz der Korallen aufzutragen.",
+            "hu": "Merüljön el ebben a színes trópusi halaktól nyüzsgő, élénk sznorkelező helyben, és ne felejtsen el zátonybarát naptejet használni a korallok védelme érdekében.",
+            "ro": "Scufundați-vă în această locație vibrantă de snorkeling plină de pești tropicali colorați și nu uitați să purtați protecție solară sigură pentru recife.",
+            "en": "Immerse yourself in this vibrant snorkeling location teeming with colorful tropical fish, and don't forget to wear reef-safe sunscreen to protect the corals."
+          }
+        },
+        {
+          "name": {
+            "de": "Han's reef - dive site",
+            "hu": "Han's reef - dive site",
+            "ro": "Han's reef - dive site",
+            "en": "Han's reef - dive site"
+          },
+          "coords": [
+            116.086118,
+            -8.348931
+          ],
+          "category": "landmark",
+          "arrive_at": "12:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die vielfältige Meereswelt und die sanften Strömungen am Han's Reef, einem idealen Ort für Makrofotografie, wenn Sie eine Unterwasserkamera mitbringen.",
+            "hu": "Fedezze fel a változatos tengeri élővilágot és a lágy áramlatokat a Han's Reef-nél, amely ideális hely a makrófotózáshoz, ha hoz magával egy víz alatti kamerát.",
+            "ro": "Explorați viața marină diversă și curenții blânzi la Han's Reef, un loc ideal pentru macrofotografie dacă aduceți o cameră foto subacvatică cu dumneavoastră.",
+            "en": "Explore the diverse marine life and gentle currents at Han's Reef, an ideal spot for macro photography if you bring an underwater camera along."
+          }
+        },
+        {
+          "name": {
+            "de": "Indoor tennis court",
+            "hu": "Indoor tennis court",
+            "ro": "Indoor tennis court",
+            "en": "Indoor tennis court"
+          },
+          "coords": [
+            116.083623,
+            -8.359113
+          ],
+          "category": "landmark",
+          "arrive_at": "14:15",
+          "stay_min": 55,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie die überdachte Tennishalle, um auch im Urlaub aktiv zu bleiben, aber denken Sie daran, eigene Schläger und ausreichend Trinkwasser mitzubringen.",
+            "hu": "Látogasson el a fedett teniszpályára, hogy aktív maradjon a szigeti út során, de ne felejtsen el saját ütőt és bőséges ivóvizet vinni magával.",
+            "ro": "Vizitați terenul de tenis acoperit pentru a rămâne activ în timpul călătoriei pe insulă, dar nu uitați să vă aduceți propriile rachete și multă apă potabilă.",
+            "en": "Check out the indoor tennis court to stay active during your island trip, but remember to bring your own racquets and plenty of drinking water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit einer Radtour zu den berühmten Schildkrötenbereichen und spüren Sie die sanfte Inselbrise auf den Sandwegen. Mittags können Sie Ihr Fahrrad abstellen und bei Next Level Scuba in das kristallklare Wasser eintauchen. Verbringen Sie den Nachmittag mit einer Fahrt nach Norden zum Han's Reef. Beenden Sie den Tag mit einer entspannten abendlichen Fahrt zurück in den Süden.",
+        "hu": "Indítsa a reggelt egy kerékpározással a híres teknősök területére, érezve a lágy szigeti szellőt a homokos ösvényeken. Délben parkolja le a kerékpárt, és merüljön a kristálytiszta vizekbe a Next Level Scuba közelében. Töltse a délutánt az északabbra fekvő Han's Reef felé pedálozva egy felejthetetlen sznorkelezésért. Zárja a napot egy pihentető esti biciklizéssel vissza a sziget déli része felé.",
+        "ro": "Începeți dimineața pedalând spre faimoasele zone cu țestoase, simțind briza blândă a insulei pe potecile de nisip. La amiază, parcați bicicleta și scufundați-vă în apele cristaline de lângă Next Level Scuba. Petreceți după-amiaza pedalând spre nord către Han's Reef pentru o experiență de snorkeling de neuitat. Încheiați ziua cu o plimbare relaxantă de seară înapoi spre sudul insulei.",
+        "en": "Kick off your morning by cycling to the famous turtle areas, feeling the gentle island breeze as you ride along the sandy paths. Midday invites you to park your bike and dive into the crystal-clear waters near Next Level Scuba. Spend your afternoon pedaling further north to Han's Reef for an unforgettable snorkeling experience. Conclude the day with a relaxing evening ride back toward the south."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:04",
+      "total_km": 3.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Gili Meno Turtles",
+            "hu": "Gili Meno Turtles",
+            "ro": "Gili Meno Turtles",
+            "en": "Gili Meno Turtles"
+          },
+          "coords": [
+            116.061417,
+            -8.356512
+          ],
+          "category": "recreational",
+          "arrive_at": "09:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie das berühmte Schildkrötenschutzgebiet auf Gili Meno, wo Naturschutz auf Schönheit trifft, und bringen Sie eine kleine Spende zur Unterstützung mit.",
+            "hu": "Fedezze fel a híres Gili Meno teknősmenedéket, ahol a természetvédelem találkozik a szépséggel, és vigyen magával egy kis adományt a helyi keltetési erőfeszítésekhez.",
+            "ro": "Descoperiți faimosul sanctuar de țestoase Gili Meno, unde conservarea întâlnește frumusețea, și aduceți o mică donație pentru a sprijini eforturile locale de incubație.",
+            "en": "Discover the famous Gili Meno turtle sanctuary where conservation meets natural beauty, and bring a small cash donation to support the local hatching efforts."
+          }
+        },
+        {
+          "name": {
+            "de": "Turtles galore",
+            "hu": "Turtles galore",
+            "ro": "Turtles galore",
+            "en": "Turtles galore"
+          },
+          "coords": [
+            116.062839,
+            -8.352414
+          ],
+          "category": "landmark",
+          "arrive_at": "10:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erleben Sie den Nervenkitzel, zahlreiche Schildkröten durch das kristallklare Wasser gleiten zu sehen, und tragen Sie ein Rashguard als Schutz vor der tropischen Sonne.",
+            "hu": "Élje át a kristálytiszta vízben sikló számtalan teknős látványának izgalmát, és viseljen UV-szűrős úszópólót, hogy megvédje a hátát az erős trópusi naptól.",
+            "ro": "Experimentați fiorul de a vedea numeroase țestoase planând prin apa cristalină și purtați un tricou de înot pentru a vă proteja spatele de soarele tropical intens.",
+            "en": "Experience the thrill of seeing numerous turtles gliding through the crystal-clear water, and wear a rash guard to protect your back from the intense tropical sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Snorkeling site",
+            "hu": "Snorkeling site",
+            "ro": "Snorkeling site",
+            "en": "Snorkeling site"
+          },
+          "coords": [
+            116.062569,
+            -8.350555
+          ],
+          "category": "landmark",
+          "arrive_at": "11:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die warmen Gewässer dieses beliebten Schnorchelplatzes ein, um bunte Korallengärten zu sehen, aber achten Sie stets auf mögliche starke Küstenströmungen.",
+            "hu": "Merüljön bele a népszerű sznorkelező hely meleg vizébe, hogy élénk korallkerteket láthasson, de mindig ügyeljen az árapály-változások során fellépő erős áramlatokra.",
+            "ro": "Scufundați-vă în apele calde ale acestui loc popular de snorkeling pentru a vedea grădini de corali, dar aveți mereu grijă la curenții de coastă ocazional puternici.",
+            "en": "Dive into the warm waters of this popular snorkeling site to see vibrant coral gardens, but always beware of the occasional strong coastal currents during tidal shifts."
+          }
+        },
+        {
+          "name": {
+            "de": "Turtle spot",
+            "hu": "Turtle spot",
+            "ro": "Turtle spot",
+            "en": "Turtle spot"
+          },
+          "coords": [
+            116.062426,
+            -8.348569
+          ],
+          "category": "natural",
+          "arrive_at": "13:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Treiben Sie über dem friedlichen Turtle Spot, wo das Meeresleben in Hülle und Fülle gedeiht, und mieten Sie Ihre Schnorchelausrüstung an den nahegelegenen Strandhütten.",
+            "hu": "Lebegjen a békés Turtle spot felett, ahol a tengeri élővilág bőségben virágzik, és béreljen sznorkelfelszerelést a közeli strandkunyhókból, mielőtt a vízbe ugrana.",
+            "ro": "Plutiți deasupra pașnicului Turtle spot unde viața marină prosperă din abundență și închiriați echipamentul de snorkeling de la cabanele din apropiere.",
+            "en": "Float above the peaceful Turtle spot where marine life thrives in abundance, and rent your snorkeling gear from the nearby beach shacks before jumping in."
+          }
+        },
+        {
+          "name": {
+            "de": "Turtle Snorkeling site",
+            "hu": "Turtle Snorkeling site",
+            "ro": "Turtle Snorkeling site",
+            "en": "Turtle Snorkeling site"
+          },
+          "coords": [
+            116.062149,
+            -8.345873
+          ],
+          "category": "landmark",
+          "arrive_at": "14:19",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihr Wasserabenteuer an diesem atemberaubenden Schnorchelplatz, indem Sie sanft an der Oberfläche treiben, um die Tiere ohne Stress zu beobachten.",
+            "hu": "Zárja vízi kalandját ezen a lenyűgöző sznorkelező helyen úgy, hogy finoman lebeg a felszínen, hogy stressz okozása nélkül figyelhesse meg a csodálatos állatokat.",
+            "ro": "Încheiați aventura acvatică în acest loc uimitor de snorkeling plutind ușor pe suprafață pentru a observa animalele magnifice fără a le provoca niciun stres.",
+            "en": "Conclude your aquatic adventure at this stunning turtle snorkeling site by floating gently on the surface to observe the magnificent animals without causing them stress."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Begeben Sie sich auf eine aufregende morgendliche Fahrt über das Wasser zum Schildkrötenschutzgebiet von Gili Meno. Die Mittagszeit ist perfekt, um schnell zwischen mehreren unberührten Schnorchelplätzen voller Meeresschildkröten zu wechseln. Tauchen Sie am Nachmittag tiefer in das lebhafte Unterwasser-Ökosystem ein. Lassen Sie den aktiven Tag mit einer malerischen Rückfahrt bei Sonnenuntergang ausklingen.",
+        "hu": "Induljon egy izgalmas reggeli vízi utazásra a Gili Meno teknősmenedékhelyre egy igazán varázslatos vízi találkozásért. A dél tökéletes arra, hogy gyorsan ugráljon a tengeri teknősöktől nyüzsgő, érintetlen sznorkelező helyek között. Délután merüljön mélyebbre a lenyűgöző víz alatti ökoszisztémában a híres teknős helyen. Zárja az aktív napot egy zökkenőmentes, festői visszautazással naplementekor.",
+        "ro": "Porniți într-o călătorie matinală emoționantă pe apă către sanctuarul de țestoase Gili Meno pentru o întâlnire magică. Amiaza este perfectă pentru a sări rapid între mai multe locuri imaculate de snorkeling pline de țestoase. După-amiaza, scufundați-vă mai adânc în ecosistemul subacvatic vibrant la faimosul punct al țestoaselor. Încheiați ziua activă cu o călătorie de întoarcere pitorească.",
+        "en": "Embark on an exciting morning journey across the water to the Gili Meno turtle sanctuary for a truly magical aquatic encounter. Midday is perfect for hopping swiftly between multiple pristine snorkeling sites teeming with sea turtles. In the afternoon, dive deeper into the vibrant underwater ecosystem at the renowned turtle spot. Wrap up your active day with a smooth, scenic return trip at sunset."
+      }
+    }
+  }
+}

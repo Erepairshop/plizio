@@ -1,0 +1,520 @@
+{
+  "city_id": "greece-paleochora-cities-v2",
+  "anchor": {
+    "name": "Paleochora",
+    "coords": [
+      23.68219,
+      35.23056
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 2.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Paleiochora",
+            "hu": "Paleiochora",
+            "ro": "Paleiochora",
+            "en": "Paleiochora"
+          },
+          "coords": [
+            23.681605,
+            35.229618
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das lokale Erbe in den Ausstellungen und fragen Sie den Kurator nach verborgenen Einblicken in die maritime Vergangenheit der Stadt.",
+            "hu": "Ismerje meg a helyi örökséget a kiállításokon, és kérdezze meg a kurátort a város tengerészeti múltjának rejtett érdekességeiről.",
+            "ro": "Descoperiți patrimoniul local explorând expozițiile și cereți curatorului detalii ascunse despre trecutul maritim al orașului.",
+            "en": "Learn about local heritage while checking out the exhibits, and ask the curator for hidden insights into the town's maritime past."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss von Selinos",
+            "hu": "Selinos vára",
+            "ro": "Castelul Selinos",
+            "en": "Castle of Selinos"
+          },
+          "coords": [
+            23.680653,
+            35.227547
+          ],
+          "category": "castle",
+          "arrive_at": "10:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Ruinen dieser venezianischen Festung für einen Panoramablick auf das Libysche Meer, aber tragen Sie festes Schuhwerk.",
+            "hu": "Mássza meg ennek a velencei erődnek a romjait a Líbiai-tengerre nyíló panorámáért, de viseljen masszív cipőt az egyenetlen köveken.",
+            "ro": "Urcați pe ruinele acestei fortărețe venețiene pentru o priveliște panoramică asupra Mării Libiei, dar purtați încălțăminte rezistentă pe pietre.",
+            "en": "Climb the ruins of this Venetian fortress for panoramic views of the Libyan Sea, but wear sturdy shoes for the uneven stone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Methexis",
+            "hu": "Methexis",
+            "ro": "Methexis",
+            "en": "Methexis"
+          },
+          "coords": [
+            23.682575,
+            35.225808
+          ],
+          "category": "recreational",
+          "arrive_at": "12:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem charmanten Erholungsort, der sich perfekt für eine Mittagspause eignet, und genießen Sie ein kaltes Getränk.",
+            "hu": "Pihenjen meg ezen a bájos rekreációs helyen, amely tökéletes egy déli szünethez, és igyon egy hideg italt a lágy tengerparti szellőben.",
+            "ro": "Relaxați-vă în acest loc de agrement fermecător, perfect pentru o pauză la amiază, și savurați o băutură rece în briza blândă a coastei.",
+            "en": "Relax in this charming recreational spot perfect for a midday break, and grab a cold drink to cool off under the gentle coastal breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Sandy Beach",
+            "hu": "Sandy Beach",
+            "ro": "Sandy Beach",
+            "en": "Sandy Beach"
+          },
+          "coords": [
+            23.677597,
+            35.23246
+          ],
+          "category": "recreational",
+          "arrive_at": "13:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.87,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten, goldenen Sand dieses beliebten Strandabschnitts und kommen Sie früh, um sich eine Sonnenliege direkt am Wasser zu sichern.",
+            "hu": "Élvezze ennek a népszerű partszakasznak a széles, aranyhomokos partját, és érkezzen korán, ha közvetlenül a vízparton szeretne napozóágyat.",
+            "ro": "Bucurați-vă de nisipul auriu și întins al acestei plaje populare și ajungeți devreme dacă doriți să prindeți un șezlong chiar la marginea apei.",
+            "en": "Enjoy the expansive golden sands of this popular stretch, and arrive early if you want to secure a sunbed right near the water's edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Stoney Beach",
+            "hu": "Stoney Beach",
+            "ro": "Stoney Beach",
+            "en": "Stoney Beach"
+          },
+          "coords": [
+            23.686596,
+            35.233508
+          ],
+          "category": "recreational",
+          "arrive_at": "15:14",
+          "stay_min": 105,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.82,
+          "tip_5lang": {
+            "de": "Lauschen Sie dem beruhigenden Geräusch der Wellen, die über die Kieselsteine rollen, ein idealer Ort, um die Farben des Sonnenuntergangs zu beobachten.",
+            "hu": "Hallgassa a kavicsokon átbukó hullámok megnyugtató hangját, amely ideális helyszínné teszi ezt a partot a naplemente élénk színeinek megtekintéséhez.",
+            "ro": "Ascultați sunetul liniștitor al valurilor care se rostogolesc peste pietricele, fiind un loc ideal pentru a admira culorile vibrante ale apusului.",
+            "en": "Listen to the calming sound of waves tumbling over the pebbles, making it an ideal spot to watch the vibrant colors of the sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung des kulturellen Herzens von Paleochora und der markanten venezianischen Ruinen. Am Mittag entspannen Sie sich in gemütlichen Erholungsgebieten und genießen die kretische Atmosphäre. Der Nachmittag lädt zum Sonnenbaden am goldenen Sandstrand ein. Beenden Sie Ihren Tag an einem friedlichen Küstenort mit einem unvergesslichen Sonnenuntergang über den Kieselsteinen.",
+        "hu": "Kezdje a reggelt Paleochora kulturális központjának és a lenyűgöző velencei romoknak a felfedezésével. Délben pihenjen meg a kellemes rekreációs övezetekben és élvezze a krétai hangulatot. A délután napsütötte homokos strandokon való pihenésre csábít. Zárja a napot egy békés tengerparti helyen, ahol a naplemente felejthetetlen színekre festi az eget a kavicsok felett.",
+        "ro": "Începeți dimineața explorând inima culturală a orașului Paleochora și ruinele venețiene impresionante. La prânz, relaxați-vă în zonele de agrement plăcute, bucurându-vă de atmosfera locală. După-amiaza vă invită să vă relaxați pe plajele cu nisip auriu. Încheiați-vă ziua într-un loc de coastă liniștit, unde apusul pictează cerul în culori de neuitat peste țărmul cu pietriș.",
+        "en": "Start your morning exploring the cultural heart of Paleochora and the striking Venetian ruins that overlook the sea. By midday, take a relaxing break to soak in the quintessential Cretan atmosphere at local recreational spots. The afternoon invites you to unwind on sun-drenched sandy beaches. End your day at a peaceful coastal stretch where the sunset paints the sky in unforgettable colors."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 4.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Paleiochora",
+            "hu": "Paleiochora",
+            "ro": "Paleiochora",
+            "en": "Paleiochora"
+          },
+          "coords": [
+            23.681605,
+            35.229618
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das lokale Erbe in den Ausstellungen und fragen Sie den Kurator nach verborgenen Einblicken in die maritime Vergangenheit der Stadt.",
+            "hu": "Ismerje meg a helyi örökséget a kiállításokon, és kérdezze meg a kurátort a város tengerészeti múltjának rejtett érdekességeiről.",
+            "ro": "Descoperiți patrimoniul local explorând expozițiile și cereți curatorului detalii ascunse despre trecutul maritim al orașului.",
+            "en": "Learn about local heritage while checking out the exhibits, and ask the curator for hidden insights into the town's maritime past."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss von Selinos",
+            "hu": "Selinos vára",
+            "ro": "Castelul Selinos",
+            "en": "Castle of Selinos"
+          },
+          "coords": [
+            23.680653,
+            35.227547
+          ],
+          "category": "castle",
+          "arrive_at": "10:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Ruinen dieser venezianischen Festung für einen Panoramablick auf das Libysche Meer, aber tragen Sie festes Schuhwerk.",
+            "hu": "Mássza meg ennek a velencei erődnek a romjait a Líbiai-tengerre nyíló panorámáért, de viseljen masszív cipőt az egyenetlen köveken.",
+            "ro": "Urcați pe ruinele acestei fortărețe venețiene pentru o priveliște panoramică asupra Mării Libiei, dar purtați încălțăminte rezistentă pe pietre.",
+            "en": "Climb the ruins of this Venetian fortress for panoramic views of the Libyan Sea, but wear sturdy shoes for the uneven stone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Hones Mühlsteinbruch",
+            "hu": "Hones malomkőbánya",
+            "ro": "Cariera de pietre de moară Hones",
+            "en": "Hones Millstone Quarry"
+          },
+          "coords": [
+            23.667928,
+            35.236964
+          ],
+          "category": "historical",
+          "arrive_at": "12:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.55,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die antiken Techniken, mit denen diese massiven Steine aus dem Fels gehauen wurden, und achten Sie auf alte Werkzeugspuren.",
+            "hu": "Csodálja meg az ősi technikákat, amelyekkel ezeket a hatalmas köveket egyenesen a sziklafalból faragták ki, figyelve a szerszámnyomokat is.",
+            "ro": "Minunați-vă de tehnicile antice folosite pentru a sculpta aceste pietre masive direct din stâncă, fiind atenți la urmele lăsate de unelte.",
+            "en": "Marvel at the ancient techniques used to carve these massive stones right out of the rock face, keeping an eye out for tool marks."
+          }
+        },
+        {
+          "name": {
+            "de": "Paralia Pselos Bolakas",
+            "hu": "Paralia Pselos Bolakas",
+            "ro": "Paralia Pselos Bolakas",
+            "en": "Paralia Pselos Bolakas"
+          },
+          "coords": [
+            23.661185,
+            35.238276
+          ],
+          "category": "recreational",
+          "arrive_at": "13:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.63,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine ruhigere Küstenecke, die sich perfekt zum Schnorcheln eignet, also vergessen Sie Ihre Unterwasserausrüstung für das flache Wasser nicht.",
+            "hu": "Fedezzen fel egy csendesebb parti zugot, amely tökéletes sznorkelezéshez, ezért ne felejtse el a felszerelését a tiszta sekély vizekhez.",
+            "ro": "Descoperiți un colț de coastă mai liniștit, perfect pentru snorkeling, așa că nu vă uitați echipamentul pentru a explora apele limpezi.",
+            "en": "Discover a quieter coastal nook perfect for snorkeling, so don't forget your underwater gear to explore the clear shallows."
+          }
+        },
+        {
+          "name": {
+            "de": "Paralia Kalamia",
+            "hu": "Paralia Kalamia",
+            "ro": "Paralia Kalamia",
+            "en": "Paralia Kalamia"
+          },
+          "coords": [
+            23.664203,
+            35.2385
+          ],
+          "category": "recreational",
+          "arrive_at": "14:47",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Nehmen Sie ein erfrischendes Bad abseits der Hauptmassen in dieser friedlichen Bucht, die oft vor stärkeren saisonalen Winden geschützt ist.",
+            "hu": "Vegyen egy frissítő fürdőt a fő tömegtől távol ebben a békés öbölben, amely gyakran védett az erősebb szezonális szelektől.",
+            "ro": "Faceți o baie răcoritoare departe de aglomerația principală în acest golf liniștit, adesea adăpostit de vânturile mai puternice.",
+            "en": "Take a refreshing swim away from the main crowds in this peaceful bay, which is often sheltered from the stronger seasonal winds."
+          }
+        },
+        {
+          "name": {
+            "de": "Sandy Beach",
+            "hu": "Sandy Beach",
+            "ro": "Sandy Beach",
+            "en": "Sandy Beach"
+          },
+          "coords": [
+            23.677597,
+            35.23246
+          ],
+          "category": "recreational",
+          "arrive_at": "15:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten, goldenen Sand dieses beliebten Strandabschnitts und kommen Sie früh, um sich eine Sonnenliege direkt am Wasser zu sichern.",
+            "hu": "Élvezze ennek a népszerű partszakasznak a széles, aranyhomokos partját, és érkezzen korán, ha közvetlenül a vízparton szeretne napozóágyat.",
+            "ro": "Bucurați-vă de nisipul auriu și întins al acestei plaje populare și ajungeți devreme dacă doriți să prindeți un șezlong chiar la marginea apei.",
+            "en": "Enjoy the expansive golden sands of this popular stretch, and arrive early if you want to secure a sunbed right near the water's edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Stoney Beach",
+            "hu": "Stoney Beach",
+            "ro": "Stoney Beach",
+            "en": "Stoney Beach"
+          },
+          "coords": [
+            23.686596,
+            35.233508
+          ],
+          "category": "recreational",
+          "arrive_at": "17:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.82,
+          "tip_5lang": {
+            "de": "Lauschen Sie dem beruhigenden Geräusch der Wellen, die über die Kieselsteine rollen, ein idealer Ort, um die Farben des Sonnenuntergangs zu beobachten.",
+            "hu": "Hallgassa a kavicsokon átbukó hullámok megnyugtató hangját, amely ideális helyszínné teszi ezt a partot a naplemente élénk színeinek megtekintéséhez.",
+            "ro": "Ascultați sunetul liniștitor al valurilor care se rostogolesc peste pietricele, fiind un loc ideal pentru a admira culorile vibrante ale apusului.",
+            "en": "Listen to the calming sound of waves tumbling over the pebbles, making it an ideal spot to watch the vibrant colors of the sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung des kulturellen Herzens von Paleochora und der markanten venezianischen Ruinen. Am Mittag erwarten Sie die historischen Geheimnisse antiker Steinbrüche und ruhigere Buchten. Der Nachmittag lädt zum Schwimmen und Entspannen an sonnenverwöhnten Küstenabschnitten ein. Beenden Sie Ihren Tag an einem friedlichen Strand mit einem unvergesslichen Sonnenuntergang.",
+        "hu": "Kezdje a reggelt Paleochora kulturális központjának és a tengerre néző lenyűgöző velencei romoknak a felfedezésével. Délben az ősi kőbányák történelmi rejtélyei és csendes öblök várják. A délután úszásra és napsütötte partszakaszokon való pihenésre csábít. Zárja a napot egy békés tengerparton, ahol a naplemente felejthetetlen színekre festi az eget.",
+        "ro": "Începeți dimineața explorând inima culturală a orașului Paleochora și ruinele venețiene impresionante cu vedere la mare. La prânz, veți descoperi misterele istorice ale carierelor antice și golfuri mai liniștite. După-amiaza vă invită să înotați și să vă relaxați pe plajele însorite. Încheiați-vă ziua pe o plajă liniștită, unde apusul pictează cerul în culori de neuitat.",
+        "en": "Start your morning exploring the cultural heart of Paleochora and the striking Venetian ruins that overlook the sea. By midday, you'll uncover the historical mysteries of ancient quarries and discover quieter bays. The afternoon invites you to swim and relax on sun-drenched coastal stretches. End your active day at a peaceful pebble beach watching a spectacular sunset over the water."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:22",
+      "total_km": 5.47,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Paleiochora",
+            "hu": "Paleiochora",
+            "ro": "Paleiochora",
+            "en": "Paleiochora"
+          },
+          "coords": [
+            23.681605,
+            35.229618
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das lokale Erbe in den Ausstellungen und fragen Sie den Kurator nach verborgenen Einblicken in die maritime Vergangenheit der Stadt.",
+            "hu": "Ismerje meg a helyi örökséget a kiállításokon, és kérdezze meg a kurátort a város tengerészeti múltjának rejtett érdekességeiről.",
+            "ro": "Descoperiți patrimoniul local explorând expozițiile și cereți curatorului detalii ascunse despre trecutul maritim al orașului.",
+            "en": "Learn about local heritage while checking out the exhibits, and ask the curator for hidden insights into the town's maritime past."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss von Selinos",
+            "hu": "Selinos vára",
+            "ro": "Castelul Selinos",
+            "en": "Castle of Selinos"
+          },
+          "coords": [
+            23.680653,
+            35.227547
+          ],
+          "category": "castle",
+          "arrive_at": "10:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Ruinen dieser venezianischen Festung für einen Panoramablick auf das Libysche Meer, aber tragen Sie festes Schuhwerk.",
+            "hu": "Mássza meg ennek a velencei erődnek a romjait a Líbiai-tengerre nyíló panorámáért, de viseljen masszív cipőt az egyenetlen köveken.",
+            "ro": "Urcați pe ruinele acestei fortărețe venețiene pentru o priveliște panoramică asupra Mării Libiei, dar purtați încălțăminte rezistentă pe pietre.",
+            "en": "Climb the ruins of this Venetian fortress for panoramic views of the Libyan Sea, but wear sturdy shoes for the uneven stone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Hones Mühlsteinbruch",
+            "hu": "Hones malomkőbánya",
+            "ro": "Cariera de pietre de moară Hones",
+            "en": "Hones Millstone Quarry"
+          },
+          "coords": [
+            23.667928,
+            35.236964
+          ],
+          "category": "historical",
+          "arrive_at": "12:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.55,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die antiken Techniken, mit denen diese massiven Steine aus dem Fels gehauen wurden, und achten Sie auf alte Werkzeugspuren.",
+            "hu": "Csodálja meg az ősi technikákat, amelyekkel ezeket a hatalmas köveket egyenesen a sziklafalból faragták ki, figyelve a szerszámnyomokat is.",
+            "ro": "Minunați-vă de tehnicile antice folosite pentru a sculpta aceste pietre masive direct din stâncă, fiind atenți la urmele lăsate de unelte.",
+            "en": "Marvel at the ancient techniques used to carve these massive stones right out of the rock face, keeping an eye out for tool marks."
+          }
+        },
+        {
+          "name": {
+            "de": "Paralia Trokhalou",
+            "hu": "Paralia Trokhalou",
+            "ro": "Paralia Trokhalou",
+            "en": "Paralia Trokhalou"
+          },
+          "coords": [
+            23.658122,
+            35.237901
+          ],
+          "category": "recreational",
+          "arrive_at": "13:41",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie die raue, ungezähmte Schönheit dieses abgelegenen Strandabschnitts und bringen Sie Wasser mit, da die Einrichtungen begrenzt sind.",
+            "hu": "Élvezze ennek a távoli strandnak a zord, zabolátlan szépségét, és vigyen magával vizet, mivel a kényelmi szolgáltatások eléggé korlátozottak.",
+            "ro": "Bucurați-vă de frumusețea sălbatică a acestei plaje îndepărtate, aducând cu voi apă și gustări, deoarece facilitățile sunt destul de limitate.",
+            "en": "Enjoy the rugged, untamed beauty of this distant beach stretch, bringing your own water and snacks as facilities are quite limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Paralia Pselos Bolakas",
+            "hu": "Paralia Pselos Bolakas",
+            "ro": "Paralia Pselos Bolakas",
+            "en": "Paralia Pselos Bolakas"
+          },
+          "coords": [
+            23.661185,
+            35.238276
+          ],
+          "category": "recreational",
+          "arrive_at": "14:43",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine ruhigere Küstenecke, die sich perfekt zum Schnorcheln eignet, also vergessen Sie Ihre Unterwasserausrüstung für das flache Wasser nicht.",
+            "hu": "Fedezzen fel egy csendesebb parti zugot, amely tökéletes sznorkelezéshez, ezért ne felejtse el a felszerelését a tiszta sekély vizekhez.",
+            "ro": "Descoperiți un colț de coastă mai liniștit, perfect pentru snorkeling, așa că nu vă uitați echipamentul pentru a explora apele limpezi.",
+            "en": "Discover a quieter coastal nook perfect for snorkeling, so don't forget your underwater gear to explore the clear shallows."
+          }
+        },
+        {
+          "name": {
+            "de": "Paralia Kalamia",
+            "hu": "Paralia Kalamia",
+            "ro": "Paralia Kalamia",
+            "en": "Paralia Kalamia"
+          },
+          "coords": [
+            23.664203,
+            35.2385
+          ],
+          "category": "recreational",
+          "arrive_at": "15:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Nehmen Sie ein erfrischendes Bad abseits der Hauptmassen in dieser friedlichen Bucht, die oft vor stärkeren saisonalen Winden geschützt ist.",
+            "hu": "Vegyen egy frissítő fürdőt a fő tömegtől távol ebben a békés öbölben, amely gyakran védett az erősebb szezonális szelektől.",
+            "ro": "Faceți o baie răcoritoare departe de aglomerația principală în acest golf liniștit, adesea adăpostit de vânturile mai puternice.",
+            "en": "Take a refreshing swim away from the main crowds in this peaceful bay, which is often sheltered from the stronger seasonal winds."
+          }
+        },
+        {
+          "name": {
+            "de": "Sandy Beach",
+            "hu": "Sandy Beach",
+            "ro": "Sandy Beach",
+            "en": "Sandy Beach"
+          },
+          "coords": [
+            23.677597,
+            35.23246
+          ],
+          "category": "recreational",
+          "arrive_at": "16:49",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten, goldenen Sand dieses beliebten Strandabschnitts und kommen Sie früh, um sich eine Sonnenliege direkt am Wasser zu sichern.",
+            "hu": "Élvezze ennek a népszerű partszakasznak a széles, aranyhomokos partját, és érkezzen korán, ha közvetlenül a vízparton szeretne napozóágyat.",
+            "ro": "Bucurați-vă de nisipul auriu și întins al acestei plaje populare și ajungeți devreme dacă doriți să prindeți un șezlong chiar la marginea apei.",
+            "en": "Enjoy the expansive golden sands of this popular stretch, and arrive early if you want to secure a sunbed right near the water's edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Stoney Beach",
+            "hu": "Stoney Beach",
+            "ro": "Stoney Beach",
+            "en": "Stoney Beach"
+          },
+          "coords": [
+            23.686596,
+            35.233508
+          ],
+          "category": "recreational",
+          "arrive_at": "17:52",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.82,
+          "tip_5lang": {
+            "de": "Lauschen Sie dem beruhigenden Geräusch der Wellen, die über die Kieselsteine rollen, ein idealer Ort, um die Farben des Sonnenuntergangs zu beobachten.",
+            "hu": "Hallgassa a kavicsokon átbukó hullámok megnyugtató hangját, amely ideális helyszínné teszi ezt a partot a naplemente élénk színeinek megtekintéséhez.",
+            "ro": "Ascultați sunetul liniștitor al valurilor care se rostogolesc peste pietricele, fiind un loc ideal pentru a admira culorile vibrante ale apusului.",
+            "en": "Listen to the calming sound of waves tumbling over the pebbles, making it an ideal spot to watch the vibrant colors of the sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung des kulturellen Herzens von Paleochora und der markanten venezianischen Ruinen. Am Mittag fahren Sie zu den historischen Geheimnissen antiker Steinbrüche und wilderen Stränden. Der Nachmittag lädt zum Strand-Hopping an verschiedenen Küstenabschnitten ein. Beenden Sie Ihren flexiblen Autotag an einem friedlichen Strand mit einem unvergesslichen Sonnenuntergang.",
+        "hu": "Kezdje a reggelt Paleochora kulturális központjának és a tengerre néző lenyűgöző velencei romoknak a felfedezésével. Délben vezessen az ősi kőbányák történelmi rejtélyeihez és vadabb partokhoz. A délután változatos partszakaszok bejárására és strandolásra csábít. Zárja rugalmas autós utazását egy békés tengerparton, ahol a naplemente csodás színekre festi az eget.",
+        "ro": "Începeți dimineața explorând inima culturală a orașului Paleochora și ruinele venețiene impresionante. La prânz, conduceți către misterele istorice ale carierelor antice și plajele mai sălbatice. După-amiaza vă invită să explorați diverse plaje de pe coastă. Încheiați-vă ziua flexibilă cu mașina pe o plajă liniștită, unde apusul pictează cerul în culori de neuitat.",
+        "en": "Start your morning exploring the cultural heart of Paleochora and the striking Venetian ruins that overlook the sea. By midday, drive out to uncover the historical mysteries of ancient quarries and wilder shores. The afternoon invites you to beach-hop along the sun-drenched coast, stopping at various serene bays. End your flexible road trip at a peaceful pebble stretch watching a spectacular sunset."
+      }
+    }
+  }
+}

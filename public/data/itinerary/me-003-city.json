@@ -1,0 +1,474 @@
+{
+  "city_id": "me-003-city",
+  "anchor": {
+    "name": "Berane",
+    "coords": [
+      19.8733,
+      42.8425
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:52",
+      "total_km": 2.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kuća Vojvode Gavra Vukovića",
+            "hu": "Kuća Vojvode Gavra Vukovića",
+            "ro": "Kuća Vojvode Gavra Vukovića",
+            "en": "Kuća Vojvode Gavra Vukovića"
+          },
+          "coords": [
+            19.872466,
+            42.842569
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das gut erhaltene Haus von Herzog Gavro Vuković, um Montenegros diplomatische Geschichte zu verstehen, aber prüfen Sie vorher die Öffnungszeiten.",
+            "hu": "Fedezze fel Gavro Vuković herceg jó állapotban fennmaradt otthonát, hogy megértse Montenegró diplomáciai történelmét, de előtte feltétlenül ellenőrizze a nyitvatartást.",
+            "ro": "Explorați casa bine conservată a ducelui Gavro Vuković pentru a înțelege istoria diplomatică a Muntenegrului, dar asigurați-vă că verificați programul în prealabil.",
+            "en": "Explore the well-preserved home of Duke Gavro Vuković to understand Montenegro's diplomatic history, but ensure you confirm opening hours beforehand as they vary."
+          }
+        },
+        {
+          "name": {
+            "de": "Polimski muzej",
+            "hu": "Polimski muzej",
+            "ro": "Polimski muzej",
+            "en": "Polimski muzej"
+          },
+          "coords": [
+            19.872603,
+            42.844056
+          ],
+          "category": "museum",
+          "arrive_at": "10:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine reiche Sammlung archäologischer und ethnografischer Artefakte aus dem Lim-Tal und verpassen Sie nicht die mittelalterliche Schmuckausstellung.",
+            "hu": "Fedezze fel a Lim-völgy régészeti és néprajzi leleteinek gazdag gyűjteményét, és semmiképp se hagyja ki az első emeleti középkori ékszerkiállítást.",
+            "ro": "Descoperiți o colecție bogată de artefacte arheologice și etnografice din Valea Limului și nu ratați expoziția de bijuterii medievale de la primul etaj.",
+            "en": "Discover a rich collection of archaeological and ethnographic artifacts from the Lim Valley, and don't miss the medieval jewelry exhibition on the first floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Gradska plaža",
+            "hu": "Gradska plaža",
+            "ro": "Gradska plaža",
+            "en": "Gradska plaža"
+          },
+          "coords": [
+            19.876781,
+            42.845982
+          ],
+          "category": "recreational",
+          "arrive_at": "12:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Kieselstrand des Flusses Lim an diesem zentralen Strand, ein idealer Ort für ein Picknick, während die Einheimischen die Nachmittagssonne genießen.",
+            "hu": "Pihenjen a Lim folyó kavicsos partján ezen a központi strandon, amely ideális hely egy piknikhez, miközben a helyiek élvezik a délutáni napsütést.",
+            "ro": "Relaxați-vă pe malurile cu pietriș ale râului Lim la această plajă centrală, fiind un loc ideal pentru a aduce un picnic și a urmări localnicii bucurându-se de soare.",
+            "en": "Relax on the pebble shores of the Lim River at this central beach, making it an ideal spot to bring a picnic and watch the locals enjoy the afternoon sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Jasikovac",
+            "hu": "Jasikovac",
+            "ro": "Jasikovac",
+            "en": "Jasikovac"
+          },
+          "coords": [
+            19.879906,
+            42.850745
+          ],
+          "category": "natural",
+          "arrive_at": "14:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesem beeindruckenden Denkmal des lokalen Widerstands, um den Panoramablick auf Berane zu genießen, und besuchen Sie es am besten zur goldenen Stunde.",
+            "hu": "Túrázzon fel a helyi ellenállásnak emléket állító lenyűgöző emlékműhöz, ahonnan panorámás kilátás nyílik Beranéra, és próbáljon meg a fotózáshoz legjobb fényviszonyok idején érkezni.",
+            "ro": "Urcați până la acest monument impresionant care comemorează rezistența locală pentru a vă bucura de vederi panoramice ale orașului Berane, ideal la ora de aur pentru fotografii.",
+            "en": "Hike up to this impressive monument commemorating local resistance to enjoy panoramic views of Berane, and try visiting during golden hour for the best photography lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Manastir Đurđevi Stupovi",
+            "hu": "Manastir Đurđevi Stupovi",
+            "ro": "Manastir Đurđevi Stupovi",
+            "en": "Manastir Đurđevi Stupovi"
+          },
+          "coords": [
+            19.86102,
+            42.852697
+          ],
+          "category": "religious",
+          "arrive_at": "15:42",
+          "stay_min": 70,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden Fresken aus dem 12. Jahrhundert in einem der wichtigsten orthodoxen Klöster Montenegros, wobei angemessene Kleidung streng erforderlich ist.",
+            "hu": "Csodálja meg a 12. századi lenyűgöző freskókat Montenegró egyik legfontosabb ortodox kolostorában, szem előtt tartva, hogy a vállakat és térdeket elfedő szerény öltözék kötelező.",
+            "ro": "Admirați frescele impresionante din secolul al XII-lea în interiorul uneia dintre cele mai importante mănăstiri ortodoxe din Muntenegru, reținând că ținuta decentă este strict obligatorie.",
+            "en": "Admire the striking 12th-century frescoes inside one of Montenegro's most important Orthodox monasteries, keeping in mind that modest dress covering shoulders and knees is strictly required."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang mit der reichen Geschichte Beranes im Haus des Herzogs, gefolgt von den beeindruckenden archäologischen Funden im Polimski-Museum. Mittags erreichen Sie den lebhaften Strand Gradska plaža, wo Sie am smaragdgrünen Lim entspannen können. Nachmittags wandern Sie gemütlich zum Jasikovac-Denkmal, das einen weiten Blick über die Stadt bietet. Beenden Sie den Tag in der spirituellen Ruhe des jahrhundertealten Klosters Đurđevi Stupovi, während die Sonne über dem Tal untergeht.",
+        "hu": "Kezdje a gyalogtúrát Berane gazdag történelmének felfedezésével a Herceg házában, majd tekintse meg a Polimski Múzeum régészeti leleteit. Délben a nyüzsgő Gradska plaža várja, ahol a Lim folyó smaragdzöld vizénél pihenhet. Délután tegyen egy kényelmes túrát a Jasikovac emlékműhöz, ahonnan csodálatos kilátás nyílik a városra. Zárja a napot a több évszázados Đurđevi Stupovi kolostor spirituális nyugalmában, miközben a nap lebukik a völgy felett.",
+        "ro": "Începeți turul pietonal explorând istoria bogată a orașului Berane la casa Ducelui, urmată de descoperirile arheologice de la Muzeul Polimski. La prânz, ajungeți la vibranta Gradska plaža, unde vă puteți relaxa pe malul râului Lim. După-amiaza, faceți o drumeție ușoară până la monumentul Jasikovac pentru vederi panoramice asupra orașului. Încheiați ziua în liniștea spirituală a mănăstirii seculare Đurđevi Stupovi, în timp ce soarele apune peste vale.",
+        "en": "Begin your walking tour diving into the rich history of Berane at the Duke's house, followed by the impressive archaeological finds at the Polimski Museum. Midday brings you to the vibrant Gradska plaža, where you can relax by the emerald waters of the Lim River. In the afternoon, take a leisurely hike up to the Jasikovac memorial for sweeping city views and poignant history. End your day soaking in the spiritual tranquility of the centuries-old Đurđevi Stupovi monastery as the sun sets over the valley."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:51",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaža Mreže",
+            "hu": "Plaža Mreže",
+            "ro": "Plaža Mreže",
+            "en": "Plaža Mreže"
+          },
+          "coords": [
+            19.871919,
+            42.834079
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entfliehen Sie dem Trubel der Stadt an diesem ruhigeren Flussufer, das sich perfekt für einen Morgenspaziergang am Lim eignet, aber Vorsicht vor den rutschigen Steinen.",
+            "hu": "Meneküljön el a város zajától ezen a csendesebb folyóparti helyen, amely tökéletes egy reggeli sétához a Lim folyó mentén, de vigyázzon a csúszós kövekkel.",
+            "ro": "Scăpați de agitația orașului în acest loc mai liniștit de pe malul râului, perfect pentru o plimbare matinală de-a lungul râului Lim, dar atenție la pietrele alunecoase.",
+            "en": "Escape the city bustle at this quieter riverside spot, which is perfect for a morning walk along the Lim River, though be careful of the slippery river stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Kuća Vojvode Gavra Vukovića",
+            "hu": "Kuća Vojvode Gavra Vukovića",
+            "ro": "Kuća Vojvode Gavra Vukovića",
+            "en": "Kuća Vojvode Gavra Vukovića"
+          },
+          "coords": [
+            19.872466,
+            42.842569
+          ],
+          "category": "museum",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das gut erhaltene Haus von Herzog Gavro Vuković, um Montenegros diplomatische Geschichte zu verstehen, aber prüfen Sie vorher die Öffnungszeiten.",
+            "hu": "Fedezze fel Gavro Vuković herceg jó állapotban fennmaradt otthonát, hogy megértse Montenegró diplomáciai történelmét, de előtte feltétlenül ellenőrizze a nyitvatartást.",
+            "ro": "Explorați casa bine conservată a ducelui Gavro Vuković pentru a înțelege istoria diplomatică a Muntenegrului, dar asigurați-vă că verificați programul în prealabil.",
+            "en": "Explore the well-preserved home of Duke Gavro Vuković to understand Montenegro's diplomatic history, but ensure you confirm opening hours beforehand as they vary."
+          }
+        },
+        {
+          "name": {
+            "de": "Polimski muzej",
+            "hu": "Polimski muzej",
+            "ro": "Polimski muzej",
+            "en": "Polimski muzej"
+          },
+          "coords": [
+            19.872603,
+            42.844056
+          ],
+          "category": "museum",
+          "arrive_at": "12:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine reiche Sammlung archäologischer und ethnografischer Artefakte aus dem Lim-Tal und verpassen Sie nicht die mittelalterliche Schmuckausstellung.",
+            "hu": "Fedezze fel a Lim-völgy régészeti és néprajzi leleteinek gazdag gyűjteményét, és semmiképp se hagyja ki az első emeleti középkori ékszerkiállítást.",
+            "ro": "Descoperiți o colecție bogată de artefacte arheologice și etnografice din Valea Limului și nu ratați expoziția de bijuterii medievale de la primul etaj.",
+            "en": "Discover a rich collection of archaeological and ethnographic artifacts from the Lim Valley, and don't miss the medieval jewelry exhibition on the first floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Jasikovac",
+            "hu": "Jasikovac",
+            "ro": "Jasikovac",
+            "en": "Jasikovac"
+          },
+          "coords": [
+            19.879906,
+            42.850745
+          ],
+          "category": "natural",
+          "arrive_at": "13:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesem beeindruckenden Denkmal des lokalen Widerstands, um den Panoramablick auf Berane zu genießen, und besuchen Sie es am besten zur goldenen Stunde.",
+            "hu": "Túrázzon fel a helyi ellenállásnak emléket állító lenyűgöző emlékműhöz, ahonnan panorámás kilátás nyílik Beranéra, és próbáljon meg a fotózáshoz legjobb fényviszonyok idején érkezni.",
+            "ro": "Urcați până la acest monument impresionant care comemorează rezistența locală pentru a vă bucura de vederi panoramice ale orașului Berane, ideal la ora de aur pentru fotografii.",
+            "en": "Hike up to this impressive monument commemorating local resistance to enjoy panoramic views of Berane, and try visiting during golden hour for the best photography lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Manastir Đurđevi Stupovi",
+            "hu": "Manastir Đurđevi Stupovi",
+            "ro": "Manastir Đurđevi Stupovi",
+            "en": "Manastir Đurđevi Stupovi"
+          },
+          "coords": [
+            19.86102,
+            42.852697
+          ],
+          "category": "religious",
+          "arrive_at": "15:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden Fresken aus dem 12. Jahrhundert in einem der wichtigsten orthodoxen Klöster Montenegros, wobei angemessene Kleidung streng erforderlich ist.",
+            "hu": "Csodálja meg a 12. századi lenyűgöző freskókat Montenegró egyik legfontosabb ortodox kolostorában, szem előtt tartva, hogy a vállakat és térdeket elfedő szerény öltözék kötelező.",
+            "ro": "Admirați frescele impresionante din secolul al XII-lea în interiorul uneia dintre cele mai importante mănăstiri ortodoxe din Muntenegru, reținând că ținuta decentă este strict obligatorie.",
+            "en": "Admire the striking 12th-century frescoes inside one of Montenegro's most important Orthodox monasteries, keeping in mind that modest dress covering shoulders and knees is strictly required."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoološki vrt Mašo",
+            "hu": "Zoološki vrt Mašo",
+            "ro": "Zoološki vrt Mašo",
+            "en": "Zoološki vrt Mašo"
+          },
+          "coords": [
+            19.873081,
+            42.856122
+          ],
+          "category": "family",
+          "arrive_at": "16:06",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bringen Sie die ganze Familie in diesen kleinen, aber charmanten lokalen Zoo, um heimische Wildtiere zu sehen, und bringen Sie Bargeld mit, da Kartenzahlungen oft nicht möglich sind.",
+            "hu": "Hozza el az egész családot ebbe a kis, de bájos helyi állatkertbe, hogy megnézzék az őshonos vadon élő állatokat, és vigyen magával készpénzt, mert a bejáratnál nem mindig fogadnak el kártyát.",
+            "ro": "Aduceți întreaga familie la această grădină zoologică locală mică, dar fermecătoare, pentru a vedea fauna regională nativă și luați numerar, deoarece plata cu cardul s-ar putea să nu fie acceptată.",
+            "en": "Bring the whole family to this small but charming local zoo to see native regional wildlife, and consider bringing some cash as card payments might not be accepted at the entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Fahrradabenteuer und genießen Sie die ruhige Morgenbrise an der Plaža Mreže entlang des Flusses Lim. Gegen Mittag radeln Sie ins kulturelle Herz von Berane, um das Haus des Herzogs und das Polimski-Museum zu erkunden. Die Nachmittagsfahrt führt Sie hinauf zum majestätischen Jasikovac-Denkmal und weiter zum historisch bedeutsamen Kloster Đurđevi Stupovi. Beenden Sie Ihren Tag mit einem familienfreundlichen Besuch im örtlichen Mašo-Zoo.",
+        "hu": "Indítsa kerékpáros kalandját a nyugodt reggeli szellő élvezetével a Lim folyó menti Plaža Mreže strandon. Közeledve a délhez, tekerjen Berane kulturális szívébe, hogy felfedezze a Herceg házát és a híres Polimski Múzeumot. Délutáni útja a fenséges Jasikovac emlékműhöz visz, mielőtt a történelmi jelentőségű Đurđevi Stupovi kolostorhoz érne. Zárja a napot egy kellemes, családbarát látogatással a helyi Mašo állatkertben az este közeledtével.",
+        "ro": "Începeți aventura pe bicicletă bucurându-vă de briza liniștită a dimineții la Plaža Mreže, de-a lungul râului Lim. La prânz, pedalați în inima culturală din Berane pentru a explora casa Ducelui și renumitul Muzeu Polimski. Plimbarea de după-amiază vă duce la maiestuosul monument Jasikovac, înainte de a ajunge la mănăstirea istorică Đurđevi Stupovi. Încheiați-vă ziua cu o vizită plăcută și potrivită pentru familii la grădina zoologică Mašo.",
+        "en": "Kick off your cycling adventure by enjoying the tranquil morning breeze at Plaža Mreže along the Lim River. As midday approaches, pedal into the cultural heart of Berane to explore both the Duke's house and the renowned Polimski Museum. Your afternoon ride takes you up to the majestic Jasikovac memorial before cruising to the historically significant Đurđevi Stupovi monastery. Conclude your day with a delightful, family-friendly visit to the local Mašo zoo as evening approaches."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:13",
+      "total_km": 7.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bukovac",
+            "hu": "Bukovac",
+            "ro": "Bukovac",
+            "en": "Bukovac"
+          },
+          "coords": [
+            19.899781,
+            42.826041
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das ruhige Grün von Bukovac ein, um Ihren Tag mit frischer Bergluft zu beginnen, und tragen Sie festes Schuhwerk, da die Wege manchmal uneben sein können.",
+            "hu": "Merüljön el Bukovac nyugodt zöldjében, hogy friss hegyi levegővel indítsa a napot, de viseljen erős cipőt, mivel az ösvények időnként egyenetlenek lehetnek.",
+            "ro": "Cufundați-vă în verdeața senină din Bukovac pentru a vă începe ziua cu aer proaspăt de munte, purtând încălțăminte rezistentă, deoarece traseele pot fi uneori accidentate.",
+            "en": "Immerse yourself in the serene greenery of Bukovac to start your day with fresh mountain air, wearing sturdy shoes as the trails can sometimes be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaža Mreže",
+            "hu": "Plaža Mreže",
+            "ro": "Plaža Mreže",
+            "en": "Plaža Mreže"
+          },
+          "coords": [
+            19.871919,
+            42.834079
+          ],
+          "category": "recreational",
+          "arrive_at": "10:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Entfliehen Sie dem Trubel der Stadt an diesem ruhigeren Flussufer, das sich perfekt für einen Morgenspaziergang am Lim eignet, aber Vorsicht vor den rutschigen Steinen.",
+            "hu": "Meneküljön el a város zajától ezen a csendesebb folyóparti helyen, amely tökéletes egy reggeli sétához a Lim folyó mentén, de vigyázzon a csúszós kövekkel.",
+            "ro": "Scăpați de agitația orașului în acest loc mai liniștit de pe malul râului, perfect pentru o plimbare matinală de-a lungul râului Lim, dar atenție la pietrele alunecoase.",
+            "en": "Escape the city bustle at this quieter riverside spot, which is perfect for a morning walk along the Lim River, though be careful of the slippery river stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Kuća Vojvode Gavra Vukovića",
+            "hu": "Kuća Vojvode Gavra Vukovića",
+            "ro": "Kuća Vojvode Gavra Vukovića",
+            "en": "Kuća Vojvode Gavra Vukovića"
+          },
+          "coords": [
+            19.872466,
+            42.842569
+          ],
+          "category": "museum",
+          "arrive_at": "11:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das gut erhaltene Haus von Herzog Gavro Vuković, um Montenegros diplomatische Geschichte zu verstehen, aber prüfen Sie vorher die Öffnungszeiten.",
+            "hu": "Fedezze fel Gavro Vuković herceg jó állapotban fennmaradt otthonát, hogy megértse Montenegró diplomáciai történelmét, de előtte feltétlenül ellenőrizze a nyitvatartást.",
+            "ro": "Explorați casa bine conservată a ducelui Gavro Vuković pentru a înțelege istoria diplomatică a Muntenegrului, dar asigurați-vă că verificați programul în prealabil.",
+            "en": "Explore the well-preserved home of Duke Gavro Vuković to understand Montenegro's diplomatic history, but ensure you confirm opening hours beforehand as they vary."
+          }
+        },
+        {
+          "name": {
+            "de": "Polimski muzej",
+            "hu": "Polimski muzej",
+            "ro": "Polimski muzej",
+            "en": "Polimski muzej"
+          },
+          "coords": [
+            19.872603,
+            42.844056
+          ],
+          "category": "museum",
+          "arrive_at": "13:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine reiche Sammlung archäologischer und ethnografischer Artefakte aus dem Lim-Tal und verpassen Sie nicht die mittelalterliche Schmuckausstellung.",
+            "hu": "Fedezze fel a Lim-völgy régészeti és néprajzi leleteinek gazdag gyűjteményét, és semmiképp se hagyja ki az első emeleti középkori ékszerkiállítást.",
+            "ro": "Descoperiți o colecție bogată de artefacte arheologice și etnografice din Valea Limului și nu ratați expoziția de bijuterii medievale de la primul etaj.",
+            "en": "Discover a rich collection of archaeological and ethnographic artifacts from the Lim Valley, and don't miss the medieval jewelry exhibition on the first floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Jasikovac",
+            "hu": "Jasikovac",
+            "ro": "Jasikovac",
+            "en": "Jasikovac"
+          },
+          "coords": [
+            19.879906,
+            42.850745
+          ],
+          "category": "natural",
+          "arrive_at": "15:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesem beeindruckenden Denkmal des lokalen Widerstands, um den Panoramablick auf Berane zu genießen, und besuchen Sie es am besten zur goldenen Stunde.",
+            "hu": "Túrázzon fel a helyi ellenállásnak emléket állító lenyűgöző emlékműhöz, ahonnan panorámás kilátás nyílik Beranéra, és próbáljon meg a fotózáshoz legjobb fényviszonyok idején érkezni.",
+            "ro": "Urcați până la acest monument impresionant care comemorează rezistența locală pentru a vă bucura de vederi panoramice ale orașului Berane, ideal la ora de aur pentru fotografii.",
+            "en": "Hike up to this impressive monument commemorating local resistance to enjoy panoramic views of Berane, and try visiting during golden hour for the best photography lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Manastir Đurđevi Stupovi",
+            "hu": "Manastir Đurđevi Stupovi",
+            "ro": "Manastir Đurđevi Stupovi",
+            "en": "Manastir Đurđevi Stupovi"
+          },
+          "coords": [
+            19.86102,
+            42.852697
+          ],
+          "category": "religious",
+          "arrive_at": "16:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden Fresken aus dem 12. Jahrhundert in einem der wichtigsten orthodoxen Klöster Montenegros, wobei angemessene Kleidung streng erforderlich ist.",
+            "hu": "Csodálja meg a 12. századi lenyűgöző freskókat Montenegró egyik legfontosabb ortodox kolostorában, szem előtt tartva, hogy a vállakat és térdeket elfedő szerény öltözék kötelező.",
+            "ro": "Admirați frescele impresionante din secolul al XII-lea în interiorul uneia dintre cele mai importante mănăstiri ortodoxe din Muntenegru, reținând că ținuta decentă este strict obligatorie.",
+            "en": "Admire the striking 12th-century frescoes inside one of Montenegro's most important Orthodox monasteries, keeping in mind that modest dress covering shoulders and knees is strictly required."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoološki vrt Mašo",
+            "hu": "Zoološki vrt Mašo",
+            "ro": "Zoološki vrt Mašo",
+            "en": "Zoološki vrt Mašo"
+          },
+          "coords": [
+            19.873081,
+            42.856122
+          ],
+          "category": "family",
+          "arrive_at": "17:28",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bringen Sie die ganze Familie in diesen kleinen, aber charmanten lokalen Zoo, um heimische Wildtiere zu sehen, und bringen Sie Bargeld mit, da Kartenzahlungen oft nicht möglich sind.",
+            "hu": "Hozza el az egész családot ebbe a kis, de bájos helyi állatkertbe, hogy megnézzék az őshonos vadon élő állatokat, és vigyen magával készpénzt, mert a bejáratnál nem mindig fogadnak el kártyát.",
+            "ro": "Aduceți întreaga familie la această grădină zoologică locală mică, dar fermecătoare, pentru a vedea fauna regională nativă și luați numerar, deoarece plata cu cardul s-ar putea să nu fie acceptată.",
+            "en": "Bring the whole family to this small but charming local zoo to see native regional wildlife, and consider bringing some cash as card payments might not be accepted at the entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt inmitten der Natur im ruhigen Bukovac und genießen Sie eine erfrischende Pause am Lim bei Plaža Mreže. Mittags parken Sie im Stadtzentrum, um im Haus von Gavro Vuković und im Polimski-Museum in die regionale Geschichte einzutauchen. Verbringen Sie den Nachmittag damit, die Aussicht vom Jasikovac-Denkmal zu bewundern und die Fresken des Klosters Đurđevi Stupovi zu erkunden. Beenden Sie diesen umfassenden Tag im charmanten Mašo-Zoo.",
+        "hu": "Kezdje autós túráját a természet lágy ölén a békés Bukovacban, majd élvezze a frissítő reggeli pihenőt a Lim folyónál a Plaža Mreže strandon. Délben parkoljon le a városközpontban, hogy elmerüljön a régió történelmében a Gavro Vuković házban és a Polimski Múzeumban. Délután csodálja meg a panorámát a Jasikovac emlékműtől, és fedezze fel a Đurđevi Stupovi kolostor freskóit. Fejezze be ezt a tartalmas napot a bájos Mašo állatkertben.",
+        "ro": "Începeți turul cu mașina complet cufundați în natura din liniștitul Bukovac, apoi bucurați-vă de o pauză răcoritoare pe malul râului Lim la Plaža Mreže. La prânz, parcați în centrul orașului pentru a descoperi istoria regională la Casa Gavro Vuković și la Muzeul Polimski. Petreceți după-amiaza admirând vederile panoramice de la monumentul Jasikovac și explorând frescele mănăstirii Đurđevi Stupovi. Încheiați ziua la fermecătoarea grădină zoologică Mašo.",
+        "en": "Start your driving tour completely immersed in nature at the serene Bukovac, then enjoy a refreshing morning break by the Lim River at Plaža Mreže. By midday, park in the city center to dive deep into regional history at the Duke Gavro Vuković House and the Polimski Museum. Spend your afternoon admiring the panoramic views from the Jasikovac memorial and exploring the exquisite frescoes of the Đurđevi Stupovi monastery. Finish this comprehensive day out at the charming Mašo zoo before heading to a local tavern."
+      }
+    }
+  }
+}

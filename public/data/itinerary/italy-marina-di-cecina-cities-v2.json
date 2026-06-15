@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-marina-di-cecina-cities-v2",
+  "anchor": {
+    "name": "Marina di Cecina",
+    "coords": [
+      10.49401,
+      43.29958
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:20",
+      "total_km": 2.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche von Cecina Mare",
+            "hu": "Cecina Mare-i templom",
+            "ro": "Biserica din Cecina Mare",
+            "en": "Church of Cecina Mare"
+          },
+          "coords": [
+            10.491639,
+            43.300429
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese bescheidene Kirche, um das lokale maritime Erbe zu würdigen, und achten Sie auf die schlichte Fassade, die sich perfekt für morgendliche Fotos eignet.",
+            "hu": "Látogasson el ebbe a szerény templomba, amely a helyi tengerészeti örökséget őrzi, és figyelje meg az egyszerű homlokzatot, amely tökéletes a reggeli fotózáshoz.",
+            "ro": "Vizitați această biserică modestă pentru a aprecia moștenirea maritimă locală și observați fațada simplă, care este perfectă pentru fotografiile de dimineață.",
+            "en": "Visit this modest church to appreciate the local maritime heritage and notice the simple facade, which is perfectly lit for your morning photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologischer Park der römischen Villa von San Vincenzino",
+            "hu": "San Vincenzino római villa régészeti parkja",
+            "ro": "Parcul Arheologic al Vilei Romane din San Vincenzino",
+            "en": "Archaeological Park of the Roman Villa of San Vincenzino"
+          },
+          "coords": [
+            10.49185,
+            43.301407
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Überreste dieser antiken römischen Villa und ihrer Mosaike, aber tragen Sie bequeme Schuhe, da die Wege recht uneben sein können.",
+            "hu": "Fedezze fel ezen az ókori római villán a lenyűgöző mozaikokat és romokat, de feltétlenül viseljen kényelmes cipőt, mivel az ösvények meglehetősen egyenetlenek.",
+            "ro": "Explorați ruinele fascinante ale acestei vile romane antice și mozaicurile sale, dar asigurați-vă că purtați pantofi confortabili, deoarece potecile sunt inegale.",
+            "en": "Explore the fascinating remains of this ancient Roman villa and its beautiful mosaics, but make sure to wear comfortable walking shoes as the paths can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Gorette Sud",
+            "hu": "Gorette Sud",
+            "ro": "Gorette Sud",
+            "en": "Gorette Sud"
+          },
+          "coords": [
+            10.484356,
+            43.303431
+          ],
+          "category": "recreational",
+          "arrive_at": "11:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannten Strandspaziergang an diesem malerischen Küstenabschnitt und bringen Sie ein eigenes Handtuch mit, um abseits der großen Menschenmengen zu rasten.",
+            "hu": "Élvezze a pihentető tengerparti sétát ezen a festői partszakaszon, és hozzon magával saját törölközőt, hogy a nagyobb tömegektől távol is kényelmesen lepihenhessen.",
+            "ro": "Bucurați-vă de o plimbare relaxantă pe plajă de-a lungul acestei coaste pitorești și aduceți propriul prosop pentru a vă odihni confortabil departe de aglomerație.",
+            "en": "Enjoy a relaxing beach stroll along this picturesque stretch of coastline and bring your own towel to comfortably rest away from the larger summer crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Acqua Village",
+            "hu": "Acqua Village",
+            "ro": "Acqua Village",
+            "en": "Acqua Village"
+          },
+          "coords": [
+            10.501646,
+            43.299211
+          ],
+          "category": "recreational",
+          "arrive_at": "13:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in den Wasserspaß dieses lebhaften Vergnügungsparks im tropischen Stil ein, aber buchen Sie Ihre Tickets am besten online im Voraus, um lange Warteschlangen zu vermeiden.",
+            "hu": "Merüljön el a trópusi hangulatú, nyüzsgő vízi vidámpark nyújtotta szórakozásban, de a hosszú sorok elkerülése érdekében érdemes a jegyeket előre, online megvásárolni.",
+            "ro": "Scufundați-vă în distracția acvatică a acestui parc de distracții plin de viață, cu tematică tropicală, dar cumpărați biletele online în avans pentru a evita cozile lungi.",
+            "en": "Dive into the aquatic fun of this lively tropical-themed amusement park, but make sure to book your tickets online in advance to skip the long waiting lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Il gabbiano",
+            "hu": "Il gabbiano",
+            "ro": "Il gabbiano",
+            "en": "Il gabbiano"
+          },
+          "coords": [
+            10.496978,
+            43.294902
+          ],
+          "category": "recreational",
+          "arrive_at": "14:25",
+          "stay_min": 55,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag in diesem charmanten Küstenbereich, der sich ideal für einen Drink bei Sonnenuntergang eignet, wenn das warme Abendlicht auf die sanften Wellen trifft.",
+            "hu": "Zárja a napot ezen a hangulatos tengerparti helyen, amely ideális egy naplemente melletti ital elfogyasztására, miközben a lemenő nap fénye megvilágítja a hullámokat.",
+            "ro": "Încheiați-vă ziua în această zonă fermecătoare de coastă, ideală pentru o băutură la apus, în timp ce lumina caldă a serii se reflectă frumos pe valurile mării.",
+            "en": "End your day at this charming coastal spot which is absolutely ideal for a sunset drink while the warm evening light beautifully hits the gentle sea waves."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Marina di Cecina, indem Sie die kleine Kirche erkunden und in die antike Geschichte Roms eintauchen. Gegen Mittag spazieren Sie entlang der wunderschönen Küste und genießen den ruhigen Strand von Gorette Sud. Am Nachmittag bringt der Wasserpark Spaß und Abkühlung für die ganze Familie. Der Abend klingt entspannt am Meer aus, wo das Rauschen der Wellen für eine perfekte Atmosphäre sorgt.",
+        "hu": "Kezdje a napot Marina di Cecina szívében a kis templom felfedezésével és az ókori Róma történelmének megismerésével. Dél körül sétáljon végig a gyönyörű tengerparton, és élvezze a csendes Gorette Sud strandot. Délután a helyi élményfürdő kínál szórakozást és felfrissülést az egész családnak. Az este pihentetően ér véget a tengerparton, ahol a hullámok zúgása tökéletes atmoszférát biztosít.",
+        "ro": "Începeți ziua în inima Marinei di Cecina explorând mica biserică și scufundându-vă în istoria romană antică. Pe la prânz, plimbați-vă de-a lungul coastei frumoase și bucurați-vă de plaja liniștită de la Gorette Sud. După-amiaza, parcul acvatic aduce distracție și răcorire pentru întreaga familie. Seara se încheie relaxant pe malul mării, unde sunetul valurilor creează o atmosferă perfectă pentru cină.",
+        "en": "Start your day in the heart of Marina di Cecina by exploring the small church and diving into ancient Roman history. Around noon, take a leisurely stroll along the beautiful coastline and enjoy the quiet beach of Gorette Sud. In the afternoon, the local water park brings endless fun and refreshment for the whole family. The evening ends in a relaxing way by the sea, listening to the gentle sound of the waves."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:38",
+      "total_km": 6.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche von Cecina Mare",
+            "hu": "Cecina Mare-i templom",
+            "ro": "Biserica din Cecina Mare",
+            "en": "Church of Cecina Mare"
+          },
+          "coords": [
+            10.491639,
+            43.300429
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese bescheidene Kirche, um das lokale maritime Erbe zu würdigen, und achten Sie auf die schlichte Fassade, die sich perfekt für morgendliche Fotos eignet.",
+            "hu": "Látogasson el ebbe a szerény templomba, amely a helyi tengerészeti örökséget őrzi, és figyelje meg az egyszerű homlokzatot, amely tökéletes a reggeli fotózáshoz.",
+            "ro": "Vizitați această biserică modestă pentru a aprecia moștenirea maritimă locală și observați fațada simplă, care este perfectă pentru fotografiile de dimineață.",
+            "en": "Visit this modest church to appreciate the local maritime heritage and notice the simple facade, which is perfectly lit for your morning photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologischer Park der römischen Villa von San Vincenzino",
+            "hu": "San Vincenzino római villa régészeti parkja",
+            "ro": "Parcul Arheologic al Vilei Romane din San Vincenzino",
+            "en": "Archaeological Park of the Roman Villa of San Vincenzino"
+          },
+          "coords": [
+            10.49185,
+            43.301407
+          ],
+          "category": "historical",
+          "arrive_at": "09:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Überreste dieser antiken römischen Villa und ihrer Mosaike, aber tragen Sie bequeme Schuhe, da die Wege recht uneben sein können.",
+            "hu": "Fedezze fel ezen az ókori római villán a lenyűgöző mozaikokat és romokat, de feltétlenül viseljen kényelmes cipőt, mivel az ösvények meglehetősen egyenetlenek.",
+            "ro": "Explorați ruinele fascinante ale acestei vile romane antice și mozaicurile sale, dar asigurați-vă că purtați pantofi confortabili, deoarece potecile sunt inegale.",
+            "en": "Explore the fascinating remains of this ancient Roman villa and its beautiful mosaics, but make sure to wear comfortable walking shoes as the paths can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Bunker der Gorette",
+            "hu": "Gorette Bunker",
+            "ro": "Buncărul Gorette",
+            "en": "Gorette Bunker"
+          },
+          "coords": [
+            10.480842,
+            43.310835
+          ],
+          "category": "landmark",
+          "arrive_at": "11:19",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen historischen Bunker aus dem Zweiten Weltkrieg, der sich in den Dünen versteckt, und nehmen Sie eine Taschenlampe mit, um die dunklen Ecken besser zu sehen.",
+            "hu": "Fedezze fel a dűnék között megbúvó második világháborús történelmi bunkert, és mindenképpen vigyen magával zseblámpát, hogy jobban lássa a sötét sarkokat is.",
+            "ro": "Descoperiți acest buncăr istoric din al Doilea Război Mondial ascuns printre dune și aduceți o lanternă pentru a putea observa mai bine detaliile în interior.",
+            "en": "Discover this historical World War II bunker hidden among the coastal dunes, and remember to bring a small flashlight to better see the darker corners inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Ippocampo",
+            "hu": "Bagno Ippocampo",
+            "ro": "Bagno Ippocampo",
+            "en": "Bagno Ippocampo"
+          },
+          "coords": [
+            10.479087,
+            43.309189
+          ],
+          "category": "recreational",
+          "arrive_at": "11:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie eine wohlverdiente Pause in diesem gepflegten Strandbad, das hervorragende Annehmlichkeiten bietet, und mieten Sie frühzeitig einen Schirm an sonnigen Tagen.",
+            "hu": "Tartson egy jól megérdemelt pihenőt ebben a kiváló szolgáltatásokat nyújtó, gondozott strandfürdőben, és napsütéses napokon béreljen napernyőt jó előre.",
+            "ro": "Faceți o pauză binemeritată la această baie de plajă bine întreținută, cu facilități excelente, și închiriați o umbrelă din timp în zilele însorite de vară.",
+            "en": "Take a well-deserved break at this well-maintained beach bath offering excellent amenities, and rent an umbrella early during particularly sunny summer days."
+          }
+        },
+        {
+          "name": {
+            "de": "Spot1",
+            "hu": "Spot1",
+            "ro": "Spot1",
+            "en": "Spot1"
+          },
+          "coords": [
+            10.471418,
+            43.313907
+          ],
+          "category": "recreational",
+          "arrive_at": "12:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Surfer oder versuchen Sie sich selbst in Wassersportarten an diesem lebhaften Treffpunkt, wo die Winde am späten Vormittag perfekte Bedingungen bieten.",
+            "hu": "Figyelje a szörfösöket, vagy próbálja ki a vízi sportokat ezen a nyüzsgő találkozóhelyen, ahol a késő délelőtti szelek tökéletes feltételeket teremtenek.",
+            "ro": "Urmăriți surferii sau încercați sporturile acvatice în acest loc plin de viață, unde vânturile de la sfârșitul dimineții oferă condiții perfecte pe apă.",
+            "en": "Watch the local surfers or try out water sports yourself at this lively meeting point, where the late morning winds create absolutely perfect conditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Acqua Village",
+            "hu": "Acqua Village",
+            "ro": "Acqua Village",
+            "en": "Acqua Village"
+          },
+          "coords": [
+            10.501646,
+            43.299211
+          ],
+          "category": "recreational",
+          "arrive_at": "13:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in den Wasserspaß dieses lebhaften Vergnügungsparks im tropischen Stil ein, aber buchen Sie Ihre Tickets am besten online im Voraus, um lange Warteschlangen zu vermeiden.",
+            "hu": "Merüljön el a trópusi hangulatú, nyüzsgő vízi vidámpark nyújtotta szórakozásban, de a hosszú sorok elkerülése érdekében érdemes a jegyeket előre, online megvásárolni.",
+            "ro": "Scufundați-vă în distracția acvatică a acestui parc de distracții plin de viață, cu tematică tropicală, dar cumpărați biletele online în avans pentru a evita cozile lungi.",
+            "en": "Dive into the aquatic fun of this lively tropical-themed amusement park, but make sure to book your tickets online in advance to skip the long waiting lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Ausstellungspark I Pini",
+            "hu": "I Pini Kiállítási Park",
+            "ro": "Parcul Expozițional I Pini",
+            "en": "I Pini Exhibition Park"
+          },
+          "coords": [
+            10.501095,
+            43.293819
+          ],
+          "category": "recreational",
+          "arrive_at": "14:53",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen schattigen Pinienpark, in dem oft lokale Veranstaltungen und Märkte stattfinden, und genießen Sie die kühlende Brise abseits des heißen Strandes.",
+            "hu": "Sétáljon végig ezen az árnyékos fenyőparkon, amely gyakran ad otthont helyi rendezvényeknek és piacoknak, és élvezze a hűsítő szellőt a forró strandtól távol.",
+            "ro": "Plimbați-vă prin acest parc umbrit de pini, care găzduiește adesea evenimente locale, și bucurați-vă de briza răcoroasă, departe de plaja fierbinte și aglomerată.",
+            "en": "Stroll through this shaded pine park which frequently hosts local events and markets, and deeply enjoy the cooling breeze away from the intensely hot beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und entdecken Sie die historische Seite Cecinas, beginnend mit antiken Ausgrabungen. Gegen Mittag radeln Sie durch schattige Pinienwälder zu faszinierenden Überresten aus dem Zweiten Weltkrieg an der Küste. Der Nachmittag steht im Zeichen von Wassersport, lebhaften Stränden und spritzigen Abenteuern im Wasserpark. Abends laden die weitläufigen Parks unter großen Pinien zu einem entspannten Abschluss ein.",
+        "hu": "Pattanjon kerékpárra, és fedezze fel Cecina történelmi oldalát, kezdve az ókori ásatásokkal. Dél körül tekerjen át az árnyékos fenyőerdőkön a tengerparti történelmi bunkerekhez. A délután a vízi sportokról, a nyüzsgő strandokról és a vízi vidámpark izgalmairól szól. Este a hatalmas fenyőfák alatti tágas parkok hívogatnak egy igazán pihentető és nyugodt napzárásra a friss levegőn.",
+        "ro": "Urcați pe bicicletă și descoperiți latura istorică a Cecinei, începând cu excavațiile antice. În jurul prânzului, pedalați prin păduri de pini umbroase către ruine fascinante din al Doilea Război Mondial de pe coastă. După-amiaza este dedicată sporturilor nautice, plajelor pline de viață și aventurilor la parcul acvatic. Seara, parcurile spațioase de sub pini mari vă invită la o concluzie extrem de relaxantă.",
+        "en": "Hop on your bike and discover the historical side of Cecina, starting with the fascinating ancient excavations. Around noon, cycle through shaded pine forests to historical coastal World War II bunkers. The afternoon is all about exciting water sports, lively beaches, and splashing adventures at the local water park. In the evening, the spacious parks beneath tall pine trees invite you to a deeply relaxing conclusion."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:29",
+      "total_km": 6.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum für Leben und Arbeit der nördlichen Maremma",
+            "hu": "Észak-Maremma Élete és Munkája Múzeum",
+            "ro": "Muzeul Vieții și Muncii din Maremma de Nord",
+            "en": "Museum of Life and Work of Northern Maremma"
+          },
+          "coords": [
+            10.498483,
+            43.318435
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die reiche landwirtschaftliche Geschichte und die Traditionen der nördlichen Maremma und nutzen Sie die informativen, mehrsprachigen Audioguides am Eingang.",
+            "hu": "Ismerje meg az északi Maremma gazdag mezőgazdasági történelmét és hagyományait, és mindenképpen használja a bejáratnál elérhető informatív, többnyelvű audioguide-okat.",
+            "ro": "Aflați mai multe despre istoria și tradițiile agricole bogate din Marea Maremma de Nord și profitați de ghidurile audio informative în mai multe limbi disponibile la intrare.",
+            "en": "Learn about the rich agricultural history and traditions of the northern Maremma region, and make sure to use the informative multilingual audio guides at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Der alte Ofen",
+            "hu": "A régi kemence",
+            "ro": "Vechiul cuptor",
+            "en": "The Old Kiln"
+          },
+          "coords": [
+            10.506153,
+            43.315376
+          ],
+          "category": "historical",
+          "arrive_at": "10:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Überreste dieses alten Ziegelofens, der ein wichtiges Stück lokaler Industriegeschichte darstellt, und fotografieren Sie die roten Backsteine im weichen Nachmittagslicht.",
+            "hu": "Csodálja meg ennek a régi téglakemencének a maradványait, amely a helyi ipartörténet fontos része, és fényképezze le a vörös téglákat a lágy délutáni fényben.",
+            "ro": "Admirați rămășițele acestui vechi cuptor de cărămidă, care reprezintă o bucată importantă din istoria industrială locală, și fotografiați detaliile roșiatice.",
+            "en": "Admire the remains of this old brick kiln representing an important piece of local industrial history, and photograph the red bricks in the soft afternoon sunlight."
+          }
+        },
+        {
+          "name": {
+            "de": "San Vincenzino",
+            "hu": "San Vincenzino",
+            "ro": "San Vincenzino",
+            "en": "San Vincenzino"
+          },
+          "coords": [
+            10.510476,
+            43.309759
+          ],
+          "category": "historical",
+          "arrive_at": "12:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die historischen Ruinen in diesem charmanten Viertel und kombinieren Sie den Besuch mit einem kurzen Stopp in einem der kleinen Cafés in der unmittelbaren Nachbarschaft.",
+            "hu": "Fedezze fel a történelmi romokat ebben a hangulatos negyedben, és kösse össze a látogatást egy rövid pihenővel a közvetlen közelben található kis kávézók egyikében.",
+            "ro": "Descoperiți ruinele istorice din acest cartier fermecător și combinați vizita cu o scurtă oprire la una dintre micile cafenele din imediata vecinătate.",
+            "en": "Discover the historical ruins located in this charming neighborhood and easily combine your visit with a short stop at one of the lovely small cafes nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Heiligen Josef und Leopold",
+            "hu": "Szent József és Lipót templom",
+            "ro": "Biserica Sfinților Iosif și Leopold",
+            "en": "Church of Saints Joseph and Leopold"
+          },
+          "coords": [
+            10.518118,
+            43.31157
+          ],
+          "category": "religious",
+          "arrive_at": "13:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Treten Sie in diese elegante Kirche ein, um ihre ruhige Atmosphäre und die kunstvollen Fresken zu bewundern, wobei Sie unbedingt auf angemessene und respektvolle Kleidung achten sollten.",
+            "hu": "Lépjen be ebbe az elegáns templomba, hogy megcsodálja békés légkörét és díszes freskóit, miközben mindenképpen ügyeljen a megfelelő és tiszteletteljes öltözködésre.",
+            "ro": "Intrați în această biserică elegantă pentru a admira atmosfera sa pașnică și frescele ornate, având grijă să purtați haine adecvate și respectuoase la interior.",
+            "en": "Step inside this elegant church to admire its peaceful atmosphere and ornate frescoes, while ensuring you wear modest and respectful clothing during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologischer Park der römischen Villa von San Vincenzino",
+            "hu": "San Vincenzino római villa régészeti parkja",
+            "ro": "Parcul Arheologic al Vilei Romane din San Vincenzino",
+            "en": "Archaeological Park of the Roman Villa of San Vincenzino"
+          },
+          "coords": [
+            10.49185,
+            43.301407
+          ],
+          "category": "historical",
+          "arrive_at": "14:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Überreste dieser antiken römischen Villa und ihrer Mosaike, aber tragen Sie bequeme Schuhe, da die Wege recht uneben sein können.",
+            "hu": "Fedezze fel ezen az ókori római villán a lenyűgöző mozaikokat és romokat, de feltétlenül viseljen kényelmes cipőt, mivel az ösvények meglehetősen egyenetlenek.",
+            "ro": "Explorați ruinele fascinante ale acestei vile romane antice și mozaicurile sale, dar asigurați-vă că purtați pantofi confortabili, deoarece potecile sunt inegale.",
+            "en": "Explore the fascinating remains of this ancient Roman villa and its beautiful mosaics, but make sure to wear comfortable walking shoes as the paths can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Da Gigi",
+            "hu": "Da Gigi",
+            "ro": "Da Gigi",
+            "en": "Da Gigi"
+          },
+          "coords": [
+            10.476784,
+            43.310423
+          ],
+          "category": "recreational",
+          "arrive_at": "15:44",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich nach einem langen Tag in diesem gemütlichen Küstenbereich bei köstlichen lokalen Snacks und genießen Sie den weiten Blick auf das tyrrhenische Meer am Abend.",
+            "hu": "Pihenjen egy hosszú nap után ebben a hangulatos tengerparti létesítményben finom helyi falatokkal, és élvezze az esti kilátást a csodálatos Tirrén-tengerre.",
+            "ro": "Relaxați-vă după o zi lungă în această locație de coastă confortabilă cu gustări locale delicioase și bucurați-vă de vederea largă la Marea Tireniană în timpul serii.",
+            "en": "Relax after a long day at this cozy coastal establishment with delicious local snacks, and thoroughly enjoy the wide panoramic views of the Tyrrhenian Sea in the evening."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autofahrt beginnt mit tiefen Einblicken in die ländliche und industrielle Vergangenheit der Maremma. Nach dem Museumsbesuch erkunden Sie alte Ziegelöfen und ruhige historische Viertel abseits des Trubels. Der Nachmittag bietet eine Mischung aus eleganter Kirchenarchitektur und einer Rückkehr zu den Wurzeln Roms in den Ausgrabungsstätten. Am Abend fahren Sie an die Küste, um bei köstlichen Snacks den Sonnenuntergang zu genießen.",
+        "hu": "Az autós túra a Maremma vidéki és ipari múltjába nyújt mélyebb betekintést. A múzeumlátogatás után fedezzen fel régi téglakemencéket és csendes, történelmi negyedeket, távol a város zajától. A délután az elegáns templomi építészet és a római gyökerekhez való visszatérés keverékét kínálja az ásatásokon. Este vezessen le a csodás tengerpartra, hogy ízletes helyi falatok mellett élvezze a lenyűgöző naplementét.",
+        "ro": "Călătoria cu mașina începe cu o perspectivă profundă asupra trecutului rural și industrial din regiunea Maremma. După muzeu, explorați cuptoare vechi de cărămidă și cartiere istorice liniștite. După-amiaza oferă un amestec interesant de arhitectură bisericească elegantă și o întoarcere la rădăcinile romane la siturile de excavare. Seara, conduceți pe coastă pentru a savura apusul cu câteva gustări locale delicioase.",
+        "en": "Your road trip begins with deep insights into the rural and industrial past of the beautiful Maremma region. After the museum, explore old brick kilns and quiet historical neighborhoods away from the busy streets. The afternoon offers a mix of elegant church architecture and a return to Roman roots at the archaeological sites. In the evening, drive down to the scenic coast to enjoy the sunset with some delicious local snacks."
+      }
+    }
+  }
+}

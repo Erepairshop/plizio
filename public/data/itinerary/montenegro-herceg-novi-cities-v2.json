@@ -1,0 +1,497 @@
+{
+  "city_id": "montenegro-herceg-novi-cities-v2",
+  "anchor": {
+    "name": "Herceg Novi",
+    "coords": [
+      18.5375,
+      42.453056
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "19:12",
+      "total_km": 3.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kanli Kula Festung",
+            "hu": "Kanli Kula erőd",
+            "ro": "Fortăreața Kanli Kula",
+            "en": "Kanli Kula Fortress"
+          },
+          "coords": [
+            18.537947,
+            42.452335
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Stufen dieser historischen Amphitheater-Festung für atemberaubende Ausblicke auf die Adria und tragen Sie feste Schuhe für die unebenen Steine.",
+            "hu": "Mássza meg ennek a történelmi amfiteátrum-erődnek a lépcsőit a lenyűgöző adriai kilátásért, és viseljen kényelmes cipőt az egyenetlen kövek miatt.",
+            "ro": "Urcați treptele acestei fortărețe-amfiteatru istoric pentru vederi uluitoare la Marea Adriatică și purtați încălțăminte rezistentă pentru pietrele inegale.",
+            "en": "Climb the steps of this historic amphitheater-fortress for stunning views of the Adriatic, and wear sturdy shoes for the uneven stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Ivo Andrić Haus",
+            "hu": "Ivo Andrić Háza",
+            "ro": "Casa lui Ivo Andrić",
+            "en": "House of Ivo Andrić"
+          },
+          "coords": [
+            18.528008,
+            42.454521
+          ],
+          "category": "museum",
+          "arrive_at": "10:42",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie das wunderschön erhaltene Haus des Nobelpreisträgers, um sein Leben zu verstehen, und verpassen Sie nicht den ruhigen Garten rund um das Anwesen.",
+            "hu": "Fedezze fel a Nobel-díjas író gyönyörűen megőrzött otthonát, hogy megismerje életét, és ne hagyja ki a birtokot körülvevő nyugodt kertet.",
+            "ro": "Explorați casa frumos conservată a laureatului Nobel pentru a-i înțelege viața și nu ratați grădina liniștită care înconjoară proprietatea.",
+            "en": "Explore the beautifully preserved home of the Nobel laureate to understand his life, and don't miss the tranquil garden surrounding the property."
+          }
+        },
+        {
+          "name": {
+            "de": "Theater von Herceg Novi",
+            "hu": "Herceg Novi Színház",
+            "ro": "Teatrul din Herceg Novi",
+            "en": "Herceg Novi Theatre"
+          },
+          "coords": [
+            18.531876,
+            42.452266
+          ],
+          "category": "cultural",
+          "arrive_at": "12:28",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit, um das kulturelle Zentrum der Stadt zu bewundern, und prüfen Sie das lokale Programm, da die Abendvorstellungen hier wirklich faszinierend sind.",
+            "hu": "Szánjon egy percet a város kulturális szívének megcsodálására a helyi műsorfüzet átböngészésével, mivel az itteni esti előadások igazán lenyűgözőek.",
+            "ro": "Acordați-vă un moment pentru a admira inima culturală a orașului verificând programul local, deoarece spectacolele de seară de aici sunt cu adevărat captivante.",
+            "en": "Take a moment to admire the cultural heart of the town by checking the local playbill, as evening performances here are truly captivating."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstgalerie Beli",
+            "hu": "Beli Művészeti Galéria",
+            "ro": "Galeria de Artă Beli",
+            "en": "Beli Art Gallery"
+          },
+          "coords": [
+            18.537111,
+            42.451042
+          ],
+          "category": "museum",
+          "arrive_at": "13:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Bewundern Sie zeitgenössische regionale Kunst in dieser intimen Galerie und sprechen Sie leise mit dem Kurator, der gerne die Hintergründe der Exponate erklärt.",
+            "hu": "Csodálja meg a kortárs regionális művészetet ebben a hangulatos galériában, és beszélgessen csendesen a kurátorral, aki szívesen elmagyarázza a kiállítási tárgyak hátterét.",
+            "ro": "Admirați arta regională contemporană în această galerie intimă și discutați încet cu curatorul, care este mereu dornic să explice fundalul exponatelor.",
+            "en": "Admire contemporary regional art in this intimate gallery, and speak quietly with the curator who is always eager to explain the background of the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte Mare",
+            "hu": "Forte Mare",
+            "ro": "Forte Mare",
+            "en": "Forte Mare"
+          },
+          "coords": [
+            18.53604,
+            42.450026
+          ],
+          "category": "castle",
+          "arrive_at": "15:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Stehen Sie auf der Seefestung, die von bosnischen Königen erbaut wurde, um die Bucht zu bewachen, und besuchen Sie sie kurz vor Sonnenuntergang für das beste Licht.",
+            "hu": "Álljon a bosnyák királyok által épített tengeri erőd tetején, amely az öböl bejáratát őrzi, és látogasson el ide közvetlenül naplemente előtt a legjobb fényviszonyokért.",
+            "ro": "Stați în vârful fortăreței maritime construite de regii bosniaci pentru a păzi intrarea în golf și vizitați-o chiar înainte de apus pentru cea mai bună lumină.",
+            "en": "Stand atop the sea fortress built by Bosnian kings to guard the entrance to the bay, and visit right before sunset for the best lighting conditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Zitadelle",
+            "hu": "Citadella",
+            "ro": "Citadela",
+            "en": "Citadella"
+          },
+          "coords": [
+            18.537075,
+            42.449228
+          ],
+          "category": "historical",
+          "arrive_at": "16:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erleben Sie die dramatischen Ruinen der venezianischen Zitadelle, die bei einem Erdbeben ins Meer stürzte, und bleiben Sie zur Sicherheit hinter den Schutzgeländern.",
+            "hu": "Tekintse meg a velencei fellegvár drámai romjait, amelyek egy földrengés során a tengerbe omlottak, és a biztonság kedvéért maradjon a védőkorlátok mögött.",
+            "ro": "Fiți martori la ruinele dramatice ale citadelei venețiene care s-au prăbușit în mare în timpul unui cutremur și stați în spatele balustradelor de protecție pentru siguranță.",
+            "en": "Witness the dramatic ruins of the Venetian citadel that tumbled into the sea during an earthquake, and stay behind the protective railings for safety."
+          }
+        },
+        {
+          "name": {
+            "de": "Bucht von Herceg Novi",
+            "hu": "Herceg Novi-öböl",
+            "ro": "Golful Herceg Novi",
+            "en": "Herceg Novi Bay"
+          },
+          "coords": [
+            18.545822,
+            42.43987
+          ],
+          "category": "landmark",
+          "arrive_at": "18:17",
+          "stay_min": 55,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie die Uferpromenade entlang, um die Schönheit der Bucht in vollen Zügen zu genießen, und holen Sie sich ein lokales Gelato von einem der nahegelegenen Strandverkäufer.",
+            "hu": "Sétáljon végig a vízparti sétányon, hogy teljes mértékben átélje az öböl szépségét, és vegyen egy helyi fagylaltot a közeli tengerparti árusok egyikétől.",
+            "ro": "Plimbați-vă pe faleza de la malul mării pentru a experimenta pe deplin frumusețea golfului și luați o înghețată locală de la unul dintre vânzătorii din apropiere.",
+            "en": "Stroll along the waterfront promenade to fully experience the beauty of the bay, and grab a local gelato from one of the nearby seaside vendors."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittag: Beginnen Sie Ihren Tag mit dem Aufstieg zur Kanli Kula und genießen Sie den Panoramablick auf die Bucht, während die Stadt langsam erwacht.\nMittag: Tauchen Sie in die Kultur ein, indem Sie das historische Haus des Nobelpreisträgers Ivo Andrić und die Beli Kunstgalerie mit ihren faszinierenden Werken erkunden.\nNachmittag: Steigen Sie zur Küste hinab, um die mittelalterlichen Mauern der Forte Mare zu erkunden und die Ruinen der venezianischen Zitadelle am Meer zu bestaunen.\nAbend: Beenden Sie Ihren Spaziergang mit einem entspannten abendlichen Bummel an den Ufern der Bucht von Herceg Novi, wo die Meeresbrise den Tag perfekt abrundet.",
+        "hu": "Délelőtt: Kezdje a napot a Kanli Kula lépcsőinek megmászásával, és élvezze az öbölre nyíló panorámát, miközben a város ébredezik a reggeli napsütésben.\nDél: Merüljön el a kultúrában Ivo Andrić Nobel-díjas író történelmi otthonának és a Beli Művészeti Galériának a felfedezésével, lenyűgöző élményeket gyűjtve.\nDélután: Ereszkedjen le a partvonal felé, hogy bejárja a Forte Mare középkori falait, és megcsodálja a hullámokat érintő velencei Citadella drámai romjait.\nEste: Zárja sétáját egy pihentető alkonyati korzózással a Herceg Novi-öböl partján, ahol a lágy tengeri szellő tökéletesen megkoronázza az eltelt napot.",
+        "ro": "Dimineața: Începeți-vă ziua urcând treptele fortăreței Kanli Kula, admirând vederile panoramice ale golfului în timp ce orașul se trezește la viață.\nAmiaza: Scufundați-vă în cultură explorând casa istorică a laureatului Nobel Ivo Andrić și galeria de artă Beli, unde creativitatea locală prinde contur.\nDupă-amiaza: Coborâți spre coastă pentru a vă plimba pe zidurile medievale ale Forte Mare și a vă minuna de rămășițele prăbușite ale Citadelei venețiene.\nSeara: Încheiați plimbarea cu o promenadă relaxantă la crepuscul pe malurile Golfului Herceg Novi, unde briza mării completează perfect ziua.",
+        "en": "Morning: Start your day by scaling the steps of Kanli Kula, taking in the panoramic views of the bay as the city awakens.\nMidday: Dive into culture by exploring the historic home of Nobel laureate Ivo Andrić and the charming local theater, followed by an inspiring visit to the Beli Art Gallery.\nAfternoon: Descend towards the coastline to wander the medieval walls of Forte Mare and marvel at the crumbled remnants of the Venetian Citadella touching the waves.\nEvening: Conclude your walk with a relaxing twilight stroll along the shores of Herceg Novi Bay, where the sea breeze perfectly caps off the day."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:10",
+      "total_km": 4.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Jadran Schwimmbad",
+            "hu": "Jadran Medence",
+            "ro": "Piscina Jadran",
+            "en": "Jadran Pool"
+          },
+          "coords": [
+            18.533782,
+            42.450585
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen aktiven Start in diesem historischen Freiluft-Wasserballbecken und bringen Sie Ihr eigenes Handtuch mit, wenn Sie sich auf die Tribünen setzen.",
+            "hu": "Élvezze az aktív kezdést ebben a történelmi szabadtéri vízilabda medencében, és hozzon saját törölközőt, ha a lelátóra szeretne ülni az edzéseket nézni.",
+            "ro": "Bucurați-vă de un început activ la acest bazin istoric de polo pe apă în aer liber și aduceți-vă propriul prosop dacă plănuiți să stați pe tribune.",
+            "en": "Enjoy an active start at this historic open-air water polo pool, and bring your own towel if you plan to sit by the bleachers to watch the athletes practice."
+          }
+        },
+        {
+          "name": {
+            "de": "Ivo Andrić Haus",
+            "hu": "Ivo Andrić Háza",
+            "ro": "Casa lui Ivo Andrić",
+            "en": "House of Ivo Andrić"
+          },
+          "coords": [
+            18.528008,
+            42.454521
+          ],
+          "category": "museum",
+          "arrive_at": "10:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie das wunderschön erhaltene Haus des Nobelpreisträgers, um sein Leben zu verstehen, und verpassen Sie nicht den ruhigen Garten rund um das Anwesen.",
+            "hu": "Fedezze fel a Nobel-díjas író gyönyörűen megőrzött otthonát, hogy megismerje életét, és ne hagyja ki a birtokot körülvevő nyugodt kertet.",
+            "ro": "Explorați casa frumos conservată a laureatului Nobel pentru a-i înțelege viața și nu ratați grădina liniștită care înconjoară proprietatea.",
+            "en": "Explore the beautifully preserved home of the Nobel laureate to understand his life, and don't miss the tranquil garden surrounding the property."
+          }
+        },
+        {
+          "name": {
+            "de": "Kanli Kula Festung",
+            "hu": "Kanli Kula erőd",
+            "ro": "Fortăreața Kanli Kula",
+            "en": "Kanli Kula Fortress"
+          },
+          "coords": [
+            18.537947,
+            42.452335
+          ],
+          "category": "castle",
+          "arrive_at": "11:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Stufen dieser historischen Amphitheater-Festung für atemberaubende Ausblicke auf die Adria und tragen Sie feste Schuhe für die unebenen Steine.",
+            "hu": "Mássza meg ennek a történelmi amfiteátrum-erődnek a lépcsőit a lenyűgöző adriai kilátásért, és viseljen kényelmes cipőt az egyenetlen kövek miatt.",
+            "ro": "Urcați treptele acestei fortărețe-amfiteatru istoric pentru vederi uluitoare la Marea Adriatică și purtați încălțăminte rezistentă pentru pietrele inegale.",
+            "en": "Climb the steps of this historic amphitheater-fortress for stunning views of the Adriatic, and wear sturdy shoes for the uneven stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Savina",
+            "hu": "Savina-kolostor",
+            "ro": "Mănăstirea Savina",
+            "en": "Savina Monastery"
+          },
+          "coords": [
+            18.55438,
+            42.452394
+          ],
+          "category": "religious",
+          "arrive_at": "13:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Radeln Sie zu diesem ruhigen orthodoxen Kloster inmitten üppiger mediterraner Vegetation und stellen Sie sicher, dass Ihre Schultern und Knie bedeckt sind.",
+            "hu": "Tekerjen fel ehhez a buja mediterrán növényzettel körülvett nyugodt ortodox kolostorhoz, és belépés előtt gondoskodjon a vállak és térdek megfelelő takarásáról.",
+            "ro": "Pedalați până la această mănăstire ortodoxă senină înconjurată de vegetație mediteraneană luxuriantă și asigurați-vă că aveți umerii și genunchii acoperiți cu respect.",
+            "en": "Pedal up to this serene Orthodox monastery surrounded by lush Mediterranean vegetation, and ensure your shoulders and knees are respectfully covered before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalajza-Bucht",
+            "hu": "Kalajza-öböl",
+            "ro": "Golful Kalajza",
+            "en": "Kalajza Cove"
+          },
+          "coords": [
+            18.543721,
+            42.449808
+          ],
+          "category": "recreational",
+          "arrive_at": "14:09",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad ab, um die ruhige Atmosphäre dieser versteckten Bucht zu genießen, und bringen Sie Badeschuhe mit, um den felsigen Zugang zu meistern.",
+            "hu": "Zárja le kerékpárját, hogy elmerüljön ennek a rejtett öbölnek a nyugodt légkörében, és hozzon magával vizicipőt a kristálytiszta tengerbe vezető sziklás bejárathoz.",
+            "ro": "Blocați-vă bicicleta pentru a vă bucura de atmosfera liniștită a acestui golf ascuns și aduceți încălțăminte de apă pentru a naviga prin accesul stâncos.",
+            "en": "Lock your bike to soak in the tranquil atmosphere of this hidden cove, and bring water shoes to navigate the rocky access into the crystal-clear sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Bucht von Herceg Novi",
+            "hu": "Herceg Novi-öböl",
+            "ro": "Golful Herceg Novi",
+            "en": "Herceg Novi Bay"
+          },
+          "coords": [
+            18.545822,
+            42.43987
+          ],
+          "category": "landmark",
+          "arrive_at": "15:15",
+          "stay_min": 55,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie die Uferpromenade entlang, um die Schönheit der Bucht in vollen Zügen zu genießen, und holen Sie sich ein lokales Gelato von einem der nahegelegenen Strandverkäufer.",
+            "hu": "Sétáljon végig a vízparti sétányon, hogy teljes mértékben átélje az öböl szépségét, és vegyen egy helyi fagylaltot a közeli tengerparti árusok egyikétől.",
+            "ro": "Plimbați-vă pe faleza de la malul mării pentru a experimenta pe deplin frumusețea golfului și luați o înghețată locală de la unul dintre vânzătorii din apropiere.",
+            "en": "Stroll along the waterfront promenade to fully experience the beauty of the bay, and grab a local gelato from one of the nearby seaside vendors."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittag: Beginnen Sie Ihre Radtour am lebhaften Bazen Jadran, spüren Sie die energiegeladene Küstenstimmung und erkunden Sie anschließend das Haus von Ivo Andrić.\nMittag: Radeln Sie bergauf zur imposanten Festung Kanli Kula, wo Ihre Bemühungen mit einem unglaublichen Aussichtspunkt über die alten Dächer und das offene Meer belohnt werden.\nNachmittag: Fahren Sie auf malerischen Pfaden nach Osten zum friedlichen Kloster Savina und setzen Sie Ihren Weg hinunter zu den erholsamen Ufern von Kalajza fort.\nAbend: Beenden Sie Ihre Reise mit einer gemütlichen Fahrt entlang des weitläufigen Hercegnovski zaliv und fangen Sie das magische Licht der goldenen Stunde ein.",
+        "hu": "Délelőtt: Indítsa kerékpártúráját a nyüzsgő Bazen Jadran medencénél, élvezve a parti energiákat, mielőtt felfedezné a helyi irodalomtörténetet Ivo Andrić házában.\nDél: Tekerjen fel a dombra az impozáns Kanli Kula erődhöz, ahol fáradozásait az ősi háztetőkre és a nyílt tengerre nyíló hihetetlen kilátás jutalmazza.\nDélután: Haladjon kelet felé a festői utakon a békés Savina-kolostorhoz, majd folytassa útját a Kalajza rekreációs terület pihentető partjai felé.\nEste: Fejezze be útját egy kényelmes biciklizéssel a hatalmas Herceg Novi-öböl mentén, megcsodálva a csendes adriai vizeken tükröződő aranyórás fényeket.",
+        "ro": "Dimineața: Începeți-vă turul cu bicicleta lângă animata piscină Bazen Jadran, simțind vibrația energică a coastei, înainte de a explora casa lui Ivo Andrić.\nAmiaza: Pedalați la deal pentru a ajunge la impunătoarea fortăreață Kanli Kula, unde eforturile vă sunt răsplătite cu un punct de observație incredibil peste acoperișurile vechi.\nDupă-amiaza: Călătoriți spre est pe poteci pitorești până la pașnica Mănăstire Savina, apoi coborâți spre țărmurile relaxante ale zonei de recreere Kalajza.\nSeara: Încheiați-vă călătoria pedalând pe îndelete pe lângă extinsul golf Herceg Novi, surprinzând lumina orei de aur reflectându-se pe apele liniștite.",
+        "en": "Morning: Kick off your cycling tour by the lively Bazen Jadran, feeling the energetic coastal vibe before moving on to explore local literary history at the Ivo Andrić house.\nMidday: Pedal uphill to reach the imposing Kanli Kula fortress, where your efforts are rewarded with an incredible vantage point over the ancient rooftops and the open sea.\nAfternoon: Ride east along scenic paths to the peaceful Savina Monastery, a spiritual haven, and then continue down to the relaxing shores of the Kalajza recreational area.\nEvening: Finish your journey cycling leisurely alongside the expansive Hercegnovski zaliv, catching the golden hour light reflecting off the tranquil Adriatic waters."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:48",
+      "total_km": 8.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Đevojačke grede",
+            "hu": "Đevojačke grede",
+            "ro": "Đevojačke grede",
+            "en": "Đevojačke grede"
+          },
+          "coords": [
+            18.54094,
+            42.471184
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie an der ausgewiesenen Haltebucht, um diese dramatischen natürlichen Felsformationen zu fotografieren, und bleiben Sie wachsam, da die Bergstraßen sehr eng sind.",
+            "hu": "Parkoljon le a kijelölt pihenőhelynél, hogy lefotózza ezeket a drámai sziklaalakzatokat, és vezessen óvatosan, mivel a hegyi utak meglehetősen szűkek és kanyargósak.",
+            "ro": "Parcați în zona de oprire desemnată pentru a fotografia aceste formațiuni stâncoase naturale dramatice și fiți atenți, deoarece drumurile montane pot fi înguste.",
+            "en": "Park at the designated pull-off area to photograph these dramatic natural rock formations, and stay alert as the mountain roads can be quite narrow and winding."
+          }
+        },
+        {
+          "name": {
+            "de": "Torion",
+            "hu": "Torion",
+            "ro": "Torion",
+            "en": "Torion"
+          },
+          "coords": [
+            18.538339,
+            42.45839
+          ],
+          "category": "natural",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses hochgelegene Naturdenkmal, das einen spektakulären Aussichtspunkt bietet, und nehmen Sie ausreichend Trinkwasser mit, da es hier kaum Einrichtungen gibt.",
+            "hu": "Fedezze fel ezt a magaslati természeti látványosságot, amely látványos kilátópontot nyújt a régióra, és vigyen magával sok ivóvizet, mivel a közelben kevés a létesítmény.",
+            "ro": "Explorați acest reper natural elevat care oferă un punct de observație spectaculos al regiunii și transportați multă apă de băut, deoarece facilitățile sunt rare.",
+            "en": "Explore this elevated natural landmark that provides a spectacular vantage point of the region, and carry plenty of drinking water as facilities are sparse nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Kanli Kula Festung",
+            "hu": "Kanli Kula erőd",
+            "ro": "Fortăreața Kanli Kula",
+            "en": "Kanli Kula Fortress"
+          },
+          "coords": [
+            18.537947,
+            42.452335
+          ],
+          "category": "castle",
+          "arrive_at": "11:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Stufen dieser historischen Amphitheater-Festung für atemberaubende Ausblicke auf die Adria und tragen Sie feste Schuhe für die unebenen Steine.",
+            "hu": "Mássza meg ennek a történelmi amfiteátrum-erődnek a lépcsőit a lenyűgöző adriai kilátásért, és viseljen kényelmes cipőt az egyenetlen kövek miatt.",
+            "ro": "Urcați treptele acestei fortărețe-amfiteatru istoric pentru vederi uluitoare la Marea Adriatică și purtați încălțăminte rezistentă pentru pietrele inegale.",
+            "en": "Climb the steps of this historic amphitheater-fortress for stunning views of the Adriatic, and wear sturdy shoes for the uneven stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster Savina",
+            "hu": "Savina-kolostor",
+            "ro": "Mănăstirea Savina",
+            "en": "Savina Monastery"
+          },
+          "coords": [
+            18.55438,
+            42.452394
+          ],
+          "category": "religious",
+          "arrive_at": "13:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Radeln Sie zu diesem ruhigen orthodoxen Kloster inmitten üppiger mediterraner Vegetation und stellen Sie sicher, dass Ihre Schultern und Knie bedeckt sind.",
+            "hu": "Tekerjen fel ehhez a buja mediterrán növényzettel körülvett nyugodt ortodox kolostorhoz, és belépés előtt gondoskodjon a vállak és térdek megfelelő takarásáról.",
+            "ro": "Pedalați până la această mănăstire ortodoxă senină înconjurată de vegetație mediteraneană luxuriantă și asigurați-vă că aveți umerii și genunchii acoperiți cu respect.",
+            "en": "Pedal up to this serene Orthodox monastery surrounded by lush Mediterranean vegetation, and ensure your shoulders and knees are respectfully covered before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte Mare",
+            "hu": "Forte Mare",
+            "ro": "Forte Mare",
+            "en": "Forte Mare"
+          },
+          "coords": [
+            18.53604,
+            42.450026
+          ],
+          "category": "castle",
+          "arrive_at": "13:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Stehen Sie auf der Seefestung, die von bosnischen Königen erbaut wurde, um die Bucht zu bewachen, und besuchen Sie sie kurz vor Sonnenuntergang für das beste Licht.",
+            "hu": "Álljon a bosnyák királyok által épített tengeri erőd tetején, amely az öböl bejáratát őrzi, és látogasson el ide közvetlenül naplemente előtt a legjobb fényviszonyokért.",
+            "ro": "Stați în vârful fortăreței maritime construite de regii bosniaci pentru a păzi intrarea în golf și vizitați-o chiar înainte de apus pentru cea mai bună lumină.",
+            "en": "Stand atop the sea fortress built by Bosnian kings to guard the entrance to the bay, and visit right before sunset for the best lighting conditions."
+          }
+        },
+        {
+          "name": {
+            "de": "FKK-Strand",
+            "hu": "Nudista strand",
+            "ro": "Plaja de nudiști",
+            "en": "Nudist Beach"
+          },
+          "coords": [
+            18.508386,
+            42.443982
+          ],
+          "category": "recreational",
+          "arrive_at": "15:18",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem abgelegenen FKK-Strand abseits der Massen und denken Sie an Sonnenschutz, da natürlicher Schatten an diesem Küstenabschnitt begrenzt ist.",
+            "hu": "Kapcsolódjon ki ezen az eldugott, tömegtől távol eső naturista strandon, és ne felejtsen el fényvédőt csomagolni, mivel a természetes árnyék itt nagyon korlátozott.",
+            "ro": "Relaxați-vă pe această plajă naturistă retrasă, departe de aglomerație, și nu uitați să împachetați protecție solară, deoarece umbra naturală pe această porțiune de coastă este limitată.",
+            "en": "Unwind at this secluded naturist beach away from the crowds, and remember to pack sun protection as natural shade along this stretch of the coast is very limited."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittag: Fahren Sie in die schroffen Hügel, um die hoch aufragenden Klippen von Đevojačke grede und die natürliche Schönheit von Torion mit ihren dramatischen Landschaften zu bewundern.\nMittag: Navigieren Sie zurück in Richtung Stadtzentrum, um an der beeindruckenden Kanli Kula in die Geschichte einzutauchen, und parken Sie sicher, bevor Sie aufsteigen.\nNachmittag: Machen Sie eine kurze malerische Fahrt zum ruhigen Kloster Savina, gefolgt von der Erkundung der Küstenbastion Forte Mare.\nAbend: Beenden Sie Ihre Autotour, indem Sie zum abgelegenen FKK-Strand fahren, wo Sie einen ruhigen, ungestörten Sonnenuntergang über dem Horizont der Adria beobachten können.",
+        "hu": "Délelőtt: Vezessen fel a zord hegyekbe, hogy megcsodálja a Đevojačke grede tornyosuló szikláit és a Torion természetes szépségét, élvezve a drámai tájat.\nDél: Navigáljon vissza a városközpont felé, hogy elmerüljön a történelemben a lenyűgöző Kanli Kulánál; parkoljon le biztonságosan, mielőtt megmássza az ősi kőlépcsőket.\nDélután: Tegyen egy rövid, festői utazást a nyugodt Savina-kolostorhoz egy békés közjátékért, majd fedezze fel a Forte Mare lenyűgöző tengerparti bástyáját.\nEste: Zárja autós túráját a félreeső FKK strand környékén, ahol csendes, zavartalan naplementét figyelhet meg a nyílt adriai horizont felett.",
+        "ro": "Dimineața: Conduceți pe dealurile accidentate pentru a vă minuna de stâncile falnice din Đevojačke grede și de frumusețea naturală de la Torion, bucurându-vă de peisajele dramatice.\nAmiaza: Navigați înapoi spre centrul orașului pentru a vă cufunda în istorie la impresionanta Kanli Kula, parcând în siguranță înainte de a urca treptele sale de piatră.\nDupă-amiaza: Faceți o scurtă plimbare pitorească până la senina Mănăstire Savina pentru un interludiu pașnic, urmată de explorarea bastionului de coastă Forte Mare.\nSeara: Încheiați-vă turul cu mașina îndreptându-vă spre zona retrasă a plajei FKK, unde puteți urmări un apus liniștit și neîntrerupt peste orizontul Adriaticii.",
+        "en": "Morning: Drive up into the rugged hills to marvel at the towering cliffs of Đevojačke grede and the natural elevated beauty of Torion, enjoying the dramatic landscapes.\nMidday: Navigate back towards the city center to immerse yourself in history at the impressive Kanli Kula, parking securely before ascending its ancient stone steps.\nAfternoon: Take a short scenic drive to the serene Savina Monastery for a peaceful interlude, followed by exploring the coastal bastion of Forte Mare.\nEvening: Conclude your driving tour by heading out to the secluded FKK beach area, where you can watch a quiet, uninterrupted sunset over the Adriatic horizon."
+      }
+    }
+  }
+}

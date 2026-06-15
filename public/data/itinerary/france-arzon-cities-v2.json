@@ -1,0 +1,451 @@
+{
+  "city_id": "france-arzon-cities-v2",
+  "anchor": {
+    "name": "Arzon",
+    "coords": [
+      -2.89162,
+      47.54789
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:22",
+      "total_km": 1.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame",
+            "hu": "Chapelle Notre-Dame",
+            "ro": "Chapelle Notre-Dame",
+            "en": "Chapelle Notre-Dame"
+          },
+          "coords": [
+            -2.900646,
+            47.540427
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen mit einer Besinnung in dieser friedlichen Seekapelle und achten Sie auf die Votivschiffe, die von lokalen Seeleuten gespendet wurden.",
+            "hu": "Kezdje a reggelt ebben a békés tengerészeti kápolnában, és figyelje meg a helyi tengerészek által felajánlott fogadalmi hajómodelleket.",
+            "ro": "Începeți dimineața reflectând în această capelă maritimă liniștită, observând modelele de nave votive oferite de marinarii locali.",
+            "en": "Start your morning reflecting in this peaceful maritime chapel, noticing the votive ship models offered by local sailors."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Port-Sable",
+            "hu": "Plage de Port-Sable",
+            "ro": "Plage de Port-Sable",
+            "en": "Plage de Port-Sable"
+          },
+          "coords": [
+            -2.908188,
+            47.542211
+          ],
+          "category": "recreational",
+          "arrive_at": "09:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem feinen Sand dieser geschützten Bucht und bringen Sie ein Handtuch mit, um die sanften Wellen abseits der starken Meeresströmungen zu genießen.",
+            "hu": "Pihenjen meg e védett öböl finom homokján, és hozzon magával törölközőt, hogy a legeltető tengeráramlatoktól távol élvezhesse a lágy hullámokat.",
+            "ro": "Relaxați-vă pe nisipul fin al acestui golf adăpostit, aducând un prosop pentru a vă bucura de valurile blânde departe de curenții oceanici puternici.",
+            "en": "Relax on the fine sands of this sheltered cove, bringing a towel to enjoy the gentle waves away from the stronger ocean currents."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Port-Blanc",
+            "hu": "Plage de Port-Blanc",
+            "ro": "Plage de Port-Blanc",
+            "en": "Plage de Port-Blanc"
+          },
+          "coords": [
+            -2.914014,
+            47.545369
+          ],
+          "category": "recreational",
+          "arrive_at": "11:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Schlendern Sie an diesem malerischen Strand entlang, der für sein klares Wasser bekannt ist, und packen Sie ein leichtes Picknick ein, das Sie genießen können, während Sie die vorbeifahrenden Boote beobachten.",
+            "hu": "Sétáljon végig ezen a tiszta vizéről híres festői strandon, és csomagoljon egy könnyű pikniket, amelyet a vitorlázó hajókat figyelve fogyaszthat el.",
+            "ro": "Plimbați-vă de-a lungul acestei plaje pitorești renumite pentru apele sale limpezi, împachetând un picnic ușor de savurat în timp ce priviți bărcile trecând.",
+            "en": "Stroll along this scenic beach renowned for its clear waters, packing a light picnic to enjoy while watching the boats sail by."
+          }
+        },
+        {
+          "name": {
+            "de": "La Criée",
+            "hu": "La Criée",
+            "ro": "La Criée",
+            "en": "La Criée"
+          },
+          "coords": [
+            -2.916161,
+            47.54831
+          ],
+          "category": "museum",
+          "arrive_at": "12:44",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem ehemaligen Fischauktionshaus, das heute ein faszinierendes Museum ist und etwa eine Stunde für die Besichtigung benötigt, in das lokale Fischerbe in ein.",
+            "hu": "Merüljön el a helyi halászati örökségben ebben az egykori halárverési csarnokban, amely ma lenyűgöző múzeum, és érdemes egy órát szánni a felfedezésére.",
+            "ro": "Cufundați-vă în moștenirea pescărească locală la această fostă casă de licitații de pește, acum un muzeu fascinant care necesită aproximativ o oră pentru a fi apreciat pe deplin.",
+            "en": "Immerse yourself in the local fishing heritage at this former fish auction house, now a fascinating museum requiring about an hour to fully appreciate."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare de Port-Navalo",
+            "hu": "Phare de Port-Navalo",
+            "ro": "Phare de Port-Navalo",
+            "en": "Phare de Port-Navalo"
+          },
+          "coords": [
+            -2.918301,
+            47.547932
+          ],
+          "category": "landmark",
+          "arrive_at": "14:27",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang und bewundern Sie den Panoramablick auf den Sonnenuntergang über dem Golf von Morbihan von diesem historischen Leuchtturm aus; bringen Sie eine Kamera mit, um das dramatische Küstenlicht einzufangen.",
+            "hu": "Fejezze be sétáját azzal, hogy megcsodálja a Morbihan-öbölre nyíló panorámás naplementét ebből a történelmi világítótoronyból, és hozzon fényképezőgépet a drámai parti fények megörökítéséhez.",
+            "ro": "Încheiați-vă plimbarea admirând apusul panoramic peste Golful Morbihan de la acest far istoric, aducând un aparat foto pentru a surprinde lumina dramatică a coastei.",
+            "en": "End your walk admiring the panoramic sunset views over the Morbihan Gulf from this historic lighthouse, bringing a camera to capture the dramatic coastal light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Wanderung durch Arzon beginnt an einer friedlichen Kapelle, die einen ruhigen Ton für den Tag setzt. Am Mittag spazieren Sie an den einladenden Stränden von Port-Sable und Port-Blanc entlang. Am Nachmittag tauchen Sie im Fischereimuseum in die maritime Geschichte ein. Der Tag gipfelt am ikonischen Leuchtturm, der einen atemberaubenden Blick bietet, wenn die Sonne über dem glitzernden Golf von Morbihan untergeht.",
+        "hu": "Az Arzonon átívelő sétája egy békés kápolnánál kezdődik, amely nyugodt alaphangot ad a napnak. Délben a Port-Sable és a Port-Blanc hívogató homokos partjain sétálhat. Délután a helyi halászati múzeumban merülhet el a tengeri történelemben. A nap az ikonikus világítótoronynál csúcsosodik ki, amely lélegzetelállító kilátást nyújt, ahogy a nap elkezd lemenni a csillogó Morbihan-öböl felett.",
+        "ro": "Călătoria dvs. pietonală prin Arzon începe la o capelă pașnică, stabilind un ton liniștit pentru zi. Prânzul vă aduce de-a lungul nisipurilor primitoare ale Port-Sable și Port-Blanc. După-amiaza, pătrundeți în istoria maritimă la muzeul local de pescuit. Ziua culminează la farul iconic, oferind vederi uluitoare pe măsură ce soarele începe să apună peste strălucitorul Golf Morbihan.",
+        "en": "Your walking journey through Arzon begins at a peaceful chapel, setting a tranquil tone for the day. Midday brings you along the inviting sands of Port-Sable and Port-Blanc, where the ocean air refreshes the spirit. In the afternoon, dive into the maritime history at the local fish auction museum. The day culminates at the iconic lighthouse, offering breathtaking views as the sun begins to lower over the shimmering Morbihan Gulf."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:58",
+      "total_km": 5.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plage du Kerver",
+            "hu": "Plage du Kerver",
+            "ro": "Plage du Kerver",
+            "en": "Plage du Kerver"
+          },
+          "coords": [
+            -2.873391,
+            47.53304
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie eine erfrischende Morgenbrise an diesem weitläufigen Sandstrand und bleiben Sie auf den markierten Radwegen, um die empfindlichen Dünenökosysteme zu schützen.",
+            "hu": "Élvezze a frissítő reggeli szellőt ezen a hatalmas homokos strandon, és maradjon a kijelölt kerékpárutakon, hogy megvédje a törékeny dűne-ökoszisztémákat.",
+            "ro": "Bucurați-vă de briza răcoroasă a dimineții pe această plajă vastă de nisip, păstrând traseele de biciclete marcate pentru a proteja ecosistemele fragile ale dunelor.",
+            "en": "Enjoy a refreshing morning breeze at this expansive sandy beach, keeping to the marked bike paths to protect the fragile dune ecosystems."
+          }
+        },
+        {
+          "name": {
+            "de": "Cairn du Petit-Mont",
+            "hu": "Cairn du Petit-Mont",
+            "ro": "Cairn du Petit-Mont",
+            "en": "Cairn du Petit-Mont"
+          },
+          "coords": [
+            -2.90213,
+            47.53675
+          ],
+          "category": "historical",
+          "arrive_at": "10:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses beeindruckende neolithische Hügelgrab, das tiefe historische Einblicke und spektakuläre Ausblicke auf das Meer bietet; tragen Sie bequeme Schuhe für die unebenen alten Steine.",
+            "hu": "Fedezze fel ezt a lenyűgöző neolitikus sírhalmot, amely mély történelmi betekintést és látványos óceáni kilátást kínál, és viseljen kényelmes cipőt az egyenetlen ősi kövek miatt.",
+            "ro": "Explorați acest impresionant tumul neolitic care oferă perspective istorice profunde și vederi spectaculoase la ocean, purtând încălțăminte confortabilă pentru pietrele antice inegale.",
+            "en": "Explore this impressive Neolithic burial mound which offers profound historical insights and spectacular ocean views, wearing comfortable shoes for the uneven ancient stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Port Lenn",
+            "hu": "Plage de Port Lenn",
+            "ro": "Plage de Port Lenn",
+            "en": "Plage de Port Lenn"
+          },
+          "coords": [
+            -2.908192,
+            47.550061
+          ],
+          "category": "recreational",
+          "arrive_at": "12:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Machen Sie eine Mittagspause an diesem familienfreundlichen Strand, der sich perfekt für ein kurzes Bad in den ruhigen Gewässern eignet, bevor Sie Ihre Radtour entlang der Küste fortsetzen.",
+            "hu": "Tartson déli szünetet ezen a családbarát strandon, amely tökéletes egy gyors mártózásra a nyugodt vizekben, mielőtt folytatná kerékpáros útját a part mentén.",
+            "ro": "Luați o pauză de prânz pe această plajă potrivită pentru familii, perfectă pentru o baie rapidă în apele calme înainte de a vă continua călătoria cu bicicleta de-a lungul coastei.",
+            "en": "Take a midday break at this family-friendly beach, perfect for a quick dip in the calm waters before continuing your cycling journey along the coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Allée couverte de Bilgroix",
+            "hu": "Allée couverte de Bilgroix",
+            "ro": "Allée couverte de Bilgroix",
+            "en": "Allée couverte de Bilgroix"
+          },
+          "coords": [
+            -2.913953,
+            47.556044
+          ],
+          "category": "historical",
+          "arrive_at": "13:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie dieses gut erhaltene megalithische Galeriegrab in der Nähe der Küste und denken Sie daran, vorsichtig um die alten aufrecht stehenden Steine herumzugehen.",
+            "hu": "Csodálja meg ezt a part közelében megbúvó, jól karbantartott megalitikus folyosósírt, és ügyeljen arra, hogy óvatosan lépkedjen az ősi állókövek körül.",
+            "ro": "Minunați-vă de acest mormânt de galerie megalitic bine conservat cuibărit lângă coastă, amintindu-vă să pășiți cu grijă în jurul pietrelor antice verticale.",
+            "en": "Marvel at this well-preserved megalithic gallery grave nestled near the coast, remembering to step carefully around the ancient upright stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainte-Anne",
+            "hu": "Sainte-Anne",
+            "ro": "Sainte-Anne",
+            "en": "Sainte-Anne"
+          },
+          "coords": [
+            -2.914235,
+            47.557142
+          ],
+          "category": "historical",
+          "arrive_at": "14:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie den subtilen Charme dieser historischen Stätte und nehmen Sie sich einen Moment Zeit, um die ruhige Atmosphäre und die traditionelle bretonische Architektur zu schätzen.",
+            "hu": "Fedezze fel e történelmi helyszín finom varázsát, szánjon egy pillanatot a csendes atmoszféra és a hagyományos breton építészet értékelésére.",
+            "ro": "Descoperiți farmecul subtil al acestui sit istoric, luându-vă un moment pentru a aprecia atmosfera liniștită și arhitectura tradițională bretonă.",
+            "en": "Discover the subtle charm of this historical site, taking a moment to appreciate the quiet atmosphere and the traditional Breton architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de Monteno",
+            "hu": "Menhir de Monteno",
+            "ro": "Menhir de Monteno",
+            "en": "Menhir de Monteno"
+          },
+          "coords": [
+            -2.907565,
+            47.557778
+          ],
+          "category": "historical",
+          "arrive_at": "16:08",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour an diesem imposanten Menhir, berühren Sie die raue Granitoberfläche und stellen Sie sich die prähistorischen Gemeinschaften vor, die ihn hier errichtet haben.",
+            "hu": "Fejezze be kerékpártúráját ennél az impozáns menhirnél, érintse meg a durva gránitfelületet, miközben elképzeli az őskori közösségeket, amelyek ide emelték.",
+            "ro": "Încheiați-vă turul cu bicicleta la această piatră impunătoare, atingând suprafața aspră de granit în timp ce vă imaginați comunitățile preistorice care au ridicat-o aici.",
+            "en": "Conclude your bike tour at this imposing standing stone, touching the rough granite surface while imagining the prehistoric communities that erected it here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer am weitläufigen Plage du Kerver und genießen Sie die morgendliche Meeresbrise. Am späten Vormittag radeln Sie zum unglaublichen alten Cairn du Petit-Mont. Ihr Nachmittag ist voller historischer Wunder, während Sie die megalithischen Stätten von Bilgroix und Sainte-Anne erkunden. Beenden Sie die Fahrt am Menhir de Monteno, einem grandiosen steinernen Wächter vor dem bretonischen Himmel.",
+        "hu": "Kezdje kerékpáros kalandját a hatalmas Plage du Kerver-en, élvezve a reggeli tengeri szellőt. Késő délelőtt tekerjen a Cairn du Petit-Mont hihetetlen ősi építményéhez. A délután tele van történelmi csodákkal, miközben felfedezi Bilgroix és Sainte-Anne megalitikus helyszíneit. Fejezze be az utat a Menhir de Montenónál, a breton égbolttal szemben büszkén álló, grandiózus kőőrzőnél.",
+        "ro": "Începeți aventura pe bicicletă la vasta Plage du Kerver, bucurându-vă de briza mării dimineața. Până dimineața târziu, pedalați către structura antică incredibilă a Cairn du Petit-Mont. După-amiaza dvs. este plină de minuni istorice în timp ce explorați siturile megalitice din Bilgroix și Sainte-Anne. Terminați plimbarea la Menhir de Monteno, o mare santinelă de piatră ce stă mândră pe cerul breton.",
+        "en": "Kick off your cycling adventure at the expansive Plage du Kerver, enjoying the morning sea breeze. By late morning, pedal toward the incredible ancient structure of Cairn du Petit-Mont. Your afternoon is filled with historical wonder as you explore the megalithic sites of Bilgroix and Sainte-Anne. Finish the ride at the Menhir de Monteno, a grand stone sentinel standing proudly against the Breton sky."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:09",
+      "total_km": 4.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Er Lannic - Enceinte Megalithique semi-immergée",
+            "hu": "Er Lannic - Enceinte Megalithique semi-immergée",
+            "ro": "Er Lannic - Enceinte Megalithique semi-immergée",
+            "en": "Er Lannic - Enceinte Megalithique semi-immergée"
+          },
+          "coords": [
+            -2.89696,
+            47.567734
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie diese mysteriösen, halb versunkenen Megalithen am frühen Tag vom Festland aus und prüfen Sie vorher den Gezeitenkalender für die beste Sichtbarkeit.",
+            "hu": "Figyelje meg ezeket a titokzatos, félig vízbe merült megalitokat a szárazföldi kilátóból a nap korai szakaszában, és a legjobb láthatóság érdekében előtte ellenőrizze az árapály-menetrendet.",
+            "ro": "Observați acești megaliți misterioși semi-scufundați de la punctul de belvedere de pe continent la începutul zilei, verificând programul mareelor în prealabil pentru cea mai bună vizibilitate.",
+            "en": "Observe these mysterious semi-submerged megaliths from the mainland viewpoint early in the day, checking the tide schedule beforehand for the best visibility."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Fontaines",
+            "hu": "Plage des Fontaines",
+            "ro": "Plage des Fontaines",
+            "en": "Plage des Fontaines"
+          },
+          "coords": [
+            -2.904301,
+            47.559168
+          ],
+          "category": "recreational",
+          "arrive_at": "10:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Machen Sie einen angenehmen Spaziergang entlang dieses weniger überlaufenen Sandstrandes, genießen Sie die natürlichen Quellen, die dem Strand seinen Namen geben, und suchen Sie nach einzigartigen Muscheln.",
+            "hu": "Tegyen egy kellemes sétát ezen a kevésbé zsúfolt homokos szakaszon, élvezze a tengerpartnak nevet adó természetes forrásokat, és keressen különleges kagylókat.",
+            "ro": "Faceți o plimbare plăcută de-a lungul acestei fâșii de nisip mai puțin aglomerate, bucurându-vă de izvoarele naturale care dau numele plajei și căutând scoici unice.",
+            "en": "Take a pleasant walk along this less crowded stretch of sand, enjoying the natural springs that give the beach its name and searching for unique seashells."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Treno",
+            "hu": "Plage du Treno",
+            "ro": "Plage du Treno",
+            "en": "Plage du Treno"
+          },
+          "coords": [
+            -2.910732,
+            47.556507
+          ],
+          "category": "recreational",
+          "arrive_at": "11:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre dieser versteckten Strandbucht, ein perfekter Ort, um eine Decke auszubreiten und den rhythmischen Klängen der Meereswellen zu lauschen.",
+            "hu": "Élvezze ennek az eldugott strandöbölnek a nyugodt atmoszféráját, amely tökéletes hely arra, hogy leterítsen egy takarót, és hallgassa az óceán hullámainak ritmikus hangját.",
+            "ro": "Savurați atmosfera liniștită a acestui golf de plajă ascuns, un loc perfect pentru a întinde o pătură și a asculta sunetele ritmice ale valurilor oceanului.",
+            "en": "Relish the tranquil atmosphere of this hidden beach cove, a perfect spot to lay out a blanket and listen to the rhythmic sounds of the ocean waves."
+          }
+        },
+        {
+          "name": {
+            "de": "La Criée",
+            "hu": "La Criée",
+            "ro": "La Criée",
+            "en": "La Criée"
+          },
+          "coords": [
+            -2.916161,
+            47.54831
+          ],
+          "category": "museum",
+          "arrive_at": "13:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem ehemaligen Fischauktionshaus, das heute ein faszinierendes Museum ist und etwa eine Stunde für die Besichtigung benötigt, in das lokale Fischerbe in ein.",
+            "hu": "Merüljön el a helyi halászati örökségben ebben az egykori halárverési csarnokban, amely ma lenyűgöző múzeum, és érdemes egy órát szánni a felfedezésére.",
+            "ro": "Cufundați-vă în moștenirea pescărească locală la această fostă casă de licitații de pește, acum un muzeu fascinant care necesită aproximativ o oră pentru a fi apreciat pe deplin.",
+            "en": "Immerse yourself in the local fishing heritage at this former fish auction house, now a fascinating museum requiring about an hour to fully appreciate."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare de Port-Navalo",
+            "hu": "Phare de Port-Navalo",
+            "ro": "Phare de Port-Navalo",
+            "en": "Phare de Port-Navalo"
+          },
+          "coords": [
+            -2.918301,
+            47.547932
+          ],
+          "category": "landmark",
+          "arrive_at": "14:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang und bewundern Sie den Panoramablick auf den Sonnenuntergang über dem Golf von Morbihan von diesem historischen Leuchtturm aus; bringen Sie eine Kamera mit, um das dramatische Küstenlicht einzufangen.",
+            "hu": "Fejezze be sétáját azzal, hogy megcsodálja a Morbihan-öbölre nyíló panorámás naplementét ebből a történelmi világítótoronyból, és hozzon fényképezőgépet a drámai parti fények megörökítéséhez.",
+            "ro": "Încheiați-vă plimbarea admirând apusul panoramic peste Golful Morbihan de la acest far istoric, aducând un aparat foto pentru a surprinde lumina dramatică a coastei.",
+            "en": "End your walk admiring the panoramic sunset views over the Morbihan Gulf from this historic lighthouse, bringing a camera to capture the dramatic coastal light."
+          }
+        },
+        {
+          "name": {
+            "de": "Cairn du Petit-Mont",
+            "hu": "Cairn du Petit-Mont",
+            "ro": "Cairn du Petit-Mont",
+            "en": "Cairn du Petit-Mont"
+          },
+          "coords": [
+            -2.90213,
+            47.53675
+          ],
+          "category": "historical",
+          "arrive_at": "15:19",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses beeindruckende neolithische Hügelgrab, das tiefe historische Einblicke und spektakuläre Ausblicke auf das Meer bietet; tragen Sie bequeme Schuhe für die unebenen alten Steine.",
+            "hu": "Fedezze fel ezt a lenyűgöző neolitikus sírhalmot, amely mély történelmi betekintést és látványos óceáni kilátást kínál, és viseljen kényelmes cipőt az egyenetlen ősi kövek miatt.",
+            "ro": "Explorați acest impresionant tumul neolitic care oferă perspective istorice profunde și vederi spectaculoase la ocean, purtând încălțăminte confortabilă pentru pietrele antice inegale.",
+            "en": "Explore this impressive Neolithic burial mound which offers profound historical insights and spectacular ocean views, wearing comfortable shoes for the uneven ancient stones."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt mit den mysteriösen, halb versunkenen Steinen bei Er Lannic, die im Morgenlicht am besten zur Geltung kommen. Am Mittag erreichen Sie die ruhigen Strände Fontaines und Treno, perfekt für einen kurzen, entspannenden Stopp. Besuchen Sie am Nachmittag das Schifffahrtsmuseum, bevor Sie den berühmten Leuchtturm von Port-Navalo erblicken. Beenden Sie Ihre umfassende Tour am prächtigen Cairn du Petit-Mont.",
+        "hu": "Autós túrája a titokzatos, félig elsüllyedt kövekkel kezdődik Er Lannicnál, amelyek a reggeli fényben a legszebbek. Délben Fontaines és Treno nyugodt strandjaihoz érkezik, amelyek tökéletesek egy rövid pihenőre. Délután látogassa meg a tengerészeti múzeumot, majd pillantsa meg a híres Port-Navalo világítótornyot. Zárja átfogó túráját a csodálatos, történelemben gazdag Cairn du Petit-Montnál.",
+        "ro": "Turul dvs. cu mașina începe cu pietrele misterioase semi-scufundate de la Er Lannic, cel mai bine văzute în lumina dimineții. Prânzul vă aduce la plajele liniștite Fontaines și Treno, perfecte pentru o scurtă oprire relaxantă. Pe măsură ce după-amiaza se desfășoară, vizitați muzeul maritim înainte de a zări faimosul far Port-Navalo. Încheiați turul la magnificul Cairn du Petit-Mont.",
+        "en": "Your driving tour begins with mysterious semi-submerged stones at Er Lannic, best viewed in the morning light. Midday brings you to the tranquil beaches of Fontaines and Treno, perfect for a brief, relaxing stop. As the afternoon unfolds, visit the maritime museum before catching sight of the famous Port-Navalo lighthouse. Conclude your comprehensive tour at the magnificent Cairn du Petit-Mont, rich in history."
+      }
+    }
+  }
+}

@@ -1,0 +1,451 @@
+{
+  "city_id": "aquileia",
+  "anchor": {
+    "name": "Aquileia",
+    "coords": [
+      13.37,
+      45.77
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:19",
+      "total_km": 1.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Foro Romano",
+            "hu": "Foro Romano",
+            "ro": "Foro Romano",
+            "en": "Foro Romano"
+          },
+          "coords": [
+            13.366413,
+            45.772886
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die antiken Säulen dieses Forums, das einst das politische Herz der Stadt war, und kommen Sie früh, um die Mittagssonne zu meiden.",
+            "hu": "Csodálja meg a fórum ókori oszlopait, a város egykori politikai központját, és érkezzen korán, hogy elkerülje a déli hőséget és a nagy tömeget.",
+            "ro": "Admirați coloanele antice ale acestui forum roman, odinioară inima politică a orașului, și vizitați-l devreme pentru a evita soarele amiezii.",
+            "en": "Admire the ancient columns of this Roman forum, the once-bustling political heart of the city, and visit early to avoid the midday sun and crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Porto Fluviale",
+            "hu": "Porto Fluviale",
+            "ro": "Porto Fluviale",
+            "en": "Porto Fluviale"
+          },
+          "coords": [
+            13.369781,
+            45.773227
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "09:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Überreste des großen Flusshafens, der den Reichtum Aquileias begründete, und spazieren Sie an den malerischen alten Kais entlang.",
+            "hu": "Fedezze fel az egykori hatalmas folyami kikötő maradványait, amely Aquileia gazdagságát adta, és sétáljon végig az ókori rakpartok mentén.",
+            "ro": "Explorați rămășițele marelui port fluvial care a alimentat bogăția orașului Aquileia și plimbați-vă de-a lungul cheiurilor antice pitorești.",
+            "en": "Trace the remnants of the grand river port that fueled Aquileia's wealth, and walk the ancient quays where cargo ships once docked centuries ago."
+          }
+        },
+        {
+          "name": {
+            "de": "Domus di Titus Macer",
+            "hu": "Domus di Titus Macer",
+            "ro": "Domus di Titus Macer",
+            "en": "Domus di Titus Macer"
+          },
+          "coords": [
+            13.369457,
+            45.77113
+          ],
+          "category": "historical",
+          "arrive_at": "10:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erkunden Sie die wunderschön erhaltenen Bodenmosaike dieses reichen römischen Hauses und tragen Sie flache Schuhe, um die Ausgrabung zu besichtigen.",
+            "hu": "Fedezze fel e gazdag római ház gyönyörűen fennmaradt padlómozaikjait, és feltétlenül viseljen lapos cipőt az ásatási terület kényelmes bejárásához.",
+            "ro": "Explorați mozaicurile de podea frumos conservate ale acestei case romane bogate și asigurați-vă că purtați încălțăminte plată și confortabilă.",
+            "en": "Explore the beautifully preserved floor mosaics of this wealthy Roman home, and be sure to wear flat shoes to comfortably navigate the excavation area."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica di Santa Maria Assunta",
+            "hu": "Basilica di Santa Maria Assunta",
+            "ro": "Basilica di Santa Maria Assunta",
+            "en": "Basilica di Santa Maria Assunta"
+          },
+          "coords": [
+            13.370872,
+            45.769629
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Betrachten Sie das riesige frühchristliche Mosaik, das biblische Szenen darstellt, und nutzen Sie die Glasstege, um die Details genau zu studieren.",
+            "hu": "Csodálja meg a bibliai jeleneteket ábrázoló, hatalmas ókeresztény mozaikpadlót, és használja az üvegjárdákat a lenyűgöző részletek tanulmányozására.",
+            "ro": "Admirați imensa podea de mozaic paleocreștin cu scene biblice și folosiți aleile de sticlă transparentă pentru a studia îndeaproape detaliile.",
+            "en": "Gaze at the vast, spectacular early Christian mosaic floor detailing biblical scenes, and use the transparent glass walkways to study them closely."
+          }
+        },
+        {
+          "name": {
+            "de": "Via Sacra",
+            "hu": "Via Sacra",
+            "ro": "Via Sacra",
+            "en": "Via Sacra"
+          },
+          "coords": [
+            13.370307,
+            45.769254
+          ],
+          "category": "parks/promenades/beaches",
+          "arrive_at": "12:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Schlendern Sie diese friedliche, von Bäumen gesäumte Allee entlang, die die Ruinen mit der Basilika verbindet und ideal für einen Spaziergang ist.",
+            "hu": "Sétáljon végig ezen a békés, fákkal szegélyezett sétányon, amely összeköti a romokat a bazilikával, tökéletes egy pihentető, árnyékos sétához.",
+            "ro": "Plimbați-vă pe acest bulevard liniștit străjuit de copaci care leagă ruinele de bazilică, perfect pentru o plimbare relaxantă și plină de umbră.",
+            "en": "Stroll along this peaceful tree-lined avenue that connects the ruins to the basilica, perfect for a relaxing shaded walk away from the main roads."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Archeologico Nazionale",
+            "hu": "Museo Archeologico Nazionale",
+            "ro": "Museo Archeologico Nazionale",
+            "en": "Museo Archeologico Nazionale"
+          },
+          "coords": [
+            13.368762,
+            45.767653
+          ],
+          "category": "museums",
+          "arrive_at": "14:09",
+          "stay_min": 130,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine riesige Sammlung von römischem Glas, Edelsteinen und Statuen, und besuchen Sie die oberen Etagen für den feinsten Schmuck.",
+            "hu": "Fedezze fel a római üvegek, drágakövek és szobrok hatalmas gyűjteményét, és nézze meg a felső emeleteket, ahol a legfinomabb ékszerek találhatók.",
+            "ro": "Descoperiți o colecție imensă de sticlărie romană, pietre prețioase și statui, și vizitați etajele superioare unde sunt expuse bijuterii fine.",
+            "en": "Discover an immense collection of Roman glass, gems, and statuary, and check the upper floors where the finest intricate jewelry pieces are displayed."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie am majestätischen Foro Romano und stellen Sie sich das geschäftige antike Leben vor, bevor Sie den nahe gelegenen Hafen erkunden.\nMittag: Entdecken Sie die gut erhaltene Domus di Titus Macer und besuchen Sie die prächtige Basilika für ihre legendären Mosaike.\nNachmittag: Schlendern Sie über die schattige Via Sacra und genießen Sie die Atmosphäre des archäologischen Parks.\nAbend: Beenden Sie den Tag im Museo Archeologico Nazionale, um die historischen Schätze der Region zu würdigen.",
+        "hu": "Délelőtt: Kezdje a fenséges Foro Romanónál, képzelje el a nyüzsgő ókori életet, majd fedezze fel a közeli ókori kikötőt.\nDél: Fedezze fel a jó állapotban fennmaradt Domus di Titus Macert, és induljon a csodálatos bazilikába a legendás mozaikokért.\nDélután: Sétáljon végig az árnyékos Via Sacra mentén, és élvezze a békés régészeti park hangulatát.\nEste: Zárja a napot a Museo Archeologico Nazionale-ban, hogy teljes mértékben értékelje a régió hatalmas történelmi kincseit.",
+        "ro": "Dimineața: Începeți la maiestuosul Foro Romano, imaginându-vă viața antică plină de viață, apoi explorați portul antic din apropiere.\nPrânz: Descoperiți bine conservata Domus di Titus Macer și îndreptați-vă spre magnifica Bazilică pentru mozaicurile sale legendare.\nDupă-amiaza: Rătăciți de-a lungul Via Sacra, plină de umbră, bucurându-vă de atmosfera senină a parcului arheologic.\nSeara: Încheiați la Museo Archeologico Nazionale pentru a aprecia pe deplin vastele comori istorice ale regiunii.",
+        "en": "Morning: Start at the majestic Foro Romano, imagining the bustling ancient life, then explore the nearby ancient port.\nMidday: Discover the well-preserved Domus di Titus Macer and head to the magnificent Basilica for its legendary mosaics.\nAfternoon: Wander along the shaded Via Sacra, soaking in the serene archaeological park atmosphere.\nEvening: Conclude at the Museo Archeologico Nazionale to fully appreciate the region's vast historical treasures."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:04",
+      "total_km": 7.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo Paleocristiano",
+            "hu": "Museo Paleocristiano",
+            "ro": "Museo Paleocristiano",
+            "en": "Museo Paleocristiano"
+          },
+          "coords": [
+            13.3712,
+            45.7777
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende frühchristliche Artefakte in einem alten Kloster und fragen Sie das Museumspersonal nach den verborgenen Krypten.",
+            "hu": "Fedezze fel a lenyűgöző ókeresztény leleteket egy régi kolostorban, és érdeklődjön a múzeum személyzetétől az épület alatti rejtett kriptákról.",
+            "ro": "Descoperiți artefacte paleocreștine fascinante găzduite într-o veche mănăstire și întrebați personalul muzeului despre criptele ascunse dedesubt.",
+            "en": "Uncover the fascinating early Christian artifacts housed in an old monastery, and ask the museum staff about the hidden crypts beneath the structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Porto Fluviale",
+            "hu": "Porto Fluviale",
+            "ro": "Porto Fluviale",
+            "en": "Porto Fluviale"
+          },
+          "coords": [
+            13.369781,
+            45.773227
+          ],
+          "category": "bridges/lighthouses",
+          "arrive_at": "10:53",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Überreste des großen Flusshafens, der den Reichtum Aquileias begründete, und spazieren Sie an den malerischen alten Kais entlang.",
+            "hu": "Fedezze fel az egykori hatalmas folyami kikötő maradványait, amely Aquileia gazdagságát adta, és sétáljon végig az ókori rakpartok mentén.",
+            "ro": "Explorați rămășițele marelui port fluvial care a alimentat bogăția orașului Aquileia și plimbați-vă de-a lungul cheiurilor antice pitorești.",
+            "en": "Trace the remnants of the grand river port that fueled Aquileia's wealth, and walk the ancient quays where cargo ships once docked centuries ago."
+          }
+        },
+        {
+          "name": {
+            "de": "Foro Romano",
+            "hu": "Foro Romano",
+            "ro": "Foro Romano",
+            "en": "Foro Romano"
+          },
+          "coords": [
+            13.366413,
+            45.772886
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die antiken Säulen dieses Forums, das einst das politische Herz der Stadt war, und kommen Sie früh, um die Mittagssonne zu meiden.",
+            "hu": "Csodálja meg a fórum ókori oszlopait, a város egykori politikai központját, és érkezzen korán, hogy elkerülje a déli hőséget és a nagy tömeget.",
+            "ro": "Admirați coloanele antice ale acestui forum roman, odinioară inima politică a orașului, și vizitați-l devreme pentru a evita soarele amiezii.",
+            "en": "Admire the ancient columns of this Roman forum, the once-bustling political heart of the city, and visit early to avoid the midday sun and crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica di Santa Maria Assunta",
+            "hu": "Basilica di Santa Maria Assunta",
+            "ro": "Basilica di Santa Maria Assunta",
+            "en": "Basilica di Santa Maria Assunta"
+          },
+          "coords": [
+            13.370872,
+            45.769629
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Betrachten Sie das riesige frühchristliche Mosaik, das biblische Szenen darstellt, und nutzen Sie die Glasstege, um die Details genau zu studieren.",
+            "hu": "Csodálja meg a bibliai jeleneteket ábrázoló, hatalmas ókeresztény mozaikpadlót, és használja az üvegjárdákat a lenyűgöző részletek tanulmányozására.",
+            "ro": "Admirați imensa podea de mozaic paleocreștin cu scene biblice și folosiți aleile de sticlă transparentă pentru a studia îndeaproape detaliile.",
+            "en": "Gaze at the vast, spectacular early Christian mosaic floor detailing biblical scenes, and use the transparent glass walkways to study them closely."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Archeologico Nazionale",
+            "hu": "Museo Archeologico Nazionale",
+            "ro": "Museo Archeologico Nazionale",
+            "en": "Museo Archeologico Nazionale"
+          },
+          "coords": [
+            13.368762,
+            45.767653
+          ],
+          "category": "museums",
+          "arrive_at": "13:06",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine riesige Sammlung von römischem Glas, Edelsteinen und Statuen, und besuchen Sie die oberen Etagen für den feinsten Schmuck.",
+            "hu": "Fedezze fel a római üvegek, drágakövek és szobrok hatalmas gyűjteményét, és nézze meg a felső emeleteket, ahol a legfinomabb ékszerek találhatók.",
+            "ro": "Descoperiți o colecție imensă de sticlărie romană, pietre prețioase și statui, și vizitați etajele superioare unde sunt expuse bijuterii fine.",
+            "en": "Discover an immense collection of Roman glass, gems, and statuary, and check the upper floors where the finest intricate jewelry pieces are displayed."
+          }
+        },
+        {
+          "name": {
+            "de": "Laguna di Grado",
+            "hu": "Laguna di Grado",
+            "ro": "Laguna di Grado",
+            "en": "Laguna di Grado"
+          },
+          "coords": [
+            13.355838,
+            45.715526
+          ],
+          "category": "natural",
+          "arrive_at": "15:19",
+          "stay_min": 105,
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an der atemberaubenden Lagune mit unglaublichen Sonnenuntergängen, und bringen Sie ein Fernglas mit, um die Tierwelt zu beobachten.",
+            "hu": "Pihenjen a lenyűgöző lagúnánál, amely csodálatos naplementéket kínál, és hozzon magával távcsövet a változatos helyi vadvilág megfigyeléséhez.",
+            "ro": "Relaxați-vă lângă laguna uimitoare care oferă apusuri incredibile și aduceți binoclul pentru a observa diversa faună sălbatică de pe coastă.",
+            "en": "Relax by the stunning lagoon offering incredible sunset views and coastal birdwatching, so bring binoculars to spot the diverse native wildlife."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Radeln Sie zum Museo Paleocristiano und bewundern Sie frühchristliche Kunst, dann fahren Sie weiter zum historischen Porto Fluviale.\nMittag: Besuchen Sie das antike Foro Romano und die ikonische Basilica di Santa Maria Assunta, das wahre Herz von Aquileia.\nNachmittag: Erkunden Sie die reichen Artefakte im Museo Archeologico Nazionale und tauchen Sie tief in die römische Geschichte ein.\nAbend: Fahren Sie zur wunderschönen Laguna di Grado, um einen atemberaubenden Sonnenuntergang und die ruhige Brise zu genießen.",
+        "hu": "Délelőtt: Kerékpározzon a Museo Paleocristianóhoz, csodálja meg az ókeresztény művészetet, majd tekerjen a történelmi Porto Fluviale felé.\nDél: Látogasson el az ókori Foro Romanóhoz és az ikonikus Basilica di Santa Maria Assuntához, Aquileia igazi szívéhez.\nDélután: Fedezze fel a Museo Archeologico Nazionale gazdag leleteit, elmerülve a helyi római történelemben.\nEste: Lovagoljon ki a gyönyörű Laguna di Gradóhoz, és élvezze a lélegzetelállító naplementét és a csendes parti szellőt.",
+        "ro": "Dimineața: Ciclati spre Museo Paleocristiano și admirați arta paleocreștină, apoi pedalați spre istoricul Porto Fluviale.\nPrânz: Vizitați vechiul Foro Romano și iconica Basilica di Santa Maria Assunta, adevărata inimă a orașului Aquileia.\nDupă-amiaza: Explorați artefactele bogate la Museo Archeologico Nazionale, aprofundând istoria romană locală.\nSeara: Mergeți cu bicicleta spre frumoasa Laguna di Grado pentru a vă bucura de un apus de soare uimitor și de briza calmă a coastei.",
+        "en": "Morning: Cycle to the Museo Paleocristiano and admire early Christian art, then pedal toward the historic Porto Fluviale.\nMidday: Visit the ancient Foro Romano and the iconic Basilica di Santa Maria Assunta, the true heart of Aquileia.\nAfternoon: Explore the rich artifacts at the Museo Archeologico Nazionale, diving deep into local Roman history.\nEvening: Ride out to the beautiful Laguna di Grado to enjoy a breathtaking sunset and the calm coastal breezes."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:41",
+      "total_km": 7.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Grandi Terme",
+            "hu": "Grandi Terme",
+            "ro": "Grandi Terme",
+            "en": "Grandi Terme"
+          },
+          "coords": [
+            13.364779,
+            45.769811
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die Überreste der weitläufigen römischen Bäder, die einst die Bürger beherbergten, und stellen Sie sich den antiken Luxus vor.",
+            "hu": "Tekintse meg a kiterjedt római fürdők hatalmas maradványait, amelyek egykor a polgárokat fogadták, és képzelje el az ókori luxus puszta léptékét.",
+            "ro": "Inspectați rămășițele mărețe ale băilor romane extinse care găzduiau odinioară cetățenii și imaginați-vă amploarea luxului și ingineriei antice.",
+            "en": "Inspect the grand remains of the sprawling Roman baths that once hosted local citizens, and picture the sheer scale of ancient luxury and engineering."
+          }
+        },
+        {
+          "name": {
+            "de": "Mausoleo di Aquileia",
+            "hu": "Mausoleo di Aquileia",
+            "ro": "Mausoleo di Aquileia",
+            "en": "Mausoleo di Aquileia"
+          },
+          "coords": [
+            13.366775,
+            45.771724
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "10:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie dieses markante, rekonstruierte Grabdenkmal, das die antike Stadt überragte, und fotografieren Sie es vom angrenzenden Weg aus.",
+            "hu": "Csodálja meg ezt a lenyűgöző, rekonstruált síremléket, amely az ókori város fölé magasodott, és készítsen fotót a szomszédos ösvényről a legjobb szögből.",
+            "ro": "Minunați-vă de acest monument funerar reconstruit care domina orașul antic și faceți o fotografie de pe poteca adiacentă pentru cel mai bun unghi.",
+            "en": "Marvel at this striking, reconstructed burial monument that towered over the ancient city, snapping a photo from the adjacent path for the best angle."
+          }
+        },
+        {
+          "name": {
+            "de": "Foro Romano",
+            "hu": "Foro Romano",
+            "ro": "Foro Romano",
+            "en": "Foro Romano"
+          },
+          "coords": [
+            13.366413,
+            45.772886
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:53",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die antiken Säulen dieses Forums, das einst das politische Herz der Stadt war, und kommen Sie früh, um die Mittagssonne zu meiden.",
+            "hu": "Csodálja meg a fórum ókori oszlopait, a város egykori politikai központját, és érkezzen korán, hogy elkerülje a déli hőséget és a nagy tömeget.",
+            "ro": "Admirați coloanele antice ale acestui forum roman, odinioară inima politică a orașului, și vizitați-l devreme pentru a evita soarele amiezii.",
+            "en": "Admire the ancient columns of this Roman forum, the once-bustling political heart of the city, and visit early to avoid the midday sun and crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica di Santa Maria Assunta",
+            "hu": "Basilica di Santa Maria Assunta",
+            "ro": "Basilica di Santa Maria Assunta",
+            "en": "Basilica di Santa Maria Assunta"
+          },
+          "coords": [
+            13.370872,
+            45.769629
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Betrachten Sie das riesige frühchristliche Mosaik, das biblische Szenen darstellt, und nutzen Sie die Glasstege, um die Details genau zu studieren.",
+            "hu": "Csodálja meg a bibliai jeleneteket ábrázoló, hatalmas ókeresztény mozaikpadlót, és használja az üvegjárdákat a lenyűgöző részletek tanulmányozására.",
+            "ro": "Admirați imensa podea de mozaic paleocreștin cu scene biblice și folosiți aleile de sticlă transparentă pentru a studia îndeaproape detaliile.",
+            "en": "Gaze at the vast, spectacular early Christian mosaic floor detailing biblical scenes, and use the transparent glass walkways to study them closely."
+          }
+        },
+        {
+          "name": {
+            "de": "Laguna di Grado",
+            "hu": "Laguna di Grado",
+            "ro": "Laguna di Grado",
+            "en": "Laguna di Grado"
+          },
+          "coords": [
+            13.355838,
+            45.715526
+          ],
+          "category": "natural",
+          "arrive_at": "12:56",
+          "stay_min": 105,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an der atemberaubenden Lagune mit unglaublichen Sonnenuntergängen, und bringen Sie ein Fernglas mit, um die Tierwelt zu beobachten.",
+            "hu": "Pihenjen a lenyűgöző lagúnánál, amely csodálatos naplementéket kínál, és hozzon magával távcsövet a változatos helyi vadvilág megfigyeléséhez.",
+            "ro": "Relaxați-vă lângă laguna uimitoare care oferă apusuri incredibile și aduceți binoclul pentru a observa diversa faună sălbatică de pe coastă.",
+            "en": "Relax by the stunning lagoon offering incredible sunset views and coastal birdwatching, so bring binoculars to spot the diverse native wildlife."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Fahren Sie zu den Grandi Terme, um die antiken Bäder zu sehen, und besuchen Sie dann schnell das imposante Mausoleo di Aquileia.\nMittag: Parken Sie in der Nähe des Foro Romano für einen Einblick in die Stadtgeschichte, gefolgt von der beeindruckenden Basilika.\nNachmittag: Fahren Sie in Richtung Süden zur Küste und unternehmen Sie eine malerische Fahrt abseits der Hauptruinen.\nAbend: Kommen Sie an der atemberaubenden Laguna di Grado an und beenden Sie Ihren Tagesausflug mit Panoramablick auf das Wasser.",
+        "hu": "Délelőtt: Vezessen a Grandi Terméhez, hogy megnézze az ókori fürdőket, majd gyorsan látogasson el az impozáns Mausoleo di Aquileia-hoz.\nDél: Parkoljon le a Foro Romano közelében a polgári történelem megismeréséhez, majd látogasson el a lenyűgöző bazilikába.\nDélután: Haladjon dél felé a part irányába, festői utazást téve a főbb romoktól távol.\nEste: Érkezzen meg a lenyűgöző Laguna di Gradóhoz, és zárja a kirándulást a vízre nyíló panorámás kilátással.",
+        "ro": "Dimineața: Conduceți la Grandi Terme pentru a vedea băile antice, apoi vizitați rapid impunătorul Mausoleo di Aquileia.\nPrânz: Parcați lângă Foro Romano pentru o privire asupra istoriei civice, urmată de Bazilica plină de venerație.\nDupă-amiaza: Îndreptați-vă spre sud, spre coastă, făcând o plimbare pitorească departe de ruinele principale.\nSeara: Ajungeți la uimitoarea Laguna di Grado, încheindu-vă excursia de o zi cu vederi panoramice asupra apei.",
+        "en": "Morning: Drive to the Grandi Terme to see the ancient baths, then quickly visit the imposing Mausoleo di Aquileia.\nMidday: Park near the Foro Romano for a glimpse of civic history, followed by the awe-inspiring Basilica.\nAfternoon: Head south towards the coast, taking a scenic drive away from the main ruins.\nEvening: Arrive at the stunning Laguna di Grado, ending your day trip with panoramic views of the water."
+      }
+    }
+  }
+}

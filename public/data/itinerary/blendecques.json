@@ -1,0 +1,451 @@
+{
+  "city_id": "blendecques",
+  "anchor": {
+    "name": "Blendecques",
+    "coords": [
+      2.2764,
+      50.7169
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:15",
+      "total_km": 3.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Abtei Sainte-Colombe",
+            "hu": "Sainte-Colombe apátság",
+            "ro": "Abația Sainte-Colombe",
+            "en": "Sainte-Colombe Abbey"
+          },
+          "coords": [
+            2.277222,
+            50.717778
+          ],
+          "category": "monastic",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die friedlichen klösterlichen Überreste aus dem 12. Jahrhundert und tragen Sie bequeme Schuhe für das unebene historische Gelände.",
+            "hu": "Csodálja meg a 12. századi békés kolostori maradványokat, és mindenképpen viseljen kényelmes cipőt az egyenetlen történelmi terep miatt.",
+            "ro": "Admirați rămășițele monahale pașnice din secolul al XII-lea și asigurați-vă că purtați încălțăminte confortabilă pentru terenul istoric accidentat.",
+            "en": "Admire the peaceful 12th-century monastic remains and be sure to wear comfortable walking shoes to navigate the uneven historical terrain safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Sainte-Colombe",
+            "hu": "Sainte-Colombe templom",
+            "ro": "Biserica Sainte-Colombe",
+            "en": "Sainte-Colombe Church"
+          },
+          "coords": [
+            2.281944,
+            50.717328
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entdecken Sie die markanten architektonischen Details dieser charmanten Kirche und besuchen Sie sie bei Tageslicht, um die besten Fotos zu machen.",
+            "hu": "Fedezze fel ennek a bájos templomnak a lenyűgöző építészeti részleteit, és látogasson el ide még nappal a legjobb fotózási lehetőségek érdekében.",
+            "ro": "Descoperiți detaliile arhitecturale uimitoare ale acestei biserici fermecătoare și vizitați-o pe timp de zi pentru cele mai bune oportunități foto.",
+            "en": "Discover the striking architectural details of this charming church and try to visit during daylight hours for the best interior photography chances."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Neuville",
+            "hu": "Neuville kápolna",
+            "ro": "Capela Neuville",
+            "en": "Neuville Chapel"
+          },
+          "coords": [
+            2.281667,
+            50.723107
+          ],
+          "category": "religious",
+          "arrive_at": "11:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Bewundern Sie die bescheidene Eleganz dieser lokalen religiösen Stätte und achten Sie auf die historischen Inschriften rund um die alten Außenwände.",
+            "hu": "Csodálja meg ennek a helyi vallási helyszínnek a szerény eleganciáját, és figyelje meg a régi külső falakat körülvevő történelmi feliratokat is.",
+            "ro": "Admirați eleganța modestă a acestui sit religios local și acordați atenție inscripțiilor istorice care înconjoară vechii pereți exteriori din piatră.",
+            "en": "Admire the modest elegance of this local religious site and pay close attention to the historical inscriptions surrounding the old exterior stone walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Westhove",
+            "hu": "Westhove kastély",
+            "ro": "Castelul Westhove",
+            "en": "Westhove Castle"
+          },
+          "coords": [
+            2.271501,
+            50.716863
+          ],
+          "category": "historical",
+          "arrive_at": "12:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die reiche Geschichte dieser wunderschönen Schlossanlage und buchen Sie im Voraus eine Führung, um die Innenräume vollständig zu sehen.",
+            "hu": "Fedezze fel e gyönyörű kastély épületegyüttesének gazdag történelmét, és foglaljon előre vezetett túrát, hogy a belső tereket is megcsodálhassa.",
+            "ro": "Explorați istoria bogată a acestui complex de castele frumos și rezervați un tur ghidat în avans pentru a aprecia pe deplin interioarele rafinate.",
+            "en": "Explore the rich history of this beautiful castle complex and book a guided tour in advance to fully appreciate the elegant interior decorations."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Sainte-Soyecques",
+            "hu": "Sainte-Soyecques kápolna",
+            "ro": "Capela Sainte-Soyecques",
+            "en": "Sainte-Soyecques Chapel"
+          },
+          "coords": [
+            2.294939,
+            50.717081
+          ],
+          "category": "religious",
+          "arrive_at": "14:05",
+          "stay_min": 70,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese kleine, aber feine Kapelle am Stadtrand und schätzen Sie die Stille, ideal für einen kurzen Moment der Besinnung am Nachmittag.",
+            "hu": "Látogasson el ehhez a kicsi, de finom kápolnához a város szélén, és értékelje a csendet, amely ideális egy rövid délutáni elmélkedéshez a séta során.",
+            "ro": "Vizitați această capelă mică, dar fermecătoare de la periferie și apreciați liniștea, ideală pentru un scurt moment de reflecție în timpul zilei.",
+            "en": "Visit this small but charming chapel on the outskirts of town and appreciate the silence, which is ideal for a brief moment of reflection today."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im historischen Herzen von Blendecques mit der ruhigen Abtei. Am Mittag passieren Sie lokale Kirchen mit markanter Architektur wie Sainte-Colombe. Entdecken Sie am Nachmittag den mittelalterlichen Charme des Château du Westhove. Beenden Sie Ihren Tag mit einem Spaziergang zum östlichen Stadtrand, um die malerische Chapelle Sainte-Soyecques zu bewundern.",
+        "hu": "Kezdje a reggelt Blendecques történelmi szívének és a csendes apátságnak a felfedezésével. Délben olyan jellegzetes építészetű helyi templomok mellett halad el, mint a Sainte-Colombe. Délután fedezze fel a Château du Westhove középkori varázsát. Zárja a napot egy sétával a keleti külvárosok felé, hogy alkonyat előtt megcsodálja a hangulatos Chapelle Sainte-Soyecques-t.",
+        "ro": "Începeți dimineața explorând inima istorică a orașului Blendecques la abația liniștită. La amiază veți trece pe lângă biserici locale cu o arhitectură distinctă, cum ar fi Sainte-Colombe. După-amiaza, descoperiți farmecul medieval al Château du Westhove. Încheiați-vă ziua plimbându-vă spre periferia estică pentru a admira pitoreasca Chapelle Sainte-Soyecques înainte de lăsarea serii.",
+        "en": "Start your morning exploring the historic heart of Blendecques at the tranquil Abbey. Midday brings you past local churches with distinct architecture like Sainte-Colombe. In the afternoon, discover the medieval charms of Château du Westhove. Conclude your day walking towards the eastern outskirts to admire the quaint Chapelle Sainte-Soyecques before dusk."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 6.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Abtei Sainte-Colombe",
+            "hu": "Sainte-Colombe apátság",
+            "ro": "Abația Sainte-Colombe",
+            "en": "Sainte-Colombe Abbey"
+          },
+          "coords": [
+            2.277222,
+            50.717778
+          ],
+          "category": "monastic",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die friedlichen klösterlichen Überreste aus dem 12. Jahrhundert und tragen Sie bequeme Schuhe für das unebene historische Gelände.",
+            "hu": "Csodálja meg a 12. századi békés kolostori maradványokat, és mindenképpen viseljen kényelmes cipőt az egyenetlen történelmi terep miatt.",
+            "ro": "Admirați rămășițele monahale pașnice din secolul al XII-lea și asigurați-vă că purtați încălțăminte confortabilă pentru terenul istoric accidentat.",
+            "en": "Admire the peaceful 12th-century monastic remains and be sure to wear comfortable walking shoes to navigate the uneven historical terrain safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Westhove",
+            "hu": "Westhove kastély",
+            "ro": "Castelul Westhove",
+            "en": "Westhove Castle"
+          },
+          "coords": [
+            2.271501,
+            50.716863
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die reiche Geschichte dieser wunderschönen Schlossanlage und buchen Sie im Voraus eine Führung, um die Innenräume vollständig zu sehen.",
+            "hu": "Fedezze fel e gyönyörű kastély épületegyüttesének gazdag történelmét, és foglaljon előre vezetett túrát, hogy a belső tereket is megcsodálhassa.",
+            "ro": "Explorați istoria bogată a acestui complex de castele frumos și rezervați un tur ghidat în avans pentru a aprecia pe deplin interioarele rafinate.",
+            "en": "Explore the rich history of this beautiful castle complex and book a guided tour in advance to fully appreciate the elegant interior decorations."
+          }
+        },
+        {
+          "name": {
+            "de": "La Coupole",
+            "hu": "La Coupole",
+            "ro": "La Coupole",
+            "en": "La Coupole"
+          },
+          "coords": [
+            2.243325,
+            50.705305
+          ],
+          "category": "museum",
+          "arrive_at": "12:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem riesigen Bunker in die Geschichte des Zweiten Weltkriegs ein und bringen Sie eine Jacke mit, da es unterirdisch recht kühl ist.",
+            "hu": "Merüljön el a második világháború történelmében ebben a hatalmas bunkerben, és hozzon magával kabátot, mivel a föld alatt hűvös van.",
+            "ro": "Scufundați-vă în istoria celui de-al Doilea Război Mondial în acest buncăr masiv și aduceți o jachetă, deoarece temperaturile subterane sunt reci.",
+            "en": "Dive deep into World War II history inside this massive underground bunker and bring a warm jacket since the subterranean temperatures are quite cool."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Denis",
+            "hu": "Saint-Denis templom",
+            "ro": "Biserica Saint-Denis",
+            "en": "Saint-Denis Church"
+          },
+          "coords": [
+            2.262721,
+            50.696703
+          ],
+          "category": "religious",
+          "arrive_at": "13:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Betrachten Sie die klassische Bauweise dieser historischen Kirche und werfen Sie einen Blick auf die wunderschönen Buntglasfenster, wenn die Sonne scheint.",
+            "hu": "Tekintse meg ennek a történelmi templomnak a klasszikus kialakítását, és vessen egy pillantást a gyönyörű ólomüveg ablakokra, ha süt a nap odakint.",
+            "ro": "Contemplați designul clasic al acestei biserici istorice și aruncați o privire la frumoasele vitralii atunci când soarele strălucește cu putere.",
+            "en": "Contemplate the classic design of this historic church and take a look at the beautiful stained glass windows when the bright sun is shining outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturschutzgebiet Plateau des Landes",
+            "hu": "Plateau des Landes Természetvédelmi Terület",
+            "ro": "Rezervația Naturală Plateau des Landes",
+            "en": "Plateau des Landes Nature Reserve"
+          },
+          "coords": [
+            2.281629,
+            50.700217
+          ],
+          "category": "natural",
+          "arrive_at": "14:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die unberührte Natur und die vielfältige Tierwelt in diesem Reservat, vergessen Sie aber nicht, ausreichend Trinkwasser und Sonnenschutz mitzubringen.",
+            "hu": "Élvezze az érintetlen természetet és a változatos vadvilágot a rezervátumban, de ne felejtsen el elegendő ivóvizet és naptejet hozni a túrázáshoz.",
+            "ro": "Bucurați-vă de natura neatinsă și de viața sălbatică diversă din această rezervație, dar nu uitați să aduceți suficientă apă și protecție solară.",
+            "en": "Enjoy the pristine nature and diverse wildlife throughout this peaceful reserve, but remember to bring plenty of drinking water and sun protection."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Riquier",
+            "hu": "Saint-Riquier templom",
+            "ro": "Biserica Saint-Riquier",
+            "en": "Saint-Riquier Church"
+          },
+          "coords": [
+            2.282213,
+            50.692836
+          ],
+          "category": "religious",
+          "arrive_at": "16:01",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erleben Sie die feierliche Atmosphäre dieses jahrhundertealten Gebäudes und prüfen Sie vorher die Öffnungszeiten, da diese an Wochenenden variieren können.",
+            "hu": "Tapasztalja meg ennek az évszázados épületnek az ünnepélyes hangulatát, és előtte ellenőrizze a nyitvatartást, mivel az hétvégén változhat kissé.",
+            "ro": "Experimentați atmosfera solemnă a acestei clădiri vechi de secole și verificați programul de funcționare înainte, deoarece poate varia în weekend.",
+            "en": "Experience the solemn atmosphere of this centuries-old building and check the operating hours beforehand as they can vary slightly during the weekends."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie durch die frische Morgenluft zur alten Abtei und zum historischen Schloss Westhove. Fahren Sie mittags in Richtung der tiefgründigen Geschichte des Museums La Coupole. Verbringen Sie Ihren Nachmittag damit, die natürliche Schönheit des Reservats Plateau des Landes zu genießen. Lassen Sie Ihr Radabenteuer mit einem abendlichen Besuch der Église Saint-Riquier ausklingen.",
+        "hu": "Kerékpározzon a friss reggeli levegőn az ősi apátsághoz és a történelmi Westhove kastélyhoz. Délben tekerjen a La Coupole múzeum mélyreható történelme felé. Töltse a délutánt a Plateau des Landes rezervátum természeti szépségének élvezetével. Vezesse le a kerékpáros kalandot egy békés esti látogatással a déli negyedben található gyönyörű Église Saint-Riquier templomnál.",
+        "ro": "Pedalați prin aerul proaspăt al dimineții către vechea Abație și istoricul Castel Westhove. La amiază, îndreptați-vă spre istoria profundă a muzeului La Coupole. Petreceți-vă după-amiaza bucurându-vă de frumusețea naturală a rezervației Plateau des Landes. Încheiați aventura pe bicicletă cu o vizită liniștită de seară la frumoasa Église Saint-Riquier din cartierul sudic.",
+        "en": "Cycle through the crisp morning air to the ancient Abbey and the historic Westhove Castle. By midday, pedal towards the profound history of La Coupole museum. Spend your afternoon enjoying the natural beauty of the Plateau des Landes reserve. Wind down your cycling adventure with a peaceful evening visit to the beautiful Église Saint-Riquier in the southern district."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 13.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Westhove",
+            "hu": "Westhove kastély",
+            "ro": "Castelul Westhove",
+            "en": "Westhove Castle"
+          },
+          "coords": [
+            2.271501,
+            50.716863
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die reiche Geschichte dieser wunderschönen Schlossanlage und buchen Sie im Voraus eine Führung, um die Innenräume vollständig zu sehen.",
+            "hu": "Fedezze fel e gyönyörű kastély épületegyüttesének gazdag történelmét, és foglaljon előre vezetett túrát, hogy a belső tereket is megcsodálhassa.",
+            "ro": "Explorați istoria bogată a acestui complex de castele frumos și rezervați un tur ghidat în avans pentru a aprecia pe deplin interioarele rafinate.",
+            "en": "Explore the rich history of this beautiful castle complex and book a guided tour in advance to fully appreciate the elegant interior decorations."
+          }
+        },
+        {
+          "name": {
+            "de": "Mühle de l'Arquet",
+            "hu": "Arquet malom",
+            "ro": "Moara de l'Arquet",
+            "en": "Arquet Mill"
+          },
+          "coords": [
+            2.210563,
+            50.705679
+          ],
+          "category": "historical",
+          "arrive_at": "10:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.4,
+          "tip_5lang": {
+            "de": "Beobachten Sie das faszinierende historische Mühlwerk an den ruhigen Wasserwegen und bringen Sie ein leichtes Picknick für die malerischen Ufer mit.",
+            "hu": "Figyelje meg a lenyűgöző történelmi malomépületet a csendes vízi utakon, és hozzon magával egy könnyű pikniket a festői partokon való pihenéshez.",
+            "ro": "Observați moara istorică fascinantă de-a lungul căilor navigabile liniștite și aduceți un picnic ușor pentru a vă relaxa pe malurile pitorești.",
+            "en": "Observe the fascinating historical millwork along the quiet waterways and bring along a light picnic to enjoy relaxing on the picturesque riverbanks."
+          }
+        },
+        {
+          "name": {
+            "de": "La Coupole",
+            "hu": "La Coupole",
+            "ro": "La Coupole",
+            "en": "La Coupole"
+          },
+          "coords": [
+            2.243325,
+            50.705305
+          ],
+          "category": "museum",
+          "arrive_at": "12:04",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem riesigen Bunker in die Geschichte des Zweiten Weltkriegs ein und bringen Sie eine Jacke mit, da es unterirdisch recht kühl ist.",
+            "hu": "Merüljön el a második világháború történelmében ebben a hatalmas bunkerben, és hozzon magával kabátot, mivel a föld alatt hűvös van.",
+            "ro": "Scufundați-vă în istoria celui de-al Doilea Război Mondial în acest buncăr masiv și aduceți o jachetă, deoarece temperaturile subterane sunt reci.",
+            "en": "Dive deep into World War II history inside this massive underground bunker and bring a warm jacket since the subterranean temperatures are quite cool."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturschutzgebiet Plateau des Landes",
+            "hu": "Plateau des Landes Természetvédelmi Terület",
+            "ro": "Rezervația Naturală Plateau des Landes",
+            "en": "Plateau des Landes Nature Reserve"
+          },
+          "coords": [
+            2.281629,
+            50.700217
+          ],
+          "category": "natural",
+          "arrive_at": "13:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die unberührte Natur und die vielfältige Tierwelt in diesem Reservat, vergessen Sie aber nicht, ausreichend Trinkwasser und Sonnenschutz mitzubringen.",
+            "hu": "Élvezze az érintetlen természetet és a változatos vadvilágot a rezervátumban, de ne felejtsen el elegendő ivóvizet és naptejet hozni a túrázáshoz.",
+            "ro": "Bucurați-vă de natura neatinsă și de viața sălbatică diversă din această rezervație, dar nu uitați să aduceți suficientă apă și protecție solară.",
+            "en": "Enjoy the pristine nature and diverse wildlife throughout this peaceful reserve, but remember to bring plenty of drinking water and sun protection."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Riquier",
+            "hu": "Saint-Riquier templom",
+            "ro": "Biserica Saint-Riquier",
+            "en": "Saint-Riquier Church"
+          },
+          "coords": [
+            2.282213,
+            50.692836
+          ],
+          "category": "religious",
+          "arrive_at": "15:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erleben Sie die feierliche Atmosphäre dieses jahrhundertealten Gebäudes und prüfen Sie vorher die Öffnungszeiten, da diese an Wochenenden variieren können.",
+            "hu": "Tapasztalja meg ennek az évszázados épületnek az ünnepélyes hangulatát, és előtte ellenőrizze a nyitvatartást, mivel az hétvégén változhat kissé.",
+            "ro": "Experimentați atmosfera solemnă a acestei clădiri vechi de secole și verificați programul de funcționare înainte, deoarece poate varia în weekend.",
+            "en": "Experience the solemn atmosphere of this centuries-old building and check the operating hours beforehand as they can vary slightly during the weekends."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Sainte-Soyecques",
+            "hu": "Sainte-Soyecques kápolna",
+            "ro": "Capela Sainte-Soyecques",
+            "en": "Sainte-Soyecques Chapel"
+          },
+          "coords": [
+            2.294939,
+            50.717081
+          ],
+          "category": "religious",
+          "arrive_at": "15:55",
+          "stay_min": 70,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese kleine, aber feine Kapelle am Stadtrand und schätzen Sie die Stille, ideal für einen kurzen Moment der Besinnung am Nachmittag.",
+            "hu": "Látogasson el ehhez a kicsi, de finom kápolnához a város szélén, és értékelje a csendet, amely ideális egy rövid délutáni elmélkedéshez a séta során.",
+            "ro": "Vizitați această capelă mică, dar fermecătoare de la periferie și apreciați liniștea, ideală pentru un scurt moment de reflecție în timpul zilei.",
+            "en": "Visit this small but charming chapel on the outskirts of town and appreciate the silence, which is ideal for a brief moment of reflection today."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie früh zum beeindruckenden Schloss Westhove und genießen Sie dessen historische Pracht. Der späte Vormittag bringt Sie zum alten Moulin de l'Arquet, gefolgt von der riesigen unterirdischen Kuppel von La Coupole. Ihr Nachmittag ist für eine Wanderung im Naturschutzgebiet Plateau des Landes reserviert. Beenden Sie den Roadtrip mit einem Besuch der ruhigen Räume von Saint-Riquier und Sainte-Soyecques.",
+        "hu": "Vezessen korán a lenyűgöző Westhove kastélyhoz, és élvezze annak történelmi pompáját. Késő délelőtt a régi Moulin de l'Arquet-hez érkezik, majd a La Coupole hatalmas földalatti kupolája következik. A délután egy frissítő túráé a Plateau des Landes természetvédelmi területen. Zárja az autós utat a Saint-Riquier és a Sainte-Soyecques csendes, elmélyült tereinek meglátogatásával.",
+        "ro": "Conduceți devreme către impresionantul Castel Westhove, bucurându-vă de măreția sa istorică. Dimineața târziu vă aduce la vechiul Moulin de l'Arquet, urmat de vastul dom subteran La Coupole. După-amiaza este rezervată pentru o drumeție revigorantă în rezervația naturală Plateau des Landes. Încheiați călătoria vizitând spațiile liniștite de la Saint-Riquier și Sainte-Soyecques.",
+        "en": "Drive early to the impressive Westhove Castle, soaking in its historical grandeur. Late morning brings you to the old Moulin de l'Arquet, followed by the vast underground dome of La Coupole. Your afternoon is reserved for a refreshing hike in the Plateau des Landes nature reserve. Conclude the road trip visiting the quiet, reflective spaces of Saint-Riquier and Sainte-Soyecques."
+      }
+    }
+  }
+}

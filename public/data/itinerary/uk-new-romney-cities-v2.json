@@ -1,0 +1,405 @@
+{
+  "city_id": "uk-new-romney-cities-v2",
+  "anchor": {
+    "name": "New Romney",
+    "coords": [
+      0.941,
+      50.985
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:10",
+      "total_km": 1.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "St Nicholas Church",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sf. Nicolae",
+            "en": "St Nicholas Church"
+          },
+          "coords": [
+            0.941222,
+            50.985139
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende normannische Architektur der St. Nicholas Church, einst ein wichtiges Wahrzeichen für Seeleute, und achten Sie auf mittelalterliche Graffiti.",
+            "hu": "Csodálja meg a Szent Miklós-templom lenyűgöző normann építészetét, amely az ősi tengerészek tájékozódási pontja volt, és keresse a középkori tengerészgraffitiket az oszlopokon.",
+            "ro": "Admirați impresionanta arhitectură normandă a Bisericii Sf. Nicolae, un vechi punct de reper al marinarilor, și priviți atent stâlpii pentru a observa graffiti medievale.",
+            "en": "Admire the impressive Norman architecture of St Nicholas Church, an ancient mariner's landmark, and look closely at the pillars to spot medieval sailors' graffiti."
+          }
+        },
+        {
+          "name": {
+            "de": "New Romney Town Hall",
+            "hu": "New Romney Városháza",
+            "ro": "Primăria New Romney",
+            "en": "New Romney Town Hall"
+          },
+          "coords": [
+            0.93989,
+            50.985688
+          ],
+          "category": "civic",
+          "arrive_at": "09:52",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Verwaltungsgeschichte der Stadt im New Romney Town Hall, einem klassischen Zivilgebäude, wo Sie früh eintreffen sollten, um in Ruhe Fotos zu machen.",
+            "hu": "Fedezze fel a város gazdag közigazgatási történelmét a New Romney Town Hall klasszikus épületénél, ahová érdemes korán érkezni a tömeg nélküli, tökéletes fotók elkészítéséhez.",
+            "ro": "Descoperiți istoria administrativă bogată a orașului la New Romney Town Hall, o clădire civică clasică, unde ar trebui să ajungeți devreme pentru a face fotografii fără aglomerație.",
+            "en": "Discover the rich administrative history of the town at New Romney Town Hall, a classic civic building where you should arrive early to take photos without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Daglish Close",
+            "hu": "Daglish Close",
+            "ro": "Daglish Close",
+            "en": "Daglish Close"
+          },
+          "coords": [
+            0.946705,
+            50.984823
+          ],
+          "category": "family",
+          "arrive_at": "10:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie einen angenehmen Familienspaziergang rund um Daglish Close, ein ruhiges Wohngebiet, und achten Sie bei Ihrer Erkundung auf die Privatsphäre der Anwohner.",
+            "hu": "Tegyen egy kellemes családi sétát a Daglish Close környékén, amely egy csendes lakóövezet, és ne feledje tiszteletben tartani az itt élők magánéletét a felfedezés során.",
+            "ro": "Bucurați-vă de o plimbare plăcută în familie prin Daglish Close, o zonă rezidențială liniștită, și asigurați-vă că respectați intimitatea localnicilor în timp ce explorați.",
+            "en": "Enjoy a pleasant family walk around Daglish Close, a tranquil residential area highlighting local life, and remember to respect the residents' privacy while exploring."
+          }
+        },
+        {
+          "name": {
+            "de": "Littlestone Sea Wall",
+            "hu": "Littlestone-i tengerfal",
+            "ro": "Zidul maritim Littlestone",
+            "en": "Littlestone Sea Wall"
+          },
+          "coords": [
+            0.954048,
+            50.984998
+          ],
+          "category": "civic",
+          "arrive_at": "11:48",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der Littlestone Sea Wall, um den Panoramablick auf den Ärmelkanal zu genießen, und bringen Sie eine Windjacke mit, da die Meeresbrise stark sein kann.",
+            "hu": "Sétáljon végig a Littlestone-i tengerfalon a La Manche csatorna panorámájáért, és hozzon magával széldzsekit, mivel a parti szél itt gyakran kifejezetten erős és hűvös.",
+            "ro": "Plimbați-vă de-a lungul zidului maritim Littlestone pentru vederi panoramice ale Canalului Mânecii, o structură de apărare vitală, și luați o jachetă de vânt contra brizei.",
+            "en": "Walk along the Littlestone Sea Wall for panoramic English Channel views, a vital coastal defense structure, and bring a windbreaker as the sea breeze can be quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Littlestone Golf Club",
+            "hu": "Littlestone Golf Club",
+            "ro": "Littlestone Golf Club",
+            "en": "Littlestone Golf Club"
+          },
+          "coords": [
+            0.965085,
+            50.986049
+          ],
+          "category": "recreational",
+          "arrive_at": "12:25",
+          "stay_min": 105,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Gelände des Littlestone Golf Club, eines berühmten Links-Platzes, und prüfen Sie den Besucherplan im Voraus, falls Sie eine Runde spielen möchten.",
+            "hu": "Fedezze fel a Littlestone Golf Club történelmi területét, amely egy híres bajnoki pálya, és előre ellenőrizze a látogatói beosztást, ha esetleg egy kört szeretne játszani.",
+            "ro": "Explorați terenurile istorice ale Littlestone Golf Club, un renumit teren de golf de campionat, și verificați programul vizitatorilor în avans dacă intenționați să jucați.",
+            "en": "Explore the historic grounds of Littlestone Golf Club, a renowned championship links course, and check the visitor schedule in advance if you plan to play a quick round."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Entdeckung des Erbes von New Romney in der St. Nicholas Church und dem Town Hall. Genießen Sie mittags einen Spaziergang durch Daglish Close in Richtung Küste. Bewundern Sie am Nachmittag die Weite des Ärmelkanals von der Littlestone Sea Wall. Beenden Sie Ihren sanften Rundgang mit einem Abendspaziergang um den malerischen Littlestone Golf Club.",
+        "hu": "Kezdje a reggelt New Romney örökségének felfedezésével a Szent Miklós-templomnál és a történelmi városházánál. Délben tegyen egy kellemes sétát a Daglish Close-on a gyönyörű partvonal felé. Délután csodálja meg a La Manche csatorna hatalmas kiterjedését a Littlestone-i tengerfalról. Zárja kellemes gyalogtúráját egy esti sétával a festői Littlestone Golf Club környékén.",
+        "ro": "Începeți dimineața descoperind moștenirea orașului New Romney la Biserica Sf. Nicolae și Primăria istorică. La prânz, bucurați-vă de o plimbare plăcută prin Daglish Close spre coasta frumoasă. După-amiaza, admirați întinderea vastă a Canalului Mânecii de pe zidul maritim Littlestone. Încheiați-vă turul relaxant de mers pe jos cu o plimbare de seară în jurul pitorescului club de golf.",
+        "en": "Begin your morning discovering the heritage of New Romney at St Nicholas Church and the historic Town Hall. By midday, enjoy a pleasant walk through Daglish Close towards the beautiful coastline. In the afternoon, marvel at the vast expanse of the English Channel from the Littlestone Sea Wall. Conclude your gentle walking tour with an evening stroll around the scenic Littlestone Golf Club."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:58",
+      "total_km": 5.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "St Nicholas Church",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sf. Nicolae",
+            "en": "St Nicholas Church"
+          },
+          "coords": [
+            0.941222,
+            50.985139
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende normannische Architektur der St. Nicholas Church, einst ein wichtiges Wahrzeichen für Seeleute, und achten Sie auf mittelalterliche Graffiti.",
+            "hu": "Csodálja meg a Szent Miklós-templom lenyűgöző normann építészetét, amely az ősi tengerészek tájékozódási pontja volt, és keresse a középkori tengerészgraffitiket az oszlopokon.",
+            "ro": "Admirați impresionanta arhitectură normandă a Bisericii Sf. Nicolae, un vechi punct de reper al marinarilor, și priviți atent stâlpii pentru a observa graffiti medievale.",
+            "en": "Admire the impressive Norman architecture of St Nicholas Church, an ancient mariner's landmark, and look closely at the pillars to spot medieval sailors' graffiti."
+          }
+        },
+        {
+          "name": {
+            "de": "Littlestone Sea Wall",
+            "hu": "Littlestone-i tengerfal",
+            "ro": "Zidul maritim Littlestone",
+            "en": "Littlestone Sea Wall"
+          },
+          "coords": [
+            0.954048,
+            50.984998
+          ],
+          "category": "civic",
+          "arrive_at": "09:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der Littlestone Sea Wall, um den Panoramablick auf den Ärmelkanal zu genießen, und bringen Sie eine Windjacke mit, da die Meeresbrise stark sein kann.",
+            "hu": "Sétáljon végig a Littlestone-i tengerfalon a La Manche csatorna panorámájáért, és hozzon magával széldzsekit, mivel a parti szél itt gyakran kifejezetten erős és hűvös.",
+            "ro": "Plimbați-vă de-a lungul zidului maritim Littlestone pentru vederi panoramice ale Canalului Mânecii, o structură de apărare vitală, și luați o jachetă de vânt contra brizei.",
+            "en": "Walk along the Littlestone Sea Wall for panoramic English Channel views, a vital coastal defense structure, and bring a windbreaker as the sea breeze can be quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Greatstone Beach",
+            "hu": "Greatstone strand",
+            "ro": "Plaja Greatstone",
+            "en": "Greatstone beach"
+          },
+          "coords": [
+            0.967018,
+            50.9771
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den weiten Sandstränden von Greatstone Beach, einem idyllischen Ort für traditionelle Erholung, und überprüfen Sie die Gezeitentabellen für sichere Spaziergänge.",
+            "hu": "Pihenjen a Greatstone strand tágas homokján, amely egy idilli hely a hagyományos tengerparti kikapcsolódásra, és ellenőrizze az árapály-táblázatot a biztonságos sétához.",
+            "ro": "Relaxați-vă pe nisipurile vaste de la plaja Greatstone, un loc idilic pentru recreere tradițională pe litoral, și verificați tabelele de maree pentru o plimbare sigură.",
+            "en": "Relax on the expansive sands of Greatstone beach, an idyllic spot for traditional seaside recreation, and check the local tide tables to enjoy a safe walk along the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Greatstone Dunes",
+            "hu": "Greatstone-dűnék",
+            "ro": "Dunele Greatstone",
+            "en": "Greatstone Dunes"
+          },
+          "coords": [
+            0.960025,
+            50.9686
+          ],
+          "category": "natural",
+          "arrive_at": "11:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die empfindlichen Ökosysteme der Greatstone Dunes, einem natürlichen Lebensraum für Küstentiere, und bleiben Sie auf den markierten Wegen, um die Flora zu schützen.",
+            "hu": "Barangoljon a Greatstone-dűnék finom ökoszisztémájában, amely hemzseg a parti élővilágtól, és maradjon a kijelölt ösvényeken a törékeny homokflóra védelme érdekében.",
+            "ro": "Plimbați-vă prin ecosistemele delicate ale Dunelor Greatstone, un habitat natural plin de viață sălbatică de coastă, și rămâneți pe potecile marcate pentru a proteja flora.",
+            "en": "Wander through the delicate ecosystems of Greatstone Dunes, a natural habitat teeming with coastal wildlife, and stick to the marked paths to protect the fragile flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Broomhill Sands",
+            "hu": "Broomhill Sands",
+            "ro": "Broomhill Sands",
+            "en": "Broomhill Sands"
+          },
+          "coords": [
+            0.974285,
+            50.953557
+          ],
+          "category": "recreational",
+          "arrive_at": "13:13",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Genießen Sie Wassersport oder einfache Entspannung in Broomhill Sands, das für hervorragende Kitesurf-Bedingungen bekannt ist, und bringen Sie viel Sonnencreme und Wasser mit.",
+            "hu": "Élvezze a vízi sportokat vagy a pihenést a Broomhill Sandsen, amely híres a kiváló kitesurf-feltételeiről, és hozzon magával bőségesen naptejet és vizet egy hosszú napra.",
+            "ro": "Bucurați-vă de sporturi nautice sau de relaxare simplă la Broomhill Sands, renumit pentru condițiile excelente de kite-surfing, și aduceți multă cremă de protecție solară.",
+            "en": "Enjoy water sports or simple relaxation at Broomhill Sands, famous for its excellent kite-surfing conditions, and bring plenty of sunscreen and water for a long day out."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer an der St. Nicholas Church, bevor Sie zur Littlestone Sea Wall fahren. Mittags erreichen Sie den Greatstone Beach, der sich perfekt für eine Pause eignet. Verbringen Sie Ihren Nachmittag damit, die vielfältige Tierwelt in den Greatstone Dunes zu erkunden. Beenden Sie Ihren aktiven Tag mit einer abendlichen Fahrt und einem Sonnenuntergang in Broomhill Sands.",
+        "hu": "Kezdje kerékpáros kalandját a Szent Miklós-templomnál, mielőtt elindulna a lenyűgöző Littlestone-i tengerfalhoz. A dél a Greatstone strand hatalmas területére vezeti, amely tökéletes egy frissítő szünetre. Töltse a délutánt a Greatstone-dűnék változatos vadvilágának felfedezésével. Zárja aktív napját egy pihentető esti tekeréssel és a naplemente megtekintésével a Broomhill Sandsen.",
+        "ro": "Începeți aventura pe bicicletă la Biserica Sf. Nicolae înainte de a vă îndrepta spre impresionantul zid maritim Littlestone. Prânzul vă aduce la plaja vastă Greatstone, perfectă pentru o pauză. Petreceți după-amiaza explorând viața sălbatică diversă la Dunele Greatstone. Încheiați ziua activă cu o plimbare relaxantă de seară și poate privind apusul la Broomhill Sands.",
+        "en": "Start your cycling adventure at St Nicholas Church before heading out to the stunning Littlestone Sea Wall. Midday brings you to the expansive Greatstone beach, perfect for a refreshing break. Spend your afternoon exploring the diverse wildlife at the Greatstone Dunes. End your active day with a relaxing evening ride and perhaps a quiet moment watching the sunset at Broomhill Sands."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:26",
+      "total_km": 21.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Romney Marsh Museum",
+            "hu": "Romney Marsh Múzeum",
+            "ro": "Muzeul Romney Marsh",
+            "en": "Romney Marsh Museum"
+          },
+          "coords": [
+            0.862243,
+            51.009231
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie im Romney Marsh Museum in die lokale Geschichte ein, das das einzigartige Erbe der Feuchtgebiete zeigt, und fragen Sie das Personal nach faszinierenden Schmugglergeschichten.",
+            "hu": "Merüljön el a helyi történelemben a Romney Marsh Múzeumban, amely a vizes élőhelyek egyedülálló örökségét mutatja be, és kérdezze a hozzáértő személyzetet a csempésztörténetekről.",
+            "ro": "Aprofundați istoria locală la Muzeul Romney Marsh, care prezintă moștenirea unică a zonelor umede, și întrebați personalul informat despre poveștile fascinante de contrabandă.",
+            "en": "Delve into local history at the Romney Marsh Museum, which showcases the unique heritage of the wetlands, and ask the knowledgeable staff about the fascinating smuggling tales."
+          }
+        },
+        {
+          "name": {
+            "de": "St Nicholas Church",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sf. Nicolae",
+            "en": "St Nicholas Church"
+          },
+          "coords": [
+            0.941222,
+            50.985139
+          ],
+          "category": "religious",
+          "arrive_at": "11:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende normannische Architektur der St. Nicholas Church, einst ein wichtiges Wahrzeichen für Seeleute, und achten Sie auf mittelalterliche Graffiti.",
+            "hu": "Csodálja meg a Szent Miklós-templom lenyűgöző normann építészetét, amely az ősi tengerészek tájékozódási pontja volt, és keresse a középkori tengerészgraffitiket az oszlopokon.",
+            "ro": "Admirați impresionanta arhitectură normandă a Bisericii Sf. Nicolae, un vechi punct de reper al marinarilor, și priviți atent stâlpii pentru a observa graffiti medievale.",
+            "en": "Admire the impressive Norman architecture of St Nicholas Church, an ancient mariner's landmark, and look closely at the pillars to spot medieval sailors' graffiti."
+          }
+        },
+        {
+          "name": {
+            "de": "The Ship Inn",
+            "hu": "The Ship Inn",
+            "ro": "The Ship Inn",
+            "en": "The Ship Inn"
+          },
+          "coords": [
+            0.998771,
+            51.028624
+          ],
+          "category": "culinary",
+          "arrive_at": "11:56",
+          "stay_min": 60,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.2,
+          "tip_5lang": {
+            "de": "Genießen Sie traditionelle Pub-Gerichte im The Ship Inn, einem typisch britischen Lokal mit gemütlicher Atmosphäre, und probieren Sie zum Mittagessen die lokalen Fischgerichte.",
+            "hu": "Kóstolja meg a hagyományos pubételeket a The Ship Innben, egy jellegzetesen brit, hangulatos létesítményben, és feltétlenül próbálja ki ebédre a helyi tengeri fogásokat.",
+            "ro": "Savurați preparate tradiționale de pub la The Ship Inn, un stabiliment britanic tipic, cu o atmosferă confortabilă, și încercați preparatele din fructe de mare locale recomandate.",
+            "en": "Savor traditional pub fare at The Ship Inn, a quintessential British establishment with a cozy atmosphere, and try their highly recommended local seafood dishes for lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Littlestone Sea Wall",
+            "hu": "Littlestone-i tengerfal",
+            "ro": "Zidul maritim Littlestone",
+            "en": "Littlestone Sea Wall"
+          },
+          "coords": [
+            0.954048,
+            50.984998
+          ],
+          "category": "civic",
+          "arrive_at": "13:08",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.7,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der Littlestone Sea Wall, um den Panoramablick auf den Ärmelkanal zu genießen, und bringen Sie eine Windjacke mit, da die Meeresbrise stark sein kann.",
+            "hu": "Sétáljon végig a Littlestone-i tengerfalon a La Manche csatorna panorámájáért, és hozzon magával széldzsekit, mivel a parti szél itt gyakran kifejezetten erős és hűvös.",
+            "ro": "Plimbați-vă de-a lungul zidului maritim Littlestone pentru vederi panoramice ale Canalului Mânecii, o structură de apărare vitală, și luați o jachetă de vânt contra brizei.",
+            "en": "Walk along the Littlestone Sea Wall for panoramic English Channel views, a vital coastal defense structure, and bring a windbreaker as the sea breeze can be quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Broomhill Sands",
+            "hu": "Broomhill Sands",
+            "ro": "Broomhill Sands",
+            "en": "Broomhill Sands"
+          },
+          "coords": [
+            0.974285,
+            50.953557
+          ],
+          "category": "recreational",
+          "arrive_at": "13:41",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.7,
+          "tip_5lang": {
+            "de": "Genießen Sie Wassersport oder einfache Entspannung in Broomhill Sands, das für hervorragende Kitesurf-Bedingungen bekannt ist, und bringen Sie viel Sonnencreme und Wasser mit.",
+            "hu": "Élvezze a vízi sportokat vagy a pihenést a Broomhill Sandsen, amely híres a kiváló kitesurf-feltételeiről, és hozzon magával bőségesen naptejet és vizet egy hosszú napra.",
+            "ro": "Bucurați-vă de sporturi nautice sau de relaxare simplă la Broomhill Sands, renumit pentru condițiile excelente de kite-surfing, și aduceți multă cremă de protecție solară.",
+            "en": "Enjoy water sports or simple relaxation at Broomhill Sands, famous for its excellent kite-surfing conditions, and bring plenty of sunscreen and water for a long day out."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt mit tiefen Einblicken in die lokale Geschichte im Romney Marsh Museum. Bewundern Sie vor dem Mittagessen die alte St. Nicholas Church im Herzen der Stadt. Mittags geht es zum The Ship Inn, wo Sie traditionelle Gastfreundschaft und leckeres Essen erwarten. Verbringen Sie den Nachmittag an der Littlestone Sea Wall und genießen Sie einen Küstenabend in Broomhill Sands.",
+        "hu": "Autós túrája a helyi történelem mélyreható megismerésével kezdődik a Romney Marsh Múzeumban. Ebéd előtt csodálja meg az ősi Szent Miklós-templomot a város szívében. A dél a The Ship Innbe viszi, ahol hagyományos tengeri vendégszeretet és finom ételek várják. Töltse a délutánt a Littlestone-i tengerfal kilátásával, majd élvezze a gyönyörű tengerparti estét a Broomhill Sandsen.",
+        "ro": "Turul dumneavoastră cu mașina începe cu scufundări adânci în istoria locală la Muzeul Romney Marsh. Înainte de prânz, admirați vechea Biserică Sf. Nicolae în inima orașului. Prânzul vă duce la The Ship Inn pentru ospitalitate maritimă și mâncare delicioasă. Petreceți după-amiaza admirând priveliștile de la zidul maritim Littlestone, apoi bucurați-vă de o seară de coastă la Broomhill Sands.",
+        "en": "Your driving tour begins with deep dives into local history at the Romney Marsh Museum. Before lunch, admire the ancient St Nicholas Church in the heart of town. Midday takes you to The Ship Inn for some traditional maritime hospitality and delicious food. Spend the afternoon taking in the views at Littlestone Sea Wall, then enjoy a beautiful coastal evening at Broomhill Sands."
+      }
+    }
+  }
+}

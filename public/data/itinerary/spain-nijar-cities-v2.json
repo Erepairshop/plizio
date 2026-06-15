@@ -1,0 +1,451 @@
+{
+  "city_id": "spain-nijar-cities-v2",
+  "anchor": {
+    "name": "Níjar",
+    "coords": [
+      -2.1778,
+      36.7256
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 2.38,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Aljibe de la Testa",
+            "hu": "Aljibe de la Testa",
+            "ro": "Aljibe de la Testa",
+            "en": "Aljibe de la Testa"
+          },
+          "coords": [
+            -2.196558,
+            36.733627
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese alte maurische Zisterne, die für das Überleben in der trockenen Landschaft entscheidend war, und bringen Sie eine Taschenlampe für die dunklen Gewölbe mit.",
+            "hu": "Csodáld meg ezt az ősi mór víztározót, amely létfontosságú volt a száraz tájon való túléléshez, és hozz magaddal zseblámpát a sötét boltozatok felfedezéséhez.",
+            "ro": "Admirați această veche cisternă maură, o structură vitală pentru supraviețuirea în peisajul arid, și aduceți o lanternă pentru a privi în interiorul bolților sale întunecate.",
+            "en": "Marvel at this ancient Moorish water cistern, a vital historical structure for survival in an arid landscape, so bring a flashlight to peek inside its dark vaults."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de vigilancia",
+            "hu": "Torre de vigilancia",
+            "ro": "Torre de vigilancia",
+            "en": "Torre de vigilancia"
+          },
+          "coords": [
+            -2.198171,
+            36.733211
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Steigen Sie zu diesem historischen Wachturm hinauf, um die Piratenabwehr der Region zu verstehen, aber tragen Sie festes Schuhwerk für den steinigen Weg.",
+            "hu": "Mássz fel ehhez a történelmi tengerparti őrtoronyhoz, hogy megértsd a kalózok elleni védelmet, de viselj stabil cipőt a csúcsra vezető sziklás, egyenetlen ösvényen.",
+            "ro": "Urcați la acest turn de veghe de coastă pentru a înțelege apărarea regiunii împotriva piraților, dar purtați încălțăminte solidă pentru poteca stâncoasă spre vârf.",
+            "en": "Climb up to this historic coastal watchtower to understand the region's defense against pirates, but wear sturdy shoes for the rocky, uneven path leading to the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala del Búnker",
+            "hu": "Cala del Búnker",
+            "ro": "Cala del Búnker",
+            "en": "Cala del Búnker"
+          },
+          "coords": [
+            -2.20323,
+            36.732445
+          ],
+          "category": "recreational",
+          "arrive_at": "11:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese versteckte Bucht mit den Überresten eines Bunkers aus dem Bürgerkrieg, also kommen Sie frühzeitig, um sich einen Platz am kleinen Strand zu sichern.",
+            "hu": "Fedezd fel ezt a rejtett öblöt, amely egy polgárháborús bunker romjait rejti, egyedi történelmi hangulatot nyújtva, így érkezz korán egy jó helyért a kis strandon.",
+            "ro": "Descoperiți acest golf ascuns cu rămășițele unui buncăr din Războiul Civil Spaniol, oferind un amestec unic de istorie, așa că sosiți devreme pentru un loc pe plajă.",
+            "en": "Discover this hidden cove featuring remnants of a Spanish Civil War bunker, offering a unique blend of history and nature, so arrive early to claim a spot on the small beach."
+          }
+        },
+        {
+          "name": {
+            "de": "La Calilla",
+            "hu": "La Calilla",
+            "ro": "La Calilla",
+            "en": "La Calilla"
+          },
+          "coords": [
+            -2.19,
+            36.721587
+          ],
+          "category": "recreational",
+          "arrive_at": "13:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.68,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am goldenen Sand von La Calilla, einem familienfreundlichen Strand mit ruhigem Wasser, ideal für ein sicheres morgendliches Bad vor dem Ansturm.",
+            "hu": "Pihenj meg a családbarát La Calilla aranyhomokján, amely nyugodt és sekély vizeiről ismert, így tökéletes egy biztonságos reggeli úszáshoz a tömeg érkezése előtt.",
+            "ro": "Relaxați-vă pe nisipul auriu de la La Calilla, o plajă potrivită pentru familii datorită apelor calme, ideală pentru o baie matinală sigură înainte de sosirea mulțimilor.",
+            "en": "Relax on the golden sands of La Calilla, a family-friendly beach known for its calm and shallow waters, making it perfect for a safe morning swim before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala de las Sirenas",
+            "hu": "Cala de las Sirenas",
+            "ro": "Cala de las Sirenas",
+            "en": "Cala de las Sirenas"
+          },
+          "coords": [
+            -2.189075,
+            36.721886
+          ],
+          "category": "recreational",
+          "arrive_at": "14:55",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.09,
+          "tip_5lang": {
+            "de": "Fotografieren Sie die zerklüfteten Felsen, die aus dem kristallklaren Wasser ragen, und bringen Sie eine Schnorchelausrüstung mit, um die Unterwasserwelt zu erkunden.",
+            "hu": "Fotózd le a kristálytiszta vízből kiemelkedő ikonikus vulkáni sziklákat a Sellők öblében, és mindenképpen hozz magaddal búvárszemüveget a víz alatti világ felfedezéséhez.",
+            "ro": "Fotografiați stâncile vulcanice emblematice ce ies din apa cristalină la Golful Sirenelor și asigurați-vă că aduceți echipament de snorkeling pentru a explora.",
+            "en": "Photograph the iconic jagged rocks protruding from the crystal-clear water at Mermaid Cove, a spectacular volcanic formation where you should bring snorkeling gear."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt mit einer Reise in die Vergangenheit beim Aljibe de la Testa, gefolgt vom Aufstieg zum Wachturm. Die Mittagszeit lädt zur Erkundung der Überreste der Cala del Búnker ein. Der Nachmittag ist der Entspannung an den goldenen Stränden von La Calilla gewidmet. Wenn der Abend naht, können Sie beobachten, wie das Licht die vulkanischen Felsen der Cala de las Sirenas in warme Farben taucht.",
+        "hu": "A reggel a múltba tett utazással indul az Aljibe de la Testa víztározónál, amelyet az őrtorony meghódítása követ. A délidő a tengerparti Cala del Búnker rejtett romjainak felfedezésére hív. A délutánt a La Calilla aranyhomokos partján töltheted pihenéssel. Ahogy közeledik az este, csodáld meg a Sellők öblének vulkáni szikláit a varázslatos naplemente fényeiben.",
+        "ro": "Dimineața începe cu o călătorie în trecut la Aljibe de la Testa, urmată de o urcare la turnul de veghe de coastă. Amiaza vă invită să explorați rămășițele ascunse de la Cala del Búnker. După-amiaza este dedicată relaxării pe nisipurile aurii ale plajei La Calilla. Odată cu lăsarea serii, priviți cum lumina transformă stâncile vulcanice emblematice de la Cala de las Sirenas.",
+        "en": "Your morning starts with a journey into the past at the Aljibe de la Testa, followed by a rewarding climb to the coastal Torre de vigilancia. Midday invites you to explore the hidden remnants at Cala del Búnker, offering history beside the sea. The afternoon is dedicated to relaxation on the golden sands of La Calilla. As evening approaches, watch the light transform the volcanic rocks at Cala de las Sirenas."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:47",
+      "total_km": 5.91,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Aljibe de la Testa",
+            "hu": "Aljibe de la Testa",
+            "ro": "Aljibe de la Testa",
+            "en": "Aljibe de la Testa"
+          },
+          "coords": [
+            -2.196558,
+            36.733627
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese alte maurische Zisterne, die für das Überleben in der trockenen Landschaft entscheidend war, und bringen Sie eine Taschenlampe für die dunklen Gewölbe mit.",
+            "hu": "Csodáld meg ezt az ősi mór víztározót, amely létfontosságú volt a száraz tájon való túléléshez, és hozz magaddal zseblámpát a sötét boltozatok felfedezéséhez.",
+            "ro": "Admirați această veche cisternă maură, o structură vitală pentru supraviețuirea în peisajul arid, și aduceți o lanternă pentru a privi în interiorul bolților sale întunecate.",
+            "en": "Marvel at this ancient Moorish water cistern, a vital historical structure for survival in an arid landscape, so bring a flashlight to peek inside its dark vaults."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala de las Sirenas",
+            "hu": "Cala de las Sirenas",
+            "ro": "Cala de las Sirenas",
+            "en": "Cala de las Sirenas"
+          },
+          "coords": [
+            -2.189075,
+            36.721886
+          ],
+          "category": "recreational",
+          "arrive_at": "10:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.45,
+          "tip_5lang": {
+            "de": "Fotografieren Sie die zerklüfteten Felsen, die aus dem kristallklaren Wasser ragen, und bringen Sie eine Schnorchelausrüstung mit, um die Unterwasserwelt zu erkunden.",
+            "hu": "Fotózd le a kristálytiszta vízből kiemelkedő ikonikus vulkáni sziklákat a Sellők öblében, és mindenképpen hozz magaddal búvárszemüveget a víz alatti világ felfedezéséhez.",
+            "ro": "Fotografiați stâncile vulcanice emblematice ce ies din apa cristalină la Golful Sirenelor și asigurați-vă că aduceți echipament de snorkeling pentru a explora.",
+            "en": "Photograph the iconic jagged rocks protruding from the crystal-clear water at Mermaid Cove, a spectacular volcanic formation where you should bring snorkeling gear."
+          }
+        },
+        {
+          "name": {
+            "de": "Vela Blanca Poniente",
+            "hu": "Vela Blanca Poniente",
+            "ro": "Vela Blanca Poniente",
+            "en": "Vela Blanca Poniente"
+          },
+          "coords": [
+            -2.17261,
+            36.72592
+          ],
+          "category": "natural",
+          "arrive_at": "12:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Küste von den markanten weißen Vulkanfelsen der Vela Blanca aus, und bringen Sie eine Windjacke gegen die starke Brise mit.",
+            "hu": "Élvezd a panorámás tengerparti kilátást a Vela Blanca lenyűgöző fehér vulkáni szikláiról, és hozz magaddal egy széldzsekit, mivel a parti szél itt elég erős lehet.",
+            "ro": "Bucurați-vă de priveliștile panoramice de pe stâncile vulcanice albe de la Vela Blanca, și aduceți o jachetă de vânt, deoarece briza marină poate fi puternică.",
+            "en": "Take in the panoramic coastal views from the striking white volcanic cliffs of Vela Blanca, a highlight of the nature reserve, and bring a windbreaker as breezes are strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Carbón",
+            "hu": "Cala Carbón",
+            "ro": "Cala Carbón",
+            "en": "Cala Carbón"
+          },
+          "coords": [
+            -2.156742,
+            36.729832
+          ],
+          "category": "recreational",
+          "arrive_at": "13:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen in dieser abgelegenen Kieselbucht, die für ihre dramatischen Felsformationen bekannt ist, und vergessen Sie Ihre Badeschuhe für den Einstieg nicht.",
+            "hu": "Menekülj el a tömeg elől ebben a távoli kavicsos öbölben, amely drámai geológiai formációiról híres, de ne felejts el vízicipőt hozni a kényelmes vízbe jutáshoz.",
+            "ro": "Scăpați de aglomerație în acest golf izolat cu pietriș, renumit pentru formațiunile sale geologice, dar nu uitați încălțămintea de apă pentru o intrare confortabilă.",
+            "en": "Escape the crowds at this remote pebble cove, renowned for its dramatic geological formations and deep waters, but don't forget water shoes for a comfortable entry."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Mónsul",
+            "hu": "Playa de Mónsul",
+            "ro": "Playa de Mónsul",
+            "en": "Playa de Mónsul"
+          },
+          "coords": [
+            -2.146124,
+            36.730628
+          ],
+          "category": "recreational",
+          "arrive_at": "14:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Besuchen Sie den berühmten Kinostrand von Mónsul, um seine massive Lavadüne zu bewundern, und bereiten Sie sich auf einen kleinen Fußmarsch vom Parkplatz vor.",
+            "hu": "Lépj Mónsul híres filmes strandjára, hogy megcsodáld a masszív lávadűnét és a sziklaoszlopot, de készülj fel egy kis sétára a parkolóból a csúcsidőszakban.",
+            "ro": "Pășiți pe faimoasa plajă cinematică Mónsul pentru a admira duna masivă de lavă, dar pregătiți-vă să mergeți puțin pe jos de la parcare în perioadele aglomerate.",
+            "en": "Step onto the famous cinematic beach of Mónsul to admire its massive lava dune and unique rock pillar, but prepare to walk a bit from the parking area during peak times."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa del Barronal",
+            "hu": "Playa del Barronal",
+            "ro": "Playa del Barronal",
+            "en": "Playa del Barronal"
+          },
+          "coords": [
+            -2.139761,
+            36.729592
+          ],
+          "category": "recreational",
+          "arrive_at": "16:02",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.56,
+          "tip_5lang": {
+            "de": "Genießen Sie die unberührte, fkk-freundliche Isolation des Strandes Barronal, der von Basaltsäulen eingerahmt ist, wo Sie jedoch alle Vorräte selbst mitbringen müssen.",
+            "hu": "Élvezd a Barronal strand érintetlen, naturista barát elszigeteltségét a bazaltoszlopok között, ahová minden saját felszerelést magadnak kell hoznod a büfék hiánya miatt.",
+            "ro": "Bucurați-vă de izolarea plajei Barronal, prietenoasă cu nudiștii și încadrată de coloane de bazalt, unde este necesar să vă aduceți propriile provizii, nefiind facilități.",
+            "en": "Enjoy the pristine, naturist-friendly isolation of Barronal beach, framed by striking basalt columns, where packing all your own supplies is necessary since there are no facilities."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens zum historischen Aljibe de la Testa, bevor Sie zu den vulkanischen Formationen der Cala de las Sirenas hinunterfahren. Mittags geht es über die windigen Höhen der Vela Blanca Poniente zu den abgelegenen Kieselstränden der Cala Carbón. Am Nachmittag radeln Sie zum berühmten Kinostrand Playa de Mónsul. Die Tour endet in der unberührten Schönheit der Playa del Barronal am späten Nachmittag.",
+        "hu": "Indítsd a reggelt a történelmi Aljibe de la Testa víztározónál, majd gurulj le a Sellők öblének vulkáni szikláihoz. Délben a szeles Vela Blanca Poniente magaslatai felé veszed az irányt, majd a Cala Carbón kavicsos partjánál pihensz meg. Délután a Mónsul strand filmes homokdűnéihez kerékpározol. A kaland a Barronal strand érintetlen és csendes szépségével zárul a naplementében.",
+        "ro": "Începeți dimineața pedalând la istorica Aljibe de la Testa înainte de a coborî spre formațiunile vulcanice de la Cala de las Sirenas. Amiaza vă duce pe lângă înălțimile bătute de vânt de la Vela Blanca Poniente spre țărmurile izolate ale Cala Carbón. După-amiaza, veți pedala spre faimoasa plajă cinematică Mónsul. Călătoria se încheie cu frumusețea serenă și neatinsă de la Playa del Barronal.",
+        "en": "Pedal off your morning with the historic Aljibe de la Testa before cruising down to the iconic volcanic formations of Cala de las Sirenas. Midday brings you past the sweeping, breezy heights of Vela Blanca Poniente towards the secluded pebble shores of Cala Carbón. In the afternoon, you'll cycle to the famous cinematic sands of Playa de Mónsul. The journey concludes with the serene, untouched beauty of Playa del Barronal."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:28",
+      "total_km": 6.08,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Torre de vigilancia",
+            "hu": "Torre de vigilancia",
+            "ro": "Torre de vigilancia",
+            "en": "Torre de vigilancia"
+          },
+          "coords": [
+            -2.198171,
+            36.733211
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Steigen Sie zu diesem historischen Wachturm hinauf, um die Piratenabwehr der Region zu verstehen, aber tragen Sie festes Schuhwerk für den steinigen Weg.",
+            "hu": "Mássz fel ehhez a történelmi tengerparti őrtoronyhoz, hogy megértsd a kalózok elleni védelmet, de viselj stabil cipőt a csúcsra vezető sziklás, egyenetlen ösvényen.",
+            "ro": "Urcați la acest turn de veghe de coastă pentru a înțelege apărarea regiunii împotriva piraților, dar purtați încălțăminte solidă pentru poteca stâncoasă spre vârf.",
+            "en": "Climb up to this historic coastal watchtower to understand the region's defense against pirates, but wear sturdy shoes for the rocky, uneven path leading to the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala del Búnker",
+            "hu": "Cala del Búnker",
+            "ro": "Cala del Búnker",
+            "en": "Cala del Búnker"
+          },
+          "coords": [
+            -2.20323,
+            36.732445
+          ],
+          "category": "recreational",
+          "arrive_at": "10:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese versteckte Bucht mit den Überresten eines Bunkers aus dem Bürgerkrieg, also kommen Sie frühzeitig, um sich einen Platz am kleinen Strand zu sichern.",
+            "hu": "Fedezd fel ezt a rejtett öblöt, amely egy polgárháborús bunker romjait rejti, egyedi történelmi hangulatot nyújtva, így érkezz korán egy jó helyért a kis strandon.",
+            "ro": "Descoperiți acest golf ascuns cu rămășițele unui buncăr din Războiul Civil Spaniol, oferind un amestec unic de istorie, așa că sosiți devreme pentru un loc pe plajă.",
+            "en": "Discover this hidden cove featuring remnants of a Spanish Civil War bunker, offering a unique blend of history and nature, so arrive early to claim a spot on the small beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Vela Blanca Poniente",
+            "hu": "Vela Blanca Poniente",
+            "ro": "Vela Blanca Poniente",
+            "en": "Vela Blanca Poniente"
+          },
+          "coords": [
+            -2.17261,
+            36.72592
+          ],
+          "category": "natural",
+          "arrive_at": "11:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Küste von den markanten weißen Vulkanfelsen der Vela Blanca aus, und bringen Sie eine Windjacke gegen die starke Brise mit.",
+            "hu": "Élvezd a panorámás tengerparti kilátást a Vela Blanca lenyűgöző fehér vulkáni szikláiról, és hozz magaddal egy széldzsekit, mivel a parti szél itt elég erős lehet.",
+            "ro": "Bucurați-vă de priveliștile panoramice de pe stâncile vulcanice albe de la Vela Blanca, și aduceți o jachetă de vânt, deoarece briza marină poate fi puternică.",
+            "en": "Take in the panoramic coastal views from the striking white volcanic cliffs of Vela Blanca, a highlight of the nature reserve, and bring a windbreaker as breezes are strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala de la Media Luna",
+            "hu": "Cala de la Media Luna",
+            "ro": "Cala de la Media Luna",
+            "en": "Cala de la Media Luna"
+          },
+          "coords": [
+            -2.15225,
+            36.73123
+          ],
+          "category": "recreational",
+          "arrive_at": "13:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem sichelförmigen Ufer mit feinem Sand und hervorragenden Badebedingungen, aber ein Sonnenschirm ist wegen des fehlenden Schattens unerlässlich.",
+            "hu": "Lazíts a Félhold-öböl tágas partján, amely finom homokot és kiváló úszási lehetőségeket kínál, de az árnyék hiánya miatt feltétlenül hozz magaddal egy napernyőt.",
+            "ro": "Relaxați-vă pe malul în formă de semilună ce oferă nisip fin și condiții excelente de înot, făcând o umbrelă esențială din cauza lipsei totale de umbră naturală.",
+            "en": "Unwind on the expansive crescent-shaped shore of Half Moon Cove, offering fine sand and excellent swimming conditions, making an umbrella essential for the lack of shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Mónsul",
+            "hu": "Playa de Mónsul",
+            "ro": "Playa de Mónsul",
+            "en": "Playa de Mónsul"
+          },
+          "coords": [
+            -2.146124,
+            36.730628
+          ],
+          "category": "recreational",
+          "arrive_at": "14:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Besuchen Sie den berühmten Kinostrand von Mónsul, um seine massive Lavadüne zu bewundern, und bereiten Sie sich auf einen kleinen Fußmarsch vom Parkplatz vor.",
+            "hu": "Lépj Mónsul híres filmes strandjára, hogy megcsodáld a masszív lávadűnét és a sziklaoszlopot, de készülj fel egy kis sétára a parkolóból a csúcsidőszakban.",
+            "ro": "Pășiți pe faimoasa plajă cinematică Mónsul pentru a admira duna masivă de lavă, dar pregătiți-vă să mergeți puțin pe jos de la parcare în perioadele aglomerate.",
+            "en": "Step onto the famous cinematic beach of Mónsul to admire its massive lava dune and unique rock pillar, but prepare to walk a bit from the parking area during peak times."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa del Barronal",
+            "hu": "Playa del Barronal",
+            "ro": "Playa del Barronal",
+            "en": "Playa del Barronal"
+          },
+          "coords": [
+            -2.139761,
+            36.729592
+          ],
+          "category": "recreational",
+          "arrive_at": "15:43",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.57,
+          "tip_5lang": {
+            "de": "Genießen Sie die unberührte, fkk-freundliche Isolation des Strandes Barronal, der von Basaltsäulen eingerahmt ist, wo Sie jedoch alle Vorräte selbst mitbringen müssen.",
+            "hu": "Élvezd a Barronal strand érintetlen, naturista barát elszigeteltségét a bazaltoszlopok között, ahová minden saját felszerelést magadnak kell hoznod a büfék hiánya miatt.",
+            "ro": "Bucurați-vă de izolarea plajei Barronal, prietenoasă cu nudiștii și încadrată de coloane de bazalt, unde este necesar să vă aduceți propriile provizii, nefiind facilități.",
+            "en": "Enjoy the pristine, naturist-friendly isolation of Barronal beach, framed by striking basalt columns, where packing all your own supplies is necessary since there are no facilities."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zum historischen Wachturm, um Ihren Tag mit einem weiten Meerblick und alten Verteidigungsanlagen zu beginnen. Gegen Mittag erkunden Sie die historische Cala del Búnker und navigieren durch die Landschaften der Vela Blanca Poniente. Der Nachmittag gehört den Stränden Cala de la Media Luna und der berühmten Playa de Mónsul. Beenden Sie Ihren Tag völlig entspannt an der abgelegenen Playa del Barronal.",
+        "hu": "Kezdd a napot egy autózással a történelmi őrtoronyhoz, ahonnan lenyűgöző tengeri panoráma tárul eléd. Délben fedezd fel a Cala del Búnker történelmi érdekességeit, majd vezesd végig az utat a Vela Blanca Poniente drámai vulkáni tájain. A délutánt a Félhold-öböl strandján és a Mónsul híres dűnéinél töltheted. Zárd a napot a távoli és nyugalmas Barronal strand érintetlen partjainál.",
+        "ro": "Conduceți la turnul de veghe istoric pentru a vă începe ziua cu vederi panoramice ale mării. Până la amiază, explorați curiozitățile istorice de la Cala del Búnker și peisajele dramatice ale Vela Blanca Poniente. După-amiaza este petrecută bucurându-vă de nisipurile de la Cala de la Media Luna și de faimoasa Playa de Mónsul. Încheiați ziua relaxându-vă complet pe plaja retrasă și liniștită Barronal.",
+        "en": "Drive to the historic Torre de vigilancia to start your day with sweeping sea views and ancient defenses. By midday, explore the historical curiosities of Cala del Búnker and navigate the dramatic volcanic landscapes of Vela Blanca Poniente. The afternoon is spent enjoying the crescent sands of Cala de la Media Luna and the famous dunes of Playa de Mónsul. End your day unwinding completely at the remote Playa del Barronal."
+      }
+    }
+  }
+}

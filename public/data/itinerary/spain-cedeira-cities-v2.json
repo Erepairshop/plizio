@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-cedeira-cities-v2",
+  "anchor": {
+    "name": "Cedeira",
+    "coords": [
+      -8.0547,
+      43.66024
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:27",
+      "total_km": 2.08,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Antiga Muralla",
+            "hu": "Antiga Muralla",
+            "ro": "Antiga Muralla",
+            "en": "Antiga Muralla"
+          },
+          "coords": [
+            -8.05658,
+            43.660425
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Überreste der mittelalterlichen Stadtmauer, die Cedeira einst schützte, und starten Sie Ihren Rundgang am besten in den kühlen Morgenstunden.",
+            "hu": "Csodálja meg a középkori városfal maradványait, amely egykor Cedeirát védte, és érdemes a hűvösebb reggeli órákban kezdeni a történelmi sétát.",
+            "ro": "Admirați rămășițele zidului medieval care proteja cândva Cedeira și începeți plimbarea istorică în orele mai răcoroase ale dimineții pentru confort.",
+            "en": "Admire the remnants of the medieval wall that once protected Cedeira, and start your historical walk in the cooler morning hours for maximum comfort."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento á Muller do Pescador",
+            "hu": "Monumento á Muller do Pescador",
+            "ro": "Monumento á Muller do Pescador",
+            "en": "Monumento á Muller do Pescador"
+          },
+          "coords": [
+            -8.062209,
+            43.658072
+          ],
+          "category": "historical",
+          "arrive_at": "10:38",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.53,
+          "tip_5lang": {
+            "de": "Diese ergreifende Statue ehrt die harten Arbeitsbedingungen der Fischerfrauen; achten Sie auf die feinen Details, während Sie entlang der malerischen Promenade flanieren.",
+            "hu": "Ez a megható szobor a halászfeleségek kemény munkáját tiszteli meg; figyelje meg a finom részleteket, miközben a festői tengerparti sétányon andalog.",
+            "ro": "Această statuie emoționantă onorează munca grea a soțiilor de pescari; observați detaliile fine în timp ce vă plimbați pe faleza pitorească.",
+            "en": "This poignant statue honors the hard work of fishermen's wives; notice the fine details on the sculpture while strolling along the scenic promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Mares de Cedeira",
+            "hu": "Museo Mares de Cedeira",
+            "ro": "Museo Mares de Cedeira",
+            "en": "Museo Mares de Cedeira"
+          },
+          "coords": [
+            -8.06062,
+            43.658393
+          ],
+          "category": "museum",
+          "arrive_at": "10:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche maritime Geschichte und lokale Fischertraditionen in diesem faszinierenden Museum, wofür Sie sich ruhig ein bis zwei Stunden Zeit nehmen sollten.",
+            "hu": "Fedezze fel a gazdag tengerészeti történelmet és a helyi halászati hagyományokat ebben a lenyűgöző múzeumban, amelyre érdemes egy-két órát szánni.",
+            "ro": "Descoperiți istoria maritimă bogată și tradițiile locale de pescuit în acest muzeu fascinant, pentru care ar trebui să alocați o oră sau două.",
+            "en": "Discover the rich maritime history and local fishing traditions in this fascinating museum, making sure to allocate at least an hour for the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro do Espigón",
+            "hu": "Faro do Espigón",
+            "ro": "Faro do Espigón",
+            "en": "Faro do Espigón"
+          },
+          "coords": [
+            -8.070148,
+            43.655385
+          ],
+          "category": "landmark",
+          "arrive_at": "12:48",
+          "stay_min": 30,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.84,
+          "tip_5lang": {
+            "de": "Dieser charmante kleine Leuchtturm bietet herrliche Ausblicke auf die ein- und ausfahrenden Fischerboote; bringen Sie unbedingt eine Kamera für fantastische Hafenmotive mit.",
+            "hu": "Ez a bájos kis világítótorony csodálatos kilátást nyújt a ki- és beúszó halászhajókra; mindenképpen hozzon fényképezőgépet a remek kikötői fotókhoz.",
+            "ro": "Acest mic far fermecător oferă vederi minunate asupra bărcilor de pescuit; asigurați-vă că aduceți o cameră pentru fotografii fantastice ale portului.",
+            "en": "This charming small lighthouse offers magnificent views of the fishing boats coming and going; be sure to bring a camera for fantastic harbor photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Ría de Cedeira",
+            "hu": "Ría de Cedeira",
+            "ro": "Ría de Cedeira",
+            "en": "Ría de Cedeira"
+          },
+          "coords": [
+            -8.075396,
+            43.659028
+          ],
+          "category": "landmark",
+          "arrive_at": "13:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.58,
+          "tip_5lang": {
+            "de": "Die weite Bucht besticht durch ihre natürliche Schönheit und ruhigen Gewässer, was sie zum perfekten Ort für ein entspanntes Picknick am späten Nachmittag macht.",
+            "hu": "A tágas öböl lenyűgözi a látogatókat természetes szépségével és nyugodt vizeivel, így tökéletes helyszín egy pihentető késő délutáni piknikhez.",
+            "ro": "Golful larg impresionează prin frumusețea sa naturală și apele liniștite, fiind locul perfect pentru un picnic relaxant la sfârșitul după-amiezii.",
+            "en": "The wide bay impresses with its natural beauty and calm waters, making it the perfect spot for a relaxing late afternoon picnic near the shoreline."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unser Spaziergang beginnt im historischen Herzen von Cedeira an der alten Stadtmauer, bevor wir der Fischerfrau am Hafen unseren Respekt zollen. Am späten Vormittag tauchen wir im maritimen Museum tief in die Kultur ein. Nachmittags schlendern wir gemütlich zum Leuchtturm und beenden den Tag an der malerischen Bucht, wo die Meeresbrise und das sanfte Rauschen der Wellen absolute Entspannung bieten.",
+        "hu": "Sétánk Cedeira történelmi szívében, az ősi városfalnál kezdődik, mielőtt tiszteletünket tennénk a kikötőben álló halászfeleség szobra előtt. Késő délelőtt a tengerészeti múzeumban mélyedünk el a kultúrában. Délután kényelmesen elindulunk a világítótoronyhoz, majd a napot a festői öbölnél zárjuk, ahol a tengeri szellő és a hullámok lágy zúgása nyújt tökéletes kikapcsolódást.",
+        "ro": "Plimbarea noastră începe în inima istorică a orașului Cedeira, la vechiul zid, înainte de a aduce un omagiu soției pescarului din port. Spre sfârșitul dimineții, ne cufundăm în cultura marină la muzeu. După-amiaza, ne plimbăm pe îndelete până la far și încheiem ziua în golful pitoresc, unde briza mării și sunetul blând al valurilor oferă o relaxare absolută.",
+        "en": "Our walk begins in the historical heart of Cedeira at the ancient city wall before paying respects to the fisherman's wife at the harbor. By late morning, we dive deep into local maritime culture at the museum. In the afternoon, we stroll leisurely to the charming lighthouse and end the day at the picturesque bay, where the sea breeze and gentle sound of waves offer absolute relaxation."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:31",
+      "total_km": 2.86,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Antiga Muralla",
+            "hu": "Antiga Muralla",
+            "ro": "Antiga Muralla",
+            "en": "Antiga Muralla"
+          },
+          "coords": [
+            -8.05658,
+            43.660425
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Überreste der mittelalterlichen Stadtmauer, die Cedeira einst schützte, und starten Sie Ihren Rundgang am besten in den kühlen Morgenstunden.",
+            "hu": "Csodálja meg a középkori városfal maradványait, amely egykor Cedeirát védte, és érdemes a hűvösebb reggeli órákban kezdeni a történelmi sétát.",
+            "ro": "Admirați rămășițele zidului medieval care proteja cândva Cedeira și începeți plimbarea istorică în orele mai răcoroase ale dimineții pentru confort.",
+            "en": "Admire the remnants of the medieval wall that once protected Cedeira, and start your historical walk in the cooler morning hours for maximum comfort."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Mares de Cedeira",
+            "hu": "Museo Mares de Cedeira",
+            "ro": "Museo Mares de Cedeira",
+            "en": "Museo Mares de Cedeira"
+          },
+          "coords": [
+            -8.06062,
+            43.658393
+          ],
+          "category": "museum",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche maritime Geschichte und lokale Fischertraditionen in diesem faszinierenden Museum, wofür Sie sich ruhig ein bis zwei Stunden Zeit nehmen sollten.",
+            "hu": "Fedezze fel a gazdag tengerészeti történelmet és a helyi halászati hagyományokat ebben a lenyűgöző múzeumban, amelyre érdemes egy-két órát szánni.",
+            "ro": "Descoperiți istoria maritimă bogată și tradițiile locale de pescuit în acest muzeu fascinant, pentru care ar trebui să alocați o oră sau două.",
+            "en": "Discover the rich maritime history and local fishing traditions in this fascinating museum, making sure to allocate at least an hour for the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "A Cetaria do Canexo",
+            "hu": "A Cetaria do Canexo",
+            "ro": "A Cetaria do Canexo",
+            "en": "A Cetaria do Canexo"
+          },
+          "coords": [
+            -8.072307,
+            43.658549
+          ],
+          "category": "historical",
+          "arrive_at": "12:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieses historischen Meeresfrüchte-Beckens direkt am Ozean und tragen Sie unbedingt rutschfestes Schuhwerk für die nassen Steine.",
+            "hu": "Fedezze fel ennek a történelmi tengeri herkentyű-medencének a romjait közvetlenül az óceánnál, és mindenképpen viseljen csúszásmentes cipőt a nedves kövek miatt.",
+            "ro": "Explorați ruinele acestui bazin istoric de fructe de mare direct pe ocean și asigurați-vă că purtați încălțăminte antiderapantă pentru pietrele umede.",
+            "en": "Explore the ruins of this historical seafood holding pool right on the ocean, and be sure to wear slip-resistant footwear for the wet, slippery stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Batería de Sarridal",
+            "hu": "Batería de Sarridal",
+            "ro": "Batería de Sarridal",
+            "en": "Batería de Sarridal"
+          },
+          "coords": [
+            -8.075172,
+            43.660131
+          ],
+          "category": "historical",
+          "arrive_at": "13:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.29,
+          "tip_5lang": {
+            "de": "Diese alten militärischen Festungsanlagen bieten einen atemberaubenden Blick über die Küste; ein Fernglas hilft, Seevögel und weit entfernte Schiffe zu erspähen.",
+            "hu": "Ezek a régi katonai erődítmények lélegzetelállító kilátást nyújtanak a partra; egy távcső segít a tengeri madarak és a távoli hajók megfigyelésében.",
+            "ro": "Aceste vechi fortificații militare oferă o vedere uluitoare asupra coastei; aduceți un binoclu pentru a observa păsările marine și navele îndepărtate.",
+            "en": "These old military fortifications offer breathtaking views over the coastline; bring binoculars to spot seabirds and distant ships on the horizon."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradoiro de San Antón de Corveiro",
+            "hu": "Miradoiro de San Antón de Corveiro",
+            "ro": "Miradoiro de San Antón de Corveiro",
+            "en": "Miradoiro de San Antón de Corveiro"
+          },
+          "coords": [
+            -8.070137,
+            43.663639
+          ],
+          "category": "natural",
+          "arrive_at": "15:02",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.56,
+          "tip_5lang": {
+            "de": "Genießen Sie das unvergleichliche Panorama von diesem hochgelegenen Aussichtspunkt und kommen Sie am besten kurz vor Sonnenuntergang für die schönsten Farben.",
+            "hu": "Élvezze a páratlan panorámát erről a magasan fekvő kilátóról, és érdemes röviddel naplemente előtt érkezni a legszebb színekért.",
+            "ro": "Bucurați-vă de panorama incomparabilă de la acest punct de belvedere înalt și veniți chiar înainte de apus pentru cele mai frumoase culori.",
+            "en": "Enjoy the incomparable panorama from this elevated viewpoint, and try to arrive just before sunset to witness the most spectacular and vibrant colors."
+          }
+        },
+        {
+          "name": {
+            "de": "Ría de Cedeira",
+            "hu": "Ría de Cedeira",
+            "ro": "Ría de Cedeira",
+            "en": "Ría de Cedeira"
+          },
+          "coords": [
+            -8.075396,
+            43.659028
+          ],
+          "category": "landmark",
+          "arrive_at": "15:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.66,
+          "tip_5lang": {
+            "de": "Die weite Bucht besticht durch ihre natürliche Schönheit und ruhigen Gewässer, was sie zum perfekten Ort für ein entspanntes Picknick am späten Nachmittag macht.",
+            "hu": "A tágas öböl lenyűgözi a látogatókat természetes szépségével és nyugodt vizeivel, így tökéletes helyszín egy pihentető késő délutáni piknikhez.",
+            "ro": "Golful larg impresionează prin frumusețea sa naturală și apele liniștite, fiind locul perfect pentru un picnic relaxant la sfârșitul după-amiezii.",
+            "en": "The wide bay impresses with its natural beauty and calm waters, making it the perfect spot for a relaxing late afternoon picnic near the shoreline."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad starten wir an den Resten der Stadtmauer und radeln zügig zum Schifffahrtsmuseum. Danach geht es entlang der Küste zu den historischen Meeresbecken und der alten Militärbatterie, wo sich Geschichte und Natur treffen. Der Nachmittag bringt uns zum atemberaubenden Aussichtspunkt von Corveiro, bevor wir die Tour an der weitläufigen Ría de Cedeira entspannt ausklingen lassen.",
+        "hu": "Kerékpárral a városfal romjaitól indulunk, és gyorsan a tengerészeti múzeumhoz tekerünk. Ezután a part mentén a történelmi medencékhez és a régi katonai üteghez megyünk, ahol a történelem és a természet találkozik. A délután a lenyűgöző Corveiro kilátóhoz visz minket, majd a túrát a tágas Ría de Cedeira partján fejezzük be nyugodt környezetben.",
+        "ro": "Cu bicicleta pornim de la rămășițele zidului orașului și pedalăm rapid spre muzeul maritim. Apoi mergem de-a lungul coastei către bazinele istorice și vechea baterie militară. După-amiaza ne aduce la uluitorul punct de belvedere Corveiro, unde natura și istoria se împletesc, înainte de a încheia turul într-o notă relaxantă la întinsa Ría de Cedeira, bucurându-ne de priveliște.",
+        "en": "On our bikes, we start at the city wall ruins and pedal swiftly to the maritime museum. Afterward, we head along the coast to the historical holding pools and the old military battery, where history meets nature. The afternoon brings us to the breathtaking Corveiro viewpoint before we conclude the tour in a relaxed atmosphere at the expansive Ría de Cedeira."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 4.68,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "O Castro das Croas",
+            "hu": "O Castro das Croas",
+            "ro": "O Castro das Croas",
+            "en": "O Castro das Croas"
+          },
+          "coords": [
+            -8.055858,
+            43.644554
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die faszinierenden Überreste dieser alten keltischen Siedlung und achten Sie auf die noch erkennbaren runden Grundrisse der historischen Steinhäuser.",
+            "hu": "Sétáljon végig ennek az ősi kelta településnek a lenyűgöző maradványain, és figyelje meg a történelmi kőházak még mindig felismerhető kerek alaprajzait.",
+            "ro": "Plimbați-vă prin rămășițele fascinante ale acestei vechi așezări celtice și observați planurile circulare încă recunoscibile ale caselor istorice de piatră.",
+            "en": "Wander through the fascinating remains of this ancient Celtic settlement and look out for the still recognizable circular foundations of the stone houses."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Xiao",
+            "hu": "Praia de Xiao",
+            "ro": "Praia de Xiao",
+            "en": "Praia de Xiao"
+          },
+          "coords": [
+            -8.0688,
+            43.646994
+          ],
+          "category": "recreational",
+          "arrive_at": "10:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.08,
+          "tip_5lang": {
+            "de": "Dieser ruhige Sandstrand lädt zum Verweilen und Schwimmen ein; bringen Sie Ihr eigenes Wasser und Snacks mit, da es hier keine direkten Versorgungsmöglichkeiten gibt.",
+            "hu": "Ez a csendes homokos strand pihenésre és úszásra csábít; hozzon magával saját vizet és rágcsálnivalót, mivel itt nincsenek közvetlen ellátási lehetőségek.",
+            "ro": "Această plajă liniștită cu nisip vă invită să vă relaxați și să înotați; aduceți-vă propria apă și gustări, deoarece nu există opțiuni directe de aprovizionare.",
+            "en": "This quiet sandy beach invites you to linger and swim; make sure to bring your own water and snacks as there are no direct supply options available here."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro da Punta Promontoiro",
+            "hu": "Faro da Punta Promontoiro",
+            "ro": "Faro da Punta Promontoiro",
+            "en": "Faro da Punta Promontoiro"
+          },
+          "coords": [
+            -8.069947,
+            43.650842
+          ],
+          "category": "landmark",
+          "arrive_at": "11:48",
+          "stay_min": 30,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.44,
+          "tip_5lang": {
+            "de": "Der majestätische Leuchtturm thront dramatisch über den Klippen und ist ein idealer Ort, um die Kraft des Atlantiks bei starkem Wind zu spüren.",
+            "hu": "A fenséges világítótorony drámaian magasodik a sziklák fölé, és ideális hely arra, hogy erős szélben érezze az Atlanti-óceán erejét.",
+            "ro": "Farul maiestuos se înalță dramatic deasupra stâncilor și este un loc ideal pentru a simți puterea Oceanului Atlantic atunci când vântul suflă puternic.",
+            "en": "The majestic lighthouse perches dramatically above the cliffs and is an ideal spot to feel the raw power of the Atlantic Ocean when the wind is strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Mares de Cedeira",
+            "hu": "Museo Mares de Cedeira",
+            "ro": "Museo Mares de Cedeira",
+            "en": "Museo Mares de Cedeira"
+          },
+          "coords": [
+            -8.06062,
+            43.658393
+          ],
+          "category": "museum",
+          "arrive_at": "12:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.12,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche maritime Geschichte und lokale Fischertraditionen in diesem faszinierenden Museum, wofür Sie sich ruhig ein bis zwei Stunden Zeit nehmen sollten.",
+            "hu": "Fedezze fel a gazdag tengerészeti történelmet és a helyi halászati hagyományokat ebben a lenyűgöző múzeumban, amelyre érdemes egy-két órát szánni.",
+            "ro": "Descoperiți istoria maritimă bogată și tradițiile locale de pescuit în acest muzeu fascinant, pentru care ar trebui să alocați o oră sau două.",
+            "en": "Discover the rich maritime history and local fishing traditions in this fascinating museum, making sure to allocate at least an hour for the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "A Cetaria de Fifo",
+            "hu": "A Cetaria de Fifo",
+            "ro": "A Cetaria de Fifo",
+            "en": "A Cetaria de Fifo"
+          },
+          "coords": [
+            -8.073682,
+            43.658842
+          ],
+          "category": "museum",
+          "arrive_at": "14:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.06,
+          "tip_5lang": {
+            "de": "Erfahren Sie in dieser charmanten Meeresfrüchte-Ausstellung mehr über traditionelle Zuchtmethoden und probieren Sie lokale Spezialitäten in den umliegenden kleinen Tavernen.",
+            "hu": "Tudjon meg többet a hagyományos tenyésztési módszerekről ebben a bájos tengeri herkentyű kiállításban, és kóstolja meg a helyi specialitásokat a közeli kis tavernákban.",
+            "ro": "Aflați mai multe despre metodele tradiționale de reproducere în această expoziție fermecătoare și gustați specialități locale în micile taverne din apropiere.",
+            "en": "Learn more about traditional breeding methods in this charming seafood exhibit, and be sure to taste local specialties in the nearby small taverns."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradoiro de San Antón de Corveiro",
+            "hu": "Miradoiro de San Antón de Corveiro",
+            "ro": "Miradoiro de San Antón de Corveiro",
+            "en": "Miradoiro de San Antón de Corveiro"
+          },
+          "coords": [
+            -8.070137,
+            43.663639
+          ],
+          "category": "natural",
+          "arrive_at": "15:43",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie das unvergleichliche Panorama von diesem hochgelegenen Aussichtspunkt und kommen Sie am besten kurz vor Sonnenuntergang für die schönsten Farben.",
+            "hu": "Élvezze a páratlan panorámát erről a magasan fekvő kilátóról, és érdemes röviddel naplemente előtt érkezni a legszebb színekért.",
+            "ro": "Bucurați-vă de panorama incomparabilă de la acest punct de belvedere înalt și veniți chiar înainte de apus pentru cele mai frumoase culori.",
+            "en": "Enjoy the incomparable panorama from this elevated viewpoint, and try to arrive just before sunset to witness the most spectacular and vibrant colors."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro do Campo do Castro",
+            "hu": "Castro do Campo do Castro",
+            "ro": "Castro do Campo do Castro",
+            "en": "Castro do Campo do Castro"
+          },
+          "coords": [
+            -8.072229,
+            43.66058
+          ],
+          "category": "historical",
+          "arrive_at": "16:09",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine weitere bedeutende archäologische Stätte an der Küste, deren erhöhte Lage früher einen strategischen Vorteil zur Verteidigung gegen Invasoren bot.",
+            "hu": "Fedezzen fel egy másik jelentős régészeti lelőhelyet a tengerparton, amelynek magaslati fekvése korábban stratégiai előnyt nyújtott a betolakodókkal szemben.",
+            "ro": "Descoperiți un alt sit arheologic important de pe coastă, a cărui locație ridicată oferea anterior un avantaj strategic pentru apărarea împotriva invadatorilor.",
+            "en": "Discover another significant archaeological site on the coast, whose elevated location formerly offered a crucial strategic advantage for defense against invaders."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour ermöglicht es uns, die entlegeneren Schätze von Cedeira zu entdecken. Wir starten bei einer antiken keltischen Siedlung und verbringen den Vormittag an ruhigen Stränden und wilden Klippen. Zur Mittagszeit besuchen wir das Meeresmuseum im Zentrum. Der Nachmittag ist geprägt von weiten Ausblicken, historischen Anlagen und endet mit einem unvergesslichen Sonnenuntergang am Castro.",
+        "hu": "Ez az autós túra lehetővé teszi Cedeira távolabbi kincseinek felfedezését. Egy kelta településen kezdünk, majd a délelőttöt csendes strandokon és vad sziklákon töltjük. Délben a központban lévő múzeumot látogatjuk meg. A délutánt hatalmas kilátások és történelmi építmények jellemzik, majd a napot egy felejthetetlen naplemente zárja a part menti Castro ősi romjainál.",
+        "ro": "Acest tur cu mașina ne permite să descoperim comorile mai îndepărtate ale orașului Cedeira. Începem la o așezare celtică antică și petrecem dimineața pe plaje liniștite și stânci sălbatice. La prânz, vizităm muzeul maritim din centru. După-amiaza este caracterizată de priveliști ample, facilități istorice și se termină cu un apus de soare de neuitat la vechiul sit Castro.",
+        "en": "This driving tour allows us to discover the more remote treasures of Cedeira. We start at an ancient Celtic settlement and spend the morning at quiet beaches and wild cliffs. Around noon, we visit the maritime museum in the center. The afternoon is characterized by vast views, historical facilities, and ends with an unforgettable sunset at the coastal Castro ruins."
+      }
+    }
+  }
+}

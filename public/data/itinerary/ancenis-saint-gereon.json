@@ -1,0 +1,428 @@
+{
+  "city_id": "ancenis-saint-gereon",
+  "anchor": {
+    "name": "Ancenis-Saint-Géréon",
+    "coords": [
+      -1.1772,
+      47.3656
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:01",
+      "total_km": 2.05,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame de la Délivrance",
+            "hu": "Notre-Dame de la Délivrance kápolna",
+            "ro": "Capela Notre-Dame de la Délivrance",
+            "en": "Chapelle Notre-Dame de la Délivrance"
+          },
+          "coords": [
+            -1.175403,
+            47.365952
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Buntglasfenster, die die Stadtgeschichte erzählen, aber kommen Sie frühmorgens, um das beste Licht zu genießen.",
+            "hu": "Csodálja meg a város történelmét bemutató gyönyörű ólomüveg ablakokat, de érkezzen kora reggel, amikor a keleti napfény a legszebben ragyog be.",
+            "ro": "Admirați vitraliile superbe care detaliază istoria orașului, dar vizitați-o dimineața devreme când lumina estică creează cea mai bună strălucire.",
+            "en": "Admire the beautiful stained glass detailing the town's history, but visit early morning when the eastern sunlight creates the best interior glow."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstschmiede",
+            "hu": "Művészeti Kovácsműhely",
+            "ro": "Fierăriile de Artă",
+            "en": "Forges de l'Art"
+          },
+          "coords": [
+            -1.177656,
+            47.365525
+          ],
+          "category": "cultural",
+          "arrive_at": "09:53",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Stöbern Sie durch die filigranen Metallarbeiten der lokalen Kunsthandwerker und bitten Sie den Schmied unbedingt um eine kurze Vorführung.",
+            "hu": "Böngésszen a helyi kézművesek által készített bonyolult fémmunkák között, és mindenképpen kérjen egy rövid bemutatót a helyi kovácsmestertől.",
+            "ro": "Explorați prelucrarea metalelor realizată de artizanii locali și nu uitați să-i cereți fierarului rezident o scurtă demonstrație de forjare.",
+            "en": "Browse the intricate metalwork produced by local artisans here, and be sure to ask the resident blacksmith for a quick forging demonstration."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Ancenis",
+            "hu": "Ancenis kastélya",
+            "ro": "Castelul Ancenis",
+            "en": "Ancenis Castle"
+          },
+          "coords": [
+            -1.176978,
+            47.364399
+          ],
+          "category": "historical",
+          "arrive_at": "10:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese Festung mit Blick auf die Loire und achten Sie auf die Renaissance-Fassade, aber tragen Sie feste Schuhe für den unebenen Hof.",
+            "hu": "Fedezze fel a Loire folyóra néző erődöt, különös figyelmet fordítva a reneszánsz homlokzatra, de viseljen masszív cipőt az egyenetlen udvar miatt.",
+            "ro": "Explorați această fortăreață cu vedere la Loara, acordând o atenție deosebită fațadei renascentiste, dar purtați încălțăminte robustă pentru curte.",
+            "en": "Explore this fortress overlooking the Loire, paying special attention to the Renaissance façade, but wear sturdy shoes for the uneven courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Brücke von Ancenis",
+            "hu": "Ancenis híd",
+            "ro": "Podul din Ancenis",
+            "en": "Ancenis Bridge"
+          },
+          "coords": [
+            -1.179249,
+            47.373302
+          ],
+          "category": "civic",
+          "arrive_at": "12:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Gehen Sie bis zur Mitte dieser eleganten Hängebrücke für spektakuläre Panoramablicke auf den Fluss, aber achten Sie auf schnelle Radfahrer.",
+            "hu": "Sétáljon el az elegáns függőhíd közepéig a látványos folyami panorámáért, miközben ügyel a gyorsan elhaladó helyi kerékpárosokra.",
+            "ro": "Mergeți până la jumătatea acestui pod suspendat elegant pentru vederi panoramice spectaculoase, fiind atenți la bicicliștii locali care trec rapid.",
+            "en": "Walk halfway across this elegant suspension bridge for spectacular panoramic river views, keeping an eye out for speeding local cyclists."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen de la Pierre Couvretière",
+            "hu": "Pierre Couvretière Dolmen",
+            "ro": "Dolmen de la Pierre Couvretière",
+            "en": "Dolmen de la Pierre Couvretière"
+          },
+          "coords": [
+            -1.172736,
+            47.36866
+          ],
+          "category": "historical",
+          "arrive_at": "13:11",
+          "stay_min": 110,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Berühren Sie die massiven antiken Steine dieses erstaunlich stadtnah gelegenen Megalithgrabes und nutzen Sie die nahe Wiese für eine Pause.",
+            "hu": "Érintse meg ennek a városhoz meglepően közel fekvő megalitikus sírnak a hatalmas ősi köveit, és használja a közeli füves részt egy kis pihenésre.",
+            "ro": "Atingeți pietrele masive ale acestui mormânt megalitic situat surprinzător de aproape de oraș, folosind pajiștea din apropiere pentru odihnă.",
+            "en": "Touch the massive ancient stones of this megalithic tomb nestled surprisingly close to town, using the nearby grassy patch for a quiet rest."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie spirituell an der Kapelle, bevor Sie durch die lokalen Schmieden schlendern. Verbringen Sie den Vormittag an der mittelalterlichen Burg an der Loire. Nach dem Mittagessen schlendern Sie über die Hängebrücke für einen herrlichen Blick. Beenden Sie den Nachmittag am mystischen Dolmen.",
+        "hu": "Kezdje a napot a kápolna csendjében, mielőtt végigsétálna a helyi kovácsműhelyeken. A délelőttöt a Loire menti középkori várnál töltheti. Ebéd után a függőhídon átkelve csodás folyami panorámában gyönyörködhet. Délután fejezze be sétáját a közeli, ősi dolmennél.",
+        "ro": "Începeți cu spiritualitate la capelă înainte de a rătăci prin fierăriile artizanale. Petreceți dimineața târzie la castelul medieval impresionant chiar pe Loara. După prânz, traversați podul suspendat pentru panorame magnifice. Terminați-vă după-amiaza descoperind vechiul Dolmen.",
+        "en": "Start with spirituality at the chapel before wandering through the local artisan metal forges. Spend the late morning at the impressive medieval castle right along the Loire. After lunch, stroll across the suspension bridge for magnificent panoramas of the river. Finish your afternoon by uncovering the ancient Dolmen."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 11.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Ancenis",
+            "hu": "Ancenis kastélya",
+            "ro": "Castelul Ancenis",
+            "en": "Ancenis Castle"
+          },
+          "coords": [
+            -1.176978,
+            47.364399
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese Festung mit Blick auf die Loire und achten Sie auf die Renaissance-Fassade, aber tragen Sie feste Schuhe für den unebenen Hof.",
+            "hu": "Fedezze fel a Loire folyóra néző erődöt, különös figyelmet fordítva a reneszánsz homlokzatra, de viseljen masszív cipőt az egyenetlen udvar miatt.",
+            "ro": "Explorați această fortăreață cu vedere la Loara, acordând o atenție deosebită fațadei renascentiste, dar purtați încălțăminte robustă pentru curte.",
+            "en": "Explore this fortress overlooking the Loire, paying special attention to the Renaissance façade, but wear sturdy shoes for the uneven courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Freilichtbühne",
+            "hu": "Szabadtéri Színház",
+            "ro": "Teatrul în Aer Liber",
+            "en": "Théâtre de Verdure"
+          },
+          "coords": [
+            -1.186042,
+            47.3613
+          ],
+          "category": "cultural",
+          "arrive_at": "10:34",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die Freiluftatmosphäre dieses grünen Amphitheaters am Fluss, aber bringen Sie eine leichte Jacke für die Nachmittagsbrise mit.",
+            "hu": "Élvezze ennek a folyóparti zöld amfiteátrumnak a szabadtéri hangulatát, de hozzon magával egy könnyű kabátot a délutáni hűvösebb szél miatt.",
+            "ro": "Bucurați-vă de ambianța în aer liber a acestui amfiteatru verde de lângă râu, aducând o jachetă ușoară deoarece briza se intensifică după-amiaza.",
+            "en": "Enjoy the open-air ambiance of this green amphitheater beside the river, bringing a light jacket as the riverside breeze picks up in the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Theater Quartier Libre",
+            "hu": "Quartier Libre Színház",
+            "ro": "Teatrul Quartier Libre",
+            "en": "Quartier Libre Theatre"
+          },
+          "coords": [
+            -1.188798,
+            47.363699
+          ],
+          "category": "cultural",
+          "arrive_at": "11:36",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betrachten Sie die moderne Architektur als Kontrast zur Altstadt und prüfen Sie die Plakatwand draußen für abendliche Aufführungen während Ihres Aufenthalts.",
+            "hu": "Tekintse meg a történelmi várossal kontrasztot alkotó modern építészetet, és böngéssze át a kinti hirdetőtáblát az esti előadások miatt.",
+            "ro": "Admirați arhitectura modernă ce contrastează cu orașul istoric și verificați panoul exterior pentru spectacolele de seară din timpul șederii.",
+            "en": "Check out the modern architecture contrasting the historic town, and scan the local billboard outside for evening performances during your stay."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss L'Écochère",
+            "hu": "L'Écochère kastélya",
+            "ro": "Castelul Écochère",
+            "en": "Château de l'Écochère"
+          },
+          "coords": [
+            -1.204679,
+            47.363064
+          ],
+          "category": "castle",
+          "arrive_at": "12:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie den Charme dieses Anwesens aus dem 19. Jahrhundert und holen Sie sich am Eingang eine Karte, um durch die großen Weinberge zu navigieren.",
+            "hu": "Fedezze fel a völgy felett magasodó 19. századi birtok varázsát, és mindenképpen kérjen egy térképet a bejáratnál a hatalmas szőlőültetvényekhez.",
+            "ro": "Descoperiți farmecul acestui domeniu din secolul al XIX-lea cocoțat deasupra văii, luând o hartă la intrare pentru a naviga prin vastele sale podgorii.",
+            "en": "Discover the charm of this 19th-century estate perched above the valley, making sure to grab a map at the entrance to navigate its vast vineyards."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame",
+            "hu": "Notre-Dame templom",
+            "ro": "Biserica Notre-Dame",
+            "en": "Église Notre-Dame"
+          },
+          "coords": [
+            -1.164342,
+            47.342689
+          ],
+          "category": "religious",
+          "arrive_at": "14:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die friedliche Atmosphäre und die traditionellen Steinarbeiten in dieser charmanten Kirche, aber treten Sie leise ein, falls ein Gottesdienst stattfindet.",
+            "hu": "Csodálja meg a békés hangulatot és a hagyományos kőművesmunkát e bájos templom belsejében, csendben lépkedve, ha éppen istentisztelet zajlik.",
+            "ro": "Minunați-vă de atmosfera pașnică și zidăria tradițională din interiorul acestei biserici fermecătoare, pășind încet dacă are loc o slujbă.",
+            "en": "Marvel at the peaceful atmosphere and traditional stonework inside this charming church, stepping quietly if a local service is currently underway."
+          }
+        },
+        {
+          "name": {
+            "de": "Grée Sumpf",
+            "hu": "Grée mocsár",
+            "ro": "Mlaștina Grée",
+            "en": "Grée Marsh"
+          },
+          "coords": [
+            -1.15919,
+            47.3923
+          ],
+          "category": "natural",
+          "arrive_at": "15:34",
+          "stay_min": 120,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Bringen Sie Ihr Fernglas mit, um seltene Zugvögel in diesem Schutzgebiet zu beobachten, und bleiben Sie unbedingt auf den markierten Holzstegen.",
+            "hu": "Hozzon magával távcsövet a ritka vándormadarak megfigyeléséhez ebben a védett vizes élőhelyen, és szigorúan maradjon a kijelölt fapallókon a növényzet védelmében.",
+            "ro": "Aduceți binoclul pentru a observa păsările migratoare rare în acest ecosistem protejat, rămânând strict pe pasarelele marcate pentru a proteja flora.",
+            "en": "Bring your binoculars to spot rare migratory birds in this protected wetland ecosystem, sticking strictly to the marked boardwalks to protect the flora."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Treten Sie in die Pedale und erkunden Sie morgens das historische Schloss Ancenis. Gleiten Sie am idyllischen Théâtre de Verdure vorbei zum modernen Theater Quartier Libre. Fahren Sie hinaus zum prachtvollen Château de l'Écochère und der schönen Kirche. Beenden Sie die Tour am ruhigen Grée Sumpf.",
+        "hu": "Reggel tekerjen el a történelmi Ancenis kastélyhoz, a Loire ékszerdobozához. Haladjon el a festői szabadtéri színház mellett a modern Quartier Libre színház felé. Bringázzon ki a nagyszerű Écochère kastélyhoz és a templomhoz. Zárja a kerékpározást a természetben, a csendes Grée mocsárnál.",
+        "ro": "Pedalați dimineața explorând Castelul istoric Ancenis, bijuteria de pe Loara. Treceți pe lângă scenicul Teatru în aer liber către modernul Teatru Quartier Libre. Călătoriți până la mărețul Castel Écochère și frumoasa Biserică. Încheiați cursa în natură la liniștita mlaștină Grée.",
+        "en": "Pedal off your morning exploring the historic Ancenis Castle, the jewel of the Loire. Glide past the scenic outdoor Théâtre de Verdure towards the striking modern Quartier Libre Theatre. Ride out to the grand Château de l'Écochère and the beautiful Église Notre-Dame. Conclude the ride in nature at the serene Grée Marsh."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 7.85,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Dolmen de la Pierre Couvretière",
+            "hu": "Pierre Couvretière Dolmen",
+            "ro": "Dolmen de la Pierre Couvretière",
+            "en": "Dolmen de la Pierre Couvretière"
+          },
+          "coords": [
+            -1.172736,
+            47.36866
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Berühren Sie die massiven antiken Steine dieses erstaunlich stadtnah gelegenen Megalithgrabes und nutzen Sie die nahe Wiese für eine Pause.",
+            "hu": "Érintse meg ennek a városhoz meglepően közel fekvő megalitikus sírnak a hatalmas ősi köveit, és használja a közeli füves részt egy kis pihenésre.",
+            "ro": "Atingeți pietrele masive ale acestui mormânt megalitic situat surprinzător de aproape de oraș, folosind pajiștea din apropiere pentru odihnă.",
+            "en": "Touch the massive ancient stones of this megalithic tomb nestled surprisingly close to town, using the nearby grassy patch for a quiet rest."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstschmiede",
+            "hu": "Művészeti Kovácsműhely",
+            "ro": "Fierăriile de Artă",
+            "en": "Forges de l'Art"
+          },
+          "coords": [
+            -1.177656,
+            47.365525
+          ],
+          "category": "cultural",
+          "arrive_at": "10:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stöbern Sie durch die filigranen Metallarbeiten der lokalen Kunsthandwerker und bitten Sie den Schmied unbedingt um eine kurze Vorführung.",
+            "hu": "Böngésszen a helyi kézművesek által készített bonyolult fémmunkák között, és mindenképpen kérjen egy rövid bemutatót a helyi kovácsmestertől.",
+            "ro": "Explorați prelucrarea metalelor realizată de artizanii locali și nu uitați să-i cereți fierarului rezident o scurtă demonstrație de forjare.",
+            "en": "Browse the intricate metalwork produced by local artisans here, and be sure to ask the resident blacksmith for a quick forging demonstration."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Ancenis",
+            "hu": "Ancenis kastélya",
+            "ro": "Castelul Ancenis",
+            "en": "Ancenis Castle"
+          },
+          "coords": [
+            -1.176978,
+            47.364399
+          ],
+          "category": "historical",
+          "arrive_at": "11:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese Festung mit Blick auf die Loire und achten Sie auf die Renaissance-Fassade, aber tragen Sie feste Schuhe für den unebenen Hof.",
+            "hu": "Fedezze fel a Loire folyóra néző erődöt, különös figyelmet fordítva a reneszánsz homlokzatra, de viseljen masszív cipőt az egyenetlen udvar miatt.",
+            "ro": "Explorați această fortăreață cu vedere la Loara, acordând o atenție deosebită fațadei renascentiste, dar purtați încălțăminte robustă pentru curte.",
+            "en": "Explore this fortress overlooking the Loire, paying special attention to the Renaissance façade, but wear sturdy shoes for the uneven courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss L'Écochère",
+            "hu": "L'Écochère kastélya",
+            "ro": "Castelul Écochère",
+            "en": "Château de l'Écochère"
+          },
+          "coords": [
+            -1.204679,
+            47.363064
+          ],
+          "category": "castle",
+          "arrive_at": "12:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie den Charme dieses Anwesens aus dem 19. Jahrhundert und holen Sie sich am Eingang eine Karte, um durch die großen Weinberge zu navigieren.",
+            "hu": "Fedezze fel a völgy felett magasodó 19. századi birtok varázsát, és mindenképpen kérjen egy térképet a bejáratnál a hatalmas szőlőültetvényekhez.",
+            "ro": "Descoperiți farmecul acestui domeniu din secolul al XIX-lea cocoțat deasupra văii, luând o hartă la intrare pentru a naviga prin vastele sale podgorii.",
+            "en": "Discover the charm of this 19th-century estate perched above the valley, making sure to grab a map at the entrance to navigate its vast vineyards."
+          }
+        },
+        {
+          "name": {
+            "de": "Grée Sumpf",
+            "hu": "Grée mocsár",
+            "ro": "Mlaștina Grée",
+            "en": "Grée Marsh"
+          },
+          "coords": [
+            -1.15919,
+            47.3923
+          ],
+          "category": "natural",
+          "arrive_at": "14:30",
+          "stay_min": 120,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Bringen Sie Ihr Fernglas mit, um seltene Zugvögel in diesem Schutzgebiet zu beobachten, und bleiben Sie unbedingt auf den markierten Holzstegen.",
+            "hu": "Hozzon magával távcsövet a ritka vándormadarak megfigyeléséhez ebben a védett vizes élőhelyen, és szigorúan maradjon a kijelölt fapallókon a növényzet védelmében.",
+            "ro": "Aduceți binoclul pentru a observa păsările migratoare rare în acest ecosistem protejat, rămânând strict pe pasarelele marcate pentru a proteja flora.",
+            "en": "Bring your binoculars to spot rare migratory birds in this protected wetland ecosystem, sticking strictly to the marked boardwalks to protect the flora."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit einer Zeitreise am mysteriösen Dolmen, gefolgt von lokaler Handwerkskunst. Fahren Sie hoch zum ikonischen Schloss Ancenis, um die Mauern zu bewundern. Begeben Sie sich danach zum weitläufigen Château de l'Écochère. Lassen Sie den Tag entspannt im Grée Sumpf ausklingen.",
+        "hu": "Kezdje a napot az évezredekkel ezelőtti rejtélyes dolmennél, majd nézze meg a helyi kézműveseket. Hajtson fel a híres Ancenis kastélyhoz a magas reneszánsz falak megcsodálásához. Látogasson el a kiterjedt Écochère kastélyhoz. A napot a védett Grée mocsár megnyugtató környezetében zárja.",
+        "ro": "Începeți călătorind mii de ani în urmă la misteriosul Dolmen, urmat de artizanatul local de la fierării. Conduceți până la iconicul Castel Ancenis pentru a-i aprecia zidurile. Aventurați-vă în afara centrului spre vastul Castel Écochère. Încheiați ziua relaxându-vă în mlaștinile Grée.",
+        "en": "Begin by stepping back thousands of years at the mysterious Dolmen, followed by local craftsmanship at the forges. Drive up to the iconic Ancenis Castle to appreciate its towering Renaissance walls. Venture outside the immediate town center to the sprawling Château de l'Écochère. End your day relaxing in the protected Grée Marsh wetlands."
+      }
+    }
+  }
+}

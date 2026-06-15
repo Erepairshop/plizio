@@ -1,0 +1,520 @@
+{
+  "city_id": "norway-sola-cities-v2",
+  "anchor": {
+    "name": "Sola",
+    "coords": [
+      5.64,
+      58.88
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:11",
+      "total_km": 3.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Erling Sjalgsson Denkmal",
+            "hu": "Erling Sjalgsson emlékmű",
+            "ro": "Monumentul Erling Sjalgsson",
+            "en": "Erling Sjalgsson Monument"
+          },
+          "coords": [
+            5.646152,
+            58.888877
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Denkmal des Wikingerführers Erling Sjalgsson, einer Schlüsselfigur der norwegischen Geschichte, und lesen Sie die Tafeln für mehr Kontext.",
+            "hu": "Fedezze fel az Erling Sjalgsson viking vezérnek szentelt emlékművet, a norvég történelem kulcsfiguráját, és olvassa el a táblákat a mélyebb kontextusért.",
+            "ro": "Descoperiți monumentul dedicat liderului viking Erling Sjalgsson, o figură cheie în istoria norvegiană, și citiți plăcile pentru un context istoric aprofundat.",
+            "en": "Discover the monument dedicated to the Viking leader Erling Sjalgsson, a key figure in Norwegian history, and read the plaques for deeper context."
+          }
+        },
+        {
+          "name": {
+            "de": "Luftfahrtmuseum Sola",
+            "hu": "Sola Repüléstörténeti Múzeum",
+            "ro": "Muzeul Istoriei Aviației Sola",
+            "en": "Aviation History Museum Sola"
+          },
+          "coords": [
+            5.631418,
+            58.897731
+          ],
+          "category": "museum",
+          "arrive_at": "10:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die umfangreiche Sammlung von Oldtimer-Flugzeugen in diesem authentischen Weltkriegs-Hangar, aber nehmen Sie eine Jacke mit, da es kühl sein kann.",
+            "hu": "Csodálja meg a régi repülőgépek kiterjedt gyűjteményét ebben az autentikus második világháborús hangárban, de hozzon magával kabátot, mert bent hűvös lehet.",
+            "ro": "Admirați colecția vastă de aeronave de epocă din acest hangar autentic din Al Doilea Război Mondial, dar luați o jachetă, deoarece poate fi răcoare înăuntru.",
+            "en": "Admire the extensive collection of vintage aircraft housed in this authentic World War II hangar, but remember to bring a jacket as it can get chilly inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Sola",
+            "hu": "Sola temploma",
+            "ro": "Biserica Sola",
+            "en": "Sola Church"
+          },
+          "coords": [
+            5.619152,
+            58.89013
+          ],
+          "category": "religious",
+          "arrive_at": "12:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne Architektur dieser modernen Kirche mit ihrem markanten Altarbild und nehmen Sie sich einen Moment Zeit, um ruhig im Kirchenschiff zu sitzen.",
+            "hu": "Csodálja meg e modern templom gyönyörű építészetét a lenyűgöző oltárképpel, és szánjon egy percet arra, hogy csendben leüljön a békés főhajóban.",
+            "ro": "Minunați-vă de arhitectura frumoasă a acestei biserici moderne cu altarul său uimitor și acordați-vă un moment pentru a sta liniștit în naosul pașnic.",
+            "en": "Marvel at the beautiful architecture of this modern church with its striking altarpiece, and take a moment to sit quietly in the peaceful nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Sola Ruinenkirche",
+            "hu": "Sola romtemplom",
+            "ro": "Biserica Ruinelor din Sola",
+            "en": "Sola Ruin Church"
+          },
+          "coords": [
+            5.611307,
+            58.890991
+          ],
+          "category": "religious",
+          "arrive_at": "13:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die stimmungsvollen Ruinen dieser Steinkirche aus dem 12. Jahrhundert mit atemberaubendem Meerblick, ideal für unvergessliche Landschaftsfotografie.",
+            "hu": "Fedezze fel ennek a 12. századi kőtemplomnak a hangulatos romjait lenyűgöző tengerparti kilátással, ami tökéletes helyszín emlékezetes tájfotók készítéséhez.",
+            "ro": "Explorați ruinele atmosferice ale acestei biserici de piatră din secolul al XII-lea cu vederi uimitoare la coastă, un loc perfect pentru fotografii de peisaj memorabile.",
+            "en": "Explore the atmospheric ruins of this 12th-century stone church with stunning coastal views, making it a perfect spot for memorable landscape photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Solastranden",
+            "hu": "Sola strand",
+            "ro": "Plaja Sola",
+            "en": "Sola Beach"
+          },
+          "coords": [
+            5.601136,
+            58.884418
+          ],
+          "category": "recreational",
+          "arrive_at": "14:26",
+          "stay_min": 105,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem berühmten, kilometerlangen Sandstrand der Nordsee entlang und bringen Sie winddichte Kleidung mit, um die dramatischen Wellen zu genießen.",
+            "hu": "Sétáljon végig ezen a híres, kilométereken át nyúló északi-tengeri homokos strandon, és hozzon szélálló ruházatot, hogy kényelmesen élvezhesse a drámai hullámokat.",
+            "ro": "Plimbați-vă de-a lungul acestei faimoase plaje de nisip de la Marea Nordului și aduceți îmbrăcăminte rezistentă la vânt pentru a vă bucura de valurile dramatice.",
+            "en": "Stroll along this famous sandy beach stretching for kilometers along the North Sea, and bring windproof clothing to comfortably enjoy the dramatic waves."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit dem Erbe des Wikingerhäuptlings Erling Sjalgsson, gefolgt von einer Reise durch die Luftfahrtgeschichte im Museum. Der Mittag lädt zu einer friedlichen Pause in der modernen Sola kirke ein, bevor ein Spaziergang das reiche Erbe der antiken Steinruinen offenbart. Der Nachmittag endet mit einem erfrischenden Strandspaziergang an den endlosen Dünen von Solastranden. Am Abend bieten die Meeresbrise und die Wellen einen unvergesslichen Abschluss.",
+        "hu": "A reggel Erling Sjalgsson viking vezér örökségének felfedezésével kezdődik, amelyet a helyi múzeum repüléstörténeti utazása követ. A délidő békés szünetre csábít a modern Sola kirkében, mielőtt egy rövid séta feltárná az ősi kőromok gazdag örökségét. A délutánt a Solastranden végtelen dűnéi mentén tett frissítő séta zárja. Estére az Északi-tenger partmenti szellője és a morajló hullámok nyugtató és emlékezetes befejezést nyújtanak a napnak.",
+        "ro": "Dimineața începe cu moștenirea șefului viking Erling Sjalgsson, urmată de o călătorie prin istoria aviației la muzeul local. Miezul zilei vă invită la o pauză pașnică la moderna Sola kirke, înainte de o scurtă plimbare la ruinele antice de piatră. După-amiaza se încheie cu o plimbare revigorantă de-a lungul dunelor nesfârșite din Solastranden. Până seara, briza de coastă și valurile mării oferă un final calm și memorabil al zilei.",
+        "en": "Morning begins by exploring the legacy of Viking chief Erling Sjalgsson, followed by an immersive journey through aviation history at the local museum. Midday invites a peaceful pause at the modern Sola kirke before a short stroll reveals the rich heritage of the ancient stone ruins. The afternoon concludes with a refreshing walk along the endless dunes of Solastranden. By evening, the coastal breeze and crashing waves of the North Sea provide a calming and memorable end to the day."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:42",
+      "total_km": 7.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Erling Sjalgsson Denkmal",
+            "hu": "Erling Sjalgsson emlékmű",
+            "ro": "Monumentul Erling Sjalgsson",
+            "en": "Erling Sjalgsson Monument"
+          },
+          "coords": [
+            5.646152,
+            58.888877
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Denkmal des Wikingerführers Erling Sjalgsson, einer Schlüsselfigur der norwegischen Geschichte, und lesen Sie die Tafeln für mehr Kontext.",
+            "hu": "Fedezze fel az Erling Sjalgsson viking vezérnek szentelt emlékművet, a norvég történelem kulcsfiguráját, és olvassa el a táblákat a mélyebb kontextusért.",
+            "ro": "Descoperiți monumentul dedicat liderului viking Erling Sjalgsson, o figură cheie în istoria norvegiană, și citiți plăcile pentru un context istoric aprofundat.",
+            "en": "Discover the monument dedicated to the Viking leader Erling Sjalgsson, a key figure in Norwegian history, and read the plaques for deeper context."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Batterie auf Åsen",
+            "hu": "Az Åsen üteg",
+            "ro": "Bateria de la Åsen",
+            "en": "The Battery at Åsen"
+          },
+          "coords": [
+            5.66926,
+            58.894873
+          ],
+          "category": "fortress",
+          "arrive_at": "10:38",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Steigen Sie zu diesem historischen Bunkerkomplex hinauf, um die erhaltenen Betonbefestigungen zu erkunden und einen Panoramablick über die gesamte Region Sola zu genießen.",
+            "hu": "Másszon fel ehhez a történelmi világháborús bunkerkomplexumhoz, hogy felfedezze a fennmaradt beton erődítményeket, és élvezze a Sola régióra nyíló panorámát.",
+            "ro": "Urcați la acest complex istoric de buncăre din Al Doilea Război Mondial pentru a explora fortificațiile de beton și pentru a vă bucura de o vedere panoramică.",
+            "en": "Climb up to this historic WWII bunker complex to explore the preserved concrete fortifications and enjoy panoramic views over the entire Sola region."
+          }
+        },
+        {
+          "name": {
+            "de": "Luftfahrtmuseum Sola",
+            "hu": "Sola Repüléstörténeti Múzeum",
+            "ro": "Muzeul Istoriei Aviației Sola",
+            "en": "Aviation History Museum Sola"
+          },
+          "coords": [
+            5.631418,
+            58.897731
+          ],
+          "category": "museum",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die umfangreiche Sammlung von Oldtimer-Flugzeugen in diesem authentischen Weltkriegs-Hangar, aber nehmen Sie eine Jacke mit, da es kühl sein kann.",
+            "hu": "Csodálja meg a régi repülőgépek kiterjedt gyűjteményét ebben az autentikus második világháborús hangárban, de hozzon magával kabátot, mert bent hűvös lehet.",
+            "ro": "Admirați colecția vastă de aeronave de epocă din acest hangar autentic din Al Doilea Război Mondial, dar luați o jachetă, deoarece poate fi răcoare înăuntru.",
+            "en": "Admire the extensive collection of vintage aircraft housed in this authentic World War II hangar, but remember to bring a jacket as it can get chilly inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Sola",
+            "hu": "Sola temploma",
+            "ro": "Biserica Sola",
+            "en": "Sola Church"
+          },
+          "coords": [
+            5.619152,
+            58.89013
+          ],
+          "category": "religious",
+          "arrive_at": "13:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne Architektur dieser modernen Kirche mit ihrem markanten Altarbild und nehmen Sie sich einen Moment Zeit, um ruhig im Kirchenschiff zu sitzen.",
+            "hu": "Csodálja meg e modern templom gyönyörű építészetét a lenyűgöző oltárképpel, és szánjon egy percet arra, hogy csendben leüljön a békés főhajóban.",
+            "ro": "Minunați-vă de arhitectura frumoasă a acestei biserici moderne cu altarul său uimitor și acordați-vă un moment pentru a sta liniștit în naosul pașnic.",
+            "en": "Marvel at the beautiful architecture of this modern church with its striking altarpiece, and take a moment to sit quietly in the peaceful nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Sola Ruinenkirche",
+            "hu": "Sola romtemplom",
+            "ro": "Biserica Ruinelor din Sola",
+            "en": "Sola Ruin Church"
+          },
+          "coords": [
+            5.611307,
+            58.890991
+          ],
+          "category": "religious",
+          "arrive_at": "13:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die stimmungsvollen Ruinen dieser Steinkirche aus dem 12. Jahrhundert mit atemberaubendem Meerblick, ideal für unvergessliche Landschaftsfotografie.",
+            "hu": "Fedezze fel ennek a 12. századi kőtemplomnak a hangulatos romjait lenyűgöző tengerparti kilátással, ami tökéletes helyszín emlékezetes tájfotók készítéséhez.",
+            "ro": "Explorați ruinele atmosferice ale acestei biserici de piatră din secolul al XII-lea cu vederi uimitoare la coastă, un loc perfect pentru fotografii de peisaj memorabile.",
+            "en": "Explore the atmospheric ruins of this 12th-century stone church with stunning coastal views, making it a perfect spot for memorable landscape photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Solastranden",
+            "hu": "Sola strand",
+            "ro": "Plaja Sola",
+            "en": "Sola Beach"
+          },
+          "coords": [
+            5.601136,
+            58.884418
+          ],
+          "category": "recreational",
+          "arrive_at": "14:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem berühmten, kilometerlangen Sandstrand der Nordsee entlang und bringen Sie winddichte Kleidung mit, um die dramatischen Wellen zu genießen.",
+            "hu": "Sétáljon végig ezen a híres, kilométereken át nyúló északi-tengeri homokos strandon, és hozzon szélálló ruházatot, hogy kényelmesen élvezhesse a drámai hullámokat.",
+            "ro": "Plimbați-vă de-a lungul acestei faimoase plaje de nisip de la Marea Nordului și aduceți îmbrăcăminte rezistentă la vânt pentru a vă bucura de valurile dramatice.",
+            "en": "Stroll along this famous sandy beach stretching for kilometers along the North Sea, and bring windproof clothing to comfortably enjoy the dramatic waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Urteilssteine von Sola",
+            "hu": "A solai ítélőkövek",
+            "ro": "Pietrele Judecății din Sola",
+            "en": "The Judgment Stones at Sola"
+          },
+          "coords": [
+            5.605616,
+            58.872376
+          ],
+          "category": "historical",
+          "arrive_at": "15:52",
+          "stay_min": 110,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Untersuchen Sie dieses rätselhafte kreisförmige Steindenkmal, das als vorwikingerzeitliche Gerichtsstätte gilt, und zählen Sie die sorgfältig angeordneten Steine.",
+            "hu": "Vizsgálja meg ezt a rejtélyes, kör alakú kőemlékművet, amelyet a vikingek előtti igazságszolgáltatási helynek tartanak, és próbálja meg maga megszámolni az állóköveket.",
+            "ro": "Investigați acest monument enigmatic din piatră circulară, considerat a fi un sit judiciar pre-viking, și încercați să numărați singuri pietrele aranjate cu grijă.",
+            "en": "Investigate this enigmatic circular stone monument believed to be a pre-Viking judicial site, and try counting the carefully arranged standing stones yourself."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour beim historischen Wikingerdenkmal, bevor Sie zur Festung hinaufradeln, um einen Panoramablick zu genießen. Mittags erreichen Sie das faszinierende Luftfahrtmuseum und die markante moderne Kirche. Am Nachmittag erkunden Sie die majestätischen Ruinen der alten Steinkirche und genießen eine malerische Fahrt entlang der Sandstrände. Wenn der Abend naht, entdecken Sie die mysteriösen alten Steinkreise im Sonnenuntergang.",
+        "hu": "Kezdje kerékpártúráját a történelmi viking emlékművel, majd tekerjen fel a világháborús erődhöz a panorámás kilátásért. Délben megérkezik a lenyűgöző repülési múzeumhoz és a városközpont modern templomához. Délután fedezze fel az ősi kőtemplom fenséges romjait, és élvezze a festői utazást a híres homokos partok mentén. Az este közeledtével fedezze fel a titokzatos ősi kőköröket, miközben a nap lenyugszik a norvég tengerparton.",
+        "ro": "Începeți turul cu bicicleta la monumentul istoric viking, înainte de a pedala până la fortăreața din Al Doilea Război Mondial pentru vederi panoramice. La prânz ajungeți la muzeul aviației și la biserica modernă. După-amiaza, explorați ruinele maiestuoase ale vechii biserici de piatră și bucurați-vă de o plimbare pitorească de-a lungul malurilor de nisip. Seara, descoperiți misterioasele cercuri de piatră antice la apus.",
+        "en": "Kick off your cycling tour with the historic Viking monument before pedaling up to the WWII fortress for panoramic views over Sola. Midday brings you to the fascinating aviation museum and the striking modern church in the town center. In the afternoon, explore the majestic ruins of the ancient stone church and enjoy a scenic ride along the famous sandy shores. As evening approaches, discover the mysterious ancient stone circles as the sun sets over the scenic Norwegian coast."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:31",
+      "total_km": 7.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Die Batterie auf Åsen",
+            "hu": "Az Åsen üteg",
+            "ro": "Bateria de la Åsen",
+            "en": "The Battery at Åsen"
+          },
+          "coords": [
+            5.66926,
+            58.894873
+          ],
+          "category": "fortress",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Steigen Sie zu diesem historischen Bunkerkomplex hinauf, um die erhaltenen Betonbefestigungen zu erkunden und einen Panoramablick über die gesamte Region Sola zu genießen.",
+            "hu": "Másszon fel ehhez a történelmi világháborús bunkerkomplexumhoz, hogy felfedezze a fennmaradt beton erődítményeket, és élvezze a Sola régióra nyíló panorámát.",
+            "ro": "Urcați la acest complex istoric de buncăre din Al Doilea Război Mondial pentru a explora fortificațiile de beton și pentru a vă bucura de o vedere panoramică.",
+            "en": "Climb up to this historic WWII bunker complex to explore the preserved concrete fortifications and enjoy panoramic views over the entire Sola region."
+          }
+        },
+        {
+          "name": {
+            "de": "Erling Sjalgsson Denkmal",
+            "hu": "Erling Sjalgsson emlékmű",
+            "ro": "Monumentul Erling Sjalgsson",
+            "en": "Erling Sjalgsson Monument"
+          },
+          "coords": [
+            5.646152,
+            58.888877
+          ],
+          "category": "historical",
+          "arrive_at": "09:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Denkmal des Wikingerführers Erling Sjalgsson, einer Schlüsselfigur der norwegischen Geschichte, und lesen Sie die Tafeln für mehr Kontext.",
+            "hu": "Fedezze fel az Erling Sjalgsson viking vezérnek szentelt emlékművet, a norvég történelem kulcsfiguráját, és olvassa el a táblákat a mélyebb kontextusért.",
+            "ro": "Descoperiți monumentul dedicat liderului viking Erling Sjalgsson, o figură cheie în istoria norvegiană, și citiți plăcile pentru un context istoric aprofundat.",
+            "en": "Discover the monument dedicated to the Viking leader Erling Sjalgsson, a key figure in Norwegian history, and read the plaques for deeper context."
+          }
+        },
+        {
+          "name": {
+            "de": "Luftfahrtmuseum Sola",
+            "hu": "Sola Repüléstörténeti Múzeum",
+            "ro": "Muzeul Istoriei Aviației Sola",
+            "en": "Aviation History Museum Sola"
+          },
+          "coords": [
+            5.631418,
+            58.897731
+          ],
+          "category": "museum",
+          "arrive_at": "11:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die umfangreiche Sammlung von Oldtimer-Flugzeugen in diesem authentischen Weltkriegs-Hangar, aber nehmen Sie eine Jacke mit, da es kühl sein kann.",
+            "hu": "Csodálja meg a régi repülőgépek kiterjedt gyűjteményét ebben az autentikus második világháborús hangárban, de hozzon magával kabátot, mert bent hűvös lehet.",
+            "ro": "Admirați colecția vastă de aeronave de epocă din acest hangar autentic din Al Doilea Război Mondial, dar luați o jachetă, deoarece poate fi răcoare înăuntru.",
+            "en": "Admire the extensive collection of vintage aircraft housed in this authentic World War II hangar, but remember to bring a jacket as it can get chilly inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Sola",
+            "hu": "Sola temploma",
+            "ro": "Biserica Sola",
+            "en": "Sola Church"
+          },
+          "coords": [
+            5.619152,
+            58.89013
+          ],
+          "category": "religious",
+          "arrive_at": "12:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne Architektur dieser modernen Kirche mit ihrem markanten Altarbild und nehmen Sie sich einen Moment Zeit, um ruhig im Kirchenschiff zu sitzen.",
+            "hu": "Csodálja meg e modern templom gyönyörű építészetét a lenyűgöző oltárképpel, és szánjon egy percet arra, hogy csendben leüljön a békés főhajóban.",
+            "ro": "Minunați-vă de arhitectura frumoasă a acestei biserici moderne cu altarul său uimitor și acordați-vă un moment pentru a sta liniștit în naosul pașnic.",
+            "en": "Marvel at the beautiful architecture of this modern church with its striking altarpiece, and take a moment to sit quietly in the peaceful nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Sola Ruinenkirche",
+            "hu": "Sola romtemplom",
+            "ro": "Biserica Ruinelor din Sola",
+            "en": "Sola Ruin Church"
+          },
+          "coords": [
+            5.611307,
+            58.890991
+          ],
+          "category": "religious",
+          "arrive_at": "13:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die stimmungsvollen Ruinen dieser Steinkirche aus dem 12. Jahrhundert mit atemberaubendem Meerblick, ideal für unvergessliche Landschaftsfotografie.",
+            "hu": "Fedezze fel ennek a 12. századi kőtemplomnak a hangulatos romjait lenyűgöző tengerparti kilátással, ami tökéletes helyszín emlékezetes tájfotók készítéséhez.",
+            "ro": "Explorați ruinele atmosferice ale acestei biserici de piatră din secolul al XII-lea cu vederi uimitoare la coastă, un loc perfect pentru fotografii de peisaj memorabile.",
+            "en": "Explore the atmospheric ruins of this 12th-century stone church with stunning coastal views, making it a perfect spot for memorable landscape photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Solastranden",
+            "hu": "Sola strand",
+            "ro": "Plaja Sola",
+            "en": "Sola Beach"
+          },
+          "coords": [
+            5.601136,
+            58.884418
+          ],
+          "category": "recreational",
+          "arrive_at": "14:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem berühmten, kilometerlangen Sandstrand der Nordsee entlang und bringen Sie winddichte Kleidung mit, um die dramatischen Wellen zu genießen.",
+            "hu": "Sétáljon végig ezen a híres, kilométereken át nyúló északi-tengeri homokos strandon, és hozzon szélálló ruházatot, hogy kényelmesen élvezhesse a drámai hullámokat.",
+            "ro": "Plimbați-vă de-a lungul acestei faimoase plaje de nisip de la Marea Nordului și aduceți îmbrăcăminte rezistentă la vânt pentru a vă bucura de valurile dramatice.",
+            "en": "Stroll along this famous sandy beach stretching for kilometers along the North Sea, and bring windproof clothing to comfortably enjoy the dramatic waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Rægestranden",
+            "hu": "Rægestranden strand",
+            "ro": "Plaja Rægestranden",
+            "en": "Rægestranden Beach"
+          },
+          "coords": [
+            5.593343,
+            58.875911
+          ],
+          "category": "recreational",
+          "arrive_at": "15:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem wunderschönen und ruhigeren Küstenabschnitt, der für seine weichen Dünen bekannt ist und die perfekte Kulisse für ein Picknick bietet.",
+            "hu": "Pihenjen ezen a gyönyörű és egy kicsit csendesebb, puha dűnéiről ismert tengerparti szakaszon, amely tökéletes hátteret biztosít egy nyugodt délutáni piknikhez.",
+            "ro": "Relaxați-vă pe această porțiune de coastă frumoasă și mai liniștită, cunoscută pentru dunele sale moi, oferind fundalul perfect pentru un picnic de după-amiază.",
+            "en": "Relax at this beautiful and slightly quieter stretch of coastline known for its soft dunes, providing a perfect backdrop for a tranquil afternoon picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Urteilssteine von Sola",
+            "hu": "A solai ítélőkövek",
+            "ro": "Pietrele Judecății din Sola",
+            "en": "The Judgment Stones at Sola"
+          },
+          "coords": [
+            5.605616,
+            58.872376
+          ],
+          "category": "historical",
+          "arrive_at": "16:41",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Untersuchen Sie dieses rätselhafte kreisförmige Steindenkmal, das als vorwikingerzeitliche Gerichtsstätte gilt, und zählen Sie die sorgfältig angeordneten Steine.",
+            "hu": "Vizsgálja meg ezt a rejtélyes, kör alakú kőemlékművet, amelyet a vikingek előtti igazságszolgáltatási helynek tartanak, és próbálja meg maga megszámolni az állóköveket.",
+            "ro": "Investigați acest monument enigmatic din piatră circulară, considerat a fi un sit judiciar pre-viking, și încercați să numărați singuri pietrele aranjate cu grijă.",
+            "en": "Investigate this enigmatic circular stone monument believed to be a pre-Viking judicial site, and try counting the carefully arranged standing stones yourself."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Roadtrip beginnt am Bunkerkomplex mit weitem Küstenblick und führt schnell zum Denkmal des legendären norwegischen Wikingerführers. Den Mittag verbringen Sie damit, Oldtimer-Flugzeuge im Museum zu bewundern und einen ruhigen Moment in der modernen Stadtkirche zu genießen. Der Nachmittag ist der antiken Kirchenruine gewidmet, bevor Sie an der herrlichen Nordseeküste zu zwei unberührten Stränden fahren. Der Abend bricht am alten Steinkreis an.",
+        "hu": "Autós utazása a bunkerkomplexumnál kezdődik, ahonnan elsöprő tengerparti kilátás nyílik, majd gyorsan a norvég viking vezér emlékművéhez ér. A délidőt a múzeumban lévő régi repülőgépek csodálásával és a modern városi templom építészeti csodájának megtekintésével tölti. A délutánt az ősi romtemplom felfedezésének szenteljük, mielőtt a fenséges északi-tengeri partvonal mentén két érintetlen strandhoz hajtanánk. Az este az ősi kőköröknél ér véget.",
+        "ro": "Călătoria cu mașina începe la complexul de buncăre pentru vederi ample asupra coastei, trecând rapid la monumentul legendarului lider viking. Miezul zilei este petrecut admirând aeronave de epocă la muzeu și vizitând biserica modernă a orașului. După-amiaza este dedicată urmăririi istoriei la vechea biserică ruinată, înainte de a conduce de-a lungul coastei magnifice a Mării Nordului către două plaje imaculate. Seara se lasă la vechiul cerc de piatră.",
+        "en": "Your road trip starts at the WWII bunker complex for sweeping coastal views, moving quickly to the monument of Norway's legendary Viking leader. Midday is spent admiring vintage aircraft at the museum and taking a quiet moment in the architectural marvel of the modern town church. The afternoon is dedicated to tracing history at the ancient ruined church before driving along the magnificent North Sea coastline to two pristine beaches. Evening falls at the ancient stone circle, ending the day beautifully."
+      }
+    }
+  }
+}

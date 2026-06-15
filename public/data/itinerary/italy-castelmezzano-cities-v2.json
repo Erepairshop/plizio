@@ -1,0 +1,451 @@
+{
+  "city_id": "italy-castelmezzano-cities-v2",
+  "anchor": {
+    "name": "Castelmezzano",
+    "coords": [
+      16.04585,
+      40.52832
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:43",
+      "total_km": 2.15,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Santa Maria del Carmelo",
+            "hu": "Santa Maria del Carmelo",
+            "ro": "Santa Maria del Carmelo",
+            "en": "Santa Maria del Carmelo"
+          },
+          "coords": [
+            16.043567,
+            40.533682
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, aber elegante Steinfassade dieser historischen Stätte und kommen Sie früh, um die friedliche Atmosphäre vor den Massen zu genießen.",
+            "hu": "Csodálja meg ennek a történelmi vallási helyszínnek az egyszerű, de elegáns kőhomlokzatát, és érkezzen korán, hogy elkerülje a nagyobb turistatömegeket.",
+            "ro": "Admirați fațada din piatră simplă, dar elegantă, a acestui sit religios și ajungeți devreme pentru a vă bucura de atmosfera pașnică înainte de aglomerație.",
+            "en": "Admire the simple but elegant stone facade of this historic religious site and arrive early to enjoy the peaceful atmosphere before the crowds appear."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelmezzano - Nella lista I Borghi più Belli d'Italia",
+            "hu": "Castelmezzano - Nella lista I Borghi più Belli d'Italia",
+            "ro": "Castelmezzano - Nella lista I Borghi più Belli d'Italia",
+            "en": "Castelmezzano - Nella lista I Borghi più Belli d'Italia"
+          },
+          "coords": [
+            16.046763,
+            40.530382
+          ],
+          "category": "landmark",
+          "arrive_at": "09:57",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch eines der schönsten Dörfer Italiens, genießen Sie die Bergpanoramen und tragen Sie festes Schuhwerk für die steilen, engen Gassen.",
+            "hu": "Sétáljon végig Olaszország egyik legszebb faluján, élvezze a lenyűgöző hegyi kilátást, és viseljen kényelmes cipőt a meredek, szűk sikátorok miatt.",
+            "ro": "Plimbați-vă printr-unul dintre cele mai frumoase sate din Italia, admirând priveliștile montane și purtând încălțăminte comodă pentru aleile abrupte.",
+            "en": "Stroll through one of Italy's most beautiful villages, taking in the spectacular mountain views and wearing sturdy shoes for the steep, narrow alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Fortezza Normanna",
+            "hu": "Fortezza Normanna",
+            "ro": "Fortezza Normanna",
+            "en": "Fortezza Normanna"
+          },
+          "coords": [
+            16.050451,
+            40.530602
+          ],
+          "category": "historical",
+          "arrive_at": "10:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Ruinen dieser mittelalterlichen Festung im Fels, aber stellen Sie sich auf einen steilen Aufstieg zum atemberaubenden Aussichtspunkt ein.",
+            "hu": "Fedezze fel a sziklába vájt középkori erődítmény ősi romjait, de készüljön fel a meredek emelkedőre, ami a lélegzetelállító panorámához vezet.",
+            "ro": "Explorați ruinele antice ale acestei fortărețe medievale săpate în stâncă, dar fiți pregătiți pentru o urcare abruptă spre punctul de belvedere panoramic.",
+            "en": "Explore the ancient ruins of this medieval stronghold carved into the rock, but be prepared for a steep climb to reach the breathtaking panoramic viewpoint."
+          }
+        },
+        {
+          "name": {
+            "de": "Stazione di Arrivo del Volo dell'Angelo",
+            "hu": "Stazione di Arrivo del Volo dell'Angelo",
+            "ro": "Stazione di Arrivo del Volo dell'Angelo",
+            "en": "Stazione di Arrivo del Volo dell'Angelo"
+          },
+          "coords": [
+            16.044432,
+            40.528095
+          ],
+          "category": "landmark",
+          "arrive_at": "11:56",
+          "stay_min": 45,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Abenteuerlustigen bei ihrer rasanten Seilrutschenfahrt über das Tal und sichern Sie sich einen guten Platz für dramatische Fotos.",
+            "hu": "Figyelje meg a völgy felett átcsúszó izgalomkeresőket, és keressen egy jó helyet a leszállóplatform közelében a lenyűgöző fényképek elkészítéséhez.",
+            "ro": "Urmăriți aventurierii terminându-și zborul spectaculos pe tiroliană peste vale și găsiți un loc bun lângă platformă pentru a face fotografii dramatice.",
+            "en": "Watch the thrill-seekers complete their breathtaking zipline journey across the valley, and find a good spot near the landing platform for dramatic photos."
+          }
+        },
+        {
+          "name": {
+            "de": "vecchio mulino",
+            "hu": "vecchio mulino",
+            "ro": "vecchio mulino",
+            "en": "vecchio mulino"
+          },
+          "coords": [
+            16.048089,
+            40.521711
+          ],
+          "category": "historical",
+          "arrive_at": "12:53",
+          "stay_min": 110,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie den Charme dieser alten Mühle in der Landschaft, ein perfekter ruhiger Ort zum Ausruhen, während Sie mehr über die lokale Landwirtschaft erfahren.",
+            "hu": "Fedezze fel ennek a régi, tájba simuló malomnak a varázsát, amely tökéletes csendes hely a pihenésre, miközben megismerheti a helyi mezőgazdaság történetét.",
+            "ro": "Descoperiți farmecul acestei vechi mori rurale ascunse în peisaj, un loc liniștit perfect pentru odihnă în timp ce aflați despre agricultura istorică locală.",
+            "en": "Discover the charm of this old rural mill tucked away in the landscape, a perfect quiet spot to rest while learning about local historical agriculture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung der alten Gassen und Steinfassaden des Dorfes und atmen Sie die frische Bergluft der Lukanischen Dolomiten ein.\n\nTauchen Sie mittags in die historischen, direkt in die steilen Klippen gehauenen Festungen ein, die spektakuläre Panoramablicke bieten.\n\nVerbringen Sie den Nachmittag damit, verborgene architektonische Schätze und alte ländliche Strukturen zu entdecken, die die Geschichte der Region erzählen.\n\nLassen Sie den Tag im Herzen des Dorfes ausklingen, wenn die untergehende Sonne die schroffen Berggipfel in ein warmes, goldenes Licht taucht.",
+        "hu": "Kezdje a reggelt a falu ősi sikátorainak és kőhomlokzatainak felfedezésével, miközben belélegzi a lucaniai Dolomitok friss, tiszta hegyi levegőjét.\n\nDélben merüljön el a közvetlenül a drámai sziklákba vájt történelmi erődítményekben, amelyek lenyűgöző panorámát kínálnak a vidékre.\n\nA délutánt töltse a rejtett építészeti kincsek és a régi vidéki építmények felfedezésével, amelyek ezen egyedülálló régió történetét mesélik el.\n\nZárja a napot a falu szívében pihenve, miközben a lemenő nap aranyló fénybe öltözteti az önt körülvevő zord hegycsúcsokat és völgyeket.",
+        "ro": "Începeți dimineața explorând aleile antice și fațadele de piatră ale satului, respirând aerul proaspăt de munte al Dolomiților Lucanieni.\n\nLa prânz, scufundați-vă în istoria fortărețelor sculptate direct în stâncile abrupte, care oferă panorame spectaculoase asupra peisajului.\n\nPetreceți după-amiaza descoperind comorile arhitecturale ascunse și vechile structuri rurale care spun povestea fascinantă a acestei regiuni.\n\nÎncheiați ziua relaxându-vă în inima satului, în timp ce soarele la apus aruncă o strălucire aurie peste vârfurile stâncoase din jurul vostru.",
+        "en": "Start your morning exploring the ancient alleys and stone facades of the village, breathing in the fresh mountain air of the Lucanian Dolomites.\n\nBy midday, immerse yourself in the historical fortresses carved directly into the dramatic cliffs, offering spectacular panoramic vistas.\n\nSpend the afternoon discovering the hidden architectural gems and old rural structures that tell the fascinating story of this unique region.\n\nConclude your day relaxing in the heart of the village as the setting sun casts a golden glow over the rugged mountain peaks around you."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 2.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Santa Maria del Carmelo",
+            "hu": "Santa Maria del Carmelo",
+            "ro": "Santa Maria del Carmelo",
+            "en": "Santa Maria del Carmelo"
+          },
+          "coords": [
+            16.043567,
+            40.533682
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, aber elegante Steinfassade dieser historischen Stätte und kommen Sie früh, um die friedliche Atmosphäre vor den Massen zu genießen.",
+            "hu": "Csodálja meg ennek a történelmi vallási helyszínnek az egyszerű, de elegáns kőhomlokzatát, és érkezzen korán, hogy elkerülje a nagyobb turistatömegeket.",
+            "ro": "Admirați fațada din piatră simplă, dar elegantă, a acestui sit religios și ajungeți devreme pentru a vă bucura de atmosfera pașnică înainte de aglomerație.",
+            "en": "Admire the simple but elegant stone facade of this historic religious site and arrive early to enjoy the peaceful atmosphere before the crowds appear."
+          }
+        },
+        {
+          "name": {
+            "de": "Fortezza Normanna",
+            "hu": "Fortezza Normanna",
+            "ro": "Fortezza Normanna",
+            "en": "Fortezza Normanna"
+          },
+          "coords": [
+            16.050451,
+            40.530602
+          ],
+          "category": "historical",
+          "arrive_at": "09:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Ruinen dieser mittelalterlichen Festung im Fels, aber stellen Sie sich auf einen steilen Aufstieg zum atemberaubenden Aussichtspunkt ein.",
+            "hu": "Fedezze fel a sziklába vájt középkori erődítmény ősi romjait, de készüljön fel a meredek emelkedőre, ami a lélegzetelállító panorámához vezet.",
+            "ro": "Explorați ruinele antice ale acestei fortărețe medievale săpate în stâncă, dar fiți pregătiți pentru o urcare abruptă spre punctul de belvedere panoramic.",
+            "en": "Explore the ancient ruins of this medieval stronghold carved into the rock, but be prepared for a steep climb to reach the breathtaking panoramic viewpoint."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelmezzano - Nella lista I Borghi più Belli d'Italia",
+            "hu": "Castelmezzano - Nella lista I Borghi più Belli d'Italia",
+            "ro": "Castelmezzano - Nella lista I Borghi più Belli d'Italia",
+            "en": "Castelmezzano - Nella lista I Borghi più Belli d'Italia"
+          },
+          "coords": [
+            16.046763,
+            40.530382
+          ],
+          "category": "landmark",
+          "arrive_at": "11:16",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch eines der schönsten Dörfer Italiens, genießen Sie die Bergpanoramen und tragen Sie festes Schuhwerk für die steilen, engen Gassen.",
+            "hu": "Sétáljon végig Olaszország egyik legszebb faluján, élvezze a lenyűgöző hegyi kilátást, és viseljen kényelmes cipőt a meredek, szűk sikátorok miatt.",
+            "ro": "Plimbați-vă printr-unul dintre cele mai frumoase sate din Italia, admirând priveliștile montane și purtând încălțăminte comodă pentru aleile abrupte.",
+            "en": "Stroll through one of Italy's most beautiful villages, taking in the spectacular mountain views and wearing sturdy shoes for the steep, narrow alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Stazione di Arrivo del Volo dell'Angelo",
+            "hu": "Stazione di Arrivo del Volo dell'Angelo",
+            "ro": "Stazione di Arrivo del Volo dell'Angelo",
+            "en": "Stazione di Arrivo del Volo dell'Angelo"
+          },
+          "coords": [
+            16.044432,
+            40.528095
+          ],
+          "category": "landmark",
+          "arrive_at": "11:43",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Abenteuerlustigen bei ihrer rasanten Seilrutschenfahrt über das Tal und sichern Sie sich einen guten Platz für dramatische Fotos.",
+            "hu": "Figyelje meg a völgy felett átcsúszó izgalomkeresőket, és keressen egy jó helyet a leszállóplatform közelében a lenyűgöző fényképek elkészítéséhez.",
+            "ro": "Urmăriți aventurierii terminându-și zborul spectaculos pe tiroliană peste vale și găsiți un loc bun lângă platformă pentru a face fotografii dramatice.",
+            "en": "Watch the thrill-seekers complete their breathtaking zipline journey across the valley, and find a good spot near the landing platform for dramatic photos."
+          }
+        },
+        {
+          "name": {
+            "de": "vecchio mulino",
+            "hu": "vecchio mulino",
+            "ro": "vecchio mulino",
+            "en": "vecchio mulino"
+          },
+          "coords": [
+            16.048089,
+            40.521711
+          ],
+          "category": "historical",
+          "arrive_at": "12:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie den Charme dieser alten Mühle in der Landschaft, ein perfekter ruhiger Ort zum Ausruhen, während Sie mehr über die lokale Landwirtschaft erfahren.",
+            "hu": "Fedezze fel ennek a régi, tájba simuló malomnak a varázsát, amely tökéletes csendes hely a pihenésre, miközben megismerheti a helyi mezőgazdaság történetét.",
+            "ro": "Descoperiți farmecul acestei vechi mori rurale ascunse în peisaj, un loc liniștit perfect pentru odihnă în timp ce aflați despre agricultura istorică locală.",
+            "en": "Discover the charm of this old rural mill tucked away in the landscape, a perfect quiet spot to rest while learning about local historical agriculture."
+          }
+        },
+        {
+          "name": {
+            "de": "casa con obelischi",
+            "hu": "casa con obelischi",
+            "ro": "casa con obelischi",
+            "en": "casa con obelischi"
+          },
+          "coords": [
+            16.051123,
+            40.520549
+          ],
+          "category": "historical",
+          "arrive_at": "13:55",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betrachten Sie die eigenartige Architektur dieses mit kleinen Obelisken verzierten Hauses und besuchen Sie es am späten Nachmittag für das beste Licht.",
+            "hu": "Vizsgálja meg ennek a kis obeliszkekkel díszített, egyedi háznak a különleges építészetét, és látogasson el ide a késő délutáni órákban a legjobb fényekért.",
+            "ro": "Examinați arhitectura ciudată a acestei case unice împodobite cu mici obeliscuri și vizitați-o spre sfârșitul după-amiezii pentru cea mai bună lumină naturală.",
+            "en": "Examine the peculiar architecture of this unique house adorned with small obelisks, and visit during the late afternoon for the best natural lighting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung der alten Gassen und Steinfassaden des Dorfes und atmen Sie die frische Bergluft der Lukanischen Dolomiten ein.\n\nTauchen Sie mittags in die historischen, direkt in die steilen Klippen gehauenen Festungen ein, die spektakuläre Panoramablicke bieten.\n\nVerbringen Sie den Nachmittag damit, verborgene architektonische Schätze und alte ländliche Strukturen zu entdecken, die die Geschichte der Region erzählen.\n\nLassen Sie den Tag im Herzen des Dorfes ausklingen, wenn die untergehende Sonne die schroffen Berggipfel in ein warmes, goldenes Licht taucht.",
+        "hu": "Kezdje a reggelt a falu ősi sikátorainak és kőhomlokzatainak felfedezésével, miközben belélegzi a lucaniai Dolomitok friss, tiszta hegyi levegőjét.\n\nDélben merüljön el a közvetlenül a drámai sziklákba vájt történelmi erődítményekben, amelyek lenyűgöző panorámát kínálnak a vidékre.\n\nA délutánt töltse a rejtett építészeti kincsek és a régi vidéki építmények felfedezésével, amelyek ezen egyedülálló régió történetét mesélik el.\n\nZárja a napot a falu szívében pihenve, miközben a lemenő nap aranyló fénybe öltözteti az önt körülvevő zord hegycsúcsokat és völgyeket.",
+        "ro": "Începeți dimineața explorând aleile antice și fațadele de piatră ale satului, respirând aerul proaspăt de munte al Dolomiților Lucanieni.\n\nLa prânz, scufundați-vă în istoria fortărețelor sculptate direct în stâncile abrupte, care oferă panorame spectaculoase asupra peisajului.\n\nPetreceți după-amiaza descoperind comorile arhitecturale ascunse și vechile structuri rurale care spun povestea fascinantă a acestei regiuni.\n\nÎncheiați ziua relaxându-vă în inima satului, în timp ce soarele la apus aruncă o strălucire aurie peste vârfurile stâncoase din jurul vostru.",
+        "en": "Start your morning exploring the ancient alleys and stone facades of the village, breathing in the fresh mountain air of the Lucanian Dolomites.\n\nBy midday, immerse yourself in the historical fortresses carved directly into the dramatic cliffs, offering spectacular panoramic vistas.\n\nSpend the afternoon discovering the hidden architectural gems and old rural structures that tell the fascinating story of this unique region.\n\nConclude your day relaxing in the heart of the village as the setting sun casts a golden glow over the rugged mountain peaks around you."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:25",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Castelmezzano - Nella lista I Borghi più Belli d'Italia",
+            "hu": "Castelmezzano - Nella lista I Borghi più Belli d'Italia",
+            "ro": "Castelmezzano - Nella lista I Borghi più Belli d'Italia",
+            "en": "Castelmezzano - Nella lista I Borghi più Belli d'Italia"
+          },
+          "coords": [
+            16.046763,
+            40.530382
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch eines der schönsten Dörfer Italiens, genießen Sie die Bergpanoramen und tragen Sie festes Schuhwerk für die steilen, engen Gassen.",
+            "hu": "Sétáljon végig Olaszország egyik legszebb faluján, élvezze a lenyűgöző hegyi kilátást, és viseljen kényelmes cipőt a meredek, szűk sikátorok miatt.",
+            "ro": "Plimbați-vă printr-unul dintre cele mai frumoase sate din Italia, admirând priveliștile montane și purtând încălțăminte comodă pentru aleile abrupte.",
+            "en": "Stroll through one of Italy's most beautiful villages, taking in the spectacular mountain views and wearing sturdy shoes for the steep, narrow alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Fortezza Normanna",
+            "hu": "Fortezza Normanna",
+            "ro": "Fortezza Normanna",
+            "en": "Fortezza Normanna"
+          },
+          "coords": [
+            16.050451,
+            40.530602
+          ],
+          "category": "historical",
+          "arrive_at": "09:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Ruinen dieser mittelalterlichen Festung im Fels, aber stellen Sie sich auf einen steilen Aufstieg zum atemberaubenden Aussichtspunkt ein.",
+            "hu": "Fedezze fel a sziklába vájt középkori erődítmény ősi romjait, de készüljön fel a meredek emelkedőre, ami a lélegzetelállító panorámához vezet.",
+            "ro": "Explorați ruinele antice ale acestei fortărețe medievale săpate în stâncă, dar fiți pregătiți pentru o urcare abruptă spre punctul de belvedere panoramic.",
+            "en": "Explore the ancient ruins of this medieval stronghold carved into the rock, but be prepared for a steep climb to reach the breathtaking panoramic viewpoint."
+          }
+        },
+        {
+          "name": {
+            "de": "Volo dell'Angelo",
+            "hu": "Volo dell'Angelo",
+            "ro": "Volo dell'Angelo",
+            "en": "Volo dell'Angelo"
+          },
+          "coords": [
+            16.063329,
+            40.526024
+          ],
+          "category": "landmark",
+          "arrive_at": "10:59",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erleben Sie die berühmte Hochgeschwindigkeits-Seilrutsche zwischen den Gipfeln und buchen Sie Ihre Tickets weit im Voraus, da diese schnell ausverkauft sind.",
+            "hu": "Próbálja ki a két drámai csúcsot összekötő híres drótkötélpályát, és foglalja le a jegyeket jó előre, mivel a nyári szezonban hamar elfogynak a helyek.",
+            "ro": "Experimentați faimoasa tiroliană de mare viteză care conectează cele două vârfuri dramatice, rezervând biletele din timp deoarece se epuizează rapid.",
+            "en": "Experience the famous high-speed zipline that connects the two dramatic peaks, booking your tickets well in advance as spots sell out quickly in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Pietrapertosa - Nella lista I Borghi più belli d'Italia",
+            "hu": "Pietrapertosa - Nella lista I Borghi più belli d'Italia",
+            "ro": "Pietrapertosa - Nella lista I Borghi più belli d'Italia",
+            "en": "Pietrapertosa - Nella lista I Borghi più belli d'Italia"
+          },
+          "coords": [
+            16.063069,
+            40.518177
+          ],
+          "category": "landmark",
+          "arrive_at": "11:46",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die höchstgelegene Gemeinde der Region mit ihren Felsenhäusern und vergessen Sie nicht, Wasser für die sonnigen Pfade mitzunehmen.",
+            "hu": "Sétáljon a régió legmagasabban fekvő, sziklába vájt házakkal teli településén, és mindenképpen vigyen magával egy üveg vizet a napos ösvényekre.",
+            "ro": "Plimbați-vă prin cea mai înaltă comună din regiune cu casele sale săpate în stâncă, asigurându-vă că aveți la voi o sticlă cu apă pentru traseele însorite.",
+            "en": "Wander through the highest municipality in the region with its fascinating rock-hewn houses, making sure to bring a bottle of water for the sunny paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello di Pietrapertosa",
+            "hu": "Castello di Pietrapertosa",
+            "ro": "Castello di Pietrapertosa",
+            "en": "Castello di Pietrapertosa"
+          },
+          "coords": [
+            16.061223,
+            40.521065
+          ],
+          "category": "castle",
+          "arrive_at": "12:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Steigen Sie hinauf zu den sarazenischen Festungsruinen für einen unvergleichlichen Blick auf die Lukanischen Dolomiten und halten Sie die Hände frei für die Stufen.",
+            "hu": "Másszon fel a szaracén erőd romjaihoz a lucaniai Dolomitok páratlan kilátásáért, és tartsa szabadon a kezét az egyenetlen, ősi lépcsőkön való közlekedéshez.",
+            "ro": "Urcați la ruinele fortăreței sarazice pentru o vedere inegalabilă a Dolomiților Lucanieni, păstrând mâinile libere pentru a naviga treptele antice denivelate.",
+            "en": "Climb up to the Saracen fortress ruins for an unparalleled view of the Lucanian Dolomites, keeping your hands free to navigate the uneven ancient steps."
+          }
+        },
+        {
+          "name": {
+            "de": "casa con obelischi",
+            "hu": "casa con obelischi",
+            "ro": "casa con obelischi",
+            "en": "casa con obelischi"
+          },
+          "coords": [
+            16.051123,
+            40.520549
+          ],
+          "category": "historical",
+          "arrive_at": "13:35",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Betrachten Sie die eigenartige Architektur dieses mit kleinen Obelisken verzierten Hauses und besuchen Sie es am späten Nachmittag für das beste Licht.",
+            "hu": "Vizsgálja meg ennek a kis obeliszkekkel díszített, egyedi háznak a különleges építészetét, és látogasson el ide a késő délutáni órákban a legjobb fényekért.",
+            "ro": "Examinați arhitectura ciudată a acestei case unice împodobite cu mici obeliscuri și vizitați-o spre sfârșitul după-amiezii pentru cea mai bună lumină naturală.",
+            "en": "Examine the peculiar architecture of this unique house adorned with small obelisks, and visit during the late afternoon for the best natural lighting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung der alten Gassen und Steinfassaden des Dorfes und atmen Sie die frische Bergluft der Lukanischen Dolomiten ein.\n\nTauchen Sie mittags in die historischen, direkt in die steilen Klippen gehauenen Festungen ein, die spektakuläre Panoramablicke bieten.\n\nVerbringen Sie den Nachmittag damit, verborgene architektonische Schätze und alte ländliche Strukturen zu entdecken, die die Geschichte der Region erzählen.\n\nLassen Sie den Tag im Herzen des Dorfes ausklingen, wenn die untergehende Sonne die schroffen Berggipfel in ein warmes, goldenes Licht taucht.",
+        "hu": "Kezdje a reggelt a falu ősi sikátorainak és kőhomlokzatainak felfedezésével, miközben belélegzi a lucaniai Dolomitok friss, tiszta hegyi levegőjét.\n\nDélben merüljön el a közvetlenül a drámai sziklákba vájt történelmi erődítményekben, amelyek lenyűgöző panorámát kínálnak a vidékre.\n\nA délutánt töltse a rejtett építészeti kincsek és a régi vidéki építmények felfedezésével, amelyek ezen egyedülálló régió történetét mesélik el.\n\nZárja a napot a falu szívében pihenve, miközben a lemenő nap aranyló fénybe öltözteti az önt körülvevő zord hegycsúcsokat és völgyeket.",
+        "ro": "Începeți dimineața explorând aleile antice și fațadele de piatră ale satului, respirând aerul proaspăt de munte al Dolomiților Lucanieni.\n\nLa prânz, scufundați-vă în istoria fortărețelor sculptate direct în stâncile abrupte, care oferă panorame spectaculoase asupra peisajului.\n\nPetreceți după-amiaza descoperind comorile arhitecturale ascunse și vechile structuri rurale care spun povestea fascinantă a acestei regiuni.\n\nÎncheiați ziua relaxându-vă în inima satului, în timp ce soarele la apus aruncă o strălucire aurie peste vârfurile stâncoase din jurul vostru.",
+        "en": "Start your morning exploring the ancient alleys and stone facades of the village, breathing in the fresh mountain air of the Lucanian Dolomites.\n\nBy midday, immerse yourself in the historical fortresses carved directly into the dramatic cliffs, offering spectacular panoramic vistas.\n\nSpend the afternoon discovering the hidden architectural gems and old rural structures that tell the fascinating story of this unique region.\n\nConclude your day relaxing in the heart of the village as the setting sun casts a golden glow over the rugged mountain peaks around you."
+      }
+    }
+  }
+}

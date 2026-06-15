@@ -1,0 +1,543 @@
+{
+  "city_id": "zamora-de-hidalgo-cities-v2",
+  "anchor": {
+    "name": "Zamora de Hidalgo",
+    "coords": [
+      -102.285,
+      19.9842
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "19:47",
+      "total_km": 3.52,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo de la Ciudad de Zamora",
+            "hu": "Museo de la Ciudad de Zamora",
+            "ro": "Museo de la Ciudad de Zamora",
+            "en": "Museo de la Ciudad de Zamora"
+          },
+          "coords": [
+            -102.284846,
+            19.995059
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte Zamoras anhand faszinierender lokaler Artefakte und Fotografien, aber prüfen Sie unbedingt zuerst die Wechselausstellungen im Obergeschoss.",
+            "hu": "Fedezze fel Zamora gazdag történelmét a lenyűgöző helyi leleteken és fényképeken keresztül, de mindenképpen érdemes a felső emeleti időszaki kiállításokkal kezdeni.",
+            "ro": "Descoperiți istoria bogată a orașului Zamora prin intermediul unor artefacte și fotografii locale fascinante, dar asigurați-vă că verificați mai întâi expozițiile temporare de la etaj.",
+            "en": "Discover Zamora's rich history through fascinating local artifacts and photographs, but make sure to check the temporary exhibitions on the upper floor first."
+          }
+        },
+        {
+          "name": {
+            "de": "Acuario Bajo El Mar",
+            "hu": "Acuario Bajo El Mar",
+            "ro": "Acuario Bajo El Mar",
+            "en": "Acuario Bajo El Mar"
+          },
+          "coords": [
+            -102.283325,
+            19.987751
+          ],
+          "category": "family",
+          "arrive_at": "11:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.82,
+          "tip_5lang": {
+            "de": "Genießen Sie eine unterhaltsame Familienpause bei der Erkundung der farbenfrohen Ausstellungen zum Meeresleben und versuchen Sie, während der Fütterungszeiten zu kommen.",
+            "hu": "Élvezze a vidám családi kikapcsolódást a színes tengeri élőlények kiállításainak felfedezésével, és próbáljon meg etetési időben érkezni az interaktívabb élményért.",
+            "ro": "Bucurați-vă de o pauză distractivă în familie explorând expozițiile colorate cu viață marină și încercați să vizitați în timpul orelor de hrănire pentru o experiență interactivă.",
+            "en": "Enjoy a fun family break exploring the colorful marine life exhibits, and try to visit during feeding times for a more interactive experience with the fish."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Don Bosco",
+            "hu": "Teatro Don Bosco",
+            "ro": "Teatro Don Bosco",
+            "en": "Teatro Don Bosco"
+          },
+          "coords": [
+            -102.289279,
+            19.986673
+          ],
+          "category": "cultural",
+          "arrive_at": "12:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.62,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur und die intime Atmosphäre dieses kulturellen Veranstaltungsortes und bringen Sie ein Weitwinkelobjektiv mit, um die detaillierte Fassade einzufangen.",
+            "hu": "Csodálja meg e kulturális helyszín klasszikus építészetét és meghitt hangulatát, és hozzon magával nagylátószögű objektívet, hogy megörökíthesse a gyönyörűen részletezett homlokzatot.",
+            "ro": "Admirați arhitectura clasică și atmosfera intimă a acestei locații culturale și aduceți un obiectiv cu unghi larg pentru a surprinde fațada frumos detaliată de vizavi.",
+            "en": "Admire the classic architecture and intimate atmosphere of this cultural venue, and bring a wide-angle lens to capture the beautifully detailed facade from across the street."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Obrero",
+            "hu": "Teatro Obrero",
+            "ro": "Teatro Obrero",
+            "en": "Teatro Obrero"
+          },
+          "coords": [
+            -102.282425,
+            19.982652
+          ],
+          "category": "cultural",
+          "arrive_at": "13:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.82,
+          "tip_5lang": {
+            "de": "Bewundern Sie das majestätische neoklassizistische Design und die historische Bedeutung dieses großen Theaters und erkundigen Sie sich frühzeitig an der Abendkasse nach kostenlosen Aufführungen.",
+            "hu": "Csodálja meg e nagyszerű színház fenséges neoklasszikus dizájnját és történelmi jelentőségét, és érdeklődjön korán a pénztárnál az esetleges ingyenes esti előadásokról.",
+            "ro": "Minunați-vă de designul neoclasic maiestuos și de importanța istorică a acestui mare teatru și verificați din timp la casa de bilete dacă sunt programate spectacole gratuite seara.",
+            "en": "Marvel at the majestic neoclassical design and historical significance of this grand theater, and check the box office early to see if any free evening performances are scheduled."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardín de la Comunicación",
+            "hu": "Jardín de la Comunicación",
+            "ro": "Jardín de la Comunicación",
+            "en": "Jardín de la Comunicación"
+          },
+          "coords": [
+            -102.288075,
+            19.979522
+          ],
+          "category": "historical",
+          "arrive_at": "15:28",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.67,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem friedlichen historischen Garten, der sich perfekt für eine Mittagspause eignet, und nehmen Sie sich einen Moment Zeit, um die Informationstafeln zu lesen.",
+            "hu": "Pihenjen meg ebben a békés, történelmi kertben, amely tökéletes egy déli pihenőhöz, és szánjon egy percet az információs táblák elolvasására az egyik árnyékos padon.",
+            "ro": "Relaxați-vă în această grădină istorică liniștită, perfectă pentru o pauză la amiază, și faceți-vă timp să citiți plăcuțele informative în timp ce vă odihniți pe o bancă la umbră.",
+            "en": "Relax in this peaceful historical garden perfect for a midday rest, and take a moment to read the informational plaques while enjoying a snack on one of the shaded benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Rotonda de los Hombres Ilustres",
+            "hu": "Rotonda de los Hombres Ilustres",
+            "ro": "Rotonda de los Hombres Ilustres",
+            "en": "Rotonda de los Hombres Ilustres"
+          },
+          "coords": [
+            -102.29161,
+            19.977297
+          ],
+          "category": "historical",
+          "arrive_at": "16:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.44,
+          "tip_5lang": {
+            "de": "Erweisen Sie an dieser monumentalen Hommage an lokale Helden Ihren Respekt und gehen Sie langsam um das Bauwerk herum, um die eingravierten Namen und die Symmetrie zu würdigen.",
+            "hu": "Tisztelgés a helyi hősök emléke előtt ennél a monumentális építménynél, és sétáljon lassan körbe, hogy értékelni tudja a bevésett neveket és a dizájn ünnepélyes szimmetriáját.",
+            "ro": "Aduceți un omagiu la acest tribut monumental dedicat eroilor locali și plimbați-vă încet în jurul structurii pentru a aprecia numele gravate și simetria solemnă a designului.",
+            "en": "Pay your respects at this monumental tribute to local heroes, and walk slowly around the structure to appreciate the engraved names and the solemn symmetry of the design."
+          }
+        },
+        {
+          "name": {
+            "de": "Puente Calzada Zamora- Jacona",
+            "hu": "Puente Calzada Zamora- Jacona",
+            "ro": "Puente Calzada Zamora- Jacona",
+            "en": "Puente Calzada Zamora- Jacona"
+          },
+          "coords": [
+            -102.292555,
+            19.976037
+          ],
+          "category": "historical",
+          "arrive_at": "17:57",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Schlendern Sie über diese historische Brücke, die zwei Städte verbindet, und planen Sie Ihren Besuch zum Sonnenuntergang, um atemberaubende Fotos der Umgebung aufzunehmen.",
+            "hu": "Sétáljon át ezen a két várost összekötő ikonikus, történelmi hídon, és időzítse látogatását naplementére, hogy lenyűgöző fotókat készíthessen a környező tájról és az esti fényekről.",
+            "ro": "Plimbați-vă pe acest pod istoric iconic care leagă două orașe și programați-vă vizita la apusul soarelui pentru a face fotografii uimitoare cu peisajul înconjurător și lumina de seară.",
+            "en": "Stroll across this iconic historical bridge connecting two towns, and time your visit for sunset to capture stunning photos of the surrounding landscape and evening light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihren Tag in Zamora, indem Sie im Museo de la Ciudad in die faszinierende regionale Geschichte eintauchen. Besuchen Sie danach das Acuario Bajo El Mar, das ein wunderbar fesselndes und familienfreundliches Erlebnis bietet.\n\nMidday: Wenn der Tag wärmer wird, tauchen Sie im Teatro Don Bosco in das reiche Theatrerbe der Stadt ein. Die beeindruckende Architektur bereitet die Bühne für das majestätische Teatro Obrero, das die wahre kulturelle Seele Zamoras widerspiegelt.\n\nAfternoon: Machen Sie eine angenehme Pause im Jardín de la Comunicación, einem historischen Park. Sobald Sie sich erholt haben, begeben Sie sich zur Rotonda de los Hombres Ilustres, um die prominenten Persönlichkeiten der Region zu ehren.\n\nEvening: Beenden Sie Ihren Tagesausflug mit einem friedlichen Spaziergang über die Puente Calzada Zamora-Jacona. Die sanfte Abendbrise und die historische Bedeutung der Brücke bieten ein wunderschönes Finale für Ihre Erkundung.",
+        "hu": "Morning: Kezdje a napot Zamorában a Museo de la Ciudad lenyűgöző regionális történelmének felfedezésével. Ezután látogasson el az Acuario Bajo El Mar-ba, amely egy csodálatosan lebilincselő és családbarát élményt nyújt a délelőtt folyamán.\n\nMidday: Ahogy melegszik a nap, merüljön el a város gazdag színházi örökségében a Teatro Don Bosco felkeresésével. A lenyűgöző építészet tökéletesen előkészíti a terepet a fenséges Teatro Obrero számára, amely Zamora igazi kulturális lelkét tükrözi.\n\nAfternoon: Tarts egy kellemes pihenőt a Jardín de la Comunicación nyugodt, történelmi parkjában. Miután felfrissült, induljon a Rotonda de los Hombres Ilustres felé, hogy tisztelegjen a régió identitását formáló kiemelkedő személyiségek előtt.\n\nEvening: Zárja egynapos kirándulását egy békés sétával a Puente Calzada Zamora-Jacona hídon. Az esti szellő és a híd történelmi jelentősége gyönyörű és elgondolkodtató befejezést kínál ennek a vibráló michoacáni városnak a felfedezéséhez.",
+        "ro": "Morning: Începeți-vă ziua în Zamora explorând istoria regională fascinantă la Museo de la Ciudad. Ulterior, îndreptați-vă către Acuario Bajo El Mar, care oferă o experiență minunată și potrivită pentru familii, perfectă pentru dimineață.\n\nMidday: Pe măsură ce ziua se încălzește, cufundați-vă în bogata moștenire teatrală vizitând Teatro Don Bosco. Arhitectura impresionantă pregătește scena pentru maiestuosul Teatro Obrero, reflectând adevăratul suflet cultural al orașului.\n\nAfternoon: Luați o pauză plăcută la Jardín de la Comunicación, un parc istoric senin, perfect pentru relaxare. După ce v-ați odihnit, mergeți la Rotonda de los Hombres Ilustres pentru a onora figurile proeminente ale regiunii.\n\nEvening: Încheiați-vă excursia cu o plimbare liniștită pe Puente Calzada Zamora-Jacona. Briza blândă a serii și importanța istorică a podului oferă un final frumos și reflexiv explorării acestui oraș vibrant din Michoacán.",
+        "en": "Morning: Start your day in Zamora by diving into its fascinating regional history at the Museo de la Ciudad. Afterwards, head over to the Acuario Bajo El Mar, which provides a wonderfully engaging and family-friendly experience to brighten up your morning.\n\nMidday: As the day warms up, immerse yourself in the city's rich theatrical heritage by visiting Teatro Don Bosco. The impressive architecture sets the stage perfectly for your next stop, the majestic Teatro Obrero, reflecting the true cultural soul of Zamora.\n\nAfternoon: Take a pleasant breather at the Jardín de la Comunicación, a serene historical park perfect for relaxing. Once you're refreshed, make your way to the Rotonda de los Hombres Ilustres to honor the prominent figures who shaped the region's identity.\n\nEvening: Conclude your day trip with a peaceful walk across the Puente Calzada Zamora-Jacona. The gentle evening breeze and historical significance of the bridge offer a beautiful and reflective finale to your exploration of this vibrant Michoacán city."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:13",
+      "total_km": 3.52,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo de la Ciudad de Zamora",
+            "hu": "Museo de la Ciudad de Zamora",
+            "ro": "Museo de la Ciudad de Zamora",
+            "en": "Museo de la Ciudad de Zamora"
+          },
+          "coords": [
+            -102.284846,
+            19.995059
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte Zamoras anhand faszinierender lokaler Artefakte und Fotografien, aber prüfen Sie unbedingt zuerst die Wechselausstellungen im Obergeschoss.",
+            "hu": "Fedezze fel Zamora gazdag történelmét a lenyűgöző helyi leleteken és fényképeken keresztül, de mindenképpen érdemes a felső emeleti időszaki kiállításokkal kezdeni.",
+            "ro": "Descoperiți istoria bogată a orașului Zamora prin intermediul unor artefacte și fotografii locale fascinante, dar asigurați-vă că verificați mai întâi expozițiile temporare de la etaj.",
+            "en": "Discover Zamora's rich history through fascinating local artifacts and photographs, but make sure to check the temporary exhibitions on the upper floor first."
+          }
+        },
+        {
+          "name": {
+            "de": "Acuario Bajo El Mar",
+            "hu": "Acuario Bajo El Mar",
+            "ro": "Acuario Bajo El Mar",
+            "en": "Acuario Bajo El Mar"
+          },
+          "coords": [
+            -102.283325,
+            19.987751
+          ],
+          "category": "family",
+          "arrive_at": "10:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.82,
+          "tip_5lang": {
+            "de": "Genießen Sie eine unterhaltsame Familienpause bei der Erkundung der farbenfrohen Ausstellungen zum Meeresleben und versuchen Sie, während der Fütterungszeiten zu kommen.",
+            "hu": "Élvezze a vidám családi kikapcsolódást a színes tengeri élőlények kiállításainak felfedezésével, és próbáljon meg etetési időben érkezni az interaktívabb élményért.",
+            "ro": "Bucurați-vă de o pauză distractivă în familie explorând expozițiile colorate cu viață marină și încercați să vizitați în timpul orelor de hrănire pentru o experiență interactivă.",
+            "en": "Enjoy a fun family break exploring the colorful marine life exhibits, and try to visit during feeding times for a more interactive experience with the fish."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Don Bosco",
+            "hu": "Teatro Don Bosco",
+            "ro": "Teatro Don Bosco",
+            "en": "Teatro Don Bosco"
+          },
+          "coords": [
+            -102.289279,
+            19.986673
+          ],
+          "category": "cultural",
+          "arrive_at": "12:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.62,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur und die intime Atmosphäre dieses kulturellen Veranstaltungsortes und bringen Sie ein Weitwinkelobjektiv mit, um die detaillierte Fassade einzufangen.",
+            "hu": "Csodálja meg e kulturális helyszín klasszikus építészetét és meghitt hangulatát, és hozzon magával nagylátószögű objektívet, hogy megörökíthesse a gyönyörűen részletezett homlokzatot.",
+            "ro": "Admirați arhitectura clasică și atmosfera intimă a acestei locații culturale și aduceți un obiectiv cu unghi larg pentru a surprinde fațada frumos detaliată de vizavi.",
+            "en": "Admire the classic architecture and intimate atmosphere of this cultural venue, and bring a wide-angle lens to capture the beautifully detailed facade from across the street."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Obrero",
+            "hu": "Teatro Obrero",
+            "ro": "Teatro Obrero",
+            "en": "Teatro Obrero"
+          },
+          "coords": [
+            -102.282425,
+            19.982652
+          ],
+          "category": "cultural",
+          "arrive_at": "13:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.82,
+          "tip_5lang": {
+            "de": "Bewundern Sie das majestätische neoklassizistische Design und die historische Bedeutung dieses großen Theaters und erkundigen Sie sich frühzeitig an der Abendkasse nach kostenlosen Aufführungen.",
+            "hu": "Csodálja meg e nagyszerű színház fenséges neoklasszikus dizájnját és történelmi jelentőségét, és érdeklődjön korán a pénztárnál az esetleges ingyenes esti előadásokról.",
+            "ro": "Minunați-vă de designul neoclasic maiestuos și de importanța istorică a acestui mare teatru și verificați din timp la casa de bilete dacă sunt programate spectacole gratuite seara.",
+            "en": "Marvel at the majestic neoclassical design and historical significance of this grand theater, and check the box office early to see if any free evening performances are scheduled."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardín de la Comunicación",
+            "hu": "Jardín de la Comunicación",
+            "ro": "Jardín de la Comunicación",
+            "en": "Jardín de la Comunicación"
+          },
+          "coords": [
+            -102.288075,
+            19.979522
+          ],
+          "category": "historical",
+          "arrive_at": "15:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.67,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem friedlichen historischen Garten, der sich perfekt für eine Mittagspause eignet, und nehmen Sie sich einen Moment Zeit, um die Informationstafeln zu lesen.",
+            "hu": "Pihenjen meg ebben a békés, történelmi kertben, amely tökéletes egy déli pihenőhöz, és szánjon egy percet az információs táblák elolvasására az egyik árnyékos padon.",
+            "ro": "Relaxați-vă în această grădină istorică liniștită, perfectă pentru o pauză la amiază, și faceți-vă timp să citiți plăcuțele informative în timp ce vă odihniți pe o bancă la umbră.",
+            "en": "Relax in this peaceful historical garden perfect for a midday rest, and take a moment to read the informational plaques while enjoying a snack on one of the shaded benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Rotonda de los Hombres Ilustres",
+            "hu": "Rotonda de los Hombres Ilustres",
+            "ro": "Rotonda de los Hombres Ilustres",
+            "en": "Rotonda de los Hombres Ilustres"
+          },
+          "coords": [
+            -102.29161,
+            19.977297
+          ],
+          "category": "historical",
+          "arrive_at": "16:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.44,
+          "tip_5lang": {
+            "de": "Erweisen Sie an dieser monumentalen Hommage an lokale Helden Ihren Respekt und gehen Sie langsam um das Bauwerk herum, um die eingravierten Namen und die Symmetrie zu würdigen.",
+            "hu": "Tisztelgés a helyi hősök emléke előtt ennél a monumentális építménynél, és sétáljon lassan körbe, hogy értékelni tudja a bevésett neveket és a dizájn ünnepélyes szimmetriáját.",
+            "ro": "Aduceți un omagiu la acest tribut monumental dedicat eroilor locali și plimbați-vă încet în jurul structurii pentru a aprecia numele gravate și simetria solemnă a designului.",
+            "en": "Pay your respects at this monumental tribute to local heroes, and walk slowly around the structure to appreciate the engraved names and the solemn symmetry of the design."
+          }
+        },
+        {
+          "name": {
+            "de": "Puente Calzada Zamora- Jacona",
+            "hu": "Puente Calzada Zamora- Jacona",
+            "ro": "Puente Calzada Zamora- Jacona",
+            "en": "Puente Calzada Zamora- Jacona"
+          },
+          "coords": [
+            -102.292555,
+            19.976037
+          ],
+          "category": "historical",
+          "arrive_at": "17:23",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Schlendern Sie über diese historische Brücke, die zwei Städte verbindet, und planen Sie Ihren Besuch zum Sonnenuntergang, um atemberaubende Fotos der Umgebung aufzunehmen.",
+            "hu": "Sétáljon át ezen a két várost összekötő ikonikus, történelmi hídon, és időzítse látogatását naplementére, hogy lenyűgöző fotókat készíthessen a környező tájról és az esti fényekről.",
+            "ro": "Plimbați-vă pe acest pod istoric iconic care leagă două orașe și programați-vă vizita la apusul soarelui pentru a face fotografii uimitoare cu peisajul înconjurător și lumina de seară.",
+            "en": "Stroll across this iconic historical bridge connecting two towns, and time your visit for sunset to capture stunning photos of the surrounding landscape and evening light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihren Tag in Zamora, indem Sie im Museo de la Ciudad in die faszinierende regionale Geschichte eintauchen. Besuchen Sie danach das Acuario Bajo El Mar, das ein wunderbar fesselndes und familienfreundliches Erlebnis bietet.\n\nMidday: Wenn der Tag wärmer wird, tauchen Sie im Teatro Don Bosco in das reiche Theatrerbe der Stadt ein. Die beeindruckende Architektur bereitet die Bühne für das majestätische Teatro Obrero, das die wahre kulturelle Seele Zamoras widerspiegelt.\n\nAfternoon: Machen Sie eine angenehme Pause im Jardín de la Comunicación, einem historischen Park. Sobald Sie sich erholt haben, begeben Sie sich zur Rotonda de los Hombres Ilustres, um die prominenten Persönlichkeiten der Region zu ehren.\n\nEvening: Beenden Sie Ihren Tagesausflug mit einem friedlichen Spaziergang über die Puente Calzada Zamora-Jacona. Die sanfte Abendbrise und die historische Bedeutung der Brücke bieten ein wunderschönes Finale für Ihre Erkundung.",
+        "hu": "Morning: Kezdje a napot Zamorában a Museo de la Ciudad lenyűgöző regionális történelmének felfedezésével. Ezután látogasson el az Acuario Bajo El Mar-ba, amely egy csodálatosan lebilincselő és családbarát élményt nyújt a délelőtt folyamán.\n\nMidday: Ahogy melegszik a nap, merüljön el a város gazdag színházi örökségében a Teatro Don Bosco felkeresésével. A lenyűgöző építészet tökéletesen előkészíti a terepet a fenséges Teatro Obrero számára, amely Zamora igazi kulturális lelkét tükrözi.\n\nAfternoon: Tarts egy kellemes pihenőt a Jardín de la Comunicación nyugodt, történelmi parkjában. Miután felfrissült, induljon a Rotonda de los Hombres Ilustres felé, hogy tisztelegjen a régió identitását formáló kiemelkedő személyiségek előtt.\n\nEvening: Zárja egynapos kirándulását egy békés sétával a Puente Calzada Zamora-Jacona hídon. Az esti szellő és a híd történelmi jelentősége gyönyörű és elgondolkodtató befejezést kínál ennek a vibráló michoacáni városnak a felfedezéséhez.",
+        "ro": "Morning: Începeți-vă ziua în Zamora explorând istoria regională fascinantă la Museo de la Ciudad. Ulterior, îndreptați-vă către Acuario Bajo El Mar, care oferă o experiență minunată și potrivită pentru familii, perfectă pentru dimineață.\n\nMidday: Pe măsură ce ziua se încălzește, cufundați-vă în bogata moștenire teatrală vizitând Teatro Don Bosco. Arhitectura impresionantă pregătește scena pentru maiestuosul Teatro Obrero, reflectând adevăratul suflet cultural al orașului.\n\nAfternoon: Luați o pauză plăcută la Jardín de la Comunicación, un parc istoric senin, perfect pentru relaxare. După ce v-ați odihnit, mergeți la Rotonda de los Hombres Ilustres pentru a onora figurile proeminente ale regiunii.\n\nEvening: Încheiați-vă excursia cu o plimbare liniștită pe Puente Calzada Zamora-Jacona. Briza blândă a serii și importanța istorică a podului oferă un final frumos și reflexiv explorării acestui oraș vibrant din Michoacán.",
+        "en": "Morning: Start your day in Zamora by diving into its fascinating regional history at the Museo de la Ciudad. Afterwards, head over to the Acuario Bajo El Mar, which provides a wonderfully engaging and family-friendly experience to brighten up your morning.\n\nMidday: As the day warms up, immerse yourself in the city's rich theatrical heritage by visiting Teatro Don Bosco. The impressive architecture sets the stage perfectly for your next stop, the majestic Teatro Obrero, reflecting the true cultural soul of Zamora.\n\nAfternoon: Take a pleasant breather at the Jardín de la Comunicación, a serene historical park perfect for relaxing. Once you're refreshed, make your way to the Rotonda de los Hombres Ilustres to honor the prominent figures who shaped the region's identity.\n\nEvening: Conclude your day trip with a peaceful walk across the Puente Calzada Zamora-Jacona. The gentle evening breeze and historical significance of the bridge offer a beautiful and reflective finale to your exploration of this vibrant Michoacán city."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:03",
+      "total_km": 3.52,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo de la Ciudad de Zamora",
+            "hu": "Museo de la Ciudad de Zamora",
+            "ro": "Museo de la Ciudad de Zamora",
+            "en": "Museo de la Ciudad de Zamora"
+          },
+          "coords": [
+            -102.284846,
+            19.995059
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte Zamoras anhand faszinierender lokaler Artefakte und Fotografien, aber prüfen Sie unbedingt zuerst die Wechselausstellungen im Obergeschoss.",
+            "hu": "Fedezze fel Zamora gazdag történelmét a lenyűgöző helyi leleteken és fényképeken keresztül, de mindenképpen érdemes a felső emeleti időszaki kiállításokkal kezdeni.",
+            "ro": "Descoperiți istoria bogată a orașului Zamora prin intermediul unor artefacte și fotografii locale fascinante, dar asigurați-vă că verificați mai întâi expozițiile temporare de la etaj.",
+            "en": "Discover Zamora's rich history through fascinating local artifacts and photographs, but make sure to check the temporary exhibitions on the upper floor first."
+          }
+        },
+        {
+          "name": {
+            "de": "Acuario Bajo El Mar",
+            "hu": "Acuario Bajo El Mar",
+            "ro": "Acuario Bajo El Mar",
+            "en": "Acuario Bajo El Mar"
+          },
+          "coords": [
+            -102.283325,
+            19.987751
+          ],
+          "category": "family",
+          "arrive_at": "10:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.82,
+          "tip_5lang": {
+            "de": "Genießen Sie eine unterhaltsame Familienpause bei der Erkundung der farbenfrohen Ausstellungen zum Meeresleben und versuchen Sie, während der Fütterungszeiten zu kommen.",
+            "hu": "Élvezze a vidám családi kikapcsolódást a színes tengeri élőlények kiállításainak felfedezésével, és próbáljon meg etetési időben érkezni az interaktívabb élményért.",
+            "ro": "Bucurați-vă de o pauză distractivă în familie explorând expozițiile colorate cu viață marină și încercați să vizitați în timpul orelor de hrănire pentru o experiență interactivă.",
+            "en": "Enjoy a fun family break exploring the colorful marine life exhibits, and try to visit during feeding times for a more interactive experience with the fish."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Don Bosco",
+            "hu": "Teatro Don Bosco",
+            "ro": "Teatro Don Bosco",
+            "en": "Teatro Don Bosco"
+          },
+          "coords": [
+            -102.289279,
+            19.986673
+          ],
+          "category": "cultural",
+          "arrive_at": "12:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.62,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur und die intime Atmosphäre dieses kulturellen Veranstaltungsortes und bringen Sie ein Weitwinkelobjektiv mit, um die detaillierte Fassade einzufangen.",
+            "hu": "Csodálja meg e kulturális helyszín klasszikus építészetét és meghitt hangulatát, és hozzon magával nagylátószögű objektívet, hogy megörökíthesse a gyönyörűen részletezett homlokzatot.",
+            "ro": "Admirați arhitectura clasică și atmosfera intimă a acestei locații culturale și aduceți un obiectiv cu unghi larg pentru a surprinde fațada frumos detaliată de vizavi.",
+            "en": "Admire the classic architecture and intimate atmosphere of this cultural venue, and bring a wide-angle lens to capture the beautifully detailed facade from across the street."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Obrero",
+            "hu": "Teatro Obrero",
+            "ro": "Teatro Obrero",
+            "en": "Teatro Obrero"
+          },
+          "coords": [
+            -102.282425,
+            19.982652
+          ],
+          "category": "cultural",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.82,
+          "tip_5lang": {
+            "de": "Bewundern Sie das majestätische neoklassizistische Design und die historische Bedeutung dieses großen Theaters und erkundigen Sie sich frühzeitig an der Abendkasse nach kostenlosen Aufführungen.",
+            "hu": "Csodálja meg e nagyszerű színház fenséges neoklasszikus dizájnját és történelmi jelentőségét, és érdeklődjön korán a pénztárnál az esetleges ingyenes esti előadásokról.",
+            "ro": "Minunați-vă de designul neoclasic maiestuos și de importanța istorică a acestui mare teatru și verificați din timp la casa de bilete dacă sunt programate spectacole gratuite seara.",
+            "en": "Marvel at the majestic neoclassical design and historical significance of this grand theater, and check the box office early to see if any free evening performances are scheduled."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardín de la Comunicación",
+            "hu": "Jardín de la Comunicación",
+            "ro": "Jardín de la Comunicación",
+            "en": "Jardín de la Comunicación"
+          },
+          "coords": [
+            -102.288075,
+            19.979522
+          ],
+          "category": "historical",
+          "arrive_at": "14:51",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.67,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem friedlichen historischen Garten, der sich perfekt für eine Mittagspause eignet, und nehmen Sie sich einen Moment Zeit, um die Informationstafeln zu lesen.",
+            "hu": "Pihenjen meg ebben a békés, történelmi kertben, amely tökéletes egy déli pihenőhöz, és szánjon egy percet az információs táblák elolvasására az egyik árnyékos padon.",
+            "ro": "Relaxați-vă în această grădină istorică liniștită, perfectă pentru o pauză la amiază, și faceți-vă timp să citiți plăcuțele informative în timp ce vă odihniți pe o bancă la umbră.",
+            "en": "Relax in this peaceful historical garden perfect for a midday rest, and take a moment to read the informational plaques while enjoying a snack on one of the shaded benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Rotonda de los Hombres Ilustres",
+            "hu": "Rotonda de los Hombres Ilustres",
+            "ro": "Rotonda de los Hombres Ilustres",
+            "en": "Rotonda de los Hombres Ilustres"
+          },
+          "coords": [
+            -102.29161,
+            19.977297
+          ],
+          "category": "historical",
+          "arrive_at": "15:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.44,
+          "tip_5lang": {
+            "de": "Erweisen Sie an dieser monumentalen Hommage an lokale Helden Ihren Respekt und gehen Sie langsam um das Bauwerk herum, um die eingravierten Namen und die Symmetrie zu würdigen.",
+            "hu": "Tisztelgés a helyi hősök emléke előtt ennél a monumentális építménynél, és sétáljon lassan körbe, hogy értékelni tudja a bevésett neveket és a dizájn ünnepélyes szimmetriáját.",
+            "ro": "Aduceți un omagiu la acest tribut monumental dedicat eroilor locali și plimbați-vă încet în jurul structurii pentru a aprecia numele gravate și simetria solemnă a designului.",
+            "en": "Pay your respects at this monumental tribute to local heroes, and walk slowly around the structure to appreciate the engraved names and the solemn symmetry of the design."
+          }
+        },
+        {
+          "name": {
+            "de": "Puente Calzada Zamora- Jacona",
+            "hu": "Puente Calzada Zamora- Jacona",
+            "ro": "Puente Calzada Zamora- Jacona",
+            "en": "Puente Calzada Zamora- Jacona"
+          },
+          "coords": [
+            -102.292555,
+            19.976037
+          ],
+          "category": "historical",
+          "arrive_at": "17:13",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Schlendern Sie über diese historische Brücke, die zwei Städte verbindet, und planen Sie Ihren Besuch zum Sonnenuntergang, um atemberaubende Fotos der Umgebung aufzunehmen.",
+            "hu": "Sétáljon át ezen a két várost összekötő ikonikus, történelmi hídon, és időzítse látogatását naplementére, hogy lenyűgöző fotókat készíthessen a környező tájról és az esti fényekről.",
+            "ro": "Plimbați-vă pe acest pod istoric iconic care leagă două orașe și programați-vă vizita la apusul soarelui pentru a face fotografii uimitoare cu peisajul înconjurător și lumina de seară.",
+            "en": "Stroll across this iconic historical bridge connecting two towns, and time your visit for sunset to capture stunning photos of the surrounding landscape and evening light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihren Tag in Zamora, indem Sie im Museo de la Ciudad in die faszinierende regionale Geschichte eintauchen. Besuchen Sie danach das Acuario Bajo El Mar, das ein wunderbar fesselndes und familienfreundliches Erlebnis bietet.\n\nMidday: Wenn der Tag wärmer wird, tauchen Sie im Teatro Don Bosco in das reiche Theatrerbe der Stadt ein. Die beeindruckende Architektur bereitet die Bühne für das majestätische Teatro Obrero, das die wahre kulturelle Seele Zamoras widerspiegelt.\n\nAfternoon: Machen Sie eine angenehme Pause im Jardín de la Comunicación, einem historischen Park. Sobald Sie sich erholt haben, begeben Sie sich zur Rotonda de los Hombres Ilustres, um die prominenten Persönlichkeiten der Region zu ehren.\n\nEvening: Beenden Sie Ihren Tagesausflug mit einem friedlichen Spaziergang über die Puente Calzada Zamora-Jacona. Die sanfte Abendbrise und die historische Bedeutung der Brücke bieten ein wunderschönes Finale für Ihre Erkundung.",
+        "hu": "Morning: Kezdje a napot Zamorában a Museo de la Ciudad lenyűgöző regionális történelmének felfedezésével. Ezután látogasson el az Acuario Bajo El Mar-ba, amely egy csodálatosan lebilincselő és családbarát élményt nyújt a délelőtt folyamán.\n\nMidday: Ahogy melegszik a nap, merüljön el a város gazdag színházi örökségében a Teatro Don Bosco felkeresésével. A lenyűgöző építészet tökéletesen előkészíti a terepet a fenséges Teatro Obrero számára, amely Zamora igazi kulturális lelkét tükrözi.\n\nAfternoon: Tarts egy kellemes pihenőt a Jardín de la Comunicación nyugodt, történelmi parkjában. Miután felfrissült, induljon a Rotonda de los Hombres Ilustres felé, hogy tisztelegjen a régió identitását formáló kiemelkedő személyiségek előtt.\n\nEvening: Zárja egynapos kirándulását egy békés sétával a Puente Calzada Zamora-Jacona hídon. Az esti szellő és a híd történelmi jelentősége gyönyörű és elgondolkodtató befejezést kínál ennek a vibráló michoacáni városnak a felfedezéséhez.",
+        "ro": "Morning: Începeți-vă ziua în Zamora explorând istoria regională fascinantă la Museo de la Ciudad. Ulterior, îndreptați-vă către Acuario Bajo El Mar, care oferă o experiență minunată și potrivită pentru familii, perfectă pentru dimineață.\n\nMidday: Pe măsură ce ziua se încălzește, cufundați-vă în bogata moștenire teatrală vizitând Teatro Don Bosco. Arhitectura impresionantă pregătește scena pentru maiestuosul Teatro Obrero, reflectând adevăratul suflet cultural al orașului.\n\nAfternoon: Luați o pauză plăcută la Jardín de la Comunicación, un parc istoric senin, perfect pentru relaxare. După ce v-ați odihnit, mergeți la Rotonda de los Hombres Ilustres pentru a onora figurile proeminente ale regiunii.\n\nEvening: Încheiați-vă excursia cu o plimbare liniștită pe Puente Calzada Zamora-Jacona. Briza blândă a serii și importanța istorică a podului oferă un final frumos și reflexiv explorării acestui oraș vibrant din Michoacán.",
+        "en": "Morning: Start your day in Zamora by diving into its fascinating regional history at the Museo de la Ciudad. Afterwards, head over to the Acuario Bajo El Mar, which provides a wonderfully engaging and family-friendly experience to brighten up your morning.\n\nMidday: As the day warms up, immerse yourself in the city's rich theatrical heritage by visiting Teatro Don Bosco. The impressive architecture sets the stage perfectly for your next stop, the majestic Teatro Obrero, reflecting the true cultural soul of Zamora.\n\nAfternoon: Take a pleasant breather at the Jardín de la Comunicación, a serene historical park perfect for relaxing. Once you're refreshed, make your way to the Rotonda de los Hombres Ilustres to honor the prominent figures who shaped the region's identity.\n\nEvening: Conclude your day trip with a peaceful walk across the Puente Calzada Zamora-Jacona. The gentle evening breeze and historical significance of the bridge offer a beautiful and reflective finale to your exploration of this vibrant Michoacán city."
+      }
+    }
+  }
+}

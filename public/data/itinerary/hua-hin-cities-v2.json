@@ -1,0 +1,543 @@
+{
+  "city_id": "hua-hin-cities-v2",
+  "anchor": {
+    "name": "Hua Hin",
+    "coords": [
+      99.957,
+      12.568
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:55",
+      "total_km": 5.35,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chatsila-Markt",
+            "hu": "Chatsila piac",
+            "ro": "Piața Chatsila",
+            "en": "Chatsila Market"
+          },
+          "coords": [
+            99.956096,
+            12.571065
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die lebhaften Holzstände des Chatsila-Marktes mit lokalem Kunsthandwerk und besuchen Sie die traditionellen Häuser am besten vor dem abendlichen Ansturm.",
+            "hu": "Fedezze fel a Chatsila piac színes, fából készült standjait és helyi kézműves termékeit, és érdemes a történelmi faházakat még a kora esti tömeg érkezése előtt meglátogatni.",
+            "ro": "Explorați tarabele vibrante din lemn ale pieței Chatsila pentru meșteșuguri locale și asigurați-vă că vizitați casele tradiționale înainte de sosirea aglomerației de seară.",
+            "en": "Explore the vibrant wooden stalls of Chatsila Market to discover local handicrafts, and be sure to visit the traditional wooden houses showcasing Hua Hin's history before the evening crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Hua Hin Nachtmarkt",
+            "hu": "Hua Hin éjszakai piac",
+            "ro": "Piața de noapte Hua Hin",
+            "en": "Hua Hin Night Market"
+          },
+          "coords": [
+            99.95518,
+            12.571002
+          ],
+          "category": "landmark",
+          "arrive_at": "10:02",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die geschäftige Atmosphäre des Hua Hin Night Markets ein, wo köstliche Meeresfrüchte locken, kommen Sie also hungrig und verhandeln Sie höflich bei Souvenirs.",
+            "hu": "Merüljön el a Hua Hin éjszakai piac nyüzsgő hangulatában, ahol az ínycsiklandó tengeri herkentyűk a legfőbb vonzerők, ezért érkezzen éhesen, és alkudozzon udvariasan.",
+            "ro": "Lăsați-vă captivați de atmosfera vibrantă a pieței de noapte Hua Hin, unde fructele de mare sunt atracția principală, așa că veniți flămânzi și negociați politicos prețurile.",
+            "en": "Immerse yourself in the bustling atmosphere of Hua Hin Night Market where tantalizing seafood rules, so come with an empty stomach and negotiate politely for the best souvenir prices."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Hua Hin",
+            "hu": "Hua Hin tengerpart",
+            "ro": "Plaja Hua Hin",
+            "en": "Hua Hin Beach"
+          },
+          "coords": [
+            99.964358,
+            12.555992
+          ],
+          "category": "recreational",
+          "arrive_at": "11:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie am weitläufigen weißen Sandstrand von Hua Hin, bekannt für ikonische Ausritte am Meer, der sich ideal für einen Spaziergang vor der Mittagssonne eignet.",
+            "hu": "Pihenjen a híres lovaglási lehetőségeiről és nyugodt vizéről ismert Hua Hin strand finom fehér homokján, amely tökéletes egy kellemes délelőtti sétához a meleg elkerülése végett.",
+            "ro": "Relaxați-vă pe nisipurile albe ale plajei Hua Hin, faimoasă pentru plimbările călare, fiind perfectă pentru o plimbare liniștită înainte ca soarele amiezii să devină prea puternic.",
+            "en": "Relax on the expansive white sands of Hua Hin Beach, known for its iconic horseback rides and calm waters, making it ideal for a morning stroll before the midday sun peaks."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Suk Samran",
+            "hu": "Wat Suk Samran",
+            "ro": "Wat Suk Samran",
+            "en": "Wat Suk Samran"
+          },
+          "coords": [
+            99.940671,
+            12.57094
+          ],
+          "category": "landmark",
+          "arrive_at": "13:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die friedliche Atmosphäre und die thailändische Architektur im Wat Suk Samran, einem ruhigen Rückzugsort, wobei Sie beim Betreten Ihre Schultern bedecken sollten.",
+            "hu": "Csodálja meg a Wat Suk Samran nyugodt légkörét és gyönyörű thai építészetét, de ne felejtse el eltakarni a vállát és a térdét, mielőtt belépne ebbe a békés szentélybe.",
+            "ro": "Admirați atmosfera senină și frumoasa arhitectură thailandeză la Wat Suk Samran, un refugiu pașnic, și nu uitați să vă acoperiți umerii înainte de a păși în sanctuar.",
+            "en": "Admire the serene atmosphere and beautiful Thai architecture at Wat Suk Samran, a peaceful retreat away from the town center, and remember to cover your shoulders before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Vivega Santi Dhamma",
+            "hu": "Wat Vivega Santi Dhamma",
+            "ro": "Wat Vivega Santi Dhamma",
+            "en": "Wat Vivega Santi Dhamma"
+          },
+          "coords": [
+            99.93938,
+            12.571312
+          ],
+          "category": "landmark",
+          "arrive_at": "14:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Finden Sie einen Moment der Ruhe im Wat Vivega Santi Dhamma, einem kleinen lokalen Tempel für stille Reflexion, den Sie am besten mit leicht ausziehbaren Schuhen besuchen.",
+            "hu": "Találja meg a tökéletes nyugalmat a Wat Vivega Santi Dhamma templomban, amely ideális csendes elmélkedésre, és érdemes könnyen levehető cipőben érkezni a belépéshez.",
+            "ro": "Găsiți un moment de liniște absolută la Wat Vivega Santi Dhamma, un templu local perfect pentru reflecție tăcută, cel mai bine vizitat cu încălțăminte ușor de descălțat.",
+            "en": "Find a moment of absolute tranquility at Wat Vivega Santi Dhamma, an intimately scaled local temple perfect for silent reflection, best visited with slip-on shoes for easy entry."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Butsaya Banphot",
+            "hu": "Wat Butsaya Banphot",
+            "ro": "Wat Butsaya Banphot",
+            "en": "Wat Butsaya Banphot"
+          },
+          "coords": [
+            99.940468,
+            12.572834
+          ],
+          "category": "landmark",
+          "arrive_at": "14:45",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Wandern Sie zur markanten Hügellage des Wat Butsaya Banphot hinauf, um Panoramablicke und spirituelle Ruhe zu genießen, und bringen Sie viel Wasser für den steilen Aufstieg mit.",
+            "hu": "Túrázzon fel a Wat Butsaya Banphot hegytetőn lévő szentélyéhez a lenyűgöző panoráma és a lelki béke érdekében, és vigyen magával elegendő vizet a meredek lépcsőkhöz.",
+            "ro": "Urcați la locația impresionantă de pe deal a templului Wat Butsaya Banphot pentru o panoramă superbă, asigurându-vă că aveți suficientă apă pentru treptele destul de abrupte.",
+            "en": "Hike up to the striking hilltop location of Wat Butsaya Banphot to witness panoramic city views alongside spiritual calm, bringing plenty of water for the steep ascending steps."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im pulsierenden Herzen der Stadt, wo Sie historische Holzmärkte erkunden. Gegen Mittag erreichen Sie den berühmten, weitläufigen Sandstrand und genießen die Meeresbrise. Der Nachmittag steht im Zeichen spiritueller Entdeckungen bei einem Spaziergang durch verzierte Tempel. Wenn der Abend naht, belohnt Sie das letzte Heiligtum auf dem Hügel mit Panoramablicken.",
+        "hu": "A nap a város pezsgő szívében indul, történelmi fapiacok felfedezésével még a hőség beállta előtt. Délben elérjük a híres strand homokját, ahol élvezhetjük a tengeri szellőt. A délután a spirituális felfedezésé: helyi díszes templomok együttesét járjuk végig. Ahogy közeledik az este, a legutolsó dombtetőn lévő szentély páratlan panorámával jutalmazza a kitartásunkat.",
+        "ro": "Ziua începe în inima vibrantă a orașului, explorând piețele istorice din lemn înainte de a se instala căldura. Până la prânz, veți ajunge pe faimoasa plajă pentru a vă bucura de briza mării. După-amiaza se transformă într-o descoperire spirituală printre templele locale ornamentate. Spre seară, ultimul sanctuar de pe deal vă răsplătește cu priveliști panoramice deosebite.",
+        "en": "Your day begins in the vibrant heart of the city, exploring historic wooden markets before the heat sets in. By midday, you'll reach the iconic expansive sands of the beach to enjoy the sea breeze. The afternoon shifts to spiritual discovery, ascending through a cluster of ornate local temples. As evening approaches, the final hilltop sanctuary rewards you with sweeping views."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:27",
+      "total_km": 7.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Strand von Hua Hin",
+            "hu": "Hua Hin tengerpart",
+            "ro": "Plaja Hua Hin",
+            "en": "Hua Hin Beach"
+          },
+          "coords": [
+            99.964358,
+            12.555992
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am weitläufigen weißen Sandstrand von Hua Hin, bekannt für ikonische Ausritte am Meer, der sich ideal für einen Spaziergang vor der Mittagssonne eignet.",
+            "hu": "Pihenjen a híres lovaglási lehetőségeiről és nyugodt vizéről ismert Hua Hin strand finom fehér homokján, amely tökéletes egy kellemes délelőtti sétához a meleg elkerülése végett.",
+            "ro": "Relaxați-vă pe nisipurile albe ale plajei Hua Hin, faimoasă pentru plimbările călare, fiind perfectă pentru o plimbare liniștită înainte ca soarele amiezii să devină prea puternic.",
+            "en": "Relax on the expansive white sands of Hua Hin Beach, known for its iconic horseback rides and calm waters, making it ideal for a morning stroll before the midday sun peaks."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Khao Chong Pradu",
+            "hu": "Wat Khao Chong Pradu",
+            "ro": "Wat Khao Chong Pradu",
+            "en": "Wat Khao Chong Pradu"
+          },
+          "coords": [
+            99.931752,
+            12.559084
+          ],
+          "category": "landmark",
+          "arrive_at": "10:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie den versteckten Charme des Wat Khao Chong Pradu in den Hügeln, wo Sie bei früher Ankunft den Alltag der Mönche beobachten können, wenn Sie sich respektvoll ruhig verhalten.",
+            "hu": "Fedezze fel a hegyek lábánál megbúvó Wat Khao Chong Pradu rejtett varázsát, ahol kora reggel megfigyelheti a szerzetesek napi teendőit, ha tiszteletteljes csendben marad.",
+            "ro": "Descoperiți farmecul ascuns al templului Wat Khao Chong Pradu de lângă dealuri, unde puteți observa rutina zilnică a călugărilor dacă sosiți devreme și păstrați liniștea.",
+            "en": "Discover the off-the-beaten-path charm of Wat Khao Chong Pradu, nestled near the hills, where you can observe daily monk routines if you arrive early and maintain respectful silence."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt 3",
+            "hu": "3-as kilátó",
+            "ro": "Punct de belvedere 3",
+            "en": "Viewpoint 3"
+          },
+          "coords": [
+            99.945402,
+            12.562411
+          ],
+          "category": "natural",
+          "arrive_at": "11:32",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Blicken Sie vom Viewpoint 3 auf die weitläufige Küste, der eine einzigartige Perspektive auf die Stadt bietet und sich perfekt für eine kurze und lohnende Fotopause eignet.",
+            "hu": "Vessen egy pillantást a kiterjedt partvidékre a 3-as kilátóból, amely egyedülálló középszintű perspektívát nyújt a városról, és ideális egy gyors fotózási szünethez.",
+            "ro": "Priviți linia de coastă de la Punctul de belvedere 3, care oferă o perspectivă urbană inedită, ideală pentru o scurtă pauză de fotografie în timpul plimbării dumneavoastră.",
+            "en": "Gaze out over the expanding urban coastline from Viewpoint 3, which offers a unique mid-elevation perspective of the city structure, perfect for a quick photography break."
+          }
+        },
+        {
+          "name": {
+            "de": "Khao Hin Lek Fai Aussichtspunkt",
+            "hu": "Khao Hin Lek Fai kilátó",
+            "ro": "Punct de belvedere Khao Hin Lek Fai",
+            "en": "Khao Hin Lek Fai Viewpoint"
+          },
+          "coords": [
+            99.943691,
+            12.565483
+          ],
+          "category": "landmark",
+          "arrive_at": "11:59",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Machen Sie die besten Fotos am Khao Hin Lek Fai Viewpoint, dem berühmtesten Aussichtspunkt in Hua Hin, aber achten Sie gut auf die frechen Affen, die lose Gegenstände klauen könnten.",
+            "hu": "Készítse el a legszebb fotókat a Khao Hin Lek Fai kilátóból, Hua Hin leghíresebb pontjáról, de ügyeljen a helyi majmokra, akik elcsenhetik a lazán tartott tárgyakat.",
+            "ro": "Capturați fotografii spectaculoase la Punctul de belvedere Khao Hin Lek Fai, cel mai faimos loc din zonă, dar fiți atenți la maimuțele rezidente care pot fura obiecte lăsate nesupravegheate.",
+            "en": "Capture the ultimate sunset photos at Khao Hin Lek Fai Viewpoint, the most celebrated elevated spot in Hua Hin, but watch out for the resident monkeys who might snatch loose items."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Rachai Ton Banphot",
+            "hu": "Wat Rachai Ton Banphot",
+            "ro": "Wat Rachai Ton Banphot",
+            "en": "Wat Rachai Ton Banphot"
+          },
+          "coords": [
+            99.939945,
+            12.569465
+          ],
+          "category": "landmark",
+          "arrive_at": "12:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erleben Sie die tiefgreifende Einsamkeit im Wat Rachai Ton Banphot, das wunderschön in die Natur integriert ist, und hinterlassen Sie eine kleine Spende für die Instandhaltung.",
+            "hu": "Tapasztalja meg a természetes környezetébe gyönyörűen illeszkedő Wat Rachai Ton Banphot mély magányát, ahol egy kisebb adomány segít a csodás templomkert fenntartásában.",
+            "ro": "Experimentați solitudinea profundă la Wat Rachai Ton Banphot, frumos integrat în natură, unde lăsarea unei mici donații ajută la întreținerea domeniului acestui templu.",
+            "en": "Experience the profound solitude at Wat Rachai Ton Banphot, beautifully integrated into its natural surroundings, where leaving a small donation helps maintain the temple grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Chatsila-Markt",
+            "hu": "Chatsila piac",
+            "ro": "Piața Chatsila",
+            "en": "Chatsila Market"
+          },
+          "coords": [
+            99.956096,
+            12.571065
+          ],
+          "category": "landmark",
+          "arrive_at": "13:16",
+          "stay_min": 50,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie die lebhaften Holzstände des Chatsila-Marktes mit lokalem Kunsthandwerk und besuchen Sie die traditionellen Häuser am besten vor dem abendlichen Ansturm.",
+            "hu": "Fedezze fel a Chatsila piac színes, fából készült standjait és helyi kézműves termékeit, és érdemes a történelmi faházakat még a kora esti tömeg érkezése előtt meglátogatni.",
+            "ro": "Explorați tarabele vibrante din lemn ale pieței Chatsila pentru meșteșuguri locale și asigurați-vă că vizitați casele tradiționale înainte de sosirea aglomerației de seară.",
+            "en": "Explore the vibrant wooden stalls of Chatsila Market to discover local handicrafts, and be sure to visit the traditional wooden houses showcasing Hua Hin's history before the evening crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Hua Hin Nachtmarkt",
+            "hu": "Hua Hin éjszakai piac",
+            "ro": "Piața de noapte Hua Hin",
+            "en": "Hua Hin Night Market"
+          },
+          "coords": [
+            99.95518,
+            12.571002
+          ],
+          "category": "landmark",
+          "arrive_at": "14:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die geschäftige Atmosphäre des Hua Hin Night Markets ein, wo köstliche Meeresfrüchte locken, kommen Sie also hungrig und verhandeln Sie höflich bei Souvenirs.",
+            "hu": "Merüljön el a Hua Hin éjszakai piac nyüzsgő hangulatában, ahol az ínycsiklandó tengeri herkentyűk a legfőbb vonzerők, ezért érkezzen éhesen, és alkudozzon udvariasan.",
+            "ro": "Lăsați-vă captivați de atmosfera vibrantă a pieței de noapte Hua Hin, unde fructele de mare sunt atracția principală, așa că veniți flămânzi și negociați politicos prețurile.",
+            "en": "Immerse yourself in the bustling atmosphere of Hua Hin Night Market where tantalizing seafood rules, so come with an empty stomach and negotiate politely for the best souvenir prices."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt gemütlich an der morgendlichen Küste, um die frische Meeresluft einzuatmen. Wenn die Sonne höher steigt, radeln Sie ins Landesinnere zu einem ruhigen Waldtempel. Der Nachmittag ist ein aktives Abenteuer und führt zu Aussichtspunkten mit atemberaubenden Blicken. Beenden Sie die Tour in der lebhaften Energie der berühmten Märkte der Stadt.",
+        "hu": "Kezdje a biciklizést a csendes reggeli parton, beszívva a friss parti levegőt. Ahogy a nap magasabbra hág, tekerjen beljebb egy nyugodt erdei templomhoz, távol a tömegtől. A délután aktív kalandot tartogat, festői kilátópontokhoz mászunk, ahonnan belátni az egész várost. Utazása a város legendás piacainak lüktető energiájába ereszkedve ér véget a naplemente közeledtével.",
+        "ro": "Începeți traseul liniștit pe țărmul mării pentru a respira aerul proaspăt al dimineții. Pe măsură ce soarele urcă, pedalați spre interior către un templu pașnic împădurit. După-amiaza aduce o aventură activă, urcând la puncte de belvedere care dezvăluie amploarea orașului. Încheiați călătoria coborând înapoi în energia vibrantă a faimoaselor piețe ale orașului.",
+        "en": "Start your ride smoothly along the quiet morning shorelines to take in the refreshing coastal air. As the sun rises higher, cycle inland to a tranquil forested temple away from the crowds. The afternoon is an active adventure, climbing scenic viewpoints that reveal the city's true scale. End your journey descending back into the vibrant energy of the town's legendary markets."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:41",
+      "total_km": 6.3,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Wat Khao Chong Pradu",
+            "hu": "Wat Khao Chong Pradu",
+            "ro": "Wat Khao Chong Pradu",
+            "en": "Wat Khao Chong Pradu"
+          },
+          "coords": [
+            99.931752,
+            12.559084
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie den versteckten Charme des Wat Khao Chong Pradu in den Hügeln, wo Sie bei früher Ankunft den Alltag der Mönche beobachten können, wenn Sie sich respektvoll ruhig verhalten.",
+            "hu": "Fedezze fel a hegyek lábánál megbúvó Wat Khao Chong Pradu rejtett varázsát, ahol kora reggel megfigyelheti a szerzetesek napi teendőit, ha tiszteletteljes csendben marad.",
+            "ro": "Descoperiți farmecul ascuns al templului Wat Khao Chong Pradu de lângă dealuri, unde puteți observa rutina zilnică a călugărilor dacă sosiți devreme și păstrați liniștea.",
+            "en": "Discover the off-the-beaten-path charm of Wat Khao Chong Pradu, nestled near the hills, where you can observe daily monk routines if you arrive early and maintain respectful silence."
+          }
+        },
+        {
+          "name": {
+            "de": "Khao Hin Lek Fai Aussichtspunkt",
+            "hu": "Khao Hin Lek Fai kilátó",
+            "ro": "Punct de belvedere Khao Hin Lek Fai",
+            "en": "Khao Hin Lek Fai Viewpoint"
+          },
+          "coords": [
+            99.943691,
+            12.565483
+          ],
+          "category": "landmark",
+          "arrive_at": "09:53",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Machen Sie die besten Fotos am Khao Hin Lek Fai Viewpoint, dem berühmtesten Aussichtspunkt in Hua Hin, aber achten Sie gut auf die frechen Affen, die lose Gegenstände klauen könnten.",
+            "hu": "Készítse el a legszebb fotókat a Khao Hin Lek Fai kilátóból, Hua Hin leghíresebb pontjáról, de ügyeljen a helyi majmokra, akik elcsenhetik a lazán tartott tárgyakat.",
+            "ro": "Capturați fotografii spectaculoase la Punctul de belvedere Khao Hin Lek Fai, cel mai faimos loc din zonă, dar fiți atenți la maimuțele rezidente care pot fura obiecte lăsate nesupravegheate.",
+            "en": "Capture the ultimate sunset photos at Khao Hin Lek Fai Viewpoint, the most celebrated elevated spot in Hua Hin, but watch out for the resident monkeys who might snatch loose items."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt 6",
+            "hu": "6-os kilátó",
+            "ro": "Punct de belvedere 6",
+            "en": "Viewpoint 6"
+          },
+          "coords": [
+            99.944745,
+            12.568028
+          ],
+          "category": "natural",
+          "arrive_at": "10:19",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie am Viewpoint 6 einen weniger überlaufenen, atemberaubenden Blick in Richtung der Nordküste und vergessen Sie nicht, spätnachmittags Mückenschutz aufzutragen.",
+            "hu": "Élvezze a kevésbé zsúfolt, északi partokra nyíló lélegzetelállító kilátást a 6-os kilátóból, és mindenképpen használjon szúnyogriasztót, ha késő délután látogat ide.",
+            "ro": "Bucurați-vă de o panoramă uluitoare și mai puțin aglomerată spre țărmurile nordice la Punctul de belvedere 6, și nu uitați spray-ul împotriva țânțarilor după-amiaza.",
+            "en": "Enjoy a less crowded, breathtaking vista stretching towards the northern shores at Viewpoint 6, and make sure to apply mosquito repellent if visiting during the late afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Butsaya Banphot",
+            "hu": "Wat Butsaya Banphot",
+            "ro": "Wat Butsaya Banphot",
+            "en": "Wat Butsaya Banphot"
+          },
+          "coords": [
+            99.940468,
+            12.572834
+          ],
+          "category": "landmark",
+          "arrive_at": "10:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Wandern Sie zur markanten Hügellage des Wat Butsaya Banphot hinauf, um Panoramablicke und spirituelle Ruhe zu genießen, und bringen Sie viel Wasser für den steilen Aufstieg mit.",
+            "hu": "Túrázzon fel a Wat Butsaya Banphot hegytetőn lévő szentélyéhez a lenyűgöző panoráma és a lelki béke érdekében, és vigyen magával elegendő vizet a meredek lépcsőkhöz.",
+            "ro": "Urcați la locația impresionantă de pe deal a templului Wat Butsaya Banphot pentru o panoramă superbă, asigurându-vă că aveți suficientă apă pentru treptele destul de abrupte.",
+            "en": "Hike up to the striking hilltop location of Wat Butsaya Banphot to witness panoramic city views alongside spiritual calm, bringing plenty of water for the steep ascending steps."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Suk Samran",
+            "hu": "Wat Suk Samran",
+            "ro": "Wat Suk Samran",
+            "en": "Wat Suk Samran"
+          },
+          "coords": [
+            99.940671,
+            12.57094
+          ],
+          "category": "landmark",
+          "arrive_at": "11:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die friedliche Atmosphäre und die thailändische Architektur im Wat Suk Samran, einem ruhigen Rückzugsort, wobei Sie beim Betreten Ihre Schultern bedecken sollten.",
+            "hu": "Csodálja meg a Wat Suk Samran nyugodt légkörét és gyönyörű thai építészetét, de ne felejtse el eltakarni a vállát és a térdét, mielőtt belépne ebbe a békés szentélybe.",
+            "ro": "Admirați atmosfera senină și frumoasa arhitectură thailandeză la Wat Suk Samran, un refugiu pașnic, și nu uitați să vă acoperiți umerii înainte de a păși în sanctuar.",
+            "en": "Admire the serene atmosphere and beautiful Thai architecture at Wat Suk Samran, a peaceful retreat away from the town center, and remember to cover your shoulders before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Chatsila-Markt",
+            "hu": "Chatsila piac",
+            "ro": "Piața Chatsila",
+            "en": "Chatsila Market"
+          },
+          "coords": [
+            99.956096,
+            12.571065
+          ],
+          "category": "landmark",
+          "arrive_at": "12:11",
+          "stay_min": 50,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie die lebhaften Holzstände des Chatsila-Marktes mit lokalem Kunsthandwerk und besuchen Sie die traditionellen Häuser am besten vor dem abendlichen Ansturm.",
+            "hu": "Fedezze fel a Chatsila piac színes, fából készült standjait és helyi kézműves termékeit, és érdemes a történelmi faházakat még a kora esti tömeg érkezése előtt meglátogatni.",
+            "ro": "Explorați tarabele vibrante din lemn ale pieței Chatsila pentru meșteșuguri locale și asigurați-vă că vizitați casele tradiționale înainte de sosirea aglomerației de seară.",
+            "en": "Explore the vibrant wooden stalls of Chatsila Market to discover local handicrafts, and be sure to visit the traditional wooden houses showcasing Hua Hin's history before the evening crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Hua Hin Nachtmarkt",
+            "hu": "Hua Hin éjszakai piac",
+            "ro": "Piața de noapte Hua Hin",
+            "en": "Hua Hin Night Market"
+          },
+          "coords": [
+            99.95518,
+            12.571002
+          ],
+          "category": "landmark",
+          "arrive_at": "13:02",
+          "stay_min": 50,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die geschäftige Atmosphäre des Hua Hin Night Markets ein, wo köstliche Meeresfrüchte locken, kommen Sie also hungrig und verhandeln Sie höflich bei Souvenirs.",
+            "hu": "Merüljön el a Hua Hin éjszakai piac nyüzsgő hangulatában, ahol az ínycsiklandó tengeri herkentyűk a legfőbb vonzerők, ezért érkezzen éhesen, és alkudozzon udvariasan.",
+            "ro": "Lăsați-vă captivați de atmosfera vibrantă a pieței de noapte Hua Hin, unde fructele de mare sunt atracția principală, așa că veniți flămânzi și negociați politicos prețurile.",
+            "en": "Immerse yourself in the bustling atmosphere of Hua Hin Night Market where tantalizing seafood rules, so come with an empty stomach and negotiate politely for the best souvenir prices."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Hua Hin",
+            "hu": "Hua Hin tengerpart",
+            "ro": "Plaja Hua Hin",
+            "en": "Hua Hin Beach"
+          },
+          "coords": [
+            99.964358,
+            12.555992
+          ],
+          "category": "recreational",
+          "arrive_at": "13:56",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie am weitläufigen weißen Sandstrand von Hua Hin, bekannt für ikonische Ausritte am Meer, der sich ideal für einen Spaziergang vor der Mittagssonne eignet.",
+            "hu": "Pihenjen a híres lovaglási lehetőségeiről és nyugodt vizéről ismert Hua Hin strand finom fehér homokján, amely tökéletes egy kellemes délelőtti sétához a meleg elkerülése végett.",
+            "ro": "Relaxați-vă pe nisipurile albe ale plajei Hua Hin, faimoasă pentru plimbările călare, fiind perfectă pentru o plimbare liniștită înainte ca soarele amiezii să devină prea puternic.",
+            "en": "Relax on the expansive white sands of Hua Hin Beach, known for its iconic horseback rides and calm waters, making it ideal for a morning stroll before the midday sun peaks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine malerische Morgenfahrt bringt Sie sofort zu einem ruhigen Hügeltempel für besinnliche Momente. Der Mittag ist der Höhe gewidmet, mit Fahrten zwischen spektakulären Aussichtspunkten über den Golf. Ihr Nachmittag verläuft nahtlos von verzierten städtischen Tempeln zu belebten Küstenstraßen. Beenden Sie den Tag dort, wo der Sand auf die Stadt trifft, mit fantastischen Meeresfrüchten.",
+        "hu": "Egy festői reggeli autózás egyenesen egy nyugodt hegyoldali templomhoz visz minket a béke jegyében. A délidőt a magasságnak szenteljük, csodás kilátópontok között autózva, amelyek az öbölre néznek. A délután folyamatosan tér át a díszes városi templomoktól a nyüzsgő tengerparti sugárutak felé. Zárja a napot ott, ahol a homok találkozik a várossal, kiváló ételek társaságában.",
+        "ro": "O scurtă călătorie de dimineață vă duce direct la un templu liniștit de pe deal pentru a începe ziua pașnic. Prânzul este dedicat înălțimilor, conducând între puncte de belvedere superbe cu vedere la golf. După-amiaza trece fluid de la templele urbane ornate la bulevardele aglomerate de coastă. Încheiați ziua unde nisipul întâlnește orașul, savurând fructe de mare proaspete.",
+        "en": "A scenic morning drive takes you immediately to a tranquil hillside temple to start the day with peaceful reflection. Midday is dedicated to sweeping elevation, driving between stunning viewpoints overlooking the gulf. Your afternoon seamlessly transitions from ornate urban temples to the bustling coastal avenues. Conclude the day where the sand meets the city, diving into world-class seafood."
+      }
+    }
+  }
+}

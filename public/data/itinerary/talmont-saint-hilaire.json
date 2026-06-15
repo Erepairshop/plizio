@@ -1,0 +1,428 @@
+{
+  "city_id": "talmont-saint-hilaire",
+  "anchor": {
+    "name": "Talmont-Saint-Hilaire",
+    "coords": [
+      -1.6183,
+      46.4672
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:23",
+      "total_km": 11.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Hilaire",
+            "hu": "Saint-Hilaire templom",
+            "ro": "Biserica Saint-Hilaire",
+            "en": "Saint-Hilaire Church"
+          },
+          "coords": [
+            -1.602912,
+            46.470395
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Buntglasfenster dieser historischen Kirche, aber kommen Sie vor 10 Uhr, um die ruhige Morgenatmosphäre zu genießen.",
+            "hu": "Csodálja meg a történelmi templom ólomüveg ablakait, de érkezzen délelőtt 10 óra előtt, hogy kiélvezze a nyugodt reggeli hangulatot.",
+            "ro": "Admirați vitraliile acestei biserici istorice, dar veniți înainte de ora 10 pentru a vă bucura de atmosfera liniștită a dimineții.",
+            "en": "Start your day admiring the stained glass windows of this historic church, but visit before 10 AM to enjoy the quiet morning atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Havre du Payré",
+            "hu": "Havre du Payré",
+            "ro": "Havre du Payré",
+            "en": "Havre du Payré"
+          },
+          "coords": [
+            -1.62678,
+            46.466174
+          ],
+          "category": "natural",
+          "arrive_at": "10:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses außergewöhnliche Küstenästuar und bringen Sie gute Wanderschuhe mit, um die sandigen und bewaldeten Wege bequem zu bewältigen.",
+            "hu": "Fedezze fel ezt a kivételes torkolatot, és hozzon magával jó túracipőt, hogy kényelmesen bejárhassa a homokos és erdős ösvényeket.",
+            "ro": "Explorați acest estuar de coastă excepțional, aducând o pereche bună de pantofi de mers pentru a naviga confortabil pe traseele nisipoase.",
+            "en": "Explore this exceptional coastal estuary, bringing a good pair of walking shoes to comfortably navigate the sandy and forested trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Talmont",
+            "hu": "Talmont-kastély",
+            "ro": "Castelul Talmont",
+            "en": "Talmont Castle"
+          },
+          "coords": [
+            -1.681663,
+            46.445971
+          ],
+          "category": "fortress",
+          "arrive_at": "12:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 70,
+          "hop_from_prev_km": 4.7,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die mittelalterliche Geschichte dieser Festung von Richard Löwenherz und verpassen Sie nicht die sommerlichen Falknereishows.",
+            "hu": "Merüljön el a középkori történelemben Oroszlánszívű Richárd egykori erődjében, és ne hagyja ki a nyári solymászbemutatókat sem.",
+            "ro": "Cufundați-vă în istoria medievală la această fortăreață deținută odată de Richard Inimă de Leu și nu ratați spectacolele de șoimărit din vară.",
+            "en": "Immerse yourself in medieval history at this fortress once owned by Richard the Lionheart, and don't miss the falconry shows held in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "FKK-Strand",
+            "hu": "Naturista strand",
+            "ro": "Plajă naturistă",
+            "en": "Naturist Beach"
+          },
+          "coords": [
+            -1.652209,
+            46.424871
+          ],
+          "category": "recreational",
+          "arrive_at": "14:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem wunderschönen, abgelegenen Sandstrand in unberührter Natur, aber respektieren Sie die hier geltende Freikörperkultur.",
+            "hu": "Pihenjen ezen a gyönyörű, eldugott homokos partszakaszon az érintetlen természetben, de ne felejtse el tiszteletben tartani a naturista etikettet.",
+            "ro": "Relaxați-vă pe această întindere frumoasă și retrasă de nisip care oferă o natură imaculată, dar nu uitați să respectați eticheta naturistă.",
+            "en": "Relax at this beautiful, secluded stretch of sand which offers pristine nature, but remember to respect the clothing-optional etiquette here."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Mine",
+            "hu": "Plage de la Mine",
+            "ro": "Plage de la Mine",
+            "en": "Plage de la Mine"
+          },
+          "coords": [
+            -1.625682,
+            46.415477
+          ],
+          "category": "recreational",
+          "arrive_at": "16:38",
+          "stay_min": 105,
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Wanderung an diesem von Klippen umgebenen Felsstrand, der sich perfekt für ein abendliches Bad eignet, aber achten Sie auf scharfe Felsen.",
+            "hu": "Fejezze be a túrát ezen a sziklákkal körülvett, gyönyörű tengerparton, amely tökéletes egy esti úszáshoz, bár apálykor vigyázzon az éles sziklákra.",
+            "ro": "Încheiați-vă drumeția la această plajă stâncoasă superbă, perfectă pentru o baie de seară, deși aveți grijă la stâncile ascuțite la reflux.",
+            "en": "End your hike at this gorgeous rocky beach surrounded by cliffs, perfect for an evening swim, though watch out for the sharp rocks at low tide."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erleben Sie einen aktiven Morgen in Talmont-Saint-Hilaire, beginnend mit der beeindruckenden Architektur der Église Saint-Hilaire. Danach führt Sie der Weg in die Natur zum malerischen Havre du Payré, wo Sie die frische Küstenbrise und eine einzigartige Landschaft voll auskosten können. Am Mittag tauchen Sie im Château de Talmont tief in die spannende mittelalterliche Geschichte der Region ein. Der Nachmittag bietet pure Entspannung am ruhigen FKK-Strand, bevor der Tag an der zerklüfteten, wunderschönen Küste der Plage de la Mine bei einem unvergesslichen abendlichen Sonnenuntergang langsam ausklingt.",
+        "hu": "Kezdje a napot Talmont-Saint-Hilaire szívében, a történelmi Saint-Hilaire templom felfedezésével. Ezután egy frissítő sétával érje el a festői Havre du Payré torkolatot, amelynek természeti szépsége mindenkit lenyűgöz. Délben a lenyűgöző Talmont-kastély várja, ahol Oroszlánszívű Richárd korába utazhat vissza. A délutánt a békés naturista partján töltheti, élvezve a napfényt és az óceánt, majd az estét a sziklás Plage de la Mine gyönyörű környezetében zárhatja le, miközben a lemenő nap sugarai megvilágítják a partot.",
+        "ro": "Începeți ziua în Talmont-Saint-Hilaire explorând arhitectura uimitoare a Bisericii Saint-Hilaire, plină de istorie. Apoi, faceți o plimbare revigorantă spre Havre du Payré, unde frumusețea naturală a estuarului vă va tăia respirația. La prânz, vizitați Castelul Talmont pentru a descoperi legendele medievale și influența lui Richard Inimă de Leu. După-amiaza vă aduce relaxare pe nisipurile liniștite de la plaja naturistă, iar seara se încheie perfect la Plage de la Mine, unde stâncile spectaculoase și briza oceanului creează o atmosferă magică la apus.",
+        "en": "Kick off your morning in Talmont-Saint-Hilaire by exploring the historic architecture of the Saint-Hilaire Church. Next, take a refreshing walk to the stunning coastal estuary of Havre du Payré, breathing in the salty ocean air. By midday, step back into medieval times at the formidable Talmont Castle, a fortress rich in legend. Spend a relaxing afternoon unwinding on the secluded sands of the naturist beach, before concluding your day trip at the dramatic Plage de la Mine, where rocky cliffs provide the perfect backdrop for an unforgettable seaside sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 11.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Automobilmuseum der Vendée",
+            "hu": "Vendée Autómúzeum",
+            "ro": "Muzeul Automobilului din Vendée",
+            "en": "Vendée Automobile Museum"
+          },
+          "coords": [
+            -1.667531,
+            46.477335
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine bemerkenswerte Sammlung von über 150 Oldtimern und kommen Sie früh, um in Ruhe Fotos Ihrer Lieblingsklassiker zu machen.",
+            "hu": "Fedezze fel a több mint 150 veterán autóból álló figyelemre méltó gyűjteményt, és érkezzen korán, hogy elkerülje a tömeget fotózás közben.",
+            "ro": "Descoperiți o colecție remarcabilă de peste 150 de mașini de epocă și ajungeți devreme pentru a evita aglomerația în timp ce faceți fotografii.",
+            "en": "Discover a remarkable collection of over 150 vintage cars, and arrive early to beat the crowds while snapping photos of your favorite classics."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Talmont",
+            "hu": "Talmont-kastély",
+            "ro": "Castelul Talmont",
+            "en": "Talmont Castle"
+          },
+          "coords": [
+            -1.681663,
+            46.445971
+          ],
+          "category": "fortress",
+          "arrive_at": "11:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die mittelalterliche Geschichte dieser Festung von Richard Löwenherz und verpassen Sie nicht die sommerlichen Falknereishows.",
+            "hu": "Merüljön el a középkori történelemben Oroszlánszívű Richárd egykori erődjében, és ne hagyja ki a nyári solymászbemutatókat sem.",
+            "ro": "Cufundați-vă în istoria medievală la această fortăreață deținută odată de Richard Inimă de Leu și nu ratați spectacolele de șoimărit din vară.",
+            "en": "Immerse yourself in medieval history at this fortress once owned by Richard the Lionheart, and don't miss the falconry shows held in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "FKK-Strand",
+            "hu": "Naturista strand",
+            "ro": "Plajă naturistă",
+            "en": "Naturist Beach"
+          },
+          "coords": [
+            -1.652209,
+            46.424871
+          ],
+          "category": "recreational",
+          "arrive_at": "12:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem wunderschönen, abgelegenen Sandstrand in unberührter Natur, aber respektieren Sie die hier geltende Freikörperkultur.",
+            "hu": "Pihenjen ezen a gyönyörű, eldugott homokos partszakaszon az érintetlen természetben, de ne felejtse el tiszteletben tartani a naturista etikettet.",
+            "ro": "Relaxați-vă pe această întindere frumoasă și retrasă de nisip care oferă o natură imaculată, dar nu uitați să respectați eticheta naturistă.",
+            "en": "Relax at this beautiful, secluded stretch of sand which offers pristine nature, but remember to respect the clothing-optional etiquette here."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Four à Chaux",
+            "hu": "Plage du Four à Chaux",
+            "ro": "Plage du Four à Chaux",
+            "en": "Plage du Four à Chaux"
+          },
+          "coords": [
+            -1.618849,
+            46.412895
+          ],
+          "category": "recreational",
+          "arrive_at": "14:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den malerischen Meerblick von dieser charmanten, ruhigen Bucht und packen Sie ein leichtes Picknick ein, das Sie beim Rauschen der Wellen essen.",
+            "hu": "Élvezze a festői óceáni kilátást ebből a bájos, kevésbé zsúfolt öbölből, és hozzon egy könnyű pikniket, amit a hullámok hallgatása közben elfogyaszthat.",
+            "ro": "Bucurați-vă de vederea pitorească la ocean din acest golf fermecător, pregătind un picnic ușor de mâncat în timp ce ascultați valurile liniștitoare.",
+            "en": "Enjoy the scenic ocean views from this charming, less-crowded cove, packing a light picnic to eat while listening to the soothing waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Abbaye du Lieu-Dieu",
+            "hu": "Lieu-Dieu Apátság",
+            "ro": "Abația Lieu-Dieu",
+            "en": "Lieu-Dieu Abbey"
+          },
+          "coords": [
+            -1.602537,
+            46.420827
+          ],
+          "category": "monastic",
+          "arrive_at": "15:40",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie die friedlichen Ruinen dieser von Richard Löwenherz gegründeten Abtei und tragen Sie am späten Nachmittag besser Mückenspray auf.",
+            "hu": "Látogassa meg az Oroszlánszívű Richárd által alapított apátság békés romjait, és ügyeljen a szúnyogriasztó használatára a késő délutáni órákban.",
+            "ro": "Vizitați ruinele pașnice ale acestei abații fondate de Richard Inimă de Leu, asigurându-vă că folosiți repelent de țânțari după-amiaza.",
+            "en": "Visit the peaceful ruins of this historic abbey founded by Richard the Lionheart, ensuring you wear mosquito repellent if visiting in late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Fahrradtour mit einer Reise durch die Geschichte im faszinierenden Automobilmuseum der Vendée, ideal für alle Oldtimer-Fans. Danach radeln Sie gemütlich zum historischen Château de Talmont, wo die mittelalterliche Architektur begeistert. Die Mittagspause verbringen Sie in unberührter Natur am ruhigen FKK-Strand. Am Nachmittag genießen Sie die salzige Meeresluft und malerischen Klippen am Plage du Four à Chaux, bevor Sie den Abend in den stillen, stimmungsvollen Ruinen der Abbaye du Lieu-Dieu ausklingen lassen.",
+        "hu": "Indítsa kerékpártúráját a Vendée Autómúzeumban, ahol lenyűgöző veterán autókat csodálhat meg, mielőtt a történelmi Talmont-kastély felé veszi az irányt. A délidőt egy pihentető megállóval töltheti a békés naturista partján, ahol a tengerparti táj frissítő élményt nyújt. Délután tekerjen el a festői Plage du Four à Chaux sziklás öblébe, amely tökéletes egy tengerparti sétához. Végül fejezze be a napot a Lieu-Dieu Apátság varázslatos romjainál, amelyek történelmi nyugalmat sugároznak a lemenő nap fényében.",
+        "ro": "Începeți turul cu bicicleta la Muzeul Automobilului din Vendée, explorând o colecție fascinantă de vehicule clasice, apoi pedalați spre impunătorul Castel Talmont. La prânz, relaxați-vă în liniște pe nisipurile plajei naturiste, ascultând sunetul valurilor oceanului. După-amiaza vă poartă către frumoasa Plage du Four à Chaux, unde peisajele stâncoase vă vor încânta. Încheiați-vă ziua de explorare printre ruinele pașnice ale Abației Lieu-Dieu, bucurându-vă de atmosfera istorică sub lumina caldă a soarelui de seară.",
+        "en": "Start your cycling adventure at the Vendée Automobile Museum, marveling at the extensive collection of beautifully restored classic cars. Pedal your way to the historic Talmont Castle, where the imposing walls whisper tales of the Middle Ages. Enjoy a midday break relaxing on the peaceful sands of the naturist beach, feeling the warm ocean breeze. In the afternoon, explore the picturesque rocky coves of Plage du Four à Chaux, and finally, end your journey wandering through the serene and evocative ruins of Lieu-Dieu Abbey at dusk."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:21",
+      "total_km": 23.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Hilaire",
+            "hu": "Saint-Hilaire templom",
+            "ro": "Biserica Saint-Hilaire",
+            "en": "Saint-Hilaire Church"
+          },
+          "coords": [
+            -1.602912,
+            46.470395
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Buntglasfenster dieser historischen Kirche, aber kommen Sie vor 10 Uhr, um die ruhige Morgenatmosphäre zu genießen.",
+            "hu": "Csodálja meg a történelmi templom ólomüveg ablakait, de érkezzen délelőtt 10 óra előtt, hogy kiélvezze a nyugodt reggeli hangulatot.",
+            "ro": "Admirați vitraliile acestei biserici istorice, dar veniți înainte de ora 10 pentru a vă bucura de atmosfera liniștită a dimineții.",
+            "en": "Start your day admiring the stained glass windows of this historic church, but visit before 10 AM to enjoy the quiet morning atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Automobilmuseum der Vendée",
+            "hu": "Vendée Autómúzeum",
+            "ro": "Muzeul Automobilului din Vendée",
+            "en": "Vendée Automobile Museum"
+          },
+          "coords": [
+            -1.667531,
+            46.477335
+          ],
+          "category": "museum",
+          "arrive_at": "10:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine bemerkenswerte Sammlung von über 150 Oldtimern und kommen Sie früh, um in Ruhe Fotos Ihrer Lieblingsklassiker zu machen.",
+            "hu": "Fedezze fel a több mint 150 veterán autóból álló figyelemre méltó gyűjteményt, és érkezzen korán, hogy elkerülje a tömeget fotózás közben.",
+            "ro": "Descoperiți o colecție remarcabilă de peste 150 de mașini de epocă și ajungeți devreme pentru a evita aglomerația în timp ce faceți fotografii.",
+            "en": "Discover a remarkable collection of over 150 vintage cars, and arrive early to beat the crowds while snapping photos of your favorite classics."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Talmont",
+            "hu": "Talmont-kastély",
+            "ro": "Castelul Talmont",
+            "en": "Talmont Castle"
+          },
+          "coords": [
+            -1.681663,
+            46.445971
+          ],
+          "category": "fortress",
+          "arrive_at": "11:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die mittelalterliche Geschichte dieser Festung von Richard Löwenherz und verpassen Sie nicht die sommerlichen Falknereishows.",
+            "hu": "Merüljön el a középkori történelemben Oroszlánszívű Richárd egykori erődjében, és ne hagyja ki a nyári solymászbemutatókat sem.",
+            "ro": "Cufundați-vă în istoria medievală la această fortăreață deținută odată de Richard Inimă de Leu și nu ratați spectacolele de șoimărit din vară.",
+            "en": "Immerse yourself in medieval history at this fortress once owned by Richard the Lionheart, and don't miss the falconry shows held in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Ragounite",
+            "hu": "Plage de Ragounite",
+            "ro": "Plage de Ragounite",
+            "en": "Plage de Ragounite"
+          },
+          "coords": [
+            -1.612343,
+            46.41291
+          ],
+          "category": "recreational",
+          "arrive_at": "13:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 6.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie bei Ebbe die faszinierenden Gezeitentümpel an diesem rauen Küstenabschnitt und tragen Sie unbedingt Wasserschuhe zum Schutz.",
+            "hu": "Apálykor fedezze fel a lenyűgöző sziklamedencéket ezen a zord partszakaszon, és mindenképpen viseljen vízi cipőt az éles kövek elleni védelem érdekében.",
+            "ro": "Explorați bazinele de stâncă la reflux pe această coastă accidentată, asigurându-vă că purtați pantofi de apă pentru a vă proteja de pietre.",
+            "en": "Explore the fascinating rock pools at low tide on this rugged stretch of coast, making sure to wear water shoes to protect against jagged stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Abbaye du Lieu-Dieu",
+            "hu": "Lieu-Dieu Apátság",
+            "ro": "Abația Lieu-Dieu",
+            "en": "Lieu-Dieu Abbey"
+          },
+          "coords": [
+            -1.602537,
+            46.420827
+          ],
+          "category": "monastic",
+          "arrive_at": "14:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie die friedlichen Ruinen dieser von Richard Löwenherz gegründeten Abtei und tragen Sie am späten Nachmittag besser Mückenspray auf.",
+            "hu": "Látogassa meg az Oroszlánszívű Richárd által alapított apátság békés romjait, és ügyeljen a szúnyogriasztó használatára a késő délutáni órákban.",
+            "ro": "Vizitați ruinele pașnice ale acestei abații fondate de Richard Inimă de Leu, asigurându-vă că folosiți repelent de țânțari după-amiaza.",
+            "en": "Visit the peaceful ruins of this historic abbey founded by Richard the Lionheart, ensuring you wear mosquito repellent if visiting in late afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Rocher",
+            "hu": "Plage du Rocher",
+            "ro": "Plage du Rocher",
+            "en": "Plage du Rocher"
+          },
+          "coords": [
+            -1.506594,
+            46.399128
+          ],
+          "category": "recreational",
+          "arrive_at": "15:36",
+          "stay_min": 105,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 7.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem langen, von Pinienwäldern gesäumten Strand entlang und nutzen Sie den nahegelegenen Parkplatz für einen spektakulären Sonnenuntergang.",
+            "hu": "Sétáljon végig ezen a fenyőerdőkkel szegélyezett, hívogató strandon, és használja a közeli parkolót a látványos naplemente kényelmes megtekintéséhez.",
+            "ro": "Plimbați-vă de-a lungul acestei plaje lungi mărginite de păduri de pini și folosiți parcarea din apropiere pentru acces ușor la un apus spectaculos.",
+            "en": "Stroll along this long, inviting beach lined with pine forests, and use the nearby parking lot for easy access to a spectacular sunset view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Entdeckungstour mit dem Auto an der charmanten Église Saint-Hilaire im Zentrum, bevor Sie die faszinierenden Oldtimer im Automobilmuseum bestaunen. Gegen Mittag erkunden Sie die mächtigen Mauern des mittelalterlichen Château de Talmont, das eine reiche Geschichte bietet. Fahren Sie am Nachmittag an die Küste zum Plage de Ragounite, um die wilden Felsformationen zu bewundern. Beenden Sie die Tour nach einem kurzen Stopp an der Abbaye du Lieu-Dieu mit einem entspannten Abendspaziergang und einem malerischen Sonnenuntergang am weitläufigen Plage du Rocher.",
+        "hu": "Autós kirándulását a központban található Saint-Hilaire templom meglátogatásával kezdje, majd merüljön el a régi autók világában a Vendée Autómúzeumban. Délben a középkori Talmont-kastély lenyűgöző falai között tehet egy időutazást, felfedezve a környék gazdag történelmét. Délután vezessen a part mentén a Plage de Ragounite vad, sziklás strandjához, majd tegyen egy rövid kitérőt a történelmi Lieu-Dieu Apátság romjaihoz. Az estét a hosszú és hívogató Plage du Rocher partján zárja, élvezve a csodálatos naplementét és a tenger zúgását.",
+        "ro": "Începeți excursia cu mașina vizitând Biserica Saint-Hilaire din centrul orașului, urmată de o oprire fascinantă la Muzeul Automobilului din Vendée. La prânz, explorați zidurile fortificate ale Castelului Talmont, o adevărată capodoperă a arhitecturii medievale din regiune. După-amiaza, conduceți spre Plage de Ragounite pentru a admira formațiunile stâncoase sălbatice și vizitați scurt ruinele istorice ale Abației Lieu-Dieu. Seara, relaxați-vă cu o plimbare lungă pe nisipul fin de la Plage du Rocher, admirând un apus de soare spectaculos peste ocean.",
+        "en": "Kickstart your driving tour in the heart of town at the Saint-Hilaire Church, followed by an exciting visit to the vintage collections at the Vendée Automobile Museum. By midday, wander through the historic ruins of Talmont Castle, immersing yourself in local medieval lore. In the afternoon, cruise along the coast to the rugged shores of Plage de Ragounite, and make a quick stop at the peaceful Lieu-Dieu Abbey. Conclude your day trip unwinding on the expansive Plage du Rocher, enjoying the gentle waves and a stunning sunset over the ocean."
+      }
+    }
+  }
+}

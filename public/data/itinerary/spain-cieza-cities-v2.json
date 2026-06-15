@@ -1,0 +1,451 @@
+{
+  "city_id": "spain-cieza-cities-v2",
+  "anchor": {
+    "name": "Cieza",
+    "coords": [
+      -1.427531,
+      38.236894
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:59",
+      "total_km": 1.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Monumento a la Muda",
+            "hu": "Monumento a la Muda",
+            "ro": "Monumento a la Muda",
+            "en": "Monumento a la Muda"
+          },
+          "coords": [
+            -1.429232,
+            38.23681
+          ],
+          "category": "monument",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Dieses Denkmal ehrt die einheimischen Frauen und ihre historischen Kämpfe, also nehmen Sie sich Zeit für die Details, bevor Sie ins Zentrum gehen.",
+            "hu": "Ez a lenyűgöző emlékmű a helyi nők történelmi küzdelmeit tiszteli, ezért érdemes megfigyelni a részleteit, mielőtt a városközpont felé venné az irányt.",
+            "ro": "Acest monument impresionant onorează femeile locale și luptele lor istorice, așa că admirați-i detaliile înainte de a vă îndrepta spre centrul orașului.",
+            "en": "This striking monument honors local women and their historical struggles, so take a moment to admire its details before heading into the town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de la Semana Santa",
+            "hu": "Museo de la Semana Santa",
+            "ro": "Museo de la Semana Santa",
+            "en": "Museo de la Semana Santa"
+          },
+          "coords": [
+            -1.426895,
+            38.237532
+          ],
+          "category": "museum",
+          "arrive_at": "09:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Kunstfertigkeit von Ciezas Karwochen-Wagen in diesem Museum und sehen Sie sich das Einführungsvideo für den kulturellen Kontext an.",
+            "hu": "Fedezze fel Cieza nagyheti körmeneteinek művészetét ebben a múzeumban, és mindenképpen nézze meg a bevezető videót a kulturális kontextus megértéséhez.",
+            "ro": "Descoperiți măiestria carelor de Săptămâna Mare din Cieza în acest muzeu captivant și vizionați videoclipul introductiv pentru un context cultural profund.",
+            "en": "Discover the profound artistry of Cieza's Holy Week floats in this immersive museum, and be sure to watch the introductory video for deep cultural context."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Siyâsa",
+            "hu": "Museo de Siyâsa",
+            "ro": "Museo de Siyâsa",
+            "en": "Museo de Siyâsa"
+          },
+          "coords": [
+            -1.423941,
+            38.236774
+          ],
+          "category": "museum",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Das Museum zeigt andalusische Artefakte und Rekonstruktionen maurischer Häuser, was mit dem Audioguide zu einem unglaublichen historischen Erlebnis wird.",
+            "hu": "Az andalúziai leleteket és mór házak rekonstrukcióit bemutató múzeum hihetetlen történelmi utazást kínál, ha az audióvezetőt is használja a látogatás során.",
+            "ro": "Prezentând artefacte andaluze și reconstrucții de case maure, acest muzeu oferă o incursiune istorică incredibilă dacă alegeți să folosiți ghidul audio.",
+            "en": "Showcasing Andalusian artifacts and full-scale reconstructions of Moorish houses, this museum offers an incredible historical dive if you follow the audio guide."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Esparto",
+            "hu": "Museo del Esparto",
+            "ro": "Museo del Esparto",
+            "en": "Museo del Esparto"
+          },
+          "coords": [
+            -1.422024,
+            38.240639
+          ],
+          "category": "museum",
+          "arrive_at": "13:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Lernen Sie an interaktiven Webstühlen die Espartogras-Industrie kennen, die Ciezas Wirtschaft prägte, und bitten Sie um eine kurze Web-Demonstration.",
+            "hu": "Ismerje meg a Cieza gazdaságát formáló eszpartófű-ipart az interaktív szövőszékeken keresztül, és kérjen egy gyors bemutatót az idegenvezetőktől.",
+            "ro": "Aflați despre industria ierbii de esparto care a modelat economia prin războaie de țesut interactive și cereți ghizilor o demonstrație rapidă.",
+            "en": "Learn about the esparto grass industry that shaped Cieza's economy through interactive looms, and ask the guides for a quick demonstration of the weaving."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita del Santo Cristo",
+            "hu": "Ermita del Santo Cristo",
+            "ro": "Ermita del Santo Cristo",
+            "en": "Ermita del Santo Cristo"
+          },
+          "coords": [
+            -1.425899,
+            38.244386
+          ],
+          "category": "religious",
+          "arrive_at": "14:49",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Diese Einsiedelei auf dem Hügel bietet religiöse Kunst und Panoramablicke auf das Tal, was sie zum perfekten friedlichen Ort für späte Nachmittagsfotos macht.",
+            "hu": "Ez a dombtetőn álló remetelak békés vallási művészetet és panorámás kilátást nyújt a völgyre, így tökéletes helyszín a késő délutáni fotózáshoz.",
+            "ro": "Acest schit din vârf de deal oferă artă religioasă și vederi panoramice asupra văii, fiind locul liniștit perfect pentru fotografiile de după-amiază.",
+            "en": "This hilltop hermitage offers serene religious art and panoramic views of the entire valley, making it the perfect peaceful spot for late afternoon photography."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am Monumento a la Muda, bevor Sie im Museo de la Semana Santa majestätische Wagen bestaunen. Der Mittag ist perfekt, um das Museo de Siyâsa mit seinen maurischen Rekonstruktionen zu erkunden. Der Nachmittag führt zum Museo del Esparto für Einblicke ins Flechthandwerk. Der Abend endet mit friedlichem Talblick an der Ermita del Santo Cristo.",
+        "hu": "A reggel a Monumento a la Mudánál indul, majd a Museo de la Semana Santa fenséges alkotásait csodáljuk meg. A dél tökéletes a Museo de Siyâsa mór házrekonstrukcióinak felfedezésére. Délután az eszpartófű-fonás mesterségével ismerkedünk a Museo del Esparto termeiben. Az estét a völgyre nyíló békés kilátás zárja az Ermita del Santo Cristo dombján.",
+        "ro": "Dimineața începe la Monumento a la Muda, înainte de a vedea carele maiestuoase la Museo de la Semana Santa. Prânzul este perfect pentru explorarea Museo de Siyâsa cu reconstrucțiile sale maure. După-amiaza vă duce la Museo del Esparto pentru a învăța despre țesut. Seara se încheie cu o priveliște pașnică asupra văii de la Ermita del Santo Cristo.",
+        "en": "Morning starts at the Monumento a la Muda, honoring local heritage, before diving into the Museo de la Semana Santa to see majestic floats. Midday is perfect for exploring the Museo de Siyâsa with its stunning Moorish house reconstructions. Afternoon leads to the Museo del Esparto to learn about the grass-weaving trade. Evening concludes with peaceful valley views at Ermita del Santo Cristo."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:54",
+      "total_km": 3.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo Molino de Teodoro",
+            "hu": "Museo Molino de Teodoro",
+            "ro": "Museo Molino de Teodoro",
+            "en": "Museo Molino de Teodoro"
+          },
+          "coords": [
+            -1.433161,
+            38.236054
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese restaurierte Wassermühle, um die traditionelle Mehlproduktion zu verstehen, und besuchen Sie sie, wenn die Mühlsteine in Bewegung gesetzt werden.",
+            "hu": "Fedezze fel ezt a felújított vízimalmot a hagyományos lisztgyártás megismeréséhez, és próbálja akkor látogatni, amikor a malomköveket beindítják a vendégeknek.",
+            "ro": "Explorați această moară de apă restaurată pentru a înțelege producția tradițională de făină și încercați să vizitați când pietrele de moară sunt puse în mișcare.",
+            "en": "Explore this restored water mill to understand traditional flour production, and try to visit when the millstones are occasionally set into motion for visitors."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a la Muda",
+            "hu": "Monumento a la Muda",
+            "ro": "Monumento a la Muda",
+            "en": "Monumento a la Muda"
+          },
+          "coords": [
+            -1.429232,
+            38.23681
+          ],
+          "category": "monument",
+          "arrive_at": "10:53",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Dieses Denkmal ehrt die einheimischen Frauen und ihre historischen Kämpfe, also nehmen Sie sich Zeit für die Details, bevor Sie ins Zentrum gehen.",
+            "hu": "Ez a lenyűgöző emlékmű a helyi nők történelmi küzdelmeit tiszteli, ezért érdemes megfigyelni a részleteit, mielőtt a városközpont felé venné az irányt.",
+            "ro": "Acest monument impresionant onorează femeile locale și luptele lor istorice, așa că admirați-i detaliile înainte de a vă îndrepta spre centrul orașului.",
+            "en": "This striking monument honors local women and their historical struggles, so take a moment to admire its details before heading into the town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Siyâsa",
+            "hu": "Museo de Siyâsa",
+            "ro": "Museo de Siyâsa",
+            "en": "Museo de Siyâsa"
+          },
+          "coords": [
+            -1.423941,
+            38.236774
+          ],
+          "category": "museum",
+          "arrive_at": "11:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das Museum zeigt andalusische Artefakte und Rekonstruktionen maurischer Häuser, was mit dem Audioguide zu einem unglaublichen historischen Erlebnis wird.",
+            "hu": "Az andalúziai leleteket és mór házak rekonstrukcióit bemutató múzeum hihetetlen történelmi utazást kínál, ha az audióvezetőt is használja a látogatás során.",
+            "ro": "Prezentând artefacte andaluze și reconstrucții de case maure, acest muzeu oferă o incursiune istorică incredibilă dacă alegeți să folosiți ghidul audio.",
+            "en": "Showcasing Andalusian artifacts and full-scale reconstructions of Moorish houses, this museum offers an incredible historical dive if you follow the audio guide."
+          }
+        },
+        {
+          "name": {
+            "de": "Puente del Argaz",
+            "hu": "Puente del Argaz",
+            "ro": "Puente del Argaz",
+            "en": "Puente del Argaz"
+          },
+          "coords": [
+            -1.415227,
+            38.233153
+          ],
+          "category": "landmark",
+          "arrive_at": "12:56",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Diese charmante historische Brücke über den Fluss Segura bietet eine hervorragende Fotokulisse. Bringen Sie also ein Weitwinkelobjektiv für die Natur mit.",
+            "hu": "A Segura folyón átívelő bájos történelmi híd kiváló hátteret biztosít a fotókhoz, ezért hozzon magával nagylátószögű objektívet a természet megörökítéséhez.",
+            "ro": "Un pod istoric fermecător peste râul Segura, oferă un fundal excelent pentru fotografii, așa că aduceți un obiectiv cu unghi larg pentru a surprinde natura.",
+            "en": "A charming historical bridge crossing the Segura River, it provides an excellent backdrop for photos, so bring a wide-angle lens to capture the surrounding nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Esparto",
+            "hu": "Museo del Esparto",
+            "ro": "Museo del Esparto",
+            "en": "Museo del Esparto"
+          },
+          "coords": [
+            -1.422024,
+            38.240639
+          ],
+          "category": "museum",
+          "arrive_at": "13:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Lernen Sie an interaktiven Webstühlen die Espartogras-Industrie kennen, die Ciezas Wirtschaft prägte, und bitten Sie um eine kurze Web-Demonstration.",
+            "hu": "Ismerje meg a Cieza gazdaságát formáló eszpartófű-ipart az interaktív szövőszékeken keresztül, és kérjen egy gyors bemutatót az idegenvezetőktől.",
+            "ro": "Aflați despre industria ierbii de esparto care a modelat economia prin războaie de țesut interactive și cereți ghizilor o demonstrație rapidă.",
+            "en": "Learn about the esparto grass industry that shaped Cieza's economy through interactive looms, and ask the guides for a quick demonstration of the weaving."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditorio Gabriel Celaya",
+            "hu": "Auditorio Gabriel Celaya",
+            "ro": "Auditorio Gabriel Celaya",
+            "en": "Auditorio Gabriel Celaya"
+          },
+          "coords": [
+            -1.422113,
+            38.241716
+          ],
+          "category": "cultural",
+          "arrive_at": "15:09",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Dieser moderne Veranstaltungsort besticht durch seine markante Architektur, die auch ohne eine geplante Show einen Spaziergang um das Außengelände wert ist.",
+            "hu": "Ez a modern kulturális helyszín lenyűgöző építészeti vonalakkal rendelkezik, így még akkor is érdemes körbesétálni, ha éppen nincs betervezve semmilyen előadás.",
+            "ro": "Acest loc cultural modern găzduiește evenimente și oferă linii arhitecturale izbitoare, meritând o plimbare exterioară chiar dacă nu sunt spectacole programate.",
+            "en": "This modern cultural venue hosts various events and offers striking architectural lines, making it worth a walk around the exterior even if no shows are scheduled."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie den Tag mit einer Fahrt zum Museo Molino de Teodoro und einem Halt am Monumento a la Muda. Mittags besuchen Sie das Museo de Siyâsa, um die andalusische Geschichte zu entdecken. Am Nachmittag radeln Sie über die Puente del Argaz zum interaktiven Museo del Esparto. Der Abend klingt an der markanten Architektur des Auditorio Gabriel Celaya aus.",
+        "hu": "Indítsa a napot a Museo Molino de Teodoro felé tekerve, majd álljon meg a Monumento a la Mudánál. Délben a Museo de Siyâsa andalúz történelme várja. A délutáni tekerés a történelmi Puente del Argaz hídon át az interaktív Museo del Esparto múzeumhoz vezet. Az estét az Auditorio Gabriel Celaya lenyűgöző modern építészete teszi teljessé.",
+        "ro": "Începeți ziua pedalând la Museo Molino de Teodoro, urmat de o oprire la Monumento a la Muda. Prânzul vă aduce la Museo de Siyâsa pentru a descoperi istoria andaluză. După-amiaza traversați podul istoric Puente del Argaz spre interactivul Museo del Esparto. Seara se relaxează la arhitectura impresionantă a Auditorio Gabriel Celaya.",
+        "en": "Kick off the day riding to the restored Museo Molino de Teodoro, followed by a quick stop at Monumento a la Muda. Midday brings you to the expansive Museo de Siyâsa to uncover Andalusian history. Afternoon pedals take you across the historic Puente del Argaz and to the interactive Museo del Esparto. Evening winds down with the striking architecture of the Auditorio Gabriel Celaya."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:21",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Siyâsa",
+            "hu": "Siyâsa",
+            "ro": "Siyâsa",
+            "en": "Siyâsa"
+          },
+          "coords": [
+            -1.422477,
+            38.225587
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die Ruinen dieser alten islamischen Stadt am Berghang, aber tragen Sie feste Wanderschuhe, da die archäologischen Wege ziemlich steinig sind.",
+            "hu": "Barangoljon a hegyoldalban fekvő ősi iszlám város kiterjedt romjai között, de viseljen erős túracipőt, mert a régészeti ösvények meglehetősen sziklásak.",
+            "ro": "Plimbați-vă prin ruinele întinse ale acestei vechi cetăți islamice de pe versantul muntelui, dar purtați încălțăminte robustă, deoarece potecile sunt stâncoase.",
+            "en": "Wander through the extensive ruins of this ancient Islamic city on the mountainside, but wear sturdy hiking shoes because the archaeological trails are quite rocky."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo de la Atalaya",
+            "hu": "Castillo de la Atalaya",
+            "ro": "Castillo de la Atalaya",
+            "en": "Castillo de la Atalaya"
+          },
+          "coords": [
+            -1.425111,
+            38.22657
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Diese mittelalterliche Festung belohnt den steilen Aufstieg mit unglaublichen historischen Überresten, bringen Sie also viel Wasser und Sonnenschutz mit.",
+            "hu": "A látképet uraló középkori erőd hihetetlen történelmi emlékekkel jutalmazza a meredek mászást, ezért vigyen magával bőségesen vizet és napvédőt a túrához.",
+            "ro": "Dominând orizontul, această fortăreață medievală răsplătește urcarea abruptă cu vestigii istorice incredibile, așa că aduceți apă și protecție solară pentru drumeție.",
+            "en": "Dominating the skyline, this medieval fortress rewards the steep climb with incredible historical remains, so bring plenty of water and sun protection for the hike."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de la Cruz",
+            "hu": "Mirador de la Cruz",
+            "ro": "Mirador de la Cruz",
+            "en": "Mirador de la Cruz"
+          },
+          "coords": [
+            -1.427591,
+            38.22633
+          ],
+          "category": "viewpoint",
+          "arrive_at": "12:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie von dieser Naturterrasse aus einen atemberaubenden Blick über das Segura-Tal und Cieza, idealerweise kurz vor Einbruch der Dunkelheit besucht.",
+            "hu": "Élvezze a lélegzetelállító kilátást a Segura völgyére és Ciezára erről a természetes teraszról, ideális esetben közvetlenül szürkület előtt a változó fények miatt.",
+            "ro": "Bucurați-vă de o panoramă uluitoare asupra văii Segura și Cieza de pe această terasă naturală, vizitată ideal chiar înainte de amurg pentru a vedea lumina.",
+            "en": "Enjoy a breathtaking, sweeping viewpoint over the Segura valley and Cieza from this natural terrace, ideally visited right before dusk to witness the shifting light."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Molino de Teodoro",
+            "hu": "Museo Molino de Teodoro",
+            "ro": "Museo Molino de Teodoro",
+            "en": "Museo Molino de Teodoro"
+          },
+          "coords": [
+            -1.433161,
+            38.236054
+          ],
+          "category": "museum",
+          "arrive_at": "12:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese restaurierte Wassermühle, um die traditionelle Mehlproduktion zu verstehen, und besuchen Sie sie, wenn die Mühlsteine in Bewegung gesetzt werden.",
+            "hu": "Fedezze fel ezt a felújított vízimalmot a hagyományos lisztgyártás megismeréséhez, és próbálja akkor látogatni, amikor a malomköveket beindítják a vendégeknek.",
+            "ro": "Explorați această moară de apă restaurată pentru a înțelege producția tradițională de făină și încercați să vizitați când pietrele de moară sunt puse în mișcare.",
+            "en": "Explore this restored water mill to understand traditional flour production, and try to visit when the millstones are occasionally set into motion for visitors."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Siyâsa",
+            "hu": "Museo de Siyâsa",
+            "ro": "Museo de Siyâsa",
+            "en": "Museo de Siyâsa"
+          },
+          "coords": [
+            -1.423941,
+            38.236774
+          ],
+          "category": "museum",
+          "arrive_at": "14:23",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Das Museum zeigt andalusische Artefakte und Rekonstruktionen maurischer Häuser, was mit dem Audioguide zu einem unglaublichen historischen Erlebnis wird.",
+            "hu": "Az andalúziai leleteket és mór házak rekonstrukcióit bemutató múzeum hihetetlen történelmi utazást kínál, ha az audióvezetőt is használja a látogatás során.",
+            "ro": "Prezentând artefacte andaluze și reconstrucții de case maure, acest muzeu oferă o incursiune istorică incredibilă dacă alegeți să folosiți ghidul audio.",
+            "en": "Showcasing Andalusian artifacts and full-scale reconstructions of Moorish houses, this museum offers an incredible historical dive if you follow the audio guide."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita del Santo Cristo",
+            "hu": "Ermita del Santo Cristo",
+            "ro": "Ermita del Santo Cristo",
+            "en": "Ermita del Santo Cristo"
+          },
+          "coords": [
+            -1.425899,
+            38.244386
+          ],
+          "category": "religious",
+          "arrive_at": "16:11",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Diese Einsiedelei auf dem Hügel bietet religiöse Kunst und Panoramablicke auf das Tal, was sie zum perfekten friedlichen Ort für späte Nachmittagsfotos macht.",
+            "hu": "Ez a dombtetőn álló remetelak békés vallási művészetet és panorámás kilátást nyújt a völgyre, így tökéletes helyszín a késő délutáni fotózáshoz.",
+            "ro": "Acest schit din vârf de deal oferă artă religioasă și vederi panoramice asupra văii, fiind locul liniștit perfect pentru fotografiile de după-amiază.",
+            "en": "This hilltop hermitage offers serene religious art and panoramic views of the entire valley, making it the perfect peaceful spot for late afternoon photography."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie früh zu den alten Ruinen von Siyâsa und dem Castillo de la Atalaya für einen historischen Morgen. Mittags erwarten Sie am Mirador de la Cruz atemberaubende Panoramen. Der Nachmittag ist für Kultur im Museo Molino de Teodoro und im Museo de Siyâsa reserviert. Der Abend endet wunderschön an der Ermita del Santo Cristo mit Blick auf Cieza.",
+        "hu": "Kora reggel hajtson fel Siyâsa ősi romjaihoz és a Castillo de la Atalaya erődhöz egy történelmi kalandra. Délben lélegzetelállító panoráma fogadja a Mirador de la Cruznál, mielőtt leereszkedne. A délután a kultúráé a Museo Molino de Teodoro és a Museo de Siyâsa bejárásával. Az estét az Ermita del Santo Cristo kilátása koronázza meg.",
+        "ro": "Conduceți devreme spre ruinele islamice Siyâsa și Castillo de la Atalaya pentru o dimineață istorică. Prânzul vă răsplătește cu panorame uluitoare la Mirador de la Cruz înainte de a coborî. După-amiaza este pentru cultură la Museo Molino de Teodoro și Museo de Siyâsa. Seara se termină frumos la Ermita del Santo Cristo, cu vedere la Cieza.",
+        "en": "Drive up early to the ancient Islamic ruins of Siyâsa and the towering Castillo de la Atalaya for a history-filled morning. Midday rewards you with breathtaking panoramas at the Mirador de la Cruz before descending to town. Afternoon is for culture at Museo Molino de Teodoro and Museo de Siyâsa. Evening finishes beautifully at the hilltop Ermita del Santo Cristo overlooking Cieza."
+      }
+    }
+  }
+}

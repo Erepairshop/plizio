@@ -1,0 +1,520 @@
+{
+  "city_id": "spain-betera-cities-v2",
+  "anchor": {
+    "name": "Bétera",
+    "coords": [
+      -0.46151,
+      39.59111
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:28",
+      "total_km": 1.43,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Castell de Bétera",
+            "hu": "Castell de Bétera",
+            "ro": "Castell de Bétera",
+            "en": "Castell de Bétera"
+          },
+          "coords": [
+            -0.463148,
+            39.592568
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die restaurierten Türme dieser alten islamischen Festung, um die Geschichte zu verstehen, und besteigen Sie den Bergfried für den Blick.",
+            "hu": "Fedezze fel ezen ősi iszlám erőd felújított tornyait a város múltjának megismeréséhez, és másszon fel az öregtoronyba a panorámáért.",
+            "ro": "Explorați turnurile restaurate ale acestei vechi fortărețe islamice pentru a înțelege trecutul orașului și urcați în donjon pentru panorame.",
+            "en": "Explore the restored towers of this ancient Islamic fortress to grasp the town's defensive past, and climb the keep for panoramic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Església Parroquial de la Puríssima Concepció",
+            "hu": "Església Parroquial de la Puríssima Concepció",
+            "ro": "Església Parroquial de la Puríssima Concepció",
+            "en": "Església Parroquial de la Puríssima Concepció"
+          },
+          "coords": [
+            -0.461827,
+            39.592746
+          ],
+          "category": "religious",
+          "arrive_at": "10:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Bewundern Sie die barocken Details und den markanten Glockenturm dieser Kirche; besuchen Sie sie während der Morgenmesse, um den Altar zu sehen.",
+            "hu": "Csodálja meg a központi templom barokk részleteit és harangtornyát, és időzítse látogatását a reggeli misére az oltár megtekintéséhez.",
+            "ro": "Admirați detaliile baroce și clopotnița acestei biserici centrale, programând vizita în timpul slujbei de dimineață pentru a vedea altarul.",
+            "en": "Admire the exquisite Baroque details and striking bell tower of this central church, ensuring you visit during morning mass hours to see the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaça Bulevar",
+            "hu": "Plaça Bulevar",
+            "ro": "Plaça Bulevar",
+            "en": "Plaça Bulevar"
+          },
+          "coords": [
+            -0.459223,
+            39.592409
+          ],
+          "category": "historical",
+          "arrive_at": "11:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf diesem lebendigen Platz mit charmanten Cafés, die den lokalen Geist einfangen, und trinken Sie einen schnellen Espresso.",
+            "hu": "Pihenjen ezen a nyüzsgő, kávézókkal szegélyezett téren, amely tükrözi a helyi szellemet, és igyon egy gyors eszpresszót a feltöltődéshez.",
+            "ro": "Relaxați-vă în această piață plină de cafenele care captează spiritul local și savurați un espresso rapid pentru a vă reîncărca energia.",
+            "en": "Relax at this lively square bordered by charming cafes that capture the local spirit, and grab a quick espresso to recharge your walking energy."
+          }
+        },
+        {
+          "name": {
+            "de": "Creu inicial del Calvari",
+            "hu": "Creu inicial del Calvari",
+            "ro": "Creu inicial del Calvari",
+            "en": "Creu inicial del Calvari"
+          },
+          "coords": [
+            -0.460665,
+            39.590129
+          ],
+          "category": "historical",
+          "arrive_at": "12:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses Steinkreuz, das den historischen Kreuzweg markiert, und schätzen Sie die feinen Schnitzereien im morgendlichen Licht.",
+            "hu": "Figyelje meg ezt a kőkeresztet, amely a történelmi kálváriát jelöli, és szánjon egy percet a faragások megcsodálására a reggeli fényben.",
+            "ro": "Observați această cruce de piatră care marchează istoricul Drum al Crucii, alocând un moment pentru a aprecia sculpturile în lumina dimineții.",
+            "en": "Observe this stone cross marking the historic Way of the Cross route, taking a moment to appreciate the intricate carvings in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita de la Divina Pastora",
+            "hu": "Ermita de la Divina Pastora",
+            "ro": "Ermita de la Divina Pastora",
+            "en": "Ermita de la Divina Pastora"
+          },
+          "coords": [
+            -0.458723,
+            39.588452
+          ],
+          "category": "religious",
+          "arrive_at": "13:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese friedliche Einsiedelei in einem ruhigen Viertel und bringen Sie eine Kamera mit, um die traditionelle Fassade festzuhalten.",
+            "hu": "Fedezze fel ezt a csendes környéken megbúvó békés remetelakot, és hozzon magával fényképezőgépet a hagyományos homlokzat megörökítéséhez.",
+            "ro": "Descoperiți acest schit pașnic ascuns într-un cartier liniștit, aducând un aparat foto pentru a surprinde fațada tradițională frumos conservată.",
+            "en": "Discover this peaceful hermitage tucked away in a quiet neighborhood, bringing a camera to capture the beautifully preserved traditional facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Monument al Xiquet de Bétera",
+            "hu": "Monument al Xiquet de Bétera",
+            "ro": "Monument al Xiquet de Bétera",
+            "en": "Monument al Xiquet de Bétera"
+          },
+          "coords": [
+            -0.463395,
+            39.58847
+          ],
+          "category": "historical",
+          "arrive_at": "14:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem Denkmal für eine lokale Kulturikone die Ehre und lesen Sie die Gedenktafel, um sein musikalisches Erbe zu verstehen.",
+            "hu": "Tiszelegjen a helyi kulturális ikon emlékműve előtt, és olvassa el az emléktáblát, hogy megértse tartós zenei örökségének jelentőségét.",
+            "ro": "Aduceți un omagiu acestui monument dedicat unei figuri culturale locale și citiți placa pentru a înțelege moștenirea sa muzicală de durată.",
+            "en": "Pay your respects at this tribute to a beloved local cultural figure, reading the inscribed plaque to understand his lasting musical legacy."
+          }
+        },
+        {
+          "name": {
+            "de": "Cuadrado Plaza",
+            "hu": "Cuadrado Plaza",
+            "ro": "Cuadrado Plaza",
+            "en": "Cuadrado Plaza"
+          },
+          "coords": [
+            -0.465227,
+            39.588433
+          ],
+          "category": "historical",
+          "arrive_at": "14:33",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang auf diesem historischen Platz mit traditioneller Architektur und suchen Sie sich eine Bank im Schatten zum Ausruhen.",
+            "hu": "Zárja sétáját ezen a hagyományos építészettel övezett történelmi téren, és keressen egy árnyékos padot a pihenéshez és a tervezéshez.",
+            "ro": "Încheiați plimbarea în această piață istorică înconjurată de arhitectură tradițională, găsind o bancă la umbră pentru a vă odihni.",
+            "en": "Conclude your walk in this historic square surrounded by traditional architecture, finding a shaded bench to rest and plan your next destination."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der Erkundung des imposanten Castell de Bétera, gefolgt von der Bewunderung der barocken Details der Kirche Puríssima Concepció.\nGegen Mittag können Sie die lebendige Atmosphäre an der Plaça Bulevar genießen, bevor Sie zum historischen Denkmal Creu inicial del Calvari spazieren.\nBesuchen Sie am Nachmittag die friedliche Ermita de la Divina Pastora und erweisen Sie dem Monument al Xiquet Ihre Ehre.\nBeenden Sie Ihren Rundgang am Abend auf der Cuadrado Plaza und entspannen Sie sich inmitten traditioneller Architektur bei Sonnenuntergang.",
+        "hu": "Kezdje a reggelt a lenyűgöző Castell de Bétera felfedezésével, majd csodálja meg a Puríssima Concepció templom barokk részleteit.\nDélben élvezze a Plaça Bulevar nyüzsgő hangulatát, mielőtt elsétálna a történelmi Creu inicial del Calvari emlékműhöz.\nDélután látogasson el a békés Ermita de la Divina Pastora remetelakhoz, és rója le tiszteletét a Monument al Xiquet emlékműnél.\nSétáját este a Cuadrado Plaza téren zárja, és kapcsolódjon ki a hagyományos építészet ölelésében, ahogy a nap lenyugszik a bájos város felett.",
+        "ro": "Începeți dimineața explorând impunătorul Castell de Bétera, urmat de un moment liniștit admirând detaliile baroce ale bisericii Puríssima Concepció.\nPână la amiază, absorbiți atmosfera vibrantă din Plaça Bulevar înainte de a merge la monumentul istoric Creu inicial del Calvari.\nDupă-amiaza, vizitați pașnica Ermita de la Divina Pastora și aduceți un omagiu la Monument al Xiquet.\nÎncheiați turul pietonal seara în Cuadrado Plaza, relaxându-vă printre clădiri cu arhitectură tradițională în timp ce soarele apune peste oraș.",
+        "en": "Begin your morning exploring the imposing Castell de Bétera, followed by a quiet moment admiring the Baroque details of the Puríssima Concepció church.\nBy midday, soak up the vibrant atmosphere at Plaça Bulevar before walking to the historic Creu inicial del Calvari monument.\nIn the afternoon, visit the peaceful Ermita de la Divina Pastora and pay respects at the Monument al Xiquet.\nWrap up your walking tour in the evening at Cuadrado Plaza, unwinding amidst traditional architecture as the sun sets over this charming town."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:53",
+      "total_km": 2.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "La estrella de Los Vientos",
+            "hu": "La estrella de Los Vientos",
+            "ro": "La estrella de Los Vientos",
+            "en": "La estrella de Los Vientos"
+          },
+          "coords": [
+            -0.465669,
+            39.592427
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese Windrose, die das nautische Erbe widerspiegelt, und fotografieren Sie früh, wenn das Sonnenlicht perfekt auf den Stein fällt.",
+            "hu": "Csodálja meg ezt a helyi navigációs örökséget tükröző szélrózsa emlékművet, és fotózzon korán, amikor a napfény tökéletesen megvilágítja.",
+            "ro": "Admirați acest monument în formă de roza vânturilor ce reflectă moștenirea locală, fotografiind dimineața când lumina soarelui cade perfect pe piatră.",
+            "en": "Marvel at this striking compass rose monument that reflects local navigational heritage, taking photos early when the sunlight hits the stone perfectly."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell de Bétera",
+            "hu": "Castell de Bétera",
+            "ro": "Castell de Bétera",
+            "en": "Castell de Bétera"
+          },
+          "coords": [
+            -0.463148,
+            39.592568
+          ],
+          "category": "landmark",
+          "arrive_at": "10:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die restaurierten Türme dieser alten islamischen Festung, um die Geschichte zu verstehen, und besteigen Sie den Bergfried für den Blick.",
+            "hu": "Fedezze fel ezen ősi iszlám erőd felújított tornyait a város múltjának megismeréséhez, és másszon fel az öregtoronyba a panorámáért.",
+            "ro": "Explorați turnurile restaurate ale acestei vechi fortărețe islamice pentru a înțelege trecutul orașului și urcați în donjon pentru panorame.",
+            "en": "Explore the restored towers of this ancient Islamic fortress to grasp the town's defensive past, and climb the keep for panoramic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaça Bulevar",
+            "hu": "Plaça Bulevar",
+            "ro": "Plaça Bulevar",
+            "en": "Plaça Bulevar"
+          },
+          "coords": [
+            -0.459223,
+            39.592409
+          ],
+          "category": "historical",
+          "arrive_at": "12:13",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf diesem lebendigen Platz mit charmanten Cafés, die den lokalen Geist einfangen, und trinken Sie einen schnellen Espresso.",
+            "hu": "Pihenjen ezen a nyüzsgő, kávézókkal szegélyezett téren, amely tükrözi a helyi szellemet, és igyon egy gyors eszpresszót a feltöltődéshez.",
+            "ro": "Relaxați-vă în această piață plină de cafenele care captează spiritul local și savurați un espresso rapid pentru a vă reîncărca energia.",
+            "en": "Relax at this lively square bordered by charming cafes that capture the local spirit, and grab a quick espresso to recharge your walking energy."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita de la Divina Pastora",
+            "hu": "Ermita de la Divina Pastora",
+            "ro": "Ermita de la Divina Pastora",
+            "en": "Ermita de la Divina Pastora"
+          },
+          "coords": [
+            -0.458723,
+            39.588452
+          ],
+          "category": "religious",
+          "arrive_at": "12:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese friedliche Einsiedelei in einem ruhigen Viertel und bringen Sie eine Kamera mit, um die traditionelle Fassade festzuhalten.",
+            "hu": "Fedezze fel ezt a csendes környéken megbúvó békés remetelakot, és hozzon magával fényképezőgépet a hagyományos homlokzat megörökítéséhez.",
+            "ro": "Descoperiți acest schit pașnic ascuns într-un cartier liniștit, aducând un aparat foto pentru a surprinde fațada tradițională frumos conservată.",
+            "en": "Discover this peaceful hermitage tucked away in a quiet neighborhood, bringing a camera to capture the beautifully preserved traditional facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque La Gerula centro",
+            "hu": "Parque La Gerula centro",
+            "ro": "Parque La Gerula centro",
+            "en": "Parque La Gerula centro"
+          },
+          "coords": [
+            -0.459941,
+            39.585504
+          ],
+          "category": "historical",
+          "arrive_at": "13:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die grünen Wege dieses Parks, der Natur und Geschichte verbindet, und packen Sie ein Picknick für die alten Steinanlagen ein.",
+            "hu": "Sétáljon a természetet és történelmet ötvöző központi park zöldellő ösvényein, és vigyen magával egy kis pikniket a régi kőépítmények mellé.",
+            "ro": "Plimbați-vă pe aleile înverzite ale acestui parc central ce îmbină natura cu istoria și faceți un mic picnic lângă vechile structuri de piatră.",
+            "en": "Stroll through the leafy pathways of this central park blending nature and history, packing a small picnic to enjoy near the old stone features."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Azul",
+            "hu": "Casa Azul",
+            "ro": "Casa Azul",
+            "en": "Casa Azul"
+          },
+          "coords": [
+            -0.459916,
+            39.586785
+          ],
+          "category": "historical",
+          "arrive_at": "14:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die leuchtend blaue Fassade dieses historischen Hauses, das in der Straße auffällt, und achten Sie auf die schmiedeeisernen Balkone.",
+            "hu": "Értékelje az utcából kiemelkedő történelmi ház élénkkék homlokzatát, és figyelje meg az erkélyek bonyolult kovácsoltvas részleteit is.",
+            "ro": "Apreciați fațada albastră vibrantă a acestei case istorice emblematice din stradă, remarcând detaliile complexe din fier forjat de pe balcoane.",
+            "en": "Appreciate the vibrant blue facade of this iconic historic house that stands out in the street, noting the intricate ironwork on its balconies."
+          }
+        },
+        {
+          "name": {
+            "de": "Mural Bétera",
+            "hu": "Mural Bétera",
+            "ro": "Mural Bétera",
+            "en": "Mural Bétera"
+          },
+          "coords": [
+            -0.466851,
+            39.587783
+          ],
+          "category": "historical",
+          "arrive_at": "16:03",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die bunte Straßenkunst, die die Geschichte der Feste der Stadt erzählt, und suchen Sie unten nach den Signaturen der Künstler.",
+            "hu": "Vizsgálja meg a város fesztiváljait elbeszélő színes falfestményt, és keresse meg az alsó sarkokban a helyi művészek aláírásait.",
+            "ro": "Inspectați arta stradală colorată ce spune povestea festivalurilor locale, căutând în colțurile inferioare semnăturile artiștilor locali.",
+            "en": "Inspect the colorful street art that tells the story of the town's vibrant festivals, scanning the lower corners to find the local artist signatures."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt an der symbolischen La estrella de Los Vientos und radeln Sie zum Castell de Bétera, um in die Geschichte einzutauchen.\nMachen Sie gegen Mittag eine Pause an der Plaça Bulevar und radeln Sie dann zur charmanten Ermita de la Divina Pastora mit ihrer klassischen Fassade.\nVerbringen Sie den Nachmittag auf den schattigen Wegen des Parque La Gerula centro, gefolgt von einem Stopp an der auffälligen Casa Azul.\nFahren Sie am Abend zum bunten Mural Bétera, um die zeitgenössische Straßenkunst der Stadt zu bewundern, bevor Sie Ihre Reise beenden.",
+        "hu": "Indítsa biciklitúráját a szimbolikus La estrella de Los Vientos-nál, majd tekerjen a fenséges Castell de Bétera erődhöz a helyi történelemért.\nDélben tartson pihenőt a Plaça Bulevar-on, majd kerekezzen a bájos Ermita de la Divina Pastora remetelakhoz, hogy megcsodálja klasszikus homlokzatát.\nDélután élvezze a Parque La Gerula centro árnyékos ösvényeit, majd álljon meg a szemet gyönyörködtető Casa Azul épületénél.\nKora este tekerjen el a színes Mural Bétera falfestményhez, hogy megcsodálja a kortárs utcai művészetet túrája befejezéseként.",
+        "ro": "Începeți cursa la simbolica La estrella de Los Vientos, pedalând spre grandiosul Castell de Bétera pentru o incursiune în istoria locală.\nLa amiază, faceți o pauză în Plaça Bulevar, apoi mergeți cu bicicleta la fermecătoarea Ermita de la Divina Pastora pentru a vedea fațada sa clasică.\nPetreceți după-amiaza bucurându-vă de aleile umbrite din Parque La Gerula centro, urmată de o oprire la impresionanta Casa Azul.\nPe măsură ce se lasă seara, mergeți la coloratul Mural Bétera pentru a aprecia arta stradală contemporană înainte de a vă încheia călătoria.",
+        "en": "Kick off your ride at the symbolic La estrella de Los Vientos, pedaling swiftly to the grand Castell de Bétera for a deep dive into local history.\nAround midday, take a break at Plaça Bulevar, then cycle to the charming Ermita de la Divina Pastora to admire its classic facade.\nSpend the afternoon enjoying the shaded paths of Parque La Gerula centro, followed by a stop at the eye-catching Casa Azul.\nAs evening falls, ride over to the colorful Mural Bétera to appreciate the town's contemporary street art before finishing your journey."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:12",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Castell de Bétera",
+            "hu": "Castell de Bétera",
+            "ro": "Castell de Bétera",
+            "en": "Castell de Bétera"
+          },
+          "coords": [
+            -0.463148,
+            39.592568
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die restaurierten Türme dieser alten islamischen Festung, um die Geschichte zu verstehen, und besteigen Sie den Bergfried für den Blick.",
+            "hu": "Fedezze fel ezen ősi iszlám erőd felújított tornyait a város múltjának megismeréséhez, és másszon fel az öregtoronyba a panorámáért.",
+            "ro": "Explorați turnurile restaurate ale acestei vechi fortărețe islamice pentru a înțelege trecutul orașului și urcați în donjon pentru panorame.",
+            "en": "Explore the restored towers of this ancient Islamic fortress to grasp the town's defensive past, and climb the keep for panoramic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Horta Vella",
+            "hu": "Horta Vella",
+            "ro": "Horta Vella",
+            "en": "Horta Vella"
+          },
+          "coords": [
+            -0.44615,
+            39.587466
+          ],
+          "category": "historical",
+          "arrive_at": "10:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Wandern Sie um die antiken römischen und islamischen landwirtschaftlichen Ruinen vor den Toren, und tragen Sie feste Schuhe für das unebene Gelände.",
+            "hu": "Barangoljon a központon kívüli ókori római és iszlám mezőgazdasági romok körül, és viseljen zárt cipőt az egyenetlen ásatási területen.",
+            "ro": "Plimbați-vă printre ruinele agricole antice romane și islamice de la periferie, purtând încălțăminte rezistentă pentru a naviga terenul accidentat.",
+            "en": "Wander around the ancient Roman and Islamic agricultural ruins just outside the center, wearing sturdy shoes to navigate the uneven excavated grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Caseta Antigua",
+            "hu": "Caseta Antigua",
+            "ro": "Caseta Antigua",
+            "en": "Caseta Antigua"
+          },
+          "coords": [
+            -0.457285,
+            39.583438
+          ],
+          "category": "historical",
+          "arrive_at": "12:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diese gut erhaltene traditionelle Feldhütte mit bäuerlicher Architektur und vergleichen Sie das Mauerwerk mit den Stadtgebäuden.",
+            "hu": "Vizsgálja meg ezt a vidéki építészetet bemutató, jól megőrzött mezei kunyhót, összehasonlítva kőművesmunkáját a nagyobb városi építményekkel.",
+            "ro": "Examinați această colibă de câmp tradițională bine conservată, comparând zidăria ei de piatră cu structurile mai mari din centrul orașului.",
+            "en": "Examine this well-preserved traditional field hut showing rural architectural techniques, comparing its stone masonry to the grander city structures."
+          }
+        },
+        {
+          "name": {
+            "de": "Deposito De agua",
+            "hu": "Deposito De agua",
+            "ro": "Deposito De agua",
+            "en": "Deposito De agua"
+          },
+          "coords": [
+            -0.463995,
+            39.586072
+          ],
+          "category": "historical",
+          "arrive_at": "13:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Betrachten Sie die beeindruckende Industriearchitektur des alten Wasserdepots der Stadt und suchen Sie nach Tafeln, die den Bau detailliert beschreiben.",
+            "hu": "Tekintse meg a várost ellátó régi víztározó lenyűgöző ipari építészetét, és keressen az építést részletező tájékoztató táblákat.",
+            "ro": "Vizionați arhitectura industrială impresionantă a vechiului depozit de apă al orașului, căutând plăcile informative ce detaliază construcția sa.",
+            "en": "View the impressive industrial architecture of the old water depot that supplied the town, looking for informational plaques detailing its construction."
+          }
+        },
+        {
+          "name": {
+            "de": "Mural Bétera",
+            "hu": "Mural Bétera",
+            "ro": "Mural Bétera",
+            "en": "Mural Bétera"
+          },
+          "coords": [
+            -0.466851,
+            39.587783
+          ],
+          "category": "historical",
+          "arrive_at": "15:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die bunte Straßenkunst, die die Geschichte der Feste der Stadt erzählt, und suchen Sie unten nach den Signaturen der Künstler.",
+            "hu": "Vizsgálja meg a város fesztiváljait elbeszélő színes falfestményt, és keresse meg az alsó sarkokban a helyi művészek aláírásait.",
+            "ro": "Inspectați arta stradală colorată ce spune povestea festivalurilor locale, căutând în colțurile inferioare semnăturile artiștilor locali.",
+            "en": "Inspect the colorful street art that tells the story of the town's vibrant festivals, scanning the lower corners to find the local artist signatures."
+          }
+        },
+        {
+          "name": {
+            "de": "La estrella de Los Vientos",
+            "hu": "La estrella de Los Vientos",
+            "ro": "La estrella de Los Vientos",
+            "en": "La estrella de Los Vientos"
+          },
+          "coords": [
+            -0.465669,
+            39.592427
+          ],
+          "category": "historical",
+          "arrive_at": "16:22",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese Windrose, die das nautische Erbe widerspiegelt, und fotografieren Sie früh, wenn das Sonnenlicht perfekt auf den Stein fällt.",
+            "hu": "Csodálja meg ezt a helyi navigációs örökséget tükröző szélrózsa emlékművet, és fotózzon korán, amikor a napfény tökéletesen megvilágítja.",
+            "ro": "Admirați acest monument în formă de roza vânturilor ce reflectă moștenirea locală, fotografiind dimineața când lumina soarelui cade perfect pe piatră.",
+            "en": "Marvel at this striking compass rose monument that reflects local navigational heritage, taking photos early when the sunlight hits the stone perfectly."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt am markanten Castell de Bétera und erkunden Sie dessen Vergangenheit, bevor Sie zur alten Horta Vella weiterfahren.\nMittags fahren Sie kurz zur gut erhaltenen Caseta Antigua, wo Sie traditionelle ländliche Architekturmethoden aus nächster Nähe beobachten können.\nParken Sie nachmittags beim Deposito De agua, um das Industriedesign zu betrachten, und fahren Sie dann zum ausdrucksstarken Mural Bétera.\nBeenden Sie Ihre landschaftlich reizvolle Fahrt am frühen Abend an La estrella de Los Vientos und genießen Sie das Denkmal im schwindenden Licht.",
+        "hu": "Kezdje autós útját a Castell de Bétera erődnél, elmélyedve védelmi múltjában, mielőtt a városon kívüli ősi Horta Vella romok felé venné az irányt.\nDélben rövid utazással érje el a jól megőrzött Caseta Antigua épületét, ahol testközelből figyelheti meg a hagyományos vidéki építkezési módszereket.\nDélután parkoljon le a Deposito De agua víztározónál az ipari formatervezés megtekintéséhez, majd vezessen a kifejező Mural Bétera falfestményhez.\nFejezze be festői autózását kora este a La estrella de Los Vientos emlékműnél, élvezve annak finom részleteit a halványuló nappali fényben.",
+        "ro": "Începeți traseul auto la impunătorul Castell de Bétera, explorând trecutul său defensiv înainte de a vă îndrepta spre străvechea Horta Vella.\nLa amiază, conduceți scurt până la bine conservata Caseta Antigua, unde puteți observa îndeaproape metodele arhitecturale rurale tradiționale.\nÎn timpul după-amiezii, parcați lângă Deposito De agua pentru designul său industrial, apoi conduceți pentru a vedea expresivul Mural Bétera.\nÎncheiați-vă plimbarea cu mașina seara devreme la La estrella de Los Vientos, bucurându-vă de detaliile fine ale monumentului la lumina asfințitului.",
+        "en": "Start your driving route at the prominent Castell de Bétera, delving into its defensive past before heading out toward the ancient Horta Vella.\nMidday allows for a short drive to the well-preserved Caseta Antigua, where you can observe traditional rural architectural methods up close.\nDuring the afternoon, park near the Deposito De agua to examine its industrial design, then drive to see the expressive Mural Bétera.\nConclude your scenic drive in the early evening at La estrella de Los Vientos, enjoying the monument's fine details in the fading daylight."
+      }
+    }
+  }
+}

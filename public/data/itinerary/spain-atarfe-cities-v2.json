@@ -1,0 +1,451 @@
+{
+  "city_id": "spain-atarfe-cities-v2",
+  "anchor": {
+    "name": "Atarfe",
+    "coords": [
+      -3.688734,
+      37.222711
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:36",
+      "total_km": 1.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Iglesia de Nuestra Señora de la Encarnación",
+            "hu": "Iglesia de Nuestra Señora de la Encarnación",
+            "ro": "Iglesia de Nuestra Señora de la Encarnación",
+            "en": "Iglesia de Nuestra Señora de la Encarnación"
+          },
+          "coords": [
+            -3.688551,
+            37.222665
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Mudéjar-Architektur dieser Kirche aus dem 16. Jahrhundert, und besuchen Sie sie am besten morgens, wenn das Licht den kunstvollen Altarraum erhellt.",
+            "hu": "Csodálja meg a 16. századi templom lenyűgöző mudéjar építészetét, és érdemes a reggeli órákban érkezni, amikor a napfény csodásan megvilágítja a díszes oltárt.",
+            "ro": "Admirați arhitectura mudejară impresionantă a acestei biserici din secolul al XVI-lea și vizitați-o dimineața pentru a vedea cum lumina soarelui inundă altarul ornat.",
+            "en": "Admire the striking Mudejar architecture of this 16th-century church, a cultural cornerstone of Atarfe, and visit during morning hours to see the sunlight hit its ornate altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita de Santa Ana",
+            "hu": "Ermita de Santa Ana",
+            "ro": "Ermita de Santa Ana",
+            "en": "Ermita de Santa Ana"
+          },
+          "coords": [
+            -3.691257,
+            37.223002
+          ],
+          "category": "religious",
+          "arrive_at": "09:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Diese malerische Einsiedelei bietet eine ruhige Atmosphäre sowie lokale Geschichte, also ziehen Sie bequeme Schuhe für den kurzen, aber steilen Aufstieg an.",
+            "hu": "Ez a hangulatos kis kápolna békés atmoszférát és gazdag helyi történelmet kínál, így érdemes kényelmes cipőt húzni a rövid, de meredek sétához az épületig.",
+            "ro": "Acest schit pitoresc oferă o atmosferă senină și o istorie locală bogată, așa că purtați încălțăminte confortabilă pentru scurta dar abrupta urcare spre curtea sa pașnică.",
+            "en": "This quaint hilltop hermitage offers a serene atmosphere and rich local history, so wear comfortable walking shoes for the short but steep ascent to its peaceful grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Pink Floyd",
+            "hu": "Parque Pink Floyd",
+            "ro": "Parque Pink Floyd",
+            "en": "Parque Pink Floyd"
+          },
+          "coords": [
+            -3.69399,
+            37.21925
+          ],
+          "category": "park",
+          "arrive_at": "10:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen einzigartig benannten Park, der perfekt zur Entspannung ist, und bringen Sie ein kleines Picknick für die vielen schattigen Bänke mit.",
+            "hu": "Sétáljon egyet ebben a különleges nevű, helyiek által kedvelt parkban, amely tökéletes a kikapcsolódásra, és hozzon magával egy kis pikniket az árnyékos padok egyikéhez.",
+            "ro": "Plimbați-vă prin acest parc cu un nume inedit, perfect pentru relaxare, și aduceți un mic picnic pentru a vă bucura de el pe una dintre băncile umbrite din jur.",
+            "en": "Stroll through this uniquely named green space, a beloved local spot perfect for relaxation, and bring a small picnic to enjoy on one of the many shaded benches scattered around."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscina Cubierta Polivalente",
+            "hu": "Piscina Cubierta Polivalente",
+            "ro": "Piscina Cubierta Polivalente",
+            "en": "Piscina Cubierta Polivalente"
+          },
+          "coords": [
+            -3.690754,
+            37.219148
+          ],
+          "category": "recreational",
+          "arrive_at": "12:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.29,
+          "tip_5lang": {
+            "de": "Machen Sie eine erfrischende Pause in diesem modernen Hallenbad, einem Zentrum für Wellness, und vergessen Sie Ihre Badekappe nicht, da diese strengstens vorgeschrieben ist.",
+            "hu": "Tartson egy frissítő szünetet ebben a modern fedett uszodában, a helyi wellness központjában, és ne felejtse el az úszósapkáját, mivel annak viselése szigorúan kötelező.",
+            "ro": "Faceți o pauză revigorantă la această piscină interioară modernă, un centru de wellness comunitar, și nu uitați casca de înot, deoarece purtarea acesteia este obligatorie.",
+            "en": "Take a refreshing break at this modern multipurpose indoor pool facility, a hub of community wellness, and don't forget to pack a swim cap as they are strictly required."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditorio Medina Elvira",
+            "hu": "Auditorio Medina Elvira",
+            "ro": "Auditorio Medina Elvira",
+            "en": "Auditorio Medina Elvira"
+          },
+          "coords": [
+            -3.686603,
+            37.221178
+          ],
+          "category": "cultural",
+          "arrive_at": "13:06",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Erleben Sie den pulsierenden kulturellen Herzschlag von Atarfe in diesem modernen Auditorium, aber prüfen Sie vorher online den Spielplan, um eine Vorstellung zu besuchen.",
+            "hu": "Tapasztalja meg Atarfe pezsgő kulturális életét ebben a modern koncertteremben, de érkezés előtt mindenképp ellenőrizze az online műsort egy esti előadás megtekintéséhez.",
+            "ro": "Experimentați ritmul cultural vibrant din Atarfe la acest auditoriu contemporan, dar verificați programul online în prealabil pentru a prinde un spectacol live de seară.",
+            "en": "Experience the vibrant cultural heartbeat of Atarfe at this contemporary auditorium, but be sure to check their online schedule beforehand to catch a live evening performance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt im Herzen von Atarfe mit der zentralen Kirche und führt Sie dann hinauf zur friedlichen Ermita. Mittags schlendern Sie gemütlich zum Parque Pink Floyd für eine entspannte Pause im Schatten. Der Nachmittag ist für ein erfrischendes Bad im modernen Hallenbad reserviert. Sie beenden Ihren Rundgang am modernen Auditorium und genießen die lebendige Kultur der Stadt.",
+        "hu": "A délelőtt Atarfe szívében indul a gyönyörű központi templom felfedezésével, majd a békés Ermita felé veszi az irányt. Délben a Parque Pink Floyd árnyékos padjain pihenhet egy kellemes séta után. A délutánt egy frissítő úszásra szánhatja a modern fedett uszodában. A gyalogos túra a modern koncertteremnél ér véget, ahol elmerülhet a város kulturális pezsgésében.",
+        "ro": "Dimineața începe în inima orașului Atarfe, explorând biserica centrală înainte de a urca spre pașnicul schit. La prânz vă puteți relaxa la umbră, plimbându-vă prin Parque Pink Floyd. După-amiaza este rezervată pentru o înotare revigorantă la piscina interioară modernă. Turul pe jos se încheie la auditoriul modern, unde veți simți pulsul cultural vibrant al orașului.",
+        "en": "Your morning starts in the heart of Atarfe, exploring its beautiful central church before wandering up to the peaceful Ermita. Midday brings a leisurely stroll to Parque Pink Floyd for a relaxing break in the shade. The afternoon is reserved for a refreshing swim at the multipurpose indoor pool. You conclude your walking tour at the modern auditorium, soaking in the town's vibrant culture."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:03",
+      "total_km": 5.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Iglesia de Nuestra Señora de la Encarnación",
+            "hu": "Iglesia de Nuestra Señora de la Encarnación",
+            "ro": "Iglesia de Nuestra Señora de la Encarnación",
+            "en": "Iglesia de Nuestra Señora de la Encarnación"
+          },
+          "coords": [
+            -3.688551,
+            37.222665
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Mudéjar-Architektur dieser Kirche aus dem 16. Jahrhundert, und besuchen Sie sie am besten morgens, wenn das Licht den kunstvollen Altarraum erhellt.",
+            "hu": "Csodálja meg a 16. századi templom lenyűgöző mudéjar építészetét, és érdemes a reggeli órákban érkezni, amikor a napfény csodásan megvilágítja a díszes oltárt.",
+            "ro": "Admirați arhitectura mudejară impresionantă a acestei biserici din secolul al XVI-lea și vizitați-o dimineața pentru a vedea cum lumina soarelui inundă altarul ornat.",
+            "en": "Admire the striking Mudejar architecture of this 16th-century church, a cultural cornerstone of Atarfe, and visit during morning hours to see the sunlight hit its ornate altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita de Santa Ana",
+            "hu": "Ermita de Santa Ana",
+            "ro": "Ermita de Santa Ana",
+            "en": "Ermita de Santa Ana"
+          },
+          "coords": [
+            -3.691257,
+            37.223002
+          ],
+          "category": "religious",
+          "arrive_at": "09:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Diese malerische Einsiedelei bietet eine ruhige Atmosphäre sowie lokale Geschichte, also ziehen Sie bequeme Schuhe für den kurzen, aber steilen Aufstieg an.",
+            "hu": "Ez a hangulatos kis kápolna békés atmoszférát és gazdag helyi történelmet kínál, így érdemes kényelmes cipőt húzni a rövid, de meredek sétához az épületig.",
+            "ro": "Acest schit pitoresc oferă o atmosferă senină și o istorie locală bogată, așa că purtați încălțăminte confortabilă pentru scurta dar abrupta urcare spre curtea sa pașnică.",
+            "en": "This quaint hilltop hermitage offers a serene atmosphere and rich local history, so wear comfortable walking shoes for the short but steep ascent to its peaceful grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Pink Floyd",
+            "hu": "Parque Pink Floyd",
+            "ro": "Parque Pink Floyd",
+            "en": "Parque Pink Floyd"
+          },
+          "coords": [
+            -3.69399,
+            37.21925
+          ],
+          "category": "park",
+          "arrive_at": "10:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen einzigartig benannten Park, der perfekt zur Entspannung ist, und bringen Sie ein kleines Picknick für die vielen schattigen Bänke mit.",
+            "hu": "Sétáljon egyet ebben a különleges nevű, helyiek által kedvelt parkban, amely tökéletes a kikapcsolódásra, és hozzon magával egy kis pikniket az árnyékos padok egyikéhez.",
+            "ro": "Plimbați-vă prin acest parc cu un nume inedit, perfect pentru relaxare, și aduceți un mic picnic pentru a vă bucura de el pe una dintre băncile umbrite din jur.",
+            "en": "Stroll through this uniquely named green space, a beloved local spot perfect for relaxation, and bring a small picnic to enjoy on one of the many shaded benches scattered around."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Ciencias Naturales de Atarfe",
+            "hu": "Museo de Ciencias Naturales de Atarfe",
+            "ro": "Museo de Ciencias Naturales de Atarfe",
+            "en": "Museo de Ciencias Naturales de Atarfe"
+          },
+          "coords": [
+            -3.68701,
+            37.236264
+          ],
+          "category": "museum",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende geologische und biologische Exponate in diesem Naturkundemuseum und fragen Sie das Personal nach einer Einführung in die Fossiliensammlung.",
+            "hu": "Fedezze fel a lenyűgöző regionális geológiai és biológiai kiállításokat ebben a múzeumban, és kérjen a hozzáértő személyzettől rövid vezetést a fosszíliagyűjteményhez.",
+            "ro": "Explorați expoziții geologice și biologice regionale la acest muzeu de științe naturale și cereți personalului un scurt tur ghidat al impresionantei colecții de fosile.",
+            "en": "Explore fascinating regional geological and biological exhibits at this natural history museum, and ask the knowledgeable staff for a guided overview of the fossil collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Zona Arqueológica de Medina Elvira",
+            "hu": "Zona Arqueológica de Medina Elvira",
+            "ro": "Zona Arqueológica de Medina Elvira",
+            "en": "Zona Arqueológica de Medina Elvira"
+          },
+          "coords": [
+            -3.712664,
+            37.231188
+          ],
+          "category": "historical",
+          "arrive_at": "13:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.34,
+          "tip_5lang": {
+            "de": "Durchstreifen Sie die weitreichenden Ruinen dieser alten islamischen Stadt, um ihre historische Bedeutung zu erfassen, und tragen Sie feste Schuhe für das unebene Gelände.",
+            "hu": "Barangoljon az ősi iszlám város kiterjedt romjai között, hogy megértse hatalmas történelmi jelentőségét, és viseljen masszív bakancsot a burkolatlan, egyenetlen terepen.",
+            "ro": "Plimbați-vă prin ruinele acestei vechi cetăți islamice pentru a înțelege importanța sa istorică și purtați bocanci solizi, deoarece terenul este neasfaltat și accidentat.",
+            "en": "Wander the expansive ruins of this ancient Islamic city to grasp its immense historical significance, and wear sturdy boots since the terrain is mostly unpaved and uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Baños Termales de Sierra Elvira",
+            "hu": "Baños Termales de Sierra Elvira",
+            "ro": "Baños Termales de Sierra Elvira",
+            "en": "Baños Termales de Sierra Elvira"
+          },
+          "coords": [
+            -3.721405,
+            37.22787
+          ],
+          "category": "recreational",
+          "arrive_at": "15:18",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.86,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesen Thermalbädern, die seit der Römerzeit für ihre Heilwirkung bekannt sind, und kommen Sie früh am Nachmittag, um einen ruhigen Platz zu sichern.",
+            "hu": "Töltődjön fel ezekben a római kor óta gyógyhatásukról híres termálvizekben, és érkezzen kora délután, hogy biztosan kapjon szekrényt és egy csendes fürdőhelyet.",
+            "ro": "Revigorați-vă în aceste ape termale renumite pentru proprietățile lor curative încă din epoca romană și sosiți devreme după-amiaza pentru a prinde un loc de baie liniștit.",
+            "en": "Rejuvenate in these legendary thermal waters known for their healing properties since Roman times, and arrive early in the afternoon to secure a locker and a quiet bathing spot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie auf zwei Rädern an der prächtigen zentralen Kirche und erreichen Sie schnell die ruhige Ermita. Mittags radeln Sie vorbei am Parque Pink Floyd zum faszinierenden Naturkundemuseum. Am Nachmittag fahren Sie an den Stadtrand, um die antiken Ruinen von Medina Elvira zu entdecken. Ihr aktiver Tag endet mit einem wohlverdienten Bad in den heilenden Thermalquellen von Sierra Elvira.",
+        "hu": "Két keréken induljon a csodás központi templomtól, és gyorsan eléri a békés Ermitát. Délben a játékos Parque Pink Floyd mellett elhaladva a lenyűgöző Természettudományi Múzeumhoz teker. Délután a város szélére kerékpározik, hogy felfedezze Medina Elvira ősi romjait. Aktív napja a Sierra Elvira termálfürdőjének gyógyító vizeiben tett jól megérdemelt merüléssel zárul.",
+        "ro": "Porniți pe două roți de la magnifica biserică centrală, ajungând rapid la liniștitul schit. La prânz pedalați pe lângă Parque Pink Floyd spre fascinantul Muzeu de Științe Naturale. După-amiaza veți merge cu bicicleta la periferie pentru a descoperi ruinele antice de la Medina Elvira. Ziua activă se încheie cu o baie binemeritată în apele curative ale băilor termale Sierra Elvira.",
+        "en": "Set off on two wheels from the magnificent central church, quickly reaching the serene Ermita. Midday finds you pedaling past the playful Parque Pink Floyd toward the fascinating Natural Sciences Museum. In the afternoon, you will cycle to the outskirts to uncover the ancient ruins of Medina Elvira. Your active day ends with a well-deserved soak in the healing waters of the Sierra Elvira thermal baths."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:08",
+      "total_km": 7.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Auditorio Medina Elvira",
+            "hu": "Auditorio Medina Elvira",
+            "ro": "Auditorio Medina Elvira",
+            "en": "Auditorio Medina Elvira"
+          },
+          "coords": [
+            -3.686603,
+            37.221178
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erleben Sie den pulsierenden kulturellen Herzschlag von Atarfe in diesem modernen Auditorium, aber prüfen Sie vorher online den Spielplan, um eine Vorstellung zu besuchen.",
+            "hu": "Tapasztalja meg Atarfe pezsgő kulturális életét ebben a modern koncertteremben, de érkezés előtt mindenképp ellenőrizze az online műsort egy esti előadás megtekintéséhez.",
+            "ro": "Experimentați ritmul cultural vibrant din Atarfe la acest auditoriu contemporan, dar verificați programul online în prealabil pentru a prinde un spectacol live de seară.",
+            "en": "Experience the vibrant cultural heartbeat of Atarfe at this contemporary auditorium, but be sure to check their online schedule beforehand to catch a live evening performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de Nuestra Señora de la Encarnación",
+            "hu": "Iglesia de Nuestra Señora de la Encarnación",
+            "ro": "Iglesia de Nuestra Señora de la Encarnación",
+            "en": "Iglesia de Nuestra Señora de la Encarnación"
+          },
+          "coords": [
+            -3.688551,
+            37.222665
+          ],
+          "category": "religious",
+          "arrive_at": "10:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Mudéjar-Architektur dieser Kirche aus dem 16. Jahrhundert, und besuchen Sie sie am besten morgens, wenn das Licht den kunstvollen Altarraum erhellt.",
+            "hu": "Csodálja meg a 16. századi templom lenyűgöző mudéjar építészetét, és érdemes a reggeli órákban érkezni, amikor a napfény csodásan megvilágítja a díszes oltárt.",
+            "ro": "Admirați arhitectura mudejară impresionantă a acestei biserici din secolul al XVI-lea și vizitați-o dimineața pentru a vedea cum lumina soarelui inundă altarul ornat.",
+            "en": "Admire the striking Mudejar architecture of this 16th-century church, a cultural cornerstone of Atarfe, and visit during morning hours to see the sunlight hit its ornate altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Ciencias Naturales de Atarfe",
+            "hu": "Museo de Ciencias Naturales de Atarfe",
+            "ro": "Museo de Ciencias Naturales de Atarfe",
+            "en": "Museo de Ciencias Naturales de Atarfe"
+          },
+          "coords": [
+            -3.68701,
+            37.236264
+          ],
+          "category": "museum",
+          "arrive_at": "10:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.52,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende geologische und biologische Exponate in diesem Naturkundemuseum und fragen Sie das Personal nach einer Einführung in die Fossiliensammlung.",
+            "hu": "Fedezze fel a lenyűgöző regionális geológiai és biológiai kiállításokat ebben a múzeumban, és kérjen a hozzáértő személyzettől rövid vezetést a fosszíliagyűjteményhez.",
+            "ro": "Explorați expoziții geologice și biologice regionale la acest muzeu de științe naturale și cereți personalului un scurt tur ghidat al impresionantei colecții de fosile.",
+            "en": "Explore fascinating regional geological and biological exhibits at this natural history museum, and ask the knowledgeable staff for a guided overview of the fossil collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Zona Arqueológica de Medina Elvira",
+            "hu": "Zona Arqueológica de Medina Elvira",
+            "ro": "Zona Arqueológica de Medina Elvira",
+            "en": "Zona Arqueológica de Medina Elvira"
+          },
+          "coords": [
+            -3.712664,
+            37.231188
+          ],
+          "category": "historical",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.34,
+          "tip_5lang": {
+            "de": "Durchstreifen Sie die weitreichenden Ruinen dieser alten islamischen Stadt, um ihre historische Bedeutung zu erfassen, und tragen Sie feste Schuhe für das unebene Gelände.",
+            "hu": "Barangoljon az ősi iszlám város kiterjedt romjai között, hogy megértse hatalmas történelmi jelentőségét, és viseljen masszív bakancsot a burkolatlan, egyenetlen terepen.",
+            "ro": "Plimbați-vă prin ruinele acestei vechi cetăți islamice pentru a înțelege importanța sa istorică și purtați bocanci solizi, deoarece terenul este neasfaltat și accidentat.",
+            "en": "Wander the expansive ruins of this ancient Islamic city to grasp its immense historical significance, and wear sturdy boots since the terrain is mostly unpaved and uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Baños Termales de Sierra Elvira",
+            "hu": "Baños Termales de Sierra Elvira",
+            "ro": "Baños Termales de Sierra Elvira",
+            "en": "Baños Termales de Sierra Elvira"
+          },
+          "coords": [
+            -3.721405,
+            37.22787
+          ],
+          "category": "recreational",
+          "arrive_at": "14:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.86,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesen Thermalbädern, die seit der Römerzeit für ihre Heilwirkung bekannt sind, und kommen Sie früh am Nachmittag, um einen ruhigen Platz zu sichern.",
+            "hu": "Töltődjön fel ezekben a római kor óta gyógyhatásukról híres termálvizekben, és érkezzen kora délután, hogy biztosan kapjon szekrényt és egy csendes fürdőhelyet.",
+            "ro": "Revigorați-vă în aceste ape termale renumite pentru proprietățile lor curative încă din epoca romană și sosiți devreme după-amiaza pentru a prinde un loc de baie liniștit.",
+            "en": "Rejuvenate in these legendary thermal waters known for their healing properties since Roman times, and arrive early in the afternoon to secure a locker and a quiet bathing spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Pink Floyd",
+            "hu": "Parque Pink Floyd",
+            "ro": "Parque Pink Floyd",
+            "en": "Parque Pink Floyd"
+          },
+          "coords": [
+            -3.69399,
+            37.21925
+          ],
+          "category": "park",
+          "arrive_at": "15:23",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.62,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen einzigartig benannten Park, der perfekt zur Entspannung ist, und bringen Sie ein kleines Picknick für die vielen schattigen Bänke mit.",
+            "hu": "Sétáljon egyet ebben a különleges nevű, helyiek által kedvelt parkban, amely tökéletes a kikapcsolódásra, és hozzon magával egy kis pikniket az árnyékos padok egyikéhez.",
+            "ro": "Plimbați-vă prin acest parc cu un nume inedit, perfect pentru relaxare, și aduceți un mic picnic pentru a vă bucura de el pe una dintre băncile umbrite din jur.",
+            "en": "Stroll through this uniquely named green space, a beloved local spot perfect for relaxation, and bring a small picnic to enjoy on one of the many shaded benches scattered around."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie bequem zum Auditorio Medina Elvira, bevor Sie die nahegelegene zentrale Kirche besuchen. Mittags steuern Sie das Naturkundemuseum an, um in die regionale Geschichte einzutauchen. Die Nachmittagsfahrt bringt Sie zur archäologischen Zone von Medina Elvira und den legendären Thermalbädern. Sie beenden den Tag mit einem abendlichen Spaziergang im Parque Pink Floyd in der Stadt.",
+        "hu": "Kényelmesen vezessen az Auditorio Medina Elvirához, majd látogassa meg a közeli, ikonikus központi templomot. Délben a Természettudományi Múzeum felé veszi az irányt, hogy elmerüljön a helyi történelemben. A délutáni autózás a kiterjedt régészeti zónához és a legendás termálfürdőhöz viszi. A napot a városba visszatérve egy alkonyati sétával zárja a Parque Pink Floyd környékén.",
+        "ro": "Conduceți lin spre cultura orașului, începând la Auditorio Medina Elvira, înainte de a vizita biserica centrală din apropiere. La prânz vă îndreptați spre Muzeul de Științe Naturale pentru istoria regională. După-amiaza, mașina vă duce la vasta zonă arheologică Medina Elvira și la faimoasele băi termale. Vă încheiați ziua revenind în oraș pentru o plimbare la crepuscul prin Parque Pink Floyd.",
+        "en": "Drive smoothly into the city's culture starting at the Auditorio Medina Elvira before visiting the iconic central church nearby. By midday, you are navigating to the Natural Sciences Museum to delve into regional history. The afternoon drive takes you to the sprawling archaeological zone of Medina Elvira and the legendary thermal baths nearby. You finish the day returning to town for a twilight walk around Parque Pink Floyd."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-ayamonte-cities-v2",
+  "anchor": {
+    "name": "Ayamonte",
+    "coords": [
+      -7.40807,
+      37.21329
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:23",
+      "total_km": 1.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "El Pasodoble de Ayamonte",
+            "hu": "El Pasodoble de Ayamonte",
+            "ro": "El Pasodoble de Ayamonte",
+            "en": "El Pasodoble de Ayamonte"
+          },
+          "coords": [
+            -7.405474,
+            37.21322
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die musikalischen Wurzeln dieses historischen Ortes, der von lokaler Kultur zeugt, und besuchen Sie ihn am besten früh, um die Stille zu genießen.",
+            "hu": "Fedezze fel e történelmi hely zenei gyökereit, amely a helyi kultúráról tanúskodik, és érkezzen korán, hogy nyugodtan élvezhesse a kora reggeli csendet.",
+            "ro": "Descoperiți rădăcinile muzicale ale acestui loc istoric ce reflectă cultura locală și vizitați-l dimineața devreme pentru a vă bucura pe deplin de liniște.",
+            "en": "Discover the musical roots of this historical site that reflects the vibrant local culture, and visit early in the day to enjoy the peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de la Merced",
+            "hu": "Iglesia de la Merced",
+            "ro": "Iglesia de la Merced",
+            "en": "Iglesia de la Merced"
+          },
+          "coords": [
+            -7.406808,
+            37.213866
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende barocke Architektur dieser alten Kirche, die ein religiöses Meisterwerk ist, und achten Sie auf die kunstvollen Altarbilder.",
+            "hu": "Csodálja meg e régi templom lenyűgöző barokk építészetét, amely egy vallási remekmű, és fordítson különös figyelmet a gazdagon díszített oltárképekre.",
+            "ro": "Admirați arhitectura barocă impresionantă a acestei vechi biserici, o adevărată capodoperă religioasă, și acordați atenție deosebită altarelor ornamentate.",
+            "en": "Admire the impressive baroque architecture of this old church, a true religious masterpiece, and pay special attention to the ornate altarpieces inside."
+          }
+        },
+        {
+          "name": {
+            "de": "La Inmaculada Concepción (1954)",
+            "hu": "La Inmaculada Concepción (1954)",
+            "ro": "La Inmaculada Concepción (1954)",
+            "en": "La Inmaculada Concepción (1954)"
+          },
+          "coords": [
+            -7.408737,
+            37.214138
+          ],
+          "category": "historical",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese bedeutende historische Stätte aus dem Jahr 1954, die für ihre kulturelle Bedeutung bekannt ist, und planen Sie genügend Zeit für die Details ein.",
+            "hu": "Fedezze fel ezt a történelmi jelentőségű, 1954-ből származó látványosságot, amely a kulturális értékéről ismert, és hagyjon elég időt a finom részletekre.",
+            "ro": "Explorați acest sit istoric semnificativ din 1954, recunoscut pentru importanța sa culturală, și rezervați-vă suficient timp pentru a studia detaliile arhitecturale.",
+            "en": "Explore this significant historical site from 1954, renowned for its cultural importance, and allow plenty of time to closely examine the architectural details."
+          }
+        },
+        {
+          "name": {
+            "de": "Convento de las Hermanas de la Cruz de Ayamonte",
+            "hu": "Convento de las Hermanas de la Cruz de Ayamonte",
+            "ro": "Convento de las Hermanas de la Cruz de Ayamonte",
+            "en": "Convento de las Hermanas de la Cruz de Ayamonte"
+          },
+          "coords": [
+            -7.408362,
+            37.215238
+          ],
+          "category": "religious",
+          "arrive_at": "12:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Genießen Sie die spirituelle Ruhe dieses alten Klosters, das tiefe Einblicke in das klösterliche Leben bietet, und kleiden Sie sich für den Besuch angemessen.",
+            "hu": "Élvezze a régi kolostor spirituális nyugalmát, amely mély bepillantást nyújt a szerzetesi életbe, és ügyeljen a megfelelő, tiszteletteljes öltözködésre.",
+            "ro": "Bucurați-vă de liniștea spirituală a acestei vechi mănăstiri, ce oferă o perspectivă asupra vieții monahale, și asigurați-vă că purtați o ținută adecvată.",
+            "en": "Enjoy the spiritual tranquility of this old convent, which offers deep insights into monastic life, and make sure to dress modestly for your respectful visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita de San Sebastián",
+            "hu": "Ermita de San Sebastián",
+            "ro": "Ermita de San Sebastián",
+            "en": "Ermita de San Sebastián"
+          },
+          "coords": [
+            -7.405679,
+            37.221153
+          ],
+          "category": "religious",
+          "arrive_at": "13:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante kleine Kapelle, die einen wichtigen Teil der lokalen Religionsgeschichte darstellt, und fotografieren Sie die schöne Außenfassade.",
+            "hu": "Látogasson el ebbe a bájos kis kápolnába, amely a helyi vallástörténet fontos része, és ne felejtse el lefotózni a gyönyörű, napfényes külső homlokzatot.",
+            "ro": "Vizitați această capelă mică și fermecătoare, o parte importantă a istoriei religioase locale, și fotografiați frumoasa sa fațadă exterioară luminată de soare.",
+            "en": "Visit this charming little chapel, an important part of the local religious history, and be sure to photograph its beautifully sunlit exterior facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Parroquia de Nuestro Señor y Salvador",
+            "hu": "Parroquia de Nuestro Señor y Salvador",
+            "ro": "Parroquia de Nuestro Señor y Salvador",
+            "en": "Parroquia de Nuestro Señor y Salvador"
+          },
+          "coords": [
+            -7.405177,
+            37.224308
+          ],
+          "category": "religious",
+          "arrive_at": "14:13",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die prächtige Gestaltung dieser hochgelegenen Pfarrkirche, die ein spirituelles Zentrum ist, und genießen Sie die weite Aussicht vom Vorplatz.",
+            "hu": "Csodálja meg e magasan fekvő plébániatemplom pompás kialakítását, amely egy igazi spirituális központ, és élvezze az előtérből nyíló csodálatos kilátást.",
+            "ro": "Admirați designul magnific al acestei biserici parohiale situate la înălțime, un adevărat centru spiritual, și bucurați-vă de priveliștea de pe platoul din față.",
+            "en": "Marvel at the magnificent design of this elevated parish church, a vital spiritual center, and enjoy the breathtaking views from the spacious front courtyard."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im historischen Zentrum und genießen Sie den ruhigen Charme der Gassen.\n\nBewundern Sie mittags die zeitlose Architektur und finden Sie ein schattiges Plätzchen.\n\nGenießen Sie am Nachmittag die malerische Aussicht auf den Fluss Guadiana, der Spanien und Portugal verbindet.\n\nBeenden Sie den Abend mit einem Spaziergang und kulturellen Reflexionen.",
+        "hu": "Kezdje a reggelt a történelmi központban, élvezve a szűk utcák csendes, nyugodt báját.\n\nDélben csodálja meg az időtlen vallási építészetet, és keressen egy árnyékos pihenőhelyet.\n\nDélután élvezze a Spanyolországot és Portugáliát összekötő Guadiana folyóra nyíló kilátást.\n\nZárja az estét egy kellemes sétával, felidézve e varázslatos határváros kulturális sokszínűségét.",
+        "ro": "Începeți dimineața în centrul istoric, bucurându-vă de farmecul liniștit al străzilor înguste.\n\nLa amiază, admirați arhitectura religioasă atemporală și găsiți un loc umbrit pentru odihnă.\n\nDupă-amiaza, bucurați-vă de priveliștile pitorești asupra râului Guadiana ce desparte două țări.\n\nÎncheiați seara cu o plimbare plăcută, reflectând la bogăția culturală a acestui oraș.",
+        "en": "Begin your morning by exploring the historic center, soaking in the quiet charm of the narrow streets.\n\nAt midday, marvel at the timeless religious architecture and find a shaded spot to rest.\n\nIn the afternoon, enjoy scenic views over the Guadiana river, uniting Spain and Portugal.\n\nEnd your evening with a pleasant stroll, reflecting on the cultural tapestry of this border town."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:35",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ermita de Nuestra Señora del Carmen",
+            "hu": "Ermita de Nuestra Señora del Carmen",
+            "ro": "Ermita de Nuestra Señora del Carmen",
+            "en": "Ermita de Nuestra Señora del Carmen"
+          },
+          "coords": [
+            -7.403821,
+            37.197593
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die friedliche Atmosphäre dieser wunderschönen Kapelle nahe dem Wasser, die von den Einheimischen sehr verehrt wird, und kommen Sie am Vormittag.",
+            "hu": "Tapasztalja meg a vízhez közeli gyönyörű kápolna békés hangulatát, amelyet a helyiek nagyon tisztelnek, és érkezzen a délelőtti órákban a legjobb fényekért.",
+            "ro": "Experimentați atmosfera pașnică a acestei frumoase capele de lângă apă, foarte venerată de localnici, și sosiți dimineața pentru a prinde cea mai bună lumină.",
+            "en": "Experience the peaceful atmosphere of this beautiful chapel near the water, highly revered by locals, and arrive in the late morning for the best natural light."
+          }
+        },
+        {
+          "name": {
+            "de": "El Pasodoble de Ayamonte",
+            "hu": "El Pasodoble de Ayamonte",
+            "ro": "El Pasodoble de Ayamonte",
+            "en": "El Pasodoble de Ayamonte"
+          },
+          "coords": [
+            -7.405474,
+            37.21322
+          ],
+          "category": "historical",
+          "arrive_at": "09:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die musikalischen Wurzeln dieses historischen Ortes, der von lokaler Kultur zeugt, und besuchen Sie ihn am besten früh, um die Stille zu genießen.",
+            "hu": "Fedezze fel e történelmi hely zenei gyökereit, amely a helyi kultúráról tanúskodik, és érkezzen korán, hogy nyugodtan élvezhesse a kora reggeli csendet.",
+            "ro": "Descoperiți rădăcinile muzicale ale acestui loc istoric ce reflectă cultura locală și vizitați-l dimineața devreme pentru a vă bucura pe deplin de liniște.",
+            "en": "Discover the musical roots of this historical site that reflects the vibrant local culture, and visit early in the day to enjoy the peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "La Inmaculada Concepción (1954)",
+            "hu": "La Inmaculada Concepción (1954)",
+            "ro": "La Inmaculada Concepción (1954)",
+            "en": "La Inmaculada Concepción (1954)"
+          },
+          "coords": [
+            -7.408737,
+            37.214138
+          ],
+          "category": "historical",
+          "arrive_at": "11:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese bedeutende historische Stätte aus dem Jahr 1954, die für ihre kulturelle Bedeutung bekannt ist, und planen Sie genügend Zeit für die Details ein.",
+            "hu": "Fedezze fel ezt a történelmi jelentőségű, 1954-ből származó látványosságot, amely a kulturális értékéről ismert, és hagyjon elég időt a finom részletekre.",
+            "ro": "Explorați acest sit istoric semnificativ din 1954, recunoscut pentru importanța sa culturală, și rezervați-vă suficient timp pentru a studia detaliile arhitecturale.",
+            "en": "Explore this significant historical site from 1954, renowned for its cultural importance, and allow plenty of time to closely examine the architectural details."
+          }
+        },
+        {
+          "name": {
+            "de": "Parroquia de Nuestro Señor y Salvador",
+            "hu": "Parroquia de Nuestro Señor y Salvador",
+            "ro": "Parroquia de Nuestro Señor y Salvador",
+            "en": "Parroquia de Nuestro Señor y Salvador"
+          },
+          "coords": [
+            -7.405177,
+            37.224308
+          ],
+          "category": "religious",
+          "arrive_at": "12:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die prächtige Gestaltung dieser hochgelegenen Pfarrkirche, die ein spirituelles Zentrum ist, und genießen Sie die weite Aussicht vom Vorplatz.",
+            "hu": "Csodálja meg e magasan fekvő plébániatemplom pompás kialakítását, amely egy igazi spirituális központ, és élvezze az előtérből nyíló csodálatos kilátást.",
+            "ro": "Admirați designul magnific al acestei biserici parohiale situate la înălțime, un adevărat centru spiritual, și bucurați-vă de priveliștea de pe platoul din față.",
+            "en": "Marvel at the magnificent design of this elevated parish church, a vital spiritual center, and enjoy the breathtaking views from the spacious front courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador del Guadiana",
+            "hu": "Mirador del Guadiana",
+            "ro": "Mirador del Guadiana",
+            "en": "Mirador del Guadiana"
+          },
+          "coords": [
+            -7.408216,
+            37.225428
+          ],
+          "category": "natural",
+          "arrive_at": "13:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick über den Fluss auf das Nachbarland, der die geografische Lage Ayamontes zeigt, und bringen Sie ein Fernglas mit.",
+            "hu": "Élvezze a folyóra és a szomszédos országra nyíló lélegzetelállító panorámát, amely bemutatja Ayamonte fekvését, és mindenképpen hozzon magával távcsövet.",
+            "ro": "Bucurați-vă de panorama uluitoare peste râu către țara vecină, ce arată locația geografică a orașului Ayamonte, și asigurați-vă că aduceți un binoclu.",
+            "en": "Enjoy the breathtaking panoramic view across the river to the neighboring country, highlighting Ayamonte's location, and be sure to bring binoculars for the details."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditorio Amador Jiménez",
+            "hu": "Auditorio Amador Jiménez",
+            "ro": "Auditorio Amador Jiménez",
+            "en": "Auditorio Amador Jiménez"
+          },
+          "coords": [
+            -7.389167,
+            37.217718
+          ],
+          "category": "cultural",
+          "arrive_at": "14:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Erleben Sie die kulturelle Lebendigkeit dieses modernen Auditoriums, in dem viele lokale Veranstaltungen stattfinden, und prüfen Sie vorab den aktuellen Spielplan.",
+            "hu": "Tapasztalja meg e modern nézőtér kulturális pezsgését, ahol számos helyi eseményt rendeznek, és érkezés előtt feltétlenül ellenőrizze az aktuális műsorfüzetet.",
+            "ro": "Experimentați vibrația culturală a acestui auditoriu modern, unde au loc numeroase evenimente locale, și verificați programul actual înainte de a-l vizita.",
+            "en": "Experience the cultural vibrancy of this modern auditorium, which hosts many local events, and be sure to check the current performance schedule before your visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im historischen Zentrum und genießen Sie den ruhigen Charme der Gassen.\n\nBewundern Sie mittags die zeitlose Architektur und finden Sie ein schattiges Plätzchen.\n\nGenießen Sie am Nachmittag die malerische Aussicht auf den Fluss Guadiana, der Spanien und Portugal verbindet.\n\nBeenden Sie den Abend mit einem Spaziergang und kulturellen Reflexionen.",
+        "hu": "Kezdje a reggelt a történelmi központban, élvezve a szűk utcák csendes, nyugodt báját.\n\nDélben csodálja meg az időtlen vallási építészetet, és keressen egy árnyékos pihenőhelyet.\n\nDélután élvezze a Spanyolországot és Portugáliát összekötő Guadiana folyóra nyíló kilátást.\n\nZárja az estét egy kellemes sétával, felidézve e varázslatos határváros kulturális sokszínűségét.",
+        "ro": "Începeți dimineața în centrul istoric, bucurându-vă de farmecul liniștit al străzilor înguste.\n\nLa amiază, admirați arhitectura religioasă atemporală și găsiți un loc umbrit pentru odihnă.\n\nDupă-amiaza, bucurați-vă de priveliștile pitorești asupra râului Guadiana ce desparte două țări.\n\nÎncheiați seara cu o plimbare plăcută, reflectând la bogăția culturală a acestui oraș.",
+        "en": "Begin your morning by exploring the historic center, soaking in the quiet charm of the narrow streets.\n\nAt midday, marvel at the timeless religious architecture and find a shaded spot to rest.\n\nIn the afternoon, enjoy scenic views over the Guadiana river, uniting Spain and Portugal.\n\nEnd your evening with a pleasant stroll, reflecting on the cultural tapestry of this border town."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:52",
+      "total_km": 17.45,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Câmara Municipal de Vila Real de Santo António",
+            "hu": "Câmara Municipal de Vila Real de Santo António",
+            "ro": "Câmara Municipal de Vila Real de Santo António",
+            "en": "Câmara Municipal de Vila Real de Santo António"
+          },
+          "coords": [
+            -7.415021,
+            37.194688
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses historische Rathaus, das ein Symbol der grenzüberschreitenden Verwaltung ist, und spazieren Sie anschließend über den großen Hauptplatz.",
+            "hu": "Tekintse meg ezt a történelmi városházát, amely a határokon átnyúló közigazgatás szimbóluma, és utána sétáljon egyet a hatalmas, szépen kialakított főtéren.",
+            "ro": "Priviți această primărie istorică, un simbol al administrației transfrontaliere, și faceți apoi o plimbare relaxantă prin marea piață principală din apropiere.",
+            "en": "View this historic town hall, a clear symbol of cross-border municipal administration, and take a relaxing stroll through the grand main square right afterwards."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Cultural António Aleixo",
+            "hu": "Centro Cultural António Aleixo",
+            "ro": "Centro Cultural António Aleixo",
+            "en": "Centro Cultural António Aleixo"
+          },
+          "coords": [
+            -7.416405,
+            37.194388
+          ],
+          "category": "cultural",
+          "arrive_at": "10:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Kulturzentrum, das einst ein Markt war, in die lokale Kunstszene ein, und besuchen Sie die wechselnden Ausstellungen, die hier stattfinden.",
+            "hu": "Merüljön el a helyi művészeti életben ebben a kulturális központban, amely egykor piac volt, és tekintse meg a folyamatosan változó, izgalmas kiállításokat.",
+            "ro": "Cufundați-vă în scena artistică locală în acest centru cultural, fostă piață, și vizitați expozițiile temporare de artă contemporană care au loc adesea aici.",
+            "en": "Immerse yourself in the local art scene at this cultural center, formerly a local market, and check out the frequently changing contemporary exhibitions hosted here."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita de Nuestra Señora del Carmen",
+            "hu": "Ermita de Nuestra Señora del Carmen",
+            "ro": "Ermita de Nuestra Señora del Carmen",
+            "en": "Ermita de Nuestra Señora del Carmen"
+          },
+          "coords": [
+            -7.403821,
+            37.197593
+          ],
+          "category": "religious",
+          "arrive_at": "11:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 12.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die friedliche Atmosphäre dieser wunderschönen Kapelle nahe dem Wasser, die von den Einheimischen sehr verehrt wird, und kommen Sie am Vormittag.",
+            "hu": "Tapasztalja meg a vízhez közeli gyönyörű kápolna békés hangulatát, amelyet a helyiek nagyon tisztelnek, és érkezzen a délelőtti órákban a legjobb fényekért.",
+            "ro": "Experimentați atmosfera pașnică a acestei frumoase capele de lângă apă, foarte venerată de localnici, și sosiți dimineața pentru a prinde cea mai bună lumină.",
+            "en": "Experience the peaceful atmosphere of this beautiful chapel near the water, highly revered by locals, and arrive in the late morning for the best natural light."
+          }
+        },
+        {
+          "name": {
+            "de": "La Inmaculada Concepción (1954)",
+            "hu": "La Inmaculada Concepción (1954)",
+            "ro": "La Inmaculada Concepción (1954)",
+            "en": "La Inmaculada Concepción (1954)"
+          },
+          "coords": [
+            -7.408737,
+            37.214138
+          ],
+          "category": "historical",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese bedeutende historische Stätte aus dem Jahr 1954, die für ihre kulturelle Bedeutung bekannt ist, und planen Sie genügend Zeit für die Details ein.",
+            "hu": "Fedezze fel ezt a történelmi jelentőségű, 1954-ből származó látványosságot, amely a kulturális értékéről ismert, és hagyjon elég időt a finom részletekre.",
+            "ro": "Explorați acest sit istoric semnificativ din 1954, recunoscut pentru importanța sa culturală, și rezervați-vă suficient timp pentru a studia detaliile arhitecturale.",
+            "en": "Explore this significant historical site from 1954, renowned for its cultural importance, and allow plenty of time to closely examine the architectural details."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador del Guadiana",
+            "hu": "Mirador del Guadiana",
+            "ro": "Mirador del Guadiana",
+            "en": "Mirador del Guadiana"
+          },
+          "coords": [
+            -7.408216,
+            37.225428
+          ],
+          "category": "natural",
+          "arrive_at": "13:53",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick über den Fluss auf das Nachbarland, der die geografische Lage Ayamontes zeigt, und bringen Sie ein Fernglas mit.",
+            "hu": "Élvezze a folyóra és a szomszédos országra nyíló lélegzetelállító panorámát, amely bemutatja Ayamonte fekvését, és mindenképpen hozzon magával távcsövet.",
+            "ro": "Bucurați-vă de panorama uluitoare peste râu către țara vecină, ce arată locația geografică a orașului Ayamonte, și asigurați-vă că aduceți un binoclu.",
+            "en": "Enjoy the breathtaking panoramic view across the river to the neighboring country, highlighting Ayamonte's location, and be sure to bring binoculars for the details."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditorio Amador Jiménez",
+            "hu": "Auditorio Amador Jiménez",
+            "ro": "Auditorio Amador Jiménez",
+            "en": "Auditorio Amador Jiménez"
+          },
+          "coords": [
+            -7.389167,
+            37.217718
+          ],
+          "category": "cultural",
+          "arrive_at": "14:22",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die kulturelle Lebendigkeit dieses modernen Auditoriums, in dem viele lokale Veranstaltungen stattfinden, und prüfen Sie vorab den aktuellen Spielplan.",
+            "hu": "Tapasztalja meg e modern nézőtér kulturális pezsgését, ahol számos helyi eseményt rendeznek, és érkezés előtt feltétlenül ellenőrizze az aktuális műsorfüzetet.",
+            "ro": "Experimentați vibrația culturală a acestui auditoriu modern, unde au loc numeroase evenimente locale, și verificați programul actual înainte de a-l vizita.",
+            "en": "Experience the cultural vibrancy of this modern auditorium, which hosts many local events, and be sure to check the current performance schedule before your visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im historischen Zentrum und genießen Sie den ruhigen Charme der Gassen.\n\nBewundern Sie mittags die zeitlose Architektur und finden Sie ein schattiges Plätzchen.\n\nGenießen Sie am Nachmittag die malerische Aussicht auf den Fluss Guadiana, der Spanien und Portugal verbindet.\n\nBeenden Sie den Abend mit einem Spaziergang und kulturellen Reflexionen.",
+        "hu": "Kezdje a reggelt a történelmi központban, élvezve a szűk utcák csendes, nyugodt báját.\n\nDélben csodálja meg az időtlen vallási építészetet, és keressen egy árnyékos pihenőhelyet.\n\nDélután élvezze a Spanyolországot és Portugáliát összekötő Guadiana folyóra nyíló kilátást.\n\nZárja az estét egy kellemes sétával, felidézve e varázslatos határváros kulturális sokszínűségét.",
+        "ro": "Începeți dimineața în centrul istoric, bucurându-vă de farmecul liniștit al străzilor înguste.\n\nLa amiază, admirați arhitectura religioasă atemporală și găsiți un loc umbrit pentru odihnă.\n\nDupă-amiaza, bucurați-vă de priveliștile pitorești asupra râului Guadiana ce desparte două țări.\n\nÎncheiați seara cu o plimbare plăcută, reflectând la bogăția culturală a acestui oraș.",
+        "en": "Begin your morning by exploring the historic center, soaking in the quiet charm of the narrow streets.\n\nAt midday, marvel at the timeless religious architecture and find a shaded spot to rest.\n\nIn the afternoon, enjoy scenic views over the Guadiana river, uniting Spain and Portugal.\n\nEnd your evening with a pleasant stroll, reflecting on the cultural tapestry of this border town."
+      }
+    }
+  }
+}

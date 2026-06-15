@@ -1,0 +1,497 @@
+{
+  "city_id": "bourgoin-jallieu",
+  "anchor": {
+    "name": "Bourgoin-Jallieu",
+    "coords": [
+      5.2792,
+      45.5908
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 1.65,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "MultiWorld - VR Experience",
+            "hu": "MultiWorld - VR Élmény",
+            "ro": "MultiWorld - Experiență VR",
+            "en": "MultiWorld - VR Experience"
+          },
+          "coords": [
+            5.280973,
+            45.58931
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Unterhaltungszentrum in spannende virtuelle Welten ein und denken Sie daran, Ihr VR-Headset im Voraus zu buchen.",
+            "hu": "Merüljön el az izgalmas virtuális valóságokban ebben a szórakoztató központban, és ne felejtse el előre lefoglalni a VR-szemüveges menetét.",
+            "ro": "Scufundați-vă în realități virtuale captivante la acest centru de divertisment și nu uitați să vă rezervați din timp sesiunea cu cască VR.",
+            "en": "Dive into thrilling virtual realities at this immersive entertainment center, and remember to book your specific headset session in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Game House",
+            "hu": "Game House",
+            "ro": "Game House",
+            "en": "Game House"
+          },
+          "coords": [
+            5.276232,
+            45.589588
+          ],
+          "category": "family",
+          "arrive_at": "10:16",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Fordern Sie Ihre Freunde in dieser Spielhalle mit klassischen Automaten heraus, aber kommen Sie früh, um die besten Mehrspieler-Kabinen zu ergattern.",
+            "hu": "Hívja ki barátait ebben a klasszikus játéktermeket idéző nyüzsgő központban, de érkezzen korán, hogy biztosítsa a népszerűbb multiplayer helyeket.",
+            "ro": "Provoacă-ți prietenii în acest centru de jocuri cu arcade clasice, dar vino devreme pentru a prinde cele mai populare cabine multiplayer.",
+            "en": "Challenge your friends at this lively gaming venue featuring classic arcades, but arrive early to secure the most popular multiplayer booths."
+          }
+        },
+        {
+          "name": {
+            "de": "Halle Grenette",
+            "hu": "Halle Grenette",
+            "ro": "Halle Grenette",
+            "en": "Halle Grenette"
+          },
+          "coords": [
+            5.277706,
+            45.586443
+          ],
+          "category": "civic",
+          "arrive_at": "11:22",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser historischen Markthalle aus dem 19. Jahrhundert, die im goldenen Morgenlicht am besten wirkt.",
+            "hu": "Csodálja meg ennek a történelmi, 19. századi fedett piacnak az építészetét, amelyet a reggeli aranyló fényekben a legjobb lefotózni.",
+            "ro": "Admirați arhitectura impresionantă a acestei piețe acoperite din secolul al XIX-lea, ideală de fotografiat în lumina aurie a dimineții.",
+            "en": "Admire the striking 19th-century architecture of this historic covered market, which is best photographed during the golden morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Jean-Baptiste",
+            "hu": "Saint-Jean-Baptiste Templom",
+            "ro": "Biserica Saint-Jean-Baptiste",
+            "en": "Église Saint-Jean-Baptiste"
+          },
+          "coords": [
+            5.27627,
+            45.586106
+          ],
+          "category": "religious",
+          "arrive_at": "11:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Atmosphäre und die bunten Glasfenster dieser zentralen Kirche, wobei Sie während der Gebetszeiten leise sein sollten.",
+            "hu": "Fedezze fel e központi templom békés légkörét és gyönyörű ólomüveg ablakait, miközben halkan beszél, tiszteletben tartva az imádkozókat.",
+            "ro": "Descoperiți atmosfera senină și vitraliile superbe ale acestei biserici centrale, păstrând liniștea în timpul orelor de rugăciune privată.",
+            "en": "Discover the serene atmosphere and beautiful stained glass windows of this central church, keeping your voice low during private prayer times."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de Bourgoin-Jallieu",
+            "hu": "Bourgoin-Jallieu Múzeum",
+            "ro": "Muzeul din Bourgoin-Jallieu",
+            "en": "Musée de Bourgoin-Jallieu"
+          },
+          "coords": [
+            5.27907,
+            45.58664
+          ],
+          "category": "museum",
+          "arrive_at": "12:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erkunden Sie das reiche Textilerbe und die Regionalgeschichte in diesem Museum und beginnen Sie am besten im obersten Stockwerk für die Chronologie.",
+            "hu": "Ismerje meg a gazdag textilipari örökséget ebben a kiváló múzeumban, és kezdje a legfelső emeleten a kronológiai sorrend követése érdekében.",
+            "ro": "Explorați bogatul patrimoniu textil și istoria regională în acest muzeu excelent, începând de la ultimul etaj pentru a urmări firul cronologic.",
+            "en": "Explore the rich textile heritage and regional history inside this excellent museum, starting on the top floor to follow the chronological path."
+          }
+        },
+        {
+          "name": {
+            "de": "Borne To Be A Life",
+            "hu": "Borne To Be A Life",
+            "ro": "Borne To Be A Life",
+            "en": "Borne To Be A Life"
+          },
+          "coords": [
+            5.275951,
+            45.585062
+          ],
+          "category": "family",
+          "arrive_at": "14:19",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erleben Sie interaktives Retro-Gaming in dieser einzigartigen Attraktion, wo ein paar Ersatzmünzen Ihren Besuch an den Automaten bereichern werden.",
+            "hu": "Élvezze az interaktív retró játékokat ezen az egyedi helyszínen, ahol néhány aprópénz sokat lendíthet a klasszikus árkád élményen.",
+            "ro": "Experimentați jocurile retro interactive la această atracție unică, unde câteva monede de rezervă vă vor îmbunătăți vizita la arcade.",
+            "en": "Experience interactive retro gaming and nostalgic fun at this unique attraction, where bringing a few spare coins will enhance your arcade visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Théâtre Jean-Vilar",
+            "hu": "Jean-Vilar Színház",
+            "ro": "Teatrul Jean-Vilar",
+            "en": "Théâtre Jean-Vilar"
+          },
+          "coords": [
+            5.277049,
+            45.584927
+          ],
+          "category": "cultural",
+          "arrive_at": "15:21",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an der eleganten Fassade dieses Kulturzentrums und prüfen Sie das Abendprogramm auf spontane Theatervorstellungen.",
+            "hu": "Zárja a napot ennek a kulturális központnak az elegáns homlokzatánál, és érdemes ellenőrizni az esti műsort egy spontán előadás reményében.",
+            "ro": "Încheiați ziua admirând fațada elegantă a acestui centru cultural și verificați programul de seară pentru posibile spectacole de teatru spontane.",
+            "en": "End your day observing the elegant facade of this cultural hub, and check their evening schedule for any spontaneous local theater performances."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit spannenden digitalen Abenteuern in MultiWorld und Game House. Mittags reisen Sie zurück in die Vergangenheit an der Halle Grenette und der Église Saint-Jean-Baptiste. Verbringen Sie den Nachmittag damit, die faszinierenden Textilausstellungen im Museum zu erkunden. Am Abend genießen Sie Retro-Spiele bei Borne To Be A Life, bevor Sie das Theater passieren.",
+        "hu": "Kezdje a reggelt izgalmas digitális kalandokkal a MultiWorld és a Game House termeiben. A délidő visszarepíti az időben, ahogy elhalad a Halle Grenette mellett és belép a templomba. Délután fedezze fel a Musée de Bourgoin-Jallieu lenyűgöző textilipari kiállításait. Ahogy leszáll az este, élvezze a retró játékokat a Borne To Be A Life-nál, mielőtt a színházhoz érne.",
+        "ro": "Începeți dimineața cu aventuri digitale captivante la MultiWorld și Game House. Prânzul vă aduce înapoi în timp, plimbându-vă pe lângă Halle Grenette și Biserica Saint-Jean-Baptiste. Petreceți după-amiaza explorând expozițiile fascinante de textile la Muzeul din Bourgoin-Jallieu. Seara, bucurați-vă de jocurile retro de la Borne To Be A Life înainte de a trece pe lângă Teatru.",
+        "en": "Start your morning with exciting digital adventures at MultiWorld and Game House. Midday brings you back in time as you stroll past the historic Halle Grenette and enter the serene Église Saint-Jean-Baptiste. Spend your afternoon exploring the fascinating textile exhibits at the Musée de Bourgoin-Jallieu. As evening falls, enjoy retro games at Borne To Be A Life before passing the Théâtre."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:59",
+      "total_km": 3.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Krapa Park",
+            "hu": "Krapa Park",
+            "ro": "Parcul Krapa",
+            "en": "Krapa Park"
+          },
+          "coords": [
+            5.265147,
+            45.599589
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Lassen Sie die Familie in diesem weitläufigen Stadtpark voller Freiluftaktivitäten toben und bringen Sie eine Wasserflasche für sonnige Nachmittage mit.",
+            "hu": "Hagyja, hogy a család szabadon játsszon ebben a tágas, szabadtéri programokkal teli parkban, és vigyen magával egy kulacs vizet a napos délutánokra.",
+            "ro": "Lăsați familia să se bucure în acest parc urban spațios cu activități în aer liber, aducând o sticlă de apă reutilizabilă pentru după-amiezile însorite.",
+            "en": "Let the family run free in this spacious urban park filled with outdoor activities, bringing a reusable water bottle for the sunny afternoons."
+          }
+        },
+        {
+          "name": {
+            "de": "Game House",
+            "hu": "Game House",
+            "ro": "Game House",
+            "en": "Game House"
+          },
+          "coords": [
+            5.276232,
+            45.589588
+          ],
+          "category": "family",
+          "arrive_at": "10:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Fordern Sie Ihre Freunde in dieser Spielhalle mit klassischen Automaten heraus, aber kommen Sie früh, um die besten Mehrspieler-Kabinen zu ergattern.",
+            "hu": "Hívja ki barátait ebben a klasszikus játéktermeket idéző nyüzsgő központban, de érkezzen korán, hogy biztosítsa a népszerűbb multiplayer helyeket.",
+            "ro": "Provoacă-ți prietenii în acest centru de jocuri cu arcade clasice, dar vino devreme pentru a prinde cele mai populare cabine multiplayer.",
+            "en": "Challenge your friends at this lively gaming venue featuring classic arcades, but arrive early to secure the most popular multiplayer booths."
+          }
+        },
+        {
+          "name": {
+            "de": "Halle Grenette",
+            "hu": "Halle Grenette",
+            "ro": "Halle Grenette",
+            "en": "Halle Grenette"
+          },
+          "coords": [
+            5.277706,
+            45.586443
+          ],
+          "category": "civic",
+          "arrive_at": "11:36",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser historischen Markthalle aus dem 19. Jahrhundert, die im goldenen Morgenlicht am besten wirkt.",
+            "hu": "Csodálja meg ennek a történelmi, 19. századi fedett piacnak az építészetét, amelyet a reggeli aranyló fényekben a legjobb lefotózni.",
+            "ro": "Admirați arhitectura impresionantă a acestei piețe acoperite din secolul al XIX-lea, ideală de fotografiat în lumina aurie a dimineții.",
+            "en": "Admire the striking 19th-century architecture of this historic covered market, which is best photographed during the golden morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Jean-Baptiste",
+            "hu": "Saint-Jean-Baptiste Templom",
+            "ro": "Biserica Saint-Jean-Baptiste",
+            "en": "Église Saint-Jean-Baptiste"
+          },
+          "coords": [
+            5.27627,
+            45.586106
+          ],
+          "category": "religious",
+          "arrive_at": "12:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Atmosphäre und die bunten Glasfenster dieser zentralen Kirche, wobei Sie während der Gebetszeiten leise sein sollten.",
+            "hu": "Fedezze fel e központi templom békés légkörét és gyönyörű ólomüveg ablakait, miközben halkan beszél, tiszteletben tartva az imádkozókat.",
+            "ro": "Descoperiți atmosfera senină și vitraliile superbe ale acestei biserici centrale, păstrând liniștea în timpul orelor de rugăciune privată.",
+            "en": "Discover the serene atmosphere and beautiful stained glass windows of this central church, keeping your voice low during private prayer times."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de Bourgoin-Jallieu",
+            "hu": "Bourgoin-Jallieu Múzeum",
+            "ro": "Muzeul din Bourgoin-Jallieu",
+            "en": "Musée de Bourgoin-Jallieu"
+          },
+          "coords": [
+            5.27907,
+            45.58664
+          ],
+          "category": "museum",
+          "arrive_at": "12:44",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erkunden Sie das reiche Textilerbe und die Regionalgeschichte in diesem Museum und beginnen Sie am besten im obersten Stockwerk für die Chronologie.",
+            "hu": "Ismerje meg a gazdag textilipari örökséget ebben a kiváló múzeumban, és kezdje a legfelső emeleten a kronológiai sorrend követése érdekében.",
+            "ro": "Explorați bogatul patrimoniu textil și istoria regională în acest muzeu excelent, începând de la ultimul etaj pentru a urmări firul cronologic.",
+            "en": "Explore the rich textile heritage and regional history inside this excellent museum, starting on the top floor to follow the chronological path."
+          }
+        },
+        {
+          "name": {
+            "de": "Stade Pierre-Rajon",
+            "hu": "Pierre-Rajon Stadion",
+            "ro": "Stadionul Pierre-Rajon",
+            "en": "Stade Pierre-Rajon"
+          },
+          "coords": [
+            5.28783,
+            45.59043
+          ],
+          "category": "recreational",
+          "arrive_at": "14:29",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spüren Sie den lokalen Sportgeist in diesem lebhaften Stadion und prüfen Sie den Spielplan, um nach Möglichkeit ein Rugby-Spiel mitzuerleben.",
+            "hu": "Érezze a helyi sport szellemét ebben az élettel teli stadionban, és ellenőrizze a menetrendet, hogy ha lehet, elcsípjen egy izgalmas rögbimeccset.",
+            "ro": "Simțiți spiritul sportiv local pe acest stadion plin de viață, verificând programul meciurilor pentru a prinde un joc de rugby vibrant, dacă e posibil.",
+            "en": "Feel the local sporting spirit at this lively stadium, making sure to check the match schedule to catch a vibrant rugby game if possible."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie in den frühen Stunden durch das viele Grün des Krapa Parks. Fahren Sie mittags ins belebte Zentrum zum Game House und bewundern Sie die Architektur der Halle Grenette. Ihr Nachmittag ist der ruhigen Église Saint-Jean-Baptiste und den historischen Ausstellungen im Museum gewidmet. Beenden Sie die Fahrt am Stade Pierre-Rajon, um die lokale Sportatmosphäre zu genießen.",
+        "hu": "Tekerjen a kora reggeli órákban a Krapa Park friss levegőjén és hatalmas zöldterületein. Délben guruljon be a nyüzsgő központba a Game House-hoz, majd csodálja meg a Halle Grenette épületét. A délutánt a templom csendjének és a múzeum történelmi kiállításainak szentelje. Fejezze be az utat a Stade Pierre-Rajon stadionnál, hogy magába szívja a helyi sportélet lüktetését.",
+        "ro": "Pedalați în primele ore bucurându-vă de aerul proaspăt și verdeața parcului Krapa. Călătoriți în centrul aglomerat la prânz pentru Game House și admirați Halle Grenette. După-amiaza este rezervată pentru liniștea din Biserica Saint-Jean-Baptiste și istoria din Muzeu. Încheiați plimbarea lângă Stade Pierre-Rajon pentru a simți energia sportivă locală vibrând.",
+        "en": "Pedal away the early hours enjoying the fresh air and expansive greenery of Krapa Park. Ride into the bustling center midday to hit the Game House and marvel at the architecture of Halle Grenette. Your afternoon is reserved for quiet reflection in the Église Saint-Jean-Baptiste and historical deep-dives at the Museum. Finish the ride down by Stade Pierre-Rajon to soak up local sports vibes."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:54",
+      "total_km": 10.55,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Lac Mort",
+            "hu": "Lac Mort",
+            "ro": "Lac Mort",
+            "en": "Lac Mort"
+          },
+          "coords": [
+            5.342604,
+            45.608155
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Machen Sie einen friedlichen Spaziergang um diesen wunderbar ruhigen Natursee und bringen Sie festes Schuhwerk für die Waldwege mit.",
+            "hu": "Tegyen egy békés sétát e gyönyörű, csendes természetes tó körül, és vigyen magával egy kényelmes cipőt a kissé egyenetlen erdei ösvények miatt.",
+            "ro": "Faceți o plimbare liniștită în jurul acestui lac natural minunat, aducând o pereche de pantofi de mers confortabili pentru potecile de pădure.",
+            "en": "Take a peaceful stroll around this beautifully quiet natural lake, bringing a sturdy pair of walking shoes for the slightly uneven woodland paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Jublet",
+            "hu": "Jublet",
+            "ro": "Jublet",
+            "en": "Jublet"
+          },
+          "coords": [
+            5.352269,
+            45.603926
+          ],
+          "category": "natural",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Verbinden Sie sich an diesem grünen Zufluchtsort mit der Natur, der sich ideal für ein ruhiges Picknick am Vormittag unter den alten Bäumen eignet.",
+            "hu": "Kapcsolódjon ki a természetben ezen a buja, zöld menedékhelyen, amely tökéletes egy csendes délelőtti piknikhez az ősi fák árnyékában.",
+            "ro": "Conectați-vă cu natura în acest sanctuar verde luxurian, ideal pentru un picnic liniștit la mijlocul dimineții, sub copacii antici.",
+            "en": "Connect with nature at this lush green sanctuary just outside the city center, which is ideal for a quiet mid-morning picnic under the ancient trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Krapa Park",
+            "hu": "Krapa Park",
+            "ro": "Parcul Krapa",
+            "en": "Krapa Park"
+          },
+          "coords": [
+            5.265147,
+            45.599589
+          ],
+          "category": "family",
+          "arrive_at": "11:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.8,
+          "tip_5lang": {
+            "de": "Lassen Sie die Familie in diesem weitläufigen Stadtpark voller Freiluftaktivitäten toben und bringen Sie eine Wasserflasche für sonnige Nachmittage mit.",
+            "hu": "Hagyja, hogy a család szabadon játsszon ebben a tágas, szabadtéri programokkal teli parkban, és vigyen magával egy kulacs vizet a napos délutánokra.",
+            "ro": "Lăsați familia să se bucure în acest parc urban spațios cu activități în aer liber, aducând o sticlă de apă reutilizabilă pentru după-amiezile însorite.",
+            "en": "Let the family run free in this spacious urban park filled with outdoor activities, bringing a reusable water bottle for the sunny afternoons."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de Bourgoin-Jallieu",
+            "hu": "Bourgoin-Jallieu Múzeum",
+            "ro": "Muzeul din Bourgoin-Jallieu",
+            "en": "Musée de Bourgoin-Jallieu"
+          },
+          "coords": [
+            5.27907,
+            45.58664
+          ],
+          "category": "museum",
+          "arrive_at": "13:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie das reiche Textilerbe und die Regionalgeschichte in diesem Museum und beginnen Sie am besten im obersten Stockwerk für die Chronologie.",
+            "hu": "Ismerje meg a gazdag textilipari örökséget ebben a kiváló múzeumban, és kezdje a legfelső emeleten a kronológiai sorrend követése érdekében.",
+            "ro": "Explorați bogatul patrimoniu textil și istoria regională în acest muzeu excelent, începând de la ultimul etaj pentru a urmări firul cronologic.",
+            "en": "Explore the rich textile heritage and regional history inside this excellent museum, starting on the top floor to follow the chronological path."
+          }
+        },
+        {
+          "name": {
+            "de": "Halle Grenette",
+            "hu": "Halle Grenette",
+            "ro": "Halle Grenette",
+            "en": "Halle Grenette"
+          },
+          "coords": [
+            5.277706,
+            45.586443
+          ],
+          "category": "civic",
+          "arrive_at": "14:57",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser historischen Markthalle aus dem 19. Jahrhundert, die im goldenen Morgenlicht am besten wirkt.",
+            "hu": "Csodálja meg ennek a történelmi, 19. századi fedett piacnak az építészetét, amelyet a reggeli aranyló fényekben a legjobb lefotózni.",
+            "ro": "Admirați arhitectura impresionantă a acestei piețe acoperite din secolul al XIX-lea, ideală de fotografiat în lumina aurie a dimineții.",
+            "en": "Admire the striking 19th-century architecture of this historic covered market, which is best photographed during the golden morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Stade Pierre-Rajon",
+            "hu": "Pierre-Rajon Stadion",
+            "ro": "Stadionul Pierre-Rajon",
+            "en": "Stade Pierre-Rajon"
+          },
+          "coords": [
+            5.28783,
+            45.59043
+          ],
+          "category": "recreational",
+          "arrive_at": "15:24",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Spüren Sie den lokalen Sportgeist in diesem lebhaften Stadion und prüfen Sie den Spielplan, um nach Möglichkeit ein Rugby-Spiel mitzuerleben.",
+            "hu": "Érezze a helyi sport szellemét ebben az élettel teli stadionban, és ellenőrizze a menetrendet, hogy ha lehet, elcsípjen egy izgalmas rögbimeccset.",
+            "ro": "Simțiți spiritul sportiv local pe acest stadion plin de viață, verificând programul meciurilor pentru a prinde un joc de rugby vibrant, dacă e posibil.",
+            "en": "Feel the local sporting spirit at this lively stadium, making sure to check the match schedule to catch a vibrant rugby game if possible."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie früh zu den friedlichen Ufern des Lac Mort und der grünen Umgebung von Jublet für einen ruhigen Start. Fahren Sie mittags in die Stadt, um sich im familienfreundlichen Krapa Park die Beine zu vertreten. Verbringen Sie den Nachmittag mit dem lokalen Erbe im Museum und an der Halle Grenette. Beenden Sie den Tag in der Nähe des Stade Pierre-Rajon für einen energiegeladenen Abend.",
+        "hu": "Autózzon ki korán a Lac Mort békés partjaihoz és a Jublet buja környezetéhez egy nyugodt napindításért. Délben induljon a város felé, hogy kinyújtóztassa végtagjait a Krapa Parkban. Töltse a délutánt a helyi örökség felfedezésével a Múzeumban, majd haladjon el a Halle Grenette mellett. Zárja a napot a Stade Pierre-Rajon közelében egy energiával teli estéért.",
+        "ro": "Conduceți devreme spre malurile liniștite ale Lacului Mort și verdeața din Jublet pentru o dimineață calmă. Îndreptați-vă spre oraș la prânz pentru a vă relaxa la Parcul Krapa, prietenos cu familiile. Petreceți după-amiaza descoperind patrimoniul local la Muzeul din Bourgoin-Jallieu și trecând pe lângă Halle Grenette. Încheiați-vă ziua lângă Stade Pierre-Rajon pentru un final energic.",
+        "en": "Drive out early to the peaceful shores of Lac Mort and the lush surroundings of Jublet for a tranquil morning start. Head towards the city midday to stretch your legs at the family-friendly Krapa Park. Spend your afternoon diving into local heritage at the Musée de Bourgoin-Jallieu and passing by the Halle Grenette. Wrap up your day near Stade Pierre-Rajon for an energetic evening finish."
+      }
+    }
+  }
+}

@@ -1,0 +1,428 @@
+{
+  "city_id": "greece-kamari-cities-v2",
+  "anchor": {
+    "name": "Kamari",
+    "coords": [
+      26.96913,
+      36.73969
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:09",
+      "total_km": 3.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "\"I love Cavos\" Schaukel",
+            "hu": "\"I love Cavos\" Hinta",
+            "ro": "Leagănul \"I love Cavos\"",
+            "en": "\"I love Cavos\" Swing"
+          },
+          "coords": [
+            26.97072,
+            36.736991
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto auf dieser ikonischen Schaukel mit Blick auf das blaue Wasser für die perfekte Urlaubserinnerung, aber kommen Sie früh, um Warteschlangen zu vermeiden.",
+            "hu": "Készítsen egy fotót ezen az ikonikus hintán a kék vizet csodálva a tökéletes nyaralási emlékért, de érkezzen korán, hogy elkerülje a hosszú sorban állást.",
+            "ro": "Faceți o fotografie la acest leagăn iconic cu vedere la apele albastre pentru amintirea perfectă a vacanței, dar ajungeți devreme pentru a evita cozile lungi.",
+            "en": "Snap a photo at this iconic swing overlooking the blue waters to capture the perfect holiday memory, but arrive early in the morning to avoid the long waiting lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Bucht von Kamari",
+            "hu": "Kamari-öböl",
+            "ro": "Golful Kamari",
+            "en": "Kamari Bay"
+          },
+          "coords": [
+            26.979196,
+            36.741756
+          ],
+          "category": "landmark",
+          "arrive_at": "09:48",
+          "stay_min": 25,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende Aussicht auf diese lebhafte Bucht, die die Küste prägt, und holen Sie sich einen frischen Kaffee an einem Kiosk direkt am Meer.",
+            "hu": "Élvezze a lenyűgöző kilátást erre a vibráló öbölre, amely meghatározza a helyi partvonalat, és igyon egy friss kávét egy közeli tengerparti kioszkban.",
+            "ro": "Bucurați-vă de priveliștile uimitoare ale acestui golf vibrant care definește coasta locală și luați în considerare să savurați o cafea proaspătă la un chioșc pe faleză.",
+            "en": "Enjoy the stunning sweeping views of this vibrant bay that defines the local coastline, and consider grabbing a fresh coffee from a nearby seafront kiosk."
+          }
+        },
+        {
+          "name": {
+            "de": "Kefalos",
+            "hu": "Kefalos",
+            "ro": "Kefalos",
+            "en": "Kefalos"
+          },
+          "coords": [
+            26.961515,
+            36.743521
+          ],
+          "category": "natural",
+          "arrive_at": "10:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die traditionellen, weiß getünchten Straßen dieser erhöhten Gegend, um das authentische Inselleben zu spüren, und tragen Sie bequeme Schuhe.",
+            "hu": "Sétáljon végig ennek a magaslati résznek a hagyományos, fehérre meszelt utcáin, hogy megtapasztalja az autentikus szigeti életet, és viseljen kényelmes cipőt.",
+            "ro": "Plimbați-vă pe străzile tradiționale văruite în alb ale acestei zone înalte pentru a experimenta viața insulară și purtați încălțăminte comodă pentru pantele abrupte.",
+            "en": "Stroll through the traditional whitewashed streets of this elevated area to experience authentic island life, and be sure to wear comfortable shoes for the steep paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Kefalos",
+            "hu": "Kefalos vára",
+            "ro": "Castelul Kefalos",
+            "en": "Castle of Kefalos"
+          },
+          "coords": [
+            26.962383,
+            36.744545
+          ],
+          "category": "castle",
+          "arrive_at": "11:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die verfallenen Steinruinen dieser historischen Festung für einen Panoramablick auf die Küste und seien Sie in der Nähe der unbewachten Klippen sehr vorsichtig.",
+            "hu": "Fedezze fel e történelmi erőd omladozó kőromjait a panorámás tengerparti kilátásért, és legyen nagyon óvatos az őrizetlen, meredek sziklaszélek közelében.",
+            "ro": "Explorați ruinele de piatră ale acestei fortărețe istorice pentru a admira priveliștile panoramice de coastă și fiți foarte atenți lângă marginile stâncilor nepăzite.",
+            "en": "Explore the crumbling stone ruins of this historic fortress to soak in panoramic coastal vistas, and be very careful near the unguarded, steep cliff edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Mylotopi",
+            "hu": "Mylotopi",
+            "ro": "Mylotopi",
+            "en": "Mylotopi"
+          },
+          "coords": [
+            26.960159,
+            36.74723
+          ],
+          "category": "landmark",
+          "arrive_at": "13:19",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie traditionelles Inselerbe in diesem wunderschön restaurierten Windmühlenkomplex, und probieren Sie unbedingt die lokalen Backwaren im dazugehörigen Café.",
+            "hu": "Fedezze fel a hagyományos szigeti örökséget ebben a gyönyörűen felújított szélmalom-komplexumban, és mindenképpen kóstolja meg a helyi pékárukat a kávézójukban.",
+            "ro": "Descoperiți moștenirea tradițională a insulei la acest complex de mori de vânt frumos restaurat și asigurați-vă că gustați produsele de patiserie locale la cafeneaua lor.",
+            "en": "Discover traditional island heritage at this beautifully restored windmill complex which offers great cultural insight, and try the local baked goods at their charming cafe."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einer frischen Meeresbrise, während Sie die Wahrzeichen der Küste bewundern. Mittags geht es in die historischen Hügel für atemberaubende Panoramen und traditionelle Architektur. Am Nachmittag können Sie an den atemberaubenden Buchten entspannen oder antike Ruinen direkt am Strand erkunden. Der Abend rundet die Tour mit unvergesslichen Ausblicken im goldenen Licht auf die Ägäis ab.",
+        "hu": "A reggel friss tengeri szellővel indul, miközben megcsodálja az ikonikus tengerparti látványosságokat. Délben a történelmi dombokra látogatunk lélegzetelállító panorámákért és hagyományos építészetért. Délután pihenhet a lenyűgöző öblökben, vagy felfedezheti a közvetlenül a tengerparton található ősi romokat. Az este felejthetetlen aranyórás kilátással zárul az Égei-tenger felett.",
+        "ro": "Dimineața începe cu o briză proaspătă de mare în timp ce admirați reperele de coastă iconice. La amiază vă îndreptați spre dealurile istorice pentru panorame uluitoare și arhitectură tradițională. După-amiaza vă puteți relaxa lângă golfurile uimitoare sau explora ruinele antice chiar pe plajă. Seara încheie turul cu vederi de neuitat ale orei de aur peste Marea Egee.",
+        "en": "Morning starts with fresh sea breezes as you take in the iconic coastal landmarks. Midday brings you up to the historic hills for breathtaking panoramas and traditional architecture. In the afternoon, you can relax by the stunning bays or explore ancient ruins right on the beach. Evening wraps up the tour with unforgettable golden hour views over the Aegean Sea."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:06",
+      "total_km": 5.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Aspre Petra",
+            "hu": "Aspre Petra",
+            "ro": "Aspre Petra",
+            "en": "Aspre Petra"
+          },
+          "coords": [
+            26.974227,
+            36.718681
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wandern Sie zu dieser faszinierenden alten weißen Felsformation, um bemerkenswerte geologische Geschichte zu sehen, aber bringen Sie viel Wasser mit, da es wenig Schatten gibt.",
+            "hu": "Túrázzon fel ehhez a lenyűgöző ősi fehér sziklaképződményhez, hogy tanúja legyen a geológiai történelemnek, de vigyen magával sok vizet, mivel kevés az árnyék.",
+            "ro": "Urcați la această fascinantă formațiune stâncoasă albă antică pentru a vedea istoria geologică remarcabilă, dar amintiți-vă să aduceți multă apă, deoarece umbra este rară.",
+            "en": "Hike up to this fascinating ancient white rock formation to witness remarkable geological history, but remember to bring plenty of water as shade is extremely limited."
+          }
+        },
+        {
+          "name": {
+            "de": "\"I love Cavos\" Schaukel",
+            "hu": "\"I love Cavos\" Hinta",
+            "ro": "Leagănul \"I love Cavos\"",
+            "en": "\"I love Cavos\" Swing"
+          },
+          "coords": [
+            26.97072,
+            36.736991
+          ],
+          "category": "landmark",
+          "arrive_at": "10:36",
+          "stay_min": 25,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto auf dieser ikonischen Schaukel mit Blick auf das blaue Wasser für die perfekte Urlaubserinnerung, aber kommen Sie früh, um Warteschlangen zu vermeiden.",
+            "hu": "Készítsen egy fotót ezen az ikonikus hintán a kék vizet csodálva a tökéletes nyaralási emlékért, de érkezzen korán, hogy elkerülje a hosszú sorban állást.",
+            "ro": "Faceți o fotografie la acest leagăn iconic cu vedere la apele albastre pentru amintirea perfectă a vacanței, dar ajungeți devreme pentru a evita cozile lungi.",
+            "en": "Snap a photo at this iconic swing overlooking the blue waters to capture the perfect holiday memory, but arrive early in the morning to avoid the long waiting lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Kefalos",
+            "hu": "Kefalos vára",
+            "ro": "Castelul Kefalos",
+            "en": "Castle of Kefalos"
+          },
+          "coords": [
+            26.962383,
+            36.744545
+          ],
+          "category": "castle",
+          "arrive_at": "11:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die verfallenen Steinruinen dieser historischen Festung für einen Panoramablick auf die Küste und seien Sie in der Nähe der unbewachten Klippen sehr vorsichtig.",
+            "hu": "Fedezze fel e történelmi erőd omladozó kőromjait a panorámás tengerparti kilátásért, és legyen nagyon óvatos az őrizetlen, meredek sziklaszélek közelében.",
+            "ro": "Explorați ruinele de piatră ale acestei fortărețe istorice pentru a admira priveliștile panoramice de coastă și fiți foarte atenți lângă marginile stâncilor nepăzite.",
+            "en": "Explore the crumbling stone ruins of this historic fortress to soak in panoramic coastal vistas, and be very careful near the unguarded, steep cliff edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Bucht von Agios Stefanos",
+            "hu": "Agios Stefanos-öböl",
+            "ro": "Golful Agios Stefanos",
+            "en": "Agios Stefanos Bay"
+          },
+          "coords": [
+            26.979636,
+            36.749566
+          ],
+          "category": "recreational",
+          "arrive_at": "12:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den goldenen Stränden dieser beliebten Bucht, wo Sie im kristallklaren Wasser schwimmen können, und mieten Sie frühzeitig eine bequeme Sonnenliege.",
+            "hu": "Pihenjen e népszerű szabadidős öböl aranyhomokos partján, ahol kristálytiszta vízben úszhat, és béreljen napágyat korán, hogy biztosítsa a legjobb helyet.",
+            "ro": "Relaxați-vă pe nisipurile aurii ale acestui golf de agrement popular unde puteți înota în ape limpezi și închiriați un șezlong devreme pentru cel mai bun loc.",
+            "en": "Relax on the golden sands of this popular recreational bay where you can swim in crystal-clear waters, and rent a sunbed early to secure the best spot on the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika von Ayios Stefanos",
+            "hu": "Ayios Stefanos-bazilika",
+            "ro": "Bazilica Ayios Stefanos",
+            "en": "Basilica of Ayios Stefanos"
+          },
+          "coords": [
+            26.989146,
+            36.752641
+          ],
+          "category": "landmark",
+          "arrive_at": "13:56",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Schlendern Sie zwischen den markanten Strandsäulen dieser frühchristlichen Basilika, die Geschichte mit Natur verbindet, und achten Sie auf die unebenen Mosaike.",
+            "hu": "Barangoljon a kora keresztény bazilika lenyűgöző, tengerparti oszlopai között, amely ötvözi a történelmet a természettel, és ügyeljen a lépteire a régi mozaikokon.",
+            "ro": "Plimbați-vă printre coloanele uimitoare de pe plajă ale acestei bazilici creștine timpurii ruinate și fiți atenți la pași pe mozaicurile inegale de pe jos.",
+            "en": "Wander among the striking beachfront columns of this ruined early Christian basilica which blends history with nature, and watch your step on the uneven, ancient mosaics."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einer frischen Meeresbrise, während Sie die Wahrzeichen der Küste bewundern. Mittags geht es in die historischen Hügel für atemberaubende Panoramen und traditionelle Architektur. Am Nachmittag können Sie an den atemberaubenden Buchten entspannen oder antike Ruinen direkt am Strand erkunden. Der Abend rundet die Tour mit unvergesslichen Ausblicken im goldenen Licht auf die Ägäis ab.",
+        "hu": "A reggel friss tengeri szellővel indul, miközben megcsodálja az ikonikus tengerparti látványosságokat. Délben a történelmi dombokra látogatunk lélegzetelállító panorámákért és hagyományos építészetért. Délután pihenhet a lenyűgöző öblökben, vagy felfedezheti a közvetlenül a tengerparton található ősi romokat. Az este felejthetetlen aranyórás kilátással zárul az Égei-tenger felett.",
+        "ro": "Dimineața începe cu o briză proaspătă de mare în timp ce admirați reperele de coastă iconice. La amiază vă îndreptați spre dealurile istorice pentru panorame uluitoare și arhitectură tradițională. După-amiaza vă puteți relaxa lângă golfurile uimitoare sau explora ruinele antice chiar pe plajă. Seara încheie turul cu vederi de neuitat ale orei de aur peste Marea Egee.",
+        "en": "Morning starts with fresh sea breezes as you take in the iconic coastal landmarks. Midday brings you up to the historic hills for breathtaking panoramas and traditional architecture. In the afternoon, you can relax by the stunning bays or explore ancient ruins right on the beach. Evening wraps up the tour with unforgettable golden hour views over the Aegean Sea."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:16",
+      "total_km": 7.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Aspre Petra",
+            "hu": "Aspre Petra",
+            "ro": "Aspre Petra",
+            "en": "Aspre Petra"
+          },
+          "coords": [
+            26.974227,
+            36.718681
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wandern Sie zu dieser faszinierenden alten weißen Felsformation, um bemerkenswerte geologische Geschichte zu sehen, aber bringen Sie viel Wasser mit, da es wenig Schatten gibt.",
+            "hu": "Túrázzon fel ehhez a lenyűgöző ősi fehér sziklaképződményhez, hogy tanúja legyen a geológiai történelemnek, de vigyen magával sok vizet, mivel kevés az árnyék.",
+            "ro": "Urcați la această fascinantă formațiune stâncoasă albă antică pentru a vedea istoria geologică remarcabilă, dar amintiți-vă să aduceți multă apă, deoarece umbra este rară.",
+            "en": "Hike up to this fascinating ancient white rock formation to witness remarkable geological history, but remember to bring plenty of water as shade is extremely limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Kefalos",
+            "hu": "Kefalos",
+            "ro": "Kefalos",
+            "en": "Kefalos"
+          },
+          "coords": [
+            26.961515,
+            36.743521
+          ],
+          "category": "natural",
+          "arrive_at": "10:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die traditionellen, weiß getünchten Straßen dieser erhöhten Gegend, um das authentische Inselleben zu spüren, und tragen Sie bequeme Schuhe.",
+            "hu": "Sétáljon végig ennek a magaslati résznek a hagyományos, fehérre meszelt utcáin, hogy megtapasztalja az autentikus szigeti életet, és viseljen kényelmes cipőt.",
+            "ro": "Plimbați-vă pe străzile tradiționale văruite în alb ale acestei zone înalte pentru a experimenta viața insulară și purtați încălțăminte comodă pentru pantele abrupte.",
+            "en": "Stroll through the traditional whitewashed streets of this elevated area to experience authentic island life, and be sure to wear comfortable shoes for the steep paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Mylotopi",
+            "hu": "Mylotopi",
+            "ro": "Mylotopi",
+            "en": "Mylotopi"
+          },
+          "coords": [
+            26.960159,
+            36.74723
+          ],
+          "category": "landmark",
+          "arrive_at": "11:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie traditionelles Inselerbe in diesem wunderschön restaurierten Windmühlenkomplex, und probieren Sie unbedingt die lokalen Backwaren im dazugehörigen Café.",
+            "hu": "Fedezze fel a hagyományos szigeti örökséget ebben a gyönyörűen felújított szélmalom-komplexumban, és mindenképpen kóstolja meg a helyi pékárukat a kávézójukban.",
+            "ro": "Descoperiți moștenirea tradițională a insulei la acest complex de mori de vânt frumos restaurat și asigurați-vă că gustați produsele de patiserie locale la cafeneaua lor.",
+            "en": "Discover traditional island heritage at this beautifully restored windmill complex which offers great cultural insight, and try the local baked goods at their charming cafe."
+          }
+        },
+        {
+          "name": {
+            "de": "\"I love Cavos\" Schaukel",
+            "hu": "\"I love Cavos\" Hinta",
+            "ro": "Leagănul \"I love Cavos\"",
+            "en": "\"I love Cavos\" Swing"
+          },
+          "coords": [
+            26.97072,
+            36.736991
+          ],
+          "category": "landmark",
+          "arrive_at": "13:11",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto auf dieser ikonischen Schaukel mit Blick auf das blaue Wasser für die perfekte Urlaubserinnerung, aber kommen Sie früh, um Warteschlangen zu vermeiden.",
+            "hu": "Készítsen egy fotót ezen az ikonikus hintán a kék vizet csodálva a tökéletes nyaralási emlékért, de érkezzen korán, hogy elkerülje a hosszú sorban állást.",
+            "ro": "Faceți o fotografie la acest leagăn iconic cu vedere la apele albastre pentru amintirea perfectă a vacanței, dar ajungeți devreme pentru a evita cozile lungi.",
+            "en": "Snap a photo at this iconic swing overlooking the blue waters to capture the perfect holiday memory, but arrive early in the morning to avoid the long waiting lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Bucht von Kamari",
+            "hu": "Kamari-öböl",
+            "ro": "Golful Kamari",
+            "en": "Kamari Bay"
+          },
+          "coords": [
+            26.979196,
+            36.741756
+          ],
+          "category": "landmark",
+          "arrive_at": "13:38",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende Aussicht auf diese lebhafte Bucht, die die Küste prägt, und holen Sie sich einen frischen Kaffee an einem Kiosk direkt am Meer.",
+            "hu": "Élvezze a lenyűgöző kilátást erre a vibráló öbölre, amely meghatározza a helyi partvonalat, és igyon egy friss kávét egy közeli tengerparti kioszkban.",
+            "ro": "Bucurați-vă de priveliștile uimitoare ale acestui golf vibrant care definește coasta locală și luați în considerare să savurați o cafea proaspătă la un chioșc pe faleză.",
+            "en": "Enjoy the stunning sweeping views of this vibrant bay that defines the local coastline, and consider grabbing a fresh coffee from a nearby seafront kiosk."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika von Ayios Stefanos",
+            "hu": "Ayios Stefanos-bazilika",
+            "ro": "Bazilica Ayios Stefanos",
+            "en": "Basilica of Ayios Stefanos"
+          },
+          "coords": [
+            26.989146,
+            36.752641
+          ],
+          "category": "landmark",
+          "arrive_at": "14:06",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie zwischen den markanten Strandsäulen dieser frühchristlichen Basilika, die Geschichte mit Natur verbindet, und achten Sie auf die unebenen Mosaike.",
+            "hu": "Barangoljon a kora keresztény bazilika lenyűgöző, tengerparti oszlopai között, amely ötvözi a történelmet a természettel, és ügyeljen a lépteire a régi mozaikokon.",
+            "ro": "Plimbați-vă printre coloanele uimitoare de pe plajă ale acestei bazilici creștine timpurii ruinate și fiți atenți la pași pe mozaicurile inegale de pe jos.",
+            "en": "Wander among the striking beachfront columns of this ruined early Christian basilica which blends history with nature, and watch your step on the uneven, ancient mosaics."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einer frischen Meeresbrise, während Sie die Wahrzeichen der Küste bewundern. Mittags geht es in die historischen Hügel für atemberaubende Panoramen und traditionelle Architektur. Am Nachmittag können Sie an den atemberaubenden Buchten entspannen oder antike Ruinen direkt am Strand erkunden. Der Abend rundet die Tour mit unvergesslichen Ausblicken im goldenen Licht auf die Ägäis ab.",
+        "hu": "A reggel friss tengeri szellővel indul, miközben megcsodálja az ikonikus tengerparti látványosságokat. Délben a történelmi dombokra látogatunk lélegzetelállító panorámákért és hagyományos építészetért. Délután pihenhet a lenyűgöző öblökben, vagy felfedezheti a közvetlenül a tengerparton található ősi romokat. Az este felejthetetlen aranyórás kilátással zárul az Égei-tenger felett.",
+        "ro": "Dimineața începe cu o briză proaspătă de mare în timp ce admirați reperele de coastă iconice. La amiază vă îndreptați spre dealurile istorice pentru panorame uluitoare și arhitectură tradițională. După-amiaza vă puteți relaxa lângă golfurile uimitoare sau explora ruinele antice chiar pe plajă. Seara încheie turul cu vederi de neuitat ale orei de aur peste Marea Egee.",
+        "en": "Morning starts with fresh sea breezes as you take in the iconic coastal landmarks. Midday brings you up to the historic hills for breathtaking panoramas and traditional architecture. In the afternoon, you can relax by the stunning bays or explore ancient ruins right on the beach. Evening wraps up the tour with unforgettable golden hour views over the Aegean Sea."
+      }
+    }
+  }
+}

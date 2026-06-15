@@ -1,0 +1,451 @@
+{
+  "city_id": "italy-vibo-valentia-cities-v2",
+  "anchor": {
+    "name": "Vibo Valentia",
+    "coords": [
+      16.0959,
+      38.675278
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:09",
+      "total_km": 1.95,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Valentianum",
+            "hu": "Valentianum",
+            "ro": "Valentianum",
+            "en": "Valentianum"
+          },
+          "coords": [
+            16.106371,
+            38.677507
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses ehemalige Dominikanerkloster mit seinem Museum und achten Sie auf die wechselnden Kunstausstellungen in den Kreuzgängen.",
+            "hu": "Fedezze fel ezt az egykori domonkos kolostort, amely ma múzeum, és ne hagyja ki a kerengőben gyakran megrendezett időszaki művészeti kiállításokat.",
+            "ro": "Explorați acest fost mănăstire dominicană, care acum găzduiește un muzeu, și nu uitați să verificați expozițiile de artă temporare din claustru.",
+            "en": "Explore this former Dominican convent which now houses a museum, and remember to check the temporary art exhibitions often held in its cloisters."
+          }
+        },
+        {
+          "name": {
+            "de": "Braille",
+            "hu": "Braille",
+            "ro": "Braille",
+            "en": "Braille"
+          },
+          "coords": [
+            16.098259,
+            38.677487
+          ],
+          "category": "historical",
+          "arrive_at": "11:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese einzigartige historische Stätte, die dem Braille-System gewidmet ist, und bewundern Sie die taktilen Exponate für die Besucher.",
+            "hu": "Látogasson el erre a Braille-rendszernek szentelt egyedi történelmi helyszínre, és szánjon időt a látogatóknak biztosított tapintható kiállításokra.",
+            "ro": "Opriți-vă la acest sit istoric unic dedicat sistemului Braille, făcându-vă timp pentru a aprecia exponatele tactile oferite tuturor vizitatorilor.",
+            "en": "Stop by this unique historical site dedicated to the Braille system, taking a moment to appreciate the tactile exhibits provided for visitors."
+          }
+        },
+        {
+          "name": {
+            "de": "Domus Nereide",
+            "hu": "Domus Nereide",
+            "ro": "Domus Nereide",
+            "en": "Domus Nereide"
+          },
+          "coords": [
+            16.105843,
+            38.678485
+          ],
+          "category": "historical",
+          "arrive_at": "12:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die antiken Bodenmosaike mit Meeresnymphen in diesem römischen Haus, aber bringen Sie einen Hut mit, da es hier wenig Schatten gibt.",
+            "hu": "Csodálja meg a tengeri nimfákat ábrázoló ősi padlómozaikokat ebben a római házban, de hozzon kalapot, mert kevés az árnyék a romok között.",
+            "ro": "Admirați frumoasele mozaicuri antice cu nimfe marine în această casă romană, dar aduceți o pălărie deoarece există puțină umbră printre ruine.",
+            "en": "Admire the beautiful ancient floor mosaics depicting sea nymphs in this Roman house, but bring a hat as there is little shade in the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Area Archeologica S. Aloe",
+            "hu": "Area Archeologica S. Aloe",
+            "ro": "Area Archeologica S. Aloe",
+            "en": "Area Archeologica S. Aloe"
+          },
+          "coords": [
+            16.106883,
+            38.679088
+          ],
+          "category": "historical",
+          "arrive_at": "13:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die Fundamente der antiken römischen Stadt Hipponion und tragen Sie flache Schuhe, um die unebenen Steinwege sicher zu meistern.",
+            "hu": "Sétáljon át Hipponion ókori római városának alapjain, és viseljen kényelmes lapos cipőt, hogy biztonságosan eligazodjon az egyenetlen kőutakon.",
+            "ro": "Plimbați-vă printre fundațiile anticului oraș roman Hipponion de aici, purtând pantofi plați și comozi pentru a naviga în siguranță pe cărările pietruite.",
+            "en": "Walk through the foundations of the ancient Roman city of Hipponion here, wearing comfortable flat shoes to navigate the uneven stone paths safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Terme romane",
+            "hu": "Terme romane",
+            "ro": "Terme romane",
+            "en": "Terme romane"
+          },
+          "coords": [
+            16.108012,
+            38.680234
+          ],
+          "category": "historical",
+          "arrive_at": "15:19",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die gut erhaltenen Heizsysteme dieser antiken römischen Bäder und besuchen Sie sie am späten Nachmittag für das beste Fotolicht.",
+            "hu": "Fedezze fel ezeknek az ősi római fürdőknek a jól megőrzött fűtési rendszereit, érdemes késő délután érkezni, amikor a fény kiemeli a téglákat.",
+            "ro": "Descoperiți sistemele de încălzire bine conservate ale acestor băi romane, vizitându-le după-amiaza târziu când lumina aurie pune în valoare cărămida.",
+            "en": "Discover the well-preserved heating systems of these ancient Roman baths, aiming for a late afternoon visit when the golden light enhances the brickwork."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im Valentianum und tauchen Sie vor der Mittagshitze in die reiche Lokalgeschichte ein.\n\nMittags spazieren Sie zur historischen Stätte Braille zur Reflexion.\n\nDer Nachmittag führt Sie zur faszinierenden Domus Nereide und zum benachbarten Ausgrabungsgebiet.\n\nBeenden Sie Ihren Spaziergang bei den Römischen Thermen, wenn das Abendlicht die Ruinen beleuchtet.",
+        "hu": "Kezdje a reggelt a Valentianumban, elmerülve a helyi történelemben a déli hőség előtt.\n\nDélben sétáljon a Braille történelmi helyszíne felé, hogy elgondolkodjon a múlton.\n\nA délután elhozza a lenyűgöző Domus Nereide-hez és a szomszédos régészeti területhez.\n\nFejezze be sétáját a római fürdőknél, amikor az esti fény megvilágítja a lenyűgöző ókori romokat.",
+        "ro": "Începeți dimineața la Valentianum, cufundându-vă în istoria locală înainte de căldura amiezii.\n\nLa prânz, plimbați-vă spre situl istoric Braille pentru reflecție.\n\nDupă-amiaza vă aduce la fascinanta Domus Nereide și la zona arheologică adiacentă pentru a explora.\n\nÎncheiați-vă plimbarea la Termele Romane în timp ce lumina serii atinge ruinele antice.",
+        "en": "Start your morning at the Valentianum, immersing yourself in the rich local history before the midday heat.\n\nBy noon, wander towards the Braille site for a moment of quiet historical reflection.\n\nThe afternoon brings you to the fascinating Domus Nereide and adjacent archaeological area to explore.\n\nEnd your stroll at the Roman Baths as the evening light hits the ancient ruins."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:37",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo archeologico nazionale Vito Capialbi",
+            "hu": "Museo archeologico nazionale Vito Capialbi",
+            "ro": "Museo archeologico nazionale Vito Capialbi",
+            "en": "Museo archeologico nazionale Vito Capialbi"
+          },
+          "coords": [
+            16.108154,
+            38.670824
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Dieses Museum in einer normannisch-schwäbischen Burg beherbergt die berühmte Laminetta Orfica, also holen Sie sich einen kostenlosen Audioguide.",
+            "hu": "A normann-sváb kastélyban található múzeum őrzi a híres Laminetta Orficát, így érdemes egy ingyenes audioguide-ot kérni a görög feliratokhoz.",
+            "ro": "Găzduit într-un castel normando-șvab, muzeul deține faimoasa Laminetta Orfica, așa că luați un ghid audio gratuit pentru a înțelege inscripțiile grecești.",
+            "en": "Housed in a Norman-Swabian castle, this museum holds the famous Laminetta Orfica, so grab a free audio guide to understand the Greek inscriptions."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditorium dello Spirito Santo",
+            "hu": "Auditorium dello Spirito Santo",
+            "ro": "Auditorium dello Spirito Santo",
+            "en": "Auditorium dello Spirito Santo"
+          },
+          "coords": [
+            16.105546,
+            38.673082
+          ],
+          "category": "cultural",
+          "arrive_at": "10:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Prüfen Sie das Programm vor dieser restaurierten Renaissancekirche, da Sie während Ihres Ausflugs vielleicht eine Probe klassischer Musik erleben.",
+            "hu": "Ellenőrizze a programot e felújított reneszánsz templom előtt, mivel az utazás során akár egy esti klasszikus zenei próbát is elcsíphet.",
+            "ro": "Verificați programul în afara acestei biserici renascentiste restaurate, deoarece ați putea prinde o repetiție de muzică clasică de seară.",
+            "en": "Check the schedule outside this restored Renaissance church turned cultural venue, as you might catch an evening classical music rehearsal during your trip."
+          }
+        },
+        {
+          "name": {
+            "de": "Targa a Nicholas Green",
+            "hu": "Targa a Nicholas Green",
+            "ro": "Targa a Nicholas Green",
+            "en": "Targa a Nicholas Green"
+          },
+          "coords": [
+            16.113002,
+            38.675206
+          ],
+          "category": "historical",
+          "arrive_at": "12:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser berührenden Gedenktafel für einen Jungen inne, die sich an einem ruhigen Platz befindet und zum Ausruhen und Nachdenken einlädt.",
+            "hu": "Álljon meg ennél a fiatal fiúnak szentelt megható emléktáblánál, amely egy csendes téren található, és békés helyet kínál a pihenésre.",
+            "ro": "Opriți-vă la această placă memorială emoționantă dedicată unui băiețel, situată într-o piață liniștită care oferă un loc pașnic pentru odihnă și reflecție.",
+            "en": "Pause at this touching memorial plaque dedicated to a young boy, located in a quiet square that offers a peaceful spot to rest and reflect."
+          }
+        },
+        {
+          "name": {
+            "de": "Santuario del Còfino",
+            "hu": "Santuario del Còfino",
+            "ro": "Santuario del Còfino",
+            "en": "Santuario del Còfino"
+          },
+          "coords": [
+            16.115704,
+            38.676764
+          ],
+          "category": "historical",
+          "arrive_at": "13:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses historische Heiligtum auf dem Hügel wegen seines spirituellen Flairs und der Aussicht; bringen Sie Ihre Kamera für die Landschaft mit.",
+            "hu": "Látogasson el erre a történelmi dombtetőn lévő szentélyre a spirituális hangulat és a lenyűgöző tengerparti panoráma miatt, hozzon fényképezőgépet.",
+            "ro": "Vizitați acest sanctuar istoric de pe deal pentru ambianța sa spirituală și priveliștile panoramice asupra coastei, aducând aparatul foto.",
+            "en": "Visit this historic hilltop sanctuary for its spiritual ambiance and stunning panoramic views of the coast, bringing your camera for the beautiful scenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Valentianum",
+            "hu": "Valentianum",
+            "ro": "Valentianum",
+            "en": "Valentianum"
+          },
+          "coords": [
+            16.106371,
+            38.677507
+          ],
+          "category": "museum",
+          "arrive_at": "15:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses ehemalige Dominikanerkloster mit seinem Museum und achten Sie auf die wechselnden Kunstausstellungen in den Kreuzgängen.",
+            "hu": "Fedezze fel ezt az egykori domonkos kolostort, amely ma múzeum, és ne hagyja ki a kerengőben gyakran megrendezett időszaki művészeti kiállításokat.",
+            "ro": "Explorați acest fost mănăstire dominicană, care acum găzduiește un muzeu, și nu uitați să verificați expozițiile de artă temporare din claustru.",
+            "en": "Explore this former Dominican convent which now houses a museum, and remember to check the temporary art exhibitions often held in its cloisters."
+          }
+        },
+        {
+          "name": {
+            "de": "Leone",
+            "hu": "Leone",
+            "ro": "Leone",
+            "en": "Leone"
+          },
+          "coords": [
+            16.111781,
+            38.681688
+          ],
+          "category": "historical",
+          "arrive_at": "16:47",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Diese historische Steinlöwenstatue ist ein Symbol der Ausdauer der Stadt. Betrachten Sie sie am besten vor Sonnenuntergang, wenn der Platz belebt ist.",
+            "hu": "Ez a történelmi kőoroszlán szobor a város kitartásának szimbóluma, ezért próbálja meg közvetlenül naplemente előtt megnézni, amikor a tér a legélénkebb.",
+            "ro": "Această statuie istorică a leului de piatră este un simbol al rezistenței orașului, deci vizitați-o chiar înainte de apus când piața prinde viață.",
+            "en": "This historic stone lion statue is a symbol of the city's endurance, so try to view it right before sunset when the surrounding plaza is most vibrant."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Fahrt am Archäologischen Nationalmuseum und bewundern Sie antike Artefakte.\n\nMittags radeln Sie zum Auditorium dello Spirito Santo und zur Nicholas-Green-Gedenktafel.\n\nIhre Nachmittagsroute führt Sie sanft zum Santuario del Còfino und zum Valentianum, wo Sie die reiche Kultur entdecken.\n\nBeenden Sie Ihren Radtag in der Dämmerung am historischen Leone-Denkmal.",
+        "hu": "Kezdje a kerékpározást a Nemzeti Régészeti Múzeumnál, megcsodálva az ősi leleteket.\n\nDélben tekerjen az Auditorium dello Spirito Santo és a Nicholas Green emléktábla felé.\n\nA délutáni útvonal enyhén emelkedik a Santuario del Còfino és a Valentianum irányába, feltárva a kultúra rétegeit.\n\nFejezze be kerékpáros napját a történelmi Leone emlékműnél, élvezve az alkonyatot.",
+        "ro": "Începeți plimbarea la Muzeul Național de Arheologie, admirând artefactele antice.\n\nLa prânz, pedalați spre Auditorium dello Spirito Santo și placa Nicholas Green.\n\nTraseul de după-amiază urcă ușor spre Santuario del Còfino și Valentianum, dezvăluind straturile culturii locale.\n\nÎncheiați-vă ziua de ciclism la monumentul istoric Leone la amurg.",
+        "en": "Kick off your ride at the National Archaeological Museum, absorbing the region's ancient artifacts.\n\nMidday, pedal to the Auditorium dello Spirito Santo and the Nicholas Green plaque.\n\nYour afternoon route climbs gently toward the Santuario del Còfino and Valentianum, revealing layers of culture.\n\nConclude your cycling day at the historic Leone monument at dusk."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:36",
+      "total_km": 7.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Casa della Cultura \"E. Capialbi\"",
+            "hu": "Casa della Cultura \"E. Capialbi\"",
+            "ro": "Casa della Cultura \"E. Capialbi\"",
+            "en": "Casa della Cultura \"E. Capialbi\""
+          },
+          "coords": [
+            16.113697,
+            38.661894
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Stadtbibliothek und verschiedene kulturelle Ausstellungen und fragen Sie das Personal nach einer Karte der aktuellen Veranstaltungen.",
+            "hu": "Fedezze fel a városi könyvtárat és a kulturális kiállításokat, majd kérjen a barátságos személyzettől egy térképet a jelenlegi helyi eseményekről.",
+            "ro": "Explorați biblioteca municipală și diverse expoziții culturale, cerând personalului o hartă a evenimentelor locale actuale din Vibo Valentia.",
+            "en": "Explore the municipal library and various cultural exhibits housed within, asking the friendly staff for a map of current local events in Vibo."
+          }
+        },
+        {
+          "name": {
+            "de": "Santuario Maria SS. della Salute",
+            "hu": "Santuario Maria SS. della Salute",
+            "ro": "Santuario Maria SS. della Salute",
+            "en": "Santuario Maria SS. della Salute"
+          },
+          "coords": [
+            16.101975,
+            38.66255
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses charmante Heiligtum, um den wunderschönen Altar zu bewundern, und bewahren Sie während der regulären Gebetszeiten respektvolle Stille.",
+            "hu": "Lépjen be ebbe a bájos szentélybe, hogy megcsodálja a gyönyörű oltárt, és tartson tiszteletteljes csendet a rendszeres imaidők alatt.",
+            "ro": "Pășiți în acest sanctuar fermecător pentru a admira altarul său frumos, menținând o tăcere respectuoasă în timpul orelor obișnuite de rugăciune.",
+            "en": "Step inside this charming sanctuary to admire its beautiful altar and religious artifacts, maintaining a respectful silence during regular prayer hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Comunale di Vibo",
+            "hu": "Teatro Comunale di Vibo",
+            "ro": "Teatro Comunale di Vibo",
+            "en": "Teatro Comunale di Vibo"
+          },
+          "coords": [
+            16.083407,
+            38.667116
+          ],
+          "category": "cultural",
+          "arrive_at": "11:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur dieses eleganten Theaters und prüfen Sie vorab die Online-Kasse, falls eine Nachmittagsvorstellung stattfindet.",
+            "hu": "Csodálja meg ennek az elegáns helyi színháznak a klasszikus építészetét, és ellenőrizze előre a pénztárat online, hátha van egy délutáni előadás.",
+            "ro": "Admirați arhitectura clasică a acestui teatru local elegant și verificați casa de bilete online din timp în cazul în care există o reprezentație de matineu.",
+            "en": "Marvel at the classical architecture of this elegant local theater, and check their box office online beforehand in case there is a matinee performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo archeologico nazionale Vito Capialbi",
+            "hu": "Museo archeologico nazionale Vito Capialbi",
+            "ro": "Museo archeologico nazionale Vito Capialbi",
+            "en": "Museo archeologico nazionale Vito Capialbi"
+          },
+          "coords": [
+            16.108154,
+            38.670824
+          ],
+          "category": "museum",
+          "arrive_at": "12:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Dieses Museum in einer normannisch-schwäbischen Burg beherbergt die berühmte Laminetta Orfica, also holen Sie sich einen kostenlosen Audioguide.",
+            "hu": "A normann-sváb kastélyban található múzeum őrzi a híres Laminetta Orficát, így érdemes egy ingyenes audioguide-ot kérni a görög feliratokhoz.",
+            "ro": "Găzduit într-un castel normando-șvab, muzeul deține faimoasa Laminetta Orfica, așa că luați un ghid audio gratuit pentru a înțelege inscripțiile grecești.",
+            "en": "Housed in a Norman-Swabian castle, this museum holds the famous Laminetta Orfica, so grab a free audio guide to understand the Greek inscriptions."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento ai caduti",
+            "hu": "Monumento ai caduti",
+            "ro": "Monumento ai caduti",
+            "en": "Monumento ai caduti"
+          },
+          "coords": [
+            16.122025,
+            38.67255
+          ],
+          "category": "historical",
+          "arrive_at": "14:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Dieses feierliche Kriegerdenkmal ehrt die gefallenen Soldaten und ist eine ergreifende Erinnerung; nahegelegene Cafés bieten einen Ort zum Nachdenken.",
+            "hu": "Ez az ünnepélyes háborús emlékmű a helyi elesett katonákat tiszteli, és megrázó történelmi emlékeztetőként szolgál, a közeli kávézókban megpihenhet.",
+            "ro": "Acest monument comemorativ solemn onorează soldații locali căzuți, servind ca o amintire emoționantă a istoriei, cu cafenele din apropiere pentru odihnă.",
+            "en": "This solemn war memorial honors local fallen soldiers, serving as a poignant reminder of history, with nearby cafes offering a place for quiet reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Santuario del Còfino",
+            "hu": "Santuario del Còfino",
+            "ro": "Santuario del Còfino",
+            "en": "Santuario del Còfino"
+          },
+          "coords": [
+            16.115704,
+            38.676764
+          ],
+          "category": "historical",
+          "arrive_at": "15:46",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses historische Heiligtum auf dem Hügel wegen seines spirituellen Flairs und der Aussicht; bringen Sie Ihre Kamera für die Landschaft mit.",
+            "hu": "Látogasson el erre a történelmi dombtetőn lévő szentélyre a spirituális hangulat és a lenyűgöző tengerparti panoráma miatt, hozzon fényképezőgépet.",
+            "ro": "Vizitați acest sanctuar istoric de pe deal pentru ambianța sa spirituală și priveliștile panoramice asupra coastei, aducând aparatul foto.",
+            "en": "Visit this historic hilltop sanctuary for its spiritual ambiance and stunning panoramic views of the coast, bringing your camera for the beautiful scenery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zuerst zum Kulturhaus E. Capialbi, um morgens in die lokale Kunst einzutauchen.\n\nBesuchen Sie mittags das Heiligtum Maria SS. della Salute und das Teatro Comunale.\n\nDer Nachmittag ist den Schätzen des Vito-Capialbi-Museums und dem Kriegerdenkmal gewidmet.\n\nBeenden Sie Ihre malerische Fahrt am Santuario del Còfino und genießen Sie die friedliche Aussicht am Abend.",
+        "hu": "Vezessen először az E. Capialbi Kultúrházhoz, csendes reggeli elmerülésként a helyi művészetekben.\n\nEbédidőben látogassa meg a Maria SS. della Salute szentélyt és a Teatro Comunale-t.\n\nA délutánt a Vito Capialbi Múzeum kincseinek és a Háborús Emlékműnek szentelheti.\n\nFejezze be a festői utazást a Santuario del Còfino-nál, élvezve a békés esti kilátást.",
+        "ro": "Conduceți mai întâi la Casa de Cultură E. Capialbi, bucurându-vă de o dimineață liniștită în artă.\n\nLa prânz, vizitați Sanctuarul Maria SS. della Salute și elegantul Teatro Comunale.\n\nDupă-amiaza este dedicată comorilor Muzeului Vito Capialbi și Monumentului Eroilor.\n\nÎncheiați-vă traseul pitoresc la Santuario del Còfino, admirând priveliștea liniștită de seară.",
+        "en": "Drive first to the E. Capialbi House of Culture, enjoying a quiet morning immersion into local arts.\n\nBy lunchtime, visit the Sanctuary of Maria SS. della Salute and the elegant Teatro Comunale.\n\nThe afternoon is dedicated to the treasures of the Vito Capialbi Museum and the War Memorial.\n\nFinish your scenic drive at the Santuario del Còfino, enjoying peaceful evening views."
+      }
+    }
+  }
+}

@@ -1,0 +1,497 @@
+{
+  "city_id": "united-kingdom-brynrefail-cities-v2",
+  "anchor": {
+    "name": "Brynrefail",
+    "coords": [
+      -4.28379,
+      53.35668
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:07",
+      "total_km": 4.13,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Morris Brothers Memorial",
+            "hu": "Morris Brothers Memorial",
+            "ro": "Morris Brothers Memorial",
+            "en": "Morris Brothers Memorial"
+          },
+          "coords": [
+            -4.288256,
+            53.359519
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "en": "Explore the fascinating monument dedicated to the cultural figures of Wales and be sure to read the inscribed history while taking in the local scenery.",
+            "de": "Entdecken Sie das faszinierende Denkmal für die kulturellen Persönlichkeiten von Wales und lesen Sie unbedingt die eingravierte Geschichte, während Sie die lokale Landschaft genießen.",
+            "hu": "Fedezze fel a walesi kulturális alakoknak szentelt lenyűgöző emlékművet, és feltétlenül olvassa el a bevésett történelmet, miközben gyönyörködik a helyi tájban.",
+            "ro": "Explorați monumentul fascinant dedicat personalităților culturale din Țara Galilor și asigurați-vă că citiți istoria inscripționată în timp ce admirați peisajul local."
+          }
+        },
+        {
+          "name": {
+            "de": "Dulas Beach",
+            "hu": "Dulas Beach",
+            "ro": "Dulas Beach",
+            "en": "Dulas Beach"
+          },
+          "coords": [
+            -4.283727,
+            53.370375
+          ],
+          "category": "recreational",
+          "arrive_at": "10:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 1.24,
+          "tip_5lang": {
+            "en": "Walk along the serene sandy stretches of this peaceful coast and keep an eye out for interesting seashells scattered near the tideline.",
+            "de": "Spazieren Sie entlang der ruhigen Sandstrände dieser friedlichen Küste und halten Sie Ausschau nach interessanten Muscheln in der Nähe der Flutlinie.",
+            "hu": "Sétáljon végig a békés partvidék nyugodt homokos szakaszain, és tartsa nyitva a szemét az árapályvonal közelében szétszórt érdekes kagylókért.",
+            "ro": "Plimbați-vă de-a lungul întinderilor de nisip liniștite ale acestei coaste și fiți atenți la scoicile interesante împrăștiate lângă linia mareei."
+          }
+        },
+        {
+          "name": {
+            "de": "Y Storws",
+            "hu": "Y Storws",
+            "ro": "Y Storws",
+            "en": "Y Storws"
+          },
+          "coords": [
+            -4.283053,
+            53.375367
+          ],
+          "category": "historical",
+          "arrive_at": "12:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "en": "Discover the historical charm of this ancient storage building and notice the sturdy stonework that has withstood centuries of coastal weather.",
+            "de": "Entdecken Sie den historischen Charme dieses alten Lagergebäudes und achten Sie auf das robuste Mauerwerk, das Jahrhunderten von Küstenwetter getrotzt hat.",
+            "hu": "Fedezze fel ennek az ősi raktárépületnek a történelmi báját, és vegye figyelembe a masszív kőfalakat, amelyek évszázadok óta dacolnak a tengerparti időjárással.",
+            "ro": "Descoperiți farmecul istoric al acestei clădiri vechi de depozitare și observați zidăria robustă care a rezistat secolelor de vreme de coastă."
+          }
+        },
+        {
+          "name": {
+            "de": "Traeth yr Ora",
+            "hu": "Traeth yr Ora",
+            "ro": "Traeth yr Ora",
+            "en": "Traeth yr Ora"
+          },
+          "coords": [
+            -4.271137,
+            53.372549
+          ],
+          "category": "recreational",
+          "arrive_at": "13:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "en": "Relax on this hidden gem of a beach surrounded by lush greenery, and bring a small picnic to enjoy while listening to the gentle waves.",
+            "de": "Entspannen Sie an diesem versteckten Juwel von einem Strand, umgeben von üppigem Grün, und bringen Sie ein kleines Picknick mit, das Sie genießen können, während Sie den sanften Wellen lauschen.",
+            "hu": "Pihenjen ezen a buja növényzettel körülvett, rejtett tengerparti gyöngyszemen, és hozzon magával egy kis pikniket, amit a lágy hullámokat hallgatva élvezhet.",
+            "ro": "Relaxați-vă pe această bijuterie ascunsă de plajă, înconjurată de verdeață luxuriantă, și aduceți un mic picnic pentru a-l savura în timp ce ascultați valurile blânde."
+          }
+        },
+        {
+          "name": {
+            "de": "Lligwy Beach",
+            "hu": "Lligwy Beach",
+            "ro": "Lligwy Beach",
+            "en": "Lligwy Beach"
+          },
+          "coords": [
+            -4.259171,
+            53.361216
+          ],
+          "category": "recreational",
+          "arrive_at": "15:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.49,
+          "tip_5lang": {
+            "en": "End your walking tour by taking a refreshing dip in the clear waters or simply lounging on the expansive sands to watch a beautiful sunset.",
+            "de": "Beenden Sie Ihre Wandertour mit einem erfrischenden Bad im klaren Wasser oder faulenzen Sie einfach im weiten Sand, um einen wunderschönen Sonnenuntergang zu beobachten.",
+            "hu": "Fejezze be a gyalogtúrát egy frissítő csobbanással a tiszta vízben, vagy egyszerűen csak heverésszen a hatalmas homokpadokon, és nézze meg a gyönyörű naplementét.",
+            "ro": "Încheiați-vă turul de plimbare făcând o baie răcoritoare în apele limpezi sau pur și simplu lenevind pe nisipurile vaste pentru a privi un apus frumos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Begin your morning with a historical immersion at the Morris Brothers Memorial, learning about local legends before heading towards the coast.\n\nBy midday, transition to the soothing sands of Dulas Beach, where the gentle coastal breeze provides a perfect backdrop for a relaxing stroll.\n\nIn the afternoon, explore the robust architecture of Y Storws and continue to the secluded and picturesque Traeth yr Ora for peaceful reflection.\n\nAs the evening approaches, unwind at Lligwy Beach, savoring the final moments of sunlight over the expansive shore after a fulfilling walk.",
+        "de": "Beginnen Sie Ihren Morgen mit einem historischen Eintauchen am Morris Brothers Memorial, wo Sie etwas über lokale Legenden erfahren, bevor Sie zur Küste aufbrechen.\n\nGegen Mittag wechseln Sie zu den beruhigenden Stränden von Dulas Beach, wo die sanfte Küstenbrise die perfekte Kulisse für einen Spaziergang bietet.\n\nErkunden Sie am Nachmittag die robuste Architektur von Y Storws und gehen Sie weiter zum abgelegenen und malerischen Traeth yr Ora zur friedlichen Reflexion.\n\nWenn der Abend naht, entspannen Sie am Lligwy Beach und genießen die letzten Sonnenstrahlen über dem weiten Ufer nach einem erfüllenden Spaziergang.",
+        "hu": "Kezdje a reggelt egy történelmi elmélyüléssel a Morris Brothers emlékműnél, ismerje meg a helyi legendákat, mielőtt a part felé venné az irányt.\n\nDélben váltson a Dulas Beach nyugtató homokjára, ahol a lágy tengerparti szellő tökéletes hátteret biztosít egy pihentető sétához.\n\nDélután fedezze fel az Y Storws robusztus építészetét, és haladjon tovább a félreeső és festői Traeth yr Ora felé egy kis békés elmélkedésre.\n\nAhogy közeledik az este, kapcsolódjon ki a Lligwy Beach-en, élvezve az utolsó napsugarakat a kiterjedt parton egy tartalmas séta után.",
+        "ro": "Începeți-vă dimineața cu o imersiune istorică la Memorialul Fraților Morris, învățând despre legendele locale înainte de a vă îndrepta spre coastă.\n\nPână la prânz, treceți la nisipurile liniștitoare de la Dulas Beach, unde briza blândă a coastei oferă un fundal perfect pentru o plimbare relaxantă.\n\nDupă-amiaza, explorați arhitectura robustă de la Y Storws și continuați spre izolată și pitoreasca Traeth yr Ora pentru o reflecție pașnică.\n\nPe măsură ce se apropie seara, relaxați-vă la Lligwy Beach, savurând ultimele momente de soare deasupra țărmului vast după o plimbare plină de satisfacții."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:13",
+      "total_km": 9.54,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "St Michael's Church",
+            "hu": "St Michael's Church",
+            "ro": "St Michael's Church",
+            "en": "St Michael's Church"
+          },
+          "coords": [
+            -4.284115,
+            53.348317
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "en": "Admire the quaint architecture of this local landmark and take a moment to walk through the peaceful churchyard before pedaling on.",
+            "de": "Bewundern Sie die malerische Architektur dieses lokalen Wahrzeichens und nehmen Sie sich einen Moment Zeit, um durch den friedlichen Kirchhof zu spazieren, bevor Sie weiterradeln.",
+            "hu": "Csodálja meg e helyi nevezetesség festői építészetét, és szánjon egy percet arra, hogy sétáljon egyet a békés templomkertben, mielőtt tovább pedálozna.",
+            "ro": "Admirați arhitectura pitorească a acestui punct de reper local și acordați-vă un moment pentru a vă plimba prin cimitirul liniștit al bisericii înainte de a pedala mai departe."
+          }
+        },
+        {
+          "name": {
+            "de": "Morris Brothers Memorial",
+            "hu": "Morris Brothers Memorial",
+            "ro": "Morris Brothers Memorial",
+            "en": "Morris Brothers Memorial"
+          },
+          "coords": [
+            -4.288256,
+            53.359519
+          ],
+          "category": "historical",
+          "arrive_at": "09:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.27,
+          "tip_5lang": {
+            "en": "Pause your bike ride to learn about the renowned brothers who contributed greatly to Welsh culture, and note the beautiful stone carvings.",
+            "de": "Unterbrechen Sie Ihre Radtour, um mehr über die berühmten Brüder zu erfahren, die viel zur walisischen Kultur beigetragen haben, und beachten Sie die schönen Steinmetzarbeiten.",
+            "hu": "Állítsa meg a kerékpártúrát, hogy megismerje a híres testvéreket, akik nagyban hozzájárultak a walesi kultúrához, és figyelje meg a gyönyörű kőfaragásokat.",
+            "ro": "Întrerupeți-vă plimbarea cu bicicleta pentru a afla despre frații renumiți care au contribuit mult la cultura galeză și observați sculpturile frumoase în piatră."
+          }
+        },
+        {
+          "name": {
+            "de": "Capel Sardis",
+            "hu": "Capel Sardis",
+            "ro": "Capel Sardis",
+            "en": "Capel Sardis"
+          },
+          "coords": [
+            -4.305246,
+            53.366959
+          ],
+          "category": "religious",
+          "arrive_at": "11:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.39,
+          "tip_5lang": {
+            "en": "Step into this historic chapel to experience its quiet, spiritual atmosphere and observe the traditional Welsh religious architecture.",
+            "de": "Treten Sie ein in diese historische Kapelle, um ihre ruhige, spirituelle Atmosphäre zu erleben und die traditionelle walisische religiöse Architektur zu beobachten.",
+            "hu": "Lépjen be ebbe a történelmi kápolnába, hogy megtapasztalja annak csendes, spirituális légkörét, és figyelje meg a hagyományos walesi vallási építészetet.",
+            "ro": "Pășiți în această capelă istorică pentru a experimenta atmosfera sa liniștită, spirituală și pentru a observa arhitectura religioasă tradițională galeză."
+          }
+        },
+        {
+          "name": {
+            "de": "Dulas Beach",
+            "hu": "Dulas Beach",
+            "ro": "Dulas Beach",
+            "en": "Dulas Beach"
+          },
+          "coords": [
+            -4.283727,
+            53.370375
+          ],
+          "category": "recreational",
+          "arrive_at": "11:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.47,
+          "tip_5lang": {
+            "en": "Park your bike near the shore to walk barefoot on the inviting sands, perfect for a mid-ride break while listening to the calling seagulls.",
+            "de": "Parken Sie Ihr Fahrrad in Strandnähe, um barfuß über den einladenden Sand zu laufen, ideal für eine Pause während der Fahrt, während Sie den Möwen lauschen.",
+            "hu": "Parkolja le kerékpárját a part közelében, hogy mezítláb sétáljon a hívogató homokban, amely tökéletes egy túra közbeni szünetre, miközben a sirályokat hallgatja.",
+            "ro": "Parcați-vă bicicleta lângă țărm pentru a vă plimba desculți pe nisipul primitor, perfect pentru o pauză la mijlocul cursei, ascultând pescărușii."
+          }
+        },
+        {
+          "name": {
+            "de": "Traeth yr Ora",
+            "hu": "Traeth yr Ora",
+            "ro": "Traeth yr Ora",
+            "en": "Traeth yr Ora"
+          },
+          "coords": [
+            -4.271137,
+            53.372549
+          ],
+          "category": "recreational",
+          "arrive_at": "13:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "en": "Enjoy the scenic cycle towards this secluded coastal spot, where you can easily find a quiet place to sit and admire the pristine landscape.",
+            "de": "Genießen Sie die malerische Radtour zu diesem abgelegenen Küstenort, wo Sie leicht einen ruhigen Ort finden können, um zu sitzen und die unberührte Landschaft zu bewundern.",
+            "hu": "Élvezze a festői kerékpározást e félreeső tengerparti hely felé, ahol könnyen találhat egy csendes helyet, ahol leülhet és megcsodálhatja az érintetlen tájat.",
+            "ro": "Bucurați-vă de plimbarea pitorească cu bicicleta spre acest loc de coastă izolat, unde puteți găsi cu ușurință un loc liniștit pentru a sta și a admira peisajul curat."
+          }
+        },
+        {
+          "name": {
+            "de": "Din Llugwy Romano-British Village",
+            "hu": "Din Llugwy Romano-British Village",
+            "ro": "Din Llugwy Romano-British Village",
+            "en": "Din Llugwy Romano-British Village"
+          },
+          "coords": [
+            -4.259483,
+            53.350673
+          ],
+          "category": "historical",
+          "arrive_at": "14:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.55,
+          "tip_5lang": {
+            "en": "Wander through the ancient stone foundations of this remarkable settlement and imagine daily life during the Romano-British era.",
+            "de": "Schlendern Sie durch die alten Steinfundamente dieser bemerkenswerten Siedlung und stellen Sie sich das tägliche Leben in der römisch-britischen Ära vor.",
+            "hu": "Sétáljon végig ennek a figyelemre méltó településnek az ősi kőalapjain, és képzelje el a mindennapi életet a római-brit korszakban.",
+            "ro": "Plimbați-vă printre fundațiile antice de piatră ale acestei așezări remarcabile și imaginați-vă viața de zi cu zi în timpul epocii romano-britanice."
+          }
+        },
+        {
+          "name": {
+            "de": "Lligwy Bay",
+            "hu": "Lligwy Bay",
+            "ro": "Lligwy Bay",
+            "en": "Lligwy Bay"
+          },
+          "coords": [
+            -4.25262,
+            53.365116
+          ],
+          "category": "landmark",
+          "arrive_at": "16:18",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.66,
+          "tip_5lang": {
+            "en": "Conclude your cycling journey with spectacular views across the bay, taking a moment to breathe in the salty sea air before heading back.",
+            "de": "Beenden Sie Ihre Radtour mit einer spektakulären Aussicht über die Bucht und nehmen Sie sich einen Moment Zeit, um die salzige Meeresluft einzuatmen, bevor Sie zurückkehren.",
+            "hu": "Fejezze be a kerékpáros utazást az öbölre nyíló látványos kilátással, szánjon egy percet a sós tengeri levegő belélegzésére, mielőtt visszaindulna.",
+            "ro": "Încheiați-vă călătoria cu bicicleta cu vederi spectaculoase peste golf, acordându-vă un moment pentru a respira aerul sărat al mării înainte de a vă întoarce."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Kick off your morning cycling from St Michael's Church to the Morris Brothers Memorial, taking in the historical legacy of the charming region.\n\nAs noon approaches, pedal over to Capel Sardis and then enjoy a well-deserved coastal break on the sandy shores of Dulas Beach.\n\nSpend your afternoon exploring the natural beauty of Traeth yr Ora, followed by a fascinating historical detour at the Din Llugwy village ruins.\n\nIn the evening, arrive at the stunning Lligwy Bay, where the sweeping ocean views offer a perfect reward for a day spent actively discovering the area.",
+        "de": "Beginnen Sie Ihr morgendliches Radfahren von der St. Michael's Church zum Morris Brothers Memorial und genießen Sie das historische Erbe der charmanten Region.\n\nWenn der Mittag naht, radeln Sie zur Capel Sardis und genießen Sie dann eine wohlverdiente Küstenpause an den Sandstränden von Dulas Beach.\n\nVerbringen Sie Ihren Nachmittag damit, die natürliche Schönheit von Traeth yr Ora zu erkunden, gefolgt von einem faszinierenden historischen Abstecher zu den Ruinen des Dorfes Din Llugwy.\n\nAm Abend erreichen Sie die atemberaubende Lligwy Bay, wo die weite Aussicht auf den Ozean eine perfekte Belohnung für einen aktiven Entdeckungstag bietet.",
+        "hu": "Kezdje a reggeli kerékpározást a St Michael's templomtól a Morris Brothers emlékműig, magába szívva a bájos régió történelmi örökségét.\n\nDél közeledtével pedálozzon át a Capel Sardis felé, majd élvezze a jól megérdemelt tengerparti szünetet a Dulas Beach homokos partján.\n\nTöltse a délutánt a Traeth yr Ora természeti szépségének felfedezésével, majd tegyen egy lenyűgöző történelmi kitérőt a Din Llugwy falu romjainál.\n\nEste érkezzen meg a lenyűgöző Lligwy-öbölbe, ahol a elsöprő óceáni kilátás tökéletes jutalmat kínál a terület aktív felfedezésével töltött napért.",
+        "ro": "Începeți-vă dimineața cu bicicleta de la Biserica St Michael până la Memorialul Fraților Morris, admirând moștenirea istorică a regiunii fermecătoare.\n\nPe măsură ce se apropie prânzul, pedalați spre Capel Sardis și apoi bucurați-vă de o pauză binemeritată pe coastă, pe țărmurile nisipoase de la Dulas Beach.\n\nPetreceți-vă după-amiaza explorând frumusețea naturală de la Traeth yr Ora, urmată de un ocol istoric fascinant la ruinele satului Din Llugwy.\n\nSeara, ajungeți la uimitorul Golf Lligwy, unde priveliștile panoramice ale oceanului oferă o recompensă perfectă pentru o zi petrecută descoperind activ zona."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:09",
+      "total_km": 7.78,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Mynydd Bodafon",
+            "hu": "Mynydd Bodafon",
+            "ro": "Mynydd Bodafon",
+            "en": "Mynydd Bodafon"
+          },
+          "coords": [
+            -4.296024,
+            53.343564
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "en": "Drive up to the highest point of Anglesey to enjoy breathtaking panoramic views, and wear sturdy shoes for a short hike around the natural landscape.",
+            "de": "Fahren Sie zum höchsten Punkt von Anglesey, um einen atemberaubenden Panoramablick zu genießen, und tragen Sie festes Schuhwerk für eine kurze Wanderung in der Natur.",
+            "hu": "Kocsikázzon fel Anglesey legmagasabb pontjára, hogy élvezze a lélegzetelállító panorámát, és viseljen masszív cipőt egy rövid túrához a természeti tájon.",
+            "ro": "Conduceți până la cel mai înalt punct din Anglesey pentru a vă bucura de vederi panoramice uluitoare și purtați încălțăminte robustă pentru o scurtă drumeție."
+          }
+        },
+        {
+          "name": {
+            "de": "Cytiau Gwyddelod",
+            "hu": "Cytiau Gwyddelod",
+            "ro": "Cytiau Gwyddelod",
+            "en": "Cytiau Gwyddelod"
+          },
+          "coords": [
+            -4.298577,
+            53.339234
+          ],
+          "category": "historical",
+          "arrive_at": "10:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "en": "Explore the remnants of these ancient hut circles and try to spot the distinctive layout of the stones that reveal early communal living arrangements.",
+            "de": "Erkunden Sie die Überreste dieser alten Hüttenkreise und versuchen Sie, die charakteristische Anordnung der Steine zu erkennen, die frühe gemeinschaftliche Wohnformen offenbaren.",
+            "hu": "Fedezze fel ezeknek az ősi kunyhóköröknek a maradványait, és próbálja meg kiszúrni a kövek jellegzetes elrendezését, amely a korai közösségi életkörülményeket tárja fel.",
+            "ro": "Explorați rămășițele acestor vechi cercuri de colibe și încercați să observați dispunerea distinctivă a pietrelor care dezvăluie aranjamentele timpurii de viață comunală."
+          }
+        },
+        {
+          "name": {
+            "de": "Llugwy Chambered Tomb",
+            "hu": "Llugwy Chambered Tomb",
+            "ro": "Llugwy Chambered Tomb",
+            "en": "Llugwy Chambered Tomb"
+          },
+          "coords": [
+            -4.252901,
+            53.349953
+          ],
+          "category": "historical",
+          "arrive_at": "11:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.24,
+          "tip_5lang": {
+            "en": "Marvel at the sheer size of the capstone covering this Neolithic burial chamber, ensuring you step carefully around the protected historical site.",
+            "de": "Bestaunen Sie die schiere Größe des Decksteins, der diese neolithische Grabkammer bedeckt, und achten Sie darauf, dass Sie vorsichtig um die geschützte historische Stätte herumtreten.",
+            "hu": "Csodálja meg ezt az újkőkori sírkamrát borító fedőkő puszta méretét, ügyelve arra, hogy óvatosan lépjen a védett történelmi helyszín körül.",
+            "ro": "Minunați-vă de dimensiunea pură a pietrei de acoperire a acestei camere funerare neolitice, asigurându-vă că pășiți cu grijă în jurul sitului istoric protejat."
+          }
+        },
+        {
+          "name": {
+            "de": "Capel Llugwy",
+            "hu": "Capel Llugwy",
+            "ro": "Capel Llugwy",
+            "en": "Capel Llugwy"
+          },
+          "coords": [
+            -4.256485,
+            53.352436
+          ],
+          "category": "historical",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "en": "Visit the atmospheric ruins of this 12th-century chapel, taking time to appreciate its tranquil setting among ancient trees just off the main road.",
+            "de": "Besuchen Sie die stimmungsvollen Ruinen dieser Kapelle aus dem 12. Jahrhundert und nehmen Sie sich Zeit, ihre ruhige Lage zwischen alten Bäumen abseits der Hauptstraße zu genießen.",
+            "hu": "Látogassa meg ennek a 12. századi kápolnának a hangulatos romjait, időt szakítva arra, hogy értékelje nyugodt környezetét az öreg fák között, közvetlenül a főút mellett.",
+            "ro": "Vizitați ruinele pline de atmosferă ale acestei capele din secolul al XII-lea, făcându-vă timp să apreciați cadrul său liniștit printre copacii bătrâni, chiar lângă drumul principal."
+          }
+        },
+        {
+          "name": {
+            "de": "Din Llugwy Romano-British Village",
+            "hu": "Din Llugwy Romano-British Village",
+            "ro": "Din Llugwy Romano-British Village",
+            "en": "Din Llugwy Romano-British Village"
+          },
+          "coords": [
+            -4.259483,
+            53.350673
+          ],
+          "category": "historical",
+          "arrive_at": "14:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "en": "Park nearby to walk among the well-preserved foundations of the village, and read the informational plaques to fully grasp the area's rich history.",
+            "de": "Parken Sie in der Nähe, um zwischen den gut erhaltenen Fundamenten des Dorfes spazieren zu gehen, und lesen Sie die Informationstafeln, um die reiche Geschichte zu erfassen.",
+            "hu": "Parkoljon a közelben, hogy sétáljon a falu jól megőrzött alapjai között, és olvassa el a tájékoztató táblákat, hogy teljes mértékben megértse a terület gazdag történelmét.",
+            "ro": "Parcați în apropiere pentru a vă plimba printre fundațiile bine conservate ale satului și citiți plăcile informative pentru a înțelege pe deplin istoria bogată a zonei."
+          }
+        },
+        {
+          "name": {
+            "de": "Lligwy Beach",
+            "hu": "Lligwy Beach",
+            "ro": "Lligwy Beach",
+            "en": "Lligwy Beach"
+          },
+          "coords": [
+            -4.259171,
+            53.361216
+          ],
+          "category": "recreational",
+          "arrive_at": "15:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.17,
+          "tip_5lang": {
+            "en": "Take a break from historical sites to relax on this popular wide sandy beach, perhaps picking up a warm drink from a local kiosk to enjoy by the water.",
+            "de": "Machen Sie eine Pause von historischen Stätten, um sich an diesem beliebten breiten Sandstrand zu entspannen, und holen Sie sich vielleicht ein warmes Getränk, um es am Wasser zu genießen.",
+            "hu": "Tartson egy kis szünetet a történelmi helyszínek után, hogy pihenjen ezen a népszerű, széles homokos strandon, esetleg vegyen egy meleg italt egy helyi kioszkból a vízparton.",
+            "ro": "Luați o pauză de la siturile istorice pentru a vă relaxa pe această plajă populară de nisip lată, luând poate o băutură caldă de la un chioșc local lângă apă."
+          }
+        },
+        {
+          "name": {
+            "de": "Y Storws",
+            "hu": "Y Storws",
+            "ro": "Y Storws",
+            "en": "Y Storws"
+          },
+          "coords": [
+            -4.283053,
+            53.375367
+          ],
+          "category": "historical",
+          "arrive_at": "17:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.23,
+          "tip_5lang": {
+            "en": "End your driving tour at this historic stone warehouse by the sea, examining its solid construction that has endured countless powerful storms.",
+            "de": "Beenden Sie Ihre Fahrtätigkeit an diesem historischen Steinlagerhaus am Meer und untersuchen Sie seine solide Konstruktion, die unzähligen mächtigen Stürmen standgehalten hat.",
+            "hu": "Fejezze be az autós túrát ennél a történelmi kőraktárnál a tenger mellett, megvizsgálva annak szilárd szerkezetét, amely számtalan hatalmas vihart élt túl.",
+            "ro": "Încheiați-vă turul cu mașina la acest depozit istoric de piatră de la malul mării, examinând construcția sa solidă care a îndurat nenumărate furtuni puternice."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Your road trip begins with sweeping views from Mynydd Bodafon before driving a short distance to explore the ancient Cytiau Gwyddelod hut circles.\n\nBy midday, shift your focus to the deeper past, driving to the monumental Llugwy Chambered Tomb and the atmospheric ruins of Capel Llugwy.\n\nIn the afternoon, marvel at the stone remnants of Din Llugwy Romano-British Village, then take a relaxing coastal drive to Lligwy Beach.\n\nAs dusk settles, make your final stop at Y Storws, a sturdy historical warehouse, wrapping up a day rich in ancient heritage and striking landscapes.",
+        "de": "Ihr Roadtrip beginnt mit weiten Ausblicken vom Mynydd Bodafon, bevor Sie eine kurze Strecke fahren, um die alten Hüttenkreise Cytiau Gwyddelod zu erkunden.\n\nKonzentrieren Sie sich gegen Mittag auf die tiefere Vergangenheit und fahren Sie zum monumentalen Llugwy Chambered Tomb und den Ruinen der Capel Llugwy.\n\nBestaunen Sie am Nachmittag die steinernen Überreste des romano-britischen Dorfes Din Llugwy und fahren Sie dann entspannt an der Küste entlang zum Lligwy Beach.\n\nWenn die Abenddämmerung einsetzt, machen Sie Ihren letzten Halt am Y Storws, einem robusten historischen Lagerhaus, und beenden einen Tag voller altem Erbe.",
+        "hu": "Az autós utazás a Mynydd Bodafon elsöprő kilátásával kezdődik, mielőtt egy rövid utat tesz meg az ősi Cytiau Gwyddelod kunyhókörök felfedezéséhez.\n\nDélre irányítsa a figyelmét a mélyebb múltra, vezessen a monumentális Llugwy kamrasírhoz és a Capel Llugwy hangulatos romjaihoz.\n\nDélután csodálja meg a Din Llugwy római-brit falu kőmaradványait, majd tegyen egy pihentető tengerparti autózást a Lligwy Beach-re.\n\nAhogy leszáll az alkonyat, tegye meg utolsó megállóját az Y Storws nevű, masszív történelmi raktárnál, befejezve az ősi örökségekben és lenyűgöző tájakban gazdag napot.",
+        "ro": "Călătoria cu mașina începe cu vederi panoramice de la Mynydd Bodafon, înainte de a conduce o scurtă distanță pentru a explora cercurile antice de colibe Cytiau Gwyddelod.\n\nPână la prânz, schimbați-vă atenția către trecutul mai profund, conducând spre monumentalul Mormânt Llugwy și ruinele cu atmosferă ale Capel Llugwy.\n\nDupă-amiaza, minunați-vă de rămășițele de piatră ale Satului Romano-Britanic Din Llugwy, apoi faceți o plimbare relaxantă pe coastă până la Lligwy Beach.\n\nPe măsură ce se lasă amurgul, faceți o ultimă oprire la Y Storws, un depozit istoric robust, încheind o zi bogată în moștenire antică și peisaje uimitoare."
+      }
+    }
+  }
+}

@@ -1,0 +1,520 @@
+{
+  "city_id": "spain-colombres-cities-v2",
+  "anchor": {
+    "name": "Colombres",
+    "coords": [
+      -4.54094,
+      43.37493
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:33",
+      "total_km": 1.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Estátua de Manuel Ibañez Posada (Conde de Ribadedeva)",
+            "hu": "Estátua de Manuel Ibañez Posada (Conde de Ribadedeva)",
+            "ro": "Estátua de Manuel Ibañez Posada (Conde de Ribadedeva)",
+            "en": "Estátua de Manuel Ibañez Posada (Conde de Ribadedeva)"
+          },
+          "coords": [
+            -4.540353,
+            43.374563
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Bronzestatue zu Ehren des Grafen von Ribadedeva, einer Schlüsselfigur der Geschichte, und trinken Sie in der Nähe einen Kaffee.",
+            "hu": "Csodálja meg a Ribadedeva grófjának emléket állító bronzszobrot, amely a helyi történelem kulcsfigurája, és igyon egy kávét a közelben az útitervhez.",
+            "ro": "Admirați statuia de bronz în cinstea Contelui de Ribadedeva, o figură cheie a istoriei locale, și savurați o cafea la o terasă din apropiere.",
+            "en": "Admire the bronze statue honoring the Count of Ribadedeva, a key figure in local history, and grab a coffee nearby to plan your route."
+          }
+        },
+        {
+          "name": {
+            "de": "Casas gemelas de F. Noriega",
+            "hu": "Casas gemelas de F. Noriega",
+            "ro": "Casas gemelas de F. Noriega",
+            "en": "Casas gemelas de F. Noriega"
+          },
+          "coords": [
+            -4.539409,
+            43.374992
+          ],
+          "category": "landmark",
+          "arrive_at": "10:32",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beobachten Sie die perfekte Symmetrie dieser indischen Zwillingsvillen, die den kolonialen Reichtum zeigen, und fotografieren Sie vom gegenüberliegenden Bürgersteig.",
+            "hu": "Figyelje meg a gyarmati gazdagságot hirdető iker-Indiano villák tökéletes szimmetriáját, és fotózzon a szemközti járdáról a legjobb szögért.",
+            "ro": "Observați simetria perfectă a acestor vile gemene indiano ce reflectă bogăția colonială, fotografiindu-le de pe trotuarul opus pentru cel mai bun unghi.",
+            "en": "Observe the perfect symmetry of these twin Indiano mansions showcasing colonial wealth, taking photos from the opposite sidewalk for the best angle."
+          }
+        },
+        {
+          "name": {
+            "de": "Indiano Archive Foundation",
+            "hu": "Indiano Archive Foundation",
+            "ro": "Indiano Archive Foundation",
+            "en": "Indiano Archive Foundation"
+          },
+          "coords": [
+            -4.538973,
+            43.373673
+          ],
+          "category": "museum",
+          "arrive_at": "10:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese blaue Villa, um mehr über die spanische Auswanderung zu erfahren, und verpassen Sie nicht den üppigen, exotischen Garten auf der Rückseite.",
+            "hu": "Fedezze fel ezt a kék villát, ahol megismerheti a spanyol kivándorlás történetét, és ne hagyja ki a birtok hátsó részén található egzotikus kertet.",
+            "ro": "Explorați acest conac albastru pentru a învăța despre emigrarea spaniolă și nu ratați grădina exotică și luxuriantă din spatele domeniului grandios.",
+            "en": "Explore this stunning blue mansion to learn about Spanish emigration to the Americas, and don't miss the lush, exotic garden at the back of the estate."
+          }
+        },
+        {
+          "name": {
+            "de": "Finca las Raucas",
+            "hu": "Finca las Raucas",
+            "ro": "Finca las Raucas",
+            "en": "Finca las Raucas"
+          },
+          "coords": [
+            -4.542986,
+            43.374317
+          ],
+          "category": "landmark",
+          "arrive_at": "12:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die bunten Fliesen und schmiedeeisernen Details dieses privaten Anwesens und halten Sie kurz an, um die modernistische Fassade zu sehen.",
+            "hu": "Csodálja meg a magánbirtok színes csempéit és kovácsoltvas részleteit, és álljon meg egy pillanatra, hogy élvezze a jól megőrzött modernista homlokzatot.",
+            "ro": "Admirați plăcile colorate și detaliile din fier forjat ale acestui domeniu privat, oprindu-vă scurt pentru a vedea fațada sa modernistă bine conservată.",
+            "en": "Marvel at the colorful tiles and intricate wrought-iron details of this private estate, stopping briefly to admire its beautifully preserved modernist facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de los Leones",
+            "hu": "Casa de los Leones",
+            "ro": "Casa de los Leones",
+            "en": "Casa de los Leones"
+          },
+          "coords": [
+            -4.54269,
+            43.375823
+          ],
+          "category": "landmark",
+          "arrive_at": "12:53",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die charakteristischen Löwenstatuen, die den Eingang dieses prächtigen Hauses bewachen, und besuchen Sie es im besten Morgenlicht.",
+            "hu": "Keresse meg a pompás ház bejáratát őrző jellegzetes oroszlánszobrokat, és látogasson el ide a reggeli fények idején a legszebb fotókért.",
+            "ro": "Găsiți statuile cu lei care păzesc intrarea acestei case magnifice și vizitați-o în lumina dimineții pentru cele mai vibrante fotografii de arhitectură.",
+            "en": "Spot the characteristic lion statues guarding the entrance of this magnificent house, and visit during morning light for the most vibrant architectural photos."
+          }
+        },
+        {
+          "name": {
+            "de": "La Solana",
+            "hu": "La Solana",
+            "ro": "La Solana",
+            "en": "La Solana"
+          },
+          "coords": [
+            -4.541289,
+            43.375539
+          ],
+          "category": "landmark",
+          "arrive_at": "13:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die Eleganz dieser Villa aus dem 19. Jahrhundert mit ihren markanten Balkonen und bewundern Sie die Holzarbeiten der oberen Etagen.",
+            "hu": "Gyönyörködjön a 19. század végi villa eleganciájában és jellegzetes erkélyeiben, és pillantson fel a felső szintek bonyolult famunkáira.",
+            "ro": "Lăsați-vă fermecat de eleganța acestei vile de secol XIX cu balcoanele sale distincte, privind în sus pentru a admira lemnăria complexă a etajelor.",
+            "en": "Take in the elegance of this late 19th-century villa with its distinctive balconies, looking up to see the intricate woodwork framing the upper floors."
+          }
+        },
+        {
+          "name": {
+            "de": "Las Palmeras",
+            "hu": "Las Palmeras",
+            "ro": "Las Palmeras",
+            "en": "Las Palmeras"
+          },
+          "coords": [
+            -4.544727,
+            43.375294
+          ],
+          "category": "landmark",
+          "arrive_at": "13:30",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Sehen Sie, wie die hohen Palmen diesem Haus seinen Namen und seine tropische Atmosphäre verleihen, ein Symbol für den karibischen Reichtum.",
+            "hu": "Nézze meg, hogyan adnak a magasodó pálmafák trópusi hangulatot és nevet ennek az épületnek, tökéletesen szimbolizálva a Karib-térségből hozott vagyont.",
+            "ro": "Vedeți cum palmierii înalți dau numele și atmosfera tropicală acestei case, simbolizând perfect bogăția adusă din Caraibe pe vremuri.",
+            "en": "See how the towering palm trees give this Indiano house its name and tropical vibe, perfectly symbolizing the wealth returned from the Caribbean."
+          }
+        },
+        {
+          "name": {
+            "de": "Quinta Buenavista",
+            "hu": "Quinta Buenavista",
+            "ro": "Quinta Buenavista",
+            "en": "Quinta Buenavista"
+          },
+          "coords": [
+            -4.545506,
+            43.376464
+          ],
+          "category": "landmark",
+          "arrive_at": "13:48",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die stattliche Präsenz dieses klassischen Herrenhauses am Rande des historischen Kerns und machen Sie einen letzten Spaziergang.",
+            "hu": "Élvezze a klasszikus kúria tekintélyes jelenlétét a történelmi mag szélén, és tegyen egy utolsó sétát a finoman díszített kerítésfal mentén.",
+            "ro": "Bucurați-vă de prezența impunătoare a acestui conac clasic situat la marginea centrului istoric, făcând o ultimă plimbare pe lângă zidul său decorat.",
+            "en": "Enjoy the stately presence of this classical mansion which marks the edge of the historic core, taking a final stroll along its finely decorated perimeter wall."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit dem Erbe lokaler Persönlichkeiten und der Geschichte der Stadt. Am Mittag erreichen Sie das Indiano-Archiv, um die Verbindung zu Amerika zu erkunden. Der Nachmittag ist ein Spaziergang zwischen gut erhaltenen Kolonialvillen. Der Abend klingt an der historischen Grenze dieser großen Anwesen aus.",
+        "hu": "A reggel a helyi történelmi alakok örökségével indul. Délben eljut a koronaékszerhez, az Indiano Archívumhoz, hogy felfedezze az amerikai kapcsolatokat. A délután egy kellemes séta a tökéletesen megőrzött gyarmati kúriák között. Az este ezen nagyszerű birtokok történelmi határánál csendesedik el.",
+        "ro": "Dimineața începe cu moștenirea figurilor locale, pregătind scena istorică a orașului. La prânz ajungeți la bijuteria coroanei, Arhiva Indiano, explorând legătura cu America. După-amiaza este o plimbare printre vile coloniale. Seara se încheie liniștit lângă perimetrul istoric al acestor domenii grandioase.",
+        "en": "Morning starts with the legacy of local figures, setting the stage for the town's history. Midday brings you to the crown jewel, the Indiano Archive, exploring the Americas connection. Afternoon is a delightful stroll among perfectly preserved colonial mansions. Evening winds down near the historic perimeter of these grand estates."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:44",
+      "total_km": 8.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Indiano Archive Foundation",
+            "hu": "Indiano Archive Foundation",
+            "ro": "Indiano Archive Foundation",
+            "en": "Indiano Archive Foundation"
+          },
+          "coords": [
+            -4.538973,
+            43.373673
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese blaue Villa, um mehr über die spanische Auswanderung zu erfahren, und verpassen Sie nicht den üppigen, exotischen Garten auf der Rückseite.",
+            "hu": "Fedezze fel ezt a kék villát, ahol megismerheti a spanyol kivándorlás történetét, és ne hagyja ki a birtok hátsó részén található egzotikus kertet.",
+            "ro": "Explorați acest conac albastru pentru a învăța despre emigrarea spaniolă și nu ratați grădina exotică și luxuriantă din spatele domeniului grandios.",
+            "en": "Explore this stunning blue mansion to learn about Spanish emigration to the Americas, and don't miss the lush, exotic garden at the back of the estate."
+          }
+        },
+        {
+          "name": {
+            "de": "Quinta Buenavista",
+            "hu": "Quinta Buenavista",
+            "ro": "Quinta Buenavista",
+            "en": "Quinta Buenavista"
+          },
+          "coords": [
+            -4.545506,
+            43.376464
+          ],
+          "category": "landmark",
+          "arrive_at": "10:54",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die stattliche Präsenz dieses klassischen Herrenhauses am Rande des historischen Kerns und machen Sie einen letzten Spaziergang.",
+            "hu": "Élvezze a klasszikus kúria tekintélyes jelenlétét a történelmi mag szélén, és tegyen egy utolsó sétát a finoman díszített kerítésfal mentén.",
+            "ro": "Bucurați-vă de prezența impunătoare a acestui conac clasic situat la marginea centrului istoric, făcând o ultimă plimbare pe lângă zidul său decorat.",
+            "en": "Enjoy the stately presence of this classical mansion which marks the edge of the historic core, taking a final stroll along its finely decorated perimeter wall."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador del Picu del Regolgueru",
+            "hu": "Mirador del Picu del Regolgueru",
+            "ro": "Mirador del Picu del Regolgueru",
+            "en": "Mirador del Picu del Regolgueru"
+          },
+          "coords": [
+            -4.541366,
+            43.394063
+          ],
+          "category": "natural",
+          "arrive_at": "11:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Steigen Sie zu diesem Aussichtspunkt hinauf, um ein Panorama des Kantabrischen Meeres zu genießen, und bringen Sie unbedingt eine Windjacke mit.",
+            "hu": "Másszon fel ehhez a tengerparti kilátóhoz a Kantábriai-tenger lenyűgöző panorámájáért, és hozzon széldzsekit, mert az óceáni szellő itt rendkívül erős.",
+            "ro": "Urcați la acest punct de belvedere de coastă pentru panorame superbe asupra Mării Cantabrice și luați o jachetă de vânt, deoarece briza poate fi puternică.",
+            "en": "Climb to this coastal viewpoint for sweeping panoramas of the Cantabrian Sea, and bring a windbreaker as the ocean breeze can be remarkably strong here."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Cuevas Coloradas",
+            "hu": "Playa de Cuevas Coloradas",
+            "ro": "Playa de Cuevas Coloradas",
+            "en": "Playa de Cuevas Coloradas"
+          },
+          "coords": [
+            -4.55641,
+            43.39438
+          ],
+          "category": "recreational",
+          "arrive_at": "11:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die markanten roten Felsformationen dieses abgelegenen Kieselstrandes und tragen Sie feste Schuhe, da der Zugangspfad steil sein kann.",
+            "hu": "Fedezze fel az eldugott kavicsos strandot szegélyező lenyűgöző vörös sziklaképződményeket, és viseljen masszív cipőt a meredek hozzáférési út miatt.",
+            "ro": "Descoperiți formațiunile stâncoase roșii care încadrează această plajă cu pietriș retrasă, purtând încălțăminte solidă pentru poteca abruptă de acces.",
+            "en": "Discover the striking red rock formations that frame this secluded pebble beach, wearing sturdy shoes since the access path can be steep and uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Mendía",
+            "hu": "Playa de Mendía",
+            "ro": "Playa de Mendía",
+            "en": "Playa de Mendía"
+          },
+          "coords": [
+            -4.558795,
+            43.393132
+          ],
+          "category": "recreational",
+          "arrive_at": "13:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem malerischen Sandstrand umgeben von grünen Klippen und kommen Sie bei Ebbe an, um die kleinen Meereshöhlen zu erkunden.",
+            "hu": "Pihenjen ezen a festői homokos strandon, amelyet drámai zöld sziklák vesznek körül, és érkezzen apálykor, ha szeretné felfedezni a rejtett tengeri barlangokat.",
+            "ro": "Relaxați-vă pe această plajă pitorească înconjurată de stânci verzi dramatice, sosind la reflux dacă doriți să explorați micile peșteri marine ascunse.",
+            "en": "Relax on this picturesque sandy beach surrounded by dramatic green cliffs, arriving at low tide if you want to explore the small hidden sea caves."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador del Pico del Cañón",
+            "hu": "Mirador del Pico del Cañón",
+            "ro": "Mirador del Pico del Cañón",
+            "en": "Mirador del Pico del Cañón"
+          },
+          "coords": [
+            -4.516718,
+            43.385989
+          ],
+          "category": "natural",
+          "arrive_at": "14:49",
+          "stay_min": 55,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Blicken Sie über die spektakuläre Mündung der Tina Mayor, wo der Fluss auf das Meer trifft, und bringen Sie ein Fernglas mit, um Küstenvögel zu beobachten.",
+            "hu": "Tekintsen le a látványos Tina Mayor torkolatra, ahol a folyó találkozik a tengerrel, és hozzon távcsövet a zord sziklákon fészkelő parti madarakhoz.",
+            "ro": "Priviți peste spectaculosul estuar Tina Mayor unde râul întâlnește marea, folosind un binoclu pentru a observa păsările de coastă care cuibăresc pe stânci.",
+            "en": "Look out over the spectacular Tina Mayor estuary where the river meets the sea, carrying binoculars to spot coastal birds nesting along the rugged cliffs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der reichen Indiano-Architektur, bevor Sie die Stadt verlassen. Mittags fahren Sie zu dramatischen Aussichtspunkten über dem Kantabrischen Meer. Den Nachmittag verbringen Sie an farbenfrohen Klippen und Stränden. Der Abend endet mit einem letzten spektakulären Mündungspanorama.",
+        "hu": "Kezdje a reggelt a gazdag Indiano építészettel, mielőtt kikerékpározna a városból. A délidő drámai tengerparti kilátókhoz viszi a vad Kantábriai-tenger felett. A délutánt az egyedülálló színű sziklák és strandok mentén pihenve töltheti. Az estét egy utolsó, látványos torkolati panoráma zárja.",
+        "ro": "Începeți dimineața absorbind arhitectura bogată Indiano înainte de a ieși din oraș. Prânzul vă duce la puncte de belvedere dramatice de pe coastă. După-amiaza este petrecută relaxându-vă la stânci colorate și plaje pitorești. Seara se încheie cu o panoramă finală spectaculoasă a estuarului.",
+        "en": "Start your morning soaking in the rich Indiano architecture before pedaling out of town. Midday takes you up to dramatic coastal viewpoints overlooking the wild Cantabrian Sea. Afternoon is spent relaxing by uniquely colored cliffs and pebble beaches. Evening concludes with a final spectacular estuary panorama."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:39",
+      "total_km": 12.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ruina de la torre de Villanueva",
+            "hu": "Ruina de la torre de Villanueva",
+            "ro": "Ruina de la torre de Villanueva",
+            "en": "Ruina de la torre de Villanueva"
+          },
+          "coords": [
+            -4.552592,
+            43.358478
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Versetzen Sie sich bei diesen mittelalterlichen Turmruinen in die Vergangenheit und gehen Sie vorsichtig um die instabilen Steine herum.",
+            "hu": "Lépjen vissza az időben ezeknél a tájba simuló középkori toronyromoknál, és óvatosan lépkedjen az instabil kövek között, hogy megcsodálja a régi falazatot.",
+            "ro": "Întoarceți-vă în timp la aceste ruine ascunse ale unui turn medieval, pășind cu grijă în jurul pietrelor instabile pentru a aprecia zidăria antică.",
+            "en": "Step back in time at these medieval tower ruins hidden in the landscape, treading carefully around the unstable stones to appreciate the ancient masonry."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa en ruinas de La Prida",
+            "hu": "Casa en ruinas de La Prida",
+            "ro": "Casa en ruinas de La Prida",
+            "en": "Casa en ruinas de La Prida"
+          },
+          "coords": [
+            -4.559137,
+            43.360483
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Betrachten Sie die eindringliche Schönheit dieser verlassenen, von der Natur überwachsenen historischen Residenz und halten Sie einen sicheren Abstand.",
+            "hu": "Elmélkedjen ezen az elhagyatott, természet által visszahódított történelmi rezidencia kísérteties szépségén, és tartson tisztes távolságot a romoktól.",
+            "ro": "Contemplați frumusețea stranie a acestei reședințe istorice abandonate și acaparate de natură, păstrând o distanță sigură din cauza structurii compromise.",
+            "en": "Contemplate the haunting beauty of this abandoned historic residence overgrown by nature, keeping a safe distance as the structural integrity is compromised."
+          }
+        },
+        {
+          "name": {
+            "de": "Indiano Archive Foundation",
+            "hu": "Indiano Archive Foundation",
+            "ro": "Indiano Archive Foundation",
+            "en": "Indiano Archive Foundation"
+          },
+          "coords": [
+            -4.538973,
+            43.373673
+          ],
+          "category": "museum",
+          "arrive_at": "12:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese blaue Villa, um mehr über die spanische Auswanderung zu erfahren, und verpassen Sie nicht den üppigen, exotischen Garten auf der Rückseite.",
+            "hu": "Fedezze fel ezt a kék villát, ahol megismerheti a spanyol kivándorlás történetét, és ne hagyja ki a birtok hátsó részén található egzotikus kertet.",
+            "ro": "Explorați acest conac albastru pentru a învăța despre emigrarea spaniolă și nu ratați grădina exotică și luxuriantă din spatele domeniului grandios.",
+            "en": "Explore this stunning blue mansion to learn about Spanish emigration to the Americas, and don't miss the lush, exotic garden at the back of the estate."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador del Pico del Cañón",
+            "hu": "Mirador del Pico del Cañón",
+            "ro": "Mirador del Pico del Cañón",
+            "en": "Mirador del Pico del Cañón"
+          },
+          "coords": [
+            -4.516718,
+            43.385989
+          ],
+          "category": "natural",
+          "arrive_at": "13:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Blicken Sie über die spektakuläre Mündung der Tina Mayor, wo der Fluss auf das Meer trifft, und bringen Sie ein Fernglas mit, um Küstenvögel zu beobachten.",
+            "hu": "Tekintsen le a látványos Tina Mayor torkolatra, ahol a folyó találkozik a tengerrel, és hozzon távcsövet a zord sziklákon fészkelő parti madarakhoz.",
+            "ro": "Priviți peste spectaculosul estuar Tina Mayor unde râul întâlnește marea, folosind un binoclu pentru a observa păsările de coastă care cuibăresc pe stânci.",
+            "en": "Look out over the spectacular Tina Mayor estuary where the river meets the sea, carrying binoculars to spot coastal birds nesting along the rugged cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador del Picu del Regolgueru",
+            "hu": "Mirador del Picu del Regolgueru",
+            "ro": "Mirador del Picu del Regolgueru",
+            "en": "Mirador del Picu del Regolgueru"
+          },
+          "coords": [
+            -4.541366,
+            43.394063
+          ],
+          "category": "natural",
+          "arrive_at": "14:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Steigen Sie zu diesem Aussichtspunkt hinauf, um ein Panorama des Kantabrischen Meeres zu genießen, und bringen Sie unbedingt eine Windjacke mit.",
+            "hu": "Másszon fel ehhez a tengerparti kilátóhoz a Kantábriai-tenger lenyűgöző panorámájáért, és hozzon széldzsekit, mert az óceáni szellő itt rendkívül erős.",
+            "ro": "Urcați la acest punct de belvedere de coastă pentru panorame superbe asupra Mării Cantabrice și luați o jachetă de vânt, deoarece briza poate fi puternică.",
+            "en": "Climb to this coastal viewpoint for sweeping panoramas of the Cantabrian Sea, and bring a windbreaker as the ocean breeze can be remarkably strong here."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Mendía",
+            "hu": "Playa de Mendía",
+            "ro": "Playa de Mendía",
+            "en": "Playa de Mendía"
+          },
+          "coords": [
+            -4.558795,
+            43.393132
+          ],
+          "category": "recreational",
+          "arrive_at": "14:54",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem malerischen Sandstrand umgeben von grünen Klippen und kommen Sie bei Ebbe an, um die kleinen Meereshöhlen zu erkunden.",
+            "hu": "Pihenjen ezen a festői homokos strandon, amelyet drámai zöld sziklák vesznek körül, és érkezzen apálykor, ha szeretné felfedezni a rejtett tengeri barlangokat.",
+            "ro": "Relaxați-vă pe această plajă pitorească înconjurată de stânci verzi dramatice, sosind la reflux dacă doriți să explorați micile peșteri marine ascunse.",
+            "en": "Relax on this picturesque sandy beach surrounded by dramatic green cliffs, arriving at low tide if you want to explore the small hidden sea caves."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen enthüllt die mittelalterliche Vergangenheit in den ländlichen Ruinen südlich der Stadt. Mittags geht es in die große Kolonialzeit bei der Indiano-Stiftung. Nachmittags wechseln Sie zur atemberaubenden Küste und zu weiten Aussichten. Der Abend endet an einem malerischen, versteckten Strand.",
+        "hu": "A reggel feltárja a város körüli középkori romok rejtett múltját. A délidő a fenséges Indiano Alapítványnál a nagy gyarmati korszakba vált át. A délután a lélegzetelállító tengerpartra és a kiterjedt torkolati kilátókra összpontosít. Az este egy festői, rejtett strandon ér véget a naplementében.",
+        "ro": "Dimineața dezvăluie trecutul medieval ascuns în ruinele rurale de la sudul orașului. Prânzul face tranziția către marea epocă colonială la Arhiva Indiano. După-amiaza vă îndreaptă spre coasta uluitoare și priveliști de estuar. Seara se așterne pe o plajă ascunsă pitorească la apus.",
+        "en": "Morning reveals the medieval past hidden in the countryside ruins south of town. Midday transitions to the grand colonial era at the majestic Indiano Foundation. Afternoon shifts gears to the breathtaking coastline and sweeping estuary overlooks. Evening settles at a picturesque hidden beach as the sun lowers."
+      }
+    }
+  }
+}

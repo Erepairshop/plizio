@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-el-port-de-la-selva-cities-v2",
+  "anchor": {
+    "name": "el Port de la Selva",
+    "coords": [
+      3.20472,
+      42.33732
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:27",
+      "total_km": 2.14,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Platja dels Capellans",
+            "hu": "Platja dels Capellans",
+            "ro": "Platja dels Capellans",
+            "en": "Platja dels Capellans"
+          },
+          "coords": [
+            3.194144,
+            42.336666
+          ],
+          "category": "recreational",
+          "arrive_at": "09:13",
+          "stay_min": 85,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.87,
+          "tip_5lang": {
+            "de": "Genießen Sie das klare Wasser und bringen Sie Badeschuhe mit, da der idyllische Strand kieselig ist.",
+            "hu": "Élvezze a tiszta vizet, és hozzon magával fürdőcipőt, mivel az idilli strand kavicsos.",
+            "ro": "Bucurați-vă de apa limpede și aduceți încălțăminte de baie, deoarece plaja idilică are pietriș.",
+            "en": "Enjoy the clear water and bring bathing shoes, as the idyllic beach is pebbly."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja del Rec de Canet",
+            "hu": "Platja del Rec de Canet",
+            "ro": "Platja del Rec de Canet",
+            "en": "Platja del Rec de Canet"
+          },
+          "coords": [
+            3.190227,
+            42.339086
+          ],
+          "category": "recreational",
+          "arrive_at": "10:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein perfekter, ruhiger Ort zum Schnorcheln, also vergessen Sie Ihre Taucherbrille nicht.",
+            "hu": "Tökéletes, nyugodt hely sznorkelezéshez, ezért ne felejtse el a búvárszemüvegét.",
+            "ro": "Un loc perfect și liniștit pentru snorkeling, deci nu uitați ochelarii de scufundare.",
+            "en": "A perfect, quiet place for snorkeling, so don't forget your diving goggles."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja d'en Pere Esteve",
+            "hu": "Platja d'en Pere Esteve",
+            "ro": "Platja d'en Pere Esteve",
+            "en": "Platja d'en Pere Esteve"
+          },
+          "coords": [
+            3.189456,
+            42.340714
+          ],
+          "category": "recreational",
+          "arrive_at": "12:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Suchen Sie sich frühzeitig einen schattigen Platz unter den Felsen für ein entspanntes Picknick am Meer.",
+            "hu": "Keressen korán egy árnyékos helyet a sziklák alatt egy pihentető piknikhez a tengerparton.",
+            "ro": "Găsiți devreme un loc umbrit sub stânci pentru un picnic relaxant pe malul mării.",
+            "en": "Find a shady spot under the rocks early on for a relaxing picnic by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de la Vall",
+            "hu": "Platja de la Vall",
+            "ro": "Platja de la Vall",
+            "en": "Platja de la Vall"
+          },
+          "coords": [
+            3.186172,
+            42.342848
+          ],
+          "category": "recreational",
+          "arrive_at": "13:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Packen Sie ein gutes Buch ein, denn diese kleine Bucht ist meist sehr ruhig und herrlich abgeschieden.",
+            "hu": "Csomagoljon be egy jó könyvet, mert ez a kis öböl általában nagyon csendes és csodálatosan elszigetelt.",
+            "ro": "Împachetați o carte bună, deoarece acest mic golf este de obicei foarte liniștit și minunat de izolat.",
+            "en": "Pack a good book, because this small bay is usually very quiet and wonderfully secluded."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de l'Olla",
+            "hu": "Platja de l'Olla",
+            "ro": "Platja de l'Olla",
+            "en": "Platja de l'Olla"
+          },
+          "coords": [
+            3.185149,
+            42.345648
+          ],
+          "category": "recreational",
+          "arrive_at": "14:42",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Bleiben Sie bis zum späten Nachmittag, um das goldene Licht auf dem glitzernden Wasser zu bewundern.",
+            "hu": "Maradjon késő délutánig, hogy megcsodálja a csillogó vízen megcsillanó aranyfényt.",
+            "ro": "Rămâneți până târziu după-amiaza pentru a admira lumina aurie de pe apa strălucitoare.",
+            "en": "Stay until late afternoon to admire the golden light on the sparkling water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein entspannter Spaziergang entlang der malerischen Küste von El Port de la Selva beginnt am idyllischen Strand Capellans. Gegen Mittag erreichen wir die ruhige Bucht Rec de Canet für eine kleine Pause. Nachmittags spazieren wir zu den Stränden Pere Esteve und La Vall, die perfekte Fotomotive bieten. Der Tag endet gemütlich am Platja de l'Olla mit einem herrlichen Blick auf das glitzernde Meer.",
+        "hu": "Egy pihentető séta El Port de la Selva festői partvidékén, amely az idilli Capellans strandon kezdődik. Délben elérjük a csendes Rec de Canet öblöt egy kis pihenőre. Délután a Pere Esteve és La Vall strandokhoz sétálunk, amelyek tökéletes fotótémákat kínálnak. A nap a Platja de l'Olla strandon ér véget, ahonnan csodálatos kilátás nyílik a csillogó tengerre.",
+        "ro": "O plimbare relaxantă de-a lungul coastei pitorești din El Port de la Selva începe la plaja idilică Capellans. La prânz ajungem în golful liniștit Rec de Canet pentru o scurtă pauză. După-amiaza ne plimbăm spre plajele Pere Esteve și La Vall, care oferă oportunități perfecte pentru fotografii. Ziua se încheie confortabil la Platja de l'Olla, cu o vedere minunată asupra mării strălucitoare.",
+        "en": "A relaxing walk along the picturesque coast of El Port de la Selva begins at the idyllic Capellans beach. At noon we reach the quiet Rec de Canet bay for a short break. In the afternoon we walk to the Pere Esteve and La Vall beaches, which offer perfect photo opportunities. The day ends comfortably at Platja de l'Olla with a wonderful view of the sparkling sea."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:23",
+      "total_km": 5.95,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Platja del Rec de Canet",
+            "hu": "Platja del Rec de Canet",
+            "ro": "Platja del Rec de Canet",
+            "en": "Platja del Rec de Canet"
+          },
+          "coords": [
+            3.190227,
+            42.339086
+          ],
+          "category": "recreational",
+          "arrive_at": "09:07",
+          "stay_min": 85,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad gut ab und kühlen Sie sich kurz im erfrischenden Meerwasser ab.",
+            "hu": "Zárja le jól a kerékpárját, és hűtse le magát egy kicsit a frissítő tengervízben.",
+            "ro": "Blocați-vă bine bicicleta și răcoriți-vă puțin în apa mării revigorante.",
+            "en": "Lock your bike securely and cool off briefly in the refreshing sea water."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de la Vall",
+            "hu": "Platja de la Vall",
+            "ro": "Platja de la Vall",
+            "en": "Platja de la Vall"
+          },
+          "coords": [
+            3.186172,
+            42.342848
+          ],
+          "category": "recreational",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der feine Sand dieser schönen Bucht lädt zu einer entspannten Pause ein, bevor die Radtour weitergeht.",
+            "hu": "A gyönyörű öböl finom homokja egy pihentető szünetre csábít, mielőtt a kerékpártúra folytatódna.",
+            "ro": "Nisipul fin al acestui golf frumos vă invită la o pauză relaxantă înainte de a continua traseul.",
+            "en": "The fine sand of this beautiful bay invites you to a relaxing break before the bike tour continues."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de Sota s'Arenella",
+            "hu": "Platja de Sota s'Arenella",
+            "ro": "Platja de Sota s'Arenella",
+            "en": "Platja de Sota s'Arenella"
+          },
+          "coords": [
+            3.186155,
+            42.349223
+          ],
+          "category": "recreational",
+          "arrive_at": "11:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Hier ist das Wasser oft sehr ruhig, ideal für ein schnelles Bad an warmen Tagen auf dem Weg zum Leuchtturm.",
+            "hu": "Itt a víz gyakran nagyon nyugodt, ideális egy gyors fürdőzéshez meleg napokon a világítótorony felé vezető úton.",
+            "ro": "Aici apa este adesea foarte liniștită, ideală pentru o baie rapidă în zilele calde în drum spre far.",
+            "en": "The water here is often very calm, ideal for a quick dip on warm days on the way to the lighthouse."
+          }
+        },
+        {
+          "name": {
+            "de": "Far de s'Arenella",
+            "hu": "Far de s'Arenella",
+            "ro": "Far de s'Arenella",
+            "en": "Far de s'Arenella"
+          },
+          "coords": [
+            3.187014,
+            42.351392
+          ],
+          "category": "landmark",
+          "arrive_at": "13:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Nutzen Sie die fantastische Aussichtsplattform für atemberaubende Panoramafotos der wilden Felsküste.",
+            "hu": "Használja a fantasztikus kilátót a vad sziklás partvidék lélegzetelállító panorámafotóihoz.",
+            "ro": "Folosiți platforma fantastică de observare pentru fotografii panoramice uluitoare ale coastei stâncoase sălbatice.",
+            "en": "Use the fantastic observation deck for breathtaking panoramic photos of the wild rocky coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen de la Taula des Lladres",
+            "hu": "Dolmen de la Taula des Lladres",
+            "ro": "Dolmen de la Taula des Lladres",
+            "en": "Dolmen de la Taula des Lladres"
+          },
+          "coords": [
+            3.189295,
+            42.330515
+          ],
+          "category": "landmark",
+          "arrive_at": "13:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Achten Sie auf festes Schuhwerk, da der kurze Fußweg zu dieser historischen Steinstätte uneben ist.",
+            "hu": "Ügyeljen a masszív lábbelire, mivel a történelmi kőhelyszínre vezető rövid sétaút egyenetlen.",
+            "ro": "Asigurați-vă că aveți încălțăminte robustă, deoarece poteca scurtă spre acest sit istoric din piatră este denivelată.",
+            "en": "Make sure you have sturdy shoes, as the short walk to this historical stone site is uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Sant Sebastià",
+            "hu": "Sant Sebastià",
+            "ro": "Sant Sebastià",
+            "en": "Sant Sebastià"
+          },
+          "coords": [
+            3.184637,
+            42.322488
+          ],
+          "category": "religious",
+          "arrive_at": "15:13",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die absolute Stille rund um diese kleine Kapelle, die majestätisch fernab des Trubels liegt.",
+            "hu": "Élvezze a fenséges kis kápolna körüli teljes csendet, amely távol van a nyüzsgéstől.",
+            "ro": "Bucurați-vă de liniștea absolută în jurul acestei mici capele, care se află maiestuos departe de agitație.",
+            "en": "Enjoy the absolute silence around this small chapel, which majestically lies far away from the hustle and bustle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour verbindet die Küstenschönheiten mit den historischen Geheimnissen im Landesinneren. Vormittags erkunden wir die herrlichen Buchten wie Rec de Canet und La Vall. Zur Mittagszeit radeln wir weiter zum majestätischen Leuchtturm S'Arenella. Am Nachmittag geht es ins bergige Hinterland zum Dolmen de la Taula des Lladres. Der Ausflug endet mit einer besinnlichen Pause an der Kapelle Sant Sebastià.",
+        "hu": "Ez a kerékpártúra összeköti a parti szépségeket a szárazföld történelmi titkaival. Délelőtt olyan csodálatos öblöket fedezünk fel, mint a Rec de Canet és a La Vall. Délben tovább tekerünk a fenséges S'Arenella világítótoronyhoz. Délután a hegyvidéki hátországba megyünk a Dolmen de la Taula des Lladres-hez. A kirándulás egy elmélkedő pihenővel zárul a Sant Sebastià kápolnánál.",
+        "ro": "Acest tur cu bicicleta combină frumusețile coastei cu secretele istorice din interior. Dimineața explorăm golfurile minunate precum Rec de Canet și La Vall. La prânz pedalăm mai departe către maiestuosul far S'Arenella. După-amiaza mergem în zona montană interioară la Dolmen de la Taula des Lladres. Excursia se încheie cu o pauză de reflecție la capela Sant Sebastià.",
+        "en": "This bike tour combines coastal beauties with the historical secrets inland. In the morning we explore wonderful bays like Rec de Canet and La Vall. At lunchtime we cycle on to the majestic S'Arenella lighthouse. In the afternoon we head into the mountainous hinterland to the Dolmen de la Taula des Lladres. The excursion ends with a contemplative break at the Sant Sebastià chapel."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:33",
+      "total_km": 8.15,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Puig de l'Oratori",
+            "hu": "Puig de l'Oratori",
+            "ro": "Puig de l'Oratori",
+            "en": "Puig de l'Oratori"
+          },
+          "coords": [
+            3.214128,
+            42.329516
+          ],
+          "category": "natural",
+          "arrive_at": "09:02",
+          "stay_min": 85,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.15,
+          "tip_5lang": {
+            "de": "Fahren Sie vorsichtig die kurvige Straße hinauf und genießen Sie den weiten, unberührten Blick über die Berge.",
+            "hu": "Vezessen óvatosan a kanyargós úton felfelé, és élvezze a hegyekre nyíló széles, érintetlen kilátást.",
+            "ro": "Conduceți cu atenție pe drumul sinuos și bucurați-vă de vederea largă, neatinsă asupra munților.",
+            "en": "Drive carefully up the winding road and enjoy the wide, untouched view over the mountains."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen de la Taula des Lladres",
+            "hu": "Dolmen de la Taula des Lladres",
+            "ro": "Dolmen de la Taula des Lladres",
+            "en": "Dolmen de la Taula des Lladres"
+          },
+          "coords": [
+            3.189295,
+            42.330515
+          ],
+          "category": "landmark",
+          "arrive_at": "10:31",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parken Sie am Wegesrand und spazieren Sie die letzten Meter zu diesem beeindruckenden prähistorischen Steingrab.",
+            "hu": "Parkoljon le az út szélén, és sétáljon el ehhez a lenyűgöző történelem előtti kősírhoz az utolsó métereken.",
+            "ro": "Parcați pe marginea drumului și mergeți pe jos ultimii metri până la acest mormânt preistoric impresionant de piatră.",
+            "en": "Park on the roadside and walk the last few meters to this impressive prehistoric stone tomb."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen de la Mora",
+            "hu": "Dolmen de la Mora",
+            "ro": "Dolmen de la Mora",
+            "en": "Dolmen de la Mora"
+          },
+          "coords": [
+            3.18827,
+            42.330242
+          ],
+          "category": "historical",
+          "arrive_at": "10:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Verbinden Sie den Besuch dieses Dolmens mit einem kurzen Spaziergang durch die duftende mediterrane Macchia.",
+            "hu": "Kösse össze a dolmen látogatását egy rövid sétával az illatos mediterrán macchián keresztül.",
+            "ro": "Combinați vizita acestui dolmen cu o scurtă plimbare prin tufișurile mediteraneene parfumate.",
+            "en": "Combine the visit to this dolmen with a short walk through the fragrant Mediterranean scrub."
+          }
+        },
+        {
+          "name": {
+            "de": "Sant Sebastià",
+            "hu": "Sant Sebastià",
+            "ro": "Sant Sebastià",
+            "en": "Sant Sebastià"
+          },
+          "coords": [
+            3.184637,
+            42.322488
+          ],
+          "category": "religious",
+          "arrive_at": "12:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Ein toller Ort, um die historische Architektur der Region zu bewundern; das mystische Innere ist oft verschlossen.",
+            "hu": "Remek hely a régió történelmi építészetének megcsodálására; a misztikus belső tér gyakran zárva van.",
+            "ro": "Un loc minunat pentru a admira arhitectura istorică a regiunii; interiorul mistic este adesea închis.",
+            "en": "A great place to admire the region's historical architecture; the mystical interior is often locked."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja dels Capellans",
+            "hu": "Platja dels Capellans",
+            "ro": "Platja dels Capellans",
+            "en": "Platja dels Capellans"
+          },
+          "coords": [
+            3.194144,
+            42.336666
+          ],
+          "category": "recreational",
+          "arrive_at": "13:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Ein idealer, gut erreichbarer Strand für Familien, an dem Sie entspannt in die Nachmittagssonne blinzeln können.",
+            "hu": "Ideális, könnyen megközelíthető strand családok számára, ahol nyugodtan hunyoroghat a délutáni napsütésben.",
+            "ro": "O plajă ideală, ușor accesibilă pentru familii, unde vă puteți relaxa în soarele de după-amiază.",
+            "en": "An ideal, easily accessible beach for families where you can relax and blink into the afternoon sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de Vaquers",
+            "hu": "Platja de Vaquers",
+            "ro": "Platja de Vaquers",
+            "en": "Platja de Vaquers"
+          },
+          "coords": [
+            3.182293,
+            42.351103
+          ],
+          "category": "recreational",
+          "arrive_at": "14:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Nutzen Sie die späten Sonnenstrahlen in dieser geschützten Bucht für ein ruhiges, letztes Bad im Meer.",
+            "hu": "Használja ki a késői napsugarakat ebben a védett öbölben egy csendes, utolsó fürdőzésre a tengerben.",
+            "ro": "Folosiți ultimele raze de soare în acest golf protejat pentru o ultimă baie liniștită în mare.",
+            "en": "Use the late sun rays in this protected bay for a quiet, final swim in the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Far de s'Arenella",
+            "hu": "Far de s'Arenella",
+            "ro": "Far de s'Arenella",
+            "en": "Far de s'Arenella"
+          },
+          "coords": [
+            3.187014,
+            42.351392
+          ],
+          "category": "landmark",
+          "arrive_at": "15:38",
+          "stay_min": 55,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Warten Sie hier auf den schönen Sonnenuntergang, der den Himmel über dem Leuchtturm in bunte Farben taucht.",
+            "hu": "Várja meg itt a gyönyörű naplementét, amely színesre festi az eget a világítótorony felett.",
+            "ro": "Așteptați aici apusul frumos, care scaldă cerul de deasupra farului în culori vibrante.",
+            "en": "Wait here for the beautiful sunset, which bathes the sky above the lighthouse in colorful hues."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto entdecken wir mühelos die landschaftlichen und historischen Extreme der Region. Der Morgen beginnt mit einem atemberaubenden Panoramablick vom Puig de l'Oratori. Danach besuchen wir die faszinierenden prähistorischen Dolmen. Nachmittags entspannen wir an den Stränden Capellans und Vaquers. Der Tag findet seinen perfekten Abschluss am legendären Leuchtturm S'Arenella im weichen Abendlicht.",
+        "hu": "Autóval könnyedén felfedezhetjük a régió festői és történelmi végleteit. A reggel egy lélegzetelállító panorámával kezdődik a Puig de l'Oratori-ról. Ezután ellátogatunk a lenyűgöző történelem előtti dolmenekhez. Délután a Capellans és Vaquers strandokon pihenünk. A nap tökéletes befejezése a legendás S'Arenella világítótoronynál vár ránk a lágy esti fényben.",
+        "ro": "Cu mașina descoperim fără efort extremele pitorești și istorice ale regiunii. Dimineața începe cu o priveliște panoramică uluitoare de la Puig de l'Oratori. Apoi vizităm fascinantele dolmene preistorice. După-amiaza ne relaxăm pe plajele Capellans și Vaquers. Ziua se încheie perfect la legendarul far S'Arenella în lumina blândă a serii.",
+        "en": "By car, we effortlessly discover the scenic and historical extremes of the region. The morning begins with a breathtaking panoramic view from Puig de l'Oratori. Then we visit the fascinating prehistoric dolmens. In the afternoon we relax on the Capellans and Vaquers beaches. The day finds its perfect conclusion at the legendary S'Arenella lighthouse in the soft evening light."
+      }
+    }
+  }
+}

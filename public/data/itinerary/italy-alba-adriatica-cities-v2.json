@@ -1,0 +1,451 @@
+{
+  "city_id": "italy-alba-adriatica-cities-v2",
+  "anchor": {
+    "name": "Alba Adriatica",
+    "coords": [
+      13.92782,
+      42.83434
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:47",
+      "total_km": 1.45,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di Sant'Eufemia",
+            "hu": "Chiesa di Sant'Eufemia",
+            "ro": "Chiesa di Sant'Eufemia",
+            "en": "Chiesa di Sant'Eufemia"
+          },
+          "coords": [
+            13.920219,
+            42.835044
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die friedliche Atmosphäre der Chiesa di Sant'Eufemia, einem Eckpfeiler des lokalen Glaubens, und werfen Sie einen Blick auf das Gemeindebrett am Ausgang.",
+            "hu": "Csodálja meg a helyi hitélet központjának számító Chiesa di Sant'Eufemia békés atmoszféráját, és indulás előtt ne felejtse el átfutni a közösségi hirdetőtáblát.",
+            "ro": "Admirați atmosfera senină a Bisericii Sant'Eufemia, o piatră de temelie a credinței locale, și asigurați-vă că verificați avizierul comunității înainte de a pleca.",
+            "en": "Admire the serene atmosphere of Chiesa di Sant'Eufemia, a cornerstone of local faith, and remember to check the notice board for community events before heading out."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre della Vibrata",
+            "hu": "Torre della Vibrata",
+            "ro": "Torre della Vibrata",
+            "en": "Torre della Vibrata"
+          },
+          "coords": [
+            13.924183,
+            42.836451
+          ],
+          "category": "monument",
+          "arrive_at": "09:55",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Betrachten Sie die historische Struktur des Torre della Vibrata, einst ein wichtiger Küstenverteidigungspunkt, und fotografieren Sie ihn am besten von der Westseite.",
+            "hu": "Tekintse meg az egykor kulcsfontosságú partvédelmi pontként szolgáló Torre della Vibrata történelmi épületét, és a legjobb fényekért fotózza a nyugati oldalról.",
+            "ro": "Observați structura istorică a Turnului Vibrata, care a servit cândva ca punct crucial de apărare pe coastă, fotografiindu-l din partea de vest pentru cea mai bună lumină.",
+            "en": "Observe the historic structure of Torre della Vibrata, which once served as a crucial coastal defense point, while photographing it from the western side for the best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Ivan Palazzese",
+            "hu": "Ivan Palazzese",
+            "ro": "Ivan Palazzese",
+            "en": "Ivan Palazzese"
+          },
+          "coords": [
+            13.932822,
+            42.833747
+          ],
+          "category": "historical",
+          "arrive_at": "10:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die historische Bedeutung der Stätte Ivan Palazzese, einem festen Bestandteil des städtischen Erbes, indem Sie früh ankommen, um die Details in Ruhe zu genießen.",
+            "hu": "Fedezze fel a város örökségének szerves részét képező Ivan Palazzese történelmi jelentőségét, és érkezzen korán, hogy tömeg nélkül értékelhesse a finom részleteket.",
+            "ro": "Explorați semnificația istorică a sitului Ivan Palazzese, o parte integrantă a patrimoniului orașului, ajungând devreme pentru a aprecia detaliile fără aglomerație.",
+            "en": "Explore the historical significance of the Ivan Palazzese site, an integral part of the city's heritage, by arriving early to fully appreciate the details without crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Boracay",
+            "hu": "Boracay",
+            "ro": "Boracay",
+            "en": "Boracay"
+          },
+          "coords": [
+            13.932735,
+            42.834659
+          ],
+          "category": "recreational",
+          "arrive_at": "11:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am lebhaften Boracay, der die pulsierende Küstenkultur von Alba Adriatica zeigt, wobei die Vorabreservierung einer Liege einen perfekten Nachmittag garantiert.",
+            "hu": "Pihenjen a nyüzsgő Boracay tengerparti részen, amely kiválóan bemutatja Alba Adriatica fürdőkultúráját, és béreljen napágyat előre a tökéletes délutánhoz.",
+            "ro": "Relaxați-vă la Boracay, un loc vibrant care prezintă cultura de coastă plină de viață a orașului Alba Adriatica, unde închirierea prealabilă a unui șezlong asigură un confort maxim.",
+            "en": "Relax at Boracay, a vibrant spot showcasing the lively coastal culture of Alba Adriatica, where renting a sunbed in advance guarantees a perfect afternoon by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Calypso",
+            "hu": "Calypso",
+            "ro": "Calypso",
+            "en": "Calypso"
+          },
+          "coords": [
+            13.932114,
+            42.836529
+          ],
+          "category": "recreational",
+          "arrive_at": "13:02",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie den einladenden Charme des Calypso Beach Clubs, einem beliebten Treffpunkt der Einheimischen, und probieren Sie unbedingt die kühlen Getränke an der Hauptbar.",
+            "hu": "Tapasztalja meg a helyiek kedvenc találkozóhelyének számító Calypso strandklub hívogató báját, és mindenképpen kóstolja meg a főbár jellegzetes hideg frissítőit.",
+            "ro": "Experimentați farmecul primitor al clubului de plajă Calypso, un loc de adunare preferat al localnicilor, și nu ratați ocazia de a gusta băuturile lor reci la barul principal.",
+            "en": "Experience the welcoming charm of Calypso beach club, a favorite gathering place for locals, and don't miss out on trying their signature cold beverages at the main bar."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie morgens die historischen und spirituellen Wahrzeichen von Alba Adriatica.\n\nMittags lockt die lebhafte Küstenpromenade mit frischer Meeresluft.\n\nVerbringen Sie den Nachmittag entspannt in den verschiedenen Strandclubs.\n\nGenießen Sie abends einen Spaziergang bei Sonnenuntergang am Sandstrand.",
+        "hu": "Reggel fedezze fel Alba Adriatica történelmi és vallási nevezetességeit.\n\nDélben induljon a tengerparti sétányra a friss levegőért.\n\nDélutánját töltse pihenéssel a nyüzsgő helyi strandklubok egyikében.\n\nEste tegyen egy kényelmes sétát a tiszta homokos parton a naplementében.",
+        "ro": "Explorați reperele istorice și spirituale din Alba Adriatica dimineața.\n\nLa prânz, îndreptați-vă spre promenada de coastă pentru aer curat.\n\nPetreceți-vă după-amiaza relaxându-vă la cluburile de plajă pline de viață.\n\nSeara, faceți o plimbare liniștită pe plaja cu nisip curat la apus.",
+        "en": "Explore Alba Adriatica's historical and spiritual landmarks in the morning.\n\nBy midday, head to the bustling coastal promenade for fresh sea air.\n\nSpend your afternoon relaxing at the various lively beach clubs.\n\nTake a leisurely sunset stroll along the pristine sandy shore in the evening."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:52",
+      "total_km": 4.95,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa Santa Maria Bambina",
+            "hu": "Chiesa Santa Maria Bambina",
+            "ro": "Chiesa Santa Maria Bambina",
+            "en": "Chiesa Santa Maria Bambina"
+          },
+          "coords": [
+            13.917448,
+            42.851403
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die wunderschöne Chiesa Santa Maria Bambina, einen eleganten Ort der Besinnung im nördlichen Viertel, und achten Sie auf angemessene Kleidung für die Kirche.",
+            "hu": "Látogasson el az északi negyedben található, elmélkedésre csábító Chiesa Santa Maria Bambina gyönyörű épületébe, és öltözzön szerényen, mivel ez egy aktív templom.",
+            "ro": "Vizitați frumoasa Biserică Santa Maria Bambina, un spațiu elegant pentru reflecție în cartierul de nord, și îmbrăcați-vă modest deoarece este un loc de cult activ.",
+            "en": "Visit the beautiful Chiesa Santa Maria Bambina, an elegant space for reflection in the northern district, and dress modestly as this is still an active place of worship."
+          }
+        },
+        {
+          "name": {
+            "de": "San Gabriele dell'addolorata",
+            "hu": "San Gabriele dell'addolorata",
+            "ro": "San Gabriele dell'addolorata",
+            "en": "San Gabriele dell'addolorata"
+          },
+          "coords": [
+            13.922048,
+            42.851583
+          ],
+          "category": "religious",
+          "arrive_at": "09:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Architektur von San Gabriele dell'addolorata, die einer wichtigen lokalen Figur gewidmet ist, und spazieren Sie umher, um die modernen Strukturen zu sehen.",
+            "hu": "Fedezze fel a helyi kötődésű Szent Gábrielnek szentelt San Gabriele dell'addolorata békés építészetét, és sétálja körbe az épületet a modern szerkezeti elemek megtekintéséért.",
+            "ro": "Descoperiți arhitectura senină a bisericii San Gabriele dell'addolorata, dedicată unei figuri locale importante, și faceți o plimbare în jur pentru a vedea elementele structurale.",
+            "en": "Discover the serene architecture of San Gabriele dell'addolorata, dedicated to an important local figure, and walk around the perimeter to view its modern structural elements."
+          }
+        },
+        {
+          "name": {
+            "de": "La Villa Beach",
+            "hu": "La Villa Beach",
+            "ro": "La Villa Beach",
+            "en": "La Villa Beach"
+          },
+          "coords": [
+            13.929073,
+            42.848963
+          ],
+          "category": "recreational",
+          "arrive_at": "10:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die Sonne an La Villa Beach, der für seinen makellosen Sand und klares Wasser bekannt ist, und tragen Sie viel Sonnencreme auf, da Schatten knapp sein kann.",
+            "hu": "Élvezze a napsütést a tiszta homokjáról és vizéről ismert La Villa Beach partszakaszon, és használjon sok naptejet, mivel a kora délutáni órákban kevés az árnyék.",
+            "ro": "Bucurați-vă de soare la La Villa Beach, cunoscută pentru nisipul curat și apele clare, aplicând multă cremă de protecție solară deoarece umbra este rară la prânz.",
+            "en": "Soak up the sun at La Villa Beach, known for its pristine sands and clear waters, while applying plenty of sunscreen since shade can be scarce during peak afternoon hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre della Vibrata",
+            "hu": "Torre della Vibrata",
+            "ro": "Torre della Vibrata",
+            "en": "Torre della Vibrata"
+          },
+          "coords": [
+            13.924183,
+            42.836451
+          ],
+          "category": "monument",
+          "arrive_at": "11:59",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Betrachten Sie die historische Struktur des Torre della Vibrata, einst ein wichtiger Küstenverteidigungspunkt, und fotografieren Sie ihn am besten von der Westseite.",
+            "hu": "Tekintse meg az egykor kulcsfontosságú partvédelmi pontként szolgáló Torre della Vibrata történelmi épületét, és a legjobb fényekért fotózza a nyugati oldalról.",
+            "ro": "Observați structura istorică a Turnului Vibrata, care a servit cândva ca punct crucial de apărare pe coastă, fotografiindu-l din partea de vest pentru cea mai bună lumină.",
+            "en": "Observe the historic structure of Torre della Vibrata, which once served as a crucial coastal defense point, while photographing it from the western side for the best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Sant'Eufemia",
+            "hu": "Chiesa di Sant'Eufemia",
+            "ro": "Chiesa di Sant'Eufemia",
+            "en": "Chiesa di Sant'Eufemia"
+          },
+          "coords": [
+            13.920219,
+            42.835044
+          ],
+          "category": "religious",
+          "arrive_at": "12:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie die friedliche Atmosphäre der Chiesa di Sant'Eufemia, einem Eckpfeiler des lokalen Glaubens, und werfen Sie einen Blick auf das Gemeindebrett am Ausgang.",
+            "hu": "Csodálja meg a helyi hitélet központjának számító Chiesa di Sant'Eufemia békés atmoszféráját, és indulás előtt ne felejtse el átfutni a közösségi hirdetőtáblát.",
+            "ro": "Admirați atmosfera senină a Bisericii Sant'Eufemia, o piatră de temelie a credinței locale, și asigurați-vă că verificați avizierul comunității înainte de a pleca.",
+            "en": "Admire the serene atmosphere of Chiesa di Sant'Eufemia, a cornerstone of local faith, and remember to check the notice board for community events before heading out."
+          }
+        },
+        {
+          "name": {
+            "de": "Merlibeach",
+            "hu": "Merlibeach",
+            "ro": "Merlibeach",
+            "en": "Merlibeach"
+          },
+          "coords": [
+            13.934701,
+            42.827747
+          ],
+          "category": "recreational",
+          "arrive_at": "13:07",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am Merlibeach an der südlichen Promenade mit Panoramablick auf das Meer, und mieten Sie in der Nähe ein Fahrrad, um den langen Radweg zu erkunden.",
+            "hu": "Kapcsolódjon ki a déli sétány mentén fekvő, panorámás kilátást nyújtó Merlibeach strandon, és fontolja meg egy kerékpár bérlését a hosszú parti bicikliút felfedezéséhez.",
+            "ro": "Relaxați-vă la Merlibeach, situată de-a lungul promenadei de sud pentru vederi panoramice, și luați în considerare închirierea unei biciclete pentru a explora pista.",
+            "en": "Unwind at Merlibeach, situated perfectly along the southern promenade for panoramic sea views, and consider renting a bicycle nearby to explore the long cycling path."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie morgens die historischen und spirituellen Wahrzeichen von Alba Adriatica.\n\nMittags lockt die lebhafte Küstenpromenade mit frischer Meeresluft.\n\nVerbringen Sie den Nachmittag entspannt in den verschiedenen Strandclubs.\n\nGenießen Sie abends einen Spaziergang bei Sonnenuntergang am Sandstrand.",
+        "hu": "Reggel fedezze fel Alba Adriatica történelmi és vallási nevezetességeit.\n\nDélben induljon a tengerparti sétányra a friss levegőért.\n\nDélutánját töltse pihenéssel a nyüzsgő helyi strandklubok egyikében.\n\nEste tegyen egy kényelmes sétát a tiszta homokos parton a naplementében.",
+        "ro": "Explorați reperele istorice și spirituale din Alba Adriatica dimineața.\n\nLa prânz, îndreptați-vă spre promenada de coastă pentru aer curat.\n\nPetreceți-vă după-amiaza relaxându-vă la cluburile de plajă pline de viață.\n\nSeara, faceți o plimbare liniștită pe plaja cu nisip curat la apus.",
+        "en": "Explore Alba Adriatica's historical and spiritual landmarks in the morning.\n\nBy midday, head to the bustling coastal promenade for fresh sea air.\n\nSpend your afternoon relaxing at the various lively beach clubs.\n\nTake a leisurely sunset stroll along the pristine sandy shore in the evening."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:16",
+      "total_km": 4.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "San Gabriele dell'addolorata",
+            "hu": "San Gabriele dell'addolorata",
+            "ro": "San Gabriele dell'addolorata",
+            "en": "San Gabriele dell'addolorata"
+          },
+          "coords": [
+            13.922048,
+            42.851583
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Architektur von San Gabriele dell'addolorata, die einer wichtigen lokalen Figur gewidmet ist, und spazieren Sie umher, um die modernen Strukturen zu sehen.",
+            "hu": "Fedezze fel a helyi kötődésű Szent Gábrielnek szentelt San Gabriele dell'addolorata békés építészetét, és sétálja körbe az épületet a modern szerkezeti elemek megtekintéséért.",
+            "ro": "Descoperiți arhitectura senină a bisericii San Gabriele dell'addolorata, dedicată unei figuri locale importante, și faceți o plimbare în jur pentru a vedea elementele structurale.",
+            "en": "Discover the serene architecture of San Gabriele dell'addolorata, dedicated to an important local figure, and walk around the perimeter to view its modern structural elements."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa Santa Maria Bambina",
+            "hu": "Chiesa Santa Maria Bambina",
+            "ro": "Chiesa Santa Maria Bambina",
+            "en": "Chiesa Santa Maria Bambina"
+          },
+          "coords": [
+            13.917448,
+            42.851403
+          ],
+          "category": "religious",
+          "arrive_at": "09:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie die wunderschöne Chiesa Santa Maria Bambina, einen eleganten Ort der Besinnung im nördlichen Viertel, und achten Sie auf angemessene Kleidung für die Kirche.",
+            "hu": "Látogasson el az északi negyedben található, elmélkedésre csábító Chiesa Santa Maria Bambina gyönyörű épületébe, és öltözzön szerényen, mivel ez egy aktív templom.",
+            "ro": "Vizitați frumoasa Biserică Santa Maria Bambina, un spațiu elegant pentru reflecție în cartierul de nord, și îmbrăcați-vă modest deoarece este un loc de cult activ.",
+            "en": "Visit the beautiful Chiesa Santa Maria Bambina, an elegant space for reflection in the northern district, and dress modestly as this is still an active place of worship."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre della Vibrata",
+            "hu": "Torre della Vibrata",
+            "ro": "Torre della Vibrata",
+            "en": "Torre della Vibrata"
+          },
+          "coords": [
+            13.924183,
+            42.836451
+          ],
+          "category": "monument",
+          "arrive_at": "10:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die historische Struktur des Torre della Vibrata, einst ein wichtiger Küstenverteidigungspunkt, und fotografieren Sie ihn am besten von der Westseite.",
+            "hu": "Tekintse meg az egykor kulcsfontosságú partvédelmi pontként szolgáló Torre della Vibrata történelmi épületét, és a legjobb fényekért fotózza a nyugati oldalról.",
+            "ro": "Observați structura istorică a Turnului Vibrata, care a servit cândva ca punct crucial de apărare pe coastă, fotografiindu-l din partea de vest pentru cea mai bună lumină.",
+            "en": "Observe the historic structure of Torre della Vibrata, which once served as a crucial coastal defense point, while photographing it from the western side for the best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Ivan Palazzese",
+            "hu": "Ivan Palazzese",
+            "ro": "Ivan Palazzese",
+            "en": "Ivan Palazzese"
+          },
+          "coords": [
+            13.932822,
+            42.833747
+          ],
+          "category": "historical",
+          "arrive_at": "10:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die historische Bedeutung der Stätte Ivan Palazzese, einem festen Bestandteil des städtischen Erbes, indem Sie früh ankommen, um die Details in Ruhe zu genießen.",
+            "hu": "Fedezze fel a város örökségének szerves részét képező Ivan Palazzese történelmi jelentőségét, és érkezzen korán, hogy tömeg nélkül értékelhesse a finom részleteket.",
+            "ro": "Explorați semnificația istorică a sitului Ivan Palazzese, o parte integrantă a patrimoniului orașului, ajungând devreme pentru a aprecia detaliile fără aglomerație.",
+            "en": "Explore the historical significance of the Ivan Palazzese site, an integral part of the city's heritage, by arriving early to fully appreciate the details without crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Newport",
+            "hu": "Newport",
+            "ro": "Newport",
+            "en": "Newport"
+          },
+          "coords": [
+            13.934418,
+            42.828735
+          ],
+          "category": "recreational",
+          "arrive_at": "12:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die energiegeladene Stimmung im Newport, einer dynamischen Anlage für Sportler, und bringen Sie einen Volleyball mit, um bei den lokalen Spielen mitzumachen.",
+            "hu": "Élvezze a sportkedvelők számára tökéletes Newport strandklub energikus hangulatát, és hozzon magával strandröplabdát, ha csatlakozni szeretne a helyiek meccseihez.",
+            "ro": "Bucurați-vă de vibrația plină de energie de la Newport, o facilitate dinamică perfectă pentru sportivi, și aduceți propria minge de volei dacă doriți să vă alăturați jocurilor.",
+            "en": "Enjoy the energetic vibe at Newport, a dynamic coastal facility perfect for sports enthusiasts, and bring your own beach volleyball if you want to join the local games."
+          }
+        },
+        {
+          "name": {
+            "de": "Hotel joli beach",
+            "hu": "Hotel joli beach",
+            "ro": "Hotel joli beach",
+            "en": "Hotel joli beach"
+          },
+          "coords": [
+            13.93336,
+            42.831918
+          ],
+          "category": "recreational",
+          "arrive_at": "13:31",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Ausflug nahe dem Hotel Joli Beach, wo gepflegter Sand auf exzellente Gastfreundschaft trifft, perfekt um ein Eis zu essen und den Sonnenuntergang zu sehen.",
+            "hu": "Zárja utazását a Hotel joli beach közelében, ahol a gondozott homokos part kiváló vendéglátással párosul, és ez a tökéletes hely egy fagylalt melletti naplemente-nézéshez.",
+            "ro": "Încheiați-vă excursia lângă Hotel Joli Beach, unde nisipul îngrijit se întâlnește cu ospitalitatea excelentă, fiind locul perfect pentru a savura o înghețată la apus.",
+            "en": "Conclude your trip near Hotel joli beach, where the manicured sands meet excellent hospitality, making it the perfect spot to grab an ice cream and watch the sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie morgens die historischen und spirituellen Wahrzeichen von Alba Adriatica.\n\nMittags lockt die lebhafte Küstenpromenade mit frischer Meeresluft.\n\nVerbringen Sie den Nachmittag entspannt in den verschiedenen Strandclubs.\n\nGenießen Sie abends einen Spaziergang bei Sonnenuntergang am Sandstrand.",
+        "hu": "Reggel fedezze fel Alba Adriatica történelmi és vallási nevezetességeit.\n\nDélben induljon a tengerparti sétányra a friss levegőért.\n\nDélutánját töltse pihenéssel a nyüzsgő helyi strandklubok egyikében.\n\nEste tegyen egy kényelmes sétát a tiszta homokos parton a naplementében.",
+        "ro": "Explorați reperele istorice și spirituale din Alba Adriatica dimineața.\n\nLa prânz, îndreptați-vă spre promenada de coastă pentru aer curat.\n\nPetreceți-vă după-amiaza relaxându-vă la cluburile de plajă pline de viață.\n\nSeara, faceți o plimbare liniștită pe plaja cu nisip curat la apus.",
+        "en": "Explore Alba Adriatica's historical and spiritual landmarks in the morning.\n\nBy midday, head to the bustling coastal promenade for fresh sea air.\n\nSpend your afternoon relaxing at the various lively beach clubs.\n\nTake a leisurely sunset stroll along the pristine sandy shore in the evening."
+      }
+    }
+  }
+}

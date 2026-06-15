@@ -1,0 +1,497 @@
+{
+  "city_id": "champagne-sur-seine",
+  "anchor": {
+    "name": "Champagne-sur-Seine",
+    "coords": [
+      2.8011,
+      48.3972
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:41",
+      "total_km": 4.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Champagne-sur-Seine",
+            "hu": "Champagne-sur-Seine Városháza",
+            "ro": "Primăria Champagne-sur-Seine",
+            "en": "Mairie de Champagne-sur-Seine"
+          },
+          "coords": [
+            2.804791,
+            48.39476
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur dieses Rathauses, das das lokale Leben prägt, und ruhen Sie sich kurz auf den Bänken aus, bevor Sie weitergehen.",
+            "hu": "Csodálja meg a helyi életet meghatározó városháza klasszikus építészetét, és pihenjen meg a közeli padokon, mielőtt folytatná a sétáját.",
+            "ro": "Admirați arhitectura clasică a acestei primării care ancorează viața locală și odihniți-vă pe băncile din apropiere înainte de a vă continua plimbarea.",
+            "en": "Admire the classical architecture of this town hall that anchors local life, and take a moment to rest on the nearby benches before continuing your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-François-d'Assise",
+            "hu": "Assisi Szent Ferenc templom",
+            "ro": "Biserica Sfântul Francisc de Assisi",
+            "en": "Église Saint-François-d'Assise"
+          },
+          "coords": [
+            2.803048,
+            48.391015
+          ],
+          "category": "religious",
+          "arrive_at": "09:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Atmosphäre dieser modernen Kirche und besuchen Sie sie in den Morgenstunden, wenn das Licht wunderschön einfällt.",
+            "hu": "Fedezze fel ennek a modern templomnak a békés hangulatát, és látogasson el ide a délelőtti órákban, amikor a fények csodálatosak.",
+            "ro": "Descoperiți atmosfera senină a acestei biserici moderne și vizitați-o în orele dimineții, când lumina pătrunde într-un mod superb.",
+            "en": "Discover the serene atmosphere of this modern church reflecting post-war architecture, and visit during morning hours when the light enters beautifully."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Saint-Mammès",
+            "hu": "Saint-Mammès Városháza",
+            "ro": "Primăria Saint-Mammès",
+            "en": "Mairie de Saint-Mammès"
+          },
+          "coords": [
+            2.808215,
+            48.38862
+          ],
+          "category": "landmark",
+          "arrive_at": "10:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Sehen Sie sich das malerische Verwaltungszentrum dieses historischen Schifferdorfes an und prüfen Sie die Anschlagtafel auf lokale Veranstaltungen.",
+            "hu": "Tekintse meg ennek a történelmi hajósfalunak a festői közigazgatási központját, és nézze meg a hirdetőtáblát a helyi eseményekért.",
+            "ro": "Vedeți centrul administrativ pitoresc al acestui sat istoric de barcagii și verificați panoul informativ pentru evenimente locale.",
+            "en": "See the picturesque administrative center of this historic bargemen's village, and check the notice board for local riverfront events before walking on."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Pierre",
+            "hu": "Szent Péter templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            2.824985,
+            48.393433
+          ],
+          "category": "religious",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.35,
+          "tip_5lang": {
+            "de": "Betreten Sie diese historische Steinkirche, um ihre bescheidenen Buntglasfenster zu schätzen, und bringen Sie eine Kamera für die Dorfansichten mit.",
+            "hu": "Lépjen be ebbe a történelmi kőtemplomba, hogy megcsodálja ólomüveg ablakait, és hozzon fényképezőgépet a falu bájának megörökítéséhez.",
+            "ro": "Intrați în această biserică istorică de piatră pentru a aprecia vitraliile sale modeste și aduceți un aparat foto pentru a surprinde farmecul satului.",
+            "en": "Step inside this historic stone church to appreciate its modest stained glass windows, and bring a camera to capture the authentic village charm around it."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame-de-l'Assomption",
+            "hu": "Notre-Dame-de-l'Assomption templom",
+            "ro": "Biserica Notre-Dame-de-l'Assomption",
+            "en": "Church of Notre-Dame-de-l'Assomption"
+          },
+          "coords": [
+            2.798356,
+            48.40553
+          ],
+          "category": "religious",
+          "arrive_at": "12:31",
+          "stay_min": 70,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die gotischen Bögen dieser wunderschönen Kirche am Flussufer und machen Sie einen ruhigen Spaziergang entlang des Weges für tolle Fotos.",
+            "hu": "Fedezze fel ennek a gyönyörű folyóparti templomnak a gótikus boltíveit, és tegyen egy csendes sétát a közeli ösvényen a legjobb fényképek elkészítéséhez.",
+            "ro": "Explorați arcadele gotice ale acestei frumoase biserici pe malul râului și faceți o plimbare liniștită pe cărarea din apropiere pentru cele mai bune poze.",
+            "en": "Explore the gothic arches of this beautiful riverside church, and take a quiet walk along the nearby riverbank path for the best exterior photographs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Beginnen Sie im Herzen von Champagne-sur-Seine und bewundern Sie das Rathaus und die moderne Église Saint-François-d'Assise.\nMittags: Gehen Sie nach Süden in das Schifferdorf Saint-Mammès, wo das historische Rathaus Geschichten vom Flusshandel erzählt.\nNachmittags: Spazieren Sie nach Osten zur Église Saint-Pierre und genießen Sie die ruhige Atmosphäre dieser Gemeinde.\nAbends: Beenden Sie Ihren Spaziergang an der Kirche Notre-Dame-de-l'Assomption und genießen Sie die ruhige Aussicht auf die Seine.",
+        "hu": "Délelőtt: Kezdje a napot Champagne-sur-Seine szívében, megcsodálva a Városházát és a modern Assisi Szent Ferenc templomot.\nDélben: Haladjon dél felé Saint-Mammès hajósfalujába, ahol a történelmi Városháza mesél a folyami kereskedelemről.\nDélután: Sétáljon kelet felé a hangulatos Szent Péter templomhoz, élvezve ennek a folyóparti közösségnek a békéjét.\nEste: Fejezze be a sétát a Notre-Dame-de-l'Assomption templomnál, és gyönyörködjön a Szajnára nyíló nyugodt kilátásban.",
+        "ro": "Dimineața: Începeți în inima orașului Champagne-sur-Seine, admirând Primăria și moderna Biserică Sfântul Francisc de Assisi.\nPrânz: Mergeți spre sud, către satul de barcagii Saint-Mammès, unde Primăria istorică spune poveștile comerțului fluvial.\nDupă-amiaza: Plimbați-vă spre est până la Biserica Saint-Pierre, bucurându-vă de liniștea acestei comunități de pe malul râului.\nSeara: Încheiați-vă plimbarea la Biserica Notre-Dame-de-l'Assomption, admirând priveliștea senină asupra Senei.",
+        "en": "Morning: Start at the heart of Champagne-sur-Seine, admiring the Mairie and the modern Église Saint-François-d'Assise.\nMidday: Continue south towards the bargemen's village of Saint-Mammès, where the historic Mairie tells tales of river trade.\nAfternoon: Walk east to the charming Église Saint-Pierre, enjoying the peaceful atmosphere of this quiet riverside community.\nEvening: Conclude your walk at the Church of Notre-Dame-de-l'Assomption, taking in the serene views over the Seine before sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:38",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Champagne-sur-Seine",
+            "hu": "Champagne-sur-Seine Városháza",
+            "ro": "Primăria Champagne-sur-Seine",
+            "en": "Mairie de Champagne-sur-Seine"
+          },
+          "coords": [
+            2.804791,
+            48.39476
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur dieses Rathauses, das das lokale Leben prägt, und ruhen Sie sich kurz auf den Bänken aus, bevor Sie weiterradeln.",
+            "hu": "Csodálja meg a helyi életet meghatározó városháza klasszikus építészetét, és pihenjen meg a közeli padokon, mielőtt nyeregbe pattanna.",
+            "ro": "Admirați arhitectura clasică a acestei primării care ancorează viața locală și odihniți-vă pe băncile din apropiere înainte de a pedala mai departe.",
+            "en": "Admire the classical architecture of this town hall that anchors local life, and take a moment to rest on the nearby benches before cycling onwards."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-François-d'Assise",
+            "hu": "Assisi Szent Ferenc templom",
+            "ro": "Biserica Sfântul Francisc de Assisi",
+            "en": "Église Saint-François-d'Assise"
+          },
+          "coords": [
+            2.803048,
+            48.391015
+          ],
+          "category": "religious",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Atmosphäre dieser modernen Kirche und besuchen Sie sie in den Morgenstunden, wenn das Licht wunderschön einfällt.",
+            "hu": "Fedezze fel ennek a modern templomnak a békés hangulatát, és látogasson el ide a délelőtti órákban, amikor a fények csodálatosak.",
+            "ro": "Descoperiți atmosfera senină a acestei biserici moderne și vizitați-o în orele dimineții, când lumina pătrunde într-un mod superb.",
+            "en": "Discover the serene atmosphere of this modern church reflecting post-war architecture, and visit during morning hours when the light enters beautifully."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Rosa Bonheur",
+            "hu": "Rosa Bonheur Múzeum",
+            "ro": "Muzeul Rosa Bonheur",
+            "en": "Musée Rosa Bonheur"
+          },
+          "coords": [
+            2.78335,
+            48.396211
+          ],
+          "category": "museum",
+          "arrive_at": "10:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in das gut erhaltene Atelier der berühmten Tiermalerin Rosa Bonheur und buchen Sie Ihre Führung im Voraus, um sich den Eintritt zu sichern.",
+            "hu": "Merüljön el a híres állatfestő, Rosa Bonheur érintetlenül hagyott műtermében, és mindenképpen foglalja le előre az idegenvezetést.",
+            "ro": "Cufundați-vă în atelierul conservat al faimoasei pictorițe de animale Rosa Bonheur și rezervați-vă un tur ghidat în avans pentru a asigura intrarea.",
+            "en": "Immerse yourself in the preserved studio of the famous animal painter Rosa Bonheur, and be sure to book your guided tour in advance to guarantee entry."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Thomery",
+            "hu": "Thomery Városháza",
+            "ro": "Primăria din Thomery",
+            "en": "Marie de Thomery"
+          },
+          "coords": [
+            2.784682,
+            48.409164
+          ],
+          "category": "landmark",
+          "arrive_at": "12:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Beobachten Sie die elegante Fassade des örtlichen Rathauses, das das Erbe von Thomery bewahrt, und trinken Sie einen schnellen Kaffee auf dem Platz.",
+            "hu": "Figyelje meg a helyi városháza elegáns homlokzatát, és fogyasszon el egy gyors kávét a szomszédos téren, hogy magába szívja a helyi hangulatot.",
+            "ro": "Observați fațada elegantă a primăriei locale care păstrează moștenirea din Thomery și savurați o cafea în piața vecină.",
+            "en": "Observe the elegant facade of the local town hall that preserves Thomery's heritage, and enjoy a quick coffee at the neighboring square to soak in the local vibe."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Amand",
+            "hu": "Saint-Amand templom",
+            "ro": "Biserica Saint-Amand",
+            "en": "Église Saint-Amand"
+          },
+          "coords": [
+            2.786202,
+            48.410618
+          ],
+          "category": "religious",
+          "arrive_at": "12:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die historische Steinarchitektur dieses alten Pfarrhauses und bewundern Sie in aller Ruhe die Holzschnitzereien im Hauptschiff.",
+            "hu": "Csodálja meg ezen ősi plébániatemplom történelmi kőépítészetét, és csendben figyelje meg a főhajó fafaragásait.",
+            "ro": "Minunați-vă de arhitectura istorică din piatră a acestei biserici parohiale vechi și admirați sculpturile în lemn din nava principală.",
+            "en": "Marvel at the historical stone architecture and peaceful interior of this ancient parish church, and quietly admire the wooden carvings in the main nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame-de-l'Assomption",
+            "hu": "Notre-Dame-de-l'Assomption templom",
+            "ro": "Biserica Notre-Dame-de-l'Assomption",
+            "en": "Church of Notre-Dame-de-l'Assomption"
+          },
+          "coords": [
+            2.798356,
+            48.40553
+          ],
+          "category": "religious",
+          "arrive_at": "13:28",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die gotischen Bögen dieser wunderschönen Kirche am Flussufer und machen Sie einen ruhigen Spaziergang entlang des Weges für tolle Fotos.",
+            "hu": "Fedezze fel ennek a gyönyörű folyóparti templomnak a gótikus boltíveit, és tegyen egy csendes sétát a közeli ösvényen a legjobb fényképek elkészítéséhez.",
+            "ro": "Explorați arcadele gotice ale acestei frumoase biserici pe malul râului și faceți o plimbare liniștită pe cărarea din apropiere pentru cele mai bune poze.",
+            "en": "Explore the gothic arches of this beautiful riverside church, and take a quiet walk along the nearby riverbank path for the best exterior photographs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Radeln Sie durch das Zentrum von Champagne-sur-Seine und genießen Sie die Mairie und die Église Saint-François-d'Assise in der frischen Morgenluft.\nMittags: Fahren Sie nach Thomery, um das faszinierende Musée Rosa Bonheur zu besuchen und in die Welt der berühmten Tiermalerin einzutauchen.\nNachmittags: Fahren Sie in Richtung Marie de Thomery und der nahe gelegenen Église Saint-Amand.\nAbends: Beenden Sie Ihre Radtour an der wunderschönen Kirche Notre-Dame-de-l'Assomption und lassen Sie den Tag am Flussufer ausklingen.",
+        "hu": "Délelőtt: Kerékpározzon át Champagne-sur-Seine központján, megtekintve a Városházát és a Szent Ferenc templomot a friss levegőn.\nDélben: Guruljon át Thomery-be, és látogasson el a lenyűgöző Rosa Bonheur Múzeumba, hogy megismerje a művésznő világát.\nDélután: Tekerjen a Thomery Városháza és a közeli Saint-Amand templom felé, élvezve a történelmi építészetet.\nEste: Fejezze be kerékpáros útját a gyönyörű Notre-Dame-de-l'Assomption templomnál, a folyóparti naplementében.",
+        "ro": "Dimineața: Pedalați prin centrul orașului Champagne-sur-Seine, admirând Primăria și Biserica Sfântul Francisc de Assisi în aerul proaspăt.\nPrânz: Treceți în Thomery pentru a vizita fascinantul Muzeu Rosa Bonheur, cufundându-vă în lumea renumitei pictorițe.\nDupă-amiaza: Mergeți spre Primăria Thomery și Biserica Saint-Amand, bucurându-vă de străzile istorice ale satului.\nSeara: Încheiați călătoria cu bicicleta la frumoasa Biserică Notre-Dame-de-l'Assomption, reflectând la frumusețea patrimoniului cultural.",
+        "en": "Morning: Cycle through the center of Champagne-sur-Seine, taking in the Mairie and the Église Saint-François-d'Assise in the crisp morning air.\nMidday: Cross over to Thomery to visit the fascinating Musée Rosa Bonheur, immersing yourself in the world of the renowned animal painter.\nAfternoon: Ride towards the Marie de Thomery and the nearby Église Saint-Amand, enjoying the historic architecture.\nEvening: End your cycling journey at the beautiful Church of Notre-Dame-de-l'Assomption, reflecting on the region's rich cultural heritage."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 13.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Saint-Mammès",
+            "hu": "Saint-Mammès Városháza",
+            "ro": "Primăria Saint-Mammès",
+            "en": "Mairie de Saint-Mammès"
+          },
+          "coords": [
+            2.808215,
+            48.38862
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Sehen Sie sich das malerische Verwaltungszentrum dieses historischen Schifferdorfes an und prüfen Sie die Anschlagtafel auf lokale Veranstaltungen.",
+            "hu": "Tekintse meg ennek a történelmi hajósfalunak a festői közigazgatási központját, és nézze meg a hirdetőtáblát a helyi eseményekért.",
+            "ro": "Vedeți centrul administrativ pitoresc al acestui sat istoric de barcagii și verificați panoul informativ pentru evenimente locale.",
+            "en": "See the picturesque administrative center of this historic bargemen's village, and check the notice board for local riverfront events."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Pierre",
+            "hu": "Szent Péter templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            2.824985,
+            48.393433
+          ],
+          "category": "religious",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.35,
+          "tip_5lang": {
+            "de": "Betreten Sie diese historische Steinkirche, um ihre bescheidenen Buntglasfenster zu schätzen, und bringen Sie eine Kamera für die Dorfansichten mit.",
+            "hu": "Lépjen be ebbe a történelmi kőtemplomba, hogy megcsodálja ólomüveg ablakait, és hozzon fényképezőgépet a falu bájának megörökítéséhez.",
+            "ro": "Intrați în această biserică istorică de piatră pentru a aprecia vitraliile sale modeste și aduceți un aparat foto pentru a surprinde farmecul satului.",
+            "en": "Step inside this historic stone church to appreciate its modest stained glass windows, and bring a camera to capture the authentic village charm."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Champagne-sur-Seine",
+            "hu": "Champagne-sur-Seine Városháza",
+            "ro": "Primăria Champagne-sur-Seine",
+            "en": "Mairie de Champagne-sur-Seine"
+          },
+          "coords": [
+            2.804791,
+            48.39476
+          ],
+          "category": "landmark",
+          "arrive_at": "10:22",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur dieses Rathauses, das das lokale Leben prägt, und ruhen Sie sich kurz auf den Bänken aus.",
+            "hu": "Csodálja meg a helyi életet meghatározó városháza klasszikus építészetét, és pihenjen meg röviden a közeli padokon.",
+            "ro": "Admirați arhitectura clasică a acestei primării care ancorează viața locală și odihniți-vă scurt pe băncile din apropiere.",
+            "en": "Admire the classical architecture of this town hall that anchors local life, and take a brief moment to rest on the nearby benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Rosa Bonheur",
+            "hu": "Rosa Bonheur Múzeum",
+            "ro": "Muzeul Rosa Bonheur",
+            "en": "Musée Rosa Bonheur"
+          },
+          "coords": [
+            2.78335,
+            48.396211
+          ],
+          "category": "museum",
+          "arrive_at": "10:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in das gut erhaltene Atelier der berühmten Tiermalerin Rosa Bonheur und buchen Sie Ihre Führung im Voraus, um sich den Eintritt zu sichern.",
+            "hu": "Merüljön el a híres állatfestő, Rosa Bonheur érintetlenül hagyott műtermében, és mindenképpen foglalja le előre az idegenvezetést.",
+            "ro": "Cufundați-vă în atelierul conservat al faimoasei pictorițe de animale Rosa Bonheur și rezervați-vă un tur ghidat în avans pentru a asigura intrarea.",
+            "en": "Immerse yourself in the preserved studio of the famous animal painter Rosa Bonheur, and be sure to book your guided tour in advance to guarantee entry."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Thomery",
+            "hu": "Thomery Városháza",
+            "ro": "Primăria din Thomery",
+            "en": "Marie de Thomery"
+          },
+          "coords": [
+            2.784682,
+            48.409164
+          ],
+          "category": "landmark",
+          "arrive_at": "12:34",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Beobachten Sie die elegante Fassade des örtlichen Rathauses, das das Erbe von Thomery bewahrt, und trinken Sie einen schnellen Kaffee auf dem Platz.",
+            "hu": "Figyelje meg a helyi városháza elegáns homlokzatát, és fogyasszon el egy gyors kávét a szomszédos téren, hogy magába szívja a helyi hangulatot.",
+            "ro": "Observați fațada elegantă a primăriei locale care păstrează moștenirea din Thomery și savurați o cafea în piața vecină.",
+            "en": "Observe the elegant facade of the local town hall that preserves Thomery's heritage, and enjoy a quick coffee at the neighboring square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Amand",
+            "hu": "Saint-Amand templom",
+            "ro": "Biserica Saint-Amand",
+            "en": "Église Saint-Amand"
+          },
+          "coords": [
+            2.786202,
+            48.410618
+          ],
+          "category": "religious",
+          "arrive_at": "13:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die historische Steinarchitektur dieses alten Pfarrhauses und bewundern Sie in aller Ruhe die Holzschnitzereien im Hauptschiff.",
+            "hu": "Csodálja meg ezen ősi plébániatemplom történelmi kőépítészetét, és csendben figyelje meg a főhajó fafaragásait.",
+            "ro": "Minunați-vă de arhitectura istorică din piatră a acestei biserici parohiale vechi și admirați sculpturile în lemn din nava principală.",
+            "en": "Marvel at the historical stone architecture and peaceful interior of this ancient parish church, and quietly admire the wooden carvings in the main nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame-de-l'Assomption",
+            "hu": "Notre-Dame-de-l'Assomption templom",
+            "ro": "Biserica Notre-Dame-de-l'Assomption",
+            "en": "Church of Notre-Dame-de-l'Assomption"
+          },
+          "coords": [
+            2.798356,
+            48.40553
+          ],
+          "category": "religious",
+          "arrive_at": "13:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die gotischen Bögen dieser wunderschönen Kirche am Flussufer und machen Sie einen ruhigen Spaziergang entlang des Weges für tolle Fotos.",
+            "hu": "Fedezze fel ennek a gyönyörű folyóparti templomnak a gótikus boltíveit, és tegyen egy csendes sétát a közeli ösvényen a legjobb fényképek elkészítéséhez.",
+            "ro": "Explorați arcadele gotice ale acestei frumoase biserici pe malul râului și faceți o plimbare liniștită pe cărarea din apropiere pentru cele mai bune poze.",
+            "en": "Explore the gothic arches of this beautiful riverside church, and take a quiet walk along the nearby riverbank path for the best exterior photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathauspark",
+            "hu": "Városháza park",
+            "ro": "Parcul Primăriei",
+            "en": "Mairie Park"
+          },
+          "coords": [
+            2.71969,
+            48.404752
+          ],
+          "category": "recreational",
+          "arrive_at": "14:36",
+          "stay_min": 105,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 5.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im üppigen Grün dieses weitläufigen Parks und bringen Sie bequeme Schuhe mit, um die schattigen Wege vollständig zu erkunden.",
+            "hu": "Pihenjen e hatalmas park buja zöldjében, és hozzon magával kényelmes cipőt, hogy teljesen felfedezhesse az árnyékos ösvényeket.",
+            "ro": "Relaxați-vă în verdeața luxuriantă a acestui parc extins și aduceți încălțăminte confortabilă pentru a explora complet cărările sale umbrite.",
+            "en": "Relax in the lush greenery of this expansive park perfect for family picnics, and bring some comfortable shoes to explore its shaded pathways fully."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Fahren Sie in das historische Saint-Mammès, um die Mairie und die Église Saint-Pierre zu besichtigen, gefolgt von einem Stopp am Rathaus von Champagne-sur-Seine.\nMittags: Fahren Sie nach Thomery für einen ausgedehnten Besuch des Musée Rosa Bonheur und entdecken Sie das bewahrte Atelier.\nNachmittags: Erkunden Sie das Herz von Thomery mit der Mairie und der Église Saint-Amand, bevor Sie zur Kirche Notre-Dame fahren.\nAbends: Fahren Sie nach Westen in den Mairie-Park und genießen Sie einen ruhigen Spaziergang durch das Grün, um Ihren Ausflug perfekt abzurunden.",
+        "hu": "Délelőtt: Vezessen a történelmi Saint-Mammès-ba, hogy megnézze a Városházát és a Szent Péter templomot, majd álljon meg a Champagne-sur-Seine-i Városházánál.\nDélben: Irány Thomery egy hosszabb látogatásra a Rosa Bonheur Múzeumban, felfedezve a legendás művész érintetlenül hagyott műtermét.\nDélután: Fedezze fel Thomery szívét, majd látogasson el a lenyűgöző Notre-Dame-de-l'Assomption templomhoz.\nEste: Hajtson nyugat felé, és pihenjen a hatalmas Városháza parkban, hogy a természet nyugalmával zárja a napot.",
+        "ro": "Dimineața: Conduceți spre istoricul Saint-Mammès pentru a vedea Primăria și Biserica Saint-Pierre, cu o scurtă oprire la Primăria din Champagne-sur-Seine.\nPrânz: Mergeți la Thomery pentru o vizită la Muzeul Rosa Bonheur, descoperind atelierul conservat al legendarei artiste.\nDupă-amiaza: Explorați inima orașului Thomery cu vizite la Primărie și Biserica Saint-Amand, apoi la Biserica Notre-Dame-de-l'Assomption.\nSeara: Conduceți spre vest pentru a vă relaxa în Parcul Primăriei, bucurându-vă de o plimbare liniștită pentru a încheia ziua.",
+        "en": "Morning: Drive to the historic Saint-Mammès to see its Mairie and Église Saint-Pierre, followed by a quick stop at the Champagne-sur-Seine Mairie.\nMidday: Head to Thomery for an extended visit to the Musée Rosa Bonheur, discovering the preserved studio of the legendary artist.\nAfternoon: Explore the heart of Thomery with visits to the Mairie and Église Saint-Amand, then drive to the majestic Church of Notre-Dame.\nEvening: Drive west to relax at the expansive Mairie Park, enjoying a peaceful stroll through the greenery to perfectly cap off your day trip."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "ouistreham",
+  "anchor": {
+    "name": "Ouistreham",
+    "coords": [
+      -0.2583,
+      49.2792
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:02",
+      "total_km": 3.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Samson",
+            "hu": "Saint-Samson templom",
+            "ro": "Biserica Saint-Samson",
+            "en": "Saint Samson Church"
+          },
+          "coords": [
+            -0.258164,
+            49.276286
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante romanische Architektur dieser Kirche aus dem 12. Jahrhundert, ein Zeugnis normannischer Geschichte, die Sie am besten im frühen Morgenlicht besuchen.",
+            "hu": "Csodálja meg e 12. századi templom lenyűgöző román stílusú építészetét, amely a normann történelem tanúja, és érdemes kora reggel meglátogatni a legszebb fényekért.",
+            "ro": "Admirați arhitectura romanică impresionantă a acestei biserici din secolul al XII-lea, o mărturie a istoriei normande, ideal de vizitat dimineața pentru lumina sa superbă.",
+            "en": "Admire the striking Romanesque architecture of this 12th-century church, a quiet testament to Norman history, best visited early when the morning light highlights its nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Jachthafen",
+            "hu": "Jachtkikötő",
+            "ro": "Portul de Agrement",
+            "en": "Marina (Port de Plaisance)"
+          },
+          "coords": [
+            -0.248091,
+            49.274882
+          ],
+          "category": "recreational",
+          "arrive_at": "10:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang des belebten Yachthafens, um die schaukelnden Fischerboote zu beobachten, und trinken Sie einen schnellen Kaffee in einem der kleinen Hafencafés.",
+            "hu": "Sétáljon végig a nyüzsgő kikötőn, figyelje a vízen ringatózó halászhajókat és jachtokat, és fogyasszon el egy kávét a rakpart egyik hangulatos kávézójában a pihenéshez.",
+            "ro": "Plimbați-vă de-a lungul portului de agrement pentru a urmări bărcile de pescuit și iahturile, și savurați o cafea la una dintre cafenelele de pe chei pentru a vă relaxa.",
+            "en": "Stroll along the bustling marina to watch the local fishing boats and yachts gently bobbing in the water, and grab a quick coffee at one of the quayside cafes to relax."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm Ouistreham",
+            "hu": "Ouistreham Világítótorony",
+            "ro": "Farul Ouistreham",
+            "en": "Ouistreham Lighthouse"
+          },
+          "coords": [
+            -0.247778,
+            49.28
+          ],
+          "category": "historical",
+          "arrive_at": "11:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die 171 Stufen dieses ikonischen rot-weißen Leuchtturms für einen atemberaubenden Panoramablick, aber tragen Sie unbedingt bequeme Wanderschuhe für den Aufstieg.",
+            "hu": "Mássza meg az ikonikus piros-fehér világítótorony 171 lépcsőfokát a lélegzetelállító panorámáért, de ne felejtsen el kényelmes cipőt húzni a kihívást jelentő felfelé úthoz.",
+            "ro": "Urcați cele 171 de trepte ale acestui far cilindric roșu cu alb pentru o priveliște panoramică uluitoare a coastei, dar asigurați-vă că purtați încălțăminte foarte confortabilă.",
+            "en": "Climb the 171 steps of this iconic red-and-white cylindrical lighthouse for breathtaking panoramic views of the coast, but make sure to wear comfortable walking shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Atlantikwall-Museum",
+            "hu": "Atlantisz Fal Múzeum (Nagy Bunker)",
+            "ro": "Muzeul Zidul Atlanticului",
+            "en": "Atlantic Wall Museum (The Big Bunker)"
+          },
+          "coords": [
+            -0.252447,
+            49.287474
+          ],
+          "category": "museum",
+          "arrive_at": "13:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen sorgfältig restaurierten deutschen Weltkriegsbunker, um die Verteidigung am D-Day zu verstehen, und nehmen Sie sich Zeit für die authentischen Funkräume.",
+            "hu": "Fedezze fel ezt a gondosan felújított, II. világháborús német bunkert a normandiai partraszállás védelmének megértéséhez, különös tekintettel az autentikus rádiószobákra.",
+            "ro": "Explorați acest buncăr german din al Doilea Război Mondial, meticulos restaurat, pentru a înțelege apărarea de la Ziua Z, și acordați atenție camerelor medicale autentice.",
+            "en": "Explore this meticulously restored 52-foot concrete German bunker from WWII to understand the D-Day defenses, and take time to inspect the authentic medical and radio rooms."
+          }
+        },
+        {
+          "name": {
+            "de": "N°4 Commando Museum",
+            "hu": "N°4 Commando Múzeum",
+            "ro": "Muzeul N°4 Commando",
+            "en": "N°4 Commando Museum"
+          },
+          "coords": [
+            -0.259612,
+            49.288609
+          ],
+          "category": "museum",
+          "arrive_at": "14:52",
+          "stay_min": 130,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die heldenhaften Geschichten der freifranzösischen Streitkräfte durch faszinierende Artefakte und schauen Sie sich den Einführungsfilm an, um mehr zu erfahren.",
+            "hu": "Ismerje meg a Szabad Francia Erők hősies történeteit a lenyűgöző leleteken keresztül, és mindenképpen nézze meg a bevezető filmet, hogy teljesen átlássa a küldetésüket.",
+            "ro": "Descoperiți poveștile eroice ale forțelor franceze libere prin artefacte fascinante și urmăriți filmul introductiv pentru a înțelege pe deplin importanța misiunii lor vitale.",
+            "en": "Discover the heroic stories of the Free French forces who landed at Sword Beach through fascinating artifacts, and watch the introductory film to fully grasp their vital mission."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im Herzen von Ouistreham an der romanischen Kirche Saint Samson und schlendern Sie dann zum lebhaften Jachthafen.\n\nGegen Mittag besuchen Sie den ikonischen Leuchtturm von Ouistreham für einen Panoramablick, bevor Sie in die Kriegsgeschichte eintauchen.\n\nVerbringen Sie den Nachmittag im Großen Bunker und im N°4 Commando Museum, die faszinierende Einblicke in den D-Day bieten.\n\nBeenden Sie Ihren Rundgang in der Nähe der Museen, während die friedliche Atmosphäre der Denkmäler den reflektierenden Tag abschließt.",
+        "hu": "Kezdje a reggelt Ouistreham szívében a román stílusú Saint Samson templomnál, majd sétáljon le a nyüzsgő kikötőbe.\n\nDél körül látogasson el az ikonikus világítótoronyhoz a panorámáért, mielőtt elmerülne a város háborús történelmében.\n\nTöltse a délutánt a Nagy Bunker és a N°4 Commando Múzeum felfedezésével, amelyek lenyűgöző betekintést nyújtanak a D-nap eseményeibe.\n\nFejezze be a sétát a múzeumok közelében; a part menti emlékművek békés hangulata tökéletesen lezárja ezt az elgondolkodtató napot.",
+        "ro": "Începeți dimineața în inima orașului la biserica romanică Saint Samson, apoi faceți o plimbare până la portul plin de viață.\n\nÎn jurul prânzului, vizitați farul iconic pentru o panoramă superbă, înainte de a explora istoria de război a orașului.\n\nPetreceți după-amiaza explorând Marele Buncăr și Muzeul N°4 Commando, care oferă o perspectivă emoționantă asupra Zilei Z.\n\nÎncheiați-vă turul lângă muzee, unde atmosfera pașnică a monumentelor de coastă va aduce o încheiere perfectă acestei zile de reflecție.",
+        "en": "Start your morning in the heart of Ouistreham at the Romanesque Saint Samson Church, taking in its quiet history before strolling down to the vibrant Port de Plaisance.\n\nAround midday, head north to the iconic Ouistreham Lighthouse. After climbing for panoramic views, you'll be perfectly positioned to dive into the town's profound wartime history.\n\nSpend your afternoon exploring The Big Bunker and the nearby N°4 Commando Museum. These deeply moving historical sites offer incredible insight into the events of D-Day.\n\nConclude your walking tour near the museums as the evening approaches. The solemn yet peaceful atmosphere of the coastal monuments perfectly wraps up your reflective day in Normandy."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:16",
+      "total_km": 7.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Samson",
+            "hu": "Saint-Samson templom",
+            "ro": "Biserica Saint-Samson",
+            "en": "Saint Samson Church"
+          },
+          "coords": [
+            -0.258164,
+            49.276286
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante romanische Architektur dieser Kirche aus dem 12. Jahrhundert, ein Zeugnis normannischer Geschichte, die Sie am besten im frühen Morgenlicht besuchen.",
+            "hu": "Csodálja meg e 12. századi templom lenyűgöző román stílusú építészetét, amely a normann történelem tanúja, és érdemes kora reggel meglátogatni a legszebb fényekért.",
+            "ro": "Admirați arhitectura romanică impresionantă a acestei biserici din secolul al XII-lea, o mărturie a istoriei normande, ideal de vizitat dimineața pentru lumina sa superbă.",
+            "en": "Admire the striking Romanesque architecture of this 12th-century church, a quiet testament to Norman history, best visited early when the morning light highlights its nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Jachthafen",
+            "hu": "Jachtkikötő",
+            "ro": "Portul de Agrement",
+            "en": "Marina (Port de Plaisance)"
+          },
+          "coords": [
+            -0.248091,
+            49.274882
+          ],
+          "category": "recreational",
+          "arrive_at": "09:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang des belebten Yachthafens, um die schaukelnden Fischerboote zu beobachten, und trinken Sie einen schnellen Kaffee in einem der kleinen Hafencafés.",
+            "hu": "Sétáljon végig a nyüzsgő kikötőn, figyelje a vízen ringatózó halászhajókat és jachtokat, és fogyasszon el egy kávét a rakpart egyik hangulatos kávézójában a pihenéshez.",
+            "ro": "Plimbați-vă de-a lungul portului de agrement pentru a urmări bărcile de pescuit și iahturile, și savurați o cafea la una dintre cafenelele de pe chei pentru a vă relaxa.",
+            "en": "Stroll along the bustling marina to watch the local fishing boats and yachts gently bobbing in the water, and grab a quick coffee at one of the quayside cafes to relax."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm Ouistreham",
+            "hu": "Ouistreham Világítótorony",
+            "ro": "Farul Ouistreham",
+            "en": "Ouistreham Lighthouse"
+          },
+          "coords": [
+            -0.247778,
+            49.28
+          ],
+          "category": "historical",
+          "arrive_at": "11:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die 171 Stufen dieses ikonischen rot-weißen Leuchtturms für einen atemberaubenden Panoramablick, aber tragen Sie unbedingt bequeme Wanderschuhe für den Aufstieg.",
+            "hu": "Mássza meg az ikonikus piros-fehér világítótorony 171 lépcsőfokát a lélegzetelállító panorámáért, de ne felejtsen el kényelmes cipőt húzni a kihívást jelentő felfelé úthoz.",
+            "ro": "Urcați cele 171 de trepte ale acestui far cilindric roșu cu alb pentru o priveliște panoramică uluitoare a coastei, dar asigurați-vă că purtați încălțăminte foarte confortabilă.",
+            "en": "Climb the 171 steps of this iconic red-and-white cylindrical lighthouse for breathtaking panoramic views of the coast, but make sure to wear comfortable walking shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Atlantikwall-Museum",
+            "hu": "Atlantisz Fal Múzeum (Nagy Bunker)",
+            "ro": "Muzeul Zidul Atlanticului",
+            "en": "Atlantic Wall Museum (The Big Bunker)"
+          },
+          "coords": [
+            -0.252447,
+            49.287474
+          ],
+          "category": "museum",
+          "arrive_at": "12:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen sorgfältig restaurierten deutschen Weltkriegsbunker, um die Verteidigung am D-Day zu verstehen, und nehmen Sie sich Zeit für die authentischen Funkräume.",
+            "hu": "Fedezze fel ezt a gondosan felújított, II. világháborús német bunkert a normandiai partraszállás védelmének megértéséhez, különös tekintettel az autentikus rádiószobákra.",
+            "ro": "Explorați acest buncăr german din al Doilea Război Mondial, meticulos restaurat, pentru a înțelege apărarea de la Ziua Z, și acordați atenție camerelor medicale autentice.",
+            "en": "Explore this meticulously restored 52-foot concrete German bunker from WWII to understand the D-Day defenses, and take time to inspect the authentic medical and radio rooms."
+          }
+        },
+        {
+          "name": {
+            "de": "N°4 Commando Museum",
+            "hu": "N°4 Commando Múzeum",
+            "ro": "Muzeul N°4 Commando",
+            "en": "N°4 Commando Museum"
+          },
+          "coords": [
+            -0.259612,
+            49.288609
+          ],
+          "category": "museum",
+          "arrive_at": "14:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die heldenhaften Geschichten der freifranzösischen Streitkräfte durch faszinierende Artefakte und schauen Sie sich den Einführungsfilm an, um mehr zu erfahren.",
+            "hu": "Ismerje meg a Szabad Francia Erők hősies történeteit a lenyűgöző leleteken keresztül, és mindenképpen nézze meg a bevezető filmet, hogy teljesen átlássa a küldetésüket.",
+            "ro": "Descoperiți poveștile eroice ale forțelor franceze libere prin artefacte fascinante și urmăriți filmul introductiv pentru a înțelege pe deplin importanța misiunii lor vitale.",
+            "en": "Discover the heroic stories of the Free French forces who landed at Sword Beach through fascinating artifacts, and watch the introductory film to fully grasp their vital mission."
+          }
+        },
+        {
+          "name": {
+            "de": "Sword Beach",
+            "hu": "Sword Beach",
+            "ro": "Plaja Sword",
+            "en": "Sword Beach"
+          },
+          "coords": [
+            -0.321111,
+            49.306389
+          ],
+          "category": "historical",
+          "arrive_at": "16:26",
+          "stay_min": 110,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem historischen Sandstrand, an dem die Alliierten am D-Day landeten, und kommen Sie bei Ebbe, um die massiven Ausmaße der Operation zu begreifen.",
+            "hu": "Sétáljon ezen a történelmi homokos strandon, ahol a szövetségesek partra szálltak, és időzítse látogatását apály idejére, hogy igazán értékelni tudja a hadművelet méretét.",
+            "ro": "Plimbați-vă pe această plajă istorică unde au debarcat trupele aliate de Ziua Z și vizitați-o în timpul refluxului pentru a aprecia cu adevărat amploarea masivă a operațiunii.",
+            "en": "Walk along this historic and expansive sandy beach where Allied troops landed on D-Day, and visit during low tide to truly appreciate the massive scale of the operation."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad zur Kirche Saint Samson und radeln Sie zum Hafen. Die morgendliche Meeresluft belebt Ihr Küstenabenteuer.\n\nRadeln Sie zum Leuchtturm und zum Großen Bunker. Die kurzen Wege machen das Fahrrad zur idealen Wahl für diese historischen Juwelen.\n\nIhre Nachmittagsfahrt führt Sie vorbei am Commando Museum und dann auf einem malerischen Küstenweg zum legendären Sword Beach.\n\nLassen Sie den Tag mit einer ruhigen Fahrt am Sword Beach ausklingen, wo die Wellen einen besinnlichen Abschluss bieten.",
+        "hu": "Pattanjon kerékpárra, és a Saint Samson templom után guruljon le a nyüzsgő kikötőbe; a reggeli tengeri levegő energiával tölti fel.\n\nTekerejen a világítótoronyhoz és a Nagy Bunkerhez. A rövid távolságok miatt a kerékpározás tökéletes módja e történelmi gyöngyszemek összekötésének.\n\nA délutáni túra a Commando Múzeum mellett halad el, mielőtt egy festői tengerparti úton a legendás Sword Beach homokja felé venné az irányt.\n\nZárja a napot egy lassú kerékpározással a Sword Beach mentén; a hullámok ritmusos zúgása elmélkedő befejezést nyújt a történelmi napnak.",
+        "ro": "Urcați pe bicicletă, treceți pe lângă biserica Saint Samson și mergeți spre port. Aerul mării vă va energiza aventura de dimineață.\n\nPedalați spre far și Marele Buncăr. Distanțele scurte fac din bicicletă modalitatea perfectă de a lega aceste bijuterii istorice.\n\nPlimbarea de după-amiază vă duce pe lângă Muzeul Commando, înainte de a porni pe un drum de coastă spre nisipurile legendare de la Sword Beach.\n\nÎncheiați ziua pedalând încet de-a lungul plajei Sword. Sunetul valurilor oferă un final contemplativ unei zile pline de istorie.",
+        "en": "Hop on your bike to breeze past Saint Samson Church and cruise down to the bustling Marina. The morning sea air sets an energizing tone for your coastal Normandy adventure.\n\nPedal towards the Ouistreham Lighthouse and The Big Bunker. The short distances make cycling the perfect way to link these historical gems without losing momentum.\n\nYour afternoon ride takes you past the N°4 Commando Museum before setting off on a scenic coastal path towards the legendary and expansive sands of Sword Beach.\n\nWind down by cycling slowly along Sword Beach at dusk. The rhythmic crashing of the waves provides a contemplative end to a day filled with powerful history and natural beauty."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:24",
+      "total_km": 12.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Samson",
+            "hu": "Saint-Samson templom",
+            "ro": "Biserica Saint-Samson",
+            "en": "Saint Samson Church"
+          },
+          "coords": [
+            -0.258164,
+            49.276286
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante romanische Architektur dieser Kirche aus dem 12. Jahrhundert, ein Zeugnis normannischer Geschichte, die Sie am besten im frühen Morgenlicht besuchen.",
+            "hu": "Csodálja meg e 12. századi templom lenyűgöző román stílusú építészetét, amely a normann történelem tanúja, és érdemes kora reggel meglátogatni a legszebb fényekért.",
+            "ro": "Admirați arhitectura romanică impresionantă a acestei biserici din secolul al XII-lea, o mărturie a istoriei normande, ideal de vizitat dimineața pentru lumina sa superbă.",
+            "en": "Admire the striking Romanesque architecture of this 12th-century church, a quiet testament to Norman history, best visited early when the morning light highlights its nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Atlantikwall-Museum",
+            "hu": "Atlantisz Fal Múzeum (Nagy Bunker)",
+            "ro": "Muzeul Zidul Atlanticului",
+            "en": "Atlantic Wall Museum (The Big Bunker)"
+          },
+          "coords": [
+            -0.252447,
+            49.287474
+          ],
+          "category": "museum",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen sorgfältig restaurierten deutschen Weltkriegsbunker, um die Verteidigung am D-Day zu verstehen, und nehmen Sie sich Zeit für die authentischen Funkräume.",
+            "hu": "Fedezze fel ezt a gondosan felújított, II. világháborús német bunkert a normandiai partraszállás védelmének megértéséhez, különös tekintettel az autentikus rádiószobákra.",
+            "ro": "Explorați acest buncăr german din al Doilea Război Mondial, meticulos restaurat, pentru a înțelege apărarea de la Ziua Z, și acordați atenție camerelor medicale autentice.",
+            "en": "Explore this meticulously restored 52-foot concrete German bunker from WWII to understand the D-Day defenses, and take time to inspect the authentic medical and radio rooms."
+          }
+        },
+        {
+          "name": {
+            "de": "N°4 Commando Museum",
+            "hu": "N°4 Commando Múzeum",
+            "ro": "Muzeul N°4 Commando",
+            "en": "N°4 Commando Museum"
+          },
+          "coords": [
+            -0.259612,
+            49.288609
+          ],
+          "category": "museum",
+          "arrive_at": "11:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die heldenhaften Geschichten der freifranzösischen Streitkräfte durch faszinierende Artefakte und schauen Sie sich den Einführungsfilm an, um mehr zu erfahren.",
+            "hu": "Ismerje meg a Szabad Francia Erők hősies történeteit a lenyűgöző leleteken keresztül, és mindenképpen nézze meg a bevezető filmet, hogy teljesen átlássa a küldetésüket.",
+            "ro": "Descoperiți poveștile eroice ale forțelor franceze libere prin artefacte fascinante și urmăriți filmul introductiv pentru a înțelege pe deplin importanța misiunii lor vitale.",
+            "en": "Discover the heroic stories of the Free French forces who landed at Sword Beach through fascinating artifacts, and watch the introductory film to fully grasp their vital mission."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm Ouistreham",
+            "hu": "Ouistreham Világítótorony",
+            "ro": "Farul Ouistreham",
+            "en": "Ouistreham Lighthouse"
+          },
+          "coords": [
+            -0.247778,
+            49.28
+          ],
+          "category": "historical",
+          "arrive_at": "13:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die 171 Stufen dieses ikonischen rot-weißen Leuchtturms für einen atemberaubenden Panoramablick, aber tragen Sie unbedingt bequeme Wanderschuhe für den Aufstieg.",
+            "hu": "Mássza meg az ikonikus piros-fehér világítótorony 171 lépcsőfokát a lélegzetelállító panorámáért, de ne felejtsen el kényelmes cipőt húzni a kihívást jelentő felfelé úthoz.",
+            "ro": "Urcați cele 171 de trepte ale acestui far cilindric roșu cu alb pentru o priveliște panoramică uluitoare a coastei, dar asigurați-vă că purtați încălțăminte foarte confortabilă.",
+            "en": "Climb the 171 steps of this iconic red-and-white cylindrical lighthouse for breathtaking panoramic views of the coast, but make sure to wear comfortable walking shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Jachthafen",
+            "hu": "Jachtkikötő",
+            "ro": "Portul de Agrement",
+            "en": "Marina (Port de Plaisance)"
+          },
+          "coords": [
+            -0.248091,
+            49.274882
+          ],
+          "category": "recreational",
+          "arrive_at": "14:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang des belebten Yachthafens, um die schaukelnden Fischerboote zu beobachten, und trinken Sie einen schnellen Kaffee in einem der kleinen Hafencafés.",
+            "hu": "Sétáljon végig a nyüzsgő kikötőn, figyelje a vízen ringatózó halászhajókat és jachtokat, és fogyasszon el egy kávét a rakpart egyik hangulatos kávézójában a pihenéshez.",
+            "ro": "Plimbați-vă de-a lungul portului de agrement pentru a urmări bărcile de pescuit și iahturile, și savurați o cafea la una dintre cafenelele de pe chei pentru a vă relaxa.",
+            "en": "Stroll along the bustling marina to watch the local fishing boats and yachts gently bobbing in the water, and grab a quick coffee at one of the quayside cafes to relax."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Redoute",
+            "hu": "Plage de la Redoute",
+            "ro": "Plaja de la Redoute",
+            "en": "Plage de la Redoute"
+          },
+          "coords": [
+            -0.227692,
+            49.286302
+          ],
+          "category": "recreational",
+          "arrive_at": "16:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Genießen Sie einen friedlichen Spaziergang am feinen Sand dieses unberührten Strandes abseits des Trubels, perfekt zum Entspannen in der späten Nachmittagssonne am Meer.",
+            "hu": "Élvezze a békés sétát ennek az érintetlen strandnak a finom homokján, távol a fő turistaközpontoktól, ami tökéletes hely a késő délutáni pihenéshez a tengeri szellőben.",
+            "ro": "Bucurați-vă de o plimbare liniștită pe nisipul fin al acestei plaje izolate de agitația turistică, locul perfect pentru a vă relaxa după-amiaza târziu în briza mării.",
+            "en": "Enjoy a peaceful walk along the fine sands of this pristine beach away from the main tourist hubs, perfect for unwinding in the late afternoon sun with a refreshing sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Sword Beach",
+            "hu": "Sword Beach",
+            "ro": "Plaja Sword",
+            "en": "Sword Beach"
+          },
+          "coords": [
+            -0.321111,
+            49.306389
+          ],
+          "category": "historical",
+          "arrive_at": "17:34",
+          "stay_min": 110,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem historischen Sandstrand, an dem die Alliierten am D-Day landeten, und kommen Sie bei Ebbe, um die massiven Ausmaße der Operation zu begreifen.",
+            "hu": "Sétáljon ezen a történelmi homokos strandon, ahol a szövetségesek partra szálltak, és időzítse látogatását apály idejére, hogy igazán értékelni tudja a hadművelet méretét.",
+            "ro": "Plimbați-vă pe această plajă istorică unde au debarcat trupele aliate de Ziua Z și vizitați-o în timpul refluxului pentru a aprecia cu adevărat amploarea masivă a operațiunii.",
+            "en": "Walk along this historic and expansive sandy beach where Allied troops landed on D-Day, and visit during low tide to truly appreciate the massive scale of the operation."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt an der Kirche Saint Samson und fahren Sie dann effizient zum Großen Bunker, um den Touristenmassen zuvorzukommen.\n\nNach dem Commando Museum fahren Sie bequem mit dem Auto zum Leuchtturm und zum Jachthafen und genießen die Flexibilität.\n\nFahren Sie nach Osten zum ruhigeren Plage de la Redoute, bevor Sie eine kurze malerische Fahrt zum historischen Sword Beach unternehmen.\n\nBeenden Sie Ihren Roadtrip am Sword Beach. Mit dem Auto können Sie bis zum Sonnenuntergang bleiben und die normannische Küste genießen.",
+        "hu": "Kezdje az autós utat a Saint Samson templomnál, majd gyorsan vezessen át a Nagy Bunkerhez, hogy elkerülje a legnagyobb turistatömegeket.\n\nA Commando Múzeum után kényelmesen elautózhat a világítótoronyhoz és a kikötőhöz, kihasználva a járműve adta rugalmasságot.\n\nVezessen kelet felé a csendesebb Plage de la Redoute-hoz, mielőtt egy rövid, festői tengerparti autózással eléri a történelmi Sword Beachet.\n\nFejezze be az utat a Sword Beach hatalmas térségénél. Az autója lehetővé teszi, hogy napnyugtáig maradjon a normann tengerparton.",
+        "ro": "Începeți cu biserica Saint Samson, apoi conduceți eficient spre Marele Buncăr pentru a evita aglomerația turiștilor de la mijlocul zilei.\n\nDupă vizita la Muzeul Commando, mergeți ușor cu mașina până la far și port, bucurându-vă de flexibilitatea vehiculului dumneavoastră.\n\nConduceți spre est pentru a descoperi Plage de la Redoute, înainte de a face o scurtă călătorie pitorească pe coastă spre Sword Beach.\n\nÎncheiați excursia la Sword Beach. Mașina vă permite să rămâneți până la apus, maximizând timpul petrecut pe coasta normandă.",
+        "en": "Begin driving into Ouistreham's heritage starting at Saint Samson Church, then efficiently drive to the towering Big Bunker to beat the largest midday tourist crowds.\n\nAfter a sobering visit to the N°4 Commando Museum, easily hop in your car to reach the Ouistreham Lighthouse and the nearby Marina, enjoying the flexibility of your vehicle.\n\nDrive eastward to discover the quieter Plage de la Redoute, stepping out to enjoy the sand before taking a short scenic drive down the coast to the historic Sword Beach.\n\nFinish your road trip reflecting by the vast expanse of Sword Beach. Your car allows you to stay until sunset, maximizing your time taking in the dramatic Norman coastline."
+      }
+    }
+  }
+}

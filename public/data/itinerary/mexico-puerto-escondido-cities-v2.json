@@ -1,0 +1,543 @@
+{
+  "city_id": "mexico-puerto-escondido-cities-v2",
+  "anchor": {
+    "name": "Puerto Escondido",
+    "coords": [
+      -97.071667,
+      15.861944
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:09",
+      "total_km": 2.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Busto de Luis Donaldo Colosio",
+            "hu": "Busto de Luis Donaldo Colosio",
+            "ro": "Busto de Luis Donaldo Colosio",
+            "en": "Busto de Luis Donaldo Colosio"
+          },
+          "coords": [
+            -97.071508,
+            15.862146
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese historische Büste eines prominenten Politikers und bringen Sie einen Regenschirm mit, da der umliegende Platz sehr heiß werden kann.",
+            "hu": "Csodálja meg ezt a kiemelkedő politikusnak emléket állító mellszobrot, és vigyen magával napernyőt, mivel a környező tér nagyon felforrósodhat a napon.",
+            "ro": "Admirați acest bust istoric ce onorează o figură politică marcantă și aduceți o umbrelă pentru umbră, deoarece piața din jur devine foarte fierbinte.",
+            "en": "Admire this historical bust honoring a prominent political figure, and bring an umbrella for shade since the surrounding square can get very hot."
+          }
+        },
+        {
+          "name": {
+            "de": "Taller libre \"El pincel mágico\"",
+            "hu": "Taller libre \"El pincel mágico\"",
+            "ro": "Taller libre \"El pincel mágico\"",
+            "en": "Taller libre \"El pincel mágico\""
+          },
+          "coords": [
+            -97.071274,
+            15.861032
+          ],
+          "category": "cultural",
+          "arrive_at": "10:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie in dieser lebhaften Werkstatt die authentische Kreativität Oaxacas, aber denken Sie daran, vor dem Fotografieren der Künstler zu fragen.",
+            "hu": "Fedezze fel az autentikus oaxacai kreativitást ebben a nyüzsgő műhelyben, de ne felejtsen el engedélyt kérni, mielőtt lefotózza az alkotó művészeket.",
+            "ro": "Explorați acest atelier de artă local pentru a vedea creativitatea autentică oaxacană, dar nu uitați să cereți permisiunea înainte de a face poze.",
+            "en": "Explore this vibrant local art workshop to see authentic Oaxacan creativity, but remember to ask for permission before taking photos of the artists."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a Benito Juárez",
+            "hu": "Monumento a Benito Juárez",
+            "ro": "Monumento a Benito Juárez",
+            "en": "Monumento a Benito Juárez"
+          },
+          "coords": [
+            -97.067281,
+            15.861708
+          ],
+          "category": "historical",
+          "arrive_at": "11:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese wichtige Statue des mexikanischen Reformpräsidenten und achten Sie auf die Details am Sockel, um die lokale Handwerkskunst zu sehen.",
+            "hu": "Látogassa meg a nagy mexikói reformer elnöknek szentelt fontos szobrot, és figyelje meg a talapzat részleteit, hogy értékelje a helyi kézművességet.",
+            "ro": "Vizitați această statuie importantă dedicată marelui președinte reformist al Mexicului și priviți detaliile de la bază pentru a aprecia măiestria.",
+            "en": "Visit this important statue dedicated to Mexico's great reformist president, and look closely at the base details to appreciate the local craftsmanship."
+          }
+        },
+        {
+          "name": {
+            "de": "Galeria Diana",
+            "hu": "Galeria Diana",
+            "ro": "Galeria Diana",
+            "en": "Galeria Diana"
+          },
+          "coords": [
+            -97.068302,
+            15.864206
+          ],
+          "category": "museum",
+          "arrive_at": "13:04",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine beeindruckende Sammlung regionaler Kunst in dieser Galerie und kaufen Sie Tickets vorab online, um die Nachmittagsschlangen zu umgehen.",
+            "hu": "Fedezzen fel egy lenyűgöző regionális művészeti gyűjteményt ebben a galériában, és vegye meg a jegyet online előre, hogy elkerülje a délutáni sorokat.",
+            "ro": "Descoperiți o colecție impresionantă de artă regională în această galerie fermecătoare și cumpărați bilete online din timp pentru a sări peste cozi.",
+            "en": "Discover an impressive collection of regional art inside this charming gallery, and purchase tickets online in advance to skip the busy afternoon queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Andador turístico",
+            "hu": "Andador turístico",
+            "ro": "Andador turístico",
+            "en": "Andador turístico"
+          },
+          "coords": [
+            -97.064709,
+            15.858882
+          ],
+          "category": "natural",
+          "arrive_at": "14:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Schlendern Sie diesen malerischen Fußweg mit fantastischer Meeresbrise entlang und tragen Sie bequeme Schuhe, da einige gepflasterte Abschnitte uneben sind.",
+            "hu": "Sétáljon végig ezen a festői sétányon, élvezze a tengeri szellőt, és viseljen kényelmes cipőt, mivel egyes kövezett szakaszok meglehetősen egyenetlenek.",
+            "ro": "Plimbați-vă pe această alee pietonală pitorească cu brize fantastice și purtați pantofi comozi, deoarece unele porțiuni pavate sunt destul de inegale.",
+            "en": "Stroll along this scenic pedestrian path offering fantastic ocean breezes, and wear comfortable walking shoes as some paved sections are quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento al ahogado, Las Manos",
+            "hu": "Monumento al ahogado, Las Manos",
+            "ro": "Monumento al ahogado, Las Manos",
+            "en": "Monumento al ahogado, Las Manos"
+          },
+          "coords": [
+            -97.059544,
+            15.857334
+          ],
+          "category": "historical",
+          "arrive_at": "16:19",
+          "stay_min": 110,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Denken Sie an diesem dramatischen Küstendenkmal über die Kraft des Meeres nach und besuchen Sie es spät am Tag für spektakuläre Lichtverhältnisse.",
+            "hu": "Gondolkodjon el a tenger erejét szimbolizáló drámai tengerparti emlékműnél, és látogasson el ide a nap végén a hullámokon megcsillanó látványos fényekért.",
+            "ro": "Reflectați la acest monument de coastă dramatic care simbolizează puterea mării și vizitați-l târziu în zi pentru o iluminare spectaculoasă la apus.",
+            "en": "Reflect at this dramatic coastal monument symbolizing the power of the sea, and visit late in the day for spectacular lighting against the ocean waves."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der Erkundung des historischen Herzens von Puerto Escondido und authentischer Kunst aus Oaxaca. Mittags verlagert sich der Fokus auf eine Galerie mit regionalen Meisterwerken. Am Nachmittag steigen Sie auf einem malerischen Fußgängerweg in Richtung Küste hinab. Schließen Sie den Abend mit einem Moment der Besinnung an einem dramatischen Küstendenkmal ab.",
+        "hu": "Kezdje a reggelt Puerto Escondido történelmi központjának és az autentikus oaxacai művészetnek a felfedezésével. A délidő a regionális mesterműveket bemutató galéria meglátogatását hozza el. Délután ereszkedjen le a part felé egy festői gyalogos sétányon. Az estét egy drámai tengerparti emlékműnél tett elgondolkodtató és emlékezetes látogatással zárhatja.",
+        "ro": "Începeți dimineața explorând inima istorică a orașului Puerto Escondido și arta autentică oaxacană. La prânz accentul se mută pe cultură, vizitând o galerie cu capodopere regionale. După-amiaza, coborâți spre coastă pe o alee pietonală pitorească plină de viață. Încheiați seara reflectând la un monument de coastă dramatic, sub lumina caldă a apusului.",
+        "en": "Start your morning exploring the historical heart of Puerto Escondido, paying respects at local monuments and immersing in authentic Oaxacan art. Midday brings a shift towards cultural appreciation with a gallery visit showcasing regional masterpieces. In the afternoon, descend towards the coast along a scenic pedestrian walkway. Conclude the evening reflecting at a dramatic coastal monument."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:41",
+      "total_km": 2.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Galeria Diana",
+            "hu": "Galeria Diana",
+            "ro": "Galeria Diana",
+            "en": "Galeria Diana"
+          },
+          "coords": [
+            -97.068302,
+            15.864206
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine beeindruckende Sammlung regionaler Kunst in dieser Galerie und kaufen Sie Tickets vorab online, um die Nachmittagsschlangen zu umgehen.",
+            "hu": "Fedezzen fel egy lenyűgöző regionális művészeti gyűjteményt ebben a galériában, és vegye meg a jegyet online előre, hogy elkerülje a délutáni sorokat.",
+            "ro": "Descoperiți o colecție impresionantă de artă regională în această galerie fermecătoare și cumpărați bilete online din timp pentru a sări peste cozi.",
+            "en": "Discover an impressive collection of regional art inside this charming gallery, and purchase tickets online in advance to skip the busy afternoon queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Manzanillo",
+            "hu": "Playa Manzanillo",
+            "ro": "Playa Manzanillo",
+            "en": "Playa Manzanillo"
+          },
+          "coords": [
+            -97.073046,
+            15.858086
+          ],
+          "category": "recreational",
+          "arrive_at": "10:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schwimmen Sie in den ruhigen Gewässern dieses familienfreundlichen Strandes und mieten Sie am frühen Morgen Schnorchelausrüstung für die beste Sicht.",
+            "hu": "Ússzon egyet ennek a családbarát strandnak a nyugodt vizében, és béreljen sznorkelfelszerelést kora reggel egy helyi árustól a legjobb látási viszonyokért.",
+            "ro": "Înotați în apele calme ale acestei plaje prietenoase pentru familii și închiriați echipament de snorkeling devreme dimineața pentru cea mai bună vizibilitate.",
+            "en": "Swim in the calm waters of this family-friendly beach, and rent snorkeling gear from a local vendor early in the morning for the best visibility."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Puerto Angelito",
+            "hu": "Playa Puerto Angelito",
+            "ro": "Playa Puerto Angelito",
+            "en": "Playa Puerto Angelito"
+          },
+          "coords": [
+            -97.074683,
+            15.857671
+          ],
+          "category": "recreational",
+          "arrive_at": "12:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre dieser mit Fischerbooten gefüllten Bucht und probieren Sie das frische Ceviche in den kleinen Palapas am Strand.",
+            "hu": "Élvezze a halászhajókkal teli öböl nyüzsgő hangulatát, és kóstolja meg a friss cevichét a homokos parton található apró helyi pálmakunyhók egyikében.",
+            "ro": "Bucurați-vă de atmosfera plină de viață a acestui golf cu bărci de pescuit și gustați ceviche proaspăt de la micile palapas de pe plaja nisipoasă.",
+            "en": "Enjoy the bustling atmosphere of this bay filled with fishing boats, and try the fresh ceviche from the small local palapas right on the sandy shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Carrizalillo",
+            "hu": "Playa Carrizalillo",
+            "ro": "Playa Carrizalillo",
+            "en": "Playa Carrizalillo"
+          },
+          "coords": [
+            -97.078648,
+            15.859625
+          ],
+          "category": "recreational",
+          "arrive_at": "13:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Steigen Sie die steilen Steinstufen hinab zu einer versteckten Bucht für Surfanfänger und packen Sie leicht, da der Rückweg ziemlich anstrengend ist.",
+            "hu": "Ereszkedjen le a meredek kőlépcsőkön ehhez a kezdő szörfösöknek is tökéletes rejtett öbölhöz, és csomagoljon könnyedén, mert a visszaút fárasztó.",
+            "ro": "Coborâți scările abrupte de piatră spre un golf ascuns perfect pentru surferi începători și împachetați ușor, deoarece urcarea înapoi este grea.",
+            "en": "Descend the steep stone stairs to find a hidden cove perfect for beginner surfers, and pack light because the climb back up is quite challenging."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvedere Sunset Mugu",
+            "hu": "Belvedere Sunset Mugu",
+            "ro": "Belvedere Sunset Mugu",
+            "en": "Belvedere Sunset Mugu"
+          },
+          "coords": [
+            -97.083691,
+            15.858831
+          ],
+          "category": "natural",
+          "arrive_at": "14:46",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Küste von diesem malerischen Aussichtspunkt und sichern Sie sich dreißig Minuten vor Sonnenuntergang einen Platz.",
+            "hu": "Élvezze a panorámás kilátást a tengerpartra erről a festői kilátóról, és foglaljon helyet a padokon legalább harminc perccel a naplemente előtt.",
+            "ro": "Admiteți priveliștea panoramică de coastă de la acest punct de belvedere pitoresc și asigurați-vă un loc pe bănci cu cel puțin treizeci de minute înainte.",
+            "en": "Take in the panoramic coastal views from this picturesque lookout point, and secure a spot on the benches at least thirty minutes before the sun sets."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador Las Tortugas",
+            "hu": "Mirador Las Tortugas",
+            "ro": "Mirador Las Tortugas",
+            "en": "Mirador Las Tortugas"
+          },
+          "coords": [
+            -97.084085,
+            15.859756
+          ],
+          "category": "natural",
+          "arrive_at": "15:12",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beobachten Sie Meereslebewesen von diesem erhöhten natürlichen Aussichtspunkt und bringen Sie ein Fernglas mit, um im klaren Wasser Schildkröten zu sehen.",
+            "hu": "Figyelje meg a tengeri élővilágot erről a magaslati természetes kilátópontról, és hozzon távcsövet, hogy könnyen észrevegye az úszkáló teknősöket.",
+            "ro": "Urmăriți viața marină de la acest punct de observație natural și aduceți binoclu pentru a vedea cu ușurință broaștele țestoase înotând în apele clare.",
+            "en": "Watch for marine life from this elevated natural viewpoint, and bring binoculars to easily spot sea turtles swimming in the clear waters below you."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Coral",
+            "hu": "Playa Coral",
+            "ro": "Playa Coral",
+            "en": "Playa Coral"
+          },
+          "coords": [
+            -97.085647,
+            15.861986
+          ],
+          "category": "recreational",
+          "arrive_at": "15:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den weißen Sandstränden dieses abgelegenen Strandes und bringen Sie Ihr eigenes Wasser und Snacks mit, da es hier keine Geschäfte gibt.",
+            "hu": "Pihenjen ezen az eldugott és csendes, hófehér homokos strandon, de feltétlenül hozzon magával saját vizet és nassolnivalót, mivel itt nincsenek boltok.",
+            "ro": "Relaxați-vă pe nisipurile albe ale acestei plaje izolate și liniștite și aduceți propriile apă și gustări, deoarece nu există facilități comerciale.",
+            "en": "Relax on the pristine white sands of this secluded and quiet beach, and bring your own water and snacks as there are no commercial facilities here."
+          }
+        },
+        {
+          "name": {
+            "de": "Beach Club Cocos",
+            "hu": "Beach Club Cocos",
+            "ro": "Beach Club Cocos",
+            "en": "Beach Club Cocos"
+          },
+          "coords": [
+            -97.087706,
+            15.864511
+          ],
+          "category": "recreational",
+          "arrive_at": "16:56",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Pool mit erfrischenden Cocktails in diesem modernen Club, aber reservieren Sie Ihr Tagesbett im Voraus, um sich einen Platz zu sichern.",
+            "hu": "Pihenjen a medence partján egy frissítő trópusi koktéllal ebben a modern klubban, de foglalja le a napozóágyát egy nappal előre a biztos helyért.",
+            "ro": "Relaxați-vă la piscină cu cocktailuri tropicale la acest club modern, dar rezervați-vă șezlongul cu o zi înainte pentru a vă garanta un loc bun.",
+            "en": "Lounge by the pool and enjoy refreshing tropical cocktails at this modern club, but reserve your daybed a day in advance to guarantee a good spot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie von der Kunstgalerie im Zentrum direkt zu einem Strandabenteuer und beginnen Sie im ruhigen Manzanillo. Die Mittagszeit ist perfekt, um belebte Buchten und ein verstecktes Surferparadies zu erkunden. Der Nachmittag führt Sie zu natürlichen Aussichtspunkten, um Meereslebewesen zu beobachten. Der Abend klingt mit einer entspannten Atmosphäre in einem gehobenen Strandclub aus.",
+        "hu": "Tekerjen a belvárosi galériától egyenesen egy strandnéző kalandra, Manzanillo nyugodt vizével kezdve. A dél tökéletes a nyüzsgő öblök és egy rejtett szörfös paradicsom felfedezésére. Délután magaslati természetes kilátópontokról figyelheti meg a gazdag tengeri élővilágot. Az este egy laza, elegáns tengerparti klubban ér véget, ahol koccinthat a csodálatos napra.",
+        "ro": "Pedalați de la galeria de artă din centru direct într-o aventură pe plaje, începând cu apele liniștite din Manzanillo. Prânzul este perfect pentru a explora golfuri pline de viață și un paradis ascuns al surferilor. După-amiaza vă ridică la puncte de observație naturale pentru viața marină. Seara se instalează cu o atmosferă relaxată de club de plajă pentru a încheia ziua.",
+        "en": "Pedal from the town center's art gallery straight into a beach-hopping adventure, starting with the calm, family-friendly waters of Manzanillo. Midday is perfect for exploring adjacent bustling bays and finding a hidden surfer's paradise. The afternoon elevates you to natural viewpoints for spotting marine life. Evening sets in with a relaxed, upscale beach club vibe to toast the day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:31",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Playa Bacocho",
+            "hu": "Playa Bacocho",
+            "ro": "Playa Bacocho",
+            "en": "Playa Bacocho"
+          },
+          "coords": [
+            -97.094682,
+            15.866624
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie über den endlosen goldenen Sand dieses weitläufigen Strandes und bleiben Sie bis zum späten Nachmittag für das Schildkröten-Freilassungsprogramm.",
+            "hu": "Sétáljon végig ennek a hatalmas strandnak a végtelen aranyhomokján, és maradjon késő délutánig, hogy részt vegyen a napi teknőselengedési programban.",
+            "ro": "Plimbați-vă pe nisipurile aurii ale acestei plaje întinse și rămâneți până după-amiaza târziu pentru a participa la programul de eliberare a țestoaselor.",
+            "en": "Walk along the endless golden sands of this expansive beach, and stay until late afternoon to participate in the daily sea turtle release program."
+          }
+        },
+        {
+          "name": {
+            "de": "Beach Club Cocos",
+            "hu": "Beach Club Cocos",
+            "ro": "Beach Club Cocos",
+            "en": "Beach Club Cocos"
+          },
+          "coords": [
+            -97.087706,
+            15.864511
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Pool mit erfrischenden Cocktails in diesem modernen Club, aber reservieren Sie Ihr Tagesbett im Voraus, um sich einen Platz zu sichern.",
+            "hu": "Pihenjen a medence partján egy frissítő trópusi koktéllal ebben a modern klubban, de foglalja le a napozóágyát egy nappal előre a biztos helyért.",
+            "ro": "Relaxați-vă la piscină cu cocktailuri tropicale la acest club modern, dar rezervați-vă șezlongul cu o zi înainte pentru a vă garanta un loc bun.",
+            "en": "Lounge by the pool and enjoy refreshing tropical cocktails at this modern club, but reserve your daybed a day in advance to guarantee a good spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Coral",
+            "hu": "Playa Coral",
+            "ro": "Playa Coral",
+            "en": "Playa Coral"
+          },
+          "coords": [
+            -97.085647,
+            15.861986
+          ],
+          "category": "recreational",
+          "arrive_at": "11:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den weißen Sandstränden dieses abgelegenen Strandes und bringen Sie Ihr eigenes Wasser und Snacks mit, da es hier keine Geschäfte gibt.",
+            "hu": "Pihenjen ezen az eldugott és csendes, hófehér homokos strandon, de feltétlenül hozzon magával saját vizet és nassolnivalót, mivel itt nincsenek boltok.",
+            "ro": "Relaxați-vă pe nisipurile albe ale acestei plaje izolate și liniștite și aduceți propriile apă și gustări, deoarece nu există facilități comerciale.",
+            "en": "Relax on the pristine white sands of this secluded and quiet beach, and bring your own water and snacks as there are no commercial facilities here."
+          }
+        },
+        {
+          "name": {
+            "de": "Taller libre \"El pincel mágico\"",
+            "hu": "Taller libre \"El pincel mágico\"",
+            "ro": "Taller libre \"El pincel mágico\"",
+            "en": "Taller libre \"El pincel mágico\""
+          },
+          "coords": [
+            -97.071274,
+            15.861032
+          ],
+          "category": "cultural",
+          "arrive_at": "13:01",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie in dieser lebhaften Werkstatt die authentische Kreativität Oaxacas, aber denken Sie daran, vor dem Fotografieren der Künstler zu fragen.",
+            "hu": "Fedezze fel az autentikus oaxacai kreativitást ebben a nyüzsgő műhelyben, de ne felejtsen el engedélyt kérni, mielőtt lefotózza az alkotó művészeket.",
+            "ro": "Explorați acest atelier de artă local pentru a vedea creativitatea autentică oaxacană, dar nu uitați să cereți permisiunea înainte de a face poze.",
+            "en": "Explore this vibrant local art workshop to see authentic Oaxacan creativity, but remember to ask for permission before taking photos of the artists."
+          }
+        },
+        {
+          "name": {
+            "de": "Andador turístico",
+            "hu": "Andador turístico",
+            "ro": "Andador turístico",
+            "en": "Andador turístico"
+          },
+          "coords": [
+            -97.064709,
+            15.858882
+          ],
+          "category": "natural",
+          "arrive_at": "14:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schlendern Sie diesen malerischen Fußweg mit fantastischer Meeresbrise entlang und tragen Sie bequeme Schuhe, da einige gepflasterte Abschnitte uneben sind.",
+            "hu": "Sétáljon végig ezen a festői sétányon, élvezze a tengeri szellőt, és viseljen kényelmes cipőt, mivel egyes kövezett szakaszok meglehetősen egyenetlenek.",
+            "ro": "Plimbați-vă pe această alee pietonală pitorească cu brize fantastice și purtați pantofi comozi, deoarece unele porțiuni pavate sunt destul de inegale.",
+            "en": "Stroll along this scenic pedestrian path offering fantastic ocean breezes, and wear comfortable walking shoes as some paved sections are quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a Benito Juárez",
+            "hu": "Monumento a Benito Juárez",
+            "ro": "Monumento a Benito Juárez",
+            "en": "Monumento a Benito Juárez"
+          },
+          "coords": [
+            -97.067281,
+            15.861708
+          ],
+          "category": "historical",
+          "arrive_at": "15:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese wichtige Statue des mexikanischen Reformpräsidenten und achten Sie auf die Details am Sockel, um die lokale Handwerkskunst zu sehen.",
+            "hu": "Látogassa meg a nagy mexikói reformer elnöknek szentelt fontos szobrot, és figyelje meg a talapzat részleteit, hogy értékelje a helyi kézművességet.",
+            "ro": "Vizitați această statuie importantă dedicată marelui președinte reformist al Mexicului și priviți detaliile de la bază pentru a aprecia măiestria.",
+            "en": "Visit this important statue dedicated to Mexico's great reformist president, and look closely at the base details to appreciate the local craftsmanship."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento al ahogado, Las Manos",
+            "hu": "Monumento al ahogado, Las Manos",
+            "ro": "Monumento al ahogado, Las Manos",
+            "en": "Monumento al ahogado, Las Manos"
+          },
+          "coords": [
+            -97.059544,
+            15.857334
+          ],
+          "category": "historical",
+          "arrive_at": "16:41",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Denken Sie an diesem dramatischen Küstendenkmal über die Kraft des Meeres nach und besuchen Sie es spät am Tag für spektakuläre Lichtverhältnisse.",
+            "hu": "Gondolkodjon el a tenger erejét szimbolizáló drámai tengerparti emlékműnél, és látogasson el ide a nap végén a hullámokon megcsillanó látványos fényekért.",
+            "ro": "Reflectați la acest monument de coastă dramatic care simbolizează puterea mării și vizitați-l târziu în zi pentru o iluminare spectaculoasă la apus.",
+            "en": "Reflect at this dramatic coastal monument symbolizing the power of the sea, and visit late in the day for spectacular lighting against the ocean waves."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie vom weitläufigen Strand Bacocho los und genießen Sie die morgendliche Ruhe, bevor Sie zu ruhigen Stränden aufbrechen. Mittags bietet sich eine Fahrt ins kulturelle Zentrum zu lebhaften lokalen Werkstätten an. Ihr Nachmittag entfaltet sich mit einem Spaziergang entlang der lebendigen Küstenpromenade. Beenden Sie den Abend an einem stimmungsvollen Denkmal am Meer im Sonnenuntergang.",
+        "hu": "Induljon Bacocho hatalmas homokos partjáról, élvezve a reggeli nyugalmat, mielőtt eldugott korallos strandokhoz és klubokhoz hajtana. A délidő egy festői autózást kínál a kulturális központba, vibráló helyi műhelyekhez. A délután egy sétával telik a tengerparti sétányon és fontos szobrok megtekintésével. Zárja az estét egy hangulatos tengerparti emlékműnél, ahogy a nap lebukik.",
+        "ro": "Conduceți de la nisipurile întinse din Bacocho, bucurându-vă de liniștea dimineții înainte de a merge la plaje izolate cu corali. Prânzul oferă o plimbare pitorească spre centrul cultural pentru ateliere locale vibrante. După-amiaza se desfășoară cu o plimbare pe promenada vibrantă și vizitarea statuilor. Încheiați seara la un monument evocator pe malul mării.",
+        "en": "Drive starting from the expansive sands of Bacocho, enjoying morning tranquility before moving to secluded coral beaches and lively clubs. Midday offers a scenic drive to the cultural center for vibrant local workshops. Your afternoon unfolds with a stroll along the vibrant coastal promenade and visiting key statues. Conclude your evening at an evocative seaside monument as the sun dips below."
+      }
+    }
+  }
+}

@@ -1,0 +1,497 @@
+{
+  "city_id": "aniche",
+  "anchor": {
+    "name": "Aniche",
+    "coords": [
+      3.2511,
+      50.33
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:19",
+      "total_km": 3.25,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Martin Kirche",
+            "hu": "Saint-Martin templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            3.251496,
+            50.330998
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neugotische Architektur dieser zentralen Kirche und beachten Sie die kunstvollen Buntglasfenster, die im Morgenlicht am besten zur Geltung kommen.",
+            "hu": "Csodálja meg a központi templom lenyűgöző neogótikus építészetét, és figyelje meg a reggeli fényben legszebben ragyogó, bonyolult ólomüveg ablakokat.",
+            "ro": "Admirați arhitectura neogotică izbitoare a acestei biserici centrale, remarcând vitraliile sale complicate care se văd cel mai bine în lumina dimineții.",
+            "en": "Admire the striking neo-Gothic architecture of this central church, noting its intricate stained glass windows best viewed in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Aniche",
+            "hu": "Aniche Múzeum",
+            "ro": "Muzeul Aniche",
+            "en": "Aniche Museum"
+          },
+          "coords": [
+            3.250989,
+            50.330917
+          ],
+          "category": "museum",
+          "arrive_at": "09:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reiche industrielle Vergangenheit der Stadt ein und lesen Sie in Ruhe die Ausstellungen zur lokalen Glasherstellung, da Führungen selten sind.",
+            "hu": "Merüljön el a város gazdag ipari múltjában, és szánjon időt a helyi üveggyártásról szóló kiállítások elolvasására, mivel nem mindig van tárlatvezetés.",
+            "ro": "Aprofundați-vă în bogatul trecut industrial al orașului și acordați-vă timp pentru a citi exponatele despre fabricarea sticlei, deoarece tururile ghidate sunt rare.",
+            "en": "Dive into the rich industrial past of the town and take your time reading the exhibits on local glassmaking, as guided tours aren't always available."
+          }
+        },
+        {
+          "name": {
+            "de": "Mont d'Aniche",
+            "hu": "Mont d'Aniche",
+            "ro": "Mont d'Aniche",
+            "en": "Mont d'Aniche"
+          },
+          "coords": [
+            3.257404,
+            50.339605
+          ],
+          "category": "natural",
+          "arrive_at": "11:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang durch diese erhöhte Grünfläche mit malerischem Blick über die Dächer der Stadt und bringen Sie bequeme Schuhe für die unebenen Wege mit.",
+            "hu": "Élvezze a békés sétát ezen a magaslati zöldterületen, ahonnan festői kilátás nyílik a város háztetőire, és hozzon kényelmes cipőt az egyenetlen ösvényekhez.",
+            "ro": "Bucurați-vă de o plimbare liniștită prin acest spațiu verde ridicat care oferă vederi pitorești peste acoperișurile orașului, purtând pantofi comozi pentru poteci.",
+            "en": "Enjoy a peaceful stroll through this elevated green space offering scenic views over the town rooftops, bringing comfortable walking shoes for the uneven paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Glasfabrik Hayez",
+            "hu": "Hayez Üveggyár",
+            "ro": "Fabrica de sticlă Hayez",
+            "en": "Verreries Hayez"
+          },
+          "coords": [
+            3.240299,
+            50.333783
+          ],
+          "category": "historical",
+          "arrive_at": "13:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Erbe dieser historischen Glasfabrik, die die lokale Wirtschaft prägte, und achten Sie auf die verbliebenen architektonischen Elemente aus ihrer Blütezeit.",
+            "hu": "Fedezze fel a helyi gazdaságot formáló történelmi üveggyár örökségét, és tartsa nyitva a szemét a virágkorból fennmaradt építészeti elemekre.",
+            "ro": "Descoperiți moștenirea acestei fabrici istorice de sticlă care a modelat economia locală, fiind cu ochii în patru la elementele arhitecturale rămase din perioada sa de glorie.",
+            "en": "Discover the legacy of this historic glassworks factory that shaped the local economy, keeping an eye out for remaining architectural elements from its heyday."
+          }
+        },
+        {
+          "name": {
+            "de": "Abraumhalde Sainte-Marie",
+            "hu": "Sainte-Marie meddőhányó",
+            "ro": "Halda Sainte-Marie",
+            "en": "Terril Sainte-Marie"
+          },
+          "coords": [
+            3.236668,
+            50.333851
+          ],
+          "category": "natural",
+          "arrive_at": "14:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Wandern Sie auf diese renaturierte ehemalige Bergbauhalde, um das Bergbauerbe der Region zu verstehen, und packen Sie Wasser ein, da der Aufstieg steil sein kann.",
+            "hu": "Másszon fel erre a rekultivált egykori bányászati meddőhányóra, hogy egyedi szemszögből lássa a régió bányászati örökségét, de vigyen magával vizet a meredek emelkedőhöz.",
+            "ro": "Urcați pe această fostă haldă de zgură minieră recuperată pentru o perspectivă unică asupra moștenirii miniere, luând apă la voi deoarece urcarea poate fi destul de abruptă.",
+            "en": "Hike up this reclaimed former mining slag heap for a unique perspective on the region's mining heritage, packing some water as the ascent can be surprisingly steep."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame de la Visitation",
+            "hu": "Notre-Dame de la Visitation templom",
+            "ro": "Biserica Notre-Dame de la Visitation",
+            "en": "Église Notre-Dame de la Visitation"
+          },
+          "coords": [
+            3.233571,
+            50.330784
+          ],
+          "category": "religious",
+          "arrive_at": "16:09",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betreten Sie diese charmante Veedelskirche, um ihr bescheidenes, aber schönes Inneres zu würdigen, und prüfen Sie lokale Aushänge auf gelegentliche Gemeinschaftskonzerte.",
+            "hu": "Lépjen be ebbe a bájos környékbeli templomba, hogy megcsodálja szerény, de gyönyörű belső terét, és nézze meg a hirdetőtáblákon az alkalmi koncertek időpontjait.",
+            "ro": "Pășiți în această fermecătoare biserică de cartier pentru a-i aprecia interiorul modest, dar frumos, verificând avizierele pentru posibile concerte comunitare ocazionale.",
+            "en": "Step inside this charming neighborhood church to appreciate its modest but beautiful interior, checking local notice boards for occasional community concert times."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt im Herzen von Aniche, wo Sie die ruhige Atmosphäre der Saint-Martin-Kirche in sich aufnehmen, bevor Sie im örtlichen Museum in die tiefgreifende industrielle Geschichte der Glasherstellung eintauchen. Nachmittags führt Sie ein gemütlicher Spaziergang nach Norden zum Mont d'Aniche für einen Panoramablick. Später erkunden Sie die westlichen Ränder an der Verreries Hayez, bevor Sie am späten Nachmittag den Bergbau-Terril Sainte-Marie besteigen. Der Tag endet friedlich in der Église Notre-Dame de la Visitation, während die Abenddämmerung über die charmanten Straßen der Stadt hereinbricht.",
+        "hu": "Reggele Aniche szívében kezdődik, ahol magába szívhatja a Saint-Martin templom nyugodt hangulatát, mielőtt elmerülne az üveggyártás ipari történelmében a helyi múzeumban. Délután egy kellemes séta vezet észak felé a Mont d'Aniche kilátójához. Később felfedezi a nyugati peremet a Verreries Hayez-nél, majd késő délután megmássza a bányászati múltat őrző Terril Sainte-Marie-t. A nap békésen zárul az Église Notre-Dame de la Visitation-ban, ahogy az alkonyat leszáll a város bájos utcáira.",
+        "ro": "Dimineața dvs. începe în inima orașului Aniche, unde vă bucurați de atmosfera liniștită de la Biserica Saint-Martin, înainte de a pătrunde în istoria industrială la muzeul local. După-amiaza, o plimbare plăcută vă duce la nord spre Mont d'Aniche pentru o priveliște panoramică. Mai târziu explorați marginile vestice la Verreries Hayez, înainte de a urca pe fosta haldă minieră Terril Sainte-Marie. Ziua se încheie liniștit la Église Notre-Dame de la Visitation, pe măsură ce amurgul se lasă peste străzile fermecătoare.",
+        "en": "Your morning starts in the heart of Aniche, soaking in the quiet atmosphere of Saint-Martin Church before delving into the profound industrial history of glassmaking at the local museum. Midday brings a leisurely walk north to Mont d'Aniche for sweeping panoramic views. Later, you'll explore the western edges at Verreries Hayez before making a late afternoon ascent up the mining heritage site of Terril Sainte-Marie. The day concludes peacefully at the Église Notre-Dame de la Visitation as dusk falls over the town."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 6.25,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Martin Kirche",
+            "hu": "Saint-Martin templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            3.251496,
+            50.330998
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neugotische Architektur dieser zentralen Kirche und beachten Sie die kunstvollen Buntglasfenster, die im Morgenlicht am besten zur Geltung kommen.",
+            "hu": "Csodálja meg a központi templom lenyűgöző neogótikus építészetét, és figyelje meg a reggeli fényben legszebben ragyogó, bonyolult ólomüveg ablakokat.",
+            "ro": "Admirați arhitectura neogotică izbitoare a acestei biserici centrale, remarcând vitraliile sale complicate care se văd cel mai bine în lumina dimineții.",
+            "en": "Admire the striking neo-Gothic architecture of this central church, noting its intricate stained glass windows best viewed in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Aniche",
+            "hu": "Aniche Múzeum",
+            "ro": "Muzeul Aniche",
+            "en": "Aniche Museum"
+          },
+          "coords": [
+            3.250989,
+            50.330917
+          ],
+          "category": "museum",
+          "arrive_at": "09:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reiche industrielle Vergangenheit der Stadt ein und lesen Sie in Ruhe die Ausstellungen zur lokalen Glasherstellung, da Führungen selten sind.",
+            "hu": "Merüljön el a város gazdag ipari múltjában, és szánjon időt a helyi üveggyártásról szóló kiállítások elolvasására, mivel nem mindig van tárlatvezetés.",
+            "ro": "Aprofundați-vă în bogatul trecut industrial al orașului și acordați-vă timp pentru a citi exponatele despre fabricarea sticlei, deoarece tururile ghidate sunt rare.",
+            "en": "Dive into the rich industrial past of the town and take your time reading the exhibits on local glassmaking, as guided tours aren't always available."
+          }
+        },
+        {
+          "name": {
+            "de": "Ornithologischer Aussichtspunkt",
+            "hu": "Madármegfigyelő kilátó",
+            "ro": "Punct de observare ornitologic",
+            "en": "Point de vue ornithologique"
+          },
+          "coords": [
+            3.233554,
+            50.343848
+          ],
+          "category": "natural",
+          "arrive_at": "11:42",
+          "stay_min": 25,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bringen Sie Ihr Fernglas zu diesem ruhigen Vogelbeobachtungspunkt am Wasser mit und bleiben Sie leise, um heimische Sumpfarten am späten Nachmittag zu entdecken.",
+            "hu": "Hozzon távcsövet ehhez a nyugodt, vízparti madármegfigyelő ponthoz, és maradjon csendben, hogy megpillanthassa a helyi mocsári fajokat a késő délutáni órákban.",
+            "ro": "Aduceți binoclul la acest punct de observare liniștit al păsărilor de lângă apă, stând în liniște pentru a observa speciile locale de mlaștină în după-amiaza târzie.",
+            "en": "Bring your binoculars to this tranquil bird-watching viewpoint by the water, staying quiet to spot local marshland species during the active early morning or late afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Abraumhalde Sainte-Marie",
+            "hu": "Sainte-Marie meddőhányó",
+            "ro": "Halda Sainte-Marie",
+            "en": "Terril Sainte-Marie"
+          },
+          "coords": [
+            3.236668,
+            50.333851
+          ],
+          "category": "natural",
+          "arrive_at": "12:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Wandern Sie auf diese renaturierte ehemalige Bergbauhalde, um das Bergbauerbe der Region zu verstehen, und packen Sie Wasser ein, da der Aufstieg steil sein kann.",
+            "hu": "Másszon fel erre a rekultivált egykori bányászati meddőhányóra, hogy egyedi szemszögből lássa a régió bányászati örökségét, de vigyen magával vizet a meredek emelkedőhöz.",
+            "ro": "Urcați pe această fostă haldă de zgură minieră recuperată pentru o perspectivă unică asupra moștenirii miniere, luând apă la voi deoarece urcarea poate fi destul de abruptă.",
+            "en": "Hike up this reclaimed former mining slag heap for a unique perspective on the region's mining heritage, packing some water as the ascent can be surprisingly steep."
+          }
+        },
+        {
+          "name": {
+            "de": "Glasfabrik Hayez",
+            "hu": "Hayez Üveggyár",
+            "ro": "Fabrica de sticlă Hayez",
+            "en": "Verreries Hayez"
+          },
+          "coords": [
+            3.240299,
+            50.333783
+          ],
+          "category": "historical",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Erbe dieser historischen Glasfabrik, die die lokale Wirtschaft prägte, und achten Sie auf die verbliebenen architektonischen Elemente aus ihrer Blütezeit.",
+            "hu": "Fedezze fel a helyi gazdaságot formáló történelmi üveggyár örökségét, és tartsa nyitva a szemét a virágkorból fennmaradt építészeti elemekre.",
+            "ro": "Descoperiți moștenirea acestei fabrici istorice de sticlă care a modelat economia locală, fiind cu ochii în patru la elementele arhitecturale rămase din perioada sa de glorie.",
+            "en": "Discover the legacy of this historic glassworks factory that shaped the local economy, keeping an eye out for remaining architectural elements from its heyday."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame des Orages",
+            "hu": "Notre-Dame des Orages templom",
+            "ro": "Biserica Notre-Dame des Orages",
+            "en": "Eglis Notre-Dame des Orages"
+          },
+          "coords": [
+            3.243966,
+            50.309026
+          ],
+          "category": "religious",
+          "arrive_at": "15:05",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese kulturell bedeutende Südkirche, die für ihre besondere Atmosphäre bekannt ist, und achten Sie auf die feinen Altardetails, die die spirituelle Kraft der Stadt spiegeln.",
+            "hu": "Látogasson el ebbe a kulturálisan jelentős déli templomba, amely különleges atmoszférájáról ismert, és figyelje meg az oltár finom részleteit, amelyek a város kitartását tükrözik.",
+            "ro": "Vizitați această biserică sudică semnificativă, cunoscută pentru atmosfera sa distinctă, observând detaliile complicate ale altarului care reflectă rezistența spirituală a orașului.",
+            "en": "Visit this culturally significant southern church known for its distinct atmosphere, noting the intricate altar details that reflect the town's enduring spiritual resilience."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Vormittag startet mit einer kulturellen Dosis an der Saint-Martin-Kirche und dem örtlichen Museum. Danach radeln Sie zum Vogelbeobachtungspunkt am See, um die Natur zu genießen. Der Nachmittag ist geprägt vom Erbe des Bergbaus und der Glasherstellung am Terril Sainte-Marie und den Verreries Hayez. Am späten Nachmittag führt Sie eine längere Fahrt nach Süden zur historischen Eglis Notre-Dame des Orages, wo der Tag in beschaulicher Stille seinen Ausklang findet.",
+        "hu": "A délelőtt kulturális adaggal indul a Saint-Martin templomnál és a helyi múzeumban. Ezután elteker a tóparti madármegfigyelő ponthoz, hogy élvezze a természetet. A délutánt a bányászat és az üveggyártás öröksége határozza meg a Terril Sainte-Marie és a Verreries Hayez területén. Késő délután egy hosszabb kerékpározás vezet délre a történelmi Eglis Notre-Dame des Orages-hez, ahol a nap nyugodt csendben ér véget.",
+        "ro": "Dimineața începe cu o doză culturală la Biserica Saint-Martin și la muzeul local. Apoi pedalați către punctul de observare a păsărilor pentru a vă bucura de natură. După-amiaza este definită de moștenirea minieră și de fabricare a sticlei la Terril Sainte-Marie și Verreries Hayez. Mai târziu, o plimbare mai lungă vă duce spre sud, la istorica Eglis Notre-Dame des Orages, unde ziua se încheie într-o liniște contemplativă.",
+        "en": "The morning kicks off with a cultural dose at Saint-Martin Church and the local museum. Afterwards, you'll cycle to the lakeside bird-watching viewpoint to enjoy some tranquil nature. The afternoon is defined by the region's mining and glassmaking heritage at Terril Sainte-Marie and Verreries Hayez. A longer ride south in the late afternoon brings you to the historic Eglis Notre-Dame des Orages, where the day concludes in reflective quiet."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:24",
+      "total_km": 7.85,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Freiheitsplatz",
+            "hu": "Szabadság tér",
+            "ro": "Piața Libertății",
+            "en": "Liberty Square"
+          },
+          "coords": [
+            3.269128,
+            50.288457
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Reise an diesem offenen Platz, der lokale Versammlungen beherbergt, und holen Sie sich einen schnellen Espresso aus einem nahegelegenen Café als Stärkung.",
+            "hu": "Kezdje útját ezen a nyitott polgári téren, amely helyi összejöveteleknek ad otthont, és igyon egy gyors eszpresszót egy közeli kávézóban, mielőtt továbbindulna a következő úti célhoz.",
+            "ro": "Începeți călătoria în această piață civică deschisă care găzduiește adunări locale, savurând un espresso rapid de la o cafenea din apropiere pentru a vă încărca cu energie.",
+            "en": "Start your journey at this open civic square that hosts local gatherings, grabbing a quick espresso from a nearby café to fuel up before heading to your next destination."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame des Orages",
+            "hu": "Notre-Dame des Orages templom",
+            "ro": "Biserica Notre-Dame des Orages",
+            "en": "Eglis Notre-Dame des Orages"
+          },
+          "coords": [
+            3.243966,
+            50.309026
+          ],
+          "category": "religious",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese kulturell bedeutende Südkirche, die für ihre besondere Atmosphäre bekannt ist, und achten Sie auf die feinen Altardetails, die die spirituelle Kraft der Stadt spiegeln.",
+            "hu": "Látogasson el ebbe a kulturálisan jelentős déli templomba, amely különleges atmoszférájáról ismert, és figyelje meg az oltár finom részleteit, amelyek a város kitartását tükrözik.",
+            "ro": "Vizitați această biserică sudică semnificativă, cunoscută pentru atmosfera sa distinctă, observând detaliile complicate ale altarului care reflectă rezistența spirituală a orașului.",
+            "en": "Visit this culturally significant southern church known for its distinct atmosphere, noting the intricate altar details that reflect the town's enduring spiritual resilience."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Martin Kirche",
+            "hu": "Saint-Martin templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            3.251496,
+            50.330998
+          ],
+          "category": "religious",
+          "arrive_at": "10:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neugotische Architektur dieser zentralen Kirche und beachten Sie die kunstvollen Buntglasfenster, die im Morgenlicht am besten zur Geltung kommen.",
+            "hu": "Csodálja meg a központi templom lenyűgöző neogótikus építészetét, és figyelje meg a reggeli fényben legszebben ragyogó, bonyolult ólomüveg ablakokat.",
+            "ro": "Admirați arhitectura neogotică izbitoare a acestei biserici centrale, remarcând vitraliile sale complicate care se văd cel mai bine în lumina dimineții.",
+            "en": "Admire the striking neo-Gothic architecture of this central church, noting its intricate stained glass windows best viewed in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum von Aniche",
+            "hu": "Aniche Múzeum",
+            "ro": "Muzeul Aniche",
+            "en": "Aniche Museum"
+          },
+          "coords": [
+            3.250989,
+            50.330917
+          ],
+          "category": "museum",
+          "arrive_at": "11:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reiche industrielle Vergangenheit der Stadt ein und lesen Sie in Ruhe die Ausstellungen zur lokalen Glasherstellung, da Führungen selten sind.",
+            "hu": "Merüljön el a város gazdag ipari múltjában, és szánjon időt a helyi üveggyártásról szóló kiállítások elolvasására, mivel nem mindig van tárlatvezetés.",
+            "ro": "Aprofundați-vă în bogatul trecut industrial al orașului și acordați-vă timp pentru a citi exponatele despre fabricarea sticlei, deoarece tururile ghidate sunt rare.",
+            "en": "Dive into the rich industrial past of the town and take your time reading the exhibits on local glassmaking, as guided tours aren't always available."
+          }
+        },
+        {
+          "name": {
+            "de": "Glasfabrik Hayez",
+            "hu": "Hayez Üveggyár",
+            "ro": "Fabrica de sticlă Hayez",
+            "en": "Verreries Hayez"
+          },
+          "coords": [
+            3.240299,
+            50.333783
+          ],
+          "category": "historical",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Erbe dieser historischen Glasfabrik, die die lokale Wirtschaft prägte, und achten Sie auf die verbliebenen architektonischen Elemente aus ihrer Blütezeit.",
+            "hu": "Fedezze fel a helyi gazdaságot formáló történelmi üveggyár örökségét, és tartsa nyitva a szemét a virágkorból fennmaradt építészeti elemekre.",
+            "ro": "Descoperiți moștenirea acestei fabrici istorice de sticlă care a modelat economia locală, fiind cu ochii în patru la elementele arhitecturale rămase din perioada sa de glorie.",
+            "en": "Discover the legacy of this historic glassworks factory that shaped the local economy, keeping an eye out for remaining architectural elements from its heyday."
+          }
+        },
+        {
+          "name": {
+            "de": "Abraumhalde Sainte-Marie",
+            "hu": "Sainte-Marie meddőhányó",
+            "ro": "Halda Sainte-Marie",
+            "en": "Terril Sainte-Marie"
+          },
+          "coords": [
+            3.236668,
+            50.333851
+          ],
+          "category": "natural",
+          "arrive_at": "14:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Wandern Sie auf diese renaturierte ehemalige Bergbauhalde, um das Bergbauerbe der Region zu verstehen, und packen Sie Wasser ein, da der Aufstieg steil sein kann.",
+            "hu": "Másszon fel erre a rekultivált egykori bányászati meddőhányóra, hogy egyedi szemszögből lássa a régió bányászati örökségét, de vigyen magával vizet a meredek emelkedőhöz.",
+            "ro": "Urcați pe această fostă haldă de zgură minieră recuperată pentru o perspectivă unică asupra moștenirii miniere, luând apă la voi deoarece urcarea poate fi destul de abruptă.",
+            "en": "Hike up this reclaimed former mining slag heap for a unique perspective on the region's mining heritage, packing some water as the ascent can be surprisingly steep."
+          }
+        },
+        {
+          "name": {
+            "de": "Ornithologischer Aussichtspunkt",
+            "hu": "Madármegfigyelő kilátó",
+            "ro": "Punct de observare ornitologic",
+            "en": "Point de vue ornithologique"
+          },
+          "coords": [
+            3.233554,
+            50.343848
+          ],
+          "category": "natural",
+          "arrive_at": "15:29",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bringen Sie Ihr Fernglas zu diesem ruhigen Vogelbeobachtungspunkt am Wasser mit und bleiben Sie leise, um heimische Sumpfarten am späten Nachmittag zu entdecken.",
+            "hu": "Hozzon távcsövet ehhez a nyugodt, vízparti madármegfigyelő ponthoz, és maradjon csendben, hogy megpillanthassa a helyi mocsári fajokat a késő délutáni órákban.",
+            "ro": "Aduceți binoclul la acest punct de observare liniștit al păsărilor de lângă apă, stând în liniște pentru a observa speciile locale de mlaștină în după-amiaza târzie.",
+            "en": "Bring your binoculars to this tranquil bird-watching viewpoint by the water, staying quiet to spot local marshland species during the active early morning or late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt entspannt am Liberty Square, gefolgt von einer morgendlichen Fahrt zur stimmungsvollen Eglis Notre-Dame des Orages im Süden. Gegen Mittag erreichen Sie das Zentrum, um die Hauptkirche und das Museum zu besichtigen. Am Nachmittag erkunden Sie die westlichen Industriedenkmäler an den Verreries Hayez und dem Terril Sainte-Marie. Die Route endet mit einer friedlichen Fahrt zum Vogelbeobachtungspunkt, der den perfekten Abschluss in der Natur bietet.",
+        "hu": "Az autós túra nyugodtan indul a Liberty Square-en, majd egy reggeli út vezet a hangulatos déli Eglis Notre-Dame des Orages-hez. Dél körül eléri a központot, hogy meglátogassa a főtemplomot és a múzeumot. Délután felfedezi a nyugati ipari műemlékeket a Verreries Hayez-nél és a Terril Sainte-Marie-nál. Az útvonal egy békés autózással ér véget a madármegfigyelő ponthoz, amely tökéletes természeti befejezést kínál.",
+        "ro": "Turul dvs. cu mașina începe relaxat la Piața Libertății, urmat de un drum matinal către atmosfera de la Eglis Notre-Dame des Orages. La prânz ajungeți în centru pentru a vizita biserica principală și muzeul. După-amiaza, explorați monumentele industriale vestice de la Verreries Hayez și Terril Sainte-Marie. Traseul se încheie cu un drum pașnic spre punctul ornitologic, oferind un final perfect în mijlocul naturii.",
+        "en": "Your driving tour begins smoothly at Liberty Square, followed by a morning cruise to the atmospheric Eglis Notre-Dame des Orages in the south. By midday, you'll reach the core to visit the main church and museum. The afternoon allows for easy exploration of western industrial monuments at Verreries Hayez and the towering Terril Sainte-Marie. The route concludes with a peaceful drive to the ornithological viewpoint, offering a perfect natural finale."
+      }
+    }
+  }
+}

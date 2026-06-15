@@ -1,0 +1,497 @@
+{
+  "city_id": "aire-sur-la-lys",
+  "anchor": {
+    "name": "Aire-sur-la-Lys",
+    "coords": [
+      2.3967,
+      50.6386
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:36",
+      "total_km": 1.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Le Bailliage",
+            "hu": "Le Bailliage",
+            "ro": "Le Bailliage",
+            "en": "Le Bailliage"
+          },
+          "coords": [
+            2.39512,
+            50.638031
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein architektonisches Meisterwerk der Renaissance, das als Vogtei diente, dessen kunstvolle Fassadendetails Sie unbedingt bewundern sollten.",
+            "hu": "A reneszánsz építészet mesterműve, amely egykor bírósági épületként szolgált, és amelynek homlokzati részleteit érdemes alaposan szemügyre venni.",
+            "ro": "O capodoperă a arhitecturii renascentiste care a servit drept sediu al executorului judecătoresc, ale cărei detalii complexe ale fațadei trebuie neapărat admirate.",
+            "en": "A Renaissance architectural masterpiece that once served as the bailiwick court, where you should take time to admire the intricate facade details."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel de Ville",
+            "hu": "Hôtel de Ville",
+            "ro": "Hôtel de Ville",
+            "en": "Hôtel de Ville"
+          },
+          "coords": [
+            2.395978,
+            50.638407
+          ],
+          "category": "civic",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das grandiose Rathaus thront stolz am Hauptplatz und ist ein idealer Ausgangspunkt, wo Sie sich in der Touristeninformation eine Karte besorgen können.",
+            "hu": "A lenyűgöző városháza büszkén áll a főtéren, ideális kiindulópontként szolgálva, ahol a benti turistainformációnál térképet is beszerezhet.",
+            "ro": "Primăria grandioasă se înalță mândră în piața principală, fiind un punct de plecare ideal de unde puteți lua o hartă de la biroul de informații din interior.",
+            "en": "The grandiose town hall stands proudly in the main square, serving as a perfect starting point where you can pick up a map at the tourist info inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Beffroi",
+            "hu": "Beffroi",
+            "ro": "Beffroi",
+            "en": "Beffroi"
+          },
+          "coords": [
+            2.396404,
+            50.638485
+          ],
+          "category": "civic",
+          "arrive_at": "11:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Dieser imposante Belfried bietet einen Einblick in die mittelalterliche bürgerliche Macht; bereiten Sie sich jedoch auf einen steilen Aufstieg vor, um den Panoramablick zu genießen.",
+            "hu": "Ez az impozáns harangtorony bepillantást enged a középkori polgári hatalomba, de készüljön fel a meredek lépcsőkre, ha élvezni szeretné a panorámát.",
+            "ro": "Această clopotniță impunătoare oferă o privire asupra puterii civice medievale, deși trebuie să fiți pregătit pentru un urcuș abrupt dacă doriți să vă bucurați de priveliștile panoramice.",
+            "en": "This imposing belfry offers a glimpse into medieval civic power, though be prepared for a steep climb if you wish to enjoy the panoramic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace",
+            "hu": "Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace",
+            "ro": "Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace",
+            "en": "Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace"
+          },
+          "coords": [
+            2.397634,
+            50.639461
+          ],
+          "category": "religious",
+          "arrive_at": "13:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Eine ruhige Kapelle mit bemerkenswerten Buntglasfenstern, die sich perfekt für einen Moment der stillen Reflexion abseits der belebten Straßen eignet.",
+            "hu": "Egy békés kápolna figyelemre méltó ólomüveg ablakokkal, amely tökéletes egy kis csendes elmélkedésre a forgalmas utcáktól távol.",
+            "ro": "O capelă liniștită, cu vitralii remarcabile, perfectă pentru un moment de reflecție tăcută departe de străzile aglomerate.",
+            "en": "A serene chapel with remarkable stained glass windows, offering a perfect spot for a moment of quiet reflection away from the busy streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            2.400806,
+            50.639748
+          ],
+          "category": "religious",
+          "arrive_at": "14:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Eine atemberaubende Stiftskirche, die extravagante gotische und barocke Elemente verbindet, wobei die prächtige Orgel ein absolutes Highlight darstellt.",
+            "hu": "Lenyűgöző társaskáptalani templom, amely a gótikus és reneszánsz stílusokat ötvözi, és ahol a csodálatos orgona megtekintése kihagyhatatlan élmény.",
+            "ro": "O biserică colegială uimitoare, care combină stilurile gotic flamboaiant și renascentist, unde orga magnifică este un punct de atracție absolut.",
+            "en": "A stunning collegiate church combining flamboyant Gothic and Renaissance styles, where observing the magnificent organ is an absolute highlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte d'Arras",
+            "hu": "Porte d'Arras",
+            "ro": "Porte d'Arras",
+            "en": "Porte d'Arras"
+          },
+          "coords": [
+            2.404584,
+            50.638891
+          ],
+          "category": "fortress",
+          "arrive_at": "14:46",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die Überreste der alten Stadtbefestigung stehen als stumme Zeugen der militärischen Vergangenheit der Stadt und lassen sich am besten im späten Nachmittagslicht fotografieren.",
+            "hu": "A régi városi erődítmény maradványai a város katonai múltjának néma tanúi, amelyeket a késő délutáni fényekben érdemes a leginkább lefotózni.",
+            "ro": "Rămășițele vechilor fortificații ale orașului stau ca martori tăcuți ai trecutului său militar, fiind cel mai bine fotografiate în lumina târzie a după-amiezii.",
+            "en": "The remnants of the old town fortifications stand as silent witnesses to the city's military past, best photographed in the warm late afternoon light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Wir beginnen unseren Spaziergang am Bailliage und bewundern die Renaissance-Architektur, bevor wir zum prächtigen Hôtel de Ville gehen, um den Puls der Stadt zu spüren.\nMittag: Gegen Mittag bewundern wir den hoch aufragenden Belfried und machen eine besinnliche Pause in der wunderschön geschmückten Chapelle Saint-Jacques.\nNachmittag: Der Nachmittag ist der herrlichen Église Saint-Pierre gewidmet, gefolgt von einem Spaziergang zu den historischen Überresten der Porte d'Arras.\nAbend: Der Spaziergang endet bei Sonnenuntergang an den alten Stadttoren und hinterlässt eine tiefe Wertschätzung für das reiche Erbe von Aire-sur-la-Lys.",
+        "hu": "Reggel: Sétánkat a Le Bailliage épületénél kezdjük, megcsodálva a reneszánsz építészetet, mielőtt a pompás Hôtel de Ville felé vennénk az irányt, hogy átérezzük a város lüktetését.\nDélben: Dél közeledtével a magasba tornyosuló Beffroi-t csodáljuk meg, majd egy elmélyült pihenőt tartunk a gyönyörűen díszített Chapelle Saint-Jacques kápolnában.\nDélután: A délutánt a lenyűgöző Église Saint-Pierre felfedezésének szenteljük, amelyet egy séta követ a Porte d'Arras történelmi maradványaihoz.\nEste: Sétánk a naplementében ér véget az ősi városkapuknál, mély tisztelettel adózva Aire-sur-la-Lys gazdag örökségének.",
+        "ro": "Dimineața: Ne începem plimbarea la Le Bailliage, admirând arhitectura renascentistă înainte de a merge la marea Primărie pentru a simți pulsul civic al orașului.\nAmiază: Pe măsură ce se apropie prânzul, admirăm impozanta clopotniță și facem o pauză de contemplare la capela frumos împodobită Chapelle Saint-Jacques.\nDupă-amiază: După-amiaza este dedicată magnificei Église Saint-Pierre, urmată de o plimbare spre rămășițele defensive istorice ale Porte d'Arras.\nSeara: Plimbarea se încheie în timp ce soarele apune peste porțile antice ale orașului, lăsându-ne cu o profundă apreciere pentru moștenirea Aire-sur-la-Lys.",
+        "en": "Morning: We begin our walk at Le Bailliage, marveling at the detailed Renaissance architecture before stepping over to the grand Hôtel de Ville to sense the civic pulse of the city.\nMidday: As noon approaches, we admire the towering Beffroi and take a contemplative break at the beautifully adorned Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace.\nAfternoon: The afternoon is dedicated to the magnificent Église Saint-Pierre, a true Gothic masterpiece, followed by a stroll towards the historic defensive remnants of Porte d'Arras.\nEvening: The walk concludes as the sun sets over the ancient town gates, leaving us with a profound appreciation for the rich heritage and elegant atmosphere."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:21",
+      "total_km": 3.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hôtel de Ville",
+            "hu": "Hôtel de Ville",
+            "ro": "Hôtel de Ville",
+            "en": "Hôtel de Ville"
+          },
+          "coords": [
+            2.395978,
+            50.638407
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Das grandiose Rathaus thront stolz am Hauptplatz und ist ein idealer Ausgangspunkt, wo Sie sich in der Touristeninformation eine Karte besorgen können.",
+            "hu": "A lenyűgöző városháza büszkén áll a főtéren, ideális kiindulópontként szolgálva, ahol a benti turistainformációnál térképet is beszerezhet.",
+            "ro": "Primăria grandioasă se înalță mândră în piața principală, fiind un punct de plecare ideal de unde puteți lua o hartă de la biroul de informații din interior.",
+            "en": "The grandiose town hall stands proudly in the main square, serving as a perfect starting point where you can pick up a map at the tourist info inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Beffroi",
+            "hu": "Beffroi",
+            "ro": "Beffroi",
+            "en": "Beffroi"
+          },
+          "coords": [
+            2.396404,
+            50.638485
+          ],
+          "category": "civic",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Dieser imposante Belfried bietet einen Einblick in die mittelalterliche bürgerliche Macht; bereiten Sie sich jedoch auf einen steilen Aufstieg vor, um den Panoramablick zu genießen.",
+            "hu": "Ez az impozáns harangtorony bepillantást enged a középkori polgári hatalomba, de készüljön fel a meredek lépcsőkre, ha élvezni szeretné a panorámát.",
+            "ro": "Această clopotniță impunătoare oferă o privire asupra puterii civice medievale, deși trebuie să fiți pregătit pentru un urcuș abrupt dacă doriți să vă bucurați de priveliștile panoramice.",
+            "en": "This imposing belfry offers a glimpse into medieval civic power, though be prepared for a steep climb if you wish to enjoy the panoramic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace",
+            "hu": "Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace",
+            "ro": "Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace",
+            "en": "Chapelle Saint-Jacques-le-Majeur-et-Saint-Ignace"
+          },
+          "coords": [
+            2.397634,
+            50.639461
+          ],
+          "category": "religious",
+          "arrive_at": "11:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Eine ruhige Kapelle mit bemerkenswerten Buntglasfenstern, die sich perfekt für einen Moment der stillen Reflexion abseits der belebten Straßen eignet.",
+            "hu": "Egy békés kápolna figyelemre méltó ólomüveg ablakokkal, amely tökéletes egy kis csendes elmélkedésre a forgalmas utcáktól távol.",
+            "ro": "O capelă liniștită, cu vitralii remarcabile, perfectă pentru un moment de reflecție tăcută departe de străzile aglomerate.",
+            "en": "A serene chapel with remarkable stained glass windows, offering a perfect spot for a moment of quiet reflection away from the busy streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            2.400806,
+            50.639748
+          ],
+          "category": "religious",
+          "arrive_at": "12:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Eine atemberaubende Stiftskirche, die extravagante gotische und barocke Elemente verbindet, wobei die prächtige Orgel ein absolutes Highlight darstellt.",
+            "hu": "Lenyűgöző társaskáptalani templom, amely a gótikus és reneszánsz stílusokat ötvözi, és ahol a csodálatos orgona megtekintése kihagyhatatlan élmény.",
+            "ro": "O biserică colegială uimitoare, care combină stilurile gotic flamboaiant și renascentist, unde orga magnifică este un punct de atracție absolut.",
+            "en": "A stunning collegiate church combining flamboyant Gothic and Renaissance styles, where observing the magnificent organ is an absolute highlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte d'Arras",
+            "hu": "Porte d'Arras",
+            "ro": "Porte d'Arras",
+            "en": "Porte d'Arras"
+          },
+          "coords": [
+            2.404584,
+            50.638891
+          ],
+          "category": "fortress",
+          "arrive_at": "13:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die Überreste der alten Stadtbefestigung stehen als stumme Zeugen der militärischen Vergangenheit der Stadt und lassen sich am besten im späten Nachmittagslicht fotografieren.",
+            "hu": "A régi városi erődítmény maradványai a város katonai múltjának néma tanúi, amelyeket a késő délutáni fényekben érdemes a leginkább lefotózni.",
+            "ro": "Rămășițele vechilor fortificații ale orașului stau ca martori tăcuți ai trecutului său militar, fiind cel mai bine fotografiate în lumina târzie a după-amiezii.",
+            "en": "The remnants of the old town fortifications stand as silent witnesses to the city's military past, best photographed in the warm late afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte de Beaulieu",
+            "hu": "Porte de Beaulieu",
+            "ro": "Porte de Beaulieu",
+            "en": "Porte de Beaulieu"
+          },
+          "coords": [
+            2.389764,
+            50.640687
+          ],
+          "category": "fortress",
+          "arrive_at": "14:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Ein weiteres historisches Tor, das einen faszinierenden Blick auf die Verteidigungsanlagen im Vauban-Stil bietet und wo ein kurzer Spaziergang entlang des nahen Wassergrabens empfehlenswert ist.",
+            "hu": "Egy másik történelmi kapu, amely lenyűgöző bepillantást nyújt a Vauban-stílusú védművekbe, és ahol érdemes egy gyors sétát tenni a közeli vizesárok mentén.",
+            "ro": "O altă poartă istorică oferind o privire fascinantă asupra lucrărilor defensive în stil Vauban, unde este recomandată o scurtă plimbare de-a lungul șanțului din apropiere.",
+            "en": "Another historic gateway offering a fascinating look at the Vauban-style defensive works, where a quick stroll along the nearby moat is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Quentin",
+            "hu": "Église Saint-Quentin",
+            "ro": "Église Saint-Quentin",
+            "en": "Église Saint-Quentin"
+          },
+          "coords": [
+            2.37116,
+            50.632043
+          ],
+          "category": "religious",
+          "arrive_at": "16:11",
+          "stay_min": 70,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Eine schöne Vorstadtkirche voller lokaler Geschichte mit charmanten architektonischen Details, für deren Fotografieren sich die Mitnahme eines Teleobjektivs lohnt.",
+            "hu": "Gyönyörű külvárosi templom, amely gazdag helyi történelemmel és elbűvölő építészeti részletekkel büszkélkedhet, amelyek fotózásához érdemes zoom objektívet hozni.",
+            "ro": "O frumoasă biserică suburbană plină de istorie locală, prezentând detalii arhitecturale fermecătoare care justifică aducerea unui obiectiv cu zoom pentru fotografii mai bune.",
+            "en": "A beautiful suburban church steeped in local history, featuring charming architectural details that warrant bringing a zoom lens for better pictures."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Die Radtour beginnt am zentralen Rathaus, wo wir die klassische Atmosphäre aufnehmen, bevor wir den aufragenden Belfried im Herzen der Stadt bewundern.\nMittag: Wir fahren eine kurze Strecke zur ruhigen Chapelle Saint-Jacques und radeln dann zur prächtigen Église Saint-Pierre, um ihre imposante Fassade zu sehen.\nNachmittag: Die Route führt uns etwas weiter hinaus, um die historischen Tore Porte d'Arras und Porte de Beaulieu zu erkunden und die militärische Vergangenheit zu entdecken.\nAbend: Wir beenden unsere Radtour an der friedlichen Église Saint-Quentin, genießen die ruhige Vorstadtluft und lassen den Tag voller historischer Entdeckungen Revue passieren.",
+        "hu": "Reggel: Kerékpártúránk a központi városházától indul, magába szívva a klasszikus polgári hangulatot, mielőtt megcsodálnánk a magasba nyúló harangtornyot.\nDélben: Rövid távot tekerünk a békés Chapelle Saint-Jacques felé, majd a lenyűgöző Église Saint-Pierre impozáns homlokzatának felfedezésére indulunk.\nDélután: Az útvonal kissé távolabb visz, hogy felfedezzük a történelmi Porte d'Arras és Porte de Beaulieu kapukat, feltárva a város katonai múltját.\nEste: Kerékpáros utazásunkat a békés Église Saint-Quentin-nél fejezzük be, élvezve a nyugodt külvárosi levegőt és visszatekintve a történelmi felfedezésekkel teli napra.",
+        "ro": "Dimineața: Ciclismul începe la Primăria centrală, absorbind vibrațiile civice clasice înainte de a admira impunătoarea clopotniță chiar în inima orașului.\nAmiază: Ne plimbăm pe o distanță scurtă până la liniștita Chapelle Saint-Jacques, apoi pedalăm spre magnifica Église Saint-Pierre pentru a-i admira fațada.\nDupă-amiază: Traseul ne duce puțin mai departe pentru a explora istoricele Porte d'Arras și Porte de Beaulieu, descoperind trecutul militar al orașului.\nSeara: Ne terminăm călătoria cu bicicleta la pașnica Église Saint-Quentin, bucurându-ne de aerul liniștit suburban și reflectând la o zi plină de descoperiri.",
+        "en": "Morning: Cycling starts at the central Hôtel de Ville, taking in the classic civic vibes before admiring the soaring Beffroi right in the heart of town.\nMidday: We ride a short distance to the serene Chapelle Saint-Jacques, then pedal over to the magnificent Église Saint-Pierre to admire its imposing facade.\nAfternoon: The route takes us slightly further out to explore the historic Porte d'Arras and Porte de Beaulieu, uncovering the city's extensive military past.\nEvening: We finish our cycling journey at the peaceful Église Saint-Quentin, enjoying the tranquil suburban air and reflecting on a day full of historical discoveries."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:06",
+      "total_km": 6.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Le Bailliage",
+            "hu": "Le Bailliage",
+            "ro": "Le Bailliage",
+            "en": "Le Bailliage"
+          },
+          "coords": [
+            2.39512,
+            50.638031
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ein architektonisches Meisterwerk der Renaissance, das als Vogtei diente, dessen kunstvolle Fassadendetails Sie unbedingt bewundern sollten.",
+            "hu": "A reneszánsz építészet mesterműve, amely egykor bírósági épületként szolgált, és amelynek homlokzati részleteit érdemes alaposan szemügyre venni.",
+            "ro": "O capodoperă a arhitecturii renascentiste care a servit drept sediu al executorului judecătoresc, ale cărei detalii complexe ale fațadei trebuie neapărat admirate.",
+            "en": "A Renaissance architectural masterpiece that once served as the bailiwick court, where you should take time to admire the intricate facade details."
+          }
+        },
+        {
+          "name": {
+            "de": "Beffroi",
+            "hu": "Beffroi",
+            "ro": "Beffroi",
+            "en": "Beffroi"
+          },
+          "coords": [
+            2.396404,
+            50.638485
+          ],
+          "category": "civic",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Dieser imposante Belfried bietet einen Einblick in die mittelalterliche bürgerliche Macht; bereiten Sie sich jedoch auf einen steilen Aufstieg vor, um den Panoramablick zu genießen.",
+            "hu": "Ez az impozáns harangtorony bepillantást enged a középkori polgári hatalomba, de készüljön fel a meredek lépcsőkre, ha élvezni szeretné a panorámát.",
+            "ro": "Această clopotniță impunătoare oferă o privire asupra puterii civice medievale, deși trebuie să fiți pregătit pentru un urcuș abrupt dacă doriți să vă bucurați de priveliștile panoramice.",
+            "en": "This imposing belfry offers a glimpse into medieval civic power, though be prepared for a steep climb if you wish to enjoy the panoramic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            2.400806,
+            50.639748
+          ],
+          "category": "religious",
+          "arrive_at": "11:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Eine atemberaubende Stiftskirche, die extravagante gotische und barocke Elemente verbindet, wobei die prächtige Orgel ein absolutes Highlight darstellt.",
+            "hu": "Lenyűgöző társaskáptalani templom, amely a gótikus és reneszánsz stílusokat ötvözi, és ahol a csodálatos orgona megtekintése kihagyhatatlan élmény.",
+            "ro": "O biserică colegială uimitoare, care combină stilurile gotic flamboaiant și renascentist, unde orga magnifică este un punct de atracție absolut.",
+            "en": "A stunning collegiate church combining flamboyant Gothic and Renaissance styles, where observing the magnificent organ is an absolute highlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte de Beaulieu",
+            "hu": "Porte de Beaulieu",
+            "ro": "Porte de Beaulieu",
+            "en": "Porte de Beaulieu"
+          },
+          "coords": [
+            2.389764,
+            50.640687
+          ],
+          "category": "fortress",
+          "arrive_at": "12:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Ein weiteres historisches Tor, das einen faszinierenden Blick auf die Verteidigungsanlagen im Vauban-Stil bietet und wo ein kurzer Spaziergang entlang des nahen Wassergrabens empfehlenswert ist.",
+            "hu": "Egy másik történelmi kapu, amely lenyűgöző bepillantást nyújt a Vauban-stílusú védművekbe, és ahol érdemes egy gyors sétát tenni a közeli vizesárok mentén.",
+            "ro": "O altă poartă istorică oferind o privire fascinantă asupra lucrărilor defensive în stil Vauban, unde este recomandată o scurtă plimbare de-a lungul șanțului din apropiere.",
+            "en": "Another historic gateway offering a fascinating look at the Vauban-style defensive works, where a quick stroll along the nearby moat is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Quentin",
+            "hu": "Église Saint-Quentin",
+            "ro": "Église Saint-Quentin",
+            "en": "Église Saint-Quentin"
+          },
+          "coords": [
+            2.37116,
+            50.632043
+          ],
+          "category": "religious",
+          "arrive_at": "14:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Eine schöne Vorstadtkirche voller lokaler Geschichte mit charmanten architektonischen Details, für deren Fotografieren sich die Mitnahme eines Teleobjektivs lohnt.",
+            "hu": "Gyönyörű külvárosi templom, amely gazdag helyi történelemmel és elbűvölő építészeti részletekkel büszkélkedhet, amelyek fotózásához érdemes zoom objektívet hozni.",
+            "ro": "O frumoasă biserică suburbană plină de istorie locală, prezentând detalii arhitecturale fermecătoare care justifică aducerea unui obiectiv cu zoom pentru fotografii mai bune.",
+            "en": "A beautiful suburban church steeped in local history, featuring charming architectural details that warrant bringing a zoom lens for better pictures."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Lambert",
+            "hu": "Église Saint-Lambert",
+            "ro": "Église Saint-Lambert",
+            "en": "Église Saint-Lambert"
+          },
+          "coords": [
+            2.398473,
+            50.614441
+          ],
+          "category": "religious",
+          "arrive_at": "14:56",
+          "stay_min": 70,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Diese etwas außerhalb gelegene, friedliche Kirche ist für ihr ruhiges Ambiente bekannt und bildet einen beruhigenden letzten Halt, bevor man die Stadt verlässt.",
+            "hu": "Ez a kissé távolabb található, békés templom csendes hangulatáról ismert, így megnyugtató utolsó állomást jelent, mielőtt elhagyná a várost.",
+            "ro": "Situată puțin mai departe, această biserică pașnică este cunoscută pentru ambianța sa liniștită, devenind o ultimă oprire relaxantă înainte de a părăsi orașul.",
+            "en": "Located a bit further out, this peaceful church is known for its quiet ambiance, making it a soothing final stop before heading out of town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Wir fahren ins Stadtzentrum, um das Renaissance-Juwel Le Bailliage zu besuchen, und parken sicher, um den beeindruckenden mittelalterlichen Belfried zu bestaunen.\nMittag: Wir wechseln in das spirituelle Herz der Stadt mit einem Besuch der monumentalen Église Saint-Pierre und nehmen ihre kunstvollen Details in uns auf.\nNachmittag: Wir nutzen das Auto, um zu den Befestigungsanlagen der Porte de Beaulieu zu fahren, gefolgt von einer kurzen Fahrt zur historischen Église Saint-Quentin.\nAbend: Unsere Autotour endet an der ruhigen Église Saint-Lambert am Stadtrand und bietet einen entspannten Abschluss einer umfassenden Erkundung der Region.",
+        "hu": "Reggel: Autóval érkezünk a városközpontba, hogy meglátogassuk a reneszánsz gyöngyszemet, a Le Bailliage-t, majd biztonságosan leparkolva megcsodáljuk a közeli középkori harangtornyot.\nDélben: A város spirituális központjába megyünk a monumentális Église Saint-Pierre meglátogatásával, elmélyedve annak bonyolult művészeti részleteiben.\nDélután: Az autót kihasználva elugrunk a Porte de Beaulieu védműveihez, majd egy rövid utazás következik a történelmi Église Saint-Quentin felé.\nEste: Autós túránk a külvárosi Église Saint-Lambert csendes környezetében ér véget, nyugodt és elmélyült befejezést kínálva a régió átfogó felfedezésének.",
+        "ro": "Dimineața: Conducem în centrul orașului pentru a vizita bijuteria renascentistă Le Bailliage, apoi parcăm în siguranță pentru a admira impresionanta clopotniță medievală.\nAmiază: Trecem în inima spirituală a orașului cu o vizită la monumentala Église Saint-Pierre, admirând detaliile sale artistice complicate și istoria.\nDupă-amiază: Profitând de mașină, facem un salt până la fortificațiile defensive de la Porte de Beaulieu, urmată de un scurt drum până la Église Saint-Quentin.\nSeara: Turul nostru auto se încheie la senina Église Saint-Lambert de la periferie, oferind un final calm și reflexiv al unei explorări cuprinzătoare a regiunii.",
+        "en": "Morning: We drive into the city center to visit the Renaissance gem, Le Bailliage, then safely park to marvel at the impressive medieval Beffroi nearby.\nMidday: We transition to the spiritual heart of the city with a visit to the monumental Église Saint-Pierre, taking in its intricate artistic details and history.\nAfternoon: Taking advantage of the car, we hop over to the defensive fortifications of Porte de Beaulieu, followed by a short drive to the historical Église Saint-Quentin.\nEvening: Our driving tour concludes at the serene Église Saint-Lambert on the outskirts, providing a calm and reflective end to a comprehensive exploration of the region."
+      }
+    }
+  }
+}

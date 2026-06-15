@@ -1,0 +1,497 @@
+{
+  "city_id": "france-cerbere-cities-v2",
+  "anchor": {
+    "name": "Cerbère",
+    "coords": [
+      3.1647,
+      42.44129
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:15",
+      "total_km": 1.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mercat municipal",
+            "hu": "Mercat municipal",
+            "ro": "Mercat municipal",
+            "en": "Mercat municipal"
+          },
+          "coords": [
+            3.159439,
+            42.425291
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte lokale Kultur auf diesem städtischen Markt, wo täglich frische mediterrane Produkte verkauft werden, also kommen Sie früh für die beste Auswahl an Käse.",
+            "hu": "Tapasztalja meg az élénk helyi kultúrát ezen a piacon, ahol naponta friss mediterrán termékeket árulnak, ezért érkezzen korán a legjobb helyi sajtválogatásért.",
+            "ro": "Experimentați cultura locală vibrantă la această piață municipală unde se vând zilnic produse mediteraneene proaspete, așa că ajungeți devreme pentru cea mai bună brânză.",
+            "en": "Experience the vibrant local culture at this municipal market where fresh Mediterranean produce is sold daily, so arrive early for the best selection of local cheeses."
+          }
+        },
+        {
+          "name": {
+            "de": "Temple parroquial de Santa Maria",
+            "hu": "Temple parroquial de Santa Maria",
+            "ro": "Temple parroquial de Santa Maria",
+            "en": "Temple parroquial de Santa Maria"
+          },
+          "coords": [
+            3.15792,
+            42.426134
+          ],
+          "category": "religious",
+          "arrive_at": "10:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neugotische Architektur dieser großen Pfarrkirche, die die Skyline der Stadt dominiert, und nehmen Sie sich einen Moment Zeit für die friedliche Akustik.",
+            "hu": "Csodálja meg ennek a városképet uraló, hatalmas plébániatemplomnak a neogótikus építészetét, és szánjon egy percet a nagy hajó békés akusztikájának élvezetére.",
+            "ro": "Admirați arhitectura neogotică a acestei biserici parohiale grandioase care domină orizontul orașului și acordați-vă un moment pentru a vă bucura de acustica liniștită.",
+            "en": "Admire the neo-Gothic architecture of this grand parish church that dominates the town's skyline, and take a moment to enjoy the peaceful acoustics inside its large nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Sala Congesta",
+            "hu": "Sala Congesta",
+            "ro": "Sala Congesta",
+            "en": "Sala Congesta"
+          },
+          "coords": [
+            3.161942,
+            42.426012
+          ],
+          "category": "cultural",
+          "arrive_at": "10:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Entdecken Sie das lokale Erbe in dieser historischen Kulturhalle, die der Gemeinde lange als Treffpunkt diente, und prüfen Sie den Zeitplan für temporäre Ausstellungen.",
+            "hu": "Fedezze fel a helyi örökséget ebben a történelmi kulturális csarnokban, amely régóta a közösség találkozóhelye, és ellenőrizze a menetrendet az időszaki kiállításokért.",
+            "ro": "Descoperiți moștenirea locală la această sală culturală istorică, care a servit mult timp drept loc de adunare, și verificați programul pentru expoziții temporare.",
+            "en": "Discover the local heritage at this historical cultural hall that has long served as a gathering place for the community, and check the schedule for any temporary exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Passatges. Memorial Walter Benjamin",
+            "hu": "Passatges. Memorial Walter Benjamin",
+            "ro": "Passatges. Memorial Walter Benjamin",
+            "en": "Passatges. Memorial Walter Benjamin"
+          },
+          "coords": [
+            3.163353,
+            42.426872
+          ],
+          "category": "landmark",
+          "arrive_at": "11:50",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem tief bewegenden Umweltdenkmal für den Philosophen Walter Benjamin die Ehre und tragen Sie vernünftige Schuhe für die steilen Stufen hinunter zum Meer.",
+            "hu": "Rójja le tiszteletét ennél a Walter Benjamin filozófusnak szentelt, mélyen megható emlékműnél, és viseljen kényelmes cipőt a tengerhez vezető meredek lépcsők miatt.",
+            "ro": "Aduceți un omagiu la acest memorial de mediu profund emoționant dedicat filozofului Walter Benjamin și purtați încălțăminte comodă pentru treptele abrupte spre mare.",
+            "en": "Pay your respects at this deeply moving environmental memorial dedicated to the philosopher Walter Benjamin, and wear sensible shoes to navigate the steep steps leading down to the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de Portbou",
+            "hu": "Platja de Portbou",
+            "ro": "Platja de Portbou",
+            "en": "Platja de Portbou"
+          },
+          "coords": [
+            3.161102,
+            42.427016
+          ],
+          "category": "recreational",
+          "arrive_at": "12:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den Kieselstränden des Hauptstrandes, wo das ruhige Wasser des Mittelmeers perfekt für ein Bad ist, also vergessen Sie Ihre Wasserschuhe nicht.",
+            "hu": "Pihenjen a város fő strandjának kavicsos partján, ahol a nyugodt Földközi-tenger tökéletes egy frissítő délutáni úszáshoz, ezért ne felejtse el elhozni a vízi cipőjét.",
+            "ro": "Relaxați-vă pe țărmurile cu pietricele ale plajei principale, unde apele calme ale Mediteranei sunt perfecte pentru o baie, așa că nu uitați să aduceți încălțăminte de apă.",
+            "en": "Relax on the pebbled shores of the town's main beach where the calm Mediterranean waters are perfect for a refreshing afternoon swim, so don't forget to bring your water shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja del Pi",
+            "hu": "Platja del Pi",
+            "ro": "Platja del Pi",
+            "en": "Platja del Pi"
+          },
+          "coords": [
+            3.164024,
+            42.430385
+          ],
+          "category": "recreational",
+          "arrive_at": "13:30",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.44,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen in dieser intimen und malerischen kleinen Bucht, die von rauen Klippen umgeben ist und sich ideal für ein Picknick bei Sonnenuntergang eignet.",
+            "hu": "Meneküljön el a tömeg elől ebbe a zord tengerparti sziklákkal körülvett, hangulatos kis öbölbe, amely ideális helyszín egy piknikhez, miközben nézi a tenger feletti naplementét.",
+            "ro": "Scăpați de aglomerație în acest mic golf intim și pitoresc, înconjurat de stânci de coastă accidentate, un loc ideal pentru un picnic în timp ce priviți apusul pe mare.",
+            "en": "Escape the crowds at this intimate and scenic little cove surrounded by rugged coastal cliffs, making it an ideal spot to unpack a picnic while watching the sunset over the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen auf dem Markt, um die lokale Atmosphäre aufzusaugen. Mittags bewundern Sie die neugotischen Linien der Pfarrkirche und besuchen die historische Kulturhalle. Am Nachmittag zollen Sie dem Walter Benjamin Memorial Tribut, bevor Sie am Hauptstrand entspannen. Gegen Abend suchen Sie die intimen Buchten für einen ruhigen Sonnenuntergang über dem Mittelmeer auf.",
+        "hu": "Kezdje a reggelt a nyüzsgő piacon, hogy magába szívja a helyi hangulatot. Délben csodálja meg a plébániatemplom neogótikus vonalait, és látogasson el a történelmi kulturális csarnokba. Délután rójja le tiszteletét a Walter Benjamin-emlékműnél, mielőtt a fő strandon pihenne. Végül kora este keressen fel egy hangulatos öblöt a csendes mediterrán naplemente megtekintéséhez.",
+        "ro": "Începeți dimineața la piața municipală plină de viață pentru a simți atmosfera locală. La prânz, admirați liniile neogotice ale bisericii parohiale și vizitați sala culturală. După-amiaza, aduceți un omagiu emoționant la Memorialul Walter Benjamin înainte de a vă relaxa pe plaja principală. Seara, căutați golfurile intime pentru un apus liniștit peste Marea Mediterană.",
+        "en": "Begin your morning at the bustling municipal market to soak in the lively local atmosphere. By midday, take in the beautiful neo-Gothic lines of the parish church and visit the historical cultural hall. In the afternoon, pay a moving tribute at the Walter Benjamin Memorial before relaxing on the main beach. Finally, as evening approaches, seek out the intimate coves for a quiet sunset over the Mediterranean."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:40",
+      "total_km": 3.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mercat municipal",
+            "hu": "Mercat municipal",
+            "ro": "Mercat municipal",
+            "en": "Mercat municipal"
+          },
+          "coords": [
+            3.159439,
+            42.425291
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte lokale Kultur auf diesem städtischen Markt, wo täglich frische mediterrane Produkte verkauft werden, also kommen Sie früh für die beste Auswahl an Käse.",
+            "hu": "Tapasztalja meg az élénk helyi kultúrát ezen a piacon, ahol naponta friss mediterrán termékeket árulnak, ezért érkezzen korán a legjobb helyi sajtválogatásért.",
+            "ro": "Experimentați cultura locală vibrantă la această piață municipală unde se vând zilnic produse mediteraneene proaspete, așa că ajungeți devreme pentru cea mai bună brânză.",
+            "en": "Experience the vibrant local culture at this municipal market where fresh Mediterranean produce is sold daily, so arrive early for the best selection of local cheeses."
+          }
+        },
+        {
+          "name": {
+            "de": "Temple parroquial de Santa Maria",
+            "hu": "Temple parroquial de Santa Maria",
+            "ro": "Temple parroquial de Santa Maria",
+            "en": "Temple parroquial de Santa Maria"
+          },
+          "coords": [
+            3.15792,
+            42.426134
+          ],
+          "category": "religious",
+          "arrive_at": "10:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neugotische Architektur dieser großen Pfarrkirche, die die Skyline der Stadt dominiert, und nehmen Sie sich einen Moment Zeit für die friedliche Akustik.",
+            "hu": "Csodálja meg ennek a városképet uraló, hatalmas plébániatemplomnak a neogótikus építészetét, és szánjon egy percet a nagy hajó békés akusztikájának élvezetére.",
+            "ro": "Admirați arhitectura neogotică a acestei biserici parohiale grandioase care domină orizontul orașului și acordați-vă un moment pentru a vă bucura de acustica liniștită.",
+            "en": "Admire the neo-Gothic architecture of this grand parish church that dominates the town's skyline, and take a moment to enjoy the peaceful acoustics inside its large nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Passatges. Memorial Walter Benjamin",
+            "hu": "Passatges. Memorial Walter Benjamin",
+            "ro": "Passatges. Memorial Walter Benjamin",
+            "en": "Passatges. Memorial Walter Benjamin"
+          },
+          "coords": [
+            3.163353,
+            42.426872
+          ],
+          "category": "landmark",
+          "arrive_at": "10:44",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem tief bewegenden Umweltdenkmal für den Philosophen Walter Benjamin die Ehre und tragen Sie vernünftige Schuhe für die steilen Stufen hinunter zum Meer.",
+            "hu": "Rójja le tiszteletét ennél a Walter Benjamin filozófusnak szentelt, mélyen megható emlékműnél, és viseljen kényelmes cipőt a tengerhez vezető meredek lépcsők miatt.",
+            "ro": "Aduceți un omagiu la acest memorial de mediu profund emoționant dedicat filozofului Walter Benjamin și purtați încălțăminte comodă pentru treptele abrupte spre mare.",
+            "en": "Pay your respects at this deeply moving environmental memorial dedicated to the philosopher Walter Benjamin, and wear sensible shoes to navigate the steep steps leading down to the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de Portbou",
+            "hu": "Platja de Portbou",
+            "ro": "Platja de Portbou",
+            "en": "Platja de Portbou"
+          },
+          "coords": [
+            3.161102,
+            42.427016
+          ],
+          "category": "recreational",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den Kieselstränden des Hauptstrandes, wo das ruhige Wasser des Mittelmeers perfekt für ein Bad ist, also vergessen Sie Ihre Wasserschuhe nicht.",
+            "hu": "Pihenjen a város fő strandjának kavicsos partján, ahol a nyugodt Földközi-tenger tökéletes egy frissítő délutáni úszáshoz, ezért ne felejtse el elhozni a vízi cipőjét.",
+            "ro": "Relaxați-vă pe țărmurile cu pietricele ale plajei principale, unde apele calme ale Mediteranei sunt perfecte pentru o baie, așa că nu uitați să aduceți încălțăminte de apă.",
+            "en": "Relax on the pebbled shores of the town's main beach where the calm Mediterranean waters are perfect for a refreshing afternoon swim, so don't forget to bring your water shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "barraca de pedra seca 10251",
+            "hu": "barraca de pedra seca 10251",
+            "ro": "barraca de pedra seca 10251",
+            "en": "barraca de pedra seca 10251"
+          },
+          "coords": [
+            3.147037,
+            42.428595
+          ],
+          "category": "historical",
+          "arrive_at": "12:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.16,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise, indem Sie diese traditionelle Trockensteinmauerhütte der Hirten untersuchen, und bleiben Sie auf den markierten Wegen, um die Flora zu schützen.",
+            "hu": "Lépjen vissza az időben a pásztorok által épített hagyományos szárazkő kunyhó megtekintésével, és maradjon a jelzett ösvényeken, hogy ne zavarja a törékeny növényvilágot.",
+            "ro": "Întoarceți-vă în timp examinând această colibă tradițională din piatră construită de ciobani și rămâneți pe potecile marcate pentru a nu deranja flora fragilă din jur.",
+            "en": "Step back in time by examining this traditional dry stone hut built by shepherds of the past, and stay on the marked dirt trails to avoid disturbing the fragile surrounding flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de San Salvador",
+            "hu": "Menhir de San Salvador",
+            "ro": "Menhir de San Salvador",
+            "en": "Menhir de San Salvador"
+          },
+          "coords": [
+            3.13524,
+            42.441803
+          ],
+          "category": "historical",
+          "arrive_at": "13:50",
+          "stay_min": 110,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.74,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen alten stehenden Stein, der eine prähistorische Präsenz in den Vorbergen markiert, und bringen Sie ein Fernglas für die herrliche Aussicht mit.",
+            "hu": "Csodálja meg ezt az ősi állókövet, amely a történelem előtti jelenlétet jelzi a Pireneusok lábánál, és hozzon távcsövet, hogy élvezhesse a panorámás kilátást a gerincről.",
+            "ro": "Minunați-vă de această piatră antică ce marchează prezența preistorică la poalele Pirineilor și aduceți binoclu pentru a vă bucura de vederile panoramice de pe creastă.",
+            "en": "Marvel at this ancient standing stone that marks a prehistoric presence in the Pyrenees foothills, and bring binoculars to enjoy the sweeping panoramic views from this elevated ridge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Radtag mit einem Besuch des lokalen Marktes und der beeindruckenden Hauptkirche. Gegen Mittag fahren Sie zum Küstendenkmal und genießen eine Pause am Strand. Der Nachmittag bringt etwas Abenteuer, wenn Sie in die Hügel radeln, um alte Trockensteinhütten zu entdecken. Beenden Sie Ihre Reise am späten Nachmittag an einem prähistorischen stehenden Stein mit Panoramablick.",
+        "hu": "Indítsa kerékpáros napját a helyi piac és a lenyűgöző főtemplom meglátogatásával. Dél körül tekerjen le a tengerparti emlékműhöz, és élvezze a pihenést a strandon. A délután egy kis kalandot tartogat, ahogy felkarikázik a dombokra a régi kunyhók felfedezéséhez. Fejezze be utazását a késő délutáni órákban egy történelem előtti állókőnél, amely csodálatos panorámát kínál.",
+        "ro": "Începeți ziua de ciclism cu o vizită la piața locală și la biserica principală impresionantă. La prânz, coborâți spre memorialul de coastă și bucurați-vă de plaja principală. După-amiaza aduce puțină aventură pe măsură ce pedalați pe dealuri pentru a descoperi colibe vechi. Încheiați călătoria târziu după-amiaza la o piatră preistorică ce oferă vederi panoramice.",
+        "en": "Kick off your cycling day with a visit to the local market and the impressive main church. Around noon, ride down to the coastal memorial and enjoy some downtime at the main beach. The afternoon brings a bit of adventure as you cycle up into the hills to discover old dry stone huts. End your journey in the late afternoon at a prehistoric standing stone offering sweeping panoramic views."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 6.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Menhir de Perafita",
+            "hu": "Menhir de Perafita",
+            "ro": "Menhir de Perafita",
+            "en": "Menhir de Perafita"
+          },
+          "coords": [
+            3.15472,
+            42.46111
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Reise in die Vergangenheit an diesem alten Megalithen an der Grenze zwischen Frankreich und Spanien und achten Sie auf unebenes Gelände rund um das Denkmal.",
+            "hu": "Kezdje a múltba tett utazását ennél az ősi megalitnál, amely pontosan a francia-spanyol határon fekszik, és ügyeljen a lépteire az emlékmű körüli egyenetlen, füves terepen.",
+            "ro": "Începeți-vă călătoria în trecut la acest megalit antic situat chiar la granița dintre Franța și Spania și aveți grijă la terenul cu iarbă denivelat din jurul monumentului.",
+            "en": "Start your journey into the past at this ancient megalith situated right on the border between France and Spain, and watch your step on the uneven grassy terrain around the monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir Peyra Ficta",
+            "hu": "Menhir Peyra Ficta",
+            "ro": "Menhir Peyra Ficta",
+            "en": "Menhir Peyra Ficta"
+          },
+          "coords": [
+            3.158963,
+            42.455912
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.67,
+          "tip_5lang": {
+            "de": "Entdecken Sie ein weiteres Stück neolithischer Geschichte mit diesem gut erhaltenen stehenden Stein und denken Sie daran, dass der Wind hier oben überraschend stark sein kann.",
+            "hu": "Fedezzen fel egy újabb darabot a neolitikum történelméből ezzel a völgyekre néző, jól megőrzött állókővel, és tartsa szem előtt, hogy a szél itt meglepően erős lehet.",
+            "ro": "Descoperiți o altă bucată de istorie neolitică cu această piatră bine conservată cu vedere la văi, ținând cont că vântul de aici sus poate fi surprinzător de puternic.",
+            "en": "Discover another piece of Neolithic history with this well-preserved standing stone overlooking the coastal valleys, keeping in mind that the wind up here can be surprisingly strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen de la Coma Enestapera",
+            "hu": "Dolmen de la Coma Enestapera",
+            "ro": "Dolmen de la Coma Enestapera",
+            "en": "Dolmen de la Coma Enestapera"
+          },
+          "coords": [
+            3.143397,
+            42.451779
+          ],
+          "category": "historical",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.35,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diese faszinierende prähistorische Grabkammer aus massiven Steinplatten und bringen Sie ein Weitwinkelobjektiv mit, um ihre beeindruckende Größe einzufangen.",
+            "hu": "Vizsgálja meg ezt a hatalmas kőlapokból épített, lenyűgöző történelem előtti sírkamrát, és hozzon magával nagylátószögű objektívet, hogy megörökítse a teljes méretét.",
+            "ro": "Investigați această cameră funerară preistorică fascinantă construită din plăci masive de piatră și aduceți un obiectiv cu unghi larg pentru a surprinde dimensiunea sa.",
+            "en": "Investigate this fascinating prehistoric burial chamber constructed from massive stone slabs, and bring a wide-angle lens for your camera to capture its impressive full scale."
+          }
+        },
+        {
+          "name": {
+            "de": "Passatges. Memorial Walter Benjamin",
+            "hu": "Passatges. Memorial Walter Benjamin",
+            "ro": "Passatges. Memorial Walter Benjamin",
+            "en": "Passatges. Memorial Walter Benjamin"
+          },
+          "coords": [
+            3.163353,
+            42.426872
+          ],
+          "category": "landmark",
+          "arrive_at": "13:22",
+          "stay_min": 15,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem tief bewegenden Umweltdenkmal für den Philosophen Walter Benjamin die Ehre und tragen Sie vernünftige Schuhe für die steilen Stufen hinunter zum Meer.",
+            "hu": "Rójja le tiszteletét ennél a Walter Benjamin filozófusnak szentelt, mélyen megható emlékműnél, és viseljen kényelmes cipőt a tengerhez vezető meredek lépcsők miatt.",
+            "ro": "Aduceți un omagiu la acest memorial de mediu profund emoționant dedicat filozofului Walter Benjamin și purtați încălțăminte comodă pentru treptele abrupte spre mare.",
+            "en": "Pay your respects at this deeply moving environmental memorial dedicated to the philosopher Walter Benjamin, and wear sensible shoes to navigate the steep steps leading down to the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Temple parroquial de Santa Maria",
+            "hu": "Temple parroquial de Santa Maria",
+            "ro": "Temple parroquial de Santa Maria",
+            "en": "Temple parroquial de Santa Maria"
+          },
+          "coords": [
+            3.15792,
+            42.426134
+          ],
+          "category": "religious",
+          "arrive_at": "13:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neugotische Architektur dieser großen Pfarrkirche, die die Skyline der Stadt dominiert, und nehmen Sie sich einen Moment Zeit für die friedliche Akustik.",
+            "hu": "Csodálja meg ennek a városképet uraló, hatalmas plébániatemplomnak a neogótikus építészetét, és szánjon egy percet a nagy hajó békés akusztikájának élvezetére.",
+            "ro": "Admirați arhitectura neogotică a acestei biserici parohiale grandioase care domină orizontul orașului și acordați-vă un moment pentru a vă bucura de acustica liniștită.",
+            "en": "Admire the neo-Gothic architecture of this grand parish church that dominates the town's skyline, and take a moment to enjoy the peaceful acoustics inside its large nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Mercat municipal",
+            "hu": "Mercat municipal",
+            "ro": "Mercat municipal",
+            "en": "Mercat municipal"
+          },
+          "coords": [
+            3.159439,
+            42.425291
+          ],
+          "category": "landmark",
+          "arrive_at": "14:19",
+          "stay_min": 50,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte lokale Kultur auf diesem städtischen Markt, wo täglich frische mediterrane Produkte verkauft werden, also kommen Sie früh für die beste Auswahl an Käse.",
+            "hu": "Tapasztalja meg az élénk helyi kultúrát ezen a piacon, ahol naponta friss mediterrán termékeket árulnak, ezért érkezzen korán a legjobb helyi sajtválogatásért.",
+            "ro": "Experimentați cultura locală vibrantă la această piață municipală unde se vând zilnic produse mediteraneene proaspete, așa că ajungeți devreme pentru cea mai bună brânză.",
+            "en": "Experience the vibrant local culture at this municipal market where fresh Mediterranean produce is sold daily, so arrive early for the best selection of local cheeses."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruines",
+            "hu": "Ruines",
+            "ro": "Ruines",
+            "en": "Ruines"
+          },
+          "coords": [
+            3.164298,
+            42.419469
+          ],
+          "category": "historical",
+          "arrive_at": "15:11",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise mit der Erkundung dieser mysteriösen alten Ruinen, die Geschichten aus der Vergangenheit erzählen, und achten Sie auf die verfallenen Mauern und Wege.",
+            "hu": "Zárja utazását e titokzatos régi romok felfedezésével, amelyek a régió viharos határvidéki múltjáról suttognak, és vigyázzon az omladozó falak és benőtt ösvények közelében.",
+            "ro": "Încheiați-vă călătoria explorând aceste vechi ruine misterioase care spun povești din trecutul zbuciumat al frontierei, având grijă în apropierea zidurilor prăbușite.",
+            "en": "Conclude your trip exploring these mysterious old ruins that whisper tales of the region's turbulent frontier past, taking care near the crumbling walls and overgrown stone paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre malerische Fahrt hoch in den Hügeln und lüften Sie die Geheimnisse antiker Megalithen. Mittags schlängeln Sie sich zur Küste hinunter, um am modernen Denkmal nachzudenken. Ihr Nachmittag ist gut damit verbracht, die Architektur der Stadt zu entdecken, und am späten Nachmittag erkunden Sie schließlich geheimnisvolle Grenzruinen bei Sonnenuntergang.",
+        "hu": "Kezdje a festői autózást magasan a dombok között, felfedezve az ősi megalitok titkait. Délben kanyarogjon le a partra, hogy elgondolkodjon a feltűnő modern emlékműnél. A délután a város történelmi és vallási építészetének felfedezésével telik, majd a késő délutáni órákban egy utolsó túrát tehet a titokzatos határvidéki romoknál a lemenő nap fényében.",
+        "ro": "Începeți drumul pitoresc pe dealuri, descoperind misterele megalitilor antici. La prânz, coborâți spre coastă pentru a reflecta la memorialul modern impresionant. După-amiaza este petrecută descoperind arhitectura orașului, lăsând spre seară o ultimă explorare a ruinelor misterioase de frontieră la apusul soarelui.",
+        "en": "Start your scenic drive high in the hills, uncovering the mysteries of ancient megaliths and dolmens right on the border. By midday, wind your way down to the coast to reflect at the striking modern memorial. Your afternoon is well spent discovering the town's historical and religious architecture, leaving the late afternoon for a final exploration of mysterious frontier ruins as the sun sets."
+      }
+    }
+  }
+}

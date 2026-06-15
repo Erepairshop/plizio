@@ -1,0 +1,474 @@
+{
+  "city_id": "uk-neath",
+  "anchor": {
+    "name": "Neath",
+    "coords": [
+      -3.81,
+      51.66
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 1.52,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Neath Market",
+            "hu": "Neath Piac",
+            "ro": "Piața Neath",
+            "en": "Neath Market"
+          },
+          "coords": [
+            -3.805483,
+            51.66306
+          ],
+          "category": "culinary",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie walisische Produkte in dieser historischen Markthalle, wo Sie unbedingt frische Herzmuscheln oder walisische Kuchen als Snack probieren sollten.",
+            "hu": "Fedezze fel a walesi termékeket ebben a történelmi csarnokban, ahol mindenképpen kóstolja meg a friss szívkagylót vagy a walesi süteményeket egy gyors falatként.",
+            "ro": "Descoperiți produse locale galeze în această piață istorică, unde ar trebui să gustați scoici proaspete sau prăjituri tradiționale pentru o gustare rapidă.",
+            "en": "Discover local Welsh produce at this historic indoor market, where you should definitely try some fresh cockles or traditional Welsh cakes for a quick snack."
+          }
+        },
+        {
+          "name": {
+            "de": "Neath Town Hall",
+            "hu": "Neath Városháza",
+            "ro": "Primăria Neath",
+            "en": "Neath Town Hall"
+          },
+          "coords": [
+            -3.804855,
+            51.664014
+          ],
+          "category": "civic",
+          "arrive_at": "10:02",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante klassizistische Architektur dieses bürgerlichen Gebäudes von außen und nehmen Sie sich Zeit für seine Rolle in der Lokalgeschichte.",
+            "hu": "Csodálja meg kívülről ennek a lenyűgöző középületnek a klasszikus építészetét, egy pillanatra elgondolkodva a helyi közigazgatásban betöltött történelmi szerepén.",
+            "ro": "Admirați arhitectura clasică uimitoare a acestei clădiri civice din exterior, făcându-vă timp să apreciați rolul său în administrația și istoria locală.",
+            "en": "Admire the striking classical architecture of this civic building from the outside, taking a moment to appreciate its role in local administration and history."
+          }
+        },
+        {
+          "name": {
+            "de": "St David's Church",
+            "hu": "Szent Dávid-templom",
+            "ro": "Biserica Sfântul David",
+            "en": "St David's Church"
+          },
+          "coords": [
+            -3.802745,
+            51.662464
+          ],
+          "category": "religious",
+          "arrive_at": "10:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Betreten Sie diese schöne viktorianische Kirche, um die bunten Glasfenster zu sehen, und bewahren Sie beim Erkunden des Innenraums eine respektvolle Stille.",
+            "hu": "Lépjen be ebbe a gyönyörű viktoriánus templomba, hogy megcsodálja a lenyűgöző ólomüveg ablakokat, miközben tiszteletteljes csendben fedezi fel a belső teret.",
+            "ro": "Pășiți în această frumoasă biserică victoriană pentru a vedea vitraliile impresionante, păstrând o liniște respectuoasă în timp ce îi explorați interiorul.",
+            "en": "Step inside this beautiful Victorian church to see the impressive stained glass windows, keeping a respectful silence while exploring its peaceful interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Neath Castle",
+            "hu": "Neath Várbörtöne",
+            "ro": "Castelul Neath",
+            "en": "Neath Castle"
+          },
+          "coords": [
+            -3.80348,
+            51.6651
+          ],
+          "category": "historical",
+          "arrive_at": "11:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die stimmungsvollen Ruinen dieser normannischen Festung im Zentrum und lesen Sie die Infotafeln, um mehr über ihre turbulente Vergangenheit zu erfahren.",
+            "hu": "Fedezze fel a városközpontban megbúvó normann erőd hangulatos romjait, és olvassa el a táblákat, hogy megismerje a zivataros középkori történelmet.",
+            "ro": "Explorați ruinele pline de atmosferă ale acestei fortărețe normande din centrul orașului, citind panourile pentru a afla despre trecutul său medieval tulburat.",
+            "en": "Explore the atmospheric ruins of this Norman fortress nestled right in the town center, checking the info boards to learn about its turbulent medieval past."
+          }
+        },
+        {
+          "name": {
+            "de": "Gwyn Hall",
+            "hu": "Gwyn Hall",
+            "ro": "Gwyn Hall",
+            "en": "Gwyn Hall"
+          },
+          "coords": [
+            -3.8041,
+            51.6628
+          ],
+          "category": "cultural",
+          "arrive_at": "12:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Erleben Sie Neaths kulturelles Herz an diesem restaurierten Veranstaltungsort und prüfen Sie das aktuelle Programm auf interessante lokale Ausstellungen.",
+            "hu": "Tapasztalja meg Neath kulturális szívét ezen a felújított helyszínen, és mindenképpen ellenőrizze az aktuális programot az érdekes helyi kiállításokért.",
+            "ro": "Experimentați inima culturală a orașului Neath în acest loc restaurat cu grijă, asigurându-vă că verificați programul actual pentru expoziții locale interesante.",
+            "en": "Experience Neath's cultural heart at this beautifully restored venue, making sure to check the current program for any interesting local exhibitions or shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Victoria Gardens",
+            "hu": "Viktória Kertek",
+            "ro": "Grădinile Victoria",
+            "en": "Victoria Gardens"
+          },
+          "coords": [
+            -3.803688,
+            51.661091
+          ],
+          "category": "park",
+          "arrive_at": "14:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesen liebevoll gepflegten viktorianischen Gärten im Zentrum und holen Sie sich einen Kaffee, um ihn auf einer Bank am Musikpavillon zu genießen.",
+            "hu": "Pihenjen ezekben a gondozott viktoriánus kertekben a központban, és igyon egy kávét az egyik padon, a klasszikus zenepavilon közvetlen közelében.",
+            "ro": "Relaxați-vă în aceste grădini victoriene îngrijite din centru și luați o cafea pentru a o savura pe o bancă lângă foișorul clasic pentru fanfară.",
+            "en": "Relax in these lovingly maintained Victorian pleasure gardens right in the city center, and grab a coffee to enjoy on a bench near the classic bandstand."
+          }
+        },
+        {
+          "name": {
+            "de": "Neath Canal",
+            "hu": "Neath-csatorna",
+            "ro": "Canalul Neath",
+            "en": "Neath Canal"
+          },
+          "coords": [
+            -3.8099,
+            51.6607
+          ],
+          "category": "historical",
+          "arrive_at": "15:45",
+          "stay_min": 110,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang des friedlichen Treidelpfades dieser historischen Wasserstraße der industriellen Revolution und halten Sie Ausschau nach der lokalen Tierwelt.",
+            "hu": "Sétáljon végig az ipari forradalmat tápláló történelmi vízi út békés vontatóösvényén, miközben figyeli a helyi vadvilágot, például a kacsákat és jégmadarakat.",
+            "ro": "Plimbați-vă de-a lungul traseului pașnic al acestei căi navigabile istorice care a alimentat revoluția industrială, fiind atenți la fauna locală sălbatică.",
+            "en": "Stroll along the peaceful towpath of this historic waterway that fueled the industrial revolution, watching out for local wildlife like ducks and kingfishers."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag auf dem lebhaften Markt und kaufen Sie frische Leckereien, bevor Sie am historischen Rathaus vorbeischlendern und die ruhige St David's Church betreten.",
+        "hu": "Kezdje a napot a nyüzsgő fedett piacon, vásároljon friss helyi finomságokat, majd sétáljon el a történelmi városháza mellett, és térjen be a békés St David's templomba.",
+        "ro": "Începeți ziua bucurându-vă de atmosfera plină de viață a pieței acoperite, apoi plimbați-vă pe lângă Primăria istorică și intrați în liniștita biserică St David.",
+        "en": "Start your day soaking in the bustling atmosphere of the indoor market, picking up fresh local treats, before strolling past the historic Town Hall and stepping into the serene St David's Church."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 3.33,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Neath Abbey",
+            "hu": "Neath Apátság",
+            "ro": "Abația Neath",
+            "en": "Neath Abbey"
+          },
+          "coords": [
+            -3.826101,
+            51.660871
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die Überreste dieses einst wohlhabenden Zisterzienserklosters und tragen Sie festes Schuhwerk, da der grasbewachsene Boden uneben sein kann.",
+            "hu": "Barangoljon az egykor gazdag ciszterci kolostor kiterjedt romjai között, és viseljen masszív cipőt, mivel a füves terület meglehetősen egyenetlen és sáros lehet.",
+            "ro": "Plimbați-vă prin rămășițele acestei mănăstiri cisterciene, purtând încălțăminte solidă, deoarece terenul cu iarbă poate fi destul de denivelat și noroios.",
+            "en": "Wander through the extensive remnants of this once-wealthy Cistercian monastery, wearing sturdy shoes as the grassy grounds can be quite uneven and muddy."
+          }
+        },
+        {
+          "name": {
+            "de": "Neath Canal",
+            "hu": "Neath-csatorna",
+            "ro": "Canalul Neath",
+            "en": "Neath Canal"
+          },
+          "coords": [
+            -3.8099,
+            51.6607
+          ],
+          "category": "historical",
+          "arrive_at": "10:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.12,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang des friedlichen Treidelpfades dieser historischen Wasserstraße der industriellen Revolution und halten Sie Ausschau nach der lokalen Tierwelt.",
+            "hu": "Sétáljon végig az ipari forradalmat tápláló történelmi vízi út békés vontatóösvényén, miközben figyeli a helyi vadvilágot, például a kacsákat és jégmadarakat.",
+            "ro": "Plimbați-vă de-a lungul traseului pașnic al acestei căi navigabile istorice care a alimentat revoluția industrială, fiind atenți la fauna locală sălbatică.",
+            "en": "Stroll along the peaceful towpath of this historic waterway that fueled the industrial revolution, watching out for local wildlife like ducks and kingfishers."
+          }
+        },
+        {
+          "name": {
+            "de": "Victoria Gardens",
+            "hu": "Viktória Kertek",
+            "ro": "Grădinile Victoria",
+            "en": "Victoria Gardens"
+          },
+          "coords": [
+            -3.803688,
+            51.661091
+          ],
+          "category": "park",
+          "arrive_at": "11:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesen liebevoll gepflegten viktorianischen Gärten im Zentrum und holen Sie sich einen Kaffee, um ihn auf einer Bank am Musikpavillon zu genießen.",
+            "hu": "Pihenjen ezekben a gondozott viktoriánus kertekben a központban, és igyon egy kávét az egyik padon, a klasszikus zenepavilon közvetlen közelében.",
+            "ro": "Relaxați-vă în aceste grădini victoriene îngrijite din centru și luați o cafea pentru a o savura pe o bancă lângă foișorul clasic pentru fanfară.",
+            "en": "Relax in these lovingly maintained Victorian pleasure gardens right in the city center, and grab a coffee to enjoy on a bench near the classic bandstand."
+          }
+        },
+        {
+          "name": {
+            "de": "Neath Castle",
+            "hu": "Neath Várbörtöne",
+            "ro": "Castelul Neath",
+            "en": "Neath Castle"
+          },
+          "coords": [
+            -3.80348,
+            51.6651
+          ],
+          "category": "historical",
+          "arrive_at": "13:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Erkunden Sie die stimmungsvollen Ruinen dieser normannischen Festung im Zentrum und lesen Sie die Infotafeln, um mehr über ihre turbulente Vergangenheit zu erfahren.",
+            "hu": "Fedezze fel a városközpontban megbúvó normann erőd hangulatos romjait, és olvassa el a táblákat, hogy megismerje a zivataros középkori történelmet.",
+            "ro": "Explorați ruinele pline de atmosferă ale acestei fortărețe normande din centrul orașului, citind panourile pentru a afla despre trecutul său medieval tulburat.",
+            "en": "Explore the atmospheric ruins of this Norman fortress nestled right in the town center, checking the info boards to learn about its turbulent medieval past."
+          }
+        },
+        {
+          "name": {
+            "de": "Gnoll Estate",
+            "hu": "Gnoll Birtok",
+            "ro": "Domeniul Gnoll",
+            "en": "Gnoll Estate"
+          },
+          "coords": [
+            -3.7869,
+            51.6626
+          ],
+          "category": "park",
+          "arrive_at": "14:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.18,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang durch diesen weitläufigen Landschaftspark mit Kaskaden und Ruinen und bringen Sie Entenfutter für die Vögel an den großen Teichen mit.",
+            "hu": "Élvezze a festői sétát ezen a hatalmas vidéki parkon, csodás vízeséseivel, és hozzon egy kis kacsakaját, hogy megetesse a madarakat a nagy tavaknál.",
+            "ro": "Bucurați-vă de o plimbare pitorească prin acest vast parc cu cascadele și ruinele sale, aducând niște mâncare pentru a hrăni păsările la iazurile mari.",
+            "en": "Enjoy a scenic walk through this sprawling country park with its beautiful cascades and ruins, bringing some duck food to feed the birds at the large ponds."
+          }
+        },
+        {
+          "name": {
+            "de": "The Fish Pond",
+            "hu": "A Halastó",
+            "ro": "Iazul cu Pești",
+            "en": "The Fish Pond"
+          },
+          "coords": [
+            -3.787493,
+            51.661276
+          ],
+          "category": "natural",
+          "arrive_at": "16:00",
+          "stay_min": 55,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre an diesem schönen Zierteich innerhalb des Anwesens und packen Sie ein kleines Picknick ein, während Sie das Wasser beobachten.",
+            "hu": "Szívja magába a nyugodt légkört ennél a szép dísztónál a birtokon, és csomagoljon egy kis pikniket, amit a fodrozódó víz nézése közben fogyaszthat el.",
+            "ro": "Bucurați-vă de atmosfera liniștită de la acest frumos corp de apă ornamental de pe domeniu, pregătind un mic picnic pe care să-l savurați privind apa.",
+            "en": "Take in the tranquil atmosphere at this lovely ornamental body of water within the estate, packing a small picnic to enjoy while watching the rippling water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie zu den großen Ruinen der Neath Abbey und erkunden Sie die klösterlichen Überreste, bevor Sie auf den flachen Treidelpfaden des nahen Kanals cruisen.",
+        "hu": "Tekerjen el a Neath Apátság nagyszerű romjaihoz, fedezze fel a kolostor maradványait, mielőtt végigcirkálna a közeli csatorna festői és sík vontatóösvényein.",
+        "ro": "Pedalați până la ruinele grandioase ale Abației Neath, explorând rămășițele monahale înainte de a vă deplasa de-a lungul potecilor pitorești ale canalului din apropiere.",
+        "en": "Pedal your way to the grand ruins of Neath Abbey, exploring its vast monastic remains before cruising along the flat, picturesque towpaths of the nearby Neath Canal."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:09",
+      "total_km": 10.38,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Aberdulais Falls",
+            "hu": "Aberdulais Vízesés",
+            "ro": "Cascadele Aberdulais",
+            "en": "Aberdulais Falls"
+          },
+          "coords": [
+            -3.778252,
+            51.680696
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Kraft dieser spektakulären Wasserfälle der einst größten Weißblechfabrik Europas, wobei Sie sie am besten nach starkem Regen besuchen sollten.",
+            "hu": "Csodálja meg e lenyűgöző vízesések erejét, amelyek egykor Európa legnagyobb bádoggyárát hajtották, és a legjobb kilátás érdekében esőzés után jöjjön.",
+            "ro": "Minunați-vă de puterea acestor cascade spectaculoase care au acționat odată cea mai mare fabrică de tinichea din Europa, vizitându-le după ploi abundente.",
+            "en": "Marvel at the power of these spectacular waterfalls that once drove Europe's largest tinplate works, making sure to visit after heavy rain for the best views."
+          }
+        },
+        {
+          "name": {
+            "de": "Neath Abbey",
+            "hu": "Neath Apátság",
+            "ro": "Abația Neath",
+            "en": "Neath Abbey"
+          },
+          "coords": [
+            -3.826101,
+            51.660871
+          ],
+          "category": "historical",
+          "arrive_at": "10:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 3.9,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die Überreste dieses einst wohlhabenden Zisterzienserklosters und tragen Sie festes Schuhwerk, da der grasbewachsene Boden uneben sein kann.",
+            "hu": "Barangoljon az egykor gazdag ciszterci kolostor kiterjedt romjai között, és viseljen masszív cipőt, mivel a füves terület meglehetősen egyenetlen és sáros lehet.",
+            "ro": "Plimbați-vă prin rămășițele acestei mănăstiri cisterciene, purtând încălțăminte solidă, deoarece terenul cu iarbă poate fi destul de denivelat și noroios.",
+            "en": "Wander through the extensive remnants of this once-wealthy Cistercian monastery, wearing sturdy shoes as the grassy grounds can be quite uneven and muddy."
+          }
+        },
+        {
+          "name": {
+            "de": "Neath Market",
+            "hu": "Neath Piac",
+            "ro": "Piața Neath",
+            "en": "Neath Market"
+          },
+          "coords": [
+            -3.805483,
+            51.66306
+          ],
+          "category": "culinary",
+          "arrive_at": "11:58",
+          "stay_min": 50,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.44,
+          "tip_5lang": {
+            "de": "Entdecken Sie walisische Produkte in dieser historischen Markthalle, wo Sie unbedingt frische Herzmuscheln oder walisische Kuchen als Snack probieren sollten.",
+            "hu": "Fedezze fel a walesi termékeket ebben a történelmi csarnokban, ahol mindenképpen kóstolja meg a friss szívkagylót vagy a walesi süteményeket egy gyors falatként.",
+            "ro": "Descoperiți produse locale galeze în această piață istorică, unde ar trebui să gustați scoici proaspete sau prăjituri tradiționale pentru o gustare rapidă.",
+            "en": "Discover local Welsh produce at this historic indoor market, where you should definitely try some fresh cockles or traditional Welsh cakes for a quick snack."
+          }
+        },
+        {
+          "name": {
+            "de": "Gnoll Estate",
+            "hu": "Gnoll Birtok",
+            "ro": "Domeniul Gnoll",
+            "en": "Gnoll Estate"
+          },
+          "coords": [
+            -3.7869,
+            51.6626
+          ],
+          "category": "park",
+          "arrive_at": "12:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.28,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang durch diesen weitläufigen Landschaftspark mit Kaskaden und Ruinen und bringen Sie Entenfutter für die Vögel an den großen Teichen mit.",
+            "hu": "Élvezze a festői sétát ezen a hatalmas vidéki parkon, csodás vízeséseivel, és hozzon egy kis kacsakaját, hogy megetesse a madarakat a nagy tavaknál.",
+            "ro": "Bucurați-vă de o plimbare pitorească prin acest vast parc cu cascadele și ruinele sale, aducând niște mâncare pentru a hrăni păsările la iazurile mari.",
+            "en": "Enjoy a scenic walk through this sprawling country park with its beautiful cascades and ruins, bringing some duck food to feed the birds at the large ponds."
+          }
+        },
+        {
+          "name": {
+            "de": "Cefn-Cwrt Reservoir",
+            "hu": "Cefn-Cwrt Víztározó",
+            "ro": "Rezervorul Cefn-Cwrt",
+            "en": "Cefn-Cwrt Reservoir"
+          },
+          "coords": [
+            -3.802932,
+            51.630291
+          ],
+          "category": "natural",
+          "arrive_at": "14:14",
+          "stay_min": 55,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.76,
+          "tip_5lang": {
+            "de": "Entfliehen Sie dem Trubel an diesem friedlichen Stausee auf einem Hügel mit Panoramablick über Neath, und denken Sie an eine Windjacke, da es oft windig ist.",
+            "hu": "Meneküljön el a város zajától ehhez a békés hegytetőn lévő víztározóhoz, amely panorámát nyújt Neath-re, és ne felejtsen el széldzsekit hozni a szél miatt.",
+            "ro": "Scăpați de agitație la acest rezervor pașnic de pe deal, care oferă vederi panoramice peste Neath, amintindu-vă să aduceți o jachetă de vânt, deoarece este aerisit.",
+            "en": "Escape the town's bustle at this peaceful hilltop reservoir offering sweeping panoramic views over Neath, remembering to bring a windbreaker as it gets breezy."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zu den tosenden Aberdulais Falls und ihrem industriellen Erbe, gefolgt von einem kurzen Ausflug zu den beeindruckenden Ruinen der Neath Abbey.",
+        "hu": "Autózzon ki, hogy szemtanúja legyen az Aberdulais vízesés és ipari öröksége zúgó vizeinek, majd tegyen egy rövid kirándulást a Neath Apátság romjaihoz.",
+        "ro": "Conduceți pentru a asista la apele învolburate ale cascadelor Aberdulais și la moștenirea sa industrială, urmate de o scurtă excursie la Abația Neath.",
+        "en": "Drive out to witness the thundering waters of Aberdulais Falls and its industrial heritage, followed by a short trip to marvel at the impressive medieval remains of Neath Abbey."
+      }
+    }
+  }
+}

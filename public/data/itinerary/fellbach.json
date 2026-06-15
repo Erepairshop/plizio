@@ -1,0 +1,474 @@
+{
+  "city_id": "fellbach",
+  "anchor": {
+    "name": "Fellbach",
+    "coords": [
+      9.2758,
+      48.8086
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 0.95,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Altes Rathaus",
+            "hu": "Régi Városháza",
+            "ro": "Vechea Primărie",
+            "en": "Old Town Hall"
+          },
+          "coords": [
+            9.2758,
+            48.8086
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das historische Alte Rathaus als Zeugnis der Stadtgeschichte, bewundern Sie die Architektur und achten Sie auf die Öffnungszeiten des Bürgerbüros.",
+            "hu": "Fedezze fel a történelmi régi városházát, amely a város múltjáról tanúskodik, csodálja meg az építészetet, és figyeljen a nyitvatartási időkre.",
+            "ro": "Descoperiți vechea primărie istorică drept o mărturie a istoriei orașului, admirați arhitectura și fiți atenți la orele de deschidere ale biroului.",
+            "en": "Discover the historic old town hall as a testament to the city's past, admire its architecture, and check the opening hours if you need local information."
+          }
+        },
+        {
+          "name": {
+            "de": "Lutherkirche",
+            "hu": "Luther-templom",
+            "ro": "Biserica Luther",
+            "en": "Lutherkirche"
+          },
+          "coords": [
+            9.276277,
+            48.808735
+          ],
+          "category": "religious",
+          "arrive_at": "10:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposante Lutherkirche, deren Architektur die lokale Religionsgeschichte widerspiegelt, und besuchen Sie den ruhigen Innenraum für eine kurze Pause.",
+            "hu": "Csodálja meg az impozáns evangélikus templomot, melynek építészete a helyi vallástörténetet tükrözi, és térjen be egy rövid, csendes pihenőre.",
+            "ro": "Admirați impunătoarea biserică luterană, a cărei arhitectură reflectă istoria religioasă locală, și intrați în spațiul liniștit pentru o scurtă pauză.",
+            "en": "Admire the imposing Lutherkirche, whose architecture reflects the local religious history, and step inside the tranquil interior for a moment of quiet reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Glockenturm",
+            "hu": "Harangtorony",
+            "ro": "Turnul cu clopot",
+            "en": "Bell Tower"
+          },
+          "coords": [
+            9.274309,
+            48.808032
+          ],
+          "category": "monument",
+          "arrive_at": "11:14",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besichtigen Sie den markanten Glockenturm, ein unverzichtbares Wahrzeichen von Fellbach, und bringen Sie eine Kamera für die interessanten Perspektiven mit.",
+            "hu": "Tekintse meg a jellegzetes harangtornyot, Fellbach kihagyhatatlan nevezetességét, és hozzon magával fényképezőgépet az érdekes perspektívákhoz.",
+            "ro": "Vizitați turnul cu clopot, un punct de reper esențial al orașului Fellbach, și aduceți o cameră pentru a surprinde perspective interesante ale împrejurimilor.",
+            "en": "Visit the striking bell tower, an essential landmark of Fellbach, and be sure to bring a camera to capture the interesting architectural perspectives."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Fellbach",
+            "hu": "Fellbachi Városi Múzeum",
+            "ro": "Muzeul Orașului Fellbach",
+            "en": "Fellbach City Museum"
+          },
+          "coords": [
+            9.27548,
+            48.80702
+          ],
+          "category": "museum",
+          "arrive_at": "11:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Tauchen Sie im Stadtmuseum tief in die reiche Geschichte Fellbachs ein und nutzen Sie die informativen Audioguides, um keine der faszinierenden Ausstellungen zu verpassen.",
+            "hu": "Merüljön el Fellbach gazdag történelmében a Városi Múzeumban, és használja az informatív audioguide-okat, hogy egyetlen lenyűgöző kiállítást se hagyjon ki.",
+            "ro": "Cufundați-vă în istoria bogată a orașului Fellbach la Muzeul Orașului și folosiți ghidurile audio pentru a nu rata nicio expoziție fascinantă.",
+            "en": "Delve deep into the rich history of Fellbach at the City Museum and make use of the informative audio guides to ensure you do not miss any fascinating exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Schwabenlandhalle",
+            "hu": "Schwabenlandhalle",
+            "ro": "Schwabenlandhalle",
+            "en": "Schwabenlandhalle"
+          },
+          "coords": [
+            9.272716,
+            48.808444
+          ],
+          "category": "culture",
+          "arrive_at": "13:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erleben Sie die kulturelle Bedeutung der Schwabenlandhalle bei einem Rundgang und überprüfen Sie das aktuelle Veranstaltungsprogramm für abendliche Unterhaltungsmöglichkeiten.",
+            "hu": "Tapasztalja meg a Schwabenlandhalle kulturális jelentőségét egy séta során, és ellenőrizze az aktuális programokat az esti szórakozási lehetőségekért.",
+            "ro": "Experimentați importanța culturală a Schwabenlandhalle în timpul unui tur și verificați programul actual de evenimente pentru opțiuni de divertisment de seară.",
+            "en": "Experience the cultural significance of the Schwabenlandhalle during a stroll around the venue, and check the current event program for evening entertainment options."
+          }
+        },
+        {
+          "name": {
+            "de": "F.3 Familien- und Freizeitbad",
+            "hu": "F.3 Családi és Szabadidőközpont",
+            "ro": "Centrul de Agrement F.3",
+            "en": "F.3 Family and Leisure Pool"
+          },
+          "coords": [
+            9.26876,
+            48.807907
+          ],
+          "category": "leisure",
+          "arrive_at": "14:45",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in den modernen Pools des F.3 Freizeitbades nach einem langen Tag und denken Sie daran, Ihr eigenes Handtuch mitzubringen, um Leihgebühren zu sparen.",
+            "hu": "Pihenjen az F.3 szabadidőközpont modern medencéiben egy hosszú nap után, és ne felejtsen el saját törölközőt hozni, hogy megspórolja a kölcsönzési díjat.",
+            "ro": "Relaxați-vă în piscinele moderne ale centrului de agrement F.3 după o zi lungă și nu uitați să vă aduceți propriul prosop pentru a economisi taxele de închiriere.",
+            "en": "Relax in the modern pools of the F.3 leisure center after a long day exploring, and remember to bring your own towel to save on rental fees."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang im Herzen von Fellbach am historischen Alten Rathaus. Die Atmosphäre am Morgen ist ruhig, ideal um die Architektur der Lutherkirche und des markanten Glockenturms im goldenen Licht zu bewundern.\nZur Mittagszeit tauchen Sie im Stadtmuseum in die reiche Geschichte ein. Danach bietet die Umgebung der Schwabenlandhalle eine großartige Kulisse für eine entspannte Pause.\nDer Nachmittag steht ganz im Zeichen der Erholung. Ein gemütlicher Spaziergang führt Sie durch das kulturelle Zentrum der Stadt, bevor Sie sich auf das Freizeitbad vorbereiten.\nLassen Sie den Tag im F.3 Familien- und Freizeitbad ausklingen. Die modernen Pools bieten die perfekte Entspannung, bevor Sie in einem nahen Restaurant den Abend genießen.",
+        "hu": "Kezdje sétáját Fellbach szívében, a történelmi Régi Városházánál. A reggeli hangulat nyugodt, ideális a Luther-templom és a harangtorony építészetének megcsodálására.\nDélben merüljön el a gazdag történelemben a Városi Múzeumban. Ezt követően a Schwabenlandhalle környéke nagyszerű hátteret biztosít egy pihentető, kényelmes szünethez.\nA délután a pihenésről szól. Egy kellemes séta vezet át a város kulturális központján, mielőtt felkészülne a szabadidőközpont nyújtotta wellness élményekre.\nZárja a napot az F.3 szabadidőközpontban. A modern medencék tökéletes kikapcsolódást nyújtanak, mielőtt elfogyasztana egy finom vacsorát a közeli éttermek egyikében.",
+        "ro": "Începeți plimbarea în inima orașului Fellbach la vechea primărie. Atmosfera dimineții este liniștită, ideală pentru a admira arhitectura bisericii Luther și a turnului cu clopot.\nLa amiază, cufundați-vă în istoria bogată la Muzeul Orașului. Ulterior, împrejurimile Schwabenlandhalle oferă un cadru excelent pentru o pauză relaxantă și revigorantă.\nDupă-amiaza este dedicată relaxării. O plimbare confortabilă vă poartă prin centrul cultural al orașului, înainte de a vă pregăti pentru centrul de agrement.\nÎncheiați ziua la centrul de agrement F.3. Piscinele moderne oferă relaxarea perfectă înainte de a vă bucura de o cină delicioasă într-un restaurant din apropiere.",
+        "en": "Begin your walk in the heart of Fellbach at the historic Old Town Hall. The morning atmosphere is quiet, ideal for admiring the architecture of the Lutherkirche and the bell tower.\nAt midday, delve into the rich history at the City Museum. Afterwards, the surroundings of the Schwabenlandhalle provide a great backdrop for a relaxing and well-deserved break.\nThe afternoon is all about relaxation. A comfortable stroll leads you through the city's cultural center before preparing for the fun at the local leisure center.\nEnd the day at the F.3 leisure center. The modern pools offer the perfect relaxation before enjoying a delicious dinner in one of the fantastic nearby restaurants."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 6.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Lutherkirche",
+            "hu": "Luther-templom",
+            "ro": "Biserica Luther",
+            "en": "Lutherkirche"
+          },
+          "coords": [
+            9.276277,
+            48.808735
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposante Lutherkirche, deren Architektur die lokale Religionsgeschichte widerspiegelt, und besuchen Sie den ruhigen Innenraum für eine kurze Pause.",
+            "hu": "Csodálja meg az impozáns evangélikus templomot, melynek építészete a helyi vallástörténetet tükrözi, és térjen be egy rövid, csendes pihenőre.",
+            "ro": "Admirați impunătoarea biserică luterană, a cărei arhitectură reflectă istoria religioasă locală, și intrați în spațiul liniștit pentru o scurtă pauză.",
+            "en": "Admire the imposing Lutherkirche, whose architecture reflects the local religious history, and step inside the tranquil interior for a moment of quiet reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Fellbach",
+            "hu": "Fellbachi Városi Múzeum",
+            "ro": "Muzeul Orașului Fellbach",
+            "en": "Fellbach City Museum"
+          },
+          "coords": [
+            9.27548,
+            48.80702
+          ],
+          "category": "museum",
+          "arrive_at": "09:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie im Stadtmuseum tief in die reiche Geschichte Fellbachs ein und nutzen Sie die informativen Audioguides, um keine der faszinierenden Ausstellungen zu verpassen.",
+            "hu": "Merüljön el Fellbach gazdag történelmében a Városi Múzeumban, és használja az informatív audioguide-okat, hogy egyetlen lenyűgöző kiállítást se hagyjon ki.",
+            "ro": "Cufundați-vă în istoria bogată a orașului Fellbach la Muzeul Orașului și folosiți ghidurile audio pentru a nu rata nicio expoziție fascinantă.",
+            "en": "Delve deep into the rich history of Fellbach at the City Museum and make use of the informative audio guides to ensure you do not miss any fascinating exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Kappelberg",
+            "hu": "Kappelberg",
+            "ro": "Kappelberg",
+            "en": "Kappelberg"
+          },
+          "coords": [
+            9.28417,
+            48.7964
+          ],
+          "category": "nature",
+          "arrive_at": "11:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende Aussicht über die Weinberge vom Kappelberg aus und tragen Sie festes Schuhwerk für die teils steilen, aber lohnenden Wanderwege.",
+            "hu": "Élvezze a lélegzetelállító kilátást a szőlőültetvényekre a Kappelbergről, és viseljen masszív cipőt a helyenként meredek, de nagyon is megéri túraútvonalakhoz.",
+            "ro": "Bucurați-vă de vederea uluitoare peste podgorii de pe Kappelberg și purtați încălțăminte rezistentă pentru traseele de drumeție uneori abrupte, dar pline de satisfacții.",
+            "en": "Enjoy the breathtaking views over the vineyards from Kappelberg, and wear sturdy shoes for the occasionally steep but highly rewarding hiking trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Spielplatz Maicklerhof",
+            "hu": "Maicklerhof Játszótér",
+            "ro": "Locul de joacă Maicklerhof",
+            "en": "Maicklerhof Playground"
+          },
+          "coords": [
+            9.277783,
+            48.817198
+          ],
+          "category": "family",
+          "arrive_at": "13:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder auf dem gut ausgestatteten Spielplatz Maicklerhof toben und bringen Sie ein paar Snacks für ein gemütliches Picknick im Grünen mit.",
+            "hu": "Hagyja, hogy a gyerekek a jól felszerelt Maicklerhof játszótéren játsszanak, és hozzon magával néhány rágcsálnivalót egy hangulatos piknikhez a szabadban.",
+            "ro": "Lăsați copiii să se joace pe terenul de joacă bine dotat Maicklerhof și aduceți câteva gustări pentru un picnic confortabil în aer liber.",
+            "en": "Let the children play on the well-equipped Maicklerhof playground, and bring along some snacks to enjoy a cozy outdoor picnic in the green surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "TobiDu",
+            "hu": "TobiDu Játszóház",
+            "ro": "TobiDu",
+            "en": "TobiDu"
+          },
+          "coords": [
+            9.262932,
+            48.812927
+          ],
+          "category": "family",
+          "arrive_at": "14:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie das TobiDu für wetterunabhängigen Familienspaß und buchen Sie die Eintrittskarten am besten im Voraus online, um Wartezeiten an der Kasse zu vermeiden.",
+            "hu": "Látogasson el a TobiDu-ba, ahol az időjárástól függetlenül élvezheti a családi szórakozást, és a legjobb, ha előre online foglalja le a jegyeket, hogy elkerülje a sorban állást.",
+            "ro": "Vizitați TobiDu pentru distracție în familie indiferent de vreme și cel mai bine este să rezervați biletele online în avans pentru a evita cozile.",
+            "en": "Visit TobiDu for weather-independent family fun, and it is best to book your admission tickets online in advance to avoid waiting in line at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "F.3 Familien- und Freizeitbad",
+            "hu": "F.3 Családi és Szabadidőközpont",
+            "ro": "Centrul de Agrement F.3",
+            "en": "F.3 Family and Leisure Pool"
+          },
+          "coords": [
+            9.26876,
+            48.807907
+          ],
+          "category": "leisure",
+          "arrive_at": "15:49",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in den modernen Pools des F.3 Freizeitbades nach einem langen Tag und denken Sie daran, Ihr eigenes Handtuch mitzubringen, um Leihgebühren zu sparen.",
+            "hu": "Pihenjen az F.3 szabadidőközpont modern medencéiben egy hosszú nap után, és ne felejtsen el saját törölközőt hozni, hogy megspórolja a kölcsönzési díjat.",
+            "ro": "Relaxați-vă în piscinele moderne ale centrului de agrement F.3 după o zi lungă și nu uitați să vă aduceți propriul prosop pentru a economisi taxele de închiriere.",
+            "en": "Relax in the modern pools of the F.3 leisure center after a long day exploring, and remember to bring your own towel to save on rental fees."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Fahrradtour entspannt an der Lutherkirche, bevor Sie das Stadtmuseum besuchen. Die frische Morgenluft und die ruhigen Straßen machen den Auftakt besonders angenehm.\nMittags erwartet Sie die Herausforderung des Kappelbergs. Die Fahrt hinauf in die Weinberge belohnt Sie mit einer herrlichen Aussicht und ist der perfekte Ort für ein Picknick.\nNachmittags radeln Sie gemütlich zum Spielplatz Maicklerhof und zum TobiDu. Diese familienfreundlichen Stopps bieten Abwechslung und Spaß für alle Altersgruppen.\nZum Abschluss der Tour entspannen Sie im F.3 Freizeitbad. Die warmen Becken sind eine Wohltat für die Muskeln nach einem aktiven Tag auf dem Fahrrad rund um Fellbach.",
+        "hu": "Kezdje kerékpártúráját lazán a Luther-templomnál, mielőtt meglátogatná a Városi Múzeumot. A friss reggeli levegő és a csendes utcák különösen kellemessé teszik az indulást.\nDélben a Kappelberg kihívása várja. A szőlőhegyekbe vezető út csodálatos kilátással jutalmazza, és tökéletes helyszín egy pihentető piknikhez.\nDélután kényelmesen eltekerhet a Maicklerhof játszótérre és a TobiDu-ba. Ezek a családbarát megállók változatosságot és szórakozást kínálnak minden korosztálynak.\nA túra végén pihenjen az F.3 szabadidőközpontban. A meleg medencék igazi felüdülést jelentenek az izmoknak egy aktív, kerékpározással töltött nap után.",
+        "ro": "Începeți turul cu bicicleta la biserica Luther, înainte de a vizita Muzeul Orașului. Aerul proaspăt al dimineții și străzile liniștite fac un început deosebit de plăcut.\nLa amiază, vă așteaptă provocarea Kappelberg. Plimbarea spre podgorii vă răsplătește cu vederi magnifice și este locul perfect pentru un picnic la iarbă verde.\nDupă-amiaza, pedalați spre locul de joacă Maicklerhof și TobiDu. Aceste opriri prietenoase cu familiile oferă varietate și multă distracție pentru toate vârstele.\nLa sfârșitul turului, relaxați-vă în centrul de agrement F.3. Piscinele calde sunt un răsfăț pentru mușchi după o zi activă petrecută pe bicicletă.",
+        "en": "Start your bike tour smoothly at the Lutherkirche before visiting the City Museum. The fresh morning air and quiet streets make for a particularly pleasant beginning.\nAt midday, the challenge of the Kappelberg awaits. The ride up into the vineyards rewards you with magnificent views and is the perfect spot for a scenic picnic.\nIn the afternoon, pedal comfortably to the Maicklerhof playground and TobiDu. These family-friendly stops offer variety and fantastic entertainment for all ages.\nAt the end of the tour, relax in the F.3 leisure center. The warm pools are a real treat for tired muscles after an active day exploring the city on a bicycle."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:31",
+      "total_km": 13.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Max-Eyth-See",
+            "hu": "Max-Eyth-tó",
+            "ro": "Lacul Max-Eyth",
+            "en": "Max-Eyth-See"
+          },
+          "coords": [
+            9.214877,
+            48.834119
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie gemütlich um den malerischen Max-Eyth-See, beobachten Sie die zahlreichen Wasservögel und mieten Sie ein Tretboot für eine entspannte Zeit auf dem Wasser.",
+            "hu": "Tegyen egy kellemes sétát a festői Max-Eyth-See körül, figyelje meg a számos vízimadarat, és béreljen vízibiciklit egy pihentető vízi programhoz.",
+            "ro": "Faceți o plimbare pe îndelete în jurul pitorescului lac Max-Eyth, observați numeroasele păsări de apă și închiriați o hidrobicicletă pentru un timp relaxant pe apă.",
+            "en": "Take a leisurely stroll around the picturesque Max-Eyth-See, observe the numerous water birds, and rent a paddleboat for a relaxing time on the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtmuseum Fellbach",
+            "hu": "Fellbachi Városi Múzeum",
+            "ro": "Muzeul Orașului Fellbach",
+            "en": "Fellbach City Museum"
+          },
+          "coords": [
+            9.27548,
+            48.80702
+          ],
+          "category": "museum",
+          "arrive_at": "10:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie im Stadtmuseum tief in die reiche Geschichte Fellbachs ein und nutzen Sie die informativen Audioguides, um keine der faszinierenden Ausstellungen zu verpassen.",
+            "hu": "Merüljön el Fellbach gazdag történelmében a Városi Múzeumban, és használja az informatív audioguide-okat, hogy egyetlen lenyűgöző kiállítást se hagyjon ki.",
+            "ro": "Cufundați-vă în istoria bogată a orașului Fellbach la Muzeul Orașului și folosiți ghidurile audio pentru a nu rata nicio expoziție fascinantă.",
+            "en": "Delve deep into the rich history of Fellbach at the City Museum and make use of the informative audio guides to ensure you do not miss any fascinating exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Kappelberg",
+            "hu": "Kappelberg",
+            "ro": "Kappelberg",
+            "en": "Kappelberg"
+          },
+          "coords": [
+            9.28417,
+            48.7964
+          ],
+          "category": "nature",
+          "arrive_at": "12:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende Aussicht über die Weinberge vom Kappelberg aus und tragen Sie festes Schuhwerk für die teils steilen, aber lohnenden Wanderwege.",
+            "hu": "Élvezze a lélegzetelállító kilátást a szőlőültetvényekre a Kappelbergről, és viseljen masszív cipőt a helyenként meredek, de nagyon is megéri túraútvonalakhoz.",
+            "ro": "Bucurați-vă de vederea uluitoare peste podgorii de pe Kappelberg și purtați încălțăminte rezistentă pentru traseele de drumeție uneori abrupte, dar pline de satisfacții.",
+            "en": "Enjoy the breathtaking views over the vineyards from Kappelberg, and wear sturdy shoes for the occasionally steep but highly rewarding hiking trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Riesenbachklinge",
+            "hu": "Riesenbachklinge",
+            "ro": "Riesenbachklinge",
+            "en": "Riesenbachklinge"
+          },
+          "coords": [
+            9.280608,
+            48.781526
+          ],
+          "category": "natural",
+          "arrive_at": "13:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Erforschen Sie die unberührte Natur der Riesenbachklinge auf einem Spaziergang und achten Sie besonders nach Regenfällen auf rutschige Stellen auf den schmalen Pfaden.",
+            "hu": "Fedezze fel a Riesenbachklinge érintetlen természetét egy séta során, és esőzések után különösen ügyeljen a keskeny ösvények csúszós részeire.",
+            "ro": "Explorați natura neatinsă a Riesenbachklinge în timpul unei plimbări și acordați o atenție deosebită zonelor alunecoase de pe potecile înguste după ploaie.",
+            "en": "Explore the untouched nature of the Riesenbachklinge on a peaceful walk, and be particularly careful of slippery spots on the narrow paths after it has rained."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatgeschichtliche Ausstellung - Ortsmuseum Untertürkheim/Rotenberg",
+            "hu": "Helytörténeti Múzeum Untertürkheim/Rotenberg",
+            "ro": "Muzeul de Istorie Locală Untertürkheim/Rotenberg",
+            "en": "Local History Museum Untertürkheim/Rotenberg"
+          },
+          "coords": [
+            9.27062,
+            48.783247
+          ],
+          "category": "museum",
+          "arrive_at": "14:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie im Ortsmuseum die faszinierende Heimatgeschichte der Region und fragen Sie das ehrenamtliche Personal nach den spannenden lokalen Anekdoten.",
+            "hu": "Fedezze fel a régió lenyűgöző helytörténetét a helyi múzeumban, és kérdezze meg az önkéntes személyzetet az izgalmas helyi anekdotákról.",
+            "ro": "Descoperiți istoria locală fascinantă a regiunii în muzeul satului și întrebați personalul voluntar despre cele mai captivante anecdote locale.",
+            "en": "Discover the fascinating local history of the region at the village museum, and be sure to ask the volunteer staff about the most engaging local anecdotes."
+          }
+        },
+        {
+          "name": {
+            "de": "Kleine Tieranlage der Aquarien und Vogelfreunde Fellbach",
+            "hu": "Kis Állatkert",
+            "ro": "Mica Grădină Zoologică",
+            "en": "Small Animal Enclosure"
+          },
+          "coords": [
+            9.306101,
+            48.792598
+          ],
+          "category": "family",
+          "arrive_at": "16:46",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie die vielfältige Vogelwelt in der Kleinen Tieranlage, die besonders für Kinder spannend ist, und bringen Sie etwas Kleingeld für eventuelle Spendenboxen mit.",
+            "hu": "Figyelje meg a változatos madárvilágot a Kis Állatkertben, amely különösen izgalmas a gyerekek számára, és hozzon magával egy kis aprópénzt az adománygyűjtő dobozokhoz.",
+            "ro": "Observați viața diversă a păsărilor din Mica Grădină Zoologică, care este deosebit de interesantă pentru copii, și aduceți niște mărunțiș pentru cutiile de donații.",
+            "en": "Observe the diverse birdlife in the Small Animal Enclosure, which is especially exciting for children, and bring some small change for the donation boxes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie den Tag mit einem Ausflug zum malerischen Max-Eyth-See. Die friedliche Morgenstimmung am Wasser bietet einen wunderbaren Kontrast zur geschäftigen Stadt.\nFahren Sie mittags zurück nach Fellbach zum Stadtmuseum und weiter zum Kappelberg. Die Flexibilität des Autos ermöglicht es, Geschichte und Natur nahtlos zu verbinden.\nDer Nachmittag führt Sie in die Riesenbachklinge und zum Heimatmuseum in Untertürkheim. Diese versteckten Juwelen sind mit dem Auto bequem und ohne Stress erreichbar.\nBeenden Sie die Fahrt bei der Kleinen Tieranlage. Hier können Sie die Abenddämmerung bei den Tieren genießen, bevor Sie komfortabel den Heimweg antreten.",
+        "hu": "Kezdje a napot egy kirándulással a festői Max-Eyth-See-hez. A békés reggeli hangulat a vízparton csodálatos kontrasztot nyújt a nyüzsgő városi élettel.\nDélben utazzon vissza a Városi Múzeumhoz, majd a Kappelberghez. Az autó rugalmassága lehetővé teszi, hogy zökkenőmentesen kösse össze a történelmet a természettel.\nA délután a Riesenbachklinge-hez és a helytörténeti múzeumhoz vezet. Ezek a rejtett gyöngyszemek kényelmesen és stresszmentesen elérhetők gépjárművel.\nZárja az utat a Kis Állatkertnél. Itt élvezheti a szürkületet az állatok között, mielőtt kényelmesen hazaindulna a hosszú és tartalmas nap után.",
+        "ro": "Începeți ziua cu o excursie la pitorescul lac Max-Eyth. Atmosfera liniștită a dimineții pe apă oferă un contrast minunat cu agitația orașului central.\nConduceți înapoi la Fellbach la Muzeul Orașului și apoi la Kappelberg. Flexibilitatea mașinii vă permite să combinați perfect istoria cu minunata natură locală.\nDupă-amiaza vă duce la Riesenbachklinge și la muzeul de istorie din Untertürkheim. Aceste bijuterii ascunse sunt ușor și confortabil de accesat folosind mașina.\nÎncheiați excursia la Mica Grădină Zoologică. Aici vă puteți bucura de amurg printre animale, înainte de a vă îndrepta confortabil spre casă după o zi plină.",
+        "en": "Start the day with a trip to the picturesque Max-Eyth-See. The peaceful morning atmosphere by the water provides a wonderful contrast to the bustling city center.\nDrive back to Fellbach at midday for the City Museum and the Kappelberg. The flexibility of the car allows you to seamlessly combine history and beautiful nature.\nThe afternoon takes you to the Riesenbachklinge and the local history museum. These hidden gems are easily and stress-free to reach when traveling by car.\nEnd the trip at the Small Animal Enclosure. Here you can enjoy the dusk among the animals before comfortably heading home after a long and rewarding day."
+      }
+    }
+  }
+}

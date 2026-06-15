@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-settecamini-cities-v2",
+  "anchor": {
+    "name": "Settecamini",
+    "coords": [
+      12.63,
+      41.94
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:33",
+      "total_km": 3.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Sant'Enrico",
+            "hu": "Sant'Enrico Templom",
+            "ro": "Biserica Sant'Enrico",
+            "en": "Church of Sant'Enrico"
+          },
+          "coords": [
+            12.601437,
+            41.945494
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit der Bewunderung der ruhigen Architektur dieser modernen Kirche und achten Sie auf das schwarze Brett für lokale Veranstaltungszeiten.",
+            "hu": "Kezdje a napot ennek a modern, de helyi jelentőségű templomnak a megcsodálásával, és ne felejtse el megnézni a kinti hirdetőtáblát a közösségi események időpontjaiért.",
+            "ro": "Începeți-vă ziua admirând arhitectura senină a acestei biserici moderne de importanță locală și nu uitați să verificați panoul informativ pentru orele evenimentelor.",
+            "en": "Start your day admiring the serene architecture of this modern yet locally significant church, and remember to check the notice board outside for community event timings."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre di Pratolungo",
+            "hu": "Pratolungo Torony",
+            "ro": "Turnul Pratolungo",
+            "en": "Pratolungo Tower"
+          },
+          "coords": [
+            12.606894,
+            41.942645
+          ],
+          "category": "historical",
+          "arrive_at": "09:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieses mittelalterlichen Wehrturms, der einst die Landschaft bewachte, und tragen Sie festes Schuhwerk für das leicht unebene Gelände.",
+            "hu": "Fedezze fel ennek a középkori védőtoronynak a maradványait, amely egykor a vidéket őrizte, és viseljen masszív cipőt az egyenetlen környező terepen való biztonságos sétához.",
+            "ro": "Explorați rămășițele acestui turn de apărare medieval care păzea odinioară peisajul și purtați încălțăminte robustă pentru a naviga în siguranță pe terenul din jur.",
+            "en": "Explore the sturdy remains of this medieval defense tower that once guarded the countryside, and wear sturdy shoes to safely navigate the slightly uneven surrounding terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Maria in Monasterio",
+            "hu": "Santa Maria in Monasterio Templom",
+            "ro": "Biserica Santa Maria in Monasterio",
+            "en": "Church of Santa Maria in Monasterio"
+          },
+          "coords": [
+            12.607737,
+            41.948377
+          ],
+          "category": "historical",
+          "arrive_at": "11:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden historischen Schichten dieser alten Klosteranlage in den Vororten und besuchen Sie sie am späten Vormittag für das beste natürliche Licht.",
+            "hu": "Fedezze fel ennek az ősi kolostornak a lenyűgöző történelmi rétegeit, és látogasson el ide késő délelőtt, amikor a természetes fény kiemeli a régi kőművesmunkákat.",
+            "ro": "Descoperiți straturile istorice captivante ale acestui vechi sit monahal ascuns în suburbii și vizitați-l dimineața târziu, când lumina naturală îi evidențiază piatra veche.",
+            "en": "Discover the captivating historical layers of this ancient monastic site hidden in the suburbs, and visit during late morning when the natural light highlights its old stonework."
+          }
+        },
+        {
+          "name": {
+            "de": "Grab an der Via Marcellina",
+            "hu": "Sír a Via Marcellinán",
+            "ro": "Mormântul de pe Via Marcellina",
+            "en": "Tomb on Via Marcellina"
+          },
+          "coords": [
+            12.609363,
+            41.937381
+          ],
+          "category": "historical",
+          "arrive_at": "13:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses faszinierende antike römische Grab an der Straße und nutzen Sie einen lokalen Reiseführer, um die erhaltenen architektonischen Details zu verstehen.",
+            "hu": "Figyelje meg ezt a lenyűgöző ókori római sírt az út mentén, és használjon egy helyi útikönyvet, hogy teljes mértékben értékelni tudja a jól megőrzött építészeti részleteket.",
+            "ro": "Observați acest mormânt roman antic fascinant situat de-a lungul drumului și utilizați un ghid local pentru a aprecia pe deplin contextul detaliilor sale arhitecturale.",
+            "en": "Observe this fascinating ancient Roman tomb situated quietly along the road, and use a local guidebook to fully appreciate the context of its well-preserved architectural details."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Gebiet Settecamini",
+            "hu": "Settecamini Régészeti Terület",
+            "ro": "Zona Arheologică Settecamini",
+            "en": "Settecamini Archaeological Area"
+          },
+          "coords": [
+            12.62208,
+            41.938332
+          ],
+          "category": "historical",
+          "arrive_at": "14:43",
+          "stay_min": 110,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die weitläufigen Ruinen, die Settecaminis antike Vergangenheit enthüllen, und planen Sie viel Zeit ein, um vor Sonnenuntergang durch die Ausgrabungen zu schlendern.",
+            "hu": "Merüljön el a kiterjedt romokban, amelyek feltárják Settecamini ősi múltját, és szánjon elegendő időt a szétszórt ásatások közötti sétára még naplemente előtt.",
+            "ro": "Cufundați-vă în ruinele extinse care dezvăluie trecutul antic al orașului Settecamini și alocați mult timp pentru a vă plimba prin săpăturile împrăștiate înainte de apus.",
+            "en": "Immerse yourself in the extensive ruins that reveal Settecamini's ancient past, and allocate plenty of time to wander through the scattered excavations before sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen\nBeginnen Sie im Wohnviertel mit einem Besuch der örtlichen Kirche für eine friedliche Stimmung. Später am Vormittag erreichen Sie zu Fuß den imposanten Torre di Pratolungo.\nMittag\nSetzen Sie Ihre historische Erkundung an den Überresten von Santa Maria in Monasterio fort. Genießen Sie ein entspanntes Mittagessen in der Nähe und die vorstädtische römische Atmosphäre.\nNachmittag\nGehen Sie in Richtung Süden zum Sepolcro a via Marcellina, einem faszinierenden Stück antiker Straßengeschichte. Der Spaziergang ist angenehm und bietet viel Zeit zum Nachdenken.\nAbend\nBeenden Sie die Tour im archäologischen Hauptgebiet, wo die alten Steine in der späten Sonne leuchten. Dieser letzte Stopp bietet einen umfassenden Einblick in die Vergangenheit.",
+        "hu": "Reggel\nKezdje a lakóövezetben a helyi templom meglátogatásával, megalapozva a békés hangulatot. Késő délelőtt egy rövid séta elvezeti az impozáns Torre di Pratolungo tornyához.\nDél\nFolytassa a történelmi felfedezést a Santa Maria in Monasterio romjainál. Élvezzen egy laza helyi ebédet a közelben, magába szívva a külvárosi római atmoszférát a séta folytatása előtt.\nDélután\nIrány dél felé a Sepolcro a via Marcellina felé, amely az ősi út menti történelem lenyűgöző darabja. A könnyű séta során elgondolkodhat Róma egykori terjeszkedő határain.\nEste\nFejezze be a sétát a fő régészeti területen, ahol az ősi kövek melegen ragyognak a késő délutáni napsütésben. Ez az utolsó megálló átfogó képet ad a régió gazdag múltjáról.",
+        "ro": "Dimineață\nÎncepeți în zona rezidențială cu o vizită la biserica locală, creând o atmosferă liniștită. Până la mijlocul dimineții, o scurtă plimbare vă duce la impunătorul Torre di Pratolungo.\nAmiază\nContinuați explorarea istorică la rămășițele Santa Maria in Monasterio. Bucurați-vă de un prânz local relaxat în apropiere, absorbind atmosfera romană suburbană înainte de a continua.\nDupă-amiază\nÎndreptați-vă spre sud, spre Sepolcro a via Marcellina, o piesă intrigantă a istoriei antice. Plimbarea este ușoară, permițându-vă să reflectați asupra vechilor granițe în expansiune.\nSeară\nÎncheiați la zona arheologică principală, unde pietrele antice strălucesc cald în soarele după-amiezii târzii. Această oprire finală oferă o privire cuprinzătoare asupra trecutului bogat.",
+        "en": "Morning\nStart in the residential area with a visit to the local church, setting a peaceful tone. As mid-morning approaches, a short walk brings you to the imposing Torre di Pratolungo.\nMidday\nContinue your historical exploration at the remnants of Santa Maria in Monasterio. Enjoy a relaxed local lunch nearby, soaking in the suburban Roman atmosphere before resuming your walk.\nAfternoon\nHead south towards the Sepolcro a via Marcellina, an intriguing piece of ancient roadside history. The walk is gentle, allowing you to reflect on Rome's expanding ancient borders.\nEvening\nConclude at the main archaeological area, where the ancient stones glow warmly in the late afternoon sun. This final stop offers a comprehensive look at the region's rich past."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:24",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Turm St. Eusebio",
+            "hu": "S. Eusebio Torony",
+            "ro": "Turnul S. Eusebio",
+            "en": "St. Eusebio Tower"
+          },
+          "coords": [
+            12.609397,
+            41.927313
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Radeln Sie zu diesem isolierten antiken Turm, der Einblicke in die mittelalterliche Verteidigung bietet, und parken Sie Ihr Fahrrad sicher, um die Ruinen zu erkunden.",
+            "hu": "Biciklizzen el ehhez az elszigetelt ősi toronyhoz, amely bepillantást enged a középkori területi védelembe, és parkolja le kerékpárját a főúton, hogy közelről fedezze fel a romokat.",
+            "ro": "Pedalați până la acest turn antic izolat care oferă o privire asupra apărării teritoriale medievale și parcați bicicleta în siguranță pentru a explora ruinele de aproape.",
+            "en": "Cycle out to this isolated ancient tower that offers a glimpse into medieval territorial defenses, and park your bike securely by the main path to explore the ruins up close."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Villa der Via Carciano",
+            "hu": "Via Carciano Római Villája",
+            "ro": "Vila Romană de pe Via Carciano",
+            "en": "Roman Villa of Via Carciano"
+          },
+          "coords": [
+            12.612717,
+            41.930801
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Halten Sie an den Fundamenten dieser römischen Villa, die den antiken ländlichen Reichtum zeigt, und bringen Sie eine Wasserflasche mit, da es keine modernen Einrichtungen gibt.",
+            "hu": "Álljon meg ennek a római villának az alapjainál, amely a vidéki ősi gazdagságot mutatja be, és hozzon magával vizet, mivel a nyílt régészeti területen nincsenek modern létesítmények.",
+            "ro": "Opriți-vă la fundațiile acestei mari vile romane care prezintă bogăția rurală antică și aduceți apă, deoarece sitului arheologic expus îi lipsesc facilitățile moderne.",
+            "en": "Stop by the foundations of this grand Roman villa that showcases rural ancient wealth, and bring a water bottle since the exposed archaeological site lacks modern facilities."
+          }
+        },
+        {
+          "name": {
+            "de": "Grab an der Via Marcellina",
+            "hu": "Sír a Via Marcellinán",
+            "ro": "Mormântul de pe Via Marcellina",
+            "en": "Tomb on Via Marcellina"
+          },
+          "coords": [
+            12.609363,
+            41.937381
+          ],
+          "category": "historical",
+          "arrive_at": "11:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Fahrt zu diesem Straßengrab, das römische Bestattungspraktiken beleuchtet, und schließen Sie Ihr Fahrrad gut ab, bevor Sie die Strukturen umrunden.",
+            "hu": "Tegyen egy rövid utat ehhez az út menti sírhoz, amely a római temetkezési szokásokat emeli ki, és gondosan zárja le a kerékpárját, mielőtt körbesétálná a téglaépítményeket.",
+            "ro": "Mergeți scurt până la acest mormânt de pe marginea drumului, care evidențiază practicile funerare romane și blocați bicicleta cu grijă înainte de a vă plimba în jur.",
+            "en": "Take a short ride to this roadside tomb which highlights ancient Roman burial practices, and lock your bike carefully before walking around the delicate brick structures."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Gebiet Settecamini",
+            "hu": "Settecamini Régészeti Terület",
+            "ro": "Zona Arheologică Settecamini",
+            "en": "Settecamini Archaeological Area"
+          },
+          "coords": [
+            12.62208,
+            41.938332
+          ],
+          "category": "historical",
+          "arrive_at": "13:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Radeln Sie ins Herz der antiken Überreste von Settecamini, um die tiefgreifende Geschichte zu entdecken, und lesen Sie die informativen Tafeln über das tägliche Leben.",
+            "hu": "Tekerjen Settecamini ősi maradványainak szívébe, hogy felfedezze annak mély történetét, és olvassa el az egykori lakók mindennapjait részletező tájékoztató táblákat.",
+            "ro": "Pedalați în inima rămășițelor antice din Settecamini pentru a-i descoperi istoria profundă și citiți plăcile informative care detaliază viața de zi cu zi a foștilor săi locuitori.",
+            "en": "Pedal into the heart of Settecamini's ancient remnants to uncover its profound history, and read the informative plaques that detail the daily life of its former inhabitants."
+          }
+        },
+        {
+          "name": {
+            "de": "Mansio an der 7. Meile",
+            "hu": "Mansio a 7. Mérföldnél",
+            "ro": "Mansio la Mila VII",
+            "en": "Mansio at the 7th Mile"
+          },
+          "coords": [
+            12.632289,
+            41.940676
+          ],
+          "category": "historical",
+          "arrive_at": "14:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese antike Raststätte an der Via Tiburtina und halten Sie inne, um zu verstehen, wie diese wichtige Straße Rom mit den östlichen Gebieten verband.",
+            "hu": "Fedezze fel ezt az ősi pihenőállomást a történelmi Via Tiburtinán, és álljon meg itt, hogy értékelje, hogyan kötötte össze ez a fontos út Rómát a keleti területekkel.",
+            "ro": "Descoperiți această stație antică de odihnă de pe Via Tiburtina și faceți o pauză pentru a aprecia modul în care acest drum crucial a conectat Roma de teritoriile estice.",
+            "en": "Discover this ancient resting station for travelers on the historic Via Tiburtina, and pause here to appreciate how this crucial road connected Rome to the eastern territories."
+          }
+        },
+        {
+          "name": {
+            "de": "CRM - Zentrum für Musikforschung",
+            "hu": "CRM - Zenei Kutatóközpont",
+            "ro": "CRM - Centrul de Cercetare Muzicală",
+            "en": "CRM - Center for Musical Research"
+          },
+          "coords": [
+            12.636485,
+            41.934895
+          ],
+          "category": "cultural",
+          "arrive_at": "16:14",
+          "stay_min": 130,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt in diesem Zentrum für Musikforschung mit innovativen Klangausstellungen und prüfen Sie den Zeitplan vorab für eine zeitgenössische Live-Aufführung.",
+            "hu": "Fejezze be utazását ebben az egyedülálló zenei kutatóközpontban, amely innovatív hangkiállításokat kínál, és előzetesen ellenőrizze az online menetrendet az élő előadásokért.",
+            "ro": "Terminați plimbarea la acest centru unic de cercetare muzicală care oferă expoziții de sunet inovatoare și verificați programul online din timp pentru un spectacol live.",
+            "en": "Finish your ride at this unique musical research center offering innovative sound exhibitions, and check their schedule online in advance to catch a live contemporary performance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen\nBeginnen Sie Ihr Radabenteuer am abgelegenen Torre S. Eusebio und genießen Sie die klare Morgenluft. Eine kurze Fahrt bringt Sie zu den Ruinen der römischen Villa.\nMittag\nRadeln Sie nach Norden zum Sepolcro a via Marcellina. Die Radwege hier sind relativ ruhig, sodass Sie den Übergang von ländlichen Feldern zu historisch reichen Vororten genießen können.\nNachmittag\nErkunden Sie die archäologische Hauptzone. Von dort aus radeln Sie entlang der antiken Via Tiburtina zur Mansio und denken an die historischen Reisenden, die hier vorbeikamen.\nAbend\nBeenden Sie Ihren aktiven Tag im CRM für eine Dosis moderner Kultur. Der Kontrast zwischen antiken Ruinen und zeitgenössischer Musikforschung bildet einen unvergesslichen Abschluss.",
+        "hu": "Reggel\nKezdje kerékpáros kalandját a távoli Torre S. Eusebio-nál, élvezve a friss reggeli levegőt. Egy rövid túra elviszi a via Carciano római villájának lenyűgöző romjaihoz.\nDél\nTekerjen északra a Sepolcro a via Marcellina felé. A kerékpárutak itt viszonylag csendesek, így könnyen élvezheti a vidéki mezőkről a történelmi külvárosokba való átmenetet.\nDélután\nFedezze fel a fő régészeti zónát. Innen tekerjen az ősi Via Tiburtina mentén a Mansio-hoz, elgondolkodva a történelmi utazókon, akik egykor itt haladtak el.\nEste\nFejezze be aktív napját a CRM-ben egy adag modern kultúrával. Az ősi romok és a kortárs zenei kutatás közötti kontraszt emlékezetes befejezést nyújt a túrának.",
+        "ro": "Dimineață\nÎncepeți aventura pe bicicletă la îndepărtatul Torre S. Eusebio, bucurându-vă de aerul proaspăt. O scurtă plimbare vă duce la ruinele impresionante ale Vilei Romane de pe via Carciano.\nAmiază\nPedalați spre nord până la Sepolcro a via Marcellina. Rutele de ciclism de aici sunt relativ liniștite, facilitând tranziția de la câmpurile rurale la suburbiile bogate istoric.\nDupă-amiază\nExplorați zona arheologică principală. De acolo, mergeți de-a lungul anticei Via Tiburtina pentru a descoperi Mansio, reflectând la călătorii istorici care au trecut pe aici.\nSeară\nÎncheiați ziua activă la CRM pentru o doză de cultură. Contrastul dintre ruinele antice de pe marginea drumului și cercetarea muzicală contemporană oferă o concluzie memorabilă.",
+        "en": "Morning\nBegin your cycling adventure at the remote Torre S. Eusebio, enjoying the crisp morning air. A short ride takes you to the impressive ruins of the Roman Villa on via Carciano.\nMidday\nPedal north to the Sepolcro a via Marcellina. The cycling routes here are relatively quiet, making it easy to enjoy the transition from rural fields to historically rich suburban outskirts.\nAfternoon\nExplore the main archaeological zone of Settecamini. From there, cycle along the path of the ancient Via Tiburtina to discover the Mansio, reflecting on the historical travelers who passed here.\nEvening\nEnd your active day at the CRM for a dose of modern culture. The contrast between ancient roadside ruins and contemporary musical research makes for a memorable conclusion."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:06",
+      "total_km": 6.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Manianpama Pool",
+            "hu": "Manianpama Medence",
+            "ro": "Piscina Manianpama",
+            "en": "Manianpama Pool"
+          },
+          "coords": [
+            12.657001,
+            41.943541
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Autotour mit einem entspannenden Halt in diesem lokalen Schwimmbad und kommen Sie früh, um einen guten Parkplatz vor dem Ansturm der Einheimischen zu finden.",
+            "hu": "Kezdje autós túráját egy pihentető megállóval ennél a helyi rekreációs medencénél, és érkezzen korán, hogy jó parkolóhelyet biztosítson, mielőtt a helyi családok megérkeznének.",
+            "ro": "Începeți turul cu mașina cu o oprire relaxantă la această piscină de recreere locală și ajungeți devreme pentru a vă asigura un loc de parcare bun înaintea familiilor locale.",
+            "en": "Begin your driving tour with a relaxing stop at this local recreational pool facility, and arrive early to secure a good parking spot before the local families start arriving."
+          }
+        },
+        {
+          "name": {
+            "de": "CRM - Zentrum für Musikforschung",
+            "hu": "CRM - Zenei Kutatóközpont",
+            "ro": "CRM - Centrul de Cercetare Muzicală",
+            "en": "CRM - Center for Musical Research"
+          },
+          "coords": [
+            12.636485,
+            41.934895
+          ],
+          "category": "cultural",
+          "arrive_at": "10:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem faszinierenden Zentrum für avantgardistische Musikforschung und nutzen Sie die nahegelegenen Parkplätze an der Straße, um die Klanginstallationen zu erkunden.",
+            "hu": "Vezessen át ebbe a lenyűgöző, avantgárd zenei kutatásnak szentelt központba, és használja ki a közeli utcai parkolást az egyedülálló hanginstallációk felfedezéséhez.",
+            "ro": "Conduceți până la acest centru fascinant dedicat cercetării muzicale avangardiste și profitați de parcarea de pe stradă pentru a explora instalațiile sale sonore unice.",
+            "en": "Drive over to this fascinating center dedicated to avant-garde musical research, and take advantage of the nearby street parking to explore its unique sound installations."
+          }
+        },
+        {
+          "name": {
+            "de": "Mansio an der 7. Meile",
+            "hu": "Mansio a 7. Mérföldnél",
+            "ro": "Mansio la Mila VII",
+            "en": "Mansio at the 7th Mile"
+          },
+          "coords": [
+            12.632289,
+            41.940676
+          ],
+          "category": "historical",
+          "arrive_at": "12:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Halten Sie an den Ruinen dieser antiken römischen Raststätte an einer Hauptverkehrsstraße und achten Sie beim Überqueren der Straße auf den Verkehr, um die Markierungen zu sehen.",
+            "hu": "Álljon meg ennek az ősi római pihenőhelynek a romjainál egy főútvonal mentén, és ügyeljen a forgalomra, amikor átkel az utcán, hogy megnézze a régészeti jelzéseket.",
+            "ro": "Opriți-vă la ruinele acestei antice stații de odihnă romane de-a lungul unui drum principal și atenție la trafic când traversați strada pentru a vedea marcajele arheologice.",
+            "en": "Stop by the ruins of this ancient Roman rest stop located along a major arterial road, and be mindful of traffic when crossing the street to view the archaeological markers."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Gebiet Settecamini",
+            "hu": "Settecamini Régészeti Terület",
+            "ro": "Zona Arheologică Settecamini",
+            "en": "Settecamini Archaeological Area"
+          },
+          "coords": [
+            12.62208,
+            41.938332
+          ],
+          "category": "historical",
+          "arrive_at": "13:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe der wichtigsten archäologischen Stätte der Stadt, um die Ausgrabungen zu sehen, und bringen Sie Sonnencreme mit, da das Gelände wenig Schatten bietet.",
+            "hu": "Parkoljon le röviden a város fő régészeti lelőhelye közelében, hogy megtekintse a kiterjedt római ásatásokat, és hozzon magával kalapot és naptejet a kevés árnyék miatt.",
+            "ro": "Parcați lângă situl arheologic principal al orașului pentru a vedea săpăturile romane și aduceți o pălărie și cremă de protecție solară, deoarece zona oferă foarte puțină umbră.",
+            "en": "Park briefly near the town's primary archaeological site to witness extensive Roman excavations, and bring a hat and sunscreen as the large area offers very little shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre di Pratolungo",
+            "hu": "Pratolungo Torony",
+            "ro": "Turnul Pratolungo",
+            "en": "Pratolungo Tower"
+          },
+          "coords": [
+            12.606894,
+            41.942645
+          ],
+          "category": "historical",
+          "arrive_at": "15:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Navigieren Sie durch die Vorstadtstraßen zu diesem robusten mittelalterlichen Turm und halten Sie sicher am Straßenrand, um ein paar Fotos seiner Struktur zu machen.",
+            "hu": "Navigáljon a külvárosi utcákon ehhez a robusztus középkori toronyhoz, amely uralja a helyi tájat, és húzódjon le biztonságosan az út szélére, hogy fotókat készítsen róla.",
+            "ro": "Navigați pe străzile suburbane până la acest turn medieval robust care domină peisajul local și trageți pe dreapta în siguranță pentru a face câteva fotografii ale structurii.",
+            "en": "Navigate the suburban streets to this robust medieval tower that dominates the local landscape, and pull over safely on the roadside to snap a few photos of its imposing structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Maria in Monasterio",
+            "hu": "Santa Maria in Monasterio Templom",
+            "ro": "Biserica Santa Maria in Monasterio",
+            "en": "Church of Santa Maria in Monasterio"
+          },
+          "coords": [
+            12.607737,
+            41.948377
+          ],
+          "category": "historical",
+          "arrive_at": "16:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem alten Klosterkomplex im Viertel und bewundern Sie, wie die historische religiöse Stätte nahtlos in das moderne Wohnleben integriert ist.",
+            "hu": "Vezessen el ehhez a szomszédságban megbúvó ősi kolostorkomplexumhoz, és értékelje, hogyan illeszkedik a történelmi vallási helyszín zökkenőmentesen a modern életbe.",
+            "ro": "Conduceți până la acest vechi complex monahal din cartier și apreciați modul în care situl religios istoric este integrat perfect în viața rezidențială modernă.",
+            "en": "Drive up to this ancient monastic complex nestled in the neighborhood, and appreciate how the historical religious site is integrated seamlessly into modern residential life."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Sant'Enrico",
+            "hu": "Sant'Enrico Templom",
+            "ro": "Biserica Sant'Enrico",
+            "en": "Church of Sant'Enrico"
+          },
+          "coords": [
+            12.601437,
+            41.945494
+          ],
+          "category": "religious",
+          "arrive_at": "17:56",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise an dieser modernen Kirche, die für ihre markanten Linien bekannt ist, und finden Sie gute Parkplätze für einen ruhigen Moment der Reflexion.",
+            "hu": "Fejezze be utazását ennél a kortárs templomnál, amely jellegzetes építészeti vonalairól ismert, és találjon könnyű parkolást a közelben egy csendes pillanatnyi elmélkedéshez.",
+            "ro": "Încheiați-vă călătoria la această biserică contemporană cunoscută pentru liniile sale arhitecturale și găsiți o parcare ușoară în apropiere înainte de o reflecție liniștită.",
+            "en": "Conclude your trip at this contemporary church known for its distinct architectural lines, and find easy parking nearby before enjoying a quiet moment of reflection inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen\nBeginnen Sie Ihren Fahrtag am Piscina Manianpama im Osten, ideal für einen erfrischenden Start. Danach bringt Sie eine kurze Fahrt zum CRM, um sich in akustische Kunst zu vertiefen.\nMittag\nNavigieren Sie in Richtung Via Tiburtina, um die antike römische Mansio zu sehen. Mit dem Auto ist es einfach, zwischen diesen Punkten zu wechseln. Holen Sie sich ein Mittagessen an der Hauptstraße.\nNachmittag\nVerbringen Sie den frühen Nachmittag in der weitläufigen Area archeologica di Settecamini. Später fahren Sie in ruhigere Wohnstraßen, um den formidablen Torre di Pratolungo zu bewundern.\nAbend\nBeenden Sie den Tag mit der klösterlichen Geschichte von Santa Maria in Monasterio und einem ruhigen Stopp an der Chiesa di Sant'Enrico. Die Rückfahrt von hier ist einfach und direkt.",
+        "hu": "Reggel\nKezdje az autós napot a keleti oldalon található Piscina Manianpama-nál, amely tökéletes egy frissítő kezdéshez. Ezután egy gyors út a CRM-hez vezet az akusztikus művészetek felfedezéséhez.\nDél\nNavigáljon a Via Tiburtina felé, hogy megnézze az ókori római Mansio-t. Autóval könnyen ugrálhat e pontok között. Ebédeljen meg egy út menti trattoriában a főút közelében.\nDélután\nTöltse a kora délutánt a kiterjedt Area archeologica di Settecamini sétájával. Később vezessen be a csendesebb lakóutcákba, hogy megcsodálja a föléjük magasodó Torre di Pratolungo-t.\nEste\nFejezze be a napot a Santa Maria in Monasterio kolostori történelmének felfedezésével, majd tegyen egy utolsó, békés megállót a modern Chiesa di Sant'Enrico-nál. A visszaút innen egyszerű.",
+        "ro": "Dimineață\nÎncepeți ziua de condus la Piscina Manianpama în partea de est, perfect pentru un început revigorant. Apoi, o scurtă călătorie vă duce la CRM pentru a aprofunda arta acustică.\nAmiază\nNavigați spre Via Tiburtina pentru a vedea vechea Mansio romană. Având mașină, este ușor să treceți între aceste puncte. Luați prânzul la o trattoria de lângă drumul principal.\nDupă-amiază\nPetreceți începutul după-amiezii plimbându-vă prin vasta zonă arheologică Settecamini. Mai târziu, conduceți pe străzile rezidențiale mai liniștite pentru a admira formidabilul Torre di Pratolungo.\nSeară\nTerminați ziua explorând istoria monahală la Santa Maria in Monasterio, apoi făcând o ultimă oprire pașnică la moderna Chiesa di Sant'Enrico. Drumul de întoarcere este simplu de aici.",
+        "en": "Morning\nKick off your driving day at Piscina Manianpama on the eastern side, perfect for a refreshing start. Afterwards, a quick drive takes you to the CRM to delve into cutting-edge acoustic art.\nMidday\nNavigate towards the Via Tiburtina to see the ancient Roman Mansio. Having a car makes it simple to hop between these spread-out points. Grab lunch at a roadside trattoria near the main road.\nAfternoon\nSpend the early afternoon walking through the extensive Area archeologica di Settecamini. Later, drive into the quieter residential streets to admire the formidable Torre di Pratolungo towering above.\nEvening\nFinish the day by exploring the monastic history at Santa Maria in Monasterio, then taking a final, peaceful stop at the modern Chiesa di Sant'Enrico. The drive back is easy and direct from here."
+      }
+    }
+  }
+}

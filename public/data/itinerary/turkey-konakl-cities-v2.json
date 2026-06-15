@@ -1,0 +1,405 @@
+{
+  "city_id": "turkey-konakl-cities-v2",
+  "anchor": {
+    "name": "Konaklı",
+    "coords": [
+      31.88862,
+      36.58865
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:41",
+      "total_km": 1.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Çeşme",
+            "hu": "Çeşme",
+            "ro": "Çeşme",
+            "en": "Çeşme"
+          },
+          "coords": [
+            31.864003,
+            36.590137
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen historischen Brunnen im osmanischen Stil mit seinen kunstvollen Steinmetzarbeiten und bringen Sie eine Flasche für frisches Wasser mit.",
+            "hu": "Csodálja meg ezt a történelmi oszmán stílusú kutat, figyelje meg a bonyolult kőfaragásokat, és hozzon magával egy kulacsot a friss vízhez.",
+            "ro": "Admirați această fântână istorică în stil otoman, observând detaliile sculpturilor în piatră, și aduceți o sticlă reutilizabilă pentru a o umple cu apă.",
+            "en": "Admire this historical Ottoman-style fountain, taking a moment to appreciate its intricate stonework, and bring a reusable bottle for fresh water."
+          }
+        },
+        {
+          "name": {
+            "de": "Süs Kuyu",
+            "hu": "Süs Kuyu",
+            "ro": "Süs Kuyu",
+            "en": "Süs Kuyu"
+          },
+          "coords": [
+            31.862659,
+            36.587907
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie den dekorativen Zierbrunnen, der vom lokalen Erbe zeugt und ein tolles Fotomotiv bietet. Kommen Sie am besten früh für das beste Licht.",
+            "hu": "Fedezze fel a helyi örökséget őrző díszes kutat, amely tökéletes fotótéma, ezért érdemes korán érkezni, mielőtt a déli nap elvakítaná a részleteket.",
+            "ro": "Descoperiți fântâna decorativă care reflectă moștenirea locală, perfectă pentru o fotografie rapidă, așa că veniți devreme pentru a prinde lumina ideală.",
+            "en": "Discover the decorative ornamental well that speaks to local heritage, perfect for a quick photo op, so arrive early before the midday sun washes out details."
+          }
+        },
+        {
+          "name": {
+            "de": "Luna Park",
+            "hu": "Luna Park",
+            "ro": "Luna Park",
+            "en": "Luna Park"
+          },
+          "coords": [
+            31.868848,
+            36.588622
+          ],
+          "category": "recreational",
+          "arrive_at": "12:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erleben Sie Spaß im lokalen Vergnügungspark mit Fahrgeschäften für alle Altersgruppen; kommen Sie am Nachmittag für kühleres Wetter und kürzere Schlangen.",
+            "hu": "Élvezze a vidámságot a helyi vidámparkban, ahol minden korosztály talál kedvére való játékot, de inkább később menjen a hűvösebb idő és rövidebb sorok miatt.",
+            "ro": "Bucurați-vă de distracție la parcul de distracții local, cu atracții pentru toate vârstele, dar vizitați-l după-amiaza pentru o vreme mai răcoroasă.",
+            "en": "Enjoy a burst of fun at the local amusement park, featuring rides suitable for all ages, but consider visiting late afternoon for cooler weather."
+          }
+        },
+        {
+          "name": {
+            "de": "Sharapsa Han",
+            "hu": "Sharapsa Han",
+            "ro": "Sharapsa Han",
+            "en": "Sharapsa Han"
+          },
+          "coords": [
+            31.870618,
+            36.588312
+          ],
+          "category": "landmark",
+          "arrive_at": "13:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese prächtige seldschukische Karawanserei, spüren Sie die Geschichte und tragen Sie bequeme Schuhe für das unebene historische Gelände.",
+            "hu": "Fedezze fel ezt a csodálatos 13. századi szeldzsuk karavánszerájt, érezze a történelmet, és viseljen kényelmes cipőt az egyenetlen talaj miatt.",
+            "ro": "Explorați acest magnific caravanserai selgiuc din secolul al XIII-lea, simțind istoria, și purtați încălțăminte comodă pentru terenul denivelat.",
+            "en": "Explore this magnificent 13th-century Seljuk caravanserai, feeling the history in its thick walls, and make sure to wear comfortable shoes for uneven grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Hervas Hotel & Accessories",
+            "hu": "Hervas Hotel & Accessories",
+            "ro": "Hervas Hotel & Accessories",
+            "en": "Hervas Hotel & Accessories"
+          },
+          "coords": [
+            31.875336,
+            36.584844
+          ],
+          "category": "landmark",
+          "arrive_at": "14:51",
+          "stay_min": 110,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses moderne Wahrzeichen, das Unterkunft und Shopping verbindet, und halten Sie ein paar Lira für einzigartige lokale Fundstücke bereit.",
+            "hu": "Nézze meg ezt a modern helyi nevezetességet, amely butikos vásárlást is kínál, és tartson magánál némi lírát az egyedi helyi kincsek megszerzéséhez.",
+            "ro": "Vizitați acest reper modern care combină cazarea cu cumpărăturile de tip boutique și păstrați niște lire la îndemână pentru a achiziționa suveniruri unice.",
+            "en": "Check out this modern local landmark blending accommodation with boutique shopping, and keep some extra lira handy for unique local finds to take home."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen an den historischen Brunnen von Konaklı. Mittags können Sie sich im örtlichen Vergnügungspark amüsieren. Der Nachmittag führt Sie zur beeindruckenden seldschukischen Architektur der Sharapsa Han. Beenden Sie Ihre Tour mit der Entdeckung moderner Boutiquen am nahegelegenen Hotel-Wahrzeichen.",
+        "hu": "Kezdje a reggelt Konaklı történelmi gyökereinek felfedezésével az ősi kútnál. Délben kapcsoljon ki egy kis vidámsággal a helyi vidámparkban. A délután a Sharapsa Han lenyűgöző szeldzsuk építészetéhez vezeti. Zárja sétáját a modern butikok és a közeli szálloda környékének felfedezésével.",
+        "ro": "Începeți dimineața descoperind rădăcinile istorice din Konaklı la fântânile otomane. La prânz, schimbați ritmul cu puțină distracție la parcul de distracții local. După-amiaza vă poartă spre impresionanta arhitectură selgiucă a hanului Sharapsa. Încheiați plimbarea relaxându-vă la buticurile moderne din apropriere.",
+        "en": "Begin your morning tracing the historical roots of Konaklı at the ancient Ottoman fountain and well. By midday, shift gears with some lighthearted fun at the local amusement park. The afternoon leads you to the impressive Seljuk architecture of Sharapsa Han. Conclude your tour discovering the modern blend of boutique shopping."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 4.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Çeşme",
+            "hu": "Çeşme",
+            "ro": "Çeşme",
+            "en": "Çeşme"
+          },
+          "coords": [
+            31.864003,
+            36.590137
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen historischen Brunnen im osmanischen Stil mit seinen kunstvollen Steinmetzarbeiten und bringen Sie eine Flasche für frisches Wasser mit.",
+            "hu": "Csodálja meg ezt a történelmi oszmán stílusú kutat, figyelje meg a bonyolult kőfaragásokat, és hozzon magával egy kulacsot a friss vízhez.",
+            "ro": "Admirați această fântână istorică în stil otoman, observând detaliile sculpturilor în piatră, și aduceți o sticlă reutilizabilă pentru a o umple cu apă.",
+            "en": "Admire this historical Ottoman-style fountain, taking a moment to appreciate its intricate stonework, and bring a reusable bottle for fresh water."
+          }
+        },
+        {
+          "name": {
+            "de": "Süs Kuyu",
+            "hu": "Süs Kuyu",
+            "ro": "Süs Kuyu",
+            "en": "Süs Kuyu"
+          },
+          "coords": [
+            31.862659,
+            36.587907
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie den dekorativen Zierbrunnen, der vom lokalen Erbe zeugt und ein tolles Fotomotiv bietet. Kommen Sie am besten früh für das beste Licht.",
+            "hu": "Fedezze fel a helyi örökséget őrző díszes kutat, amely tökéletes fotótéma, ezért érdemes korán érkezni, mielőtt a déli nap elvakítaná a részleteket.",
+            "ro": "Descoperiți fântâna decorativă care reflectă moștenirea locală, perfectă pentru o fotografie rapidă, așa că veniți devreme pentru a prinde lumina ideală.",
+            "en": "Discover the decorative ornamental well that speaks to local heritage, perfect for a quick photo op, so arrive early before the midday sun washes out details."
+          }
+        },
+        {
+          "name": {
+            "de": "Sharapsa Han",
+            "hu": "Sharapsa Han",
+            "ro": "Sharapsa Han",
+            "en": "Sharapsa Han"
+          },
+          "coords": [
+            31.870618,
+            36.588312
+          ],
+          "category": "landmark",
+          "arrive_at": "11:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese prächtige seldschukische Karawanserei, spüren Sie die Geschichte und tragen Sie bequeme Schuhe für das unebene historische Gelände.",
+            "hu": "Fedezze fel ezt a csodálatos 13. századi szeldzsuk karavánszerájt, érezze a történelmet, és viseljen kényelmes cipőt az egyenetlen talaj miatt.",
+            "ro": "Explorați acest magnific caravanserai selgiuc din secolul al XIII-lea, simțind istoria, și purtați încălțăminte comodă pentru terenul denivelat.",
+            "en": "Explore this magnificent 13th-century Seljuk caravanserai, feeling the history in its thick walls, and make sure to wear comfortable shoes for uneven grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Tiyatro",
+            "hu": "Tiyatro",
+            "ro": "Tiyatro",
+            "en": "Tiyatro"
+          },
+          "coords": [
+            31.887216,
+            36.577201
+          ],
+          "category": "cultural",
+          "arrive_at": "13:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die lokale Kultur im Theateramphitheater ein, bewundern Sie die Architektur und prüfen Sie das Programm für abendliche Vorführungen.",
+            "hu": "Merüljön el a helyi kultúrában a színházi amfiteátrumban, értékelje az építészeti elrendezését, és ellenőrizze előre a programot az esti előadások miatt.",
+            "ro": "Cufundați-vă în cultura locală la amfiteatrul teatrului, admirând designul său arhitectural și verificați programul în avans pentru spectacole de seară.",
+            "en": "Immerse yourself in local culture at the theater amphitheater, appreciating its architectural layout, and check the schedule in advance for any evening shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaj",
+            "hu": "Plaj",
+            "ro": "Plaj",
+            "en": "Plaj"
+          },
+          "coords": [
+            31.903957,
+            36.57148
+          ],
+          "category": "recreational",
+          "arrive_at": "15:15",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den Sandstränden des wunderschönen Konaklı-Strandes, genießen Sie die Wellen und packen Sie Sonnencreme ein, da Schatten rar ist.",
+            "hu": "Pihenjen a gyönyörű konaklıi tengerpart homokos szakaszain, hagyja, hogy a mediterrán hullámok elfeledtessék a stresszt, és vigyen naptejet az árnyék miatt.",
+            "ro": "Relaxați-vă pe porțiunile de nisip ale frumoasei plaje Konaklı, lăsând valurile Mediteranei să vă liniștească, și luați o cremă de soare.",
+            "en": "Relax on the sandy stretches of the beautiful Konaklı beach, letting the Mediterranean waves wash your stress away, and pack sunscreen as shade can be scarce."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Fahrradabenteuer beginnt an den charmanten historischen Brunnen im Zentrum. Die Fahrt am Mittag bringt Sie zur imposanten Sharapsa Han, einem Zeugnis seldschukischer Geschichte. Am Nachmittag radeln Sie zum kulturellen Amphitheater. Beenden Sie den Tag und genießen Sie die Brise und den Sonnenuntergang am Sandstrand.",
+        "hu": "A kerékpáros kaland a központ közelében lévő bájos történelmi kutaknál kezdődik. A déli tekerés az impozáns Sharapsa Hanhoz vezet. Délután kerekezzen a kulturális amfiteátrum felé, és csodálja meg annak kialakítását. Végül zárja a napot a tengeri szellő és a naplemente élvezetével a gyönyörű homokos tengerparton.",
+        "ro": "Aventura pe bicicletă începe la fermecătoarele fântâni istorice din centru. Plimbarea de prânz vă aduce la impunătorul Sharapsa Han. După-amiaza, pedalați spre amfiteatrul cultural pentru a-i aprecia designul. Încheiați ziua bucurându-vă de briza mării și de apusul de soare pe superba plajă de nisip.",
+        "en": "Your cycling adventure starts with the charming historical fountains scattered near the center. The midday ride brings you to the imposing Sharapsa Han, a testament to Seljuk history. In the afternoon, pedal your way towards the cultural amphitheater to appreciate its design. Finally, end your day enjoying the breeze at the beach."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:34",
+      "total_km": 4.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Sharapsa Han",
+            "hu": "Sharapsa Han",
+            "ro": "Sharapsa Han",
+            "en": "Sharapsa Han"
+          },
+          "coords": [
+            31.870618,
+            36.588312
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese prächtige seldschukische Karawanserei, spüren Sie die Geschichte und tragen Sie bequeme Schuhe für das unebene historische Gelände.",
+            "hu": "Fedezze fel ezt a csodálatos 13. századi szeldzsuk karavánszerájt, érezze a történelmet, és viseljen kényelmes cipőt az egyenetlen talaj miatt.",
+            "ro": "Explorați acest magnific caravanserai selgiuc din secolul al XIII-lea, simțind istoria, și purtați încălțăminte comodă pentru terenul denivelat.",
+            "en": "Explore this magnificent 13th-century Seljuk caravanserai, feeling the history in its thick walls, and make sure to wear comfortable shoes for uneven grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Luna Park",
+            "hu": "Luna Park",
+            "ro": "Luna Park",
+            "en": "Luna Park"
+          },
+          "coords": [
+            31.868848,
+            36.588622
+          ],
+          "category": "recreational",
+          "arrive_at": "10:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie Spaß im lokalen Vergnügungspark mit Fahrgeschäften für alle Altersgruppen; kommen Sie am Nachmittag für kühleres Wetter und kürzere Schlangen.",
+            "hu": "Élvezze a vidámságot a helyi vidámparkban, ahol minden korosztály talál kedvére való játékot, de inkább később menjen a hűvösebb idő és rövidebb sorok miatt.",
+            "ro": "Bucurați-vă de distracție la parcul de distracții local, cu atracții pentru toate vârstele, dar vizitați-l după-amiaza pentru o vreme mai răcoroasă.",
+            "en": "Enjoy a burst of fun at the local amusement park, featuring rides suitable for all ages, but consider visiting late afternoon for cooler weather."
+          }
+        },
+        {
+          "name": {
+            "de": "Telatiye Resort Hotel",
+            "hu": "Telatiye Resort Hotel",
+            "ro": "Telatiye Resort Hotel",
+            "en": "Telatiye Resort Hotel"
+          },
+          "coords": [
+            31.871179,
+            36.583373
+          ],
+          "category": "recreational",
+          "arrive_at": "11:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie über das Gelände dieses Resorts, beobachten Sie die lebhafte Urlaubsatmosphäre und genießen Sie ein erfrischendes Getränk in einem Café.",
+            "hu": "Sétáljon el e népszerű üdülőhely nyüzsgő területe mellett, figyelje meg a nyaralás hangulatát, és fogyasszon el egy hűsítő italt a közeli kávézóban.",
+            "ro": "Plimbați-vă pe lângă acest complex popular, observând atmosfera plină de viață a vacanței și savurați o băutură răcoritoare la o cafenea din apropiere.",
+            "en": "Stroll past the vibrant grounds of this popular resort, observing the bustling holiday atmosphere, and enjoy a refreshing drink at a cafe to beat the heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Tiyatro",
+            "hu": "Tiyatro",
+            "ro": "Tiyatro",
+            "en": "Tiyatro"
+          },
+          "coords": [
+            31.887216,
+            36.577201
+          ],
+          "category": "cultural",
+          "arrive_at": "13:06",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die lokale Kultur im Theateramphitheater ein, bewundern Sie die Architektur und prüfen Sie das Programm für abendliche Vorführungen.",
+            "hu": "Merüljön el a helyi kultúrában a színházi amfiteátrumban, értékelje az építészeti elrendezését, és ellenőrizze előre a programot az esti előadások miatt.",
+            "ro": "Cufundați-vă în cultura locală la amfiteatrul teatrului, admirând designul său arhitectural și verificați programul în avans pentru spectacole de seară.",
+            "en": "Immerse yourself in local culture at the theater amphitheater, appreciating its architectural layout, and check the schedule in advance for any evening shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaj",
+            "hu": "Plaj",
+            "ro": "Plaj",
+            "en": "Plaj"
+          },
+          "coords": [
+            31.903957,
+            36.57148
+          ],
+          "category": "recreational",
+          "arrive_at": "14:49",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den Sandstränden des wunderschönen Konaklı-Strandes, genießen Sie die Wellen und packen Sie Sonnencreme ein, da Schatten rar ist.",
+            "hu": "Pihenjen a gyönyörű konaklıi tengerpart homokos szakaszain, hagyja, hogy a mediterrán hullámok elfeledtessék a stresszt, és vigyen naptejet az árnyék miatt.",
+            "ro": "Relaxați-vă pe porțiunile de nisip ale frumoasei plaje Konaklı, lăsând valurile Mediteranei să vă liniștească, și luați o cremă de soare.",
+            "en": "Relax on the sandy stretches of the beautiful Konaklı beach, letting the Mediterranean waves wash your stress away, and pack sunscreen as shade can be scarce."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt mit der historischen Sharapsa Han. Der Mittag geht in Freizeit über, mit einem Stopp im lebhaften Luna Park und auf dem Resortgelände. Am Nachmittag fahren Sie hinunter zum beeindruckenden Freilufttheater. Beenden Sie die Reiseroute mit einem entspannenden späten Bad am weitläufigen Strand.",
+        "hu": "Kezdje a kényelmes utazást a történelmi Sharapsa Han vastag kőfalainak megcsodálásával. A délidő kikapcsolódást nyújt a nyüzsgő Luna Parknál és az üdülőhelyen. Délután guruljon le a lenyűgöző szabadtéri színházhoz. Zárja a programot egy pihentető késő délutáni csobbanással a helyi tengerparton.",
+        "ro": "Începeți traseul auto admirând zidurile istorice ale caravanseraiului Sharapsa Han. Prânzul face trecerea spre relaxare cu o oprire la vibrantul Luna Park și la resorturile din jur. După-amiaza, conduceți spre impresionantul teatru în aer liber. Încheiați itinerariul cu o baie relaxantă la plaja locală întinsă.",
+        "en": "Start your comfortable drive by marveling at the thick stone walls of the historic Sharapsa Han. Midday transitions to leisure with a quick stop at the vibrant Luna Park and the nearby bustling resort grounds. As afternoon arrives, cruise down to the impressive open-air theater and end with a dip at the beach."
+      }
+    }
+  }
+}

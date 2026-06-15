@@ -1,0 +1,474 @@
+{
+  "city_id": "portugal-olhao-cities-v2",
+  "anchor": {
+    "name": "Olhão",
+    "coords": [
+      -7.8333,
+      37.0333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:31",
+      "total_km": 1.25,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museu Municipal de Olhão",
+            "hu": "Museu Municipal de Olhão",
+            "ro": "Museu Municipal de Olhão",
+            "en": "Museu Municipal de Olhão"
+          },
+          "coords": [
+            -7.841026,
+            37.025981
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem Museum die maritime Geschichte von Olhão und vergessen Sie nicht, den zweiten Stock für regionale archäologische Funde zu besuchen.",
+            "hu": "Fedezze fel Olhão tengerészeti történetét ebben a múzeumban, és ne felejtse el megnézni a második emelet lenyűgöző regionális régészeti leleteit sem.",
+            "ro": "Descoperiți istoria maritimă a orașului Olhão în acest muzeu local fermecător și nu uitați să vizitați etajul doi pentru descoperiri arheologice fascinante.",
+            "en": "Discover the maritime history of Olhão in this charming local museum, and remember to check the second floor for fascinating regional archaeological finds."
+          }
+        },
+        {
+          "name": {
+            "de": "Barco Bom Sucesso",
+            "hu": "Barco Bom Sucesso",
+            "ro": "Barco Bom Sucesso",
+            "en": "Barco Bom Sucesso"
+          },
+          "coords": [
+            -7.840967,
+            37.023131
+          ],
+          "category": "landmark",
+          "arrive_at": "10:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto mit dieser Nachbildung des Bootes, das nach Brasilien segelte, aber kommen Sie früh morgens, um es ohne Touristenmassen einzufangen.",
+            "hu": "Fotózkodjon ezzel a történelmi hajómásolattal, amely egészen Brazíliáig hajózott, de érdemes kora reggel érkezni, hogy elkerülje a nagy turistatömegeket.",
+            "ro": "Faceți o poză cu această replică istorică a bărcii care a navigat spre Brazilia, dar vizitați-o dimineața devreme pentru a evita aglomerația de turiști.",
+            "en": "Take a photo with this historic replica of the traditional boat that sailed to Brazil, but visit early in the morning to capture it without the tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Sabino Boat Tours",
+            "hu": "Sabino Boat Tours",
+            "ro": "Sabino Boat Tours",
+            "en": "Sabino Boat Tours"
+          },
+          "coords": [
+            -7.837497,
+            37.023707
+          ],
+          "category": "landmark",
+          "arrive_at": "11:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Buchen Sie eine Tour zur Erkundung der Ria Formosa direkt ab dem Hafen und versuchen Sie, einen Termin bei Sonnenuntergang für das beste Licht zu bekommen.",
+            "hu": "Foglaljon túrát a kikötőből a lenyűgöző Ria Formosa felfedezéséhez, és próbáljon naplementés időpontot választani a szigetek varázslatos aranyfényéért.",
+            "ro": "Rezervați un tur pentru a explora uimitoarea Ria Formosa din port și încercați să obțineți un loc la apus pentru a vedea insulele într-o lumină aurie.",
+            "en": "Book a tour to explore the stunning Ria Formosa directly from the harbor, and try to get a sunset slot to see the islands bathed in incredible golden light."
+          }
+        },
+        {
+          "name": {
+            "de": "Atelier ZEA",
+            "hu": "Atelier ZEA",
+            "ro": "Atelier ZEA",
+            "en": "Atelier ZEA"
+          },
+          "coords": [
+            -7.83884,
+            37.024574
+          ],
+          "category": "cultural",
+          "arrive_at": "11:53",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses lebendige Kunststudio mit einzigartigen Werken und sprechen Sie mit den Künstlern, um mehr über ihre traditionellen Techniken zu erfahren.",
+            "hu": "Fedezze fel ezt az élénk művészeti stúdiót, ahol egyedi alkotásokat mutatnak be, és beszélgessen a művészekkel a hagyományos technikák megismeréséért.",
+            "ro": "Explorați acest studio de artă vibrant cu lucrări unice și discutați cu artiștii pentru a afla mai multe despre tehnicile tradiționale pe care le folosesc.",
+            "en": "Explore this vibrant local art studio showcasing unique creative works, and chat with the artists to learn about the traditional techniques they use here."
+          }
+        },
+        {
+          "name": {
+            "de": "Associação Cultural Re-Criativa República 14",
+            "hu": "Associação Cultural Re-Criativa República 14",
+            "ro": "Associação Cultural Re-Criativa República 14",
+            "en": "Associação Cultural Re-Criativa República 14"
+          },
+          "coords": [
+            -7.839935,
+            37.026795
+          ],
+          "category": "cultural",
+          "arrive_at": "12:57",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre dieses Kulturvereins mit Live-Musik und trinken Sie einen Kaffee im gemütlichen Café, während Sie die Ausstellungen ansehen.",
+            "hu": "Élvezze a kulturális egyesület élénk, élőzenés hangulatát, és igyon egy kávét a hangulatos kávézóban, miközben megtekinti az aktuális kiállításokat.",
+            "ro": "Bucurați-vă de atmosfera plină de viață a acestei asociații culturale cu muzică live și beți o cafea la cafeneaua lor confortabilă în timp ce vizitați expozițiile.",
+            "en": "Enjoy the lively atmosphere of this cultural association featuring live music, and grab a coffee at their cozy café while checking out the current exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditório Municipal de Olhão",
+            "hu": "Auditório Municipal de Olhão",
+            "ro": "Auditório Municipal de Olhão",
+            "en": "Auditório Municipal de Olhão"
+          },
+          "coords": [
+            -7.837141,
+            37.02729
+          ],
+          "category": "cultural",
+          "arrive_at": "14:01",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Überprüfen Sie den Spielplan dieses modernen Auditoriums für lokale Aufführungen und buchen Sie Ihre Tickets im Voraus online für die besten Plätze im Haus.",
+            "hu": "Nézze meg ennek a modern nézőtérnek a műsorát a helyi előadásokért, és foglalja le jegyeit előre online, hogy biztosítsa a legjobb helyeket a teremben.",
+            "ro": "Verificați programul acestui auditoriu modern pentru spectacole locale și rezervați-vă biletele în avans online pentru a obține cele mai bune locuri în sală.",
+            "en": "Check the schedule of this modern auditorium for engaging local performances, and book your tickets in advance online to secure the best seats in the house."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit maritimer Geschichte und einem Spaziergang entlang des Hafens, um die Denkmäler zu sehen. Mittags tauchen Sie in die kreative Energie der unabhängigen Kunststudios im Zentrum ein. Der Nachmittag bietet eine entspannte Erkundung lebendiger Kulturvereine und gemütlicher Cafés. Der Tag endet wunderbar in der Nähe des modernen städtischen Auditoriums von Olhão.",
+        "hu": "Kezdje a reggelt a helyi tengerészeti történelem megismerésével, és sétáljon a nyüzsgő kikötőben a műemlékek között. Délben merüljön el a városközpont független művészeti stúdióinak kreatív energiájában. A délután folyamán élénk kulturális egyesületeket és hangulatos kávézókat fedezhet fel. A nap csodálatosan zárul a modern városi nézőtér közelében.",
+        "ro": "Începeți dimineața cu istoria maritimă și o plimbare de-a lungul portului pentru a vedea monumentele iconice. La prânz, cufundați-vă în energia creativă a studiourilor de artă independente din centrul orașului. După-amiaza vă permite să explorați relaxat asociații culturale vii și cafenele confortabile. Ziua se încheie minunat lângă auditoriul municipal modern.",
+        "en": "Start your morning by diving into local maritime history and wandering along the vibrant harbor to see iconic monuments. At midday, immerse yourself in the creative energy of independent art studios tucked away in the city center. Your afternoon allows for relaxed exploration of lively cultural associations and cozy cafes. The day concludes wonderfully near the modern municipal auditorium."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 5.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Barco Bom Sucesso",
+            "hu": "Barco Bom Sucesso",
+            "ro": "Barco Bom Sucesso",
+            "en": "Barco Bom Sucesso"
+          },
+          "coords": [
+            -7.840967,
+            37.023131
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto mit dieser Nachbildung des Bootes, das nach Brasilien segelte, aber kommen Sie früh morgens, um es ohne Touristenmassen einzufangen.",
+            "hu": "Fotózkodjon ezzel a történelmi hajómásolattal, amely egészen Brazíliáig hajózott, de érdemes kora reggel érkezni, hogy elkerülje a nagy turistatömegeket.",
+            "ro": "Faceți o poză cu această replică istorică a bărcii care a navigat spre Brazilia, dar vizitați-o dimineața devreme pentru a evita aglomerația de turiști.",
+            "en": "Take a photo with this historic replica of the traditional boat that sailed to Brazil, but visit early in the morning to capture it without the tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Municipal de Olhão",
+            "hu": "Museu Municipal de Olhão",
+            "ro": "Museu Municipal de Olhão",
+            "en": "Museu Municipal de Olhão"
+          },
+          "coords": [
+            -7.841026,
+            37.025981
+          ],
+          "category": "museum",
+          "arrive_at": "09:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem Museum die maritime Geschichte von Olhão und vergessen Sie nicht, den zweiten Stock für regionale archäologische Funde zu besuchen.",
+            "hu": "Fedezze fel Olhão tengerészeti történetét ebben a múzeumban, és ne felejtse el megnézni a második emelet lenyűgöző regionális régészeti leleteit sem.",
+            "ro": "Descoperiți istoria maritimă a orașului Olhão în acest muzeu local fermecător și nu uitați să vizitați etajul doi pentru descoperiri arheologice fascinante.",
+            "en": "Discover the maritime history of Olhão in this charming local museum, and remember to check the second floor for fascinating regional archaeological finds."
+          }
+        },
+        {
+          "name": {
+            "de": "Salinas do Coquenão",
+            "hu": "Salinas do Coquenão",
+            "ro": "Salinas do Coquenão",
+            "en": "Salinas do Coquenão"
+          },
+          "coords": [
+            -7.824695,
+            37.029286
+          ],
+          "category": "historical",
+          "arrive_at": "11:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie die traditionellen Salinen, in denen Meersalz gewonnen wird, und bringen Sie ein Fernglas mit, um die vielfältigen Vogelarten hier zu sehen.",
+            "hu": "Figyelje meg a hagyományos sólepárlókat, ahol a tengeri sót gyűjtik, és hozzon magával távcsövet, hogy megcsodálhassa a területen élő különféle madárfajokat.",
+            "ro": "Observați salinele tradiționale unde se recoltează sare de mare și aduceți un binoclu pentru a observa diversele specii de păsări care se adună în zonă.",
+            "en": "Observe the traditional salt pans where natural sea salt is harvested, and bring a pair of binoculars to spot the diverse bird species flocking to the area."
+          }
+        },
+        {
+          "name": {
+            "de": "Quinta de Marim 1",
+            "hu": "Quinta de Marim 1",
+            "ro": "Quinta de Marim 1",
+            "en": "Quinta de Marim 1"
+          },
+          "coords": [
+            -7.812196,
+            37.033511
+          ],
+          "category": "historical",
+          "arrive_at": "12:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses Umweltbildungszentrum inmitten der Natur und tragen Sie bequeme Schuhe, um die weitläufigen Wege und Teiche vollständig zu erkunden.",
+            "hu": "Sétáljon végig ezen a természet szívében található környezeti nevelési központon, és viseljen kényelmes cipőt, hogy teljesen felfedezze az ösvényeket.",
+            "ro": "Plimbați-vă prin acest centru de educație ecologică din inima naturii și purtați pantofi confortabili pentru a explora pe deplin traseele și iazurile extinse.",
+            "en": "Wander through this environmental education center in the heart of nature, and wear comfortable walking shoes to fully explore the extensive trails and ponds."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa João Lúcio",
+            "hu": "Casa João Lúcio",
+            "ro": "Casa João Lúcio",
+            "en": "Casa João Lúcio"
+          },
+          "coords": [
+            -7.817066,
+            37.035992
+          ],
+          "category": "museum",
+          "arrive_at": "14:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die einzigartige Architektur dieses von einem Dichter erbauten Chalets und gehen Sie herum, um die vier identisch gestalteten Fassaden zu sehen.",
+            "hu": "Csodálja meg ennek a híres költő által épített történelmi háznak az egyedi építészetét, és sétálja körbe, hogy megfigyelhesse a négy egyforma homlokzatot.",
+            "ro": "Admirați arhitectura unică a acestei cabane istorice construite de un poet celebru și plimbați-vă în jurul ei pentru a observa cele patru fațade identice.",
+            "en": "Admire the unique architecture of this historic chalet built by a famous poet, and walk around its perimeter to notice the four identically designed facades."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Armona-Ria",
+            "hu": "Praia da Armona-Ria",
+            "ro": "Praia da Armona-Ria",
+            "en": "Praia da Armona-Ria"
+          },
+          "coords": [
+            -7.804726,
+            37.02345
+          ],
+          "category": "recreational",
+          "arrive_at": "16:05",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie am weichen Sand dieses Strandes mit ruhigem Wasser und mieten Sie früh am Tag eine Sonnenliege, da diese im Sommer schnell ausverkauft sind.",
+            "hu": "Pihenjen ennek a gyönyörű, szárazföldre néző, nyugodt vizű strandnak a puha homokján, és béreljen napozóágyat korán, mert nyáron gyorsan elfogynak.",
+            "ro": "Relaxați-vă pe nisipul fin al acestei plaje frumoase cu ape liniștite și închiriați un șezlong devreme, deoarece acestea se epuizează rapid în timpul verii.",
+            "en": "Relax on the soft sands of this beautiful calm-water beach facing the mainland, and rent a sunbed early in the day as they tend to sell out quickly in summer."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt entlang der Uferpromenade, bevor Sie zu den traditionellen Salinen radeln. Mittags fahren Sie auf den ruhigen Wegen des örtlichen Umweltschutzgebietes. Am Nachmittag bewundern Sie die einzigartige Architektur des historischen Chalets eines Dichters. Den Abend verbringen Sie am besten entspannt am ruhigen Strand mit Blick auf die sanfte Ria Formosa.",
+        "hu": "Kezdje kerékpározását a nyüzsgő vízparton, mielőtt a lenyűgöző hagyományos sólepárlók felé venné az irányt. Délben a helyi természetvédelmi terület nyugodt, természetközeli ösvényein tekerhet. Délután csodálja meg egy költő történelmi, fenyőfákkal körülvett faházának egyedi építészetét. Az estét legjobban a nyugodt homokon pihenve töltheti.",
+        "ro": "Începeți plimbarea de-a lungul falezei pline de viață înainte de a pedala spre salinele tradiționale. La prânz, mergeți pe traseele liniștite ale rezervației ecologice locale. După-amiaza, admirați arhitectura unică a cabanei istorice a unui poet înconjurată de pini. Seara vă relaxați pe nisipul liniștit cu vedere la ria blândă.",
+        "en": "Kick off your ride along the bustling waterfront before pedaling towards the fascinating traditional salt pans. Midday finds you cycling through the tranquil, nature-filled trails of the local environmental reserve. In the afternoon, admire the unique architecture of a poet's historic chalet surrounded by pine trees. Your evening is best spent relaxing on the calm sands facing the gentle ria."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 10.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ponte Velha de Quelfes",
+            "hu": "Ponte Velha de Quelfes",
+            "ro": "Ponte Velha de Quelfes",
+            "en": "Ponte Velha de Quelfes"
+          },
+          "coords": [
+            -7.829932,
+            37.055074
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Machen Sie einen Schritt zurück in die Vergangenheit auf dieser alten Steinbrücke und seien Sie vorsichtig, da das Kopfsteinpflaster nach Regen rutschig ist.",
+            "hu": "Lépjen vissza az időben ezen az ősi kőhídon, amely a francia inváziókhoz köthető, és óvatosan lépkedjen, mert a macskakövek eső után csúszósak lehetnek.",
+            "ro": "Întoarceți-vă în timp pe acest pod vechi de piatră legat de invaziile franceze și aveți grijă deoarece pietrele pot fi destul de alunecoase după ploaie.",
+            "en": "Step back in time on this ancient stone bridge linked to the French invasions, and be careful as the uneven cobblestones can be quite slippery after rain."
+          }
+        },
+        {
+          "name": {
+            "de": "Ponte de Marim",
+            "hu": "Ponte de Marim",
+            "ro": "Ponte de Marim",
+            "en": "Ponte de Marim"
+          },
+          "coords": [
+            -7.811054,
+            37.043529
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Struktur dieser charmanten alten Brücke in der Nähe des Naturparks und achten Sie auf die kleinen Krabben, die im Wattenmeer unten krabbeln.",
+            "hu": "Csodálja meg ennek a bájos régi hídnak a szerkezetét a natúrpark közelében, és szánjon egy pillanatot arra, hogy megfigyelje a kis rákokat az iszapban.",
+            "ro": "Minunați-vă de structura acestui vechi pod fermecător de lângă parcul natural și căutați micii crabi care se mișcă rapid în zonele noroioase de dedesubt.",
+            "en": "Marvel at the structure of this charming old bridge near the nature park, and take a moment to look out for the small crabs scuttling in the mudflats below."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa romana da Quinta de Marim",
+            "hu": "Villa romana da Quinta de Marim",
+            "ro": "Villa romana da Quinta de Marim",
+            "en": "Villa romana da Quinta de Marim"
+          },
+          "coords": [
+            -7.813882,
+            37.04081
+          ],
+          "category": "historical",
+          "arrive_at": "11:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die antiken Ruinen dieser römischen Villa an der Küste und schauen Sie sich die Informationstafeln genau an, um das Fischsalzen zu verstehen.",
+            "hu": "Fedezze fel ennek a part közelében fekvő római villának az ősi romjait, és olvassa el figyelmesen a tájékoztató táblákat az ősi halsózás megismeréséhez.",
+            "ro": "Descoperiți ruinele antice ale acestei vile romane de lângă coastă și uitați-vă cu atenție la plăcile informative pentru a înțelege sărarea antică a peștelui.",
+            "en": "Discover the ancient ruins of this Roman villa nestled near the coastline, and look closely at the informative plaques to understand the ancient fish salting."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa João Lúcio",
+            "hu": "Casa João Lúcio",
+            "ro": "Casa João Lúcio",
+            "en": "Casa João Lúcio"
+          },
+          "coords": [
+            -7.817066,
+            37.035992
+          ],
+          "category": "museum",
+          "arrive_at": "13:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die einzigartige Architektur dieses von einem Dichter erbauten Chalets und gehen Sie herum, um die vier identisch gestalteten Fassaden zu sehen.",
+            "hu": "Csodálja meg ennek a híres költő által épített történelmi háznak az egyedi építészetét, és sétálja körbe, hogy megfigyelhesse a négy egyforma homlokzatot.",
+            "ro": "Admirați arhitectura unică a acestei cabane istorice construite de un poet celebru și plimbați-vă în jurul ei pentru a observa cele patru fațade identice.",
+            "en": "Admire the unique architecture of this historic chalet built by a famous poet, and walk around its perimeter to notice the four identically designed facades."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Armona-Mar",
+            "hu": "Praia da Armona-Mar",
+            "ro": "Praia da Armona-Mar",
+            "en": "Praia da Armona-Mar"
+          },
+          "coords": [
+            -7.7922,
+            37.018157
+          ],
+          "category": "recreational",
+          "arrive_at": "15:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie auf der Ozeanseite der Insel Armona mit ihren atlantischen Wellen und packen Sie eine Windjacke ein, da die Meeresbrise hier viel stärker ist.",
+            "hu": "Sétáljon végig az Armona-sziget óceán felőli oldalán, ahol az atlanti hullámok törnek meg, és vigyen széldzsekit, mert a tengeri szellő itt sokkal erősebb.",
+            "ro": "Plimbați-vă pe partea oceanică a insulei Armona, cu valurile sale atlantice și luați o jachetă de vânt, deoarece briza mării este mult mai puternică aici.",
+            "en": "Stroll along the ocean side of Armona island with its crashing Atlantic waves, and pack a windbreaker as the sea breeze here is much stronger than the ria side."
+          }
+        },
+        {
+          "name": {
+            "de": "Sabino Boat Tours",
+            "hu": "Sabino Boat Tours",
+            "ro": "Sabino Boat Tours",
+            "en": "Sabino Boat Tours"
+          },
+          "coords": [
+            -7.837497,
+            37.023707
+          ],
+          "category": "landmark",
+          "arrive_at": "16:30",
+          "stay_min": 55,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Buchen Sie eine Tour zur Erkundung der Ria Formosa direkt ab dem Hafen und versuchen Sie, einen Termin bei Sonnenuntergang für das beste Licht zu bekommen.",
+            "hu": "Foglaljon túrát a kikötőből a lenyűgöző Ria Formosa felfedezéséhez, és próbáljon naplementés időpontot választani a szigetek varázslatos aranyfényéért.",
+            "ro": "Rezervați un tur pentru a explora uimitoarea Ria Formosa din port și încercați să obțineți un loc la apus pentru a vedea insulele într-o lumină aurie.",
+            "en": "Book a tour to explore the stunning Ria Formosa directly from the harbor, and try to get a sunset slot to see the islands bathed in incredible golden light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie früh los, um eine alte Steinbrücke zu erkunden, die Zeuge einer jahrhundertealten Geschichte ist. Mittags führt Sie Ihre Route an die Küste, um römische Ruinen und Naturparks zu entdecken. Der Nachmittag ist einem einzigartig gestalteten historischen Chalet inmitten von Kiefern gewidmet. Beenden Sie Ihren Tag mit einer Fahrt zurück zum Hafen für eine Bootstour bei Sonnenuntergang.",
+        "hu": "Vezessen kora reggel egy ősi kőhídhoz, amely évszázados regionális történelmet őriz. Délben az útvonal a partra vezet, hogy felfedezze a római romokat és a természetvédelmi területeket. A délután egy egyedi tervezésű, történelmi faház felfedezésére szolgál. Zárja a napot azzal, hogy visszavezet a kikötőbe egy felejthetetlen naplementés hajótúrára a vízen.",
+        "ro": "Conduceți devreme pentru a explora un vechi pod de piatră care a asistat la secole de istorie regională. La prânz, traseul vă duce pe coastă pentru a descoperi ruine romane și poduri de parc natural. După-amiaza este dedicată explorării unei cabane istorice unice. Încheiați-vă ziua conducând înapoi în port pentru un tur cu barca de neuitat la apus.",
+        "en": "Drive out early to explore an ancient stone bridge that has witnessed centuries of regional history. By midday, your route takes you to the coast to uncover Roman ruins and serene nature park bridges. The afternoon is dedicated to exploring a uniquely designed historic chalet set amongst the pines. Conclude your day trip by driving back to the harbor for an unforgettable sunset boat tour."
+      }
+    }
+  }
+}

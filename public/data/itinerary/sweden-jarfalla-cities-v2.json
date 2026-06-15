@@ -1,0 +1,405 @@
+{
+  "city_id": "sweden-jarfalla-cities-v2",
+  "anchor": {
+    "name": "Järfälla",
+    "coords": [
+      17.83,
+      59.42
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 9.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Paddling Pool",
+            "hu": "Pancsolómedence",
+            "ro": "Piscina pentru copii",
+            "en": "Paddling pool"
+          },
+          "coords": [
+            17.848327,
+            59.414887
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannten Morgen an diesem kleinen lokalen Poolbereich, der sich perfekt für Familien eignet, die in ruhigen Gewässern planschen möchten; denken Sie nur daran, Ihre eigene Sonnencreme und Handtücher mitzubringen.",
+            "hu": "Töltsön el egy pihentető délelőttöt ezen a kis helyi medencénél, amely tökéletes a nyugodt vizet kedvelő családok számára, csak ne felejtsen el naptejet és törölközőt magával hozni.",
+            "ro": "Bucurați-vă de o dimineață relaxantă la această mică piscină locală, perfectă pentru familiile care doresc să se bălăcească în ape liniștite, dar nu uitați să vă aduceți propria cremă de protecție solară și prosoape.",
+            "en": "Enjoy a relaxing morning at this small local pool area, which is perfect for families wanting to splash around in calm waters, just remember to bring your own sunscreen and towels."
+          }
+        },
+        {
+          "name": {
+            "de": "Veddestadammen",
+            "hu": "Veddestadammen",
+            "ro": "Iazul Veddestadammen",
+            "en": "Veddestadammen"
+          },
+          "coords": [
+            17.826796,
+            59.403104
+          ],
+          "category": "natural",
+          "arrive_at": "10:06",
+          "stay_min": 60,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Umgebung dieses städtischen Teiches, der als wichtige grüne Lunge für das Viertel dient, und versuchen Sie, die lokalen Vogelarten zu entdecken, die sich im Schilf verstecken.",
+            "hu": "Fedezze fel ennek a városi tónak a nyugodt környezetét, amely létfontosságú zöld tüdőként szolgál a környék számára, és próbálja meg észrevenni a nádasban megbújó helyi madárfajokat.",
+            "ro": "Descoperiți mediul liniștit al acestui iaz urban care servește drept plămân verde vital pentru cartier și încercați să observați speciile locale de păsări ascunse printre stuf.",
+            "en": "Discover the tranquil environment of this urban pond that serves as a vital green lung for the neighborhood, and try to spot the local bird species hiding among the reeds."
+          }
+        },
+        {
+          "name": {
+            "de": "Vegadammen (Drakulasjön)",
+            "hu": "Vegadammen (Drakulasjön)",
+            "ro": "Vegadammen (Lacul Dracula)",
+            "en": "Vegadammen (Drakulasjön)"
+          },
+          "coords": [
+            17.827914,
+            59.392978
+          ],
+          "category": "natural",
+          "arrive_at": "11:24",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Machen Sie einen friedlichen Spaziergang um diesen bezaubernd benannten See, der malerische Spiegelungen der umliegenden Bäume bietet, aber Sie sollten festes Schuhwerk tragen, da die Wege uneben sein können.",
+            "hu": "Tegyen egy békés sétát e bájos nevű tó körül, amely festői tükröződéseket kínál a környező fákról, bár érdemes strapabíró cipőt viselnie, mivel az ösvények egyenetlenek lehetnek.",
+            "ro": "Faceți o plimbare liniștită în jurul acestui lac cu nume fermecător, care oferă reflexii pitorești ale copacilor din jur, deși ar trebui să purtați încălțăminte rezistentă, deoarece potecile pot fi denivelate.",
+            "en": "Take a peaceful stroll around this charmingly named lake that offers picturesque reflections of the surrounding trees, though you should wear sturdy shoes as the paths can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Djupan",
+            "hu": "Djupan",
+            "ro": "Djupan",
+            "en": "Djupan"
+          },
+          "coords": [
+            17.887923,
+            59.428611
+          ],
+          "category": "natural",
+          "arrive_at": "13:39",
+          "stay_min": 60,
+          "hop_from_prev_min": 75,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in den dichten Naturwald, der dieses kleine Gewässer umgibt und einen perfekten Zufluchtsort vor dem Stadtleben bietet, also bringen Sie eine Picknickdecke mit, um sich auf dem Gras zu entspannen.",
+            "hu": "Merüljön el az ezt a kis víztömeget körülvevő sűrű természetes erdőben, amely tökéletes menekülést nyújt a városi élet elől, ezért hozzon magával egy pikniktakarót a fűben való pihenéshez.",
+            "ro": "Cufundați-vă în pădurea naturală densă care înconjoară această mică întindere de apă, oferind o evadare perfectă din viața orașului, așa că aduceți o pătură de picnic pentru a vă relaxa pe iarbă.",
+            "en": "Immerse yourself in the dense natural forest surrounding this small body of water, providing a perfect escape from city life, so bring a picnic blanket to relax on the grass."
+          }
+        },
+        {
+          "name": {
+            "de": "Säbysjön",
+            "hu": "Säbysjön",
+            "ro": "Lacul Säbysjön",
+            "en": "Säbysjön"
+          },
+          "coords": [
+            17.867441,
+            59.434071
+          ],
+          "category": "natural",
+          "arrive_at": "15:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an diesem weitläufigen See, der für seine reiche Artenvielfalt und wunderschöne Sonnenuntergänge bekannt ist, und halten Sie Ihre Kamera bereit, um den farbenfrohen Abendhimmel festzuhalten.",
+            "hu": "Fejezze be sétáját ennél a gazdag biológiai sokféleségéről és gyönyörű naplementéiről ismert hatalmas tónál, és készítse elő fényképezőgépét a színes esti égbolt megörökítéséhez.",
+            "ro": "Încheiați-vă plimbarea la acest lac extins, cunoscut pentru biodiversitatea sa bogată și priveliștile frumoase la apus, și asigurați-vă că aveți camera pregătită pentru a surprinde cerul colorat de seară.",
+            "en": "End your walk at this expansive lake known for its rich biodiversity and beautiful sunset views, and make sure to have your camera ready to capture the colorful evening sky."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt in der Nähe des Zentrums mit einem erfrischenden Halt am örtlichen Planschbecken, perfekt für ein entspanntes Tempo. Gegen Mittag verlagert sich die Reise in das üppige Grün rund um den Veddestadammen und den einzigartig benannten Vegadammen voller lokalem Charme. Der Nachmittag konzentriert sich auf die tiefe Natur mit einer längeren Wanderung zu den ruhigen und bewaldeten Rändern von Djupan. Der Abend bricht herein, wenn Sie den herrlichen Säbysjön erreichen, wo atemberaubende Spiegelungen des Sonnenuntergangs über dem weiten Wasser den perfekten Abschluss für die Wanderung des Tages bilden.",
+        "hu": "A délelőtt a központ közelében kezdődik, egy frissítő megállóval a helyi pancsolómedencénél, amely tökéletes a nyugodt tempó megadásához. Ahogy közeledik a dél, az utazás a Veddestadammen és az egyedi nevű, helyi bájjal teli Vegadammen körüli buja zöldbe tér át. A délután a mély természetre összpontosít, egy hosszabb túrával Djupan csendes és erdős peremeihez. Az este a csodálatos Säbysjön elérésekor köszönt ránk, ahol a hatalmas vízen tükröződő lenyűgöző naplemente tökéletes lezárása a napi túrának.",
+        "ro": "Dimineața începe aproape de centru, cu o oprire revigorantă la piscina locală pentru copii, perfectă pentru a stabili un ritm relaxat. Pe măsură ce se apropie amiaza, călătoria se mută în verdeața luxuriantă din jurul Veddestadammen și a iazului cu nume unic, Vegadammen, plin de farmec local. După-amiaza se concentrează pe natură profundă, cu o drumeție mai lungă către marginile liniștite și împădurite ale Djupan. Seara cade când ajungeți la magnificul Säbysjön, unde reflexiile uimitoare ale apusului peste apa întinsă oferă o concluzie perfectă pentru drumeția de azi.",
+        "en": "Your morning begins near the center with a refreshing stop at the local paddling pool, perfect for setting a relaxed pace. As midday approaches, the journey shifts into the lush greenery surrounding Veddestadammen and the uniquely named Vegadammen, full of local charm. The afternoon focuses on deep nature with a longer trek to the serene and forested edges of Djupan. Evening falls as you reach the magnificent Säbysjön, where stunning sunset reflections over the expansive water provide a perfect conclusion to the day's hike."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:13",
+      "total_km": 7.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kallhällsparkdammen",
+            "hu": "Kallhällsparkdammen",
+            "ro": "Iazul Kallhällsparkdammen",
+            "en": "Kallhällsparkdammen"
+          },
+          "coords": [
+            17.815732,
+            59.455909
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihr Fahrradabenteuer an diesem ruhigen Parkteich, der das Morgenlicht schön reflektiert, was ihn zu einem großartigen Ort für eine kurze Pause macht, bevor es weiter auf dem Weg geht.",
+            "hu": "Kezdje kerékpáros kalandját ennél a nyugodt parki tónál, amely szépen visszatükrözi a reggeli fényeket, így nagyszerű hely egy gyors pihenőre, mielőtt továbbhaladna az ösvényen.",
+            "ro": "Începeți aventura cu bicicleta la acest iaz liniștit din parc, care reflectă frumos lumina dimineții, fiind un loc minunat pentru o scurtă pauză înainte de a continua pe traseu.",
+            "en": "Start your biking adventure at this serene park pond that nicely reflects the morning light, making it a great spot for a quick break before heading further on the trail."
+          }
+        },
+        {
+          "name": {
+            "de": "Kallhällsbadet",
+            "hu": "Kallhällsbadet",
+            "ro": "Kallhällsbadet",
+            "en": "Kallhällsbadet"
+          },
+          "coords": [
+            17.792666,
+            59.452215
+          ],
+          "category": "recreational",
+          "arrive_at": "09:53",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die erfrischende Brise an diesem beliebten Badeort am See, wo der Sandstrand zum Entspannen einlädt, aber kommen Sie früh, um sich den besten Platz am Wasser zu sichern.",
+            "hu": "Élvezze a frissítő szellőt ezen a népszerű tóparti fürdőhelyen, ahol a homokos strand pihenésre csábít, de érkezzen korán, hogy biztosítsa a legjobb helyet a víz közelében.",
+            "ro": "Bucurați-vă de briza răcoroasă la acest loc popular de înot de pe malul lacului, unde plaja cu nisip vă invită să vă relaxați, dar ajungeți devreme pentru a vă asigura cel mai bun loc lângă apă.",
+            "en": "Enjoy the refreshing breeze at this popular swimming spot by the lake, where the sandy beach invites you to relax, but arrive early to secure the best spot near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Översjön",
+            "hu": "Översjön",
+            "ro": "Lacul Översjön",
+            "en": "Översjön"
+          },
+          "coords": [
+            17.844999,
+            59.455853
+          ],
+          "category": "natural",
+          "arrive_at": "11:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Radeln Sie in dieses atemberaubende Naturschutzgebiet mit unberührten Gewässern und üppigem Grün, wo ein Fernglas Ihre Chancen, seltene Wildtiere zu entdecken, erheblich erhöht.",
+            "hu": "Kerékpározzon el ebbe a lenyűgöző természeti rezervátumba, amely érintetlen vizekkel és buja növényzettel rendelkezik, ahol a távcső jelentősen növeli a ritka vadon élő állatok megfigyelésének esélyét.",
+            "ro": "Mergeți cu bicicleta spre această rezervație naturală uimitoare, cu ape curate și verdeață luxuriantă, unde aducerea unui binoclu va spori foarte mult șansele de a observa animale sălbatice rare.",
+            "en": "Cycle towards this stunning natural reserve area featuring pristine waters and lush greenery, where bringing binoculars will greatly enhance your chances of spotting rare wildlife."
+          }
+        },
+        {
+          "name": {
+            "de": "Säbysjön",
+            "hu": "Säbysjön",
+            "ro": "Lacul Säbysjön",
+            "en": "Säbysjön"
+          },
+          "coords": [
+            17.867441,
+            59.434071
+          ],
+          "category": "natural",
+          "arrive_at": "12:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem großen Gewässer an, das für seine friedliche Umgebung geschätzt wird, und suchen Sie sich einen bequemen Platz am Ufer, um den Panoramablick auf den See zu genießen.",
+            "hu": "Álljon meg ennél a békés környezetéről nagyra értékelt nagy víztömegnél, és keressen egy kényelmes helyet a parton, hogy élvezhesse a tó panorámáját.",
+            "ro": "Opriți-vă la această întindere mare de apă, apreciată pentru împrejurimile sale pașnice, și găsiți un loc confortabil pe mal pentru a vă bucura de vederile panoramice asupra lacului.",
+            "en": "Stop at this large body of water appreciated for its peaceful surroundings, and find a comfortable spot along the shore to take in the panoramic lake views."
+          }
+        },
+        {
+          "name": {
+            "de": "Djupan",
+            "hu": "Djupan",
+            "ro": "Djupan",
+            "en": "Djupan"
+          },
+          "coords": [
+            17.887923,
+            59.428611
+          ],
+          "category": "natural",
+          "arrive_at": "13:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihre Tour an diesem ruhigen, waldgesäumten Gewässer ausklingen, das einen isolierten Zufluchtsort darstellt; ideal für eine meditative Pause inmitten der stillen Natur.",
+            "hu": "Zárja túráját ezen a csendes, erdővel szegélyezett vizen, amely egy elszigetelt menedék; ideális egy meditatív pihenéshez a csendes természet közepén.",
+            "ro": "Încheiați turul la această apă liniștită mărginită de pădure, care reprezintă un refugiu izolat; ideal pentru o pauză meditativă în mijlocul naturii tăcute.",
+            "en": "Wind down your tour at this quiet forest-fringed water that represents an isolated haven; ideal for a meditative break amid the silent nature."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour mit einem kurzen Besuch am Kallhällsparkdammen und genießen Sie den Morgentau auf dem Gras. Bis zum Mittag radeln Sie an den Ufern von Kallhällsbadet entlang und atmen die frische Seeluft ein, bevor Sie in Richtung des unberührten Översjön weiterradeln. Die Nachmittagsfahrt führt Sie durch sanfte Landschaften direkt zur lebhaften Vogelwelt und den ruhigen Gewässern des Säbysjön. Die Reise endet am Abend anmutig am abgeschiedenen Djupan und bietet eine ruhige Waldkulisse, um die müden Beine auszuruhen.",
+        "hu": "Kezdje kerékpártúráját egy gyors látogatással a Kallhällsparkdammen-nél, élvezve a reggeli harmatot a füvön. Délre a Kallhällsbadet partján fog cirkálni, beszívva a friss tavi levegőt, mielőtt az érintetlen Översjön felé pedálozna. A délutáni túra dombos tájakon halad át, egyenesen a Säbysjön nyüzsgő madárvilágához és nyugodt vizeihez. Az utazás kecsesen véget ér az eldugott Djupan-nál este, amely csendes erdei hátteret kínál a fáradt lábak pihentetésére.",
+        "ro": "Începeți-vă turul de ciclism cu o scurtă vizită la Kallhällsparkdammen, bucurându-vă de roua dimineții pe iarbă. Până la amiază, veți merge de-a lungul țărmurilor de la Kallhällsbadet, respirând aerul proaspăt al lacului înainte de a pedala către Översjön. Plimbarea de după-amiază vă duce prin peisaje unduitoare direct către păsările vibrante și apele calme ale Säbysjön. Călătoria se termină cu grație la izolatul Djupan seara, oferind un fundal liniștit de pădure pentru a vă odihni picioarele obosite.",
+        "en": "Kick off your cycling tour with a quick visit to Kallhällsparkdammen, enjoying the morning dew on the grass. By midday, you'll be cruising along the shores of Kallhällsbadet, breathing in the fresh lake air before pedaling towards the pristine Översjön. The afternoon ride takes you past rolling landscapes directly to the vibrant birdlife and calm waters of Säbysjön. The journey gracefully ends at the secluded Djupan in the evening, offering a quiet forest backdrop to rest your weary legs."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:02",
+      "total_km": 21.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ärvinge Groddamm",
+            "hu": "Ärvinge Groddamm",
+            "ro": "Iazul Ärvinge Groddamm",
+            "en": "Ärvinge Groddamm"
+          },
+          "coords": [
+            17.931062,
+            59.396953
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie den verborgenen ökologischen Schatz dieses Froschteichs, der die lokale Amphibienpopulation unterstützt, und treten Sie leise auf, um die empfindlichen Kreaturen am Wasser nicht zu verscheuchen.",
+            "hu": "Fedezze fel ennek a békás tónak a rejtett ökológiai kincsét, amely támogatja a helyi kétéltűek életét, és lépjen halkan, hogy ne ijessze el a vízparton pihenő kényes élőlényeket.",
+            "ro": "Descoperiți comoara ecologică ascunsă a acestui iaz de broaște care susține viața amfibienilor locali și pășiți încet pentru a evita sperierea creaturilor delicate care se odihnesc lângă apă.",
+            "en": "Discover the hidden ecological treasure of this frog pond that supports local amphibian life, and step softly to avoid scaring away the delicate creatures resting by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Ravalen",
+            "hu": "Ravalen",
+            "ro": "Lacul Ravalen",
+            "en": "Ravalen"
+          },
+          "coords": [
+            17.908302,
+            59.45009
+          ],
+          "category": "natural",
+          "arrive_at": "09:58",
+          "stay_min": 60,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem wunderschönen See, der hervorragende Naturpfade entlang seiner Ufer bietet, und vergessen Sie nicht, eine leichte Jacke einzupacken, da der Wind vom Wasser recht kühl sein kann.",
+            "hu": "Vezessen át ehhez a gyönyörű tóhoz, amely kiváló tanösvényeket kínál a partjai mentén, és ne felejtsen el egy könnyű kabátot pakolni, mivel a vízről fújó szél meglehetősen hűvös lehet.",
+            "ro": "Conduceți către acest lac frumos care oferă trasee naturale excelente de-a lungul malurilor sale și nu uitați să împachetați o jachetă ușoară, deoarece vânturile de pe apă pot fi destul de reci.",
+            "en": "Drive over to this beautiful lake offering excellent nature trails along its shores, and don't forget to pack a light jacket as the winds coming off the water can be quite cool."
+          }
+        },
+        {
+          "name": {
+            "de": "Översjön",
+            "hu": "Översjön",
+            "ro": "Lacul Översjön",
+            "en": "Översjön"
+          },
+          "coords": [
+            17.844999,
+            59.455853
+          ],
+          "category": "natural",
+          "arrive_at": "11:07",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Fahrt zu diesem glitzernden Gewässer inmitten dichter Wälder, um ein fantastisches Fotomotiv in der Mitte des Tages zu erleben.",
+            "hu": "Tegyen egy rövid utazást ehhez a sűrű erdők között fekvő csillogó vízhez, hogy fantasztikus fotótémát kapjon a nap közepén.",
+            "ro": "Faceți o scurtă călătorie spre această apă scânteietoare așezată printre păduri dense pentru o oportunitate fantastică de fotografie în mijlocul zilei.",
+            "en": "Take a short drive to this sparkling body of water set among dense forests for a fantastic photography opportunity in the middle of the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Kallhällsbadet",
+            "hu": "Kallhällsbadet",
+            "ro": "Kallhällsbadet",
+            "en": "Kallhällsbadet"
+          },
+          "coords": [
+            17.792666,
+            59.452215
+          ],
+          "category": "recreational",
+          "arrive_at": "12:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses beliebte Seebad, um ein erfrischendes Bad zu nehmen oder sich im Sand zu entspannen; vergessen Sie nicht, Bargeld für Eiscreme vom Kiosk bereitzuhalten.",
+            "hu": "Látogasson el erre a népszerű tóparti strandra, ahol felfrissülhet a vízben vagy pihenhet a homokban; ne felejtsen el készpénzt hozni a kioszkból származó fagylalthoz.",
+            "ro": "Vizitați această baie populară de pe lac pentru o scufundare răcoritoare sau pentru a vă relaxa pe nisip; nu uitați să aveți numerar la îndemână pentru înghețată de la chioșc.",
+            "en": "Visit this popular lakeside bath for a refreshing dip or to lounge on the sand; don't forget to have cash handy for ice cream from the kiosk."
+          }
+        },
+        {
+          "name": {
+            "de": "Lövstabadet",
+            "hu": "Lövstabadet",
+            "ro": "Lövstabadet",
+            "en": "Lövstabadet"
+          },
+          "coords": [
+            17.780714,
+            59.387861
+          ],
+          "category": "recreational",
+          "arrive_at": "13:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Ausflug an diesem familienfreundlichen Strand mit tollen Bademöglichkeiten und herrlichen Aussichten, wo ein Snack von einem nahegelegenen Kiosk die perfekte Art ist, sich zu stärken.",
+            "hu": "Fejezze be utazását ezen a családbarát strandon, amely nagyszerű fürdőzési lehetőségeket és szép kilátást kínál, ahol egy közeli kioszkból vásárolt falatozás a tökéletes módja a feltöltődésnek.",
+            "ro": "Încheiați-vă călătoria la această plajă prietenoasă cu familiile, cu facilități excelente de înot și priveliști minunate, unde o gustare de la un chioșc din apropiere este modalitatea perfectă de a vă reîncărca.",
+            "en": "Conclude your trip at this family-friendly beach featuring great swimming facilities and lovely views, where grabbing a snack from a nearby kiosk is the perfect way to recharge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Fahrabenteuer beginnt am Ärvinge Groddamm, wo Sie gleich morgens das empfindliche lokale Ökosystem bewundern können. Wenn der Mittag naht, navigieren Sie bequem zum malerischen Ravalen, genießen kurze Spaziergänge entlang seiner wunderschön gepflegten Ufer, bevor Sie einen kurzen Sprung zum Översjön machen. Am Nachmittag steht ein Besuch des beliebten Kallhällsbadet auf dem Programm, wo Sie sich die Beine vertreten und vielleicht Ihre Zehen ins Wasser tauchen können. Der Tag findet am Lövstabadet einen wunderbaren Abschluss, wo Sie am Strand entspannen können, während das Abendlicht den Himmel malt.",
+        "hu": "Vezetési kalandja az Ärvinge Groddamm-nél kezdődik, megcsodálva a kényes helyi ökoszisztémát már kora reggel. A dél közeledtével könnyedén navigálhat a festői Ravalen felé, élvezve a rövid sétákat a gyönyörűen karbantartott partokon, mielőtt egy gyors ugrással az Översjön-hez érne. A délután kiemelt eseménye a népszerű Kallhällsbadet meglátogatása, ahol kinyújtóztathatja a lábát, és talán meg is márthatja lábujjait a vízben. A nap csodálatosan zárul a Lövstabadet-nél, a tengerparton pihenve, miközben az esti fények megfestik az eget.",
+        "ro": "Aventura cu mașina începe la Ärvinge Groddamm, admirând delicatul ecosistem local chiar de dimineață. La sosirea amiezii, navigați cu ușurință spre pitorescul Ravalen, bucurându-vă de scurte plimbări de-a lungul malurilor sale frumos întreținute înainte de un salt rapid către Översjön. După-amiaza evidențiază o vizită la popularul Kallhällsbadet, unde vă puteți întinde picioarele și poate vă puteți scufunda degetele în apă. Ziua se încheie minunat la Lövstabadet, relaxându-vă pe plajă în timp ce lumina serii pictează cerul.",
+        "en": "Your driving adventure starts at Ärvinge Groddamm, admiring the delicate local ecosystem right from the morning. As midday arrives, you easily navigate towards the picturesque Ravalen, enjoying brief strolls along its beautifully maintained shores before a quick hop to Översjön. The afternoon highlights a visit to the popular Kallhällsbadet, where you can stretch your legs and perhaps dip your toes in the water. The day wraps up wonderfully at Lövstabadet, relaxing on the beach as the evening light paints the sky."
+      }
+    }
+  }
+}

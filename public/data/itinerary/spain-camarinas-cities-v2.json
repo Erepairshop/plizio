@@ -1,0 +1,497 @@
+{
+  "city_id": "spain-camarinas-cities-v2",
+  "anchor": {
+    "name": "Camariñas",
+    "coords": [
+      -9.18256,
+      43.13106
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo do Encaixe",
+            "hu": "Museo do Encaixe",
+            "ro": "Museo do Encaixe",
+            "en": "Museo do Encaixe"
+          },
+          "coords": [
+            -9.180156,
+            43.129987
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die feine Handwerkskunst der Klöppelspitze, die diese Region berühmt machte, und kaufen Sie unbedingt ein kleines Souvenir als Erinnerung.",
+            "hu": "Csodálja meg a régiót híressé tevő finom csipkeverés művészetét, és mindenképpen vásároljon egy apró, kézzel készített ajándékot emlékbe.",
+            "ro": "Admirați arta fină a dantelei cu ciocănele care a făcut faimoasă această regiune și asigurați-vă că achiziționați un mic suvenir lucrat manual.",
+            "en": "Admire the fine craftsmanship of the bobbin lace that made this region famous, and make sure to purchase a small handmade souvenir to remember your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Capela da Nosa Señora do Carme",
+            "hu": "Capela da Nosa Señora do Carme",
+            "ro": "Capela da Nosa Señora do Carme",
+            "en": "Capela da Nosa Señora do Carme"
+          },
+          "coords": [
+            -9.184018,
+            43.129629
+          ],
+          "category": "religious",
+          "arrive_at": "10:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Diese bescheidene Kapelle ist den Schutzpatronen der Fischer gewidmet; besuchen Sie sie am frühen Morgen, um die friedliche Stille am Meer zu genießen.",
+            "hu": "Ez a szerény kápolna a halászok védőszentjének állít emléket; érdemes kora reggel idelátogatni, hogy kiélvezze a tengerparti nyugalmat és csendet.",
+            "ro": "Această capelă modestă este dedicată sfinților patroni ai pescarilor; vizitați-o dimineața devreme pentru a vă bucura de liniștea pașnică de lângă mare.",
+            "en": "This modest chapel is dedicated to the patron saints of fishermen; visit it early in the morning to fully enjoy the peaceful coastal silence and atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de San Xurxo de Camariñas",
+            "hu": "Igrexa de San Xurxo de Camariñas",
+            "ro": "Igrexa de San Xurxo de Camariñas",
+            "en": "Igrexa de San Xurxo de Camariñas"
+          },
+          "coords": [
+            -9.183097,
+            43.134602
+          ],
+          "category": "religious",
+          "arrive_at": "11:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die historische Kirche beeindruckt mit ihrer authentischen galicischen Architektur; achten Sie auf die steinernen Details und kleiden Sie sich respektvoll.",
+            "hu": "A történelmi templom lenyűgöző autentikus galíciai építészetével; figyelje meg a kőfaragásokat, és ügyeljen a megfelelő, visszafogott öltözködésre.",
+            "ro": "Biserica istorică impresionează prin arhitectura sa galiciană autentică; observați detaliile din piatră și asigurați-vă că sunteți îmbrăcați respectuos.",
+            "en": "The historic church impresses with its authentic Galician architecture; take note of the fine stone details and remember to dress modestly inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Cedeira",
+            "hu": "Praia de Cedeira",
+            "ro": "Praia de Cedeira",
+            "en": "Praia de Cedeira"
+          },
+          "coords": [
+            -9.17973,
+            43.133704
+          ],
+          "category": "recreational",
+          "arrive_at": "12:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie am sauberen Sand dieses malerischen Strandes, der ideal für eine kurze Pause ist, aber packen Sie unbedingt eine windfeste Jacke ein.",
+            "hu": "Pihenjen meg a festői strand tiszta homokján, amely tökéletes egy rövid szünetre, de ne felejtsen el egy szélálló kabátot is magával vinni.",
+            "ro": "Relaxați-vă pe nisipul curat al acestei plaje pitorești, ideală pentru o scurtă pauză, dar nu uitați să luați cu dumneavoastră o jachetă rezistentă la vânt.",
+            "en": "Relax on the clean sands of this picturesque beach, which is ideal for a short break, but make sure to pack a windproof jacket just in case."
+          }
+        },
+        {
+          "name": {
+            "de": "Batería do Soberano",
+            "hu": "Batería do Soberano",
+            "ro": "Batería do Soberano",
+            "en": "Batería do Soberano"
+          },
+          "coords": [
+            -9.185131,
+            43.123851
+          ],
+          "category": "historical",
+          "arrive_at": "14:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten militärischen Festungsmauern mit Blick auf die Bucht und tragen Sie festes Schuhwerk, da das Gelände hier recht uneben sein kann.",
+            "hu": "Fedezze fel az öbölre néző régi katonai erődítmény romjait, és viseljen kényelmes, zárt cipőt, mivel a terep ezen a környéken meglehetősen egyenetlen.",
+            "ro": "Explorați zidurile vechii fortărețe militare cu vedere la golf și purtați încălțăminte robustă, deoarece terenul poate fi destul de accidentat aici.",
+            "en": "Explore the old military fortress walls overlooking the bay, and be sure to wear sturdy shoes as the coastal terrain around here can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Ría de Camariñas",
+            "hu": "Ría de Camariñas",
+            "ro": "Ría de Camariñas",
+            "en": "Ría de Camariñas"
+          },
+          "coords": [
+            -9.187944,
+            43.115946
+          ],
+          "category": "landmark",
+          "arrive_at": "15:35",
+          "stay_min": 55,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende Aussicht auf die weite Flussmündung; bringen Sie ein Fernglas mit, um die heimische Vogelwelt besser beobachten zu können.",
+            "hu": "Élvezze a tágas tölcsértorkolatra nyíló lélegzetelállító kilátást; érdemes távcsövet hozni a helyi madárvilág megfigyeléséhez.",
+            "ro": "Bucurați-vă de priveliștile uluitoare asupra estuarului vast; aduceți un binoclu pentru a putea observa mai bine varietatea de păsări locale.",
+            "en": "Enjoy the breathtaking views out over the vast estuary; bring along a pair of binoculars to better observe the fascinating local birdlife along the shore."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Camariñas und tauchen Sie im Museum in die reiche Tradition der Klöppelspitze ein.\nGegen Mittag spazieren Sie zu den charmanten historischen Kirchen, die tief mit der lokalen Seefahrerkultur verwurzelt sind.\nDer Nachmittag führt Sie an den entspannten Sandstrand, wo Sie die frische Brise und das sanfte Rauschen des Atlantiks genießen.\nLassen Sie den Tag an der Küste ausklingen, erkunden Sie die alte Festung und bewundern Sie den Sonnenuntergang über der Bucht.",
+        "hu": "Kezdje a napot Camariñas szívében, és merüljön el a híres csipkeverés gazdag hagyományában a helyi múzeumban.\nDélben sétáljon el a hangulatos történelmi templomokhoz, amelyek mélyen gyökereznek a helyi tengerészkultúrában.\nA délután a pihentető homokos partra vezeti, ahol élvezheti a friss szellőt és az Atlanti-óceán lágy hullámzását.\nZárja a napot a tengerparton az ősi erődítmény felfedezésével, majd csodálja meg a naplementét a festői öböl felett.",
+        "ro": "Începeți ziua în inima orașului Camariñas, explorând bogata tradiție a dantelei cu ciocănele la muzeul local.\nLa amiază, plimbați-vă spre bisericile istorice fermecătoare, profund înrădăcinate în cultura maritimă locală.\nDupă-amiaza vă conduce pe plaja relaxantă de nisip, unde vă puteți bucura de briza proaspătă a Atlanticului.\nÎncheiați ziua pe coastă explorând vechea fortăreață și admirând un apus de soare superb deasupra golfului estuarului.",
+        "en": "Start your day in the heart of Camariñas by immersing yourself in the rich local tradition of bobbin lace at the museum.\nBy midday, take a pleasant walk to the charming historic churches that are deeply rooted in the maritime culture.\nYour afternoon brings you to a relaxing sandy beach where you can enjoy the fresh breeze and gentle Atlantic waves.\nWind down your day along the coast, exploring the old military battery and watching the sunset cast colors over the bay."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:10",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Igrexa de San Xurxo de Camariñas",
+            "hu": "Igrexa de San Xurxo de Camariñas",
+            "ro": "Igrexa de San Xurxo de Camariñas",
+            "en": "Igrexa de San Xurxo de Camariñas"
+          },
+          "coords": [
+            -9.183097,
+            43.134602
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Die historische Kirche beeindruckt mit ihrer authentischen galicischen Architektur; achten Sie auf die steinernen Details und kleiden Sie sich respektvoll.",
+            "hu": "A történelmi templom lenyűgöző autentikus galíciai építészetével; figyelje meg a kőfaragásokat, és ügyeljen a megfelelő, visszafogott öltözködésre.",
+            "ro": "Biserica istorică impresionează prin arhitectura sa galiciană autentică; observați detaliile din piatră și asigurați-vă că sunteți îmbrăcați respectuos.",
+            "en": "The historic church impresses with its authentic Galician architecture; take note of the fine stone details and remember to dress modestly inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo do Encaixe",
+            "hu": "Museo do Encaixe",
+            "ro": "Museo do Encaixe",
+            "en": "Museo do Encaixe"
+          },
+          "coords": [
+            -9.180156,
+            43.129987
+          ],
+          "category": "museum",
+          "arrive_at": "09:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die feine Handwerkskunst der Klöppelspitze, die diese Region berühmt machte, und kaufen Sie unbedingt ein kleines Souvenir als Erinnerung.",
+            "hu": "Csodálja meg a régiót híressé tevő finom csipkeverés művészetét, és mindenképpen vásároljon egy apró, kézzel készített ajándékot emlékbe.",
+            "ro": "Admirați arta fină a dantelei cu ciocănele care a făcut faimoasă această regiune și asigurați-vă că achiziționați un mic suvenir lucrat manual.",
+            "en": "Admire the fine craftsmanship of the bobbin lace that made this region famous, and make sure to purchase a small handmade souvenir to remember your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Cetaria",
+            "hu": "Cetaria",
+            "ro": "Cetaria",
+            "en": "Cetaria"
+          },
+          "coords": [
+            -9.192392,
+            43.122625
+          ],
+          "category": "historical",
+          "arrive_at": "11:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese traditionellen Meeresfrüchte-Becken direkt an der rauen Küste und besuchen Sie sie bei Ebbe, um die Strukturen am besten zu sehen.",
+            "hu": "Fedezze fel ezeket a hagyományos, tengerparti ráknevelő medencéket, és a legjobb élmény érdekében időzítse a látogatást apály idejére.",
+            "ro": "Descoperiți aceste bazine tradiționale pentru fructe de mare situate pe coasta stâncoasă și vizitați-le la reflux pentru a vedea cel mai bine structurile.",
+            "en": "Discover these traditional seafood holding pools built into the rocky coast, and plan your visit during low tide to see the stone structures clearly."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermida da Virxe do Monte",
+            "hu": "Ermida da Virxe do Monte",
+            "ro": "Ermida da Virxe do Monte",
+            "en": "Ermida da Virxe do Monte"
+          },
+          "coords": [
+            -9.203753,
+            43.13157
+          ],
+          "category": "religious",
+          "arrive_at": "13:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Diese abgelegene Einsiedelei bietet eine mystische Atmosphäre; der kurze Aufstieg lohnt sich, also nehmen Sie sich Zeit und atmen Sie die frische Meeresluft.",
+            "hu": "Ez a félreeső remetelak misztikus hangulatot áraszt; a rövid kapaszkodó megéri az erőfeszítést, így szánjon rá időt, és élvezze a friss tengeri levegőt.",
+            "ro": "Acest schit izolat oferă o atmosferă mistică; scurta urcare merită din plin, așa că luați-vă timp și respirați aerul proaspăt și sărat al mării.",
+            "en": "This isolated hermitage offers a mystical atmosphere on the hill; the short climb is well worth it, so take your time and breathe in the fresh sea air."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Lago",
+            "hu": "Praia de Lago",
+            "ro": "Praia de Lago",
+            "en": "Praia de Lago"
+          },
+          "coords": [
+            -9.198106,
+            43.131578
+          ],
+          "category": "recreational",
+          "arrive_at": "13:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein ruhiger und familienfreundlicher Strandabschnitt, ideal für ein Picknick am Nachmittag; vergessen Sie nicht, etwas Sonnencreme und Snacks einzupacken.",
+            "hu": "Nyugodt, családbarát partszakasz, amely tökéletes egy délutáni piknikhez; ne felejtsen el naptejet és némi harapnivalót is csomagolni az útra.",
+            "ro": "O plajă liniștită, potrivită pentru familii și ideală pentru un picnic după-amiaza; nu uitați să împachetați o cremă de protecție solară și câteva gustări.",
+            "en": "A quiet and family-friendly stretch of beach that is ideal for an afternoon picnic; remember to pack some sunscreen, water, and light local snacks."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradoiro Alto da Vela",
+            "hu": "Miradoiro Alto da Vela",
+            "ro": "Miradoiro Alto da Vela",
+            "en": "Miradoiro Alto da Vela"
+          },
+          "coords": [
+            -9.202106,
+            43.144577
+          ],
+          "category": "natural",
+          "arrive_at": "15:15",
+          "stay_min": 55,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der Panoramablick von diesem Aussichtspunkt ist der beste der Region; kommen Sie am späten Nachmittag hierher, um fantastische Fotos im goldenen Licht zu machen.",
+            "hu": "Ebből a kilátóból nyílik a régió legszebb panorámája; érdemes a késő délutáni órákban érkezni, hogy csodálatos fotókat készíthessen a lágy fényekben.",
+            "ro": "Vederea panoramică de la acest punct de belvedere este cea mai bună din regiune; veniți aici după-amiaza târziu pentru a face fotografii fantastice în lumina blândă.",
+            "en": "The panoramic view from this vantage point is the best in the region; arrive in the late afternoon to capture fantastic photos in the golden hour light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet morgens im Zentrum bei der Kirche, gefolgt von einem Besuch im faszinierenden Spitzenmuseum.\nAm Mittag radeln Sie entspannt entlang der Küste, um die historischen Meeresfrüchte-Becken in den Felsen zu entdecken.\nDer Nachmittag wird sportlicher mit einer Fahrt zur einsamen Kapelle und einer anschließenden Pause am malerischen Strand.\nAm frühen Abend erreichen Sie den höchsten Aussichtspunkt, der Sie mit einem grandiosen Panorama über das weite Meer belohnt.",
+        "hu": "Kerékpártúrája reggel a központban, a templomnál indul, amelyet a lenyűgöző csipkemúzeum meglátogatása követ.\nDélben lazán tekerjen a part mentén, és fedezze fel a sziklákba vájt, történelmi ráknevelő medencéket.\nA délután egy kis kihívást tartogat a magányos kápolnához vezető úttal, majd egy frissítő pihenővel a strandon.\nKora este felér a legmagasabb kilátóhoz, amely lenyűgöző, végtelen óceáni panorámával jutalmazza meg fáradozásait.",
+        "ro": "Turul pe bicicletă începe dimineața în centru, la biserică, urmat de o vizită fascinantă la muzeul dantelei.\nLa prânz, pedalați relaxat de-a lungul coastei pentru a descoperi bazinele istorice de fructe de mare din stânci.\nDupă-amiaza devine mai activă cu o plimbare spre capela izolată și o pauză binemeritată pe o plajă pitorească.\nSpre seară, ajungeți la cel mai înalt punct de belvedere, care vă recompensează cu o panoramă grandioasă a oceanului.",
+        "en": "Your cycling tour begins in the morning at the central church, followed by a fascinating visit to the local lace museum.\nAt midday, pedal at a relaxed pace along the beautiful coastline to discover the historic seafood holding pools.\nThe afternoon gets more active as you ride toward the isolated hill chapel, followed by a restful break on the beach.\nIn the early evening, you will reach the highest viewpoint, rewarding your efforts with a magnificent ocean panorama."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:58",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Castro de Mourín",
+            "hu": "Castro de Mourín",
+            "ro": "Castro de Mourín",
+            "en": "Castro de Mourín"
+          },
+          "coords": [
+            -9.183685,
+            43.143668
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Die alten keltischen Siedlungsreste zeugen von einer reichen Geschichte; gehen Sie vorsichtig auf den Pfaden, um die empfindlichen archäologischen Spuren zu schützen.",
+            "hu": "Az ősi kelta település maradványai gazdag történelemről mesélnek; sétáljon óvatosan az ösvényeken, hogy megóvja a törékeny régészeti emlékeket.",
+            "ro": "Vestigiile vechii așezări celtice stau mărturie unei istorii bogate; mergeți cu grijă pe poteci pentru a proteja urmele arheologice delicate.",
+            "en": "The ancient Celtic settlement remains showcase a rich history; walk carefully along the designated paths to help protect the delicate archaeological traces."
+          }
+        },
+        {
+          "name": {
+            "de": "O Castro",
+            "hu": "O Castro",
+            "ro": "O Castro",
+            "en": "O Castro"
+          },
+          "coords": [
+            -9.175047,
+            43.137197
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ein weiterer faszinierender historischer Ort auf einer Anhöhe; ein Spazierstock kann beim Erkunden des unebenen Geländes sehr hilfreich sein.",
+            "hu": "Egy újabb lenyűgöző történelmi helyszín a magaslaton; egy túrabot nagyszerű segítséget nyújthat az egyenetlen, füves terep felfedezése során.",
+            "ro": "Un alt sit istoric fascinant situat pe o înălțime; un baston de drumeție poate fi foarte util atunci când explorați terenul accidentat din jur.",
+            "en": "Another fascinating historic site positioned on a hill; bringing a walking stick can be quite helpful when exploring the uneven and grassy terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Area da Vila",
+            "hu": "Praia de Area da Vila",
+            "ro": "Praia de Area da Vila",
+            "en": "Praia de Area da Vila"
+          },
+          "coords": [
+            -9.177281,
+            43.137903
+          ],
+          "category": "recreational",
+          "arrive_at": "11:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Dieser städtische Strand ist leicht zugänglich und ideal für einen Spaziergang im weichen Sand; lassen Sie Ihre Schuhe am Rand stehen und spüren Sie das Wasser.",
+            "hu": "Ez a városi strand könnyen megközelíthető, és ideális egy sétához a puha homokban; hagyja a cipőjét a parton, és érezze a hűsítő vizet a lábujjai között.",
+            "ro": "Această plajă urbană este ușor accesibilă și ideală pentru o plimbare pe nisipul fin; lăsați-vă încălțămintea la margine și simțiți apa mării.",
+            "en": "This urban beach is easily accessible and ideal for a stroll on the soft sand; leave your shoes at the edge and feel the cool water on your bare feet."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo do Encaixe",
+            "hu": "Museo do Encaixe",
+            "ro": "Museo do Encaixe",
+            "en": "Museo do Encaixe"
+          },
+          "coords": [
+            -9.180156,
+            43.129987
+          ],
+          "category": "museum",
+          "arrive_at": "13:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die feine Handwerkskunst der Klöppelspitze, die diese Region berühmt machte, und kaufen Sie unbedingt ein kleines Souvenir als Erinnerung.",
+            "hu": "Csodálja meg a régiót híressé tevő finom csipkeverés művészetét, és mindenképpen vásároljon egy apró, kézzel készített ajándékot emlékbe.",
+            "ro": "Admirați arta fină a dantelei cu ciocănele care a făcut faimoasă această regiune și asigurați-vă că achiziționați un mic suvenir lucrat manual.",
+            "en": "Admire the fine craftsmanship of the bobbin lace that made this region famous, and make sure to purchase a small handmade souvenir to remember your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Batería do Soberano",
+            "hu": "Batería do Soberano",
+            "ro": "Batería do Soberano",
+            "en": "Batería do Soberano"
+          },
+          "coords": [
+            -9.185131,
+            43.123851
+          ],
+          "category": "historical",
+          "arrive_at": "14:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten militärischen Festungsmauern mit Blick auf die Bucht und tragen Sie festes Schuhwerk, da das Gelände hier recht uneben sein kann.",
+            "hu": "Fedezze fel az öbölre néző régi katonai erődítmény romjait, és viseljen kényelmes, zárt cipőt, mivel a terep ezen a környéken meglehetősen egyenetlen.",
+            "ro": "Explorați zidurile vechii fortărețe militare cu vedere la golf și purtați încălțăminte robustă, deoarece terenul poate fi destul de accidentat aici.",
+            "en": "Explore the old military fortress walls overlooking the bay, and be sure to wear sturdy shoes as the coastal terrain around here can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermida da Virxe do Monte",
+            "hu": "Ermida da Virxe do Monte",
+            "ro": "Ermida da Virxe do Monte",
+            "en": "Ermida da Virxe do Monte"
+          },
+          "coords": [
+            -9.203753,
+            43.13157
+          ],
+          "category": "religious",
+          "arrive_at": "16:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Diese abgelegene Einsiedelei bietet eine mystische Atmosphäre; der kurze Aufstieg lohnt sich, also nehmen Sie sich Zeit und atmen Sie die frische Meeresluft.",
+            "hu": "Ez a félreeső remetelak misztikus hangulatot áraszt; a rövid kapaszkodó megéri az erőfeszítést, így szánjon rá időt, és élvezze a friss tengeri levegőt.",
+            "ro": "Acest schit izolat oferă o atmosferă mistică; scurta urcare merită din plin, așa că luați-vă timp și respirați aerul proaspăt și sărat al mării.",
+            "en": "This isolated hermitage offers a mystical atmosphere on the hill; the short climb is well worth it, so take your time and breathe in the fresh sea air."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradoiro Alto da Vela",
+            "hu": "Miradoiro Alto da Vela",
+            "ro": "Miradoiro Alto da Vela",
+            "en": "Miradoiro Alto da Vela"
+          },
+          "coords": [
+            -9.202106,
+            43.144577
+          ],
+          "category": "natural",
+          "arrive_at": "17:03",
+          "stay_min": 55,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Der Panoramablick von diesem Aussichtspunkt ist der beste der Region; kommen Sie am späten Nachmittag hierher, um fantastische Fotos im goldenen Licht zu machen.",
+            "hu": "Ebből a kilátóból nyílik a régió legszebb panorámája; érdemes a késő délutáni órákban érkezni, hogy csodálatos fotókat készíthessen a lágy fényekben.",
+            "ro": "Vederea panoramică de la acest punct de belvedere este cea mai bună din regiune; veniți aici după-amiaza târziu pentru a face fotografii fantastice în lumina blândă.",
+            "en": "The panoramic view from this vantage point is the best in the region; arrive in the late afternoon to capture fantastic photos in the golden hour light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autofahrt beginnt mit der Erkundung der alten keltischen Festungen, wo Sie in die ferne Vergangenheit eintauchen.\nGegen Mittag fahren Sie hinunter an die Küste, machen einen kurzen Strandspaziergang und besuchen das Spitzenmuseum.\nDer Nachmittag steht im Zeichen der maritimen Verteidigung, während Sie die Überreste der alten Küstenbatterie erkunden.\nZum Abschluss des Tages fahren Sie zur abgelegenen Kapelle und dem höchsten Aussichtspunkt für ein spektakuläres Finale.",
+        "hu": "Autós utazása az ősi kelta erődítmények felfedezésével kezdődik, ahol bepillantást nyerhet a távoli múltba.\nDél körül hajtson le a tengerparthoz, tegyen egy rövid sétát a homokban, majd látogasson el a híres csipkemúzeumba.\nA délután a tengeri védelemről szól, miközben bejárja a part menti régi katonai üteg romjait.\nA nap végén vezessen el a félreeső hegyi kápolnához és a legmagasabb kilátóhoz egy igazán látványos fináléért.",
+        "ro": "Călătoria cu mașina începe prin explorarea vechilor fortărețe celtice, unde veți plonja direct în trecutul îndepărtat.\nLa prânz, conduceți spre coastă, faceți o scurtă plimbare pe plajă și vizitați renumitul muzeu local de dantelă.\nDupă-amiaza este dedicată apărării maritime, timp în care explorați rămășițele vechii baterii de coastă.\nLa sfârșitul zilei, conduceți spre capela izolată și punctul de belvedere înalt pentru un final cu adevărat spectaculos.",
+        "en": "Your road trip begins by exploring the ancient Celtic settlement remains, letting you step back into the distant past.\nAround midday, drive down to the coastline for a short beach stroll before visiting the famous local bobbin lace museum.\nThe afternoon focuses on maritime history as you wander around the ruins of the old coastal artillery battery.\nAs the day closes, drive up to the isolated hill chapel and the highest viewpoint for a truly spectacular scenic finale."
+      }
+    }
+  }
+}

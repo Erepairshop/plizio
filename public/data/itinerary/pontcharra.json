@@ -1,0 +1,520 @@
+{
+  "city_id": "pontcharra",
+  "anchor": {
+    "name": "Pontcharra",
+    "coords": [
+      6.0153,
+      45.4331
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 5.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Gare de Pontcharra",
+            "hu": "Gare de Pontcharra",
+            "ro": "Gare de Pontcharra",
+            "en": "Gare de Pontcharra"
+          },
+          "coords": [
+            6.007649,
+            45.43423
+          ],
+          "category": "station",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie am historischen Bahnhof, einem wichtigen Verkehrsknotenpunkt der Region, wo Sie vorab am Kiosk ein Ticket für spätere Fahrten kaufen sollten.",
+            "hu": "Kezdje a túrát a történelmi vasútállomáson, amely a régió fontos közlekedési csomópontja, és ahol érdemes előre megvenni a jegyet a későbbi utazásokhoz.",
+            "ro": "Începeți turul la gara istorică, un important nod de transport regional, unde este recomandat să cumpărați un bilet în avans pentru călătoriile ulterioare.",
+            "en": "Begin your journey at the historic railway station, a vital transport hub for the region, where you should purchase a ticket in advance for later trips."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Bréda",
+            "hu": "Le Bréda",
+            "ro": "Le Bréda",
+            "en": "Le Bréda"
+          },
+          "coords": [
+            6.005556,
+            45.441389
+          ],
+          "category": "natural",
+          "arrive_at": "09:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang des Flusses Le Bréda, dessen klare Wasser die lokale Natur prägen, und achten Sie auf das rutschige Ufer bei den malerischen Brücken.",
+            "hu": "Sétáljon végig a Le Bréda folyó mentén, melynek tiszta vize meghatározza a helyi természetet, és ügyeljen a csúszós partra a festői hidak közelében.",
+            "ro": "Plimbați-vă de-a lungul râului Le Bréda, ale cărui ape limpezi modelează natura locală, și aveți grijă la malurile alunecoase de lângă podurile pitorești.",
+            "en": "Walk along the Le Bréda river, whose clear waters shape the local natural environment, and watch out for slippery banks near the picturesque little bridges."
+          }
+        },
+        {
+          "name": {
+            "de": "Plan d’eau des Lônes",
+            "hu": "Plan d’eau des Lônes",
+            "ro": "Plan d’eau des Lônes",
+            "en": "Plan d’eau des Lônes"
+          },
+          "coords": [
+            6.008203,
+            45.447767
+          ],
+          "category": "natural",
+          "arrive_at": "11:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre an diesem idyllischen See, der perfekte Bedingungen für eine kleine Auszeit bietet, wenn Sie ein Picknick mitbringen.",
+            "hu": "Élvezze a békés hangulatot ennél az idilli tónál, amely tökéletes feltételeket biztosít egy kis pihenéshez, ha magával hoz egy finom piknikkosarat.",
+            "ro": "Bucurați-vă de atmosfera liniștită de la acest lac idilic, care oferă condiții perfecte pentru o mică pauză dacă aduceți cu dumneavoastră un coș de picnic.",
+            "en": "Enjoy the peaceful atmosphere at this idyllic lake, which offers the perfect setting for a short relaxing break if you remember to bring a picnic basket."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac du Vernay",
+            "hu": "Lac du Vernay",
+            "ro": "Lac du Vernay",
+            "en": "Lac du Vernay"
+          },
+          "coords": [
+            6.00195,
+            45.449188
+          ],
+          "category": "natural",
+          "arrive_at": "12:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die unberührte Schönheit des Lac du Vernay, ein wahres Paradies für Vogelbeobachter, und packen Sie unbedingt ein Fernglas in Ihren Rucksack.",
+            "hu": "Csodálja meg a Lac du Vernay érintetlen szépségét, amely a madármegfigyelők igazi paradicsoma, ezért mindenképpen tegyen egy távcsövet a hátizsákjába.",
+            "ro": "Admirați frumusețea neatinsă a Lac du Vernay, un adevărat paradis pentru observatorii de păsări, așa că nu uitați să puneți un binoclu în rucsacul dumneavoastră.",
+            "en": "Admire the untouched beauty of Lac du Vernay, a true paradise for birdwatchers, making it essential to pack a good pair of binoculars in your backpack."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Bayard",
+            "hu": "Musée Bayard",
+            "ro": "Musée Bayard",
+            "en": "Musée Bayard"
+          },
+          "coords": [
+            6.019047,
+            45.423536
+          ],
+          "category": "museum",
+          "arrive_at": "14:28",
+          "stay_min": 100,
+          "hop_from_prev_min": 47,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie im Musée Bayard in das Leben des berühmten Ritters ohne Furcht und Tadel ein, wobei Sie den kostenlosen Audioguide am Eingang verlangen sollten.",
+            "hu": "Merüljön el a Musée Bayard kiállításán a félelmet nem ismerő és gáncstalan lovag életében, és feltétlenül kérje a bejáratnál az ingyenes audioguide-ot.",
+            "ro": "Cufundați-vă în viața cavalerului fără frică și fără reproș la Musée Bayard, solicitând neapărat ghidul audio gratuit disponibil chiar la intrare.",
+            "en": "Immerse yourself in the life of the knight without fear and beyond reproach at the Musée Bayard, and be sure to request the free audio guide at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Bayard",
+            "hu": "Château de Bayard",
+            "ro": "Château de Bayard",
+            "en": "Château de Bayard"
+          },
+          "coords": [
+            6.018889,
+            45.423611
+          ],
+          "category": "historical",
+          "arrive_at": "16:09",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die majestätischen Ruinen des Château de Bayard, die eine reiche Geschichte atmen, und tragen Sie festes Schuhwerk für die unebenen Steinwege.",
+            "hu": "Fedezze fel a Château de Bayard fenséges, történelemmel átitatott romjait, és viseljen masszív lábbelit az egyenetlen, köves ösvényeken való sétáláshoz.",
+            "ro": "Explorați ruinele maiestuoase ale Château de Bayard, care respiră o istorie bogată, și purtați încălțăminte solidă pentru a parcurge potecile pietruite denivelate.",
+            "en": "Explore the majestic ruins of Château de Bayard, which breathe a rich history, and wear sturdy footwear to navigate the uneven stone paths safely."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen am historischen Bahnhof, bevor Sie zum erfrischenden Fluss Le Bréda spazieren. Die Mittagszeit bietet ruhige Momente an den Seen, ideal für ein Picknick. Am Nachmittag verlagert sich der Fokus mit einem langen Spaziergang zum Musée Bayard auf die Geschichte. Beenden Sie den Tag mit der Erkundung der Burgruine Château de Bayard im weichen Abendlicht.",
+        "hu": "Kezdje a reggelt a történelmi vasútállomáson, majd sétáljon el a frissítő Le Bréda folyóhoz. A délidő nyugodt pillanatokat tartogat a tavaknál, tökéletes helyszínt biztosítva egy piknikhez. Délután a történelemé a főszerep egy hosszú séta után a Musée Bayard felé. Zárja a napot a legendás Château de Bayard romjainak felfedezésével a kellemes esti szürkületben.",
+        "ro": "Începeți dimineața la gara istorică înainte de a vă plimba spre râul răcoritor Le Bréda. Miezul zilei aduce momente liniștite la lacuri, locuri perfecte pentru a savura un prânz la pachet. După-amiaza, schimbați accentul pe istorie cu o plimbare lungă până la Musée Bayard. Încheiați ziua explorând legendarele ruine ale Château de Bayard odată cu lăsarea serii.",
+        "en": "Begin your morning at the historic train station before strolling towards the refreshing Le Bréda river. Midday brings tranquil moments at Plan d'eau des Lônes and Lac du Vernay, perfect spots to enjoy a packed lunch. In the afternoon, shift your focus to history with a long walk to Musée Bayard. Conclude the day exploring the legendary Château de Bayard ruins as the evening sets."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:12",
+      "total_km": 5.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Gare de Pontcharra",
+            "hu": "Gare de Pontcharra",
+            "ro": "Gare de Pontcharra",
+            "en": "Gare de Pontcharra"
+          },
+          "coords": [
+            6.007649,
+            45.43423
+          ],
+          "category": "station",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie am historischen Bahnhof, einem wichtigen Verkehrsknotenpunkt der Region, wo Sie vorab am Kiosk ein Ticket für spätere Fahrten kaufen sollten.",
+            "hu": "Kezdje a túrát a történelmi vasútállomáson, amely a régió fontos közlekedési csomópontja, és ahol érdemes előre megvenni a jegyet a későbbi utazásokhoz.",
+            "ro": "Începeți turul la gara istorică, un important nod de transport regional, unde este recomandat să cumpărați un bilet în avans pentru călătoriile ulterioare.",
+            "en": "Begin your journey at the historic railway station, a vital transport hub for the region, where you should purchase a ticket in advance for later trips."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Bréda",
+            "hu": "Le Bréda",
+            "ro": "Le Bréda",
+            "en": "Le Bréda"
+          },
+          "coords": [
+            6.005556,
+            45.441389
+          ],
+          "category": "natural",
+          "arrive_at": "09:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang des Flusses Le Bréda, dessen klare Wasser die lokale Natur prägen, und achten Sie auf das rutschige Ufer bei den malerischen Brücken.",
+            "hu": "Sétáljon végig a Le Bréda folyó mentén, melynek tiszta vize meghatározza a helyi természetet, és ügyeljen a csúszós partra a festői hidak közelében.",
+            "ro": "Plimbați-vă de-a lungul râului Le Bréda, ale cărui ape limpezi modelează natura locală, și aveți grijă la malurile alunecoase de lângă podurile pitorești.",
+            "en": "Walk along the Le Bréda river, whose clear waters shape the local natural environment, and watch out for slippery banks near the picturesque little bridges."
+          }
+        },
+        {
+          "name": {
+            "de": "Plan d’eau des Lônes",
+            "hu": "Plan d’eau des Lônes",
+            "ro": "Plan d’eau des Lônes",
+            "en": "Plan d’eau des Lônes"
+          },
+          "coords": [
+            6.008203,
+            45.447767
+          ],
+          "category": "natural",
+          "arrive_at": "10:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre an diesem idyllischen See, der perfekte Bedingungen für eine kleine Auszeit bietet, wenn Sie ein Picknick mitbringen.",
+            "hu": "Élvezze a békés hangulatot ennél az idilli tónál, amely tökéletes feltételeket biztosít egy kis pihenéshez, ha magával hoz egy finom piknikkosarat.",
+            "ro": "Bucurați-vă de atmosfera liniștită de la acest lac idilic, care oferă condiții perfecte pentru o mică pauză dacă aduceți cu dumneavoastră un coș de picnic.",
+            "en": "Enjoy the peaceful atmosphere at this idyllic lake, which offers the perfect setting for a short relaxing break if you remember to bring a picnic basket."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Bayard",
+            "hu": "Musée Bayard",
+            "ro": "Musée Bayard",
+            "en": "Musée Bayard"
+          },
+          "coords": [
+            6.019047,
+            45.423536
+          ],
+          "category": "museum",
+          "arrive_at": "12:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Tauchen Sie im Musée Bayard in das Leben des berühmten Ritters ohne Furcht und Tadel ein, wobei Sie den kostenlosen Audioguide am Eingang verlangen sollten.",
+            "hu": "Merüljön el a Musée Bayard kiállításán a félelmet nem ismerő és gáncstalan lovag életében, és feltétlenül kérje a bejáratnál az ingyenes audioguide-ot.",
+            "ro": "Cufundați-vă în viața cavalerului fără frică și fără reproș la Musée Bayard, solicitând neapărat ghidul audio gratuit disponibil chiar la intrare.",
+            "en": "Immerse yourself in the life of the knight without fear and beyond reproach at the Musée Bayard, and be sure to request the free audio guide at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Bayard",
+            "hu": "Château de Bayard",
+            "ro": "Château de Bayard",
+            "en": "Château de Bayard"
+          },
+          "coords": [
+            6.018889,
+            45.423611
+          ],
+          "category": "historical",
+          "arrive_at": "14:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die majestätischen Ruinen des Château de Bayard, die eine reiche Geschichte atmen, und tragen Sie festes Schuhwerk für die unebenen Steinwege.",
+            "hu": "Fedezze fel a Château de Bayard fenséges, történelemmel átitatott romjait, és viseljen masszív lábbelit az egyenetlen, köves ösvényeken való sétáláshoz.",
+            "ro": "Explorați ruinele maiestuoase ale Château de Bayard, care respiră o istorie bogată, și purtați încălțăminte solidă pentru a parcurge potecile pietruite denivelate.",
+            "en": "Explore the majestic ruins of Château de Bayard, which breathe a rich history, and wear sturdy footwear to navigate the uneven stone paths safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Panorama de Belledonne",
+            "hu": "Panorama de Belledonne",
+            "ro": "Panorama de Belledonne",
+            "en": "Panorama de Belledonne"
+          },
+          "coords": [
+            6.018501,
+            45.413737
+          ],
+          "category": "natural",
+          "arrive_at": "15:27",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie vom Panorama de Belledonne einen atemberaubenden Blick auf die Alpen, wobei Sie am besten am späten Nachmittag für das weiche Licht kommen.",
+            "hu": "Élvezze az Alpokra nyíló lélegzetelállító kilátást a Panorama de Belledonne pontról, ahová a legjobb késő délután érkezni a lágy fények miatt.",
+            "ro": "Bucurați-vă de o vedere uluitoare asupra Alpilor de la Panorama de Belledonne, locul ideal de vizitat la sfârșitul după-amiezii pentru lumina sa blândă.",
+            "en": "Enjoy breathtaking views of the Alps from the Panorama de Belledonne, which is best visited in the late afternoon to take advantage of the soft, golden light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie vom Bahnhof zum Fluss Le Bréda und genießen Sie die frische Morgenbrise. Entspannen Sie sich mittags an den ruhigen Gewässern des Plan d'eau des Lônes, um neue Energie zu tanken. Der Nachmittag ist dem legendären Ritter im Musée und Château de Bayard gewidmet. Fahren Sie schließlich zum Panorama de Belledonne, um den spektakulären Sonnenuntergang zu beobachten.",
+        "hu": "Kerékpározzon el az állomástól a kanyargós Le Bréda folyó felé, élvezve a friss reggeli szellőt. Délidőben pihenjen meg a Plan d'eau des Lônes békés vizeinél. A délutánt a legendás lovagnak szenteljük a Musée Bayard és az ősi Château de Bayard meglátogatásával. Végül tekerjen fel a Panorama de Belledonne-hoz, hogy megnézze a látványos hegyi naplementét.",
+        "ro": "Pedalați de la gară spre râul șerpuitor Le Bréda, bucurându-vă de briza proaspătă a dimineții. La amiază, relaxați-vă pe malurile liniștite ale Plan d'eau des Lônes. După-amiaza este dedicată legendarului cavaler la Musée Bayard și ancestralului său Château de Bayard. În cele din urmă, pedalați spre Panorama de Belledonne pentru apusul spectaculos.",
+        "en": "Cycle out from the local station toward the winding Le Bréda river, enjoying the fresh morning breeze. By midday, relax by the peaceful waters of Plan d'eau des Lônes to recharge. The afternoon is dedicated to the legendary knight at Musée Bayard and his ancestral Château de Bayard. Finally, cycle up to the Panorama de Belledonne to watch the spectacular sunset over the mountains."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:24",
+      "total_km": 34.1,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Gare de Pontcharra",
+            "hu": "Gare de Pontcharra",
+            "ro": "Gare de Pontcharra",
+            "en": "Gare de Pontcharra"
+          },
+          "coords": [
+            6.007649,
+            45.43423
+          ],
+          "category": "station",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie am historischen Bahnhof, einem wichtigen Verkehrsknotenpunkt der Region, wo Sie vorab am Kiosk ein Ticket für spätere Fahrten kaufen sollten.",
+            "hu": "Kezdje a túrát a történelmi vasútállomáson, amely a régió fontos közlekedési csomópontja, és ahol érdemes előre megvenni a jegyet a későbbi utazásokhoz.",
+            "ro": "Începeți turul la gara istorică, un important nod de transport regional, unde este recomandat să cumpărați un bilet în avans pentru călătoriile ulterioare.",
+            "en": "Begin your journey at the historic railway station, a vital transport hub for the region, where you should purchase a ticket in advance for later trips."
+          }
+        },
+        {
+          "name": {
+            "de": "Bassin du Cheylas",
+            "hu": "Bassin du Cheylas",
+            "ro": "Bassin du Cheylas",
+            "en": "Bassin du Cheylas"
+          },
+          "coords": [
+            5.988263,
+            45.383477
+          ],
+          "category": "natural",
+          "arrive_at": "09:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.8,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Wasservögel am ruhigen Bassin du Cheylas, einem wichtigen ökologischen Reservat, und bleiben Sie auf den markierten Wegen zum Schutz der Natur.",
+            "hu": "Figyelje meg a vízimadarakat a csendes Bassin du Cheylas ökológiai rezervátumban, és a természet védelme érdekében kérjük, maradjon a kijelölt ösvényeken.",
+            "ro": "Observați păsările de apă la liniștitul Bassin du Cheylas, o importantă rezervație ecologică, și rămâneți pe traseele marcate pentru a proteja natura.",
+            "en": "Observe the waterfowl at the tranquil Bassin du Cheylas, an important ecological reserve, and strictly stay on marked trails to help protect the environment."
+          }
+        },
+        {
+          "name": {
+            "de": "Panorama de Belledonne",
+            "hu": "Panorama de Belledonne",
+            "ro": "Panorama de Belledonne",
+            "en": "Panorama de Belledonne"
+          },
+          "coords": [
+            6.018501,
+            45.413737
+          ],
+          "category": "natural",
+          "arrive_at": "11:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.1,
+          "tip_5lang": {
+            "de": "Genießen Sie vom Panorama de Belledonne einen atemberaubenden Blick auf die Alpen, wobei Sie am besten am späten Nachmittag für das weiche Licht kommen.",
+            "hu": "Élvezze az Alpokra nyíló lélegzetelállító kilátást a Panorama de Belledonne pontról, ahová a legjobb késő délután érkezni a lágy fények miatt.",
+            "ro": "Bucurați-vă de o vedere uluitoare asupra Alpilor de la Panorama de Belledonne, locul ideal de vizitat la sfârșitul după-amiezii pentru lumina sa blândă.",
+            "en": "Enjoy breathtaking views of the Alps from the Panorama de Belledonne, which is best visited in the late afternoon to take advantage of the soft, golden light."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Bayard",
+            "hu": "Musée Bayard",
+            "ro": "Musée Bayard",
+            "en": "Musée Bayard"
+          },
+          "coords": [
+            6.019047,
+            45.423536
+          ],
+          "category": "museum",
+          "arrive_at": "12:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie im Musée Bayard in das Leben des berühmten Ritters ohne Furcht und Tadel ein, wobei Sie den kostenlosen Audioguide am Eingang verlangen sollten.",
+            "hu": "Merüljön el a Musée Bayard kiállításán a félelmet nem ismerő és gáncstalan lovag életében, és feltétlenül kérje a bejáratnál az ingyenes audioguide-ot.",
+            "ro": "Cufundați-vă în viața cavalerului fără frică și fără reproș la Musée Bayard, solicitând neapărat ghidul audio gratuit disponibil chiar la intrare.",
+            "en": "Immerse yourself in the life of the knight without fear and beyond reproach at the Musée Bayard, and be sure to request the free audio guide at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Bayard",
+            "hu": "Château de Bayard",
+            "ro": "Château de Bayard",
+            "en": "Château de Bayard"
+          },
+          "coords": [
+            6.018889,
+            45.423611
+          ],
+          "category": "historical",
+          "arrive_at": "13:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die majestätischen Ruinen des Château de Bayard, die eine reiche Geschichte atmen, und tragen Sie festes Schuhwerk für die unebenen Steinwege.",
+            "hu": "Fedezze fel a Château de Bayard fenséges, történelemmel átitatott romjait, és viseljen masszív lábbelit az egyenetlen, köves ösvényeken való sétáláshoz.",
+            "ro": "Explorați ruinele maiestuoase ale Château de Bayard, care respiră o istorie bogată, și purtați încălțăminte solidă pentru a parcurge potecile pietruite denivelate.",
+            "en": "Explore the majestic ruins of Château de Bayard, which breathe a rich history, and wear sturdy footwear to navigate the uneven stone paths safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Bassin du Flumet",
+            "hu": "Bassin du Flumet",
+            "ro": "Bassin du Flumet",
+            "en": "Bassin du Flumet"
+          },
+          "coords": [
+            6.061211,
+            45.381161
+          ],
+          "category": "natural",
+          "arrive_at": "15:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie das technische Wunderwerk des Bassin du Flumet, das für die Wasserkraft entscheidend ist, und lesen Sie die informativen Tafeln am Aussichtspunkt.",
+            "hu": "Fedezze fel a vízenergia szempontjából döntő jelentőségű Bassin du Flumet műszaki csodáját, és olvassa el a kilátónál elhelyezett tájékoztató táblákat.",
+            "ro": "Descoperiți minunea tehnică a Bassin du Flumet, crucială pentru energia hidroelectrică, și asigurați-vă că citiți panourile informative de la punctul de belvedere.",
+            "en": "Discover the engineering marvel of the Bassin du Flumet, crucial for local hydroelectric power, and take time to read the informative plaques at the viewpoint."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de Sainte-Hélène",
+            "hu": "Lac de Sainte-Hélène",
+            "ro": "Lac de Sainte-Hélène",
+            "en": "Lac de Sainte-Hélène"
+          },
+          "coords": [
+            6.075143,
+            45.480476
+          ],
+          "category": "natural",
+          "arrive_at": "17:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 11.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den Ufern des Lac de Sainte-Hélène, einem friedlichen Rückzugsort in der Natur, und nutzen Sie die kleinen Holzbänke für eine bequeme Rast.",
+            "hu": "Pihenjen a Lac de Sainte-Hélène partján, amely egy békés természeti menedékhely, és használja a kis fapadokat egy rendkívül kényelmes pihenéshez.",
+            "ro": "Relaxați-vă pe malurile Lacului Sainte-Hélène, o retragere pașnică în natură, și folosiți micile bănci de lemn pentru a vă odihni confortabil.",
+            "en": "Relax on the shores of Lac de Sainte-Hélène, a peaceful natural retreat, and take advantage of the small wooden benches for a comfortable rest during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Plan d’eau des Lônes",
+            "hu": "Plan d’eau des Lônes",
+            "ro": "Plan d’eau des Lônes",
+            "en": "Plan d’eau des Lônes"
+          },
+          "coords": [
+            6.008203,
+            45.447767
+          ],
+          "category": "natural",
+          "arrive_at": "18:39",
+          "stay_min": 105,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 6.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre an diesem idyllischen See, der perfekte Bedingungen für eine kleine Auszeit bietet, wenn Sie ein Picknick mitbringen.",
+            "hu": "Élvezze a békés hangulatot ennél az idilli tónál, amely tökéletes feltételeket biztosít egy kis pihenéshez, ha magával hoz egy finom piknikkosarat.",
+            "ro": "Bucurați-vă de atmosfera liniștită de la acest lac idilic, care oferă condiții perfecte pentru o mică pauză dacă aduceți cu dumneavoastră un coș de picnic.",
+            "en": "Enjoy the peaceful atmosphere at this idyllic lake, which offers the perfect setting for a short relaxing break if you remember to bring a picnic basket."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie vom Hauptbahnhof direkt zum Bassin du Cheylas für einen ruhigen Morgenspaziergang in der Natur. Genießen Sie mittags den weiten Blick auf die Alpen vom Panorama de Belledonne, bevor Sie das Bayard-Museum besuchen. Der späte Nachmittag führt Sie an Bassin du Flumet und Lac de Sainte-Hélène vorbei und endet mit einem ruhigen Abend an den Lônes.",
+        "hu": "Vezessen a központi állomástól egyenesen a Bassin du Cheylas felé egy békés reggeli sétára a természetben. Délben élvezze a lenyűgöző alpesi kilátást a Panorama de Belledonne-ról, mielőtt a Bayard múzeumba menne. A késő délután a Bassin du Flumet és a Lac de Sainte-Hélène mellett vezet el, majd a nap egy csendes estével zárul a Lônes-nál.",
+        "ro": "Conduceți de la gară direct la Bassin du Cheylas pentru o plimbare matinală liniștită în natură. La amiază, admirați priveliștile alpine de la Panorama de Belledonne înainte de a vă îndrepta spre muzeul Bayard. Sfârșitul după-amiezii vă poartă pe lângă Bassin du Flumet și Lac de Sainte-Hélène, încheind călătoria cu o seară liniștită la Lônes.",
+        "en": "Drive from the central station straight to the serene Bassin du Cheylas for a peaceful morning nature walk. By midday, take in the sweeping alpine views at the Panorama de Belledonne before heading to the historical Bayard museum and castle. The late afternoon takes you past the impressive Bassin du Flumet and Lac de Sainte-Hélène, ending the journey with a quiet evening at Lônes."
+      }
+    }
+  }
+}

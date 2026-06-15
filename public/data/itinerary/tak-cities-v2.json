@@ -1,0 +1,520 @@
+{
+  "city_id": "tak-cities-v2",
+  "anchor": {
+    "name": "Tak",
+    "coords": [
+      99.125,
+      16.883
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:57",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Tak City Memorial Museum",
+            "hu": "Tak City Memorial Museum",
+            "ro": "Tak City Memorial Museum",
+            "en": "Tak City Memorial Museum"
+          },
+          "coords": [
+            99.124766,
+            16.871923
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte von Tak anhand gut erhaltener Artefakte und planen Sie mindestens eine Stunde ein, um die Ausstellungen voll zu würdigen.",
+            "hu": "Fedezze fel Tak gazdag történelmét a jól megőrzött leleteken keresztül, és szánjon legalább egy órát arra, hogy alaposan megtekinthesse a kiállításokat.",
+            "ro": "Explorează istoria bogată a orașului Tak prin artefacte bine conservate, asigurându-te că aloci cel puțin o oră pentru a aprecia pe deplin expozițiile.",
+            "en": "Explore the rich history of Tak through well-preserved artifacts and photographs, making sure to allocate at least an hour to fully appreciate the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Trok Ban Chin (Ban Chin Alley)",
+            "hu": "Trok Ban Chin (Ban Chin Alley)",
+            "ro": "Trok Ban Chin (Ban Chin Alley)",
+            "en": "Trok Ban Chin (Ban Chin Alley)"
+          },
+          "coords": [
+            99.12516,
+            16.867736
+          ],
+          "category": "landmark",
+          "arrive_at": "10:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese charmante Gasse mit traditionellen Holzhäusern, um das lokale Erbe zu erleben, und bringen Sie eine Kamera für die Architektur mit.",
+            "hu": "Sétáljon végig ezen a hagyományos faházakkal szegélyezett, bájos sikátoron, és feltétlenül hozzon magával fényképezőgépet a klasszikus építészet megörökítéséhez.",
+            "ro": "Plimbă-te pe această alee fermecătoare flancată de case tradiționale din lemn pentru a simți spiritul local și adu o cameră pentru arhitectura de epocă.",
+            "en": "Stroll down this charming alleyway lined with traditional wooden houses to experience local heritage, and bring a camera for the vintage architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Phai Lom",
+            "hu": "Wat Phai Lom",
+            "ro": "Wat Phai Lom",
+            "en": "Wat Phai Lom"
+          },
+          "coords": [
+            99.12881,
+            16.868224
+          ],
+          "category": "landmark",
+          "arrive_at": "11:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die friedliche Atmosphäre und die thailändische Architektur dieses ruhigen Tempels, wobei Sie auf angemessene und bescheidene Kleidung achten sollten.",
+            "hu": "Csodálja meg e csendes templom békés atmoszféráját és hagyományos thai építészetét, de ne feledjen szerény öltözéket viselni, mielőtt belépne a területre.",
+            "ro": "Admiră atmosfera senină și arhitectura tradițională thailandeză a acestui templu liniștit, amintindu-ți să te îmbraci modest înainte de a intra pe domeniu.",
+            "en": "Admire the serene atmosphere and beautiful traditional Thai Buddhist architecture of this quiet temple, remembering to dress modestly before entering the grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Frischemarkt Tak",
+            "hu": "Tak 3-as számú frissáru-piac",
+            "ro": "Piața de alimente Tak 3",
+            "en": "Tak Municipality 3 Fresh Food Market"
+          },
+          "coords": [
+            99.122226,
+            16.875363
+          ],
+          "category": "cultural",
+          "arrive_at": "12:37",
+          "stay_min": 50,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das geschäftige Treiben ein und probieren Sie authentische Snacks, aber bringen Sie Bargeld in kleinen Scheinen mit, um die Händler zu bezahlen.",
+            "hu": "Merüljön el a nyüzsgő helyi életben az autentikus regionális falatok megkóstolásával, de hozzon magával aprópénzt, hogy könnyedén fizethessen az árusoknak.",
+            "ro": "Lasă-te captivat de viața locală vibrantă degustând gustări regionale autentice, dar asigură-te că ai la tine bani potriviți pentru a plăti vânzătorii.",
+            "en": "Immerse yourself in the bustling local life by tasting authentic regional snacks, but arrive with small cash denominations to easily pay the street vendors."
+          }
+        },
+        {
+          "name": {
+            "de": "King Taksin the Great Memorial Shrine",
+            "hu": "King Taksin the Great Memorial Shrine",
+            "ro": "King Taksin the Great Memorial Shrine",
+            "en": "King Taksin the Great Memorial Shrine"
+          },
+          "coords": [
+            99.121138,
+            16.885831
+          ],
+          "category": "landmark",
+          "arrive_at": "13:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem hochverehrten historischen Schrein eines geliebten thailändischen Königs die Ehre und kommen Sie früh, um der Mittagshitze zu entgehen.",
+            "hu": "Rójja le tiszteletét e nagyra becsült történelmi szentélynél, amelyet egy szeretett thai királynak szenteltek, és érkezzen korán a déli hőség elkerülése végett.",
+            "ro": "Prezintă-ți omagiile la acest altar istoric venerat dedicat unui rege thailandez iubit și vizitează-l devreme pentru a evita căldura de la amiază.",
+            "en": "Pay your respects at this highly revered historical shrine dedicated to a beloved Thai king, and visit early to avoid the midday heat and larger tour groups."
+          }
+        },
+        {
+          "name": {
+            "de": "Nachtmarkt",
+            "hu": "Éjszakai piac",
+            "ro": "Piața de noapte",
+            "en": "Night market"
+          },
+          "coords": [
+            99.123638,
+            16.878662
+          ],
+          "category": "cultural",
+          "arrive_at": "14:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an den lebhaften Ständen mit lokalem Kunsthandwerk und Streetfood, und probieren Sie unbedingt die würzigen Nudeln von den beliebten Wagen.",
+            "hu": "Zárja a napot a helyi kézműves termékeket és ízletes utcai ételeket kínáló standoknál, és feltétlenül kóstolja meg a népszerű sarokkocsik fűszeres tésztáit.",
+            "ro": "Încheie ziua printre tarabele pline de artizanat local și mâncare stradală delicioasă, asigurându-te că încerci tăițeii picanți de la cărucioarele populare.",
+            "en": "Conclude your day browsing vibrant stalls filled with local crafts and delicious street food, making sure to try the spicy noodles from the popular corner carts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der reichen Geschichte im Memorial Museum.\n\nErkunden Sie mittags die historischen Gassen von Trok Ban Chin und den ruhigen Tempel Wat Phai Lom.\n\nAm Nachmittag tauchen Sie in den geschäftigen Frischmarkt ein und besuchen den Taksin-Schrein.\n\nSchließen Sie den Tag gemütlich auf dem belebten Nachtmarkt mit köstlichem Streetfood ab.",
+        "hu": "Kezdje a reggelt a helyi történelem felfedezésével a Memorial Múzeumban.\n\nDélben sétáljon végig a történelmi Trok Ban Chin sikátoron és látogassa meg a Wat Phai Lom templomot.\n\nDélután merüljön el a friss élelmiszerek piacának forgatagában, majd tisztelgés a Taksin szentélynél.\n\nEste élvezze a pezsgő éjszakai piacot és a fantasztikus helyi utcai ételeket.",
+        "ro": "Începeți dimineața descoperind istoria bogată la Muzeul Memorial Tak.\n\nLa prânz, explorați aleile istorice din Trok Ban Chin și templul liniștit Wat Phai Lom.\n\nDupă-amiaza, pierdeți-vă printre culorile pieței alimentare și vizitați sanctuarul dedicat regelui Taksin.\n\nÎncheiați ziua perfect la piața de noapte, savurând preparate delicioase din bucătăria stradală locală.",
+        "en": "Start your morning delving into rich local history at the Tak City Memorial Museum.\n\nAt midday, explore the historical wooden houses of Trok Ban Chin and the serene Wat Phai Lom.\n\nIn the afternoon, immerse yourself in the bustling fresh food market and the majestic Taksin Shrine.\n\nConclude your perfect day at the vibrant night market, tasting an array of delicious local street food."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:01",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Monument of King Narai the Great",
+            "hu": "Monument of King Narai the Great",
+            "ro": "Monument of King Narai the Great",
+            "en": "Monument of King Narai the Great"
+          },
+          "coords": [
+            99.121397,
+            16.858034
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die monumentale Statue, die eine herausragende historische Figur Thailands ehrt, und nehmen Sie sich Zeit für die informativen Gedenktafeln.",
+            "hu": "Fedezze fel ezt a Thaiföld egyik kiemelkedő történelmi alakját ünneplő szobrot, és szánjon egy pillanatot a hagyatékát bemutató információs táblák elolvasására.",
+            "ro": "Descoperă statuia monumentală ce celebrează o figură istorică proeminentă a Thailandei și ia-ți un moment pentru a citi plăcile informative despre moștenirea sa.",
+            "en": "Discover the monumental statue celebrating a prominent historical figure of Thailand, and take a moment to read the informational plaques detailing his legacy."
+          }
+        },
+        {
+          "name": {
+            "de": "Sadet Mae nok Iiang Shrine",
+            "hu": "Sadet Mae nok Iiang Shrine",
+            "ro": "Sadet Mae nok Iiang Shrine",
+            "en": "Sadet Mae nok Iiang Shrine"
+          },
+          "coords": [
+            99.116271,
+            16.862907
+          ],
+          "category": "religious",
+          "arrive_at": "09:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen kulturell bedeutsamen und ruhigen Schrein, um spirituelle Praktiken zu beobachten, und sprechen Sie aus Respekt vor den Betenden leise.",
+            "hu": "Látogasson el ebbe a kulturálisan jelentős és nyugodt szentélybe a napi spirituális gyakorlatok megfigyelésére, de a hívők tisztelete érdekében beszéljen halkan.",
+            "ro": "Vizitează acest altar local liniștit și semnificativ cultural pentru a observa practicile spirituale zilnice, păstrând vocea scăzută din respect pentru credincioși.",
+            "en": "Visit this culturally significant and tranquil local shrine to observe daily spiritual practices, keeping your voice low out of respect for the worshippers."
+          }
+        },
+        {
+          "name": {
+            "de": "Trok Ban Chin (Ban Chin Alley)",
+            "hu": "Trok Ban Chin (Ban Chin Alley)",
+            "ro": "Trok Ban Chin (Ban Chin Alley)",
+            "en": "Trok Ban Chin (Ban Chin Alley)"
+          },
+          "coords": [
+            99.12516,
+            16.867736
+          ],
+          "category": "landmark",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese charmante Gasse mit traditionellen Holzhäusern, um das lokale Erbe zu erleben, und bringen Sie eine Kamera für die Architektur mit.",
+            "hu": "Sétáljon végig ezen a hagyományos faházakkal szegélyezett, bájos sikátoron, és feltétlenül hozzon magával fényképezőgépet a klasszikus építészet megörökítéséhez.",
+            "ro": "Plimbă-te pe această alee fermecătoare flancată de case tradiționale din lemn pentru a simți spiritul local și adu o cameră pentru arhitectura de epocă.",
+            "en": "Stroll down this charming alleyway lined with traditional wooden houses to experience local heritage, and bring a camera for the vintage architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Tak City Memorial Museum",
+            "hu": "Tak City Memorial Museum",
+            "ro": "Tak City Memorial Museum",
+            "en": "Tak City Memorial Museum"
+          },
+          "coords": [
+            99.124766,
+            16.871923
+          ],
+          "category": "museum",
+          "arrive_at": "10:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte von Tak anhand gut erhaltener Artefakte und planen Sie mindestens eine Stunde ein, um die Ausstellungen voll zu würdigen.",
+            "hu": "Fedezze fel Tak gazdag történelmét a jól megőrzött leleteken keresztül, és szánjon legalább egy órát arra, hogy alaposan megtekinthesse a kiállításokat.",
+            "ro": "Explorează istoria bogată a orașului Tak prin artefacte bine conservate, asigurându-te că aloci cel puțin o oră pentru a aprecia pe deplin expozițiile.",
+            "en": "Explore the rich history of Tak through well-preserved artifacts and photographs, making sure to allocate at least an hour to fully appreciate the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "St.Francis Xavier Catholic Church",
+            "hu": "St.Francis Xavier Catholic Church",
+            "ro": "St.Francis Xavier Catholic Church",
+            "en": "St.Francis Xavier Catholic Church"
+          },
+          "coords": [
+            99.132134,
+            16.875039
+          ],
+          "category": "landmark",
+          "arrive_at": "12:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die wunderschönen Buntglasfenster und das friedliche Innere dieser einzigartigen katholischen Kirche, prüfen Sie aber vorab die Gottesdienstzeiten.",
+            "hu": "Csodálja meg ennek az egyedülálló katolikus templomnak a gyönyörű ólomüveg ablakait és békés belső terét, de a belépéshez előbb ellenőrizze a misék rendjét.",
+            "ro": "Minunează-te de vitraliile frumoase și interiorul pașnic al acestei biserici catolice unice, verificând programul slujbelor în prealabil pentru a putea intra.",
+            "en": "Marvel at the beautiful stained glass and peaceful interior of this unique regional Catholic church, checking the mass schedule beforehand to ensure entry."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Mani Banphot Worawihan",
+            "hu": "Wat Mani Banphot Worawihan",
+            "ro": "Wat Mani Banphot Worawihan",
+            "en": "Wat Mani Banphot Worawihan"
+          },
+          "coords": [
+            99.129685,
+            16.874717
+          ],
+          "category": "landmark",
+          "arrive_at": "13:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die atemberaubenden goldenen Pagoden dieses verehrten Tempelkomplexes und denken Sie daran, vor dem Betreten der Gebetshallen die Schuhe auszuziehen.",
+            "hu": "Fedezze fel ennek a tisztelt templomkomplexumnak a lenyűgöző arany pagodáit, és ne felejtse el levenni a cipőjét, mielőtt belépne a fő imatermekbe.",
+            "ro": "Explorează uimitoarele pagode aurii ale acestui complex de temple venerat și amintește-ți să te descalți înainte de a păși în sălile principale de rugăciune.",
+            "en": "Explore the stunning golden pagodas of this revered temple complex, and remember to remove your shoes before stepping into the main prayer halls."
+          }
+        },
+        {
+          "name": {
+            "de": "Nachtmarkt",
+            "hu": "Éjszakai piac",
+            "ro": "Piața de noapte",
+            "en": "Night market"
+          },
+          "coords": [
+            99.123638,
+            16.878662
+          ],
+          "category": "cultural",
+          "arrive_at": "14:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an den lebhaften Ständen mit lokalem Kunsthandwerk und Streetfood, und probieren Sie unbedingt die würzigen Nudeln von den beliebten Wagen.",
+            "hu": "Zárja a napot a helyi kézműves termékeket és ízletes utcai ételeket kínáló standoknál, és feltétlenül kóstolja meg a népszerű sarokkocsik fűszeres tésztáit.",
+            "ro": "Încheie ziua printre tarabele pline de artizanat local și mâncare stradală delicioasă, asigurându-te că încerci tăițeii picanți de la cărucioarele populare.",
+            "en": "Conclude your day browsing vibrant stalls filled with local crafts and delicious street food, making sure to try the spicy noodles from the popular corner carts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radfahren Sie am Morgen zum beeindruckenden Narai-Monument und dem friedlichen Schrein.\n\nEntdecken Sie mittags die alten Holzhäuser und verbringen Sie Zeit im Stadtmuseum.\n\nAm Nachmittag bewundern Sie die katholische Architektur und den goldenen Wat Mani Banphot.\n\nLassen Sie den Abend entspannt auf dem Nachtmarkt ausklingen, wo viele lokale Köstlichkeiten warten.",
+        "hu": "Tekerjen el reggel a lenyűgöző Narai-emlékműhöz és a közeli békés szentélyhez.\n\nDélben fedezze fel a régi faházakat és töltsön egy kis időt a Városi Múzeumban.\n\nDélután csodálja meg a katolikus építészetet és az arany Wat Mani Banphot templomot.\n\nEste lazítson a nyüzsgő éjszakai piacon, megkóstolva a helyi finomságok széles választékát.",
+        "ro": "Pedalați dimineața către monumentul impresionant al regelui Narai și sanctuarul liniștit.\n\nLa prânz, descoperiți casele vechi de lemn și explorați exponatele de la muzeul orașului.\n\nDupă-amiaza, admirați arhitectura catolică și pagodele aurii de la Wat Mani Banphot.\n\nSeara, relaxați-vă la piața de noapte vibrantă, bucurându-vă de cele mai bune preparate stradale.",
+        "en": "Cycle in the morning to the impressive Monument of King Narai and the nearby tranquil shrine.\n\nAt midday, discover the historic wooden houses of Trok Ban Chin and explore the local museum.\n\nDuring the afternoon, admire the unique Catholic architecture and the golden Wat Mani Banphot.\n\nSpend your evening relaxing at the night market, sampling the best regional snacks and crafts."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:28",
+      "total_km": 7.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Wat Khao Tham",
+            "hu": "Wat Khao Tham",
+            "ro": "Wat Khao Tham",
+            "en": "Wat Khao Tham"
+          },
+          "coords": [
+            99.133979,
+            16.902139
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Wandern Sie leicht bergauf zu diesem faszinierenden Höhlentempel, um den Panoramablick zu genießen, und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Túrázzon fel ehhez a lenyűgöző barlangtemplomhoz, hogy élvezhesse a környező táj panorámáját, de viseljen erős cipőt az egyenetlen terepen való biztonságos járáshoz.",
+            "ro": "Urcă ușor spre acest templu fascinant din peșteră pentru a te bucura de vederi panoramice, purtând încălțăminte robustă pentru a naviga în siguranță pe terenul accidentat.",
+            "en": "Hike slightly up to this fascinating cave temple to enjoy panoramic views of the surrounding landscape, wearing sturdy shoes to navigate the uneven terrain safely."
+          }
+        },
+        {
+          "name": {
+            "de": "King Taksin the Great Memorial Shrine",
+            "hu": "King Taksin the Great Memorial Shrine",
+            "ro": "King Taksin the Great Memorial Shrine",
+            "en": "King Taksin the Great Memorial Shrine"
+          },
+          "coords": [
+            99.121138,
+            16.885831
+          ],
+          "category": "landmark",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem hochverehrten historischen Schrein eines geliebten thailändischen Königs die Ehre und kommen Sie früh, um der Mittagshitze zu entgehen.",
+            "hu": "Rójja le tiszteletét e nagyra becsült történelmi szentélynél, amelyet egy szeretett thai királynak szenteltek, és érkezzen korán a déli hőség elkerülése végett.",
+            "ro": "Prezintă-ți omagiile la acest altar istoric venerat dedicat unui rege thailandez iubit și vizitează-l devreme pentru a evita căldura de la amiază.",
+            "en": "Pay your respects at this highly revered historical shrine dedicated to a beloved Thai king, and visit early to avoid the midday heat and larger tour groups."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Bot Mani Si Bun Rueang",
+            "hu": "Wat Bot Mani Si Bun Rueang",
+            "ro": "Wat Bot Mani Si Bun Rueang",
+            "en": "Wat Bot Mani Si Bun Rueang"
+          },
+          "coords": [
+            99.12021,
+            16.884612
+          ],
+          "category": "landmark",
+          "arrive_at": "10:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisiten Wandmalereien im Lanna-Stil in diesem Tempel und kommen Sie im frühen Morgenlicht, um die Farben am intensivsten zu sehen.",
+            "hu": "Csodálja meg a gyönyörűen megőrzött templom belsejében lévő pompás Lanna stílusú falfestményeket, és látogasson kora reggel a legélénkebb színekért.",
+            "ro": "Admiră picturile murale rafinate în stil Lanna din acest templu frumos conservat, vizitând în lumina dimineții devreme pentru a vedea culorile la maximum.",
+            "en": "Admire the exquisite Lanna-style murals inside this beautifully preserved temple, visiting during the early morning light to see the colors at their most vibrant."
+          }
+        },
+        {
+          "name": {
+            "de": "Tak City Memorial Museum",
+            "hu": "Tak City Memorial Museum",
+            "ro": "Tak City Memorial Museum",
+            "en": "Tak City Memorial Museum"
+          },
+          "coords": [
+            99.124766,
+            16.871923
+          ],
+          "category": "museum",
+          "arrive_at": "11:19",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte von Tak anhand gut erhaltener Artefakte und planen Sie mindestens eine Stunde ein, um die Ausstellungen voll zu würdigen.",
+            "hu": "Fedezze fel Tak gazdag történelmét a jól megőrzött leleteken keresztül, és szánjon legalább egy órát arra, hogy alaposan megtekinthesse a kiállításokat.",
+            "ro": "Explorează istoria bogată a orașului Tak prin artefacte bine conservate, asigurându-te că aloci cel puțin o oră pentru a aprecia pe deplin expozițiile.",
+            "en": "Explore the rich history of Tak through well-preserved artifacts and photographs, making sure to allocate at least an hour to fully appreciate the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Trok Ban Chin (Ban Chin Alley)",
+            "hu": "Trok Ban Chin (Ban Chin Alley)",
+            "ro": "Trok Ban Chin (Ban Chin Alley)",
+            "en": "Trok Ban Chin (Ban Chin Alley)"
+          },
+          "coords": [
+            99.12516,
+            16.867736
+          ],
+          "category": "landmark",
+          "arrive_at": "13:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese charmante Gasse mit traditionellen Holzhäusern, um das lokale Erbe zu erleben, und bringen Sie eine Kamera für die Architektur mit.",
+            "hu": "Sétáljon végig ezen a hagyományos faházakkal szegélyezett, bájos sikátoron, és feltétlenül hozzon magával fényképezőgépet a klasszikus építészet megörökítéséhez.",
+            "ro": "Plimbă-te pe această alee fermecătoare flancată de case tradiționale din lemn pentru a simți spiritul local și adu o cameră pentru arhitectura de epocă.",
+            "en": "Stroll down this charming alleyway lined with traditional wooden houses to experience local heritage, and bring a camera for the vintage architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Monument of King Narai the Great",
+            "hu": "Monument of King Narai the Great",
+            "ro": "Monument of King Narai the Great",
+            "en": "Monument of King Narai the Great"
+          },
+          "coords": [
+            99.121397,
+            16.858034
+          ],
+          "category": "historical",
+          "arrive_at": "13:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die monumentale Statue, die eine herausragende historische Figur Thailands ehrt, und nehmen Sie sich Zeit für die informativen Gedenktafeln.",
+            "hu": "Fedezze fel ezt a Thaiföld egyik kiemelkedő történelmi alakját ünneplő szobrot, és szánjon egy pillanatot a hagyatékát bemutató információs táblák elolvasására.",
+            "ro": "Descoperă statuia monumentală ce celebrează o figură istorică proeminentă a Thailandei și ia-ți un moment pentru a citi plăcile informative despre moștenirea sa.",
+            "en": "Discover the monumental statue celebrating a prominent historical figure of Thailand, and take a moment to read the informational plaques detailing his legacy."
+          }
+        },
+        {
+          "name": {
+            "de": "Nachtmarkt",
+            "hu": "Éjszakai piac",
+            "ro": "Piața de noapte",
+            "en": "Night market"
+          },
+          "coords": [
+            99.123638,
+            16.878662
+          ],
+          "category": "cultural",
+          "arrive_at": "15:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an den lebhaften Ständen mit lokalem Kunsthandwerk und Streetfood, und probieren Sie unbedingt die würzigen Nudeln von den beliebten Wagen.",
+            "hu": "Zárja a napot a helyi kézműves termékeket és ízletes utcai ételeket kínáló standoknál, és feltétlenül kóstolja meg a népszerű sarokkocsik fűszeres tésztáit.",
+            "ro": "Încheie ziua printre tarabele pline de artizanat local și mâncare stradală delicioasă, asigurându-te că încerci tăițeii picanți de la cărucioarele populare.",
+            "en": "Conclude your day browsing vibrant stalls filled with local crafts and delicious street food, making sure to try the spicy noodles from the popular corner carts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens hoch zum Wat Khao Tham und genießen Sie die Panoramaaussicht.\n\nMittags besuchen Sie den bedeutenden Taksin-Schrein, den Wat Bot Mani und das Museum.\n\nAm Nachmittag erkunden Sie die historische Gasse Trok Ban Chin und das Narai-Monument.\n\nDen Abend krönt ein Besuch des lebhaften Nachtmarktes mit fantastischem lokalen Essen.",
+        "hu": "Autózzon fel reggel a Wat Khao Tham barlangtemplomhoz, és élvezze a lenyűgöző kilátást.\n\nDélben látogassa meg a híres Taksin szentélyt, a Wat Bot Mani templomot és a múzeumot.\n\nDélután fedezze fel a történelmi Trok Ban Chin sikátort és a fenséges Narai-emlékművet.\n\nAz estét a vibráló éjszakai piacon zárhatja, csodás helyi ételek kíséretében.",
+        "ro": "Conduceți dimineața spre Wat Khao Tham pentru a vă bucura de priveliștile panoramice.\n\nLa prânz, vizitați sanctuarul semnificativ Taksin, templul Wat Bot Mani și muzeul orașului.\n\nDupă-amiaza, explorați aleea istorică Trok Ban Chin și maiestuosul monument al regelui Narai.\n\nÎncununați-vă ziua la piața de noapte, savurând cele mai populare preparate stradale din regiune.",
+        "en": "Drive up to Wat Khao Tham in the morning to enjoy sweeping panoramic views of the area.\n\nAt midday, visit the highly revered Taksin Shrine, Wat Bot Mani, and the informative city museum.\n\nIn the afternoon, take a historical walk through Trok Ban Chin and admire the Narai Monument.\n\nCrown your day at the lively night market, sampling a fantastic array of authentic street food."
+      }
+    }
+  }
+}

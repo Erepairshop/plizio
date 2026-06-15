@@ -1,0 +1,497 @@
+{
+  "city_id": "norway-bryne-cities-v2",
+  "anchor": {
+    "name": "Bryne",
+    "coords": [
+      5.64,
+      58.74
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:29",
+      "total_km": 3.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Garborgsenteret",
+            "hu": "Garborgsenteret",
+            "ro": "Garborgsenteret",
+            "en": "Garborgsenteret"
+          },
+          "coords": [
+            5.650315,
+            58.73379
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erfahren Sie interaktiv mehr über die Schriftsteller Arne und Hulda Garborg und planen Sie genügend Zeit für die multimedialen Ausstellungen ein.",
+            "hu": "Ismerkedjen meg Arne és Hulda Garborg írók munkásságával ezen az interaktív kiállításon, és szánjon elég időt a multimédiás tárlatokra.",
+            "ro": "Descoperiți viața și opera scriitorilor Arne și Hulda Garborg într-un centru interactiv modern, alocând timp suficient pentru exponatele multimedia.",
+            "en": "Discover the life and works of writers Arne and Hulda Garborg at this interactive center, making sure to allocate enough time for the multimedia exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Bryne kyrkje",
+            "hu": "Bryne kyrkje",
+            "ro": "Bryne kyrkje",
+            "en": "Bryne kyrkje"
+          },
+          "coords": [
+            5.644712,
+            58.737237
+          ],
+          "category": "religious",
+          "arrive_at": "10:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur und die einzigartigen Glasfenster dieser Kirche, die einen ruhigen Moment abseits des Trubels bietet.",
+            "hu": "Csodálja meg ennek a templomnak a modern építészetét és lenyűgöző üvegablakait, melyek tökéletesek egy csendes, elmélyült pillanathoz a városban.",
+            "ro": "Admirați arhitectura modernă și vitraliile unice ale acestei biserici norvegiene, oferind un moment perfect de liniște în centrul orașului.",
+            "en": "Admire the modern architecture and stunning stained glass windows of this church, taking a quiet moment to reflect away from the city center bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Jærens kunstgalleri",
+            "hu": "Jærens kunstgalleri",
+            "ro": "Jærens kunstgalleri",
+            "en": "Jærens kunstgalleri"
+          },
+          "coords": [
+            5.64443,
+            58.735605
+          ],
+          "category": "cultural",
+          "arrive_at": "11:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Kunstlandschaft der Jæren-Region in dieser charmanten Galerie, wo lokale Künstler ihre eindrucksvollen Werke präsentieren.",
+            "hu": "Fedezze fel a Jæren régió gazdag művészeti világát ebben a hangulatos galériában, és figyelje meg a helyi alkotók lenyűgöző mesterműveit.",
+            "ro": "Explorați arta impresionantă a regiunii Jæren în această galerie de artă locală, acordând atenție detaliilor din picturile peisagistice.",
+            "en": "Explore the rich artistic landscape of the Jæren region in this charming gallery, taking time to appreciate the stunning local landscape paintings."
+          }
+        },
+        {
+          "name": {
+            "de": "Andreas Bøe-samlinga",
+            "hu": "Andreas Bøe-samlinga",
+            "ro": "Andreas Bøe-samlinga",
+            "en": "Andreas Bøe-samlinga"
+          },
+          "coords": [
+            5.64193,
+            58.736623
+          ],
+          "category": "museum",
+          "arrive_at": "13:24",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Sammlung von Andreas Bøe ein und achten Sie besonders auf die subtilen Details seiner beeindruckenden Gemälde.",
+            "hu": "Merüljön el Andreas Bøe lenyűgöző gyűjteményében, és fordítson különleges figyelmet a kiállított festmények aprólékos és kifejező részleteire.",
+            "ro": "Pătrundeți în colecția fascinantă a lui Andreas Bøe, acordând o atenție deosebită detaliilor subtile și tehnicii din picturile sale remarcabile.",
+            "en": "Delve into the fascinating collection of Andreas Bøe, paying close attention to the subtle details and expressive techniques of his remarkable paintings."
+          }
+        },
+        {
+          "name": {
+            "de": "Grønhaug",
+            "hu": "Grønhaug",
+            "ro": "Grønhaug",
+            "en": "Grønhaug"
+          },
+          "coords": [
+            5.642752,
+            58.753696
+          ],
+          "category": "historical",
+          "arrive_at": "15:39",
+          "stay_min": 110,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses bedeutende historische Grabmal und spüren Sie die altehrwürdige Atmosphäre, festes Schuhwerk ist für das Gelände sehr zu empfehlen.",
+            "hu": "Látogasson el ehhez a jelentős történelmi sírhalomhoz, és érezze át az ősi atmoszférát, a terep miatt mindenképpen viseljen kényelmes, zárt cipőt.",
+            "ro": "Vizitați acest mormânt istoric important pentru a simți atmosfera vremurilor străvechi, fiind recomandată încălțămintea confortabilă pentru terenul denivelat.",
+            "en": "Visit this significant historical burial mound to experience the ancient atmosphere, making sure to wear sturdy shoes for walking on the grassy terrain."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen in Bryne beginnt mit einem Besuch im Garborgsenteret, wo Sie in die literarische Welt Norwegens eintauchen. Nach dieser kulturellen Bereicherung spazieren Sie zur modernen Bryne kyrkje, die mit ihrer markanten Architektur beeindruckt. Der Mittag steht ganz im Zeichen der regionalen Kunst in der charmanten Jærens kunstgalleri. Am Nachmittag bewundern Sie die Werke in der Andreas Bøe-samlinga. Den Tag lassen Sie bei einem Spaziergang zum historischen Grønhaug ausklingen, wo Sie die alten Geschichten der Region spüren.",
+        "hu": "A bryne-i reggel a Garborgsenteret felkeresésével indul, ahol elmerülhet a norvég irodalomban. Ezután tegyen egy rövid sétát a modern Bryne kyrkje felé, amely lenyűgöző építészetével varázsolja el. A délidő a helyi művészetről szól a Jærens kunstgalleri termeiben. Kora délután csodálja meg az Andreas Bøe-samlinga lenyűgöző gyűjteményét. A nap végét egy kellemes sétával zárja a történelmi Grønhaug sírhalomnál, megérezve a múlt hangulatát.",
+        "ro": "Dimineața în Bryne începe la Garborgsenteret, unde vă puteți cufunda în bogata moștenire literară norvegiană. O scurtă plimbare vă duce apoi la moderna biserică Bryne kyrkje. La prânz, explorați fascinanta scenă de artă locală la Jærens kunstgalleri. După-amiaza este dedicată colecției remarcabile de la Andreas Bøe-samlinga. Spre seară, o plimbare până la istoricul mormânt Grønhaug vă va conecta cu vremurile străvechi ale regiunii.",
+        "en": "The morning in Bryne begins at the Garborgsenteret, where you can delve deep into Norway's literary history. A short walk then brings you to the striking modern architecture of Bryne kyrkje. Midday focuses on the local art scene with a visit to the charming Jærens kunstgalleri. In the afternoon, explore the impressive collection at the Andreas Bøe-samlinga. Conclude your day with a walk to the historical Grønhaug burial mound, soaking in the ancient atmosphere of the area."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 3.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Krosshaug",
+            "hu": "Krosshaug",
+            "ro": "Krosshaug",
+            "en": "Krosshaug"
+          },
+          "coords": [
+            5.637308,
+            58.754323
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem historischen Hügel den weiten Blick über die Landschaft von Jæren, ideal für ein unvergessliches und stimmungsvolles Foto.",
+            "hu": "Élvezze a történelmi dombról nyíló széles kilátást Jæren csodálatos tájára, amely tökéletes helyszínt biztosít egy emlékezetes fénykép elkészítéséhez.",
+            "ro": "Bucurați-vă de priveliștile ample asupra peisajului din Jæren de pe acest deal istoric, un loc perfect pentru a face o fotografie memorabilă de vacanță.",
+            "en": "Enjoy the expansive views over the Jæren landscape from this historical hill, which provides a perfect vantage point for a memorable scenic photograph."
+          }
+        },
+        {
+          "name": {
+            "de": "Dysjane",
+            "hu": "Dysjane",
+            "ro": "Dysjane",
+            "en": "Dysjane"
+          },
+          "coords": [
+            5.640101,
+            58.75481
+          ],
+          "category": "historical",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Überreste dieses eisenzeitlichen Hofes und stellen Sie sich das frühe Leben vor, ein Spaziergang bei gutem Wetter lohnt sich.",
+            "hu": "Fedezze fel ennek a vaskori udvarnak a lenyűgöző maradványait, és képzelje el a korai életet, érdemes jó időben idelátogatni a kényelmes séta érdekében.",
+            "ro": "Explorați rămășițele fascinante ale acestei curți din Epoca Fierului pentru a vă imagina viața timpurie, o vizită pe vreme senină fiind cu adevărat plăcută.",
+            "en": "Explore the fascinating remains of this Iron Age courtyard to imagine early settlement life, aiming to visit on a clear day for a pleasant historical walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Grønhaug",
+            "hu": "Grønhaug",
+            "ro": "Grønhaug",
+            "en": "Grønhaug"
+          },
+          "coords": [
+            5.642752,
+            58.753696
+          ],
+          "category": "historical",
+          "arrive_at": "11:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses bedeutende historische Grabmal und spüren Sie die altehrwürdige Atmosphäre, festes Schuhwerk ist für das Gelände sehr zu empfehlen.",
+            "hu": "Látogasson el ehhez a jelentős történelmi sírhalomhoz, és érezze át az ősi atmoszférát, a terep miatt mindenképpen viseljen kényelmes, zárt cipőt.",
+            "ro": "Vizitați acest mormânt istoric important pentru a simți atmosfera vremurilor străvechi, fiind recomandată încălțămintea confortabilă pentru terenul denivelat.",
+            "en": "Visit this significant historical burial mound to experience the ancient atmosphere, making sure to wear sturdy shoes for walking on the grassy terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Andreas Bøe-samlinga",
+            "hu": "Andreas Bøe-samlinga",
+            "ro": "Andreas Bøe-samlinga",
+            "en": "Andreas Bøe-samlinga"
+          },
+          "coords": [
+            5.64193,
+            58.736623
+          ],
+          "category": "museum",
+          "arrive_at": "13:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Sammlung von Andreas Bøe ein und achten Sie besonders auf die subtilen Details seiner beeindruckenden Gemälde.",
+            "hu": "Merüljön el Andreas Bøe lenyűgöző gyűjteményében, és fordítson különleges figyelmet a kiállított festmények aprólékos és kifejező részleteire.",
+            "ro": "Pătrundeți în colecția fascinantă a lui Andreas Bøe, acordând o atenție deosebită detaliilor subtile și tehnicii din picturile sale remarcabile.",
+            "en": "Delve into the fascinating collection of Andreas Bøe, paying close attention to the subtle details and expressive techniques of his remarkable paintings."
+          }
+        },
+        {
+          "name": {
+            "de": "Bryne kyrkje",
+            "hu": "Bryne kyrkje",
+            "ro": "Bryne kyrkje",
+            "en": "Bryne kyrkje"
+          },
+          "coords": [
+            5.644712,
+            58.737237
+          ],
+          "category": "religious",
+          "arrive_at": "15:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur und die einzigartigen Glasfenster dieser Kirche, die einen ruhigen Moment abseits des Trubels bietet.",
+            "hu": "Csodálja meg ennek a templomnak a modern építészetét és lenyűgöző üvegablakait, melyek tökéletesek egy csendes, elmélyült pillanathoz a városban.",
+            "ro": "Admirați arhitectura modernă și vitraliile unice ale acestei biserici norvegiene, oferind un moment perfect de liniște în centrul orașului.",
+            "en": "Admire the modern architecture and stunning stained glass windows of this church, taking a quiet moment to reflect away from the city center bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Garborgsenteret",
+            "hu": "Garborgsenteret",
+            "ro": "Garborgsenteret",
+            "en": "Garborgsenteret"
+          },
+          "coords": [
+            5.650315,
+            58.73379
+          ],
+          "category": "museum",
+          "arrive_at": "15:49",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erfahren Sie interaktiv mehr über die Schriftsteller Arne und Hulda Garborg und planen Sie genügend Zeit für die multimedialen Ausstellungen ein.",
+            "hu": "Ismerkedjen meg Arne és Hulda Garborg írók munkásságával ezen az interaktív kiállításon, és szánjon elég időt a multimédiás tárlatokra.",
+            "ro": "Descoperiți viața și opera scriitorilor Arne și Hulda Garborg într-un centru interactiv modern, alocând timp suficient pentru exponatele multimedia.",
+            "en": "Discover the life and works of writers Arne and Hulda Garborg at this interactive center, making sure to allocate enough time for the multimedia exhibits."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Am Morgen radeln Sie zu dem historischen Hügel Krosshaug, der einen weiten Blick über die Jæren-Landschaft bietet. Danach erkunden Sie die eisenzeitlichen Überreste in Dysjane und den nahegelegenen Grønhaug. Mittags führt die Tour zurück ins Zentrum zur Andreas Bøe-samlinga für eine Prise Kunst. Nach einer besinnlichen Pause an der Bryne kyrkje am Nachmittag, beenden Sie den Tag im Garborgsenteret, wo Sie mehr über die norwegische Literatur erfahren.",
+        "hu": "A reggelt egy kerékpártúrával kezdi a Krosshaug történelmi dombhoz, ahonnan csodás kilátás nyílik a tájra. Ezt követően felfedezi Dysjane vaskori maradványait és a közeli Grønhaug sírhalmot. Délben a központ felé veszi az irányt, hogy megtekintse az Andreas Bøe-samlinga festményeit. Miután délután megpihent a modern Bryne kyrkje mellett, a napot a Garborgsenteretben zárja, megismerve a helyi irodalmat.",
+        "ro": "Dimineața pedalați către dealul istoric Krosshaug, care oferă priveliști panoramice uluitoare asupra peisajului Jæren. Continuați explorând vestigiile Epocii Fierului din Dysjane și mormântul Grønhaug. La prânz, turul vă aduce înapoi în centru pentru artă la Andreas Bøe-samlinga. După un moment de reculegere la biserica Bryne kyrkje în timpul după-amiezii, încheiați ziua învățând despre literatura norvegiană la Garborgsenteret.",
+        "en": "In the morning, you will cycle to the historical Krosshaug hill, enjoying expansive views over the Jæren landscape. Next, explore the Iron Age remnants at Dysjane and the nearby Grønhaug. Midday takes you back to the city center for a dose of art at the Andreas Bøe-samlinga. After a peaceful afternoon stop at the modern Bryne kyrkje, you will end the day discovering Norwegian literature at the interactive Garborgsenteret."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:27",
+      "total_km": 7.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Linemyra naturreservat",
+            "hu": "Linemyra naturreservat",
+            "ro": "Linemyra naturreservat",
+            "en": "Linemyra naturreservat"
+          },
+          "coords": [
+            5.638517,
+            58.716182
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die vielfältige Vogelwelt in diesem idyllischen Naturschutzgebiet, weshalb Sie unbedingt Ihr Fernglas für einen entspannten Rundgang mitbringen sollten.",
+            "hu": "Figyelje meg a változatos madárvilágot ebben az idillikus természetvédelmi területben, és feltétlenül vigyen magával távcsövet a nyugodt sétához.",
+            "ro": "Observați diversitatea păsărilor în această rezervație naturală idilică, motiv pentru care ar trebui să luați binoclul pentru o plimbare complet relaxantă.",
+            "en": "Observe the diverse birdlife in this idyllic nature reserve, making sure to bring your binoculars for a truly relaxing and rewarding walk in nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Smokkevatnet naturreservat",
+            "hu": "Smokkevatnet naturreservat",
+            "ro": "Smokkevatnet naturreservat",
+            "en": "Smokkevatnet naturreservat"
+          },
+          "coords": [
+            5.659007,
+            58.711866
+          ],
+          "category": "natural",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den Ufern dieses ruhigen Gewässers inmitten üppiger Natur und nutzen Sie die gut gepflegten Wege für einen friedlichen Spaziergang.",
+            "hu": "Pihenjen meg a nyugodt tó partján, a buja természet ölelésében, és használja ki a jól karbantartott ösvényeket egy békés, feltöltődést nyújtó sétához.",
+            "ro": "Relaxați-vă pe malul acestei ape liniștite înconjurate de natură luxuriantă, profitând de potecile bine întreținute pentru o plimbare liniștită.",
+            "en": "Relax on the shores of this tranquil water body surrounded by lush nature, taking advantage of the well-maintained trails for a peaceful afternoon walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Garborgsenteret",
+            "hu": "Garborgsenteret",
+            "ro": "Garborgsenteret",
+            "en": "Garborgsenteret"
+          },
+          "coords": [
+            5.650315,
+            58.73379
+          ],
+          "category": "museum",
+          "arrive_at": "11:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Erfahren Sie interaktiv mehr über die Schriftsteller Arne und Hulda Garborg und planen Sie genügend Zeit für die multimedialen Ausstellungen ein.",
+            "hu": "Ismerkedjen meg Arne és Hulda Garborg írók munkásságával ezen az interaktív kiállításon, és szánjon elég időt a multimédiás tárlatokra.",
+            "ro": "Descoperiți viața și opera scriitorilor Arne și Hulda Garborg într-un centru interactiv modern, alocând timp suficient pentru exponatele multimedia.",
+            "en": "Discover the life and works of writers Arne and Hulda Garborg at this interactive center, making sure to allocate enough time for the multimedia exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Bryne kyrkje",
+            "hu": "Bryne kyrkje",
+            "ro": "Bryne kyrkje",
+            "en": "Bryne kyrkje"
+          },
+          "coords": [
+            5.644712,
+            58.737237
+          ],
+          "category": "religious",
+          "arrive_at": "13:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur und die einzigartigen Glasfenster dieser Kirche, die einen ruhigen Moment abseits des Trubels bietet.",
+            "hu": "Csodálja meg ennek a templomnak a modern építészetét és lenyűgöző üvegablakait, melyek tökéletesek egy csendes, elmélyült pillanathoz a városban.",
+            "ro": "Admirați arhitectura modernă și vitraliile unice ale acestei biserici norvegiene, oferind un moment perfect de liniște în centrul orașului.",
+            "en": "Admire the modern architecture and stunning stained glass windows of this church, taking a quiet moment to reflect away from the city center bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Jærens kunstgalleri",
+            "hu": "Jærens kunstgalleri",
+            "ro": "Jærens kunstgalleri",
+            "en": "Jærens kunstgalleri"
+          },
+          "coords": [
+            5.64443,
+            58.735605
+          ],
+          "category": "cultural",
+          "arrive_at": "14:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Kunstlandschaft der Jæren-Region in dieser charmanten Galerie, wo lokale Künstler ihre eindrucksvollen Werke präsentieren.",
+            "hu": "Fedezze fel a Jæren régió gazdag művészeti világát ebben a hangulatos galériában, és figyelje meg a helyi alkotók lenyűgöző mesterműveit.",
+            "ro": "Explorați arta impresionantă a regiunii Jæren în această galerie de artă locală, acordând atenție detaliilor din picturile peisagistice.",
+            "en": "Explore the rich artistic landscape of the Jæren region in this charming gallery, taking time to appreciate the stunning local landscape paintings."
+          }
+        },
+        {
+          "name": {
+            "de": "Grønhaug",
+            "hu": "Grønhaug",
+            "ro": "Grønhaug",
+            "en": "Grønhaug"
+          },
+          "coords": [
+            5.642752,
+            58.753696
+          ],
+          "category": "historical",
+          "arrive_at": "15:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses bedeutende historische Grabmal und spüren Sie die altehrwürdige Atmosphäre, festes Schuhwerk ist für das Gelände sehr zu empfehlen.",
+            "hu": "Látogasson el ehhez a jelentős történelmi sírhalomhoz, és érezze át az ősi atmoszférát, a terep miatt mindenképpen viseljen kényelmes, zárt cipőt.",
+            "ro": "Vizitați acest mormânt istoric important pentru a simți atmosfera vremurilor străvechi, fiind recomandată încălțămintea confortabilă pentru terenul denivelat.",
+            "en": "Visit this significant historical burial mound to experience the ancient atmosphere, making sure to wear sturdy shoes for walking on the grassy terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Dysjane",
+            "hu": "Dysjane",
+            "ro": "Dysjane",
+            "en": "Dysjane"
+          },
+          "coords": [
+            5.640101,
+            58.75481
+          ],
+          "category": "historical",
+          "arrive_at": "17:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Überreste dieses eisenzeitlichen Hofes und stellen Sie sich das frühe Leben vor, ein Spaziergang bei gutem Wetter lohnt sich.",
+            "hu": "Fedezze fel ennek a vaskori udvarnak a lenyűgöző maradványait, és képzelje el a korai életet, érdemes jó időben idelátogatni a kényelmes séta érdekében.",
+            "ro": "Explorați rămășițele fascinante ale acestei curți din Epoca Fierului pentru a vă imagina viața timpurie, o vizită pe vreme senină fiind cu adevărat plăcută.",
+            "en": "Explore the fascinating remains of this Iron Age courtyard to imagine early settlement life, aiming to visit on a clear day for a pleasant historical walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Krosshaug",
+            "hu": "Krosshaug",
+            "ro": "Krosshaug",
+            "en": "Krosshaug"
+          },
+          "coords": [
+            5.637308,
+            58.754323
+          ],
+          "category": "historical",
+          "arrive_at": "18:37",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem historischen Hügel den weiten Blick über die Landschaft von Jæren, ideal für ein unvergessliches und stimmungsvolles Foto.",
+            "hu": "Élvezze a történelmi dombról nyíló széles kilátást Jæren csodálatos tájára, amely tökéletes helyszínt biztosít egy emlékezetes fénykép elkészítéséhez.",
+            "ro": "Bucurați-vă de priveliștile ample asupra peisajului din Jæren de pe acest deal istoric, un loc perfect pentru a face o fotografie memorabilă de vacanță.",
+            "en": "Enjoy the expansive views over the Jæren landscape from this historical hill, which provides a perfect vantage point for a memorable scenic photograph."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Tag mit einer Fahrt zum Linemyra Naturreservat für einen erfrischenden Morgenspaziergang in der Natur. Danach besuchen Sie das malerische Smokkevatnet Naturreservat. Mittags fahren Sie ins Stadtzentrum zum informativen Garborgsenteret und besichtigen anschließend die architektonisch reizvolle Bryne kyrkje. Am Nachmittag lassen Sie sich von den Kunstwerken der Jærens kunstgalleri inspirieren. Den Abend verbringen Sie mit historischen Entdeckungen bei Grønhaug, Dysjane und schließlich Krosshaug.",
+        "hu": "Kezdje a napot egy frissítő reggeli sétával a Linemyra természetvédelmi területen, majd látogasson el a festői Smokkevatnethez. Délben autózzon a központba, hogy felfedezze a Garborgsenteret irodalmi világát, és vesse pillantását a modern Bryne kyrkjére. Délután a Jærens kunstgalleri lenyűgöző alkotásai nyújtanak inspirációt. Az estét a régió történelmének szenteli, sorra látogatva a Grønhaug, Dysjane és végül a Krosshaug ősi emlékhelyeit.",
+        "ro": "Începeți ziua cu o scurtă călătorie către rezervația naturală Linemyra pentru o plimbare revigorantă. După o vizită la pitorescul Smokkevatnet, conduceți spre centrul orașului la prânz pentru a descoperi Garborgsenteret și superba biserică Bryne kyrkje. După-amiaza vă aduce inspirație la galeria de artă Jærens kunstgalleri. Seara este dedicată istoriei vechi, explorând pe rând mormântul Grønhaug, curtea Dysjane și dealul Krosshaug.",
+        "en": "Start your day driving to the Linemyra nature reserve for a refreshing morning walk surrounded by local wildlife. Next, visit the picturesque Smokkevatnet nature reserve. By midday, head to the city center to explore the informative Garborgsenteret and see the striking Bryne kyrkje. The afternoon offers artistic inspiration at the Jærens kunstgalleri. Spend your evening delving into ancient history by visiting Grønhaug, Dysjane, and finally Krosshaug."
+      }
+    }
+  }
+}

@@ -1,0 +1,520 @@
+{
+  "city_id": "spain-campo-de-criptana-cities-v2",
+  "anchor": {
+    "name": "Campo de Criptana",
+    "coords": [
+      -3.12492,
+      39.40463
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:50",
+      "total_km": 0.95,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Pósito",
+            "hu": "Pósito",
+            "ro": "Pósito",
+            "en": "Pósito"
+          },
+          "coords": [
+            -3.126228,
+            39.404724
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses ehemaligen Kornspeichers aus dem 16. Jahrhundert, ein landwirtschaftliches Juwel, und achten Sie bei Ihrem morgendlichen Besuch auf die Details der Holzdecke.",
+            "hu": "Csodálja meg ennek a 16. századi egykori magtárnak, egy mezőgazdasági kincsnek az építészetét, és figyeljen a fagerendás mennyezet részleteire a kora reggeli látogatás során.",
+            "ro": "Admirați arhitectura acestui fost grânar din secolul al XVI-lea, o comoară agricolă, acordând atenție detaliilor tavanului din lemn în timpul vizitei de dimineață.",
+            "en": "Admire the striking architecture of this former 16th-century granary, an agricultural treasure, while paying attention to the intricate wooden ceiling details during your early morning visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Parroquia de Nuestra Señora de la Asunción",
+            "hu": "Parroquia de Nuestra Señora de la Asunción",
+            "ro": "Parroquia de Nuestra Señora de la Asunción",
+            "en": "Parroquia de Nuestra Señora de la Asunción"
+          },
+          "coords": [
+            -3.12577,
+            39.405644
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Betreten Sie diese große Kirche, um ihren atemberaubenden Altar und die Nachkriegsgeschichte zu sehen, aber kleiden Sie sich bescheiden und sprechen Sie leise, um die Betenden zu respektieren.",
+            "hu": "Lépjen be ebbe a lenyűgöző templomba, hogy megcsodálja oltárát és háború utáni újjáépítésének történetét, de öltözzön visszafogottan és beszéljen halkan, tisztelve a misézőket.",
+            "ro": "Pășiți în această biserică grandioasă pentru a vedea altarul și istoria reconstrucției sale postbelice, dar îmbrăcați-vă modest și vorbiți încet pentru a respecta rugăciunile.",
+            "en": "Step inside this grand church to see its stunning altar and post-war reconstruction history, but remember to dress modestly and keep your voice low to respect ongoing prayers."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Cueva de la Pastora Marcela",
+            "hu": "Casa Cueva de la Pastora Marcela",
+            "ro": "Casa Cueva de la Pastora Marcela",
+            "en": "Casa Cueva de la Pastora Marcela"
+          },
+          "coords": [
+            -3.124419,
+            39.407576
+          ],
+          "category": "museum",
+          "arrive_at": "11:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie das traditionelle Leben in diesem authentischen, in den Fels gehauenen Höhlenhaus und achten Sie bei den niedrigen, unebenen Steintüren auf Ihren Kopf.",
+            "hu": "Fedezze fel a hagyományos manchai életet ebben a sziklába vájt, autentikus barlangházban, és ügyeljen a fejére az alacsony, egyenetlen kőajtóknál.",
+            "ro": "Descoperiți viața tradițională din La Mancha în această casă autentică săpată în stâncă, având grijă la cap când treceți prin ușile joase și inegale din piatră.",
+            "en": "Discover traditional Manchegan living inside this authentic cave house excavated into the rock, taking care to watch your head on the low, uneven stone doorways."
+          }
+        },
+        {
+          "name": {
+            "de": "Molino Infanto",
+            "hu": "Molino Infanto",
+            "ro": "Molino Infanto",
+            "en": "Molino Infanto"
+          },
+          "coords": [
+            -3.124082,
+            39.408668
+          ],
+          "category": "landmark",
+          "arrive_at": "12:58",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Nähern Sie sich dieser ikonischen weißen Windmühle, die Cervantes inspirierte, und bringen Sie Ihr bestes Weitwinkelobjektiv mit, um die riesigen Holzflügel vor dem Himmel einzufangen.",
+            "hu": "Menjen közel ehhez az ikonikus fehér szélmalomhoz, amely Cervantes remekművét ihlette, és vigyen magával nagylátószögű objektívet, hogy megörökítse a hatalmas falapátokat.",
+            "ro": "Apropiați-vă de această faimoasă moară de vânt albă care a inspirat capodopera lui Cervantes, aducând cel mai bun obiectiv superangular pentru a surprinde palele uriașe din lemn.",
+            "en": "Get close to this iconic whitewashed windmill that inspired Cervantes' literary masterpiece, bringing your widest camera lens to capture its massive wooden blades against the blue sky."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de los Molinos",
+            "hu": "Mirador de los Molinos",
+            "ro": "Mirador de los Molinos",
+            "en": "Mirador de los Molinos"
+          },
+          "coords": [
+            -3.122674,
+            39.41262
+          ],
+          "category": "natural",
+          "arrive_at": "13:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf die weiten Ebenen von diesem erhöhten Aussichtspunkt und kommen Sie kurz vor Sonnenuntergang, um das beste Licht zu erleben.",
+            "hu": "Élvezze a lélegzetelállító panorámát a végtelen síkságra ebből a magaslati pontból, és érkezzen közvetlenül naplemente előtt, hogy elkerülje a tömeget és a legjobb fényeket kapja.",
+            "ro": "Bucurați-vă de priveliștile panoramice uluitoare ale câmpiilor întinse de la acest punct de belvedere, sosind chiar înainte de apus pentru a prinde cea mai bună lumină și mai puțini oameni.",
+            "en": "Enjoy breathtaking panoramic views of the flat plains stretching endlessly from this elevated vantage point, arriving just before sunset for the best lighting conditions and fewest crowds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen unseren Rundgang im historischen Zentrum, um das charmante Pósito-Gebäude und die große Pfarrkirche zu erkunden. Mittags wandern wir durch die engen Gassen zu einem traditionellen Höhlenhaus. Der Nachmittag ist den berühmten Windmühlen der Mancha gewidmet, die an die klassische Don-Quijote-Landschaft erinnern. Wir beenden unseren Tag am Panoramapunkt und genießen den Sonnenuntergang über den endlosen Ebenen.",
+        "hu": "Sétánkat a történelmi központban kezdjük a hangulatos Pósito épületével és a közeli plébániatemplommal. Délben a szűk utcákon felkapaszkodva megnézünk egy hagyományos barlangházat, amely a helyi életet tükrözi. A délután La Mancha híres szélmalmaié, amelyek Don Quijote klasszikus tájára engednek bepillantást. Napunkat a végtelen síkság feletti panorámakilátónál zárjuk a csodás naplemente kíséretében.",
+        "ro": "Ne începem turul la pas în centrul istoric pentru a explora clădirea fermecătoare Pósito și marea biserică parohială. La amiază, urcăm pe străduțele înguste pentru a vizita o casă tradițională în peșteră. După-amiaza este dedicată celebrelor mori de vânt din La Mancha, amintind de peisajul clasic din Don Quijote. Încheiem ziua admirând apusul de soare de la punctul de belvedere cu vedere la câmpiile întinse.",
+        "en": "We begin our walking tour in the historic center to explore the charming Pósito building and the grand parish church nearby. By midday, we hike up the narrow streets to visit a traditional cave house, reflecting authentic local life. The afternoon is dedicated to the famous windmills of La Mancha, offering a glimpse into the classic Don Quixote landscape. We end our day admiring the sunset at the panoramic viewpoint over the sprawling plains."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:52",
+      "total_km": 2.02,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Arco de la Feria",
+            "hu": "Arco de la Feria",
+            "ro": "Arco de la Feria",
+            "en": "Arco de la Feria"
+          },
+          "coords": [
+            -3.131448,
+            39.400125
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fahren Sie durch dieses historische Tor, das einst den Eingang zu den großen Messen markierte, und halten Sie sicher auf dem Kopfsteinpflaster, um ein Foto des Mauerwerks zu machen.",
+            "hu": "Kerékpározzon át ezen a történelmi kapun, amely egykor a nagy helyi vásárok bejáratát jelezte, és álljon meg biztonságosan a macskakövön egy gyors fotó erejéig a bájos téglamunkáról.",
+            "ro": "Treceți cu bicicleta prin această poartă istorică care marca intrarea la marile târguri locale, oprindu-vă în siguranță pe piatra cubică pentru a fotografia zidăria fermecătoare.",
+            "en": "Ride through this historic gateway that once marked the entrance to major local trade fairs, pausing safely on the cobblestones to snap a quick photo of its charming brickwork."
+          }
+        },
+        {
+          "name": {
+            "de": "Pósito",
+            "hu": "Pósito",
+            "ro": "Pósito",
+            "en": "Pósito"
+          },
+          "coords": [
+            -3.126228,
+            39.404724
+          ],
+          "category": "historical",
+          "arrive_at": "10:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.68,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses ehemaligen Kornspeichers aus dem 16. Jahrhundert, ein landwirtschaftliches Juwel, und achten Sie bei Ihrem morgendlichen Besuch auf die Details der Holzdecke.",
+            "hu": "Csodálja meg ennek a 16. századi egykori magtárnak, egy mezőgazdasági kincsnek az építészetét, és figyeljen a fagerendás mennyezet részleteire a kora reggeli látogatás során.",
+            "ro": "Admirați arhitectura acestui fost grânar din secolul al XVI-lea, o comoară agricolă, acordând atenție detaliilor tavanului din lemn în timpul vizitei de dimineață.",
+            "en": "Admire the striking architecture of this former 16th-century granary, an agricultural treasure, while paying attention to the intricate wooden ceiling details during your early morning visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita de Santa Ana",
+            "hu": "Ermita de Santa Ana",
+            "ro": "Ermita de Santa Ana",
+            "en": "Ermita de Santa Ana"
+          },
+          "coords": [
+            -3.122329,
+            39.406728
+          ],
+          "category": "religious",
+          "arrive_at": "11:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ruhen Sie sich an dieser bescheidenen, der Schutzpatronin der Schwangeren gewidmeten Kapelle aus und genießen Sie die ruhige Atmosphäre, bevor Sie den steilen Anstieg zu den Mühlen in Angriff nehmen.",
+            "hu": "Pihenjen meg ennél a terhes nők védőszentjének szentelt, szerény kápolnánál, és élvezze a csendes környéket, mielőtt nekivágna a szélmalmokhoz vezető meredek emelkedőnek.",
+            "ro": "Odihniți-vă lângă această capelă modestă dedicată sfintei patroane a femeilor însărcinate, bucurându-vă de liniștea cartierului înainte de a aborda urcușul abrupt spre morile de vânt.",
+            "en": "Rest by this serene, modest chapel dedicated to the patron saint of pregnant women, enjoying the quiet neighborhood atmosphere before tackling the steep incline up to the windmills."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Cueva de la Pastora Marcela",
+            "hu": "Casa Cueva de la Pastora Marcela",
+            "ro": "Casa Cueva de la Pastora Marcela",
+            "en": "Casa Cueva de la Pastora Marcela"
+          },
+          "coords": [
+            -3.124419,
+            39.407576
+          ],
+          "category": "museum",
+          "arrive_at": "12:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie das traditionelle Leben in diesem authentischen, in den Fels gehauenen Höhlenhaus und achten Sie bei den niedrigen, unebenen Steintüren auf Ihren Kopf.",
+            "hu": "Fedezze fel a hagyományos manchai életet ebben a sziklába vájt, autentikus barlangházban, és ügyeljen a fejére az alacsony, egyenetlen kőajtóknál.",
+            "ro": "Descoperiți viața tradițională din La Mancha în această casă autentică săpată în stâncă, având grijă la cap când treceți prin ușile joase și inegale din piatră.",
+            "en": "Discover traditional Manchegan living inside this authentic cave house excavated into the rock, taking care to watch your head on the low, uneven stone doorways."
+          }
+        },
+        {
+          "name": {
+            "de": "Molino Lagarto",
+            "hu": "Molino Lagarto",
+            "ro": "Molino Lagarto",
+            "en": "Molino Lagarto"
+          },
+          "coords": [
+            -3.124446,
+            39.410113
+          ],
+          "category": "landmark",
+          "arrive_at": "14:19",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Bewundern Sie die robuste Mechanik dieser gut erhaltenen Windmühle, die Eidechsenmühle genannt wird, und sichern Sie Ihre Sachen, da der Wind hier oben ziemlich stark sein kann.",
+            "hu": "Csodálja meg a Gyík malomnak nevezett, gyönyörűen megőrzött épület robusztus mechanikáját, és rögzítse jól a holmijait, mert a dombtetőn a szél meglehetősen erős lehet.",
+            "ro": "Admirați mecanica robustă a acestei mori de vânt frumos conservate, numită Moara Șopârlă, și asigurați-vă bine lucrurile, deoarece vânturile de pe deal pot fi destul de puternice.",
+            "en": "Admire the robust mechanics of this beautifully preserved windmill, which translates to the Lizard Mill, and secure your belongings tightly as the hilltop winds here can be quite forceful."
+          }
+        },
+        {
+          "name": {
+            "de": "Molino Pilón",
+            "hu": "Molino Pilón",
+            "ro": "Molino Pilón",
+            "en": "Molino Pilón"
+          },
+          "coords": [
+            -3.123205,
+            39.409611
+          ],
+          "category": "landmark",
+          "arrive_at": "15:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Untersuchen Sie das traditionelle Mauerwerk dieser historischen Getreidemühle aus der Nähe und achten Sie auf die manchmal rutschigen Kieswege, die ihren runden Sockel umgeben.",
+            "hu": "Vizsgálja meg közelről ennek a történelmi lisztmalomnak a hagyományos kőművesmunkáját, és óvatosan lépkedjen a kör alakú alapját körülvevő, néha csúszós kavicsos utakon.",
+            "ro": "Examinați îndeaproape zidăria tradițională a acestei mori de făină istorice, având grijă să pășiți ușor pe potecile de pietriș uneori alunecoase care înconjoară baza sa circulară.",
+            "en": "Examine the traditional stonework of this historic flour mill up close, taking care to step lightly around the sometimes slippery gravel pathways surrounding its circular base."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de los Molinos",
+            "hu": "Mirador de los Molinos",
+            "ro": "Mirador de los Molinos",
+            "en": "Mirador de los Molinos"
+          },
+          "coords": [
+            -3.122674,
+            39.41262
+          ],
+          "category": "natural",
+          "arrive_at": "15:52",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.34,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf die weiten Ebenen von diesem erhöhten Aussichtspunkt und kommen Sie kurz vor Sonnenuntergang, um das beste Licht zu erleben.",
+            "hu": "Élvezze a lélegzetelállító panorámát a végtelen síkságra ebből a magaslati pontból, és érkezzen közvetlenül naplemente előtt, hogy elkerülje a tömeget és a legjobb fényeket kapja.",
+            "ro": "Bucurați-vă de priveliștile panoramice uluitoare ale câmpiilor întinse de la acest punct de belvedere, sosind chiar înainte de apus pentru a prinde cea mai bună lumină și mai puțini oameni.",
+            "en": "Enjoy breathtaking panoramic views of the flat plains stretching endlessly from this elevated vantage point, arriving just before sunset for the best lighting conditions and fewest crowds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour am markanten Arco de la Feria, bevor Sie gemütlich zum kulturellen Zentrum rund um das Pósito fahren. Mittags steuern Sie die charmante Ermita de Santa Ana an und entdecken die einzigartige Höhlenarchitektur. Am Nachmittag radeln Sie den Hügel hinauf zu den ikonischen historischen Windmühlen Molino Lagarto und Pilón. Am Abend ruhen Sie sich am Aussichtspunkt aus und genießen den unvergesslichen Sonnenuntergang der Mancha.",
+        "hu": "Kezdje kerékpártúráját a lenyűgöző Arco de la Feria-nál, majd tekerjen kényelmesen a Pósito körüli kulturális központ felé. Délben látogasson el a bájos Ermita de Santa Ana-hoz, és fedezze fel a különleges barlanglakásokat. Délután tekerjen fel a dombra az ikonikus történelmi szélmalmokhoz, mint a Molino Lagarto és a Pilón. Estefelé pihentesse meg lábait a kilátónál, miközben az emlékezetes manchai naplementében gyönyörködik.",
+        "ro": "Începeți traseul pe bicicletă la impresionantul Arco de la Feria, înainte de a pedala ușor spre centrul cultural din jurul Pósito. La amiază, îndreptați-vă spre fermecătoarea Ermita de Santa Ana și descoperiți arhitectura unică a locuințelor în peșteră. După-amiaza, urcați dealul spre morile de vânt istorice iconice, în special Molino Lagarto și Pilón. Seara, odihniți-vă picioarele la punctul de belvedere, bucurându-vă de apusul de neuitat din La Mancha.",
+        "en": "Kick off your cycling route at the striking Arco de la Feria before smoothly riding towards the cultural heart around the Pósito. At midday, navigate towards the charming Ermita de Santa Ana and uncover the unique cave dwelling architecture. In the afternoon, pedaling up the hill takes you close to the iconic historical windmills, specifically Molino Lagarto and Pilón. As evening falls, rest your legs at the viewpoint, soaking in the unforgettable La Mancha sunset."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:19",
+      "total_km": 3.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Bandera de España en Memoria de las Víctimas del Terrorismo",
+            "hu": "Bandera de España en Memoria de las Víctimas del Terrorismo",
+            "ro": "Bandera de España en Memoria de las Víctimas del Terrorismo",
+            "en": "Bandera de España en Memoria de las Víctimas del Terrorismo"
+          },
+          "coords": [
+            -3.136436,
+            39.401839
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Halten Sie einen Moment an diesem Gedenkplatz mit der Nationalflagge für die Opfer des Terrorismus inne und nutzen Sie die nahe gelegenen Parkplätze, um sich kurz die Beine zu vertreten.",
+            "hu": "Emlékezzen egy pillanatig a terrorizmus áldozatainak szentelt nemzeti zászlós emlékműnél, és használja a közeli utcai parkolót, hogy biztonságosan kiszálljon és kinyújtóztassa lábait.",
+            "ro": "Reflectați o clipă la acest memorial cu steagul național dedicat victimelor terorismului, folosind parcarea stradală din apropiere pentru a coborî și a vă întinde picioarele în siguranță.",
+            "en": "Reflect for a moment at this prominent national flag memorial dedicated to victims of terrorism, using the nearby street parking to briefly step out and stretch your legs safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Arco de la Feria",
+            "hu": "Arco de la Feria",
+            "ro": "Arco de la Feria",
+            "en": "Arco de la Feria"
+          },
+          "coords": [
+            -3.131448,
+            39.400125
+          ],
+          "category": "historical",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Fahren Sie durch dieses historische Tor, das einst den Eingang zu den großen Messen markierte, und halten Sie sicher auf dem Kopfsteinpflaster, um ein Foto des Mauerwerks zu machen.",
+            "hu": "Kerékpározzon át ezen a történelmi kapun, amely egykor a nagy helyi vásárok bejáratát jelezte, és álljon meg biztonságosan a macskakövön egy gyors fotó erejéig a bájos téglamunkáról.",
+            "ro": "Treceți cu bicicleta prin această poartă istorică care marca intrarea la marile târguri locale, oprindu-vă în siguranță pe piatra cubică pentru a fotografia zidăria fermecătoare.",
+            "en": "Ride through this historic gateway that once marked the entrance to major local trade fairs, pausing safely on the cobblestones to snap a quick photo of its charming brickwork."
+          }
+        },
+        {
+          "name": {
+            "de": "Quiosco de la Música",
+            "hu": "Quiosco de la Música",
+            "ro": "Quiosco de la Música",
+            "en": "Quiosco de la Música"
+          },
+          "coords": [
+            -3.120583,
+            39.39993
+          ],
+          "category": "cultural",
+          "arrive_at": "11:53",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.93,
+          "tip_5lang": {
+            "de": "Schlendern Sie um diesen charmanten Musikpavillon im Stadtzentrum und schauen Sie online im lokalen Veranstaltungskalender nach, ob am Abend ein spontanes Konzert der Gemeindeband stattfindet.",
+            "hu": "Sétáljon körbe a városközpont bájos szabadtéri zenepavilonjánál, és ellenőrizze az online naptárat, hátha elcsíp egy spontán esti fúvószenekari előadást a helyiektől.",
+            "ro": "Plimbați-vă în jurul acestui fermecător pavilion muzical în aer liber din centrul orașului, verificând programul online pentru a vedea dacă puteți prinde un spectacol spontan al fanfarei.",
+            "en": "Wander around this charming outdoor music pavilion in the center of town, checking the local schedule online to see if you can catch a spontaneous evening community band performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Parroquia de Nuestra Señora de la Asunción",
+            "hu": "Parroquia de Nuestra Señora de la Asunción",
+            "ro": "Parroquia de Nuestra Señora de la Asunción",
+            "en": "Parroquia de Nuestra Señora de la Asunción"
+          },
+          "coords": [
+            -3.12577,
+            39.405644
+          ],
+          "category": "religious",
+          "arrive_at": "12:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.77,
+          "tip_5lang": {
+            "de": "Betreten Sie diese große Kirche, um ihren atemberaubenden Altar und die Nachkriegsgeschichte zu sehen, aber kleiden Sie sich bescheiden und sprechen Sie leise, um die Betenden zu respektieren.",
+            "hu": "Lépjen be ebbe a lenyűgöző templomba, hogy megcsodálja oltárát és háború utáni újjáépítésének történetét, de öltözzön visszafogottan és beszéljen halkan, tisztelve a misézőket.",
+            "ro": "Pășiți în această biserică grandioasă pentru a vedea altarul și istoria reconstrucției sale postbelice, dar îmbrăcați-vă modest și vorbiți încet pentru a respecta rugăciunile.",
+            "en": "Step inside this grand church to see its stunning altar and post-war reconstruction history, but remember to dress modestly and keep your voice low to respect ongoing prayers."
+          }
+        },
+        {
+          "name": {
+            "de": "Local Museum",
+            "hu": "Local Museum",
+            "ro": "Local Museum",
+            "en": "Local Museum"
+          },
+          "coords": [
+            -3.121063,
+            39.408864
+          ],
+          "category": "museum",
+          "arrive_at": "13:06",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.54,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das vielfältige kulturelle Erbe der Region ein und fragen Sie das Personal an der Rezeption nach der englischen Broschüre, um die unbeschrifteten ländlichen Artefakte besser zu verstehen.",
+            "hu": "Merüljön el a régió változatos kulturális örökségében, és kérje el a recepción az angol nyelvű füzetet, hogy jobban megértse a felirat nélküli mezőgazdasági tárgyak eredetét.",
+            "ro": "Cufundați-vă în moștenirea culturală diversă a regiunii și cereți personalului de la recepție broșura în engleză pentru a înțelege mai bine artefactele rurale neetichetate.",
+            "en": "Immerse yourself in the region's diverse artistic and cultural heritage housed here, asking the front desk staff for the small English brochure to better understand the unlabeled rural artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Molino Cariari",
+            "hu": "Molino Cariari",
+            "ro": "Molino Cariari",
+            "en": "Molino Cariari"
+          },
+          "coords": [
+            -3.122217,
+            39.409814
+          ],
+          "category": "landmark",
+          "arrive_at": "14:47",
+          "stay_min": 45,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Stehen Sie neben dieser majestätischen historischen Windmühle, die sich perfekt vom blauen Himmel abhebt, und bringen Sie eine leichte Windjacke mit, da die Böen auf diesem Kamm kühl sind.",
+            "hu": "Álljon meg e fenséges, kék égbolt előtt tornyosuló történelmi szélmalom mellett, és hozzon magával egy könnyű széldzsekit, mivel ezen a nyitott hegygerincen a széllökések meglepően hűvösek.",
+            "ro": "Stați lângă această majestuoasă moară de vânt istorică profilată perfect pe cerul albastru, aducând o jachetă subțire, deoarece rafalele de vânt de pe această creastă expusă sunt destul de reci.",
+            "en": "Stand beside this majestic historic windmill perched perfectly against the blue sky, bringing a light windbreaker jacket since the gusts atop this exposed ridge are surprisingly chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Molino Infanto",
+            "hu": "Molino Infanto",
+            "ro": "Molino Infanto",
+            "en": "Molino Infanto"
+          },
+          "coords": [
+            -3.124082,
+            39.408668
+          ],
+          "category": "landmark",
+          "arrive_at": "15:33",
+          "stay_min": 45,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nähern Sie sich dieser ikonischen weißen Windmühle, die Cervantes inspirierte, und bringen Sie Ihr bestes Weitwinkelobjektiv mit, um die riesigen Holzflügel vor dem Himmel einzufangen.",
+            "hu": "Menjen közel ehhez az ikonikus fehér szélmalomhoz, amely Cervantes remekművét ihlette, és vigyen magával nagylátószögű objektívet, hogy megörökítse a hatalmas falapátokat.",
+            "ro": "Apropiați-vă de această faimoasă moară de vânt albă care a inspirat capodopera lui Cervantes, aducând cel mai bun obiectiv superangular pentru a surprinde palele uriașe din lemn.",
+            "en": "Get close to this iconic whitewashed windmill that inspired Cervantes' literary masterpiece, bringing your widest camera lens to capture its massive wooden blades against the blue sky."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de los Molinos",
+            "hu": "Mirador de los Molinos",
+            "ro": "Mirador de los Molinos",
+            "en": "Mirador de los Molinos"
+          },
+          "coords": [
+            -3.122674,
+            39.41262
+          ],
+          "category": "natural",
+          "arrive_at": "16:19",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf die weiten Ebenen von diesem erhöhten Aussichtspunkt und kommen Sie kurz vor Sonnenuntergang, um das beste Licht zu erleben.",
+            "hu": "Élvezze a lélegzetelállító panorámát a végtelen síkságra ebből a magaslati pontból, és érkezzen közvetlenül naplemente előtt, hogy elkerülje a tömeget és a legjobb fényeket kapja.",
+            "ro": "Bucurați-vă de priveliștile panoramice uluitoare ale câmpiilor întinse de la acest punct de belvedere, sosind chiar înainte de apus pentru a prinde cea mai bună lumină și mai puțini oameni.",
+            "en": "Enjoy breathtaking panoramic views of the flat plains stretching endlessly from this elevated vantage point, arriving just before sunset for the best lighting conditions and fewest crowds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt am Gedenkflaggenplatz und überqueren Sie den historischen Messebogen in die Stadt. Gegen Mittag parken Sie in der Nähe des Musikpavillons und besuchen die atemberaubende Pfarrkirche sowie das örtliche Museum. Die Nachmittagsfahrt führt Sie den Hügel hinauf, um die majestätischen Don-Quijote-Windmühlen wie Cariari und Infanto hautnah zu erleben. Beenden Sie die Reise in der Dämmerung am malerischen Aussichtspunkt und bestaunen Sie den weiten Horizont.",
+        "hu": "Autós kalandját az emlékműnél és a történelmi vásáríven áthaladva kezdje meg a város irányába. Dél körül parkoljon le a zenepavilon közelében, látogassa meg a lenyűgöző plébániatemplomot és a helyi múzeumot. Délutáni útja a dombra vezet, hogy testközelből is megcsodálhassa a fenséges Don Quijote-szélmalmokat, köztük a Cariari-t és az Infanto-t. Zárja a napot alkonyatkor a festői kilátónál, a hatalmas látóhatárban gyönyörködve.",
+        "ro": "Începeți aventura cu mașina onorând istoria locală la steagul memorial și trecând pe sub arcul istoric al târgului. Pe la prânz, parcați lângă chioșcul muzical și vizitați uimitoarea biserică parohială înainte de a explora muzeul local. După-amiaza urcați dealul pentru a admira îndeaproape morile de vânt maiestuoase ale lui Don Quijote, precum Cariari și Infanto. Încheiați călătoria la lăsarea serii la belvedere, minunându-vă de orizontul vast.",
+        "en": "Start your driving adventure honoring local history at the memorial flag and crossing the historic fair arch into town. Around noon, park near the musical kiosk and visit the stunning parish church before exploring the local museum's rich exhibits. Your afternoon drive ascends the hill to explore the majestic Don Quixote windmills like Cariari and Infanto up close. Wrap up the journey as dusk sets in at the scenic overlook, marveling at the vast horizon."
+      }
+    }
+  }
+}

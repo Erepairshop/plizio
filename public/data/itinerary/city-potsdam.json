@@ -1,0 +1,497 @@
+{
+  "city_id": "city-potsdam",
+  "anchor": {
+    "name": "Potsdam",
+    "coords": [
+      13.0657,
+      52.3906
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:20",
+      "total_km": 3.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum Barberini",
+            "hu": "Barberini Múzeum",
+            "ro": "Muzeul Barberini",
+            "en": "Barberini Museum"
+          },
+          "coords": [
+            13.062282,
+            52.395169
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisite Impressionisten-Sammlung in diesem wunderschön rekonstruierten Palast und kommen Sie früh, um Warteschlangen zu vermeiden.",
+            "hu": "Csodálja meg a gyönyörűen újjáépített palotában található kiváló impresszionista gyűjteményt, és érkezzen korán, hogy elkerülje a hosszú sorokat.",
+            "ro": "Admirați colecția impresionistă deosebită găzduită în acest palat frumos reconstruit și ajungeți devreme pentru a evita cozile lungi.",
+            "en": "Admire the exquisite Impressionist collection housed in this beautifully reconstructed palace, and arrive early to avoid the longest queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Holländisches Viertel",
+            "hu": "Holland negyed",
+            "ro": "Cartierul Olandez",
+            "en": "Dutch Quarter"
+          },
+          "coords": [
+            13.0611,
+            52.4028
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:02",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die größte niederländische Siedlung außerhalb der Niederlande, bewundern Sie die Backsteinfassaden und trinken Sie einen Kaffee in einem Café.",
+            "hu": "Sétáljon végig Hollandián kívüli legnagyobb holland lakónegyedben, csodálja meg a tégla homlokzatokat, és igyon egy kávét egy helyi butikkávézóban.",
+            "ro": "Plimbați-vă prin cel mai mare cartier olandez din afara Olandei pentru a admira fațadele de cărămidă și savurați o cafea la o cafenea locală.",
+            "en": "Stroll through the largest Dutch housing development outside the Netherlands to enjoy charming brick facades and grab a coffee at a local boutique cafe."
+          }
+        },
+        {
+          "name": {
+            "de": "Brandenburger Tor",
+            "hu": "Brandenburgi kapu",
+            "ro": "Poarta Brandenburg",
+            "en": "Brandenburg Gate"
+          },
+          "coords": [
+            13.048,
+            52.3995
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:42",
+          "stay_min": 15,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Machen Sie ein schnelles Foto an Potsdams eigenem Triumphbogen, der älter als der Berliner ist, bevor Sie die Hauptfußgängerzone betreten.",
+            "hu": "Készítsen egy gyors fotót Potsdam saját, a berlininél is régebbi diadalívénél, mielőtt belépne a fő sétálóutcába.",
+            "ro": "Faceți o fotografie rapidă la propriul arc de triumf al orașului Potsdam, mai vechi decât cel din Berlin, înainte de a intra pe pietonală.",
+            "en": "Take a quick photo at Potsdam's own triumphal arch, which is older than the one in Berlin, before entering the main pedestrian street."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Sanssouci",
+            "hu": "Sanssouci-palota",
+            "ro": "Palatul Sanssouci",
+            "en": "Sanssouci Palace"
+          },
+          "coords": [
+            13.038626,
+            52.403257
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie Friedrichs des Großen Rokoko-Sommerresidenz über den Weinterrassen, aber denken Sie daran, Ihre Tickets vorab online zu buchen.",
+            "hu": "Fedezze fel Nagy Frigyes rokokó nyári rezidenciáját a teraszos szőlőültetvények felett, de ne felejtse el előre lefoglalni a jegyeit online.",
+            "ro": "Explorați reședința de vară rococo a lui Frederic cel Mare, situată deasupra viilor terasate, dar asigurați-vă că rezervați biletele online în avans.",
+            "en": "Explore Frederick the Great's rococo summer residence perched above terraced vineyards, but remember to pre-book your timed entry tickets online."
+          }
+        },
+        {
+          "name": {
+            "de": "Park Sanssouci",
+            "hu": "Sanssouci park",
+            "ro": "Parcul Sanssouci",
+            "en": "Sanssouci Park"
+          },
+          "coords": [
+            13.0336,
+            52.402
+          ],
+          "category": "parks/promenades/lakes",
+          "arrive_at": "13:35",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der weiten Alleen, die verschiedene architektonische Wunder verbinden, und tragen Sie bequeme Schuhe für die Kieswege.",
+            "hu": "Sétáljon a különféle építészeti csodákat összekötő széles, fákkal szegélyezett utakon, és viseljen kényelmes cipőt a kavicsos ösvényekhez.",
+            "ro": "Plimbați-vă de-a lungul aleilor vaste mărginite de copaci care conectează diverse minuni arhitecturale și purtați încălțăminte confortabilă.",
+            "en": "Wander along the expansive tree-lined avenues connecting various architectural wonders, and wear comfortable shoes for the extensive gravel paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt mit Weltklasse-Kunst im Museum Barberini.\n\nDanach spazieren Sie zum lebhaften Holländischen Viertel mit seiner einzigartigen Backsteinarchitektur.\n\nMittags passieren Sie das historische Brandenburger Tor, bevor Sie das prächtige Schloss Sanssouci erreichen.\n\nDen Nachmittag verbringen Sie damit, die Terrassengärten und die Weiten des Parks Sanssouci zu erkunden.",
+        "hu": "A reggel a világszínvonalú művészet felfedezésével indul a Barberini Múzeumban.\n\nEzután sétáljon át a nyüzsgő Holland negyedbe, hogy megcsodálja a téglaépítészetet.\n\nDélben áthalad a történelmi Brandenburgi kapun, mielőtt megérkezik a csodálatos Sanssouci-palotához.\n\nA délutánt a teraszos kertek és a hatalmas Sanssouci park felfedezésével töltheti.",
+        "ro": "Dimineața începe cu o incursiune în arta de clasă mondială la Muzeul Barberini.\n\nApoi, faceți o scurtă plimbare până în vibrantul Cartier Olandez.\n\nLa prânz, veți trece prin istorica Poartă Brandenburg înainte de a ajunge la magnificul Palat Sanssouci.\n\nPetreceți după-amiaza explorând grădinile terasate și vastele întinderi ale Parcului Sanssouci.",
+        "en": "Your morning starts with an immersion into world-class art at the Barberini Museum.\n\nAfterwards, enjoy a short walk to the vibrant Dutch Quarter to experience its unique brick architecture.\n\nBy midday, you'll pass through the historic Brandenburg Gate before arriving at the magnificent Sanssouci Palace.\n\nSpend the afternoon exploring the terraced gardens and the vast expanses of Sanssouci Park."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:06",
+      "total_km": 9.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum Barberini",
+            "hu": "Barberini Múzeum",
+            "ro": "Muzeul Barberini",
+            "en": "Barberini Museum"
+          },
+          "coords": [
+            13.062282,
+            52.395169
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisite Impressionisten-Sammlung in diesem wunderschön rekonstruierten Palast und kommen Sie früh, um Warteschlangen zu vermeiden.",
+            "hu": "Csodálja meg a gyönyörűen újjáépített palotában található kiváló impresszionista gyűjteményt, és érkezzen korán, hogy elkerülje a hosszú sorokat.",
+            "ro": "Admirați colecția impresionistă deosebită găzduită în acest palat frumos reconstruit și ajungeți devreme pentru a evita cozile lungi.",
+            "en": "Admire the exquisite Impressionist collection housed in this beautifully reconstructed palace, and arrive early to avoid the longest queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Holländisches Viertel",
+            "hu": "Holland negyed",
+            "ro": "Cartierul Olandez",
+            "en": "Dutch Quarter"
+          },
+          "coords": [
+            13.0611,
+            52.4028
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die größte niederländische Siedlung außerhalb der Niederlande, bewundern Sie die Backsteinfassaden und trinken Sie einen Kaffee in einem Café.",
+            "hu": "Sétáljon végig Hollandián kívüli legnagyobb holland lakónegyedben, csodálja meg a tégla homlokzatokat, és igyon egy kávét egy helyi butikkávézóban.",
+            "ro": "Plimbați-vă prin cel mai mare cartier olandez din afara Olandei pentru a admira fațadele de cărămidă și savurați o cafea la o cafenea locală.",
+            "en": "Stroll through the largest Dutch housing development outside the Netherlands to enjoy charming brick facades and grab a coffee at a local boutique cafe."
+          }
+        },
+        {
+          "name": {
+            "de": "Brandenburger Tor",
+            "hu": "Brandenburgi kapu",
+            "ro": "Poarta Brandenburg",
+            "en": "Brandenburg Gate"
+          },
+          "coords": [
+            13.048,
+            52.3995
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "11:24",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Machen Sie ein schnelles Foto an Potsdams eigenem Triumphbogen, der älter als der Berliner ist, bevor Sie die Hauptfußgängerzone betreten.",
+            "hu": "Készítsen egy gyors fotót Potsdam saját, a berlininél is régebbi diadalívénél, mielőtt belépne a fő sétálóutcába.",
+            "ro": "Faceți o fotografie rapidă la propriul arc de triumf al orașului Potsdam, mai vechi decât cel din Berlin, înainte de a intra pe pietonală.",
+            "en": "Take a quick photo at Potsdam's own triumphal arch, which is older than the one in Berlin, before entering the main pedestrian street."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Sanssouci",
+            "hu": "Sanssouci-palota",
+            "ro": "Palatul Sanssouci",
+            "en": "Sanssouci Palace"
+          },
+          "coords": [
+            13.038626,
+            52.403257
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie Friedrichs des Großen Rokoko-Sommerresidenz über den Weinterrassen, aber denken Sie daran, Ihre Tickets vorab online zu buchen.",
+            "hu": "Fedezze fel Nagy Frigyes rokokó nyári rezidenciáját a teraszos szőlőültetvények felett, de ne felejtse el előre lefoglalni a jegyeit online.",
+            "ro": "Explorați reședința de vară rococo a lui Frederic cel Mare, situată deasupra viilor terasate, dar asigurați-vă că rezervați biletele online în avans.",
+            "en": "Explore Frederick the Great's rococo summer residence perched above terraced vineyards, but remember to pre-book your timed entry tickets online."
+          }
+        },
+        {
+          "name": {
+            "de": "Neues Palais",
+            "hu": "Új Palota",
+            "ro": "Palatul Nou",
+            "en": "New Palace"
+          },
+          "coords": [
+            13.01603,
+            52.401301
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die schiere Größe dieses spätbarocken Meisterwerks und vergessen Sie nicht, den atemberaubenden Grottensaal im Inneren zu besuchen.",
+            "hu": "Csodálja meg e késő barokk remekmű lenyűgöző nagyságát, és feltétlenül látogasson el a lenyűgöző barlangterembe.",
+            "ro": "Minunați-vă de grandoarea absolută a acestei capodopere baroce târzii, asigurându-vă că vizitați uluitoarea Sală a Grotelor din interior.",
+            "en": "Marvel at the sheer grandeur and massive scale of this late baroque masterpiece, making sure to visit the stunning Grotto Hall inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Cecilienhof",
+            "hu": "Cecilienhof-palota",
+            "ro": "Palatul Cecilienhof",
+            "en": "Cecilienhof Palace"
+          },
+          "coords": [
+            13.070833,
+            52.419167
+          ],
+          "category": "famous buildings/residences",
+          "arrive_at": "14:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das rustikale Herrenhaus im englischen Tudor-Stil, wo 1945 die Potsdamer Konferenz stattfand, und nutzen Sie den Audioguide.",
+            "hu": "Fedezze fel azt a rusztikus, angol Tudor-stílusú kastélyt, ahol az 1945-ös potsdami konferencia zajlott, és kérjen audioguide-ot a történelmi háttérhez.",
+            "ro": "Descoperiți conacul rustic în stil englezesc Tudor unde a avut loc Conferința de la Potsdam în 1945 și luați un ghid audio pentru context istoric.",
+            "en": "Discover the rustic English Tudor-style manor where the historic 1945 Potsdam Conference took place, and pick up an audio guide for deep historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Glienicker Brücke",
+            "hu": "Glienicke híd",
+            "ro": "Podul Glienicke",
+            "en": "Glienicke Bridge"
+          },
+          "coords": [
+            13.090278,
+            52.413333
+          ],
+          "category": "bridges/monuments/statues",
+          "arrive_at": "16:21",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Überqueren Sie die berühmte Agentenbrücke zwischen Potsdam und Berlin und achten Sie auf den Farbunterschied im Stahl, der die alte Grenze markiert.",
+            "hu": "Sétáljon át a Potsdamot és Berlint összekötő híres Kémek hídján, és keresse meg az egykori határt jelző színkülönbséget az acélszerkezeten.",
+            "ro": "Traversați faimosul Pod al Spionilor care leagă Potsdam de Berlin și căutați diferența de culoare a oțelului care marchează vechea graniță.",
+            "en": "Walk across the famous Bridge of Spies connecting Potsdam to Berlin, and look for the slight color difference in the steel marking the old border."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour mit Kunst im Museum Barberini, bevor Sie zum Holländischen Viertel radeln.\n\nMittags fahren Sie am Brandenburger Tor vorbei zum legendären Schloss Sanssouci.\n\nNachmittags fahren Sie durch den Park zum Neuen Palais und weiter zum Schloss Cecilienhof.\n\nDer Abend endet mit einer malerischen Fahrt zur historischen Glienicker Brücke bei Sonnenuntergang.",
+        "hu": "Kezdje kerékpártúráját a Barberini Múzeumnál, majd tekerjen a Holland negyedbe.\n\nDélben a Brandenburgi kapu érintésével érkezik az ikonikus Sanssouci-palotához.\n\nDélután kerekezzen át a parkon az Új Palotához, majd észak felé a Cecilienhof-palotához.\n\nAz este egy festői tekeréssel zárul a történelmi Glienicke hídhoz naplementekor.",
+        "ro": "Începeți turul cu bicicleta la Muzeul Barberini înainte de a pedala spre Cartierul Olandez.\n\nPrânzul vă aduce pe lângă Poarta Brandenburg până la emblematicul Palat Sanssouci.\n\nDupă-amiaza, mergeți prin parc până la Noul Palat, apoi spre nord către Palatul Cecilienhof.\n\nSeara se încheie cu o plimbare pitorească până la Podul Glienicke la apus.",
+        "en": "Kick off your cycling tour with art at the Barberini Museum before pedaling to the Dutch Quarter.\n\nMidday brings you past the Brandenburg Gate and up to the iconic Sanssouci Palace.\n\nIn the afternoon, ride through the park to the impressive New Palace, then head north to Cecilienhof Palace.\n\nYour evening concludes with a scenic ride to the historic Glienicke Bridge at sunset."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 18.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum Barberini",
+            "hu": "Barberini Múzeum",
+            "ro": "Muzeul Barberini",
+            "en": "Barberini Museum"
+          },
+          "coords": [
+            13.062282,
+            52.395169
+          ],
+          "category": "museums",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisite Impressionisten-Sammlung in diesem wunderschön rekonstruierten Palast und kommen Sie früh, um Warteschlangen zu vermeiden.",
+            "hu": "Csodálja meg a gyönyörűen újjáépített palotában található kiváló impresszionista gyűjteményt, és érkezzen korán, hogy elkerülje a hosszú sorokat.",
+            "ro": "Admirați colecția impresionistă deosebită găzduită în acest palat frumos reconstruit și ajungeți devreme pentru a evita cozile lungi.",
+            "en": "Admire the exquisite Impressionist collection housed in this beautifully reconstructed palace, and arrive early to avoid the longest queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Holländisches Viertel",
+            "hu": "Holland negyed",
+            "ro": "Cartierul Olandez",
+            "en": "Dutch Quarter"
+          },
+          "coords": [
+            13.0611,
+            52.4028
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "10:53",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die größte niederländische Siedlung außerhalb der Niederlande, bewundern Sie die Backsteinfassaden und trinken Sie einen Kaffee in einem Café.",
+            "hu": "Sétáljon végig Hollandián kívüli legnagyobb holland lakónegyedben, csodálja meg a tégla homlokzatokat, és igyon egy kávét egy helyi butikkávézóban.",
+            "ro": "Plimbați-vă prin cel mai mare cartier olandez din afara Olandei pentru a admira fațadele de cărămidă și savurați o cafea la o cafenea locală.",
+            "en": "Stroll through the largest Dutch housing development outside the Netherlands to enjoy charming brick facades and grab a coffee at a local boutique cafe."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Sanssouci",
+            "hu": "Sanssouci-palota",
+            "ro": "Palatul Sanssouci",
+            "en": "Sanssouci Palace"
+          },
+          "coords": [
+            13.038626,
+            52.403257
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "11:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie Friedrichs des Großen Rokoko-Sommerresidenz über den Weinterrassen, aber denken Sie daran, Ihre Tickets vorab online zu buchen.",
+            "hu": "Fedezze fel Nagy Frigyes rokokó nyári rezidenciáját a teraszos szőlőültetvények felett, de ne felejtse el előre lefoglalni a jegyeit online.",
+            "ro": "Explorați reședința de vară rococo a lui Frederic cel Mare, situată deasupra viilor terasate, dar asigurați-vă că rezervați biletele online în avans.",
+            "en": "Explore Frederick the Great's rococo summer residence perched above terraced vineyards, but remember to pre-book your timed entry tickets online."
+          }
+        },
+        {
+          "name": {
+            "de": "Neues Palais",
+            "hu": "Új Palota",
+            "ro": "Palatul Nou",
+            "en": "New Palace"
+          },
+          "coords": [
+            13.01603,
+            52.401301
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die schiere Größe dieses spätbarocken Meisterwerks und vergessen Sie nicht, den atemberaubenden Grottensaal im Inneren zu besuchen.",
+            "hu": "Csodálja meg e késő barokk remekmű lenyűgöző nagyságát, és feltétlenül látogasson el a lenyűgöző barlangterembe.",
+            "ro": "Minunați-vă de grandoarea absolută a acestei capodopere baroce târzii, asigurându-vă că vizitați uluitoarea Sală a Grotelor din interior.",
+            "en": "Marvel at the sheer grandeur and massive scale of this late baroque masterpiece, making sure to visit the stunning Grotto Hall inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Cecilienhof",
+            "hu": "Cecilienhof-palota",
+            "ro": "Palatul Cecilienhof",
+            "en": "Cecilienhof Palace"
+          },
+          "coords": [
+            13.070833,
+            52.419167
+          ],
+          "category": "famous buildings/residences",
+          "arrive_at": "14:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das rustikale Herrenhaus im englischen Tudor-Stil, wo 1945 die Potsdamer Konferenz stattfand, und nutzen Sie den Audioguide.",
+            "hu": "Fedezze fel azt a rusztikus, angol Tudor-stílusú kastélyt, ahol az 1945-ös potsdami konferencia zajlott, és kérjen audioguide-ot a történelmi háttérhez.",
+            "ro": "Descoperiți conacul rustic în stil englezesc Tudor unde a avut loc Conferința de la Potsdam în 1945 și luați un ghid audio pentru context istoric.",
+            "en": "Discover the rustic English Tudor-style manor where the historic 1945 Potsdam Conference took place, and pick up an audio guide for deep historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Glienicker Brücke",
+            "hu": "Glienicke híd",
+            "ro": "Podul Glienicke",
+            "en": "Glienicke Bridge"
+          },
+          "coords": [
+            13.090278,
+            52.413333
+          ],
+          "category": "bridges/monuments/statues",
+          "arrive_at": "15:42",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Überqueren Sie die berühmte Agentenbrücke zwischen Potsdam und Berlin und achten Sie auf den Farbunterschied im Stahl, der die alte Grenze markiert.",
+            "hu": "Sétáljon át a Potsdamot és Berlint összekötő híres Kémek hídján, és keresse meg az egykori határt jelző színkülönbséget az acélszerkezeten.",
+            "ro": "Traversați faimosul Pod al Spionilor care leagă Potsdam de Berlin și căutați diferența de culoare a oțelului care marchează vechea graniță.",
+            "en": "Walk across the famous Bridge of Spies connecting Potsdam to Berlin, and look for the slight color difference in the steel marking the old border."
+          }
+        },
+        {
+          "name": {
+            "de": "Waldbad Templin",
+            "hu": "Templin erdei strand",
+            "ro": "Ștrandul forestier Templin",
+            "en": "Waldbad Templin"
+          },
+          "coords": [
+            13.021223,
+            52.360288
+          ],
+          "category": "recreational",
+          "arrive_at": "16:14",
+          "stay_min": 105,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich nach einem langen Tag am Wasser dieses ruhigen Waldseestrandes und bringen Sie ein Handtuch für ein erfrischendes Abendbad mit.",
+            "hu": "Pihenjen a vízparton ezen a nyugodt erdei tóparti strandon egy hosszú városnéző nap után, és hozzon magával törölközőt egy esti úszáshoz.",
+            "ro": "Relaxați-vă pe malul apei la această plajă liniștită de pe lacul forestier după o zi de vizite, aducând un prosop pentru o baie răcoroasă.",
+            "en": "Relax by the water at this tranquil forest lake beach after a long day of sightseeing, bringing your own towel for a refreshing evening swim."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt im Zentrum am Museum Barberini und dem charmanten Holländischen Viertel.\n\nMittags verlassen Sie den Kern, um Schloss Sanssouci und das Neue Palais zu bewundern.\n\nDer Nachmittag widmet sich der modernen Geschichte im Schloss Cecilienhof und der Glienicker Brücke.\n\nBeenden Sie den Tag entspannt am Wasser im idyllischen Waldbad Templin.",
+        "hu": "Autós túrája a központban, a Barberini Múzeumnál és a hangulatos Holland negyednél kezdődik.\n\nDélben elhagyja a városközpontot, hogy megcsodálja a Sanssouci és az Új Palota pompáját.\n\nA délután a modern történelemé a Cecilienhof-palotában és a Glienicke hídnál.\n\nZárja a napot a vízparton pihenve a félreeső Waldbad Templin strandon.",
+        "ro": "Traseul auto începe în centru la Muzeul Barberini și fermecătorul Cartier Olandez.\n\nLa prânz, veți părăsi zona urbană pentru a admira splendoarea Palatului Sanssouci și Palatului Nou.\n\nDupă-amiaza trece la istoria modernă la Palatul Cecilienhof și Podul Glienicke.\n\nÎncheiați-vă ziua relaxându-vă pe malul apei la izolatul Waldbad Templin.",
+        "en": "Your driving route begins in the city center at the Barberini Museum and the charming Dutch Quarter.\n\nBy midday, you'll leave the urban core to marvel at the splendor of Sanssouci Palace and the monumental New Palace.\n\nThe afternoon shifts to modern history at Cecilienhof Palace and a quick stop at the Glienicke Bridge.\n\nEnd your day relaxing by the water at the secluded Waldbad Templin."
+      }
+    }
+  }
+}

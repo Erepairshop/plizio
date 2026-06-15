@@ -1,0 +1,451 @@
+{
+  "city_id": "auterive",
+  "anchor": {
+    "name": "Auterive",
+    "coords": [
+      1.4747,
+      43.3503
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:42",
+      "total_km": 1.35,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église de la Madeleine",
+            "hu": "Église de la Madeleine",
+            "ro": "Église de la Madeleine",
+            "en": "Église de la Madeleine"
+          },
+          "coords": [
+            1.473527,
+            43.350174
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reichen Innendetails und Buntglasfenster dieser zentralen Kirche, die Sie am besten morgens besuchen, wenn das östliche Sonnenlicht einfällt.",
+            "hu": "Fedezze fel e központi templom gazdag belső részleteit és ólomüveg ablakait, amelyet a keleti napfény beáramlása miatt a legjobb a délelőtti órákban felkeresni.",
+            "ro": "Descoperiți detaliile bogate din interior și vitraliile acestei biserici centrale, cel mai bine de vizitat dimineața când lumina soarelui inundă spațiul.",
+            "en": "Discover the rich interior details and stained glass windows of this central church, ideally visited in the morning when the eastern sunlight pours inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Allégora",
+            "hu": "Allégora",
+            "ro": "Allégora",
+            "en": "Allégora"
+          },
+          "coords": [
+            1.472559,
+            43.348702
+          ],
+          "category": "cultural",
+          "arrive_at": "09:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem modernen Veranstaltungszentrum in die lebhafte lokale Kultur ein und prüfen Sie vorab das Programm auf Ausstellungen oder Theatershows.",
+            "hu": "Merüljön el a nyüzsgő helyi kultúrában ebben a modern rendezvényközpontban, és előzetesen ellenőrizze a programot egy kiállítás vagy színházi előadás miatt.",
+            "ro": "Lăsați-vă captivat de cultura locală vibrantă la acest centru modern de evenimente, verificând programul în avans pentru o expoziție sau un spectacol de teatru.",
+            "en": "Immerse yourself in the vibrant local culture at this modern events center, checking their schedule in advance to catch an exhibition or theatrical show."
+          }
+        },
+        {
+          "name": {
+            "de": "Auterive-Brücke",
+            "hu": "Auterive híd",
+            "ro": "Podul Auterive",
+            "en": "Auterive Bridge"
+          },
+          "coords": [
+            1.468789,
+            43.348967
+          ],
+          "category": "historical",
+          "arrive_at": "11:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese prächtige Backsteinbrücke mit herrlichem Flussblick und bringen Sie eine Kamera für perfekte Spiegelungsfotos im Abendlicht mit.",
+            "hu": "Sétáljon át ezen a csodálatos, lenyűgöző folyami kilátást nyújtó tégla hídon, és hozzon magával fényképezőgépet a tökéletes aranyórás tükröződésekhez.",
+            "ro": "Traversați acest pod magnific din cărămidă ce oferă priveliști uimitoare spre râu și luați o cameră pentru reflexii perfecte la ora de aur pe Ariège.",
+            "en": "Cross this magnificent brick bridge offering stunning river views, and bring a camera for the perfect golden-hour reflection shots over the Ariège."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für alte Werkzeuge",
+            "hu": "Régi Eszközök Múzeuma",
+            "ro": "Muzeul Uneltelor Vechi",
+            "en": "Old Tools Museum"
+          },
+          "coords": [
+            1.477385,
+            43.352365
+          ],
+          "category": "museum",
+          "arrive_at": "12:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierende Sammlung traditioneller Handwerkswerkzeuge der Region; kommen Sie am besten gleich zur Eröffnung, um den Massen zu entgehen.",
+            "hu": "Fedezze fel a régió történelmét formáló hagyományos kézműves eszközök lenyűgöző gyűjteményét, és érkezzen nyitásra, hogy elkerülje a tömeget.",
+            "ro": "Explorați o colecție fascinantă de unelte meșteșugărești tradiționale care au modelat istoria regiunii, vizitând locul la deschidere pentru a evita aglomerația.",
+            "en": "Explore a fascinating collection of traditional artisanal tools that shaped the region's history, best visited right at opening to avoid small crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Paul-Kirche",
+            "hu": "Saint-Paul templom",
+            "ro": "Biserica Saint-Paul",
+            "en": "Saint-Paul Church"
+          },
+          "coords": [
+            1.478227,
+            43.352615
+          ],
+          "category": "religious",
+          "arrive_at": "14:32",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur und ruhige Atmosphäre dieser historischen Kirche und prüfen Sie die Aushänge auf lokale Choraufführungen.",
+            "hu": "Csodálja meg a történelmi templom lenyűgöző építészetét és békés hangulatát, de feltétlenül nézze meg a hirdetőtáblán a helyi kórusok fellépéseit.",
+            "ro": "Admirați arhitectura impresionantă și ambianța senină a acestei biserici istorice și asigurați-vă că verificați panoul pentru concertele corului local.",
+            "en": "Admire the striking architecture and serene ambiance of this historic church, and be sure to check the notice board for local choir performance schedules."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen im Herzen von Auterive in der Église de la Madeleine und genießen Sie die ruhige Atmosphäre. Nur einen kurzen Spaziergang entfernt lockt das Kulturzentrum Allégora.\nNach einer erfrischenden Mittagspause spazieren Sie zur ikonischen Auterive-Brücke, um das markante Mauerwerk zu bewundern.\nSetzen Sie Ihren Nachmittag im faszinierenden Museum für alte Werkzeuge fort, um mehr über regionales Handwerk zu erfahren.\nLassen Sie den Tag an der friedlichen Kirche Saint-Paul ausklingen und spüren Sie die historische Atmosphäre dieses charmanten Ortes.",
+        "hu": "Kezdje a reggelt Auterive szívében, az Église de la Madeleine-nél, és élvezze a csendes hangulatot. Csak egy rövid sétára várja az Allégora kulturális központ.\nEgy frissítő déli szünet után sétáljon az ikonikus Auterive híd felé, hogy megcsodálja annak lenyűgöző téglafalazatát.\nFolytassa a délutánt a Régi Eszközök Múzeumának felfedezésével, hogy megismerje a regionális kézművesség történetét.\nA napot a közeli békés Saint-Paul templomnál fejezheti be, hagyva, hogy a történelmi hangulat lezárja a hangulatos sétát.",
+        "ro": "Începeți dimineața în inima orașului Auterive la Église de la Madeleine, bucurându-vă de atmosfera liniștită. La doar o scurtă plimbare, descoperiți centrul cultural Allégora.\nDupă o pauză revigorantă la prânz, mergeți spre faimosul pod Auterive pentru a admira arhitectura sa din cărămidă.\nContinuați după-amiaza explorând fascinantul Muzeu al Uneltelor Vechi pentru a afla despre meșteșugurile regionale.\nÎncheiați ziua foarte aproape, la biserica pașnică Saint-Paul, lăsând ambianța istorică să vă completeze perfect turul la pas.",
+        "en": "Start your morning in the heart of Auterive at the beautiful Église de la Madeleine, soaking in the quiet atmosphere. Just a short stroll away, dive into contemporary local life at the Allégora cultural center.\nAfter a refreshing midday break, walk towards the iconic Auterive Bridge to admire its striking brickwork.\nContinue your afternoon by exploring the fascinating Old Tools Museum to learn about regional craftsmanship.\nFinish the day a stone's throw away at the peaceful Saint-Paul Church, letting the historic ambiance round off your walking tour."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:56",
+      "total_km": 3.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum für alte Werkzeuge",
+            "hu": "Régi Eszközök Múzeuma",
+            "ro": "Muzeul Uneltelor Vechi",
+            "en": "Old Tools Museum"
+          },
+          "coords": [
+            1.477385,
+            43.352365
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierende Sammlung traditioneller Handwerkswerkzeuge der Region; kommen Sie am besten gleich zur Eröffnung, um den Massen zu entgehen.",
+            "hu": "Fedezze fel a régió történelmét formáló hagyományos kézműves eszközök lenyűgöző gyűjteményét, és érkezzen nyitásra, hogy elkerülje a tömeget.",
+            "ro": "Explorați o colecție fascinantă de unelte meșteșugărești tradiționale care au modelat istoria regiunii, vizitând locul la deschidere pentru a evita aglomerația.",
+            "en": "Explore a fascinating collection of traditional artisanal tools that shaped the region's history, best visited right at opening to avoid small crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Paul-Kirche",
+            "hu": "Saint-Paul templom",
+            "ro": "Biserica Saint-Paul",
+            "en": "Saint-Paul Church"
+          },
+          "coords": [
+            1.478227,
+            43.352615
+          ],
+          "category": "religious",
+          "arrive_at": "10:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur und ruhige Atmosphäre dieser historischen Kirche und prüfen Sie die Aushänge auf lokale Choraufführungen.",
+            "hu": "Csodálja meg a történelmi templom lenyűgöző építészetét és békés hangulatát, de feltétlenül nézze meg a hirdetőtáblán a helyi kórusok fellépéseit.",
+            "ro": "Admirați arhitectura impresionantă și ambianța senină a acestei biserici istorice și asigurați-vă că verificați panoul pentru concertele corului local.",
+            "en": "Admire the striking architecture and serene ambiance of this historic church, and be sure to check the notice board for local choir performance schedules."
+          }
+        },
+        {
+          "name": {
+            "de": "Église de la Madeleine",
+            "hu": "Église de la Madeleine",
+            "ro": "Église de la Madeleine",
+            "en": "Église de la Madeleine"
+          },
+          "coords": [
+            1.473527,
+            43.350174
+          ],
+          "category": "religious",
+          "arrive_at": "11:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reichen Innendetails und Buntglasfenster dieser zentralen Kirche, die Sie am besten morgens besuchen, wenn das östliche Sonnenlicht einfällt.",
+            "hu": "Fedezze fel e központi templom gazdag belső részleteit és ólomüveg ablakait, amelyet a keleti napfény beáramlása miatt a legjobb a délelőtti órákban felkeresni.",
+            "ro": "Descoperiți detaliile bogate din interior și vitraliile acestei biserici centrale, cel mai bine de vizitat dimineața când lumina soarelui inundă spațiul.",
+            "en": "Discover the rich interior details and stained glass windows of this central church, ideally visited in the morning when the eastern sunlight pours inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Auterive-Brücke",
+            "hu": "Auterive híd",
+            "ro": "Podul Auterive",
+            "en": "Auterive Bridge"
+          },
+          "coords": [
+            1.468789,
+            43.348967
+          ],
+          "category": "historical",
+          "arrive_at": "12:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese prächtige Backsteinbrücke mit herrlichem Flussblick und bringen Sie eine Kamera für perfekte Spiegelungsfotos im Abendlicht mit.",
+            "hu": "Sétáljon át ezen a csodálatos, lenyűgöző folyami kilátást nyújtó tégla hídon, és hozzon magával fényképezőgépet a tökéletes aranyórás tükröződésekhez.",
+            "ro": "Traversați acest pod magnific din cărămidă ce oferă priveliști uimitoare spre râu și luați o cameră pentru reflexii perfecte la ora de aur pe Ariège.",
+            "en": "Cross this magnificent brick bridge offering stunning river views, and bring a camera for the perfect golden-hour reflection shots over the Ariège."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc du Secourieu mit seinen Ornamenten",
+            "hu": "Parc du Secourieu díszítéseivel",
+            "ro": "Parcul Secourieu și ornamentele sale",
+            "en": "Parc du Secourieu and its ornaments"
+          },
+          "coords": [
+            1.489665,
+            43.33462
+          ],
+          "category": "park",
+          "arrive_at": "13:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen elegant angelegten Park mit charmanten historischen Ornamenten; tragen Sie bequeme Schuhe, um die weitläufigen Wege zu erkunden.",
+            "hu": "Sétáljon végig ezen az elegánsan parkosított, bájos történelmi díszítésekkel teli parkon, és viseljen kényelmes cipőt a kiterjedt ösvények bejárásához.",
+            "ro": "Plimbați-vă prin acest parc elegant amenajat, plin de ornamente istorice fermecătoare, purtând încălțăminte confortabilă pentru a explora aleile sale extinse.",
+            "en": "Wander through this elegantly landscaped park filled with charming historic ornaments, wearing comfortable shoes to fully explore its extensive pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Secourieu",
+            "hu": "Château de Secourieu",
+            "ro": "Castelul Secourieu",
+            "en": "Château de Secourieu"
+          },
+          "coords": [
+            1.490384,
+            43.333311
+          ],
+          "category": "castle",
+          "arrive_at": "15:06",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fühlen Sie sich in die Vergangenheit versetzt beim Anblick dieses klassischen französischen Anwesens, dessen majestätische Fassade man am besten vom Park aus sieht.",
+            "hu": "Lépjen vissza az időben e klasszikus francia birtok fenséges homlokzatának megfigyelésével, de mivel a belépés korlátozott, élvezze a kilátást a parkból.",
+            "ro": "Întoarceți-vă în timp admirând fațada maiestuoasă a acestei proprietăți clasice franceze, dar rețineți că accesul este limitat, deci priviți din parc.",
+            "en": "Step back in time while observing the majestic facade of this classical French estate, though access is limited so enjoy the view from the adjacent park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag im Museum für alte Werkzeuge und tauchen Sie in das lokale Erbe ein. Ein kurzes Stück weiter wartet die Saint-Paul-Kirche.\nFahren Sie gegen Mittag zur Église de la Madeleine und überqueren Sie dann die berühmte Auterive-Brücke mit herrlichem Blick auf den Fluss.\nAm Nachmittag radeln Sie gen Süden, um den wunderschön angelegten Parc du Secourieu in Ruhe zu erkunden.\nBeenden Sie Ihre malerische Tour, indem Sie das Château de Secourieu bewundern, während das Abendlicht auf seine klassische Fassade fällt.",
+        "hu": "Kezdje a kerékpáros napot a Régi Eszközök Múzeumában, elmerülve a helyi örökségben. Egy rövid tekeréssel elérheti a Saint-Paul templomot.\nDél körül látogasson el az Église de la Madeleine-hez, mielőtt átkelne a folyóra néző ikonikus Auterive téglahídon.\nDélután induljon el délre a központtól, hogy felfedezze a gyönyörűen parkosított Parc du Secourieu-t.\nZárja le a festői kerékpározást a Château de Secourieu külsejének megcsodálásával, ahogy az esti fény megvilágítja a klasszikus francia homlokzatot.",
+        "ro": "Începeți ziua de ciclism la Muzeul Uneltelor Vechi, pătrunzând în patrimoniul local. O scurtă pedalare vă duce la Biserica Saint-Paul.\nÎn jurul prânzului, mergeți la Église de la Madeleine înainte de a traversa podul iconic Auterive pentru priveliști uluitoare.\nDupă-amiaza, îndreptați-vă spre sud din centru pentru a descoperi frumosul și vastul Parc du Secourieu.\nÎncheiați plimbarea scenică admirând exteriorul Château de Secourieu, privind cum lumina serii cade pe fațada sa clasică.",
+        "en": "Kick off your cycling day at the Old Tools Museum, immersing yourself in local heritage. A quick pedal takes you to Saint-Paul Church.\nAround midday, ride to Église de la Madeleine before crossing the iconic brick Auterive Bridge for stunning river views.\nIn the afternoon, head south away from the center to discover the beautifully landscaped Parc du Secourieu.\nConclude your scenic ride by admiring the exterior of the Château de Secourieu, watching the evening light hit its classic French facade."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:14",
+      "total_km": 10.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Allégora",
+            "hu": "Allégora",
+            "ro": "Allégora",
+            "en": "Allégora"
+          },
+          "coords": [
+            1.472559,
+            43.348702
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem modernen Veranstaltungszentrum in die lebhafte lokale Kultur ein und prüfen Sie vorab das Programm auf Ausstellungen oder Theatershows.",
+            "hu": "Merüljön el a nyüzsgő helyi kultúrában ebben a modern rendezvényközpontban, és előzetesen ellenőrizze a programot egy kiállítás vagy színházi előadás miatt.",
+            "ro": "Lăsați-vă captivat de cultura locală vibrantă la acest centru modern de evenimente, verificând programul în avans pentru o expoziție sau un spectacol de teatru.",
+            "en": "Immerse yourself in the vibrant local culture at this modern events center, checking their schedule in advance to catch an exhibition or theatrical show."
+          }
+        },
+        {
+          "name": {
+            "de": "Auterive-Brücke",
+            "hu": "Auterive híd",
+            "ro": "Podul Auterive",
+            "en": "Auterive Bridge"
+          },
+          "coords": [
+            1.468789,
+            43.348967
+          ],
+          "category": "historical",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese prächtige Backsteinbrücke mit herrlichem Flussblick und bringen Sie eine Kamera für perfekte Spiegelungsfotos im Abendlicht mit.",
+            "hu": "Sétáljon át ezen a csodálatos, lenyűgöző folyami kilátást nyújtó tégla hídon, és hozzon magával fényképezőgépet a tökéletes aranyórás tükröződésekhez.",
+            "ro": "Traversați acest pod magnific din cărămidă ce oferă priveliști uimitoare spre râu și luați o cameră pentru reflexii perfecte la ora de aur pe Ariège.",
+            "en": "Cross this magnificent brick bridge offering stunning river views, and bring a camera for the perfect golden-hour reflection shots over the Ariège."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für alte Werkzeuge",
+            "hu": "Régi Eszközök Múzeuma",
+            "ro": "Muzeul Uneltelor Vechi",
+            "en": "Old Tools Museum"
+          },
+          "coords": [
+            1.477385,
+            43.352365
+          ],
+          "category": "museum",
+          "arrive_at": "11:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierende Sammlung traditioneller Handwerkswerkzeuge der Region; kommen Sie am besten gleich zur Eröffnung, um den Massen zu entgehen.",
+            "hu": "Fedezze fel a régió történelmét formáló hagyományos kézműves eszközök lenyűgöző gyűjteményét, és érkezzen nyitásra, hogy elkerülje a tömeget.",
+            "ro": "Explorați o colecție fascinantă de unelte meșteșugărești tradiționale care au modelat istoria regiunii, vizitând locul la deschidere pentru a evita aglomerația.",
+            "en": "Explore a fascinating collection of traditional artisanal tools that shaped the region's history, best visited right at opening to avoid small crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Secourieu",
+            "hu": "Château de Secourieu",
+            "ro": "Castelul Secourieu",
+            "en": "Château de Secourieu"
+          },
+          "coords": [
+            1.490384,
+            43.333311
+          ],
+          "category": "castle",
+          "arrive_at": "13:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Fühlen Sie sich in die Vergangenheit versetzt beim Anblick dieses klassischen französischen Anwesens, dessen majestätische Fassade man am besten vom Park aus sieht.",
+            "hu": "Lépjen vissza az időben e klasszikus francia birtok fenséges homlokzatának megfigyelésével, de mivel a belépés korlátozott, élvezze a kilátást a parkból.",
+            "ro": "Întoarceți-vă în timp admirând fațada maiestuoasă a acestei proprietăți clasice franceze, dar rețineți că accesul este limitat, deci priviți din parc.",
+            "en": "Step back in time while observing the majestic facade of this classical French estate, though access is limited so enjoy the view from the adjacent park."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc du Secourieu mit seinen Ornamenten",
+            "hu": "Parc du Secourieu díszítéseivel",
+            "ro": "Parcul Secourieu și ornamentele sale",
+            "en": "Parc du Secourieu and its ornaments"
+          },
+          "coords": [
+            1.489665,
+            43.33462
+          ],
+          "category": "park",
+          "arrive_at": "15:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen elegant angelegten Park mit charmanten historischen Ornamenten; tragen Sie bequeme Schuhe, um die weitläufigen Wege zu erkunden.",
+            "hu": "Sétáljon végig ezen az elegánsan parkosított, bájos történelmi díszítésekkel teli parkon, és viseljen kényelmes cipőt a kiterjedt ösvények bejárásához.",
+            "ro": "Plimbați-vă prin acest parc elegant amenajat, plin de ornamente istorice fermecătoare, purtând încălțăminte confortabilă pentru a explora aleile sale extinse.",
+            "en": "Wander through this elegantly landscaped park filled with charming historic ornaments, wearing comfortable shoes to fully explore its extensive pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de Cintegabelle",
+            "hu": "Lac de Cintegabelle",
+            "ro": "Lac de Cintegabelle",
+            "en": "Lac de Cintegabelle"
+          },
+          "coords": [
+            1.535475,
+            43.300234
+          ],
+          "category": "natural",
+          "arrive_at": "16:29",
+          "stay_min": 105,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Spaziergang oder ein Picknick rund um diesen wunderschönen Natursee, aber vergessen Sie nicht das Mückenspray am späten Nachmittag.",
+            "hu": "Élvezze a békés sétát vagy egy pihentető pikniket a gyönyörű természetes tó körül, de feltétlenül hozzon magával szúnyogriasztót, ha késő délután érkezik.",
+            "ro": "Bucurați-vă de o plimbare liniștită sau de un picnic relaxant în jurul acestui frumos lac natural, dar nu uitați spray-ul contra țânțarilor după-amiaza târziu.",
+            "en": "Enjoy a peaceful stroll or a relaxing picnic around this beautiful natural lake, but remember to bring mosquito repellent if visiting late in the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour am Morgen mit einem Besuch im modernen Allégora-Zentrum. Von dort fahren Sie kurz zur prächtigen Auterive-Brücke.\nFahren Sie mittags in Richtung Zentrum, um die faszinierende Regionalgeschichte im Museum für alte Werkzeuge zu entdecken.\nVerbringen Sie den Nachmittag damit, in den Süden zu fahren, um das Château de Secourieu und den angrenzenden historischen Park zu bestaunen.\nFür einen ruhigen Abend fahren Sie zum Lac de Cintegabelle, wo Sie den Sonnenuntergang über dem Wasser beobachten können.",
+        "hu": "Kezdje autós túráját egy reggeli látogatással a modern Allégora központban. Innen tegyen egy rövid utat a csodálatos Auterive hídhoz.\nDélben térjen vissza a központ felé, hogy felfedezze a Régi Eszközök Múzeumában őrzött lenyűgöző regionális történelmet.\nA délutánt töltse azzal, hogy délre vezet, és megcsodálja a Château de Secourieu-t, valamint a szomszédos történelmi parkot.\nEgy békés estéért vezessen a Lac de Cintegabelle-hez, ahol megnézheti a naplementét a víz felett, mielőtt visszatérne.",
+        "ro": "Începeți turul cu mașina printr-o vizită matinală la centrul modern Allégora. De acolo, conduceți scurt până la magnificul pod Auterive.\nLa prânz, întoarceți-vă spre centru pentru a explora istoria regională fascinantă păstrată în Muzeul Uneltelor Vechi.\nPetreceți după-amiaza conducând spre sud pentru a admira Château de Secourieu și parcul istoric fermecător adiacent.\nPentru o seară senină, conduceți până la Lac de Cintegabelle, unde puteți privi apusul soarelui peste apă înainte de a vă întoarce.",
+        "en": "Begin your driving tour with a morning visit to the modern Allégora center. From there, take a brief drive to the magnificent Auterive Bridge.\nAt midday, head back towards the center to explore the fascinating regional history preserved inside the Old Tools Museum.\nSpend your afternoon driving south to marvel at the Château de Secourieu and wandering the adjacent charming historic park.\nFor a serene evening, drive out to the Lac de Cintegabelle, where you can watch the sunset over the water before heading back."
+      }
+    }
+  }
+}

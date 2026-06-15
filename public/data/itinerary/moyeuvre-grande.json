@@ -1,0 +1,474 @@
+{
+  "city_id": "moyeuvre-grande",
+  "anchor": {
+    "name": "Moyeuvre-Grande",
+    "coords": [
+      6.0458,
+      49.2528
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:15",
+      "total_km": 1.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Moyeuvre",
+            "hu": "Moyeuvre Vára",
+            "ro": "Castelul Moyeuvre",
+            "en": "Moyeuvre Castle"
+          },
+          "coords": [
+            6.04258,
+            49.247049
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Burgruinen, die von einer reichen mittelalterlichen Geschichte zeugen, und tragen Sie feste Schuhe für den unebenen, steinigen Weg.",
+            "hu": "Fedezze fel az ősi várromokat, amelyek a gazdag középkori történelemről tanúskodnak, és viseljen masszív cipőt az egyenetlen, köves ösvények miatt.",
+            "ro": "Explorați ruinele antice ale castelului care mărturisesc o istorie medievală bogată și purtați încălțăminte robustă pentru a urca pe poteca stâncoasă.",
+            "en": "Explore the ancient castle ruins that bear witness to a rich medieval history, and be sure to wear sturdy shoes to navigate the uneven, rocky pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Viadukt von Moyeuvre",
+            "hu": "Moyeuvre Viadukt",
+            "ro": "Viaductul Moyeuvre",
+            "en": "Moyeuvre Viaduct"
+          },
+          "coords": [
+            6.04258,
+            49.247049
+          ],
+          "category": "historical",
+          "arrive_at": "10:30",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur dieses historischen Eisenbahnviadukts und nutzen Sie die Morgenstunden für besonders dramatische Fotomotive.",
+            "hu": "Csodálja meg ennek a történelmi vasúti viaduktnak a lenyűgöző építészetét, és használja ki a reggeli fényeket a különösen drámai fotózási lehetőségekhez.",
+            "ro": "Admirați arhitectura impresionantă a acestui viaduct feroviar istoric și profitați de lumina dimineții pentru a obține fotografii cu adevărat dramatice.",
+            "en": "Admire the impressive architecture of this historical railway viaduct, and take advantage of the gentle morning light to capture truly dramatic photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Kunstgärten",
+            "hu": "Művészeti Kertek",
+            "ro": "Grădinile de Artă",
+            "en": "Art Gardens"
+          },
+          "coords": [
+            6.049209,
+            49.248396
+          ],
+          "category": "landmark",
+          "arrive_at": "11:08",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre dieses charmanten Kunstgartens, in dem lokale Werke ausgestellt sind, und nehmen Sie sich Zeit für eine kleine Pause.",
+            "hu": "Élvezze e bájos művészeti kert békés hangulatát, ahol helyi alkotásokat állítanak ki, és szánjon egy kis időt egy csendes pihenőre a virágok között.",
+            "ro": "Bucurați-vă de atmosfera pașnică a acestei grădini de artă unde sunt expuse lucrări locale și luați-vă un scurt moment de răgaz printre aranjamentele florale.",
+            "en": "Enjoy the peaceful atmosphere of this charming art garden showcasing local creative works, and take a moment to sit and relax among the beautiful floral displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Gorgon",
+            "hu": "Saint-Gorgon Templom",
+            "ro": "Biserica Saint-Gorgon",
+            "en": "Saint-Gorgon Church"
+          },
+          "coords": [
+            6.046879,
+            49.250459
+          ],
+          "category": "religious",
+          "arrive_at": "11:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese wunderschöne Pfarrkirche, um ihre kunstvollen Glasfenster zu bewundern, und achten Sie auf die friedliche Stille im Hauptschiff.",
+            "hu": "Látogasson el ebbe a gyönyörű plébániatemplomba, hogy megcsodálja a díszes ólomüveg ablakokat, és figyelje meg a főhajót betöltő békés, áhítatos csendet.",
+            "ro": "Vizitați această frumoasă biserică parohială pentru a admira vitraliile sale ornamentate și bucurați-vă de liniștea profundă care domină naosul principal.",
+            "en": "Visit this beautiful parish church to admire its ornate stained glass windows, and take a moment to appreciate the profound, peaceful silence of the main nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Orne-Tal",
+            "hu": "Orne-völgy",
+            "ro": "Valea Orne",
+            "en": "Orne Valley"
+          },
+          "coords": [
+            6.057253,
+            49.251237
+          ],
+          "category": "natural",
+          "arrive_at": "12:30",
+          "stay_min": 105,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die unberührte Natur des malerischen Orne-Tals, um regionale Vögel zu beobachten, und vergessen Sie nicht, Ihr Fernglas mitzubringen.",
+            "hu": "Túrázzon a festői Orne-völgy érintetlen természetében, ahol megfigyelheti a regionális madárfajokat, és mindenképpen hozzon magával egy jó távcsövet.",
+            "ro": "Faceți o drumeție prin natura neatinsă a văii pitorești Orne pentru a observa păsările regionale și asigurați-vă că aveți un binoclu la dumneavoastră.",
+            "en": "Hike through the untouched nature of the picturesque Orne Valley to spot regional bird species, and don't forget to bring a good pair of binoculars with you."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit den Ruinen des Château de Moyeuvre und dem imposanten Viadukt, die von der reichen Geschichte zeugen. Gegen Mittag bietet ein kleiner Garten eine ruhige Oase zur Entspannung. Am frühen Nachmittag führt der Weg zur Église Saint-Gorgon mit ihren friedlichen Gewölben. Der Tag endet mit einem ausgedehnten, naturnahen Spaziergang durch das idyllische Orne-Tal.",
+        "hu": "A reggel a Château de Moyeuvre romjaival és az impozáns viadukttal indul, amelyek a gazdag történelemről mesélnek. Délben egy apró, bájos kert nyújt csendes oázist a pihenéshez. Kora délután az út az Église Saint-Gorgon békés boltíveihez vezet. A napot egy hosszú, természetközeli séta zárja a festői Orne-völgy érintetlen és nyugodt környezetében.",
+        "ro": "Dimineața începe cu ruinele Château de Moyeuvre și impresionantul viaduct care mărturisesc o istorie bogată. La prânz, o mică grădină oferă o oază de liniște pentru relaxare. La începutul după-amiezii, traseul duce la Église Saint-Gorgon cu bolțile sale pașnice. Ziua se încheie cu o plimbare lungă în inima naturii prin valea idilică Orne.",
+        "en": "The morning begins with the ruins of the Château de Moyeuvre and the imposing viaduct, testifying to a rich history. At midday, a small garden offers a quiet oasis for relaxation. In the early afternoon, the path leads to the Église Saint-Gorgon with its peaceful vaults. The day ends with a long, nature-filled walk through the idyllic Orne Valley."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:25",
+      "total_km": 5.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kapelle Sainte-Ségolène",
+            "hu": "Sainte-Ségolène Kápolna",
+            "ro": "Capela Sainte-Ségolène",
+            "en": "Sainte-Ségolène Chapel"
+          },
+          "coords": [
+            6.018933,
+            49.259461
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese intime Kapelle, die einen faszinierenden Einblick in die lokale Religionsgeschichte bietet, am besten bei einem ruhigen Morgenbesuch.",
+            "hu": "Fedezze fel ezt a meghitt kápolnát, amely lenyűgöző bepillantást nyújt a helyi vallástörténetbe, és a legideálisabb egy csendes, kora reggeli látogatáshoz.",
+            "ro": "Descoperiți această capelă intimă care oferă o perspectivă fascinantă asupra istoriei religioase locale, ideală pentru o vizită liniștită de dimineață.",
+            "en": "Discover this intimate chapel offering a fascinating glimpse into the local religious history, which is best experienced during a quiet, early morning visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Moyeuvre",
+            "hu": "Moyeuvre Vára",
+            "ro": "Castelul Moyeuvre",
+            "en": "Moyeuvre Castle"
+          },
+          "coords": [
+            6.04258,
+            49.247049
+          ],
+          "category": "historical",
+          "arrive_at": "10:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Burgruinen, die von einer reichen mittelalterlichen Geschichte zeugen, und tragen Sie feste Schuhe für den unebenen, steinigen Weg.",
+            "hu": "Fedezze fel az ősi várromokat, amelyek a gazdag középkori történelemről tanúskodnak, és viseljen masszív cipőt az egyenetlen, köves ösvények miatt.",
+            "ro": "Explorați ruinele antice ale castelului care mărturisesc o istorie medievală bogată și purtați încălțăminte robustă pentru a urca pe poteca stâncoasă.",
+            "en": "Explore the ancient castle ruins that bear witness to a rich medieval history, and be sure to wear sturdy shoes to navigate the uneven, rocky pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Gorgon",
+            "hu": "Saint-Gorgon Templom",
+            "ro": "Biserica Saint-Gorgon",
+            "en": "Saint-Gorgon Church"
+          },
+          "coords": [
+            6.046879,
+            49.250459
+          ],
+          "category": "religious",
+          "arrive_at": "11:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese wunderschöne Pfarrkirche, um ihre kunstvollen Glasfenster zu bewundern, und achten Sie auf die friedliche Stille im Hauptschiff.",
+            "hu": "Látogasson el ebbe a gyönyörű plébániatemplomba, hogy megcsodálja a díszes ólomüveg ablakokat, és figyelje meg a főhajót betöltő békés, áhítatos csendet.",
+            "ro": "Vizitați această frumoasă biserică parohială pentru a admira vitraliile sale ornamentate și bucurați-vă de liniștea profundă care domină naosul principal.",
+            "en": "Visit this beautiful parish church to admire its ornate stained glass windows, and take a moment to appreciate the profound, peaceful silence of the main nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Orne-Tal",
+            "hu": "Orne-völgy",
+            "ro": "Valea Orne",
+            "en": "Orne Valley"
+          },
+          "coords": [
+            6.057253,
+            49.251237
+          ],
+          "category": "natural",
+          "arrive_at": "12:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die unberührte Natur des malerischen Orne-Tals, um regionale Vögel zu beobachten, und vergessen Sie nicht, Ihr Fernglas mitzubringen.",
+            "hu": "Túrázzon a festői Orne-völgy érintetlen természetében, ahol megfigyelheti a regionális madárfajokat, és mindenképpen hozzon magával egy jó távcsövet.",
+            "ro": "Faceți o drumeție prin natura neatinsă a văii pitorești Orne pentru a observa păsările regionale și asigurați-vă că aveți un binoclu la dumneavoastră.",
+            "en": "Hike through the untouched nature of the picturesque Orne Valley to spot regional bird species, and don't forget to bring a good pair of binoculars with you."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Ségolène",
+            "hu": "Saint-Ségolène Templom",
+            "ro": "Biserica Saint-Ségolène",
+            "en": "Saint-Ségolène Church"
+          },
+          "coords": [
+            6.060099,
+            49.257655
+          ],
+          "category": "religious",
+          "arrive_at": "13:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Betrachten Sie die architektonischen Details dieser bedeutenden Kirche genauer und gehen Sie um das Gebäude herum, um die Steinmetzarbeiten zu würdigen.",
+            "hu": "Vizsgálja meg közelebbről ennek a jelentős templomnak az építészeti részleteit, és sétálja körbe az épületet, hogy értékelni tudja a kőfaragó munkákat.",
+            "ro": "Priviți mai de aproape detaliile arhitecturale ale acestei biserici importante și faceți o plimbare în jurul clădirii pentru a aprecia sculpturile în piatră.",
+            "en": "Take a closer look at the architectural details of this significant local church, and walk around the exterior to fully appreciate the intricate stonework."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Georges",
+            "hu": "Saint-Georges Templom",
+            "ro": "Biserica Saint-Georges",
+            "en": "Saint-Georges Church"
+          },
+          "coords": [
+            6.070611,
+            49.258641
+          ],
+          "category": "religious",
+          "arrive_at": "14:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an dieser historischen Stätte ausklingen, die durch ihre markante Turmfassade besticht, und beachten Sie die alten Holzschnitzereien.",
+            "hu": "Zárja a napot ezen a történelmi helyszínen, amely lenyűgöző toronyhomlokzatával hódít, és fordítson különös figyelmet az ősi fafaragások aprólékos részleteire.",
+            "ro": "Încheiați-vă ziua în acest loc istoric care impresionează prin fațada sa cu turn și acordați o atenție deosebită vechilor sculpturi interioare în lemn.",
+            "en": "End your day at this historical site that impresses with its striking tower facade, and pay special attention to the ancient, meticulously crafted wood carvings."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag startet radelnd an der ruhigen Chapelle Sainte-Ségolène, gefolgt von einer Fahrt zu den alten Burgruinen. Gegen Mittag erkunden Sie die historische Église Saint-Gorgon im Stadtzentrum. Am Nachmittag bietet das Orne-Tal eine malerische Kulisse für eine entspannte Fahrt in der Natur. Den Abschluss bilden zwei markante Kirchen, die den Charme der Region widerspiegeln.",
+        "hu": "A nap egy biciklizéssel indul a csendes Chapelle Sainte-Ségolène-hez, majd a régi várromok felé vesszük az irányt. Délben a történelmi Église Saint-Gorgon-t fedezzük fel. Délután az Orne-völgy festői hátteret biztosít egy pihentető kerékpározáshoz a természetben. A túrát két jellegzetes templom zárja, amelyek tökéletesen tükrözik a régió varázsát.",
+        "ro": "Ziua începe pedalând spre liniștita Chapelle Sainte-Ségolène, urmată de o plimbare spre vechile ruine ale castelului. La prânz explorați istorica Église Saint-Gorgon. După-amiaza, valea Orne oferă un decor pitoresc pentru o plimbare relaxantă în natură. Turul se încheie la două biserici remarcabile care reflectă pe deplin farmecul regiunii.",
+        "en": "The day starts by cycling to the quiet Chapelle Sainte-Ségolène, followed by a ride to the old castle ruins. At midday, you explore the historical Église Saint-Gorgon in the center. In the afternoon, the Orne Valley provides a picturesque backdrop for a relaxing ride in nature. The tour concludes at two striking churches that reflect the region's charm."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:36",
+      "total_km": 5.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Pierre-aux-Liens",
+            "hu": "Saint-Pierre-aux-Liens Templom",
+            "ro": "Biserica Saint-Pierre-aux-Liens",
+            "en": "Saint-Pierre-aux-Liens Church"
+          },
+          "coords": [
+            6.025501,
+            49.26834
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Tour an dieser charmanten Kirche mit ihrer einzigartigen Geschichte und prüfen Sie die Anschlagtafel auf aktuelle Gemeindeereignisse.",
+            "hu": "Kezdje a túrát ennél az egyedülálló történelemmel rendelkező, bájos templomnál, és feltétlenül ellenőrizze a hirdetőtáblát az aktuális közösségi eseményekért.",
+            "ro": "Începeți-vă turul la această biserică fermecătoare cu istoria sa unică și nu uitați să verificați avizierul pentru a vedea evenimentele actuale ale comunității.",
+            "en": "Start your tour at this charming church known for its unique history, and be sure to check the notice board for any current or upcoming community events."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Sainte-Ségolène",
+            "hu": "Sainte-Ségolène Kápolna",
+            "ro": "Capela Sainte-Ségolène",
+            "en": "Sainte-Ségolène Chapel"
+          },
+          "coords": [
+            6.018933,
+            49.259461
+          ],
+          "category": "religious",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese intime Kapelle, die einen faszinierenden Einblick in die lokale Religionsgeschichte bietet, am besten bei einem ruhigen Morgenbesuch.",
+            "hu": "Fedezze fel ezt a meghitt kápolnát, amely lenyűgöző bepillantást nyújt a helyi vallástörténetbe, és a legideálisabb egy csendes, kora reggeli látogatáshoz.",
+            "ro": "Descoperiți această capelă intimă care oferă o perspectivă fascinantă asupra istoriei religioase locale, ideală pentru o vizită liniștită de dimineață.",
+            "en": "Discover this intimate chapel offering a fascinating glimpse into the local religious history, which is best experienced during a quiet, early morning visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Moyeuvre",
+            "hu": "Moyeuvre Vára",
+            "ro": "Castelul Moyeuvre",
+            "en": "Moyeuvre Castle"
+          },
+          "coords": [
+            6.04258,
+            49.247049
+          ],
+          "category": "historical",
+          "arrive_at": "10:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Burgruinen, die von einer reichen mittelalterlichen Geschichte zeugen, und tragen Sie feste Schuhe für den unebenen, steinigen Weg.",
+            "hu": "Fedezze fel az ősi várromokat, amelyek a gazdag középkori történelemről tanúskodnak, és viseljen masszív cipőt az egyenetlen, köves ösvények miatt.",
+            "ro": "Explorați ruinele antice ale castelului care mărturisesc o istorie medievală bogată și purtați încălțăminte robustă pentru a urca pe poteca stâncoasă.",
+            "en": "Explore the ancient castle ruins that bear witness to a rich medieval history, and be sure to wear sturdy shoes to navigate the uneven, rocky pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Gorgon",
+            "hu": "Saint-Gorgon Templom",
+            "ro": "Biserica Saint-Gorgon",
+            "en": "Saint-Gorgon Church"
+          },
+          "coords": [
+            6.046879,
+            49.250459
+          ],
+          "category": "religious",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese wunderschöne Pfarrkirche, um ihre kunstvollen Glasfenster zu bewundern, und achten Sie auf die friedliche Stille im Hauptschiff.",
+            "hu": "Látogasson el ebbe a gyönyörű plébániatemplomba, hogy megcsodálja a díszes ólomüveg ablakokat, és figyelje meg a főhajót betöltő békés, áhítatos csendet.",
+            "ro": "Vizitați această frumoasă biserică parohială pentru a admira vitraliile sale ornamentate și bucurați-vă de liniștea profundă care domină naosul principal.",
+            "en": "Visit this beautiful parish church to admire its ornate stained glass windows, and take a moment to appreciate the profound, peaceful silence of the main nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Ségolène",
+            "hu": "Saint-Ségolène Templom",
+            "ro": "Biserica Saint-Ségolène",
+            "en": "Saint-Ségolène Church"
+          },
+          "coords": [
+            6.060099,
+            49.257655
+          ],
+          "category": "religious",
+          "arrive_at": "12:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Betrachten Sie die architektonischen Details dieser bedeutenden Kirche genauer und gehen Sie um das Gebäude herum, um die Steinmetzarbeiten zu würdigen.",
+            "hu": "Vizsgálja meg közelebbről ennek a jelentős templomnak az építészeti részleteit, és sétálja körbe az épületet, hogy értékelni tudja a kőfaragó munkákat.",
+            "ro": "Priviți mai de aproape detaliile arhitecturale ale acestei biserici importante și faceți o plimbare în jurul clădirii pentru a aprecia sculpturile în piatră.",
+            "en": "Take a closer look at the architectural details of this significant local church, and walk around the exterior to fully appreciate the intricate stonework."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum Gilbert Guerin-Petrement",
+            "hu": "Gilbert Guerin-Petrement Kulturális Központ",
+            "ro": "Centrul Cultural Gilbert Guerin-Petrement",
+            "en": "Gilbert Guerin-Petrement Cultural Center"
+          },
+          "coords": [
+            6.068741,
+            49.257693
+          ],
+          "category": "cultural",
+          "arrive_at": "13:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die lokale Kultur ein, indem Sie aktuelle Ausstellungen in diesem Zentrum besuchen, das als kreatives Herzstück der Gemeinde fungiert.",
+            "hu": "Merüljön el a helyi kultúrában azáltal, hogy meglátogatja az aktuális kiállításokat ebben a központban, amely a közösség igazi kreatív szíveként működik.",
+            "ro": "Cufundați-vă în cultura locală vizitând expozițiile actuale din acest centru vibrant, care servește drept inima creativă și artistică a comunității.",
+            "en": "Immerse yourself in the vibrant local culture by visiting current exhibitions in this dynamic center, which serves as the true creative heart of the community."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Georges",
+            "hu": "Saint-Georges Templom",
+            "ro": "Biserica Saint-Georges",
+            "en": "Saint-Georges Church"
+          },
+          "coords": [
+            6.070611,
+            49.258641
+          ],
+          "category": "religious",
+          "arrive_at": "14:26",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an dieser historischen Stätte ausklingen, die durch ihre markante Turmfassade besticht, und beachten Sie die alten Holzschnitzereien.",
+            "hu": "Zárja a napot ezen a történelmi helyszínen, amely lenyűgöző toronyhomlokzatával hódít, és fordítson különös figyelmet az ősi fafaragások aprólékos részleteire.",
+            "ro": "Încheiați-vă ziua în acest loc istoric care impresionează prin fațada sa cu turn și acordați o atenție deosebită vechilor sculpturi interioare în lemn.",
+            "en": "End your day at this historical site that impresses with its striking tower facade, and pay special attention to the ancient, meticulously crafted wood carvings."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt entspannt an der Église Saint-Pierre-aux-Liens und der nahen Kapelle Sainte-Ségolène. Mittags erreichen Sie die Burgruine und die zentrale Kirche Saint-Gorgon für kulturelle Einblicke. Der Nachmittag ist der Saint Segolene Church und dem modernen Kulturzentrum Espace Gilbert gewidmet. Abends lassen Sie die Eindrücke an der Église Saint-Georges in Ruhe Revue passieren.",
+        "hu": "Autós túrája az Église Saint-Pierre-aux-Liens-nél és a közeli kápolnánál kezdődik kényelmes tempóban. Délben a várromhoz és a központi Saint-Gorgon templomhoz érkezik kulturális élményekért. A délutánt a Saint Segolene Church és a modern kulturális központ tölti ki. Este az Église Saint-Georges lenyűgöző homlokzata előtt gondolhatja végig a napot.",
+        "ro": "Traseul auto începe relaxant la Église Saint-Pierre-aux-Liens și la capela din apropiere. La prânz ajungeți la ruinele castelului și la biserica centrală Saint-Gorgon pentru perspective culturale. După-amiaza este dedicată Bisericii Saint Segolene și centrului cultural modern. Seara, rememorați impresiile zilei la impresionanta biserică Saint-Georges.",
+        "en": "Your drive begins gently at the Église Saint-Pierre-aux-Liens and the nearby chapel. By midday, you reach the castle ruins and the central Saint-Gorgon church for some cultural insights. The afternoon is dedicated to the Saint Segolene Church and the modern cultural center. In the evening, you can reflect on the day's sights at the Église Saint-Georges."
+      }
+    }
+  }
+}

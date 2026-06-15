@@ -1,0 +1,451 @@
+{
+  "city_id": "spain-cehegin-cities-v2",
+  "anchor": {
+    "name": "Cehegín",
+    "coords": [
+      -1.7985,
+      38.09242
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:03",
+      "total_km": 1.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kulturhaus",
+            "hu": "Kultúrház",
+            "ro": "Casa de Cultură",
+            "en": "House of Culture"
+          },
+          "coords": [
+            -1.794711,
+            38.092242
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie lokale Kunst und historische Ausstellungen in diesem lebendigen Kulturzentrum und achten Sie am Eingang auf Hinweise zu Abendveranstaltungen.",
+            "hu": "Fedezze fel a helyi művészetet és a történelmi kiállításokat ebben a nyüzsgő kulturális központban, és mindenképpen keresse az ingyenes esti programokat a hirdetőtáblán.",
+            "ro": "Explorați arta locală și expozițiile istorice în acest centru cultural vibrant și asigurați-vă că verificați panoul pentru spectacole gratuite de seară.",
+            "en": "Explore local art and historical exhibits in this vibrant cultural hub, and be sure to check the bulletin board for free evening performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio de la Tercia",
+            "hu": "Palacio de la Tercia",
+            "ro": "Palatul Tercia",
+            "en": "Tercia Palace"
+          },
+          "coords": [
+            -1.797426,
+            38.095383
+          ],
+          "category": "castle",
+          "arrive_at": "10:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Barockarchitektur dieses historischen Palastes und fotografieren Sie die majestätischen Holzbalkone vom schattigen Platz aus.",
+            "hu": "Csodálja meg ennek a történelmi palotának a lenyűgöző barokk építészetét, és szánjon időt a fenséges faerkélyek lefotózására a közeli árnyékos térről.",
+            "ro": "Admirați impresionanta arhitectură barocă a acestui palat istoric și faceți câteva fotografii ale balcoanelor sale maiestuoase din lemn din piața umbrită.",
+            "en": "Admire the impressive baroque architecture of this historic palace, and take a moment to photograph its majestic wooden balconies from the shaded square."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus der Apothekerinnen",
+            "hu": "Patikusok Háza",
+            "ro": "Casa Spițerelor",
+            "en": "Apothecaries' House"
+          },
+          "coords": [
+            -1.79953,
+            38.096672
+          ],
+          "category": "historical",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesem einzigartig erhaltenen historischen Gebäude, dessen filigrane schmiedeeiserne Gitter vom Wohlstand des 18. Jahrhunderts zeugen.",
+            "hu": "Lépjen vissza az időben ebben az egyedülállóan megőrzött történelmi épületben, ahol a bonyolult kovácsoltvas rácsok bepillantást engednek a 18. századi gazdagságba.",
+            "ro": "Întoarceți-vă în timp în această clădire istorică păstrată unic, unde observarea gratiilor complicate din fier forjat vă va oferi o idee despre bogăția locală.",
+            "en": "Step back in time at this uniquely preserved historic building, where noticing the intricate wrought-iron grilles will give you a glimpse into 18th-century local wealth."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa María Magdalena",
+            "hu": "Mária Magdolna-templom",
+            "ro": "Biserica Sfânta Maria Magdalena",
+            "en": "Church of St. Mary Magdalene"
+          },
+          "coords": [
+            -1.800526,
+            38.098632
+          ],
+          "category": "religious",
+          "arrive_at": "13:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Steigen Sie zu dieser prächtigen Kirche auf dem Hügel hinauf, um einen atemberaubenden Panoramablick auf Cehegín zu genießen, idealerweise kurz vor dem Mittag.",
+            "hu": "Másszon fel a dombtetőn álló csodálatos templomhoz, ahonnan lélegzetelállító panoráma nyílik Cehegínre, és a legjobb fényekért érdemes pont dél előtt érkezni.",
+            "ro": "Urcați la această biserică magnifică de pe deal pentru vederi panoramice uluitoare asupra orașului Cehegín, asigurându-vă că vizitați înainte de prânz pentru lumină bună.",
+            "en": "Climb up to this magnificent church perched atop the hill for breathtaking panoramic views of Cehegín, making sure to visit just before noon for the best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche La Soledad",
+            "hu": "La Soledad-templom",
+            "ro": "Biserica La Soledad",
+            "en": "Church of La Soledad"
+          },
+          "coords": [
+            -1.801894,
+            38.097181
+          ],
+          "category": "religious",
+          "arrive_at": "14:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Atmosphäre dieser alten Kirche und achten Sie besonders auf den wunderschön restaurierten Holzaltar, der ein echtes verborgenes Juwel ist.",
+            "hu": "Fedezze fel az ősi templom békés atmoszféráját, és vegye szemügyre a gyönyörűen felújított faoltárt, amely a régió egy igazi rejtett kincse a látogatók számára.",
+            "ro": "Descoperiți atmosfera senină a acestei biserici antice și observați altarul de lemn frumos restaurat, care este o adevărată bijuterie ascunsă a regiunii murciene.",
+            "en": "Discover the serene atmosphere of this ancient church, and take note of the beautifully restored wooden altarpiece which is a true hidden gem of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Römischer Bogen",
+            "hu": "Római diadalív",
+            "ro": "Arcul Roman",
+            "en": "Roman Arch"
+          },
+          "coords": [
+            -1.801989,
+            38.090847
+          ],
+          "category": "historical",
+          "arrive_at": "15:13",
+          "stay_min": 110,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Schreiten Sie durch diesen antiken römischen Bogen, der einst die Stadt schützte, und suchen Sie im verwitterten Stein nach den Spuren jahrhundertelanger Karren.",
+            "hu": "Sétáljon át az ősi római boltív alatt, amely egykor a várost védte, és figyelje meg a kopott köveken a sok évszázadnyi szekérforgalom által hagyott mély nyomokat.",
+            "ro": "Treceți pe sub acest vechi arc roman care a păzit istoric orașul și priviți îndeaproape piatra uzată pentru a vedea urmele lăsate de secole de trecere a căruțelor.",
+            "en": "Pass beneath this ancient Roman archway that historically guarded the town, and look closely at the weathered stonework to see marks from centuries of passing carts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im kulturellen Herzen von Cehegín, wo Sie die lokale Kunstszene auf sich wirken lassen. \n\nGegen Mittag entdecken Sie die Geheimnisse barocker Paläste und historischer Herrenhäuser. \n\nDer Nachmittag lädt Sie ein, die höchsten Punkte der Stadt mit ihrer atemberaubenden religiösen Architektur zu erklimmen. \n\nDer Abend endet nahe einem antiken römischen Bogen im sanften Sonnenuntergang.",
+        "hu": "A napja Cehegín kulturális szívében kezdődik, ahol elmerülhet a helyi művészeti életben. \n\nDél körül felfedezheti a barokk paloták és a történelmi kúriák jól őrzött titkait. \n\nA délután arra csábítja, hogy megmássza a város legmagasabb pontjait a lélegzetelállító vallási építészetért. \n\nAz este egy ókori római boltív közelében ér véget, amely a múlt történeteit suttogja a lemenő napfényben.",
+        "ro": "Ziua începe în inima culturală a orașului Cehegín, absorbind scena artistică locală de aici. \n\nSpre prânz, veți descoperi secretele palatelor baroce și ale conacelor istorice extrem de frumoase. \n\nDupă-amiaza vă invită să urcați în cele mai înalte puncte pentru o arhitectură religioasă și vederi uluitoare. \n\nSeara se încheie lângă un arc roman antic, șoptind povești ale trecutului în timp ce soarele apune dulce.",
+        "en": "Your day begins in the cultural heart of Cehegín, absorbing the local artistic scene. \n\nTowards midday, you'll uncover the secrets of baroque palaces and historic mansions. \n\nThe afternoon invites you to scale the town's highest points for breathtaking religious architecture and views. \n\nEvening concludes near an ancient Roman arch, whispering tales of the past as the sun sets."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 2.95,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kloster San Esteban",
+            "hu": "Szent István-kolostor",
+            "ro": "Mănăstirea San Esteban",
+            "en": "Convent of San Esteban"
+          },
+          "coords": [
+            -1.793573,
+            38.090065
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die ruhigen Kreuzgänge dieses historischen Klosters und kommen Sie am besten morgens, wenn das Sonnenlicht den Innenhof wunderbar erhellt.",
+            "hu": "Sétáljon végig a történelmi kolostor nyugodt kerengőin, és próbáljon a délelőtti órákban érkezni, amikor a napfény gyönyörűen megvilágítja a hangulatos belső udvart.",
+            "ro": "Plimbați-vă prin mănăstirea liniștită a acestui lăcaș de cult istoric și încercați să vizitați dimineața când lumina soarelui luminează frumos curtea interioară a sa.",
+            "en": "Wander through the tranquil cloisters of this historic convent, and try to visit during the morning hours when the sunlight beautifully illuminates the inner courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Turmhaus Doña Blanca",
+            "hu": "Doña Blanca Toronyház",
+            "ro": "Casa Turn a Doña Blanca",
+            "en": "Doña Blanca Tower House"
+          },
+          "coords": [
+            -1.799322,
+            38.095093
+          ],
+          "category": "landmark",
+          "arrive_at": "09:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die wehrhafte Architektur dieses markanten Turmhauses und umrunden Sie das Gebäude, um seine strategische Bedeutung im Mittelalter zu verstehen.",
+            "hu": "Csodálja meg ennek az ikonikus toronyháznak a vaskos védelmi építészetét, és sétálja körbe, hogy teljesen megértse a középkorban betöltött stratégiai fontosságát.",
+            "ro": "Minunați-vă de arhitectura defensivă robustă a acestei case turn emblematice și plimbați-vă în jurul ei pentru a aprecia pe deplin importanța sa în Evul Mediu.",
+            "en": "Marvel at the stout defensive architecture of this iconic tower house, and walk around its perimeter to fully appreciate its strategic importance in the Middle Ages."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus der Säulen",
+            "hu": "Oszlopok Háza",
+            "ro": "Casa Coloanelor",
+            "en": "House of the Columns"
+          },
+          "coords": [
+            -1.800764,
+            38.097044
+          ],
+          "category": "landmark",
+          "arrive_at": "11:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem bemerkenswerten Haus mit seinen imposanten klassischen Säulen und trinken Sie einen Kaffee in der Nähe, um die majestätische Fassade zu genießen.",
+            "hu": "Álljon meg a lenyűgöző klasszikus oszlopairól ismert háznál, és igyon egy kávét a közelben, hogy kényelmesen gyönyörködhessen a fenséges homlokzat részleteiben.",
+            "ro": "Opriți-vă la această casă remarcabilă, distinsă prin coloanele sale clasice impunătoare, și beți o cafea în apropiere pentru a vă bucura de fațada sa majestuoasă.",
+            "en": "Stop by this remarkable house distinguished by its imposing classical columns, and grab a coffee at a nearby cafe to enjoy the majestic facade at a relaxed pace."
+          }
+        },
+        {
+          "name": {
+            "de": "Einsiedelei San Sebastián",
+            "hu": "Szent Sebestyén-remeteség",
+            "ro": "Schitul San Sebastián",
+            "en": "Hermitage of San Sebastián"
+          },
+          "coords": [
+            -1.798186,
+            38.101874
+          ],
+          "category": "landmark",
+          "arrive_at": "12:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Umgebung dieser kleinen Einsiedelei, die dem Heiligen Sebastian gewidmet ist, ein perfekter Ort, um sich auszuruhen und innezuhalten.",
+            "hu": "Élvezze a Szent Sebestyénnek szentelt kis remeteség békés környezetét, amely tökéletes helyszín a lábak pihentetésére és a helyi spirituális atmoszféra átélésére.",
+            "ro": "Bucurați-vă de împrejurimile pașnice ale acestui mic schit dedicat Sfântului Sebastian, un loc perfect pentru a vă odihni picioarele și a respira aerul spiritual.",
+            "en": "Enjoy the peaceful surroundings of this small hermitage dedicated to Saint Sebastian, a perfect spot to rest your legs and take in the spiritual local atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Einsiedelei La Concepción",
+            "hu": "Szeplőtelen Fogantatás-remeteség",
+            "ro": "Schitul La Concepción",
+            "en": "Hermitage of La Concepción"
+          },
+          "coords": [
+            -1.798416,
+            38.096587
+          ],
+          "category": "religious",
+          "arrive_at": "13:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die charmante volkstümliche Architektur dieser Einsiedelei auf dem Hügel und schlendern Sie über den kleinen Platz, um die malerische Aussicht zu genießen.",
+            "hu": "Csodálja meg ennek a dombtetőn álló remeteségnek a bájos népi építészetét, és sétáljon egyet az apró téren, hogy elmélyedjen az óvárosra nyíló festői kilátásban.",
+            "ro": "Admirați arhitectura vernaculară fermecătoare a acestui schit și faceți o plimbare blândă în jurul pieței sale pentru a vă bucura de priveliștile orașului vechi.",
+            "en": "Admire the charming vernacular architecture of this hilltop hermitage, and take a gentle stroll around its tiny plaza to soak in the picturesque views of the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Historische Stätte Dándole a la Rueda",
+            "hu": "Dándole a la Rueda Történelmi Hely",
+            "ro": "Situl Istoric Dándole a la Rueda",
+            "en": "Dándole a la Rueda Historical Site"
+          },
+          "coords": [
+            -1.806839,
+            38.094184
+          ],
+          "category": "historical",
+          "arrive_at": "14:31",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie das faszinierende industrielle Erbe an dieser historischen Stätte und bringen Sie Ihre Kamera mit, um die einzigartigen mechanischen Artefakte festzuhalten.",
+            "hu": "Fedezze fel az érdekes ipari örökséget ezen a történelmi helyszínen, és hozza magával a fényképezőgépét, hogy megörökítse a letűnt korszak egyedi mechanikus tárgyait.",
+            "ro": "Descoperiți moștenirea industrială intrigantă de la acest sit istoric și aduceți camera pentru a surprinde artefactele mecanice unice păstrate dintr-o epocă apusă.",
+            "en": "Discover the intriguing industrial heritage at this historical site, and bring your camera to capture the unique mechanical artifacts preserved from a bygone era."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an einem ruhigen Kloster, das einen friedlichen Ton für den Morgen setzt. \n\nGegen Mittag navigieren Sie durch Straßen mit historischen Turmhäusern und Säulenfassaden. \n\nDas Radeln am Nachmittag führt Sie zu versteckten Einsiedeleien auf den Hügeln mit spektakulären Aussichtspunkten. \n\nBeenden Sie Ihre Reise mit der Erkundung industrieller Relikte, während die Abenddämmerung einsetzt.",
+        "hu": "Kezdje kerékpáros túráját egy békés kolostornál, amely nyugodt alaphangot ad a reggeli tekerésnek. \n\nDélre olyan utcákon navigál majd végig, amelyeket történelmi toronyházak és oszlopos homlokzatok szegélyeznek. \n\nA délutáni pedálozás rejtett, dombtetőn álló remeteségekhez vezet, ahonnan lenyűgöző kilátás nyílik. \n\nFejezze be az utat az ipari emlékek felfedezésével, miközben az alkonyat meleg színekre festi az eget.",
+        "ro": "Începeți turul cu bicicleta la o mănăstire liniștită, stabilind un ton pașnic pentru plimbarea de dimineață. \n\nPână la prânz, veți naviga pe străzile mărginite de case turn istorice și fațade uimitoare cu coloane. \n\nPedalarea de după-amiază vă duce la schituri ascunse pe dealuri, cu puncte de belvedere spectaculoase. \n\nÎncheiați-vă călătoria explorând relicvele industriale în timp ce amurgul pictează cerul spaniol cald.",
+        "en": "Kick off your cycling tour at a serene convent, setting a peaceful tone for the morning ride. \n\nBy midday, you'll navigate through streets lined with historic tower houses and columned facades. \n\nAfternoon pedaling takes you to hidden hilltop hermitages with spectacular viewpoints over the region. \n\nFinish your journey exploring industrial relics as dusk paints the Spanish sky in warm colors."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:53",
+      "total_km": 3.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Archäologische Stätte Begastri",
+            "hu": "Begastri Régészeti Lelöhely",
+            "ro": "Situl Arheologic Begastri",
+            "en": "Begastri Archaeological Site"
+          },
+          "coords": [
+            -1.771767,
+            38.0874
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die weitläufigen antiken Ruinen von Begastri, der spätrömischen und westgotischen Stadt, und engagieren Sie einen lokalen Führer für ein tiefes Verständnis.",
+            "hu": "Fedezze fel Begastri késő római és vizigót városának kiterjedt ősi romjait, és ha teheti, fogadjon fel egy helyi idegenvezetőt, hogy igazán megértse a gazdag történelmet.",
+            "ro": "Explorați ruinele antice ale orașului Begastri, așezare romană și vizigotă târzie, și angajați un ghid local dacă este posibil pentru a înțelege bogata sa istorie.",
+            "en": "Explore the extensive ancient ruins of Begastri, the late Roman and Visigothic city, and hire a local guide if possible to truly understand the site's rich history."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtisches Schwimmbad",
+            "hu": "Városi uszoda",
+            "ro": "Piscina Municipală",
+            "en": "Municipal Pool"
+          },
+          "coords": [
+            -1.785464,
+            38.088662
+          ],
+          "category": "recreational",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich in den heißen Sommermonaten in diesem gepflegten öffentlichen Schwimmbad ab und denken Sie daran, ein eigenes Handtuch und Sonnencreme mitzubringen.",
+            "hu": "Hűsöljön a forró nyári hónapokban ebben a jól karbantartott nyilvános medencében, és ne felejtsen el saját törölközőt és naptejet hozni, mivel a bérlés korlátozott lehet.",
+            "ro": "Răcoriți-vă în timpul lunilor fierbinți de vară la această piscină publică bine întreținută și nu uitați să vă aduceți propriul prosop și cremă de protecție solară.",
+            "en": "Cool off during the hot summer months at this well-maintained public pool facility, and remember to pack your own towel and sunscreen as rentals might be limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster San Esteban",
+            "hu": "Szent István-kolostor",
+            "ro": "Mănăstirea San Esteban",
+            "en": "Convent of San Esteban"
+          },
+          "coords": [
+            -1.793573,
+            38.090065
+          ],
+          "category": "religious",
+          "arrive_at": "11:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die ruhigen Kreuzgänge dieses historischen Klosters und kommen Sie am besten morgens, wenn das Sonnenlicht den Innenhof wunderbar erhellt.",
+            "hu": "Sétáljon végig a történelmi kolostor nyugodt kerengőin, és próbáljon a délelőtti órákban érkezni, amikor a napfény gyönyörűen megvilágítja a hangulatos belső udvart.",
+            "ro": "Plimbați-vă prin mănăstirea liniștită a acestui lăcaș de cult istoric și încercați să vizitați dimineața când lumina soarelui luminează frumos curtea interioară a sa.",
+            "en": "Wander through the tranquil cloisters of this historic convent, and try to visit during the morning hours when the sunlight beautifully illuminates the inner courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio de la Tercia",
+            "hu": "Palacio de la Tercia",
+            "ro": "Palatul Tercia",
+            "en": "Tercia Palace"
+          },
+          "coords": [
+            -1.797426,
+            38.095383
+          ],
+          "category": "castle",
+          "arrive_at": "12:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Barockarchitektur dieses historischen Palastes und fotografieren Sie die majestätischen Holzbalkone vom schattigen Platz aus.",
+            "hu": "Csodálja meg ennek a történelmi palotának a lenyűgöző barokk építészetét, és szánjon időt a fenséges faerkélyek lefotózására a közeli árnyékos térről.",
+            "ro": "Admirați impresionanta arhitectură barocă a acestui palat istoric și faceți câteva fotografii ale balcoanelor sale maiestuoase din lemn din piața umbrită.",
+            "en": "Admire the impressive baroque architecture of this historic palace, and take a moment to photograph its majestic wooden balconies from the shaded square."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa María Magdalena",
+            "hu": "Mária Magdolna-templom",
+            "ro": "Biserica Sfânta Maria Magdalena",
+            "en": "Church of St. Mary Magdalene"
+          },
+          "coords": [
+            -1.800526,
+            38.098632
+          ],
+          "category": "religious",
+          "arrive_at": "13:43",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Steigen Sie zu dieser prächtigen Kirche auf dem Hügel hinauf, um einen atemberaubenden Panoramablick auf Cehegín zu genießen, idealerweise kurz vor dem Mittag.",
+            "hu": "Másszon fel a dombtetőn álló csodálatos templomhoz, ahonnan lélegzetelállító panoráma nyílik Cehegínre, és a legjobb fényekért érdemes pont dél előtt érkezni.",
+            "ro": "Urcați la această biserică magnifică de pe deal pentru vederi panoramice uluitoare asupra orașului Cehegín, asigurându-vă că vizitați înainte de prânz pentru lumină bună.",
+            "en": "Climb up to this magnificent church perched atop the hill for breathtaking panoramic views of Cehegín, making sure to visit just before noon for the best lighting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen außerhalb des Stadtzentrums, um die faszinierenden antiken Ruinen von Begastri zu erkunden. \n\nVor dem Mittagessen bietet ein Stopp im städtischen Schwimmbad eine erfrischende Pause unter der Mittelmeersonne. \n\nDer Nachmittag ist dem historischen Kern gewidmet, mit wunderschön erhaltenen Klöstern und majestätischen Palästen. \n\nBeenden Sie Ihre malerische Fahrt an der höchsten Kirche, um das ultimative Sonnenuntergangspanorama zu erleben.",
+        "hu": "Kezdje a reggelt a városközponton kívül, és fedezze fel Begastri lenyűgöző ősi romjait. \n\nEbéd előtt egy megálló a városi uszodánál frissítő szünetet kínál a ragyogó mediterrán napsütésben. \n\nA délutánt a történelmi magnak szenteljük, gyönyörűen megőrzött kolostorok és paloták között ugrálva. \n\nFejezze be a festői autózást a legmagasabb templomnál, megörökítve a tökéletes naplemente panorámáját.",
+        "ro": "Începeți dimineața aventurându-vă în afara centrului orașului pentru a explora fascinantele ruine antice Begastri. \n\nÎnainte de prânz, o oprire la piscina municipală oferă o pauză revigorantă sub minunatul soare mediteranean. \n\nDupă-amiaza este dedicată nucleului istoric, sărind între mănăstiri frumos păstrate și palate maiestuoase. \n\nÎncheiați-vă traseul pitoresc urcând la cea mai înaltă biserică, surprinzând panorama superbă la apus.",
+        "en": "Start your morning venturing outside the city center to explore the fascinating ancient ruins of Begastri. \n\nBefore lunch, a stop at the municipal pool offers a refreshing break under the Mediterranean sun. \n\nThe afternoon is dedicated to the historic core, hopping between beautifully preserved convents and palaces. \n\nConclude your scenic drive ascending to the highest church, catching the ultimate sunset panorama."
+      }
+    }
+  }
+}

@@ -1,0 +1,497 @@
+{
+  "city_id": "chalons-en-champagne",
+  "anchor": {
+    "name": "Châlons-en-Champagne",
+    "coords": [
+      4.3644,
+      48.9567
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:13",
+      "total_km": 0.86,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "City Hall"
+          },
+          "coords": [
+            4.362818,
+            48.956696
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante klassizistische Fassade dieses bürgerlichen Herzens der Stadt und holen Sie sich einen Kaffee in einem nahegelegenen Café, um die Aussicht zu genießen.",
+            "hu": "Csodálja meg a városvezetés történelmi központjának elegáns klasszicista homlokzatát, és igyon egy kávét egy közeli kávézóban, hogy élvezze a kilátást.",
+            "ro": "Admirați fațada clasică elegantă a acestui centru civic al orașului, reprezentând guvernanța sa istorică, și savurați o cafea la o cafenea din apropiere.",
+            "en": "Admire the elegant classical facade of this civic heart of the city, representing its historical governance, and grab a coffee at a nearby cafe to enjoy the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Alpin",
+            "hu": "Saint-Alpin templom",
+            "ro": "Biserica Saint-Alpin",
+            "en": "Saint-Alpin Church"
+          },
+          "coords": [
+            4.36225,
+            48.956216
+          ],
+          "category": "religious",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Betreten Sie die älteste Kirche der Stadt, um atemberaubende gotische Buntglasfenster zu bewundern, aber sprechen Sie leise, da es ein aktiver Gebetsort ist.",
+            "hu": "Lépjen be a város legrégebbi templomába, hogy megcsodálja a lenyűgöző gótikus ólomüveg ablakokat, de beszéljen halkan, mivel ez egy aktív imahely.",
+            "ro": "Pășiți în cea mai veche biserică din oraș pentru a admira vitraliile gotice uimitoare, dar amintiți-vă să păstrați liniștea deoarece este un lăcaș activ de rugăciune.",
+            "en": "Step inside the oldest church in town to witness stunning Gothic stained glass windows, but remember to keep your voice down as it is an active place of prayer."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche Notre-Dame-en-Vaux",
+            "hu": "Notre-Dame-en-Vaux társaskáptalan",
+            "ro": "Biserica colegială Notre-Dame-en-Vaux",
+            "en": "Notre-Dame-en-Vaux Collegiate Church"
+          },
+          "coords": [
+            4.363602,
+            48.957641
+          ],
+          "category": "religious",
+          "arrive_at": "10:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses UNESCO-Weltkulturerbe, das für seine romanisch-gotische Architektur bekannt ist, und besuchen Sie es kurz vor Mittag, um die Glocken zu hören.",
+            "hu": "Fedezze fel ezt az UNESCO világörökségi helyszínt, amely román-gótikus építészetéről ismert, és próbáljon meg dél előtt érkezni, hogy hallja a harangjátékot.",
+            "ro": "Explorați acest sit UNESCO, cunoscut pentru arhitectura sa romanico-gotică și carillonul cu 56 de clopote, și încercați să vizitați înainte de prânz pentru a le auzi.",
+            "en": "Explore this UNESCO World Heritage site known for its exquisite Romanesque-Gothic architecture and 56-bell carillon, and try to visit right before noon to hear the bells."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des Kreuzgangs von Notre-Dame-en-Vaux",
+            "hu": "Notre-Dame-en-Vaux kerengőmúzeuma",
+            "ro": "Muzeul Cloister Notre-Dame-en-Vaux",
+            "en": "Musée du Cloître de Notre-Dame-en-Vaux"
+          },
+          "coords": [
+            4.36302,
+            48.958
+          ],
+          "category": "museum",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.06,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden, kunstvoll geschnitzten Pfeilerfiguren des ursprünglichen Kreuzgangs und lesen Sie die englischen Tafeln für den historischen Kontext.",
+            "hu": "Fedezze fel az eredeti kerengőből megmentett, bonyolultan faragott oszlopfigurákat, és mindenképpen olvassa el az információs táblákat a történelmi kontextusért.",
+            "ro": "Descoperiți figurile fascinante sculptate salvate din mănăstirea originală și asigurați-vă că citiți plăcuțele informative pentru un context istoric bogat.",
+            "en": "Discover the fascinating intricately carved pillar figures salvaged from the original cloister, and be sure to read the provided English placards for rich historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum für Schöne Künste und Archäologie",
+            "hu": "Szépművészeti és Régészeti Múzeum",
+            "ro": "Muzeul de Arte Frumoase și Arheologie",
+            "en": "Museum of Fine Arts and Archaeology"
+          },
+          "coords": [
+            4.36332,
+            48.9568
+          ],
+          "category": "museum",
+          "arrive_at": "12:42",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Durchstöbern Sie eine vielfältige Sammlung europäischer Gemälde und lokaler archäologischer Funde und achten Sie auf die mittelalterlichen Artefakte im ersten Stock.",
+            "hu": "Böngésszen az európai festmények és a helyi régészeti leletek változatos gyűjteményében, és fordítson különös figyelmet az első emeleti középkori műtárgyakra.",
+            "ro": "Răsfoiți o colecție diversă de picturi europene și descoperiri arheologice locale, stând cu ochii în patru după artefactele medievale de la primul etaj.",
+            "en": "Browse a diverse collection of European paintings and local archaeological finds from the Champagne region, keeping an eye out for the medieval artifacts on the first floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Grand Jard",
+            "hu": "Le Grand Jard",
+            "ro": "Le Grand Jard",
+            "en": "Le Grand Jard"
+          },
+          "coords": [
+            4.361213,
+            48.953513
+          ],
+          "category": "recreational",
+          "arrive_at": "14:28",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.39,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem wunderschön angelegten französischen formellen Garten aus dem 18. Jahrhundert, der perfekte Ort, um sich bei einem kleinen Picknick auszuruhen.",
+            "hu": "Pihenjen meg ebben a gyönyörűen parkosított, 18. századi francia formális kertben, amely árnyékos utasaival tökéletes hely egy kis piknikhez és a lábak pihentetéséhez.",
+            "ro": "Relaxați-vă în această grădină formală franceză frumos amenajată din secolul al XVIII-lea, locul perfect pentru a vă odihni picioarele cu un mic picnic.",
+            "en": "Relax in this beautifully landscaped 18th-century French formal garden that offers shaded avenues, making it the perfect spot to rest your feet with a small picnic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung des bürgerlichen Herzens von Châlons-en-Champagne, bewundern Sie das Rathaus und die Kirche Saint-Alpin. Nähern Sie sich mittags dem spektakulären UNESCO-Erbe Notre-Dame-en-Vaux. Der Nachmittag ist der Kunst und mittelalterlichen Artefakten in den örtlichen Museen gewidmet. Beenden Sie Ihren Tag entspannt in den schattigen Alleen des Le Grand Jard.",
+        "hu": "Kezdje a reggelt Châlons-en-Champagne polgári központjában, megcsodálva a Városházát és a legősibb Saint-Alpin templomot. Délidőben merüljön el a Notre-Dame-en-Vaux lenyűgöző UNESCO örökségében és történetében. A délutánt a helyi múzeumokban található művészeti és középkori leleteknek szenteljük. Fejezze be a napot pihenéssel a Le Grand Jard árnyas sétányain.",
+        "ro": "Începeți dimineața explorând inima civică a orașului Châlons-en-Champagne, admirând Primăria și biserica Saint-Alpin. La prânz, pătrundeți în spectaculosul patrimoniu UNESCO al Notre-Dame-en-Vaux. După-amiaza este dedicată artei și artefactelor medievale din muzeele locale. Încheiați ziua relaxându-vă pe aleile umbrite ale parcului Le Grand Jard.",
+        "en": "Start your morning exploring the civic heart of Châlons-en-Champagne, admiring the classical City Hall and the oldest church, Saint-Alpin. As midday approaches, dive into the spectacular UNESCO heritage of Notre-Dame-en-Vaux and its rich history. The afternoon is dedicated to art and medieval artifacts within the local museums. End your day relaxing in the shaded avenues of Le Grand Jard."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:09",
+      "total_km": 2.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kathedrale Saint-Étienne",
+            "hu": "Saint-Étienne katedrális",
+            "ro": "Catedrala Saint-Étienne",
+            "en": "Saint-Étienne Cathedral"
+          },
+          "coords": [
+            4.35759,
+            48.955072
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das hohe Kirchenschiff und die wunderschönen Buntglasfenster dieser majestätischen Kathedrale und bringen Sie eine Jacke mit, da es innen kühl sein kann.",
+            "hu": "Csodálja meg ennek a fenséges gótikus katedrálisnak a szárnyaló hajóját és a 13. századi ólomüveg ablakait, de hozzon magával kabátot, mert bent hűvös lehet.",
+            "ro": "Minunați-vă de nava înaltă și de vitraliile frumoase din secolul al XIII-lea ale acestei catedrale gotice, și aduceți o jachetă deoarece interiorul poate fi destul de răcoros.",
+            "en": "Marvel at the soaring nave and the beautiful 13th-century stained glass windows of this majestic Gothic cathedral, and bring a light jacket as the interior can be quite chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Alpin",
+            "hu": "Saint-Alpin templom",
+            "ro": "Biserica Saint-Alpin",
+            "en": "Saint-Alpin Church"
+          },
+          "coords": [
+            4.36225,
+            48.956216
+          ],
+          "category": "religious",
+          "arrive_at": "10:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Betreten Sie die älteste Kirche der Stadt, um atemberaubende gotische Buntglasfenster zu bewundern, aber sprechen Sie leise, da es ein aktiver Gebetsort ist.",
+            "hu": "Lépjen be a város legrégebbi templomába, hogy megcsodálja a lenyűgöző gótikus ólomüveg ablakokat, de beszéljen halkan, mivel ez egy aktív imahely.",
+            "ro": "Pășiți în cea mai veche biserică din oraș pentru a admira vitraliile gotice uimitoare, dar amintiți-vă să păstrați liniștea deoarece este un lăcaș activ de rugăciune.",
+            "en": "Step inside the oldest church in town to witness stunning Gothic stained glass windows, but remember to keep your voice down as it is an active place of prayer."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "City Hall"
+          },
+          "coords": [
+            4.362818,
+            48.956696
+          ],
+          "category": "civic",
+          "arrive_at": "11:08",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.07,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante klassizistische Fassade dieses bürgerlichen Herzens der Stadt und holen Sie sich einen Kaffee in einem nahegelegenen Café, um die Aussicht zu genießen.",
+            "hu": "Csodálja meg a városvezetés történelmi központjának elegáns klasszicista homlokzatát, és igyon egy kávét egy közeli kávézóban, hogy élvezze a kilátást.",
+            "ro": "Admirați fațada clasică elegantă a acestui centru civic al orașului, reprezentând guvernanța sa istorică, și savurați o cafea la o cafenea din apropiere.",
+            "en": "Admire the elegant classical facade of this civic heart of the city, representing its historical governance, and grab a coffee at a nearby cafe to enjoy the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche Notre-Dame-en-Vaux",
+            "hu": "Notre-Dame-en-Vaux társaskáptalan",
+            "ro": "Biserica colegială Notre-Dame-en-Vaux",
+            "en": "Notre-Dame-en-Vaux Collegiate Church"
+          },
+          "coords": [
+            4.363602,
+            48.957641
+          ],
+          "category": "religious",
+          "arrive_at": "11:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses UNESCO-Weltkulturerbe, das für seine romanisch-gotische Architektur bekannt ist, und besuchen Sie es kurz vor Mittag, um die Glocken zu hören.",
+            "hu": "Fedezze fel ezt az UNESCO világörökségi helyszínt, amely román-gótikus építészetéről ismert, és próbáljon meg dél előtt érkezni, hogy hallja a harangjátékot.",
+            "ro": "Explorați acest sit UNESCO, cunoscut pentru arhitectura sa romanico-gotică și carillonul cu 56 de clopote, și încercați să vizitați înainte de prânz pentru a le auzi.",
+            "en": "Explore this UNESCO World Heritage site known for its exquisite Romanesque-Gothic architecture and 56-bell carillon, and try to visit right before noon to hear the bells."
+          }
+        },
+        {
+          "name": {
+            "de": "Jules-Garinet-Museum",
+            "hu": "Jules Garinet Múzeum",
+            "ro": "Muzeul Jules Garinet",
+            "en": "Jules Garinet Museum"
+          },
+          "coords": [
+            4.3664,
+            48.9559
+          ],
+          "category": "museum",
+          "arrive_at": "12:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Treten Sie in dieses erhaltene bürgerliche Haus aus dem 19. Jahrhundert ein, um ein Stück Lokalgeschichte zu sehen, und verpassen Sie nicht die antiken Möbel.",
+            "hu": "Lépjen be ebbe a megőrzött 19. századi polgári házba, hogy megismerje a helyi történelmet, és ne hagyja ki az antik bútorok és kerámiák lenyűgöző gyűjteményét.",
+            "ro": "Pășiți în această casă burgheză din secolul al XIX-lea pentru a vedea o felie de istorie locală și nu ratați impresionanta colecție de mobilier antic și ceramică.",
+            "en": "Step into this preserved 19th-century bourgeois house to see an authentic slice of local history, and don't miss the impressive collection of antique furniture and ceramics."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte Sainte-Croix",
+            "hu": "Porte Sainte-Croix",
+            "ro": "Porte Sainte-Croix",
+            "en": "Porte Sainte-Croix"
+          },
+          "coords": [
+            4.36823,
+            48.9517
+          ],
+          "category": "historical",
+          "arrive_at": "13:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Gehen Sie durch diesen monumentalen, Marie Antoinette gewidmeten Triumphbogen, um die königlichen Verbindungen der Stadt zu erfassen, und fotografieren Sie von gegenüber.",
+            "hu": "Sétáljon át ezen a Marie Antoinette-nek szentelt monumentális diadalíven, hogy átérezze a város királyi kapcsolatait, és a legjobb fotóért álljon az utca túloldalára.",
+            "ro": "Plimbați-vă prin acest arc de triumf monumental dedicat Mariei Antoaneta și poziționați-vă vizavi pe stradă pentru a face cea mai bună fotografie a acestuia.",
+            "en": "Walk through this monumental triumphal arch dedicated to Marie Antoinette to grasp the city's royal connections, positioning yourself across the street for the best photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Jard Anglais",
+            "hu": "Le Jard Anglais",
+            "ro": "Le Jard Anglais",
+            "en": "Le Jard Anglais"
+          },
+          "coords": [
+            4.356532,
+            48.949522
+          ],
+          "category": "recreational",
+          "arrive_at": "15:24",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.89,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem charmanten Park im englischen Stil an den Flussufern mit seinen malerischen Fußgängerbrücken, ideal für einen späten Nachmittagsspaziergang.",
+            "hu": "Lazítson ebben a folyópartot követő, bájos angol stílusú parkban, amelynek kanyargós ösvényei és festői gyaloghídjai ideálisak egy késő délutáni sétához.",
+            "ro": "Relaxați-vă în acest parc fermecător în stil englezesc care urmărește malurile râului, oferind poteci șerpuite și poduri pitorești ideale pentru o plimbare târzie.",
+            "en": "Unwind in this charming English-style park that traces the riverbanks, offering winding paths and picturesque footbridges that are ideal for a relaxing late afternoon stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens zur majestätischen Kathedrale Saint-Étienne, bevor Sie das historische und religiöse Zentrum der Stadt ansteuern. Mittags geht es zur außergewöhnlichen Stiftskirche und zum faszinierenden Museum Jules Garinet. Verbringen Sie den Nachmittag mit dem Rad zur grandiosen Porte Sainte-Croix. Lassen Sie den Abend bei einer Fahrt durch den ruhigen Le Jard Anglais ausklingen.",
+        "hu": "A reggelt a fenséges Saint-Étienne katedrálisnál kezdve tekerjen a város történelmi polgári és vallási központjába. A délidő festői utat kínál a kivételes társaskáptalan és a Jules Garinet Múzeum felé. A délutánt a hatalmas Porte Sainte-Croix felé biciklizve töltse. Zárja az estét egy békés gurulással a nyugodt Le Jard Anglais parkban, élvezve a természet közelségét.",
+        "ro": "Pedalați dimineața de la maiestuoasa Catedrală Saint-Étienne spre inima istorică și religioasă a orașului. Prânzul oferă o plimbare pitorească spre Biserica Colegială și fascinantul Muzeu Jules Garinet. Petreceți după-amiaza mergând cu bicicleta la marea Porte Sainte-Croix. Încheiați seara plimbându-vă pe două roți prin parcul liniștit Le Jard Anglais.",
+        "en": "Pedal through the morning starting at the majestic Saint-Étienne Cathedral before making your way to the historic civic and religious heart of the city. Midday offers a scenic ride towards the exceptional Collegiate Church and the fascinating Jules Garinet Museum. Spend your afternoon cycling to the grand Porte Sainte-Croix. Wind down your evening wheeling through the tranquil Le Jard Anglais."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:28",
+      "total_km": 2.25,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Porte Sainte-Croix",
+            "hu": "Porte Sainte-Croix",
+            "ro": "Porte Sainte-Croix",
+            "en": "Porte Sainte-Croix"
+          },
+          "coords": [
+            4.36823,
+            48.9517
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Gehen Sie durch diesen monumentalen, Marie Antoinette gewidmeten Triumphbogen, um die königlichen Verbindungen der Stadt zu erfassen, und fotografieren Sie von gegenüber.",
+            "hu": "Sétáljon át ezen a Marie Antoinette-nek szentelt monumentális diadalíven, hogy átérezze a város királyi kapcsolatait, és a legjobb fotóért álljon az utca túloldalára.",
+            "ro": "Plimbați-vă prin acest arc de triumf monumental dedicat Mariei Antoaneta și poziționați-vă vizavi pe stradă pentru a face cea mai bună fotografie a acestuia.",
+            "en": "Walk through this monumental triumphal arch dedicated to Marie Antoinette to grasp the city's royal connections, positioning yourself across the street for the best photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Präfektur der Marne",
+            "hu": "Marne Prefektúra",
+            "ro": "Prefectura Marne",
+            "en": "Préfecture de la Marne"
+          },
+          "coords": [
+            4.366302,
+            48.953484
+          ],
+          "category": "civic",
+          "arrive_at": "10:31",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Betrachten Sie die grandiose Architektur dieses Verwaltungsgebäudes aus dem 18. Jahrhundert; obwohl nur von außen sichtbar, bietet es eine großartige Fotokulisse.",
+            "hu": "Figyelje meg ennek a fontos közigazgatási épületnek a grandiózus 18. századi építészetét; bár csak kívülről látható, nagyszerű hátteret biztosít a fényképekhez.",
+            "ro": "Observați arhitectura grandioasă din secolul al XVIII-lea a acestei importante clădiri administrative, deși poate fi văzută doar din exterior, e perfectă pentru poze.",
+            "en": "Observe the grandiose 18th-century architecture of this important administrative building, though you can only view the exterior, it provides a great backdrop for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Saint-Étienne",
+            "hu": "Saint-Étienne katedrális",
+            "ro": "Catedrala Saint-Étienne",
+            "en": "Saint-Étienne Cathedral"
+          },
+          "coords": [
+            4.35759,
+            48.955072
+          ],
+          "category": "religious",
+          "arrive_at": "10:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.66,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das hohe Kirchenschiff und die wunderschönen Buntglasfenster dieser majestätischen Kathedrale und bringen Sie eine Jacke mit, da es innen kühl sein kann.",
+            "hu": "Csodálja meg ennek a fenséges gótikus katedrálisnak a szárnyaló hajóját és a 13. századi ólomüveg ablakait, de hozzon magával kabátot, mert bent hűvös lehet.",
+            "ro": "Minunați-vă de nava înaltă și de vitraliile frumoase din secolul al XIII-lea ale acestei catedrale gotice, și aduceți o jachetă deoarece interiorul poate fi destul de răcoros.",
+            "en": "Marvel at the soaring nave and the beautiful 13th-century stained glass windows of this majestic Gothic cathedral, and bring a light jacket as the interior can be quite chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche Notre-Dame-en-Vaux",
+            "hu": "Notre-Dame-en-Vaux társaskáptalan",
+            "ro": "Biserica colegială Notre-Dame-en-Vaux",
+            "en": "Notre-Dame-en-Vaux Collegiate Church"
+          },
+          "coords": [
+            4.363602,
+            48.957641
+          ],
+          "category": "religious",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.53,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses UNESCO-Weltkulturerbe, das für seine romanisch-gotische Architektur bekannt ist, und besuchen Sie es kurz vor Mittag, um die Glocken zu hören.",
+            "hu": "Fedezze fel ezt az UNESCO világörökségi helyszínt, amely román-gótikus építészetéről ismert, és próbáljon meg dél előtt érkezni, hogy hallja a harangjátékot.",
+            "ro": "Explorați acest sit UNESCO, cunoscut pentru arhitectura sa romanico-gotică și carillonul cu 56 de clopote, și încercați să vizitați înainte de prânz pentru a le auzi.",
+            "en": "Explore this UNESCO World Heritage site known for its exquisite Romanesque-Gothic architecture and 56-bell carillon, and try to visit right before noon to hear the bells."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des Kreuzgangs von Notre-Dame-en-Vaux",
+            "hu": "Notre-Dame-en-Vaux kerengőmúzeuma",
+            "ro": "Muzeul Cloister Notre-Dame-en-Vaux",
+            "en": "Musée du Cloître de Notre-Dame-en-Vaux"
+          },
+          "coords": [
+            4.36302,
+            48.958
+          ],
+          "category": "museum",
+          "arrive_at": "12:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.06,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden, kunstvoll geschnitzten Pfeilerfiguren des ursprünglichen Kreuzgangs und lesen Sie die englischen Tafeln für den historischen Kontext.",
+            "hu": "Fedezze fel az eredeti kerengőből megmentett, bonyolultan faragott oszlopfigurákat, és mindenképpen olvassa el az információs táblákat a történelmi kontextusért.",
+            "ro": "Descoperiți figurile fascinante sculptate salvate din mănăstirea originală și asigurați-vă că citiți plăcuțele informative pentru un context istoric bogat.",
+            "en": "Discover the fascinating intricately carved pillar figures salvaged from the original cloister, and be sure to read the provided English placards for rich historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationales Zentrum für Zirkuskünste",
+            "hu": "Nemzeti Cirkuszművészeti Központ",
+            "ro": "Centrul Național de Arte ale Circului",
+            "en": "Centre National des Arts du Cirque"
+          },
+          "coords": [
+            4.3625,
+            48.9512
+          ],
+          "category": "cultural",
+          "arrive_at": "14:38",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.76,
+          "tip_5lang": {
+            "de": "Erleben Sie die dynamische Energie dieser weltberühmten Zirkusschule in historischen Gebäuden und prüfen Sie vorab den Zeitplan für mögliche studentische Aufführungen.",
+            "hu": "Tapasztalja meg ennek a történelmi épületekben helyet kapó, világhírű cirkusziskolának a dinamikus energiáját, és ellenőrizze előre, van-e diákelőadás a látogatásakor.",
+            "ro": "Experimentați energia dinamică a acestei școli de circ de renume mondial găzduită în clădiri istorice și verificați programul în avans pentru spectacole studențești.",
+            "en": "Experience the dynamic energy of this world-renowned circus school housed in historical buildings, and check their schedule in advance to see if a student performance is on."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zu Ihrem ersten Halt an der monumentalen Porte Sainte-Croix und genießen Sie die Pracht, bevor Sie die historische Präfektur der Marne besuchen. Die Mittagsreise führt zur Kathedrale Saint-Étienne und zur Notre-Dame-en-Vaux. Widmen Sie den Nachmittag den reichen Ausstellungen im Kreuzgang-Museum. Beenden Sie Ihren Tag mit den energiegeladenen Künsten im Nationalen Zirkuszentrum.",
+        "hu": "Vezessen első megállójához, a monumentális Porte Sainte-Croix-hoz, élvezve a nagyszerűséget, mielőtt megtekintené a történelmi Marne Prefektúrát. A déli utazás a tornyosuló Saint-Étienne katedrálishoz és a Notre-Dame-en-Vaux-hoz vezet. Szentelje délutánját a kerengőmúzeum gazdag kiállításainak. Zárja a napot a Nemzeti Cirkuszművészeti Központ dinamikus energiájában elmerülve.",
+        "ro": "Conduceți la prima oprire, monumentala Porte Sainte-Croix, bucurându-vă de grandoare înainte de a vedea Prefectura istorică. Călătoria de prânz vă duce la uimitoarea Catedrală Saint-Étienne și remarcabila Notre-Dame-en-Vaux. Dedicați după-amiaza expozițiilor bogate de la Muzeul Cloister. Încheiați ziua scufundați în artele pline de energie la Centrul Național al Circului.",
+        "en": "Drive to your first stop at the monumental Porte Sainte-Croix, soaking in the grandeur before seeing the historic Préfecture de la Marne. The midday journey takes you to the towering Saint-Étienne Cathedral and the remarkable Notre-Dame-en-Vaux. Devote your afternoon to the rich displays at the Cloister Museum. Conclude your day trip immersed in the energetic arts at the National Circus Centre."
+      }
+    }
+  }
+}

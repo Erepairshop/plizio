@@ -1,0 +1,474 @@
+{
+  "city_id": "france-trevou-treguignec-cities-v2",
+  "anchor": {
+    "name": "Trévou-Tréguignec",
+    "coords": [
+      -3.35845,
+      48.81208
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:15",
+      "total_km": 2.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Samson",
+            "hu": "Église Saint-Samson",
+            "ro": "Église Saint-Samson",
+            "en": "Église Saint-Samson"
+          },
+          "coords": [
+            -3.358119,
+            48.812151
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle bretonische Architektur dieser zentralen Kirche, bevor Sie losgehen, und achten Sie auf Plakate für lokale Chorauftritte.",
+            "hu": "Csodálja meg a központi templom hagyományos breton építészetét a séta előtt, és vessen egy pillantást a helyi kórusok fellépéseit hirdető táblára.",
+            "ro": "Admirați arhitectura tradițională bretonă a acestei biserici centrale înainte de a începe plimbarea și verificați avizierul pentru evenimente corale.",
+            "en": "Admire the traditional Breton architecture of this central church before starting your walk, and check the notice board for local choir events."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage aux Choux",
+            "hu": "Plage aux Choux",
+            "ro": "Plage aux Choux",
+            "en": "Plage aux Choux"
+          },
+          "coords": [
+            -3.361135,
+            48.821172
+          ],
+          "category": "recreational",
+          "arrive_at": "10:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre dieser steinigen Bucht, die perfekt für die Muschelsuche ist, aber tragen Sie festes Schuhwerk für die Kieselsteine.",
+            "hu": "Élvezze a kisebb, sziklás öböl békés hangulatát, amely tökéletes kagylógyűjtésre, de viseljen masszív cipőt a kavicsokon való sétáláshoz.",
+            "ro": "Bucurați-vă de atmosfera liniștită a acestui golf stâncos, perfect pentru căutarea scoicilor, dar purtați încălțăminte solidă pentru mersul pe pietriș.",
+            "en": "Enjoy the peaceful atmosphere of this smaller, rockier cove, perfect for shell hunting, but make sure to wear sturdy shoes for walking on the pebbles."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Trestel",
+            "hu": "Plage de Trestel",
+            "ro": "Plage de Trestel",
+            "en": "Plage de Trestel"
+          },
+          "coords": [
+            -3.354582,
+            48.821715
+          ],
+          "category": "recreational",
+          "arrive_at": "11:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie auf dem feinen weißen Sand dieses weitläufigen Strandes, der bei Surfern beliebt ist, und sichern Sie sich früh einen guten Platz.",
+            "hu": "Pihenjen e hatalmas, szörfösök által kedvelt félhold alakú strand finom fehér homokján, és érkezzen korán, hogy jó helyet kapjon a vízimentők közelében.",
+            "ro": "Relaxați-vă pe nisipul fin al acestei vaste plaje în formă de semilună, iubită de surferi, și sosiți devreme pentru un loc bun lângă salvamari.",
+            "en": "Relax on the fine white sand of this vast crescent beach favored by windsurfers, and arrive early to secure a prime spot near the lifeguard station."
+          }
+        },
+        {
+          "name": {
+            "de": "La Roche Branlante",
+            "hu": "La Roche Branlante",
+            "ro": "La Roche Branlante",
+            "en": "La Roche Branlante"
+          },
+          "coords": [
+            -3.3663,
+            48.821807
+          ],
+          "category": "landmark",
+          "arrive_at": "13:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Messen Sie Ihre Kräfte an diesem berühmten Wackelstein an der Klippe und nutzen Sie den Panoramamodus Ihrer Kamera für die atemberaubende Meeressicht.",
+            "hu": "Tegye próbára erejét ennél a sziklafalon egyensúlyozó híres kőnél, és használja a fényképezőgép panoráma módját a lenyűgöző tengeri kilátás megörökítésére.",
+            "ro": "Testați-vă forța cu această celebră piatră basculantă de pe faleză și folosiți modul panoramic al camerei pentru a surprinde priveliștile marine superbe.",
+            "en": "Test your strength against this famous balancing rock perched on the cliffside, and use your camera's panoramic mode to capture the stunning sea views."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Port le Goff",
+            "hu": "Plage de Port le Goff",
+            "ro": "Plage de Port le Goff",
+            "en": "Plage de Port le Goff"
+          },
+          "coords": [
+            -3.365614,
+            48.819405
+          ],
+          "category": "recreational",
+          "arrive_at": "13:30",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem intimen Strand, der guten Schutz vor dem Wind bietet, und bringen Sie eine leichte Jacke für kühle Küstenabende mit.",
+            "hu": "Kapcsolódjon ki ezen a szélvédett, meghitt strandon, de hozzon magával egy könnyű dzsekit, mert a partmenti esték még mindig meglehetősen hűvösek lehetnek.",
+            "ro": "Relaxați-vă pe această plajă intimă care oferă o protecție excelentă împotriva vântului, aducând o jachetă ușoară pentru serile răcoroase de pe coastă.",
+            "en": "Unwind at this intimate beach that offers excellent protection from prevailing winds, bringing a light jacket as coastal evenings can still be quite brisk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang im Herzen des Dorfes an der Kirche Saint-Samson, die einen friedlichen Ton angibt. Ein kurzer Weg führt zur felsigen Plage aux Choux, wo die raue bretonische Küste ihren natürlichen Charme offenbart.\n\nGegen Mittag erreichen Sie die herrliche Plage de Trestel. Diese Weite aus feinem weißen Sand ist das Juwel der Gegend und ein idealer Ort, um zu entspannen, Surfer zu beobachten und vielleicht ein Mittagessen am Meer zu genießen.\n\nAm Nachmittag folgen Sie dem Küstenpfad, um La Roche Branlante zu entdecken, einen faszinierenden Wackelstein dramatisch an den Klippen. Nehmen Sie sich Zeit für Fotos vom atemberaubenden Panoramablick über den Ärmelkanal.\n\nBeenden Sie Ihren Tag an der Plage de Port le Goff, einer kleineren, intimeren Bucht. Bei Sonnenuntergang bietet die geschützte Umgebung einen ruhigen Ort, um über die Schönheit der nördlichen Bretagne nachzudenken.",
+        "hu": "Kezdje a gyalogos túrát a falu szívében, a Saint-Samson templomnál, amely békés alaphangot ad a napnak. Egy rövid séta elvezeti a sziklás Plage aux Choux strandhoz, ahol a zord breton partvidék megmutatja természetes vonzerejét.\n\nAhogy közeledik a dél, érkezzen meg a csodálatos Plage de Trestel strandhoz. A finom fehér homok eme hatalmas kiterjedése a régió ékköve, ideális hely a pihenésre, a szörfösök megfigyelésére és egy tengerparti ebéd elköltésére.\n\nDélután kövesse a parti ösvényt, hogy felfedezze a La Roche Branlante-t, egy lenyűgöző, a sziklákon drámaian egyensúlyozó követ. Szánjon időt a La Manche csatornára nyíló lenyűgöző panorámás kilátás lefotózására.\n\nZárja a napot a Plage de Port le Goff kisebb, meghittebb öblénél. Ahogy a nap lenyugszik, a védett környezet nyugodt helyszínt biztosít ahhoz, hogy elgondolkodjon Észak-Bretagne partmenti szépségén a visszatérés előtt.",
+        "ro": "Începeți plimbarea în inima satului, la Biserica Saint-Samson, stabilind un ton pașnic pentru zi. O scurtă plimbare vă duce la stâncoasa Plage aux Choux, unde coasta accidentată a Bretaniei își dezvăluie farmecul natural.\n\nSpre prânz, ajungeți la superba Plage de Trestel. Această vastă întindere de nisip alb fin este bijuteria regiunii, oferind un loc ideal pentru a vă relaxa, a privi surferii și, poate, a savura un prânz la malul mării.\n\nDupă-amiaza, urmați cărarea de coastă pentru a descoperi La Roche Branlante, o piatră basculantă fascinantă cocoțată dramatic pe stânci. Luați-vă timp pentru a fotografia priveliștile panoramice uimitoare peste Canalul Mânecii.\n\nÎncheiați-vă ziua la Plage de Port le Goff, un golf mai mic și mai intim. La apusul soarelui, mediul adăpostit oferă un cadru liniștit pentru a reflecta asupra frumuseții de coastă a Bretaniei de nord înainte de a vă întoarce.",
+        "en": "Begin your walking tour in the heart of the village at the Church of Saint-Samson, setting a peaceful tone for the day. A short stroll leads you to the rocky Plage aux Choux, where the rugged Breton coastline starts to reveal its natural charm.\n\nAs midday approaches, arrive at the magnificent Plage de Trestel. This vast expanse of fine white sand is the jewel of Trévou-Tréguignec, offering an ideal spot to relax, watch the windsurfers, and perhaps enjoy a seaside lunch nearby.\n\nIn the afternoon, follow the coastal path to discover La Roche Branlante, a fascinating balancing rock perched dramatically on the cliffs. Take some time to photograph the stunning panoramic views over the English Channel.\n\nConclude your day at Plage de Port le Goff, a smaller, more intimate cove. As the sun sets, the sheltered environment provides a tranquil setting to reflect on the coastal beauty of northern Brittany before heading back."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:08",
+      "total_km": 6.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Samson",
+            "hu": "Église Saint-Samson",
+            "ro": "Église Saint-Samson",
+            "en": "Église Saint-Samson"
+          },
+          "coords": [
+            -3.358119,
+            48.812151
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle bretonische Architektur dieser zentralen Kirche, bevor Sie losgehen, und achten Sie auf Plakate für lokale Chorauftritte.",
+            "hu": "Csodálja meg a központi templom hagyományos breton építészetét a séta előtt, és vessen egy pillantást a helyi kórusok fellépéseit hirdető táblára.",
+            "ro": "Admirați arhitectura tradițională bretonă a acestei biserici centrale înainte de a începe plimbarea și verificați avizierul pentru evenimente corale.",
+            "en": "Admire the traditional Breton architecture of this central church before starting your walk, and check the notice board for local choir events."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Trestel",
+            "hu": "Plage de Trestel",
+            "ro": "Plage de Trestel",
+            "en": "Plage de Trestel"
+          },
+          "coords": [
+            -3.354582,
+            48.821715
+          ],
+          "category": "recreational",
+          "arrive_at": "09:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie auf dem feinen weißen Sand dieses weitläufigen Strandes, der bei Surfern beliebt ist, und sichern Sie sich früh einen guten Platz.",
+            "hu": "Pihenjen e hatalmas, szörfösök által kedvelt félhold alakú strand finom fehér homokján, és érkezzen korán, hogy jó helyet kapjon a vízimentők közelében.",
+            "ro": "Relaxați-vă pe nisipul fin al acestei vaste plaje în formă de semilună, iubită de surferi, și sosiți devreme pentru un loc bun lângă salvamari.",
+            "en": "Relax on the fine white sand of this vast crescent beach favored by windsurfers, and arrive early to secure a prime spot near the lifeguard station."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Guénolé",
+            "hu": "Chapelle Saint-Guénolé",
+            "ro": "Chapelle Saint-Guénolé",
+            "en": "Chapelle Saint-Guénolé"
+          },
+          "coords": [
+            -3.335358,
+            48.812876
+          ],
+          "category": "religious",
+          "arrive_at": "11:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese charmante Steinkapelle, die in der ruhigen Landschaft versteckt ist, und stellen Sie Ihr Fahrrad sicher am alten Eichenbaum ab.",
+            "hu": "Fedezze fel ezt a nyugodt vidéken megbúvó bájos kőkápolnát, és parkolja le kerékpárját biztonságosan a bejárat melletti ősi tölgyfa közelében.",
+            "ro": "Descoperiți această fermecătoare capelă de piatră ascunsă în zona rurală și parcați-vă bicicleta în siguranță lângă stejarul antic de la intrare.",
+            "en": "Discover this charming stone chapel tucked away in the serene countryside, and park your bike securely by the ancient oak tree near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Allée Couverte de Coat-Mez",
+            "hu": "Allée Couverte de Coat-Mez",
+            "ro": "Allée Couverte de Coat-Mez",
+            "en": "Allée Couverte de Coat-Mez"
+          },
+          "coords": [
+            -3.345433,
+            48.803012
+          ],
+          "category": "historical",
+          "arrive_at": "12:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Reisen Sie bei diesem neolithischen Galeriegrab im Wald in die Vergangenheit und gehen Sie vorsichtig, da der Waldboden nach Regen matschig sein kann.",
+            "hu": "Lépjen vissza az időben ennél az erdőben rejtőző újkőkorszaki folyosósírnál, és lépkedjen óvatosan, mert az erdei talaj eső után sáros lehet.",
+            "ro": "Pășiți înapoi în timp la acest mormânt neolitic impresionant ascuns în pădure și mergeți cu grijă, deoarece solul poate fi noroios după ploaie.",
+            "en": "Step back in time at this impressive Neolithic gallery grave hidden in the woods, and tread carefully as the forest floor can be muddy after recent rain."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Adrien",
+            "hu": "Chapelle Saint-Adrien",
+            "ro": "Chapelle Saint-Adrien",
+            "en": "Chapelle Saint-Adrien"
+          },
+          "coords": [
+            -3.369798,
+            48.814579
+          ],
+          "category": "religious",
+          "arrive_at": "13:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Moment in dieser ländlichen Kapelle im Grünen und achten Sie auf die detaillierten Holzschnitzereien über dem kleinen Altar.",
+            "hu": "Töltsön el egy csendes pillanatot ebben a buja növényzettel körülvett vidéki kápolnában, és figyelje meg a kis oltár feletti részletes fafaragásokat.",
+            "ro": "Bucurați-vă de un moment de liniște la această capelă rurală înconjurată de verdeață, remarcând sculpturile detaliate în lemn de deasupra altarului.",
+            "en": "Take a quiet moment at this modest rural chapel surrounded by lush greenery, keeping an eye out for the detailed wooden carvings above the small altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Keriec",
+            "hu": "Plage de Keriec",
+            "ro": "Plage de Keriec",
+            "en": "Plage de Keriec"
+          },
+          "coords": [
+            -3.375409,
+            48.81673
+          ],
+          "category": "recreational",
+          "arrive_at": "14:23",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour an diesem familienfreundlichen Strand mit flachem Wasser und holen Sie sich eine Erfrischung vom nahegelegenen saisonalen Kiosk.",
+            "hu": "Fejezze be túráját ezen a családbarát, lassan mélyülő vizű strandon, és vegyen egy jól megérdemelt frissítőt a közeli szezonális kioszkban.",
+            "ro": "Terminați plimbarea la această plajă cu intrare lină în apă, ideală pentru familii, și luați o răcoritoare de la chioșcul sezonier din apropiere.",
+            "en": "Finish your ride at this family-friendly beach known for its gentle slope into the water, and grab a well-deserved refreshment from the nearby seasonal kiosk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Fahrradabenteuer an der historischen Kirche Saint-Samson. Radeln Sie von dort zur weitläufigen Plage de Trestel, wo die frische morgendliche Meeresbrise Sie schnell für die kommenden Kilometer beleben wird.\n\nBiegen Sie landeinwärts in die ruhige bretonische Landschaft ab und halten Sie an der Chapelle Saint-Guénolé. Fahren Sie weiter bis zur Allée Couverte de Coat-Mez, einem beeindruckenden neolithischen Denkmal im Wald.\n\nRadeln Sie zu einem weiteren versteckten Juwel, der Chapelle Saint-Adrien. Die ruhigen, kurvenreichen Straßen bieten eine hervorragende Gelegenheit, das landwirtschaftliche Erbe und traditionelle Bauernhäuser zu bewundern.\n\nSchließen Sie Ihre Radtour ab, indem Sie an die Küste zur Plage de Keriec zurückkehren. Dieser Sandstrand ist der perfekte Ort, um abzusteigen, die Beine zu entspannen und das abendliche Licht auf den Wellen zu beobachten.",
+        "hu": "Kezdje kerékpáros kalandját a történelmi Saint-Samson templomnál. Onnan tekerjen le a kiterjedt Plage de Trestel strandra, ahol a friss reggeli tengeri szellő gyorsan felélénkíti a ránk váró kilométerekre.\n\nForduljon a szárazföld felé, a békés breton vidékre, és álljon meg a festői Chapelle Saint-Guénolé-nél. Folytassa útját a vidéki sávokon, amíg el nem éri az erdővel borított lenyűgöző újkőkorszaki műemléket, a Coat-Mez-t.\n\nTekerjen el egy másik rejtett szellemi gyöngyszemhez, a Chapelle Saint-Adrien-hez. A csendes, kanyargós utak kiváló lehetőséget nyújtanak a régió mezőgazdasági örökségének és a hagyományos kőből épült farmházak megcsodálására.\n\nFejezze be kerékpáros körútját, és térjen vissza a partra, a Plage de Keriec strandhoz. Ez a családbarát homokos partszakasz tökéletes hely a leszállásra, a lábak pihentetésére és az esti fények hullámokon való játékának megfigyelésére.",
+        "ro": "Începeți aventura cu bicicleta la istorica Biserică Saint-Samson. De acolo, pedalați până la vasta Plage de Trestel, unde briza proaspătă a mării vă va revigora rapid pentru kilometrii ce urmează.\n\nÎntoarceți-vă spre interiorul țării, spre peisajul breton liniștit, oprindu-vă la pitoreasca Capelă Saint-Guénolé. Continuați pe drumuri rurale până ajungeți la Allée Couverte de Coat-Mez, un monument neolitic ascuns în pădure.\n\nPedalați spre o altă bijuterie spirituală ascunsă, Capela Saint-Adrien. Drumurile liniștite și șerpuite oferă o oportunitate excelentă de a aprecia moștenirea agricolă a regiunii și fermele tradiționale din piatră de pe traseu.\n\nÎncheiați bucla de ciclism întorcându-vă pe coastă la Plage de Keriec. Această porțiune de nisip familială este locul perfect pentru a descăleca, a vă relaxa picioarele și a privi lumina serii jucându-se pe valuri.",
+        "en": "Start your cycling adventure at the historic Church of Saint-Samson. From there, pedal down to the expansive Plage de Trestel, where the crisp morning sea breeze will quickly invigorate you for the miles ahead.\n\nTurn inland towards the peaceful Breton countryside, stopping at the quaint Chapelle Saint-Guénolé. Continue riding through rural lanes until you reach the ancient Allée Couverte de Coat-Mez, a striking Neolithic monument shrouded in woodland.\n\nCycle your way to another hidden spiritual gem, the Chapelle Saint-Adrien. The quiet, winding roads offer an excellent opportunity to appreciate the region's agricultural heritage and traditional stone farmhouses along the route.\n\nComplete your cycling loop by returning to the coast at Plage de Keriec. This family-friendly sandy stretch is the perfect place to dismount, relax your legs, and watch the evening light play across the waves before heading home."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:22",
+      "total_km": 8.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Léonore et Sainte-Anne",
+            "hu": "Église Saint-Léonore et Sainte-Anne",
+            "ro": "Église Saint-Léonore et Sainte-Anne",
+            "en": "Église Saint-Léonore et Sainte-Anne"
+          },
+          "coords": [
+            -3.371963,
+            48.809981
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Autotour mit einem Besuch dieser gut erhaltenen Pfarrkirche und nutzen Sie den kostenlosen öffentlichen Parkplatz direkt gegenüber.",
+            "hu": "Kezdje autós túráját ennek a gyönyörűen megőrzött plébániatemplomnak a meglátogatásával, és használja az utca túloldalán lévő ingyenes parkolót.",
+            "ro": "Începeți turul auto vizitând această biserică parohială frumos conservată, folosind parcarea publică gratuită situată chiar peste drum.",
+            "en": "Start your driving tour by visiting this beautifully preserved parish church, using the convenient free public parking lot located just across the street."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Port l'Épine",
+            "hu": "Plage de Port l'Épine",
+            "ro": "Plage de Port l'Épine",
+            "en": "Plage de Port l'Épine"
+          },
+          "coords": [
+            -3.383624,
+            48.815436
+          ],
+          "category": "recreational",
+          "arrive_at": "09:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Felsen und Gezeitentümpel an diesem malerischen Strand, aber prüfen Sie die Gezeiten-Tabelle, um nicht vom Wasser überrascht zu werden.",
+            "hu": "Fedezze fel a sziklás kiszögelléseket és az árapály-medencéket ezen a festői strandon, de ne felejtse el ellenőrizni az árapály-táblázatot a biztonságért.",
+            "ro": "Explorați stâncile și bazinele de maree de la această plajă pitorească, amintindu-vă să verificați programul mareelor pentru a evita orice pericol.",
+            "en": "Explore the rocky outcrops and tidal pools at this picturesque beach point, remembering to check the local tide schedule to avoid getting stranded safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Porz Garo",
+            "hu": "Plage de Porz Garo",
+            "ro": "Plage de Porz Garo",
+            "en": "Plage de Porz Garo"
+          },
+          "coords": [
+            -3.387606,
+            48.810491
+          ],
+          "category": "recreational",
+          "arrive_at": "11:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang dieser ruhigen, sandigen Bucht, die völlig abgeschieden wirkt, und packen Sie ein Picknick ein, da es hier keine Restaurants gibt.",
+            "hu": "Sétáljon végig ezen a csendes, homokos öblön, amely teljesen elzártnak tűnik a világtól, és csomagoljon egy könnyű pikniket, mert nincsenek éttermek.",
+            "ro": "Plimbați-vă de-a lungul acestui golf liniștit care pare complet izolat și pregătiți un picnic ușor, deoarece nu există restaurante în imediata apropiere.",
+            "en": "Stroll along this quiet, sandy cove that feels completely secluded from the world, packing a light picnic since there are no immediate dining facilities."
+          }
+        },
+        {
+          "name": {
+            "de": "Croix du 17e siècle",
+            "hu": "Croix du 17e siècle",
+            "ro": "Croix du 17e siècle",
+            "en": "Croix du 17e siècle"
+          },
+          "coords": [
+            -3.34536,
+            48.793324
+          ],
+          "category": "landmark",
+          "arrive_at": "12:33",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Halten Sie kurz an, um dieses kunstvoll geschnitzte Steinkreuz aus dem 17. Jahrhundert am Straßenrand zu untersuchen, ein stummer Zeuge der Geschichte.",
+            "hu": "Húzódjon félre egy pillanatra, hogy megvizsgálja ezt az út menti, 17. századi faragott kőkeresztet, amely a régió mély történelmének néma tanúja.",
+            "ro": "Opriți scurt pentru a examina această cruce de piatră sculptată din secolul al XVII-lea de pe marginea drumului, martor tăcut al istoriei profunde.",
+            "en": "Pull over briefly to examine this intricately carved 17th-century stone cross by the roadside, which stands as a silent witness to the region's deep history."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Boisriou",
+            "hu": "Château de Boisriou",
+            "ro": "Château de Boisriou",
+            "en": "Château de Boisriou"
+          },
+          "coords": [
+            -3.342754,
+            48.805271
+          ],
+          "category": "castle",
+          "arrive_at": "12:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Fassade und die gepflegten Anlagen dieses historischen bretonischen Herrenhauses, das leider nur von außen besichtigt werden kann.",
+            "hu": "Csodálja meg a történelmi breton udvarház elegáns homlokzatát és ápolt kertjét, de tartsa szem előtt, hogy magánterület, így csak kívülről látható.",
+            "ro": "Admirați fațada elegantă și domeniul îngrijit al acestui conac istoric breton, având în vedere că este o proprietate privată și vizitarea e doar exterioară.",
+            "en": "Marvel at the elegant façade and manicured grounds of this historic Breton manor, keeping in mind that it is private property so viewing is mostly external."
+          }
+        },
+        {
+          "name": {
+            "de": "Allée Couverte de Coat-Mez",
+            "hu": "Allée Couverte de Coat-Mez",
+            "ro": "Allée Couverte de Coat-Mez",
+            "en": "Allée Couverte de Coat-Mez"
+          },
+          "coords": [
+            -3.345433,
+            48.803012
+          ],
+          "category": "historical",
+          "arrive_at": "14:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Reisen Sie bei diesem neolithischen Galeriegrab im Wald in die Vergangenheit und gehen Sie vorsichtig, da der Waldboden nach Regen matschig sein kann.",
+            "hu": "Lépjen vissza az időben ennél az erdőben rejtőző újkőkorszaki folyosósírnál, és lépkedjen óvatosan, mert az erdei talaj eső után sáros lehet.",
+            "ro": "Pășiți înapoi în timp la acest mormânt neolitic impresionant ascuns în pădure și mergeți cu grijă, deoarece solul poate fi noroios după ploaie.",
+            "en": "Step back in time at this impressive Neolithic gallery grave hidden in the woods, and tread carefully as the forest floor can be muddy after recent rain."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Trestel",
+            "hu": "Plage de Trestel",
+            "ro": "Plage de Trestel",
+            "en": "Plage de Trestel"
+          },
+          "coords": [
+            -3.354582,
+            48.821715
+          ],
+          "category": "recreational",
+          "arrive_at": "15:37",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie auf dem feinen weißen Sand dieses weitläufigen Strandes, der bei Surfern beliebt ist, und sichern Sie sich früh einen guten Platz.",
+            "hu": "Pihenjen e hatalmas, szörfösök által kedvelt félhold alakú strand finom fehér homokján, és érkezzen korán, hogy jó helyet kapjon a vízimentők közelében.",
+            "ro": "Relaxați-vă pe nisipul fin al acestei vaste plaje în formă de semilună, iubită de surferi, și sosiți devreme pentru un loc bun lângă salvamari.",
+            "en": "Relax on the fine white sand of this vast crescent beach favored by windsurfers, and arrive early to secure a prime spot near the lifeguard station."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt mit der wunderschönen Architektur der Kirche Saint-Léonore et Sainte-Anne. Fahren Sie dann direkt zur dramatischen Küstenlandschaft der Plage de Port l'Épine und genießen Sie einen Morgenspaziergang an den Felsen.\n\nFahren Sie eine kurze Strecke an der Küste hinab zur abgelegenen Plage de Porz Garo. Danach navigieren Sie landeinwärts, um das Steinkreuz aus dem 17. Jahrhundert zu entdecken, ein kurzer, aber tiefgründiger historischer Halt.\n\nTauchen Sie mit einer Außenbesichtigung des großen Château de Boisriou in das regionale Erbe ein. Ihre historische Erkundung vertieft sich, wenn Sie nahe der Allée Couverte de Coat-Mez parken, um zwischen alten Steinen zu wandeln.\n\nKehren Sie zur dramatischen Küste an der Plage de Trestel zurück, um den Roadtrip zu beenden. Der Strand bietet viele Parkplätze und die ideale Atmosphäre, um zu beobachten, wie der Sonnenuntergang den Himmel über dem weiten Ozean färbt.",
+        "hu": "Az autózás az Église Saint-Léonore et Sainte-Anne gyönyörű építészetével kezdődik. Onnan induljon egyenesen a Plage de Port l'Épine drámai partmenti tájai felé, és élvezze a reggeli sétát a sziklás árapály-zónák között.\n\nVezessen egy rövid szakaszon a tengerpart mentén az eldugott Plage de Porz Garo strandhoz. Ezután induljon a szárazföld belsejébe, hogy felfedezze a 17. századi kőkeresztet, amely egy rövid, de mély történelmi megálló az út mentén.\n\nMerüljön el a régió örökségében a lenyűgöző Château de Boisriou kastély külső megtekintésével. A történelmi felfedezés elmélyül, amikor leparkol a közeli Coat-Mez folyosósírnál, hogy az ősi kövek között barangoljon.\n\nTérjen vissza a drámai partvonalhoz a Plage de Trestel strandnál, hogy befejezze autós utazását. A tágas strand bőséges parkolóhelyet és ideális hangulatot kínál, hogy megfigyelje a hatalmas északi óceán felett a naplementét.",
+        "ro": "Călătoria începe cu arhitectura superbă a Bisericii Saint-Léonore et Sainte-Anne. De acolo, mergeți direct spre peisajul de coastă dramatic de la Plage de Port l'Épine, bucurându-vă de o plimbare matinală printre stânci.\n\nConduceți pe o distanță scurtă pe coastă până la plaja izolată Porz Garo pentru un interludiu liniștit. Apoi, navigați în interior pentru a descoperi crucea de piatră din secolul XVII, o oprire istorică profundă pe marginea drumului.\n\nCufundați-vă în moștenirea regională cu o vizionare exterioară a marelui Château de Boisriou. Explorarea istorică se adâncește atunci când parcați lângă Allée Couverte de Coat-Mez pentru a vă plimba printre pietrele sale antice.\n\nÎntoarceți-vă la linia de coastă dramatică de la Plage de Trestel pentru a încheia călătoria. Plaja spațioasă oferă o atmosferă ideală pentru a privi cum apusul de soare pictează cerul deasupra vastului ocean nordic.",
+        "en": "Your drive begins with the beautiful architecture of Église Saint-Léonore et Sainte-Anne. From there, head straight for the dramatic coastal scenery at Plage de Port l'Épine, enjoying a morning walk among the rocky tidal zones.\n\nDrive just a short distance down the coast to the secluded Plage de Porz Garo for a peaceful coastal interlude. Afterwards, navigate inland to discover the 17th-century stone cross, a quick but profound historical stop by the roadside.\n\nImmerse yourself in regional heritage with an exterior viewing of the grand Château de Boisriou. Your historical exploration deepens immensely as you park near the nearby Allée Couverte de Coat-Mez to wander around its ancient stones.\n\nReturn to the dramatic coastline at Plage de Trestel to end your road trip. The spacious beach provides plenty of parking and the ideal, vibrant atmosphere for watching the sunset paint the sky above the expansive northern ocean."
+      }
+    }
+  }
+}

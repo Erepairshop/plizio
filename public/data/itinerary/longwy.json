@@ -1,0 +1,589 @@
+{
+  "city_id": "longwy",
+  "anchor": {
+    "name": "Longwy",
+    "coords": [
+      5.7606,
+      49.5197
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:48",
+      "total_km": 2.21,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "La Grange aux Arts",
+            "hu": "La Grange aux Arts",
+            "ro": "La Grange aux Arts",
+            "en": "La Grange aux Arts"
+          },
+          "coords": [
+            5.764958,
+            49.529062
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die regionale Kunst in diesem charmanten Museum, dessen vielfältige Ausstellungen lokales Talent zeigen, also prüfen Sie vorab das Programm.",
+            "hu": "Fedezze fel a regionális művészetet ebben a hangulatos múzeumban, ahol a kiállítások helyi tehetségeket mutatnak be, ezért érkezés előtt ellenőrizze a programot.",
+            "ro": "Descoperiți arta regională în acest muzeu fermecător, unde expozițiile prezintă talentul local, așa că verificați programul rotativ înainte de a vizita.",
+            "en": "Discover regional artistry in this charming museum, where diverse exhibitions showcase local talent, so check their rotating schedule before visiting."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Dagobert",
+            "hu": "Szent Dagobert-templom",
+            "ro": "Biserica Saint-Dagobert",
+            "en": "Church of Saint-Dagobert"
+          },
+          "coords": [
+            5.762057,
+            49.52408
+          ],
+          "category": "religious",
+          "arrive_at": "11:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser historischen Kirche, die das religiöse Erbe der Stadt wunderschön widerspiegelt, und genießen Sie das ruhige Innere.",
+            "hu": "Csodálja meg e történelmi templom lenyűgöző építészetét, amely gyönyörűen tükrözi a város vallási örökségét, és töltsön el egy percet a békés belső térben.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici istorice, care reflectă minunat moștenirea religioasă a orașului, și bucurați-vă de interiorul său liniștit.",
+            "en": "Admire the striking architecture of this historic church, which beautifully reflects the city's religious heritage, and take a moment to enjoy its peaceful interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée des émaux et faïences",
+            "hu": "Musée des émaux et faïences",
+            "ro": "Musée des émaux et faïences",
+            "en": "Musée des émaux et faïences"
+          },
+          "coords": [
+            5.763368,
+            49.522562
+          ],
+          "category": "museum",
+          "arrive_at": "11:44",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem umfassenden Museum in die berühmte Emaille- und Keramikgeschichte von Longwy ein und betrachten Sie die filigranen Cloisonné-Techniken genau.",
+            "hu": "Merüljön el Longwy híres zománc- és kerámiatörténetében ebben a múzeumban, és mindenképpen vizsgálja meg közelebbről a kiállított bonyolult cloisonné technikákat.",
+            "ro": "Aprofundați istoria faimosului email și a ceramicii din Longwy la acest muzeu și asigurați-vă că priviți îndeaproape tehnicile complexe de cloisonné expuse.",
+            "en": "Delve into Longwy's famous enamel and ceramics history at this comprehensive museum, and make sure to look closely at the intricate cloisonné techniques on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte de France",
+            "hu": "Porte de France",
+            "ro": "Porte de France",
+            "en": "Porte de France"
+          },
+          "coords": [
+            5.763077,
+            49.521355
+          ],
+          "category": "historical",
+          "arrive_at": "13:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Schreiten Sie durch dieses von Vauban entworfene monumentale Tor, ein brillantes Stück Militärgeschichte, und bringen Sie Ihre Kamera für das beeindruckende Bauwerk mit.",
+            "hu": "Sétáljon át ezen a Vauban által tervezett monumentális kapun, amely a hadtörténet ragyogó darabja, és hozzon fényképezőgépet a lenyűgöző erődített szerkezet megörökítéséhez.",
+            "ro": "Pășiți prin această poartă monumentală proiectată de Vauban, o piesă strălucitoare de istorie militară, și aduceți aparatul foto pentru a surprinde structura fortificată.",
+            "en": "Walk through this monumental gate designed by Vauban, a brilliant piece of military history, and bring your camera to capture its impressive fortified structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Le vieux château",
+            "hu": "Le vieux château",
+            "ro": "Le vieux château",
+            "en": "Le vieux château"
+          },
+          "coords": [
+            5.76251,
+            49.514973
+          ],
+          "category": "historical",
+          "arrive_at": "14:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.71,
+          "tip_5lang": {
+            "de": "Erkunden Sie die stimmungsvollen Ruinen des alten Schlosses, die auf die mittelalterliche Vergangenheit der Stadt hindeuten, und tragen Sie bequeme Wanderschuhe.",
+            "hu": "Fedezze fel a régi kastély hangulatos romjait, amelyek a város középkori múltjára utalnak, és viseljen kényelmes cipőt, mivel a környező talaj egyenetlen lehet.",
+            "ro": "Explorați ruinele pline de atmosferă ale vechiului castel care amintesc de trecutul medieval și purtați încălțăminte confortabilă, deoarece terenul poate fi denivelat.",
+            "en": "Explore the atmospheric ruins of the old castle that hint at the town's medieval past, and wear comfortable walking shoes as the surrounding grounds can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Église de la Sainte-Trinité",
+            "hu": "Église de la Sainte-Trinité",
+            "ro": "Église de la Sainte-Trinité",
+            "en": "Église de la Sainte-Trinité"
+          },
+          "coords": [
+            5.76613,
+            49.514181
+          ],
+          "category": "religious",
+          "arrive_at": "16:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Betreten Sie diese bezaubernde Kirche, um ihre ruhige Atmosphäre und unaufdringliche Schönheit zu schätzen, ein perfekter Ort für stille Reflexion an Ihrem geschäftigen Tag.",
+            "hu": "Lépjen be ebbe a bájos templomba, hogy értékelje nyugodt légkörét és visszafogott szépségét, amely tökéletes hely a csendes elmélkedésre a sűrű nap során.",
+            "ro": "Pășiți în această biserică fermecătoare pentru a aprecia atmosfera sa senină și frumusețea discretă, fiind un loc perfect pentru reflecție liniștită în timpul zilei.",
+            "en": "Step inside this charming church to appreciate its serene atmosphere and understated beauty, making it a perfect spot for quiet reflection during your busy day."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Belvédère",
+            "hu": "Le Belvédère",
+            "ro": "Le Belvédère",
+            "en": "Le Belvédère"
+          },
+          "coords": [
+            5.765198,
+            49.512876
+          ],
+          "category": "natural",
+          "arrive_at": "17:03",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem weiten Panoramablick auf das gesamte Tal von diesem erhöhten natürlichen Aussichtspunkt, der der ideale Ort für spektakuläre Sonnenuntergangsfotos ist.",
+            "hu": "Zárja túráját a völgyre nyíló elsöprő panorámával erről a magasan fekvő, természetes kilátópontról, amely ideális helyszín a látványos naplemente fotók elkészítéséhez.",
+            "ro": "Încheiați-vă turul cu vederi panoramice ample asupra întregii văi de pe acest punct de belvedere natural elevat, fiind locul ideal pentru fotografii spectaculoase la apus.",
+            "en": "Conclude your tour with sweeping panoramic views of the entire valley from this elevated natural vantage point, making it the ideal spot for spectacular sunset photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der Entdeckung der lokalen Kunstszene, bevor Sie die architektonische Schönheit der historischen Kirche bewundern.\n\nZur Mittagszeit tauchen Sie im Emaille-Museum in die berühmte Handwerkskunst ein und spazieren durch das von Vauban entworfene Tor.\n\nAm Nachmittag erkunden Sie die mittelalterliche Vergangenheit in den Ruinen des alten Schlosses und finden Ruhe in der nahegelegenen Kirche.\n\nBeenden Sie den Abend mit einem herrlichen Panoramablick von den natürlichen Höhen und beobachten Sie, wie die Sonne langsam über dem Tal untergeht.",
+        "hu": "Kezdje a reggelt a helyi művészet és történelem felfedezésével, majd csodálja meg a történelmi templom építészeti szépségét.\n\nA dél délben a híres zománcmúzeumban a kézművesség szívébe vezeti, majd a Vauban által tervezett monumentális kapunál folytatódik a séta.\n\nDélután merüljön el a középkori múltban a régi kastély hangulatos romjai között, és találjon egy perc békét a közeli templomban.\n\nAz estét a természetes magaslatokról nyíló lenyűgöző panorámával zárja, miközben a nap lassan lenyugszik a völgy felett.",
+        "ro": "Începeți dimineața descoperind artele și istoria locale, explorând latura artistică a orașului înainte de a admira frumusețea bisericii.\n\nLa amiază ajungeți în inima meșteșugului faimos la muzeul de email, urmat de o plimbare prin poarta monumentală a lui Vauban.\n\nDupă-amiaza, scufundați-vă în trecutul medieval printre ruinele vechiului castel și găsiți un moment de pace la biserica din apropiere.\n\nÎncheiați seara admirând priveliștile magnifice de pe înălțimile naturale, privind cum soarele apune încet peste întreaga vale.",
+        "en": "Start your morning discovering the local arts and history, exploring the artistic side of the city before admiring the architectural beauty of the historic church.\n\nMidday brings you to the heart of the city's famed craftsmanship at the enamel museum, followed by a walk through the monumental gates designed by Vauban.\n\nIn the afternoon, dive deep into the medieval past among the atmospheric ruins of the old castle and find a moment of peace at the nearby church.\n\nEnd your evening taking in the magnificent sweeping views from the natural heights, watching the sun slowly set over the valley."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:22",
+      "total_km": 4.71,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Saint-Clément",
+            "hu": "Chapelle Saint-Clément",
+            "ro": "Chapelle Saint-Clément",
+            "en": "Chapelle Saint-Clément"
+          },
+          "coords": [
+            5.730335,
+            49.527131
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese abgelegene historische Kapelle, die einen ruhigen Einblick in lokale spirituelle Traditionen bietet, und machen Sie einen entspannten Spaziergang.",
+            "hu": "Látogasson el ebbe az eldugott történelmi kápolnába, amely csendes bepillantást enged a helyi spirituális hagyományokba, és tegyen egy pihentető sétát a zöldellő környezetben.",
+            "ro": "Vizitați această capelă istorică retrasă care oferă o privire liniștită asupra tradițiilor spirituale locale și faceți o plimbare relaxantă prin împrejurimile sale verzi.",
+            "en": "Visit this secluded historic chapel that offers a quiet glimpse into local spiritual traditions, and take a relaxing stroll around its remarkably peaceful green surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "La Grange aux Arts",
+            "hu": "La Grange aux Arts",
+            "ro": "La Grange aux Arts",
+            "en": "La Grange aux Arts"
+          },
+          "coords": [
+            5.764958,
+            49.529062
+          ],
+          "category": "museum",
+          "arrive_at": "10:04",
+          "stay_min": 100,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die regionale Kunst in diesem charmanten Museum, dessen vielfältige Ausstellungen lokales Talent zeigen, also prüfen Sie vorab das Programm.",
+            "hu": "Fedezze fel a regionális művészetet ebben a hangulatos múzeumban, ahol a kiállítások helyi tehetségeket mutatnak be, ezért érkezés előtt ellenőrizze a programot.",
+            "ro": "Descoperiți arta regională în acest muzeu fermecător, unde expozițiile prezintă talentul local, așa că verificați programul rotativ înainte de a vizita.",
+            "en": "Discover regional artistry in this charming museum, where diverse exhibitions showcase local talent, so check their rotating schedule before visiting."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Dagobert",
+            "hu": "Szent Dagobert-templom",
+            "ro": "Biserica Saint-Dagobert",
+            "en": "Church of Saint-Dagobert"
+          },
+          "coords": [
+            5.762057,
+            49.52408
+          ],
+          "category": "religious",
+          "arrive_at": "11:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser historischen Kirche, die das religiöse Erbe der Stadt wunderschön widerspiegelt, und genießen Sie das ruhige Innere.",
+            "hu": "Csodálja meg e történelmi templom lenyűgöző építészetét, amely gyönyörűen tükrözi a város vallási örökségét, és töltsön el egy percet a békés belső térben.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici istorice, care reflectă minunat moștenirea religioasă a orașului, și bucurați-vă de interiorul său liniștit.",
+            "en": "Admire the striking architecture of this historic church, which beautifully reflects the city's religious heritage, and take a moment to enjoy its peaceful interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée des émaux et faïences",
+            "hu": "Musée des émaux et faïences",
+            "ro": "Musée des émaux et faïences",
+            "en": "Musée des émaux et faïences"
+          },
+          "coords": [
+            5.763368,
+            49.522562
+          ],
+          "category": "museum",
+          "arrive_at": "12:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem umfassenden Museum in die berühmte Emaille- und Keramikgeschichte von Longwy ein und betrachten Sie die filigranen Cloisonné-Techniken genau.",
+            "hu": "Merüljön el Longwy híres zománc- és kerámiatörténetében ebben a múzeumban, és mindenképpen vizsgálja meg közelebbről a kiállított bonyolult cloisonné technikákat.",
+            "ro": "Aprofundați istoria faimosului email și a ceramicii din Longwy la acest muzeu și asigurați-vă că priviți îndeaproape tehnicile complexe de cloisonné expuse.",
+            "en": "Delve into Longwy's famous enamel and ceramics history at this comprehensive museum, and make sure to look closely at the intricate cloisonné techniques on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte de France",
+            "hu": "Porte de France",
+            "ro": "Porte de France",
+            "en": "Porte de France"
+          },
+          "coords": [
+            5.763077,
+            49.521355
+          ],
+          "category": "historical",
+          "arrive_at": "14:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Schreiten Sie durch dieses von Vauban entworfene monumentale Tor, ein brillantes Stück Militärgeschichte, und bringen Sie Ihre Kamera für das beeindruckende Bauwerk mit.",
+            "hu": "Sétáljon át ezen a Vauban által tervezett monumentális kapun, amely a hadtörténet ragyogó darabja, és hozzon fényképezőgépet a lenyűgöző erődített szerkezet megörökítéséhez.",
+            "ro": "Pășiți prin această poartă monumentală proiectată de Vauban, o piesă strălucitoare de istorie militară, și aduceți aparatul foto pentru a surprinde structura fortificată.",
+            "en": "Walk through this monumental gate designed by Vauban, a brilliant piece of military history, and bring your camera to capture its impressive fortified structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Le vieux château",
+            "hu": "Le vieux château",
+            "ro": "Le vieux château",
+            "en": "Le vieux château"
+          },
+          "coords": [
+            5.76251,
+            49.514973
+          ],
+          "category": "historical",
+          "arrive_at": "15:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.71,
+          "tip_5lang": {
+            "de": "Erkunden Sie die stimmungsvollen Ruinen des alten Schlosses, die auf die mittelalterliche Vergangenheit der Stadt hindeuten, und tragen Sie bequeme Wanderschuhe.",
+            "hu": "Fedezze fel a régi kastély hangulatos romjait, amelyek a város középkori múltjára utalnak, és viseljen kényelmes cipőt, mivel a környező talaj egyenetlen lehet.",
+            "ro": "Explorați ruinele pline de atmosferă ale vechiului castel care amintesc de trecutul medieval și purtați încălțăminte confortabilă, deoarece terenul poate fi denivelat.",
+            "en": "Explore the atmospheric ruins of the old castle that hint at the town's medieval past, and wear comfortable walking shoes as the surrounding grounds can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Église de la Sainte-Trinité",
+            "hu": "Église de la Sainte-Trinité",
+            "ro": "Église de la Sainte-Trinité",
+            "en": "Église de la Sainte-Trinité"
+          },
+          "coords": [
+            5.76613,
+            49.514181
+          ],
+          "category": "religious",
+          "arrive_at": "16:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Betreten Sie diese bezaubernde Kirche, um ihre ruhige Atmosphäre und unaufdringliche Schönheit zu schätzen, ein perfekter Ort für stille Reflexion an Ihrem geschäftigen Tag.",
+            "hu": "Lépjen be ebbe a bájos templomba, hogy értékelje nyugodt légkörét és visszafogott szépségét, amely tökéletes hely a csendes elmélkedésre a sűrű nap során.",
+            "ro": "Pășiți în această biserică fermecătoare pentru a aprecia atmosfera sa senină și frumusețea discretă, fiind un loc perfect pentru reflecție liniștită în timpul zilei.",
+            "en": "Step inside this charming church to appreciate its serene atmosphere and understated beauty, making it a perfect spot for quiet reflection during your busy day."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Belvédère",
+            "hu": "Le Belvédère",
+            "ro": "Le Belvédère",
+            "en": "Le Belvédère"
+          },
+          "coords": [
+            5.765198,
+            49.512876
+          ],
+          "category": "natural",
+          "arrive_at": "17:37",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem weiten Panoramablick auf das gesamte Tal von diesem erhöhten natürlichen Aussichtspunkt, der der ideale Ort für spektakuläre Sonnenuntergangsfotos ist.",
+            "hu": "Zárja túráját a völgyre nyíló elsöprő panorámával erről a magasan fekvő, természetes kilátópontról, amely ideális helyszín a látványos naplemente fotók elkészítéséhez.",
+            "ro": "Încheiați-vă turul cu vederi panoramice ample asupra întregii văi de pe acest punct de belvedere natural elevat, fiind locul ideal pentru fotografii spectaculoase la apus.",
+            "en": "Conclude your tour with sweeping panoramic views of the entire valley from this elevated natural vantage point, making it the ideal spot for spectacular sunset photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Tag mit einer friedlichen Radtour zur abgelegenen Kapelle, bevor Sie ins Zentrum fahren, um lokale Kunst zu bewundern.\n\nGegen Mittag radeln Sie zum ikonischen Emaille-Museum und fahren durch Vaubans historisches befestigtes Tor.\n\nVerbringen Sie den Nachmittag damit, die faszinierenden alten Burgruinen zu erkunden und einen kurzen Stopp in der charmanten nahegelegenen Kirche einzulegen.\n\nIhr Abend endet mit einer malerischen Fahrt hinauf zum Aussichtspunkt, wo der Sonnenuntergang die Natur perfekt in Szene setzt.",
+        "hu": "Indítsa a napot egy békés kerékpártúrával a félreeső kápolnához, mielőtt visszatérne a városközpontba a helyi művészetek megcsodálására.\n\nDél körül tekerjen az ikonikus zománcmúzeum felé, és haladjon át Vauban történelmi erődített kapuján.\n\nTöltse a délutánt a lenyűgöző régi kastélyromok felfedezésével, majd álljon meg egy pillanatra a közeli bájos templomnál.\n\nAz este egy festői utazással zárul a kilátóhoz, ahol a naplemente tökéletesen kiemeli a gyönyörű természeti tájat.",
+        "ro": "Începeți-vă ziua cu o plimbare liniștită cu bicicleta la capela retrasă înainte de a vă întoarce în centrul orașului pentru artă locală.\n\nSpre prânz, pedalați către muzeul emblematic de email și treceți prin poarta fortificată istorică a lui Vauban.\n\nPetreceți după-amiaza explorând ruinele intrigante ale vechiului castel și făcând o scurtă oprire la fermecătoarea biserică din apropiere.\n\nSeara se încheie cu o plimbare pitorească până la punctul de belvedere, unde apusul evidențiază peisajul natural superb.",
+        "en": "Kick off your day with a peaceful bike ride to the secluded chapel before heading back to the city center to admire local art.\n\nBy midday, cycle towards the iconic enamel museum and pedal through Vauban’s historic fortified gate.\n\nSpend the afternoon exploring the intriguing old castle ruins and making a quick stop at the charming nearby church.\n\nYour evening concludes with a scenic ride up to the viewpoint, where the sunset perfectly highlights the beautiful natural landscape."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:10",
+      "total_km": 5.09,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Saint-Clément",
+            "hu": "Chapelle Saint-Clément",
+            "ro": "Chapelle Saint-Clément",
+            "en": "Chapelle Saint-Clément"
+          },
+          "coords": [
+            5.730335,
+            49.527131
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese abgelegene historische Kapelle, die einen ruhigen Einblick in lokale spirituelle Traditionen bietet, und machen Sie einen entspannten Spaziergang.",
+            "hu": "Látogasson el ebbe az eldugott történelmi kápolnába, amely csendes bepillantást enged a helyi spirituális hagyományokba, és tegyen egy pihentető sétát a zöldellő környezetben.",
+            "ro": "Vizitați această capelă istorică retrasă care oferă o privire liniștită asupra tradițiilor spirituale locale și faceți o plimbare relaxantă prin împrejurimile sale verzi.",
+            "en": "Visit this secluded historic chapel that offers a quiet glimpse into local spiritual traditions, and take a relaxing stroll around its remarkably peaceful green surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "La Grange aux Arts",
+            "hu": "La Grange aux Arts",
+            "ro": "La Grange aux Arts",
+            "en": "La Grange aux Arts"
+          },
+          "coords": [
+            5.764958,
+            49.529062
+          ],
+          "category": "museum",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die regionale Kunst in diesem charmanten Museum, dessen vielfältige Ausstellungen lokales Talent zeigen, also prüfen Sie vorab das Programm.",
+            "hu": "Fedezze fel a regionális művészetet ebben a hangulatos múzeumban, ahol a kiállítások helyi tehetségeket mutatnak be, ezért érkezés előtt ellenőrizze a programot.",
+            "ro": "Descoperiți arta regională în acest muzeu fermecător, unde expozițiile prezintă talentul local, așa că verificați programul rotativ înainte de a vizita.",
+            "en": "Discover regional artistry in this charming museum, where diverse exhibitions showcase local talent, so check their rotating schedule before visiting."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée des émaux et faïences",
+            "hu": "Musée des émaux et faïences",
+            "ro": "Musée des émaux et faïences",
+            "en": "Musée des émaux et faïences"
+          },
+          "coords": [
+            5.763368,
+            49.522562
+          ],
+          "category": "museum",
+          "arrive_at": "11:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem umfassenden Museum in die berühmte Emaille- und Keramikgeschichte von Longwy ein und betrachten Sie die filigranen Cloisonné-Techniken genau.",
+            "hu": "Merüljön el Longwy híres zománc- és kerámiatörténetében ebben a múzeumban, és mindenképpen vizsgálja meg közelebbről a kiállított bonyolult cloisonné technikákat.",
+            "ro": "Aprofundați istoria faimosului email și a ceramicii din Longwy la acest muzeu și asigurați-vă că priviți îndeaproape tehnicile complexe de cloisonné expuse.",
+            "en": "Delve into Longwy's famous enamel and ceramics history at this comprehensive museum, and make sure to look closely at the intricate cloisonné techniques on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte de France",
+            "hu": "Porte de France",
+            "ro": "Porte de France",
+            "en": "Porte de France"
+          },
+          "coords": [
+            5.763077,
+            49.521355
+          ],
+          "category": "historical",
+          "arrive_at": "13:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Schreiten Sie durch dieses von Vauban entworfene monumentale Tor, ein brillantes Stück Militärgeschichte, und bringen Sie Ihre Kamera für das beeindruckende Bauwerk mit.",
+            "hu": "Sétáljon át ezen a Vauban által tervezett monumentális kapun, amely a hadtörténet ragyogó darabja, és hozzon fényképezőgépet a lenyűgöző erődített szerkezet megörökítéséhez.",
+            "ro": "Pășiți prin această poartă monumentală proiectată de Vauban, o piesă strălucitoare de istorie militară, și aduceți aparatul foto pentru a surprinde structura fortificată.",
+            "en": "Walk through this monumental gate designed by Vauban, a brilliant piece of military history, and bring your camera to capture its impressive fortified structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Dagobert",
+            "hu": "Szent Dagobert-templom",
+            "ro": "Biserica Saint-Dagobert",
+            "en": "Church of Saint-Dagobert"
+          },
+          "coords": [
+            5.762057,
+            49.52408
+          ],
+          "category": "religious",
+          "arrive_at": "14:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser historischen Kirche, die das religiöse Erbe der Stadt wunderschön widerspiegelt, und genießen Sie das ruhige Innere.",
+            "hu": "Csodálja meg e történelmi templom lenyűgöző építészetét, amely gyönyörűen tükrözi a város vallási örökségét, és töltsön el egy percet a békés belső térben.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici istorice, care reflectă minunat moștenirea religioasă a orașului, și bucurați-vă de interiorul său liniștit.",
+            "en": "Admire the striking architecture of this historic church, which beautifully reflects the city's religious heritage, and take a moment to enjoy its peaceful interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Le vieux château",
+            "hu": "Le vieux château",
+            "ro": "Le vieux château",
+            "en": "Le vieux château"
+          },
+          "coords": [
+            5.76251,
+            49.514973
+          ],
+          "category": "historical",
+          "arrive_at": "15:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie die stimmungsvollen Ruinen des alten Schlosses, die auf die mittelalterliche Vergangenheit der Stadt hindeuten, und tragen Sie bequeme Wanderschuhe.",
+            "hu": "Fedezze fel a régi kastély hangulatos romjait, amelyek a város középkori múltjára utalnak, és viseljen kényelmes cipőt, mivel a környező talaj egyenetlen lehet.",
+            "ro": "Explorați ruinele pline de atmosferă ale vechiului castel care amintesc de trecutul medieval și purtați încălțăminte confortabilă, deoarece terenul poate fi denivelat.",
+            "en": "Explore the atmospheric ruins of the old castle that hint at the town's medieval past, and wear comfortable walking shoes as the surrounding grounds can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Église de la Sainte-Trinité",
+            "hu": "Église de la Sainte-Trinité",
+            "ro": "Église de la Sainte-Trinité",
+            "en": "Église de la Sainte-Trinité"
+          },
+          "coords": [
+            5.76613,
+            49.514181
+          ],
+          "category": "religious",
+          "arrive_at": "16:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Betreten Sie diese bezaubernde Kirche, um ihre ruhige Atmosphäre und unaufdringliche Schönheit zu schätzen, ein perfekter Ort für stille Reflexion an Ihrem geschäftigen Tag.",
+            "hu": "Lépjen be ebbe a bájos templomba, hogy értékelje nyugodt légkörét és visszafogott szépségét, amely tökéletes hely a csendes elmélkedésre a sűrű nap során.",
+            "ro": "Pășiți în această biserică fermecătoare pentru a aprecia atmosfera sa senină și frumusețea discretă, fiind un loc perfect pentru reflecție liniștită în timpul zilei.",
+            "en": "Step inside this charming church to appreciate its serene atmosphere and understated beauty, making it a perfect spot for quiet reflection during your busy day."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Belvédère",
+            "hu": "Le Belvédère",
+            "ro": "Le Belvédère",
+            "en": "Le Belvédère"
+          },
+          "coords": [
+            5.765198,
+            49.512876
+          ],
+          "category": "natural",
+          "arrive_at": "17:25",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einem weiten Panoramablick auf das gesamte Tal von diesem erhöhten natürlichen Aussichtspunkt, der der ideale Ort für spektakuläre Sonnenuntergangsfotos ist.",
+            "hu": "Zárja túráját a völgyre nyíló elsöprő panorámával erről a magasan fekvő, természetes kilátópontról, amely ideális helyszín a látványos naplemente fotók elkészítéséhez.",
+            "ro": "Încheiați-vă turul cu vederi panoramice ample asupra întregii văi de pe acest punct de belvedere natural elevat, fiind locul ideal pentru fotografii spectaculoase la apus.",
+            "en": "Conclude your tour with sweeping panoramic views of the entire valley from this elevated natural vantage point, making it the ideal spot for spectacular sunset photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour mit einem Besuch der historischen Kapelle am Stadtrand, gefolgt von einem inspirierenden Stopp im lokalen Kunstzentrum.\n\nIhr Mittagsprogramm bietet einen tiefen Einblick in feine Keramik im Emaille-Museum und einen Spaziergang an den imposanten historischen Stadttoren.\n\nAm Nachmittag parken Sie in der Nähe der alten Burgruine für eine historische Erkundung, bevor Sie die wunderschön friedliche lokale Kirche besuchen.\n\nBeenden Sie den perfekten Tagesausflug mit einer Fahrt zum atemberaubenden Aussichtspunkt für unvergessliche Panoramen in der Dämmerung.",
+        "hu": "Kezdje autós túráját a külvárosi történelmi kápolna meglátogatásával, majd egy inspiráló megállóval a helyi művészeti központban.\n\nA déli program során mélyedjen el a finomkerámiákban a zománcmúzeumban, és sétáljon el az impozáns történelmi városkapuk mellett.\n\nDélután parkoljon le a régi kastély romjai közelében egy történelmi felfedezőútra, mielőtt meglátogatná a gyönyörűen békés helyi templomot.\n\nFejezze be a tökéletes napot úgy, hogy a lélegzetelállító kilátóhoz hajt a felejthetetlen alkonyati panorámáért.",
+        "ro": "Începeți turul cu mașina vizitând capela istorică de la periferie, urmată de o oprire plină de inspirație la centrul de arte locale.\n\nProgramul de prânz include o incursiune în ceramica fină la muzeul de email și o plimbare pe lângă impunătoarele porți istorice ale orașului.\n\nDupă-amiaza, parcați lângă ruinele vechiului castel pentru o explorare istorică înainte de a vizita biserica locală frumos serenă.\n\nTerminați excursia perfectă conducând la punctul de belvedere care îți taie respirația pentru panorame de neuitat la amurg.",
+        "en": "Begin your driving tour by visiting the historic chapel on the outskirts, followed by an inspiring stop at the local arts center.\n\nYour midday schedule features a deep dive into fine ceramics at the enamel museum and a stroll past the imposing historic city gates.\n\nIn the afternoon, park near the old castle ruins for a historic exploration before visiting the beautifully serene local church.\n\nFinish the perfect day trip by driving to the breathtaking viewpoint for unforgettable twilight panoramas."
+      }
+    }
+  }
+}

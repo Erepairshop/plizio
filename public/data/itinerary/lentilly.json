@@ -1,0 +1,474 @@
+{
+  "city_id": "lentilly",
+  "anchor": {
+    "name": "Lentilly",
+    "coords": [
+      4.6631,
+      45.8186
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:11",
+      "total_km": 6.67,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "St. Laurentius Kirche",
+            "hu": "Saint-Laurent Templom",
+            "ro": "Biserica Saint-Laurent",
+            "en": "Saint-Laurent Church"
+          },
+          "coords": [
+            4.661509,
+            45.819767
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die kunstvollen Buntglasfenster dieser historischen Kirche, die lokale Handwerkskunst zeigen, und achten Sie auf das ruhige Licht am frühen Morgen.",
+            "hu": "Csodálja meg a történelmi templom lenyűgöző ólomüveg ablakait, amelyek a helyi mesterségbeli tudást dicsérik, és élvezze a kora reggeli csendes fényeket.",
+            "ro": "Admirați vitraliile magnifice ale acestei biserici istorice, care reflectă măiestria locală, și veniți dimineața devreme pentru a vă bucura de lumina liniștită.",
+            "en": "Admire the exquisite stained-glass windows of this historic church, which showcase local craftsmanship, and try to visit early in the morning for the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Bel-Air",
+            "hu": "Bel-Air Kastély",
+            "ro": "Castelul Bel-Air",
+            "en": "Château de Bel-Air"
+          },
+          "coords": [
+            4.653034,
+            45.83174
+          ],
+          "category": "castle",
+          "arrive_at": "10:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.47,
+          "tip_5lang": {
+            "de": "Entdecken Sie die elegante Architektur dieses majestätischen Schlosses, das tiefe Einblicke in den adeligen Lebensstil bietet, und buchen Sie im Voraus eine Führung.",
+            "hu": "Fedezze fel az elegáns kastély fenséges építészetét, amely bepillantást enged az egykori nemesi életmódba, és érdemes előre lefoglalni a tárlatvezetést.",
+            "ro": "Descoperiți arhitectura elegantă a acestui castel maiestuos, care oferă o perspectivă asupra vieții nobiliare, și rezervați-vă un tur ghidat în avans pentru detalii.",
+            "en": "Explore the elegant architecture of this majestic castle, which offers a deep insight into the noble lifestyle, and be sure to book a guided tour in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Bartholomäuskirche",
+            "hu": "Szent Bertalan Templom",
+            "ro": "Biserica Sfântul Bartolomeu",
+            "en": "Église Saint-Barthélemy"
+          },
+          "coords": [
+            4.651848,
+            45.836268
+          ],
+          "category": "religious",
+          "arrive_at": "11:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.57,
+          "tip_5lang": {
+            "de": "Bewundern Sie die robuste Steinfassade dieser alten Kultstätte, die Jahrhunderte überdauert hat, und nehmen Sie sich Zeit für die friedliche Atmosphäre im Inneren.",
+            "hu": "Csodálja meg ennek az ősi kultuszhelynek a robusztus kőhomlokzatát, amely évszázadokat élt túl, és töltsön el néhány percet a békés belső térben.",
+            "ro": "Admirați fațada robustă din piatră a acestui lăcaș de cult străvechi, care a supraviețuit secolelor, și petreceți câteva momente în liniștea profundă din interior.",
+            "en": "Admire the sturdy stone facade of this ancient place of worship, which has withstood the test of centuries, and take a moment to enjoy the peaceful interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Cruzol",
+            "hu": "Cruzol Vár",
+            "ro": "Castelul Cruzol",
+            "en": "Cruzol Castle"
+          },
+          "coords": [
+            4.67231,
+            45.8308
+          ],
+          "category": "fortress",
+          "arrive_at": "12:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 1.77,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Ruinen dieser mittelalterlichen Festung, die von spannenden Schlachten erzählen, und tragen Sie unbedingt festes Schuhwerk für den Aufstieg.",
+            "hu": "Fedezze fel a középkori erődítmény lenyűgöző romjait, amelyek ősi csatákról mesélnek, és mindenképpen viseljen kényelmes, zárt cipőt a meredek feljutáshoz.",
+            "ro": "Explorați ruinele fascinante ale acestei fortărețe medievale, care spun povești despre bătălii vechi, și purtați încălțăminte confortabilă pentru ascensiune.",
+            "en": "Explore the fascinating ruins of this medieval fortress, which tell tales of ancient battles, and make sure to wear sturdy shoes for the steep climb up."
+          }
+        },
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața Centrală",
+            "en": "Market Square"
+          },
+          "coords": [
+            4.681621,
+            45.85508
+          ],
+          "category": "civic",
+          "arrive_at": "14:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 43,
+          "hop_from_prev_km": 2.86,
+          "tip_5lang": {
+            "de": "Schlendern Sie über den lebhaften Platz, der das pulsierende Herz der Gemeinde bildet, und probieren Sie an den Marktständen unbedingt die frischen regionalen Käsesorten.",
+            "hu": "Sétáljon végig ezen a nyüzsgő téren, amely a helyi közösség lüktető szíve, és mindenképpen kóstolja meg a standoknál kínált friss, regionális kézműves sajtokat.",
+            "ro": "Plimbați-vă prin această piață plină de viață, inima pulsantă a comunității, și nu ratați ocazia de a gusta brânzeturile regionale proaspete de la tarabe.",
+            "en": "Stroll through this bustling square, which serves as the vibrant heart of the local community, and definitely try the fresh regional cheeses offered at the stalls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag an der Kirche Saint-Laurent. Der Vormittag bietet einen schönen Spaziergang zum Schloss Bel-Air. Nachmittags erkunden Sie die Bartholomäuskirche und die faszinierende Burg Cruzol. Der Tag endet entspannt auf dem lebhaften Marktplatz, wo lokale Spezialitäten auf Sie warten.",
+        "hu": "Kezdje a napot a Saint-Laurent templomnál. A délelőtt folyamán sétáljon el a Bel-Air kastélyhoz. Délután fedezze fel a Szent Bertalan templomot és a Cruzol várat. A nap a nyüzsgő Piactéren ér véget, ahol finom helyi specialitások várják a látogatókat.",
+        "ro": "Începeți ziua la Biserica Saint-Laurent. Dimineața oferă o plimbare plăcută către Castelul Bel-Air. După-amiaza explorați Biserica Sfântul Bartolomeu și fascinantul Castel Cruzol. Ziua se încheie relaxant în Piața Centrală, unde vă așteaptă specialități locale delicioase.",
+        "en": "Start your day at the Saint-Laurent Church. The morning offers a pleasant stroll to the Château de Bel-Air. In the afternoon, explore the Église Saint-Barthélemy and the fascinating Cruzol Castle. The day concludes comfortably at the bustling Market Square, where local specialties await."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:58",
+      "total_km": 13.22,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathauspark",
+            "hu": "Városháza Park",
+            "ro": "Parcul Primăriei",
+            "en": "Town Hall Park"
+          },
+          "coords": [
+            4.661248,
+            45.763948
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem gepflegten Park, der mit wunderschönen Blumenbeeten begeistert, und bringen Sie eine Picknickdecke für eine erholsame Pause am Nachmittag mit.",
+            "hu": "Kapcsolódjon ki ebben a gondozott parkban, amely gyönyörű virágágyásokkal büszkélkedhet, és hozzon magával egy pikniktakarót a pihentető délutáni szünethez.",
+            "ro": "Relaxați-vă în acest parc bine întreținut, plin de straturi florale superbe, și aduceți o pătură de picnic pentru a vă bucura de o pauză revigorantă de după-amiază.",
+            "en": "Relax in this beautifully maintained park, which is filled with stunning flower beds, and consider bringing a picnic blanket for a refreshing afternoon break."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Guinet",
+            "hu": "Guinet Kastély",
+            "ro": "Castelul Guinet",
+            "en": "Château de Guinet"
+          },
+          "coords": [
+            4.655416,
+            45.798177
+          ],
+          "category": "castle",
+          "arrive_at": "10:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.91,
+          "tip_5lang": {
+            "de": "Bewundern Sie die märchenhafte Architektur dieses prächtigen Schlosses, das von malerischen Gärten umgeben ist, und machen Sie viele Fotos von der eleganten Fassade.",
+            "hu": "Csodálja meg ennek a mesébe illő kastélynak a pompás építészetét, amelyet festői kertek vesznek körül, és készítsen sok fényképet az elegáns homlokzatról.",
+            "ro": "Admirați arhitectura de basm a acestui castel magnific, înconjurat de grădini pitorești, și profitați de ocazie pentru a face multe fotografii ale fațadei elegante.",
+            "en": "Admire the fairytale architecture of this magnificent castle, which is surrounded by picturesque gardens, and take plenty of photos of its highly elegant facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Notre-Dame de Fouillet",
+            "hu": "Notre-Dame de Fouillet Kápolna",
+            "ro": "Capela Notre-Dame de Fouillet",
+            "en": "Chapelle Notre-Dame de Fouillet"
+          },
+          "coords": [
+            4.630378,
+            45.809082
+          ],
+          "category": "religious",
+          "arrive_at": "12:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese versteckte Kapelle, die einen ruhigen Rückzugsort abseits des Trubels bietet, und bewundern Sie die schlichte, aber bewegende Innenausstattung.",
+            "hu": "Látogasson el ebbe a rejtett kápolnába, amely csendes menedéket nyújt a város zajától, és figyelje meg a letisztult, ám mégis mélyen megható belső kialakítást.",
+            "ro": "Vizitați această capelă ascunsă, care oferă un refugiu liniștit departe de agitație, și admirați decorul interior simplu, dar extrem de emoționant.",
+            "en": "Visit this hidden chapel, which offers a serene retreat away from the busy streets, and carefully observe the simple yet deeply moving interior decorations."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Laurentius Kirche",
+            "hu": "Saint-Laurent Templom",
+            "ro": "Biserica Saint-Laurent",
+            "en": "Saint-Laurent Church"
+          },
+          "coords": [
+            4.661509,
+            45.819767
+          ],
+          "category": "religious",
+          "arrive_at": "13:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.66,
+          "tip_5lang": {
+            "de": "Betrachten Sie die kunstvollen Buntglasfenster dieser historischen Kirche, die lokale Handwerkskunst zeigen, und achten Sie auf das ruhige Licht am frühen Morgen.",
+            "hu": "Csodálja meg a történelmi templom lenyűgöző ólomüveg ablakait, amelyek a helyi mesterségbeli tudást dicsérik, és élvezze a kora reggeli csendes fényeket.",
+            "ro": "Admirați vitraliile magnifice ale acestei biserici istorice, care reflectă măiestria locală, și veniți dimineața devreme pentru a vă bucura de lumina liniștită.",
+            "en": "Admire the exquisite stained-glass windows of this historic church, which showcase local craftsmanship, and try to visit early in the morning for the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Cruzol",
+            "hu": "Cruzol Vár",
+            "ro": "Castelul Cruzol",
+            "en": "Cruzol Castle"
+          },
+          "coords": [
+            4.67231,
+            45.8308
+          ],
+          "category": "fortress",
+          "arrive_at": "14:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.49,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Ruinen dieser mittelalterlichen Festung, die von spannenden Schlachten erzählen, und tragen Sie unbedingt festes Schuhwerk für den Aufstieg.",
+            "hu": "Fedezze fel a középkori erődítmény lenyűgöző romjait, amelyek ősi csatákról mesélnek, és mindenképpen viseljen kényelmes, zárt cipőt a meredek feljutáshoz.",
+            "ro": "Explorați ruinele fascinante ale acestei fortărețe medievale, care spun povești despre bătălii vechi, și purtați încălțăminte confortabilă pentru ascensiune.",
+            "en": "Explore the fascinating ruins of this medieval fortress, which tell tales of ancient battles, and make sure to wear sturdy shoes for the steep climb up."
+          }
+        },
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața Centrală",
+            "en": "Market Square"
+          },
+          "coords": [
+            4.681621,
+            45.85508
+          ],
+          "category": "civic",
+          "arrive_at": "15:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.86,
+          "tip_5lang": {
+            "de": "Schlendern Sie über den lebhaften Platz, der das pulsierende Herz der Gemeinde bildet, und probieren Sie an den Marktständen unbedingt die frischen regionalen Käsesorten.",
+            "hu": "Sétáljon végig ezen a nyüzsgő téren, amely a helyi közösség lüktető szíve, és mindenképpen kóstolja meg a standoknál kínált friss, regionális kézműves sajtokat.",
+            "ro": "Plimbați-vă prin această piață plină de viață, inima pulsantă a comunității, și nu ratați ocazia de a gusta brânzeturile regionale proaspete de la tarabe.",
+            "en": "Stroll through this bustling square, which serves as the vibrant heart of the local community, and definitely try the fresh regional cheeses offered at the stalls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie morgens im idyllischen Rathauspark und radeln Sie zum beeindruckenden Schloss Guinet. Der Mittag führt Sie zur ruhigen Kapelle Notre-Dame de Fouillet. Nachmittags besuchen Sie die Kirche Saint-Laurent und die Ruinen der Burg Cruzol. Den Abend lassen Sie am belebten Marktplatz gemütlich ausklingen.",
+        "hu": "Kezdjen a festői Városháza Parkban, majd kerékpározzon el a Guinet kastélyhoz. Délben a csendes Notre-Dame de Fouillet kápolna várja. Délután látogasson el a Saint-Laurent templomhoz és a Cruzol vár romjaihoz. Az estét a nyüzsgő Piactéren töltheti kellemes kikapcsolódással.",
+        "ro": "Începeți dimineața în Parcul Primăriei și pedalați către impresionantul Castel Guinet. La prânz ajungeți la liniștita Capelă Notre-Dame de Fouillet. După-amiaza vizitați Biserica Saint-Laurent și ruinele Castelului Cruzol. Seara se încheie perfect cu o atmosferă plăcută în Piața Centrală.",
+        "en": "Start your morning in the idyllic Town Hall Park and cycle to the impressive Château de Guinet. Midday brings you to the quiet Chapelle Notre-Dame de Fouillet. In the afternoon, visit the Saint-Laurent Church and Cruzol Castle ruins. The evening ends beautifully in the vibrant Market Square."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:56",
+      "total_km": 14.06,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathauspark",
+            "hu": "Városháza Park",
+            "ro": "Parcul Primăriei",
+            "en": "Town Hall Park"
+          },
+          "coords": [
+            4.661248,
+            45.763948
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem gepflegten Park, der mit wunderschönen Blumenbeeten begeistert, und bringen Sie eine Picknickdecke für eine erholsame Pause am Nachmittag mit.",
+            "hu": "Kapcsolódjon ki ebben a gondozott parkban, amely gyönyörű virágágyásokkal büszkélkedhet, és hozzon magával egy pikniktakarót a pihentető délutáni szünethez.",
+            "ro": "Relaxați-vă în acest parc bine întreținut, plin de straturi florale superbe, și aduceți o pătură de picnic pentru a vă bucura de o pauză revigorantă de după-amiază.",
+            "en": "Relax in this beautifully maintained park, which is filled with stunning flower beds, and consider bringing a picnic blanket for a refreshing afternoon break."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Guinet",
+            "hu": "Guinet Kastély",
+            "ro": "Castelul Guinet",
+            "en": "Château de Guinet"
+          },
+          "coords": [
+            4.655416,
+            45.798177
+          ],
+          "category": "castle",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.91,
+          "tip_5lang": {
+            "de": "Bewundern Sie die märchenhafte Architektur dieses prächtigen Schlosses, das von malerischen Gärten umgeben ist, und machen Sie viele Fotos von der eleganten Fassade.",
+            "hu": "Csodálja meg ennek a mesébe illő kastélynak a pompás építészetét, amelyet festői kertek vesznek körül, és készítsen sok fényképet az elegáns homlokzatról.",
+            "ro": "Admirați arhitectura de basm a acestui castel magnific, înconjurat de grădini pitorești, și profitați de ocazie pentru a face multe fotografii ale fațadei elegante.",
+            "en": "Admire the fairytale architecture of this magnificent castle, which is surrounded by picturesque gardens, and take plenty of photos of its highly elegant facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Notre-Dame de Fouillet",
+            "hu": "Notre-Dame de Fouillet Kápolna",
+            "ro": "Capela Notre-Dame de Fouillet",
+            "en": "Chapelle Notre-Dame de Fouillet"
+          },
+          "coords": [
+            4.630378,
+            45.809082
+          ],
+          "category": "religious",
+          "arrive_at": "11:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese versteckte Kapelle, die einen ruhigen Rückzugsort abseits des Trubels bietet, und bewundern Sie die schlichte, aber bewegende Innenausstattung.",
+            "hu": "Látogasson el ebbe a rejtett kápolnába, amely csendes menedéket nyújt a város zajától, és figyelje meg a letisztult, ám mégis mélyen megható belső kialakítást.",
+            "ro": "Vizitați această capelă ascunsă, care oferă un refugiu liniștit departe de agitație, și admirați decorul interior simplu, dar extrem de emoționant.",
+            "en": "Visit this hidden chapel, which offers a serene retreat away from the busy streets, and carefully observe the simple yet deeply moving interior decorations."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Laurentius Kirche",
+            "hu": "Saint-Laurent Templom",
+            "ro": "Biserica Saint-Laurent",
+            "en": "Saint-Laurent Church"
+          },
+          "coords": [
+            4.661509,
+            45.819767
+          ],
+          "category": "religious",
+          "arrive_at": "12:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.66,
+          "tip_5lang": {
+            "de": "Betrachten Sie die kunstvollen Buntglasfenster dieser historischen Kirche, die lokale Handwerkskunst zeigen, und achten Sie auf das ruhige Licht am frühen Morgen.",
+            "hu": "Csodálja meg a történelmi templom lenyűgöző ólomüveg ablakait, amelyek a helyi mesterségbeli tudást dicsérik, és élvezze a kora reggeli csendes fényeket.",
+            "ro": "Admirați vitraliile magnifice ale acestei biserici istorice, care reflectă măiestria locală, și veniți dimineața devreme pentru a vă bucura de lumina liniștită.",
+            "en": "Admire the exquisite stained-glass windows of this historic church, which showcase local craftsmanship, and try to visit early in the morning for the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Bel-Air",
+            "hu": "Bel-Air Kastély",
+            "ro": "Castelul Bel-Air",
+            "en": "Château de Bel-Air"
+          },
+          "coords": [
+            4.653034,
+            45.83174
+          ],
+          "category": "castle",
+          "arrive_at": "13:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.47,
+          "tip_5lang": {
+            "de": "Entdecken Sie die elegante Architektur dieses majestätischen Schlosses, das tiefe Einblicke in den adeligen Lebensstil bietet, und buchen Sie im Voraus eine Führung.",
+            "hu": "Fedezze fel az elegáns kastély fenséges építészetét, amely bepillantást enged az egykori nemesi életmódba, és érdemes előre lefoglalni a tárlatvezetést.",
+            "ro": "Descoperiți arhitectura elegantă a acestui castel maiestuos, care oferă o perspectivă asupra vieții nobiliare, și rezervați-vă un tur ghidat în avans pentru detalii.",
+            "en": "Explore the elegant architecture of this majestic castle, which offers a deep insight into the noble lifestyle, and be sure to book a guided tour in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Bartholomäuskirche",
+            "hu": "Szent Bertalan Templom",
+            "ro": "Biserica Sfântul Bartolomeu",
+            "en": "Église Saint-Barthélemy"
+          },
+          "coords": [
+            4.651848,
+            45.836268
+          ],
+          "category": "religious",
+          "arrive_at": "14:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.57,
+          "tip_5lang": {
+            "de": "Bewundern Sie die robuste Steinfassade dieser alten Kultstätte, die Jahrhunderte überdauert hat, und nehmen Sie sich Zeit für die friedliche Atmosphäre im Inneren.",
+            "hu": "Csodálja meg ennek az ősi kultuszhelynek a robusztus kőhomlokzatát, amely évszázadokat élt túl, és töltsön el néhány percet a békés belső térben.",
+            "ro": "Admirați fațada robustă din piatră a acestui lăcaș de cult străvechi, care a supraviețuit secolelor, și petreceți câteva momente în liniștea profundă din interior.",
+            "en": "Admire the sturdy stone facade of this ancient place of worship, which has withstood the test of centuries, and take a moment to enjoy the peaceful interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața Centrală",
+            "en": "Market Square"
+          },
+          "coords": [
+            4.681621,
+            45.85508
+          ],
+          "category": "civic",
+          "arrive_at": "15:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.15,
+          "tip_5lang": {
+            "de": "Schlendern Sie über den lebhaften Platz, der das pulsierende Herz der Gemeinde bildet, und probieren Sie an den Marktständen unbedingt die frischen regionalen Käsesorten.",
+            "hu": "Sétáljon végig ezen a nyüzsgő téren, amely a helyi közösség lüktető szíve, és mindenképpen kóstolja meg a standoknál kínált friss, regionális kézműves sajtokat.",
+            "ro": "Plimbați-vă prin această piață plină de viață, inima pulsantă a comunității, și nu ratați ocazia de a gusta brânzeturile regionale proaspete de la tarabe.",
+            "en": "Stroll through this bustling square, which serves as the vibrant heart of the local community, and definitely try the fresh regional cheeses offered at the stalls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Roadtrip beginnt am malerischen Rathauspark, gefolgt von einer Fahrt zum Schloss Guinet. Mittags erkunden Sie die Kapelle Notre-Dame de Fouillet und die Kirche Saint-Laurent. Nachmittags stehen das Schloss Bel-Air und die Bartholomäuskirche auf dem Programm. Der Tag gipfelt auf dem geselligen Marktplatz.",
+        "hu": "Az autós túra a Városháza Parknál indul, majd a Guinet kastélyhoz vezet. Délben a Notre-Dame de Fouillet kápolna és a Saint-Laurent templom következik. Délután a Bel-Air kastély és a Szent Bertalan templom várja a látogatókat. A napot a hangulatos Piactéren koronázhatja meg.",
+        "ro": "Călătoria începe în Parcul Primăriei, urmată de o vizită la Castelul Guinet. La prânz explorați Capela Notre-Dame de Fouillet și Biserica Saint-Laurent. După-amiaza vă așteaptă Castelul Bel-Air și Biserica Sfântul Bartolomeu. Ziua culminează în atmosfera plină de viață a Pieței Centrale.",
+        "en": "A road trip begins at the picturesque Town Hall Park, followed by a drive to Château de Guinet. At midday, explore the Chapelle Notre-Dame de Fouillet and Saint-Laurent Church. The afternoon highlights include Château de Bel-Air and Église Saint-Barthélemy. The day culminates at the lively Market Square."
+      }
+    }
+  }
+}

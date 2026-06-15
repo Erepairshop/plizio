@@ -1,0 +1,543 @@
+{
+  "city_id": "france-primelin-cities-v2",
+  "anchor": {
+    "name": "Primelin",
+    "coords": [
+      -4.61092,
+      48.02546
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:49",
+      "total_km": 3.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Primel",
+            "hu": "Église Saint-Primel",
+            "ro": "Église Saint-Primel",
+            "en": "Église Saint-Primel"
+          },
+          "coords": [
+            -4.610122,
+            48.025421
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schönen Buntglasfenster dieser zentralen Pfarrkirche im Herzen von Primelin und achten Sie auf den filigranen Glockenturm, bevor Sie weitergehen.",
+            "hu": "Csodálja meg a Primelin szívét alkotó központi plébániatemplom gyönyörű ólomüveg ablakait, és figyeljen a bonyolult harangtoronyra, mielőtt tovább indulna sétájára.",
+            "ro": "Admirați vitraliile frumoase ale acestei biserici parohiale centrale, inima satului Primelin, luându-vă un moment pentru a observa turnul clopotniței sale detaliate.",
+            "en": "Admire the beautiful stained glass of this central parish church that forms the heart of Primelin, taking a moment to notice the intricate bell tower before continuing."
+          }
+        },
+        {
+          "name": {
+            "de": "Lavoir",
+            "hu": "Lavoir",
+            "ro": "Lavoir",
+            "en": "Lavoir"
+          },
+          "coords": [
+            -4.621819,
+            48.021466
+          ],
+          "category": "landmark",
+          "arrive_at": "10:04",
+          "stay_min": 25,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Dieses historische öffentliche Waschhaus bietet einen Einblick in das ländliche Alltagsleben der Bretagne; lesen Sie unbedingt die nahen Tafeln für seine Geschichte.",
+            "hu": "Ez a történelmi nyilvános mosóház bepillantást enged a több évszázaddal ezelőtti vidéki Bretagne mindennapjaiba, ezért mindenképpen olvassa el a közeli információs táblákat.",
+            "ro": "Această spălătorie publică istorică oferă o privire în viața rurală de zi cu zi a Bretaniei de acum câteva secole, așa că asigurați-vă că citiți plăcile informative din apropiere.",
+            "en": "This historic public washhouse offers a glimpse into daily life in rural Brittany centuries ago, so be sure to check the nearby informational plaques for its full history."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen An Arc'hig",
+            "hu": "Dolmen An Arc'hig",
+            "ro": "Dolmen An Arc'hig",
+            "en": "Dolmen An Arc'hig"
+          },
+          "coords": [
+            -4.603947,
+            48.027407
+          ],
+          "category": "historical",
+          "arrive_at": "10:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses antike Megalithgrab als stummes Zeugnis prähistorischer Bewohner und tragen Sie festes Schuhwerk, um den unebenen Boden um die Steine sicher zu begehen.",
+            "hu": "Fedezze fel ezt az ősi megalitikus sírt, amely a történelem előtti lakosok néma tanúja, és viseljen masszív cipőt, hogy biztonságosan mozoghasson a kövek körüli egyenetlen talajon.",
+            "ro": "Explorați acest mormânt megalitic antic ce stă ca un testament tăcut al locuitorilor preistorici și purtați încălțăminte solidă pentru a naviga în siguranță pe terenul accidentat.",
+            "en": "Explore this ancient megalithic tomb standing as a silent testament to prehistoric inhabitants, and wear sturdy shoes to safely navigate the uneven ground around the stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin de Kerhas",
+            "hu": "Moulin de Kerhas",
+            "ro": "Moulin de Kerhas",
+            "en": "Moulin de Kerhas"
+          },
+          "coords": [
+            -4.602613,
+            48.022962
+          ],
+          "category": "landmark",
+          "arrive_at": "12:18",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Diese bezaubernde traditionelle Mühle zeigt das lokale architektonische Erbe perfekt und ist ein idealer Ort, um atemberaubende Fotos der bretonischen Landschaft zu machen.",
+            "hu": "Ez a bájos, hagyományos malom tökéletesen bemutatja a helyi építészeti örökséget, így ideális hely arra, hogy lenyűgöző fotókat készítsen a környező breton vidékről.",
+            "ro": "Această moară tradițională fermecătoare prezintă perfect moștenirea arhitecturală locală, fiind un loc ideal pentru a face fotografii uimitoare cu peisajul breton înconjurător.",
+            "en": "This charming traditional mill showcases local architectural heritage perfectly, making it an ideal spot to capture stunning photos of the surrounding Breton countryside."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle de Saint Tugen",
+            "hu": "Chapelle de Saint Tugen",
+            "ro": "Chapelle de Saint Tugen",
+            "en": "Chapelle de Saint Tugen"
+          },
+          "coords": [
+            -4.592664,
+            48.022045
+          ],
+          "category": "landmark",
+          "arrive_at": "12:54",
+          "stay_min": 55,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das aufwendige Portal und die historischen Reliquien dieses ikonischen bretonischen Wahrzeichens, das Sie am besten am frühen Nachmittag besuchen sollten.",
+            "hu": "Csodálja meg ennek az ikonikus breton nevezetességnek a kidolgozott portálját és történelmi ereklyéit; érdemes kora délután érkezni, hogy a legjobb belső fényeket élvezhesse.",
+            "ro": "Minunați-vă de portalul elaborat și de relicvele istorice găzduite în acest punct de reper iconic breton, încercând să vizitați la începutul după-amiezii pentru cea mai bună lumină.",
+            "en": "Marvel at the elaborate portal and historical relics housed within this iconic Breton landmark, aiming to visit during early afternoon to catch the best interior lighting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt im Herzen von Primelin. Genießen Sie die dörfliche Atmosphäre an der Église Saint-Primel, bevor Sie ein kurzer Spaziergang zum historischen Lavoir führt.\n\nMittags reisen Sie in der Zeit zurück zum geheimnisvollen Dolmen An Arc'hig, wo Sie über antike Geheimnisse nachdenken, bevor Sie die nahegelegene charmante Mühle Moulin de Kerhas entdecken.\n\nDer Nachmittag enthüllt das reiche Erbe der Chapelle de Saint Tugen, deren Architektur wunderschön gegen den bretonischen Himmel erstrahlt.\n\nBeenden Sie Ihre Wanderung in der Natur der Dunes du Trez Goarem, wo das Rauschen des Atlantiks einen ruhigen Abschluss des Tages bietet.",
+        "hu": "A reggel Primelin szívében kezdődik, ahol a Saint-Primel templomnál élvezheti a falu hangulatát, mielőtt egy rövid sétával eljutna a történelmi mosóházhoz, a Lavoirhoz.\n\nDélben visszautazik az időben a titokzatos Dolmen An Arc'hig-hez, ahol ősi rejtélyeken töprenghet, mielőtt felfedezné a közeli bájos Moulin de Kerhas malmot.\n\nA délután feltárja a Chapelle de Saint Tugen gazdag örökségét, amelynek lenyűgöző építészete gyönyörűen ragyog a bretagne-i égbolt alatt.\n\nZárja gyalogos túráját a természetben a Dunes du Trez Goarem dűnéinél, ahol az Atlanti-óceán zúgása nyújt békés befejezést a napnak.",
+        "ro": "Dimineața dumneavoastră începe în inima satului Primelin, îmbrățișând atmosfera la Biserica Saint-Primel înainte ca o scurtă plimbare să vă ducă la istoricul Lavoir.\n\nMiezul zilei vă poartă înapoi în timp la misteriosul Dolmen An Arc'hig, unde puteți medita la mistere antice înainte de a descoperi fermecătoarea Moară Kerhas din apropiere.\n\nDupă-amiaza dezvăluie bogata moștenire a Capelei Saint Tugen, arhitectura sa strălucind frumos pe cerul Bretaniei.\n\nÎncheiați-vă turul pe jos în mijlocul naturii la Dunele Trez Goarem, unde sunetul Atlanticului oferă un final liniștit zilei.",
+        "en": "Your morning starts in the heart of Primelin, embracing the village atmosphere at Église Saint-Primel before a short walk takes you to the historic Lavoir.\n\nMidday leads you back in time to the mysterious Dolmen An Arc'hig, where you can ponder ancient mysteries before discovering the charming Moulin de Kerhas nearby.\n\nThe afternoon unveils the rich heritage of Chapelle de Saint Tugen, its architecture shining beautifully against the Brittany sky.\n\nEnd your walking tour immersed in nature at the Dunes du Trez Goarem, where the sound of the Atlantic provides a tranquil close to your day."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:21",
+      "total_km": 8.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Primel",
+            "hu": "Église Saint-Primel",
+            "ro": "Église Saint-Primel",
+            "en": "Église Saint-Primel"
+          },
+          "coords": [
+            -4.610122,
+            48.025421
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schönen Buntglasfenster dieser zentralen Pfarrkirche im Herzen von Primelin und achten Sie auf den filigranen Glockenturm, bevor Sie weitergehen.",
+            "hu": "Csodálja meg a Primelin szívét alkotó központi plébániatemplom gyönyörű ólomüveg ablakait, és figyeljen a bonyolult harangtoronyra, mielőtt tovább indulna sétájára.",
+            "ro": "Admirați vitraliile frumoase ale acestei biserici parohiale centrale, inima satului Primelin, luându-vă un moment pentru a observa turnul clopotniței sale detaliate.",
+            "en": "Admire the beautiful stained glass of this central parish church that forms the heart of Primelin, taking a moment to notice the intricate bell tower before continuing."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen An Arc'hig",
+            "hu": "Dolmen An Arc'hig",
+            "ro": "Dolmen An Arc'hig",
+            "en": "Dolmen An Arc'hig"
+          },
+          "coords": [
+            -4.603947,
+            48.027407
+          ],
+          "category": "historical",
+          "arrive_at": "09:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses antike Megalithgrab als stummes Zeugnis prähistorischer Bewohner und tragen Sie festes Schuhwerk, um den unebenen Boden um die Steine sicher zu begehen.",
+            "hu": "Fedezze fel ezt az ősi megalitikus sírt, amely a történelem előtti lakosok néma tanúja, és viseljen masszív cipőt, hogy biztonságosan mozoghasson a kövek körüli egyenetlen talajon.",
+            "ro": "Explorați acest mormânt megalitic antic ce stă ca un testament tăcut al locuitorilor preistorici și purtați încălțăminte solidă pentru a naviga în siguranță pe terenul accidentat.",
+            "en": "Explore this ancient megalithic tomb standing as a silent testament to prehistoric inhabitants, and wear sturdy shoes to safely navigate the uneven ground around the stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Chrysanthe",
+            "hu": "Chapelle Saint-Chrysanthe",
+            "ro": "Chapelle Saint-Chrysanthe",
+            "en": "Chapelle Saint-Chrysanthe"
+          },
+          "coords": [
+            -4.60801,
+            48.03628
+          ],
+          "category": "religious",
+          "arrive_at": "11:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese friedliche religiöse Stätte abseits der Touristenpfade, die Ruhe und bescheidene, aber schöne Steinschnitzereien bietet, ideal für eine kurze Pause.",
+            "hu": "Fedezze fel ezt a békés vallási helyszínt, amely egy kicsit távolabb esik a kitaposott utaktól, nyugalmat és szerény kőfaragásokat kínálva, tökéletes egy rövid pihenőhöz.",
+            "ro": "Descoperiți acest loc religios pașnic situat ușor în afara drumurilor bătute, oferind liniște și sculpturi modeste, dar frumoase, perfect pentru o scurtă pauză de relaxare.",
+            "en": "Discover this peaceful religious site slightly off the beaten path, offering tranquility and modest yet beautiful stone carvings, perfect for a short restorative break."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir de Lézurec",
+            "hu": "Manoir de Lézurec",
+            "ro": "Manoir de Lézurec",
+            "en": "Manoir de Lézurec"
+          },
+          "coords": [
+            -4.588876,
+            48.034133
+          ],
+          "category": "castle",
+          "arrive_at": "12:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie um dieses beeindruckende historische Herrenhaus, das die Aura einer edlen Vergangenheit ausstrahlt, aber achten Sie beim Bewundern der Fassade auf Privatgrundstücke.",
+            "hu": "Sétáljon körbe ennek a lenyűgöző történelmi kúriának a külsején, amely nemes múltat áraszt, de miközben a homlokzatot csodálja, ügyeljen a magánterületet jelző táblákra.",
+            "ro": "Plimbați-vă în jurul exteriorului acestui impresionant conac istoric ce emană o aură de trecut nobil, fiind totuși atenți la semnele de proprietate privată în timp ce îi admirați fațada.",
+            "en": "Walk around the exterior of this impressive historic manor which exudes an aura of noble past, though be mindful of private property signs while admiring its grand facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle de Saint Tugen",
+            "hu": "Chapelle de Saint Tugen",
+            "ro": "Chapelle de Saint Tugen",
+            "en": "Chapelle de Saint Tugen"
+          },
+          "coords": [
+            -4.592664,
+            48.022045
+          ],
+          "category": "landmark",
+          "arrive_at": "13:34",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das aufwendige Portal und die historischen Reliquien dieses ikonischen bretonischen Wahrzeichens, das Sie am besten am frühen Nachmittag besuchen sollten.",
+            "hu": "Csodálja meg ennek az ikonikus breton nevezetességnek a kidolgozott portálját és történelmi ereklyéit; érdemes kora délután érkezni, hogy a legjobb belső fényeket élvezhesse.",
+            "ro": "Minunați-vă de portalul elaborat și de relicvele istorice găzduite în acest punct de reper iconic breton, încercând să vizitați la începutul după-amiezii pentru cea mai bună lumină.",
+            "en": "Marvel at the elaborate portal and historical relics housed within this iconic Breton landmark, aiming to visit during early afternoon to catch the best interior lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Dunes du Trez Goarem",
+            "hu": "Dunes du Trez Goarem",
+            "ro": "Dunes du Trez Goarem",
+            "en": "Dunes du Trez Goarem"
+          },
+          "coords": [
+            -4.59497,
+            48.012717
+          ],
+          "category": "recreational",
+          "arrive_at": "14:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch dieses geschützte Küstenökosystem mit atemberaubendem Atlantikblick und bleiben Sie unbedingt auf markierten Wegen, um die empfindliche Flora zu schützen.",
+            "hu": "Sétáljon végig ezen a védett tengerparti ökoszisztémán, amely lélegzetelállító kilátást nyújt az Atlanti-óceánra, és szigorúan maradjon a kijelölt utakon a dűnék védelme érdekében.",
+            "ro": "Plimbați-vă prin acest ecosistem de coastă protejat, care oferă vederi uluitoare la Atlantic, și rămâneți strict pe potecile marcate pentru a conserva flora fragilă a dunelor.",
+            "en": "Stroll through this protected coastal ecosystem offering breathtaking Atlantic views, and stay strictly on marked paths to preserve the fragile local dune vegetation."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Kerloc'h",
+            "hu": "Plage de Kerloc'h",
+            "ro": "Plage de Kerloc'h",
+            "en": "Plage de Kerloc'h"
+          },
+          "coords": [
+            -4.629369,
+            48.025889
+          ],
+          "category": "recreational",
+          "arrive_at": "15:36",
+          "stay_min": 105,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie am weichen Sand dieses unberührten Strandes und lauschen Sie den rhythmischen Wellen; prüfen Sie vorab die Gezeitentabellen für maximalen Platz am Meer.",
+            "hu": "Pihenjen ezen az érintetlen strandon a puha homokon, hallgassa a ritmikus hullámokat, és előtte ellenőrizze az árapály-táblázatokat, hogy maximális területe legyen a sétához.",
+            "ro": "Relaxați-vă pe nisipul moale al acestei plaje imaculate și ascultați valurile ritmice, verificând în prealabil tabelele de maree pentru a vă asigura spațiu maxim pentru plimbare.",
+            "en": "Relax on the soft sands of this pristine beach and listen to the rhythmic waves, checking local tide charts beforehand to ensure maximum space for a seaside stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag im Dorfzentrum an der Église Saint-Primel und radeln Sie schnell zu den alten Steinen des Dolmen An Arc'hig, um die Prähistorie zu genießen.\n\nBis zum Mittag tragen Sie Ihre Räder zur ruhigen Chapelle Saint-Chrysanthe und weiter, um das beeindruckende Äußere des historischen Manoir de Lézurec im Norden zu bewundern.\n\nAm Nachmittag radeln Sie in Richtung Süden zur berühmten Chapelle de Saint Tugen, gefolgt von einer erfrischenden Fahrt zu den geschützten Dunes du Trez Goarem.\n\nIhr Abend bricht an dem breiten Sandstrand Plage de Kerloc'h herein, wo Sie neben Ihrem ruhenden Fahrrad einen atemberaubenden Sonnenuntergang beobachten können.",
+        "hu": "Kezdje kerékpáros napját a falu központjában, az Église Saint-Primel-nél, majd gyorsan tekerjen el a Dolmen An Arc'hig ősi köveihez, hogy magába szívja a történelem előtti kort.\n\nDélre a kerekei a csendes Chapelle Saint-Chrysanthe-hoz viszik, majd tovább, hogy megcsodálja az északi vidéken fekvő történelmi Manoir de Lézurec lenyűgöző külsejét.\n\nA délutáni kerékpározás visszaviszi délre a híres Chapelle de Saint Tugen-hez, majd egy frissítő tekerés következik a védett Dunes du Trez Goaremhez.\n\nAz este a Plage de Kerloc'h széles homokos partján éri, ahol a pihenő kerékpárja mellett nézheti végig a lenyűgöző tengerparti naplementét.",
+        "ro": "Începeți ziua de ciclism în centrul satului la Biserica Saint-Primel, pedalând rapid spre pietrele antice ale Dolmen An Arc'hig pentru a vă bucura de preistorie.\n\nPână la prânz, roțile vă poartă spre liniștita Capelă Saint-Chrysanthe și mai departe pentru a admira exteriorul impresionant al istoricului Conac de Lézurec în peisajul nordic.\n\nCiclismul de după-amiază vă aduce înapoi la faimoasa Capelă Saint Tugen, urmată de o plimbare revigorantă către rezervația naturală Dunele Trez Goarem.\n\nSeara coboară pe întinderea largă de nisip de la Plage de Kerloc'h, unde puteți urmări un apus de soare uimitor pe coastă, lângă bicicleta dumneavoastră.",
+        "en": "Kick off your cycling day in the village center at Église Saint-Primel, quickly pedaling to the nearby ancient stones of Dolmen An Arc'hig to soak in prehistory.\n\nBy midday, your wheels carry you to the quiet Chapelle Saint-Chrysanthe and onward to admire the impressive exterior of the historic Manoir de Lézurec in the northern countryside.\n\nAfternoon cycling brings you back south to the celebrated Chapelle de Saint Tugen, followed by an invigorating ride to the protected Dunes du Trez Goarem.\n\nYour evening descends upon the wide, sandy stretch of Plage de Kerloc'h, where you can watch a stunning coastal sunset beside your resting bike."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:58",
+      "total_km": 8.2,
+      "stop_count": 9,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Saint-André",
+            "hu": "Chapelle Saint-André",
+            "ro": "Chapelle Saint-André",
+            "en": "Chapelle Saint-André"
+          },
+          "coords": [
+            -4.642013,
+            48.033458
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die einsame Schönheit dieser ruhigen nordwestlichen Kapelle, die sich nahtlos in die Natur einfügt; bringen Sie eine Windjacke mit, da die Küstenbrise frisch sein kann.",
+            "hu": "Élvezze ennek a csendes északnyugati kápolnának a magányos szépségét, amely zökkenőmentesen beleolvad a természetbe; hozzon magával széldzsekit, mert a parti szellő élénk lehet.",
+            "ro": "Bucurați-vă de frumusețea solitară a acestei capele liniștite din nord-vest, care se îmbină cu natura, luând o jachetă de vânt, deoarece briza de coastă poate fi destul de aspră.",
+            "en": "Enjoy the solitary beauty of this quiet northwestern chapel blending seamlessly with nature, bringing a windbreaker since the surrounding coastal breezes can be quite brisk."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Kerloc'h",
+            "hu": "Plage de Kerloc'h",
+            "ro": "Plage de Kerloc'h",
+            "en": "Plage de Kerloc'h"
+          },
+          "coords": [
+            -4.629369,
+            48.025889
+          ],
+          "category": "recreational",
+          "arrive_at": "09:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie am weichen Sand dieses unberührten Strandes und lauschen Sie den rhythmischen Wellen; prüfen Sie vorab die Gezeitentabellen für maximalen Platz am Meer.",
+            "hu": "Pihenjen ezen az érintetlen strandon a puha homokon, hallgassa a ritmikus hullámokat, és előtte ellenőrizze az árapály-táblázatokat, hogy maximális területe legyen a sétához.",
+            "ro": "Relaxați-vă pe nisipul moale al acestei plaje imaculate și ascultați valurile ritmice, verificând în prealabil tabelele de maree pentru a vă asigura spațiu maxim pentru plimbare.",
+            "en": "Relax on the soft sands of this pristine beach and listen to the rhythmic waves, checking local tide charts beforehand to ensure maximum space for a seaside stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Lavoir",
+            "hu": "Lavoir",
+            "ro": "Lavoir",
+            "en": "Lavoir"
+          },
+          "coords": [
+            -4.621819,
+            48.021466
+          ],
+          "category": "landmark",
+          "arrive_at": "11:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Dieses historische öffentliche Waschhaus bietet einen Einblick in das ländliche Alltagsleben der Bretagne; lesen Sie unbedingt die nahen Tafeln für seine Geschichte.",
+            "hu": "Ez a történelmi nyilvános mosóház bepillantást enged a több évszázaddal ezelőtti vidéki Bretagne mindennapjaiba, ezért mindenképpen olvassa el a közeli információs táblákat.",
+            "ro": "Această spălătorie publică istorică oferă o privire în viața rurală de zi cu zi a Bretaniei de acum câteva secole, așa că asigurați-vă că citiți plăcile informative din apropiere.",
+            "en": "This historic public washhouse offers a glimpse into daily life in rural Brittany centuries ago, so be sure to check the nearby informational plaques for its full history."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Primel",
+            "hu": "Église Saint-Primel",
+            "ro": "Église Saint-Primel",
+            "en": "Église Saint-Primel"
+          },
+          "coords": [
+            -4.610122,
+            48.025421
+          ],
+          "category": "religious",
+          "arrive_at": "11:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schönen Buntglasfenster dieser zentralen Pfarrkirche im Herzen von Primelin und achten Sie auf den filigranen Glockenturm, bevor Sie weitergehen.",
+            "hu": "Csodálja meg a Primelin szívét alkotó központi plébániatemplom gyönyörű ólomüveg ablakait, és figyeljen a bonyolult harangtoronyra, mielőtt tovább indulna sétájára.",
+            "ro": "Admirați vitraliile frumoase ale acestei biserici parohiale centrale, inima satului Primelin, luându-vă un moment pentru a observa turnul clopotniței sale detaliate.",
+            "en": "Admire the beautiful stained glass of this central parish church that forms the heart of Primelin, taking a moment to notice the intricate bell tower before continuing."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen An Arc'hig",
+            "hu": "Dolmen An Arc'hig",
+            "ro": "Dolmen An Arc'hig",
+            "en": "Dolmen An Arc'hig"
+          },
+          "coords": [
+            -4.603947,
+            48.027407
+          ],
+          "category": "historical",
+          "arrive_at": "12:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses antike Megalithgrab als stummes Zeugnis prähistorischer Bewohner und tragen Sie festes Schuhwerk, um den unebenen Boden um die Steine sicher zu begehen.",
+            "hu": "Fedezze fel ezt az ősi megalitikus sírt, amely a történelem előtti lakosok néma tanúja, és viseljen masszív cipőt, hogy biztonságosan mozoghasson a kövek körüli egyenetlen talajon.",
+            "ro": "Explorați acest mormânt megalitic antic ce stă ca un testament tăcut al locuitorilor preistorici și purtați încălțăminte solidă pentru a naviga în siguranță pe terenul accidentat.",
+            "en": "Explore this ancient megalithic tomb standing as a silent testament to prehistoric inhabitants, and wear sturdy shoes to safely navigate the uneven ground around the stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Chrysanthe",
+            "hu": "Chapelle Saint-Chrysanthe",
+            "ro": "Chapelle Saint-Chrysanthe",
+            "en": "Chapelle Saint-Chrysanthe"
+          },
+          "coords": [
+            -4.60801,
+            48.03628
+          ],
+          "category": "religious",
+          "arrive_at": "13:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese friedliche religiöse Stätte abseits der Touristenpfade, die Ruhe und bescheidene, aber schöne Steinschnitzereien bietet, ideal für eine kurze Pause.",
+            "hu": "Fedezze fel ezt a békés vallási helyszínt, amely egy kicsit távolabb esik a kitaposott utaktól, nyugalmat és szerény kőfaragásokat kínálva, tökéletes egy rövid pihenőhöz.",
+            "ro": "Descoperiți acest loc religios pașnic situat ușor în afara drumurilor bătute, oferind liniște și sculpturi modeste, dar frumoase, perfect pentru o scurtă pauză de relaxare.",
+            "en": "Discover this peaceful religious site slightly off the beaten path, offering tranquility and modest yet beautiful stone carvings, perfect for a short restorative break."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir de Lézurec",
+            "hu": "Manoir de Lézurec",
+            "ro": "Manoir de Lézurec",
+            "en": "Manoir de Lézurec"
+          },
+          "coords": [
+            -4.588876,
+            48.034133
+          ],
+          "category": "castle",
+          "arrive_at": "14:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie um dieses beeindruckende historische Herrenhaus, das die Aura einer edlen Vergangenheit ausstrahlt, aber achten Sie beim Bewundern der Fassade auf Privatgrundstücke.",
+            "hu": "Sétáljon körbe ennek a lenyűgöző történelmi kúriának a külsején, amely nemes múltat áraszt, de miközben a homlokzatot csodálja, ügyeljen a magánterületet jelző táblákra.",
+            "ro": "Plimbați-vă în jurul exteriorului acestui impresionant conac istoric ce emană o aură de trecut nobil, fiind totuși atenți la semnele de proprietate privată în timp ce îi admirați fațada.",
+            "en": "Walk around the exterior of this impressive historic manor which exudes an aura of noble past, though be mindful of private property signs while admiring its grand facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle de Saint Tugen",
+            "hu": "Chapelle de Saint Tugen",
+            "ro": "Chapelle de Saint Tugen",
+            "en": "Chapelle de Saint Tugen"
+          },
+          "coords": [
+            -4.592664,
+            48.022045
+          ],
+          "category": "landmark",
+          "arrive_at": "15:46",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das aufwendige Portal und die historischen Reliquien dieses ikonischen bretonischen Wahrzeichens, das Sie am besten am frühen Nachmittag besuchen sollten.",
+            "hu": "Csodálja meg ennek az ikonikus breton nevezetességnek a kidolgozott portálját és történelmi ereklyéit; érdemes kora délután érkezni, hogy a legjobb belső fényeket élvezhesse.",
+            "ro": "Minunați-vă de portalul elaborat și de relicvele istorice găzduite în acest punct de reper iconic breton, încercând să vizitați la începutul după-amiezii pentru cea mai bună lumină.",
+            "en": "Marvel at the elaborate portal and historical relics housed within this iconic Breton landmark, aiming to visit during early afternoon to catch the best interior lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Dunes du Trez Goarem",
+            "hu": "Dunes du Trez Goarem",
+            "ro": "Dunes du Trez Goarem",
+            "en": "Dunes du Trez Goarem"
+          },
+          "coords": [
+            -4.59497,
+            48.012717
+          ],
+          "category": "recreational",
+          "arrive_at": "16:13",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch dieses geschützte Küstenökosystem mit atemberaubendem Atlantikblick und bleiben Sie unbedingt auf markierten Wegen, um die empfindliche Flora zu schützen.",
+            "hu": "Sétáljon végig ezen a védett tengerparti ökoszisztémán, amely lélegzetelállító kilátást nyújt az Atlanti-óceánra, és szigorúan maradjon a kijelölt utakon a dűnék védelme érdekében.",
+            "ro": "Plimbați-vă prin acest ecosistem de coastă protejat, care oferă vederi uluitoare la Atlantic, și rămâneți strict pe potecile marcate pentru a conserva flora fragilă a dunelor.",
+            "en": "Stroll through this protected coastal ecosystem offering breathtaking Atlantic views, and stay strictly on marked paths to preserve the fragile local dune vegetation."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre malerische Fahrt beginnt an der abgelegenen Chapelle Saint-André im Nordwesten, bevor Sie zum weitläufigen Sand der Plage de Kerloc'h für einen Spaziergang hinunterfahren.\n\nGegen Mittag verbinden Sie bequem ländliche Sehenswürdigkeiten und halten am historischen Lavoir, der zentralen Église Saint-Primel und dem mysteriösen Dolmen An Arc'hig.\n\nIhre Nachmittagsfahrt führt nach Norden zur friedlichen Chapelle Saint-Chrysanthe und zum grandiosen Manoir de Lézurec, wo Sie die typische bretonische Architektur genießen.\n\nGegen Abend fahren Sie zur berühmten Chapelle de Saint Tugen, bevor Sie Ihren letzten Halt an den Dunes du Trez Goarem einlegen, um die Dämmerung über dem Atlantik zu beobachten.",
+        "hu": "A festői autózás az északnyugati, félreeső Chapelle Saint-André-nél kezdődik, mielőtt leereszkedne a Plage de Kerloc'h homokos partjára egy frissítő reggeli sétára.\n\nDélben könnyedén összekapcsolhatja a vidéki nevezetességeket: megáll a történelmi Lavoirnál, a központi Église Saint-Primelnél és a titokzatos Dolmen An Arc'hignál egy rövid út során.\n\nA délutáni vezetés északra visz a békés Chapelle Saint-Chrysanthe és a grandiózus Manoir de Lézurec felé, ahol magába szívhatja a hamisítatlan breton építészet szépségeit.\n\nAz este közeledtével utazzon el az ikonikus Chapelle de Saint Tugen-hez, mielőtt utolsó megállóként a Dunes du Trez Goarem dűnéinél gyönyörködne az Atlanti-óceán felett leszálló alkonyatban.",
+        "ro": "Drumul dumneavoastră pitoresc începe la îndepărtata Capelă Saint-André în nord-vest, înainte de a coborî spre nisipurile întinse de la Plage de Kerloc'h pentru o plimbare.\n\nÎn jurul prânzului, veți conecta ușor reperele rurale, oprind la istoricul Lavoir, Biserica centrală Saint-Primel și misteriosul Dolmen An Arc'hig într-un timp foarte scurt.\n\nCondusul de după-amiază se îndreaptă spre nord, la pașnica Capelă Saint-Chrysanthe și grandiosul Conac Lézurec, absorbind arhitectura prin excelență bretonă.\n\nOdată cu lăsarea serii, conduceți spre faimoasa Capelă Saint Tugen înainte de ultima oprire la Dunele Trez Goarem pentru a privi amurgul peste valurile sălbatice ale Atlanticului.",
+        "en": "Your scenic drive starts at the remote Chapelle Saint-André in the northwest before cruising down to the sprawling sands of Plage de Kerloc'h for a refreshing morning walk.\n\nAround midday, you will easily connect rural landmarks, stopping at the historic Lavoir, the central Église Saint-Primel, and the mysterious Dolmen An Arc'hig all within a short drive.\n\nYour afternoon drive heads north to the peaceful Chapelle Saint-Chrysanthe and the grandiose Manoir de Lézurec, soaking in the quintessential Breton architecture.\n\nAs evening approaches, drive to the iconic Chapelle de Saint Tugen before making your final stop at the Dunes du Trez Goarem to watch the dusk settle over the wild Atlantic waves."
+      }
+    }
+  }
+}

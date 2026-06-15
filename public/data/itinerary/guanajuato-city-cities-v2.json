@@ -1,0 +1,474 @@
+{
+  "city_id": "guanajuato-city-cities-v2",
+  "anchor": {
+    "name": "Guanajuato",
+    "coords": [
+      -101.2591,
+      21.019
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:14",
+      "total_km": 1.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo de mineralogía",
+            "hu": "Museo de mineralogía",
+            "ro": "Museo de mineralogía",
+            "en": "Museo de mineralogía"
+          },
+          "coords": [
+            -101.260966,
+            21.027229
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die riesige Sammlung seltener geologischer Exemplare in einem eleganten historischen Gebäude, aber bringen Sie Bargeld mit, da Kartenzahlungen oft nicht möglich sind.",
+            "hu": "Csodálja meg a ritka geológiai példányok hatalmas gyűjteményét egy elegáns történelmi épületben, de hozzon készpénzt, mivel a kártyás fizetés gyakran nem elérhető.",
+            "ro": "Admirați vasta colecție de specimene geologice rare adăpostite într-o clădire istorică elegantă, dar aduceți numerar, deoarece plățile cu cardul sunt adesea indisponibile.",
+            "en": "Marvel at the vast collection of rare geological specimens housed in an elegant historic building, but bring cash as card payments are often unavailable."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Acuatico",
+            "hu": "Centro Acuatico",
+            "ro": "Centro Acuatico",
+            "en": "Centro Acuatico"
+          },
+          "coords": [
+            -101.255825,
+            21.029506
+          ],
+          "category": "landmark",
+          "arrive_at": "10:59",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Sehen Sie sich dieses moderne lokale Wahrzeichen an, wo sich die Gemeinde zum Wassersport trifft, und packen Sie Badesachen für eine erfrischende Pause ein.",
+            "hu": "Tekintse meg ezt a modern helyi nevezetességet, ahol a közösség vízi sportokra gyűlik össze, és hozzon fürdőruhát egy frissítő csobbanáshoz.",
+            "ro": "Vizitați acest reper local modern unde comunitatea se adună pentru sporturi acvatice, oferind o pauză revigorantă dacă aduceți un costum de baie.",
+            "en": "Check out this modern local landmark where the community gathers for aquatic sports, providing a refreshing break if you pack a swimsuit for a quick dip."
+          }
+        },
+        {
+          "name": {
+            "de": "Mina el Nopal",
+            "hu": "Mina el Nopal",
+            "ro": "Mina el Nopal",
+            "en": "Mina el Nopal"
+          },
+          "coords": [
+            -101.259206,
+            21.032538
+          ],
+          "category": "museum",
+          "arrive_at": "11:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Tiefen dieser authentischen Silbermine bei einer Führung, um das reiche Erbe der Stadt zu verstehen, und tragen Sie eine Jacke, da es drinnen kühl wird.",
+            "hu": "Fedezze fel ennek az autentikus ezüstbányának a mélyét egy vezetett földalatti túra során, és viseljen kabátot, mert bent hűvös van.",
+            "ro": "Explorați adâncurile acestei mine autentice de argint cu un tur ghidat pentru a înțelege patrimoniul orașului și purtați o jachetă deoarece înăuntru este frig.",
+            "en": "Explore the depths of this authentic silver mine with a guided underground tour to understand the city's rich heritage, and wear a jacket because it gets chilly inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Hacienda del Cochero",
+            "hu": "Hacienda del Cochero",
+            "ro": "Hacienda del Cochero",
+            "en": "Hacienda del Cochero"
+          },
+          "coords": [
+            -101.255678,
+            21.036452
+          ],
+          "category": "museum",
+          "arrive_at": "13:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende makabre Geschichte dieses historischen Anwesens mit besonderen kolonialen Artefakten, aber kommen Sie früh, um große Gruppen zu meiden.",
+            "hu": "Fedezze fel e történelmi birtok lenyűgöző makabrikus történetét és gyarmati tárgyait, bár érdemes korán érkezni a nagyobb turistacsoportok elkerülése végett.",
+            "ro": "Descoperiți istoria macabră intrigantă a acestui conac istoric care expune artefacte coloniale deosebite, deși este bine să sosiți devreme pentru a evita grupurile mari.",
+            "en": "Discover the intriguing macabre history of this historic estate showcasing peculiar colonial artifacts, though it is best to arrive early to avoid the largest tour groups."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de los Lamentos",
+            "hu": "Casa de los Lamentos",
+            "ro": "Casa de los Lamentos",
+            "en": "Casa de los Lamentos"
+          },
+          "coords": [
+            -101.256119,
+            21.037995
+          ],
+          "category": "museum",
+          "arrive_at": "15:04",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die gruseligen lokalen Legenden und dunklen historischen Geheimnisse dieser Mauern, aber stellen Sie sich auf steile und schmale Treppen ein.",
+            "hu": "Merüljön el a falak között megbúvó hátborzongató helyi legendákban és sötét történelmi titkokban, de készüljön fel a kiállítás meredek és szűk lépcsőire.",
+            "ro": "Aprofundați-vă în legendele locale înfiorătoare și secretele istorice întunecate ascunse aici, dar fiți pregătiți pentru scări abrupte și înguste prin expoziție.",
+            "en": "Delve into the chilling local legends and dark historical secrets hidden within these walls, but be prepared for steep and narrow staircases throughout the exhibit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein gemütlicher Spaziergang durch die Außenbezirke, der am Mineralienmuseum beginnt. Am Mittag erkunden Sie die beeindruckende Mina el Nopal. Der Nachmittag ist den faszinierenden, düsteren Legenden in der Casa de los Lamentos gewidmet. Der Abend endet nach einem Tag voller historischer Eindrücke.",
+        "hu": "Egy kellemes séta a külvárosban, amely az ásványmúzeumból indul. Délben felfedezi a lenyűgöző Mina el Nopal bányát. A délután a Casa de los Lamentos sötét legendáinak van szentelve. Az este egy történelmi benyomásokkal teli nap után ér véget.",
+        "ro": "O plimbare plăcută prin periferie, începând de la muzeul de minerale. La prânz, explorați impresionanta mină El Nopal. După-amiaza este dedicată legendelor întunecate de la Casa de los Lamentos. Seara se încheie după o zi plină de impresii istorice.",
+        "en": "A pleasant walk through the outskirts, starting at the mineral museum. At midday, you will explore the impressive Mina el Nopal. The afternoon is dedicated to the fascinating, dark legends at Casa de los Lamentos. The evening ends after a day full of historical impressions."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:37",
+      "total_km": 2.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo de mineralogía",
+            "hu": "Museo de mineralogía",
+            "ro": "Museo de mineralogía",
+            "en": "Museo de mineralogía"
+          },
+          "coords": [
+            -101.260966,
+            21.027229
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die riesige Sammlung seltener geologischer Exemplare in einem eleganten historischen Gebäude, aber bringen Sie Bargeld mit, da Kartenzahlungen oft nicht möglich sind.",
+            "hu": "Csodálja meg a ritka geológiai példányok hatalmas gyűjteményét egy elegáns történelmi épületben, de hozzon készpénzt, mivel a kártyás fizetés gyakran nem elérhető.",
+            "ro": "Admirați vasta colecție de specimene geologice rare adăpostite într-o clădire istorică elegantă, dar aduceți numerar, deoarece plățile cu cardul sunt adesea indisponibile.",
+            "en": "Marvel at the vast collection of rare geological specimens housed in an elegant historic building, but bring cash as card payments are often unavailable."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Acuatico",
+            "hu": "Centro Acuatico",
+            "ro": "Centro Acuatico",
+            "en": "Centro Acuatico"
+          },
+          "coords": [
+            -101.255825,
+            21.029506
+          ],
+          "category": "landmark",
+          "arrive_at": "10:53",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Sehen Sie sich dieses moderne lokale Wahrzeichen an, wo sich die Gemeinde zum Wassersport trifft, und packen Sie Badesachen für eine erfrischende Pause ein.",
+            "hu": "Tekintse meg ezt a modern helyi nevezetességet, ahol a közösség vízi sportokra gyűlik össze, és hozzon fürdőruhát egy frissítő csobbanáshoz.",
+            "ro": "Vizitați acest reper local modern unde comunitatea se adună pentru sporturi acvatice, oferind o pauză revigorantă dacă aduceți un costum de baie.",
+            "en": "Check out this modern local landmark where the community gathers for aquatic sports, providing a refreshing break if you pack a swimsuit for a quick dip."
+          }
+        },
+        {
+          "name": {
+            "de": "Mina el Nopal",
+            "hu": "Mina el Nopal",
+            "ro": "Mina el Nopal",
+            "en": "Mina el Nopal"
+          },
+          "coords": [
+            -101.259206,
+            21.032538
+          ],
+          "category": "museum",
+          "arrive_at": "11:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Tiefen dieser authentischen Silbermine bei einer Führung, um das reiche Erbe der Stadt zu verstehen, und tragen Sie eine Jacke, da es drinnen kühl wird.",
+            "hu": "Fedezze fel ennek az autentikus ezüstbányának a mélyét egy vezetett földalatti túra során, és viseljen kabátot, mert bent hűvös van.",
+            "ro": "Explorați adâncurile acestei mine autentice de argint cu un tur ghidat pentru a înțelege patrimoniul orașului și purtați o jachetă deoarece înăuntru este frig.",
+            "en": "Explore the depths of this authentic silver mine with a guided underground tour to understand the city's rich heritage, and wear a jacket because it gets chilly inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Hacienda del Cochero",
+            "hu": "Hacienda del Cochero",
+            "ro": "Hacienda del Cochero",
+            "en": "Hacienda del Cochero"
+          },
+          "coords": [
+            -101.255678,
+            21.036452
+          ],
+          "category": "museum",
+          "arrive_at": "13:04",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende makabre Geschichte dieses historischen Anwesens mit besonderen kolonialen Artefakten, aber kommen Sie früh, um große Gruppen zu meiden.",
+            "hu": "Fedezze fel e történelmi birtok lenyűgöző makabrikus történetét és gyarmati tárgyait, bár érdemes korán érkezni a nagyobb turistacsoportok elkerülése végett.",
+            "ro": "Descoperiți istoria macabră intrigantă a acestui conac istoric care expune artefacte coloniale deosebite, deși este bine să sosiți devreme pentru a evita grupurile mari.",
+            "en": "Discover the intriguing macabre history of this historic estate showcasing peculiar colonial artifacts, though it is best to arrive early to avoid the largest tour groups."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de los Lamentos",
+            "hu": "Casa de los Lamentos",
+            "ro": "Casa de los Lamentos",
+            "en": "Casa de los Lamentos"
+          },
+          "coords": [
+            -101.256119,
+            21.037995
+          ],
+          "category": "museum",
+          "arrive_at": "14:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die gruseligen lokalen Legenden und dunklen historischen Geheimnisse dieser Mauern, aber stellen Sie sich auf steile und schmale Treppen ein.",
+            "hu": "Merüljön el a falak között megbúvó hátborzongató helyi legendákban és sötét történelmi titkokban, de készüljön fel a kiállítás meredek és szűk lépcsőire.",
+            "ro": "Aprofundați-vă în legendele locale înfiorătoare și secretele istorice întunecate ascunse aici, dar fiți pregătiți pentru scări abrupte și înguste prin expoziție.",
+            "en": "Delve into the chilling local legends and dark historical secrets hidden within these walls, but be prepared for steep and narrow staircases throughout the exhibit."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de la Inquisición",
+            "hu": "Museo de la Inquisición",
+            "ro": "Museo de la Inquisición",
+            "en": "Museo de la Inquisición"
+          },
+          "coords": [
+            -101.256777,
+            21.041132
+          ],
+          "category": "museum",
+          "arrive_at": "16:27",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Sehen Sie sich eine ernüchternde Sammlung mittelalterlicher Folterinstrumente an, obwohl sensible Besucher vielleicht schnell durch die drastischen Ausstellungen gehen möchten.",
+            "hu": "Tekintsen meg egy elgondolkodtató gyűjteményt a középkori kínzóeszközökből, bár az érzékenyebb látogatók valószínűleg gyorsan át szeretnének haladni a grafikus kijelzőkön.",
+            "ro": "Vedeți o colecție serioasă de instrumente de tortură medievale, deși vizitatorii sensibili ar putea dori să treacă rapid prin expozițiile destul de grafice.",
+            "en": "View a sobering and intense collection of medieval torture instruments detailing a dark era, though sensitive visitors may want to breeze through the graphic displays."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie vom Mineralienmuseum los und genießen Sie die leichte Brise. Mittags tauchen Sie in der Mina el Nopal tief in die Bergbaukultur ein. Nachmittags fahren Sie zur Hacienda del Cochero und zum Museo de la Inquisición, wo dunkle Geschichten warten. Beenden Sie die Tour nach einem faszinierenden Tag.",
+        "hu": "Kerékpározzon el az ásványmúzeumból, és élvezze a lágy szellőt. Délben merüljön el a bányászati kultúrában a Mina el Nopal bányában. Délután tekerjen el a Hacienda del Cochero és az Inkvizíció Múzeumához. Fejezze be a túrát egy lenyűgöző és történelmileg gazdag nap után.",
+        "ro": "Pedalați de la muzeul de minerale și bucurați-vă de briza ușoară. La prânz, aprofundați cultura minieră la Mina el Nopal. După-amiaza, mergeți la Hacienda del Cochero și la Muzeul Inchiziției pentru povești întunecate. Încheiați turul după o zi fascinantă plină de istorie.",
+        "en": "Cycle from the mineral museum and enjoy the gentle breeze. At midday, dive deep into the mining culture at Mina el Nopal. In the afternoon, ride to Hacienda del Cochero and the Inquisition Museum where dark tales await. End the tour after a fascinating and historically rich day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "21:11",
+      "total_km": 6.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo de mineralogía",
+            "hu": "Museo de mineralogía",
+            "ro": "Museo de mineralogía",
+            "en": "Museo de mineralogía"
+          },
+          "coords": [
+            -101.260966,
+            21.027229
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die riesige Sammlung seltener geologischer Exemplare in einem eleganten historischen Gebäude, aber bringen Sie Bargeld mit, da Kartenzahlungen oft nicht möglich sind.",
+            "hu": "Csodálja meg a ritka geológiai példányok hatalmas gyűjteményét egy elegáns történelmi épületben, de hozzon készpénzt, mivel a kártyás fizetés gyakran nem elérhető.",
+            "ro": "Admirați vasta colecție de specimene geologice rare adăpostite într-o clădire istorică elegantă, dar aduceți numerar, deoarece plățile cu cardul sunt adesea indisponibile.",
+            "en": "Marvel at the vast collection of rare geological specimens housed in an elegant historic building, but bring cash as card payments are often unavailable."
+          }
+        },
+        {
+          "name": {
+            "de": "Mina el Nopal",
+            "hu": "Mina el Nopal",
+            "ro": "Mina el Nopal",
+            "en": "Mina el Nopal"
+          },
+          "coords": [
+            -101.259206,
+            21.032538
+          ],
+          "category": "museum",
+          "arrive_at": "10:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Tiefen dieser authentischen Silbermine bei einer Führung, um das reiche Erbe der Stadt zu verstehen, und tragen Sie eine Jacke, da es drinnen kühl wird.",
+            "hu": "Fedezze fel ennek az autentikus ezüstbányának a mélyét egy vezetett földalatti túra során, és viseljen kabátot, mert bent hűvös van.",
+            "ro": "Explorați adâncurile acestei mine autentice de argint cu un tur ghidat pentru a înțelege patrimoniul orașului și purtați o jachetă deoarece înăuntru este frig.",
+            "en": "Explore the depths of this authentic silver mine with a guided underground tour to understand the city's rich heritage, and wear a jacket because it gets chilly inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Hacienda del Cochero",
+            "hu": "Hacienda del Cochero",
+            "ro": "Hacienda del Cochero",
+            "en": "Hacienda del Cochero"
+          },
+          "coords": [
+            -101.255678,
+            21.036452
+          ],
+          "category": "museum",
+          "arrive_at": "12:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende makabre Geschichte dieses historischen Anwesens mit besonderen kolonialen Artefakten, aber kommen Sie früh, um große Gruppen zu meiden.",
+            "hu": "Fedezze fel e történelmi birtok lenyűgöző makabrikus történetét és gyarmati tárgyait, bár érdemes korán érkezni a nagyobb turistacsoportok elkerülése végett.",
+            "ro": "Descoperiți istoria macabră intrigantă a acestui conac istoric care expune artefacte coloniale deosebite, deși este bine să sosiți devreme pentru a evita grupurile mari.",
+            "en": "Discover the intriguing macabre history of this historic estate showcasing peculiar colonial artifacts, though it is best to arrive early to avoid the largest tour groups."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de los Lamentos",
+            "hu": "Casa de los Lamentos",
+            "ro": "Casa de los Lamentos",
+            "en": "Casa de los Lamentos"
+          },
+          "coords": [
+            -101.256119,
+            21.037995
+          ],
+          "category": "museum",
+          "arrive_at": "14:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die gruseligen lokalen Legenden und dunklen historischen Geheimnisse dieser Mauern, aber stellen Sie sich auf steile und schmale Treppen ein.",
+            "hu": "Merüljön el a falak között megbúvó hátborzongató helyi legendákban és sötét történelmi titkokban, de készüljön fel a kiállítás meredek és szűk lépcsőire.",
+            "ro": "Aprofundați-vă în legendele locale înfiorătoare și secretele istorice întunecate ascunse aici, dar fiți pregătiți pentru scări abrupte și înguste prin expoziție.",
+            "en": "Delve into the chilling local legends and dark historical secrets hidden within these walls, but be prepared for steep and narrow staircases throughout the exhibit."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de la Inquisición",
+            "hu": "Museo de la Inquisición",
+            "ro": "Museo de la Inquisición",
+            "en": "Museo de la Inquisición"
+          },
+          "coords": [
+            -101.256777,
+            21.041132
+          ],
+          "category": "museum",
+          "arrive_at": "15:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Sehen Sie sich eine ernüchternde Sammlung mittelalterlicher Folterinstrumente an, obwohl sensible Besucher vielleicht schnell durch die drastischen Ausstellungen gehen möchten.",
+            "hu": "Tekintsen meg egy elgondolkodtató gyűjteményt a középkori kínzóeszközökből, bár az érzékenyebb látogatók valószínűleg gyorsan át szeretnének haladni a grafikus kijelzőkön.",
+            "ro": "Vedeți o colecție serioasă de instrumente de tortură medievale, deși vizitatorii sensibili ar putea dori să treacă rapid prin expozițiile destul de grafice.",
+            "en": "View a sobering and intense collection of medieval torture instruments detailing a dark era, though sensitive visitors may want to breeze through the graphic displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Boca Mina San Román",
+            "hu": "Boca Mina San Román",
+            "ro": "Boca Mina San Román",
+            "en": "Boca Mina San Román"
+          },
+          "coords": [
+            -101.257961,
+            21.043502
+          ],
+          "category": "museum",
+          "arrive_at": "17:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Treten Sie in einen weiteren wunderschön erhaltenen Minenschacht ein, der das anstrengende Leben der Bergleute beleuchtet, und tragen Sie festes Schuhwerk.",
+            "hu": "Lépjen be egy másik gyönyörűen megőrzött bányaaknába, amely bemutatja a gyarmati bányászok kimerítő életét, és viseljen erős cipőt az egyenetlen talaj miatt.",
+            "ro": "Pășiți într-un alt puț de mină frumos conservat care evidențiază viața grea a minerilor și asigurați-vă că purtați încălțăminte robustă pentru podelele denivelate.",
+            "en": "Step into another beautifully preserved mine shaft that highlights the grueling life of colonial miners, and be sure to wear sturdy shoes for the uneven dirt floors."
+          }
+        },
+        {
+          "name": {
+            "de": "Reserva de Conservación Cuenca de la Esperanza",
+            "hu": "Reserva de Conservación Cuenca de la Esperanza",
+            "ro": "Reserva de Conservación Cuenca de la Esperanza",
+            "en": "Reserva de Conservación Cuenca de la Esperanza"
+          },
+          "coords": [
+            -101.238387,
+            21.072155
+          ],
+          "category": "natural",
+          "arrive_at": "19:26",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Entfliehen Sie dem Stadtzentrum, um durch unberührte geschützte Landschaften zu wandern, denken Sie nur daran, ausreichend Trinkwasser und Sonnenschutz mitzunehmen.",
+            "hu": "Meneküljön el a belvárosból, és túrázzon az érintetlen védett tájakon a változatos helyi növényvilággal, de ne felejtsen el sok ivóvizet és napvédőt vinni.",
+            "ro": "Scăpați de centrul orașului pentru a face drumeții prin peisaje protejate virgine cu floră locală diversă, doar amintiți-vă să luați multă apă și protecție solară.",
+            "en": "Escape the city center to hike through pristine protected landscapes with diverse local flora, just remember to carry plenty of drinking water and sun protection."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie bequem von Museum zu Museum, beginnend mit historischen Mineralien. Mittags besuchen Sie alte Minenschächte und lernen die raue Vergangenheit kennen. Nachmittags erwarten Sie die düsteren Ausstellungen der Inquisition. Beenden Sie den Tag mit einer erholsamen Fahrt zum ruhigen Naturschutzgebiet.",
+        "hu": "Vezessen kényelmesen múzeumról múzeumra, a történelmi ásványokkal kezdve. Délben látogasson el a régi bányaaknákhoz. Délután az inkvizíció sötét kiállításai várják, majd a napot egy pihentető autózással fejezheti be a csendes természetvédelmi területre a hegyekben.",
+        "ro": "Conduceți confortabil de la un muzeu la altul, începând cu minerale istorice. La prânz, vizitați vechile puțuri de mină. După-amiaza vă așteaptă expozițiile întunecate ale Inchiziției. Încheiați ziua cu o plimbare relaxantă cu mașina spre rezervația naturală liniștită.",
+        "en": "Drive comfortably from museum to museum, starting with historic minerals. At midday, visit old mine shafts and learn about the harsh past. In the afternoon, the dark exhibits of the Inquisition await. End the day with a relaxing drive to the peaceful nature reserve in the hills."
+      }
+    }
+  }
+}

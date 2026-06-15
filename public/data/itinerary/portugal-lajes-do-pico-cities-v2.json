@@ -1,0 +1,543 @@
+{
+  "city_id": "portugal-lajes-do-pico-cities-v2",
+  "anchor": {
+    "name": "Lajes do Pico",
+    "coords": [
+      -28.25222,
+      38.39445
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 1.55,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ermida de São Pedro",
+            "hu": "Ermida de São Pedro",
+            "ro": "Ermida de São Pedro",
+            "en": "Ermida de São Pedro"
+          },
+          "coords": [
+            -28.250502,
+            38.392415
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese charmante Küstenkapelle als Symbol des maritimen Glaubens und betrachten Sie die verwitterten Steindetails, bevor Sie weitergehen.",
+            "hu": "Csodálja meg ezt a bájos tengerparti kápolnát, a helyi tengerészek hitének szimbólumát, és figyelje meg az időjárás koptatta kőrészleteket a séta előtt.",
+            "ro": "Admirați această capelă de coastă fermecătoare, un simbol al credinței maritime, și examinați detaliile din piatră erodată înainte de a merge mai departe.",
+            "en": "Admire this charming coastal chapel, a symbol of local maritime faith, and look closely at the weathered stone details before heading to the nearby viewpoint."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradoure",
+            "hu": "Miradoure",
+            "ro": "Miradoure",
+            "en": "Miradoure"
+          },
+          "coords": [
+            -28.249433,
+            38.39265
+          ],
+          "category": "natural",
+          "arrive_at": "09:52",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Panoramablick auf die zerklüftete Küste von diesem Aussichtspunkt und halten Sie Ihre Kamera für die dramatische Kulisse bereit.",
+            "hu": "Élvezze a zord partvonalra nyíló széles panorámát erről a természetes kilátópontról, és tartsa készenlétben a fényképezőgépét a drámai óceáni háttér miatt.",
+            "ro": "Bucurați-vă de vederea panoramică asupra coastei stâncoase de la acest punct de belvedere, ținând camera pregătită pentru fundalul oceanic impresionant.",
+            "en": "Enjoy the sweeping panoramic views of the rugged coastline from this natural vantage point, keeping your camera ready for the dramatic oceanic backdrop."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja da Santíssima Trindade",
+            "hu": "Igreja da Santíssima Trindade",
+            "ro": "Igreja da Santíssima Trindade",
+            "en": "Igreja da Santíssima Trindade"
+          },
+          "coords": [
+            -28.251376,
+            38.393846
+          ],
+          "category": "religious",
+          "arrive_at": "10:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betreten Sie diese historische Kirche, um die azoreanische Architektur zu schätzen, und besuchen Sie sie morgens, um das beste Licht am Altar zu erleben.",
+            "hu": "Lépjen be ebbe a történelmi templomba, hogy megcsodálja az azori építészetet, és látogasson el a délelőtti órákban, hogy a legjobb fényben lássa az oltárt.",
+            "ro": "Intrați în această biserică istorică pentru a admira arhitectura azoreană și vizitați-o dimineața pentru a prinde cea mai bună lumină pe frumosul altar.",
+            "en": "Step into this historic church to appreciate its traditional Azorean architecture, and visit during morning hours to catch the best light on the beautiful altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Espaço Talassa - Observação de Cetáceos",
+            "hu": "Espaço Talassa - Observação de Cetáceos",
+            "ro": "Espaço Talassa - Observação de Cetáceos",
+            "en": "Espaço Talassa - Observação de Cetáceos"
+          },
+          "coords": [
+            -28.253763,
+            38.395754
+          ],
+          "category": "landmark",
+          "arrive_at": "11:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erfahren Sie an diesem Wahrzeichen mehr über die faszinierenden Wale und Delfine der Azoren, aber buchen Sie Ihren Ausflug unbedingt weit im Voraus.",
+            "hu": "Tudjon meg többet az Azori-szigetek lenyűgöző bálnáiról és delfinjeiről ezen a nevezetességen, de mindenképpen jó előre foglalja le a bálnaleső kirándulást.",
+            "ro": "Aflați despre balenele și delfinii fascinanți din Azore la acest obiectiv emblematic, dar asigurați-vă că rezervați excursia de observare cu mult timp înainte.",
+            "en": "Learn about the fascinating whales and dolphins of the Azores at this iconic landmark, but be sure to book your whale-watching excursion well in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja de Nossa Senhora da Conceição",
+            "hu": "Igreja de Nossa Senhora da Conceição",
+            "ro": "Igreja de Nossa Senhora da Conceição",
+            "en": "Igreja de Nossa Senhora da Conceição"
+          },
+          "coords": [
+            -28.253505,
+            38.39976
+          ],
+          "category": "religious",
+          "arrive_at": "12:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses Heiligtum der Unbefleckten Empfängnis und nehmen Sie sich einen Moment der stillen Reflexion im überraschend verzierten Innenraum.",
+            "hu": "Fedezze fel ezt a Szeplőtelen Fogantatásnak szentelt vallási szentélyt, és szánjon egy percet a csendes elmélkedésre a meglepően díszes belső térben.",
+            "ro": "Explorați acest sanctuar religios dedicat Maicii Domnului și luați-vă un moment de reflecție liniștită în interiorul surprinzător de bogat ornamentat.",
+            "en": "Explore this serene religious sanctuary dedicated to Our Lady of Conception, and take a moment of quiet reflection in the surprisingly ornate interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte de Santa Catarina",
+            "hu": "Forte de Santa Catarina",
+            "ro": "Forte de Santa Catarina",
+            "en": "Forte de Santa Catarina"
+          },
+          "coords": [
+            -28.25522,
+            38.401446
+          ],
+          "category": "fortress",
+          "arrive_at": "13:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der alten Mauern dieser Küstenfestung, um die Verteidigungsgeschichte von Pico zu verstehen, und tragen Sie unbedingt feste Schuhe.",
+            "hu": "Sétáljon végig a tengerparti erőd ősi falain, hogy megértse Pico védelmi történelmét, és viseljen masszív cipőt az egyenetlen macskaköves utakon.",
+            "ro": "Plimbați-vă de-a lungul zidurilor antice ale acestei fortărețe pentru a înțelege istoria apărării insulei și purtați încălțăminte solidă pentru drumurile pietruite.",
+            "en": "Walk along the ancient walls of this coastal fortress to understand Pico's defense history, and wear sturdy shoes for the uneven cobblestone pathways here."
+          }
+        },
+        {
+          "name": {
+            "de": "Arts and Marine Science Center",
+            "hu": "Arts and Marine Science Center",
+            "ro": "Arts and Marine Science Center",
+            "en": "Arts and Marine Science Center"
+          },
+          "coords": [
+            -28.255288,
+            38.403518
+          ],
+          "category": "museum",
+          "arrive_at": "14:40",
+          "stay_min": 130,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die reiche Walfanggeschichte und die maritimen Künste der Insel, und fragen Sie an der Rezeption nach den mehrsprachigen Führungen.",
+            "hu": "Merüljön el a sziget gazdag bálnavadászati történelmében és tengeri művészetében, és érdeklődjön a recepción a több nyelven elérhető vezetett túrákról.",
+            "ro": "Cufundați-vă în istoria vânătorii de balene și în artele maritime la acest centru, și întrebați la recepție despre tururile ghidate disponibile în mai multe limbi.",
+            "en": "Immerse yourself in the rich whaling history and contemporary maritime arts of the island, and check the reception for guided tours running in multiple languages."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie in der Nähe des Ozeans, erkunden Sie die charmante Kapelle São Pedro und genießen Sie die Aussicht am nahegelegenen Miradoure.\nMittag: Schlendern Sie durch Lajes do Pico, besuchen Sie die historische Dreifaltigkeitskirche und lernen Sie im Espaço Talassa etwas über Meeresleben.\nNachmittag: Bewundern Sie die verzierte Kirche Unserer Lieben Frau von der Unbefleckten Empfängnis und die Küstenfestung Santa Catarina.\nAbend: Beenden Sie Ihren Spaziergang im Arts and Marine Science Center und reflektieren Sie über das tiefe Walfangerbe der Azoren.",
+        "hu": "Reggel: Kezdjen az óceán közelében, fedezze fel a bájos São Pedro kápolnát, és élvezze a panorámát a közeli Miradoure kilátónál.\nDél: Sétáljon Lajes do Pico szívében, látogasson el a Szentháromság-templomba, és ismerkedjen meg a tengeri élettel az Espaço Talassában.\nDélután: Csodálja meg a Szeplőtelen Fogantatás templomát, majd lépjen a múltba a Santa Catarina tengerparti erődben.\nEste: Fejezze be sétáját a Művészeti és Tengerészeti Tudományos Központban, átgondolva az Azori-szigetek bálnavadászati örökségét.",
+        "ro": "Dimineața: Începeți lângă ocean explorând fermecătoarea capelă São Pedro și bucurându-vă de priveliștile de la Miradoure.\nAmiază: Plimbați-vă prin inima orașului, vizitând Biserica istorică a Trinității și aflând despre viața marină la Espaço Talassa.\nDupă-amiază: Admirați frumoasa Biserică a Maicii Domnului și pășiți în trecut la fortăreața de coastă Santa Catarina.\nSeara: Încheiați plimbarea la Centrul de Arte și Științe Marine, reflectând la moștenirea profundă a vânătorii de balene din Azore.",
+        "en": "Morning: Start near the ocean exploring the charming chapel of São Pedro and taking in the panoramic vistas at the nearby Miradoure.\nMidday: Wander through the heart of Lajes do Pico, visiting the historic Trinity Church and learning about local marine life at Espaço Talassa.\nAfternoon: Admire the beautifully adorned Church of Our Lady of Conception and step into the past at the coastal Fortress of Santa Catarina.\nEvening: Conclude your walk at the Arts and Marine Science Center, reflecting on the profound whaling heritage of the Azores."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:32",
+      "total_km": 4.15,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Igreja de Santo Isidro",
+            "hu": "Igreja de Santo Isidro",
+            "ro": "Igreja de Santo Isidro",
+            "en": "Igreja de Santo Isidro"
+          },
+          "coords": [
+            -28.228307,
+            38.388979
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese friedliche Pfarrkirche, die die Gemeinde verankert, und respektieren Sie die ruhige Atmosphäre, falls Sie während eines Gottesdienstes eintreffen.",
+            "hu": "Látogasson el ebbe a békés plébániatemplomba, amely a helyi közösség központja, és tartsa tiszteletben a csendet, ha egy hagyományos istentisztelet idején érkezik.",
+            "ro": "Vizitați această biserică parohială liniștită care unește comunitatea locală și respectați atmosfera tăcută dacă se întâmplă să ajungeți în timpul unei slujbe.",
+            "en": "Visit this peaceful parish church that anchors the local community, and respect the quiet atmosphere if you happen to arrive during a traditional religious service."
+          }
+        },
+        {
+          "name": {
+            "de": "Vigia da Queimada",
+            "hu": "Vigia da Queimada",
+            "ro": "Vigia da Queimada",
+            "en": "Vigia da Queimada"
+          },
+          "coords": [
+            -28.240235,
+            38.384917
+          ],
+          "category": "landmark",
+          "arrive_at": "09:56",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen historischen Walfang-Aussichtsturm mit unglaublichem Meerblick und bringen Sie ein Fernglas mit, um das Meeresleben optimal zu beobachten.",
+            "hu": "Fedezze fel ezt a történelmi bálnavadász-kilátót lenyűgöző óceáni kilátással, és hozzon magával távcsövet, hogy megfigyelhesse a tengeri élővilágot a távolban.",
+            "ro": "Descoperiți acest turn istoric de observare a balenelor cu vederi incredibile și aduceți binoclul pentru a zări viața marină, la fel cum o făceau vechii observatori.",
+            "en": "Discover this historic whaling lookout tower with incredible ocean vistas, and bring binoculars to spot marine life just like the spotters of the past did."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelete",
+            "hu": "Castelete",
+            "ro": "Castelete",
+            "en": "Castelete"
+          },
+          "coords": [
+            -28.251963,
+            38.386991
+          ],
+          "category": "natural",
+          "arrive_at": "10:27",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem wunderschönen Küstenort mit Blick auf das vulkanische Gestein und seien Sie vorsichtig, da die Gischt die Steine rutschig machen kann.",
+            "hu": "Pihenjen ezen a gyönyörű tengerparti helyen, ahonnan drámai kilátás nyílik a vulkanikus sziklákra, és vigyázzon a peremeken a csúszós, nedves kövek miatt.",
+            "ro": "Relaxați-vă în acest loc de coastă cu vederi dramatice asupra rocilor vulcanice și aveți grijă la margini, deoarece stropii de mare pot face pietrele alunecoase.",
+            "en": "Relax at this beautiful coastal spot offering dramatic views of the volcanic rocks, and be careful near the edges as the sea spray can make the stones quite slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja da Santíssima Trindade",
+            "hu": "Igreja da Santíssima Trindade",
+            "ro": "Igreja da Santíssima Trindade",
+            "en": "Igreja da Santíssima Trindade"
+          },
+          "coords": [
+            -28.251376,
+            38.393846
+          ],
+          "category": "religious",
+          "arrive_at": "10:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Betreten Sie diese historische Kirche, um die azoreanische Architektur zu schätzen, und besuchen Sie sie morgens, um das beste Licht am Altar zu erleben.",
+            "hu": "Lépjen be ebbe a történelmi templomba, hogy megcsodálja az azori építészetet, és látogasson el a délelőtti órákban, hogy a legjobb fényben lássa az oltárt.",
+            "ro": "Intrați în această biserică istorică pentru a admira arhitectura azoreană și vizitați-o dimineața pentru a prinde cea mai bună lumină pe frumosul altar.",
+            "en": "Step into this historic church to appreciate its traditional Azorean architecture, and visit during morning hours to catch the best light on the beautiful altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Espaço Talassa - Observação de Cetáceos",
+            "hu": "Espaço Talassa - Observação de Cetáceos",
+            "ro": "Espaço Talassa - Observação de Cetáceos",
+            "en": "Espaço Talassa - Observação de Cetáceos"
+          },
+          "coords": [
+            -28.253763,
+            38.395754
+          ],
+          "category": "landmark",
+          "arrive_at": "11:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erfahren Sie an diesem Wahrzeichen mehr über die faszinierenden Wale und Delfine der Azoren, aber buchen Sie Ihren Ausflug unbedingt weit im Voraus.",
+            "hu": "Tudjon meg többet az Azori-szigetek lenyűgöző bálnáiról és delfinjeiről ezen a nevezetességen, de mindenképpen jó előre foglalja le a bálnaleső kirándulást.",
+            "ro": "Aflați despre balenele și delfinii fascinanți din Azore la acest obiectiv emblematic, dar asigurați-vă că rezervați excursia de observare cu mult timp înainte.",
+            "en": "Learn about the fascinating whales and dolphins of the Azores at this iconic landmark, but be sure to book your whale-watching excursion well in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte de Santa Catarina",
+            "hu": "Forte de Santa Catarina",
+            "ro": "Forte de Santa Catarina",
+            "en": "Forte de Santa Catarina"
+          },
+          "coords": [
+            -28.25522,
+            38.401446
+          ],
+          "category": "fortress",
+          "arrive_at": "13:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der alten Mauern dieser Küstenfestung, um die Verteidigungsgeschichte von Pico zu verstehen, und tragen Sie unbedingt feste Schuhe.",
+            "hu": "Sétáljon végig a tengerparti erőd ősi falain, hogy megértse Pico védelmi történelmét, és viseljen masszív cipőt az egyenetlen macskaköves utakon.",
+            "ro": "Plimbați-vă de-a lungul zidurilor antice ale acestei fortărețe pentru a înțelege istoria apărării insulei și purtați încălțăminte solidă pentru drumurile pietruite.",
+            "en": "Walk along the ancient walls of this coastal fortress to understand Pico's defense history, and wear sturdy shoes for the uneven cobblestone pathways here."
+          }
+        },
+        {
+          "name": {
+            "de": "Arts and Marine Science Center",
+            "hu": "Arts and Marine Science Center",
+            "ro": "Arts and Marine Science Center",
+            "en": "Arts and Marine Science Center"
+          },
+          "coords": [
+            -28.255288,
+            38.403518
+          ],
+          "category": "museum",
+          "arrive_at": "14:22",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die reiche Walfanggeschichte und die maritimen Künste der Insel, und fragen Sie an der Rezeption nach den mehrsprachigen Führungen.",
+            "hu": "Merüljön el a sziget gazdag bálnavadászati történelmében és tengeri művészetében, és érdeklődjön a recepción a több nyelven elérhető vezetett túrákról.",
+            "ro": "Cufundați-vă în istoria vânătorii de balene și în artele maritime la acest centru, și întrebați la recepție despre tururile ghidate disponibile în mai multe limbi.",
+            "en": "Immerse yourself in the rich whaling history and contemporary maritime arts of the island, and check the reception for guided tours running in multiple languages."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Radeln Sie zur friedlichen Kirche Santo Isidro, bevor Sie an der Küste den historischen Walfang-Aussichtsturm Vigia da Queimada entdecken.\nMittag: Genießen Sie die vulkanischen Felsen am Castelete, fahren Sie dann ins Zentrum zur Dreifaltigkeitskirche und zum Espaço Talassa.\nNachmittag: Fahren Sie weiter entlang der Uferpromenade zur alten Küstenverteidigung am Forte de Santa Catarina.\nAbend: Beenden Sie Ihre Fahrt im Arts and Marine Science Center und nehmen Sie sich Zeit, die reichen Traditionen der azoreanischen Gemeinde aufzunehmen.",
+        "hu": "Reggel: Tekerjen el a békés Santo Isidro templomhoz, majd induljon a partra, hogy felfedezze a Vigia da Queimada történelmi kilátót.\nDél: Élvezze a vulkanikus sziklákat a Castelete-nél, majd kerékpározzon a központba a Szentháromság-templomhoz és az Espaço Talassához.\nDélután: Folytassa útját a vízparton a Santa Catarina erőd régi parti védműveihez, miközben érzi a frissítő atlanti szellőt.\nEste: Fejezze be a tekerést a Művészeti és Tengerészeti Központban, időt szánva a helyi azori közösség gazdag hagyományainak megismerésére.",
+        "ro": "Dimineața: Pedalați spre pașnica Biserică Santo Isidro, apoi mergeți spre coastă pentru a descoperi turnul istoric de la Vigia da Queimada.\nAmiază: Bucurați-vă de rocile vulcanice de la Castelete, apoi mergeți spre centru pentru a vizita Biserica Trinității și Espaço Talassa.\nDupă-amiază: Continuați de-a lungul apei spre vechile apărări de coastă de la Forte de Santa Catarina, simțind briza oceanului.\nSeara: Terminați plimbarea la Centrul de Arte și Științe Marine, luându-vă timp pentru a absorbi tradițiile bogate ale comunității azorene.",
+        "en": "Morning: Pedal to the peaceful Santo Isidro Church before heading to the coast to discover the historic whaling lookout at Vigia da Queimada.\nMidday: Enjoy the dramatic volcanic rocks at Castelete, then cycle into the center to visit the majestic Trinity Church and Espaço Talassa.\nAfternoon: Continue along the waterfront to the old coastal defenses at Forte de Santa Catarina, feeling the refreshing Atlantic breeze.\nEvening: Finish your ride at the Arts and Marine Science Center, taking time to fully absorb the rich traditions of the local Azorean community."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:09",
+      "total_km": 5.05,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Vigia da Queimada",
+            "hu": "Vigia da Queimada",
+            "ro": "Vigia da Queimada",
+            "en": "Vigia da Queimada"
+          },
+          "coords": [
+            -28.240235,
+            38.384917
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen historischen Walfang-Aussichtsturm mit unglaublichem Meerblick und bringen Sie ein Fernglas mit, um das Meeresleben optimal zu beobachten.",
+            "hu": "Fedezze fel ezt a történelmi bálnavadász-kilátót lenyűgöző óceáni kilátással, és hozzon magával távcsövet, hogy megfigyelhesse a tengeri élővilágot a távolban.",
+            "ro": "Descoperiți acest turn istoric de observare a balenelor cu vederi incredibile și aduceți binoclul pentru a zări viața marină, la fel cum o făceau vechii observatori.",
+            "en": "Discover this historic whaling lookout tower with incredible ocean vistas, and bring binoculars to spot marine life just like the spotters of the past did."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelete",
+            "hu": "Castelete",
+            "ro": "Castelete",
+            "en": "Castelete"
+          },
+          "coords": [
+            -28.251963,
+            38.386991
+          ],
+          "category": "natural",
+          "arrive_at": "09:38",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem wunderschönen Küstenort mit Blick auf das vulkanische Gestein und seien Sie vorsichtig, da die Gischt die Steine rutschig machen kann.",
+            "hu": "Pihenjen ezen a gyönyörű tengerparti helyen, ahonnan drámai kilátás nyílik a vulkanikus sziklákra, és vigyázzon a peremeken a csúszós, nedves kövek miatt.",
+            "ro": "Relaxați-vă în acest loc de coastă cu vederi dramatice asupra rocilor vulcanice și aveți grijă la margini, deoarece stropii de mare pot face pietrele alunecoase.",
+            "en": "Relax at this beautiful coastal spot offering dramatic views of the volcanic rocks, and be careful near the edges as the sea spray can make the stones quite slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja da Santíssima Trindade",
+            "hu": "Igreja da Santíssima Trindade",
+            "ro": "Igreja da Santíssima Trindade",
+            "en": "Igreja da Santíssima Trindade"
+          },
+          "coords": [
+            -28.251376,
+            38.393846
+          ],
+          "category": "religious",
+          "arrive_at": "10:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Betreten Sie diese historische Kirche, um die azoreanische Architektur zu schätzen, und besuchen Sie sie morgens, um das beste Licht am Altar zu erleben.",
+            "hu": "Lépjen be ebbe a történelmi templomba, hogy megcsodálja az azori építészetet, és látogasson el a délelőtti órákban, hogy a legjobb fényben lássa az oltárt.",
+            "ro": "Intrați în această biserică istorică pentru a admira arhitectura azoreană și vizitați-o dimineața pentru a prinde cea mai bună lumină pe frumosul altar.",
+            "en": "Step into this historic church to appreciate its traditional Azorean architecture, and visit during morning hours to catch the best light on the beautiful altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Espaço Talassa - Observação de Cetáceos",
+            "hu": "Espaço Talassa - Observação de Cetáceos",
+            "ro": "Espaço Talassa - Observação de Cetáceos",
+            "en": "Espaço Talassa - Observação de Cetáceos"
+          },
+          "coords": [
+            -28.253763,
+            38.395754
+          ],
+          "category": "landmark",
+          "arrive_at": "10:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erfahren Sie an diesem Wahrzeichen mehr über die faszinierenden Wale und Delfine der Azoren, aber buchen Sie Ihren Ausflug unbedingt weit im Voraus.",
+            "hu": "Tudjon meg többet az Azori-szigetek lenyűgöző bálnáiról és delfinjeiről ezen a nevezetességen, de mindenképpen jó előre foglalja le a bálnaleső kirándulást.",
+            "ro": "Aflați despre balenele și delfinii fascinanți din Azore la acest obiectiv emblematic, dar asigurați-vă că rezervați excursia de observare cu mult timp înainte.",
+            "en": "Learn about the fascinating whales and dolphins of the Azores at this iconic landmark, but be sure to book your whale-watching excursion well in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte de Santa Catarina",
+            "hu": "Forte de Santa Catarina",
+            "ro": "Forte de Santa Catarina",
+            "en": "Forte de Santa Catarina"
+          },
+          "coords": [
+            -28.25522,
+            38.401446
+          ],
+          "category": "fortress",
+          "arrive_at": "12:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der alten Mauern dieser Küstenfestung, um die Verteidigungsgeschichte von Pico zu verstehen, und tragen Sie unbedingt feste Schuhe.",
+            "hu": "Sétáljon végig a tengerparti erőd ősi falain, hogy megértse Pico védelmi történelmét, és viseljen masszív cipőt az egyenetlen macskaköves utakon.",
+            "ro": "Plimbați-vă de-a lungul zidurilor antice ale acestei fortărețe pentru a înțelege istoria apărării insulei și purtați încălțăminte solidă pentru drumurile pietruite.",
+            "en": "Walk along the ancient walls of this coastal fortress to understand Pico's defense history, and wear sturdy shoes for the uneven cobblestone pathways here."
+          }
+        },
+        {
+          "name": {
+            "de": "Arts and Marine Science Center",
+            "hu": "Arts and Marine Science Center",
+            "ro": "Arts and Marine Science Center",
+            "en": "Arts and Marine Science Center"
+          },
+          "coords": [
+            -28.255288,
+            38.403518
+          ],
+          "category": "museum",
+          "arrive_at": "13:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die reiche Walfanggeschichte und die maritimen Künste der Insel, und fragen Sie an der Rezeption nach den mehrsprachigen Führungen.",
+            "hu": "Merüljön el a sziget gazdag bálnavadászati történelmében és tengeri művészetében, és érdeklődjön a recepción a több nyelven elérhető vezetett túrákról.",
+            "ro": "Cufundați-vă în istoria vânătorii de balene și în artele maritime la acest centru, și întrebați la recepție despre tururile ghidate disponibile în mai multe limbi.",
+            "en": "Immerse yourself in the rich whaling history and contemporary maritime arts of the island, and check the reception for guided tours running in multiple languages."
+          }
+        },
+        {
+          "name": {
+            "de": "Pico Geraldo",
+            "hu": "Pico Geraldo",
+            "ro": "Pico Geraldo",
+            "en": "Pico Geraldo"
+          },
+          "coords": [
+            -28.2345,
+            38.402344
+          ],
+          "category": "natural",
+          "arrive_at": "15:14",
+          "stay_min": 55,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise an diesem atemberaubenden Naturheiligtum mit weitem Blick über Lajes und planen Sie Ihren Besuch für den späten Nachmittag ein.",
+            "hu": "Zárja utazását ezen a lenyűgöző természeti csúcson, amely Lajesre néz, és tervezze látogatását a késő délutáni órákra, hogy megörökítse az aranyóra fényeit.",
+            "ro": "Încheiați călătoria pe acest vârf natural uimitor care oferă vederi spre Lajes și planificați-vă vizita pentru după-amiaza târziu pentru lumina orei de aur.",
+            "en": "End your journey at this stunning natural peak that offers sweeping views over Lajes, and plan your visit for late afternoon to capture the golden hour lighting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Fahren Sie zum historischen Vigia da Queimada für weite Ausblicke, gefolgt von einem Stopp an den vulkanischen Felsformationen von Castelete.\nMittag: Parken Sie im Zentrum, um die Dreifaltigkeitskirche und das berühmte Espaço Talassa zu besuchen, das maritime Herz der Stadt.\nNachmittag: Erkunden Sie das imposante Forte de Santa Catarina und verbringen Sie dann ein paar Stunden in den Ausstellungen des Science Centers.\nAbend: Fahren Sie bei Einbruch der Dunkelheit hinauf zum Pico Geraldo, um perfekte Fotos zur goldenen Stunde über der malerischen Küstenstadt einzufangen.",
+        "hu": "Reggel: Vezessen a történelmi Vigia da Queimadához a lenyűgöző kilátásért, majd álljon meg a Castelete vulkanikus sziklaképződményeinél.\nDél: Parkoljon le a központban, hogy meglátogassa a Szentháromság-templomot és a híres Espaço Talassát, a város tengeri szívét.\nDélután: Fedezze fel az impozáns Santa Catarina erődöt, majd töltsön el néhány órát a Tengerészeti Tudományos Központ kiállításain.\nEste: Autózzon fel a Pico Geraldo hegyre, hogy tökéletes aranyórás fotókat készítsen a festői fekvésű, gyönyörű Lajes tengerparti városkájáról.",
+        "ro": "Dimineața: Conduceți la istoricul Vigia da Queimada pentru vederi panoramice, urmat de o oprire la formațiunile vulcanice de la Castelete.\nAmiază: Parcați în centru pentru a vizita Biserica Trinității și Espaço Talassa, cufundându-vă în inima maritimă vibrantă a orașului.\nDupă-amiază: Explorați impunătorul Forte de Santa Catarina, apoi petreceți câteva ore în expozițiile Centrului de Arte și Științe Marine.\nSeara: Conduceți până la Pico Geraldo pe măsură ce ziua se încheie, surprinzând fotografii perfecte la ora de aur peste pitorescul oraș Lajes.",
+        "en": "Morning: Drive to the historic Vigia da Queimada for sweeping views, followed by a stop at the volcanic rock formations of Castelete.\nMidday: Park in the center to visit the Trinity Church and the famous Espaço Talassa, immersing yourself in the town's vibrant maritime heart.\nAfternoon: Explore the imposing Forte de Santa Catarina, then spend a couple of hours deep in the exhibits of the Arts and Marine Science Center.\nEvening: Drive up to Pico Geraldo as the day wanes, capturing the perfect golden hour photos over the picturesque coastal town of Lajes."
+      }
+    }
+  }
+}

@@ -1,0 +1,520 @@
+{
+  "city_id": "saint-mihiel",
+  "anchor": {
+    "name": "Saint-Mihiel",
+    "coords": [
+      5.54,
+      48.8894
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:11",
+      "total_km": 1.25,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Giebel des Quartiers Colson-Blaise",
+            "hu": "Quartier Colson-Blaise Oromzata",
+            "ro": "Frontonul Cartierului Colson-Blaise",
+            "en": "Fronton du Quartier Colson-Blaise"
+          },
+          "coords": [
+            5.538796,
+            48.888928
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die architektonischen Details dieses historischen Giebels, der die militärische Vergangenheit widerspiegelt, und kommen Sie morgens für das beste Licht.",
+            "hu": "Csodálja meg ennek a város katonai múltját tükröző történelmi oromzatnak az építészeti részleteit, és érkezzen kora reggel a legjobb fényviszonyok érdekében.",
+            "ro": "Minunați-vă de detaliile arhitecturale ale acestui fronton istoric ce reflectă trecutul militar al orașului și veniți dimineața devreme pentru cea mai bună lumină.",
+            "en": "Marvel at the intricate architectural details of this historic pediment which reflects the town's military past, and visit early in the morning for the best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Benediktinerbibliothek",
+            "hu": "Bencés Könyvtár",
+            "ro": "Biblioteca Benedictină",
+            "en": "Benedictine Library"
+          },
+          "coords": [
+            5.540929,
+            48.888369
+          ],
+          "category": "cultural",
+          "arrive_at": "09:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtige Sammlung illuminierter Manuskripte, welche die reiche klösterliche Geschichte dokumentieren, und fragen Sie nach der Übersetzungshilfe.",
+            "hu": "Csodálja meg a régió gazdag szerzetesi történelmét dokumentáló lenyűgöző illuminált kéziratok gyűjteményét, és feltétlenül kérjen fordítási segédletet a személyzettől.",
+            "ro": "Admirați colecția magnifică de manuscrise iluminate care documentează istoria monahală bogată a regiunii, asigurându-vă că cereți personalului un ghid de traducere.",
+            "en": "Admire the magnificent collection of illuminated manuscripts that document the rich monastic history of the region, ensuring you ask the staff for the translation guide."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle des Krankenhauses Sainte-Anne",
+            "hu": "Sainte-Anne Kórház Kápolnája",
+            "ro": "Capela Spitalului Sainte-Anne",
+            "en": "Chapelle de l'hôpital Sainte-Anne"
+          },
+          "coords": [
+            5.540229,
+            48.889777
+          ],
+          "category": "religious",
+          "arrive_at": "11:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Erkunden Sie die ruhige Atmosphäre dieser für ihre Glasfenster bekannten historischen Spitalkapelle und nehmen Sie sich einen Moment Zeit auf den hinteren Bänken.",
+            "hu": "Fedezze fel ennek a gyönyörű ólomüveg ablakairól ismert történelmi kórházi kápolnának a nyugalmát, és töltsön el egy kis időt csendben a hátsó padokon ülve.",
+            "ro": "Explorați atmosfera liniștită a acestei capele istorice de spital, cunoscută pentru vitraliile sale, și faceți-vă timp pentru a sta în liniște pe băncile din spate.",
+            "en": "Explore the tranquil atmosphere of this historical hospital chapel, known for its beautiful stained glass, and take a moment to sit quietly in the back pews."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus des Königs",
+            "hu": "A Király Háza",
+            "ro": "Casa Regelui",
+            "en": "Maison du Roi"
+          },
+          "coords": [
+            5.54097,
+            48.891143
+          ],
+          "category": "landmark",
+          "arrive_at": "12:04",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Betrachten Sie die markante Fassade dieser Renaissance-Residenz, die einst Könige beherbergte, und fotografieren Sie die feinen Steinschnitzereien über dem Portal.",
+            "hu": "Figyelje meg ennek az egykor királyokat is vendégül látó, reneszánsz rezidenciának a lenyűgöző homlokzatát, és fotózza le az ajtó feletti finom kőfaragásokat.",
+            "ro": "Observați fațada izbitoare a acestei reședințe renascentiste care a găzduit regalitatea, având grijă să fotografiați sculpturile delicate din piatră de deasupra ușii.",
+            "en": "Observe the striking façade of this notable Renaissance residence that once hosted royalty, making sure to photograph the delicate stone carvings above the doorway."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Felsen von Saint-Mihiel",
+            "hu": "Saint-Mihiel Sziklái",
+            "ro": "Stâncile din Saint-Mihiel",
+            "en": "The Rocks of Saint-Mihiel"
+          },
+          "coords": [
+            5.54143,
+            48.89231
+          ],
+          "category": "natural",
+          "arrive_at": "12:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesen beeindruckenden Kalksteinformationen, die einen Panoramablick auf das Maastal bieten, und tragen Sie feste Schuhe für die unebenen Wege.",
+            "hu": "Túrázzon fel ezekhez a Meuse-völgyre panorámás kilátást nyújtó lenyűgöző mészkőképződményekhez, és viseljen masszív cipőt, mivel az ösvények meglehetősen egyenetlenek.",
+            "ro": "Urcați la aceste formațiuni impresionante de calcar care oferă vederi panoramice ale văii Meuse și purtați încălțăminte rezistentă, deoarece potecile sunt inegale.",
+            "en": "Hike up to these impressive limestone formations offering spectacular panoramic views of the Meuse valley, and wear sturdy shoes as the pathways can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpalais Bousmard",
+            "hu": "Bousmard Magánkastély",
+            "ro": "Conacul Bousmard",
+            "en": "Hôtel particulier de Bousmard"
+          },
+          "coords": [
+            5.543731,
+            48.889282
+          ],
+          "category": "landmark",
+          "arrive_at": "13:52",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Entdecken Sie den eleganten Innenhof dieses gut erhaltenen Herrenhauses mit seiner bürgerlichen Architektur und achten Sie auf die reich verzierten Schmiedeeisengitter.",
+            "hu": "Fedezze fel a regionális polgári építészetet bemutató, jól karbantartott magánkastély elegáns udvarát, és figyelje meg a kapuk gyönyörűen díszített kovácsoltvas munkáit.",
+            "ro": "Descoperiți curtea elegantă a acestui conac privat bine conservat ce prezintă arhitectura burgheză, remarcând feroneria frumos ornamentată de pe porțile de la intrare.",
+            "en": "Discover the elegant courtyard of this well-preserved private mansion that showcases regional bourgeois architecture, noting the beautifully ornate ironwork on the gates."
+          }
+        },
+        {
+          "name": {
+            "de": "Ligier-Richier-Haus",
+            "hu": "Ligier Richier Ház",
+            "ro": "Casa Ligier Richier",
+            "en": "Ligier Richier House"
+          },
+          "coords": [
+            5.547015,
+            48.888711
+          ],
+          "category": "historical",
+          "arrive_at": "14:21",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Treten Sie in das ehemalige Wohnhaus des berühmten Renaissance-Bildhauers ein, um sein Erbe zu würdigen, und lesen Sie die Informationstafeln über seine Techniken.",
+            "hu": "Lépjen be a híres reneszánsz szobrász egykori otthonába, hogy értékelje maradandó örökségét, és ne hagyja ki a technikáit részletező kisebb információs táblákat.",
+            "ro": "Pășiți în fosta casă a faimosului sculptor renascentist pentru a-i aprecia moștenirea și nu ratați micile plăci informative care detaliază tehnicile sale de lucru.",
+            "en": "Step inside the former home of the famous Renaissance sculptor to appreciate his enduring legacy, and don't miss the small informational plaques detailing his techniques."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Stadtzentrum mit dem militärischen Erbe des Quartier Colson-Blaise und den Manuskripten der Benediktinerbibliothek. Mittags spazieren Sie an Kapellen und historischen Residenzen wie der Maison du Roi vorbei. Nachmittags wandern Sie für Panoramablicke zu den Felsen von Saint-Mihiel. Der Tag endet im Haus des Künstlers Ligier Richier.",
+        "hu": "A reggel a városközpontban kezdődik a Quartier Colson-Blaise katonai örökségének és a Bencés Könyvtár kéziratainak megcsodálásával. Délben kápolnák és a Maison du Roi mellett halad el. Délután túrázzon fel a Saint-Mihiel-i sziklákhoz a panorámáért, majd sétáljon el a nagyszerű kastélyok mellett. A nap a Ligier Richier házban ér véget.",
+        "ro": "Dimineața începe în centru, admirând moștenirea militară de la Quartier Colson-Blaise și manuscrisele Bibliotecii Benedictine. La prânz treceți pe lângă capele și reședințe istorice precum Maison du Roi. După-amiaza, urcați pe stâncile Saint-Mihiel pentru vederi panoramice, iar ziua se încheie la casa artistică Ligier Richier.",
+        "en": "Morning starts in the town center, admiring the military heritage at Quartier Colson-Blaise and the stunning manuscripts of the Benedictine Library. Midday takes you past beautiful chapels and historical residences like the Maison du Roi. In the afternoon, hike up the famous Rocks of Saint-Mihiel for panoramic views before wandering past grand mansions. The day concludes at the artistic Ligier Richier House."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:14",
+      "total_km": 4.91,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Giebel des Quartiers Colson-Blaise",
+            "hu": "Quartier Colson-Blaise Oromzata",
+            "ro": "Frontonul Cartierului Colson-Blaise",
+            "en": "Fronton du Quartier Colson-Blaise"
+          },
+          "coords": [
+            5.538796,
+            48.888928
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die architektonischen Details dieses historischen Giebels, der die militärische Vergangenheit widerspiegelt, und kommen Sie morgens für das beste Licht.",
+            "hu": "Csodálja meg ennek a város katonai múltját tükröző történelmi oromzatnak az építészeti részleteit, és érkezzen kora reggel a legjobb fényviszonyok érdekében.",
+            "ro": "Minunați-vă de detaliile arhitecturale ale acestui fronton istoric ce reflectă trecutul militar al orașului și veniți dimineața devreme pentru cea mai bună lumină.",
+            "en": "Marvel at the intricate architectural details of this historic pediment which reflects the town's military past, and visit early in the morning for the best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Benediktinerbibliothek",
+            "hu": "Bencés Könyvtár",
+            "ro": "Biblioteca Benedictină",
+            "en": "Benedictine Library"
+          },
+          "coords": [
+            5.540929,
+            48.888369
+          ],
+          "category": "cultural",
+          "arrive_at": "09:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtige Sammlung illuminierter Manuskripte, welche die reiche klösterliche Geschichte dokumentieren, und fragen Sie nach der Übersetzungshilfe.",
+            "hu": "Csodálja meg a régió gazdag szerzetesi történelmét dokumentáló lenyűgöző illuminált kéziratok gyűjteményét, és feltétlenül kérjen fordítási segédletet a személyzettől.",
+            "ro": "Admirați colecția magnifică de manuscrise iluminate care documentează istoria monahală bogată a regiunii, asigurându-vă că cereți personalului un ghid de traducere.",
+            "en": "Admire the magnificent collection of illuminated manuscripts that document the rich monastic history of the region, ensuring you ask the staff for the translation guide."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus des Königs",
+            "hu": "A Király Háza",
+            "ro": "Casa Regelui",
+            "en": "Maison du Roi"
+          },
+          "coords": [
+            5.54097,
+            48.891143
+          ],
+          "category": "landmark",
+          "arrive_at": "11:18",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betrachten Sie die markante Fassade dieser Renaissance-Residenz, die einst Könige beherbergte, und fotografieren Sie die feinen Steinschnitzereien über dem Portal.",
+            "hu": "Figyelje meg ennek az egykor királyokat is vendégül látó, reneszánsz rezidenciának a lenyűgöző homlokzatát, és fotózza le az ajtó feletti finom kőfaragásokat.",
+            "ro": "Observați fațada izbitoare a acestei reședințe renascentiste care a găzduit regalitatea, având grijă să fotografiați sculpturile delicate din piatră de deasupra ușii.",
+            "en": "Observe the striking façade of this notable Renaissance residence that once hosted royalty, making sure to photograph the delicate stone carvings above the doorway."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Felsen von Saint-Mihiel",
+            "hu": "Saint-Mihiel Sziklái",
+            "ro": "Stâncile din Saint-Mihiel",
+            "en": "The Rocks of Saint-Mihiel"
+          },
+          "coords": [
+            5.54143,
+            48.89231
+          ],
+          "category": "natural",
+          "arrive_at": "11:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesen beeindruckenden Kalksteinformationen, die einen Panoramablick auf das Maastal bieten, und tragen Sie feste Schuhe für die unebenen Wege.",
+            "hu": "Túrázzon fel ezekhez a Meuse-völgyre panorámás kilátást nyújtó lenyűgöző mészkőképződményekhez, és viseljen masszív cipőt, mivel az ösvények meglehetősen egyenetlenek.",
+            "ro": "Urcați la aceste formațiuni impresionante de calcar care oferă vederi panoramice ale văii Meuse și purtați încălțăminte rezistentă, deoarece potecile sunt inegale.",
+            "en": "Hike up to these impressive limestone formations offering spectacular panoramic views of the Meuse valley, and wear sturdy shoes as the pathways can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Notre-Dame-des-Prés",
+            "hu": "Notre-Dame-des-Prés Kápolna",
+            "ro": "Capela Notre-Dame-des-Prés",
+            "en": "Chapelle Notre-Dame-des-Prés"
+          },
+          "coords": [
+            5.562556,
+            48.893743
+          ],
+          "category": "religious",
+          "arrive_at": "13:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.55,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses abgelegene, von Natur umgebene Heiligtum, das einen perfekten Ort zum Nachdenken bietet, und prüfen Sie das Aushängeschild auf Chorveranstaltungen.",
+            "hu": "Látogasson el ebbe a természet által körülölelt, eldugott vallási szentélybe, amely tökéletes hely az elmélkedésre, és keresse a helyi hirdetőtáblán a kórusfellépéseket.",
+            "ro": "Vizitați acest sanctuar religios izolat, înconjurat de natură, ideal pentru reflecție, și verificați avizierul local pentru a prinde eventuale evenimente corale.",
+            "en": "Visit this secluded religious sanctuary surrounded by nature which provides a perfect spot for reflection, and check the local notice board for occasional choral events."
+          }
+        },
+        {
+          "name": {
+            "de": "Ligier-Richier-Haus",
+            "hu": "Ligier Richier Ház",
+            "ro": "Casa Ligier Richier",
+            "en": "Ligier Richier House"
+          },
+          "coords": [
+            5.547015,
+            48.888711
+          ],
+          "category": "historical",
+          "arrive_at": "13:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.28,
+          "tip_5lang": {
+            "de": "Treten Sie in das ehemalige Wohnhaus des berühmten Renaissance-Bildhauers ein, um sein Erbe zu würdigen, und lesen Sie die Informationstafeln über seine Techniken.",
+            "hu": "Lépjen be a híres reneszánsz szobrász egykori otthonába, hogy értékelje maradandó örökségét, és ne hagyja ki a technikáit részletező kisebb információs táblákat.",
+            "ro": "Pășiți în fosta casă a faimosului sculptor renascentist pentru a-i aprecia moștenirea și nu ratați micile plăci informative care detaliază tehnicile sale de lucru.",
+            "en": "Step inside the former home of the famous Renaissance sculptor to appreciate his enduring legacy, and don't miss the small informational plaques detailing his techniques."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort des Römerlagers",
+            "hu": "Camp des Romains Erőd",
+            "ro": "Fortul Camp des Romains",
+            "en": "Fort du Camp des Romains"
+          },
+          "coords": [
+            5.539363,
+            48.87633
+          ],
+          "category": "fortress",
+          "arrive_at": "15:24",
+          "stay_min": 110,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.48,
+          "tip_5lang": {
+            "de": "Erkunden Sie die strategischen Ruinen dieser Festung, die in regionalen Konflikten eine Rolle spielte, und bringen Sie eine Taschenlampe für die dunkleren Tunnel mit.",
+            "hu": "Fedezze fel ennek a regionális konfliktusokban létfontosságú szerepet játszó hegyi erődnek a romjait, és hozzon zseblámpát a sötétebb alagutak biztonságos bejárásához.",
+            "ro": "Explorați ruinele strategice ale acestei fortărețe care a jucat un rol vital în conflictele regionale și aduceți o lanternă pentru a naviga în siguranță prin tunele.",
+            "en": "Explore the strategic ruins of this hilltop fortress that played a vital role in regional conflicts, and bring a flashlight to safely navigate the darker tunnel sections."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie früh los zum Quartier Colson-Blaise, bevor Sie in die Geschichte der Benediktinerbibliothek eintauchen. Mittags fahren Sie an der Maison du Roi vorbei zu den Felsen von Saint-Mihiel. Ihr Nachmittag bietet eine malerische Fahrt zur Chapelle Notre-Dame-des-Prés und zum Ligier Richier Haus. Der Abend führt Sie zum Festungsbau Camp des Romains.",
+        "hu": "Kerékpározzon ki korán a Quartier Colson-Blaise-hez, mielőtt elmerülne a Bencés Könyvtár történelmében. Ebédidőben tekerjen el a Maison du Roi mellett, majd fel a Saint-Mihiel-i sziklákhoz. A délután egy festői túrát tartogat a Chapelle Notre-Dame-des-Prés-hez, majd kulturális betekintést a Ligier Richier házba. Az est a Camp des Romains-hez vezet.",
+        "ro": "Porniți devreme pentru a admira Quartier Colson-Blaise înainte de a explora Biblioteca Benedictină. La prânz, pedalați pe lângă Maison du Roi și urcați la stâncile Saint-Mihiel. După-amiaza include o plimbare pitorească până la Chapelle Notre-Dame-des-Prés și o vizită culturală la Casa Ligier Richier, terminând ziua la Fortul Camp des Romains.",
+        "en": "Pedal out early to take in the imposing Quartier Colson-Blaise before diving into the history of the Benedictine Library. By lunchtime, ride past the Maison du Roi and cycle up to the majestic Rocks of Saint-Mihiel for fresh air. Your afternoon features a scenic ride to the secluded Chapelle Notre-Dame-des-Prés, followed by cultural insights at Ligier Richier House. Evening brings you to the imposing Camp des Romains."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:33",
+      "total_km": 4.74,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Benediktinerbibliothek",
+            "hu": "Bencés Könyvtár",
+            "ro": "Biblioteca Benedictină",
+            "en": "Benedictine Library"
+          },
+          "coords": [
+            5.540929,
+            48.888369
+          ],
+          "category": "cultural",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtige Sammlung illuminierter Manuskripte, welche die reiche klösterliche Geschichte dokumentieren, und fragen Sie nach der Übersetzungshilfe.",
+            "hu": "Csodálja meg a régió gazdag szerzetesi történelmét dokumentáló lenyűgöző illuminált kéziratok gyűjteményét, és feltétlenül kérjen fordítási segédletet a személyzettől.",
+            "ro": "Admirați colecția magnifică de manuscrise iluminate care documentează istoria monahală bogată a regiunii, asigurându-vă că cereți personalului un ghid de traducere.",
+            "en": "Admire the magnificent collection of illuminated manuscripts that document the rich monastic history of the region, ensuring you ask the staff for the translation guide."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus des Königs",
+            "hu": "A Király Háza",
+            "ro": "Casa Regelui",
+            "en": "Maison du Roi"
+          },
+          "coords": [
+            5.54097,
+            48.891143
+          ],
+          "category": "landmark",
+          "arrive_at": "10:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betrachten Sie die markante Fassade dieser Renaissance-Residenz, die einst Könige beherbergte, und fotografieren Sie die feinen Steinschnitzereien über dem Portal.",
+            "hu": "Figyelje meg ennek az egykor királyokat is vendégül látó, reneszánsz rezidenciának a lenyűgöző homlokzatát, és fotózza le az ajtó feletti finom kőfaragásokat.",
+            "ro": "Observați fațada izbitoare a acestei reședințe renascentiste care a găzduit regalitatea, având grijă să fotografiați sculpturile delicate din piatră de deasupra ușii.",
+            "en": "Observe the striking façade of this notable Renaissance residence that once hosted royalty, making sure to photograph the delicate stone carvings above the doorway."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Felsen von Saint-Mihiel",
+            "hu": "Saint-Mihiel Sziklái",
+            "ro": "Stâncile din Saint-Mihiel",
+            "en": "The Rocks of Saint-Mihiel"
+          },
+          "coords": [
+            5.54143,
+            48.89231
+          ],
+          "category": "natural",
+          "arrive_at": "11:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesen beeindruckenden Kalksteinformationen, die einen Panoramablick auf das Maastal bieten, und tragen Sie feste Schuhe für die unebenen Wege.",
+            "hu": "Túrázzon fel ezekhez a Meuse-völgyre panorámás kilátást nyújtó lenyűgöző mészkőképződményekhez, és viseljen masszív cipőt, mivel az ösvények meglehetősen egyenetlenek.",
+            "ro": "Urcați la aceste formațiuni impresionante de calcar care oferă vederi panoramice ale văii Meuse și purtați încălțăminte rezistentă, deoarece potecile sunt inegale.",
+            "en": "Hike up to these impressive limestone formations offering spectacular panoramic views of the Meuse valley, and wear sturdy shoes as the pathways can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Notre-Dame-des-Prés",
+            "hu": "Notre-Dame-des-Prés Kápolna",
+            "ro": "Capela Notre-Dame-des-Prés",
+            "en": "Chapelle Notre-Dame-des-Prés"
+          },
+          "coords": [
+            5.562556,
+            48.893743
+          ],
+          "category": "religious",
+          "arrive_at": "12:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.55,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses abgelegene, von Natur umgebene Heiligtum, das einen perfekten Ort zum Nachdenken bietet, und prüfen Sie das Aushängeschild auf Chorveranstaltungen.",
+            "hu": "Látogasson el ebbe a természet által körülölelt, eldugott vallási szentélybe, amely tökéletes hely az elmélkedésre, és keresse a helyi hirdetőtáblán a kórusfellépéseket.",
+            "ro": "Vizitați acest sanctuar religios izolat, înconjurat de natură, ideal pentru reflecție, și verificați avizierul local pentru a prinde eventuale evenimente corale.",
+            "en": "Visit this secluded religious sanctuary surrounded by nature which provides a perfect spot for reflection, and check the local notice board for occasional choral events."
+          }
+        },
+        {
+          "name": {
+            "de": "Ligier-Richier-Haus",
+            "hu": "Ligier Richier Ház",
+            "ro": "Casa Ligier Richier",
+            "en": "Ligier Richier House"
+          },
+          "coords": [
+            5.547015,
+            48.888711
+          ],
+          "category": "historical",
+          "arrive_at": "13:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.28,
+          "tip_5lang": {
+            "de": "Treten Sie in das ehemalige Wohnhaus des berühmten Renaissance-Bildhauers ein, um sein Erbe zu würdigen, und lesen Sie die Informationstafeln über seine Techniken.",
+            "hu": "Lépjen be a híres reneszánsz szobrász egykori otthonába, hogy értékelje maradandó örökségét, és ne hagyja ki a technikáit részletező kisebb információs táblákat.",
+            "ro": "Pășiți în fosta casă a faimosului sculptor renascentist pentru a-i aprecia moștenirea și nu ratați micile plăci informative care detaliază tehnicile sale de lucru.",
+            "en": "Step inside the former home of the famous Renaissance sculptor to appreciate his enduring legacy, and don't miss the small informational plaques detailing his techniques."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort des Römerlagers",
+            "hu": "Camp des Romains Erőd",
+            "ro": "Fortul Camp des Romains",
+            "en": "Fort du Camp des Romains"
+          },
+          "coords": [
+            5.539363,
+            48.87633
+          ],
+          "category": "fortress",
+          "arrive_at": "14:43",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.48,
+          "tip_5lang": {
+            "de": "Erkunden Sie die strategischen Ruinen dieser Festung, die in regionalen Konflikten eine Rolle spielte, und bringen Sie eine Taschenlampe für die dunkleren Tunnel mit.",
+            "hu": "Fedezze fel ennek a regionális konfliktusokban létfontosságú szerepet játszó hegyi erődnek a romjait, és hozzon zseblámpát a sötétebb alagutak biztonságos bejárásához.",
+            "ro": "Explorați ruinele strategice ale acestei fortărețe care a jucat un rol vital în conflictele regionale și aduceți o lanternă pentru a naviga în siguranță prin tunele.",
+            "en": "Explore the strategic ruins of this hilltop fortress that played a vital role in regional conflicts, and bring a flashlight to safely navigate the darker tunnel sections."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt an der Benediktinerbibliothek und halten Sie an der Maison du Roi. Mittags fahren Sie zu den Naturwundern der Felsen von Saint-Mihiel für eine erfrischende Wanderung. Am Nachmittag gleiten Sie zur friedlichen Chapelle Notre-Dame-des-Prés und zum Haus von Ligier Richier. Beenden Sie den Tag mit einer Fahrt zum Fort du Camp des Romains.",
+        "hu": "Kezdje a vezetést a Bencés Könyvtárnál, majd álljon meg a Maison du Roi lenyűgöző épületénél. Délben egy rövid autóút viszi a Saint-Mihiel-i sziklák természeti csodáihoz. Délután kényelmesen elgurulhat a békés Chapelle Notre-Dame-des-Prés és az ikonikus Ligier Richier ház felé. Fejezze be a napot egy festői autózással a Camp des Romains erődhöz.",
+        "ro": "Începeți plimbarea cu mașina la Biblioteca Benedictină înainte de a opri la Maison du Roi. La prânz faceți o scurtă călătorie până la minunile naturale ale stâncilor Saint-Mihiel. După-amiaza, conduceți liniștit spre Chapelle Notre-Dame-des-Prés și iconica Casă Ligier Richier. Încheiați cu o plimbare pitorească până la impresionantul Fort Camp des Romains.",
+        "en": "Begin your drive at the historic Benedictine Library to soak in centuries of knowledge before stopping by the striking Maison du Roi. Midday takes you a short drive up to the natural wonders of the Rocks of Saint-Mihiel for a refreshing hike. In the afternoon, cruise easily to the peaceful Chapelle Notre-Dame-des-Prés and the iconic Ligier Richier House. Conclude with a scenic drive to the impressive Fort du Camp des Romains."
+      }
+    }
+  }
+}

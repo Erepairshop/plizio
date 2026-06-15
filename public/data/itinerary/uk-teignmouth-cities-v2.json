@@ -1,0 +1,543 @@
+{
+  "city_id": "uk-teignmouth-cities-v2",
+  "anchor": {
+    "name": "Teignmouth",
+    "coords": [
+      -3.4948,
+      50.5491
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:24",
+      "total_km": 1.12,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Teign Heritage Centre",
+            "hu": "Teign Heritage Centre",
+            "ro": "Teign Heritage Centre",
+            "en": "Teign Heritage Centre"
+          },
+          "coords": [
+            -3.4938,
+            50.547467
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche maritime Geschichte in diesem modernen Museum und werfen Sie unbedingt einen Blick auf die faszinierenden Ausstellungen zur Eisenbahn.",
+            "hu": "Fedezze fel a gazdag tengerészeti történelmet ebben a modern múzeumban, és mindenképpen nézze meg a helyi vasútfejlesztésről szóló lenyűgöző kiállításokat.",
+            "ro": "Descoperiți bogata istorie maritimă în acest muzeu modern și asigurați-vă că verificați expozițiile fascinante despre dezvoltarea căilor ferate locale din zonă.",
+            "en": "Discover the rich maritime history and local heritage in this modern museum, and make sure to check out the fascinating exhibits on the local railway development."
+          }
+        },
+        {
+          "name": {
+            "de": "The Den",
+            "hu": "The Den",
+            "ro": "The Den",
+            "en": "The Den"
+          },
+          "coords": [
+            -3.49215,
+            50.5475
+          ],
+          "category": "recreational",
+          "arrive_at": "10:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannten Spaziergang durch diesen preisgekrönten Park am Meer und bringen Sie Snacks für ein Picknick auf den gepflegten Rasenflächen mit.",
+            "hu": "Élvezze a pihentető sétát ebben a díjnyertes, tengerparti parkban, és hozzon magával némi harapnivalót egy kellemes piknikhez a tökéletesen gondozott pázsiton.",
+            "ro": "Bucurați-vă de o plimbare relaxantă prin acest parc premiat de pe faleză și aduceți câteva gustări pentru un picnic încântător pe peluzele sale perfect îngrijite.",
+            "en": "Enjoy a relaxing stroll through this award-winning open space right by the seafront, and bring some snacks for a delightful picnic on its perfectly manicured lawns."
+          }
+        },
+        {
+          "name": {
+            "de": "Teignmouth Lido",
+            "hu": "Teignmouth Lido",
+            "ro": "Teignmouth Lido",
+            "en": "Teignmouth Lido"
+          },
+          "coords": [
+            -3.49156,
+            50.5484
+          ],
+          "category": "recreational",
+          "arrive_at": "12:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich in diesem klassischen, beheizten Freibad mit tollem Meerblick ab, aber kommen Sie an Sommerwochenenden früh, um einen Platz auf der Terrasse zu sichern.",
+            "hu": "Hűsöljön ebben a klasszikus, fűtött szabadtéri medencében, amely fantasztikus kilátást nyújt, de érkezzen korán a nyári hétvégéken a legjobb teraszos helyekért.",
+            "ro": "Răcoriți-vă în această piscină clasică în aer liber încălzită, cu vedere la ocean, dar ajungeți devreme în weekendurile de vară pentru un loc bun pe terasă.",
+            "en": "Cool off in this classic outdoor heated swimming pool offering fantastic ocean views, but arrive early during summer weekends to secure a good spot on the terrace."
+          }
+        },
+        {
+          "name": {
+            "de": "Teignmouth Beach",
+            "hu": "Teignmouth Beach",
+            "ro": "Teignmouth Beach",
+            "en": "Teignmouth Beach"
+          },
+          "coords": [
+            -3.493177,
+            50.54587
+          ],
+          "category": "recreational",
+          "arrive_at": "13:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem weiten Sandstrand, der von roten Klippen umrahmt ist, und halten Sie bei Ebbe Ausschau nach interessanten Muscheln oder kleinen Felsenpools.",
+            "hu": "Sétáljon végig ezen a hatalmas, vörös sziklák által övezett homokos parton, és apálykor keresse a különleges kagylókat vagy az apró sziklamedencék élővilágát.",
+            "ro": "Plimbați-vă pe acest țărm nisipos întins, încadrat de stânci roșii iconice, și căutați scoici interesante sau mici bazine stâncoase fermecătoare la reflux.",
+            "en": "Walk along this expansive sandy shore framed by iconic red cliffs, and keep an eye out for interesting local seashells or charming little rock pools at low tide."
+          }
+        },
+        {
+          "name": {
+            "de": "Teignmouth Pier",
+            "hu": "Teignmouth Pier",
+            "ro": "Teignmouth Pier",
+            "en": "Teignmouth Pier"
+          },
+          "coords": [
+            -3.4942,
+            50.5447
+          ],
+          "category": "recreational",
+          "arrive_at": "14:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Erleben Sie traditionellen britischen Badespaß mit Spielhallen auf diesem viktorianischen Pier und vergessen Sie nicht, klassische Fish and Chips zu probieren.",
+            "hu": "Tapasztalja meg a hagyományos brit tengerparti szórakozást ezen a viktoriánus mólón, és ne felejtsen el megkóstolni egy klasszikus fish and chips-et a közelben.",
+            "ro": "Experimentați distracția tradițională britanică cu arcade de pe acest dig victorian și nu uitați să savurați clasicul fish and chips de la o tarabă din apropiere.",
+            "en": "Experience traditional British seaside fun with amusement arcades on this Victorian pier, and don't forget to grab some classic fish and chips from a nearby stall."
+          }
+        },
+        {
+          "name": {
+            "de": "Gales Hill",
+            "hu": "Gales Hill",
+            "ro": "Gales Hill",
+            "en": "Gales Hill"
+          },
+          "coords": [
+            -3.499168,
+            50.545286
+          ],
+          "category": "recreational",
+          "arrive_at": "15:54",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Machen Sie einen leichten Spaziergang zu diesem Aussichtspunkt für unvergleichliche Panoramafotos, wobei festes Schuhwerk für unebene Abschnitte empfohlen wird.",
+            "hu": "Tegyen egy könnyű sétát ehhez a kilátóhoz a torkolat páratlan panorámájáért, bár a kényelmes cipő erősen ajánlott az egyenetlenebb, meredekebb szakaszokon.",
+            "ro": "Faceți o plimbare ușoară până la acest punct de belvedere pentru fotografii panoramice de neegalat, deși încălțămintea confortabilă este recomandată pe terenul accidentat.",
+            "en": "Take a gentle walk up this scenic viewpoint for unparalleled panoramic photos of the estuary, though sensible shoes are highly recommended for the uneven sections."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einem tiefen Einblick in das lokale Erbe im Museum, gefolgt von einem Spaziergang durch die gepflegten Rasenflächen von The Den. \n\nMittags erreichen Sie den Retro-Charme des örtlichen Freibads, wo Sie sich abkühlen können, bevor Sie am klassischen Sandstrand entlang spazieren. \n\nDer Nachmittag ist für traditionelle Strandvergnügungen am historischen Pier reserviert, um die typisch britische Urlaubsatmosphäre zu genießen. \n\nAm Abend steigen Sie auf den Gales Hill, der Sie mit einem atemberaubenden Panoramablick über die Mündung bei Sonnenuntergang belohnt.",
+        "hu": "A reggel a helyi örökség felfedezésével indul a múzeumban, majd egy kényelmes séta következik a The Den gyönyörűen gondozott pázsitján. \n\nDélben a helyi strandfürdő retró bája várja, ahol lehűlhet, mielőtt egy kellemes sétát tenne a klasszikus homokos tengerparton. \n\nA délután a hagyományos tengerparti szórakozásé a történelmi mólónál, elmerülve a hamisítatlan brit nyaralási atmoszférában. \n\nAz este a Gales Hill dombjára vezet, amely lélegzetelállító panorámával jutalmazza a torkolat felett, ahogy a nap kecsesen lenyugszik a partvonalon.",
+        "ro": "Dimineața începe cu o explorare a patrimoniului local la muzeu, urmată de o plimbare relaxantă prin peluzele frumos îngrijite ale parcului The Den. \n\nLa prânz vă bucurați de farmecul retro al piscinei locale, unde vă puteți răcori înainte de a face o plimbare pe plaja clasică de nisip. \n\nDupă-amiaza este rezervată distracțiilor tradiționale de pe digul istoric, absorbind atmosfera tipică a vacanțelor britanice la malul mării. \n\nSeara urcă spre Gales Hill, răsplătindu-vă cu vederi panoramice uluitoare asupra estuarului în timp ce soarele apune grațios peste coastă.",
+        "en": "Morning starts with a deep dive into local heritage at the museum, followed by a leisurely stroll through the beautifully manicured lawns of The Den. \n\nMidday brings you to the retro charm of the local lido, where you can cool off before enjoying a gentle walk along the classic sandy beach. \n\nAfternoon is reserved for traditional seaside amusements at the historic pier, soaking in the quintessential British holiday atmosphere by the water. \n\nEvening climbs up to Gales Hill, rewarding you with breathtaking panoramic views over the estuary as the sun sets gracefully over the coastline."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:48",
+      "total_km": 4.17,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Teignmouth Pier",
+            "hu": "Teignmouth Pier",
+            "ro": "Teignmouth Pier",
+            "en": "Teignmouth Pier"
+          },
+          "coords": [
+            -3.4942,
+            50.5447
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erleben Sie traditionellen britischen Badespaß mit Spielhallen auf diesem viktorianischen Pier und vergessen Sie nicht, klassische Fish and Chips zu probieren.",
+            "hu": "Tapasztalja meg a hagyományos brit tengerparti szórakozást ezen a viktoriánus mólón, és ne felejtsen el megkóstolni egy klasszikus fish and chips-et a közelben.",
+            "ro": "Experimentați distracția tradițională britanică cu arcade de pe acest dig victorian și nu uitați să savurați clasicul fish and chips de la o tarabă din apropiere.",
+            "en": "Experience traditional British seaside fun with amusement arcades on this Victorian pier, and don't forget to grab some classic fish and chips from a nearby stall."
+          }
+        },
+        {
+          "name": {
+            "de": "Shaldon Bridge",
+            "hu": "Shaldon Bridge",
+            "ro": "Shaldon Bridge",
+            "en": "Shaldon Bridge"
+          },
+          "coords": [
+            -3.509974,
+            50.54354
+          ],
+          "category": "historical",
+          "arrive_at": "10:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.13,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese historische hölzerne Mautbrücke und halten Sie auf halbem Weg an, um atemberaubende Fotos der Segelboote auf dem Fluss Teign zu machen.",
+            "hu": "Keljen át ezen a történelmi fahídon, amely összeköti a két partot, és álljon meg félúton, hogy lenyűgöző fotókat készítsen a Teign folyón ringatózó vitorlásokról.",
+            "ro": "Traversați acest pod istoric din lemn care leagă cele două maluri și opriți-vă la jumătate pentru a fotografia bărcile cu pânze care se odihnesc pe râul Teign.",
+            "en": "Cross this historic wooden toll bridge connecting the two shores, and pause halfway to capture stunning photographs of the sailboats resting on the river Teign."
+          }
+        },
+        {
+          "name": {
+            "de": "Shaldon Beach",
+            "hu": "Shaldon Beach",
+            "ro": "Shaldon Beach",
+            "en": "Shaldon Beach"
+          },
+          "coords": [
+            -3.503141,
+            50.540165
+          ],
+          "category": "recreational",
+          "arrive_at": "11:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.61,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem malerischen und ruhigeren Strand auf der anderen Seite der Mündung, der sich ideal zum Sandburgenbauen oder Bootebeobachten eignet.",
+            "hu": "Pihenjen ezen a festői és kissé csendesebb strandon a torkolat túloldalán, amely tökéletes homokvárak építéséhez vagy a ringatózó csónakok megfigyeléséhez.",
+            "ro": "Relaxați-vă pe această plajă pitorească și mai liniștită de peste estuar, perfectă pentru a construi castele de nisip sau pentru a privi bărcile mici pe apă.",
+            "en": "Relax on this picturesque and slightly quieter beach across the estuary, perfect for building sandcastles or simply watching the small boats bob in the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Ness Beach",
+            "hu": "Ness Beach",
+            "ro": "Ness Beach",
+            "en": "Ness Beach"
+          },
+          "coords": [
+            -3.498724,
+            50.53452
+          ],
+          "category": "recreational",
+          "arrive_at": "12:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses versteckte Juwel durch einen alten Schmugglertunnel für ein einzigartiges Stranderlebnis, aber bringen Sie Proviant mit, da es wenig Anlagen gibt.",
+            "hu": "Ezt a rejtett gyöngyszemet egy régi csempészalagúton keresztül közelítheti meg; ne felejtsen el magával vinni minden szükséges felszerelést, mivel a szolgáltatások korlátozottak.",
+            "ro": "Accesați această bijuterie ascunsă printr-un vechi tunel de contrabandă pentru o experiență unică, dar aduceți-vă provizii, deoarece facilitățile sunt limitate aici.",
+            "en": "Access this hidden gem through an old smugglers' tunnel for a truly unique beach experience, and remember to pack all your provisions as facilities are limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Shaldon Ferry",
+            "hu": "Shaldon Ferry",
+            "ro": "Shaldon Ferry",
+            "en": "Shaldon Ferry"
+          },
+          "coords": [
+            -3.498935,
+            50.542281
+          ],
+          "category": "recreational",
+          "arrive_at": "14:18",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.86,
+          "tip_5lang": {
+            "de": "Steigen Sie in eine der ältesten Passagierfähren Englands für eine malerische Flussüberquerung ein, aber halten Sie Bargeld bereit, da keine Karten akzeptiert werden.",
+            "hu": "Szálljon fel Anglia egyik legrégebbi kompjára egy gyors és festői folyami átkeléshez, de gondoskodjon némi aprópénzről, mivel kizárólag készpénzt fogadnak el.",
+            "ro": "Urcați-vă la bordul unuia dintre cele mai vechi feriboturi din Anglia pentru o traversare pitorească a râului, dar asigurați-vă că aveți numerar pentru a plăti biletul.",
+            "en": "Hop aboard one of England's oldest passenger ferries for a quick and scenic river crossing, but ensure you have a few coins handy as they only accept cash payments."
+          }
+        },
+        {
+          "name": {
+            "de": "The Den",
+            "hu": "The Den",
+            "ro": "The Den",
+            "en": "The Den"
+          },
+          "coords": [
+            -3.49215,
+            50.5475
+          ],
+          "category": "recreational",
+          "arrive_at": "15:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannten Spaziergang durch diesen preisgekrönten Park am Meer und bringen Sie Snacks für ein Picknick auf den gepflegten Rasenflächen mit.",
+            "hu": "Élvezze a pihentető sétát ebben a díjnyertes, tengerparti parkban, és hozzon magával némi harapnivalót egy kellemes piknikhez a tökéletesen gondozott pázsiton.",
+            "ro": "Bucurați-vă de o plimbare relaxantă prin acest parc premiat de pe faleză și aduceți câteva gustări pentru un picnic încântător pe peluzele sale perfect îngrijite.",
+            "en": "Enjoy a relaxing stroll through this award-winning open space right by the seafront, and bring some snacks for a delightful picnic on its perfectly manicured lawns."
+          }
+        },
+        {
+          "name": {
+            "de": "Teign Heritage Centre",
+            "hu": "Teign Heritage Centre",
+            "ro": "Teign Heritage Centre",
+            "en": "Teign Heritage Centre"
+          },
+          "coords": [
+            -3.4938,
+            50.547467
+          ],
+          "category": "museum",
+          "arrive_at": "16:38",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche maritime Geschichte in diesem modernen Museum und werfen Sie unbedingt einen Blick auf die faszinierenden Ausstellungen zur Eisenbahn.",
+            "hu": "Fedezze fel a gazdag tengerészeti történelmet ebben a modern múzeumban, és mindenképpen nézze meg a helyi vasútfejlesztésről szóló lenyűgöző kiállításokat.",
+            "ro": "Descoperiți bogata istorie maritimă în acest muzeu modern și asigurați-vă că verificați expozițiile fascinante despre dezvoltarea căilor ferate locale din zonă.",
+            "en": "Discover the rich maritime history and local heritage in this modern museum, and make sure to check out the fascinating exhibits on the local railway development."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre morgendliche Radtour beginnt am belebten Pier, wo Sie die Meeresbrise genießen, bevor Sie zur beeindruckenden historischen Brücke radeln. \n\nMittags radeln Sie über den Fluss, um die ruhigeren Strände von Shaldon zu erkunden, die einen friedlichen Rückzugsort bieten. \n\nNachmittagsabenteuer führen Sie zum versteckten Ness Beach und zu einer charmanten Fahrt mit der Fähre, die malerische Ausblicke vereint. \n\nDer Abend klingt im The Den und im Heritage Centre aus und bietet einen entspannten kulturellen Abschluss eines aktiven Tages in der Mündung.",
+        "hu": "A reggeli kerékpározás a nyüzsgő mólónál kezdődik, élvezve a tengeri szellőt, mielőtt a lenyűgöző történelmi híd felé venné az irányt. \n\nDélben átteker a folyón, hogy felfedezze Shaldon csendesebb homokját, amely békés menedéket nyújt a fő üdülőhely tömegétől távol. \n\nA délutáni kalandok a rejtett Ness strandhoz és egy bájos kompúthoz vezetnek, ötvözve a festői kilátást a helyi közlekedéstörténettel. \n\nAz este a The Den parkban és a helyi örökségvédelmi központban zárul, kulturális és pihentető befejezést kínálva egy aktív napnak.",
+        "ro": "Plimbarea matinală începe la digul plin de viață, permițându-vă să simțiți briza mării înainte de a pedala spre podul istoric impresionant. \n\nLa amiază pedalați peste râu pentru a explora nisipurile mai liniștite din Shaldon, oferind un refugiu pașnic departe de mulțimile stațiunii. \n\nAventurile de după-amiază vă duc la plaja ascunsă Ness și o călătorie fermecătoare cu feribotul, îmbinând peisajele cu istoria locală. \n\nSeara se încheie înapoi la The Den și la centrul de patrimoniu, oferind un final cultural relaxant pentru o zi activă prin estuar.",
+        "en": "Your morning ride kicks off at the bustling pier, letting you enjoy the morning sea breeze before pedaling towards the impressive historic bridge. \n\nMidday finds you cycling across the river to explore the quieter sands of Shaldon, offering a peaceful retreat away from the main resort crowds. \n\nAfternoon adventures take you to the hidden Ness Beach and a charming ferry ride back, blending scenic views with a touch of local transport history. \n\nEvening winds down back at The Den and the local heritage centre, offering a relaxing cultural end to an active day exploring the beautiful estuary."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:43",
+      "total_km": 7.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Coombe Valley LNR Play Area",
+            "hu": "Coombe Valley LNR Play Area",
+            "ro": "Coombe Valley LNR Play Area",
+            "en": "Coombe Valley LNR Play Area"
+          },
+          "coords": [
+            -3.511018,
+            50.557568
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder auf diesem gut ausgestatteten Spielplatz im Naturschutzgebiet spielen, der auch fantastische Wanderwege für die ganze Familie bereithält.",
+            "hu": "Hagyja, hogy a gyerekek levezessék az energiájukat ebben a jól felszerelt játszótéren, amely fantasztikus erdei ösvényeket is kínál az egész család számára.",
+            "ro": "Lăsați copiii să-și consume energia în această zonă de joacă bine echipată, care oferă și trasee fantastice de plimbare în natură pentru întreaga familie.",
+            "en": "Let the kids burn off some energy in this well-equipped nature reserve play area, which also offers fantastic trail walks for the whole family to explore together."
+          }
+        },
+        {
+          "name": {
+            "de": "Teign Heritage Centre",
+            "hu": "Teign Heritage Centre",
+            "ro": "Teign Heritage Centre",
+            "en": "Teign Heritage Centre"
+          },
+          "coords": [
+            -3.4938,
+            50.547467
+          ],
+          "category": "museum",
+          "arrive_at": "10:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.62,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche maritime Geschichte in diesem modernen Museum und werfen Sie unbedingt einen Blick auf die faszinierenden Ausstellungen zur Eisenbahn.",
+            "hu": "Fedezze fel a gazdag tengerészeti történelmet ebben a modern múzeumban, és mindenképpen nézze meg a helyi vasútfejlesztésről szóló lenyűgöző kiállításokat.",
+            "ro": "Descoperiți bogata istorie maritimă în acest muzeu modern și asigurați-vă că verificați expozițiile fascinante despre dezvoltarea căilor ferate locale din zonă.",
+            "en": "Discover the rich maritime history and local heritage in this modern museum, and make sure to check out the fascinating exhibits on the local railway development."
+          }
+        },
+        {
+          "name": {
+            "de": "Teignmouth Pier",
+            "hu": "Teignmouth Pier",
+            "ro": "Teignmouth Pier",
+            "en": "Teignmouth Pier"
+          },
+          "coords": [
+            -3.4942,
+            50.5447
+          ],
+          "category": "recreational",
+          "arrive_at": "12:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.31,
+          "tip_5lang": {
+            "de": "Erleben Sie traditionellen britischen Badespaß mit Spielhallen auf diesem viktorianischen Pier und vergessen Sie nicht, klassische Fish and Chips zu probieren.",
+            "hu": "Tapasztalja meg a hagyományos brit tengerparti szórakozást ezen a viktoriánus mólón, és ne felejtsen el megkóstolni egy klasszikus fish and chips-et a közelben.",
+            "ro": "Experimentați distracția tradițională britanică cu arcade de pe acest dig victorian și nu uitați să savurați clasicul fish and chips de la o tarabă din apropiere.",
+            "en": "Experience traditional British seaside fun with amusement arcades on this Victorian pier, and don't forget to grab some classic fish and chips from a nearby stall."
+          }
+        },
+        {
+          "name": {
+            "de": "Shaldon Bridge",
+            "hu": "Shaldon Bridge",
+            "ro": "Shaldon Bridge",
+            "en": "Shaldon Bridge"
+          },
+          "coords": [
+            -3.509974,
+            50.54354
+          ],
+          "category": "historical",
+          "arrive_at": "13:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.13,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese historische hölzerne Mautbrücke und halten Sie auf halbem Weg an, um atemberaubende Fotos der Segelboote auf dem Fluss Teign zu machen.",
+            "hu": "Keljen át ezen a történelmi fahídon, amely összeköti a két partot, és álljon meg félúton, hogy lenyűgöző fotókat készítsen a Teign folyón ringatózó vitorlásokról.",
+            "ro": "Traversați acest pod istoric din lemn care leagă cele două maluri și opriți-vă la jumătate pentru a fotografia bărcile cu pânze care se odihnesc pe râul Teign.",
+            "en": "Cross this historic wooden toll bridge connecting the two shores, and pause halfway to capture stunning photographs of the sailboats resting on the river Teign."
+          }
+        },
+        {
+          "name": {
+            "de": "Shaldon Ferry",
+            "hu": "Shaldon Ferry",
+            "ro": "Shaldon Ferry",
+            "en": "Shaldon Ferry"
+          },
+          "coords": [
+            -3.498935,
+            50.542281
+          ],
+          "category": "recreational",
+          "arrive_at": "14:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.79,
+          "tip_5lang": {
+            "de": "Steigen Sie in eine der ältesten Passagierfähren Englands für eine malerische Flussüberquerung ein, aber halten Sie Bargeld bereit, da keine Karten akzeptiert werden.",
+            "hu": "Szálljon fel Anglia egyik legrégebbi kompjára egy gyors és festői folyami átkeléshez, de gondoskodjon némi aprópénzről, mivel kizárólag készpénzt fogadnak el.",
+            "ro": "Urcați-vă la bordul unuia dintre cele mai vechi feriboturi din Anglia pentru o traversare pitorească a râului, dar asigurați-vă că aveți numerar pentru a plăti biletul.",
+            "en": "Hop aboard one of England's oldest passenger ferries for a quick and scenic river crossing, but ensure you have a few coins handy as they only accept cash payments."
+          }
+        },
+        {
+          "name": {
+            "de": "Ness Beach",
+            "hu": "Ness Beach",
+            "ro": "Ness Beach",
+            "en": "Ness Beach"
+          },
+          "coords": [
+            -3.498724,
+            50.53452
+          ],
+          "category": "recreational",
+          "arrive_at": "15:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.86,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses versteckte Juwel durch einen alten Schmugglertunnel für ein einzigartiges Stranderlebnis, aber bringen Sie Proviant mit, da es wenig Anlagen gibt.",
+            "hu": "Ezt a rejtett gyöngyszemet egy régi csempészalagúton keresztül közelítheti meg; ne felejtsen el magával vinni minden szükséges felszerelést, mivel a szolgáltatások korlátozottak.",
+            "ro": "Accesați această bijuterie ascunsă printr-un vechi tunel de contrabandă pentru o experiență unică, dar aduceți-vă provizii, deoarece facilitățile sunt limitate aici.",
+            "en": "Access this hidden gem through an old smugglers' tunnel for a truly unique beach experience, and remember to pack all your provisions as facilities are limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Cherryred Beach",
+            "hu": "Cherryred Beach",
+            "ro": "Cherryred Beach",
+            "en": "Cherryred Beach"
+          },
+          "coords": [
+            -3.5038,
+            50.526449
+          ],
+          "category": "recreational",
+          "arrive_at": "16:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.96,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen abgelegenen Strand abseits der Touristenströme für absolute Ruhe und tragen Sie Wasserschuhe, um bequem über felsige Abschnitte zu laufen.",
+            "hu": "Fedezze fel ezt az eldugott partvonalat távol a főbb turistaközpontoktól a teljes nyugalomért, és viseljen masszív vizicipőt a sziklás részek kényelmes bejárásához.",
+            "ro": "Descoperiți acest țărm izolat departe de hub-urile turistice pentru o liniște supremă și purtați pantofi de apă rezistenți pentru a naviga confortabil zonele stâncoase.",
+            "en": "Discover this secluded shoreline away from the main tourist hubs for ultimate tranquility, and wear sturdy water shoes to comfortably navigate the rocky patches."
+          }
+        },
+        {
+          "name": {
+            "de": "East Pole Sand",
+            "hu": "East Pole Sand",
+            "ro": "East Pole Sand",
+            "en": "East Pole Sand"
+          },
+          "coords": [
+            -3.492104,
+            50.541059
+          ],
+          "category": "recreational",
+          "arrive_at": "18:13",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.83,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende Sandbank, die bei Ebbe für einen einzigartigen Spaziergang auftaucht, aber behalten Sie immer die nahende Flut im Auge.",
+            "hu": "Fedezze fel ezt a lenyűgöző árapály-homokpadot, amely apálykor bukkan elő, de mindig tartsa szemmel a közeledő dagályt a biztonságos visszatérés érdekében.",
+            "ro": "Explorați acest banc de nisip fascinant care apare la reflux pentru o plimbare unică, dar urmăriți mereu marea care crește pentru a asigura o întoarcere în siguranță.",
+            "en": "Explore this fascinating tidal sandbank that emerges at low water for a unique walk, but always keep a close watch on the incoming tide to ensure a safe return."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour im ruhigen Naturschutzgebiet, perfekt für einen morgendlichen Spaziergang, bevor Sie in die Stadt zur maritimen Geschichte fahren. \n\nDer Mittag verbindet die Atmosphäre des Teignmouth Pier mit einer malerischen Fahrt über die Mündungsbrücke zum Charme des gegenüberliegenden Ufers. \n\nDer Nachmittag bietet eine nostalgische Fährfahrt und einen Besuch des abgelegenen Ness Beach, gefolgt von einer Erkundung der Küste bei Cherryred. \n\nDer Abend gipfelt am einzigartigen Gezeitensand des East Pole, wo sich die Landschaft dramatisch verändert, während die Sonne über der Küste untergeht.",
+        "hu": "Kezdje autós túráját a békés természetvédelmi területen, amely tökéletes egy reggeli sétához, mielőtt a fővárosba indulna egy adag tengerészeti történelemért. \n\nA dél összeköti a Teignmouth móló vibráló hangulatát egy festői autózással a torkolati hídon át, átvezetve a túlpart bájos hangulatába. \n\nA délután egy nosztalgikus kompútat és a félreeső Ness strand meglátogatását kínálja, majd a meglepően csendes Cherryred partvidék felfedezését. \n\nAz este a különleges árapály-homokpadnál, az East Pole-nál csúcsosodik ki, figyelve a táj drámai változását a devoni naplemente fényében.",
+        "ro": "Începeți turul cu mașina la rezervația naturală, perfectă pentru o plimbare de dimineață, înainte de a vă îndrepta spre oraș pentru istoria maritimă. \n\nPrânzul conectează atmosfera vibrantă de la Teignmouth Pier cu o condusă pitorească peste pod, făcând tranziția către farmecul malului opus. \n\nDupă-amiaza include o plimbare nostalgică cu feribotul și o vizită la plaja izolată Ness, urmată de o explorare a litoralului liniștit Cherryred. \n\nSeara culminează la nisipurile unice ale East Pole, privind cum peisajul se schimbă dramatic pe măsură ce soarele apune peste frumoasa coastă.",
+        "en": "Begin your driving tour at the peaceful nature reserve, perfect for a family morning walk before heading into the main town for a dose of maritime history. \n\nMidday connects the vibrant atmosphere of the Teignmouth Pier with a scenic drive over the estuary bridge, transitioning to the charm of the opposite bank. \n\nAfternoon features a nostalgic ferry ride and a visit to the secluded Ness Beach, followed by an exploration of the surprisingly quiet Cherryred shoreline. \n\nEvening culminates at the unique tidal sands of the East Pole, watching the landscape shift dramatically as the sun sets over the beautiful Devon coast."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "behren-les-forbach",
+  "anchor": {
+    "name": "Behren-lès-Forbach",
+    "coords": [
+      6.9347,
+      49.1739
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:48",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Maison des Associations",
+            "hu": "Maison des Associations",
+            "ro": "Maison des Associations",
+            "en": "Maison des Associations"
+          },
+          "coords": [
+            6.934166,
+            49.172549
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Zentrum des lokalen Gemeinschaftslebens mit wechselnden Kulturveranstaltungen; prüfen Sie das Programmbrett am Eingang für aktuelle Termine.",
+            "hu": "Fedezze fel a helyi közösségi élet központját, ahol változatos kulturális események várják; nézze meg a bejáratnál lévő táblát az aktuális programokért.",
+            "ro": "Descoperiți inima vieții culturale locale prin expoziții și evenimente diverse; verificați avizierul de la intrare pentru a vedea programul zilei curente.",
+            "en": "Discover the heart of local community life through its cultural exhibits; check the bulletin board by the main entrance to catch any pop-up daily events."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Jean-Bosco",
+            "hu": "Église Saint-Jean-Bosco",
+            "ro": "Église Saint-Jean-Bosco",
+            "en": "Église Saint-Jean-Bosco"
+          },
+          "coords": [
+            6.933966,
+            49.169893
+          ],
+          "category": "religious",
+          "arrive_at": "10:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur dieser beeindruckenden Nachkriegskirche, und bringen Sie ein Weitwinkelobjektiv für die faszinierende Innenstruktur mit.",
+            "hu": "Csodálja meg ennek a modern, háború utáni templomnak az építészetét, és hozzon magával nagylátószögű objektívet a lenyűgöző belső tér megörökítéséhez.",
+            "ro": "Admirați arhitectura modernă a acestei biserici de după război și aduceți un obiectiv superangular pentru a fotografia structura interioară fascinantă.",
+            "en": "Admire the modern architectural lines of this postwar church, and bring a wide-angle lens to fully capture the fascinating details of its vast interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint Blaise Church",
+            "hu": "Saint Blaise Church",
+            "ro": "Saint Blaise Church",
+            "en": "Saint Blaise Church"
+          },
+          "coords": [
+            6.942945,
+            49.166964
+          ],
+          "category": "religious",
+          "arrive_at": "11:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Diese zentrale Kirche besticht durch ihre traditionelle Bauweise und ihre Buntglasfenster; besuchen Sie sie am späten Vormittag für das beste Sonnenlicht im Schiff.",
+            "hu": "A központi templom lenyűgöz a hagyományos építészetével és ólomüveg ablakaival; látogassa meg késő délelőtt, amikor a legszebben süt be a napfény a hajóba.",
+            "ro": "Biserica centrală atrage prin arhitectura tradițională și vitraliile superbe; vizitați-o spre prânz pentru a prinde cea mai bună lumină naturală în naos.",
+            "en": "This central church charms visitors with its traditional build and stained glass; visit in the late morning to experience the best sunlight inside the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Hubert",
+            "hu": "Église Saint-Hubert",
+            "ro": "Église Saint-Hubert",
+            "en": "Église Saint-Hubert"
+          },
+          "coords": [
+            6.961784,
+            49.178822
+          ],
+          "category": "religious",
+          "arrive_at": "12:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre an dieser charmanten Kirche mit ihrem ruhigen Vorplatz; setzen Sie sich auf die nahegelegene Bank, um den Moment auszukosten.",
+            "hu": "Élvezze a békés atmoszférát ennél a bájos templomnál és annak csendes előterénél; üljön le a közeli padra, és szánjon egy percet a teljes kikapcsolódásra.",
+            "ro": "Bucurați-vă de atmosfera pașnică a acestei biserici fermecătoare cu curtea sa liniștită; așezați-vă pe o bancă din apropiere pentru a savura momentul de calm.",
+            "en": "Enjoy the peaceful atmosphere at this charming church and its quiet front courtyard; grab a seat on the nearby bench to fully appreciate the serene setting."
+          }
+        },
+        {
+          "name": {
+            "de": "Memorial Jumelage Kerbach Saint-Laurent de Cognac",
+            "hu": "Memorial Jumelage Kerbach Saint-Laurent de Cognac",
+            "ro": "Memorial Jumelage Kerbach Saint-Laurent de Cognac",
+            "en": "Memorial Jumelage Kerbach Saint-Laurent de Cognac"
+          },
+          "coords": [
+            6.965942,
+            49.166708
+          ],
+          "category": "historical",
+          "arrive_at": "13:58",
+          "stay_min": 110,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Ehren Sie die europäische Freundschaft an diesem historischen Denkmal; lesen Sie die informativen Plaketten, um die tiefe Bedeutung der Städtepartnerschaft zu verstehen.",
+            "hu": "Tisztelgés az európai barátság előtt ezen a történelmi emlékművön; olvassa el az információs táblákat a testvérvárosi kapcsolat mélyebb megértése érdekében.",
+            "ro": "Onorați prietenia europeană la acest monument istoric deosebit; citiți plăcuțele informative pentru a înțelege semnificația profundă a înfrățirii locale.",
+            "en": "Honor European friendship at this quiet historical monument; take time to read the informative plaques to fully understand the local twinning relationship."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag in der Maison des Associations, einem kulturellen Zentrum, das die lokale Geschichte und Gemeinschaft beleuchtet. Anschließend spazieren Sie zur Église Saint-Jean-Bosco, wo Sie architektonische Details der Nachkriegszeit entdecken können. Nachmittags erwartet Sie die Saint Blaise Church, bevor Sie weiter zur Église Saint-Hubert mit ihrem charmanten Platz gehen. Zum Abschluss besichtigen Sie das Memorial Jumelage Kerbach, ein Symbol europäischer Freundschaft in ruhiger Umgebung.",
+        "hu": "Kezdje a napot a Maison des Associations kulturális központjában, amely bemutatja a helyi közösség sokszínű történetét. Ezután sétáljon át a közeli Église Saint-Jean-Bosco templomhoz. Délután csodálja meg a Saint Blaise Church nyugodt atmoszféráját, majd vegye az irányt az Église Saint-Hubert felé. A napot a Memorial Jumelage Kerbach emlékműnél zárja, amely a testvérvárosi kapcsolatoknak és az európai békének állít emléket.",
+        "ro": "Începeți ziua la Maison des Associations, un centru cultural plin de viață care reflectă istoria comunității locale. Continuați cu o plimbare scurtă până la Église Saint-Jean-Bosco, admirând liniștea sa. După-amiază, descoperiți farmecul bisericii Saint Blaise, urmată de vizita la Église Saint-Hubert cu piațeta sa primitoare. Seara se încheie la Memorial Jumelage Kerbach, un monument istoric ce celebrează prietenia europeană și pacea.",
+        "en": "Start your day at the Maison des Associations, exploring local cultural exhibits that reflect the community's rich heritage. Take a short stroll to the modern Église Saint-Jean-Bosco to enjoy its peaceful interior. In the afternoon, discover the classic architecture of Saint Blaise Church and the charming Église Saint-Hubert. Conclude your walking tour at the Memorial Jumelage Kerbach, a quiet historical landmark celebrating European friendship."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:18",
+      "total_km": 6.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Saint-Jean",
+            "hu": "Chapelle Saint-Jean",
+            "ro": "Chapelle Saint-Jean",
+            "en": "Chapelle Saint-Jean"
+          },
+          "coords": [
+            6.921789,
+            49.154922
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese kleine, idyllische Waldkapelle fernab des Trubels; tragen Sie festes Schuhwerk, da der Zugangsweg etwas uneben und naturbelassen sein kann.",
+            "hu": "Fedezze fel ezt az idilli erdei kápolnát, távol a város zajától; viseljen kényelmes, zárt cipőt, mivel a megközelítést biztosító ösvény kissé egyenetlen lehet.",
+            "ro": "Explorați această mică capelă idilică, departe de agitația orașului; purtați încălțăminte confortabilă, deoarece poteca de acces poate fi ușor denivelată.",
+            "en": "Explore this small, idyllic woodland chapel located away from the city bustle; wear sturdy walking shoes as the natural access path can be a bit uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-de-l'Assomption",
+            "hu": "Église Notre-Dame-de-l'Assomption",
+            "ro": "Église Notre-Dame-de-l'Assomption",
+            "en": "Église Notre-Dame-de-l'Assomption"
+          },
+          "coords": [
+            6.947867,
+            49.148709
+          ],
+          "category": "religious",
+          "arrive_at": "10:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die harmonische Fassade dieser beeindruckenden südlichen Kirche; spazieren Sie einmal komplett um das Gebäude, um alle architektonischen Details zu sehen.",
+            "hu": "Tekintse meg ennek a lenyűgöző déli templomnak a harmonikus homlokzatát; sétálja körbe teljesen az épületet, hogy minden építészeti részletet megfigyelhessen.",
+            "ro": "Observați fațada armonioasă a acestei impresionante biserici din sud; faceți un tur complet al clădirii pentru a nu rata niciun detaliu arhitectural ascuns.",
+            "en": "Observe the harmonious facade of this impressive southern church; take a walk entirely around the building to catch all the subtle architectural details."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint Blaise Church",
+            "hu": "Saint Blaise Church",
+            "ro": "Saint Blaise Church",
+            "en": "Saint Blaise Church"
+          },
+          "coords": [
+            6.942945,
+            49.166964
+          ],
+          "category": "religious",
+          "arrive_at": "10:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Diese zentrale Kirche besticht durch ihre traditionelle Bauweise und ihre Buntglasfenster; besuchen Sie sie am späten Vormittag für das beste Sonnenlicht im Schiff.",
+            "hu": "A központi templom lenyűgöz a hagyományos építészetével és ólomüveg ablakaival; látogassa meg késő délelőtt, amikor a legszebben süt be a napfény a hajóba.",
+            "ro": "Biserica centrală atrage prin arhitectura tradițională și vitraliile superbe; vizitați-o spre prânz pentru a prinde cea mai bună lumină naturală în naos.",
+            "en": "This central church charms visitors with its traditional build and stained glass; visit in the late morning to experience the best sunlight inside the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Jean-Bosco",
+            "hu": "Église Saint-Jean-Bosco",
+            "ro": "Église Saint-Jean-Bosco",
+            "en": "Église Saint-Jean-Bosco"
+          },
+          "coords": [
+            6.933966,
+            49.169893
+          ],
+          "category": "religious",
+          "arrive_at": "11:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur dieser beeindruckenden Nachkriegskirche, und bringen Sie ein Weitwinkelobjektiv für die faszinierende Innenstruktur mit.",
+            "hu": "Csodálja meg ennek a modern, háború utáni templomnak az építészetét, és hozzon magával nagylátószögű objektívet a lenyűgöző belső tér megörökítéséhez.",
+            "ro": "Admirați arhitectura modernă a acestei biserici de după război și aduceți un obiectiv superangular pentru a fotografia structura interioară fascinantă.",
+            "en": "Admire the modern architectural lines of this postwar church, and bring a wide-angle lens to fully capture the fascinating details of its vast interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison des Associations",
+            "hu": "Maison des Associations",
+            "ro": "Maison des Associations",
+            "en": "Maison des Associations"
+          },
+          "coords": [
+            6.934166,
+            49.172549
+          ],
+          "category": "cultural",
+          "arrive_at": "12:19",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Zentrum des lokalen Gemeinschaftslebens mit wechselnden Kulturveranstaltungen; prüfen Sie das Programmbrett am Eingang für aktuelle Termine.",
+            "hu": "Fedezze fel a helyi közösségi élet központját, ahol változatos kulturális események várják; nézze meg a bejáratnál lévő táblát az aktuális programokért.",
+            "ro": "Descoperiți inima vieții culturale locale prin expoziții și evenimente diverse; verificați avizierul de la intrare pentru a vedea programul zilei curente.",
+            "en": "Discover the heart of local community life through its cultural exhibits; check the bulletin board by the main entrance to catch any pop-up daily events."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Antoine-de-Padoue",
+            "hu": "Église Saint-Antoine-de-Padoue",
+            "ro": "Église Saint-Antoine-de-Padoue",
+            "en": "Église Saint-Antoine-de-Padoue"
+          },
+          "coords": [
+            6.911938,
+            49.170736
+          ],
+          "category": "religious",
+          "arrive_at": "14:08",
+          "stay_min": 70,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erleben Sie die spirituelle Ruhe dieser westlich gelegenen Pfarrkirche; treten Sie leise ein, um die meditative Stimmung in den frühen Morgenstunden zu bewahren.",
+            "hu": "Tapasztalja meg a nyugati fekvésű plébániatemplom spirituális nyugalmát; lépjen be csendesen, hogy megőrizze a kora reggeli órák meditatív és békés hangulatát.",
+            "ro": "Experimentați liniștea spirituală a acestei parohii din partea de vest; intrați discret pentru a păstra atmosfera meditativă și calmă a orelor dimineții.",
+            "en": "Experience the spiritual calm of this western parish church; enter quietly to preserve the deeply meditative atmosphere, especially during the early hours."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt an der abgelegenen Chapelle Saint-Jean, umgeben von ruhiger Natur am Stadtrand. Radeln Sie zügig zur Église Notre-Dame-de-l'Assomption, deren schlichte Eleganz beeindruckt. Mittags fahren Sie zur Saint Blaise Church und der nahegelegenen Église Saint-Jean-Bosco. Am Nachmittag bietet die Maison des Associations kulturelle Einblicke in die Region. Beenden Sie den Tag an der Église Saint-Antoine-de-Padoue im goldenen Abendlicht.",
+        "hu": "Indítsa kerékpártúráját a külvárosi Chapelle Saint-Jean kápolnánál, amely csendes erdei környezetben fekszik. Tekerjen el az Église Notre-Dame-de-l'Assomption épületéhez egy rövid pihenőre. Délben fedezze fel a Saint Blaise Church és az Église Saint-Jean-Bosco szépségét a központban. Délután a Maison des Associations kínál izgalmas kulturális programokat. A napot az Église Saint-Antoine-de-Padoue templomnál zárja, élvezve a naplemente fényeit.",
+        "ro": "Turul pe bicicletă începe la Chapelle Saint-Jean, o oază de liniște la marginea naturii, perfectă pentru dimineață. Pedalați apoi spre Église Notre-Dame-de-l'Assomption pentru a-i admira vitraliile. La prânz, vizitați biserica Saint Blaise și Église Saint-Jean-Bosco din zona centrală. După-amiaza este rezervată culturii la Maison des Associations. Încheiați traseul la Église Saint-Antoine-de-Padoue, profitând de atmosfera calmă a serii.",
+        "en": "Kick off your cycling route at the secluded Chapelle Saint-Jean, enjoying the tranquil suburban greenery before heading out. Ride smoothly to Église Notre-Dame-de-l'Assomption to admire its elegant structure. Midday brings you to the central Saint Blaise Church and Église Saint-Jean-Bosco. Spend your afternoon diving into local culture at Maison des Associations. Wrap up your active day at Église Saint-Antoine-de-Padoue as the evening sets in."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:24",
+      "total_km": 11.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Antoine-de-Padoue",
+            "hu": "Église Saint-Antoine-de-Padoue",
+            "ro": "Église Saint-Antoine-de-Padoue",
+            "en": "Église Saint-Antoine-de-Padoue"
+          },
+          "coords": [
+            6.911938,
+            49.170736
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die spirituelle Ruhe dieser westlich gelegenen Pfarrkirche; treten Sie leise ein, um die meditative Stimmung in den frühen Morgenstunden zu bewahren.",
+            "hu": "Tapasztalja meg a nyugati fekvésű plébániatemplom spirituális nyugalmát; lépjen be csendesen, hogy megőrizze a kora reggeli órák meditatív és békés hangulatát.",
+            "ro": "Experimentați liniștea spirituală a acestei parohii din partea de vest; intrați discret pentru a păstra atmosfera meditativă și calmă a orelor dimineții.",
+            "en": "Experience the spiritual calm of this western parish church; enter quietly to preserve the deeply meditative atmosphere, especially during the early hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Jean",
+            "hu": "Chapelle Saint-Jean",
+            "ro": "Chapelle Saint-Jean",
+            "en": "Chapelle Saint-Jean"
+          },
+          "coords": [
+            6.921789,
+            49.154922
+          ],
+          "category": "religious",
+          "arrive_at": "09:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese kleine, idyllische Waldkapelle fernab des Trubels; tragen Sie festes Schuhwerk, da der Zugangsweg etwas uneben und naturbelassen sein kann.",
+            "hu": "Fedezze fel ezt az idilli erdei kápolnát, távol a város zajától; viseljen kényelmes, zárt cipőt, mivel a megközelítést biztosító ösvény kissé egyenetlen lehet.",
+            "ro": "Explorați această mică capelă idilică, departe de agitația orașului; purtați încălțăminte confortabilă, deoarece poteca de acces poate fi ușor denivelată.",
+            "en": "Explore this small, idyllic woodland chapel located away from the city bustle; wear sturdy walking shoes as the natural access path can be a bit uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-de-l'Assomption",
+            "hu": "Église Notre-Dame-de-l'Assomption",
+            "ro": "Église Notre-Dame-de-l'Assomption",
+            "en": "Église Notre-Dame-de-l'Assomption"
+          },
+          "coords": [
+            6.947867,
+            49.148709
+          ],
+          "category": "religious",
+          "arrive_at": "10:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die harmonische Fassade dieser beeindruckenden südlichen Kirche; spazieren Sie einmal komplett um das Gebäude, um alle architektonischen Details zu sehen.",
+            "hu": "Tekintse meg ennek a lenyűgöző déli templomnak a harmonikus homlokzatát; sétálja körbe teljesen az épületet, hogy minden építészeti részletet megfigyelhessen.",
+            "ro": "Observați fațada armonioasă a acestei impresionante biserici din sud; faceți un tur complet al clădirii pentru a nu rata niciun detaliu arhitectural ascuns.",
+            "en": "Observe the harmonious facade of this impressive southern church; take a walk entirely around the building to catch all the subtle architectural details."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint Blaise Church",
+            "hu": "Saint Blaise Church",
+            "ro": "Saint Blaise Church",
+            "en": "Saint Blaise Church"
+          },
+          "coords": [
+            6.942945,
+            49.166964
+          ],
+          "category": "religious",
+          "arrive_at": "11:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Diese zentrale Kirche besticht durch ihre traditionelle Bauweise und ihre Buntglasfenster; besuchen Sie sie am späten Vormittag für das beste Sonnenlicht im Schiff.",
+            "hu": "A központi templom lenyűgöz a hagyományos építészetével és ólomüveg ablakaival; látogassa meg késő délelőtt, amikor a legszebben süt be a napfény a hajóba.",
+            "ro": "Biserica centrală atrage prin arhitectura tradițională și vitraliile superbe; vizitați-o spre prânz pentru a prinde cea mai bună lumină naturală în naos.",
+            "en": "This central church charms visitors with its traditional build and stained glass; visit in the late morning to experience the best sunlight inside the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Memorial Jumelage Kerbach Saint-Laurent de Cognac",
+            "hu": "Memorial Jumelage Kerbach Saint-Laurent de Cognac",
+            "ro": "Memorial Jumelage Kerbach Saint-Laurent de Cognac",
+            "en": "Memorial Jumelage Kerbach Saint-Laurent de Cognac"
+          },
+          "coords": [
+            6.965942,
+            49.166708
+          ],
+          "category": "historical",
+          "arrive_at": "12:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Ehren Sie die europäische Freundschaft an diesem historischen Denkmal; lesen Sie die informativen Plaketten, um die tiefe Bedeutung der Städtepartnerschaft zu verstehen.",
+            "hu": "Tisztelgés az európai barátság előtt ezen a történelmi emlékművön; olvassa el az információs táblákat a testvérvárosi kapcsolat mélyebb megértése érdekében.",
+            "ro": "Onorați prietenia europeană la acest monument istoric deosebit; citiți plăcuțele informative pentru a înțelege semnificația profundă a înfrățirii locale.",
+            "en": "Honor European friendship at this quiet historical monument; take time to read the informative plaques to fully understand the local twinning relationship."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Hubert",
+            "hu": "Église Saint-Hubert",
+            "ro": "Église Saint-Hubert",
+            "en": "Église Saint-Hubert"
+          },
+          "coords": [
+            6.961784,
+            49.178822
+          ],
+          "category": "religious",
+          "arrive_at": "13:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre an dieser charmanten Kirche mit ihrem ruhigen Vorplatz; setzen Sie sich auf die nahegelegene Bank, um den Moment auszukosten.",
+            "hu": "Élvezze a békés atmoszférát ennél a bájos templomnál és annak csendes előterénél; üljön le a közeli padra, és szánjon egy percet a teljes kikapcsolódásra.",
+            "ro": "Bucurați-vă de atmosfera pașnică a acestei biserici fermecătoare cu curtea sa liniștită; așezați-vă pe o bancă din apropiere pentru a savura momentul de calm.",
+            "en": "Enjoy the peaceful atmosphere at this charming church and its quiet front courtyard; grab a seat on the nearby bench to fully appreciate the serene setting."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison des Associations",
+            "hu": "Maison des Associations",
+            "ro": "Maison des Associations",
+            "en": "Maison des Associations"
+          },
+          "coords": [
+            6.934166,
+            49.172549
+          ],
+          "category": "cultural",
+          "arrive_at": "14:14",
+          "stay_min": 130,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Zentrum des lokalen Gemeinschaftslebens mit wechselnden Kulturveranstaltungen; prüfen Sie das Programmbrett am Eingang für aktuelle Termine.",
+            "hu": "Fedezze fel a helyi közösségi élet központját, ahol változatos kulturális események várják; nézze meg a bejáratnál lévő táblát az aktuális programokért.",
+            "ro": "Descoperiți inima vieții culturale locale prin expoziții și evenimente diverse; verificați avizierul de la intrare pentru a vedea programul zilei curente.",
+            "en": "Discover the heart of local community life through its cultural exhibits; check the bulletin board by the main entrance to catch any pop-up daily events."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Fahrt an der Église Saint-Antoine-de-Padoue und genießen Sie die morgendliche Ruhe im Westen der Stadt. Fahren Sie zur idyllischen Chapelle Saint-Jean und weiter zur Église Notre-Dame-de-l'Assomption im Süden. Nachmittags besuchen Sie die Saint Blaise Church und das Memorial Jumelage Kerbach, wo Sie mehr über die lokale Geschichte erfahren. Beenden Sie die Tour an der Église Saint-Hubert und im kulturellen Zentrum Maison des Associations.",
+        "hu": "Autós felfedezőútja az Église Saint-Antoine-de-Padoue templomnál kezdődik, mielőtt a déli Chapelle Saint-Jean felé venné az irányt. Látogassa meg az Église Notre-Dame-de-l'Assomption lenyűgöző épületét a déli órákban. Délután álljon meg a Saint Blaise Church-nél és a történelmi Memorial Jumelage Kerbach emlékműnél. A nap végén a pompás Église Saint-Hubert, valamint a Maison des Associations kulturális kiállításai várják a látogatókat.",
+        "ro": "Începeți traseul auto la Église Saint-Antoine-de-Padoue, savurând liniștea dimineții înainte de a conduce spre Chapelle Saint-Jean. La prânz, opriți-vă la Église Notre-Dame-de-l'Assomption din zona de sud. După-amiaza include o vizită la biserica Saint Blaise și o lecție de istorie la Memorial Jumelage Kerbach. Finalizați ziua cu arhitectura bisericii Saint-Hubert și o vizită culturală relaxantă la Maison des Associations.",
+        "en": "Begin your driving tour at Église Saint-Antoine-de-Padoue, absorbing the morning calm before driving south to Chapelle Saint-Jean. By midday, explore the serene grounds of Église Notre-Dame-de-l'Assomption. Your afternoon features the majestic Saint Blaise Church and a reflective pause at the Memorial Jumelage Kerbach. Conclude the itinerary with the elegant Église Saint-Hubert and an engaging visit to the Maison des Associations."
+      }
+    }
+  }
+}

@@ -1,0 +1,497 @@
+{
+  "city_id": "france-la-croix-valmer-cities-v2",
+  "anchor": {
+    "name": "La Croix-Valmer",
+    "coords": [
+      6.56767,
+      43.20803
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:20",
+      "total_km": 2.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Forum Constantin",
+            "hu": "Forum Constantin",
+            "ro": "Forum Constantin",
+            "en": "Forum Constantin"
+          },
+          "coords": [
+            6.567489,
+            43.206468
+          ],
+          "category": "cultural",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie das pulsierende Herz der Stadt an diesem lebhaften Kulturplatz und holen Sie sich in einem örtlichen Café einen frischen Kaffee vor der Tour.",
+            "hu": "Fedezze fel a város lüktető szívét ezen a nyüzsgő kulturális téren, és igyon egy friss kávét a helyi kávézóban, mielőtt elkezdené a nappali felfedezést.",
+            "ro": "Descoperiți inima vibrantă a orașului în această piață culturală plină de viață și savurați o cafea proaspătă la o cafenea locală înainte de a începe turul.",
+            "en": "Discover the vibrant heart of the town at this bustling cultural square, and grab a fresh coffee at a local café before starting your daytime explorations."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sainte-Croix",
+            "hu": "Église Sainte-Croix",
+            "ro": "Église Sainte-Croix",
+            "en": "Église Sainte-Croix"
+          },
+          "coords": [
+            6.568471,
+            43.204467
+          ],
+          "category": "religious",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne Architektur dieser friedlichen Kirche, die das lokale Erbe widerspiegelt, und denken Sie an angemessene Kleidung beim Besuch.",
+            "hu": "Csodálja meg e békés templom gyönyörű építészetét, amely a helyi örökséget tükrözi, és ne felejtsen el szerényen öltözködni, amikor belép a látogatáshoz.",
+            "ro": "Admirați arhitectura frumoasă a acestei biserici pașnice, care reflectă moștenirea locală, și nu uitați să vă îmbrăcați decent atunci când pășiți înăuntru.",
+            "en": "Admire the beautiful architecture of this peaceful church, which reflects the local heritage, and remember to dress modestly when stepping inside for a visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Pardigon",
+            "hu": "Pardigon",
+            "ro": "Pardigon",
+            "en": "Pardigon"
+          },
+          "coords": [
+            6.556215,
+            43.190302
+          ],
+          "category": "historical",
+          "arrive_at": "10:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Machen Sie an dieser faszinierenden historischen Stätte mit Ruinen aus der Römerzeit eine Reise in die Vergangenheit und tragen Sie bequeme Wanderschuhe.",
+            "hu": "Lépjen vissza az időben ezen a lenyűgöző római kori romokat bemutató történelmi helyszínen, és viseljen kényelmes sétacipőt, mivel a terep meglehetősen egyenetlen.",
+            "ro": "Întoarceți-vă în timp la acest sit istoric fascinant cu ruine din epoca romană și purtați încălțăminte confortabilă, deoarece terenul este destul de accidentat.",
+            "en": "Step back in time at this fascinating historical site detailing Roman-era ruins, and wear comfortable walking shoes as the surrounding terrain is quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Site Naturel Remarquable de Pardigon",
+            "hu": "Site Naturel Remarquable de Pardigon",
+            "ro": "Site Naturel Remarquable de Pardigon",
+            "en": "Site Naturel Remarquable de Pardigon"
+          },
+          "coords": [
+            6.554478,
+            43.189668
+          ],
+          "category": "natural",
+          "arrive_at": "12:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Atmen Sie die frische Küstenluft in diesem geschützten Naturschutzgebiet mit seiner atemberaubenden Artenvielfalt ein und bringen Sie ein Fernglas mit.",
+            "hu": "Szívja magába a friss parti levegőt ebben a lenyűgöző biodiverzitást kínáló védett természeti rezervátumban, és hozzon távcsövet a ritka helyi madarakhoz.",
+            "ro": "Respirați aerul proaspăt de coastă în această rezervație naturală protejată cu o biodiversitate uimitoare și aduceți un binoclu pentru a observa păsările.",
+            "en": "Breathe in the fresh coastal air at this protected natural reserve offering stunning biodiversity, and bring binoculars to spot the rare local bird species."
+          }
+        },
+        {
+          "name": {
+            "de": "Debarquement Beach",
+            "hu": "Debarquement Beach",
+            "ro": "Debarquement Beach",
+            "en": "Debarquement Beach"
+          },
+          "coords": [
+            6.557442,
+            43.188439
+          ],
+          "category": "recreational",
+          "arrive_at": "13:35",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den Sandstränden dieses historischen Strandes, der für die Landung der Alliierten berühmt ist, und packen Sie ausreichend Sonnencreme ein.",
+            "hu": "Pihenjen ezen a szövetségesek partraszállásáról híres történelmi strand homokos partján, és csomagoljon be rengeteg naptejet egy tökéletes délutáni napozáshoz.",
+            "ro": "Relaxați-vă pe țărmurile nisipoase ale acestei plaje istorice faimoase pentru debarcările aliate și luați suficientă cremă de protecție solară pentru o zi perfectă.",
+            "en": "Relax on the sandy shores of this historic beach famous for the Allied landings, and pack plenty of sunscreen and a towel for a perfect afternoon of sunbathing."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Spaziergang am belebten Forum Constantin und genießen Sie die Atmosphäre der Stadt.\n\nMittags verlassen Sie das Zentrum, um die faszinierenden antiken Ruinen und die historischen Wurzeln zu erkunden.\n\nVerbinden Sie sich am Nachmittag in den geschützten Küstenreservaten mit der Natur, wo Biodiversität auf das blaue Meer trifft.\n\nBeenden Sie den Tag an den historischen Ufern des Debarquement Beach und beobachten Sie einen wunderschönen Sonnenuntergang.",
+        "hu": "Kezdje sétáját a nyüzsgő Forum Constantin téren, hogy felszívja a helyi hangulatot és megcsodálja a templomot.\n\nDélben hagyja el a falut, és induljon az ősi romok felé, hogy felfedezze a régió történelmi gyökereit.\n\nDélután élvezze a természetet a védett partvidéki rezervátumokban, ahol a buja növényzet találkozik a tengerrel.\n\nZárja a napot a Debarquement Beach történelmi partjainál, megcsodálva a tenger feletti lenyűgöző naplementét.",
+        "ro": "Începeți plimbarea la vibrantul Forum Constantin, absorbind atmosfera locală înainte de a admira biserica.\n\nLa prânz, coborâți din centrul satului spre ruinele antice, explorând rădăcinile istorice profunde ale regiunii.\n\nDupă-amiaza, conectați-vă cu natura în rezervațiile de coastă protejate, unde biodiversitatea întâlnește marea.\n\nÎncheiați călătoria pe țărmurile istorice ale plajei Debarquement, urmărind un apus superb peste apele mării.",
+        "en": "Start your stroll at the bustling Forum Constantin, absorbing the local vibe before admiring the nearby church.\n\nMidday leads you from the village center towards ancient ruins, exploring the region's deep historical roots.\n\nIn the afternoon, connect with nature at the protected coastal reserves, where lush biodiversity meets the azure sea.\n\nConclude your journey on the historic shores of Debarquement Beach, watching a beautiful sunset over the calm waters."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 2.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ancienne Carrière de Serpentinite",
+            "hu": "Ancienne Carrière de Serpentinite",
+            "ro": "Ancienne Carrière de Serpentinite",
+            "en": "Ancienne Carrière de Serpentinite"
+          },
+          "coords": [
+            6.54499,
+            43.198837
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die einzigartigen geologischen Formationen dieses alten Serpentinsteinbruchs und bleiben Sie auf den markierten Wegen für einen sicheren Besuch.",
+            "hu": "Fedezze fel ennek a régi szerpentin kőbányának az egyedülálló geológiai képződményeit, és maradjon a kijelölt ösvényeken a sziklás terület biztonságos bejárásához.",
+            "ro": "Explorați formațiunile geologice unice ale acestei vechi cariere de serpentinit și rămâneți pe cărările marcate pentru a asigura o vizită sigură a zonei stâncoase.",
+            "en": "Explore the unique geological formations of this old serpentine quarry, and stick to the marked paths to ensure a safe and informative visit of the rocky area."
+          }
+        },
+        {
+          "name": {
+            "de": "chapelle pardigon",
+            "hu": "chapelle pardigon",
+            "ro": "chapelle pardigon",
+            "en": "chapelle pardigon"
+          },
+          "coords": [
+            6.547078,
+            43.191951
+          ],
+          "category": "landmark",
+          "arrive_at": "09:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese malerische, versteckte Kapelle für einen Moment der stillen Besinnung und versuchen Sie, früh am Morgen das weiche natürliche Licht zu genießen.",
+            "hu": "Látogasson el ebbe a fák között megbúvó festői kápolnába egy kis csendes elmélkedésre, és próbáljon kora reggel menni, hogy élvezze a leglágyabb természetes fényt.",
+            "ro": "Vizitați această capelă pitorească ascunsă printre copaci pentru un moment de reflecție și încercați să mergeți dimineața devreme pentru a vă bucura de lumină.",
+            "en": "Visit this quaint chapel hidden among the trees for a moment of quiet reflection, and try to go early in the morning to enjoy the softest natural lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Pardigon",
+            "hu": "Pardigon",
+            "ro": "Pardigon",
+            "en": "Pardigon"
+          },
+          "coords": [
+            6.556215,
+            43.190302
+          ],
+          "category": "historical",
+          "arrive_at": "10:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Machen Sie an dieser faszinierenden historischen Stätte mit Ruinen aus der Römerzeit eine Reise in die Vergangenheit und tragen Sie bequeme Wanderschuhe.",
+            "hu": "Lépjen vissza az időben ezen a lenyűgöző római kori romokat bemutató történelmi helyszínen, és viseljen kényelmes sétacipőt, mivel a terep meglehetősen egyenetlen.",
+            "ro": "Întoarceți-vă în timp la acest sit istoric fascinant cu ruine din epoca romană și purtați încălțăminte confortabilă, deoarece terenul este destul de accidentat.",
+            "en": "Step back in time at this fascinating historical site detailing Roman-era ruins, and wear comfortable walking shoes as the surrounding terrain is quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Site Naturel Remarquable de Pardigon",
+            "hu": "Site Naturel Remarquable de Pardigon",
+            "ro": "Site Naturel Remarquable de Pardigon",
+            "en": "Site Naturel Remarquable de Pardigon"
+          },
+          "coords": [
+            6.554478,
+            43.189668
+          ],
+          "category": "natural",
+          "arrive_at": "11:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Atmen Sie die frische Küstenluft in diesem geschützten Naturschutzgebiet mit seiner atemberaubenden Artenvielfalt ein und bringen Sie ein Fernglas mit.",
+            "hu": "Szívja magába a friss parti levegőt ebben a lenyűgöző biodiverzitást kínáló védett természeti rezervátumban, és hozzon távcsövet a ritka helyi madarakhoz.",
+            "ro": "Respirați aerul proaspăt de coastă în această rezervație naturală protejată cu o biodiversitate uimitoare și aduceți un binoclu pentru a observa păsările.",
+            "en": "Breathe in the fresh coastal air at this protected natural reserve offering stunning biodiversity, and bring binoculars to spot the rare local bird species."
+          }
+        },
+        {
+          "name": {
+            "de": "Debarquement Beach",
+            "hu": "Debarquement Beach",
+            "ro": "Debarquement Beach",
+            "en": "Debarquement Beach"
+          },
+          "coords": [
+            6.557442,
+            43.188439
+          ],
+          "category": "recreational",
+          "arrive_at": "12:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den Sandstränden dieses historischen Strandes, der für die Landung der Alliierten berühmt ist, und packen Sie ausreichend Sonnencreme ein.",
+            "hu": "Pihenjen ezen a szövetségesek partraszállásáról híres történelmi strand homokos partján, és csomagoljon be rengeteg naptejet egy tökéletes délutáni napozáshoz.",
+            "ro": "Relaxați-vă pe țărmurile nisipoase ale acestei plaje istorice faimoase pentru debarcările aliate și luați suficientă cremă de protecție solară pentru o zi perfectă.",
+            "en": "Relax on the sandy shores of this historic beach famous for the Allied landings, and pack plenty of sunscreen and a towel for a perfect afternoon of sunbathing."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Bouillabaisse",
+            "hu": "Plage de la Bouillabaisse",
+            "ro": "Plage de la Bouillabaisse",
+            "en": "Plage de la Bouillabaisse"
+          },
+          "coords": [
+            6.566652,
+            43.187949
+          ],
+          "category": "recreational",
+          "arrive_at": "14:09",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem unberührten Strand, der für sein kristallklares Wasser bekannt ist, und mieten Sie ein Paddleboard, um die sanften Wellen zu genießen.",
+            "hu": "Kapcsolódjon ki ezen a kristálytiszta vizéről híres, érintetlen strandon, és béreljen egy evezős deszkát a helyi árustól, hogy teljes mértékben élvezhesse a tengert.",
+            "ro": "Relaxați-vă pe această plajă imaculată renumită pentru apele sale cristaline și închiriați o placă de surf pentru a vă bucura din plin de valurile blânde ale mării.",
+            "en": "Unwind at this pristine recreational beach renowned for its crystal-clear waters, and rent a paddleboard from a local vendor to fully enjoy the gentle sea waves."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt ins Landesinnere, um die Schönheit eines historischen Steinbruchs und einer versteckten Kapelle zu sehen.\n\nRadeln Sie zur Küste und tauchen Sie in die faszinierende römische Geschichte dieser malerischen Mittelmeerlandschaft ein.\n\nFahren Sie entlang atemberaubender Naturschutzgebiete von geschützten Parklandschaften zu sonnenverwöhnten, weichen Sandstränden.\n\nBeenden Sie Ihren aktiven Tag an den schönen Ufern der Bouillabaisse und genießen Sie den Sonnenuntergang vor der Rückkehr.",
+        "hu": "Kezdje a túrát a szárazföld belsejében, felfedezve egy történelmi kőbánya vad szépségét és egy rejtett kápolnát.\n\nPedálozzon a part felé, elmerülve a festői mediterrán tájat formáló lenyűgöző római történelemben.\n\nKerékpározzon a lélegzetelállító természeti rezervátumok mentén, eljutva a védett parkoktól a napsütötte strandokig.\n\nZárja aktív napját a Bouillabaisse gyönyörű partjainál, élvezve a tengerparti naplementét a visszaindulás előtt.",
+        "ro": "Începeți plimbarea spre interior pentru a descoperi frumusețea unei cariere istorice și a unei capele ascunse senine.\n\nPedalați spre coastă, aprofundând istoria romană fascinantă care a modelat acest peisaj mediteranean pitoresc.\n\nMergeți de-a lungul rezervațiilor naturale uluitoare, trecând de la parcurile protejate la plajele moi și însorite.\n\nÎncheiați ziua activă relaxându-vă pe țărmurile frumoase de la Bouillabaisse, bucurându-vă de apus înainte de a vă întoarce.",
+        "en": "Kick off your ride heading inland to discover the rugged beauty of a historic serpentine quarry and a serene hidden chapel.\n\nPedal towards the coast, delving into the fascinating Roman history that shaped this picturesque Mediterranean landscape.\n\nRide along the breathtaking natural reserves, smoothly transitioning from protected parklands to soft, sun-drenched beaches.\n\nEnd your active day stretching out along the beautiful shores of Bouillabaisse, enjoying a coastal sunset before cycling back."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 6.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Forum Constantin",
+            "hu": "Forum Constantin",
+            "ro": "Forum Constantin",
+            "en": "Forum Constantin"
+          },
+          "coords": [
+            6.567489,
+            43.206468
+          ],
+          "category": "cultural",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das pulsierende Herz der Stadt an diesem lebhaften Kulturplatz und holen Sie sich in einem örtlichen Café einen frischen Kaffee vor der Tour.",
+            "hu": "Fedezze fel a város lüktető szívét ezen a nyüzsgő kulturális téren, és igyon egy friss kávét a helyi kávézóban, mielőtt elkezdené a nappali felfedezést.",
+            "ro": "Descoperiți inima vibrantă a orașului în această piață culturală plină de viață și savurați o cafea proaspătă la o cafenea locală înainte de a începe turul.",
+            "en": "Discover the vibrant heart of the town at this bustling cultural square, and grab a fresh coffee at a local café before starting your daytime explorations."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sainte-Croix",
+            "hu": "Église Sainte-Croix",
+            "ro": "Église Sainte-Croix",
+            "en": "Église Sainte-Croix"
+          },
+          "coords": [
+            6.568471,
+            43.204467
+          ],
+          "category": "religious",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne Architektur dieser friedlichen Kirche, die das lokale Erbe widerspiegelt, und denken Sie an angemessene Kleidung beim Besuch.",
+            "hu": "Csodálja meg e békés templom gyönyörű építészetét, amely a helyi örökséget tükrözi, és ne felejtsen el szerényen öltözködni, amikor belép a látogatáshoz.",
+            "ro": "Admirați arhitectura frumoasă a acestei biserici pașnice, care reflectă moștenirea locală, și nu uitați să vă îmbrăcați decent atunci când pășiți înăuntru.",
+            "en": "Admire the beautiful architecture of this peaceful church, which reflects the local heritage, and remember to dress modestly when stepping inside for a visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Ancienne Carrière de Serpentinite",
+            "hu": "Ancienne Carrière de Serpentinite",
+            "ro": "Ancienne Carrière de Serpentinite",
+            "en": "Ancienne Carrière de Serpentinite"
+          },
+          "coords": [
+            6.54499,
+            43.198837
+          ],
+          "category": "landmark",
+          "arrive_at": "10:26",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die einzigartigen geologischen Formationen dieses alten Serpentinsteinbruchs und bleiben Sie auf den markierten Wegen für einen sicheren Besuch.",
+            "hu": "Fedezze fel ennek a régi szerpentin kőbányának az egyedülálló geológiai képződményeit, és maradjon a kijelölt ösvényeken a sziklás terület biztonságos bejárásához.",
+            "ro": "Explorați formațiunile geologice unice ale acestei vechi cariere de serpentinit și rămâneți pe cărările marcate pentru a asigura o vizită sigură a zonei stâncoase.",
+            "en": "Explore the unique geological formations of this old serpentine quarry, and stick to the marked paths to ensure a safe and informative visit of the rocky area."
+          }
+        },
+        {
+          "name": {
+            "de": "chapelle pardigon",
+            "hu": "chapelle pardigon",
+            "ro": "chapelle pardigon",
+            "en": "chapelle pardigon"
+          },
+          "coords": [
+            6.547078,
+            43.191951
+          ],
+          "category": "landmark",
+          "arrive_at": "10:53",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese malerische, versteckte Kapelle für einen Moment der stillen Besinnung und versuchen Sie, früh am Morgen das weiche natürliche Licht zu genießen.",
+            "hu": "Látogasson el ebbe a fák között megbúvó festői kápolnába egy kis csendes elmélkedésre, és próbáljon kora reggel menni, hogy élvezze a leglágyabb természetes fényt.",
+            "ro": "Vizitați această capelă pitorească ascunsă printre copaci pentru un moment de reflecție și încercați să mergeți dimineața devreme pentru a vă bucura de lumină.",
+            "en": "Visit this quaint chapel hidden among the trees for a moment of quiet reflection, and try to go early in the morning to enjoy the softest natural lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Pardigon",
+            "hu": "Pardigon",
+            "ro": "Pardigon",
+            "en": "Pardigon"
+          },
+          "coords": [
+            6.556215,
+            43.190302
+          ],
+          "category": "historical",
+          "arrive_at": "11:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Machen Sie an dieser faszinierenden historischen Stätte mit Ruinen aus der Römerzeit eine Reise in die Vergangenheit und tragen Sie bequeme Wanderschuhe.",
+            "hu": "Lépjen vissza az időben ezen a lenyűgöző római kori romokat bemutató történelmi helyszínen, és viseljen kényelmes sétacipőt, mivel a terep meglehetősen egyenetlen.",
+            "ro": "Întoarceți-vă în timp la acest sit istoric fascinant cu ruine din epoca romană și purtați încălțăminte confortabilă, deoarece terenul este destul de accidentat.",
+            "en": "Step back in time at this fascinating historical site detailing Roman-era ruins, and wear comfortable walking shoes as the surrounding terrain is quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Site Naturel Remarquable de Pardigon",
+            "hu": "Site Naturel Remarquable de Pardigon",
+            "ro": "Site Naturel Remarquable de Pardigon",
+            "en": "Site Naturel Remarquable de Pardigon"
+          },
+          "coords": [
+            6.554478,
+            43.189668
+          ],
+          "category": "natural",
+          "arrive_at": "12:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Atmen Sie die frische Küstenluft in diesem geschützten Naturschutzgebiet mit seiner atemberaubenden Artenvielfalt ein und bringen Sie ein Fernglas mit.",
+            "hu": "Szívja magába a friss parti levegőt ebben a lenyűgöző biodiverzitást kínáló védett természeti rezervátumban, és hozzon távcsövet a ritka helyi madarakhoz.",
+            "ro": "Respirați aerul proaspăt de coastă în această rezervație naturală protejată cu o biodiversitate uimitoare și aduceți un binoclu pentru a observa păsările.",
+            "en": "Breathe in the fresh coastal air at this protected natural reserve offering stunning biodiversity, and bring binoculars to spot the rare local bird species."
+          }
+        },
+        {
+          "name": {
+            "de": "Debarquement Beach",
+            "hu": "Debarquement Beach",
+            "ro": "Debarquement Beach",
+            "en": "Debarquement Beach"
+          },
+          "coords": [
+            6.557442,
+            43.188439
+          ],
+          "category": "recreational",
+          "arrive_at": "13:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den Sandstränden dieses historischen Strandes, der für die Landung der Alliierten berühmt ist, und packen Sie ausreichend Sonnencreme ein.",
+            "hu": "Pihenjen ezen a szövetségesek partraszállásáról híres történelmi strand homokos partján, és csomagoljon be rengeteg naptejet egy tökéletes délutáni napozáshoz.",
+            "ro": "Relaxați-vă pe țărmurile nisipoase ale acestei plaje istorice faimoase pentru debarcările aliate și luați suficientă cremă de protecție solară pentru o zi perfectă.",
+            "en": "Relax on the sandy shores of this historic beach famous for the Allied landings, and pack plenty of sunscreen and a towel for a perfect afternoon of sunbathing."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Vergeron",
+            "hu": "Plage du Vergeron",
+            "ro": "Plage du Vergeron",
+            "en": "Plage du Vergeron"
+          },
+          "coords": [
+            6.574883,
+            43.187797
+          ],
+          "category": "recreational",
+          "arrive_at": "15:16",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen an diesem abgelegenen, von üppigem Grün umrahmten Strandufer und bringen Sie Ihre eigenen Snacks mit, da es hier kaum Restaurants gibt.",
+            "hu": "Meneküljön el a tömeg elől ezen a buja növényzettel keretezett, félreeső partszakaszon, és hozzon magával saját rágcsálnivalót, mivel itt kevés az étkezési lehetőség.",
+            "ro": "Scăpați de aglomerație pe acest țărm retras, încadrat de verdeață luxuriantă, și aduceți propriile gustări, deoarece opțiunile de luat masa sunt foarte limitate aici.",
+            "en": "Escape the crowds at this secluded recreational shoreline framed by lush greenery, and bring your own snacks as there are very limited dining options directly here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Roadtrip mit den architektonischen Highlights der Stadt, bevor Sie zu den Denkmälern im Inland fahren.\n\nFahren Sie in die Küstenebenen, um bedeutende antike Ruinen zu entdecken, die von der reichen Vergangenheit der Region erzählen.\n\nDie Reise geht weiter in herrliche Naturschutzgebiete, wo Sie direkt an den Stränden historischer Landungen parken können.\n\nBeenden Sie Ihre Tour am abgelegenen Plage du Vergeron und genießen Sie die abendliche Ruhe am Horizont des Mittelmeers.",
+        "hu": "Kezdje autós utazását a főváros építészeti látványosságaival, mielőtt a szárazföld lenyűgöző nevezetességei felé venné az irányt.\n\nVezessen a tengerparti síkságra, hogy felfedezze a régió gazdag múltjáról mesélő jelentős történelmi romokat.\n\nAz utazás csodálatos természetvédelmi területeken folytatódik, ahol egyenesen a történelmi partraszállások homokjára léphet.\n\nFejezze be átfogó túráját a félreeső Plage du Vergeron strandján, élvezve a csendes esti tengeri horizontot a visszatérés előtt.",
+        "ro": "Începeți călătoria cu atracțiile arhitecturale ale orașului principal înainte de a conduce spre reperele din interior.\n\nConduceți spre câmpiile de coastă pentru a descoperi ruine antice, explorând locuri care povestesc trecutul bogat al zonei.\n\nTraseul continuă în rezervații naturale magnifice, unde puteți parca și păși direct pe nisipurile debarcărilor istorice.\n\nTerminați turul cuprinzător la izolata Plage du Vergeron, bucurându-vă de orizonturile pașnice ale mării pe timp de seară.",
+        "en": "Start your road trip with the architectural highlights of the main town before driving towards the intriguing inland landmarks.\n\nDrive to the coastal plains to uncover significant ancient ruins, hopping between sites that narrate the area's rich past.\n\nThe journey continues into magnificent natural reserves, where you can park and step right onto sands of historical landings.\n\nFinish your comprehensive tour cruising to the secluded Plage du Vergeron, enjoying peaceful evening sea horizons."
+      }
+    }
+  }
+}

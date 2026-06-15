@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-caldes-d-estrac-cities-v2",
+  "anchor": {
+    "name": "Caldes d'Estrac",
+    "coords": [
+      2.52776,
+      41.57198
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:14",
+      "total_km": 2.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Fundació Palau i Fabre",
+            "hu": "Fundació Palau i Fabre",
+            "ro": "Fundació Palau i Fabre",
+            "en": "Fundació Palau i Fabre"
+          },
+          "coords": [
+            2.527715,
+            41.571105
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine der bedeutendsten Picasso-Sammlungen Kataloniens in dieser Kulturstiftung und beginnen Sie am besten in der obersten Etage für den besten Überblick.",
+            "hu": "Fedezze fel Katalónia egyik legjelentősebb Picasso-gyűjteményét ebben a kulturális alapítványban, és kezdje a legfelső emeleten a művek időrendi megértéséhez.",
+            "ro": "Explorați una dintre cele mai importante colecții Picasso din Catalonia în această fundație și începeți de la ultimul etaj pentru a înțelege evoluția cronologică a artei.",
+            "en": "Explore one of Catalonia's most significant Picasso collections in this cultural foundation, and consider starting on the top floor to appreciate the chronological flow."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de Can Valls",
+            "hu": "Torre de Can Valls",
+            "ro": "Torre de Can Valls",
+            "en": "Torre de Can Valls"
+          },
+          "coords": [
+            2.514994,
+            41.567597
+          ],
+          "category": "monument",
+          "arrive_at": "11:07",
+          "stay_min": 15,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen markanten historischen Wachturm, der einst die Küste vor Piratenangriffen schützte, und machen Sie die besten Fotos vom südlichen Garten aus.",
+            "hu": "Csodálja meg ezt a történelmi őrtornyot, amely egykor a partot védte a kalóztámadásoktól, és ne feledje, hogy a legjobb fotókat a déli kert felől készítheti.",
+            "ro": "Admirați acest turn de veghe istoric care apăra cândva coasta de atacurile piraților, având în vedere că cele mai bune fotografii pot fi realizate din grădina sudică.",
+            "en": "Admire this striking historical watchtower that once defended the coastline against pirate attacks, noting that the best photos are taken from the southern garden angle."
+          }
+        },
+        {
+          "name": {
+            "de": "Can Ripoll",
+            "hu": "Can Ripoll",
+            "ro": "Can Ripoll",
+            "en": "Can Ripoll"
+          },
+          "coords": [
+            2.510321,
+            41.565832
+          ],
+          "category": "historical",
+          "arrive_at": "11:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betrachten Sie die architektonischen Details dieses gut erhaltenen historischen Herrenhauses und gehen Sie auf die andere Straßenseite, um die symmetrische Fassade zu sehen.",
+            "hu": "Figyelje meg ennek a jól karbantartott történelmi kúriának a részleteit, és feltétlenül lépjen át az utca túloldalára, hogy teljes egészében lássa a szimmetrikus homlokzatot.",
+            "ro": "Observați detaliile arhitecturale complexe ale acestui conac istoric bine conservat, trecând pe partea opusă a străzii pentru a fotografia fațada sa perfect simetrică.",
+            "en": "Observe the intricate architectural details of this well-preserved historical mansion, making sure to step back across the street to capture its symmetrical facade fully."
+          }
+        },
+        {
+          "name": {
+            "de": "El Forn",
+            "hu": "El Forn",
+            "ro": "El Forn",
+            "en": "El Forn"
+          },
+          "coords": [
+            2.507052,
+            41.564526
+          ],
+          "category": "historical",
+          "arrive_at": "12:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Überreste der traditionellen lokalen Industrie an diesem historischen Gemeinschaftsofen und lesen Sie die nahegelegene Tafel für weitere Informationen.",
+            "hu": "Fedezze fel a helyi ipar hagyományait ezen a történelmi közösségi kemencénél, ahol a közeli emléktábla elolvasása elengedhetetlen a falusi mindennapok megértéséhez.",
+            "ro": "Descoperiți vestigiile industriei tradiționale locale la acest cuptor comunal istoric, unde citirea plăcii informative din apropiere oferă context despre viața satului.",
+            "en": "Discover the remnants of traditional local industry at this historic communal oven site, where reading the nearby plaque provides essential context about daily village life."
+          }
+        },
+        {
+          "name": {
+            "de": "Can Mir",
+            "hu": "Can Mir",
+            "ro": "Can Mir",
+            "en": "Can Mir"
+          },
+          "coords": [
+            2.50574,
+            41.570729
+          ],
+          "category": "historical",
+          "arrive_at": "14:24",
+          "stay_min": 110,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die ländliche Vergangenheit ein, wenn Sie dieses charmante Anwesen besuchen, und achten Sie besonders auf die originalen Steinmetzarbeiten über dem Haupteingang.",
+            "hu": "Lépjen be a vidéki múltba, amikor meglátogatja ezt a bájos örökségi birtokot, és figyelje meg a főbejárat feletti eredeti kőfaragásokat, amelyek hosszú történelméről mesélnek.",
+            "ro": "Pășiți în trecutul rural vizitând această proprietate de patrimoniu fermecătoare, fiind atenți la sculpturile originale în piatră de deasupra intrării principale istorice.",
+            "en": "Step into the rural past by visiting this charming heritage property, keeping an eye out for the original stone carvings above the main entrance that tell its long history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie Ihren Tag mit Weltklasse-Kunst in der Stiftung Palau i Fabre, bevor Sie zum historischen Torre de Can Valls spazieren. Mittag: Schlendern Sie in Richtung Süden, um die klassischen Proportionen von Can Ripoll in der Mittagssonne zu bewundern. Nachmittag: Entdecken Sie die faszinierende Industriegeschichte am historischen Ofen El Forn. Abend: Beenden Sie Ihren Rundgang am eleganten Can Mir und lassen Sie das ländliche Erbe der Region in der friedlichen Abenddämmerung auf sich wirken.",
+        "hu": "Reggel: Kezdje a napot világszínvonalú művészettel a Palau i Fabre Alapítványnál, mielőtt elsétál a történelmi Torre de Can Valls irányába. Dél: Sétáljon dél felé, hogy megcsodálja a Can Ripoll klasszikus arányait, ahogy a mediterrán nap magasra hág. Délután: Fedezze fel a lenyűgöző ipari történelmet, amelyet a helyi El Forn őriz. Este: Fejezze be gyalogtúráját az elegáns Can Mirnél, és elmélkedjen a régió vidéki örökségén a békés alkonyatban.",
+        "ro": "Dimineața: Începeți ziua cu arta de renume mondial la Fundația Palau i Fabre, înainte de a vă plimba spre istoricul Torre de Can Valls. Prânz: Plimbați-vă spre sud pentru a admira proporțiile clasice ale Can Ripoll, în timp ce soarele mediteranean urcă pe cer. După-amiaza: Descoperiți istoria industrială fascinantă păstrată la situl local El Forn. Seara: Încheiați turul de plimbare la elegantul Can Mir, reflectând la moștenirea rurală a regiunii în crepusculul liniștit.",
+        "en": "Morning: Begin your day immersing yourself in world-class art at the Palau i Fabre Foundation, before strolling through the sunny streets towards the historic Torre de Can Valls. Midday: Wander southwards to admire the classic proportions of Can Ripoll as the Mediterranean sun climbs high. Afternoon: Discover the fascinating industrial history preserved at the local El Forn site. Evening: Conclude your walking tour at the elegant Can Mir, reflecting on the region's rural heritage in the peaceful twilight."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:33",
+      "total_km": 3.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fundació Palau i Fabre",
+            "hu": "Fundació Palau i Fabre",
+            "ro": "Fundació Palau i Fabre",
+            "en": "Fundació Palau i Fabre"
+          },
+          "coords": [
+            2.527715,
+            41.571105
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine der bedeutendsten Picasso-Sammlungen Kataloniens in dieser Kulturstiftung und beginnen Sie am besten in der obersten Etage für den besten Überblick.",
+            "hu": "Fedezze fel Katalónia egyik legjelentősebb Picasso-gyűjteményét ebben a kulturális alapítványban, és kezdje a legfelső emeleten a művek időrendi megértéséhez.",
+            "ro": "Explorați una dintre cele mai importante colecții Picasso din Catalonia în această fundație și începeți de la ultimul etaj pentru a înțelege evoluția cronologică a artei.",
+            "en": "Explore one of Catalonia's most significant Picasso collections in this cultural foundation, and consider starting on the top floor to appreciate the chronological flow."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de Can Valls",
+            "hu": "Torre de Can Valls",
+            "ro": "Torre de Can Valls",
+            "en": "Torre de Can Valls"
+          },
+          "coords": [
+            2.514994,
+            41.567597
+          ],
+          "category": "monument",
+          "arrive_at": "10:56",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen markanten historischen Wachturm, der einst die Küste vor Piratenangriffen schützte, und machen Sie die besten Fotos vom südlichen Garten aus.",
+            "hu": "Csodálja meg ezt a történelmi őrtornyot, amely egykor a partot védte a kalóztámadásoktól, és ne feledje, hogy a legjobb fotókat a déli kert felől készítheti.",
+            "ro": "Admirați acest turn de veghe istoric care apăra cândva coasta de atacurile piraților, având în vedere că cele mai bune fotografii pot fi realizate din grădina sudică.",
+            "en": "Admire this striking historical watchtower that once defended the coastline against pirate attacks, noting that the best photos are taken from the southern garden angle."
+          }
+        },
+        {
+          "name": {
+            "de": "Sant Vicenç de Montalt",
+            "hu": "Sant Vicenç de Montalt",
+            "ro": "Sant Vicenç de Montalt",
+            "en": "Sant Vicenç de Montalt"
+          },
+          "coords": [
+            2.509411,
+            41.578521
+          ],
+          "category": "religious",
+          "arrive_at": "11:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese ruhige Pfarrkirche mit ihren gotischen Elementen, die die Gemeinde verankert, und versuchen Sie kurz vor Mittag dort zu sein, um die Glocken zu hören.",
+            "hu": "Látogassa meg ezt a békés plébániatemplomot, amely gótikus elemeivel a helyi közösség központja, és próbáljon meg dél előtt érkezni, hogy hallja a hagyományos harangszót.",
+            "ro": "Vizitați această biserică parohială liniștită care ancorează comunitatea cu elementele sale gotice și încercați să ajungeți chiar înainte de prânz pentru a auzi clopotele.",
+            "en": "Visit this serene parish church that anchors the local community with its timeless Gothic elements, and try to arrive just before noon to hear the traditional bell ringing."
+          }
+        },
+        {
+          "name": {
+            "de": "Can Gasull",
+            "hu": "Can Gasull",
+            "ro": "Can Gasull",
+            "en": "Can Gasull"
+          },
+          "coords": [
+            2.510596,
+            41.579804
+          ],
+          "category": "historical",
+          "arrive_at": "11:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die großartigen Proportionen dieses bemerkenswerten Adelssitzes und nehmen Sie sich einen Moment Zeit, um die restaurierten schmiedeeisernen Balkone zu betrachten.",
+            "hu": "Értékelje e figyelemre méltó nemesi rezidencia nagyszerű arányait, és szánjon egy percet arra, hogy megfigyelje a külsejét jellemző, gyönyörűen felújított kovácsoltvas erkélyeket.",
+            "ro": "Apreciați proporțiile grandioase ale acestei reședințe nobiliare remarcabile, făcându-vă timp pentru a admira balcoanele din fier forjat frumos restaurate de la exterior.",
+            "en": "Appreciate the grand proportions of this notable noble residence, taking a moment to notice the beautifully restored wrought-iron balconies that characterize its exterior."
+          }
+        },
+        {
+          "name": {
+            "de": "Ca l'Angeleta Neula",
+            "hu": "Ca l'Angeleta Neula",
+            "ro": "Ca l'Angeleta Neula",
+            "en": "Ca l'Angeleta Neula"
+          },
+          "coords": [
+            2.507145,
+            41.580722
+          ],
+          "category": "historical",
+          "arrive_at": "13:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Untersuchen Sie den malerischen Charme dieses traditionellen katalanischen Stadthauses und bringen Sie ein Weitwinkelobjektiv mit, um die engen Gassen optimal zu fotografieren.",
+            "hu": "Vizsgálja meg ennek a hagyományos katalán városi háznak a festői varázsát, figyelje meg a jellegzetes ablakkereteket, és hozzon magával nagylátószögű objektívet a fotózáshoz.",
+            "ro": "Examinați farmecul pitoresc al acestei case tradiționale catalane, observând ancadramentele ferestrelor și aducând un obiectiv cu unghi larg pentru a fotografia strada.",
+            "en": "Examine the quaint charm of this traditional Catalan townhome, noting the characteristic window framing and bringing a wide-angle lens to photograph the narrow street layout."
+          }
+        },
+        {
+          "name": {
+            "de": "Can Riera",
+            "hu": "Can Riera",
+            "ro": "Can Riera",
+            "en": "Can Riera"
+          },
+          "coords": [
+            2.50729,
+            41.577019
+          ],
+          "category": "historical",
+          "arrive_at": "14:43",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour an diesem eleganten Landsitz, der die regionale Architektur veranschaulicht, und genießen Sie den schattigen Zugangsweg für einen erfrischenden Spaziergang.",
+            "hu": "Fejezze be túráját ezen az elegáns vidéki birtokon, amely a regionális építészetet példázza, és élvezze az árnyékos bekötőutat, amely frissítő délutáni sétát kínál a melegben.",
+            "ro": "Încheiați turul la acest conac elegant care exemplifică arhitectura regională de patrimoniu și bucurați-vă de aleea de acces umbrită care oferă o plimbare răcoroasă perfectă.",
+            "en": "Finish your tour at this elegant country estate that exemplifies regional heritage architecture, and enjoy the shaded approach path which offers a refreshing afternoon stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Starten Sie Ihr Radabenteuer in der renommierten Stiftung Palau i Fabre und fahren Sie anschließend zügig zum historischen Torre de Can Valls. Mittag: Radeln Sie landeinwärts zur ruhigen Kirche von Sant Vicenç de Montalt für einen Moment der Stille. Nachmittag: Fahren Sie durch historische Straßen und bewundern Sie die Fassaden von Can Gasull und Ca l'Angeleta Neula. Abend: Beenden Sie Ihre luftige Fahrt am herrlichen Can Riera und genießen Sie die friedliche Atmosphäre der Landschaft bei Sonnenuntergang.",
+        "hu": "Reggel: Indítsa kerékpáros kalandját a Palau i Fabre Alapítvány lenyűgöző kulturális élményével, majd tekerjen a Torre de Can Valls őrtoronyhoz. Dél: Kerekezzen a szárazföld belseje felé a békés Sant Vicenç de Montalt templomhoz egy kis csendes elmélkedésre. Délután: Tekerjen végig a történelmi utcákon, megcsodálva a Can Gasull és a Ca l'Angeleta Neula nagyszerű homlokzatait. Este: Zárja a frissítő kerékpározást a csodálatos Can Riera birtoknál, élvezve a nyugodt vidéki hangulatot a nap végén.",
+        "ro": "Dimineața: Începeți aventura pe bicicletă la renumita Fundație Palau i Fabre, urmată de o scurtă plimbare până la Torre de Can Valls. Prânz: Pedați spre interiorul țării până la biserica liniștită Sant Vicenç de Montalt, luându-vă un moment de reflecție. După-amiaza: Explorați străzile istorice admirând fațadele grandioase de la Can Gasull și pitorescul Ca l'Angeleta Neula. Seara: Încheiați plimbarea relaxantă la magnificul Can Riera, bucurându-vă de ambianța rurală liniștită la lăsarea serii.",
+        "en": "Morning: Kickstart your cycling adventure with profound cultural insights at the renowned Palau i Fabre Foundation, followed by a quick ride to the Torre de Can Valls. Midday: Pedal inland to the serene Sant Vicenç de Montalt church, taking a moment of quiet reflection. Afternoon: Cycle through historical streets admiring the grandiose facades of Can Gasull and the quaint Ca l'Angeleta Neula. Evening: Wrap up your breezy ride at the magnificent Can Riera, enjoying the tranquil countryside ambiance as the day winds down."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:50",
+      "total_km": 3.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Fundació Palau i Fabre",
+            "hu": "Fundació Palau i Fabre",
+            "ro": "Fundació Palau i Fabre",
+            "en": "Fundació Palau i Fabre"
+          },
+          "coords": [
+            2.527715,
+            41.571105
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine der bedeutendsten Picasso-Sammlungen Kataloniens in dieser Kulturstiftung und beginnen Sie am besten in der obersten Etage für den besten Überblick.",
+            "hu": "Fedezze fel Katalónia egyik legjelentősebb Picasso-gyűjteményét ebben a kulturális alapítványban, és kezdje a legfelső emeleten a művek időrendi megértéséhez.",
+            "ro": "Explorați una dintre cele mai importante colecții Picasso din Catalonia în această fundație și începeți de la ultimul etaj pentru a înțelege evoluția cronologică a artei.",
+            "en": "Explore one of Catalonia's most significant Picasso collections in this cultural foundation, and consider starting on the top floor to appreciate the chronological flow."
+          }
+        },
+        {
+          "name": {
+            "de": "Sant Vicenç de Montalt",
+            "hu": "Sant Vicenç de Montalt",
+            "ro": "Sant Vicenç de Montalt",
+            "en": "Sant Vicenç de Montalt"
+          },
+          "coords": [
+            2.509411,
+            41.578521
+          ],
+          "category": "religious",
+          "arrive_at": "10:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese ruhige Pfarrkirche mit ihren gotischen Elementen, die die Gemeinde verankert, und versuchen Sie kurz vor Mittag dort zu sein, um die Glocken zu hören.",
+            "hu": "Látogassa meg ezt a békés plébániatemplomot, amely gótikus elemeivel a helyi közösség központja, és próbáljon meg dél előtt érkezni, hogy hallja a hagyományos harangszót.",
+            "ro": "Vizitați această biserică parohială liniștită care ancorează comunitatea cu elementele sale gotice și încercați să ajungeți chiar înainte de prânz pentru a auzi clopotele.",
+            "en": "Visit this serene parish church that anchors the local community with its timeless Gothic elements, and try to arrive just before noon to hear the traditional bell ringing."
+          }
+        },
+        {
+          "name": {
+            "de": "Can Miquel Ferran",
+            "hu": "Can Miquel Ferran",
+            "ro": "Can Miquel Ferran",
+            "en": "Can Miquel Ferran"
+          },
+          "coords": [
+            2.508365,
+            41.57866
+          ],
+          "category": "historical",
+          "arrive_at": "11:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Betrachten Sie das robuste Mauerwerk dieses klassischen katalanischen Bauernhauses und achten Sie besonders auf die rustikalen Holztüren, die dem mediterranen Wetter trotzen.",
+            "hu": "Figyelje meg a klasszikus katalán parasztház robusztus kőfalazatát, és nézze meg közelebbről a rusztikus fa ajtókat, amelyek generációk óta ellenállnak a mediterrán időjárásnak.",
+            "ro": "Observați zidăria robustă din piatră a acestei ferme clasice catalane și priviți îndeaproape ușile rustice din lemn care au rezistat generațiilor de vreme mediteraneană.",
+            "en": "Observe the sturdy stone masonry of this classical Catalan farmhouse, and look closely at the rustic wooden doors that have withstood generations of Mediterranean weather."
+          }
+        },
+        {
+          "name": {
+            "de": "Can Rita",
+            "hu": "Can Rita",
+            "ro": "Can Rita",
+            "en": "Can Rita"
+          },
+          "coords": [
+            2.506461,
+            41.579342
+          ],
+          "category": "historical",
+          "arrive_at": "12:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie an diesem wunderschön gepflegten historischen Wohnhaus vorbei und achten Sie auf die dekorativen Keramikfliesen, die die sonnenbeschienene Fassade akzentuieren.",
+            "hu": "Sétáljon el e gyönyörűen karbantartott történelmi lakóépület mellett, különös figyelmet fordítva a dekoratív kerámiacsempékre, amelyek kiemelik a napsütötte homlokzatot.",
+            "ro": "Plimbați-vă pe lângă această locuință istorică superb întreținută, acordând o atenție deosebită plăcilor ceramice decorative care accentuează fațada luminată de soare.",
+            "en": "Stroll past this beautifully maintained historical dwelling, paying special attention to the decorative ceramic tiles that beautifully accent the sunlit facade of the building."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Nova",
+            "hu": "Casa Nova",
+            "ro": "Casa Nova",
+            "en": "Casa Nova"
+          },
+          "coords": [
+            2.505874,
+            41.576876
+          ],
+          "category": "historical",
+          "arrive_at": "14:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die harmonische Mischung aus alten und neueren architektonischen Stilen in dieser markanten Residenz und stehen Sie an der Ecke, um ihre Position zu würdigen.",
+            "hu": "Legyen tanúja a régi és az újabb építészeti stílusok harmonikus keverékének ennél a kiemelkedő rezidenciánál, a sarkon állva értékelve a lenyűgöző utcai megjelenést.",
+            "ro": "Fiți martorii amestecului armonios de stiluri vechi și noi la această reședință proeminentă, stând la colț pentru a aprecia poziția sa impunătoare în peisajul stradal.",
+            "en": "Witness the harmonious blend of old and newer architectural styles at this prominent residence, standing on the corner to appreciate its commanding position in the streetscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Can Jordi",
+            "hu": "Can Jordi",
+            "ro": "Can Jordi",
+            "en": "Can Jordi"
+          },
+          "coords": [
+            2.507466,
+            41.57522
+          ],
+          "category": "historical",
+          "arrive_at": "15:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem herrschaftlichen Haus in das Erbe lokaler Familien ein und nehmen Sie sich Zeit, die Informationstafeln zu lesen, die die Bedeutung für das Dorf erklären.",
+            "hu": "Merüljön el a helyi prominens családok örökségében ebben a impozáns házban, és szánjon időt az információs táblák elolvasására, amelyek részletezik a falu fejlődésében betöltött szerepét.",
+            "ro": "Aprofundați moștenirea familiilor proeminente locale la această casă impunătoare și citiți pe îndelete panourile informative care detaliază importanța sa pentru sat.",
+            "en": "Delve into the legacy of local prominent families at this stately home, and take your time reading the informational markers that detail its significance to the village's growth."
+          }
+        },
+        {
+          "name": {
+            "de": "El Forn",
+            "hu": "El Forn",
+            "ro": "El Forn",
+            "en": "El Forn"
+          },
+          "coords": [
+            2.507052,
+            41.564526
+          ],
+          "category": "historical",
+          "arrive_at": "17:10",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Überreste der traditionellen lokalen Industrie an diesem historischen Gemeinschaftsofen und lesen Sie die nahegelegene Tafel für weitere Informationen.",
+            "hu": "Fedezze fel a helyi ipar hagyományait ezen a történelmi közösségi kemencénél, ahol a közeli emléktábla elolvasása elengedhetetlen a falusi mindennapok megértéséhez.",
+            "ro": "Descoperiți vestigiile industriei tradiționale locale la acest cuptor comunal istoric, unde citirea plăcii informative din apropiere oferă context despre viața satului.",
+            "en": "Discover the remnants of traditional local industry at this historic communal oven site, where reading the nearby plaque provides essential context about daily village life."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Fahren Sie in das Herz der lokalen Kultur und beginnen Sie mit der Stiftung Palau i Fabre, gefolgt von dem charmanten Dorf Sant Vicenç de Montalt. Mittag: Parken Sie und schlendern Sie zwischen den historischen Juwelen Can Miquel Ferran und Can Rita. Nachmittag: Setzen Sie Ihre architektonische Reise an der gut erhaltenen Casa Nova und dem herrschaftlichen Can Jordi fort. Abend: Machen Sie eine kurze Fahrt zurück zur Küste zum historischen El Forn und genießen Sie den rustikalen Charme im Abendlicht.",
+        "hu": "Reggel: Vezessen a helyi kultúra szívébe, kezdve a Palau i Fabre Alapítvánnyal, majd induljon Sant Vicenç de Montalt hangulatos falujába. Dél: Parkoljon le, és könnyedén sétáljon a történelmi gyöngyszemek, a Can Miquel Ferran és a Can Rita között. Délután: Folytassa építészeti utazását a gyönyörűen megőrzött Casa Nova és az impozáns Can Jordi épületeknél. Este: Tegyen egy rövid, festői autózást vissza a part felé, hogy meglátogassa az El Forn-t, és élvezze a rusztikus varázst a hosszabbodó árnyékokban.",
+        "ro": "Dimineața: Conduceți în inima culturii locale începând cu Fundația Palau i Fabre, apoi îndreptați-vă spre fermecătorul sat Sant Vicenç de Montalt. Prânz: Parcați și plimbați-vă cu ușurință între bijuteriile istorice, explorând detaliile din piatră de la Can Miquel Ferran și Can Rita. După-amiaza: Continuați călătoria arhitecturală la Casa Nova, frumos conservată, și la impunătorul Can Jordi. Seara: Faceți o scurtă plimbare pitorească cu mașina înapoi spre coastă la El Forn, bucurându-vă de farmecul rustic.",
+        "en": "Morning: Drive into the heart of local culture starting with the Palau i Fabre Foundation, then head to the charming village of Sant Vicenç de Montalt. Midday: Park and easily hop between historic gems, exploring the sturdy stone details of Can Miquel Ferran and Can Rita. Afternoon: Continue your architectural journey at the beautifully preserved Casa Nova and the stately Can Jordi. Evening: Take a short scenic drive back towards the coast to visit El Forn, soaking in the rustic charm as evening shadows lengthen."
+      }
+    }
+  }
+}

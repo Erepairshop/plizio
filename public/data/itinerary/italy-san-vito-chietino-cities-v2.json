@@ -1,0 +1,497 @@
+{
+  "city_id": "italy-san-vito-chietino-cities-v2",
+  "anchor": {
+    "name": "San Vito Chietino",
+    "coords": [
+      14.44452,
+      42.29604
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:09",
+      "total_km": 2.31,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Belvedere \"Mari e Monti\"",
+            "hu": "Belvedere \"Mari e Monti\"",
+            "ro": "Belvedere \"Mari e Monti\"",
+            "en": "Belvedere \"Mari e Monti\""
+          },
+          "coords": [
+            14.444123,
+            42.298561
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den fantastischen Ausblick auf Küste und Berge, um sich zu orientieren, und besuchen Sie den Ort am besten früh für das beste Fotolicht.",
+            "hu": "Csodálja meg a tengerre és hegyekre nyíló lélegzetelállító panorámát, és érkezzen kora reggel a legszebb, tömeg nélküli fényképek elkészítéséhez.",
+            "ro": "Admirați vederea panoramică uimitoare asupra mării și munților din jur, și încercați să ajungeți dimineața devreme pentru cele mai bune fotografii.",
+            "en": "Take in the magnificent panoramic views connecting the sea and mountains, and arrive early in the morning for the most stunning, crowd-free photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa dell'Immacolata Concezione e San Vito Martire",
+            "hu": "Chiesa dell'Immacolata Concezione e San Vito Martire",
+            "ro": "Chiesa dell'Immacolata Concezione e San Vito Martire",
+            "en": "Chiesa dell'Immacolata Concezione e San Vito Martire"
+          },
+          "coords": [
+            14.445313,
+            42.300714
+          ],
+          "category": "religious",
+          "arrive_at": "09:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur dieser zentralen Kirche für einen Moment der Ruhe und achten Sie auf die wunderschönen Details am Hauptaltar.",
+            "hu": "Csodálja meg a központi templom elegáns építészetét egy békés pillanatért, és feltétlenül figyelje meg a főoltár körüli lenyűgöző díszítéseket.",
+            "ro": "Descoperiți arhitectura elegantă a acestei biserici centrale pentru un moment de liniște, și acordați atenție detaliilor superbe de la altarul principal.",
+            "en": "Admire the elegant architecture of this central church for a peaceful moment, and be sure to notice the intricate and beautiful details around the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Due Pini",
+            "hu": "Teatro Due Pini",
+            "ro": "Teatro Due Pini",
+            "en": "Teatro Due Pini"
+          },
+          "coords": [
+            14.44597,
+            42.302777
+          ],
+          "category": "cultural",
+          "arrive_at": "10:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebendige kulturelle Atmosphäre dieses intimen Theaters und prüfen Sie vorab online den Spielplan für abendliche Veranstaltungen.",
+            "hu": "Élvezze a meghitt színház élénk kulturális atmoszféráját, és mindenképpen ellenőrizze előre az esti előadások és koncertek aktuális műsorrendjét.",
+            "ro": "Experimentați atmosfera culturală plină de viață a acestui teatru intim, și verificați programul online în avans pentru spectacolele de seară.",
+            "en": "Experience the lively cultural atmosphere of this intimate local theater, and check the schedule online beforehand to catch a great evening performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvedere Marconi",
+            "hu": "Belvedere Marconi",
+            "ro": "Belvedere Marconi",
+            "en": "Belvedere Marconi"
+          },
+          "coords": [
+            14.445883,
+            42.304664
+          ],
+          "category": "natural",
+          "arrive_at": "12:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Blicken Sie auf das endlose blaue Meer hinab, wo Geschichte auf Natur trifft, und bringen Sie ein Fernglas mit, um die vorbeifahrenden Boote zu sehen.",
+            "hu": "Tekintsen le a végtelen kék tengerre ezen a festői történelmi ponton, és hozzon magával távcsövet a távoli hajók és a partvidék megfigyeléséhez.",
+            "ro": "Priviți marea albastră nesfârșită de la acest punct de belvedere istoric, și aduceți un binoclu pentru a observa bărcile care trec prin depărtare.",
+            "en": "Gaze out over the endless blue sea from this picturesque historic viewpoint, and bring binoculars to enjoy spotting distant boats along the coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Rocco Mancini",
+            "hu": "Rocco Mancini",
+            "ro": "Rocco Mancini",
+            "en": "Rocco Mancini"
+          },
+          "coords": [
+            14.453734,
+            42.303692
+          ],
+          "category": "recreational",
+          "arrive_at": "12:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.66,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Kiesstrand mit kristallklarem Wasser und denken Sie daran, Badeschuhe für einen bequemen Einstieg mitzubringen.",
+            "hu": "Pihenjen ezen a festői kavicsos strandon, melynek vize kristálytiszta, és mindenképpen hozzon magával vízi cipőt a kényelmesebb vízbe jutáshoz.",
+            "ro": "Relaxați-vă pe această plajă pitorească cu pietriș și apă cristalină, și nu uitați să purtați încălțăminte de apă pentru a intra ușor în mare.",
+            "en": "Relax on this picturesque pebble beach known for its crystal-clear water, and remember to pack water shoes for a much more comfortable entry."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Cala Turchino",
+            "hu": "Spiaggia di Cala Turchino",
+            "ro": "Spiaggia di Cala Turchino",
+            "en": "Spiaggia di Cala Turchino"
+          },
+          "coords": [
+            14.459024,
+            42.300543
+          ],
+          "category": "recreational",
+          "arrive_at": "14:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Entdecken Sie die türkisfarbene Bucht mit den ikonischen hölzernen Trabocchi, und kommen Sie am Nachmittag für ein ruhiges, ungestörtes Badeerlebnis.",
+            "hu": "Fedezze fel az ikonikus fa halászkunyhókkal díszített türkizkék öblöt, és látogasson el ide a délutáni órákban egy csendesebb, zavartalan fürdőzésre.",
+            "ro": "Descoperiți golful turcoaz încadrat de iconicele structuri din lemn trabocchi, și veniți după-amiaza târziu pentru o experiență de înot foarte liniștită.",
+            "en": "Discover the stunning turquoise cove framed by iconic wooden trabocchi, and visit in the mid-afternoon for a quieter, more relaxing swimming experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Eremo Dannunziano",
+            "hu": "Eremo Dannunziano",
+            "ro": "Eremo Dannunziano",
+            "en": "Eremo Dannunziano"
+          },
+          "coords": [
+            14.462204,
+            42.297715
+          ],
+          "category": "landmark",
+          "arrive_at": "15:24",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie das literarische Refugium auf der Klippe für ein Gefühl der Geschichte, und planen Sie Ihren Besuch zum Sonnenuntergang für tolles Licht.",
+            "hu": "Látogasson el a sziklafalon álló irodalmi menedékhelyre a történelem érintéséért, és időzítse érkezését a lenyűgöző naplementés fények idejére.",
+            "ro": "Vizitați acest refugiu literar de pe stâncă pentru o experiență istorică profundă, și planificați-vă sosirea la apus pentru a surprinde lumina perfectă.",
+            "en": "Visit this inspiring literary retreat perched on the cliff for a sense of history, and perfectly time your arrival at sunset for the most dramatic lighting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag am Belvedere \"Mari e Monti\" mit Panoramablick und spazieren Sie dann zur Kirche im Herzen von San Vito Chietino. Mittags erkunden Sie die kulturelle Atmosphäre rund um das Teatro Due Pini und genießen die Aussicht vom Belvedere Marconi auf das weite Meer. Der Nachmittag steht im Zeichen der Küste: Entspannen Sie an den Stränden Rocco Mancini und Cala Turchino, wo das Wasser kristallklar ist. Zum Abschluss besuchen Sie das Eremo Dannunziano, wo Geschichte und Natur in der Abenddämmerung eine ruhige und unvergessliche Kulisse bilden.",
+        "hu": "Kezdje a napot a Belvedere \"Mari e Monti\" lenyűgöző kilátásával, majd sétáljon el San Vito Chietino központjának bájos templomához. Délben merüljön el a Teatro Due Pini kulturális közegében, mielőtt a Belvedere Marconi teraszáról megcsodálná a végtelen tengert. A délután a tengerparté: pihenjen a Rocco Mancini és a Cala Turchino kristálytiszta vizű strandjain, élvezve a friss szellőt. Estefelé a történelmi Eremo Dannunziano nyújt csendes, elmélyült befejezést a napnak a gyönyörű partvidéken.",
+        "ro": "Începeți ziua la Belvedere \"Mari e Monti\" cu o panoramă superbă, apoi plimbați-vă spre inima orașului San Vito Chietino la biserica locală. La prânz, descoperiți atmosfera culturală de la Teatro Due Pini și admirați marea deschisă de la pitorescul Belvedere Marconi. După-amiaza este dedicată coastei: relaxați-vă pe plajele Rocco Mancini și Cala Turchino, renumite pentru apele lor limpezi. Încheiați ziua la Eremo Dannunziano, unde istoria și natura se împletesc perfect într-un apus liniștit și memorabil.",
+        "en": "Start the day at Belvedere \"Mari e Monti\" with sweeping views, then stroll to the charming church in the heart of San Vito Chietino. Midday, absorb the cultural atmosphere at Teatro Due Pini before marveling at the endless sea from the picturesque Belvedere Marconi. The afternoon is all about the coastline: unwind at the pristine beaches of Rocco Mancini and Cala Turchino, enjoying the refreshing breeze. Conclude your day at the historic Eremo Dannunziano, where nature and history blend for a peaceful sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:17",
+      "total_km": 3.33,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sito Archeologico di Murata Bassa",
+            "hu": "Sito Archeologico di Murata Bassa",
+            "ro": "Sito Archeologico di Murata Bassa",
+            "en": "Sito Archeologico di Murata Bassa"
+          },
+          "coords": [
+            14.443357,
+            42.31037
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten römischen Ruinen, die faszinierende Einblicke in die Vergangenheit bieten, und tragen Sie bequeme Schuhe für das unebene Gelände.",
+            "hu": "Fedezze fel az ősi római romokat, melyek izgalmas bepillantást nyújtanak a múltba, és viseljen kényelmes sétacipőt a kissé egyenetlen talaj miatt.",
+            "ro": "Explorați ruinele romane antice care oferă perspective fascinante asupra trecutului, și purtați pantofi comozi pentru a naviga terenul denivelat.",
+            "en": "Explore the ancient Roman ruins offering fascinating insights into the distant past, and be sure to wear sturdy, comfortable shoes for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Maruccio",
+            "hu": "Maruccio",
+            "ro": "Maruccio",
+            "en": "Maruccio"
+          },
+          "coords": [
+            14.448802,
+            42.307138
+          ],
+          "category": "recreational",
+          "arrive_at": "10:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.57,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre an diesem idyllischen Küstenabschnitt, und packen Sie ein kleines Picknick ein, da es kaum lokale Geschäfte gibt.",
+            "hu": "Élvezze a békés atmoszférát ezen az idilli partszakaszon, és érdemes egy kis piknikkosárral készülni, mivel a közelben nincsenek közvetlen üzletek.",
+            "ro": "Bucurați-vă de atmosfera liniștită pe această porțiune idilică de coastă, și aduceți o gustare la pachet, deoarece opțiunile comerciale sunt limitate.",
+            "en": "Enjoy the incredibly peaceful atmosphere along this idyllic stretch of coastline, and pack a light picnic since there are very few shops directly nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvedere Marconi",
+            "hu": "Belvedere Marconi",
+            "ro": "Belvedere Marconi",
+            "en": "Belvedere Marconi"
+          },
+          "coords": [
+            14.445883,
+            42.304664
+          ],
+          "category": "natural",
+          "arrive_at": "11:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Blicken Sie auf das endlose blaue Meer hinab, wo Geschichte auf Natur trifft, und bringen Sie ein Fernglas mit, um die vorbeifahrenden Boote zu sehen.",
+            "hu": "Tekintsen le a végtelen kék tengerre ezen a festői történelmi ponton, és hozzon magával távcsövet a távoli hajók és a partvidék megfigyeléséhez.",
+            "ro": "Priviți marea albastră nesfârșită de la acest punct de belvedere istoric, și aduceți un binoclu pentru a observa bărcile care trec prin depărtare.",
+            "en": "Gaze out over the endless blue sea from this picturesque historic viewpoint, and bring binoculars to enjoy spotting distant boats along the coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa dell'Immacolata Concezione e San Vito Martire",
+            "hu": "Chiesa dell'Immacolata Concezione e San Vito Martire",
+            "ro": "Chiesa dell'Immacolata Concezione e San Vito Martire",
+            "en": "Chiesa dell'Immacolata Concezione e San Vito Martire"
+          },
+          "coords": [
+            14.445313,
+            42.300714
+          ],
+          "category": "religious",
+          "arrive_at": "12:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur dieser zentralen Kirche für einen Moment der Ruhe und achten Sie auf die wunderschönen Details am Hauptaltar.",
+            "hu": "Csodálja meg a központi templom elegáns építészetét egy békés pillanatért, és feltétlenül figyelje meg a főoltár körüli lenyűgöző díszítéseket.",
+            "ro": "Descoperiți arhitectura elegantă a acestei biserici centrale pentru un moment de liniște, și acordați atenție detaliilor superbe de la altarul principal.",
+            "en": "Admire the elegant architecture of this central church for a peaceful moment, and be sure to notice the intricate and beautiful details around the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Promontorio Dannunziano",
+            "hu": "Promontorio Dannunziano",
+            "ro": "Promontorio Dannunziano",
+            "en": "Promontorio Dannunziano"
+          },
+          "coords": [
+            14.465015,
+            42.296374
+          ],
+          "category": "natural",
+          "arrive_at": "13:06",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.68,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die unberührte Natur auf der Klippe mit atemberaubenden Klippen, und bleiben Sie strikt auf den markierten Wanderwegen der Region.",
+            "hu": "Sétáljon a sziklafal tetején elterülő érintetlen természetben a lélegzetelállító kilátásért, és a biztonsága érdekében maradjon a kijelölt ösvényeken.",
+            "ro": "Plimbați-vă prin natura curată de pe promontoriu cu stânci uluitoare, și rămâneți strict pe potecile marcate pentru o experiență complet sigură.",
+            "en": "Walk through the pristine coastal nature on this promontory for breathtaking cliffs, and firmly stay on the marked trails for your safety and comfort."
+          }
+        },
+        {
+          "name": {
+            "de": "Eremo Dannunziano",
+            "hu": "Eremo Dannunziano",
+            "ro": "Eremo Dannunziano",
+            "en": "Eremo Dannunziano"
+          },
+          "coords": [
+            14.462204,
+            42.297715
+          ],
+          "category": "landmark",
+          "arrive_at": "13:32",
+          "stay_min": 45,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Besuchen Sie das literarische Refugium auf der Klippe für ein Gefühl der Geschichte, und planen Sie Ihren Besuch zum Sonnenuntergang für tolles Licht.",
+            "hu": "Látogasson el a sziklafalon álló irodalmi menedékhelyre a történelem érintéséért, és időzítse érkezését a lenyűgöző naplementés fények idejére.",
+            "ro": "Vizitați acest refugiu literar de pe stâncă pentru o experiență istorică profundă, și planificați-vă sosirea la apus pentru a surprinde lumina perfectă.",
+            "en": "Visit this inspiring literary retreat perched on the cliff for a sense of history, and perfectly time your arrival at sunset for the most dramatic lighting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour an der archäologischen Stätte Murata Bassa, wo alte Ruinen die spannende Geschichte der Region lebendig werden lassen. Mittags radeln Sie zum Strand Maruccio für eine Erfrischung und genießen dann die weite Aussicht vom nahegelegenen Belvedere Marconi. Am Nachmittag führt der Weg ins Zentrum zur eleganten Kirche der unbefleckten Empfängnis, bevor Sie entlang der Küste zum wilden Promontorio Dannunziano fahren. Lassen Sie den Tag am Eremo Dannunziano ausklingen, einem literarischen Zufluchtsort mit atemberaubendem Blick auf das ruhige Adriatische Meer.",
+        "hu": "Indítsa kerékpártúráját a Murata Bassa régészeti lelőhelyen, ahol a lenyűgöző ősi romok bepillantást engednek a régió gazdag múltjába. Délben tekerjen el a Maruccio strandra egy kis pihenésre, majd élvezze a tengeri kilátást a Belvedere Marconiról. A délután folyamán látogasson el a központban található Szeplőtelen Fogantatás templomához, mielőtt a part mentén a Promontorio Dannunziano vadregényes tájaihoz érne. Zárja a napot az Eremo Dannunziano békés, irodalmi ihletésű környezetében, csodálatos kilátással az Adriára.",
+        "ro": "Începeți traseul cu bicicleta la situl arheologic Murata Bassa, unde ruinele antice dezvăluie trecutul fascinant al regiunii noastre. La prânz, pedalați spre plaja Maruccio pentru o pauză relaxantă și admirați priveliștea panoramică de la Belvedere Marconi. După-amiaza, vizitați eleganta biserică din centrul orașului San Vito Chietino, înainte de a explora coasta spre sălbaticul Promontorio Dannunziano. Încheiați călătoria la Eremo Dannunziano, un refugiu literar liniștit care oferă o priveliște de neuitat asupra Mării Adriatice.",
+        "en": "Kick off your cycling tour at the Murata Bassa archaeological site, where ancient ruins reveal the fascinating deep history of the region. Midday, pedal over to Maruccio beach for a refreshing break, followed by the stunning panoramic views from Belvedere Marconi. In the afternoon, visit the elegant church in the town center before cruising along the beautiful coast to the wild Promontorio Dannunziano. End your journey at the Eremo Dannunziano, a peaceful literary retreat offering unforgettable twilight views over the Adriatic Sea."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:50",
+      "total_km": 7.03,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Zoo d'Abruzzo",
+            "hu": "Zoo d'Abruzzo",
+            "ro": "Zoo d'Abruzzo",
+            "en": "Zoo d'Abruzzo"
+          },
+          "coords": [
+            14.447654,
+            42.274011
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie seltene und exotische Tiere in wunderschön gestalteten Gehegen, und planen Sie mindestens zwei Stunden ein, um alles in Ruhe zu sehen.",
+            "hu": "Figyeljen meg ritka és egzotikus állatokat a gyönyörűen kialakított kifutókban, és szánjon legalább két órát a park kényelmes és alapos bejárására.",
+            "ro": "Observați animale rare și exotice în habitate spațioase și frumos amenajate, și alocați cel puțin două ore pentru a explora întregul parc pe îndelete.",
+            "en": "Observe rare and exotic animals in these beautifully designed and spacious habitats, and allocate at least two hours to explore everything at a relaxed pace."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvedere \"Mari e Monti\"",
+            "hu": "Belvedere \"Mari e Monti\"",
+            "ro": "Belvedere \"Mari e Monti\"",
+            "en": "Belvedere \"Mari e Monti\""
+          },
+          "coords": [
+            14.444123,
+            42.298561
+          ],
+          "category": "natural",
+          "arrive_at": "10:31",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.72,
+          "tip_5lang": {
+            "de": "Genießen Sie den fantastischen Ausblick auf Küste und Berge, um sich zu orientieren, und besuchen Sie den Ort am besten früh für das beste Fotolicht.",
+            "hu": "Csodálja meg a tengerre és hegyekre nyíló lélegzetelállító panorámát, és érkezzen kora reggel a legszebb, tömeg nélküli fényképek elkészítéséhez.",
+            "ro": "Admirați vederea panoramică uimitoare asupra mării și munților din jur, și încercați să ajungeți dimineața devreme pentru cele mai bune fotografii.",
+            "en": "Take in the magnificent panoramic views connecting the sea and mountains, and arrive early in the morning for the most stunning, crowd-free photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Calata Cintioni",
+            "hu": "Spiaggia di Calata Cintioni",
+            "ro": "Spiaggia di Calata Cintioni",
+            "en": "Spiaggia di Calata Cintioni"
+          },
+          "coords": [
+            14.440738,
+            42.312748
+          ],
+          "category": "recreational",
+          "arrive_at": "10:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem unberührten Strand abseits der Menschenmassen, und nehmen Sie einen eigenen Sonnenschirm mit, da natürlicher Schatten fehlt.",
+            "hu": "Pihenjen ezen az érintetlen, tömegektől mentes strandon a teljes nyugalomért, és hozzon magával napernyőt, mivel a természetes árnyék nagyon ritka.",
+            "ro": "Relaxați-vă pe această plajă imaculată, departe de mulțimile de turiști aglomerați, și aduceți-vă propria umbrelă de soare, deoarece umbra naturală lipsește.",
+            "en": "Relax completely on this pristine beach far away from the typical tourist crowds, and definitely bring your own umbrella since natural shade is non-existent."
+          }
+        },
+        {
+          "name": {
+            "de": "Sito Archeologico di Murata Bassa",
+            "hu": "Sito Archeologico di Murata Bassa",
+            "ro": "Sito Archeologico di Murata Bassa",
+            "en": "Sito Archeologico di Murata Bassa"
+          },
+          "coords": [
+            14.443357,
+            42.31037
+          ],
+          "category": "historical",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.34,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten römischen Ruinen, die faszinierende Einblicke in die Vergangenheit bieten, und tragen Sie bequeme Schuhe für das unebene Gelände.",
+            "hu": "Fedezze fel az ősi római romokat, melyek izgalmas bepillantást nyújtanak a múltba, és viseljen kényelmes sétacipőt a kissé egyenetlen talaj miatt.",
+            "ro": "Explorați ruinele romane antice care oferă perspective fascinante asupra trecutului, și purtați pantofi comozi pentru a naviga terenul denivelat.",
+            "en": "Explore the ancient Roman ruins offering fascinating insights into the distant past, and be sure to wear sturdy, comfortable shoes for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Cala Turchino",
+            "hu": "Spiaggia di Cala Turchino",
+            "ro": "Spiaggia di Cala Turchino",
+            "en": "Spiaggia di Cala Turchino"
+          },
+          "coords": [
+            14.459024,
+            42.300543
+          ],
+          "category": "recreational",
+          "arrive_at": "13:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.69,
+          "tip_5lang": {
+            "de": "Entdecken Sie die türkisfarbene Bucht mit den ikonischen hölzernen Trabocchi, und kommen Sie am Nachmittag für ein ruhiges, ungestörtes Badeerlebnis.",
+            "hu": "Fedezze fel az ikonikus fa halászkunyhókkal díszített türkizkék öblöt, és látogasson el ide a délutáni órákban egy csendesebb, zavartalan fürdőzésre.",
+            "ro": "Descoperiți golful turcoaz încadrat de iconicele structuri din lemn trabocchi, și veniți după-amiaza târziu pentru o experiență de înot foarte liniștită.",
+            "en": "Discover the stunning turquoise cove framed by iconic wooden trabocchi, and visit in the mid-afternoon for a quieter, more relaxing swimming experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Promontorio Dannunziano",
+            "hu": "Promontorio Dannunziano",
+            "ro": "Promontorio Dannunziano",
+            "en": "Promontorio Dannunziano"
+          },
+          "coords": [
+            14.465015,
+            42.296374
+          ],
+          "category": "natural",
+          "arrive_at": "14:55",
+          "stay_min": 55,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.68,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die unberührte Natur auf der Klippe mit atemberaubenden Klippen, und bleiben Sie strikt auf den markierten Wanderwegen der Region.",
+            "hu": "Sétáljon a sziklafal tetején elterülő érintetlen természetben a lélegzetelállító kilátásért, és a biztonsága érdekében maradjon a kijelölt ösvényeken.",
+            "ro": "Plimbați-vă prin natura curată de pe promontoriu cu stânci uluitoare, și rămâneți strict pe potecile marcate pentru o experiență complet sigură.",
+            "en": "Walk through the pristine coastal nature on this promontory for breathtaking cliffs, and firmly stay on the marked trails for your safety and comfort."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein perfekter Tag für Familien beginnt im Zoo d'Abruzzo, wo Sie heimische und exotische Tiere in weitläufigen Gehegen bewundern können. Am Mittag fahren Sie zurück in die Stadt, um den atemberaubenden Ausblick vom Belvedere \"Mari e Monti\" zu genießen, bevor Sie an der Spiaggia di Calata Cintioni entspannen. Der Nachmittag bietet eine spannende Zeitreise in die Vergangenheit bei den archäologischen Ausgrabungen der Murata Bassa. Schließen Sie den Tag mit einem erfrischenden Bad in Cala Turchino ab und beobachten Sie den Sonnenuntergang vom malerischen Promontorio Dannunziano.",
+        "hu": "A tökéletes családi nap a Zoo d'Abruzzo állatkertjében indul, ahol lenyűgöző állatokat figyelhetnek meg tágas, természetközeli kifutóikban. Délben autózzon vissza a városba, hogy gyönyörködjön a Belvedere \"Mari e Monti\" kilátójában, majd lazítson egyet a Calata Cintioni békés tengerpartján. A délutáni program a Murata Bassa régészeti romjainak felfedezése, amely visszarepíti az időben. Zárja a napot egy frissítő csobbanással a Cala Turchino strandon, és élvezze a csodás naplementét a Promontorio Dannunziano fokon.",
+        "ro": "O zi perfectă de familie începe la Zoo d'Abruzzo, unde puteți observa diverse animale fascinante în habitatele lor spațioase. La prânz, conduceți spre centrul orașului pentru a vă bucura de panorama minunată de la Belvedere \"Mari e Monti\", apoi relaxați-vă pe plaja Calata Cintioni. După-amiaza vă așteaptă o incursiune istorică la situl arheologic Murata Bassa, bogat în artefacte antice. Încheiați-vă călătoria cu o baie răcoritoare la Cala Turchino și admirați apusul de la spectaculosul Promontorio Dannunziano.",
+        "en": "A perfect family day begins at Zoo d'Abruzzo, where you can observe native and exotic animals in thoughtfully designed habitats. Midday, drive back toward the coast to soak in the incredible views from Belvedere \"Mari e Monti\", then relax on the tranquil Spiaggia di Calata Cintioni. The afternoon offers a fascinating journey back in time as you explore the ancient archaeological ruins of Murata Bassa. Cap off your road trip with a refreshing dip at Cala Turchino and watch the sunset from the scenic Promontorio Dannunziano."
+      }
+    }
+  }
+}

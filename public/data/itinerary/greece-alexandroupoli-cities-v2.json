@@ -1,0 +1,451 @@
+{
+  "city_id": "greece-alexandroupoli-cities-v2",
+  "anchor": {
+    "name": "Alexandroupoli",
+    "coords": [
+      25.877778,
+      40.847222
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:03",
+      "total_km": 1.85,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirchenmuseum von Alexandroupoli",
+            "hu": "Alexandrúpoli Egyházi Múzeuma",
+            "ro": "Muzeul Ecleziastic din Alexandroupoli",
+            "en": "Ecclesiastical Museum of Alexandroupoli"
+          },
+          "coords": [
+            25.875964,
+            40.847538
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das tiefe religiöse Erbe der Region anhand sakraler Artefakte und nehmen Sie sich unbedingt Zeit für die seltenen byzantinischen Ikonen im Obergeschoss.",
+            "hu": "Fedezze fel a régió mély vallási örökségét a kidolgozott egyházi tárgyakon keresztül, és mindenképpen szánjon időt a felső szinten kiállított ritka bizánci ikonokra.",
+            "ro": "Descoperiți moștenirea religioasă profundă a regiunii prin artefacte ecleziastice complexe și acordați-vă timp pentru a admira icoanele bizantine rare expuse la etaj.",
+            "en": "Discover the region's deep religious heritage through intricate ecclesiastical artifacts, and take your time viewing the rare Byzantine icons displayed on the upper floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Ethnologisches Museum von Thrakien",
+            "hu": "Trákia Etnológiai Múzeuma",
+            "ro": "Muzeul Etnologic al Traciei",
+            "en": "Ethnological Museum of Thrace"
+          },
+          "coords": [
+            25.87427,
+            40.848237
+          ],
+          "category": "museum",
+          "arrive_at": "10:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die thrakische Kultur ein, indem Sie traditionelle Trachten erkunden, aber vergessen Sie nicht, am Eingang nach dem englischen Reiseführer zu fragen.",
+            "hu": "Merüljön el a trák kultúrában a hagyományos viseletek és mindennapi eszközök felfedezésével, de a bejáratnál ne felejtsen el angol nyelvű útmutatót kérni a munkatársaktól.",
+            "ro": "Cufundați-vă în cultura tracică explorând costume tradiționale și unelte de zi cu zi, dar asigurați-vă că cereți ghidul în limba engleză de la intrare pentru detalii.",
+            "en": "Immerse yourself in Thracian culture by exploring traditional costumes and everyday tools, but make sure to ask the staff for the English guidebook at the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Museum von Alexandroupoli",
+            "hu": "Alexandrúpoli Történeti Múzeuma",
+            "ro": "Muzeul Istoric din Alexandroupoli",
+            "en": "Historical Museum of Alexandroupoli"
+          },
+          "coords": [
+            25.874087,
+            40.844789
+          ],
+          "category": "museum",
+          "arrive_at": "12:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erfahren Sie durch faszinierende Fotoausstellungen mehr über die moderne Entwicklung von Alexandroupoli und beachten Sie die wechselnden Sammlungen lokaler Künstler.",
+            "hu": "Ismerje meg Alexandrúpoli modern fejlődését a lenyűgöző fotókiállításokon keresztül, és tekintse meg az időszaki gyűjteményeket is, amelyek gyakran helyi művészeket mutatnak be.",
+            "ro": "Aflați despre evoluția modernă a orașului prin expoziții foto captivante și verificați colecțiile temporare care prezintă adesea artiști contemporani locali de mare talent.",
+            "en": "Learn about the modern evolution of Alexandroupoli through captivating photo exhibits, and check out the temporary collections which often feature local contemporary artists."
+          }
+        },
+        {
+          "name": {
+            "de": "Moschee von Alexandroupoli",
+            "hu": "Alexandrúpoli Mecset",
+            "ro": "Moscheea din Alexandroupoli",
+            "en": "Mosque of Alexandroupoli"
+          },
+          "coords": [
+            25.880991,
+            40.846936
+          ],
+          "category": "religious",
+          "arrive_at": "14:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser historischen Moschee, die die vielfältige Vergangenheit der Stadt widerspiegelt, aber denken Sie an sehr bescheidene Kleidung.",
+            "hu": "Csodálja meg ennek a történelmi mecsetnek a lenyűgöző építészetét, amely a város sokszínű múltját tükrözi, de ne felejtsen el szerényen öltözködni a séta során.",
+            "ro": "Admirați arhitectura impresionantă a acestei moschei istorice ce reflectă trecutul divers al orașului, dar asigurați-vă că vă îmbrăcați decent și păstrați liniștea deplină.",
+            "en": "Admire the striking architecture of this historic mosque which reflects the city's diverse past, but remember to dress modestly and speak softly while walking the grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "YUPPII Erholungszentrum",
+            "hu": "YUPPII Szabadidőközpont",
+            "ro": "Centrul de Recreere YUPPII",
+            "en": "YUPPII Recreation"
+          },
+          "coords": [
+            25.875194,
+            40.843101
+          ],
+          "category": "recreational",
+          "arrive_at": "15:18",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannten Abschluss an diesem lebhaften Erholungsort am Wasser, wo Sie ein erfrischendes Getränk nehmen und den wunderschönen Sonnenuntergang beobachten können.",
+            "hu": "Élvezze a séta pihentető lezárását ezen a nyüzsgő vízparti pihenőhelyen, ahol egy frissítő ital mellett csodálhatja meg a tenger felett varázslatosan lenyugvó napot.",
+            "ro": "Bucurați-vă de un final relaxant la acest loc de recreere plin de viață de lângă faleză, unde puteți savura o băutură răcoritoare în timp ce priviți apusul spectaculos pe mare.",
+            "en": "Enjoy a relaxing end to your walk at this lively recreational spot near the waterfront, where you can grab a refreshing drink and watch the beautiful sunset over the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie Ihren Tag mit der reichen Religionsgeschichte im Kirchenmuseum. Mittag: Besuchen Sie das Ethnologische und das Historische Museum, um die kulturelle Entwicklung Thrakiens zu verstehen. Nachmittag: Schlendern Sie zur historischen Moschee und bewundern Sie die Kontraste der Stadt. Abend: Beenden Sie Ihren Spaziergang am Wasser bei YUPPII mit herrlichem Küstenblick.",
+        "hu": "Reggel: Kezdje a napot a gazdag vallástörténet megismerésével az Egyházi Múzeumban. Délben: Folytassa az Etnológiai és Történeti Múzeumokban, hogy megértse Trákia kulturális fejlődését. Délután: Sétáljon a történelmi mecset felé, megcsodálva a város építészeti kontrasztjait. Este: Fejezze be sétáját a YUPPII vízparti pihenőhelyen, gyönyörű kilátás kíséretében.",
+        "ro": "Dimineața: Începeți ziua explorând bogata istorie religioasă la Muzeul Ecleziastic. Prânz: Continuați cu Muzeele Etnologic și Istoric pentru a înțelege evoluția culturală a Traciei. După-amiaza: Plimbați-vă spre Moscheea istorică, admirând contrastele arhitecturale ale orașului. Seara: Încheiați la YUPPII lângă apă, relaxându-vă cu priveliști superbe ale coastei la apus.",
+        "en": "Morning: Start your day diving into the rich religious history at the Ecclesiastical Museum. Midday: Continue to the Ethnological and Historical Museums to understand the profound cultural evolution of Thrace. Afternoon: Stroll towards the historic Mosque, admiring the architectural contrasts of the city. Evening: Finish your walk at YUPPII by the water, unwinding with coastal views."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:02",
+      "total_km": 4.65,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Archäologisches Museum von Alexandroupoli",
+            "hu": "Alexandrúpoli Régészeti Múzeuma",
+            "ro": "Muzeul Arheologic din Alexandroupoli",
+            "en": "Archaeological Musuem of Alexandroupolis"
+          },
+          "coords": [
+            25.856997,
+            40.847682
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie antike Geheimnisse in diesem modernen Museum mit regionalen Ausgrabungen und nutzen Sie die großzügigen Fahrradparkplätze direkt vor dem Haupteingang.",
+            "hu": "Fedezze fel az ősi titkokat ebben a modern múzeumban, amely regionális ásatásokat mutat be, és használja a főbejárat előtt található tágas kerékpártárolót biztonsággal.",
+            "ro": "Descoperiți secrete antice în acest muzeu modern ce expune excavații regionale fascinante și utilizați parcarea generoasă pentru biciclete situată chiar la intrarea principală.",
+            "en": "Uncover ancient secrets at this modern museum displaying fascinating regional excavations, and utilize the ample bicycle parking directly in front of the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirchenmuseum von Alexandroupoli",
+            "hu": "Alexandrúpoli Egyházi Múzeuma",
+            "ro": "Muzeul Ecleziastic din Alexandroupoli",
+            "en": "Ecclesiastical Museum of Alexandroupoli"
+          },
+          "coords": [
+            25.875964,
+            40.847538
+          ],
+          "category": "museum",
+          "arrive_at": "10:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie hier beeindruckende heilige Artefakte aus byzantinischer Zeit und vergessen Sie nicht, Ihr Fahrrad im schattigen Bereich in der Nähe sicher abzustellen.",
+            "hu": "Fedezze fel az lenyűgöző szent bizánci leleteket ezen a helyen, és ne felejtse el kerékpárját biztonságosan lezárni a közelben található árnyékos területen a látogatás alatt.",
+            "ro": "Explorați artefacte sacre impresionante din perioada bizantină și nu uitați să vă lăsați bicicleta încuiată în zona umbrită din apropiere pentru siguranță.",
+            "en": "Explore impressive sacred artifacts from the Byzantine era here, and make sure to lock your bike securely in the shaded area nearby while you enjoy the exhibits inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Alter Stausee 1930",
+            "hu": "Régi Víztározó 1930",
+            "ro": "Vechiul Rezervor 1930",
+            "en": "Old Reservoir 1930"
+          },
+          "coords": [
+            25.875533,
+            40.853193
+          ],
+          "category": "historical",
+          "arrive_at": "12:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise zu diesem historischen Stausee aus den 1930er Jahren und bringen Sie Ihre Kamera mit, um die einzigartige Industriearchitektur festzuhalten.",
+            "hu": "Lépjen vissza az időben ennél az 1930-as évekbeli történelmi víztározónál, és hozza magával fényképezőgépét, hogy megörökítse ezt az egyedülálló ipari építészetet.",
+            "ro": "Întoarceți-vă în timp la acest rezervor istoric din anii 1930 care alimenta orașul și aduceți-vă aparatul foto pentru a surprinde arhitectura industrială unică de aici.",
+            "en": "Step back in time at this historic 1930s reservoir that supplied the early city, and bring your camera to capture the unique industrial architecture preserved here."
+          }
+        },
+        {
+          "name": {
+            "de": "Freilichttheater",
+            "hu": "Szabadtéri Színház",
+            "ro": "Teatrul în Aer Liber",
+            "en": "Open-Air Theater"
+          },
+          "coords": [
+            25.874894,
+            40.859484
+          ],
+          "category": "cultural",
+          "arrive_at": "14:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erleben Sie lokale Kultur in diesem wunderschönen Freilichttheater im Grünen, wobei es am besten ist, vorab den lokalen Spielplan auf aktuelle Proben zu überprüfen.",
+            "hu": "Tapasztalja meg a helyi kultúrát ebben a zöld környezetben megbúvó gyönyörű szabadtéri színházban, bár érdemes előre ellenőrizni a helyi műsort a próbák miatt.",
+            "ro": "Experimentați cultura locală la acest frumos teatru în aer liber situat într-un cadru verde, deși este bine să verificați programul local înainte pentru eventualele repetiții.",
+            "en": "Experience local culture at this beautiful open-air theater nestled in green surroundings, though it is best to check the local schedule beforehand for any ongoing rehearsals."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Militärstation",
+            "hu": "Régi Katonai Állomás",
+            "ro": "Gara Militară Veche",
+            "en": "Gare Militaire"
+          },
+          "coords": [
+            25.882235,
+            40.854237
+          ],
+          "category": "historical",
+          "arrive_at": "15:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Überreste des Militärbahnhofs, der den lokalen Verkehr prägte, und betrachten Sie die alten Gleise, die noch unzählige Geschichten bergen.",
+            "hu": "Fedezze fel a katonai vasútállomás lenyűgöző maradványait, és figyelje meg alaposan a régi síneket, amelyek még mindig a múlt század történelmi történeteit őrzik.",
+            "ro": "Explorați rămășițele fascinante ale gării militare care a modelat transportul local și priviți îndeaproape vechile șine care încă păstrează poveștile secolului trecut.",
+            "en": "Explore the fascinating remnants of the military railway station that shaped local transport, and look closely at the old tracks which still hold stories of the past century."
+          }
+        },
+        {
+          "name": {
+            "de": "Moschee von Alexandroupoli",
+            "hu": "Alexandrúpoli Mecset",
+            "ro": "Moscheea din Alexandroupoli",
+            "en": "Mosque of Alexandroupoli"
+          },
+          "coords": [
+            25.880991,
+            40.846936
+          ],
+          "category": "religious",
+          "arrive_at": "16:52",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Lassen Sie die historische Atmosphäre dieser Moschee auf sich wirken und schieben Sie Ihr Fahrrad aus Respekt über das Gelände, während Sie die ruhigen Gärten erkunden.",
+            "hu": "Szívja magába ezen történelmi mecset hangulatát, és tiszteletből tolja kerékpárját a területen, miközben felfedezi a békés kerteket és a lenyűgöző építészeti részleteket.",
+            "ro": "Asimilați atmosfera istorică a acestei moschei și împingeți bicicleta din respect pe proprietate în timp ce explorați grădinile liniștite din jurul acestui monument deosebit.",
+            "en": "Soak in the historic atmosphere of this enduring mosque, and be sure to walk your bike respectfully across the grounds while exploring the tranquil gardens surrounding it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Radeln Sie zum Archäologischen Museum für einen faszinierenden Blick auf antike regionale Entdeckungen. Mittag: Fahren Sie zurück ins Zentrum zum Kirchenmuseum und zum historischen Stausee. Nachmittag: Fahren Sie hinauf zum Freilichttheater und zur alten Militärstation für Kunst und Geschichte. Abend: Beenden Sie Ihre Radtour in der Nähe der Moschee vor Sonnenuntergang.",
+        "hu": "Reggel: Tekerjen el a Régészeti Múzeumhoz, hogy lenyűgöző ősi regionális felfedezéseket láthasson. Délben: Kerékpározzon vissza a központba az Egyházi Múzeumhoz és az 1930-as víztározóhoz. Délután: Látogasson el a Szabadtéri Színházhoz és a régi Gare Militaire-hez a művészetek és a történelem érintéséért. Este: Zárja kerékpáros túráját a mecset közelében, még a naplemente előtt.",
+        "ro": "Dimineața: Pedalați spre Muzeul Arheologic pentru a descoperi fascinantele relicve antice regionale. Prânz: Întoarceți-vă în centru la Muzeul Ecleziastic și la rezervorul istoric din 1930. După-amiaza: Urcați spre Teatrul în Aer Liber și vechea gară militară pentru artă și istorie. Seara: Încheiați turul de ciclism în apropierea Moscheii, bucurându-vă de atmosfera liniștită a apusului.",
+        "en": "Morning: Pedal out to the Archaeological Museum for a fascinating look at ancient regional discoveries. Midday: Cycle back to the center to explore the Ecclesiastical Museum and the historic 1930 Reservoir. Afternoon: Ride up to the Open-Air Theater and the old Gare Militaire for a touch of local arts and history. Evening: Wrap up your cycling tour near the Mosque before sunset."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:53",
+      "total_km": 7.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Naturkundemuseum",
+            "hu": "Természettudományi Múzeum",
+            "ro": "Muzeul de Istorie Naturală",
+            "en": "Natural History Museum"
+          },
+          "coords": [
+            25.901818,
+            40.855061
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Fahrt in diesem umfangreichen Naturkundemuseum mit lokaler Flora und Fauna und parken Sie unbedingt auf dem ausgewiesenen Platz hinter dem Hauptgebäude.",
+            "hu": "Kezdje az utazást ebben a kiterjedt természettudományi múzeumban, amely a helyi növény- és állatvilágot mutatja be, és mindenképpen a főépület mögötti nagy parkolót használja.",
+            "ro": "Începeți plimbarea cu mașina la acest muzeu vast de istorie naturală și asigurați-vă că parcați în spațiul special amenajat situat chiar în spatele clădirii principale vaste.",
+            "en": "Begin your drive at this extensive natural history museum featuring diverse local flora and fauna, and make sure to park in the dedicated lot just behind the main building."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Militärstation",
+            "hu": "Régi Katonai Állomás",
+            "ro": "Gara Militară Veche",
+            "en": "Gare Militaire"
+          },
+          "coords": [
+            25.882235,
+            40.854237
+          ],
+          "category": "historical",
+          "arrive_at": "10:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto etwas abseits stehen, um entspannt zu den alten Schienen zu laufen, die beeindruckende Geschichten der militärischen und zivilen Logistik erzählen.",
+            "hu": "Hagyja autóját kissé távolabb, hogy kényelmesen elsétálhasson a régi sínekhez, amelyek lenyűgöző történeteket mesélnek a katonai és civil logisztika hőskorából egyaránt.",
+            "ro": "Lăsați mașina puțin mai departe pentru a merge relaxat spre vechile șine, care spun povești impresionante despre logistica militară și civilă a secolului trecut.",
+            "en": "Leave your car slightly down the road to walk comfortably to the old rails, which tell impressive stories of both military and civilian logistics from the bustling past century."
+          }
+        },
+        {
+          "name": {
+            "de": "Ethnologisches Museum von Thrakien",
+            "hu": "Trákia Etnológiai Múzeuma",
+            "ro": "Muzeul Etnologic al Traciei",
+            "en": "Ethnological Museum of Thrace"
+          },
+          "coords": [
+            25.87427,
+            40.848237
+          ],
+          "category": "museum",
+          "arrive_at": "12:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende thrakische Kultur ein, achten Sie jedoch darauf, dass die Parkmöglichkeiten in den engen Straßen rund um das Museum sehr begrenzt sein können.",
+            "hu": "Merüljön el a lenyűgöző trák kultúrában, de vegye figyelembe, hogy a múzeum körüli szűk utcákban a parkolási lehetőségek rendkívül korlátozottak lehetnek a csúcsidőben.",
+            "ro": "Cufundați-vă în fascinanta cultură tracică, dar fiți atenți că opțiunile de parcare pe străzile înguste din jurul muzeului pot fi foarte limitate, așa că aveți răbdare.",
+            "en": "Immerse yourself in fascinating Thracian culture, but be aware that parking options in the narrow streets directly surrounding the museum can be extremely limited at midday."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum von Alexandroupoli",
+            "hu": "Alexandrúpoli Régészeti Múzeuma",
+            "ro": "Muzeul Arheologic din Alexandroupoli",
+            "en": "Archaeological Musuem of Alexandroupolis"
+          },
+          "coords": [
+            25.856997,
+            40.847682
+          ],
+          "category": "museum",
+          "arrive_at": "14:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie herausragende archäologische Funde aus der Antike, wobei dieses modern ausgestattete Museum über einen sehr bequemen und sicheren Besucherparkplatz verfügt.",
+            "hu": "Csodálja meg az ókor kiemelkedő régészeti leleteit, ráadásul ez a modern felszereltségű múzeum rendkívül kényelmes és biztonságos látogatói parkolóval rendelkezik Önnek.",
+            "ro": "Admirați descoperiri arheologice remarcabile din antichitate, acest muzeu modern fiind dotat cu o parcare pentru vizitatori foarte confortabilă și sigură pentru mașina dumneavoastră.",
+            "en": "Marvel at outstanding archaeological finds from antiquity, knowing this modernly equipped museum features a very convenient and secure visitor parking lot directly on site."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Rosa Hotel Erholungsgebiet",
+            "hu": "Santa Rosa Hotel Pihenőövezet",
+            "ro": "Zona de Recreere Santa Rosa Hotel",
+            "en": "Santa Rosa Hotel Recreation"
+          },
+          "coords": [
+            25.848272,
+            40.847148
+          ],
+          "category": "recreational",
+          "arrive_at": "15:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Machen Sie eine gemütliche Pause in der Nähe dieses ikonischen Strandhotels, um die Meeresbrise zu genießen, aber beachten Sie, dass das Parken an der Küstenstraße eng ist.",
+            "hu": "Tartson egy kényelmes pihenőt ezen ikonikus tengerparti ingatlan közelében a tengeri szellő élvezetéhez, de vegye figyelembe, hogy a parkolás nehézkes lehet a parti úton.",
+            "ro": "Faceți o pauză relaxantă lângă această proprietate emblematică de pe plajă pentru a vă bucura de briza mării, dar rețineți că parcarea pe drumul de coastă poate fi aglomerată.",
+            "en": "Take a leisurely break near this iconic beachside property to enjoy the sea breeze, but be aware that parking along the coastal road can be tight during peak afternoon hours."
+          }
+        },
+        {
+          "name": {
+            "de": "YUPPII Erholungszentrum",
+            "hu": "YUPPII Szabadidőközpont",
+            "ro": "Centrul de Recreere YUPPII",
+            "en": "YUPPII Recreation"
+          },
+          "coords": [
+            25.875194,
+            40.843101
+          ],
+          "category": "recreational",
+          "arrive_at": "17:08",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt hier am Wasser, finden Sie leicht einen Parkplatz in der Nähe des Hafens und entspannen Sie sich bei einem kühlen Getränk im warmen Sonnenuntergang.",
+            "hu": "Fejezze be az autózást itt a vízparton, találjon könnyedén parkolót a kikötő közelében, és lazítson egy hideg ital mellett a varázslatosan lenyugvó nap meleg fényeiben.",
+            "ro": "Încheiați-vă călătoria aici pe faleză, găsiți ușor un loc de parcare în apropierea portului și relaxați-vă cu o băutură rece în lumina caldă a apusului de soare pe mare.",
+            "en": "Conclude your drive here by the water, easily find parking near the marina, and unwind with a cold beverage as you soak in the warm and beautiful colors of the sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Fahren Sie an den östlichen Stadtrand, um das umfangreiche Naturkundemuseum zu erkunden. Mittag: Besuchen Sie die historische Militärstation und das tief bewegende Ethnologische Museum im Zentrum. Nachmittag: Fahren Sie nach Westen zum Archäologischen Museum. Abend: Genießen Sie eine malerische Küstenfahrt, halten Sie am Santa Rosa Hotel und enden Sie bei YUPPII.",
+        "hu": "Reggel: Vezessen a keleti külvárosba, hogy felfedezze a kiterjedt Természettudományi Múzeumot. Délben: Látogassa meg a történelmi katonai állomást és a Néprajzi Múzeumot a városközpontban. Délután: Induljon nyugat felé a Régészeti Múzeumhoz, elmerülve az ókorban. Este: Élvezze a festői tengerparti autózást, álljon meg a Santa Rosa Hotelnél, és fejezze be a napot a YUPPII-nál.",
+        "ro": "Dimineața: Conduceți spre est pentru a explora vastul Muzeu de Istorie Naturală. Prânz: Vizitați gara militară istorică și Muzeul Etnologic în centrul orașului. După-amiaza: Îndreptați-vă spre vest către Muzeul Arheologic pentru a descoperi antichitatea. Seara: Bucurați-vă de o plimbare pitorească pe coastă, oprindu-vă la Hotelul Santa Rosa și încheind la YUPPII.",
+        "en": "Morning: Drive to the eastern outskirts to explore the extensive Natural History Museum. Midday: Visit the historic Gare Militaire and the deeply moving Ethnological Museum in the city center. Afternoon: Head west to the Archaeological Museum, diving deep into antiquity. Evening: Enjoy a scenic coastal drive, stopping by the Santa Rosa Hotel and concluding at YUPPII."
+      }
+    }
+  }
+}

@@ -1,0 +1,497 @@
+{
+  "city_id": "spain-la-barriada-nova-cities-v2",
+  "anchor": {
+    "name": "La Barriada Nova",
+    "coords": [
+      2.284722,
+      41.620278
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:29",
+      "total_km": 2.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sant Feliu de Canovelles",
+            "hu": "Sant Feliu de Canovelles",
+            "ro": "Sant Feliu de Canovelles",
+            "en": "Sant Feliu de Canovelles"
+          },
+          "coords": [
+            2.278039,
+            41.624599
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante romanische Architektur dieser historischen Pfarrkirche und werfen Sie einen Blick auf das örtliche Veranstaltungsbrett.",
+            "hu": "Csodálja meg a történelmi plébániatemplom lenyűgöző román kori építészetét, és érdemes megnézni a faliújságon a helyi közösségi programokat.",
+            "ro": "Admirați arhitectura romanică impresionantă a acestei biserici parohiale istorice și asigurați-vă că verificați panoul cu evenimentele locale.",
+            "en": "Admire the striking Romanesque architecture of this historic parish church, and be sure to check the notice board for local community event schedules."
+          }
+        },
+        {
+          "name": {
+            "de": "Jaciment neolític de Ca l'Estrada",
+            "hu": "Jaciment neolític de Ca l'Estrada",
+            "ro": "Jaciment neolític de Ca l'Estrada",
+            "en": "Jaciment neolític de Ca l'Estrada"
+          },
+          "coords": [
+            2.279146,
+            41.622336
+          ],
+          "category": "historical",
+          "arrive_at": "09:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende neolithische Ausgrabungsstätte, um frühe Siedlungen zu verstehen, aber tragen Sie dabei unbedingt festes Schuhwerk.",
+            "hu": "Fedezze fel ezt a lenyűgöző neolitikus ásatási területet a korai települések megismeréséhez, de mindenképpen viseljen kényelmes, zárt cipőt a sétához.",
+            "ro": "Explorați acest sit neolitic fascinant pentru a înțelege așezările timpurii, dar purtați încălțăminte robustă, deoarece terenul este destul de accidentat.",
+            "en": "Explore this fascinating Neolithic excavation site to understand early regional settlements, but wear sturdy shoes as the surrounding ground is uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatre - Auditori Can Palots",
+            "hu": "Teatre - Auditori Can Palots",
+            "ro": "Teatre - Auditori Can Palots",
+            "en": "Teatre - Auditori Can Palots"
+          },
+          "coords": [
+            2.278634,
+            41.618873
+          ],
+          "category": "cultural",
+          "arrive_at": "11:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Genießen Sie eine moderne kulturelle Aufführung in diesem lebhaften Theater und buchen Sie Ihre Tickets vorab online, um die besten Plätze zu sichern.",
+            "hu": "Élvezze a modern kulturális előadásokat ebben a nyüzsgő színházban, és foglalja le jegyeit előre az interneten, hogy a legjobb helyeket kapja meg.",
+            "ro": "Bucurați-vă de o reprezentație culturală la acest teatru modern și rezervați-vă biletele online în avans pentru a vă asigura cele mai bune locuri.",
+            "en": "Enjoy a modern cultural performance or exhibit at this vibrant local theater, and book your tickets online in advance to secure the best available seats."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de Can Carrencà",
+            "hu": "Parc de Can Carrencà",
+            "ro": "Parc de Can Carrencà",
+            "en": "Parc de Can Carrencà"
+          },
+          "coords": [
+            2.27677,
+            41.616204
+          ],
+          "category": "park",
+          "arrive_at": "12:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die schattigen, friedlichen Wege dieser grünen Stadtoase, die sich hervorragend für ein schnelles Picknick im Freien eignet.",
+            "hu": "Sétáljon végig a zöldellő városi oázis árnyékos és békés ösvényein, amely tökéletes helyszínt biztosít egy gyors és nyugodt piknikezéshez is.",
+            "ro": "Plimbați-vă pe aleile umbrite și pașnice ale acestei oaze urbane, care reprezintă un loc excelent pentru a savura o gustare rapidă sau un prânz la pachet.",
+            "en": "Stroll through the shaded, peaceful pathways of this green urban oasis, which makes an excellent spot to sit and enjoy a quick packed lunch or a snack."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de la Quitxalla",
+            "hu": "Parc de la Quitxalla",
+            "ro": "Parc de la Quitxalla",
+            "en": "Parc de la Quitxalla"
+          },
+          "coords": [
+            2.28534,
+            41.616819
+          ],
+          "category": "park",
+          "arrive_at": "14:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.72,
+          "tip_5lang": {
+            "de": "Lassen Sie die Familie in diesem charmanten Park mit tollen Spielgeräten entspannen und besuchen Sie ihn am frühen Nachmittag, um den Trubel zu meiden.",
+            "hu": "Hagyja a családot pihenni ebben a bájos, kiváló játékokkal felszerelt parkban, és kora délután érkezzen, hogy elkerülje az iskola utáni tömeget.",
+            "ro": "Lăsați familia să se relaxeze în acest parc fermecător cu structuri de joacă excelente și vizitați-l la începutul după-amiezii pentru a evita aglomerația.",
+            "en": "Let the family relax in this charming park featuring excellent play structures, and visit in the early afternoon to avoid the busiest after-school crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Can Mònic",
+            "hu": "Can Mònic",
+            "ro": "Can Mònic",
+            "en": "Can Mònic"
+          },
+          "coords": [
+            2.293358,
+            41.621982
+          ],
+          "category": "historical",
+          "arrive_at": "15:39",
+          "stay_min": 110,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.88,
+          "tip_5lang": {
+            "de": "Entdecken Sie die traditionelle Architektur dieses gut erhaltenen historischen Anwesens und fotografieren Sie am späten Nachmittag bei bestem Licht.",
+            "hu": "Fedezze fel e jól megőrzött történelmi birtok hagyományos építészeti vonásait, és készítsen fényképeket a késő délutáni, lágyabb fényviszonyok mellett.",
+            "ro": "Descoperiți caracteristicile arhitecturale tradiționale ale acestei moșii istorice și faceți fotografii după-amiaza târziu, când lumina este cea mai bună.",
+            "en": "Discover the traditional architectural features of this well-preserved historic estate, and take photos during the late afternoon when the lighting is best."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit der historischen Ruhe von Sant Feliu de Canovelles, gefolgt von einer Zeitreise zur neolithischen Stätte Ca l'Estrada. Mittags lockt die Kultur im Can Palots und eine Pause im grünen Can Carrencà. Genießen Sie am Nachmittag die lebhafte Atmosphäre im Parc de la Quitxalla. Der Abend bricht herein, während Sie die klassische Fassade von Can Mònic bewundern.",
+        "hu": "A reggel a Sant Feliu de Canovelles történelmi nyugalmával indul, majd a Ca l'Estrada neolitikus lelőhelyén utazunk vissza az időben. A dél a Can Palots kultúrájával és a Can Carrencà zöldjében való pihenéssel telik. Délután élvezze a Parc de la Quitxalla nyüzsgő hangulatát. Az este közeledtével a Can Mònic klasszikus homlokzatában gyönyörködhet.",
+        "ro": "Dimineața începe cu liniștea istorică de la Sant Feliu de Canovelles, urmată de o călătorie în timp la situl neolitic Ca l'Estrada. Prânzul aduce cultura la Can Palots și o pauză relaxantă în Can Carrencà. După-amiaza, bucurați-vă de atmosfera plină de viață de la Parc de la Quitxalla. Seara coboară în timp ce admirați fațada clasică a complexului Can Mònic.",
+        "en": "Morning begins with the historic tranquility of Sant Feliu de Canovelles, followed by a journey back in time at the Ca l'Estrada Neolithic site. Midday brings local culture at Can Palots, and a restful break amid the greenery of Can Carrencà. In the afternoon, enjoy the lively atmosphere at Parc de la Quitxalla. Evening falls as you admire the classic facade of Can Mònic."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:01",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Can Bufi Xic",
+            "hu": "Can Bufi Xic",
+            "ro": "Can Bufi Xic",
+            "en": "Can Bufi Xic"
+          },
+          "coords": [
+            2.292621,
+            41.632652
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die rustikalen Details dieses historischen Landguts, das traditionelles katalanisches Bauernleben zeigt, und schließen Sie Ihr Rad am Tor ab.",
+            "hu": "Figyelje meg ennek a hagyományos katalán paraszti életet bemutató történelmi birtoknak a rusztikus részleteit, és zárja le kerékpárját a főkapunál.",
+            "ro": "Observați detaliile rustice ale acestei proprietăți rurale istorice care evidențiază viața agricolă tradițională și asigurați-vă bicicleta la poarta principală.",
+            "en": "Observe the rustic details of this historic rural property that highlights traditional Catalan farming life, and secure your bike by the main entrance gate."
+          }
+        },
+        {
+          "name": {
+            "de": "Sant Feliu de Canovelles",
+            "hu": "Sant Feliu de Canovelles",
+            "ro": "Sant Feliu de Canovelles",
+            "en": "Sant Feliu de Canovelles"
+          },
+          "coords": [
+            2.278039,
+            41.624599
+          ],
+          "category": "religious",
+          "arrive_at": "10:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante romanische Architektur dieser historischen Pfarrkirche und werfen Sie einen Blick auf das örtliche Veranstaltungsbrett.",
+            "hu": "Csodálja meg a történelmi plébániatemplom lenyűgöző román kori építészetét, és érdemes megnézni a faliújságon a helyi közösségi programokat.",
+            "ro": "Admirați arhitectura romanică impresionantă a acestei biserici parohiale istorice și asigurați-vă că verificați panoul cu evenimentele locale.",
+            "en": "Admire the striking Romanesque architecture of this historic parish church, and be sure to check the notice board for local community event schedules."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de la Quitxalla",
+            "hu": "Parc de la Quitxalla",
+            "ro": "Parc de la Quitxalla",
+            "en": "Parc de la Quitxalla"
+          },
+          "coords": [
+            2.28534,
+            41.616819
+          ],
+          "category": "park",
+          "arrive_at": "11:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.04,
+          "tip_5lang": {
+            "de": "Lassen Sie die Familie in diesem charmanten Park mit tollen Spielgeräten entspannen und besuchen Sie ihn am frühen Nachmittag, um den Trubel zu meiden.",
+            "hu": "Hagyja a családot pihenni ebben a bájos, kiváló játékokkal felszerelt parkban, és kora délután érkezzen, hogy elkerülje az iskola utáni tömeget.",
+            "ro": "Lăsați familia să se relaxeze în acest parc fermecător cu structuri de joacă excelente și vizitați-l la începutul după-amiezii pentru a evita aglomerația.",
+            "en": "Let the family relax in this charming park featuring excellent play structures, and visit in the early afternoon to avoid the busiest after-school crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu de Granollers",
+            "hu": "Museu de Granollers",
+            "ro": "Museu de Granollers",
+            "en": "Museu de Granollers"
+          },
+          "coords": [
+            2.288406,
+            41.606928
+          ],
+          "category": "museum",
+          "arrive_at": "12:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.12,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reiche Geschichte und die Kunstsammlungen ein und schnappen Sie sich an der Rezeption einen kostenlosen Multimedia-Guide für Ihren Besuch.",
+            "hu": "Merüljön el a gazdag helyi történelemben és az eklektikus művészeti gyűjteményekben, és kérjen egy ingyenes multimédiás útmutatót a recepciónál.",
+            "ro": "Aprofundați istoria locală bogată și colecțiile de artă eclectică și luați un ghid multimedia gratuit de la recepție pentru a vă îmbunătăți vizita.",
+            "en": "Delve into the rich local history and eclectic art collections housed here, and grab a free multimedia guide at the front desk to enhance your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Ajuntament de Granollers",
+            "hu": "Ajuntament de Granollers",
+            "ro": "Ajuntament de Granollers",
+            "en": "Ajuntament de Granollers"
+          },
+          "coords": [
+            2.287244,
+            41.608009
+          ],
+          "category": "historical",
+          "arrive_at": "14:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur des Rathauses, das von charmanten Cafés umgeben ist, in denen Sie einen schnellen Kaffee genießen können.",
+            "hu": "Szánjon egy percet a városháza elegáns építészetének megcsodálására, amelyet kedves kávézók vesznek körül, ahol gyorsan megihat egy jó kávét.",
+            "ro": "Acordați-vă un moment pentru a aprecia arhitectura civică elegantă a primăriei, înconjurată de cafenele fermecătoare unde puteți savura o cafea.",
+            "en": "Take a moment to appreciate the elegant civic architecture of the city hall, which is surrounded by lovely cafes where you can grab a quick coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de Cultura Sant Francesc",
+            "hu": "Casa de Cultura Sant Francesc",
+            "ro": "Casa de Cultura Sant Francesc",
+            "en": "Casa de Cultura Sant Francesc"
+          },
+          "coords": [
+            2.288103,
+            41.609179
+          ],
+          "category": "cultural",
+          "arrive_at": "15:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Erkunden Sie die aktuellen Ausstellungen in diesem wunderschön umfunktionierten Kloster und prüfen Sie das digitale Programm auf abendliche Workshops.",
+            "hu": "Fedezze fel az aktuális kiállításokat ebben a gyönyörűen átalakított történelmi kolostorépületben, és nézze meg a digitális programfüzetet a műhelyekért.",
+            "ro": "Explorați expozițiile comunitare actuale din această fostă mănăstire frumos restaurată și verificați programul digital pentru atelierele de seară.",
+            "en": "Explore current community exhibitions in this beautifully repurposed historic convent building, and check their digital schedule for evening workshops."
+          }
+        },
+        {
+          "name": {
+            "de": "Roca Umbert Fàbrica de les Arts",
+            "hu": "Roca Umbert Fàbrica de les Arts",
+            "ro": "Roca Umbert Fàbrica de les Arts",
+            "en": "Roca Umbert Fàbrica de les Arts"
+          },
+          "coords": [
+            2.283907,
+            41.60233
+          ],
+          "category": "cultural",
+          "arrive_at": "17:11",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.82,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die kreative Energie dieser riesigen ehemaligen Textilfabrik ein und achten Sie auf die bunten städtischen Wandmalereien im Außenbereich.",
+            "hu": "Merüljön el ennek a művészeti központtá alakított hatalmas régi textilgyárnak a kreatív energiájában, és figyelje meg a külső falakat díszítő falfestményeket.",
+            "ro": "Lăsați-vă absorbiți de energia creativă a acestei vechi fabrici de textile transformate în centru de artă și admirați picturile murale vibrante de pe exterior.",
+            "en": "Immerse yourself in the creative energy of this massive old textile factory turned arts hub, and look out for the vibrant urban murals adorning the exterior."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre morgendliche Tour mit dem rustikalen Charme von Can Bufi Xic und der romanischen Schönheit von Sant Feliu. Mittags radeln Sie durch den Parc de la Quitxalla, bevor Sie zum Museu de Granollers fahren. Der Nachmittag führt Sie zum monumentalen Ajuntament und zur inspirierenden Casa de Cultura. Beenden Sie den Tag inmitten der industriellen Kreativität der Roca Umbert Fàbrica de les Arts.",
+        "hu": "Kezdje a reggeli túrát a Can Bufi Xic rusztikus bájával és a Sant Feliu román kori szépségével. Délben tekerjen át a Parc de la Quitxalla parkon egy frissítő pihenőre, majd vegye az irányt a Museu de Granollers felé. A délután a lenyűgöző Ajuntamenthez és a Casa de Cultura épületéhez vezet. Zárja a napot a Roca Umbert Fàbrica de les Arts indusztriális-kreatív hangulatában.",
+        "ro": "Începeți plimbarea de dimineață explorând farmecul rustic al Can Bufi Xic și frumusețea romanică a Sant Feliu. La prânz, pedalați prin Parc de la Quitxalla pentru o pauză revigorantă înainte de a ajunge la Museu de Granollers. După-amiaza vă conduce la monumentalul Ajuntament și la inspiranta Casa de Cultura. Încheiați ziua în mijlocul creativității industrial-chic de la Roca Umbert Fàbrica de les Arts.",
+        "en": "Start your morning ride exploring the rustic charm of Can Bufi Xic and the Romanesque beauty of Sant Feliu. By midday, peddle through Parc de la Quitxalla for a refreshing break before heading into the city's artistic core at the Museu de Granollers. The afternoon leads you to the monumental Ajuntament and the inspiring Casa de Cultura. Finish the day amidst the industrial-chic creativity of Roca Umbert Fàbrica de les Arts."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:22",
+      "total_km": 5.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Jaciment neolític de Ca l'Estrada",
+            "hu": "Jaciment neolític de Ca l'Estrada",
+            "ro": "Jaciment neolític de Ca l'Estrada",
+            "en": "Jaciment neolític de Ca l'Estrada"
+          },
+          "coords": [
+            2.279146,
+            41.622336
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende neolithische Ausgrabungsstätte, um frühe Siedlungen zu verstehen, aber tragen Sie dabei unbedingt festes Schuhwerk.",
+            "hu": "Fedezze fel ezt a lenyűgöző neolitikus ásatási területet a korai települések megismeréséhez, de mindenképpen viseljen kényelmes, zárt cipőt a sétához.",
+            "ro": "Explorați acest sit neolitic fascinant pentru a înțelege așezările timpurii, dar purtați încălțăminte robustă, deoarece terenul este destul de accidentat.",
+            "en": "Explore this fascinating Neolithic excavation site to understand early regional settlements, but wear sturdy shoes as the surrounding ground is uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Can Bufi Xic",
+            "hu": "Can Bufi Xic",
+            "ro": "Can Bufi Xic",
+            "en": "Can Bufi Xic"
+          },
+          "coords": [
+            2.292621,
+            41.632652
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.55,
+          "tip_5lang": {
+            "de": "Betrachten Sie die rustikalen Details dieses historischen Landguts, das traditionelles katalanisches Bauernleben zeigt, und parken Sie an der Zufahrtsstraße.",
+            "hu": "Figyelje meg ennek a hagyományos katalán paraszti életet bemutató történelmi birtoknak a rusztikus részleteit, és parkoljon a felvezető út mentén.",
+            "ro": "Observați detaliile rustice ale acestei proprietăți rurale istorice care evidențiază viața agricolă tradițională și parcați de-a lungul drumului de acces.",
+            "en": "Observe the rustic details of this historic rural property highlighting traditional Catalan farming life, and park along the access road where permitted."
+          }
+        },
+        {
+          "name": {
+            "de": "Can Mònic",
+            "hu": "Can Mònic",
+            "ro": "Can Mònic",
+            "en": "Can Mònic"
+          },
+          "coords": [
+            2.293358,
+            41.621982
+          ],
+          "category": "historical",
+          "arrive_at": "11:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.11,
+          "tip_5lang": {
+            "de": "Entdecken Sie die traditionelle Architektur dieses gut erhaltenen historischen Anwesens und fotografieren Sie am späten Nachmittag bei bestem Licht.",
+            "hu": "Fedezze fel e jól megőrzött történelmi birtok hagyományos építészeti vonásait, és készítsen fényképeket a késő délutáni, lágyabb fényviszonyok mellett.",
+            "ro": "Descoperiți caracteristicile arhitecturale tradiționale ale acestei moșii istorice și faceți fotografii după-amiaza târziu, când lumina este cea mai bună.",
+            "en": "Discover the traditional architectural features of this well-preserved historic estate, and take photos during the late afternoon when the lighting is best."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatre Auditori de Granollers",
+            "hu": "Teatre Auditori de Granollers",
+            "ro": "Teatre Auditori de Granollers",
+            "en": "Teatre Auditori de Granollers"
+          },
+          "coords": [
+            2.286796,
+            41.61097
+          ],
+          "category": "cultural",
+          "arrive_at": "13:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.33,
+          "tip_5lang": {
+            "de": "Erleben Sie modernes architektonisches Design an diesem erstklassigen Veranstaltungsort und besichtigen Sie das beeindruckende Foyer während der Öffnungszeiten.",
+            "hu": "Tekintse meg a legmodernebb építészeti megoldásokat ezen az elsőrangú rendezvényhelyszínen, és járja be az épület lenyűgöző, tágas előcsarnokát.",
+            "ro": "Fiți martorii unui design arhitectural modern la această sală de spectacole de prim rang și încercați să vizitați scurt impresionantul hol contemporan.",
+            "en": "Witness cutting-edge architectural design at this premier performance venue, and try to catch a matinee show or briefly tour the impressive modern lobby."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu de Ciències Naturals de Granollers",
+            "hu": "Museu de Ciències Naturals de Granollers",
+            "ro": "Museu de Ciències Naturals de Granollers",
+            "en": "Museu de Ciències Naturals de Granollers"
+          },
+          "coords": [
+            2.287964,
+            41.601896
+          ],
+          "category": "museum",
+          "arrive_at": "14:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die vielfältige Biodiversität der Region durch interaktive Displays und fragen Sie das freundliche Personal nach der Schmetterlingsausstellung.",
+            "hu": "Fedezze fel a régió változatos biodiverzitását a vonzó interaktív kijelzőkön keresztül, és kérdezze a személyzetet a különleges pillangó-ökológiai kiállításról.",
+            "ro": "Descoperiți biodiversitatea diversă a regiunii prin expoziții interactive captivante și întrebați personalul prietenos despre expoziția specială a fluturilor.",
+            "en": "Uncover the region's diverse biodiversity through engaging interactive displays, and ask the friendly staff about the special butterfly ecology exhibit."
+          }
+        },
+        {
+          "name": {
+            "de": "Ciutat Pubilla de la Sardana 1976",
+            "hu": "Ciutat Pubilla de la Sardana 1976",
+            "ro": "Ciutat Pubilla de la Sardana 1976",
+            "en": "Ciutat Pubilla de la Sardana 1976"
+          },
+          "coords": [
+            2.291333,
+            41.607797
+          ],
+          "category": "historical",
+          "arrive_at": "16:32",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Denken Sie über die kulturelle Bedeutung dieses Denkmals für den berühmten katalanischen Tanz nach und genießen Sie den weiten Platz bei Sonnenuntergang.",
+            "hu": "Gondolkodjon el a híres katalán táncnak szentelt emlékmű kulturális jelentőségén, és élvezze az azt körülvevő hatalmas és nyitott teret naplementekor.",
+            "ro": "Contemplați semnificația culturală a acestui monument dedicat faimosului dans catalan și bucurați-vă de piața largă din jurul său la apusul soarelui.",
+            "en": "Contemplate the cultural significance of this monument dedicated to the famous Catalan dance, and enjoy the wide open square surrounding it at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die morgendliche Fahrt beginnt mit den alten Geheimnissen von Ca l'Estrada und dem rustikalen Erbe von Can Bufi Xic. Mittags bewundern Sie die großartige Architektur von Can Mònic und wechseln dann zu den modernen Linien des Teatre Auditori. Der Nachmittag bietet einen faszinierenden Einblick in die Natur im Museu de Ciències Naturals. Lassen Sie den Tag schließlich bei den regionalen Traditionen am Denkmal der Sardana ausklingen.",
+        "hu": "A reggeli autózás a Ca l'Estrada ősi rejtélyeivel és a Can Bufi Xic rusztikus örökségével kezdődik. Délben a Can Mònic lenyűgöző építészetében gyönyörködhet, majd a Teatre Auditori modern vonalai felé veszi az irányt. A délután lenyűgöző természetrajzi felfedezéseket tartogat a Museu de Ciències Naturals falai között. Végül zárja a napot a regionális hagyományok ünneplésével a Sardana emlékműnél.",
+        "ro": "Plimbarea de dimineață începe cu misterele antice de la Ca l'Estrada și moștenirea rustică de la Can Bufi Xic. La prânz, veți admira arhitectura grandioasă a Can Mònic, trecând treptat către liniile moderne ale Teatre Auditori. După-amiaza oferă o incursiune fascinantă în natură la Museu de Ciències Naturals. În cele din urmă, încheiați ziua sărbătorind tradițiile regionale la monumentul Ciutat Pubilla de la Sardana.",
+        "en": "The morning drive starts with the ancient mysteries of Ca l'Estrada and the rustic heritage of Can Bufi Xic. Midday finds you admiring the grand architecture of Can Mònic, seamlessly shifting toward the modern lines of the Teatre Auditori. The afternoon offers a fascinating dive into nature at the Museu de Ciències Naturals. Finally, wrap up the day celebrating regional traditions at the Ciutat Pubilla de la Sardana monument."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "greece-fiskardo-cities-v2",
+  "anchor": {
+    "name": "Fiskardo",
+    "coords": [
+      20.576389,
+      38.458889
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:53",
+      "total_km": 2.55,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Römischer Friedhof",
+            "hu": "Római temető",
+            "ro": "Cimitirul Roman",
+            "en": "Roman Cemetery"
+          },
+          "coords": [
+            20.577745,
+            38.45942
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie den antiken römischen Friedhof mit seinen gut erhaltenen Sarkophagen, am besten früh morgens für das perfekte Fotolicht.",
+            "hu": "Fedezze fel az ősi római temetőt és a jól megőrzött szarkofágokat, amelyeket érdemes kora reggel meglátogatni a tökéletes fotózási fényekért.",
+            "ro": "Explorați cimitirul roman antic și admirați sarcofagele bine conservate, de preferat dimineața devreme când lumina este perfectă pentru fotografii.",
+            "en": "Explore the ancient Roman Cemetery and admire the well-preserved sarcophagi, best visited early when the light is perfect for photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika von Fiscardo",
+            "hu": "Fiskardói bazilika",
+            "ro": "Bazilica din Fiscardo",
+            "en": "Basilica of Fiscardo"
+          },
+          "coords": [
+            20.580547,
+            38.462456
+          ],
+          "category": "castle",
+          "arrive_at": "10:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Wandern Sie um die Ruinen der Basilika von Fiscardo, um die mittelalterliche Geschichte zu spüren, und tragen Sie festes Schuhwerk.",
+            "hu": "Barangoljon a fiskardói bazilika romjai között, hogy átérezze a középkori történelmet, és viseljen kényelmes, zárt cipőt a terep miatt.",
+            "ro": "Plimbați-vă printre ruinele Bazilicii din Fiscardo pentru a simți istoria medievală și purtați încălțăminte comodă pentru terenul accidentat.",
+            "en": "Wander around the ruins of the Basilica of Fiscardo to feel the medieval history, and wear sturdy shoes for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Venezianischer Leuchtturm",
+            "hu": "Velencei világítótorony",
+            "ro": "Farul Venețian",
+            "en": "Venetian Lighthouse"
+          },
+          "coords": [
+            20.581992,
+            38.460469
+          ],
+          "category": "historical",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf das Meer vom historischen venezianischen Leuchtturm und bringen Sie ein Weitwinkelobjektiv mit.",
+            "hu": "Élvezze a panorámás kilátást a tengerre a történelmi velencei világítótoronyból, és mindenképp hozzon magával nagylátószögű lencsét a fotózáshoz.",
+            "ro": "Bucurați-vă de vederea panoramică la mare de la farul istoric venețian, aducând o lentilă cu unghi larg pentru fotografii de peisaj uluitoare.",
+            "en": "Take in the panoramic sea views from the historic Venetian Lighthouse, making sure to bring a wide-angle lens for stunning landscape shots."
+          }
+        },
+        {
+          "name": {
+            "de": "Throni",
+            "hu": "Throni",
+            "ro": "Throni",
+            "en": "Throni"
+          },
+          "coords": [
+            20.570492,
+            38.459815
+          ],
+          "category": "historical",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende archäologische Stätte Throni mit ihren antiken Artefakten und nehmen Sie Wasser für den kurzen Aufstieg mit.",
+            "hu": "Fedezze fel Throni lenyűgöző régészeti lelőhelyét és ókori leleteit, de a rövid emelkedő előtt ne felejtsen el vizet magához venni.",
+            "ro": "Descoperiți situl arheologic fascinant de la Throni pentru a vedea artefacte antice și luați o sticlă de apă înainte de scurta urcare.",
+            "en": "Discover the fascinating archaeological site of Throni to see ancient artifacts, and grab a bottle of water before the short walk up."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand",
+            "hu": "Tengerpart",
+            "ro": "Plajă",
+            "en": "Beach"
+          },
+          "coords": [
+            20.576599,
+            38.452594
+          ],
+          "category": "recreational",
+          "arrive_at": "15:08",
+          "stay_min": 105,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem wunderschönen Strand, um nach dem Spaziergang abzuschalten, und bringen Sie Ihr eigenes Handtuch mit.",
+            "hu": "Pihenjen meg ezen a gyönyörű helyi strandon a séta után, és hozzon magával saját törölközőt, mivel a szolgáltatások korlátozottak.",
+            "ro": "Relaxați-vă la această plajă locală superbă pentru a vă deconecta după o zi de plimbare și aduceți-vă propriul prosop deoarece facilitățile sunt limitate.",
+            "en": "Relax at this beautiful local Beach to unwind after a day of walking, and bring your own towel as facilities are limited."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der reichen Geschichte am antiken römischen Friedhof. Mittags reisen Sie durch die Zeit bei den Ruinen der Basilika und dem ikonischen venezianischen Leuchtturm. Am Nachmittag genießen Sie einen malerischen Spaziergang zum archäologischen Wunder von Throni. Beenden Sie Ihren Tag entspannt am friedlichen Strand, während die Sonne untergeht.",
+        "hu": "Kezdje a reggelt az ősi római temető gazdag történelmének felfedezésével. A nap közepén tegyen időutazást a bazilika romjainál és a híres velencei világítótoronynál. Délután tegyen egy festői sétát a lenyűgöző Throni régészeti lelőhelyéhez. Zárja a napot a békés helyi tengerpart homokján pihenve, miközben a nap lassan lebukik a horizonton.",
+        "ro": "Începeți dimineața descoperind istoria bogată la vechiul cimitir roman. La prânz, călătoriți în timp vizitând ruinele uimitoare ale Bazilicii și emblematicul far venețian. După-amiaza, faceți o plimbare pitorească până la minunea arheologică Throni. Încheiați ziua relaxându-vă pe nisipul liniștit al plajei locale, în timp ce soarele apune ușor.",
+        "en": "Start your morning by delving into the rich history at the ancient Roman Cemetery. Midday takes you through time with visits to the striking ruins of the Basilica and the iconic Venetian Lighthouse. In the afternoon, enjoy a scenic stroll to the archaeological wonder of Throni. End your day relaxing on the peaceful sands of the local Beach as the sun gently sets."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 2.85,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Windmühle",
+            "hu": "Szélmalom",
+            "ro": "Moară de vânt",
+            "en": "Windmill"
+          },
+          "coords": [
+            20.565854,
+            38.455437
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die charmante historische Windmühle und schätzen Sie ihre traditionelle Architektur bei einer kurzen Radpause.",
+            "hu": "Tekintse meg a bájos, történelmi szélmalmot és annak hagyományos építészetét, amely tökéletes egy rövid pihenőre a kerékpározás során.",
+            "ro": "Vizitați fermecătoarea moară de vânt istorică și apreciați arhitectura sa tradițională, perfectă pentru o scurtă pauză în timpul plimbării cu bicicleta.",
+            "en": "Check out the charming historic Windmill and appreciate its traditional architecture, perfect for a quick rest stop on your bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Throni",
+            "hu": "Throni",
+            "ro": "Throni",
+            "en": "Throni"
+          },
+          "coords": [
+            20.570492,
+            38.459815
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die antiken Steinarbeiten in Throni und schließen Sie Ihr Fahrrad sicher am Eingang des Weges ab.",
+            "hu": "Csodálja meg az ősi kőmunkákat Throni régészeti lelőhelyén, és ügyeljen arra, hogy kerékpárját biztonságosan lezárja az ösvény bejáratánál.",
+            "ro": "Admirați lucrările din piatră antice de la situl arheologic Throni, asigurându-vă că legați bicicleta în siguranță la intrarea pe traseu.",
+            "en": "Admire the ancient stonework at the archaeological site of Throni, making sure to lock your bike securely at the path entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Römischer Friedhof",
+            "hu": "Római temető",
+            "ro": "Cimitirul Roman",
+            "en": "Roman Cemetery"
+          },
+          "coords": [
+            20.577745,
+            38.45942
+          ],
+          "category": "historical",
+          "arrive_at": "11:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Halten Sie am römischen Friedhof an, um antike Grabstätten direkt an der Straße zu sehen, ein einfacher historischer Umweg.",
+            "hu": "Álljon meg a római temetőnél, hogy megtekintse az út menti ősi temetkezési helyeket, ami egy könnyű és lenyűgöző történelmi kitérő.",
+            "ro": "Opriți la cimitirul roman pentru a vedea morminte antice chiar pe marginea drumului, un ocol istoric ușor și fascinant.",
+            "en": "Stop by the Roman Cemetery to view ancient burial sites right by the road, an easy and fascinating historical detour."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika von Fiscardo",
+            "hu": "Fiskardói bazilika",
+            "ro": "Bazilica din Fiscardo",
+            "en": "Basilica of Fiscardo"
+          },
+          "coords": [
+            20.580547,
+            38.462456
+          ],
+          "category": "castle",
+          "arrive_at": "13:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Küstenruinen der Basilika von Fiscardo und genießen Sie die frische Meeresbrise beim Radfahren.",
+            "hu": "Csodálja meg a fiskardói bazilika tengerparti romjait, és élvezze a frissítő tengeri szellőt, miközben a közeli ösvényeken teker.",
+            "ro": "Minunați-vă de ruinele de coastă ale Bazilicii din Fiscardo și bucurați-vă de briza mării în timp ce pedalați pe cărările din apropiere.",
+            "en": "Marvel at the coastal ruins of the Basilica of Fiscardo, and enjoy the refreshing sea breeze as you cycle along the nearby paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Venezianischer Leuchtturm",
+            "hu": "Velencei világítótorony",
+            "ro": "Farul Venețian",
+            "en": "Venetian Lighthouse"
+          },
+          "coords": [
+            20.581992,
+            38.460469
+          ],
+          "category": "historical",
+          "arrive_at": "14:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Fahren Sie zum venezianischen Leuchtturm für einen weiten Blick auf das Ionische Meer, aber achten Sie auf losen Schotter.",
+            "hu": "Tekerjen fel a velencei világítótoronyhoz, ahonnan pazar kilátás nyílik a Jón-tengerre, de vigyázzon a laza kavicsokra az utolsó szakaszon.",
+            "ro": "Urcați pe bicicletă până la farul venețian pentru o vedere amplă a Mării Ionice, dar aveți grijă la pietrișul de pe porțiunea finală.",
+            "en": "Ride up to the Venetian Lighthouse for sweeping views of the Ionian Sea, but watch out for loose gravel on the final approach."
+          }
+        },
+        {
+          "name": {
+            "de": "Emblisi Strand",
+            "hu": "Emblisi strand",
+            "ro": "Plaja Emblisi",
+            "en": "Emblisi Beach"
+          },
+          "coords": [
+            20.573006,
+            38.46622
+          ],
+          "category": "recreational",
+          "arrive_at": "16:04",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich mit einem Bad am unberührten Emblisi-Strand ab, ein idealer Ort, um Ihre Radtour zu beenden.",
+            "hu": "Hűtse le magát egy úszással az érintetlen Emblisi strandon, amely ideális helyszín a kerékpártúra befejezéséhez és egy frissítő csobbanáshoz.",
+            "ro": "Răcoriți-vă cu o baie la plaja virgină Emblisi, un loc ideal pentru a vă încheia plimbarea și a vă recompensa mușchii cu o baie.",
+            "en": "Cool off with a swim at the pristine Emblisi Beach, an ideal spot to conclude your ride and reward your muscles with a dip."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour mit der klassischen lokalen Architektur der historischen Windmühle. Gegen Mittag radeln Sie durch die Geschichte bei Throni und dem römischen Friedhof. Die Nachmittagsfahrt belohnt Sie mit den Küstenruinen der Basilika und dem hoch aufragenden venezianischen Leuchtturm. Beenden Sie Ihren aktiven Tag entspannt am kristallklaren Wasser des Emblisi-Strandes.",
+        "hu": "Kezdje a kerékpártúrát a történelmi szélmalom klasszikus helyi építészetének megcsodálásával. Dél közeledtével tekerjen át a történelmen, felfedezve a Thronit és az út menti római temetőt. A délutáni túra a bazilika tengerparti romjaival és a magasodó velencei világítótoronnyal jutalmazza meg. Zárja aktív napját az Emblisi strand kristálytiszta vizénél lazítva.",
+        "ro": "Începeți turul cu bicicleta admirând arhitectura clasică locală a morii de vânt istorice. La amiază, pedalați prin istorie explorând Throni și cimitirul roman de pe marginea drumului. Plimbarea de după-amiază vă răsplătește cu ruinele Bazilicii și farul venețian impunător. Încheiați-vă ziua plină de energie relaxându-vă lângă apele cristaline ale plajei Emblisi.",
+        "en": "Kick off your cycling tour by admiring the classic local architecture of the historic Windmill. As midday approaches, pedal through history exploring Throni and the fascinating roadside Roman Cemetery. Afternoon riding rewards you with coastal ruins at the Basilica and the towering Venetian Lighthouse. End your energetic day unwinding by the crystal clear waters of Emblisi Beach."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:58",
+      "total_km": 3.65,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kimilia Strand",
+            "hu": "Kimilia strand",
+            "ro": "Plaja Kimilia",
+            "en": "Kimilia Beach"
+          },
+          "coords": [
+            20.562491,
+            38.471615
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Fahrt am abgelegenen Kimilia-Strand für ein ruhiges morgendliches Schwimmen und packen Sie Snacks ein.",
+            "hu": "Kezdje a vezetést az eldugott Kimilia strandon egy csendes reggeli úszással, és csomagoljon némi rágcsálnivalót, mivel nincsenek büfék.",
+            "ro": "Începeți plimbarea cu mașina la plaja retrasă Kimilia pentru o baie matinală liniștită și luați gustări, deoarece nu există facilități.",
+            "en": "Start your drive at the secluded Kimilia Beach for a tranquil morning swim, and pack some snacks as there are no facilities around."
+          }
+        },
+        {
+          "name": {
+            "de": "Emblisi Strand",
+            "hu": "Emblisi strand",
+            "ro": "Plaja Emblisi",
+            "en": "Emblisi Beach"
+          },
+          "coords": [
+            20.573006,
+            38.46622
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Emblisi-Strand, um die weißen Kieselsteine und das klare blaue Wasser zu bewundern, mit hervorragenden Parkmöglichkeiten.",
+            "hu": "Vezessen az Emblisi strandhoz, hogy megcsodálja a fehér kavicsokat és a kristálytiszta vizet egy könnyen megközelíthető, jó parkolóval rendelkező helyen.",
+            "ro": "Conduceți la plaja Emblisi pentru a admira pietricelele albe și apa albastră limpede, un loc foarte accesibil cu parcare excelentă.",
+            "en": "Drive to Emblisi Beach to marvel at its white pebbles and clear blue water, a highly accessible spot with excellent parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika von Fiscardo",
+            "hu": "Fiskardói bazilika",
+            "ro": "Bazilica din Fiscardo",
+            "en": "Basilica of Fiscardo"
+          },
+          "coords": [
+            20.580547,
+            38.462456
+          ],
+          "category": "castle",
+          "arrive_at": "11:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Hafens und erkunden Sie die bemerkenswerte Basilika von Fiscardo, um architektonische Überreste zu sehen.",
+            "hu": "Parkoljon a kikötő közelében, és fedezze fel a figyelemre méltó fiskardói bazilikát, hogy tanúja legyen a korai kereszténység építészeti emlékeinek.",
+            "ro": "Parcați aproape de port și explorați remarcabila Bazilică din Fiscardo pentru a vedea rămășițele arhitecturale ale creștinismului timpuriu.",
+            "en": "Park near the harbor and explore the remarkable Basilica of Fiscardo to witness the architectural remnants of early Christianity."
+          }
+        },
+        {
+          "name": {
+            "de": "Venezianischer Leuchtturm",
+            "hu": "Velencei világítótorony",
+            "ro": "Farul Venețian",
+            "en": "Venetian Lighthouse"
+          },
+          "coords": [
+            20.581992,
+            38.460469
+          ],
+          "category": "historical",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Spaziergang vom Auto zum venezianischen Leuchtturm, um das atemberaubende maritime Erbe zu fotografieren.",
+            "hu": "Tegyen egy rövid sétát az autótól a velencei világítótoronyig, és fotózza le a lenyűgöző tengeri örökséget a part menti háttérrel.",
+            "ro": "Faceți o scurtă plimbare de la mașină la farul venețian pentru a fotografia impresionanta moștenire maritimă pe un fundal de coastă superb.",
+            "en": "Take a brief stroll from your car to the Venetian Lighthouse to photograph the stunning maritime heritage against a gorgeous coastal backdrop."
+          }
+        },
+        {
+          "name": {
+            "de": "Römischer Friedhof",
+            "hu": "Római temető",
+            "ro": "Cimitirul Roman",
+            "en": "Roman Cemetery"
+          },
+          "coords": [
+            20.577745,
+            38.45942
+          ],
+          "category": "historical",
+          "arrive_at": "14:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie den gut erhaltenen römischen Friedhof direkt auf dem Weg ins Zentrum, perfekt für Geschichtsinteressierte.",
+            "hu": "Látogasson el a falu központja felé vezető úton található, jól megőrzött római temetőbe, amely tökéletes egy gyors történelmi időutazáshoz.",
+            "ro": "Vizitați cimitirul roman bine conservat direct în drum spre centrul satului, perfect pentru pasionații de istorie.",
+            "en": "Visit the well-preserved Roman Cemetery directly en route to the village center, perfect for history enthusiasts wanting a quick glimpse into the past."
+          }
+        },
+        {
+          "name": {
+            "de": "Throni",
+            "hu": "Throni",
+            "ro": "Throni",
+            "en": "Throni"
+          },
+          "coords": [
+            20.570492,
+            38.459815
+          ],
+          "category": "historical",
+          "arrive_at": "15:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Halten Sie kurz an der archäologischen Stätte Throni, um antike Überreste inmitten der mediterranen Vegetation zu beobachten.",
+            "hu": "Álljon meg egy rövid időre a Throni régészeti lelőhelyen, és figyelje meg a mediterrán növényzet között megbúvó ókori maradványokat.",
+            "ro": "Opriți scurt la situl arheologic Throni pentru a observa rămășițele antice ascunse grațios printre vegetația mediteraneană.",
+            "en": "Stop briefly at the Throni archaeological site to observe ancient remnants nestled gracefully among the Mediterranean vegetation."
+          }
+        },
+        {
+          "name": {
+            "de": "Windmühle",
+            "hu": "Szélmalom",
+            "ro": "Moară de vânt",
+            "en": "Windmill"
+          },
+          "coords": [
+            20.565854,
+            38.455437
+          ],
+          "category": "historical",
+          "arrive_at": "17:08",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre malerische Fahrt an der ikonischen Windmühle und genießen Sie das späte Nachmittagslicht über der Küste.",
+            "hu": "Fejezze be festői autózását az ikonikus szélmalomnál, és élvezze a késő délutáni fényeket a festői Jón-tenger partján.",
+            "ro": "Încheiați călătoria pitorească la emblematica moară de vânt, bucurându-vă de lumina de după-amiază târzie peste coasta ionică pitorească.",
+            "en": "Conclude your scenic drive at the iconic Windmill, soaking in the late afternoon glow over the picturesque Ionian coastline."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Roadtrip beginnt mit einem erfrischenden Morgen an den ruhigen Stränden Kimilia und Emblisi. Der Mittag geht in kulturelle Erkundungen über mit der Basilika und dem großen venezianischen Leuchtturm. Am Nachmittag entdecken Sie antike Geheimnisse beim römischen Friedhof und Throni. Der Tag endet wunderbar mit einer malerischen Fahrt zur historischen Windmühle bei Sonnenuntergang.",
+        "hu": "Autós kirándulása egy frissítő reggellel kezdődik a csendes Kimilia és Emblisi strandokon. A nap közepe kulturális felfedezésbe csap át a lenyűgöző bazilika és a nagy velencei világítótorony meglátogatásával. Délután fedezze fel az ősi titkokat a római temető és a Throni bejárásával. A nap gyönyörűen zárul egy festői autózással a történelmi szélmalomhoz naplementekor.",
+        "ro": "Excursia dvs. cu mașina începe cu o dimineață răcoroasă la plajele liniștite Kimilia și Emblisi. Prânzul face tranziția către explorarea culturală la impresionanta Bazilică și marele far venețian. După-amiaza, descoperiți secrete antice vizitând cimitirul roman și Throni. Ziua se încheie frumos cu o plimbare pitorească spre moara de vânt istorică la apus.",
+        "en": "Your road trip begins with a refreshing morning at the serene Kimilia and Emblisi beaches. Midday transitions to cultural exploration as you visit the striking Basilica and the grand Venetian Lighthouse. In the afternoon, discover ancient secrets by touring the Roman Cemetery and Throni. The day wraps up beautifully with a scenic drive to the historic Windmill at sunset."
+      }
+    }
+  }
+}

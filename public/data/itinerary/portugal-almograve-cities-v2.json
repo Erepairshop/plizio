@@ -1,0 +1,451 @@
+{
+  "city_id": "portugal-almograve-cities-v2",
+  "anchor": {
+    "name": "Almograve",
+    "coords": [
+      -8.79277,
+      37.6529
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:17",
+      "total_km": 2.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Archäologische Stätte Foz dos Ouriços",
+            "hu": "Foz dos Ouriços Régészeti Lelőhely",
+            "ro": "Situl Arheologic Foz dos Ouriços",
+            "en": "Foz dos Ouriços Archaeological Site"
+          },
+          "coords": [
+            -8.799044,
+            37.659147
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierenden antiken Ruinen auf den dramatischen Klippen, die die reiche Geschichte der Region offenbaren, und denken Sie an festes Schuhwerk.",
+            "hu": "Fedezze fel a drámai sziklákon található ősi romokat, amelyek a régió gazdag történelmét tárják fel, és mindenképpen viseljen kényelmes, stabil cipőt a terepen.",
+            "ro": "Explorați aceste ruine antice fascinante așezate pe stâncile dramatice, dezvăluind istoria bogată a regiunii, și amintiți-vă să purtați încălțăminte robustă pentru teren.",
+            "en": "Explore these fascinating ancient ruins perched on the dramatic cliffs, revealing the region's rich history, and remember to wear sturdy shoes for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Foz dos Ouriços",
+            "hu": "Foz dos Ouriços Strand",
+            "ro": "Plaja Foz dos Ouriços",
+            "en": "Foz dos Ouriços Beach"
+          },
+          "coords": [
+            -8.800156,
+            37.657695
+          ],
+          "category": "recreational",
+          "arrive_at": "10:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses versteckte Küstenjuwel mit unberührtem Sand und markanten Felsformationen, ideal für einen ruhigen Morgenspaziergang vor der Mittagssonne.",
+            "hu": "Fedezze fel ezt az eldugott tengerparti gyöngyszemet, amely érintetlen homokkal és lenyűgöző sziklaalakzatokkal várja egy csendes reggeli sétára a déli hőség előtt.",
+            "ro": "Descoperiți această bijuterie de coastă ascunsă, cu nisip curat și formațiuni stâncoase impresionante, perfectă pentru o plimbare matinală liniștită înainte de prânz.",
+            "en": "Discover this hidden coastal gem offering pristine sands and striking rock formations, perfect for a peaceful morning stroll before the midday sun gets too intense."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Nossa Senhora",
+            "hu": "Nossa Senhora Strand",
+            "ro": "Plaja Nossa Senhora",
+            "en": "Nossa Senhora Beach"
+          },
+          "coords": [
+            -8.801891,
+            37.653975
+          ],
+          "category": "recreational",
+          "arrive_at": "11:39",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Strand, der für seine ruhige Atmosphäre bekannt ist, aber achten Sie auf die starken Strömungen, wenn Sie schwimmen gehen.",
+            "hu": "Pihenjen ezen a festői strandon, amely nyugodt légköréről és kristálytiszta vizéről ismert, de legyen óvatos az erős atlanti áramlatokkal, ha fürdeni támad kedve.",
+            "ro": "Relaxați-vă pe această plajă pitorească cunoscută pentru atmosfera sa senină și apele cristaline, dar fiți precauți cu curenții puternici dacă vă decideți să înotați.",
+            "en": "Relax on this picturesque beach known for its serene atmosphere and crystal-clear waters, but be cautious of the strong Atlantic currents if you decide to swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptstrand von Almograve",
+            "hu": "Almograve Fő Strandja",
+            "ro": "Plaja Principală din Almograve",
+            "en": "Almograve Main Beach"
+          },
+          "coords": [
+            -8.80247,
+            37.651968
+          ],
+          "category": "recreational",
+          "arrive_at": "12:42",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Sandstrand des Dorfes, ein beliebter Ort für Surfer, und mieten Sie früh einen Schirm, da die besten Plätze im Sommer schnell belegt sind.",
+            "hu": "Élvezze a falu fő strandjának tágas homokos partját, amely a szörfösök kedvelt helye, és béreljen napernyőt korán, mert nyáron gyorsan betelnek a legjobb helyek.",
+            "ro": "Bucurați-vă de țărmurile întinse de nisip ale plajei principale a satului, populară pentru surferi, și închiriați o umbrelă devreme, deoarece locurile se ocupă rapid.",
+            "en": "Enjoy the expansive sandy shores of the village's main beach, a popular spot for surfers and sunbathers, and rent an umbrella early as spots fill up quickly in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Südlicher Almograve-Strand",
+            "hu": "Dél-Almograve Strand",
+            "ro": "Plaja de Sud Almograve",
+            "en": "South Almograve Beach"
+          },
+          "coords": [
+            -8.803842,
+            37.649753
+          ],
+          "category": "recreational",
+          "arrive_at": "13:47",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen an diesem rauen südlichen Küstenabschnitt, der dramatische Ausblicke bietet und ein idealer Ort für ein ruhiges Nachmittagspicknick ist.",
+            "hu": "Meneküljön el a tömeg elől ezen a vadregényes déli partszakaszon, amely drámai óceáni kilátást nyújt, és tökéletes helyszín egy csendes délutáni piknikhez.",
+            "ro": "Evadați de aglomerație pe această porțiune sudică accidentată a coastei, oferind vederi dramatice la ocean, un loc ideal pentru un picnic liniștit de după-amiază.",
+            "en": "Escape the crowds at this rugged southern stretch of the coast, offering dramatic ocean views, making it an ideal spot to spread a towel for a quiet afternoon picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Pedra dos Corvos",
+            "hu": "Pedra dos Corvos",
+            "ro": "Pedra dos Corvos",
+            "en": "Pedra dos Corvos"
+          },
+          "coords": [
+            -8.807459,
+            37.641346
+          ],
+          "category": "natural",
+          "arrive_at": "15:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die natürliche Schönheit dieser felsigen Küstenpfeiler von der Klippe aus, die einen hervorragenden Aussichtspunkt für die Vogelbeobachtung bieten.",
+            "hu": "Csodálja meg ezeknek a parti sziklaoszlopoknak a természetes szépségét a szikla tetejéről, amely kiváló kilátópontot nyújt a madármegfigyeléshez szürkületkor.",
+            "ro": "Admirați frumusețea naturală izbitoare a acestor stâlpi de stâncă de pe vârful falezei, care oferă un punct de observație excelent pentru observarea păsărilor la amurg.",
+            "en": "Admire the striking natural beauty of these coastal rock pillars from the cliff top, which provide an excellent vantage point for bird watching at dusk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der Erkundung der antiken Ruinen und spüren Sie die Meeresbrise auf den Klippen. Gegen Mittag folgen Sie der rauen Küste nach Süden und halten an malerischen Buchten. Verbringen Sie den Nachmittag entspannt am breiten Hauptstrand und genießen Sie die lebhaften Wellen des Atlantiks. Beenden Sie den Abend an den dramatischen Felsen und beobachten Sie den Sonnenuntergang.",
+        "hu": "Kezdje a reggelt az ősi régészeti romok felfedezésével, érezve az óceáni szellőt a magas sziklákon. Dél közeledtével kövesse a zord partvonalat dél felé, festői öblöknél megállva. A délutánt töltse pihenéssel a fő strand széles homokjában, gyönyörködve az élénk atlanti hullámokban. Zárja az estét a drámai sziklás kiemelkedéseknél, ahonnan csodálatos naplementét figyelhet meg.",
+        "ro": "Începeți dimineața explorând ruinele arheologice, simțind briza oceanului pe stâncile înalte. Pe măsură ce se apropie amiaza, urmați coasta accidentată spre sud, oprindu-vă la golfuri pitorești. Petreceți după-amiaza relaxându-vă pe nisipul larg al plajei principale, admirând valurile vibrante ale Atlanticului. Încheiați seara la aflorimentele stâncoase dramatice, privind un apus auriu.",
+        "en": "Start your morning exploring the ancient archaeological ruins, feeling the ocean breeze on the high cliffs. As midday approaches, follow the rugged coastline southwards, stopping at successive picturesque coves. Spend the afternoon relaxing on the wide sands of the main beach, taking in the vibrant Atlantic waves. Conclude your evening at the dramatic rocky outcrops, watching a golden sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:52",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Windmühle von Longueira",
+            "hu": "Longueira Szélmalom",
+            "ro": "Moara de Vânt din Longueira",
+            "en": "Longueira Windmill"
+          },
+          "coords": [
+            -8.775767,
+            37.657749
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise bei dieser schön restaurierten traditionellen Windmühle, die das lokale landwirtschaftliche Erbe zeigt, idealerweise wenn die Segel gesetzt sind.",
+            "hu": "Lépjen vissza az időben ennél a gyönyörűen felújított hagyományos szélmalomnál, amely a helyi mezőgazdasági örökséget mutatja be, ha lehet, bontott vitorlákkal.",
+            "ro": "Întoarceți-vă în timp la această moară de vânt tradițională frumos restaurată, care prezintă moștenirea agricolă, și încercați să o vizitați când pânzele sunt întinse.",
+            "en": "Step back in time at this beautifully restored traditional windmill that showcases local agricultural heritage, and try to visit when the sails are fully set."
+          }
+        },
+        {
+          "name": {
+            "de": "Picos-Strand",
+            "hu": "Picos Strand",
+            "ro": "Plaja Picos",
+            "en": "Picos Beach"
+          },
+          "coords": [
+            -8.800639,
+            37.665062
+          ],
+          "category": "recreational",
+          "arrive_at": "09:53",
+          "stay_min": 60,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die zerklüfteten Felsen an diesem nördlichen Strand, die unglaubliche Fotomotive bieten, aber vom Schwimmen wird hier dringend abgeraten.",
+            "hu": "Csodálja meg a hullámokat átszelő csipkézett sziklákat ezen az északi strandon, amely hihetetlen fotótémát kínál, de a fürdőzés itt szigorúan ellenjavallt.",
+            "ro": "Minunați-vă de stâncile zimțate care taie valurile la această plajă nordică, oferind oportunități fotografice incredibile, dar înotul aici este strict nerecomandat.",
+            "en": "Marvel at the jagged rocks cutting through the waves at this dramatic northern beach, offering incredible photography opportunities, but swimming here is strictly not advised."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Angra do Travesso",
+            "hu": "Angra do Travesso Strand",
+            "ro": "Plaja Angra do Travesso",
+            "en": "Angra do Travesso Beach"
+          },
+          "coords": [
+            -8.801749,
+            37.661853
+          ],
+          "category": "recreational",
+          "arrive_at": "10:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Finden Sie Einsamkeit in dieser schmalen, abgelegenen Bucht zwischen steilen Klippen, deren Zugang knifflig sein kann, also bleiben Sie auf den markierten Wegen.",
+            "hu": "Találjon nyugalomra ezen a keskeny, eldugott, meredek sziklák között megbúvó öbölben, de a lejutás nehézkes lehet, ezért szigorúan kövesse a kijelölt ösvényeket.",
+            "ro": "Găsiți solitudine pe acest golf îngust și izolat, cuibărit între stânci abrupte, deși accesul poate fi dificil, așa că respectați cu atenție traseele marcate.",
+            "en": "Find solitude on this narrow, secluded cove nestled between steep cliffs, though access can be tricky so stick carefully to the marked descent trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Angra das Melancias",
+            "hu": "Angra das Melancias Strand",
+            "ro": "Plaja Angra das Melancias",
+            "en": "Angra das Melancias Beach"
+          },
+          "coords": [
+            -8.802211,
+            37.659976
+          ],
+          "category": "recreational",
+          "arrive_at": "11:56",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem halbmondförmigen, von wilder Flora umrahmten Ufer entlang, wo der windgepeitschte Strand oft eine leichte Jacke erfordert.",
+            "hu": "Sétáljon végig ezen a vad növényzettel szegélyezett, bájos félhold alakú partszakaszon, ahol a szeles környezet miatt még nyáron is jól jöhet egy könnyű kabát.",
+            "ro": "Plimbați-vă pe acest țărm fermecător în formă de semilună încadrat de floră, un mediu spectaculos și vânturos care cere o jachetă ușoară chiar și vara.",
+            "en": "Wander along this charming crescent-shaped shoreline framed by wild flora, providing a spectacular, wind-swept environment that calls for a light jacket even in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologische Stätte Foz dos Ouriços",
+            "hu": "Foz dos Ouriços Régészeti Lelőhely",
+            "ro": "Situl Arheologic Foz dos Ouriços",
+            "en": "Foz dos Ouriços Archaeological Site"
+          },
+          "coords": [
+            -8.799044,
+            37.659147
+          ],
+          "category": "historical",
+          "arrive_at": "12:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierenden antiken Ruinen auf den dramatischen Klippen, die die reiche Geschichte der Region offenbaren, und denken Sie an festes Schuhwerk.",
+            "hu": "Fedezze fel a drámai sziklákon található ősi romokat, amelyek a régió gazdag történelmét tárják fel, és mindenképpen viseljen kényelmes, stabil cipőt a terepen.",
+            "ro": "Explorați aceste ruine antice fascinante așezate pe stâncile dramatice, dezvăluind istoria bogată a regiunii, și amintiți-vă să purtați încălțăminte robustă pentru teren.",
+            "en": "Explore these fascinating ancient ruins perched on the dramatic cliffs, revealing the region's rich history, and remember to wear sturdy shoes for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptstrand von Almograve",
+            "hu": "Almograve Fő Strandja",
+            "ro": "Plaja Principală din Almograve",
+            "en": "Almograve Main Beach"
+          },
+          "coords": [
+            -8.80247,
+            37.651968
+          ],
+          "category": "recreational",
+          "arrive_at": "14:22",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Sandstrand des Dorfes, ein beliebter Ort für Surfer, und mieten Sie früh einen Schirm, da die besten Plätze im Sommer schnell belegt sind.",
+            "hu": "Élvezze a falu fő strandjának tágas homokos partját, amely a szörfösök kedvelt helye, és béreljen napernyőt korán, mert nyáron gyorsan betelnek a legjobb helyek.",
+            "ro": "Bucurați-vă de țărmurile întinse de nisip ale plajei principale a satului, populară pentru surferi, și închiriați o umbrelă devreme, deoarece locurile se ocupă rapid.",
+            "en": "Enjoy the expansive sandy shores of the village's main beach, a popular spot for surfers and sunbathers, and rent an umbrella early as spots fill up quickly in summer."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie heute Morgen ins Landesinnere zur traditionellen Windmühle, einem schönen Stück lokalen Erbes. Mittags geht es zurück an die Küste, vorbei an spektakulären Klippen zu abgelegenen Buchten. Nachmittags fahren Sie zur archäologischen Stätte und lernen die Vergangenheit der Region kennen. Beenden Sie den Tag am Hauptstrand und genießen Sie die lebhafte Sonnenuntergangsstimmung.",
+        "hu": "Reggel tekerjen a szárazföld belseje felé a hagyományos szélmalomhoz, amely a helyi örökség gyönyörű darabja. Délben térjen vissza a partra, és kerékpározzon az északi sziklák mentén az eldugott öblökig. Délután guruljon le a régészeti lelőhelyhez, és ismerje meg a régió ősi múltját. A napot a fő strandhoz tekerve zárja, élvezve a nyüzsgő naplementés hangulatot a vízparton.",
+        "ro": "Pedalați spre interior în această dimineață pentru moara de vânt tradițională, o piesă frumoasă de moștenire locală. Amiaza vă aduce înapoi pe coastă, pe stâncile nordice spre golfuri izolate. După-amiaza, mergeți la situl arheologic pentru a învăța despre trecutul antic. Terminați ziua pe plaja principală, bucurându-vă de atmosfera plină de viață a apusului de soare lângă apă.",
+        "en": "Pedal inland this morning to discover the traditional windmill, a beautiful piece of local heritage. Midday takes you back to the coast, biking along the spectacular northern cliffs to secluded coves. In the afternoon, cruise down to the archaeological site, learning about the region's ancient past. Finish the day riding to the main beach, enjoying the lively sunset atmosphere by the water."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:30",
+      "total_km": 6.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Picos-Strand",
+            "hu": "Picos Strand",
+            "ro": "Plaja Picos",
+            "en": "Picos Beach"
+          },
+          "coords": [
+            -8.800639,
+            37.665062
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die zerklüfteten Felsen an diesem nördlichen Strand, die unglaubliche Fotomotive bieten, aber vom Schwimmen wird hier dringend abgeraten.",
+            "hu": "Csodálja meg a hullámokat átszelő csipkézett sziklákat ezen az északi strandon, amely hihetetlen fotótémát kínál, de a fürdőzés itt szigorúan ellenjavallt.",
+            "ro": "Minunați-vă de stâncile zimțate care taie valurile la această plajă nordică, oferind oportunități fotografice incredibile, dar înotul aici este strict nerecomandat.",
+            "en": "Marvel at the jagged rocks cutting through the waves at this dramatic northern beach, offering incredible photography opportunities, but swimming here is strictly not advised."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologische Stätte Foz dos Ouriços",
+            "hu": "Foz dos Ouriços Régészeti Lelőhely",
+            "ro": "Situl Arheologic Foz dos Ouriços",
+            "en": "Foz dos Ouriços Archaeological Site"
+          },
+          "coords": [
+            -8.799044,
+            37.659147
+          ],
+          "category": "historical",
+          "arrive_at": "10:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierenden antiken Ruinen auf den dramatischen Klippen, die die reiche Geschichte der Region offenbaren, und denken Sie an festes Schuhwerk.",
+            "hu": "Fedezze fel a drámai sziklákon található ősi romokat, amelyek a régió gazdag történelmét tárják fel, és mindenképpen viseljen kényelmes, stabil cipőt a terepen.",
+            "ro": "Explorați aceste ruine antice fascinante așezate pe stâncile dramatice, dezvăluind istoria bogată a regiunii, și amintiți-vă să purtați încălțăminte robustă pentru teren.",
+            "en": "Explore these fascinating ancient ruins perched on the dramatic cliffs, revealing the region's rich history, and remember to wear sturdy shoes for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Windmühle von Longueira",
+            "hu": "Longueira Szélmalom",
+            "ro": "Moara de Vânt din Longueira",
+            "en": "Longueira Windmill"
+          },
+          "coords": [
+            -8.775767,
+            37.657749
+          ],
+          "category": "landmark",
+          "arrive_at": "11:37",
+          "stay_min": 30,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise bei dieser schön restaurierten traditionellen Windmühle, die das lokale landwirtschaftliche Erbe zeigt, idealerweise wenn die Segel gesetzt sind.",
+            "hu": "Lépjen vissza az időben ennél a gyönyörűen felújított hagyományos szélmalomnál, amely a helyi mezőgazdasági örökséget mutatja be, ha lehet, bontott vitorlákkal.",
+            "ro": "Întoarceți-vă în timp la această moară de vânt tradițională frumos restaurată, care prezintă moștenirea agricolă, și încercați să o vizitați când pânzele sunt întinse.",
+            "en": "Step back in time at this beautifully restored traditional windmill that showcases local agricultural heritage, and try to visit when the sails are fully set."
+          }
+        },
+        {
+          "name": {
+            "de": "Hauptstrand von Almograve",
+            "hu": "Almograve Fő Strandja",
+            "ro": "Plaja Principală din Almograve",
+            "en": "Almograve Main Beach"
+          },
+          "coords": [
+            -8.80247,
+            37.651968
+          ],
+          "category": "recreational",
+          "arrive_at": "12:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Sandstrand des Dorfes, ein beliebter Ort für Surfer, und mieten Sie früh einen Schirm, da die besten Plätze im Sommer schnell belegt sind.",
+            "hu": "Élvezze a falu fő strandjának tágas homokos partját, amely a szörfösök kedvelt helye, és béreljen napernyőt korán, mert nyáron gyorsan betelnek a legjobb helyek.",
+            "ro": "Bucurați-vă de țărmurile întinse de nisip ale plajei principale a satului, populară pentru surferi, și închiriați o umbrelă devreme, deoarece locurile se ocupă rapid.",
+            "en": "Enjoy the expansive sandy shores of the village's main beach, a popular spot for surfers and sunbathers, and rent an umbrella early as spots fill up quickly in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Pedra dos Corvos",
+            "hu": "Pedra dos Corvos",
+            "ro": "Pedra dos Corvos",
+            "en": "Pedra dos Corvos"
+          },
+          "coords": [
+            -8.807459,
+            37.641346
+          ],
+          "category": "natural",
+          "arrive_at": "13:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die natürliche Schönheit dieser felsigen Küstenpfeiler von der Klippe aus, die einen hervorragenden Aussichtspunkt für die Vogelbeobachtung bieten.",
+            "hu": "Csodálja meg ezeknek a parti sziklaoszlopoknak a természetes szépségét a szikla tetejéről, amely kiváló kilátópontot nyújt a madármegfigyeléshez szürkületkor.",
+            "ro": "Admirați frumusețea naturală izbitoare a acestor stâlpi de stâncă de pe vârful falezei, care oferă un punct de observație excelent pentru observarea păsărilor la amurg.",
+            "en": "Admire the striking natural beauty of these coastal rock pillars from the cliff top, which provide an excellent vantage point for bird watching at dusk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie heute Morgen zu den nördlichen Stränden, um die zerklüfteten Felsen in der Brandung zu fotografieren. Mittags geht es zu den archäologischen Ruinen direkt am Rand der Klippen. Ihr Nachmittag umfasst einen kurzen Abstecher ins Landesinnere zu einer historischen Windmühle, gefolgt von Entspannung am Hauptstrand. Beenden Sie die Fahrt an den südlichen Aussichtspunkten im Abendlicht.",
+        "hu": "Autózzon el az északi strandokhoz reggel, hogy lefotózza a hullámokat átszelő csipkézett sziklákat. Délben látogasson el a régészeti romokhoz, felfedezve az ősi történelmet a szikla szélén. A délutáni program egy rövid kitérő a történelmi szélmalomhoz, majd pihenés a falu fő strandján. Zárja festői autózását a déli sziklás kilátóknál, ahogy leszáll az est.",
+        "ro": "Conduceți la plajele dramatice nordice dimineața pentru a fotografia stâncile zimțate din valuri. La amiază, mergeți la ruinele arheologice, explorând istoria chiar pe marginea stâncii. După-amiaza include un scurt ocol spre interior la o moară de vânt istorică, urmat de relaxare la plaja principală. Terminați drumul panoramic la punctele de belvedere stâncoase din sud la apus.",
+        "en": "Drive to the dramatic northern beaches this morning to photograph the jagged rocks cutting through the surf. By midday, shift to the archaeological ruins, exploring ancient history right on the cliff edge. Your afternoon features a quick inland detour to a historic windmill followed by relaxing at the main village beach. End your scenic drive at the southern rocky viewpoints as dusk settles."
+      }
+    }
+  }
+}

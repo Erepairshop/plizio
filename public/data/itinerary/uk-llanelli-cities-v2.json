@@ -1,0 +1,451 @@
+{
+  "city_id": "uk-llanelli-cities-v2",
+  "anchor": {
+    "name": "Llanelli",
+    "coords": [
+      -4.15,
+      51.6833
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 4.55,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Llanelly House",
+            "hu": "Llanelly House",
+            "ro": "Llanelly House",
+            "en": "Llanelly House"
+          },
+          "coords": [
+            -4.16142,
+            51.6834
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses wunderbar restaurierte georgianische Stadthaus aus dem 18. Jahrhundert und buchen Sie vorab eine Führung, um die verborgenen historischen Räume zu sehen.",
+            "hu": "Lépjen be ebbe a gyönyörűen felújított, 18. századi grúz városi házba, és foglaljon előre vezetett túrát, hogy felfedezhesse a rejtett történelmi örökséget őrző szobákat.",
+            "ro": "Pășiți în această casă georgiană din secolul al XVIII-lea frumos restaurată și rezervați un tur ghidat în avans pentru a descoperi camerele de patrimoniu ascunse publicului.",
+            "en": "Step inside this beautifully restored 18th-century Georgian town house to discover its rich local history, and book a guided tour in advance to see the hidden heritage rooms."
+          }
+        },
+        {
+          "name": {
+            "de": "Ffwrnes Theatre",
+            "hu": "Ffwrnes Színház",
+            "ro": "Teatrul Ffwrnes",
+            "en": "Ffwrnes Theatre"
+          },
+          "coords": [
+            -4.158315,
+            51.683201
+          ],
+          "category": "cultural",
+          "arrive_at": "10:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Einblick in die lebendige Kulturszene in diesem modernen Zentrum und prüfen Sie das Tagesprogramm auf faszinierende lokale Ausstellungen oder Workshops.",
+            "hu": "Élvezze a régió pezsgő kulturális életét ebben a modern előadó-művészeti központban, és ellenőrizze a nappali programokat, hogy találjon izgalmas helyi kiállításokat.",
+            "ro": "Bucurați-vă de o privire asupra scenei culturale vibrante în acest centru modern de arte și verificați programul de zi pentru expoziții locale fascinante sau ateliere.",
+            "en": "Enjoy a glimpse into the region's vibrant cultural scene at this modern performing arts centre, and check their daytime schedule for fascinating local exhibitions or workshops."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Howard Museum",
+            "hu": "Parc Howard Múzeum",
+            "ro": "Muzeul Parc Howard",
+            "en": "Parc Howard Museum"
+          },
+          "coords": [
+            -4.16,
+            51.6894
+          ],
+          "category": "museum",
+          "arrive_at": "12:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historische Herrenhaus inmitten eines schönen Parks, um mehr über die Töpferei von Llanelli zu erfahren, und trinken Sie einen Kaffee im nahen Café.",
+            "hu": "Fedezze fel ezt a gyönyörű parkkal körülvett, történelmi kúriát, hogy megismerje Llanelli fazekas örökségét, és mindenképpen igyon egy gyors kávét a közeli helyi kávézóban.",
+            "ro": "Explorați acest conac istoric grandios înconjurat de un parc frumos pentru a afla despre ceramica din Llanelli, asigurându-vă că savurați o cafea la cafeneaua locală.",
+            "en": "Explore this grand historic mansion surrounded by beautiful parkland to learn about Llanelli's pottery heritage, making sure to grab a quick coffee at the nearby local café."
+          }
+        },
+        {
+          "name": {
+            "de": "Tre-Beddrod-Stausee",
+            "hu": "Tre-Beddrod víztározó",
+            "ro": "Rezervorul Tre-Beddrod",
+            "en": "Tre-Beddrod Reservoir"
+          },
+          "coords": [
+            -4.166009,
+            51.697941
+          ],
+          "category": "natural",
+          "arrive_at": "14:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Machen Sie einen Spaziergang um diesen malerischen viktorianischen Stausee, der hervorragende Möglichkeiten zur Vogelbeobachtung bietet, also bringen Sie Ihr Fernglas mit.",
+            "hu": "Tegyen egy pihentető sétát e festői viktoriánus víztározó körül, amely kiváló madármegfigyelési lehetőségeket kínál, ezért semmiképp ne felejtse el magával hozni a távcsövét.",
+            "ro": "Faceți o plimbare relaxantă în jurul acestui pitoresc rezervor istoric victorian, care oferă oportunități excelente de observare a păsărilor, așa că aduceți-vă binoclul.",
+            "en": "Take a relaxing stroll around this picturesque historical Victorian reservoir, which provides excellent bird-watching opportunities so don't forget to bring your binoculars along."
+          }
+        },
+        {
+          "name": {
+            "de": "North Dock",
+            "hu": "North Dock",
+            "ro": "North Dock",
+            "en": "North Dock"
+          },
+          "coords": [
+            -4.173184,
+            51.675143
+          ],
+          "category": "recreational",
+          "arrive_at": "15:54",
+          "stay_min": 105,
+          "hop_from_prev_min": 39,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den ruhigen Gewässern dieses umgestalteten ehemaligen Hafengebiets, wo Sie einen weiten Küstenblick und einen Spaziergang am Uferweg genießen können.",
+            "hu": "Pihenjen meg a nyugodt vizek partján ebben a felújított egykori ipari kikötőben, ahol lenyűgöző tengerparti kilátásban gyönyörködhet egy frissítő séta során a kövezett úton.",
+            "ro": "Relaxați-vă lângă apele calme ale acestui fost doc industrial regenerat, unde vă puteți bucura de vederi de coastă uimitoare și puteți face o plimbare răcoritoare pe faleză.",
+            "en": "Unwind by the calm waters of this regenerated former industrial dockland where you can enjoy sweeping coastal views and take a refreshing walk along the paved waterfront path."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einem tiefen Einblick in das lokale Erbe im Llanelly House, gefolgt von einem inspirierenden Stopp im Ffwrnes Theatre. Mittags besuchen Sie das prächtige Parc Howard Museum für Geschichte in üppigen Parkanlagen. Der Nachmittag wird mit der Ruhe des Tre-Beddrod-Stausees verbracht. Der Abend klingt am North Dock aus, wo ruhige Wasserblicke Ihren perfekten Tag beenden.",
+        "hu": "A reggel a Llanelly House helyi örökségének felfedezésével kezdődik, majd a Ffwrnes Theatre kulturális élményeivel folytatódik. Délben a lenyűgöző Parc Howard Múzeum történelemmel és a park nyugalmával várja. A délutánt a Tre-Beddrod víztározó békés partjainál töltheti. Az este a North Dock felújított kikötőjében ér véget, ahol a nyugodt tengerparti kilátás koronázza meg a napot.",
+        "ro": "Dimineața începe cu o scufundare în patrimoniul local la Llanelly House, urmată de o oprire culturală inspirată la Teatrul Ffwrnes. La prânz ajungeți la marele Muzeu Parc Howard pentru istorie și relaxare. După-amiaza este petrecută îmbrățișând calmul rezervorului istoric Tre-Beddrod. Seara se așează frumos la North Dock, unde vederile liniștite ale falezei vă încheie ziua perfectă.",
+        "en": "Morning begins with a deep dive into local heritage at Llanelly House, followed by an inspiring cultural stop at Ffwrnes Theatre. Midday brings you to the grand Parc Howard Museum for history and relaxation in its lush parkland. Afternoon is spent embracing the calm of Tre-Beddrod Reservoir. Evening settles beautifully down at North Dock, where serene waterfront views end your perfect day."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 7.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "WWT Llanelli Feuchtgebiet",
+            "hu": "WWT Llanelli Vizes Élőhely",
+            "ro": "Centrul Zonelor Umede WWT",
+            "en": "WWT Llanelli Wetland Centre"
+          },
+          "coords": [
+            -4.125,
+            51.665
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem spektakulären Feuchtgebiet mit seinen vielfältigen Lebensräumen in die Natur ein und kommen Sie früh, um die heimischen Flamingos zu füttern.",
+            "hu": "Merüljön el a természetben ebben a látványos vizes élőhely-rezervátumban, amely változatos vadvilágnak ad otthont, és érkezzen korán, hogy megetethesse a flamingókat.",
+            "ro": "Cufundați-vă în natură în această rezervație spectaculoasă de zone umede cu habitate diverse de faună sălbatică și ajungeți devreme pentru a hrăni flamingo-urile rezidente.",
+            "en": "Immerse yourself in nature at this spectacular wetland reserve boasting diverse wildlife habitats, and arrive early to feed the resident flamingos for a memorable experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Deep Water Lake",
+            "hu": "Deep Water Tó",
+            "ro": "Lacul Deep Water",
+            "en": "Deep Water Lake"
+          },
+          "coords": [
+            -4.118239,
+            51.665884
+          ],
+          "category": "natural",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ruhige Atmosphäre dieses ausgedehnten Gewässers direkt neben den Feuchtgebieten, ideal für friedliches Nachdenken oder ein Picknick an den grasbewachsenen Ufern.",
+            "hu": "Csodálja meg a vizes élőhelyek melletti hatalmas tó nyugodt hangulatát, amely tökéletes helyszín a békés elmélkedéshez vagy egy csendes délutáni piknikhez a füves partokon.",
+            "ro": "Admirați ambianța liniștită a acestei întinderi mari de apă, situată chiar lângă zonele umede, perfectă pentru meditație sau un picnic liniștit pe malurile sale înierbate.",
+            "en": "Admire the tranquil ambiance of this expansive water body situated right next to the wetlands, perfect for peaceful reflection or a quiet afternoon picnic on its grassy banks."
+          }
+        },
+        {
+          "name": {
+            "de": "Delta Lakes",
+            "hu": "Delta Tavak",
+            "ro": "Lacurile Delta",
+            "en": "Delta Lakes"
+          },
+          "coords": [
+            -4.160677,
+            51.667117
+          ],
+          "category": "natural",
+          "arrive_at": "11:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses malerische städtische Seegebiet, das moderne Infrastruktur wunderbar mit lokaler Ökologie verbindet und ein großartiger Ort zum Radfahren in Küstennähe ist.",
+            "hu": "Fedezze fel ezt a festői városi tóvidéket, amely csodálatosan ötvözi a modern infrastruktúrát a helyi ökológiával, és nagyszerű helyszín tengerparti kerékpározáshoz vagy sétához.",
+            "ro": "Descoperiți această zonă lacustră urbană pitorească care îmbină infrastructura modernă cu ecologia locală, fiind un loc excelent pentru ciclism sau o plimbare pe malul mării.",
+            "en": "Discover this scenic urban lake area that wonderfully blends modern infrastructure with local ecology, making it a great spot for cycling or a brisk scenic walk near the coast."
+          }
+        },
+        {
+          "name": {
+            "de": "North Dock",
+            "hu": "North Dock",
+            "ro": "North Dock",
+            "en": "North Dock"
+          },
+          "coords": [
+            -4.173184,
+            51.675143
+          ],
+          "category": "recreational",
+          "arrive_at": "13:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den ruhigen Gewässern dieses umgestalteten ehemaligen Hafengebiets, wo Sie einen weiten Küstenblick und einen Spaziergang am Uferweg genießen können.",
+            "hu": "Pihenjen meg a nyugodt vizek partján ebben a felújított egykori ipari kikötőben, ahol lenyűgöző tengerparti kilátásban gyönyörködhet egy frissítő séta során a kövezett úton.",
+            "ro": "Relaxați-vă lângă apele calme ale acestui fost doc industrial regenerat, unde vă puteți bucura de vederi de coastă uimitoare și puteți face o plimbare răcoritoare pe faleză.",
+            "en": "Unwind by the calm waters of this regenerated former industrial dockland where you can enjoy sweeping coastal views and take a refreshing walk along the paved waterfront path."
+          }
+        },
+        {
+          "name": {
+            "de": "Millennium Küstenpark",
+            "hu": "Millennium Part menti Park",
+            "ro": "Parcul de Coastă Millennium",
+            "en": "Millennium Coastal Park"
+          },
+          "coords": [
+            -4.1983,
+            51.6853
+          ],
+          "category": "recreational",
+          "arrive_at": "14:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Überqueren Sie diesen ausgedehnten Küstenstreifen mit gepflegten Rad- und Wanderwegen und halten Sie unbedingt am Besucherzentrum für Karten und lokales Eis an.",
+            "hu": "Járja be ezt a hatalmas part menti sávot, amely gyönyörűen karbantartott kerékpár- és gyalogutakkal büszkélkedhet, és térjen be a látogatóközpontba egy helyi fagylaltért.",
+            "ro": "Traversați această fâșie de coastă extinsă, care oferă trasee de ciclism și de mers pe jos bine întreținute, și asigurați-vă că opriți la centrul de vizitatori pentru o înghețată.",
+            "en": "Traverse this expansive coastal strip featuring beautifully maintained cycle routes and walking trails, and be sure to stop by the visitor center for maps and local ice cream."
+          }
+        },
+        {
+          "name": {
+            "de": "Stradey Castle",
+            "hu": "Stradey-kastély",
+            "ro": "Castelul Stradey",
+            "en": "Stradey Castle"
+          },
+          "coords": [
+            -4.18448,
+            51.6922
+          ],
+          "category": "historical",
+          "arrive_at": "16:09",
+          "stay_min": 110,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die großartige Architektur dieses historischen walisischen Landhauses in weitläufigen Wäldern und bestätigen Sie die Öffnungszeiten online, da der Zugang begrenzt ist.",
+            "hu": "Csodálja meg ennek az erdőségekben megbúvó, történelmi walesi vidéki kúriának a grandiózus építészetét, és ellenőrizze online a nyílt napokat, mivel a bejárás korlátozott.",
+            "ro": "Admirați arhitectura grandioasă a acestei case de țară galeze istorice situate în păduri vaste și confirmați online zilele deschise, deoarece accesul publicului este limitat.",
+            "en": "Marvel at the grand architecture of this historic Welsh country house set in sweeping woodlands, and confirm their open days online since public access is somewhat restricted."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt inmitten der Natur im WWT Wetland Centre und am angrenzenden Deep Water Lake. Die Mittagszeit ist perfekt für Radtouren entlang der malerischen Wege der modernen Delta Lakes. Der Nachmittag lädt Sie ein, Ihre Fahrt entlang der Küste zum Millennium Coastal Park fortzusetzen. Der Abend endet mit einer Fahrt zu den historischen Wäldern rund um Stradey Castle.",
+        "hu": "A reggel a természetben indul a WWT Vizes Élőhely Központban és a szomszédos Deep Water tónál. A dél tökéletes a modern Delta Lakes festői, kanyargós ösvényein való kerékpározáshoz. A délután arra csábít, hogy a part mentén a Millennium Coastal Park felé folytassa útját. Az este a Stradey-kastély történelmi erdeibe tett frissítő kerékpártúrával zárul a nap végén.",
+        "ro": "Dimineața începe în mijlocul naturii la Centrul WWT și la Lacul Deep Water adiacent. Prânzul este perfect pentru a pedala de-a lungul cărărilor pitorești ale modernelor Delta Lakes. După-amiaza vă invită să continuați plimbarea pe coastă către North Dock și vastul Millennium Coastal Park. Seara se încheie cu o plimbare până la pădurile istorice din jurul Castelului Stradey.",
+        "en": "Morning kicks off amidst nature at the WWT Wetland Centre and the adjacent Deep Water Lake. Midday is perfect for cycling along the scenic, winding paths of the modern Delta Lakes. Afternoon invites you to continue your ride up the coast towards North Dock and the sweeping Millennium Coastal Park. Evening concludes with a ride up to the historic woodlands of Stradey Castle."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Swiss Valley Stausee",
+            "hu": "Swiss Valley víztározó",
+            "ro": "Rezervorul Valea Elvețiană",
+            "en": "Swiss Valley Reservoir"
+          },
+          "coords": [
+            -4.145642,
+            51.711238
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen erfrischenden Start in den Tag an diesem ruhigen Waldstausee und tragen Sie wasserdichte Schuhe, wenn Sie die schlammigen Waldwege erkunden möchten.",
+            "hu": "Élvezze a nap frissítő kezdetét ezen a tiszta vizéről ismert, nyugodt erdei víztározónál, és viseljen vízálló cipőt, ha a sáros erdei ösvények felfedezését tervezi.",
+            "ro": "Bucurați-vă de un început de zi revigorant la acest rezervor liniștit, renumit pentru apele sale clare, și purtați pantofi impermeabili dacă explorați traseele împădurite noroioase.",
+            "en": "Enjoy a refreshing start to your day at this serene woodland reservoir known for its clear waters, and wear sturdy waterproof shoes if you plan to explore the muddy woodland trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Cwm Lliedi Stausee",
+            "hu": "Cwm Lliedi víztározó",
+            "ro": "Rezervorul Cwm Lliedi",
+            "en": "Cwm Lliedi Reservoir"
+          },
+          "coords": [
+            -4.146854,
+            51.71201
+          ],
+          "category": "natural",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Wandern Sie nur wenige Schritte zu diesem wunderschön friedlichen angrenzenden Stausee in den Hügeln, wo die dichte Baumkrone ein perfektes Motiv für Naturfotografie bietet.",
+            "hu": "Sétáljon át néhány lépéssel ehhez a dombok között megbúvó, gyönyörűen békés szomszédos víztározóhoz, ahol a sűrű lombkorona tökéletes hátteret nyújt a természetfotózáshoz.",
+            "ro": "Faceți doar câțiva pași către acest rezervor alăturat frumos și pașnic, cuibărit în dealuri, unde copacii deși oferă un fundal perfect pentru fotografia de natură.",
+            "en": "Wander just a few steps over to this beautifully peaceful adjoining reservoir nestled in the hills, where the dense tree cover provides a perfect canopy for nature photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Howard Museum",
+            "hu": "Parc Howard Múzeum",
+            "ro": "Muzeul Parc Howard",
+            "en": "Parc Howard Museum"
+          },
+          "coords": [
+            -4.16,
+            51.6894
+          ],
+          "category": "museum",
+          "arrive_at": "11:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historische Herrenhaus inmitten eines schönen Parks, um mehr über die Töpferei von Llanelli zu erfahren, und trinken Sie einen Kaffee im nahen Café.",
+            "hu": "Fedezze fel ezt a gyönyörű parkkal körülvett, történelmi kúriát, hogy megismerje Llanelli fazekas örökségét, és mindenképpen igyon egy gyors kávét a közeli helyi kávézóban.",
+            "ro": "Explorați acest conac istoric grandios înconjurat de un parc frumos pentru a afla despre ceramica din Llanelli, asigurându-vă că savurați o cafea la cafeneaua locală.",
+            "en": "Explore this grand historic mansion surrounded by beautiful parkland to learn about Llanelli's pottery heritage, making sure to grab a quick coffee at the nearby local café."
+          }
+        },
+        {
+          "name": {
+            "de": "Llanelly House",
+            "hu": "Llanelly House",
+            "ro": "Llanelly House",
+            "en": "Llanelly House"
+          },
+          "coords": [
+            -4.16142,
+            51.6834
+          ],
+          "category": "historical",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses wunderbar restaurierte georgianische Stadthaus aus dem 18. Jahrhundert und buchen Sie vorab eine Führung, um die verborgenen historischen Räume zu sehen.",
+            "hu": "Lépjen be ebbe a gyönyörűen felújított, 18. századi grúz városi házba, és foglaljon előre vezetett túrát, hogy felfedezhesse a rejtett történelmi örökséget őrző szobákat.",
+            "ro": "Pășiți în această casă georgiană din secolul al XVIII-lea frumos restaurată și rezervați un tur ghidat în avans pentru a descoperi camerele de patrimoniu ascunse publicului.",
+            "en": "Step inside this beautifully restored 18th-century Georgian town house to discover its rich local history, and book a guided tour in advance to see the hidden heritage rooms."
+          }
+        },
+        {
+          "name": {
+            "de": "Ffwrnes Theatre",
+            "hu": "Ffwrnes Színház",
+            "ro": "Teatrul Ffwrnes",
+            "en": "Ffwrnes Theatre"
+          },
+          "coords": [
+            -4.158315,
+            51.683201
+          ],
+          "category": "cultural",
+          "arrive_at": "14:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Einblick in die lebendige Kulturszene in diesem modernen Zentrum und prüfen Sie das Tagesprogramm auf faszinierende lokale Ausstellungen oder Workshops.",
+            "hu": "Élvezze a régió pezsgő kulturális életét ebben a modern előadó-művészeti központban, és ellenőrizze a nappali programokat, hogy találjon izgalmas helyi kiállításokat.",
+            "ro": "Bucurați-vă de o privire asupra scenei culturale vibrante în acest centru modern de arte și verificați programul de zi pentru expoziții locale fascinante sau ateliere.",
+            "en": "Enjoy a glimpse into the region's vibrant cultural scene at this modern performing arts centre, and check their daytime schedule for fascinating local exhibitions or workshops."
+          }
+        },
+        {
+          "name": {
+            "de": "WWT Llanelli Feuchtgebiet",
+            "hu": "WWT Llanelli Vizes Élőhely",
+            "ro": "Centrul Zonelor Umede WWT",
+            "en": "WWT Llanelli Wetland Centre"
+          },
+          "coords": [
+            -4.125,
+            51.665
+          ],
+          "category": "natural",
+          "arrive_at": "16:20",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem spektakulären Feuchtgebiet mit seinen vielfältigen Lebensräumen in die Natur ein und kommen Sie früh, um die heimischen Flamingos zu füttern.",
+            "hu": "Merüljön el a természetben ebben a látványos vizes élőhely-rezervátumban, amely változatos vadvilágnak ad otthont, és érkezzen korán, hogy megetethesse a flamingókat.",
+            "ro": "Cufundați-vă în natură în această rezervație spectaculoasă de zone umede cu habitate diverse de faună sălbatică și ajungeți devreme pentru a hrăni flamingo-urile rezidente.",
+            "en": "Immerse yourself in nature at this spectacular wetland reserve boasting diverse wildlife habitats, and arrive early to feed the resident flamingos for a memorable experience."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt in den ruhigen Wäldern der Stauseen Swiss Valley und Cwm Lliedi. Mittags geht es ins Herz der Stadt, wo die Pracht des Parc Howard Museums auf das Erbe des Llanelly House trifft. Der Nachmittag bietet Kunst im Ffwrnes Theatre, bevor Sie nach Süden fahren. Der Abend bringt ein spektakuläres Erlebnis bei der Beobachtung der vielfältigen Vogelwelt im WWT Wetland Centre.",
+        "hu": "A reggel a Swiss Valley és a Cwm Lliedi víztározók nyugodt erdei környezetében kezdődik. A dél a város szívébe vezet, ahol a Parc Howard Múzeum pompája találkozik a Llanelly House örökségével. A délután a művészetek érintését kínálja a Ffwrnes Színházban, mielőtt dél felé indulna. Az estét a WWT Vizes Élőhely Központ gazdag madárvilágának megfigyelése teszi felejthetetlenné.",
+        "ro": "Dimineața începe cu decorul pădurilor liniștite din Valea Elvețiană și Rezervoarele Cwm Lliedi. Prânzul se mută în inima orașului, unde grandiosul Muzeu Parc Howard întâlnește patrimoniul Casei Llanelly. După-amiaza oferă o notă de artă la Teatrul Ffwrnes înainte de a conduce spre sud. Seara aduce o experiență spectaculoasă la amurg, urmărind păsările la Centrul WWT.",
+        "en": "Morning starts with the tranquil woodland settings of the Swiss Valley and Cwm Lliedi Reservoirs. Midday shifts into the heart of town, where the grandeur of Parc Howard Museum meets the heritage of Llanelly House. Afternoon offers a touch of the arts at Ffwrnes Theatre before driving south. Evening brings a spectacular twilight experience watching the diverse birdlife at the WWT Wetland Centre."
+      }
+    }
+  }
+}

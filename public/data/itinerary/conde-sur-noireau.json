@@ -1,0 +1,451 @@
+{
+  "city_id": "conde-sur-noireau",
+  "anchor": {
+    "name": "Condé-sur-Noireau",
+    "coords": [
+      -0.55,
+      48.8508
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:34",
+      "total_km": 1.58,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall (Hôtel de Ville)"
+          },
+          "coords": [
+            -0.55103,
+            48.850576
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Rundgang am historischen Rathaus, dem zivilen Herzen der Stadt, und bewundern Sie die Nachkriegsarchitektur, bevor Sie zu den nahegelegenen Kirchen gehen.",
+            "hu": "Kezdje a gyalogos túrát a történelmi Városházánál, a város civil központjánál, és figyelje meg a háború utáni újjáépítés építészetét, mielőtt a közeli templomokhoz indulna.",
+            "ro": "Începeți turul pietonal la Primăria istorică, inima civică a orașului, și observați arhitectura de reconstrucție postbelică înainte de a vă îndrepta spre bisericile din apropiere.",
+            "en": "Start your walking tour at the historic Town Hall, the civic heart of the city, and notice the post-war reconstruction architecture before heading to the nearby churches."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Sauveur",
+            "hu": "Église Saint-Sauveur",
+            "ro": "Biserica Saint-Sauveur",
+            "en": "Église Saint-Sauveur"
+          },
+          "coords": [
+            -0.548907,
+            48.851565
+          ],
+          "category": "religious",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden Buntglasfenster dieser zentralen Kirche, ein architektonisches Juwel der Stadt, und genießen Sie die friedliche Atmosphäre im Hauptschiff.",
+            "hu": "Csodálja meg e központi templom lenyűgöző ólomüveg ablakait, a város építészeti ékkövét, és szánjon egy percet arra, hogy élvezze a békés hangulatot a főhajóban.",
+            "ro": "Admirați vitraliile impresionante ale acestei biserici centrale, o bijuterie arhitecturală a orașului, și acordați-vă un moment pentru a vă bucura de atmosfera liniștită.",
+            "en": "Admire the impressive stained glass windows of this central church, an architectural gem of the town, and take a moment to enjoy the peaceful atmosphere inside the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Tempel",
+            "hu": "Protestáns templom",
+            "ro": "Templul protestant",
+            "en": "Temple"
+          },
+          "coords": [
+            -0.546051,
+            48.851698
+          ],
+          "category": "religious",
+          "arrive_at": "10:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie den bescheidenen, aber faszinierenden protestantischen Tempel, der die religiöse Vielfalt widerspiegelt, und prüfen Sie das Schwarze Brett auf Choraufführungen.",
+            "hu": "Fedezze fel a szerény, ám lenyűgöző protestáns templomot, amely a helyi vallási sokszínűséget tükrözi, és feltétlenül ellenőrizze a hirdetőtáblát az esetleges kóruselőadásokról.",
+            "ro": "Descoperiți Templul protestant modest, dar fascinant, care reflectă diversitatea religioasă locală, asigurându-vă că verificați panoul informativ pentru concertele de cor ocazionale.",
+            "en": "Discover the modest yet fascinating Protestant Temple which reflects the local religious diversity, making sure to check the notice board for occasional choir performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Ufer der Noireau",
+            "hu": "A Noireau partja",
+            "ro": "Malurile râului Noireau",
+            "en": "Banks of the Noireau"
+          },
+          "coords": [
+            -0.550716,
+            48.849672
+          ],
+          "category": "natural",
+          "arrive_at": "11:07",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie an den malerischen Ufern des Flusses Noireau, um die industrielle Vergangenheit der Stadt zu verstehen, und bringen Sie Brotkrümel mit, um die Enten zu füttern.",
+            "hu": "Sétáljon végig a Noireau folyó festői partján, hogy megértse a város ipari múltját, és hozzon magával néhány kenyérmorzsát, ha szeretné megetetni a barátságos kacsákat.",
+            "ro": "Plimbați-vă de-a lungul malurilor pitorești ale râului Noireau pentru a înțelege trecutul industrial, și aduceți câteva firimituri de pâine dacă doriți să hrăniți rațele.",
+            "en": "Stroll along the picturesque banks of the Noireau river to understand the town's industrial past, and bring some bread crumbs if you wish to feed the friendly ducks nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Charles Léandre Museum",
+            "hu": "Charles Léandre Múzeum",
+            "ro": "Muzeul Charles Léandre",
+            "en": "Charles Léandre Museum"
+          },
+          "coords": [
+            -0.551285,
+            48.848094
+          ],
+          "category": "museum",
+          "arrive_at": "11:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem modernen Museum in die Werke von Charles Léandre und die lokale Geschichte ein, aber denken Sie daran, größere Rucksäcke an der kostenlosen Garderobe abzugeben.",
+            "hu": "Merüljön el Charles Léandre műveiben és a helyi történelemben ebben a modern múzeumban, de ne felejtse el ingyenes ruhatárban hagyni a nagyobb hátizsákokat a kényelem érdekében.",
+            "ro": "Cufundați-vă în operele lui Charles Léandre și în istoria locală din acest muzeu modern, dar nu uitați să lăsați rucsacurile mai mari la garderoba gratuită de la intrare.",
+            "en": "Immerse yourself in the works of Charles Léandre and local history inside this modern museum, but remember to leave larger backpacks at the complimentary cloakroom counter."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            -0.548127,
+            48.8424
+          ],
+          "category": "religious",
+          "arrive_at": "13:24",
+          "stay_min": 70,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an dieser alten Kirche mit wunderschöner religiöser Kunst der Region und umrunden Sie das ruhige Außengelände, um die Steinfassade zu bewundern.",
+            "hu": "Fejezze be a sétát ennél az ősi templomnál, amely a régió gyönyörű vallásos művészetét kínálja, és sétálja körbe a csendes külső ösvényeket, hogy értékelje a kőhomlokzatot.",
+            "ro": "Încheiați-vă plimbarea la această biserică veche, care oferă artă religioasă frumoasă din regiune, și plimbați-vă pe aleile exterioare liniștite pentru a-i aprecia fațada de piatră.",
+            "en": "Conclude your walk at this ancient church offering beautiful religious art from the region, and walk around the quiet exterior pathways to fully appreciate its stone facade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie Ihren Tag im historischen Zentrum, entdecken Sie das zivile Herz von Condé-sur-Noireau am Rathaus und bewundern Sie die widerstandsfähige Architektur.\nMittag: Wechseln Sie vom städtischen Leben zum spirituellen Erbe, indem Sie die Église Saint-Sauveur und den friedlichen protestantischen Tempel im Herzen der Stadt erkunden.\nNachmittag: Genießen Sie einen Spaziergang an den Ufern des Flusses Noireau und tauchen Sie im Charles Léandre Museum in die reiche lokale Kunst und Geschichte ein.\nAbend: Beenden Sie Ihren Rundgang an der charmanten Église Saint-Pierre und nehmen Sie sich Zeit, in der ruhigen Atmosphäre nachzudenken, während der Abend einkehrt.",
+        "hu": "Délelőtt: Kezdje a napot a történelmi központban, fedezze fel Condé-sur-Noireau civil szívét a Városházán, és csodálja meg építészetének figyelemre méltó rugalmasságát.\nDél: Váltson a városi életről a spirituális örökségre a központi Église Saint-Sauveur és a város szívében található békés protestáns templom felfedezésével.\nDélután: Élvezze a pihentető sétát a Noireau folyó partján, majd merüljön el a gazdag helyi művészetben és történelemben a modern Charles Léandre Múzeumban.\nEste: Fejezze be gyalogos utazását a bájos Église Saint-Pierre-nél, és szánjon időt az elmélkedésre a nyugodt környezetben, ahogy a város csendes estébe burkolózik.",
+        "ro": "Dimineață: Începeți ziua în centrul istoric, descoperind inima civică a orașului Condé-sur-Noireau la Primărie și admirând reziliența reflectată în arhitectura sa.\nAmiază: Faceți tranziția de la viața civică la moștenirea spirituală, explorând centrala Église Saint-Sauveur și pașnicul Templu protestant, situate în inima orașului.\nDupă-amiază: Bucurați-vă de o plimbare relaxantă de-a lungul malurilor râului Noireau, apoi cufundați-vă în arta și istoria locală la Muzeul Charles Léandre.\nSeară: Încheiați-vă călătoria pietonală la fermecătoarea Église Saint-Pierre, făcându-vă timp pentru a reflecta în ambianța liniștită pe măsură ce seara se lasă peste oraș.",
+        "en": "Morning: Begin your day in the historic center, discovering the civic heart of Condé-sur-Noireau at the Town Hall and admiring the resilience in its architecture.\nMidday: Transition from civic life to spiritual heritage by exploring the central Église Saint-Sauveur and the peaceful Protestant Temple located right in the heart of town.\nAfternoon: Enjoy a relaxing stroll along the banks of the Noireau river, then immerse yourself in rich local art and history at the Charles Léandre Museum.\nEvening: Conclude your walking journey at the charming Église Saint-Pierre, taking time to reflect in the tranquil ambiance as the town settles into a quiet evening."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 17.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Saint-Jacques",
+            "hu": "Chapelle Saint-Jacques",
+            "ro": "Capela Saint-Jacques",
+            "en": "Chapelle Saint-Jacques"
+          },
+          "coords": [
+            -0.53694,
+            48.858236
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Radtour an dieser charmanten Kapelle im Grünen und achten Sie darauf, Ihr Fahrrad sicher an der alten Steinmauer abzustellen, bevor Sie eintreten.",
+            "hu": "Kezdje a kerékpártúrát ennél a bájos, zöldövezetben megbúvó út menti kápolnánál, és ügyeljen arra, hogy a kerékpárját biztonságosan a régi kőfalhoz rögzítse belépés előtt.",
+            "ro": "Începeți turul cu bicicleta la această capelă fermecătoare de pe marginea drumului, ascunsă în verdeață, având grijă să vă parcați bicicleta în siguranță la zidul vechi de piatră.",
+            "en": "Kick off your cycling tour at this charming roadside chapel nestled in greenery, taking care to park your bike securely by the old stone wall before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall (Hôtel de Ville)"
+          },
+          "coords": [
+            -0.55103,
+            48.850576
+          ],
+          "category": "civic",
+          "arrive_at": "09:58",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Radeln Sie ins Stadtzentrum, um den belebten Rathausplatz als Symbol des modernen Wiederaufbaus zu sehen, und machen Sie eine Pause in einem Café für ein kaltes lokales Getränk.",
+            "hu": "Tekerjen be a városközpontba, hogy megtekintse a nyüzsgő városháza teret, amely a modern újjáépítést képviseli, és tartson szünetet egy közeli kávézóban egy hideg italra.",
+            "ro": "Mergeți cu bicicleta în centrul orașului pentru a vedea piața primăriei ce reprezintă reconstrucția modernă, oprindu-vă la o cafenea din apropiere pentru a vă răcori cu o băutură.",
+            "en": "Cycle into the town center to view the bustling town hall square representing the modern rebuild, pausing at a nearby café to refresh yourself with a cold local beverage."
+          }
+        },
+        {
+          "name": {
+            "de": "Charles Léandre Museum",
+            "hu": "Charles Léandre Múzeum",
+            "ro": "Muzeul Charles Léandre",
+            "en": "Charles Léandre Museum"
+          },
+          "coords": [
+            -0.551285,
+            48.848094
+          ],
+          "category": "museum",
+          "arrive_at": "10:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie eine außergewöhnliche Sammlung von Karikaturen und Gemälden, die den Geist der Normandie einfangen, und nutzen Sie die Fahrradständer direkt gegenüber dem Eingang.",
+            "hu": "Fedezze fel a karikatúrák és festmények kivételes gyűjteményét, amely megragadja Normandia szellemét, és használja a főbejárattal szemben található kényelmes kerékpártárolókat.",
+            "ro": "Explorați o colecție excepțională de caricaturi și picturi care surprind spiritul Normandiei și folosiți suporturile pentru biciclete situate chiar vizavi de intrarea principală.",
+            "en": "Explore an exceptional collection of caricatures and paintings that capture Normandy’s spirit, and use the convenient bike racks located directly opposite the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Ufer der Noireau",
+            "hu": "A Noireau partja",
+            "ro": "Malurile râului Noireau",
+            "en": "Banks of the Noireau"
+          },
+          "coords": [
+            -0.550716,
+            48.849672
+          ],
+          "category": "natural",
+          "arrive_at": "12:06",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fahren Sie gemütlich an den Uferwegen entlang und beobachten Sie die historischen Mühlenstandorte, wobei Sie auf Fußgänger achten sollten, die diese schöne Route teilen.",
+            "hu": "Kerekezzen kényelmesen a folyóparti ösvényeken, megfigyelve a történelmi malmokat, és ügyeljen a gyalogosokra, akik szintén ezt a gyönyörű, festői vízparti útvonalat használják.",
+            "ro": "Mergeți relaxat de-a lungul potecilor râului, observând siturile istorice ale morilor, fiind atenți la pietonii care împart această rută pitorească de pe malul apei.",
+            "en": "Ride leisurely along the river pathways observing the gentle flow and historical mill sites, being mindful of pedestrians who share this lovely scenic waterside route."
+          }
+        },
+        {
+          "name": {
+            "de": "Maurice Piard Park",
+            "hu": "Maurice Piard Park",
+            "ro": "Parcul Maurice Piard",
+            "en": "Maurice Piard Park"
+          },
+          "coords": [
+            -0.576551,
+            48.919401
+          ],
+          "category": "recreational",
+          "arrive_at": "13:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 44,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Genießen Sie eine längere Fahrt zu diesem weitläufigen grünen Park, der ideal für ein Picknick ist, und achten Sie darauf, auf den ausgewiesenen Radwegen im Erholungsgebiet zu bleiben.",
+            "hu": "Élvezze a hosszabb utat ehhez a tágas zöld parkhoz, amely ideális egy déli piknikhez és pihenéshez, de ügyeljen arra, hogy a kijelölt kerékpárutakon maradjon a pihenőövezetben.",
+            "ro": "Bucurați-vă de o plimbare mai lungă până la acest parc verde spațios, ideal pentru un picnic și relaxare la prânz, asigurându-vă că rămâneți pe pistele de biciclete desemnate.",
+            "en": "Enjoy a longer ride out to this spacious green park ideal for a midday picnic and relaxation, making sure to stick to the designated cycling paths within the recreational area."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Martin-des-Champs",
+            "hu": "Chapelle Saint-Martin-des-Champs",
+            "ro": "Capela Saint-Martin-des-Champs",
+            "en": "Chapelle Saint-Martin-des-Champs"
+          },
+          "coords": [
+            -0.514679,
+            48.863004
+          ],
+          "category": "religious",
+          "arrive_at": "15:11",
+          "stay_min": 70,
+          "hop_from_prev_min": 41,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Radeln Sie zu dieser abgelegenen, von Feldern umgebenen alten Kapelle, um Ihren Tag in völliger Ruhe zu beenden, aber bringen Sie Wasser mit, da es hier kaum Einrichtungen gibt.",
+            "hu": "Tekerjen el ehhez a mezőkkel körülvett, eldugott ősi kápolnához, hogy teljes nyugalomban fejezze be a napját, de hozzon magával vizet, mivel a vidéki külvárosban kevés a szolgáltatás.",
+            "ro": "Pedalați către această capelă antică izolată, înconjurată de câmpuri, pentru a vă încheia ziua în seninătate, dar aduceți o sticlă de apă, deoarece facilitățile rurale sunt rare.",
+            "en": "Pedal to this secluded ancient chapel surrounded by fields to end your day in total serenity, but bring a water bottle as amenities in this rural outskirts location are scarce."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie Ihr Radabenteuer mit einem Besuch der ruhigen Chapelle Saint-Jacques am Stadtrand, bevor Sie ins belebte Zentrum zum Rathaus fahren.\nMittag: Tauchen Sie im Charles Léandre Museum in das lokale Erbe ein und entdecken Sie unglaubliche regionale Kunstwerke direkt im pulsierenden Kern der Stadt.\nNachmittag: Folgen Sie dem beruhigenden Flusslauf des Noireau mit dem Fahrrad und fahren Sie dann zum weitläufigen Maurice Piard Park für eine wohlverdiente Pause in der Natur.\nAbend: Beenden Sie Ihren Tag mit einer malerischen Fahrt zur ländlichen Chapelle Saint-Martin-des-Champs und genießen Sie die ruhigen Landstraßen in der Abenddämmerung.",
+        "hu": "Délelőtt: Kezdje kerékpáros kalandját a város szélén álló békés Chapelle Saint-Jacques meglátogatásával, mielőtt a nyüzsgő központba indulna a Városháza felé.\nDél: Merüljön el a helyi örökségben egy alapos látogatással a Charles Léandre Múzeumban, felfedezve a hihetetlen regionális alkotásokat a város vibráló szívében.\nDélután: Kövesse kerékpárral a Noireau folyó megnyugtató áramlását, majd tekerjen ki a kiterjedt Maurice Piard Parkba egy jól megérdemelt pihenésre a természet lágy ölén.\nEste: Fejezze be a napot egy festői kerékpározással a vidéki Chapelle Saint-Martin-des-Champs felé, élvezve a csendes vidéki utakat, ahogy a nap lassan lenyugszik.",
+        "ro": "Dimineață: Începeți aventura cu bicicleta vizitând senina Chapelle Saint-Jacques la marginea orașului, înainte de a vă îndrepta spre centrul plin de viață pentru Primărie.\nAmiază: Pătrundeți în moștenirea locală cu o vizită extinsă la Muzeul Charles Léandre, descoperind opere de artă regionale incredibile chiar în nucleul vibrant al orașului.\nDupă-amiază: Urmați curgerea liniștitoare a râului Noireau pe bicicletă, apoi mergeți către parcul spațios Maurice Piard pentru o odihnă binemeritată în mijlocul naturii.\nSeară: Încheiați ziua cu o plimbare pitorească spre rurala Chapelle Saint-Martin-des-Champs, bucurându-vă de drumurile de țară liniștite pe măsură ce soarele apune.",
+        "en": "Morning: Kick off your cycling adventure by visiting the serene Chapelle Saint-Jacques on the town's edge before heading into the bustling center to see the Town Hall.\nMidday: Dive into the local heritage with an extensive visit to the Charles Léandre Museum, discovering incredible regional artwork right in the vibrant core of the city.\nAfternoon: Follow the soothing flow of the Noireau river on your bike, then ride out to the expansive Maurice Piard Park for a well-deserved rest amidst nature.\nEvening: Finish your day with a scenic ride out to the rural Chapelle Saint-Martin-des-Champs, enjoying the quiet countryside roads as the sun slowly begins to set."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:48",
+      "total_km": 12.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame-des-Vallées",
+            "hu": "Chapelle Notre-Dame-des-Vallées",
+            "ro": "Capela Notre-Dame-des-Vallées",
+            "en": "Chapelle Notre-Dame-des-Vallées"
+          },
+          "coords": [
+            -0.515881,
+            48.851207
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zu dieser wunderschön restaurierten Talkapelle mit weitem Blick über die normannische Landschaft und parken Sie vorsichtig am schmalen Schotterrand in der Nähe.",
+            "hu": "Vezessen ki ehhez a gyönyörűen felújított völgyi kápolnához, amely lenyűgöző kilátást nyújt a normann vidékre, és óvatosan parkoljon a helyszínt megközelítő keskeny kavicsos padkán.",
+            "ro": "Conduceți spre această capelă de vale frumos restaurată, care oferă vederi panoramice ale peisajului normand, și parcați cu atenție pe acostamentul îngust de pietriș de la intrare.",
+            "en": "Drive out to this beautifully restored valley chapel offering sweeping views of the Norman countryside, and park carefully along the narrow gravel shoulder approaching the site."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Martin-des-Champs",
+            "hu": "Chapelle Saint-Martin-des-Champs",
+            "ro": "Capela Saint-Martin-des-Champs",
+            "en": "Chapelle Saint-Martin-des-Champs"
+          },
+          "coords": [
+            -0.514679,
+            48.863004
+          ],
+          "category": "religious",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Erleben Sie die zeitlose Atmosphäre dieses rustikalen ländlichen Heiligtums inmitten von Feldern und nutzen Sie den kleinen ausgewiesenen Parkplatz direkt hinter dem Hauptgebäude.",
+            "hu": "Tapasztalja meg ennek a kiterjedt mezők közepén fekvő, rusztikus vidéki szentélynek az időtlen hangulatát, kihasználva a főépület mögött található kis kijelölt parkolóhelyet.",
+            "ro": "Experimentați atmosfera atemporală a acestui altar rural rustic situat în mijlocul câmpurilor întinse, profitând de mica parcare desemnată chiar în spatele structurii principale.",
+            "en": "Experience the timeless atmosphere of this rustic rural shrine set amidst sprawling fields, taking advantage of the small designated parking area just behind the main structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall (Hôtel de Ville)"
+          },
+          "coords": [
+            -0.55103,
+            48.850576
+          ],
+          "category": "civic",
+          "arrive_at": "10:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Fahren Sie ins Stadtzentrum, um die beeindruckende städtische Nachkriegsarchitektur zu bewundern, und nutzen Sie den großen kostenlosen öffentlichen Parkplatz nur einen Block entfernt.",
+            "hu": "Irány a városközpont, hogy megcsodálja a lenyűgöző háború utáni önkormányzati építészetet, kihasználva a tértől mindössze egy saroknyira található nagy ingyenes nyilvános parkolót.",
+            "ro": "Îndreptați-vă spre centrul urban pentru a admira impresionanta arhitectură municipală postbelică, utilizând marea parcare publică gratuită situată la doar un bloc distanță de piață.",
+            "en": "Head into the urban center to admire the impressive post-war municipal architecture, utilizing the large free public parking lot situated merely a block away from the square."
+          }
+        },
+        {
+          "name": {
+            "de": "Charles Léandre Museum",
+            "hu": "Charles Léandre Múzeum",
+            "ro": "Muzeul Charles Léandre",
+            "en": "Charles Léandre Museum"
+          },
+          "coords": [
+            -0.551285,
+            48.848094
+          ],
+          "category": "museum",
+          "arrive_at": "11:06",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in dieser gut kuratierten Kunsteinrichtung tief ins kulturelle Erbe der Region ein, wo Sie an Wochentagen morgens problemlos barrierefreie Straßenparkplätze finden.",
+            "hu": "Merüljön el a régió kulturális örökségében ebben a jól gondozott művészeti intézményben, ahol hétköznap délelőttönként könnyen találhat akadálymentesített utcai parkolóhelyet.",
+            "ro": "Aprofundați moștenirea culturală a regiunii la această facilitate de artă bine curatoriată, unde puteți găsi cu ușurință parcare stradală accesibilă în diminețile tipice de zi cu zi.",
+            "en": "Dive deep into the cultural heritage of the region at this well-curated art facility, where you can easily find accessible street parking during typical weekday morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Maurice Piard Park",
+            "hu": "Maurice Piard Park",
+            "ro": "Parcul Maurice Piard",
+            "en": "Maurice Piard Park"
+          },
+          "coords": [
+            -0.576551,
+            48.919401
+          ],
+          "category": "recreational",
+          "arrive_at": "13:03",
+          "stay_min": 105,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Ausflug in diesem weitläufigen Park, der sich perfekt zum Beinevertreten eignet, und lassen Sie Ihr Auto sicher auf dem großen Parkplatz nahe den Sportanlagen.",
+            "hu": "Zárja az autós utazást ebben a kiterjedt parkban, amely tökéletes a lábak kinyújtóztatására, és hagyja járművét biztonságosan a fő sportlétesítmények melletti tágas parkolózónában.",
+            "ro": "Încheiați-vă călătoria cu mașina în acest parc întins, perfect pentru a vă dezmorți picioarele, lăsându-vă vehiculul în siguranță în zona spațioasă de parcare de lângă sport.",
+            "en": "Wrap up your road trip at this expansive park perfect for stretching your legs, leaving your vehicle securely in the spacious parking zone near the main sports facilities."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie Ihre malerische Fahrt am Stadtrand von Condé-sur-Noireau und entdecken Sie die wunderschön restaurierte, von Tälern umgebene Chapelle Notre-Dame-des-Vallées.\nMittag: Setzen Sie Ihre ländliche Erkundung an der zeitlosen Chapelle Saint-Martin-des-Champs fort, bevor Sie ins Zentrum fahren, um die städtische Architektur zu bewundern.\nNachmittag: Tauchen Sie bei einem ausführlichen Besuch im Charles Léandre Museum in das künstlerische Erbe der Stadt ein, das über die zentralen Boulevards leicht erreichbar ist.\nAbend: Beenden Sie Ihren Ausflug mit einer kurzen Fahrt nach Norden zum Maurice Piard Park, wo Sie sich die Beine vertreten und einen friedlichen Spaziergang genießen können.",
+        "hu": "Délelőtt: Kezdje festői autózását Condé-sur-Noireau külvárosában, felfedezve a zöldellő völgyekkel körülvett, gyönyörűen felújított Chapelle Notre-Dame-des-Vallées-t.\nDél: Folytassa vidéki felfedezését az időtlen Chapelle Saint-Martin-des-Champs-nál, mielőtt a városközpontba hajtana, hogy megcsodálja a modern önkormányzati építészetet.\nDélután: Merüljön el a város művészeti örökségében a Charles Léandre Múzeum alapos meglátogatásával, amely a főbb központi körutakon keresztül könnyen megközelíthető.\nEste: Zárja utazását egy rövid északi autózással a Maurice Piard Parkba, ahol kinyújtóztathatja lábait és élvezheti a békés sétát, ahogy a nap lassan a végéhez közeledik.",
+        "ro": "Dimineață: Începeți-vă plimbarea pitorească cu mașina la periferia orașului Condé-sur-Noireau, descoperind frumos restaurata Chapelle Notre-Dame-des-Vallées, înconjurată de văi verzi.\nAmiază: Continuați-vă explorarea rurală la atemporala Chapelle Saint-Martin-des-Champs înainte de a conduce în centrul urban pentru a admira arhitectura municipală modernă.\nDupă-amiază: Cufundați-vă în moștenirea artistică a orașului cu o vizită detaliată la Muzeul Charles Léandre, ușor accesibil prin bulevardele centrale principale.\nSeară: Încheiați călătoria cu mașina cu o scurtă deplasare spre nord, spre parcul Maurice Piard, unde vă puteți dezmorți picioarele și vă puteți bucura de o plimbare liniștită.",
+        "en": "Morning: Start your scenic drive on the outskirts of Condé-sur-Noireau, discovering the beautifully restored Chapelle Notre-Dame-des-Vallées surrounded by green valleys.\nMidday: Continue your rural exploration at the timeless Chapelle Saint-Martin-des-Champs before driving into the urban center to admire the modern municipal architecture.\nAfternoon: Immerse yourself in the town's artistic legacy with a thorough visit to the Charles Léandre Museum, easily accessible via the main central boulevards.\nEvening: Conclude your road trip with a short drive north to Maurice Piard Park, where you can stretch your legs and enjoy a peaceful stroll as the day comes to a close."
+      }
+    }
+  }
+}

@@ -1,0 +1,520 @@
+{
+  "city_id": "spain-cervo-cities-v2",
+  "anchor": {
+    "name": "Cervo",
+    "coords": [
+      -7.40956,
+      43.6697
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:13",
+      "total_km": 2.18,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Igrexa de Santa María de Cervo",
+            "hu": "Igrexa de Santa María de Cervo",
+            "ro": "Igrexa de Santa María de Cervo",
+            "en": "Igrexa de Santa María de Cervo"
+          },
+          "coords": [
+            -7.410537,
+            43.669555
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Diese zentrale Kirche zeigt elegante galicische Sakralarchitektur; kommen Sie früh, um Fotos im weichen Morgenlicht zu machen.",
+            "hu": "Ez a központi templom az elegáns galíciai vallási építészetet képviseli; érkezzen korán, hogy a lágy reggeli fényben fotózhasson.",
+            "ro": "Această biserică centrală prezintă o arhitectură religioasă galiciană elegantă; sosiți devreme pentru a face fotografii în lumina blândă a dimineții.",
+            "en": "This central church showcases elegant Galician religious architecture; arrive early to take photos in the soft morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Fábrica Vella de Louza de Sargadelos",
+            "hu": "Fábrica Vella de Louza de Sargadelos",
+            "ro": "Fábrica Vella de Louza de Sargadelos",
+            "en": "Fábrica Vella de Louza de Sargadelos"
+          },
+          "coords": [
+            -7.406461,
+            43.663368
+          ],
+          "category": "historical",
+          "arrive_at": "10:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.83,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen der ursprünglichen Keramikfabrik aus dem 18. Jahrhundert und tragen Sie festes Schuhwerk auf dem unebenen Gelände.",
+            "hu": "Fedezze fel az eredeti 18. századi kerámiagyár romjait, és viseljen masszív cipőt, mivel a környező talaj egyenetlen lehet.",
+            "ro": "Explorați ruinele fabricii originale de ceramică din secolul al XVIII-lea și purtați încălțăminte robustă, deoarece terenul poate fi accidentat.",
+            "en": "Explore the ruins of the original 18th-century ceramics factory, and wear sturdy shoes as the surrounding grounds can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Pazo de Sargadelos",
+            "hu": "Pazo de Sargadelos",
+            "ro": "Pazo de Sargadelos",
+            "en": "Pazo de Sargadelos"
+          },
+          "coords": [
+            -7.403556,
+            43.660594
+          ],
+          "category": "historical",
+          "arrive_at": "11:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Dieses elegante Herrenhaus war das Zuhause des Fabrikgründers; lesen Sie unbedingt die Plakette am Eingang für den historischen Kontext.",
+            "hu": "Ez az elegáns udvarház a gyáralapító otthona volt, ezért feltétlenül olvassa el a bejárat melletti emléktáblát a történelmi háttérért.",
+            "ro": "Acest conac elegant a fost casa fondatorului fabricii, fiind esențial să citiți placa de la intrare pentru context istoric.",
+            "en": "This elegant manor house was home to the factory's founder, making it essential to read the plaque by the entrance for historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Histórico de Sargadelos",
+            "hu": "Museo Histórico de Sargadelos",
+            "ro": "Museo Histórico de Sargadelos",
+            "en": "Museo Histórico de Sargadelos"
+          },
+          "coords": [
+            -7.404844,
+            43.661
+          ],
+          "category": "museum",
+          "arrive_at": "12:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.09,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier die künstlerische Entwicklung des ikonischen blau-weißen Porzellans und stöbern Sie im Souvenirshop nach authentischen Andenken.",
+            "hu": "Ismerje meg az ikonikus kék-fehér porcelán művészi fejlődését, és nézzen be az ajándékboltba egyedi szuvenírekért.",
+            "ro": "Descoperiți evoluția artistică a emblematicului porțelan alb-albastru și verificați magazinul de suveniruri pentru amintiri autentice.",
+            "en": "Discover the artistic evolution of the iconic blue-and-white porcelain here, and check the gift shop for unique, authentic souvenirs."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de Santiago de Sargadelos",
+            "hu": "Igrexa de Santiago de Sargadelos",
+            "ro": "Igrexa de Santiago de Sargadelos",
+            "en": "Igrexa de Santiago de Sargadelos"
+          },
+          "coords": [
+            -7.401614,
+            43.663339
+          ],
+          "category": "religious",
+          "arrive_at": "14:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Eine schöne Pfarrkirche, die eng mit der lokalen Industriegeschichte verbunden ist; nehmen Sie sich Zeit, die Steinmetzarbeiten zu bewundern.",
+            "hu": "Egy gyönyörű plébániatemplom, amely szorosan kötődik a helyi ipartörténethez; szánjon egy percet a kőfaragások megcsodálására.",
+            "ro": "O biserică parohială frumoasă, strâns legată de istoria industrială locală, unde ar trebui să acordați un moment pentru a admira sculpturile în piatră.",
+            "en": "A beautiful parish church closely tied to the local industrial history, where you should take a moment to admire the stone carvings."
+          }
+        },
+        {
+          "name": {
+            "de": "Xacemeno Romano de Tagarreiros",
+            "hu": "Xacemeno Romano de Tagarreiros",
+            "ro": "Xacemeno Romano de Tagarreiros",
+            "en": "Xacemeno Romano de Tagarreiros"
+          },
+          "coords": [
+            -7.396492,
+            43.667367
+          ],
+          "category": "historical",
+          "arrive_at": "15:23",
+          "stay_min": 110,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.64,
+          "tip_5lang": {
+            "de": "Diese faszinierenden römischen Überreste beweisen die antike Bedeutung der Gegend; achten Sie auf die Schautafeln mit den Ausgrabungsdetails.",
+            "hu": "Ezek a lenyűgöző római kori maradványok bizonyítják a terület ókori jelentőségét; keresse a feltárásokat bemutató információs táblákat.",
+            "ro": "Aceste vestigii romane fascinante dovedesc importanța antică a zonei; căutați panourile interpretative care detaliază descoperirile excavațiilor.",
+            "en": "These fascinating Roman remains prove the area's ancient importance; look for the interpretive panels detailing the excavation findings."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen an der Igrexa de Santa María im Herzen von Cervo. Danach schlendern Sie durch die historischen Straßen zur Fábrica Vella. Am Nachmittag tauchen Sie im Pazo und Museum in die Geschichte des berühmten Sargadelos-Porzellans ein. Lassen Sie den Tag an den römischen Ruinen von Tagarreiros ausklingen und genießen Sie die abendliche Brise.",
+        "hu": "Kezdje a reggelt a központi Santa María templomnál, mielőtt elindulna a kerámiagyár ősi épületei felé. Kora délután merüljön el a Sargadelos porcelán történetében a Pazo és a múzeum kiállításain. A nap lezárásaként fedezze fel Tagarreiros római kori emlékeit, ahonnan remek kilátás nyílik a lemenő napfényben.",
+        "ro": "Începeți dimineața la biserica Santa María, în inima orașului Cervo. Apoi faceți o plimbare spre vechea fabrică de ceramică. După-amiaza este dedicată faimosului porțelan Sargadelos, vizitând conacul Pazo și muzeul istoric dedicat acestuia. Încheiați ziua relaxant la ruinele romane de la Tagarreiros, sub razele blânde ale serii.",
+        "en": "Start your morning at the Igrexa de Santa María right in the heart of Cervo. Midday takes you through the historical streets to the Fábrica Vella. Spend your afternoon diving deep into the legacy of Sargadelos porcelain at the Pazo and the historical museum. End your day reflecting on history at the Roman ruins of Tagarreiros as evening falls."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:02",
+      "total_km": 4.82,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Igrexa de Santa María de Cervo",
+            "hu": "Igrexa de Santa María de Cervo",
+            "ro": "Igrexa de Santa María de Cervo",
+            "en": "Igrexa de Santa María de Cervo"
+          },
+          "coords": [
+            -7.410537,
+            43.669555
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Diese zentrale Kirche zeigt elegante galicische Sakralarchitektur; kommen Sie früh, um Fotos im weichen Morgenlicht zu machen.",
+            "hu": "Ez a központi templom az elegáns galíciai vallási építészetet képviseli; érkezzen korán, hogy a lágy reggeli fényben fotózhasson.",
+            "ro": "Această biserică centrală prezintă o arhitectură religioasă galiciană elegantă; sosiți devreme pentru a face fotografii în lumina blândă a dimineții.",
+            "en": "This central church showcases elegant Galician religious architecture; arrive early to take photos in the soft morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Histórico de Sargadelos",
+            "hu": "Museo Histórico de Sargadelos",
+            "ro": "Museo Histórico de Sargadelos",
+            "en": "Museo Histórico de Sargadelos"
+          },
+          "coords": [
+            -7.404844,
+            43.661
+          ],
+          "category": "museum",
+          "arrive_at": "09:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.08,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier die künstlerische Entwicklung des ikonischen blau-weißen Porzellans und stöbern Sie im Souvenirshop nach authentischen Andenken.",
+            "hu": "Ismerje meg az ikonikus kék-fehér porcelán művészi fejlődését, és nézzen be az ajándékboltba egyedi szuvenírekért.",
+            "ro": "Descoperiți evoluția artistică a emblematicului porțelan alb-albastru și verificați magazinul de suveniruri pentru amintiri autentice.",
+            "en": "Discover the artistic evolution of the iconic blue-and-white porcelain here, and check the gift shop for unique, authentic souvenirs."
+          }
+        },
+        {
+          "name": {
+            "de": "Fábrica Vella de Louza de Sargadelos",
+            "hu": "Fábrica Vella de Louza de Sargadelos",
+            "ro": "Fábrica Vella de Louza de Sargadelos",
+            "en": "Fábrica Vella de Louza de Sargadelos"
+          },
+          "coords": [
+            -7.406461,
+            43.663368
+          ],
+          "category": "historical",
+          "arrive_at": "11:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen der ursprünglichen Keramikfabrik aus dem 18. Jahrhundert und tragen Sie festes Schuhwerk auf dem unebenen Gelände.",
+            "hu": "Fedezze fel az eredeti 18. századi kerámiagyár romjait, és viseljen masszív cipőt, mivel a környező talaj egyenetlen lehet.",
+            "ro": "Explorați ruinele fabricii originale de ceramică din secolul al XVIII-lea și purtați încălțăminte robustă, deoarece terenul poate fi accidentat.",
+            "en": "Explore the ruins of the original 18th-century ceramics factory, and wear sturdy shoes as the surrounding grounds can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Xacemeno Romano de Tagarreiros",
+            "hu": "Xacemeno Romano de Tagarreiros",
+            "ro": "Xacemeno Romano de Tagarreiros",
+            "en": "Xacemeno Romano de Tagarreiros"
+          },
+          "coords": [
+            -7.396492,
+            43.667367
+          ],
+          "category": "historical",
+          "arrive_at": "13:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.91,
+          "tip_5lang": {
+            "de": "Diese faszinierenden römischen Überreste beweisen die antike Bedeutung der Gegend; achten Sie auf die Schautafeln mit den Ausgrabungsdetails.",
+            "hu": "Ezek a lenyűgöző római kori maradványok bizonyítják a terület ókori jelentőségét; keresse a feltárásokat bemutató információs táblákat.",
+            "ro": "Aceste vestigii romane fascinante dovedesc importanța antică a zonei; căutați panourile interpretative care detaliază descoperirile excavațiilor.",
+            "en": "These fascinating Roman remains prove the area's ancient importance; look for the interpretive panels detailing the excavation findings."
+          }
+        },
+        {
+          "name": {
+            "de": "Petróglifo da Rueta",
+            "hu": "Petróglifo da Rueta",
+            "ro": "Petróglifo da Rueta",
+            "en": "Petróglifo da Rueta"
+          },
+          "coords": [
+            -7.401561,
+            43.681428
+          ],
+          "category": "historical",
+          "arrive_at": "14:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.62,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese prähistorischen Felsritzungen nahe der Küste am besten mittags, wenn die Sonne deutliche Schatten auf den Stein wirft.",
+            "hu": "Csodálja meg ezeket a part közeli, rejtélyes őskori sziklarajzokat délben, amikor a nap erős árnyékokat vet a kövekre.",
+            "ro": "Minunați-vă de aceste sculpturi preistorice misterioase de lângă coastă, dar vizitați la prânz, când soarele creează umbre clare pe piatră.",
+            "en": "Marvel at these mysterious prehistoric rock carvings near the coast, but visit during midday when the sun creates distinct shadows on the stone."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro da Rueta",
+            "hu": "Castro da Rueta",
+            "ro": "Castro da Rueta",
+            "en": "Castro da Rueta"
+          },
+          "coords": [
+            -7.401448,
+            43.682685
+          ],
+          "category": "historical",
+          "arrive_at": "15:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Eine beeindruckende eisenzeitliche Wallburg mit Blick aufs Meer, die eine perfekte Kulisse für Landschaftsfotos entlang der Klippen bietet.",
+            "hu": "Egy lenyűgöző vaskori erődítmény, amely a tengerre néz, tökéletes hátteret nyújtva a sziklák menti panorámás fotózáshoz.",
+            "ro": "Un impresionant fort din Epoca Fierului cu vedere la mare, oferind un fundal perfect pentru fotografii panoramice de-a lungul stâncilor.",
+            "en": "An impressive Iron Age hill fort overlooking the sea, providing a perfect backdrop for panoramic landscape photography along the cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "O Fornelo",
+            "hu": "O Fornelo",
+            "ro": "O Fornelo",
+            "en": "O Fornelo"
+          },
+          "coords": [
+            -7.407833,
+            43.688254
+          ],
+          "category": "recreational",
+          "arrive_at": "17:17",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Dieser ruhige Naturort ist ideal, um sich auszuruhen und die Meeresbrise zu genießen; bringen Sie eine leichte Jacke mit, da es windig werden kann.",
+            "hu": "Ez a nyugodt természeti hely nagyszerű a pihenésre és a tengeri szellő élvezetére, ezért hozzon egy könnyű kabátot a szél ellen.",
+            "ro": "Acest loc natural liniștit este minunat pentru odihnă și pentru a vă bucura de briza mării, așa că aduceți o jachetă ușoară deoarece poate fi vânt.",
+            "en": "This serene natural spot is a great place to rest and enjoy the coastal breeze, so bring a light jacket as it can get windy."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens vom Zentrum zum Museo Histórico, um die Porzellangeschichte Cervos zu erleben. Nach einer Besichtigung der alten Fabrik führt die Route zu römischen Fundstätten. Der Nachmittag bringt Sie an die Küste zu den beeindruckenden Petroglyphen und dem Castro da Rueta. Entspannen Sie sich abends am malerischen O Fornelo.",
+        "hu": "Pattanjon nyeregbe, és a központból tekerjen a múzeum felé, hogy megismerje a helyi kerámiát. Délben a régi gyár és a római romok kínálnak történelmi utazást. Délután a part mentén haladva ősi sziklarajzokat és a Rueta-i földvárat csodálhatja meg. Az estét az O Fornelo nyugodt, parkosított környezetében zárhatja.",
+        "ro": "Pedalați dimineața din centru spre Muzeul Istoric pentru a descoperi moștenirea porțelanului. La prânz, vizitați vechea fabrică și ruinele romane ascunse. După-amiaza vă poartă spre coastă pentru a explora petroglifele misterioase și situl antic Castro da Rueta. Seara, relaxați-vă în zona liniștită de la O Fornelo.",
+        "en": "Pedal from the central church to the Historical Museum to uncover Cervo's porcelain legacy. Midday features a ride past the old factory and hidden Roman ruins. Your afternoon ride follows the coast to discover mysterious petroglyphs and the ancient Castro da Rueta. Wind down your evening with a peaceful stop at O Fornelo."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:20",
+      "total_km": 11.89,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Henge de A Mourisca 1",
+            "hu": "Henge de A Mourisca 1",
+            "ro": "Henge de A Mourisca 1",
+            "en": "Henge de A Mourisca 1"
+          },
+          "coords": [
+            -7.429596,
+            43.664682
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Treten Sie an diesem alten zeremoniellen Steinkreis in die Urgeschichte zurück und bleiben Sie auf den markierten Wegen, um die Stätte zu schützen.",
+            "hu": "Lépjen vissza az őskorba ennél az ősi kőkörnél, és maradjon a kijelölt ösvényeken, hogy megóvja a régészeti lelőhelyet.",
+            "ro": "Pășiți în preistorie la acest antic cerc ceremonial de piatră, rămânând pe potecile marcate pentru a proteja situl arheologic.",
+            "en": "Step back into deep prehistory at this ancient ceremonial stone circle, keeping to the marked paths to protect the archaeological site."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro do Pico Pequeno",
+            "hu": "Castro do Pico Pequeno",
+            "ro": "Castro do Pico Pequeno",
+            "en": "Castro do Pico Pequeno"
+          },
+          "coords": [
+            -7.439233,
+            43.666508
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser hochgelegenen antiken Siedlung und bringen Sie ein Fernglas mit, um die weite Aussicht ins Tal zu genießen.",
+            "hu": "Fedezze fel ennek a magasan fekvő ősi településnek a maradványait, és hozzon távcsövet, hogy teljes mértékben kiélvezze a völgyre nyíló kilátást.",
+            "ro": "Explorați rămășițele acestei așezări antice înalte, aducând un binoclu pentru a profita din plin de priveliștile îndepărtate ale văii.",
+            "en": "Explore the remnants of this elevated ancient settlement, bringing binoculars to take full advantage of the far-reaching valley views."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de Santa María de Cervo",
+            "hu": "Igrexa de Santa María de Cervo",
+            "ro": "Igrexa de Santa María de Cervo",
+            "en": "Igrexa de Santa María de Cervo"
+          },
+          "coords": [
+            -7.410537,
+            43.669555
+          ],
+          "category": "religious",
+          "arrive_at": "11:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.34,
+          "tip_5lang": {
+            "de": "Diese zentrale Kirche zeigt elegante galicische Sakralarchitektur; kommen Sie früh, um Fotos im weichen Morgenlicht zu machen.",
+            "hu": "Ez a központi templom az elegáns galíciai vallási építészetet képviseli; érkezzen korán, hogy a lágy reggeli fényben fotózhasson.",
+            "ro": "Această biserică centrală prezintă o arhitectură religioasă galiciană elegantă; sosiți devreme pentru a face fotografii în lumina blândă a dimineții.",
+            "en": "This central church showcases elegant Galician religious architecture; arrive early to take photos in the soft morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Histórico de Sargadelos",
+            "hu": "Museo Histórico de Sargadelos",
+            "ro": "Museo Histórico de Sargadelos",
+            "en": "Museo Histórico de Sargadelos"
+          },
+          "coords": [
+            -7.404844,
+            43.661
+          ],
+          "category": "museum",
+          "arrive_at": "12:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.08,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier die künstlerische Entwicklung des ikonischen blau-weißen Porzellans und stöbern Sie im Souvenirshop nach authentischen Andenken.",
+            "hu": "Ismerje meg az ikonikus kék-fehér porcelán művészi fejlődését, és nézzen be az ajándékboltba egyedi szuvenírekért.",
+            "ro": "Descoperiți evoluția artistică a emblematicului porțelan alb-albastru și verificați magazinul de suveniruri pentru amintiri autentice.",
+            "en": "Discover the artistic evolution of the iconic blue-and-white porcelain here, and check the gift shop for unique, authentic souvenirs."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro da Senra",
+            "hu": "Castro da Senra",
+            "ro": "Castro da Senra",
+            "en": "Castro da Senra"
+          },
+          "coords": [
+            -7.420668,
+            43.65309
+          ],
+          "category": "historical",
+          "arrive_at": "14:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.56,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die grasbewachsenen Ruinen dieser keltischen Küstenfestung und achten Sie auf Ihre Schritte über die unebenen Wälle.",
+            "hu": "Sétáljon végig ennek a kelta tengerparti erődnek a füves romjain, óvatosan lépdelve az egyenetlen és még fel nem tárt védősáncokon.",
+            "ro": "Plimbați-vă printre ruinele înierbate ale acestui fort celtic de coastă, având grijă la pașii pe malurile defensive accidentate.",
+            "en": "Wander through the grassy ruins of this coastal Celtic fort, carefully watching your step over the uneven and unexcavated defensive banks."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de San Román de Vilaestrofe",
+            "hu": "Igrexa de San Román de Vilaestrofe",
+            "ro": "Igrexa de San Román de Vilaestrofe",
+            "en": "Igrexa de San Román de Vilaestrofe"
+          },
+          "coords": [
+            -7.398355,
+            43.649859
+          ],
+          "category": "religious",
+          "arrive_at": "15:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.87,
+          "tip_5lang": {
+            "de": "Diese charmante ländliche Kirche bietet einen friedlichen Rückzugsort ins galicische Dorfleben; parken Sie rücksichtsvoll auf dem kleinen Platz.",
+            "hu": "Ez a bájos vidéki templom békés betekintést nyújt a galíciai falusi életbe; parkoljon figyelmesen a bejárat melletti kis területen.",
+            "ro": "Această biserică rurală fermecătoare oferă o retragere liniștită în viața satului galician; parcați cu atenție în mica zonă de lângă intrare.",
+            "en": "This charming rural church offers a peaceful retreat into Galician village life; park considerately in the small area near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "O Fornelo",
+            "hu": "O Fornelo",
+            "ro": "O Fornelo",
+            "en": "O Fornelo"
+          },
+          "coords": [
+            -7.407833,
+            43.688254
+          ],
+          "category": "recreational",
+          "arrive_at": "16:35",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.29,
+          "tip_5lang": {
+            "de": "Dieser ruhige Naturort ist ideal, um sich auszuruhen und die Meeresbrise zu genießen; bringen Sie eine leichte Jacke mit, da es windig werden kann.",
+            "hu": "Ez a nyugodt természeti hely nagyszerű a pihenésre és a tengeri szellő élvezetére, ezért hozzon egy könnyű kabátot a szél ellen.",
+            "ro": "Acest loc natural liniștit este minunat pentru odihnă și pentru a vă bucura de briza mării, așa că aduceți o jachetă ușoară deoarece poate fi vânt.",
+            "en": "This serene natural spot is a great place to rest and enjoy the coastal breeze, so bring a light jacket as it can get windy."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zu den prähistorischen Henges, um in die tiefe Vergangenheit der Region einzutauchen. Gegen Mittag besichtigen Sie das historische Zentrum und das Porzellanmuseum. Der Nachmittag führt Sie zu abgelegenen archäologischen Stätten und der charmanten Kirche von Vilaestrofe. Beenden Sie Ihre Tour am Abend am malerischen O Fornelo.",
+        "hu": "Indítsa a napot autóval a Mourisca kőköröknél, felfedezve a vidék ősi titkait. Délben térjen vissza a városközpontba a templomhoz és a helyi kerámiamúzeumhoz. Délután a déli dombok ősi erődítményei és Vilaestrofe rejtett temploma várják. Az estét egy kellemes sétával zárhatja az O Fornelo pihenőhelyen.",
+        "ro": "Conduceți dimineața spre cercurile de piatră antice pentru a explora preistoria regiunii. La prânz, întoarceți-vă în centru pentru a vizita biserica principală și muzeul porțelanului. După-amiaza vă poartă spre fortificațiile antice din sud și biserica pitorească din Vilaestrofe. Încheiați călătoria cu o seară liniștită la O Fornelo.",
+        "en": "Drive out to the ancient henges in the morning to explore the deep prehistoric roots of the region. Midday brings you back to the center for the main church and the porcelain museum. Your afternoon includes a scenic drive to southern hill forts and the hidden church of Vilaestrofe. Finish the road trip with a relaxing evening at O Fornelo."
+      }
+    }
+  }
+}

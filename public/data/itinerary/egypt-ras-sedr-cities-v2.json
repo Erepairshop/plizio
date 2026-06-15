@@ -1,0 +1,474 @@
+{
+  "city_id": "egypt-ras-sedr-cities-v2",
+  "anchor": {
+    "name": "Ras Sedr",
+    "coords": [
+      32.716667,
+      29.591667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:05",
+      "total_km": 1.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "306",
+            "hu": "306",
+            "ro": "306",
+            "en": "306"
+          },
+          "coords": [
+            32.711103,
+            29.586482
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie 306, einen lebendigen kulturellen Ort, der den lokalen Gemeinschaftsgeist widerspiegelt, und unterhalten Sie sich früh am Tag mit den Händlern.",
+            "hu": "Fedezze fel a 306-os számú nyüzsgő kulturális helyszínt, amely tükrözi a helyi közösség szellemét, és beszélgessen az árusokkal a nap elején.",
+            "ro": "Explorați 306, un loc cultural vibrant care reflectă spiritul comunității locale, și luați-vă timp pentru a discuta cu comercianții la primele ore.",
+            "en": "Explore 306, a vibrant cultural spot reflecting the local community spirit, and take time to chat with vendors early in the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjed El Mostashfa",
+            "hu": "Masjed El Mostashfa",
+            "ro": "Masjed El Mostashfa",
+            "en": "Masjed El Mostashfa"
+          },
+          "coords": [
+            32.712149,
+            29.588733
+          ],
+          "category": "landmark",
+          "arrive_at": "10:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Masjed El Mostashfa, um ihre ruhige Architektur zu bewundern, und achten Sie auf angemessene Kleidung vor dem Betreten dieses friedlichen Heiligtums.",
+            "hu": "Látogasson el a Masjed El Mostashfa mecsetbe a nyugodt építészet megcsodálásához, és ügyeljen a szerény öltözködésre a belépés előtt.",
+            "ro": "Vizitați Masjed El Mostashfa pentru a-i admira arhitectura senină și asigurați-vă că aveți o ținută decentă înainte de a intra în acest sanctuar.",
+            "en": "Visit Masjed El Mostashfa to admire its serene architecture, and be sure to dress modestly before entering this peaceful sanctuary."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjed ElRahma",
+            "hu": "Masjed ElRahma",
+            "ro": "Masjed ElRahma",
+            "en": "Masjed ElRahma"
+          },
+          "coords": [
+            32.714978,
+            29.585426
+          ],
+          "category": "landmark",
+          "arrive_at": "11:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Die Masjed ElRahma bietet einen spirituellen Rückzugsort im Stadtzentrum; treten Sie leise ein, um die feinen Details des Innenraums zu betrachten.",
+            "hu": "A Masjed ElRahma lelki menedéket kínál a belvárosban, ezért lépjen be csendben, hogy megfigyelhesse a bonyolult belső részleteket.",
+            "ro": "Masjed ElRahma oferă un refugiu spiritual în centrul orașului, așa că intrați în liniște pentru a observa detaliile interioare complicate.",
+            "en": "The Masjed ElRahma offers a spiritual retreat in the city center, so step inside quietly to observe the intricate interior details."
+          }
+        },
+        {
+          "name": {
+            "de": "Ali Ibn Abi Taleb Mosque",
+            "hu": "Ali Ibn Abi Taleb mecset",
+            "ro": "Moscheea Ali Ibn Abi Taleb",
+            "en": "Ali Ibn Abi Taleb Mosque"
+          },
+          "coords": [
+            32.717039,
+            29.588676
+          ],
+          "category": "landmark",
+          "arrive_at": "11:49",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Diese markante Moschee ist ein Zeugnis des islamischen Erbes der Gegend; besuchen Sie sie außerhalb der Gebetszeiten für die besten Fotomotive.",
+            "hu": "Ez a kiemelkedő mecset a környék iszlám örökségének bizonyítéka; a legjobb fotózási lehetőségekért az imaidőkön kívül látogasson el ide.",
+            "ro": "Această moschee proeminentă este o mărturie a moștenirii islamice a zonei; vizitați-o în afara orelor de rugăciune pentru cele mai bune oportunități fotografice.",
+            "en": "This prominent mosque stands as a testament to the area's Islamic heritage; visit outside prayer times for the best photographic opportunities."
+          }
+        },
+        {
+          "name": {
+            "de": "Three Fish",
+            "hu": "Három Hal",
+            "ro": "Trei Pești",
+            "en": "Three Fish"
+          },
+          "coords": [
+            32.720821,
+            29.590381
+          ],
+          "category": "landmark",
+          "arrive_at": "12:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das Wahrzeichen der Drei Fische fängt die Essenz der Küstenidentität von Ras Sedr ein und ist ein idealer letzter Ort, um sich zu entspannen und Fotos zu machen.",
+            "hu": "A Három Hal nevezetesség megragadja Ras Sedr tengerparti identitásának lényegét, így tökéletes utolsó megálló a pihenéshez és fotózáshoz.",
+            "ro": "Punctul de reper Trei Pești surprinde esența identității de coastă a orașului Ras Sedr, fiind un loc final perfect pentru relaxare și fotografii memorabile.",
+            "en": "The Three Fish landmark captures the essence of Ras Sedr's coastal identity, making it a perfect final spot to relax and take memorable photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie den Tag im lebhaften Kulturzentrum 306. Genießen Sie die erwachende Stadt, bevor Sie zur wunderschönen Masjed El Mostashfa spazieren.\n\nMittag: Bewundern Sie auf Ihrem Spaziergang die Architektur der Masjed ElRahma. Die friedliche Atmosphäre bietet eine wunderbare spirituelle Pause.\n\nNachmittag: Schlendern Sie zur großen Ali Ibn Abi Taleb Moschee, einem Symbol von Ras Sedr. Die kurzen Wege machen diesen Spaziergang zu einem Vergnügen.\n\nAbend: Beenden Sie Ihren Spaziergang am einzigartigen Drei-Fische-Denkmal. Dieses Wahrzeichen ist perfekt für ein letztes Foto und zum Entspannen.",
+        "hu": "Reggel: Kezdje a napot a nyüzsgő 306-os kulturális központban. Élvezze az ébredező város hangulatát, mielőtt átsétálna a gyönyörű Masjed El Mostashfa mecsethez.\n\nDélben: Sétáját folytatva csodálja meg a Masjed ElRahma lenyűgöző építészetét. Az itteni békés légkör csodálatos spirituális pihenést nyújt.\n\nDélután: Sétáljon el a hatalmas Ali Ibn Abi Taleb mecsethez, Ras Sedr szimbólumához. A vallási nevezetességek közötti rövid távolságok élvezetessé teszik a sétát.\n\nEste: Zárja sétáját az egyedi Három Hal emlékműnél. Ez a tengerparti nevezetesség tökéletes egy utolsó fotóhoz és a séta kellemes lezárásához.",
+        "ro": "Dimineața: Începeți ziua descoperind centrul cultural vibrant 306. Bucurați-vă de atmosfera orașului care se trezește înainte de o scurtă plimbare la Masjed El Mostashfa.\n\nAmiază: Continuând plimbarea, admirați arhitectura uimitoare a Masjed ElRahma. Atmosfera pașnică de aici oferă o minunată pauză spirituală.\n\nDupă-amiaza: Plimbați-vă spre Marea Moschee Ali Ibn Abi Taleb, un simbol al orașului Ras Sedr. Distanțele scurte fac ca mersul pe jos să fie o bucurie.\n\nSeara: Încheiați-vă plimbarea la monumentul unic Trei Pești. Acest reper de coastă este perfect pentru o fotografie finală și pentru a vă relaxa.",
+        "en": "Morning: Start your day discovering the vibrant 306 cultural hub. Enjoy the awakening city vibe before taking a short walk to the beautiful Masjed El Mostashfa.\n\nMidday: Continuing your walk, admire the stunning architecture of Masjed ElRahma. The peaceful atmosphere here provides a wonderful spiritual pause.\n\nAfternoon: Stroll towards the grand Ali Ibn Abi Taleb Mosque, a true symbol of Ras Sedr. The short distances between these significant religious landmarks make walking a joy.\n\nEvening: Conclude your walk at the unique Three Fish monument. This coastal landmark is perfect for snapping a final photo and winding down your pleasant walking tour."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:52",
+      "total_km": 4.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kenoz",
+            "hu": "Kenoz",
+            "ro": "Kenoz",
+            "en": "Kenoz"
+          },
+          "coords": [
+            32.718861,
+            29.564938
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Fahrt bei Kenoz, einem beliebten Erholungsgebiet, wo Sie sich die Beine vertreten und die erfrischende Morgenbrise am Wasser genießen können.",
+            "hu": "Kezdje a túrát a Kenoznál, a népszerű rekreációs területen, ahol kinyújtóztathatja a lábait és élvezheti a frissítő reggeli szellőt a víz közelében.",
+            "ro": "Începeți plimbarea la Kenoz, o zonă de agrement populară unde vă puteți relaxa și bucura de briza revigorantă a dimineții lângă apă.",
+            "en": "Begin your ride at Kenoz, a popular recreational area where you can stretch your legs and enjoy the refreshing morning breeze near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Sunlight",
+            "hu": "Sunlight",
+            "ro": "Sunlight",
+            "en": "Sunlight"
+          },
+          "coords": [
+            32.714137,
+            29.572598
+          ],
+          "category": "recreational",
+          "arrive_at": "10:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Sunlight ist ein einladender Erholungsraum, der sich perfekt für eine Mittagspause eignet; bringen Sie Wasser mit und ruhen Sie sich im Schatten aus.",
+            "hu": "A Sunlight egy hívogató pihenőhely, amely tökéletes egy déli szünethez, ezért vigyen magával vizet, és pihenjen az árnyékos helyeken.",
+            "ro": "Sunlight este un spațiu de agrement primitor, perfect pentru o pauză la amiază, așa că aduceți o sticlă de apă și odihniți-vă la umbră.",
+            "en": "Sunlight is an inviting recreational space perfect for a midday break, so bring a water bottle and rest under the available shaded spots."
+          }
+        },
+        {
+          "name": {
+            "de": "Sahr Land",
+            "hu": "Sahr Land",
+            "ro": "Sahr Land",
+            "en": "Sahr Land"
+          },
+          "coords": [
+            32.714349,
+            29.577834
+          ],
+          "category": "recreational",
+          "arrive_at": "11:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "In Sahr Land finden Sie viel Platz, um sich mit Einheimischen zu entspannen, sodass es sich lohnt, das Fahrrad abzustellen und die Gegend zu Fuß zu erkunden.",
+            "hu": "A Sahr Land hatalmas teret kínál a helyiekkel való kikapcsolódásra, így érdemes leparkolni a kerékpárt és gyalogosan felfedezni a vibráló környezetet.",
+            "ro": "La Sahr Land veți găsi spațiu amplu pentru a vă relaxa alături de localnici, motiv pentru care merită să lăsați bicicleta și să explorați zona pe jos.",
+            "en": "At Sahr Land, you will find ample space to unwind with locals, making it worthwhile to park your bike and explore the vibrant surroundings on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "306",
+            "hu": "306",
+            "ro": "306",
+            "en": "306"
+          },
+          "coords": [
+            32.711103,
+            29.586482
+          ],
+          "category": "cultural",
+          "arrive_at": "13:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Radeln Sie in Richtung 306, um die lebendige Energie dieses kulturellen Zentrums zu erleben, und probieren Sie unbedingt einige der lokalen Snacks.",
+            "hu": "Kerékpározzon a 306 felé, hogy megtapasztalja a kulturális központ élénk energiáját, és mindenképpen kóstolja meg a környékbeli árusok által kínált helyi rágcsálnivalókat.",
+            "ro": "Pedalați spre 306 pentru a experimenta energia vibrantă a acestui centru cultural și asigurați-vă că gustați câteva dintre gustările locale.",
+            "en": "Cycle towards 306 to experience this cultural hub's lively energy, and be sure to sample some of the local snacks offered by the surrounding vendors."
+          }
+        },
+        {
+          "name": {
+            "de": "Ali Ibn Abi Taleb Mosque",
+            "hu": "Ali Ibn Abi Taleb mecset",
+            "ro": "Moscheea Ali Ibn Abi Taleb",
+            "en": "Ali Ibn Abi Taleb Mosque"
+          },
+          "coords": [
+            32.717039,
+            29.588676
+          ],
+          "category": "landmark",
+          "arrive_at": "14:26",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Moschee Ali Ibn Abi Taleb, um ihre hoch aufragenden Minarette zu betrachten, und respektieren Sie beim Erkunden die Gebetszeiten.",
+            "hu": "Látogasson el az Ali Ibn Abi Taleb mecsetbe, hogy megfigyelje magasodó minaretjeit, és tartsa tiszteletben a folyamatban lévő imaidőket.",
+            "ro": "Vizitați Moscheea Ali Ibn Abi Taleb pentru a-i observa minaretele impunătoare și respectați orele de rugăciune în timp ce explorați curtea.",
+            "en": "Visit the Ali Ibn Abi Taleb Mosque to observe its towering minarets, and remember to respect the ongoing prayer times while exploring the outer courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "El Hay El Qayoom",
+            "hu": "El Hay El Qayoom",
+            "ro": "El Hay El Qayoom",
+            "en": "El Hay El Qayoom"
+          },
+          "coords": [
+            32.724324,
+            29.596139
+          ],
+          "category": "landmark",
+          "arrive_at": "14:57",
+          "stay_min": 55,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Route am El Hay El Qayoom, einem architektonischen Wahrzeichen, wo das Nachmittagslicht perfekte Schatten für atemberaubende Fotos wirft.",
+            "hu": "Fejezze be útvonalát az El Hay El Qayoomnál, egy építészeti nevezetességnél, ahol a délutáni fény tökéletes árnyékokat vet a lenyűgöző építészeti fotókhoz.",
+            "ro": "Terminați-vă traseul la El Hay El Qayoom, un reper arhitectural unde lumina după-amiezii creează umbre perfecte pentru fotografii uimitoare.",
+            "en": "Finish your route at El Hay El Qayoom, a beautiful architectural landmark where the afternoon light creates perfect shadows for taking stunning architectural photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Starten Sie Ihre Fahrt bei Kenoz und genießen Sie die frische Luft an diesem Erholungsort. Der perfekte Auftakt für einen aktiven Tag in Ras Sedr.\n\nMittag: Radeln Sie gen Norden zum einladenden Grün von Sunlight und Sahr Land. Diese Erholungszonen bieten hervorragende schattige Plätze zum Ausruhen.\n\nNachmittag: Ihre Route führt Sie zum belebten Kulturzentrum 306. Parken Sie kurz Ihr Fahrrad, um die lokale Atmosphäre zu genießen und einen Snack zu holen.\n\nAbend: Fahren Sie an der Ali Ibn Abi Taleb Moschee vorbei und beenden Sie die Tour am El Hay El Qayoom. Das späte Sonnenlicht sorgt für einen schönen Abschluss.",
+        "hu": "Reggel: Indítsa kerékpártúráját a Kenoznál, élvezve a friss levegőt ezen a rekreációs helyszínen. Tökéletes módja az aktív nap elkezdésének Ras Sedrben.\n\nDélben: Tekerjen északra a Sunlight és a Sahr Land hívogató zöldje felé. Ezek a rekreációs zónák kiváló árnyékos pihenőhelyeket kínálnak.\n\nDélután: Útvonala a nyüzsgő 306-os kulturális központhoz vezet. Parkolja le kerékpárját egy rövid időre, hogy magába szívja a helyi hangulatot.\n\nEste: Lovagoljon el az Ali Ibn Abi Taleb mecset mellett, és fejezze be a napot az El Hay El Qayoomnál. A késői napfény gyönyörű lezárást ad az utazásnak.",
+        "ro": "Dimineața: Începeți traseul la Kenoz, bucurându-vă de aerul proaspăt în acest loc de agrement. Este modul perfect de a începe o zi activă în Ras Sedr.\n\nAmiază: Pedalați spre nord către zonele verzi Sunlight și Sahr Land. Aceste locuri de recreere oferă spații excelente pentru a vă odihni la umbră.\n\nDupă-amiaza: Traseul vă duce la aglomeratul centru cultural 306. Parcați bicicleta pentru scurt timp pentru a absorbi atmosfera locală și a gusta o gustare.\n\nSeara: Treceți pe lângă Moscheea Ali Ibn Abi Taleb și încheiați la El Hay El Qayoom. Lumina târzie pe aceste repere creează un final frumos al călătoriei.",
+        "en": "Morning: Kick off your ride at Kenoz, enjoying the fresh air at this popular recreational site. It’s the perfect way to start an active day exploring Ras Sedr.\n\nMidday: Pedal north towards the inviting greenery of Sunlight and Sahr Land. These recreational zones offer excellent spots to rest and hydrate under the shade.\n\nAfternoon: Your route brings you to the bustling 306 cultural hub. Park your bike briefly to soak up the local atmosphere and perhaps grab a quick local snack.\n\nEvening: Ride past the striking Ali Ibn Abi Taleb Mosque and conclude at El Hay El Qayoom. The late sunlight on these landmarks creates a beautiful end to your journey."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:29",
+      "total_km": 4.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Masjed Qeba'a",
+            "hu": "Masjed Qeba'a",
+            "ro": "Masjed Qeba'a",
+            "en": "Masjed Qeba'a"
+          },
+          "coords": [
+            32.7155,
+            29.597051
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Die Masjed Qeba'a zeigt wunderschöne traditionelle islamische Architektur; kommen Sie früh an, um die ruhige Atmosphäre zu genießen.",
+            "hu": "A Masjed Qeba'a gyönyörű, hagyományos iszlám építészetet mutat be, ezért érkezzen korán, hogy értékelhesse a nyugodt légkört, mielőtt a város nyüzsgővé válik.",
+            "ro": "Masjed Qeba'a prezintă o frumoasă arhitectură islamică tradițională, așa că ajungeți devreme pentru a aprecia atmosfera liniștită a dimineții.",
+            "en": "Masjed Qeba'a showcases beautiful traditional Islamic architecture, so arrive early to appreciate the tranquil atmosphere before the city gets busy."
+          }
+        },
+        {
+          "name": {
+            "de": "El Hay El Qayoom",
+            "hu": "El Hay El Qayoom",
+            "ro": "El Hay El Qayoom",
+            "en": "El Hay El Qayoom"
+          },
+          "coords": [
+            32.724324,
+            29.596139
+          ],
+          "category": "landmark",
+          "arrive_at": "09:52",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Fahren Sie ein Stück nach Süden zum El Hay El Qayoom, einem wichtigen lokalen Wahrzeichen, und parken Sie in der Nähe, um die Fassade zu bewundern.",
+            "hu": "Vezessen kicsit délre az El Hay El Qayoom-hoz, egy fontos helyi nevezetességhez; parkoljon a közelben, hogy megcsodálja a homlokzatot.",
+            "ro": "Conduceți puțin spre sud către El Hay El Qayoom, un reper local important, și parcați în apropiere pentru a admira fațada impresionantă.",
+            "en": "Drive slightly south to El Hay El Qayoom, an important local landmark that provides deep insights into the region's cultural design style; park nearby to admire the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Three Fish",
+            "hu": "Három Hal",
+            "ro": "Trei Pești",
+            "en": "Three Fish"
+          },
+          "coords": [
+            32.720821,
+            29.590381
+          ],
+          "category": "landmark",
+          "arrive_at": "10:19",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Halten Sie am Drei-Fische-Denkmal, das die Fischereikultur ehrt, und nutzen Sie den weiten Umgebungsbereich, um Ihr Auto sicher und schnell zu parken.",
+            "hu": "Álljon meg a Három Hal emlékműnél, amely a halászati kultúrát tiszteli, és használja a tágas környező területet autója biztonságos parkolásához.",
+            "ro": "Opriți-vă la monumentul Trei Pești, care onorează cultura pescuitului, și folosiți zona înconjurătoare largă pentru a parca mașina în siguranță.",
+            "en": "Stop by the Three Fish monument, a quirky local landmark honoring the fishing culture, and use the wide surrounding area to quickly park your car safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Ali Ibn Abi Taleb Mosque",
+            "hu": "Ali Ibn Abi Taleb mecset",
+            "ro": "Moscheea Ali Ibn Abi Taleb",
+            "en": "Ali Ibn Abi Taleb Mosque"
+          },
+          "coords": [
+            32.717039,
+            29.588676
+          ],
+          "category": "landmark",
+          "arrive_at": "10:45",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Moschee Ali Ibn Abi Taleb, um ihre hoch aufragenden Minarette zu betrachten, und respektieren Sie beim Erkunden die Gebetszeiten.",
+            "hu": "Látogasson el az Ali Ibn Abi Taleb mecsetbe, hogy megfigyelje magasodó minaretjeit, és tartsa tiszteletben a folyamatban lévő imaidőket.",
+            "ro": "Vizitați Moscheea Ali Ibn Abi Taleb pentru a-i observa minaretele impunătoare și respectați orele de rugăciune în timp ce explorați curtea.",
+            "en": "Visit the Ali Ibn Abi Taleb Mosque to observe its towering minarets, and remember to respect the ongoing prayer times while exploring the outer courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "306",
+            "hu": "306",
+            "ro": "306",
+            "en": "306"
+          },
+          "coords": [
+            32.711103,
+            29.586482
+          ],
+          "category": "cultural",
+          "arrive_at": "11:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie bei 306 in das geschäftige Herz des lokalen Handels und der Kultur ein, und fahren Sie in dieser stark frequentierten Zone besonders vorsichtig.",
+            "hu": "A 306-nál merüljön el a helyi kereskedelem és kultúra nyüzsgő szívében, ügyelve arra, hogy óvatosan navigáljon ezen a gyalogosokkal teli zónán.",
+            "ro": "La 306, pătrundeți în inima aglomerată a comerțului și culturii locale, având grijă să conduceți cu prudență prin această zonă pietonală.",
+            "en": "At 306, dive into the bustling heart of local commerce and culture, taking care to navigate the pedestrian-heavy zone with caution if driving."
+          }
+        },
+        {
+          "name": {
+            "de": "Sahr Land",
+            "hu": "Sahr Land",
+            "ro": "Sahr Land",
+            "en": "Sahr Land"
+          },
+          "coords": [
+            32.714349,
+            29.577834
+          ],
+          "category": "recreational",
+          "arrive_at": "12:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Sahr Land bietet eine dynamische Erholungspause vom Fahren, wo Sie sich am Nachmittag ausstrecken und die gepflegten Grünflächen genießen können.",
+            "hu": "A Sahr Land dinamikus kikapcsolódást kínál a vezetésből, ahol délután kinyújtózhat és élvezheti a gondosan parkosított zöldterületeket.",
+            "ro": "Sahr Land oferă o pauză de recreere dinamică de la condus, unde vă puteți întinde și bucura de spațiile verzi amenajate după-amiaza.",
+            "en": "Sahr Land offers a dynamic recreational break from driving, where you can stretch out and enjoy the carefully landscaped green spaces in the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Sunlight",
+            "hu": "Sunlight",
+            "ro": "Sunlight",
+            "en": "Sunlight"
+          },
+          "coords": [
+            32.714137,
+            29.572598
+          ],
+          "category": "recreational",
+          "arrive_at": "13:44",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tagesausflug bei Sunlight, einem ruhigen Erholungsort, der sich perfekt eignet, um die Reise bei beginnendem Sonnenuntergang Revue passieren zu lassen.",
+            "hu": "Zárja a napot a Sunlightnál, egy nyugodt pihenőhelynél, amely tökéletes a napi utazás átgondolására, ahogy a késő délutáni nap elkezd lemenni.",
+            "ro": "Încheiați excursia la Sunlight, un loc de recreere calm, perfect pentru a reflecta asupra călătoriei zilei în timp ce soarele începe să apună.",
+            "en": "Conclude your day trip at Sunlight, a calm recreational spot perfect for reflecting on the day's journey as the late afternoon sun begins to set."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie Ihre Fahrt an der ruhigen Masjed Qeba'a, bevor Sie nach Süden zum beeindruckenden Wahrzeichen El Hay El Qayoom fahren.\n\nMittag: Halten Sie am skurrilen Drei-Fische-Denkmal und der großen Ali Ibn Abi Taleb Moschee. Die kurzen Fahrstrecken lassen viel Zeit für Erkundungen.\n\nNachmittag: Fahren Sie in das Herz der Stadt bei 306, um in die lebendige lokale Kultur einzutauchen. Danach geht es zum Erholen ins Sahr Land.\n\nAbend: Lassen Sie Ihren Roadtrip bei Sunlight ausklingen. Genießen Sie die entspannte Atmosphäre und lassen Sie den gut genutzten Tag Revue passieren.",
+        "hu": "Reggel: Kezdje útját a békés Masjed Qeba'a mecsetnél, megcsodálva annak dizájnját, mielőtt délre indulna az impozáns El Hay El Qayoom nevezetességhez.\n\nDélben: Álljon meg a mókás Három Hal emlékműnél és a hatalmas Ali Ibn Abi Taleb mecsetnél. A rövid vezetési távolságok sok időt hagynak a felfedezésre.\n\nDélután: Autózzon a város szívébe, a 306-hoz, elmerülve a helyi kultúrában. Ezután hajtson le a Sahr Landbe egy jól megérdemelt pihenőre.\n\nEste: Vezesse le autós kirándulását a Sunlightnál. Élvezze a pihentető légkört, miközben átgondolja ezt a nagyszerűen eltöltött napot Ras Sedrben.",
+        "ro": "Dimineața: Începeți plimbarea cu mașina la senina Masjed Qeba'a, admirând designul său, înainte de a vă îndrepta spre sud către reperul El Hay El Qayoom.\n\nAmiază: Opriți la ineditul monument Trei Pești și la marea Moschee Ali Ibn Abi Taleb. Distanțele scurte de condus lasă mult timp pentru explorare.\n\nDupă-amiaza: Conduceți în inima orașului la 306, pentru o baie de cultură. Apoi, mergeți spre sud către Sahr Land pentru o pauză de recreere mult așteptată.\n\nSeara: Încheiați călătoria la Sunlight. Bucurați-vă de atmosfera relaxantă de agrement, reflectând la o zi minunată petrecută explorând Ras Sedr.",
+        "en": "Morning: Start your drive at the serene Masjed Qeba'a, admiring its beautiful design before heading south to the impressive El Hay El Qayoom landmark.\n\nMidday: Stop by the quirky Three Fish monument and the grand Ali Ibn Abi Taleb Mosque. The short driving distances allow plenty of time for exploration.\n\nAfternoon: Cruise into the heart of the city at 306, diving into the vibrant local culture. Then, drive down to Sahr Land for a much-needed recreational break.\n\nEvening: Wind down your road trip at Sunlight. Enjoy the relaxing recreational atmosphere as you reflect on a day well spent exploring the best of Ras Sedr."
+      }
+    }
+  }
+}

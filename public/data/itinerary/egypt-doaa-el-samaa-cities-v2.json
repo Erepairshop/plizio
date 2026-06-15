@@ -1,0 +1,520 @@
+{
+  "city_id": "egypt-doaa-el-samaa-cities-v2",
+  "anchor": {
+    "name": "Doaa El Samaa",
+    "coords": [
+      29.37097,
+      30.88572
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:20",
+      "total_km": 2.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "El Togareyeen",
+            "hu": "El Togareyeen",
+            "ro": "El Togareyeen",
+            "en": "El Togareyeen"
+          },
+          "coords": [
+            29.362686,
+            30.882141
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie in dieser malerischen Küstenanlage, die das ruhige Leben am Meer perfekt einfängt, und bringen Sie unbedingt ausreichend Sonnencreme mit.",
+            "hu": "Pihenjen meg ebben a festői tengerparti üdülőhelyen, amely tökéletesen megragadja a tenger nyugalmát, és feltétlenül hozzon magával naptejet.",
+            "ro": "Relaxați-vă în acest complex de coastă pitoresc care surprinde perfect viața liniștită de la malul mării și asigurați-vă că aduceți suficientă cremă de soare.",
+            "en": "Relax in this picturesque coastal complex that perfectly captures the tranquil seaside lifestyle, and make sure to bring plenty of sunscreen for the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Doaa El Samaa",
+            "hu": "Doaa El Samaa",
+            "ro": "Doaa El Samaa",
+            "en": "Doaa El Samaa"
+          },
+          "coords": [
+            29.370969,
+            30.885717
+          ],
+          "category": "recreational",
+          "arrive_at": "10:23",
+          "stay_min": 60,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie die namensgebende Anlage mit ihren weiten, gepflegten Wegen, die einen authentischen Einblick in das lokale Resortleben bieten; tragen Sie bequeme Schuhe.",
+            "hu": "Fedezze fel a névadó komplexumot tágas, gondozott ösvényeivel, amely hiteles bepillantást nyújt a helyi üdülőéletbe; viseljen nagyon kényelmes cipőt a sétához.",
+            "ro": "Explorați complexul omonim, cu aleile sale spațioase și îngrijite, care oferă o perspectivă autentică asupra vieții de stațiune; purtați încălțăminte comodă.",
+            "en": "Explore the namesake complex with its expansive, manicured pathways that offer an authentic glimpse into local resort life, and wear comfortable walking shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Doaa El Samaa Feriendorf",
+            "hu": "Doaa El Samaa Üdülőfalu",
+            "ro": "Satul de vacanță Doaa El Samaa",
+            "en": "Doaa El Samaa Village"
+          },
+          "coords": [
+            29.372052,
+            30.883928
+          ],
+          "category": "recreational",
+          "arrive_at": "11:26",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das lebhafte Treiben dieses Feriendorfes ein, wo traditionelle Architektur auf moderne Freizeiteinrichtungen trifft; kommen Sie früh für den besten Platz.",
+            "hu": "Merüljön el ennek az üdülőfalunak a nyüzsgésében, ahol a hagyományos építészet találkozik a modern szabadidős létesítményekkel; érkezzen korán a legjobb helyekért.",
+            "ro": "Cufundați-vă în atmosfera vibrantă a acestui sat de vacanță, unde arhitectura se îmbină cu facilitățile moderne; veniți devreme pentru a prinde cel mai bun loc.",
+            "en": "Immerse yourself in the vibrant atmosphere of this holiday village where traditional architecture meets modern leisure facilities; arrive early for the best spots."
+          }
+        },
+        {
+          "name": {
+            "de": "El Marwa",
+            "hu": "El Marwa",
+            "ro": "El Marwa",
+            "en": "El Marwa"
+          },
+          "coords": [
+            29.380557,
+            30.889418
+          ],
+          "category": "recreational",
+          "arrive_at": "12:41",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieses weitläufigen Küstenabschnitts, der für seine entspannenden Grünflächen bekannt ist, und packen Sie ein leichtes Picknick ein.",
+            "hu": "Élvezze a kiterjedt partszakasz békés atmoszféráját, amely pihentető zöldterületeiről híres, és csomagoljon be egy könnyű, frissítő pikniket a délutánra.",
+            "ro": "Bucurați-vă de atmosfera pașnică a acestei porțiuni extinse de coastă, renumită pentru spațiile sale verzi relaxante, și pregătiți un picnic ușor de savurat aici.",
+            "en": "Enjoy the peaceful atmosphere of this extensive coastal stretch, renowned for its relaxing green spaces, and pack a light picnic to fully appreciate the views."
+          }
+        },
+        {
+          "name": {
+            "de": "Salsabeel",
+            "hu": "Salsabeel",
+            "ro": "Salsabeel",
+            "en": "Salsabeel"
+          },
+          "coords": [
+            29.386397,
+            30.89152
+          ],
+          "category": "recreational",
+          "arrive_at": "13:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gepflegten Gärten und die elegante Küstengestaltung, die diesen Rückzugsort so besonders machen, während Sie am Nachmittag kühle Getränke probieren.",
+            "hu": "Csodálja meg az ápolt kerteket és az elegáns tengerparti kialakítást, amely olyan különlegessé teszi ezt a menedéket, miközben délután hűsítő italokat kóstolgat.",
+            "ro": "Admirați grădinile bine îngrijite și designul de coastă elegant care fac din acest refugiu un loc special, în timp ce încercați băuturi răcoritoare după-amiaza.",
+            "en": "Admire the well-maintained gardens and elegant coastal design that make this retreat so special, while trying some cool refreshing drinks in the late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an der Nordküste in El Togareyeen, wo die erfrischende Meeresbrise Ihre Lebensgeister weckt.\nGegen Mittag schlendern Sie durch das elegante Resort Doaa El Samaa und bewundern die gepflegten Wege, bevor Sie das angrenzende Feriendorf erreichen.\nDer Nachmittag bietet im El Marwa reichlich Gelegenheit für entspannende Momente.\nZum Abschluss empfängt Sie Salsabeel am Meer.",
+        "hu": "Kezdje a napot az északi parton El Togareyeenben, ahol a frissítő tengeri szellő azonnal felébreszti érzékeit.\nDél körül sétáljon át az elegáns Doaa El Samaa üdülőhelyen, és csodálja meg a gondozott ösvényeket, mielőtt elérné a szomszédos falut.\nA délután bőséges lehetőséget kínál a kikapcsolódásra El Marwa strandjain.\nA nap zárásaként Salsabeel lágy esti hangulattal várja egy parti sétára.",
+        "ro": "Începeți-vă ziua pe coasta de nord la El Togareyeen, unde briza răcoroasă a mării vă va trezi imediat simțurile.\nLa amiază, plimbați-vă prin stațiunea Doaa El Samaa și admirați aleile îngrijite înainte de a ajunge în satul adiacent.\nDupă-amiaza oferă oportunități ample de relaxare pe plajele verzi din El Marwa.\nPentru a încheia, Salsabeel vă întâmpină cu o atmosferă blândă de seară la mal.",
+        "en": "Start your day on the North Coast at El Togareyeen, where the refreshing sea breeze will instantly awaken your senses.\nAround midday, stroll through the elegant Doaa El Samaa resort and admire its manicured pathways before reaching the adjacent holiday village.\nThe afternoon offers ample opportunity to relax on the lush beaches of El Marwa.\nTo conclude, Salsabeel welcomes you for a seaside walk."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Nice 1",
+            "hu": "Nice 1",
+            "ro": "Nice 1",
+            "en": "Nice 1"
+          },
+          "coords": [
+            29.354403,
+            30.878921
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag in dieser charmanten Strandanlage, deren Name Programm ist, und nutzen Sie das klare Morgenlicht für fantastische Urlaubsfotos am Wasser.",
+            "hu": "Kezdje a napot ebben a bájos vízparti létesítményben, amelynek neve magáért beszél, és használja ki a tiszta reggeli fényeket a fantasztikus fotókhoz.",
+            "ro": "Începeți ziua în această fermecătoare facilitate pe plajă al cărei nume spune totul și folosiți lumina clară a dimineții pentru fotografii de vacanță fantastice.",
+            "en": "Start the day in this charming beachfront facility whose name speaks for itself, and use the crystal-clear morning light for fantastic seaside vacation photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Nice 2",
+            "hu": "Nice 2",
+            "ro": "Nice 2",
+            "en": "Nice 2"
+          },
+          "coords": [
+            29.35621,
+            30.879577
+          ],
+          "category": "recreational",
+          "arrive_at": "10:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Setzen Sie Ihre entspannte Reise an diesem angrenzenden Strandbereich fort, der für seine familiäre Atmosphäre geschätzt wird, und leihen Sie einen Sonnenschirm aus.",
+            "hu": "Folytassa pihentető utazását ezen a szomszédos partszakaszon, amelyet családias hangulata miatt kedvelnek, és mindenképpen kölcsönözzön egy kényelmes napernyőt.",
+            "ro": "Continuați-vă călătoria relaxantă pe această zonă de plajă adiacentă, apreciată pentru atmosfera sa familială, și asigurați-vă că închiriați o umbrelă de soare.",
+            "en": "Continue your relaxing journey at this adjacent beach area, highly valued for its family-friendly atmosphere, and be sure to rent a beach umbrella for comfort."
+          }
+        },
+        {
+          "name": {
+            "de": "El Bardees",
+            "hu": "El Bardees",
+            "ro": "El Bardees",
+            "en": "El Bardees"
+          },
+          "coords": [
+            29.358619,
+            30.880445
+          ],
+          "category": "recreational",
+          "arrive_at": "11:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die markante Architektur dieses faszinierenden Erholungszentrums für Behördenmitarbeiter und erfahren Sie mehr über Ägyptens einzigartige Firmenresorts.",
+            "hu": "Csodálja meg a kormányzati dolgozók lenyűgöző rekreációs központjának jellegzetes építészetét, és tudjon meg többet Egyiptom egyedi vállalati üdülőiről.",
+            "ro": "Admirați arhitectura izbitoare a acestui fascinant centru de recreere pentru angajații guvernamentali și aflați mai multe despre stațiunile corporative unice.",
+            "en": "Marvel at the striking architecture of this fascinating recreation center for government employees, and learn more about Egypt's unique corporate resort culture."
+          }
+        },
+        {
+          "name": {
+            "de": "El Togareyeen",
+            "hu": "El Togareyeen",
+            "ro": "El Togareyeen",
+            "en": "El Togareyeen"
+          },
+          "coords": [
+            29.362686,
+            30.882141
+          ],
+          "category": "recreational",
+          "arrive_at": "12:16",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Legen Sie hier eine längere Pause ein, um das sanfte Meeresrauschen zu genießen und sich bei einem Spaziergang über die weitläufige Anlage zu erfrischen.",
+            "hu": "Tartson itt egy hosszabb pihenőt, hogy élvezze a lágy tengerzúgást, és frissüljön fel egy sétával a tágas és zöldellő komplexum területén.",
+            "ro": "Faceți o pauză mai lungă aici pentru a vă bucura de sunetul blând al mării și pentru a vă reîmprospăta cu o plimbare prin complexul vast și înverzit.",
+            "en": "Take a longer break here to enjoy the gentle sound of the sea and refresh yourself with a pleasant stroll across the extensive, green complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Doaa El Samaa",
+            "hu": "Doaa El Samaa",
+            "ro": "Doaa El Samaa",
+            "en": "Doaa El Samaa"
+          },
+          "coords": [
+            29.370969,
+            30.885717
+          ],
+          "category": "recreational",
+          "arrive_at": "13:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie die namensgebende Anlage mit ihren weiten, gepflegten Wegen, die einen authentischen Einblick in das lokale Resortleben bieten; tragen Sie bequeme Schuhe.",
+            "hu": "Fedezze fel a névadó komplexumot tágas, gondozott ösvényeivel, amely hiteles bepillantást nyújt a helyi üdülőéletbe; viseljen nagyon kényelmes cipőt a sétához.",
+            "ro": "Explorați complexul omonim, cu aleile sale spațioase și îngrijite, care oferă o perspectivă autentică asupra vieții de stațiune; purtați încălțăminte comodă.",
+            "en": "Explore the namesake complex with its expansive, manicured pathways that offer an authentic glimpse into local resort life, and wear comfortable walking shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "El Marwa",
+            "hu": "El Marwa",
+            "ro": "El Marwa",
+            "en": "El Marwa"
+          },
+          "coords": [
+            29.380557,
+            30.889418
+          ],
+          "category": "recreational",
+          "arrive_at": "14:26",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieses weitläufigen Küstenabschnitts, der für seine entspannenden Grünflächen bekannt ist, und packen Sie ein leichtes Picknick ein.",
+            "hu": "Élvezze a kiterjedt partszakasz békés atmoszféráját, amely pihentető zöldterületeiről híres, és csomagoljon be egy könnyű, frissítő pikniket a délutánra.",
+            "ro": "Bucurați-vă de atmosfera pașnică a acestei porțiuni extinse de coastă, renumită pentru spațiile sale verzi relaxante, și pregătiți un picnic ușor de savurat aici.",
+            "en": "Enjoy the peaceful atmosphere of this extensive coastal stretch, renowned for its relaxing green spaces, and pack a light picnic to fully appreciate the views."
+          }
+        },
+        {
+          "name": {
+            "de": "Tiba Rose",
+            "hu": "Tiba Rose",
+            "ro": "Tiba Rose",
+            "en": "Tiba Rose"
+          },
+          "coords": [
+            29.389645,
+            30.8931
+          ],
+          "category": "recreational",
+          "arrive_at": "15:31",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag in diesem luxuriösen Ferienkomplex ausklingen, der fantastische Ausblicke auf das Meer bietet, und reservieren Sie vorab einen Tisch für das Abendessen.",
+            "hu": "Zárja a napot ebben a fényűző üdülőkomplexumban, amely fantasztikus kilátást nyújt a tengerre, és előre foglaljon asztalt a tökéletes vacsorához.",
+            "ro": "Încheiați ziua în acest complex de vacanță luxos, care oferă vederi fantastice la mare, și rezervați o masă în avans pentru o cină perfectă la apus.",
+            "en": "End your day at this luxurious holiday complex that offers fantastic views of the sea, and make sure to reserve a table in advance for a perfect sunset dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt im lebhaften Nice 1, wo die morgendliche Sonne die Küste in ein goldenes Licht taucht.\nAm Mittag radeln Sie entspannt durch El Bardees und El Togareyeen, stets begleitet vom Rauschen der Wellen.\nDer Nachmittag führt Sie in das zentrale Doaa El Samaa und weiter zum El Marwa, wo Sie herrliche Pausen im Schatten einlegen können.\nDer Abend in Tiba Rose bildet den luxuriösen Abschluss.",
+        "hu": "A kerékpártúra a nyüzsgő Nice 1-ben kezdődik, ahol a reggeli nap arany fénnyel árasztja el a gyönyörű partvidéket.\nDélben nyugodtan tekerjen át El Bardees és El Togareyeen területén, miközben a hullámok zúgása kíséri.\nA délután a Doaa El Samaa-ba és az El Marwa-ba vezet, ahol csodálatos pihenőket tarthat.\nA Tiba Rose-ban töltött este a túra fényűző fénypontja a naplemente megcsodálásához.",
+        "ro": "Turul cu bicicleta începe în animatul Nice 1, unde soarele dimineții scaldă coasta într-o lumină aurie spectaculoasă.\nLa prânz, pedalați relaxat prin El Bardees și El Togareyeen, mereu însoțiți de sunetul valurilor.\nDupă-amiaza vă duce în Doaa El Samaa și mai departe la El Marwa, unde puteți face pauze minunate la umbră.\nSeara la Tiba Rose este punctul culminant luxos al turului dvs.",
+        "en": "Your bike tour begins at the vibrant Nice 1, where the morning sun bathes the stunning coastline in a golden light.\nAt midday, cycle leisurely through El Bardees and El Togareyeen, always accompanied by the sound of waves.\nThe afternoon leads you to central Doaa El Samaa and further to El Marwa, where you can take wonderful breaks in the shade.\nThe evening at Tiba Rose is the luxurious highlight."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:53",
+      "total_km": 5.1,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Suez Canal Resort",
+            "hu": "Suez Canal Resort",
+            "ro": "Suez Canal Resort",
+            "en": "Suez Canal Resort"
+          },
+          "coords": [
+            29.343584,
+            30.875375
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese unerwartet benannte Freizeitanlage, die die maritime Geschichte der Region aufgreift, und genießen Sie einen Spaziergang entlang der kleinen Promenade.",
+            "hu": "Fedezze fel ezt a váratlan nevű szabadidős létesítményt, amely a régió tengeri történelmét idézi, és élvezze a kellemes sétát a kis parti sétányon.",
+            "ro": "Descoperiți această facilitate de agrement cu nume neașteptat care preia istoria maritimă a regiunii și bucurați-vă de o plimbare de-a lungul micii promenade.",
+            "en": "Discover this unexpectedly named leisure facility that echoes the region's maritime history, and enjoy a pleasant stroll along the small coastal promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "El Balah",
+            "hu": "El Balah",
+            "ro": "El Balah",
+            "en": "El Balah"
+          },
+          "coords": [
+            29.349115,
+            30.877996
+          ],
+          "category": "recreational",
+          "arrive_at": "10:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erleben Sie die idyllische Ruhe dieser von Palmen gesäumten Oase an der Küste, die zum Verweilen einlädt; bringen Sie eine gute Kamera für die Landschaftsaufnahmen mit.",
+            "hu": "Tapasztalja meg a pálmafákkal szegélyezett part menti oázis idilli nyugalmát, amely hosszas elidőzésre csábít; hozzon magával jó fényképezőgépet a tájképekhez.",
+            "ro": "Experimentați liniștea idilică a acestei oaze de coastă mărginită de palmieri care vă invită să zăboviți; aduceți o cameră bună pentru fotografiile de peisaj.",
+            "en": "Experience the idyllic tranquility of this palm-fringed coastal oasis that invites you to linger, and bring a good quality camera to capture the stunning landscapes."
+          }
+        },
+        {
+          "name": {
+            "de": "Nice 1",
+            "hu": "Nice 1",
+            "ro": "Nice 1",
+            "en": "Nice 1"
+          },
+          "coords": [
+            29.354403,
+            30.878921
+          ],
+          "category": "recreational",
+          "arrive_at": "11:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag in dieser charmanten Strandanlage, deren Name Programm ist, und nutzen Sie das klare Morgenlicht für fantastische Urlaubsfotos am Wasser.",
+            "hu": "Kezdje a napot ebben a bájos vízparti létesítményben, amelynek neve magáért beszél, és használja ki a tiszta reggeli fényeket a fantasztikus fotókhoz.",
+            "ro": "Începeți ziua în această fermecătoare facilitate pe plajă al cărei nume spune totul și folosiți lumina clară a dimineții pentru fotografii de vacanță fantastice.",
+            "en": "Start the day in this charming beachfront facility whose name speaks for itself, and use the crystal-clear morning light for fantastic seaside vacation photos."
+          }
+        },
+        {
+          "name": {
+            "de": "El Togareyeen",
+            "hu": "El Togareyeen",
+            "ro": "El Togareyeen",
+            "en": "El Togareyeen"
+          },
+          "coords": [
+            29.362686,
+            30.882141
+          ],
+          "category": "recreational",
+          "arrive_at": "12:16",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Legen Sie hier eine längere Pause ein, um das sanfte Meeresrauschen zu genießen und sich bei einem Spaziergang über die weitläufige Anlage zu erfrischen.",
+            "hu": "Tartson itt egy hosszabb pihenőt, hogy élvezze a lágy tengerzúgást, és frissüljön fel egy sétával a tágas és zöldellő komplexum területén.",
+            "ro": "Faceți o pauză mai lungă aici pentru a vă bucura de sunetul blând al mării și pentru a vă reîmprospăta cu o plimbare prin complexul vast și înverzit.",
+            "en": "Take a longer break here to enjoy the gentle sound of the sea and refresh yourself with a pleasant stroll across the extensive, green complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Doaa El Samaa Feriendorf",
+            "hu": "Doaa El Samaa Üdülőfalu",
+            "ro": "Satul de vacanță Doaa El Samaa",
+            "en": "Doaa El Samaa Village"
+          },
+          "coords": [
+            29.372052,
+            30.883928
+          ],
+          "category": "recreational",
+          "arrive_at": "13:18",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das lebhafte Treiben dieses Feriendorfes ein, wo traditionelle Architektur auf moderne Freizeiteinrichtungen trifft; kommen Sie früh für den besten Platz.",
+            "hu": "Merüljön el ennek az üdülőfalunak a nyüzsgésében, ahol a hagyományos építészet találkozik a modern szabadidős létesítményekkel; érkezzen korán a legjobb helyekért.",
+            "ro": "Cufundați-vă în atmosfera vibrantă a acestui sat de vacanță, unde arhitectura se îmbină cu facilitățile moderne; veniți devreme pentru a prinde cel mai bun loc.",
+            "en": "Immerse yourself in the vibrant atmosphere of this holiday village where traditional architecture meets modern leisure facilities; arrive early for the best spots."
+          }
+        },
+        {
+          "name": {
+            "de": "El Marwa",
+            "hu": "El Marwa",
+            "ro": "El Marwa",
+            "en": "El Marwa"
+          },
+          "coords": [
+            29.380557,
+            30.889418
+          ],
+          "category": "recreational",
+          "arrive_at": "14:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieses weitläufigen Küstenabschnitts, der für seine entspannenden Grünflächen bekannt ist, und packen Sie ein leichtes Picknick ein.",
+            "hu": "Élvezze a kiterjedt partszakasz békés atmoszféráját, amely pihentető zöldterületeiről híres, és csomagoljon be egy könnyű, frissítő pikniket a délutánra.",
+            "ro": "Bucurați-vă de atmosfera pașnică a acestei porțiuni extinse de coastă, renumită pentru spațiile sale verzi relaxante, și pregătiți un picnic ușor de savurat aici.",
+            "en": "Enjoy the peaceful atmosphere of this extensive coastal stretch, renowned for its relaxing green spaces, and pack a light picnic to fully appreciate the views."
+          }
+        },
+        {
+          "name": {
+            "de": "Salsabeel",
+            "hu": "Salsabeel",
+            "ro": "Salsabeel",
+            "en": "Salsabeel"
+          },
+          "coords": [
+            29.386397,
+            30.89152
+          ],
+          "category": "recreational",
+          "arrive_at": "15:22",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gepflegten Gärten und die elegante Küstengestaltung, die diesen Rückzugsort so besonders machen, während Sie am Nachmittag kühle Getränke probieren.",
+            "hu": "Csodálja meg az ápolt kerteket és az elegáns tengerparti kialakítást, amely olyan különlegessé teszi ezt a menedéket, miközben délután hűsítő italokat kóstolgat.",
+            "ro": "Admirați grădinile bine îngrijite și designul de coastă elegant care fac din acest refugiu un loc special, în timp ce încercați băuturi răcoritoare după-amiaza.",
+            "en": "Admire the well-maintained gardens and elegant coastal design that make this retreat so special, while trying some cool refreshing drinks in the late afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Tiba Rose",
+            "hu": "Tiba Rose",
+            "ro": "Tiba Rose",
+            "en": "Tiba Rose"
+          },
+          "coords": [
+            29.389645,
+            30.8931
+          ],
+          "category": "recreational",
+          "arrive_at": "16:23",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag in diesem luxuriösen Ferienkomplex ausklingen, der fantastische Ausblicke auf das Meer bietet, und reservieren Sie vorab einen Tisch für das Abendessen.",
+            "hu": "Zárja a napot ebben a fényűző üdülőkomplexumban, amely fantasztikus kilátást nyújt a tengerre, és előre foglaljon asztalt a tökéletes vacsorához.",
+            "ro": "Încheiați ziua în acest complex de vacanță luxos, care oferă vederi fantastice la mare, și rezervați o masă în avans pentru o cină perfectă la apus.",
+            "en": "End your day at this luxurious holiday complex that offers fantastic views of the sea, and make sure to reserve a table in advance for a perfect sunset dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Autofahrt beginnt ganz im Westen am Suez Canal Resort, ideal für ruhige Morgenstunden am glitzernden Wasser.\nGegen Mittag steuern Sie Nice 1 und El Togareyeen an, wo Sie die vielfältigen Freizeitangebote erkunden.\nNachmittags parken Sie bequem am Feriendorf und El Marwa, um das entspannte Treiben hautnah zu erleben.\nAm Abend erreichen Sie schließlich Tiba Rose für ein exzellentes Dinner.",
+        "hu": "Az autóút a legnyugatibb részen, a Suez Canal Resortnál kezdődik, amely ideális a csendes reggeli órákhoz a csillogó víz mellett.\nDél körül a Nice 1 és El Togareyeen felé veszi az irányt a lenyűgöző tengerparton.\nDélután kényelmesen leparkolhat az üdülőfaluban és az El Marwa területén, hogy élvezze a pihenést.\nEste végül eléri a Tiba Rose-t, ahol kiváló éttermek és pazar kilátás várja.",
+        "ro": "Călătoria cu mașina începe în vestul îndepărtat, la Suez Canal Resort, ideal pentru orele liniștite ale dimineții lângă apă.\nÎn jurul prânzului, vă îndreptați spre Nice 1 și El Togareyeen pentru a explora facilitățile de agrement.\nDupă-amiaza parcați confortabil la satul de vacanță și El Marwa pentru a experimenta agitația relaxată a complexelor.\nSeara ajungeți la Tiba Rose pentru o cină excelentă.",
+        "en": "The car journey begins far to the west at the Suez Canal Resort, ideal for quiet morning hours by the sparkling water.\nAround midday, you will head towards Nice 1 and El Togareyeen, where you can explore the diverse leisure facilities.\nIn the afternoon, park comfortably at the holiday village and El Marwa to experience the relaxed bustle firsthand.\nIn the evening, you finally reach Tiba Rose."
+      }
+    }
+  }
+}

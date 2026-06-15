@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-navia-cities-v2",
+  "anchor": {
+    "name": "Navia",
+    "coords": [
+      -6.72337,
+      43.53911
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:45",
+      "total_km": 2.35,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Palacio de Arias",
+            "hu": "Palacio de Arias",
+            "ro": "Palacio de Arias",
+            "en": "Palacio de Arias"
+          },
+          "coords": [
+            -6.724226,
+            43.5375
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisite Architektur dieses historischen Palastes und besuchen Sie ihn am besten in den Morgenstunden für optimales Licht.",
+            "hu": "Csodálja meg a történelmi palota lenyűgöző építészetét, és érdemes a reggeli órákban idelátogatni a legszebb fényviszonyok érdekében.",
+            "ro": "Admirați arhitectura rafinată a acestui palat istoric, fiind recomandat să îl vizitați în orele dimineții pentru cea mai bună lumină.",
+            "en": "Admire the exquisite architecture of this historic palace from the outside, and remember to visit during morning hours for the best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de la Marquesa de Navia Osorio",
+            "hu": "Casa de la Marquesa de Navia Osorio",
+            "ro": "Casa de la Marquesa de Navia Osorio",
+            "en": "Casa de la Marquesa de Navia Osorio"
+          },
+          "coords": [
+            -6.723202,
+            43.53895
+          ],
+          "category": "landmark",
+          "arrive_at": "10:32",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses Wahrzeichen, um das Erbe von Navia zu verstehen, wobei Sie beachten sollten, dass der Zugang an manchen Tagen begrenzt ist.",
+            "hu": "Fedezze fel ezt a helyi nevezetességet Navia örökségének megismeréséhez, de vegye figyelembe, hogy a belső terek korlátozottan látogathatók.",
+            "ro": "Explorați acest punct de reper pentru a înțelege patrimoniul orașului Navia, dar țineți cont că accesul în interior poate fi limitat uneori.",
+            "en": "Explore this prominent local landmark to understand Navia's rich heritage, but be aware that interior access might be restricted on certain days."
+          }
+        },
+        {
+          "name": {
+            "de": "El Doque",
+            "hu": "El Doque",
+            "ro": "El Doque",
+            "en": "El Doque"
+          },
+          "coords": [
+            -6.726858,
+            43.553045
+          ],
+          "category": "recreational",
+          "arrive_at": "11:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannten Spaziergang an diesem malerischen Erholungsort am Wasser und bringen Sie bequeme Wanderschuhe für den Küstenweg mit.",
+            "hu": "Élvezze a pihentető sétát ezen a festői vízparti pihenőhelyen, és hozzon magával kényelmes cipőt a parti ösvény alapos felfedezéséhez.",
+            "ro": "Bucurați-vă de o plimbare relaxantă în acest loc pitoresc de la malul apei și purtați încălțăminte comodă pentru a explora traseul de coastă.",
+            "en": "Enjoy a relaxing stroll along this scenic recreational spot by the water, and bring comfortable walking shoes to fully explore the coastal path."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Navia",
+            "hu": "Playa de Navia",
+            "ro": "Playa de Navia",
+            "en": "Playa de Navia"
+          },
+          "coords": [
+            -6.722273,
+            43.555225
+          ],
+          "category": "recreational",
+          "arrive_at": "12:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sandstrand von Navia, der von Pinien umgeben ist, und vergessen Sie nicht, Sonnencreme und Wasser einzupacken.",
+            "hu": "Pihenjen Navia fenyőfákkal övezett, aranyhomokos fő strandján, és ne felejtsen el naptejet és vizet pakolni egy napsütéses délutánra.",
+            "ro": "Relaxați-vă pe nisipul auriu al plajei principale din Navia, înconjurată de pini, și nu uitați să luați cremă de soare și apă cu dumneavoastră.",
+            "en": "Relax on the golden sands of Navia's main beach surrounded by pine trees, and don't forget to pack sunscreen and water for a sunny afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador del Monolito",
+            "hu": "Mirador del Monolito",
+            "ro": "Mirador del Monolito",
+            "en": "Mirador del Monolito"
+          },
+          "coords": [
+            -6.720216,
+            43.555142
+          ],
+          "category": "natural",
+          "arrive_at": "13:50",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf die raue Küste von diesem natürlichen Aussichtspunkt, ideal für Fotos bei Sonnenuntergang.",
+            "hu": "Gyönyörködjön a vad partvidékre nyíló lélegzetelállító panorámában erről a kilátóról, amely tökéletes helyszín naplementés fotók készítéséhez.",
+            "ro": "Admirați priveliștile panoramice uluitoare ale coastei sălbatice de la acest punct de belvedere, fiind locul perfect pentru fotografii la apus.",
+            "en": "Take in breathtaking panoramic views of the rugged coastline from this natural viewpoint, making it the perfect spot for sunset photography."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Herzen von Navia mit dem eleganten Palacio de Arias und der Casa de la Marquesa. Mittags geht es auf malerischen Naturpfaden an der Mündung beim El Doque entlang. Der Nachmittag ist dem weichen Sand der Playa de Navia gewidmet, perfekt zum Entspannen. Der Abend endet mit einem atemberaubenden Sonnenuntergang vom Mirador del Monolito.",
+        "hu": "A reggel Navia szívében indul, az elegáns Palacio de Arias és a Casa de la Marquesa felfedezésével. Délben festői ösvényeken sétálunk tovább az El Doque folyótorkolata mentén. A délutánt a Playa de Navia puha homokján töltjük, ahol a tengeri szellő frissít fel. Az estét a Mirador del Monolito kilátóból elénk táruló lélegzetelállító naplemente zárja le.",
+        "ro": "Dimineața începe în inima orașului Navia, explorând elegantul Palacio de Arias și Casa de la Marquesa. La prânz vă îndreptați spre traseele pitorești naturale, plimbându-vă pe lângă estuar la El Doque. După-amiaza este rezervată nisipului fin de la Playa de Navia, ideal pentru relaxare. Seara se încheie cu un apus uluitor de soare admirat de la Mirador del Monolito.",
+        "en": "Morning starts in the heart of Navia, exploring the elegant Palacio de Arias and Casa de la Marquesa. Midday takes a turn towards the scenic natural pathways, walking along the estuary at El Doque. Afternoon is reserved for the soft sands of Playa de Navia, perfect for relaxation and sea breezes. Evening concludes with breathtaking sunset views from Mirador del Monolito."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:54",
+      "total_km": 5.45,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Palacio de Arias",
+            "hu": "Palacio de Arias",
+            "ro": "Palacio de Arias",
+            "en": "Palacio de Arias"
+          },
+          "coords": [
+            -6.724226,
+            43.5375
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisite Architektur dieses historischen Palastes und besuchen Sie ihn am besten in den Morgenstunden für optimales Licht.",
+            "hu": "Csodálja meg a történelmi palota lenyűgöző építészetét, és érdemes a reggeli órákban idelátogatni a legszebb fényviszonyok érdekében.",
+            "ro": "Admirați arhitectura rafinată a acestui palat istoric, fiind recomandat să îl vizitați în orele dimineții pentru cea mai bună lumină.",
+            "en": "Admire the exquisite architecture of this historic palace from the outside, and remember to visit during morning hours for the best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de la Marquesa de Navia Osorio",
+            "hu": "Casa de la Marquesa de Navia Osorio",
+            "ro": "Casa de la Marquesa de Navia Osorio",
+            "en": "Casa de la Marquesa de Navia Osorio"
+          },
+          "coords": [
+            -6.723202,
+            43.53895
+          ],
+          "category": "landmark",
+          "arrive_at": "10:31",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses Wahrzeichen, um das Erbe von Navia zu verstehen, wobei Sie beachten sollten, dass der Zugang an manchen Tagen begrenzt ist.",
+            "hu": "Fedezze fel ezt a helyi nevezetességet Navia örökségének megismeréséhez, de vegye figyelembe, hogy a belső terek korlátozottan látogathatók.",
+            "ro": "Explorați acest punct de reper pentru a înțelege patrimoniul orașului Navia, dar țineți cont că accesul în interior poate fi limitat uneori.",
+            "en": "Explore this prominent local landmark to understand Navia's rich heritage, but be aware that interior access might be restricted on certain days."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio de Mohías de Santa Cruz",
+            "hu": "Palacio de Mohías de Santa Cruz",
+            "ro": "Palacio de Mohías de Santa Cruz",
+            "en": "Palacio de Mohías de Santa Cruz"
+          },
+          "coords": [
+            -6.73651,
+            43.548279
+          ],
+          "category": "historical",
+          "arrive_at": "10:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Geschichte dieses großen, im Grünen gelegenen Anwesens ein, aber prüfen Sie vorab, ob es wegen privater Events geschlossen ist.",
+            "hu": "Merüljön el ennek a zöldellő környezetben lévő, hatalmas birtoknak a múltjában, de előre tájékozódjon az esetleges privát rendezvényekről.",
+            "ro": "Pătrundeți în trecutul fascinant al acestui domeniu măreț, însă verificați în prealabil dacă este închis pentru evenimente private.",
+            "en": "Delve into the fascinating past of this grand estate nestled in greenery, but check ahead for private event closures before making the trip."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro de Mohías",
+            "hu": "Castro de Mohías",
+            "ro": "Castro de Mohías",
+            "en": "Castro de Mohías"
+          },
+          "coords": [
+            -6.747227,
+            43.549718
+          ],
+          "category": "historical",
+          "arrive_at": "12:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie alte keltische Wurzeln an dieser gut erhaltenen archäologischen Stätte und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel az ősi kelta gyökereket ezen a jól megőrzött régészeti lelőhelyen, és viseljen masszív lábbelit, mivel a terep meglehetősen egyenetlen.",
+            "ro": "Descoperiți rădăcinile celtice la acest sit arheologic bine conservat și purtați încălțăminte solidă, deoarece terenul poate fi destul de accidentat.",
+            "en": "Uncover ancient Celtic roots at this well-preserved archaeological site, and wear sturdy footwear as the terrain can be quite uneven here."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Foxos",
+            "hu": "Playa de Foxos",
+            "ro": "Playa de Foxos",
+            "en": "Playa de Foxos"
+          },
+          "coords": [
+            -6.728551,
+            43.558431
+          ],
+          "category": "recreational",
+          "arrive_at": "13:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Erleben Sie die Ruhe dieser verborgenen Bucht mit ihren markanten Felsen und besuchen Sie sie bei Ebbe für den besten Zugang zum Strand.",
+            "hu": "Tapasztalja meg a drámai sziklákkal szegélyezett rejtett öböl nyugalmát, és ügyeljen arra, hogy apálykor érkezzen a legjobb partszakaszokhoz.",
+            "ro": "Experimentați liniștea acestui golf ascuns cu stânci impresionante și asigurați-vă că îl vizitați la reflux pentru cel mai bun acces la plajă.",
+            "en": "Experience the tranquility of this hidden cove characterized by dramatic rocks, making sure to visit at low tide for the best beach access."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa del Moro",
+            "hu": "Playa del Moro",
+            "ro": "Playa del Moro",
+            "en": "Playa del Moro"
+          },
+          "coords": [
+            -6.716851,
+            43.55842
+          ],
+          "category": "recreational",
+          "arrive_at": "15:09",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem abgelegenen Ort abseits der Massen, wobei Sie eigene Snacks mitbringen sollten, da die Einrichtungen begrenzt sind.",
+            "hu": "Kapcsolódjon ki ezen a tömegtől elzárt, félreeső természeti helyen, bár érdemes saját nassolnivalót hozni, mivel kevés a szolgáltatás.",
+            "ro": "Relaxați-vă în acest loc natural retras, perfect pentru a scăpa de aglomerație, deși ar trebui să aduceți propriile gustări din lipsă de facilități.",
+            "en": "Unwind at this secluded natural spot perfect for escaping the crowds, though you should bring your own snacks as facilities are quite limited."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die morgendliche Radtour beginnt im historischen Zentrum, bevor es nach Westen zum Palacio de Mohías geht. Mittags entdecken Sie die alten keltischen Ruinen am Castro de Mohías. Nachmittags fahren Sie zur rauen und schönen Playa de Foxos, um frische Meeresluft zu atmen. Der Abend klingt an den verborgenen Ufern der Playa del Moro gemütlich und sehr entspannt aus.",
+        "hu": "A reggeli kerékpározás a történelmi központban kezdődik, mielőtt nyugat felé indulnánk a palotához. Délben az ősi kelta romokat fedezzük fel a Castro de Mohías területén. A délutáni túra a vadregényes Playa de Foxos strandjára visz a friss óceáni levegőért. Az este a Playa del Moro eldugott partjainál ér véget, ahogy a nap lassan a horizont alá bukik.",
+        "ro": "Ciclismul de dimineață începe în centrul istoric înainte de a merge spre vest, către Palacio de Mohías. La prânz veți descoperi vechile ruine celtice de la Castro de Mohías, un loc fascinant. După-amiaza pedalați până la impresionanta Playa de Foxos pentru a respira aerul sărat al oceanului. Seara se încheie liniștit pe țărmul ascuns de la Playa del Moro la asfințit.",
+        "en": "Morning cycling begins in the historic center before heading west towards the grand Palacio de Mohías. Midday involves discovering the ancient Celtic ruins at Castro de Mohías. Afternoon riding brings you to the rugged and beautiful Playa de Foxos for fresh ocean air. Evening unwinds along the hidden shores of Playa del Moro as the sun gently dips below the horizon."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 7.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Casa de Solares",
+            "hu": "Casa de Solares",
+            "ro": "Casa de Solares",
+            "en": "Casa de Solares"
+          },
+          "coords": [
+            -6.723245,
+            43.519225
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit der rustikalen Eleganz dieses südlichen Herrenhauses und genießen Sie die ruhigen Landstraßen bis zum Eingang.",
+            "hu": "Kezdje a napot ennek a történelmi déli kúriának a felfedezésével, és élvezze a bejáratához vezető nyugodt, csendes vidéki utakat.",
+            "ro": "Începeți ziua explorând eleganța rurală a acestui conac istoric sudic și bucurați-vă de drumurile de țară liniștite care duc la intrarea sa.",
+            "en": "Start your day exploring the rural elegance of this historic southern manor, and enjoy the tranquil country roads leading up to its entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de la Marquesa de Navia Osorio",
+            "hu": "Casa de la Marquesa de Navia Osorio",
+            "ro": "Casa de la Marquesa de Navia Osorio",
+            "en": "Casa de la Marquesa de Navia Osorio"
+          },
+          "coords": [
+            -6.723202,
+            43.53895
+          ],
+          "category": "landmark",
+          "arrive_at": "10:35",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses Wahrzeichen, um das Erbe von Navia zu verstehen, wobei Sie beachten sollten, dass der Zugang an manchen Tagen begrenzt ist.",
+            "hu": "Fedezze fel ezt a helyi nevezetességet Navia örökségének megismeréséhez, de vegye figyelembe, hogy a belső terek korlátozottan látogathatók.",
+            "ro": "Explorați acest punct de reper pentru a înțelege patrimoniul orașului Navia, dar țineți cont că accesul în interior poate fi limitat uneori.",
+            "en": "Explore this prominent local landmark to understand Navia's rich heritage, but be aware that interior access might be restricted on certain days."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio de Arias",
+            "hu": "Palacio de Arias",
+            "ro": "Palacio de Arias",
+            "en": "Palacio de Arias"
+          },
+          "coords": [
+            -6.724226,
+            43.5375
+          ],
+          "category": "historical",
+          "arrive_at": "10:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisite Architektur dieses historischen Palastes und besuchen Sie ihn am besten in den Morgenstunden für optimales Licht.",
+            "hu": "Csodálja meg a történelmi palota lenyűgöző építészetét, és érdemes a reggeli órákban idelátogatni a legszebb fényviszonyok érdekében.",
+            "ro": "Admirați arhitectura rafinată a acestui palat istoric, fiind recomandat să îl vizitați în orele dimineții pentru cea mai bună lumină.",
+            "en": "Admire the exquisite architecture of this historic palace from the outside, and remember to visit during morning hours for the best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Arbosa",
+            "hu": "Villa Arbosa",
+            "ro": "Villa Arbosa",
+            "en": "Villa Arbosa"
+          },
+          "coords": [
+            -6.73925,
+            43.558153
+          ],
+          "category": "historical",
+          "arrive_at": "12:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die einzigartige Indiano-Architektur dieser Villa und nehmen Sie sich Zeit, um die wunderschön angelegten Gärten zu würdigen.",
+            "hu": "Csodálja meg a lenyűgöző villát jellemző egyedi Indiano építészetet, és szánjon egy pillanatot a gyönyörűen parkosított kertek élvezetére.",
+            "ro": "Admirați arhitectura indiană unică ce definește această vilă impresionantă și faceți un moment pentru a aprecia grădinile frumos amenajate.",
+            "en": "Marvel at the unique Indiano architecture that defines this impressive villa, and take a moment to appreciate the beautifully landscaped gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Quinta Jardón",
+            "hu": "Quinta Jardón",
+            "ro": "Quinta Jardón",
+            "en": "Quinta Jardón"
+          },
+          "coords": [
+            -6.740426,
+            43.55717
+          ],
+          "category": "historical",
+          "arrive_at": "13:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise auf diesem prächtigen historischen Anwesen, aber respektieren Sie beim Fotografieren die Grenzen des Privatbesitzes.",
+            "hu": "Lépjen vissza az időben ezen a kiterjedt birtokkal rendelkező történelmi helyszínen, de fotózáskor tartsa tiszteletben a magánterület határait.",
+            "ro": "Întoarceți-vă în timp la acest domeniu istoric magnific, dar respectați limitele proprietății private în timp ce faceți fotografii.",
+            "en": "Step back in time at this magnificent historical estate with sprawling grounds, but respect the private property boundaries while photographing."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Arnelles",
+            "hu": "Playa de Arnelles",
+            "ro": "Playa de Arnelles",
+            "en": "Playa de Arnelles"
+          },
+          "coords": [
+            -6.731855,
+            43.560146
+          ],
+          "category": "recreational",
+          "arrive_at": "15:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie einen malerischen Küstenabschnitt für eine kurze Pause am Meer und fahren Sie vorsichtig auf der schmalen Abfahrt dorthin.",
+            "hu": "Fedezzen fel egy festői partszakaszt, amely tökéletes egy rövid tengerparti szünethez, és vezessen óvatosan a szűk lejtős utakon errefelé.",
+            "ro": "Descoperiți o fâșie de coastă pitorească perfectă pentru o pauză scurtă și navigați cu grijă pe coborârea îngustă dacă conduceți prin apropiere.",
+            "en": "Discover a quaint coastal stretch perfect for a short seaside break, and carefully navigate the narrow descent if you are driving close by."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador del Monolito",
+            "hu": "Mirador del Monolito",
+            "ro": "Mirador del Monolito",
+            "en": "Mirador del Monolito"
+          },
+          "coords": [
+            -6.720216,
+            43.555142
+          ],
+          "category": "natural",
+          "arrive_at": "16:20",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf die raue Küste von diesem natürlichen Aussichtspunkt, ideal für Fotos bei Sonnenuntergang.",
+            "hu": "Gyönyörködjön a vad partvidékre nyíló lélegzetelállító panorámában erről a kilátóról, amely tökéletes helyszín naplementés fotók készítéséhez.",
+            "ro": "Admirați priveliștile panoramice uluitoare ale coastei sălbatice de la acest punct de belvedere, fiind locul perfect pentru fotografii la apus.",
+            "en": "Take in breathtaking panoramic views of the rugged coastline from this natural viewpoint, making it the perfect spot for sunset photography."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die morgendliche Fahrt beginnt im Süden bei der majestätischen Casa de Solares, bevor es zurückgeht. Mittags bestaunen Sie die elegante Indiano-Architektur von Villa Arbosa und Quinta Jardón. Nachmittags genießen Sie einen kurzen Aufenthalt am intimen Strand der Playa de Arnelles. Der Abend endet mit einer Fahrt zum Mirador del Monolito für unvergessliche Panoramablicke.",
+        "hu": "A reggeli autózás délen, a fenséges Casa de Solaresnél kezdődik, majd visszatérünk a központba. Délben a Villa Arbosa és a Quinta Jardón elegáns Indiano építészetét tekinthetjük meg. A délután gyors tengerparti kikapcsolódást kínál a közeli, meghitt Playa de Arnelles homokján. Az este a Mirador del Monolito kilátóhoz vezet, ahonnan felejthetetlen panoráma tárul elénk.",
+        "ro": "Condusul de dimineață începe în sud la majestuoasa Casa de Solares înainte de a reveni în centru. La prânz se face tranziția către arhitectura indiană de la Villa Arbosa și Quinta Jardón. După-amiaza oferă un refugiu rapid la plaja intimă de la Playa de Arnelles din apropiere. Seara se încheie cu drumul către Mirador del Monolito pentru priveliști panoramice de neuitat.",
+        "en": "Morning drives start south at the majestic Casa de Solares before returning to the heart of Navia. Midday transitions to the elegant Indiano architecture found at Villa Arbosa and Quinta Jardón. Afternoon allows for a quick seaside retreat at the intimate Playa de Arnelles nearby. Evening wraps up driving to the Mirador del Monolito for unforgettable panoramic views of the coast."
+      }
+    }
+  }
+}

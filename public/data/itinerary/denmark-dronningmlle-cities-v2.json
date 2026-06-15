@@ -1,0 +1,520 @@
+{
+  "city_id": "denmark-dronningmlle-cities-v2",
+  "anchor": {
+    "name": "Dronningmølle",
+    "coords": [
+      12.38304,
+      56.09479
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 3.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Dronningmølle",
+            "hu": "Dronningmølle",
+            "ro": "Dronningmølle",
+            "en": "Dronningmølle"
+          },
+          "coords": [
+            12.386249,
+            56.099144
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen dieser Küstenstadt, indem Sie die lokalen Geschäfte erkunden und einen Kaffee vor Ihrem Spaziergang genießen.",
+            "hu": "Kezdje a napot ennek a tengerparti városkának a szívében, fedezze fel a helyi boltokat és igyon egy kávét a séta előtt.",
+            "ro": "Începeți-vă ziua în inima acestui oraș de coastă explorând magazinele locale și savurând o cafea înainte de plimbare.",
+            "en": "Start your day in the heart of this coastal town by checking out the local shops and grabbing a coffee before your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Dronningmølle Strand",
+            "hu": "Dronningmølle Strand",
+            "ro": "Dronningmølle Strand",
+            "en": "Dronningmølle Strand"
+          },
+          "coords": [
+            12.392408,
+            56.100224
+          ],
+          "category": "recreational",
+          "arrive_at": "09:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die erfrischende Meeresbrise an diesem unberührten Strand, der sich perfekt für einen Spaziergang eignet, also tragen Sie bequeme Schuhe.",
+            "hu": "Élvezze a frissítő tengeri szellőt ezen az érintetlen strandon, amely tökéletes egy reggeli sétához, ezért viseljen kényelmes cipőt.",
+            "ro": "Bucurați-vă de briza răcoroasă a mării de-a lungul acestei plaje imaculate, perfectă pentru o plimbare, așa că purtați pantofi comozi.",
+            "en": "Enjoy the refreshing sea breeze along this pristine beach, perfect for a relaxing morning stroll, so remember to wear comfortable shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Rudolph Tegners Statuepark",
+            "hu": "Rudolph Tegners Statuepark",
+            "ro": "Rudolph Tegners Statuepark",
+            "en": "Rudolph Tegners Statuepark"
+          },
+          "coords": [
+            12.403987,
+            56.085294
+          ],
+          "category": "park",
+          "arrive_at": "11:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die dramatischen Skulpturen in der Heidelandschaft und bringen Sie eine Kamera mit, um den Kontrast einzufangen.",
+            "hu": "Csodálja meg a hangás tájban elhelyezett drámai szobrokat, és feltétlenül hozzon magával fényképezőgépet a lenyűgöző kontraszt megörökítéséhez.",
+            "ro": "Admirați sculpturile dramatice așezate în peisajul de buruieniș și aduceți o cameră pentru a surprinde contrastul izbitor.",
+            "en": "Marvel at the dramatic sculptures set against the heather landscape, and bring a camera to capture the striking contrast."
+          }
+        },
+        {
+          "name": {
+            "de": "Rudolph Tegners Museum",
+            "hu": "Rudolph Tegners Museum",
+            "ro": "Rudolph Tegners Museum",
+            "en": "Rudolph Tegners Museum"
+          },
+          "coords": [
+            12.400794,
+            56.086411
+          ],
+          "category": "museum",
+          "arrive_at": "12:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betreten Sie diesen monumentalen Betonbau, um Tegners Werke zu sehen, aber buchen Sie im Sommer Tickets im Voraus, um Wartezeiten zu vermeiden.",
+            "hu": "Lépjen be ebbe a monumentális betonépületbe, hogy megtekintse Tegner hatalmas műveit, de nyáron foglaljon jegyet előre a sorban állás elkerülése végett.",
+            "ro": "Pășiți în această structură monumentală de beton pentru a vedea lucrările lui Tegner, dar rezervați bilete în avans vara pentru a evita cozile.",
+            "en": "Step inside this monumental concrete structure to view Tegner's massive works, but book tickets ahead in the summer to avoid lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturreservatet Rusland",
+            "hu": "Naturreservatet Rusland",
+            "ro": "Naturreservatet Rusland",
+            "en": "Naturreservatet Rusland"
+          },
+          "coords": [
+            12.409122,
+            56.082917
+          ],
+          "category": "natural",
+          "arrive_at": "14:30",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses geschützte Naturschutzgebiet mit seinen ruhigen Wegen, ideal, um Wasser und ein kleines Picknick einzupacken.",
+            "hu": "Sétáljon végig ezen a védett természetvédelmi területen, amelynek békés ösvényeihez érdemes vizet és egy kis pikniket is hozni.",
+            "ro": "Plimbați-vă prin această rezervație naturală protejată care oferă cărări liniștite, fiind ideal să luați apă și un mic picnic cu voi.",
+            "en": "Wander through this protected nature reserve offering tranquil paths, making it ideal to pack water and a small picnic for a peaceful afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein erfrischender Morgen beginnt in der Stadt und am Strand. Mittags spazieren Sie landeinwärts zu dramatischer Kunst. Der Nachmittag ist einem monumentalen Museum gewidmet. Der Abend klingt friedlich im geschützten Reservat aus.",
+        "hu": "Egy frissítő reggel indul a városban és a tengerparton. Délben egy séta a drámai szabadtéri művészet felé vezet. A délutánt egy múzeumnak szenteljük. Az este békésen zárul a védett természetvédelmi területen.",
+        "ro": "O dimineață revigorantă începe în oraș și pe plajă. Amiaza aduce o plimbare spre arta dramatică în aer liber. După-amiaza este dedicată unui muzeu monumental. Seara se încheie pașnic în rezervația protejată.",
+        "en": "A refreshing coastal morning starts in town and along the breezy beach. Midday brings a walk inland toward dramatic outdoor art. Afternoon is devoted to a monumental museum and surrounding nature. Evening concludes peacefully in the protected reserve."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:39",
+      "total_km": 8.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Dronningmølle",
+            "hu": "Dronningmølle",
+            "ro": "Dronningmølle",
+            "en": "Dronningmølle"
+          },
+          "coords": [
+            12.386249,
+            56.099144
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im Herzen dieser Küstenstadt, indem Sie die lokalen Geschäfte erkunden und einen Kaffee vor Ihrem Spaziergang genießen.",
+            "hu": "Kezdje a napot ennek a tengerparti városkának a szívében, fedezze fel a helyi boltokat és igyon egy kávét a séta előtt.",
+            "ro": "Începeți-vă ziua în inima acestui oraș de coastă explorând magazinele locale și savurând o cafea înainte de plimbare.",
+            "en": "Start your day in the heart of this coastal town by checking out the local shops and grabbing a coffee before your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Munkeruphus",
+            "hu": "Munkeruphus",
+            "ro": "Munkeruphus",
+            "en": "Munkeruphus"
+          },
+          "coords": [
+            12.365509,
+            56.109522
+          ],
+          "category": "museum",
+          "arrive_at": "09:44",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses charmante ehemalige Künstlerhaus, das heute Ausstellungen beherbergt, und verpassen Sie nicht das schöne Gartencafé am Meer.",
+            "hu": "Fedezze fel ezt a bájos egykori művészotthont, amely ma kiállításoknak ad helyet, és ne hagyja ki a tengerparti kávézót egy gyors pihenőre.",
+            "ro": "Explorați această fermecătoare fostă casă de artist care găzduiește expoziții de artă și nu ratați frumoasa cafenea din grădina de pe litoral.",
+            "en": "Explore this charming former artist's home now hosting art exhibitions, and don't miss the lovely seaside garden cafe for a quick break."
+          }
+        },
+        {
+          "name": {
+            "de": "Dalehøi",
+            "hu": "Dalehøi",
+            "ro": "Dalehøi",
+            "en": "Dalehøi"
+          },
+          "coords": [
+            12.367314,
+            56.101701
+          ],
+          "category": "historical",
+          "arrive_at": "11:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen faszinierenden bronzezeitlichen Grabhügel inmitten der Natur und tragen Sie festes Schuhwerk für die unebenen Graswege.",
+            "hu": "Fedezze fel ezt a lenyűgöző bronzkori halomsírt a természet lágy ölén, és viseljen masszív bakancsot az egyenetlen füves ösvényeken.",
+            "ro": "Descoperiți acest fascinant tumul din Epoca Bronzului înconjurat de natură, purtând bocanci rezistenți pentru cărările cu iarbă.",
+            "en": "Discover this fascinating Bronze Age burial mound surrounded by nature, wearing sturdy boots for the uneven grassy paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Villingerød Kirke",
+            "hu": "Villingerød Kirke",
+            "ro": "Villingerød Kirke",
+            "en": "Villingerød Kirke"
+          },
+          "coords": [
+            12.387794,
+            56.082185
+          ],
+          "category": "religious",
+          "arrive_at": "13:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die stille Einfachheit dieser traditionellen dänischen Kirche und dämpfen Sie Ihre Stimme, wenn Sie das Innere betrachten.",
+            "hu": "Csodálja meg ennek a hagyományos dán templomnak a csendes egyszerűségét, halkan beszélve, miközben a szerény belsőt figyeli.",
+            "ro": "Admirați simplitatea liniștită a acestei biserici daneze tradiționale, vorbind în șoaptă în timp ce observați interiorul modest.",
+            "en": "Admire the quiet simplicity of this traditional Danish church, keeping your voice low as you observe the modest but beautiful interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Rudolph Tegners Statuepark",
+            "hu": "Rudolph Tegners Statuepark",
+            "ro": "Rudolph Tegners Statuepark",
+            "en": "Rudolph Tegners Statuepark"
+          },
+          "coords": [
+            12.403987,
+            56.085294
+          ],
+          "category": "park",
+          "arrive_at": "13:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die dramatischen Skulpturen in der Heidelandschaft und bringen Sie eine Kamera mit, um den Kontrast einzufangen.",
+            "hu": "Csodálja meg a hangás tájban elhelyezett drámai szobrokat, és feltétlenül hozzon magával fényképezőgépet a lenyűgöző kontraszt megörökítéséhez.",
+            "ro": "Admirați sculpturile dramatice așezate în peisajul de buruieniș și aduceți o cameră pentru a surprinde contrastul izbitor.",
+            "en": "Marvel at the dramatic sculptures set against the heather landscape, and bring a camera to capture the striking contrast."
+          }
+        },
+        {
+          "name": {
+            "de": "Rudolph Tegners Museum",
+            "hu": "Rudolph Tegners Museum",
+            "ro": "Rudolph Tegners Museum",
+            "en": "Rudolph Tegners Museum"
+          },
+          "coords": [
+            12.400794,
+            56.086411
+          ],
+          "category": "museum",
+          "arrive_at": "15:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betreten Sie diesen monumentalen Betonbau, um Tegners Werke zu sehen, aber buchen Sie im Sommer Tickets im Voraus, um Wartezeiten zu vermeiden.",
+            "hu": "Lépjen be ebbe a monumentális betonépületbe, hogy megtekintse Tegner hatalmas műveit, de nyáron foglaljon jegyet előre a sorban állás elkerülése végett.",
+            "ro": "Pășiți în această structură monumentală de beton pentru a vedea lucrările lui Tegner, dar rezervați bilete în avans vara pentru a evita cozile.",
+            "en": "Step inside this monumental concrete structure to view Tegner's massive works, but book tickets ahead in the summer to avoid lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Dronningmølle Strand",
+            "hu": "Dronningmølle Strand",
+            "ro": "Dronningmølle Strand",
+            "en": "Dronningmølle Strand"
+          },
+          "coords": [
+            12.392408,
+            56.100224
+          ],
+          "category": "recreational",
+          "arrive_at": "16:54",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die erfrischende Meeresbrise an diesem unberührten Strand, der sich perfekt für einen Spaziergang eignet, also tragen Sie bequeme Schuhe.",
+            "hu": "Élvezze a frissítő tengeri szellőt ezen az érintetlen strandon, amely tökéletes egy reggeli sétához, ezért viseljen kényelmes cipőt.",
+            "ro": "Bucurați-vă de briza răcoroasă a mării de-a lungul acestei plaje imaculate, perfectă pentru o plimbare, așa că purtați pantofi comozi.",
+            "en": "Enjoy the refreshing sea breeze along this pristine beach, perfect for a relaxing morning stroll, so remember to wear comfortable shoes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie in einen frischen Morgen mit Start an der Küste und Munkeruphus. Mittags geht es zu alten Hügeln und einer Kirche. Den Nachmittag verbringen Sie mit Skulpturen. Der Sonnenuntergang heißt Sie am Strand willkommen.",
+        "hu": "Kerékpározzon egy friss reggelbe a parton, meglátogatva a Munkeruphust. Délben ősi halomsírokhoz és egy templomhoz tekerünk. A délutánt a szoborparkban töltjük. A naplemente a pihentető strandon várja.",
+        "ro": "Pedalați într-o dimineață geroasă începând de la coastă și Munkeruphus. Amiaza duce la tumuli și o biserică de sat. După-amiaza este petrecută admirând sculpturi. Apusul vă întâmpină înapoi pe plaja relaxantă.",
+        "en": "Cycle into a crisp morning starting at the coast and visiting Munkeruphus. Midday pedaling leads to ancient mounds and a quiet village church. The afternoon is spent marveling at sculptures in the park and museum. Sunset welcomes you back to the relaxing strand."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:27",
+      "total_km": 10.1,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Dronningmølle Strand",
+            "hu": "Dronningmølle Strand",
+            "ro": "Dronningmølle Strand",
+            "en": "Dronningmølle Strand"
+          },
+          "coords": [
+            12.392408,
+            56.100224
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie die erfrischende Meeresbrise an diesem unberührten Strand, der sich perfekt für einen Spaziergang eignet, also tragen Sie bequeme Schuhe.",
+            "hu": "Élvezze a frissítő tengeri szellőt ezen az érintetlen strandon, amely tökéletes egy reggeli sétához, ezért viseljen kényelmes cipőt.",
+            "ro": "Bucurați-vă de briza răcoroasă a mării de-a lungul acestei plaje imaculate, perfectă pentru o plimbare, așa că purtați pantofi comozi.",
+            "en": "Enjoy the refreshing sea breeze along this pristine beach, perfect for a relaxing morning stroll, so remember to wear comfortable shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Munkeruphus",
+            "hu": "Munkeruphus",
+            "ro": "Munkeruphus",
+            "en": "Munkeruphus"
+          },
+          "coords": [
+            12.365509,
+            56.109522
+          ],
+          "category": "museum",
+          "arrive_at": "10:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses charmante ehemalige Künstlerhaus, das heute Ausstellungen beherbergt, und verpassen Sie nicht das schöne Gartencafé am Meer.",
+            "hu": "Fedezze fel ezt a bájos egykori művészotthont, amely ma kiállításoknak ad helyet, és ne hagyja ki a tengerparti kávézót egy gyors pihenőre.",
+            "ro": "Explorați această fermecătoare fostă casă de artist care găzduiește expoziții de artă și nu ratați frumoasa cafenea din grădina de pe litoral.",
+            "en": "Explore this charming former artist's home now hosting art exhibitions, and don't miss the lovely seaside garden cafe for a quick break."
+          }
+        },
+        {
+          "name": {
+            "de": "Hesbjerg",
+            "hu": "Hesbjerg",
+            "ro": "Hesbjerg",
+            "en": "Hesbjerg"
+          },
+          "coords": [
+            12.354099,
+            56.10675
+          ],
+          "category": "natural",
+          "arrive_at": "12:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schnappen Sie frische Luft an diesem malerischen Naturdenkmal, wo ein Fernglas zur Vogelbeobachtung sehr zu empfehlen ist.",
+            "hu": "Szívjon friss levegőt ennél a festői természeti látványosságnál, ahol a madármegfigyeléshez és a kilátáshoz erősen ajánlott egy távcső.",
+            "ro": "Respirați aer curat la acest reper natural pitoresc, unde binoclul este foarte recomandat pentru a privi păsările și a admira priveliștea.",
+            "en": "Take a breath of fresh air at this scenic natural landmark, where binoculars are highly recommended for birdwatching and enjoying the views."
+          }
+        },
+        {
+          "name": {
+            "de": "Storhøi",
+            "hu": "Storhøi",
+            "ro": "Storhøi",
+            "en": "Storhøi"
+          },
+          "coords": [
+            12.351808,
+            56.091618
+          ],
+          "category": "historical",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise an diesem markanten historischen Hügel, der einen weiten Blick über die Landschaft bietet, wenn Sie ihn erklimmen.",
+            "hu": "Lépjen vissza az időben ennél a kiemelkedő történelmi halomnál, amely lenyűgöző kilátást nyújt a tájra, ha felmászik a tetejére.",
+            "ro": "Întoarceți-vă în timp la acest tumul istoric proeminent, care oferă o priveliște vastă a peisajului dacă vă faceți timp să-l urcați.",
+            "en": "Step back in time at this prominent historical mound, offering a sweeping view of the landscape if you take a moment to climb it."
+          }
+        },
+        {
+          "name": {
+            "de": "Villingerød Kirke",
+            "hu": "Villingerød Kirke",
+            "ro": "Villingerød Kirke",
+            "en": "Villingerød Kirke"
+          },
+          "coords": [
+            12.387794,
+            56.082185
+          ],
+          "category": "religious",
+          "arrive_at": "14:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die stille Einfachheit dieser traditionellen dänischen Kirche und dämpfen Sie Ihre Stimme, wenn Sie das Innere betrachten.",
+            "hu": "Csodálja meg ennek a hagyományos dán templomnak a csendes egyszerűségét, halkan beszélve, miközben a szerény belsőt figyeli.",
+            "ro": "Admirați simplitatea liniștită a acestei biserici daneze tradiționale, vorbind în șoaptă în timp ce observați interiorul modest.",
+            "en": "Admire the quiet simplicity of this traditional Danish church, keeping your voice low as you observe the modest but beautiful interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturreservatet Rusland",
+            "hu": "Naturreservatet Rusland",
+            "ro": "Naturreservatet Rusland",
+            "en": "Naturreservatet Rusland"
+          },
+          "coords": [
+            12.409122,
+            56.082917
+          ],
+          "category": "natural",
+          "arrive_at": "15:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses geschützte Naturschutzgebiet mit seinen ruhigen Wegen, ideal, um Wasser und ein kleines Picknick einzupacken.",
+            "hu": "Sétáljon végig ezen a védett természetvédelmi területen, amelynek békés ösvényeihez érdemes vizet és egy kis pikniket is hozni.",
+            "ro": "Plimbați-vă prin această rezervație naturală protejată care oferă cărări liniștite, fiind ideal să luați apă și un mic picnic cu voi.",
+            "en": "Wander through this protected nature reserve offering tranquil paths, making it ideal to pack water and a small picnic for a peaceful afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Rudolph Tegners Museum",
+            "hu": "Rudolph Tegners Museum",
+            "ro": "Rudolph Tegners Museum",
+            "en": "Rudolph Tegners Museum"
+          },
+          "coords": [
+            12.400794,
+            56.086411
+          ],
+          "category": "museum",
+          "arrive_at": "16:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Betreten Sie diesen monumentalen Betonbau, um Tegners Werke zu sehen, aber buchen Sie im Sommer Tickets im Voraus, um Wartezeiten zu vermeiden.",
+            "hu": "Lépjen be ebbe a monumentális betonépületbe, hogy megtekintse Tegner hatalmas műveit, de nyáron foglaljon jegyet előre a sorban állás elkerülése végett.",
+            "ro": "Pășiți în această structură monumentală de beton pentru a vedea lucrările lui Tegner, dar rezervați bilete în avans vara pentru a evita cozile.",
+            "en": "Step inside this monumental concrete structure to view Tegner's massive works, but book tickets ahead in the summer to avoid lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Femhøiene",
+            "hu": "Femhøiene",
+            "ro": "Femhøiene",
+            "en": "Femhøiene"
+          },
+          "coords": [
+            12.412766,
+            56.097208
+          ],
+          "category": "historical",
+          "arrive_at": "18:37",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise mit der Erkundung dieser fünf alten Grabhügel, die am besten spät am Tag besucht werden, um die Schatten zu sehen.",
+            "hu": "Zárja útját ezen öt ősi halomsír felfedezésével, amelyeket a legjobb késő délután felkeresni, hogy lássa az árnyékokat a földeken.",
+            "ro": "Încheiați-vă călătoria explorând acești cinci tumuli antici, cel mai bine vizitați târziu pentru a vedea umbrele întinzându-se peste câmpuri.",
+            "en": "Conclude your trip exploring these five ancient burial mounds, best visited late in the day to see the shadows stretch across the fields."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine malerische Fahrt beginnt am Strand und einem Kunstmuseum. Mittags fahren Sie durch historische Grabhügel. Nachmittagsstopps enthüllen massive Betongunst und ruhige Natur. Der Abend naht bei den letzten antiken Stätten.",
+        "hu": "Festői autózás kezdődik a strandon és egy művészeti múzeumban. Délben történelmi halomsírokon és természeti tájakon haladunk át. A délutáni megállók betonművészetet fednek fel. Az este a végső ősi helyszíneken érkezik.",
+        "ro": "O plimbare pitorească începe la plajă și un muzeu de artă. La amiază treceți prin tumuli istorici și peisaje naturale. Opririle de după-amiază dezvăluie artă masivă. Seara se apropie în timp ce vizitați ultimele situri antice.",
+        "en": "A scenic drive begins at the beach and an early stop at an art museum. Midday driving takes you through striking historical burial mounds and natural landscapes. Afternoon stops uncover massive concrete art and quiet nature reserves. Evening approaches as you visit the final ancient sites."
+      }
+    }
+  }
+}

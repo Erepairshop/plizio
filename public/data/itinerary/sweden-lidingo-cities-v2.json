@@ -1,0 +1,428 @@
+{
+  "city_id": "sweden-lidingo-cities-v2",
+  "anchor": {
+    "name": "Lidingö",
+    "coords": [
+      18.15,
+      59.36
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:36",
+      "total_km": 1.66,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Raul Wallenbergs gärning-",
+            "hu": "Raul Wallenbergs gärning-",
+            "ro": "Raul Wallenbergs gärning-",
+            "en": "Raul Wallenbergs gärning-"
+          },
+          "coords": [
+            18.134455,
+            59.365323
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese ergreifende Hommage an den Diplomaten, der Tausende rettete, und lesen Sie unbedingt die Inschriften, um sein historisches Erbe zu begreifen.",
+            "hu": "Csodálja meg ezt a megható tiszteletadást a diplomatának, aki ezreket mentett meg, és feltétlenül olvassa el a feliratokat, hogy megértse bátorságának súlyát.",
+            "ro": "Admirați acest tribut emoționant adus diplomatului care a salvat mii de vieți și citiți panourile înscrise pentru a înțelege pe deplin curajul său istoric.",
+            "en": "Admire this poignant tribute to the diplomat who saved thousands, and be sure to read the inscribed panels to fully grasp the historical weight of his courage."
+          }
+        },
+        {
+          "name": {
+            "de": "Ögat--",
+            "hu": "Ögat--",
+            "ro": "Ögat--",
+            "en": "Ögat--"
+          },
+          "coords": [
+            18.132814,
+            59.364436
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Betrachten Sie \"Das Auge\", eine faszinierende moderne Skulptur, und versuchen Sie, sie aus verschiedenen Winkeln zu fotografieren, um die Illusionen einzufangen.",
+            "hu": "Figyelje meg \"A Szem\" nevű érdekes modern szobrot, és próbálja meg különböző szögekből lefotózni, hogy megörökítse annak optikai csalódásait.",
+            "ro": "Observați „Ochiul”, o sculptură modernă intrigantă, și încercați să o fotografiați din unghiuri diferite pentru a surprinde perfect iluziile sale optice.",
+            "en": "Observe \"The Eye,\" an intriguing modern sculpture that challenges perspective, and try photographing it from different angles to capture its optical illusions."
+          }
+        },
+        {
+          "name": {
+            "de": "Lidingö museum",
+            "hu": "Lidingö Múzeum",
+            "ro": "Muzeul Lidingö",
+            "en": "Lidingö museum"
+          },
+          "coords": [
+            18.136017,
+            59.366705
+          ],
+          "category": "museum",
+          "arrive_at": "11:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch sorgfältig kuratierte lokale Ausstellungen in die reiche Vergangenheit der Insel ein und holen Sie sich an der Rezeption englische Broschüren.",
+            "hu": "Merüljön el a sziget gazdag múltjában a gondosan összeállított helyi kiállításokon, és kérjen angol nyelvű prospektust a recepción az önálló túrához.",
+            "ro": "Scufundați-vă în trecutul bogat al insulei prin expoziții locale atent curatoriate și cereți la recepție broșuri în limba engleză pentru un tur independent.",
+            "en": "Dive into the island's rich past through carefully curated local exhibits, and check the front desk for English brochures to enhance your self-guided tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Näsets kvarn",
+            "hu": "Näsets kvarn",
+            "ro": "Näsets kvarn",
+            "en": "Näsets kvarn"
+          },
+          "coords": [
+            18.151936,
+            59.367685
+          ],
+          "category": "landmark",
+          "arrive_at": "13:51",
+          "stay_min": 30,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.91,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese wunderschön erhaltene historische Windmühle, die vom ländlichen Leben zeugt, und kommen Sie bei Tageslicht für die besten Fotos.",
+            "hu": "Csodálja meg ezt a gyönyörűen megőrzött történelmi szélmalmot, amely a vidéki élet tanúja, és érkezzen nappali fényben a legjobb fotózási lehetőségekért.",
+            "ro": "Admirați această moară de vânt istorică frumos conservată, care mărturisește viața rurală de altădată, și ajungeți pe timp de zi pentru o lumină perfectă la poze.",
+            "en": "Marvel at this beautifully preserved historic windmill that stands as a testament to rural life, and arrive during daylight for the best photography lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Lidingö kyrka",
+            "hu": "Lidingö kyrka",
+            "ro": "Lidingö kyrka",
+            "en": "Lidingö kyrka"
+          },
+          "coords": [
+            18.157313,
+            59.366769
+          ],
+          "category": "religious",
+          "arrive_at": "14:26",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Erleben Sie die Ruhe dieser wunderschönen, aus dem Jahr 1623 stammenden Kirche und nehmen Sie sich Zeit für einen Spaziergang über den friedlichen Friedhof.",
+            "hu": "Tapasztalja meg a nyugalmat ebben az 1623-ból származó gyönyörű templomban, és szánjon egy kis időt a békés környező temető körbesétálására.",
+            "ro": "Experimentați liniștea acestei biserici frumoase din 1623 și acordați-vă un moment pentru a vă plimba prin cimitirul liniștit din împrejurimi.",
+            "en": "Experience the tranquility of this beautiful church dating back to 1623, and take a moment to walk through the peaceful surrounding graveyard."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unser Morgen beginnt mit der Erkundung des Erbes von Raul Wallenberg, einem inspirierenden Teil der schwedischen Geschichte. Mittags kommen wir dem lokalen Erbe im Lidingö-Museum und dem faszinierenden Ögat-Denkmal näher. Am Nachmittag führt uns ein gemütlicher Spaziergang zur ikonischen Windmühle Näsets kvarn. Wir beenden unseren ruhigen Rundgang mit einem abendlichen Besuch der historischen Lidingö Kyrka.",
+        "hu": "A reggelt Raul Wallenberg örökségének felfedezésével kezdjük, amely a svéd történelem inspiráló része. A déli órákban a Lidingö Múzeum és az érdekes Ögat emlékmű hoz közelebb a helyi örökséghez. Délután egy kellemes séta vezet az ikonikus Näsets kvarn szélmalomhoz. Békés sétánkat a történelmi Lidingö Kyrka esti meglátogatásával zárjuk.",
+        "ro": "Începem dimineața explorând moștenirea lui Raul Wallenberg, o parte inspirantă a istoriei suedeze. La amiază ne apropiem de patrimoniul local la Muzeul Lidingö și la intrigantul monument Ögat. După-amiaza, o plimbare relaxantă ne conduce la moara de vânt emblematică Näsets kvarn. Încheiem turul nostru pietonal liniștit cu o vizită de seară la biserica istorică Lidingö Kyrka.",
+        "en": "We start our morning exploring the legacy of Raul Wallenberg, an inspiring piece of Swedish history. Midday brings us closer to local heritage at the Lidingö Museum and the intriguing Ögat monument. During the afternoon, a leisurely stroll leads us to the iconic Näsets kvarn windmill. We conclude our peaceful walking tour with an evening visit to the historic Lidingö Kyrka."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:31",
+      "total_km": 7.44,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Millesgården",
+            "hu": "Millesgården",
+            "ro": "Millesgården",
+            "en": "Millesgården"
+          },
+          "coords": [
+            18.121449,
+            59.358959
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie den spektakulären terrassenförmigen Skulpturengarten von Carl Milles und tragen Sie bequeme Schuhe, da es viele Treppen zu steigen gibt.",
+            "hu": "Fedezze fel a Carl Milles által létrehozott látványos, teraszos szoborparkot, és viseljen nagyon kényelmes cipőt, mivel sok lépcsőn kell felmenni.",
+            "ro": "Explorați grădina spectaculoasă de sculpturi terasată creată de Carl Milles și purtați încălțăminte foarte confortabilă, deoarece sunt multe scări de urcat.",
+            "en": "Explore the spectacular terraced sculpture garden created by Carl Milles, and wear very comfortable walking shoes as there are many stairs to navigate."
+          }
+        },
+        {
+          "name": {
+            "de": "Lidingö museum",
+            "hu": "Lidingö Múzeum",
+            "ro": "Muzeul Lidingö",
+            "en": "Lidingö museum"
+          },
+          "coords": [
+            18.136017,
+            59.366705
+          ],
+          "category": "museum",
+          "arrive_at": "10:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.18,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch sorgfältig kuratierte lokale Ausstellungen in die reiche Vergangenheit der Insel ein und holen Sie sich an der Rezeption englische Broschüren.",
+            "hu": "Merüljön el a sziget gazdag múltjában a gondosan összeállított helyi kiállításokon, és kérjen angol nyelvű prospektust a recepción az önálló túrához.",
+            "ro": "Scufundați-vă în trecutul bogat al insulei prin expoziții locale atent curatoriate și cereți la recepție broșuri în limba engleză pentru un tur independent.",
+            "en": "Dive into the island's rich past through carefully curated local exhibits, and check the front desk for English brochures to enhance your self-guided tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Lidingö kyrka",
+            "hu": "Lidingö kyrka",
+            "ro": "Lidingö kyrka",
+            "en": "Lidingö kyrka"
+          },
+          "coords": [
+            18.157313,
+            59.366769
+          ],
+          "category": "religious",
+          "arrive_at": "12:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die Ruhe dieser wunderschönen, aus dem Jahr 1623 stammenden Kirche und nehmen Sie sich Zeit für einen Spaziergang über den friedlichen Friedhof.",
+            "hu": "Tapasztalja meg a nyugalmat ebben az 1623-ból származó gyönyörű templomban, és szánjon egy kis időt a békés környező temető körbesétálására.",
+            "ro": "Experimentați liniștea acestei biserici frumoase din 1623 și acordați-vă un moment pentru a vă plimba prin cimitirul liniștit din împrejurimi.",
+            "en": "Experience the tranquility of this beautiful church dating back to 1623, and take a moment to walk through the peaceful surrounding graveyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Lidingöloppet",
+            "hu": "Lidingöloppet",
+            "ro": "Lidingöloppet",
+            "en": "Lidingöloppet"
+          },
+          "coords": [
+            18.156221,
+            59.378653
+          ],
+          "category": "historical",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.32,
+          "tip_5lang": {
+            "de": "Sehen Sie sich das berühmte Startgelände des weltweit größten Crosslaufs an und laufen Sie vielleicht selbst ein kurzes Stück der gut markierten Wege.",
+            "hu": "Nézze meg a világ legnagyobb terepfutó versenyének híres rajtját, és talán fusson le egy rövid szakaszt a jól jelzett ösvényeken, hogy átérezze a hangulatot.",
+            "ro": "Vedeți faimoasa zonă de start a celei mai mari curse de cros din lume și poate chiar alergați un scurt segment pe traseele marcate pentru a simți spiritul.",
+            "en": "See the famous starting grounds of the world's largest cross-country race, and perhaps run a short segment of the well-marked trails yourself to feel the spirit."
+          }
+        },
+        {
+          "name": {
+            "de": "Grönstaviken",
+            "hu": "Grönstaviken",
+            "ro": "Grönstaviken",
+            "en": "Grönstaviken"
+          },
+          "coords": [
+            18.165533,
+            59.37834
+          ],
+          "category": "natural",
+          "arrive_at": "14:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.52,
+          "tip_5lang": {
+            "de": "Genießen Sie die üppige, unberührte Natur rund um diese malerische Bucht und bringen Sie ein kleines Picknick mit, das Sie direkt am ruhigen Wasser genießen können.",
+            "hu": "Élvezze a festői öböl körüli buja, érintetlen természeti környezetet, és hozzon magával egy kis pikniket, amelyet közvetlenül a nyugodt víz mellett fogyaszthat el.",
+            "ro": "Bucurați-vă de natura luxuriantă și neatinsă din jurul acestui golf pitoresc și aduceți un mic picnic pentru a-l savura chiar lângă apele calme.",
+            "en": "Enjoy the lush, unspoiled natural surroundings around this picturesque bay, and bring a small picnic to savor right by the calm waters before moving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Lilla viken",
+            "hu": "Lilla viken",
+            "ro": "Lilla viken",
+            "en": "Lilla viken"
+          },
+          "coords": [
+            18.214256,
+            59.363266
+          ],
+          "category": "recreational",
+          "arrive_at": "15:46",
+          "stay_min": 105,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.22,
+          "tip_5lang": {
+            "de": "Entspannen Sie an dieser hübschen kleinen Erholungsbucht, an der die Einheimischen die Seele baumeln lassen, und bringen Sie im Sommer Ihre Badesachen mit.",
+            "hu": "Pihenjen meg ebben a szép kis szabadidős öbölben, ahová a helyiek is járnak kikapcsolódni, és nyáron feltétlenül hozzon magával fürdőruhát egy frissítő csobbanáshoz.",
+            "ro": "Relaxați-vă în acest mic golf de agrement unde localnicii merg să se destindă și aduceți costumul de baie dacă vizitați vara pentru o baie răcoritoare.",
+            "en": "Relax at this lovely little recreational cove where locals go to unwind, and bring your swimsuit if you visit during summer for a refreshing dip."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit den spektakulären Skulpturen und künstlerischen Ausblicken in Millesgården. Mittags offenbart die Fahrt durch das Inselzentrum die Ausstellungen des Lidingö-Museums und die Lidingö Kyrka. Die Nachmittagstour führt Sie entlang der berühmten Lidingöloppet-Pfade in die üppige Natur von Grönstaviken. Ihr aktiver Tag klingt perfekt mit einem friedlichen Abend in Lilla viken aus.",
+        "hu": "Kezdje a reggelt a Millesgården látványos szobraival és művészi kilátásaival. Kora délután a sziget központjában pedálozva fedezze fel a Lidingö Múzeum kiállításait és a békés Lidingö Kyrkát. A délutáni tekerés a híres Lidingöloppet ösvényeken át Grönstaviken buja természetébe vezet. Az aktív nap tökéletes lezárásaként töltsön egy nyugodt estét a Lilla viken partján.",
+        "ro": "Începeți dimineața cu sculpturile spectaculoase și perspectivele artistice de la Millesgården. La amiază, pedalând prin centrul insulei descoperiți exponatele Muzeului Lidingö și biserica Lidingö Kyrka. Plimbarea de după-amiază vă poartă pe faimoasele trasee Lidingöloppet în natura luxuriantă din Grönstaviken. Ziua activă se încheie perfect cu o seară liniștită la Lilla viken.",
+        "en": "Kick off the morning with the spectacular sculptures and artistic vistas of Millesgården. By midday, pedaling through the island's core reveals the exhibits of Lidingö Museum and the serene Lidingö Kyrka. The afternoon ride takes you along the famous Lidingöloppet trails into the lush nature of Grönstaviken. Your active day winds down perfectly with a peaceful evening at Lilla viken."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 11.96,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Finlandsparken",
+            "hu": "Finlandsparken",
+            "ro": "Finlandsparken",
+            "en": "Finlandsparken"
+          },
+          "coords": [
+            18.10592,
+            59.348227
+          ],
+          "category": "park",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Reise mit der Erkundung dieser weiten Grünfläche, die die nordischen Verbindungen ehrt, und folgen Sie den Hauptkieswegen für einen Spaziergang.",
+            "hu": "Kezdje utazását ennek a hatalmas zöldterületnek a felfedezésével, amely az északi kapcsolatokat ünnepli, és kövesse a főbb kavicsos utakat egy könnyű sétához.",
+            "ro": "Începeți-vă călătoria explorând acest vast spațiu verde care onorează legăturile nordice și urmați aleile principale de pietriș pentru o plimbare ușoară.",
+            "en": "Start your journey exploring this vast green space that honors Nordic ties, and follow the main gravel pathways for an easy and accessible morning walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Millesgården",
+            "hu": "Millesgården",
+            "ro": "Millesgården",
+            "en": "Millesgården"
+          },
+          "coords": [
+            18.121449,
+            59.358959
+          ],
+          "category": "landmark",
+          "arrive_at": "10:28",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.47,
+          "tip_5lang": {
+            "de": "Erkunden Sie den spektakulären terrassenförmigen Skulpturengarten von Carl Milles und tragen Sie bequeme Schuhe, da es viele Treppen zu steigen gibt.",
+            "hu": "Fedezze fel a Carl Milles által létrehozott látványos, teraszos szoborparkot, és viseljen nagyon kényelmes cipőt, mivel sok lépcsőn kell felmenni.",
+            "ro": "Explorați grădina spectaculoasă de sculpturi terasată creată de Carl Milles și purtați încălțăminte foarte confortabilă, deoarece sunt multe scări de urcat.",
+            "en": "Explore the spectacular terraced sculpture garden created by Carl Milles, and wear very comfortable walking shoes as there are many stairs to navigate."
+          }
+        },
+        {
+          "name": {
+            "de": "Lidingö kyrka",
+            "hu": "Lidingö kyrka",
+            "ro": "Lidingö kyrka",
+            "en": "Lidingö kyrka"
+          },
+          "coords": [
+            18.157313,
+            59.366769
+          ],
+          "category": "religious",
+          "arrive_at": "11:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die Ruhe dieser wunderschönen, aus dem Jahr 1623 stammenden Kirche und nehmen Sie sich Zeit für einen Spaziergang über den friedlichen Friedhof.",
+            "hu": "Tapasztalja meg a nyugalmat ebben az 1623-ból származó gyönyörű templomban, és szánjon egy kis időt a békés környező temető körbesétálására.",
+            "ro": "Experimentați liniștea acestei biserici frumoase din 1623 și acordați-vă un moment pentru a vă plimba prin cimitirul liniștit din împrejurimi.",
+            "en": "Experience the tranquility of this beautiful church dating back to 1623, and take a moment to walk through the peaceful surrounding graveyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Kappsta",
+            "hu": "Kappsta",
+            "ro": "Kappsta",
+            "en": "Kappsta"
+          },
+          "coords": [
+            18.167534,
+            59.340533
+          ],
+          "category": "natural",
+          "arrive_at": "12:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.96,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch dieses ruhige Naturschutzgebiet mit seiner reichen Artenvielfalt und halten Sie Ausschau nach lokalen Vogelarten in den alten Bäumen.",
+            "hu": "Barangoljon ebben a nyugodt, gazdag biodiverzitású természetvédelmi területben, és tartsa nyitva a szemét a helyi madárfajok után az ősi fák között.",
+            "ro": "Plimbați-vă prin această rezervație naturală liniștită, plină de o biodiversitate bogată, și urmăriți speciile locale de păsări care se ascund printre copacii bătrâni.",
+            "en": "Wander through this tranquil nature reserve filled with rich biodiversity, and keep an eye out for local bird species hiding among the ancient trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Fågelöuddebadet",
+            "hu": "Fågelöuddebadet",
+            "ro": "Fågelöuddebadet",
+            "en": "Fågelöuddebadet"
+          },
+          "coords": [
+            18.23074,
+            59.376287
+          ],
+          "category": "recreational",
+          "arrive_at": "13:45",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.33,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an Lidingös beliebtestem Sandstrand mit tollen Einrichtungen und holen Sie sich ein Eis am Kiosk, um Ihre Reise perfekt abzurunden.",
+            "hu": "Kapcsolódjon ki Lidingö legnépszerűbb, kiváló felszereltségű homokos strandján, és egyen egy fagylaltot a közeli kioszkban, hogy tökéletesen zárja a kirándulást.",
+            "ro": "Relaxați-vă pe cea mai populară plajă de nisip din Lidingö, dotată cu facilități excelente, și luați o înghețată la chioșcul din apropiere pentru a încheia ziua perfect.",
+            "en": "Unwind at Lidingö's most popular sandy beach equipped with great facilities, and grab an ice cream at the nearby kiosk to perfectly round off your trip."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre morgendliche Fahrt beginnt im Finlandsparken, bevor Sie zu den herrlichen Terrassen von Millesgården hinüberfahren. Gegen Mittag passiert die Route die historische Lidingö Kyrka und bietet einen Einblick in das spirituelle Herz der Insel. Der Nachmittag lädt ein, die geschützte Naturschönheit des Reservats Kappsta zu erkunden. Beenden Sie Ihren Roadtrip mit einem entspannten Abend am Fågelöuddebadet.",
+        "hu": "A reggeli autózás a Finlandsparkenben kezdődik, mielőtt átkelne a Millesgården csodálatos teraszaihoz. Dél körül az útvonal elhalad a történelmi Lidingö Kyrka mellett, bepillantást engedve a sziget spirituális központjába. A délután a Kappsta rezervátum védett természeti szépségének felfedezésére hív. Fejezze be autós kirándulását egy pihentető esti fürdőzéssel a Fågelöuddebadet strandon.",
+        "ro": "Călătoria de dimineață începe la Finlandsparken înainte de a trece spre magnificele terase de la Millesgården. În jurul prânzului, traseul trece pe lângă istorica Lidingö Kyrka, oferind o privire asupra inimii spirituale a insulei. După-amiaza vă invită să explorați frumusețea naturală protejată a rezervației Kappsta. Încheiați călătoria cu o baie de seară relaxantă la Fågelöuddebadet.",
+        "en": "Your morning drive begins at Finlandsparken before crossing over to the magnificent terraces of Millesgården. Around midday, the route passes the historic Lidingö Kyrka, offering a glimpse into the island's spiritual heart. The afternoon invites you to explore the protected natural beauty of the Kappsta reserve. End your road trip with a relaxing evening swim or seaside rest at Fågelöuddebadet."
+      }
+    }
+  }
+}

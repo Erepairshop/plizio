@@ -1,0 +1,474 @@
+{
+  "city_id": "cirebon-cities-v2",
+  "anchor": {
+    "name": "Cirebon",
+    "coords": [
+      108.557,
+      -6.706
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:37",
+      "total_km": 2.47,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Lokomotivdenkmal B 1304",
+            "hu": "B 1304 Lokomotív Emlékmű",
+            "ro": "Monumentul Locomotivei B 1304",
+            "en": "Monumen Lokomotif B 1304"
+          },
+          "coords": [
+            108.556988,
+            -6.704755
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese historische Dampflokomotive, die die Verkehrsgeschichte prägte, und kommen Sie früh, um sie ohne Menschenmassen zu fotografieren.",
+            "hu": "Csodálja meg ezt a történelmi gőzmozdonyt, amely formálta a város közlekedését, és érkezzen korán a tömeg nélküli, tökéletes fotókért.",
+            "ro": "Admirați această locomotivă cu abur istorică ce a modelat transportul local și ajungeți devreme pentru a o fotografia fără aglomerație.",
+            "en": "Marvel at this historic steam locomotive that shaped the city's transport history, and arrive early to photograph it without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Maskenmuseum Cirebon",
+            "hu": "Cirebon Maszk Múzeum",
+            "ro": "Muzeul Măștilor Cirebon",
+            "en": "Museum Topeng Cirebon"
+          },
+          "coords": [
+            108.557601,
+            -6.70683
+          ],
+          "category": "museum",
+          "arrive_at": "10:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Entdecken Sie die farbenfrohe Sammlung traditioneller javanischer Masken und fragen Sie die lokalen Führer nach den spezifischen Tanzritualen.",
+            "hu": "Fedezze fel a hagyományos jávai maszkok vibráló gyűjteményét, és mindenképpen kérdezze meg a helyi vezetőket a táncos rituálék részleteiről.",
+            "ro": "Explorați colecția vibrantă de măști tradiționale javaneze de aici și nu uitați să întrebați ghizii locali despre ritualurile de dans specifice.",
+            "en": "Explore the vibrant collection of traditional Javanese masks here, and be sure to ask the local guides about the specific dance rituals."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Raya At-Taqwa",
+            "hu": "Masjid Raya At-Taqwa",
+            "ro": "Masjid Raya At-Taqwa",
+            "en": "Masjid Raya At-Taqwa"
+          },
+          "coords": [
+            108.558309,
+            -6.709976
+          ],
+          "category": "religious",
+          "arrive_at": "12:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne islamische Architektur dieser Zentralmoschee, aber denken Sie daran, sich bescheiden zu kleiden und die Gebetszeiten zu respektieren.",
+            "hu": "Értékelje a központi mecset lenyűgöző modern iszlám építészetét, de ne felejtsen el szerényen öltözködni és tiszteletben tartani az imaidőket.",
+            "ro": "Apreciați arhitectura islamică modernă a acestei moschei centrale, dar amintiți-vă să vă îmbrăcați modest și să respectați programul de rugăciune.",
+            "en": "Appreciate the grand modern Islamic architecture of this central mosque, but remember to dress modestly and respect the prayer schedules."
+          }
+        },
+        {
+          "name": {
+            "de": "Unabhängigkeitsdenkmal",
+            "hu": "Függetlenségi Emlékmű",
+            "ro": "Monumentul Independenței",
+            "en": "Tugu Kemerdekaan"
+          },
+          "coords": [
+            108.559888,
+            -6.70994
+          ],
+          "category": "historical",
+          "arrive_at": "13:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Gedenken Sie am Unabhängigkeitsdenkmal dem Freiheitskampf Indonesiens, das sich zudem als hervorragender Treffpunkt für die Zentrumserkundung anbietet.",
+            "hu": "Emlékezzen Indonézia függetlenségi harcára ennél a kiemelkedő emlékműnél, amely kiváló találkozási pontként is szolgál a központ felfedezéséhez.",
+            "ro": "Reflectați la lupta pentru independență a Indoneziei la acest monument proeminent, care servește drept un excelent punct de întâlnire central.",
+            "en": "Reflect on Indonesia's struggle for independence at this prominent monument, which serves as a great meeting point for exploring the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Rote Moschee von Panjunan",
+            "hu": "Panjunan Vörös Mecset",
+            "ro": "Moscheea Roșie din Panjunan",
+            "en": "Red Mosque of Panjunan"
+          },
+          "coords": [
+            108.566073,
+            -6.717472
+          ],
+          "category": "religious",
+          "arrive_at": "14:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.07,
+          "tip_5lang": {
+            "de": "Reisen Sie in dieser unverwechselbaren roten Backsteinmoschee aus dem 15. Jahrhundert in die Vergangenheit und beachten Sie die hindu-javanischen Einflüsse.",
+            "hu": "Lépjen vissza az időben ennél a jellegzetes 15. századi vöröstéglás mecsetnél, és figyelje meg a különleges hindu-jávai építészeti hatásokat.",
+            "ro": "Pășiți în trecut la această moschee distinctivă din cărămidă roșie din secolul al XV-lea, observând influențele arhitecturale unice hinduso-javaneze.",
+            "en": "Step back in time at this distinctive 15th-century red-brick mosque, taking note of the unique Hindu-Javanese architectural influences."
+          }
+        },
+        {
+          "name": {
+            "de": "Kanoman Palast Erbe Museum",
+            "hu": "Kanoman Palota Örökségvédelmi Múzeum",
+            "ro": "Muzeul de Patrimoniu al Palatului Kanoman",
+            "en": "Kanoman Palace Heritage Building Museum"
+          },
+          "coords": [
+            108.568108,
+            -6.722771
+          ],
+          "category": "museum",
+          "arrive_at": "15:27",
+          "stay_min": 130,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.63,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche königliche Erbe und die Artefakte in diesem Palastkomplex; bringen Sie unbedingt Wasser für das weitläufige Gelände mit.",
+            "hu": "Fedezze fel a gazdag királyi örökséget és az ereklyéket a palotakomplexumban, de mindenképp hozzon vizet a kiterjedt birtok bejárásához.",
+            "ro": "Descoperiți bogata moștenire regală și artefactele din acest complex istoric, având grijă să aduceți apă pentru a explora domeniul extins.",
+            "en": "Discover the rich royal heritage and royal artifacts inside this historic palace complex, making sure to bring water for the extensive grounds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung des industriellen Erbes und der lokalen Kunst. Am Mittag verlagert sich der Fokus auf die majestätische Moschee und die historischen Denkmäler im Zentrum. Der Nachmittag bietet einen ruhigen Spaziergang zur alten Roten Moschee. Beenden Sie den Tag im weitläufigen Kanoman-Palast.",
+        "hu": "Kezdje a reggelt az ipari örökség és a helyi művészetek felfedezésével. A délidő a városközpontot meghatározó fenséges helyi mecset és a történelmi műemlékek felé tereli a figyelmet. A délután egy békés sétát kínál az ősi Vörös Mecsethez. Zárja a napot a grandiózus Kanoman Palota bejárásával.",
+        "ro": "Începeți dimineața explorând moștenirea industrială și artele locale. La prânz, atenția se mută spre maiestuoasa moschee locală și monumentele istorice din centrul orașului. După-amiaza oferă o plimbare liniștită către vechea Moschee Roșie. Încheiați ziua plimbându-vă prin grandiosul Palat Kanoman.",
+        "en": "Begin your morning exploring the industrial heritage and vibrant local arts, setting a cultural tone. Midday shifts towards the majestic local mosque and historical monuments that anchor the city center. The afternoon offers a peaceful stroll to the ancient Red Mosque. Conclude your day walking through the grand Kanoman Palace."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:07",
+      "total_km": 4.88,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Taman Rusa Hirschpark",
+            "hu": "Taman Rusa Szarvaspark",
+            "ro": "Parcul de Cerbi Taman Rusa",
+            "en": "Taman Rusa"
+          },
+          "coords": [
+            108.553892,
+            -6.698887
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen sanften Start in den Tag, indem Sie die Hirsche in dieser grünen Oase beobachten; bleiben Sie auf den markierten Wegen.",
+            "hu": "Élvezze a nap nyugodt indulását a helyi szarvasok megfigyelésével ebben a zöld városi oázisban, és maradjon a kijelölt ösvényeken.",
+            "ro": "Bucurați-vă de un început de zi relaxant observând cerbii în această oază urbană verde și rămâneți pe cărările marcate pentru a proteja flora.",
+            "en": "Enjoy a gentle start to your day observing the resident deer in this green urban oasis, and stay on the designated paths to protect the flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Raya At-Taqwa",
+            "hu": "Masjid Raya At-Taqwa",
+            "ro": "Masjid Raya At-Taqwa",
+            "en": "Masjid Raya At-Taqwa"
+          },
+          "coords": [
+            108.558309,
+            -6.709976
+          ],
+          "category": "religious",
+          "arrive_at": "09:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Radeln Sie zu dieser spektakulären Zentralmoschee und bewundern Sie ihre hoch aufragenden Minarette; parken Sie Ihr Fahrrad sicher im vorgesehenen Bereich.",
+            "hu": "Tekerjen el ehhez a látványos központi mecsethez, csodálja meg a tornyosuló minareteket, és biztonságosan parkolja le kerékpárját a kijelölt helyen.",
+            "ro": "Pedalați până la această moschee centrală spectaculoasă și admirați minaretele sale înalte, asigurându-vă că parcați bicicleta în siguranță.",
+            "en": "Cycle up to this spectacular central mosque and admire its towering minarets, making sure to park your bike securely in the designated area."
+          }
+        },
+        {
+          "name": {
+            "de": "Kanoman Palast Erbe Museum",
+            "hu": "Kanoman Palota Örökségvédelmi Múzeum",
+            "ro": "Muzeul de Patrimoniu al Palatului Kanoman",
+            "en": "Kanoman Palace Heritage Building Museum"
+          },
+          "coords": [
+            108.568108,
+            -6.722771
+          ],
+          "category": "museum",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Fahren Sie in das historische Herz der Stadt, um diesen kunstvollen Palast zu erkunden; nutzen Sie die schattigen Innenhöfe für eine kurze Pause.",
+            "hu": "Biciklizzen a város történelmi szívébe, fedezze fel ezt a díszes palotát, és használja az árnyékos udvarokat egy gyors pihenő tökéletes helyszíneként.",
+            "ro": "Călătoriți în inima istorică a orașului pentru a explora acest palat ornamentat, folosind curțile umbrite ca loc perfect pentru o scurtă pauză.",
+            "en": "Ride into the historical heart of the city to explore this ornate palace, using the shaded courtyards as a perfect spot for a quick rest."
+          }
+        },
+        {
+          "name": {
+            "de": "Große Moschee von Cirebon",
+            "hu": "Cireboni Nagymecset",
+            "ro": "Marea Moschee din Cirebon",
+            "en": "Great Mosque of Cirebon"
+          },
+          "coords": [
+            108.569999,
+            -6.725551
+          ],
+          "category": "religious",
+          "arrive_at": "12:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Besuchen Sie eine der ältesten Moscheen der Region mit ihrer gestuften Dachstruktur und kleiden Sie sich respektvoll, bevor Sie den Hof betreten.",
+            "hu": "Látogasson el a régió egyik legrégebbi, többszintes tetőszerkezetű mecsetjébe, és öltözzön tisztelettudóan, mielőtt belépne a főudvarra.",
+            "ro": "Vizitați una dintre cele mai vechi moschei din regiune, cu acoperișul său etajat, și îmbrăcați-vă respectuos înainte de a intra în curtea principală.",
+            "en": "Visit one of the oldest mosques in the region with its tiered roof structure, and dress respectfully before entering the main courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Kasepuhan Palast",
+            "hu": "Kasepuhan Palota",
+            "ro": "Palatul Kasepuhan",
+            "en": "Palace Kasepuhan"
+          },
+          "coords": [
+            108.571971,
+            -6.727595
+          ],
+          "category": "castle",
+          "arrive_at": "12:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.31,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die raffinierte Mischung aus islamischer, hinduistischer und europäischer Architektur und besichtigen Sie die alten königlichen Kutschen.",
+            "hu": "Csodálja meg az iszlám, hindu és európai építészet kifinomult keverékét, és nézze meg az itt kiállított ősi királyi hintókat is.",
+            "ro": "Admirați amestecul elaborat de arhitectură islamică, hindusă și europeană aici și analizați trăsurile regale antice expuse în interior.",
+            "en": "Marvel at the elaborate blend of Islamic, Hindu, and European architecture here, and check out the ancient royal carriages on display inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Cirebon Waterland",
+            "hu": "Cirebon Waterland",
+            "ro": "Cirebon Waterland",
+            "en": "Cirebon Waterland Ade Irma Suryani"
+          },
+          "coords": [
+            108.574143,
+            -6.71785
+          ],
+          "category": "family",
+          "arrive_at": "14:22",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit Küstenbrisen in diesem lebhaften Erholungspark, der sich perfekt zum Entspannen am Wasser am späten Nachmittag eignet.",
+            "hu": "Zárja kerékpártúráját a tengerparti szellővel ebben a nyüzsgő rekreációs parkban, amely tökéletes a vízparti pihenéshez a délutáni lehűlésben.",
+            "ro": "Încheiați turul cu bicicleta cu briza de coastă la acest parc de recreere plin de viață, perfect pentru a vă relaxa lângă apă pe înserat.",
+            "en": "Conclude your cycling tour with coastal breezes at this lively recreation park, perfect for relaxing by the water as the afternoon cools down."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit einer erfrischenden Fahrt zum Wildpark, bevor Sie die Hauptmoschee bewundern. Mittags radeln Sie tief in die königlichen Viertel, um jahrhundertealte Paläste und Tempel zu entdecken. Der Nachmittag führt durch majestätische historische Architektur. Beenden Sie den Tag an der Küste in einem lebhaften Wasserpark.",
+        "hu": "Kezdje a reggelt egy frissítő kerékpározással a szarvasparkba, mielőtt megcsodálná a főmecsetet. A déli tekerés mélyen a királyi negyedekbe visz, ahol évszázados palotákat fedezhet fel. A délután fenséges örökségvédelmi épületek között kanyarog. Zárja a napot a tengerparton egy vidám vízi parkban.",
+        "ro": "Începeți dimineața cu o plimbare răcoritoare spre parcul cu cerbi înainte de a experimenta grandoarea moscheii principale. La prânz, pedalați adânc în districtele regale pentru a descoperi palate vechi de secole. După-amiaza se desfășoară printre arhitecturi de patrimoniu majestuoase. Terminați pe coasta aerisită la un parc acvatic plin de viață.",
+        "en": "Start the morning with a refreshing ride to the deer park before experiencing the grandeur of the main mosque. Midday cycling takes you deep into the royal districts to uncover centuries-old palaces and sacred temples. The afternoon weaves through majestic heritage architecture. Finish up by the breezy coast at a lively waterland."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:06",
+      "total_km": 6.25,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Maskenmuseum Cirebon",
+            "hu": "Cirebon Maszk Múzeum",
+            "ro": "Muzeul Măștilor Cirebon",
+            "en": "Museum Topeng Cirebon"
+          },
+          "coords": [
+            108.557601,
+            -6.70683
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Fahrt in diesem faszinierenden Maskenmuseum, um mehr über lokale Traditionen zu erfahren; nutzen Sie die angrenzenden Parkplätze.",
+            "hu": "Kezdje autós útját ebben a lenyűgöző maszk múzeumban, hogy megismerje a helyi hagyományokat, és használja a szomszédos parkolókat a kényelemért.",
+            "ro": "Începeți plimbarea cu mașina la acest fascinant muzeu al măștilor pentru a învăța despre tradițiile locale și folosiți parcările adiacente.",
+            "en": "Begin your drive at this fascinating mask museum to learn about local traditions, and use the adjacent parking lots for a hassle-free start."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm von Cirebon",
+            "hu": "Cireboni Világítótorony",
+            "ro": "Farul din Cirebon",
+            "en": "Cirebon Lighthouse"
+          },
+          "coords": [
+            108.572108,
+            -6.715298
+          ],
+          "category": "landmark",
+          "arrive_at": "10:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und machen Sie einen kurzen Spaziergang zu diesem historischen Leuchtturm, der einen herrlichen Blick auf den Hafen bietet.",
+            "hu": "Parkoljon le a közelben, és tegyen egy rövid sétát ehhez a történelmi világítótoronyhoz, amely csodálatos kilátást nyújt a nyüzsgő kikötőre.",
+            "ro": "Parcați în apropiere și faceți o scurtă plimbare pentru a admira acest far istoric, oferind vederi splendide ale portului și coastei pline de viață.",
+            "en": "Park nearby and take a short walk to admire this historic navigational beacon, offering splendid views of the bustling harbor and coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Maritimes Museum Sarwajala",
+            "hu": "Sarwajala Tengerészeti Múzeum",
+            "ro": "Muzeul Maritim Sarwajala",
+            "en": "Museum Bahari Sarwajala"
+          },
+          "coords": [
+            108.575198,
+            -6.717744
+          ],
+          "category": "museum",
+          "arrive_at": "11:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Spezialmuseum in die maritime Geschichte der Stadt ein, wo Sie Marineartefakte sehen und mehr über die Seefahrt erfahren können.",
+            "hu": "Merüljön el a város tengerészeti történelmében ebben a múzeumban, ahol haditengerészeti tárgyakat láthat, és megismerheti Indonézia múltját.",
+            "ro": "Pătrundeți în istoria maritimă a orașului la acest muzeu specializat, unde puteți vedea artefacte navale și afla despre trecutul maritim indonezian.",
+            "en": "Dive into the city's maritime history at this specialized museum, where you can see naval artifacts and learn about Indonesia's seafaring past."
+          }
+        },
+        {
+          "name": {
+            "de": "Katholische Kirche St. Josef",
+            "hu": "Szent József Katolikus Templom",
+            "ro": "Biserica Catolică Sfântul Iosif",
+            "en": "Saint Joseph Catholic Church"
+          },
+          "coords": [
+            108.571915,
+            -6.721717
+          ],
+          "category": "religious",
+          "arrive_at": "13:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.57,
+          "tip_5lang": {
+            "de": "Bewundern Sie das elegante europäische Design dieser bedeutenden katholischen Kirche, ein hervorragendes Beispiel für die religiöse Harmonie der Stadt.",
+            "hu": "Csodálja meg ennek a jelentős katolikus templomnak az elegáns európai dizájnját, amely kiváló példája a város sokszínű vallási harmóniájának.",
+            "ro": "Admirați designul european elegant al acestei biserici catolice semnificative, un exemplu excelent al armoniei religioase diverse din oraș.",
+            "en": "Admire the elegant European design of this significant Catholic church, an excellent example of the diverse religious harmony found in the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Kasepuhan Palast",
+            "hu": "Kasepuhan Palota",
+            "ro": "Palatul Kasepuhan",
+            "en": "Palace Kasepuhan"
+          },
+          "coords": [
+            108.571971,
+            -6.727595
+          ],
+          "category": "castle",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Erreichen Sie diesen großen königlichen Palast bequem mit dem Auto und engagieren Sie am Eingang einen Führer für tiefere historische Einblicke.",
+            "hu": "Könnyen megközelítheti autóval ezt a lenyűgöző királyi palotát; fogadjon helyi vezetőt a bejáratnál a mélyebb történelmi összefüggések megértéséhez.",
+            "ro": "Accesați cu ușurință acest mare palat regal cu mașina și angajați un ghid local la intrare pentru un context istoric mult mai profund.",
+            "en": "Easily access this grand royal palace by car to witness its opulent interiors, and hire a local guide at the entrance for deeper historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Gunungsari Einkaufszentrum",
+            "hu": "Gunungsari Kereskedelmi Központ",
+            "ro": "Centrul Comercial Gunungsari",
+            "en": "Gunungsari Trade Centre"
+          },
+          "coords": [
+            108.550102,
+            -6.713478
+          ],
+          "category": "landmark",
+          "arrive_at": "15:11",
+          "stay_min": 55,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihren Tag in diesem lebhaften Handelszentrum ausklingen, wo Sie lokale Souvenirs jagen können; nutzen Sie die große Tiefgarage.",
+            "hu": "Zárja a napot ebben a nyüzsgő kereskedelmi központban, ahol helyi szuvenírekre vadászhat, kihasználva a hatalmas mélygarázs nyújtotta kényelmet.",
+            "ro": "Încheiați-vă ziua explorând acest centru comercial plin de viață unde puteți căuta suveniruri locale, profitând de parcarea mare de la subsol.",
+            "en": "Wrap up your day exploring this lively commercial hub where you can hunt for local souvenirs, taking advantage of the large basement parking."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die morgendliche Fahrt führt Sie zum künstlerischen Maskenmuseum, bevor Sie zum luftigen Küstenleuchtturm fahren. Der Mittag bietet einen tiefen Einblick in die maritime Geschichte und die wunderschöne europäische religiöse Architektur. Der Nachmittag ist der Erkundung des königlichen Palastes gewidmet. Beenden Sie den Abend beim Souvenir-Shopping in einem Handelszentrum.",
+        "hu": "A reggeli vezetés a művészi maszk múzeumhoz, majd a szeles tengerparti világítótoronyhoz visz. A dél a tengerészeti történelem és a gyönyörű európai vallási építészet mélyebb megismeréséről szól. A délután a lenyűgöző királyi palota felfedezésének van szentelve. Zárja az estét szuvenírek vásárlásával egy nyüzsgő kereskedelmi központban.",
+        "ro": "Dimineața conduceți către muzeul artistic al măștilor înainte de a merge la farul aerisit de pe coastă. Prânzul oferă o incursiune profundă în istoria maritimă și arhitectura religioasă europeană. După-amiaza este dedicată explorării opulentelor domenii ale palatului regal. Încheiați seara cumpărând suveniruri într-un centru comercial animat.",
+        "en": "Morning driving takes you to the artistic mask museum before heading to the breezy coastal lighthouse. Midday features a deep dive into maritime history and beautiful European religious architecture. The afternoon is dedicated to exploring the opulent royal palace grounds. Conclude the evening shopping for souvenirs at a bustling trade center."
+      }
+    }
+  }
+}

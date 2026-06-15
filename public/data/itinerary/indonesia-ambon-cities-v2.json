@@ -1,0 +1,474 @@
+{
+  "city_id": "indonesia-ambon-cities-v2",
+  "anchor": {
+    "name": "Ambon",
+    "coords": [
+      128.178333,
+      -3.696667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:09",
+      "total_km": 2.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "en": "Tugu Trikora (Monolith)",
+            "de": "Tugu Trikora (Monolith)",
+            "hu": "Tugu Trikora (Monolit)",
+            "ro": "Tugu Trikora (Monolit)"
+          },
+          "coords": [
+            128.180134,
+            -3.698417
+          ],
+          "category": "historical",
+          "arrive_at": "09:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "en": "Admire this striking monolith commemorating Indonesia's historical struggles, and visit early in the morning for the best lighting and fewer crowds.",
+            "de": "Bewundern Sie diesen markanten Monolithen, der an Indonesiens historische Kämpfe erinnert, und besuchen Sie ihn früh morgens für das beste Licht.",
+            "hu": "Csodálja meg ezt a lenyűgöző monolitot, amely Indonézia történelmi küzdelmeinek állít emléket, és érkezzen kora reggel a legjobb fényekért.",
+            "ro": "Admirați acest monolit impresionant ce comemorează luptele istorice ale Indoneziei și vizitați-l dis-de-dimineață pentru cea mai bună lumină."
+          }
+        },
+        {
+          "name": {
+            "en": "Gereja Katedral Ambon",
+            "de": "Gereja Katedral Ambon",
+            "hu": "Ambon Katolikus Katedrális",
+            "ro": "Catedrala Catolică Ambon"
+          },
+          "coords": [
+            128.185248,
+            -3.697856
+          ],
+          "category": "religious",
+          "arrive_at": "10:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "en": "Explore the modern architecture of the main Catholic cathedral in Ambon, and remember to dress modestly before stepping inside for a moment of peace.",
+            "de": "Erkunden Sie die moderne Architektur der katholischen Hauptkathedrale in Ambon und kleiden Sie sich angemessen, bevor Sie den ruhigen Innenraum betreten.",
+            "hu": "Fedezze fel Ambon fő katolikus katedrálisának modern építészetét, és öltözzön szerényen, mielőtt belépne egy békés pillanatra.",
+            "ro": "Explorați arhitectura modernă a principalei catedrale catolice din Ambon și amintiți-vă să vă îmbrăcați decent înainte de a păși înăuntru."
+          }
+        },
+        {
+          "name": {
+            "en": "Gereja Syaloom",
+            "de": "Gereja Syaloom",
+            "hu": "Syaloom Templom",
+            "ro": "Biserica Syaloom"
+          },
+          "coords": [
+            128.187485,
+            -3.699231
+          ],
+          "category": "religious",
+          "arrive_at": "12:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "en": "Discover this important local Protestant church that reflects the city's deep faith, and check the notice board outside for upcoming community events.",
+            "de": "Entdecken Sie diese wichtige protestantische Kirche, die den tiefen Glauben der Stadt widerspiegelt, und prüfen Sie das Schild nach lokalen Veranstaltungen.",
+            "hu": "Fedezze fel ezt a fontos helyi protestáns templomot, amely a város mély hitét tükrözi, és nézze meg a hirdetőtáblán a közelgő eseményeket.",
+            "ro": "Descoperiți această importantă biserică protestantă ce reflectă credința profundă a orașului și verificați avizierul pentru evenimentele locale."
+          }
+        },
+        {
+          "name": {
+            "en": "Pattimura Statue",
+            "de": "Pattimura-Statue",
+            "hu": "Pattimura-szobor",
+            "ro": "Statuia Pattimura"
+          },
+          "coords": [
+            128.183165,
+            -3.693089
+          ],
+          "category": "historical",
+          "arrive_at": "12:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "en": "Pay your respects to the national hero at this prominent bronze statue, and bring a wide-brimmed hat as the surrounding square offers little shade.",
+            "de": "Erweisen Sie dem Nationalhelden an dieser markanten Bronzestatue die Ehre und bringen Sie einen Hut mit, da der umliegende Platz kaum Schatten bietet.",
+            "hu": "Tisztelegjen a nemzeti hős előtt ennél a kiemelkedő bronzszobornál, és hozzon magával széles karimájú kalapot, mivel a téren alig van árnyék.",
+            "ro": "Aduceți un omagiu eroului național la această statuie proeminentă din bronz și aduceți o pălărie, deoarece piața din jur oferă puțină umbră."
+          }
+        },
+        {
+          "name": {
+            "en": "World Peace Gong",
+            "de": "Weltfriedensgong",
+            "hu": "Világbéke Gong",
+            "ro": "Gongul Păcii Mondiale"
+          },
+          "coords": [
+            128.181219,
+            -3.693121
+          ],
+          "category": "historical",
+          "arrive_at": "14:19",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "en": "Marvel at this large symbol of harmony commemorating the end of sectarian conflicts, and take a close-up photo of the flags decorating its surface.",
+            "de": "Bestaunen Sie dieses große Symbol der Harmonie nach den sektiererischen Konflikten und machen Sie ein Nahaufnahmefoto der vielen Flaggen.",
+            "hu": "Csodálja meg a harmónia e hatalmas szimbólumát, amely a szektariánus konfliktusok végét jelzi, és fotózza le közelről a rajta lévő zászlókat.",
+            "ro": "Minunați-vă de acest mare simbol al armoniei ce marchează sfârșitul conflictelor sectare și faceți o poză de aproape steagurilor de pe el."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Start your morning at the commanding Tugu Trikora to understand Ambon's history. Midday brings you to the stunning Katedral Ambon and Gereja Syaloom, showcasing the city's deep-rooted Christian heritage. In the afternoon, pay your respects at the Pattimura Statue under the tropical sun. End your walking tour by contemplating peace and unity at the vibrant World Peace Gong.",
+        "de": "Beginnen Sie den Morgen am Tugu Trikora, um Ambons Geschichte zu verstehen. Mittags erreichen Sie die atemberaubende Katedral und die Gereja Syaloom, die das christliche Erbe zeigen. Am Nachmittag erweisen Sie der Pattimura-Statue unter der tropischen Sonne die Ehre. Beenden Sie Ihre Tour, indem Sie am bunten Weltfriedensgong über Frieden und Einheit nachdenken.",
+        "hu": "Kezdje a reggelt a lenyűgöző Tugu Trikoránál, hogy megértse Ambon történelmét. Délben elérkezik a lenyűgöző Katedrálishoz és a Gereja Syaloomhoz, amelyek a keresztény örökséget mutatják be. Délután tisztelegjen a Pattimura-szobornál a trópusi nap alatt. Fejezze be sétáját a békéről és az egységről elmélkedve a vibráló Világbéke Gongnál.",
+        "ro": "Începeți dimineața la impresionantul Tugu Trikora pentru a înțelege istoria Ambonului. La prânz veți vizita superba Catedrală și Gereja Syaloom, vitrine ale moștenirii creștine. După-amiaza, aduceți un omagiu la Statuia Pattimura sub soarele tropical. Încheiați turul pietonal contemplând pacea și unitatea la vibrantul Gong al Păcii Mondiale."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:57",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "en": "Tugu Trikora (Monolith)",
+            "de": "Tugu Trikora (Monolith)",
+            "hu": "Tugu Trikora (Monolit)",
+            "ro": "Tugu Trikora (Monolit)"
+          },
+          "coords": [
+            128.180134,
+            -3.698417
+          ],
+          "category": "historical",
+          "arrive_at": "09:02",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "en": "Admire this striking monolith commemorating Indonesia's historical struggles, and visit early in the morning for the best lighting and fewer crowds.",
+            "de": "Bewundern Sie diesen markanten Monolithen, der an Indonesiens historische Kämpfe erinnert, und besuchen Sie ihn früh morgens für das beste Licht.",
+            "hu": "Csodálja meg ezt a lenyűgöző monolitot, amely Indonézia történelmi küzdelmeinek állít emléket, és érkezzen kora reggel a legjobb fényekért.",
+            "ro": "Admirați acest monolit impresionant ce comemorează luptele istorice ale Indoneziei și vizitați-l dis-de-dimineață pentru cea mai bună lumină."
+          }
+        },
+        {
+          "name": {
+            "en": "World Peace Gong",
+            "de": "Weltfriedensgong",
+            "hu": "Világbéke Gong",
+            "ro": "Gongul Păcii Mondiale"
+          },
+          "coords": [
+            128.181219,
+            -3.693121
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "en": "Marvel at this large symbol of harmony commemorating the end of sectarian conflicts, and take a close-up photo of the flags decorating its surface.",
+            "de": "Bestaunen Sie dieses große Symbol der Harmonie nach den sektiererischen Konflikten und machen Sie ein Nahaufnahmefoto der vielen Flaggen.",
+            "hu": "Csodálja meg a harmónia e hatalmas szimbólumát, amely a szektariánus konfliktusok végét jelzi, és fotózza le közelről a rajta lévő zászlókat.",
+            "ro": "Minunați-vă de acest mare simbol al armoniei ce marchează sfârșitul conflictelor sectare și faceți o poză de aproape steagurilor de pe el."
+          }
+        },
+        {
+          "name": {
+            "en": "Pattimura Statue",
+            "de": "Pattimura-Statue",
+            "hu": "Pattimura-szobor",
+            "ro": "Statuia Pattimura"
+          },
+          "coords": [
+            128.183165,
+            -3.693089
+          ],
+          "category": "historical",
+          "arrive_at": "11:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "en": "Pay your respects to the national hero at this prominent bronze statue, and bring a wide-brimmed hat as the surrounding square offers little shade.",
+            "de": "Erweisen Sie dem Nationalhelden an dieser markanten Bronzestatue die Ehre und bringen Sie einen Hut mit, da der umliegende Platz kaum Schatten bietet.",
+            "hu": "Tisztelegjen a nemzeti hős előtt ennél a kiemelkedő bronzszobornál, és hozzon magával széles karimájú kalapot, mivel a téren alig van árnyék.",
+            "ro": "Aduceți un omagiu eroului național la această statuie proeminentă din bronz și aduceți o pălărie, deoarece piața din jur oferă puțină umbră."
+          }
+        },
+        {
+          "name": {
+            "en": "Gereja Joseph Kham",
+            "de": "Gereja Joseph Kham",
+            "hu": "Joseph Kham Templom",
+            "ro": "Biserica Joseph Kham"
+          },
+          "coords": [
+            128.188795,
+            -3.694775
+          ],
+          "category": "religious",
+          "arrive_at": "13:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "en": "Visit this historic church named after an influential missionary, and take a moment to admire the beautifully preserved woodwork inside the sanctuary.",
+            "de": "Besuchen Sie diese historische Kirche, die nach einem einflussreichen Missionar benannt ist, und bewundern Sie die gut erhaltenen Holzarbeiten im Inneren.",
+            "hu": "Látogasson el ebbe a befolyásos misszionáriusról elnevezett történelmi templomba, és csodálja meg a szentély gyönyörűen megőrzött famunkáit.",
+            "ro": "Vizitați această biserică istorică numită după un misionar influent și rezervați-vă un moment pentru a admira lucrările din lemn frumos conservate."
+          }
+        },
+        {
+          "name": {
+            "en": "Masjid Agung An Nur",
+            "de": "Masjid Agung An Nur",
+            "hu": "An Nur Nagymecset",
+            "ro": "Marea Moschee An Nur"
+          },
+          "coords": [
+            128.187599,
+            -3.685324
+          ],
+          "category": "religious",
+          "arrive_at": "14:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "en": "Take in the grandeur of Ambon's Great Mosque with its towering minarets, and plan your visit outside of prayer times for a serene experience.",
+            "de": "Genießen Sie die Erhabenheit der Großen Moschee von Ambon mit ihren hohen Minaretten und planen Sie Ihren Besuch außerhalb der Gebetszeiten.",
+            "hu": "Tekintse meg Ambon Nagymecsetjének fenségét tornyosuló minaretjeivel, és tervezze látogatását az imaidőkön kívülre a nyugodt élmény érdekében.",
+            "ro": "Admirați măreția Marii Moschei din Ambon, cu minaretele sale înalte, și planificați-vă vizita în afara orelor de rugăciune pentru liniște."
+          }
+        },
+        {
+          "name": {
+            "en": "Masjid Baiturrahman",
+            "de": "Masjid Baiturrahman",
+            "hu": "Baiturrahman Mecset",
+            "ro": "Moscheea Baiturrahman"
+          },
+          "coords": [
+            128.188811,
+            -3.682381
+          ],
+          "category": "religious",
+          "arrive_at": "14:47",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "en": "Experience the spiritual calm of this elegant local mosque, and ensure your shoulders and knees are fully covered before entering the courtyard.",
+            "de": "Erleben Sie die spirituelle Ruhe dieser eleganten lokalen Moschee und stellen Sie sicher, dass Schultern und Knie vor dem Betreten bedeckt sind.",
+            "hu": "Tapasztalja meg ennek az elegáns helyi mecsetnek a spirituális nyugalmát, és belépés előtt gondoskodjon a vállak és térdek megfelelő takarásáról.",
+            "ro": "Experimentați calmul spiritual al acestei elegante moschei locale și asigurați-vă că umerii și genunchii vă sunt acoperiți înainte de a intra."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Pedal to Tugu Trikora first thing in the morning to beat the heat. By midday, cycle over to the World Peace Gong and the nearby Pattimura Statue to soak in the local history. Your afternoon ride takes you past the historic Gereja Joseph Kham toward the grand Masjid Agung An Nur. As evening approaches, conclude your journey in quiet reflection at Masjid Baiturrahman.",
+        "de": "Radeln Sie gleich morgens zum Tugu Trikora, um der Hitze zu entgehen. Mittags fahren Sie zum Weltfriedensgong und zur Pattimura-Statue, um die Geschichte aufzusaugen. Ihre Nachmittagsfahrt führt Sie vorbei an der Gereja Joseph Kham zur großen Masjid Agung An Nur. Gegen Abend beenden Sie Ihre Reise in ruhiger Besinnung in der Masjid Baiturrahman.",
+        "hu": "Tekerjen a Tugu Trikorához kora reggel, hogy elkerülje a hőséget. Délre biciklizzen a Világbéke Gonghoz és a Pattimura-szoborhoz, hogy elmerüljön a helyi történelemben. A délutáni túra a történelmi Gereja Joseph Kham mellett a hatalmas Masjid Agung An Nurhoz vezet. Ahogy közeledik az este, fejezze be útját csendes elmélkedéssel a Masjid Baiturrahmanban.",
+        "ro": "Pedați spre Tugu Trikora la prima oră pentru a evita căldura. Până la prânz, mergeți la Gongul Păcii și la Statuia Pattimura pentru a absorbi istoria. Plimbarea de după-amiază vă duce pe lângă istorica Gereja Joseph Kham spre marea Masjid Agung An Nur. Spre seară, încheiați-vă călătoria cu o reflecție liniștită la Masjid Baiturrahman."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 5.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "en": "Tugu Trikora (Monolith)",
+            "de": "Tugu Trikora (Monolith)",
+            "hu": "Tugu Trikora (Monolit)",
+            "ro": "Tugu Trikora (Monolit)"
+          },
+          "coords": [
+            128.180134,
+            -3.698417
+          ],
+          "category": "historical",
+          "arrive_at": "09:01",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "en": "Admire this striking monolith commemorating Indonesia's historical struggles, and visit early in the morning for the best lighting and fewer crowds.",
+            "de": "Bewundern Sie diesen markanten Monolithen, der an Indonesiens historische Kämpfe erinnert, und besuchen Sie ihn früh morgens für das beste Licht.",
+            "hu": "Csodálja meg ezt a lenyűgöző monolitot, amely Indonézia történelmi küzdelmeinek állít emléket, és érkezzen kora reggel a legjobb fényekért.",
+            "ro": "Admirați acest monolit impresionant ce comemorează luptele istorice ale Indoneziei și vizitați-l dis-de-dimineață pentru cea mai bună lumină."
+          }
+        },
+        {
+          "name": {
+            "en": "Gereja Katedral Ambon",
+            "de": "Gereja Katedral Ambon",
+            "hu": "Ambon Katolikus Katedrális",
+            "ro": "Catedrala Catolică Ambon"
+          },
+          "coords": [
+            128.185248,
+            -3.697856
+          ],
+          "category": "religious",
+          "arrive_at": "10:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "en": "Explore the modern architecture of the main Catholic cathedral in Ambon, and remember to dress modestly before stepping inside for a moment of peace.",
+            "de": "Erkunden Sie die moderne Architektur der katholischen Hauptkathedrale in Ambon und kleiden Sie sich angemessen, bevor Sie den ruhigen Innenraum betreten.",
+            "hu": "Fedezze fel Ambon fő katolikus katedrálisának modern építészetét, és öltözzön szerényen, mielőtt belépne egy békés pillanatra.",
+            "ro": "Explorați arhitectura modernă a principalei catedrale catolice din Ambon și amintiți-vă să vă îmbrăcați decent înainte de a păși înăuntru."
+          }
+        },
+        {
+          "name": {
+            "en": "Pattimura Statue",
+            "de": "Pattimura-Statue",
+            "hu": "Pattimura-szobor",
+            "ro": "Statuia Pattimura"
+          },
+          "coords": [
+            128.183165,
+            -3.693089
+          ],
+          "category": "historical",
+          "arrive_at": "11:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "en": "Pay your respects to the national hero at this prominent bronze statue, and bring a wide-brimmed hat as the surrounding square offers little shade.",
+            "de": "Erweisen Sie dem Nationalhelden an dieser markanten Bronzestatue die Ehre und bringen Sie einen Hut mit, da der umliegende Platz kaum Schatten bietet.",
+            "hu": "Tisztelegjen a nemzeti hős előtt ennél a kiemelkedő bronzszobornál, és hozzon magával széles karimájú kalapot, mivel a téren alig van árnyék.",
+            "ro": "Aduceți un omagiu eroului național la această statuie proeminentă din bronz și aduceți o pălărie, deoarece piața din jur oferă puțină umbră."
+          }
+        },
+        {
+          "name": {
+            "en": "World Peace Gong",
+            "de": "Weltfriedensgong",
+            "hu": "Világbéke Gong",
+            "ro": "Gongul Păcii Mondiale"
+          },
+          "coords": [
+            128.181219,
+            -3.693121
+          ],
+          "category": "historical",
+          "arrive_at": "13:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "en": "Marvel at this large symbol of harmony commemorating the end of sectarian conflicts, and take a close-up photo of the flags decorating its surface.",
+            "de": "Bestaunen Sie dieses große Symbol der Harmonie nach den sektiererischen Konflikten und machen Sie ein Nahaufnahmefoto der vielen Flaggen.",
+            "hu": "Csodálja meg a harmónia e hatalmas szimbólumát, amely a szektariánus konfliktusok végét jelzi, és fotózza le közelről a rajta lévő zászlókat.",
+            "ro": "Minunați-vă de acest mare simbol al armoniei ce marchează sfârșitul conflictelor sectare și faceți o poză de aproape steagurilor de pe el."
+          }
+        },
+        {
+          "name": {
+            "en": "Masjid Agung An Nur",
+            "de": "Masjid Agung An Nur",
+            "hu": "An Nur Nagymecset",
+            "ro": "Marea Moschee An Nur"
+          },
+          "coords": [
+            128.187599,
+            -3.685324
+          ],
+          "category": "religious",
+          "arrive_at": "14:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "en": "Take in the grandeur of Ambon's Great Mosque with its towering minarets, and plan your visit outside of prayer times for a serene experience.",
+            "de": "Genießen Sie die Erhabenheit der Großen Moschee von Ambon mit ihren hohen Minaretten und planen Sie Ihren Besuch außerhalb der Gebetszeiten.",
+            "hu": "Tekintse meg Ambon Nagymecsetjének fenségét tornyosuló minaretjeivel, és tervezze látogatását az imaidőkön kívülre a nyugodt élmény érdekében.",
+            "ro": "Admirați măreția Marii Moschei din Ambon, cu minaretele sale înalte, și planificați-vă vizita în afara orelor de rugăciune pentru liniște."
+          }
+        },
+        {
+          "name": {
+            "en": "Masjid",
+            "de": "Masjid",
+            "hu": "Helyi Mecset",
+            "ro": "Moscheea Locală"
+          },
+          "coords": [
+            128.203111,
+            -3.688624
+          ],
+          "category": "religious",
+          "arrive_at": "15:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "en": "Observe the daily spiritual life of the local community at this neighborhood mosque, and listen politely to the call to prayer from a respectful distance.",
+            "de": "Beobachten Sie das spirituelle Leben der Gemeinde in dieser Viertelmoschee und lauschen Sie dem Gebetsruf höflich aus respektvoller Entfernung.",
+            "hu": "Figyelje meg a helyi közösség mindennapi spirituális életét ebben a szomszédsági mecsetben, és hallgassa tiszteletteljes távolságból az imára hívást.",
+            "ro": "Observați viața spirituală zilnică a comunității locale la această moschee de cartier și ascultați chemarea la rugăciune de la o distanță respectuoasă."
+          }
+        },
+        {
+          "name": {
+            "en": "Gereja GBI Gosyen",
+            "de": "Gereja GBI Gosyen",
+            "hu": "GBI Gosyen Templom",
+            "ro": "Biserica GBI Gosyen"
+          },
+          "coords": [
+            128.204734,
+            -3.694309
+          ],
+          "category": "religious",
+          "arrive_at": "16:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "en": "Step inside this contemporary Christian place of worship to see the vibrant local congregation, and attend a Sunday service if you love gospel music.",
+            "de": "Betreten Sie diese moderne christliche Kultstätte, um die lebendige Gemeinde zu sehen, und besuchen Sie einen Gottesdienst, wenn Sie Gospel mögen.",
+            "hu": "Lépjen be ebbe a kortárs keresztény istentiszteleti helyre, hogy lássa a nyüzsgő helyi gyülekezetet, és vegyen részt egy istentiszteleten.",
+            "ro": "Pășiți în acest lăcaș de cult creștin contemporan pentru a vedea congregația vibrantă și participați la o slujbă dacă vă place muzica gospel."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "en": "Drive early to Tugu Trikora and the magnificent Katedral Ambon for a spiritual and historical start. As the day warms up, navigate to the Pattimura Statue and the World Peace Gong for midday historical exploration. In the afternoon, head east to marvel at the impressive Masjid Agung An Nur and a vibrant neighborhood Mosque. Finish your extensive city drive at the modern Gereja GBI Gosyen.",
+        "de": "Fahren Sie früh zum Tugu Trikora und zur prächtigen Katedral Ambon für einen historischen Start. Wenn es wärmer wird, navigieren Sie zur Pattimura-Statue und zum Weltfriedensgong. Am Nachmittag fahren Sie nach Osten, um die beeindruckende Masjid Agung An Nur und eine lebhafte Viertelmoschee zu bestaunen. Beenden Sie Ihre Fahrt an der modernen Gereja GBI Gosyen.",
+        "hu": "Vezessen korán a Tugu Trikorához és a csodálatos Katedrálishoz egy spirituális és történelmi kezdésért. Ahogy melegszik a nap, navigáljon a Pattimura-szoborhoz és a Világbéke Gonghoz. Délután induljon keletre, hogy megcsodálja a Masjid Agung An Nurt és egy nyüzsgő környékbeli mecsetet. Fejezze be a városi autózást a modern Gereja GBI Gosyennél.",
+        "ro": "Conduceți devreme spre Tugu Trikora și magnifica Catedrală Ambon pentru un început istoric. Când se încălzește, navigați spre Statuia Pattimura și Gongul Păcii Mondiale. După-amiaza, îndreptați-vă spre est pentru a admira impresionanta Masjid Agung An Nur și o moschee de cartier. Încheiați-vă turul auto la moderna biserică Gereja GBI Gosyen."
+      }
+    }
+  }
+}

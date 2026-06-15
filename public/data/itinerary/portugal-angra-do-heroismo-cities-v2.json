@@ -1,0 +1,497 @@
+{
+  "city_id": "portugal-angra-do-heroismo-cities-v2",
+  "anchor": {
+    "name": "Angra do Heroísmo",
+    "coords": [
+      -27.2183,
+      38.6533
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:33",
+      "total_km": 1.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Praça Velha",
+            "hu": "Praça Velha",
+            "ro": "Praça Velha",
+            "en": "Praça Velha"
+          },
+          "coords": [
+            -27.218657,
+            38.655747
+          ],
+          "category": "squares",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gepflasterten Muster und die historische Architektur auf diesem zentralen Platz und gönnen Sie sich einen schnellen Kaffee auf einer der Terrassen.",
+            "hu": "Csodálja meg a macskaköves mintákat és a történelmi építészetet ezen a központi téren, és igyon meg egy gyors kávét valamelyik teraszon.",
+            "ro": "Admirați modelele pavajului și arhitectura istorică din această piață centrală, savurând o cafea rapidă la una dintre terase.",
+            "en": "Admire the cobblestone patterns and historic architecture in this central square, taking time for a quick coffee at one of the terraces."
+          }
+        },
+        {
+          "name": {
+            "de": "Sé Kathedrale von Angra do Heroísmo",
+            "hu": "Sé katedrális (Angra do Heroísmo)",
+            "ro": "Catedrala Sé din Angra do Heroísmo",
+            "en": "Sé Cathedral of Angra do Heroísmo"
+          },
+          "coords": [
+            -27.22098,
+            38.655341
+          ],
+          "category": "churches",
+          "arrive_at": "09:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das beeindruckende Kirchenschiff und den reich verzierten Silberaltar dieser historischen Kathedrale; achten Sie auf die Öffnungszeiten am frühen Vormittag.",
+            "hu": "Csodálja meg ennek a történelmi katedrálisnak a lenyűgöző hajóját és díszes ezüstoltárát; érdemes korán érkezni a zavartalan élményért.",
+            "ro": "Minunați-vă de naosul impresionant și de altarul de argint ornamentat al acestei catedrale istorice, venind dimineața devreme pentru liniște.",
+            "en": "Marvel at the impressive nave and ornate silver altar of this historic cathedral, arriving early in the morning to avoid the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast der Generalkapitäne",
+            "hu": "A Főkapitányok Palotája",
+            "ro": "Palatul Căpitanilor Generali",
+            "en": "Palace of the Captains General"
+          },
+          "coords": [
+            -27.220064,
+            38.656849
+          ],
+          "category": "famous buildings",
+          "arrive_at": "10:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Erkunden Sie die prachtvollen Säle dieses ehemaligen Jesuitenkollegs und Königspalastes, am besten mit einem Audioguide für tiefere historische Einblicke.",
+            "hu": "Fedezze fel ennek az egykori jezsuita kollégiumnak és királyi palotának a pompás termeit, és használjon audioguide-ot a történelmi háttérhez.",
+            "ro": "Explorați sălile grandioase ale acestui fost colegiu iezuit și palat regal, luând un ghid audio pentru informații istorice detaliate.",
+            "en": "Explore the grand halls of this former Jesuit college and royal palace, picking up an audio guide for deeper historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Duque da Terceira Garten",
+            "hu": "Duque da Terceira Kert",
+            "ro": "Grădina Duque da Terceira",
+            "en": "Duque da Terceira Garden"
+          },
+          "coords": [
+            -27.218622,
+            38.656686
+          ],
+          "category": "parks",
+          "arrive_at": "12:18",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch dieses botanische Juwel mit seinen exotischen Pflanzen und gepflegten Wegen, das perfekten Schatten für eine entspannte Pause bietet.",
+            "hu": "Sétáljon végig ezen a botanikai gyöngyszemen, melynek egzotikus növényei és gondozott ösvényei tökéletes árnyékot nyújtanak a pihenéshez.",
+            "ro": "Plimbați-vă prin această bijuterie botanică, cu plante exotice și alei îngrijite, care oferă umbra perfectă pentru o pauză relaxantă.",
+            "en": "Stroll through this botanical gem featuring exotic plants and manicured paths, offering the perfect shade for a relaxing break."
+          }
+        },
+        {
+          "name": {
+            "de": "Angra do Heroísmo Museum",
+            "hu": "Angra do Heroísmo Múzeum",
+            "ro": "Muzeul Angra do Heroísmo",
+            "en": "Angra do Heroísmo Museum"
+          },
+          "coords": [
+            -27.216987,
+            38.657314
+          ],
+          "category": "museums",
+          "arrive_at": "13:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die reiche maritime und kulturelle Geschichte der Azoren; planen Sie genügend Zeit für die umfangreiche Kutschensammlung ein.",
+            "hu": "Merüljön el az Azori-szigetek gazdag tengerészeti és kulturális történelmében; szánjon elegendő időt a kiterjedt hintógyűjteményre.",
+            "ro": "Scufundați-vă în istoria maritimă și culturală bogată a insulelor Azore, rezervând suficient timp pentru impresionanta colecție de trăsuri.",
+            "en": "Delve into the rich maritime and cultural history of the Azores, setting aside plenty of time to view the extensive carriage collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Misericórdia-Kirche",
+            "hu": "Misericórdia templom",
+            "ro": "Biserica Misericórdia",
+            "en": "Misericórdia Church"
+          },
+          "coords": [
+            -27.218354,
+            38.654285
+          ],
+          "category": "churches",
+          "arrive_at": "15:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Die leuchtend blauen Kacheln und das elegante Interieur dieser Kirche am Meer sind faszinierend; treten Sie respektvoll ein, da oft Messen stattfinden.",
+            "hu": "A tengerparti templom élénkkék csempéi és elegáns belső tere lenyűgöző; lépjen be tisztelettel, mivel gyakran tartanak miséket.",
+            "ro": "Plăcile albastre strălucitoare și interiorul elegant al acestei biserici de la malul mării sunt fascinante; intrați în liniște în timpul slujbelor.",
+            "en": "The striking blue tiles and elegant interior of this seaside church are mesmerizing; enter respectfully as services are often underway."
+          }
+        },
+        {
+          "name": {
+            "de": "Prainha",
+            "hu": "Prainha",
+            "ro": "Prainha",
+            "en": "Prainha"
+          },
+          "coords": [
+            -27.220016,
+            38.653709
+          ],
+          "category": "recreational",
+          "arrive_at": "15:48",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem kleinen Stadtstrand mit weichem Sand und ruhigem Wasser, ideal, um den Tag beim Sonnenuntergang gemütlich ausklingen zu lassen.",
+            "hu": "Pihenjen ezen a kis városi strandon, melynek finom homokja és nyugodt vize ideális hely a nap lezárásához naplemente idején.",
+            "ro": "Relaxați-vă pe această mică plajă urbană cu nisip fin și ape calme, locul ideal pentru a vă încheia ziua privindu-vă la apus.",
+            "en": "Relax on this small urban beach featuring soft sand and calm waters, the perfect spot to wind down your day as the sun sets."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag auf dem historischen Praça Velha und besuchen Sie die nahegelegene Sé-Kathedrale. Der Vormittag führt Sie weiter zum Palast der Generalkapitäne. Mittags bietet der Duque da Terceira Garten eine willkommene Pause im Grünen. Am Nachmittag tauchen Sie im Museum in die Geschichte ein und bewundern die Misericórdia-Kirche. Abends entspannen Sie sich am charmanten Stadtstrand Prainha.",
+        "hu": "Kezdje a napot a történelmi Praça Velha téren, majd látogassa meg a közeli Sé katedrálist. A délelőtt folyamán fedezze fel a Főkapitányok Palotáját. Délben a Duque da Terceira Kert zöldellő árnyéka kínál felfrissülést. Délután merüljön el a helyi múzeum kiállításaiban, és csodálja meg a Misericórdia templomot. Este lazítson a bájos Prainha városi strandon, figyelve a hullámokat.",
+        "ro": "Începeți ziua în istorica Praça Velha și vizitați Catedrala Sé. Dimineața vă poartă apoi către Palatul Căpitanilor Generali. La prânz, Grădina Duque da Terceira oferă o pauză verde perfectă. După-amiaza vă scufundați în istorie la Muzeul din Angra și admirați Biserica Misericórdia. Seara vă puteți relaxa pe mica plajă urbană Prainha, ascultând valurile oceanului.",
+        "en": "Start your day in the historic Praça Velha before visiting the nearby Sé Cathedral. The morning continues at the impressive Palace of the Captains General. By midday, the Duque da Terceira Garden provides a lush, green retreat. Spend your afternoon diving into history at the Angra do Heroísmo Museum and the Misericórdia Church. Unwind in the evening by the calm waters of Prainha beach."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:22",
+      "total_km": 3.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Praça Velha",
+            "hu": "Praça Velha",
+            "ro": "Praça Velha",
+            "en": "Praça Velha"
+          },
+          "coords": [
+            -27.218657,
+            38.655747
+          ],
+          "category": "squares",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gepflasterten Muster und die historische Architektur auf diesem zentralen Platz und gönnen Sie sich einen schnellen Kaffee auf einer der Terrassen.",
+            "hu": "Csodálja meg a macskaköves mintákat és a történelmi építészetet ezen a központi téren, és igyon meg egy gyors kávét valamelyik teraszon.",
+            "ro": "Admirați modelele pavajului și arhitectura istorică din această piață centrală, savurând o cafea rapidă la una dintre terase.",
+            "en": "Admire the cobblestone patterns and historic architecture in this central square, taking time for a quick coffee at one of the terraces."
+          }
+        },
+        {
+          "name": {
+            "de": "Sé Kathedrale von Angra do Heroísmo",
+            "hu": "Sé katedrális (Angra do Heroísmo)",
+            "ro": "Catedrala Sé din Angra do Heroísmo",
+            "en": "Sé Cathedral of Angra do Heroísmo"
+          },
+          "coords": [
+            -27.22098,
+            38.655341
+          ],
+          "category": "churches",
+          "arrive_at": "09:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das beeindruckende Kirchenschiff und den reich verzierten Silberaltar dieser historischen Kathedrale; achten Sie auf die Öffnungszeiten am frühen Vormittag.",
+            "hu": "Csodálja meg ennek a történelmi katedrálisnak a lenyűgöző hajóját és díszes ezüstoltárát; érdemes korán érkezni a zavartalan élményért.",
+            "ro": "Minunați-vă de naosul impresionant și de altarul de argint ornamentat al acestei catedrale istorice, venind dimineața devreme pentru liniște.",
+            "en": "Marvel at the impressive nave and ornate silver altar of this historic cathedral, arriving early in the morning to avoid the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Hospital da Boa Nova",
+            "hu": "Hospital da Boa Nova",
+            "ro": "Spitalul Boa Nova",
+            "en": "Hospital da Boa Nova"
+          },
+          "coords": [
+            -27.223697,
+            38.653678
+          ],
+          "category": "museum",
+          "arrive_at": "10:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.29,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese ehemalige medizinische Einrichtung, deren Architektur die Geschichte des Gesundheitswesens und des Militärs auf den Inseln widerspiegelt.",
+            "hu": "Látogassa meg ezt az egykori egészségügyi intézményt, amelynek építészete a szigetek katonai és orvosi történelmét tükrözi.",
+            "ro": "Vizitați această fostă instituție medicală, a cărei arhitectură reflectă istoria sănătății și pe cea militară a insulelor.",
+            "en": "Visit this former medical institution whose architecture reflects both the healthcare and military history of the islands."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort von São João Baptista",
+            "hu": "São João Baptista erőd",
+            "ro": "Fortăreața São João Baptista",
+            "en": "Fort of São João Baptista"
+          },
+          "coords": [
+            -27.226864,
+            38.651442
+          ],
+          "category": "castles",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Erkunden Sie die massiven Mauern dieser riesigen spanischen Festung am Fuße des Monte Brasil, und tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+            "hu": "Fedezze fel a Monte Brasil lábánál található hatalmas spanyol erőd vaskos falait, és viseljen kényelmes cipőt a macskaköveken.",
+            "ro": "Explorați zidurile masive ale acestei uriașe fortărețe spaniole de la baza Monte Brasil, purtând încălțăminte comodă pentru pietrele cubice.",
+            "en": "Explore the massive walls of this huge Spanish fortress at the base of Monte Brasil, wearing comfortable shoes for the cobblestones."
+          }
+        },
+        {
+          "name": {
+            "de": "Monte Brasil",
+            "hu": "Monte Brasil",
+            "ro": "Monte Brasil",
+            "en": "Monte Brasil"
+          },
+          "coords": [
+            -27.2213,
+            38.643
+          ],
+          "category": "viewpoints",
+          "arrive_at": "14:01",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.04,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick über die Stadt von diesem erloschenen Vulkan aus; fahren Sie bis zum Gipfel, um die besten Fotomotive zu finden.",
+            "hu": "Élvezze a városra nyíló panorámát ebből a kialudt vulkánból; menjen fel egészen a csúcsra a legjobb fotótémákért.",
+            "ro": "Bucurați-vă de vederea panoramică asupra orașului din acest vulcan stins; urcați până în vârf pentru cele mai bune oportunități foto.",
+            "en": "Enjoy panoramic views of the city from this extinct volcano, making sure to head all the way to the peak for the best photo opportunities."
+          }
+        },
+        {
+          "name": {
+            "de": "Silveira",
+            "hu": "Silveira",
+            "ro": "Silveira",
+            "en": "Silveira"
+          },
+          "coords": [
+            -27.235713,
+            38.656702
+          ],
+          "category": "recreational",
+          "arrive_at": "14:37",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.96,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour an diesem beliebten Badegebiet, wo die Einheimischen im tiefen Meeresschwimmbecken das erfrischende Wasser genießen.",
+            "hu": "Fejezze be a kerékpártúrát ezen a népszerű fürdőhelyen, ahol a helyiek a mélytengeri medencében élvezik a frissítő vizet.",
+            "ro": "Încheiați turul cu bicicleta în această zonă populară de scăldat, unde localnicii se bucură de apele răcoroase în piscina oceanică.",
+            "en": "Conclude your bike ride at this popular bathing area where locals enjoy the refreshing waters in the deep ocean swimming pool."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie im Herzen der Stadt am Praça Velha und radeln Sie zur historischen Kathedrale. Danach führt die Route zum Hospital da Boa Nova. Mittags erreichen Sie das imposante Fort von São João Baptista. Am Nachmittag radeln Sie den Monte Brasil hinauf, um spektakuläre Ausblicke zu genießen. Den Abend verbringen Sie entspannt bei einem Bad im tiefen Meeresschwimmbecken von Silveira.",
+        "hu": "Induljon a város szívéből, a Praça Velháról, és tekerjen el a történelmi katedrálishoz. Ezután az út a Hospital da Boa Novához vezet. Délben érje el az impozáns São João Baptista erődöt. Délután kerekezzen fel a Monte Brasilra a látványos kilátásért. Az estét töltse pihenéssel és frissítő fürdőzéssel a Silveira mélytengeri medencéjében.",
+        "ro": "Începeți în inima orașului, în Praça Velha, și pedalați către Catedrala Sé, apoi către Spitalul Boa Nova. La prânz veți ajunge la impozantul Fort São João Baptista. După-amiaza este rezervată urcării pe Monte Brasil pentru priveliști spectaculoase. Seara se încheie cu o baie revigorantă în piscina oceanică adâncă din zona Silveira.",
+        "en": "Begin in the heart of the city at Praça Velha and pedal to the majestic Sé Cathedral, then on to the Hospital da Boa Nova. By midday, you'll reach the imposing Fort of São João Baptista. The afternoon features an energetic ride up Monte Brasil for sweeping views. Finish your active day with a refreshing ocean swim at the deep waters of Silveira."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:44",
+      "total_km": 8.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Outeiro da Memória",
+            "hu": "Outeiro da Memória",
+            "ro": "Outeiro da Memória",
+            "en": "Outeiro da Memória"
+          },
+          "coords": [
+            -27.218329,
+            38.658708
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Steigen Sie zu diesem markanten Denkmal hinauf, um einen fantastischen Blick auf Angra do Heroísmo in den frühen Morgenstunden zu erhaschen.",
+            "hu": "Másszon fel ehhez a feltűnő emlékműhöz, hogy kora reggel fantasztikus kilátás nyíljon Angra do Heroísmo városára.",
+            "ro": "Urcați la acest monument proeminent pentru a prinde o priveliște fantastică a orașului Angra do Heroísmo la primele ore ale dimineții.",
+            "en": "Climb up to this prominent monument to catch a fantastic view of Angra do Heroísmo in the early hours of the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Duque da Terceira Garten",
+            "hu": "Duque da Terceira Kert",
+            "ro": "Grădina Duque da Terceira",
+            "en": "Duque da Terceira Garden"
+          },
+          "coords": [
+            -27.218622,
+            38.656686
+          ],
+          "category": "parks",
+          "arrive_at": "10:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch dieses botanische Juwel mit seinen exotischen Pflanzen und gepflegten Wegen, das perfekten Schatten für eine entspannte Pause bietet.",
+            "hu": "Sétáljon végig ezen a botanikai gyöngyszemen, melynek egzotikus növényei és gondozott ösvényei tökéletes árnyékot nyújtanak a pihenéshez.",
+            "ro": "Plimbați-vă prin această bijuterie botanică, cu plante exotice și alei îngrijite, care oferă umbra perfectă pentru o pauză relaxantă.",
+            "en": "Stroll through this botanical gem featuring exotic plants and manicured paths, offering the perfect shade for a relaxing break."
+          }
+        },
+        {
+          "name": {
+            "de": "Angra do Heroísmo Museum",
+            "hu": "Angra do Heroísmo Múzeum",
+            "ro": "Muzeul Angra do Heroísmo",
+            "en": "Angra do Heroísmo Museum"
+          },
+          "coords": [
+            -27.216987,
+            38.657314
+          ],
+          "category": "museums",
+          "arrive_at": "11:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die reiche maritime und kulturelle Geschichte der Azoren; planen Sie genügend Zeit für die umfangreiche Kutschensammlung ein.",
+            "hu": "Merüljön el az Azori-szigetek gazdag tengerészeti és kulturális történelmében; szánjon elegendő időt a kiterjedt hintógyűjteményre.",
+            "ro": "Scufundați-vă în istoria maritimă și culturală bogată a insulelor Azore, rezervând suficient timp pentru impresionanta colecție de trăsuri.",
+            "en": "Delve into the rich maritime and cultural history of the Azores, setting aside plenty of time to view the extensive carriage collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Kloster São Francisco",
+            "hu": "São Francisco kolostor",
+            "ro": "Mănăstirea São Francisco",
+            "en": "Convent of São Francisco"
+          },
+          "coords": [
+            -27.21693,
+            38.657211
+          ],
+          "category": "museums",
+          "arrive_at": "13:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.02,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wertvollen sakralen Kunstwerke und die kunstvollen Schnitzereien in diesem Museum, das einst ein bedeutendes Kloster war.",
+            "hu": "Csodálja meg az értékes szakrális műalkotásokat és a díszes faragványokat ebben a múzeumban, amely egykor jelentős kolostor volt.",
+            "ro": "Admirați operele de artă religioasă prețioase și sculpturile ornamentate din acest muzeu care a fost odată o mănăstire importantă.",
+            "en": "Admire the precious religious artworks and ornate carvings in this museum that once served as a significant convent."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu da Ribeirinha",
+            "hu": "Museu da Ribeirinha",
+            "ro": "Muzeul Ribeirinha",
+            "en": "Museu da Ribeirinha"
+          },
+          "coords": [
+            -27.177653,
+            38.663003
+          ],
+          "category": "museum",
+          "arrive_at": "15:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.44,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokalen Traditionen in diesem kleinen, aber feinen Museum, das einen authentischen Einblick in das ländliche Leben der Region bietet.",
+            "hu": "Fedezze fel a helyi hagyományokat ebben a kis, de lenyűgöző múzeumban, amely hiteles bepillantást nyújt a régió vidéki életébe.",
+            "ro": "Descoperiți tradițiile locale în acest muzeu mic, dar rafinat, care oferă o privire autentică asupra vieții rurale din regiune.",
+            "en": "Discover local traditions in this small but charming museum, which provides an authentic glimpse into the region's rural life."
+          }
+        },
+        {
+          "name": {
+            "de": "Monte Brasil",
+            "hu": "Monte Brasil",
+            "ro": "Monte Brasil",
+            "en": "Monte Brasil"
+          },
+          "coords": [
+            -27.2213,
+            38.643
+          ],
+          "category": "viewpoints",
+          "arrive_at": "16:49",
+          "stay_min": 55,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.36,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick über die Stadt von diesem erloschenen Vulkan aus; fahren Sie bis zum Gipfel, um die besten Fotomotive zu finden.",
+            "hu": "Élvezze a városra nyíló panorámát ebből a kialudt vulkánból; menjen fel egészen a csúcsra a legjobb fotótémákért.",
+            "ro": "Bucurați-vă de vederea panoramică asupra orașului din acest vulcan stins; urcați până în vârf pentru cele mai bune oportunități foto.",
+            "en": "Enjoy panoramic views of the city from this extinct volcano, making sure to head all the way to the peak for the best photo opportunities."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit einem herrlichen Blick vom Outeiro da Memória. Fahren Sie dann zum Duque da Terceira Garten und weiter zum Angra do Heroísmo Museum für kulturelle Einblicke. Mittags besichtigen Sie das Kloster São Francisco. Am Nachmittag führt Sie eine kurze Fahrt zum ländlichen Museu da Ribeirinha. Lassen Sie den Tag mit einem atemberaubenden Panorama vom Monte Brasil in der Abenddämmerung ausklingen.",
+        "hu": "Kezdje a napot az Outeiro da Memória emlékműnél, élvezve a kilátást. Ezután hajtson a Duque da Terceira Kerthez, majd az Angra do Heroísmo Múzeumhoz. Délben látogassa meg a São Francisco kolostort. Délután egy rövid autózás visz el a vidéki hangulatú Museu da Ribeirinha-hoz. A napot a Monte Brasil lenyűgöző panorámájával zárja az alkonyatban.",
+        "ro": "Începeți cu o priveliște minunată de la Outeiro da Memória. Conduceți apoi spre Grădina Duque da Terceira și Muzeul Angra do Heroísmo pentru o doză de cultură. La prânz, vizitați Mănăstirea São Francisco. După-amiaza, un scurt drum vă duce la Muzeul Ribeirinha, plin de tradiții rurale. Încheiați ziua admirând panorama uluitoare de pe Monte Brasil la apus.",
+        "en": "Start your day taking in the vistas from Outeiro da Memória. Drive down to the Duque da Terceira Garden and the Angra do Heroísmo Museum for cultural insights. Midday is spent exploring the Convent of São Francisco. In the afternoon, take a short drive to the rural Museu da Ribeirinha. End your day soaking in the breathtaking sunset panorama from Monte Brasil."
+      }
+    }
+  }
+}

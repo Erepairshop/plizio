@@ -1,0 +1,520 @@
+{
+  "city_id": "germany-surendorf-cities-v2",
+  "anchor": {
+    "name": "Surendorf",
+    "coords": [
+      10.07451,
+      54.47097
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:24",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Langbett Birkenmoor 1",
+            "hu": "Langbett Birkenmoor 1",
+            "ro": "Langbett Birkenmoor 1",
+            "en": "Langbett Birkenmoor 1"
+          },
+          "coords": [
+            10.084423,
+            54.456853
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses beeindruckende, längliche Hügelgrab im Waldgebiet, und ziehen Sie für die unebenen Waldwege am besten festes Schuhwerk an.",
+            "hu": "Csodálja meg ezt a lenyűgöző, erdőben megbúvó hosszúkás megalitikus sírt, és mindenképpen viseljen masszív cipőt a környék egyenetlen ösvényei miatt.",
+            "ro": "Admirați acest mormânt megalitic alungit impresionant ascuns în pădure și purtați încălțăminte robustă pentru a parcurge potecile denivelate de aici.",
+            "en": "Admire this impressive elongated megalithic tomb nestled in the forest, and be sure to wear sturdy shoes for the uneven dirt trails surrounding it."
+          }
+        },
+        {
+          "name": {
+            "de": "Großsteingrab Birkenmoor 5",
+            "hu": "Großsteingrab Birkenmoor 5",
+            "ro": "Großsteingrab Birkenmoor 5",
+            "en": "Großsteingrab Birkenmoor 5"
+          },
+          "coords": [
+            10.074164,
+            54.456258
+          ],
+          "category": "historical",
+          "arrive_at": "10:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Steinformationen dieser antiken Grabstätte und fotografieren Sie die moosbedeckten Findlinge im sanften Morgenlicht.",
+            "hu": "Fedezze fel ennek az ősi temetkezési helynek a lenyűgöző kőformációit, és szánjon időt a mohával borított sziklák lágy reggeli fényben való fotózására.",
+            "ro": "Descoperiți formațiunile de piatră fascinante ale acestui sit funerar antic, făcându-vă timp pentru a fotografia bolovanii acoperiți de mușchi.",
+            "en": "Discover the fascinating stone formations of this ancient burial site, taking a moment to photograph the moss-covered boulders in the soft morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Großsteingrab Birkenmoor 4",
+            "hu": "Großsteingrab Birkenmoor 4",
+            "ro": "Großsteingrab Birkenmoor 4",
+            "en": "Großsteingrab Birkenmoor 4"
+          },
+          "coords": [
+            10.072945,
+            54.456757
+          ],
+          "category": "historical",
+          "arrive_at": "12:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die bemerkenswerten Überreste dieses historischen Ganggrabes und achten Sie auf die lokalen Schautafeln, die die Ausgrabung erklären.",
+            "hu": "Vizsgálja meg ennek a történelmi folyosós sírnak a figyelemre méltó maradványait, és keresse a feltárást részletező helyi információs táblákat.",
+            "ro": "Examinați rămășițele structurale remarcabile ale acestui mormânt istoric de trecere, căutând panourile informative locale care detaliază excavarea.",
+            "en": "Examine the remarkable structural remnants of this historic passage grave, keeping an eye out for local informational plaques detailing its excavation."
+          }
+        },
+        {
+          "name": {
+            "de": "FKK Strand Surendorf",
+            "hu": "FKK Strand Surendorf",
+            "ro": "FKK Strand Surendorf",
+            "en": "FKK Strand Surendorf"
+          },
+          "coords": [
+            10.090645,
+            54.481159
+          ],
+          "category": "recreational",
+          "arrive_at": "14:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem ruhigen FKK-Strand an der Ostsee, aber denken Sie daran, eigene Snacks mitzubringen, da die Infrastruktur oft begrenzt ist.",
+            "hu": "Pihenjen ezen a gyönyörű, nyugodt naturista strandon a Balti-tenger partján, de vigyen magával harapnivalót, mert a helyi szolgáltatások korlátozottak.",
+            "ro": "Relaxați-vă pe această plajă de nudiști frumoasă și liniștită de la Marea Baltică, neuitând să aduceți propriile gustări deoarece facilitățile sunt limitate.",
+            "en": "Relax at this beautiful and tranquil naturist beach by the Baltic Sea, remembering to pack your own snacks as local facilities can be limited off-season."
+          }
+        },
+        {
+          "name": {
+            "de": "Großsteingrab Dänisch-Nienhof 1",
+            "hu": "Großsteingrab Dänisch-Nienhof 1",
+            "ro": "Großsteingrab Dänisch-Nienhof 1",
+            "en": "Großsteingrab Dänisch-Nienhof 1"
+          },
+          "coords": [
+            10.1025,
+            54.48075
+          ],
+          "category": "historical",
+          "arrive_at": "15:34",
+          "stay_min": 110,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses bedeutende Großsteingrab nahe der Küste und verbinden Sie Ihren Besuch mit einem ruhigen Nachmittagsspaziergang auf den Klippenwegen.",
+            "hu": "Fedezze fel ezt a jelentős partközeli megalitikus emlékművet, és kösse össze a látogatást egy békés délutáni sétával a közeli festői sziklaösvényeken.",
+            "ro": "Explorați acest monument megalitic semnificativ din apropierea coastei și combinați vizita cu o plimbare liniștită după-amiaza pe cărările stâncoase.",
+            "en": "Explore this significant megalithic monument near the coast, and combine your visit with a peaceful afternoon stroll along the nearby scenic cliff paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einer faszinierenden Wanderung durch die Wälder von Birkenmoor, wo Sie beeindruckende Megalithgräber wie das Langbett Birkenmoor 1 und das Großsteingrab Birkenmoor 5 entdecken. Gegen Mittag erreichen Sie das Großsteingrab Birkenmoor 4 und tauchen tief in die Vorgeschichte ein. Der Nachmittag führt Sie in Richtung Küste zum entspannten FKK Strand Surendorf, bevor Sie den Tag am historischen Großsteingrab Dänisch-Nienhof 1 im sanften Abendlicht ausklingen lassen.",
+        "hu": "A délelőtt egy lenyűgöző túrával indul Birkenmoor erdeiben, ahol olyan lenyűgöző megalitikus sírokat fedezhet fel, mint a Langbett Birkenmoor 1 és az 5-ös számú sír. Délben a 4-es sír felé veszi az irányt, elmélyedve az őstörténetben. Délután a part felé haladva a békés naturista strandon pihenhet, majd a napot a történelmi Dänisch-Nienhof 1 sírnál zárja a lágy esti fényben.",
+        "ro": "Dimineața începe cu o drumeție fascinantă prin pădurile din Birkenmoor, unde veți descoperi morminte megalitice impresionante precum Langbett 1 și mormântul 5. La prânz ajungeți la mormântul Birkenmoor 4, adâncindu-vă în preistorie. După-amiaza vă îndreptați spre coastă la plaja relaxantă de nudiști, înainte de a încheia ziua la istoricul mormânt Dänisch-Nienhof 1 în lumina serii.",
+        "en": "The morning begins with a fascinating hike through the Birkenmoor forests, discovering impressive megalithic tombs like Langbett 1 and Birkenmoor 5. By midday, you'll reach Birkenmoor 4, diving deep into regional prehistory. The afternoon leads you towards the coast to the relaxing naturist beach in Surendorf, before concluding your day at the historic Dänisch-Nienhof 1 tomb in soft evening light."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:03",
+      "total_km": 9.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Dreifaltigkeitskirche",
+            "hu": "Dreifaltigkeitskirche",
+            "ro": "Dreifaltigkeitskirche",
+            "en": "Dreifaltigkeitskirche"
+          },
+          "coords": [
+            10.050716,
+            54.467292
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betreten Sie diese charmante Dorfkirche, um die schlichte religiöse Architektur zu bewundern und einen Moment der Besinnung in den Bänken zu genießen.",
+            "hu": "Lépjen be ebbe a bájos helyi templomba, hogy megcsodálja letisztult vallási építészetét, és élvezze a csendes elmélkedés pillanatait a padsorokban.",
+            "ro": "Intrați în această biserică locală fermecătoare pentru a admira arhitectura sa religioasă sobră, bucurându-vă de un moment de reflecție în liniște.",
+            "en": "Step inside this charming local church to admire its understated religious architecture, taking time to enjoy a quiet moment of reflection in the pews."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Catharinenkirche am Jellenbek",
+            "hu": "St. Catharinenkirche am Jellenbek",
+            "ro": "St. Catharinenkirche am Jellenbek",
+            "en": "St. Catharinenkirche am Jellenbek"
+          },
+          "coords": [
+            10.054556,
+            54.477738
+          ],
+          "category": "historical",
+          "arrive_at": "09:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Bedeutung dieser malerischen Kirche am Flussufer und kommen Sie früh, um die friedliche Landschaft voll auszukosten.",
+            "hu": "Csodálja meg ennek a folyóparti festői templomnak a történelmi jelentőségét, és érkezzen korán, hogy teljes mértékben értékelje a békés tájat.",
+            "ro": "Minunați-vă de importanța istorică a acestei biserici pitorești de lângă malul râului, sosind devreme pentru a aprecia peisajul pașnic înconjurător.",
+            "en": "Marvel at the historical significance of this picturesque church near the riverbank, arriving early to fully appreciate the serene surrounding landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "FKK Strand Surendorf",
+            "hu": "FKK Strand Surendorf",
+            "ro": "FKK Strand Surendorf",
+            "en": "FKK Strand Surendorf"
+          },
+          "coords": [
+            10.090645,
+            54.481159
+          ],
+          "category": "recreational",
+          "arrive_at": "11:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem ruhigen FKK-Strand an der Ostsee, aber denken Sie daran, eigene Snacks mitzubringen, da die Infrastruktur oft begrenzt ist.",
+            "hu": "Pihenjen ezen a gyönyörű, nyugodt naturista strandon a Balti-tenger partján, de vigyen magával harapnivalót, mert a helyi szolgáltatások korlátozottak.",
+            "ro": "Relaxați-vă pe această plajă de nudiști frumoasă și liniștită de la Marea Baltică, neuitând să aduceți propriile gustări deoarece facilitățile sunt limitate.",
+            "en": "Relax at this beautiful and tranquil naturist beach by the Baltic Sea, remembering to pack your own snacks as local facilities can be limited off-season."
+          }
+        },
+        {
+          "name": {
+            "de": "Großsteingrab Dänisch-Nienhof 1",
+            "hu": "Großsteingrab Dänisch-Nienhof 1",
+            "ro": "Großsteingrab Dänisch-Nienhof 1",
+            "en": "Großsteingrab Dänisch-Nienhof 1"
+          },
+          "coords": [
+            10.1025,
+            54.48075
+          ],
+          "category": "historical",
+          "arrive_at": "12:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses bedeutende Großsteingrab nahe der Küste und verbinden Sie Ihren Besuch mit einem ruhigen Nachmittagsspaziergang auf den Klippenwegen.",
+            "hu": "Fedezze fel ezt a jelentős partközeli megalitikus emlékművet, és kösse össze a látogatást egy békés délutáni sétával a közeli festői sziklaösvényeken.",
+            "ro": "Explorați acest monument megalitic semnificativ din apropierea coastei și combinați vizita cu o plimbare liniștită după-amiaza pe cărările stâncoase.",
+            "en": "Explore this significant megalithic monument near the coast, and combine your visit with a peaceful afternoon stroll along the nearby scenic cliff paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Großsteingrab Dänisch-Nienhof 3",
+            "hu": "Großsteingrab Dänisch-Nienhof 3",
+            "ro": "Großsteingrab Dänisch-Nienhof 3",
+            "en": "Großsteingrab Dänisch-Nienhof 3"
+          },
+          "coords": [
+            10.108272,
+            54.461835
+          ],
+          "category": "historical",
+          "arrive_at": "14:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Untersuchen Sie dieses gut erhaltene neolithische Kammergrab zwischen den Bäumen und bringen Sie einen Reiseführer mit, um seine Ursprünge zu verstehen.",
+            "hu": "Tanulmányozza ezt a fák között megbúvó, jól megőrzött újkőkorszaki kamrasírt, és hozzon magával egy jó útikalauzt az ősi eredetének megértéséhez.",
+            "ro": "Investigați acest mormânt cu cameră neolitic bine conservat ascuns printre copaci și aduceți un ghid bun pentru a-i înțelege originile străvechi.",
+            "en": "Investigate this well-preserved Neolithic chamber tomb hidden within the trees, and bring along a good field guide to understand its ancient origins."
+          }
+        },
+        {
+          "name": {
+            "de": "Langbett Birkenmoor 1",
+            "hu": "Langbett Birkenmoor 1",
+            "ro": "Langbett Birkenmoor 1",
+            "en": "Langbett Birkenmoor 1"
+          },
+          "coords": [
+            10.084423,
+            54.456853
+          ],
+          "category": "historical",
+          "arrive_at": "15:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses beeindruckende, längliche Hügelgrab im Waldgebiet, und ziehen Sie für die unebenen Waldwege am besten festes Schuhwerk an.",
+            "hu": "Csodálja meg ezt a lenyűgöző, erdőben megbúvó hosszúkás megalitikus sírt, és mindenképpen viseljen masszív cipőt a környék egyenetlen ösvényei miatt.",
+            "ro": "Admirați acest mormânt megalitic alungit impresionant ascuns în pădure și purtați încălțăminte robustă pentru a parcurge potecile denivelate de aici.",
+            "en": "Admire this impressive elongated megalithic tomb nestled in the forest, and be sure to wear sturdy shoes for the uneven dirt trails surrounding it."
+          }
+        },
+        {
+          "name": {
+            "de": "Großsteingrab Birkenmoor 4",
+            "hu": "Großsteingrab Birkenmoor 4",
+            "ro": "Großsteingrab Birkenmoor 4",
+            "en": "Großsteingrab Birkenmoor 4"
+          },
+          "coords": [
+            10.072945,
+            54.456757
+          ],
+          "category": "historical",
+          "arrive_at": "17:13",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die bemerkenswerten Überreste dieses historischen Ganggrabes und achten Sie auf die lokalen Schautafeln, die die Ausgrabung erklären.",
+            "hu": "Vizsgálja meg ennek a történelmi folyosós sírnak a figyelemre méltó maradványait, és keresse a feltárást részletező helyi információs táblákat.",
+            "ro": "Examinați rămășițele structurale remarcabile ale acestui mormânt istoric de trecere, căutând panourile informative locale care detaliază excavarea.",
+            "en": "Examine the remarkable structural remnants of this historic passage grave, keeping an eye out for local informational plaques detailing its excavation."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet im Zentrum bei der Dreifaltigkeitskirche, gefolgt von der historischen St. Catharinenkirche am Jellenbek. Mittags fahren Sie entspannt an die Ostseeküste, um am FKK Strand Surendorf eine Pause einzulegen. Nachmittags erkunden Sie die faszinierenden Großsteingräber in Dänisch-Nienhof und radeln dann weiter in Richtung Süden. Der Abend bringt Sie zu den geheimnisvollen Grabanlagen von Birkenmoor, wo die Tour ihr prähistorisches Ende findet.",
+        "hu": "A kerékpártúra a központban, a Dreifaltigkeitskirche-nél kezdődik, majd a történelmi St. Catharinenkirche következik. Délben a Balti-tenger partjára kerekezik, és a naturista strandon pihen. Délután felfedezi a lenyűgöző Dänisch-Nienhof-i sírokat, majd dél felé halad tovább. Az este Birkenmoor titokzatos síremlékeihez vezeti, ahol az utazás egy őskori élménnyel ér véget.",
+        "ro": "Turul cu bicicleta începe în centru la Dreifaltigkeitskirche, urmat de istorica biserică St. Catharinen. La prânz pedalați spre coasta Mării Baltice pentru o pauză pe plaja de nudiști. După-amiaza explorați mormintele megalitice fascinante din Dänisch-Nienhof și continuați spre sud. Seara vă aduce la misterioasele morminte din Birkenmoor, unde turul se încheie cu un final preistoric.",
+        "en": "Your cycling tour starts centrally at Dreifaltigkeitskirche, followed by the historic St. Catharinenkirche by the riverbank. At midday, you'll ride towards the Baltic coast for a break at the naturist beach. The afternoon is dedicated to exploring the fascinating megalithic tombs in Dänisch-Nienhof before heading south. Evening brings you to the mysterious Birkenmoor sites, concluding the trip."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:56",
+      "total_km": 8.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "St. Catharinenkirche am Jellenbek",
+            "hu": "St. Catharinenkirche am Jellenbek",
+            "ro": "St. Catharinenkirche am Jellenbek",
+            "en": "St. Catharinenkirche am Jellenbek"
+          },
+          "coords": [
+            10.054556,
+            54.477738
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Bedeutung dieser malerischen Kirche am Flussufer und kommen Sie früh, um die friedliche Landschaft voll auszukosten.",
+            "hu": "Csodálja meg ennek a folyóparti festői templomnak a történelmi jelentőségét, és érkezzen korán, hogy teljes mértékben értékelje a békés tájat.",
+            "ro": "Minunați-vă de importanța istorică a acestei biserici pitorești de lângă malul râului, sosind devreme pentru a aprecia peisajul pașnic înconjurător.",
+            "en": "Marvel at the historical significance of this picturesque church near the riverbank, arriving early to fully appreciate the serene surrounding landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Dreifaltigkeitskirche",
+            "hu": "Dreifaltigkeitskirche",
+            "ro": "Dreifaltigkeitskirche",
+            "en": "Dreifaltigkeitskirche"
+          },
+          "coords": [
+            10.050716,
+            54.467292
+          ],
+          "category": "religious",
+          "arrive_at": "10:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Betreten Sie diese charmante Dorfkirche, um die schlichte religiöse Architektur zu bewundern und einen Moment der Besinnung in den Bänken zu genießen.",
+            "hu": "Lépjen be ebbe a bájos helyi templomba, hogy megcsodálja letisztult vallási építészetét, és élvezze a csendes elmélkedés pillanatait a padsorokban.",
+            "ro": "Intrați în această biserică locală fermecătoare pentru a admira arhitectura sa religioasă sobră, bucurându-vă de un moment de reflecție în liniște.",
+            "en": "Step inside this charming local church to admire its understated religious architecture, taking time to enjoy a quiet moment of reflection in the pews."
+          }
+        },
+        {
+          "name": {
+            "de": "Großsteingrab Birkenmoor 5",
+            "hu": "Großsteingrab Birkenmoor 5",
+            "ro": "Großsteingrab Birkenmoor 5",
+            "en": "Großsteingrab Birkenmoor 5"
+          },
+          "coords": [
+            10.074164,
+            54.456258
+          ],
+          "category": "historical",
+          "arrive_at": "11:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Steinformationen dieser antiken Grabstätte und fotografieren Sie die moosbedeckten Findlinge im sanften Morgenlicht.",
+            "hu": "Fedezze fel ennek az ősi temetkezési helynek a lenyűgöző kőformációit, és szánjon időt a mohával borított sziklák lágy reggeli fényben való fotózására.",
+            "ro": "Descoperiți formațiunile de piatră fascinante ale acestui sit funerar antic, făcându-vă timp pentru a fotografia bolovanii acoperiți de mușchi.",
+            "en": "Discover the fascinating stone formations of this ancient burial site, taking a moment to photograph the moss-covered boulders in the soft morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Großsteingrab Birkenmoor 4",
+            "hu": "Großsteingrab Birkenmoor 4",
+            "ro": "Großsteingrab Birkenmoor 4",
+            "en": "Großsteingrab Birkenmoor 4"
+          },
+          "coords": [
+            10.072945,
+            54.456757
+          ],
+          "category": "historical",
+          "arrive_at": "12:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die bemerkenswerten Überreste dieses historischen Ganggrabes und achten Sie auf die lokalen Schautafeln, die die Ausgrabung erklären.",
+            "hu": "Vizsgálja meg ennek a történelmi folyosós sírnak a figyelemre méltó maradványait, és keresse a feltárást részletező helyi információs táblákat.",
+            "ro": "Examinați rămășițele structurale remarcabile ale acestui mormânt istoric de trecere, căutând panourile informative locale care detaliază excavarea.",
+            "en": "Examine the remarkable structural remnants of this historic passage grave, keeping an eye out for local informational plaques detailing its excavation."
+          }
+        },
+        {
+          "name": {
+            "de": "Langbett Birkenmoor 1",
+            "hu": "Langbett Birkenmoor 1",
+            "ro": "Langbett Birkenmoor 1",
+            "en": "Langbett Birkenmoor 1"
+          },
+          "coords": [
+            10.084423,
+            54.456853
+          ],
+          "category": "historical",
+          "arrive_at": "14:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses beeindruckende, längliche Hügelgrab im Waldgebiet, und ziehen Sie für die unebenen Waldwege am besten festes Schuhwerk an.",
+            "hu": "Csodálja meg ezt a lenyűgöző, erdőben megbúvó hosszúkás megalitikus sírt, és mindenképpen viseljen masszív cipőt a környék egyenetlen ösvényei miatt.",
+            "ro": "Admirați acest mormânt megalitic alungit impresionant ascuns în pădure și purtați încălțăminte robustă pentru a parcurge potecile denivelate de aici.",
+            "en": "Admire this impressive elongated megalithic tomb nestled in the forest, and be sure to wear sturdy shoes for the uneven dirt trails surrounding it."
+          }
+        },
+        {
+          "name": {
+            "de": "Großsteingrab Dänisch-Nienhof 3",
+            "hu": "Großsteingrab Dänisch-Nienhof 3",
+            "ro": "Großsteingrab Dänisch-Nienhof 3",
+            "en": "Großsteingrab Dänisch-Nienhof 3"
+          },
+          "coords": [
+            10.108272,
+            54.461835
+          ],
+          "category": "historical",
+          "arrive_at": "15:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Untersuchen Sie dieses gut erhaltene neolithische Kammergrab zwischen den Bäumen und bringen Sie einen Reiseführer mit, um seine Ursprünge zu verstehen.",
+            "hu": "Tanulmányozza ezt a fák között megbúvó, jól megőrzött újkőkorszaki kamrasírt, és hozzon magával egy jó útikalauzt az ősi eredetének megértéséhez.",
+            "ro": "Investigați acest mormânt cu cameră neolitic bine conservat ascuns printre copaci și aduceți un ghid bun pentru a-i înțelege originile străvechi.",
+            "en": "Investigate this well-preserved Neolithic chamber tomb hidden within the trees, and bring along a good field guide to understand its ancient origins."
+          }
+        },
+        {
+          "name": {
+            "de": "Großsteingrab Dänisch-Nienhof 1",
+            "hu": "Großsteingrab Dänisch-Nienhof 1",
+            "ro": "Großsteingrab Dänisch-Nienhof 1",
+            "en": "Großsteingrab Dänisch-Nienhof 1"
+          },
+          "coords": [
+            10.1025,
+            54.48075
+          ],
+          "category": "historical",
+          "arrive_at": "16:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses bedeutende Großsteingrab nahe der Küste und verbinden Sie Ihren Besuch mit einem ruhigen Nachmittagsspaziergang auf den Klippenwegen.",
+            "hu": "Fedezze fel ezt a jelentős partközeli megalitikus emlékművet, és kösse össze a látogatást egy békés délutáni sétával a közeli festői sziklaösvényeken.",
+            "ro": "Explorați acest monument megalitic semnificativ din apropierea coastei și combinați vizita cu o plimbare liniștită după-amiaza pe cărările stâncoase.",
+            "en": "Explore this significant megalithic monument near the coast, and combine your visit with a peaceful afternoon stroll along the nearby scenic cliff paths."
+          }
+        },
+        {
+          "name": {
+            "de": "FKK Strand Surendorf",
+            "hu": "FKK Strand Surendorf",
+            "ro": "FKK Strand Surendorf",
+            "en": "FKK Strand Surendorf"
+          },
+          "coords": [
+            10.090645,
+            54.481159
+          ],
+          "category": "recreational",
+          "arrive_at": "18:11",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem ruhigen FKK-Strand an der Ostsee, aber denken Sie daran, eigene Snacks mitzubringen, da die Infrastruktur oft begrenzt ist.",
+            "hu": "Pihenjen ezen a gyönyörű, nyugodt naturista strandon a Balti-tenger partján, de vigyen magával harapnivalót, mert a helyi szolgáltatások korlátozottak.",
+            "ro": "Relaxați-vă pe această plajă de nudiști frumoasă și liniștită de la Marea Baltică, neuitând să aduceți propriile gustări deoarece facilitățile sunt limitate.",
+            "en": "Relax at this beautiful and tranquil naturist beach by the Baltic Sea, remembering to pack your own snacks as local facilities can be limited off-season."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto steuern Sie zunächst die wunderschöne St. Catharinenkirche am Jellenbek an und besuchen danach die nahegelegene Dreifaltigkeitskirche. Gegen Mittag tauchen Sie in die tiefen Wälder ein, um die beeindruckenden Großsteingräber von Birkenmoor zu besichtigen. Der Nachmittag ist geprägt von einer Fahrt nach Dänisch-Nienhof, wo weitere prähistorische Monumente auf Sie warten. Zum Abschluss des Tages genießen Sie die ruhige Atmosphäre und die Meeresbrise am FKK Strand Surendorf.",
+        "hu": "Autóval először a gyönyörű St. Catharinenkirche-t látogatja meg, majd a közeli Dreifaltigkeitskirche-t. Délben az erdők mélyén fekvő lenyűgöző Birkenmoor-i megalitikus sírokat keresi fel. A délutáni autózás Dänisch-Nienhofba vezet, ahol további őskori műemlékek várják. A nap lezárásaként élvezheti a csendes atmoszférát és a tengeri szellőt a naturista strandon.",
+        "ro": "Cu mașina, vă îndreptați mai întâi spre frumoasa St. Catharinenkirche, apoi vizitați biserica Dreifaltigkeitskirche. La prânz intrați în pădurile adânci pentru a vedea mormintele megalitice din Birkenmoor. După-amiaza este marcată de un drum către Dänisch-Nienhof, unde vă așteaptă alte monumente preistorice. La sfârșitul zilei, bucurați-vă de briza mării la plaja de nudiști.",
+        "en": "By car, you first navigate to the beautiful St. Catharinenkirche before visiting the nearby Dreifaltigkeitskirche. Around midday, you'll delve into the forests to inspect the impressive megalithic tombs of Birkenmoor. The afternoon drive takes you to Dänisch-Nienhof, where further prehistoric monuments await. Finally, wrap up your day enjoying the serene atmosphere and sea breeze at the naturist beach."
+      }
+    }
+  }
+}

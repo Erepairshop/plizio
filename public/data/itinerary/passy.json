@@ -1,0 +1,474 @@
+{
+  "city_id": "passy",
+  "anchor": {
+    "name": "Passy",
+    "coords": [
+      6.6864,
+      45.9236
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 5.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Plateau d'Assy",
+            "hu": "Plateau d'Assy",
+            "ro": "Plateau d'Assy",
+            "en": "Plateau d'Assy"
+          },
+          "coords": [
+            6.705556,
+            45.9375
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Sanatoriumsarchitektur aus der Mitte des Jahrhunderts, während Sie von diesem historischen Plateau aus einen herrlichen Blick auf das Mont-Blanc-Massiv genießen.",
+            "hu": "Fedezze fel a századközepi szanatóriumok lenyűgöző építészetét, miközben erről a történelmi fennsíkról gyönyörködik a Mont Blanc-masszívum elsöprő kilátásában.",
+            "ro": "Descoperiți fascinanta arhitectură a sanatoriilor de la mijlocul secolului, bucurându-vă în același timp de o priveliște impresionantă asupra masivului Mont Blanc de pe acest platou istoric.",
+            "en": "Discover the fascinating mid-century sanatorium architecture while enjoying sweeping views of the Mont Blanc massif from this historic medical plateau."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-de-Toute-Grâce",
+            "hu": "Église Notre-Dame-de-Toute-Grâce",
+            "ro": "Église Notre-Dame-de-Toute-Grâce",
+            "en": "Église Notre-Dame-de-Toute-Grâce"
+          },
+          "coords": [
+            6.710556,
+            45.939444
+          ],
+          "category": "religious",
+          "arrive_at": "10:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Treten Sie ein in dieses moderne Kunstwerk, das von Chagall und Matisse geschmückt wurde, und betrachten Sie die bemerkenswerte Mosaikfassade, die von der Morgensonne beleuchtet wird.",
+            "hu": "Lépjen be ebbe a Chagall és Matisse által díszített modern művészeti remekműbe, és figyelje meg a reggeli napsütésben pompázó, figyelemre méltó mozaikhomlokzatot.",
+            "ro": "Pășiți în această capodoperă artistică modernă împodobită de Chagall și Matisse și priviți îndeaproape remarcabila fațadă din mozaic luminată de soarele dimineții.",
+            "en": "Step inside this modern artistic masterpiece adorned by Chagall and Matisse, and look closely at the remarkable mosaic facade illuminated by the morning sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin des Cimes",
+            "hu": "Jardin des Cimes",
+            "ro": "Jardin des Cimes",
+            "en": "Jardin des Cimes"
+          },
+          "coords": [
+            6.708754,
+            45.941081
+          ],
+          "category": "recreational",
+          "arrive_at": "11:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diese einzigartigen alpinen Themengärten, die Kunst und Natur verbinden, und kehren Sie unbedingt auf der Café-Terrasse auf eine lokale Erfrischung ein.",
+            "hu": "Sétáljon végig ezeken a művészetet és természetet ötvöző, egyedi témájú alpesi kerteken, és mindenképpen álljon meg a kávézó teraszán egy helyi alapanyagokból készült frissítőre.",
+            "ro": "Plimbați-vă prin aceste grădini alpine cu o tematică unică ce îmbină arta și natura și asigurați-vă că vă opriți la terasa cafenelei pentru o băutură răcoritoare locală.",
+            "en": "Stroll through these uniquely themed alpine gardens that blend art and nature, and make sure to stop by the café terrace for a locally sourced refreshment."
+          }
+        },
+        {
+          "name": {
+            "de": "Passy Plaine-Joux",
+            "hu": "Passy Plaine-Joux",
+            "ro": "Passy Plaine-Joux",
+            "en": "Passy Plaine-Joux"
+          },
+          "coords": [
+            6.74016,
+            45.9508
+          ],
+          "category": "recreational",
+          "arrive_at": "13:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 53,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie von diesem familienfreundlichen Erholungsgebiet aus, wie Gleitschirmflieger ins Tal starten, wo Sie auch hervorragende sonnige Plätze für ein entspanntes Nachmittagspicknick finden.",
+            "hu": "Figyelje meg a völgybe induló siklóernyősöket erről a családbarát pihenőhelyről, amely kiváló, napos helyeket kínál egy laza délutáni piknikhez.",
+            "ro": "Priviți parapantiștii lansându-se în vale din această zonă de agrement ideală pentru familii, care oferă locuri însorite excelente pentru un picnic relaxant de după-amiază.",
+            "en": "Watch paragliders launch into the valley from this family-friendly recreational area, which offers excellent sunny spots for a relaxed afternoon picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac Vert",
+            "hu": "Lac Vert",
+            "ro": "Lac Vert",
+            "en": "Lac Vert"
+          },
+          "coords": [
+            6.75308,
+            45.94996
+          ],
+          "category": "natural",
+          "arrive_at": "14:59",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das außergewöhnliche smaragdgrüne Wasser, das von hohen immergrünen Bäumen umgeben ist, aber denken Sie daran, dass das Schwimmen strengstens verboten ist.",
+            "hu": "Csodálja meg a magas örökzöldekkel körülvett, rendkívüli smaragdzöld vizet, de ne feledje, hogy a fürdőzés szigorúan tilos a kényes ökoszisztéma védelme érdekében.",
+            "ro": "Minunați-vă de apele de un smarald extraordinar înconjurate de conifere înalte, dar rețineți că înotul este strict interzis pentru a proteja ecosistemul delicat.",
+            "en": "Marvel at the extraordinary emerald waters surrounded by tall evergreens, but remember that swimming is strictly prohibited to protect the delicate ecosystem."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt auf dem historischen Plateau d'Assy, wo Sie Architektur aus der Mitte des Jahrhunderts und eine kunstvolle Kirche entdecken. Mittags besuchen Sie den lebhaften Jardin des Cimes für ein botanisches Erlebnis. Am Nachmittag wandern Sie hinauf nach Plaine-Joux und werden mit weiten Talblicken belohnt. Der Abend klingt friedlich am smaragdgrünen Wasser des Lac Vert aus.",
+        "hu": "A reggel a történelmi Plateau d'Assy-n kezdődik, ahol századközepi építészetet és egy művészetekkel teli templomot fedezhet fel. Délben a nyüzsgő Jardin des Cimes várja Önt egy botanikai élményre. Délután felgyalogol a Plaine-Joux felé, erőfeszítéseit lenyűgöző völgyi kilátás jutalmazza. Az este békésen zárul a Lac Vert smaragdzöld vizénél.",
+        "ro": "Dimineața începe pe istoricul Plateau d'Assy, unde veți descoperi arhitectura de la mijlocul secolului și o biserică plină de artă. La prânz veți vizita vibrantul Jardin des Cimes pentru o experiență botanică imersivă. După-amiaza, veți urca spre Plaine-Joux, răsplătindu-vă eforturile cu priveliști ample. Seara se încheie liniștit la apele de smarald ale Lac Vert.",
+        "en": "Morning begins on the historic Plateau d'Assy, where you will discover incredible mid-century architecture and an art-filled church. Midday brings you to the vibrant Jardin des Cimes for an immersive botanical experience. In the afternoon, you will hike up toward Plaine-Joux, rewarding your efforts with sweeping valley views. The evening concludes peacefully at the emerald waters of Lac Vert."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:51",
+      "total_km": 13.25,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Lacs de la Cavettaz",
+            "hu": "Lacs de la Cavettaz",
+            "ro": "Lacs de la Cavettaz",
+            "en": "Lacs de la Cavettaz"
+          },
+          "coords": [
+            6.656313,
+            45.923112
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Morgenspaziergang um diese stillen Seen im unteren Tal, wo die Beobachtung lokaler Wasservögel zur heiteren Atmosphäre beiträgt.",
+            "hu": "Élvezze a békés reggeli sétát az alsó völgy csendes tavai körül, ahol a helyi vízimadarak megfigyelése tovább fokozza a nyugodt hangulatot.",
+            "ro": "Bucurați-vă de o plimbare matinală liniștită în jurul acestor lacuri liniștite din valea inferioară, unde observarea păsărilor de apă locale sporește atmosfera senină.",
+            "en": "Enjoy a peaceful morning walk around these quiet lower valley lakes, where keeping an eye out for local waterfowl adds to the serene atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "2e Lac des Ilettes",
+            "hu": "2e Lac des Ilettes",
+            "ro": "2e Lac des Ilettes",
+            "en": "2e Lac des Ilettes"
+          },
+          "coords": [
+            6.638813,
+            45.953721
+          ],
+          "category": "natural",
+          "arrive_at": "10:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den Sandstränden dieses beliebten Badesees und kommen Sie in den Sommermonaten früh, um sich einen guten Platz am klaren Bergwasser zu sichern.",
+            "hu": "Pihenjen a népszerű fürdőtó homokos strandjain, és a nyári hónapokban érkezzen korán, hogy jó helyet biztosítson magának a tiszta hegyi víz közelében.",
+            "ro": "Relaxați-vă pe plajele cu nisip ale acestui popular lac de înot și ajungeți devreme în timpul verii pentru a vă asigura un loc bun lângă apa limpede de munte.",
+            "en": "Relax on the sandy beaches of this popular swimming lake, and arrive early during summer months to secure a good spot near the clear mountain water."
+          }
+        },
+        {
+          "name": {
+            "de": "3e Lac des Ilettes",
+            "hu": "3e Lac des Ilettes",
+            "ro": "3e Lac des Ilettes",
+            "en": "3e Lac des Ilettes"
+          },
+          "coords": [
+            6.636247,
+            45.960462
+          ],
+          "category": "natural",
+          "arrive_at": "12:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Versuchen Sie sich im Windsurfen oder genießen Sie einfach die ruhigen Spiegelungen der umliegenden Gipfel auf der Oberfläche dieses etwas aktiveren Gewässers.",
+            "hu": "Próbálja ki a szörfözést, vagy egyszerűen csak élvezze a környező csúcsok nyugodt tükröződését ezen a valamivel aktívabb vízfelületen.",
+            "ro": "Încercați-vă la windsurfing sau pur și simplu bucurați-vă de reflexiile liniștite ale vârfurilor înconjurătoare pe suprafața acestui corp de apă ușor mai activ.",
+            "en": "Try your hand at windsurfing or simply enjoy the tranquil reflections of the surrounding peaks on the surface of this slightly more active water body."
+          }
+        },
+        {
+          "name": {
+            "de": "Cascade de l'Arpenaz",
+            "hu": "Cascade de l'Arpenaz",
+            "ro": "Cascade de l'Arpenaz",
+            "en": "Cascade de l'Arpenaz"
+          },
+          "coords": [
+            6.642222,
+            45.976389
+          ],
+          "category": "natural",
+          "arrive_at": "13:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen herrlichen 270 Meter hohen Wasserfall und tragen Sie eine leichte wasserdichte Jacke, wenn Sie sich dem erfrischenden, nebligen Tauchbecken nähern möchten.",
+            "hu": "Álljon lenyűgözve e csodálatos, 270 méteres vízesés előtt, és viseljen könnyű vízálló kabátot, ha közel szeretne menni a frissítő, ködös medencéhez.",
+            "ro": "Stați cu uimire în fața acestei magnifice cascade de 270 de metri și purtați o jachetă ușoară impermeabilă dacă intenționați să vă apropiați de bazinul revigorant cu ceață.",
+            "en": "Stand in awe of this magnificent 270-meter waterfall, and wear a light waterproof jacket if you plan to get close to the refreshing, misty plunge pool."
+          }
+        },
+        {
+          "name": {
+            "de": "Plateau d'Assy",
+            "hu": "Plateau d'Assy",
+            "ro": "Plateau d'Assy",
+            "en": "Plateau d'Assy"
+          },
+          "coords": [
+            6.705556,
+            45.9375
+          ],
+          "category": "historical",
+          "arrive_at": "15:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Sanatoriumsarchitektur aus der Mitte des Jahrhunderts, während Sie von diesem historischen Plateau aus einen herrlichen Blick auf das Mont-Blanc-Massiv genießen.",
+            "hu": "Fedezze fel a századközepi szanatóriumok lenyűgöző építészetét, miközben erről a történelmi fennsíkról gyönyörködik a Mont Blanc-masszívum elsöprő kilátásában.",
+            "ro": "Descoperiți fascinanta arhitectură a sanatoriilor de la mijlocul secolului, bucurându-vă în același timp de o priveliște impresionantă asupra masivului Mont Blanc de pe acest platou istoric.",
+            "en": "Discover the fascinating mid-century sanatorium architecture while enjoying sweeping views of the Mont Blanc massif from this historic medical plateau."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-de-Toute-Grâce",
+            "hu": "Église Notre-Dame-de-Toute-Grâce",
+            "ro": "Église Notre-Dame-de-Toute-Grâce",
+            "en": "Église Notre-Dame-de-Toute-Grâce"
+          },
+          "coords": [
+            6.710556,
+            45.939444
+          ],
+          "category": "religious",
+          "arrive_at": "16:41",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Treten Sie ein in dieses moderne Kunstwerk, das von Chagall und Matisse geschmückt wurde, und betrachten Sie die bemerkenswerte Mosaikfassade, die von der Morgensonne beleuchtet wird.",
+            "hu": "Lépjen be ebbe a Chagall és Matisse által díszített modern művészeti remekműbe, és figyelje meg a reggeli napsütésben pompázó, figyelemre méltó mozaikhomlokzatot.",
+            "ro": "Pășiți în această capodoperă artistică modernă împodobită de Chagall și Matisse și priviți îndeaproape remarcabila fațadă din mozaic luminată de soarele dimineții.",
+            "en": "Step inside this modern artistic masterpiece adorned by Chagall and Matisse, and look closely at the remarkable mosaic facade illuminated by the morning sun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag mit der Erkundung der ruhigen Lacs de la Cavettaz, bevor Sie zu den beliebten Ilettes-Seen radeln. Gegen Mittag erreichen Sie die spektakuläre Cascade de l'Arpenaz. Der Nachmittag beinhaltet einen anspruchsvollen, aber lohnenden Aufstieg zum Plateau d'Assy. Ihr aktiver Tag endet mit der modernen Kunst der Église Notre-Dame.",
+        "hu": "Kezdje a kerékpáros napot a nyugodt Lacs de la Cavettaz felfedezésével, majd tekerjen a népszerű Ilettes tavak felé. Délre eléri a látványos Cascade de l'Arpenaz-t, amely tökéletes egy frissítő pihenőre. A délután kihívást jelentő, de megéri a Plateau d'Assy-ra való emelkedést. Az aktív nap a Notre-Dame templom modern művészetével zárul.",
+        "ro": "Începeți ziua de ciclism explorând liniștitele Lacs de la Cavettaz înainte de a pedala spre popularele lacuri Ilettes. Până la prânz, veți ajunge la spectaculoasa cascadă Arpenaz. După-amiaza implică o urcare provocatoare, dar plină de satisfacții, până la Plateau d'Assy. Ziua dumneavoastră activă se încheie cu arta modernă de la Église Notre-Dame.",
+        "en": "Start your cycling day exploring the tranquil Lacs de la Cavettaz before rolling towards the popular Ilettes lakes. By midday, you'll reach the spectacular Cascade de l'Arpenaz, perfect for a refreshing break. The afternoon involves a challenging but rewarding climb up to the Plateau d'Assy. Your active day ends with the remarkable modern art of the Église Notre-Dame."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:36",
+      "total_km": 21.05,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cascade de l'Arpenaz",
+            "hu": "Cascade de l'Arpenaz",
+            "ro": "Cascade de l'Arpenaz",
+            "en": "Cascade de l'Arpenaz"
+          },
+          "coords": [
+            6.642222,
+            45.976389
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen herrlichen 270 Meter hohen Wasserfall und tragen Sie eine leichte wasserdichte Jacke, wenn Sie sich dem erfrischenden, nebligen Tauchbecken nähern möchten.",
+            "hu": "Álljon lenyűgözve e csodálatos, 270 méteres vízesés előtt, és viseljen könnyű vízálló kabátot, ha közel szeretne menni a frissítő, ködös medencéhez.",
+            "ro": "Stați cu uimire în fața acestei magnifice cascade de 270 de metri și purtați o jachetă ușoară impermeabilă dacă intenționați să vă apropiați de bazinul revigorant cu ceață.",
+            "en": "Stand in awe of this magnificent 270-meter waterfall, and wear a light waterproof jacket if you plan to get close to the refreshing, misty plunge pool."
+          }
+        },
+        {
+          "name": {
+            "de": "3e Lac des Ilettes",
+            "hu": "3e Lac des Ilettes",
+            "ro": "3e Lac des Ilettes",
+            "en": "3e Lac des Ilettes"
+          },
+          "coords": [
+            6.636247,
+            45.960462
+          ],
+          "category": "natural",
+          "arrive_at": "10:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Versuchen Sie sich im Windsurfen oder genießen Sie einfach die ruhigen Spiegelungen der umliegenden Gipfel auf der Oberfläche dieses etwas aktiveren Gewässers.",
+            "hu": "Próbálja ki a szörfözést, vagy egyszerűen csak élvezze a környező csúcsok nyugodt tükröződését ezen a valamivel aktívabb vízfelületen.",
+            "ro": "Încercați-vă la windsurfing sau pur și simplu bucurați-vă de reflexiile liniștite ale vârfurilor înconjurătoare pe suprafața acestui corp de apă ușor mai activ.",
+            "en": "Try your hand at windsurfing or simply enjoy the tranquil reflections of the surrounding peaks on the surface of this slightly more active water body."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-de-Toute-Grâce",
+            "hu": "Église Notre-Dame-de-Toute-Grâce",
+            "ro": "Église Notre-Dame-de-Toute-Grâce",
+            "en": "Église Notre-Dame-de-Toute-Grâce"
+          },
+          "coords": [
+            6.710556,
+            45.939444
+          ],
+          "category": "religious",
+          "arrive_at": "11:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Treten Sie ein in dieses moderne Kunstwerk, das von Chagall und Matisse geschmückt wurde, und betrachten Sie die bemerkenswerte Mosaikfassade, die von der Morgensonne beleuchtet wird.",
+            "hu": "Lépjen be ebbe a Chagall és Matisse által díszített modern művészeti remekműbe, és figyelje meg a reggeli napsütésben pompázó, figyelemre méltó mozaikhomlokzatot.",
+            "ro": "Pășiți în această capodoperă artistică modernă împodobită de Chagall și Matisse și priviți îndeaproape remarcabila fațadă din mozaic luminată de soarele dimineții.",
+            "en": "Step inside this modern artistic masterpiece adorned by Chagall and Matisse, and look closely at the remarkable mosaic facade illuminated by the morning sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin des Cimes",
+            "hu": "Jardin des Cimes",
+            "ro": "Jardin des Cimes",
+            "en": "Jardin des Cimes"
+          },
+          "coords": [
+            6.708754,
+            45.941081
+          ],
+          "category": "recreational",
+          "arrive_at": "12:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diese einzigartigen alpinen Themengärten, die Kunst und Natur verbinden, und kehren Sie unbedingt auf der Café-Terrasse auf eine lokale Erfrischung ein.",
+            "hu": "Sétáljon végig ezeken a művészetet és természetet ötvöző, egyedi témájú alpesi kerteken, és mindenképpen álljon meg a kávézó teraszán egy helyi alapanyagokból készült frissítőre.",
+            "ro": "Plimbați-vă prin aceste grădini alpine cu o tematică unică ce îmbină arta și natura și asigurați-vă că vă opriți la terasa cafenelei pentru o băutură răcoritoare locală.",
+            "en": "Stroll through these uniquely themed alpine gardens that blend art and nature, and make sure to stop by the café terrace for a locally sourced refreshment."
+          }
+        },
+        {
+          "name": {
+            "de": "Passy Plaine-Joux",
+            "hu": "Passy Plaine-Joux",
+            "ro": "Passy Plaine-Joux",
+            "en": "Passy Plaine-Joux"
+          },
+          "coords": [
+            6.74016,
+            45.9508
+          ],
+          "category": "recreational",
+          "arrive_at": "14:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie von diesem familienfreundlichen Erholungsgebiet aus, wie Gleitschirmflieger ins Tal starten, wo Sie auch hervorragende sonnige Plätze für ein entspanntes Nachmittagspicknick finden.",
+            "hu": "Figyelje meg a völgybe induló siklóernyősöket erről a családbarát pihenőhelyről, amely kiváló, napos helyeket kínál egy laza délutáni piknikhez.",
+            "ro": "Priviți parapantiștii lansându-se în vale din această zonă de agrement ideală pentru familii, care oferă locuri însorite excelente pentru un picnic relaxant de după-amiază.",
+            "en": "Watch paragliders launch into the valley from this family-friendly recreational area, which offers excellent sunny spots for a relaxed afternoon picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac Vert",
+            "hu": "Lac Vert",
+            "ro": "Lac Vert",
+            "en": "Lac Vert"
+          },
+          "coords": [
+            6.75308,
+            45.94996
+          ],
+          "category": "natural",
+          "arrive_at": "15:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das außergewöhnliche smaragdgrüne Wasser, das von hohen immergrünen Bäumen umgeben ist, aber denken Sie daran, dass das Schwimmen strengstens verboten ist.",
+            "hu": "Csodálja meg a magas örökzöldekkel körülvett, rendkívüli smaragdzöld vizet, de ne feledje, hogy a fürdőzés szigorúan tilos a kényes ökoszisztéma védelme érdekében.",
+            "ro": "Minunați-vă de apele de un smarald extraordinar înconjurate de conifere înalte, dar rețineți că înotul este strict interzis pentru a proteja ecosistemul delicat.",
+            "en": "Marvel at the extraordinary emerald waters surrounded by tall evergreens, but remember that swimming is strictly prohibited to protect the delicate ecosystem."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac des Chavants",
+            "hu": "Lac des Chavants",
+            "ro": "Lac des Chavants",
+            "en": "Lac des Chavants"
+          },
+          "coords": [
+            6.782246,
+            45.896165
+          ],
+          "category": "natural",
+          "arrive_at": "16:51",
+          "stay_min": 105,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag in dieser wunderschön angelegten Anlage mit Kletterwand und Tennisplätzen, die sich perfekt für einen abendlichen Spaziergang mit Bergblick eignet.",
+            "hu": "Fejezze be a napot ezen a gyönyörűen parkosított, mászófallal és teniszpályákkal rendelkező területen, amely tökéletes egy kellemes esti sétához hegyi kilátással.",
+            "ro": "Încheiați-vă ziua în această zonă frumos amenajată, cu un perete de escaladă și terenuri de tenis, perfectă pentru o plimbare blândă de seară cu vedere la munte.",
+            "en": "Finish your day at this beautifully landscaped area featuring a climbing wall and tennis courts, perfect for a gentle evening stroll with mountain views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre malerische Fahrt beginnt am hoch aufragenden Wasserfall Arpenaz und führt rasch zu den ruhigen Ilettes-Seen. Mittags fahren Sie den Berg hinauf, um die Kunst und Architektur des Plateau d'Assy zu bewundern. Nach einem sonnigen Nachmittag in Plaine-Joux und am Lac Vert fahren Sie nach Süden, um den Abend am wunderschönen Lac des Chavants ausklingen zu lassen.",
+        "hu": "Szép autós túrája a magasodó Arpenaz vízesésnél kezdődik, majd a nyugodt Ilettes tavakhoz vezet. Délben hegyi út vezet a Plateau d'Assy művészetének megcsodálásához. A Plaine-Joux-ban és a smaragdzöld Lac Vertnél töltött napsütéses délután után délre autózva fejezze be az estét a szépen parkosított Lac des Chavants körül.",
+        "ro": "Traseul dvs. pitoresc începe la cascada înaltă Arpenaz, trecând rapid la lacurile liniștite Ilettes. La prânz, veți conduce pe munte pentru a admira arta de la Plateau d'Assy. După o după-amiază însorită la Plaine-Joux și Lac Vert, conduceți spre sud pentru a termina seara plimbându-vă în jurul lacului frumos amenajat Lac des Chavants.",
+        "en": "Your scenic drive begins at the towering Cascade de l'Arpenaz, moving swiftly to the serene Ilettes lakes. Midday features a drive up the mountain to admire the art and architecture of Plateau d'Assy and Jardin des Cimes. After a sunny afternoon at Plaine-Joux and the emerald Lac Vert, drive south to finish the evening strolling around the beautifully landscaped Lac des Chavants."
+      }
+    }
+  }
+}

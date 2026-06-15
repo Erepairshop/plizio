@@ -1,0 +1,520 @@
+{
+  "city_id": "italy-rosa-marina-di-ostuni-cities-v2",
+  "anchor": {
+    "name": "Rosa Marina di Ostuni",
+    "coords": [
+      17.54502,
+      40.79379
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:05",
+      "total_km": 2.99,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "la masseria",
+            "hu": "la masseria",
+            "ro": "la masseria",
+            "en": "la masseria"
+          },
+          "coords": [
+            17.546006,
+            40.792856
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Mauern dieser traditionellen apulischen Masseria, die vom ländlichen Erbe zeugt, und kommen Sie am besten früh morgens für schönes Licht.",
+            "hu": "Fedezze fel ennek a hagyományos apuliai masseriának a történelmi falait, amely a vidéki örökségről tanúskodik, és érkezzen kora reggel a legjobb fotókhoz.",
+            "ro": "Explorați zidurile istorice ale acestei masserii tradiționale apuliene, o mărturie a moștenirii rurale, și veniți dimineața devreme pentru cea mai bună lumină.",
+            "en": "Explore the historic walls of this traditional Apulian masseria, a testament to the region's rural heritage, and arrive early in the morning for the best photography light."
+          }
+        },
+        {
+          "name": {
+            "de": "Insediamento di Lama Pilone",
+            "hu": "Insediamento di Lama Pilone",
+            "ro": "Insediamento di Lama Pilone",
+            "en": "Insediamento di Lama Pilone"
+          },
+          "coords": [
+            17.546174,
+            40.801469
+          ],
+          "category": "historical",
+          "arrive_at": "10:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Überreste dieser antiken Siedlung, die tiefe Einblicke in die Vorgeschichte bietet, und tragen Sie unbedingt feste Wanderschuhe für das raue Gelände.",
+            "hu": "Fedezze fel ennek az ősi településnek a lenyűgöző maradványait, amely betekintést nyújt a történelem előtti időkbe, és mindenképpen viseljen masszív túracipőt a terep miatt.",
+            "ro": "Descoperiți rămășițele fascinante ale acestei așezări antice, care oferă o perspectivă asupra preistoriei locale, și asigurați-vă că purtați încălțăminte robustă pentru terenul accidentat.",
+            "en": "Discover the fascinating remains of this ancient settlement, which offers a deep dive into local prehistory, and make sure to wear sturdy hiking shoes for the rugged terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre San Leonardo",
+            "hu": "Torre San Leonardo",
+            "ro": "Torre San Leonardo",
+            "en": "Torre San Leonardo"
+          },
+          "coords": [
+            17.53763,
+            40.807292
+          ],
+          "category": "tower",
+          "arrive_at": "12:21",
+          "stay_min": 30,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen historischen Küstenwachturm, der einst vor Piratenangriffen schützte, und genießen Sie von der Basis aus einen fantastischen Blick auf das Adriatische Meer.",
+            "hu": "Csodálja meg ezt a történelmi tengerparti őrtornyot, amely egykor a kalóztámadások ellen védett, és élvezze az Adriai-tengerre nyíló fantasztikus kilátást a tövéből.",
+            "ro": "Admirați acest turn de pază istoric de pe coastă, care odinioară proteja împotriva atacurilor piraților, și bucurați-vă de o vedere fantastică a Mării Adriatice de la baza sa.",
+            "en": "Admire this historic coastal watchtower, which once protected against pirate attacks, and enjoy a fantastic view of the Adriatic Sea from its base before heading to the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Pilone 2",
+            "hu": "Spiaggia di Pilone 2",
+            "ro": "Spiaggia di Pilone 2",
+            "en": "Spiaggia di Pilone 2"
+          },
+          "coords": [
+            17.53378,
+            40.807943
+          ],
+          "category": "recreational",
+          "arrive_at": "12:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Sandstrand mit kristallklarem Wasser, der perfekt für eine Erfrischung ist, und bringen Sie Ihren eigenen Sonnenschirm mit, da Schattenplätze rar sind.",
+            "hu": "Pihenjen ezen a festői, kristálytiszta vizű homokos strandon, amely tökéletes egy kis felfrissülésre, de hozzon magával napernyőt, mivel kevés az árnyék.",
+            "ro": "Relaxați-vă pe această plajă pitorească cu nisip și apă cristalină, perfectă pentru o baie răcoritoare, și aduceți-vă propria umbrelă, deoarece locurile cu umbră sunt rare.",
+            "en": "Relax on this picturesque sandy beach with crystal-clear water, which is perfect for a refreshing dip, and bring your own umbrella since natural shade is quite scarce here."
+          }
+        },
+        {
+          "name": {
+            "de": "LullaBay",
+            "hu": "LullaBay",
+            "ro": "LullaBay",
+            "en": "LullaBay"
+          },
+          "coords": [
+            17.529211,
+            40.808683
+          ],
+          "category": "recreational",
+          "arrive_at": "14:20",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.51,
+          "tip_5lang": {
+            "de": "Genießen Sie die entspannte Atmosphäre in diesem beliebten Strandclub, wo coole Musik und kühle Drinks auf Sie warten, und reservieren Sie am Wochenende unbedingt eine Sonnenliege im Voraus.",
+            "hu": "Élvezze a nyugodt légkört ebben a népszerű strandklubban, ahol menő zene és hűtött italok várják, és hétvégén mindenképpen foglaljon előre napágyat.",
+            "ro": "Bucurați-vă de atmosfera relaxantă din acest club de plajă popular, unde vă așteaptă muzică bună și băuturi reci, și asigurați-vă că rezervați un șezlong în avans în weekend.",
+            "en": "Enjoy the laid-back atmosphere at this popular beach club, where cool music and refreshing drinks await, and make sure to reserve a sunbed in advance if visiting on a weekend."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der Erkundung des ländlichen Erbes in der Masseria und der antiken Siedlung in der Nähe. Am Mittag erreichen Sie den dramatischen Küstenwachturm Torre San Leonardo. Nachmittags entspannen Sie im weichen Sand der Spiaggia di Pilone. Beenden Sie Ihren Tag im LullaBay, wo Sie die kühle Meeresbrise und ein erfrischendes Getränk genießen können.",
+        "hu": "Kezdje a reggelt a vidéki örökség felfedezésével a masseriában és a közeli ősi településen. Délben érkezzen meg a drámai tengerparti őrtoronyhoz, a Torre San Leonardóhoz. Délután pihenjen a Spiaggia di Pilone puha homokjában. Zárja a napot a LullaBay-ben, élvezve a hűvös tengeri szellőt és egy frissítő italt.",
+        "ro": "Începeți dimineața explorând moștenirea rurală la masseria și așezarea antică din apropiere. La prânz ajungeți la turnul de pază dramatic de pe coastă, Torre San Leonardo. După-amiaza vă relaxați pe nisipul fin de la Spiaggia di Pilone. Încheiați ziua la LullaBay, bucurându-vă de briza mării și o băutură răcoritoare.",
+        "en": "Start your morning exploring the ancient rural heritage at the local masseria and the historic settlement nearby. Midday brings you to the dramatic coastal watchtower, Torre San Leonardo, offering great views. In the afternoon, unwind on the soft sands of Spiaggia di Pilone. Conclude your day relaxing at LullaBay, enjoying the cool sea breeze and a refreshing drink."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:33",
+      "total_km": 6.08,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rosa Marina - Sito Pluristratificato",
+            "hu": "Rosa Marina - Sito Pluristratificato",
+            "ro": "Rosa Marina - Sito Pluristratificato",
+            "en": "Rosa Marina - Sito Pluristratificato"
+          },
+          "coords": [
+            17.551661,
+            40.783828
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erforschen Sie diese mehrschichtige archäologische Stätte, die die kontinuierliche Besiedlung der Region zeigt, und achten Sie besonders auf die deutlich erkennbaren Erdschichten.",
+            "hu": "Fedezze fel ezt a többrétegű régészeti lelőhelyet, amely a régió folyamatos betelepülését mutatja be, és figyeljen a jól elkülöníthető földrétegekre.",
+            "ro": "Explorați acest sit arheologic pluristratificat, care arată așezarea continuă în regiune, și acordați o atenție deosebită straturilor de pământ clar vizibile.",
+            "en": "Explore this multi-stratified archaeological site, which demonstrates the continuous settlement of the region, and pay special attention to the clearly visible layers of earth."
+          }
+        },
+        {
+          "name": {
+            "de": "la masseria",
+            "hu": "la masseria",
+            "ro": "la masseria",
+            "en": "la masseria"
+          },
+          "coords": [
+            17.546006,
+            40.792856
+          ],
+          "category": "historical",
+          "arrive_at": "10:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Mauern dieser traditionellen apulischen Masseria, die vom ländlichen Erbe zeugt, und kommen Sie am besten früh morgens für schönes Licht.",
+            "hu": "Fedezze fel ennek a hagyományos apuliai masseriának a történelmi falait, amely a vidéki örökségről tanúskodik, és érkezzen kora reggel a legjobb fotókhoz.",
+            "ro": "Explorați zidurile istorice ale acestei masserii tradiționale apuliene, o mărturie a moștenirii rurale, și veniți dimineața devreme pentru cea mai bună lumină.",
+            "en": "Explore the historic walls of this traditional Apulian masseria, a testament to the region's rural heritage, and arrive early in the morning for the best photography light."
+          }
+        },
+        {
+          "name": {
+            "de": "Insediamento di Lama Pilone",
+            "hu": "Insediamento di Lama Pilone",
+            "ro": "Insediamento di Lama Pilone",
+            "en": "Insediamento di Lama Pilone"
+          },
+          "coords": [
+            17.546174,
+            40.801469
+          ],
+          "category": "historical",
+          "arrive_at": "12:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Überreste dieser antiken Siedlung, die tiefe Einblicke in die Vorgeschichte bietet, und tragen Sie unbedingt feste Wanderschuhe für das raue Gelände.",
+            "hu": "Fedezze fel ennek az ősi településnek a lenyűgöző maradványait, amely betekintést nyújt a történelem előtti időkbe, és mindenképpen viseljen masszív túracipőt a terep miatt.",
+            "ro": "Descoperiți rămășițele fascinante ale acestei așezări antice, care oferă o perspectivă asupra preistoriei locale, și asigurați-vă că purtați încălțăminte robustă pentru terenul accidentat.",
+            "en": "Discover the fascinating remains of this ancient settlement, which offers a deep dive into local prehistory, and make sure to wear sturdy hiking shoes for the rugged terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Rinvenimento Litico Località Pilone",
+            "hu": "Rinvenimento Litico Località Pilone",
+            "ro": "Rinvenimento Litico Località Pilone",
+            "en": "Rinvenimento Litico Località Pilone"
+          },
+          "coords": [
+            17.556936,
+            40.807725
+          ],
+          "category": "historical",
+          "arrive_at": "13:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diesen bedeutenden Fundort von Steinwerkzeugen, der die frühe menschliche Präsenz belegt, und kombinieren Sie den Besuch mit einem Spaziergang entlang der nahen Küste.",
+            "hu": "Látogassa meg ezt a fontos kőszerszám-lelőhelyet, amely a korai emberi jelenlétet bizonyítja, és kösse össze a látogatást egy sétával a közeli tengerparton.",
+            "ro": "Vizitați acest sit important de unelte din piatră, care atestă prezența umană timpurie, și combinați vizita cu o plimbare de-a lungul coastei din apropiere.",
+            "en": "Visit this important lithic discovery site, which proves early human presence in the area, and easily combine the visit with a scenic walk along the nearby rugged coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre San Leonardo",
+            "hu": "Torre San Leonardo",
+            "ro": "Torre San Leonardo",
+            "en": "Torre San Leonardo"
+          },
+          "coords": [
+            17.53763,
+            40.807292
+          ],
+          "category": "tower",
+          "arrive_at": "14:56",
+          "stay_min": 30,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen historischen Küstenwachturm, der einst vor Piratenangriffen schützte, und genießen Sie von der Basis aus einen fantastischen Blick auf das Adriatische Meer.",
+            "hu": "Csodálja meg ezt a történelmi tengerparti őrtornyot, amely egykor a kalóztámadások ellen védett, és élvezze az Adriai-tengerre nyíló fantasztikus kilátást a tövéből.",
+            "ro": "Admirați acest turn de pază istoric de pe coastă, care odinioară proteja împotriva atacurilor piraților, și bucurați-vă de o vedere fantastică a Mării Adriatice de la baza sa.",
+            "en": "Admire this historic coastal watchtower, which once protected against pirate attacks, and enjoy a fantastic view of the Adriatic Sea from its base before heading to the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Pilone 2",
+            "hu": "Spiaggia di Pilone 2",
+            "ro": "Spiaggia di Pilone 2",
+            "en": "Spiaggia di Pilone 2"
+          },
+          "coords": [
+            17.53378,
+            40.807943
+          ],
+          "category": "recreational",
+          "arrive_at": "15:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Sandstrand mit kristallklarem Wasser, der perfekt für eine Erfrischung ist, und bringen Sie Ihren eigenen Sonnenschirm mit, da Schattenplätze rar sind.",
+            "hu": "Pihenjen ezen a festői, kristálytiszta vizű homokos strandon, amely tökéletes egy kis felfrissülésre, de hozzon magával napernyőt, mivel kevés az árnyék.",
+            "ro": "Relaxați-vă pe această plajă pitorească cu nisip și apă cristalină, perfectă pentru o baie răcoritoare, și aduceți-vă propria umbrelă, deoarece locurile cu umbră sunt rare.",
+            "en": "Relax on this picturesque sandy beach with crystal-clear water, which is perfect for a refreshing dip, and bring your own umbrella since natural shade is quite scarce here."
+          }
+        },
+        {
+          "name": {
+            "de": "El Cohiba",
+            "hu": "El Cohiba",
+            "ro": "El Cohiba",
+            "en": "El Cohiba"
+          },
+          "coords": [
+            17.525528,
+            40.809759
+          ],
+          "category": "recreational",
+          "arrive_at": "16:48",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.93,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag in diesem lebhaften Strandlokal ausklingen, das für seine tollen Cocktails bekannt ist, und probieren Sie unbedingt die lokalen Snacks, während die Sonne untergeht.",
+            "hu": "Zárja a napot ebben a nyüzsgő tengerparti bárban, amely remek koktéljairól ismert, és kóstolja meg a helyi rágcsálnivalókat, miközben a naplemente színeiben gyönyörködik.",
+            "ro": "Încheiați ziua în acest local plin de viață de pe plajă, cunoscut pentru cocktailurile sale grozave, și nu uitați să gustați gustările locale în timp ce soarele apune.",
+            "en": "End your day at this lively beachfront venue, which is well-known for its great cocktails, and be sure to try the local snacks while watching the stunning sunset colors."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radabenteuer beginnt im Süden mit den antiken Schichten von Rosa Marina und der charmanten Masseria. Gegen Mittag radeln Sie nordwärts zu prähistorischen Fundorten und dem alten Küstenwachturm. Am Nachmittag belohnen Sie sich mit einer Pause am weichen Sandstrand von Pilone. Abends lassen Sie die Seele im lebhaften El Cohiba bei fantastischen Ausblicken baumeln.",
+        "hu": "Kerékpáros kalandja délen kezdődik Rosa Marina ősi rétegeivel és a hangulatos masseriával. Dél körül észak felé teker a történelem előtti lelőhelyek és a régi tengerparti őrtorony felé. Délután megjutalmazhatja magát a Pilone puha homokos strandján. Este a nyüzsgő El Cohibában pihenhet, fantasztikus kilátás mellett.",
+        "ro": "Aventura dvs. pe bicicletă începe în sud, cu straturile antice ale Rosei Marina și fermecătoarea masseria. În jurul prânzului, pedalați spre nord spre situri preistorice și vechiul turn de pază. După-amiaza vă recompensați cu o pauză pe plaja cu nisip fin Pilone. Seara, relaxați-vă în animatul El Cohiba cu vederi fantastice.",
+        "en": "Your biking adventure begins in the south with the ancient layers of Rosa Marina and the charming local masseria. Around midday, pedal northwards to prehistoric sites and the old coastal watchtower. In the afternoon, reward yourself with a well-deserved break at Pilone's soft sandy beach. Spend your evening unwinding at the lively El Cohiba with fantastic sunset views."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:08",
+      "total_km": 10.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Cripta di San Michele Arcangelo",
+            "hu": "Cripta di San Michele Arcangelo",
+            "ro": "Cripta di San Michele Arcangelo",
+            "en": "Cripta di San Michele Arcangelo"
+          },
+          "coords": [
+            17.555746,
+            40.778013
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Fresken in dieser unterirdischen Felsenkirche, die eine mystische Atmosphäre ausstrahlt, und bringen Sie eine kleine Taschenlampe mit, um die Details zu sehen.",
+            "hu": "Fedezze fel a lenyűgöző freskókat ebben a földalatti sziklatemplomban, amely misztikus hangulatot áraszt, és hozzon magával egy kis zseblámpát a részletek megtekintéséhez.",
+            "ro": "Descoperiți frescele fascinante din această biserică rupestră subterană, care emană o atmosferă mistică, și aduceți o mică lanternă pentru a putea vedea detaliile ascunse.",
+            "en": "Discover the fascinating frescoes in this subterranean rock church, which exudes a deeply mystical atmosphere, and bring a small flashlight to see the hidden historical details."
+          }
+        },
+        {
+          "name": {
+            "de": "Villaggio Paleolitico Lamacornola",
+            "hu": "Villaggio Paleolitico Lamacornola",
+            "ro": "Villaggio Paleolitico Lamacornola",
+            "en": "Villaggio Paleolitico Lamacornola"
+          },
+          "coords": [
+            17.532318,
+            40.781547
+          ],
+          "category": "historical",
+          "arrive_at": "09:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Altsteinzeit ein bei den Überresten dieses alten Dorfes, das die raue Lebensweise unserer Vorfahren zeigt, und folgen Sie den markierten Pfaden zur Orientierung.",
+            "hu": "Merüljön el az őskőkorban ennek az ősi falunak a maradványainál, amely őseink zord életmódját mutatja be, és kövesse a kijelölt ösvényeket a tájékozódáshoz.",
+            "ro": "Cufundați-vă în epoca paleolitică la rămășițele acestui sat antic, care arată modul dur de viață al strămoșilor noștri, și urmați traseele marcate pentru o mai bună orientare.",
+            "en": "Immerse yourself in the Paleolithic era at the remains of this ancient village, which shows the harsh lifestyle of early humans, and follow the marked trails to avoid getting lost."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotta Difesa di Malta",
+            "hu": "Grotta Difesa di Malta",
+            "ro": "Grotta Difesa di Malta",
+            "en": "Grotta Difesa di Malta"
+          },
+          "coords": [
+            17.515381,
+            40.794368
+          ],
+          "category": "historical",
+          "arrive_at": "11:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses faszinierende Höhlensystem, das nicht nur geologisch interessant ist, sondern auch als historischer Zufluchtsort diente, und achten Sie auf die unebenen Böden.",
+            "hu": "Fedezze fel ezt a lenyűgöző barlangrendszert, amely nemcsak geológiailag érdekes, hanem történelmi menedékhelyként is szolgált, és ügyeljen az egyenetlen talajra.",
+            "ro": "Explorați acest sistem fascinant de peșteri, care nu este doar interesant din punct de vedere geologic, ci a servit și ca refugiu istoric, și aveți grijă la podelele inegale.",
+            "en": "Explore this fascinating cave system, which is not only geologically interesting but also served as a historic refuge, and watch your step carefully on the uneven, damp floors."
+          }
+        },
+        {
+          "name": {
+            "de": "la masseria",
+            "hu": "la masseria",
+            "ro": "la masseria",
+            "en": "la masseria"
+          },
+          "coords": [
+            17.546006,
+            40.792856
+          ],
+          "category": "historical",
+          "arrive_at": "12:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Mauern dieser traditionellen apulischen Masseria, die vom ländlichen Erbe zeugt, und kommen Sie am besten früh morgens für schönes Licht.",
+            "hu": "Fedezze fel ennek a hagyományos apuliai masseriának a történelmi falait, amely a vidéki örökségről tanúskodik, és érkezzen kora reggel a legjobb fotókhoz.",
+            "ro": "Explorați zidurile istorice ale acestei masserii tradiționale apuliene, o mărturie a moștenirii rurale, și veniți dimineața devreme pentru cea mai bună lumină.",
+            "en": "Explore the historic walls of this traditional Apulian masseria, a testament to the region's rural heritage, and arrive early in the morning for the best photography light."
+          }
+        },
+        {
+          "name": {
+            "de": "Insediamento di Lama Pilone",
+            "hu": "Insediamento di Lama Pilone",
+            "ro": "Insediamento di Lama Pilone",
+            "en": "Insediamento di Lama Pilone"
+          },
+          "coords": [
+            17.546174,
+            40.801469
+          ],
+          "category": "historical",
+          "arrive_at": "14:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Überreste dieser antiken Siedlung, die tiefe Einblicke in die Vorgeschichte bietet, und tragen Sie unbedingt feste Wanderschuhe für das raue Gelände.",
+            "hu": "Fedezze fel ennek az ősi településnek a lenyűgöző maradványait, amely betekintést nyújt a történelem előtti időkbe, és mindenképpen viseljen masszív túracipőt a terep miatt.",
+            "ro": "Descoperiți rămășițele fascinante ale acestei așezări antice, care oferă o perspectivă asupra preistoriei locale, și asigurați-vă că purtați încălțăminte robustă pentru terenul accidentat.",
+            "en": "Discover the fascinating remains of this ancient settlement, which offers a deep dive into local prehistory, and make sure to wear sturdy hiking shoes for the rugged terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre San Leonardo",
+            "hu": "Torre San Leonardo",
+            "ro": "Torre San Leonardo",
+            "en": "Torre San Leonardo"
+          },
+          "coords": [
+            17.53763,
+            40.807292
+          ],
+          "category": "tower",
+          "arrive_at": "15:29",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen historischen Küstenwachturm, der einst vor Piratenangriffen schützte, und genießen Sie von der Basis aus einen fantastischen Blick auf das Adriatische Meer.",
+            "hu": "Csodálja meg ezt a történelmi tengerparti őrtornyot, amely egykor a kalóztámadások ellen védett, és élvezze az Adriai-tengerre nyíló fantasztikus kilátást a tövéből.",
+            "ro": "Admirați acest turn de pază istoric de pe coastă, care odinioară proteja împotriva atacurilor piraților, și bucurați-vă de o vedere fantastică a Mării Adriatice de la baza sa.",
+            "en": "Admire this historic coastal watchtower, which once protected against pirate attacks, and enjoy a fantastic view of the Adriatic Sea from its base before heading to the beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Pilone 2",
+            "hu": "Spiaggia di Pilone 2",
+            "ro": "Spiaggia di Pilone 2",
+            "en": "Spiaggia di Pilone 2"
+          },
+          "coords": [
+            17.53378,
+            40.807943
+          ],
+          "category": "recreational",
+          "arrive_at": "16:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Sandstrand mit kristallklarem Wasser, der perfekt für eine Erfrischung ist, und bringen Sie Ihren eigenen Sonnenschirm mit, da Schattenplätze rar sind.",
+            "hu": "Pihenjen ezen a festői, kristálytiszta vizű homokos strandon, amely tökéletes egy kis felfrissülésre, de hozzon magával napernyőt, mivel kevés az árnyék.",
+            "ro": "Relaxați-vă pe această plajă pitorească cu nisip și apă cristalină, perfectă pentru o baie răcoritoare, și aduceți-vă propria umbrelă, deoarece locurile cu umbră sunt rare.",
+            "en": "Relax on this picturesque sandy beach with crystal-clear water, which is perfect for a refreshing dip, and bring your own umbrella since natural shade is quite scarce here."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotta del Gatto selvatico",
+            "hu": "Grotta del Gatto selvatico",
+            "ro": "Grotta del Gatto selvatico",
+            "en": "Grotta del Gatto selvatico"
+          },
+          "coords": [
+            17.519985,
+            40.801067
+          ],
+          "category": "historical",
+          "arrive_at": "17:18",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour an dieser versteckten Karsthöhle, die für ihre wilden Formationen bekannt ist, und lassen Sie sich von der wildromantischen Umgebung nahe der Küste verzaubern.",
+            "hu": "Fejezze be túráját ennél a rejtett karsztbarlangnál, amely vad formációiról ismert, és hagyja, hogy elvarázsolja a tengerpart közeli, vadregényes környezet szépsége.",
+            "ro": "Încheiați-vă turul la această peșteră carstică ascunsă, cunoscută pentru formațiunile sale sălbatice, și lăsați-vă fermecați de împrejurimile romantic-sălbatice de lângă coastă.",
+            "en": "End your tour at this hidden karst cave, which is renowned for its wild stalactite formations, and let the untamed natural beauty of the nearby coastline completely enchant you."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erschließen Sie mühelos das Inland: Starten Sie bei der mystischen Krypta und dem faszinierenden paläolithischen Dorf. Mittags geht es weiter zu einer historischen Karsthöhle und der typischen Masseria. Nachmittags erreichen Sie die malerische Küste mit ihrem Wachturm und entspannen am Strand von Pilone. Den Tag lassen Sie an der wilden Grotta del Gatto selvatico ausklingen.",
+        "hu": "Autóval könnyedén felfedezheti a szárazföldet: kezdje a misztikus kriptánál és a paleolitikumi falunál. Délben induljon el egy történelmi karsztbarlanghoz és a jellegzetes masseriához. Délután érje el a festői tengerpartot és annak őrtornyát, majd pihenjen a strandon. A napot a vad Grotta del Gatto selvatico barlangnál zárja.",
+        "ro": "Cu mașina, puteți explora cu ușurință interiorul: începeți la cripta mistică și fascinantul sat paleolitic. La prânz mergeți la o peșteră carstică istorică și la masseria tipică. După-amiaza ajungeți la coasta pitorească cu turnul de pază și vă relaxați pe plajă. Încheiați ziua în decorul sălbatic de la Grotta del Gatto selvatico.",
+        "en": "Driving allows you to easily uncover the interior: begin at the mystical crypt and the fascinating Paleolithic village. Midday drives take you to a historic karst cave and a traditional masseria. By afternoon, reach the picturesque coast to explore the ancient watchtower and relax at Pilone beach. Conclude your journey in the rugged landscape of Grotta del Gatto selvatico."
+      }
+    }
+  }
+}

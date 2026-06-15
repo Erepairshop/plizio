@@ -1,0 +1,428 @@
+{
+  "city_id": "reichshoffen",
+  "anchor": {
+    "name": "Reichshoffen",
+    "coords": [
+      7.6661,
+      48.9344
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:16",
+      "total_km": 3.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Michel Church",
+            "hu": "Saint-Michel Church",
+            "ro": "Saint-Michel Church",
+            "en": "Saint-Michel Church"
+          },
+          "coords": [
+            7.664413,
+            48.931891
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser Kirche, die ein Zeugnis lokaler Geschichte ist, und achten Sie auf die kunstvollen Fensterläden.",
+            "hu": "Csodálja meg ennek a templomnak a lenyűgöző építészetét, amely a helyi történelem tanúja, és figyelje meg a díszes belső üvegablakokat.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici istorice și nu uitați să observați vitraliile frumos ornamentate din interior.",
+            "en": "Admire the impressive architecture of this church that stands as a testament to local history, and observe the ornate stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "De Dietrich Castle",
+            "hu": "De Dietrich Castle",
+            "ro": "De Dietrich Castle",
+            "en": "De Dietrich Castle"
+          },
+          "coords": [
+            7.673212,
+            48.934423
+          ],
+          "category": "historical",
+          "arrive_at": "10:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historische Schloss der industriellen Epoche und nehmen Sie sich Zeit für einen Spaziergang durch den schönen Garten.",
+            "hu": "Fedezze fel a régió ipari örökségéhez kötődő történelmi kastélyt, és mindenképpen szánjon időt egy sétára a környező gyönyörű parkban.",
+            "ro": "Explorați castelul istoric legat de moștenirea industrială a regiunii și rezervați-vă timp pentru o plimbare relaxantă prin parc.",
+            "en": "Explore this historic castle deeply connected to the region's industrial heritage, and reserve time for a stroll through the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison de l'Archéologie des Vosges du Nord",
+            "hu": "Maison de l'Archéologie des Vosges du Nord",
+            "ro": "Maison de l'Archéologie des Vosges du Nord",
+            "en": "Maison de l'Archéologie des Vosges du Nord"
+          },
+          "coords": [
+            7.650506,
+            48.94726
+          ],
+          "category": "museum",
+          "arrive_at": "11:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Museum in die galloromanische Vergangenheit ein und verpassen Sie nicht die Artefakte im Hauptausstellungssaal.",
+            "hu": "Merüljön el a galloromán múltban ebben a múzeumban, és semmiképpen ne hagyja ki a fő kiállítótérben található régészeti leleteket.",
+            "ro": "Pătrundeți în trecutul galo-roman în acest muzeu fascinant și asigurați-vă că nu ratați artefactele detaliate din sala principală.",
+            "en": "Delve into the Gallo-Roman past within this fascinating museum, and make sure you do not miss the archaeological artifacts in the main hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Église Saint-Martin",
+            "ro": "Église Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            7.645619,
+            48.949078
+          ],
+          "category": "religious",
+          "arrive_at": "13:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besichtigen Sie dieses charmante Gotteshaus mit ruhiger Atmosphäre und achten Sie auf die Details des historischen Altars.",
+            "hu": "Látogasson el ebbe a békés hangulatú, bájos templomba, és figyelje meg a történelmi oltár finom és kidolgozott részleteit.",
+            "ro": "Vizitați acest lăcaș de cult fermecător cu atmosferă liniștită și acordați atenție detaliilor fine ale altarului istoric special.",
+            "en": "Visit this charming place of worship known for its tranquil atmosphere, and pay close attention to the details of the historic altar."
+          }
+        },
+        {
+          "name": {
+            "de": "La Glacière",
+            "hu": "La Glacière",
+            "ro": "La Glacière",
+            "en": "La Glacière"
+          },
+          "coords": [
+            7.64051,
+            48.950223
+          ],
+          "category": "historical",
+          "arrive_at": "14:26",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen einzigartigen Eiskeller, der zur Kühlung genutzt wurde, und tragen Sie bequeme Schuhe für das Gelände.",
+            "hu": "Fedezze fel az egyedülálló jégvermet, amelyet régen hűtésre használtak, és viseljen kényelmes cipőt az egyenetlen terep miatt.",
+            "ro": "Descoperiți pivnița de gheață unică folosită în trecut pentru răcire și purtați încălțăminte confortabilă pentru terenul denivelat.",
+            "en": "Discover this unique historic ice cellar once used for cooling provisions, and wear comfortable shoes for the slightly uneven terrain."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie in der Kirche Saint-Michel. Ein kurzer Spaziergang führt zum Schloss De Dietrich und seiner Industriegeschichte.\n\nDanach geht es nach Norden. Der Weg zur Maison de l'Archéologie zeigt die schöne lokale Architektur.\n\nDer Nachmittag gehört der Historie. Besuchen Sie die Kirche Saint-Martin vor der einzigartigen Anlage La Glacière.\n\nDer Tag endet ruhig. Genießen Sie einen entspannten Spaziergang.",
+        "hu": "Kezdje a Saint-Michel templomban. Egy rövid séta elvezet a De Dietrich kastélyhoz, ahol megismeri az ipartörténetet.\n\nEzután induljon északra. A Maison de l'Archéologie felé vezető út bemutatja a bájos helyi építészetet.\n\nA délután a történelemé. Látogassa meg a Saint-Martin templomot, majd a különleges La Glacière-t.\n\nA nap nyugodtan zárul. Élvezze a békés sétát a csendes történelmi utcákon.",
+        "ro": "Începeți la Biserica Saint-Michel. O plimbare scurtă duce la Castelul De Dietrich pentru a descoperi istoria industrială.\n\nApoi, mergeți spre nord. Traseul spre Maison de l'Archéologie dezvăluie arhitectura locală fermecătoare.\n\nDupă-amiaza este pentru istorie. Vizitați Biserica Saint-Martin înainte de a explora unica La Glacière.\n\nZiua se încheie liniștit. Bucurați-vă de o plimbare relaxantă de seară.",
+        "en": "Start at Saint-Michel Church. A short walk leads to De Dietrich Castle to discover industrial history.\n\nNext, head north. The route to Maison de l'Archéologie showcases charming local architecture.\n\nThe afternoon is for historical sites. Visit Église Saint-Martin before exploring the unique La Glacière.\n\nThe day concludes gently. Enjoy a peaceful stroll, letting the city's rich impressions sink in."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:35",
+      "total_km": 8.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Michel Church",
+            "hu": "Saint-Michel Church",
+            "ro": "Saint-Michel Church",
+            "en": "Saint-Michel Church"
+          },
+          "coords": [
+            7.664413,
+            48.931891
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser Kirche, die ein Zeugnis lokaler Geschichte ist, und achten Sie auf die kunstvollen Fensterläden.",
+            "hu": "Csodálja meg ennek a templomnak a lenyűgöző építészetét, amely a helyi történelem tanúja, és figyelje meg a díszes belső üvegablakokat.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici istorice și nu uitați să observați vitraliile frumos ornamentate din interior.",
+            "en": "Admire the impressive architecture of this church that stands as a testament to local history, and observe the ornate stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "De Dietrich Castle",
+            "hu": "De Dietrich Castle",
+            "ro": "De Dietrich Castle",
+            "en": "De Dietrich Castle"
+          },
+          "coords": [
+            7.673212,
+            48.934423
+          ],
+          "category": "historical",
+          "arrive_at": "09:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historische Schloss der industriellen Epoche und nehmen Sie sich Zeit für einen Spaziergang durch den schönen Garten.",
+            "hu": "Fedezze fel a régió ipari örökségéhez kötődő történelmi kastélyt, és mindenképpen szánjon időt egy sétára a környező gyönyörű parkban.",
+            "ro": "Explorați castelul istoric legat de moștenirea industrială a regiunii și rezervați-vă timp pentru o plimbare relaxantă prin parc.",
+            "en": "Explore this historic castle deeply connected to the region's industrial heritage, and reserve time for a stroll through the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Réserve naturelle du plan d'eau de Reichshoffen",
+            "hu": "Réserve naturelle du plan d'eau de Reichshoffen",
+            "ro": "Réserve naturelle du plan d'eau de Reichshoffen",
+            "en": "Réserve naturelle du plan d'eau de Reichshoffen"
+          },
+          "coords": [
+            7.679201,
+            48.950372
+          ],
+          "category": "natural",
+          "arrive_at": "11:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem Naturschutzgebiet mit idyllischem See, wo Sie mit einem Fernglas hervorragend Wasservögel beobachten können.",
+            "hu": "Pihenjen meg ebben a gyönyörű természetvédelmi területben a tavánál, ahol távcsővel kiválóan megfigyelheti a ritka vízimadarakat.",
+            "ro": "Relaxați-vă în rezervația naturală cu lacul pitoresc, unde puteți observa excelent păsări de apă rare cu un binoclu.",
+            "en": "Relax in this beautiful nature reserve featuring a picturesque lake, making it the perfect spot to observe rare water birds."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison de l'Archéologie des Vosges du Nord",
+            "hu": "Maison de l'Archéologie des Vosges du Nord",
+            "ro": "Maison de l'Archéologie des Vosges du Nord",
+            "en": "Maison de l'Archéologie des Vosges du Nord"
+          },
+          "coords": [
+            7.650506,
+            48.94726
+          ],
+          "category": "museum",
+          "arrive_at": "12:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Museum in die galloromanische Vergangenheit ein und verpassen Sie nicht die Artefakte im Hauptausstellungssaal.",
+            "hu": "Merüljön el a galloromán múltban ebben a múzeumban, és semmiképpen ne hagyja ki a fő kiállítótérben található régészeti leleteket.",
+            "ro": "Pătrundeți în trecutul galo-roman în acest muzeu fascinant și asigurați-vă că nu ratați artefactele detaliate din sala principală.",
+            "en": "Delve into the Gallo-Roman past within this fascinating museum, and make sure you do not miss the archaeological artifacts in the main hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Cuirassiers Monument",
+            "hu": "Cuirassiers Monument",
+            "ro": "Cuirassiers Monument",
+            "en": "Cuirassiers Monument"
+          },
+          "coords": [
+            7.691417,
+            48.939414
+          ],
+          "category": "historical",
+          "arrive_at": "14:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem Denkmal, das an Reiterangriffe erinnert, und lesen Sie die Informationstafeln für tiefe historische Einblicke.",
+            "hu": "Álljon meg az emlékműnél, amely a hősies lovasrohamoknak állít emléket, és olvassa el a táblákat a történelmi megértéshez.",
+            "ro": "Opriți-vă la acest monument care comemorează atacurile cavaleriei și citiți panourile pentru a înțelege contextul istoric.",
+            "en": "Stop by this striking monument commemorating heroic cavalry charges, and read the informational plaques for a deeper historical context."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie bei der Kirche Saint-Michel. Die erste Etappe führt zum prachtvollen Schloss De Dietrich.\n\nRadeln Sie entspannt zur Réserve naturelle. Genießen Sie die idyllische Natur an diesem malerischen See.\n\nDanach geht es zur Maison de l'Archéologie. Die schönen Radwege dorthin bieten tolle Ausblicke.\n\nZum Abschluss erreichen Sie das Cuirassiers-Denkmal. Reflektieren Sie Ihre erlebnisreiche Fahrt.",
+        "hu": "Induljon a Saint-Michel templomtól. Az első szakasz a lenyűgöző De Dietrich kastélyhoz vezet.\n\nKerekezzen kényelmesen a Réserve naturelle tavához. Élvezze a festői tájat és az idilli természetet.\n\nAz útvonal ezután a Maison de l'Archéologie ókori kincseihez visz. Az itteni utak csodás kilátást nyújtanak.\n\nZárja a napot a Cuirassiers emlékműnél, és gondoljon vissza az izgalmas utazásra.",
+        "ro": "Începeți la Biserica Saint-Michel. Prima etapă vă duce la magnificul Castel De Dietrich, un reper industrial.\n\nPedalați relaxat spre Réserve naturelle. Bucurați-vă de peisajele naturale idilice la acest lac pitoresc.\n\nTraseul continuă la Maison de l'Archéologie. Drumurile oferă priveliști minunate asupra împrejurimilor.\n\nÎncheiați la Monumentul Cuirasierilor, reflectând asupra călătoriei captivante.",
+        "en": "Start your ride at Saint-Michel Church. The first stretch takes you to De Dietrich Castle, a glorious industrial landmark.\n\nCycle leisurely to the Réserve naturelle. At this picturesque lake, enjoy the idyllic natural landscapes.\n\nThe route then leads to Maison de l'Archéologie for ancient treasures. The paths offer wonderful views.\n\nConclude at the striking Cuirassiers Monument. Reflect on a captivating ride."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:06",
+      "total_km": 6.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Michel Church",
+            "hu": "Saint-Michel Church",
+            "ro": "Saint-Michel Church",
+            "en": "Saint-Michel Church"
+          },
+          "coords": [
+            7.664413,
+            48.931891
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser Kirche, die ein Zeugnis lokaler Geschichte ist, und achten Sie auf die kunstvollen Fensterläden.",
+            "hu": "Csodálja meg ennek a templomnak a lenyűgöző építészetét, amely a helyi történelem tanúja, és figyelje meg a díszes belső üvegablakokat.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici istorice și nu uitați să observați vitraliile frumos ornamentate din interior.",
+            "en": "Admire the impressive architecture of this church that stands as a testament to local history, and observe the ornate stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Cuirassiers Monument",
+            "hu": "Cuirassiers Monument",
+            "ro": "Cuirassiers Monument",
+            "en": "Cuirassiers Monument"
+          },
+          "coords": [
+            7.691417,
+            48.939414
+          ],
+          "category": "historical",
+          "arrive_at": "09:55",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem Denkmal, das an Reiterangriffe erinnert, und lesen Sie die Informationstafeln für tiefe historische Einblicke.",
+            "hu": "Álljon meg az emlékműnél, amely a hősies lovasrohamoknak állít emléket, és olvassa el a táblákat a történelmi megértéshez.",
+            "ro": "Opriți-vă la acest monument care comemorează atacurile cavaleriei și citiți panourile pentru a înțelege contextul istoric.",
+            "en": "Stop by this striking monument commemorating heroic cavalry charges, and read the informational plaques for a deeper historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Réserve naturelle du plan d'eau de Reichshoffen",
+            "hu": "Réserve naturelle du plan d'eau de Reichshoffen",
+            "ro": "Réserve naturelle du plan d'eau de Reichshoffen",
+            "en": "Réserve naturelle du plan d'eau de Reichshoffen"
+          },
+          "coords": [
+            7.679201,
+            48.950372
+          ],
+          "category": "natural",
+          "arrive_at": "10:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem Naturschutzgebiet mit idyllischem See, wo Sie mit einem Fernglas hervorragend Wasservögel beobachten können.",
+            "hu": "Pihenjen meg ebben a gyönyörű természetvédelmi területben a tavánál, ahol távcsővel kiválóan megfigyelheti a ritka vízimadarakat.",
+            "ro": "Relaxați-vă în rezervația naturală cu lacul pitoresc, unde puteți observa excelent păsări de apă rare cu un binoclu.",
+            "en": "Relax in this beautiful nature reserve featuring a picturesque lake, making it the perfect spot to observe rare water birds."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison de l'Archéologie des Vosges du Nord",
+            "hu": "Maison de l'Archéologie des Vosges du Nord",
+            "ro": "Maison de l'Archéologie des Vosges du Nord",
+            "en": "Maison de l'Archéologie des Vosges du Nord"
+          },
+          "coords": [
+            7.650506,
+            48.94726
+          ],
+          "category": "museum",
+          "arrive_at": "11:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Museum in die galloromanische Vergangenheit ein und verpassen Sie nicht die Artefakte im Hauptausstellungssaal.",
+            "hu": "Merüljön el a galloromán múltban ebben a múzeumban, és semmiképpen ne hagyja ki a fő kiállítótérben található régészeti leleteket.",
+            "ro": "Pătrundeți în trecutul galo-roman în acest muzeu fascinant și asigurați-vă că nu ratați artefactele detaliate din sala principală.",
+            "en": "Delve into the Gallo-Roman past within this fascinating museum, and make sure you do not miss the archaeological artifacts in the main hall."
+          }
+        },
+        {
+          "name": {
+            "de": "La Glacière",
+            "hu": "La Glacière",
+            "ro": "La Glacière",
+            "en": "La Glacière"
+          },
+          "coords": [
+            7.64051,
+            48.950223
+          ],
+          "category": "historical",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen einzigartigen Eiskeller, der zur Kühlung genutzt wurde, und tragen Sie bequeme Schuhe für das Gelände.",
+            "hu": "Fedezze fel az egyedülálló jégvermet, amelyet régen hűtésre használtak, és viseljen kényelmes cipőt az egyenetlen terep miatt.",
+            "ro": "Descoperiți pivnița de gheață unică folosită în trecut pentru răcire și purtați încălțăminte confortabilă pentru terenul denivelat.",
+            "en": "Discover this unique historic ice cellar once used for cooling provisions, and wear comfortable shoes for the slightly uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Golf sur pistes",
+            "hu": "Golf sur pistes",
+            "ro": "Golf sur pistes",
+            "en": "Golf sur pistes"
+          },
+          "coords": [
+            7.637283,
+            48.95229
+          ],
+          "category": "family",
+          "arrive_at": "14:36",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie eine Runde Minigolf mit der Familie auf diesen gepflegten Bahnen, wobei die frühen Nachmittagsstunden sehr angenehm sind.",
+            "hu": "Élvezze a szórakoztató minigolfozást a családdal ezeken a pályákon, ahol a kora délutáni órák a legkellemesebbek a játékhoz.",
+            "ro": "Bucurați-vă de o rundă de minigolf cu familia pe aceste piste îngrijite, orele după-amiezii fiind cele mai plăcute pentru joc.",
+            "en": "Enjoy a fun round of mini-golf with the family on these tracks, keeping in mind that the early afternoon is best for a game."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie an der Kirche Saint-Michel und halten Sie kurz am Cuirassiers-Denkmal für einen historischen Überblick.\n\nFahren Sie zur Réserve naturelle. Der friedliche See ist die perfekte Pause vor der Maison de l'Archéologie.\n\nParken Sie dann nahe der Anlage La Glacière. Dieser Ort zeigt eindrucksvoll alte, intelligente Kühlmethoden.\n\nBeenden Sie den Tag fröhlich beim Golf sur pistes mit der Familie.",
+        "hu": "Kezdje a Saint-Michel templomnál, majd álljon meg a Cuirassiers emlékműnél egy gyors történelmi áttekintésre.\n\nVezessen a Réserve naturelle tavához. A békés hely tökéletes pihenő a Maison de l'Archéologie előtt.\n\nEzután parkoljon le a történelmi La Glacière közelében, amely a régi intelligens hűtési módszereket mutatja be.\n\nZárja a napot egy vidám családi játékkal a Golf sur pistes pályáin.",
+        "ro": "Începeți la Biserica Saint-Michel și opriți scurt la Monumentul Cuirasierilor pentru o perspectivă istorică rapidă.\n\nConduceți spre Réserve naturelle. Lacul pașnic oferă o pauză perfectă înaintea Maison de l'Archéologie.\n\nParcați apoi lângă istorica La Glacière. Acest loc fascinant demonstrează metodele vechi de răcire.\n\nÎncheiați ziua cu o rundă distractivă de minigolf la Golf sur pistes.",
+        "en": "Begin at Saint-Michel Church, followed by a quick stop at the Cuirassiers Monument for a fascinating historical overview.\n\nDrive to the tranquil Réserve naturelle. The peaceful lake offers a perfect break before Maison de l'Archéologie.\n\nNext, park near the historic La Glacière. This intriguing location demonstrates clever past cooling methods.\n\nEnd with a family-friendly round at Golf sur pistes."
+      }
+    }
+  }
+}

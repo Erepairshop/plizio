@@ -1,0 +1,474 @@
+{
+  "city_id": "portugal-lourinha-cities-v2",
+  "anchor": {
+    "name": "Lourinhã",
+    "coords": [
+      -9.31193,
+      39.24339
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:44",
+      "total_km": 1.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Câmara Municipal da Lourinhã",
+            "hu": "Câmara Municipal da Lourinhã",
+            "ro": "Câmara Municipal da Lourinhã",
+            "en": "Câmara Municipal da Lourinhã"
+          },
+          "coords": [
+            -9.311729,
+            39.243612
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das bürgerliche Zentrum von Lourinhã in diesem historischen Rathausgebäude, wo ein Moment der Beobachtung des lokalen Verwaltungslebens einen echten Einblick in die portugiesische Kultur bietet.",
+            "hu": "Fedezze fel Lourinhã polgári központját ebben a történelmi városháza épületben, ahol a helyi közigazgatási élet megfigyelése egy pillanatra valódi portugál kulturális élményt nyújt.",
+            "ro": "Descoperiți centrul civic din Lourinhã în această clădire istorică a primăriei, unde un moment de observare a vieții administrative locale vă oferă o perspectivă autentică asupra culturii portugheze.",
+            "en": "Discover the civic heart of Lourinhã in this historic municipal building, where taking a moment to observe the local administrative life offers a genuine slice of Portuguese culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja matriz da Lourinhã",
+            "hu": "Igreja matriz da Lourinhã",
+            "ro": "Igreja matriz da Lourinhã",
+            "en": "Igreja matriz da Lourinhã"
+          },
+          "coords": [
+            -9.312692,
+            39.242536
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisite gotische Architektur dieser zentralen Pfarrkirche und achten Sie unbedingt auf die feinen Details ihres imposanten Hauptportals, bevor Sie eintreten.",
+            "hu": "Csodálja meg e központi plébániatemplom gyönyörű gótikus építészetét, és belépés előtt feltétlenül vegye szemügyre az impozáns főportál bonyolult részleteit.",
+            "ro": "Admirați arhitectura gotică rafinată a acestei biserici parohiale centrale și asigurați-vă că priviți cu atenție detaliile complicate ale portalului său principal impunător înainte de a intra.",
+            "en": "Admire the exquisite Gothic architecture of this central parish church, and be sure to look closely at the intricate details of its imposing main portal before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Espaço Museológico da Santa Casa da Lourinhã",
+            "hu": "Espaço Museológico da Santa Casa da Lourinhã",
+            "ro": "Espaço Museológico da Santa Casa da Lourinhã",
+            "en": "Espaço Museológico da Santa Casa da Lourinhã"
+          },
+          "coords": [
+            -9.314236,
+            39.242799
+          ],
+          "category": "museum",
+          "arrive_at": "11:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie das reiche religiöse und kulturelle Erbe der Region durch die sakrale Kunstsammlung dieses Museums, wobei morgendliche Besuche ein ruhigeres und besinnlicheres Erlebnis ermöglichen.",
+            "hu": "Fedezze fel a régió gazdag vallási és kulturális örökségét a múzeum szakrális művészeti gyűjteményén keresztül, szem előtt tartva, hogy a kora reggeli látogatások csendesebb, elmélkedőbb élményt nyújtanak.",
+            "ro": "Explorați bogata moștenire religioasă și culturală a regiunii prin colecția de artă sacră a acestui muzeu, ținând cont de faptul că vizitele matinale permit o experiență mai liniștită și reflexivă.",
+            "en": "Explore the rich religious and cultural heritage of the region through this museum's sacred art collection, noting that early morning visits allow for a quieter, more reflective experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Pelourinho da Lourinhã",
+            "hu": "Pelourinho da Lourinhã",
+            "ro": "Pelourinho da Lourinhã",
+            "en": "Pelourinho da Lourinhã"
+          },
+          "coords": [
+            -9.315241,
+            39.243091
+          ],
+          "category": "landmark",
+          "arrive_at": "12:56",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Stehen Sie vor diesem alten Steinpranger, der die historische Autonomie und Gerechtigkeit der Stadt symbolisiert, und der sich leicht als kurzer Fotostopp beim Spaziergang durch die Altstadt eignet.",
+            "hu": "Álljon meg ezen ősi kő pellengér előtt, amely a város történelmi autonómiáját és igazságszolgáltatását szimbolizálja, és könnyen megközelíthető egy rövid fotózásra az óvárosban sétálva.",
+            "ro": "Stați în fața acestui vechi stâlp de infamie din piatră care simbolizează autonomia și justiția istorică a orașului, ușor accesibil pentru o scurtă oprire fotografică în timpul plimbării prin centrul vechi.",
+            "en": "Stand before this ancient stone pillory that symbolizes the town's historical autonomy and justice, easily accessible as a brief photographic stop while strolling through the old center."
+          }
+        },
+        {
+          "name": {
+            "de": "Baloiço adaptado da Lourinhã",
+            "hu": "Baloiço adaptado da Lourinhã",
+            "ro": "Baloiço adaptado da Lourinhã",
+            "en": "Baloiço adaptado da Lourinhã"
+          },
+          "coords": [
+            -9.312191,
+            39.244726
+          ],
+          "category": "landmark",
+          "arrive_at": "13:16",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Machen Sie eine spielerische Pause an dieser barrierefreien, angepassten Schaukel, die die Inklusion im öffentlichen Raum fördert und ein wunderbarer Ort für einen unbeschwerten Moment und ein einzigartiges Erinnerungsfoto ist.",
+            "hu": "Tartson egy játékos szünetet ezen az akadálymentesített, adaptált hintán, amely elősegíti a nyilvános terek inkluzivitását, így csodálatos helyszín egy vidám pillanathoz és egy egyedi emlékfotóhoz.",
+            "ro": "Luați o pauză jucăușă la acest leagăn accesibil și adaptat care promovează incluziunea în spațiile publice, transformându-l într-un loc minunat pentru un moment vesel și o fotografie unică.",
+            "en": "Take a playful break at this accessible, adapted swing that promotes inclusivity in public spaces, making it a wonderful spot for a lighthearted moment and a unique souvenir photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Capela de Nossa Senhora Dos Anjos",
+            "hu": "Capela de Nossa Senhora Dos Anjos",
+            "ro": "Capela de Nossa Senhora Dos Anjos",
+            "en": "Capela de Nossa Senhora Dos Anjos"
+          },
+          "coords": [
+            -9.313764,
+            39.246116
+          ],
+          "category": "religious",
+          "arrive_at": "13:34",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante, friedliche Kapelle, die für ihr spirituelles Ambiente und ihre historische Bedeutung bekannt ist, und denken Sie an respektvolle Stille, da Einheimische sie häufig zum täglichen Gebet nutzen.",
+            "hu": "Látogasson el ebbe a bájos, békés kápolnába, amely spirituális hangulatáról és történelmi jelentőségéről ismert, és ne felejtsen el tiszteletteljes csendet tartani, mivel a helyiek gyakran használják napi imára.",
+            "ro": "Vizitați această capelă fermecătoare și pașnică, cunoscută pentru ambianța sa spirituală și importanța istorică, amintindu-vă să păstrați o tăcere respectuoasă, deoarece localnicii o folosesc frecvent pentru rugăciunea zilnică.",
+            "en": "Visit this charming, peaceful chapel known for its spiritual ambiance and historical significance, remembering to maintain a respectful silence as locals frequently use it for daily prayer."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Wanderung durch Lourinhã beginnt am historischen Câmara Municipal. Von dort schlendern Sie nur wenige Schritte zur atemberaubenden Igreja matriz und genießen deren gotische Eleganz in der frischen Morgenluft.\n\nMittags tauchen Sie im Espaço Museológico in das lokale Erbe ein. Die sakrale Kunst dieses Museums bietet tiefe Einblicke in die Vergangenheit der Region. Ein gemütliches Tempo lässt Sie die Ruhe genießen.\n\nAm Nachmittag erkunden Sie charmante Wahrzeichen wie den antiken Pelourinho und den Baloiço adaptado. Diese kurzen Stopps balancieren die historische Schwere des Morgens perfekt mit lokalem Charme.\n\nBeenden Sie Ihre Tour an der Capela de Nossa Senhora Dos Anjos. Dieser ruhige Ort bietet einen Moment der stillen Reflexion zum Tagesausklang und krönt Ihre Fußgängererkundung von Lourinhã.",
+        "hu": "Lourinhã-i sétája a történelmi Câmara Municipalnál kezdődik, megadva a nap alaphangját. Innen csak néhány lépés a lenyűgöző Igreja matriz, ahol a friss reggeli levegőn szívhatja magába gótikus eleganciáját.\n\nA dél bepillantást enged a helyi örökségbe az Espaço Museológióban. A múzeum szakrális művészete mély betekintést nyújt a régió múltjába. A kényelmes tempó lehetővé teszi a központ nyugalmának élvezetét.\n\nDélután fedezze fel a bájos nevezetességeket, mint az ősi Pelourinho és a Baloiço adaptado. Ezek a rövid megállók tökéletesen egyensúlyozzák a délelőtt történelmi komolyságát a helyi bájjal.\n\nFejezze be sétáját a Capela de Nossa Senhora Dos Anjosnál. Ez a békés utolsó megálló a csendes elmélkedés pillanatát kínálja, tökéletesen lezárva Lourinhã kellemes gyalogos felfedezését.",
+        "ro": "Turul pietonal prin Lourinhã începe la istorica Câmara Municipal, pregătind terenul pentru o zi de descoperiri. De acolo, veți face doar câțiva pași până la uimitoarea Igreja matriz, absorbindu-i eleganța gotică.\n\nAmiaza aduce o scufundare în patrimoniul local la Espaço Museológico. Arta sacră a acestui muzeu oferă o perspectivă profundă asupra trecutului regiunii, permițându-vă să apreciați mediul liniștit al centrului.\n\nDupă-amiaza, explorați repere fermecătoare precum vechiul Pelourinho și ineditul Baloiço adaptado. Aceste opriri scurte, dar memorabile, echilibrează perfect gravitatea istorică a dimineții cu farmecul local.\n\nÎncheiați-vă călătoria la Capela de Nossa Senhora Dos Anjos. Această ultimă oprire senină oferă un moment de reflecție liniștită la sfârșitul zilei, încununând perfect explorarea pietonală a orașului Lourinhã.",
+        "en": "Your walking tour through Lourinhã begins at the historic Câmara Municipal, setting the stage for a day of discovery. From there, you'll wander just a few steps to the stunning Igreja matriz, absorbing its Gothic elegance in the crisp morning air.\n\nMidday brings a deep dive into local heritage at the Espaço Museológico. This museum's sacred art provides profound insight into the region's past. A leisurely pace allows you to appreciate the tranquil environment of the town center.\n\nIn the afternoon, explore charming landmarks like the ancient Pelourinho and the uniquely inclusive Baloiço adaptado. These brief but memorable stops perfectly balance the historical gravity of the morning with lighthearted local charm.\n\nConclude your walking journey at the Capela de Nossa Senhora Dos Anjos. This serene final stop offers a moment of quiet reflection as the day winds down, perfectly capping off a thorough and delightful pedestrian exploration of Lourinhã."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:43",
+      "total_km": 2.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Capela de Nossa Senhora Dos Anjos",
+            "hu": "Capela de Nossa Senhora Dos Anjos",
+            "ro": "Capela de Nossa Senhora Dos Anjos",
+            "en": "Capela de Nossa Senhora Dos Anjos"
+          },
+          "coords": [
+            -9.313764,
+            39.246116
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante, friedliche Kapelle, die für ihr spirituelles Ambiente und ihre historische Bedeutung bekannt ist, und denken Sie an respektvolle Stille, da Einheimische sie häufig zum täglichen Gebet nutzen.",
+            "hu": "Látogasson el ebbe a bájos, békés kápolnába, amely spirituális hangulatáról és történelmi jelentőségéről ismert, és ne felejtsen el tiszteletteljes csendet tartani, mivel a helyiek gyakran használják napi imára.",
+            "ro": "Vizitați această capelă fermecătoare și pașnică, cunoscută pentru ambianța sa spirituală și importanța istorică, amintindu-vă să păstrați o tăcere respectuoasă, deoarece localnicii o folosesc frecvent pentru rugăciunea zilnică.",
+            "en": "Visit this charming, peaceful chapel known for its spiritual ambiance and historical significance, remembering to maintain a respectful silence as locals frequently use it for daily prayer."
+          }
+        },
+        {
+          "name": {
+            "de": "Baloiço adaptado da Lourinhã",
+            "hu": "Baloiço adaptado da Lourinhã",
+            "ro": "Baloiço adaptado da Lourinhã",
+            "en": "Baloiço adaptado da Lourinhã"
+          },
+          "coords": [
+            -9.312191,
+            39.244726
+          ],
+          "category": "landmark",
+          "arrive_at": "09:51",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie eine spielerische Pause an dieser barrierefreien, angepassten Schaukel, die die Inklusion im öffentlichen Raum fördert und ein wunderbarer Ort für einen unbeschwerten Moment und ein einzigartiges Erinnerungsfoto ist.",
+            "hu": "Tartson egy játékos szünetet ezen az akadálymentesített, adaptált hintán, amely elősegíti a nyilvános terek inkluzivitását, így csodálatos helyszín egy vidám pillanathoz és egy egyedi emlékfotóhoz.",
+            "ro": "Luați o pauză jucăușă la acest leagăn accesibil și adaptat care promovează incluziunea în spațiile publice, transformându-l într-un loc minunat pentru un moment vesel și o fotografie unică.",
+            "en": "Take a playful break at this accessible, adapted swing that promotes inclusivity in public spaces, making it a wonderful spot for a lighthearted moment and a unique souvenir photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Câmara Municipal da Lourinhã",
+            "hu": "Câmara Municipal da Lourinhã",
+            "ro": "Câmara Municipal da Lourinhã",
+            "en": "Câmara Municipal da Lourinhã"
+          },
+          "coords": [
+            -9.311729,
+            39.243612
+          ],
+          "category": "historical",
+          "arrive_at": "10:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie das bürgerliche Zentrum von Lourinhã in diesem historischen Rathausgebäude, wo ein Moment der Beobachtung des lokalen Verwaltungslebens einen echten Einblick in die portugiesische Kultur bietet.",
+            "hu": "Fedezze fel Lourinhã polgári központját ebben a történelmi városháza épületben, ahol a helyi közigazgatási élet megfigyelése egy pillanatra valódi portugál kulturális élményt nyújt.",
+            "ro": "Descoperiți centrul civic din Lourinhã în această clădire istorică a primăriei, unde un moment de observare a vieții administrative locale vă oferă o perspectivă autentică asupra culturii portugheze.",
+            "en": "Discover the civic heart of Lourinhã in this historic municipal building, where taking a moment to observe the local administrative life offers a genuine slice of Portuguese culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Espaço Museológico da Santa Casa da Lourinhã",
+            "hu": "Espaço Museológico da Santa Casa da Lourinhã",
+            "ro": "Espaço Museológico da Santa Casa da Lourinhã",
+            "en": "Espaço Museológico da Santa Casa da Lourinhã"
+          },
+          "coords": [
+            -9.314236,
+            39.242799
+          ],
+          "category": "museum",
+          "arrive_at": "11:28",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erkunden Sie das reiche religiöse und kulturelle Erbe der Region durch die sakrale Kunstsammlung dieses Museums, wobei morgendliche Besuche ein ruhigeres und besinnlicheres Erlebnis ermöglichen.",
+            "hu": "Fedezze fel a régió gazdag vallási és kulturális örökségét a múzeum szakrális művészeti gyűjteményén keresztül, szem előtt tartva, hogy a kora reggeli látogatások csendesebb, elmélkedőbb élményt nyújtanak.",
+            "ro": "Explorați bogata moștenire religioasă și culturală a regiunii prin colecția de artă sacră a acestui muzeu, ținând cont de faptul că vizitele matinale permit o experiență mai liniștită și reflexivă.",
+            "en": "Explore the rich religious and cultural heritage of the region through this museum's sacred art collection, noting that early morning visits allow for a quieter, more reflective experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Pelourinho da Lourinhã",
+            "hu": "Pelourinho da Lourinhã",
+            "ro": "Pelourinho da Lourinhã",
+            "en": "Pelourinho da Lourinhã"
+          },
+          "coords": [
+            -9.315241,
+            39.243091
+          ],
+          "category": "landmark",
+          "arrive_at": "13:09",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Stehen Sie vor diesem alten Steinpranger, der die historische Autonomie und Gerechtigkeit der Stadt symbolisiert, und der sich leicht als kurzer Fotostopp beim Spaziergang durch die Altstadt eignet.",
+            "hu": "Álljon meg ezen ősi kő pellengér előtt, amely a város történelmi autonómiáját és igazságszolgáltatását szimbolizálja, és könnyen megközelíthető egy rövid fotózásra az óvárosban sétálva.",
+            "ro": "Stați în fața acestui vechi stâlp de infamie din piatră care simbolizează autonomia și justiția istorică a orașului, ușor accesibil pentru o scurtă oprire fotografică în timpul plimbării prin centrul vechi.",
+            "en": "Stand before this ancient stone pillory that symbolizes the town's historical autonomy and justice, easily accessible as a brief photographic stop while strolling through the old center."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja Nossa Senhora da Guia",
+            "hu": "Igreja Nossa Senhora da Guia",
+            "ro": "Igreja Nossa Senhora da Guia",
+            "en": "Igreja Nossa Senhora da Guia"
+          },
+          "coords": [
+            -9.331794,
+            39.235588
+          ],
+          "category": "religious",
+          "arrive_at": "13:33",
+          "stay_min": 70,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Wagen Sie sich etwas weiter hinaus, um diese beeindruckende Kirche mit ihrem wunderschönen Interieur zu sehen, und nutzen Sie die angenehme umliegende Landschaft für einen entspannenden Spaziergang nach dem Besuch.",
+            "hu": "Merészkedjen egy kicsit távolabb, hogy megnézze ezt a lenyűgöző templomot a gyönyörű belső terével, és használja ki a kellemes környező tájat egy pihentető látogatás utáni sétára.",
+            "ro": "Aventurați-vă puțin mai departe pentru a vedea această biserică impresionantă cu un interior frumos, profitând de peisajul plăcut din jur pentru o plimbare relaxantă după vizită.",
+            "en": "Venture a bit further out to see this striking church with its beautiful interior, taking advantage of the pleasant surrounding landscape for a relaxing post-visit stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag an der friedlichen Capela de Nossa Senhora Dos Anjos. Ein kurzer Tritt in die Pedale führt Sie am verspielten Baloiço vorbei direkt ins historische und administrative Zentrum am Câmara Municipal.\n\nGegen Mittag tauchen Sie im Espaço Museológico in die Kulturschätze ein. Mit dem Fahrrad können Sie mühelos zwischen den zentralen Sehenswürdigkeiten wechseln und so Energie sparen, während Sie die Geschichte aufsaugen.\n\nNach einem kurzen Halt am ikonischen Pelourinho verlassen Sie das Zentrum. Genießen Sie eine malerische, etwas längere Fahrt in Richtung Stadtrand und spüren Sie die Brise der wunderschönen portugiesischen Landschaft.\n\nAm späten Nachmittag erreichen Sie die wunderschöne Igreja Nossa Senhora da Guia. Der ausgedehnte Halt hier belohnt Ihre Bemühungen mit atemberaubender Architektur und schließt Ihr Radabenteuer perfekt ab.",
+        "hu": "Kezdje a kerékpáros napot a békés Capela de Nossa Senhora Dos Anjosnál. Egy gyors tekerés elviszi a játékos Baloiço mellett egyenesen a város történelmi és közigazgatási központjába, a Câmara Municipalhoz.\n\nDél közeledtével merüljön el az Espaço Museológico kulturális kincseiben. Kerékpárjával könnyedén ugrálhat a központi látnivalók között, energiát spórolva, miközben teljesen átadja magát a terület történelmének.\n\nAz ikonikus Pelourinho gyors megtekintése után maga mögött hagyja a sűrű központot. Élvezze a festői, kissé hosszabb utat a külváros felé, érezze a szellőt és a gyönyörű portugál vidék változó táját.\n\nKéső délután érkezzen meg a gyönyörű Igreja Nossa Senhora da Guiához. Az itteni hosszabb megálló lenyűgöző építészettel és nyugodt légkörrel jutalmazza meg fáradozásait, teljessé téve a kalandot.",
+        "ro": "Începeți ziua de ciclism la pașnica Capela de Nossa Senhora Dos Anjos. O pedalare rapidă vă poartă pe lângă jucăușul Baloiço și direct în centrul istoric și administrativ al orașului, la Câmara Municipal.\n\nPe măsură ce se apropie prânzul, aprofundați comorile culturale la Espaço Museológico. Bicicleta vă permite să săriți fără efort între atracțiile centrale, economisind energie în timp ce vă scufundați în istorie.\n\nDupă o scurtă oprire la iconicul Pelourinho, veți lăsa în urmă centrul dens. Bucurați-vă de o plimbare pitorească spre periferie, simțind briza și admirând peisajul schimbător al frumoasei zone rurale portugheze.\n\nAjungeți la frumoasa Igreja Nossa Senhora da Guia spre sfârșitul după-amiezii. Această oprire extinsă vă răsplătește eforturile cu o arhitectură uluitoare și o atmosferă liniștită, completând aventura.",
+        "en": "Kick off your cycling day at the peaceful Capela de Nossa Senhora Dos Anjos, enjoying the quiet morning streets. A quick pedal takes you past the playful Baloiço and right into the town's historical and administrative center at the Câmara Municipal.\n\nAs noon approaches, delve into the cultural treasures of the Espaço Museológico. Your bicycle allows you to hop effortlessly between the central sights, saving energy while fully immersing yourself in the rich religious and civic history of the area.\n\nFollowing a quick stop at the iconic Pelourinho, you'll leave the dense center behind. Enjoy a scenic, slightly longer ride toward the outskirts, feeling the breeze and taking in the changing landscape of the beautiful Portuguese countryside.\n\nArrive at the beautiful Igreja Nossa Senhora da Guia for the late afternoon. The extended stop here rewards your pedaling efforts with stunning architecture and a tranquil atmosphere, completing a perfectly balanced cycling adventure."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:07",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Igreja do Seixal",
+            "hu": "Igreja do Seixal",
+            "ro": "Igreja do Seixal",
+            "en": "Igreja do Seixal"
+          },
+          "coords": [
+            -9.325559,
+            39.262774
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen an dieser malerischen und weniger bekannten Kirche in einer ruhigen Gemeinde, die einen zutiefst authentischen Einblick in die traditionelle religiöse Architektur der portugiesischen Landschaft bietet.",
+            "hu": "Kezdje a reggelt ennél a csendes egyházközségben található, festői és kevésbé ismert templomnál, amely mélyen hiteles bepillantást nyújt a portugál vidék hagyományos vallási építészetébe.",
+            "ro": "Începeți dimineața la această biserică pitorească și mai puțin cunoscută situată într-o parohie liniștită, oferind o perspectivă profund autentică asupra arhitecturii religioase tradiționale din mediul rural portughez.",
+            "en": "Start your morning at this quaint and lesser-known church situated in a quiet parish, providing a deeply authentic glimpse into the traditional religious architecture of the Portuguese countryside."
+          }
+        },
+        {
+          "name": {
+            "de": "Capela de Nossa Senhora Dos Anjos",
+            "hu": "Capela de Nossa Senhora Dos Anjos",
+            "ro": "Capela de Nossa Senhora Dos Anjos",
+            "en": "Capela de Nossa Senhora Dos Anjos"
+          },
+          "coords": [
+            -9.313764,
+            39.246116
+          ],
+          "category": "religious",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante, friedliche Kapelle, die für ihr spirituelles Ambiente und ihre historische Bedeutung bekannt ist, und denken Sie an respektvolle Stille, da Einheimische sie häufig zum täglichen Gebet nutzen.",
+            "hu": "Látogasson el ebbe a bájos, békés kápolnába, amely spirituális hangulatáról és történelmi jelentőségéről ismert, és ne felejtsen el tiszteletteljes csendet tartani, mivel a helyiek gyakran használják napi imára.",
+            "ro": "Vizitați această capelă fermecătoare și pașnică, cunoscută pentru ambianța sa spirituală și importanța istorică, amintindu-vă să păstrați o tăcere respectuoasă, deoarece localnicii o folosesc frecvent pentru rugăciunea zilnică.",
+            "en": "Visit this charming, peaceful chapel known for its spiritual ambiance and historical significance, remembering to maintain a respectful silence as locals frequently use it for daily prayer."
+          }
+        },
+        {
+          "name": {
+            "de": "Câmara Municipal da Lourinhã",
+            "hu": "Câmara Municipal da Lourinhã",
+            "ro": "Câmara Municipal da Lourinhã",
+            "en": "Câmara Municipal da Lourinhã"
+          },
+          "coords": [
+            -9.311729,
+            39.243612
+          ],
+          "category": "historical",
+          "arrive_at": "10:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie das bürgerliche Zentrum von Lourinhã in diesem historischen Rathausgebäude, wo ein Moment der Beobachtung des lokalen Verwaltungslebens einen echten Einblick in die portugiesische Kultur bietet.",
+            "hu": "Fedezze fel Lourinhã polgári központját ebben a történelmi városháza épületben, ahol a helyi közigazgatási élet megfigyelése egy pillanatra valódi portugál kulturális élményt nyújt.",
+            "ro": "Descoperiți centrul civic din Lourinhã în această clădire istorică a primăriei, unde un moment de observare a vieții administrative locale vă oferă o perspectivă autentică asupra culturii portugheze.",
+            "en": "Discover the civic heart of Lourinhã in this historic municipal building, where taking a moment to observe the local administrative life offers a genuine slice of Portuguese culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Espaço Museológico da Santa Casa da Lourinhã",
+            "hu": "Espaço Museológico da Santa Casa da Lourinhã",
+            "ro": "Espaço Museológico da Santa Casa da Lourinhã",
+            "en": "Espaço Museológico da Santa Casa da Lourinhã"
+          },
+          "coords": [
+            -9.314236,
+            39.242799
+          ],
+          "category": "museum",
+          "arrive_at": "11:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie das reiche religiöse und kulturelle Erbe der Region durch die sakrale Kunstsammlung dieses Museums, wobei morgendliche Besuche ein ruhigeres und besinnlicheres Erlebnis ermöglichen.",
+            "hu": "Fedezze fel a régió gazdag vallási és kulturális örökségét a múzeum szakrális művészeti gyűjteményén keresztül, szem előtt tartva, hogy a kora reggeli látogatások csendesebb, elmélkedőbb élményt nyújtanak.",
+            "ro": "Explorați bogata moștenire religioasă și culturală a regiunii prin colecția de artă sacră a acestui muzeu, ținând cont de faptul că vizitele matinale permit o experiență mai liniștită și reflexivă.",
+            "en": "Explore the rich religious and cultural heritage of the region through this museum's sacred art collection, noting that early morning visits allow for a quieter, more reflective experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Pelourinho da Lourinhã",
+            "hu": "Pelourinho da Lourinhã",
+            "ro": "Pelourinho da Lourinhã",
+            "en": "Pelourinho da Lourinhã"
+          },
+          "coords": [
+            -9.315241,
+            39.243091
+          ],
+          "category": "landmark",
+          "arrive_at": "13:38",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Stehen Sie vor diesem alten Steinpranger, der die historische Autonomie und Gerechtigkeit der Stadt symbolisiert, und der sich leicht als kurzer Fotostopp beim Spaziergang durch die Altstadt eignet.",
+            "hu": "Álljon meg ezen ősi kő pellengér előtt, amely a város történelmi autonómiáját és igazságszolgáltatását szimbolizálja, és könnyen megközelíthető egy rövid fotózásra az óvárosban sétálva.",
+            "ro": "Stați în fața acestui vechi stâlp de infamie din piatră care simbolizează autonomia și justiția istorică a orașului, ușor accesibil pentru o scurtă oprire fotografică în timpul plimbării prin centrul vechi.",
+            "en": "Stand before this ancient stone pillory that symbolizes the town's historical autonomy and justice, easily accessible as a brief photographic stop while strolling through the old center."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja Nossa Senhora da Guia",
+            "hu": "Igreja Nossa Senhora da Guia",
+            "ro": "Igreja Nossa Senhora da Guia",
+            "en": "Igreja Nossa Senhora da Guia"
+          },
+          "coords": [
+            -9.331794,
+            39.235588
+          ],
+          "category": "religious",
+          "arrive_at": "13:57",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Wagen Sie sich etwas weiter hinaus, um diese beeindruckende Kirche mit ihrem wunderschönen Interieur zu sehen, und nutzen Sie die angenehme umliegende Landschaft für einen entspannenden Spaziergang nach dem Besuch.",
+            "hu": "Merészkedjen egy kicsit távolabb, hogy megnézze ezt a lenyűgöző templomot a gyönyörű belső terével, és használja ki a kellemes környező tájat egy pihentető látogatás utáni sétára.",
+            "ro": "Aventurați-vă puțin mai departe pentru a vedea această biserică impresionantă cu un interior frumos, profitând de peisajul plăcut din jur pentru o plimbare relaxantă după vizită.",
+            "en": "Venture a bit further out to see this striking church with its beautiful interior, taking advantage of the pleasant surrounding landscape for a relaxing post-visit stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour etwas weiter entfernt an der charmanten Igreja do Seixal. Diese ruhige Landgemeinde bietet eine gelassene Einführung in die lokale Architektur, bevor Sie bequem ins Zentrum zurückkehren.\n\nIn der Stadt angekommen, parken Sie Ihr Auto, um die Capela de Nossa Senhora Dos Anjos und das stattliche Câmara Municipal zu erkunden. Das Fahren maximiert Ihre Zeit und lässt Sie die lokale Kultur voll erleben.\n\nDer Nachmittag dreht sich um das Espaço Museológico und einen kurzen Stopp am historischen Pelourinho. Mit dem Auto wechseln Sie nahtlos von diesen kulturellen Knotenpunkten auf die offenen Straßen.\n\nIhr Roadtrip endet mit einer landschaftlich reizvollen Fahrt zur beeindruckenden Igreja Nossa Senhora da Guia. Dieses Ziel bietet einen friedlichen Rückzugsort, um über einen vielfältigen Erkundungstag nachzudenken.",
+        "hu": "Autós túráját kezdje egy kicsit távolabb, a bájos Igreja do Seixalnál. Ez a csendes vidéki egyházközség nyugodt bevezetést nyújt a helyi építészetbe, mielőtt kényelmesen visszavezetne a nyüzsgő központba.\n\nA városba érve parkolja le autóját, hogy felfedezze a Capela de Nossa Senhora Dos Anjost és az impozáns Câmara Municipal-t. A vezetés maximalizálja az idejét, így könnyedén megtapasztalhatja a kultúra arcait.\n\nA délután az Espaço Museológico és a történelmi Pelourinho köré épül. Autóval zökkenőmentesen válthat át ezekből a kulturális csomópontokból a nyílt utakra, kényelmes városnézési tempót tartva fenn.\n\nUtazása egy festői autózással zárul a lenyűgöző Igreja Nossa Senhora da Guiához. Ez a végső úti cél békés menedéket kínál, lehetővé téve, hogy visszatekintsen egy változatos történelmi felfedezésekkel teli napra.",
+        "ro": "Începeți turul cu mașina ceva mai departe, la fermecătoarea Igreja do Seixal. Această parohie rurală liniștită oferă o introducere senină în arhitectura locală înainte de a conduce confortabil spre centru.\n\nAjunși în oraș, parcați mașina pentru a explora Capela de Nossa Senhora Dos Anjos și impunătoarea Câmara Municipal. Conducerea maximizează timpul, permițându-vă să experimentați cu ușurință fațetele culturii.\n\nDupă-amiaza se concentrează în jurul Espaço Museológico și o scurtă oprire la istoricul Pelourinho. Cu o mașină, puteți face o tranziție fluidă de la aceste centre culturale la drumurile deschise.\n\nCălătoria dumneavoastră se încheie cu o plimbare pitorească până la impresionanta Igreja Nossa Senhora da Guia. Această destinație finală oferă o retragere pașnică, permițându-vă să reflectați asupra unei zile diverse.",
+        "en": "Start your driving tour slightly further afield at the charming Igreja do Seixal. This quiet countryside parish provides a serene introduction to local architecture before you comfortably drive back toward the bustling center of Lourinhã.\n\nArriving in town, park your car to explore the Capela de Nossa Senhora Dos Anjos and the stately Câmara Municipal. Driving between the broader zones of the region maximizes your time, letting you easily experience multiple facets of the local culture.\n\nThe afternoon centers around the Espaço Museológico and a quick stop at the historic Pelourinho. With a car, you can seamlessly transition from these dense cultural hubs to the open roads, maintaining a comfortable and efficient sightseeing pace.\n\nYour road trip concludes with a scenic drive out to the impressive Igreja Nossa Senhora da Guia. This final destination offers a peaceful retreat, allowing you to reflect on a diverse day of historical exploration across the greater Lourinhã area."
+      }
+    }
+  }
+}

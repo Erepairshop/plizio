@@ -1,0 +1,497 @@
+{
+  "city_id": "italy-capo-colonna-cities-v2",
+  "anchor": {
+    "name": "Capo Colonna",
+    "coords": [
+      17.20101,
+      39.02517
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:11",
+      "total_km": 1.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Torrazzo",
+            "hu": "Torrazzo",
+            "ro": "Torrazzo",
+            "en": "Torrazzo"
+          },
+          "coords": [
+            17.197535,
+            39.024588
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den robusten mittelalterlichen Wehrturm zum Schutz vor Piraten und kommen Sie früh, um das Morgenlicht für tolle Fotos zu nutzen.",
+            "hu": "Csodálja meg a partot a kalózoktól védő középkori őrtornyot, és érkezzen korán, hogy a reggeli fényben lenyűgöző fényképeket készíthessen.",
+            "ro": "Admirați turnul defensiv medieval robust care proteja coasta de pirați și veniți devreme pentru a vă bucura de lumina dimineții pentru fotografii uimitoare.",
+            "en": "Admire the sturdy medieval defensive tower that protected the coast from pirates, and visit early to enjoy the morning light for stunning photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Anfiteatro di Capo Colonna",
+            "hu": "Anfiteatro di Capo Colonna",
+            "ro": "Anfiteatro di Capo Colonna",
+            "en": "Anfiteatro di Capo Colonna"
+          },
+          "coords": [
+            17.19988,
+            39.023666
+          ],
+          "category": "cultural",
+          "arrive_at": "10:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste des römischen Amphitheaters am Meer, in dem antike Spektakel stattfanden, und tragen Sie bequeme Schuhe für das unebene Gelände.",
+            "hu": "Fedezze fel a tengerparti római amfiteátrum maradványait, amely ókori látványosságoknak adott otthont, és viseljen kényelmes cipőt az egyenetlen terepen.",
+            "ro": "Explorați rămășițele acestui amfiteatru roman de la malul mării care găzduia spectacole antice și purtați încălțăminte comodă pentru terenul accidentat.",
+            "en": "Explore the remains of this seaside Roman amphitheater that hosted ancient spectacles, and wear comfortable walking shoes to navigate the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Porticciolo",
+            "hu": "Porticciolo",
+            "ro": "Porticciolo",
+            "en": "Porticciolo"
+          },
+          "coords": [
+            17.20233,
+            39.02735
+          ],
+          "category": "recreational",
+          "arrive_at": "12:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause am kleinen malerischen Hafen, wo lokale Fischerboote anlegen, und packen Sie Snacks für ein Picknick am kristallklaren Wasser ein.",
+            "hu": "Tarts pihenőt a kis festői kikötőben, ahol a helyi halászhajók horgonyoznak, és vigyen magával harapnivalót egy csendes piknikhez a kristálytiszta víznél.",
+            "ro": "Faceți o pauză relaxantă în micul port pitoresc unde acostează bărcile de pescuit și aduceți gustări pentru a vă bucura de un picnic lângă apa cristalină.",
+            "en": "Take a relaxing break at the small picturesque harbor where local fishing boats moor, and pack some snacks to enjoy a quiet picnic by the crystal clear water."
+          }
+        },
+        {
+          "name": {
+            "de": "Edificio K",
+            "hu": "Edificio K",
+            "ro": "Edificio K",
+            "en": "Edificio K"
+          },
+          "coords": [
+            17.203772,
+            39.026737
+          ],
+          "category": "historical",
+          "arrive_at": "13:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diese archäologische Struktur des antiken griechischen Heiligtums und achten Sie auf die Grundsteine, um historische Mauerwerkstechniken zu erkennen.",
+            "hu": "Vizsgálja meg ezt az ősi görög szentélyhez tartozó titokzatos építményt, és nézze meg alaposan az alapköveket, hogy lássa a történelmi falazási technikákat.",
+            "ro": "Investigați această structură arheologică misterioasă a sanctuarului grecesc antic și priviți cu atenție pietrele de temelie pentru a observa tehnicile istorice de zidărie.",
+            "en": "Investigate this mysterious archaeological structure that forms part of the ancient Greek sanctuary, and look closely at the foundational stones to see historical masonry techniques."
+          }
+        },
+        {
+          "name": {
+            "de": "Edificio A - Tempio",
+            "hu": "Edificio A - Tempio",
+            "ro": "Edificio A - Tempio",
+            "en": "Edificio A - Tempio"
+          },
+          "coords": [
+            17.204766,
+            39.026521
+          ],
+          "category": "historical",
+          "arrive_at": "14:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.09,
+          "tip_5lang": {
+            "de": "Stehen Sie vor der ikonischen einzigen erhaltenen Säule des prächtigen Hera-Tempels und lesen Sie die Schautafeln vor Ort, um seine majestätische Vergangenheit zu verstehen.",
+            "hu": "Álljon meg a dicsőséges Hera Lacinia templom ikonikus, egyetlen megmaradt oszlopa előtt, és olvassa el a helyszíni információs táblákat, hogy megértse múltját.",
+            "ro": "Stați în fața singurei coloane rămase a gloriosului Templu al Herei Lacinia și citiți panourile informative de la fața locului pentru a-i înțelege trecutul.",
+            "en": "Stand before the iconic single remaining column of the glorious Temple of Hera Lacinia, and read the on-site information panels to understand its majestic past."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa di Pitagora",
+            "hu": "Casa di Pitagora",
+            "ro": "Casa di Pitagora",
+            "en": "Casa di Pitagora"
+          },
+          "coords": [
+            17.205606,
+            39.028321
+          ],
+          "category": "historical",
+          "arrive_at": "16:21",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang am vermeintlichen Haus des Pythagoras und versuchen Sie, kurz vor Sonnenuntergang zu kommen, um die philosophische Atmosphäre zu erleben.",
+            "hu": "Zárja sétáját a híres filozófus, Püthagorasz feltételezett otthonánál, és próbáljon naplemente előtt érkezni, hogy megtapasztalja a hely mély filozófiai hangulatát.",
+            "ro": "Încheiați plimbarea la presupusa casă a filosofului Pitagora și încercați să vizitați chiar înainte de apus pentru a simți ambianța filosofică profundă a locului.",
+            "en": "Conclude your walk at the supposed home of the famous philosopher Pythagoras, and try to visit just before sunset to experience the site's profound philosophical ambiance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am imposanten Torrazzo-Turm und tauchen Sie in die Geschichte ein. Mittags erreichen Sie das antike Amphitheater und machen eine Pause am Hafen Porticciolo. Am Nachmittag erkunden Sie das Herz des Heiligtums, das Edificio K und den berühmten Tempio. Wenn der Abend naht, lassen Sie Ihre Reise in der Nähe der legendären Casa di Pitagora im goldenen Sonnenlicht Revue passieren.",
+        "hu": "Kezdje a reggelt a tekintélyes Torrazzo toronynál, és merüljön el a történelemben. A délután az ősi amfiteátrumhoz és egy pihentető szünethez vezet a Porticciolo kikötőnél. Délután a szentély szívét fedezi fel, érintve az Edificio K-t és a híres Tempio-t. Az est közeledtével gondoljon vissza utazására az aranyló napfényben fürdő, legendás Casa di Pitagora közelében.",
+        "ro": "Începeți dimineața la turnul impunător Torrazzo, pătrunzând imediat în istoria zonei. La amiază ajungeți la anticul Anfiteatro și faceți o pauză la micul port Porticciolo. După-amiaza, veți explora inima sanctuarului, atingând pietrele Edificio K și faimosului Tempio. Odată cu lăsarea serii, reflectați asupra călătoriei lângă legendara Casa di Pitagora, scăldată în lumina soarelui.",
+        "en": "Start your morning at the commanding Torrazzo tower, diving immediately into the area's rich history. Midday brings you to the ancient Anfiteatro and a relaxing pause by the small Porticciolo harbor. In the afternoon, you will explore the heart of the sanctuary, touching the stones of Edificio K and the famous Tempio. As evening approaches, reflect on your journey near the legendary Casa di Pitagora, bathed in golden sunlight."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:23",
+      "total_km": 4.19,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Anfiteatro di Capo Colonna",
+            "hu": "Anfiteatro di Capo Colonna",
+            "ro": "Anfiteatro di Capo Colonna",
+            "en": "Anfiteatro di Capo Colonna"
+          },
+          "coords": [
+            17.19988,
+            39.023666
+          ],
+          "category": "cultural",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste des römischen Amphitheaters am Meer, in dem antike Spektakel stattfanden, und tragen Sie bequeme Schuhe für das unebene Gelände.",
+            "hu": "Fedezze fel a tengerparti római amfiteátrum maradványait, amely ókori látványosságoknak adott otthont, és viseljen kényelmes cipőt az egyenetlen terepen.",
+            "ro": "Explorați rămășițele acestui amfiteatru roman de la malul mării care găzduia spectacole antice și purtați încălțăminte comodă pentru terenul accidentat.",
+            "en": "Explore the remains of this seaside Roman amphitheater that hosted ancient spectacles, and wear comfortable walking shoes to navigate the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Edificio A - Tempio",
+            "hu": "Edificio A - Tempio",
+            "ro": "Edificio A - Tempio",
+            "en": "Edificio A - Tempio"
+          },
+          "coords": [
+            17.204766,
+            39.026521
+          ],
+          "category": "historical",
+          "arrive_at": "10:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stehen Sie vor der ikonischen einzigen erhaltenen Säule des prächtigen Hera-Tempels und lesen Sie die Schautafeln vor Ort, um seine majestätische Vergangenheit zu verstehen.",
+            "hu": "Álljon meg a dicsőséges Hera Lacinia templom ikonikus, egyetlen megmaradt oszlopa előtt, és olvassa el a helyszíni információs táblákat, hogy megértse múltját.",
+            "ro": "Stați în fața singurei coloane rămase a gloriosului Templu al Herei Lacinia și citiți panourile informative de la fața locului pentru a-i înțelege trecutul.",
+            "en": "Stand before the iconic single remaining column of the glorious Temple of Hera Lacinia, and read the on-site information panels to understand its majestic past."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre di Capo Pellegrino",
+            "hu": "Torre di Capo Pellegrino",
+            "ro": "Torre di Capo Pellegrino",
+            "en": "Torre di Capo Pellegrino"
+          },
+          "coords": [
+            17.187204,
+            39.017912
+          ],
+          "category": "landmark",
+          "arrive_at": "12:23",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen markanten Turm, der als antiker Küstenwachtpunkt diente, und bringen Sie ein Fernglas mit, um den weiten Panoramablick über das Meer zu genießen.",
+            "hu": "Keresse meg ezt a feltűnő tornyot, amely ősi parti őrhelyként szolgált, és hozzon távcsövet, hogy élvezhesse a Jón-tengerre nyíló lenyűgöző panorámát.",
+            "ro": "Zăriți acest turn impresionant care a servit drept punct de observare costier și aduceți binoclul pentru a vă bucura de priveliști panoramice asupra Mării Ionice.",
+            "en": "Spot this striking landmark tower which served as an ancient coastal watchpoint, and bring binoculars to enjoy sweeping panoramic views across the Ionian Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Cave",
+            "hu": "Cave",
+            "ro": "Cave",
+            "en": "Cave"
+          },
+          "coords": [
+            17.188591,
+            39.017106
+          ],
+          "category": "historical",
+          "arrive_at": "12:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die historischen Kalksteinbrüche ein, in denen die Griechen Stein für ihre Tempel abbauten, und achten Sie auf Ihre Schritte auf den unebenen Wegen.",
+            "hu": "Merüljön el a történelmi mészkőbányákban, ahonnan a görögök a templomaikhoz bányászták a követ, és vigyázzon a lépteire az egyenetlen és kopott ösvényeken.",
+            "ro": "Pătrundeți în carierele istorice de calcar de unde grecii extrăgeau piatră pentru temple și aveți grijă la pași pe cărările denivelate și uzate de timp.",
+            "en": "Delve into the historic limestone quarries where the Greeks extracted stone for their temples, and watch your step around the uneven and historically worn pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Baia di Scifo",
+            "hu": "Baia di Scifo",
+            "ro": "Baia di Scifo",
+            "en": "Baia di Scifo"
+          },
+          "coords": [
+            17.185843,
+            39.016949
+          ],
+          "category": "recreational",
+          "arrive_at": "14:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an dieser wunderschönen Bucht, die für reiche Unterwasserfunde bekannt ist, und packen Sie Badesachen ein, falls Sie ein Nachmittagsbad nehmen möchten.",
+            "hu": "Pihenjen meg ebben a gyönyörű öbölben, amely víz alatti régészeti leleteiről ismert, és hozzon fürdőruhát, ha szeretne egy frissítő délutáni csobbanást.",
+            "ro": "Relaxați-vă în acest golf frumos, cunoscut pentru descoperirile sale arheologice subacvatice, și aduceți costumul de baie dacă doriți o baie răcoritoare de după-amiază.",
+            "en": "Relax at this beautiful natural bay known for its rich underwater archaeological finds, and consider packing a swimsuit if you want to take a refreshing afternoon dip."
+          }
+        },
+        {
+          "name": {
+            "de": "Tonnara Berlignieri",
+            "hu": "Tonnara Berlignieri",
+            "ro": "Tonnara Berlignieri",
+            "en": "Tonnara Berlignieri"
+          },
+          "coords": [
+            17.189405,
+            39.030087
+          ],
+          "category": "historical",
+          "arrive_at": "15:33",
+          "stay_min": 110,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Ruinen einer historischen Thunfischfischerei, die die lokale Wirtschaft prägte, und nutzen Sie die Schattenplätze, um sich beim Lernen auszuruhen.",
+            "hu": "Fedezze fel egy történelmi tonhalhalászat lenyűgöző romjait, és használja a közeli árnyékos területeket a pihenésre, miközben megismeri a hagyományos módszereket.",
+            "ro": "Descoperiți ruinele fascinante ale unei pescărești istorice de ton și folosiți zonele umbrite din apropiere pentru a vă odihni în timp ce învățați despre tradiții.",
+            "en": "Discover the fascinating ruins of a historic tuna fishery that shaped local economy, and use the shaded areas nearby to rest while learning about traditional fishing methods."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer am Amphitheater, bevor Sie zur ikonischen Tempio-Säule radeln. Gegen Mittag fahren Sie zur Küste hinunter, um den einsamen Torre di Capo Pellegrino zu bewundern. Verbringen Sie den Nachmittag damit, die historischen Höhlen zu erkunden und sich am Wasser der Baia di Scifo auszuruhen. Beenden Sie Ihren aktiven Tag mit der Entdeckung des industriellen Erbes der Tonnara Berlignieri am Abend.",
+        "hu": "Kezdje kerékpáros kalandját az amfiteátrumnál, majd tekerjen az ikonikus Tempio oszlophoz. Délben lovagoljon le a partra, hogy megcsodálja a magányos Torre di Capo Pellegrino-t. A délutánt a lenyűgöző történelmi bányák, a Cave felfedezésével és a Baia di Scifo vizénél való pihenéssel töltheti. Zárja aktív napját a Tonnara Berlignieri ipari örökségének felfedezésével este.",
+        "ro": "Începeți aventura cu bicicleta la Anfiteatro, simțind energia antică înainte de a pedala spre coloana Tempio. Pe la prânz, coborâți spre coastă pentru a admira singuraticul Torre di Capo Pellegrino. Petreceți după-amiaza investigând Cave și odihnindu-vă pe malul Baia di Scifo. Încheiați-vă ziua activă descoperind patrimoniul industrial de la Tonnara Berlignieri seara.",
+        "en": "Kick off your cycling adventure at the Anfiteatro, feeling the ancient energy before pedaling to the iconic Tempio column. Around noon, ride down towards the coast to admire the solitary Torre di Capo Pellegrino. Spend your afternoon investigating the fascinating historic stone Cave and taking a refreshing rest by the waters of Baia di Scifo. Conclude your active day by discovering the industrial heritage at Tonnara Berlignieri in the evening."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:30",
+      "total_km": 4.27,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Tonnara Berlignieri",
+            "hu": "Tonnara Berlignieri",
+            "ro": "Tonnara Berlignieri",
+            "en": "Tonnara Berlignieri"
+          },
+          "coords": [
+            17.189405,
+            39.030087
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Ruinen einer historischen Thunfischfischerei, die die lokale Wirtschaft prägte, und nutzen Sie die Schattenplätze, um sich beim Lernen auszuruhen.",
+            "hu": "Fedezze fel egy történelmi tonhalhalászat lenyűgöző romjait, és használja a közeli árnyékos területeket a pihenésre, miközben megismeri a hagyományos módszereket.",
+            "ro": "Descoperiți ruinele fascinante ale unei pescărești istorice de ton și folosiți zonele umbrite din apropiere pentru a vă odihni în timp ce învățați despre tradiții.",
+            "en": "Discover the fascinating ruins of a historic tuna fishery that shaped local economy, and use the shaded areas nearby to rest while learning about traditional fishing methods."
+          }
+        },
+        {
+          "name": {
+            "de": "Anfiteatro di Capo Colonna",
+            "hu": "Anfiteatro di Capo Colonna",
+            "ro": "Anfiteatro di Capo Colonna",
+            "en": "Anfiteatro di Capo Colonna"
+          },
+          "coords": [
+            17.19988,
+            39.023666
+          ],
+          "category": "cultural",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste des römischen Amphitheaters am Meer, in dem antike Spektakel stattfanden, und tragen Sie bequeme Schuhe für das unebene Gelände.",
+            "hu": "Fedezze fel a tengerparti római amfiteátrum maradványait, amely ókori látványosságoknak adott otthont, és viseljen kényelmes cipőt az egyenetlen terepen.",
+            "ro": "Explorați rămășițele acestui amfiteatru roman de la malul mării care găzduia spectacole antice și purtați încălțăminte comodă pentru terenul accidentat.",
+            "en": "Explore the remains of this seaside Roman amphitheater that hosted ancient spectacles, and wear comfortable walking shoes to navigate the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Edificio A - Tempio",
+            "hu": "Edificio A - Tempio",
+            "ro": "Edificio A - Tempio",
+            "en": "Edificio A - Tempio"
+          },
+          "coords": [
+            17.204766,
+            39.026521
+          ],
+          "category": "historical",
+          "arrive_at": "12:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stehen Sie vor der ikonischen einzigen erhaltenen Säule des prächtigen Hera-Tempels und lesen Sie die Schautafeln vor Ort, um seine majestätische Vergangenheit zu verstehen.",
+            "hu": "Álljon meg a dicsőséges Hera Lacinia templom ikonikus, egyetlen megmaradt oszlopa előtt, és olvassa el a helyszíni információs táblákat, hogy megértse múltját.",
+            "ro": "Stați în fața singurei coloane rămase a gloriosului Templu al Herei Lacinia și citiți panourile informative de la fața locului pentru a-i înțelege trecutul.",
+            "en": "Stand before the iconic single remaining column of the glorious Temple of Hera Lacinia, and read the on-site information panels to understand its majestic past."
+          }
+        },
+        {
+          "name": {
+            "de": "Area PM",
+            "hu": "Area PM",
+            "ro": "Area PM",
+            "en": "Area PM"
+          },
+          "coords": [
+            17.204636,
+            39.028342
+          ],
+          "category": "historical",
+          "arrive_at": "13:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Gehen Sie durch diesen archäologischen Sektor mit wichtigen Wohnruinen und folgen Sie den ausgewiesenen Wegen, um die zerbrechlichen antiken Grundrisse zu schützen.",
+            "hu": "Sétáljon végig ezen a fontos lakóházromokat tartalmazó régészeti szektoron, és kövesse a kijelölt ösvényeket a törékeny ókori alaprajzok védelme érdekében.",
+            "ro": "Plimbați-vă prin acest sector arheologic specific care conține ruine rezidențiale importante și urmați cărările desemnate pentru a proteja planurile antice fragile.",
+            "en": "Walk through this specific archaeological sector containing important residential ruins, and follow the designated paths to protect the fragile ancient floor plans."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre di Capo Pellegrino",
+            "hu": "Torre di Capo Pellegrino",
+            "ro": "Torre di Capo Pellegrino",
+            "en": "Torre di Capo Pellegrino"
+          },
+          "coords": [
+            17.187204,
+            39.017912
+          ],
+          "category": "landmark",
+          "arrive_at": "14:58",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen markanten Turm, der als antiker Küstenwachtpunkt diente, und bringen Sie ein Fernglas mit, um den weiten Panoramablick über das Meer zu genießen.",
+            "hu": "Keresse meg ezt a feltűnő tornyot, amely ősi parti őrhelyként szolgált, és hozzon távcsövet, hogy élvezhesse a Jón-tengerre nyíló lenyűgöző panorámát.",
+            "ro": "Zăriți acest turn impresionant care a servit drept punct de observare costier și aduceți binoclul pentru a vă bucura de priveliști panoramice asupra Mării Ionice.",
+            "en": "Spot this striking landmark tower which served as an ancient coastal watchpoint, and bring binoculars to enjoy sweeping panoramic views across the Ionian Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Terrazzamenti",
+            "hu": "Terrazzamenti",
+            "ro": "Terrazzamenti",
+            "en": "Terrazzamenti"
+          },
+          "coords": [
+            17.184168,
+            39.016624
+          ],
+          "category": "historical",
+          "arrive_at": "15:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beobachten Sie die alten landwirtschaftlichen Terrassen, die klassische Ingenieurskunst hervorheben, und versuchen Sie, versteckte Bewässerungskanäle zu finden.",
+            "hu": "Figyelje meg a lenyűgöző ősi mezőgazdasági teraszokat, amelyek a klasszikus mérnöki munkát emelik ki, és próbálja kiszúrni a rejtett öntözőcsatornákat.",
+            "ro": "Observați terasamentele agricole antice care evidențiază ingineria clasică și încercați să observați canalele subtile de irigații ascunse în peisaj.",
+            "en": "Observe the impressive ancient agricultural terracing that highlights classical engineering, and try to spot the subtle irrigation channels hidden among the landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Baia Alfieri",
+            "hu": "Baia Alfieri",
+            "ro": "Baia Alfieri",
+            "en": "Baia Alfieri"
+          },
+          "coords": [
+            17.181858,
+            39.01486
+          ],
+          "category": "recreational",
+          "arrive_at": "16:45",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem ruhigen Küstenort am Ende Ihres Tages und bringen Sie eine bequeme Stranddecke mit, um die Wellen in der Abenddämmerung zu beobachten.",
+            "hu": "Kapcsolódjon ki ezen a nyugodt tengerparti helyen a nap végén, és hozzon egy kényelmes strandtakarót, hogy alkonyatkor nézhesse a partnak csapódó hullámokat.",
+            "ro": "Relaxați-vă în acest loc de coastă liniștit la sfârșitul zilei și aduceți o pătură de plajă confortabilă pentru a privi valurile lovindu-se de țărm la amurg.",
+            "en": "Unwind at this tranquil coastal spot at the end of your day trip, and bring a comfortable beach blanket to watch the waves crash against the shoreline at dusk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Roadtrip beginnt mit der historischen Tonnara Berlignieri. Fahren Sie bis zum Mittag zum archäologischen Kern, um das Amphitheater, den ikonischen Tempio und die Area PM zu besuchen. Wenn sich der Nachmittag entfaltet, fahren Sie in Richtung der südlichen Küstenlinie und halten am Torre di Capo Pellegrino und den Terrazzamenti. Beenden Sie Ihre herrliche Reise mit einem friedlichen Abend in der Baia Alfieri.",
+        "hu": "Autós utazása a történelmi Tonnara Berlignieri-nél kezdődik, megadva a nap alaphangját. Délben utazzon a régészeti központba, hogy meglátogassa az amfiteátrumot, a Tempio-t és az Area PM-et. Délután haladjon a déli partvonal felé, megállva a Torre di Capo Pellegrino-nál és az ősi Terrazzamenti-nél. Zárja csodálatos utazását egy békés estével a Baia Alfieri-nél.",
+        "ro": "Călătoria auto începe cu istorica Tonnara Berlignieri, stabilind un ton fascinant pentru zi. Până la prânz, conduceți spre nucleul arheologic pentru a vizita Anfiteatro, Tempio și Area PM. Odată cu lăsarea după-amiezii, îndreptați-vă spre coasta de sud, oprindu-vă la Torre di Capo Pellegrino și vechile Terrazzamenti. Încheiați-vă călătoria magnifică cu o seară liniștită la Baia Alfieri.",
+        "en": "Your road trip begins with the historic Tonnara Berlignieri, setting a fascinating tone for the day. By midday, drive to the archaeological core to visit the impressive Anfiteatro, the iconic Tempio, and the detailed Area PM. As the afternoon unfolds, cruise towards the southern coastline, stopping at the towering Torre di Capo Pellegrino and the ancient Terrazzamenti. Wrap up your magnificent journey with a peaceful evening at Baia Alfieri."
+      }
+    }
+  }
+}

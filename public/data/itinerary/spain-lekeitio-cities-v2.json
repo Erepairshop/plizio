@@ -1,0 +1,497 @@
+{
+  "city_id": "spain-lekeitio-cities-v2",
+  "anchor": {
+    "name": "Lekeitio",
+    "coords": [
+      -2.50492,
+      43.36417
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 1.62,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ikusgarri Zinema",
+            "hu": "Ikusgarri Zinema",
+            "ro": "Ikusgarri Zinema",
+            "en": "Ikusgarri Zinema"
+          },
+          "coords": [
+            -2.506313,
+            43.363482
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Independent-Film in diesem klassischen baskischen Kino mit Retro-Charme, aber reservieren Sie Tickets für Abendvorstellungen vorab.",
+            "hu": "Nézzen meg egy független filmet ebben a retro hangulatú, klasszikus baszk moziban, de az esti vetítésekre mindenképp foglaljon jegyet előre.",
+            "ro": "Bucurați-vă de un film independent în acest cinematograf basc clasic, renumit pentru farmecul său retro, dar rezervați bilete în avans pentru seară.",
+            "en": "Enjoy an independent film at this classic Basque cinema known for its retro charm, but be sure to book tickets ahead for evening screenings."
+          }
+        },
+        {
+          "name": {
+            "de": "Santo Domingo komentua",
+            "hu": "Santo Domingo komentua",
+            "ro": "Santo Domingo komentua",
+            "en": "Santo Domingo komentua"
+          },
+          "coords": [
+            -2.503801,
+            43.362686
+          ],
+          "category": "religious",
+          "arrive_at": "10:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Bewundern Sie die strenge Eleganz dieses historischen Dominikanerklosters und besuchen Sie respektvoll den friedlichen inneren Kreuzgang der Anlage.",
+            "hu": "Csodálja meg ennek a történelmi, helyi múltat formáló domonkos kolostornak a szigorú eleganciáját, és tegyen tiszteletteljes sétát a békés kerengőben.",
+            "ro": "Admirați eleganța austeră a acestei mănăstiri dominicane istorice care a modelat istoria locală și vizitați cu respect cloastrul interior pașnic.",
+            "en": "Admire the austere elegance of this historic Dominican convent that shaped local history, and respectfully visit the peaceful inner cloister."
+          }
+        },
+        {
+          "name": {
+            "de": "Andra Mariaren zeruratzea basilika",
+            "hu": "Andra Mariaren zeruratzea basilika",
+            "ro": "Andra Mariaren zeruratzea basilika",
+            "en": "Andra Mariaren zeruratzea basilika"
+          },
+          "coords": [
+            -2.502711,
+            43.363206
+          ],
+          "category": "religious",
+          "arrive_at": "11:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die spektakuläre gotische Architektur und den prächtigen goldenen Altaraufsatz im Inneren, und prüfen Sie den Messeplan vorab.",
+            "hu": "Csodálja meg a látványos gótikus építészetet és a pompás arany oltárképet belül, de a hívők tiszteletben tartása érdekében ellenőrizze a miserendet.",
+            "ro": "Minunați-vă de arhitectura gotică spectaculoasă și de magnificul altar auriu din interior și verificați programul slujbelor pentru a nu deranja.",
+            "en": "Marvel at the spectacular Gothic architecture and the magnificent golden altarpiece inside, and check the mass schedule to respect worshippers."
+          }
+        },
+        {
+          "name": {
+            "de": "Karraspio txikia",
+            "hu": "Karraspio txikia",
+            "ro": "Karraspio txikia",
+            "en": "Karraspio txikia"
+          },
+          "coords": [
+            -2.497585,
+            43.361639
+          ],
+          "category": "recreational",
+          "arrive_at": "11:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem kleineren, ruhigeren Strandabschnitt abseits der Massen und vergessen Sie nicht, Wasser und lokale Snacks mitzubringen.",
+            "hu": "Pihenjen ezen a kisebb, csendesebb strandszakaszon, amely tökéletes egy nyugodt fürdőzéshez a tömegtől távol, és hozzon magával vizet meg rágcsálnivalót.",
+            "ro": "Relaxați-vă pe această secțiune de plajă mai mică și mai liniștită, departe de aglomerație, și nu uitați să luați apă și gustări locale la pachet.",
+            "en": "Relax at this smaller, quieter beach section perfect for a tranquil dip away from the crowds, and remember to pack some water and local snacks."
+          }
+        },
+        {
+          "name": {
+            "de": "Lumentxa",
+            "hu": "Lumentxa",
+            "ro": "Lumentxa",
+            "en": "Lumentxa"
+          },
+          "coords": [
+            -2.50177,
+            43.360842
+          ],
+          "category": "natural",
+          "arrive_at": "13:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Wandern Sie auf diesen sanften Hügel, erkunden Sie alte Höhlen und genießen Sie den weiten Blick auf die Bucht, aber tragen Sie festes Schuhwerk.",
+            "hu": "Túrázzon fel erre a lankás természeti dombra az ősi barlangokhoz és az öbölre nyíló kilátásért, de a kiépítetlen erdei ösvényekre húzzon túracipőt.",
+            "ro": "Urcați pe acest deal natural pentru a explora peșteri antice și a vă bucura de priveliștile golfului, dar purtați încălțăminte robustă pentru trasee.",
+            "en": "Hike up this gentle natural hill to explore ancient caves and enjoy sweeping views of the bay, but wear sturdy shoes for the unpaved forest trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Armintxe",
+            "hu": "Armintxe",
+            "ro": "Armintxe",
+            "en": "Armintxe"
+          },
+          "coords": [
+            -2.507938,
+            43.361694
+          ],
+          "category": "natural",
+          "arrive_at": "14:35",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie den faszinierenden Ort dieser alten Höhlengravuren, beachten Sie jedoch, dass der Zugang zum Inneren zum Schutz der Kunst beschränkt ist.",
+            "hu": "Fedezze fel ezeknek az ősi barlangrajzoknak a lenyűgöző helyszínét, bár vegye figyelembe, hogy a művészet védelme érdekében a belső tér nem látogatható.",
+            "ro": "Descoperiți locația fascinantă a acestor gravuri rupestre antice, deși rețineți că accesul în interior este restricționat pentru conservarea artei.",
+            "en": "Discover the fascinating location of these recently found ancient cave engravings, though note that interior access is restricted to preserve the art."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt in Lekeitios kulturellem Herzen mit der Erkundung klassischer lokaler Orte und religiöser Stätten in Richtung der Basilika. Mittags machen Sie einen entspannten Spaziergang zu einem ruhigen kleinen Strand. Am Nachmittag lockt eine leichte Wanderung auf den Lumentxa-Hügel für Panoramablicke. Der Tag klingt an der mysteriösen Höhle von Armintxe mit einem perfekten Spaziergang aus.",
+        "hu": "A reggel Lekeitio kulturális szívében indul, helyi klasszikusokat és történelmi vallási helyszíneket felfedezve a Bazilika felé. Délben egy pihentető séta következik egy csendes kis öbölbe, amely békés menedéket nyújt. Délután egy könnyű túra vár a Lumentxa dombra a panorámáért. A napot a titokzatos Armintxe barlangnál zárjuk, tökéletes befejezést adva a partmenti sétának.",
+        "ro": "Dimineața începe în inima culturală a orașului Lekeitio, explorând locuri clasice și situri religioase istorice spre grandioasa Bazilică. La prânz vă bucurați de o plimbare relaxantă către o plajă liniștită. După-amiaza invită la o drumeție ușoară pe dealul Lumentxa pentru panorame naturale. Ziua se încheie lângă misteriosul sit Armintxe, încheind o plimbare perfectă de-a lungul coastei basce.",
+        "en": "Your morning starts in Lekeitio's cultural heart, exploring classic local venues and historic religious sites before moving towards the grand Basilica. Midday brings a relaxing stroll to a tranquil pocket beach, offering a serene escape. Afternoon invites a gentle hike up Lumentxa hill for natural panoramas over the bay. The day winds down by the mysterious Armintxe site, wrapping up a perfect walk."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:35",
+      "total_km": 3.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Santo Domingo komentua",
+            "hu": "Santo Domingo komentua",
+            "ro": "Santo Domingo komentua",
+            "en": "Santo Domingo komentua"
+          },
+          "coords": [
+            -2.503801,
+            43.362686
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die strenge Eleganz dieses historischen Dominikanerklosters und besuchen Sie respektvoll den friedlichen inneren Kreuzgang der Anlage.",
+            "hu": "Csodálja meg ennek a történelmi, helyi múltat formáló domonkos kolostornak a szigorú eleganciáját, és tegyen tiszteletteljes sétát a békés kerengőben.",
+            "ro": "Admirați eleganța austeră a acestei mănăstiri dominicane istorice care a modelat istoria locală și vizitați cu respect cloastrul interior pașnic.",
+            "en": "Admire the austere elegance of this historic Dominican convent that shaped local history, and respectfully visit the peaceful inner cloister."
+          }
+        },
+        {
+          "name": {
+            "de": "Andra Mariaren zeruratzea basilika",
+            "hu": "Andra Mariaren zeruratzea basilika",
+            "ro": "Andra Mariaren zeruratzea basilika",
+            "en": "Andra Mariaren zeruratzea basilika"
+          },
+          "coords": [
+            -2.502711,
+            43.363206
+          ],
+          "category": "religious",
+          "arrive_at": "09:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die spektakuläre gotische Architektur und den prächtigen goldenen Altaraufsatz im Inneren, und prüfen Sie den Messeplan vorab.",
+            "hu": "Csodálja meg a látványos gótikus építészetet és a pompás arany oltárképet belül, de a hívők tiszteletben tartása érdekében ellenőrizze a miserendet.",
+            "ro": "Minunați-vă de arhitectura gotică spectaculoasă și de magnificul altar auriu din interior și verificați programul slujbelor pentru a nu deranja.",
+            "en": "Marvel at the spectacular Gothic architecture and the magnificent golden altarpiece inside, and check the mass schedule to respect worshippers."
+          }
+        },
+        {
+          "name": {
+            "de": "Karraspio hondartza",
+            "hu": "Karraspio hondartza",
+            "ro": "Karraspio hondartza",
+            "en": "Karraspio hondartza"
+          },
+          "coords": [
+            -2.494373,
+            43.362748
+          ],
+          "category": "recreational",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.67,
+          "tip_5lang": {
+            "de": "Spazieren Sie bei Ebbe diesen weitläufigen Sandstrand entlang zur Insel San Nicolas und bringen Sie eine Windjacke für die kühle Küstenbrise mit.",
+            "hu": "Sétáljon végig ezen a hatalmas homokos strandon apálykor a San Nicolas-szigethez, és hozzon magával széldzsekit a hűvös parti szellő ellen.",
+            "ro": "Plimbați-vă de-a lungul acestei plaje întinse de nisip la reflux spre insula San Nicolas și aduceți o geacă de vânt pentru briza coastei.",
+            "en": "Walk along this expansive sandy beach when the tide is low to reach the iconic San Nicolas island, and bring a windbreaker for the coastal breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Mini Zoo",
+            "hu": "Mini Zoo",
+            "ro": "Mini Zoo",
+            "en": "Mini Zoo"
+          },
+          "coords": [
+            -2.506443,
+            43.359508
+          ],
+          "category": "recreational",
+          "arrive_at": "11:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.03,
+          "tip_5lang": {
+            "de": "Machen Sie einen Abstecher zu diesem charmanten Wildtiergehege der Gemeinde, um gerettete Tiere zu sehen, was besonders für kleine Kinder toll ist.",
+            "hu": "Tegyen egy kellemes kitérőt, hogy megnézze a megmentett állatokat ebben a bájos közösségi vadasparkban, amely különösen a kisgyermekek számára izgalmas.",
+            "ro": "Faceți un ocol încântător pentru a vedea diverse animale salvate în acest spațiu comunitar fermecător, fiind o atracție ideală pentru copiii mici.",
+            "en": "Take a delightful detour to see various rescued animals in this charming community wildlife space, which is especially engaging for young children."
+          }
+        },
+        {
+          "name": {
+            "de": "Ospital zaharra",
+            "hu": "Ospital zaharra",
+            "ro": "Ospital zaharra",
+            "en": "Ospital zaharra"
+          },
+          "coords": [
+            -2.505601,
+            43.351482
+          ],
+          "category": "historical",
+          "arrive_at": "13:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.89,
+          "tip_5lang": {
+            "de": "Betrachten Sie das klassische Mauerwerk dieses alten Krankenhauses für lokale Fischer und fotografieren Sie die gut erhaltene traditionelle Fassade.",
+            "hu": "Vizsgálja meg a helyi halászokat szolgáló régi kórház klasszikus baszk falazatát, és készítsen nagyszerű fotókat a jó állapotban fennmaradt homlokzatáról.",
+            "ro": "Examinați zidăria clasică a acestei vechi clădiri de spital care deservea pescarii locali și fotografiați fațada sa tradițională bine conservată.",
+            "en": "Examine the classic Basque masonry of this old hospital building that served local fishermen, and snap photos of its well-preserved traditional facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Mendexa Abentura Park",
+            "hu": "Mendexa Abentura Park",
+            "ro": "Mendexa Abentura Park",
+            "en": "Mendexa Abentura Park"
+          },
+          "coords": [
+            -2.497361,
+            43.349232
+          ],
+          "category": "landmark",
+          "arrive_at": "14:40",
+          "stay_min": 55,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.71,
+          "tip_5lang": {
+            "de": "Testen Sie Ihre Geschicklichkeit auf den aufregenden Baumkronen-Hindernisparcours im Abenteuerpark, aber denken Sie an bequeme Sportkleidung.",
+            "hu": "Tegye próbára ügyességét az erdei kalandpark izgalmas lombkorona-akadálypályáin, de mindenképpen kényelmes és rugalmas sportruházatot viseljen.",
+            "ro": "Testați-vă agilitatea pe cursurile de obstacole din vârfurile copacilor în acest parc de aventuri, dar nu uitați să purtați haine sport confortabile.",
+            "en": "Test your agility on the exciting treetops obstacle courses in this forest adventure park, but remember to wear comfortable athletic clothing."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag an Lekeitios großartigem religiösem Erbe und atmen Sie an der Basilika die frische Meeresluft. Rollen Sie mittags entspannt die Küste entlang zum weitläufigen Strand Karraspio und einem charmanten Mini-Zoo. Nachmittags geht es nach Süden zum historischen Krankenhausgelände, und der Abend endet mit Adrenalin im üppigen Wald-Abenteuerpark.",
+        "hu": "Kezdje a biciklis napot Lekeitio nagyszerű vallási örökségének felfedezésével, friss tengeri levegőt szívva a Bazilikánál. Délben guruljon a part mentén a hatalmas Karraspio strandhoz és egy bájos mini állatkerthez. A délutáni tekerés délre visz a történelmi kórház területére, az este pedig adrenalinnal telve zárul a buja erdei kalandparkban.",
+        "ro": "Începeți ziua de ciclism pedalând pe lângă grandioasa moștenire religioasă din Lekeitio, respirând aerul proaspăt al mării la Bazilică. Rulați lin de-a lungul coastei la prânz, relaxându-vă la plaja Karraspio și vizitând mini-grădina zoologică. Plimbarea de după-amiază duce la fostul spital istoric, iar seara se termină cu adrenalină în parcul de aventuri din pădure.",
+        "en": "Kick off your cycling day pedaling past Lekeitio's grand religious heritage, breathing in the fresh morning sea air at the Basilica. Roll smoothly along the coast by midday, relaxing at the expansive Karraspio beach before checking out a charming mini zoo. Afternoon rides take you south to historic hospital grounds, and evening finishes with adrenaline at the lush forest adventure park."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:55",
+      "total_km": 5.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ospital zaharra",
+            "hu": "Ospital zaharra",
+            "ro": "Ospital zaharra",
+            "en": "Ospital zaharra"
+          },
+          "coords": [
+            -2.505601,
+            43.351482
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Betrachten Sie das klassische Mauerwerk dieses alten Krankenhauses für lokale Fischer und fotografieren Sie die gut erhaltene traditionelle Fassade.",
+            "hu": "Vizsgálja meg a helyi halászokat szolgáló régi kórház klasszikus baszk falazatát, és készítsen nagyszerű fotókat a jó állapotban fennmaradt homlokzatáról.",
+            "ro": "Examinați zidăria clasică a acestei vechi clădiri de spital care deservea pescarii locali și fotografiați fațada sa tradițională bine conservată.",
+            "en": "Examine the classic Basque masonry of this old hospital building that served local fishermen, and snap photos of its well-preserved traditional facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Mendexa Abentura Park",
+            "hu": "Mendexa Abentura Park",
+            "ro": "Mendexa Abentura Park",
+            "en": "Mendexa Abentura Park"
+          },
+          "coords": [
+            -2.497361,
+            43.349232
+          ],
+          "category": "landmark",
+          "arrive_at": "10:32",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.71,
+          "tip_5lang": {
+            "de": "Testen Sie Ihre Geschicklichkeit auf den aufregenden Baumkronen-Hindernisparcours im Abenteuerpark, aber denken Sie an bequeme Sportkleidung.",
+            "hu": "Tegye próbára ügyességét az erdei kalandpark izgalmas lombkorona-akadálypályáin, de mindenképpen kényelmes és rugalmas sportruházatot viseljen.",
+            "ro": "Testați-vă agilitatea pe cursurile de obstacole din vârfurile copacilor în acest parc de aventuri, dar nu uitați să purtați haine sport confortabile.",
+            "en": "Test your agility on the exciting treetops obstacle courses in this forest adventure park, but remember to wear comfortable athletic clothing."
+          }
+        },
+        {
+          "name": {
+            "de": "Andra Mariaren zeruratzea basilika",
+            "hu": "Andra Mariaren zeruratzea basilika",
+            "ro": "Andra Mariaren zeruratzea basilika",
+            "en": "Andra Mariaren zeruratzea basilika"
+          },
+          "coords": [
+            -2.502711,
+            43.363206
+          ],
+          "category": "religious",
+          "arrive_at": "11:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.61,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die spektakuläre gotische Architektur und den prächtigen goldenen Altaraufsatz im Inneren, und prüfen Sie den Messeplan vorab.",
+            "hu": "Csodálja meg a látványos gótikus építészetet és a pompás arany oltárképet belül, de a hívők tiszteletben tartása érdekében ellenőrizze a miserendet.",
+            "ro": "Minunați-vă de arhitectura gotică spectaculoasă și de magnificul altar auriu din interior și verificați programul slujbelor pentru a nu deranja.",
+            "en": "Marvel at the spectacular Gothic architecture and the magnificent golden altarpiece inside, and check the mass schedule to respect worshippers."
+          }
+        },
+        {
+          "name": {
+            "de": "Antzorizko Santa Katalina",
+            "hu": "Antzorizko Santa Katalina",
+            "ro": "Antzorizko Santa Katalina",
+            "en": "Antzorizko Santa Katalina"
+          },
+          "coords": [
+            -2.509806,
+            43.376601
+          ],
+          "category": "religious",
+          "arrive_at": "11:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.59,
+          "tip_5lang": {
+            "de": "Genießen Sie spektakuläre Meerespanoramen von dieser dramatischen Klippen-Einsiedelei, aber achten Sie in der Nähe der steilen Kanten auf Ihre Schritte.",
+            "hu": "Élvezze a tengeri panorámát ebből a drámai, sziklafalon álló remetelakból a fokon, de nagyon ügyeljen a lépteire a meredek peremek közelében.",
+            "ro": "Bucurați-vă de panorame marine spectaculoase de la acest schit așezat pe stâncă ce păzește capul, dar fiți foarte atenți lângă marginile abrupte.",
+            "en": "Enjoy spectacular ocean panoramas from this dramatic clifftop hermitage that guards the cape, and carefully watch your step near the steep edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Talaia",
+            "hu": "Talaia",
+            "ro": "Talaia",
+            "en": "Talaia"
+          },
+          "coords": [
+            -2.517458,
+            43.37412
+          ],
+          "category": "landmark",
+          "arrive_at": "12:27",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.67,
+          "tip_5lang": {
+            "de": "Stehen Sie an diesem historischen Aussichtspunkt, wo man einst nach Walen Ausschau hielt, und bringen Sie ein Fernglas für die Horizontbeobachtung mit.",
+            "hu": "Álljon meg ezen a történelmi kilátóponton, ahonnan egykor a bálnákat figyelték, és hozzon magával távcsövet a távoli horizont alaposabb kémleléséhez.",
+            "ro": "Stați la acest punct de belvedere istoric unde localnicii pândeau balenele și aduceți un binoclu pentru o scanare mai bună a orizontului îndepărtat.",
+            "en": "Stand at this historic coastal lookout where locals once watched for whales and returning ships, and bring binoculars for better horizon scanning."
+          }
+        },
+        {
+          "name": {
+            "de": "Talaiako tontorra",
+            "hu": "Talaiako tontorra",
+            "ro": "Talaiako tontorra",
+            "en": "Talaiako tontorra"
+          },
+          "coords": [
+            -2.519567,
+            43.373219
+          ],
+          "category": "natural",
+          "arrive_at": "12:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erreichen Sie den rauen Gipfel für atemberaubende Ausblicke auf die Küste von Biskaya, aber packen Sie winddichte Kleidung ein, da es stürmisch wird.",
+            "hu": "Másszon fel a zord csúcsra, ahonnan lélegzetelállító panoráma nyílik az egész Vizcayai-partra, de csomagoljon szélálló felszerelést a viharos széllökések miatt.",
+            "ro": "Atingeți vârful stâncos pentru a experimenta vederi panoramice uluitoare ale coastei Biscaya, dar aduceți echipament rezistent la rafalele de vânt.",
+            "en": "Reach the rugged summit to experience breathtaking panoramic views of the entire Biscay coastline, but pack windproof gear as it gets very gusty."
+          }
+        },
+        {
+          "name": {
+            "de": "Otoio",
+            "hu": "Otoio",
+            "ro": "Otoio",
+            "en": "Otoio"
+          },
+          "coords": [
+            -2.529302,
+            43.370531
+          ],
+          "category": "natural",
+          "arrive_at": "14:10",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.84,
+          "tip_5lang": {
+            "de": "Bezwingen Sie diesen markanten Berggipfel für die ultimative Vogelperspektive auf Lekeitio und beginnen Sie die Wanderung früh, um der Mittagssonne zu entgehen.",
+            "hu": "Hódítsa meg ezt a kiemelkedő hegycsúcsot a Lekeitio-ra nyíló tökéletes madártávlati kilátásért, és kezdje korán a túrát a déli napsütés elkerülése végett.",
+            "ro": "Cuceriți acest vârf de munte proeminent pentru perspectiva supremă asupra orașului Lekeitio și începeți drumeția devreme pentru a evita soarele amiezii.",
+            "en": "Conquer this prominent mountain peak for the ultimate bird's-eye perspective of Lekeitio, and start your hike early to avoid the midday sun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour mit Lekeitios historischen Überresten, bevor Sie den nahen Abenteuerpark besuchen. Mittags fahren Sie ins Zentrum, um die atemberaubende Basilika am Meer zu bewundern. Fahren Sie nachmittags über dramatische Küstenstraßen hinauf zur Klippen-Einsiedelei Santa Katalina und den Wal-Aussichtspunkten. Der Abend endet mit einer Wanderung auf den Berg Otoio.",
+        "hu": "Kezdje az autós túrát Lekeitio déli történelmi emlékeivel, majd látogasson el a közeli kalandparkba. Délben térjen vissza a központba, hogy megcsodálja a tengerparti Bazilikát. Délután cirkáljon a drámai parti utakon fel a Santa Katalina sziklafalon álló remetelakához és a régi bálnalesekhez. Az este az Otoio-hegy pompás megmászásával és lenyűgöző kilátásával zárul.",
+        "ro": "Începeți turul auto descoperind vestigiile istorice din sud, înainte de o mică aventură în parcul din apropiere. Prânzul vă aduce în centru pentru a admira superba Bazilică. După-amiaza, parcurgeți drumurile de coastă dramatice până la schitul Santa Katalina și vechile puncte de observație a balenelor. Seara se încheie cu o drumeție magnifică pe Muntele Otoio.",
+        "en": "Start your driving tour discovering southern Lekeitio's historic remnants before grabbing some quick action at the nearby adventure park. Midday leads you back to the center to admire the stunning seaside Basilica. In the afternoon, cruise the dramatic coastal roads up to Santa Katalina's clifftop hermitage and the old whale lookouts. Your evening concludes with a magnificent hike up Mt. Otoio."
+      }
+    }
+  }
+}

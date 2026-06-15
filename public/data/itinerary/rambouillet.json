@@ -1,0 +1,451 @@
+{
+  "city_id": "rambouillet",
+  "anchor": {
+    "name": "Rambouillet",
+    "coords": [
+      1.83,
+      48.6436
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:29",
+      "total_km": 2.95,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Square des Marais",
+            "hu": "Square des Marais",
+            "ro": "Square des Marais",
+            "en": "Square des Marais"
+          },
+          "coords": [
+            1.819963,
+            48.651352
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem friedlichen städtischen Platz mit malerischer Landschaftsgestaltung und holen Sie sich vorher einen Kaffee in der Nähe.",
+            "hu": "Kezdje a napot ezen a békés, festői parkosítással rendelkező városi téren, és igyon egy friss kávét a közeli kávézóban, mielőtt tovább indulna felfedezni.",
+            "ro": "Începeți ziua în această piațetă urbană liniștită, cu peisaje pitorești, și luați o cafea proaspătă de la o cafenea din apropiere înainte de a continua.",
+            "en": "Start your day gracefully in this peaceful urban square featuring quaint landscaping, and grab a fresh coffee from a nearby café before you continue exploring."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin de la Motte",
+            "hu": "Jardin de la Motte",
+            "ro": "Jardin de la Motte",
+            "en": "Jardin de la Motte"
+          },
+          "coords": [
+            1.819288,
+            48.649827
+          ],
+          "category": "family",
+          "arrive_at": "09:37",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannenden Morgenspaziergang durch diesen gepflegten öffentlichen Garten voller saisonaler Blumen, der sich ideal für schöne Fotos eignet.",
+            "hu": "Élvezze a pihentető reggeli sétát ebben a szezonális virágokkal teli, gondozott közkertben, amely tökéletes helyszín néhány gyönyörű fénykép elkészítéséhez.",
+            "ro": "Bucurați-vă de o plimbare matinală relaxantă prin această grădină publică plină de flori de sezon, fiind un loc perfect pentru a face câteva fotografii superbe.",
+            "en": "Enjoy a relaxing morning walk through this well-maintained public garden full of seasonal flowers, making it a perfect spot to take some beautiful photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Rambouillet",
+            "hu": "Rambouillet-kastély",
+            "ro": "Castelul Rambouillet",
+            "en": "Rambouillet Castle"
+          },
+          "coords": [
+            1.817778,
+            48.645556
+          ],
+          "category": "historical",
+          "arrive_at": "10:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Architektur, in der einst französische Präsidenten residierten, und buchen Sie Ihre Führung frühzeitig, um Menschenmassen zu meiden.",
+            "hu": "Csodálja meg a történelmi építészetet, ahol egykor francia elnökök laktak, és foglaljon korán tárlatvezetést, hogy elkerülje a délutáni nagyobb tömeget.",
+            "ro": "Admirați arhitectura istorică unde au locuit cândva președinții francezi și rezervați turul ghidat devreme pentru a evita aglomerația de după-amiază.",
+            "en": "Admire the exquisite historic architecture where French presidents once resided, and make sure to book your guided tour early to avoid the afternoon crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Rambolitrain Museum",
+            "hu": "Rambolitrain Múzeum",
+            "ro": "Muzeul Rambolitrain",
+            "en": "Rambolitrain Museum"
+          },
+          "coords": [
+            1.824173,
+            48.646044
+          ],
+          "category": "museum",
+          "arrive_at": "11:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.44,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine unglaubliche Sammlung von Miniaturzügen und historischem Spielzeug, aber beachten Sie die Mittagspause bei der Planung Ihres Besuchs.",
+            "hu": "Fedezze fel a miniatűr vonatok és vintage játékok elképesztő gyűjteményét, de mindenképp ellenőrizze a nyitvatartást, mert ebédszünetben általában zárva tartanak.",
+            "ro": "Explorați o colecție incredibilă de trenulețe și jucării de epocă, dar verificați programul de funcționare deoarece se închide mereu în timpul prânzului.",
+            "en": "Explore an incredible collection of miniature trains and vintage toys that delight all ages, but check the operating hours as they close during lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Wald von Rambouillet",
+            "hu": "Rambouillet-erdő",
+            "ro": "Pădurea Rambouillet",
+            "en": "Rambouillet Forest"
+          },
+          "coords": [
+            1.844367,
+            48.635107
+          ],
+          "category": "natural",
+          "arrive_at": "13:44",
+          "stay_min": 105,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die schattigen Wege dieses riesigen Naturschutzgebietes zur Tierbeobachtung und tragen Sie dabei unbedingt bequeme Wanderschuhe.",
+            "hu": "Sétáljon végig az árnyékos ösvényeken ebben a hatalmas természetvédelmi területen, és viseljen kényelmes túracipőt a vadon élő állatok megfigyeléséhez.",
+            "ro": "Plimbați-vă pe cărările umbrite ale acestei rezervații naturale vaste, excelentă pentru observarea faunei, așa că purtați neapărat încălțăminte confortabilă.",
+            "en": "Stroll along the shaded pathways of this vast natural reserve which offers excellent wildlife spotting, so wear comfortable walking shoes for the varied terrain."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Wanderabenteuer in der frischen Morgenluft am ruhigen Square des Marais und schlendern Sie zum bunten Jardin de la Motte, um Ihre Sinne zu wecken. Diese üppigen Grünflächen geben einen wunderbaren, entspannenden Ton für die spannende historische Reise vor, die heute noch vor Ihnen liegt.\n\nWenn die Sonne höher steht, erreichen Sie das beeindruckende Schloss Rambouillet und tauchen tief in die französische Geschichte ein. Danach können Sie im Rambolitrain Museum in Nostalgie schwelgen, wo unzählige Miniaturzüge mit ihren Details sowohl junge als auch jung gebliebene Besucher begeistern.\n\nNachdem Sie den städtischen Charme hinter sich gelassen haben, lädt der Nachmittag zu einem erfrischenden Spaziergang in den Wald von Rambouillet ein. Das weitläufige Blätterdach spendet kühlenden Schatten, während Sie die rohe, unberührte natürliche Schönheit der umgebenden Region intensiv erleben.\n\nIhr aufregender Erkundungstag endet friedlich unter den majestätischen Bäumen des Waldes von Rambouillet. Nutzen Sie diese letzte Stunde, um die frische, erdige Luft tief einzuatmen und dem sanften Rauschen der Blätter zuzuhören. Es ist der perfekte, ruhige Abschluss einer abwechslungsreichen Tour.",
+        "hu": "Kezdje a gyalogos kalandot a friss reggeli levegőn a békés Square des Marais-n, majd sétáljon le a színes Jardin de la Motte-hoz, hogy felébressze érzékeit. Ezek a buja, hívogató zöldterületek csodálatos és pihentető alaphangot adnak az Ön előtt álló izgalmas történelmi utazásnak a mai napra.\n\nAhogy a nap egyre magasabbra hág, megérkezik a csodálatos Rambouillet-kastélyhoz, ahol elmerülhet a francia elnöki történelemben. Ezt követően adja át magát a nosztalgiának a Rambolitrain Múzeumban, ahol számtalan miniatűr vonat nyűgözi le a fiatalokat és az idősebbeket hihetetlen részletgazdagságával.\n\nA városi bájt maga mögött hagyva, a délután egy hosszú, frissítő sétára invitál az ikonikus Rambouillet-erdő felé. A kiterjedt lombkorona hűsítő árnyékot ad, miközben a gondozott múzeumi ösvényekről a vadonba lép át, átölelve a környező francia régió nyers és lenyűgöző természeti szépségét.\n\nA felfedezéssel töltött napja a Rambouillet-erdő hatalmas fái alatt ér véget. Használja ki ezt az utolsó órát arra, hogy belélegezze a friss, földillatú levegőt, és hallgassa a levelek lágy zizegését. Ez a tökéletes, csendes befejezése egy mélyen jutalmazó és változatos gyalogos túrának a városban.",
+        "ro": "Începeți aventura pe jos în aerul proaspăt al dimineții la liniștita Square des Marais, apoi plimbați-vă spre colorata Jardin de la Motte. Aceste spații verzi luxuriante și primitoare stabilesc un ton minunat și relaxant pentru călătoria istorică captivantă care vă stă în față pe parcursul zilei de astăzi.\n\nPe măsură ce soarele urcă, veți ajunge la magnificul Castel Rambouillet, plonjând în istoria prezidențială franceză. Apoi, cufundați-vă în nostalgie la Muzeul Rambolitrain, unde nenumărate trenulețe în miniatură captivează atât tinerii, cât și pe cei cu inima tânără prin detaliile lor incredibile.\n\nLăsând în urmă farmecul urban, după-amiaza vă invită la o plimbare lungă și răcoritoare spre emblematica Pădure Rambouillet. Coroana vastă a copacilor oferă o umbră răcoroasă pe măsură ce treceți de la aleile îngrijite ale muzeului la sălbăticie, îmbrățișând frumusețea naturală brută a regiunii.\n\nZiua dumneavoastră de explorare se încheie sub copacii măreți ai Pădurii Rambouillet. Profitați de această ultimă oră pentru a respira aerul curat, cu miros de pământ, și a asculta foșnetul blând al frunzelor. Este finalul perfect, liniștit, pentru un tur pe jos extrem de plin de satisfacții și variat.",
+        "en": "Begin your walking adventure in the fresh morning air at the tranquil Square des Marais, then meander down to the colorful Jardin de la Motte to awaken your senses. These lush, inviting green spaces set a wonderful and relaxing tone for the exciting historical journey that lies ahead of you today.\n\nAs the sun climbs higher, you will arrive at the magnificent Rambouillet Castle, diving deep into French presidential history. Afterward, immerse yourself in nostalgia at the Rambolitrain Museum, where countless miniature trains captivate both the young and the young at heart with their incredible detail.\n\nLeaving the urban charm behind, the afternoon invites you to take a long, refreshing walk towards the iconic Rambouillet Forest. The sprawling canopy provides a cooling shade as you transition from the manicured museum paths into the wild, embracing the raw natural beauty of the surrounding region.\n\nYour day of exploration concludes beneath the grand trees of the Rambouillet Forest. Take this final hour to breathe in the crisp, earthy air and listen to the gentle rustling of the leaves. It is the perfect, quiet ending to a deeply rewarding and varied walking tour through the heart of Rambouillet."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:29",
+      "total_km": 5.73,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Jardin de la Motte",
+            "hu": "Jardin de la Motte",
+            "ro": "Jardin de la Motte",
+            "en": "Jardin de la Motte"
+          },
+          "coords": [
+            1.819288,
+            48.649827
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannenden Morgenspaziergang durch diesen gepflegten öffentlichen Garten voller saisonaler Blumen, der sich ideal für schöne Fotos eignet.",
+            "hu": "Élvezze a pihentető reggeli sétát ebben a szezonális virágokkal teli, gondozott közkertben, amely tökéletes helyszín néhány gyönyörű fénykép elkészítéséhez.",
+            "ro": "Bucurați-vă de o plimbare matinală relaxantă prin această grădină publică plină de flori de sezon, fiind un loc perfect pentru a face câteva fotografii superbe.",
+            "en": "Enjoy a relaxing morning walk through this well-maintained public garden full of seasonal flowers, making it a perfect spot to take some beautiful photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Rambouillet",
+            "hu": "Rambouillet-kastély",
+            "ro": "Castelul Rambouillet",
+            "en": "Rambouillet Castle"
+          },
+          "coords": [
+            1.817778,
+            48.645556
+          ],
+          "category": "historical",
+          "arrive_at": "09:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Architektur, in der einst französische Präsidenten residierten, und buchen Sie Ihre Führung frühzeitig, um Menschenmassen zu meiden.",
+            "hu": "Csodálja meg a történelmi építészetet, ahol egykor francia elnökök laktak, és foglaljon korán tárlatvezetést, hogy elkerülje a délutáni nagyobb tömeget.",
+            "ro": "Admirați arhitectura istorică unde au locuit cândva președinții francezi și rezervați turul ghidat devreme pentru a evita aglomerația de după-amiază.",
+            "en": "Admire the exquisite historic architecture where French presidents once resided, and make sure to book your guided tour early to avoid the afternoon crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Rambolitrain Museum",
+            "hu": "Rambolitrain Múzeum",
+            "ro": "Muzeul Rambolitrain",
+            "en": "Rambolitrain Museum"
+          },
+          "coords": [
+            1.824173,
+            48.646044
+          ],
+          "category": "museum",
+          "arrive_at": "10:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.44,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine unglaubliche Sammlung von Miniaturzügen und historischem Spielzeug, aber beachten Sie die Mittagspause bei der Planung Ihres Besuchs.",
+            "hu": "Fedezze fel a miniatűr vonatok és vintage játékok elképesztő gyűjteményét, de mindenképp ellenőrizze a nyitvatartást, mert ebédszünetben általában zárva tartanak.",
+            "ro": "Explorați o colecție incredibilă de trenulețe și jucării de epocă, dar verificați programul de funcționare deoarece se închide mereu în timpul prânzului.",
+            "en": "Explore an incredible collection of miniature trains and vintage toys that delight all ages, but check the operating hours as they close during lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Wald von Rambouillet",
+            "hu": "Rambouillet-erdő",
+            "ro": "Pădurea Rambouillet",
+            "en": "Rambouillet Forest"
+          },
+          "coords": [
+            1.844367,
+            48.635107
+          ],
+          "category": "natural",
+          "arrive_at": "12:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die schattigen Wege dieses riesigen Naturschutzgebietes zur Tierbeobachtung und tragen Sie dabei unbedingt bequeme Wanderschuhe.",
+            "hu": "Sétáljon végig az árnyékos ösvényeken ebben a hatalmas természetvédelmi területen, és viseljen kényelmes túracipőt a vadon élő állatok megfigyeléséhez.",
+            "ro": "Plimbați-vă pe cărările umbrite ale acestei rezervații naturale vaste, excelentă pentru observarea faunei, așa că purtați neapărat încălțăminte confortabilă.",
+            "en": "Stroll along the shaded pathways of this vast natural reserve which offers excellent wildlife spotting, so wear comfortable walking shoes for the varied terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Espace Rambouillet",
+            "hu": "Espace Rambouillet",
+            "ro": "Espace Rambouillet",
+            "en": "Espace Rambouillet"
+          },
+          "coords": [
+            1.828978,
+            48.621941
+          ],
+          "category": "natural",
+          "arrive_at": "14:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.94,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Waldumgebung ein, wo Greifvögel frei fliegen, und bleiben Sie in der Nähe der Gehege ruhig, um die besten Beobachtungen zu machen.",
+            "hu": "Merüljön el az erdei környezetben, ahol ragadozó madarak szabadon repülnek, és maradjon csendben a kifutók közelében a legjobb megfigyelési élmény érdekében.",
+            "ro": "Cufundați-vă în mediul forestier unde păsările de pradă zboară liber și amintiți-vă să păstrați liniștea lângă țarcuri pentru cele mai bune priveliști.",
+            "en": "Immerse yourself completely in the deep forest environment where birds of prey fly freely, and remember to stay quiet near the enclosures for the best views."
+          }
+        },
+        {
+          "name": {
+            "de": "Spielplatz Bel Air",
+            "hu": "Bel Air játszótér",
+            "ro": "Loc de joacă Bel Air",
+            "en": "Aire de Jeux Square du Bel Air"
+          },
+          "coords": [
+            1.828537,
+            48.630867
+          ],
+          "category": "family",
+          "arrive_at": "15:34",
+          "stay_min": 55,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder auf diesem modernen und sicheren Spielplatz mit tollen Klettergerüsten spielen, während Sie sich auf den schattigen Bänken ausruhen.",
+            "hu": "Hagyja, hogy a gyerekek levezessék az energiájukat ezen a modern, biztonságos játszótéren, miközben ön megpihenhet az árnyékos és kényelmes padokon.",
+            "ro": "Lăsați copiii să-și consume energia la acest loc de joacă modern și sigur, în timp ce vă odihniți puțin pe băncile confortabile și umbrite de copaci.",
+            "en": "Let the kids burn off some energy at this modern and safe playground which offers fun climbing structures, while you rest on the comfortable shaded benches."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am schönen Jardin de la Motte und genießen Sie eine sanfte morgendliche Fahrt, bevor Sie zum berühmten Schloss Rambouillet radeln. Die frische Luft und die guten Radwege bieten einen belebenden Start und bereiten Sie perfekt auf die historischen Entdeckungen vor, die Sie erwarten.\n\nGegen Mittag radeln Sie durch wunderschöne Straßen zum bezaubernden Rambolitrain Museum. Hier machen Sie eine herrliche Pause vom Sattel, um die aufwendigen Spielzeugzüge zu bewundern. Danach begeben Sie sich auf eine malerische Fahrt in Richtung der weitläufigen Naturgebiete am Stadtrand.\n\nDer Nachmittag steht ganz im Zeichen der Natur, während Sie elegant durch den Wald von Rambouillet gleiten. Die gut markierten Wege führen Sie dann zum fantastischen Espace Rambouillet, wo Sie Ihr Rad abstellen und die faszinierenden Greifvögel sowie die lokale Tierwelt in ihrem Lebensraum beobachten können.\n\nWenn die Sonne untergeht, bringt Sie eine kurze, entspannte Fahrt zum Aire de Jeux Square du Bel Air. Hier können Sie sich zurücklehnen und die Reise des Tages Revue passieren lassen, während die Kinder den Spielplatz genießen – ein friedlicher und befriedigender Abschluss Ihrer aktiven Radtour.",
+        "hu": "Indítsa kerékpáros túráját a bájos Jardin de la Motte-nál, és élvezze a kellemes reggeli tekerést, mielőtt a híres Rambouillet-kastélyhoz érne. A friss levegő és a sima kerékpárutak élénkítő kezdést biztosítanak, tökéletesen felkészítve Önt az odabent váró lenyűgöző történelmi felfedezésekre.\n\nDélben gyönyörű utcákon kerékpározva éri el a bájos Rambolitrain Múzeumot, ahol egy kellemes pihenőt tartva megcsodálhatja a bonyolult játékvonatokat. Ezt követően egy festői kerékpárútra indul, egyenesen a várost övező kiterjedt, buja zöld természetvédelmi területek felé véve az irányt.\n\nA délután a természetről szól, ahogy kecsesen átsiklik a csodálatos Rambouillet-erdőn. A jól jelzett kerékpáros ösvények elvezetik a hihetetlen Espace Rambouillet-hez, ahol biztonságosan leparkolhatja kerékpárját, és megfigyelheti a lenyűgöző ragadozó madarakat és a helyi vadvilágot a maga valójában.\n\nAhogy a nap lenyugszik, egy rövid, kényelmes utazás elviszi a nyüzsgő Aire de Jeux Square du Bel Air-hez. Itt hátradőlhet, és átgondolhatja a nap élményeit, miközben a gyerekek élvezik a játszóteret, ezzel a nyugodt és elégedett érzéssel lezárva a fárasztó, de csodálatos Rambouillet-i kerékpártúrát.",
+        "ro": "Începeți călătoria cu bicicleta la superba Jardin de la Motte, bucurându-vă de o plimbare matinală ușoară înainte de a pedala spre ilustrul Castel Rambouillet. Aerul curat și pistele de ciclism line oferă un început revigorant, pregătindu-vă perfect pentru descoperirile istorice care vă așteaptă înăuntru.\n\nPână la prânz, veți pedala pe străzi frumoase pentru a ajunge la fermecătorul Muzeu Rambolitrain, luând o pauză încântătoare din șa pentru a admira trenulețele complexe. Apoi, vă veți îmbarca într-o plimbare pitorească cu bicicleta, îndreptându-vă direct spre spațiile verzi vaste care mărginesc orașul.\n\nDupă-amiaza este dedicată naturii, în timp ce alunecați grațios prin magnifica Pădure Rambouillet. Traseele de biciclete bine marcate vă vor conduce la incredibilul Espace Rambouillet, unde puteți parca bicicleta și observa fascinantele păsări de pradă și fauna locală în habitatul lor natural.\n\nPe măsură ce soarele apune, o scurtă și relaxantă plimbare vă aduce la animata Aire de Jeux Square du Bel Air. Aici vă puteți așeza și reflecta la călătoria zilei, în timp ce copiii se bucură de locul de joacă, încheind turul activ cu bicicleta cu un sentiment senin și satisfăcător de împlinire.",
+        "en": "Kick off your biking journey at the lovely Jardin de la Motte, enjoying a gentle morning ride before pedaling over to the illustrious Rambouillet Castle. The crisp air and the smooth cycling paths offer an invigorating start, preparing you perfectly for the historical discoveries that await you inside.\n\nBy midday, you will cycle past beautiful streets to reach the charming Rambolitrain Museum, taking a delightful break from the saddle to admire the intricate toy trains. Afterward, you will embark on a scenic bike ride heading directly towards the expansive natural greenery that borders the city.\n\nThe afternoon is all about nature as you glide gracefully through the magnificent Rambouillet Forest. The well-marked bike trails will then lead you to the incredible Espace Rambouillet, where you can safely park your bike and observe the fascinating birds of prey and local wildlife in their true habitat.\n\nAs the sun sets, a short, leisurely ride brings you to the lively Aire de Jeux Square du Bel Air. Here, you can sit back and reflect on the day's journey while the kids enjoy the playground, concluding your active cycling tour with a serene and satisfying feeling of accomplishment in Rambouillet."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 7.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Square Kichheim-Unter-Teck",
+            "hu": "Square Kichheim-Unter-Teck",
+            "ro": "Square Kichheim-Unter-Teck",
+            "en": "Square Kichheim-Unter-Teck"
+          },
+          "coords": [
+            1.858981,
+            48.652127
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Tour in diesem schönen Park, der Rambouillets Partnerstadt gewidmet ist und eine ruhige Grünfläche für ein morgendliches Stretching bietet.",
+            "hu": "Kezdje útitervét ebben a Rambouillet testvérvárosának szentelt lakóparkban, amely nyugodt zöldterületet kínál egy gyors, felfrissítő reggeli sétához.",
+            "ro": "Începeți itinerariul în acest parc minunat dedicat orașului înfrățit cu Rambouillet, care oferă un spațiu verde seren, ideal pentru o scurtă plimbare matinală.",
+            "en": "Kick off your itinerary in this lovely residential park dedicated to Rambouillet's twin town, which offers a serene green space ideal for quick morning stretches."
+          }
+        },
+        {
+          "name": {
+            "de": "Rambolitrain Museum",
+            "hu": "Rambolitrain Múzeum",
+            "ro": "Muzeul Rambolitrain",
+            "en": "Rambolitrain Museum"
+          },
+          "coords": [
+            1.824173,
+            48.646044
+          ],
+          "category": "museum",
+          "arrive_at": "09:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.58,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine unglaubliche Sammlung von Miniaturzügen und historischem Spielzeug, aber beachten Sie die Mittagspause bei der Planung Ihres Besuchs.",
+            "hu": "Fedezze fel a miniatűr vonatok és vintage játékok elképesztő gyűjteményét, de mindenképp ellenőrizze a nyitvatartást, mert ebédszünetben általában zárva tartanak.",
+            "ro": "Explorați o colecție incredibilă de trenulețe și jucării de epocă, dar verificați programul de funcționare deoarece se închide mereu în timpul prânzului.",
+            "en": "Explore an incredible collection of miniature trains and vintage toys that delight all ages, but check the operating hours as they close during lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Rambouillet",
+            "hu": "Rambouillet-kastély",
+            "ro": "Castelul Rambouillet",
+            "en": "Rambouillet Castle"
+          },
+          "coords": [
+            1.817778,
+            48.645556
+          ],
+          "category": "historical",
+          "arrive_at": "11:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.44,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Architektur, in der einst französische Präsidenten residierten, und buchen Sie Ihre Führung frühzeitig, um Menschenmassen zu meiden.",
+            "hu": "Csodálja meg a történelmi építészetet, ahol egykor francia elnökök laktak, és foglaljon korán tárlatvezetést, hogy elkerülje a délutáni nagyobb tömeget.",
+            "ro": "Admirați arhitectura istorică unde au locuit cândva președinții francezi și rezervați turul ghidat devreme pentru a evita aglomerația de după-amiază.",
+            "en": "Admire the exquisite historic architecture where French presidents once resided, and make sure to book your guided tour early to avoid the afternoon crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Wald von Rambouillet",
+            "hu": "Rambouillet-erdő",
+            "ro": "Pădurea Rambouillet",
+            "en": "Rambouillet Forest"
+          },
+          "coords": [
+            1.844367,
+            48.635107
+          ],
+          "category": "natural",
+          "arrive_at": "12:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die schattigen Wege dieses riesigen Naturschutzgebietes zur Tierbeobachtung und tragen Sie dabei unbedingt bequeme Wanderschuhe.",
+            "hu": "Sétáljon végig az árnyékos ösvényeken ebben a hatalmas természetvédelmi területen, és viseljen kényelmes túracipőt a vadon élő állatok megfigyeléséhez.",
+            "ro": "Plimbați-vă pe cărările umbrite ale acestei rezervații naturale vaste, excelentă pentru observarea faunei, așa că purtați neapărat încălțăminte confortabilă.",
+            "en": "Stroll along the shaded pathways of this vast natural reserve which offers excellent wildlife spotting, so wear comfortable walking shoes for the varied terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Espace Rambouillet",
+            "hu": "Espace Rambouillet",
+            "ro": "Espace Rambouillet",
+            "en": "Espace Rambouillet"
+          },
+          "coords": [
+            1.828978,
+            48.621941
+          ],
+          "category": "natural",
+          "arrive_at": "14:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.94,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Waldumgebung ein, wo Greifvögel frei fliegen, und bleiben Sie in der Nähe der Gehege ruhig, um die besten Beobachtungen zu machen.",
+            "hu": "Merüljön el az erdei környezetben, ahol ragadozó madarak szabadon repülnek, és maradjon csendben a kifutók közelében a legjobb megfigyelési élmény érdekében.",
+            "ro": "Cufundați-vă în mediul forestier unde păsările de pradă zboară liber și amintiți-vă să păstrați liniștea lângă țarcuri pentru cele mai bune priveliști.",
+            "en": "Immerse yourself completely in the deep forest environment where birds of prey fly freely, and remember to stay quiet near the enclosures for the best views."
+          }
+        },
+        {
+          "name": {
+            "de": "Kinderbereich",
+            "hu": "Gyermektér",
+            "ro": "Spațiul Copiilor",
+            "en": "Espace Enfant"
+          },
+          "coords": [
+            1.821684,
+            48.626852
+          ],
+          "category": "family",
+          "arrive_at": "15:20",
+          "stay_min": 55,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.74,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren aktiven Nachmittag, indem Sie Kleinkinder die speziellen Spielgeräte nutzen lassen, damit sie vor der Heimreise noch Spaß haben.",
+            "hu": "Zárja az aktív délutánt azzal, hogy a legkisebbek birtokba veszik a speciális játékokat, így garantáltan jól szórakoznak a hazaindulás előtti percekben.",
+            "ro": "Încheiați după-amiaza activă permițând copiilor mici să se bucure de echipamentele speciale de joacă, asigurându-vă că se distrează înainte de a pleca acasă.",
+            "en": "Finish off your active afternoon by letting toddlers enjoy the specialized play equipment here, ensuring they have plenty of fun before heading back home."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Autotag mit einfachem Parken in der Nähe des Square Kichheim-Unter-Teck und machen Sie einen schnellen Morgenspaziergang. Von dort aus bringt Sie eine sehr kurze, komfortable Fahrt zum Rambolitrain Museum, wodurch Sie mehr Zeit für die faszinierenden historischen Ausstellungen haben.\n\nMittags stehen Sie nach einer kurzen Fahrt direkt vor den Toren von Schloss Rambouillet und sparen sich die Energie für die riesigen präsidialen Gärten. Die Flexibilität des Autos ermöglicht es Ihnen, mühelos von der königlichen Geschichte zu den weiten Naturlandschaften außerhalb des Zentrums zu wechseln.\n\nFahren Sie bequem zum dichten Wald von Rambouillet, wo Sie parken und die schattigen Wälder in Ihrem eigenen Tempo erkunden können. Kurz darauf bringt Sie eine weitere kurze Fahrt in das faszinierende Espace Rambouillet, wodurch Ihnen lange Fußwege erspart bleiben und Sie fit für die Vogelbeobachtung sind.\n\nBeenden Sie Ihre umfassende Autotour mit einem letzten Halt am Espace Enfant, dem perfekten Ort für Familien. Es bietet eine entspannte Abendatmosphäre, in der Sie bequem das Auto beladen und zu Ihrer Unterkunft zurückkehren können, mit dem wunderbaren Gefühl eines erfüllten Tages in Rambouillet.",
+        "hu": "Kezdje az autós napot egy kényelmes parkolással a Square Kichheim-Unter-Teck közelében, egy gyors reggeli sétával a friss levegőn. Innen egy nagyon rövid, pihentető út vezet a Rambolitrain Múzeumhoz, maximalizálva a lenyűgöző történelmi kiállítási tárgyak megismerésére fordított drága idejét.\n\nDél körül egy gyors autózás után már a Rambouillet-kastély kapuinál találja magát, így megspórolja az energiáját a hatalmas elnöki birtokok és kertek bejárására. Az autó nyújtotta rugalmasság lehetővé teszi, hogy könnyedén váltson a fenséges történelemről a városon kívüli, lenyűgöző természeti tájakra.\n\nVezessen kényelmesen a sűrű Rambouillet-erdőhöz, ahol leparkolhat, és saját tempójában fedezheti fel az árnyas fák alatti ösvényeket. Röviddel ezután egy újabb rövid út az Espace Rambouillet-be viszi, ami teljesen megkíméli a hosszú séták fáradalmaitól, így tele lesz energiával a madármegfigyeléshez.\n\nZárja le átfogó autós túráját egy utolsó megállóval az Espace Enfant-nál, amely tökéletes lezárás a családok számára. Pihentető esti atmoszférát biztosít, ahol zökkenőmentesen bepakolhat az autóba, és elindulhat a szállása felé, miután egy teljes és élményekben gazdag napot töltött el a városban.",
+        "ro": "Începeți ziua la volan cu o parcare ușoară lângă Square Kichheim-Unter-Teck, făcând o scurtă plimbare matinală în aer liber. De acolo, un drum foarte scurt și confortabil vă aduce la Muzeul Rambolitrain, maximizând timpul petrecut interacționând cu expozițiile istorice captivante din interior.\n\nPână la prânz, o scurtă cursă cu mașina vă plasează chiar la porțile Castelului Rambouillet, păstrându-vă energia pentru a explora imensele domenii și grădini prezidențiale. Flexibilitatea condusului vă permite să treceți fără efort de la istoria regală la peisajele naturale vaste de la marginea orașului.\n\nConduceți confortabil către deasa Pădure Rambouillet, unde puteți parca și explora pădurile umbrite în ritmul dumneavoastră. La scurt timp, un alt drum scurt vă aduce în captivantul Espace Rambouillet, eliminând complet oboseala plimbărilor lungi și lăsându-vă plini de energie pentru observarea păsărilor.\n\nÎncheiați turul cuprinzător cu mașina cu o ultimă oprire la Espace Enfant, un loc perfect de relaxare pentru familii. Acesta oferă o atmosferă de seară liniștită, unde puteți încărca mașina fără grabă și vă puteți îndrepta spre cazare, simțindu-vă pe deplin împliniți după o zi întreagă de explorare.",
+        "en": "Start your driving day with easy parking near Square Kichheim-Unter-Teck, taking a swift morning stroll in the fresh air. From there, a very short and comfortable drive brings you to the Rambolitrain Museum, maximizing your time spent interacting with the captivating historical exhibits inside.\n\nBy midday, a quick hop in the car places you right at the gates of Rambouillet Castle, saving your walking energy for the immense presidential estates and gardens. The flexibility of driving allows you to effortlessly transition from regal history to the vast natural landscapes waiting just outside the city center.\n\nDrive comfortably to the dense Rambouillet Forest, where you can park and explore the shaded woods at your own pace. Shortly after, another brief drive brings you into the immersive Espace Rambouillet, completely removing the hassle of long walks and leaving you energized for bird watching.\n\nConclude your comprehensive driving tour with a final hop to the Espace Enfant, a perfect little wrap-up spot for families. It provides a relaxed evening atmosphere where you can smoothly load up the car and head back to your accommodation, feeling thoroughly accomplished after a full day out."
+      }
+    }
+  }
+}

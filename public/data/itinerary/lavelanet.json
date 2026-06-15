@@ -1,0 +1,474 @@
+{
+  "city_id": "lavelanet",
+  "anchor": {
+    "name": "Lavelanet",
+    "coords": [
+      1.8486,
+      42.9328
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:48",
+      "total_km": 1.45,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Salle Marie-Christine Barrault",
+            "hu": "Salle Marie-Christine Barrault",
+            "ro": "Sala Marie-Christine Barrault",
+            "en": "Salle Marie-Christine Barrault"
+          },
+          "coords": [
+            1.847997,
+            42.932997
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur dieses kulturellen Zentrums, das für Lavelanet von großer Bedeutung ist, und überprüfen Sie vorab den Veranstaltungsplan.",
+            "hu": "Csodálja meg a kulturális központ modern építészetét, amely a helyi közösség szíve, és érdemes előre tájékozódni a programokról.",
+            "ro": "Admirați arhitectura modernă a acestui centru cultural, esențial pentru viața din Lavelanet, și verificați programul evenimentelor în avans.",
+            "en": "Admire the modern architecture of this cultural center which is the heartbeat of Lavelanet, and be sure to check the event schedule in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Esplanade de la Concorde",
+            "hu": "Esplanade de la Concorde",
+            "ro": "Esplanada Concordei",
+            "en": "Esplanade de la Concorde"
+          },
+          "coords": [
+            1.848367,
+            42.931956
+          ],
+          "category": "civic",
+          "arrive_at": "09:52",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie auf diesem belebten Platz, der das historische Zentrum verbindet, und holen Sie sich in einer nahegelegenen Bäckerei einen Snack.",
+            "hu": "Pihenjen meg ezen a nyüzsgő téren, amely összeköti a történelmi központot, és kóstoljon meg egy péksüteményt a közeli pékségből.",
+            "ro": "Relaxați-vă în această piață plină de viață care leagă centrul istoric și savurați o gustare de la o patiserie din apropiere.",
+            "en": "Relax in this lively square that connects the historical center, and grab a delicious pastry from a nearby local bakery to enjoy on a bench."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-de-l'Assomption",
+            "hu": "Église Notre-Dame-de-l'Assomption",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption of Our Lady"
+          },
+          "coords": [
+            1.850866,
+            42.93486
+          ],
+          "category": "religious",
+          "arrive_at": "10:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese wunderschöne Kirche, die mit ihrer friedlichen Atmosphäre besticht, und achten Sie besonders auf die detaillierten Buntglasfenster.",
+            "hu": "Látogassa meg ezt a gyönyörű templomot, amely békés hangulatával varázsol el, és figyelje meg a lenyűgöző és részletgazdag ólomüveg ablakokat.",
+            "ro": "Vizitați această biserică frumoasă, impresionantă prin atmosfera sa pașnică, și acordați atenție deosebită vitraliilor detaliate.",
+            "en": "Visit this beautiful church that captivates with its peaceful atmosphere, and pay special attention to the stunning detailed stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruines du Château féodal de Lavelanet",
+            "hu": "Lavelanet-i feudális várromok",
+            "ro": "Ruinele Castelului feudal din Lavelanet",
+            "en": "Ruins of the Feudal Castle of Lavelanet"
+          },
+          "coords": [
+            1.852261,
+            42.935423
+          ],
+          "category": "historical",
+          "arrive_at": "11:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Burgruinen, die einen Einblick in die mittelalterliche Vergangenheit bieten, und tragen Sie feste Schuhe für den steilen Aufstieg.",
+            "hu": "Fedezze fel a lenyűgöző várromokat, amelyek bepillantást engednek a középkori múltba, és viseljen kényelmes cipőt a meredek ösvényekhez.",
+            "ro": "Explorați ruinele fascinante ale castelului care oferă o privire în trecutul medieval și purtați încălțăminte solidă pentru urcarea abruptă.",
+            "en": "Explore the fascinating castle ruins offering a glimpse into the medieval past, and make sure to wear sturdy shoes for the steep climb up the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée du Textile et du Peigne en Corne",
+            "hu": "Textil- és Szarufésű Múzeum",
+            "ro": "Muzeul Textilelor și Pieptenilor de Corn",
+            "en": "Museum of Textile and Horn Comb"
+          },
+          "coords": [
+            1.8457,
+            42.929468
+          ],
+          "category": "museum",
+          "arrive_at": "12:38",
+          "stay_min": 130,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Industriegeschichte der Textil- und Hornkammherstellung in diesem Museum; nehmen Sie an einer Führung teil, um die Maschinen in Aktion zu sehen.",
+            "hu": "Ismerje meg a textil- és szarufésű-készítés gazdag ipari történelmét ebben a múzeumban; érdemes csatlakozni egy tárlatvezetéshez, hogy lássa a gépeket működés közben.",
+            "ro": "Descoperiți istoria industrială bogată a textilelor și a pieptenilor de corn în acest muzeu; participați la un tur ghidat pentru a vedea mașinile în acțiune.",
+            "en": "Discover the rich industrial history of textile and horn comb manufacturing at this museum; join a guided tour to see the vintage machinery in action."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im kulturellen Herzen von Lavelanet, bevor Sie das lebhafte Treiben an der Esplanade de la Concorde genießen.\n\nZur Mittagszeit tauchen Sie in die spirituelle Ruhe der Église Notre-Dame-de-l'Assomption ein.\n\nAm Nachmittag erklimmen Sie die mittelalterlichen Burgruinen und genießen den historischen Ausblick auf die Stadt.\n\nLassen Sie den Tag entspannt ausklingen, während Sie im Textilmuseum tief in die faszinierende Industriegeschichte eintauchen.",
+        "hu": "Kezdje a napot Lavelanet kulturális szívében, mielőtt átadná magát a nyüzsgő Esplanade de la Concorde hangulatának.\n\nDélben merüljön el az Église Notre-Dame-de-l'Assomption templom békés és spirituális csendjében.\n\nDélután mássza meg a középkori várromokat, ahonnan lenyűgöző történelmi kilátás nyílik a városra.\n\nZárja a napot egy kellemes sétával a Textilmúzeumban, ahol megismerheti a helyi ipar lenyűgöző múltját.",
+        "ro": "Începeți ziua în inima culturală a orașului Lavelanet, înainte de a vă bucura de atmosfera vibrantă de la Esplanade de la Concorde.\n\nLa prânz, cufundați-vă în liniștea spirituală oferită de superba Église Notre-Dame-de-l'Assomption.\n\nDupă-amiaza, urcați la ruinele castelului medieval și bucurați-vă de o panoramă istorică asupra orașului.\n\nÎncheiați ziua relaxant, explorând istoria industrială fascinantă la Muzeul Textilelor din apropiere.",
+        "en": "Start your morning in the cultural heart of Lavelanet before soaking up the lively atmosphere at the Esplanade de la Concorde.\n\nBy midday, immerse yourself in the deep spiritual tranquility of the beautiful Église Notre-Dame-de-l'Assomption.\n\nIn the afternoon, hike up to the medieval castle ruins to enjoy a sweeping historical perspective of the city.\n\nWind down your evening by delving into the fascinating industrial heritage at the Textile and Horn Comb Museum."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:35",
+      "total_km": 3.55,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Marché de Lavelanet",
+            "hu": "Lavelanet-i piac",
+            "ro": "Piața din Lavelanet",
+            "en": "Lavelanet Market"
+          },
+          "coords": [
+            1.839325,
+            42.919424
+          ],
+          "category": "culinary",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie das bunte Treiben auf diesem lokalen Markt mit frischen regionalen Produkten und kommen Sie früh am Morgen, um die besten Käsesorten zu ergattern.",
+            "hu": "Élje át a helyi piac nyüzsgését, ahol friss regionális termékeket kínálnak, és érkezzen kora reggel, hogy megkóstolhassa a legjobb kézműves sajtokat.",
+            "ro": "Experimentați atmosfera vibrantă a acestei piețe locale cu produse regionale proaspete și veniți devreme pentru a prinde cele mai bune brânzeturi.",
+            "en": "Experience the vibrant atmosphere of this local market offering fresh regional produce, and arrive early in the morning to snag the best artisanal cheeses."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée du Textile et du Peigne en Corne",
+            "hu": "Textil- és Szarufésű Múzeum",
+            "ro": "Muzeul Textilelor și Pieptenilor de Corn",
+            "en": "Museum of Textile and Horn Comb"
+          },
+          "coords": [
+            1.8457,
+            42.929468
+          ],
+          "category": "museum",
+          "arrive_at": "10:07",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Industriegeschichte der Textil- und Hornkammherstellung in diesem Museum; nehmen Sie an einer Führung teil, um die Maschinen in Aktion zu sehen.",
+            "hu": "Ismerje meg a textil- és szarufésű-készítés gazdag ipari történelmét ebben a múzeumban; érdemes csatlakozni egy tárlatvezetéshez, hogy lássa a gépeket működés közben.",
+            "ro": "Descoperiți istoria industrială bogată a textilelor și a pieptenilor de corn în acest muzeu; participați la un tur ghidat pentru a vedea mașinile în acțiune.",
+            "en": "Discover the rich industrial history of textile and horn comb manufacturing at this museum; join a guided tour to see the vintage machinery in action."
+          }
+        },
+        {
+          "name": {
+            "de": "Esplanade de la Concorde",
+            "hu": "Esplanade de la Concorde",
+            "ro": "Esplanada Concordei",
+            "en": "Esplanade de la Concorde"
+          },
+          "coords": [
+            1.848367,
+            42.931956
+          ],
+          "category": "civic",
+          "arrive_at": "11:49",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie auf diesem belebten Platz, der das historische Zentrum verbindet, und holen Sie sich in einer nahegelegenen Bäckerei einen Snack.",
+            "hu": "Pihenjen meg ezen a nyüzsgő téren, amely összeköti a történelmi központot, és kóstoljon meg egy péksüteményt a közeli pékségből.",
+            "ro": "Relaxați-vă în această piață plină de viață care leagă centrul istoric și savurați o gustare de la o patiserie din apropiere.",
+            "en": "Relax in this lively square that connects the historical center, and grab a delicious pastry from a nearby local bakery to enjoy on a bench."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-de-l'Assomption",
+            "hu": "Église Notre-Dame-de-l'Assomption",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption of Our Lady"
+          },
+          "coords": [
+            1.850866,
+            42.93486
+          ],
+          "category": "religious",
+          "arrive_at": "12:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese wunderschöne Kirche, die mit ihrer friedlichen Atmosphäre besticht, und achten Sie besonders auf die detaillierten Buntglasfenster.",
+            "hu": "Látogassa meg ezt a gyönyörű templomot, amely békés hangulatával varázsol el, és figyelje meg a lenyűgöző és részletgazdag ólomüveg ablakokat.",
+            "ro": "Vizitați această biserică frumoasă, impresionantă prin atmosfera sa pașnică, și acordați atenție deosebită vitraliilor detaliate.",
+            "en": "Visit this beautiful church that captivates with its peaceful atmosphere, and pay special attention to the stunning detailed stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruines du Château féodal de Lavelanet",
+            "hu": "Lavelanet-i feudális várromok",
+            "ro": "Ruinele Castelului feudal din Lavelanet",
+            "en": "Ruins of the Feudal Castle of Lavelanet"
+          },
+          "coords": [
+            1.852261,
+            42.935423
+          ],
+          "category": "historical",
+          "arrive_at": "12:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Burgruinen, die einen Einblick in die mittelalterliche Vergangenheit bieten, und tragen Sie feste Schuhe für den steilen Aufstieg.",
+            "hu": "Fedezze fel a lenyűgöző várromokat, amelyek bepillantást engednek a középkori múltba, és viseljen kényelmes cipőt a meredek ösvényekhez.",
+            "ro": "Explorați ruinele fascinante ale castelului care oferă o privire în trecutul medieval și purtați încălțăminte solidă pentru urcarea abruptă.",
+            "en": "Explore the fascinating castle ruins offering a glimpse into the medieval past, and make sure to wear sturdy shoes for the steep climb up the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Église de la Nativité-de-la-Vierge-Marie",
+            "hu": "Église de la Nativité-de-la-Vierge-Marie",
+            "ro": "Biserica Nașterea Maicii Domnului",
+            "en": "Church of the Nativity of the Virgin Mary"
+          },
+          "coords": [
+            1.860381,
+            42.946843
+          ],
+          "category": "religious",
+          "arrive_at": "14:25",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Eleganz dieser charmanten Kirche abseits des Trubels, und nutzen Sie das sanfte Nachmittagslicht für beeindruckende Fotos.",
+            "hu": "Csodálja meg ezen bájos templom egyszerű eleganciáját távol a zajtól, és használja ki a délutáni lágy fényeket a tökéletes fotók elkészítéséhez.",
+            "ro": "Admirați eleganța simplă a acestei biserici fermecătoare, departe de agitație, și profitați de lumina blândă a după-amiezii pentru fotografii uimitoare.",
+            "en": "Admire the simple elegance of this charming church located away from the bustle, and take advantage of the soft afternoon light for stunning photography."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie mit frischen Eindrücken auf dem lokalen Markt und radeln Sie dann gemütlich zum faszinierenden Textilmuseum.\n\nGenießen Sie zur Mittagszeit eine Pause an der belebten Esplanade de la Concorde im Herzen der Stadt.\n\nAm Nachmittag besuchen Sie die Burgruinen und die nahegelegene Kirche, um historische Architektur zu bewundern.\n\nBeenden Sie Ihre Radtour mit einer malerischen Fahrt zur charmanten Église de la Nativité im Abendlicht.",
+        "hu": "Indítsa a napot friss élményekkel a helyi piacon, majd tekerjen kényelmesen a lenyűgöző Textilmúzeumhoz.\n\nDélben tartson egy pihentető szünetet a város szívében található pezsgő Esplanade de la Concorde téren.\n\nDélután látogasson el a várromokhoz és a közeli templomhoz, hogy megcsodálja a történelmi építészetet.\n\nZárja a kerékpártúrát egy festői utazással a hangulatos Église de la Nativité templomhoz a lemenő nap fényében.",
+        "ro": "Începeți cu impresii proaspete la piața locală, apoi pedalați relaxat către fascinantul Muzeu al Textilelor.\n\nLa prânz, faceți o pauză binemeritată la animata Esplanade de la Concorde, chiar în inima orașului.\n\nDupă-amiaza, vizitați ruinele castelului și biserica din apropiere pentru a admira arhitectura istorică.\n\nÎncheiați turul cu bicicleta printr-o plimbare pitorească spre fermecătoarea Église de la Nativité în lumina serii.",
+        "en": "Kick off your morning with fresh sights and flavors at the local market, then pedal over to the fascinating Textile Museum.\n\nAt midday, take a well-deserved break at the bustling Esplanade de la Concorde right in the city center.\n\nSpend your afternoon exploring the medieval castle ruins and the nearby historic church architecture.\n\nWrap up your cycling adventure with a scenic twilight ride towards the charming Église de la Nativité."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:12",
+      "total_km": 6.55,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église de la Décollation-de-Saint-Jean-Baptiste",
+            "hu": "Keresztelő Szent János-templom",
+            "ro": "Biserica Tăierea Capului Sfântului Ioan Botezătorul",
+            "en": "Church of the Beheading of Saint John the Baptist"
+          },
+          "coords": [
+            1.870469,
+            42.923448
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses historische Juwel mit seinen einzigartigen architektonischen Details und treten Sie leise ein, um die friedliche Stille nicht zu stören.",
+            "hu": "Fedezze fel ezt a történelmi gyöngyszemet a maga egyedi építészeti részleteivel, és lépjen be csendben, hogy megőrizze a hely békés nyugalmát.",
+            "ro": "Descoperiți această bijuterie istorică cu detaliile sale arhitecturale unice și intrați în liniște pentru a nu perturba liniștea profundă a locului.",
+            "en": "Discover this historical gem with its unique architectural details, and step inside quietly to preserve the deeply peaceful atmosphere of the sanctuary."
+          }
+        },
+        {
+          "name": {
+            "de": "Marché de Lavelanet",
+            "hu": "Lavelanet-i piac",
+            "ro": "Piața din Lavelanet",
+            "en": "Lavelanet Market"
+          },
+          "coords": [
+            1.839325,
+            42.919424
+          ],
+          "category": "culinary",
+          "arrive_at": "09:56",
+          "stay_min": 50,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Erleben Sie das bunte Treiben auf diesem lokalen Markt mit frischen regionalen Produkten und kommen Sie früh am Morgen, um die besten Käsesorten zu ergattern.",
+            "hu": "Élje át a helyi piac nyüzsgését, ahol friss regionális termékeket kínálnak, és érkezzen kora reggel, hogy megkóstolhassa a legjobb kézműves sajtokat.",
+            "ro": "Experimentați atmosfera vibrantă a acestei piețe locale cu produse regionale proaspete și veniți devreme pentru a prinde cele mai bune brânzeturi.",
+            "en": "Experience the vibrant atmosphere of this local market offering fresh regional produce, and arrive early in the morning to snag the best artisanal cheeses."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée du Textile et du Peigne en Corne",
+            "hu": "Textil- és Szarufésű Múzeum",
+            "ro": "Muzeul Textilelor și Pieptenilor de Corn",
+            "en": "Museum of Textile and Horn Comb"
+          },
+          "coords": [
+            1.8457,
+            42.929468
+          ],
+          "category": "museum",
+          "arrive_at": "10:49",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Industriegeschichte der Textil- und Hornkammherstellung in diesem Museum; nehmen Sie an einer Führung teil, um die Maschinen in Aktion zu sehen.",
+            "hu": "Ismerje meg a textil- és szarufésű-készítés gazdag ipari történelmét ebben a múzeumban; érdemes csatlakozni egy tárlatvezetéshez, hogy lássa a gépeket működés közben.",
+            "ro": "Descoperiți istoria industrială bogată a textilelor și a pieptenilor de corn în acest muzeu; participați la un tur ghidat pentru a vedea mașinile în acțiune.",
+            "en": "Discover the rich industrial history of textile and horn comb manufacturing at this museum; join a guided tour to see the vintage machinery in action."
+          }
+        },
+        {
+          "name": {
+            "de": "Esplanade de la Concorde",
+            "hu": "Esplanade de la Concorde",
+            "ro": "Esplanada Concordei",
+            "en": "Esplanade de la Concorde"
+          },
+          "coords": [
+            1.848367,
+            42.931956
+          ],
+          "category": "civic",
+          "arrive_at": "12:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie auf diesem belebten Platz, der das historische Zentrum verbindet, und holen Sie sich in einer nahegelegenen Bäckerei einen Snack.",
+            "hu": "Pihenjen meg ezen a nyüzsgő téren, amely összeköti a történelmi központot, és kóstoljon meg egy péksüteményt a közeli pékségből.",
+            "ro": "Relaxați-vă în această piață plină de viață care leagă centrul istoric și savurați o gustare de la o patiserie din apropiere.",
+            "en": "Relax in this lively square that connects the historical center, and grab a delicious pastry from a nearby local bakery to enjoy on a bench."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruines du Château féodal de Lavelanet",
+            "hu": "Lavelanet-i feudális várromok",
+            "ro": "Ruinele Castelului feudal din Lavelanet",
+            "en": "Ruins of the Feudal Castle of Lavelanet"
+          },
+          "coords": [
+            1.852261,
+            42.935423
+          ],
+          "category": "historical",
+          "arrive_at": "12:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Burgruinen, die einen Einblick in die mittelalterliche Vergangenheit bieten, und tragen Sie feste Schuhe für den steilen Aufstieg.",
+            "hu": "Fedezze fel a lenyűgöző várromokat, amelyek bepillantást engednek a középkori múltba, és viseljen kényelmes cipőt a meredek ösvényekhez.",
+            "ro": "Explorați ruinele fascinante ale castelului care oferă o privire în trecutul medieval și purtați încălțăminte solidă pentru urcarea abruptă.",
+            "en": "Explore the fascinating castle ruins offering a glimpse into the medieval past, and make sure to wear sturdy shoes for the steep climb up the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-de-l'Assomption",
+            "hu": "Église Notre-Dame-de-l'Assomption",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption of Our Lady"
+          },
+          "coords": [
+            1.850866,
+            42.93486
+          ],
+          "category": "religious",
+          "arrive_at": "14:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese wunderschöne Kirche, die mit ihrer friedlichen Atmosphäre besticht, und achten Sie besonders auf die detaillierten Buntglasfenster.",
+            "hu": "Látogassa meg ezt a gyönyörű templomot, amely békés hangulatával varázsol el, és figyelje meg a lenyűgöző és részletgazdag ólomüveg ablakokat.",
+            "ro": "Vizitați această biserică frumoasă, impresionantă prin atmosfera sa pașnică, și acordați atenție deosebită vitraliilor detaliate.",
+            "en": "Visit this beautiful church that captivates with its peaceful atmosphere, and pay special attention to the stunning detailed stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Église de la Nativité-de-la-Vierge-Marie",
+            "hu": "Église de la Nativité-de-la-Vierge-Marie",
+            "ro": "Biserica Nașterea Maicii Domnului",
+            "en": "Church of the Nativity of the Virgin Mary"
+          },
+          "coords": [
+            1.860381,
+            42.946843
+          ],
+          "category": "religious",
+          "arrive_at": "15:02",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Eleganz dieser charmanten Kirche abseits des Trubels, und nutzen Sie das sanfte Nachmittagslicht für beeindruckende Fotos.",
+            "hu": "Csodálja meg ezen bájos templom egyszerű eleganciáját távol a zajtól, és használja ki a délutáni lágy fényeket a tökéletes fotók elkészítéséhez.",
+            "ro": "Admirați eleganța simplă a acestei biserici fermecătoare, departe de agitație, și profitați de lumina blândă a după-amiezii pentru fotografii uimitoare.",
+            "en": "Admire the simple elegance of this charming church located away from the bustle, and take advantage of the soft afternoon light for stunning photography."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt an der historischen Kirche im Osten und besuchen Sie anschließend den lebhaften Markt für frische Snacks.\n\nVerbringen Sie den Mittag im Textilmuseum und machen Sie danach einen entspannten Halt an der zentralen Esplanade.\n\nAm Nachmittag steuern Sie die Burgruinen an und bewundern die majestätische Église Notre-Dame-de-l'Assomption.\n\nDer Tag endet mit einer ruhigen Fahrt zur Église de la Nativité, die im weichen Abendlicht besonders schön wirkt.",
+        "hu": "Kezdje autós útját a keleti történelmi templomnál, majd látogasson el a nyüzsgő piacra egy kis frissítőért.\n\nTöltse a delet a Textilmúzeumban, majd tartson egy pihentető megállót a központi Esplanade téren.\n\nDélután vegye az irányt a várromok felé, és csodálja meg a fenséges Église Notre-Dame-de-l'Assomption templomot.\n\nA nap egy csendes autózással zárul az Église de la Nativité templomhoz, amely az esti fényekben tündököl.",
+        "ro": "Începeți traseul la biserica istorică din est, apoi conduceți spre piața plină de viață pentru a degusta produse locale.\n\nPetreceți amiaza la Muzeul Textilelor și faceți o scurtă oprire relaxantă la Esplanade din centrul orașului.\n\nDupă-amiaza, îndreptați-vă spre ruinele castelului și admirați măreața Église Notre-Dame-de-l'Assomption.\n\nZiua se încheie cu o plimbare liniștită spre Église de la Nativité, care arată superb în lumina blândă a serii.",
+        "en": "Start your drive at the historic eastern church before heading to the bustling market to pick up some local delicacies.\n\nSpend your midday exploring the Textile Museum and enjoy a quick, refreshing stop at the central Esplanade.\n\nIn the afternoon, drive up to the castle ruins and take time to admire the majestic Église Notre-Dame-de-l'Assomption.\n\nConclude your road trip with a peaceful drive to the Église de la Nativité, beautifully bathed in the soft evening light."
+      }
+    }
+  }
+}

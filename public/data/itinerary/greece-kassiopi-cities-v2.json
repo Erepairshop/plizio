@@ -1,0 +1,474 @@
+{
+  "city_id": "greece-kassiopi-cities-v2",
+  "anchor": {
+    "name": "Kassiopi",
+    "coords": [
+      19.92205,
+      39.78911
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 2.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kalamionas Beach",
+            "hu": "Kalamionas strand",
+            "ro": "Plaja Kalamionas",
+            "en": "Kalamionas Beach"
+          },
+          "coords": [
+            19.918204,
+            39.788675
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie das klare Wasser für ein erfrischendes morgendliches Bad und kommen Sie früh, um sich einen guten Platz vor dem Mittagstrubel zu sichern.",
+            "hu": "Élvezze a tiszta vizet egy frissítő reggeli úszáshoz, és érkezzen korán, hogy még a déli tömeg előtt biztosítson magának egy nagyszerű napozóhelyet.",
+            "ro": "Bucurați-vă de apele limpezi perfecte pentru o înot de dimineață și ajungeți devreme pentru a vă asigura un loc bun înaintea aglomerației de la prânz.",
+            "en": "Enjoy the clear, shallow waters perfect for a refreshing morning swim, and arrive early to secure a prime spot before the mid-day crowds gather."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Kassiopi",
+            "hu": "Kassiopi vár",
+            "ro": "Fortăreața Kassiopi",
+            "en": "Kassiopi Fortress"
+          },
+          "coords": [
+            19.920701,
+            39.791805
+          ],
+          "category": "castle",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die beeindruckenden Ruinen der Festung, die einst den Hafen schützte, und tragen Sie festes Schuhwerk für die unebenen, steinigen Wege.",
+            "hu": "Fedezze fel a kikötőt egykor védelmező vár lenyűgöző romjait, és viseljen masszív cipőt, hogy biztonságosan navigálhasson az egyenetlen, sziklás ösvényeken.",
+            "ro": "Explorați ruinele impresionante ale acestei fortărețe care proteja portul și purtați încălțăminte rezistentă pentru a naviga în siguranță pe potecile stâncoase.",
+            "en": "Explore the impressive ruins of this Angevin castle that once protected the harbor, and wear sturdy shoes to safely navigate its uneven, rocky pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Bataria",
+            "hu": "Bataria",
+            "ro": "Bataria",
+            "en": "Bataria"
+          },
+          "coords": [
+            19.92037,
+            39.793665
+          ],
+          "category": "recreational",
+          "arrive_at": "11:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie den Kontrast zwischen weißen Kieseln und türkisfarbenem Wasser, aber bringen Sie eigenes Wasser mit, da die Annehmlichkeiten begrenzt sind.",
+            "hu": "Csodálja meg a fehér kavicsok és a türkizkék víz lenyűgöző kontrasztját ezen a festői öblön, de hozzon magával vizet, mivel a kényelmi szolgáltatások korlátozottak.",
+            "ro": "Admirați contrastul izbitor dintre pietricelele albe și apele turcoaz la acest golf pitoresc, dar aduceți-vă propria apă, deoarece facilitățile sunt limitate.",
+            "en": "Marvel at the striking contrast between white pebbles and turquoise waters at this picturesque cove, but bring your own water as amenities are limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Karavi Beach",
+            "hu": "Karavi strand",
+            "ro": "Plaja Karavi",
+            "en": "Karavi Beach"
+          },
+          "coords": [
+            19.925467,
+            39.789604
+          ],
+          "category": "recreational",
+          "arrive_at": "13:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem ruhigen, weniger bekannten Kiesstrand mit herrlichem Blick auf Albanien und ziehen Sie Badeschuhe für einen bequemen Einstieg an.",
+            "hu": "Pihenjen ezen a nyugodt, kevésbé ismert kavicsos strandon, amely lenyűgöző kilátást nyújt az albán partokra, és viseljen vízi cipőt a kényelmes bemenetethez.",
+            "ro": "Relaxați-vă pe această plajă liniștită, mai puțin cunoscută, cu vedere la coasta albaneză, și purtați încălțăminte de apă pentru o intrare confortabilă în mare.",
+            "en": "Relax at this tranquil, lesser-known shingle beach offering stunning views of the Albanian coast, and consider water shoes for a comfortable entry."
+          }
+        },
+        {
+          "name": {
+            "de": "Kogevina Beach",
+            "hu": "Kogevina strand",
+            "ro": "Plaja Kogevina",
+            "en": "Kogevina Beach"
+          },
+          "coords": [
+            19.931111,
+            39.783276
+          ],
+          "category": "recreational",
+          "arrive_at": "14:45",
+          "stay_min": 105,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie in der ruhigen Atmosphäre dieser abgelegenen, von Olivenhainen umgebenen Bucht und packen Sie ein Picknick ein, da es keine Einrichtungen gibt.",
+            "hu": "Kapcsolódjon ki ennek az olajfaligetekkel körülvett eldugott öbölnek a nyugodt légkörében, és vigyen magával pikniket, mivel nincsenek a közelben szolgáltatások.",
+            "ro": "Relaxați-vă în atmosfera senină a acestui golf izolat înconjurat de plantații de măslini și asigurați-vă că împachetați un picnic, neavând facilități în apropiere.",
+            "en": "Unwind in the serene atmosphere of this secluded bay surrounded by olive groves, making sure to pack a picnic since there are no nearby facilities."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einem erfrischenden Bad am Kalamionas Beach und genießen Sie die frühe Mittelmeersonne. Gegen Mittag wandern Sie zur Festung Kassiopi, um Jahrhunderte der Geschichte und den weiten Blick auf die Küste zu entdecken. Verbringen Sie den Nachmittag am kristallklaren Wasser von Bataria und Karavi. Beenden Sie den Tag entspannt am abgelegenen Kogevina Beach.",
+        "hu": "Kezdje a reggelt egy frissítő úszással a Kalamionas strandon, élvezve a kora mediterrán napsütést. Ahogy közeledik a dél, sétáljon fel a kassiopi várba, hogy felfedezze az évszázados történelmet. Töltse a délutánt a Bataria és a Karavi kristálytiszta vizei mellett pihenve, élvezve a nyugodt légkört. Zárja a napot az eldugott Kogevina strandon való kikapcsolódással és a tengeri szellővel.",
+        "ro": "Începeți dimineața cu o baie răcoroasă la Plaja Kalamionas, bucurându-vă de soarele mediteranean. La prânz, urcați la Fortăreața Kassiopi pentru a descoperi istoria de secole și vederile de pe coastă. Petreceți după-amiaza relaxându-vă lângă apele cristaline de la Bataria și Karavi. Încheiați ziua relaxându-vă pe plaja izolată Kogevina, admirând culorile blânde ale apusului de soare.",
+        "en": "Start your morning with a refreshing swim at Kalamionas Beach, soaking in the early Mediterranean sun. As midday approaches, hike up to Kassiopi Fortress to discover centuries of history and sweeping coastal views. Spend your afternoon relaxing by the crystalline waters of Bataria and Karavi, enjoying the tranquil atmosphere. End the day unwinding at the secluded Kogevina Beach."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:37",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Imerolia Beach",
+            "hu": "Imerolia strand",
+            "ro": "Plaja Imerolia",
+            "en": "Imerolia Beach"
+          },
+          "coords": [
+            19.911552,
+            39.788006
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag an diesem ruhigen, geschützten Kiesstrand mit hervorragenden Schnorchelmöglichkeiten und bringen Sie Ihre Ausrüstung mit, um Meereslebewesen zu beobachten.",
+            "hu": "Kezdje a napot ezen a csendes, védett kavicsos strandon, amely kiváló sznorkelezési lehetőségeket kínál, és hozza magával felszerelését a tengeri élővilág felfedezéséhez.",
+            "ro": "Începeți-vă ziua la această plajă liniștită și adăpostită, care oferă oportunități excelente de snorkeling, și aduceți-vă echipamentul pentru a observa viața marină.",
+            "en": "Start your day at this calm, sheltered pebble beach that provides excellent snorkeling opportunities, and bring your gear to spot colorful marine life."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalamionas Beach",
+            "hu": "Kalamionas strand",
+            "ro": "Plaja Kalamionas",
+            "en": "Kalamionas Beach"
+          },
+          "coords": [
+            19.918204,
+            39.788675
+          ],
+          "category": "recreational",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie das klare Wasser für ein erfrischendes morgendliches Bad und kommen Sie früh, um sich einen guten Platz vor dem Mittagstrubel zu sichern.",
+            "hu": "Élvezze a tiszta vizet egy frissítő reggeli úszáshoz, és érkezzen korán, hogy még a déli tömeg előtt biztosítson magának egy nagyszerű napozóhelyet.",
+            "ro": "Bucurați-vă de apele limpezi perfecte pentru o înot de dimineață și ajungeți devreme pentru a vă asigura un loc bun înaintea aglomerației de la prânz.",
+            "en": "Enjoy the clear, shallow waters perfect for a refreshing morning swim, and arrive early to secure a prime spot before the mid-day crowds gather."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Kassiopi",
+            "hu": "Kassiopi vár",
+            "ro": "Fortăreața Kassiopi",
+            "en": "Kassiopi Fortress"
+          },
+          "coords": [
+            19.920701,
+            39.791805
+          ],
+          "category": "castle",
+          "arrive_at": "11:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die beeindruckenden Ruinen der Festung, die einst den Hafen schützte, und tragen Sie festes Schuhwerk für die unebenen, steinigen Wege.",
+            "hu": "Fedezze fel a kikötőt egykor védelmező vár lenyűgöző romjait, és viseljen masszív cipőt, hogy biztonságosan navigálhasson az egyenetlen, sziklás ösvényeken.",
+            "ro": "Explorați ruinele impresionante ale acestei fortărețe care proteja portul și purtați încălțăminte rezistentă pentru a naviga în siguranță pe potecile stâncoase.",
+            "en": "Explore the impressive ruins of this Angevin castle that once protected the harbor, and wear sturdy shoes to safely navigate its uneven, rocky pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Bataria",
+            "hu": "Bataria",
+            "ro": "Bataria",
+            "en": "Bataria"
+          },
+          "coords": [
+            19.92037,
+            39.793665
+          ],
+          "category": "recreational",
+          "arrive_at": "13:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie den Kontrast zwischen weißen Kieseln und türkisfarbenem Wasser, aber bringen Sie eigenes Wasser mit, da die Annehmlichkeiten begrenzt sind.",
+            "hu": "Csodálja meg a fehér kavicsok és a türkizkék víz lenyűgöző kontrasztját ezen a festői öblön, de hozzon magával vizet, mivel a kényelmi szolgáltatások korlátozottak.",
+            "ro": "Admirați contrastul izbitor dintre pietricelele albe și apele turcoaz la acest golf pitoresc, dar aduceți-vă propria apă, deoarece facilitățile sunt limitate.",
+            "en": "Marvel at the striking contrast between white pebbles and turquoise waters at this picturesque cove, but bring your own water as amenities are limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Avlaki Beach",
+            "hu": "Avlaki strand",
+            "ro": "Plaja Avlaki",
+            "en": "Avlaki Beach"
+          },
+          "coords": [
+            19.940973,
+            39.779572
+          ],
+          "category": "recreational",
+          "arrive_at": "14:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Schwimmen Sie im kristallklaren, tiefblauen Wasser dieses weitläufigen, wenig überlaufenen Strandes und mieten Sie ein Paddleboard im nahegelegenen Wassersportzentrum.",
+            "hu": "Ússzon ennek a tágas, kevésbé zsúfolt strandnak a kristálytiszta, mélykék vizében, és béreljen evezős deszkát a közeli vízisport-központban az aktív kikapcsolódáshoz.",
+            "ro": "Înotați în apele cristaline și adânci ale acestei plaje întinse și neaglomerate și închiriați o placă de paddleboard de la centrul de sporturi nautice din apropiere.",
+            "en": "Swim in the pristine, deep blue waters of this expansive, uncrowded beach favored by locals, and rent a paddleboard from the nearby water sports center."
+          }
+        },
+        {
+          "name": {
+            "de": "Vrahli",
+            "hu": "Vrahli",
+            "ro": "Vrahli",
+            "en": "Vrahli"
+          },
+          "coords": [
+            19.944708,
+            39.785317
+          ],
+          "category": "recreational",
+          "arrive_at": "15:52",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie ein verstecktes Juwel von einer Bucht mit unberührter natürlicher Schönheit und gehen Sie vorsichtig auf dem unmarkierten Pfad hinunter zur Küste.",
+            "hu": "Fedezzen fel egy érintetlen természeti szépséggel büszkélkedő rejtett öblöt, és óvatosan haladjon a partvonal felé vezető, meredek és jelöletlen ösvényen.",
+            "ro": "Descoperiți o bijuterie ascunsă a unui golf cu o frumusețe naturală neatinsă și mergeți cu grijă pe poteca accidentată și nemarcată care coboară spre țărm.",
+            "en": "Discover a hidden gem of a cove boasting untouched natural beauty, and tread carefully along the rugged, unmarked trail leading down to the shoreline."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie an der Küste entlang zum Imerolia Beach für ein ruhiges morgendliches Bad abseits der Massen. Fahren Sie in Richtung Zentrum zum lebhaften Kalamionas Beach, bevor Sie die historische Festung Kassiopi erkunden. Am Nachmittag genießen Sie die landschaftlich reizvolle Route zu den Kieselsteinen von Bataria und fahren zum weitläufigen Avlaki Beach. Schließen Sie den Tag an der Bucht Vrahli ab.",
+        "hu": "Kerékpározzon a part mentén az Imerolia strandhoz egy nyugodt reggeli fürdőzésre távol a tömegtől. Tekerjen a központ felé, hogy megtapasztalja a nyüzsgő Kalamionas strandot, majd fedezze fel a történelmi várat. Délután élvezze a festői útvonalat Bataria lenyűgöző fehér kavicsaihoz, amelyet egy kellemes utazás követ az Avlaki strandra. Zárja a napot az érintetlen Vrahli öbölben.",
+        "ro": "Bicicliți de-a lungul coastei până la plaja Imerolia pentru o baie liniștită de dimineață. Mergeți spre centru pentru a experimenta plaja Kalamionas înainte de a explora Fortăreața Kassiopi. După-amiaza, bucurați-vă de traseul pitoresc către pietricelele albe de la Bataria, urmat de o plimbare plăcută până la plaja Avlaki. Încheiați cu o seară senină la golful virgin Vrahli, plin de pace.",
+        "en": "Cycle along the coast to Imerolia Beach for a tranquil morning dip away from the crowds. Ride towards the center to experience the vibrant Kalamionas Beach before exploring the historic Kassiopi Fortress. In the afternoon, enjoy the scenic route to Bataria's stunning white pebbles, followed by a pleasant ride to the expansive Avlaki Beach. Conclude with a serene evening stop at the untouched Vrahli cove."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:53",
+      "total_km": 5.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Syki Beach",
+            "hu": "Syki strand",
+            "ro": "Plaja Syki",
+            "en": "Syki Beach"
+          },
+          "coords": [
+            19.896266,
+            39.793463
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entfliehen Sie dem geschäftigen Zentrum an diesem friedlichen, versteckten Küstenabschnitt und bringen Sie alles Nötige mit, da die Gegend völlig unberührt ist.",
+            "hu": "Meneküljön el a nyüzsgő központból erre a békés, rejtett tengerparti helyre, ügyelve arra, hogy minden szükséges kelléket magával vigyen a teljesen érintetlen területre.",
+            "ro": "Scăpați de centrul aglomerat la acest loc de coastă liniștit și ascuns, având grijă să aduceți toate proviziile necesare, deoarece zona este complet neatinsă.",
+            "en": "Escape the bustling resort center at this peaceful, hidden coastal spot, taking care to bring all necessary supplies as the area is completely unspoiled."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Kassiopi",
+            "hu": "Kassiopi vár",
+            "ro": "Fortăreața Kassiopi",
+            "en": "Kassiopi Fortress"
+          },
+          "coords": [
+            19.920701,
+            39.791805
+          ],
+          "category": "castle",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die beeindruckenden Ruinen der Festung, die einst den Hafen schützte, und tragen Sie festes Schuhwerk für die unebenen, steinigen Wege.",
+            "hu": "Fedezze fel a kikötőt egykor védelmező vár lenyűgöző romjait, és viseljen masszív cipőt, hogy biztonságosan navigálhasson az egyenetlen, sziklás ösvényeken.",
+            "ro": "Explorați ruinele impresionante ale acestei fortărețe care proteja portul și purtați încălțăminte rezistentă pentru a naviga în siguranță pe potecile stâncoase.",
+            "en": "Explore the impressive ruins of this Angevin castle that once protected the harbor, and wear sturdy shoes to safely navigate its uneven, rocky pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Bataria",
+            "hu": "Bataria",
+            "ro": "Bataria",
+            "en": "Bataria"
+          },
+          "coords": [
+            19.92037,
+            39.793665
+          ],
+          "category": "recreational",
+          "arrive_at": "11:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie den Kontrast zwischen weißen Kieseln und türkisfarbenem Wasser, aber bringen Sie eigenes Wasser mit, da die Annehmlichkeiten begrenzt sind.",
+            "hu": "Csodálja meg a fehér kavicsok és a türkizkék víz lenyűgöző kontrasztját ezen a festői öblön, de hozzon magával vizet, mivel a kényelmi szolgáltatások korlátozottak.",
+            "ro": "Admirați contrastul izbitor dintre pietricelele albe și apele turcoaz la acest golf pitoresc, dar aduceți-vă propria apă, deoarece facilitățile sunt limitate.",
+            "en": "Marvel at the striking contrast between white pebbles and turquoise waters at this picturesque cove, but bring your own water as amenities are limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Kogevina Beach",
+            "hu": "Kogevina strand",
+            "ro": "Plaja Kogevina",
+            "en": "Kogevina Beach"
+          },
+          "coords": [
+            19.931111,
+            39.783276
+          ],
+          "category": "recreational",
+          "arrive_at": "13:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie in der ruhigen Atmosphäre dieser abgelegenen, von Olivenhainen umgebenen Bucht und packen Sie ein Picknick ein, da es keine Einrichtungen gibt.",
+            "hu": "Kapcsolódjon ki ennek az olajfaligetekkel körülvett eldugott öbölnek a nyugodt légkörében, és vigyen magával pikniket, mivel nincsenek a közelben szolgáltatások.",
+            "ro": "Relaxați-vă în atmosfera senină a acestui golf izolat înconjurat de plantații de măslini și asigurați-vă că împachetați un picnic, neavând facilități în apropiere.",
+            "en": "Unwind in the serene atmosphere of this secluded bay surrounded by olive groves, making sure to pack a picnic since there are no nearby facilities."
+          }
+        },
+        {
+          "name": {
+            "de": "Tzoufaka",
+            "hu": "Tzoufaka",
+            "ro": "Tzoufaka",
+            "en": "Tzoufaka"
+          },
+          "coords": [
+            19.947831,
+            39.783084
+          ],
+          "category": "recreational",
+          "arrive_at": "14:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erleben Sie den rauen Küstencharme dieses ruhigen, felsigen Strandes, der sich perfekt zum Nachdenken eignet, und packen Sie eine leichte Jacke für den Nachmittag ein.",
+            "hu": "Tapasztalja meg ennek a csendes, sziklás öbölnek a nyers tengerparti varázsát, és hozzon magával egy könnyű dzsekit a délutáni szellős időjárás esetére.",
+            "ro": "Experimentați farmecul brut al acestei intrări stâncoase liniștite, perfectă pentru relaxare, și împachetați o jachetă ușoară pentru vremea răcoroasă de după-amiază.",
+            "en": "Experience the raw coastal charm of this quiet, rocky inlet perfect for quiet reflection, and pack a light jacket for the breezy afternoon weather."
+          }
+        },
+        {
+          "name": {
+            "de": "Moshofili",
+            "hu": "Moshofili",
+            "ro": "Moshofili",
+            "en": "Moshofili"
+          },
+          "coords": [
+            19.949163,
+            39.781663
+          ],
+          "category": "recreational",
+          "arrive_at": "15:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie einen friedlichen Rückzugsort zwischen dramatischen Felsformationen an diesem isolierten Küstenabschnitt und achten Sie beim Erkunden auf Seeigel im flachen Wasser.",
+            "hu": "Élvezze a békés menedéket a drámai sziklaalakzatok között ezen az elszigetelt partszakaszon, és figyeljen a tengeri sünökre, miközben a sekély vízben sétál.",
+            "ro": "Bucurați-vă de un refugiu pașnic printre formațiuni stâncoase dramatice pe această porțiune izolată de coastă și fiți atenți la aricii de mare în timp ce explorați apele puțin adânci.",
+            "en": "Enjoy a peaceful retreat among dramatic rock formations at this isolated coastal stretch, and keep an eye out for sea urchins while exploring the shallows."
+          }
+        },
+        {
+          "name": {
+            "de": "Vouvalomadria",
+            "hu": "Vouvalomadria",
+            "ro": "Vouvalomadria",
+            "en": "Vouvalomadria"
+          },
+          "coords": [
+            19.94696,
+            39.784881
+          ],
+          "category": "recreational",
+          "arrive_at": "17:08",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die zerklüftete Küste und die spektakulären Sonnenuntergänge von dieser abgelegenen Landzunge und halten Sie eine Taschenlampe für den Rückweg bereit.",
+            "hu": "Csodálja meg a zord partvonalat és a lenyűgöző naplementét erről a félreeső fokról, és mindenképpen tartson magánál zseblámpát az esti szürkületben történő visszatéréshez.",
+            "ro": "Admirați coasta stâncoasă și priveliștile apusului de soare de pe acest promontoriu izolat, asigurându-vă că aveți o lanternă la îndemână pentru întoarcerea la lăsarea întunericului.",
+            "en": "Admire the rugged coastline and vibrant sunset views from this secluded headland, making sure to have a flashlight handy for the return journey at dusk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zum Syki Beach für einen abgelegenen Morgen inmitten üppiger Natur. Fahren Sie in die Stadt, um die majestätische Festung Kassiopi zu besichtigen, und machen Sie einen kurzen Spaziergang nach Bataria. Später fahren Sie nach Süden, um die natürliche Schönheit von Kogevina und Tzoufaka zu erleben. Lassen Sie den Tag an den Ufern von Moshofili ausklingen und genießen Sie den Sonnenuntergang in Vouvalomadria.",
+        "hu": "Vezessen a Syki strandhoz egy félreeső, buja növényzettel körülvett reggeli kezdéshez. Menjen a városba, hogy meglátogassa a fenséges várat, majd tegyen egy rövid sétát Batariába egy kis déli pihenésre. Később vezessen délre, hogy megtapasztalja Kogevina és Tzoufaka természeti szépségét. Zárja a napot Moshofili sziklás partjainak felfedezésével és csodálja meg a naplementét Vouvalomadriából.",
+        "ro": "Conduceți spre plaja Syki pentru o dimineață izolată, înconjurată de verdeață luxuriantă. Mergeți în oraș pentru a vizita măreața Fortăreață Kassiopi, apoi faceți o scurtă plimbare până la Bataria pentru relaxare. Mai târziu, conduceți spre sud pentru a experimenta frumusețea naturală de la Kogevina și Tzoufaka. Încheiați ziua explorând țărmurile stâncoase din Moshofili și prindeți un apus de soare uimitor la Vouvalomadria.",
+        "en": "Drive to Syki Beach for a secluded morning start surrounded by lush greenery and clear waters. Head into town to visit the majestic Kassiopi Fortress, then take a short walk to Bataria for midday relaxation. Later, drive south to experience the natural beauty of Kogevina and Tzoufaka. Wind down your day exploring the rocky shores of Moshofili and catch a stunning sunset from Vouvalomadria."
+      }
+    }
+  }
+}

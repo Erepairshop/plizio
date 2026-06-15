@@ -1,0 +1,428 @@
+{
+  "city_id": "spain-vilagarcia-city-cities-v2",
+  "anchor": {
+    "name": "Vilagarcía de Arousa",
+    "coords": [
+      -8.76426,
+      42.59631
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:17",
+      "total_km": 3.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Xardíns Doutor Fleming",
+            "hu": "Xardíns Doutor Fleming",
+            "ro": "Xardíns Doutor Fleming",
+            "en": "Xardíns Doutor Fleming"
+          },
+          "coords": [
+            -8.762709,
+            42.59528
+          ],
+          "category": "park",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesen zentralen Gärten mit üppigem Grün und historischen Denkmälern, dem perfekten Ort, um sich vor der weiteren Stadterkundung auszuruhen.",
+            "hu": "Pihenjen meg ezekben a buja növényzettel és történelmi emlékművekkel teli központi kertekben, amelyek tökéletes helyszínt biztosítanak a városnézés folytatása előtt.",
+            "ro": "Relaxați-vă în aceste grădini centrale cu verdeață luxuriantă și monumente istorice, un loc perfect pentru a vă odihni picioarele înainte de a continua explorarea orașului.",
+            "en": "Relax in these central gardens featuring lush greenery and historical monuments, providing a perfect spot to rest your feet before continuing your city exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Capela de San Roque",
+            "hu": "Capela de San Roque",
+            "ro": "Capela de San Roque",
+            "en": "Capela de San Roque"
+          },
+          "coords": [
+            -8.76056,
+            42.594099
+          ],
+          "category": "religious",
+          "arrive_at": "10:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese reizvolle Kapelle des Schutzpatrons der Stadt, die für ihre feierliche Architektur bekannt ist, und besuchen Sie sie am besten in den Morgenstunden.",
+            "hu": "Csodálja meg a város védőszentjének szentelt, ünnepélyes építészetéről ismert bájos kápolnát, és próbálja meg a reggeli órákban meglátogatni a legjobb természetes fényért.",
+            "ro": "Admirați această capelă fermecătoare dedicată sfântului patron al orașului, cunoscută pentru arhitectura sa solemnă, și încercați să o vizitați dimineața pentru cea mai bună lumină.",
+            "en": "Admire this charming chapel dedicated to the town's patron saint, known for its solemn architecture, and try to visit during morning hours for the best natural lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa dos Duques de Medina de las Torres",
+            "hu": "Casa dos Duques de Medina de las Torres",
+            "ro": "Casa dos Duques de Medina de las Torres",
+            "en": "Casa dos Duques de Medina de las Torres"
+          },
+          "coords": [
+            -8.776205,
+            42.591954
+          ],
+          "category": "historical",
+          "arrive_at": "11:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen Adelssitz, der mit seinen eleganten Steinfassaden die aristokratische Vergangenheit der Region widerspiegelt, und achten Sie auf die heraldischen Schilde.",
+            "hu": "Fedezze fel ezt a nemesi rezidenciát, amely elegáns kőhomlokzataival a régió arisztokrata múltját tükrözi, és mindenképpen vegye szemügyre a bejárat melletti címereket.",
+            "ro": "Explorați această reședință nobilă care reflectă trecutul aristocratic al regiunii prin fațadele sale elegante din piatră, observând scuturile heraldice complicate de la intrare.",
+            "en": "Explore this noble residence reflecting the region's aristocratic past with its elegant stone facades, making sure to notice the intricate heraldic shields near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Milagros",
+            "hu": "Villa Milagros",
+            "ro": "Villa Milagros",
+            "en": "Villa Milagros"
+          },
+          "coords": [
+            -8.778821,
+            42.592164
+          ],
+          "category": "historical",
+          "arrive_at": "12:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in dieser wunderschön erhaltenen historischen Villa mit klassischem lokalem Design und gehen Sie um das Gebäude herum, um die Gärten zu bewundern.",
+            "hu": "Lépjen vissza az időben ebben a gyönyörűen megőrzött, klasszikus helyi dizájnt bemutató történelmi villában, és sétálja körbe, hogy teljes mértékben értékelje a kerteket.",
+            "ro": "Întoarceți-vă în timp la această vilă istorică frumos conservată, cu design local clasic, și plimbați-vă în jurul ei pentru a aprecia pe deplin grădinile sale bine întreținute.",
+            "en": "Step back in time at this beautifully preserved historic villa showcasing classical local design, and walk around the perimeter to fully appreciate its well-maintained gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Concha",
+            "hu": "Praia da Concha",
+            "ro": "Praia da Concha",
+            "en": "Praia da Concha"
+          },
+          "coords": [
+            -8.767614,
+            42.602173
+          ],
+          "category": "recreational",
+          "arrive_at": "14:32",
+          "stay_min": 105,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang dieses weitläufigen Stadtstrandes, der für sein ruhiges Wasser bekannt ist, und genießen Sie einen herrlichen Spaziergang bei Sonnenuntergang in bequemen Schuhen.",
+            "hu": "Sétáljon végig ezen a nyugodt vizéről és festői sétányáról híres kiterjedt városi strandon, amely ideális helyszín egy csendes naplementés sétához kényelmes cipőben.",
+            "ro": "Plimbați-vă de-a lungul acestei plaje urbane întinse, renumite pentru apele sale calme și promenada pitorească, fiind un loc ideal pentru o plimbare liniștită la apus.",
+            "en": "Stroll along this expansive urban beach renowned for its calm waters and scenic promenade, making it an ideal location to enjoy a quiet sunset walk with comfortable shoes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt im Stadtzentrum in den lebhaften Xardíns Doutor Fleming und führt Sie zur Capela de San Roque. Am Mittag entdecken Sie im Westen das aristokratische Erbe der Casa dos Duques de Medina de las Torres und der Villa Milagros. Der Nachmittag wird ruhiger, wenn Sie die Küste erreichen. Der Abend beginnt am Praia da Concha und bietet den perfekten Spaziergang bei Sonnenuntergang.",
+        "hu": "A reggel a belvárosban, a nyüzsgő Xardíns Doutor Flemingben kezdődik, majd a bájos Capela de San Roque felé veszi az irányt. Délben nyugat felé haladva felfedezheti a Casa dos Duques arisztokratikus örökségét és a Villa Milagros varázsát. A délután lazább tempóba vált, ahogy eléri a partvonalat. Az este a Praia da Concha strandon éri, amely tökéletes naplementés sétát kínál.",
+        "ro": "Dimineața începe în centrul orașului la vibranta Xardíns Doutor Fleming, îndreptându-se spre pitoreasca Capela de San Roque. La prânz, explorând estul, descoperiți moștenirea aristocratică la Casa dos Duques și farmecul Villei Milagros. După-amiaza face tranziția către un ritm relaxant la coastă. Seara se încheie la Praia da Concha, oferind o plimbare perfectă la apusul soarelui.",
+        "en": "Your morning starts in the city center at the vibrant Xardíns Doutor Fleming, moving smoothly to the quaint Capela de San Roque. Midday takes you westward, uncovering the aristocratic heritage at Casa dos Duques de Medina de las Torres and the historic charm of Villa Milagros. The afternoon transitions to a relaxing pace as you reach the coastline. Evening arrives at Praia da Concha, offering a perfect sunset stroll."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 3.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Xardíns Doutor Fleming",
+            "hu": "Xardíns Doutor Fleming",
+            "ro": "Xardíns Doutor Fleming",
+            "en": "Xardíns Doutor Fleming"
+          },
+          "coords": [
+            -8.762709,
+            42.59528
+          ],
+          "category": "park",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesen zentralen Gärten mit üppigem Grün und historischen Denkmälern, dem perfekten Ort, um sich vor der weiteren Stadterkundung auszuruhen.",
+            "hu": "Pihenjen meg ezekben a buja növényzettel és történelmi emlékművekkel teli központi kertekben, amelyek tökéletes helyszínt biztosítanak a városnézés folytatása előtt.",
+            "ro": "Relaxați-vă în aceste grădini centrale cu verdeață luxuriantă și monumente istorice, un loc perfect pentru a vă odihni picioarele înainte de a continua explorarea orașului.",
+            "en": "Relax in these central gardens featuring lush greenery and historical monuments, providing a perfect spot to rest your feet before continuing your city exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Concha",
+            "hu": "Praia da Concha",
+            "ro": "Praia da Concha",
+            "en": "Praia da Concha"
+          },
+          "coords": [
+            -8.767614,
+            42.602173
+          ],
+          "category": "recreational",
+          "arrive_at": "10:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang dieses weitläufigen Stadtstrandes, der für sein ruhiges Wasser bekannt ist, und genießen Sie einen herrlichen Spaziergang bei Sonnenuntergang in bequemen Schuhen.",
+            "hu": "Sétáljon végig ezen a nyugodt vizéről és festői sétányáról híres kiterjedt városi strandon, amely ideális helyszín egy csendes naplementés sétához kényelmes cipőben.",
+            "ro": "Plimbați-vă de-a lungul acestei plaje urbane întinse, renumite pentru apele sale calme și promenada pitorească, fiind un loc ideal pentru o plimbare liniștită la apus.",
+            "en": "Stroll along this expansive urban beach renowned for its calm waters and scenic promenade, making it an ideal location to enjoy a quiet sunset walk with comfortable shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Portugalete",
+            "hu": "Praia do Portugalete",
+            "ro": "Praia do Portugalete",
+            "en": "Praia do Portugalete"
+          },
+          "coords": [
+            -8.776936,
+            42.613311
+          ],
+          "category": "recreational",
+          "arrive_at": "11:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen ruhigeren Küstenabschnitt mit fantastischem Blick auf die Flussmündung und bringen Sie eine kleine Decke mit, um die sanften Wellen zu beobachten.",
+            "hu": "Fedezze fel ezt a bájos és csendesebb tengerparti helyet, amely fantasztikus kilátást nyújt a torkolatra, és hozzon magával egy takarót, ha szeretné nézni a szelíd hullámokat.",
+            "ro": "Descoperiți acest loc de coastă fermecător și mai liniștit, care oferă vederi fantastice asupra estuarului, și aduceți o pătură mică dacă doriți să priviți valurile blânde.",
+            "en": "Discover this charming and quieter coastal spot offering fantastic views of the estuary, and bring a small blanket if you wish to sit and watch the gentle waves roll in."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro do Peirao do Carril",
+            "hu": "Faro do Peirao do Carril",
+            "ro": "Faro do Peirao do Carril",
+            "en": "Faro do Peirao do Carril"
+          },
+          "coords": [
+            -8.778603,
+            42.614711
+          ],
+          "category": "landmark",
+          "arrive_at": "13:09",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie Fotos von diesem legendären Hafenleuchtturm, der den örtlichen Fischern seit Generationen den Weg weist, und denken Sie daran, dass die Brise am Wasser kühl sein kann.",
+            "hu": "Készítsen fotókat ennél az ikonikus kikötői világítótoronynál, amely generációk óta vezeti a halászokat, és ne feledje, hogy a vízparti szellő nyáron is meglehetősen hűvös lehet.",
+            "ro": "Fotografiați acest far emblematic al portului care a ghidat pescarii locali de generații, ținând cont că briza de pe malul apei poate fi destul de rece chiar și pe timp de vară.",
+            "en": "Take photos at this iconic harbor lighthouse that has guided local fishermen for generations, keeping in mind that the waterfront breeze can be quite chilly even in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro de Arriba",
+            "hu": "Castro de Arriba",
+            "ro": "Castro de Arriba",
+            "en": "Castro de Arriba"
+          },
+          "coords": [
+            -8.7666,
+            42.610799
+          ],
+          "category": "historical",
+          "arrive_at": "13:40",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diese faszinierenden Ruinen einer antiken Siedlung, die einen Einblick in das vorrömische Leben bieten, und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Vizsgálja meg ezeket a lenyűgöző ősi településromokat, amelyek bepillantást engednek a rómaiak előtti életbe, és feltétlenül viseljen masszív lábbelit az egyenetlen terepen.",
+            "ro": "Investigați aceste ruine fascinante ale așezărilor antice care oferă o privire asupra vieții pre-romane și purtați încălțăminte rezistentă pentru a naviga pe terenul denivelat.",
+            "en": "Investigate these fascinating ancient settlement ruins that offer a glimpse into pre-Roman life, and make sure to wear sturdy footwear for navigating the uneven grassy terrain."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Fahrradabenteuer in den üppigen Xardíns Doutor Fleming, bevor Sie zum Praia da Concha radeln. Am Mittag radeln Sie auf dem schönen Küstenweg zum ruhigen Praia do Portugalete. Der Nachmittag führt Sie zum historischen Faro do Peirao do Carril. Beenden Sie den Tag mit einer Fahrt ins Landesinnere, um in der Abenddämmerung die antiken Ruinen von Castro de Arriba zu erkunden.",
+        "hu": "Kezdje kerékpáros kalandját a buja Xardíns Doutor Flemingben, mielőtt a tenger felé pedálozna a Praia da Concha strandra. Délre tekerjen végig a gyönyörű parti úton a nyugodt Praia do Portugalete strandhoz. A délután elhozza a történelmi Faro do Peirao do Carrilhoz. A nap végén kerékpározzon kissé beljebb, hogy szürkületkor felfedezze a Castro de Arriba ősi romjait.",
+        "ro": "Începeți aventura pe bicicletă în luxurianta Xardíns Doutor Fleming înainte de a pedala spre mare la Praia da Concha. La prânz, mergeți pe frumosul drum de coastă până la liniștita Praia do Portugalete. După-amiaza vă aduce la istoricul Faro do Peirao do Carril. Încheiați ziua mergând ușor spre interior pentru a explora ruinele antice din Castro de Arriba la lăsarea serii.",
+        "en": "Begin your biking adventure in the lush Xardíns Doutor Fleming before pedaling towards the sea at Praia da Concha. By midday, cycle along the beautiful coastal path to the tranquil Praia do Portugalete. The afternoon brings you to the historic Faro do Peirao do Carril, a guiding light for sailors. End your day by cycling slightly inland to explore the ancient ruins of Castro de Arriba as dusk settles."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:31",
+      "total_km": 7.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pazo de Sobrán",
+            "hu": "Pazo de Sobrán",
+            "ro": "Pazo de Sobrán",
+            "en": "Pazo de Sobrán"
+          },
+          "coords": [
+            -8.786834,
+            42.585649
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie dieses prächtige galizische Herrenhaus, das sich durch seine imposanten mittelalterlichen Türme auszeichnet, und prüfen Sie vorab die Zugangszeiten für das Innere.",
+            "hu": "Csodálja meg ezt az impozáns középkori tornyaival kitűnő pompás galíciai udvarházat, és előzetesen ellenőrizze a látogatóközpont menetrendjét, mivel a belépés gyakran korlátozott.",
+            "ro": "Minunați-vă de acest grandios conac galician care se distinge prin turnurile sale medievale impunătoare și verificați programul de vizitare, deoarece accesul în interior este limitat.",
+            "en": "Marvel at this grand Galician manor house distinguished by its imposing medieval towers, and check the local visitor center schedule beforehand as interior access is often restricted."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de San Salvador de Sobradelo",
+            "hu": "Igrexa de San Salvador de Sobradelo",
+            "ro": "Igrexa de San Salvador de Sobradelo",
+            "en": "Igrexa de San Salvador de Sobradelo"
+          },
+          "coords": [
+            -8.780563,
+            42.58465
+          ],
+          "category": "religious",
+          "arrive_at": "10:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese historische Pfarrkirche, die atemberaubende traditionelle religiöse Kunst zeigt, und nehmen Sie sich einen Moment Zeit für die Details um das Hauptportal.",
+            "hu": "Látogasson el ebbe a történelmi plébániatemplomba, amely lenyűgöző hagyományos vallási művészetet mutat be, és figyelje meg a fő faajtó körüli gyönyörűen faragott részleteket.",
+            "ro": "Vizitați această biserică parohială istorică care prezintă artă religioasă tradițională uimitoare și observați detaliile frumos sculptate din jurul ușii sale principale din lemn.",
+            "en": "Visit this historic parish church showcasing stunning traditional religious art, and take a moment to observe the beautifully sculpted details around its main wooden doorway."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Canelas",
+            "hu": "Praia de Canelas",
+            "ro": "Praia de Canelas",
+            "en": "Praia de Canelas"
+          },
+          "coords": [
+            -8.784665,
+            42.59291
+          ],
+          "category": "recreational",
+          "arrive_at": "11:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den goldenen Sand dieses schönen, von üppiger Natur umgebenen Strandes und bringen Sie Wasser und Snacks mit, da die nahegelegenen Einrichtungen begrenzt sind.",
+            "hu": "Élvezze a buja természeti tájakkal körülvett gyönyörű helyi strand aranyhomokját, és hozzon magával vizet és rágcsálnivalót, mivel a közeli létesítmények meglehetősen korlátozottak.",
+            "ro": "Bucurați-vă de nisipurile aurii ale acestei plaje locale frumoase, înconjurată de peisaje naturale luxuriante, și aduceți-vă apă și gustări, deoarece facilitățile sunt limitate.",
+            "en": "Enjoy the golden sands of this beautiful local beach surrounded by lush natural landscapes, bringing along your own water and snacks since nearby facilities are somewhat limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa dos Duques de Medina de las Torres",
+            "hu": "Casa dos Duques de Medina de las Torres",
+            "ro": "Casa dos Duques de Medina de las Torres",
+            "en": "Casa dos Duques de Medina de las Torres"
+          },
+          "coords": [
+            -8.776205,
+            42.591954
+          ],
+          "category": "historical",
+          "arrive_at": "12:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen Adelssitz, der mit seinen eleganten Steinfassaden die aristokratische Vergangenheit der Region widerspiegelt, und achten Sie auf die heraldischen Schilde.",
+            "hu": "Fedezze fel ezt a nemesi rezidenciát, amely elegáns kőhomlokzataival a régió arisztokrata múltját tükrözi, és mindenképpen vegye szemügyre a bejárat melletti címereket.",
+            "ro": "Explorați această reședință nobilă care reflectă trecutul aristocratic al regiunii prin fațadele sale elegante din piatră, observând scuturile heraldice complicate de la intrare.",
+            "en": "Explore this noble residence reflecting the region's aristocratic past with its elegant stone facades, making sure to notice the intricate heraldic shields near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Pedra de Meán",
+            "hu": "Pedra de Meán",
+            "ro": "Pedra de Meán",
+            "en": "Pedra de Meán"
+          },
+          "coords": [
+            -8.751894,
+            42.60251
+          ],
+          "category": "historical",
+          "arrive_at": "13:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diese mysteriöse alte Steinformation, die tief in der mythischen Vergangenheit der Region verwurzelt ist, und nutzen Sie eine GPS-Karte, um sie leicht zu finden.",
+            "hu": "Vizsgálja meg ezt a régió mitikus múltjában mélyen gyökerező titokzatos ősi kőalakzatot, és használjon GPS-képes térképet, hogy könnyen megtalálja a sűrű növényzet között.",
+            "ro": "Examinați această formațiune antică misterioasă de piatră, profund înrădăcinată în trecutul mitic al regiunii, și folosiți o hartă cu GPS pentru a o localiza în vegetația densă.",
+            "en": "Examine this mysterious ancient stone formation deeply rooted in the region's mythic past, and use a GPS-enabled map to easily locate it among the surrounding dense vegetation."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de San Pedro de Cornazo",
+            "hu": "Igrexa de San Pedro de Cornazo",
+            "ro": "Igrexa de San Pedro de Cornazo",
+            "en": "Igrexa de San Pedro de Cornazo"
+          },
+          "coords": [
+            -8.7577,
+            42.578945
+          ],
+          "category": "religious",
+          "arrive_at": "15:21",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieser rustikalen Landkirche mit klassischem Glockenturm und bewahren Sie ein ruhiges Verhalten, da sie eine aktive Gemeindekirche ist.",
+            "hu": "Értékelje e klasszikus harangtoronnyal rendelkező rusztikus vidéki templom békés hangulatát, és ne felejtsen el csendben maradni, mivel ez egy aktív közösségi plébánia.",
+            "ro": "Apreciați ambianța pașnică a acestei biserici rurale rustice, cu o clopotniță clasică, și amintiți-vă să păstrați o atitudine liniștită, deoarece servește ca parohie activă.",
+            "en": "Appreciate the peaceful ambiance of this rustic rural church featuring a classic belfry, and remember to maintain a quiet demeanor as it serves as an active community parish."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Roadtrip am prächtigen Pazo de Sobrán im Süden, gefolgt von der Igrexa de San Salvador. Der Mittag bietet eine erfrischende Pause am Praia de Canelas, bevor Sie zur eleganten Casa dos Duques fahren. Am Nachmittag fahren Sie ins Landesinnere, um die Geheimnisse der Pedra de Meán zu lüften. Ihr Abend endet mit einem ruhigen Besuch der Igrexa de San Pedro de Cornazo.",
+        "hu": "Kezdje autós utazását a déli csodálatos Pazo de Sobránnál, amelyet az Igrexa de San Salvador de Sobradelo követ. A dél frissítő szünetet kínál a Praia de Canelas-on, mielőtt az elegáns Casa dos Duques-hez hajtana. Délután merészkedjen a szárazföld belsejébe, és fedezze fel a Pedra de Meán titkait. Az estéje az Igrexa de San Pedro de Cornazo csendes meglátogatásával zárul.",
+        "ro": "Începeți călătoria cu mașina la magnificul Pazo de Sobrán în sud, urmată de culturala Igrexa de San Salvador. Prânzul oferă o pauză la Praia de Canelas înainte de a conduce la eleganta Casa dos Duques. După-amiaza, aventurați-vă spre interior pentru a descoperi misterele Pedra de Meán. Seara se încheie cu o vizită senină la Igrexa de San Pedro de Cornazo.",
+        "en": "Kick off your road trip at the magnificent Pazo de Sobrán in the south, followed by the culturally rich Igrexa de San Salvador de Sobradelo. Midday offers a refreshing break at Praia de Canelas before driving to the elegant Casa dos Duques de Medina de las Torres. In the afternoon, venture inland to unearth the mysteries of Pedra de Meán. Your evening concludes with a serene visit to Igrexa de San Pedro de Cornazo."
+      }
+    }
+  }
+}

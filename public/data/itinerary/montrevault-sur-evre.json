@@ -1,0 +1,474 @@
+{
+  "city_id": "montrevault-sur-evre",
+  "anchor": {
+    "name": "Montrevault-sur-Èvre",
+    "coords": [
+      -1.0458,
+      47.2611
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:40",
+      "total_km": 2.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Hôtel de ville",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            -1.047172,
+            47.259203
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die charmante Architektur des Rathauses, bevor Sie das schwarze Brett für lokale Veranstaltungen prüfen und weitergehen.",
+            "hu": "Csodálja meg a városháza bájos építészetét, mielőtt megnézné a helyi eseményeket a hirdetőtáblán, majd sétáljon tovább a központ felé.",
+            "ro": "Admirați arhitectura fermecătoare a primăriei înainte de a verifica panoul cu evenimente locale și de a vă îndrepta spre centrul cultural.",
+            "en": "Admire the charming architecture of the town hall before checking the notice board for local events and walking towards the cultural center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum",
+            "hu": "Kulturális központ",
+            "ro": "Centrul cultural",
+            "en": "Cultural Center"
+          },
+          "coords": [
+            -1.045981,
+            47.257288
+          ],
+          "category": "cultural",
+          "arrive_at": "09:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erkunden Sie die vielfältigen regionalen Ausstellungen in diesem lebendigen Kulturzentrum und fragen Sie das Personal nach einer Karte.",
+            "hu": "Fedezze fel a változatos regionális kiállításokat ebben a pezsgő kulturális központban, és kérjen egy ingyenes térképet a kedves személyzettől.",
+            "ro": "Explorați expozițiile regionale diverse din acest centru cultural vibrant și cereți personalului amabil de la recepție o hartă gratuită.",
+            "en": "Explore the diverse regional exhibitions housed inside this vibrant cultural center, and ask the friendly reception staff for a free map."
+          }
+        },
+        {
+          "name": {
+            "de": "Ufer der Èvre",
+            "hu": "Èvre partja",
+            "ro": "Malurile râului Èvre",
+            "en": "Banks of the Èvre"
+          },
+          "coords": [
+            -1.045886,
+            47.260628
+          ],
+          "category": "natural",
+          "arrive_at": "11:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Spazieren Sie an den ruhigen Ufern der Èvre entlang, bringen Sie bequeme Schuhe und ein Picknick mit, um die schöne Natur zu genießen.",
+            "hu": "Sétáljon az Èvre folyó békés partján, és hozzon magával kényelmes cipőt, esetleg egy könnyű pikniket, hogy élvezze a gyönyörű tájat.",
+            "ro": "Plimbați-vă pe malurile liniștite ale râului Èvre, aducând încălțăminte comodă și poate un mic picnic pentru a savura peisajul natural.",
+            "en": "Stroll along the peaceful banks of the Èvre river, bringing comfortable shoes and perhaps a light picnic to enjoy the scenic natural views."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss von Montrevault",
+            "hu": "Montrevault-i kastély",
+            "ro": "Castelul din Montrevault",
+            "en": "Château of Montrevault"
+          },
+          "coords": [
+            -1.045295,
+            47.262836
+          ],
+          "category": "historical",
+          "arrive_at": "12:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte dieses imposanten historischen Schlosses, aber bedenken Sie, dass die besten Fotomotive im Süden liegen.",
+            "hu": "Fedezze fel e lenyűgöző történelmi kastély gazdag múltját, de tartsa szem előtt, hogy a legjobb fotószögeket a déli ösvényről találja.",
+            "ro": "Descoperiți istoria bogată a acestui castel istoric impunător, dar rețineți că cele mai bune unghiuri fotografice sunt de pe aleea sudică.",
+            "en": "Discover the rich history of this imposing historical castle, but keep in mind that the best photographic angles are from the southern path."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Pierre",
+            "hu": "Saint-Pierre templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Church of Saint-Pierre"
+          },
+          "coords": [
+            -1.025842,
+            47.270408
+          ],
+          "category": "religious",
+          "arrive_at": "14:30",
+          "stay_min": 70,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Betreten Sie diese wunderschöne religiöse Stätte, um die Buntglasfenster zu betrachten, und vergessen Sie nicht, hier leise zu sprechen.",
+            "hu": "Lépjen be ebbe a gyönyörű vallási épületbe, hogy megfigyelje az ólomüveg ablakokat, de ne felejtsen el csendben maradni a misék alatt.",
+            "ro": "Pășiți în acest lăcaș religios frumos pentru a observa vitraliile detaliate, amintindu-vă să păstrați liniștea în timpul slujbelor.",
+            "en": "Step inside this beautiful religious site to observe the intricate stained glass windows, remembering to keep your voice down during service."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am klassischen Rathaus und führt schnell zum Kulturzentrum, um die künstlerische Atmosphäre aufzusaugen. Mittags spazieren Sie am friedlichen Ufer der Èvre. Der Nachmittag wird historisch, wenn Sie das majestätische Schloss erkunden. Der Abend nähert sich mit einem ruhigen Besuch der Kirche Saint-Pierre.",
+        "hu": "A reggel a klasszikus Városházánál kezdődik, majd a Kulturális központban szívhatja magába a helyi művészeti hangulatot. Délben az Èvre folyó békés partjain sétálhat. A délután a történelemé, amikor felfedezi az impozáns Montrevault-i kastélyt. Az este a Saint-Pierre templom csendes meglátogatásával közeledik.",
+        "ro": "Dimineața începe la primăria clasică, trecând rapid spre Centrul Cultural pentru atmosfera artistică locală. La prânz, vă veți plimba pe malurile liniștite ale râului Èvre. După-amiaza se îndreaptă spre istorie, explorând Castelul din Montrevault. Seara se apropie cu o vizită senină la Biserica Saint-Pierre.",
+        "en": "Morning begins at the classic Town Hall, moving quickly to the Cultural Center to soak up the local artistic vibe. By midday, you'll be strolling along the peaceful banks of the Èvre river. The afternoon shifts towards history as you explore the commanding Château of Montrevault. Evening approaches with a serene visit to the Church of Saint-Pierre."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:55",
+      "total_km": 6.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ufer der Èvre",
+            "hu": "Èvre partja",
+            "ro": "Malurile râului Èvre",
+            "en": "Banks of the Èvre"
+          },
+          "coords": [
+            -1.045886,
+            47.260628
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Spazieren Sie an den ruhigen Ufern der Èvre entlang, bringen Sie bequeme Schuhe und ein Picknick mit, um die schöne Natur zu genießen.",
+            "hu": "Sétáljon az Èvre folyó békés partján, és hozzon magával kényelmes cipőt, esetleg egy könnyű pikniket, hogy élvezze a gyönyörű tájat.",
+            "ro": "Plimbați-vă pe malurile liniștite ale râului Èvre, aducând încălțăminte comodă și poate un mic picnic pentru a savura peisajul natural.",
+            "en": "Stroll along the peaceful banks of the Èvre river, bringing comfortable shoes and perhaps a light picnic to enjoy the scenic natural views."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss von Montrevault",
+            "hu": "Montrevault-i kastély",
+            "ro": "Castelul din Montrevault",
+            "en": "Château of Montrevault"
+          },
+          "coords": [
+            -1.045295,
+            47.262836
+          ],
+          "category": "historical",
+          "arrive_at": "10:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte dieses imposanten historischen Schlosses, aber bedenken Sie, dass die besten Fotomotive im Süden liegen.",
+            "hu": "Fedezze fel e lenyűgöző történelmi kastély gazdag múltját, de tartsa szem előtt, hogy a legjobb fotószögeket a déli ösvényről találja.",
+            "ro": "Descoperiți istoria bogată a acestui castel istoric impunător, dar rețineți că cele mai bune unghiuri fotografice sunt de pe aleea sudică.",
+            "en": "Discover the rich history of this imposing historical castle, but keep in mind that the best photographic angles are from the southern path."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Pierre",
+            "hu": "Saint-Pierre templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Church of Saint-Pierre"
+          },
+          "coords": [
+            -1.025842,
+            47.270408
+          ],
+          "category": "religious",
+          "arrive_at": "11:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Betreten Sie diese wunderschöne religiöse Stätte, um die Buntglasfenster zu betrachten, und vergessen Sie nicht, hier leise zu sprechen.",
+            "hu": "Lépjen be ebbe a gyönyörű vallási épületbe, hogy megfigyelje az ólomüveg ablakokat, de ne felejtsen el csendben maradni a misék alatt.",
+            "ro": "Pășiți în acest lăcaș religios frumos pentru a observa vitraliile detaliate, amintindu-vă să păstrați liniștea în timpul slujbelor.",
+            "en": "Step inside this beautiful religious site to observe the intricate stained glass windows, remembering to keep your voice down during service."
+          }
+        },
+        {
+          "name": {
+            "de": "Clairembault",
+            "hu": "Clairembault",
+            "ro": "Clairembault",
+            "en": "Clairembault"
+          },
+          "coords": [
+            -1.069439,
+            47.270331
+          ],
+          "category": "historical",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch das historische Anwesen Clairembault, ein architektonisches Juwel, wo frühes Erscheinen Sie vor großen Gruppen rettet.",
+            "hu": "Barangolja be a történelmi Clairembault birtokot, amely lenyűgöző építészeti gyöngyszem, és érkezzen korán a nagyobb turistacsoportok elkerülésére.",
+            "ro": "Plimbați-vă pe domeniul istoric Clairembault, o bijuterie arhitecturală impresionantă, unde sosirea matinală vă ajută să evitați aglomerația.",
+            "en": "Wander around the historic Clairembault estate, an impressive architectural gem where arriving early helps you avoid the larger tour groups."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Remy",
+            "hu": "Saint-Remy",
+            "ro": "Saint-Remy",
+            "en": "Saint-Remy"
+          },
+          "coords": [
+            -1.07415,
+            47.271376
+          ],
+          "category": "religious",
+          "arrive_at": "14:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese malerische Kirche, um echte historische Ruhe zu erleben, und nehmen Sie sich Zeit für die schattigen Bänke davor.",
+            "hu": "Látogassa meg ezt a hangulatos helyi templomot a történelmi nyugalomért, és szánjon egy percet az előtte lévő árnyékos fapadokon való pihenésre.",
+            "ro": "Vizitați această biserică pitorească pentru a experimenta o liniște istorică adevărată, stând câteva momente pe băncile de lemn umbrite din față.",
+            "en": "Visit this quaint local church to experience true historical serenity, taking a moment to sit on the shaded wooden benches just outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Spectacle Jacquou le Croquant",
+            "hu": "Jacquou le Croquant előadás",
+            "ro": "Spectacolul Jacquou le Croquant",
+            "en": "Jacquou le Croquant Show"
+          },
+          "coords": [
+            -1.077594,
+            47.274297
+          ],
+          "category": "landmark",
+          "arrive_at": "15:00",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.42,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre kulturelle Reise mit diesem lebendigen lokalen Spektakel, wobei Sie Tickets im Voraus online buchen sollten.",
+            "hu": "Zárja kulturális utazását ezzel a pezsgő helyi látványossággal, de foglalja le jegyeit előre online, hogy garantáltan jó helyet kapjon.",
+            "ro": "Încheiați-vă călătoria culturală cu acest spectacol local vibrant, rezervând biletele online în avans pentru a vă garanta cele mai bune locuri.",
+            "en": "End your cultural journey with this vibrant local spectacle, booking your tickets online in advance to guarantee the best available seats."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt sanft am malerischen Ufer der Èvre und atmen Sie die frische Morgenluft ein. Mittags erreichen Sie das große Schloss Montrevault und die Kirche Saint-Pierre. Nachmittags fahren Sie weiter zum Anwesen Clairembault und nach Saint-Remy. Der Abend wird perfekt vom Spektakel Jacquou le Croquant gekrönt.",
+        "hu": "Kezdje a biciklizést az Èvre folyó festői partjain, belélegezve a friss reggeli levegőt. Délben a grandiózus Montrevault-i kastély és a Saint-Pierre templom várja. A délutáni tekerés a Clairembault birtokhoz és a hangulatos Saint-Remy-hez viszi. Az estét tökéletesen zárja a látványos Jacquou le Croquant előadás.",
+        "ro": "Începeți-vă plimbarea ușor de-a lungul malurilor pitorești ale râului Èvre, respirând aerul proaspăt al dimineții. Prânzul vă aduce la marele Castel Montrevault și Biserica Saint-Pierre. Plimbarea de după-amiază vă duce la domeniul Clairembault și Saint-Remy. Seara este încununată de spectacolul Jacquou le Croquant.",
+        "en": "Kick off your ride gently along the scenic banks of the Èvre river, breathing in the fresh morning air. Midday brings you to the grand Château of Montrevault and the stunning Church of Saint-Pierre. Afternoon riding takes you further to the Clairembault estate and quaint Saint-Remy. The evening is perfectly capped by the spectacular Jacquou le Croquant show."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:32",
+      "total_km": 9.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hôtel de ville",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            -1.047172,
+            47.259203
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die charmante Architektur des Rathauses, bevor Sie das schwarze Brett für lokale Veranstaltungen prüfen und weitergehen.",
+            "hu": "Csodálja meg a városháza bájos építészetét, mielőtt megnézné a helyi eseményeket a hirdetőtáblán, majd sétáljon tovább a központ felé.",
+            "ro": "Admirați arhitectura fermecătoare a primăriei înainte de a verifica panoul cu evenimente locale și de a vă îndrepta spre centrul cultural.",
+            "en": "Admire the charming architecture of the town hall before checking the notice board for local events and walking towards the cultural center."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss von Montrevault",
+            "hu": "Montrevault-i kastély",
+            "ro": "Castelul din Montrevault",
+            "en": "Château of Montrevault"
+          },
+          "coords": [
+            -1.045295,
+            47.262836
+          ],
+          "category": "historical",
+          "arrive_at": "09:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte dieses imposanten historischen Schlosses, aber bedenken Sie, dass die besten Fotomotive im Süden liegen.",
+            "hu": "Fedezze fel e lenyűgöző történelmi kastély gazdag múltját, de tartsa szem előtt, hogy a legjobb fotószögeket a déli ösvényről találja.",
+            "ro": "Descoperiți istoria bogată a acestui castel istoric impunător, dar rețineți că cele mai bune unghiuri fotografice sunt de pe aleea sudică.",
+            "en": "Discover the rich history of this imposing historical castle, but keep in mind that the best photographic angles are from the southern path."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Pierre",
+            "hu": "Saint-Pierre templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Church of Saint-Pierre"
+          },
+          "coords": [
+            -1.025842,
+            47.270408
+          ],
+          "category": "religious",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Betreten Sie diese wunderschöne religiöse Stätte, um die Buntglasfenster zu betrachten, und vergessen Sie nicht, hier leise zu sprechen.",
+            "hu": "Lépjen be ebbe a gyönyörű vallási épületbe, hogy megfigyelje az ólomüveg ablakokat, de ne felejtsen el csendben maradni a misék alatt.",
+            "ro": "Pășiți în acest lăcaș religios frumos pentru a observa vitraliile detaliate, amintindu-vă să păstrați liniștea în timpul slujbelor.",
+            "en": "Step inside this beautiful religious site to observe the intricate stained glass windows, remembering to keep your voice down during service."
+          }
+        },
+        {
+          "name": {
+            "de": "Clairembault",
+            "hu": "Clairembault",
+            "ro": "Clairembault",
+            "en": "Clairembault"
+          },
+          "coords": [
+            -1.069439,
+            47.270331
+          ],
+          "category": "historical",
+          "arrive_at": "11:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch das historische Anwesen Clairembault, ein architektonisches Juwel, wo frühes Erscheinen Sie vor großen Gruppen rettet.",
+            "hu": "Barangolja be a történelmi Clairembault birtokot, amely lenyűgöző építészeti gyöngyszem, és érkezzen korán a nagyobb turistacsoportok elkerülésére.",
+            "ro": "Plimbați-vă pe domeniul istoric Clairembault, o bijuterie arhitecturală impresionantă, unde sosirea matinală vă ajută să evitați aglomerația.",
+            "en": "Wander around the historic Clairembault estate, an impressive architectural gem where arriving early helps you avoid the larger tour groups."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Remy",
+            "hu": "Saint-Remy",
+            "ro": "Saint-Remy",
+            "en": "Saint-Remy"
+          },
+          "coords": [
+            -1.07415,
+            47.271376
+          ],
+          "category": "religious",
+          "arrive_at": "13:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese malerische Kirche, um echte historische Ruhe zu erleben, und nehmen Sie sich Zeit für die schattigen Bänke davor.",
+            "hu": "Látogassa meg ezt a hangulatos helyi templomot a történelmi nyugalomért, és szánjon egy percet az előtte lévő árnyékos fapadokon való pihenésre.",
+            "ro": "Vizitați această biserică pitorească pentru a experimenta o liniște istorică adevărată, stând câteva momente pe băncile de lemn umbrite din față.",
+            "en": "Visit this quaint local church to experience true historical serenity, taking a moment to sit on the shaded wooden benches just outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Spectacle Jacquou le Croquant",
+            "hu": "Jacquou le Croquant előadás",
+            "ro": "Spectacolul Jacquou le Croquant",
+            "en": "Jacquou le Croquant Show"
+          },
+          "coords": [
+            -1.077594,
+            47.274297
+          ],
+          "category": "landmark",
+          "arrive_at": "13:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.42,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre kulturelle Reise mit diesem lebendigen lokalen Spektakel, wobei Sie Tickets im Voraus online buchen sollten.",
+            "hu": "Zárja kulturális utazását ezzel a pezsgő helyi látványossággal, de foglalja le jegyeit előre online, hogy garantáltan jó helyet kapjon.",
+            "ro": "Încheiați-vă călătoria culturală cu acest spectacol local vibrant, rezervând biletele online în avans pentru a vă garanta cele mai bune locuri.",
+            "en": "End your cultural journey with this vibrant local spectacle, booking your tickets online in advance to guarantee the best available seats."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum",
+            "hu": "Kulturális központ",
+            "ro": "Centrul cultural",
+            "en": "Cultural Center"
+          },
+          "coords": [
+            -1.045981,
+            47.257288
+          ],
+          "category": "cultural",
+          "arrive_at": "14:22",
+          "stay_min": 130,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die vielfältigen regionalen Ausstellungen in diesem lebendigen Kulturzentrum und fragen Sie das Personal nach einer Karte.",
+            "hu": "Fedezze fel a változatos regionális kiállításokat ebben a pezsgő kulturális központban, és kérjen egy ingyenes térképet a kedves személyzettől.",
+            "ro": "Explorați expozițiile regionale diverse din acest centru cultural vibrant și cereți personalului amabil de la recepție o hartă gratuită.",
+            "en": "Explore the diverse regional exhibitions housed inside this vibrant cultural center, and ask the friendly reception staff for a free map."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour am Rathaus, bevor Sie kurz zum legendären Schloss Montrevault fahren. Mittags wechseln Sie bequem zur wunderschönen Kirche Saint-Pierre und zum historischen Clairembault. Nachmittags besuchen Sie Saint-Remy und holen Tickets für Jacquou le Croquant. Der Abend klingt im Kulturzentrum aus.",
+        "hu": "Kezdje az autós túrát a Városházánál, mielőtt elhajtana az ikonikus Montrevault-i kastélyhoz. Délben könnyedén átválthat a Saint-Pierre templomra és a történelmi Clairembault-ra. Délután ellátogat Saint-Remy-be, és jegyeket szerez a Jacquou le Croquant-ra. Az este a Kulturális központban pihenteti meg.",
+        "ro": "Începeți turul cu mașina la Primăria istorică înainte de a face o scurtă oprire la Castelul din Montrevault. Prânzul vă permite să treceți ușor la Biserica Saint-Pierre și istoricul Clairembault. După-amiaza, vizitați Saint-Remy și luați bilete pentru Jacquou le Croquant. Seara vă relaxează la Centrul Cultural.",
+        "en": "Start your driving tour at the historic Town Hall before making the very short trip to the iconic Château of Montrevault. Midday lets you easily transition to the beautiful Church of Saint-Pierre and the historic Clairembault. In the afternoon, you visit Saint-Remy and secure tickets for the Jacquou le Croquant show. Evening relaxes at the Cultural Center."
+      }
+    }
+  }
+}

@@ -1,0 +1,520 @@
+{
+  "city_id": "albania-kavaje-cities-v2",
+  "anchor": {
+    "name": "Kavajë",
+    "coords": [
+      19.5569,
+      41.1856
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 1.95,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Aleksander Moisiu",
+            "hu": "Aleksander Moisiu",
+            "ro": "Aleksander Moisiu",
+            "en": "Aleksander Moisiu"
+          },
+          "coords": [
+            19.560259,
+            41.185231
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Leben des berühmten Schauspielers Aleksander Moisiu anhand historischer Ausstellungsstücke und fragen Sie das Personal unbedingt nach seiner internationalen Theaterkarriere.",
+            "hu": "Fedezze fel a híres színész, Aleksander Moisiu életét a történelmi kiállításokon keresztül, és mindenképpen kérdezze meg a személyzetet nemzetközi színházi karrierjéről.",
+            "ro": "Descoperiți viața celebrului actor Aleksander Moisiu examinând exponatele istorice și asigurați-vă că întrebați personalul despre cariera sa internațională în teatru.",
+            "en": "Discover the life of the famous actor Aleksander Moisiu by examining historical exhibits, and be sure to ask the staff about his international theater career."
+          }
+        },
+        {
+          "name": {
+            "de": "Sahati Clock Tower",
+            "hu": "Sahati Clock Tower",
+            "ro": "Sahati Clock Tower",
+            "en": "Sahati Clock Tower"
+          },
+          "coords": [
+            19.562603,
+            41.183862
+          ],
+          "category": "historical",
+          "arrive_at": "10:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie die osmanische Architektur des Sahati-Uhrturms vom angrenzenden Platz aus, der am späten Vormittag das beste Licht zum Fotografieren bietet.",
+            "hu": "Csodálja meg a Sahati óratorony oszmán kori építészetét a szomszédos térről, amely a késő délelőtti órákban nyújtja a legjobb fényviszonyokat a fotózáshoz.",
+            "ro": "Admirați arhitectura din epoca otomană a Turnului cu Ceas Sahati din piața adiacentă, care oferă cea mai bună lumină pentru fotografie dimineața târziu.",
+            "en": "Admire the Ottoman-era architecture of the Sahati Clock Tower from the adjacent square, which offers the best lighting for photography in the late morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Indrit Caro",
+            "hu": "Indrit Caro",
+            "ro": "Indrit Caro",
+            "en": "Indrit Caro"
+          },
+          "coords": [
+            19.561487,
+            41.184055
+          ],
+          "category": "historical",
+          "arrive_at": "11:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit zum Nachdenken an der historischen Stätte von Indrit Caro, wo Sie die Gedenktafeln lesen können, die seine Bedeutung für die lokale Gemeinschaft beschreiben.",
+            "hu": "Szánjon egy percet az emlékezésre az Indrit Caro történelmi helyszínen, ahol elolvashatja a helyi közösség számára betöltött jelentőségét részletező emléktáblákat.",
+            "ro": "Alocați un moment de reflecție la situl istoric Indrit Caro, unde puteți citi plăcile comemorative care detaliază importanța sa pentru comunitatea locală.",
+            "en": "Take a moment to reflect at the Indrit Caro historical site, where you can read the commemorative plaques detailing his significance to the local community."
+          }
+        },
+        {
+          "name": {
+            "de": "Banesa e Bajram Xhanit",
+            "hu": "Banesa e Bajram Xhanit",
+            "ro": "Banesa e Bajram Xhanit",
+            "en": "Banesa e Bajram Xhanit"
+          },
+          "coords": [
+            19.565425,
+            41.183453
+          ],
+          "category": "historical",
+          "arrive_at": "13:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Betreten Sie die wunderschön erhaltene Banesa e Bajram Xhanit, um das traditionelle albanische häusliche Leben zu erleben, und betrachten Sie die aufwendigen Holzschnitzereien genauer.",
+            "hu": "Lépjen be a gyönyörűen megőrzött Banesa e Bajram Xhanitba, hogy megtapasztalja a hagyományos albán családi életet, és figyelje meg közelebbről a bonyolult fafaragásokat.",
+            "ro": "Pășiți în frumos conservata Banesa e Bajram Xhanit pentru a experimenta viața domestică tradițională albaneză și priviți îndeaproape sculpturile complicate în lemn.",
+            "en": "Step into the beautifully preserved Banesa e Bajram Xhanit to experience traditional Albanian domestic life, and look closely at the intricate wooden carvings."
+          }
+        },
+        {
+          "name": {
+            "de": "Ethnographic Museum",
+            "hu": "Ethnographic Museum",
+            "ro": "Ethnographic Museum",
+            "en": "Ethnographic Museum"
+          },
+          "coords": [
+            19.555658,
+            41.180369
+          ],
+          "category": "museum",
+          "arrive_at": "14:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Tauchen Sie im Ethnografischen Museum in die lokale Kultur ein, wo die vielfältige Textilsammlung am besten zur Geltung kommt, wenn Sie im Obergeschoss beginnen.",
+            "hu": "Merüljön el a helyi kultúrában a Néprajzi Múzeumban, ahol a változatos textilgyűjteményt a leginkább az emeleten kezdve lehet értékelni.",
+            "ro": "Scufundați-vă în cultura locală la Muzeul Etnografic, unde colecția diversă de textile este cel mai bine apreciată începând de la etajul superior.",
+            "en": "Immerse yourself in local culture at the Ethnographic Museum, where the diverse textile collection is best appreciated by starting on the upper floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Smoke Stack Minaret",
+            "hu": "Smoke Stack Minaret",
+            "ro": "Smoke Stack Minaret",
+            "en": "Smoke Stack Minaret"
+          },
+          "coords": [
+            19.560022,
+            41.179623
+          ],
+          "category": "landmark",
+          "arrive_at": "16:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Blicken Sie hinauf zum ungewöhnlichen Schornstein-Minarett, einem einzigartigen Stück industriell-religiösen Erbes, das sich wunderbar vom Nachmittagshimmel abhebt.",
+            "hu": "Nézzen fel a szokatlan Kémény Minaretre, az ipari-vallási örökség ezen egyedülálló darabjára, amely gyönyörűen kiemelkedik a délutáni égbolt hátteréből.",
+            "ro": "Priviți în sus la neobișnuitul Minaret Coș de Fum, o piesă unică de patrimoniu industrial-religios, care se profilează minunat pe cerul după-amiezii.",
+            "en": "Look up at the unusual Smoke Stack Minaret, a unique piece of industrial-religious heritage, which stands out beautifully against the afternoon sky."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einem tiefen Einblick in das lokale Erbe, indem Sie das Leben von Aleksander Moisiu feiern und den ikonischen Sahati-Uhrturm besuchen. Die Mittagszeit bringt Besinnung am Indrit Caro-Denkmal und ein Erlebnis in der traditionellen Banesa e Bajram Xhanit. Der Nachmittag ist den Sammlungen des Ethnografischen Museums gewidmet. Der Abend endet friedlich beim Schornstein-Minarett.",
+        "hu": "A reggel a helyi örökség mélyreható megismerésével kezdődik, megünnepelve Aleksander Moisiu életét és meglátogatva az ikonikus Sahati óratornyot. A délidő az Indrit Caro emlékműnél és a hagyományos Banesa e Bajram Xhanitban telik. A délutánt a Néprajzi Múzeum hatalmas gyűjteményeinek szenteljük. Az este békésen zárul a különleges Kémény Minaret közelében.",
+        "ro": "Dimineața începe cu o incursiune în patrimoniul local, celebrând viața lui Aleksander Moisiu înainte de a vizita emblematicul Turn cu Ceas Sahati. Miezul zilei aduce reflecție la memorialul Indrit Caro și o experiență în tradiționala Banesa e Bajram Xhanit. După-amiaza este dedicată colecțiilor vaste ale Muzeului Etnografic. Seara se încheie pașnic în apropierea Minaretului Coș de Fum.",
+        "en": "Morning begins with a deep dive into local heritage, celebrating the life of Aleksander Moisiu before visiting the iconic Sahati Clock Tower. Midday brings reflection at the Indrit Caro memorial and an immersive experience inside the traditional Banesa e Bajram Xhanit. Afternoon is dedicated to the vast collections of the Ethnographic Museum. Evening concludes peacefully near the Smoke Stack Minaret."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:06",
+      "total_km": 10.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Smoke Stack Minaret",
+            "hu": "Smoke Stack Minaret",
+            "ro": "Smoke Stack Minaret",
+            "en": "Smoke Stack Minaret"
+          },
+          "coords": [
+            19.560022,
+            41.179623
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Blicken Sie hinauf zum ungewöhnlichen Schornstein-Minarett, einem einzigartigen Stück industriell-religiösen Erbes, das sich wunderbar vom Nachmittagshimmel abhebt.",
+            "hu": "Nézzen fel a szokatlan Kémény Minaretre, az ipari-vallási örökség ezen egyedülálló darabjára, amely gyönyörűen kiemelkedik a délutáni égbolt hátteréből.",
+            "ro": "Priviți în sus la neobișnuitul Minaret Coș de Fum, o piesă unică de patrimoniu industrial-religios, care se profilează minunat pe cerul după-amiezii.",
+            "en": "Look up at the unusual Smoke Stack Minaret, a unique piece of industrial-religious heritage, which stands out beautifully against the afternoon sky."
+          }
+        },
+        {
+          "name": {
+            "de": "Ethnographic Museum",
+            "hu": "Ethnographic Museum",
+            "ro": "Ethnographic Museum",
+            "en": "Ethnographic Museum"
+          },
+          "coords": [
+            19.555658,
+            41.180369
+          ],
+          "category": "museum",
+          "arrive_at": "09:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Tauchen Sie im Ethnografischen Museum in die lokale Kultur ein, wo die vielfältige Textilsammlung am besten zur Geltung kommt, wenn Sie im Obergeschoss beginnen.",
+            "hu": "Merüljön el a helyi kultúrában a Néprajzi Múzeumban, ahol a változatos textilgyűjteményt a leginkább az emeleten kezdve lehet értékelni.",
+            "ro": "Scufundați-vă în cultura locală la Muzeul Etnografic, unde colecția diversă de textile este cel mai bine apreciată începând de la etajul superior.",
+            "en": "Immerse yourself in local culture at the Ethnographic Museum, where the diverse textile collection is best appreciated by starting on the upper floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Sahati Clock Tower",
+            "hu": "Sahati Clock Tower",
+            "ro": "Sahati Clock Tower",
+            "en": "Sahati Clock Tower"
+          },
+          "coords": [
+            19.562603,
+            41.183862
+          ],
+          "category": "historical",
+          "arrive_at": "11:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die osmanische Architektur des Sahati-Uhrturms vom angrenzenden Platz aus, der am späten Vormittag das beste Licht zum Fotografieren bietet.",
+            "hu": "Csodálja meg a Sahati óratorony oszmán kori építészetét a szomszédos térről, amely a késő délelőtti órákban nyújtja a legjobb fényviszonyokat a fotózáshoz.",
+            "ro": "Admirați arhitectura din epoca otomană a Turnului cu Ceas Sahati din piața adiacentă, care oferă cea mai bună lumină pentru fotografie dimineața târziu.",
+            "en": "Admire the Ottoman-era architecture of the Sahati Clock Tower from the adjacent square, which offers the best lighting for photography in the late morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Banesa e Bajram Xhanit",
+            "hu": "Banesa e Bajram Xhanit",
+            "ro": "Banesa e Bajram Xhanit",
+            "en": "Banesa e Bajram Xhanit"
+          },
+          "coords": [
+            19.565425,
+            41.183453
+          ],
+          "category": "historical",
+          "arrive_at": "12:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Betreten Sie die wunderschön erhaltene Banesa e Bajram Xhanit, um das traditionelle albanische häusliche Leben zu erleben, und betrachten Sie die aufwendigen Holzschnitzereien genauer.",
+            "hu": "Lépjen be a gyönyörűen megőrzött Banesa e Bajram Xhanitba, hogy megtapasztalja a hagyományos albán családi életet, és figyelje meg közelebbről a bonyolult fafaragásokat.",
+            "ro": "Pășiți în frumos conservata Banesa e Bajram Xhanit pentru a experimenta viața domestică tradițională albaneză și priviți îndeaproape sculpturile complicate în lemn.",
+            "en": "Step into the beautifully preserved Banesa e Bajram Xhanit to experience traditional Albanian domestic life, and look closely at the intricate wooden carvings."
+          }
+        },
+        {
+          "name": {
+            "de": "Lapidar",
+            "hu": "Lapidar",
+            "ro": "Lapidar",
+            "en": "Lapidar"
+          },
+          "coords": [
+            19.571349,
+            41.195199
+          ],
+          "category": "historical",
+          "arrive_at": "14:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Lapidar-Denkmal, um die vergangenen Kämpfe der Region zu würdigen, und genießen Sie den leicht erhöhten Aussichtspunkt, den es über die umliegende Nachbarschaft bietet.",
+            "hu": "Látogasson el a Lapidar emlékműhöz, hogy tisztelegjen a régió múltbéli küzdelmei előtt, és élvezze az enyhén megemelt kilátópontot a környező negyedre.",
+            "ro": "Vizitați monumentul Lapidar pentru a onora luptele trecute ale regiunii și bucurați-vă de punctul de observație ușor ridicat pe care îl oferă asupra cartierului înconjurător.",
+            "en": "Visit the Lapidar monument to honor the region's past struggles, and enjoy the slightly elevated vantage point it provides over the surrounding neighborhood."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalaja e Zigxhafajt",
+            "hu": "Kalaja e Zigxhafajt",
+            "ro": "Kalaja e Zigxhafajt",
+            "en": "Kalaja e Zigxhafajt"
+          },
+          "coords": [
+            19.564992,
+            41.199567
+          ],
+          "category": "historical",
+          "arrive_at": "15:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Ruinen von Kalaja e Zigxhafajt, um Jahrhunderte der Geschichte zu entdecken, und tragen Sie festes Schuhwerk für die unebenen Wege zur Stätte.",
+            "hu": "Fedezze fel a Kalaja e Zigxhafajt ősi romjait, hogy évszázadok történelmét tárja fel, és viseljen erős cipőt a helyszínhez vezető egyenetlen ösvényeken.",
+            "ro": "Explorați ruinele antice din Kalaja e Zigxhafajt pentru a descoperi secole de istorie și purtați încălțăminte rezistentă pentru potecile denivelate care duc la sit.",
+            "en": "Explore the ancient ruins of Kalaja e Zigxhafajt to uncover centuries of history, and wear sturdy shoes for the uneven pathways leading up to the site."
+          }
+        },
+        {
+          "name": {
+            "de": "Liqeni i Golemit",
+            "hu": "Liqeni i Golemit",
+            "ro": "Liqeni i Golemit",
+            "en": "Liqeni i Golemit"
+          },
+          "coords": [
+            19.534926,
+            41.25612
+          ],
+          "category": "natural",
+          "arrive_at": "17:21",
+          "stay_min": 105,
+          "hop_from_prev_min": 37,
+          "hop_from_prev_km": 6.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den ruhigen Gewässern des Liqeni i Golemit, einem perfekten Ort zum Abschalten, und bringen Sie ein kleines Picknick mit, das Sie bei Sonnenuntergang am malerischen Ufer genießen können.",
+            "hu": "Pihenjen a Liqeni i Golemit nyugodt vizeinél, amely tökéletes hely a kikapcsolódásra, és hozzon magával egy kis pikniket, amelyet a festői partvonal közelében fogyaszthat el naplementekor.",
+            "ro": "Relaxați-vă pe malul apelor liniștite ale Liqeni i Golemit, un loc perfect pentru relaxare și aduceți un mic picnic pentru a-l savura lângă țărmul pitoresc la apus.",
+            "en": "Relax by the tranquil waters of Liqeni i Golemit, a perfect spot to unwind, and bring a small picnic to enjoy near the scenic shoreline at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einer Radtour zum faszinierenden Schornstein-Minarett, gefolgt von einer kulturellen Tour durch das Ethnografische Museum. Mittags rollen Sie durch das historische Zentrum, zum Sahati-Uhrturm und der schönen Banesa e Bajram Xhanit. Der Nachmittag bringt eine Fahrt nach Norden zum Lapidar und zur alten Kalaja e Zigxhafajt. Der Abend klingt am ruhigen Liqeni i Golemit aus.",
+        "hu": "Kezdje a reggelt az érdekes Kémény Minarethez tekerve, majd tegyen kulturális túrát a Néprajzi Múzeumban. Délben guruljon át a történelmi központon, a Sahati óratoronyhoz és a gyönyörű Banesa e Bajram Xhanithoz. A délután északi irányú biciklizést hoz a Lapidar emlékműhöz és az ősi Kalaja e Zigxhafajthoz. Az este a békés Liqeni i Golemit partján zárul.",
+        "ro": "Începeți dimineața pedalând spre intrigantul Minaret Coș de Fum, urmat de un tur cultural fascinant al Muzeului Etnografic. Miezul zilei vă poartă prin centrul istoric, oprindu-vă la Turnul cu Ceas Sahati și superba Banesa e Bajram Xhanit. După-amiaza aduce o plimbare spre nord către monumentul Lapidar și antica Kalaja e Zigxhafajt. Seara se relaxează lângă seninul lac Liqeni i Golemit.",
+        "en": "Start your morning pedaling to the intriguing Smoke Stack Minaret, followed by a fascinating cultural tour of the Ethnographic Museum. Midday rolls through the historic center, stopping at the Sahati Clock Tower and the beautiful Banesa e Bajram Xhanit. Afternoon brings a steady ride north to the Lapidar monument and the ancient Kalaja e Zigxhafajt. Evening winds down by the serene Liqeni i Golemit."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:38",
+      "total_km": 12.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kalaja e Zigxhafajt",
+            "hu": "Kalaja e Zigxhafajt",
+            "ro": "Kalaja e Zigxhafajt",
+            "en": "Kalaja e Zigxhafajt"
+          },
+          "coords": [
+            19.564992,
+            41.199567
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Ruinen von Kalaja e Zigxhafajt, um Jahrhunderte der Geschichte zu entdecken, und tragen Sie festes Schuhwerk für die unebenen Wege zur Stätte.",
+            "hu": "Fedezze fel a Kalaja e Zigxhafajt ősi romjait, hogy évszázadok történelmét tárja fel, és viseljen erős cipőt a helyszínhez vezető egyenetlen ösvényeken.",
+            "ro": "Explorați ruinele antice din Kalaja e Zigxhafajt pentru a descoperi secole de istorie și purtați încălțăminte rezistentă pentru potecile denivelate care duc la sit.",
+            "en": "Explore the ancient ruins of Kalaja e Zigxhafajt to uncover centuries of history, and wear sturdy shoes for the uneven pathways leading up to the site."
+          }
+        },
+        {
+          "name": {
+            "de": "Lapidar",
+            "hu": "Lapidar",
+            "ro": "Lapidar",
+            "en": "Lapidar"
+          },
+          "coords": [
+            19.571349,
+            41.195199
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Lapidar-Denkmal, um die vergangenen Kämpfe der Region zu würdigen, und genießen Sie den leicht erhöhten Aussichtspunkt, den es über die umliegende Nachbarschaft bietet.",
+            "hu": "Látogasson el a Lapidar emlékműhöz, hogy tisztelegjen a régió múltbéli küzdelmei előtt, és élvezze az enyhén megemelt kilátópontot a környező negyedre.",
+            "ro": "Vizitați monumentul Lapidar pentru a onora luptele trecute ale regiunii și bucurați-vă de punctul de observație ușor ridicat pe care îl oferă asupra cartierului înconjurător.",
+            "en": "Visit the Lapidar monument to honor the region's past struggles, and enjoy the slightly elevated vantage point it provides over the surrounding neighborhood."
+          }
+        },
+        {
+          "name": {
+            "de": "Banesa e Bajram Xhanit",
+            "hu": "Banesa e Bajram Xhanit",
+            "ro": "Banesa e Bajram Xhanit",
+            "en": "Banesa e Bajram Xhanit"
+          },
+          "coords": [
+            19.565425,
+            41.183453
+          ],
+          "category": "historical",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Betreten Sie die wunderschön erhaltene Banesa e Bajram Xhanit, um das traditionelle albanische häusliche Leben zu erleben, und betrachten Sie die aufwendigen Holzschnitzereien genauer.",
+            "hu": "Lépjen be a gyönyörűen megőrzött Banesa e Bajram Xhanitba, hogy megtapasztalja a hagyományos albán családi életet, és figyelje meg közelebbről a bonyolult fafaragásokat.",
+            "ro": "Pășiți în frumos conservata Banesa e Bajram Xhanit pentru a experimenta viața domestică tradițională albaneză și priviți îndeaproape sculpturile complicate în lemn.",
+            "en": "Step into the beautifully preserved Banesa e Bajram Xhanit to experience traditional Albanian domestic life, and look closely at the intricate wooden carvings."
+          }
+        },
+        {
+          "name": {
+            "de": "Sahati Clock Tower",
+            "hu": "Sahati Clock Tower",
+            "ro": "Sahati Clock Tower",
+            "en": "Sahati Clock Tower"
+          },
+          "coords": [
+            19.562603,
+            41.183862
+          ],
+          "category": "historical",
+          "arrive_at": "13:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie die osmanische Architektur des Sahati-Uhrturms vom angrenzenden Platz aus, der am späten Vormittag das beste Licht zum Fotografieren bietet.",
+            "hu": "Csodálja meg a Sahati óratorony oszmán kori építészetét a szomszédos térről, amely a késő délelőtti órákban nyújtja a legjobb fényviszonyokat a fotózáshoz.",
+            "ro": "Admirați arhitectura din epoca otomană a Turnului cu Ceas Sahati din piața adiacentă, care oferă cea mai bună lumină pentru fotografie dimineața târziu.",
+            "en": "Admire the Ottoman-era architecture of the Sahati Clock Tower from the adjacent square, which offers the best lighting for photography in the late morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Ethnographic Museum",
+            "hu": "Ethnographic Museum",
+            "ro": "Ethnographic Museum",
+            "en": "Ethnographic Museum"
+          },
+          "coords": [
+            19.555658,
+            41.180369
+          ],
+          "category": "museum",
+          "arrive_at": "14:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Tauchen Sie im Ethnografischen Museum in die lokale Kultur ein, wo die vielfältige Textilsammlung am besten zur Geltung kommt, wenn Sie im Obergeschoss beginnen.",
+            "hu": "Merüljön el a helyi kultúrában a Néprajzi Múzeumban, ahol a változatos textilgyűjteményt a leginkább az emeleten kezdve lehet értékelni.",
+            "ro": "Scufundați-vă în cultura locală la Muzeul Etnografic, unde colecția diversă de textile este cel mai bine apreciată începând de la etajul superior.",
+            "en": "Immerse yourself in local culture at the Ethnographic Museum, where the diverse textile collection is best appreciated by starting on the upper floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Smoke Stack Minaret",
+            "hu": "Smoke Stack Minaret",
+            "ro": "Smoke Stack Minaret",
+            "en": "Smoke Stack Minaret"
+          },
+          "coords": [
+            19.560022,
+            41.179623
+          ],
+          "category": "landmark",
+          "arrive_at": "16:19",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Blicken Sie hinauf zum ungewöhnlichen Schornstein-Minarett, einem einzigartigen Stück industriell-religiösen Erbes, das sich wunderbar vom Nachmittagshimmel abhebt.",
+            "hu": "Nézzen fel a szokatlan Kémény Minaretre, az ipari-vallási örökség ezen egyedülálló darabjára, amely gyönyörűen kiemelkedik a délutáni égbolt hátteréből.",
+            "ro": "Priviți în sus la neobișnuitul Minaret Coș de Fum, o piesă unică de patrimoniu industrial-religios, care se profilează minunat pe cerul după-amiezii.",
+            "en": "Look up at the unusual Smoke Stack Minaret, a unique piece of industrial-religious heritage, which stands out beautifully against the afternoon sky."
+          }
+        },
+        {
+          "name": {
+            "de": "Liqeni i Golemit",
+            "hu": "Liqeni i Golemit",
+            "ro": "Liqeni i Golemit",
+            "en": "Liqeni i Golemit"
+          },
+          "coords": [
+            19.534926,
+            41.25612
+          ],
+          "category": "natural",
+          "arrive_at": "16:53",
+          "stay_min": 105,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 8.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den ruhigen Gewässern des Liqeni i Golemit, einem perfekten Ort zum Abschalten, und bringen Sie ein kleines Picknick mit, das Sie bei Sonnenuntergang am malerischen Ufer genießen können.",
+            "hu": "Pihenjen a Liqeni i Golemit nyugodt vizeinél, amely tökéletes hely a kikapcsolódásra, és hozzon magával egy kis pikniket, amelyet a festői partvonal közelében fogyaszthat el naplementekor.",
+            "ro": "Relaxați-vă pe malul apelor liniștite ale Liqeni i Golemit, un loc perfect pentru relaxare și aduceți un mic picnic pentru a-l savura lângă țărmul pitoresc la apus.",
+            "en": "Relax by the tranquil waters of Liqeni i Golemit, a perfect spot to unwind, and bring a small picnic to enjoy near the scenic shoreline at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einer Fahrt in die nördlichen Außenbezirke, wo Sie die historischen Ruinen von Kalaja e Zigxhafajt und das Lapidar-Denkmal erkunden. Die Mittagszeit führt zurück ins Zentrum, um die Banesa e Bajram Xhanit und den Sahati-Uhrturm zu bewundern. Der Nachmittag lädt zu einem entspannten Rundgang durch das Ethnografische Museum ein. Der Abend endet am ruhigen Liqeni i Golemit.",
+        "hu": "A reggel egy autózással kezdődik az északi külvárosokba, a Kalaja e Zigxhafajt történelmi romjainak és a feltűnő Lapidar emlékműnek a felfedezésével. A délidő visszavezet a központba, hogy megcsodálja a Banesa e Bajram Xhanitot és az ikonikus Sahati óratornyot. A délután a Néprajzi Múzeum laza bejárására és a Kémény Minaretre csábít. Az este egy pihentető utazással zárul a Liqeni i Golemit felé.",
+        "ro": "Dimineața începe cu o plimbare spre periferiile nordice, explorând ruinele din Kalaja e Zigxhafajt și monumentul Lapidar. Miezul zilei se întoarce spre centru pentru a admira tradiționala Banesa e Bajram Xhanit și Turnul cu Ceas Sahati. După-amiaza invită la un tur relaxant al Muzeului Etnografic și o scurtă oprire la Minaretul Coș de Fum. Seara se încheie cu o plimbare relaxantă spre Liqeni i Golemit.",
+        "en": "Morning starts with a drive to the northern outskirts, exploring the historic ruins of Kalaja e Zigxhafajt and the striking Lapidar monument. Midday shifts back towards the center to admire the traditional Banesa e Bajram Xhanit and the iconic Sahati Clock Tower. Afternoon invites a leisurely tour of the Ethnographic Museum and a quick stop at the Smoke Stack Minaret. Evening wraps up with a relaxing drive to Liqeni i Golemit."
+      }
+    }
+  }
+}

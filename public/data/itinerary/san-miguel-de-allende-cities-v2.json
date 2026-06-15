@@ -1,0 +1,474 @@
+{
+  "city_id": "san-miguel-de-allende-cities-v2",
+  "anchor": {
+    "name": "San Miguel de Allende",
+    "coords": [
+      -100.7436,
+      20.9142
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:06",
+      "total_km": 1.25,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Beautiful Street Corner",
+            "hu": "Beautiful Street Corner",
+            "ro": "Beautiful Street Corner",
+            "en": "Beautiful Street Corner"
+          },
+          "coords": [
+            -100.743838,
+            20.912708
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die farbenfrohe koloniale Architektur an dieser berühmten Straßenecke, perfekt für die Fotografie, also bringen Sie ein Weitwinkelobjektiv mit.",
+            "hu": "Csodálja meg a színes gyarmati építészetet ezen a híres utcasarkon, amely tökéletes fotózáshoz, ezért hozzon magával egy nagylátószögű objektívet a teljes képhez.",
+            "ro": "Admirați arhitectura colonială vibrantă la acest colț de stradă celebru, perfect pentru fotografie, așa că aduceți un obiectiv cu unghi larg pentru a prinde toată scena.",
+            "en": "Admire the vibrant colonial architecture at this famous corner, perfect for photography, so bring a wide-angle lens to capture the full vibrant perspective."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Casa de Allende",
+            "hu": "Museo Casa de Allende",
+            "ro": "Museo Casa de Allende",
+            "en": "Museo Casa de Allende"
+          },
+          "coords": [
+            -100.744236,
+            20.913827
+          ],
+          "category": "museum",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Leben des Unabhängigkeitshelden Ignacio Allende in seinem Geburtshaus, also engagieren Sie einen lokalen Führer, um die historischen Details zu verstehen.",
+            "hu": "Fedezze fel a mexikói függetlenségi hős, Ignacio Allende életét a szülőházában, ezért érdemes egy helyi idegenvezetőt fogadni a bonyolult történelmi részletek megértéséhez.",
+            "ro": "Descoperiți viața eroului independenței Ignacio Allende în casa sa natală, așa că angajați un ghid local pentru a înțelege pe deplin detaliile istorice complexe expuse.",
+            "en": "Discover the life of Mexican independence hero Ignacio Allende in his birthplace, so hire a local guide inside to fully understand the intricate historical details."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Angela Peralta",
+            "hu": "Teatro Angela Peralta",
+            "ro": "Teatro Angela Peralta",
+            "en": "Teatro Angela Peralta"
+          },
+          "coords": [
+            -100.745125,
+            20.915358
+          ],
+          "category": "cultural",
+          "arrive_at": "11:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie das kulturelle Herz der Stadt in diesem eleganten neoklassizistischen Theater, also prüfen Sie vorher den Spielplan für eine unvergessliche Live-Abendvorstellung.",
+            "hu": "Tapasztalja meg a város kulturális lüktetését ebben az elegáns neoklasszikus színházban, ezért előzetesen ellenőrizze a műsort egy felejthetetlen esti előadás megtekintéséhez.",
+            "ro": "Experimentați pulsul cultural al orașului în acest elegant teatru neoclasic, așa că verificați programul local în prealabil pentru a prinde o reprezentație de seară de neuitat.",
+            "en": "Experience the cultural heartbeat of the city in this elegant neoclassical theater, so check the local schedule beforehand to catch an unforgettable live evening performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Sana Ana",
+            "hu": "Teatro Sana Ana",
+            "ro": "Teatro Sana Ana",
+            "en": "Teatro Sana Ana"
+          },
+          "coords": [
+            -100.74313,
+            20.916752
+          ],
+          "category": "cultural",
+          "arrive_at": "12:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Genießen Sie intime kulturelle Darbietungen und Independent-Filme in diesem lebendigen Gemeinschaftstheater, also kommen Sie früh, um den angrenzenden Bibliothekshof zu erkunden.",
+            "hu": "Élvezze az intim kulturális előadásokat és független filmeket ebben a nyüzsgő közösségi színházban, ezért érkezzen korán, hogy felfedezze a szomszédos könyvtár udvarát.",
+            "ro": "Bucurați-vă de spectacole culturale intime și filme independente la acest teatru comunitar vibrant, așa că ajungeți devreme pentru a explora curtea bibliotecii adiacente.",
+            "en": "Enjoy intimate cultural performances and indie films at this vibrant community theater, so arrive early to grab a good seat and explore the adjacent library courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo la Esquina",
+            "hu": "Museo la Esquina",
+            "ro": "Museo la Esquina",
+            "en": "Museo la Esquina"
+          },
+          "coords": [
+            -100.740138,
+            20.914695
+          ],
+          "category": "museum",
+          "arrive_at": "13:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die feine Handwerkskunst traditioneller mexikanischer Spielzeuge aus vielen Generationen, also nehmen Sie sich Zeit im obersten Stockwerk für die Dachterrasse.",
+            "hu": "Csodálja meg a generációkon át gyűjtött hagyományos mexikói játékok bonyolult kézművességét, ezért szánjon időt a legfelső emeletre, hogy élvezze a tetőteraszos kilátást.",
+            "ro": "Minunați-vă de măiestria complexă a jucăriilor tradiționale mexicane adunate de-a lungul generațiilor, așa că luați-vă timp la ultimul etaj pentru a vă bucura de priveliște.",
+            "en": "Marvel at the intricate craftsmanship of traditional Mexican toys collected across generations, so take your time on the top floor to enjoy the panoramic rooftop views."
+          }
+        },
+        {
+          "name": {
+            "de": "casa cuesta mascaras",
+            "hu": "casa cuesta mascaras",
+            "ro": "casa cuesta mascaras",
+            "en": "casa cuesta mascaras"
+          },
+          "coords": [
+            -100.738183,
+            20.916893
+          ],
+          "category": "museum",
+          "arrive_at": "14:56",
+          "stay_min": 130,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie eine faszinierende Privatsammlung ritueller Masken, die indigene Folklore offenbaren, also fragen Sie den Kurator nach den spezifischen regionalen Ursprüngen.",
+            "hu": "Fedezzen fel egy lenyűgöző magángyűjteményt a bennszülött folklórt bemutató rituális maszkokból, ezért kérdezze meg a kurátort a konkrét regionális eredetről a mélyebb megértésért.",
+            "ro": "Explorați o colecție privată fascinantă de măști ceremoniale care dezvăluie folclorul indigen, așa că întrebați curatorul despre originile regionale pentru o înțelegere mai bună.",
+            "en": "Explore a mesmerizing private collection of ceremonial masks revealing indigenous folklore, so ask the curator about the specific regional origins to deepen your understanding."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie an einer malerischen Straßenecke für tolles Morgenlicht, bevor Sie im Museo Casa de Allende in die Geschichte eintauchen. Am Mittag genießen Sie die Kultur im Teatro Angela Peralta und Teatro Sana Ana. Der Nachmittag bringt bunte Traditionen im Spielzeugmuseum Museo la Esquina. Zum Abschluss bewundern Sie die indigenen Masken der casa cuesta mascaras.",
+        "hu": "Kezdje egy festői utcasarkon a csodás reggeli fényekért, majd merüljön el a történelemben a Museo Casa de Allende-ben. Délben élvezze a kultúrát a Teatro Angela Peralta és a Teatro Sana Ana színházakban. Délután fedezze fel a színes hagyományokat a Museo la Esquina játékmúzeumban. Végül csodálja meg az őslakos maszkokat a casa cuesta mascaras gyűjteményében.",
+        "ro": "Începeți la un colț pitoresc pentru lumină de dimineață, apoi plonjați în istorie la Museo Casa de Allende. La prânz bucurați-vă de cultura de la Teatro Angela Peralta și Teatro Sana Ana. După-amiaza descoperiți tradițiile la muzeul de jucării Museo la Esquina. Încheiați admirând măștile indigene la casa cuesta mascaras.",
+        "en": "Start at a picturesque street corner for stunning morning light, then dive into history at Museo Casa de Allende. Midday brings cultural immersion at Teatro Angela Peralta and Teatro Sana Ana. The afternoon reveals colorful traditions at the Museo la Esquina toy museum. Conclude by marveling at the indigenous masks of the casa cuesta mascaras collection."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:32",
+      "total_km": 1.85,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo Casa de Allende",
+            "hu": "Museo Casa de Allende",
+            "ro": "Museo Casa de Allende",
+            "en": "Museo Casa de Allende"
+          },
+          "coords": [
+            -100.744236,
+            20.913827
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Leben des Unabhängigkeitshelden Ignacio Allende in seinem Geburtshaus, also engagieren Sie einen lokalen Führer, um die historischen Details zu verstehen.",
+            "hu": "Fedezze fel a mexikói függetlenségi hős, Ignacio Allende életét a szülőházában, ezért érdemes egy helyi idegenvezetőt fogadni a bonyolult történelmi részletek megértéséhez.",
+            "ro": "Descoperiți viața eroului independenței Ignacio Allende în casa sa natală, așa că angajați un ghid local pentru a înțelege pe deplin detaliile istorice complexe expuse.",
+            "en": "Discover the life of Mexican independence hero Ignacio Allende in his birthplace, so hire a local guide inside to fully understand the intricate historical details."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Sana Ana",
+            "hu": "Teatro Sana Ana",
+            "ro": "Teatro Sana Ana",
+            "en": "Teatro Sana Ana"
+          },
+          "coords": [
+            -100.74313,
+            20.916752
+          ],
+          "category": "cultural",
+          "arrive_at": "10:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Genießen Sie intime kulturelle Darbietungen und Independent-Filme in diesem lebendigen Gemeinschaftstheater, also kommen Sie früh, um den angrenzenden Bibliothekshof zu erkunden.",
+            "hu": "Élvezze az intim kulturális előadásokat és független filmeket ebben a nyüzsgő közösségi színházban, ezért érkezzen korán, hogy felfedezze a szomszédos könyvtár udvarát.",
+            "ro": "Bucurați-vă de spectacole culturale intime și filme independente la acest teatru comunitar vibrant, așa că ajungeți devreme pentru a explora curtea bibliotecii adiacente.",
+            "en": "Enjoy intimate cultural performances and indie films at this vibrant community theater, so arrive early to grab a good seat and explore the adjacent library courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "casa cuesta mascaras",
+            "hu": "casa cuesta mascaras",
+            "ro": "casa cuesta mascaras",
+            "en": "casa cuesta mascaras"
+          },
+          "coords": [
+            -100.738183,
+            20.916893
+          ],
+          "category": "museum",
+          "arrive_at": "11:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie eine faszinierende Privatsammlung ritueller Masken, die indigene Folklore offenbaren, also fragen Sie den Kurator nach den spezifischen regionalen Ursprüngen.",
+            "hu": "Fedezzen fel egy lenyűgöző magángyűjteményt a bennszülött folklórt bemutató rituális maszkokból, ezért kérdezze meg a kurátort a konkrét regionális eredetről a mélyebb megértésért.",
+            "ro": "Explorați o colecție privată fascinantă de măști ceremoniale care dezvăluie folclorul indigen, așa că întrebați curatorul despre originile regionale pentru o înțelegere mai bună.",
+            "en": "Explore a mesmerizing private collection of ceremonial masks revealing indigenous folklore, so ask the curator about the specific regional origins to deepen your understanding."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de sitio",
+            "hu": "Museo de sitio",
+            "ro": "Museo de sitio",
+            "en": "Museo de sitio"
+          },
+          "coords": [
+            -100.738883,
+            20.920954
+          ],
+          "category": "museum",
+          "arrive_at": "13:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Entdecken Sie archäologische Schätze und antike Artefakte der ersten Bewohner der Region, also beginnen Sie Ihren Besuch früh am Tag, um der intensiven Nachmittagshitze zu entgehen.",
+            "hu": "Fedezze fel a régió legkorábbi lakóitól származó régészeti kincseket és ősi leleteket, ezért kezdje a látogatást korán a nap folyamán, hogy elkerülje az erős délutáni hőséget.",
+            "ro": "Descoperiți comorile arheologice și artefactele antice de la primii locuitori ai regiunii, așa că începeți vizita devreme în timpul zilei pentru a evita căldura intensă de după-amiază.",
+            "en": "Uncover archaeological treasures and ancient artifacts from the region's earliest inhabitants, so start your visit early in the day to avoid the intense afternoon heat inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Antiguo Acueducto",
+            "hu": "Antiguo Acueducto",
+            "ro": "Antiguo Acueducto",
+            "en": "Antiguo Acueducto"
+          },
+          "coords": [
+            -100.73745,
+            20.922888
+          ],
+          "category": "historical",
+          "arrive_at": "15:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Spazieren Sie neben den faszinierenden Überresten der kolonialen Wasserinfrastruktur im Grünen, also tragen Sie bequeme Wanderschuhe für die unebenen Kopfsteinpflasterwege.",
+            "hu": "Sétáljon a gyarmati korszakból származó vízi infrastruktúra lenyűgöző maradványai mellett a buja növényzetben, ezért viseljen kényelmes túracipőt az egyenetlen kövezett utakon.",
+            "ro": "Plimbați-vă pe lângă rămășițele fascinante ale infrastructurii de apă din era colonială printre verdeață, așa că purtați pantofi confortabili pentru potecile pietruite denivelate.",
+            "en": "Walk alongside the fascinating remnants of colonial-era water infrastructure amid lush greenery, so wear comfortable hiking shoes for the uneven cobblestone and dirt paths."
+          }
+        },
+        {
+          "name": {
+            "de": "La Aurora",
+            "hu": "La Aurora",
+            "ro": "La Aurora",
+            "en": "La Aurora"
+          },
+          "coords": [
+            -100.74039,
+            20.923241
+          ],
+          "category": "museum",
+          "arrive_at": "16:22",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese riesige ehemalige Textilfabrik, die heute mit modernen Kunstgalerien gefüllt ist, also planen Sie mindestens zwei Stunden für die Erkundung ein.",
+            "hu": "Barangoljon ebben a hatalmas egykori textilgyárban, amely ma lenyűgöző kortárs művészeti galériáknak ad otthont, ezért tervezzen legalább két órát a stúdiók teljes felfedezésére.",
+            "ro": "Plimbați-vă prin această fostă fabrică de textile masivă, acum plină cu galerii uimitoare de artă contemporană, așa că planificați cel puțin două ore pentru a explora studiourile.",
+            "en": "Wander through this massive former textile mill now filled with stunning contemporary art galleries, so plan to spend at least two hours fully exploring the diverse studios."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie ins Herz der Unabhängigkeit zum Museo Casa de Allende, bevor Sie zum Teatro Sana Ana rollen. Mittags treten Sie in die Pedale zur casa cuesta mascaras und erkunden die antiken Artefakte im Museo de sitio. Am Nachmittag fahren Sie leicht bergauf zu den majestätischen Bögen des Antiguo Acueducto. Beenden Sie die Tour im weitläufigen Kunstzentrum La Aurora.",
+        "hu": "Biciklizzen a függetlenség szívébe a Museo Casa de Allende-hez, mielőtt a Teatro Sana Ana-hoz gurul. Délben tekerjen a casa cuesta mascaras felé, majd fedezze fel a Museo de sitio ősi leleteit. Délután kerekezzen felfelé az Antiguo Acueducto fenséges boltíveihez. Zárja a túrát a hatalmas La Aurora művészeti központban, kortárs remekművekkel.",
+        "ro": "Pedalați în inima independenței la Museo Casa de Allende, apoi mergeți la Teatro Sana Ana. La prânz pedalați spre casa cuesta mascaras și explorați artefactele antice la Museo de sitio. După-amiaza mergeți spre arcadele maiestuoase ale Antiguo Acueducto. Încheiați turul la vastul centru de artă La Aurora cu capodopere contemporane.",
+        "en": "Cycle to the heart of independence at Museo Casa de Allende before rolling over to Teatro Sana Ana. Midday, pedal towards casa cuesta mascaras, then explore ancient artifacts at Museo de sitio. In the afternoon, cycle uphill to discover the majestic arches of Antiguo Acueducto. Finish the ride at the sprawling La Aurora art center, enjoying contemporary masterpieces."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:48",
+      "total_km": 3.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Beautiful Street Corner",
+            "hu": "Beautiful Street Corner",
+            "ro": "Beautiful Street Corner",
+            "en": "Beautiful Street Corner"
+          },
+          "coords": [
+            -100.743838,
+            20.912708
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die farbenfrohe koloniale Architektur an dieser berühmten Straßenecke, perfekt für die Fotografie, also bringen Sie ein Weitwinkelobjektiv mit.",
+            "hu": "Csodálja meg a színes gyarmati építészetet ezen a híres utcasarkon, amely tökéletes fotózáshoz, ezért hozzon magával egy nagylátószögű objektívet a teljes képhez.",
+            "ro": "Admirați arhitectura colonială vibrantă la acest colț de stradă celebru, perfect pentru fotografie, așa că aduceți un obiectiv cu unghi larg pentru a prinde toată scena.",
+            "en": "Admire the vibrant colonial architecture at this famous corner, perfect for photography, so bring a wide-angle lens to capture the full vibrant perspective."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Casa de Allende",
+            "hu": "Museo Casa de Allende",
+            "ro": "Museo Casa de Allende",
+            "en": "Museo Casa de Allende"
+          },
+          "coords": [
+            -100.744236,
+            20.913827
+          ],
+          "category": "museum",
+          "arrive_at": "09:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Leben des Unabhängigkeitshelden Ignacio Allende in seinem Geburtshaus, also engagieren Sie einen lokalen Führer, um die historischen Details zu verstehen.",
+            "hu": "Fedezze fel a mexikói függetlenségi hős, Ignacio Allende életét a szülőházában, ezért érdemes egy helyi idegenvezetőt fogadni a bonyolult történelmi részletek megértéséhez.",
+            "ro": "Descoperiți viața eroului independenței Ignacio Allende în casa sa natală, așa că angajați un ghid local pentru a înțelege pe deplin detaliile istorice complexe expuse.",
+            "en": "Discover the life of Mexican independence hero Ignacio Allende in his birthplace, so hire a local guide inside to fully understand the intricate historical details."
+          }
+        },
+        {
+          "name": {
+            "de": "La Aurora",
+            "hu": "La Aurora",
+            "ro": "La Aurora",
+            "en": "La Aurora"
+          },
+          "coords": [
+            -100.74039,
+            20.923241
+          ],
+          "category": "museum",
+          "arrive_at": "11:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese riesige ehemalige Textilfabrik, die heute mit modernen Kunstgalerien gefüllt ist, also planen Sie mindestens zwei Stunden für die Erkundung ein.",
+            "hu": "Barangoljon ebben a hatalmas egykori textilgyárban, amely ma lenyűgöző kortárs művészeti galériáknak ad otthont, ezért tervezzen legalább két órát a stúdiók teljes felfedezésére.",
+            "ro": "Plimbați-vă prin această fostă fabrică de textile masivă, acum plină cu galerii uimitoare de artă contemporană, așa că planificați cel puțin două ore pentru a explora studiourile.",
+            "en": "Wander through this massive former textile mill now filled with stunning contemporary art galleries, so plan to spend at least two hours fully exploring the diverse studios."
+          }
+        },
+        {
+          "name": {
+            "de": "Antiguo Acueducto",
+            "hu": "Antiguo Acueducto",
+            "ro": "Antiguo Acueducto",
+            "en": "Antiguo Acueducto"
+          },
+          "coords": [
+            -100.73745,
+            20.922888
+          ],
+          "category": "historical",
+          "arrive_at": "13:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie neben den faszinierenden Überresten der kolonialen Wasserinfrastruktur im Grünen, also tragen Sie bequeme Wanderschuhe für die unebenen Kopfsteinpflasterwege.",
+            "hu": "Sétáljon a gyarmati korszakból származó vízi infrastruktúra lenyűgöző maradványai mellett a buja növényzetben, ezért viseljen kényelmes túracipőt az egyenetlen kövezett utakon.",
+            "ro": "Plimbați-vă pe lângă rămășițele fascinante ale infrastructurii de apă din era colonială printre verdeață, așa că purtați pantofi confortabili pentru potecile pietruite denivelate.",
+            "en": "Walk alongside the fascinating remnants of colonial-era water infrastructure amid lush greenery, so wear comfortable hiking shoes for the uneven cobblestone and dirt paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Charco del Ingenio",
+            "hu": "Charco del Ingenio",
+            "ro": "Charco del Ingenio",
+            "en": "Charco del Ingenio"
+          },
+          "coords": [
+            -100.727746,
+            20.918477
+          ],
+          "category": "landmark",
+          "arrive_at": "14:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Wandern Sie durch den atemberaubenden botanischen Garten und das Naturschutzgebiet für seltene Sukkulenten, also bringen Sie viel Wasser mit und tragen Sie reichlich Sonnencreme auf.",
+            "hu": "Túrázzon a lélegzetelállító botanikus kertben és a ritka pozsgásokat védő természetvédelmi területen, ezért hozzon sok vizet, és kenje be magát fényvédővel a nyitott ösvények előtt.",
+            "ro": "Faceți drumeții prin grădina botanică uluitoare și rezervația naturală care protejează suculente rare, așa că aduceți multă apă și aplicați cremă de protecție solară din plin.",
+            "en": "Hike through the breathtaking botanical garden and nature reserve protecting rare succulents, so bring plenty of water and apply sunscreen before hitting the exposed trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Conservatorio de Plantas Mexicanas",
+            "hu": "Conservatorio de Plantas Mexicanas",
+            "ro": "Conservatorio de Plantas Mexicanas",
+            "en": "Conservatorio de Plantas Mexicanas"
+          },
+          "coords": [
+            -100.723695,
+            20.917614
+          ],
+          "category": "landmark",
+          "arrive_at": "16:03",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Bestaunen Sie ein wissenschaftlich kuratiertes Gewächshaus, das Mexikos Wüstenbiodiversität zeigt, also nehmen Sie an einer Führung teil, um mehr über die Erhaltung zu erfahren.",
+            "hu": "Csodálja meg a mexikói sivatag hihetetlen biológiai sokféleségét bemutató, tudományosan gondozott üvegházat, ezért csatlakozzon egy vezetett túrához, hogy megismerje a természetvédelmet.",
+            "ro": "Minunați-vă de o seră organizată științific care prezintă biodiversitatea deșertului mexican, așa că alăturați-vă unui tur ghidat pentru a afla despre eforturile de conservare.",
+            "en": "Marvel at a scientifically curated greenhouse showcasing Mexico's incredible desert biodiversity, so join a guided tour to learn about the critical conservation efforts in place."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zur malerischen Straßenecke für Fotos, dann direkt zum historischen Museo Casa de Allende. Mittags machen Sie einen Ausflug zu den fantastischen Galerien der La Aurora und spazieren zum nahen Antiguo Acueducto. Am Nachmittag fahren Sie zu den Wüstenlandschaften von Charco del Ingenio. Lassen Sie den Tag im ruhigen Conservatorio de Plantas Mexicanas ausklingen.",
+        "hu": "Vezessen reggel a festői utcasarokhoz fotózni, majd egyenesen a történelmi Museo Casa de Allende-hez. Délben tegyen egy rövid utat a La Aurora lenyűgöző galériáihoz, és sétáljon a közeli Antiguo Acueducto-hoz. Délután vezessen a Charco del Ingenio sivatagi tájaihoz. Zárja a napot a Conservatorio de Plantas Mexicanas ritka pozsgásai között.",
+        "ro": "Conduceți dimineața la colțul pitoresc pentru fotografii, apoi direct la istoricul Museo Casa de Allende. La prânz vizitați galeriile fantastice de la La Aurora și plimbați-vă la Antiguo Acueducto. După-amiaza conduceți spre peisajele deșertice de la Charco del Ingenio. Încheiați ziua în liniștea de la Conservatorio de Plantas Mexicanas.",
+        "en": "Drive to a beautiful historical corner for photos, then head straight to the monumental Museo Casa de Allende. Midday, take a quick trip to the spectacular art galleries of La Aurora, then stroll to the nearby Antiguo Acueducto. Afternoon brings you to the breathtaking landscapes of Charco del Ingenio. End the journey at the Conservatorio de Plantas Mexicanas."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-santa-uxia-de-ribeira-cities-v2",
+  "anchor": {
+    "name": "Santa Uxía de Ribeira",
+    "coords": [
+      -8.9922,
+      42.55648
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:11",
+      "total_km": 1.05,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ribeira Town Hall",
+            "hu": "Ribeira Town Hall",
+            "ro": "Ribeira Town Hall",
+            "en": "Ribeira Town Hall"
+          },
+          "coords": [
+            -8.993351,
+            42.554824
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieses historischen städtischen Zentrums, das das Leben der Stadt prägt, und machen Sie morgens die besten Fotos.",
+            "hu": "Csodálja meg a város életét meghatározó történelmi központ lenyűgöző építészetét, és álljon meg a téren a legjobb reggeli fotók elkészítéséhez.",
+            "ro": "Admirați arhitectura impresionantă a acestui centru municipal istoric care ancorează viața orașului și opriți-vă în piață pentru cele mai bune fotografii matinale.",
+            "en": "Admire the striking architecture of this historic municipal center that anchors the town's life, and pause in the square for the best morning photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de Santa Uxía de Ribeira",
+            "hu": "Igrexa de Santa Uxía de Ribeira",
+            "ro": "Igrexa de Santa Uxía de Ribeira",
+            "en": "Igrexa de Santa Uxía de Ribeira"
+          },
+          "coords": [
+            -8.992064,
+            42.554308
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Betreten Sie diese zentrale neoklassizistische Kirche, um die friedliche Atmosphäre zu erleben, aber prüfen Sie vorher die Messezeiten an der Tür.",
+            "hu": "Lépjen be ebbe a központi neoklasszicista templomba a békés hangulatért, de mindenképpen ellenőrizze a misék időpontját az ajtón belépés előtt.",
+            "ro": "Intrați în această biserică neoclasică centrală pentru a experimenta atmosfera sa pașnică, dar verificați orarul slujbelor pe ușă înainte de a intra.",
+            "en": "Step inside this central neoclassical church to experience its peaceful atmosphere, but make sure to check the mass times on the door before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Municipal de Ribeira",
+            "hu": "Museo Municipal de Ribeira",
+            "ro": "Museo Municipal de Ribeira",
+            "en": "Museo Municipal de Ribeira"
+          },
+          "coords": [
+            -8.99046,
+            42.553974
+          ],
+          "category": "museum",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche maritime Geschichte und lokale Kunst in diesem Museum und fragen Sie das Personal nach den neuesten temporären Ausstellungen.",
+            "hu": "Fedezze fel a gazdag tengerészeti történelmet és a helyi művészeteket ebben a múzeumban, és ne felejtse el megkérdezni a személyzetet az új kiállításokról.",
+            "ro": "Explorați bogata istorie maritimă și artele locale prezentate în acest muzeu, asigurându-vă că întrebați personalul despre cele mai noi expoziții temporare.",
+            "en": "Explore the rich maritime history and local arts showcased in this museum, making sure to ask the staff about the latest temporary exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditorio Municipal de Ribeira",
+            "hu": "Auditorio Municipal de Ribeira",
+            "ro": "Auditorio Municipal de Ribeira",
+            "en": "Auditorio Municipal de Ribeira"
+          },
+          "coords": [
+            -8.988658,
+            42.553357
+          ],
+          "category": "cultural",
+          "arrive_at": "12:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Genießen Sie das moderne Design dieses wichtigen kulturellen Zentrums und überprüfen Sie den abendlichen Veranstaltungsplan an der Hauptkasse.",
+            "hu": "Tekintse meg ennek a helyi előadásokat befogadó kulturális központnak a modern dizájnját, és érdeklődjön az esti programokról a főpénztárnál.",
+            "ro": "Admirați designul modern al acestui hub cultural vital care găzduiește spectacole locale și verificați programul evenimentelor de seară la casa de bilete.",
+            "en": "Take in the modern design of this vital cultural hub that hosts local performances, and verify their evening event schedule at the main box office."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia Cativa",
+            "hu": "Praia Cativa",
+            "ro": "Praia Cativa",
+            "en": "Praia Cativa"
+          },
+          "coords": [
+            -8.985348,
+            42.550065
+          ],
+          "category": "recreational",
+          "arrive_at": "14:26",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.51,
+          "tip_5lang": {
+            "de": "Entspannen Sie am weichen Sand dieses zugänglichen Stadtstrandes und genießen Sie den Blick auf die Bucht, aber vergessen Sie nicht Sonnencreme und Handtuch.",
+            "hu": "Pihenjen a könnyen megközelíthető városi strand puha homokján, élvezve az öbölre nyíló kilátást, és ne felejtsen el naptejet és egy könnyű törölközőt hozni.",
+            "ro": "Relaxați-vă pe nisipul moale al acestei plaje urbane accesibile, bucurându-vă de priveliștea golfului, și nu uitați să luați cremă de soare și un prosop ușor.",
+            "en": "Relax on the soft sands of this accessible urban beach while enjoying views of the bay, and remember to pack some sunscreen and a light towel."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am großen Rathaus von Ribeira und spüren Sie dann die Gelassenheit der neoklassizistischen Zentralkirche. Verbringen Sie den Mittag damit, in die lokale Geschichte und maritime Artefakte im beeindruckenden Museo Municipal einzutauchen. Setzen Sie Ihren Weg vorbei an der modernen Architektur des Auditoriums fort und steuern Sie langsam auf die Küste zu. Lassen Sie den Tag ausklingen, indem Sie den weichen Sand der Praia Cativa spüren und das Einsetzen der Dämmerung beobachten.",
+        "hu": "Kezdje a reggelt a nagy Ribeira Városházán, majd érezze át a központi neoklasszicista templom nyugalmát. Töltse a delet a helyi történelem és a tengerészeti leletek felfedezésével a lenyűgöző Museo Municipalban. Folytassa útját a modern építészetű Auditórium mellett, lassan a pihentető partvidék felé véve az irányt. Zárja a napot a Praia Cativa puha homokján pihenve, figyelve, ahogy az alkonyat kecsesen leszáll a tengerparti öböl felett.",
+        "ro": "Începeți dimineața la marea Primărie Ribeira, apoi simțiți seninătatea bisericii centrale neoclasice. Petreceți-vă prânzul explorând istoria locală și artefactele maritime la impresionantul Muzeu Municipal. Continuați pe lângă arhitectura modernă a Auditoriului, îndreptându-vă încet către coasta relaxantă. Încheiați ziua simțind nisipul moale la Praia Cativa, urmărind cum amurgul se lasă grațios peste golful de coastă.",
+        "en": "Start your morning at the grand Ribeira Town Hall, then feel the serenity of the central neoclassical church. Spend your midday diving into local history and maritime artifacts at the impressive Museo Municipal. Continue past the striking modern architecture of the local Auditorium as you head slowly towards the relaxing shoreline. Wind down the day by feeling the soft sand at Praia Cativa, watching the twilight gracefully settle over the coastal bay."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:06",
+      "total_km": 4.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Miradoiro de San Roque",
+            "hu": "Miradoiro de San Roque",
+            "ro": "Miradoiro de San Roque",
+            "en": "Miradoiro de San Roque"
+          },
+          "coords": [
+            -9.001233,
+            42.559732
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Steigen Sie zu diesem malerischen Aussichtspunkt hinauf für ein weites Panorama der Küstenstadt, und bringen Sie eine Windjacke gegen die starke Meeresbrise mit.",
+            "hu": "Másszon fel erre a festői kilátóra a tengerparti városra nyíló lenyűgöző panorámáért, és hozzon széldzsekit, mivel a tengeri szellő gyakran elég erős.",
+            "ro": "Urcați la acest punct de belvedere pitoresc pentru panorame superbe asupra orașului de coastă și aduceți o jachetă, deoarece briza mării este adesea puternică.",
+            "en": "Climb up to this scenic viewpoint for sweeping panoramas over the entire coastal town, and bring a windbreaker as the sea breeze is often quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa da Xuventude",
+            "hu": "Casa da Xuventude",
+            "ro": "Casa da Xuventude",
+            "en": "Casa da Xuventude"
+          },
+          "coords": [
+            -8.997169,
+            42.554471
+          ],
+          "category": "cultural",
+          "arrive_at": "09:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.74,
+          "tip_5lang": {
+            "de": "Spüren Sie die lebhafte Atmosphäre dieses Jugend- und Kulturzentrums und werfen Sie einen Blick auf die schwarzen Bretter für kommende Veranstaltungen.",
+            "hu": "Figyelje meg a helyi kreativitást ösztönző ifjúsági központ élénk hangulatát, és ellenőrizze a külső hirdetőtáblákon a közelgő közösségi eseményeket.",
+            "ro": "Observați atmosfera plină de viață a acestui centru cultural pentru tineret și verificați panourile informative de afară pentru evenimentele comunitare viitoare.",
+            "en": "Notice the lively atmosphere of this youth and cultural center promoting local creativity, and check the notice boards outside for upcoming community events."
+          }
+        },
+        {
+          "name": {
+            "de": "Ribeira Town Hall",
+            "hu": "Ribeira Town Hall",
+            "ro": "Ribeira Town Hall",
+            "en": "Ribeira Town Hall"
+          },
+          "coords": [
+            -8.993351,
+            42.554824
+          ],
+          "category": "historical",
+          "arrive_at": "11:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieses historischen städtischen Zentrums, das das Leben der Stadt prägt, und machen Sie morgens die besten Fotos.",
+            "hu": "Csodálja meg a város életét meghatározó történelmi központ lenyűgöző építészetét, és álljon meg a téren a legjobb reggeli fotók elkészítéséhez.",
+            "ro": "Admirați arhitectura impresionantă a acestui centru municipal istoric care ancorează viața orașului și opriți-vă în piață pentru cele mai bune fotografii matinale.",
+            "en": "Admire the striking architecture of this historic municipal center that anchors the town's life, and pause in the square for the best morning photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Mámoa da Fieiteira",
+            "hu": "Mámoa da Fieiteira",
+            "ro": "Mámoa da Fieiteira",
+            "en": "Mámoa da Fieiteira"
+          },
+          "coords": [
+            -9.000193,
+            42.545992
+          ],
+          "category": "historical",
+          "arrive_at": "12:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.23,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen faszinierenden prähistorischen Grabhügel in der Landschaft und bleiben Sie auf den markierten Wegen, um die archäologische Stätte zu schützen.",
+            "hu": "Fedezze fel ezt a tájban megbúvó lenyűgöző történelem előtti halomsírt, és maradjon a kijelölt ösvényeken, hogy segítsen megőrizni az ősi régészeti lelőhelyet.",
+            "ro": "Descoperiți acest fascinant tumul funerar preistoric ascuns în peisaj și rămâneți pe potecile marcate pentru a ajuta la conservarea acestui sit arheologic antic.",
+            "en": "Discover this fascinating prehistoric burial mound hidden in the landscape, and stick to the designated paths to help preserve this ancient archaeological site."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradoiro da Garita",
+            "hu": "Miradoiro da Garita",
+            "ro": "Miradoiro da Garita",
+            "en": "Miradoiro da Garita"
+          },
+          "coords": [
+            -8.997267,
+            42.541123
+          ],
+          "category": "natural",
+          "arrive_at": "13:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.63,
+          "tip_5lang": {
+            "de": "Stehen Sie an diesem erhöhten Aussichtspunkt, um das Treffen von Land und Ozean zu bewundern, und sorgen Sie für eine aufgeladene Kamera für tolle Bilder.",
+            "hu": "Álljon ezen a magaslati megfigyelőponton, hogy megcsodálja a szárazföld és az óceán találkozását, de győződjön meg róla, hogy a kamerája teljesen fel van töltve.",
+            "ro": "Stați în acest punct de observație ridicat pentru a admira întâlnirea superbă dintre pământ și ocean, asigurându-vă că aveți camera complet încărcată.",
+            "en": "Stand at this elevated observation point to admire the stunning meeting of land and ocean, making sure your camera is fully charged for the great views."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Mosqueiros",
+            "hu": "Praia de Mosqueiros",
+            "ro": "Praia de Mosqueiros",
+            "en": "Praia de Mosqueiros"
+          },
+          "coords": [
+            -8.99091,
+            42.535113
+          ],
+          "category": "recreational",
+          "arrive_at": "14:21",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.97,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen an diesem ruhigeren Küstenabschnitt für eine friedliche Pause, und bringen Sie eigene Snacks mit, da die lokalen Angebote begrenzt sind.",
+            "hu": "Meneküljön el a tömeg elől erre a csendesebb partszakaszra egy békés pihenésre, és hozzon magával saját rágcsálnivalót, mivel a helyi lehetőségek korlátozottak.",
+            "ro": "Scăpați de aglomerație pe această porțiune de coastă mai liniștită, perfectă pentru odihnă, și aduceți propriile gustări, deoarece facilitățile locale sunt destul de limitate.",
+            "en": "Escape the crowds at this quieter stretch of shoreline perfect for a peaceful rest, and bring your own snacks as local facilities are fairly limited."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie zum Miradoiro de San Roque für einen erfrischenden Start, bevor Sie zur lebhaften Casa da Xuventude hinunterfahren. Bewundern Sie das historische Rathaus, bevor Sie ins Landesinnere radeln, um die alten Geheimnisse des Grabhügels Mámoa da Fieiteira zu entdecken. Genießen Sie die Küstenbrise auf dem Weg zum Miradoiro da Garita und lassen Sie die herrliche Aussicht auf den Ozean auf sich wirken. Stellen Sie Ihr Fahrrad an der Praia de Mosqueiros ab, um sich die Beine zu vertreten und eine wohlverdiente Pause zu machen.",
+        "hu": "Tekerjen fel a San Roque kilátóhoz egy frissítő kezdésért, majd guruljon le az élénk Casa da Xuventude felé. Szánjon időt a történelmi Városháza megcsodálására, majd kerékpározzon a szárazföld felé a Mámoa da Fieiteira ősi titkainak felfedezéséhez. Élvezze a parti szellőt a Miradoiro da Garita felé haladva, gyönyörködve a gyönyörű óceánra nyíló magaslati kilátásban. Parkolja le kerékpárját a Praia de Mosqueirosnál, nyújtóztassa ki a lábait, és tartson egy jól megérdemelt esti pihenőt a homokon.",
+        "ro": "Pedalați până la Miradoiro de San Roque pentru un început revigorant, apoi coborâți spre plina de viață Casa da Xuventude. Admirați Primăria istorică înainte de a pedala spre interior pentru a descoperi secretele străvechi ale tumulului Mámoa da Fieiteira. Bucurați-vă de briza de coastă în drum spre Miradoiro da Garita, absorbind priveliștile înalte ale frumosului ocean. Parcați bicicleta la Praia de Mosqueiros, întinzându-vă picioarele și luând o odihnă liniștită de amurg pe nisip.",
+        "en": "Pedal up to the Miradoiro de San Roque for an invigorating start and sweeping views, then ride down to the lively Casa da Xuventude. Take time to admire the historic Town Hall before cycling inland to discover the ancient secrets of the Mámoa da Fieiteira burial mound. Enjoy the coastal breeze as you make your way to Miradoiro da Garita, soaking in the high vantage points of the beautiful ocean. Park your bike at Praia de Mosqueiros, stretching your legs and taking a well-deserved, peaceful twilight rest on the sand."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:24",
+      "total_km": 9.53,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Miradoiro da Pedra da Ran",
+            "hu": "Miradoiro da Pedra da Ran",
+            "ro": "Miradoiro da Pedra da Ran",
+            "en": "Miradoiro da Pedra da Ran"
+          },
+          "coords": [
+            -9.015962,
+            42.559688
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Blicken Sie von diesem einzigartigen felsigen Aussichtspunkt auf die Ria und tragen Sie festes Schuhwerk, da das natürliche Gelände etwas uneben sein kann.",
+            "hu": "Tekintsen le erről az egyedülálló sziklás kilátóról a riára nyíló páratlan panorámára, és viseljen stabil cipőt, mert a természetes terep kissé egyenetlen lehet.",
+            "ro": "Priviți de la acest punct de belvedere stâncos unic care oferă panorame inegalabile asupra riei și purtați încălțăminte robustă, deoarece terenul este denivelat.",
+            "en": "Gaze out from this unique rocky viewpoint offering unparalleled vistas of the ria, and wear sturdy shoes as the natural terrain can be a bit uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de San Paio de Carreira",
+            "hu": "Igrexa de San Paio de Carreira",
+            "ro": "Igrexa de San Paio de Carreira",
+            "en": "Igrexa de San Paio de Carreira"
+          },
+          "coords": [
+            -9.006258,
+            42.548972
+          ],
+          "category": "religious",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante Pfarrkirche mit traditioneller galizischer religiöser Architektur und respektieren Sie die Gläubigen durch gedämpfte Gespräche.",
+            "hu": "Látogasson el ebbe a bájos plébániatemplomba, amely a hagyományos galíciai vallási építészetet mutatja be, és tartsa tiszteletben a helyi hívőket csendes viselkedéssel.",
+            "ro": "Vizitați această fermecătoare biserică parohială care prezintă arhitectura religioasă tradițională galiciană și respectați credincioșii locali vorbind încet.",
+            "en": "Visit this charming parish church which showcases traditional Galician religious architecture, and respect the local worshippers by keeping your voice down."
+          }
+        },
+        {
+          "name": {
+            "de": "Capela da Nosa Señora da Guía",
+            "hu": "Capela da Nosa Señora da Guía",
+            "ro": "Capela da Nosa Señora da Guía",
+            "en": "Capela da Nosa Señora da Guía"
+          },
+          "coords": [
+            -9.012657,
+            42.541371
+          ],
+          "category": "religious",
+          "arrive_at": "10:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Lage dieser kleinen Küstenkapelle und gehen Sie für die besten maritimen Ausblicke einmal ganz um das malerische Gebäude herum.",
+            "hu": "Élvezze ennek a kis tengerparti kápolnának a nyugodt fekvését, és sétálja körbe teljesen az épületet a legjobb hajózási és tengeri kilátásokért.",
+            "ro": "Bucurați-vă de locația senină a acestei mici capele de coastă și plimbați-vă complet în jurul clădirii pentru a avea cele mai bune priveliști nautice.",
+            "en": "Enjoy the serene location of this small coastal chapel dedicated to the Virgin Mary, and walk entirely around the building for the best nautical views."
+          }
+        },
+        {
+          "name": {
+            "de": "O Almacén",
+            "hu": "O Almacén",
+            "ro": "O Almacén",
+            "en": "O Almacén"
+          },
+          "coords": [
+            -8.987334,
+            42.538757
+          ],
+          "category": "historical",
+          "arrive_at": "11:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das industrielle Erbe in diesem historischen Speichergebäude des Seehandels ein und achten Sie auf die informativen Tafeln über seine Vergangenheit.",
+            "hu": "Merüljön el az ipari örökségben ebben a tengeri kereskedelemhez kötődő történelmi raktárépületben, és keresse a múltját részletező információs táblákat.",
+            "ro": "Explorați patrimoniul industrial la această clădire istorică de depozitare legată de comerțul maritim și căutați plăcile informative care detaliază trecutul său.",
+            "en": "Delve into the industrial heritage at this historical storage building tied to the sea trade, and look out for informational plaques detailing its past."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Mosqueiros",
+            "hu": "Praia de Mosqueiros",
+            "ro": "Praia de Mosqueiros",
+            "en": "Praia de Mosqueiros"
+          },
+          "coords": [
+            -8.99091,
+            42.535113
+          ],
+          "category": "recreational",
+          "arrive_at": "12:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.56,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen an diesem ruhigeren Küstenabschnitt für eine friedliche Pause, und bringen Sie eigene Snacks mit, da die lokalen Angebote begrenzt sind.",
+            "hu": "Meneküljön el a tömeg elől erre a csendesebb partszakaszra egy békés pihenésre, és hozzon magával saját rágcsálnivalót, mivel a helyi lehetőségek korlátozottak.",
+            "ro": "Scăpați de aglomerație pe această porțiune de coastă mai liniștită, perfectă pentru odihnă, și aduceți propriile gustări, deoarece facilitățile locale sunt destul de limitate.",
+            "en": "Escape the crowds at this quieter stretch of shoreline perfect for a peaceful rest, and bring your own snacks as local facilities are fairly limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Municipal de Ribeira",
+            "hu": "Museo Municipal de Ribeira",
+            "ro": "Museo Municipal de Ribeira",
+            "en": "Museo Municipal de Ribeira"
+          },
+          "coords": [
+            -8.99046,
+            42.553974
+          ],
+          "category": "museum",
+          "arrive_at": "13:46",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche maritime Geschichte und lokale Kunst in diesem Museum und fragen Sie das Personal nach den neuesten temporären Ausstellungen.",
+            "hu": "Fedezze fel a gazdag tengerészeti történelmet és a helyi művészeteket ebben a múzeumban, és ne felejtse el megkérdezni a személyzetet az új kiállításokról.",
+            "ro": "Explorați bogata istorie maritimă și artele locale prezentate în acest muzeu, asigurându-vă că întrebați personalul despre cele mai noi expoziții temporare.",
+            "en": "Explore the rich maritime history and local arts showcased in this museum, making sure to ask the staff about the latest temporary exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradoiro de San Roque",
+            "hu": "Miradoiro de San Roque",
+            "ro": "Miradoiro de San Roque",
+            "en": "Miradoiro de San Roque"
+          },
+          "coords": [
+            -9.001233,
+            42.559732
+          ],
+          "category": "natural",
+          "arrive_at": "15:29",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.37,
+          "tip_5lang": {
+            "de": "Steigen Sie zu diesem malerischen Aussichtspunkt hinauf für ein weites Panorama der Küstenstadt, und bringen Sie eine Windjacke gegen die starke Meeresbrise mit.",
+            "hu": "Másszon fel erre a festői kilátóra a tengerparti városra nyíló lenyűgöző panorámáért, és hozzon széldzsekit, mivel a tengeri szellő gyakran elég erős.",
+            "ro": "Urcați la acest punct de belvedere pitoresc pentru panorame superbe asupra orașului de coastă și aduceți o jachetă, deoarece briza mării este adesea puternică.",
+            "en": "Climb up to this scenic viewpoint for sweeping panoramas over the entire coastal town, and bring a windbreaker as the sea breeze is often quite strong."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt am atemberaubenden Aussichtspunkt Pedra da Ran, gefolgt von der traditionellen Kirche San Paio de Carreira. Halten Sie an der Kapelle der Guía an der Küste, bevor Sie im historischen O Almacén die reiche industrielle Vergangenheit entdecken. Machen Sie einen Spaziergang an der Praia de Mosqueiros und fahren Sie dann zum städtischen Museum für lokale Kultur. Beenden Sie Ihren Roadtrip mit der Fahrt zum Miradoiro de San Roque und fangen Sie die spektakulären goldenen Farben der untergehenden Sonne ein.",
+        "hu": "Kezdje a festői autózást a lélegzetelállító Pedra da Ran kilátónál, majd álljon meg a hagyományos San Paio de Carreira templomnál. Álljon meg a békés Guía kápolnánál a tengerparton, mielőtt felfedezné a terület ipari múltját a történelmi O Almacénban. Tegyen egy frissítő sétát a Praia de Mosqueiros mentén, majd hajtson a városi múzeumba egy adag helyi kultúráért. Fejezze be az autós utazást a San Roque kilátóhoz vezetve, megörökítve a lemenő nap látványos arany árnyalatait.",
+        "ro": "Începeți traseul pitoresc la punctul de belvedere Pedra da Ran, urmat de un moment la biserica tradițională San Paio de Carreira. Opriți-vă la serena Capelă Guía de pe coastă înainte de a descoperi trecutul industrial la istoricul O Almacén. Faceți o plimbare răcoroasă de-a lungul Praia de Mosqueiros, apoi conduceți la muzeul municipal pentru cultură locală. Finalizați-vă excursia conducând spre Miradoiro de San Roque, capturând nuanțele aurii spectaculoase ale soarelui la apus.",
+        "en": "Start your scenic drive at the breathtaking Pedra da Ran viewpoint, followed by a quiet moment at the traditional San Paio de Carreira church. Stop by the serene Chapel of the Guía by the coast before discovering the area's rich industrial past at the historic O Almacén. Take a refreshing walk along Praia de Mosqueiros, then drive to the municipal museum for an engaging dose of local culture. Complete your road trip by driving up to Miradoiro de San Roque, capturing the spectacular golden hues of the setting sun."
+      }
+    }
+  }
+}

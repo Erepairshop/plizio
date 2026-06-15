@@ -1,0 +1,428 @@
+{
+  "city_id": "uruapan-cities-v2",
+  "anchor": {
+    "name": "Uruapan",
+    "coords": [
+      -102.0628,
+      19.4206
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:11",
+      "total_km": 1.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Städtische Pergola",
+            "hu": "Városi Pergola",
+            "ro": "Pergola Municipală",
+            "en": "Municipal Pergola"
+          },
+          "coords": [
+            -102.063304,
+            19.421018
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie unter den Bögen dieser historischen Pergola, um die Atmosphäre von Uruapan aufzusaugen, und holen Sie sich am besten vorher einen lokalen Kaffee.",
+            "hu": "Pihenjen meg a történelmi pergola ívei alatt, hogy átérezze Uruapan hangulatát, és érdemes előtte venni egy finom helyi kávét a közelben.",
+            "ro": "Relaxați-vă sub arcadele acestei pergole istorice pentru a simți atmosfera din Uruapan și asigurați-vă că luați o cafea locală înainte de a vă așeza.",
+            "en": "Relax under the colonial-style arches of this historic pergola to soak in Uruapan's vibe, and grab a local coffee nearby before you find a seat."
+          }
+        },
+        {
+          "name": {
+            "de": "La Huátapera",
+            "hu": "La Huátapera",
+            "ro": "La Huátapera",
+            "en": "La Huátapera"
+          },
+          "coords": [
+            -102.062108,
+            19.421055
+          ],
+          "category": "museum",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses indigene Krankenhaus aus dem 16. Jahrhundert, um die Wurzeln der Region zu verstehen, und achten Sie besonders auf den atemberaubenden Innenhof.",
+            "hu": "Fedezze fel ezt a 16. századi őslakos kórházból lett múzeumot, hogy megértse a régió gyökereit, különös figyelmet fordítva a lenyűgöző belső udvarra.",
+            "ro": "Explorați acest spital indigen din secolul al XVI-lea transformat în muzeu pentru a înțelege rădăcinile regiunii, acordând atenție uimitoarei curți interioare.",
+            "en": "Explore this 16th-century indigenous hospital turned museum to understand the region's roots, paying special attention to the stunning central courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal für die Flagge",
+            "hu": "Zászló Emlékmű",
+            "ro": "Monumentul Steagului",
+            "en": "Flag Monument"
+          },
+          "coords": [
+            -102.06391,
+            19.42228
+          ],
+          "category": "historical",
+          "arrive_at": "12:16",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses patriotische Denkmal für die mexikanische Flagge und stellen Sie sich für ein großartiges symmetrisches Foto perfekt in die Mitte.",
+            "hu": "Csodálja meg ezt a mexikói zászlónak szentelt hazafias emlékművet, és álljon tökéletesen középre, hogy nagyszerű szimmetrikus fotót készíthessen.",
+            "ro": "Admirați acest monument patriotic dedicat steagului mexican și așezați-vă perfect în centru pentru a face o fotografie simetrică excelentă.",
+            "en": "Admire this patriotic monument dedicated to the Mexican flag, and stand perfectly centered for a great symmetrical photograph against the bright sky."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturforum La Morada",
+            "hu": "La Morada Kulturális Fórum",
+            "ro": "Forumul Cultural La Morada",
+            "en": "La Morada Cultural Forum"
+          },
+          "coords": [
+            -102.06654,
+            19.423036
+          ],
+          "category": "cultural",
+          "arrive_at": "12:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schauen Sie sich zeitgenössische lokale Kunstausstellungen in diesem lebendigen Kulturzentrum an und fragen Sie das freundliche Personal nach kommenden Veranstaltungen.",
+            "hu": "Tekintse meg a kortárs helyi művészeti kiállításokat ebben a nyüzsgő kulturális központban, és nyugodtan kérdezze a barátságos személyzetet a közelgő eseményekről.",
+            "ro": "Vizitați expozițiile de artă locală contemporană din acest centru cultural vibrant și nu ezitați să întrebați personalul prietenos despre evenimentele viitoare.",
+            "en": "Check out contemporary local art exhibitions in this vibrant cultural hub, and don't hesitate to ask the friendly staff about any upcoming community events."
+          }
+        },
+        {
+          "name": {
+            "de": "Das kleinste Haus der Welt",
+            "hu": "A világ legkisebb háza",
+            "ro": "Cea mai mică casă din lume",
+            "en": "Smallest house in the world"
+          },
+          "coords": [
+            -102.066048,
+            19.425471
+          ],
+          "category": "museum",
+          "arrive_at": "14:01",
+          "stay_min": 130,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zwängen Sie sich in das kleinste Haus, das den Guinness-Weltrekord hält, um das clevere Design zu bestaunen, aber bringen Sie keine großen Rucksäcke mit hinein.",
+            "hu": "Préselje be magát a Guinness-rekorder legkisebb házba, hogy megcsodálja az okos kialakítást, de a kényelem érdekében ne hozzon magával nagy hátizsákot.",
+            "ro": "Strecurați-vă în cea mai mică casă care deține recordul Guinness pentru a admira designul inteligent, dar evitați să aduceți rucsacuri mari înăuntru.",
+            "en": "Squeeze into the Guinness World Record-holding tiniest home to marvel at its clever design, but definitely avoid bringing any large backpacks inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im historischen Herzen von Uruapan und genießen Sie die architektonische Schönheit der Pérgola Municipal und die indigenen Wurzeln im Museum La Huátapera. Mittags erreichen Sie das Monumento a La Bandera, gefolgt von zeitgenössischer Kunst in La Morada. Am Nachmittag zwängen Sie sich in das kleinste Haus der Welt. Der Abend ist perfekt für einen Spaziergang im Zentrum und lokales Streetfood.",
+        "hu": "Kezdje a reggelt Uruapan történelmi szívében, élvezve a Pérgola Municipal építészeti szépségét és a La Huátapera múzeum őslakos gyökereit. Délben a Monumento a La Bandera-hoz ér, majd kortárs művészetet láthat a La Moradában. Délután bepréselheti magát a világ legkisebb házába. Az este tökéletes egy nyugodt sétához a városközpontban, ahol naplementekor helyi michoacáni utcai ételeket kóstolhat.",
+        "ro": "Începeți dimineața în inima istorică a orașului Uruapan, admirând frumusețea arhitecturală a Pergolei Municipale și rădăcinile indigene la muzeul La Huátapera. La prânz veți ajunge la Monumento a La Bandera, urmat de artă contemporană la La Morada. După-amiaza, vă veți strecura în cea mai mică casă din lume. Seara este perfectă pentru o plimbare relaxantă, savurând mâncare stradală locală.",
+        "en": "Start your morning exploring the historic heart of Uruapan, soaking in the architectural beauty of the Pérgola Municipal and the indigenous roots at La Huátapera museum. Enjoy the central square's vibrant energy. Midday brings you to the Monumento a La Bandera, followed by contemporary art at La Morada. In the afternoon, you'll squeeze into the world's smallest house. The evening is perfect for a relaxed stroll around the city center, enjoying local Michoacán street food as the sun sets."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:28",
+      "total_km": 4.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "La Huátapera",
+            "hu": "La Huátapera",
+            "ro": "La Huátapera",
+            "en": "La Huátapera"
+          },
+          "coords": [
+            -102.062108,
+            19.421055
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses indigene Krankenhaus aus dem 16. Jahrhundert, um die Wurzeln der Region zu verstehen, und achten Sie besonders auf den atemberaubenden Innenhof.",
+            "hu": "Fedezze fel ezt a 16. századi őslakos kórházból lett múzeumot, hogy megértse a régió gyökereit, különös figyelmet fordítva a lenyűgöző belső udvarra.",
+            "ro": "Explorați acest spital indigen din secolul al XVI-lea transformat în muzeu pentru a înțelege rădăcinile regiunii, acordând atenție uimitoarei curți interioare.",
+            "en": "Explore this 16th-century indigenous hospital turned museum to understand the region's roots, paying special attention to the stunning central courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturforum La Morada",
+            "hu": "La Morada Kulturális Fórum",
+            "ro": "Forumul Cultural La Morada",
+            "en": "La Morada Cultural Forum"
+          },
+          "coords": [
+            -102.06654,
+            19.423036
+          ],
+          "category": "cultural",
+          "arrive_at": "10:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schauen Sie sich zeitgenössische lokale Kunstausstellungen in diesem lebendigen Kulturzentrum an und fragen Sie das freundliche Personal nach kommenden Veranstaltungen.",
+            "hu": "Tekintse meg a kortárs helyi művészeti kiállításokat ebben a nyüzsgő kulturális központban, és nyugodtan kérdezze a barátságos személyzetet a közelgő eseményekről.",
+            "ro": "Vizitați expozițiile de artă locală contemporană din acest centru cultural vibrant și nu ezitați să întrebați personalul prietenos despre evenimentele viitoare.",
+            "en": "Check out contemporary local art exhibitions in this vibrant cultural hub, and don't hesitate to ask the friendly staff about any upcoming community events."
+          }
+        },
+        {
+          "name": {
+            "de": "Das kleinste Haus der Welt",
+            "hu": "A világ legkisebb háza",
+            "ro": "Cea mai mică casă din lume",
+            "en": "Smallest house in the world"
+          },
+          "coords": [
+            -102.066048,
+            19.425471
+          ],
+          "category": "museum",
+          "arrive_at": "12:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zwängen Sie sich in das kleinste Haus, das den Guinness-Weltrekord hält, um das clevere Design zu bestaunen, aber bringen Sie keine großen Rucksäcke mit hinein.",
+            "hu": "Préselje be magát a Guinness-rekorder legkisebb házba, hogy megcsodálja az okos kialakítást, de a kényelem érdekében ne hozzon magával nagy hátizsákot.",
+            "ro": "Strecurați-vă în cea mai mică casă care deține recordul Guinness pentru a admira designul inteligent, dar evitați să aduceți rucsacuri mari înăuntru.",
+            "en": "Squeeze into the Guinness World Record-holding tiniest home to marvel at its clever design, but definitely avoid bringing any large backpacks inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Herrenhaus am Cupatitzio",
+            "hu": "Cupatitzio Kúria",
+            "ro": "Conacul Cupatitzio",
+            "en": "Cupatitzio Mansion"
+          },
+          "coords": [
+            -102.074191,
+            19.429717
+          ],
+          "category": "landmark",
+          "arrive_at": "14:01",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses elegante Wahrzeichen in der Nähe des Flusses, um die lokale Architektur zu schätzen, und bringen Sie Ihre Kamera für das wunderschöne Äußere mit.",
+            "hu": "Fedezze fel ezt a folyóhoz közeli elegáns nevezetességet, hogy értékelje a helyi építészetet, és mindenképpen hozza magával fényképezőgépét a gyönyörű parkhoz.",
+            "ro": "Descoperiți acest punct de reper elegant de lângă râu pentru a aprecia arhitectura locală, aducând aparatul foto pentru exteriorul frumos amenajat.",
+            "en": "Discover this elegant landmark nestled near the river to appreciate the local architecture, bringing your camera to capture the beautifully landscaped exterior."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalpark Barranca del Cupatitzio",
+            "hu": "Barranca del Cupatitzio Nemzeti Park",
+            "ro": "Parcul Național Barranca del Cupatitzio",
+            "en": "Barranca del Cupatitzio National Park"
+          },
+          "coords": [
+            -102.103618,
+            19.429357
+          ],
+          "category": "natural",
+          "arrive_at": "14:43",
+          "stay_min": 105,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie auf den schattigen Wegen dieser üppigen Schlucht, in der der Fluss Cupatitzio entspringt, und tragen Sie feste Schuhe für die feuchten Steinwege.",
+            "hu": "Sétáljon a buja szurdok árnyékos ösvényein, ahol a Cupatitzio folyó ered, és viseljen masszív cipőt a nedves, mohás kőjárdákon való kényelmes közlekedéshez.",
+            "ro": "Plimbați-vă pe potecile umbrite ale acestei râpe luxuriante unde izvorăște râul Cupatitzio, purtând încălțăminte solidă pentru a naviga pe aleile umede.",
+            "en": "Walk the shaded paths of this lush ravine where the Cupatitzio river is born, wearing sturdy shoes to comfortably navigate the damp, mossy stone walkways."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt mit der Geschichte aus dem 16. Jahrhundert in La Huátapera, bevor Sie zum Kulturzentrum La Morada rollen. Mittags machen Sie einen kurzen Halt am kleinsten Haus der Welt, um dessen Design zu bewundern. Am Nachmittag fahren Sie in Richtung Fluss zur eleganten Mansión del Cupatitzio. Verbringen Sie den späten Nachmittag und Abend auf den üppigen Pfaden des Nationalparks am Wasser.",
+        "hu": "A kerékpáros utazás a La Huátapera 16. századi történelmével kezdődik, majd a La Morada kulturális központjához gurul. Délben a világ legkisebb házánál áll meg, hogy megcsodálja a kompakt kialakítást. Délután a folyó felé teker, hogy megnézze az elegáns Mansión del Cupatitzio-t. A késő délutánt és az estét a Nemzeti Park buja ösvényein sétálva töltheti, hallgatva a folyó csobogását.",
+        "ro": "Călătoria cu bicicleta începe cu istoria secolului XVI la La Huátapera, înainte de a pedala spre centrul cultural La Morada. La prânz veți face o oprire rapidă la cea mai mică casă din lume. După-amiaza, mergeți spre râu pentru a vedea eleganta Mansión del Cupatitzio. Petreceți după-amiaza târziu și seara plimbându-vă pe potecile luxuriante ale Parcului Național, ascultând apa curgătoare.",
+        "en": "Your cycling journey begins with the fascinating 16th-century history at La Huátapera, before rolling through the central streets to the cultural hub of La Morada. Midday features a quick, quirky stop at the world's smallest house to marvel at its compact design. In the afternoon, ride towards the river to see the elegant Mansión del Cupatitzio, then lock up your bike. Spend your late afternoon and evening walking the lush trails of the National Park, listening to the rushing water."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:13",
+      "total_km": 7.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kunstschule und Werkstatt MAPECO",
+            "hu": "MAPECO Képzőművészeti Iskola",
+            "ro": "Școala și Atelierul de Artă MAPECO",
+            "en": "MAPECO Art School and Workshop"
+          },
+          "coords": [
+            -102.046943,
+            19.408917
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie talentierte Handwerker bei ihrer traditionellen Arbeit in dieser Werkstatt und erwägen Sie, ein authentisches Stück direkt vom Schöpfer zu kaufen.",
+            "hu": "Figyelje meg a tehetséges kézműveseket, amint hagyományos mesterségüket űzik ebben a műhelyben, és fontolja meg egy eredeti darab közvetlen megvásárlását.",
+            "ro": "Observați artizanii talentați perfecționându-și meseriile tradiționale la acest atelier și luați în considerare achiziționarea unei piese autentice.",
+            "en": "Observe talented artisans honing their traditional crafts at this prominent workshop, and consider purchasing an authentic piece directly from the creator."
+          }
+        },
+        {
+          "name": {
+            "de": "Veranstaltungszentrum La Macarena",
+            "hu": "La Macarena Rendezvényközpont",
+            "ro": "Centrul de Evenimente La Macarena",
+            "en": "La Macarena Entertainment Center"
+          },
+          "coords": [
+            -102.042797,
+            19.416148
+          ],
+          "category": "cultural",
+          "arrive_at": "10:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Größe dieser traditionellen Stierkampfarena und kommen Sie an Veranstaltungstagen frühzeitig, um sich einen Parkplatz in den umliegenden Straßen zu sichern.",
+            "hu": "Csodálja meg e hagyományos bikaviadal-aréna méreteit, és rendezvénynapokon érkezzen korán, hogy biztosítson magának egy jó parkolóhelyet a környező utcákban.",
+            "ro": "Admirați dimensiunea acestei arene tradiționale și a locului de divertisment, ajungând devreme în zilele cu evenimente pentru a parca pe străzile din jur.",
+            "en": "Marvel at the scale of this traditional bullring and entertainment venue, arriving early on event days to secure parking in the surrounding streets."
+          }
+        },
+        {
+          "name": {
+            "de": "General Lázaro Cárdenas",
+            "hu": "Lázaro Cárdenas Tábornok",
+            "ro": "Generalul Lázaro Cárdenas",
+            "en": "General Lázaro Cárdenas"
+          },
+          "coords": [
+            -102.050652,
+            19.417989
+          ],
+          "category": "historical",
+          "arrive_at": "12:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erweisen Sie der Statue zu Ehren dieses einflussreichen mexikanischen Präsidenten Ihren Respekt und nutzen Sie die schattigen Bänke in der Nähe für eine kleine Pause.",
+            "hu": "Tisztelegjen e befolyásos mexikói elnök szobra előtt, és használja a közeli árnyékos padokat, hogy megpihenjen a napközbeni városnézés és séta során.",
+            "ro": "Prezentați-vă omagiul la statuia care onorează acest influent președinte mexican și folosiți băncile umbrite din apropiere pentru a vă odihni puțin.",
+            "en": "Pay your respects at the statue honoring this influential Mexican president, and use the conveniently shaded benches nearby to rest during your daytime exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtische Pergola",
+            "hu": "Városi Pergola",
+            "ro": "Pergola Municipală",
+            "en": "Municipal Pergola"
+          },
+          "coords": [
+            -102.063304,
+            19.421018
+          ],
+          "category": "historical",
+          "arrive_at": "13:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie unter den Bögen dieser historischen Pergola, um die Atmosphäre von Uruapan aufzusaugen, und holen Sie sich am besten vorher einen lokalen Kaffee.",
+            "hu": "Pihenjen meg a történelmi pergola ívei alatt, hogy átérezze Uruapan hangulatát, és érdemes előtte venni egy finom helyi kávét a közelben.",
+            "ro": "Relaxați-vă sub arcadele acestei pergole istorice pentru a simți atmosfera din Uruapan și asigurați-vă că luați o cafea locală înainte de a vă așeza.",
+            "en": "Relax under the colonial-style arches of this historic pergola to soak in Uruapan's vibe, and grab a local coffee nearby before you find a seat."
+          }
+        },
+        {
+          "name": {
+            "de": "Wandgemälde der Ursprünge von Uruapan",
+            "hu": "Uruapan Eredete Falfestmény",
+            "ro": "Muralul Originilor din Uruapan",
+            "en": "Mural of the Origins of Uruapan"
+          },
+          "coords": [
+            -102.074792,
+            19.433321
+          ],
+          "category": "historical",
+          "arrive_at": "15:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Studieren Sie dieses Wandgemälde, das die Gründungsgeschichte von Uruapan darstellt, und betrachten Sie es am späten Nachmittag für das beste natürliche Licht.",
+            "hu": "Tanulmányozza ezt a kiterjedt falfestményt, amely Uruapan alapítási történetét ábrázolja, és nézze meg késő délután, hogy a legjobb természetes fény érje.",
+            "ro": "Studiați această pictură murală care înfățișează povestea fondării orașului Uruapan, vizionând-o după-amiaza târziu pentru cea mai bună lumină naturală.",
+            "en": "Study this expansive mural depicting Uruapan's fascinating foundation story, viewing it in the late afternoon for the best natural lighting on its bright colors."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalpark Barranca del Cupatitzio",
+            "hu": "Barranca del Cupatitzio Nemzeti Park",
+            "ro": "Parcul Național Barranca del Cupatitzio",
+            "en": "Barranca del Cupatitzio National Park"
+          },
+          "coords": [
+            -102.103618,
+            19.429357
+          ],
+          "category": "natural",
+          "arrive_at": "16:28",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie auf den schattigen Wegen dieser üppigen Schlucht, in der der Fluss Cupatitzio entspringt, und tragen Sie feste Schuhe für die feuchten Steinwege.",
+            "hu": "Sétáljon a buja szurdok árnyékos ösvényein, ahol a Cupatitzio folyó ered, és viseljen masszív cipőt a nedves, mohás kőjárdákon való kényelmes közlekedéshez.",
+            "ro": "Plimbați-vă pe potecile umbrite ale acestei râpe luxuriante unde izvorăște râul Cupatitzio, purtând încălțăminte solidă pentru a naviga pe aleile umede.",
+            "en": "Walk the shaded paths of this lush ravine where the Cupatitzio river is born, wearing sturdy shoes to comfortably navigate the damp, mossy stone walkways."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie in den Süden, um die Handwerkskunst bei MAPECO und die große Stierkampfarena La Macarena zu entdecken. Mittags fahren Sie ins Zentrum, um Gral. Lázaro Cárdenas zu ehren, und parken dann an der historischen Pérgola Municipal. Der Nachmittag führt Sie zum beeindruckenden Mural de los Orígenes. Beenden Sie den Tag im Nationalpark Barranca del Cupatitzio in spektakulärer Natur.",
+        "hu": "Autózzon először a déli kerületekbe, hogy felfedezze a MAPECO kézműves művészetét és a La Macarena bikaviadal-aréna nagyságát. Délben induljon a központ felé, hogy tisztelegjen Lázaro Cárdenas előtt, majd parkoljon le a Pérgola Municipal közelében. A délután a lenyűgöző Mural de los Orígenes-hez vezet. Fejezze be a napot a Barranca del Cupatitzio Nemzeti Parkban, élvezve a nyugodt, természetes estét.",
+        "ro": "Conduceți mai întâi în cartierele sudice pentru a descoperi măiestria artistică de la MAPECO și arena La Macarena. La prânz, îndreptați-vă spre centru pentru a-l onora pe Gral. Lázaro Cárdenas, apoi parcați lângă Pergola Municipală. După-amiaza vă duce la impresionanta Mural de los Orígenes. Încheiați-vă ziua conducând spre Parcul Național Barranca del Cupatitzio pentru o seară liniștită.",
+        "en": "Drive to the southern districts first to discover the artistic craftsmanship at MAPECO and the grand scale of La Macarena bullring. By midday, head towards the center to honor Gral. Lázaro Cárdenas, then park near the historic Pérgola Municipal. The afternoon leads you to the impressive Mural de los Orígenes to appreciate local lore. Conclude your day trip by driving out to the Barranca del Cupatitzio National Park, enjoying a serene evening immersed in spectacular nature."
+      }
+    }
+  }
+}

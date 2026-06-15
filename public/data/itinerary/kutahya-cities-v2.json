@@ -1,0 +1,612 @@
+{
+  "city_id": "kutahya-cities-v2",
+  "anchor": {
+    "name": "Kütahya",
+    "coords": [
+      29.9833,
+      39.4167
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:19",
+      "total_km": 1.31,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Geologiemuseum",
+            "hu": "Geológiai Múzeum",
+            "ro": "Muzeul de Geologie",
+            "en": "Geology Museum"
+          },
+          "coords": [
+            29.974462,
+            39.416141
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Mineralienausstellungen zur geologischen Geschichte Kütahyas und achten Sie dabei besonders auf die interaktiven Displays.",
+            "hu": "Fedezze fel Kütahya geológiai történetét bemutató lenyűgöző ásványkiállításokat, és feltétlenül próbálja ki az interaktív kijelzőket a földszinten.",
+            "ro": "Explorați expozițiile fascinante de minerale care dezvăluie istoria geologică a Kütahyei și nu uitați să verificați ecranele interactive de la parter.",
+            "en": "Explore fascinating mineral exhibits that reveal Kütahya's geological history, and remember to check the interactive displays on the ground floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Fliesenmuseum",
+            "hu": "Csempe Múzeum",
+            "ro": "Muzeul Ceramicii",
+            "en": "Tile Museum"
+          },
+          "coords": [
+            29.975156,
+            39.417432
+          ],
+          "category": "museum",
+          "arrive_at": "10:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisiten Sammlungen traditioneller Kütahya-Fliesen in diesem historischen Rahmen und nehmen Sie sich Zeit für detaillierte Fotos.",
+            "hu": "Csodálja meg a hagyományos kütahyai csempék gyönyörű gyűjteményeit ebben a történelmi környezetben, időt szánva az élénk minták fotózására.",
+            "ro": "Admirați colecțiile rafinate de plăci ceramice tradiționale din Kütahya în acest cadru istoric, alocând timp pentru a fotografia modelele vibrante.",
+            "en": "Admire the exquisite collections of traditional Kütahya tiles in this historic setting, taking time to photograph the vibrant blue and white patterns."
+          }
+        },
+        {
+          "name": {
+            "de": "Dönenler-Moschee",
+            "hu": "Dönenler Mecset",
+            "ro": "Moscheea Dönenler",
+            "en": "Dönenler Mosque"
+          },
+          "coords": [
+            29.976723,
+            39.41711
+          ],
+          "category": "religious",
+          "arrive_at": "12:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die anmutige Architektur dieser historischen Moschee mit ihren Derwisch-Wurzeln, die Sie am besten während der ruhigen Morgenstunden besuchen.",
+            "hu": "Csodálja meg a kerengő dervisekhez köthető történelmi mecset elegáns építészetét, amelyet a legérdemesebb a csendes reggeli órákban meglátogatni.",
+            "ro": "Minunați-vă de arhitectura grațioasă a acestei moschei istorice, cunoscută pentru rădăcinile sale de derviși, vizitând-o de preferință dimineața devreme.",
+            "en": "Marvel at the graceful architecture of this historic mosque known for its unique whirling dervish roots, best visited during the quiet morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Analıca-Moschee",
+            "hu": "Analıca Mecset",
+            "ro": "Moscheea Analıca",
+            "en": "Analıca Mosque"
+          },
+          "coords": [
+            29.977024,
+            39.41836
+          ],
+          "category": "religious",
+          "arrive_at": "13:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Entdecken Sie die friedliche Atmosphäre dieses alten Gotteshauses mit seinem bescheidenen Inneren, das sich perfekt für einen ruhigen Moment der Besinnung eignet.",
+            "hu": "Fedezze fel ezen ősi istentiszteleti hely békés légkörét és szerény belső terét, amely tökéletes egy kis csendes elmélkedéshez a séta folytatása előtt.",
+            "ro": "Descoperiți atmosfera senină a acestui vechi lăcaș de cult cu interiorul său modest, perfect pentru un moment de liniște înainte de a continua turul.",
+            "en": "Discover the serene atmosphere of this ancient place of worship with its modest interior, perfect for a moment of quiet reflection before continuing your tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Sebilerenler-Moschee",
+            "hu": "Sebilerenler Mecset",
+            "ro": "Moscheea Sebilerenler",
+            "en": "Sebilerenler Mosque"
+          },
+          "coords": [
+            29.981537,
+            39.419731
+          ],
+          "category": "religious",
+          "arrive_at": "14:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.42,
+          "tip_5lang": {
+            "de": "Betrachten Sie die filigrane Steinmetzkunst und die osmanischen Elemente dieser wunderschönen Moschee, für deren Besuch Sie sich respektvoll kleiden sollten.",
+            "hu": "Figyelje meg ennek a gyönyörű mecsetnek a finom kőfaragásait és klasszikus oszmán elemeit, ügyelve a szerény öltözködésre a belépésnél.",
+            "ro": "Observați sculpturile fine în piatră și elementele otomane clasice ale acestei moschei frumoase, asigurându-vă că sunteți îmbrăcați decent la intrare.",
+            "en": "Observe the delicate stonework and classical Ottoman elements of this beautiful mosque, ensuring you dress modestly to enter and appreciate its details."
+          }
+        },
+        {
+          "name": {
+            "de": "Ali-Pascha-Moschee",
+            "hu": "Ali Pasa Mecset",
+            "ro": "Moscheea Ali Pașa",
+            "en": "Ali Pasha Mosque"
+          },
+          "coords": [
+            29.983805,
+            39.418724
+          ],
+          "category": "religious",
+          "arrive_at": "14:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Erleben Sie die spirituelle Ruhe in einer der prächtigsten Moscheen der Stadt mit ihren markanten Kuppeln, wobei Sie am Haupteingang Ihre Schuhe ausziehen sollten.",
+            "hu": "Tapasztalja meg a spirituális nyugalmat a város egyik legnagyobb, lenyűgöző kupolájú mecsetjében, ahol érdemes azonnal levenni a cipőt a főbejáratnál.",
+            "ro": "Experimentați calmul spiritual din interiorul uneia dintre cele mai mărețe moschei ale orașului, descălțându-vă prompt la intrarea principală pentru respect.",
+            "en": "Experience the spiritual calm inside one of the city’s grander mosques featuring striking domes, while removing your shoes promptly at the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrenturm",
+            "hu": "Óratorony",
+            "ro": "Turnul cu Ceas",
+            "en": "Clock Tower"
+          },
+          "coords": [
+            29.986358,
+            39.419374
+          ],
+          "category": "historical",
+          "arrive_at": "15:29",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem ikonischen Uhrenturm aus den Panoramablick über das historische Viertel, idealerweise am späten Nachmittag für das beste Licht.",
+            "hu": "Élvezze a környező történelmi negyedre nyíló panorámát ebből az ikonikus óratoronyból, ahová érdemes a késő délutáni órákban érkezni a meleg fényekért.",
+            "ro": "Bucurați-vă de vederile panoramice asupra cartierului istoric din acest turn cu ceas emblematic, ajungând târziu după-amiaza pentru lumina caldă a soarelui.",
+            "en": "Take in panoramic views of the surrounding historical district from this iconic clock tower, arriving late in the afternoon to catch the warm golden hour light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der faszinierenden geologischen Geschichte und den traditionellen Keramiken von Kütahya im Museumsviertel.\n\nGegen Mittag schlendern Sie durch die historischen Straßen und besuchen elegante Moscheen wie Dönenler und Analıca.\n\nAm Nachmittag setzen Sie Ihren Weg in Richtung Stadtzentrum fort und bewundern die Details von Sebilerenler und Ali Paşa Camii.\n\nBeenden Sie Ihren Rundgang am Abend am ikonischen Saat Kulesi und genießen Sie den Sonnenuntergang.",
+        "hu": "Kezdje a reggelt Kütahya geológiai történetének és hagyományos kerámiáinak felfedezésével a múzeumi negyedben.\n\nDél közeledtével sétáljon át a történelmi utcákon, hogy meglátogassa az olyan elegáns mecseteket, mint a Dönenler.\n\nDélután folytassa útját a központ felé, időt szánva a Sebilerenler és az Ali Paşa Camii részleteinek megcsodálására.\n\nFejezze be sétáját este az ikonikus Saat Kulesi óratoronynál, élvezve az aranyló naplemente fényeit a történelmi negyed felett.",
+        "ro": "Începeți dimineața explorând istoria geologică fascinantă a Kütahyei și ceramica tradițională din cartierul muzeelor.\n\nPe măsură ce se apropie prânzul, plimbați-vă pe străzile istorice pentru a vizita moschei elegante precum Dönenler.\n\nDupă-amiaza, continuați spre est, spre centrul orașului, admirând detaliile complicate de la Sebilerenler și Ali Paşa Camii.\n\nÎncheiați-vă turul seara la emblematicul Saat Kulesi, bucurându-vă de nuanțele aurii ale apusului de soare.",
+        "en": "Start your morning exploring Kütahya's fascinating geological history and traditional ceramics in the museum district.\n\nAs midday approaches, weave through the historic streets to visit elegant mosques like Dönenler and Analıca.\n\nIn the afternoon, continue east towards the city center, taking time to admire the intricate details of Sebilerenler and Ali Paşa Camii.\n\nConclude your walking tour in the evening at the iconic Saat Kulesi, enjoying the golden sunset hues over the historic streets."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:52",
+      "total_km": 2.19,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Aşağı-Hisar-Moschee",
+            "hu": "Aşağı Hisar Mecset",
+            "ro": "Moscheea Aşağı Hisar",
+            "en": "Aşağı Hisar Mosque"
+          },
+          "coords": [
+            29.970705,
+            39.421701
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante Nachbarschaftsmoschee, um echte lokale Ruhe abseits der Touristenpfade zu erleben, und sprechen Sie im Inneren bitte leise.",
+            "hu": "Látogasson el ebbe a bájos környékbeli mecsetbe, hogy megtapasztalja a valódi helyi nyugalmat távol a turistáktól, és ne felejtsen el halkan beszélni bent.",
+            "ro": "Vizitați această moschee de cartier pentru a experimenta liniștea locală autentică departe de rutele turistice principale, amintindu-vă să vorbiți încet.",
+            "en": "Visit this neighborhood mosque to experience genuine local tranquility away from the main tourist paths, remembering to keep your voice down inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Saadettin-Moschee",
+            "hu": "Saadettin Mecset",
+            "ro": "Moscheea Saadettin",
+            "en": "Saadettin Mosque"
+          },
+          "coords": [
+            29.976519,
+            39.420228
+          ],
+          "category": "religious",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.52,
+          "tip_5lang": {
+            "de": "Bewundern Sie die architektonischen Details und den friedlichen Innenhof dieser lokalen Moschee, ein idealer Ort für eine kurze Pause zwischen den Museen.",
+            "hu": "Értékelje e szeretett helyi mecset bonyolult építészeti részleteit és békés udvarát, amely ideális helyszín egy rövid pihenőre a múzeumi látogatások között.",
+            "ro": "Apreciați detaliile arhitecturale complicate și curtea liniștită a acestei moschei locale îndrăgite, un loc ideal pentru a scurtă odihnă între vizite.",
+            "en": "Appreciate the intricate architectural details and peaceful courtyard of this beloved local mosque, an ideal spot to take a quick rest between museum visits."
+          }
+        },
+        {
+          "name": {
+            "de": "Fliesenmuseum",
+            "hu": "Csempe Múzeum",
+            "ro": "Muzeul Ceramicii",
+            "en": "Tile Museum"
+          },
+          "coords": [
+            29.975156,
+            39.417432
+          ],
+          "category": "museum",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisiten Sammlungen traditioneller Kütahya-Fliesen in diesem historischen Rahmen und nehmen Sie sich Zeit für detaillierte Fotos.",
+            "hu": "Csodálja meg a hagyományos kütahyai csempék gyönyörű gyűjteményeit ebben a történelmi környezetben, időt szánva az élénk minták fotózására.",
+            "ro": "Admirați colecțiile rafinate de plăci ceramice tradiționale din Kütahya în acest cadru istoric, alocând timp pentru a fotografia modelele vibrante.",
+            "en": "Admire the exquisite collections of traditional Kütahya tiles in this historic setting, taking time to photograph the vibrant blue and white patterns."
+          }
+        },
+        {
+          "name": {
+            "de": "Geologiemuseum",
+            "hu": "Geológiai Múzeum",
+            "ro": "Muzeul de Geologie",
+            "en": "Geology Museum"
+          },
+          "coords": [
+            29.974462,
+            39.416141
+          ],
+          "category": "museum",
+          "arrive_at": "12:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Mineralienausstellungen zur geologischen Geschichte Kütahyas und achten Sie dabei besonders auf die interaktiven Displays.",
+            "hu": "Fedezze fel Kütahya geológiai történetét bemutató lenyűgöző ásványkiállításokat, és feltétlenül próbálja ki az interaktív kijelzőket a földszinten.",
+            "ro": "Explorați expozițiile fascinante de minerale care dezvăluie istoria geologică a Kütahyei și nu uitați să verificați ecranele interactive de la parter.",
+            "en": "Explore fascinating mineral exhibits that reveal Kütahya's geological history, and remember to check the interactive displays on the ground floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Dönenler-Moschee",
+            "hu": "Dönenler Mecset",
+            "ro": "Moscheea Dönenler",
+            "en": "Dönenler Mosque"
+          },
+          "coords": [
+            29.976723,
+            39.41711
+          ],
+          "category": "religious",
+          "arrive_at": "13:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die anmutige Architektur dieser historischen Moschee mit ihren Derwisch-Wurzeln, die Sie am besten während der ruhigen Morgenstunden besuchen.",
+            "hu": "Csodálja meg a kerengő dervisekhez köthető történelmi mecset elegáns építészetét, amelyet a legérdemesebb a csendes reggeli órákban meglátogatni.",
+            "ro": "Minunați-vă de arhitectura grațioasă a acestei moschei istorice, cunoscută pentru rădăcinile sale de derviși, vizitând-o de preferință dimineața devreme.",
+            "en": "Marvel at the graceful architecture of this historic mosque known for its unique whirling dervish roots, best visited during the quiet morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Sebilerenler-Moschee",
+            "hu": "Sebilerenler Mecset",
+            "ro": "Moscheea Sebilerenler",
+            "en": "Sebilerenler Mosque"
+          },
+          "coords": [
+            29.981537,
+            39.419731
+          ],
+          "category": "religious",
+          "arrive_at": "14:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.51,
+          "tip_5lang": {
+            "de": "Betrachten Sie die filigrane Steinmetzkunst und die osmanischen Elemente dieser wunderschönen Moschee, für deren Besuch Sie sich respektvoll kleiden sollten.",
+            "hu": "Figyelje meg ennek a gyönyörű mecsetnek a finom kőfaragásait és klasszikus oszmán elemeit, ügyelve a szerény öltözködésre a belépésnél.",
+            "ro": "Observați sculpturile fine în piatră și elementele otomane clasice ale acestei moschei frumoase, asigurându-vă că sunteți îmbrăcați decent la intrare.",
+            "en": "Observe the delicate stonework and classical Ottoman elements of this beautiful mosque, ensuring you dress modestly to enter and appreciate its details."
+          }
+        },
+        {
+          "name": {
+            "de": "Ali-Pascha-Moschee",
+            "hu": "Ali Pasa Mecset",
+            "ro": "Moscheea Ali Pașa",
+            "en": "Ali Pasha Mosque"
+          },
+          "coords": [
+            29.983805,
+            39.418724
+          ],
+          "category": "religious",
+          "arrive_at": "15:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Erleben Sie die spirituelle Ruhe in einer der prächtigsten Moscheen der Stadt mit ihren markanten Kuppeln, wobei Sie am Haupteingang Ihre Schuhe ausziehen sollten.",
+            "hu": "Tapasztalja meg a spirituális nyugalmat a város egyik legnagyobb, lenyűgöző kupolájú mecsetjében, ahol érdemes azonnal levenni a cipőt a főbejáratnál.",
+            "ro": "Experimentați calmul spiritual din interiorul uneia dintre cele mai mărețe moschei ale orașului, descălțându-vă prompt la intrarea principală pentru respect.",
+            "en": "Experience the spiritual calm inside one of the city’s grander mosques featuring striking domes, while removing your shoes promptly at the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrenturm",
+            "hu": "Óratorony",
+            "ro": "Turnul cu Ceas",
+            "en": "Clock Tower"
+          },
+          "coords": [
+            29.986358,
+            39.419374
+          ],
+          "category": "historical",
+          "arrive_at": "16:02",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem ikonischen Uhrenturm aus den Panoramablick über das historische Viertel, idealerweise am späten Nachmittag für das beste Licht.",
+            "hu": "Élvezze a környező történelmi negyedre nyíló panorámát ebből az ikonikus óratoronyból, ahová érdemes a késő délutáni órákban érkezni a meleg fényekért.",
+            "ro": "Bucurați-vă de vederile panoramice asupra cartierului istoric din acest turn cu ceas emblematic, ajungând târziu după-amiaza pentru lumina caldă a soarelui.",
+            "en": "Take in panoramic views of the surrounding historical district from this iconic clock tower, arriving late in the afternoon to catch the warm golden hour light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour an der ruhigen Aşağı Hisar Camii und genießen Sie die frische Morgenluft abseits der Massen.\n\nGegen Mittag fahren Sie ins kulturelle Zentrum, um atemberaubende Fliesensammlungen und geologische Ausstellungen zu erkunden.\n\nAm Nachmittag radeln Sie gemütlich zwischen wunderschönen historischen Moscheen umher und erleben das spirituelle Erbe.\n\nBeenden Sie Ihre Reise am Abend am Saat Kulesi, während die bunten Lichter das historische Zentrum erhellen.",
+        "hu": "Kezdje kerékpáros útvonalát a csendes Aşağı Hisar Camii-nél, élvezve a friss reggeli levegőt távol a tömegtől.\n\nDélben tekerjen a kulturális negyed szíve felé, hogy felfedezze a lenyűgöző csempegyűjteményeket és a geológiai kiállításokat.\n\nDélután kényelmesen pedálozzon a gyönyörű történelmi mecsetek között, megtapasztalva a város spirituális örökségét.\n\nFejezze be utazását az esti órákban a Saat Kulesi-nél, figyelve, ahogy a városi fények megvilágítják a központot.",
+        "ro": "Începeți traseul de ciclism la liniștita Aşağı Hisar Camii, bucurându-vă de aerul proaspăt al dimineții departe de aglomerație.\n\nLa prânz, mergeți spre inima cartierului cultural pentru a explora colecții uimitoare de plăci ceramice.\n\nDupă-amiaza, pedalați ușor între o serie de moschei istorice frumoase, experimentând moștenirea spirituală a orașului.\n\nÎncheiați-vă călătoria seara la Saat Kulesi, urmărind luminile vibrante care iluminează frumos centrul istoric.",
+        "en": "Kick off your cycling route at the tranquil Aşağı Hisar Camii, enjoying the crisp morning air away from the crowds.\n\nBy midday, ride towards the heart of the cultural district to explore stunning tile collections and deep geological roots.\n\nIn the afternoon, pedal smoothly between a series of beautiful historic mosques, experiencing the city's spiritual heritage.\n\nEnd your journey as evening falls at the Saat Kulesi, watching the vibrant city lights illuminate the historic center."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:29",
+      "total_km": 2.51,
+      "stop_count": 9,
+      "stops": [
+        {
+          "name": {
+            "de": "Uhrenturm",
+            "hu": "Óratorony",
+            "ro": "Turnul cu Ceas",
+            "en": "Clock Tower"
+          },
+          "coords": [
+            29.986358,
+            39.419374
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem ikonischen Uhrenturm aus den Panoramablick über das historische Viertel, idealerweise am späten Nachmittag für das beste Licht.",
+            "hu": "Élvezze a környező történelmi negyedre nyíló panorámát ebből az ikonikus óratoronyból, ahová érdemes a késő délutáni órákban érkezni a meleg fényekért.",
+            "ro": "Bucurați-vă de vederile panoramice asupra cartierului istoric din acest turn cu ceas emblematic, ajungând târziu după-amiaza pentru lumina caldă a soarelui.",
+            "en": "Take in panoramic views of the surrounding historical district from this iconic clock tower, arriving late in the afternoon to catch the warm golden hour light."
+          }
+        },
+        {
+          "name": {
+            "de": "Ali-Pascha-Moschee",
+            "hu": "Ali Pasa Mecset",
+            "ro": "Moscheea Ali Pașa",
+            "en": "Ali Pasha Mosque"
+          },
+          "coords": [
+            29.983805,
+            39.418724
+          ],
+          "category": "religious",
+          "arrive_at": "10:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Erleben Sie die spirituelle Ruhe in einer der prächtigsten Moscheen der Stadt mit ihren markanten Kuppeln, wobei Sie am Haupteingang Ihre Schuhe ausziehen sollten.",
+            "hu": "Tapasztalja meg a spirituális nyugalmat a város egyik legnagyobb, lenyűgöző kupolájú mecsetjében, ahol érdemes azonnal levenni a cipőt a főbejáratnál.",
+            "ro": "Experimentați calmul spiritual din interiorul uneia dintre cele mai mărețe moschei ale orașului, descălțându-vă prompt la intrarea principală pentru respect.",
+            "en": "Experience the spiritual calm inside one of the city’s grander mosques featuring striking domes, while removing your shoes promptly at the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Sebilerenler-Moschee",
+            "hu": "Sebilerenler Mecset",
+            "ro": "Moscheea Sebilerenler",
+            "en": "Sebilerenler Mosque"
+          },
+          "coords": [
+            29.981537,
+            39.419731
+          ],
+          "category": "religious",
+          "arrive_at": "11:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Betrachten Sie die filigrane Steinmetzkunst und die osmanischen Elemente dieser wunderschönen Moschee, für deren Besuch Sie sich respektvoll kleiden sollten.",
+            "hu": "Figyelje meg ennek a gyönyörű mecsetnek a finom kőfaragásait és klasszikus oszmán elemeit, ügyelve a szerény öltözködésre a belépésnél.",
+            "ro": "Observați sculpturile fine în piatră și elementele otomane clasice ale acestei moschei frumoase, asigurându-vă că sunteți îmbrăcați decent la intrare.",
+            "en": "Observe the delicate stonework and classical Ottoman elements of this beautiful mosque, ensuring you dress modestly to enter and appreciate its details."
+          }
+        },
+        {
+          "name": {
+            "de": "Meydan-Moschee",
+            "hu": "Meydan Mecset",
+            "ro": "Moscheea Meydan",
+            "en": "Meydan Mosque"
+          },
+          "coords": [
+            29.980291,
+            39.423004
+          ],
+          "category": "religious",
+          "arrive_at": "11:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses markante lokale Wahrzeichen, um seine detaillierte Handwerkskunst zu bewundern, wobei Sie Besuche während der Gebetszeiten meiden sollten.",
+            "hu": "Lépjen be ebbe a kiemelkedő helyi nevezetességbe a részletes kézműves munka megcsodálásához, és ügyeljen arra, hogy a rendszeres imaidőkön kívül érkezzen.",
+            "ro": "Pășiți în acest punct de reper local important pentru a-i admira măiestria detaliată, asigurându-vă că vizitați în afara orelor obișnuite de rugăciune.",
+            "en": "Step inside this prominent local landmark to admire its detailed craftsmanship, making sure to visit outside of the regular prayer times for a peaceful tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Saadettin-Moschee",
+            "hu": "Saadettin Mecset",
+            "ro": "Moscheea Saadettin",
+            "en": "Saadettin Mosque"
+          },
+          "coords": [
+            29.976519,
+            39.420228
+          ],
+          "category": "religious",
+          "arrive_at": "12:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Bewundern Sie die architektonischen Details und den friedlichen Innenhof dieser lokalen Moschee, ein idealer Ort für eine kurze Pause zwischen den Museen.",
+            "hu": "Értékelje e szeretett helyi mecset bonyolult építészeti részleteit és békés udvarát, amely ideális helyszín egy rövid pihenőre a múzeumi látogatások között.",
+            "ro": "Apreciați detaliile arhitecturale complicate și curtea liniștită a acestei moschei locale îndrăgite, un loc ideal pentru a scurtă odihnă între vizite.",
+            "en": "Appreciate the intricate architectural details and peaceful courtyard of this beloved local mosque, an ideal spot to take a quick rest between museum visits."
+          }
+        },
+        {
+          "name": {
+            "de": "Analıca-Moschee",
+            "hu": "Analıca Mecset",
+            "ro": "Moscheea Analıca",
+            "en": "Analıca Mosque"
+          },
+          "coords": [
+            29.977024,
+            39.41836
+          ],
+          "category": "religious",
+          "arrive_at": "13:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Entdecken Sie die friedliche Atmosphäre dieses alten Gotteshauses mit seinem bescheidenen Inneren, das sich perfekt für einen ruhigen Moment der Besinnung eignet.",
+            "hu": "Fedezze fel ezen ősi istentiszteleti hely békés légkörét és szerény belső terét, amely tökéletes egy kis csendes elmélkedéshez a séta folytatása előtt.",
+            "ro": "Descoperiți atmosfera senină a acestui vechi lăcaș de cult cu interiorul său modest, perfect pentru un moment de liniște înainte de a continua turul.",
+            "en": "Discover the serene atmosphere of this ancient place of worship with its modest interior, perfect for a moment of quiet reflection before continuing your tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Fliesenmuseum",
+            "hu": "Csempe Múzeum",
+            "ro": "Muzeul Ceramicii",
+            "en": "Tile Museum"
+          },
+          "coords": [
+            29.975156,
+            39.417432
+          ],
+          "category": "museum",
+          "arrive_at": "13:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisiten Sammlungen traditioneller Kütahya-Fliesen in diesem historischen Rahmen und nehmen Sie sich Zeit für detaillierte Fotos.",
+            "hu": "Csodálja meg a hagyományos kütahyai csempék gyönyörű gyűjteményeit ebben a történelmi környezetben, időt szánva az élénk minták fotózására.",
+            "ro": "Admirați colecțiile rafinate de plăci ceramice tradiționale din Kütahya în acest cadru istoric, alocând timp pentru a fotografia modelele vibrante.",
+            "en": "Admire the exquisite collections of traditional Kütahya tiles in this historic setting, taking time to photograph the vibrant blue and white patterns."
+          }
+        },
+        {
+          "name": {
+            "de": "Geologiemuseum",
+            "hu": "Geológiai Múzeum",
+            "ro": "Muzeul de Geologie",
+            "en": "Geology Museum"
+          },
+          "coords": [
+            29.974462,
+            39.416141
+          ],
+          "category": "museum",
+          "arrive_at": "15:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Mineralienausstellungen zur geologischen Geschichte Kütahyas und achten Sie dabei besonders auf die interaktiven Displays.",
+            "hu": "Fedezze fel Kütahya geológiai történetét bemutató lenyűgöző ásványkiállításokat, és feltétlenül próbálja ki az interaktív kijelzőket a földszinten.",
+            "ro": "Explorați expozițiile fascinante de minerale care dezvăluie istoria geologică a Kütahyei și nu uitați să verificați ecranele interactive de la parter.",
+            "en": "Explore fascinating mineral exhibits that reveal Kütahya's geological history, and remember to check the interactive displays on the ground floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Aşağı-Hisar-Moschee",
+            "hu": "Aşağı Hisar Mecset",
+            "ro": "Moscheea Aşağı Hisar",
+            "en": "Aşağı Hisar Mosque"
+          },
+          "coords": [
+            29.970705,
+            39.421701
+          ],
+          "category": "religious",
+          "arrive_at": "17:19",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.67,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante Nachbarschaftsmoschee, um echte lokale Ruhe abseits der Touristenpfade zu erleben, und sprechen Sie im Inneren bitte leise.",
+            "hu": "Látogasson el ebbe a bájos környékbeli mecsetbe, hogy megtapasztalja a valódi helyi nyugalmat távol a turistáktól, és ne felejtsen el halkan beszélni bent.",
+            "ro": "Vizitați această moschee de cartier pentru a experimenta liniștea locală autentică departe de rutele turistice principale, amintindu-vă să vorbiți încet.",
+            "en": "Visit this neighborhood mosque to experience genuine local tranquility away from the main tourist paths, remembering to keep your voice down inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour am berühmten Saat Kulesi und genießen Sie den fantastischen morgendlichen Blick auf die Stadt.\n\nGegen Mittag fahren Sie zu den nördlichen religiösen Stätten und wechseln bequem zwischen der Meydan Camii und den Schätzen der Altstadt.\n\nVerbringen Sie Ihren Nachmittag damit, in Kütahyas reiche Handwerkskunst im Keramik- und Geologiemuseum einzutauchen.\n\nLassen Sie Ihren Tag abends an der friedlichen Aşağı Hisar Camii ausklingen und genießen Sie die ruhige Atmosphäre.",
+        "hu": "Kezdje autós túráját a híres Saat Kulesi-nél, ahonnan fantasztikus reggeli kilátás nyílik az elterülő városra.\n\nDél körül navigáljon az északi vallási helyszínek felé, könnyedén váltva a Meydan Camii és az óváros kincsei között.\n\nDélután merüljön el Kütahya gazdag kézművességében a kerámiamúzeumban és a geológiai kiállításokon.\n\nZárja a napot este a békés Aşağı Hisar Camii-nél, magába szívva a csendes környék nyugodt, varázslatos hangulatát.",
+        "ro": "Începeți turul cu mașina la faimosul Saat Kulesi, obținând o priveliște fantastică de dimineață asupra orașului întins.\n\nÎn jurul prânzului, navigați către siturile religioase din nord, sărind ușor între Meydan Camii și comorile orașului vechi.\n\nPetreceți-vă după-amiaza cufundându-vă în bogata măiestrie a orașului Kütahya la muzeul de ceramică și expozițiile geologice.\n\nÎncheiați-vă ziua seara la liniștita Aşağı Hisar Camii, admirând atmosfera pașnică din acest cartier.",
+        "en": "Begin your driving tour at the famous Saat Kulesi, getting a fantastic morning view of the sprawling city below.\n\nAround midday, navigate to the northern religious sites, easily hopping between Meydan Camii and the old town's treasures.\n\nSpend your afternoon immersing yourself in Kütahya's rich craftsmanship at the ceramics museum and geological displays.\n\nWrap up your day at the peaceful Aşağı Hisar Camii in the evening, taking in the quiet neighborhood atmosphere."
+      }
+    }
+  }
+}

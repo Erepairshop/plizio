@@ -1,0 +1,474 @@
+{
+  "city_id": "united-kingdom-treyarnon-cities-v2",
+  "anchor": {
+    "name": "Treyarnon",
+    "coords": [
+      -5.01759,
+      50.52447
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:03",
+      "total_km": 2.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Porthcothan Beach",
+            "hu": "Porthcothan Beach",
+            "ro": "Plaja Porthcothan",
+            "en": "Porthcothan Beach"
+          },
+          "coords": [
+            -5.027295,
+            50.509868
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten Felsformationen in dieser geschützten Bucht, die eine fantastische Kulisse und tolle Möglichkeiten zum Erkunden von Felstümpeln bei Ebbe bietet, also prüfen Sie die Gezeiten.",
+            "hu": "Csodálja meg a védett öblöt szegélyező sziklaalakzatokat, amelyek fantasztikus látványt nyújtanak és kiváló lehetőséget adnak az apálykori medencék felfedezésére, ezért érdemes előtte megnézni az árapály-táblázatot.",
+            "ro": "Admirați formațiunile stâncoase impresionante care mărginesc acest golf adăpostit, oferind peisaje fantastice și o oportunitate excelentă de a explora micile bazine la reflux, așa că verificați mareea în prealabil.",
+            "en": "Admire the striking rock formations that line this sheltered cove, offering fantastic scenery and a great opportunity for rock pooling at low tide, so check the local tidal times beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Tidal pool",
+            "hu": "Tidal pool",
+            "ro": "Piscina naturală cu maree",
+            "en": "Tidal pool"
+          },
+          "coords": [
+            -5.028154,
+            50.511181
+          ],
+          "category": "landmark",
+          "arrive_at": "10:28",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Schwimmen Sie sicher in diesem natürlichen, in die Küstenfelsen gehauenen Salzwasserpool, der ein einzigartiges und erfrischendes Bad abseits der Strömungen bietet, aber achten Sie auf rutschige Steine.",
+            "hu": "Ússzon biztonságosan ebben a tengerparti sziklákba vájt természetes sós vizű medencében, amely egyedülálló, hűsítő mártózást kínál a tengeri áramlatoktól távol, de vigyázzon a csúszós kövekkel.",
+            "ro": "Înotați în siguranță în această piscină naturală cu apă sărată sculptată în stâncile de pe coastă, care oferă o baie răcoritoare ferită de curenții oceanici, dar aveți grijă la pietrele alunecoase.",
+            "en": "Swim safely in this natural saltwater pool carved into the coastal rocks, which provides a unique and refreshing dip away from the strong ocean currents, but be cautious on the slippery stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Fox Cove",
+            "hu": "Fox Cove",
+            "ro": "Fox Cove",
+            "en": "Fox Cove"
+          },
+          "coords": [
+            -5.027413,
+            50.519907
+          ],
+          "category": "recreational",
+          "arrive_at": "11:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.97,
+          "tip_5lang": {
+            "de": "Genießen Sie die raue Ruhe dieser abgelegenen Bucht, wo steile Klippen auf tosende Wellen treffen und atemberaubende Fotomotive bieten, also bringen Sie ein Weitwinkelobjektiv für die besten Aufnahmen mit.",
+            "hu": "Élvezze a zord nyugalmat ezen az eldugott partszakaszon, ahol meredek sziklák találkoznak a morajló hullámokkal, lélegzetelállító fotótémát nyújtva, így mindenképp hozzon magával nagylátószögű objektívet.",
+            "ro": "Bucurați-vă de liniștea aspră a acestui golf izolat, unde stâncile abrupte întâlnesc valurile zgomotoase, oferind oportunități fotografice uluitoare, așadar aduceți un obiectiv superangular pentru cele mai bune cadre.",
+            "en": "Enjoy the rugged tranquility of this secluded coastal inlet where steep cliffs meet the roaring waves, providing breathtaking photo opportunities, so bring a wide-angle lens for the best shots."
+          }
+        },
+        {
+          "name": {
+            "de": "Pepper Cove",
+            "hu": "Pepper Cove",
+            "ro": "Pepper Cove",
+            "en": "Pepper Cove"
+          },
+          "coords": [
+            -5.027639,
+            50.523404
+          ],
+          "category": "recreational",
+          "arrive_at": "12:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.39,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an dieser kleinen, malerischen Bucht, die eine ruhige Kerbe in der zerklüfteten Küste bildet und ideal für Vogelbeobachtungen ist, weshalb ein kleines Fernglas sehr nützlich ist.",
+            "hu": "Pihenjen meg ennél a kis, festői öbölnél, amely egy békés bevágást képez a csipkézett partvonalon, ideális a csendes elmélkedéshez és a tengeri madarak megfigyeléséhez, amihez jól jöhet egy kisebb távcső.",
+            "ro": "Relaxați-vă la acest mic golf pitoresc care formează o crestătură liniștită în coasta zimțată, ideal pentru contemplare și observarea păsărilor marine, făcând un mic binoclu un accesoriu extrem de util.",
+            "en": "Relax by this small, picturesque cove that forms a serene notch in the jagged coastline, ideal for quiet contemplation and watching seabirds, making a small pair of binoculars a highly useful addition."
+          }
+        },
+        {
+          "name": {
+            "de": "Treyarnon Beach",
+            "hu": "Treyarnon Beach",
+            "ro": "Plaja Treyarnon",
+            "en": "Treyarnon Beach"
+          },
+          "coords": [
+            -5.02477,
+            50.526688
+          ],
+          "category": "recreational",
+          "arrive_at": "13:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.42,
+          "tip_5lang": {
+            "de": "Spazieren Sie über den weitläufigen goldenen Sand dieses beliebten Familienstrandes, der für sein kristallklares Wasser und exzellente Surfbedingungen bekannt ist, obwohl frühes Erscheinen einen Parkplatz sichert.",
+            "hu": "Sétáljon egyet ennek a népszerű családi strandnak a kiterjedt aranyhomokján, amely kristálytiszta vizéről és kiváló szörfözési feltételeiről híres, bár érdemes korán érkezni a jó parkolóhelyért.",
+            "ro": "Plimbați-vă pe nisipurile aurii întinse ale acestei plaje populare pentru familii, renumită pentru apele sale cristaline și condițiile excelente de surf, deși sosirea devreme vă asigură un loc bun de parcare.",
+            "en": "Take a stroll on the expansive golden sands of this popular family beach, renowned for its pristine waters and excellent surfing conditions, though arriving early secures a good parking spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Constantine Bay",
+            "hu": "Constantine Bay",
+            "ro": "Constantine Bay",
+            "en": "Constantine Bay"
+          },
+          "coords": [
+            -5.024503,
+            50.534404
+          ],
+          "category": "recreational",
+          "arrive_at": "15:18",
+          "stay_min": 105,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.86,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die weiten Dünen und die mächtige Atlantikbrandung, die diese Bucht zu einem Surferparadies machen, aber achten Sie auf versteckte Strömungen, falls Sie in das verlockende Wasser gehen.",
+            "hu": "Csodálja meg a homokdűnéket és az Atlanti-óceán hatalmas hullámait, amelyek a szörfösök paradicsomává teszik ezt az öblöt, de ügyeljen a rejtett áramlatokra, ha bemegy a hívogató, de kihívást jelentő vízbe.",
+            "ro": "Minunați-vă de dunele întinse și de valurile puternice ale Atlanticului care fac din acest golf un paradis al surferilor, dar fiți atenți la curenții ascunși dacă vă decideți să intrați în apele provocatoare.",
+            "en": "Marvel at the sweeping dunes and powerful Atlantic swells that make this bay a surfer's paradise, but stay aware of the hidden rips if you decide to wade into the inviting yet challenging waters."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt am spektakulären Porthcothan Beach, bevor Sie zum natürlichen Gezeitenbecken weitergehen. Mittags passieren Sie die dramatischen Klippen von Fox Cove und die ruhige Pepper Cove. Am Nachmittag saugen Sie die Surf-Kultur am Treyarnon Beach auf. Der Abend endet an der weitläufigen Constantine Bay mit weitem Meerblick und einem grandiosen kornischen Sonnenuntergang.",
+        "hu": "A reggel a látványos Porthcothan Beach-en indul, majd a közeli természetes tengeri medencéhez vezet. A délidő a Fox Cove drámai szikláihoz és a békés Pepper Cove-hoz viszi. Délután élvezze a pezsgő szörfös kultúrát a Treyarnon Beach-en. Az este a tágas Constantine Bay-nél zárul, ahonnan csodálatos óceáni panoráma és egy lenyűgöző cornwalli naplemente tárul ön elé.",
+        "ro": "Dimineața începe la spectaculoasa plajă Porthcothan înainte de a vă îndrepta spre piscina naturală cu apă sărată. La amiază treceți pe lângă stâncile dramatice de la Fox Cove și liniștita Pepper Cove. După-amiaza, bucurați-vă de cultura vibrantă a surfului la Treyarnon Beach. Seara se încheie la Constantine Bay, cu vederi ample la ocean și un apus cornwallian spectaculos.",
+        "en": "Your morning starts at the spectacular Porthcothan Beach before moving to the natural tidal pool nearby. Midday takes you past the dramatic cliffs of Fox Cove and the serene Pepper Cove. In the afternoon, soak up the vibrant surf culture at Treyarnon Beach. The evening concludes at the expansive Constantine Bay, offering sweeping ocean views and a spectacular Cornish sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Porthcothan Beach",
+            "hu": "Porthcothan Beach",
+            "ro": "Plaja Porthcothan",
+            "en": "Porthcothan Beach"
+          },
+          "coords": [
+            -5.027295,
+            50.509868
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten Felsformationen in dieser geschützten Bucht, die eine fantastische Kulisse und tolle Möglichkeiten zum Erkunden von Felstümpeln bei Ebbe bietet, also prüfen Sie die Gezeiten.",
+            "hu": "Csodálja meg a védett öblöt szegélyező sziklaalakzatokat, amelyek fantasztikus látványt nyújtanak és kiváló lehetőséget adnak az apálykori medencék felfedezésére, ezért érdemes előtte megnézni az árapály-táblázatot.",
+            "ro": "Admirați formațiunile stâncoase impresionante care mărginesc acest golf adăpostit, oferind peisaje fantastice și o oportunitate excelentă de a explora micile bazine la reflux, așa că verificați mareea în prealabil.",
+            "en": "Admire the striking rock formations that line this sheltered cove, offering fantastic scenery and a great opportunity for rock pooling at low tide, so check the local tidal times beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Fox Cove",
+            "hu": "Fox Cove",
+            "ro": "Fox Cove",
+            "en": "Fox Cove"
+          },
+          "coords": [
+            -5.027413,
+            50.519907
+          ],
+          "category": "recreational",
+          "arrive_at": "10:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.12,
+          "tip_5lang": {
+            "de": "Genießen Sie die raue Ruhe dieser abgelegenen Bucht, wo steile Klippen auf tosende Wellen treffen und atemberaubende Fotomotive bieten, also bringen Sie ein Weitwinkelobjektiv für die besten Aufnahmen mit.",
+            "hu": "Élvezze a zord nyugalmat ezen az eldugott partszakaszon, ahol meredek sziklák találkoznak a morajló hullámokkal, lélegzetelállító fotótémát nyújtva, így mindenképp hozzon magával nagylátószögű objektívet.",
+            "ro": "Bucurați-vă de liniștea aspră a acestui golf izolat, unde stâncile abrupte întâlnesc valurile zgomotoase, oferind oportunități fotografice uluitoare, așadar aduceți un obiectiv superangular pentru cele mai bune cadre.",
+            "en": "Enjoy the rugged tranquility of this secluded coastal inlet where steep cliffs meet the roaring waves, providing breathtaking photo opportunities, so bring a wide-angle lens for the best shots."
+          }
+        },
+        {
+          "name": {
+            "de": "Treyarnon Beach",
+            "hu": "Treyarnon Beach",
+            "ro": "Plaja Treyarnon",
+            "en": "Treyarnon Beach"
+          },
+          "coords": [
+            -5.02477,
+            50.526688
+          ],
+          "category": "recreational",
+          "arrive_at": "11:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie über den weitläufigen goldenen Sand dieses beliebten Familienstrandes, der für sein kristallklares Wasser und exzellente Surfbedingungen bekannt ist, obwohl frühes Erscheinen einen Parkplatz sichert.",
+            "hu": "Sétáljon egyet ennek a népszerű családi strandnak a kiterjedt aranyhomokján, amely kristálytiszta vizéről és kiváló szörfözési feltételeiről híres, bár érdemes korán érkezni a jó parkolóhelyért.",
+            "ro": "Plimbați-vă pe nisipurile aurii întinse ale acestei plaje populare pentru familii, renumită pentru apele sale cristaline și condițiile excelente de surf, deși sosirea devreme vă asigură un loc bun de parcare.",
+            "en": "Take a stroll on the expansive golden sands of this popular family beach, renowned for its pristine waters and excellent surfing conditions, though arriving early secures a good parking spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Booby's Bay",
+            "hu": "Booby's Bay",
+            "ro": "Golful Booby's",
+            "en": "Booby's Bay"
+          },
+          "coords": [
+            -5.027236,
+            50.538371
+          ],
+          "category": "recreational",
+          "arrive_at": "13:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Schiffswracks, die gelegentlich durch den wechselnden Sand dieses dramatischen Strandes freigelegt werden, was ihn ideal für Küstenwanderer mit robustem, wasserdichtem Schuhwerk macht.",
+            "hu": "Fedezze fel azokat a lenyűgöző hajóroncsokat, amelyeket a drámai strand mozgó homokja időnként feltár, így kalandos hangulatot kínál, amely tökéletes a masszív, vízálló lábbelit viselő parti túrázóknak.",
+            "ro": "Explorați epavele fascinante scoase la iveală uneori de nisipurile mișcătoare ale acestei plaje dramatice, care oferă o atmosferă plină de aventură, perfectă pentru drumeții pe coastă cu încălțăminte rezistentă și impermeabilă.",
+            "en": "Explore the fascinating shipwrecks occasionally revealed by the shifting sands of this dramatic beach, which offers an adventurous atmosphere perfect for coastal hikers with sturdy, waterproof footwear."
+          }
+        },
+        {
+          "name": {
+            "de": "Mother Ivy's Bay",
+            "hu": "Mother Ivy's Bay",
+            "ro": "Golful Mother Ivy's",
+            "en": "Mother Ivy's Bay"
+          },
+          "coords": [
+            -5.016905,
+            50.545028
+          ],
+          "category": "recreational",
+          "arrive_at": "14:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die geschützte Wärme dieser unberührten, sanft geschwungenen Bucht, die durch Merope Rocks vor starken Winden geschützt ist, was sie zu einem perfekten Ort für ein entspanntes Picknick macht.",
+            "hu": "Élvezze ennek az érintetlen, finoman ívelő öbölnek a védett melegét, amelyet a Merope Rocks óv az erős szelektől, ami csodálatos helyszínt biztosít egy nyugodt piknikhez, ha saját élelmet visz magával.",
+            "ro": "Bucurați-vă de căldura adăpostită a acestui golf virgin și ușor curbat, ferit de vânturile puternice de Merope Rocks, ceea ce îl face un loc minunat pentru un picnic relaxat dacă vă aduceți propriile provizii.",
+            "en": "Bask in the sheltered warmth of this pristine, gently curving bay shielded from the strong winds by Merope Rocks, making it a wonderful spot for a relaxed picnic if you carry your own supplies down."
+          }
+        },
+        {
+          "name": {
+            "de": "Harlyn Bay",
+            "hu": "Harlyn Bay",
+            "ro": "Golful Harlyn",
+            "en": "Harlyn Bay"
+          },
+          "coords": [
+            -4.99944,
+            50.541779
+          ],
+          "category": "recreational",
+          "arrive_at": "15:54",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Küstenreise an diesem weitläufigen, halbmondförmigen Strand, der für seinen weicheren Sand und sicheres Schwimmen bekannt ist und einen wunderschönen Sonnenuntergang bietet, den man am besten mit einer leichten Jacke genießt.",
+            "hu": "Zárja parti utazását ezen a hatalmas, félhold alakú strandon, amely finomabb homokjáról és biztonságosabb fürdési lehetőségeiről ismert, valamint gyönyörű naplemente-kilátást nyújt, amit egy könnyű dzsekiben érdemes élvezni.",
+            "ro": "Încheiați-vă călătoria pe coastă la această plajă imensă în formă de semilună, cunoscută pentru nisipul său fin și un mediu de înot mai sigur, oferind o vedere superbă la apus de care e cel mai bine să vă bucurați cu o jachetă subțire.",
+            "en": "Conclude your coastal journey at this expansive, crescent-shaped beach known for its softer sands and safer swimming environment, providing a beautiful sunset view best enjoyed with a light jacket."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die morgendliche Radtour beginnt am Porthcothan Beach und führt Sie rasch an der Küste entlang nach Fox Cove. Bis Mittag radeln Sie zum Treyarnon Beach und zur rauen Schönheit von Booby's Bay. Am Nachmittag erreichen Sie die geschützte Mother Ivy's Bay für entspannte Erkundungen. Schließlich bricht der Abend über der goldenen Bucht von Harlyn Bay an, perfekt zum Entspannen.",
+        "hu": "A kora reggeli tekerés a Porthcothan Beach-en kezdődik, ahonnan a partvonal mentén a Fox Cove felé halad. Délben a Treyarnon Beach és a Booby's Bay zord szépsége várja önt. A délutáni túra a védett Mother Ivy's Bay-hez vezet egy pihentetőbb szakaszra. Végül az este a Harlyn Bay aranyos félholdjánál éri önt, amely tökéletes helyszín a kerékpározás utáni levezetéshez.",
+        "ro": "Pedalarea de dimineață începe la Porthcothan Beach, ducându-vă rapid pe coasta dramatică spre Fox Cove. La prânz, veți pedala până la Treyarnon Beach și frumusețea aspră de la Booby's Bay. Călătoria de după-amiază vă aduce în adăpostitul Mother Ivy's Bay pentru o explorare relaxată. În final, seara cade peste semiluna aurie de la Harlyn Bay, perfectă pentru relaxare.",
+        "en": "Morning pedals kick off at Porthcothan Beach, leading you swiftly up the dramatic coastline towards Fox Cove. By midday, you'll cycle into Treyarnon Beach and the rugged beauty of Booby's Bay. The afternoon journey brings you to the sheltered Mother Ivy's Bay for relaxed exploration. Finally, evening falls over the golden crescent of Harlyn Bay, perfect for unwinding after your ride."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:51",
+      "total_km": 7.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Porthcothan Beach",
+            "hu": "Porthcothan Beach",
+            "ro": "Plaja Porthcothan",
+            "en": "Porthcothan Beach"
+          },
+          "coords": [
+            -5.027295,
+            50.509868
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten Felsformationen in dieser geschützten Bucht, die eine fantastische Kulisse und tolle Möglichkeiten zum Erkunden von Felstümpeln bei Ebbe bietet, also prüfen Sie die Gezeiten.",
+            "hu": "Csodálja meg a védett öblöt szegélyező sziklaalakzatokat, amelyek fantasztikus látványt nyújtanak és kiváló lehetőséget adnak az apálykori medencék felfedezésére, ezért érdemes előtte megnézni az árapály-táblázatot.",
+            "ro": "Admirați formațiunile stâncoase impresionante care mărginesc acest golf adăpostit, oferind peisaje fantastice și o oportunitate excelentă de a explora micile bazine la reflux, așa că verificați mareea în prealabil.",
+            "en": "Admire the striking rock formations that line this sheltered cove, offering fantastic scenery and a great opportunity for rock pooling at low tide, so check the local tidal times beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Treyarnon Beach",
+            "hu": "Treyarnon Beach",
+            "ro": "Plaja Treyarnon",
+            "en": "Treyarnon Beach"
+          },
+          "coords": [
+            -5.02477,
+            50.526688
+          ],
+          "category": "recreational",
+          "arrive_at": "10:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Spazieren Sie über den weitläufigen goldenen Sand dieses beliebten Familienstrandes, der für sein kristallklares Wasser und exzellente Surfbedingungen bekannt ist, obwohl frühes Erscheinen einen Parkplatz sichert.",
+            "hu": "Sétáljon egyet ennek a népszerű családi strandnak a kiterjedt aranyhomokján, amely kristálytiszta vizéről és kiváló szörfözési feltételeiről híres, bár érdemes korán érkezni a jó parkolóhelyért.",
+            "ro": "Plimbați-vă pe nisipurile aurii întinse ale acestei plaje populare pentru familii, renumită pentru apele sale cristaline și condițiile excelente de surf, deși sosirea devreme vă asigură un loc bun de parcare.",
+            "en": "Take a stroll on the expansive golden sands of this popular family beach, renowned for its pristine waters and excellent surfing conditions, though arriving early secures a good parking spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Booby's Bay",
+            "hu": "Booby's Bay",
+            "ro": "Golful Booby's",
+            "en": "Booby's Bay"
+          },
+          "coords": [
+            -5.027236,
+            50.538371
+          ],
+          "category": "recreational",
+          "arrive_at": "11:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Schiffswracks, die gelegentlich durch den wechselnden Sand dieses dramatischen Strandes freigelegt werden, was ihn ideal für Küstenwanderer mit robustem, wasserdichtem Schuhwerk macht.",
+            "hu": "Fedezze fel azokat a lenyűgöző hajóroncsokat, amelyeket a drámai strand mozgó homokja időnként feltár, így kalandos hangulatot kínál, amely tökéletes a masszív, vízálló lábbelit viselő parti túrázóknak.",
+            "ro": "Explorați epavele fascinante scoase la iveală uneori de nisipurile mișcătoare ale acestei plaje dramatice, care oferă o atmosferă plină de aventură, perfectă pentru drumeții pe coastă cu încălțăminte rezistentă și impermeabilă.",
+            "en": "Explore the fascinating shipwrecks occasionally revealed by the shifting sands of this dramatic beach, which offers an adventurous atmosphere perfect for coastal hikers with sturdy, waterproof footwear."
+          }
+        },
+        {
+          "name": {
+            "de": "Mother Ivy's Bay",
+            "hu": "Mother Ivy's Bay",
+            "ro": "Golful Mother Ivy's",
+            "en": "Mother Ivy's Bay"
+          },
+          "coords": [
+            -5.016905,
+            50.545028
+          ],
+          "category": "recreational",
+          "arrive_at": "13:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die geschützte Wärme dieser unberührten, sanft geschwungenen Bucht, die durch Merope Rocks vor starken Winden geschützt ist, was sie zu einem perfekten Ort für ein entspanntes Picknick macht.",
+            "hu": "Élvezze ennek az érintetlen, finoman ívelő öbölnek a védett melegét, amelyet a Merope Rocks óv az erős szelektől, ami csodálatos helyszínt biztosít egy nyugodt piknikhez, ha saját élelmet visz magával.",
+            "ro": "Bucurați-vă de căldura adăpostită a acestui golf virgin și ușor curbat, ferit de vânturile puternice de Merope Rocks, ceea ce îl face un loc minunat pentru un picnic relaxat dacă vă aduceți propriile provizii.",
+            "en": "Bask in the sheltered warmth of this pristine, gently curving bay shielded from the strong winds by Merope Rocks, making it a wonderful spot for a relaxed picnic if you carry your own supplies down."
+          }
+        },
+        {
+          "name": {
+            "de": "Harlyn Bay",
+            "hu": "Harlyn Bay",
+            "ro": "Golful Harlyn",
+            "en": "Harlyn Bay"
+          },
+          "coords": [
+            -4.99944,
+            50.541779
+          ],
+          "category": "recreational",
+          "arrive_at": "14:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Küstenreise an diesem weitläufigen, halbmondförmigen Strand, der für seinen weicheren Sand und sicheres Schwimmen bekannt ist und einen wunderschönen Sonnenuntergang bietet, den man am besten mit einer leichten Jacke genießt.",
+            "hu": "Zárja parti utazását ezen a hatalmas, félhold alakú strandon, amely finomabb homokjáról és biztonságosabb fürdési lehetőségeiről ismert, valamint gyönyörű naplemente-kilátást nyújt, amit egy könnyű dzsekiben érdemes élvezni.",
+            "ro": "Încheiați-vă călătoria pe coastă la această plajă imensă în formă de semilună, cunoscută pentru nisipul său fin și un mediu de înot mai sigur, oferind o vedere superbă la apus de care e cel mai bine să vă bucurați cu o jachetă subțire.",
+            "en": "Conclude your coastal journey at this expansive, crescent-shaped beach known for its softer sands and safer swimming environment, providing a beautiful sunset view best enjoyed with a light jacket."
+          }
+        },
+        {
+          "name": {
+            "de": "St Merryn",
+            "hu": "St Merryn",
+            "ro": "St Merryn",
+            "en": "St Merryn"
+          },
+          "coords": [
+            -4.983536,
+            50.528791
+          ],
+          "category": "religious",
+          "arrive_at": "15:41",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie den historischen Charme dieses malerischen Binnendorfes, das sich um seine mittelalterliche Pfarrkirche gruppiert und als kultureller Anker für die Küstengemeinden dient, also respektieren Sie die ruhige Atmosphäre.",
+            "hu": "Fedezze fel ennek a középkori plébániatemploma köré épült, festői belföldi falunak a történelmi báját, amely a környező parti közösségek kulturális központjaként szolgál, ezért tisztelje a csendes, lakóövezeti hangulatot.",
+            "ro": "Descoperiți farmecul istoric al acestui sat pitoresc situat în interior, centrat în jurul bisericii sale parohiale medievale, care servește drept ancoră culturală pentru comunitățile de pe coastă, așa că respectați atmosfera rezidențială liniștită.",
+            "en": "Discover the historic charm of this quaint inland village focused around its medieval parish church, which acts as a cultural anchor for the surrounding coastal communities, so respect the quiet residential vibe."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt entlang der Küste beginnt am frühen Morgen am goldenen Sand des Porthcothan Beach. Mittags hüpfen Sie entlang der spektakulären Küste, um Treyarnon Beach und Booby's Bay zu besuchen. Der Nachmittag geht weiter mit der geschützten Ruhe der Mother Ivy's Bay und den Weiten der Harlyn Bay. Der Abend erreicht seinen Höhepunkt im Landesinneren mit dem historischen Charme von St Merryn.",
+        "hu": "A parti autózás kora reggel a Porthcothan Beach aranyhomokjánál kezdődik. Délben a látványos partvonal mentén ugrálva ellátogat a Treyarnon Beach-re és a Booby's Bay zord szakaszaira. A délután a Mother Ivy's Bay védett nyugalmával és a Harlyn Bay széles térségeivel folytatódik. Az este a belföldön, St Merryn történelmi bájával éri el csúcspontját.",
+        "ro": "Călătoria pe coastă cu mașina începe pe nisipurile aurii de la Porthcothan Beach în lumina dimineții. La prânz, săriți de-a lungul coastei spectaculoase pentru a vizita Treyarnon Beach și întinderile aspre de la Booby's Bay. După-amiaza continuă cu liniștea de la Mother Ivy's Bay și întinderile de la Harlyn Bay. Seara culminează în interiorul uscatului cu farmecul istoric al satului St Merryn.",
+        "en": "Your coastal drive begins with the golden sands of Porthcothan Beach in the early morning light. For midday, hop along the spectacular coastline to visit Treyarnon Beach and the rugged stretches of Booby's Bay. The afternoon continues with the sheltered tranquility of Mother Ivy's Bay and the wide expanses of Harlyn Bay. The evening culminates inland with the historic charm of St Merryn."
+      }
+    }
+  }
+}

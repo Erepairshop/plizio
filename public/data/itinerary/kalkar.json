@@ -1,0 +1,497 @@
+{
+  "city_id": "kalkar",
+  "anchor": {
+    "name": "Kalkar",
+    "coords": [
+      6.2925,
+      51.7389
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:03",
+      "total_km": 1.57,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața de chihlimbar",
+            "en": "Market Square"
+          },
+          "coords": [
+            6.291874,
+            51.738583
+          ],
+          "category": "Town hall & historic squares",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im pulsierenden Herzen der Stadt, um die historischen Fassaden zu bewundern, aber kommen Sie früh, um die friedliche Atmosphäre zu genießen.",
+            "hu": "Kezdje a napot a város nyüzsgő szívében, hogy megcsodálja a történelmi homlokzatokat, de érdemes kora reggel érkezni, mielőtt a kávézók megtelnek élettel.",
+            "ro": "Începeți ziua în inima vibrantă a orașului pentru a admira fațadele istorice, dar asigurați-vă că sosiți devreme dimineața pentru a evita aglomerația de la cafenele.",
+            "en": "Start your day at the vibrant heart of the city to admire the historic facades, but ensure you visit early morning to enjoy the peaceful atmosphere before the cafes fill up."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Rathaus",
+            "hu": "Történelmi Városháza",
+            "ro": "Primăria Istorică",
+            "en": "Historic Town Hall"
+          },
+          "coords": [
+            6.293035,
+            51.738872
+          ],
+          "category": "Town hall & historic squares",
+          "arrive_at": "09:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.08,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Backsteinarchitektur dieses gotischen Meisterwerks und werfen Sie unbedingt einen kurzen Blick hinein, um die mittelalterlichen Details zu sehen.",
+            "hu": "Csodálja meg ennek a gótikus remekműnek a lenyűgöző téglaépítészetét, és ne felejtsen el bepillantani az előcsarnokban szépen megőrzött középkori részletekre.",
+            "ro": "Admirați arhitectura impresionantă din cărămidă a acestei capodopere gotice și nu uitați să intrați scurt pentru a vedea detaliile medievale bine conservate din foaier.",
+            "en": "Marvel at the impressive brick architecture of this Gothic masterpiece, and remember to step inside briefly to see the striking medieval details well-preserved in the foyer."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Nicolai Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sf. Nicolae",
+            "en": "St. Nicolai Church"
+          },
+          "coords": [
+            6.291886,
+            51.737932
+          ],
+          "category": "Churches & monasteries",
+          "arrive_at": "10:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie die berühmten geschnitzten Holzaltäre, die diese Kirche zu einem regionalen Schatz machen, und bringen Sie ein Fernglas mit für die Details im Kirchenschiff.",
+            "hu": "Fedezze fel a híres faragott faoltárokat, amelyek ezt a templomot regionális kinccsé teszik, és hozzon magával egy kis távcsövet a magasban lévő finom részletekhez.",
+            "ro": "Explorați celebrele altare din lemn sculptat care fac din această biserică o comoară regională și aduceți un mic binoclu pentru a aprecia detaliile complicate de la înălțime.",
+            "en": "Explore the famous carved wooden altars that make this church a regional treasure, and bring a small pair of binoculars to appreciate the intricate details high up in the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Spielplatz am Stadtpark",
+            "hu": "Játszótér a Városligetnél",
+            "ro": "Teren de joacă la Parcul Orașului",
+            "en": "Spielplatz am Stadtpark"
+          },
+          "coords": [
+            6.292193,
+            51.73534
+          ],
+          "category": "family",
+          "arrive_at": "11:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.29,
+          "tip_5lang": {
+            "de": "Machen Sie eine entspannende Pause in diesem gepflegten Familienbereich mit viel Schatten, der sich perfekt als Ort für ein kurzes Picknick in der Mittagssonne eignet.",
+            "hu": "Tartson egy pihentető szünetet ezen a jól karbantartott, árnyékos családi területen, amely tökéletes hely a lábak pihentetésére egy gyors déli piknik keretében.",
+            "ro": "Luați o pauză relaxantă în această zonă de familie bine întreținută, care oferă multă umbră, fiind locul perfect pentru a vă odihni picioarele în timpul unui mic dejun târziu.",
+            "en": "Take a relaxing break in this well-maintained family area which offers plenty of shade, making it a perfect spot to rest your legs while enjoying a quick mid-day picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Mühlenstumpf",
+            "hu": "Malomrom",
+            "ro": "Ruina Morii",
+            "en": "Mühlenstumpf"
+          },
+          "coords": [
+            6.287276,
+            51.744207
+          ],
+          "category": "historical",
+          "arrive_at": "13:13",
+          "stay_min": 110,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.05,
+          "tip_5lang": {
+            "de": "Entdecken Sie die robusten Überreste dieser historischen Mühle, die einst die lokale Industrie antrieb, und gehen Sie um die Basis herum, um die massive Ingenieurskunst zu sehen.",
+            "hu": "Fedezze fel ennek a történelmi malomnak az erős maradványait, és sétáljon körbe az alapzatánál, hogy igazán megértse a tizenkilencedik századi mérnöki munka hatalmas léptékét.",
+            "ro": "Descoperiți rămășițele robuste ale acestei mori istorice care a alimentat cândva industria locală și plimbați-vă în jurul bazei sale pentru a înțelege scara ingineriei de atunci.",
+            "en": "Discover the sturdy remains of this historic mill which once powered local industry, and walk around its base to truly grasp the massive scale of 19th-century engineering."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt im historischen Zentrum, wo Sie die mittelalterliche Atmosphäre am Marktplatz, dem Rathaus und der prächtigen Nikolaikirche in vollen Zügen genießen können.\nAm Mittag machen Sie einen kurzen Spaziergang zum Park für etwas Entspannung und genießen die ruhigen Gassen von Kalkar.\nDer Nachmittag führt Sie ein Stück aus dem direkten Zentrum heraus zum historischen Mühlenstumpf, um die alten Stadtgrenzen zu erkunden.\nAm späten Nachmittag lassen Sie die Eindrücke in den Gassen langsam ausklingen und bewundern das späte Licht auf den wunderschönen Backsteinfassaden.",
+        "hu": "A reggele a történelmi központban kezdődik, ahol teljes mértékben átérezheti a középkori hangulatot a Piactéren, a Városházánál és a Szent Miklós-templom lenyűgöző terében.\nDélben tegyen egy rövid sétát a park felé egy kis pihenésért, élvezve Kalkar csendes és békés utcáit.\nDélután kissé távolabb merészkedik, hogy felfedezze a történelmi malomromot, megismerve a város régi határait.\nKéső délután lassan visszatér a városközpont közelébe, hogy megcsodálja a téglaépületeken megcsillanó késői napsugarakat.",
+        "ro": "Dimineața începe în centrul istoric, unde veți simți din plin atmosfera medievală la Piață, Primărie și magnifica Biserică Sf. Nicolae.\nLa prânz, faceți o scurtă plimbare spre parc pentru a vă relaxa, bucurându-vă de străzile liniștite și pitorești din Kalkar.\nDupă-amiaza vă îndepărtați puțin de centru pentru a vedea ruinele istoricei mori, explorând vechile limite ale așezării.\nSpre seară, încheiați ziua relaxant aproape de centrul orașului, admirând lumina caldă pe fațadele frumoase din cărămidă.",
+        "en": "Your morning starts in the historical center, feeling the rich medieval vibe at the central Market Square, the grand Town Hall, and St. Nicolai Church.\nBy midday, take a short, pleasant walk towards the local park for some relaxation, enjoying the quiet streets of Kalkar.\nThe afternoon heads out slightly to see the historical Mühlenstumpf, exploring the city's old industrial boundaries.\nIn the late afternoon, wind down as you slowly make your way back near the city center, admiring the late light on the brick facades."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:08",
+      "total_km": 10.43,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața de chihlimbar",
+            "en": "Market Square"
+          },
+          "coords": [
+            6.291874,
+            51.738583
+          ],
+          "category": "Town hall & historic squares",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im pulsierenden Herzen der Stadt, um die historischen Fassaden zu bewundern, aber kommen Sie früh, um die friedliche Atmosphäre zu genießen.",
+            "hu": "Kezdje a napot a város nyüzsgő szívében, hogy megcsodálja a történelmi homlokzatokat, de érdemes kora reggel érkezni, mielőtt a kávézók megtelnek élettel.",
+            "ro": "Începeți ziua în inima vibrantă a orașului pentru a admira fațadele istorice, dar asigurați-vă că sosiți devreme dimineața pentru a evita aglomerația de la cafenele.",
+            "en": "Start your day at the vibrant heart of the city to admire the historic facades, but ensure you visit early morning to enjoy the peaceful atmosphere before the cafes fill up."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Rathaus",
+            "hu": "Történelmi Városháza",
+            "ro": "Primăria Istorică",
+            "en": "Historic Town Hall"
+          },
+          "coords": [
+            6.293035,
+            51.738872
+          ],
+          "category": "Town hall & historic squares",
+          "arrive_at": "09:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.08,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Backsteinarchitektur dieses gotischen Meisterwerks und werfen Sie unbedingt einen kurzen Blick hinein, um die mittelalterlichen Details zu sehen.",
+            "hu": "Csodálja meg ennek a gótikus remekműnek a lenyűgöző téglaépítészetét, és ne felejtsen el bepillantani az előcsarnokban szépen megőrzött középkori részletekre.",
+            "ro": "Admirați arhitectura impresionantă din cărămidă a acestei capodopere gotice și nu uitați să intrați scurt pentru a vedea detaliile medievale bine conservate din foaier.",
+            "en": "Marvel at the impressive brick architecture of this Gothic masterpiece, and remember to step inside briefly to see the striking medieval details well-preserved in the foyer."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Nicolai Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sf. Nicolae",
+            "en": "St. Nicolai Church"
+          },
+          "coords": [
+            6.291886,
+            51.737932
+          ],
+          "category": "Churches & monasteries",
+          "arrive_at": "10:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie die berühmten geschnitzten Holzaltäre, die diese Kirche zu einem regionalen Schatz machen, und bringen Sie ein Fernglas mit für die Details im Kirchenschiff.",
+            "hu": "Fedezze fel a híres faragott faoltárokat, amelyek ezt a templomot regionális kinccsé teszik, és hozzon magával egy kis távcsövet a magasban lévő finom részletekhez.",
+            "ro": "Explorați celebrele altare din lemn sculptat care fac din această biserică o comoară regională și aduceți un mic binoclu pentru a aprecia detaliile complicate de la înălțime.",
+            "en": "Explore the famous carved wooden altars that make this church a regional treasure, and bring a small pair of binoculars to appreciate the intricate details high up in the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Mühlenstumpf",
+            "hu": "Malomrom",
+            "ro": "Ruina Morii",
+            "en": "Mühlenstumpf"
+          },
+          "coords": [
+            6.287276,
+            51.744207
+          ],
+          "category": "historical",
+          "arrive_at": "11:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die robusten Überreste dieser historischen Mühle, die einst die lokale Industrie antrieb, und gehen Sie um die Basis herum, um die massive Ingenieurskunst zu sehen.",
+            "hu": "Fedezze fel ennek a történelmi malomnak az erős maradványait, és sétáljon körbe az alapzatánál, hogy igazán megértse a tizenkilencedik századi mérnöki munka hatalmas léptékét.",
+            "ro": "Descoperiți rămășițele robuste ale acestei mori istorice care a alimentat cândva industria locală și plimbați-vă în jurul bazei sale pentru a înțelege scara ingineriei de atunci.",
+            "en": "Discover the sturdy remains of this historic mill which once powered local industry, and walk around its base to truly grasp the massive scale of 19th-century engineering."
+          }
+        },
+        {
+          "name": {
+            "de": "Wisseler See",
+            "hu": "Wissel-tó",
+            "ro": "Lacul Wissel",
+            "en": "Wisseler See"
+          },
+          "coords": [
+            6.292088,
+            51.762988
+          ],
+          "category": "recreational",
+          "arrive_at": "13:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Genießen Sie das ruhige Wasser an diesem wunderschönen lokalen See und überlegen Sie, für eine Stunde ein Tretboot zu mieten, um die malerische Küste vom Wasser aus zu sehen.",
+            "hu": "Élvezze a nyugodt vizeket és a szabadidős lehetőségeket ezen a gyönyörű helyi tavon, és érdemes egy órára vízibiciklit bérelni, hogy a festői partvonalat új szemszögből lássa.",
+            "ro": "Bucurați-vă de apele calme și de oportunitățile de recreere de la acest frumos lac local și luați în considerare închirierea unei hidrobiciclete pentru a vedea țărmul din larg.",
+            "en": "Enjoy the calm waters and recreational opportunities at this beautiful local lake, and consider renting a pedal boat for an hour to see the scenic shoreline from a new perspective."
+          }
+        },
+        {
+          "name": {
+            "de": "Wunderland Kalkar",
+            "hu": "Wunderland Kalkar",
+            "ro": "Wunderland Kalkar",
+            "en": "Wunderland Kalkar"
+          },
+          "coords": [
+            6.32611,
+            51.76417
+          ],
+          "category": "Parks, gardens, lakes nearby",
+          "arrive_at": "14:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die einzigartige Verwandlung eines nie genutzten Kernkraftwerks in einen Freizeitpark und fahren Sie unbedingt mit dem Kettenkarussell direkt im Kühlturm.",
+            "hu": "Tapasztalja meg egy soha nem használt atomerőmű vidámparkká történő egyedi átalakulását, és mindenképpen próbálja ki a hatalmas hűtőtorony belsejében található körhintát.",
+            "ro": "Experimentați transformarea unică a unei centrale nucleare nefolosite într-un parc de distracții și asigurați-vă că vă dați în caruselul situat chiar în interiorul turnului de răcire.",
+            "en": "Experience the unique transformation of a never-used nuclear power plant into an amusement park, and make sure to ride the swing carousel located right inside the massive cooling tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Boetzelaer",
+            "hu": "Boetzelaer Vár",
+            "ro": "Castelul Boetzelaer",
+            "en": "Burg Boetzelaer"
+          },
+          "coords": [
+            6.348053,
+            51.728636
+          ],
+          "category": "Castles & palaces",
+          "arrive_at": "16:18",
+          "stay_min": 110,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in dieser wunderschön restaurierten Wasserburg und spazieren Sie durch die ruhigen Außengärten, um atemberaubende Fotos der Reflexion im Wasser zu machen.",
+            "hu": "Lépjen vissza az időben ennél a gyönyörűen felújított vízivárnál, és sétáljon egyet a nyugodt külső kertekben, hogy lenyűgöző fényképeket készítsen a vízi tükröződésről.",
+            "ro": "Întoarceți-vă în timp la acest castel cu șanț frumos restaurat și faceți o plimbare prin grădinile exterioare liniștite pentru a surprinde fotografii uimitoare ale reflexiei sale.",
+            "en": "Step back in time at this beautifully restored moated castle, and take a stroll around the tranquil exterior gardens to capture stunning photographs of the reflection in the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Am Morgen erkunden Sie das historische Herz von Kalkar mit dem Fahrrad und konzentrieren sich auf die wichtigsten architektonischen Highlights im Zentrum.\nZur Mittagszeit radeln Sie aus der Stadt hinaus zum historischen Mühlenstumpf und fahren dann zügig weiter zum wunderschönen Wisseler See.\nDer Nachmittag bietet eine abenteuerliche Fahrt zum einzigartigen Wunderland Kalkar, dessen imposante Silhouette schon von weitem sichtbar ist.\nAm Abend erwartet Sie eine malerische Radtour zur ruhigen Burg Boetzelaer, um vor der Rückfahrt die herrliche Abendstimmung einzufangen.",
+        "hu": "Reggel kerékpárral gyorsan felfedezi Kalkar városközpontját, a legfontosabb építészeti látványosságokra és a középkori hangulatra összpontosítva.\nDélben kiteker a városból a történelmi malomromhoz, majd folytatja útját a gyönyörű Wissel-tó partjára, ahol megpihenhet.\nDélután izgalmas út várja a különleges Wunderland Kalkar felé, melynek impozáns sziluettje már messziről jól látható az úton.\nEste egy festői, hosszabb kerékpározás következik a békés Boetzelaer Várhoz, hogy elcsípje a naplementét a visszaindulás előtt.",
+        "ro": "Dimineața faceți o explorare rapidă pe bicicletă a centrului orașului Kalkar, concentrându-vă pe principalele atracții arhitecturale din zona veche.\nLa prânz ieșiți din oraș cu bicicleta spre ruinele istoricei mori și apoi mai departe spre frumosul și relaxantul Lac Wissel.\nDupă-amiaza vă aduce o plimbare aventuroasă către ineditul Wunderland Kalkar, văzându-i silueta impunătoare de la mare distanță.\nSeara, vă bucurați de o lungă și pitorească plimbare cu bicicleta spre seninul Castel Boetzelaer pentru a prinde apusul înainte de întoarcere.",
+        "en": "Your morning begins with a quick, breezy exploration of Kalkar's town center, focusing on the main architectural highlights on two wheels.\nBy midday, cycle just outside the city bounds to the historic Mühlenstumpf, and then onwards to relax by the beautiful Wisseler See.\nThe afternoon turns into an adventurous ride towards the unique Wunderland Kalkar, seeing its imposing silhouette from afar.\nYour evening is reserved for a long, scenic cycle to the serene Burg Boetzelaer to catch the magical sunset reflections before heading back."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 15.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Marktplatz",
+            "hu": "Piactér",
+            "ro": "Piața de chihlimbar",
+            "en": "Market Square"
+          },
+          "coords": [
+            6.291874,
+            51.738583
+          ],
+          "category": "Town hall & historic squares",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im pulsierenden Herzen der Stadt, um die historischen Fassaden zu bewundern, aber kommen Sie früh, um die friedliche Atmosphäre zu genießen.",
+            "hu": "Kezdje a napot a város nyüzsgő szívében, hogy megcsodálja a történelmi homlokzatokat, de érdemes kora reggel érkezni, mielőtt a kávézók megtelnek élettel.",
+            "ro": "Începeți ziua în inima vibrantă a orașului pentru a admira fațadele istorice, dar asigurați-vă că sosiți devreme dimineața pentru a evita aglomerația de la cafenele.",
+            "en": "Start your day at the vibrant heart of the city to admire the historic facades, but ensure you visit early morning to enjoy the peaceful atmosphere before the cafes fill up."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Nicolai Kirche",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Sf. Nicolae",
+            "en": "St. Nicolai Church"
+          },
+          "coords": [
+            6.291886,
+            51.737932
+          ],
+          "category": "Churches & monasteries",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die berühmten geschnitzten Holzaltäre, die diese Kirche zu einem regionalen Schatz machen, und bringen Sie ein Fernglas mit für die Details im Kirchenschiff.",
+            "hu": "Fedezze fel a híres faragott faoltárokat, amelyek ezt a templomot regionális kinccsé teszik, és hozzon magával egy kis távcsövet a magasban lévő finom részletekhez.",
+            "ro": "Explorați celebrele altare din lemn sculptat care fac din această biserică o comoară regională și aduceți un mic binoclu pentru a aprecia detaliile complicate de la înălțime.",
+            "en": "Explore the famous carved wooden altars that make this church a regional treasure, and bring a small pair of binoculars to appreciate the intricate details high up in the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Wunderland Kalkar",
+            "hu": "Wunderland Kalkar",
+            "ro": "Wunderland Kalkar",
+            "en": "Wunderland Kalkar"
+          },
+          "coords": [
+            6.32611,
+            51.76417
+          ],
+          "category": "Parks, gardens, lakes nearby",
+          "arrive_at": "10:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Erleben Sie die einzigartige Verwandlung eines nie genutzten Kernkraftwerks in einen Freizeitpark und fahren Sie unbedingt mit dem Kettenkarussell direkt im Kühlturm.",
+            "hu": "Tapasztalja meg egy soha nem használt atomerőmű vidámparkká történő egyedi átalakulását, és mindenképpen próbálja ki a hatalmas hűtőtorony belsejében található körhintát.",
+            "ro": "Experimentați transformarea unică a unei centrale nucleare nefolosite într-un parc de distracții și asigurați-vă că vă dați în caruselul situat chiar în interiorul turnului de răcire.",
+            "en": "Experience the unique transformation of a never-used nuclear power plant into an amusement park, and make sure to ride the swing carousel located right inside the massive cooling tower."
+          }
+        },
+        {
+          "name": {
+            "de": "Wisseler Dünen",
+            "hu": "Wissel-dűnék",
+            "ro": "Dunele Wissel",
+            "en": "Wisseler Dünen"
+          },
+          "coords": [
+            6.301088,
+            51.768573
+          ],
+          "category": "natural",
+          "arrive_at": "11:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Wandern Sie durch diese seltenen Binnendünen, die eine überraschende Sandlandschaft bieten, und tragen Sie feste Wanderschuhe, da die wechselnden Pfade herausfordernd sein können.",
+            "hu": "Barangoljon ezeken a ritka szárazföldi dűnéken, amelyek meglepő homokos tájat kínálnak, és viseljen masszív túracipőt, mivel a változó ösvények meglehetősen kihívást jelenthetnek.",
+            "ro": "Plimbați-vă prin aceste dune de nisip interioare rare, care oferă un peisaj surprinzător, și purtați pantofi rezistenți la mers, deoarece traseele pot fi destul de solicitante.",
+            "en": "Wander through these rare inland dunes which offer a surprising sandy landscape, and wear sturdy walking shoes as the shifting trails can be quite challenging for casual strolls."
+          }
+        },
+        {
+          "name": {
+            "de": "Wisseler See",
+            "hu": "Wissel-tó",
+            "ro": "Lacul Wissel",
+            "en": "Wisseler See"
+          },
+          "coords": [
+            6.292088,
+            51.762988
+          ],
+          "category": "recreational",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie das ruhige Wasser an diesem wunderschönen lokalen See und überlegen Sie, für eine Stunde ein Tretboot zu mieten, um die malerische Küste vom Wasser aus zu sehen.",
+            "hu": "Élvezze a nyugodt vizeket és a szabadidős lehetőségeket ezen a gyönyörű helyi tavon, és érdemes egy órára vízibiciklit bérelni, hogy a festői partvonalat új szemszögből lássa.",
+            "ro": "Bucurați-vă de apele calme și de oportunitățile de recreere de la acest frumos lac local și luați în considerare închirierea unei hidrobiciclete pentru a vedea țărmul din larg.",
+            "en": "Enjoy the calm waters and recreational opportunities at this beautiful local lake, and consider renting a pedal boat for an hour to see the scenic shoreline from a new perspective."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Boetzelaer",
+            "hu": "Boetzelaer Vár",
+            "ro": "Castelul Boetzelaer",
+            "en": "Burg Boetzelaer"
+          },
+          "coords": [
+            6.348053,
+            51.728636
+          ],
+          "category": "Castles & palaces",
+          "arrive_at": "14:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.6,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in dieser wunderschön restaurierten Wasserburg und spazieren Sie durch die ruhigen Außengärten, um atemberaubende Fotos der Reflexion im Wasser zu machen.",
+            "hu": "Lépjen vissza az időben ennél a gyönyörűen felújított vízivárnál, és sétáljon egyet a nyugodt külső kertekben, hogy lenyűgöző fényképeket készítsen a vízi tükröződésről.",
+            "ro": "Întoarceți-vă în timp la acest castel cu șanț frumos restaurat și faceți o plimbare prin grădinile exterioare liniștite pentru a surprinde fotografii uimitoare ale reflexiei sale.",
+            "en": "Step back in time at this beautifully restored moated castle, and take a stroll around the tranquil exterior gardens to capture stunning photographs of the reflection in the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Botzelaer Meer",
+            "hu": "Botzelaer-tó",
+            "ro": "Marea Botzelaer",
+            "en": "Botzelaer Meer"
+          },
+          "coords": [
+            6.355294,
+            51.731941
+          ],
+          "category": "natural",
+          "arrive_at": "15:49",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beobachten Sie die lebhafte lokale Vogelwelt an diesem friedlichen Naturschutzsee und bringen Sie in den Sommermonaten Mückenschutzmittel mit, um die Natur ungestört zu genießen.",
+            "hu": "Figyelje meg a nyüzsgő helyi madárvilágot ennél a békés természetvédelmi tónál, és hozzon magával szúnyogriasztót a nyári hónapokban, hogy kényelmesen élvezhesse a látványt.",
+            "ro": "Urmăriți avifauna locală vibrantă la acest lac de rezervație naturală liniștit și aduceți un repelent de țânțari în timpul verii pentru a vă bucura de observarea naturii.",
+            "en": "Watch the vibrant local birdlife at this peaceful natural reserve lake, and bring mosquito repellent during the summer months to enjoy your nature observation comfortably."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen bietet einen effizienten Besuch im kompakten Herzen von Kalkar, bevor Sie mit dem Auto zum spektakulären und einzigartigen Wunderland aufbrechen.\nZur Mittagszeit machen Sie eine kurze Fahrt zur natürlichen Seite der Region und erkunden die überraschenden Wisseler Dünen und den nahegelegenen See.\nAm Nachmittag gleiten Sie bequem durch die ländliche Umgebung, um die wunderschön restaurierte Anlage von Burg Boetzelaer zu erreichen.\nDer Abend endet mit einem entspannenden Halt am Botzelaer Meer, wo Sie in Ruhe die reiche Geschichte und unberührte Natur der Region reflektieren können.",
+        "hu": "A reggel egy hatékony városnézéssel indul Kalkar szívében, mielőtt autóval a látványos és egyedülálló Wunderland vidámpark felé veszi az irányt.\nDélben egy rövid autózással a régió természetesebb arca felé fordul, felfedezve a meglepő Wissel-dűnéket és a közeli tavat.\nDélután kényelmesen utazhat a vidéki utakon, hogy elérje a gyönyörűen felújított, történelmi atmoszférájú Boetzelaer Várat.\nAz este egy pihentető megállóval zárul a Botzelaer-tó partján, ahol csendben visszagondolhat a régió gazdag történelmére és csodás természetére.",
+        "ro": "Dimineața oferă o vizită eficientă în inima compactă a orașului Kalkar, înainte de a porni cu mașina spre spectaculosul și ineditul parc Wunderland.\nLa prânz, faceți o scurtă călătorie spre latura naturală a regiunii, explorând surprinzătoarele dune Wissel și lacul din imediata apropiere.\nDupă-amiaza conduceți confortabil prin peisajul rural pentru a ajunge la castelul frumos restaurat, Burg Boetzelaer.\nSeara se încheie cu o oprire relaxantă la Botzelaer Meer, reflectând în liniște asupra istoriei bogate și a naturii nealterate din această regiune.",
+        "en": "Your morning allows for an efficient and rewarding visit to the heart of Kalkar before hitting the road to the spectacular Wunderland amusement park.\nBy midday, take a very short drive to the natural side of the region, exploring the surprising landscape of the Wisseler Dünen and Lake.\nThe afternoon lets you cruise comfortably through the calm countryside to reach the beautifully restored historic grounds of Burg Boetzelaer.\nYour evening ends perfectly with a relaxing stop at Botzelaer Meer, reflecting on the region's rich combination of history and serene nature."
+      }
+    }
+  }
+}

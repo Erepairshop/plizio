@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-gran-alacant-cities-v2",
+  "anchor": {
+    "name": "Gran Alacant",
+    "coords": [
+      -0.52654,
+      38.22985
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 5.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rastrilo - mercadillo 2ª mano",
+            "hu": "Rastrilo - mercadillo 2ª mano",
+            "ro": "Rastrilo - mercadillo 2ª mano",
+            "en": "Rastrilo - mercadillo 2ª mano"
+          },
+          "coords": [
+            -0.519387,
+            38.222836
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Stöbern Sie auf diesem lebhaften Flohmarkt nach vielseitigen Schätzen, aber kommen Sie am besten früh, um die besten antiken Schnäppchen zu ergattern.",
+            "hu": "Böngésszen a nyüzsgő bolhapiac eklektikus és vintage kínálatában, de érkezzen korán, hogy lecsaphasson a legjobb régiségekre.",
+            "ro": "Explorați obiectele vintage la această piață de vechituri plină de viață, dar asigurați-vă că ajungeți devreme pentru cele mai bune chilipiruri.",
+            "en": "Browse through eclectic vintage items at this bustling flea market, but make sure to arrive early to score the best antique bargains."
+          }
+        },
+        {
+          "name": {
+            "de": "Cova de les Aranyes",
+            "hu": "Cova de les Aranyes",
+            "ro": "Cova de les Aranyes",
+            "en": "Cova de les Aranyes"
+          },
+          "coords": [
+            -0.516691,
+            38.226008
+          ],
+          "category": "natural",
+          "arrive_at": "10:06",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende Küstenhöhle mit ihren einzigartigen Felsformationen und achten Sie auf dem unebenen Pfad stets auf Ihre Schritte.",
+            "hu": "Fedezze fel ezt a lenyűgöző, egyedi sziklaképződményeiről ismert tengerparti barlangot, és ügyeljen a lépéseire a lefelé vezető egyenetlen ösvényen.",
+            "ro": "Explorați această peșteră de coastă fascinantă pentru formațiunile sale stâncoase unice, având mare grijă pe poteca accidentată care coboară.",
+            "en": "Explore this fascinating coastal cave known for its unique rock formations, and watch your step on the uneven path leading down."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala de la Mare de Déu",
+            "hu": "Cala de la Mare de Déu",
+            "ro": "Cala de la Mare de Déu",
+            "en": "Cala de la Mare de Déu"
+          },
+          "coords": [
+            -0.510581,
+            38.224672
+          ],
+          "category": "recreational",
+          "arrive_at": "10:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie in dieser ruhigen Bucht mit kristallklarem Wasser und bringen Sie eigene Snacks mit, da es hier keine touristischen Einrichtungen gibt.",
+            "hu": "Pihenjen ebben a kristálytiszta vizű, békés öbölben, és hozzon magával saját vizet és harapnivalót, mivel nincsenek kiépített létesítmények.",
+            "ro": "Relaxați-vă în acest golf liniștit, cu ape cristaline, și aduceți-vă propria apă și gustări, deoarece nu există facilități comerciale aici.",
+            "en": "Relax in this peaceful, secluded cove with crystal-clear waters, packing your own water and snacks as there are no facilities."
+          }
+        },
+        {
+          "name": {
+            "de": "Caletes del Cap",
+            "hu": "Caletes del Cap",
+            "ro": "Caletes del Cap",
+            "en": "Caletes del Cap"
+          },
+          "coords": [
+            -0.507657,
+            38.214472
+          ],
+          "category": "recreational",
+          "arrive_at": "12:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese felsige, abgelegene Bucht, die perfekt zum Schnorcheln ist, und tragen Sie Badeschuhe für den kiesigen Küstenstreifen.",
+            "hu": "Fedezze fel ezt a csendes, sziklás öblöt, amely tökéletes a sznorkelezéshez, és viseljen vízi cipőt a kavicsos partvonalon való navigáláshoz.",
+            "ro": "Descoperiți acest golf stâncos liniștit, perfect pentru snorkeling departe de mulțimi, și purtați încălțăminte de apă pentru țărmul cu pietriș.",
+            "en": "Discover this quiet rocky bay perfect for snorkeling away from the crowds, and bring water shoes to navigate the pebbly shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador del Escolgador de Cristo",
+            "hu": "Mirador del Escolgador de Cristo",
+            "ro": "Mirador del Escolgador de Cristo",
+            "en": "Mirador del Escolgador de Cristo"
+          },
+          "coords": [
+            -0.515196,
+            38.213737
+          ],
+          "category": "natural",
+          "arrive_at": "13:34",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie spektakuläre Panoramablicke auf das Meer von diesem Aussichtspunkt, aber halten Sie Ihren Hut bei den oft starken Winden gut fest.",
+            "hu": "Élvezze a Földközi-tengerre nyíló látványos panorámát erről a sziklafalon lévő kilátóról, de az erős szélben fogja meg jól a kalapját.",
+            "ro": "Bucurați-vă de vederi panoramice spectaculoase asupra Mării Mediterane de la acest punct de belvedere, ținându-vă bine pălăria în briza puternică.",
+            "en": "Enjoy spectacular panoramic views of the Mediterranean Sea from this cliffside viewpoint, keeping a tight grip on your hat in the strong breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja del Carabassí",
+            "hu": "Platja del Carabassí",
+            "ro": "Platja del Carabassí",
+            "en": "Platja del Carabassí"
+          },
+          "coords": [
+            -0.513673,
+            38.235517
+          ],
+          "category": "recreational",
+          "arrive_at": "14:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf den Sanddünen dieses Strandes und steuern Sie das Südende an, wenn Sie den offiziellen FKK-Bereich bevorzugen.",
+            "hu": "Kapcsolódjon ki az érintetlen természetes strand aranyhomokos dűnéin, és vegye az irányt a déli vég felé, ha a naturista szakaszt részesíti előnyben.",
+            "ro": "Relaxează-te pe dunele de nisip auriu la această plajă naturală curată și îndreaptă-te spre capătul sudic dacă preferi secțiunea pentru nudiști.",
+            "en": "Unwind on golden sand dunes at this pristine natural beach, and head towards the southern end if you prefer the naturist section."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie am lebhaften Rastrilo-Markt, bevor Sie die mysteriöse Cova de les Aranyes erkunden. Der Mittag lädt zum Baden in den abgelegenen Buchten Cala de la Mare de Déu und Caletes del Cap ein. Am Nachmittag genießen Sie die atemberaubende Aussicht am Mirador del Escolgador de Cristo. Beenden Sie Ihren Tag auf den goldenen Dünen der Platja del Carabassí bei einer kühlen Abendbrise.",
+        "hu": "Kezdje a napot a nyüzsgő Rastrilo piacon, mielőtt felfedezné a titokzatos Cova de les Aranyes-t. Délben a Cala de la Mare de Déu és a Caletes del Cap eldugott vizei hívogatnak. Délután gyönyörködjön a Mirador del Escolgador de Cristo kilátásában. Zárja aktív napját a Platja del Carabassí aranyhomokos dűnéin pihenve, miközben az esti szellő lehűti a partot.",
+        "ro": "Începeți dimineața la piața vibrantă Rastrilo, înainte de a explora misterioasa Cova de les Aranyes. Amiaza vă invită la apele retrase din Cala de la Mare de Déu și Caletes del Cap. După-amiază, admirați priveliștile de la Mirador del Escolgador de Cristo. Încheiați-vă ziua activă relaxându-vă pe dunele aurii de la Platja del Carabassí în briza răcoroasă de seară.",
+        "en": "Start your morning at the vibrant Rastrilo market before exploring the mysterious Cova de les Aranyes. Midday invites you to the secluded waters of Cala de la Mare de Déu and Caletes del Cap. In the afternoon, take in the views at Mirador del Escolgador de Cristo. Conclude your active day relaxing on the golden dunes of Platja del Carabassí as the evening breeze cools the coast."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:52",
+      "total_km": 3.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Clot de Galvany",
+            "hu": "Clot de Galvany",
+            "ro": "Clot de Galvany",
+            "en": "Clot de Galvany"
+          },
+          "coords": [
+            -0.526858,
+            38.25148
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses Naturreservat, um Zugvögel zu beobachten, und bringen Sie ein Fernglas für die geschützten Vogelbeobachtungsstände mit.",
+            "hu": "Sétáljon végig ezen a vizes élőhelyen, hogy költöző madarakat figyeljen meg, és hozzon távcsövet a madárlesekről történő legjobb kilátásért.",
+            "ro": "Plimbați-vă prin această rezervație pentru a observa păsări migratoare, aducând binocluri pentru cea mai bună vizionare din ascunzători.",
+            "en": "Wander through this diverse wetland reserve to spot migratory birds, bringing binoculars for the best wildlife viewing from the hides."
+          }
+        },
+        {
+          "name": {
+            "de": "els Bassars - Clot de Galvany",
+            "hu": "els Bassars - Clot de Galvany",
+            "ro": "els Bassars - Clot de Galvany",
+            "en": "els Bassars - Clot de Galvany"
+          },
+          "coords": [
+            -0.538436,
+            38.24647
+          ],
+          "category": "natural",
+          "arrive_at": "10:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Beobachten Sie hier das einzigartige Salzwiesen-Ökosystem und bleiben Sie auf den markierten Holzstegen, um die empfindliche Natur zu schützen.",
+            "hu": "Figyelje meg a helyi növényvilágban bővelkedő egyedi sós mocsár ökoszisztémát, szigorúan a kijelölt fapallókon maradva a környezet védelme érdekében.",
+            "ro": "Observați ecosistemul unic de mlaștină sărată plin de floră locală, rămânând pe aleile din lemn marcate pentru a proteja mediul fragil.",
+            "en": "Observe the unique salt marsh ecosystem teeming with local flora, sticking to the marked wooden boardwalks to protect the fragile environment."
+          }
+        },
+        {
+          "name": {
+            "de": "Trincheras guerra civil española",
+            "hu": "Trincheras guerra civil española",
+            "ro": "Trincheras guerra civil española",
+            "en": "Trincheras guerra civil española"
+          },
+          "coords": [
+            -0.539748,
+            38.246459
+          ],
+          "category": "historical",
+          "arrive_at": "11:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Reisen Sie an diesen Küstenschützengräben aus dem Bürgerkrieg in die Vergangenheit und tragen Sie festes Schuhwerk für das unebene, felsige Terrain.",
+            "hu": "Lépjen vissza az időben a spanyol polgárháború part menti lövészárkainál, és viseljen masszív cipőt a sziklás maradványok biztonságos felfedezéséhez.",
+            "ro": "Pășiți în trecut la aceste tranșee de coastă păstrate din Războiul Civil Spaniol, purtând încălțăminte robustă pentru a explora în siguranță rocile.",
+            "en": "Step back in time at these preserved Spanish Civil War coastal trenches, wearing sturdy shoes to safely explore the rocky remnants."
+          }
+        },
+        {
+          "name": {
+            "de": "Factoría romana",
+            "hu": "Factoría romana",
+            "ro": "Factoría romana",
+            "en": "Factoría romana"
+          },
+          "coords": [
+            -0.542836,
+            38.247573
+          ],
+          "category": "historical",
+          "arrive_at": "13:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die Ruinen der römischen Fischsalzfabrik und stellen Sie sich das geschäftige Treiben bei den historischen Steinbecken vor.",
+            "hu": "Vizsgálja meg e római halfeldolgozó gyár ősi romjait, elképzelve az egykori nyüzsgő kereskedelmet a történelmi kőmedencék mellett állva.",
+            "ro": "Examinați ruinele antice ale acestei fabrici romane de sărare a peștelui, imaginându-vă comerțul plin de viață stând lângă cuvele istorice de piatră.",
+            "en": "Examine the ancient ruins of this Roman fish-salting factory, imagining the bustling trade while standing by the historical stone vats."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador 2C",
+            "hu": "Mirador 2C",
+            "ro": "Mirador 2C",
+            "en": "Mirador 2C"
+          },
+          "coords": [
+            -0.526898,
+            38.245187
+          ],
+          "category": "natural",
+          "arrive_at": "14:37",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Blick über die Salzpfannen und das Meer von diesem Aussichtspunkt, der sich besonders bei tief stehender Sonne für Fotos anbietet.",
+            "hu": "Élvezze a sólepárlókra és a tengerre nyíló lenyűgöző kilátást erről a magaslati pontról, ahová naplementekor érdemes ellátogatni fantasztikus fotókért.",
+            "ro": "Bucurați-vă de priveliștile uimitoare asupra salinelor și mării din acest loc înalt, vizitându-l în preajma apusului pentru fotografii incredibile.",
+            "en": "Take in the stunning sweeping vistas over the salt flats and the sea from this elevated spot, visiting around sunset for incredible photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja dels Arenals del Sol",
+            "hu": "Platja dels Arenals del Sol",
+            "ro": "Platja dels Arenals del Sol",
+            "en": "Platja dels Arenals del Sol"
+          },
+          "coords": [
+            -0.515975,
+            38.249546
+          ],
+          "category": "recreational",
+          "arrive_at": "15:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem langen Sandstrand mit Top-Einrichtungen entlang und kehren Sie für ein kühles Getränk in ein gemütliches Promenade-Café ein.",
+            "hu": "Sétáljon végig ezen a hosszú homokos strandon, amely kiváló parti kényelmi szolgáltatásokkal várja, majd álljon meg egy sétányi kávézóban egy frissítőre.",
+            "ro": "Plimbați-vă de-a lungul acestei lungi plaje cu nisip cu facilități excelente, oprindu-vă la una dintre cafenelele de pe promenadă pentru o băutură rece.",
+            "en": "Stroll along this long sandy beach with excellent seaside amenities, stopping at one of the promenade cafes for a refreshing local drink."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Tag, indem Sie durch die üppigen Feuchtgebiete von Clot de Galvany und els Bassars radeln. Mittags tauchen Sie an den Bürgerkriegsgräben und den römischen Fabrikruinen in die Geschichte ein. Der Nachmittag bietet eine lohnende Fahrt zum Mirador 2C für atemberaubende Panoramen. Beenden Sie Ihr Radabenteuer mit einem entspannten Abendspaziergang an der Platja dels Arenals del Sol.",
+        "hu": "Kezdje a napot a Clot de Galvany és az els Bassars buja vizenyős területein való kerékpározással. Délben merüljön el a történelemben a polgárháborús lövészárkoknál és a római gyárromoknál. A délután jutalmazó utat kínál a Mirador 2C-hez a lélegzetelállító panorámáért. Fejezze be kerékpáros kalandját egy pihentető esti sétával a Platja dels Arenals del Sol partján.",
+        "ro": "Începeți-vă ziua pedalând prin zonele umede luxuriante de la Clot de Galvany și els Bassars. La amiază, pătrundeți în istorie la tranșeele războiului civil și ruinele fabricii romane. După-amiaza oferă o plimbare plină de satisfacții la Mirador 2C pentru panorame uluitoare. Încheiați aventura cu o plimbare relaxantă de seară de-a lungul Platja dels Arenals del Sol.",
+        "en": "Kick off your day pedaling through the lush wetlands of Clot de Galvany and els Bassars. By midday, delve into history at the Civil War trenches and the fascinating Roman factory ruins. The afternoon features a rewarding ride to the scenic Mirador 2C for breathtaking panoramas. Finish your cycling adventure with a relaxing evening stroll along Platja dels Arenals del Sol."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:53",
+      "total_km": 6.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Factoría romana",
+            "hu": "Factoría romana",
+            "ro": "Factoría romana",
+            "en": "Factoría romana"
+          },
+          "coords": [
+            -0.542836,
+            38.247573
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die Ruinen der römischen Fischsalzfabrik und stellen Sie sich das geschäftige Treiben bei den historischen Steinbecken vor.",
+            "hu": "Vizsgálja meg e római halfeldolgozó gyár ősi romjait, elképzelve az egykori nyüzsgő kereskedelmet a történelmi kőmedencék mellett állva.",
+            "ro": "Examinați ruinele antice ale acestei fabrici romane de sărare a peștelui, imaginându-vă comerțul plin de viață stând lângă cuvele istorice de piatră.",
+            "en": "Examine the ancient ruins of this Roman fish-salting factory, imagining the bustling trade while standing by the historical stone vats."
+          }
+        },
+        {
+          "name": {
+            "de": "Trincheras guerra civil española",
+            "hu": "Trincheras guerra civil española",
+            "ro": "Trincheras guerra civil española",
+            "en": "Trincheras guerra civil española"
+          },
+          "coords": [
+            -0.539748,
+            38.246459
+          ],
+          "category": "historical",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Reisen Sie an diesen Küstenschützengräben aus dem Bürgerkrieg in die Vergangenheit und tragen Sie festes Schuhwerk für das unebene, felsige Terrain.",
+            "hu": "Lépjen vissza az időben a spanyol polgárháború part menti lövészárkainál, és viseljen masszív cipőt a sziklás maradványok biztonságos felfedezéséhez.",
+            "ro": "Pășiți în trecut la aceste tranșee de coastă păstrate din Războiul Civil Spaniol, purtând încălțăminte robustă pentru a explora în siguranță rocile.",
+            "en": "Step back in time at these preserved Spanish Civil War coastal trenches, wearing sturdy shoes to safely explore the rocky remnants."
+          }
+        },
+        {
+          "name": {
+            "de": "Clot de Galvany",
+            "hu": "Clot de Galvany",
+            "ro": "Clot de Galvany",
+            "en": "Clot de Galvany"
+          },
+          "coords": [
+            -0.526858,
+            38.25148
+          ],
+          "category": "natural",
+          "arrive_at": "11:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses Naturreservat, um Zugvögel zu beobachten, und bringen Sie ein Fernglas für die geschützten Vogelbeobachtungsstände mit.",
+            "hu": "Sétáljon végig ezen a vizes élőhelyen, hogy költöző madarakat figyeljen meg, és hozzon távcsövet a madárlesekről történő legjobb kilátásért.",
+            "ro": "Plimbați-vă prin această rezervație pentru a observa păsări migratoare, aducând binocluri pentru cea mai bună vizionare din ascunzători.",
+            "en": "Wander through this diverse wetland reserve to spot migratory birds, bringing binoculars for the best wildlife viewing from the hides."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja del Carabassí",
+            "hu": "Platja del Carabassí",
+            "ro": "Platja del Carabassí",
+            "en": "Platja del Carabassí"
+          },
+          "coords": [
+            -0.513673,
+            38.235517
+          ],
+          "category": "recreational",
+          "arrive_at": "13:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf den Sanddünen dieses Strandes und steuern Sie das Südende an, wenn Sie den offiziellen FKK-Bereich bevorzugen.",
+            "hu": "Kapcsolódjon ki az érintetlen természetes strand aranyhomokos dűnéin, és vegye az irányt a déli vég felé, ha a naturista szakaszt részesíti előnyben.",
+            "ro": "Relaxează-te pe dunele de nisip auriu la această plajă naturală curată și îndreaptă-te spre capătul sudic dacă preferi secțiunea pentru nudiști.",
+            "en": "Unwind on golden sand dunes at this pristine natural beach, and head towards the southern end if you prefer the naturist section."
+          }
+        },
+        {
+          "name": {
+            "de": "Cova de les Aranyes",
+            "hu": "Cova de les Aranyes",
+            "ro": "Cova de les Aranyes",
+            "en": "Cova de les Aranyes"
+          },
+          "coords": [
+            -0.516691,
+            38.226008
+          ],
+          "category": "natural",
+          "arrive_at": "14:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende Küstenhöhle mit ihren einzigartigen Felsformationen und achten Sie auf dem unebenen Pfad stets auf Ihre Schritte.",
+            "hu": "Fedezze fel ezt a lenyűgöző, egyedi sziklaképződményeiről ismert tengerparti barlangot, és ügyeljen a lépéseire a lefelé vezető egyenetlen ösvényen.",
+            "ro": "Explorați această peșteră de coastă fascinantă pentru formațiunile sale stâncoase unice, având mare grijă pe poteca accidentată care coboară.",
+            "en": "Explore this fascinating coastal cave known for its unique rock formations, and watch your step on the uneven path leading down."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador del Escolgador de Cristo",
+            "hu": "Mirador del Escolgador de Cristo",
+            "ro": "Mirador del Escolgador de Cristo",
+            "en": "Mirador del Escolgador de Cristo"
+          },
+          "coords": [
+            -0.515196,
+            38.213737
+          ],
+          "category": "natural",
+          "arrive_at": "14:58",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Genießen Sie spektakuläre Panoramablicke auf das Meer von diesem Aussichtspunkt, aber halten Sie Ihren Hut bei den oft starken Winden gut fest.",
+            "hu": "Élvezze a Földközi-tengerre nyíló látványos panorámát erről a sziklafalon lévő kilátóról, de az erős szélben fogja meg jól a kalapját.",
+            "ro": "Bucurați-vă de vederi panoramice spectaculoase asupra Mării Mediterane de la acest punct de belvedere, ținându-vă bine pălăria în briza puternică.",
+            "en": "Enjoy spectacular panoramic views of the Mediterranean Sea from this cliffside viewpoint, keeping a tight grip on your hat in the strong breeze."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt mit den römischen Fabrikruinen und den benachbarten Schützengräben aus dem Bürgerkrieg. Mittags verlagert sich der Fokus auf die vielfältigen Habitate des Clot de Galvany. Am Nachmittag parken Sie nahe der Platja del Carabassí für etwas Strandzeit, bevor Sie die Cova de les Aranyes besichtigen. Ihr Roadtrip endet mit spektakulären Küstenblicken am Mirador del Escolgador.",
+        "hu": "Utazása az ősi római gyárromoknál és a szomszédos polgárháborús lövészárkoknál kezdődik. Délben a természeté a főszerep, miközben felfedezi a Clot de Galvany változatos élőhelyeit. Délután parkoljon le a Platja del Carabassí közelében, mielőtt megnézné a Cova de les Aranyes-t. Utazása lenyűgöző tengerparti kilátással zárul a Mirador del Escolgador de Cristo-nál.",
+        "ro": "Plimbarea dvs. cu mașina începe cu ruinele fabricii romane și tranșeele adiacente ale Războiului Civil. Amiaza vă duce în natură explorând habitatele diverse din Clot de Galvany. După-amiază, parcați lângă Platja del Carabassí pentru plajă înainte de a vedea Cova de les Aranyes. Excursia se încheie cu vederi spectaculoase de coastă la Mirador del Escolgador de Cristo.",
+        "en": "Your drive begins with the ancient Roman factory ruins and the adjacent Civil War trenches. Midday shifts to nature as you explore the diverse habitats of Clot de Galvany. In the afternoon, park near Platja del Carabassí for some beach time before checking out Cova de les Aranyes. Your road trip wraps up with spectacular coastal views at Mirador del Escolgador de Cristo."
+      }
+    }
+  }
+}

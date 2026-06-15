@@ -1,0 +1,405 @@
+{
+  "city_id": "cavalaire-sur-mer",
+  "anchor": {
+    "name": "Cavalaire-sur-Mer",
+    "coords": [
+      6.5292,
+      43.1711
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:38",
+      "total_km": 2.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Square Albert Gleizes",
+            "hu": "Albert Gleizes tér",
+            "ro": "Piața Albert Gleizes",
+            "en": "Square Albert Gleizes"
+          },
+          "coords": [
+            6.529394,
+            43.173952
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen an diesem familienfreundlichen Platz und genießen Sie die entspannte Atmosphäre bei einem frischen Kaffee.",
+            "hu": "Kezdje a reggelt ezen a kellemes, családbarát téren, és élvezze a nyugodt hangulatot, mielőtt meginna egy kávét a közelben.",
+            "ro": "Începeți dimineața în această piață plăcută și potrivită pentru familii, savurând atmosfera relaxată înainte de a bea o cafea.",
+            "en": "Start your morning at this pleasant, family-friendly square, admiring the relaxed atmosphere before grabbing a coffee at a nearby café."
+          }
+        },
+        {
+          "name": {
+            "de": "Grande Plage de Cavalaire",
+            "hu": "Grande Plage de Cavalaire",
+            "ro": "Grande Plage de Cavalaire",
+            "en": "Grande Plage de Cavalaire"
+          },
+          "coords": [
+            6.532724,
+            43.173651
+          ],
+          "category": "recreational",
+          "arrive_at": "09:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem weitläufigen Sandstrand entlang und genießen Sie den herrlichen Blick auf das Mittelmeer, während Sie sich früh eine Liege sichern.",
+            "hu": "Sétáljon végig ezen a tágas homokos parton, gyönyörködjön a tengeri kilátásban, és foglaljon le egy napágyat még a délelőtt folyamán.",
+            "ro": "Plimbați-vă de-a lungul acestui țărm nisipos întins, admirând priveliștile mediteraneene în timp ce vă rezervați devreme un șezlong.",
+            "en": "Stroll along this expansive sandy shore, taking in the magnificent Mediterranean views while securing a sunbed early in the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Centre-ville",
+            "hu": "Plage du Centre-ville",
+            "ro": "Plage du Centre-ville",
+            "en": "Plage du Centre-ville"
+          },
+          "coords": [
+            6.534767,
+            43.175733
+          ],
+          "category": "recreational",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem lebhaften zentralen Strand, der für seinen weichen Sand und die Nähe zu ausgezeichneten Restaurants bekannt ist.",
+            "hu": "Pihenjen ezen a nyüzsgő központi strandon, amely puha homokjáról és a közvetlen közelében lévő kiváló éttermekről ismert.",
+            "ro": "Relaxați-vă pe această plajă centrală plină de viață, cunoscută pentru nisipul fin și accesul ușor la opțiuni excelente de luat masa pe faleză.",
+            "en": "Relax on this lively central beach, known for its soft sand and easy access to excellent beachfront dining options just steps away."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Parc",
+            "hu": "Plage du Parc",
+            "ro": "Plage du Parc",
+            "en": "Plage du Parc"
+          },
+          "coords": [
+            6.538551,
+            43.180437
+          ],
+          "category": "recreational",
+          "arrive_at": "12:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie in der ruhigen Umgebung dieses malerischen Strandabschnitts, der sich ideal für ein erfrischendes Bad zur Mittagszeit anbietet.",
+            "hu": "Kapcsolódjon ki ennek a festői strandszakasznak a nyugodt környezetében, amely tökéletes egy frissítő déli úszáshoz a tömegtől távol.",
+            "ro": "Destindeți-vă în cadrul liniștit al acestei plaje pitorești, perfectă pentru o baie răcoroasă la prânz, departe de aglomerația centrală.",
+            "en": "Unwind in the tranquil setting of this scenic beach area, perfect for a refreshing midday swim away from the busier central crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Yachthafen Cavalaire",
+            "hu": "Cavalaire Kikötő",
+            "ro": "Portul Cavalaire",
+            "en": "Cavalaire Marina"
+          },
+          "coords": [
+            6.538442,
+            43.172123
+          ],
+          "category": "recreational",
+          "arrive_at": "13:53",
+          "stay_min": 105,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang mit einem Blick auf die luxuriösen Yachten am Yachthafen und genießen Sie einen Cocktail zum Sonnenuntergang.",
+            "hu": "Fejezze be sétáját a kikötő luxusjachtjainak megcsodálásával, és válasszon egy vízparti bárt egy látványos naplemente-koktélhoz.",
+            "ro": "Încheiați plimbarea admirând iahturile luxoase din portul agrement și alegeți un bar pe malul apei pentru un cocktail spectaculos la apus.",
+            "en": "End your walk admiring the luxurious yachts at the marina, and choose one of the waterfront bars for a spectacular sunset cocktail."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im lebhaften Herzen der Stadt, bevor es direkt zum weiten Sandstrand Grande Plage geht. Mittags hüpfen Sie zwischen den zentralen Stränden hin und her, tanken mediterrane Sonne und genießen ein gemütliches Mittagessen. Am Nachmittag folgen Sie der Küste in Richtung Plage du Parc für ein erfrischendes Bad. Der Abend gipfelt am geschäftigen Yachthafen, wo Sie die Yachten im Sonnenuntergang beobachten.",
+        "hu": "A reggel a város nyüzsgő szívében indul, mielőtt egyenesen a Grande Plage hívogató homokjára indulna. A telet a központi strandok közötti ugrándozással tölti, magába szívva a mediterrán napsütést. Délután a part mentén haladva a csendesebb Plage du Parc szakasza felé veszi az irányt egy frissítő úszásra. Az este a nyüzsgő kikötőben csúcsosodik ki, ahol a jachtokat figyelheti a naplementében.",
+        "ro": "Dimineața începe în inima vibrantă a orașului, înainte de a vă îndrepta direct către nisipurile vaste de la Grande Plage. Prânzul este petrecut sărind între plajele centrale, bucurându-vă de soarele mediteranean și de un prânz relaxant. După-amiaza, veți urma țărmul spre porțiunea mai liniștită a Plage du Parc pentru o baie răcoroasă. Seara culminează la portul de agrement, admirând iahturile la apus.",
+        "en": "Morning begins in the vibrant heart of the town, enjoying the local atmosphere before heading straight to the vast, inviting sands of Grande Plage. Midday is spent hopping between the central beaches, soaking up the Mediterranean sun and enjoying a leisurely coastal lunch. In the afternoon, you will follow the shoreline towards the quieter stretch of Plage du Parc for a refreshing swim. The evening culminates at the bustling marina, watching yachts against the sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:46",
+      "total_km": 4.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Haus der Natur",
+            "hu": "Természet Háza",
+            "ro": "Casa Naturii",
+            "en": "Nature House"
+          },
+          "coords": [
+            6.506724,
+            43.162418
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier die reiche lokale Artenvielfalt und ökologische Ausstellungen und holen Sie sich eine Wanderkarte für die Küstenflora.",
+            "hu": "Fedezze fel a gazdag helyi biológiai sokféleséget és az ökológiai kiállításokat, és kérjen egy térképet a part menti növényzet megismeréséhez.",
+            "ro": "Descoperiți aici bogata biodiversitate locală și expozițiile ecologice, luând o hartă a traseelor pentru a înțelege mai bine flora de coastă.",
+            "en": "Discover the rich local biodiversity and ecological exhibits here, picking up a trail map to better understand the coastal flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Bonporteau",
+            "hu": "Bonporteau Strand",
+            "ro": "Plaja Bonporteau",
+            "en": "Bonporteau Beach"
+          },
+          "coords": [
+            6.519705,
+            43.166336
+          ],
+          "category": "natural",
+          "arrive_at": "10:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Radeln Sie zu dieser atemberaubenden, von Eukalyptus gesäumten Bucht für ein ruhiges Bad, aber stellen Sie sich auf einen steilen Abstieg ein.",
+            "hu": "Kerékpározzon le ehhez az eukaliptuszokkal szegélyezett lenyűgöző öbölhöz egy csendes reggeli úszásra, de készüljön fel a meredek lejtőre.",
+            "ro": "Mergeți cu bicicleta până la acest golf uimitor străjuit de eucalipți pentru o baie matinală senină, dar fiți pregătit pentru o coborâre abruptă.",
+            "en": "Cycle down to this stunning, eucalyptus-fringed cove for a serene morning swim, but be prepared for a steep, rewarding descent."
+          }
+        },
+        {
+          "name": {
+            "de": "Yachthafen Cavalaire",
+            "hu": "Cavalaire Kikötő",
+            "ro": "Portul Cavalaire",
+            "en": "Cavalaire Marina"
+          },
+          "coords": [
+            6.538442,
+            43.172123
+          ],
+          "category": "recreational",
+          "arrive_at": "12:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad, um zwischen den beeindruckenden Yachten zu spazieren und ein köstliches Mittagessen mit Meeresfrüchten zu genießen.",
+            "hu": "Parkolja le kerékpárját, hogy sétáljon az impozáns jachtok között, és fogyasszon el egy gyors, ízletes tengeri ebédet a csillogó vízre nézve.",
+            "ro": "Parcați bicicleta pentru a vă plimba printre iahturile impresionante și luați un prânz delicios cu fructe de mare cu vedere la apa albastră.",
+            "en": "Park your bike to stroll among the impressive yachts, and grab a quick, delightful seafood lunch overlooking the sparkling blue water."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Dauphin",
+            "hu": "Plage du Dauphin",
+            "ro": "Plaja Dauphin",
+            "en": "Plage du Dauphin"
+          },
+          "coords": [
+            6.543597,
+            43.183665
+          ],
+          "category": "recreational",
+          "arrive_at": "13:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Setzen Sie Ihre Küstenfahrt zu diesem lebhaften Sandstrand fort, der sich ideal zum Entspannen in der Nachmittagssonne anbietet.",
+            "hu": "Folytassa parti útját ehhez a nyüzsgő homokos szakaszhoz, amely ideális a délutáni napsütésben való pihenéshez és a vízi sportok megfigyeléséhez.",
+            "ro": "Continuați plimbarea pe coastă până la această întindere vibrantă de nisip, ideală pentru relaxare sub soarele după-amiezii.",
+            "en": "Continue your coastal ride to this vibrant stretch of sand, ideal for relaxing in the afternoon sun while watching local water sports."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Pardigon",
+            "hu": "Plage de Pardigon",
+            "ro": "Plaja Pardigon",
+            "en": "Plage de Pardigon"
+          },
+          "coords": [
+            6.549532,
+            43.186416
+          ],
+          "category": "recreational",
+          "arrive_at": "15:01",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour an diesem wunderschön erhaltenen Naturstrand und packen Sie ein leichtes Picknick für den Abend ein.",
+            "hu": "Zárja kerékpáros útját ezen a gyönyörűen megőrzött természetes strandon, és hozzon magával egy könnyű pikniket kora estére.",
+            "ro": "Încheiați călătoria cu bicicleta pe această plajă naturală frumos conservată, pregătind un picnic ușor pentru a vă bucura de venirea serii.",
+            "en": "Conclude your cycling journey at this beautifully preserved natural beach, packing a light picnic to enjoy as the evening sets in."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radabenteuer beginnt mit ökologischen Entdeckungen im Naturhaus, wo Sie sich mit der wunderschönen lokalen Landschaft vertraut machen. Der späte Vormittag belohnt Sie mit einer Fahrt zum malerischen Strand Bonporteau. Am Nachmittag radeln Sie durch den lebhaften Yachthafen zum beliebten Sandstrand Dauphin. Der Tag endet mit einer entspannten Fahrt nach Pardigon inmitten bewahrter Natur.",
+        "hu": "Kerékpáros kalandja a Természet Házának ökológiai felfedezésével kezdődik, ahol megismerkedhet a gyönyörű helyi tájjal. A késő délelőtt egy festői utazással jutalmazza a rejtett Bonporteau strandig. A délután ütemváltást hoz, miközben a nyüzsgő kikötőn át a népszerű Dauphin homokjára teker. A nap egy sima úttal ér véget Pardigonba, megpihenve a megőrzött természet lágy ölén.",
+        "ro": "Aventura pe bicicletă începe cu descoperiri ecologice la Casa Naturii, familiarizându-vă cu peisajul local. Dimineața târzie vă răsplătește cu o plimbare pitorească până la ascunsa plajă Bonporteau. După-amiaza aduce o schimbare de ritm în timp ce pedalați prin portul vibrant spre nisipurile populare de la Dauphin. Ziua se încheie cu o plimbare lină către Pardigon, relaxându-vă în natură.",
+        "en": "Your cycling adventure starts with ecological discovery at the Nature House, getting familiar with the beautiful local landscape. Late morning rewards you with a scenic ride down to the hidden, picturesque Bonporteau Beach. Afternoon brings a shift in pace as you pedal through the vibrant marina and onto the popular Dauphin sands. The day ends with a smooth ride to Pardigon, unwinding amidst preserved natural beauty."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 16.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Oppidum von Montjean",
+            "hu": "Montjean-i Oppidum",
+            "ro": "Oppidum din Montjean",
+            "en": "Oppidum of Montjean"
+          },
+          "coords": [
+            6.513391,
+            43.200202
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fahren Sie hinauf, um die antiken Ruinen dieser historischen Stätte zu erkunden, und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Autózzon fel, hogy felfedezze e történelmi helyszín ősi romjait, és viseljen masszív cipőt a zord, panorámás terep biztonságos bejárásához.",
+            "ro": "Conduceți pentru a explora ruinele antice ale acestui sit istoric, purtând încălțăminte robustă pentru a naviga în siguranță pe terenul accidentat.",
+            "en": "Drive up to explore the ancient ruins of this historical site, wearing sturdy shoes to safely navigate the rugged, panoramic terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus der Natur",
+            "hu": "Természet Háza",
+            "ro": "Casa Naturii",
+            "en": "Nature House"
+          },
+          "coords": [
+            6.506724,
+            43.162418
+          ],
+          "category": "cultural",
+          "arrive_at": "10:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses Bildungszentrum, um mehr über die Schutzgebiete der Region zu erfahren, und prüfen Sie den Zeitplan für Führungen.",
+            "hu": "Látogasson el ebbe az oktatási központba, hogy megismerje a régió védett környezetét, és ellenőrizze a szabadtéri vezetett túrák menetrendjét.",
+            "ro": "Opriți-vă la acest centru educațional pentru a învăța despre mediile protejate ale regiunii, verificând programul pentru tururi ghidate.",
+            "en": "Stop by this educational hub to learn about the region's protected environments, checking the schedule for guided outdoor tours."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Rayol",
+            "hu": "Plage du Rayol",
+            "ro": "Plaja Rayol",
+            "en": "Plage du Rayol"
+          },
+          "coords": [
+            6.475772,
+            43.156098
+          ],
+          "category": "recreational",
+          "arrive_at": "12:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Fahren Sie nach Westen zu dieser atemberaubenden Sandbucht, die von üppigen Pinien umrahmt ist, und sichern Sie sich früh einen Parkplatz.",
+            "hu": "Vegye az irányt nyugat felé ehhez a buja fenyőkkel övezett lélegzetelállító homokos öbölhöz, és érkezzen korán a kényelmes parkolás érdekében.",
+            "ro": "Îndreptați-vă spre vest către acest golf cu nisip uluitor, încadrat de pini luxurianți, sosind devreme pentru o parcare convenabilă.",
+            "en": "Head west to this breathtaking sandy bay framed by lush Mediterranean pines, arriving early to secure convenient nearby parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Canadel",
+            "hu": "Plage du Canadel",
+            "ro": "Plaja Canadel",
+            "en": "Plage du Canadel"
+          },
+          "coords": [
+            6.463671,
+            43.157486
+          ],
+          "category": "recreational",
+          "arrive_at": "13:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen friedlichen Nachmittag an diesem idyllischen, historisch bedeutsamen Strand und schwimmen Sie im kristallklaren Wasser.",
+            "hu": "Töltsön el egy békés délutánt ezen az idilli, történelmi jelentőségű strandon, és szakítson időt az úszásra a kristálytiszta vízben.",
+            "ro": "Bucurați-vă de o după-amiază pașnică pe această plajă idilică, cu semnificație istorică, făcându-vă timp pentru o baie în apele cristaline.",
+            "en": "Enjoy a peaceful afternoon at this idyllic, historically significant beach, taking time to swim in its remarkably crystal-clear waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Pardigon",
+            "hu": "Plage de Pardigon",
+            "ro": "Plaja Pardigon",
+            "en": "Plage de Pardigon"
+          },
+          "coords": [
+            6.549532,
+            43.186416
+          ],
+          "category": "recreational",
+          "arrive_at": "15:15",
+          "stay_min": 105,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zurück nach Osten, um Ihren Tag an diesem weitläufigen Naturreservatstrand zu beenden, ideal für einen Dämmerungsspaziergang.",
+            "hu": "Autózzon vissza keletre, és zárja a napot ezen a hatalmas természetvédelmi strandon, amely tökéletes egy hosszú, alkonyati tengerparti sétához.",
+            "ro": "Conduceți înapoi spre est pentru a încheia ziua la această plajă extinsă, perfectă pentru o plimbare lungă la amurg de-a lungul țărmului.",
+            "en": "Drive back east to end your day at this expansive nature reserve beach, perfect for a long, reflective twilight walk along the shore."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen hoch über der Küste am Oppidum de Montjean mit weitem Blick und antiker Geschichte. Fahren Sie hinunter zu einem kulturellen Stopp im Naturhaus, um die einzigartigen Ökosysteme zu verstehen. Der Nachmittag ist den spektakulären westlichen Stränden mit Stopps in Rayol und Canadel gewidmet. Fahren Sie schließlich nach Osten zur weiten Fläche von Pardigon für einen majestätischen Sonnenuntergang.",
+        "hu": "Kezdje a reggelt magasan a part felett a Montjean-i Oppidum-nál, és élvezze a lenyűgöző kilátást és az ősi történelmet. Hajtson le egy kulturális megállóra a Természet Házába, hogy megismerje az egyedi ökoszisztémákat. A délutánt a látványos nyugati strandoknak szentelik, békés megállókkal Rayolban és Canadelben. Végül vezessen kelet felé Pardigon hatalmas kiterjedésű partjára egy fenséges naplementéért.",
+        "ro": "Începeți dimineața sus deasupra coastei la Oppidum din Montjean, admirând priveliștile panoramice și istoria antică. Coborâți pentru o oprire culturală la Casa Naturii pentru a înțelege ecosistemele unice de coastă. După-amiaza este dedicată spectaculoaselor plaje vestice, cu opriri senine la Rayol și Canadel. În cele din urmă, conduceți spre est către întinderea vastă a plajei Pardigon pentru un apus de soare magnific.",
+        "en": "Start your morning high above the coast at the Oppidum of Montjean, taking in sweeping views and ancient history. Drive down for a cultural stop at the Nature House to understand the unique coastal ecosystems you will soon visit. The afternoon is dedicated to the spectacular western beaches, with serene stops at Rayol and Canadel. Finally, drive eastward to the vast expanse of Pardigon for a majestic coastal sunset."
+      }
+    }
+  }
+}

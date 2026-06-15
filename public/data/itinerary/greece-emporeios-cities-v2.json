@@ -1,0 +1,497 @@
+{
+  "city_id": "greece-emporeios-cities-v2",
+  "anchor": {
+    "name": "Emporeios",
+    "coords": [
+      26.02798,
+      38.18853
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:17",
+      "total_km": 1.49,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Mavra Volia",
+            "hu": "Mavra Volia",
+            "ro": "Mavra Volia",
+            "en": "Mavra Volia"
+          },
+          "coords": [
+            26.028754,
+            38.184832
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die dramatischen schwarzen Kieselsteine dieses Vulkanstrands, eine Einzigartigkeit auf Chios, und bringen Sie Badeschuhe für einen bequemen Spaziergang mit.",
+            "hu": "Csodálja meg a vulkáni strand drámai fekete kavicsait, amely egyedülálló látvány Híoszon, és hozzon magával vízicipőt a kényelmes parti sétához.",
+            "ro": "Admirați pietricelele negre dramatice ale acestei plaje vulcanice, o priveliște unică în Chios, și aduceți încălțăminte de apă pentru o plimbare confortabilă pe țărm.",
+            "en": "Marvel at the dramatic black pebbles of this volcanic beach, a unique sight in Chios, and bring water shoes for a comfortable walk along the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Vigla von Emporio",
+            "hu": "Emporio Viglája",
+            "ro": "Vigla din Emporio",
+            "en": "Vigla of Emporio"
+          },
+          "coords": [
+            26.031309,
+            38.189407
+          ],
+          "category": "castle",
+          "arrive_at": "10:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen mittelalterlichen Wachturm, der zur Piratenabwehr erbaut wurde, und bringen Sie eine Kamera für die herrliche Aussicht mit, aber gehen Sie vorsichtig.",
+            "hu": "Fedezze fel ezt a kalózok megfigyelésére épült középkori őrtornyot, amely lenyűgöző kilátást nyújt a tengerre, ezért hozzon fényképezőgépet és óvatosan lépkedjen.",
+            "ro": "Descoperiți acest turn de veghe medieval construit pentru a observa pirații, oferind vederi uimitoare la mare, așa că aduceți camera și urcați cu atenție pe poteca denivelată.",
+            "en": "Discover this medieval watchtower built to spot pirates, offering stunning sea views, so bring your camera and climb carefully as the path is uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologische Stätte von Emporio",
+            "hu": "Emporio régészeti lelőhelye",
+            "ro": "Situl arheologic din Emporio",
+            "en": "Archaeological Site of Emporio"
+          },
+          "coords": [
+            26.029745,
+            38.193495
+          ],
+          "category": "historical",
+          "arrive_at": "11:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieser antiken Siedlung aus mehreren Epochen für tiefe historische Einblicke, und tragen Sie einen Hut, da es kaum Schatten gibt.",
+            "hu": "Fedezze fel ennek a több korszakot átívelő ősi településnek a romjait, amely mély történelmi kontextust ad, és viseljen kalapot, mivel nagyon kevés az árnyék.",
+            "ro": "Explorați ruinele acestei așezări antice care acoperă mai multe epoci pentru un context istoric profund și purtați o pălărie, deoarece există foarte puțină umbră.",
+            "en": "Explore the ruins of this ancient settlement spanning several eras, which provides deep historical context, and wear a hat as there is very little shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Tempel der Athene",
+            "hu": "Athéné temploma",
+            "ro": "Templul Atenei",
+            "en": "Temple of Athena"
+          },
+          "coords": [
+            26.030903,
+            38.192916
+          ],
+          "category": "historical",
+          "arrive_at": "12:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Überreste dieses klassischen Athena-Heiligtums, um frühe griechische Architektur zu würdigen, und achten Sie auf die gut erhaltenen Grundsteine.",
+            "hu": "Látogassa meg ennek az Athénének szentelt klasszikus szentélynek a maradványait, hogy megcsodálja a korai görög építészetet, és figyelje meg az alapköveket.",
+            "ro": "Vizitați rămășițele acestui sanctuar clasic dedicat Atenei pentru a aprecia arhitectura greacă timpurie și priviți cu atenție pietrele de temelie conservate.",
+            "en": "Visit the remnants of this classical sanctuary dedicated to Athena to appreciate early Greek architecture, and look closely at the preserved foundation stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Vigla von Broukia",
+            "hu": "Broukia Viglája",
+            "ro": "Vigla din Broukia",
+            "en": "Vigla of Broukia"
+          },
+          "coords": [
+            26.034805,
+            38.193344
+          ],
+          "category": "castle",
+          "arrive_at": "14:07",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.34,
+          "tip_5lang": {
+            "de": "Genießen Sie das Küstenpanorama von diesem strategischen Wachturm, einem Zeugnis des Verteidigungssystems, und besuchen Sie ihn am besten zur goldenen Stunde.",
+            "hu": "Gyönyörködjön a tengerparti panorámában ebből a stratégiai őrtoronyból, amely a sziget védelmi rendszerének tanúja, és érkezzen az aranyórában a legjobb fényekért.",
+            "ro": "Bucurați-vă de panorama de coastă de la acest turn de veghe ruinat, o mărturie a apărării insulei, și vizitați-l în timpul orei de aur pentru cea mai bună lumină.",
+            "en": "Take in the coastal panoramas from this strategic ruined watchtower, a testament to the island's defense system, and visit during golden hour for the best light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Küstenerkundung in der frischen Morgenluft und entdecken Sie die dramatischen vulkanischen Ufer und mittelalterlichen Wehrtürme der Region.\n\nGegen Mittag tauchen Sie tief in die Antike ein, indem Sie bedeutende archäologische Stätten durchqueren und die Wurzeln dieses strategischen Hafens freilegen.\n\nVerbringen Sie Ihren Nachmittag damit, weite Panoramen von erhöhten Aussichtspunkten zu genießen und ruhige Strände zu erkunden, die zum Entspannen einladen.\n\nBeenden Sie Ihren Tag, während die Sonne goldene Farbtöne über die Ägäis wirft, was Ihnen bleibende Erinnerungen an den historischen Charme von Emporeios hinterlässt.",
+        "hu": "Kezdje tengerparti felfedezését a friss reggeli levegőn, felfedezve a drámai vulkáni partokat és a tájat tarkító középkori védelmi tornyokat.\n\nA dél közeledtével merüljön el az ókorban jelentős régészeti lelőhelyeken sétálva, feltárva e stratégiai kikötő ősi, gazdag gyökereit.\n\nTöltse a délutánt azzal, hogy magasan fekvő kilátókból csodálja a panorámát, és nyugodt strandokat fedez fel, amelyek lelassulásra és pihenésre hívnak.\n\nZárja a napot az Égei-tenger felett aranyló napsugarak látványával, amelyek maradandó emlékeket hagynak Emporeiosz egyedülálló történelmi bájáról.",
+        "ro": "Începeți explorarea de coastă în aerul proaspăt al dimineții, descoperind țărmurile vulcanice dramatice și turnurile de apărare medievale care împânzesc peisajul.\n\nSpre prânz, pătrundeți adânc în antichitate plimbându-vă prin situri arheologice semnificative, descoperind rădăcinile antice ale acestui port strategic.\n\nPetreceți-vă după-amiaza admirând panorame ample din puncte de observație înalte și explorând plaje liniștite care vă invită la relaxare totală.\n\nÎncheiați-vă ziua privind soarele care aruncă nuanțe aurii peste Marea Egee, lăsându-vă cu amintiri de neuitat despre farmecul istoric unic al lui Emporeios.",
+        "en": "Begin your coastal exploration in the crisp morning air, discovering the dramatic volcanic shores and medieval defensive towers that dot the landscape.\n\nAs midday approaches, delve deep into antiquity by walking through significant archaeological sites, uncovering the ancient roots of this strategic port.\n\nSpend your afternoon taking in sweeping panoramas from elevated viewpoints and exploring tranquil beaches that invite you to slow down and relax.\n\nEnd your day by watching the sun cast golden hues over the Aegean Sea, leaving you with lasting memories of Emporeios' unique historical charm."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:47",
+      "total_km": 3.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mavra Volia",
+            "hu": "Mavra Volia",
+            "ro": "Mavra Volia",
+            "en": "Mavra Volia"
+          },
+          "coords": [
+            26.028754,
+            38.184832
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die dramatischen schwarzen Kieselsteine dieses Vulkanstrands, eine Einzigartigkeit auf Chios, und bringen Sie Badeschuhe für einen bequemen Spaziergang mit.",
+            "hu": "Csodálja meg a vulkáni strand drámai fekete kavicsait, amely egyedülálló látvány Híoszon, és hozzon magával vízicipőt a kényelmes parti sétához.",
+            "ro": "Admirați pietricelele negre dramatice ale acestei plaje vulcanice, o priveliște unică în Chios, și aduceți încălțăminte de apă pentru o plimbare confortabilă pe țărm.",
+            "en": "Marvel at the dramatic black pebbles of this volcanic beach, a unique sight in Chios, and bring water shoes for a comfortable walk along the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Vigla von Emporio",
+            "hu": "Emporio Viglája",
+            "ro": "Vigla din Emporio",
+            "en": "Vigla of Emporio"
+          },
+          "coords": [
+            26.031309,
+            38.189407
+          ],
+          "category": "castle",
+          "arrive_at": "10:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen mittelalterlichen Wachturm, der zur Piratenabwehr erbaut wurde, und bringen Sie eine Kamera für die herrliche Aussicht mit, aber gehen Sie vorsichtig.",
+            "hu": "Fedezze fel ezt a kalózok megfigyelésére épült középkori őrtornyot, amely lenyűgöző kilátást nyújt a tengerre, ezért hozzon fényképezőgépet és óvatosan lépkedjen.",
+            "ro": "Descoperiți acest turn de veghe medieval construit pentru a observa pirații, oferind vederi uimitoare la mare, așa că aduceți camera și urcați cu atenție pe poteca denivelată.",
+            "en": "Discover this medieval watchtower built to spot pirates, offering stunning sea views, so bring your camera and climb carefully as the path is uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologische Stätte von Emporio",
+            "hu": "Emporio régészeti lelőhelye",
+            "ro": "Situl arheologic din Emporio",
+            "en": "Archaeological Site of Emporio"
+          },
+          "coords": [
+            26.029745,
+            38.193495
+          ],
+          "category": "historical",
+          "arrive_at": "11:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieser antiken Siedlung aus mehreren Epochen für tiefe historische Einblicke, und tragen Sie einen Hut, da es kaum Schatten gibt.",
+            "hu": "Fedezze fel ennek a több korszakot átívelő ősi településnek a romjait, amely mély történelmi kontextust ad, és viseljen kalapot, mivel nagyon kevés az árnyék.",
+            "ro": "Explorați ruinele acestei așezări antice care acoperă mai multe epoci pentru un context istoric profund și purtați o pălărie, deoarece există foarte puțină umbră.",
+            "en": "Explore the ruins of this ancient settlement spanning several eras, which provides deep historical context, and wear a hat as there is very little shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Vigla von Broukia",
+            "hu": "Broukia Viglája",
+            "ro": "Vigla din Broukia",
+            "en": "Vigla of Broukia"
+          },
+          "coords": [
+            26.034805,
+            38.193344
+          ],
+          "category": "castle",
+          "arrive_at": "12:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Genießen Sie das Küstenpanorama von diesem strategischen Wachturm, einem Zeugnis des Verteidigungssystems, und besuchen Sie ihn am besten zur goldenen Stunde.",
+            "hu": "Gyönyörködjön a tengerparti panorámában ebből a stratégiai őrtoronyból, amely a sziget védelmi rendszerének tanúja, és érkezzen az aranyórában a legjobb fényekért.",
+            "ro": "Bucurați-vă de panorama de coastă de la acest turn de veghe ruinat, o mărturie a apărării insulei, și vizitați-l în timpul orei de aur pentru cea mai bună lumină.",
+            "en": "Take in the coastal panoramas from this strategic ruined watchtower, a testament to the island's defense system, and visit during golden hour for the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Komi",
+            "hu": "Komi strand",
+            "ro": "Plaja Komi",
+            "en": "Komi Beach"
+          },
+          "coords": [
+            26.042253,
+            38.200733
+          ],
+          "category": "recreational",
+          "arrive_at": "13:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.05,
+          "tip_5lang": {
+            "de": "Entspannen Sie am weichen Sand dieser familienfreundlichen Bucht und genießen Sie Meeresfrüchte in den Tavernen, also packen Sie etwas Bargeld für das Mittagessen ein.",
+            "hu": "Pihenjen ezen a népszerű, családbarát tengerparton, ahol megkóstolhatja a helyi tengeri ételeket a közeli tavernákban, így hozzon magával készpénzt az ebédhez.",
+            "ro": "Relaxați-vă pe nisipul fin al acestui golf popular și prietenos cu familiile, unde puteți savura fructe de mare locale, așa că aduceți numerar pentru un prânz.",
+            "en": "Relax on the soft sands of this popular, family-friendly bay where you can enjoy local seafood at nearby tavernas, so bring some cash for a seaside lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Vigla von Komi",
+            "hu": "Komi Viglája",
+            "ro": "Vigla din Komi",
+            "en": "Vigla of Komi"
+          },
+          "coords": [
+            26.046535,
+            38.204612
+          ],
+          "category": "castle",
+          "arrive_at": "14:37",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.57,
+          "tip_5lang": {
+            "de": "Steigen Sie zu diesem weniger bekannten genuesischen Wachturm hinauf, um das visuelle Netzwerk der Insel zu verstehen, und tragen Sie feste Schuhe für den Aufstieg.",
+            "hu": "Másszon fel ehhez a kevésbé ismert genovai őrtoronyhoz, hogy megértse a sziget kiterjedt vizuális hálózatát, és viseljen erős cipőt a rövid, de rögös emelkedőhöz.",
+            "ro": "Urcați la acest turn de veghe genovez mai puțin cunoscut pentru a înțelege rețeaua vizuală a insulei și purtați încălțăminte rezistentă pentru urcușul scurt și accidentat.",
+            "en": "Climb up to this lesser-known Genoese watchtower to understand the extensive visual network of the island, and wear sturdy shoes for the short but rugged ascent."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Küstenerkundung in der frischen Morgenluft und entdecken Sie die dramatischen vulkanischen Ufer und mittelalterlichen Wehrtürme der Region.\n\nGegen Mittag tauchen Sie tief in die Antike ein, indem Sie bedeutende archäologische Stätten durchqueren und die Wurzeln dieses strategischen Hafens freilegen.\n\nVerbringen Sie Ihren Nachmittag damit, weite Panoramen von erhöhten Aussichtspunkten zu genießen und ruhige Strände zu erkunden, die zum Entspannen einladen.\n\nBeenden Sie Ihren Tag, während die Sonne goldene Farbtöne über die Ägäis wirft, was Ihnen bleibende Erinnerungen an den historischen Charme von Emporeios hinterlässt.",
+        "hu": "Kezdje tengerparti felfedezését a friss reggeli levegőn, felfedezve a drámai vulkáni partokat és a tájat tarkító középkori védelmi tornyokat.\n\nA dél közeledtével merüljön el az ókorban jelentős régészeti lelőhelyeken sétálva, feltárva e stratégiai kikötő ősi, gazdag gyökereit.\n\nTöltse a délutánt azzal, hogy magasan fekvő kilátókból csodálja a panorámát, és nyugodt strandokat fedez fel, amelyek lelassulásra és pihenésre hívnak.\n\nZárja a napot az Égei-tenger felett aranyló napsugarak látványával, amelyek maradandó emlékeket hagynak Emporeiosz egyedülálló történelmi bájáról.",
+        "ro": "Începeți explorarea de coastă în aerul proaspăt al dimineții, descoperind țărmurile vulcanice dramatice și turnurile de apărare medievale care împânzesc peisajul.\n\nSpre prânz, pătrundeți adânc în antichitate plimbându-vă prin situri arheologice semnificative, descoperind rădăcinile antice ale acestui port strategic.\n\nPetreceți-vă după-amiaza admirând panorame ample din puncte de observație înalte și explorând plaje liniștite care vă invită la relaxare totală.\n\nÎncheiați-vă ziua privind soarele care aruncă nuanțe aurii peste Marea Egee, lăsându-vă cu amintiri de neuitat despre farmecul istoric unic al lui Emporeios.",
+        "en": "Begin your coastal exploration in the crisp morning air, discovering the dramatic volcanic shores and medieval defensive towers that dot the landscape.\n\nAs midday approaches, delve deep into antiquity by walking through significant archaeological sites, uncovering the ancient roots of this strategic port.\n\nSpend your afternoon taking in sweeping panoramas from elevated viewpoints and exploring tranquil beaches that invite you to slow down and relax.\n\nEnd your day by watching the sun cast golden hues over the Aegean Sea, leaving you with lasting memories of Emporeios' unique historical charm."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:20",
+      "total_km": 6.94,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Dotia",
+            "hu": "Dotia",
+            "ro": "Dotia",
+            "en": "Dotia"
+          },
+          "coords": [
+            26.012649,
+            38.176738
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Reisen Sie in diesem von Mastixbäumen umgebenen ländlichen Gebiet in die Vergangenheit und nehmen Sie sich einen Moment Zeit, um das einzigartige Harz zu riechen.",
+            "hu": "Lépjen vissza az időben ezen a masztixfákkal körülvett vidéki történelmi területen, amely meghatározta a helyi gazdaságot, és szívja magába az egyedi gyanta illatát.",
+            "ro": "Pășiți înapoi în timp în această zonă istorică rurală înconjurată de arbori de mastic și luați-vă un moment pentru a mirosi rășina unică ce a modelat economia.",
+            "en": "Step back in time at this rural historical area surrounded by mastic trees, which shaped the local economy, and take a moment to smell the unique resin."
+          }
+        },
+        {
+          "name": {
+            "de": "Turm von Dotia",
+            "hu": "Dotia torony",
+            "ro": "Turnul Dotia",
+            "en": "Dotia Tower"
+          },
+          "coords": [
+            26.01052,
+            38.178792
+          ],
+          "category": "castle",
+          "arrive_at": "10:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betrachten Sie die beeindruckenden Steinmauern dieser Festung, die zum Schutz des Mastixhandels erbaut wurde, und bleiben Sie auf den Wegen, um die Flora zu schonen.",
+            "hu": "Vizsgálja meg ennek a középkori erődnek a lenyűgöző kőfalait, amelyet az értékes masztixkereskedelem védelmére építettek, és maradjon a kijelölt ösvényeken.",
+            "ro": "Examinați zidurile de piatră ale acestei fortărețe medievale construite pentru a proteja comerțul cu mastic și rămâneți pe potecile marcate pentru a proteja flora.",
+            "en": "Examine the formidable stone walls of this medieval stronghold built to protect the precious mastic trade, and stick to the marked paths to protect the flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Mavra Volia",
+            "hu": "Mavra Volia",
+            "ro": "Mavra Volia",
+            "en": "Mavra Volia"
+          },
+          "coords": [
+            26.028754,
+            38.184832
+          ],
+          "category": "recreational",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.74,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die dramatischen schwarzen Kieselsteine dieses Vulkanstrands, eine Einzigartigkeit auf Chios, und bringen Sie Badeschuhe für einen bequemen Spaziergang mit.",
+            "hu": "Csodálja meg a vulkáni strand drámai fekete kavicsait, amely egyedülálló látvány Híoszon, és hozzon magával vízicipőt a kényelmes parti sétához.",
+            "ro": "Admirați pietricelele negre dramatice ale acestei plaje vulcanice, o priveliște unică în Chios, și aduceți încălțăminte de apă pentru o plimbare confortabilă pe țărm.",
+            "en": "Marvel at the dramatic black pebbles of this volcanic beach, a unique sight in Chios, and bring water shoes for a comfortable walk along the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologische Stätte von Emporio",
+            "hu": "Emporio régészeti lelőhelye",
+            "ro": "Situl arheologic din Emporio",
+            "en": "Archaeological Site of Emporio"
+          },
+          "coords": [
+            26.029745,
+            38.193495
+          ],
+          "category": "historical",
+          "arrive_at": "12:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieser antiken Siedlung aus mehreren Epochen für tiefe historische Einblicke, und tragen Sie einen Hut, da es kaum Schatten gibt.",
+            "hu": "Fedezze fel ennek a több korszakot átívelő ősi településnek a romjait, amely mély történelmi kontextust ad, és viseljen kalapot, mivel nagyon kevés az árnyék.",
+            "ro": "Explorați ruinele acestei așezări antice care acoperă mai multe epoci pentru un context istoric profund și purtați o pălărie, deoarece există foarte puțină umbră.",
+            "en": "Explore the ruins of this ancient settlement spanning several eras, which provides deep historical context, and wear a hat as there is very little shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Vigla von Broukia",
+            "hu": "Broukia Viglája",
+            "ro": "Vigla din Broukia",
+            "en": "Vigla of Broukia"
+          },
+          "coords": [
+            26.034805,
+            38.193344
+          ],
+          "category": "castle",
+          "arrive_at": "13:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Genießen Sie das Küstenpanorama von diesem strategischen Wachturm, einem Zeugnis des Verteidigungssystems, und besuchen Sie ihn am besten zur goldenen Stunde.",
+            "hu": "Gyönyörködjön a tengerparti panorámában ebből a stratégiai őrtoronyból, amely a sziget védelmi rendszerének tanúja, és érkezzen az aranyórában a legjobb fényekért.",
+            "ro": "Bucurați-vă de panorama de coastă de la acest turn de veghe ruinat, o mărturie a apărării insulei, și vizitați-l în timpul orei de aur pentru cea mai bună lumină.",
+            "en": "Take in the coastal panoramas from this strategic ruined watchtower, a testament to the island's defense system, and visit during golden hour for the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Komi",
+            "hu": "Komi strand",
+            "ro": "Plaja Komi",
+            "en": "Komi Beach"
+          },
+          "coords": [
+            26.042253,
+            38.200733
+          ],
+          "category": "recreational",
+          "arrive_at": "14:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.05,
+          "tip_5lang": {
+            "de": "Entspannen Sie am weichen Sand dieser familienfreundlichen Bucht und genießen Sie Meeresfrüchte in den Tavernen, also packen Sie etwas Bargeld für das Mittagessen ein.",
+            "hu": "Pihenjen ezen a népszerű, családbarát tengerparton, ahol megkóstolhatja a helyi tengeri ételeket a közeli tavernákban, így hozzon magával készpénzt az ebédhez.",
+            "ro": "Relaxați-vă pe nisipul fin al acestui golf popular și prietenos cu familiile, unde puteți savura fructe de mare locale, așa că aduceți numerar pentru un prânz.",
+            "en": "Relax on the soft sands of this popular, family-friendly bay where you can enjoy local seafood at nearby tavernas, so bring some cash for a seaside lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Vigla von Komi",
+            "hu": "Komi Viglája",
+            "ro": "Vigla din Komi",
+            "en": "Vigla of Komi"
+          },
+          "coords": [
+            26.046535,
+            38.204612
+          ],
+          "category": "castle",
+          "arrive_at": "15:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.57,
+          "tip_5lang": {
+            "de": "Steigen Sie zu diesem weniger bekannten genuesischen Wachturm hinauf, um das visuelle Netzwerk der Insel zu verstehen, und tragen Sie feste Schuhe für den Aufstieg.",
+            "hu": "Másszon fel ehhez a kevésbé ismert genovai őrtoronyhoz, hogy megértse a sziget kiterjedt vizuális hálózatát, és viseljen erős cipőt a rövid, de rögös emelkedőhöz.",
+            "ro": "Urcați la acest turn de veghe genovez mai puțin cunoscut pentru a înțelege rețeaua vizuală a insulei și purtați încălțăminte rezistentă pentru urcușul scurt și accidentat.",
+            "en": "Climb up to this lesser-known Genoese watchtower to understand the extensive visual network of the island, and wear sturdy shoes for the short but rugged ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalamoti-Bucht",
+            "hu": "Kalamoti-öböl",
+            "ro": "Golful Kalamoti",
+            "en": "Kalamoti Bay"
+          },
+          "coords": [
+            26.052374,
+            38.188762
+          ],
+          "category": "landmark",
+          "arrive_at": "16:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.83,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten, ruhigen Küstenblick auf diese malerische Bucht abseits der Massen, ein perfekter Ort, um innezuhalten, bevor Sie Ihre Reise fortsetzen.",
+            "hu": "Élvezze ennek a festői, tömegtől távoli öbölnek a nyugodt tengerparti kilátását, amely tökéletes hely a megpihenésre és elmélkedésre az utazás folytatása előtt.",
+            "ro": "Bucurați-vă de vederile de coastă liniștite ale acestui golf pitoresc departe de aglomerație, un loc perfect pentru a face o pauză înainte de a vă continua călătoria.",
+            "en": "Enjoy the sweeping, tranquil coastal views of this picturesque bay away from the crowds, a perfect spot to pause and reflect before continuing your journey."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Küstenerkundung in der frischen Morgenluft und entdecken Sie die dramatischen vulkanischen Ufer und mittelalterlichen Wehrtürme der Region.\n\nGegen Mittag tauchen Sie tief in die Antike ein, indem Sie bedeutende archäologische Stätten durchqueren und die Wurzeln dieses strategischen Hafens freilegen.\n\nVerbringen Sie Ihren Nachmittag damit, weite Panoramen von erhöhten Aussichtspunkten zu genießen und ruhige Strände zu erkunden, die zum Entspannen einladen.\n\nBeenden Sie Ihren Tag, während die Sonne goldene Farbtöne über die Ägäis wirft, was Ihnen bleibende Erinnerungen an den historischen Charme von Emporeios hinterlässt.",
+        "hu": "Kezdje tengerparti felfedezését a friss reggeli levegőn, felfedezve a drámai vulkáni partokat és a tájat tarkító középkori védelmi tornyokat.\n\nA dél közeledtével merüljön el az ókorban jelentős régészeti lelőhelyeken sétálva, feltárva e stratégiai kikötő ősi, gazdag gyökereit.\n\nTöltse a délutánt azzal, hogy magasan fekvő kilátókból csodálja a panorámát, és nyugodt strandokat fedez fel, amelyek lelassulásra és pihenésre hívnak.\n\nZárja a napot az Égei-tenger felett aranyló napsugarak látványával, amelyek maradandó emlékeket hagynak Emporeiosz egyedülálló történelmi bájáról.",
+        "ro": "Începeți explorarea de coastă în aerul proaspăt al dimineții, descoperind țărmurile vulcanice dramatice și turnurile de apărare medievale care împânzesc peisajul.\n\nSpre prânz, pătrundeți adânc în antichitate plimbându-vă prin situri arheologice semnificative, descoperind rădăcinile antice ale acestui port strategic.\n\nPetreceți-vă după-amiaza admirând panorame ample din puncte de observație înalte și explorând plaje liniștite care vă invită la relaxare totală.\n\nÎncheiați-vă ziua privind soarele care aruncă nuanțe aurii peste Marea Egee, lăsându-vă cu amintiri de neuitat despre farmecul istoric unic al lui Emporeios.",
+        "en": "Begin your coastal exploration in the crisp morning air, discovering the dramatic volcanic shores and medieval defensive towers that dot the landscape.\n\nAs midday approaches, delve deep into antiquity by walking through significant archaeological sites, uncovering the ancient roots of this strategic port.\n\nSpend your afternoon taking in sweeping panoramas from elevated viewpoints and exploring tranquil beaches that invite you to slow down and relax.\n\nEnd your day by watching the sun cast golden hues over the Aegean Sea, leaving you with lasting memories of Emporeios' unique historical charm."
+      }
+    }
+  }
+}

@@ -1,0 +1,543 @@
+{
+  "city_id": "france-hdic-cities-v2",
+  "anchor": {
+    "name": "Hœdic",
+    "coords": [
+      -2.8802,
+      47.33943
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:51",
+      "total_km": 2.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Port de l’Eglise",
+            "hu": "Port de l’Eglise",
+            "ro": "Port de l’Eglise",
+            "en": "Port de l’Eglise"
+          },
+          "coords": [
+            -2.882984,
+            47.342983
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie über die Docks, um die Fischerboote aus der Nähe zu sehen, und tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+            "hu": "Sétáljon végig a dokkokon a halászhajók megtekintéséhez, és viseljen kényelmes cipőt az egyenetlen macskaköveken.",
+            "ro": "Plimbați-vă pe docuri pentru a vedea bărcile de pescuit și purtați încălțăminte comodă pentru pietruitura inegală.",
+            "en": "Stroll the docks to see local fishing boats up close, and don't forget to wear comfortable walking shoes for the uneven cobblestones."
+          }
+        },
+        {
+          "name": {
+            "de": "Guader",
+            "hu": "Guader",
+            "ro": "Guader",
+            "en": "Guader"
+          },
+          "coords": [
+            -2.880573,
+            47.343303
+          ],
+          "category": "recreational",
+          "arrive_at": "09:38",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Pause, um Küstenvögel zu fotografieren, aber halten Sie bei der Seebrise Ihren Hut fest.",
+            "hu": "Tartson egy rövid szünetet a parti madarak fotózásához, de vigyázzon a kalapjára a tengeri szélben.",
+            "ro": "Luați o scurtă pauză pentru a fotografia păsările de coastă, dar aveți grijă la pălărie în briza mării.",
+            "en": "Take a short break at this quiet harbor spot to photograph the coastal birds, but hold onto your hat in the sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame la Blanche",
+            "hu": "Église Notre-Dame la Blanche",
+            "ro": "Église Notre-Dame la Blanche",
+            "en": "Église Notre-Dame la Blanche"
+          },
+          "coords": [
+            -2.879486,
+            47.340898
+          ],
+          "category": "religious",
+          "arrive_at": "10:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Treten Sie in die helle Kirche ein, um die maritimen Votivgaben zu bewundern, und sprechen Sie aus Respekt leise.",
+            "hu": "Lépjen be a világos templomba, hogy megcsodálja a tengeri fogadalmi ajándékokat, és tiszteletből beszéljen halkan.",
+            "ro": "Intrați în această biserică luminoasă pentru a admira ex-voto-urile maritime, amintindu-vă să vorbiți încet din respect.",
+            "en": "Step inside this bright church to admire its beautiful maritime ex-votos, remembering to speak softly out of respect for worshippers."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen de Port Louit",
+            "hu": "Dolmen de Port Louit",
+            "ro": "Dolmen de Port Louit",
+            "en": "Dolmen de Port Louit"
+          },
+          "coords": [
+            -2.885073,
+            47.335379
+          ],
+          "category": "historical",
+          "arrive_at": "10:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diese beeindruckende neolithische Grabstätte, aber klettern Sie nicht auf die alten, zerbrechlichen Steine.",
+            "hu": "Vizsgálja meg ezt a lenyűgöző neolitikus temetkezési helyet, ügyelve arra, hogy ne másszon fel az ősi kövekre.",
+            "ro": "Examinați acest impresionant sit funerar neolitic, având grijă să nu vă urcați pe pietrele antice și fragile.",
+            "en": "Examine this impressive Neolithic burial site left by early islanders, taking care not to climb on the ancient, fragile stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Port Blanc",
+            "hu": "Port Blanc",
+            "ro": "Port Blanc",
+            "en": "Port Blanc"
+          },
+          "coords": [
+            -2.887494,
+            47.340758
+          ],
+          "category": "recreational",
+          "arrive_at": "12:28",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie am hellen Sandstrand von Port Blanc und packen Sie eine Windjacke ein, da das Wetter schnell umschlagen kann.",
+            "hu": "Pihenjen a Port Blanc világos homokján, és vigyen magával egy széldzsekit, mert az időjárás gyorsan változhat.",
+            "ro": "Relaxați-vă pe nisipul deschis la culoare și luați o jachetă de vânt, deoarece vremea se poate schimba rapid.",
+            "en": "Relax on the pale sands of Port Blanc to soak up the sun, packing a light windbreaker as the weather can shift quickly."
+          }
+        },
+        {
+          "name": {
+            "de": "Kastel a Plouz",
+            "hu": "Kastel a Plouz",
+            "ro": "Kastel a Plouz",
+            "en": "Kastel a Plouz"
+          },
+          "coords": [
+            -2.88799,
+            47.342773
+          ],
+          "category": "recreational",
+          "arrive_at": "12:56",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf den Ozean und bringen Sie ein Fernglas mit, um vorbeifahrende Schiffe zu beobachten.",
+            "hu": "Élvezze az óceánra nyíló panorámát, és hozzon távcsövet, ha távoli hajókat szeretne megfigyelni.",
+            "ro": "Bucurați-vă de priveliștea panoramică asupra oceanului, aducând un binoclu pentru a observa navele în depărtare.",
+            "en": "Enjoy panoramic views of the ocean from this elevated viewpoint, bringing binoculars if you want to spot distant passing ships."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie am Port de l’Eglise, um den maritimen Charme zu spüren. Schlendern Sie ins Zentrum, wo sich die kleine Schönheit von Hoedic entfaltet.\n\nMittags entdecken Sie die Kirche Notre-Dame la Blanche, bevor Sie nach Süden zum Dolmen de Port Louit wandern. Atmen Sie die Geschichte ein.\n\nDer Nachmittag führt Sie zum friedlichen Port Blanc. Beobachten Sie die Wellen und genießen Sie die salzige Brise.\n\nBeenden Sie den Rundgang am Kastel a Plouz und lassen Sie einen ruhigen Tag auf dieser bretonischen Insel ausklingen.",
+        "hu": "Kezdje a sétát a nyüzsgő Port de l’Eglise kikötőben, hogy magába szívja a sziget tengeri varázsát. Sétáljon a falu központja felé, megcsodálva Hoedic szépségét.\n\nDélben fedezze fel a Notre-Dame la Blanche templomot, mielőtt délre indulna a Port Louit dolmenhez. Élje át a neolitikus múltat.\n\nA délután a csendes Port Blanc felé hív, amely tökéletes hely a hullámok és a sós tengeri levegő élvezetére.\n\nZárja a túrát a Kastel a Plouz közelében, visszaemlékezve egy békés napra ezen a gyönyörű breton szigeten.",
+        "ro": "Începeți plimbarea în Port de l’Eglise, absorbind farmecul maritim. Plimbați-vă spre centrul satului, admirând frumusețea la scară mică a insulei Hoedic.\n\nLa amiază, descoperiți Biserica Notre-Dame la Blanche înainte de a merge spre Dolmen de Port Louit. Istoria neolitică vă va fascina.\n\nDupă-amiaza vă invită la Port Blanc, un loc perfect pentru a privi valurile domoale și a respira aerul sărat.\n\nÎncheiați turul la Kastel a Plouz, reflectând la o zi liniștită de mers pe jos pe această minunată insulă bretonă.",
+        "en": "Begin your walk at the bustling Port de l’Eglise, absorbing the island's maritime charm. Stroll towards the village center, taking in the small-scale beauty of Hoedic.\n\nAt midday, discover the Église Notre-Dame la Blanche before heading south to the ancient Dolmen de Port Louit. Let the Neolithic history sink in along the coastal path.\n\nThe afternoon invites you to the serene Port Blanc, a perfect spot to watch the gentle waves and breathe the salty air. Relax on the sandy edges.\n\nConclude your pedestrian tour at Kastel a Plouz, reflecting on a tranquil day traversing this beautifully preserved Breton island on foot."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 3.6,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Port de l’Eglise",
+            "hu": "Port de l’Eglise",
+            "ro": "Port de l’Eglise",
+            "en": "Port de l’Eglise"
+          },
+          "coords": [
+            -2.882984,
+            47.342983
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Reifendruck am Hafen, bevor Sie losfahren, und bewundern Sie das maritime Treiben.",
+            "hu": "Indulás előtt ellenőrizze a guminyomást a kikötőben, és csodálja meg a tengeri életet.",
+            "ro": "Verificați presiunea anvelopelor pe docuri înainte de a pleca, admirând viața maritimă agitată.",
+            "en": "Check your tire pressure on the docks before heading out, admiring the bustling small-scale maritime life of Hoedic."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame la Blanche",
+            "hu": "Église Notre-Dame la Blanche",
+            "ro": "Église Notre-Dame la Blanche",
+            "en": "Église Notre-Dame la Blanche"
+          },
+          "coords": [
+            -2.879486,
+            47.340898
+          ],
+          "category": "religious",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Rad draußen, um die Votivgaben der Kirche in respektvoller Stille zu bewundern.",
+            "hu": "Parkoljon le a kerékpárral kint, hogy csendben megcsodálja a templom fogadalmi ajándékait.",
+            "ro": "Parcați bicicleta afară pentru a admira ex-voto-urile bisericii, păstrând liniștea pentru respect.",
+            "en": "Park your bike outside to admire the church's maritime ex-votos, maintaining silence to respect the peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort d'Hoedic",
+            "hu": "Fort d'Hoedic",
+            "ro": "Fort d'Hoedic",
+            "en": "Fort d'Hoedic"
+          },
+          "coords": [
+            -2.873673,
+            47.338368
+          ],
+          "category": "fortress",
+          "arrive_at": "10:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses sternförmige Fort aus dem 19. Jahrhundert und bringen Sie Wasser mit, da es kaum Schatten gibt.",
+            "hu": "Fedezze fel ezt a 19. századi csillag alakú erődöt, és hozzon vizet, mivel kevés az árnyék.",
+            "ro": "Explorați acest fort în formă de stea din secolul XIX și aduceți apă, deoarece este puțină umbră.",
+            "en": "Explore this 19th-century star-shaped fort to learn about local defense, bringing water as there is little shade inside the walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Grand Mulon",
+            "hu": "Plage du Grand Mulon",
+            "ro": "Plage du Grand Mulon",
+            "en": "Plage du Grand Mulon"
+          },
+          "coords": [
+            -2.869646,
+            47.336349
+          ],
+          "category": "recreational",
+          "arrive_at": "11:37",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Rad bei den Dünen ab und laufen Sie zum Strand, aber achten Sie auf versteckte Felsen.",
+            "hu": "Zárja le kerékpárját a dűnék közelében, és sétáljon le a strandra, ügyelve a rejtett sziklákra.",
+            "ro": "Legați bicicleta lângă dune și coborâți la plajă, având grijă la stâncile ascunse în apă.",
+            "en": "Lock your bike near the dunes and walk down to this lovely beach for a swim, watching out for hidden rocks in the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de la Vierge",
+            "hu": "Menhir de la Vierge",
+            "ro": "Menhir de la Vierge",
+            "en": "Menhir de la Vierge"
+          },
+          "coords": [
+            -2.8677,
+            47.339841
+          ],
+          "category": "historical",
+          "arrive_at": "12:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Fotografieren Sie diesen einsamen Menhir und bleiben Sie auf dem markierten Weg, um die Flora zu schützen.",
+            "hu": "Fotózza le ezt a magányos menhirt, és maradjon a kijelölt ösvényen a növényvilág védelme érdekében.",
+            "ro": "Fotografiați acest menhir solitar și rămâneți pe poteca marcată pentru a proteja flora.",
+            "en": "Photograph this solitary standing stone that has guarded the coast for millennia, staying on the marked path to protect the flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Le fort Anglais(ruines)",
+            "hu": "Le fort Anglais(ruines)",
+            "ro": "Le fort Anglais(ruines)",
+            "en": "Le fort Anglais(ruines)"
+          },
+          "coords": [
+            -2.865541,
+            47.348418
+          ],
+          "category": "historical",
+          "arrive_at": "13:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die Ruinen und stellen Sie sich historische Seeschlachten vor, wobei Sie vorsichtig auftreten sollten.",
+            "hu": "Sétáljon a romok között, elképzelve a történelmi csatákat, és lépkedjen óvatosan az egyenetlen talajon.",
+            "ro": "Plimbați-vă printre ruine pentru a vă imagina bătălii navale istorice, pășind cu grijă pe terenul accidentat.",
+            "en": "Wander around these coastal ruins to imagine historical sea battles, stepping carefully over the uneven, unmaintained terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Amer",
+            "hu": "Amer",
+            "ro": "Amer",
+            "en": "Amer"
+          },
+          "coords": [
+            -2.869308,
+            47.346686
+          ],
+          "category": "historical",
+          "arrive_at": "14:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nutzen Sie dieses Seezeichen zur Orientierung, es bietet zudem eine perfekte Kulisse für ein Selfie.",
+            "hu": "Használja ezt a tengeri jelzést tájékozódásra; egyben tökéletes hátteret is nyújt egy szelfihez.",
+            "ro": "Folosiți acest reper maritim pentru a vă orienta, oferind și un fundal perfect pentru un selfie.",
+            "en": "Use this distinctive navigational marker to orient yourself on the island, a perfect backdrop for a quick afternoon selfie."
+          }
+        },
+        {
+          "name": {
+            "de": "Alignement du Douet",
+            "hu": "Alignement du Douet",
+            "ro": "Alignement du Douet",
+            "en": "Alignement du Douet"
+          },
+          "coords": [
+            -2.878284,
+            47.343143
+          ],
+          "category": "historical",
+          "arrive_at": "16:15",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Fahren Sie bei Sonnenuntergang zu diesen alten Steinreihen und prüfen Sie das Licht für die Rückfahrt.",
+            "hu": "Tekerjen ehhez az ősi kősorhoz naplemente idején, és győződjön meg róla, hogy a kerékpárlámpa működik.",
+            "ro": "Pedalați spre aceste aliniamente antice la apus și asigurați-vă că farurile bicicletei sunt pregătite.",
+            "en": "Cycle up to these ancient aligned stones at sunset for dramatic shadows, ensuring your bike lights are ready for the ride back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Port de l’Eglise und fahren Sie zügig zur Kirche Notre-Dame la Blanche. Die frische Brise weckt die Sinne.\n\nRadeln Sie zum Fort d'Hoedic für Militärgeschichte des 19. Jahrhunderts und dann hinab zur Plage du Grand Mulon für eine Pause.\n\nDer Nachmittag ist eine Zeitreise zum Menhir de la Vierge und den Ruinen des Fort Anglais, die im rauen Wind stehen.\n\nBeenden Sie die Runde am Amer und dem alten Alignement du Douet im sanften Abendlicht.",
+        "hu": "Kezdje a kerékpározást a Port de l’Eglise-nél, majd pedálozzon a Notre-Dame la Blanche templom felé. A szellő tökéletes a tekeréshez.\n\nHaladjon a Fort d'Hoedic erődítményhez a 19. századi történelemért, majd guruljon le a Plage du Grand Mulon tengerpartjára egy pihenőre.\n\nA délután egy időutazás: látogassa meg a Vierge menhirt és a Le fort Anglais erőd romjait a part mentén.\n\nFejezze be a szigeti kört az Amer navigációs jel és az ősi Alignement du Douet megtekintésével az esti fényekben.",
+        "ro": "Începeți traseul de bicicletă la Port de l’Eglise, ajungând rapid la biserica Notre-Dame la Blanche. Briza vă va revigora.\n\nPedalați spre Fort d'Hoedic pentru istoria militară a secolului XIX, apoi coborâți la Plage du Grand Mulon pentru o pauză.\n\nDupă-amiaza este o călătorie în timp la Menhir de la Vierge și la ruinele spectaculoase ale Le fort Anglais.\n\nÎncheiați circuitul vizitând reperul maritim Amer și vechiul Alignement du Douet sub lumina blândă a soarelui.",
+        "en": "Kick off your cycling route at Port de l’Eglise, hopping swiftly to the island's spiritual heart at Notre-Dame la Blanche. The breeze is perfect.\n\nPedal towards Fort d'Hoedic to uncover 19th-century military history, then coast down to Plage du Grand Mulon for a refreshing seaside stop.\n\nThe afternoon is a ride through time, visiting the mystical Menhir de la Vierge and the rugged ruins of Le fort Anglais.\n\nFinish your island circuit by checking the Amer navigational landmark and the ancient Alignement du Douet under the late sun."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Port Neuf",
+            "hu": "Port Neuf",
+            "ro": "Port Neuf",
+            "en": "Port Neuf"
+          },
+          "coords": [
+            -2.888365,
+            47.344918
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie vorsichtig am Port Neuf, um die morgendliche Fähre zu beobachten und einen Kaffee zu trinken.",
+            "hu": "Parkoljon óvatosan a Port Neuf közelében, hogy megnézze a reggeli kompot egy kávé mellett.",
+            "ro": "Parcați cu grijă la Port Neuf pentru a vedea feribotul de dimineață, bucurându-vă de o cafea.",
+            "en": "Park carefully near Port Neuf to watch the morning ferry arrivals, a great spot to grab a coffee before driving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen de Port Louit",
+            "hu": "Dolmen de Port Louit",
+            "ro": "Dolmen de Port Louit",
+            "en": "Dolmen de Port Louit"
+          },
+          "coords": [
+            -2.885073,
+            47.335379
+          ],
+          "category": "historical",
+          "arrive_at": "09:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Halten Sie sicher an, um diesen neolithischen Dolmen zu bestaunen, und hinterlassen Sie ihn so, wie Sie ihn vorfanden.",
+            "hu": "Húzódjon le biztonságosan, hogy megcsodálja ezt a neolitikus dolment, és hagyja érintetlenül a helyszínt.",
+            "ro": "Trageți pe dreapta în siguranță pentru a admira acest dolmen neolitic, lăsând locul exact cum l-ați găsit.",
+            "en": "Pull over safely to marvel at this well-preserved Neolithic dolmen, leaving the site exactly as you found it."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort d'Hoedic",
+            "hu": "Fort d'Hoedic",
+            "ro": "Fort d'Hoedic",
+            "en": "Fort d'Hoedic"
+          },
+          "coords": [
+            -2.873673,
+            47.338368
+          ],
+          "category": "fortress",
+          "arrive_at": "10:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses sternförmige Fort aus dem 19. Jahrhundert und bringen Sie Wasser mit, da es kaum Schatten gibt.",
+            "hu": "Fedezze fel ezt a 19. századi csillag alakú erődöt, és hozzon vizet, mivel kevés az árnyék.",
+            "ro": "Explorați acest fort în formă de stea din secolul XIX și aduceți apă, deoarece este puțină umbră.",
+            "en": "Explore this 19th-century star-shaped fort to learn about local defense, bringing water as there is little shade inside the walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de la Vierge",
+            "hu": "Menhir de la Vierge",
+            "ro": "Menhir de la Vierge",
+            "en": "Menhir de la Vierge"
+          },
+          "coords": [
+            -2.8677,
+            47.339841
+          ],
+          "category": "historical",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Fotografieren Sie diesen einsamen Menhir und bleiben Sie auf dem markierten Weg, um die Flora zu schützen.",
+            "hu": "Fotózza le ezt a magányos menhirt, és maradjon a kijelölt ösvényen a növényvilág védelme érdekében.",
+            "ro": "Fotografiați acest menhir solitar și rămâneți pe poteca marcată pentru a proteja flora.",
+            "en": "Photograph this solitary standing stone that has guarded the coast for millennia, staying on the marked path to protect the flora."
+          }
+        },
+        {
+          "name": {
+            "de": "La Plage bleue",
+            "hu": "La Plage bleue",
+            "ro": "La Plage bleue",
+            "en": "La Plage bleue"
+          },
+          "coords": [
+            -2.862121,
+            47.340148
+          ],
+          "category": "recreational",
+          "arrive_at": "13:36",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto stehen und schlendern Sie zu dieser blauen Bucht; packen Sie ein Handtuch ein.",
+            "hu": "Hagyja hátra az autót, és sétáljon le ehhez a kék öbölhöz, vigyen magával egy törölközőt is.",
+            "ro": "Lăsați mașina la punctul de acces și plimbați-vă spre acest golf albastru, luând un prosop cu voi.",
+            "en": "Leave the car at the access point and stroll down to this vivid blue bay, packing a towel if you plan to dip your toes."
+          }
+        },
+        {
+          "name": {
+            "de": "Le fort Anglais(ruines)",
+            "hu": "Le fort Anglais(ruines)",
+            "ro": "Le fort Anglais(ruines)",
+            "en": "Le fort Anglais(ruines)"
+          },
+          "coords": [
+            -2.865541,
+            47.348418
+          ],
+          "category": "historical",
+          "arrive_at": "14:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die Ruinen und stellen Sie sich historische Seeschlachten vor, wobei Sie vorsichtig auftreten sollten.",
+            "hu": "Sétáljon a romok között, elképzelve a történelmi csatákat, és lépkedjen óvatosan az egyenetlen talajon.",
+            "ro": "Plimbați-vă printre ruine pentru a vă imagina bătălii navale istorice, pășind cu grijă pe terenul accidentat.",
+            "en": "Wander around these coastal ruins to imagine historical sea battles, stepping carefully over the uneven, unmaintained terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Alignement du Douet",
+            "hu": "Alignement du Douet",
+            "ro": "Alignement du Douet",
+            "en": "Alignement du Douet"
+          },
+          "coords": [
+            -2.878284,
+            47.343143
+          ],
+          "category": "historical",
+          "arrive_at": "15:25",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese alten Steinreihen bei Sonnenuntergang und blockieren Sie beim Parken nicht die schmalen Wege.",
+            "hu": "Látogassa meg a kősorokat naplementekor, ügyelve arra, hogy parkolásával ne akadályozza a keskeny utakat.",
+            "ro": "Vizitați aceste aliniamente antice la apus, asigurându-vă că nu blocați drumurile înguste la parcare.",
+            "en": "Visit these ancient aligned stones at sunset for dramatic shadows, ensuring you park without blocking the narrow island tracks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie am Port Neuf, einem idealen Ausgangspunkt, bevor Sie zu den prähistorischen Stätten der Insel aufbrechen.\n\nFahren Sie nach Süden zum Dolmen de Port Louit und besuchen Sie das imposante Fort d'Hoedic, wo Geschichte lebendig wird.\n\nDen Nachmittag verbringen Sie zwischen dem Menhir de la Vierge und dem goldenen Sand der Plage bleue zum Entspannen.\n\nBeenden Sie die motorisierte Tour bei den nördlichen Ruinen des Fort Anglais und den Steinreihen von Douet.",
+        "hu": "Kezdje az utat Port Neuf-ben, majd induljon el a sziget őskori helyszínei felé egy kényelmes autózás keretében.\n\nVezessen délre a Port Louit dolmenhez, majd látogasson el az impozáns Fort d'Hoedic erődbe, ahol a történelem megelevenedik.\n\nA délutánt a Vierge menhir és a La Plage bleue aranyhomokos partja között töltheti egy gyors feltöltődésre.\n\nZárja az autós túrát a Le fort Anglais északi romjainak és a Douet kősorainak felfedezésével.",
+        "ro": "Începeți traseul la Port Neuf, un punct ideal de pornire înainte de a vă îndrepta spre siturile preistorice ale insulei.\n\nConduceți spre sud la Dolmen de Port Louit, urmat de o vizită la impunătorul Fort d'Hoedic, unde istoria prinde viață.\n\nPetreceți după-amiaza între Menhir de la Vierge și nisipurile fine de la La Plage bleue pentru a vă relaxa.\n\nÎncheiați turul auto explorând ruinele nordice de la Le fort Anglais și aliniamentele de piatră de la Douet.",
+        "en": "Begin your drive at Port Neuf, an ideal starting point to get your bearings before heading towards the island's prehistoric sites.\n\nDrive south to the Dolmen de Port Louit, followed by a visit to the imposing Fort d'Hoedic where island defense history comes alive.\n\nSpend the afternoon hopping between the Menhir de la Vierge and the golden sands of La Plage bleue for a quick recharge.\n\nConclude your motorized tour exploring the northern ruins of Le fort Anglais and the stone alignments of Douet as dusk approaches."
+      }
+    }
+  }
+}

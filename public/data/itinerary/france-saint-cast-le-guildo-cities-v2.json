@@ -1,0 +1,497 @@
+{
+  "city_id": "france-saint-cast-le-guildo-cities-v2",
+  "anchor": {
+    "name": "Saint-Cast-le-Guildo",
+    "coords": [
+      -2.26179,
+      48.62413
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:28",
+      "total_km": 3.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Cast",
+            "hu": "Église Saint-Cast",
+            "ro": "Église Saint-Cast",
+            "en": "Église Saint-Cast"
+          },
+          "coords": [
+            -2.26122,
+            48.62409
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neugotische Architektur und die atemberaubenden Buntglasfenster dieser zentralen Kirche, die Sie am besten früh morgens in Ruhe besuchen.",
+            "hu": "Csodálja meg a központi templom gyönyörű neogótikus építészetét és ólomüveg ablakait, amelyet a legérdemesebb kora reggel felkeresni a csendes elmélkedéshez.",
+            "ro": "Admirați arhitectura neogotică și vitraliile uimitoare ale acestei biserici centrale, pe care este cel mai bine să o vizitați devreme pentru o reflecție liniștită.",
+            "en": "Admire the beautiful neo-Gothic architecture and stunning stained glass windows of this central church, best visited early for a peaceful and quiet reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Colonne des Anglais",
+            "hu": "Colonne des Anglais",
+            "ro": "Colonne des Anglais",
+            "en": "Colonne des Anglais"
+          },
+          "coords": [
+            -2.259278,
+            48.628913
+          ],
+          "category": "historical",
+          "arrive_at": "09:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Entdecken Sie das hochragende Denkmal zur Erinnerung an die Schlacht von Saint-Cast 1758, das historische Einblicke und den perfekten Ort für Fotos bietet.",
+            "hu": "Fedezze fel az 1758-as Saint-Cast-i csatának emléket állító tornyosuló emlékművet, amely történelmi betekintést és tökéletes helyszínt nyújt a fotózáshoz.",
+            "ro": "Descoperiți monumentul impunător care comemorează bătălia din 1758, oferind perspective istorice și un loc perfect pentru fotografii panoramice memorabile.",
+            "en": "Discover the towering monument commemorating the 1758 Battle of Saint-Cast, offering historical insights and a perfect spot for memorable panoramic photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Grande Plage",
+            "hu": "Grande Plage",
+            "ro": "Grande Plage",
+            "en": "Grande Plage"
+          },
+          "coords": [
+            -2.248878,
+            48.631321
+          ],
+          "category": "recreational",
+          "arrive_at": "11:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sand dieses beliebten Strandes, wo die frühe Anmietung eines gestreiften Strandzeltes einen bequemen Platz für den Tag sichert.",
+            "hu": "Pihenjen e népszerű központi strand hatalmas aranyhomokján, ahol a csíkos strandsátor korai bérlése kényelmes bázist biztosít a napsütéses délutánhoz.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje centrale, unde închirierea timpurie a unui cort cu dungi vă asigură o bază confortabilă pentru o după-amiază însorită.",
+            "en": "Relax on the expansive golden sands of this popular central beach, where renting a striped beach tent early ensures a comfortable base for your sunny afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "La Vieuxville",
+            "hu": "La Vieuxville",
+            "ro": "La Vieuxville",
+            "en": "La Vieuxville"
+          },
+          "coords": [
+            -2.253839,
+            48.621514
+          ],
+          "category": "castle",
+          "arrive_at": "13:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie das elegante Gelände dieses historischen Schlosses, um das lokale Erbe zu entdecken, und tragen Sie bequeme Schuhe für die unebenen Wege.",
+            "hu": "Fedezze fel e történelmi kastélybirtok elegáns területét, hogy megismerje a helyi arisztokrata örökséget, és mindenképpen viseljen kényelmes sétacipőt.",
+            "ro": "Explorați terenurile elegante ale acestui castel istoric pentru a descoperi moștenirea aristocratică și asigurați-vă că purtați pantofi confortabili de mers.",
+            "en": "Explore the elegant grounds of this historic castle estate to uncover local aristocratic heritage, and make sure to wear comfortable shoes for walking the paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Pen Guen",
+            "hu": "Plage de Pen Guen",
+            "ro": "Plage de Pen Guen",
+            "en": "Plage de Pen Guen"
+          },
+          "coords": [
+            -2.237216,
+            48.615213
+          ],
+          "category": "recreational",
+          "arrive_at": "14:43",
+          "stay_min": 105,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie in dieser unberührten, von viel Grün umgebenen südlichen Bucht, dem idealen Ort, um den Tag mit einem erfrischenden Bad am späten Nachmittag zu beenden.",
+            "hu": "Kapcsolódjon ki ezen a buja növényzettel körülvett déli öbölben, amely ideális helyszín arra, hogy a napot egy frissítő késő délutáni tengerparti úszással zárja.",
+            "ro": "Relaxați-vă în acest golf sudic imaculat înconjurat de verdeață, fiind locul ideal pentru a vă încheia ziua cu o baie revigorantă pe coastă la sfârșitul după-amiezii.",
+            "en": "Unwind at this pristine southern cove surrounded by lush greenery, making it the ideal spot to conclude your day with a refreshing late afternoon coastal swim."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang im Herzen der Stadt, indem Sie die historische zentrale Kirche erkunden. Dies gibt einen friedlichen Ton für den aktiven Tag vor.\n\nSchlendern Sie weiter in Richtung der monumentalen Säule und tauchen Sie in die stolze Verteidigungsgeschichte der Stadt ein.\n\nAm Nachmittag entspannen Sie am weitläufigen zentralen Strand, bevor Sie die Wege in Richtung der alten Schlossruine navigieren.\n\nBeenden Sie Ihre Fußgänger-Reise an der wunderschönen südlichen Bucht von Pen Guen, ideal für einen Sonnenuntergang und ein erfrischendes Bad.",
+        "hu": "Kezdje gyalogtúráját a város szívében a történelmi központi templom felfedezésével. Ez békés alaphangot ad az aktív napnak.\n\nFolytassa sétáját a monumentális oszlop felé, elmélyülve a város büszke védelmi történelmében. A séta rövid, de rendkívül festői.\n\nDélután pihenjen a hatalmas központi strandon, mielőtt az öreg kastély romjai felé veszi az irányt a sétányokon.\n\nFejezze be gyalogos utazását a Pen Guen gyönyörű déli öblében, amely tökéletes a naplemente megtekintéséhez és egy utolsó, frissítő tengerparti fürdőzéshez.",
+        "ro": "Începeți turul de mers pe jos în inima orașului explorând biserica istorică centrală. Acest lucru creează o atmosferă pașnică pentru ziua activă.\n\nContinuați plimbarea spre coloana monumentală, aprofundând istoria defensivă a orașului. Plimbarea este scurtă, dar foarte pitorească.\n\nDupă-amiaza, relaxați-vă pe plaja centrală întinsă înainte de a naviga pe potecile spre ruinele vechiului castel.\n\nÎncheiați-vă călătoria pietonală la frumosul golf sudic Pen Guen, perfect pentru a viziona apusul și pentru o baie finală pe coastă.",
+        "en": "Begin your walking tour in the heart of the town by exploring the historical central church. It sets a peaceful tone for the active day ahead.\n\nContinue strolling towards the monumental column, delving into the town's proud defensive history. The walk is brief but highly scenic.\n\nIn the afternoon, relax on the expansive central beach before navigating the paths towards the old castle ruins.\n\nConclude your pedestrian journey at the beautiful southern cove of Pen Guen, perfect for a sunset viewing and a final refreshing coastal swim."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 5.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Port Saint Jean",
+            "hu": "Port Saint Jean",
+            "ro": "Port Saint Jean",
+            "en": "Port Saint Jean"
+          },
+          "coords": [
+            -2.28977,
+            48.626948
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Boote in diesem malerischen Yachthafen, einem fantastischen Ausgangspunkt für Ihren Morgen, wo Sie sich ein frisches Gebäck holen können.",
+            "hu": "Figyelje a helyi hajók ringatózását ebben a festői jachtkikötőben, amely fantasztikus kiindulópont a reggelhez, és ahol friss péksüteményt is vásárolhat.",
+            "ro": "Urmăriți bărcile locale legănându-se în acest port pitoresc, un punct de plecare fantastic pentru dimineața dvs., unde puteți savura o patiserie proaspătă.",
+            "en": "Watch the gentle bobbing of local boats in this picturesque marina, a fantastic starting point for your morning where you can grab a fresh pastry from nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Fosse",
+            "hu": "Plage de la Fosse",
+            "ro": "Plage de la Fosse",
+            "en": "Plage de la Fosse"
+          },
+          "coords": [
+            -2.287243,
+            48.629734
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Genießen Sie ein ruhiges Stranderlebnis an diesem schönen Ort, der besonders bei Ebbe wunderschön ist, wenn Sie nach einzigartigen Muscheln suchen können.",
+            "hu": "Élvezze a csendes strandolást ezen a kedves helyen, amely különösen apály idején gyönyörű, amikor egyedi és különleges tengeri kagylókat keresgélhet.",
+            "ro": "Bucurați-vă de o experiență liniștită la acest loc minunat, care este deosebit de frumos în timpul refluxului, când puteți căuta scoici unice pe mal.",
+            "en": "Enjoy a serene and uncrowded beach experience at this lovely spot, which is particularly beautiful during low tide when you can search for unique seashells."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Cast",
+            "hu": "Église Saint-Cast",
+            "ro": "Église Saint-Cast",
+            "en": "Église Saint-Cast"
+          },
+          "coords": [
+            -2.26122,
+            48.62409
+          ],
+          "category": "religious",
+          "arrive_at": "11:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neugotische Architektur und die atemberaubenden Buntglasfenster dieser zentralen Kirche, die Sie am besten früh morgens in Ruhe besuchen.",
+            "hu": "Csodálja meg a központi templom gyönyörű neogótikus építészetét és ólomüveg ablakait, amelyet a legérdemesebb kora reggel felkeresni a csendes elmélkedéshez.",
+            "ro": "Admirați arhitectura neogotică și vitraliile uimitoare ale acestei biserici centrale, pe care este cel mai bine să o vizitați devreme pentru o reflecție liniștită.",
+            "en": "Admire the beautiful neo-Gothic architecture and stunning stained glass windows of this central church, best visited early for a peaceful and quiet reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Colonne des Anglais",
+            "hu": "Colonne des Anglais",
+            "ro": "Colonne des Anglais",
+            "en": "Colonne des Anglais"
+          },
+          "coords": [
+            -2.259278,
+            48.628913
+          ],
+          "category": "historical",
+          "arrive_at": "12:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Entdecken Sie das hochragende Denkmal zur Erinnerung an die Schlacht von Saint-Cast 1758, das historische Einblicke und den perfekten Ort für Fotos bietet.",
+            "hu": "Fedezze fel az 1758-as Saint-Cast-i csatának emléket állító tornyosuló emlékművet, amely történelmi betekintést és tökéletes helyszínt nyújt a fotózáshoz.",
+            "ro": "Descoperiți monumentul impunător care comemorează bătălia din 1758, oferind perspective istorice și un loc perfect pentru fotografii panoramice memorabile.",
+            "en": "Discover the towering monument commemorating the 1758 Battle of Saint-Cast, offering historical insights and a perfect spot for memorable panoramic photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Sainte-Blanche",
+            "hu": "Chapelle Sainte-Blanche",
+            "ro": "Chapelle Sainte-Blanche",
+            "en": "Chapelle Sainte-Blanche"
+          },
+          "coords": [
+            -2.255568,
+            48.637244
+          ],
+          "category": "religious",
+          "arrive_at": "14:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Treten Sie in diese bescheidene Kapelle ein, um ihre maritim inspirierten Details zu bewundern, die einen ruhigen Rückzugsort von den belebten Strandwegen bietet.",
+            "hu": "Lépjen be ebbe a bájos és szerény kápolnába, hogy megcsodálja tengerészeti ihletésű részleteit, amely hűvös és csendes menedéket nyújt a nyüzsgő partoktól.",
+            "ro": "Pășiți în această capelă modestă pentru a admira detaliile sale de inspirație maritimă, oferind o retragere răcoroasă și liniștită de la agitația plajelor.",
+            "en": "Step inside this charming and modest chapel to admire its maritime-inspired details, offering a cool and quiet retreat from the bustling summer beach paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Grande Plage",
+            "hu": "Grande Plage",
+            "ro": "Grande Plage",
+            "en": "Grande Plage"
+          },
+          "coords": [
+            -2.248878,
+            48.631321
+          ],
+          "category": "recreational",
+          "arrive_at": "14:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sand dieses beliebten Strandes, wo die frühe Anmietung eines gestreiften Strandzeltes einen bequemen Platz für den Tag sichert.",
+            "hu": "Pihenjen e népszerű központi strand hatalmas aranyhomokján, ahol a csíkos strandsátor korai bérlése kényelmes bázist biztosít a napsütéses délutánhoz.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje centrale, unde închirierea timpurie a unui cort cu dungi vă asigură o bază confortabilă pentru o după-amiază însorită.",
+            "en": "Relax on the expansive golden sands of this popular central beach, where renting a striped beach tent early ensures a comfortable base for your sunny afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Pointe de la Garde",
+            "hu": "Pointe de la Garde",
+            "ro": "Pointe de la Garde",
+            "en": "Pointe de la Garde"
+          },
+          "coords": [
+            -2.238189,
+            48.625741
+          ],
+          "category": "natural",
+          "arrive_at": "16:06",
+          "stay_min": 55,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Wandern Sie auf diese spektakuläre Landzunge für einen Panoramablick auf die Smaragdküste und bringen Sie Ihre Kamera mit, um die atemberaubenden Sonnenuntergangsfarben einzufangen.",
+            "hu": "Túrázzon fel erre a látványos természetes hegyfokra a Smaragd-partra nyíló panorámáért, és hozza magával fényképezőgépét a lélegzetelállító naplemente színeinek megörökítéséhez.",
+            "ro": "Urcați pe acest promontoriu natural spectaculos pentru vederi panoramice ale Coastei de Smarald și aduceți camera pentru a surprinde nuanțele apusului.",
+            "en": "Hike up to this spectacular natural headland for sweeping panoramic views of the Emerald Coast, and bring your camera to capture the breathtaking sunset hues."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Fahrradabenteuer am malerischen örtlichen Yachthafen und genießen Sie die Morgensonne sowie die nautische Atmosphäre.\n\nRadeln Sie bequem zu den nördlichen Sandbuchten und dann ins Landesinnere, um das große Denkmal und die örtliche Kirche zu besuchen.\n\nAm Nachmittag erreichen Sie eine idyllische Kapelle und den belebten Hauptstrand, wo Sie Ihr Fahrrad parken und die Küstenenergie genießen können.\n\nBeenden Sie Ihren aktiven Tag mit einer Fahrt zum spektakulären Aussichtspunkt und belohnen Sie Ihre Mühe mit einem unvergleichlichen Blick.",
+        "hu": "Kezdje kerékpáros kalandját a festői helyi jachtkikötőben, magába szívva a lágy reggeli napsütést és a kikötő tengeri hangulatát.\n\nKényelmesen pedálozzon az északi homokos öblök felé, majd a szárazföld belseje felé, hogy meglátogassa a nagyszerű emlékművet és a helyi templomot.\n\nKora délután egy bájos kápolnához és a nyüzsgő fő strandhoz érkezik, ahol leparkolhatja a kerékpárt, és élvezheti a parti energiákat.\n\nFejezze be aktív napját azzal, hogy felteker a látványos kilátóponthoz, amely fizikai erőfeszítéseit páratlan kilátással jutalmazza a Smaragd-partra.",
+        "ro": "Începeți aventura cu bicicleta la portul pitoresc local, bucurându-vă de soarele blând al dimineții și de atmosfera nautică a portului.\n\nPedalați confortabil spre golfurile nisipoase nordice și apoi spre interior pentru a vizita marele monument și biserica locală.\n\nDupă-amiaza vă aduce la o capelă pitorească și la plaja principală animată, unde vă puteți parca bicicleta și vă puteți bucura de energie.\n\nTerminați-vă ziua activă călătorind până la punctul pitoresc spectaculos, recompensând efortul fizic cu vederi de neegalat.",
+        "en": "Start your cycling adventure at the picturesque local marina, soaking in the gentle morning sun and the nautical atmosphere of the port.\n\nPedal comfortably towards the northern sandy coves and then inland to visit the grand monument and the local church, feeling the refreshing ocean breeze.\n\nMid-afternoon brings you to a quaint chapel and the bustling main beach, where you can park your bike and enjoy the lively coastal energy.\n\nFinish your active day by riding up to the spectacular scenic point, rewarding your physical effort with unparalleled views over the Emerald Coast."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 6.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plage de la Mare",
+            "hu": "Plage de la Mare",
+            "ro": "Plage de la Mare",
+            "en": "Plage de la Mare"
+          },
+          "coords": [
+            -2.25717,
+            48.644269
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen in dieser rauen nördlichen Bucht, die für ihre dramatischen Felsformationen bekannt ist, ein ausgezeichneter Ort für einen meditativen Morgenspaziergang.",
+            "hu": "Meneküljön el a tömeg elől ebbe a drámai sziklaalakzatairól ismert északi öbölbe, amely kiváló helyszín egy kora reggeli, elmélyült tengerparti sétához.",
+            "ro": "Scăpați de aglomerație în acest golf nordic stâncos, cunoscut pentru formațiunile sale dramatice, un loc excelent pentru o plimbare matinală meditativă.",
+            "en": "Escape the crowds at this rugged northern cove known for its dramatic rock formations, making it an excellent location for an early morning meditative walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Pissotte",
+            "hu": "Plage de la Pissotte",
+            "ro": "Plage de la Pissotte",
+            "en": "Plage de la Pissotte"
+          },
+          "coords": [
+            -2.26841,
+            48.641394
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie einen kleinen, geschützten Sandstrand umrahmt von Klippen, der die Morgensonne perfekt einfängt und einen sicheren Ort zum Planschen bietet.",
+            "hu": "Fedezzen fel egy sziklák által övezett, védett kis homokos menedéket, amely tökéletesen befogadja a reggeli napsütést, és biztonságos helyet kínál a családoknak.",
+            "ro": "Descoperiți un mic paradis nisipos protejat, încadrat de stânci, care surprinde perfect soarele dimineții, oferind un loc sigur și primitor pentru familii.",
+            "en": "Discover a small, sheltered sandy haven framed by cliffs that perfectly catches the morning sun, providing a safe and inviting spot for families to paddle."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Fresnaye",
+            "hu": "Plage de la Fresnaye",
+            "ro": "Plage de la Fresnaye",
+            "en": "Plage de la Fresnaye"
+          },
+          "coords": [
+            -2.274048,
+            48.636962
+          ],
+          "category": "recreational",
+          "arrive_at": "11:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem breiten feinen Sandstrand entlang, um die wahre Weite der bretonischen Küste zu erleben, ideal für Strandspiele und die frische Meeresbrise.",
+            "hu": "Sétáljon végig ezen a finom homokos partszakaszon, hogy megtapasztalja a breton partvidék hatalmasságát, amely ideális strandjátékokhoz és a friss szellőhöz.",
+            "ro": "Plimbați-vă de-a lungul acestei întinderi generoase de nisip fin pentru a experimenta vastitatea coastei bretone, ideală pentru jocuri și briza proaspătă a oceanului.",
+            "en": "Walk along this generous stretch of fine sand to experience the true vastness of the Breton coastline, ideal for beach games and feeling the fresh ocean breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Colonne des Anglais",
+            "hu": "Colonne des Anglais",
+            "ro": "Colonne des Anglais",
+            "en": "Colonne des Anglais"
+          },
+          "coords": [
+            -2.259278,
+            48.628913
+          ],
+          "category": "historical",
+          "arrive_at": "13:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie das hochragende Denkmal zur Erinnerung an die Schlacht von Saint-Cast 1758, das historische Einblicke und den perfekten Ort für Fotos bietet.",
+            "hu": "Fedezze fel az 1758-as Saint-Cast-i csatának emléket állító tornyosuló emlékművet, amely történelmi betekintést és tökéletes helyszínt nyújt a fotózáshoz.",
+            "ro": "Descoperiți monumentul impunător care comemorează bătălia din 1758, oferind perspective istorice și un loc perfect pentru fotografii panoramice memorabile.",
+            "en": "Discover the towering monument commemorating the 1758 Battle of Saint-Cast, offering historical insights and a perfect spot for memorable panoramic photos."
+          }
+        },
+        {
+          "name": {
+            "de": "La Vieuxville",
+            "hu": "La Vieuxville",
+            "ro": "La Vieuxville",
+            "en": "La Vieuxville"
+          },
+          "coords": [
+            -2.253839,
+            48.621514
+          ],
+          "category": "castle",
+          "arrive_at": "14:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie das elegante Gelände dieses historischen Schlosses, um das lokale Erbe zu entdecken, und tragen Sie bequeme Schuhe für die unebenen Wege.",
+            "hu": "Fedezze fel e történelmi kastélybirtok elegáns területét, hogy megismerje a helyi arisztokrata örökséget, és mindenképpen viseljen kényelmes sétacipőt.",
+            "ro": "Explorați terenurile elegante ale acestui castel istoric pentru a descoperi moștenirea aristocratică și asigurați-vă că purtați pantofi confortabili de mers.",
+            "en": "Explore the elegant grounds of this historic castle estate to uncover local aristocratic heritage, and make sure to wear comfortable shoes for walking the paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Pointe de la Garde",
+            "hu": "Pointe de la Garde",
+            "ro": "Pointe de la Garde",
+            "en": "Pointe de la Garde"
+          },
+          "coords": [
+            -2.238189,
+            48.625741
+          ],
+          "category": "natural",
+          "arrive_at": "15:46",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Wandern Sie auf diese spektakuläre Landzunge für einen Panoramablick auf die Smaragdküste und bringen Sie Ihre Kamera mit, um die atemberaubenden Sonnenuntergangsfarben einzufangen.",
+            "hu": "Túrázzon fel erre a látványos természetes hegyfokra a Smaragd-partra nyíló panorámáért, és hozza magával fényképezőgépét a lélegzetelállító naplemente színeinek megörökítéséhez.",
+            "ro": "Urcați pe acest promontoriu natural spectaculos pentru vederi panoramice ale Coastei de Smarald și aduceți camera pentru a surprinde nuanțele apusului.",
+            "en": "Hike up to this spectacular natural headland for sweeping panoramic views of the Emerald Coast, and bring your camera to capture the breathtaking sunset hues."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Pen Guen",
+            "hu": "Plage de Pen Guen",
+            "ro": "Plage de Pen Guen",
+            "en": "Plage de Pen Guen"
+          },
+          "coords": [
+            -2.237216,
+            48.615213
+          ],
+          "category": "recreational",
+          "arrive_at": "16:14",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie in dieser unberührten, von viel Grün umgebenen südlichen Bucht, dem idealen Ort, um den Tag mit einem erfrischenden Bad am späten Nachmittag zu beenden.",
+            "hu": "Kapcsolódjon ki ezen a buja növényzettel körülvett déli öbölben, amely ideális helyszín arra, hogy a napot egy frissítő késő délutáni tengerparti úszással zárja.",
+            "ro": "Relaxați-vă în acest golf sudic imaculat înconjurat de verdeață, fiind locul ideal pentru a vă încheia ziua cu o baie revigorantă pe coastă la sfârșitul după-amiezii.",
+            "en": "Unwind at this pristine southern cove surrounded by lush greenery, making it the ideal spot to conclude your day with a refreshing late afternoon coastal swim."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour mit der Erkundung der rauen und ruhigen nördlichen Strände, wo die dramatischen Klippen auf die morgendliche Flut treffen.\n\nFahren Sie mühelos von Bucht zu Bucht, bevor Sie in das historische Stadtzentrum fahren, um die Denkmäler zu bewundern.\n\nVerbringen Sie Ihren Nachmittag damit, in die aristokratische Vergangenheit auf dem alten Herrensitz einzutauchen und die Architektur zu genießen.\n\nIhr Tagesausflug endet an der spektakulären südlichen Bucht, wo Ihr Fahrzeug Ihnen die Freiheit gibt, dem perfekten Küstensonnenuntergang nachzujagen.",
+        "hu": "Kezdje autós túráját a zord és nyugodt északi strandok felfedezésével, ahol a drámai sziklák teljes nyugalomban találkoznak a kora reggeli dagállyal.\n\nVezessen könnyedén öbölről öbölre, mielőtt a történelmi városközpontba indulna, hogy megcsodálja az emlékműveket és a helyi építészetet.\n\nTöltse a délutánt az arisztokratikus múlt elmélyülésével a régi udvarház területén, könnyedén átváltva a város különféle történelmi helyszínei között.\n\nNapi kirándulása a látványos déli öbölnél és a hegyfoknál ér véget, ahol autója szabadságot ad, hogy üldözze a tökéletes esti naplementét.",
+        "ro": "Începeți turul cu mașina explorând plajele nordice stâncoase și liniștite, unde stâncile dramatice întâlnesc valurile dimineții într-o seninătate absolută.\n\nConduceți fără efort din golf în golf înainte de a vă îndrepta spre centrul istoric al orașului pentru a admira monumentele comemorative.\n\nPetreceți-vă după-amiaza aprofundând trecutul aristocratic la vechiul conac, trecând cu ușurință între diversele situri arhitecturale.\n\nCălătoria dvs. se încheie la spectaculosul golf sudic și promontoriu, unde vehiculul vă oferă libertatea de a urmări apusul perfect de seară.",
+        "en": "Begin your driving tour by exploring the rugged and tranquil northern beaches, where the dramatic cliffs meet the early morning tide in absolute serenity.\n\nDrive effortlessly from cove to cove before heading into the historic town center to marvel at the commemorative monuments.\n\nSpend your afternoon delving into the aristocratic past at the old manor grounds, easily transitioning between the town's diverse architectural sites.\n\nYour day trip concludes at the spectacular southern bay and headlands, where your vehicle gives you the freedom to chase the perfect evening coastal sunset."
+      }
+    }
+  }
+}

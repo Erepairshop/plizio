@@ -1,0 +1,451 @@
+{
+  "city_id": "puerto-vallarta-cities-v2",
+  "anchor": {
+    "name": "Puerto Vallarta",
+    "coords": [
+      -105.2173,
+      20.6534
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:05",
+      "total_km": 1.64,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cruise Port",
+            "hu": "Cruise Port",
+            "ro": "Cruise Port",
+            "en": "Cruise Port"
+          },
+          "coords": [
+            -105.241058,
+            20.654291
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie das geschäftige Treiben im Hafen, wo Luxuskreuzer anlegen und tolle Fotomotive bieten, also kommen Sie früh, um den Menschenmassen zu entgehen.",
+            "hu": "Figyelje meg a luxushajók érkezését ebben a nyüzsgő tengeri kikötőben, amely nagyszerű fotózási lehetőségeket kínál, ezért érkezzen korán a tömeg elkerülése végett.",
+            "ro": "Observați activitatea maritimă unde sosesc navele de croazieră, oferind oportunități foto excelente, așa că sosiți devreme pentru a evita aglomerația turistică.",
+            "en": "Observe the bustling maritime activity where luxury liners arrive, offering great photo opportunities, so arrive early to avoid the heaviest tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Administración Del Sistema Portuario Nacional Marina",
+            "hu": "Administración Del Sistema Portuario Nacional Marina",
+            "ro": "Administración Del Sistema Portuario Nacional Marina",
+            "en": "Administración Del Sistema Portuario Nacional Marina"
+          },
+          "coords": [
+            -105.243253,
+            20.653575
+          ],
+          "category": "landmark",
+          "arrive_at": "09:44",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Dieses Verwaltungszentrum leitet den gesamten Hafenbetrieb und bietet Einblicke in die lokale maritime Logistik, also bringen Sie Ihre Kamera für Architekturfotos mit.",
+            "hu": "Ez a közigazgatási központ irányítja a kikötő működését és betekintést nyújt a helyi tengeri logisztikába, ezért hozza magával fényképezőgépét az ipari épületekhez.",
+            "ro": "Acest centru administrativ gestionează operațiunile portuare și oferă o privire asupra logisticii maritime locale, așa că aduceți aparatul foto pentru arhitectura industrială.",
+            "en": "This administrative hub manages the entire port's operations and offers a glimpse into local maritime logistics, so bring your camera for industrial architecture shots."
+          }
+        },
+        {
+          "name": {
+            "de": "Alberca de",
+            "hu": "Alberca de",
+            "ro": "Alberca de",
+            "en": "Alberca de"
+          },
+          "coords": [
+            -105.243463,
+            20.650206
+          ],
+          "category": "recreational",
+          "arrive_at": "10:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich in diesem erfrischenden Freizeitbecken ab, das eine entspannte Umgebung abseits der Wellen bietet, also denken Sie an Ihr eigenes Handtuch und Sonnencreme.",
+            "hu": "Hűtse le magát ebben a frissítő medencében, amely pihentető környezetet biztosít a hullámoktól távol, ezért ne felejtsen el saját törölközőt és naptejet hozni.",
+            "ro": "Răcoriți-vă în această piscină de agrement care oferă un mediu relaxant departe de valuri, așa că nu uitați să vă împachetați propriul prosop și cremă de soare.",
+            "en": "Cool off in this refreshing recreational pool area which provides a relaxed environment away from the waves, so remember to pack your own towel and sunscreen."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Oro",
+            "hu": "Playa de Oro",
+            "ro": "Playa de Oro",
+            "en": "Playa de Oro"
+          },
+          "coords": [
+            -105.243098,
+            20.6479
+          ],
+          "category": "recreational",
+          "arrive_at": "11:24",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem goldenen Sandstrand entlang, der für seine lebhafte Atmosphäre und sanften Wellen bekannt ist, also mieten Sie einen Liegestuhl für maximalen Komfort.",
+            "hu": "Sétáljon ezen az aranyhomokos strandon, amely élénk hangulatáról és lágy hullámairól ismert, ezért béreljen egy napozóágyat a maximális kényelem és a reggeli úszás érdekében.",
+            "ro": "Plimbați-vă pe această plajă cu nisip auriu, cunoscută pentru atmosfera vibrantă și valurile blânde, perfectă pentru înot, așa că închiriați un șezlong pentru confort maxim.",
+            "en": "Stroll along this golden sand beach known for its vibrant atmosphere and gentle waves, making it perfect for a morning swim, so rent a lounge chair for maximum comfort."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Los Tules",
+            "hu": "Playa Los Tules",
+            "ro": "Playa Los Tules",
+            "en": "Playa Los Tules"
+          },
+          "coords": [
+            -105.239513,
+            20.642119
+          ],
+          "category": "recreational",
+          "arrive_at": "12:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem unberührten Ufer, das die majestätische Banderas-Bucht perfekt einrahmt und sich ideal zum Sonnenbaden eignet, also bringen Sie reichlich Trinkwasser mit.",
+            "hu": "Pihenjen ezen az érintetlen partszakaszon, amely tökéletesen keretezi a fenséges Banderas-öblöt, kiváló helyet biztosítva a napozáshoz, ezért hozzon magával bőséges ivóvizet.",
+            "ro": "Relaxați-vă pe acest țărm curat care încadrează perfect maiestuosul Golf Banderas, fiind un loc excelent pentru plajă, așa că aduceți multă apă de băut cu dumneavoastră.",
+            "en": "Relax on this pristine shoreline that perfectly frames the majestic Banderas Bay, providing an excellent spot for sunbathing, so bring plenty of drinking water with you."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung des geschäftigen maritimen Treibens rund um den modernen Kreuzfahrthafen. Wechseln Sie mittags zu den erfrischenden Freizeitbecken in der Nähe. Der Nachmittag lädt zu einem Spaziergang am goldenen Sand der Playa de Oro ein. Beenden Sie Ihren entspannten Spaziergang mit einem gemütlichen Abend an der Playa Los Tules.",
+        "hu": "Kezdje a reggelt a modern tengerjáró kikötő körüli nyüzsgő tengeri élet felfedezésével. Délben hűtse le magát a közeli frissítő szabadidős medencékben a napsütés elől. A délután arra csábít, hogy sétáljon a Playa de Oro aranyhomokos partján. Fejezze be pihentető sétáját egy kellemes estével a Playa Los Tules strandon, miközben a nap lenyugszik az öbölben.",
+        "ro": "Începeți dimineața explorând activitatea maritimă plină de viață din jurul portului modern. Până la prânz, treceți la piscinele de agrement răcoroase din apropiere pentru a vă adăposti de soare. După-amiaza vă invită să vă plimbați pe nisipurile aurii de la Playa de Oro. Încheiați plimbarea relaxantă petrecând seara la Playa Los Tules la apus.",
+        "en": "Start your morning exploring the bustling maritime activity around the modern cruise port area. By midday, transition to the refreshing recreational pools nearby to cool off from the sun. The afternoon invites you to stroll the golden sands of Playa de Oro. End your relaxing walk with an evening unwinding at Playa Los Tules as the sun dips below the bay."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:12",
+      "total_km": 8.47,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parque Estatal Estero el Salado",
+            "hu": "Parque Estatal Estero el Salado",
+            "ro": "Parque Estatal Estero el Salado",
+            "en": "Parque Estatal Estero el Salado"
+          },
+          "coords": [
+            -105.237928,
+            20.670067
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese geschützte städtische Flussmündung, die als Lebensraum für lokale Tiere wie Krokodile und Vögel dient, also tragen Sie bequeme Wanderschuhe.",
+            "hu": "Fedezze fel ezt a védett városi torkolatot, amely létfontosságú élőhely a helyi vadvilág, köztük krokodilok számára, ezért viseljen kényelmes sétacipőt a felfedezéshez.",
+            "ro": "Explorați acest estuar urban protejat care servește drept habitat vital pentru fauna locală, inclusiv crocodili și păsări, așa că purtați încălțăminte confortabilă de mers.",
+            "en": "Explore this protected urban estuary that serves as a vital habitat for local wildlife including crocodiles and diverse bird species, so wear comfortable walking shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Cruise Port",
+            "hu": "Cruise Port",
+            "ro": "Cruise Port",
+            "en": "Cruise Port"
+          },
+          "coords": [
+            -105.241058,
+            20.654291
+          ],
+          "category": "landmark",
+          "arrive_at": "10:35",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Beobachten Sie das geschäftige Treiben im Hafen, wo Luxuskreuzer anlegen und tolle Fotomotive bieten, also kommen Sie früh, um den Menschenmassen zu entgehen.",
+            "hu": "Figyelje meg a luxushajók érkezését ebben a nyüzsgő tengeri kikötőben, amely nagyszerű fotózási lehetőségeket kínál, ezért érkezzen korán a tömeg elkerülése végett.",
+            "ro": "Observați activitatea maritimă unde sosesc navele de croazieră, oferind oportunități foto excelente, așa că sosiți devreme pentru a evita aglomerația turistică.",
+            "en": "Observe the bustling maritime activity where luxury liners arrive, offering great photo opportunities, so arrive early to avoid the heaviest tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Oro",
+            "hu": "Playa de Oro",
+            "ro": "Playa de Oro",
+            "en": "Playa de Oro"
+          },
+          "coords": [
+            -105.243098,
+            20.6479
+          ],
+          "category": "recreational",
+          "arrive_at": "11:09",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.74,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem goldenen Sandstrand entlang, der für seine lebhafte Atmosphäre und sanften Wellen bekannt ist, also mieten Sie einen Liegestuhl für maximalen Komfort.",
+            "hu": "Sétáljon ezen az aranyhomokos strandon, amely élénk hangulatáról és lágy hullámairól ismert, ezért béreljen egy napozóágyat a maximális kényelem és a reggeli úszás érdekében.",
+            "ro": "Plimbați-vă pe această plajă cu nisip auriu, cunoscută pentru atmosfera vibrantă și valurile blânde, perfectă pentru înot, așa că închiriați un șezlong pentru confort maxim.",
+            "en": "Stroll along this golden sand beach known for its vibrant atmosphere and gentle waves, making it perfect for a morning swim, so rent a lounge chair for maximum comfort."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Las Glorias",
+            "hu": "Playa Las Glorias",
+            "ro": "Playa Las Glorias",
+            "en": "Playa Las Glorias"
+          },
+          "coords": [
+            -105.233164,
+            20.632303
+          ],
+          "category": "recreational",
+          "arrive_at": "12:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem charmanten, etwas ruhigeren Strandabschnitt, der bei Einheimischen für seine Sonnenuntergänge beliebt ist, also holen Sie sich frühzeitig ein Getränk.",
+            "hu": "Kapcsolódjon ki ezen a bájos és kissé csendesebb strandon, amelyet a helyiek is kedvelnek a lenyűgöző naplemente miatt, ezért vegyen egy frissítő italt egy közeli árustól.",
+            "ro": "Relaxați-vă pe această plajă fermecătoare și ușor mai liniștită, iubită de localnici pentru apusurile sale uimitoare, așa că luați o băutură răcoritoare de la un vânzător din apropiere.",
+            "en": "Unwind at this charming and slightly quieter beach area which is beloved by locals for its stunning sunset views, so grab a refreshing drink from a nearby vendor early on."
+          }
+        },
+        {
+          "name": {
+            "de": "Children's Pool",
+            "hu": "Children's Pool",
+            "ro": "Children's Pool",
+            "en": "Children's Pool"
+          },
+          "coords": [
+            -105.232104,
+            20.631683
+          ],
+          "category": "recreational",
+          "arrive_at": "13:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Gönnen Sie Ihrer Familie ein sicheres Wassererlebnis in diesem flachen Becken für jüngere Besucher, also packen Sie für alle Fälle zusätzliche trockene Kleidung für die Kleinen ein.",
+            "hu": "Lepje meg családját egy biztonságos vízi élménnyel ebben a sekély, kifejezetten fiatalabb látogatóknak tervezett medencében, ezért pakoljon be száraz váltóruhát a kicsiknek.",
+            "ro": "Oferiți familiei o experiență acvatică sigură în această piscină puțin adâncă, special concepută pentru vizitatorii tineri, așa că luați haine uscate de schimb pentru cei mici.",
+            "en": "Treat your family to a safe aquatic experience in this shallow pool specifically designed for younger visitors, so pack extra dry clothes for the little ones just in case."
+          }
+        },
+        {
+          "name": {
+            "de": "Sapphire Ocean Club and Suites",
+            "hu": "Sapphire Ocean Club and Suites",
+            "ro": "Sapphire Ocean Club and Suites",
+            "en": "Sapphire Ocean Club and Suites"
+          },
+          "coords": [
+            -105.239191,
+            20.597858
+          ],
+          "category": "recreational",
+          "arrive_at": "14:42",
+          "stay_min": 90,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich erstklassige Entspannung in diesem exklusiven Club am Strand mit Top-Ausstattung und herrlichem Blick, also buchen Sie Ihre Sonnenliege frühzeitig online.",
+            "hu": "Kényeztesse magát prémium minőségű vízparti pihenéssel ebben az exkluzív klubban, amely kiváló felszereltséget kínál, ezért érdemes a napozóágyat jó előre lefoglalni online.",
+            "ro": "Răsfățați-vă cu relaxare premium pe plajă la acest club exclusivist care oferă facilități de top și priveliști deosebite, așa că rezervați-vă șezlongul online din timp.",
+            "en": "Indulge in premium beachfront relaxation at this exclusive club offering top-tier amenities and exquisite views, so consider booking your sun lounger well in advance online."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Fahrradabenteuer beginnt in den geschützten Feuchtgebieten der nördlichen Flussmündung. Wenn es wärmer wird, radeln Sie zum belebten Hafen und den angrenzenden Stränden. Der Nachmittag führt Sie an der Küste entlang zu beliebten Sandstränden. Beenden Sie Ihre Fahrt schließlich in den gehobenen Beach Clubs im Süden für einen luxuriösen Abend.",
+        "hu": "Kerékpáros kalandja az északi torkolatvidék védett, nyugodt vizes élőhelyein kezdődik. Ahogy a nap melegszik, tekerjen le a nyüzsgő kikötőhöz és az aranyhomokos strandokhoz. A délután a part mentén vezet a népszerű homokos partokon keresztül. Végül zárja utazását a déli luxus strandklubokban egy elegáns és pihentető este keretében.",
+        "ro": "Aventura pe bicicletă începe în zonele umede protejate ale estuarului nordic. Pe măsură ce ziua se încălzește, pedalați spre portul plin de viață și plajele adiacente. După-amiaza vă poartă de-a lungul coastei prin zone nisipoase populare, perfecte pentru o baie rapidă. În cele din urmă, încheiați cursa în cluburile de plajă exclusiviste din sud pentru o seară de lux.",
+        "en": "Your cycling adventure begins in the serene protected wetlands of the northern estuary. As the day warms up, pedal down to the lively port and adjacent golden beaches. The afternoon brings you along the coast through popular sandy shores perfect for a quick dip. Finally, conclude your ride in the upscale southern beach clubs for a luxurious evening retreat."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 13.63,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rancho Madre Tierra",
+            "hu": "Rancho Madre Tierra",
+            "ro": "Rancho Madre Tierra",
+            "en": "Rancho Madre Tierra"
+          },
+          "coords": [
+            -105.211976,
+            20.686245
+          ],
+          "category": "wildlife",
+          "arrive_at": "09:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Verbinden Sie sich mit der Natur auf dieser schönen Ranch, die ein authentisches mexikanisches Landleben voller Flora und Fauna bietet, also entscheiden Sie sich für eine Reittour.",
+            "hu": "Kerüljön kapcsolatba a természettel ezen a gyönyörű rancson, amely autentikus mexikói vidéki élményt nyújt helyi növényzettel, ezért válasszon egy vezetett lovastúrát.",
+            "ro": "Conectați-vă cu natura la acest ranch frumos care oferă o experiență autentică a peisajului mexican cu floră și faună locală, așa că optați pentru un tur ghidat călare.",
+            "en": "Connect with nature at this beautiful ranch that provides an authentic Mexican countryside experience full of local flora and fauna, so opt for a guided horseback tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Estatal Estero el Salado",
+            "hu": "Parque Estatal Estero el Salado",
+            "ro": "Parque Estatal Estero el Salado",
+            "en": "Parque Estatal Estero el Salado"
+          },
+          "coords": [
+            -105.237928,
+            20.670067
+          ],
+          "category": "natural",
+          "arrive_at": "10:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese geschützte städtische Flussmündung, die als Lebensraum für lokale Tiere wie Krokodile und Vögel dient, also tragen Sie bequeme Wanderschuhe.",
+            "hu": "Fedezze fel ezt a védett városi torkolatot, amely létfontosságú élőhely a helyi vadvilág, köztük krokodilok számára, ezért viseljen kényelmes sétacipőt a felfedezéshez.",
+            "ro": "Explorați acest estuar urban protejat care servește drept habitat vital pentru fauna locală, inclusiv crocodili și păsări, așa că purtați încălțăminte confortabilă de mers.",
+            "en": "Explore this protected urban estuary that serves as a vital habitat for local wildlife including crocodiles and diverse bird species, so wear comfortable walking shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "La Lija",
+            "hu": "La Lija",
+            "ro": "La Lija",
+            "en": "La Lija"
+          },
+          "coords": [
+            -105.21512,
+            20.660624
+          ],
+          "category": "recreational",
+          "arrive_at": "12:08",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Mischen Sie sich unter die lokale Gemeinde in diesem weitläufigen Freizeitkomplex mit Sportplätzen und Versammlungsräumen, also prüfen Sie den Zeitplan für spontane Events.",
+            "hu": "Vegyüljön el a helyi közösségben ebben a kiterjedt, sportpályákkal és közösségi terekkel rendelkező komplexumban, ezért ellenőrizze a programot a spontán események miatt.",
+            "ro": "Amestecați-vă cu comunitatea locală în acest complex de recreere vast, cu terenuri de sport și spații de adunare, așa că verificați programul local pentru evenimente spontane.",
+            "en": "Mingle with the local community in this expansive recreational complex featuring sports courts and gathering spaces, so check the local schedule for spontaneous community events."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Las Glorias",
+            "hu": "Playa Las Glorias",
+            "ro": "Playa Las Glorias",
+            "en": "Playa Las Glorias"
+          },
+          "coords": [
+            -105.233164,
+            20.632303
+          ],
+          "category": "recreational",
+          "arrive_at": "13:16",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem charmanten, etwas ruhigeren Strandabschnitt, der bei Einheimischen für seine Sonnenuntergänge beliebt ist, also holen Sie sich frühzeitig ein Getränk.",
+            "hu": "Kapcsolódjon ki ezen a bájos és kissé csendesebb strandon, amelyet a helyiek is kedvelnek a lenyűgöző naplemente miatt, ezért vegyen egy frissítő italt egy közeli árustól.",
+            "ro": "Relaxați-vă pe această plajă fermecătoare și ușor mai liniștită, iubită de localnici pentru apusurile sale uimitoare, așa că luați o băutură răcoritoare de la un vânzător din apropiere.",
+            "en": "Unwind at this charming and slightly quieter beach area which is beloved by locals for its stunning sunset views, so grab a refreshing drink from a nearby vendor early on."
+          }
+        },
+        {
+          "name": {
+            "de": "Sapphire Ocean Club and Suites",
+            "hu": "Sapphire Ocean Club and Suites",
+            "ro": "Sapphire Ocean Club and Suites",
+            "en": "Sapphire Ocean Club and Suites"
+          },
+          "coords": [
+            -105.239191,
+            20.597858
+          ],
+          "category": "recreational",
+          "arrive_at": "14:24",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.9,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich erstklassige Entspannung in diesem exklusiven Club am Strand mit Top-Ausstattung und herrlichem Blick, also buchen Sie Ihre Sonnenliege frühzeitig online.",
+            "hu": "Kényeztesse magát prémium minőségű vízparti pihenéssel ebben az exkluzív klubban, amely kiváló felszereltséget kínál, ezért érdemes a napozóágyat jó előre lefoglalni online.",
+            "ro": "Răsfățați-vă cu relaxare premium pe plajă la acest club exclusivist care oferă facilități de top și priveliști deosebite, așa că rezervați-vă șezlongul online din timp.",
+            "en": "Indulge in premium beachfront relaxation at this exclusive club offering top-tier amenities and exquisite views, so consider booking your sun lounger well in advance online."
+          }
+        },
+        {
+          "name": {
+            "de": "Mantamar Beach Club",
+            "hu": "Mantamar Beach Club",
+            "ro": "Mantamar Beach Club",
+            "en": "Mantamar Beach Club"
+          },
+          "coords": [
+            -105.239525,
+            20.596723
+          ],
+          "category": "recreational",
+          "arrive_at": "15:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte und anspruchsvolle Atmosphäre für Erwachsene in diesem erstklassigen Beach Club mit Musik, also kommen Sie früh, um die beste Aussicht zu sichern.",
+            "hu": "Tapasztalja meg az élénk és kifinomult felnőttbarát légkört ebben a prémium strandklubban zenével és luxus kabanákkal, ezért érkezzen korán a legjobb tengerparti kilátásért.",
+            "ro": "Experimentați atmosfera plină de viață și sofisticată pentru adulți la acest club de plajă de top cu cabane de lux, așa că sosiți devreme pentru a asigura cea mai bună vedere.",
+            "en": "Experience the lively and sophisticated adult-oriented atmosphere of this premier beach club with luxury cabanas and upbeat music, so arrive early to secure the best seaside view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie früh zu den malerischen Ranches im Norden, um die authentische Tierwelt zu erleben. Mittags kehren Sie in die Stadt zurück, um lokale Gemeindezentren und grüne Parks zu entdecken. Verbringen Sie den Nachmittag damit, die Sonne an den beliebten zentralen Stränden zu genießen. Der Abend gipfelt in den pulsierenden Beach Clubs im Süden, ideal für einen Cocktail.",
+        "hu": "Autózzon ki korán a festői északi rancsokra, hogy megtapasztalja a vidék autentikus vadvilágát. A dél dél felé, a város felé irányítja, hogy felfedezze a helyi közösségi tereket és a buja parkokat. Töltse a délutánt a szeretett központi strandokon a napfényben fürdőzve. Az este a nyüzsgő déli strandklubokban tetőzik, amely tökéletes egy naplementés koktélhoz.",
+        "ro": "Conduceți devreme către fermele nordice pitorești pentru a experimenta fauna autentică a zonei rurale. Prânzul vă ghidează înapoi spre oraș pentru a descoperi centrele comunitare și parcurile naturale luxuriante. Petreceți-vă după-amiaza la soare pe plajele centrale populare. Seara atinge apogeul la cluburile de plajă vibrante din sud, perfecte pentru un cocktail.",
+        "en": "Drive out early to the scenic northern ranches to experience the authentic wildlife of the countryside. Midday guides you back towards the city to discover local community hubs and lush natural parks. Spend your afternoon catching the rays at the beloved central beaches. The evening peaks at the vibrant southernmost beach clubs, perfect for a sunset cocktail."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "thailand-choeng-thale-cities-v2",
+  "anchor": {
+    "name": "Choeng Thale",
+    "coords": [
+      98.30702,
+      7.98905
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:27",
+      "total_km": 5.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Porto de Phuket",
+            "hu": "Porto de Phuket",
+            "ro": "Porto de Phuket",
+            "en": "Porto de Phuket"
+          },
+          "coords": [
+            98.305381,
+            7.991586
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese Open-Air-Mall wegen ihrer einzigartigen Mischung aus Boutiquen und lokalem Flair, aber kommen Sie früh für einen Schattenparkplatz.",
+            "hu": "Fedezze fel ezt a nyitott terű bevásárlóközpontot az elegáns butikok miatt, de érkezzen korán, hogy biztosan találjon árnyékos parkolóhelyet.",
+            "ro": "Explorați acest mall în aer liber pentru amestecul său de buticuri elegante, dar veniți devreme pentru a vă asigura un loc de parcare la umbră.",
+            "en": "Discover this open-air lifestyle mall for its unique blend of upscale boutiques and local flavor, but come early to secure a shaded parking spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Choeng Thale",
+            "hu": "Wat Choeng Thale",
+            "ro": "Wat Choeng Thale",
+            "en": "Wat Choeng Thale"
+          },
+          "coords": [
+            98.312127,
+            7.989114
+          ],
+          "category": "religious",
+          "arrive_at": "10:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle thailändische Architektur dieses ruhigen Tempels und denken Sie daran, Schultern und Knie stets bedeckt zu halten.",
+            "hu": "Csodálja meg e békés helyi templom hagyományos thai építészetét, és ne feledje, hogy a vállakat és térdeket elfedő ruházat viselése kötelező.",
+            "ro": "Admirați arhitectura tradițională thailandeză a acestui templu local liniștit, amintindu-vă să purtați haine care vă acoperă umerii și genunchii.",
+            "en": "Admire the intricate traditional Thai architecture of this serene local temple, remembering to wear clothing that covers your shoulders and knees."
+          }
+        },
+        {
+          "name": {
+            "de": "Lotus Arena",
+            "hu": "Lotus Arena",
+            "ro": "Lotus Arena",
+            "en": "Lotus Arena"
+          },
+          "coords": [
+            98.310065,
+            7.984822
+          ],
+          "category": "cultural",
+          "arrive_at": "10:51",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erleben Sie die pulsierende Energie kultureller Aufführungen in diesem modernen Veranstaltungsort, wo Vorabbuchungen die besten Plätze garantieren.",
+            "hu": "Élvezze a kulturális előadások vibráló energiáját ezen a modern helyszínen, ahol az egy nappal korábbi jegyfoglalás garantálja a legjobb ülőhelyeket.",
+            "ro": "Experimentați energia vibrantă a spectacolelor culturale în acest spațiu modern, unde rezervarea biletelor cu o zi înainte vă asigură cele mai bune locuri.",
+            "en": "Experience the vibrant energy of cultural performances at this modern venue, where booking tickets a day in advance guarantees the best seating."
+          }
+        },
+        {
+          "name": {
+            "de": "Blue Tree",
+            "hu": "Blue Tree",
+            "ro": "Blue Tree",
+            "en": "Blue Tree"
+          },
+          "coords": [
+            98.319041,
+            7.990277
+          ],
+          "category": "recreational",
+          "arrive_at": "12:09",
+          "stay_min": 90,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die riesige kristallklare Lagune für endlose Familienunterhaltung ein und mieten Sie online eine Cabana als entspannendes Basislager.",
+            "hu": "Csobbanjon a hatalmas kristálytiszta lagúnába az egész napos családi szórakozásért, és béreljen sátrat online, hogy legyen egy nyugodt alaptábora.",
+            "ro": "Scufundați-vă în laguna imensă și cristalină pentru divertisment în familie și nu uitați să închiriați online un pavilion pentru relaxare pe tot parcursul zilei.",
+            "en": "Dive into the massive crystal lagoon for endless family entertainment, and don't forget to rent a cabana online for a relaxing basecamp all day."
+          }
+        },
+        {
+          "name": {
+            "de": "Phuket Marathon",
+            "hu": "Phuket Maraton",
+            "ro": "Maratonul Phuket",
+            "en": "Phuket Marathon"
+          },
+          "coords": [
+            98.298279,
+            7.998367
+          ],
+          "category": "landmark",
+          "arrive_at": "14:17",
+          "stay_min": 70,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Startgelände des berühmten internationalen Marathons, das breite gepflasterte Wege bietet, die sich perfekt für morgendliches Joggen eignen.",
+            "hu": "Tekintse meg a híres nemzetközi maraton rajtterületét, amelynek széles, burkolt ösvényei tökéletesek egy reggeli kocogáshoz vagy könnyed sétához.",
+            "ro": "Vizitați zona de start a faimosului maraton internațional, care oferă alei largi pavate, perfecte pentru o alergare matinală sau o plimbare ușoară.",
+            "en": "Check out the starting grounds of the famous international marathon event, which offers wide paved paths perfect for a morning jog or gentle stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag im Zentrum von Choeng Thale und schlendern Sie durch die Open-Air-Mall. Finden Sie danach einen Moment der Ruhe am wunderschönen Haupttempel der Gemeinde und bewundern Sie die thailändischen Designs im Morgenlicht.\n\nSetzen Sie Ihre kulturelle Erkundung am modernen Lotus Arena fort und genießen Sie das architektonische Ambiente. Nach einem Snack geht es zum weitläufigen Wasserpark Blue Tree.\n\nVerbringen Sie den Nachmittag damit, die Freizeiteinrichtungen rund um die kristallklare Lagune zu genießen. Ob Schwimmen oder Entspannen, die pulsierende Energie bietet die perfekte tropische Flucht.\n\nBeenden Sie Ihre Tour in der Nähe des legendären Marathongeländes. Genießen Sie einen gemütlichen Spaziergang auf den Wegen bei Sonnenuntergang und lassen Sie den ausgewogenen Tag in Phuket Revue passieren.",
+        "hu": "Kezdje a napot Choeng Thale nyüzsgő központjában, az elegáns szabadtéri bevásárlóközpontban. Később találjon nyugalmat a helyi főtemplomban, csodálva a thai motívumokat a reggeli fényben.\n\nFolytassa a kulturális felfedezést a modern Lotus Arenában, elmerülve az építészeti hangulatban. Kapjon be egy falatot, mielőtt a hatalmas Blue Tree vízipark felé veszi az irányt.\n\nTöltse a délutánját a kristálytiszta lagúna körüli szabadidős létesítmények élvezetével. Akár úszik, akár csak pihen, az élénk energia tökéletes trópusi kikapcsolódást nyújt.\n\nZárja sétáját az ikonikus maraton helyszínénél. Tegyen egy kellemes sétát a kövezett ösvényeken a lemenő nap fényében, és gondoljon vissza erre a tökéletesen kiegyensúlyozott phuketi napra.",
+        "ro": "Începeți ziua în centrul aglomerat din Choeng Thale, explorând elegantul mall în aer liber. Mai târziu, găsiți un moment de liniște la frumosul templu principal al comunității, admirând designurile thailandeze.\n\nContinuați explorarea culturală cu o vizită la moderna Lotus Arena. Luați o gustare în apropiere înainte de a vă îndrepta spre imensul parc acvatic Blue Tree pentru o după-amiază dinamică.\n\nPetreceți după-amiaza bucurându-vă de facilitățile de agrement din jurul lagunei cristaline. Fie că înotați sau doar vă relaxați la soare, energia vibrantă oferă evadarea tropicală perfectă.\n\nÎncheiați turul pietonal lângă zona emblematică a maratonului. Bucurați-vă de o plimbare relaxantă pe aleile pavate la apus, reflectând la o zi perfect echilibrată în frumoasa insulă Phuket.",
+        "en": "Start your day in the bustling heart of Choeng Thale, browsing the elegant open-air lifestyle mall. Later, find a moment of peace and reflection at the community's beautiful main temple, admiring the intricate Thai designs in the morning light.\n\nContinue your cultural exploration with a visit to the modern Lotus Arena, soaking in the architectural ambiance. Grab a bite nearby before heading towards the expansive Blue Tree water park for a dynamic afternoon.\n\nSpend the core of your afternoon enjoying the recreational facilities around the crystal lagoon. Whether you prefer swimming or simply lounging by the water, the vibrant energy provides the perfect tropical escape.\n\nConclude your walking tour near the iconic marathon grounds, a symbol of local health and fitness. Enjoy a leisurely stroll along the paved pathways as the sun sets, reflecting on a perfectly balanced day in Phuket."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:48",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Wat Choeng Thale",
+            "hu": "Wat Choeng Thale",
+            "ro": "Wat Choeng Thale",
+            "en": "Wat Choeng Thale"
+          },
+          "coords": [
+            98.312127,
+            7.989114
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle thailändische Architektur dieses ruhigen Tempels und denken Sie daran, Schultern und Knie stets bedeckt zu halten.",
+            "hu": "Csodálja meg e békés helyi templom hagyományos thai építészetét, és ne feledje, hogy a vállakat és térdeket elfedő ruházat viselése kötelező.",
+            "ro": "Admirați arhitectura tradițională thailandeză a acestui templu local liniștit, amintindu-vă să purtați haine care vă acoperă umerii și genunchii.",
+            "en": "Admire the intricate traditional Thai architecture of this serene local temple, remembering to wear clothing that covers your shoulders and knees."
+          }
+        },
+        {
+          "name": {
+            "de": "Blue Tree",
+            "hu": "Blue Tree",
+            "ro": "Blue Tree",
+            "en": "Blue Tree"
+          },
+          "coords": [
+            98.319041,
+            7.990277
+          ],
+          "category": "recreational",
+          "arrive_at": "09:56",
+          "stay_min": 90,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die riesige kristallklare Lagune für endlose Familienunterhaltung ein und mieten Sie online eine Cabana als entspannendes Basislager.",
+            "hu": "Csobbanjon a hatalmas kristálytiszta lagúnába az egész napos családi szórakozásért, és béreljen sátrat online, hogy legyen egy nyugodt alaptábora.",
+            "ro": "Scufundați-vă în laguna imensă și cristalină pentru divertisment în familie și nu uitați să închiriați online un pavilion pentru relaxare pe tot parcursul zilei.",
+            "en": "Dive into the massive crystal lagoon for endless family entertainment, and don't forget to rent a cabana online for a relaxing basecamp all day."
+          }
+        },
+        {
+          "name": {
+            "de": "Porto de Phuket",
+            "hu": "Porto de Phuket",
+            "ro": "Porto de Phuket",
+            "en": "Porto de Phuket"
+          },
+          "coords": [
+            98.305381,
+            7.991586
+          ],
+          "category": "landmark",
+          "arrive_at": "11:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese Open-Air-Mall wegen ihrer einzigartigen Mischung aus Boutiquen und lokalem Flair, aber kommen Sie früh für einen Schattenparkplatz.",
+            "hu": "Fedezze fel ezt a nyitott terű bevásárlóközpontot az elegáns butikok miatt, de érkezzen korán, hogy biztosan találjon árnyékos parkolóhelyet.",
+            "ro": "Explorați acest mall în aer liber pentru amestecul său de buticuri elegante, dar veniți devreme pentru a vă asigura un loc de parcare la umbră.",
+            "en": "Discover this open-air lifestyle mall for its unique blend of upscale boutiques and local flavor, but come early to secure a shaded parking spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Phuket Marathon",
+            "hu": "Phuket Maraton",
+            "ro": "Maratonul Phuket",
+            "en": "Phuket Marathon"
+          },
+          "coords": [
+            98.298279,
+            7.998367
+          ],
+          "category": "landmark",
+          "arrive_at": "12:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Startgelände des berühmten internationalen Marathons, das breite gepflasterte Wege bietet, die sich perfekt für morgendliches Joggen eignen.",
+            "hu": "Tekintse meg a híres nemzetközi maraton rajtterületét, amelynek széles, burkolt ösvényei tökéletesek egy reggeli kocogáshoz vagy könnyed sétához.",
+            "ro": "Vizitați zona de start a faimosului maraton internațional, care oferă alei largi pavate, perfecte pentru o alergare matinală sau o plimbare ușoară.",
+            "en": "Check out the starting grounds of the famous international marathon event, which offers wide paved paths perfect for a morning jog or gentle stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Angsana Laguna Wedding Chapel",
+            "hu": "Angsana Laguna Esküvői Kápolna",
+            "ro": "Capela Angsana Laguna",
+            "en": "Angsana Laguna Wedding Chapel"
+          },
+          "coords": [
+            98.297072,
+            8.003385
+          ],
+          "category": "landmark",
+          "arrive_at": "13:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Fotografieren Sie diese elegante, weiße, auf der Lagune schwebende Kapelle und nutzen Sie das Licht der goldenen Stunde für magische Spiegelungen.",
+            "hu": "Készítsen lenyűgöző fotókat erről a lagúnán lebegő, elegáns fehér kápolnáról, és használja ki az aranyóra fényeit a varázslatos tükröződésekért.",
+            "ro": "Fotografiați această capelă albă elegantă care plutește pe lagună, profitând de lumina orei de aur pentru a surprinde reflexii magice pe apă.",
+            "en": "Capture stunning photographs of this elegant white chapel floating on the lagoon, catching the golden hour light for the most magical reflections."
+          }
+        },
+        {
+          "name": {
+            "de": "Bang Tao Beach",
+            "hu": "Bang Tao Part",
+            "ro": "Plaja Bang Tao",
+            "en": "Bang Tao Beach"
+          },
+          "coords": [
+            98.290478,
+            8.007384
+          ],
+          "category": "recreational",
+          "arrive_at": "13:48",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Spazieren Sie diesen sechs Kilometer langen Strand mit weichem Sand entlang und holen Sie sich am ruhigeren nördlichen Ende eine frische Kokosnuss.",
+            "hu": "Sétáljon végig ezen a hat kilométer hosszú, puha fehér homokos partszakaszon, és vegyen egy friss kókuszt a csendesebb északi végén lévő árusoktól.",
+            "ro": "Plimbați-vă de-a lungul acestei plaje imaculate de șase kilometri și luați o nucă de cocos proaspătă de la un vânzător din capătul nordic, mai liniștit.",
+            "en": "Stroll along this pristine six-kilometer stretch of soft white sand, and grab a fresh coconut from a local vendor near the northern quieter end."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer am ruhigen örtlichen Tempel. Radeln Sie weiter zur riesigen Freizeitlagune, um die lebhafte Morgenatmosphäre einzufangen, bevor die Mittagshitze einsetzt.\n\nFahren Sie zum stilvollen Open-Air-Einkaufsdorf für eine wohlverdiente Mittagspause. Danach radeln Sie an den breiten Wegen des Marathongeländes vorbei und genießen die offenen Grünflächen.\n\nNavigieren Sie durch den luxuriösen Laguna-Resortkomplex zur atemberaubenden schwimmenden Hochzeitskapelle. Die sanfte Brise des Wassers macht diesen Teil der Fahrt besonders erfrischend.\n\nBeenden Sie Ihre Reise am atemberaubenden sechs Kilometer langen Strand. Parken Sie Ihr Rad und beobachten Sie einen spektakulären tropischen Sonnenuntergang über der Andamanensee.",
+        "hu": "Indítsa kerékpáros kalandját a békés helyi templomnál. Tekerjen el a hatalmas szabadidős lagúnához, hogy elcsípje a nyüzsgő reggeli hangulatot, mielőtt a déli hőség beköszöntene.\n\nGuruljon át a stílusos szabadtéri bevásárlófaluba egy megérdemelt ebédszünetre. Ezután kerékpározzon el a maraton területének széles sávjai mellett, élvezve a zöldterületeket.\n\nNavigáljon át a fényűző Laguna üdülőközponton, hogy megtalálja a lenyűgöző lebegő esküvői kápolnát. A víz felől érkező lágy szellő különösen frissítővé teszi az utat.\n\nFejezze be az útját a lenyűgöző, hat kilométer hosszú tengerparton. Parkolja le a kerékpárt, és nézze végig a látványos trópusi naplementét az Andamán-tenger felett.",
+        "ro": "Începeți aventura pe bicicletă la liniștitul templu local. Pedați către imensa lagună de agrement pentru a prinde atmosfera plină de viață a dimineții înainte să se instaleze căldura amiezii.\n\nMergeți către elegantul sat de cumpărături în aer liber pentru o pauză de prânz. Apoi, pedalați pe lângă aleile largi ale zonei de maraton, bucurându-vă de mersul lin și de spațiile verzi.\n\nNavigați prin complexul luxos Laguna pentru a găsi uimitoarea capelă de nunți plutitoare. Briza blândă de pe apele din jur face această parte a plimbării deosebit de pitorească.\n\nTerminați călătoria pe uimitoarea plajă lungă de șase kilometri. Parcați bicicleta și urmăriți un apus tropical spectaculos peste Marea Andaman pentru a încheia ziua activă.",
+        "en": "Kick off your cycling adventure at the serene local temple, a perfect quiet start. Pedal your way to the massive recreational lagoon to catch the lively morning atmosphere before the midday heat sets in.\n\nCruise over to the stylish open-air shopping village for a well-deserved break and lunch. Afterward, cycle past the wide lanes of the marathon area, enjoying the smooth riding conditions and open green spaces.\n\nNavigate through the luxurious Laguna resort complex to find the stunning floating wedding chapel. The gentle breeze off the surrounding waters makes this part of the ride particularly refreshing and picturesque.\n\nFinish your journey at the stunning six-kilometer stretch of beach. Park your bike and sink your toes into the soft sand, watching a spectacular tropical sunset over the Andaman Sea to cap off your active day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:41",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Wat Choeng Thale",
+            "hu": "Wat Choeng Thale",
+            "ro": "Wat Choeng Thale",
+            "en": "Wat Choeng Thale"
+          },
+          "coords": [
+            98.312127,
+            7.989114
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle thailändische Architektur dieses ruhigen Tempels und denken Sie daran, Schultern und Knie stets bedeckt zu halten.",
+            "hu": "Csodálja meg e békés helyi templom hagyományos thai építészetét, és ne feledje, hogy a vállakat és térdeket elfedő ruházat viselése kötelező.",
+            "ro": "Admirați arhitectura tradițională thailandeză a acestui templu local liniștit, amintindu-vă să purtați haine care vă acoperă umerii și genunchii.",
+            "en": "Admire the intricate traditional Thai architecture of this serene local temple, remembering to wear clothing that covers your shoulders and knees."
+          }
+        },
+        {
+          "name": {
+            "de": "Phuket Nature Elephant Reserve",
+            "hu": "Phuket Nature Elefántrezervátum",
+            "ro": "Rezervația de Elefanți Phuket Nature",
+            "en": "Phuket Nature Elephant Reserve"
+          },
+          "coords": [
+            98.326179,
+            7.976463
+          ],
+          "category": "landmark",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Unterstützen Sie den ethischen Tierschutz, indem Sie diese sanften Riesen beobachten, und tragen Sie feste Schuhe für die unbefestigten Dschungelwege.",
+            "hu": "Támogassa az etikus állatvédelmet e szelíd óriások megfigyelésével természetes élőhelyükön, és viseljen masszív cipőt az erdei ösvények bejárásához.",
+            "ro": "Susțineți conservarea etică a faunei sălbatice observând acești giganți blânzi, asigurându-vă că purtați încălțăminte robustă pentru traseele de pământ.",
+            "en": "Support ethical wildlife conservation by observing these gentle giants in a natural habitat, ensuring you wear sturdy shoes for walking the trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Blue Tree",
+            "hu": "Blue Tree",
+            "ro": "Blue Tree",
+            "en": "Blue Tree"
+          },
+          "coords": [
+            98.319041,
+            7.990277
+          ],
+          "category": "recreational",
+          "arrive_at": "10:39",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die riesige kristallklare Lagune für endlose Familienunterhaltung ein und mieten Sie online eine Cabana als entspannendes Basislager.",
+            "hu": "Csobbanjon a hatalmas kristálytiszta lagúnába az egész napos családi szórakozásért, és béreljen sátrat online, hogy legyen egy nyugodt alaptábora.",
+            "ro": "Scufundați-vă în laguna imensă și cristalină pentru divertisment în familie și nu uitați să închiriați online un pavilion pentru relaxare pe tot parcursul zilei.",
+            "en": "Dive into the massive crystal lagoon for endless family entertainment, and don't forget to rent a cabana online for a relaxing basecamp all day."
+          }
+        },
+        {
+          "name": {
+            "de": "Lotus Arena",
+            "hu": "Lotus Arena",
+            "ro": "Lotus Arena",
+            "en": "Lotus Arena"
+          },
+          "coords": [
+            98.310065,
+            7.984822
+          ],
+          "category": "cultural",
+          "arrive_at": "12:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die pulsierende Energie kultureller Aufführungen in diesem modernen Veranstaltungsort, wo Vorabbuchungen die besten Plätze garantieren.",
+            "hu": "Élvezze a kulturális előadások vibráló energiáját ezen a modern helyszínen, ahol az egy nappal korábbi jegyfoglalás garantálja a legjobb ülőhelyeket.",
+            "ro": "Experimentați energia vibrantă a spectacolelor culturale în acest spațiu modern, unde rezervarea biletelor cu o zi înainte vă asigură cele mai bune locuri.",
+            "en": "Experience the vibrant energy of cultural performances at this modern venue, where booking tickets a day in advance guarantees the best seating."
+          }
+        },
+        {
+          "name": {
+            "de": "Porto de Phuket",
+            "hu": "Porto de Phuket",
+            "ro": "Porto de Phuket",
+            "en": "Porto de Phuket"
+          },
+          "coords": [
+            98.305381,
+            7.991586
+          ],
+          "category": "landmark",
+          "arrive_at": "13:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese Open-Air-Mall wegen ihrer einzigartigen Mischung aus Boutiquen und lokalem Flair, aber kommen Sie früh für einen Schattenparkplatz.",
+            "hu": "Fedezze fel ezt a nyitott terű bevásárlóközpontot az elegáns butikok miatt, de érkezzen korán, hogy biztosan találjon árnyékos parkolóhelyet.",
+            "ro": "Explorați acest mall în aer liber pentru amestecul său de buticuri elegante, dar veniți devreme pentru a vă asigura un loc de parcare la umbră.",
+            "en": "Discover this open-air lifestyle mall for its unique blend of upscale boutiques and local flavor, but come early to secure a shaded parking spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Angsana Laguna Wedding Chapel",
+            "hu": "Angsana Laguna Esküvői Kápolna",
+            "ro": "Capela Angsana Laguna",
+            "en": "Angsana Laguna Wedding Chapel"
+          },
+          "coords": [
+            98.297072,
+            8.003385
+          ],
+          "category": "landmark",
+          "arrive_at": "13:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Fotografieren Sie diese elegante, weiße, auf der Lagune schwebende Kapelle und nutzen Sie das Licht der goldenen Stunde für magische Spiegelungen.",
+            "hu": "Készítsen lenyűgöző fotókat erről a lagúnán lebegő, elegáns fehér kápolnáról, és használja ki az aranyóra fényeit a varázslatos tükröződésekért.",
+            "ro": "Fotografiați această capelă albă elegantă care plutește pe lagună, profitând de lumina orei de aur pentru a surprinde reflexii magice pe apă.",
+            "en": "Capture stunning photographs of this elegant white chapel floating on the lagoon, catching the golden hour light for the most magical reflections."
+          }
+        },
+        {
+          "name": {
+            "de": "Bang Tao Beach",
+            "hu": "Bang Tao Part",
+            "ro": "Plaja Bang Tao",
+            "en": "Bang Tao Beach"
+          },
+          "coords": [
+            98.290478,
+            8.007384
+          ],
+          "category": "recreational",
+          "arrive_at": "14:41",
+          "stay_min": 120,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Spazieren Sie diesen sechs Kilometer langen Strand mit weichem Sand entlang und holen Sie sich am ruhigeren nördlichen Ende eine frische Kokosnuss.",
+            "hu": "Sétáljon végig ezen a hat kilométer hosszú, puha fehér homokos partszakaszon, és vegyen egy friss kókuszt a csendesebb északi végén lévő árusoktól.",
+            "ro": "Plimbați-vă de-a lungul acestei plaje imaculate de șase kilometri și luați o nucă de cocos proaspătă de la un vânzător din capătul nordic, mai liniștit.",
+            "en": "Stroll along this pristine six-kilometer stretch of soft white sand, and grab a fresh coconut from a local vendor near the northern quieter end."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour mit einem ruhigen Besuch im verehrten örtlichen Tempel. Fahren Sie dann direkt zum ethischen Elefantenreservat, um diese majestätischen Kreaturen in ihrem Schutzgebiet zu beobachten.\n\nFahren Sie zum lebhaften Wasserpark, um sich die Beine zu vertreten. Fahren Sie weiter zur modernen Kulturarena und schätzen Sie die markante zeitgenössische Architektur des Veranstaltungsortes.\n\nMachen Sie eine Pause zum Mittagessen in der eleganten Open-Air-Mall. Fahren Sie danach durch den Laguna-Komplex und machen Sie kurze Fotostopps am Marathonstart und der schwimmenden Kapelle.\n\nParken Sie in der Nähe des weitläufigen Hauptstrandes für die letzten Stunden des Tageslichts. Spazieren Sie am Ufer entlang und bewundern Sie den berühmten Sonnenuntergang von Phuket.",
+        "hu": "Kezdje autós túráját a tisztelt helyi templom békés meglátogatásával. Innen egyenesen az etikus elefántrezervátumba hajtson, hogy a kora reggeli órákban megfigyelhesse e fenséges lényeket.\n\nVezessen a nyüzsgő vízipark és lagúna területére, majd élvezze az energiát. Folytassa útját a modern kulturális aréna felé, értékelve a helyszín lenyűgöző kortárs építészetét.\n\nTartson egy ebédszünetet a kifinomult szabadtéri bevásárlóközpontban. Ezután navigáljon át a Laguna komplexumon, fotószüneteket tartva a maraton rajtjánál és a festői lebegő kápolnánál.\n\nParkoljon le a kiterjedt fő strand közelében a nappal utolsó óráira. Sétáljon a part mentén, élvezze az óceáni szellőt, és csodálja meg a híres phuketi naplementét.",
+        "ro": "Începeți turul cu mașina cu o vizită la templul local venerat. De acolo, mergeți direct la rezervația etică de elefanți pentru a petrece dimineața devreme observând aceste creaturi maiestuoase.\n\nConduceți către parcul acvatic și zona lagunei, oprindu-vă pentru a vă bucura de energie. Continuați spre arena culturală modernă, apreciind arhitectura contemporană a locației.\n\nFaceți o pauză pentru prânz la sofisticatul mall în aer liber. După ce vă revigorați, navigați prin complexul Laguna, făcând scurte opriri foto la startul maratonului și la capela plutitoare.\n\nParcați lângă plaja extinsă pentru ultimele ore de lumină. Plimbați-vă pe țărm, bucurați-vă de briza oceanului și admirați renumitul apus de soare din Phuket de pe o terasă la plajă.",
+        "en": "Start your driving tour with a peaceful visit to the revered local temple. From there, head directly to the ethical elephant reserve to spend your early morning observing these majestic creatures in their sanctuary.\n\nDrive to the vibrant water park and lagoon area, stopping to stretch your legs and enjoy the energetic vibe. Continue on to the modern cultural arena, appreciating the striking contemporary architecture of the venue.\n\nTake a break for lunch and shopping at the sophisticated open-air lifestyle mall. Once refreshed, navigate through the pristine Laguna complex, making short photo stops at the marathon start and the picturesque floating chapel.\n\nPark near the expansive stretch of the main beach for the final hours of daylight. Stroll along the shoreline, enjoy the ocean breeze, and settle in at a beachfront spot to admire the renowned Phuket sunset."
+      }
+    }
+  }
+}

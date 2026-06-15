@@ -1,0 +1,474 @@
+{
+  "city_id": "croatia-ivanec-cities-v2",
+  "anchor": {
+    "name": "Ivanec",
+    "coords": [
+      16.123,
+      46.223
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 3.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Arheološki lokalitet Stari grad",
+            "hu": "Arheološki lokalitet Stari grad",
+            "ro": "Arheološki lokalitet Stari grad",
+            "en": "Arheološki lokalitet Stari grad"
+          },
+          "coords": [
+            16.125174,
+            46.223478
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die mittelalterlichen Grundmauern der Altstadt von Ivanec und stellen Sie sich deren reiche Vergangenheit vor, wobei Sie unbedingt die Informationstafeln lesen sollten.",
+            "hu": "Fedezze fel Ivanec óvárosának középkori alapjait és képzelje el annak gazdag múltját, miközben elolvassa az egykori várkastély elrendezését bemutató információs táblákat.",
+            "ro": "Explorați fundațiile medievale ale orașului vechi Ivanec și imaginați-vă trecutul său bogat, asigurându-vă că citiți panourile informative care detaliază fosta dispunere a castelului.",
+            "en": "Explore the medieval foundations of Ivanec's old town and imagine its rich past, making sure to read the informational panels detailing the castle's former layout."
+          }
+        },
+        {
+          "name": {
+            "de": "Muzej planinarstva Ivanec",
+            "hu": "Muzej planinarstva Ivanec",
+            "ro": "Muzej planinarstva Ivanec",
+            "en": "Muzej planinarstva Ivanec"
+          },
+          "coords": [
+            16.125571,
+            46.221636
+          ],
+          "category": "museum",
+          "arrive_at": "10:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die tief verwurzelten Bergsteigertraditionen der Region anhand faszinierender Exponate und fragen Sie den Kurator nach den besten Wanderwegen auf den Berg Ivanščica.",
+            "hu": "Ismerje meg a régió mélyen gyökerező hegymászó hagyományait a lenyűgöző kiállításokon keresztül, és kérdezze meg a kurátort a közeli Ivanščica hegyre vezető túraútvonalakról.",
+            "ro": "Descoperiți tradițiile adânc înrădăcinate de alpinism ale regiunii prin expoziții fascinante și întrebați curatorul despre cele mai bune trasee de drumeție pe muntele Ivanščica.",
+            "en": "Discover the deep-rooted mountaineering traditions of the region through fascinating exhibits, and ask the curator about the best hiking trails up the nearby Ivanščica mountain."
+          }
+        },
+        {
+          "name": {
+            "de": "Jarki",
+            "hu": "Jarki",
+            "ro": "Jarki",
+            "en": "Jarki"
+          },
+          "coords": [
+            16.133782,
+            46.223591
+          ],
+          "category": "natural",
+          "arrive_at": "12:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch dieses ruhige Naturgebiet, das sich durch frische Luft und üppiges Grün auszeichnet, und bringen Sie ein kleines Picknick mit, das Sie auf einer der Bänke genießen können.",
+            "hu": "Sétáljon végig ezen a friss levegőjű és buja zöld növényzettel jellemezhető, békés természeti területen, és hozzon magával egy kis pikniket, amelyet a fapadokon fogyaszthat el.",
+            "ro": "Plimbați-vă prin această zonă naturală senină, caracterizată de aer curat și verdeață luxuriantă, aducând un mic picnic pentru a-l savura pe una dintre băncile de lemn umbrite.",
+            "en": "Stroll through this serene natural area characterized by fresh air and lush greenery, bringing a small picnic to enjoy on one of the shaded wooden benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Barutana",
+            "hu": "Barutana",
+            "ro": "Barutana",
+            "en": "Barutana"
+          },
+          "coords": [
+            16.107127,
+            46.228105
+          ],
+          "category": "natural",
+          "arrive_at": "14:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem friedlichen, bewaldeten Rückzugsort, der einst als Pulverlager diente und heute hervorragende Motive für die Naturfotografie bietet, besonders zur goldenen Stunde.",
+            "hu": "Pihenjen meg ezen az egykor puskapor tárolására használt békés, erdős menedékhelyen, amely ma kiváló helyszíneket kínál a természetfotózáshoz, különösen az aranyórában.",
+            "ro": "Relaxați-vă la această retragere pașnică împădurită, folosită odinioară pentru depozitarea prafului de pușcă, care oferă acum locuri excelente pentru fotografia de natură.",
+            "en": "Relax at this peaceful wooded retreat once used for gunpowder storage, which now offers excellent spots for nature photography, especially during the golden hour."
+          }
+        },
+        {
+          "name": {
+            "de": "Šanc i Omladinski bajer",
+            "hu": "Šanc i Omladinski bajer",
+            "ro": "Šanc i Omladinski bajer",
+            "en": "Šanc i Omladinski bajer"
+          },
+          "coords": [
+            16.108878,
+            46.23188
+          ],
+          "category": "natural",
+          "arrive_at": "15:30",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an den ruhigen Gewässern dieser beliebten Badeseen ausklingen, beobachten Sie die örtlichen Fischer und genießen Sie die Spiegelung des Sonnenuntergangs.",
+            "hu": "Zárja a napot e népszerű szabadidős tavak nyugodt vizénél, figyelje meg a helyi horgászokat, és gyönyörködjön a naplemente visszatükröződésében a csendes vízfelszínen.",
+            "ro": "Încheiați ziua lângă apele liniștite ale acestor lacuri de agrement populare, urmărind pescarii locali și bucurându-vă de reflexia apusului pe suprafața calmă.",
+            "en": "End your day by the tranquil waters of these popular recreational lakes, watching the local fishermen and enjoying the reflection of the sunset on the calm surface."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag in Ivanec beginnt im historischen Zentrum mit einem Besuch der archäologischen Stätte der Altstadt, gefolgt von tiefen Einblicken in die lokale Bergsteigergeschichte im Museum. Mittags schlendern Sie durch die grünen Pfade von Jarki und atmen die frische Waldluft ein. Der Nachmittag führt Sie in die ruhige Gegend der alten Barutana, perfekt für eine kurze Pause in der Natur. Abends entspannen Sie sich am Wasser der Omladinski bajer Seen und genießen die friedliche Atmosphäre der Dämmerung.",
+        "hu": "Az ivaneci nap a történelmi központban kezdődik az óváros régészeti lelőhelyének megtekintésével, amelyet a múzeumban a helyi hegymászás történetébe való betekintés követ. Délben sétáljon végig a Jarki zöldellő ösvényein, és szívja magába a friss erdei levegőt. A délután a régi Barutana csendes vidékére vezeti, amely tökéletes egy rövid természeti pihenőre. Este az Omladinski bajer tavak vizénél pihenhet, élvezve a szürkület békés hangulatát.",
+        "ro": "Ziua în Ivanec începe în centrul istoric cu o vizită la situl arheologic al orașului vechi, urmată de perspective profunde asupra istoriei alpinismului la muzeu. La prânz, vă veți plimba pe potecile verzi din Jarki, inspirând aerul proaspăt al pădurii. După-amiaza vă conduce în zona liniștită a vechii Barutana, perfectă pentru o scurtă pauză în natură. Seara, vă veți relaxa pe malul lacurilor Omladinski bajer, bucurându-vă de atmosfera pașnică a amurgului.",
+        "en": "The day in Ivanec begins in the historic center with a visit to the old town's archaeological site, followed by deep insights into local mountaineering history at the museum. Midday, stroll through the verdant paths of Jarki and breathe in the fresh forest air. The afternoon leads you to the quiet area of the old Barutana, perfect for a short nature break. In the evening, you will relax by the waters of the Omladinski bajer lakes, enjoying the peaceful atmosphere of dusk."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:49",
+      "total_km": 8.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Arheološki lokalitet Stari grad",
+            "hu": "Arheološki lokalitet Stari grad",
+            "ro": "Arheološki lokalitet Stari grad",
+            "en": "Arheološki lokalitet Stari grad"
+          },
+          "coords": [
+            16.125174,
+            46.223478
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die mittelalterlichen Grundmauern der Altstadt von Ivanec und stellen Sie sich deren reiche Vergangenheit vor, wobei Sie unbedingt die Informationstafeln lesen sollten.",
+            "hu": "Fedezze fel Ivanec óvárosának középkori alapjait és képzelje el annak gazdag múltját, miközben elolvassa az egykori várkastély elrendezését bemutató információs táblákat.",
+            "ro": "Explorați fundațiile medievale ale orașului vechi Ivanec și imaginați-vă trecutul său bogat, asigurându-vă că citiți panourile informative care detaliază fosta dispunere a castelului.",
+            "en": "Explore the medieval foundations of Ivanec's old town and imagine its rich past, making sure to read the informational panels detailing the castle's former layout."
+          }
+        },
+        {
+          "name": {
+            "de": "Muzej planinarstva Ivanec",
+            "hu": "Muzej planinarstva Ivanec",
+            "ro": "Muzej planinarstva Ivanec",
+            "en": "Muzej planinarstva Ivanec"
+          },
+          "coords": [
+            16.125571,
+            46.221636
+          ],
+          "category": "museum",
+          "arrive_at": "10:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die tief verwurzelten Bergsteigertraditionen der Region anhand faszinierender Exponate und fragen Sie den Kurator nach den besten Wanderwegen auf den Berg Ivanščica.",
+            "hu": "Ismerje meg a régió mélyen gyökerező hegymászó hagyományait a lenyűgöző kiállításokon keresztül, és kérdezze meg a kurátort a közeli Ivanščica hegyre vezető túraútvonalakról.",
+            "ro": "Descoperiți tradițiile adânc înrădăcinate de alpinism ale regiunii prin expoziții fascinante și întrebați curatorul despre cele mai bune trasee de drumeție pe muntele Ivanščica.",
+            "en": "Discover the deep-rooted mountaineering traditions of the region through fascinating exhibits, and ask the curator about the best hiking trails up the nearby Ivanščica mountain."
+          }
+        },
+        {
+          "name": {
+            "de": "Friščićev mlin",
+            "hu": "Friščićev mlin",
+            "ro": "Friščićev mlin",
+            "en": "Friščićev mlin"
+          },
+          "coords": [
+            16.134183,
+            46.200407
+          ],
+          "category": "landmark",
+          "arrive_at": "12:24",
+          "stay_min": 25,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Architektur dieser traditionellen Wassermühle, die ein Zeugnis der landwirtschaftlichen Vergangenheit ist, und lauschen Sie dem beruhigenden Rauschen des Baches.",
+            "hu": "Csodálja meg e hagyományos vízimalom történelmi építészetét, amely a vidék mezőgazdasági múltjának állít emléket, és szánjon időt a patak megnyugtató csobogásának meghallgatására.",
+            "ro": "Admirați arhitectura istorică a acestei mori de apă tradiționale care stă ca o mărturie a trecutului agricol al zonei, făcându-vă timp să ascultați sunetul liniștitor al pârâului.",
+            "en": "Admire the historic architecture of this traditional watermill that stands as a testament to the area's agricultural past, taking time to listen to the soothing sound of the stream."
+          }
+        },
+        {
+          "name": {
+            "de": "Rodna kuća narodnog heroja Josipa Kraša",
+            "hu": "Rodna kuća narodnog heroja Josipa Kraša",
+            "ro": "Rodna kuća narodnog heroja Josipa Kraša",
+            "en": "Rodna kuća narodnog heroja Josipa Kraša"
+          },
+          "coords": [
+            16.097878,
+            46.216266
+          ],
+          "category": "landmark",
+          "arrive_at": "13:07",
+          "stay_min": 25,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie das gut erhaltene Geburtshaus dieses Nationalhelden, um mehr über sein Leben zu erfahren, und achten Sie auf die authentische ländliche Architektur des Gehöfts.",
+            "hu": "Látogasson el a nemzeti hős jól megőrzött szülőházába, hogy megismerje életét és örökségét, figyelemmel kísérve a környező tanya autentikus vidéki építészetét.",
+            "ro": "Vizitați casa natală bine conservată a acestui erou național pentru a afla despre viața sa, acordând atenție arhitecturii rurale autentice a gospodăriei din jur.",
+            "en": "Visit the well-preserved birth house of this national hero to learn about his life and legacy, paying attention to the authentic rural architecture of the surrounding homestead."
+          }
+        },
+        {
+          "name": {
+            "de": "Spomenik palim borcima NOR-a",
+            "hu": "Spomenik palim borcima NOR-a",
+            "ro": "Spomenik palim borcima NOR-a",
+            "en": "Spomenik palim borcima NOR-a"
+          },
+          "coords": [
+            16.091318,
+            46.221848
+          ],
+          "category": "historical",
+          "arrive_at": "13:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erweisen Sie an diesem feierlichen Denkmal für die gefallenen Kämpfer des Zweiten Weltkriegs Ihren Respekt und beachten Sie die ausdrucksstarken skulpturalen Elemente.",
+            "hu": "Tisztelegjen a második világháború elesett harcosainak szentelt ünnepélyes emlékműnél, megfigyelve a mély áldozatvállalásukat megörökítő, kifejező szobrászati elemeket.",
+            "ro": "Prezentați-vă respectul la acest monument solemn dedicat luptătorilor căzuți în al Doilea Război Mondial, remarcând elementele sculpturale expresive care onorează sacrificiul lor.",
+            "en": "Pay your respects at this solemn monument dedicated to the fallen fighters of World War II, noting the expressive sculptural elements that honor their profound sacrifice."
+          }
+        },
+        {
+          "name": {
+            "de": "Pionirski bajer",
+            "hu": "Pionirski bajer",
+            "ro": "Pionirski bajer",
+            "en": "Pionirski bajer"
+          },
+          "coords": [
+            16.105643,
+            46.231008
+          ],
+          "category": "natural",
+          "arrive_at": "15:04",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Machen Sie einen entspannenden Spaziergang um diesen charmanten Teich, der ursprünglich für die örtliche Jugend angelegt wurde, und bringen Sie ein paar Brotkrümel für die Enten mit.",
+            "hu": "Tegyen egy pihentető sétát e bájos, eredetileg a helyi ifjúság számára kialakított tó körül, és hozzon magával néhány kenyérmorzsát, hogy megetesse a békés vizeket látogató kacsákat.",
+            "ro": "Faceți o plimbare relaxantă în jurul acestui iaz fermecător creat inițial pentru tinerii din zonă, aducând niște firimituri de pâine pentru a hrăni rațele care frecventează apele liniștite.",
+            "en": "Take a relaxing stroll around this charming pond originally created for local youth, bringing some bread crumbs to feed the ducks that frequent the peaceful waters."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Sie starten im Zentrum mit den alten Ruinen und dem faszinierenden Bergsteigermuseum, bevor Sie in den Sattel steigen. Die Mittagsetappe führt Sie in den Süden zur historischen Friščićev-Mühle, wo das Wasser beruhigend plätschert. Nachmittags radeln Sie weiter zum Geburtshaus von Josip Kraš und dem Denkmal der gefallenen Kämpfer, um lokale Geschichte zu erleben. Den Abschluss bildet der friedliche Pionirski bajer, ein idyllischer Teich, der perfekt ist, um den Tag entspannt ausklingen zu lassen.",
+        "hu": "A központban kezdi a napot a régi romokkal és a lenyűgöző hegymászó múzeummal, mielőtt nyeregbe szállna. A déli szakasz délre, a történelmi Friščićev malomhoz vezeti, ahol a víz csendesen csobog. Délután Josip Kraš szülőházához és az elesett harcosok emlékművéhez kerékpározik, hogy megismerje a helyi történelmet. A napot a békés Pionirski bajer zárja, amely egy idilli tó, és tökéletes a nyugodt pihenéshez.",
+        "ro": "Începeți în centru cu ruinele vechi și fascinantul muzeu de alpinism înainte de a vă urca în șa. Etapa de prânz vă poartă spre sud, la istorica moară Friščićev, unde apa susură liniștitor. După-amiaza pedalați spre casa natală a lui Josip Kraš și monumentul luptătorilor căzuți, experimentând istoria locală. Finalul zilei este la pașnicul Pionirski bajer, un iaz idilic perfect pentru a vă relaxa după o zi activă.",
+        "en": "You start in the center with the ancient ruins and the fascinating mountaineering museum before hopping into the saddle. The midday stage takes you south to the historic Friščićev mill, where the water babbles soothingly. In the afternoon, cycle on to the birth house of Josip Kraš and the monument to fallen fighters to experience local history. The day concludes at the peaceful Pionirski bajer, an idyllic pond perfect for a relaxing evening rest."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:42",
+      "total_km": 9.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Spomenik palim borcima NOR-a",
+            "hu": "Spomenik palim borcima NOR-a",
+            "ro": "Spomenik palim borcima NOR-a",
+            "en": "Spomenik palim borcima NOR-a"
+          },
+          "coords": [
+            16.091318,
+            46.221848
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erweisen Sie an diesem feierlichen Denkmal für die gefallenen Kämpfer des Zweiten Weltkriegs Ihren Respekt und beachten Sie die ausdrucksstarken skulpturalen Elemente.",
+            "hu": "Tisztelegjen a második világháború elesett harcosainak szentelt ünnepélyes emlékműnél, megfigyelve a mély áldozatvállalásukat megörökítő, kifejező szobrászati elemeket.",
+            "ro": "Prezentați-vă respectul la acest monument solemn dedicat luptătorilor căzuți în al Doilea Război Mondial, remarcând elementele sculpturale expresive care onorează sacrificiul lor.",
+            "en": "Pay your respects at this solemn monument dedicated to the fallen fighters of World War II, noting the expressive sculptural elements that honor their profound sacrifice."
+          }
+        },
+        {
+          "name": {
+            "de": "Rodna kuća narodnog heroja Josipa Kraša",
+            "hu": "Rodna kuća narodnog heroja Josipa Kraša",
+            "ro": "Rodna kuća narodnog heroja Josipa Kraša",
+            "en": "Rodna kuća narodnog heroja Josipa Kraša"
+          },
+          "coords": [
+            16.097878,
+            46.216266
+          ],
+          "category": "landmark",
+          "arrive_at": "10:32",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie das gut erhaltene Geburtshaus dieses Nationalhelden, um mehr über sein Leben zu erfahren, und achten Sie auf die authentische ländliche Architektur des Gehöfts.",
+            "hu": "Látogasson el a nemzeti hős jól megőrzött szülőházába, hogy megismerje életét és örökségét, figyelemmel kísérve a környező tanya autentikus vidéki építészetét.",
+            "ro": "Vizitați casa natală bine conservată a acestui erou național pentru a afla despre viața sa, acordând atenție arhitecturii rurale autentice a gospodăriei din jur.",
+            "en": "Visit the well-preserved birth house of this national hero to learn about his life and legacy, paying attention to the authentic rural architecture of the surrounding homestead."
+          }
+        },
+        {
+          "name": {
+            "de": "Friščićev mlin",
+            "hu": "Friščićev mlin",
+            "ro": "Friščićev mlin",
+            "en": "Friščićev mlin"
+          },
+          "coords": [
+            16.134183,
+            46.200407
+          ],
+          "category": "landmark",
+          "arrive_at": "11:04",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Architektur dieser traditionellen Wassermühle, die ein Zeugnis der landwirtschaftlichen Vergangenheit ist, und lauschen Sie dem beruhigenden Rauschen des Baches.",
+            "hu": "Csodálja meg e hagyományos vízimalom történelmi építészetét, amely a vidék mezőgazdasági múltjának állít emléket, és szánjon időt a patak megnyugtató csobogásának meghallgatására.",
+            "ro": "Admirați arhitectura istorică a acestei mori de apă tradiționale care stă ca o mărturie a trecutului agricol al zonei, făcându-vă timp să ascultați sunetul liniștitor al pârâului.",
+            "en": "Admire the historic architecture of this traditional watermill that stands as a testament to the area's agricultural past, taking time to listen to the soothing sound of the stream."
+          }
+        },
+        {
+          "name": {
+            "de": "Muzej planinarstva Ivanec",
+            "hu": "Muzej planinarstva Ivanec",
+            "ro": "Muzej planinarstva Ivanec",
+            "en": "Muzej planinarstva Ivanec"
+          },
+          "coords": [
+            16.125571,
+            46.221636
+          ],
+          "category": "museum",
+          "arrive_at": "11:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die tief verwurzelten Bergsteigertraditionen der Region anhand faszinierender Exponate und fragen Sie den Kurator nach den besten Wanderwegen auf den Berg Ivanščica.",
+            "hu": "Ismerje meg a régió mélyen gyökerező hegymászó hagyományait a lenyűgöző kiállításokon keresztül, és kérdezze meg a kurátort a közeli Ivanščica hegyre vezető túraútvonalakról.",
+            "ro": "Descoperiți tradițiile adânc înrădăcinate de alpinism ale regiunii prin expoziții fascinante și întrebați curatorul despre cele mai bune trasee de drumeție pe muntele Ivanščica.",
+            "en": "Discover the deep-rooted mountaineering traditions of the region through fascinating exhibits, and ask the curator about the best hiking trails up the nearby Ivanščica mountain."
+          }
+        },
+        {
+          "name": {
+            "de": "Arheološki lokalitet Stari grad",
+            "hu": "Arheološki lokalitet Stari grad",
+            "ro": "Arheološki lokalitet Stari grad",
+            "en": "Arheološki lokalitet Stari grad"
+          },
+          "coords": [
+            16.125174,
+            46.223478
+          ],
+          "category": "historical",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die mittelalterlichen Grundmauern der Altstadt von Ivanec und stellen Sie sich deren reiche Vergangenheit vor, wobei Sie unbedingt die Informationstafeln lesen sollten.",
+            "hu": "Fedezze fel Ivanec óvárosának középkori alapjait és képzelje el annak gazdag múltját, miközben elolvassa az egykori várkastély elrendezését bemutató információs táblákat.",
+            "ro": "Explorați fundațiile medievale ale orașului vechi Ivanec și imaginați-vă trecutul său bogat, asigurându-vă că citiți panourile informative care detaliază fosta dispunere a castelului.",
+            "en": "Explore the medieval foundations of Ivanec's old town and imagine its rich past, making sure to read the informational panels detailing the castle's former layout."
+          }
+        },
+        {
+          "name": {
+            "de": "Jarki",
+            "hu": "Jarki",
+            "ro": "Jarki",
+            "en": "Jarki"
+          },
+          "coords": [
+            16.133782,
+            46.223591
+          ],
+          "category": "natural",
+          "arrive_at": "14:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch dieses ruhige Naturgebiet, das sich durch frische Luft und üppiges Grün auszeichnet, und bringen Sie ein kleines Picknick mit, das Sie auf einer der Bänke genießen können.",
+            "hu": "Sétáljon végig ezen a friss levegőjű és buja zöld növényzettel jellemezhető, békés természeti területen, és hozzon magával egy kis pikniket, amelyet a fapadokon fogyaszthat el.",
+            "ro": "Plimbați-vă prin această zonă naturală senină, caracterizată de aer curat și verdeață luxuriantă, aducând un mic picnic pentru a-l savura pe una dintre băncile de lemn umbrite.",
+            "en": "Stroll through this serene natural area characterized by fresh air and lush greenery, bringing a small picnic to enjoy on one of the shaded wooden benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Šanc i Omladinski bajer",
+            "hu": "Šanc i Omladinski bajer",
+            "ro": "Šanc i Omladinski bajer",
+            "en": "Šanc i Omladinski bajer"
+          },
+          "coords": [
+            16.108878,
+            46.23188
+          ],
+          "category": "natural",
+          "arrive_at": "15:57",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an den ruhigen Gewässern dieser beliebten Badeseen ausklingen, beobachten Sie die örtlichen Fischer und genießen Sie die Spiegelung des Sonnenuntergangs.",
+            "hu": "Zárja a napot e népszerű szabadidős tavak nyugodt vizénél, figyelje meg a helyi horgászokat, és gyönyörködjön a naplemente visszatükröződésében a csendes vízfelszínen.",
+            "ro": "Încheiați ziua lângă apele liniștite ale acestor lacuri de agrement populare, urmărind pescarii locali și bucurându-vă de reflexia apusului pe suprafața calmă.",
+            "en": "End your day by the tranquil waters of these popular recreational lakes, watching the local fishermen and enjoying the reflection of the sunset on the calm surface."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie am Stadtrand am eindrucksvollen Denkmal für die gefallenen Kämpfer und besuchen Sie das nahegelegene Haus von Josip Kraš. Mittags fahren Sie zur malerischen Wassermühle Friščićev mlin, gefolgt vom Bergsteigermuseum im Herzen der Stadt. Am Nachmittag erkunden Sie die Überreste der Altstadt und schlendern durch das Naturgebiet Jarki. Gegen Abend erreichen Sie mit dem Auto die Seen von Omladinski bajer, wo Sie einen wunderschönen und erholsamen Sonnenuntergang erleben können.",
+        "hu": "Kezdje a város szélén, az elesett harcosok lenyűgöző emlékművénél, majd látogasson el Josip Kraš közeli házába. Délben autózzon el a festői Friščićev mlin vízimalomhoz, majd a város szívében található hegymászó múzeumhoz. Délután fedezze fel az óváros maradványait, és sétáljon a Jarki természetvédelmi területen. Kora este autóval eléri az Omladinski bajer tavakat, ahol egy gyönyörű és pihentető naplementét élhet át.",
+        "ro": "Începeți la periferia orașului la impresionantul monument al luptătorilor căzuți și vizitați casa din apropiere a lui Josip Kraš. La prânz, conduceți până la pitoreasca moară de apă Friščićev mlin, urmată de muzeul de alpinism din inima orașului. După-amiaza explorați rămășițele orașului vechi și plimbați-vă prin zona naturală Jarki. Spre seară, ajungeți cu mașina la lacurile Omladinski bajer, unde veți avea parte de un apus de soare frumos și relaxant.",
+        "en": "Begin on the outskirts at the impressive monument to fallen fighters and visit the nearby birth house of Josip Kraš. At midday, drive to the picturesque Friščićev mlin watermill, followed by the mountaineering museum in the heart of the city. In the afternoon, explore the remains of the old town and stroll through the Jarki natural area. By early evening, you'll drive to the Omladinski bajer lakes to enjoy a beautiful and relaxing sunset by the water."
+      }
+    }
+  }
+}

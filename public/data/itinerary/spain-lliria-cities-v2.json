@@ -1,0 +1,428 @@
+{
+  "city_id": "spain-lliria-cities-v2",
+  "anchor": {
+    "name": "Llíria",
+    "coords": [
+      -0.594428,
+      39.625864
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 0.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museu Arqueològic de Llíria",
+            "hu": "Museu Arqueològic de Llíria",
+            "ro": "Museu Arqueològic de Llíria",
+            "en": "Museu Arqueològic de Llíria"
+          },
+          "coords": [
+            -0.593723,
+            39.625855
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie antike iberische Artefakte, die die historischen Wurzeln von Llíria offenbaren, und besuchen Sie das Museum früh wegen des guten Lichts.",
+            "hu": "Fedezze fel Llíria mély történelmi gyökereit feltáró ősi ibériai leleteket, és próbáljon kora reggel érkezni a tökéletes, kiemelő fényviszonyok miatt.",
+            "ro": "Descoperiți artefacte iberice antice care dezvăluie rădăcinile orașului Llíria și vizitați muzeul dimineața devreme pentru o lumină perfectă a expoziției.",
+            "en": "Discover ancient Iberian artifacts that reveal Llíria's deep historical roots, and try to visit early in the morning when the lighting perfectly highlights the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Església de l'Assumpció",
+            "hu": "Església de l'Assumpció",
+            "ro": "Església de l'Assumpció",
+            "en": "Església de l'Assumpció"
+          },
+          "coords": [
+            -0.594734,
+            39.625522
+          ],
+          "category": "religious",
+          "arrive_at": "10:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die barocke Architektur dieser zentralen Kirche, ein Symbol des Glaubens, und nehmen Sie sich Zeit für die reich verzierte Fassade.",
+            "hu": "Csodálja meg a központi templom lenyűgöző barokk építészetét, és szánjon egy percet a díszes homlokzat megtekintésére, mielőtt belépne a nyugalomba.",
+            "ro": "Admirați arhitectura barocă impresionantă a acestei biserici centrale, un simbol al credinței, și alocați-vă un moment pentru a privi fațada ornată.",
+            "en": "Marvel at the impressive baroque architecture of this central church, an enduring symbol of faith, and take a moment to admire the ornate facade before stepping inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Banda Primitiva",
+            "hu": "Banda Primitiva",
+            "ro": "Banda Primitiva",
+            "en": "Banda Primitiva"
+          },
+          "coords": [
+            -0.597375,
+            39.627537
+          ],
+          "category": "cultural",
+          "arrive_at": "11:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das musikalische Erbe dieser historischen Kapelle ein und überprüfen Sie die Anschlagtafel draußen für kommende abendliche Konzerttermine.",
+            "hu": "Merüljön el a helyi zenei örökségben ennél a történelmi zenekari társaságnál, és nézze meg a kinti hirdetőtáblát az esti koncertprogramokért.",
+            "ro": "Cufundați-vă în moștenirea muzicală la această societate istorică, mândria orașului, și verificați avizierul pentru a afla programul concertelor de seară.",
+            "en": "Immerse yourself in the local musical heritage at this historic band society, the pride of the city, and check their notice board for upcoming evening concert schedules."
+          }
+        },
+        {
+          "name": {
+            "de": "Mausoleus Romans",
+            "hu": "Mausoleus Romans",
+            "ro": "Mausoleus Romans",
+            "en": "Mausoleus Romans"
+          },
+          "coords": [
+            -0.595913,
+            39.627891
+          ],
+          "category": "historical",
+          "arrive_at": "12:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Versetzen Sie sich bei diesen gut erhaltenen römischen Mausoleen in die Vergangenheit und lesen Sie die informativen Tafeln für mehr Kontext genau durch.",
+            "hu": "Lépjen vissza az időben ezeknél a kivételesen jó állapotban fennmaradt római mauzóleumoknál, és olvassa el figyelmesen a táblákat a megértéshez.",
+            "ro": "Întoarceți-vă în timp la aceste mausolee romane excepțional de bine conservate și citiți cu atenție plăcuțele informative pentru a înțelege contextul.",
+            "en": "Step back in time at these exceptionally well-preserved Roman mausoleums that offer unique insights, and read the informative plaques carefully to understand their context."
+          }
+        },
+        {
+          "name": {
+            "de": "Termes Romanes de Mura",
+            "hu": "Termes Romanes de Mura",
+            "ro": "Termes Romanes de Mura",
+            "en": "Termes Romanes de Mura"
+          },
+          "coords": [
+            -0.595203,
+            39.629167
+          ],
+          "category": "historical",
+          "arrive_at": "13:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen weitläufigen römischen Thermalkomplex und tragen Sie bequeme Schuhe, da die unebenen Steinwege zu Fuß schwer begehbar sein können.",
+            "hu": "Fedezze fel ezt a kiterjedt római fürdőkomplexumot, és viseljen kényelmes cipőt, mivel az egyenetlen kőutakon nehéz lehet a biztonságos gyalogos közlekedés.",
+            "ro": "Explorați acest complex termal roman extins care prezintă o inginerie antică și purtați pantofi confortabili, deoarece căile din piatră pot fi dificile.",
+            "en": "Explore this expansive Roman thermal bath complex showcasing advanced ancient engineering, and wear comfortable walking shoes as the uneven stone pathways can be tricky."
+          }
+        },
+        {
+          "name": {
+            "de": "Termas Menores de Mura",
+            "hu": "Termas Menores de Mura",
+            "ro": "Termas Menores de Mura",
+            "en": "Termas Menores de Mura"
+          },
+          "coords": [
+            -0.593581,
+            39.630096
+          ],
+          "category": "historical",
+          "arrive_at": "14:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die intimen kleineren Bäder mit bemerkenswerten Mosaikresten und bringen Sie eine Wasserflasche mit, da es hier keine Einrichtungen gibt.",
+            "hu": "Fedezze fel a fő komplexumot kiegészítő, kisebb fürdőket mozaikmaradványokkal, és hozzon vizet, mert ezen a helyszínen nincsenek látogatói létesítmények.",
+            "ro": "Descoperiți băile mai mici care completează complexul principal cu resturi de mozaic și aduceți o sticlă de apă, deoarece nu există facilități disponibile.",
+            "en": "Discover the intimate smaller baths complementing the main complex with remarkable mosaic remnants, and bring a small bottle of water since there are no facilities here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie morgens im Archäologischen Museum, um Llírias Vergangenheit zu entdecken.\n\nMittags bewundern Sie die Barockkirche und die lokalen Musiktraditionen.\n\nDer Nachmittag lädt ein, zwischen römischen Mausoleen zu wandern und die großen Thermen zu bestaunen.\n\nAbends bietet ein Spaziergang um die kleineren Ruinen einen besinnlichen Abschluss.",
+        "hu": "Kezdje a reggelt Llíria múltjának felfedezésével a Régészeti Múzeumban.\n\nDélben csodálja meg a templom barokk pompáját, és ismerje meg a zenei hagyományokat.\n\nA délután arra hív, hogy a római mauzóleumok között sétáljon, és megcsodálja a termálfürdőket.\n\nEste a kisebb római romok körüli békés séta elgondolkodtató lezárást nyújt a napnak.",
+        "ro": "Începeți dimineața aprofundând trecutul orașului Llíria la Muzeul Arheologic.\n\nLa prânz, admirați splendoarea barocă a bisericii centrale și tradițiile muzicale locale.\n\nDupă-amiaza vă invită să vă plimbați printre mausoleele romane și să admirați băile termale.\n\nSeara, o plimbare pașnică în jurul ruinelor mai mici oferă un final reflexiv și calm.",
+        "en": "Start your morning delving into Llíria's deep past at the Archaeological Museum.\n\nBy midday, admire the baroque splendor of the Assumption Church and discover local musical traditions at Banda Primitiva.\n\nThe afternoon invites you to wander among ancient Roman mausoleums and marvel at the grand thermal baths.\n\nAs evening falls, stroll around the smaller Roman ruins for a peaceful, reflective end."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:35",
+      "total_km": 1.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Edeta",
+            "hu": "Edeta",
+            "ro": "Edeta",
+            "en": "Edeta"
+          },
+          "coords": [
+            -0.597737,
+            39.620444
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Steigen Sie zur antiken iberischen Siedlung hinauf und planen Sie Ihren Besuch für den Vormittag, um die intensive Mittagssonne auf dem Hügel zu meiden.",
+            "hu": "Másszon fel Edeta ősi ibériai településére, és időzítse a látogatást kora délelőttre, hogy elkerülje a hegytetőn tűző, intenzív és forró déli napfényt.",
+            "ro": "Urcați la așezarea iberică antică pentru a asista la origini și programați-vă vizita dimineața pentru a evita soarele intens al amiezii pe acest deal.",
+            "en": "Climb up to the ancient Iberian settlement of Edeta to witness its origins, and time your visit for mid-morning to avoid the intense midday sun on the exposed hilltop."
+          }
+        },
+        {
+          "name": {
+            "de": "La Calderona des de Sant Miquel de Llíria",
+            "hu": "La Calderona des de Sant Miquel de Llíria",
+            "ro": "La Calderona des de Sant Miquel de Llíria",
+            "en": "La Calderona des de Sant Miquel de Llíria"
+          },
+          "coords": [
+            -0.598845,
+            39.621788
+          ],
+          "category": "natural",
+          "arrive_at": "10:31",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Genießen Sie von hier einen Panoramablick auf die Sierra Calderona und bringen Sie eine leichte Jacke mit, da der Wind hier überraschend auffrischen kann.",
+            "hu": "Élvezze a Calderona hegységre nyíló lélegzetelállító panorámát, és vigyen magával egy könnyű kabáttal, mivel a szél itt a tetőn hirtelen felerősödhet.",
+            "ro": "Bucurați-vă de vederi panoramice ale lanțului muntos Calderona și aduceți o jachetă ușoară, deoarece vântul se poate înteți neașteptat în acest punct înalt.",
+            "en": "Enjoy breathtaking panoramic views of the Calderona mountain range from this viewpoint, and bring a light jacket as the wind can pick up unexpectedly up here."
+          }
+        },
+        {
+          "name": {
+            "de": "Església de l'Assumpció",
+            "hu": "Església de l'Assumpció",
+            "ro": "Església de l'Assumpció",
+            "en": "Església de l'Assumpció"
+          },
+          "coords": [
+            -0.594734,
+            39.625522
+          ],
+          "category": "religious",
+          "arrive_at": "10:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende barocke Architektur dieser zentralen Kirche und nehmen Sie sich Zeit für die reich verzierte Fassade als Symbol des Glaubens.",
+            "hu": "Csodálja meg a központi templom lenyűgöző barokk építészetét, és szánjon egy percet a díszes homlokzat megtekintésére, mielőtt belépne, hogy élvezze a csendet.",
+            "ro": "Admirați arhitectura barocă impresionantă a acestei biserici centrale și alocați-vă un moment pentru a privi fațada ornată înainte de a păși înăuntru.",
+            "en": "Marvel at the impressive baroque architecture of this central church, and take a moment to admire the ornate facade before stepping inside to enjoy its quiet serenity."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Arqueològic de Llíria",
+            "hu": "Museu Arqueològic de Llíria",
+            "ro": "Museu Arqueològic de Llíria",
+            "en": "Museu Arqueològic de Llíria"
+          },
+          "coords": [
+            -0.593723,
+            39.625855
+          ],
+          "category": "museum",
+          "arrive_at": "11:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie antike iberische Artefakte, die die historischen Wurzeln von Llíria offenbaren, und nehmen Sie sich Zeit für die detaillierten Beschilderungen.",
+            "hu": "Fedezze fel Llíria mély történelmi gyökereit feltáró ősi ibériai leleteket, és szánjon elegendő időt a komplex történelmi kontextus gondos értelmezésére.",
+            "ro": "Descoperiți artefacte iberice antice care dezvăluie rădăcinile istorice profunde ale orașului și acordați-vă timp pentru a citi descrierile exponatelor.",
+            "en": "Discover ancient Iberian artifacts that reveal Llíria's deep historical roots, and take your time to read through the well-curated context of these rare exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita de Santa Bárbara",
+            "hu": "Ermita de Santa Bárbara",
+            "ro": "Ermita de Santa Bárbara",
+            "en": "Ermita de Santa Bárbara"
+          },
+          "coords": [
+            -0.603938,
+            39.626673
+          ],
+          "category": "religious",
+          "arrive_at": "13:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese bezaubernde Einsiedelei und respektieren Sie die Stille der Anlage, während Sie den friedlichen, schattigen Innenhof am Nachmittag genießen.",
+            "hu": "Látogasson el ebbe a bájos remetelakba, és tartsa tiszteletben a terület csendjét, miközben hűsöl és megpihen a békés, árnyékos udvaron a délután folyamán.",
+            "ro": "Vizitați acest schit fermecător care stă ca o mărturie a devotamentului și respectați liniștea locului în timp ce vă bucurați de curtea umbrită după-amiaza.",
+            "en": "Visit this charming hermitage that stands as a quiet testament to devotion, and respect the silence of the grounds while enjoying the shaded courtyard during the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Abenteuer mit dem Aufstieg zu den antiken Edeta-Ruinen in der Morgenluft.\n\nRadeln Sie mittags zu einem Aussichtspunkt über die Calderona-Berge, bevor Sie zur Kirche hinabfahren.\n\nDer Nachmittag ist für die Schätze im archäologischen Museum reserviert.\n\nEine sanfte abendliche Fahrt zu einer ruhigen Einsiedelei bietet einen malerischen und friedlichen Abschluss.",
+        "hu": "Kezdje kalandját az ókori Edeta romokhoz való feljutással a friss reggeli levegőn.\n\nDélben tekerjen a hegyekre néző kilátóhoz, mielőtt leereszkedne a helyi templomhoz.\n\nA délután a kincsek felfedezésének van szentelve a központi régészeti múzeumban.\n\nVégül egy kellemes esti tekerés egy békés remetelakhoz vezet, amely csendes, festői befejezést kínál.",
+        "ro": "Începeți aventura urcând la vechile ruine Edeta în aerul proaspăt al dimineții.\n\nLa prânz, pedalați către un punct de belvedere asupra munților Calderona, apoi coborâți la biserică.\n\nDupă-amiaza este dedicată descoperirii comorilor la muzeul arheologic central.\n\nO plimbare ușoară de seară vă duce la un schit senin, oferind o concluzie liniștită și extrem de pitorească.",
+        "en": "Kick off your adventure ascending to the ancient Edeta ruins in the crisp morning air.\n\nBy midday, pedal to a stunning viewpoint over the Calderona mountains before descending to the local church.\n\nThe afternoon is reserved for uncovering treasures at the central archaeological museum.\n\nFinally, a gentle evening ride brings you to a serene hermitage, offering a quiet, picturesque conclusion."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:27",
+      "total_km": 2.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museu Arqueològic de Llíria",
+            "hu": "Museu Arqueològic de Llíria",
+            "ro": "Museu Arqueològic de Llíria",
+            "en": "Museu Arqueològic de Llíria"
+          },
+          "coords": [
+            -0.593723,
+            39.625855
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie den nahegelegenen Parkplatz als Ausgangspunkt, um die antiken iberischen Artefakte am Morgen in Ruhe und bei bestem Licht zu besichtigen.",
+            "hu": "Használja a közeli parkolót kényelmes kiindulópontként, és fedezze fel Llíria mély történelmi gyökereit feltáró ősi ibériai leleteket még a kora reggeli órákban.",
+            "ro": "Folosiți parcarea din apropiere ca bază pentru a descoperi artefacte iberice antice și vizitați muzeul dimineața devreme, când lumina pune în evidență detaliile.",
+            "en": "Use the nearby parking as a convenient base to discover ancient Iberian artifacts, and try to visit early in the morning when the lighting highlights the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Termes Romanes de Mura",
+            "hu": "Termes Romanes de Mura",
+            "ro": "Termes Romanes de Mura",
+            "en": "Termes Romanes de Mura"
+          },
+          "coords": [
+            -0.595203,
+            39.629167
+          ],
+          "category": "historical",
+          "arrive_at": "10:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie den großen römischen Thermalkomplex und tragen Sie bequeme Schuhe, da die originalen unebenen Steinwege schwer begehbar sein können.",
+            "hu": "Fedezze fel az ókori mérnöki tudományt bemutató római fürdőkomplexumot, és viseljen kényelmes cipőt, mivel az egyenetlen kőutakon nehéz a gyalogos közlekedés.",
+            "ro": "Explorați acest complex termal roman extins care prezintă o inginerie antică avansată și purtați pantofi confortabili, deoarece căile din piatră pot fi denivelate.",
+            "en": "Explore this expansive Roman thermal bath complex that showcases advanced ancient engineering, and wear comfortable walking shoes for navigating the uneven stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Església de l'Assumpció",
+            "hu": "Església de l'Assumpció",
+            "ro": "Església de l'Assumpció",
+            "en": "Església de l'Assumpció"
+          },
+          "coords": [
+            -0.594734,
+            39.625522
+          ],
+          "category": "religious",
+          "arrive_at": "12:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende barocke Architektur dieser Kirche und nehmen Sie sich Zeit für die reich verzierte Fassade, bevor Sie eintreten.",
+            "hu": "Csodálja meg ennek a központi templomnak a lenyűgöző barokk építészetét, és szánjon egy percet a díszes homlokzat megtekintésére a belépés előtt.",
+            "ro": "Admirați arhitectura barocă impresionantă a acestei biserici și alocați-vă un moment pentru a privi fațada ornată înainte de a păși înăuntru pentru liniștea sa.",
+            "en": "Marvel at the impressive baroque architecture of this central church, and take a moment to admire the ornate facade before stepping inside to enjoy its quiet serenity."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell de Benissanó",
+            "hu": "Castell de Benissanó",
+            "ro": "Castell de Benissanó",
+            "en": "Castell de Benissanó"
+          },
+          "coords": [
+            -0.578129,
+            39.614208
+          ],
+          "category": "castle",
+          "arrive_at": "12:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die robuste Architektur dieser Burg und informieren Sie sich vorab über Führungen, um die prachtvoll restaurierten Räume zu sehen.",
+            "hu": "Csodálja meg ennek a jól megőrzött középkori várnak a robusztus építészetét, és tájékozódjon az idegenvezetésekről, hogy bejuthasson a belső termekbe.",
+            "ro": "Admirați arhitectura robustă a acestui castel medieval bine conservat și verificați în prealabil programul tururilor ghidate pentru a avea acces la interioare.",
+            "en": "Marvel at the robust architecture of this well-preserved medieval castle, and check the guided tour schedule in advance to gain access to the restored interior rooms."
+          }
+        },
+        {
+          "name": {
+            "de": "Anfiteatro municipal",
+            "hu": "Anfiteatro municipal",
+            "ro": "Anfiteatro municipal",
+            "en": "Anfiteatro municipal"
+          },
+          "coords": [
+            -0.579659,
+            39.615104
+          ],
+          "category": "cultural",
+          "arrive_at": "14:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen modernen Veranstaltungsort, an dem oft lebhafte Events stattfinden, und holen Sie sich einen Snack, um hier den Sonnenuntergang zu genießen.",
+            "hu": "Fedezze fel ezt a modern kulturális helyszínt, és vegyen egy gyors harapnivalót a közeli kávézókban, mielőtt a lépcsőkön ülve nézné az esti naplementét.",
+            "ro": "Explorați această locație culturală care găzduiește evenimente comunitare și luați o gustare de la cafenelele locale din apropiere înainte de a sta pe trepte.",
+            "en": "Explore this modern cultural venue hosting lively community events, and grab a quick snack at nearby cafes before sitting on the steps to watch the sunset colors."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt im Herzen von Llíria am Museum für eine brillante morgendliche Einführung.\n\nMittags fahren Sie kurz zu den römischen Thermen und der majestätischen zentralen Kirche.\n\nAm Nachmittag fahren Sie ins benachbarte Benissanó, um eine imposante mittelalterliche Burg zu erkunden.\n\nBeenden Sie Ihren Trip entspannt am örtlichen Amphitheater in einer lebhaften Abendatmosphäre.",
+        "hu": "Utazása Llíria szívében, a Múzeumnál kezdődik egy briliáns reggeli kulturális bevezetéssel.\n\nDélben egy rövid út a kiterjedt római fürdőkhöz és a fenséges központi templomhoz vezet.\n\nDélután autózzon át a szomszédos Benissanóba, hogy felfedezzen egy impozáns középkori várat.\n\nFejezze be kirándulását a helyi amfiteátrumban pihenve, magába szívva a vidám esti hangulatot.",
+        "ro": "Călătoria începe în inima orașului Llíria la Muzeu pentru o introducere matinală strălucită.\n\nLa prânz, conduceți scurt către băile termale romane și arhitectura maiestuoasă a bisericii centrale.\n\nDupă-amiaza, mergeți la Benissanó pentru a explora un castel medieval absolut impunător.\n\nÎncheiați-vă excursia la amfiteatrul municipal, bucurându-vă de atmosfera plină de viață a serii.",
+        "en": "Your drive begins in the heart of Llíria at the Museum for a brilliant morning introduction.\n\nMidday takes you a short drive to the sprawling Roman thermal baths and the majestic central church.\n\nIn the afternoon, cruise over to neighboring Benissanó to explore an imposing medieval castle.\n\nEnd your trip relaxing at the municipal amphitheater, soaking in the lively evening atmosphere."
+      }
+    }
+  }
+}

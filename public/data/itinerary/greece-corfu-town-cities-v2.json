@@ -1,0 +1,474 @@
+{
+  "city_id": "greece-corfu-town-cities-v2",
+  "anchor": {
+    "name": "Corfu Town",
+    "coords": [
+      19.9217,
+      39.6243
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:10",
+      "total_km": 1.75,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Spianada-Platz",
+            "hu": "Spianada tér",
+            "ro": "Piața Spianada",
+            "en": "Spianada Square"
+          },
+          "coords": [
+            19.92446,
+            39.623602
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schlendern Sie über den größten Platz Griechenlands, um die französische Architektur zu bewundern, und trinken Sie einen Kaffee unter den Arkaden des Liston.",
+            "hu": "Sétáljon végig Görögország legnagyobb terén, csodálja meg a francia stílusú építészetet, és igyon egy kávét a Liston árkádjai alatt, miközben a helyieket figyeli.",
+            "ro": "Plimbați-vă prin cea mai mare piață din Grecia pentru a admira arhitectura de stil francez și savurați o cafea sub arcadele Liston privind meciurile de crichet.",
+            "en": "Stroll through the largest square in Greece to admire its French-style architecture, and grab a coffee under the Liston arcades to watch local cricket matches."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Festung",
+            "hu": "Öreg Erőd",
+            "ro": "Vechea Fortăreață",
+            "en": "Old Fortress"
+          },
+          "coords": [
+            19.929444,
+            39.623333
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Erklimmen Sie dieses venezianische Meisterwerk für einen weiten Blick auf das Ionische Meer, aber tragen Sie festes Schuhwerk, da die Steinwege sehr rutschig sind.",
+            "hu": "Másszon fel ennek a velencei erődnek a tetejére a Jón-tengerre nyíló panorámáért, de viseljen kényelmes cipőt, mert a kőből rakott ösvények csúszósak lehetnek.",
+            "ro": "Urcați în vârful acestei capodopere venețiene pentru o priveliște superbă asupra Mării Ionice, dar purtați încălțăminte adecvată deoarece potecile sunt alunecoase.",
+            "en": "Climb to the top of this Venetian masterpiece for sweeping views of the Ionian Sea, but be sure to wear sturdy shoes as the stone pathways can be very slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast von St. Michael und St. George",
+            "hu": "Szent Mihály és Szent György Palota",
+            "ro": "Palatul Sf. Mihail și Sf. Gheorghe",
+            "en": "Palace of St. Michael and St. George"
+          },
+          "coords": [
+            19.924694,
+            39.625833
+          ],
+          "category": "famous buildings/residences",
+          "arrive_at": "11:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.49,
+          "tip_5lang": {
+            "de": "Entdecken Sie asiatische Kunst in diesem neoklassizistischen Herrenhaus aus der britischen Herrschaftszeit und kommen Sie früh, um die großen Menschenmassen zu meiden.",
+            "hu": "Fedezze fel az ázsiai művészetet ebben a brit uralom alatt épült neoklasszikus palotában, és érkezzen korán, hogy elkerülje a dél körüli nagyobb tömegeket.",
+            "ro": "Descoperiți arta asiatică în acest conac neoclasic construit în timpul dominației britanice și veniți devreme pentru a evita aglomerația de la prânz din galerii.",
+            "en": "Discover stunning Asian art within this grand neoclassical mansion built during British rule, and visit early to avoid the mid-day crowds at the main galleries."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Spyridon",
+            "hu": "Szent Szpiridon templom",
+            "ro": "Biserica Sf. Spiridon",
+            "en": "Saint Spyridon Church"
+          },
+          "coords": [
+            19.9227,
+            39.6251
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "12:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Bewundern Sie den beeindruckenden Glockenturm und den silbernen Sarkophag des Schutzpatrons der Insel, aber denken Sie an bescheidene Kleidung und leise Stimmen.",
+            "hu": "Csodálja meg a lenyűgöző harangtornyot és a sziget védőszentjének ezüst szarkofágját, de ne feledkezzen meg a szerény öltözködésről és a csendes viselkedésről.",
+            "ro": "Admirați turnul impresionant și sarcofagul de argint al sfântului patron al insulei, dar amintiți-vă să vă îmbrăcați decent și să păstrați liniștea în interior.",
+            "en": "Marvel at the impressive bell tower and the silver sarcophagus of the island's patron saint, but remember to dress modestly and keep your voice down inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus (San Giacomo)",
+            "hu": "Városháza (San Giacomo)",
+            "ro": "Primăria (San Giacomo)",
+            "en": "Town Hall (San Giacomo)"
+          },
+          "coords": [
+            19.922214,
+            39.623754
+          ],
+          "category": "famous buildings/residences",
+          "arrive_at": "13:13",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Renaissance-Details dieses ehemaligen venezianischen Theaters, das am besten im goldenen Licht des späten Nachmittags fotografiert werden kann.",
+            "hu": "Csodálja meg a reneszánsz részleteket ezen az egykori velencei színházból lett városházán, amelyet késő délutáni arany fényben érdemes a legjobban lefotózni.",
+            "ro": "Admirați detaliile renascentiste ale acestui fost teatru venețian transformat în primărie, fiind cel mai bine de fotografiat în lumina aurie a după-amiezii.",
+            "en": "Admire the exquisite Renaissance details of this former Venetian theater turned civic building, which is best photographed during the golden light of late afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Neue Festung",
+            "hu": "Új Erőd",
+            "ro": "Noua Fortăreață",
+            "en": "New Fortress"
+          },
+          "coords": [
+            19.916807,
+            39.625309
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:20",
+          "stay_min": 110,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.49,
+          "tip_5lang": {
+            "de": "Erkunden Sie die massiven Steintunnel und Bastionen dieser Festung und bringen Sie viel Wasser mit, da es auf den Mauern nur sehr wenig Schatten gibt.",
+            "hu": "Fedezze fel e hatalmas védelmi építmény kőalagútjait és bástyáit, és vigyen magával bőségesen vizet, mivel a falakon sétálva alig talál árnyékot a nap elől.",
+            "ro": "Explorați tunelurile și bastioanele acestei fortărețe masive și aduceți multă apă cu dumneavoastră, deoarece există puțină umbră pe zidurile exterioare.",
+            "en": "Explore the massive stone tunnels and bastions of this formidable defensive structure, and bring plenty of water as there is little shade while walking the walls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt auf der Spianada und fängt die lebhafte Atmosphäre ein, bevor die Alten Festung erobert wird. Mittags besuchen Sie den Palast von St. Michael und St. George, gefolgt von der Ruhe der Kirche des Heiligen Spyridon. Nachmittags bewundern Sie das elegante Rathaus San Giacomo. Der Tag endet mit dem Sonnenuntergang von den hohen Mauern der imposanten Neuen Festung.",
+        "hu": "A reggel a tágas Spianada téren indul, mielőtt bevenné az Öreg Erőd bástyáit. A délidő a Szent Mihály és Szent György Palota felfedezésével telik, melyet a Szent Szpiridon templom békéje követ. Délután megcsodálhatja a San Giacomo Városháza elegáns épületét. A nap az Új Erőd hatalmas falairól nyíló lenyűgöző naplemente-kilátással zárul.",
+        "ro": "Dimineața începe în Piața Spianada, înainte de a explora meterezele Vechii Fortărețe. La prânz vizitați Palatul Sf. Mihail și Sf. Gheorghe, urmat de liniștea spirituală a Bisericii Sf. Spiridon. După-amiaza admirați eleganta Primărie San Giacomo. Ziua se încheie cu un apus de soare spectaculos văzut de pe zidurile înalte ale Noii Fortărețe.",
+        "en": "Morning begins at the expansive Spianada Square, soaking in the vibrant atmosphere before conquering the ramparts of the Old Fortress. Midday brings you to the grand Palace of St. Michael and St. George, followed by the spiritual peace of Saint Spyridon Church. In the afternoon, admire the elegant San Giacomo Town Hall. The day concludes with sunset views from the towering walls of the New Fortress."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 3.61,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Neue Festung",
+            "hu": "Új Erőd",
+            "ro": "Noua Fortăreață",
+            "en": "New Fortress"
+          },
+          "coords": [
+            19.916807,
+            39.625309
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die massiven Steintunnel und Bastionen dieser Festung und bringen Sie viel Wasser mit, da es auf den Mauern nur sehr wenig Schatten gibt.",
+            "hu": "Fedezze fel e hatalmas védelmi építmény kőalagútjait és bástyáit, és vigyen magával bőségesen vizet, mivel a falakon sétálva alig talál árnyékot a nap elől.",
+            "ro": "Explorați tunelurile și bastioanele acestei fortărețe masive și aduceți multă apă cu dumneavoastră, deoarece există puțină umbră pe zidurile exterioare.",
+            "en": "Explore the massive stone tunnels and bastions of this formidable defensive structure, and bring plenty of water as there is little shade while walking the walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche des Heiligen Spyridon",
+            "hu": "Szent Szpiridon templom",
+            "ro": "Biserica Sf. Spiridon",
+            "en": "Saint Spyridon Church"
+          },
+          "coords": [
+            19.9227,
+            39.6251
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie den beeindruckenden Glockenturm und den silbernen Sarkophag des Schutzpatrons der Insel, aber denken Sie an bescheidene Kleidung und leise Stimmen.",
+            "hu": "Csodálja meg a lenyűgöző harangtornyot és a sziget védőszentjének ezüst szarkofágját, de ne feledkezzen meg a szerény öltözködésről és a csendes viselkedésről.",
+            "ro": "Admirați turnul impresionant și sarcofagul de argint al sfântului patron al insulei, dar amintiți-vă să vă îmbrăcați decent și să păstrați liniștea în interior.",
+            "en": "Marvel at the impressive bell tower and the silver sarcophagus of the island's patron saint, but remember to dress modestly and keep your voice down inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Spianada-Platz",
+            "hu": "Spianada tér",
+            "ro": "Piața Spianada",
+            "en": "Spianada Square"
+          },
+          "coords": [
+            19.92446,
+            39.623602
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:14",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Schlendern Sie über den größten Platz Griechenlands, um die französische Architektur zu bewundern, und trinken Sie einen Kaffee unter den Arkaden des Liston.",
+            "hu": "Sétáljon végig Görögország legnagyobb terén, csodálja meg a francia stílusú építészetet, és igyon egy kávét a Liston árkádjai alatt, miközben a helyieket figyeli.",
+            "ro": "Plimbați-vă prin cea mai mare piață din Grecia pentru a admira arhitectura de stil francez și savurați o cafea sub arcadele Liston privind meciurile de crichet.",
+            "en": "Stroll through the largest square in Greece to admire its French-style architecture, and grab a coffee under the Liston arcades to watch local cricket matches."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul Arheologic",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            19.92794,
+            39.62347
+          ],
+          "category": "museums",
+          "arrive_at": "11:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Untersuchen Sie den prächtigen Gorgonen-Giebel vom Artemis-Tempel und andere antike Artefakte und nehmen Sie sich Zeit für die englischen Schilder in jedem Raum.",
+            "hu": "Tekintse meg az Artemisz-templomból származó csodálatos Gorgó-oromzatot, és szánjon időt a kiállítótermek részletes angol nyelvű tájékoztatóinak elolvasására.",
+            "ro": "Examinați magnificul fronton Gorgon de la Templul lui Artemis și alte artefacte antice, alocând timp pentru a citi plăcuțele detaliate din fiecare încăpere.",
+            "en": "Examine the magnificent Gorgon pediment from the Temple of Artemis and other ancient artifacts, taking time to read the detailed English placards in each room."
+          }
+        },
+        {
+          "name": {
+            "de": "Mon Repos Anwesen",
+            "hu": "Mon Repos Birtok",
+            "ro": "Domeniul Mon Repos",
+            "en": "Mon Repos Estate"
+          },
+          "coords": [
+            19.926111,
+            39.606389
+          ],
+          "category": "famous buildings/residences",
+          "arrive_at": "13:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch üppige Gärten zu der charmanten neoklassizistischen Villa, in der Prinz Philip geboren wurde, und verwenden Sie im Sommer unbedingt Mückenspray.",
+            "hu": "Sétáljon át a buja kerteken a bájos neoklasszikus villához, ahol Fülöp herceg született, és használjon szúnyogriasztót a melegebb nyári hónapokban a fák alatt.",
+            "ro": "Plimbați-vă prin grădinile luxuriante până la vila neoclasică unde s-a născut Prințul Philip și asigurați-vă că folosiți repelent de țânțari în lunile de vară.",
+            "en": "Walk through lush gardens to reach the charming neoclassical villa where Prince Philip was born, and use mosquito repellent during the warmer summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Artemis-Tempel",
+            "hu": "Artemisz-templom",
+            "ro": "Templul lui Artemis",
+            "en": "Temple of Artemis Gorgo"
+          },
+          "coords": [
+            19.918085,
+            39.60712
+          ],
+          "category": "historical",
+          "arrive_at": "14:55",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.69,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die Ruinen dieses einst massiven dorischen Tempels in einem ruhigen Viertel, obwohl die meisten großen Funde jetzt im Museum ausgestellt sind.",
+            "hu": "Vizsgálja meg ennek az egykor hatalmas dór templomnak az ősi romjait, bár jó tudni, hogy a legfontosabb leleteket ma már a Régészeti Múzeumban őrzik.",
+            "ro": "Investigați ruinele antice ale acestui templu doric odinioară masiv, deși ar trebui să știți că majoritatea descoperirilor importante se află acum în muzeu.",
+            "en": "Investigate the ancient ruins of this once-massive Doric temple in a quiet neighborhood, though you should note that most major finds are now inside the museum."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie den Tag mit einer Radtour zur Neuen Festung für herrliche Ausblicke. Mittags gleiten Sie zur Kirche des Heiligen Spyridon und zur Spianada. Nach dem Essen fahren Sie zum Archäologischen Museum. Der Nachmittag bietet eine malerische Fahrt zum üppigen Mon Repos Anwesen und endet bei den ruhigen, atmosphärischen Ruinen des Artemis-Tempels.",
+        "hu": "Kezdje a napot az Új Erődhöz való feltekeréssel a pazar kilátásért. Délben a történelmi utcákon a Szent Szpiridon templomhoz és a Spianada térhez gurul. Ebéd után az ősi mítoszokat kutatva a Régészeti Múzeum felé veszi az irányt. A délután egy festői utat kínál a buja Mon Repos birtokhoz, amit végül az Artemisz-templom romjai zárnak.",
+        "ro": "Începeți ziua pedalând către Noua Fortăreață pentru o priveliște matinală deosebită. La prânz treceți pe la Biserica Sf. Spiridon și Piața Spianada. După prânz mergeți cu bicicleta spre Muzeul Arheologic pentru a explora mituri antice. După-amiaza oferă o plimbare pitorească spre domeniul Mon Repos, finalizând ziua la ruinele Templului lui Artemis.",
+        "en": "Kick off the day cycling up to the New Fortress for commanding morning views. Midday glides through the historic lanes to Saint Spyridon Church and Spianada Square. After lunch, ride down to the Archaeological Museum to delve into ancient myths. The afternoon offers a scenic pedal to the lush Mon Repos Estate, finishing the day with the quiet, evocative ruins of the Temple of Artemis Gorgo."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:17",
+      "total_km": 5.18,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kanoni & Vlacherna",
+            "hu": "Kanoni és Vlacherna",
+            "ro": "Kanoni și Vlacherna",
+            "en": "Kanoni & Vlacherna"
+          },
+          "coords": [
+            19.919748,
+            39.590989
+          ],
+          "category": "viewpoints",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Fotografieren Sie das weiße Kloster am Pier und passen Sie Ihren Besuch so ab, dass Sie Flugzeuge direkt über Ihrem Kopf im Landeanflug einfangen können.",
+            "hu": "Fényképezze le a keskeny mólón megközelíthető ikonikus fehér kolostort, és időzítse látogatását úgy, hogy megörökítse a közvetlenül a feje felett elszálló gépeket.",
+            "ro": "Fotografiați mănăstirea albă conectată de continent printr-un dig și planificați-vă vizita pentru a prinde avioanele zburând impresionant de jos chiar deasupra.",
+            "en": "Photograph the iconic white monastery connected to the mainland by a narrow pier, and time your visit to capture planes flying impressively low directly overhead."
+          }
+        },
+        {
+          "name": {
+            "de": "Dorischer Tempel in Kardaki",
+            "hu": "Kardaki dór temploma",
+            "ro": "Templul Doric de la Kardaki",
+            "en": "Doric Temple at Kardaki"
+          },
+          "coords": [
+            19.926106,
+            39.601387
+          ],
+          "category": "historical",
+          "arrive_at": "09:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.27,
+          "tip_5lang": {
+            "de": "Suchen Sie diese versteckte antike Quelle und Tempelruine in einer grünen Schlucht und tragen Sie festes Schuhwerk für den etwas steilen und unbefestigten Weg.",
+            "hu": "Keresse meg ezt a rejtett ősi forrást és templomromot a zöldellő szurdokban, és viseljen ésszerű lábbelit a kissé meredek és burkolatlan gyalogösvény miatt.",
+            "ro": "Căutați acest izvor antic și ruina templului ascunse într-o râpă verde, purtând încălțăminte practică pentru poteca de pământ care este destul de abruptă.",
+            "en": "Seek out this hidden ancient spring and temple ruin tucked away in a verdant ravine, wearing sensible footwear for the somewhat steep and unpaved walking path."
+          }
+        },
+        {
+          "name": {
+            "de": "Mon Repos Anwesen",
+            "hu": "Mon Repos Birtok",
+            "ro": "Domeniul Mon Repos",
+            "en": "Mon Repos Estate"
+          },
+          "coords": [
+            19.926111,
+            39.606389
+          ],
+          "category": "famous buildings/residences",
+          "arrive_at": "10:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch üppige Gärten zu der charmanten neoklassizistischen Villa, in der Prinz Philip geboren wurde, und verwenden Sie im Sommer unbedingt Mückenspray.",
+            "hu": "Sétáljon át a buja kerteken a bájos neoklasszikus villához, ahol Fülöp herceg született, és használjon szúnyogriasztót a melegebb nyári hónapokban a fák alatt.",
+            "ro": "Plimbați-vă prin grădinile luxuriante până la vila neoclasică unde s-a născut Prințul Philip și asigurați-vă că folosiți repelent de țânțari în lunile de vară.",
+            "en": "Walk through lush gardens to reach the charming neoclassical villa where Prince Philip was born, and use mosquito repellent during the warmer summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Palast von St. Michael und St. George",
+            "hu": "Szent Mihály és Szent György Palota",
+            "ro": "Palatul Sf. Mihail și Sf. Gheorghe",
+            "en": "Palace of St. Michael and St. George"
+          },
+          "coords": [
+            19.924694,
+            39.625833
+          ],
+          "category": "famous buildings/residences",
+          "arrive_at": "12:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie asiatische Kunst in diesem neoklassizistischen Herrenhaus aus der britischen Herrschaftszeit und kommen Sie früh, um die großen Menschenmassen zu meiden.",
+            "hu": "Fedezze fel az ázsiai művészetet ebben a brit uralom alatt épült neoklasszikus palotában, és érkezzen korán, hogy elkerülje a dél körüli nagyobb tömegeket.",
+            "ro": "Descoperiți arta asiatică în acest conac neoclasic construit în timpul dominației britanice și veniți devreme pentru a evita aglomerația de la prânz din galerii.",
+            "en": "Discover stunning Asian art within this grand neoclassical mansion built during British rule, and visit early to avoid the mid-day crowds at the main galleries."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Festung",
+            "hu": "Öreg Erőd",
+            "ro": "Vechea Fortăreață",
+            "en": "Old Fortress"
+          },
+          "coords": [
+            19.929444,
+            39.623333
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.49,
+          "tip_5lang": {
+            "de": "Erklimmen Sie dieses venezianische Meisterwerk für einen weiten Blick auf das Ionische Meer, aber tragen Sie festes Schuhwerk, da die Steinwege sehr rutschig sind.",
+            "hu": "Másszon fel ennek a velencei erődnek a tetejére a Jón-tengerre nyíló panorámáért, de viseljen kényelmes cipőt, mert a kőből rakott ösvények csúszósak lehetnek.",
+            "ro": "Urcați în vârful acestei capodopere venețiene pentru o priveliște superbă asupra Mării Ionice, dar purtați încălțăminte adecvată deoarece potecile sunt alunecoase.",
+            "en": "Climb to the top of this Venetian masterpiece for sweeping views of the Ionian Sea, but be sure to wear sturdy shoes as the stone pathways can be very slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Byzantinisches Museum",
+            "hu": "Bizánci Múzeum",
+            "ro": "Muzeul Bizantin",
+            "en": "Byzantine Museum"
+          },
+          "coords": [
+            19.922524,
+            39.627195
+          ],
+          "category": "museum",
+          "arrive_at": "15:07",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.72,
+          "tip_5lang": {
+            "de": "Betreten Sie die historische Antivouniotissa-Kirche, um ihre reiche Sammlung nachbyzantinischer Ikonen zu bewundern, und denken Sie an das strenge Fotografierverbot.",
+            "hu": "Lépjen be a történelmi Antivouniotissa templomba a poszt-bizánci ikonok gyűjteményéért, de ne feledje, hogy a fényképezés odabent szigorúan tilos mindenki számára.",
+            "ro": "Pășiți în istorica Biserică Antivouniotissa pentru a admira colecția sa bogată de icoane post-bizantine, având în vedere că fotografiatul este complet interzis.",
+            "en": "Step into the historic Antivouniotissa Church to admire its rich collection of post-Byzantine icons, keeping in mind that photography is completely restricted inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit einem atemberaubenden Morgen am Kloster Vlacherna. Mittags fahren Sie zum antiken dorischen Tempel von Kardaki und dem historischen Anwesen Mon Repos. Parken Sie nachmittags in der Nähe der Altstadt, um den Palast von St. Michael und St. George zu erkunden. Beenden Sie Ihre Tour an der Alten Festung und im faszinierenden byzantinischen Museum.",
+        "hu": "Kezdje a napot a festői Kanoni és Vlacherna kolostor megtekintésével. A déli órákban a kardaki dór templom és a történelmi Mon Repos birtok következik. Délután parkoljon le az óváros közelében, hogy felfedezze a lenyűgöző Szent Mihály és Szent György Palotát. Az autós túrát az Öreg Erőd és a lenyűgöző Bizánci Múzeum gazdag ikonkiállítása zárja.",
+        "ro": "Începeți cu o dimineață superbă privind Mănăstirea Vlacherna. Prânzul vă duce la anticul templu doric de la Kardaki și la istoricul domeniu Mon Repos. După-amiaza, parcați lângă Centrul Vechi pentru a explora magnificul Palat al Sf. Mihail și Sf. Gheorghe. Încheiați turul la Vechea Fortăreață și la colecția fascinantă a Muzeului Bizantin.",
+        "en": "Start with a breathtaking morning overlooking the iconic Kanoni & Vlacherna monastery. Midday takes you slightly north to the ancient Doric Temple at Kardaki and the historic Mon Repos Estate. In the afternoon, park near the Old Town to explore the magnificent Palace of St. Michael and St. George. Conclude your driving tour at the Old Fortress and the fascinating Byzantine Museum's rich collection."
+      }
+    }
+  }
+}

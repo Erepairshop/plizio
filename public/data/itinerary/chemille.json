@@ -1,0 +1,589 @@
+{
+  "city_id": "chemille",
+  "anchor": {
+    "name": "Chemillé",
+    "coords": [
+      -0.7258,
+      47.2131
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:26",
+      "total_km": 3.42,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Notre-Dame la Neuve Church",
+            "hu": "Notre-Dame la Neuve Church",
+            "ro": "Notre-Dame la Neuve Church",
+            "en": "Notre-Dame la Neuve Church"
+          },
+          "coords": [
+            -0.727206,
+            47.210314
+          ],
+          "category": "religious",
+          "arrive_at": "09:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur dieser historischen Kirche und kommen Sie am frühen Morgen, um das beste Licht zu genießen.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a lenyűgöző építészetét, és érkezzen kora reggel a legjobb fényviszonyokért.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici istorice și veniți dimineața devreme pentru a vă bucura de cea mai bună lumină.",
+            "en": "Admire the impressive architecture of this historical church and arrive early in the morning to enjoy the best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Chemillé Castle Ruins",
+            "hu": "Chemillé Castle Ruins",
+            "ro": "Chemillé Castle Ruins",
+            "en": "Chemillé Castle Ruins"
+          },
+          "coords": [
+            -0.727418,
+            47.205439
+          ],
+          "category": "historical",
+          "arrive_at": "10:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.54,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Überreste des alten Schlosses, das tief in die Geschichte der Region blicken lässt, und tragen Sie bequeme Schuhe.",
+            "hu": "Fedezze fel az ősi kastély romjait, amelyek mély betekintést nyújtanak a régió történelmébe, és viseljen kényelmes cipőt.",
+            "ro": "Descoperiți ruinele vechiului castel care oferă o privire profundă în istoria regiunii și purtați încălțăminte confortabilă.",
+            "en": "Discover the remains of the ancient castle offering a deep look into the region's history, and wear comfortable walking shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Camifolia Garden",
+            "hu": "Camifolia Garden",
+            "ro": "Camifolia Garden",
+            "en": "Camifolia Garden"
+          },
+          "coords": [
+            -0.7336,
+            47.2141
+          ],
+          "category": "natural",
+          "arrive_at": "11:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.06,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen botanischen Garten mit über 500 Heilpflanzen und nehmen Sie an einer geführten Tour teil, um mehr zu erfahren.",
+            "hu": "Sétáljon végig ezen a több mint 500 gyógynövényt bemutató botanikus kerten, és vegyen részt egy vezetett túrán a részletekért.",
+            "ro": "Plimbați-vă prin această grădină botanică cu peste 500 de plante medicinale și participați la un tur ghidat pentru a afla mai multe.",
+            "en": "Stroll through this botanical garden featuring over 500 medicinal plants, and join a guided tour to learn more about them."
+          }
+        },
+        {
+          "name": {
+            "de": "L'Arbre à Fil",
+            "hu": "L'Arbre à Fil",
+            "ro": "L'Arbre à Fil",
+            "en": "L'Arbre à Fil"
+          },
+          "coords": [
+            -0.730944,
+            47.220785
+          ],
+          "category": "cultural",
+          "arrive_at": "13:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.76,
+          "tip_5lang": {
+            "de": "Erleben Sie diese faszinierende kulturelle Stätte, die Kunst und Natur verbindet, und bringen Sie eine Kamera für einzigartige Motive mit.",
+            "hu": "Tapasztalja meg ezt a lenyűgöző kulturális helyszínt, amely ötvözi a művészetet és a természetet, és hozzon magával fényképezőgépet.",
+            "ro": "Experimentați acest sit cultural fascinant care îmbină arta și natura și aduceți o cameră foto pentru motive unice.",
+            "en": "Experience this fascinating cultural site that blends art and nature, and be sure to bring a camera for unique photo opportunities."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Pierre Church",
+            "hu": "Saint-Pierre Church",
+            "ro": "Saint-Pierre Church",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            -0.726431,
+            47.21925
+          ],
+          "category": "religious",
+          "arrive_at": "14:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese charmante Kirche mit ihren wunderschönen Buntglasfenstern und achten Sie auf die friedliche Atmosphäre im Inneren.",
+            "hu": "Látogassa meg ezt a bájos templomot a gyönyörű ólomüveg ablakaival, és figyelje meg a belső békés atmoszférát.",
+            "ro": "Vizitați această biserică fermecătoare cu vitraliile sale frumoase și acordați atenție atmosferei pașnice din interior.",
+            "en": "Visit this charming church with its beautiful stained glass windows and take a moment to appreciate the peaceful atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Val d'Hyrôme",
+            "hu": "Le Val d'Hyrôme",
+            "ro": "Le Val d'Hyrôme",
+            "en": "Le Val d'Hyrôme"
+          },
+          "coords": [
+            -0.723623,
+            47.221667
+          ],
+          "category": "castle",
+          "arrive_at": "15:36",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Umgebung dieses historischen Anwesens und planen Sie ein kleines Picknick in den umliegenden Grünanlagen ein.",
+            "hu": "Élvezze ennek a történelmi birtoknak a nyugodt környezetét, és tervezzen be egy kis pikniket a környező zöldterületeken.",
+            "ro": "Bucurați-vă de împrejurimile liniștite ale acestei proprietăți istorice și planificați un mic picnic în zonele verzi înconjurătoare.",
+            "en": "Enjoy the tranquil surroundings of this historic estate and plan a small picnic in the surrounding green areas for relaxation."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Chemillé, erkunden Sie die prächtige Kirche und die historischen Burgruinen, die von einer reichen Vergangenheit erzählen.\n\nSetzen Sie Ihren Spaziergang zum botanischen Garten Camifolia fort, wo Sie zwischen Heilpflanzen entspannen und die Natur in vollen Zügen genießen können.\n\nAm Nachmittag entdecken Sie die kulturelle Stätte L'Arbre à Fil und bewundern die charmante Kirche Saint-Pierre mit ihrer einzigartigen, friedlichen Atmosphäre.\n\nLassen Sie den Tag beim Le Val d'Hyrôme gemütlich ausklingen, spazieren Sie durch die historische Anlage und genießen Sie die abendliche Ruhe der Region.",
+        "hu": "Kezdje a napot Chemillé szívében, fedezze fel a pompás templomot és a történelmi kastélyromokat, amelyek gazdag múltról mesélnek.\n\nFolytassa sétáját a Camifolia botanikus kertbe, ahol gyógynövények között pihenhet, és teljes mértékben élvezheti a természetet.\n\nDélután fedezze fel a L'Arbre à Fil kulturális helyszínt, és csodálja meg a bájos Saint-Pierre templomot egyedülálló, békés hangulatával.\n\nZárja a napot kényelmesen a Le Val d'Hyrôme birtokon, sétáljon végig a történelmi területen, és élvezze a régió esti nyugalmát.",
+        "ro": "Începeți-vă ziua în inima orașului Chemillé, explorând biserica magnifică și ruinele istorice ale castelului care spun povestea unui trecut bogat.\n\nContinuați plimbarea spre grădina botanică Camifolia, unde vă puteți relaxa printre plante medicinale și vă puteți bucura din plin de natură.\n\nDupă-amiaza descoperiți situl cultural L'Arbre à Fil și admirați fermecătoarea biserică Saint-Pierre cu atmosfera sa unică și pașnică.\n\nÎncheiați ziua confortabil la Le Val d'Hyrôme, plimbați-vă prin complexul istoric și bucurați-vă de liniștea serii din regiune.",
+        "en": "Start your day in the heart of Chemillé, exploring the magnificent church and the historical castle ruins that tell the story of a rich past.\n\nContinue your walk to the Camifolia botanical garden, where you can relax among medicinal plants and fully enjoy the beauty of nature.\n\nIn the afternoon, discover the cultural site L'Arbre à Fil and admire the charming Saint-Pierre Church with its uniquely peaceful atmosphere.\n\nEnd the day comfortably at Le Val d'Hyrôme, stroll through the historic grounds, and enjoy the evening tranquility of the region."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:28",
+      "total_km": 4.95,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Chemillé Castle Ruins",
+            "hu": "Chemillé Castle Ruins",
+            "ro": "Chemillé Castle Ruins",
+            "en": "Chemillé Castle Ruins"
+          },
+          "coords": [
+            -0.727418,
+            47.205439
+          ],
+          "category": "historical",
+          "arrive_at": "09:05",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.86,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Überreste des alten Schlosses, das tief in die Geschichte der Region blicken lässt, und tragen Sie bequeme Schuhe.",
+            "hu": "Fedezze fel az ősi kastély romjait, amelyek mély betekintést nyújtanak a régió történelmébe, és viseljen kényelmes cipőt.",
+            "ro": "Descoperiți ruinele vechiului castel care oferă o privire profundă în istoria regiunii și purtați încălțăminte confortabilă.",
+            "en": "Discover the remains of the ancient castle offering a deep look into the region's history, and wear comfortable walking shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame la Neuve Church",
+            "hu": "Notre-Dame la Neuve Church",
+            "ro": "Notre-Dame la Neuve Church",
+            "en": "Notre-Dame la Neuve Church"
+          },
+          "coords": [
+            -0.727206,
+            47.210314
+          ],
+          "category": "religious",
+          "arrive_at": "10:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.54,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur dieser historischen Kirche und kommen Sie am frühen Morgen, um das beste Licht zu genießen.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a lenyűgöző építészetét, és érkezzen kora reggel a legjobb fényviszonyokért.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici istorice și veniți dimineața devreme pentru a vă bucura de cea mai bună lumină.",
+            "en": "Admire the impressive architecture of this historical church and arrive early in the morning to enjoy the best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Camifolia Garden",
+            "hu": "Camifolia Garden",
+            "ro": "Camifolia Garden",
+            "en": "Camifolia Garden"
+          },
+          "coords": [
+            -0.7336,
+            47.2141
+          ],
+          "category": "natural",
+          "arrive_at": "11:22",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.64,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen botanischen Garten mit über 500 Heilpflanzen und nehmen Sie an einer geführten Tour teil, um mehr zu erfahren.",
+            "hu": "Sétáljon végig ezen a több mint 500 gyógynövényt bemutató botanikus kerten, és vegyen részt egy vezetett túrán a részletekért.",
+            "ro": "Plimbați-vă prin această grădină botanică cu peste 500 de plante medicinale și participați la un tur ghidat pentru a afla mai multe.",
+            "en": "Stroll through this botanical garden featuring over 500 medicinal plants, and join a guided tour to learn more about them."
+          }
+        },
+        {
+          "name": {
+            "de": "L'Arbre à Fil",
+            "hu": "L'Arbre à Fil",
+            "ro": "L'Arbre à Fil",
+            "en": "L'Arbre à Fil"
+          },
+          "coords": [
+            -0.730944,
+            47.220785
+          ],
+          "category": "cultural",
+          "arrive_at": "12:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.76,
+          "tip_5lang": {
+            "de": "Erleben Sie diese faszinierende kulturelle Stätte, die Kunst und Natur verbindet, und bringen Sie eine Kamera für einzigartige Motive mit.",
+            "hu": "Tapasztalja meg ezt a lenyűgöző kulturális helyszínt, amely ötvözi a művészetet és a természetet, és hozzon magával fényképezőgépet.",
+            "ro": "Experimentați acest sit cultural fascinant care îmbină arta și natura și aduceți o cameră foto pentru motive unice.",
+            "en": "Experience this fascinating cultural site that blends art and nature, and be sure to bring a camera for unique photo opportunities."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Pierre Church",
+            "hu": "Saint-Pierre Church",
+            "ro": "Saint-Pierre Church",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            -0.726431,
+            47.21925
+          ],
+          "category": "religious",
+          "arrive_at": "14:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese charmante Kirche mit ihren wunderschönen Buntglasfenstern und achten Sie auf die friedliche Atmosphäre im Inneren.",
+            "hu": "Látogassa meg ezt a bájos templomot a gyönyörű ólomüveg ablakaival, és figyelje meg a belső békés atmoszférát.",
+            "ro": "Vizitați această biserică fermecătoare cu vitraliile sale frumoase și acordați atenție atmosferei pașnice din interior.",
+            "en": "Visit this charming church with its beautiful stained glass windows and take a moment to appreciate the peaceful atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Val d'Hyrôme",
+            "hu": "Le Val d'Hyrôme",
+            "ro": "Le Val d'Hyrôme",
+            "en": "Le Val d'Hyrôme"
+          },
+          "coords": [
+            -0.723623,
+            47.221667
+          ],
+          "category": "castle",
+          "arrive_at": "14:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Umgebung dieses historischen Anwesens und planen Sie ein kleines Picknick in den umliegenden Grünanlagen ein.",
+            "hu": "Élvezze ennek a történelmi birtoknak a nyugodt környezetét, és tervezzen be egy kis pikniket a környező zöldterületeken.",
+            "ro": "Bucurați-vă de împrejurimile liniștite ale acestei proprietăți istorice și planificați un mic picnic în zonele verzi înconjurătoare.",
+            "en": "Enjoy the tranquil surroundings of this historic estate and plan a small picnic in the surrounding green areas for relaxation."
+          }
+        },
+        {
+          "name": {
+            "de": "L'Écho",
+            "hu": "L'Écho",
+            "ro": "L'Écho",
+            "en": "L'Écho"
+          },
+          "coords": [
+            -0.721045,
+            47.228361
+          ],
+          "category": "castle",
+          "arrive_at": "16:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.77,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierende Struktur dieses Schlosses und achten Sie auf die architektonischen Details, die die lokale Bauweise prägen.",
+            "hu": "Fedezze fel ennek a kastélynak a lenyűgöző szerkezetét, és figyelje meg a helyi építészetet meghatározó részleteket.",
+            "ro": "Explorați structura fascinantă a acestui castel și acordați atenție detaliilor arhitecturale care definesc stilul local.",
+            "en": "Explore the fascinating structure of this castle and pay attention to the architectural details that define the local building style."
+          }
+        },
+        {
+          "name": {
+            "de": "Salbœuf",
+            "hu": "Salbœuf",
+            "ro": "Salbœuf",
+            "en": "Salbœuf"
+          },
+          "coords": [
+            -0.728815,
+            47.231256
+          ],
+          "category": "castle",
+          "arrive_at": "17:38",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.67,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die Geschichte dieses abgelegenen Schlosses und nehmen Sie sich Zeit, um die unberührte Natur der Umgebung zu genießen.",
+            "hu": "Merüljön el ennek a távoli kastélynak a történelmében, és szánjon időt a környező érintetlen természet élvezetére.",
+            "ro": "Cufundați-vă în istoria acestui castel retras și luați-vă timp pentru a vă bucura de natura neatinsă din împrejurimi.",
+            "en": "Immerse yourself in the history of this secluded castle and take your time to enjoy the untouched nature of the surroundings."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und erkunden Sie die Burgruinen sowie die Kirche Notre-Dame la Neuve im belebten Zentrum der Stadt.\n\nDie Fahrt führt Sie weiter zum wunderschönen Garten Camifolia und zum kreativen Raum L'Arbre à Fil, ideale Orte für eine inspirierende Pause.\n\nErkunden Sie die Kirche Saint-Pierre und fahren Sie zum majestätischen Le Val d'Hyrôme, um tiefer in das historische Erbe der Gegend einzutauchen.\n\nAm Abend radeln Sie zu den abgelegenen Schlössern L'Écho und Salbœuf, wo Sie den Sonnenuntergang vor einer spektakulären Kulisse erleben können.",
+        "hu": "Pattanjon kerékpárra, és fedezze fel a kastélyromokat, valamint a Notre-Dame la Neuve templomot a város nyüzsgő központjában.\n\nAz út tovább vezet a gyönyörű Camifolia kerthez és a kreatív L'Arbre à Fil térhez, amelyek ideális helyszínek egy inspiráló pihenéshez.\n\nFedezze fel a Saint-Pierre templomot, és tekerjen a fenséges Le Val d'Hyrôme felé, hogy mélyebben elmerüljön a környék történelmi örökségében.\n\nEste kerékpározzon el a távoli L'Écho és Salbœuf kastélyokhoz, ahol egy látványos kulissza előtt élvezheti a naplementét.",
+        "ro": "Urcați-vă pe bicicletă și explorați ruinele castelului, precum și biserica Notre-Dame la Neuve în centrul plin de viață al orașului.\n\nPlimbarea vă duce mai departe la frumoasa grădină Camifolia și la spațiul creativ L'Arbre à Fil, locuri ideale pentru o pauză inspiratoare.\n\nExplorați biserica Saint-Pierre și pedalați către maiestuosul Le Val d'Hyrôme pentru a pătrunde mai adânc în moștenirea istorică a zonei.\n\nSeara pedalați spre castelele izolate L'Écho și Salbœuf, unde puteți experimenta apusul soarelui pe un fundal spectaculos.",
+        "en": "Hop on your bike and explore the castle ruins as well as the Notre-Dame la Neuve Church in the bustling center of the town.\n\nThe ride takes you further to the beautiful Camifolia garden and the creative space L'Arbre à Fil, ideal places for an inspiring break.\n\nExplore the Saint-Pierre Church and ride towards the majestic Le Val d'Hyrôme to delve deeper into the area's rich historical heritage.\n\nIn the evening, cycle to the secluded castles of L'Écho and Salbœuf, where you can experience the sunset against a spectacular backdrop."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:39",
+      "total_km": 7.49,
+      "stop_count": 9,
+      "stops": [
+        {
+          "name": {
+            "de": "Chemillé Castle Ruins",
+            "hu": "Chemillé Castle Ruins",
+            "ro": "Chemillé Castle Ruins",
+            "en": "Chemillé Castle Ruins"
+          },
+          "coords": [
+            -0.727418,
+            47.205439
+          ],
+          "category": "historical",
+          "arrive_at": "09:02",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.86,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Überreste des alten Schlosses, das tief in die Geschichte der Region blicken lässt, und tragen Sie bequeme Schuhe.",
+            "hu": "Fedezze fel az ősi kastély romjait, amelyek mély betekintést nyújtanak a régió történelmébe, és viseljen kényelmes cipőt.",
+            "ro": "Descoperiți ruinele vechiului castel care oferă o privire profundă în istoria regiunii și purtați încălțăminte confortabilă.",
+            "en": "Discover the remains of the ancient castle offering a deep look into the region's history, and wear comfortable walking shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame la Neuve Church",
+            "hu": "Notre-Dame la Neuve Church",
+            "ro": "Notre-Dame la Neuve Church",
+            "en": "Notre-Dame la Neuve Church"
+          },
+          "coords": [
+            -0.727206,
+            47.210314
+          ],
+          "category": "religious",
+          "arrive_at": "10:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.54,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur dieser historischen Kirche und kommen Sie am frühen Morgen, um das beste Licht zu genießen.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a lenyűgöző építészetét, és érkezzen kora reggel a legjobb fényviszonyokért.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici istorice și veniți dimineața devreme pentru a vă bucura de cea mai bună lumină.",
+            "en": "Admire the impressive architecture of this historical church and arrive early in the morning to enjoy the best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Camifolia Garden",
+            "hu": "Camifolia Garden",
+            "ro": "Camifolia Garden",
+            "en": "Camifolia Garden"
+          },
+          "coords": [
+            -0.7336,
+            47.2141
+          ],
+          "category": "natural",
+          "arrive_at": "11:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.64,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen botanischen Garten mit über 500 Heilpflanzen und nehmen Sie an einer geführten Tour teil, um mehr zu erfahren.",
+            "hu": "Sétáljon végig ezen a több mint 500 gyógynövényt bemutató botanikus kerten, és vegyen részt egy vezetett túrán a részletekért.",
+            "ro": "Plimbați-vă prin această grădină botanică cu peste 500 de plante medicinale și participați la un tur ghidat pentru a afla mai multe.",
+            "en": "Stroll through this botanical garden featuring over 500 medicinal plants, and join a guided tour to learn more about them."
+          }
+        },
+        {
+          "name": {
+            "de": "L'Arbre à Fil",
+            "hu": "L'Arbre à Fil",
+            "ro": "L'Arbre à Fil",
+            "en": "L'Arbre à Fil"
+          },
+          "coords": [
+            -0.730944,
+            47.220785
+          ],
+          "category": "cultural",
+          "arrive_at": "12:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.76,
+          "tip_5lang": {
+            "de": "Erleben Sie diese faszinierende kulturelle Stätte, die Kunst und Natur verbindet, und bringen Sie eine Kamera für einzigartige Motive mit.",
+            "hu": "Tapasztalja meg ezt a lenyűgöző kulturális helyszínt, amely ötvözi a művészetet és a természetet, és hozzon magával fényképezőgépet.",
+            "ro": "Experimentați acest sit cultural fascinant care îmbină arta și natura și aduceți o cameră foto pentru motive unice.",
+            "en": "Experience this fascinating cultural site that blends art and nature, and be sure to bring a camera for unique photo opportunities."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Pierre Church",
+            "hu": "Saint-Pierre Church",
+            "ro": "Saint-Pierre Church",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            -0.726431,
+            47.21925
+          ],
+          "category": "religious",
+          "arrive_at": "13:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese charmante Kirche mit ihren wunderschönen Buntglasfenstern und achten Sie auf die friedliche Atmosphäre im Inneren.",
+            "hu": "Látogassa meg ezt a bájos templomot a gyönyörű ólomüveg ablakaival, és figyelje meg a belső békés atmoszférát.",
+            "ro": "Vizitați această biserică fermecătoare cu vitraliile sale frumoase și acordați atenție atmosferei pașnice din interior.",
+            "en": "Visit this charming church with its beautiful stained glass windows and take a moment to appreciate the peaceful atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Val d'Hyrôme",
+            "hu": "Le Val d'Hyrôme",
+            "ro": "Le Val d'Hyrôme",
+            "en": "Le Val d'Hyrôme"
+          },
+          "coords": [
+            -0.723623,
+            47.221667
+          ],
+          "category": "castle",
+          "arrive_at": "14:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Umgebung dieses historischen Anwesens und planen Sie ein kleines Picknick in den umliegenden Grünanlagen ein.",
+            "hu": "Élvezze ennek a történelmi birtoknak a nyugodt környezetét, és tervezzen be egy kis pikniket a környező zöldterületeken.",
+            "ro": "Bucurați-vă de împrejurimile liniștite ale acestei proprietăți istorice și planificați un mic picnic în zonele verzi înconjurătoare.",
+            "en": "Enjoy the tranquil surroundings of this historic estate and plan a small picnic in the surrounding green areas for relaxation."
+          }
+        },
+        {
+          "name": {
+            "de": "L'Écho",
+            "hu": "L'Écho",
+            "ro": "L'Écho",
+            "en": "L'Écho"
+          },
+          "coords": [
+            -0.721045,
+            47.228361
+          ],
+          "category": "castle",
+          "arrive_at": "16:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.77,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierende Struktur dieses Schlosses und achten Sie auf die architektonischen Details, die die lokale Bauweise prägen.",
+            "hu": "Fedezze fel ennek a kastélynak a lenyűgöző szerkezetét, és figyelje meg a helyi építészetet meghatározó részleteket.",
+            "ro": "Explorați structura fascinantă a acestui castel și acordați atenție detaliilor arhitecturale care definesc stilul local.",
+            "en": "Explore the fascinating structure of this castle and pay attention to the architectural details that define the local building style."
+          }
+        },
+        {
+          "name": {
+            "de": "Salbœuf",
+            "hu": "Salbœuf",
+            "ro": "Salbœuf",
+            "en": "Salbœuf"
+          },
+          "coords": [
+            -0.728815,
+            47.231256
+          ],
+          "category": "castle",
+          "arrive_at": "17:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.67,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die Geschichte dieses abgelegenen Schlosses und nehmen Sie sich Zeit, um die unberührte Natur der Umgebung zu genießen.",
+            "hu": "Merüljön el ennek a távoli kastélynak a történelmében, és szánjon időt a környező érintetlen természet élvezetére.",
+            "ro": "Cufundați-vă în istoria acestui castel retras și luați-vă timp pentru a vă bucura de natura neatinsă din împrejurimi.",
+            "en": "Immerse yourself in the history of this secluded castle and take your time to enjoy the untouched nature of the surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Sorinière",
+            "hu": "Château de la Sorinière",
+            "ro": "Château de la Sorinière",
+            "en": "Château de la Sorinière"
+          },
+          "coords": [
+            -0.698968,
+            47.220606
+          ],
+          "category": "castle",
+          "arrive_at": "18:49",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.54,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem prachtvollen Schloss und bleiben Sie bis zum Sonnenuntergang, um die majestätische Kulisse zu fotografieren.",
+            "hu": "Fejezze be a napot ezen a csodálatos kastélyon, és maradjon naplementéig, hogy lefotózza a fenséges díszletet.",
+            "ro": "Încheiați-vă ziua la acest castel magnific și rămâneți până la apus pentru a fotografia peisajul maiestuos.",
+            "en": "End your day at this magnificent castle and stay until sunset to capture beautiful photographs of the majestic scenery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autofahrt beginnt mit den historischen Ruinen und der beeindruckenden Kirche Notre-Dame la Neuve, bevor Sie ins ländliche Grün aufbrechen.\n\nNach einem Spaziergang im Camifolia-Garten und einem Besuch im L'Arbre à Fil bietet die Flexibilität des Autos eine entspannte Weiterreise durch die Stadt.\n\nFahren Sie mühelos zur Kirche Saint-Pierre und zum Schloss Le Val d'Hyrôme, wo Sie die reiche Geschichte der Region hautnah erleben können.\n\nBeenden Sie Ihre Tour mit Besuchen in den Schlössern L'Écho, Salbœuf und schließlich dem Château de la Sorinière, ideal für einen malerischen Tagesabschluss.",
+        "hu": "Autós utazása a történelmi romokkal és a lenyűgöző Notre-Dame la Neuve templommal kezdődik, mielőtt a vidéki zöldbe indulna.\n\nEgy Camifolia kertben tett séta és a L'Arbre à Fil meglátogatása után az autó rugalmassága nyugodt továbbutazást biztosít a városon keresztül.\n\nVezessen könnyedén a Saint-Pierre templomhoz és a Le Val d'Hyrôme kastélyhoz, ahol testközelből tapasztalhatja meg a régió gazdag történelmét.\n\nZárja túráját a L'Écho, Salbœuf és végül a Château de la Sorinière kastélyok meglátogatásával, ami ideális a nap festői befejezéséhez.",
+        "ro": "Călătoria cu mașina începe cu ruinele istorice și impresionanta biserică Notre-Dame la Neuve, înainte de a pleca spre verdeața rurală.\n\nDupă o plimbare în grădina Camifolia și o vizită la L'Arbre à Fil, flexibilitatea mașinii oferă o călătorie relaxantă prin oraș.\n\nConduceți fără efort la biserica Saint-Pierre și la castelul Le Val d'Hyrôme, unde puteți experimenta direct istoria bogată a regiunii.\n\nÎncheiați turul cu vizite la castelele L'Écho, Salbœuf și în final Château de la Sorinière, ideal pentru un final de zi pitoresc.",
+        "en": "Your drive begins with the historical ruins and the impressive Notre-Dame la Neuve Church before heading into the rural greenery.\n\nAfter a stroll in the Camifolia garden and a visit to L'Arbre à Fil, the car's flexibility offers a relaxed onward journey through the town.\n\nDrive effortlessly to the Saint-Pierre Church and the Le Val d'Hyrôme castle, where you can experience the region's rich history firsthand.\n\nConclude your tour with visits to the castles L'Écho, Salbœuf, and finally Château de la Sorinière, ideal for a picturesque end to the day."
+      }
+    }
+  }
+}

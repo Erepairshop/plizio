@@ -1,0 +1,428 @@
+{
+  "city_id": "spain-fisterra-cities-v2",
+  "anchor": {
+    "name": "Fisterra",
+    "coords": [
+      -9.26041,
+      42.9374
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:57",
+      "total_km": 3.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Capela da Concepción",
+            "hu": "Capela da Concepción",
+            "ro": "Capela da Concepción",
+            "en": "Capela da Concepción"
+          },
+          "coords": [
+            -9.254744,
+            42.935999
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, aber schöne Architektur dieser Kapelle, die für Seeleute historisch bedeutsam war, und besuchen Sie sie früh für das beste Morgenlicht.",
+            "hu": "Csodálja meg a kápolna egyszerű, mégis gyönyörű építészetét, amely történelmileg fontos volt a tengerészek számára, és érkezzen korán a nyugodt reggeli fényekért.",
+            "ro": "Admirați arhitectura simplă și frumoasă a acestei capele, cu un rol istoric important pentru marinari, și vizitați-o dimineața devreme pentru o lumină perfectă.",
+            "en": "Admire the simple yet beautiful architecture of this local chapel, noting its historic role for sailors, and visit early to enjoy the peaceful morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Grande dos Espiños",
+            "hu": "Casa Grande dos Espiños",
+            "ro": "Casa Grande dos Espiños",
+            "en": "Casa Grande dos Espiños"
+          },
+          "coords": [
+            -9.268162,
+            42.934478
+          ],
+          "category": "historical",
+          "arrive_at": "10:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses imposante historische Herrenhaus, um die adlige Vergangenheit der Region zu verstehen, und tragen Sie festes Schuhwerk für die unebenen Wege.",
+            "hu": "Fedezze fel ezt az impozáns történelmi udvarházat, hogy megértse a régió nemesi múltját, és viseljen kényelmes cipőt a kissé egyenetlen környező ösvények miatt.",
+            "ro": "Explorați acest conac istoric impunător pentru a înțelege trecutul nobil al regiunii și purtați încălțăminte confortabilă pentru potecile adesea denivelate.",
+            "en": "Explore this imposing historic manor house to understand the region's noble past, and wear sturdy walking shoes as the surrounding paths can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de San Vicenzo de Duio",
+            "hu": "Igrexa de San Vicenzo de Duio",
+            "ro": "Igrexa de San Vicenzo de Duio",
+            "en": "Igrexa de San Vicenzo de Duio"
+          },
+          "coords": [
+            -9.279811,
+            42.932047
+          ],
+          "category": "religious",
+          "arrive_at": "11:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Betreten Sie diese ruhige Kirche, die eng mit lokalen Legenden verbunden ist, und nehmen Sie sich Zeit, die detaillierten Steinmetzarbeiten an der Fassade zu bewundern.",
+            "hu": "Lépjen be ebbe a nyugodt templomba, amely szorosan kötődik a helyi legendákhoz, és szánjon egy percet a külső homlokzat részletes kőfaragásainak megtekintésére.",
+            "ro": "Intrați în această biserică liniștită, cunoscută pentru legăturile sale cu legendele locale, și alocați un moment pentru a aprecia detaliile în piatră ale fațadei.",
+            "en": "Step inside this tranquil church known for its deep connection to local legends, and take a moment to appreciate the detailed stonework on its exterior facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro das Croas",
+            "hu": "Castro das Croas",
+            "ro": "Castro das Croas",
+            "en": "Castro das Croas"
+          },
+          "coords": [
+            -9.280445,
+            42.934508
+          ],
+          "category": "historical",
+          "arrive_at": "12:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie an dieser faszinierenden archäologischen Stätte die keltische Geschichte und bringen Sie ein Weitwinkelobjektiv für die beeindruckenden runden Ruinen mit.",
+            "hu": "Fedezze fel az ősi kelta történelmet ezen a lenyűgöző régészeti lelőhelyen, és hozzon magával nagylátószögű lencsét, hogy megörökítse a kör alakú romokat.",
+            "ro": "Descoperiți istoria antică celtică la acest sit arheologic fascinant și aduceți un obiectiv superangular pentru a fotografia ruinele circulare în peisaj.",
+            "en": "Uncover ancient Celtic history at this fascinating archaeological site, and bring a wide-angle lens to capture the impressive circular ruins against the landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Acantilados Cabo de la Nave",
+            "hu": "Acantilados Cabo de la Nave",
+            "ro": "Acantilados Cabo de la Nave",
+            "en": "Acantilados Cabo de la Nave"
+          },
+          "coords": [
+            -9.288819,
+            42.939819
+          ],
+          "category": "natural",
+          "arrive_at": "14:02",
+          "stay_min": 55,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den dramatischen Meerblick von diesen schroffen Klippen am Rande des Kontinents und halten Sie Ihren Hut fest, da der Küstenwind hier extrem stark weht.",
+            "hu": "Gyönyörködjön a drámai óceáni kilátásban ezekről a zord sziklákról a kontinens peremén, de vigyázzon a kalapjára, mert a parti szél itt hihetetlenül erős lehet.",
+            "ro": "Minunați-vă de priveliștile dramatice ale oceanului de pe aceste stânci abrupte de la marginea continentului și țineți-vă bine pălăria din cauza vântului puternic.",
+            "en": "Marvel at the dramatic ocean views from these rugged cliffs at the edge of the continent, and hold onto your hat as the coastal winds can be incredibly strong here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Herzen von Fisterra an einer friedlichen Kapelle und sorgt für eine besinnliche Stimmung. Mittags wenden wir uns der großen historischen Architektur zu und entdecken die edlen Wurzeln der galicischen Küste. Der Nachmittag lädt zu einer Reise in die keltische Zeit zwischen den kreisförmigen Ruinen ein. Der Abend führt uns zu den atemberaubenden Klippen über dem Atlantik.",
+        "hu": "A reggel Fisterra szívében, egy békés helyi kápolnánál kezdődik, megalapozva a nap nyugalmát. A dél dél felé haladva lenyűgöző történelmi épületeket érintünk, felfedezve a partvidék nemesi gyökereit. A délután egy utazás az ősi kelta időkbe a kör alakú romok között. Az este végül a lélegzetelállító, szélfútta sziklákhoz vezet, ahonnan a végtelen Atlanti-óceánra látni.",
+        "ro": "Dimineața începe în inima orașului Fisterra la o capelă pașnică, stabilind un ton reflexiv. Prânzul ne îndreaptă spre o arhitectură istorică grandioasă, descoperind rădăcinile nobile ale coastei galiciene. După-amiaza invită la o călătorie înapoi în timpurile celtice printre ruine circulare. Seara ne aduce pe stâncile uluitoare bătute de vânt, cu vedere spre imensul Ocean Atlantic.",
+        "en": "Morning begins in the heart of Fisterra at a peaceful local chapel, setting a reflective tone. Midday shifts towards grand historical architecture, uncovering the noble roots of the Galician coast. Afternoon invites a journey back to ancient Celtic times among circular ruins. Evening brings us to the breathtaking, wind-swept cliffs overlooking the endless Atlantic Ocean."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:25",
+      "total_km": 4.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Capela da Concepción",
+            "hu": "Capela da Concepción",
+            "ro": "Capela da Concepción",
+            "en": "Capela da Concepción"
+          },
+          "coords": [
+            -9.254744,
+            42.935999
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, aber schöne Architektur dieser Kapelle für Seeleute und schließen Sie Ihr Fahrrad an den nahegelegenen dafür vorgesehenen Ständern sicher ab.",
+            "hu": "Csodálja meg a tengerészek számára történelmileg fontos kápolna egyszerű, mégis gyönyörű építészetét, és biztonságosan zárja le kerékpárját a közeli tárolóknál.",
+            "ro": "Admirați arhitectura frumoasă a acestei capele cu un rol istoric pentru marinari și asigurați-vă că vă legați bicicleta în siguranță la rastelele din apropiere.",
+            "en": "Admire the simple yet beautiful architecture of this local chapel, noting its historic role for sailors, and securely lock your bike at the nearby designated racks."
+          }
+        },
+        {
+          "name": {
+            "de": "Mámoa do Monte da Serra",
+            "hu": "Mámoa do Monte da Serra",
+            "ro": "Mámoa do Monte da Serra",
+            "en": "Mámoa do Monte da Serra"
+          },
+          "coords": [
+            -9.245503,
+            42.936764
+          ],
+          "category": "historical",
+          "arrive_at": "09:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen faszinierenden alten Grabhügel, der Geschichten früherer Bewohner erzählt, und bleiben Sie auf den markierten Wegen, um das Gelände zu schützen.",
+            "hu": "Fedezze fel ezt a lenyűgöző ősi halomsírt, amely a korai lakosok történeteit őrzi, és maradjon a kijelölt földutakon, hogy megóvja az érzékeny régészeti területet.",
+            "ro": "Descoperiți acest tumul antic fascinant ce spune poveștile primilor locuitori și rămâneți pe traseele marcate pentru a proteja terenul arheologic fragil.",
+            "en": "Discover this fascinating ancient burial mound that whispers tales of early inhabitants, and stick to the marked dirt trails to protect the fragile archaeological ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradoiro da Moíña",
+            "hu": "Miradoiro da Moíña",
+            "ro": "Miradoiro da Moíña",
+            "en": "Miradoiro da Moíña"
+          },
+          "coords": [
+            -9.238134,
+            42.928472
+          ],
+          "category": "natural",
+          "arrive_at": "11:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem Aussichtspunkt für weitreichende Küstenpanoramen, die die schroffe Küste perfekt umrahmen, und nutzen Sie die Bänke für eine wohlverdiente Pause.",
+            "hu": "Álljon meg ezen a festői kilátóponton a zord partvonalat tökéletesen keretező tengerparti panorámákért, és használja a padokat egy jól megérdemelt pihenésre.",
+            "ro": "Opriți-vă la acest punct de belvedere pentru panorame de coastă care încadrează perfect țărmul stâncos și folosiți băncile pentru o pauză și o gustare meritată.",
+            "en": "Stop at this scenic viewpoint for sweeping coastal panoramas that frame the rugged shoreline perfectly, and use the provided benches for a well-deserved rest and snack."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Lagosteira",
+            "hu": "Praia da Lagosteira",
+            "ro": "Praia da Lagosteira",
+            "en": "Praia da Lagosteira"
+          },
+          "coords": [
+            -9.259178,
+            42.921764
+          ],
+          "category": "recreational",
+          "arrive_at": "11:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem weiten weißen Sand dieses ikonischen Strandes und halten Sie Ausschau nach Pilgern, die hier ihre lange Reise ans Ende der Welt beenden.",
+            "hu": "Pihenjen ezen az ikonikus, nyugodt vizekkel határolt tengerparton, és figyelje meg a világ végére tartó hosszú útjukat itt befejező zarándokokat.",
+            "ro": "Relaxați-vă pe nisipul alb al acestei plaje emblematice cu ape liniștite și priviți pelerinii care își încheie lunga călătorie către capătul lumii.",
+            "en": "Relax on the expansive white sands of this iconic beach bordered by calm waters, and keep an eye out for pilgrims concluding their long journey to the edge of the world."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de San Martiño de Duio",
+            "hu": "Igrexa de San Martiño de Duio",
+            "ro": "Igrexa de San Martiño de Duio",
+            "en": "Igrexa de San Martiño de Duio"
+          },
+          "coords": [
+            -9.27081,
+            42.921274
+          ],
+          "category": "religious",
+          "arrive_at": "13:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese historische Pfarrkirche, die über einer legendären versunkenen Römerstadt erbaut wurde, und schlendern Sie über den friedlichen, jahrhundertealten Friedhof.",
+            "hu": "Látogasson el ehhez a történelmi plébániatemplomhoz, amely egy legendás elsüllyedt római városra épült, és sétáljon egyet a helyi örökséget őrző csendes temetőben.",
+            "ro": "Vizitați această biserică parohială istorică construită peste un legendar oraș roman scufundat și plimbați-vă prin cimitirul liniștit ce reflectă secole de moștenire.",
+            "en": "Visit this historic parish church built over a legendary sunken Roman city, and take time to wander the quiet graveyard that reflects centuries of local heritage."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einem friedlichen Moment in einer Kapelle, bevor wir bergauf zu alten Grabhügeln radeln. Gegen Mittag rollen wir zu einem atemberaubenden Aussichtspunkt über die galicischen Buchten. Der Nachmittag ist den weiten, beruhigenden Sandstränden von Lagosteira gewidmet, die zur Ruhe einladen. Gegen Abend fahren wir zu einer alten Kirche, die in lokaler Mythologie verwurzelt ist.",
+        "hu": "A reggel egy békés pillanattal kezdődik egy helyi kápolnában, mielőtt felfelé tekernénk az ősi halomsírokhoz. Délre leereszkedünk egy lenyűgöző panorámás kilátóponthoz, amely a galíciai öblökre néz. A délutánt a Lagosteira strand hatalmas homokpadjainak szenteljük, amely pihenést kínál. Ahogy közeledik az este, egy helyi mitológiával átszőtt ősi templomhoz tekerünk.",
+        "ro": "Dimineața începe cu un moment de pace la o capelă locală, înainte de a pedala spre tumuli antici. La prânz, coborâm spre un punct de belvedere panoramic uimitor cu vedere la golfurile galiciene. După-amiaza este dedicată nisipurilor vaste ale plajei Lagosteira, oferind odihnă și reflexie. Spre seară, mergem spre o biserică veche, plină de mitologie locală.",
+        "en": "The morning starts with a peaceful moment at a local chapel before pedaling uphill to uncover ancient burial mounds. By midday, we coast down to a stunning panoramic viewpoint overlooking the Galician bays. The afternoon is dedicated to the vast, calming sands of Lagosteira beach, offering rest and reflection. As evening nears, we ride to an ancient church steeped in local mythology."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:52",
+      "total_km": 7.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pazo de Sardiñeiro",
+            "hu": "Pazo de Sardiñeiro",
+            "ro": "Pazo de Sardiñeiro",
+            "en": "Pazo de Sardiñeiro"
+          },
+          "coords": [
+            -9.234252,
+            42.942184
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieses galicischen Herrenhauses und parken Sie verantwortungsbewusst auf den ausgewiesenen Flächen, um die engen Straßen nicht zu blockieren.",
+            "hu": "Csodálja meg ennek a falut uraló galíciai udvarháznak a hagyományos építészetét, és parkoljon a kijelölt helyeken, hogy ne torlaszolja el a szűk utcákat.",
+            "ro": "Admirați arhitectura tradițională a acestui conac galician care domină satul și parcați responsabil în spațiile desemnate pentru a nu bloca străzile înguste.",
+            "en": "Admire the striking traditional architecture of this Galician manor house that commands the village, and park responsibly in the designated spaces to avoid blocking the narrow streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Sardiñeiro",
+            "hu": "Praia de Sardiñeiro",
+            "ro": "Praia de Sardiñeiro",
+            "en": "Praia de Sardiñeiro"
+          },
+          "coords": [
+            -9.231657,
+            42.941672
+          ],
+          "category": "recreational",
+          "arrive_at": "10:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie einen erfrischenden Spaziergang entlang dieses geschützten Strandes mit weichem Sand und holen Sie sich einen Kaffee in einem nahegelegenen Café für die Aussicht.",
+            "hu": "Tegyen egy frissítő sétát ezen a finom homokjáról és nyugodt vizéről ismert védett strandon, és igyon egy kávét egy közeli kávézóban a kilátás élvezetéhez.",
+            "ro": "Faceți o plimbare revigorantă de-a lungul acestei plaje adăpostite, cunoscută pentru nisipul fin, și luați o cafea de la o cafenea din apropiere pentru a admira priveliștea.",
+            "en": "Take a refreshing stroll along this sheltered beach known for its soft sand and calm waters, and consider grabbing a coffee at a nearby cafe to enjoy the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradoiro da Punta de Sardiñeiro",
+            "hu": "Miradoiro da Punta de Sardiñeiro",
+            "ro": "Miradoiro da Punta de Sardiñeiro",
+            "en": "Miradoiro da Punta de Sardiñeiro"
+          },
+          "coords": [
+            -9.234512,
+            42.928752
+          ],
+          "category": "natural",
+          "arrive_at": "11:49",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem malerischen Aussichtspunkt für Fotos der Bucht und fahren Sie vorsichtig in die Schotterbucht, um Ihr Fahrzeug sicher von der Hauptstraße abzustellen.",
+            "hu": "Állítsa le autóját ennél a festői kilátónál, hogy lefotózza az öblöt, és óvatosan navigáljon a kavicsos lehajtón, hogy biztonságosan lehúzódjon a főútról.",
+            "ro": "Opriți mașina la acest punct de belvedere pentru a fotografia golful și navigați cu grijă pe zona cu pietriș pentru a vă asigura că sunteți în afara drumului principal.",
+            "en": "Stop your car at this scenic overlook to capture photos of the sweeping bay, and carefully navigate the gravel pull-off area to ensure your vehicle is safely off the main road."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Lagosteira",
+            "hu": "Praia da Lagosteira",
+            "ro": "Praia da Lagosteira",
+            "en": "Praia da Lagosteira"
+          },
+          "coords": [
+            -9.259178,
+            42.921764
+          ],
+          "category": "recreational",
+          "arrive_at": "12:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die Weite dieses berühmten Pilgerstrandes mit seinen einladenden Dünen und nutzen Sie die großen öffentlichen Parkplätze nahe der Promenade für einfachen Zugang.",
+            "hu": "Élvezze ennek a híres zarándokstrandnak a hatalmas kiterjedését és hívogató dűnéit, és használja a sétány melletti bőséges nyilvános parkolót a könnyű megközelítésért.",
+            "ro": "Bucurați-vă de întinderea acestei plaje celebre a pelerinilor și de dunele sale și utilizați parcarea publică spațioasă din apropierea promenadei pentru un acces ușor.",
+            "en": "Enjoy the vast expanse of this famous pilgrim beach with its inviting dunes, and utilize the ample public parking near the boardwalk for easy and immediate access."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Arnela",
+            "hu": "Praia da Arnela",
+            "ro": "Praia da Arnela",
+            "en": "Praia da Arnela"
+          },
+          "coords": [
+            -9.283353,
+            42.942377
+          ],
+          "category": "recreational",
+          "arrive_at": "13:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese unberührte, von Klippen umrahmte Bucht fernab der Massen und steigen Sie vorsichtig die steilen Holztreppen hinab, die bei Nässe rutschig sein können.",
+            "hu": "Fedezze fel ezt a drámai sziklákkal szegélyezett, tömegtől távol eső érintetlen öblöt, és óvatosan ereszkedjen le a meredek falépcsőkön, amelyek nedvesen csúszósak lehetnek.",
+            "ro": "Descoperiți acest golf ascuns și curat, încadrat de stânci abrupte, și coborâți cu grijă scările abrupte din lemn, care pot fi alunecoase când sunt umede.",
+            "en": "Discover this hidden, pristine cove framed by dramatic cliffs away from the crowds, and carefully descend the steep wooden stairs which can be slippery when wet."
+          }
+        },
+        {
+          "name": {
+            "de": "Acantilados Cabo de la Nave",
+            "hu": "Acantilados Cabo de la Nave",
+            "ro": "Acantilados Cabo de la Nave",
+            "en": "Acantilados Cabo de la Nave"
+          },
+          "coords": [
+            -9.288819,
+            42.939819
+          ],
+          "category": "natural",
+          "arrive_at": "14:57",
+          "stay_min": 55,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erleben Sie die rohe Kraft des Atlantiks von diesen hoch aufragenden westlichen Klippen und ziehen Sie die Handbremse beim Parken an den steilen Hängen fest an.",
+            "hu": "Tapasztalja meg az Atlanti-óceán nyers erejét ezekről a tornyosuló nyugati sziklákról, és győződjön meg róla, hogy a kézifék be van húzva a meredek lejtőkön való parkoláskor.",
+            "ro": "Experimentați forța oceanului de pe aceste stânci vestice falnice și asigurați-vă că frâna de mână este complet trasă atunci când parcați pe pante abrupte.",
+            "en": "Experience the raw power of the Atlantic Ocean from these towering western cliffs, and ensure your handbrake is fully engaged when parking on the steep inclines."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unsere morgendliche Fahrt beginnt in den östlichen Vororten, wo wir edle Anwesen bewundern und an ruhigen Stränden spazieren. Mittags führt uns die Küstenstraße zu atemberaubenden Aussichtspunkten und dem weiten Sand von Lagosteira. Am Nachmittag navigieren wir zu einer abgelegenen, wilden Bucht zwischen den Felsen. Wir beenden den Tag an den hoch aufragenden westlichen Klippen und beobachten den Ozean am Rande Europas.",
+        "hu": "Reggeli utunk a keleti külvárosokban kezdődik, nemesi birtokokat csodálva és védett, nyugodt strandokon sétálva. A dél a festői parti úton hoz minket lélegzetelállító kilátókhoz és a Lagosteira hatalmas homokpadjaihoz. Délután egy eldugott, sziklák között megbúvó vad öbölhöz navigálunk. A napot a magasodó nyugati szikláknál zárjuk, ahogy az óceán Európa peremének csapódik.",
+        "ro": "Călătoria noastră de dimineață începe la periferia estică, admirând moșii nobile înainte de a ne plimba pe plaje adăpostite. Prânzul ne aduce de-a lungul drumului de coastă la puncte de belvedere și la întinderile mari de nisip din Lagosteira. După-amiaza navigăm spre un golf izolat și sălbatic, ascuns printre stânci. Încheiem ziua la stâncile vestice înalte, privind oceanul lovindu-se de marginea Europei.",
+        "en": "Our morning drive begins in the eastern outskirts, admiring noble estates before walking along sheltered, calm beaches. Midday brings us along the scenic coastal road to breathtaking overlooks and the grand stretches of sand at Lagosteira. In the afternoon, we navigate to a secluded, wild cove hidden among the rocks. We conclude the day at the towering western cliffs, watching the ocean crash against the very edge of Europe."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-porto-cesareo-cities-v2",
+  "anchor": {
+    "name": "Porto Cesareo",
+    "coords": [
+      17.8917,
+      40.2569
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 3.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Lido dei Pirati",
+            "hu": "Lido dei Pirati",
+            "ro": "Lido dei Pirati",
+            "en": "Lido dei Pirati"
+          },
+          "coords": [
+            17.884736,
+            40.267944
+          ],
+          "category": "recreational",
+          "arrive_at": "09:21",
+          "stay_min": 85,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre am Lido dei Pirati, wo goldener Sand auf kristallklares Wasser trifft, und mieten Sie frühzeitig eine Sonnenliege.",
+            "hu": "Élvezze a Lido dei Pirati élénk hangulatát, ahol az aranyhomok kristálytiszta vízzel találkozik, és béreljen korán napágyat a legjobb tengerparti helyért.",
+            "ro": "Bucurați-vă de atmosfera plină de viață de la Lido dei Pirati, unde nisipul auriu întâlnește apele cristaline, și închiriați un șezlong devreme.",
+            "en": "Enjoy the lively atmosphere of Lido dei Pirati where golden sands meet crystal waters, and rent a sunbed early to secure the best seaside spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Conchiglia Azzurra Beach",
+            "hu": "Conchiglia Azzurra Beach",
+            "ro": "Conchiglia Azzurra Beach",
+            "en": "Conchiglia Azzurra Beach"
+          },
+          "coords": [
+            17.883462,
+            40.269399
+          ],
+          "category": "recreational",
+          "arrive_at": "10:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Conchiglia Azzurra Beach, der für sein makelloses, flaches Wasser bekannt ist, und bringen Sie Ihre Schnorchelausrüstung mit.",
+            "hu": "Pihenjen a Conchiglia Azzurra strandon, amely fürdőzésre kiváló, sekély vizéről híres, és hozzon magával saját búvárfelszerelést a tengeri élet felfedezéséhez.",
+            "ro": "Relaxați-vă la Conchiglia Azzurra Beach, renumită pentru apele sale puțin adânci, și aduceți-vă echipamentul de snorkeling pentru a explora viața marină.",
+            "en": "Relax at Conchiglia Azzurra Beach, renowned for its pristine shallow waters perfect for swimming, and bring your own snorkeling gear to explore the marine life."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Dune",
+            "hu": "Le Dune",
+            "ro": "Le Dune",
+            "en": "Le Dune"
+          },
+          "coords": [
+            17.87923,
+            40.272085
+          ],
+          "category": "recreational",
+          "arrive_at": "12:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die natürliche Schönheit von Le Dune, umgeben von sanften Sandhügeln, und packen Sie kalte Getränke ein, um sich in der Sonne zu erfrischen.",
+            "hu": "Sétáljon a Le Dune természetes szépségében, lágy homokdombok és mediterrán cserjék között, és pakoljon hideg italokat a napon való felfrissüléshez.",
+            "ro": "Plimbați-vă prin frumusețea naturală de la Le Dune, înconjurați de dealuri de nisip, și împachetați câteva băuturi reci pentru a vă menține proaspeți.",
+            "en": "Stroll through the natural beauty of Le Dune, surrounded by soft sand hills and Mediterranean scrub, and pack some cold drinks to stay refreshed under the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Tabù Fashion Beach",
+            "hu": "Tabù Fashion Beach",
+            "ro": "Tabù Fashion Beach",
+            "en": "Tabù Fashion Beach"
+          },
+          "coords": [
+            17.874502,
+            40.27272
+          ],
+          "category": "recreational",
+          "arrive_at": "13:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erleben Sie das glamouröse Flair am Tabù Fashion Beach mit trendiger Musik und probieren Sie einen der typischen Cocktails an der lebhaften Strandbar.",
+            "hu": "Tapasztalja meg a Tabù Fashion Beach divatos zenéről ismert elbűvölő hangulatát, és kóstoljon meg egy jellegzetes koktélt a nyüzsgő tengerparti bárban.",
+            "ro": "Experimentați atmosfera plină de farmec de la Tabù Fashion Beach, cu muzică în vogă, și încercați unul dintre cocktailurile lor specifice la barul de pe plajă.",
+            "en": "Experience the glamorous vibe at Tabù Fashion Beach, known for trendy music and elegant crowds, and try one of their signature cocktails at the lively beach bar."
+          }
+        },
+        {
+          "name": {
+            "de": "Goa",
+            "hu": "Goa",
+            "ro": "Goa",
+            "en": "Goa"
+          },
+          "coords": [
+            17.868354,
+            40.2748
+          ],
+          "category": "recreational",
+          "arrive_at": "14:59",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im Goa, einem ruhigen Küstenort mit spektakulärem Blick auf den Sonnenuntergang, und kommen Sie am späten Nachmittag für perfekte Fotos an.",
+            "hu": "Pihenjen a Goában, amely lenyűgöző naplemente kilátást kínál, és érkezzen késő délután, hogy fényképezőgépével megörökítse az aranyórát.",
+            "ro": "Relaxați-vă la Goa, o destinație de coastă care oferă vederi spectaculoase la apus, și ajungeți spre seară pentru a surprinde ora de aur cu aparatul foto.",
+            "en": "Wind down at Goa, a relaxing coastal retreat offering spectacular sunset views, and arrive around late afternoon to capture the golden hour with your camera."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einem sanften Spaziergang zum Lido dei Pirati, wo das klare Wasser zum Entspannen einlädt. Bis zum Mittag erreichen Sie Conchiglia Azzurra und Le Dune, die beide spektakulären Küstencharme bieten. Der Nachmittag wird lebhafter, wenn Sie am glamourösen Tabù Fashion Beach mit seiner trendigen Musik ankommen. Wenn sich der Abend nähert, bringt Sie das entspannte Tempo ins Goa, wo Sie einen unvergesslichen Sonnenuntergang erleben können.",
+        "hu": "A reggel egy könnyed sétával indul a Lido dei Pirati felé, ahol a kristálytiszta víz pihenésre csábít a napsütötte homokon. Délben eléri a Conchiglia Azzurrat és a Le Dune-t, mindkettő látványos tengerparti vonzerőt kínál. A délután lendületesebbé válik, ahogy megérkezik a divatos zenéjéről és elegáns közönségéről híres Tabù Fashion Beach-re. Végül az este közeledtével a Goába érve egy emlékezetes parti naplementében gyönyörködhet.",
+        "ro": "Dimineața începe cu o plimbare spre Lido dei Pirati, unde apele clare vă invită să vă relaxați pe nisip. Până la prânz, veți ajunge la Conchiglia Azzurra și Le Dune, ambele oferind un farmec de coastă spectaculos. După-amiaza devine mai vibrantă pe măsură ce ajungeți la Tabù Fashion Beach, renumit pentru muzica sa modernă. În cele din urmă, odată cu lăsarea serii, ritmul relaxat vă duce la Goa pentru un apus memorabil.",
+        "en": "Morning begins with a gentle stroll toward Lido dei Pirati, where the clear waters invite you to relax on the sun-kissed sands. By midday, you'll reach Conchiglia Azzurra and Le Dune, both offering spectacular coastal charm and refreshing Mediterranean breezes. The afternoon continues with a vibrant shift as you arrive at the glamorous Tabù Fashion Beach, famous for its trendy music and chic crowd. Finally, as evening approaches, the relaxed pace takes you to Goa for a memorable coastal sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:07",
+      "total_km": 10.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Lido Acqua Azzurra",
+            "hu": "Lido Acqua Azzurra",
+            "ro": "Lido Acqua Azzurra",
+            "en": "Lido Acqua Azzurra"
+          },
+          "coords": [
+            17.91336,
+            40.234137
+          ],
+          "category": "recreational",
+          "arrive_at": "09:19",
+          "stay_min": 85,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag am Lido Acqua Azzurra abseits der Massen und bringen Sie etwas Bargeld mit, da kleinere Strandkioske oft keine Kreditkarten akzeptieren.",
+            "hu": "Kezdje a napot a Lido Acqua Azzurra-ban, távol a tömegtől, és hozzon magával némi készpénzt, mivel a kisebb tengerparti kioszkok nem mindig fogadnak el kártyát.",
+            "ro": "Începeți-vă ziua la Lido Acqua Azzurra, un loc idilic departe de aglomerație, și aduceți bani gheață deoarece micile chioșcuri nu acceptă carduri.",
+            "en": "Start your day at Lido Acqua Azzurra, an idyllic spot away from the crowds, and bring some cash as smaller seaside kiosks might not accept credit cards."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido dei Pirati",
+            "hu": "Lido dei Pirati",
+            "ro": "Lido dei Pirati",
+            "en": "Lido dei Pirati"
+          },
+          "coords": [
+            17.884736,
+            40.267944
+          ],
+          "category": "recreational",
+          "arrive_at": "11:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre am Lido dei Pirati, wo goldener Sand auf kristallklares Wasser trifft, und mieten Sie frühzeitig eine Sonnenliege.",
+            "hu": "Élvezze a Lido dei Pirati élénk hangulatát, ahol az aranyhomok kristálytiszta vízzel találkozik, és béreljen korán napágyat a legjobb tengerparti helyért.",
+            "ro": "Bucurați-vă de atmosfera plină de viață de la Lido dei Pirati, unde nisipul auriu întâlnește apele cristaline, și închiriați un șezlong devreme.",
+            "en": "Enjoy the lively atmosphere of Lido dei Pirati where golden sands meet crystal waters, and rent a sunbed early to secure the best seaside spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Dune",
+            "hu": "Le Dune",
+            "ro": "Le Dune",
+            "en": "Le Dune"
+          },
+          "coords": [
+            17.87923,
+            40.272085
+          ],
+          "category": "recreational",
+          "arrive_at": "12:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die natürliche Schönheit von Le Dune, umgeben von sanften Sandhügeln, und packen Sie kalte Getränke ein, um sich in der Sonne zu erfrischen.",
+            "hu": "Sétáljon a Le Dune természetes szépségében, lágy homokdombok és mediterrán cserjék között, és pakoljon hideg italokat a napon való felfrissüléshez.",
+            "ro": "Plimbați-vă prin frumusețea naturală de la Le Dune, înconjurați de dealuri de nisip, și împachetați câteva băuturi reci pentru a vă menține proaspeți.",
+            "en": "Stroll through the natural beauty of Le Dune, surrounded by soft sand hills and Mediterranean scrub, and pack some cold drinks to stay refreshed under the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Tabù Fashion Beach",
+            "hu": "Tabù Fashion Beach",
+            "ro": "Tabù Fashion Beach",
+            "en": "Tabù Fashion Beach"
+          },
+          "coords": [
+            17.874502,
+            40.27272
+          ],
+          "category": "recreational",
+          "arrive_at": "13:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erleben Sie das glamouröse Flair am Tabù Fashion Beach mit trendiger Musik und probieren Sie einen der typischen Cocktails an der lebhaften Strandbar.",
+            "hu": "Tapasztalja meg a Tabù Fashion Beach divatos zenéről ismert elbűvölő hangulatát, és kóstoljon meg egy jellegzetes koktélt a nyüzsgő tengerparti bárban.",
+            "ro": "Experimentați atmosfera plină de farmec de la Tabù Fashion Beach, cu muzică în vogă, și încercați unul dintre cocktailurile lor specifice la barul de pe plajă.",
+            "en": "Experience the glamorous vibe at Tabù Fashion Beach, known for trendy music and elegant crowds, and try one of their signature cocktails at the lively beach bar."
+          }
+        },
+        {
+          "name": {
+            "de": "Hookipa Beach",
+            "hu": "Hookipa Beach",
+            "ro": "Hookipa Beach",
+            "en": "Hookipa Beach"
+          },
+          "coords": [
+            17.868391,
+            40.277758
+          ],
+          "category": "recreational",
+          "arrive_at": "15:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die sportliche Atmosphäre am Hookipa Beach, einem Favoriten für Wassersportler, und buchen Sie eine Stand-Up-Paddle-Tour am besten im Voraus.",
+            "hu": "Élvezze a sportos hangulatot a Hookipa Beach-en, amely a vízi sportok szerelmeseinek kedvence, és fontolja meg egy evezős deszka lefoglalását előre.",
+            "ro": "Bucurați-vă de atmosfera sportivă de la Hookipa Beach, preferată de pasionații de sporturi acvatice, și luați în considerare rezervarea unei plăci de paddleboard.",
+            "en": "Enjoy the sporty and vibrant atmosphere at Hookipa Beach, a favorite for water sports enthusiasts, and consider booking a paddleboard session in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Bacino Grande",
+            "hu": "Bacino Grande",
+            "ro": "Bacino Grande",
+            "en": "Bacino Grande"
+          },
+          "coords": [
+            17.865382,
+            40.282348
+          ],
+          "category": "recreational",
+          "arrive_at": "16:22",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour am Bacino Grande mit seinen atemberaubenden Panoramen und essen Sie in den nahegelegenen Fischrestaurants zu Abend.",
+            "hu": "Fejezze be a túrát a Bacino Grande hatalmas strandjánál, és az este közeledtével faljon be egy finomságot a közeli tengeri herkentyűs éttermekben.",
+            "ro": "Încheiați cursa la Bacino Grande, o plajă vastă ce oferă panorame uimitoare, și luați o gustare la restaurantele cu fructe de mare din apropiere.",
+            "en": "End your ride at Bacino Grande, an expansive beach offering stunning panoramas, and grab a bite at the nearby seafood restaurants as the evening sets in."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihr Fahrradabenteuer in Richtung Süden zum Lido Acqua Azzurra, einem idyllischen Küstenstreifen, der perfekt für die frühe Morgenstille ist. Mittags radeln Sie nach Norden zum Lido dei Pirati und nach Le Dune, um in die lebhafte Strandkultur einzutauchen. Die Fahrt am Nachmittag führt am modischen Tabù vorbei zu den sportlichen Vibes des Hookipa Beach. Beenden Sie Ihren aktiven Tag am Bacino Grande und genießen Sie den weiten Blick auf das Meer bei Sonnenuntergang.",
+        "hu": "Indítsa kerékpáros kalandját dél felé, a Lido Acqua Azzurra idilli partszakaszához, amely tökéletes a kora reggeli csendhez. Délben tekerjen északra a Lido dei Pirati és a Le Dune felé, hogy elmerüljön Porto Cesareo pezsgő strandkultúrájában. A délutáni túra a divatos Tabù mellett a Hookipa Beach sportos hangulatába visz. Zárja aktív napját a Bacino Grande strandján, élvezve a végtelen óceáni panorámát naplemente közben.",
+        "ro": "Începeți aventura cu bicicleta mergând spre sud spre Lido Acqua Azzurra, o porțiune de coastă idilică. La amiază, pedalați spre nord spre Lido dei Pirati și Le Dune pentru a vă bucura de cultura plină de viață a plajelor. Călătoria de după-amiază vă duce pe lângă faimoasa plajă Tabù și spre vibrațiile sportive de la Hookipa Beach. Încheiați ziua activă la Bacino Grande, savurând priveliștea oceanului la apus de soare.",
+        "en": "Kickstart your biking adventure heading south to Lido Acqua Azzurra, an idyllic and quiet stretch of coastline perfect for early morning reflection. As midday hits, pedal northward toward Lido dei Pirati and Le Dune to immerse yourself in the lively seaside culture of Porto Cesareo. The afternoon ride takes you past the fashionable Tabù and into the sporty vibes of Hookipa Beach, perfect for paddleboarding. End your active day at Bacino Grande, savoring the sweeping ocean views as the sun goes down."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:53",
+      "total_km": 11.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Lido Acqua Azzurra",
+            "hu": "Lido Acqua Azzurra",
+            "ro": "Lido Acqua Azzurra",
+            "en": "Lido Acqua Azzurra"
+          },
+          "coords": [
+            17.91336,
+            40.234137
+          ],
+          "category": "recreational",
+          "arrive_at": "09:07",
+          "stay_min": 85,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag am Lido Acqua Azzurra abseits der Massen und bringen Sie etwas Bargeld mit, da kleinere Strandkioske oft keine Kreditkarten akzeptieren.",
+            "hu": "Kezdje a napot a Lido Acqua Azzurra-ban, távol a tömegtől, és hozzon magával némi készpénzt, mivel a kisebb tengerparti kioszkok nem mindig fogadnak el kártyát.",
+            "ro": "Începeți-vă ziua la Lido Acqua Azzurra, un loc idilic departe de aglomerație, și aduceți bani gheață deoarece micile chioșcuri nu acceptă carduri.",
+            "en": "Start your day at Lido Acqua Azzurra, an idyllic spot away from the crowds, and bring some cash as smaller seaside kiosks might not accept credit cards."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido dei Pirati",
+            "hu": "Lido dei Pirati",
+            "ro": "Lido dei Pirati",
+            "en": "Lido dei Pirati"
+          },
+          "coords": [
+            17.884736,
+            40.267944
+          ],
+          "category": "recreational",
+          "arrive_at": "10:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre am Lido dei Pirati, wo goldener Sand auf kristallklares Wasser trifft, und mieten Sie frühzeitig eine Sonnenliege.",
+            "hu": "Élvezze a Lido dei Pirati élénk hangulatát, ahol az aranyhomok kristálytiszta vízzel találkozik, és béreljen korán napágyat a legjobb tengerparti helyért.",
+            "ro": "Bucurați-vă de atmosfera plină de viață de la Lido dei Pirati, unde nisipul auriu întâlnește apele cristaline, și închiriați un șezlong devreme.",
+            "en": "Enjoy the lively atmosphere of Lido dei Pirati where golden sands meet crystal waters, and rent a sunbed early to secure the best seaside spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Dune",
+            "hu": "Le Dune",
+            "ro": "Le Dune",
+            "en": "Le Dune"
+          },
+          "coords": [
+            17.87923,
+            40.272085
+          ],
+          "category": "recreational",
+          "arrive_at": "11:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die natürliche Schönheit von Le Dune, umgeben von sanften Sandhügeln, und packen Sie kalte Getränke ein, um sich in der Sonne zu erfrischen.",
+            "hu": "Sétáljon a Le Dune természetes szépségében, lágy homokdombok és mediterrán cserjék között, és pakoljon hideg italokat a napon való felfrissüléshez.",
+            "ro": "Plimbați-vă prin frumusețea naturală de la Le Dune, înconjurați de dealuri de nisip, și împachetați câteva băuturi reci pentru a vă menține proaspeți.",
+            "en": "Stroll through the natural beauty of Le Dune, surrounded by soft sand hills and Mediterranean scrub, and pack some cold drinks to stay refreshed under the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvedere Lido",
+            "hu": "Belvedere Lido",
+            "ro": "Belvedere Lido",
+            "en": "Belvedere Lido"
+          },
+          "coords": [
+            17.868655,
+            40.276819
+          ],
+          "category": "recreational",
+          "arrive_at": "13:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Küste am Belvedere Lido und parken Sie unbedingt in den ausgewiesenen Zonen, um lokale Geldstrafen zu vermeiden.",
+            "hu": "Gyönyörködjön a tengerparti panorámában a Belvedere Lido-nál, és győződjön meg róla, hogy a kijelölt zónákban parkol a helyi bírságok elkerülése végett.",
+            "ro": "Admirați vederile panoramice de coastă la Belvedere Lido, o porțiune fermecătoare de nisip alb, și asigurați-vă că parcați în zonele desemnate pentru a evita amenzile.",
+            "en": "Take in the panoramic coastal views at Belvedere Lido, a charming stretch of white sand, and ensure you park in the designated zones to avoid local fines."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Club Bassamarea",
+            "hu": "Lido Club Bassamarea",
+            "ro": "Lido Club Bassamarea",
+            "en": "Lido Club Bassamarea"
+          },
+          "coords": [
+            17.868595,
+            40.278772
+          ],
+          "category": "recreational",
+          "arrive_at": "14:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die exklusiven Services des Lido Club Bassamarea und buchen Sie frühzeitig einen VIP-Loungebereich für den ultimativen Komfort am Strand.",
+            "hu": "Fedezze fel a Lido Club Bassamarea exkluzív szolgáltatásait, és foglaljon le egy VIP társalgót korán a maximális kényelem érdekében.",
+            "ro": "Descoperiți serviciile exclusive de la Lido Club Bassamarea, oferind facilități premium de relaxare, și rezervați o zonă VIP devreme pentru confort maxim.",
+            "en": "Discover the exclusive services of Lido Club Bassamarea, offering premium relaxation facilities, and book a VIP lounge area early for the ultimate comfort."
+          }
+        },
+        {
+          "name": {
+            "de": "Bacino Grande",
+            "hu": "Bacino Grande",
+            "ro": "Bacino Grande",
+            "en": "Bacino Grande"
+          },
+          "coords": [
+            17.865382,
+            40.282348
+          ],
+          "category": "recreational",
+          "arrive_at": "15:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour am Bacino Grande mit seinen atemberaubenden Panoramen und essen Sie in den nahegelegenen Fischrestaurants zu Abend.",
+            "hu": "Fejezze be a túrát a Bacino Grande hatalmas strandjánál, és az este közeledtével faljon be egy finomságot a közeli tengeri herkentyűs éttermekben.",
+            "ro": "Încheiați cursa la Bacino Grande, o plajă vastă ce oferă panorame uimitoare, și luați o gustare la restaurantele cu fructe de mare din apropiere.",
+            "en": "End your ride at Bacino Grande, an expansive beach offering stunning panoramas, and grab a bite at the nearby seafood restaurants as the evening sets in."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Congedo",
+            "hu": "Lido Congedo",
+            "ro": "Lido Congedo",
+            "en": "Lido Congedo"
+          },
+          "coords": [
+            17.858409,
+            40.284978
+          ],
+          "category": "recreational",
+          "arrive_at": "17:08",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihre Reise am Lido Congedo ab, der für sein ruhiges Ambiente bekannt ist, und genießen Sie einen ruhigen Spaziergang bei Sonnenuntergang am Ufer.",
+            "hu": "Zárja utazását a nyugodt hangulatáról és lágy hullámairól híres Lido Congedo-ban, és tegyen egy csendes naplemente sétát az érintetlen partvonalon.",
+            "ro": "Încheiați călătoria la Lido Congedo, renumit pentru ambianța sa liniștită, și bucurați-vă de o plimbare tăcută la apus de-a lungul țărmului impecabil.",
+            "en": "Conclude your trip at Lido Congedo, famous for its tranquil ambiance and soft rolling waves, and enjoy a quiet sunset walk along the pristine shoreline."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Küstenfahrt beginnt mit einem kurzen Ausflug zu den ruhigen Gewässern des Lido Acqua Azzurra für eine friedliche morgendliche Flucht. Fahren Sie am Mittag die Küste hinauf zu den goldenen Stränden des Lido dei Pirati und der Naturschönheit von Le Dune. Die Fahrt am Nachmittag offenbart die eleganten Strandabschnitte des Belvedere Lido und des Lido Club Bassamarea mit ihren Premium-Angeboten. Die Reise endet am Lido Congedo, einem ruhigen Ort für einen wunderschönen italienischen Sonnenuntergang.",
+        "hu": "Tengerparti autózása a Lido Acqua Azzurra nyugodt vizéhez tett rövid úttal indul, békés reggeli menedéket kínálva. Délben haladjon felfelé a part mentén, hogy megtapasztalja a Lido dei Pirati aranyhomokját és a Le Dune természeti szépségét. A délutáni autózás feltárja a Belvedere Lido és a Lido Club Bassamarea elegáns szakaszait. Az utazás a Lido Congedo-nál ér véget, amely derűs helyszín egy gyönyörű olasz naplemente megtekintéséhez.",
+        "ro": "Conducerea pe coastă începe cu o excursie rapidă la apele liniștite de la Lido Acqua Azzurra. Până la prânz, mergeți spre nord pentru a experimenta nisipurile aurii de la Lido dei Pirati și frumusețea naturală de la Le Dune. Plimbarea de după-amiază dezvăluie întinderile elegante ale Belvedere Lido și Lido Club Bassamarea. Călătoria se încheie la Lido Congedo, un loc senin pentru a asista la un apus de soare frumos italian.",
+        "en": "Your coastal drive starts with a quick trip to the tranquil waters of Lido Acqua Azzurra, offering a peaceful morning escape. By noon, head up the coast to experience the golden sands of Lido dei Pirati and the natural beauty of Le Dune, blending relaxation with scenic drives. Afternoon cruising reveals the elegant stretches of Belvedere Lido and Lido Club Bassamarea, where premium beach experiences await. The journey concludes at Lido Congedo, a serene spot to witness a beautiful Italian sunset."
+      }
+    }
+  }
+}

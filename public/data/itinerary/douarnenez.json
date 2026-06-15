@@ -1,0 +1,474 @@
+{
+  "city_id": "douarnenez",
+  "anchor": {
+    "name": "Douarnenez",
+    "coords": [
+      -4.3303,
+      48.0922
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:44",
+      "total_km": 1.85,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kapelle Sainte-Hélène",
+            "hu": "Sainte-Hélène Kápolna",
+            "ro": "Capela Sainte-Hélène",
+            "en": "Sainte-Hélène Chapel"
+          },
+          "coords": [
+            -4.325736,
+            48.093345
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese bezaubernde Kapelle mit ihren maritimen Votivgaben, die von einer tiefen Seefahrertradition zeugt, und achten Sie auf die ruhigen Morgenstunden für Fotos.",
+            "hu": "Látogassa meg ezt a hangulatos tengerész kápolnát, amelynek fogadalmi tárgyai a helyi halászok történelmét őrzik, és érkezzen korán a legjobb fényképek elkészítéséhez.",
+            "ro": "Vizitați această capelă fermecătoare plină de ex-voto-uri maritime care spun povestea pescarilor locali și veniți dimineața devreme pentru cele mai bune fotografii.",
+            "en": "Visit this charming maritime chapel filled with historical ex-votos detailing the lives of local fishermen, and arrive early to capture the best photographs in peace."
+          }
+        },
+        {
+          "name": {
+            "de": "Port-Musée",
+            "hu": "Port-Musée",
+            "ro": "Port-Musée",
+            "en": "Port-Musée"
+          },
+          "coords": [
+            -4.33444,
+            48.0936
+          ],
+          "category": "museum",
+          "arrive_at": "10:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Entdecken Sie im faszinierenden Port-Musée historische Schiffe hautnah und nehmen Sie sich genügend Zeit, um an Bord der schwimmenden Boote im Hafenbecken zu gehen.",
+            "hu": "Fedezze fel a lenyűgöző kikötői múzeumot, ahol történelmi hajókat csodálhat meg, és mindenképpen szánjon időt arra, hogy felmenjen a vízen horgonyzó régi vitorlásokra.",
+            "ro": "Explorați acest muzeu portuar fascinant unde puteți admira nave istorice impresionante și asigurați-vă că urcați la bordul bărcilor tradiționale ancorate în apă.",
+            "en": "Explore this fascinating port museum featuring a vast collection of historic vessels, and make sure to reserve enough time to step aboard the floating ships in the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Pors Kad",
+            "hu": "Pors Kad Strand",
+            "ro": "Plaja Pors Kad",
+            "en": "Pors Kad Beach"
+          },
+          "coords": [
+            -4.330591,
+            48.096932
+          ],
+          "category": "recreational",
+          "arrive_at": "11:47",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem malerischen Strand, der eine herrliche Aussicht auf die Bucht von Douarnenez bietet, und bringen Sie bequeme Schuhe für einen Strandspaziergang mit.",
+            "hu": "Pihenjen meg ezen a festői strandon, amely gyönyörű kilátást nyújt a Douarnenez-öbölre, és hozzon magával kényelmes cipőt a partmenti sétákhoz a friss levegőn.",
+            "ro": "Relaxați-vă pe această plajă pitorească care oferă o priveliște superbă asupra golfului Douarnenez și aduceți încălțăminte confortabilă pentru o plimbare revigorantă.",
+            "en": "Relax on this picturesque beach offering a magnificent view over the Bay of Douarnenez, and bring comfortable walking shoes to enjoy a refreshing stroll along the coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand der Damen",
+            "hu": "Hölgyek Strandja",
+            "ro": "Plaja Doamnelor",
+            "en": "Ladies Beach"
+          },
+          "coords": [
+            -4.332671,
+            48.09732
+          ],
+          "category": "recreational",
+          "arrive_at": "12:50",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre an diesem historischen Strandabschnitt, der bei den Einheimischen sehr beliebt ist, und packen Sie unbedingt ein kleines Picknick ein.",
+            "hu": "Élvezze a békés hangulatot ezen a történelmi, helyiek által is kedvelt tengerparti szakaszon, és mindenképpen hozzon magával egy kis piknikkosarat a tökéletes délutánhoz.",
+            "ro": "Bucurați-vă de atmosfera liniștită de pe această plajă istorică îndrăgită de localnici și nu uitați să luați un mic pachet de picnic pentru o după-amiază perfectă.",
+            "en": "Enjoy the peaceful atmosphere at this historic stretch of beach that is beloved by locals, and be sure to pack a small picnic basket to complete your relaxing afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Île Tristan",
+            "hu": "Tristan-sziget",
+            "ro": "Insula Tristan",
+            "en": "Tristan Island"
+          },
+          "coords": [
+            -4.337222,
+            48.101667
+          ],
+          "category": "natural",
+          "arrive_at": "13:59",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.58,
+          "tip_5lang": {
+            "de": "Unternehmen Sie bei Ebbe einen aufregenden Spaziergang zur Île Tristan, um verborgene Gärten zu entdecken, aber prüfen Sie unbedingt vorher den aktuellen Gezeitenkalender.",
+            "hu": "Sétáljon át apálykor az izgalmas Tristan-szigetre, ahol rejtett kerteket fedezhet fel, de indulás előtt mindenképpen ellenőrizze a pontos árapály táblázatokat.",
+            "ro": "Plimbați-vă spre fascinanta Insulă Tristan la reflux pentru a descoperi grădini ascunse, dar verificați întotdeauna cu mare atenție calendarul mareelor înainte de a pleca.",
+            "en": "Take a thrilling walk to Tristan Island at low tide to discover its beautifully hidden botanical gardens, but always remember to check the local tide tables before you set out."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem gemütlichen Spaziergang entlang der historischen Stätten und der charmanten Kapelle. Am Mittag tauchen Sie im Port-Musée in die reiche Seefahrtsgeschichte von Douarnenez ein. Der Nachmittag lädt zu entspannten Momenten an den malerischen Stränden und auf der mystischen Île Tristan ein. Lassen Sie den Abend bei einem herrlichen Sonnenuntergang am Meer ausklingen.",
+        "hu": "Kezdje a napot egy kellemes sétával a történelmi emlékhelyek és a hangulatos kápolna körül. Délben merüljön el Douarnenez gazdag tengerészeti múltjában a lenyűgöző Port-Musée kiállításain. A délután tökéletes a festői strandok és a titokzatos Tristan-sziget felfedezésére. Este pedig lazítson a tengerparton, és csodálja meg az óceán felett lemenő nap gyönyörű, nyugtató színeit.",
+        "ro": "Începeți ziua cu o plimbare plăcută pe la siturile istorice și fermecătoarea capelă locală. La prânz, scufundați-vă în istoria maritimă bogată a orașului vizitând Port-Musée. După-amiaza vă invită la relaxare pe plajele pitorești și la explorarea insulei mistice Tristan. Încheiați seara cu un apus de soare spectaculos la malul mării, bucurându-vă de briza răcoroasă a oceanului.",
+        "en": "Start your morning with a pleasant walk around the historical sites and the charming local chapel. At midday, dive deep into the rich maritime history of Douarnenez at the Port-Musée. The afternoon invites you to relax on the picturesque local beaches and explore the mystical Tristan Island. Conclude your evening with a spectacular seaside sunset, enjoying the fresh and cool ocean breeze."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 3.88,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Archäologische Stätte Plomarc'h",
+            "hu": "Plomarc'h Régészeti Lelőhely",
+            "ro": "Situl Arheologic Plomarc'h",
+            "en": "Plomarc'h Archaeological Site"
+          },
+          "coords": [
+            -4.321763,
+            48.091317
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die außergewöhnlich gut erhaltenen gallo-römischen Ruinen, wo früher Fischsauce hergestellt wurde, und folgen Sie dem malerischen Küstenpfad für beste Ausblicke.",
+            "hu": "Csodálja meg a kiválóan megőrzött gall-római romokat, ahol egykor az ókori halszószt készítették, és kövesse a lenyűgöző parti ösvényt a legszebb panorámákért.",
+            "ro": "Admirați ruinele galo-romane excepțional conservate unde se producea faimosul sos de pește și urmați poteca pitorească de coastă pentru cele mai bune priveliști.",
+            "en": "Marvel at the exceptionally well-preserved Gallo-Roman ruins where ancient garum fish sauce was once produced, and follow the scenic coastal path for the best scenic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Herlé",
+            "hu": "Saint-Herlé Templom",
+            "ro": "Biserica Saint-Herlé",
+            "en": "Saint-Herlé Church"
+          },
+          "coords": [
+            -4.321834,
+            48.086432
+          ],
+          "category": "religious",
+          "arrive_at": "10:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.54,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur dieser Kirche, deren markanter Turm das Stadtbild prägt, und achten Sie im Inneren auf die kunstvollen maritimen Details.",
+            "hu": "Csodálja meg ennek a templomnak a lenyűgöző építészetét, amelynek tornya uralja a városképet, és figyeljen a belső tér finom tengerészeti és halászati díszítéseire.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici al cărei turn marchează peisajul urban și căutați detaliile maritime fin lucrate din interiorul clădirii istorice.",
+            "en": "Admire the impressive architecture of this church, whose striking tower dominates the skyline, and look closely at the finely crafted maritime details inside the historic nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Port-Musée",
+            "hu": "Port-Musée",
+            "ro": "Port-Musée",
+            "en": "Port-Musée"
+          },
+          "coords": [
+            -4.33444,
+            48.0936
+          ],
+          "category": "museum",
+          "arrive_at": "11:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.22,
+          "tip_5lang": {
+            "de": "Entdecken Sie im faszinierenden Port-Musée historische Schiffe hautnah und nehmen Sie sich genügend Zeit, um an Bord der schwimmenden Boote im Hafenbecken zu gehen.",
+            "hu": "Fedezze fel a lenyűgöző kikötői múzeumot, ahol történelmi hajókat csodálhat meg, és mindenképpen szánjon időt arra, hogy felmenjen a vízen horgonyzó régi vitorlásokra.",
+            "ro": "Explorați acest muzeu portuar fascinant unde puteți admira nave istorice impresionante și asigurați-vă că urcați la bordul bărcilor tradiționale ancorate în apă.",
+            "en": "Explore this fascinating port museum featuring a vast collection of historic vessels, and make sure to reserve enough time to step aboard the floating ships in the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand der Damen",
+            "hu": "Hölgyek Strandja",
+            "ro": "Plaja Doamnelor",
+            "en": "Ladies Beach"
+          },
+          "coords": [
+            -4.332671,
+            48.09732
+          ],
+          "category": "recreational",
+          "arrive_at": "13:03",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.42,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre an diesem historischen Strandabschnitt, der bei den Einheimischen sehr beliebt ist, und packen Sie unbedingt ein kleines Picknick ein.",
+            "hu": "Élvezze a békés hangulatot ezen a történelmi, helyiek által is kedvelt tengerparti szakaszon, és mindenképpen hozzon magával egy kis piknikkosarat a tökéletes délutánhoz.",
+            "ro": "Bucurați-vă de atmosfera liniștită de pe această plajă istorică îndrăgită de localnici și nu uitați să luați un mic pachet de picnic pentru o după-amiază perfectă.",
+            "en": "Enjoy the peaceful atmosphere at this historic stretch of beach that is beloved by locals, and be sure to pack a small picnic basket to complete your relaxing afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Île Tristan",
+            "hu": "Tristan-sziget",
+            "ro": "Insula Tristan",
+            "en": "Tristan Island"
+          },
+          "coords": [
+            -4.337222,
+            48.101667
+          ],
+          "category": "natural",
+          "arrive_at": "14:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.58,
+          "tip_5lang": {
+            "de": "Unternehmen Sie bei Ebbe einen aufregenden Spaziergang zur Île Tristan, um verborgene Gärten zu entdecken, aber prüfen Sie unbedingt vorher den aktuellen Gezeitenkalender.",
+            "hu": "Sétáljon át apálykor az izgalmas Tristan-szigetre, ahol rejtett kerteket fedezhet fel, de indulás előtt mindenképpen ellenőrizze a pontos árapály táblázatokat.",
+            "ro": "Plimbați-vă spre fascinanta Insulă Tristan la reflux pentru a descoperi grădini ascunse, dar verificați întotdeauna cu mare atenție calendarul mareelor înainte de a pleca.",
+            "en": "Take a thrilling walk to Tristan Island at low tide to discover its beautifully hidden botanical gardens, but always remember to check the local tide tables before you set out."
+          }
+        },
+        {
+          "name": {
+            "de": "Pors Melenn",
+            "hu": "Pors Melenn",
+            "ro": "Pors Melenn",
+            "en": "Pors Melenn"
+          },
+          "coords": [
+            -4.342395,
+            48.100667
+          ],
+          "category": "recreational",
+          "arrive_at": "15:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.39,
+          "tip_5lang": {
+            "de": "Erholen Sie sich in dieser kleinen und ruhigen Bucht, die sich perfekt für einen gemütlichen Stopp eignet, und lassen Sie sich vom sanften Rauschen der Wellen beruhigen.",
+            "hu": "Pihenjen meg ebben a kis, nyugodt öbölben, amely tökéletes egy rövid megállóra, és hagyja, hogy a hullámok lágy morajlása teljesen ellazítsa a városnézés közben.",
+            "ro": "Odihniți-vă în acest golf mic și liniștit, perfect pentru o pauză relaxantă, și lăsați sunetul blând al valurilor să vă calmeze după orele de explorare intensă.",
+            "en": "Rest in this small and tranquil cove that is perfect for a relaxing short break, and let the gentle sound of the lapping waves soothe you during your busy sightseeing tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Sables Blancs",
+            "hu": "Sables Blancs Strand",
+            "ro": "Plaja Sables Blancs",
+            "en": "Sables Blancs Beach"
+          },
+          "coords": [
+            -4.351749,
+            48.098327
+          ],
+          "category": "natural",
+          "arrive_at": "16:29",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.73,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an diesem breiten, feinsandigen Strand entspannt ausklingen, der ideal für Wassersport ist, und genießen Sie hier einen spektakulären Sonnenuntergang.",
+            "hu": "Zárja a napot ezen a széles, finomhomokos strandon, amely vízi sportokhoz is ideális, és élvezze a lenyűgöző naplementét a hűsítő esti tengerparti szellő kíséretében.",
+            "ro": "Încheiați ziua pe această plajă largă cu nisip fin, ideală pentru sporturi nautice, și bucurați-vă de un apus spectaculos acompaniat de briza proaspătă a mării de seară.",
+            "en": "End your day at this wide, fine-sand beach that is highly popular for water sports, and enjoy a spectacular evening sunset accompanied by the refreshing coastal sea breeze."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem gemütlichen Spaziergang entlang der historischen Stätten und der charmanten Kapelle. Am Mittag tauchen Sie im Port-Musée in die reiche Seefahrtsgeschichte von Douarnenez ein. Der Nachmittag lädt zu entspannten Momenten an den malerischen Stränden und auf der mystischen Île Tristan ein. Lassen Sie den Abend bei einem herrlichen Sonnenuntergang am Meer ausklingen.",
+        "hu": "Kezdje a napot egy kellemes sétával a történelmi emlékhelyek és a hangulatos kápolna körül. Délben merüljön el Douarnenez gazdag tengerészeti múltjában a lenyűgöző Port-Musée kiállításain. A délután tökéletes a festői strandok és a titokzatos Tristan-sziget felfedezésére. Este pedig lazítson a tengerparton, és csodálja meg az óceán felett lemenő nap gyönyörű, nyugtató színeit.",
+        "ro": "Începeți ziua cu o plimbare plăcută pe la siturile istorice și fermecătoarea capelă locală. La prânz, scufundați-vă în istoria maritimă bogată a orașului vizitând Port-Musée. După-amiaza vă invită la relaxare pe plajele pitorești și la explorarea insulei mistice Tristan. Încheiați seara cu un apus de soare spectaculos la malul mării, bucurându-vă de briza răcoroasă a oceanului.",
+        "en": "Start your morning with a pleasant walk around the historical sites and the charming local chapel. At midday, dive deep into the rich maritime history of Douarnenez at the Port-Musée. The afternoon invites you to relax on the picturesque local beaches and explore the mystical Tristan Island. Conclude your evening with a spectacular seaside sunset, enjoying the fresh and cool ocean breeze."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 3.53,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Herlé",
+            "hu": "Saint-Herlé Templom",
+            "ro": "Biserica Saint-Herlé",
+            "en": "Saint-Herlé Church"
+          },
+          "coords": [
+            -4.321834,
+            48.086432
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur dieser Kirche, deren markanter Turm das Stadtbild prägt, und achten Sie im Inneren auf die kunstvollen maritimen Details.",
+            "hu": "Csodálja meg ennek a templomnak a lenyűgöző építészetét, amelynek tornya uralja a városképet, és figyeljen a belső tér finom tengerészeti és halászati díszítéseire.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici al cărei turn marchează peisajul urban și căutați detaliile maritime fin lucrate din interiorul clădirii istorice.",
+            "en": "Admire the impressive architecture of this church, whose striking tower dominates the skyline, and look closely at the finely crafted maritime details inside the historic nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologische Stätte Plomarc'h",
+            "hu": "Plomarc'h Régészeti Lelőhely",
+            "ro": "Situl Arheologic Plomarc'h",
+            "en": "Plomarc'h Archaeological Site"
+          },
+          "coords": [
+            -4.321763,
+            48.091317
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.54,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die außergewöhnlich gut erhaltenen gallo-römischen Ruinen, wo früher Fischsauce hergestellt wurde, und folgen Sie dem malerischen Küstenpfad für beste Ausblicke.",
+            "hu": "Csodálja meg a kiválóan megőrzött gall-római romokat, ahol egykor az ókori halszószt készítették, és kövesse a lenyűgöző parti ösvényt a legszebb panorámákért.",
+            "ro": "Admirați ruinele galo-romane excepțional conservate unde se producea faimosul sos de pește și urmați poteca pitorească de coastă pentru cele mai bune priveliști.",
+            "en": "Marvel at the exceptionally well-preserved Gallo-Roman ruins where ancient garum fish sauce was once produced, and follow the scenic coastal path for the best scenic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Port-Musée",
+            "hu": "Port-Musée",
+            "ro": "Port-Musée",
+            "en": "Port-Musée"
+          },
+          "coords": [
+            -4.33444,
+            48.0936
+          ],
+          "category": "museum",
+          "arrive_at": "11:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.96,
+          "tip_5lang": {
+            "de": "Entdecken Sie im faszinierenden Port-Musée historische Schiffe hautnah und nehmen Sie sich genügend Zeit, um an Bord der schwimmenden Boote im Hafenbecken zu gehen.",
+            "hu": "Fedezze fel a lenyűgöző kikötői múzeumot, ahol történelmi hajókat csodálhat meg, és mindenképpen szánjon időt arra, hogy felmenjen a vízen horgonyzó régi vitorlásokra.",
+            "ro": "Explorați acest muzeu portuar fascinant unde puteți admira nave istorice impresionante și asigurați-vă că urcați la bordul bărcilor tradiționale ancorate în apă.",
+            "en": "Explore this fascinating port museum featuring a vast collection of historic vessels, and make sure to reserve enough time to step aboard the floating ships in the harbor."
+          }
+        },
+        {
+          "name": {
+            "de": "Île Tristan",
+            "hu": "Tristan-sziget",
+            "ro": "Insula Tristan",
+            "en": "Tristan Island"
+          },
+          "coords": [
+            -4.337222,
+            48.101667
+          ],
+          "category": "natural",
+          "arrive_at": "12:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Unternehmen Sie bei Ebbe einen aufregenden Spaziergang zur Île Tristan, um verborgene Gärten zu entdecken, aber prüfen Sie unbedingt vorher den aktuellen Gezeitenkalender.",
+            "hu": "Sétáljon át apálykor az izgalmas Tristan-szigetre, ahol rejtett kerteket fedezhet fel, de indulás előtt mindenképpen ellenőrizze a pontos árapály táblázatokat.",
+            "ro": "Plimbați-vă spre fascinanta Insulă Tristan la reflux pentru a descoperi grădini ascunse, dar verificați întotdeauna cu mare atenție calendarul mareelor înainte de a pleca.",
+            "en": "Take a thrilling walk to Tristan Island at low tide to discover its beautifully hidden botanical gardens, but always remember to check the local tide tables before you set out."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Saint-Jean",
+            "hu": "Saint-Jean Strand",
+            "ro": "Plaja Saint-Jean",
+            "en": "Saint-Jean Beach"
+          },
+          "coords": [
+            -4.345385,
+            48.100978
+          ],
+          "category": "recreational",
+          "arrive_at": "14:13",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen idyllischen Sandstrand am Rande der Stadt für einen ungestörten Moment am Meer und bringen Sie ein Buch mit, um hier in aller Ruhe zu lesen.",
+            "hu": "Látogasson el erre az idilli homokos strandra a város szélén egy zavartalan tengerparti pillanatért, és hozzon magával egy könyvet a tökéletes kikapcsolódáshoz.",
+            "ro": "Vizitați această plajă idilică de la marginea orașului pentru un moment de liniște netulburată lângă ocean și aduceți o carte bună pentru a vă relaxa în tihnă.",
+            "en": "Visit this idyllic sandy beach on the edge of the town for an undisturbed moment by the sea, and bring a good book to read while relaxing under the clear blue sky."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Sables Blancs",
+            "hu": "Sables Blancs Strand",
+            "ro": "Plaja Sables Blancs",
+            "en": "Sables Blancs Beach"
+          },
+          "coords": [
+            -4.351749,
+            48.098327
+          ],
+          "category": "natural",
+          "arrive_at": "15:15",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.53,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an diesem breiten, feinsandigen Strand entspannt ausklingen, der ideal für Wassersport ist, und genießen Sie hier einen spektakulären Sonnenuntergang.",
+            "hu": "Zárja a napot ezen a széles, finomhomokos strandon, amely vízi sportokhoz is ideális, és élvezze a lenyűgöző naplementét a hűsítő esti tengerparti szellő kíséretében.",
+            "ro": "Încheiați ziua pe această plajă largă cu nisip fin, ideală pentru sporturi nautice, și bucurați-vă de un apus spectaculos acompaniat de briza proaspătă a mării de seară.",
+            "en": "End your day at this wide, fine-sand beach that is highly popular for water sports, and enjoy a spectacular evening sunset accompanied by the refreshing coastal sea breeze."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem gemütlichen Spaziergang entlang der historischen Stätten und der charmanten Kapelle. Am Mittag tauchen Sie im Port-Musée in die reiche Seefahrtsgeschichte von Douarnenez ein. Der Nachmittag lädt zu entspannten Momenten an den malerischen Stränden und auf der mystischen Île Tristan ein. Lassen Sie den Abend bei einem herrlichen Sonnenuntergang am Meer ausklingen.",
+        "hu": "Kezdje a napot egy kellemes sétával a történelmi emlékhelyek és a hangulatos kápolna körül. Délben merüljön el Douarnenez gazdag tengerészeti múltjában a lenyűgöző Port-Musée kiállításain. A délután tökéletes a festői strandok és a titokzatos Tristan-sziget felfedezésére. Este pedig lazítson a tengerparton, és csodálja meg az óceán felett lemenő nap gyönyörű, nyugtató színeit.",
+        "ro": "Începeți ziua cu o plimbare plăcută pe la siturile istorice și fermecătoarea capelă locală. La prânz, scufundați-vă în istoria maritimă bogată a orașului vizitând Port-Musée. După-amiaza vă invită la relaxare pe plajele pitorești și la explorarea insulei mistice Tristan. Încheiați seara cu un apus de soare spectaculos la malul mării, bucurându-vă de briza răcoroasă a oceanului.",
+        "en": "Start your morning with a pleasant walk around the historical sites and the charming local chapel. At midday, dive deep into the rich maritime history of Douarnenez at the Port-Musée. The afternoon invites you to relax on the picturesque local beaches and explore the mystical Tristan Island. Conclude your evening with a spectacular seaside sunset, enjoying the fresh and cool ocean breeze."
+      }
+    }
+  }
+}

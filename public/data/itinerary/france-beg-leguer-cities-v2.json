@@ -1,0 +1,497 @@
+{
+  "city_id": "france-beg-leguer-cities-v2",
+  "anchor": {
+    "name": "Beg-Léguer",
+    "coords": [
+      -3.54118,
+      48.73849
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:59",
+      "total_km": 1.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plage de Mez-an-Aod",
+            "hu": "Plage de Mez-an-Aod",
+            "ro": "Plage de Mez-an-Aod",
+            "en": "Plage de Mez-an-Aod"
+          },
+          "coords": [
+            -3.549687,
+            48.737233
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese malerische, versteckte Bucht, die sich perfekt für ein ruhiges Bad eignet, aber prüfen Sie unbedingt die Gezeiten, bevor Sie Ihr Strandtuch ausbreiten.",
+            "hu": "Fedezze fel ezt a festői, eldugott öblöt, amely tökéletes egy nyugodt reggeli úszáshoz, de mindenképpen ellenőrizze a dagály idejét, mielőtt leterítené a törülközőjét.",
+            "ro": "Descoperiți acest golf pitoresc și ascuns, perfect pentru o baie matinală liniștită, dar asigurați-vă că verificați orele mareelor înainte de a vă așeza prosopul pe nisip.",
+            "en": "Discover this picturesque hidden cove which is perfect for a tranquil morning swim or peaceful walk, but always remember to check the local tide times before laying out your beach towel."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare de Beg Léguer",
+            "hu": "Phare de Beg Léguer",
+            "ro": "Phare de Beg Léguer",
+            "en": "Phare de Beg Léguer"
+          },
+          "coords": [
+            -3.548594,
+            48.738697
+          ],
+          "category": "landmark",
+          "arrive_at": "10:28",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die robuste Architektur dieses Leuchtturms, der früher Seeleute sicher leitete, und machen Sie ein schnelles Foto vom Klippenpfad, bevor der Mittagstrubel beginnt.",
+            "hu": "Csodálja meg ennek a part menti világítótoronynak a masszív építészetét, amely történelmileg tengerészeket irányított, és készítsen egy gyors fotót a sziklafalról még a tömeg előtt.",
+            "ro": "Admirați arhitectura robustă a acestui far de coastă care a ghidat istoric marinarii și faceți o fotografie rapidă de pe poteca stâncoasă înainte de a sosi aglomerația de la prânz.",
+            "en": "Admire the sturdy architecture of this coastal beacon that historically guided sailors safely, and grab a quick photo from the scenic clifftop path before the midday crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Roche Tremblante",
+            "hu": "Roche Tremblante",
+            "ro": "Roche Tremblante",
+            "en": "Roche Tremblante"
+          },
+          "coords": [
+            -3.539077,
+            48.731459
+          ],
+          "category": "natural",
+          "arrive_at": "11:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erleben Sie das einzigartige Naturwunder dieses massiven, von der Zeit geformten Wackelsteins und versuchen Sie, ihn an der markierten Stelle leicht anzuschieben, um ihn zu bewegen.",
+            "hu": "Tapasztalja meg ennek az idő által formált, hatalmas egyensúlyozó sziklának a természeti csodáját, és próbálja meg finoman megnyomni a megjelölt helyen, hogy lássa, meg tudja-e mozdítani.",
+            "ro": "Experimentați minunea naturală unică a acestei formațiuni stâncoase masive modelată de timp și încercați să o împingeți ușor în punctul marcat pentru a vedea dacă o puteți mișca.",
+            "en": "Experience the unique natural wonder of this massive balancing rock formation shaped by time, and try pushing it gently at the marked spot to see if you can make it move yourself."
+          }
+        },
+        {
+          "name": {
+            "de": "Fontaine de dévotion du Yaudet",
+            "hu": "Fontaine de dévotion du Yaudet",
+            "ro": "Fontaine de dévotion du Yaudet",
+            "en": "Fontaine de dévotion du Yaudet"
+          },
+          "coords": [
+            -3.53758,
+            48.730774
+          ],
+          "category": "landmark",
+          "arrive_at": "12:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser alten Andachtsquelle, die seit Jahrhunderten als spiritueller Pilgerort dient, und bringen Sie eine kleine Flasche mit, um etwas frisches Wasser zu sammeln.",
+            "hu": "Álljon meg ennél a nyugodt ősi áhítati forrásnál, amely évszázadok óta spirituális zarándokhelyként szolgál, és hozzon magával egy kis üveget, ha szeretne a friss helyi vízből vinni.",
+            "ro": "Opriți-vă la acest vechi izvor de devoțiune care a servit ca loc de pelerinaj spiritual de secole și aduceți o sticlă mică dacă doriți să colectați puțină apă proaspătă și curată.",
+            "en": "Pause at this tranquil ancient devotion spring which has served as a spiritual pilgrimage site for centuries, and bring a small bottle if you wish to collect some fresh local water."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Yaudet",
+            "hu": "Le Yaudet",
+            "ro": "Le Yaudet",
+            "en": "Le Yaudet"
+          },
+          "coords": [
+            -3.535757,
+            48.730592
+          ],
+          "category": "historical",
+          "arrive_at": "12:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie die tiefgreifenden historischen Überreste dieser alten Siedlung mit Blick auf die Mündung und tragen Sie feste Wanderschuhe für die unebenen archäologischen Pfade.",
+            "hu": "Fedezze fel ennek a torkolatra néző ősi településnek a lenyűgöző történelmi maradványait, és viseljen kényelmes túracipőt, hogy biztonságosan haladjon az egyenetlen régészeti utakon.",
+            "ro": "Explorați rămășițele istorice profunde ale acestei așezări antice cu vedere la estuar și purtați pantofi de mers rezistenți pentru a naviga confortabil pe cărările arheologice inegale.",
+            "en": "Explore the profound historical remnants of this ancient settlement overlooking the estuary, and wear sturdy walking shoes to comfortably navigate the uneven archaeological pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Roches de Beaumanoir",
+            "hu": "Roches de Beaumanoir",
+            "ro": "Roches de Beaumanoir",
+            "en": "Roches de Beaumanoir"
+          },
+          "coords": [
+            -3.535736,
+            48.729586
+          ],
+          "category": "natural",
+          "arrive_at": "14:14",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich inmitten dieser spektakulären Felsformationen, die einen atemberaubenden Panoramablick auf das Meer bieten, der perfekte Ort für ein spätes, ruhiges Picknick.",
+            "hu": "Pihenjen meg ezek között a látványos part menti sziklaképződmények között, amelyek lélegzetelállító panorámát nyújtanak a tengerre, így tökéletes helyszínt biztosítanak egy piknikhez.",
+            "ro": "Relaxați-vă printre aceste formațiuni stâncoase spectaculoase care oferă vederi panoramice uluitoare la mare, fiind locul absolut perfect pentru a sta liniștit și a savura un picnic.",
+            "en": "Relax among these spectacular coastal rock formations that offer breathtaking panoramic views of the sea, making it the absolute perfect spot to sit quietly and enjoy a late picnic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt mit einem erfrischenden Besuch am ruhigen Plage de Mez-an-Aod, um die frühe Küstenatmosphäre aufzusaugen. Ein kurzer Spaziergang bringt Sie zum historischen Phare de Beg Léguer.\n\nAm Mittag wagen Sie sich zur faszinierenden Roche Tremblante und bestaunen die ausbalancierten Natursteine. Nach einer leichten Wanderung erreichen Sie die alte Fontaine de dévotion du Yaudet.\n\nDer Nachmittag ist der Entdeckung der tiefen Geschichte von Le Yaudet gewidmet, wo Sie bedeutende archäologische Überreste erkunden. Die Küstenpfade sind lebendig und voller lokaler Sagen.\n\nGegen Abend entspannen Sie an den spektakulären Roches de Beaumanoir. Ein letzter friedlicher Moment inmitten der dramatischen geologischen Formationen schließt Ihre Wandertour perfekt ab.",
+        "hu": "A reggel egy frissítő látogatással indul a nyugodt Plage de Mez-an-Aod strandján, ahol magába szívhatja a parti hangulatot. Egy rövid séta elvezeti a történelmi Phare de Beg Léguer világítótoronyhoz.\n\nDélben a lenyűgöző Roche Tremblante felé veszi az irányt, megcsodálva a természetes egyensúlyozó köveket. Egy könnyű túra után eléri az ősi Fontaine de dévotion du Yaudet forrást.\n\nA délután Le Yaudet mély történelmének felfedezéséről szól, ahol jelentős régészeti maradványokat vizsgálhat meg. Az itteni parti ösvények élénkek és ősi helyi legendákkal teli helyek.\n\nAhogy közeledik az este, a látványos Roches de Beaumanoir szikláinál pihenhet. Egy utolsó békés pillanat a drámai geológiai képződmények között tökéletesen zárja le a gyalogos túrát.",
+        "ro": "Dimineața începe cu o vizită revigorantă la liniștita Plage de Mez-an-Aod, absorbind atmosfera de coastă. O scurtă plimbare vă aduce la istoricul Phare de Beg Léguer pentru priveliști maritime.\n\nLa prânz, vă aventurați spre fascinanta Roche Tremblante, minunându-vă de pietrele naturale echilibrate. După o drumeție ușoară, veți ajunge la vechea Fontaine de dévotion du Yaudet.\n\nDupă-amiaza este dedicată descoperirii istoriei profunde din Le Yaudet, explorând rămășițele sale arheologice semnificative. Potecile de coastă de aici sunt pline de tradiții locale străvechi.\n\nSpre seară, vă relaxați la spectaculoasele Roches de Beaumanoir. Bucurându-vă de un ultim moment de liniște printre formațiunile geologice dramatice, turul dumneavoastră pe jos se încheie perfect.",
+        "en": "Your morning begins with a refreshing visit to the tranquil Plage de Mez-an-Aod, soaking in the early coastal atmosphere. A short walk brings you to the historic Phare de Beg Léguer, offering expansive maritime views.\n\nBy midday, you venture towards the fascinating Roche Tremblante, marveling at the balanced natural stones. After a gentle hike, you'll reach the ancient Fontaine de dévotion du Yaudet.\n\nThe afternoon is dedicated to uncovering the deep history of Le Yaudet, exploring its significant archaeological remnants. The coastal paths here are vibrant and steeped in ancient local lore.\n\nAs evening approaches, you relax at the spectacular Roches de Beaumanoir. Enjoying a final peaceful moment amid the dramatic geological formations perfectly concludes your walking tour."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:39",
+      "total_km": 7.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Dolmen de Crec'h Lia",
+            "hu": "Dolmen de Crec'h Lia",
+            "ro": "Dolmen de Crec'h Lia",
+            "en": "Dolmen de Crec'h Lia"
+          },
+          "coords": [
+            -3.527665,
+            48.742528
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese beeindruckende prähistorische Megalithstruktur als stummen Zeugen der Antike und kommen Sie früh am Morgen an, um die mystische Atmosphäre voll zu schätzen.",
+            "hu": "Csodálja meg ezt a lenyűgöző történelem előtti megalitikus építményt, amely az ókor néma tanújaként áll, és érkezzen kora reggel, hogy teljes mértékben értékelje misztikus hangulatát.",
+            "ro": "Minunați-vă de această impresionantă structură megalitică preistorică ce stă ca un martor tăcut al timpurilor străvechi și ajungeți dimineața devreme pentru atmosfera sa mistică.",
+            "en": "Marvel at this impressive prehistoric megalithic structure standing as a silent witness to ancient times, and arrive early in the morning to fully appreciate its mystical atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Thurien",
+            "hu": "Chapelle Saint-Thurien",
+            "ro": "Chapelle Saint-Thurien",
+            "en": "Chapelle Saint-Thurien"
+          },
+          "coords": [
+            -3.539717,
+            48.751828
+          ],
+          "category": "religious",
+          "arrive_at": "10:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Treten Sie in diese wunderschön erhaltene Kapelle ein, um die filigranen Holzarbeiten zu betrachten, und sprechen Sie leise, da sie für Einheimische ein Ort der stillen Reflexion bleibt.",
+            "hu": "Lépjen be ebbe a gyönyörűen megőrzött kápolnába, hogy megfigyelje a bonyolult vallási fafaragásokat, és ne felejtsen el halkan beszélni, mivel ez egy aktív helyi elmélkedési hely.",
+            "ro": "Pășiți în interiorul acestei capele frumos conservate pentru a observa lemnăria religioasă complicată și amintiți-vă să vorbiți încet, deoarece rămâne un loc activ de reflecție.",
+            "en": "Step inside this beautifully preserved chapel to observe the intricate religious woodwork, and remember to speak softly as it remains an active place of quiet reflection for locals."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare de Beg Léguer",
+            "hu": "Phare de Beg Léguer",
+            "ro": "Phare de Beg Léguer",
+            "en": "Phare de Beg Léguer"
+          },
+          "coords": [
+            -3.548594,
+            48.738697
+          ],
+          "category": "landmark",
+          "arrive_at": "11:26",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Machen Sie eine Radpause an diesem ikonischen Leuchtturm, der die zerklüftete Küste prägt, und nutzen Sie ihn als hervorragenden Aussichtspunkt, falls Sie ein Fernglas dabeihaben.",
+            "hu": "Tartson egy kis szünetet a kerékpározásban ennél az ikonikus világítótoronynál, amely kiváló kilátópontot nyújt a távoli hajók megfigyelésére, ha hozott magával egy távcsövet.",
+            "ro": "Luați o pauză de la ciclism la acest far iconic de pe coasta accidentată, care oferă un punct de observație excelent pentru a vedea navele îndepărtate dacă aveți un binoclu la voi.",
+            "en": "Take a break from cycling at this iconic lighthouse that punctuates the rugged coastline, providing an excellent vantage point for spotting distant ships if you bring your binoculars."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Saint-Quiriou",
+            "hu": "Plage de Saint-Quiriou",
+            "ro": "Plage de Saint-Quiriou",
+            "en": "Plage de Saint-Quiriou"
+          },
+          "coords": [
+            -3.558827,
+            48.728541
+          ],
+          "category": "recreational",
+          "arrive_at": "11:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Genießen Sie das beruhigende Rauschen der Wellen an diesem weitläufigen Sandstrand und packen Sie winddichte Kleidung ein, da die Meeresbrise hier unten ziemlich stark werden kann.",
+            "hu": "Élvezze a hullámok nyugtató hangját ezen a hatalmas homokos partszakaszon, amely ideális a tengerparti sétákhoz, és csomagoljon szélálló ruházatot az itteni erős parti szél miatt.",
+            "ro": "Bucurați-vă de sunetul liniștitor al valurilor pe această întindere mare de nisip și împachetați niște haine rezistente la vânt, deoarece briza de coastă poate fi destul de puternică.",
+            "en": "Enjoy the soothing sound of the waves at this expansive sandy stretch ideal for beachcombing, and pack some windproof clothing as the coastal breeze can get quite strong down here."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir du Lianver",
+            "hu": "Menhir du Lianver",
+            "ro": "Menhir du Lianver",
+            "en": "Menhir du Lianver"
+          },
+          "coords": [
+            -3.554562,
+            48.718544
+          ],
+          "category": "historical",
+          "arrive_at": "13:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diesen hoch aufragenden Menhir, der eine wichtige antike Stätte markiert, und betrachten Sie seine verwitterte Oberfläche, um die jahrhundertelange Erosion zu sehen.",
+            "hu": "Vizsgálja meg ezt a tornyosuló, magányos állókövet, amely egy jelentős ősi helyszínt jelöl, és nézze meg alaposan a viharvert felületét, hogy értékelje az évszázados időjárást.",
+            "ro": "Investigați această piatră solitară falnică care marchează un sit antic semnificativ și priviți cu atenție suprafața sa erodată pentru a aprecia secolele de expunere la elemente.",
+            "en": "Investigate this towering solitary standing stone that marks a significant ancient site, and look closely at its weathered surface to appreciate the centuries of exposure to elements."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Yaudet",
+            "hu": "Le Yaudet",
+            "ro": "Le Yaudet",
+            "en": "Le Yaudet"
+          },
+          "coords": [
+            -3.535757,
+            48.730592
+          ],
+          "category": "historical",
+          "arrive_at": "14:49",
+          "stay_min": 110,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit der Erkundung der historischen Ruinen mit Blick auf die Bucht, wo Sie bei einem Besuch zum Sonnenuntergang mit einem atemberaubenden Ausblick belohnt werden.",
+            "hu": "Fejezze be kerékpártúráját az öbölre néző kiterjedt történelmi romok felfedezésével, ahol a naplementére időzített látogatás lenyűgözően gyönyörű, aranysárga kilátással jutalmazza.",
+            "ro": "Încheiați-vă călătoria cu bicicleta explorând ruinele istorice ample cu vedere la golf, unde vizita la apus vă va recompensa cu vederi aurii absolut uluitoare și de neuitat mereu.",
+            "en": "Conclude your cycling journey by exploring the sweeping historical ruins overlooking the bay, where timing your visit for sunset will reward you with absolutely stunning golden views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag am prähistorischen Dolmen de Crec'h Lia, bevor Sie zur Chapelle Saint-Thurien weiterfahren. Die Morgenluft passt perfekt zu der malerischen und ruhigen Route.\n\nAm Mittag machen Sie Pause am ikonischen Phare de Beg Léguer und blicken über den weiten Ozean. Kurz darauf rollen Sie zum Plage de Saint-Quiriou hinunter, um sich im unberührten Sand auszuruhen.\n\nAm Nachmittag radeln Sie zum hoch aufragenden Menhir du Lianver, einem markanten Denkmal der Antike. Die gewundenen Küstenstraßen bieten eine belebende und wunderschöne landschaftliche Fahrt.\n\nIhre Reise endet auf dem historischen Vorgebirge von Le Yaudet. Wenn die Sonne goldene Farbtöne über die alten Ruinen und die Bucht wirft, erleben Sie ein wirklich magisches Ende Ihres Abenteuers.",
+        "hu": "Kezdje a kerékpáros napot a történelem előtti Dolmen de Crec'h Lia megcsodálásával, mielőtt a Chapelle Saint-Thurien felé gurulna. A friss reggeli levegő tökéletesen illik a festői útvonalhoz.\n\nDélben az ikonikus Phare de Beg Léguer világítótoronynál tart pihenőt, és a végtelen óceánt kémleli. Röviddel ezután leereszkedik a Plage de Saint-Quiriou strandjára egy jól megérdemelt pihenőre.\n\nDélután a magasba tornyosuló Menhir du Lianver felé pedáloz, amely az ókor meséit suttogja. A kanyargós parti utak és a tengeri szél egyaránt frissítő és rendkívül látványos kerékpározást biztosítanak.\n\nUtazása a történelmi Le Yaudet hegyfokának elérésével zárul. Ahogy a naplemente arany árnyalatokat vetít az ősi romokra és a gyönyörű öbölre, az valóban varázslatos befejezése a kalandnak.",
+        "ro": "Începeți ziua de ciclism admirând preistoricul Dolmen de Crec'h Lia înainte de a pedala spre Chapelle Saint-Thurien. Aerul proaspăt al dimineții se potrivește perfect cu traseul extrem de pitoresc.\n\nLa prânz vă opriți la iconicul Phare de Beg Léguer, privind peste oceanul vast. La scurt timp, veți coborî spre Plage de Saint-Quiriou pentru o odihnă bine meritată pe nisipurile imaculate.\n\nÎn timpul după-amiezii, pedalați către impunătorul Menhir du Lianver, un monument solitar izbitor al antichității. Drumurile de coastă șerpuite oferă o plimbare plină de viață și peisaje de vis.\n\nCălătoria se încheie când ajungeți la promontoriul istoric din Le Yaudet. Privind cum apusul aruncă nuanțe aurii peste ruinele antice și peste golf, veți avea un final de-a dreptul magic.",
+        "en": "Kick off your cycling day marveling at the prehistoric Dolmen de Crec'h Lia before rolling onwards to the quietly inspiring Chapelle Saint-Thurien. The morning air perfectly suits the scenic route.\n\nMidday finds you pausing at the iconic Phare de Beg Léguer, gazing out over the vast ocean. Soon after, you'll cruise down to Plage de Saint-Quiriou for a well-deserved rest on the pristine sands.\n\nDuring the afternoon, pedal your way to the towering Menhir du Lianver, a striking solitary monument that whispers tales of antiquity. The winding coastal roads provide an invigorating ride.\n\nYour journey concludes as you reach the historic promontory of Le Yaudet. Watching the sunset cast golden hues over the ancient ruins and the bay offers a truly magical end to your adventure."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:32",
+      "total_km": 7.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Baie de Lannion",
+            "hu": "Baie de Lannion",
+            "ro": "Baie de Lannion",
+            "en": "Baie de Lannion"
+          },
+          "coords": [
+            -3.569186,
+            48.74073
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die dramatische Weite dieser Bucht, die für ihre extremen Gezeitenschwankungen bekannt ist, und nutzen Sie die bequemen Parkplätze für beeindruckende Landschaftsfotos.",
+            "hu": "Gyönyörködjön ebben a hatalmas öbölben, amely extrém árapály-ingadozásairól ismert, és használja a kényelmes út menti parkolókat, hogy biztonságosan készítsen lenyűgöző tájképeket.",
+            "ro": "Bucurați-vă de întinderea dramatică a acestui golf uriaș cunoscut pentru variațiile sale extreme ale mareelor și folosiți parcările convenabile pentru fotografii de peisaj uimitoare.",
+            "en": "Take in the dramatic sweep of this enormous bay known for its extreme tidal variations, and use the convenient roadside parking areas to safely capture some impressive landscape shots."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Quémeau",
+            "hu": "Église Saint-Quémeau",
+            "ro": "Église Saint-Quémeau",
+            "en": "Église Saint-Quémeau"
+          },
+          "coords": [
+            -3.563962,
+            48.723714
+          ],
+          "category": "religious",
+          "arrive_at": "09:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser charmanten Kirche, um die traditionelle bretonische Architektur zu bewundern, und prüfen Sie das Schild draußen auf gelegentliche sommerliche Chorauftritte.",
+            "hu": "Álljon meg ennél a bájos rusztikus templomnál, hogy értékelje a hagyományos breton építészetet, és ellenőrizze a kinti hirdetőtáblát az esetleges nyári kóruselőadások miatt.",
+            "ro": "Opriți-vă la această biserică rustică fermecătoare pentru a aprecia arhitectura sa tradițională bretonă și verificați avizierul de afară pentru eventuale spectacole corale de vară.",
+            "en": "Stop by this charming rustic church to appreciate its traditional Breton architecture, and check the notice board outside for occasional community events or summer choral performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Notigou",
+            "hu": "Plage de Notigou",
+            "ro": "Plage de Notigou",
+            "en": "Plage de Notigou"
+          },
+          "coords": [
+            -3.567033,
+            48.726217
+          ],
+          "category": "recreational",
+          "arrive_at": "10:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie an diesem friedlichen, abgelegenen Strand fernab der Haupttouristenzentren entlang und bringen Sie unbedingt eigene Snacks mit, da es hier wunderbar keine Geschäfte gibt.",
+            "hu": "Sétáljon végig ezen a békés, eldugott strandon, távol a főbb turisztikai központoktól, és feltétlenül hozzon magával saját rágcsálnivalót, mivel itt egyáltalán nincsenek üzletek.",
+            "ro": "Plimbați-vă pe această plajă izolată și pașnică, departe de principalele centre turistice, și asigurați-vă că aduceți propriile gustări, deoarece facilitățile comerciale sunt inexistente.",
+            "en": "Wander along this peaceful secluded beach away from the main tourist hubs, and make sure to bring your own snacks and water since commercial facilities here are wonderfully non-existent."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir du Lianver",
+            "hu": "Menhir du Lianver",
+            "ro": "Menhir du Lianver",
+            "en": "Menhir du Lianver"
+          },
+          "coords": [
+            -3.554562,
+            48.718544
+          ],
+          "category": "historical",
+          "arrive_at": "11:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fahren Sie vorsichtig ran, um dieses faszinierende, stolze monolithische Denkmal zu sehen, und lesen Sie die nahegelegene Informationstafel über seinen tiefen keltischen Hintergrund.",
+            "hu": "Óvatosan húzódjon le, hogy megfigyelje ezt a tájban büszkén álló, lenyűgöző monolit emlékművet, és olvassa el a közeli információs táblát, hogy megértse mély kelta történelmi hátterét.",
+            "ro": "Trageți pe dreapta cu atenție pentru a observa acest fascinant monument monolitic care stă mândru în peisaj și citiți placa informativă pentru a înțelege fundalul său celtic profund.",
+            "en": "Pull over carefully to observe this fascinating monolithic monument standing proudly in the landscape, and read the nearby informational plaque to understand its deep Celtic background."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Yaudet",
+            "hu": "Le Yaudet",
+            "ro": "Le Yaudet",
+            "en": "Le Yaudet"
+          },
+          "coords": [
+            -3.535757,
+            48.730592
+          ],
+          "category": "historical",
+          "arrive_at": "13:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem kulturell bedeutsamen Vorgebirge, um die historischen Schichten zu erkunden, und lassen Sie Ihr Auto auf dem Hauptparkplatz stehen, um zu den Ruinen zu laufen.",
+            "hu": "Hajtson fel erre a kulturálisan jelentős hegyfokra, hogy felfedezze a történelem rétegeit, és hagyja autóját a kijelölt parkolóban, hogy könnyedén elsétáljon a főbb ősi romokhoz.",
+            "ro": "Conduceți până la acest promontoriu semnificativ cultural pentru a explora istoria și lăsați mașina în parcarea principală pentru a merge cu ușurință pe jos până la ruinele primare.",
+            "en": "Drive up to this culturally significant promontory to explore the layers of history, leaving your car in the designated main lot to easily walk the short distance to the primary ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Pont Roux",
+            "hu": "Plage de Pont Roux",
+            "ro": "Plage de Pont Roux",
+            "en": "Plage de Pont Roux"
+          },
+          "coords": [
+            -3.535594,
+            48.728367
+          ],
+          "category": "recreational",
+          "arrive_at": "14:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie eine Nachmittagsruhe im weichen Sand dieses malerischen, geschützten Strandes, einem absolut sicheren Ort, um jüngere Kinder im flachen Wasser sicher planschen zu lassen.",
+            "hu": "Élvezze a délutáni pihenést ennek a festői, védett strandnak a puha homokján, amely tökéletesen biztonságos hely arra, hogy a kisebb gyerekek a sekély, védett vizekben gázolhassanak.",
+            "ro": "Bucurați-vă de o după-amiază de odihnă pe nisipul moale al acestei plaje adăpostite, un loc perfect sigur pentru a lăsa copiii mai mici să se bălăcească în apele puțin adânci și blânde.",
+            "en": "Enjoy an afternoon rest on the soft sands of this scenic sheltered beach, making it a perfectly safe spot for letting younger children wade in the gentle, naturally protected shallow waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen de Crec'h Lia",
+            "hu": "Dolmen de Crec'h Lia",
+            "ro": "Dolmen de Crec'h Lia",
+            "en": "Dolmen de Crec'h Lia"
+          },
+          "coords": [
+            -3.527665,
+            48.742528
+          ],
+          "category": "historical",
+          "arrive_at": "15:42",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Roadtrip mit der Entdeckung dieser versteckten prähistorischen Grabstätte und bringen Sie eine Taschenlampe mit, um die Steinanordnungen in der Dämmerung zu prüfen.",
+            "hu": "Fejezze be autós kirándulását ennek az eldugott történelem előtti temetkezési helynek a felfedezésével, és hozzon magával erős zseblámpát, ha későn érkezik a kövek megvizsgálásához.",
+            "ro": "Terminați-vă excursia cu mașina descoperind acest loc de înmormântare preistoric ascuns și aduceți o lanternă puternică dacă vizitați târziu pentru a examina plasamentul pietrelor.",
+            "en": "Finish your road trip by discovering this hidden prehistoric burial site, and bring a strong flashlight if visiting late to properly examine the intricate stone placements in the dusk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt an der atemberaubenden Baie de Lannion. Eine kurze Fahrt bringt Sie zur charmanten Église Saint-Quémeau, die am Morgen eine friedliche Atmosphäre zur Reflexion bietet.\n\nAm Mittag parken Sie in der Nähe des abgelegenen Plage de Notigou, um die Küste entlang zu schlendern. Halten Sie danach an, um den Menhir du Lianver zu bewundern, ein Symbol keltischer Geschichte.\n\nDer Nachmittag entfaltet sich an der kulturell reichen Stätte von Le Yaudet, wo Sie weitläufige Ruinen erkunden können. Ein kurzer Sprung bringt Sie dann zum entspannenden Plage de Pont Roux.\n\nBeenden Sie Ihren Tag am versteckten Dolmen de Crec'h Lia. Die Erkundung dieses unglaublichen megalithischen Wunders im schwindenden Licht bringt ein tiefes Gefühl des Staunens zum Abschluss.",
+        "hu": "Kezdje az autós túrát a lélegzetelállító Baie de Lannion öbölben. Egy rövid vezetés elviszi a bájos Église Saint-Quémeau templomhoz, amely békés reggeli elmélkedésre és pihenésre ad lehetőséget.\n\nDélben parkoljon le az eldugott Plage de Notigou közelében, és sétáljon egyet a csendes parton. Ezután álljon meg, hogy megcsodálja a lenyűgöző Menhir du Lianver-t, a kelta történelem szimbólumát.\n\nA délután a kulturálisan gazdag Le Yaudet helyszínén bontakozik ki, ahol kiterjedt romokat fedezhet fel. Egy rövid ugrás ezután a Plage de Pont Roux védett és pihentető homokjához vezeti önt.\n\nZárja a napot az elrejtett Dolmen de Crec'h Lia megkeresésével. Ennek a megalitikus csodának a felfedezése a halványuló fényben mélységes csodálattal tölti el utazása utolsó, varázslatos perceit.",
+        "ro": "Începeți turul cu mașina la impresionanta Baie de Lannion. Un scurt drum vă duce la fermecătoarea Église Saint-Quémeau, oferind o reflectare matinală pașnică și plină de spiritualitate autentică.\n\nLa prânz, veți parca lângă izolată Plage de Notigou pentru a vă plimba pe țărmul neaglomerat. Apoi, opriți-vă pentru a admira Menhir du Lianver, un simbol durabil și minunat al istoriei celtice.\n\nDupă-amiaza se desfășoară în situl cultural bogat din Le Yaudet, unde puteți explora ruine extinse. O scurtă călătorie vă duce apoi la nisipurile adăpostite și relaxante de la Plage de Pont Roux.\n\nÎncheiați-vă ziua navigând spre ascunsul Dolmen de Crec'h Lia. Explorarea acestei minuni megalitice sub lumina crepusculului aduce un sentiment profund de uimire la finalul călătoriei memorabile.",
+        "en": "Start your driving tour at the breathtaking Baie de Lannion, appreciating its vastness. A short drive brings you to the charming Église Saint-Quémeau, offering a peaceful morning reflection.\n\nBy midday, you’ll park near the secluded Plage de Notigou to stroll along the uncrowded shoreline. Next, stop to admire the fascinating Menhir du Lianver, an enduring symbol of Celtic history.\n\nThe afternoon unfolds at the culturally rich site of Le Yaudet, where you can easily explore extensive ruins. A brief hop then takes you to the sheltered and relaxing sands of Plage de Pont Roux.\n\nEnd your day navigating to the hidden Dolmen de Crec'h Lia. Exploring this megalithic marvel under the fading light brings a profound sense of wonder to the close of your memorable journey."
+      }
+    }
+  }
+}

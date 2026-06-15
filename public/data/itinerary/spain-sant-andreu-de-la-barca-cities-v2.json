@@ -1,0 +1,497 @@
+{
+  "city_id": "spain-sant-andreu-de-la-barca-cities-v2",
+  "anchor": {
+    "name": "Sant Andreu de la Barca",
+    "coords": [
+      1.97187,
+      41.44659
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:27",
+      "total_km": 1.75,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Can Salvi",
+            "hu": "Can Salvi",
+            "ro": "Can Salvi",
+            "en": "Can Salvi"
+          },
+          "coords": [
+            1.962693,
+            41.44828
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das bezaubernde Anwesen Can Salvi und bewundern Sie die Architektur, während Sie sich im Innenhof für einen perfekten Morgenstart ausruhen.",
+            "hu": "Fedezze fel a bájos Can Salvi birtokot, gyönyörködjön történelmi építészetében, miközben egy pillanatra megpihen az udvaron a tökéletes reggeli kezdéshez.",
+            "ro": "Explorați fermecătoarea moșie Can Salvi, admirându-i arhitectura istorică în timp ce vă odihniți puțin în curte pentru un început de dimineață perfect.",
+            "en": "Explore the charming estate of Can Salvi, admiring its historical architecture while taking a moment to rest in the courtyard for a perfect morning start."
+          }
+        },
+        {
+          "name": {
+            "de": "Can Preses",
+            "hu": "Can Preses",
+            "ro": "Can Preses",
+            "en": "Can Preses"
+          },
+          "coords": [
+            1.953677,
+            41.451289
+          ],
+          "category": "landmark",
+          "arrive_at": "09:37",
+          "stay_min": 15,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die zeitlose Schönheit von Can Preses, wo die genaue Betrachtung des kunstvollen Mauerwerks im Morgenlicht hervorragende Fotomotive bietet.",
+            "hu": "Fedezze fel Can Preses időtlen szépségét, a helyi nevezetességet, ahol a bonyolult kőfaragások közelebbi megfigyelése kiváló fotózási lehetőségeket kínál.",
+            "ro": "Descoperiți frumusețea atemporală a Can Preses, un reper local elegant unde observarea detaliilor sculptate în piatră oferă oportunități foto excelente.",
+            "en": "Discover the timeless beauty of Can Preses, an elegant local landmark where observing the intricate stonework up close provides great photo opportunities."
+          }
+        },
+        {
+          "name": {
+            "de": "Ca n'Arcs",
+            "hu": "Ca n'Arcs",
+            "ro": "Ca n'Arcs",
+            "en": "Ca n'Arcs"
+          },
+          "coords": [
+            1.954606,
+            41.453764
+          ],
+          "category": "landmark",
+          "arrive_at": "09:57",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gut erhaltenen strukturellen Details von Ca n'Arcs, die sich am besten von den ruhigen Fußgängerwegen neben diesem historischen Ort aus betrachten lassen.",
+            "hu": "Csodálja meg a Ca n'Arcs jól megőrzött szerkezeti részleteit, amelyek a város gazdag múltjáról tanúskodnak, és a legszebbek a csendes szomszédos sétányokról.",
+            "ro": "Admirați detaliile structurale bine conservate ale Ca n'Arcs, o dovadă a trecutului bogat al orașului care se vede cel mai bine de pe aleile pietonale.",
+            "en": "Admire the well-preserved structural details of Ca n'Arcs, a testament to the town's rich past that is best viewed from the quiet adjacent pedestrian paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Can Santacana",
+            "hu": "Can Santacana",
+            "ro": "Can Santacana",
+            "en": "Can Santacana"
+          },
+          "coords": [
+            1.95549,
+            41.455773
+          ],
+          "category": "landmark",
+          "arrive_at": "10:16",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Besuchen Sie Can Santacana, um traditionelle katalanische Designelemente zu würdigen, und achten Sie auf die schön gefertigten Balkone, bevor Sie weitergehen.",
+            "hu": "Látogasson el a Can Santacanába, hogy megcsodálja a hagyományos katalán dizájnelemeket; ne felejtsen el felnézni a gyönyörűen megmunkált erkélyekre is.",
+            "ro": "Vizitați Can Santacana pentru a aprecia elementele tradiționale de design catalan; asigurați-vă că priviți balcoanele frumos lucrate înainte de a continua.",
+            "en": "Visit Can Santacana to appreciate traditional Catalan design elements; make sure to look up at the beautifully crafted balconies before heading further north."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita de Santa Madrona del Palau",
+            "hu": "Ermita de Santa Madrona del Palau",
+            "ro": "Ermita de Santa Madrona del Palau",
+            "en": "Ermita de Santa Madrona del Palau"
+          },
+          "coords": [
+            1.957063,
+            41.456237
+          ],
+          "category": "landmark",
+          "arrive_at": "10:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Verweilen Sie in der ruhigen Ermita de Santa Madrona del Palau, einer religiösen Stätte, deren friedliche Atmosphäre man am besten noch vor dem Mittag genießt.",
+            "hu": "Tartson szünetet a békés Ermita de Santa Madrona del Palau-nál, egy bájos vallási helyszínen, ahol a délelőtti érkezés nyugalmas légkört biztosít.",
+            "ro": "Faceți o pauză la liniștita Ermita de Santa Madrona del Palau, o locație religioasă fermecătoare unde sosirea înainte de prânz vă oferă o atmosferă calmă.",
+            "en": "Pause at the serene Ermita de Santa Madrona del Palau, a charming religious site where arriving before noon lets you enjoy the tranquil and peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Taller de Dibuix i Pintura Creativa Santacana",
+            "hu": "Taller de Dibuix i Pintura Creativa Santacana",
+            "ro": "Taller de Dibuix i Pintura Creativa Santacana",
+            "en": "Taller de Dibuix i Pintura Creativa Santacana"
+          },
+          "coords": [
+            1.959783,
+            41.455125
+          ],
+          "category": "cultural",
+          "arrive_at": "11:17",
+          "stay_min": 130,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erleben Sie die lokale Kultur in dieser kreativen Werkstatt, wo die Betrachtung vielfältiger Kunstwerke inspiriert; buchen Sie wenn möglich einen kurzen Malkurs.",
+            "hu": "Vegyen részt a helyi kultúrában ezen a kreatív műhelyen, ahol a változatos műalkotások vizsgálata inspiráló; ha teheti, foglaljon egy rövid festőfoglalkozást.",
+            "ro": "Interacționați cu cultura locală la acest atelier creativ, unde examinarea operelor de artă oferă o imensă inspirație; rezervați o sesiune de pictură dacă se poate.",
+            "en": "Engage with local culture at this creative workshop, where examining the diverse artworks provides immense inspiration; book a short painting session if possible."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit einem Spaziergang durch die ruhigen Straßen von Sant Andreu de la Barca und bewundern Sie Can Salvi und Can Preses. Mittags erkunden Sie die gut erhaltenen Strukturen von Ca n'Arcs und Can Santacana. Der Nachmittag bietet spirituelle Besinnung in der wunderschönen Ermita de Santa Madrona del Palau. Lassen Sie den Abend im kreativen Taller de Dibuix ausklingen.",
+        "hu": "Kezdje a reggelt a csendes utcákon sétálva, és csodálja meg a Can Salvi és a Can Preses történelmi varázsát. Délben tekintse meg a Ca n'Arcs és a Can Santacana jól megőrzött épületeit. A délután a gyönyörű Ermita de Santa Madrona del Palau-ban folytatódik lelki elmélyüléssel. Fejezze be az estét a kreatív Taller de Dibuix-ban, magába szívva a művészeti kultúrát a vacsora előtt.",
+        "ro": "Începeți dimineața plimbându-vă pe străzile liniștite din Sant Andreu de la Barca, admirând farmecul istoric al Can Salvi și Can Preses. Până la prânz, observați structurile bine conservate ale Ca n'Arcs și Can Santacana. După-amiaza se transformă într-o reflecție spirituală la frumoasa Ermita de Santa Madrona del Palau. Încheiați-vă seara la creativul Taller de Dibuix.",
+        "en": "Start your morning strolling through the serene streets of Sant Andreu de la Barca, marveling at the historic charm of Can Salvi and Can Preses. By midday, take in the well-preserved structures of Ca n'Arcs and Can Santacana. The afternoon shifts to spiritual reflection at the beautiful Ermita de Santa Madrona del Palau. Conclude your evening at the creative Taller de Dibuix."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:59",
+      "total_km": 6.97,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Aqüeducte Mas d'en Puig",
+            "hu": "Aqüeducte Mas d'en Puig",
+            "ro": "Aqüeducte Mas d'en Puig",
+            "en": "Aqüeducte Mas d'en Puig"
+          },
+          "coords": [
+            1.976589,
+            41.440025
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das historische Aqüeducte Mas d'en Puig und parken Sie Ihr Fahrrad sicher, um an den antiken Bögen spazieren zu gehen.",
+            "hu": "Csodálja meg a történelmi Aqüeducte Mas d'en Puig-ot, és parkolja le biztonságosan a kerékpárját, hogy sétáljon egyet az ősi boltívek mentén.",
+            "ro": "Minunați-vă de istoricul Aqüeducte Mas d'en Puig și parcați-vă bicicleta în siguranță pentru a vă plimba de-a lungul arcadelor antice.",
+            "en": "Marvel at the historic Aqüeducte Mas d'en Puig, an impressive engineering feat; park your bike securely at the base to walk closely along its ancient arches."
+          }
+        },
+        {
+          "name": {
+            "de": "Can Salvi",
+            "hu": "Can Salvi",
+            "ro": "Can Salvi",
+            "en": "Can Salvi"
+          },
+          "coords": [
+            1.962693,
+            41.44828
+          ],
+          "category": "landmark",
+          "arrive_at": "10:38",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.46,
+          "tip_5lang": {
+            "de": "Radeln Sie bis nach Can Salvi und machen Sie eine kurze Pause, um die bezaubernde Fassade zu bewundern, bevor Sie die Naturpfade erkunden.",
+            "hu": "Kerékpározzon el Can Salvi-ig, és tartson egy rövid pihenőt, hogy megcsodálja a bájos homlokzatot, mielőtt felfedezné a természetes ösvényeket.",
+            "ro": "Mergeți cu bicicleta până la Can Salvi și faceți o scurtă pauză pentru a admira fațada fermecătoare înainte de a explora traseele naturale.",
+            "en": "Cycle up to Can Salvi and take a brief break to admire its charming facade; bringing a water bottle is recommended as you prepare for the natural trails ahead."
+          }
+        },
+        {
+          "name": {
+            "de": "Springfield",
+            "hu": "Springfield",
+            "ro": "Springfield",
+            "en": "Springfield"
+          },
+          "coords": [
+            1.956395,
+            41.447357
+          ],
+          "category": "natural",
+          "arrive_at": "10:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.51,
+          "tip_5lang": {
+            "de": "Fahren Sie durch das grüne Gelände von Springfield, genießen Sie die frische Luft und bleiben Sie auf den Radwegen, um die Natur zu schützen.",
+            "hu": "Kerékpározzon át a Springfield zöldellő területén, élvezze a friss levegőt, és maradjon a kijelölt utakon a természet védelme érdekében.",
+            "ro": "Mergeți prin zona verde din Springfield, bucurându-vă de aerul proaspăt și rămâneți pe pistele de biciclete pentru a proteja natura locală.",
+            "en": "Ride through the green expanse of Springfield, enjoying the fresh air and vibrant foliage; stick to the designated bike trails to protect the local ecosystem."
+          }
+        },
+        {
+          "name": {
+            "de": "el Pi Tallat",
+            "hu": "el Pi Tallat",
+            "ro": "el Pi Tallat",
+            "en": "el Pi Tallat"
+          },
+          "coords": [
+            1.946016,
+            41.446229
+          ],
+          "category": "natural",
+          "arrive_at": "12:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.84,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckende Präsenz von el Pi Tallat, einem herrlichen Naturdenkmal, wo sich ein Panoramafoto von der Wiese aus besonders lohnt.",
+            "hu": "Fedezze fel az el Pi Tallat lenyűgöző jelenlétét, egy csodálatos természeti nevezetességet, ahol mindenképpen érdemes panorámaképet készíteni.",
+            "ro": "Descoperiți prezența impunătoare a el Pi Tallat, un reper natural magnific unde este foarte recomandat să faceți o fotografie panoramică.",
+            "en": "Discover the towering presence of el Pi Tallat, a magnificent natural landmark where taking a panoramic photo from the surrounding meadow is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "cabana pedra seca",
+            "hu": "cabana pedra seca",
+            "ro": "cabana pedra seca",
+            "en": "cabana pedra seca"
+          },
+          "coords": [
+            1.955611,
+            41.430379
+          ],
+          "category": "historical",
+          "arrive_at": "13:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.95,
+          "tip_5lang": {
+            "de": "Fahren Sie zur rustikalen cabana pedra seca, einem Beispiel für Trockenmauerwerk; nähern Sie sich langsam, da die Wege recht uneben sein können.",
+            "hu": "Utazzon a rusztikus cabana pedra seca-hoz, amely a száraz kőépítészet kiváló példája; lassan közelítse meg, mivel az utak meglehetősen egyenetlenek.",
+            "ro": "Călătoriți către rustica cabana pedra seca, un exemplu excelent de arhitectură din piatră; apropiați-vă încet deoarece căile pot fi inegale.",
+            "en": "Journey to the rustic cabana pedra seca, an excellent example of dry stone architecture; approach slowly on your bike as the paths here can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Can Preses",
+            "hu": "Can Preses",
+            "ro": "Can Preses",
+            "en": "Can Preses"
+          },
+          "coords": [
+            1.953677,
+            41.451289
+          ],
+          "category": "landmark",
+          "arrive_at": "15:14",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.21,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour bei Can Preses und lassen Sie die historische Eleganz dieses Anwesens auf sich wirken, während Sie Ihr Fahrrad sicher abstellen.",
+            "hu": "Fejezze be kerékpártúráját a Can Preses-nél, és hagyja, hogy átjárja a birtok történelmi eleganciája, miközben biztonságosan tárolja kerékpárját.",
+            "ro": "Încheiați-vă turul cu bicicleta la Can Preses, permițând eleganței istorice să vă captiveze în timp ce vă depozitați bicicleta în siguranță.",
+            "en": "Conclude your bike tour at Can Preses, letting the historical elegance of this estate sink in while you cool down and safely store your bicycle nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer am beeindruckenden Aqüeducte Mas d'en Puig, bevor Sie zum eleganten Can Salvi fahren. Mittags bietet sich eine erfrischende Fahrt durch die Weiten von Springfield und die Schönheit von el Pi Tallat an. Am Nachmittag befahren Sie die Pfade zur historischen cabana pedra seca. Lassen Sie den Abend bei Can Preses ausklingen.",
+        "hu": "Kezdje kerékpáros kalandját a lenyűgöző Aqüeducte Mas d'en Puig megcsodálásával, mielőtt az elegáns Can Salvi felé venné az irányt. Délben frissítő utazás vár a Springfield zöldellő síkságain és az el Pi Tallat szépségén keresztül. Délután navigáljon a történelmi cabana pedra seca-hoz vezető ösvényeken. Pihenjen meg este a Can Preses-nél.",
+        "ro": "Începeți aventura cu bicicleta admirând impresionantul Aqüeducte Mas d'en Puig înainte de a vă îndrepta spre elegantul Can Salvi. Prânzul aduce o plimbare revigorantă prin întinderile naturale din Springfield și frumusețea el Pi Tallat. După-amiaza, navigați pe traseele accidentate care duc la cabana pedra seca. Încheiați-vă seara la Can Preses.",
+        "en": "Kick off your cycling adventure by marveling at the impressive Aqüeducte Mas d'en Puig before heading to the elegant Can Salvi. Midday brings a refreshing ride through the natural expanses of Springfield and the towering beauty of el Pi Tallat. In the afternoon, navigate the rugged trails leading to the historic cabana pedra seca. Wind down your evening at Can Preses."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:17",
+      "total_km": 5.47,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "els Tres Turons",
+            "hu": "els Tres Turons",
+            "ro": "els Tres Turons",
+            "en": "els Tres Turons"
+          },
+          "coords": [
+            1.983962,
+            41.434521
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Fahrt bei els Tres Turons und nutzen Sie die unbefestigten Seitenstreifen vorsichtig für ein kurzes, aber sicheres Parken.",
+            "hu": "Kezdje útját az els Tres Turons-nál, és óvatosan használja a közeli burkolatlan útpadkákat egy rövid, de biztonságos parkoláshoz.",
+            "ro": "Începeți-vă călătoria la els Tres Turons și utilizați cu atenție marginile neasfaltate din apropiere pentru o parcare scurtă, dar sigură.",
+            "en": "Start your drive at els Tres Turons, taking in the magnificent rolling hills; utilize the nearby unpaved shoulders carefully for temporary and safe parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Cabaña de piedra seca",
+            "hu": "Cabaña de piedra seca",
+            "ro": "Cabaña de piedra seca",
+            "en": "Cabaña de piedra seca"
+          },
+          "coords": [
+            1.980558,
+            41.431034
+          ],
+          "category": "historical",
+          "arrive_at": "10:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beobachten Sie die faszinierende Cabaña de piedra seca; tragen Sie festes Schuhwerk, da der kurze Weg vom Auto über felsiges, unebenes Gelände führt.",
+            "hu": "Figyelje meg a lenyűgöző Cabaña de piedra seca-t; viseljen erős cipőt, mivel az autótól vezető rövid séta sziklás, egyenetlen terepen halad át.",
+            "ro": "Observați fascinanta Cabaña de piedra seca; purtați pantofi rezistenți, deoarece scurta plimbare de la mașină implică un teren stâncos.",
+            "en": "Observe the fascinating Cabaña de piedra seca, a rural historical gem; wear sturdy shoes as the short walk from your parked car involves rocky, uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Pozo",
+            "hu": "Pozo",
+            "ro": "Pozo",
+            "en": "Pozo"
+          },
+          "coords": [
+            1.985248,
+            41.426799
+          ],
+          "category": "historical",
+          "arrive_at": "11:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen historischen Pozo, um die traditionelle Wassergewinnung zu verstehen; achten Sie auf Ihre Schritte auf den alten Steinen.",
+            "hu": "Látogasson el ehhez a történelmi Pozo-hoz, hogy megértse a hagyományos vízkivételt; ügyeljen a lépéseire az ősi kövek és a perem körül.",
+            "ro": "Vizitați acest Pozo istoric pentru a înțelege extracția tradițională a apei; fiți atenți la pași în jurul pietrelor antice și păstrați distanța.",
+            "en": "Visit this historic Pozo to understand traditional water extraction; watch your step around the ancient stones and keep a safe distance from the edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Roca de Droc",
+            "hu": "Roca de Droc",
+            "ro": "Roca de Droc",
+            "en": "Roca de Droc"
+          },
+          "coords": [
+            1.986694,
+            41.436226
+          ],
+          "category": "natural",
+          "arrive_at": "13:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zur markanten Roca de Droc, einer geologischen Formation, wo das späte Nachmittagslicht dramatische Schatten für perfekte Fotos wirft.",
+            "hu": "Vezessen a feltűnő Roca de Droc felé, egy geológiai képződményhez, ahol a késő délutáni napfény drámai árnyékokat vet a tökéletes fotókhoz.",
+            "ro": "Conduceți spre impresionanta Roca de Droc, o formațiune geologică unde lumina după-amiezii târziu creează umbre dramatice perfecte pentru poze.",
+            "en": "Drive towards the striking Roca de Droc, a fascinating geological formation where late afternoon sunlight creates dramatic shadows perfect for photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Aqüeducte Mas d'en Puig",
+            "hu": "Aqüeducte Mas d'en Puig",
+            "ro": "Aqüeducte Mas d'en Puig",
+            "en": "Aqüeducte Mas d'en Puig"
+          },
+          "coords": [
+            1.976589,
+            41.440025
+          ],
+          "category": "historical",
+          "arrive_at": "14:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.94,
+          "tip_5lang": {
+            "de": "Halten Sie am Aqüeducte Mas d'en Puig, um die antike Wassertechnik zu bestaunen; parken Sie an den ausgewiesenen Stellen, um es zu Fuß zu erkunden.",
+            "hu": "Álljon meg az Aqüeducte Mas d'en Puig-nál, hogy megcsodálja az ősi víztechnikát; parkoljon a kijelölt helyeken, hogy gyalogosan is értékelhesse.",
+            "ro": "Opriți la Aqüeducte Mas d'en Puig pentru a admira ingineria apei antice; parcați în locurile desemnate pentru a o aprecia complet la pas.",
+            "en": "Stop by the Aqüeducte Mas d'en Puig to marvel at ancient water engineering; park at the designated roadside spots to fully appreciate its scale on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita de Santa Madrona del Palau",
+            "hu": "Ermita de Santa Madrona del Palau",
+            "ro": "Ermita de Santa Madrona del Palau",
+            "en": "Ermita de Santa Madrona del Palau"
+          },
+          "coords": [
+            1.957063,
+            41.456237
+          ],
+          "category": "landmark",
+          "arrive_at": "15:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die spirituelle Ruhe der Ermita de Santa Madrona del Palau; parken ist begrenzt, also kommen Sie besser außerhalb der Stoßzeiten.",
+            "hu": "Élvezze az Ermita de Santa Madrona del Palau spirituális nyugalmát; a parkolás korlátozott, ezért próbáljon meg csúcsidőn kívül érkezni.",
+            "ro": "Bucurați-vă de liniștea spirituală de la Ermita de Santa Madrona del Palau; parcarea este limitată, așa că sosiți în afara orelor de vârf.",
+            "en": "Enjoy the spiritual tranquility of Ermita de Santa Madrona del Palau; parking is limited, so try to arrive during off-peak hours for a stress-free visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Can Santacana",
+            "hu": "Can Santacana",
+            "ro": "Can Santacana",
+            "en": "Can Santacana"
+          },
+          "coords": [
+            1.95549,
+            41.455773
+          ],
+          "category": "landmark",
+          "arrive_at": "16:32",
+          "stay_min": 45,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag in Can Santacana, um die architektonische Schönheit aufzunehmen, bevor Sie in einem lokalen Café entspannen und abschalten.",
+            "hu": "Fejezze be a napot a Can Santacanában, hogy magába szívja építészeti szépségét, mielőtt egy helyi kávézóban pihenne és kikapcsolódna.",
+            "ro": "Încheiați-vă ziua la Can Santacana pentru a absorbi frumusețea sa arhitecturală, înainte de a găsi o cafenea locală pentru a vă relaxa.",
+            "en": "End your day at Can Santacana to absorb its architectural beauty; stroll along the adjacent streets before finding a local cafe to relax and unwind."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre morgendliche Fahrt beginnt an den malerischen els Tres Turons, gefolgt von der Erkundung der alten Cabaña de piedra seca. Mittags tauchen Sie am traditionellen Pozo in die Geschichte ein und fotografieren die markante Roca de Droc. Der Nachmittag ist dem Aqüeducte Mas d'en Puig und der ruhigen Ermita de Santa Madrona del Palau gewidmet. Verbringen Sie den Abend bei Can Santacana.",
+        "hu": "Reggeli autózása a festői els Tres Turons-nál kezdődik, majd az ősi Cabaña de piedra seca felfedezése következik. Délben merüljön el a hagyományos Pozo történelmében, és fotózza le a feltűnő Roca de Droc-ot. A délutánt az Aqüeducte Mas d'en Puig és a békés Ermita de Santa Madrona del Palau megtekintésének szentelheti. Végül töltse el az estét a Can Santacana megcsodálásával.",
+        "ro": "Plimbarea de dimineață începe la pitorescul els Tres Turons, urmată de o explorare a anticei Cabaña de piedra seca. La prânz, pătrundeți în istorie la tradiționalul Pozo și fotografiați impresionanta Roca de Droc. După-amiaza este dedicată magnificului Aqüeducte Mas d'en Puig și liniștitei Ermita de Santa Madrona del Palau. În cele din urmă, petreceți-vă seara la Can Santacana.",
+        "en": "Your morning drive begins at the scenic els Tres Turons, followed by an exploration of the ancient Cabaña de piedra seca. By midday, delve into the area's history at the traditional Pozo and photograph the striking Roca de Droc. The afternoon is dedicated to the magnificent Aqüeducte Mas d'en Puig and the peaceful Ermita de Santa Madrona del Palau. Spend your evening admiring Can Santacana."
+      }
+    }
+  }
+}

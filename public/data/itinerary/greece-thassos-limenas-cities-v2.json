@@ -1,0 +1,497 @@
+{
+  "city_id": "greece-thassos-limenas-cities-v2",
+  "anchor": {
+    "name": "Thassos (Limenas)",
+    "coords": [
+      24.709444,
+      40.778056
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:08",
+      "total_km": 1.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Die kreuzförmige Basilika",
+            "hu": "A Kereszt alakú bazilika",
+            "ro": "Bazilica în formă de cruce",
+            "en": "The Cross-Shaped Basilica"
+          },
+          "coords": [
+            24.709141,
+            40.778786
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Fundamente dieser frühchristlichen Kirche, um die Religionsgeschichte von Thassos zu erfassen, aber tragen Sie festes Schuhwerk.",
+            "hu": "Fedezze fel ezen ókeresztény templom ősi alapjait, hogy megértse Thassos vallástörténetét, de a kavicsos talaj miatt viseljen kényelmes cipőt.",
+            "ro": "Explorați fundațiile antice ale acestei biserici paleocreștine pentru a înțelege istoria religioasă a insulei Thassos, având încălțăminte adecvată.",
+            "en": "Explore the ancient foundations of this early Christian church to grasp Thassos's religious history, but wear sturdy shoes for the uneven ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum von Thasos",
+            "hu": "Thassos Régészeti Múzeuma",
+            "ro": "Muzeul Arheologic din Thassos",
+            "en": "Archaeological Museum of Thasos"
+          },
+          "coords": [
+            24.711833,
+            40.779718
+          ],
+          "category": "museum",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposante Kouros-Statue und die beeindruckenden antiken Artefakte, und lesen Sie unbedingt die detaillierten englischen Schilder.",
+            "hu": "Csodálja meg az impozáns Kurosz szobrot és az ókori leleteket, és mindenképpen olvassa el az angol nyelvű információs táblákat a jobb megértésért.",
+            "ro": "Admirați statuia impunătoare a lui Kouros și artefactele antice impresionante și asigurați-vă că citiți plăcuțele informative pentru context.",
+            "en": "Admire the imposing Kouros statue and impressive ancient artifacts housed here, and be sure to read the detailed English placards for context."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalogeriko",
+            "hu": "Kalogeriko",
+            "ro": "Kalogeriko",
+            "en": "Kalogeriko"
+          },
+          "coords": [
+            24.713656,
+            40.78117
+          ],
+          "category": "landmark",
+          "arrive_at": "12:18",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses wunderschön erhaltene Gebäude aus dem 19. Jahrhundert mit seinen lebhaften Kunstausstellungen und der traditionellen Architektur.",
+            "hu": "Látogasson el ebbe a gyönyörűen megőrzött 19. századi épületbe, amely ma művészeti kiállításoknak ad otthont, és élvezze a hagyományos építészetet.",
+            "ro": "Vizitați această clădire din secolul al XIX-lea, frumos conservată, care găzduiește acum expoziții de artă vibrante cu o arhitectură tradițională.",
+            "en": "Visit this beautifully preserved 19th-century building that now hosts vibrant art exhibitions, taking time to enjoy the traditional architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal des Glaukos",
+            "hu": "Glaukosz emlékműve",
+            "ro": "Monumentul lui Glaukos",
+            "en": "Monument of Glaukos"
+          },
+          "coords": [
+            24.714079,
+            40.779874
+          ],
+          "category": "historical",
+          "arrive_at": "12:45",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Ehren Sie das Andenken an den antiken General Glaukos an seinem Denkmal, einer kleinen, aber historisch bedeutsamen Stätte, die morgens toll wirkt.",
+            "hu": "Tisztelegjen az ókori Glaukosz tábornok emléke előtt ennél a kicsi, de történelmileg jelentős emlékműnél, amelyet a reggeli fényben érdemes fotózni.",
+            "ro": "Onorați memoria generalului antic Glaukos la monumentul său, un sit mic, dar semnificativ istoric, cel mai bine fotografiat în lumina dimineții.",
+            "en": "Honor the memory of the ancient general Glaukos at his memorial, a small yet historically significant site best photographed in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Odeon",
+            "hu": "Odeon",
+            "ro": "Odeon",
+            "en": "Odeon"
+          },
+          "coords": [
+            24.713194,
+            40.77868
+          ],
+          "category": "historical",
+          "arrive_at": "13:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Stellen Sie sich antike Musikdarbietungen in diesem gut erhaltenen römischen Odeon vor und achten Sie beim Betreten der Steinsitze auf die Akustik.",
+            "hu": "Képzelje el az ókori zenei előadásokat ebben a jól megőrzött római Odeonban, figyelve a kiváló akusztikára, miközben óvatosan lépked a köveken.",
+            "ro": "Imaginați-vă spectacole muzicale antice în acest Odeon roman bine conservat, remarcând acustica în timp ce pășiți cu grijă pe scaunele de piatră.",
+            "en": "Imagine ancient musical performances in this well-preserved Roman Odeon, noting the acoustics while walking carefully on the weathered stone seats."
+          }
+        },
+        {
+          "name": {
+            "de": "Antikes Theater von Thasos",
+            "hu": "Thassos ókori színháza",
+            "ro": "Teatrul Antic din Thassos",
+            "en": "Thassos Ancient Theatre"
+          },
+          "coords": [
+            24.717606,
+            40.782054
+          ],
+          "category": "cultural",
+          "arrive_at": "14:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesem hellenistischen Theater hinauf, nicht nur wegen seiner historischen Bühne, sondern auch für den atemberaubenden Meerblick.",
+            "hu": "Túrázzon fel ehhez a hellenisztikus színházhoz nemcsak a történelmi színpad, hanem a legfelső sorokból nyíló lélegzetelállító tengeri kilátás miatt is.",
+            "ro": "Urcați la acest teatru elenistic nu doar pentru scena sa istorică, ci și pentru priveliștile panoramice uluitoare asupra mării din rândurile de sus.",
+            "en": "Hike up to this Hellenistic theatre not only for its historical stage but also for the breathtaking panoramic sea views from the highest rows."
+          }
+        },
+        {
+          "name": {
+            "de": "Akropolis von Thasos",
+            "hu": "Thassos Akropolisza",
+            "ro": "Acropola din Thassos",
+            "en": "Acropolis of Thasos"
+          },
+          "coords": [
+            24.718755,
+            40.777479
+          ],
+          "category": "landmark",
+          "arrive_at": "15:38",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bezwingen Sie den steilen Weg zur Akropolis, um antike Tempelruinen zu entdecken und sich mit dem spektakulärsten Sonnenuntergang zu belohnen.",
+            "hu": "Küzdje le az Akropoliszhoz vezető meredek utat az ókori templomromokért, és jutalmazza meg magát Limenas leglátványosabb naplementés panorámájával.",
+            "ro": "Cuceriti poteca abruptă spre Acropole pentru a descoperi ruine de temple antice și recompensați-vă cu cel mai spectaculos apus din orașul Limenas.",
+            "en": "Conquer the steep path to the Acropolis to discover ancient temple ruins and reward yourself with the most spectacular sunset vista in Limenas."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem faszinierenden Spaziergang durch das antike Limenas, bei dem das Römische Odeon und alte Basiliken den Weg weisen. Das Archäologische Museum ist ein absolutes Muss und bietet reiche historische Einblicke. Mittags bringt uns das charmante Kalogeriko der neueren Kultur näher. Der Nachmittag gehört dem antiken Theater, gefolgt von einem steilen, aber lohnenden Aufstieg zur Akropolis, um den Tag mit einem majestätischen Ausblick abzuschließen.",
+        "hu": "Kezdje a napot Limenas ókori szívében, a római Odeon és a korakeresztény bazilika alapjainak felfedezésével. A lenyűgöző régészeti múzeum kincsei után délben a Kalogeriko hagyományos épülete felé vesszük az irányt. A délutánt az ókori színház lenyűgöző romjainak szenteljük, ahonnan fentről csodálhatjuk meg a tengert. Zárásként másszon fel az Akropoliszhoz egy igazán varázslatos és felejthetetlen naplementés panorámáért.",
+        "ro": "Începeți ziua explorând inima antică a orașului Limenas, unde Odeonul roman și basilica paleocreștină oferă o primă impresie istorică. După comorile Muzeului Arheologic, prânzul aduce farmecul clădirii tradiționale Kalogeriko. După-amiaza urcați spre Teatrul Antic, care fascinează prin priveliștile sale la Marea Egee. Încheiați călătoria cu o ascensiune curajoasă către Acropole pentru o panoramă magnifică la apus.",
+        "en": "Start your morning exploring the ancient heart of Limenas, taking in the historical layers at the old Basilica and the Roman Odeon. The Archaeological Museum provides essential context before a midday stroll to the traditional Kalogeriko building. Afternoon brings a scenic climb to the Ancient Theatre with its breathtaking Aegean backdrop. Finally, cap off your day with a hike up to the Acropolis for a truly spectacular sunset over the harbor."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:51",
+      "total_km": 1.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche des Heiligen Demetrius",
+            "hu": "Szent Demeter templom",
+            "ro": "Biserica Sfântul Dimitrie",
+            "en": "Saint Demetrius Church"
+          },
+          "coords": [
+            24.718198,
+            40.773888
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Betreten Sie diese friedliche orthodoxe Kirche, um ihre schönen Fresken zu bewundern, wobei Sie darauf achten sollten, angemessen gekleidet zu sein.",
+            "hu": "Lépjen be ebbe a békés ortodox templomba, hogy megcsodálja a gyönyörű freskókat, ügyelve arra, hogy vállai és térdei takarva legyenek a látogatáskor.",
+            "ro": "Pășiți în această biserică ortodoxă pașnică pentru a admira frescele sale frumoase, asigurându-vă că aveți umerii și genunchii acoperiți corespunzător.",
+            "en": "Step inside this peaceful orthodox church to admire its beautiful frescoes and serene atmosphere, ensuring your shoulders and knees are covered."
+          }
+        },
+        {
+          "name": {
+            "de": "Odeon",
+            "hu": "Odeon",
+            "ro": "Odeon",
+            "en": "Odeon"
+          },
+          "coords": [
+            24.713194,
+            40.77868
+          ],
+          "category": "historical",
+          "arrive_at": "09:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Stellen Sie sich antike Musikdarbietungen in diesem gut erhaltenen römischen Odeon vor und achten Sie beim Betreten der Steinsitze auf die Akustik.",
+            "hu": "Képzelje el az ókori zenei előadásokat ebben a jól megőrzött római Odeonban, figyelve a kiváló akusztikára, miközben óvatosan lépked a köveken.",
+            "ro": "Imaginați-vă spectacole muzicale antice în acest Odeon roman bine conservat, remarcând acustica în timp ce pășiți cu grijă pe scaunele de piatră.",
+            "en": "Imagine ancient musical performances in this well-preserved Roman Odeon, noting the acoustics while walking carefully on the weathered stone seats."
+          }
+        },
+        {
+          "name": {
+            "de": "Dionysion",
+            "hu": "Dionüszion",
+            "ro": "Dionision",
+            "en": "Dionusion"
+          },
+          "coords": [
+            24.714734,
+            40.78079
+          ],
+          "category": "historical",
+          "arrive_at": "11:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die Überreste des Dionysos-Heiligtums, um sich mit dem antiken Theaterkult zu verbinden, und achten Sie auf Inschriften.",
+            "hu": "Sétáljon végig a Dionüszosz-szentély romjai között, hogy kapcsolódjon az ókori színházi kultuszhoz, és figyeljen a kövekbe vésett ősi feliratokra.",
+            "ro": "Plimbați-vă prin rămășițele Sanctuarului lui Dionisos pentru a vă conecta cu cultul teatral antic, cu ochii în patru după inscripții detaliate.",
+            "en": "Wander through the remains of the Sanctuary of Dionysus to connect with the ancient theatrical cult, keeping an eye out for detailed inscriptions."
+          }
+        },
+        {
+          "name": {
+            "de": "Antiker Handelshafen von Thasos",
+            "hu": "Thassos ókori kereskedelmi kikötője",
+            "ro": "Portul comercial antic din Thassos",
+            "en": "Ancient commercial port of Thasos"
+          },
+          "coords": [
+            24.714536,
+            40.784619
+          ],
+          "category": "historical",
+          "arrive_at": "12:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der historischen Uferpromenade, wo einst antike Trieren anlegten, und stellen Sie sich den geschäftigen Seehandel von früher vor.",
+            "hu": "Sétáljon a történelmi vízparton, ahol egykor ókori triérészek dokkoltak, és képzelje el a klasszikus görög ókor nyüzsgő, élénk tengeri kereskedelmét.",
+            "ro": "Plimbați-vă de-a lungul malului istoric unde acostau cândva triremele și imaginați-vă comerțul maritim plin de viață al antichității clasice grecești.",
+            "en": "Stroll along the historical waterfront where ancient triremes once docked, and imagine the bustling maritime trade of classical Greek antiquity."
+          }
+        },
+        {
+          "name": {
+            "de": "Karnagio",
+            "hu": "Karnagio",
+            "ro": "Karnagio",
+            "en": "Karnagio"
+          },
+          "coords": [
+            24.715615,
+            40.785295
+          ],
+          "category": "recreational",
+          "arrive_at": "13:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem felsigen Vorgebirge, wo eine kleine Kapelle auf das Meer trifft, ideal für einen Nachmittagskaffee und Fotos.",
+            "hu": "Pihenjen meg ezen a festői sziklás hegyfokon, ahol egy kis kápolna találkozik a tengerrel, tökéletes helyszínt biztosítva egy délutáni kávéhoz.",
+            "ro": "Relaxați-vă pe acest promontoriu stâncos pitoresc unde o mică capelă întâlnește marea, fiind locul perfect pentru o cafea și o sesiune foto.",
+            "en": "Relax at this scenic rocky promontory where a small chapel meets the sea, making it the perfect spot for an afternoon coffee and photo session."
+          }
+        },
+        {
+          "name": {
+            "de": "Aqua Beach Bar",
+            "hu": "Aqua Beach Bar",
+            "ro": "Aqua Beach Bar",
+            "en": "Aqua Beach Bar"
+          },
+          "coords": [
+            24.714585,
+            40.782734
+          ],
+          "category": "recreational",
+          "arrive_at": "14:41",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie ein erfrischendes Bad und einen Cocktail an diesem Strand, aber kommen Sie frühzeitig, um sich eine bequeme Sonnenliege zu sichern.",
+            "hu": "Élvezze a frissítő úszást és egy koktélt ezen a nyüzsgő strandon, de érkezzen korán, hogy kényelmes napágyat tudjon foglalni a víz közelében.",
+            "ro": "Bucurați-vă de o înot revigorant și un cocktail la acest bar pe plajă, dar ajungeți devreme pentru a vă asigura un șezlong confortabil lângă apă.",
+            "en": "Enjoy a refreshing swim and a cocktail at this vibrant beach spot, but arrive earlier in the day to secure a comfortable sunbed near the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Fahrradausflug entlang der Küste von Thassos vereint Kultur mit erfrischender Brise. Starten Sie an der ruhigen Demetriuskirche und radeln Sie zu den antiken Stätten des Stadtzentrums. Nach dem historischen Odeon führt der Weg zum antiken Handelshafen. Am Nachmittag lockt die herrliche Aussicht am malerischen Karnagio-Kap. Der Tag endet entspannt mit einem Cocktail und einem erfrischenden Bad in der Aqua Beach Bar.",
+        "hu": "Egy kerékpáros túra Thassos partjainál tökéletesen ötvözi a kultúrát a hűsítő tengeri szellővel. Induljon a békés Szent Demeter templomtól, majd fedezze fel az ókori Odeont és a Dionüszosz-szentélyt. A délután a kikötő történelmi múltjának megismerésével folytatódik az egykori kereskedelmi dokkoknál. Zárja a napot a festői Karnagio hegyfokán, majd élvezze a jól megérdemelt pihenést és fürdőzést az Aqua Beach Bar vibráló tengerpartján.",
+        "ro": "Un tur cu bicicleta pe coasta insulei Thassos combină perfect cultura cu briza mării. Începeți la liniștita biserică Sfântul Dimitrie și pedalați spre ruinele Odeonului. Traseul continuă spre fostul port comercial antic, plin de ecouri ale trecutului maritim. După-amiaza vă duce la pitorescul promontoriu Karnagio pentru priveliști excelente. Ziua se încheie relaxant la Aqua Beach Bar cu o baie răcoroasă în Marea Egee.",
+        "en": "A bike trip along the Thassos coast perfectly blends ancient history with the refreshing sea breeze. Start at the peaceful Saint Demetrius Church before cycling to the well-preserved Odeon and the Sanctuary of Dionysus. The afternoon takes you along the ancient commercial port, reflecting the island's maritime heritage. End your scenic ride at the picturesque Karnagio point, followed by a well-earned swim and sunset drinks at Aqua Beach Bar."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:41",
+      "total_km": 3.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Nisteri",
+            "hu": "Nisteri",
+            "ro": "Nisteri",
+            "en": "Νιστέρι"
+          },
+          "coords": [
+            24.684412,
+            40.780277
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entfliehen Sie in diese ruhige, von Pinien umgebene Bucht, um friedlich zu schwimmen, und bringen Sie Ihre Schnorchelausrüstung für das klare Wasser mit.",
+            "hu": "Meneküljön el ebbe a fenyőfákkal körülvett, csendes öbölbe egy békés úszásra, és hozzon magával búvárfelszerelést a kristálytiszta vizek miatt.",
+            "ro": "Evadați în acest golf liniștit înconjurat de pini pentru a înota în pace, aducându-vă propriul echipament de snorkeling pentru a explora apele clare.",
+            "en": "Escape to this lovely quiet bay surrounded by pine trees for some tranquil swimming, bringing your own snorkeling gear to explore the clear waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum von Thasos",
+            "hu": "Thassos Régészeti Múzeuma",
+            "ro": "Muzeul Arheologic din Thassos",
+            "en": "Archaeological Museum of Thasos"
+          },
+          "coords": [
+            24.711833,
+            40.779718
+          ],
+          "category": "museum",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposante Kouros-Statue und die beeindruckenden antiken Artefakte, und lesen Sie unbedingt die detaillierten englischen Schilder.",
+            "hu": "Csodálja meg az impozáns Kurosz szobrot és az ókori leleteket, és mindenképpen olvassa el az angol nyelvű információs táblákat a jobb megértésért.",
+            "ro": "Admirați statuia impunătoare a lui Kouros și artefactele antice impresionante și asigurați-vă că citiți plăcuțele informative pentru context.",
+            "en": "Admire the imposing Kouros statue and impressive ancient artifacts housed here, and be sure to read the detailed English placards for context."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal des Glaukos",
+            "hu": "Glaukosz emlékműve",
+            "ro": "Monumentul lui Glaukos",
+            "en": "Monument of Glaukos"
+          },
+          "coords": [
+            24.714079,
+            40.779874
+          ],
+          "category": "historical",
+          "arrive_at": "11:36",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ehren Sie das Andenken an den antiken General Glaukos an seinem Denkmal, einer kleinen, aber historisch bedeutsamen Stätte, die morgens toll wirkt.",
+            "hu": "Tisztelegjen az ókori Glaukosz tábornok emléke előtt ennél a kicsi, de történelmileg jelentős emlékműnél, amelyet a reggeli fényben érdemes fotózni.",
+            "ro": "Onorați memoria generalului antic Glaukos la monumentul său, un sit mic, dar semnificativ istoric, cel mai bine fotografiat în lumina dimineții.",
+            "en": "Honor the memory of the ancient general Glaukos at his memorial, a small yet historically significant site best photographed in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Antikes Theater von Thasos",
+            "hu": "Thassos ókori színháza",
+            "ro": "Teatrul Antic din Thassos",
+            "en": "Thassos Ancient Theatre"
+          },
+          "coords": [
+            24.717606,
+            40.782054
+          ],
+          "category": "cultural",
+          "arrive_at": "11:53",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesem hellenistischen Theater hinauf, nicht nur wegen seiner historischen Bühne, sondern auch für den atemberaubenden Meerblick.",
+            "hu": "Túrázzon fel ehhez a hellenisztikus színházhoz nemcsak a történelmi színpad, hanem a legfelső sorokból nyíló lélegzetelállító tengeri kilátás miatt is.",
+            "ro": "Urcați la acest teatru elenistic nu doar pentru scena sa istorică, ci și pentru priveliștile panoramice uluitoare asupra mării din rândurile de sus.",
+            "en": "Hike up to this Hellenistic theatre not only for its historical stage but also for the breathtaking panoramic sea views from the highest rows."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittelalterliche Festung von Thasos",
+            "hu": "Thassos középkori erődje",
+            "ro": "Fortăreața medievală din Thassos",
+            "en": "Medieval fortress of Thasos"
+          },
+          "coords": [
+            24.719928,
+            40.77843
+          ],
+          "category": "castle",
+          "arrive_at": "12:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Steigen Sie zu den Ruinen dieser genuesischen Burg hinauf, um eine faszinierende Mischung aus Architektur zu erleben, auch wenn der Weg steil ist.",
+            "hu": "Másszon fel ezen genovai vár romjaihoz a középkori és ókori építészet lenyűgöző keverékéért, bár az ösvény megtétele komoly állóképességet igényel.",
+            "ro": "Urcați la ruinele acestui castel genovez pentru un amestec fascinant de arhitectură medievală și antică, deși drumul necesită multă rezistență.",
+            "en": "Climb up to the ruins of this Genovese castle for a fascinating mix of medieval and ancient architecture, though the path requires good stamina."
+          }
+        },
+        {
+          "name": {
+            "de": "Akropolis von Thasos",
+            "hu": "Thassos Akropolisza",
+            "ro": "Acropola din Thassos",
+            "en": "Acropolis of Thasos"
+          },
+          "coords": [
+            24.718755,
+            40.777479
+          ],
+          "category": "landmark",
+          "arrive_at": "14:11",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bezwingen Sie den steilen Weg zur Akropolis, um antike Tempelruinen zu entdecken und sich mit dem spektakulärsten Sonnenuntergang zu belohnen.",
+            "hu": "Küzdje le az Akropoliszhoz vezető meredek utat az ókori templomromokért, és jutalmazza meg magát Limenas leglátványosabb naplementés panorámájával.",
+            "ro": "Cuceriti poteca abruptă spre Acropole pentru a descoperi ruine de temple antice și recompensați-vă cu cel mai spectaculos apus din orașul Limenas.",
+            "en": "Conquer the steep path to the Acropolis to discover ancient temple ruins and reward yourself with the most spectacular sunset vista in Limenas."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie die Umgebung von Limenas flexibel erkunden. Beginnen Sie entspannt am wunderschönen Strand von Nisteri. Danach tauchen wir im Archäologischen Museum tief in die Geschichte von Thassos ein. Der Nachmittag bringt uns zu den beeindruckenden Höhen des antiken Theaters und der mittelalterlichen Festung. Den krönenden Abschluss bildet die antike Akropolis, die einen unvergesslichen Blick über die gesamte Bucht bietet.",
+        "hu": "Autóval kényelmesen felfedezheti Limenas tágabb környezetét. Kezdje a napot a Nisteri strand nyugodt, fenyőkkel övezett vizénél. Ezután irány a központ, ahol a Régészeti Múzeum gazdag kiállítása várja. A délután folyamán felkapaszkodunk az ókori színház és a lenyűgöző középkori erőd romjaihoz. Az igazi csúcspontot az Akropolisz jelenti, amelynek lenyűgöző panorámája felejthetetlen lezárást ad ennek az utazásnak.",
+        "ro": "Cu mașina, puteți explora cu ușurință zonele mai largi din Limenas. Începeți relaxat pe plaja liniștită Nisteri, înconjurată de pini. Apoi, descoperiți comorile locale din Muzeul Arheologic din centrul orașului. După-amiaza urcați spre Teatrul Antic și explorați zidurile fascinante ale fortăreței medievale. Finalul vă recompensează cu o ascensiune la Acropole, unde orizontul Mării Egee oferă un spectacol vizual absolut extraordinar.",
+        "en": "Having a car allows you to explore the wider beauty around Limenas with ease. Start your morning with a tranquil swim at the pine-fringed Nisteri beach. Head back to town for a deep dive into local antiquity at the Archaeological Museum. In the afternoon, explore the heights of the Ancient Theatre and the sweeping walls of the medieval fortress. The ultimate reward is the Acropolis, offering a commanding view of the Thracian Sea."
+      }
+    }
+  }
+}

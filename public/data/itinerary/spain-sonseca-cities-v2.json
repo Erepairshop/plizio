@@ -1,0 +1,543 @@
+{
+  "city_id": "spain-sonseca-cities-v2",
+  "anchor": {
+    "name": "Sonseca",
+    "coords": [
+      -3.977608,
+      39.679792
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:54",
+      "total_km": 0.92,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ayuntamiento de Sonseca",
+            "hu": "Ayuntamiento de Sonseca",
+            "ro": "Ayuntamiento de Sonseca",
+            "en": "Ayuntamiento de Sonseca"
+          },
+          "coords": [
+            -3.97515,
+            39.675878
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur des Rathauses, um die lokale Geschichte zu verstehen, und suchen Sie das Stadtwappen, bevor Sie die angrenzenden Cafés besuchen.",
+            "hu": "Csodálja meg a városháza klasszikus építészetét, hogy megértse a helyi történelmet, és keresse meg a városi címert, mielőtt a szomszédos kávézókba látogatna.",
+            "ro": "Admirați arhitectura clasică a primăriei pentru a înțelege istoria locală și căutați stema municipală înainte de a verifica cafenelele din piața alăturată.",
+            "en": "Admire the classic architecture of the town hall to understand local history, and look for the municipal crest before checking the adjacent square for cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de las Cadenas",
+            "hu": "Casa de las Cadenas",
+            "ro": "Casa de las Cadenas",
+            "en": "Casa de las Cadenas"
+          },
+          "coords": [
+            -3.972599,
+            39.676895
+          ],
+          "category": "historical",
+          "arrive_at": "10:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese aristokratische Residenz, die für ihre historische Kettenfassade bekannt ist, aber bleiben Sie für das beste Weitwinkelfoto auf dem Bürgersteig.",
+            "hu": "Fedezze fel ezt az arisztokrata rezidenciát, amely a történelmi kiváltságokat jelképező láncos homlokzatáról ismert, de a legjobb fotóhoz maradjon a járdán.",
+            "ro": "Descoperiți această reședință aristocratică renumită pentru fațada sa cu lanțuri ce reprezintă un privilegiu istoric, dar rămâneți pe trotuar pentru cea mai bună fotografie.",
+            "en": "Discover this aristocratic residence known for its chained façade representing historic privilege, but remember to stay on the sidewalk for the best wide-angle photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Cervantes",
+            "hu": "Teatro Cervantes",
+            "ro": "Teatro Cervantes",
+            "en": "Teatro Cervantes"
+          },
+          "coords": [
+            -3.972872,
+            39.675808
+          ],
+          "category": "cultural",
+          "arrive_at": "11:56",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Erleben Sie die lokale Kulturszene in diesem charmanten Theater, das regionale Stücke aufführt, und kaufen Sie Tickets frühzeitig, falls Sie einen Abendbesuch planen.",
+            "hu": "Ismerje meg a helyi kulturális életet ebben a bájos színházban, és próbáljon meg korán jegyet venni, ha esti látogatást tervez.",
+            "ro": "Explorați scena culturală locală la acest teatru fermecător care găzduiește piese regionale și încercați să cumpărați biletele din timp pentru spectacolele de seară.",
+            "en": "Check out the local cultural scene at this charming theater which hosts regional plays, and try to buy tickets early if you plan an evening visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita del Cristo",
+            "hu": "Ermita del Cristo",
+            "ro": "Ermita del Cristo",
+            "en": "Ermita del Cristo"
+          },
+          "coords": [
+            -3.970658,
+            39.676932
+          ],
+          "category": "religious",
+          "arrive_at": "12:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Betreten Sie diese friedliche Einsiedelei, um die verehrte Christusfigur zu sehen, und respektieren Sie die ruhige Atmosphäre, indem Sie Ihr Telefon stummschalten.",
+            "hu": "Lépjen be ebbe a békés remetelakba, hogy megtekintse a tisztelt Krisztus-szobrot, és tisztelje a csendes légkört a telefonja némításával.",
+            "ro": "Intrați în acest schit pașnic pentru a vedea figura venerată a lui Hristos și respectați atmosfera liniștită oprind sunetul telefonului dumneavoastră.",
+            "en": "Step inside this peaceful hermitage to view the revered Christ figure, and respect the quiet atmosphere by turning off your phone's sound."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita Virgen de los Remedios",
+            "hu": "Ermita Virgen de los Remedios",
+            "ro": "Ermita Virgen de los Remedios",
+            "en": "Ermita Virgen de los Remedios"
+          },
+          "coords": [
+            -3.971091,
+            39.678568
+          ],
+          "category": "religious",
+          "arrive_at": "13:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses beliebte, der lokalen Schutzpatronin gewidmete Heiligtum, beachten Sie die Altardetails und tragen Sie beim Eintreten bescheidene Kleidung.",
+            "hu": "Látogassa meg ezt a helyi védőszentnek szentelt kedvelt szentélyt, figyelje meg az oltár részleteit, és belépéskor viseljen szerény ruházatot.",
+            "ro": "Vizitați acest sanctuar iubit dedicat patroanei locale, observând detaliile complicate ale altarului și purtați haine modeste la intrare.",
+            "en": "Visit this beloved sanctuary dedicated to the local patroness, noticing the intricate altar details, and wear modest clothing when entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditorio Nelson Mandela",
+            "hu": "Auditorio Nelson Mandela",
+            "ro": "Auditorio Nelson Mandela",
+            "en": "Auditorio Nelson Mandela"
+          },
+          "coords": [
+            -3.969678,
+            39.677747
+          ],
+          "category": "cultural",
+          "arrive_at": "14:24",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Schätzen Sie das moderne Design dieses zeitgenössischen Auditoriums für kulturelle Veranstaltungen und überprüfen Sie das schwarze Brett auf kommende Open-Air-Shows.",
+            "hu": "Értékelje a kulturális eseményeknek szentelt kortárs előadóterem modern kialakítását, és ellenőrizze a hirdetőtáblán a közelgő ingyenes szabadtéri műsorokat.",
+            "ro": "Apreciați designul modern al acestui auditoriu contemporan dedicat evenimentelor culturale și verificați panoul exterior pentru viitoarele spectacole în aer liber.",
+            "en": "Appreciate the modern design of this contemporary auditorium dedicated to cultural events, and check the notice board outside for upcoming free open-air shows."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung des historischen Kerns am berühmten Rathaus. Bewundern Sie mittags die Casa de las Cadenas und die regionale Kultur im Teatro Cervantes.\n\nEntdecken Sie am Nachmittag das spirituelle Herz von Sonseca durch seine Einsiedeleien.\n\nBeenden Sie Ihren Spaziergang am modernen Auditorio Nelson Mandela und reflektieren Sie die Stadtentwicklung.",
+        "hu": "Kezdje a reggelt a történelmi központ felfedezésével az ikonikus Városházánál. Délben csodálja meg a Casa de las Cadenas épületét és a Teatro Cervantes kulturális kínálatát.\n\nDélután fedezze fel Sonseca spirituális szívét a bájos remetelakokon keresztül.\n\nVégül fejezze be sétáját a modern Auditorio Nelson Mandela közelében, a város fejlődésén merengve.",
+        "ro": "Începeți dimineața explorând nucleul istoric, la emblematica Primărie. Până la prânz, admirați Casa de las Cadenas și bucurați-vă de cultura regională la Teatrul Cervantes.\n\nDupă-amiaza, descoperiți inima spirituală a orașului Sonseca prin schiturile sale fermecătoare.\n\nÎncheiați-vă plimbarea lângă modernul Auditoriu Nelson Mandela, reflectând asupra evoluției orașului.",
+        "en": "Start your morning exploring the historic core, starting with the iconic Town Hall. By midday, marvel at the stately Casa de las Cadenas and enjoy the regional culture at Teatro Cervantes.\n\nIn the afternoon, discover the spiritual heart of Sonseca through its charming hermitages.\n\nFinally, conclude your walk near the modern Auditorio Nelson Mandela, reflecting on the town's evolution."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:16",
+      "total_km": 2.95,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ermita de San Gregorio",
+            "hu": "Ermita de San Gregorio",
+            "ro": "Ermita de San Gregorio",
+            "en": "Ermita de San Gregorio"
+          },
+          "coords": [
+            -4.000527,
+            39.675496
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Reise an dieser bescheidenen ländlichen Kapelle vor der Landschaftskulisse und bringen Sie Wasser mit, da es keine Geschäfte in der Nähe gibt.",
+            "hu": "Kezdje útját ennél a tájba simuló szerény vidéki kápolnánál, és hozzon magával vizet, mivel nincsenek közvetlen boltok a közelben.",
+            "ro": "Începeți-vă călătoria la această capelă rurală modestă situată pe fundalul peisajului și aduceți apă, deoarece nu există magazine în apropiere.",
+            "en": "Start your journey at this modest rural chapel set against the landscape, and bring some water as there are no immediate shops nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita de la Virgen de la Salud",
+            "hu": "Ermita de la Virgen de la Salud",
+            "ro": "Ermita de la Virgen de la Salud",
+            "en": "Ermita de la Virgen de la Salud"
+          },
+          "coords": [
+            -3.983091,
+            39.673596
+          ],
+          "category": "religious",
+          "arrive_at": "09:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie das traditionelle Mauerwerk dieser auf Heilung ausgerichteten Einsiedelei am Stadtrand und kommen Sie morgens für das beste Licht.",
+            "hu": "Figyelje meg ennek a gyógyító témájú külvárosi remetelaknak a hagyományos téglafalazatát, és látogasson el a reggeli órákban a legjobb természetes fényviszonyokért.",
+            "ro": "Observați zidăria tradițională a acestui schit cu tematică vindecătoare de la periferie și vizitați în timpul orelor dimineții pentru cea mai bună lumină.",
+            "en": "Observe the traditional brickwork of this healing-themed hermitage on the town's outskirts, and visit during morning hours for the best natural lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Ayuntamiento de Sonseca",
+            "hu": "Ayuntamiento de Sonseca",
+            "ro": "Ayuntamiento de Sonseca",
+            "en": "Ayuntamiento de Sonseca"
+          },
+          "coords": [
+            -3.97515,
+            39.675878
+          ],
+          "category": "historical",
+          "arrive_at": "10:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur des Rathauses, um die lokale Geschichte zu verstehen, und suchen Sie das Stadtwappen, bevor Sie die angrenzenden Cafés besuchen.",
+            "hu": "Csodálja meg a városháza klasszikus építészetét, hogy megértse a helyi történelmet, és keresse meg a városi címert, mielőtt a szomszédos kávézókba látogatna.",
+            "ro": "Admirați arhitectura clasică a primăriei pentru a înțelege istoria locală și căutați stema municipală înainte de a verifica cafenelele din piața alăturată.",
+            "en": "Admire the classic architecture of the town hall to understand local history, and look for the municipal crest before checking the adjacent square for cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de las Cadenas",
+            "hu": "Casa de las Cadenas",
+            "ro": "Casa de las Cadenas",
+            "en": "Casa de las Cadenas"
+          },
+          "coords": [
+            -3.972599,
+            39.676895
+          ],
+          "category": "historical",
+          "arrive_at": "12:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese aristokratische Residenz, die für ihre historische Kettenfassade bekannt ist, aber bleiben Sie für das beste Weitwinkelfoto auf dem Bürgersteig.",
+            "hu": "Fedezze fel ezt az arisztokrata rezidenciát, amely a történelmi kiváltságokat jelképező láncos homlokzatáról ismert, de a legjobb fotóhoz maradjon a járdán.",
+            "ro": "Descoperiți această reședință aristocratică renumită pentru fațada sa cu lanțuri ce reprezintă un privilegiu istoric, dar rămâneți pe trotuar pentru cea mai bună fotografie.",
+            "en": "Discover this aristocratic residence known for its chained façade representing historic privilege, but remember to stay on the sidewalk for the best wide-angle photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita del Cristo",
+            "hu": "Ermita del Cristo",
+            "ro": "Ermita del Cristo",
+            "en": "Ermita del Cristo"
+          },
+          "coords": [
+            -3.970658,
+            39.676932
+          ],
+          "category": "religious",
+          "arrive_at": "13:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Betreten Sie diese friedliche Einsiedelei, um die verehrte Christusfigur zu sehen, und respektieren Sie die ruhige Atmosphäre, indem Sie Ihr Telefon stummschalten.",
+            "hu": "Lépjen be ebbe a békés remetelakba, hogy megtekintse a tisztelt Krisztus-szobrot, és tisztelje a csendes légkört a telefonja némításával.",
+            "ro": "Intrați în acest schit pașnic pentru a vedea figura venerată a lui Hristos și respectați atmosfera liniștită oprind sunetul telefonului dumneavoastră.",
+            "en": "Step inside this peaceful hermitage to view the revered Christ figure, and respect the quiet atmosphere by turning off your phone's sound."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita Virgen de los Remedios",
+            "hu": "Ermita Virgen de los Remedios",
+            "ro": "Ermita Virgen de los Remedios",
+            "en": "Ermita Virgen de los Remedios"
+          },
+          "coords": [
+            -3.971091,
+            39.678568
+          ],
+          "category": "religious",
+          "arrive_at": "14:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses beliebte, der lokalen Schutzpatronin gewidmete Heiligtum, beachten Sie die Altardetails und tragen Sie beim Eintreten bescheidene Kleidung.",
+            "hu": "Látogassa meg ezt a helyi védőszentnek szentelt kedvelt szentélyt, figyelje meg az oltár részleteit, és belépéskor viseljen szerény ruházatot.",
+            "ro": "Vizitați acest sanctuar iubit dedicat patroanei locale, observând detaliile complicate ale altarului și purtați haine modeste la intrare.",
+            "en": "Visit this beloved sanctuary dedicated to the local patroness, noticing the intricate altar details, and wear modest clothing when entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditorio Nelson Mandela",
+            "hu": "Auditorio Nelson Mandela",
+            "ro": "Auditorio Nelson Mandela",
+            "en": "Auditorio Nelson Mandela"
+          },
+          "coords": [
+            -3.969678,
+            39.677747
+          ],
+          "category": "cultural",
+          "arrive_at": "14:46",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Schätzen Sie das moderne Design dieses zeitgenössischen Auditoriums für kulturelle Veranstaltungen und überprüfen Sie das schwarze Brett auf kommende Open-Air-Shows.",
+            "hu": "Értékelje a kulturális eseményeknek szentelt kortárs előadóterem modern kialakítását, és ellenőrizze a hirdetőtáblán a közelgő ingyenes szabadtéri műsorokat.",
+            "ro": "Apreciați designul modern al acestui auditoriu contemporan dedicat evenimentelor culturale și verificați panoul exterior pentru viitoarele spectacole în aer liber.",
+            "en": "Appreciate the modern design of this contemporary auditorium dedicated to cultural events, and check the notice board outside for upcoming free open-air shows."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour früh an der friedlichen Ermita de San Gregorio an der frischen Luft. Fahren Sie in Richtung Stadt zur Virgen de la Salud, bevor Sie mittags das historische Zentrum erkunden.\n\nVerbringen Sie den Nachmittag damit, an architektonischen Juwelen und heiligen Einsiedeleien vorbeizugleiten.\n\nIhre Tour endet gegen Abend entspannt am modernen Auditorium.",
+        "hu": "Kezdje kerékpártúráját korán a békés Ermita de San Gregorio kápolnánál, élvezve a friss levegőt. Tekerjen a város felé a Virgen de la Salud-hoz, majd délben merüljön el a történelmi központban.\n\nDélután siklik el olyan építészeti gyöngyszemek mellett, mint a Casa de las Cadenas és a remetelakok.\n\nA túra kora este a modern előadóterem környékén ér véget.",
+        "ro": "Începeți plimbarea cu bicicleta devreme la pașnica Ermita de San Gregorio. Mergeți spre oraș pentru a vedea Virgen de la Salud înainte de a intra în centrul istoric la prânz.\n\nPetreceți după-amiaza trecând pe lângă bijuterii arhitecturale precum Casa de las Cadenas și schituri sacre.\n\nTurul se termină lin în jurul modernului auditoriu, odată cu lăsarea serii.",
+        "en": "Begin your bike ride early at the peaceful Ermita de San Gregorio, taking in the open air. Ride towards town to see the Virgen de la Salud before delving into the historical center at midday.\n\nSpend the afternoon gliding past architectural gems like Casa de las Cadenas and sacred hermitages.\n\nYour cycling tour ends smoothly around the modern auditorium as evening approaches."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 3.12,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Ermita de San Gregorio",
+            "hu": "Ermita de San Gregorio",
+            "ro": "Ermita de San Gregorio",
+            "en": "Ermita de San Gregorio"
+          },
+          "coords": [
+            -4.000527,
+            39.675496
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Reise an dieser bescheidenen ländlichen Kapelle vor der Landschaftskulisse und bringen Sie Wasser mit, da es keine Geschäfte in der Nähe gibt.",
+            "hu": "Kezdje útját ennél a tájba simuló szerény vidéki kápolnánál, és hozzon magával vizet, mivel nincsenek közvetlen boltok a közelben.",
+            "ro": "Începeți-vă călătoria la această capelă rurală modestă situată pe fundalul peisajului și aduceți apă, deoarece nu există magazine în apropiere.",
+            "en": "Start your journey at this modest rural chapel set against the landscape, and bring some water as there are no immediate shops nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita de la Virgen de la Salud",
+            "hu": "Ermita de la Virgen de la Salud",
+            "ro": "Ermita de la Virgen de la Salud",
+            "en": "Ermita de la Virgen de la Salud"
+          },
+          "coords": [
+            -3.983091,
+            39.673596
+          ],
+          "category": "religious",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie das traditionelle Mauerwerk dieser auf Heilung ausgerichteten Einsiedelei am Stadtrand und kommen Sie morgens für das beste Licht.",
+            "hu": "Figyelje meg ennek a gyógyító témájú külvárosi remetelaknak a hagyományos téglafalazatát, és látogasson el a reggeli órákban a legjobb természetes fényviszonyokért.",
+            "ro": "Observați zidăria tradițională a acestui schit cu tematică vindecătoare de la periferie și vizitați în timpul orelor dimineții pentru cea mai bună lumină.",
+            "en": "Observe the traditional brickwork of this healing-themed hermitage on the town's outskirts, and visit during morning hours for the best natural lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Ayuntamiento de Sonseca",
+            "hu": "Ayuntamiento de Sonseca",
+            "ro": "Ayuntamiento de Sonseca",
+            "en": "Ayuntamiento de Sonseca"
+          },
+          "coords": [
+            -3.97515,
+            39.675878
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur des Rathauses, um die lokale Geschichte zu verstehen, und suchen Sie das Stadtwappen, bevor Sie die angrenzenden Cafés besuchen.",
+            "hu": "Csodálja meg a városháza klasszikus építészetét, hogy megértse a helyi történelmet, és keresse meg a városi címert, mielőtt a szomszédos kávézókba látogatna.",
+            "ro": "Admirați arhitectura clasică a primăriei pentru a înțelege istoria locală și căutați stema municipală înainte de a verifica cafenelele din piața alăturată.",
+            "en": "Admire the classic architecture of the town hall to understand local history, and look for the municipal crest before checking the adjacent square for cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de las Cadenas",
+            "hu": "Casa de las Cadenas",
+            "ro": "Casa de las Cadenas",
+            "en": "Casa de las Cadenas"
+          },
+          "coords": [
+            -3.972599,
+            39.676895
+          ],
+          "category": "historical",
+          "arrive_at": "11:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese aristokratische Residenz, die für ihre historische Kettenfassade bekannt ist, aber bleiben Sie für das beste Weitwinkelfoto auf dem Bürgersteig.",
+            "hu": "Fedezze fel ezt az arisztokrata rezidenciát, amely a történelmi kiváltságokat jelképező láncos homlokzatáról ismert, de a legjobb fotóhoz maradjon a járdán.",
+            "ro": "Descoperiți această reședință aristocratică renumită pentru fațada sa cu lanțuri ce reprezintă un privilegiu istoric, dar rămâneți pe trotuar pentru cea mai bună fotografie.",
+            "en": "Discover this aristocratic residence known for its chained façade representing historic privilege, but remember to stay on the sidewalk for the best wide-angle photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Cervantes",
+            "hu": "Teatro Cervantes",
+            "ro": "Teatro Cervantes",
+            "en": "Teatro Cervantes"
+          },
+          "coords": [
+            -3.972872,
+            39.675808
+          ],
+          "category": "cultural",
+          "arrive_at": "13:17",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Erleben Sie die lokale Kulturszene in diesem charmanten Theater, das regionale Stücke aufführt, und kaufen Sie Tickets frühzeitig, falls Sie einen Abendbesuch planen.",
+            "hu": "Ismerje meg a helyi kulturális életet ebben a bájos színházban, és próbáljon meg korán jegyet venni, ha esti látogatást tervez.",
+            "ro": "Explorați scena culturală locală la acest teatru fermecător care găzduiește piese regionale și încercați să cumpărați biletele din timp pentru spectacolele de seară.",
+            "en": "Check out the local cultural scene at this charming theater which hosts regional plays, and try to buy tickets early if you plan an evening visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita del Cristo",
+            "hu": "Ermita del Cristo",
+            "ro": "Ermita del Cristo",
+            "en": "Ermita del Cristo"
+          },
+          "coords": [
+            -3.970658,
+            39.676932
+          ],
+          "category": "religious",
+          "arrive_at": "14:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Betreten Sie diese friedliche Einsiedelei, um die verehrte Christusfigur zu sehen, und respektieren Sie die ruhige Atmosphäre, indem Sie Ihr Telefon stummschalten.",
+            "hu": "Lépjen be ebbe a békés remetelakba, hogy megtekintse a tisztelt Krisztus-szobrot, és tisztelje a csendes légkört a telefonja némításával.",
+            "ro": "Intrați în acest schit pașnic pentru a vedea figura venerată a lui Hristos și respectați atmosfera liniștită oprind sunetul telefonului dumneavoastră.",
+            "en": "Step inside this peaceful hermitage to view the revered Christ figure, and respect the quiet atmosphere by turning off your phone's sound."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita Virgen de los Remedios",
+            "hu": "Ermita Virgen de los Remedios",
+            "ro": "Ermita Virgen de los Remedios",
+            "en": "Ermita Virgen de los Remedios"
+          },
+          "coords": [
+            -3.971091,
+            39.678568
+          ],
+          "category": "religious",
+          "arrive_at": "14:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses beliebte, der lokalen Schutzpatronin gewidmete Heiligtum, beachten Sie die Altardetails und tragen Sie beim Eintreten bescheidene Kleidung.",
+            "hu": "Látogassa meg ezt a helyi védőszentnek szentelt kedvelt szentélyt, figyelje meg az oltár részleteit, és belépéskor viseljen szerény ruházatot.",
+            "ro": "Vizitați acest sanctuar iubit dedicat patroanei locale, observând detaliile complicate ale altarului și purtați haine modeste la intrare.",
+            "en": "Visit this beloved sanctuary dedicated to the local patroness, noticing the intricate altar details, and wear modest clothing when entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditorio Nelson Mandela",
+            "hu": "Auditorio Nelson Mandela",
+            "ro": "Auditorio Nelson Mandela",
+            "en": "Auditorio Nelson Mandela"
+          },
+          "coords": [
+            -3.969678,
+            39.677747
+          ],
+          "category": "cultural",
+          "arrive_at": "15:40",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Schätzen Sie das moderne Design dieses zeitgenössischen Auditoriums für kulturelle Veranstaltungen und überprüfen Sie das schwarze Brett auf kommende Open-Air-Shows.",
+            "hu": "Értékelje a kulturális eseményeknek szentelt kortárs előadóterem modern kialakítását, és ellenőrizze a hirdetőtáblán a közelgő ingyenes szabadtéri műsorokat.",
+            "ro": "Apreciați designul modern al acestui auditoriu contemporan dedicat evenimentelor culturale și verificați panoul exterior pentru viitoarele spectacole în aer liber.",
+            "en": "Appreciate the modern design of this contemporary auditorium dedicated to cultural events, and check the notice board outside for upcoming free open-air shows."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine morgendliche Fahrt verbindet mühelos die entfernten Einsiedeleien San Gregorio und Virgen de la Salud. Parken Sie mittags im Zentrum, um das historische Rathaus und die Casa de las Cadenas zu entdecken.\n\nDer Nachmittag bietet schnelle Stopps an den spirituellen Heiligtümern der Stadt.\n\nBeenden Sie Ihren umfassenden Roadtrip am modernen kulturellen Auditorium.",
+        "hu": "A reggeli autózás könnyen összeköti a távoli remetelakokat, kezdve a San Gregorio és a Virgen de la Salud kápolnákkal. Délben parkoljon le a központban a Városháza és a Casa de las Cadenas felfedezéséhez.\n\nA délután gyors megállókat tesz lehetővé a város spirituális szentélyeinél és a színháznál.\n\nFejezze be az átfogó autós kirándulást a modern kulturális előadóteremnél.",
+        "ro": "O plimbare matinală cu mașina conectează ușor schiturile îndepărtate, începând cu San Gregorio. La prânz, parcați în centru pentru a descoperi Primăria istorică și Casa de las Cadenas.\n\nDupă-amiaza permite opriri rapide la sanctuarele spirituale ale orașului și la teatrul local.\n\nÎncheiați călătoria dumneavoastră cuprinzătoare la modernul auditoriu cultural.",
+        "en": "A morning drive easily connects the distant hermitages, starting with San Gregorio and Virgen de la Salud. By midday, park in the center to discover the historical Town Hall and the aristocratic Casa de las Cadenas.\n\nThe afternoon allows for quick stops at the town's spiritual sanctuaries and the local theater.\n\nWrap up your comprehensive road trip at the modern cultural auditorium."
+      }
+    }
+  }
+}

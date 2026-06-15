@@ -1,0 +1,534 @@
+{
+  "city_id": "saint-nom-la-breteche",
+  "anchor": {
+    "name": "Saint-Nom-la-Bretèche",
+    "coords": [
+      2.0211,
+      48.8597
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:38",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Nom Church",
+            "hu": "Saint-Nom Church",
+            "ro": "Saint-Nom Church",
+            "en": "Saint-Nom Church"
+          },
+          "coords": [
+            2.020524,
+            48.864101
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die zeitlose Architektur dieser ruhigen Kirche, das spirituelle Herz des Dorfes, und achten Sie auf dem Aushang auf saisonale Konzerte.",
+            "hu": "Csodálja meg a falu spirituális központjának számító békés templom időtlen építészetét, és keresse a helyi hirdetőtáblán a szezonális koncerteket.",
+            "ro": "Admirați arhitectura atemporală a acestei biserici liniștite, inima spirituală a satului, și verificați panoul local pentru concertele comunitare sezoniere.",
+            "en": "Admire the timeless architecture of this serene church, a spiritual heart of the village, and check the local board for seasonal community concerts."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Bretèche",
+            "hu": "Château de la Bretèche",
+            "ro": "Château de la Bretèche",
+            "en": "Château de la Bretèche"
+          },
+          "coords": [
+            2.0297,
+            48.8651
+          ],
+          "category": "historical",
+          "arrive_at": "10:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die majestätische Fassade dieses historischen Schlosses, das die adelige Vergangenheit der Region prägt, und bringen Sie ein Zoomobjektiv mit.",
+            "hu": "Csodálja meg a régió nemesi múltját meghatározó történelmi kastély fenséges homlokzatát, és hozzon teleobjektívet, hogy az útról is megörökíthesse a részleteket.",
+            "ro": "Minunați-vă de fațada maiestuoasă a acestui castel istoric ce definește trecutul nobil al regiunii și aduceți un teleobiectiv pentru a surprinde detaliile de la drum.",
+            "en": "Marvel at the majestic facade of this historical chateau that defines the region's noble past, and bring a zoom lens to capture its intricate stonework from the road."
+          }
+        },
+        {
+          "name": {
+            "de": "La Croix Saint-Michel",
+            "hu": "La Croix Saint-Michel",
+            "ro": "La Croix Saint-Michel",
+            "en": "La Croix Saint-Michel"
+          },
+          "coords": [
+            2.042226,
+            48.869748
+          ],
+          "category": "natural",
+          "arrive_at": "11:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Machen Sie einen ruhigen Spaziergang zu diesem historischen, von Natur umgebenen Steinkreuz und tragen Sie festes Schuhwerk für die unbefestigten Wege.",
+            "hu": "Tegyen egy békés sétát ehhez a természet ölelte történelmi kőkereszthez egy pillanatnyi elmélkedésre, és viseljen túracipőt a burkolatlan ösvények miatt.",
+            "ro": "Faceți o plimbare liniștită spre această cruce istorică din piatră înconjurată de natură, ideală pentru reflecție, și purtați încălțăminte robustă pentru poteci.",
+            "en": "Take a peaceful stroll to this historic stone cross surrounded by nature, perfect for a moment of quiet reflection, and wear sturdy shoes for the unpaved paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte de la Tuilerie, dite Pavillon de l'Arènes",
+            "hu": "Porte de la Tuilerie, dite Pavillon de l'Arènes",
+            "ro": "Porte de la Tuilerie, dite Pavillon de l'Arènes",
+            "en": "Porte de la Tuilerie, dite Pavillon de l'Arènes"
+          },
+          "coords": [
+            2.03435,
+            48.857184
+          ],
+          "category": "historical",
+          "arrive_at": "13:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die architektonische Eleganz dieses historischen Pavillons und besuchen Sie ihn am frühen Nachmittag, um das beste natürliche Licht einzufangen.",
+            "hu": "Fedezze fel a közeli királyi birtokok nagyszerűségét idéző történelmi pavilon építészeti eleganciáját, és érkezzen kora délután a legjobb természetes fényért.",
+            "ro": "Descoperiți eleganța arhitecturală a acestui pavilion istoric care amintește de măreția domeniilor regale și vizitați-l după-amiaza devreme pentru lumina ideală.",
+            "en": "Discover the architectural elegance of this historical pavilion that echoes the grandeur of nearby royal estates, and visit early afternoon for the best natural lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Nom-la-Bretèche Golf Club",
+            "hu": "Saint-Nom-la-Bretèche Golf Club",
+            "ro": "Saint-Nom-la-Bretèche Golf Club",
+            "en": "Saint-Nom-la-Bretèche Golf Club"
+          },
+          "coords": [
+            2.021088,
+            48.855632
+          ],
+          "category": "recreational",
+          "arrive_at": "14:53",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die saftigen Fairways dieses renommierten Golfclubs und entspannen Sie bei einem Kaffee auf der Terrasse des Clubhauses mit Blick auf die Grüns.",
+            "hu": "Tapasztalja meg a nemzetközi versenyekről ismert rangos golfklub zöldellő pályáit, és pihenjen meg egy kávéval a klubház teraszán a pázsitra tekintve.",
+            "ro": "Experimentați terenurile luxuriante ale acestui club de golf prestigios și relaxați-vă cu o cafea pe terasa clubului care oferă vedere la spațiile verzi.",
+            "en": "Experience the lush fairways of this prestigious golf club known for international tournaments, and relax with a coffee at the clubhouse terrace overlooking the greens."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": {
+          "morning": "Beginnen Sie Ihren Tag in der ruhigen Dorfatmosphäre und erkunden Sie die spirituellen Wahrzeichen, die eine friedliche Stimmung für das Abenteuer schaffen.",
+          "midday": "Tauchen Sie in die reiche adelige Vergangenheit der Region ein und bestaunen Sie historische Schlösser sowie alte Jagdgründe der französischen Könige.",
+          "afternoon": "Nehmen Sie sich Zeit für die Natur, spazieren Sie an historischen Denkmälern vorbei, die zwischen Bäumen versteckt sind, und genießen Sie die Ruhe.",
+          "evening": "Beenden Sie Ihre Reise mit einem entspannenden Besuch im bekannten Golfclub oder einer gemütlichen Fahrt über die majestätischen Ebenen im Abendlicht."
+        },
+        "hu": {
+          "morning": "Kezdje a napot a csendes falu atmoszférájának elmerülésével, felfedezve azokat a spirituális nevezetességeket, amelyek megadják a kaland békés alaphangját.",
+          "midday": "Merüljön el a régió gazdag nemesi múltjában, megcsodálva a történelmi kastélyokat és az ősi vadászterületeket, ahol egykor a francia királyok is időztek.",
+          "afternoon": "Szakítson időt a természettel való kapcsolatra, sétáljon el a fák között megbúvó történelmi műemlékek mellett, és tapasztalja meg a békés tájat.",
+          "evening": "Zárja utazását egy pihentető látogatással a híres helyi golfklubban, vagy egy kényelmes autózással a fenséges síkságokon, visszagondolva a napra."
+        },
+        "ro": {
+          "morning": "Începeți ziua cufundându-vă în atmosfera liniștită a satului, explorând reperele sale spirituale care stabilesc un ton pașnic pentru aventura ce urmează.",
+          "midday": "Aprofundați trecutul nobil și bogat al regiunii, admirând castelele istorice și vechile terenuri de vânătoare unde regalitatea franceză își petrecea timpul.",
+          "afternoon": "Faceți-vă timp pentru a vă conecta cu natura, plimbându-vă pe lângă monumentele istorice ascunse printre copaci și experimentând peisajele verzi și calme.",
+          "evening": "Încheiați călătoria cu o vizită relaxantă la renumitul club de golf local sau cu o plimbare pe câmpiile maiestuoase, reflectând asupra descoperirilor zilei."
+        },
+        "en": {
+          "morning": "Begin your day by immersing yourself in the quiet village atmosphere, exploring its spiritual landmarks that set a peaceful tone for the adventure ahead.",
+          "midday": "Delve into the region's rich noble past, marveling at historical chateaus and ancient hunting grounds where French royalty once spent their leisure time.",
+          "afternoon": "Take time to connect with nature, strolling past historic monuments hidden among the trees and experiencing the calm, green landscapes of the area.",
+          "evening": "End your journey with a relaxing visit to the renowned local golf club or a leisurely drive across the majestic plains, reflecting on the day's discoveries."
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:19",
+      "total_km": 6.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Nom Church",
+            "hu": "Saint-Nom Church",
+            "ro": "Saint-Nom Church",
+            "en": "Saint-Nom Church"
+          },
+          "coords": [
+            2.020524,
+            48.864101
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die zeitlose Architektur dieser ruhigen Kirche, das spirituelle Herz des Dorfes, und achten Sie auf dem Aushang auf saisonale Konzerte.",
+            "hu": "Csodálja meg a falu spirituális központjának számító békés templom időtlen építészetét, és keresse a helyi hirdetőtáblán a szezonális koncerteket.",
+            "ro": "Admirați arhitectura atemporală a acestei biserici liniștite, inima spirituală a satului, și verificați panoul local pentru concertele comunitare sezoniere.",
+            "en": "Admire the timeless architecture of this serene church, a spiritual heart of the village, and check the local board for seasonal community concerts."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Bretèche",
+            "hu": "Château de la Bretèche",
+            "ro": "Château de la Bretèche",
+            "en": "Château de la Bretèche"
+          },
+          "coords": [
+            2.0297,
+            48.8651
+          ],
+          "category": "historical",
+          "arrive_at": "09:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die majestätische Fassade dieses historischen Schlosses, das die adelige Vergangenheit der Region prägt, und bringen Sie ein Zoomobjektiv mit.",
+            "hu": "Csodálja meg a régió nemesi múltját meghatározó történelmi kastély fenséges homlokzatát, és hozzon teleobjektívet, hogy az útról is megörökíthesse a részleteket.",
+            "ro": "Minunați-vă de fațada maiestuoasă a acestui castel istoric ce definește trecutul nobil al regiunii și aduceți un teleobiectiv pentru a surprinde detaliile de la drum.",
+            "en": "Marvel at the majestic facade of this historical chateau that defines the region's noble past, and bring a zoom lens to capture its intricate stonework from the road."
+          }
+        },
+        {
+          "name": {
+            "de": "Table de vénerie",
+            "hu": "Table de vénerie",
+            "ro": "Table de vénerie",
+            "en": "Table de vénerie"
+          },
+          "coords": [
+            2.038759,
+            48.879602
+          ],
+          "category": "landmark",
+          "arrive_at": "11:24",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses faszinierende Jagddenkmal, an dem sich einst königliche Gesellschaften versammelten, und lesen Sie die Informationstafel für weitere Details.",
+            "hu": "Fedezze fel ezt a lenyűgöző vadászati emlékművet, ahol egykor királyi társaságok gyülekeztek, és olvassa el az információs táblát a történelmi jelentőségért.",
+            "ro": "Descoperiți acest monument de vânătoare fascinant unde se adunau odată grupuri regale și citiți placa informativă pentru a-i înțelege semnificația istorică.",
+            "en": "Uncover this fascinating hunting landmark where royal parties once gathered, and read the nearby informational plaque to fully grasp its historical significance."
+          }
+        },
+        {
+          "name": {
+            "de": "La Croix Saint-Michel",
+            "hu": "La Croix Saint-Michel",
+            "ro": "La Croix Saint-Michel",
+            "en": "La Croix Saint-Michel"
+          },
+          "coords": [
+            2.042226,
+            48.869748
+          ],
+          "category": "natural",
+          "arrive_at": "11:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Machen Sie einen ruhigen Spaziergang zu diesem historischen, von Natur umgebenen Steinkreuz und tragen Sie festes Schuhwerk für die unbefestigten Wege.",
+            "hu": "Tegyen egy békés sétát ehhez a természet ölelte történelmi kőkereszthez egy pillanatnyi elmélkedésre, és viseljen túracipőt a burkolatlan ösvények miatt.",
+            "ro": "Faceți o plimbare liniștită spre această cruce istorică din piatră înconjurată de natură, ideală pentru reflecție, și purtați încălțăminte robustă pentru poteci.",
+            "en": "Take a peaceful stroll to this historic stone cross surrounded by nature, perfect for a moment of quiet reflection, and wear sturdy shoes for the unpaved paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte de la Tuilerie, dite Pavillon de l'Arènes",
+            "hu": "Porte de la Tuilerie, dite Pavillon de l'Arènes",
+            "ro": "Porte de la Tuilerie, dite Pavillon de l'Arènes",
+            "en": "Porte de la Tuilerie, dite Pavillon de l'Arènes"
+          },
+          "coords": [
+            2.03435,
+            48.857184
+          ],
+          "category": "historical",
+          "arrive_at": "13:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die architektonische Eleganz dieses historischen Pavillons und besuchen Sie ihn am frühen Nachmittag, um das beste natürliche Licht einzufangen.",
+            "hu": "Fedezze fel a közeli királyi birtokok nagyszerűségét idéző történelmi pavilon építészeti eleganciáját, és érkezzen kora délután a legjobb természetes fényért.",
+            "ro": "Descoperiți eleganța arhitecturală a acestui pavilion istoric care amintește de măreția domeniilor regale și vizitați-l după-amiaza devreme pentru lumina ideală.",
+            "en": "Discover the architectural elegance of this historical pavilion that echoes the grandeur of nearby royal estates, and visit early afternoon for the best natural lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Nom-la-Bretèche Golf Club",
+            "hu": "Saint-Nom-la-Bretèche Golf Club",
+            "ro": "Saint-Nom-la-Bretèche Golf Club",
+            "en": "Saint-Nom-la-Bretèche Golf Club"
+          },
+          "coords": [
+            2.021088,
+            48.855632
+          ],
+          "category": "recreational",
+          "arrive_at": "14:34",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die saftigen Fairways dieses renommierten Golfclubs und entspannen Sie bei einem Kaffee auf der Terrasse des Clubhauses mit Blick auf die Grüns.",
+            "hu": "Tapasztalja meg a nemzetközi versenyekről ismert rangos golfklub zöldellő pályáit, és pihenjen meg egy kávéval a klubház teraszán a pázsitra tekintve.",
+            "ro": "Experimentați terenurile luxuriante ale acestui club de golf prestigios și relaxați-vă cu o cafea pe terasa clubului care oferă vedere la spațiile verzi.",
+            "en": "Experience the lush fairways of this prestigious golf club known for international tournaments, and relax with a coffee at the clubhouse terrace overlooking the greens."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": {
+          "morning": "Beginnen Sie Ihren Tag in der ruhigen Dorfatmosphäre und erkunden Sie die spirituellen Wahrzeichen, die eine friedliche Stimmung für das Abenteuer schaffen.",
+          "midday": "Tauchen Sie in die reiche adelige Vergangenheit der Region ein und bestaunen Sie historische Schlösser sowie alte Jagdgründe der französischen Könige.",
+          "afternoon": "Nehmen Sie sich Zeit für die Natur, spazieren Sie an historischen Denkmälern vorbei, die zwischen Bäumen versteckt sind, und genießen Sie die Ruhe.",
+          "evening": "Beenden Sie Ihre Reise mit einem entspannenden Besuch im bekannten Golfclub oder einer gemütlichen Fahrt über die majestätischen Ebenen im Abendlicht."
+        },
+        "hu": {
+          "morning": "Kezdje a napot a csendes falu atmoszférájának elmerülésével, felfedezve azokat a spirituális nevezetességeket, amelyek megadják a kaland békés alaphangját.",
+          "midday": "Merüljön el a régió gazdag nemesi múltjában, megcsodálva a történelmi kastélyokat és az ősi vadászterületeket, ahol egykor a francia királyok is időztek.",
+          "afternoon": "Szakítson időt a természettel való kapcsolatra, sétáljon el a fák között megbúvó történelmi műemlékek mellett, és tapasztalja meg a békés tájat.",
+          "evening": "Zárja utazását egy pihentető látogatással a híres helyi golfklubban, vagy egy kényelmes autózással a fenséges síkságokon, visszagondolva a napra."
+        },
+        "ro": {
+          "morning": "Începeți ziua cufundându-vă în atmosfera liniștită a satului, explorând reperele sale spirituale care stabilesc un ton pașnic pentru aventura ce urmează.",
+          "midday": "Aprofundați trecutul nobil și bogat al regiunii, admirând castelele istorice și vechile terenuri de vânătoare unde regalitatea franceză își petrecea timpul.",
+          "afternoon": "Faceți-vă timp pentru a vă conecta cu natura, plimbându-vă pe lângă monumentele istorice ascunse printre copaci și experimentând peisajele verzi și calme.",
+          "evening": "Încheiați călătoria cu o vizită relaxantă la renumitul club de golf local sau cu o plimbare pe câmpiile maiestuoase, reflectând asupra descoperirilor zilei."
+        },
+        "en": {
+          "morning": "Begin your day by immersing yourself in the quiet village atmosphere, exploring its spiritual landmarks that set a peaceful tone for the adventure ahead.",
+          "midday": "Delve into the region's rich noble past, marveling at historical chateaus and ancient hunting grounds where French royalty once spent their leisure time.",
+          "afternoon": "Take time to connect with nature, strolling past historic monuments hidden among the trees and experiencing the calm, green landscapes of the area.",
+          "evening": "End your journey with a relaxing visit to the renowned local golf club or a leisurely drive across the majestic plains, reflecting on the day's discoveries."
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:08",
+      "total_km": 18.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            1.986811,
+            48.853997
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die stille Schönheit dieser alten Kirche als Zeugnis des lokalen Erbes und treten Sie ein, um die fein gearbeiteten Buntglasfenster zu bewundern.",
+            "hu": "Fedezze fel a helyi örökség bizonyítékaként álló ősi templom csendes szépségét, és lépjen be, hogy megcsodálja a finoman kidolgozott ólomüveg ablakokat.",
+            "ro": "Explorați frumusețea liniștită a acestei biserici antice, o dovadă a patrimoniului local, și intrați pentru a admira vitraliile fin lucrate.",
+            "en": "Explore the quiet beauty of this ancient church standing as a testament to local heritage, and step inside to admire the finely crafted stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Nom Church",
+            "hu": "Saint-Nom Church",
+            "ro": "Saint-Nom Church",
+            "en": "Saint-Nom Church"
+          },
+          "coords": [
+            2.020524,
+            48.864101
+          ],
+          "category": "religious",
+          "arrive_at": "09:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die zeitlose Architektur dieser ruhigen Kirche, das spirituelle Herz des Dorfes, und achten Sie auf dem Aushang auf saisonale Konzerte.",
+            "hu": "Csodálja meg a falu spirituális központjának számító békés templom időtlen építészetét, és keresse a helyi hirdetőtáblán a szezonális koncerteket.",
+            "ro": "Admirați arhitectura atemporală a acestei biserici liniștite, inima spirituală a satului, și verificați panoul local pentru concertele comunitare sezoniere.",
+            "en": "Admire the timeless architecture of this serene church, a spiritual heart of the village, and check the local board for seasonal community concerts."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Bretèche",
+            "hu": "Château de la Bretèche",
+            "ro": "Château de la Bretèche",
+            "en": "Château de la Bretèche"
+          },
+          "coords": [
+            2.0297,
+            48.8651
+          ],
+          "category": "historical",
+          "arrive_at": "10:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die majestätische Fassade dieses historischen Schlosses, das die adelige Vergangenheit der Region prägt, und bringen Sie ein Zoomobjektiv mit.",
+            "hu": "Csodálja meg a régió nemesi múltját meghatározó történelmi kastély fenséges homlokzatát, és hozzon teleobjektívet, hogy az útról is megörökíthesse a részleteket.",
+            "ro": "Minunați-vă de fațada maiestuoasă a acestui castel istoric ce definește trecutul nobil al regiunii și aduceți un teleobiectiv pentru a surprinde detaliile de la drum.",
+            "en": "Marvel at the majestic facade of this historical chateau that defines the region's noble past, and bring a zoom lens to capture its intricate stonework from the road."
+          }
+        },
+        {
+          "name": {
+            "de": "Vestiges du Château de Retz",
+            "hu": "Vestiges du Château de Retz",
+            "ro": "Vestiges du Château de Retz",
+            "en": "Vestiges du Château de Retz"
+          },
+          "coords": [
+            2.010274,
+            48.884859
+          ],
+          "category": "historical",
+          "arrive_at": "12:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die stimmungsvollen Ruinen dieses einstigen großen Schlosses und bringen Sie in den feuchten Sommermonaten unbedingt Mückenspray mit.",
+            "hu": "Sétáljon végig a tájba simuló egykori nagyszerű kastély hangulatos romjain, és hozzon magával szúnyogriasztót, ha a párás nyári hónapokban fedezi fel.",
+            "ro": "Plimbați-vă printre ruinele evocatoare ale acestui fost mare castel ascuns în peisaj și aduceți spray împotriva țânțarilor dacă explorați vara.",
+            "en": "Wander through the evocative ruins of this once-great castle hidden in the landscape, and bring mosquito repellent if exploring during the humid summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Table de vénerie",
+            "hu": "Table de vénerie",
+            "ro": "Table de vénerie",
+            "en": "Table de vénerie"
+          },
+          "coords": [
+            2.038759,
+            48.879602
+          ],
+          "category": "landmark",
+          "arrive_at": "13:29",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses faszinierende Jagddenkmal, an dem sich einst königliche Gesellschaften versammelten, und lesen Sie die Informationstafel für weitere Details.",
+            "hu": "Fedezze fel ezt a lenyűgöző vadászati emlékművet, ahol egykor királyi társaságok gyülekeztek, és olvassa el az információs táblát a történelmi jelentőségért.",
+            "ro": "Descoperiți acest monument de vânătoare fascinant unde se adunau odată grupuri regale și citiți placa informativă pentru a-i înțelege semnificația istorică.",
+            "en": "Uncover this fascinating hunting landmark where royal parties once gathered, and read the nearby informational plaque to fully grasp its historical significance."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte de la Tuilerie, dite Pavillon de l'Arènes",
+            "hu": "Porte de la Tuilerie, dite Pavillon de l'Arènes",
+            "ro": "Porte de la Tuilerie, dite Pavillon de l'Arènes",
+            "en": "Porte de la Tuilerie, dite Pavillon de l'Arènes"
+          },
+          "coords": [
+            2.03435,
+            48.857184
+          ],
+          "category": "historical",
+          "arrive_at": "13:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die architektonische Eleganz dieses historischen Pavillons und besuchen Sie ihn am frühen Nachmittag, um das beste natürliche Licht einzufangen.",
+            "hu": "Fedezze fel a közeli királyi birtokok nagyszerűségét idéző történelmi pavilon építészeti eleganciáját, és érkezzen kora délután a legjobb természetes fényért.",
+            "ro": "Descoperiți eleganța arhitecturală a acestui pavilion istoric care amintește de măreția domeniilor regale și vizitați-l după-amiaza devreme pentru lumina ideală.",
+            "en": "Discover the architectural elegance of this historical pavilion that echoes the grandeur of nearby royal estates, and visit early afternoon for the best natural lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Plain of Versailles",
+            "hu": "Plain of Versailles",
+            "ro": "Plain of Versailles",
+            "en": "Plain of Versailles"
+          },
+          "coords": [
+            2.106164,
+            48.836593
+          ],
+          "category": "natural",
+          "arrive_at": "15:23",
+          "stay_min": 105,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die weiten Landschaften der Ebene, die die historische Region perfekt umrahmen, und mieten Sie ein Fahrrad, um die malerischen Wege zu erkunden.",
+            "hu": "Merüljön el a történelmi régiót tökéletesen keretező síkság hatalmas, nyitott tájaiban, és béreljen a közelben kerékpárt a festői ösvények bejárásához.",
+            "ro": "Cufundați-vă în peisajele vaste și deschise ale câmpiei care încadrează regiunea și închiriați o bicicletă din apropiere pentru a parcurge traseele pitorești.",
+            "en": "Immerse yourself in the vast, open landscapes of the plain that perfectly frame the historic region, and rent a bicycle nearby to cover more of the scenic trails."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": {
+          "morning": "Beginnen Sie Ihren Tag in der ruhigen Dorfatmosphäre und erkunden Sie die spirituellen Wahrzeichen, die eine friedliche Stimmung für das Abenteuer schaffen.",
+          "midday": "Tauchen Sie in die reiche adelige Vergangenheit der Region ein und bestaunen Sie historische Schlösser sowie alte Jagdgründe der französischen Könige.",
+          "afternoon": "Nehmen Sie sich Zeit für die Natur, spazieren Sie an historischen Denkmälern vorbei, die zwischen Bäumen versteckt sind, und genießen Sie die Ruhe.",
+          "evening": "Beenden Sie Ihre Reise mit einem entspannenden Besuch im bekannten Golfclub oder einer gemütlichen Fahrt über die majestätischen Ebenen im Abendlicht."
+        },
+        "hu": {
+          "morning": "Kezdje a napot a csendes falu atmoszférájának elmerülésével, felfedezve azokat a spirituális nevezetességeket, amelyek megadják a kaland békés alaphangját.",
+          "midday": "Merüljön el a régió gazdag nemesi múltjában, megcsodálva a történelmi kastélyokat és az ősi vadászterületeket, ahol egykor a francia királyok is időztek.",
+          "afternoon": "Szakítson időt a természettel való kapcsolatra, sétáljon el a fák között megbúvó történelmi műemlékek mellett, és tapasztalja meg a békés tájat.",
+          "evening": "Zárja utazását egy pihentető látogatással a híres helyi golfklubban, vagy egy kényelmes autózással a fenséges síkságokon, visszagondolva a napra."
+        },
+        "ro": {
+          "morning": "Începeți ziua cufundându-vă în atmosfera liniștită a satului, explorând reperele sale spirituale care stabilesc un ton pașnic pentru aventura ce urmează.",
+          "midday": "Aprofundați trecutul nobil și bogat al regiunii, admirând castelele istorice și vechile terenuri de vânătoare unde regalitatea franceză își petrecea timpul.",
+          "afternoon": "Faceți-vă timp pentru a vă conecta cu natura, plimbându-vă pe lângă monumentele istorice ascunse printre copaci și experimentând peisajele verzi și calme.",
+          "evening": "Încheiați călătoria cu o vizită relaxantă la renumitul club de golf local sau cu o plimbare pe câmpiile maiestuoase, reflectând asupra descoperirilor zilei."
+        },
+        "en": {
+          "morning": "Begin your day by immersing yourself in the quiet village atmosphere, exploring its spiritual landmarks that set a peaceful tone for the adventure ahead.",
+          "midday": "Delve into the region's rich noble past, marveling at historical chateaus and ancient hunting grounds where French royalty once spent their leisure time.",
+          "afternoon": "Take time to connect with nature, strolling past historic monuments hidden among the trees and experiencing the calm, green landscapes of the area.",
+          "evening": "End your journey with a relaxing visit to the renowned local golf club or a leisurely drive across the majestic plains, reflecting on the day's discoveries."
+        }
+      }
+    }
+  }
+}

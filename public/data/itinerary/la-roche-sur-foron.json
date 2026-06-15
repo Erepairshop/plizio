@@ -1,0 +1,589 @@
+{
+  "city_id": "la-roche-sur-foron",
+  "anchor": {
+    "name": "La Roche-sur-Foron",
+    "coords": [
+      6.3119,
+      46.0669
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:02",
+      "total_km": 1.35,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Town Hall Square",
+            "hu": "Town Hall Square",
+            "ro": "Town Hall Square",
+            "en": "Town Hall Square"
+          },
+          "coords": [
+            6.312332,
+            46.066739
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das pulsierende Herz der Stadt und ihre Architektur, und holen Sie sich vor Ihrem Spaziergang einen frischen Kaffee.",
+            "hu": "Csodálja meg a város nyüzsgő központját és építészetét, majd indulás előtt igyon egy friss kávét a közeli pékségben.",
+            "ro": "Admirați inima civică vibrantă a orașului și savurați o cafea proaspătă la o brutărie din apropiere înainte de plimbarea de dimineață.",
+            "en": "Admire the vibrant civic heart of the city and its surrounding architecture, and grab a fresh coffee at a nearby bakery before your morning walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Couvent des Bernardins (ancien)",
+            "hu": "Couvent des Bernardins (ancien)",
+            "ro": "Couvent des Bernardins (ancien)",
+            "en": "Couvent des Bernardins (ancien)"
+          },
+          "coords": [
+            6.309767,
+            46.066547
+          ],
+          "category": "religious",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die ruhigen Überreste dieser alten religiösen Stätte und achten Sie auf das schwarze Brett für bevorstehende lokale Chorveranstaltungen.",
+            "hu": "Fedezze fel ezen ősi vallási helyszín békés maradványait, és keresse a helyi kórusok közelgő eseményeit az udvaron elhelyezett hirdetőtáblán.",
+            "ro": "Explorați rămășițele liniștite ale acestui vechi sit religios pentru a înțelege istoria și verificați panoul pentru viitoarele evenimente corale.",
+            "en": "Explore the tranquil remnants of this ancient religious site to understand local history, and check the notice board for upcoming local choir events."
+          }
+        },
+        {
+          "name": {
+            "de": "Plain-Château District",
+            "hu": "Plain-Château District",
+            "ro": "Plain-Château District",
+            "en": "Plain-Château District"
+          },
+          "coords": [
+            6.313488,
+            46.066024
+          ],
+          "category": "historical",
+          "arrive_at": "10:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.29,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die mittelalterlichen Gassen, um die atemberaubende Architektur zu bewundern, und tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+            "hu": "Sétáljon végig a középkori utcákon a lenyűgöző történelmi építészetért, és feltétlenül viseljen lapos, kényelmes cipőt a macskaköves utakon.",
+            "ro": "Plimbați-vă pe străzile medievale pentru a aprecia arhitectura istorică uimitoare, asigurându-vă că purtați încălțăminte comodă pentru piatră cubică.",
+            "en": "Wander through the preserved medieval streets to truly appreciate the stunning historical architecture, making sure to wear flat shoes for the cobblestones."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour des Comtes de Genève",
+            "hu": "Tour des Comtes de Genève",
+            "ro": "Tour des Comtes de Genève",
+            "en": "Tour des Comtes de Genève"
+          },
+          "coords": [
+            6.315219,
+            46.065907
+          ],
+          "category": "historical",
+          "arrive_at": "11:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Steigen Sie in die Nähe dieses historischen Turms, um einen spektakulären Panoramablick auf das Tal zu genießen, und bringen Sie unbedingt eine Kamera mit.",
+            "hu": "Másszon fel e történelmi torony közelébe a völgyre nyíló csodás panorámáért, és hozzon magával fényképezőgépet az aranyló naplemente megörökítéséhez.",
+            "ro": "Urcați pe potecile de lângă acest turn istoric pentru vederi panoramice spectaculoase asupra văii și aduceți o cameră pentru a surprinde apusul auriu.",
+            "en": "Climb the paths near this historic tower for spectacular panoramic views of the entire valley, and definitely bring a camera to capture the golden sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte Saint-Martin",
+            "hu": "Porte Saint-Martin",
+            "ro": "Porte Saint-Martin",
+            "en": "Porte Saint-Martin"
+          },
+          "coords": [
+            6.314295,
+            46.067155
+          ],
+          "category": "fortress",
+          "arrive_at": "13:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die robuste Struktur dieses alten befestigten Tors, das die Stadt schützte, und treten Sie zurück, um den gesamten Bogen zu fotografieren.",
+            "hu": "Csodálja meg a várost egykor védő ősi erődített kapu masszív szerkezetét, és lépjen kicsit hátrébb, hogy a teljes ívet megörökíthesse a fotókon.",
+            "ro": "Admirați structura robustă a acestei vechi porți fortificate care proteja orașul, făcând un pas înapoi pentru a surprinde întregul arc în fotografii.",
+            "en": "Marvel at the robust structure of this ancient fortified gate that protected the city, making sure to step back to capture its full arch in your photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de l'Echelle",
+            "hu": "Château de l'Echelle",
+            "ro": "Château de l'Echelle",
+            "en": "Château de l'Echelle"
+          },
+          "coords": [
+            6.315485,
+            46.06713
+          ],
+          "category": "castle",
+          "arrive_at": "13:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.09,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die weitläufigen Grünanlagen dieses klassischen Schlosses und bringen Sie eine leichte Jacke mit, um sich in der Abendbrise warm zu halten.",
+            "hu": "Sétáljon e klasszikus kastély hatalmas, zöldellő területén, és hozzon magával egy vékony kabátot a hűvösebb esti szellő ellen.",
+            "ro": "Plimbați-vă pe terenurile verzi extinse ale acestui castel clasic pentru a-i aprecia moștenirea, aducând o jachetă pentru a vă încălzi în briza serilor.",
+            "en": "Stroll through the expansive green grounds of this classic castle to appreciate its heritage, bringing a light jacket to stay warm in the evening breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Parc Andrevetan",
+            "hu": "Le Parc Andrevetan",
+            "ro": "Le Parc Andrevetan",
+            "en": "Le Parc Andrevetan"
+          },
+          "coords": [
+            6.315607,
+            46.062722
+          ],
+          "category": "family",
+          "arrive_at": "15:17",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.49,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich mit Ihrer Familie in diesem wunderschön angelegten öffentlichen Park, der der perfekte Ort für ein Picknick mit lokalen Snacks ist.",
+            "hu": "Pihenjen családjával ebben a gyönyörűen parkosított nyilvános kertben, amely tökéletes helyszínt biztosít egy délutáni piknikhez helyi finomságokkal.",
+            "ro": "Relaxați-vă cu familia în acest parc public frumos amenajat, care servește drept locul perfect pentru un scurt picnic cu gustări de la piața locală.",
+            "en": "Relax with your family in this beautifully landscaped public park, which serves as the perfect spot for a short afternoon picnic with local market snacks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen am historischen Rathausplatz und spazieren Sie zum ruhigen Couvent des Bernardins.\nMittags lockt das charmante Viertel Plain-Château mit seinen mittelalterlichen Gassen und der Tour des Comtes de Genève.\nAm Nachmittag entdecken Sie die befestigte Porte Saint-Martin, bevor Sie im Schlosspark von L'Echelle entspannen.\nBeenden Sie Ihren Tag mit einem ruhigen Abendspaziergang durch den Parc Andrevetan und genießen Sie den alpinen Charme.",
+        "hu": "Kezdje a reggelt a történelmi Városháza téren, majd sétáljon el a békés Couvent des Bernardins kolostorhoz.\nDélben fedezze fel a Plain-Château negyed varázslatos középkori utcáit és a lenyűgöző Tour des Comtes de Genève tornyot.\nDélután tekintse meg a Porte Saint-Martin erődítményt, majd pihenjen a Château de l'Echelle kastély parkjában.\nZárja a napot egy kellemes esti sétával a Le Parc Andrevetan területén, élvezve a friss alpesi levegőt.",
+        "ro": "Începeți dimineața în istorica Piață a Primăriei, apoi mergeți spre pașnicul Couvent des Bernardins.\nLa amiază, explorați fermecătorul cartier Plain-Château, unde vă așteaptă străzile medievale și Tour des Comtes de Genève.\nDupă-amiază, descoperiți poarta fortificată Saint-Martin înainte de a vă relaxa pe domeniul Château de l'Echelle.\nÎncheiați ziua cu o plimbare liniștită de seară prin Parc Andrevetan, bucurându-vă de farmecul alpin.",
+        "en": "Begin your morning at the historic Town Hall Square, then walk to the peaceful Couvent des Bernardins.\nMidday invites you into the enchanting Plain-Château District, where medieval streets and the Tour des Comtes de Genève await.\nIn the afternoon, discover the fortified Porte Saint-Martin before relaxing in the grand Château de l'Echelle grounds.\nConclude your day with a serene evening stroll through Le Parc Andrevetan, soaking in the alpine charm."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:18",
+      "total_km": 2.95,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Town Hall Square",
+            "hu": "Town Hall Square",
+            "ro": "Town Hall Square",
+            "en": "Town Hall Square"
+          },
+          "coords": [
+            6.312332,
+            46.066739
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das pulsierende Herz der Stadt und ihre Architektur, und holen Sie sich vor Ihrem Spaziergang einen frischen Kaffee.",
+            "hu": "Csodálja meg a város nyüzsgő központját és építészetét, majd indulás előtt igyon egy friss kávét a közeli pékségben.",
+            "ro": "Admirați inima civică vibrantă a orașului și savurați o cafea proaspătă la o brutărie din apropiere înainte de plimbarea de dimineață.",
+            "en": "Admire the vibrant civic heart of the city and its surrounding architecture, and grab a fresh coffee at a nearby bakery before your morning walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Couvent des Bernardins (ancien)",
+            "hu": "Couvent des Bernardins (ancien)",
+            "ro": "Couvent des Bernardins (ancien)",
+            "en": "Couvent des Bernardins (ancien)"
+          },
+          "coords": [
+            6.309767,
+            46.066547
+          ],
+          "category": "religious",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die ruhigen Überreste dieser alten religiösen Stätte und achten Sie auf das schwarze Brett für bevorstehende lokale Chorveranstaltungen.",
+            "hu": "Fedezze fel ezen ősi vallási helyszín békés maradványait, és keresse a helyi kórusok közelgő eseményeit az udvaron elhelyezett hirdetőtáblán.",
+            "ro": "Explorați rămășițele liniștite ale acestui vechi sit religios pentru a înțelege istoria și verificați panoul pentru viitoarele evenimente corale.",
+            "en": "Explore the tranquil remnants of this ancient religious site to understand local history, and check the notice board for upcoming local choir events."
+          }
+        },
+        {
+          "name": {
+            "de": "Plain-Château District",
+            "hu": "Plain-Château District",
+            "ro": "Plain-Château District",
+            "en": "Plain-Château District"
+          },
+          "coords": [
+            6.313488,
+            46.066024
+          ],
+          "category": "historical",
+          "arrive_at": "10:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.29,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die mittelalterlichen Gassen, um die atemberaubende Architektur zu bewundern, und tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+            "hu": "Sétáljon végig a középkori utcákon a lenyűgöző történelmi építészetért, és feltétlenül viseljen lapos, kényelmes cipőt a macskaköves utakon.",
+            "ro": "Plimbați-vă pe străzile medievale pentru a aprecia arhitectura istorică uimitoare, asigurându-vă că purtați încălțăminte comodă pentru piatră cubică.",
+            "en": "Wander through the preserved medieval streets to truly appreciate the stunning historical architecture, making sure to wear flat shoes for the cobblestones."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour des Comtes de Genève",
+            "hu": "Tour des Comtes de Genève",
+            "ro": "Tour des Comtes de Genève",
+            "en": "Tour des Comtes de Genève"
+          },
+          "coords": [
+            6.315219,
+            46.065907
+          ],
+          "category": "historical",
+          "arrive_at": "11:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Steigen Sie in die Nähe dieses historischen Turms, um einen spektakulären Panoramablick auf das Tal zu genießen, und bringen Sie unbedingt eine Kamera mit.",
+            "hu": "Másszon fel e történelmi torony közelébe a völgyre nyíló csodás panorámáért, és hozzon magával fényképezőgépet az aranyló naplemente megörökítéséhez.",
+            "ro": "Urcați pe potecile de lângă acest turn istoric pentru vederi panoramice spectaculoase asupra văii și aduceți o cameră pentru a surprinde apusul auriu.",
+            "en": "Climb the paths near this historic tower for spectacular panoramic views of the entire valley, and definitely bring a camera to capture the golden sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte Saint-Martin",
+            "hu": "Porte Saint-Martin",
+            "ro": "Porte Saint-Martin",
+            "en": "Porte Saint-Martin"
+          },
+          "coords": [
+            6.314295,
+            46.067155
+          ],
+          "category": "fortress",
+          "arrive_at": "13:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die robuste Struktur dieses alten befestigten Tors, das die Stadt schützte, und treten Sie zurück, um den gesamten Bogen zu fotografieren.",
+            "hu": "Csodálja meg a várost egykor védő ősi erődített kapu masszív szerkezetét, és lépjen kicsit hátrébb, hogy a teljes ívet megörökíthesse a fotókon.",
+            "ro": "Admirați structura robustă a acestei vechi porți fortificate care proteja orașul, făcând un pas înapoi pentru a surprinde întregul arc în fotografii.",
+            "en": "Marvel at the robust structure of this ancient fortified gate that protected the city, making sure to step back to capture its full arch in your photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de l'Echelle",
+            "hu": "Château de l'Echelle",
+            "ro": "Château de l'Echelle",
+            "en": "Château de l'Echelle"
+          },
+          "coords": [
+            6.315485,
+            46.06713
+          ],
+          "category": "castle",
+          "arrive_at": "13:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.09,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die weitläufigen Grünanlagen dieses klassischen Schlosses und bringen Sie eine leichte Jacke mit, um sich in der Abendbrise warm zu halten.",
+            "hu": "Sétáljon e klasszikus kastély hatalmas, zöldellő területén, és hozzon magával egy vékony kabátot a hűvösebb esti szellő ellen.",
+            "ro": "Plimbați-vă pe terenurile verzi extinse ale acestui castel clasic pentru a-i aprecia moștenirea, aducând o jachetă pentru a vă încălzi în briza serilor.",
+            "en": "Stroll through the expansive green grounds of this classic castle to appreciate its heritage, bringing a light jacket to stay warm in the evening breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Parc Andrevetan",
+            "hu": "Le Parc Andrevetan",
+            "ro": "Le Parc Andrevetan",
+            "en": "Le Parc Andrevetan"
+          },
+          "coords": [
+            6.315607,
+            46.062722
+          ],
+          "category": "family",
+          "arrive_at": "15:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.49,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich mit Ihrer Familie in diesem wunderschön angelegten öffentlichen Park, der der perfekte Ort für ein Picknick mit lokalen Snacks ist.",
+            "hu": "Pihenjen családjával ebben a gyönyörűen parkosított nyilvános kertben, amely tökéletes helyszínt biztosít egy délutáni piknikhez helyi finomságokkal.",
+            "ro": "Relaxați-vă cu familia în acest parc public frumos amenajat, care servește drept locul perfect pentru un scurt picnic cu gustări de la piața locală.",
+            "en": "Relax with your family in this beautifully landscaped public park, which serves as the perfect spot for a short afternoon picnic with local market snacks."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de St SIXT",
+            "hu": "Château de St SIXT",
+            "ro": "Château de St SIXT",
+            "en": "Château de St SIXT"
+          },
+          "coords": [
+            6.331069,
+            46.052119
+          ],
+          "category": "castle",
+          "arrive_at": "16:28",
+          "stay_min": 110,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese beeindruckende ländliche Festung, um die tiefe regionale Geschichte zu entdecken, und buchen Sie im Voraus eine Führung durch das Innere.",
+            "hu": "Látogassa meg ezt a lenyűgöző vidéki erődöt a régió történelmének felfedezéséhez, és foglaljon előre vezetett túrát a nagyszerű belső terek megtekintéséhez.",
+            "ro": "Vizitați această fortăreață rurală impresionantă pentru a descoperi istoria regională și rezervați un tur ghidat în avans pentru a explora interiorul.",
+            "en": "Visit this impressive countryside fortress to uncover deep regional history, and remember to book a guided tour in advance to explore its grand interior."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie durch die frische Morgenluft zum Rathausplatz und zum ruhigen Couvent des Bernardins.\nFahren Sie mittags zum historischen Viertel Plain-Château hinauf, um die Tour des Comtes de Genève zu bewundern.\nGenießen Sie eine gemütliche Nachmittagsfahrt von der Porte Saint-Martin zum großen Château de l'Echelle.\nBeenden Sie Ihre Radtour, indem Sie bei Sonnenuntergang durch den Parc Andrevetan zum Château de St SIXT fahren.",
+        "hu": "Tekerjen a friss reggeli levegőn a Városháza térhez és a csendes Couvent des Bernardins kolostorhoz.\nDélben kerékpározzon fel a történelmi Plain-Château negyedbe, és csodálja meg a Tour des Comtes de Genève tornyát.\nDélután élvezze a könnyed utazást a Porte Saint-Martin és a lenyűgöző Château de l'Echelle között.\nKerékpáros kalandját naplemente idején fejezze be a Parc Andrevetan és a Château de St SIXT érintésével.",
+        "ro": "Pedalați prin aerul curat al dimineții către Piața Primăriei și liniștitul Couvent des Bernardins.\nLa amiază, urcați spre cartierul istoric Plain-Château pentru a admira impunătorul Tour des Comtes de Genève.\nBucurați-vă de o după-amiază relaxantă pe bicicletă între Porte Saint-Martin și mărețul Château de l'Echelle.\nÎncheiați-vă aventura pedalând prin Parc Andrevetan spre magnificul Château de St SIXT la apus.",
+        "en": "Pedal through the crisp morning air to the Town Hall Square and the quiet Couvent des Bernardins.\nCycle up to the historic Plain-Château District at midday to admire the towering Tour des Comtes de Genève.\nEnjoy a leisurely afternoon ride connecting Porte Saint-Martin with the grand Château de l'Echelle.\nEnd your cycling adventure passing through Le Parc Andrevetan toward the magnificent Château de St SIXT at sunset."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:10",
+      "total_km": 2.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Château de St SIXT",
+            "hu": "Château de St SIXT",
+            "ro": "Château de St SIXT",
+            "en": "Château de St SIXT"
+          },
+          "coords": [
+            6.331069,
+            46.052119
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese beeindruckende ländliche Festung, um die tiefe regionale Geschichte zu entdecken, und buchen Sie im Voraus eine Führung durch das Innere.",
+            "hu": "Látogassa meg ezt a lenyűgöző vidéki erődöt a régió történelmének felfedezéséhez, és foglaljon előre vezetett túrát a nagyszerű belső terek megtekintéséhez.",
+            "ro": "Vizitați această fortăreață rurală impresionantă pentru a descoperi istoria regională și rezervați un tur ghidat în avans pentru a explora interiorul.",
+            "en": "Visit this impressive countryside fortress to uncover deep regional history, and remember to book a guided tour in advance to explore its grand interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Parc Andrevetan",
+            "hu": "Le Parc Andrevetan",
+            "ro": "Le Parc Andrevetan",
+            "en": "Le Parc Andrevetan"
+          },
+          "coords": [
+            6.315607,
+            46.062722
+          ],
+          "category": "family",
+          "arrive_at": "10:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich mit Ihrer Familie in diesem wunderschön angelegten öffentlichen Park, der der perfekte Ort für ein Picknick mit lokalen Snacks ist.",
+            "hu": "Pihenjen családjával ebben a gyönyörűen parkosított nyilvános kertben, amely tökéletes helyszínt biztosít egy délutáni piknikhez helyi finomságokkal.",
+            "ro": "Relaxați-vă cu familia în acest parc public frumos amenajat, care servește drept locul perfect pentru un scurt picnic cu gustări de la piața locală.",
+            "en": "Relax with your family in this beautifully landscaped public park, which serves as the perfect spot for a short afternoon picnic with local market snacks."
+          }
+        },
+        {
+          "name": {
+            "de": "Plain-Château District",
+            "hu": "Plain-Château District",
+            "ro": "Plain-Château District",
+            "en": "Plain-Château District"
+          },
+          "coords": [
+            6.313488,
+            46.066024
+          ],
+          "category": "historical",
+          "arrive_at": "11:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die mittelalterlichen Gassen, um die atemberaubende Architektur zu bewundern, und tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+            "hu": "Sétáljon végig a középkori utcákon a lenyűgöző történelmi építészetért, és feltétlenül viseljen lapos, kényelmes cipőt a macskaköves utakon.",
+            "ro": "Plimbați-vă pe străzile medievale pentru a aprecia arhitectura istorică uimitoare, asigurându-vă că purtați încălțăminte comodă pentru piatră cubică.",
+            "en": "Wander through the preserved medieval streets to truly appreciate the stunning historical architecture, making sure to wear flat shoes for the cobblestones."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour des Comtes de Genève",
+            "hu": "Tour des Comtes de Genève",
+            "ro": "Tour des Comtes de Genève",
+            "en": "Tour des Comtes de Genève"
+          },
+          "coords": [
+            6.315219,
+            46.065907
+          ],
+          "category": "historical",
+          "arrive_at": "13:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Steigen Sie in die Nähe dieses historischen Turms, um einen spektakulären Panoramablick auf das Tal zu genießen, und bringen Sie unbedingt eine Kamera mit.",
+            "hu": "Másszon fel e történelmi torony közelébe a völgyre nyíló csodás panorámáért, és hozzon magával fényképezőgépet az aranyló naplemente megörökítéséhez.",
+            "ro": "Urcați pe potecile de lângă acest turn istoric pentru vederi panoramice spectaculoase asupra văii și aduceți o cameră pentru a surprinde apusul auriu.",
+            "en": "Climb the paths near this historic tower for spectacular panoramic views of the entire valley, and definitely bring a camera to capture the golden sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de l'Echelle",
+            "hu": "Château de l'Echelle",
+            "ro": "Château de l'Echelle",
+            "en": "Château de l'Echelle"
+          },
+          "coords": [
+            6.315485,
+            46.06713
+          ],
+          "category": "castle",
+          "arrive_at": "14:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die weitläufigen Grünanlagen dieses klassischen Schlosses und bringen Sie eine leichte Jacke mit, um sich in der Abendbrise warm zu halten.",
+            "hu": "Sétáljon e klasszikus kastély hatalmas, zöldellő területén, és hozzon magával egy vékony kabátot a hűvösebb esti szellő ellen.",
+            "ro": "Plimbați-vă pe terenurile verzi extinse ale acestui castel clasic pentru a-i aprecia moștenirea, aducând o jachetă pentru a vă încălzi în briza serilor.",
+            "en": "Stroll through the expansive green grounds of this classic castle to appreciate its heritage, bringing a light jacket to stay warm in the evening breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte Saint-Martin",
+            "hu": "Porte Saint-Martin",
+            "ro": "Porte Saint-Martin",
+            "en": "Porte Saint-Martin"
+          },
+          "coords": [
+            6.314295,
+            46.067155
+          ],
+          "category": "fortress",
+          "arrive_at": "15:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die robuste Struktur dieses alten befestigten Tors, das die Stadt schützte, und treten Sie zurück, um den gesamten Bogen zu fotografieren.",
+            "hu": "Csodálja meg a várost egykor védő ősi erődített kapu masszív szerkezetét, és lépjen kicsit hátrébb, hogy a teljes ívet megörökíthesse a fotókon.",
+            "ro": "Admirați structura robustă a acestei vechi porți fortificate care proteja orașul, făcând un pas înapoi pentru a surprinde întregul arc în fotografii.",
+            "en": "Marvel at the robust structure of this ancient fortified gate that protected the city, making sure to step back to capture its full arch in your photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Town Hall Square",
+            "hu": "Town Hall Square",
+            "ro": "Town Hall Square",
+            "en": "Town Hall Square"
+          },
+          "coords": [
+            6.312332,
+            46.066739
+          ],
+          "category": "civic",
+          "arrive_at": "16:34",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie das pulsierende Herz der Stadt und ihre Architektur, und holen Sie sich vor Ihrem Spaziergang einen frischen Kaffee.",
+            "hu": "Csodálja meg a város nyüzsgő központját és építészetét, majd indulás előtt igyon egy friss kávét a közeli pékségben.",
+            "ro": "Admirați inima civică vibrantă a orașului și savurați o cafea proaspătă la o brutărie din apropiere înainte de plimbarea de dimineață.",
+            "en": "Admire the vibrant civic heart of the city and its surrounding architecture, and grab a fresh coffee at a nearby bakery before your morning walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Couvent des Bernardins (ancien)",
+            "hu": "Couvent des Bernardins (ancien)",
+            "ro": "Couvent des Bernardins (ancien)",
+            "en": "Couvent des Bernardins (ancien)"
+          },
+          "coords": [
+            6.309767,
+            46.066547
+          ],
+          "category": "religious",
+          "arrive_at": "17:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die ruhigen Überreste dieser alten religiösen Stätte und achten Sie auf das schwarze Brett für bevorstehende lokale Chorveranstaltungen.",
+            "hu": "Fedezze fel ezen ősi vallási helyszín békés maradványait, és keresse a helyi kórusok közelgő eseményeit az udvaron elhelyezett hirdetőtáblán.",
+            "ro": "Explorați rămășițele liniștite ale acestui vechi sit religios pentru a înțelege istoria și verificați panoul pentru viitoarele evenimente corale.",
+            "en": "Explore the tranquil remnants of this ancient religious site to understand local history, and check the notice board for upcoming local choir events."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt am herrlichen Château de St SIXT und genießen Sie die morgendliche Landluft.\nParken Sie mittags in der Nähe des Parc Andrevetan und tauchen Sie in das historische Viertel Plain-Château ein.\nVerbringen Sie den Nachmittag mit der Erkundung mittelalterlicher Wunder wie der Tour des Comtes de Genève und dem Château de l'Echelle.\nBeenden Sie den Abend im Zentrum am Rathausplatz und dem alten Kloster.",
+        "hu": "Kezdje az autós túrát a csodálatos Château de St SIXT kastélynál, élvezve a reggeli vidéki levegőt.\nDélben parkoljon le a Parc Andrevetan közelében, és lépjen be a történelmi Plain-Château negyedbe.\nDélután fedezze fel a középkori csodákat, mint például a Tour des Comtes de Genève és a Château de l'Echelle.\nFejezze be az estét a városközpontban, megállva a Városháza téren és a régi kolostornál.",
+        "ro": "Începeți turul cu mașina la magnificul Château de St SIXT, bucurându-vă de aerul proaspăt al dimineții.\nLa prânz, parcați lângă Parc Andrevetan și pășiți în cartierul istoric Plain-Château.\nPetreceți după-amiaza explorând minuni medievale precum Tour des Comtes de Genève și Château de l'Echelle.\nÎncheiați seara în centrul orașului, oprindu-vă la Piața Primăriei și la vechea mănăstire.",
+        "en": "Start your driving tour at the magnificent Château de St SIXT, taking in the morning countryside air.\nBy midday, park near Le Parc Andrevetan to enjoy the greenery and step into the historic Plain-Château District.\nSpend the afternoon exploring the medieval marvels like Tour des Comtes de Genève and Château de l'Echelle.\nFinish your evening driving through the town center, stopping at the Town Hall Square and the old Convent."
+      }
+    }
+  }
+}

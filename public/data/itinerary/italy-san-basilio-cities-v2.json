@@ -1,0 +1,520 @@
+{
+  "city_id": "italy-san-basilio-cities-v2",
+  "anchor": {
+    "name": "San Basilio, Rome",
+    "coords": [
+      12.581075,
+      41.946079
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:43",
+      "total_km": 1.55,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di Sant'Agostina Pietrantoni",
+            "hu": "Chiesa di Sant'Agostina Pietrantoni",
+            "ro": "Chiesa di Sant'Agostina Pietrantoni",
+            "en": "Chiesa di Sant'Agostina Pietrantoni"
+          },
+          "coords": [
+            12.578367,
+            41.942979
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur dieser einladenden Kirche, die den Gemeinschaftsgeist widerspiegelt, und besuchen Sie sie am besten zur Morgenmesse.",
+            "hu": "Csodálja meg a modern építészetet ebben a barátságos helyi templomban, és látogasson el a reggeli misére, hogy a legszebb fényekben láthassa a belső teret.",
+            "ro": "Admirați arhitectura modernă a acestei biserici locale care reflectă spiritul comunității, și vizitați-o în timpul slujbei de dimineață pentru cea mai bună lumină.",
+            "en": "Admire the modern architecture of this welcoming local church reflecting San Basilio's community spirit, and visit during morning mass for the best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Romana - Via Pollenza",
+            "hu": "Villa Romana - Via Pollenza",
+            "ro": "Villa Romana - Via Pollenza",
+            "en": "Villa Romana - Via Pollenza"
+          },
+          "coords": [
+            12.577425,
+            41.946544
+          ],
+          "category": "historical",
+          "arrive_at": "09:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Fundamente dieser römischen Villa, um die landwirtschaftliche Vergangenheit zu verstehen, aber tragen Sie festes Schuhwerk vor Ort.",
+            "hu": "Fedezze fel e lenyűgöző római villa ősi alapjait a régió mezőgazdasági múltjának megismeréséhez, de mindenképpen viseljen kényelmes és masszív cipőt.",
+            "ro": "Explorați fundațiile antice ale acestei vile romane pentru a înțelege trecutul agricol al regiunii, dar purtați încălțăminte rezistentă pentru teren.",
+            "en": "Explore the ancient foundations of this fascinating Roman villa to understand the region's agricultural past, but wear sturdy shoes for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruderi di Coazzo",
+            "hu": "Ruderi di Coazzo",
+            "ro": "Ruderi di Coazzo",
+            "en": "Ruderi di Coazzo"
+          },
+          "coords": [
+            12.573353,
+            41.947446
+          ],
+          "category": "historical",
+          "arrive_at": "11:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entdecken Sie die stimmungsvollen historischen Ruinen als stille Zeugen des Mittelalters, und bringen Sie ein Weitwinkelobjektiv für großartige Fotos mit.",
+            "hu": "Fedezze fel a középkori idők néma tanúiként álló, hangulatos történelmi romokat, és hozzon magával nagylátószögű objektívet a teljes táj megörökítéséhez.",
+            "ro": "Descoperiți ruinele istorice evocatoare care stau ca martori tăcuți ai timpurilor medievale, și aduceți un obiectiv larg pentru a surprinde toată zona.",
+            "en": "Discover the evocative historical ruins that stand as silent witnesses to medieval times, and bring a wide-angle lens to capture the full architectural scope."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Cleto",
+            "hu": "Chiesa di San Cleto",
+            "ro": "Chiesa di San Cleto",
+            "en": "Chiesa di San Cleto"
+          },
+          "coords": [
+            12.571179,
+            41.946635
+          ],
+          "category": "religious",
+          "arrive_at": "12:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die ruhige Atmosphäre dieser für ihr elegantes Design bekannten Kirche, und werfen Sie einen Blick auf das Informationsbrett für lokale Events.",
+            "hu": "Tapasztalja meg ennek az egyszerű, mégis elegáns kialakításáról ismert templomnak a nyugalmát, és feltétlenül nézze meg a helyi hirdetőtáblát a programokért.",
+            "ro": "Experimentați atmosfera liniștită a acestei biserici cunoscute pentru designul său elegant, și asigurați-vă că verificați panoul local pentru evenimente.",
+            "en": "Experience the tranquil atmosphere of this neighborhood church known for its simple yet elegant design, and be sure to check the local notice board for events."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Liborio",
+            "hu": "Chiesa di San Liborio",
+            "ro": "Chiesa di San Liborio",
+            "en": "Chiesa di San Liborio"
+          },
+          "coords": [
+            12.567389,
+            41.942221
+          ],
+          "category": "religious",
+          "arrive_at": "13:33",
+          "stay_min": 70,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Moment in dieser wunderschön gepflegten und wichtigen Pfarrkirche, und denken Sie daran, sich während des Gebets leise zu verhalten.",
+            "hu": "Töltsön el egy csendes pillanatot ebben a gyönyörűen karbantartott és fontos plébániatemplomban, és ne felejtsen el halkan beszélni az egyéni imák alatt.",
+            "ro": "Luați un moment de liniște în această biserică parohială esențială pentru credincioșii locali, și amintiți-vă să păstrați liniștea în timpul rugăciunilor.",
+            "en": "Take a quiet moment in this beautifully maintained parish church essential to the local faithful, and remember to keep your voice down during personal prayer."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung des modernen spirituellen Herzens der Gemeinde in den örtlichen Kirchen. Mittags reisen Sie zwischen den Ruinen einer römischen Villa in die Vergangenheit. Am Nachmittag entdecken Sie mittelalterliche Echos in Coazzo, bevor Sie ein weiteres ruhiges Heiligtum besuchen. Beenden Sie Ihren Abend mit einem Spaziergang durch die einladenden Straßen.",
+        "hu": "Kezdje a reggelt a közösség modern spirituális központjának felfedezésével a helyi templomokban. A dél egy időutazást hoz egy római villa lenyűgöző romjai között. Délután fedezze fel a középkori visszhangokat a Coazzo romoknál, mielőtt egy újabb békés szentélyhez indulna. Fejezze be az estét egy csendes és hangulatos sétával a környék barátságos, hívogató utcáin.",
+        "ro": "Începeți dimineața explorând inima spirituală modernă a comunității la bisericile locale. Prânzul aduce o călătorie în timp printre ruinele fascinante ale unei vile romane. După-amiaza, descoperiți ecouri medievale la ruinele Coazzo înainte de a merge la un alt sanctuar senin. Terminați-vă seara cu o plimbare liniștită prin străzile primitoare ale cartierului.",
+        "en": "Start your morning exploring the modern spiritual heart of the community at the local churches. Midday brings a journey back in time among the fascinating ruins of a Roman agricultural villa. In the afternoon, discover medieval echoes at the Coazzo ruins before proceeding to another serene sanctuary. Finish your evening with a quiet stroll through the neighborhood's welcoming streets."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:38",
+      "total_km": 4.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di San Basilio",
+            "hu": "Chiesa di San Basilio",
+            "ro": "Chiesa di San Basilio",
+            "en": "Chiesa di San Basilio"
+          },
+          "coords": [
+            12.584393,
+            41.940222
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die markante Struktur der Hauptpfarrkirche, die dem Viertel seinen Namen gab, und betrachten Sie die modernen Buntglasfenster bei Sonnenschein.",
+            "hu": "Csodálja meg a kerületnek nevet adó fő plébániatemplom kiemelkedő szerkezetét, és napsütéses napokon nézze meg közelebbről a modern ólomüveg ablakokat.",
+            "ro": "Admirați structura proeminentă a bisericii parohiale principale care a dat numele cartierului, și priviți atent vitraliile moderne în zilele însorite.",
+            "en": "Marvel at the prominent structure of the main parish church that gave the district its name, and look closely at the modern stained glass during sunny days."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro culturale San Basilio \"Aldo Fabrizi\"",
+            "hu": "Centro culturale San Basilio \"Aldo Fabrizi\"",
+            "ro": "Centro culturale San Basilio \"Aldo Fabrizi\"",
+            "en": "Centro culturale San Basilio \"Aldo Fabrizi\""
+          },
+          "coords": [
+            12.584624,
+            41.937669
+          ],
+          "category": "cultural",
+          "arrive_at": "09:52",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem dynamischen Kulturzentrum in die lokale Kunst ein, und fragen Sie an der Rezeption nach den aktuellen zeitgenössischen Ausstellungen.",
+            "hu": "Merüljön el a helyi művészetekben ebben az Aldo Fabrizinek szentelt dinamikus kulturális központban, és érdeklődjön a recepción a változó kiállításokról.",
+            "ro": "Cufundați-vă în artele locale la acest centru cultural dinamic dedicat lui Aldo Fabrizi, și întrebați la recepție despre expozițiile contemporane rotative.",
+            "en": "Immerse yourself in local arts at this dynamic cultural center dedicated to Aldo Fabrizi, and ask the front desk about their rotating contemporary exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Romana - Via Pollenza",
+            "hu": "Villa Romana - Via Pollenza",
+            "ro": "Villa Romana - Via Pollenza",
+            "en": "Villa Romana - Via Pollenza"
+          },
+          "coords": [
+            12.577425,
+            41.946544
+          ],
+          "category": "historical",
+          "arrive_at": "10:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Fundamente dieser römischen Villa, um die landwirtschaftliche Vergangenheit zu verstehen, aber tragen Sie festes Schuhwerk vor Ort.",
+            "hu": "Fedezze fel e lenyűgöző római villa ősi alapjait a régió mezőgazdasági múltjának megismeréséhez, de mindenképpen viseljen kényelmes és masszív cipőt.",
+            "ro": "Explorați fundațiile antice ale acestei vile romane pentru a înțelege trecutul agricol al regiunii, dar purtați încălțăminte rezistentă pentru teren.",
+            "en": "Explore the ancient foundations of this fascinating Roman villa to understand the region's agricultural past, but wear sturdy shoes for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruderi di Coazzo",
+            "hu": "Ruderi di Coazzo",
+            "ro": "Ruderi di Coazzo",
+            "en": "Ruderi di Coazzo"
+          },
+          "coords": [
+            12.573353,
+            41.947446
+          ],
+          "category": "historical",
+          "arrive_at": "12:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entdecken Sie die stimmungsvollen historischen Ruinen als stille Zeugen des Mittelalters, und bringen Sie ein Weitwinkelobjektiv für großartige Fotos mit.",
+            "hu": "Fedezze fel a középkori idők néma tanúiként álló, hangulatos történelmi romokat, és hozzon magával nagylátószögű objektívet a teljes táj megörökítéséhez.",
+            "ro": "Descoperiți ruinele istorice evocatoare care stau ca martori tăcuți ai timpurilor medievale, și aduceți un obiectiv larg pentru a surprinde toată zona.",
+            "en": "Discover the evocative historical ruins that stand as silent witnesses to medieval times, and bring a wide-angle lens to capture the full architectural scope."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa di Podere Anna",
+            "hu": "Villa di Podere Anna",
+            "ro": "Villa di Podere Anna",
+            "en": "Villa di Podere Anna"
+          },
+          "coords": [
+            12.566352,
+            41.942337
+          ],
+          "category": "historical",
+          "arrive_at": "13:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise zwischen den faszinierenden Überresten dieses alten Anwesens, und bleiben Sie zu Ihrer eigenen Sicherheit auf den markierten Wegen.",
+            "hu": "Lépjen vissza az időben e régi birtokkomplexum lenyűgöző maradványai között, és saját biztonsága érdekében maradjon a kijelölt látogatói útvonalakon.",
+            "ro": "Întoarceți-vă în timp printre rămășițele fascinante ale acestui vechi complex imobiliar, și rămâneți pe cărările marcate pentru propria dumneavoastră siguranță.",
+            "en": "Step back in time among the fascinating remnants of this old estate complex highlighting suburban history, and stick to the marked pathways for your safety."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco regionale urbano di Aguzzano",
+            "hu": "Parco regionale urbano di Aguzzano",
+            "ro": "Parco regionale urbano di Aguzzano",
+            "en": "Parco regionale urbano di Aguzzano"
+          },
+          "coords": [
+            12.565528,
+            41.936506
+          ],
+          "category": "natural",
+          "arrive_at": "15:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die weitläufigen grünen Wege dieses Stadtparks mit seiner lokalen Artenvielfalt, und bringen Sie ausreichend Wasser für Ihre Wanderung mit.",
+            "hu": "Sétáljon végig a helyi biológiai sokféleséget védő városi park kiterjedt zöld ösvényein, és hozzon magával sok vizet, mivel a létesítmények korlátozottak.",
+            "ro": "Plimbați-vă prin traseele verzi ale acestui parc urban care protejează biodiversitatea locală, și aduceți multă apă deoarece facilitățile sunt destul de limitate.",
+            "en": "Walk through the expansive green trails of this urban park protecting vital local biodiversity, and bring plenty of water since facilities are quite limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo di Casal de' Pazzi",
+            "hu": "Museo di Casal de' Pazzi",
+            "ro": "Museo di Casal de' Pazzi",
+            "en": "Museo di Casal de' Pazzi"
+          },
+          "coords": [
+            12.563816,
+            41.928341
+          ],
+          "category": "museum",
+          "arrive_at": "16:28",
+          "stay_min": 130,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die unglaublichen pleistozänen Fossilienfunde in diesem archäologischen Museum, und buchen Sie Ihre Führung rechtzeitig im Voraus.",
+            "hu": "Vizsgálja meg az egyedülálló régészeti múzeumban őrzött hihetetlen pleisztocén kövületeket, és foglalja le a vezetett túrát jóval előre a hely biztosításához.",
+            "ro": "Examinați descoperirile incredibile de fosile din Pleistocen găzduite în acest muzeu arheologic, și rezervați-vă turul ghidat cu mult timp înainte.",
+            "en": "Examine the incredible Pleistocene fossil discoveries housed in this unique archaeological museum, and book your guided tour well in advance to secure a spot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt an der Kirche San Basilio, bevor Sie das lebhafte Kulturzentrum besuchen. Mittags radeln Sie gemütlich zu historischen römischen Anwesen und mittelalterlichen Überresten. Am Nachmittag fahren Sie durch die üppigen Wege des Aguzzano Parks. Ihr Abend endet mit einem faszinierenden Tauchgang in die Prähistorie im örtlichen archäologischen Museum.",
+        "hu": "Indítsa útját a nagy San Basilio templomnál, majd látogasson el a nyüzsgő kulturális központba. Délben kényelmesen tekerhet a külvárosban szétszórt történelmi római birtokok felé. Délután haladjon át az Aguzzano park buja városi ösvényein. Az este a helyi régészeti múzeumban őrzött történelem előtti leletek lenyűgöző és izgalmas felfedezésével zárul.",
+        "ro": "Începeți plimbarea la marea biserică San Basilio înainte de a vizita centrul cultural vibrant. Prânzul permite o pedalare lină către moșiile romane istorice și rămășițele medievale. În timpul după-amiezii, plimbați-vă pe traseele verzi luxuriante ale Parcului Regional Aguzzano. Seara se încheie cu o scufundare fascinantă în descoperirile preistorice la muzeul arheologic local.",
+        "en": "Kick off your ride at the grand San Basilio church before visiting the vibrant cultural center. Midday allows a smooth pedal toward historical Roman estates and medieval remnants scattered in the suburb. During the afternoon, ride through the lush urban trails of Aguzzano Regional Park. Your evening concludes with a fascinating dive into prehistoric finds at the local archaeological museum."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:34",
+      "total_km": 6.55,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Centro culturale San Basilio \"Aldo Fabrizi\"",
+            "hu": "Centro culturale San Basilio \"Aldo Fabrizi\"",
+            "ro": "Centro culturale San Basilio \"Aldo Fabrizi\"",
+            "en": "Centro culturale San Basilio \"Aldo Fabrizi\""
+          },
+          "coords": [
+            12.584624,
+            41.937669
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem dynamischen Kulturzentrum in die lokale Kunst ein, und fragen Sie an der Rezeption nach den aktuellen zeitgenössischen Ausstellungen.",
+            "hu": "Merüljön el a helyi művészetekben ebben az Aldo Fabrizinek szentelt dinamikus kulturális központban, és érdeklődjön a recepción a változó kiállításokról.",
+            "ro": "Cufundați-vă în artele locale la acest centru cultural dinamic dedicat lui Aldo Fabrizi, și întrebați la recepție despre expozițiile contemporane rotative.",
+            "en": "Immerse yourself in local arts at this dynamic cultural center dedicated to Aldo Fabrizi, and ask the front desk about their rotating contemporary exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Romana - Via Pollenza",
+            "hu": "Villa Romana - Via Pollenza",
+            "ro": "Villa Romana - Via Pollenza",
+            "en": "Villa Romana - Via Pollenza"
+          },
+          "coords": [
+            12.577425,
+            41.946544
+          ],
+          "category": "historical",
+          "arrive_at": "10:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Fundamente dieser römischen Villa, um die landwirtschaftliche Vergangenheit zu verstehen, aber tragen Sie festes Schuhwerk vor Ort.",
+            "hu": "Fedezze fel e lenyűgöző római villa ősi alapjait a régió mezőgazdasági múltjának megismeréséhez, de mindenképpen viseljen kényelmes és masszív cipőt.",
+            "ro": "Explorați fundațiile antice ale acestei vile romane pentru a înțelege trecutul agricol al regiunii, dar purtați încălțăminte rezistentă pentru teren.",
+            "en": "Explore the ancient foundations of this fascinating Roman villa to understand the region's agricultural past, but wear sturdy shoes for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruderi di Coazzo",
+            "hu": "Ruderi di Coazzo",
+            "ro": "Ruderi di Coazzo",
+            "en": "Ruderi di Coazzo"
+          },
+          "coords": [
+            12.573353,
+            41.947446
+          ],
+          "category": "historical",
+          "arrive_at": "11:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entdecken Sie die stimmungsvollen historischen Ruinen als stille Zeugen des Mittelalters, und bringen Sie ein Weitwinkelobjektiv für großartige Fotos mit.",
+            "hu": "Fedezze fel a középkori idők néma tanúiként álló, hangulatos történelmi romokat, és hozzon magával nagylátószögű objektívet a teljes táj megörökítéséhez.",
+            "ro": "Descoperiți ruinele istorice evocatoare care stau ca martori tăcuți ai timpurilor medievale, și aduceți un obiectiv larg pentru a surprinde toată zona.",
+            "en": "Discover the evocative historical ruins that stand as silent witnesses to medieval times, and bring a wide-angle lens to capture the full architectural scope."
+          }
+        },
+        {
+          "name": {
+            "de": "Torraccio della Cecchina",
+            "hu": "Torraccio della Cecchina",
+            "ro": "Torraccio della Cecchina",
+            "en": "Torraccio della Cecchina"
+          },
+          "coords": [
+            12.558705,
+            41.943223
+          ],
+          "category": "historical",
+          "arrive_at": "12:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Betrachten Sie diese markante antike römische Grabstruktur am Stadtrand, und besuchen Sie sie am späten Nachmittag für dramatische und schöne Schatten.",
+            "hu": "Tekintse meg ezt a feltűnő ókori római sírépítményt a külvárosi peremvidéken, és látogasson el ide késő délután a drámai árnyékok és fények kedvéért.",
+            "ro": "Vedeți această impresionantă structură antică de mormânt roman dominând peisajul suburban, și vizitați-o spre sfârșitul după-amiezii pentru umbre dramatice.",
+            "en": "View this striking ancient Roman tomb structure dominating the landscape of the suburban fringe, and visit during the late afternoon for dramatic shadows."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa Sant'Achille",
+            "hu": "Chiesa Sant'Achille",
+            "ro": "Chiesa Sant'Achille",
+            "en": "Chiesa Sant'Achille"
+          },
+          "coords": [
+            12.558991,
+            41.948313
+          ],
+          "category": "religious",
+          "arrive_at": "14:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Schätzen Sie das friedliche Ambiente dieser modernen Vorstadtkirche, und achten Sie besonders auf die wunderschön geformten Elemente in der Nähe des Altars.",
+            "hu": "Értékelje a modern külvárosi templom békés hangulatát, amely lelki vigaszt nyújt, és figyelje meg az oltár közelében található gyönyörűen faragott elemeket.",
+            "ro": "Apreciați ambianța pașnică a acestei biserici suburbane moderne care oferă o consolare spirituală, și observați elementele frumos sculptate de lângă altar.",
+            "en": "Appreciate the peaceful ambiance of this modern suburban church offering spiritual solace, and take note of the beautifully sculpted elements near the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa di Podere Anna",
+            "hu": "Villa di Podere Anna",
+            "ro": "Villa di Podere Anna",
+            "en": "Villa di Podere Anna"
+          },
+          "coords": [
+            12.566352,
+            41.942337
+          ],
+          "category": "historical",
+          "arrive_at": "14:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise zwischen den faszinierenden Überresten dieses alten Anwesens, und bleiben Sie zu Ihrer eigenen Sicherheit auf den markierten Wegen.",
+            "hu": "Lépjen vissza az időben e régi birtokkomplexum lenyűgöző maradványai között, és saját biztonsága érdekében maradjon a kijelölt látogatói útvonalakon.",
+            "ro": "Întoarceți-vă în timp printre rămășițele fascinante ale acestui vechi complex imobiliar, și rămâneți pe cărările marcate pentru propria dumneavoastră siguranță.",
+            "en": "Step back in time among the fascinating remnants of this old estate complex highlighting suburban history, and stick to the marked pathways for your safety."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo di Casal de' Pazzi",
+            "hu": "Museo di Casal de' Pazzi",
+            "ro": "Museo di Casal de' Pazzi",
+            "en": "Museo di Casal de' Pazzi"
+          },
+          "coords": [
+            12.563816,
+            41.928341
+          ],
+          "category": "museum",
+          "arrive_at": "16:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die unglaublichen pleistozänen Fossilienfunde in diesem archäologischen Museum, und buchen Sie Ihre Führung rechtzeitig im Voraus.",
+            "hu": "Vizsgálja meg az egyedülálló régészeti múzeumban őrzött hihetetlen pleisztocén kövületeket, és foglalja le a vezetett túrát jóval előre a hely biztosításához.",
+            "ro": "Examinați descoperirile incredibile de fosile din Pleistocen găzduite în acest muzeu arheologic, și rezervați-vă turul ghidat cu mult timp înainte.",
+            "en": "Examine the incredible Pleistocene fossil discoveries housed in this unique archaeological museum, and book your guided tour well in advance to secure a spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Di Via Speroni",
+            "hu": "Di Via Speroni",
+            "ro": "Di Via Speroni",
+            "en": "Di Via Speroni"
+          },
+          "coords": [
+            12.567555,
+            41.93492
+          ],
+          "category": "cultural",
+          "arrive_at": "18:04",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die kulturell bedeutsamen Markierungen und Straßenkunstwerke entlang der Via Speroni, und halten Sie Ihre Kamera für unerwartete Wandbilder bereit.",
+            "hu": "Fedezze fel a Via Speroni mentén megbúvó kulturális jelentőségű jelzéseket és utcai művészetet, és tartsa készenlétben a fényképezőgépét a falfestményekhez.",
+            "ro": "Explorați marcajele culturale și arta stradală ascunse de-a lungul Via Speroni care prezintă viața locală, și țineți camera pregătită pentru picturi murale.",
+            "en": "Explore the culturally significant markers and street art hidden along Via Speroni showcasing local life, and keep your camera ready for unexpected murals."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour mit lokaler Kultur im Aldo Fabrizi Zentrum. Fahren Sie mittags nahtlos zwischen den römischen Villenruinen und den Coazzo-Überresten umher. Der Nachmittag ist der Erkundung antiker Gräber und historischer Vorstadtanwesen abseits der Hauptstraßen gewidmet. Beenden Sie den Abend mit pleistozäner Geschichte in Casal de' Pazzi vor einem letzten Kunstspaziergang.",
+        "hu": "Kezdje az autós túrát a helyi kultúra megismerésével az Aldo Fabrizi központban. Délben vezessen zökkenőmentesen a lenyűgöző római villaromok és a Coazzo maradványai között. A délutánt az ókori sírok és a történelmi külvárosi birtokok felfedezésének szentelheti. Zárja az estét a pleisztocén történelem megismerésével Casal de' Pazziban egy utolsó esti séta előtt.",
+        "ro": "Începeți turul auto experimentând cultura locală la centrul Aldo Fabrizi. La prânz, conduceți între ruinele impresionante ale vilei romane și rămășițele Coazzo. După-amiaza este dedicată explorării mormintelor antice și a moșiilor suburbane istorice. Încheiați seara descoperind istoria profundă a Pleistocenului la Casal de' Pazzi înainte de o plimbare artistică finală.",
+        "en": "Begin your driving tour experiencing local culture at the Aldo Fabrizi center. For midday, drive seamlessly between the impressive Roman villa ruins and the evocative Coazzo remnants. The afternoon is dedicated to exploring ancient tombs and historical suburban estates nestled off the main roads. End the evening discovering deep Pleistocene history at Casal de' Pazzi before a final art stroll."
+      }
+    }
+  }
+}

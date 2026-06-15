@@ -1,0 +1,474 @@
+{
+  "city_id": "france-ile-de-brehat-cities-v2",
+  "anchor": {
+    "name": "Île de Bréhat",
+    "coords": [
+      -2.997778,
+      48.851111
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:56",
+      "total_km": 2.68,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Verreries de Bréhat",
+            "hu": "Verreries de Bréhat",
+            "ro": "Verreries de Bréhat",
+            "en": "Verreries de Bréhat"
+          },
+          "coords": [
+            -3.00781,
+            48.838467
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle Glaskunst in der historischen Zitadelle und kaufen Sie einzigartige Souvenirs direkt in der angeschlossenen Werkstatt.",
+            "hu": "Csodálja meg a hagyományos üvegművészetet a történelmi fellegvárban, és vásároljon egyedi emléktárgyakat közvetlenül a helyszínen.",
+            "ro": "Admirați arta tradițională a sticlei în cetatea istorică și cumpărați suveniruri unice direct din atelierul atașat pentru a sprijini meșterii.",
+            "en": "Admire traditional glass art in the historic citadel and purchase unique, handcrafted souvenirs directly from the workshop to support local artisans."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand Guerzido",
+            "hu": "Grand Guerzido",
+            "ro": "Grand Guerzido",
+            "en": "Grand Guerzido"
+          },
+          "coords": [
+            -2.997858,
+            48.838069
+          ],
+          "category": "recreational",
+          "arrive_at": "10:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Entspannen Sie am feinen Sandstrand dieses beliebten Küstenabschnitts, aber kommen Sie früh, um die besten Plätze in der Morgensonne zu ergattern.",
+            "hu": "Pihenjen e népszerű partszakasz finom homokos strandján, de érkezzen korán, hogy a legjobb helyeket csípje el a reggeli napsütésben.",
+            "ro": "Relaxați-vă pe plaja cu nisip fin a acestei zone de coastă populare, dar veniți devreme pentru a prinde cele mai bune locuri la soarele dimineții.",
+            "en": "Relax on the fine sandy beach of this popular coastal stretch, but arrive early to secure the best spots in the warm morning sunshine."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame de Bonne Nouvelle",
+            "hu": "Église Notre-Dame de Bonne Nouvelle",
+            "ro": "Église Notre-Dame de Bonne Nouvelle",
+            "en": "Église Notre-Dame de Bonne Nouvelle"
+          },
+          "coords": [
+            -2.99952,
+            48.84572
+          ],
+          "category": "religious",
+          "arrive_at": "12:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese charmante Kirche aus dem 12. Jahrhundert, die als spirituelles Herz der Insel gilt, und achten Sie auf die maritimen Details.",
+            "hu": "Látogassa meg ezt a bájos 12. századi templomot, a sziget spirituális szívét, és figyelje meg a hajósok által hagyott tengerészeti részleteket.",
+            "ro": "Vizitați această biserică fermecătoare din secolul 12, inima spirituală a insulei, și acordați atenție detaliilor maritime lăsate de marinari.",
+            "en": "Visit this charming 12th-century church, the spiritual heart of the island, and pay attention to the maritime details left by local sailors."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin de Crech Tarek",
+            "hu": "Moulin de Crech Tarek",
+            "ro": "Moulin de Crech Tarek",
+            "en": "Moulin de Crech Tarek"
+          },
+          "coords": [
+            -3.005513,
+            48.845647
+          ],
+          "category": "landmark",
+          "arrive_at": "12:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Ruinen dieser alten Mühle, die von der landwirtschaftlichen Vergangenheit zeugt, und tragen Sie festes Schuhwerk für den Weg.",
+            "hu": "Fedezze fel e régi malom romjait, amelyek a mezőgazdasági múltról tanúskodnak, és viseljen zárt cipőt a kissé egyenetlen ösvény miatt.",
+            "ro": "Descoperiți ruinele acestei vechi mori, mărturie a trecutului agricol, și purtați încălțăminte solidă pentru poteca ușor accidentată.",
+            "en": "Discover the ruins of this old mill, a testament to the agricultural past, and wear sturdy footwear for the slightly uneven coastal path."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin à marée du Birlot",
+            "hu": "Moulin à marée du Birlot",
+            "ro": "Moulin à marée du Birlot",
+            "en": "Moulin à marée du Birlot"
+          },
+          "coords": [
+            -3.009984,
+            48.847345
+          ],
+          "category": "landmark",
+          "arrive_at": "14:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese restaurierte Gezeitenmühle an einer malerischen Bucht und besuchen Sie sie bei Flut, um die volle Wirkung der Natur zu sehen.",
+            "hu": "Csodálja meg ezt a festői öbölben álló, felújított árapály-malmot, és látogassa meg dagály idején, hogy teljes pompájában láthassa.",
+            "ro": "Admirați această moară de maree restaurată dintr-un golf pitoresc și vizitați-o la flux pentru a vedea întregul impact al forței apei.",
+            "en": "Marvel at this restored tidal mill in a picturesque bay, and try to visit during high tide to fully appreciate the power of the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Michel",
+            "hu": "Chapelle Saint-Michel",
+            "ro": "Chapelle Saint-Michel",
+            "en": "Chapelle Saint-Michel"
+          },
+          "coords": [
+            -3.0069,
+            48.848347
+          ],
+          "category": "religious",
+          "arrive_at": "15:46",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Genießen Sie von dieser auf einem Hügel gelegenen Kapelle einen fantastischen Panoramablick; nehmen Sie eine Kamera für die rote Felslandschaft mit.",
+            "hu": "Élvezze a fantasztikus panorámát ebből a dombtetőn álló kápolnából; feltétlenül vigyen magával fényképezőgépet a vörös sziklás táj megörökítéséhez.",
+            "ro": "Bucurați-vă de o panoramă fantastică de la această capelă de pe deal; luați un aparat foto pentru peisajul uimitor de stânci roșii.",
+            "en": "Enjoy a fantastic panoramic view from this hilltop chapel; be sure to bring a camera to capture the stunning red granite landscape."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen im Süden, wo die historische Glaskunst und die Sandstrände des Grand Guerzido auf Sie warten. Mittags erkunden Sie das spirituelle Herz der Insel an der Kirche, bevor Sie rustikale Mühlenruinen bewundern. Am Nachmittag zeigt die restaurierte Gezeitenmühle den Einfallsreichtum der Insel. Schließen Sie mit dem Panoramablick von der Saint-Michel-Kapelle ab.",
+        "hu": "Kezdje a reggelt a sziget déli részén, ahol a történelmi üvegművesség és a Grand Guerzido homokos partjai várják. Délben a központi templomnál fedezheti fel a sziget spirituális szívét, majd rusztikus malomromokat csodálhat meg. Délután a restaurált árapály-malom mutatja be a sziget leleményességét. Zárja a napot a Saint-Michel kápolna fantasztikus panorámájával.",
+        "ro": "Începeți dimineața în partea de sud, unde vă așteaptă sticla istorică și plajele nisipoase de la Grand Guerzido. La prânz, explorați inima spirituală a insulei la biserica centrală, înainte de a admira ruinele morilor rustice. După-amiaza, moara de maree restaurată demonstrează ingeniozitatea insulei. Încheiați cu o vedere panoramică absolut uimitoare de la capela Saint-Michel.",
+        "en": "Begin your morning in the southern part of the island, where the historic glassmakers and the sandy shores of Grand Guerzido wait. Midday leads you through the spiritual heart at the central church before admiring the rustic ruins of local mills. In the afternoon, the restored tidal mill of Birlot showcases the island's ingenuity. Conclude with panoramic views from the Saint-Michel chapel."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:20",
+      "total_km": 3.57,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Moulin à marée du Birlot",
+            "hu": "Moulin à marée du Birlot",
+            "ro": "Moulin à marée du Birlot",
+            "en": "Moulin à marée du Birlot"
+          },
+          "coords": [
+            -3.009984,
+            48.847345
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese restaurierte Gezeitenmühle an einer malerischen Bucht und besuchen Sie sie bei Flut, um die volle Wirkung der Natur zu sehen.",
+            "hu": "Csodálja meg ezt a festői öbölben álló, felújított árapály-malmot, és látogassa meg dagály idején, hogy teljes pompájában láthassa.",
+            "ro": "Admirați această moară de maree restaurată dintr-un golf pitoresc și vizitați-o la flux pentru a vedea întregul impact al forței apei.",
+            "en": "Marvel at this restored tidal mill in a picturesque bay, and try to visit during high tide to fully appreciate the power of the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame",
+            "hu": "Chapelle Notre-Dame",
+            "ro": "Chapelle Notre-Dame",
+            "en": "Chapelle Notre-Dame"
+          },
+          "coords": [
+            -2.997937,
+            48.852881
+          ],
+          "category": "religious",
+          "arrive_at": "10:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.07,
+          "tip_5lang": {
+            "de": "Diese kleine, friedliche Kapelle bietet einen ruhigen Ort der Besinnung; der angrenzende Küstenpfad ist ideal für einen windigen Nachmittagsspaziergang.",
+            "hu": "Ez a kis, békés kápolna nyugodt elmélkedést kínál; a szomszédos tengerparti ösvény ideális egy szeles, délutáni sétához.",
+            "ro": "Această capelă mică și pașnică oferă un loc liniștit pentru reflecție; poteca de coastă adiacentă este ideală pentru o plimbare de după-amiază.",
+            "en": "This small, peaceful chapel offers a quiet place for reflection; the adjacent coastal path is ideal for a breezy afternoon stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin du nord",
+            "hu": "Moulin du nord",
+            "ro": "Moulin du nord",
+            "en": "Moulin du nord"
+          },
+          "coords": [
+            -2.998642,
+            48.854371
+          ],
+          "category": "landmark",
+          "arrive_at": "11:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses historische Wahrzeichen im Norden der Insel, das sich perfekt als Hintergrund für Familienfotos bei Sonnenuntergang eignet.",
+            "hu": "Tekintse meg ezt a történelmi nevezetességet a sziget északi részén, amely tökéletes hátteret nyújt a naplementés családi fotókhoz.",
+            "ro": "Admirați acest reper istoric din nordul insulei, care este fundalul perfect pentru fotografiile de familie la apusul soarelui.",
+            "en": "View this historic landmark in the north of the island, which serves as the perfect backdrop for golden hour family photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare du Rosédo",
+            "hu": "Phare du Rosédo",
+            "ro": "Phare du Rosédo",
+            "en": "Phare du Rosédo"
+          },
+          "coords": [
+            -3.004865,
+            48.857552
+          ],
+          "category": "landmark",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.57,
+          "tip_5lang": {
+            "de": "Dieser elegante Leuchtturm sichert die nördliche Passage; prüfen Sie die Öffnungszeiten im Voraus, da der Innenraum nur selten zugänglich ist.",
+            "hu": "Ez az elegáns világítótorony biztosítja az északi átjárót; előre ellenőrizze a nyitvatartást, mivel a belső tér ritkán látogatható.",
+            "ro": "Acest far elegant securizează trecerea nordică; verificați programul în avans, deoarece interiorul este rareori accesibil publicului.",
+            "en": "This elegant lighthouse secures the northern passage; check the opening hours in advance as the interior is rarely accessible to the public."
+          }
+        },
+        {
+          "name": {
+            "de": "Aod ar Ouis",
+            "hu": "Aod ar Ouis",
+            "ro": "Aod ar Ouis",
+            "en": "Aod ar Ouis"
+          },
+          "coords": [
+            -2.992463,
+            48.859325
+          ],
+          "category": "recreational",
+          "arrive_at": "14:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.93,
+          "tip_5lang": {
+            "de": "Diese abgelegene Bucht lädt zu einem ungestörten Picknick ein; bringen Sie Ihre eigenen Vorräte mit, da es hier keine Geschäfte in der Nähe gibt.",
+            "hu": "Ez az eldugott öböl zavartalan piknikezésre csábít; hozzon magával saját enni- és innivalót, mivel a közelben nincsenek boltok.",
+            "ro": "Acest golf retras vă invită la un picnic netulburat; aduceți-vă propriile provizii, deoarece nu există magazine în apropiere.",
+            "en": "This secluded bay invites you for an undisturbed picnic; bring your own provisions as there are absolutely no shops in the vicinity."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare du Paon",
+            "hu": "Phare du Paon",
+            "ro": "Phare du Paon",
+            "en": "Phare du Paon"
+          },
+          "coords": [
+            -2.985882,
+            48.86536
+          ],
+          "category": "natural",
+          "arrive_at": "15:25",
+          "stay_min": 55,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.82,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von den dramatischen rosa Granitfelsen am nördlichsten Punkt verzaubern; Vorsicht bei starkem Wind auf den Klippen.",
+            "hu": "Hagyja, hogy elvarázsolják a drámai rózsaszín gránitsziklák a legészakibb ponton; vigyázzon az erős szélre a sziklák peremén.",
+            "ro": "Lăsați-vă fermecați de stâncile dramatice de granit roz din cel mai nordic punct; aveți grijă la vânturile puternice de pe stânci.",
+            "en": "Be enchanted by the dramatic pink granite rocks at the northernmost point; exercise caution during strong winds near the cliff edges."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie den Tag mit einer Radtour zur berühmten Gezeitenmühle Birlot und spüren Sie die frische Meeresbrise. Mittags fahren Sie in die Nordhälfte zu charmanten Kapellen und der ikonischen Nordmühle. Verbringen Sie den Nachmittag entspannt an der abgelegenen Bucht Aod ar Ouis. Der Abend belohnt Sie mit den spektakulären rosa Granitfelsen am Leuchtturm Phare du Paon.",
+        "hu": "Kezdje a napot egy kerékpártúrával a híres árapály-malomhoz, érezve a friss tengeri szellőt. Délben az északi féltekén bájos kápolnákat és az ikonikus északi szélmalmot látogatja meg. A délutánt a tömegtől távol, a félreeső Aod ar Ouis öbölben pihenve töltheti. Az este a Phare du Paon világítótorony látványos, rózsaszín gránitszikláival jutalmazza meg a túra végén.",
+        "ro": "Începeți ziua cu o plimbare cu bicicleta la faimoasa moară de maree, simțind briza mării. La prânz ajungeți în jumătatea nordică, vizitând capele fermecătoare și iconica moară de vânt. Petreceți după-amiaza relaxându-vă în golful retras Aod ar Ouis, departe de mulțimi. Seara vă răsplătește cu stâncile spectaculoase de granit roz de la farul emblematic Phare du Paon.",
+        "en": "Start the day with a cycling trip to the famous Birlot tidal mill, feeling the fresh sea breeze. Midday brings you to the northern half, visiting charming chapels and the iconic northern windmill. Spend the afternoon relaxing at the secluded Aod ar Ouis bay, far from the crowds. The evening rewards you with the spectacular pink granite rocks at the Phare du Paon lighthouse."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:06",
+      "total_km": 4.54,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Verreries de Bréhat",
+            "hu": "Verreries de Bréhat",
+            "ro": "Verreries de Bréhat",
+            "en": "Verreries de Bréhat"
+          },
+          "coords": [
+            -3.00781,
+            48.838467
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle Glaskunst in der historischen Zitadelle und kaufen Sie einzigartige Souvenirs direkt in der angeschlossenen Werkstatt.",
+            "hu": "Csodálja meg a hagyományos üvegművészetet a történelmi fellegvárban, és vásároljon egyedi emléktárgyakat közvetlenül a helyszínen.",
+            "ro": "Admirați arta tradițională a sticlei în cetatea istorică și cumpărați suveniruri unice direct din atelierul atașat pentru a sprijini meșterii.",
+            "en": "Admire traditional glass art in the historic citadel and purchase unique, handcrafted souvenirs directly from the workshop to support local artisans."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame de Bonne Nouvelle",
+            "hu": "Église Notre-Dame de Bonne Nouvelle",
+            "ro": "Église Notre-Dame de Bonne Nouvelle",
+            "en": "Église Notre-Dame de Bonne Nouvelle"
+          },
+          "coords": [
+            -2.99952,
+            48.84572
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.97,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese charmante Kirche aus dem 12. Jahrhundert, die als spirituelles Herz der Insel gilt, und achten Sie auf die maritimen Details.",
+            "hu": "Látogassa meg ezt a bájos 12. századi templomot, a sziget spirituális szívét, és figyelje meg a hajósok által hagyott tengerészeti részleteket.",
+            "ro": "Vizitați această biserică fermecătoare din secolul 12, inima spirituală a insulei, și acordați atenție detaliilor maritime lăsate de marinari.",
+            "en": "Visit this charming 12th-century church, the spiritual heart of the island, and pay attention to the maritime details left by local sailors."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin à marée du Birlot",
+            "hu": "Moulin à marée du Birlot",
+            "ro": "Moulin à marée du Birlot",
+            "en": "Moulin à marée du Birlot"
+          },
+          "coords": [
+            -3.009984,
+            48.847345
+          ],
+          "category": "landmark",
+          "arrive_at": "11:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.79,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese restaurierte Gezeitenmühle an einer malerischen Bucht und besuchen Sie sie bei Flut, um die volle Wirkung der Natur zu sehen.",
+            "hu": "Csodálja meg ezt a festői öbölben álló, felújított árapály-malmot, és látogassa meg dagály idején, hogy teljes pompájában láthassa.",
+            "ro": "Admirați această moară de maree restaurată dintr-un golf pitoresc și vizitați-o la flux pentru a vedea întregul impact al forței apei.",
+            "en": "Marvel at this restored tidal mill in a picturesque bay, and try to visit during high tide to fully appreciate the power of the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Pors Ar Men",
+            "hu": "Pors Ar Men",
+            "ro": "Pors Ar Men",
+            "en": "Pors Ar Men"
+          },
+          "coords": [
+            -3.008782,
+            48.850987
+          ],
+          "category": "recreational",
+          "arrive_at": "12:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.41,
+          "tip_5lang": {
+            "de": "Diese Bucht ist ein beliebter Ankerplatz für Segler und bietet großartige Ausblicke; ideal für eine kurze Rast auf einer der Bänke.",
+            "hu": "Ez az öböl a vitorlázók kedvelt horgonyzóhelye, nagyszerű kilátással; ideális egy rövid pihenőre a part menti padok egyikén.",
+            "ro": "Acest golf este un ancoraj popular pentru marinari și oferă vederi minunate; ideal pentru o scurtă odihnă pe una dintre bănci.",
+            "en": "This bay is a popular anchorage for sailors and offers great views; it is ideal for a short rest on one of the coastal benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Ot ar Tres",
+            "hu": "Ot ar Tres",
+            "ro": "Ot ar Tres",
+            "en": "Ot ar Tres"
+          },
+          "coords": [
+            -2.994053,
+            48.856532
+          ],
+          "category": "recreational",
+          "arrive_at": "13:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.23,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem ruhigen Strand entlang, um Muscheln zu sammeln, und achten Sie auf die Gezeiten, um nicht nasse Füße zu bekommen.",
+            "hu": "Sétáljon végig ezen a csendes strandon kagylókat gyűjtve, és ügyeljen az árapályra, nehogy vizes legyen a lába a séta során.",
+            "ro": "Plimbați-vă de-a lungul acestei plaje liniștite pentru a colecta scoici și fiți atenți la maree pentru a nu vă uda picioarele.",
+            "en": "Walk along this quiet beach to collect seashells, and always pay close attention to the tides to avoid getting your feet wet."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare du Paon",
+            "hu": "Phare du Paon",
+            "ro": "Phare du Paon",
+            "en": "Phare du Paon"
+          },
+          "coords": [
+            -2.985882,
+            48.86536
+          ],
+          "category": "natural",
+          "arrive_at": "15:11",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.14,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von den dramatischen rosa Granitfelsen am nördlichsten Punkt verzaubern; Vorsicht bei starkem Wind auf den Klippen.",
+            "hu": "Hagyja, hogy elvarázsolják a drámai rózsaszín gránitsziklák a legészakibb ponton; vigyázzon az erős szélre a sziklák peremén.",
+            "ro": "Lăsați-vă fermecați de stâncile dramatice de granit roz din cel mai nordic punct; aveți grijă la vânturile puternice de pe stânci.",
+            "en": "Be enchanted by the dramatic pink granite rocks at the northernmost point; exercise caution during strong winds near the cliff edges."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nehmen Sie den Insel-Shuttle zu den faszinierenden Glaswerkstätten im Süden. Mittags fahren Sie durch das historische Dorfzentrum und bewundern die beeindruckende Gezeitenmühle. Der Nachmittag bietet gemütliche Stopps an den Buchten Pors Ar Men und Ot ar Tres. Beenden Sie Ihre Reise am nördlichsten Punkt und beobachten Sie die Wellen, die gegen den Phare du Paon schlagen.",
+        "hu": "Szálljon fel a szigeti transzferre, és kezdje a déli üvegműhelyeknél. Dél körül utazzon át a történelmi faluközponton, és csodálja meg a lenyűgöző árapály-malmot. A délután folyamán kényelmesen megállhat a Pors Ar Men és az Ot ar Tres pihenőöbleinél. Fejezze be utazását a legészakibb ponton, figyelve a hullámokat, ahogy a Phare du Paon szikláinak csapódnak a nap végén.",
+        "ro": "Luați naveta insulei pentru a începe la atelierele de sticlă din sud. În jurul prânzului, călătoriți prin centrul istoric al satului și admirați impresionanta moară de maree. După-amiaza permite opriri relaxante în golfurile Pors Ar Men și Ot ar Tres. Încheiați-vă călătoria în cel mai nordic punct, urmărind valurile care se sparg dramatic de stâncile farului Phare du Paon.",
+        "en": "Hop on the island shuttle to start at the fascinating glass workshops in the south. Around midday, travel through the historical village center and admire the impressive tidal mill at Birlot. The afternoon allows for leisurely stops at the recreational bays of Pors Ar Men and Ot ar Tres. End your journey at the northernmost point, watching the waves crash against the Phare du Paon."
+      }
+    }
+  }
+}

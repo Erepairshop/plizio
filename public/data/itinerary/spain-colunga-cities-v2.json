@@ -1,0 +1,497 @@
+{
+  "city_id": "spain-colunga-cities-v2",
+  "anchor": {
+    "name": "Colunga",
+    "coords": [
+      -5.27067,
+      43.48512
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:52",
+      "total_km": 2.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Palacio de Estrada",
+            "hu": "Palacio de Estrada",
+            "ro": "Palacio de Estrada",
+            "en": "Palacio de Estrada"
+          },
+          "coords": [
+            -5.272587,
+            43.485435
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die wunderschöne Architektur dieses Adelshauses aus dem 18. Jahrhundert und prüfen Sie unbedingt, ob der Innenhof heute für Besucher geöffnet ist.",
+            "hu": "Nézze meg ennek a nemesi háznak a gyönyörű, 18. századi építészetét, és ne felejtse el ellenőrizni, hogy a belső udvar ma nyitva áll-e a látogatók előtt.",
+            "ro": "Admirați frumoasa arhitectură din secolul al XVIII-lea a acestei case nobiliare și nu uitați să verificați dacă curtea interioară este deschisă astăzi.",
+            "en": "Look at the beautiful 18th-century architecture of this noble house, and remember to check if the interior courtyard is open to visitors today."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de los Pablos",
+            "hu": "Casa de los Pablos",
+            "ro": "Casa de los Pablos",
+            "en": "Casa de los Pablos"
+          },
+          "coords": [
+            -5.270658,
+            43.484927
+          ],
+          "category": "landmark",
+          "arrive_at": "09:37",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionellen asturischen Holzgalerien an der Fassade, die sich am besten im sanften Morgenlicht vom angrenzenden Platz aus fotografieren lassen.",
+            "hu": "Csodálja meg a homlokzaton lévő hagyományos asztúriai fagalériákat, amelyeket a szomszédos térről a lágy reggeli fényben lehet a legjobban fotózni.",
+            "ro": "Admirați galeriile tradiționale din lemn asturian de pe fațadă, care pot fi cel mai bine fotografiate în lumina blândă a dimineții din piața alăturată.",
+            "en": "Admire the traditional Asturian wooden galleries on the facade, which are best photographed in the soft morning light from the adjacent square."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de Soportales",
+            "hu": "Casa de Soportales",
+            "ro": "Casa de Soportales",
+            "en": "Casa de Soportales"
+          },
+          "coords": [
+            -5.27156,
+            43.484899
+          ],
+          "category": "landmark",
+          "arrive_at": "10:04",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Schlendern Sie unter den historischen Arkaden dieses charmanten Hauses, wo einst Kaufleute handelten, und suchen Sie hier Schutz an einem regnerischen asturischen Tag.",
+            "hu": "Sétáljon végig ennek a bájos háznak a történelmi árkádjai alatt, ahol egykor kereskedők üzleteltek, és keressen itt menedéket egy esős asztúriai napon.",
+            "ro": "Plimbați-vă pe sub arcadele istorice ale acestei case fermecătoare unde negustorii făceau comerț, adăpostindu-vă aici într-o zi ploioasă tipic asturiană.",
+            "en": "Stroll under the historic arcades of this charming house where merchants once traded, taking shelter here if you visit on a typical rainy Asturian day."
+          }
+        },
+        {
+          "name": {
+            "de": "Chalet Francés",
+            "hu": "Chalet Francés",
+            "ro": "Chalet Francés",
+            "en": "Chalet Francés"
+          },
+          "coords": [
+            -5.26894,
+            43.485044
+          ],
+          "category": "landmark",
+          "arrive_at": "10:34",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie den unverwechselbaren Indiano-Stil dieser Emigrantenvilla und achten Sie dabei besonders auf die lebhaften Fliesen und die exotischen Gartenreste.",
+            "hu": "Fedezze fel ennek a visszatért emigráns kastélynak a jellegzetes Indiano stílusát, különös figyelmet fordítva az élénk csempékre és az egzotikus kert maradványaira.",
+            "ro": "Descoperiți stilul distinctiv Indiano al acestui conac al unui emigrant întors, acordând o atenție deosebită plăcilor sale vibrante și resturilor de grădină exotică.",
+            "en": "Discover the distinct Indiano style of this returning emigrant's mansion, paying special attention to its vibrant tiles and exotic garden remnants."
+          }
+        },
+        {
+          "name": {
+            "de": "Capilla de Nuestra Señora de Loreto",
+            "hu": "Capilla de Nuestra Señora de Loreto",
+            "ro": "Capilla de Nuestra Señora de Loreto",
+            "en": "Capilla de Nuestra Señora de Loreto"
+          },
+          "coords": [
+            -5.265046,
+            43.48457
+          ],
+          "category": "religious",
+          "arrive_at": "11:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieser malerischen Kapelle und kommen Sie kurz vor der Messe, wenn Sie das schlichte, aber schöne Innere sehen möchten.",
+            "hu": "Élvezze e festői kápolna békés hangulatát, és próbáljon meg a misék előtt érkezni, ha szeretné megtekinteni az egyszerű, mégis gyönyörű belső teret.",
+            "ro": "Bucurați-vă de atmosfera pașnică a acestei capele pitorești și încercați să ajungeți chiar înainte de liturghie pentru a vedea interiorul simplu, dar frumos.",
+            "en": "Enjoy the peaceful atmosphere of this quaint chapel, and try arriving just before mass times if you wish to see the simple yet beautiful interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Capilla de Santa Catalina de Alejandría",
+            "hu": "Capilla de Santa Catalina de Alejandría",
+            "ro": "Capilla de Santa Catalina de Alejandría",
+            "en": "Capilla de Santa Catalina de Alejandría"
+          },
+          "coords": [
+            -5.251288,
+            43.489704
+          ],
+          "category": "historical",
+          "arrive_at": "12:02",
+          "stay_min": 110,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die romanischen Ursprünge dieser Küsteneinsiedelei, während Sie den weiten Blick auf das Kantabrische Meer genießen, und bringen Sie eine Jacke mit.",
+            "hu": "Fedezze fel e tengerparti remetelak román kori eredetét, miközben gyönyörködik a Vizcayai-öbölre nyíló pazar kilátásban, és hozzon magával egy kabátot a szél ellen.",
+            "ro": "Explorați originile romanice ale acestui schit de coastă în timp ce admirați priveliștea spre Marea Cantabrică, aducând o jachetă pentru vântul puternic.",
+            "en": "Explore the Romanesque origins of this coastal hermitage while taking in the sweeping views of the Cantabrian Sea, bringing a jacket for the strong coastal wind."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen unseren Spaziergang im Herzen von Colunga und erkunden sein großartiges architektonisches Erbe mit seinen Adelshäusern und Arkaden.\n\nDas historische Zentrum offenbart Geschichten von zurückgekehrten Auswanderern und alter Hingabe, bevor wir zum Stadtrand aufbrechen.\n\nEin ruhiger Spaziergang führt uns etwas außerhalb des Zentrums zu einer charmanten Küsteneinsiedelei inmitten wunderschöner Natur.\n\nWenn der Tag zur Neige geht, bietet die Meeresbrise einen ruhigen Abschluss unserer Erkundung der historischen Schätze von Colunga.",
+        "hu": "Sétánkat Colunga szívében kezdjük, és nemesi házakon és árkádokon keresztül nyomon követjük nagyszerű építészeti örökségét.\n\nA történelmi központ a visszatért emigránsok és az ősi áhítat történeteit tárja elénk, mielőtt a város széle felé indulnánk.\n\nEgy békés séta egy kicsit kivezet minket a központból egy hangulatos tengerparti remetelakhoz, amelyet gyönyörű természet vesz körül.\n\nAhogy a nap a végéhez közeledik, a tengerparti szellő békés lezárást nyújt Colunga történelmi kincseinek felfedezéséhez.",
+        "ro": "Începem plimbarea noastră în inima orașului Colunga, explorând marea sa moștenire arhitecturală prin case nobiliare și arcade.\n\nCentrul istoric dezvăluie povești despre emigranții întorși și devotamentul străvechi, înainte de a ne îndrepta spre marginea orașului.\n\nO plimbare liniștită ne scoate puțin din centru, către un schit fermecător de pe coastă, înconjurat de o natură frumoasă.\n\nPe măsură ce ziua se încheie, briza de coastă oferă un final senin explorării noastre a comorilor istorice din Colunga.",
+        "en": "We begin our walk in the heart of Colunga, tracing its grand architectural heritage through noble houses and arcades.\n\nThe historic center reveals stories of returning emigrants and ancient devotion before we head towards the edge of town.\n\nA peaceful stroll takes us slightly out of the core to a charming coastal hermitage surrounded by beautiful natural vistas.\n\nAs the day winds down, the coastal breeze offers a serene end to our exploration of Colunga's historical treasures."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:10",
+      "total_km": 5.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Palacio de Estrada",
+            "hu": "Palacio de Estrada",
+            "ro": "Palacio de Estrada",
+            "en": "Palacio de Estrada"
+          },
+          "coords": [
+            -5.272587,
+            43.485435
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die wunderschöne Architektur dieses Adelshauses aus dem 18. Jahrhundert und prüfen Sie unbedingt, ob der Innenhof heute für Besucher geöffnet ist.",
+            "hu": "Nézze meg ennek a nemesi háznak a gyönyörű, 18. századi építészetét, és ne felejtse el ellenőrizni, hogy a belső udvar ma nyitva áll-e a látogatók előtt.",
+            "ro": "Admirați frumoasa arhitectură din secolul al XVIII-lea a acestei case nobiliare și nu uitați să verificați dacă curtea interioară este deschisă astăzi.",
+            "en": "Look at the beautiful 18th-century architecture of this noble house, and remember to check if the interior courtyard is open to visitors today."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de los Pablos",
+            "hu": "Casa de los Pablos",
+            "ro": "Casa de los Pablos",
+            "en": "Casa de los Pablos"
+          },
+          "coords": [
+            -5.270658,
+            43.484927
+          ],
+          "category": "landmark",
+          "arrive_at": "09:37",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionellen asturischen Holzgalerien an der Fassade, die sich am besten im sanften Morgenlicht vom angrenzenden Platz aus fotografieren lassen.",
+            "hu": "Csodálja meg a homlokzaton lévő hagyományos asztúriai fagalériákat, amelyeket a szomszédos térről a lágy reggeli fényben lehet a legjobban fotózni.",
+            "ro": "Admirați galeriile tradiționale din lemn asturian de pe fațadă, care pot fi cel mai bine fotografiate în lumina blândă a dimineții din piața alăturată.",
+            "en": "Admire the traditional Asturian wooden galleries on the facade, which are best photographed in the soft morning light from the adjacent square."
+          }
+        },
+        {
+          "name": {
+            "de": "Chalet Francés",
+            "hu": "Chalet Francés",
+            "ro": "Chalet Francés",
+            "en": "Chalet Francés"
+          },
+          "coords": [
+            -5.26894,
+            43.485044
+          ],
+          "category": "landmark",
+          "arrive_at": "10:04",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie den unverwechselbaren Indiano-Stil dieser Emigrantenvilla und achten Sie dabei besonders auf die lebhaften Fliesen und die exotischen Gartenreste.",
+            "hu": "Fedezze fel ennek a visszatért emigráns kastélynak a jellegzetes Indiano stílusát, különös figyelmet fordítva az élénk csempékre és az egzotikus kert maradványaira.",
+            "ro": "Descoperiți stilul distinctiv Indiano al acestui conac al unui emigrant întors, acordând o atenție deosebită plăcilor sale vibrante și resturilor de grădină exotică.",
+            "en": "Discover the distinct Indiano style of this returning emigrant's mansion, paying special attention to its vibrant tiles and exotic garden remnants."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Jurásico de Asturias",
+            "hu": "Museo del Jurásico de Asturias",
+            "ro": "Museo del Jurásico de Asturias",
+            "en": "Museo del Jurásico de Asturias"
+          },
+          "coords": [
+            -5.274142,
+            43.501056
+          ],
+          "category": "museum",
+          "arrive_at": "10:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die riesigen Dinosaurier-Skelettnachbildungen in diesem fußabdruckförmigen Museum und buchen Sie Ihre Tickets vorab online, um Warteschlangen zu vermeiden.",
+            "hu": "Csodálja meg a hatalmas dinoszauruszcsontváz-másolatokat ebben a lábnyom alakú múzeumban, és foglalja le jegyeit online, hogy elkerülje a nyári sorban állást.",
+            "ro": "Minunați-vă de replicile masive de schelete de dinozaur din acest muzeu în formă de amprentă, rezervând biletele online pentru a evita cozile de vară.",
+            "en": "Marvel at the massive dinosaur skeleton replicas inside this footprint-shaped museum, booking your tickets online in advance to skip the long summer queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de La Griega",
+            "hu": "Playa de La Griega",
+            "ro": "Playa de La Griega",
+            "en": "Playa de La Griega"
+          },
+          "coords": [
+            -5.260855,
+            43.501621
+          ],
+          "category": "recreational",
+          "arrive_at": "12:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am goldenen Sand dieses malerischen Strandes und prüfen Sie vorab die Gezeiten, um sicher zu den Dinosaurier-Fußabdrücken wandern zu können.",
+            "hu": "Pihenjen ennek a festői torkolati strandnak az aranyhomokján, és előzetesen ellenőrizze az árapály-táblázatot a dinoszaurusz-lábnyomokhoz vezető biztonságos sétához.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje pitorești, verificând programul mareelor pentru a asigura o plimbare sigură spre amprentele de dinozaur.",
+            "en": "Relax on the golden sands of this scenic estuary beach, checking the tide schedule beforehand to ensure a safe walk towards the dinosaur footprints."
+          }
+        },
+        {
+          "name": {
+            "de": "Yacimiento de icnitas de dinosaurio de la playa de la Griega",
+            "hu": "Yacimiento de icnitas de dinosaurio de la playa de la Griega",
+            "ro": "Yacimiento de icnitas de dinosaurio de la playa de la Griega",
+            "en": "Yacimiento de icnitas de dinosaurio de la playa de la Griega"
+          },
+          "coords": [
+            -5.255116,
+            43.500389
+          ],
+          "category": "landmark",
+          "arrive_at": "13:47",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Finden Sie einige der größten Sauropoden-Fußabdrücke der Welt in den Küstenfelsen und besuchen Sie diese bei Ebbe, um die prähistorischen Spuren am besten zu sehen.",
+            "hu": "Keresse meg a világ legnagyobb, parti sziklákba vájt szauropoda lábnyomait, és kizárólag apálykor látogasson ide, hogy a legtisztábban lássa e őskori nyomokat.",
+            "ro": "Găsiți unele dintre cele mai mari amprente de sauropode din lume în rocile de coastă, vizitând la reflux pentru a vedea cel mai clar aceste semne preistorice.",
+            "en": "Find some of the largest sauropod footprints in the world etched into the coastal rocks, visiting exclusively at low tide for the clearest view of these prehistoric marks."
+          }
+        },
+        {
+          "name": {
+            "de": "Capilla de Santa Catalina de Alejandría",
+            "hu": "Capilla de Santa Catalina de Alejandría",
+            "ro": "Capilla de Santa Catalina de Alejandría",
+            "en": "Capilla de Santa Catalina de Alejandría"
+          },
+          "coords": [
+            -5.251288,
+            43.489704
+          ],
+          "category": "historical",
+          "arrive_at": "14:20",
+          "stay_min": 110,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die romanischen Ursprünge dieser Küsteneinsiedelei, während Sie den weiten Blick auf das Kantabrische Meer genießen, und bringen Sie eine Jacke mit.",
+            "hu": "Fedezze fel e tengerparti remetelak román kori eredetét, miközben gyönyörködik a Vizcayai-öbölre nyíló pazar kilátásban, és hozzon magával egy kabátot a szél ellen.",
+            "ro": "Explorați originile romanice ale acestui schit de coastă în timp ce admirați priveliștea spre Marea Cantabrică, aducând o jachetă pentru vântul puternic.",
+            "en": "Explore the Romanesque origins of this coastal hermitage while taking in the sweeping views of the Cantabrian Sea, bringing a jacket for the strong coastal wind."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine morgendliche Fahrt führt uns zügig an den eleganten Palästen und historischen Häusern im Zentrum von Colunga vorbei.\n\nWir radeln in Richtung Küste und erreichen das beeindruckende Dinosauriermuseum, um Millionen Jahre in die Vergangenheit zu reisen.\n\nDie Route führt weiter hinunter zum wunderschönen Mündungsstrand, wo wir die Fahrräder abstellen, um alte Fußabdrücke zu erkunden.\n\nAuf dem Rückweg entlang der Küstenpfade rundet ein Halt an einer Kapelle am Meer einen aktiven und faszinierenden Tag ab.",
+        "hu": "Egy reggeli tekerés során gyorsan elhaladunk Colunga központjának elegáns palotái és történelmi házai mellett.\n\nA part felé pedálozunk, és megérkezünk a lenyűgöző dinoszaurusz múzeumhoz, hogy évmilliókat utazzunk vissza az időben.\n\nAz útvonal a gyönyörű torkolati strandig vezet, ahol letesszük a kerékpárokat, hogy felfedezzük a sziklákban lévő ősi lábnyomokat.\n\nA parti ösvényeken visszakerekezve a tengerparti kápolnánál tett megálló teszi teljessé ezt az aktív és lenyűgöző napot.",
+        "ro": "O plimbare de dimineață ne duce rapid pe lângă palatele elegante și casele istorice din centrul orașului Colunga.\n\nPedalăm spre coastă, ajungând la impresionantul muzeu al dinozaurilor pentru a ne întoarce în timp cu milioane de ani.\n\nTraseul continuă până la frumoasa plajă a estuarului, unde lăsăm bicicletele pentru a explora amprentele antice din stânci.\n\nPedalând înapoi pe potecile de coastă, o oprire la o capelă pe malul mării completează o zi activă și fascinantă.",
+        "en": "A morning ride takes us swiftly past the elegant palaces and historic houses of central Colunga.\n\nWe pedal towards the coast, arriving at the impressive dinosaur museum to step back millions of years in time.\n\nThe route continues down to the beautiful estuary beach, where we leave the bikes to explore ancient footprints in the rocks.\n\nCycling back along the coastal paths, a stop at a seaside chapel rounds off an active and fascinating day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:44",
+      "total_km": 7.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Casa de Soportales",
+            "hu": "Casa de Soportales",
+            "ro": "Casa de Soportales",
+            "en": "Casa de Soportales"
+          },
+          "coords": [
+            -5.27156,
+            43.484899
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie unter den historischen Arkaden dieses charmanten Hauses, wo einst Kaufleute handelten, und suchen Sie hier Schutz an einem regnerischen asturischen Tag.",
+            "hu": "Sétáljon végig ennek a bájos háznak a történelmi árkádjai alatt, ahol egykor kereskedők üzleteltek, és keressen itt menedéket egy esős asztúriai napon.",
+            "ro": "Plimbați-vă pe sub arcadele istorice ale acestei case fermecătoare unde negustorii făceau comerț, adăpostindu-vă aici într-o zi ploioasă tipic asturiană.",
+            "en": "Stroll under the historic arcades of this charming house where merchants once traded, taking shelter here if you visit on a typical rainy Asturian day."
+          }
+        },
+        {
+          "name": {
+            "de": "Capilla de Nuestra Señora de Loreto",
+            "hu": "Capilla de Nuestra Señora de Loreto",
+            "ro": "Capilla de Nuestra Señora de Loreto",
+            "en": "Capilla de Nuestra Señora de Loreto"
+          },
+          "coords": [
+            -5.265046,
+            43.48457
+          ],
+          "category": "religious",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieser malerischen Kapelle und kommen Sie kurz vor der Messe, wenn Sie das schlichte, aber schöne Innere sehen möchten.",
+            "hu": "Élvezze e festői kápolna békés hangulatát, és próbáljon meg a misék előtt érkezni, ha szeretné megtekinteni az egyszerű, mégis gyönyörű belső teret.",
+            "ro": "Bucurați-vă de atmosfera pașnică a acestei capele pitorești și încercați să ajungeți chiar înainte de liturghie pentru a vedea interiorul simplu, dar frumos.",
+            "en": "Enjoy the peaceful atmosphere of this quaint chapel, and try arriving just before mass times if you wish to see the simple yet beautiful interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Capilla de Santa Catalina de Alejandría",
+            "hu": "Capilla de Santa Catalina de Alejandría",
+            "ro": "Capilla de Santa Catalina de Alejandría",
+            "en": "Capilla de Santa Catalina de Alejandría"
+          },
+          "coords": [
+            -5.251288,
+            43.489704
+          ],
+          "category": "historical",
+          "arrive_at": "10:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die romanischen Ursprünge dieser Küsteneinsiedelei, während Sie den weiten Blick auf das Kantabrische Meer genießen, und bringen Sie eine Jacke mit.",
+            "hu": "Fedezze fel e tengerparti remetelak román kori eredetét, miközben gyönyörködik a Vizcayai-öbölre nyíló pazar kilátásban, és hozzon magával egy kabátot a szél ellen.",
+            "ro": "Explorați originile romanice ale acestui schit de coastă în timp ce admirați priveliștea spre Marea Cantabrică, aducând o jachetă pentru vântul puternic.",
+            "en": "Explore the Romanesque origins of this coastal hermitage while taking in the sweeping views of the Cantabrian Sea, bringing a jacket for the strong coastal wind."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Jurásico de Asturias",
+            "hu": "Museo del Jurásico de Asturias",
+            "ro": "Museo del Jurásico de Asturias",
+            "en": "Museo del Jurásico de Asturias"
+          },
+          "coords": [
+            -5.274142,
+            43.501056
+          ],
+          "category": "museum",
+          "arrive_at": "11:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die riesigen Dinosaurier-Skelettnachbildungen in diesem fußabdruckförmigen Museum und buchen Sie Ihre Tickets vorab online, um Warteschlangen zu vermeiden.",
+            "hu": "Csodálja meg a hatalmas dinoszauruszcsontváz-másolatokat ebben a lábnyom alakú múzeumban, és foglalja le jegyeit online, hogy elkerülje a nyári sorban állást.",
+            "ro": "Minunați-vă de replicile masive de schelete de dinozaur din acest muzeu în formă de amprentă, rezervând biletele online pentru a evita cozile de vară.",
+            "en": "Marvel at the massive dinosaur skeleton replicas inside this footprint-shaped museum, booking your tickets online in advance to skip the long summer queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de La Griega",
+            "hu": "Playa de La Griega",
+            "ro": "Playa de La Griega",
+            "en": "Playa de La Griega"
+          },
+          "coords": [
+            -5.260855,
+            43.501621
+          ],
+          "category": "recreational",
+          "arrive_at": "13:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am goldenen Sand dieses malerischen Strandes und prüfen Sie vorab die Gezeiten, um sicher zu den Dinosaurier-Fußabdrücken wandern zu können.",
+            "hu": "Pihenjen ennek a festői torkolati strandnak az aranyhomokján, és előzetesen ellenőrizze az árapály-táblázatot a dinoszaurusz-lábnyomokhoz vezető biztonságos sétához.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje pitorești, verificând programul mareelor pentru a asigura o plimbare sigură spre amprentele de dinozaur.",
+            "en": "Relax on the golden sands of this scenic estuary beach, checking the tide schedule beforehand to ensure a safe walk towards the dinosaur footprints."
+          }
+        },
+        {
+          "name": {
+            "de": "Yacimiento de icnitas de dinosaurio de la playa de la Griega",
+            "hu": "Yacimiento de icnitas de dinosaurio de la playa de la Griega",
+            "ro": "Yacimiento de icnitas de dinosaurio de la playa de la Griega",
+            "en": "Yacimiento de icnitas de dinosaurio de la playa de la Griega"
+          },
+          "coords": [
+            -5.255116,
+            43.500389
+          ],
+          "category": "landmark",
+          "arrive_at": "14:49",
+          "stay_min": 55,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Finden Sie einige der größten Sauropoden-Fußabdrücke der Welt in den Küstenfelsen und besuchen Sie diese bei Ebbe, um die prähistorischen Spuren am besten zu sehen.",
+            "hu": "Keresse meg a világ legnagyobb, parti sziklákba vájt szauropoda lábnyomait, és kizárólag apálykor látogasson ide, hogy a legtisztábban lássa e őskori nyomokat.",
+            "ro": "Găsiți unele dintre cele mai mari amprente de sauropode din lume în rocile de coastă, vizitând la reflux pentru a vedea cel mai clar aceste semne preistorice.",
+            "en": "Find some of the largest sauropod footprints in the world etched into the coastal rocks, visiting exclusively at low tide for the clearest view of these prehistoric marks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen in der Stadt, bewundern kurz die traditionelle Architektur und fahren dann zu den malerischen Höhepunkten der Küste.\n\nUnsere Fahrt führt uns hinauf zum Dinosauriermuseum, dessen erhöhte Lage auch einen atemberaubenden Blick auf die Umgebung bietet.\n\nEin kurzer Sprung bringt uns hinunter zum Strand, perfekt für einen Nachmittagsspaziergang, um riesige Dinosaurier-Fußabdrücke zu entdecken.\n\nWir beenden den Tag, indem wir bequem in Richtung Stadt zurückfahren und beobachten, wie die Sonne über dem Kantabrischen Meer untergeht.",
+        "hu": "A városban indulva röviden megcsodáljuk a hagyományos építészetet, majd kocsival a festői part menti látnivalók felé indulunk.\n\nUtunk a dinoszaurusz múzeumhoz vezet, amelynek magaslati elhelyezkedése lenyűgöző kilátást is nyújt a környékre.\n\nEgy rövid ugrás levisz minket a strandra, amely tökéletes egy délutáni sétához, hogy hatalmas dinoszaurusz-lábnyomokat fedezzünk fel.\n\nA napot úgy fejezzük be, hogy kényelmesen visszautazunk a város felé, és nézzük, ahogy a nap leereszkedik a Vizcayai-öböl felett.",
+        "ro": "Începând din oraș, admirăm pe scurt arhitectura tradițională înainte de a conduce spre atracțiile pitorești de pe coastă.\n\nCălătoria ne duce la muzeul dinozaurilor, a cărui poziție înaltă oferă, de asemenea, priveliști uimitoare ale zonei înconjurătoare.\n\nUn salt scurt ne aduce pe plajă, perfectă pentru o plimbare de după-amiază pentru a descoperi amprente uriașe de dinozauri.\n\nÎncheiem ziua conducând confortabil înapoi spre oraș, urmărind cum soarele apune peste Marea Cantabrică.",
+        "en": "Starting in town, we briefly admire the traditional architecture before driving out to the scenic coastal highlights.\n\nOur drive takes us up to the dinosaur museum, where its elevated position also provides stunning views of the surrounding area.\n\nA short hop brings us down to the beach, perfect for an afternoon stroll to uncover massive dinosaur footprints.\n\nWe finish the day driving comfortably back towards the town, watching the sun lower over the Cantabrian Sea."
+      }
+    }
+  }
+}

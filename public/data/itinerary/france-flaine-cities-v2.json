@@ -1,0 +1,451 @@
+{
+  "city_id": "france-flaine-cities-v2",
+  "anchor": {
+    "name": "Flaine",
+    "coords": [
+      6.693002,
+      46.003708
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:14",
+      "total_km": 4.26,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle oecuménique de Flaine",
+            "hu": "Chapelle oecuménique de Flaine",
+            "ro": "Chapelle oecuménique de Flaine",
+            "en": "Chapelle oecuménique de Flaine"
+          },
+          "coords": [
+            6.69301,
+            46.004994
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur dieser einzigartigen ökumenischen Kapelle im Zentrum, die spirituelle Ruhe bietet, und achten Sie auf die Öffnungszeiten.",
+            "hu": "Csodálja meg ennek az egyedülálló ökumenikus kápolnának a modern építészetét, amely spirituális nyugalmat kínál, de előzetesen ellenőrizze a nyitvatartást.",
+            "ro": "Admirați arhitectura modernă a acestei capele ecumenice unice care oferă o oază de liniște spirituală și asigurați-vă că verificați programul de vizitare.",
+            "en": "Admire the modern architecture of this unique ecumenical chapel which provides deep spiritual tranquility, but be sure to check the opening hours beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditorium Eric et Sylvie Boissonnas",
+            "hu": "Auditorium Eric et Sylvie Boissonnas",
+            "ro": "Auditorium Eric et Sylvie Boissonnas",
+            "en": "Auditorium Eric et Sylvie Boissonnas"
+          },
+          "coords": [
+            6.690708,
+            46.007723
+          ],
+          "category": "cultural",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erleben Sie die unglaubliche Akustik dieses ikonischen Auditoriums, das einen Meilenstein der Kultur darstellt, und buchen Sie Ihre Tickets am besten online.",
+            "hu": "Tapasztalja meg ennek az ikonikus kulturális mérföldkőnek számító nézőtérnek a lenyűgöző akusztikáját, és érdemes a jegyeket előre, online lefoglalni.",
+            "ro": "Experimentați acustica incredibilă a acestui auditoriu iconic, un adevărat reper cultural, fiind recomandat să vă rezervați biletele online în avans.",
+            "en": "Experience the incredible acoustics of this iconic auditorium representing a cultural milestone, and it is highly recommended to book your tickets online."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle de Flaine",
+            "hu": "Chapelle de Flaine",
+            "ro": "Chapelle de Flaine",
+            "en": "Chapelle de Flaine"
+          },
+          "coords": [
+            6.674331,
+            46.00733
+          ],
+          "category": "religious",
+          "arrive_at": "11:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 1.26,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese charmante kleine Kapelle, die die historische Bergtradition widerspiegelt, und bringen Sie eine Kamera für die wunderschöne Umgebung mit.",
+            "hu": "Fedezze fel ezt a bájos kis kápolnát, amely a történelmi hegyi hagyományokat tükrözi, és ne felejtse el a fényképezőgépét a gyönyörű környezet miatt.",
+            "ro": "Descoperiți această mică și fermecătoare capelă ce reflectă tradițiile montane istorice și nu uitați să aduceți aparatul foto pentru împrejurimi.",
+            "en": "Discover this charming small chapel that beautifully reflects historic mountain traditions, and bring a camera to capture the stunning surrounding scenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Pointe de l'Arbaron",
+            "hu": "Pointe de l'Arbaron",
+            "ro": "Pointe de l'Arbaron",
+            "en": "Pointe de l'Arbaron"
+          },
+          "coords": [
+            6.663695,
+            46.006964
+          ],
+          "category": "natural",
+          "arrive_at": "12:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.81,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick von diesem markanten Berggipfel, der ideal für Naturfreunde ist, und tragen Sie unbedingt festes Schuhwerk.",
+            "hu": "Élvezze a lélegzetelállító panorámát erről a lenyűgöző hegycsúcsról, amely ideális a természet szerelmeseinek, de mindenképpen viseljen túracipőt.",
+            "ro": "Bucurați-vă de panorama uimitoare de pe acest vârf montan impresionant, ideal pentru iubitorii de natură, purtând neapărat încălțăminte de drumeție.",
+            "en": "Enjoy the breathtaking panoramic views from this striking mountain peak, perfect for nature lovers, and be absolutely sure to wear sturdy hiking boots."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvédère d'Aujon",
+            "hu": "Belvédère d'Aujon",
+            "ro": "Belvédère d'Aujon",
+            "en": "Belvédère d'Aujon"
+          },
+          "coords": [
+            6.670353,
+            45.991039
+          ],
+          "category": "natural",
+          "arrive_at": "14:29",
+          "stay_min": 105,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.84,
+          "tip_5lang": {
+            "de": "Erleben Sie weite Landschaften an diesem fantastischen Aussichtspunkt, der den Maßstab der Alpen zeigt, und kommen Sie nachmittags für das beste Licht.",
+            "hu": "Tapasztalja meg a végtelen tájakat ezen a fantasztikus kilátón, amely bemutatja az Alpok nagyságát, és érkezzen délután a legjobb fényviszonyokért.",
+            "ro": "Experimentați peisajele vaste la acest punct de belvedere fantastic ce arată măreția Alpilor, vizitând locul după-amiaza pentru cea mai bună lumină.",
+            "en": "Experience vast landscapes at this fantastic viewpoint that truly showcases the immense scale of the Alps, and try to visit in the afternoon for best light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag in Flaine mit einem Besuch der zentralen, modernen Kapelle.\n\nGenießen Sie danach die Architektur des Auditoriums.\n\nNachmittags wandern Sie zur historischen Kapelle und zur Pointe de l'Arbaron.\n\nBeenden Sie den Tag entspannt am Belvédère d'Aujon mit weiten Blicken.",
+        "hu": "Kezdje a napot Flaine központjában a modern kápolna megtekintésével.\n\nEzt követően élvezze az ikonikus nézőtér építészetét.\n\nDélután túrázzon a történelmi kápolnához és a Pointe de l'Arbaron-hoz.\n\nA napot a Belvédère d'Aujon lenyűgöző kilátásával zárhatja nyugodt környezetben.",
+        "ro": "Începeți ziua în Flaine vizitând capela modernă din centru.\n\nApoi, admirați arhitectura remarcabilă a auditoriului.\n\nDupă-amiază, drumeți spre capela istorică și spre vârful Pointe de l'Arbaron.\n\nÎncheiați ziua relaxant la Belvédère d'Aujon, bucurându-vă de peisajele montane.",
+        "en": "Start your day in Flaine by visiting the modern central chapel.\n\nAfterwards, marvel at the architecture of the iconic auditorium.\n\nIn the afternoon, hike to the historic chapel and the Pointe de l'Arbaron.\n\nEnd your day relaxing at Belvédère d'Aujon with its sweeping views."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 6.35,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Auditorium Eric et Sylvie Boissonnas",
+            "hu": "Auditorium Eric et Sylvie Boissonnas",
+            "ro": "Auditorium Eric et Sylvie Boissonnas",
+            "en": "Auditorium Eric et Sylvie Boissonnas"
+          },
+          "coords": [
+            6.690708,
+            46.007723
+          ],
+          "category": "cultural",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die unglaubliche Akustik dieses ikonischen Auditoriums, das einen Meilenstein der Kultur darstellt, und buchen Sie Ihre Tickets am besten online.",
+            "hu": "Tapasztalja meg ennek az ikonikus kulturális mérföldkőnek számító nézőtérnek a lenyűgöző akusztikáját, és érdemes a jegyeket előre, online lefoglalni.",
+            "ro": "Experimentați acustica incredibilă a acestui auditoriu iconic, un adevărat reper cultural, fiind recomandat să vă rezervați biletele online în avans.",
+            "en": "Experience the incredible acoustics of this iconic auditorium representing a cultural milestone, and it is highly recommended to book your tickets online."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle oecuménique de Flaine",
+            "hu": "Chapelle oecuménique de Flaine",
+            "ro": "Chapelle oecuménique de Flaine",
+            "en": "Chapelle oecuménique de Flaine"
+          },
+          "coords": [
+            6.69301,
+            46.004994
+          ],
+          "category": "religious",
+          "arrive_at": "10:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur dieser einzigartigen ökumenischen Kapelle im Zentrum, die spirituelle Ruhe bietet, und achten Sie auf die Öffnungszeiten.",
+            "hu": "Csodálja meg ennek az egyedülálló ökumenikus kápolnának a modern építészetét, amely spirituális nyugalmat kínál, de előzetesen ellenőrizze a nyitvatartást.",
+            "ro": "Admirați arhitectura modernă a acestei capele ecumenice unice care oferă o oază de liniște spirituală și asigurați-vă că verificați programul de vizitare.",
+            "en": "Admire the modern architecture of this unique ecumenical chapel which provides deep spiritual tranquility, but be sure to check the opening hours beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Tête de Balacha",
+            "hu": "Tête de Balacha",
+            "ro": "Tête de Balacha",
+            "en": "Tête de Balacha"
+          },
+          "coords": [
+            6.716943,
+            46.007238
+          ],
+          "category": "natural",
+          "arrive_at": "11:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.85,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesem beeindruckenden Gipfel, um die raue alpine Schönheit voll zu erfassen, und packen Sie ausreichend Wasser für den steilen Aufstieg ein.",
+            "hu": "Túrázzon el ehhez a lenyűgöző csúcshoz, hogy teljes mértékben átélje a zord alpesi szépséget, és pakoljon elegendő vizet a meredek emelkedőhöz.",
+            "ro": "Drumeți către acest vârf impresionant pentru a surprinde toată frumusețea alpină brută și asigurați-vă că aveți suficientă apă pentru urcarea abruptă.",
+            "en": "Hike to this impressive peak to fully grasp the raw and spectacular alpine beauty, making sure to pack plenty of water for the somewhat steep ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Tête de Véret",
+            "hu": "Tête de Véret",
+            "ro": "Tête de Véret",
+            "en": "Tête de Véret"
+          },
+          "coords": [
+            6.714312,
+            46.009623
+          ],
+          "category": "natural",
+          "arrive_at": "12:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von den unberührten alpinen Wiesen dieses Berges verzaubern, die echte Ruhe bieten, und bleiben Sie zum Schutz der Natur auf den Wegen.",
+            "hu": "Hagyja, hogy elvarázsolják ennek a hegynek az érintetlen alpesi rétjei, amelyek igazi békét kínálnak, de a természet védelme érdekében maradjon az ösvényen.",
+            "ro": "Lăsați-vă fermecați de pajiștile alpine imaculate ale acestui munte ce oferă o liniște absolută, păstrând mereu poteca marcată pentru a proteja natura.",
+            "en": "Be enchanted by the pristine alpine meadows of this mountain which offer absolute tranquility, and always stay on the marked trails to protect the nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Grands Vans",
+            "hu": "Les Grands Vans",
+            "ro": "Les Grands Vans",
+            "en": "Les Grands Vans"
+          },
+          "coords": [
+            6.711002,
+            46.019304
+          ],
+          "category": "natural",
+          "arrive_at": "14:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erklimmen Sie dieses majestätische Massiv für einen unvergesslichen Blick über die gesamte Region, und prüfen Sie vorab unbedingt die Wettervorhersage.",
+            "hu": "Mássza meg ezt a fenséges masszívumot, hogy felejthetetlen kilátás nyíljon az egész régióra, és indulás előtt feltétlenül ellenőrizze az időjárást.",
+            "ro": "Urcați pe acest masiv maiestuos pentru o priveliște de neuitat asupra întregii regiuni, verificând întotdeauna prognoza meteo înainte de a porni la drum.",
+            "en": "Climb this majestic massif for a truly unforgettable panoramic view across the entire region, checking the weather forecast carefully before heading out."
+          }
+        },
+        {
+          "name": {
+            "de": "Tête des Verds",
+            "hu": "Tête des Verds",
+            "ro": "Tête des Verds",
+            "en": "Tête des Verds"
+          },
+          "coords": [
+            6.713218,
+            45.994775
+          ],
+          "category": "natural",
+          "arrive_at": "15:50",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.72,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geologie dieses einzigartigen felsigen Aussichtspunkts, der die Alpenvielfalt zeigt, und nehmen Sie ein Fernglas mit.",
+            "hu": "Fedezze fel ennek az egyedülálló sziklás kilátónak a lenyűgöző geológiáját, amely bemutatja az Alpok sokszínűségét, és vigyen magával egy távcsövet.",
+            "ro": "Descoperiți geologia fascinantă a acestui punct de belvedere stâncos unic ce arată diversitatea Alpilor și nu uitați să luați un binoclu cu dumneavoastră.",
+            "en": "Discover the fascinating geology of this unique rocky viewpoint which highlights the diversity of the Alps, and consider bringing binoculars with you."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour beim weltbekannten Auditorium im Zentrum.\n\nDanach geht es zur nahegelegenen ökumenischen Kapelle.\n\nMittags erklimmen Sie die Tête de Balacha.\n\nDer Nachmittag bietet spannende Trails zur Tête de Véret und Les Grands Vans. Abends erreichen Sie die Tête des Verds.",
+        "hu": "Indítsa kerékpártúráját a központban található híres nézőtérnél.\n\nEzután guruljon át a közeli ökumenikus kápolnához.\n\nDélben tekerjen fel a Tête de Balacha csúcsra.\n\nA délután izgalmas ösvényeket kínál a Tête de Véret és a Les Grands Vans felé, majd este érkezzen meg a Tête des Verds-hez.",
+        "ro": "Începeți turul cu bicicleta la faimosul auditoriu din centru.\n\nApoi, vizitați capela ecumenică din apropiere.\n\nLa prânz, urcați spre Tête de Balacha.\n\nDupă-amiaza vă așteaptă trasee spre Tête de Véret și Les Grands Vans. Seara ajungeți la punctul de belvedere Tête des Verds.",
+        "en": "Start your cycling tour at the world-renowned auditorium in the center.\n\nThen, head to the nearby ecumenical chapel.\n\nAt midday, ride up to the Tête de Balacha peak.\n\nThe afternoon offers thrilling trails to Tête de Véret and Les Grands Vans, before arriving at Tête des Verds by evening."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:43",
+      "total_km": 8.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle de Flaine",
+            "hu": "Chapelle de Flaine",
+            "ro": "Chapelle de Flaine",
+            "en": "Chapelle de Flaine"
+          },
+          "coords": [
+            6.674331,
+            46.00733
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese charmante kleine Kapelle, die die historische Bergtradition widerspiegelt, und bringen Sie eine Kamera für die wundersch Umgebung mit.",
+            "hu": "Fedezze fel ezt a bájos kis kápolnát, amely a történelmi hegyi hagyományokat tükrözi, és ne felejtse el a fényképezőgépét a gyönyörű környezet miatt.",
+            "ro": "Descoperiți această mică și fermecătoare capelă ce reflectă tradițiile montane istorice și nu uitați să aduceți aparatul foto pentru împrejurimi.",
+            "en": "Discover this charming small chapel that beautifully reflects historic mountain traditions, and bring a camera to capture the stunning surrounding scenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Pointe de Bornand",
+            "hu": "Pointe de Bornand",
+            "ro": "Pointe de Bornand",
+            "en": "Pointe de Bornand"
+          },
+          "coords": [
+            6.667373,
+            45.993069
+          ],
+          "category": "natural",
+          "arrive_at": "09:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.65,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Abgeschiedenheit dieses weniger besuchten Gipfels mit toller Aussicht, und planen Sie genügend Zeit für den Rückweg ein.",
+            "hu": "Élvezze ennek a ritkábban látogatott, remek kilátást nyújtó csúcsnak a békés elszigeteltségét, és tervezzen elegendő időt a biztonságos visszaútra is.",
+            "ro": "Bucurați-vă de izolarea pașnică a acestui vârf mai puțin vizitat care oferă priveliști grozave, planificând suficient timp pentru drumul de întoarcere.",
+            "en": "Enjoy the peaceful seclusion of this less-visited peak that provides magnificent sweeping views, and plan plenty of time for your safe journey back down."
+          }
+        },
+        {
+          "name": {
+            "de": "Aup de Véran",
+            "hu": "Aup de Véran",
+            "ro": "Aup de Véran",
+            "en": "Aup de Véran"
+          },
+          "coords": [
+            6.692422,
+            45.98305
+          ],
+          "category": "natural",
+          "arrive_at": "11:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.22,
+          "tip_5lang": {
+            "de": "Erleben Sie die weiten, offenen Hochplateaus, die ideal für entspannte Bergwanderungen sind, und tragen Sie stets geeigneten Sonnenschutz in der Höhe.",
+            "hu": "Tapasztalja meg a tágas, nyitott fennsíkokat, amelyek ideálisak a pihentető hegyi túrákhoz, és mindig gondoskodjon a megfelelő fényvédelemről a magasban.",
+            "ro": "Experimentați platourile înalte și deschise, ideale pentru drumeții montane relaxante, aplicând întotdeauna protecție solară adecvată la altitudine mare.",
+            "en": "Experience the wide, open high plateaus that are simply ideal for relaxing mountain hikes, and always apply adequate sun protection at this altitude."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle oecuménique de Flaine",
+            "hu": "Chapelle oecuménique de Flaine",
+            "ro": "Chapelle oecuménique de Flaine",
+            "en": "Chapelle oecuménique de Flaine"
+          },
+          "coords": [
+            6.69301,
+            46.004994
+          ],
+          "category": "religious",
+          "arrive_at": "12:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.44,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur dieser einzigartigen ökumenischen Kapelle im Zentrum, die spirituelle Ruhe bietet, und achten Sie auf die Öffnungszeiten.",
+            "hu": "Csodálja meg ennek az egyedülálló ökumenikus kápolnának a modern építészetét, amely spirituális nyugalmat kínál, de előzetesen ellenőrizze a nyitvatartást.",
+            "ro": "Admirați arhitectura modernă a acestei capele ecumenice unice care oferă o oază de liniște spirituală și asigurați-vă că verificați programul de vizitare.",
+            "en": "Admire the modern architecture of this unique ecumenical chapel which provides deep spiritual tranquility, but be sure to check the opening hours beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditorium Eric et Sylvie Boissonnas",
+            "hu": "Auditorium Eric et Sylvie Boissonnas",
+            "ro": "Auditorium Eric et Sylvie Boissonnas",
+            "en": "Auditorium Eric et Sylvie Boissonnas"
+          },
+          "coords": [
+            6.690708,
+            46.007723
+          ],
+          "category": "cultural",
+          "arrive_at": "13:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erleben Sie die unglaubliche Akustik dieses ikonischen Auditoriums, das einen Meilenstein der Kultur darstellt, und buchen Sie Ihre Tickets am besten online.",
+            "hu": "Tapasztalja meg ennek az ikonikus kulturális mérföldkőnek számító nézőtérnek a lenyűgöző akusztikáját, és érdemes a jegyeket előre, online lefoglalni.",
+            "ro": "Experimentați acustica incredibilă a acestui auditoriu iconic, un adevărat reper cultural, fiind recomandat să vă rezervați biletele online în avans.",
+            "en": "Experience the incredible acoustics of this iconic auditorium representing a cultural milestone, and it is highly recommended to book your tickets online."
+          }
+        },
+        {
+          "name": {
+            "de": "Tête des Verds",
+            "hu": "Tête des Verds",
+            "ro": "Tête des Verds",
+            "en": "Tête des Verds"
+          },
+          "coords": [
+            6.713218,
+            45.994775
+          ],
+          "category": "natural",
+          "arrive_at": "14:58",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 2.24,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geologie dieses einzigartigen felsigen Aussichtspunkts, der die Alpenvielfalt zeigt, und nehmen Sie ein Fernglas mit.",
+            "hu": "Fedezze fel ennek az egyedülálló sziklás kilátónak a lenyűgöző geológiáját, amely bemutatja az Alpok sokszínűségét, és vigyen magával egy távcsövet.",
+            "ro": "Descoperiți geologia fascinantă a acestui punct de belvedere stâncos unic ce arată diversitatea Alpilor și nu uitați să luați un binoclu cu dumneavoastră.",
+            "en": "Discover the fascinating geology of this unique rocky viewpoint which highlights the diversity of the Alps, and consider bringing binoculars with you."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt mit einem Halt an der historischen Kapelle von Flaine.\n\nSetzen Sie den Weg fort zur idyllischen Pointe de Bornand.\n\nMittags erkunden Sie die weite Aup de Véran.\n\nNachmittags kehren Sie ins Zentrum zur ökumenischen Kapelle und dem Auditorium zurück, um den Tag schließlich an der Tête des Verds zu beenden.",
+        "hu": "Az autós túra a történelmi kápolnánál kezdődik.\n\nFolytassa útját az idilli Pointe de Bornand felé.\n\nDélben fedezze fel a tágas Aup de Véran fennsíkot.\n\nDélután térjen vissza a központba az ökumenikus kápolnához és a nézőtérhez, majd zárja a napot a Tête des Verds csúcsának közelében.",
+        "ro": "Călătoria cu mașina începe cu o oprire la capela istorică.\n\nContinuați drumul spre idilica Pointe de Bornand.\n\nLa prânz explorați platoul Aup de Véran.\n\nDupă-amiaza vă întoarceți în centru la capela ecumenică și la auditoriu, încheind ziua admirând priveliștea de la Tête des Verds.",
+        "en": "Your driving tour begins with a stop at the historic chapel.\n\nContinue to the idyllic Pointe de Bornand.\n\nAt midday, explore the wide Aup de Véran plateau.\n\nIn the afternoon, return to the center to visit the ecumenical chapel and the auditorium, ending your day at Tête des Verds."
+      }
+    }
+  }
+}

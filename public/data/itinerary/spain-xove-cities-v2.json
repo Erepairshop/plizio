@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-xove-cities-v2",
+  "anchor": {
+    "name": "Xove",
+    "coords": [
+      -7.51151,
+      43.68518
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:29",
+      "total_km": 3.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Igrexa de San Bartolo de Xove",
+            "hu": "Igrexa de San Bartolo de Xove",
+            "ro": "Igrexa de San Bartolo de Xove",
+            "en": "Igrexa de San Bartolo de Xove"
+          },
+          "coords": [
+            -7.512424,
+            43.686261
+          ],
+          "category": "religious",
+          "arrive_at": "09:02",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, aber charmante Architektur dieser lokalen Kirche und genießen Sie die friedliche Umgebung am besten in den ruhigen Morgenstunden.",
+            "hu": "Csodálja meg a helyi templom egyszerű, de bájos építészetét, és élvezze a békés környezetet a csendes reggeli órákban.",
+            "ro": "Admirați arhitectura simplă, dar fermecătoare a acestei biserici locale și bucurați-vă de împrejurimile liniștite, vizitând-o de preferință în orele dimineții.",
+            "en": "Admire the simple but charming architecture of this local church and enjoy the peaceful surroundings, best visited during the quiet morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Concello de Xove",
+            "hu": "Concello de Xove",
+            "ro": "Concello de Xove",
+            "en": "Concello de Xove"
+          },
+          "coords": [
+            -7.509305,
+            43.686296
+          ],
+          "category": "historical",
+          "arrive_at": "09:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Verwaltungszentrum der Stadt, wo Sie mehr über die lokale Regierung erfahren und die traditionelle Gemeindefassade fotografieren können.",
+            "hu": "Fedezze fel a város történelmi közigazgatási központját, ismerje meg a helyi önkormányzatiságot, és készítsen egy fotót a hagyományos önkormányzati homlokzatról.",
+            "ro": "Explorați inima administrativă istorică a orașului, unde puteți învăța despre guvernarea locală și fotografia fațada tradițională a primăriei.",
+            "en": "Explore the historic administrative heart of the town, where you can learn about local governance and snap a photo of the traditional municipal facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Mámoa de Lamaboa",
+            "hu": "Mámoa de Lamaboa",
+            "ro": "Mámoa de Lamaboa",
+            "en": "Mámoa de Lamaboa"
+          },
+          "coords": [
+            -7.505942,
+            43.679663
+          ],
+          "category": "historical",
+          "arrive_at": "11:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen faszinierenden alten Grabhügel in der Landschaft und tragen Sie festes Schuhwerk, um das leicht unebene Gelände sicher zu durchqueren.",
+            "hu": "Fedezze fel ezt a tájban megbúvó lenyűgöző ősi sírhalmot, és viseljen kényelmes cipőt, hogy könnyedén bejárhassa a kissé egyenetlen terepet.",
+            "ro": "Descoperiți acest fascinant tumul funerar antic ascuns în peisaj și purtați încălțăminte rezistentă pentru a naviga ușor pe terenul ușor accidentat din jur.",
+            "en": "Discover this fascinating ancient burial mound hidden in the landscape, and wear sturdy shoes to easily navigate the slightly uneven surrounding terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Henge de Lavandeiras",
+            "hu": "Henge de Lavandeiras",
+            "ro": "Henge de Lavandeiras",
+            "en": "Henge de Lavandeiras"
+          },
+          "coords": [
+            -7.520251,
+            43.684272
+          ],
+          "category": "historical",
+          "arrive_at": "13:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Reisen Sie an diesem mystischen Steinkreis in die prähistorische Zeit zurück und bringen Sie ein Weitwinkelobjektiv mit, um die ganze Anlage festzuhalten.",
+            "hu": "Lépjen vissza a történelem előtti időkbe ezen a misztikus kőkörön, és hozzon magával nagylátószögű objektívet a lenyűgöző helyszín megörökítéséhez.",
+            "ro": "Întoarceți-vă în timpurile preistorice la acest cerc de piatră mistic, aducând un obiectiv superangular pentru a surprinde întreaga amploare a sitului.",
+            "en": "Step back into prehistoric times at this mystical stone circle, bringing a wide-angle lens to capture the full scope of this monumental site."
+          }
+        },
+        {
+          "name": {
+            "de": "Mámoas de Chan de Armada",
+            "hu": "Mámoas de Chan de Armada",
+            "ro": "Mámoas de Chan de Armada",
+            "en": "Mámoas de Chan de Armada"
+          },
+          "coords": [
+            -7.525088,
+            43.677793
+          ],
+          "category": "historical",
+          "arrive_at": "14:39",
+          "stay_min": 110,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Wandern Sie zwischen diesen gut erhaltenen megalithischen Monumenten, die Geschichten alter Gemeinschaften erzählen, ideal im späten Nachmittagslicht.",
+            "hu": "Sétáljon az ősi közösségek történeteit őrző, jól megőrzött megalitikus műemlékek között, és időzítse látogatását a késő délutáni szép fényekre.",
+            "ro": "Plimbați-vă printre aceste monumente megalitice bine conservate care spun poveștile comunităților antice, planificând vizita spre seară pentru cea mai bună lumină.",
+            "en": "Wander among these well-preserved megalithic monuments that tell stories of ancient communities, planning your visit for late afternoon for the best lighting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Unsere Wandertour beginnt im Herzen von Xove an der Igrexa de San Bartolo und sorgt für einen friedlichen Start. Kurz darauf erkunden wir das historische Concello de Xove, um die Wurzeln der Gemeinde zu verstehen.\nMittag: Wir verlassen das Zentrum und wandern zur Mámoa de Lamaboa, wo sich die alte Geschichte der Region entfaltet. Die ruhigen Wege bieten einen schönen Moment der Besinnung in der Natur.\nNachmittag: Die Reise geht weiter zum Henge de Lavandeiras. Diese beeindruckende prähistorische Stätte lädt uns ein, über das Leben der frühen Siedler nachzudenken, die diese massiven Strukturen errichteten.\nAbend: Wir beenden unseren Tag bei den Mámoas de Chan de Armada, umgeben von historischer Mystik. Das schwindende Licht wirft lange Schatten auf die Steine und bietet einen perfekten Abschied.",
+        "hu": "Reggel: Gyalogtúránk Xove szívében, az Igrexa de San Bartolo templomnál indul, békés alaphangot adva a napnak. Nem sokkal ezután a történelmi Concello de Xove épületénél a helyi közigazgatás gyökereit is megismerhetjük.\nDél: A központot elhagyva sétánk a Mámoa de Lamaboa felé vezet, ahol a régió ősi történelme bontakozik ki előttünk. A csendes ösvények remek lehetőséget kínálnak a természetben való elmélyülésre.\nDélután: Utunk a Henge de Lavandeiras felé folytatódik. Ez a lenyűgöző őskori lelőhely arra hívja a látogatókat, hogy elgondolkodjanak a hatalmas építményeket létrehozó korai telepesek mindennapjain.\nEste: A napot a Mámoas de Chan de Armada történelmi rejtélyekkel övezett kövei között zárjuk. A halványuló délutáni fény hosszú árnyékokat vet az ősi kövekre, tökéletes búcsút biztosítva.",
+        "ro": "Dimineața: Turul nostru pietonal începe în inima orașului Xove, la Igrexa de San Bartolo, stabilind un ton pașnic. La scurt timp, explorăm istoricul Concello de Xove pentru a înțelege rădăcinile administrației locale.\nAmiaza: Părăsind centrul, plimbarea ne poartă spre Mámoa de Lamaboa, unde istoria antică a regiunii începe să se dezvăluie. Traseele liniștite oferă un moment perfect de reflecție în mijlocul naturii.\nDupă-amiaza: Călătoria continuă spre Henge de Lavandeiras. Acest sit preistoric impresionant ne invită să medităm asupra vieții primilor coloniști care au construit aceste structuri masive din piatră.\nSeara: Încheiem ziua la Mámoas de Chan de Armada, înconjurați de mister istoric. Lumina blândă a serii aruncă umbre lungi peste pietrele străvechi, oferind un moment de rămas bun perfect.",
+        "en": "Morning: We start our walking tour in the heart of Xove at the Igrexa de San Bartolo, setting a peaceful tone for the day. Shortly after, we explore the historical Concello de Xove to understand the local administration's roots.\nMidday: Leaving the town center, our walk takes us to the Mámoa de Lamaboa, where the region's ancient history begins to unfold. The quiet trails offer a moment of reflection.\nAfternoon: The journey continues as we head towards the Henge de Lavandeiras. This impressive prehistoric site invites us to ponder the lives of the early settlers who built these massive structures.\nEvening: We conclude our day at the Mámoas de Chan de Armada, surrounded by historical mystery. The fading afternoon light casts long shadows over the ancient stones, providing a perfect farewell."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 6.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Igrexa de San Bartolo de Xove",
+            "hu": "Igrexa de San Bartolo de Xove",
+            "ro": "Igrexa de San Bartolo de Xove",
+            "en": "Igrexa de San Bartolo de Xove"
+          },
+          "coords": [
+            -7.512424,
+            43.686261
+          ],
+          "category": "religious",
+          "arrive_at": "09:01",
+          "stay_min": 50,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, aber charmante Architektur dieser lokalen Kirche und genießen Sie die friedliche Umgebung am besten in den ruhigen Morgenstunden.",
+            "hu": "Csodálja meg a helyi templom egyszerű, de bájos építészetét, és élvezze a békés környezetet a csendes reggeli órákban.",
+            "ro": "Admirați arhitectura simplă, dar fermecătoare a acestei biserici locale și bucurați-vă de împrejurimile liniștite, vizitând-o de preferință în orele dimineții.",
+            "en": "Admire the simple but charming architecture of this local church and enjoy the peaceful surroundings, best visited during the quiet morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Concello de Xove",
+            "hu": "Concello de Xove",
+            "ro": "Concello de Xove",
+            "en": "Concello de Xove"
+          },
+          "coords": [
+            -7.509305,
+            43.686296
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Verwaltungszentrum der Stadt, wo Sie mehr über die lokale Regierung erfahren und die traditionelle Gemeindefassade fotografieren können.",
+            "hu": "Fedezze fel a város történelmi közigazgatási központját, ismerje meg a helyi önkormányzatiságot, és készítsen egy fotót a hagyományos önkormányzati homlokzatról.",
+            "ro": "Explorați inima administrativă istorică a orașului, unde puteți învăța despre guvernarea locală și fotografia fațada tradițională a primăriei.",
+            "en": "Explore the historic administrative heart of the town, where you can learn about local governance and snap a photo of the traditional municipal facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Henge de Lavandeiras",
+            "hu": "Henge de Lavandeiras",
+            "ro": "Henge de Lavandeiras",
+            "en": "Henge de Lavandeiras"
+          },
+          "coords": [
+            -7.520251,
+            43.684272
+          ],
+          "category": "historical",
+          "arrive_at": "11:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Reisen Sie an diesem mystischen Steinkreis in die prähistorische Zeit zurück und bringen Sie ein Weitwinkelobjektiv mit, um die ganze Anlage festzuhalten.",
+            "hu": "Lépjen vissza a történelem előtti időkbe ezen a misztikus kőkörön, és hozzon magával nagylátószögű objektívet a lenyűgöző helyszín megörökítéséhez.",
+            "ro": "Întoarceți-vă în timpurile preistorice la acest cerc de piatră mistic, aducând un obiectiv superangular pentru a surprinde întreaga amploare a sitului.",
+            "en": "Step back into prehistoric times at this mystical stone circle, bringing a wide-angle lens to capture the full scope of this monumental site."
+          }
+        },
+        {
+          "name": {
+            "de": "Mámoas de Chan de Armada",
+            "hu": "Mámoas de Chan de Armada",
+            "ro": "Mámoas de Chan de Armada",
+            "en": "Mámoas de Chan de Armada"
+          },
+          "coords": [
+            -7.525088,
+            43.677793
+          ],
+          "category": "historical",
+          "arrive_at": "12:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Wandern Sie zwischen diesen gut erhaltenen megalithischen Monumenten, die Geschichten alter Gemeinschaften erzählen, ideal im späten Nachmittagslicht.",
+            "hu": "Sétáljon az ősi közösségek történeteit őrző, jól megőrzött megalitikus műemlékek között, és időzítse látogatását a késő délutáni szép fényekre.",
+            "ro": "Plimbați-vă printre aceste monumente megalitice bine conservate care spun poveștile comunităților antice, planificând vizita spre seară pentru cea mai bună lumină.",
+            "en": "Wander among these well-preserved megalithic monuments that tell stories of ancient communities, planning your visit for late afternoon for the best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Mámoa de Lama de Arcas",
+            "hu": "Mámoa de Lama de Arcas",
+            "ro": "Mámoa de Lama de Arcas",
+            "en": "Mámoa de Lama de Arcas"
+          },
+          "coords": [
+            -7.53557,
+            43.680181
+          ],
+          "category": "historical",
+          "arrive_at": "14:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diese bedeutende archäologische Stätte inmitten der Natur und achten Sie auf die informativen Schilder, die ihre antiken Ursprünge erklären.",
+            "hu": "Vizsgálja meg ezt a természetben megbúvó jelentős régészeti lelőhelyet, és keresse a tájékoztató táblákat, amelyek elmagyarázzák ősi eredetét.",
+            "ro": "Investigați acest important sit arheologic cuibărit în natură, căutând panourile informative care explică originile sale străvechi.",
+            "en": "Investigate this significant archaeological site nestled in nature, keeping an eye out for informative signposts that explain its ancient origins."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro de Sumoas",
+            "hu": "Castro de Sumoas",
+            "ro": "Castro de Sumoas",
+            "en": "Castro de Sumoas"
+          },
+          "coords": [
+            -7.505635,
+            43.698256
+          ],
+          "category": "historical",
+          "arrive_at": "15:44",
+          "stay_min": 110,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Klettern Sie zu dieser alten eisenzeitlichen Siedlung hinauf, um die Überreste runder Rundhäuser zu sehen und den Panoramablick auf die galicische Landschaft zu genießen.",
+            "hu": "Másszon fel ehhez a vaskori településhez, hogy megtekintse a kerek lakóházak maradványait, miközben élvezi a galíciai vidékre nyíló panorámát.",
+            "ro": "Urcați la această veche așezare din Epoca Fierului pentru a vedea rămășițele locuințelor circulare, bucurându-vă în același timp de o vedere panoramică.",
+            "en": "Climb up to this ancient Iron Age settlement to see the remains of circular dwellings, while enjoying the sweeping panoramic views of the Galician countryside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Die Radtour beginnt im Zentrum von Xove mit Stopps an der charmanten Igrexa de San Bartolo und dem historischen Concello. Die frische Morgenbrise sorgt für eine angenehme Fahrt.\nMittag: Wenn wir weiter in die Pedale treten, erreichen wir das prähistorische Henge de Lavandeiras und die Mámoas de Chan de Armada. Diese alten Denkmäler sind stille Zeugen der reichen megalithischen Vergangenheit.\nNachmittag: Die Nachmittagsfahrt führt uns zur Mámoa de Lama de Arcas und taucht tiefer in die archäologischen Wunder ein. Die malerischen Radwege bieten wunderschöne Ausblicke auf das galicische Terrain.\nAbend: Wir beenden unsere Radtour mit einem anregenden Anstieg zum Castro de Sumoas. Der Panoramablick von dieser alten Wallburg bietet eine spektakuläre Kulisse, um unsere historische Reise zu beenden.",
+        "hu": "Reggel: A kerékpártúra Xove központjában indul, megállókkal a bájos Igrexa de San Bartolo és a történelmi Concello épületénél. A friss reggeli szellő kellemessé teszi a tekerést.\nDél: Tovább haladva elérjük a történelem előtti Henge de Lavandeiras-t és a Mámoas de Chan de Armada-t. Ezek az ősi emlékművek a régió gazdag megalitikus múltjának csendes tanúi.\nDélután: A délutáni túra a Mámoa de Lama de Arcas felé vezet, még mélyebbre ásva a régészeti csodákban. A festői kerékpárutak gyönyörű kilátást nyújtanak a galíciai tájra.\nEste: Kerékpártúránkat a Castro de Sumoas-hoz vezető frissítő emelkedővel zárjuk. Az ősi domberődből nyíló panoráma látványos hátteret biztosít történelmi utazásunk befejezéséhez.",
+        "ro": "Dimineața: Traseul de ciclism începe în centrul orașului Xove cu opriri la fermecătoarea Igrexa de San Bartolo și istoricul Concello. Briza proaspătă a dimineții face plimbarea foarte plăcută.\nAmiaza: Pedalând mai departe, ajungem la preistoricul Henge de Lavandeiras și la Mámoas de Chan de Armada. Aceste monumente antice stau ca martori tăcuți ai bogatului trecut megalitic al regiunii.\nDupă-amiaza: Călătoria de după-amiază ne poartă la Mámoa de Lama de Arcas, pătrunzând mai adânc în minunile arheologice. Pistele de ciclism pitorești oferă priveliști frumoase ale terenului galician.\nSeara: Terminam turul cu bicicleta cu o urcare revigorantă către Castro de Sumoas. Vederile panoramice de la această veche cetate de deal oferă un fundal spectaculos pentru a ne încheia călătoria.",
+        "en": "Morning: The cycling route kicks off in central Xove with stops at the charming Igrexa de San Bartolo and the historic Concello. The fresh morning breeze makes for an easy and pleasant ride.\nMidday: Pedaling further, we arrive at the prehistoric Henge de Lavandeiras and the Mámoas de Chan de Armada. These ancient monuments stand as silent witnesses to the region's rich megalithic past.\nAfternoon: The afternoon ride takes us to the Mámoa de Lama de Arcas, delving deeper into the archaeological wonders. The scenic cycling paths offer beautiful views of the Galician terrain.\nEvening: We finish our cycling tour with an invigorating climb to the Castro de Sumoas. The panoramic views from this ancient hillfort provide a spectacular backdrop to end our historical journey."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 8.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Igrexa de San Bartolo de Xove",
+            "hu": "Igrexa de San Bartolo de Xove",
+            "ro": "Igrexa de San Bartolo de Xove",
+            "en": "Igrexa de San Bartolo de Xove"
+          },
+          "coords": [
+            -7.512424,
+            43.686261
+          ],
+          "category": "religious",
+          "arrive_at": "09:01",
+          "stay_min": 50,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, aber charmante Architektur dieser lokalen Kirche und genießen Sie die friedliche Umgebung am besten in den ruhigen Morgenstunden.",
+            "hu": "Csodálja meg a helyi templom egyszerű, de bájos építészetét, és élvezze a békés környezetet a csendes reggeli órákban.",
+            "ro": "Admirați arhitectura simplă, dar fermecătoare a acestei biserici locale și bucurați-vă de împrejurimile liniștite, vizitând-o de preferință în orele dimineții.",
+            "en": "Admire the simple but charming architecture of this local church and enjoy the peaceful surroundings, best visited during the quiet morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Concello de Xove",
+            "hu": "Concello de Xove",
+            "ro": "Concello de Xove",
+            "en": "Concello de Xove"
+          },
+          "coords": [
+            -7.509305,
+            43.686296
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Verwaltungszentrum der Stadt, wo Sie mehr über die lokale Regierung erfahren und die traditionelle Gemeindefassade fotografieren können.",
+            "hu": "Fedezze fel a város történelmi közigazgatási központját, ismerje meg a helyi önkormányzatiságot, és készítsen egy fotót a hagyományos önkormányzati homlokzatról.",
+            "ro": "Explorați inima administrativă istorică a orașului, unde puteți învăța despre guvernarea locală și fotografia fațada tradițională a primăriei.",
+            "en": "Explore the historic administrative heart of the town, where you can learn about local governance and snap a photo of the traditional municipal facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Henge de Lavandeiras",
+            "hu": "Henge de Lavandeiras",
+            "ro": "Henge de Lavandeiras",
+            "en": "Henge de Lavandeiras"
+          },
+          "coords": [
+            -7.520251,
+            43.684272
+          ],
+          "category": "historical",
+          "arrive_at": "11:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Reisen Sie an diesem mystischen Steinkreis in die prähistorische Zeit zurück und bringen Sie ein Weitwinkelobjektiv mit, um die ganze Anlage festzuhalten.",
+            "hu": "Lépjen vissza a történelem előtti időkbe ezen a misztikus kőkörön, és hozzon magával nagylátószögű objektívet a lenyűgöző helyszín megörökítéséhez.",
+            "ro": "Întoarceți-vă în timpurile preistorice la acest cerc de piatră mistic, aducând un obiectiv superangular pentru a surprinde întreaga amploare a sitului.",
+            "en": "Step back into prehistoric times at this mystical stone circle, bringing a wide-angle lens to capture the full scope of this monumental site."
+          }
+        },
+        {
+          "name": {
+            "de": "Mámoa de Lama de Arcas",
+            "hu": "Mámoa de Lama de Arcas",
+            "ro": "Mámoa de Lama de Arcas",
+            "en": "Mámoa de Lama de Arcas"
+          },
+          "coords": [
+            -7.53557,
+            43.680181
+          ],
+          "category": "historical",
+          "arrive_at": "12:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diese bedeutende archäologische Stätte inmitten der Natur und achten Sie auf die informativen Schilder, die ihre antiken Ursprünge erklären.",
+            "hu": "Vizsgálja meg ezt a természetben megbúvó jelentős régészeti lelőhelyet, és keresse a tájékoztató táblákat, amelyek elmagyarázzák ősi eredetét.",
+            "ro": "Investigați acest important sit arheologic cuibărit în natură, căutând panourile informative care explică originile sale străvechi.",
+            "en": "Investigate this significant archaeological site nestled in nature, keeping an eye out for informative signposts that explain its ancient origins."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro da Cabana",
+            "hu": "Castro da Cabana",
+            "ro": "Castro da Cabana",
+            "en": "Castro da Cabana"
+          },
+          "coords": [
+            -7.517588,
+            43.702723
+          ],
+          "category": "historical",
+          "arrive_at": "14:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden Verteidigungsanlagen dieser alten Wallburg und nehmen Sie sich Zeit, die Umrisse der alten Schutzmauern nachzuvollziehen.",
+            "hu": "Csodálja meg ezen ősi erődítmény lenyűgöző védelmi építményeit, és szánjon időt a falut egykor védő régi falak körvonalainak felfedezésére.",
+            "ro": "Minunați-vă de impresionantele structuri defensive ale acestei vechi cetăți, luându-vă timp pentru a urmări contururile zidurilor care protejau satul.",
+            "en": "Marvel at the impressive defensive structures of this ancient hillfort, taking time to trace the outlines of the old walls that once protected the village."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro de Sumoas",
+            "hu": "Castro de Sumoas",
+            "ro": "Castro de Sumoas",
+            "en": "Castro de Sumoas"
+          },
+          "coords": [
+            -7.505635,
+            43.698256
+          ],
+          "category": "historical",
+          "arrive_at": "15:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Klettern Sie zu dieser alten eisenzeitlichen Siedlung hinauf, um die Überreste runder Rundhäuser zu sehen und den Panoramablick auf die galicische Landschaft zu genießen.",
+            "hu": "Másszon fel ehhez a vaskori településhez, hogy megtekintse a kerek lakóházak maradványait, miközben élvezi a galíciai vidékre nyíló panorámát.",
+            "ro": "Urcați la această veche așezare din Epoca Fierului pentru a vedea rămășițele locuințelor circulare, bucurându-vă în același timp de o vedere panoramică.",
+            "en": "Climb up to this ancient Iron Age settlement to see the remains of circular dwellings, while enjoying the sweeping panoramic views of the Galician countryside."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de Santa Balla de Lago",
+            "hu": "Igrexa de Santa Balla de Lago",
+            "ro": "Igrexa de Santa Balla de Lago",
+            "en": "Igrexa de Santa Balla de Lago"
+          },
+          "coords": [
+            -7.486652,
+            43.691064
+          ],
+          "category": "religious",
+          "arrive_at": "16:49",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Besinnen Sie sich in dieser wunderschön gelegenen Pfarrkirche und schätzen Sie das rustikale Mauerwerk sowie die tief verwurzelten religiösen Traditionen.",
+            "hu": "Csendesedjen el ebben a gyönyörű fekvésű plébániatemplomban, értékelve annak rusztikus kőművesmunkáját és a környék mélyen gyökerező vallási hagyományait.",
+            "ro": "Reflectați în liniște în această biserică parohială frumos situată, apreciind piatra sa rustică și tradițiile religioase profund înrădăcinate ale zonei.",
+            "en": "Reflect quietly in this beautifully situated parish church, appreciating its rustic stonework and the deeply rooted religious traditions of the area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Unsere Autotour beginnt mit einer schnellen Erkundung des Zentrums von Xove und einem Besuch der Igrexa de San Bartolo und des Concello. Dies bietet eine kulturelle Grundlage für den Tag.\nMittag: Wir fahren zur bemerkenswerten Mámoa de Lama de Arcas und zum Henge de Lavandeiras. Mit dem Auto können wir mühelos zwischen diesen verstreuten megalithischen Stätten hin- und herwechseln.\nNachmittag: Die Reise geht weiter zur beeindruckenden Wallburg Castro da Cabana, gefolgt von einem Besuch des Castro de Sumoas. Die Erkundung dieser eisenzeitlichen Siedlungen offenbart die Verteidigungsgeschichte.\nAbend: Wir schließen unseren Roadtrip an der ruhigen Igrexa de Santa Balla de Lago ab. Die friedliche Umgebung dieser rustikalen Kirche bietet einen besinnlichen Abschluss für einen geschichtsträchtigen Tag.",
+        "hu": "Reggel: Autós túránk Xove központjának gyors felfedezésével kezdődik, meglátogatva az Igrexa de San Bartolo-t és a Concello-t. Ez kiváló kulturális alapot ad a naphoz.\nDél: Elhajtunk a figyelemre méltó Mámoa de Lama de Arcas és a Henge de Lavandeiras felé. Az autó lehetővé teszi, hogy zökkenőmentesen ugráljunk ezen szétszórt megalitikus helyszínek között.\nDélután: Az utazás a Castro da Cabana lenyűgöző erődítményéhez folytatódik, majd a Castro de Sumoas következik. Ezeknek a vaskori településeknek a felfedezése feltárja a régió védelmi történelmét.\nEste: Autós utazásunkat a békés Igrexa de Santa Balla de Lago templomnál fejezzük be. A rusztikus épület nyugodt környezete csendes és elmélkedő lezárást kínál ennek a történelemben gazdag napnak.",
+        "ro": "Dimineața: Turul nostru auto începe cu o explorare rapidă a centrului orașului Xove, vizitând Igrexa de San Bartolo și Concello. Aceasta oferă o bază culturală înainte de a intra în peisajele antice.\nAmiaza: Conducem la remarcabila Mámoa de Lama de Arcas și la Henge de Lavandeiras. Având o mașină, putem sări fără probleme între aceste situri megalitice împrăștiate.\nDupă-amiaza: Călătoria continuă spre impresionanta fortăreață Castro da Cabana, urmată de o vizită la Castro de Sumoas. Explorarea acestor așezări ne dezvăluie istoria defensivă a regiunii.\nSeara: Încheiem călătoria rutieră la liniștita Igrexa de Santa Balla de Lago. Cadrul pașnic al acestei biserici rustice oferă o concluzie tăcută și reflexivă la o zi bogată în istorie.",
+        "en": "Morning: Our driving tour begins with a quick exploration of Xove's center, visiting the Igrexa de San Bartolo and the Concello. This provides a cultural baseline before heading into the ancient landscapes.\nMidday: We drive out to the remarkable Mámoa de Lama de Arcas and the Henge de Lavandeiras. Having a car allows us to seamlessly hop between these scattered megalithic sites with ease.\nAfternoon: The journey continues to the impressive hillfort of Castro da Cabana, followed by a visit to the Castro de Sumoas. Exploring these Iron Age settlements reveals the region's defensive history.\nEvening: We wrap up our road trip at the serene Igrexa de Santa Balla de Lago. The tranquil setting of this rustic church offers a quiet and reflective conclusion to a day rich in history."
+      }
+    }
+  }
+}

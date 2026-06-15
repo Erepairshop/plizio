@@ -1,0 +1,474 @@
+{
+  "city_id": "portugal-nazare-cities-v2",
+  "anchor": {
+    "name": "Nazaré",
+    "coords": [
+      -9.066667,
+      39.6
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:43",
+      "total_km": 2.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Strand von Nazaré",
+            "hu": "Nazaré strandja",
+            "ro": "Plaja din Nazaré",
+            "en": "Nazaré Beach"
+          },
+          "coords": [
+            -9.074096,
+            39.596727
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten, goldenen Sand dieses ikonischen Strandes, wo traditionelle Fischer ihren Fang trocknen, aber achten Sie auf starke Meeresströmungen.",
+            "hu": "Élvezze ezen ikonikus strand tágas, aranyhomokos partját, ahol a halászok a zsákmányt szárítják, de fürdésnél ügyeljen az erős óceáni áramlatokra.",
+            "ro": "Bucurați-vă de nisipul auriu al acestei plaje iconice, unde pescarii își usucă captura, dar aveți mare grijă la curenții puternici ai oceanului dacă înotați.",
+            "en": "Enjoy the expansive golden sands of this iconic beach, where traditional fishermen dry their catch, but be careful with the strong ocean currents when swimming."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Nazaré",
+            "hu": "Nazaré Városháza",
+            "ro": "Primăria din Nazaré",
+            "en": "Nazaré Town Hall"
+          },
+          "coords": [
+            -9.068939,
+            39.599079
+          ],
+          "category": "historical",
+          "arrive_at": "10:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische portugiesische Architektur des historischen Rathauses im Zentrum und nehmen Sie sich Zeit für einen Besuch der traditionellen Cafés.",
+            "hu": "Csodálja meg a történelmi városháza klasszikus portugál építészetét a falu szívében, és szánjon egy kis időt a közeli hagyományos kávézók felfedezésére is.",
+            "ro": "Admirați arhitectura portugheză clasică a primăriei istorice din inima satului și acordați-vă un moment pentru a vizita cafenelele tradiționale din apropiere.",
+            "en": "Admire the classic Portuguese architecture of the historic town hall in the heart of the village, and take a moment to visit the nearby traditional cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der Frau von Nazaré",
+            "hu": "Nazaréi nő emlékműve",
+            "ro": "Monumentul Femeii din Nazaré",
+            "en": "Monument to the Woman of Nazaré"
+          },
+          "coords": [
+            -9.072678,
+            39.602239
+          ],
+          "category": "historical",
+          "arrive_at": "11:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zollen Sie der Widerstandsfähigkeit der lokalen Frauen an dieser Statue Tribut und bringen Sie Ihre Kamera für ein perfektes Foto der Kultur von Nazaré mit.",
+            "hu": "Tisztelegjen a helyi nők kitartása előtt ennél a jelentőségteljes szobornál, és vigye magával fényképezőgépét, hogy megörökítse Nazaré kultúrájának szellemét.",
+            "ro": "Omagiați reziliența femeilor locale la această statuie plină de sens și aduceți camera pentru o fotografie perfectă care surprinde spiritul culturii din Nazaré.",
+            "en": "Pay tribute to the resilience of local women at this meaningful statue, and bring your camera for a perfect photo capturing the spirit of Nazaré's culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Panoramaschaukel Ladeira",
+            "hu": "Ladeira Panorámahinta",
+            "ro": "Leagănul Panoramic Ladeira",
+            "en": "Ladeira Panoramic Swing"
+          },
+          "coords": [
+            -9.073021,
+            39.60466
+          ],
+          "category": "landmark",
+          "arrive_at": "13:11",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schaukeln Sie auf dieser berühmten Panoramaschaukel hoch über dem Meer für atemberaubende Ausblicke und besuchen Sie sie am frühen Nachmittag ohne lange Schlangen.",
+            "hu": "Hintázzon magasan az óceán felett ezen a híres panorámahintán a lélegzetelállító kilátásért, és látogasson el kora délután, hogy elkerülje a hosszú sorokat.",
+            "ro": "Leagănă-te deasupra oceanului pe acest faimos leagăn panoramic pentru vederi uluitoare și vizitează-l la începutul după-amiezii pentru a evita cozile lungi.",
+            "en": "Swing high above the ocean on this famous panoramic swing for breathtaking views, and visit during the early afternoon to avoid the longest waiting lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Sítio",
+            "hu": "Sítio Kilátó",
+            "ro": "Punctul de belvedere Sítio",
+            "en": "Sítio Viewpoint"
+          },
+          "coords": [
+            -9.076246,
+            39.604496
+          ],
+          "category": "natural",
+          "arrive_at": "13:56",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie das spektakuläre Küstenpanorama von diesem erhöhten Aussichtspunkt und fahren Sie mit der historischen Standseilbahn vom Strand hinauf, um Zeit zu sparen.",
+            "hu": "Gyönyörködjön a látványos tengerparti panorámában erről a magaslati pontról, és utazzon fel a strandról a történelmi siklóval, hogy időt és energiát takarítson meg.",
+            "ro": "Admirați panorama de coastă spectaculoasă de la acest punct de belvedere înalt și urcați cu funicularul istoric de la plajă pentru a economisi timp și energie.",
+            "en": "Take in the spectacular coastal panorama from this elevated viewpoint, and ride the historic funicular up from the beach to save time and energy on the steep hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm von Nazaré",
+            "hu": "Nazaré Világítótorony",
+            "ro": "Farul din Nazaré",
+            "en": "Nazaré Lighthouse"
+          },
+          "coords": [
+            -9.085347,
+            39.604424
+          ],
+          "category": "landmark",
+          "arrive_at": "14:33",
+          "stay_min": 70,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie den legendären Leuchtturm mit seinen massiven Winterwellen und prüfen Sie vorab den Surfbericht, um die weltberühmten Extrem-Surfbedingungen zu erleben.",
+            "hu": "Fedezze fel a legendás világítótornyot, ahol a hatalmas téli hullámok törnek meg, és előzetesen ellenőrizze a szörf-előrejelzést, hogy lássa az extrém körülményeket.",
+            "ro": "Descoperiți farul legendar unde se sparg valurile masive de iarnă și verificați prognoza de surf în prealabil pentru a asista la faimoasele condiții extreme de surf.",
+            "en": "Discover the legendary lighthouse where massive winter waves break, and check the surf forecast beforehand to witness the world-famous extreme surfing conditions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag am goldenen Sandstrand von Nazaré, wo das lokale Leben pulsiert. Gegen Mittag schlendern Sie durch die historischen Straßen zum alten Rathaus und zum Denkmal für die Frauen von Nazaré. Am Nachmittag steigen Sie zum Sítio hinauf, genießen die Aussicht von der Schaukel und dem Aussichtspunkt. Der Abend endet am legendären Leuchtturm, umgeben von der mächtigen Brandung.",
+        "hu": "Kezdje a napot Nazaré aranyhomokos strandján, ahol a helyi élet lüktet. Délben sétáljon végig a történelmi utcákon a régi városházához és a helyi nők emlékművéhez. Délután menjen fel a Sítio negyedbe, élvezze a kilátást a hintáról és a kilátóból. Az este a legendás világítótoronynál ér véget, amelyet a hatalmas óceáni hullámok és a tenger zúgása ölel körbe a naplementében.",
+        "ro": "Începeți ziua pe plaja aurie din Nazaré, unde viața locală este vibrantă. La prânz, plimbați-vă pe străzile istorice până la vechea primărie și la monumentul femeilor din Nazaré. După-amiaza urcați în cartierul Sítio, bucurându-vă de vederea de la leagăn și de la punctul de belvedere. Seara se încheie la legendarul far, înconjurat de valurile puternice ale oceanului Atlantic la apus.",
+        "en": "Start your day on the golden sands of Nazaré beach, where local life is vibrant. By midday, stroll through the historical streets to the old town hall and the monument to the women of Nazaré. In the afternoon, head up to the Sítio district, enjoying the views from the panoramic swing and the main viewpoint. The evening concludes at the legendary lighthouse, surrounded by powerful crashing waves."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:42",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Barmherzigkeitskirche Pederneira",
+            "hu": "Pederneira Irgalmasság Temploma",
+            "ro": "Biserica Milostivirii din Pederneira",
+            "en": "Church of Mercy of Pederneira"
+          },
+          "coords": [
+            -9.064748,
+            39.595772
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Treten Sie in diese wunderschöne historische Kirche ein, um die atemberaubenden Azulejo-Fliesen zu bewundern, und kleiden Sie sich aus Respekt angemessen.",
+            "hu": "Lépjen be ebbe a gyönyörű történelmi templomba, csodálja meg a lenyűgöző azulejo csempéket, és ne feledkezzen meg a szerény öltözködésről a tisztelet jeléül.",
+            "ro": "Pășiți în această frumoasă biserică istorică pentru a admira plăcile de azulejo uimitoare și amintiți-vă să vă îmbrăcați modest din respect pentru interiorul senin.",
+            "en": "Step inside this beautiful historic church to admire the stunning azulejo tiles, and remember to dress modestly out of respect when exploring the serene interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Pranger von Pederneira",
+            "hu": "Pederneirai Pellengér",
+            "ro": "Stâlpul din Pederneira",
+            "en": "Pederneira Pillory"
+          },
+          "coords": [
+            -9.064415,
+            39.597622
+          ],
+          "category": "landmark",
+          "arrive_at": "09:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen alten Pranger im historischen Zentrum von Pederneira und machen Sie einen kurzen Spaziergang über den Platz, um die traditionelle Architektur zu würdigen.",
+            "hu": "Fedezze fel ezt az ősi pellengért, amely Pederneira történelmi központját jelöli, és tegyen egy rövid sétát a hangulatos téren a hagyományos építészet megcsodálására.",
+            "ro": "Explorați acest stâlp antic al infamiei care marchează centrul istoric din Pederneira și faceți o scurtă plimbare prin piața fermecătoare pentru a aprecia arhitectura.",
+            "en": "Explore this ancient pillory that marks the historic center of Pederneira, and take a short walk around the charming square to appreciate the traditional architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Nazaré",
+            "hu": "Nazaré strandja",
+            "ro": "Plaja din Nazaré",
+            "en": "Nazaré Beach"
+          },
+          "coords": [
+            -9.074096,
+            39.596727
+          ],
+          "category": "recreational",
+          "arrive_at": "10:37",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten, goldenen Sand dieses ikonischen Strandes, wo traditionelle Fischer ihren Fang trocknen, aber achten Sie auf starke Meeresströmungen.",
+            "hu": "Élvezze ezen ikonikus strand tágas, aranyhomokos partját, ahol a halászok a zsákmányt szárítják, de fürdésnél ügyeljen az erős óceáni áramlatokra.",
+            "ro": "Bucurați-vă de nisipul auriu al acestei plaje iconice, unde pescarii își usucă captura, dar aveți mare grijă la curenții puternici ai oceanului dacă înotați.",
+            "en": "Enjoy the expansive golden sands of this iconic beach, where traditional fishermen dry their catch, but be careful with the strong ocean currents when swimming."
+          }
+        },
+        {
+          "name": {
+            "de": "Stierkampfarena von Nazaré",
+            "hu": "Nazaré Bikaviadal-aréna",
+            "ro": "Arena de Tauri din Nazaré",
+            "en": "Nazaré Bullring"
+          },
+          "coords": [
+            -9.0733,
+            39.606723
+          ],
+          "category": "landmark",
+          "arrive_at": "11:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die einzigartige Architektur dieser traditionellen Stierkampfarena und prüfen Sie den Veranstaltungskalender für eine Führung durch das Innere.",
+            "hu": "Csodálja meg ennek a hagyományos bikaviadal-arénának az egyedi építészetét, és ellenőrizze az eseménynaptárt, hogy részt vehet-e egy izgalmas belső vezetésen.",
+            "ro": "Minunați-vă de arhitectura unică a acestei arene de tauri tradiționale și verificați calendarul evenimentelor locale pentru a vedea dacă puteți face un tur ghidat.",
+            "en": "Marvel at the unique architecture of this traditional bullring, and check the local events calendar to see if you can take a guided tour of its fascinating interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Chaby Pinheiro Theater",
+            "hu": "Chaby Pinheiro Színház",
+            "ro": "Teatrul Chaby Pinheiro",
+            "en": "Chaby Pinheiro Theater"
+          },
+          "coords": [
+            -9.077253,
+            39.605736
+          ],
+          "category": "cultural",
+          "arrive_at": "12:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erleben Sie das reiche kulturelle Erbe dieses eleganten klassischen Theaters und versuchen Sie, frühzeitig Tickets für eine authentische portugiesische Aufführung zu buchen.",
+            "hu": "Tapasztalja meg ennek az elegáns klasszikus színháznak a gazdag kulturális örökségét, és próbáljon előre jegyet foglalni egy autentikus portugál művészeti előadásra.",
+            "ro": "Experimentați bogatul patrimoniu cultural al acestui teatru clasic elegant și încercați să rezervați bilete în avans pentru o reprezentație artistică autentică.",
+            "en": "Experience the rich cultural heritage of this elegant classical theater, and try to book tickets in advance for an authentic Portuguese artistic performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm von Nazaré",
+            "hu": "Nazaré Világítótorony",
+            "ro": "Farul din Nazaré",
+            "en": "Nazaré Lighthouse"
+          },
+          "coords": [
+            -9.085347,
+            39.604424
+          ],
+          "category": "landmark",
+          "arrive_at": "13:32",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie den legendären Leuchtturm mit seinen massiven Winterwellen und prüfen Sie vorab den Surfbericht, um die weltberühmten Extrem-Surfbedingungen zu erleben.",
+            "hu": "Fedezze fel a legendás világítótornyot, ahol a hatalmas téli hullámok törnek meg, és előzetesen ellenőrizze a szörf-előrejelzést, hogy lássa az extrém körülményeket.",
+            "ro": "Descoperiți farul legendar unde se sparg valurile masive de iarnă și verificați prognoza de surf în prealabil pentru a asista la faimoasele condiții extreme de surf.",
+            "en": "Discover the legendary lighthouse where massive winter waves break, and check the surf forecast beforehand to witness the world-famous extreme surfing conditions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine erfrischende Radtour beginnt im alten Pederneira, mit Besuchen der ruhigen Kirche und des historischen Prangers. Rollen Sie dann hinab zur berühmten Praia da Nazaré für eine ausgiebige Mittagspause. Am Nachmittag radeln Sie zur markanten Stierkampfarena und bewundern das elegante Chaby Pinheiro Theater. Beenden Sie die Tour am imposanten Leuchtturm bei fantastischer Meeresbrise.",
+        "hu": "Egy frissítő kerékpártúra a régi Pederneira negyedben kezdődik a csendes templom és a történelmi pellengér meglátogatásával. Guruljon le a híres Praia da Nazaré strandhoz egy hosszú ebédszünetre. Délután tekerjen el a lenyűgöző bikaviadal-arénához és csodálja meg az elegáns színházat. Fejezze be a túrát az impozáns világítótoronynál, miközben a friss tengeri szellőt élvezi a nap végén.",
+        "ro": "O plimbare revigorantă cu bicicleta începe în vechiul Pederneira, vizitând biserica liniștită și stâlpul istoric. Coborâți apoi la faimoasa plajă din Nazaré pentru o pauză lungă de prânz. După-amiaza, pedalați către impresionanta arenă de tauri și admirați elegantul teatru Chaby Pinheiro. Încheiați turul la impunătorul far, bucurându-vă de briza fantastică a oceanului la asfințit.",
+        "en": "A refreshing bike ride begins in ancient Pederneira, visiting the quiet church and historic pillory. Roll down to the famous Praia da Nazaré for a well-deserved midday break. In the afternoon, cycle up to the striking bullring and admire the elegant Chaby Pinheiro theater. Conclude your ride at the imposing lighthouse, taking in the fantastic ocean breeze as the sun begins to set."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:05",
+      "total_km": 6.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Naturpark Monte São Bartolomeu",
+            "hu": "Monte São Bartolomeu Természetvédelmi Terület",
+            "ro": "Rezervația Monte São Bartolomeu",
+            "en": "Monte São Bartolomeu Nature Reserve"
+          },
+          "coords": [
+            -9.052272,
+            39.593007
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wandern Sie auf diesen geschützten Naturparkhügel für spektakuläre Küstenpanoramen und tragen Sie festes Schuhwerk, um die unebenen Pfade sicher zu bewältigen.",
+            "hu": "Másszon fel erre a védett természetvédelmi dombra a látványos tengerparti panorámáért, és viseljen masszív túracipőt az egyenetlen ösvényeken való biztonságos haladáshoz.",
+            "ro": "Urcați pe acest deal protejat dintr-o rezervație naturală pentru vederi panoramice ale coastei și purtați pantofi rezistenți pentru a naviga în siguranță pe traseele accidentate.",
+            "en": "Hike up this protected nature reserve hill for spectacular panoramic views of the coast, and wear sturdy walking shoes to navigate the rugged, uneven trails safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Pranger von Pederneira",
+            "hu": "Pederneirai Pellengér",
+            "ro": "Stâlpul din Pederneira",
+            "en": "Pederneira Pillory"
+          },
+          "coords": [
+            -9.064415,
+            39.597622
+          ],
+          "category": "landmark",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen alten Pranger im historischen Zentrum von Pederneira und machen Sie einen kurzen Spaziergang über den Platz, um die traditionelle Architektur zu würdigen.",
+            "hu": "Fedezze fel ezt az ősi pellengért, amely Pederneira történelmi központját jelöli, és tegyen egy rövid sétát a hangulatos téren a hagyományos építészet megcsodálására.",
+            "ro": "Explorați acest stâlp antic al infamiei care marchează centrul istoric din Pederneira și faceți o scurtă plimbare prin piața fermecătoare pentru a aprecia arhitectura.",
+            "en": "Explore this ancient pillory that marks the historic center of Pederneira, and take a short walk around the charming square to appreciate the traditional architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Nazaré",
+            "hu": "Nazaré strandja",
+            "ro": "Plaja din Nazaré",
+            "en": "Nazaré Beach"
+          },
+          "coords": [
+            -9.074096,
+            39.596727
+          ],
+          "category": "recreational",
+          "arrive_at": "10:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten, goldenen Sand dieses ikonischen Strandes, wo traditionelle Fischer ihren Fang trocknen, aber achten Sie auf starke Meeresströmungen.",
+            "hu": "Élvezze ezen ikonikus strand tágas, aranyhomokos partját, ahol a halászok a zsákmányt szárítják, de fürdésnél ügyeljen az erős óceáni áramlatokra.",
+            "ro": "Bucurați-vă de nisipul auriu al acestei plaje iconice, unde pescarii își usucă captura, dar aveți mare grijă la curenții puternici ai oceanului dacă înotați.",
+            "en": "Enjoy the expansive golden sands of this iconic beach, where traditional fishermen dry their catch, but be careful with the strong ocean currents when swimming."
+          }
+        },
+        {
+          "name": {
+            "de": "Norpark Wasserpark",
+            "hu": "Norpark Vízipark",
+            "ro": "Parcul Acvatic Norpark",
+            "en": "Norpark Waterpark"
+          },
+          "coords": [
+            -9.080046,
+            39.612443
+          ],
+          "category": "recreational",
+          "arrive_at": "11:26",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich in diesem familienfreundlichen Wasserpark ab und kommen Sie direkt zur Öffnungszeit, um sich die besten Sonnenliegen ohne große Menschenmengen zu sichern.",
+            "hu": "Hűsöljön és szórakozzon ebben a családbarát víziparkban, és érkezzen pontosan nyitásra, hogy megszerezze a legjobb napozóágyakat és elkerülje a nagy tömeget.",
+            "ro": "Răcoriți-vă și distrați-vă la acest parc acvatic pentru familii și ajungeți chiar la ora deschiderii pentru a vă asigura cele mai bune șezlonguri fără aglomerație mare.",
+            "en": "Cool off and have fun at this family-friendly aquatic park, and arrive right at opening time to secure the best sunbeds and enjoy the pools without the large crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Sítio",
+            "hu": "Sítio Kilátó",
+            "ro": "Punctul de belvedere Sítio",
+            "en": "Sítio Viewpoint"
+          },
+          "coords": [
+            -9.076246,
+            39.604496
+          ],
+          "category": "natural",
+          "arrive_at": "12:28",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie das spektakuläre Küstenpanorama von diesem erhöhten Aussichtspunkt und fahren Sie mit der historischen Standseilbahn vom Strand hinauf, um Zeit zu sparen.",
+            "hu": "Gyönyörködjön a látványos tengerparti panorámában erről a magaslati pontról, és utazzon fel a strandról a történelmi siklóval, hogy időt és energiát takarítson meg.",
+            "ro": "Admirați panorama de coastă spectaculoasă de la acest punct de belvedere înalt și urcați cu funicularul istoric de la plajă pentru a economisi timp și energie.",
+            "en": "Take in the spectacular coastal panorama from this elevated viewpoint, and ride the historic funicular up from the beach to save time and energy on the steep hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm von Nazaré",
+            "hu": "Nazaré Világítótorony",
+            "ro": "Farul din Nazaré",
+            "en": "Nazaré Lighthouse"
+          },
+          "coords": [
+            -9.085347,
+            39.604424
+          ],
+          "category": "landmark",
+          "arrive_at": "12:55",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie den legendären Leuchtturm mit seinen massiven Winterwellen und prüfen Sie vorab den Surfbericht, um die weltberühmten Extrem-Surfbedingungen zu erleben.",
+            "hu": "Fedezze fel a legendás világítótornyot, ahol a hatalmas téli hullámok törnek meg, és előzetesen ellenőrizze a szörf-előrejelzést, hogy lássa az extrém körülményeket.",
+            "ro": "Descoperiți farul legendar unde se sparg valurile masive de iarnă și verificați prognoza de surf în prealabil pentru a asista la faimoasele condiții extreme de surf.",
+            "en": "Discover the legendary lighthouse where massive winter waves break, and check the surf forecast beforehand to witness the world-famous extreme surfing conditions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am frühen Morgen am Monte de São Bartolomeu, um die Natur von oben zu betrachten. Fahren Sie weiter zum Pranger in Pederneira und verbringen Sie den Vormittag am Strand von Nazaré. Nachmittags erwartet Sie spritziger Spaß im Norpark, bevor Sie zum atemberaubenden Aussichtspunkt Sítio fahren. Der Tag endet perfekt am weltbekannten Leuchtturm von Nazaré mit spektakulärer Kulisse.",
+        "hu": "Kezdje a kora reggelt a Monte de São Bartolomeu hegyen, és csodálja meg a természetet felülről. Vezessen a pederneirai pellengérhez, majd töltse a délelőttöt a strandon. Délután frissítő szórakozás várja a Norparkban, mielőtt a lélegzetelállító Sítio kilátóhoz hajtana. A nap tökéletesen zárul Nazaré világhírű világítótornyánál, ahol a hatalmas hullámok lenyűgöző hátteret biztosítanak.",
+        "ro": "Începeți dimineața devreme la Monte de São Bartolomeu pentru a admira natura de sus. Conduceți la stâlpul din Pederneira și petreceți dimineața la plajă. După-amiaza, vă așteaptă distracția în parcul acvatic Norpark, înainte de a conduce la uluitorul punct de belvedere Sítio. Ziua se încheie perfect la farul de renume mondial din Nazaré, pe un fundal spectaculos cu valuri oceanice.",
+        "en": "Start your early morning at Monte de São Bartolomeu to admire the nature from above. Drive to the pillory in Pederneira and spend the morning relaxing by Nazaré beach. In the afternoon, enjoy some refreshing fun at Norpark before driving up to the breathtaking Sítio viewpoint. The day ends perfectly at the world-renowned Nazaré lighthouse, featuring a spectacular backdrop of giant ocean waves."
+      }
+    }
+  }
+}

@@ -1,0 +1,543 @@
+{
+  "city_id": "gonfreville-l-orcher",
+  "anchor": {
+    "name": "Gonfreville-l'Orcher",
+    "coords": [
+      0.2331,
+      49.5053
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:57",
+      "total_km": 5.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Maison du Patrimoine et des Cités Provisoires",
+            "hu": "Maison du Patrimoine et des Cités Provisoires",
+            "ro": "Maison du Patrimoine et des Cités Provisoires",
+            "en": "Maison du Patrimoine et des Cités Provisoires"
+          },
+          "coords": [
+            0.235444,
+            49.509366
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses einzigartige Museum, das die Geschichte der provisorischen Nachkriegsunterkünfte in der Normandie zeigt, und prüfen Sie vorab den Ausstellungsplan.",
+            "hu": "Fedezze fel ezt az egyedülálló múzeumot, amely Normandia háború utáni ideiglenes lakhatási történelmét mutatja be, és ne felejtse el előzetesen ellenőrizni a kiállítási naptárat.",
+            "ro": "Explorați acest muzeu unic care prezintă istoria locuințelor provizorii postbelice din Normandia și nu uitați să verificați programul expozițiilor temporare înainte de vizită.",
+            "en": "Explore this unique museum showcasing the post-war provisional housing history of Normandy, and remember to check the temporary exhibition schedule before visiting."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Erkonwald",
+            "hu": "Église Saint-Erkonwald",
+            "ro": "Église Saint-Erkonwald",
+            "en": "Église Saint-Erkonwald"
+          },
+          "coords": [
+            0.234566,
+            49.502793
+          ],
+          "category": "religious",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten modernen architektonischen Details dieses religiösen Nachkriegsbaus, am besten wenn die Sonne die farbenfrohen Buntglasfenster erhellt.",
+            "hu": "Csodálja meg ennek a háború utáni vallási épületnek a lenyűgöző modern építészeti részleteit, és időzítse látogatását úgy, hogy a nap megvilágítsa az élénk üvegablakokat.",
+            "ro": "Admirați detaliile arhitecturale moderne ale acestei structuri religioase postbelice, de preferință când soarele luminează vitraliile sale vibrante.",
+            "en": "Admire the striking modern architectural details of this post-war religious structure, making sure to visit when the sun illuminates its vibrant stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Château d'Orcher",
+            "hu": "Château d'Orcher",
+            "ro": "Château d'Orcher",
+            "en": "Château d'Orcher"
+          },
+          "coords": [
+            0.246389,
+            49.496944
+          ],
+          "category": "fortress",
+          "arrive_at": "11:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die eleganten Wehrtürme dieser majestätischen Festung mit Blick auf die Mündung der Seine und nehmen Sie sich unbedingt Zeit für einen Spaziergang durch die Gärten.",
+            "hu": "Csodálja meg ennek a Szajna torkolatára néző fenséges erődítménynek az elegáns védőtornyait, és mindenképpen szánjon időt a gondosan megőrzött kertek bejárására.",
+            "ro": "Minunați-vă de turnurile defensive elegante ale acestei fortărețe maiestuoase cu vedere la estuarul Senei și nu ratați o plimbare prin grădinile sale păstrate cu grijă.",
+            "en": "Marvel at the elegant defensive towers of this majestic fortress overlooking the Seine estuary, and definitely take a moment to walk through its meticulously preserved gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Michel",
+            "hu": "Église Saint-Michel",
+            "ro": "Église Saint-Michel",
+            "en": "Église Saint-Michel"
+          },
+          "coords": [
+            0.265692,
+            49.501916
+          ],
+          "category": "religious",
+          "arrive_at": "13:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Treten Sie in diese charmante historische Kirche ein, um die friedliche Atmosphäre und die rustikalen Steinschnitzereien zu genießen, und bringen Sie eine Kamera für Details mit.",
+            "hu": "Lépjen be ebbe a bájos történelmi templomba, hogy élvezze békés hangulatát és rusztikus kőfaragásait, és hozzon magával fényképezőgépet az autentikus részletek megörökítéséhez.",
+            "ro": "Pășiți în această biserică istorică fermecătoare pentru a aprecia atmosfera pașnică și sculpturile rustice în piatră, aducând un aparat foto pentru a capta detaliile sale.",
+            "en": "Step into this charming historical church to appreciate its peaceful atmosphere and rustic stone carvings, bringing a small camera to capture its authentic regional charm."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre et Saint-Paul",
+            "hu": "Église Saint-Pierre et Saint-Paul",
+            "ro": "Église Saint-Pierre et Saint-Paul",
+            "en": "Église Saint-Pierre et Saint-Paul"
+          },
+          "coords": [
+            0.250927,
+            49.516018
+          ],
+          "category": "religious",
+          "arrive_at": "14:47",
+          "stay_min": 70,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Betrachten Sie die faszinierende Mischung der Architekturepochen in dieser historischen Pfarrkirche und nehmen Sie sich Zeit für einen Rundgang um die robuste normannische Fassade.",
+            "hu": "Figyelje meg az építészeti korszakok lenyűgöző keveredését ebben a történelmi plébániatemplomban, és sétáljon körbe a külsején, hogy teljes mértékben értékelje normann stílusát.",
+            "ro": "Observați amestecul fascinant de epoci arhitecturale în această biserică istorică, făcându-vă timp pentru o plimbare în exterior pentru a-i aprecia pe deplin structura normandă.",
+            "en": "Observe the fascinating blend of architectural eras in this historic parish church, taking time to walk around the exterior to fully appreciate its sturdy Norman construction."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Rundgang beginnt mit einem tiefen Einblick in die Geschichte in der Maison du Patrimoine. Am Mittag spazieren Sie zur modernen Église Saint-Erkonwald. Am Nachmittag geht es in Richtung Südosten, um das imposante Château d'Orcher und seine herrliche Aussicht auf die Seine-Mündung zu bewundern. Der Abend endet mit Besuchen der rustikalen Kirchen Saint-Michel und Saint-Pierre et Saint-Paul.",
+        "hu": "A gyalogtúra a helyi történelembe való elmélyüléssel kezdődik a Maison du Patrimoine-ban. Délben egy sétával eljut a modern Église Saint-Erkonwaldhoz. Délután délkelet felé veszi az irányt, hogy megcsodálja az impozáns Château d'Orchert és a Szajna torkolatára nyíló kilátást. Az estét a két rusztikus templom, a Saint-Michel és a Saint-Pierre et Saint-Paul békés meglátogatása zárja.",
+        "ro": "Turul pietonal începe cu istoria locală la Maison du Patrimoine. La prânz veți face o scurtă plimbare până la moderna biserică Saint-Erkonwald. După-amiaza vă veți îndrepta spre sud-est pentru a admira impunătorul Château d'Orcher cu priveliștea sa asupra estuarului Senei. Seara se încheie la două biserici rustice, Saint-Michel și Saint-Pierre et Saint-Paul, prezentând moștenirea regiunii.",
+        "en": "Your walk begins with local history at the unique Maison du Patrimoine, setting a thoughtful tone. Midday brings a short stroll to the modern Église Saint-Erkonwald, offering architectural contrast. In the afternoon, head southeast to marvel at Château d'Orcher and its magnificent estuary views. The evening wraps up peacefully at two rustic churches, Église Saint-Michel and Saint-Pierre et Saint-Paul."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:03",
+      "total_km": 7.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Colombier de Bévilliers",
+            "hu": "Colombier de Bévilliers",
+            "ro": "Colombier de Bévilliers",
+            "en": "Colombier de Bévilliers"
+          },
+          "coords": [
+            0.215631,
+            49.508024
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen wunderschön erhaltenen historischen Taubenschlag, der einst Reichtum und Status symbolisierte, und fotografieren Sie die runde Struktur im Morgenlicht.",
+            "hu": "Fedezze fel ezt a gyönyörűen megőrzött történelmi galambdúcot, amely egykor a gazdagságot szimbolizálta, és próbálja meg a reggeli fényben lefotózni egyedi kör alakú szerkezetét.",
+            "ro": "Descoperiți acest porumbar istoric frumos conservat, care simboliza odată bogăția, și încercați să fotografiați structura sa circulară unică în timpul luminii blânde a dimineții.",
+            "en": "Discover this beautifully preserved historical dovecote that once symbolized wealth and status, and try to photograph its unique circular structure during the soft morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir de Bévilliers",
+            "hu": "Manoir de Bévilliers",
+            "ro": "Manoir de Bévilliers",
+            "en": "Manoir de Bévilliers"
+          },
+          "coords": [
+            0.217928,
+            49.5147
+          ],
+          "category": "historical",
+          "arrive_at": "10:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Spazieren Sie über das historische Gelände dieses prächtigen Herrenhauses mit seiner klassischen normannischen Architektur und genießen Sie die Ruhe der üppigen Landschaft.",
+            "hu": "Sétáljon végig ennek a pompás udvarháznak a történelmi birtokán, hogy megtekintse a klasszikus normann építészetet, és álljon meg élvezni a buja táj nyugalmát.",
+            "ro": "Plimbați-vă pe domeniul istoric al acestui conac splendid pentru a vedea arhitectura clasică normandă, făcând o pauză pentru a vă bucura de liniștea peisajului luxuriant.",
+            "en": "Walk through the historic grounds of this splendid manor house to see classical Norman domestic architecture, pausing to enjoy the tranquility of its lush surrounding landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-de-la-Consolation",
+            "hu": "Église Notre-Dame-de-la-Consolation",
+            "ro": "Église Notre-Dame-de-la-Consolation",
+            "en": "Église Notre-Dame-de-la-Consolation"
+          },
+          "coords": [
+            0.219738,
+            49.523056
+          ],
+          "category": "religious",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beachten Sie die stille Hingabe, die im Design dieser bescheidenen, aber eleganten Kirche zum Ausdruck kommt, was sie zu einem idealen Ort für eine Pause abseits der Massen macht.",
+            "hu": "Figyelje meg a csendes áhítatot, amely ennek a szerény, de elegáns templomnak a kialakításában is megmutatkozik, így ideális délelőtti megálló a turisták elől elvonulva.",
+            "ro": "Observați devotamentul liniștit evident în designul acestei biserici modeste, dar elegante, un loc ideal pentru o pauză de dimineață departe de aglomerația turistică.",
+            "en": "Notice the quiet devotion evident in the design of this modest but elegant church, making it an ideal mid-morning stop to reflect away from the main tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Église Saint-Martin",
+            "ro": "Église Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            0.238259,
+            49.531387
+          ],
+          "category": "religious",
+          "arrive_at": "12:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Blicken Sie auf den markanten Glockenturm dieser ehrwürdigen Kirche, die dem Heiligen Martin geweiht ist, und spazieren Sie kurz über die angrenzenden Wege für eine schöne Aussicht.",
+            "hu": "Nézzen fel ennek a Szent Mártonnak szentelt tiszteletre méltó templomnak a jellegzetes harangtornyára, és sétáljon egyet a szomszédos ösvényeken a szép vidéki kilátásért.",
+            "ro": "Admirați turnul clopotniței al acestei venerabile biserici închinate Sfântului Martin și faceți o scurtă plimbare pe cărările adiacente pentru a vedea frumoase priveliști rurale.",
+            "en": "Look up at the distinctive bell tower of this venerable church dedicated to Saint Martin, and take a quick walk through the adjacent pathways to see nice countryside views."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison du Patrimoine et des Cités Provisoires",
+            "hu": "Maison du Patrimoine et des Cités Provisoires",
+            "ro": "Maison du Patrimoine et des Cités Provisoires",
+            "en": "Maison du Patrimoine et des Cités Provisoires"
+          },
+          "coords": [
+            0.235444,
+            49.509366
+          ],
+          "category": "museum",
+          "arrive_at": "13:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses einzigartige Museum, das die Geschichte der provisorischen Nachkriegsunterkünfte in der Normandie zeigt, und prüfen Sie vorab den Ausstellungsplan.",
+            "hu": "Fedezze fel ezt az egyedülálló múzeumot, amely Normandia háború utáni ideiglenes lakhatási történelmét mutatja be, és ne felejtse el előzetesen ellenőrizni a kiállítási naptárat.",
+            "ro": "Explorați acest muzeu unic care prezintă istoria locuințelor provizorii postbelice din Normandia și nu uitați să verificați programul expozițiilor temporare înainte de vizită.",
+            "en": "Explore this unique museum showcasing the post-war provisional housing history of Normandy, and remember to check the temporary exhibition schedule before visiting."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Erkonwald",
+            "hu": "Église Saint-Erkonwald",
+            "ro": "Église Saint-Erkonwald",
+            "en": "Église Saint-Erkonwald"
+          },
+          "coords": [
+            0.234566,
+            49.502793
+          ],
+          "category": "religious",
+          "arrive_at": "15:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten modernen architektonischen Details dieses religiösen Nachkriegsbaus, am besten wenn die Sonne die farbenfrohen Buntglasfenster erhellt.",
+            "hu": "Csodálja meg ennek a háború utáni vallási épületnek a lenyűgöző modern építészeti részleteit, és időzítse látogatását úgy, hogy a nap megvilágítsa az élénk üvegablakokat.",
+            "ro": "Admirați detaliile arhitecturale moderne ale acestei structuri religioase postbelice, de preferință când soarele luminează vitraliile sale vibrante.",
+            "en": "Admire the striking modern architectural details of this post-war religious structure, making sure to visit when the sun illuminates its vibrant stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Château d'Orcher",
+            "hu": "Château d'Orcher",
+            "ro": "Château d'Orcher",
+            "en": "Château d'Orcher"
+          },
+          "coords": [
+            0.246389,
+            49.496944
+          ],
+          "category": "fortress",
+          "arrive_at": "16:13",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die eleganten Wehrtürme dieser majestätischen Festung mit Blick auf die Mündung der Seine und nehmen Sie sich unbedingt Zeit für einen Spaziergang durch die Gärten.",
+            "hu": "Csodálja meg ennek a Szajna torkolatára néző fenséges erődítménynek az elegáns védőtornyait, és mindenképpen szánjon időt a gondosan megőrzött kertek bejárására.",
+            "ro": "Minunați-vă de turnurile defensive elegante ale acestei fortărețe maiestuoase cu vedere la estuarul Senei și nu ratați o plimbare prin grădinile sale păstrate cu grijă.",
+            "en": "Marvel at the elegant defensive towers of this majestic fortress overlooking the Seine estuary, and definitely take a moment to walk through its meticulously preserved gardens."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer am historischen Colombier de Bévilliers, bevor Sie zum nahe gelegenen Herrenhaus radeln. Bis zum Mittag führt Ihre Route an der charmanten Église Notre-Dame-de-la-Consolation und der Église Saint-Martin vorbei. Der Nachmittag ist der Erkundung der Ausstellungen der Maison du Patrimoine gewidmet und bietet eine kühle Atempause. Ihre abendliche Fahrt endet mit einem Halt in Saint-Erkonwald und einem Spaziergang bei Sonnenuntergang um das Château d'Orcher.",
+        "hu": "Kezdje kerékpáros kalandját a történelmi Colombier de Bévilliers-nél, majd pedálozzon a közeli udvarházhoz. Délre az útvonal a bájos Notre-Dame-de-la-Consolation és a Saint-Martin templomok mellett halad el. A délutánt a Maison du Patrimoine gazdag kiállításainak felfedezésére szánja, hűvös pihenőt tartva. Az esti kerékpározás a Saint-Erkonwaldnál tett megállóval és a fenséges Château d'Orcher körüli naplementés sétával zárul gyönyörűen.",
+        "ro": "Începeți aventura pe bicicletă la istoricul Colombier de Bévilliers, înainte de a pedala spre conacul din apropiere. Până la prânz, traseul vă poartă pe lângă fermecătoarele biserici Notre-Dame-de-la-Consolation și Saint-Martin. După-amiaza este dedicată explorării expozițiilor bogate de la Maison du Patrimoine, oferind un răgaz răcoros. Călătoria de seară se încheie frumos cu o oprire la Saint-Erkonwald și o plimbare la apus de soare în jurul mărețului Château d'Orcher.",
+        "en": "Kick off your adventure at the historic Colombier de Bévilliers, admiring the dovecote before pedaling to the nearby Manoir. By midday, your route takes you past Église Notre-Dame-de-la-Consolation and Église Saint-Martin. The afternoon is for exploring the rich exhibits of the Maison du Patrimoine. Your evening concludes with a stop at Saint-Erkonwald and a sunset walk at Château d'Orcher."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:03",
+      "total_km": 10.5,
+      "stop_count": 9,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Église Saint-Martin",
+            "ro": "Église Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            0.238259,
+            49.531387
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Blicken Sie auf den markanten Glockenturm dieser ehrwürdigen Kirche, die dem Heiligen Martin geweiht ist, und spazieren Sie kurz über die angrenzenden Wege für eine schöne Aussicht.",
+            "hu": "Nézzen fel ennek a Szent Mártonnak szentelt tiszteletre méltó templomnak a jellegzetes harangtornyára, és sétáljon egyet a szomszédos ösvényeken a szép vidéki kilátásért.",
+            "ro": "Admirați turnul clopotniței al acestei venerabile biserici închinate Sfântului Martin și faceți o scurtă plimbare pe cărările adiacente pentru a vedea frumoase priveliști rurale.",
+            "en": "Look up at the distinctive bell tower of this venerable church dedicated to Saint Martin, and take a quick walk through the adjacent pathways to see nice countryside views."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-de-la-Consolation",
+            "hu": "Église Notre-Dame-de-la-Consolation",
+            "ro": "Église Notre-Dame-de-la-Consolation",
+            "en": "Église Notre-Dame-de-la-Consolation"
+          },
+          "coords": [
+            0.219738,
+            49.523056
+          ],
+          "category": "religious",
+          "arrive_at": "09:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Beachten Sie die stille Hingabe, die im Design dieser bescheidenen, aber eleganten Kirche zum Ausdruck kommt, was sie zu einem idealen Ort für eine Pause abseits der Massen macht.",
+            "hu": "Figyelje meg a csendes áhítatot, amely ennek a szerény, de elegáns templomnak a kialakításában is megmutatkozik, így ideális délelőtti megálló a turisták elől elvonulva.",
+            "ro": "Observați devotamentul liniștit evident în designul acestei biserici modeste, dar elegante, un loc ideal pentru o pauză de dimineață departe de aglomerația turistică.",
+            "en": "Notice the quiet devotion evident in the design of this modest but elegant church, making it an ideal mid-morning stop to reflect away from the main tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir de Bévilliers",
+            "hu": "Manoir de Bévilliers",
+            "ro": "Manoir de Bévilliers",
+            "en": "Manoir de Bévilliers"
+          },
+          "coords": [
+            0.217928,
+            49.5147
+          ],
+          "category": "historical",
+          "arrive_at": "10:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie über das historische Gelände dieses prächtigen Herrenhauses mit seiner klassischen normannischen Architektur und genießen Sie die Ruhe der üppigen Landschaft.",
+            "hu": "Sétáljon végig ennek a pompás udvarháznak a történelmi birtokán, hogy megtekintse a klasszikus normann építészetet, és álljon meg élvezni a buja táj nyugalmát.",
+            "ro": "Plimbați-vă pe domeniul istoric al acestui conac splendid pentru a vedea arhitectura clasică normandă, făcând o pauză pentru a vă bucura de liniștea peisajului luxuriant.",
+            "en": "Walk through the historic grounds of this splendid manor house to see classical Norman domestic architecture, pausing to enjoy the tranquility of its lush surrounding landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Colombier de Bévilliers",
+            "hu": "Colombier de Bévilliers",
+            "ro": "Colombier de Bévilliers",
+            "en": "Colombier de Bévilliers"
+          },
+          "coords": [
+            0.215631,
+            49.508024
+          ],
+          "category": "historical",
+          "arrive_at": "11:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen wunderschön erhaltenen historischen Taubenschlag, der einst Reichtum und Status symbolisierte, und fotografieren Sie die runde Struktur im Morgenlicht.",
+            "hu": "Fedezze fel ezt a gyönyörűen megőrzött történelmi galambdúcot, amely egykor a gazdagságot szimbolizálta, és próbálja meg a reggeli fényben lefotózni egyedi kör alakú szerkezetét.",
+            "ro": "Descoperiți acest porumbar istoric frumos conservat, care simboliza odată bogăția, și încercați să fotografiați structura sa circulară unică în timpul luminii blânde a dimineții.",
+            "en": "Discover this beautifully preserved historical dovecote that once symbolized wealth and status, and try to photograph its unique circular structure during the soft morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison du Patrimoine et des Cités Provisoires",
+            "hu": "Maison du Patrimoine et des Cités Provisoires",
+            "ro": "Maison du Patrimoine et des Cités Provisoires",
+            "en": "Maison du Patrimoine et des Cités Provisoires"
+          },
+          "coords": [
+            0.235444,
+            49.509366
+          ],
+          "category": "museum",
+          "arrive_at": "13:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses einzigartige Museum, das die Geschichte der provisorischen Nachkriegsunterkünfte in der Normandie zeigt, und prüfen Sie vorab den Ausstellungsplan.",
+            "hu": "Fedezze fel ezt az egyedülálló múzeumot, amely Normandia háború utáni ideiglenes lakhatási történelmét mutatja be, és ne felejtse el előzetesen ellenőrizni a kiállítási naptárat.",
+            "ro": "Explorați acest muzeu unic care prezintă istoria locuințelor provizorii postbelice din Normandia și nu uitați să verificați programul expozițiilor temporare înainte de vizită.",
+            "en": "Explore this unique museum showcasing the post-war provisional housing history of Normandy, and remember to check the temporary exhibition schedule before visiting."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre et Saint-Paul",
+            "hu": "Église Saint-Pierre et Saint-Paul",
+            "ro": "Église Saint-Pierre et Saint-Paul",
+            "en": "Église Saint-Pierre et Saint-Paul"
+          },
+          "coords": [
+            0.250927,
+            49.516018
+          ],
+          "category": "religious",
+          "arrive_at": "15:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Betrachten Sie die faszinierende Mischung der Architekturepochen in dieser historischen Pfarrkirche und nehmen Sie sich Zeit für einen Rundgang um die robuste normannische Fassade.",
+            "hu": "Figyelje meg az építészeti korszakok lenyűgöző keveredését ebben a történelmi plébániatemplomban, és sétáljon körbe a külsején, hogy teljes mértékben értékelje normann stílusát.",
+            "ro": "Observați amestecul fascinant de epoci arhitecturale în această biserică istorică, făcându-vă timp pentru o plimbare în exterior pentru a-i aprecia pe deplin structura normandă.",
+            "en": "Observe the fascinating blend of architectural eras in this historic parish church, taking time to walk around the exterior to fully appreciate its sturdy Norman construction."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Michel",
+            "hu": "Église Saint-Michel",
+            "ro": "Église Saint-Michel",
+            "en": "Église Saint-Michel"
+          },
+          "coords": [
+            0.265692,
+            49.501916
+          ],
+          "category": "religious",
+          "arrive_at": "15:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Treten Sie in diese charmante historische Kirche ein, um die friedliche Atmosphäre und die rustikalen Steinschnitzereien zu genießen, und bringen Sie eine Kamera für Details mit.",
+            "hu": "Lépjen be ebbe a bájos történelmi templomba, hogy élvezze békés hangulatát és rusztikus kőfaragásait, és hozzon magával fényképezőgépet az autentikus részletek megörökítéséhez.",
+            "ro": "Pășiți în această biserică istorică fermecătoare pentru a aprecia atmosfera pașnică și sculpturile rustice în piatră, aducând un aparat foto pentru a capta detaliile sale.",
+            "en": "Step into this charming historical church to appreciate its peaceful atmosphere and rustic stone carvings, bringing a small camera to capture its authentic regional charm."
+          }
+        },
+        {
+          "name": {
+            "de": "Château d'Orcher",
+            "hu": "Château d'Orcher",
+            "ro": "Château d'Orcher",
+            "en": "Château d'Orcher"
+          },
+          "coords": [
+            0.246389,
+            49.496944
+          ],
+          "category": "fortress",
+          "arrive_at": "16:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die eleganten Wehrtürme dieser majestätischen Festung mit Blick auf die Mündung der Seine und nehmen Sie sich unbedingt Zeit für einen Spaziergang durch die Gärten.",
+            "hu": "Csodálja meg ennek a Szajna torkolatára néző fenséges erődítménynek az elegáns védőtornyait, és mindenképpen szánjon időt a gondosan megőrzött kertek bejárására.",
+            "ro": "Minunați-vă de turnurile defensive elegante ale acestei fortărețe maiestuoase cu vedere la estuarul Senei și nu ratați o plimbare prin grădinile sale păstrate cu grijă.",
+            "en": "Marvel at the elegant defensive towers of this majestic fortress overlooking the Seine estuary, and definitely take a moment to walk through its meticulously preserved gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Erkonwald",
+            "hu": "Église Saint-Erkonwald",
+            "ro": "Église Saint-Erkonwald",
+            "en": "Église Saint-Erkonwald"
+          },
+          "coords": [
+            0.234566,
+            49.502793
+          ],
+          "category": "religious",
+          "arrive_at": "17:53",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten modernen architektonischen Details dieses religiösen Nachkriegsbaus, am besten wenn die Sonne die farbenfrohen Buntglasfenster erhellt.",
+            "hu": "Csodálja meg ennek a háború utáni vallási épületnek a lenyűgöző modern építészeti részleteit, és időzítse látogatását úgy, hogy a nap megvilágítsa az élénk üvegablakokat.",
+            "ro": "Admirați detaliile arhitecturale moderne ale acestei structuri religioase postbelice, de preferință când soarele luminează vitraliile sale vibrante.",
+            "en": "Admire the striking modern architectural details of this post-war religious structure, making sure to visit when the sun illuminates its vibrant stained glass windows."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt im Norden an der Église Saint-Martin und führt Sie zur Notre-Dame-de-la-Consolation, während Sie die morgendliche Ruhe genießen. Der Mittag ist perfekt, um das Anwesen Bévilliers mit dem Herrenhaus und seinem ikonischen Colombier zu erkunden. Tauchen Sie nachmittags in der Maison du Patrimoine in die Geschichte ein, bevor Sie die Kirchen Saint-Pierre et Saint-Paul und Saint-Michel bewundern. Der Tag gipfelt in der Pracht des Château d'Orcher.",
+        "hu": "Autós túrája északon, az Église Saint-Martinnál kezdődik, majd zökkenőmentesen átugrik a Notre-Dame-de-la-Consolation templomhoz a reggeli csendben. A dél tökéletes a történelmi Bévilliers birtok, a kúria és a galambdúc felfedezésére. Délután merüljön el a történelemben a Maison du Patrimoine-ban, mielőtt megcsodálja a Saint-Pierre et Saint-Paul és a Saint-Michel templomok örökségét. A nap a Château d'Orcher pompájával és a Saint-Erkonwald esti pillanatával csúcsosodik ki.",
+        "ro": "Turul cu mașina începe în nord, la Église Saint-Martin, sărind la Notre-Dame-de-la-Consolation pentru a savura liniștea dimineții. Prânzul este perfect pentru a explora domeniul istoric Bévilliers, vizitând atât conacul, cât și legendarul Colombier. După-amiaza, pătrundeți în istoria locală la Maison du Patrimoine înainte de a admira bisericile Saint-Pierre et Saint-Paul și Saint-Michel. Ziua culminează cu măreția Château d'Orcher și un ultim moment la biserica Saint-Erkonwald.",
+        "en": "Your driving tour starts in the north at Église Saint-Martin, moving to Notre-Dame-de-la-Consolation in the morning quiet. Midday is perfect for exploring the historic Bévilliers estate. In the afternoon, dive into local history at the Maison du Patrimoine before admiring the heritage at two local churches. The day culminates with the grandeur of Château d'Orcher and a stop at Saint-Erkonwald."
+      }
+    }
+  }
+}

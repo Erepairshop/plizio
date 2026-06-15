@@ -1,0 +1,566 @@
+{
+  "city_id": "france-le-diben-cities-v2",
+  "anchor": {
+    "name": "Le Diben",
+    "coords": [
+      -3.83079,
+      48.70716
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 2.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Port blanc",
+            "hu": "Port blanc",
+            "ro": "Port blanc",
+            "en": "Port blanc"
+          },
+          "coords": [
+            -3.83614,
+            48.706485
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte maritime Atmosphäre dieses schönen Hafens, der Generationen von bretonischen Seeleuten diente, und bringen Sie eine Windjacke mit.",
+            "hu": "Élvezze a festői kikötő élénk tengerészeti hangulatát, amely tengerészek generációit szolgálta ki, és hozzon magával széldzsekit a parti szél miatt.",
+            "ro": "Bucurați-vă de atmosfera maritimă plină de viață a acestui port care a servit generații de marinari bretoni și aduceți o geacă pentru briza de coastă.",
+            "en": "Enjoy the lively maritime atmosphere of this lovely port, which served generations of Breton sailors, and bring a windbreaker for the coastal breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Étienne",
+            "hu": "Chapelle Saint-Étienne",
+            "ro": "Chapelle Saint-Étienne",
+            "en": "Chapelle Saint-Étienne"
+          },
+          "coords": [
+            -3.832378,
+            48.705599
+          ],
+          "category": "religious",
+          "arrive_at": "10:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die robuste Steinarchitektur dieser historischen Küstenkapelle, die Fischer schützte, und treten Sie ein, um das Holzgewölbe zu sehen.",
+            "hu": "Csodálja meg a helyi halászokat védelmező történelmi tengerparti kápolna masszív kőépítészetét, és lépjen be, hogy megnézze a gyönyörű faboltozatot.",
+            "ro": "Admirați arhitectura robustă din piatră a acestei capele istorice de coastă care proteja pescarii și pășiți înăuntru pentru a vedea bolta de lemn.",
+            "en": "Admire the robust stone architecture of this historic coastal chapel that protected local fishermen, and step inside to see the beautiful wooden vaulting."
+          }
+        },
+        {
+          "name": {
+            "de": "Anse du Diben",
+            "hu": "Anse du Diben",
+            "ro": "Anse du Diben",
+            "en": "Anse du Diben"
+          },
+          "coords": [
+            -3.823607,
+            48.707686
+          ],
+          "category": "landmark",
+          "arrive_at": "11:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.68,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf diese geschützte Bucht, die Einblicke in das bretonische Leben bietet, was sie perfekt für Fotos bei Ebbe macht.",
+            "hu": "Gyönyörködjön a védett öböl panorámájában, amely bepillantást enged a hagyományos breton életbe, így apálykor tökéletes helyszín a fotózáshoz.",
+            "ro": "Admirați vederea panoramică a acestui golf protejat care oferă o privire asupra vieții tradiționale bretone, fiind perfect pentru fotografii la reflux.",
+            "en": "Take in the panoramic views of this beautiful protected cove which offers a glimpse into traditional Breton life, making it perfect for photography at low tide."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Primel",
+            "hu": "Plage de Primel",
+            "ro": "Plage de Primel",
+            "en": "Plage de Primel"
+          },
+          "coords": [
+            -3.817263,
+            48.711609
+          ],
+          "category": "recreational",
+          "arrive_at": "11:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.63,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem feinen goldenen Sand dieses weitläufigen, familienfreundlichen Strandes, aber überprüfen Sie unbedingt den Gezeitenplan.",
+            "hu": "Pihenjen ennek a tágas és családbarát strandnak a finom aranyhomokján, amely meghatározza a partvidéket, de feltétlenül ellenőrizze az árapály-menetrendet.",
+            "ro": "Relaxați-vă pe nisipul auriu fin al acestei plaje întinse și prietenoase cu familiile, dar asigurați-vă că verificați programul zilnic al mareelor.",
+            "en": "Relax on the fine golden sands of this expansive and family-friendly beach that defines the local coastline, but be sure to check the daily tide schedule."
+          }
+        },
+        {
+          "name": {
+            "de": "La Maison du Douanier",
+            "hu": "La Maison du Douanier",
+            "ro": "La Maison du Douanier",
+            "en": "La Maison du Douanier"
+          },
+          "coords": [
+            -3.818998,
+            48.717283
+          ],
+          "category": "historical",
+          "arrive_at": "13:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.63,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historische Zollhaus, das einst die Küste vor Schmugglern schützte, und lesen Sie die Informationstafeln zur maritimen Geschichte.",
+            "hu": "Fedezze fel ezt a történelmi vámházat, amely egykor a zord partokat védte a csempészektől, és olvassa el a tengerészeti történelmet bemutató táblákat.",
+            "ro": "Explorați această casă istorică a vămilor care păzea țărmurile împotriva contrabandiștilor și citiți plăcile informative despre istoria sa maritimă.",
+            "en": "Explore this historic customs house that once guarded the rugged shores against local smugglers, and read the informative plaques detailing its maritime history."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de Primel - Tregastel",
+            "hu": "Menhir de Primel - Tregastel",
+            "ro": "Menhir de Primel - Tregastel",
+            "en": "Menhir de Primel - Tregastel"
+          },
+          "coords": [
+            -3.817985,
+            48.718268
+          ],
+          "category": "historical",
+          "arrive_at": "14:40",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen alten stehenden Stein, der die spektakuläre Küste seit Jahrtausenden bewacht, und tragen Sie feste Wanderschuhe für den Felsweg.",
+            "hu": "Csodálja meg ezt az ősi állókövet, amely évezredek óta némán őrzi a látványos partvidéket, és viseljen masszív túracipőt a sziklás ösvényhez.",
+            "ro": "Minunați-vă de această piatră antică ce veghează tăcut coasta spectaculoasă de milenii și purtați încălțăminte de drumeție robustă pentru poteca stâncoasă.",
+            "en": "Marvel at this ancient standing stone that has silently watched over the spectacular coastline for millennia, and wear sturdy walking shoes for the rocky path."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am charmanten Port Blanc und der historischen Kapelle.\n\nDer Mittag lädt ein, die Anse du Diben zu erkunden.\n\nDer Nachmittag wird entspannt am Strand von Primel verbracht.\n\nDer Abend endet mit dem alten Menhir und dem Zollhaus im Sonnenuntergang.",
+        "hu": "A reggel a Port Blanc bájával és a történelmi kápolnával indul.\n\nDélben az Anse du Diben felfedezése vár ránk.\n\nA délutánt a Plage de Primel homokján pihenve töltjük.\n\nAz este az ősi menhír és a vámház lenyűgöző naplementéjével zárul.",
+        "ro": "Dimineața începe la fermecătorul Port Blanc și la capela istorică.\n\nLa prânz sunteți invitați să explorați Anse du Diben.\n\nDupă-amiaza este petrecută relaxându-vă la Plage de Primel.\n\nSeara se încheie cu anticul Menhir și Casa Vămilor la apus.",
+        "en": "Morning starts at Port Blanc's maritime charm and the historic Chapel.\n\nMidday invites you to view the Anse du Diben.\n\nAfternoon is spent relaxing at Plage de Primel.\n\nEvening concludes with the ancient Menhir and the historic Customs House at sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plage de Guerzit",
+            "hu": "Plage de Guerzit",
+            "ro": "Plage de Guerzit",
+            "en": "Plage de Guerzit"
+          },
+          "coords": [
+            -3.841846,
+            48.696819
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie den ruhigen Charme dieses abgelegenen Kiesel- und Sandstrandes, der von Klippen umgeben ist und sich perfekt für einen Morgenspaziergang eignet.",
+            "hu": "Fedezze fel ennek a látványos sziklákkal körülvett, eldugott kavicsos és homokos strandnak a békés varázsát, amely tökéletes egy nyugodt reggeli sétához.",
+            "ro": "Descoperiți farmecul liniștit al acestei plaje retrase, înconjurată de stânci naturale izbitoare, perfectă pentru o plimbare matinală liniștită pe mal.",
+            "en": "Discover the tranquil charm of this secluded pebble and sand beach surrounded by striking natural cliffs, perfect for a peaceful morning stroll along the water."
+          }
+        },
+        {
+          "name": {
+            "de": "La Pile d'assiettes",
+            "hu": "La Pile d'assiettes",
+            "ro": "La Pile d'assiettes",
+            "en": "La Pile d'assiettes"
+          },
+          "coords": [
+            -3.848186,
+            48.696558
+          ],
+          "category": "landmark",
+          "arrive_at": "10:28",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Fotografieren Sie diese faszinierende natürliche Felsformation, die wie ein riesiger Tellerstapel aussieht, aber halten Sie bei starkem Wind Abstand.",
+            "hu": "Fényképezze le ezt a lenyűgöző természetes sziklaképződményt, amely úgy fest, mint egy óriási tányérhalom, de erős szélben tartson biztonságos távolságot.",
+            "ro": "Fotografiați această formațiune stâncoasă fascinantă, stivuită ca o grămadă uriașă de farfurii pe mal, dar păstrați o distanță sigură în timpul vânturilor.",
+            "en": "Photograph this fascinating natural rock formation stacked like a giant pile of plates along the sea edge, but keep a safe distance during strong high winds."
+          }
+        },
+        {
+          "name": {
+            "de": "Port blanc",
+            "hu": "Port blanc",
+            "ro": "Port blanc",
+            "en": "Port blanc"
+          },
+          "coords": [
+            -3.83614,
+            48.706485
+          ],
+          "category": "recreational",
+          "arrive_at": "11:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte maritime Atmosphäre dieses schönen Hafens, der Generationen von bretonischen Seeleuten diente, und bringen Sie eine Windjacke mit.",
+            "hu": "Élvezze a festői kikötő élénk tengerészeti hangulatát, amely tengerészek generációit szolgálta ki, és hozzon magával széldzsekit a parti szél miatt.",
+            "ro": "Bucurați-vă de atmosfera maritimă plină de viață a acestui port care a servit generații de marinari bretoni și aduceți o geacă pentru briza de coastă.",
+            "en": "Enjoy the lively maritime atmosphere of this lovely port, which served generations of Breton sailors, and bring a windbreaker for the coastal breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Étienne",
+            "hu": "Chapelle Saint-Étienne",
+            "ro": "Chapelle Saint-Étienne",
+            "en": "Chapelle Saint-Étienne"
+          },
+          "coords": [
+            -3.832378,
+            48.705599
+          ],
+          "category": "religious",
+          "arrive_at": "12:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die robuste Steinarchitektur dieser historischen Küstenkapelle, die Fischer schützte, und treten Sie ein, um das Holzgewölbe zu sehen.",
+            "hu": "Csodálja meg a helyi halászokat védelmező történelmi tengerparti kápolna masszív kőépítészetét, és lépjen be, hogy megnézze a gyönyörű faboltozatot.",
+            "ro": "Admirați arhitectura robustă din piatră a acestei capele istorice de coastă care proteja pescarii și pășiți înăuntru pentru a vedea bolta de lemn.",
+            "en": "Admire the robust stone architecture of this historic coastal chapel that protected local fishermen, and step inside to see the beautiful wooden vaulting."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Primel",
+            "hu": "Plage de Primel",
+            "ro": "Plage de Primel",
+            "en": "Plage de Primel"
+          },
+          "coords": [
+            -3.817263,
+            48.711609
+          ],
+          "category": "recreational",
+          "arrive_at": "13:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.28,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem feinen goldenen Sand dieses weitläufigen, familienfreundlichen Strandes, aber überprüfen Sie unbedingt den Gezeitenplan.",
+            "hu": "Pihenjen ennek a tágas és családbarát strandnak a finom aranyhomokján, amely meghatározza a partvidéket, de feltétlenül ellenőrizze az árapály-menetrendet.",
+            "ro": "Relaxați-vă pe nisipul auriu fin al acestei plaje întinse și prietenoase cu familiile, dar asigurați-vă că verificați programul zilnic al mareelor.",
+            "en": "Relax on the fine golden sands of this expansive and family-friendly beach that defines the local coastline, but be sure to check the daily tide schedule."
+          }
+        },
+        {
+          "name": {
+            "de": "La Maison du Douanier",
+            "hu": "La Maison du Douanier",
+            "ro": "La Maison du Douanier",
+            "en": "La Maison du Douanier"
+          },
+          "coords": [
+            -3.818998,
+            48.717283
+          ],
+          "category": "historical",
+          "arrive_at": "14:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.63,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historische Zollhaus, das einst die Küste vor Schmugglern schützte, und lesen Sie die Informationstafeln zur maritimen Geschichte.",
+            "hu": "Fedezze fel ezt a történelmi vámházat, amely egykor a zord partokat védte a csempészektől, és olvassa el a tengerészeti történelmet bemutató táblákat.",
+            "ro": "Explorați această casă istorică a vămilor care păzea țărmurile împotriva contrabandiștilor și citiți plăcile informative despre istoria sa maritimă.",
+            "en": "Explore this historic customs house that once guarded the rugged shores against local smugglers, and read the informative plaques detailing its maritime history."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de Primel - Tregastel",
+            "hu": "Menhir de Primel - Tregastel",
+            "ro": "Menhir de Primel - Tregastel",
+            "en": "Menhir de Primel - Tregastel"
+          },
+          "coords": [
+            -3.817985,
+            48.718268
+          ],
+          "category": "historical",
+          "arrive_at": "15:44",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen alten stehenden Stein, der die spektakuläre Küste seit Jahrtausenden bewacht, und tragen Sie feste Wanderschuhe für den Felsweg.",
+            "hu": "Csodálja meg ezt az ősi állókövet, amely évezredek óta némán őrzi a látványos partvidéket, és viseljen masszív túracipőt a sziklás ösvényhez.",
+            "ro": "Minunați-vă de această piatră antică ce veghează tăcut coasta spectaculoasă de milenii și purtați încălțăminte de drumeție robustă pentru poteca stâncoasă.",
+            "en": "Marvel at this ancient standing stone that has silently watched over the spectacular coastline for millennia, and wear sturdy walking shoes for the rocky path."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die morgendliche Fahrt beginnt am malerischen Plage de Guerzit.\n\nAm Mittag radeln Sie durch den lebhaften Hafen von Port Blanc.\n\nDer Nachmittag führt der Küste entlang zum Strand von Primel.\n\nDer Abend endet am majestätischen Menhir mit weitem Meerblick.",
+        "hu": "A reggeli tekerés a festői Plage de Guerzit partjánál kezdődik.\n\nDélben a nyüzsgő Port Blanc kikötője felé vesszük az irányt.\n\nA délután a part mentén a Primel strandhoz vezet egy kis pihenőre.\n\nAz este a fenséges menhírnél ér véget, ahonnan csodás a kilátás.",
+        "ro": "Plimbarea de dimineață începe la pitoreasca Plage de Guerzit.\n\nLa prânz, pedalarea vă poartă prin zona animată a portului Port Blanc.\n\nDupă-amiaza urmează coasta spre plaja Primel pentru o pauză.\n\nSeara se încheie la majestuosul Menhir cu vederi ample.",
+        "en": "Morning rides begin at the scenic Plage de Guerzit and the rocky coastal views.\n\nMidday pedaling brings you through Port Blanc's lively marina area.\n\nAfternoon follows the coast to Plage de Primel for a refreshing break.\n\nEvening wraps up at the majestic Menhir with sweeping sea views."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:18",
+      "total_km": 4.45,
+      "stop_count": 9,
+      "stops": [
+        {
+          "name": {
+            "de": "Château de Saint-Samson",
+            "hu": "Château de Saint-Samson",
+            "ro": "Château de Saint-Samson",
+            "en": "Château de Saint-Samson"
+          },
+          "coords": [
+            -3.851264,
+            48.690094
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schlendern Sie über das beeindruckende Gelände dieses historischen Herrenhauses, um das bretonische Erbe zu erleben, und achten Sie auf Führungen.",
+            "hu": "Sétáljon végig a nagyszerű történelmi kastély lenyűgöző birtokán, hogy megtapasztalja az igazi breton örökséget, és keressen helyi vezetett túrákat.",
+            "ro": "Plimbați-vă pe terenurile impresionante ale acestui conac istoric grandios pentru moștenirea bretonă autentică și verificați anunțurile pentru tururi ghidate.",
+            "en": "Wander around the impressive grounds of this grand historic manor to experience authentic Breton heritage, and check local notices for occasional guided tours."
+          }
+        },
+        {
+          "name": {
+            "de": "Point d'Observation du Château du Taureau",
+            "hu": "Point d'Observation du Château du Taureau",
+            "ro": "Point d'Observation du Château du Taureau",
+            "en": "Point d'Observation du Château du Taureau"
+          },
+          "coords": [
+            -3.849414,
+            48.692267
+          ],
+          "category": "natural",
+          "arrive_at": "10:31",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem Aussichtspunkt für den besten Blick auf die ferne Offshore-Festung in der Bucht und verwenden Sie ein Fernglas für scharfe Details.",
+            "hu": "Álljon meg ennél a kilátópontnál, ahonnan a legszebb kilátás nyílik a távoli tengeri erődre, és használjon távcsövet a kristálytiszta részletek kedvéért.",
+            "ro": "Opriți-vă la acest punct de belvedere pentru cea mai bună vedere a fortăreței din largul golfului și folosiți binoclul pentru a vedea detaliile clare.",
+            "en": "Stop at this scenic viewpoint for the absolute best look at the distant offshore fortress in the bay, and use binoculars if you have them for crisp details."
+          }
+        },
+        {
+          "name": {
+            "de": "La Pile d'assiettes",
+            "hu": "La Pile d'assiettes",
+            "ro": "La Pile d'assiettes",
+            "en": "La Pile d'assiettes"
+          },
+          "coords": [
+            -3.848186,
+            48.696558
+          ],
+          "category": "landmark",
+          "arrive_at": "10:57",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Fotografieren Sie diese faszinierende natürliche Felsformation, die wie ein riesiger Tellerstapel aussieht, aber halten Sie bei starkem Wind Abstand.",
+            "hu": "Fényképezze le ezt a lenyűgöző természetes sziklaképződményt, amely úgy fest, mint egy óriási tányérhalom, de erős szélben tartson biztonságos távolságot.",
+            "ro": "Fotografiați această formațiune stâncoasă fascinantă, stivuită ca o grămadă uriașă de farfurii pe mal, dar păstrați o distanță sigură în timpul vânturilor.",
+            "en": "Photograph this fascinating natural rock formation stacked like a giant pile of plates along the sea edge, but keep a safe distance during strong high winds."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Guerzit",
+            "hu": "Plage de Guerzit",
+            "ro": "Plage de Guerzit",
+            "en": "Plage de Guerzit"
+          },
+          "coords": [
+            -3.841846,
+            48.696819
+          ],
+          "category": "recreational",
+          "arrive_at": "11:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Entdecken Sie den ruhigen Charme dieses abgelegenen Kiesel- und Sandstrandes, der von Klippen umgeben ist und sich perfekt für einen Morgenspaziergang eignet.",
+            "hu": "Fedezze fel ennek a látványos sziklákkal körülvett, eldugott kavicsos és homokos strandnak a békés varázsát, amely tökéletes egy nyugodt reggeli sétához.",
+            "ro": "Descoperiți farmecul liniștit al acestei plaje retrase, înconjurată de stânci naturale izbitoare, perfectă pentru o plimbare matinală liniștită pe mal.",
+            "en": "Discover the tranquil charm of this secluded pebble and sand beach surrounded by striking natural cliffs, perfect for a peaceful morning stroll along the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Étienne",
+            "hu": "Chapelle Saint-Étienne",
+            "ro": "Chapelle Saint-Étienne",
+            "en": "Chapelle Saint-Étienne"
+          },
+          "coords": [
+            -3.832378,
+            48.705599
+          ],
+          "category": "religious",
+          "arrive_at": "12:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.17,
+          "tip_5lang": {
+            "de": "Bewundern Sie die robuste Steinarchitektur dieser historischen Küstenkapelle, die Fischer schützte, und treten Sie ein, um das Holzgewölbe zu sehen.",
+            "hu": "Csodálja meg a helyi halászokat védelmező történelmi tengerparti kápolna masszív kőépítészetét, és lépjen be, hogy megnézze a gyönyörű faboltozatot.",
+            "ro": "Admirați arhitectura robustă din piatră a acestei capele istorice de coastă care proteja pescarii și pășiți înăuntru pentru a vedea bolta de lemn.",
+            "en": "Admire the robust stone architecture of this historic coastal chapel that protected local fishermen, and step inside to see the beautiful wooden vaulting."
+          }
+        },
+        {
+          "name": {
+            "de": "Anse du Diben",
+            "hu": "Anse du Diben",
+            "ro": "Anse du Diben",
+            "en": "Anse du Diben"
+          },
+          "coords": [
+            -3.823607,
+            48.707686
+          ],
+          "category": "landmark",
+          "arrive_at": "13:23",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.68,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf diese geschützte Bucht, die Einblicke in das bretonische Leben bietet, was sie perfekt für Fotos bei Ebbe macht.",
+            "hu": "Gyönyörködjön a védett öböl panorámájában, amely bepillantást enged a hagyományos breton életbe, így apálykor tökéletes helyszín a fotózáshoz.",
+            "ro": "Admirați vederea panoramică a acestui golf protejat care oferă o privire asupra vieții tradiționale bretone, fiind perfect pentru fotografii la reflux.",
+            "en": "Take in the panoramic views of this beautiful protected cove which offers a glimpse into traditional Breton life, making it perfect for photography at low tide."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Primel",
+            "hu": "Plage de Primel",
+            "ro": "Plage de Primel",
+            "en": "Plage de Primel"
+          },
+          "coords": [
+            -3.817263,
+            48.711609
+          ],
+          "category": "recreational",
+          "arrive_at": "13:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.63,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem feinen goldenen Sand dieses weitläufigen, familienfreundlichen Strandes, aber überprüfen Sie unbedingt den Gezeitenplan.",
+            "hu": "Pihenjen ennek a tágas és családbarát strandnak a finom aranyhomokján, amely meghatározza a partvidéket, de feltétlenül ellenőrizze az árapály-menetrendet.",
+            "ro": "Relaxați-vă pe nisipul auriu fin al acestei plaje întinse și prietenoase cu familiile, dar asigurați-vă că verificați programul zilnic al mareelor.",
+            "en": "Relax on the fine golden sands of this expansive and family-friendly beach that defines the local coastline, but be sure to check the daily tide schedule."
+          }
+        },
+        {
+          "name": {
+            "de": "La Maison du Douanier",
+            "hu": "La Maison du Douanier",
+            "ro": "La Maison du Douanier",
+            "en": "La Maison du Douanier"
+          },
+          "coords": [
+            -3.818998,
+            48.717283
+          ],
+          "category": "historical",
+          "arrive_at": "15:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.63,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historische Zollhaus, das einst die Küste vor Schmugglern schützte, und lesen Sie die Informationstafeln zur maritimen Geschichte.",
+            "hu": "Fedezze fel ezt a történelmi vámházat, amely egykor a zord partokat védte a csempészektől, és olvassa el a tengerészeti történelmet bemutató táblákat.",
+            "ro": "Explorați această casă istorică a vămilor care păzea țărmurile împotriva contrabandiștilor și citiți plăcile informative despre istoria sa maritimă.",
+            "en": "Explore this historic customs house that once guarded the rugged shores against local smugglers, and read the informative plaques detailing its maritime history."
+          }
+        },
+        {
+          "name": {
+            "de": "Menhir de Primel - Tregastel",
+            "hu": "Menhir de Primel - Tregastel",
+            "ro": "Menhir de Primel - Tregastel",
+            "en": "Menhir de Primel - Tregastel"
+          },
+          "coords": [
+            -3.817985,
+            48.718268
+          ],
+          "category": "historical",
+          "arrive_at": "16:28",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen alten stehenden Stein, der die spektakuläre Küste seit Jahrtausenden bewacht, und tragen Sie feste Wanderschuhe für den Felsweg.",
+            "hu": "Csodálja meg ezt az ősi állókövet, amely évezredek óta némán őrzi a látványos partvidéket, és viseljen masszív túracipőt a sziklás ösvényhez.",
+            "ro": "Minunați-vă de această piatră antică ce veghează tăcut coasta spectaculoasă de milenii și purtați încălțăminte de drumeție robustă pentru poteca stâncoasă.",
+            "en": "Marvel at this ancient standing stone that has silently watched over the spectacular coastline for millennia, and wear sturdy walking shoes for the rocky path."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Fahrt am Morgen beginnt am historischen Château und dem Aussichtspunkt.\n\nMittags erkunden Sie die Anse du Diben und die ruhige Kapelle.\n\nDer Nachmittag ist eine malerische Fahrt zum Entspannen am Strand von Primel.\n\nDer Abend endet perfekt am Zollhaus und den alten Steinen.",
+        "hu": "A reggeli autózás a történelmi kastélynál és az erőd kilátójánál indul.\n\nDélben a zord Anse du Diben és a csendes kápolna felfedezése a cél.\n\nA délután egy festői utazás a Primel strandhoz egy kis pihenésre.\n\nAz este a vámház és a lenyűgöző állókövek megtekintésével zárul tökéletesen.",
+        "ro": "Condusul de dimineață începe la castelul istoric și punctul de observație.\n\nLa prânz explorați accidentata Anse du Diben și capela liniștită.\n\nDupă-amiaza este un drum pitoresc pentru a vă relaxa la Plage de Primel.\n\nSeara se termină perfect explorând casa vămilor și pietrele.",
+        "en": "Morning driving starts at the historic Château and the fortress observation point.\n\nMidday explores the rugged Anse du Diben and the tranquil Chapel.\n\nAfternoon is a scenic drive to relax completely at Plage de Primel.\n\nEvening finishes perfectly by exploring the Douanier house and standing stones."
+      }
+    }
+  }
+}

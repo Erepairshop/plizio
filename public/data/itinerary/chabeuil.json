@@ -1,0 +1,520 @@
+{
+  "city_id": "chabeuil",
+  "anchor": {
+    "name": "Chabeuil",
+    "coords": [
+      5.02,
+      44.8997
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:57",
+      "total_km": 5.77,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kulturzentrum",
+            "hu": "Kulturális Központ",
+            "ro": "Centrul Cultural",
+            "en": "Cultural Center"
+          },
+          "coords": [
+            5.022149,
+            44.896895
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier regionale Kunst und fesselnde Vorstellungen, die diesen Ort so lebendig machen; prüfen Sie den lokalen Veranstaltungsplan vor Ihrem Besuch.",
+            "hu": "Fedezze fel a regionális művészetet és a lenyűgöző előadásokat ebben a pezsgő kulturális központban, ezért látogatás előtt érdemes ellenőrizni a helyi programokat.",
+            "ro": "Descoperiți arta regională și spectacolele captivante din acest centru cultural vibrant, așa că verificați programul local în avans pentru evenimente speciale de zi.",
+            "en": "Discover regional art and engaging performances here, making it a vibrant cultural hub, so check their local schedule ahead of your visit for any special daytime events."
+          }
+        },
+        {
+          "name": {
+            "de": "Véore-Kanal",
+            "hu": "Véore-csatorna",
+            "ro": "Canalul Véore",
+            "en": "Véore Canal"
+          },
+          "coords": [
+            5.018541,
+            44.900289
+          ],
+          "category": "natural",
+          "arrive_at": "10:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der ruhigen Wasserwege dieses historischen Kanals, um seine Ökologie zu schätzen; bringen Sie eine Kamera für die schönen Spiegelungen mit.",
+            "hu": "Sétáljon végig e történelmi csatorna nyugodt vizein, hogy értékelje ökológiai fontosságát, és hozzon magával fényképezőgépet a csodálatos vízi tükröződések megörökítéséhez.",
+            "ro": "Plimbați-vă de-a lungul apelor liniștite ale acestui canal istoric pentru a-i aprecia importanța ecologică și aduceți un aparat foto pentru a surprinde reflexiile apei.",
+            "en": "Stroll along the tranquil waterways of this historic canal to appreciate its ecological importance, and bring a camera to capture the beautiful reflections on the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Refugium Gontardes",
+            "hu": "Gontardes menedékhely",
+            "ro": "Refugiul Gontardes",
+            "en": "Gontardes Refuge"
+          },
+          "coords": [
+            5.0221,
+            44.901261
+          ],
+          "category": "natural",
+          "arrive_at": "12:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Wandern Sie in diesem malerischen Naturrefugium, um den Panoramablick auf die Landschaft der Drôme zu genießen; tragen Sie feste Wanderschuhe für die unebenen Wege.",
+            "hu": "Túrázzon fel ezen a festői természeti menedékhelyen, hogy élvezze a Drôme táj panorámáját, és viseljen kényelmes túracipőt az egyenetlen ösvények miatt.",
+            "ro": "Urcați în acest refugiu natural pitoresc pentru a vă bucura de vederi panoramice ale peisajului din Drôme, purtând încălțăminte de drumeție pentru potecile denivelate.",
+            "en": "Hike up this scenic nature refuge to enjoy sweeping panoramic views of the surrounding Drôme landscape, wearing sturdy walking shoes for the slightly uneven trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Rozier",
+            "hu": "Rozier kastély",
+            "ro": "Castelul Rozier",
+            "en": "Rozier Castle"
+          },
+          "coords": [
+            5.025224,
+            44.917405
+          ],
+          "category": "landmark",
+          "arrive_at": "13:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Fassade dieses markanten historischen Anwesens der regionalen Adelsarchitektur; besuchen Sie es zur goldenen Stunde für die besten Fotos.",
+            "hu": "Csodálja meg e lenyűgöző történelmi birtok elegáns homlokzatát, amely a regionális nemesi építészetet tükrözi, és próbáljon az aranyórában érkezni a legjobb fotókért.",
+            "ro": "Admirați fațada elegantă a acestui domeniu istoric remarcabil ce reflectă arhitectura nobiliară, și încercați să vizitați la ora de aur pentru cele mai bune fotografii.",
+            "en": "Marvel at the elegant facade of this striking historic estate that reflects regional noble architecture, and try to visit during the golden hour for the best photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Saint-Pierre",
+            "hu": "Saint-Pierre kastély",
+            "ro": "Castelul Saint-Pierre",
+            "en": "Saint-Pierre Castle"
+          },
+          "coords": [
+            5.010492,
+            44.890918
+          ],
+          "category": "landmark",
+          "arrive_at": "16:07",
+          "stay_min": 110,
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieses Wahrzeichens, um seine jahrhundertelange historische Bedeutung zu entdecken; achten Sie auf die Steindetails an der Ostwand.",
+            "hu": "Fedezze fel e nagyszerű nevezetesség maradványait, hogy megismerje évszázados történelmi jelentőségét, és figyelje meg alaposan a keleti fal kőfaragásait.",
+            "ro": "Explorați rămășițele acestui grandios punct de reper pentru a descoperi secole de semnificație istorică și priviți cu atenție detaliile în piatră de pe peretele estic.",
+            "en": "Explore the remnants of this grand landmark to uncover its centuries of local historical significance, and look closely at the stonework details on the eastern wall."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit lokaler Kunst im Kulturzentrum, bevor Sie zum friedlichen Canal de la Véore spazieren. Mittags bietet das Refuge de la colline des Gontardes eine erfrischende Flucht in die Natur, perfekt für einen entspannten Spaziergang. Bewundern Sie nachmittags das klassische Château de Rozier. Beenden Sie den Tag am charmanten Château Saint-Pierre.",
+        "hu": "Kezdje a reggelt a helyi művészetek felfedezésével a kulturális központban, majd sétáljon el a békés Canal de la Véore-hoz. Délben a Refuge de la colline des Gontardes frissítő természeti élményt nyújt. Délután csodálja meg a Château de Rozier klasszikus építészetét, és zárja a napot a Château Saint-Pierre történelmi varázsának felfedezésével.",
+        "ro": "Începeți dimineața cu arta locală la Centrul cultural, înainte de a vă plimba spre pașnicul Canal de la Véore. La prânz, refugiul colinei Gontardes oferă o evadare revigorantă în natură. După-amiaza, admirați arhitectura clasică a Château de Rozier, iar seara încheiați ziua explorând farmecul istoric de la Château Saint-Pierre.",
+        "en": "Start your morning absorbing local arts at the Centre culturel before wandering to the peaceful Canal de la Véore. Midday offers a refreshing escape into nature at the Refuge de la colline des Gontardes, perfect for a relaxing stroll. In the afternoon, marvel at the classic architecture of Château de Rozier. Conclude your day exploring the historic charm of Château Saint-Pierre."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "20:23",
+      "total_km": 14.07,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kulturzentrum",
+            "hu": "Kulturális Központ",
+            "ro": "Centrul Cultural",
+            "en": "Cultural Center"
+          },
+          "coords": [
+            5.022149,
+            44.896895
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier regionale Kunst und fesselnde Vorstellungen, die diesen Ort so lebendig machen; prüfen Sie den lokalen Veranstaltungsplan vor Ihrem Besuch.",
+            "hu": "Fedezze fel a regionális művészetet és a lenyűgöző előadásokat ebben a pezsgő kulturális központban, ezért látogatás előtt érdemes ellenőrizni a helyi programokat.",
+            "ro": "Descoperiți arta regională și spectacolele captivante din acest centru cultural vibrant, așa că verificați programul local în avans pentru evenimente speciale de zi.",
+            "en": "Discover regional art and engaging performances here, making it a vibrant cultural hub, so check their local schedule ahead of your visit for any special daytime events."
+          }
+        },
+        {
+          "name": {
+            "de": "Véore-Kanal",
+            "hu": "Véore-csatorna",
+            "ro": "Canalul Véore",
+            "en": "Véore Canal"
+          },
+          "coords": [
+            5.018541,
+            44.900289
+          ],
+          "category": "natural",
+          "arrive_at": "10:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der ruhigen Wasserwege dieses historischen Kanals, um seine Ökologie zu schätzen; bringen Sie eine Kamera für die schönen Spiegelungen mit.",
+            "hu": "Sétáljon végig e történelmi csatorna nyugodt vizein, hogy értékelje ökológiai fontosságát, és hozzon magával fényképezőgépet a csodálatos vízi tükröződések megörökítéséhez.",
+            "ro": "Plimbați-vă de-a lungul apelor liniștite ale acestui canal istoric pentru a-i aprecia importanța ecologică și aduceți un aparat foto pentru a surprinde reflexiile apei.",
+            "en": "Stroll along the tranquil waterways of this historic canal to appreciate its ecological importance, and bring a camera to capture the beautiful reflections on the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Refugium Gontardes",
+            "hu": "Gontardes menedékhely",
+            "ro": "Refugiul Gontardes",
+            "en": "Gontardes Refuge"
+          },
+          "coords": [
+            5.0221,
+            44.901261
+          ],
+          "category": "natural",
+          "arrive_at": "12:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Wandern Sie in diesem malerischen Naturrefugium, um den Panoramablick auf die Landschaft der Drôme zu genießen; tragen Sie feste Wanderschuhe für die unebenen Wege.",
+            "hu": "Túrázzon fel ezen a festői természeti menedékhelyen, hogy élvezze a Drôme táj panorámáját, és viseljen kényelmes túracipőt az egyenetlen ösvények miatt.",
+            "ro": "Urcați în acest refugiu natural pitoresc pentru a vă bucura de vederi panoramice ale peisajului din Drôme, purtând încălțăminte de drumeție pentru potecile denivelate.",
+            "en": "Hike up this scenic nature refuge to enjoy sweeping panoramic views of the surrounding Drôme landscape, wearing sturdy walking shoes for the slightly uneven trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Rozier",
+            "hu": "Rozier kastély",
+            "ro": "Castelul Rozier",
+            "en": "Rozier Castle"
+          },
+          "coords": [
+            5.025224,
+            44.917405
+          ],
+          "category": "landmark",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Fassade dieses markanten historischen Anwesens der regionalen Adelsarchitektur; besuchen Sie es zur goldenen Stunde für die besten Fotos.",
+            "hu": "Csodálja meg e lenyűgöző történelmi birtok elegáns homlokzatát, amely a regionális nemesi építészetet tükrözi, és próbáljon az aranyórában érkezni a legjobb fotókért.",
+            "ro": "Admirați fațada elegantă a acestui domeniu istoric remarcabil ce reflectă arhitectura nobiliară, și încercați să vizitați la ora de aur pentru cele mai bune fotografii.",
+            "en": "Marvel at the elegant facade of this striking historic estate that reflects regional noble architecture, and try to visit during the golden hour for the best photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Circa'Parc",
+            "hu": "Circa'Parc",
+            "ro": "Circa'Parc",
+            "en": "Circa'Parc"
+          },
+          "coords": [
+            5.062713,
+            44.914191
+          ],
+          "category": "family",
+          "arrive_at": "15:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie mit Ihrer Familie diesen verspielten Park mit kreativen Zirkusinstallationen und packen Sie ein leichtes Picknick für die weitläufigen grünen Rasenflächen ein.",
+            "hu": "Látogasson el családjával ebbe a játékos, cirkuszi témájú szabadtéri parkba, és vigyen magával egy könnyű pikniket, amelyet a tágas zöld pázsiton fogyaszthat el.",
+            "ro": "Aduceți familia în acest parc în aer liber cu instalații creative cu tematică de circ și pregătiți un picnic ușor pentru a vă bucura de peluzele verzi și spațioase.",
+            "en": "Bring your family to this playful outdoor park featuring creative circus-themed installations, and pack a light picnic to enjoy on the spacious green lawns nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Saint-Pierre",
+            "hu": "Saint-Pierre kastély",
+            "ro": "Castelul Saint-Pierre",
+            "en": "Saint-Pierre Castle"
+          },
+          "coords": [
+            5.010492,
+            44.890918
+          ],
+          "category": "landmark",
+          "arrive_at": "16:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 4.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieses Wahrzeichens, um seine jahrhundertelange historische Bedeutung zu entdecken; achten Sie auf die Steindetails an der Ostwand.",
+            "hu": "Fedezze fel e nagyszerű nevezetesség maradványait, hogy megismerje évszázados történelmi jelentőségét, és figyelje meg alaposan a keleti fal kőfaragásait.",
+            "ro": "Explorați rămășițele acestui grandios punct de reper pentru a descoperi secole de semnificație istorică și priviți cu atenție detaliile în piatră de pe peretele estic.",
+            "en": "Explore the remnants of this grand landmark to uncover its centuries of local historical significance, and look closely at the stonework details on the eastern wall."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Mühle",
+            "hu": "Öreg Malom",
+            "ro": "Moara Veche",
+            "en": "Old Mill"
+          },
+          "coords": [
+            5.012769,
+            44.858492
+          ],
+          "category": "historical",
+          "arrive_at": "18:33",
+          "stay_min": 110,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in dieser alten Mühle, um mehr über traditionelle Mahlprozesse zu erfahren; achten Sie auf die erhaltenen originalen Holzzahnräder.",
+            "hu": "Utazzon vissza az időben ebben az ősi malomban, ismerje meg a hagyományos őrlési folyamatokat, és figyelje meg a ma is megőrzött eredeti fa fogaskerekeket.",
+            "ro": "Întoarceți-vă în timp la această moară veche pentru a învăța despre procesele agricole tradiționale și căutați angrenajele originale din lemn încă păstrate.",
+            "en": "Step back in time at this ancient mill to learn about traditional agricultural milling processes, and keep an eye out for the original wooden gears still preserved inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt am Kulturzentrum und führt reibungslos zu den ruhigen Ufern des Véore-Kanals. Mittags erreichen Sie die natürliche Oase des Gontardes-Refugiums und das großartige Château de Rozier. Nachmittags geht es zum familiären Circa'Parc und zum majestätischen Château Saint-Pierre. Der Abend bricht an, während Sie zum rustikalen Vieux Moulin gleiten.",
+        "hu": "Kerékpártúrája a kulturális központnál indul, majd a Véore csatorna csendes partjaira vezet. Délben a Gontardes menedékhely természeti szépsége és a lenyűgöző Château de Rozier várja. Délután tekerjen el a Circa'Parc-hoz és a fenséges Château Saint-Pierre-hez. Az estét a rusztikus Vieux Moulin felé gurulva zárhatja.",
+        "ro": "Turul cu bicicleta începe la centrul cultural, continuând ușor spre malurile liniștite ale canalului Véore. La prânz, ajungeți la refugiul natural Gontardes și la grandiosul Château de Rozier. După-amiaza pedalați spre Circa'Parc și impunătorul Château Saint-Pierre. Seara vă surprinde pedalând spre rusticul Vieux Moulin.",
+        "en": "Your cycling tour begins at the cultural center, smoothly transitioning to the serene banks of the Véore canal. Midday brings you to the elevated natural haven of the Gontardes refuge and the grand Château de Rozier. Afternoon pedaling leads to family fun at Circa'Parc and the stately Château Saint-Pierre. Evening sets in as you glide towards the rustic Vieux Moulin."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:04",
+      "total_km": 15.87,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            4.941448,
+            44.860289
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische bürgerliche Architektur des Rathauses, dem stolzen administrativen Herzen von Chabeuil, und lesen Sie die Informationstafeln am Eingang.",
+            "hu": "Csodálja meg a városháza klasszikus polgári építészetét, amely Chabeuil büszke adminisztratív központja, és olvassa el a bejárat melletti tájékoztató táblákat.",
+            "ro": "Admirați arhitectura civică clasică a primăriei, inima administrativă mândră a orașului Chabeuil, și citiți plăcile informative situate lângă intrarea principală.",
+            "en": "Admire the classic civic architecture of the town hall, which stands as the proud administrative heart of Chabeuil, and read the informational plaques near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Mühle",
+            "hu": "Öreg Malom",
+            "ro": "Moara Veche",
+            "en": "Old Mill"
+          },
+          "coords": [
+            5.012769,
+            44.858492
+          ],
+          "category": "historical",
+          "arrive_at": "09:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.6,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in dieser alten Mühle, um mehr über traditionelle Mahlprozesse zu erfahren; achten Sie auf die erhaltenen originalen Holzzahnräder.",
+            "hu": "Utazzon vissza az időben ebben az ősi malomban, ismerje meg a hagyományos őrlési folyamatokat, és figyelje meg a ma is megőrzött eredeti fa fogaskerekeket.",
+            "ro": "Întoarceți-vă în timp la această moară veche pentru a învăța despre procesele agricole tradiționale și căutați angrenajele originale din lemn încă păstrate.",
+            "en": "Step back in time at this ancient mill to learn about traditional agricultural milling processes, and keep an eye out for the original wooden gears still preserved inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Saint-Pierre",
+            "hu": "Saint-Pierre kastély",
+            "ro": "Castelul Saint-Pierre",
+            "en": "Saint-Pierre Castle"
+          },
+          "coords": [
+            5.010492,
+            44.890918
+          ],
+          "category": "landmark",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieses Wahrzeichens, um seine jahrhundertelange historische Bedeutung zu entdecken; achten Sie auf die Steindetails an der Ostwand.",
+            "hu": "Fedezze fel e nagyszerű nevezetesség maradványait, hogy megismerje évszázados történelmi jelentőségét, és figyelje meg alaposan a keleti fal kőfaragásait.",
+            "ro": "Explorați rămășițele acestui grandios punct de reper pentru a descoperi secole de semnificație istorică și priviți cu atenție detaliile în piatră de pe peretele estic.",
+            "en": "Explore the remnants of this grand landmark to uncover its centuries of local historical significance, and look closely at the stonework details on the eastern wall."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturzentrum",
+            "hu": "Kulturális Központ",
+            "ro": "Centrul Cultural",
+            "en": "Cultural Center"
+          },
+          "coords": [
+            5.022149,
+            44.896895
+          ],
+          "category": "cultural",
+          "arrive_at": "12:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier regionale Kunst und fesselnde Vorstellungen, die diesen Ort so lebendig machen; prüfen Sie den lokalen Veranstaltungsplan vor Ihrem Besuch.",
+            "hu": "Fedezze fel a regionális művészetet és a lenyűgöző előadásokat ebben a pezsgő kulturális központban, ezért látogatás előtt érdemes ellenőrizni a helyi programokat.",
+            "ro": "Descoperiți arta regională și spectacolele captivante din acest centru cultural vibrant, așa că verificați programul local în avans pentru evenimente speciale de zi.",
+            "en": "Discover regional art and engaging performances here, making it a vibrant cultural hub, so check their local schedule ahead of your visit for any special daytime events."
+          }
+        },
+        {
+          "name": {
+            "de": "Véore-Kanal",
+            "hu": "Véore-csatorna",
+            "ro": "Canalul Véore",
+            "en": "Véore Canal"
+          },
+          "coords": [
+            5.018541,
+            44.900289
+          ],
+          "category": "natural",
+          "arrive_at": "14:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der ruhigen Wasserwege dieses historischen Kanals, um seine Ökologie zu schätzen; bringen Sie eine Kamera für die schönen Spiegelungen mit.",
+            "hu": "Sétáljon végig e történelmi csatorna nyugodt vizein, hogy értékelje ökológiai fontosságát, és hozzon magával fényképezőgépet a csodálatos vízi tükröződések megörökítéséhez.",
+            "ro": "Plimbați-vă de-a lungul apelor liniștite ale acestui canal istoric pentru a-i aprecia importanța ecologică și aduceți un aparat foto pentru a surprinde reflexiile apei.",
+            "en": "Stroll along the tranquil waterways of this historic canal to appreciate its ecological importance, and bring a camera to capture the beautiful reflections on the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Refugium Gontardes",
+            "hu": "Gontardes menedékhely",
+            "ro": "Refugiul Gontardes",
+            "en": "Gontardes Refuge"
+          },
+          "coords": [
+            5.0221,
+            44.901261
+          ],
+          "category": "natural",
+          "arrive_at": "15:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Wandern Sie in diesem malerischen Naturrefugium, um den Panoramablick auf die Landschaft der Drôme zu genießen; tragen Sie feste Wanderschuhe für die unebenen Wege.",
+            "hu": "Túrázzon fel ezen a festői természeti menedékhelyen, hogy élvezze a Drôme táj panorámáját, és viseljen kényelmes túracipőt az egyenetlen ösvények miatt.",
+            "ro": "Urcați în acest refugiu natural pitoresc pentru a vă bucura de vederi panoramice ale peisajului din Drôme, purtând încălțăminte de drumeție pentru potecile denivelate.",
+            "en": "Hike up this scenic nature refuge to enjoy sweeping panoramic views of the surrounding Drôme landscape, wearing sturdy walking shoes for the slightly uneven trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Rozier",
+            "hu": "Rozier kastély",
+            "ro": "Castelul Rozier",
+            "en": "Rozier Castle"
+          },
+          "coords": [
+            5.025224,
+            44.917405
+          ],
+          "category": "landmark",
+          "arrive_at": "16:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Fassade dieses markanten historischen Anwesens der regionalen Adelsarchitektur; besuchen Sie es zur goldenen Stunde für die besten Fotos.",
+            "hu": "Csodálja meg e lenyűgöző történelmi birtok elegáns homlokzatát, amely a regionális nemesi építészetet tükrözi, és próbáljon az aranyórában érkezni a legjobb fotókért.",
+            "ro": "Admirați fațada elegantă a acestui domeniu istoric remarcabil ce reflectă arhitectura nobiliară, și încercați să vizitați la ora de aur pentru cele mai bune fotografii.",
+            "en": "Marvel at the elegant facade of this striking historic estate that reflects regional noble architecture, and try to visit during the golden hour for the best photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Circa'Parc",
+            "hu": "Circa'Parc",
+            "ro": "Circa'Parc",
+            "en": "Circa'Parc"
+          },
+          "coords": [
+            5.062713,
+            44.914191
+          ],
+          "category": "family",
+          "arrive_at": "18:19",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie mit Ihrer Familie diesen verspielten Park mit kreativen Zirkusinstallationen und packen Sie ein leichtes Picknick für die weitläufigen grünen Rasenflächen ein.",
+            "hu": "Látogasson el családjával ebbe a játékos, cirkuszi témájú szabadtéri parkba, és vigyen magával egy könnyű pikniket, amelyet a tágas zöld pázsiton fogyaszthat el.",
+            "ro": "Aduceți familia în acest parc în aer liber cu instalații creative cu tematică de circ și pregătiți un picnic ușor pentru a vă bucura de peluzele verzi și spațioase.",
+            "en": "Bring your family to this playful outdoor park featuring creative circus-themed installations, and pack a light picnic to enjoy on the spacious green lawns nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Roadtrip am Rathaus und fahren Sie nach Süden zum historischen Vieux Moulin. Der Mittag ist perfekt, um das edle Château Saint-Pierre und das Kulturzentrum zu erkunden. Nachmittags verbinden Sie die natürliche Schönheit des Kanals und das Gontardes-Refugium, bevor Sie den Abend im Rozier und im Circa'Parc ausklingen lassen.",
+        "hu": "Kezdje autós utazását a városházánál, majd vezessen délre a történelmi Vieux Moulin-hoz. A dél tökéletes a Château Saint-Pierre és a kulturális központ felfedezésére. Délután a csatorna és a Gontardes menedékhely természeti szépségei várják, végül az estét a Rozier kastélynál és a Circa'Parc-ban zárhatja.",
+        "ro": "Începeți excursia cu mașina la primărie, apoi conduceți spre sud la istoricul Vieux Moulin. Prânzul este perfect pentru a explora nobilul Château Saint-Pierre și centrul cultural. După-amiaza vă conectează cu frumusețea naturală a canalului și a refugiului Gontardes, încheind seara la Rozier și la Circa'Parc.",
+        "en": "Kick off your road trip at the civic heart of the Hôtel de Ville, then drive south to the historic Vieux Moulin. Midday is perfect for exploring the noble Château Saint-Pierre and engaging with local arts at the cultural center. Afternoon driving connects you to the natural beauty of the canal and the Gontardes refuge, wrapping up the evening at Rozier and Circa'Parc."
+      }
+    }
+  }
+}

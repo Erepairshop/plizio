@@ -1,0 +1,497 @@
+{
+  "city_id": "tarascon",
+  "anchor": {
+    "name": "Tarascon",
+    "coords": [
+      4.6594,
+      43.805
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:37",
+      "total_km": 1.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Palais de Justice",
+            "hu": "Palais de Justice",
+            "ro": "Palais de Justice",
+            "en": "Palais de Justice"
+          },
+          "coords": [
+            4.658074,
+            43.804839
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neoklassizistische Fassade des Justizpalastes als Zeugnis der Stadtgeschichte und machen Sie morgens Fotos, wenn das Licht auf den Stein fällt.",
+            "hu": "Csodálja meg az Igazságügyi Palota neoklasszicista homlokzatát, a polgári történelem tanúját, és fotózza le a térről, amikor a reggeli fény a kövekre esik.",
+            "ro": "Admirați fațada neoclasică a Palatului de Justiție, o mărturie a istoriei civice, și fotografiați clădirea din piață atunci când lumina dimineții atinge piatra.",
+            "en": "Admire the neoclassical facade of the Palais de Justice, a testament to civic history, and snap photos from the square when the morning light hits the stonework."
+          }
+        },
+        {
+          "name": {
+            "de": "Souleiado Museum",
+            "hu": "Souleiado Múzeum",
+            "ro": "Muzeul Souleiado",
+            "en": "Souleiado Museum"
+          },
+          "coords": [
+            4.659593,
+            43.804903
+          ],
+          "category": "museum",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die farbenfrohe Welt der traditionellen provenzalischen Textilien in diesem Museum, aber besuchen Sie unbedingt den Souvenirshop für echte Stoffe.",
+            "hu": "Fedezze fel a hagyományos provence-i textilek vibráló világát ebben a színes múzeumban, de mindenképpen nézzen be az ajándékboltba is az eredeti szövetekért.",
+            "ro": "Descoperiți lumea vibrantă a textilelor tradiționale provensale în acest muzeu colorat, dar nu uitați să vizitați magazinul de suveniruri pentru țesături autentice.",
+            "en": "Discover the vibrant world of traditional Provençal textiles at this colorful museum, but be sure to check the gift shop for authentic fabric souvenirs."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint Martha Collegiate Church",
+            "hu": "Szent Márta Társaskáptalan",
+            "ro": "Biserica Colegiată Sfânta Marta",
+            "en": "Saint Martha Collegiate Church"
+          },
+          "coords": [
+            4.655841,
+            43.805645
+          ],
+          "category": "religious",
+          "arrive_at": "12:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betreten Sie diese romanisch-gotische Kirche, um die prächtige Krypta der Heiligen Martha zu besichtigen, wobei Sie sich bescheiden kleiden und leise sprechen sollten.",
+            "hu": "Lépjen be ebbe a román-gótikus templomba, hogy megtekintse Szent Márta csodálatos kriptáját, emlékezve a szerény öltözködésre és a halk beszédre a látogatás során.",
+            "ro": "Pășiți în această biserică romanico-gotică pentru a vedea cripta magnifică a Sfintei Marta, amintindu-vă să vă îmbrăcați modest și să vorbiți încet în timpul vizitei.",
+            "en": "Step inside this Romanesque-Gothic church to view the magnificent crypt of Saint Martha, remembering to dress modestly and speak softly during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Château du Roi René",
+            "hu": "Château du Roi René",
+            "ro": "Château du Roi René",
+            "en": "Château du Roi René"
+          },
+          "coords": [
+            4.655,
+            43.806621
+          ],
+          "category": "castle",
+          "arrive_at": "12:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese unglaublich gut erhaltene mittelalterliche Festung mit Blick auf die Rhône und steigen Sie auf die oberste Terrasse für spektakuläre Ausblicke.",
+            "hu": "Fedezze fel ezt a hihetetlenül jól megőrzött, Rhône folyóra néző középkori erődöt, és másszon fel a legfelső teraszra a völgyre nyíló látványos panorámáért.",
+            "ro": "Explorați această fortăreață medievală incredibil de bine conservată cu vedere la râul Rhône și urcați pe terasa superioară pentru vederi panoramice spectaculoase.",
+            "en": "Explore this incredibly well-preserved medieval fortress overlooking the Rhône river, and climb to the very top terrace for spectacular panoramic views of the valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin des plantes",
+            "hu": "Jardin des plantes",
+            "ro": "Jardin des plantes",
+            "en": "Jardin des plantes"
+          },
+          "coords": [
+            4.656809,
+            43.80703
+          ],
+          "category": "family",
+          "arrive_at": "14:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich inmitten vielfältiger botanischer Arten in diesem friedlichen, familienfreundlichen Garten und bringen Sie lokale Snacks für die schattigen Bänke mit.",
+            "hu": "Pihenjen a változatos botanikai fajok között ebben a békés, családbarát kertben, és hozzon magával néhány friss helyi rágcsálnivalót az árnyékos padokra.",
+            "ro": "Relaxați-vă printre diversele specii botanice din această grădină pașnică, prietenoasă cu familiile, aducând gustări locale proaspete pentru băncile umbrite.",
+            "en": "Relax among diverse botanical species in this peaceful family-friendly garden, bringing along some fresh local snacks to enjoy on the shaded wooden benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel de Raoulx, dit aussi hôtel de Liman, de Seillons ou de Barberin",
+            "hu": "Hôtel de Raoulx",
+            "ro": "Hôtel de Raoulx",
+            "en": "Hôtel de Raoulx, dit aussi hôtel de Liman, de Seillons ou de Barberin"
+          },
+          "coords": [
+            4.660958,
+            43.807002
+          ],
+          "category": "landmark",
+          "arrive_at": "15:42",
+          "stay_min": 55,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betrachten Sie die eleganten architektonischen Details dieser historischen Adelsvilla von der Straße aus und achten Sie auf die kunstvollen Schmiedearbeiten.",
+            "hu": "Figyelje meg ennek a történelmi arisztokrata kúriának az elegáns építészeti részleteit az utcáról, különös tekintettel a klasszikus francia bájt adó díszes vasmunkákra.",
+            "ro": "Observați detaliile arhitecturale elegante ale acestui conac aristocratic istoric de pe stradă, remarcând feroneria ornamentată care îi definește farmecul clasic francez.",
+            "en": "Observe the elegant architectural details of this historic aristocratic mansion from the street, noticing the ornate ironwork that defines its classic French charm."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung des bürgerlichen Herzens von Tarascon am großen Justizpalast. Am Mittag tauchen Sie im Souleiado-Museum in provenzalische Muster und die Krypta der Heiligen Martha ein. Verbringen Sie den Nachmittag mit einer Zeitreise im prächtigen Château du Roi René hoch über der Rhône. Beenden Sie Ihren gemütlichen Spaziergang im friedlichen Jardin des plantes, bevor Sie in der Abenddämmerung das Hôtel de Raoulx bewundern.",
+        "hu": "Kezdje a reggelt Tarascon polgári központjának, az Igazságügyi Palotának a felfedezésével. Délben merüljön el a provence-i minták világában a Souleiado Múzeumban és Szent Márta kriptájában. A délutánt a csodálatos Château du Roi René kastélyában töltse, amely a Rhône-ra néz. Fejezze be kényelmes sétáját a Jardin des plantes békés zöldjében, majd az alkonyat közeledtével csodálja meg az arisztokratikus Hôtel de Raoulx épületét.",
+        "ro": "Începeți dimineața explorând inima civică din Tarascon la Palatul de Justiție, stabilind un ton istoric. La prânz, scufundați-vă în modelele provensale la Muzeul Souleiado și în cripta Sfintei Marta. Petreceți-vă după-amiaza la magnificul Château du Roi René, cu vedere la Rhône. Încheiați-vă plimbarea relaxantă printre verdeața liniștită de la Jardin des plantes, înainte de a admira aristocraticul Hôtel de Raoulx la lăsarea serii.",
+        "en": "Start your morning exploring the civic heart of Tarascon at the grand Palais de Justice, setting a historic tone for the day. By midday, immerse yourself in vibrant Provençal patterns at the Souleiado Museum and the solemn crypt of Saint Martha. Spend your afternoon stepping back in time at the magnificent Château du Roi René, overlooking the rushing Rhône. Conclude your leisurely walk among the peaceful greenery of the Jardin des plantes before admiring the aristocratic Hôtel de Raoulx as dusk falls."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:56",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hôtel de Raoulx, dit aussi hôtel de Liman, de Seillons ou de Barberin",
+            "hu": "Hôtel de Raoulx",
+            "ro": "Hôtel de Raoulx",
+            "en": "Hôtel de Raoulx, dit aussi hôtel de Liman, de Seillons ou de Barberin"
+          },
+          "coords": [
+            4.660958,
+            43.807002
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die eleganten architektonischen Details dieser historischen Adelsvilla von der Straße aus und achten Sie auf die kunstvollen Schmiedearbeiten.",
+            "hu": "Figyelje meg ennek a történelmi arisztokrata kúriának az elegáns építészeti részleteit az utcáról, különös tekintettel a klasszikus francia bájt adó díszes vasmunkákra.",
+            "ro": "Observați detaliile arhitecturale elegante ale acestui conac aristocratic istoric de pe stradă, remarcând feroneria ornamentată care îi definește farmecul clasic francez.",
+            "en": "Observe the elegant architectural details of this historic aristocratic mansion from the street, noticing the ornate ironwork that defines its classic French charm."
+          }
+        },
+        {
+          "name": {
+            "de": "Souleiado Museum",
+            "hu": "Souleiado Múzeum",
+            "ro": "Muzeul Souleiado",
+            "en": "Souleiado Museum"
+          },
+          "coords": [
+            4.659593,
+            43.804903
+          ],
+          "category": "museum",
+          "arrive_at": "09:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die farbenfrohe Welt der traditionellen provenzalischen Textilien in diesem Museum, aber besuchen Sie unbedingt den Souvenirshop für echte Stoffe.",
+            "hu": "Fedezze fel a hagyományos provence-i textilek vibráló világát ebben a színes múzeumban, de mindenképpen nézzen be az ajándékboltba is az eredeti szövetekért.",
+            "ro": "Descoperiți lumea vibrantă a textilelor tradiționale provensale în acest muzeu colorat, dar nu uitați să vizitați magazinul de suveniruri pentru țesături autentice.",
+            "en": "Discover the vibrant world of traditional Provençal textiles at this colorful museum, but be sure to check the gift shop for authentic fabric souvenirs."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint Martha Collegiate Church",
+            "hu": "Szent Márta Társaskáptalan",
+            "ro": "Biserica Colegiată Sfânta Marta",
+            "en": "Saint Martha Collegiate Church"
+          },
+          "coords": [
+            4.655841,
+            43.805645
+          ],
+          "category": "religious",
+          "arrive_at": "11:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betreten Sie diese romanisch-gotische Kirche, um die prächtige Krypta der Heiligen Martha zu besichtigen, wobei Sie sich bescheiden kleiden und leise sprechen sollten.",
+            "hu": "Lépjen be ebbe a román-gótikus templomba, hogy megtekintse Szent Márta csodálatos kriptáját, emlékezve a szerény öltözködésre és a halk beszédre a látogatás során.",
+            "ro": "Pășiți în această biserică romanico-gotică pentru a vedea cripta magnifică a Sfintei Marta, amintindu-vă să vă îmbrăcați modest și să vorbiți încet în timpul vizitei.",
+            "en": "Step inside this Romanesque-Gothic church to view the magnificent crypt of Saint Martha, remembering to dress modestly and speak softly during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Château du Roi René",
+            "hu": "Château du Roi René",
+            "ro": "Château du Roi René",
+            "en": "Château du Roi René"
+          },
+          "coords": [
+            4.655,
+            43.806621
+          ],
+          "category": "castle",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese unglaublich gut erhaltene mittelalterliche Festung mit Blick auf die Rhône und steigen Sie auf die oberste Terrasse für spektakuläre Ausblicke.",
+            "hu": "Fedezze fel ezt a hihetetlenül jól megőrzött, Rhône folyóra néző középkori erődöt, és másszon fel a legfelső teraszra a völgyre nyíló látványos panorámáért.",
+            "ro": "Explorați această fortăreață medievală incredibil de bine conservată cu vedere la râul Rhône și urcați pe terasa superioară pentru vederi panoramice spectaculoase.",
+            "en": "Explore this incredibly well-preserved medieval fortress overlooking the Rhône river, and climb to the very top terrace for spectacular panoramic views of the valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Tarascon Castle",
+            "hu": "Tarasconi vár",
+            "ro": "Castelul Tarascon",
+            "en": "Tarascon Castle"
+          },
+          "coords": [
+            4.660196,
+            43.781022
+          ],
+          "category": "fortress",
+          "arrive_at": "13:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die antiken Ruinen dieser sekundären Verteidigungsanlage im Süden und tragen Sie festes Schuhwerk, um das unebene historische Gelände zu meistern.",
+            "hu": "Barangoljon a déli megközelítést védő másodlagos védmű ősi romjai között, és viseljen erős cipőt az egyenetlen történelmi talajon való magabiztos sétához.",
+            "ro": "Plimbați-vă prin ruinele antice ale acestei structuri defensive secundare din sud, purtând încălțăminte rezistentă pentru a naviga pe terenul istoric denivelat.",
+            "en": "Wander through the ancient ruins of this secondary defensive structure that guarded the southern approaches, wearing sturdy shoes to navigate the uneven historic grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Goubelet",
+            "hu": "Château de Goubelet",
+            "ro": "Château de Goubelet",
+            "en": "Château de Goubelet"
+          },
+          "coords": [
+            4.669528,
+            43.79631
+          ],
+          "category": "castle",
+          "arrive_at": "15:06",
+          "stay_min": 110,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die abgeschiedene Pracht dieses weniger bekannten ländlichen Schlosses in der Landschaft und bringen Sie ein Zoomobjektiv für Außenaufnahmen mit.",
+            "hu": "Csodálja meg ennek a tájban megbúvó, kevésbé ismert vidéki kastélynak a félreeső nagyszerűségét, és hozzon magával zoom objektívet a külső részletek megörökítéséhez.",
+            "ro": "Minunați-vă de măreția izolată a acestui castel rural mai puțin cunoscut ascuns în peisaj și aduceți un obiectiv cu zoom pentru a surprinde exteriorul său detaliat.",
+            "en": "Marvel at the secluded grandeur of this lesser-known rural castle nestled in the landscape, and bring a zoom lens to capture its intricate exterior from afar."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour, indem Sie die klassische Eleganz des Hôtel de Raoulx in der Morgensonne bewundern. Radeln Sie zum Souleiado-Museum und besuchen Sie mittags die St. Martha Kirche. Am Nachmittag entführt Sie das hoch aufragende Château du Roi René in das Mittelalter, bevor Sie zur Burg von Tarascon weiterfahren. Beenden Sie Ihre abenteuerliche Fahrt am abgelegenen Château de Goubelet in der Landschaft.",
+        "hu": "Kezdje a kerékpártúrát a Hôtel de Raoulx klasszikus eleganciájának megcsodálásával a reggeli napsütésben. Tekerjen el a Souleiado Múzeumba, majd álljon meg délben a lenyűgöző Szent Márta templomnál. Délután a magasba tornyosuló Château du Roi René repíti vissza a középkorba, mielőtt kilovagolna a tarasconi várhoz. Fejezze be kalandos útját a félreeső Château de Goubelet kastélynál, miközben a vidék ragyog.",
+        "ro": "Începeți călătoria cu bicicleta admirând eleganța clasică a Hôtel de Raoulx în soarele dimineții. Pedați spre Muzeul Souleiado, apoi opriți-vă la prânz pentru a vizita impresionanta Biserică Sfânta Marta. După-amiaza, lăsați impunătorul Château du Roi René să vă transporte în Evul Mediu, înainte de a merge la Castelul Tarascon. Încheiați plimbarea la izolatul Château de Goubelet, în lumina caldă a peisajului rural.",
+        "en": "Kick off your cycling journey by admiring the classic elegance of Hôtel de Raoulx in the morning sun. Pedal gently to the Souleiado Museum to explore local textiles, then stop for a midday visit to the stunning Saint Martha Collegiate Church. In the afternoon, let the towering Château du Roi René transport you to the Middle Ages before riding out to the secondary Tarascon Castle. Finish your adventurous ride at the secluded Château de Goubelet as the countryside glows warmly."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:48",
+      "total_km": 3.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Tarascon Castle",
+            "hu": "Tarasconi vár",
+            "ro": "Castelul Tarascon",
+            "en": "Tarascon Castle"
+          },
+          "coords": [
+            4.660196,
+            43.781022
+          ],
+          "category": "fortress",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die antiken Ruinen dieser sekundären Verteidigungsanlage im Süden und tragen Sie festes Schuhwerk, um das unebene historische Gelände zu meistern.",
+            "hu": "Barangoljon a déli megközelítést védő másodlagos védmű ősi romjai között, és viseljen erős cipőt az egyenetlen történelmi talajon való magabiztos sétához.",
+            "ro": "Plimbați-vă prin ruinele antice ale acestei structuri defensive secundare din sud, purtând încălțăminte rezistentă pentru a naviga pe terenul istoric denivelat.",
+            "en": "Wander through the ancient ruins of this secondary defensive structure that guarded the southern approaches, wearing sturdy shoes to navigate the uneven historic grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Goubelet",
+            "hu": "Château de Goubelet",
+            "ro": "Château de Goubelet",
+            "en": "Château de Goubelet"
+          },
+          "coords": [
+            4.669528,
+            43.79631
+          ],
+          "category": "castle",
+          "arrive_at": "10:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die abgeschiedene Pracht dieses weniger bekannten ländlichen Schlosses in der Landschaft und bringen Sie ein Zoomobjektiv für Außenaufnahmen mit.",
+            "hu": "Csodálja meg ennek a tájban megbúvó, kevésbé ismert vidéki kastélynak a félreeső nagyszerűségét, és hozzon magával zoom objektívet a külső részletek megörökítéséhez.",
+            "ro": "Minunați-vă de măreția izolată a acestui castel rural mai puțin cunoscut ascuns în peisaj și aduceți un obiectiv cu zoom pentru a surprinde exteriorul său detaliat.",
+            "en": "Marvel at the secluded grandeur of this lesser-known rural castle nestled in the landscape, and bring a zoom lens to capture its intricate exterior from afar."
+          }
+        },
+        {
+          "name": {
+            "de": "Palais de Justice",
+            "hu": "Palais de Justice",
+            "ro": "Palais de Justice",
+            "en": "Palais de Justice"
+          },
+          "coords": [
+            4.658074,
+            43.804839
+          ],
+          "category": "castle",
+          "arrive_at": "11:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neoklassizistische Fassade des Justizpalastes als Zeugnis der Stadtgeschichte und machen Sie morgens Fotos, wenn das Licht auf den Stein fällt.",
+            "hu": "Csodálja meg az Igazságügyi Palota neoklasszicista homlokzatát, a polgári történelem tanúját, és fotózza le a térről, amikor a reggeli fény a kövekre esik.",
+            "ro": "Admirați fațada neoclasică a Palatului de Justiție, o mărturie a istoriei civice, și fotografiați clădirea din piață atunci când lumina dimineții atinge piatra.",
+            "en": "Admire the neoclassical facade of the Palais de Justice, a testament to civic history, and snap photos from the square when the morning light hits the stonework."
+          }
+        },
+        {
+          "name": {
+            "de": "Souleiado Museum",
+            "hu": "Souleiado Múzeum",
+            "ro": "Muzeul Souleiado",
+            "en": "Souleiado Museum"
+          },
+          "coords": [
+            4.659593,
+            43.804903
+          ],
+          "category": "museum",
+          "arrive_at": "13:19",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die farbenfrohe Welt der traditionellen provenzalischen Textilien in diesem Museum, aber besuchen Sie unbedingt den Souvenirshop für echte Stoffe.",
+            "hu": "Fedezze fel a hagyományos provence-i textilek vibráló világát ebben a színes múzeumban, de mindenképpen nézzen be az ajándékboltba is az eredeti szövetekért.",
+            "ro": "Descoperiți lumea vibrantă a textilelor tradiționale provensale în acest muzeu colorat, dar nu uitați să vizitați magazinul de suveniruri pentru țesături autentice.",
+            "en": "Discover the vibrant world of traditional Provençal textiles at this colorful museum, but be sure to check the gift shop for authentic fabric souvenirs."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint Martha Collegiate Church",
+            "hu": "Szent Márta Társaskáptalan",
+            "ro": "Biserica Colegiată Sfânta Marta",
+            "en": "Saint Martha Collegiate Church"
+          },
+          "coords": [
+            4.655841,
+            43.805645
+          ],
+          "category": "religious",
+          "arrive_at": "15:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betreten Sie diese romanisch-gotische Kirche, um die prächtige Krypta der Heiligen Martha zu besichtigen, wobei Sie sich bescheiden kleiden und leise sprechen sollten.",
+            "hu": "Lépjen be ebbe a román-gótikus templomba, hogy megtekintse Szent Márta csodálatos kriptáját, emlékezve a szerény öltözködésre és a halk beszédre a látogatás során.",
+            "ro": "Pășiți în această biserică romanico-gotică pentru a vedea cripta magnifică a Sfintei Marta, amintindu-vă să vă îmbrăcați modest și să vorbiți încet în timpul vizitei.",
+            "en": "Step inside this Romanesque-Gothic church to view the magnificent crypt of Saint Martha, remembering to dress modestly and speak softly during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Château du Roi René",
+            "hu": "Château du Roi René",
+            "ro": "Château du Roi René",
+            "en": "Château du Roi René"
+          },
+          "coords": [
+            4.655,
+            43.806621
+          ],
+          "category": "castle",
+          "arrive_at": "15:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese unglaublich gut erhaltene mittelalterliche Festung mit Blick auf die Rhône und steigen Sie auf die oberste Terrasse für spektakuläre Ausblicke.",
+            "hu": "Fedezze fel ezt a hihetetlenül jól megőrzött, Rhône folyóra néző középkori erődöt, és másszon fel a legfelső teraszra a völgyre nyíló látványos panorámáért.",
+            "ro": "Explorați această fortăreață medievală incredibil de bine conservată cu vedere la râul Rhône și urcați pe terasa superioară pentru vederi panoramice spectaculoase.",
+            "en": "Explore this incredibly well-preserved medieval fortress overlooking the Rhône river, and climb to the very top terrace for spectacular panoramic views of the valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin des plantes",
+            "hu": "Jardin des plantes",
+            "ro": "Jardin des plantes",
+            "en": "Jardin des plantes"
+          },
+          "coords": [
+            4.656809,
+            43.80703
+          ],
+          "category": "family",
+          "arrive_at": "17:03",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich inmitten vielfältiger botanischer Arten in diesem friedlichen, familienfreundlichen Garten und bringen Sie lokale Snacks für die schattigen Bänke mit.",
+            "hu": "Pihenjen a változatos botanikai fajok között ebben a békés, családbarát kertben, és hozzon magával néhány friss helyi rágcsálnivalót az árnyékos padokra.",
+            "ro": "Relaxați-vă printre diversele specii botanice din această grădină pașnică, prietenoasă cu familiile, aducând gustări locale proaspete pentru băncile umbrite.",
+            "en": "Relax among diverse botanical species in this peaceful family-friendly garden, bringing along some fresh local snacks to enjoy on the shaded wooden benches."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zuerst zu den südlichen Ruinen der Burg von Tarascon und genießen Sie die morgendliche Ruhe vor dem Château de Goubelet. Kehren Sie mittags ins Zentrum zurück, um den Justizpalast zu fotografieren und das Souleiado-Museum zu erkunden. Entdecken Sie am späten Nachmittag die St. Martha Kirche und das massive Château du Roi René am Flussufer. Beenden Sie Ihre umfassende Tour entspannt im üppigen Grün des Jardin des plantes.",
+        "hu": "Először vezessen a tarasconi vár déli romjaihoz, majd élvezze a reggeli nyugalmat a fenséges Château de Goubelet-nél. Délben térjen vissza a városközpontba az Igazságügyi Palotához, és fedezze fel a Souleiado Múzeumot. A késő délutánt a Szent Márta templom és a folyóparton álló hatalmas Château du Roi René felfedezésével töltse. Fejezze be ezt az átfogó túrát a Jardin des plantes buja zöldjében pihenve.",
+        "ro": "Conduceți mai întâi spre ruinele sudice ale Castelului Tarascon, bucurându-vă de liniștea dimineții la Château de Goubelet. La prânz, întoarceți-vă în centru pentru a fotografia Palatul de Justiție și a explora Muzeul Souleiado. Petreceți după-amiaza târziu descoperind Biserica Sfânta Marta și masivul Château du Roi René de pe malul râului. Încheiați-vă turul relaxându-vă în verdeața luxuriantă de la Jardin des plantes.",
+        "en": "Drive first to the southern ruins of Tarascon Castle, enjoying the morning quiet before heading to the majestic Château de Goubelet. By midday, return to the town center to photograph the grand Palais de Justice and explore the rich colors at the Souleiado Museum. Spend your late afternoon discovering the solemn Saint Martha Collegiate Church and the iconic, massive Château du Roi René on the riverbank. Wrap up your comprehensive tour relaxing in the lush greenery of the Jardin des plantes."
+      }
+    }
+  }
+}

@@ -1,0 +1,566 @@
+{
+  "city_id": "la-penne-sur-huveaune",
+  "anchor": {
+    "name": "La Penne-sur-Huveaune",
+    "coords": [
+      5.5158,
+      43.2806
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:24",
+      "total_km": 2.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Laurent",
+            "hu": "Saint-Laurent templom",
+            "ro": "Biserica Saint-Laurent",
+            "en": "Saint-Laurent Church"
+          },
+          "coords": [
+            5.515924,
+            43.28091
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Treten Sie in die historische Kirche Saint-Laurent ein, um die ruhige romanische Architektur zu schätzen, und bewundern Sie die wunderschön erhaltenen Altardetails.",
+            "hu": "Lépjen be a történelmi Saint-Laurent templomba, hogy megcsodálja békés román kori építészetét, és szánjon egy percet a gyönyörűen megőrzött oltár részleteire.",
+            "ro": "Pășiți în istorica biserică Saint-Laurent pentru a aprecia arhitectura sa romanică senină și faceți-vă timp să admirați detaliile frumos conservate ale altarului.",
+            "en": "Step inside the historic Saint-Laurent Church to appreciate its serene Romanesque architecture, and take a moment to admire the beautifully preserved altar details."
+          }
+        },
+        {
+          "name": {
+            "de": "Der Pennelus",
+            "hu": "A Pennelus",
+            "ro": "Pennelus",
+            "en": "The Pennelus"
+          },
+          "coords": [
+            5.515794,
+            43.281193
+          ],
+          "category": "historical",
+          "arrive_at": "09:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.04,
+          "tip_5lang": {
+            "de": "Bewundern Sie den Pennelus, eine seltene römische Grabpyramide aus dem 1. Jahrhundert v. Chr., und kommen Sie am frühen Morgen für das beste Licht zum Fotografieren.",
+            "hu": "Csodálja meg a Pennelust, ezt a ritka, Krisztus előtti 1. századból származó római temetkezési piramist, és érkezzen kora reggel a legjobb fotós fényekért.",
+            "ro": "Admirați Pennelus, o piramidă funerară romană rară din secolul I î.Hr., și vizitați-o dimineața devreme pentru cea mai bună lumină fotografică.",
+            "en": "Marvel at the Pennelus, a rare Roman funerary pyramid dating back to the 1st century BC, and visit early in the morning for the best photographic lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Aqueduc de la Candolle",
+            "hu": "Candolle Vízvezeték",
+            "ro": "Apeductul de la Candolle",
+            "en": "Aqueduc de la Candolle"
+          },
+          "coords": [
+            5.514201,
+            43.276237
+          ],
+          "category": "landmark",
+          "arrive_at": "11:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Verfolgen Sie den Weg des Aqueduc de la Candolle, einem markanten Zeugnis der Ingenieurskunst des 19. Jahrhunderts, und tragen Sie feste Schuhe für die unebenen Wege.",
+            "hu": "Kövesse a Candolle vízvezeték vonalát, amely a 19. századi mérnöki munka lenyűgöző bizonyítéka, és viseljen kényelmes cipőt az egyenetlen környező ösvények miatt.",
+            "ro": "Urmați traseul apeductului Candolle, o mărturie impresionantă a ingineriei secolului al XIX-lea, și purtați încălțăminte comodă deoarece potecile pot fi denivelate.",
+            "en": "Trace the path of the Aqueduc de la Candolle, a striking testament to 19th-century engineering, and wear sturdy walking shoes as the surrounding paths can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Reynarde",
+            "hu": "Château de la Reynarde",
+            "ro": "Château de la Reynarde",
+            "en": "Château de la Reynarde"
+          },
+          "coords": [
+            5.505523,
+            43.289666
+          ],
+          "category": "castle",
+          "arrive_at": "12:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie das elegante Gelände des Château de la Reynarde, einer klassischen provenzalischen Bastide, aber prüfen Sie die Öffnungszeiten wegen privater Veranstaltungen.",
+            "hu": "Fedezze fel a Château de la Reynarde elegáns birtokát, egy klasszikus provence-i kúriát, de ellenőrizze a nyitvatartást, mivel zártkörű rendezvények miatt a belépés korlátozott lehet.",
+            "ro": "Explorați domeniul elegant al Château de la Reynarde, o bastidă provensală clasică, dar verificați programul local, deoarece accesul interior poate fi restricționat.",
+            "en": "Explore the elegant grounds of Château de la Reynarde, a classic Provençal bastide, but check local schedules as interior access may be restricted for private events."
+          }
+        },
+        {
+          "name": {
+            "de": "Château Régis",
+            "hu": "Château Régis",
+            "ro": "Château Régis",
+            "en": "Château Régis"
+          },
+          "coords": [
+            5.500266,
+            43.289847
+          ],
+          "category": "castle",
+          "arrive_at": "13:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Fassade des Château Régis mit seinem markanten regionalen Stil und machen Sie einen friedlichen Spaziergang durch den schattigen Park.",
+            "hu": "Csodálja meg a Château Régis jellegzetes regionális stílusú, lenyűgöző homlokzatát, és tegyen egy békés sétát a környező park árnyas sétányain.",
+            "ro": "Admirați fațada impresionantă a Château Régis cu stilul său regional distinctiv și faceți o plimbare liniștită prin parcul din jur pentru a vă bucura de aleile umbrite.",
+            "en": "Admire the impressive façade of Château Régis with its distinctive regional style, and take a peaceful stroll through the surrounding park to enjoy the shaded avenues."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Menet",
+            "hu": "Saint-Menet templom",
+            "ro": "Biserica Saint-Menet",
+            "en": "Église Saint-Menet"
+          },
+          "coords": [
+            5.497428,
+            43.287761
+          ],
+          "category": "religious",
+          "arrive_at": "15:14",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie die malerische Kirche Saint-Menet für einen Einblick in das lokale religiöse Erbe und beachten Sie das traditionelle Mauerwerk, das den historischen Charme widerspiegelt.",
+            "hu": "Látogasson el a festői Saint-Menet templomba, hogy bepillantást nyerjen a helyi vallási örökségbe, és figyelje meg a terület történelmi báját tükröző hagyományos kőművesmunkát.",
+            "ro": "Vizitați pitoreasca Biserică Saint-Menet pentru o privire asupra patrimoniului religios local și observați zidăria tradițională din piatră care reflectă farmecul istoric.",
+            "en": "Visit the quaint Église Saint-Menet for a glimpse into the local religious heritage, and notice the traditional stone masonry that reflects the area's historical charm."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie im Herzen von La Penne-sur-Huveaune mit der Kirche Saint-Laurent und dem antiken römischen Pennelus. Am Mittag erkunden Sie den historischen Aquädukt von Candolle in der provenzalischen Landschaft. Nachmittags spazieren Sie zu den prachtvollen Anwesen Château de la Reynarde und Château Régis. Den Abend lassen Sie an der malerischen Kirche Saint-Menet friedlich ausklingen.",
+        "hu": "Kezdje a napot La Penne-sur-Huveaune szívében a Saint-Laurent templomnál és az ókori római Pennelusnál. Délben fedezze fel a provence-i tájba illeszkedő történelmi Candolle vízvezetéket. Délután sétáljon el a régió nagyszerű birtokaihoz, a Château de la Reynarde-hoz és a Château Régis-hez. Az estét a festői Saint-Menet templom békés atmoszférájában zárhatja.",
+        "ro": "Începeți în inima La Penne-sur-Huveaune cu biserica Saint-Laurent și anticul Pennelus roman. La prânz, explorați apeductul istoric Candolle din peisajul provensal. După-amiaza, plimbați-vă pe domeniile grandioase ale Château de la Reynarde și Château Régis. Seara se încheie liniștit la pitoreasca biserică Saint-Menet, bucurându-vă de atmosfera senină.",
+        "en": "Start at the heart of La Penne-sur-Huveaune, exploring the reverence of Saint-Laurent Church before marveling at the ancient Roman Pennelus. Wander south midday to trace the historic Aqueduc de la Candolle. Transition in the afternoon to the grand estates, viewing the splendor of Château de la Reynarde and Château Régis. Conclude your tour at the quaint Église Saint-Menet."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 6.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Der Pennelus",
+            "hu": "A Pennelus",
+            "ro": "Pennelus",
+            "en": "The Pennelus"
+          },
+          "coords": [
+            5.515794,
+            43.281193
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den Pennelus, eine seltene römische Grabpyramide aus dem 1. Jahrhundert v. Chr., und kommen Sie am frühen Morgen für das beste Licht zum Fotografieren.",
+            "hu": "Csodálja meg a Pennelust, ezt a ritka, Krisztus előtti 1. századból származó római temetkezési piramist, és érkezzen kora reggel a legjobb fotós fényekért.",
+            "ro": "Admirați Pennelus, o piramidă funerară romană rară din secolul I î.Hr., și vizitați-o dimineața devreme pentru cea mai bună lumină fotografică.",
+            "en": "Marvel at the Pennelus, a rare Roman funerary pyramid dating back to the 1st century BC, and visit early in the morning for the best photographic lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "La Candolle",
+            "hu": "La Candolle",
+            "ro": "La Candolle",
+            "en": "La Candolle"
+          },
+          "coords": [
+            5.516889,
+            43.268674
+          ],
+          "category": "landmark",
+          "arrive_at": "10:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die natürliche Schönheit und das raue Gelände rund um La Candolle und vergessen Sie nicht, Wasser mitzubringen, da die Infrastruktur hier sehr spärlich ist.",
+            "hu": "Fedezze fel La Candolle környékének természeti szépségét és zord terepét, és ne felejtsen el vizet hozni, mivel ezen a festői területen nagyon kevés a szolgáltatás.",
+            "ro": "Descoperiți frumusețea naturală și terenul accidentat din jurul La Candolle și nu uitați să aduceți o sticlă cu apă, deoarece facilitățile în această zonă pitorească sunt rare.",
+            "en": "Discover the natural beauty and rugged terrain around La Candolle, and don't forget to bring a water bottle since amenities in this scenic area are very sparse."
+          }
+        },
+        {
+          "name": {
+            "de": "Aqueduc de la Candolle",
+            "hu": "Candolle Vízvezeték",
+            "ro": "Apeductul de la Candolle",
+            "en": "Aqueduc de la Candolle"
+          },
+          "coords": [
+            5.514201,
+            43.276237
+          ],
+          "category": "landmark",
+          "arrive_at": "11:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Verfolgen Sie den Weg des Aqueduc de la Candolle, einem markanten Zeugnis der Ingenieurskunst des 19. Jahrhunderts, und tragen Sie feste Schuhe für die unebenen Wege.",
+            "hu": "Kövesse a Candolle vízvezeték vonalát, amely a 19. századi mérnöki munka lenyűgöző bizonyítéka, és viseljen kényelmes cipőt az egyenetlen környező ösvények miatt.",
+            "ro": "Urmați traseul apeductului Candolle, o mărturie impresionantă a ingineriei secolului al XIX-lea, și purtați încălțăminte comodă deoarece potecile pot fi denivelate.",
+            "en": "Trace the path of the Aqueduc de la Candolle, a striking testament to 19th-century engineering, and wear sturdy walking shoes as the surrounding paths can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Reynarde",
+            "hu": "Château de la Reynarde",
+            "ro": "Château de la Reynarde",
+            "en": "Château de la Reynarde"
+          },
+          "coords": [
+            5.505523,
+            43.289666
+          ],
+          "category": "castle",
+          "arrive_at": "12:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie das elegante Gelände des Château de la Reynarde, einer klassischen provenzalischen Bastide, aber prüfen Sie die Öffnungszeiten wegen privater Veranstaltungen.",
+            "hu": "Fedezze fel a Château de la Reynarde elegáns birtokát, egy klasszikus provence-i kúriát, de ellenőrizze a nyitvatartást, mivel zártkörű rendezvények miatt a belépés korlátozott lehet.",
+            "ro": "Explorați domeniul elegant al Château de la Reynarde, o bastidă provensală clasică, dar verificați programul local, deoarece accesul interior poate fi restricționat.",
+            "en": "Explore the elegant grounds of Château de la Reynarde, a classic Provençal bastide, but check local schedules as interior access may be restricted for private events."
+          }
+        },
+        {
+          "name": {
+            "de": "Château Régis",
+            "hu": "Château Régis",
+            "ro": "Château Régis",
+            "en": "Château Régis"
+          },
+          "coords": [
+            5.500266,
+            43.289847
+          ],
+          "category": "castle",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Fassade des Château Régis mit seinem markanten regionalen Stil und machen Sie einen friedlichen Spaziergang durch den schattigen Park.",
+            "hu": "Csodálja meg a Château Régis jellegzetes regionális stílusú, lenyűgöző homlokzatát, és tegyen egy békés sétát a környező park árnyas sétányain.",
+            "ro": "Admirați fațada impresionantă a Château Régis cu stilul său regional distinctiv și faceți o plimbare liniștită prin parcul din jur pentru a vă bucura de aleile umbrite.",
+            "en": "Admire the impressive façade of Château Régis with its distinctive regional style, and take a peaceful stroll through the surrounding park to enjoy the shaded avenues."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Buzine",
+            "hu": "Château de la Buzine",
+            "ro": "Château de la Buzine",
+            "en": "Château de la Buzine"
+          },
+          "coords": [
+            5.502449,
+            43.295342
+          ],
+          "category": "castle",
+          "arrive_at": "14:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie im Château de la Buzine, das berühmt mit Marcel Pagnol verbunden ist, in die Filmgeschichte ein und buchen Sie Tickets im Voraus für die Ausstellung.",
+            "hu": "Merüljön el a filmtörténetben a Marcel Pagnolhoz kötődő híres Château de la Buzine-ben, és foglaljon előre jegyet, hogy biztosítsa helyét a kiállításon.",
+            "ro": "Cufundați-vă în istoria cinematografică la Château de la Buzine, faimos legat de Marcel Pagnol, și rezervați-vă biletele în avans pentru a vă asigura locul la expoziție.",
+            "en": "Immerse yourself in cinematic history at Château de la Buzine, famously tied to Marcel Pagnol, and book tickets in advance to guarantee your spot in the exhibition."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Christophe",
+            "hu": "Saint-Christophe templom",
+            "ro": "Biserica Saint-Christophe",
+            "en": "Église Saint-Christophe"
+          },
+          "coords": [
+            5.493902,
+            43.302154
+          ],
+          "category": "religious",
+          "arrive_at": "16:24",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Erkundung in der friedlichen Église Saint-Christophe, beachten Sie ihren markanten Glockenturm und genießen Sie die ruhige Vorstadtatmosphäre.",
+            "hu": "Zárja felfedezőútját a békés Saint-Christophe templomnál, figyelve meg jellegzetes harangtornyát, és élvezze a csendes külvárosi atmoszférát a visszatérés előtt.",
+            "ro": "Încheiați-vă explorarea la liniștita Biserică Saint-Christophe, observând clopotnița sa distinctivă, și bucurați-vă de atmosfera liniștită a suburbiei înainte de a vă întoarce.",
+            "en": "Conclude your exploration at the peaceful Église Saint-Christophe, noting its distinctive bell tower, and enjoy the quiet suburban atmosphere before heading back to the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag mit dem römischen Erbe des Pennelus. Mittags fahren Sie abseits der ausgetretenen Pfade zur rauen Schönheit von La Candolle und dem historischen Aquädukt. Am Nachmittag radeln Sie durch grüne Vororte zum Trio der Schlösser: Reynarde, Régis und Buzine. Schließlich können Sie Ihre Beine an der friedlichen Kirche Saint-Christophe ausruhen.",
+        "hu": "Kezdje a kerékpározást a Pennelus római örökségének megcsodálásával. Délben tekerjen le a kitaposott ösvényről La Candolle zord szépsége és a vízvezeték felé. Délután a zöldellő külvárosokban haladva fedezze fel a három kastélyt: a Reynarde-ot, a Régist és a híres Buzine-t. Végül pihentesse meg lábait a békés Saint-Christophe templomnál.",
+        "ro": "Începeți ziua de ciclism admirând moștenirea romană de la Pennelus. La prânz, pedalați spre frumusețea accidentată a La Candolle și apeductul istoric. După-amiaza, traversați suburbiile verzi pentru a descoperi trioul de castele: Reynarde, Régis și faimosul Buzine. În cele din urmă, odihniți-vă picioarele la liniștita Biserică Saint-Christophe.",
+        "en": "Kick off your cycling day marveling at the Roman legacy of The Pennelus. Midday takes you off the beaten path towards the rugged beauty of La Candolle and the imposing historic aqueduct. As the afternoon unfolds, pedal through the leafy suburbs to discover the trio of châteaux: Reynarde, Régis, and the famed Buzine. Finally, rest your legs at the peaceful Église Saint-Christophe."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:23",
+      "total_km": 8.2,
+      "stop_count": 9,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Laurent",
+            "hu": "Saint-Laurent templom",
+            "ro": "Biserica Saint-Laurent",
+            "en": "Saint-Laurent Church"
+          },
+          "coords": [
+            5.515924,
+            43.28091
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Treten Sie in die historische Kirche Saint-Laurent ein, um die ruhige romanische Architektur zu schätzen, und bewundern Sie die wunderschön erhaltenen Altardetails.",
+            "hu": "Lépjen be a történelmi Saint-Laurent templomba, hogy megcsodálja békés román kori építészetét, és szánjon egy percet a gyönyörűen megőrzött oltár részleteire.",
+            "ro": "Pășiți în istorica biserică Saint-Laurent pentru a aprecia arhitectura sa romanică senină și faceți-vă timp să admirați detaliile frumos conservate ale altarului.",
+            "en": "Step inside the historic Saint-Laurent Church to appreciate its serene Romanesque architecture, and take a moment to admire the beautifully preserved altar details."
+          }
+        },
+        {
+          "name": {
+            "de": "Der Pennelus",
+            "hu": "A Pennelus",
+            "ro": "Pennelus",
+            "en": "The Pennelus"
+          },
+          "coords": [
+            5.515794,
+            43.281193
+          ],
+          "category": "historical",
+          "arrive_at": "09:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.04,
+          "tip_5lang": {
+            "de": "Bewundern Sie den Pennelus, eine seltene römische Grabpyramide aus dem 1. Jahrhundert v. Chr., und kommen Sie am frühen Morgen für das beste Licht zum Fotografieren.",
+            "hu": "Csodálja meg a Pennelust, ezt a ritka, Krisztus előtti 1. századból származó római temetkezési piramist, és érkezzen kora reggel a legjobb fotós fényekért.",
+            "ro": "Admirați Pennelus, o piramidă funerară romană rară din secolul I î.Hr., și vizitați-o dimineața devreme pentru cea mai bună lumină fotografică.",
+            "en": "Marvel at the Pennelus, a rare Roman funerary pyramid dating back to the 1st century BC, and visit early in the morning for the best photographic lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "La Candolle",
+            "hu": "La Candolle",
+            "ro": "La Candolle",
+            "en": "La Candolle"
+          },
+          "coords": [
+            5.516889,
+            43.268674
+          ],
+          "category": "landmark",
+          "arrive_at": "11:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die natürliche Schönheit und das raue Gelände rund um La Candolle und vergessen Sie nicht, Wasser mitzubringen, da die Infrastruktur hier sehr spärlich ist.",
+            "hu": "Fedezze fel La Candolle környékének természeti szépségét és zord terepét, és ne felejtsen el vizet hozni, mivel ezen a festői területen nagyon kevés a szolgáltatás.",
+            "ro": "Descoperiți frumusețea naturală și terenul accidentat din jurul La Candolle și nu uitați să aduceți o sticlă cu apă, deoarece facilitățile în această zonă pitorească sunt rare.",
+            "en": "Discover the natural beauty and rugged terrain around La Candolle, and don't forget to bring a water bottle since amenities in this scenic area are very sparse."
+          }
+        },
+        {
+          "name": {
+            "de": "Aqueduc de la Candolle",
+            "hu": "Candolle Vízvezeték",
+            "ro": "Apeductul de la Candolle",
+            "en": "Aqueduc de la Candolle"
+          },
+          "coords": [
+            5.514201,
+            43.276237
+          ],
+          "category": "landmark",
+          "arrive_at": "11:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Verfolgen Sie den Weg des Aqueduc de la Candolle, einem markanten Zeugnis der Ingenieurskunst des 19. Jahrhunderts, und tragen Sie feste Schuhe für die unebenen Wege.",
+            "hu": "Kövesse a Candolle vízvezeték vonalát, amely a 19. századi mérnöki munka lenyűgöző bizonyítéka, és viseljen kényelmes cipőt az egyenetlen környező ösvények miatt.",
+            "ro": "Urmați traseul apeductului Candolle, o mărturie impresionantă a ingineriei secolului al XIX-lea, și purtați încălțăminte comodă deoarece potecile pot fi denivelate.",
+            "en": "Trace the path of the Aqueduc de la Candolle, a striking testament to 19th-century engineering, and wear sturdy walking shoes as the surrounding paths can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Reynarde",
+            "hu": "Château de la Reynarde",
+            "ro": "Château de la Reynarde",
+            "en": "Château de la Reynarde"
+          },
+          "coords": [
+            5.505523,
+            43.289666
+          ],
+          "category": "castle",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie das elegante Gelände des Château de la Reynarde, einer klassischen provenzalischen Bastide, aber prüfen Sie die Öffnungszeiten wegen privater Veranstaltungen.",
+            "hu": "Fedezze fel a Château de la Reynarde elegáns birtokát, egy klasszikus provence-i kúriát, de ellenőrizze a nyitvatartást, mivel zártkörű rendezvények miatt a belépés korlátozott lehet.",
+            "ro": "Explorați domeniul elegant al Château de la Reynarde, o bastidă provensală clasică, dar verificați programul local, deoarece accesul interior poate fi restricționat.",
+            "en": "Explore the elegant grounds of Château de la Reynarde, a classic Provençal bastide, but check local schedules as interior access may be restricted for private events."
+          }
+        },
+        {
+          "name": {
+            "de": "Château Régis",
+            "hu": "Château Régis",
+            "ro": "Château Régis",
+            "en": "Château Régis"
+          },
+          "coords": [
+            5.500266,
+            43.289847
+          ],
+          "category": "castle",
+          "arrive_at": "14:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Fassade des Château Régis mit seinem markanten regionalen Stil und machen Sie einen friedlichen Spaziergang durch den schattigen Park.",
+            "hu": "Csodálja meg a Château Régis jellegzetes regionális stílusú, lenyűgöző homlokzatát, és tegyen egy békés sétát a környező park árnyas sétányain.",
+            "ro": "Admirați fațada impresionantă a Château Régis cu stilul său regional distinctiv și faceți o plimbare liniștită prin parcul din jur pentru a vă bucura de aleile umbrite.",
+            "en": "Admire the impressive façade of Château Régis with its distinctive regional style, and take a peaceful stroll through the surrounding park to enjoy the shaded avenues."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Buzine",
+            "hu": "Château de la Buzine",
+            "ro": "Château de la Buzine",
+            "en": "Château de la Buzine"
+          },
+          "coords": [
+            5.502449,
+            43.295342
+          ],
+          "category": "castle",
+          "arrive_at": "15:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie im Château de la Buzine, das berühmt mit Marcel Pagnol verbunden ist, in die Filmgeschichte ein und buchen Sie Tickets im Voraus für die Ausstellung.",
+            "hu": "Merüljön el a filmtörténetben a Marcel Pagnolhoz kötődő híres Château de la Buzine-ben, és foglaljon előre jegyet, hogy biztosítsa helyét a kiállításon.",
+            "ro": "Cufundați-vă în istoria cinematografică la Château de la Buzine, faimos legat de Marcel Pagnol, și rezervați-vă biletele în avans pentru a vă asigura locul la expoziție.",
+            "en": "Immerse yourself in cinematic history at Château de la Buzine, famously tied to Marcel Pagnol, and book tickets in advance to guarantee your spot in the exhibition."
+          }
+        },
+        {
+          "name": {
+            "de": "Château Saint-Antoine",
+            "hu": "Château Saint-Antoine",
+            "ro": "Château Saint-Antoine",
+            "en": "Château Saint-Antoine"
+          },
+          "coords": [
+            5.488527,
+            43.287735
+          ],
+          "category": "historical",
+          "arrive_at": "16:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Erleben Sie die Pracht des Château Saint-Antoine, eines herrlichen Anwesens aus dem 18. Jahrhundert, und nehmen Sie an einer Führung teil, um mehr über die aristokratischen Bewohner zu erfahren.",
+            "hu": "Tapasztalja meg a 18. századi, csodálatos Château Saint-Antoine nagyszerűségét, és csatlakozzon egy vezetett túrához, hogy lenyűgöző részleteket tudjon meg az egykori arisztokrata lakókról.",
+            "ro": "Experimentați grandoarea Château Saint-Antoine, o proprietate magnifică din secolul al XVIII-lea, și participați la un tur ghidat pentru a afla detalii despre foștii săi rezidenți aristocratici.",
+            "en": "Experience the grandeur of Château Saint-Antoine, a magnificent 18th-century estate, and join a guided tour to learn fascinating details about its former aristocratic residents."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Christophe",
+            "hu": "Saint-Christophe templom",
+            "ro": "Biserica Saint-Christophe",
+            "en": "Église Saint-Christophe"
+          },
+          "coords": [
+            5.493902,
+            43.302154
+          ],
+          "category": "religious",
+          "arrive_at": "18:13",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Erkundung in der friedlichen Église Saint-Christophe, beachten Sie ihren markanten Glockenturm und genießen Sie die ruhige Vorstadtatmosphäre.",
+            "hu": "Zárja felfedezőútját a békés Saint-Christophe templomnál, figyelve meg jellegzetes harangtornyát, és élvezze a csendes külvárosi atmoszférát a visszatérés előtt.",
+            "ro": "Încheiați-vă explorarea la liniștita Biserică Saint-Christophe, observând clopotnița sa distinctivă, și bucurați-vă de atmosfera liniștită a suburbiei înainte de a vă întoarce.",
+            "en": "Conclude your exploration at the peaceful Église Saint-Christophe, noting its distinctive bell tower, and enjoy the quiet suburban atmosphere before heading back to the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Fahrt durch die lokale Geschichte an der Kirche Saint-Laurent und dem ikonischen Pennelus. Fahren Sie mittags nach Süden zu La Candolle und seinem majestätischen Aquädukt. Der Nachmittag ist eine spektakuläre Schlössertour zwischen Reynarde, Régis, Buzine und Saint-Antoine. Beenden Sie den Tag mit einem ruhigen Halt an der Kirche Saint-Christophe.",
+        "hu": "Kezdje az utazást a Saint-Laurent templomnál és az ikonikus Pennelusnál. Délben autózzon dél felé, hogy megcsodálja La Candolle-t és a vízvezetéket. A délután egy látványos kastélytúra a Reynarde, Régis, Buzine és Saint-Antoine között. Zárja a napot egy békés megállóval a Saint-Christophe templomnál, ahogy leszáll az est.",
+        "ro": "Începeți cu mașina prin istoria locală la Biserica Saint-Laurent și la emblematicul Pennelus. La prânz, mergeți spre sud pentru a admira La Candolle și apeductul său majestuos. După-amiaza este un tur spectaculos al castelelor Reynarde, Régis, Buzine și Saint-Antoine. Încheiați ziua cu o oprire senină la Biserica Saint-Christophe la lăsarea serii.",
+        "en": "Begin your drive through local history at Saint-Laurent Church and the iconic Pennelus. Midday, cruise south to admire the natural setting of La Candolle and its majestic aqueduct. The afternoon is a spectacular châteaux tour, moving effortlessly between Reynarde, Régis, Buzine, and Saint-Antoine. End the day with a serene stop at Église Saint-Christophe as dusk settles."
+      }
+    }
+  }
+}

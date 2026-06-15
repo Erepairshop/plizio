@@ -1,0 +1,497 @@
+{
+  "city_id": "spain-urbanizacion-sitio-de-calahonda-cities-v2",
+  "anchor": {
+    "name": "Urbanización Sitio de Calahonda",
+    "coords": [
+      -4.72324,
+      36.49344
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:37",
+      "total_km": 3.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Torre de Calahonda",
+            "hu": "Torre de Calahonda",
+            "ro": "Torre de Calahonda",
+            "en": "Torre de Calahonda"
+          },
+          "coords": [
+            -4.711901,
+            36.487586
+          ],
+          "category": "tower",
+          "arrive_at": "09:00",
+          "stay_min": 30,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Küstenblick von diesem historischen Wachturm und kommen Sie früh, um das schöne Morgenlicht ohne viele Menschenmengen einzufangen.",
+            "hu": "Csodálja meg a tengerparti kilátást ebből a történelmi őrtoronyból, és érkezzen korán, hogy még a tömeg előtt elcsíphesse a gyönyörű reggeli fényeket.",
+            "ro": "Admirați priveliștea coastei de la acest turn de veghe istoric și ajungeți devreme pentru a surprinde lumina dimineții înainte de aglomerație.",
+            "en": "Admire the coastal views from this historical watchtower, and arrive early to capture the beautiful morning light before the crowds gather."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Calahonda - Calahonda",
+            "hu": "Playa de Calahonda - Calahonda",
+            "ro": "Playa de Calahonda - Calahonda",
+            "en": "Playa de Calahonda - Calahonda"
+          },
+          "coords": [
+            -4.716609,
+            36.487337
+          ],
+          "category": "recreational",
+          "arrive_at": "09:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am goldenen Strand und mieten Sie vorab eine Sonnenliege, um Ihrer Familie den perfekten Platz zum Ausruhen zu sichern.",
+            "hu": "Pihenjen e tágas strand aranyhomokján, ahol a napágy előzetes bérlésével biztosíthatja a tökéletes helyet az egész család kikapcsolódásához.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje întinse, unde închirierea unui șezlong în avans garantează un loc perfect pentru relaxarea familiei.",
+            "en": "Relax on the golden sands of this expansive beach, where renting a sunbed in advance guarantees a perfect spot for your entire family to unwind."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Calahonda - La Luna / Royal Beach",
+            "hu": "Playa de Calahonda - La Luna / Royal Beach",
+            "ro": "Playa de Calahonda - La Luna / Royal Beach",
+            "en": "Playa de Calahonda - La Luna / Royal Beach"
+          },
+          "coords": [
+            -4.7271,
+            36.486793
+          ],
+          "category": "recreational",
+          "arrive_at": "11:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre dieses gepflegten Küstenabschnitts und packen Sie Badeschuhe ein, da einige Bereiche felsige Unterwasserstellen haben.",
+            "hu": "Élvezze e gondozott partszakasz nyugodt hangulatát, és feltétlenül hozzon magával vizicipőt, mivel néhány víz alatti terület sziklás lehet.",
+            "ro": "Bucurați-vă de atmosfera liniștită a acestei porțiuni de coastă și asigurați-vă că aduceți încălțăminte de apă, deoarece unele zone sunt stâncoase.",
+            "en": "Enjoy the tranquil atmosphere of this well-kept coastal stretch, and be sure to pack water shoes as some areas have rocky underwater patches."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Calahonda",
+            "hu": "Playa de Calahonda",
+            "ro": "Playa de Calahonda",
+            "en": "Playa de Calahonda"
+          },
+          "coords": [
+            -4.736383,
+            36.485684
+          ],
+          "category": "recreational",
+          "arrive_at": "12:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der Holzstege parallel zu den sanften Wellen, was es zu einem idealen Weg für einen malerischen und entspannten Nachmittag macht.",
+            "hu": "Sétáljon végig a lágy hullámokkal párhuzamosan futó fa pallókon, amely ideális útvonal egy festői és pihentető délutáni tengerparti sétához.",
+            "ro": "Plimbați-vă pe pasarelele din lemn paralele cu valurile, traseul fiind ideal pentru o plimbare pitorească și relaxantă pe coastă în timpul după-amiezii.",
+            "en": "Stroll along the wooden boardwalks that run parallel to the gentle waves, making it an ideal path for a scenic and relaxing afternoon coastal walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Ladrones",
+            "hu": "Torre Ladrones",
+            "ro": "Torre Ladrones",
+            "en": "Torre Ladrones"
+          },
+          "coords": [
+            -4.743312,
+            36.485247
+          ],
+          "category": "landmark",
+          "arrive_at": "13:59",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieses alten maurischen Turms auf den Dünen, dessen erhöhte Position den perfekten Hintergrund für ein Panoramafoto bietet.",
+            "hu": "Fedezze fel ezen ősi, dűnéken magasodó mór torony romjait, amelynek megemelt helyzete tökéletes hátteret kínál egy panorámakép elkészítéséhez.",
+            "ro": "Explorați ruinele acestui vechi turn maur de pe dune, unde poziția sa ridicată oferă fundalul perfect pentru a realiza o fotografie panoramică.",
+            "en": "Explore the ruins of this ancient Moorish tower perched on the dunes, where the elevated position offers the perfect background for a panoramic photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento Natural de las Dunas de Artola y Cabopino",
+            "hu": "Monumento Natural de las Dunas de Artola y Cabopino",
+            "ro": "Monumento Natural de las Dunas de Artola y Cabopino",
+            "en": "Monumento Natural de las Dunas de Artola y Cabopino"
+          },
+          "coords": [
+            -4.748234,
+            36.486539
+          ],
+          "category": "natural",
+          "arrive_at": "14:52",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses Naturschutzgebiet mit spektakulären Sanddünen und bleiben Sie auf den markierten Wegen, um die lokale Flora zu schützen.",
+            "hu": "Barangoljon ebben a látványos homokdűnéket bemutató természetvédelmi területen, és szigorúan maradjon a kijelölt ösvényeken a növényzet védelme érdekében.",
+            "ro": "Plimbați-vă prin această rezervație naturală cu dune de nisip spectaculoase și rămâneți strict pe traseele marcate pentru a proteja flora locală.",
+            "en": "Wander through this protected natural reserve showcasing spectacular sand dunes, and stick strictly to the marked trails to preserve the local flora."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einem Besuch des historischen Torre de Calahonda, der einen klaren Blick auf das Mittelmeer bietet.\n\nMittags spazieren Sie über die malerischen Holzstege und entspannen am Playa de Calahonda.\n\nIm Laufe des Nachmittags führt der Weg nach Westen zum Torre Ladrones, einem weiteren Wächter des Meeres.\n\nDer Abend bricht herein, während Sie die geschützten Dunas de Artola erkunden und den Sonnenuntergang genießen.",
+        "hu": "A reggel a történelmi Torre de Calahonda frissítő meglátogatásával kezdődik, ahonnan tiszta kilátás nyílik a Földközi-tengerre.\n\nA delet a festői fapallókon sétálva és a Playa de Calahondán pihenve tölthetjük.\n\nA délután folyamán az út nyugat felé vezet a Torre Ladroneshez, a tenger egy másik őrszeméhez.\n\nAz este a védett Dunas de Artola felfedezésével és a dűnék feletti aranyló naplementével zárul.",
+        "ro": "Dimineața începe cu o vizită reconfortantă la istoricul Torre de Calahonda, oferind priveliști clare asupra Mării Mediterane.\n\nLa prânz, vă plimbați pe pasarelele pitorești de lemn, relaxându-vă pe plaja din Calahonda.\n\nPe măsură ce se desfășoară după-amiaza, călătoria duce spre vest către Torre Ladrones, o altă sentinelă a mării.\n\nSeara sosește în timp ce explorați Dunas de Artola, finalizând cu un apus auriu pe dune.",
+        "en": "Morning begins with a refreshing visit to the historic Torre de Calahonda, offering clear views over the Mediterranean.\n\nMidday is spent walking the picturesque boardwalks, relaxing at Playa de Calahonda and its adjoining royal coves.\n\nAs the afternoon unfolds, the journey leads westward to Torre Ladrones, another sentinel of the sea.\n\nEvening arrives as you explore the protected Dunas de Artola, finishing with a golden sunset over the dunes."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:19",
+      "total_km": 4.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Playa de Calahonda - Rocas del Mar",
+            "hu": "Playa de Calahonda - Rocas del Mar",
+            "ro": "Playa de Calahonda - Rocas del Mar",
+            "en": "Playa de Calahonda - Rocas del Mar"
+          },
+          "coords": [
+            -4.698609,
+            36.490105
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die dramatischen Felsformationen am Meer und seien Sie vorsichtig, wenn Sie die Gezeitentümpel voller vielfältigen Meereslebewesen erkunden.",
+            "hu": "Fedezze fel a tengert szegélyező drámai sziklaképződményeket ezen a csendes helyen, és óvatosan járja be a tengeri élőlényekben gazdag árapály-medencéket.",
+            "ro": "Descoperiți formațiunile stâncoase dramatice de pe malul mării la acest loc liniștit, având grijă la bazinele cu maree pline de viață marină.",
+            "en": "Discover the dramatic rock formations bordering the sea at this quiet spot, taking care when exploring the tide pools that are rich with marine life."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Calahonda - Riviera",
+            "hu": "Playa de Calahonda - Riviera",
+            "ro": "Playa de Calahonda - Riviera",
+            "en": "Playa de Calahonda - Riviera"
+          },
+          "coords": [
+            -4.70763,
+            36.489308
+          ],
+          "category": "recreational",
+          "arrive_at": "09:44",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erleben Sie eine lebhafte Strandatmosphäre mit Zugang zu Cafés, obwohl ein eigener Sonnenschirm ratsam ist, um während der Sonnenstunden Schatten zu haben.",
+            "hu": "Tapasztalja meg a nyüzsgő tengerparti hangulatot a kávézók közelségében, de érdemes saját napernyőt is hozni a csúcsidőben szükséges árnyék biztosításához.",
+            "ro": "Experimentați o atmosferă vibrantă la malul mării, cu acces ușor la cafenele, deși aducerea propriei umbrele este utilă în orele de vârf.",
+            "en": "Experience a vibrant seaside vibe with easy access to beachside cafes, though bringing your own parasol is wise to ensure shade during peak sun hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de Calahonda",
+            "hu": "Torre de Calahonda",
+            "ro": "Torre de Calahonda",
+            "en": "Torre de Calahonda"
+          },
+          "coords": [
+            -4.711901,
+            36.487586
+          ],
+          "category": "tower",
+          "arrive_at": "10:31",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den Küstenblick von diesem historischen Wachturm und kommen Sie früh, um das schöne Morgenlicht ohne viele Menschenmengen einzufangen.",
+            "hu": "Csodálja meg a tengerparti kilátást ebből a történelmi őrtoronyból, és érkezzen korán, hogy még a tömeg előtt elcsíphesse a gyönyörű reggeli fényeket.",
+            "ro": "Admirați priveliștea coastei de la acest turn de veghe istoric și ajungeți devreme pentru a surprinde lumina dimineții înainte de aglomerație.",
+            "en": "Admire the coastal views from this historical watchtower, and arrive early to capture the beautiful morning light before the crowds gather."
+          }
+        },
+        {
+          "name": {
+            "de": "La Luna-Royale Beach",
+            "hu": "La Luna-Royale Beach",
+            "ro": "La Luna-Royale Beach",
+            "en": "La Luna-Royale Beach"
+          },
+          "coords": [
+            -4.724268,
+            36.486916
+          ],
+          "category": "recreational",
+          "arrive_at": "11:22",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre dieses gepflegten Küstenabschnitts und packen Sie Badeschuhe ein, da einige Bereiche felsige Unterwasserstellen haben.",
+            "hu": "Élvezze e gondozott partszakasz nyugodt hangulatát, és feltétlenül hozzon magával vizicipőt, mivel néhány víz alatti terület sziklás lehet.",
+            "ro": "Bucurați-vă de atmosfera liniștită a acestei porțiuni de coastă și asigurați-vă că aduceți încălțăminte de apă, deoarece unele zone sunt stâncoase.",
+            "en": "Enjoy the tranquil atmosphere of this well-kept coastal stretch, and be sure to pack water shoes as some areas have rocky underwater patches."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Calahonda",
+            "hu": "Playa de Calahonda",
+            "ro": "Playa de Calahonda",
+            "en": "Playa de Calahonda"
+          },
+          "coords": [
+            -4.736383,
+            36.485684
+          ],
+          "category": "recreational",
+          "arrive_at": "12:28",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der Holzstege parallel zu den sanften Wellen, was es zu einem idealen Weg für einen malerischen und entspannten Nachmittag macht.",
+            "hu": "Sétáljon végig a lágy hullámokkal párhuzamosan futó fa pallókon, amely ideális útvonal egy festői és pihentető délutáni tengerparti sétához.",
+            "ro": "Plimbați-vă pe pasarelele din lemn paralele cu valurile, traseul fiind ideal pentru o plimbare pitorească și relaxantă pe coastă în timpul după-amiezii.",
+            "en": "Stroll along the wooden boardwalks that run parallel to the gentle waves, making it an ideal path for a scenic and relaxing afternoon coastal walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Cabopino",
+            "hu": "Playa de Cabopino",
+            "ro": "Playa de Cabopino",
+            "en": "Playa de Cabopino"
+          },
+          "coords": [
+            -4.741961,
+            36.484365
+          ],
+          "category": "recreational",
+          "arrive_at": "13:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie das familienfreundliche flache Wasser dieses geschützten Strandes und kommen Sie früh, um einen Parkplatz in der Nähe des Yachthafens zu finden.",
+            "hu": "Élvezze ennek a védett strandnak a családbarát, sekély vizét és puha homokját, érkezzen korán, hogy parkolóhelyet találjon a gyönyörű kikötő közelében.",
+            "ro": "Bucurați-vă de apele puțin adânci și nisipul fin al acestei plaje, ajungând devreme pentru a găsi un loc de parcare aproape de frumosul port de agrement.",
+            "en": "Enjoy the family-friendly shallow waters and soft sand of this sheltered beach, arriving early to find a parking spot close to the beautiful marina."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento Natural de las Dunas de Artola y Cabopino",
+            "hu": "Monumento Natural de las Dunas de Artola y Cabopino",
+            "ro": "Monumento Natural de las Dunas de Artola y Cabopino",
+            "en": "Monumento Natural de las Dunas de Artola y Cabopino"
+          },
+          "coords": [
+            -4.748234,
+            36.486539
+          ],
+          "category": "natural",
+          "arrive_at": "14:34",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses Naturschutzgebiet mit spektakulären Sanddünen und bleiben Sie auf den markierten Wegen, um die lokale Flora zu schützen.",
+            "hu": "Barangoljon ebben a látványos homokdűnéket bemutató természetvédelmi területen, és szigorúan maradjon a kijelölt ösvényeken a növényzet védelme érdekében.",
+            "ro": "Plimbați-vă prin această rezervație naturală cu dune de nisip spectaculoase și rămâneți strict pe traseele marcate pentru a proteja flora locală.",
+            "en": "Wander through this protected natural reserve showcasing spectacular sand dunes, and stick strictly to the marked trails to preserve the local flora."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen, indem Sie von den felsigen östlichen Ufern von Rocas del Mar zum Riviera-Abschnitt radeln.\n\nMittags fahren Sie gemütlich am Torre de Calahonda vorbei und genießen die Strandatmosphäre.\n\nAm Nachmittag bringt Sie der Küstenweg zu den weiten Sandstränden von Cabopino.\n\nIhre Radtour endet abends auf elegante Weise inmitten der atemberaubenden natürlichen Schönheit der Artola-Dünen.",
+        "hu": "Indítsa a reggelt a Rocas del Mar sziklás keleti partjaitól a nyüzsgő Riviera szakasz felé tekerve.\n\nDélben kényelmesen elhalad a Torre de Calahonda mellett, és élvezheti a tengerparti hangulatot.\n\nDélután a tengerparti ösvény elhozza Önt Cabopino széles homokos partjaira.\n\nKerékpáros utazása az este folyamán az Artola dűnék lenyűgöző természeti szépségei között zárul le elegánsan.",
+        "ro": "Începeți dimineața pedalând de la țărmurile stâncoase estice din Rocas del Mar către zona vibrantă Riviera.\n\nLa prânz, pedalați lin pe lângă Torre de Calahonda, admirând atmosfera de pe plajă.\n\nDupă-amiaza, drumul blând de coastă vă aduce pe nisipurile întinse din Cabopino.\n\nCălătoria cu bicicleta se încheie grațios seara, în mijlocul frumuseții naturale uimitoare a dunelor Artola.",
+        "en": "Kickstart your morning pedaling from the rocky eastern shores of Rocas del Mar towards the vibrant Riviera stretch.\n\nBy midday, cycle smoothly past Torre de Calahonda, taking in the lively beach atmosphere of La Luna.\n\nIn the afternoon, the gentle coastal path brings you to the sweeping sands of Cabopino.\n\nYour cycling journey gracefully concludes in the evening amidst the stunning natural beauty of the Artola dunes."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:59",
+      "total_km": 4.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Monumento Natural de las Dunas de Artola y Cabopino",
+            "hu": "Monumento Natural de las Dunas de Artola y Cabopino",
+            "ro": "Monumento Natural de las Dunas de Artola y Cabopino",
+            "en": "Monumento Natural de las Dunas de Artola y Cabopino"
+          },
+          "coords": [
+            -4.748234,
+            36.486539
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses Naturschutzgebiet mit spektakulären Sanddünen und bleiben Sie auf den markierten Wegen, um die lokale Flora zu schützen.",
+            "hu": "Barangoljon ebben a látványos homokdűnéket bemutató természetvédelmi területen, és szigorúan maradjon a kijelölt ösvényeken a növényzet védelme érdekében.",
+            "ro": "Plimbați-vă prin această rezervație naturală cu dune de nisip spectaculoase și rămâneți strict pe traseele marcate pentru a proteja flora locală.",
+            "en": "Wander through this protected natural reserve showcasing spectacular sand dunes, and stick strictly to the marked trails to preserve the local flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Ladrones",
+            "hu": "Torre Ladrones",
+            "ro": "Torre Ladrones",
+            "en": "Torre Ladrones"
+          },
+          "coords": [
+            -4.743312,
+            36.485247
+          ],
+          "category": "landmark",
+          "arrive_at": "10:17",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieses alten maurischen Turms auf den Dünen, dessen erhöhte Position den perfekten Hintergrund für ein Panoramafoto bietet.",
+            "hu": "Fedezze fel ezen ősi, dűnéken magasodó mór torony romjait, amelynek megemelt helyzete tökéletes hátteret kínál egy panorámakép elkészítéséhez.",
+            "ro": "Explorați ruinele acestui vechi turn maur de pe dune, unde poziția sa ridicată oferă fundalul perfect pentru a realiza o fotografie panoramică.",
+            "en": "Explore the ruins of this ancient Moorish tower perched on the dunes, where the elevated position offers the perfect background for a panoramic photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Cabopino",
+            "hu": "Playa de Cabopino",
+            "ro": "Playa de Cabopino",
+            "en": "Playa de Cabopino"
+          },
+          "coords": [
+            -4.741961,
+            36.484365
+          ],
+          "category": "recreational",
+          "arrive_at": "11:03",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie das familienfreundliche flache Wasser dieses geschützten Strandes und kommen Sie früh, um einen Parkplatz in der Nähe des Yachthafens zu finden.",
+            "hu": "Élvezze ennek a védett strandnak a családbarát, sekély vizét és puha homokját, érkezzen korán, hogy parkolóhelyet találjon a gyönyörű kikötő közelében.",
+            "ro": "Bucurați-vă de apele puțin adânci și nisipul fin al acestei plaje, ajungând devreme pentru a găsi un loc de parcare aproape de frumosul port de agrement.",
+            "en": "Enjoy the family-friendly shallow waters and soft sand of this sheltered beach, arriving early to find a parking spot close to the beautiful marina."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Calahonda - Calahonda",
+            "hu": "Playa de Calahonda - Calahonda",
+            "ro": "Playa de Calahonda - Calahonda",
+            "en": "Playa de Calahonda - Calahonda"
+          },
+          "coords": [
+            -4.716609,
+            36.487337
+          ],
+          "category": "recreational",
+          "arrive_at": "12:09",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am goldenen Strand und mieten Sie vorab eine Sonnenliege, um Ihrer Familie den perfekten Platz zum Ausruhen zu sichern.",
+            "hu": "Pihenjen e tágas strand aranyhomokján, ahol a napágy előzetes bérlésével biztosíthatja a tökéletes helyet az egész család kikapcsolódásához.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje întinse, unde închirierea unui șezlong în avans garantează un loc perfect pentru relaxarea familiei.",
+            "en": "Relax on the golden sands of this expansive beach, where renting a sunbed in advance guarantees a perfect spot for your entire family to unwind."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de Calahonda",
+            "hu": "Torre de Calahonda",
+            "ro": "Torre de Calahonda",
+            "en": "Torre de Calahonda"
+          },
+          "coords": [
+            -4.711901,
+            36.487586
+          ],
+          "category": "tower",
+          "arrive_at": "13:11",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Küstenblick von diesem historischen Wachturm und kommen Sie früh, um das schöne Morgenlicht ohne viele Menschenmengen einzufangen.",
+            "hu": "Csodálja meg a tengerparti kilátást ebből a történelmi őrtoronyból, és érkezzen korán, hogy még a tömeg előtt elcsíphesse a gyönyörű reggeli fényeket.",
+            "ro": "Admirați priveliștea coastei de la acest turn de veghe istoric și ajungeți devreme pentru a surprinde lumina dimineții înainte de aglomerație.",
+            "en": "Admire the coastal views from this historical watchtower, and arrive early to capture the beautiful morning light before the crowds gather."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Calahonda - Rocas del Mar",
+            "hu": "Playa de Calahonda - Rocas del Mar",
+            "ro": "Playa de Calahonda - Rocas del Mar",
+            "en": "Playa de Calahonda - Rocas del Mar"
+          },
+          "coords": [
+            -4.698609,
+            36.490105
+          ],
+          "category": "recreational",
+          "arrive_at": "13:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die dramatischen Felsformationen am Meer und seien Sie vorsichtig, wenn Sie die Gezeitentümpel voller vielfältigen Meereslebewesen erkunden.",
+            "hu": "Fedezze fel a tengert szegélyező drámai sziklaképződményeket ezen a csendes helyen, és óvatosan járja be a tengeri élőlényekben gazdag árapály-medencéket.",
+            "ro": "Descoperiți formațiunile stâncoase dramatice de pe malul mării la acest loc liniștit, având grijă la bazinele cu maree pline de viață marină.",
+            "en": "Discover the dramatic rock formations bordering the sea at this quiet spot, taking care when exploring the tide pools that are rich with marine life."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour mit einem ruhigen Morgenspaziergang zwischen den geschützten Sanddünen des Artola-Naturdenkmals.\n\nMittags geht es weiter zur angrenzenden Torre Ladrones und dem familienfreundlichen Strand Cabopino.\n\nDie nachmittägliche Fahrt bringt Sie nach Osten zu den breiten Ufern des Playa de Calahonda und seinem historischen Turm.\n\nBeenden Sie Ihren Abend, indem Sie die Gezeiten in Rocas del Mar beobachten.",
+        "hu": "Kezdje autós túráját egy békés reggeli sétával az Artola természeti emlékmű védett homokdűnéi között.\n\nA déli órákban fedezze fel a szomszédos Torre Ladrones-t és a családbarát Cabopino strandot.\n\nA délutáni autózás kelet felé, a Playa de Calahonda széles partjaihoz és a történelmi toronyhoz visz.\n\nZárja az estét az árapály megfigyelésével az eldugott Rocas del Mar sziklás öblében.",
+        "ro": "Începeți turul auto cu o plimbare liniștită de dimineață printre dunele de nisip protejate din Artola.\n\nPrânzul vă găsește explorând adiacentul Torre Ladrones și plaja primitoare Cabopino.\n\nCondusul de după-amiază vă duce spre est, spre țărmurile largi ale plajei Calahonda, oprindu-vă la turnul său istoric.\n\nÎncheiați seara observând mareele blânde la retrasa destinație Rocas del Mar.",
+        "en": "Start your driving tour with a peaceful morning walk among the protected sand dunes of the Artola Natural Monument.\n\nMidday shifts gears as you explore the adjacent Torre Ladrones and the family-friendly Cabopino beach.\n\nThe afternoon drive takes you eastward to the broad shores of Playa de Calahonda, stopping by its namesake historic tower.\n\nConclude your evening observing the gentle tides at the secluded Rocas del Mar."
+      }
+    }
+  }
+}

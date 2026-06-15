@@ -1,0 +1,405 @@
+{
+  "city_id": "italy-aci-castello-cities-v2",
+  "anchor": {
+    "name": "Aci Castello",
+    "coords": [
+      15.14856,
+      37.55421
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:46",
+      "total_km": 1.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Zona C",
+            "hu": "Zona C",
+            "ro": "Zona C",
+            "en": "Zona C"
+          },
+          "coords": [
+            15.161265,
+            37.555983
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie den südlichen Rand des Meeresschutzgebiets, wo kristallklares Wasser auf vulkanische Felsformationen trifft, und tragen Sie feste Wasserschuhe.",
+            "hu": "Fedezze fel a tengeri rezervátum déli peremét, ahol a kristálytiszta víz vulkanikus sziklákkal találkozik, és hozzon magával jó minőségű vízicipőt a sétához.",
+            "ro": "Explorați marginea sudică a ariei marine protejate, unde apele cristaline se întâlnesc cu formațiunile vulcanice, și purtați încălțăminte de apă rezistentă.",
+            "en": "Explore the southern edge of the protected marine area where the crystal-clear waters meet volcanic rock formations, and bring good water shoes for safe access."
+          }
+        },
+        {
+          "name": {
+            "de": "Riviera deli Ciclopi",
+            "hu": "Riviera deli Ciclopi",
+            "ro": "Riviera deli Ciclopi",
+            "en": "Riviera deli Ciclopi"
+          },
+          "coords": [
+            15.160841,
+            37.559466
+          ],
+          "category": "natural",
+          "arrive_at": "10:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Basaltküste, die der Legende nach von einem Zyklopen erschaffen wurde, und kommen Sie früh, um die besten Fotomotive zu finden.",
+            "hu": "Csodálja meg a mítoszokkal átszőtt, küklopszok által dobált sziklákból álló bazaltpartot, és érkezzen korán, hogy megtalálja a legjobb fotós helyeket.",
+            "ro": "Admirați coasta de bazalt plină de mituri, formată din stânci aruncate de un ciclop, și ajungeți devreme pentru a vă asigura un loc perfect pentru fotografii.",
+            "en": "Admire the striking basalt coastline steeped in myth, supposedly formed by rocks thrown by a Cyclops, and arrive early to secure a prime spot for photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Area Marina Protetta Isole Ciclopi",
+            "hu": "Area Marina Protetta Isole Ciclopi",
+            "ro": "Area Marina Protetta Isole Ciclopi",
+            "en": "Area Marina Protetta Isole Ciclopi"
+          },
+          "coords": [
+            15.164456,
+            37.557533
+          ],
+          "category": "natural",
+          "arrive_at": "11:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die vielfältige Meeresfauna in diesem vulkanischen Unterwasserökosystem, indem Sie Schnorchelausrüstung bei den Händlern an der Promenade mieten.",
+            "hu": "Fedezze fel a változatos tengeri élővilágot ebben a vulkáni víz alatti ökoszisztémában, béreljen sznorkelfelszerelést a sétány menti helyi árusoktól.",
+            "ro": "Descoperiți viața marină diversă din acest ecosistem vulcanic subacvatic, închiriind echipament de snorkeling de la vânzătorii locali de pe promenadă.",
+            "en": "Discover diverse marine life thriving in this volcanic underwater ecosystem by renting snorkeling gear from nearby local vendors along the promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Riserva Naturale Integrale Isola Lachea e Faraglioni dei Ciclopi",
+            "hu": "Riserva Naturale Integrale Isola Lachea e Faraglioni dei Ciclopi",
+            "ro": "Riserva Naturale Integrale Isola Lachea e Faraglioni dei Ciclopi",
+            "en": "Riserva Naturale Integrale Isola Lachea e Faraglioni dei Ciclopi"
+          },
+          "coords": [
+            15.16594,
+            37.560861
+          ],
+          "category": "natural",
+          "arrive_at": "13:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Machen Sie eine Bootstour zu den markanten Klippen und der geschützten Insel, und fragen Sie den Reiseleiter unbedingt nach den endemischen Eidechsenarten.",
+            "hu": "Vegyen részt egy csónaktúrán, hogy megközelítse az ikonikus sziklákat és a védett szigetet, és mindenképpen kérdezze meg a vezetőt az endemikus gyíkokról.",
+            "ro": "Faceți o plimbare cu barca pentru a vă apropia de stâncile iconice și de insula protejată, și nu uitați să întrebați ghidul despre speciile endemice de șopârle.",
+            "en": "Take a small boat tour to approach the iconic sea stacks and the protected island ecosystem, making sure to ask the guide about the endemic local lizard species."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa del Nespolo",
+            "hu": "Casa del Nespolo",
+            "ro": "Casa del Nespolo",
+            "en": "Casa del Nespolo"
+          },
+          "coords": [
+            15.160982,
+            37.563288
+          ],
+          "category": "museum",
+          "arrive_at": "14:36",
+          "stay_min": 130,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem traditionellen Haus in die Welt von Vergas Roman 'I Malavoglia' ein und überprüfen Sie vorab unbedingt die Nachmittagsöffnungszeiten.",
+            "hu": "Lépjen be Verga 'I Malavoglia' című regényének világába ebben a hagyományos szicíliai házban, és előre ellenőrizze a délutáni nyitvatartási időt a látogatáshoz.",
+            "ro": "Pășiți în lumea romanului 'I Malavoglia' de Verga în această casă tradițională siciliană, și verificați în prealabil programul de funcționare de după-amiază.",
+            "en": "Step into the historic world of Giovanni Verga's famous novel 'I Malavoglia' in this traditional Sicilian house, and check the afternoon opening hours in advance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag in der Zona C, wo die zerklüftete Vulkanküste eine Einführung in die Schönheit von Aci Castello bietet. Mittags spazieren Sie entlang der Riviera deli Ciclopi und bewundern die dramatischen Klippen. Der Nachmittag ist der Erkundung der Meeresschutzgebiete und der Insel Lachea gewidmet. Beenden Sie Ihren gemütlichen Spaziergang mit einem literarischen Ausflug in die Casa del Nespolo.",
+        "hu": "Kezdje a napot a Zona C-ben, ahol a zord vulkanikus partvonal bevezetést nyújt Aci Castello szépségébe. Délben a legendás Riviera deli Ciclopi mentén sétál, csodálva a drámai tengeri sziklákat. A délutánt a védett tengeri területek felfedezésének és az Isola Lachea megközelítésének szenteljük. Zárja le a kényelmes sétát egy irodalmi elmélyüléssel a híres Casa del Nespolo épületében.",
+        "ro": "Începeți ziua la Zona C, unde coasta vulcanică accidentată oferă o introducere în frumusețea orașului Aci Castello. Până la prânz, veți rătăci de-a lungul Rivierei deli Ciclopi, admirând stâncile dramatice. După-amiaza este dedicată explorării ariilor marine protejate și apropierii de Isola Lachea. Încheiați turul de plimbare explorând istoria literară la fascinanta Casa del Nespolo.",
+        "en": "Begin your day at Zona C, where the rugged volcanic coastline offers an introduction to Aci Castello's raw beauty. By midday, you will wander along the legendary Riviera deli Ciclopi, admiring the dramatic sea stacks that shape the horizon. The afternoon is dedicated to exploring the protected marine areas and getting up close to Isola Lachea. Wrap up your leisurely walking tour delving into literature at Casa del Nespolo."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:36",
+      "total_km": 2.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "\"Danielino\" Windsurf School",
+            "hu": "\"Danielino\" Windsurf School",
+            "ro": "\"Danielino\" Windsurf School",
+            "en": "\"Danielino\" Windsurf School"
+          },
+          "coords": [
+            15.153048,
+            37.55862
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie die frische Küstenbrise und buchen Sie einen Windsurf-Kurs für Anfänger, aber denken Sie an ausreichend wasserfeste Sonnencreme für den Morgen.",
+            "hu": "Használja ki az élénk parti szelet egy kezdőknek szóló szörfoktatással, és kenje be magát bőségesen vízálló naptejjel egy vízen töltött délelőtt előtt.",
+            "ro": "Profitați de briza de coastă rezervând o lecție de windsurf pentru începători, și folosiți multă cremă de protecție solară rezistentă la apă pentru dimineață.",
+            "en": "Catch the lively coastal breeze by booking a windsurfing lesson tailored for beginners, and wear plenty of waterproof sunscreen for a full morning on the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido dei Ciclopi",
+            "hu": "Lido dei Ciclopi",
+            "ro": "Lido dei Ciclopi",
+            "en": "Lido dei Ciclopi"
+          },
+          "coords": [
+            15.156594,
+            37.559914
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie auf den Sonnenliegen mit Blick auf die dramatischen Klippen und reservieren Sie Ihren Sonnenschirm im Sommer online, um einen Platz zu sichern.",
+            "hu": "Pihenjen a kényelmes napozóágyakon a drámai tengeri sziklákra nézve, és a főszezonban foglalja le napernyőjét online, hogy garantáltan legyen helye.",
+            "ro": "Relaxați-vă pe șezlongurile confortabile cu vedere la stâncile dramatice, și rezervați-vă umbrela de soare online în timpul sezonului de vârf pentru siguranță.",
+            "en": "Relax on the comfortable sun loungers overlooking the dramatic sea stacks, and reserve your parasol online during the high summer season to guarantee a spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Zona A",
+            "hu": "Zona A",
+            "ro": "Zona A",
+            "en": "Zona A"
+          },
+          "coords": [
+            15.165978,
+            37.559844
+          ],
+          "category": "natural",
+          "arrive_at": "11:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beobachten Sie den streng geschützten Teil des Meeresschutzgebiets und bringen Sie ein Fernglas mit, um Seevögel zu sehen, die in das fischreiche Wasser tauchen.",
+            "hu": "Figyelje meg a tengeri rezervátum legszigorúbban védett részét, és hozzon magával távcsövet, hogy láthassa a halakban gazdag vízbe merülő tengeri madarakat.",
+            "ro": "Observați cea mai strict protejată secțiune a rezervației unde pescuitul este interzis, și aduceți binoclu pentru a vedea păsările marine plonjând în apă.",
+            "en": "Observe the most strictly protected section of the marine reserve where fishing is banned, and bring binoculars to spot seabirds diving into the rich waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Bothroi",
+            "hu": "Bothroi",
+            "ro": "Bothroi",
+            "en": "Bothroi"
+          },
+          "coords": [
+            15.166092,
+            37.561776
+          ],
+          "category": "historical",
+          "arrive_at": "13:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diese faszinierenden antiken Opfergruben oder historischen Brunnen, wobei Sie darauf achten müssen, die empfindlichen Überreste nicht zu stören.",
+            "hu": "Vizsgálja meg a terepbe vájt lenyűgöző ősi áldozati gödröket vagy történelmi kutakat, ügyelve arra, hogy ne tegyen kárt az érzékeny régészeti maradványokban.",
+            "ro": "Inspectați aceste gropi antice de ofrande sau fântâni istorice sculptate în teren, având grijă să nu deranjați rămășițele arheologice fragile de aici.",
+            "en": "Inspect these fascinating ancient offering pits or historical well formations carved into the terrain, taking care not to disturb the fragile archaeological remains."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santa Maria la Nova",
+            "hu": "Chiesa di Santa Maria la Nova",
+            "ro": "Chiesa di Santa Maria la Nova",
+            "en": "Chiesa di Santa Maria la Nova"
+          },
+          "coords": [
+            15.162361,
+            37.568639
+          ],
+          "category": "religious",
+          "arrive_at": "14:26",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schönen Fresken und die friedliche Atmosphäre dieser Kirche und denken Sie daran, vor dem Eintreten Schultern und Knie zu bedecken.",
+            "hu": "Csodálja meg e helyi templom gyönyörű freskóit és békés hangulatát, és ne feledje eltakarni a vállát és a térdét, mielőtt belépne a szent épületbe.",
+            "ro": "Admirați frescele frumoase și atmosfera senină a acestei biserici locale, amintindu-vă să purtați o ținută decentă care să vă acopere umerii și genunchii.",
+            "en": "Admire the beautiful frescoes and serene atmosphere of this local church, remembering to dress modestly covering your shoulders and knees before entering."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Fahrradabenteuer beginnt dynamisch an der Windsurfschule 'Danielino', wo Sie die lebhafte Morgenenergie aufnehmen. Mittags erreichen Sie das entspannte Ambiente des Lido dei Ciclopi, gefolgt von der stark geschützten Zona A. Am Nachmittag radeln Sie etwas landeinwärts, um die antiken Bothroi-Formationen zu erkunden. Die Reise endet elegant mit einem friedlichen Besuch der Chiesa di Santa Maria la Nova.",
+        "hu": "Kerékpáros kalandja dinamikusan indul a 'Danielino' Szörfiskolánál, magába szívva az élénk reggeli energiákat. A dél a Lido dei Ciclopi pihentető hangulatát hozza, majd a Zona A szigorúan védett partszakasza következik. Délután a szárazföld felé pedálozva megvizsgálhatja az ősi Bothroi formációkat. Az utazás elegánsan zárul a Chiesa di Santa Maria la Nova templomának békés meglátogatásával.",
+        "ro": "Aventura cu bicicleta începe dinamic la Școala de Windsurf 'Danielino', absorbind energia matinală. Prânzul vă aduce la atmosfera relaxantă de la Lido dei Ciclopi, urmată de fâșia de coastă puternic protejată din Zona A. După-amiaza, veți pedala spre interior pentru a investiga formațiunile antice Bothroi. Călătoria se încheie elegant cu o vizită pașnică la Chiesa di Santa Maria la Nova.",
+        "en": "Your cycling adventure kicks off dynamically at the 'Danielino' Windsurf School, absorbing the lively morning energy. Midday brings you to the relaxing ambiance of Lido dei Ciclopi, followed by the highly protected coastal strip of Zona A. In the afternoon, you will pedal slightly inland to investigate the ancient Bothroi formations. The journey elegantly concludes with a peaceful visit to Chiesa di Santa Maria la Nova."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:59",
+      "total_km": 4.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Lido La Giunca",
+            "hu": "Lido La Giunca",
+            "ro": "Lido La Giunca",
+            "en": "Lido La Giunca"
+          },
+          "coords": [
+            15.155438,
+            37.559512
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einem kurzen Bad an diesem beliebten Strandbad und nutzen Sie die frühen Morgenstunden, um problemlos einen Parkplatz zu finden.",
+            "hu": "Kezdje a napot egy gyors csobbanással ezen a népszerű strandon, és használja ki a kora reggeli órákat, hogy könnyen találjon parkolóhelyet a közelben.",
+            "ro": "Începeți ziua cu o baie rapidă la acest ștrand popular, și profitați de orele dimineții pentru a găsi cu ușurință un loc de parcare pe străzile din apropiere.",
+            "en": "Start your day by enjoying a quick dip at this popular recreational lido, and take advantage of the early morning hours to easily find nearby street parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Zona B",
+            "hu": "Zona B",
+            "ro": "Zona B",
+            "en": "Zona B"
+          },
+          "coords": [
+            15.169488,
+            37.559838
+          ],
+          "category": "natural",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie an der Küste dieser sekundären Schutzzone entlang und halten Sie Ihre Kamera bereit für atemberaubende Panoramablicke auf das Ionische Meer.",
+            "hu": "Sétáljon végig a tengeri park e másodlagos védelmi zónájának partvonalán, és tartsa készenlétben a fényképezőgépét a Jón-tenger lenyűgöző panorámájához.",
+            "ro": "Plimbați-vă de-a lungul coastei acestei zone secundare de protecție și țineți camera pregătită pentru priveliști panoramice uimitoare ale Mării Ionice.",
+            "en": "Stroll along the coastline of this secondary protection zone of the marine park, and keep your camera ready for stunning panoramic views of the Ionian Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Bothroi",
+            "hu": "Bothroi",
+            "ro": "Bothroi",
+            "en": "Bothroi"
+          },
+          "coords": [
+            15.166092,
+            37.561776
+          ],
+          "category": "historical",
+          "arrive_at": "11:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Halten Sie an, um diese historisch bedeutsamen Hohlräume zu untersuchen, und lesen Sie die Informationstafeln, um ihre antiken Ursprünge zu verstehen.",
+            "hu": "Álljon meg, hogy megvizsgálja a tájba vájt, történelmileg jelentős üregeket, és olvassa el a közeli információs táblákat ősi eredetük megértéséhez.",
+            "ro": "Opriți-vă pentru a examina aceste cavități semnificative istoric sculptate în peisaj, și citiți panourile informative pentru a le înțelege originile antice.",
+            "en": "Stop to examine these historically significant cavities etched into the landscape, and read the nearby information panels to fully understand their ancient origins."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa del Nespolo",
+            "hu": "Casa del Nespolo",
+            "ro": "Casa del Nespolo",
+            "en": "Casa del Nespolo"
+          },
+          "coords": [
+            15.160982,
+            37.563288
+          ],
+          "category": "museum",
+          "arrive_at": "13:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erleben Sie das authentische sizilianische Leben des 19. Jahrhunderts im Schauplatz von Vergas Roman und nehmen Sie an einer Führung teil, falls verfügbar.",
+            "hu": "Tapasztalja meg az autentikus 19. századi szicíliai életet Verga regényének helyszínén, és csatlakozzon egy vezetett túrához az irodalmi múlt megismeréséhez.",
+            "ro": "Experimentați viața siciliană autentică a secolului al XIX-lea în decorul romanului lui Verga, și alăturați-vă unui tur ghidat pentru a înțelege istoria literară.",
+            "en": "Experience authentic nineteenth-century Sicilian life in the very setting of Verga's novel, and join a guided tour if available to grasp the rich literary history."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa della Divina Misericordia",
+            "hu": "Chiesa della Divina Misericordia",
+            "ro": "Chiesa della Divina Misericordia",
+            "en": "Chiesa della Divina Misericordia"
+          },
+          "coords": [
+            15.14196,
+            37.574129
+          ],
+          "category": "religious",
+          "arrive_at": "14:49",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre kulturelle Route an dieser ruhigen, etwas weiter von der Küste entfernten Kirche und bewundern Sie die moderne Architektur im Abendlicht.",
+            "hu": "Zárja kulturális útvonalát ezen a nyugodt, a parttól kicsit távolabb fekvő vallási helyszínen, értékelve annak modern építészetét a lágy esti fényekben.",
+            "ro": "Încheiați-vă traseul la acest sit religios liniștit, situat puțin mai departe de coastă, apreciind arhitectura sa modernă în lumina blândă a serii.",
+            "en": "End your cultural route at this tranquil religious site situated slightly further from the coast, appreciating its modern architecture in the soft evening light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zum Lido La Giunca für einen erfrischenden Start und nutzen Sie die gut zugängliche Küste. Mittags fahren Sie in Richtung Zona B, um maritime Ausblicke zu genießen, und erkunden die antiken Bothroi-Ausgrabungen. Der Nachmittag bietet kulturelle Einblicke in der ikonischen Casa del Nespolo. Gegen Abend bringt Sie eine kurze Fahrt zur modernen Ruhe der Chiesa della Divina Misericordia.",
+        "hu": "Autózzon el a Lido La Giunca strandra egy frissítő tengerparti kezdésért, kihasználva a jól megközelíthető partot. Délben a Zona B felé veszi az irányt a panorámás kilátásért és az ősi Bothroi ásatásokért. A délután zökkenőmentesen vált át a Casa del Nespolo ikonikus kulturális értékének felfedezésébe. Ahogy közeledik az este, egy rövid út elviszi a Chiesa della Divina Misericordia modern nyugalmához.",
+        "ro": "Conduceți la Lido La Giunca pentru un început de coastă răcoros, profitând de țărmul accesibil. Până la prânz, veți naviga spre Zona B pentru vederi panoramice și veți explora excavațiile antice Bothroi. După-amiaza trece lin într-o apreciere culturală profundă la emblematica Casa del Nespolo. Spre seară, un scurt drum vă aduce la liniștea modernă a Chiesa della Divina Misericordia.",
+        "en": "Drive out to Lido La Giunca for a refreshing coastal start, making the most of the accessible shoreline. By midday, you will cruise towards Zona B to appreciate panoramic maritime views and explore the ancient Bothroi excavations. The afternoon smoothly transitions into deep cultural appreciation at the iconic Casa del Nespolo. As evening approaches, a short drive brings you to the modern tranquility of Chiesa della Divina Misericordia."
+      }
+    }
+  }
+}

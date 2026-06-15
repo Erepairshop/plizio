@@ -1,0 +1,428 @@
+{
+  "city_id": "greece-golden-beach-cities-v2",
+  "anchor": {
+    "name": "Golden Beach",
+    "coords": [
+      24.76,
+      40.73124
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:04",
+      "total_km": 2.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint Paraskevi",
+            "hu": "Szent Paraszkevi templom",
+            "ro": "Biserica Sfânta Parascheva",
+            "en": "Saint Paraskevi Church"
+          },
+          "coords": [
+            24.757449,
+            40.728748
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne traditionelle griechisch-orthodoxe Architektur dieser friedlichen Dorfkirche, aber denken Sie an bescheidene Kleidung.",
+            "hu": "Csodálja meg ennek a békés falusi templomnak a hagyományos görög ortodox építészetét, de belépés előtt ügyeljen a visszafogott öltözködésre.",
+            "ro": "Admirați frumoasa arhitectură tradițională ortodoxă greacă a acestei biserici rurale pașnice, dar asigurați-vă că purtați o ținută decentă.",
+            "en": "Admire the beautiful traditional Greek Orthodox architecture of this peaceful village church, but remember to dress modestly before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Touristenzug nach Skala Potamia",
+            "hu": "Kisvonat Skala Potamia felé",
+            "ro": "Trenuleț turistic spre Skala Potamia",
+            "en": "Great Fun Train way to sk.Potamia"
+          },
+          "coords": [
+            24.755604,
+            40.726249
+          ],
+          "category": "landmark",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Machen Sie eine entspannte Fahrt mit diesem malerischen Touristenzug nach Skala Potamia und kaufen Sie Ihre Tickets in der Hochsaison frühzeitig.",
+            "hu": "Tegyen egy pihentető utazást ezzel a festői kisvonattal Skala Potamia felé a tengerparti kilátásért, de főszezonban vegye meg előre a jegyet.",
+            "ro": "Bucurați-vă de o plimbare relaxantă cu acest trenuleț turistic pitoresc spre Skala Potamia pentru vederi de coastă, și cumpărați biletele din timp.",
+            "en": "Take a relaxing ride on this scenic tourist train to Skala Potamia to enjoy the coastline views, and buy your tickets early during peak season."
+          }
+        },
+        {
+          "name": {
+            "de": "Golden Beach",
+            "hu": "Golden Beach",
+            "ro": "Golden Beach",
+            "en": "Golden Beach"
+          },
+          "coords": [
+            24.759276,
+            40.721331
+          ],
+          "category": "recreational",
+          "arrive_at": "11:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spüren Sie den feinen, schimmernden Sand dieser weitläufigen Küste unter Ihren Füßen, wo eine Ankunft vor 10 Uhr die besten Sonnenliegen garantiert.",
+            "hu": "Süllyessze lábujjait e tágas és nyüzsgő partvonal finom, csillogó homokjába, ahol a délelőtt 10 óra előtti érkezés garantálja a legjobb napágyakat.",
+            "ro": "Scufundați-vă degetele în nisipul fin și strălucitor al acestei coaste întinse, unde sosirea înainte de ora 10 vă asigură cele mai bune șezlonguri.",
+            "en": "Sink your toes into the fine, shimmering sand of this expansive and vibrant coastline, where arriving before 10 AM guarantees the best sunbeds."
+          }
+        },
+        {
+          "name": {
+            "de": "Anapsukterio",
+            "hu": "Anapsukterio",
+            "ro": "Anapsukterio",
+            "en": "Anapsukterio"
+          },
+          "coords": [
+            24.757463,
+            40.719173
+          ],
+          "category": "recreational",
+          "arrive_at": "12:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Machen Sie eine erfrischende Pause an diesem gemütlichen Ort, um authentische Snacks zu probieren, und vergessen Sie nicht den frisch gepressten Orangensaft.",
+            "hu": "Tartson egy frissítő szünetet ezen a hangulatos helyi helyen, kóstolja meg a tengerparti falatokat, és mindenképp próbálja ki a frissen facsart narancslevet.",
+            "ro": "Luați o pauză revigorantă la acest local primitor pentru a gusta gustări autentice la malul mării și nu uitați să încercați sucul proaspăt de portocale.",
+            "en": "Take a refreshing break at this cozy local spot to taste authentic seaside snacks, and don't forget to try their freshly squeezed orange juice."
+          }
+        },
+        {
+          "name": {
+            "de": "Khruse Ammoudia",
+            "hu": "Khruse Ammoudia",
+            "ro": "Khruse Ammoudia",
+            "en": "Khruse Ammoudia"
+          },
+          "coords": [
+            24.760975,
+            40.730613
+          ],
+          "category": "recreational",
+          "arrive_at": "14:19",
+          "stay_min": 105,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang dieses faszinierenden goldenen Küstenstreifens für einen unvergesslichen Sonnenuntergang, aber bringen Sie eine leichte Jacke mit.",
+            "hu": "Sétáljon végig ezen a varázslatos aranyparton egy felejthetetlen naplemente erejéig, de hozzon magával egy könnyű dzsekit a hűvösebb esti szellő miatt.",
+            "ro": "Plimbați-vă de-a lungul acestei țărmuri aurii fermecătoare pentru un apus de soare de neuitat, dar luați o jachetă subțire, deoarece briza serii se întețește.",
+            "en": "Stroll along this mesmerizing stretch of golden shoreline for an unforgettable sunset view, but bring a light jacket as the evening breeze picks up."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit dem ruhigen Charme der Kirche Saint Paraskevi, bevor Sie mit dem Touristenzug fahren. Mittags lädt der berühmte Golden Beach zum Sonnenbaden und Schwimmen ein. Der Nachmittag bietet eine erfrischende Pause für lokale Snacks im Anapsukterio. Der Abend wird an der Khruse Ammoudia mit einem spektakulären Küstensonnenuntergang wunderschön abgerundet.",
+        "hu": "A reggel a Szent Paraszkevi templom csendes varázsának felfedezésével indul, majd a kisvonattal utazunk. A dél kéri, hogy a híres Golden Beach napsütésében és türkizkék vizében fürdőzzön. A délután egy frissítő megállót kínál a helyi falatokért az Anapsukterióban. Az estét a Khruse Ammoudia látványos tengerparti naplementéje zárja.",
+        "ro": "Dimineața începe explorând farmecul Bisericii Sfânta Parascheva, înainte de o plimbare cu trenulețul turistic. La amiază, plaja Golden Beach vă invită la soare și înot în apele turcoaz. După-amiaza oferă o oprire revigorantă pentru gustări locale la Anapsukterio. Seara se încheie la Khruse Ammoudia cu un apus de soare spectaculos pe coastă.",
+        "en": "Morning begins by exploring the quiet charm of Saint Paraskevi Church before taking a ride on the vibrant tourist train. Midday invites you to the famous Golden Beach to soak up the sun and swim in the shallow turquoise waters. Afternoon offers a refreshing stop for local seaside snacks at Anapsukterio. The evening wraps up beautifully at Khruse Ammoudia with a spectacular coastal sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:51",
+      "total_km": 5.55,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Khruse Ammoudia",
+            "hu": "Khruse Ammoudia",
+            "ro": "Khruse Ammoudia",
+            "en": "Khruse Ammoudia"
+          },
+          "coords": [
+            24.760975,
+            40.730613
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang dieses faszinierenden goldenen Küstenstreifens für einen unvergesslichen Sonnenuntergang, aber bringen Sie eine leichte Jacke mit.",
+            "hu": "Sétáljon végig ezen a varázslatos aranyparton egy felejthetetlen naplemente erejéig, de hozzon magával egy könnyű dzsekit a hűvösebb esti szellő miatt.",
+            "ro": "Plimbați-vă de-a lungul acestei țărmuri aurii fermecătoare pentru un apus de soare de neuitat, dar luați o jachetă subțire, deoarece briza serii se întețește.",
+            "en": "Stroll along this mesmerizing stretch of golden shoreline for an unforgettable sunset view, but bring a light jacket as the evening breeze picks up."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint Paraskevi",
+            "hu": "Szent Paraszkevi templom",
+            "ro": "Biserica Sfânta Parascheva",
+            "en": "Saint Paraskevi Church"
+          },
+          "coords": [
+            24.757449,
+            40.728748
+          ],
+          "category": "religious",
+          "arrive_at": "10:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne traditionelle griechisch-orthodoxe Architektur dieser friedlichen Dorfkirche, aber denken Sie an bescheidene Kleidung.",
+            "hu": "Csodálja meg ennek a békés falusi templomnak a hagyományos görög ortodox építészetét, de belépés előtt ügyeljen a visszafogott öltözködésre.",
+            "ro": "Admirați frumoasa arhitectură tradițională ortodoxă greacă a acestei biserici rurale pașnice, dar asigurați-vă că purtați o ținută decentă.",
+            "en": "Admire the beautiful traditional Greek Orthodox architecture of this peaceful village church, but remember to dress modestly before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Golden Beach",
+            "hu": "Golden Beach",
+            "ro": "Golden Beach",
+            "en": "Golden Beach"
+          },
+          "coords": [
+            24.759276,
+            40.721331
+          ],
+          "category": "recreational",
+          "arrive_at": "11:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spüren Sie den feinen, schimmernden Sand dieser weitläufigen Küste unter Ihren Füßen, wo eine Ankunft vor 10 Uhr die besten Sonnenliegen garantiert.",
+            "hu": "Süllyessze lábujjait e tágas és nyüzsgő partvonal finom, csillogó homokjába, ahol a délelőtt 10 óra előtti érkezés garantálja a legjobb napágyakat.",
+            "ro": "Scufundați-vă degetele în nisipul fin și strălucitor al acestei coaste întinse, unde sosirea înainte de ora 10 vă asigură cele mai bune șezlonguri.",
+            "en": "Sink your toes into the fine, shimmering sand of this expansive and vibrant coastline, where arriving before 10 AM guarantees the best sunbeds."
+          }
+        },
+        {
+          "name": {
+            "de": "Khruse Akte",
+            "hu": "Khruse Akte",
+            "ro": "Khruse Akte",
+            "en": "Khruse Akte"
+          },
+          "coords": [
+            24.760651,
+            40.708781
+          ],
+          "category": "recreational",
+          "arrive_at": "12:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem unberührten, weniger überlaufenen Strandabschnitt und lauschen Sie den Wellen, aber bringen Sie am besten eigenes Wasser mit.",
+            "hu": "Pihenjen ezen az érintetlen, kevésbé zsúfolt partszakaszon a hullámokat hallgatva, bár érdemes saját vizet és nassolnivalót is csomagolnia.",
+            "ro": "Relaxați-vă pe această porțiune de plajă virgină, mai puțin aglomerată, pentru a asculta valurile, deși ar trebui să vă aduceți propriile gustări.",
+            "en": "Relax at this pristine, less crowded section of the beach to listen to the soothing waves, though you should pack your own water and snacks."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Ioannis",
+            "hu": "Agios Ioannis",
+            "ro": "Agios Ioannis",
+            "en": "Agios Ioannis"
+          },
+          "coords": [
+            24.773484,
+            40.73452
+          ],
+          "category": "recreational",
+          "arrive_at": "14:06",
+          "stay_min": 105,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese ruhige, abgelegene Bucht, die sich ideal zum Schnorcheln eignet, aber tragen Sie unbedingt Badeschuhe zum Schutz vor den Felsen.",
+            "hu": "Fedezze fel ezt az eldugott, nyugodt öblöt, amely ideális a búvárkodáshoz, de a sziklák miatt mindenképpen viseljen megfelelő vizicipőt.",
+            "ro": "Descoperiți acest golf izolat, ideal pentru snorkeling printre creaturile marine, dar asigurați-vă că purtați încălțăminte de apă pentru protecție.",
+            "en": "Discover this secluded, serene cove ideal for snorkeling among vibrant marine life, but definitely wear water shoes to protect your feet from the rocks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radeltag im Morgenlicht der Khruse Ammoudia, bevor Sie zur Kirche Saint Paraskevi fahren. Der Mittag ist perfekt zum Ausruhen und Schwimmen am zentralen Golden Beach. Am Nachmittag radeln Sie nach Süden zu den ruhigeren Ufern der Khruse Akte. Wenn der Abend naht, bietet die abgelegene Bucht von Agios Ioannis einen ungestörten Rückzugsort.",
+        "hu": "Kezdje a kerékpáros napot a Khruse Ammoudia reggeli fényeiben, majd tekerjen a Szent Paraszkevi templomhoz. A dél tökéletes a pihenésre a Golden Beach központi részén. Délután tekerjen dél felé a Khruse Akte csendesebb partjaihoz, hogy elkerülje a tömeget. Ahogy leszáll az este, Agios Ioannis eldugott öble csendes természetes menedéket nyújt.",
+        "ro": "Începeți ziua de ciclism cu lumina dimineții la Khruse Ammoudia, apoi pedalați spre Biserica Sfânta Parascheva. Amiaza este perfectă pentru a vă odihni la Golden Beach. După-amiaza, mergeți spre sud către țărmurile mai liniștite din Khruse Akte pentru a scăpa de aglomerație. Seara, golful izolat Agios Ioannis oferă o retragere naturală plină de pace.",
+        "en": "Start your cycling day with the morning glow at Khruse Ammoudia, then pedal to admire the heritage of Saint Paraskevi Church. Midday is perfect for resting and swimming at the central stretch of Golden Beach. In the afternoon, cycle south towards the quieter shores of Khruse Akte to escape the crowds. As evening falls, the secluded bay of Agios Ioannis provides a serene natural retreat."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 6.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint Charalambos",
+            "hu": "Szent Charalambos templom",
+            "ro": "Biserica Sfântul Charalambos",
+            "en": "Saint Charalambos Church"
+          },
+          "coords": [
+            24.74172,
+            40.731746
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese malerische Kirche, die einen atemberaubenden Panoramablick über die Bucht bietet, und bringen Sie eine Kamera für das tolle Morgenlicht mit.",
+            "hu": "Látogasson el ehhez a festői hegytetőn álló templomhoz, ahonnan lenyűgöző panoráma nyílik az öbölre, és hozzon fényképezőgépet a reggeli fényekhez.",
+            "ro": "Vizitați această biserică pitorească de pe deal pentru o panoramă uimitoare asupra întregului golf și aduceți o cameră pentru lumina spectaculoasă a dimineții.",
+            "en": "Visit this picturesque hilltop church offering stunning panoramic views of the entire bay, and bring a camera to capture the spectacular morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Drachenhöhle Drakotrypa",
+            "hu": "Drakotrypa Barlang",
+            "ro": "Peștera Drakotrypa",
+            "en": "Cave Drakotrypa"
+          },
+          "coords": [
+            24.731668,
+            40.732083
+          ],
+          "category": "landmark",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Tropfsteine der Drachenhöhle am üppigen Berghang und tragen Sie festes Schuhwerk, da der Weg rutschig sein kann.",
+            "hu": "Fedezze fel a buja hegyoldalban megbúvó \"Sárkánybarlang\" lenyűgöző cseppköveit, és viseljen masszív cipőt, mivel az ösvény csúszós lehet.",
+            "ro": "Explorați stalactitele fascinante ale \"Peșterii Dragonului\" ascunsă pe versantul luxuriant și purtați încălțăminte rezistentă deoarece poteca este alunecoasă.",
+            "en": "Explore the fascinating stalactites of the \"Dragon's Cave\" tucked away in the lush mountainside, and wear sturdy shoes as the path can be slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Saliara - Marble Beach",
+            "hu": "Saliara - Márványpart",
+            "ro": "Saliara - Marble Beach",
+            "en": "Saliara - Marble Beach"
+          },
+          "coords": [
+            24.748203,
+            40.750488
+          ],
+          "category": "recreational",
+          "arrive_at": "11:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die weißen Marmorkiesel, die mit dem türkisfarbenen Wasser dieser Bucht kontrastieren, aber kommen Sie früh, um einen Parkplatz zu finden.",
+            "hu": "Csodálja meg a vakítóan fehér márványkavicsokat és a türkizkék vizet ebben az egzotikus öbölben, de érkezzen nagyon korán a parkolóhely miatt.",
+            "ro": "Admirați pietricelele de marmură albă care contrastează cu apele turcoaz la acest golf exotic, dar ajungeți foarte devreme pentru a găsi parcare.",
+            "en": "Marvel at the blindingly white marble pebbles contrasting with turquoise waters at this exotic bay, but arrive very early to secure a parking spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Porto Bathu",
+            "hu": "Porto Bathu",
+            "ro": "Porto Bathu",
+            "en": "Porto Bathu"
+          },
+          "coords": [
+            24.751522,
+            40.747058
+          ],
+          "category": "recreational",
+          "arrive_at": "12:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schwimmen Sie im kristallklaren, tiefen Wasser dieser herrlich rauen Küstenbucht, wo ein kleines Boot der beste Weg ist, um versteckte Ecken zu erkunden.",
+            "hu": "Ússzon egyet ennek a gyönyörű, vadregényes tengerparti öbölnek a kristálytiszta, mély vizében, ahol egy kis csónak bérlése a legjobb a felfedezéshez.",
+            "ro": "Înotați în apele adânci și cristaline ale acestui golf stâncos frumos, unde închirierea unei bărci mici este cea mai bună modalitate de explorare.",
+            "en": "Swim in the crystal-clear, deep waters of this beautifully rugged coastal inlet, where renting a small boat is the best way to explore the hidden corners."
+          }
+        },
+        {
+          "name": {
+            "de": "Vathi",
+            "hu": "Vathi",
+            "ro": "Vathi",
+            "en": "Vathi"
+          },
+          "coords": [
+            24.767703,
+            40.744345
+          ],
+          "category": "recreational",
+          "arrive_at": "13:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen an diesem idyllischen, von Kiefern gesäumten Strand, der absolute Ruhe bietet, auch wenn die Zufahrt Vorsicht erfordert.",
+            "hu": "Meneküljön el a tömeg elől erre az idilli, fenyőkkel szegélyezett strandra, amely teljes nyugalmat kínál, bár a földút óvatos vezetést igényel.",
+            "ro": "Scăpați de aglomerație la această plajă idilică mărginită de pini, deși drumul de acces necesită condus atent pe un teren neasfaltat.",
+            "en": "Escape the crowds at this idyllic, pine-fringed beach that offers absolute tranquility, though the access road requires careful driving on unpaved terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Khruse Ammoudia",
+            "hu": "Khruse Ammoudia",
+            "ro": "Khruse Ammoudia",
+            "en": "Khruse Ammoudia"
+          },
+          "coords": [
+            24.760975,
+            40.730613
+          ],
+          "category": "recreational",
+          "arrive_at": "15:10",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang dieses faszinierenden goldenen Küstenstreifens für einen unvergesslichen Sonnenuntergang, aber bringen Sie eine leichte Jacke mit.",
+            "hu": "Sétáljon végig ezen a varázslatos aranyparton egy felejthetetlen naplemente erejéig, de hozzon magával egy könnyű dzsekit a hűvösebb esti szellő miatt.",
+            "ro": "Plimbați-vă de-a lungul acestei țărmuri aurii fermecătoare pentru un apus de soare de neuitat, dar luați o jachetă subțire, deoarece briza serii se întețește.",
+            "en": "Stroll along this mesmerizing stretch of golden shoreline for an unforgettable sunset view, but bring a light jacket as the evening breeze picks up."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Roadtrip beginnt an der Kirche Saint Charalambos, bevor Sie in die Geheimnisse der Drachenhöhle eintauchen. Mittags erreichen Sie den Saliara Marble Beach, wo weiße Kiesel auf blaues Wasser treffen. Der Nachmittag wird mit tiefen Sprüngen in Porto Bathu und Vathi verbracht. Runden Sie die Reise mit einer lebhaften Abendatmosphäre an der Khruse Ammoudia ab.",
+        "hu": "Autós túrája a panorámás Szent Charalambos templomnál kezdődik, mielőtt felfedezné a Drakotrypa barlang titkait. Délben a lenyűgöző Saliara Márványpart következik, ahol a fehér kavicsok találkoznak a kék vízzel. A délután mélyvízi úszással telik Porto Bathu és Vathi zord öbleiben. Zárja az utazást Khruse Ammoudia nyüzsgő esti hangulatával.",
+        "ro": "Călătoria începe la Biserica Sfântul Charalambos, înainte de a explora Peștera Drakotrypa. La prânz veți vizita uimitoarea plajă Saliara, unde pietricelele albe întâlnesc ape albastre incredibile. După-amiaza continuă cu înot în apele adânci din Porto Bathu și Vathi. Încheiați ziua cu o atmosferă de seară vibrantă la Khruse Ammoudia.",
+        "en": "Your road trip starts at the panoramic Saint Charalambos Church before delving into the mysteries of Cave Drakotrypa. Midday takes you to the stunning Saliara Marble Beach, where white pebbles meet incredibly blue waters. Afternoon continues with deep-water swims at the rugged inlets of Porto Bathu and Vathi. Wrap up the journey with a vibrant evening atmosphere at Khruse Ammoudia."
+      }
+    }
+  }
+}

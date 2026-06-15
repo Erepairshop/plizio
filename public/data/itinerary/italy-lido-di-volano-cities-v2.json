@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-lido-di-volano-cities-v2",
+  "anchor": {
+    "name": "Lido di Volano",
+    "coords": [
+      12.26178,
+      44.79843
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:05",
+      "total_km": 0.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cormorano",
+            "hu": "Cormorano",
+            "ro": "Cormorano",
+            "en": "Cormorano"
+          },
+          "coords": [
+            12.272297,
+            44.802316
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im Cormorano, wo hervorragende Liegestühle und eine frische Meeresbrise dazu einladen, in der Hochsaison im Voraus zu buchen.",
+            "hu": "Pihenjen a Cormoranóban, ahol kiváló napágyak és frissítő tengeri szellő várja, ezért érdemes főszezonban előre foglalni.",
+            "ro": "Relaxați-vă la Cormorano, unde șezlongurile excelente și briza mării vă invită să rezervați din timp în plin sezon.",
+            "en": "Relax at Cormorano, where excellent sunbed services and a refreshing sea breeze invite you to book ahead during high season."
+          }
+        },
+        {
+          "name": {
+            "de": "New Age",
+            "hu": "New Age",
+            "ro": "New Age",
+            "en": "New Age"
+          },
+          "coords": [
+            12.271586,
+            44.80049
+          ],
+          "category": "recreational",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die moderne Küstenatmosphäre im New Age Beach Club, der großartige Cocktails und viel Platz für Familien bietet.",
+            "hu": "Tapasztalja meg a New Age strandklub modern tengerparti hangulatát, amely nagyszerű koktélokkal és tágas terekkel várja a családokat.",
+            "ro": "Experimentați atmosfera modernă de coastă la clubul New Age, care oferă cocktailuri excelente și mult spațiu pentru familii.",
+            "en": "Experience the modern coastal vibe of New Age beach club, featuring great cocktails and plenty of space for families to unwind."
+          }
+        },
+        {
+          "name": {
+            "de": "Franco",
+            "hu": "Franco",
+            "ro": "Franco",
+            "en": "Franco"
+          },
+          "coords": [
+            12.27071,
+            44.79957
+          ],
+          "category": "recreational",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie Bagno Franco für seine traditionelle italienische Strandatmosphäre, die es zu einem idealen Ort für einen Kaffee macht.",
+            "hu": "Látogasson el a Bagno Francóba, amely hagyományos olasz strandhangulatot kínál, és tökéletes egy délelőtti kávézásra.",
+            "ro": "Vizitați Bagno Franco pentru atmosfera sa tradițională italiană de plajă, fiind un loc ideal pentru o cafea de dimineață.",
+            "en": "Visit Bagno Franco for its welcoming, traditional Italian beach atmosphere, making it a reliable spot for a mid-morning coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Nelson",
+            "hu": "Nelson",
+            "ro": "Nelson",
+            "en": "Nelson"
+          },
+          "coords": [
+            12.270227,
+            44.798664
+          ],
+          "category": "recreational",
+          "arrive_at": "13:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Nelson bietet erstklassige Annehmlichkeiten und eine ruhige Umgebung, also schnappen Sie sich eine Liege für die besten Nachmittagsaussichten.",
+            "hu": "A Nelson első osztályú kényelmet és nyugodt környezetet kínál, így érdemes napágyat bérelni a legjobb délutáni kilátásért.",
+            "ro": "Nelson oferă facilități excelente și un mediu liniștit, așa că luați un șezlong pentru a vă bucura de cele mai bune priveliști de după-amiază.",
+            "en": "Nelson offers top-tier seaside amenities and a tranquil environment, so grab a beachfront lounger to enjoy the best afternoon views."
+          }
+        },
+        {
+          "name": {
+            "de": "Ristoro",
+            "hu": "Ristoro",
+            "ro": "Ristoro",
+            "en": "Ristoro"
+          },
+          "coords": [
+            12.269023,
+            44.797146
+          ],
+          "category": "recreational",
+          "arrive_at": "14:20",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Halten Sie am Ristoro für einen schnellen, köstlichen Meeresfrüchte-Snack direkt am Wasser mit einem tollen lokalen Menü.",
+            "hu": "Álljon meg a Ristoróban egy gyors, finom tengeri falatra közvetlenül a vízparton, és próbálja ki a kiváló helyi menüt.",
+            "ro": "Opriți-vă la Ristoro pentru o gustare delicioasă de fructe de mare pe malul apei, savurând un meniu local de excepție.",
+            "en": "Stop at Ristoro for a quick, delicious seafood bite right by the water, offering an unpretentious but highly satisfying local menu."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der frischen Adrialuft an den nördlichen Sandstränden.\n\nMittags lockt ein entspanntes Meeresfrüchte-Mittagessen in einem der einladenden Strandclubs.\n\nAm Nachmittag können Sie gemütlich am unberührten Ufer entlang spazieren und die sanften Wellen genießen.\n\nDer Tag endet mit einem wunderschönen Sonnenuntergang und einem erfrischenden Aperitif auf der Terrasse.",
+        "hu": "Kezdje a reggelt a friss adriai levegővel az északi homokos partszakaszokon.\n\nDélben egy pihentető tengeri ebédet fogyaszthat el a barátságos strandklubok egyikében.\n\nA délután folyamán sétáljon végig a festői parton, és élvezze a lágy hullámokat.\n\nA napot egy gyönyörű naplemente és egy frissítő aperitif zárja a teraszon.",
+        "ro": "Începeți dimineața respirând aerul proaspăt al Mării Adriatice pe plajele nordice.\n\nLa amiază, savurați un prânz relaxant cu fructe de mare la unul dintre cluburile de pe plajă.\n\nPe măsură ce după-amiaza se desfășoară, plimbați-vă de-a lungul țărmului și bucurați-vă de valurile blânde.\n\nZiua se încheie cu un apus superb și un aperitiv revigorant pe terasă.",
+        "en": "Begin your morning by breathing in the fresh Adriatic air along the northern sands.\n\nMidday invites a relaxed seafood lunch at one of the welcoming beach clubs.\n\nAs the afternoon unfolds, stroll along the pristine shoreline and enjoy the gentle waves.\n\nThe day ends with a beautiful sunset and a refreshing aperitivo on the seaside terrace."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:52",
+      "total_km": 1.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "spiaggia libera",
+            "hu": "spiaggia libera",
+            "ro": "spiaggia libera",
+            "en": "spiaggia libera"
+          },
+          "coords": [
+            12.274842,
+            44.804617
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die ungezähmte Schönheit dieses freien Strandabschnitts, der perfekt ist, um früh am Tag Ihren eigenen Schirm aufzustellen.",
+            "hu": "Élvezze a szabad strand érintetlen szépségét, amely tökéletes arra, hogy kora reggel felállítsa a saját napernyőjét és lazítson.",
+            "ro": "Bucurați-vă de frumusețea sălbatică a acestei plaje libere, perfectă pentru a vă instala propria umbrelă dis-de-dimineață.",
+            "en": "Enjoy the untamed beauty of this free beach area, perfect for setting up your own umbrella and relaxing early in the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Cormorano",
+            "hu": "Cormorano",
+            "ro": "Cormorano",
+            "en": "Cormorano"
+          },
+          "coords": [
+            12.272297,
+            44.802316
+          ],
+          "category": "recreational",
+          "arrive_at": "10:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im Cormorano, wo hervorragende Liegestühle und eine frische Meeresbrise dazu einladen, in der Hochsaison im Voraus zu buchen.",
+            "hu": "Pihenjen a Cormoranóban, ahol kiváló napágyak és frissítő tengeri szellő várja, ezért érdemes főszezonban előre foglalni.",
+            "ro": "Relaxați-vă la Cormorano, unde șezlongurile excelente și briza mării vă invită să rezervați din timp în plin sezon.",
+            "en": "Relax at Cormorano, where excellent sunbed services and a refreshing sea breeze invite you to book ahead during high season."
+          }
+        },
+        {
+          "name": {
+            "de": "Franco",
+            "hu": "Franco",
+            "ro": "Franco",
+            "en": "Franco"
+          },
+          "coords": [
+            12.27071,
+            44.79957
+          ],
+          "category": "recreational",
+          "arrive_at": "11:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie Bagno Franco für seine traditionelle italienische Strandatmosphäre, die es zu einem idealen Ort für einen Kaffee macht.",
+            "hu": "Látogasson el a Bagno Francóba, amely hagyományos olasz strandhangulatot kínál, és tökéletes egy délelőtti kávézásra.",
+            "ro": "Vizitați Bagno Franco pentru atmosfera sa tradițională italiană de plajă, fiind un loc ideal pentru o cafea de dimineață.",
+            "en": "Visit Bagno Franco for its welcoming, traditional Italian beach atmosphere, making it a reliable spot for a mid-morning coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Nelson",
+            "hu": "Nelson",
+            "ro": "Nelson",
+            "en": "Nelson"
+          },
+          "coords": [
+            12.270227,
+            44.798664
+          ],
+          "category": "recreational",
+          "arrive_at": "12:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Nelson bietet erstklassige Annehmlichkeiten und eine ruhige Umgebung, also schnappen Sie sich eine Liege für die besten Nachmittagsaussichten.",
+            "hu": "A Nelson első osztályú kényelmet és nyugodt környezetet kínál, így érdemes napágyat bérelni a legjobb délutáni kilátásért.",
+            "ro": "Nelson oferă facilități excelente și un mediu liniștit, așa că luați un șezlong pentru a vă bucura de cele mai bune priveliști de după-amiază.",
+            "en": "Nelson offers top-tier seaside amenities and a tranquil environment, so grab a beachfront lounger to enjoy the best afternoon views."
+          }
+        },
+        {
+          "name": {
+            "de": "Azzurra",
+            "hu": "Azzurra",
+            "ro": "Azzurra",
+            "en": "Azzurra"
+          },
+          "coords": [
+            12.267975,
+            44.795847
+          ],
+          "category": "recreational",
+          "arrive_at": "13:17",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bagno Azzurra bietet kristallklares Wasser und fantastische familienfreundliche Einrichtungen für einen unbeschwerten Tag.",
+            "hu": "A Bagno Azzurra kristálytiszta vízzel és fantasztikus családbarát létesítményekkel biztosítja, hogy mindenki élvezze a parton töltött időt.",
+            "ro": "Bagno Azzurra oferă ape limpezi și facilități fantastice pentru familii, asigurându-se că toată lumea se distrează la plajă.",
+            "en": "Bagno Azzurra provides crystal clear waters and fantastic family-friendly facilities, ensuring everyone enjoys their time by the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Virna Beach",
+            "hu": "Virna Beach",
+            "ro": "Virna Beach",
+            "en": "Virna Beach"
+          },
+          "coords": [
+            12.26556,
+            44.792756
+          ],
+          "category": "recreational",
+          "arrive_at": "14:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die elegante Entspannung am Virna Beach, wo weit auseinander stehende Schirme einen ruhigen Rückzugsort bieten.",
+            "hu": "Fedezze fel a Virna Beach elegáns nyugalmát, ahol a szellősen elhelyezett napernyők csendes menedéket nyújtanak a tömeg elől.",
+            "ro": "Descoperiți relaxarea elegantă de la Virna Beach, unde umbrelele bine spațiate oferă un refugiu liniștit de aglomerație.",
+            "en": "Discover the elegant relaxation of Virna Beach, where well-spaced parasols offer a quiet retreat from the bustling summer crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Isa",
+            "hu": "Isa",
+            "ro": "Isa",
+            "en": "Isa"
+          },
+          "coords": [
+            12.263254,
+            44.790131
+          ],
+          "category": "recreational",
+          "arrive_at": "15:22",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag am Isa, der für seinen feinen Sand und seine wunderbare Gastfreundschaft bei einem Aperitif bekannt ist.",
+            "hu": "Zárja napját az Isában, amely finom homokjáról és csodálatos vendégszeretetéről híres, tökéletes hely egy esti aperitifhez.",
+            "ro": "Încheiați-vă ziua la Isa, cunoscut pentru nisipul său fin și ospitalitatea minunată, ideal pentru un aperitiv de seară.",
+            "en": "Conclude your sunny day at Isa, known for its pristine sands and wonderful hospitality, perfectly enjoyed with an evening aperitivo."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der frischen Adrialuft an den nördlichen Sandstränden.\n\nMittags lockt ein entspanntes Meeresfrüchte-Mittagessen in einem der einladenden Strandclubs.\n\nAm Nachmittag können Sie gemütlich am unberührten Ufer entlang spazieren und die sanften Wellen genießen.\n\nDer Tag endet mit einem wunderschönen Sonnenuntergang und einem erfrischenden Aperitif auf der Terrasse.",
+        "hu": "Kezdje a reggelt a friss adriai levegővel az északi homokos partszakaszokon.\n\nDélben egy pihentető tengeri ebédet fogyaszthat el a barátságos strandklubok egyikében.\n\nA délután folyamán sétáljon végig a festői parton, és élvezze a lágy hullámokat.\n\nA napot egy gyönyörű naplemente és egy frissítő aperitif zárja a teraszon.",
+        "ro": "Începeți dimineața respirând aerul proaspăt al Mării Adriatice pe plajele nordice.\n\nLa amiază, savurați un prânz relaxant cu fructe de mare la unul dintre cluburile de pe plajă.\n\nPe măsură ce după-amiaza se desfășoară, plimbați-vă de-a lungul țărmului și bucurați-vă de valurile blânde.\n\nZiua se încheie cu un apus superb și un aperitiv revigorant pe terasă.",
+        "en": "Begin your morning by breathing in the fresh Adriatic air along the northern sands.\n\nMidday invites a relaxed seafood lunch at one of the welcoming beach clubs.\n\nAs the afternoon unfolds, stroll along the pristine shoreline and enjoy the gentle waves.\n\nThe day ends with a beautiful sunset and a refreshing aperitivo on the seaside terrace."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:48",
+      "total_km": 1.85,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "spiaggia libera",
+            "hu": "spiaggia libera",
+            "ro": "spiaggia libera",
+            "en": "spiaggia libera"
+          },
+          "coords": [
+            12.274842,
+            44.804617
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die ungezähmte Schönheit dieses freien Strandabschnitts, der perfekt ist, um früh am Tag Ihren eigenen Schirm aufzustellen.",
+            "hu": "Élvezze a szabad strand érintetlen szépségét, amely tökéletes arra, hogy kora reggel felállítsa a saját napernyőjét és lazítson.",
+            "ro": "Bucurați-vă de frumusețea sălbatică a acestei plaje libere, perfectă pentru a vă instala propria umbrelă dis-de-dimineață.",
+            "en": "Enjoy the untamed beauty of this free beach area, perfect for setting up your own umbrella and relaxing early in the day."
+          }
+        },
+        {
+          "name": {
+            "de": "New Age",
+            "hu": "New Age",
+            "ro": "New Age",
+            "en": "New Age"
+          },
+          "coords": [
+            12.271586,
+            44.80049
+          ],
+          "category": "recreational",
+          "arrive_at": "10:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erleben Sie die moderne Küstenatmosphäre im New Age Beach Club, der großartige Cocktails und viel Platz für Familien bietet.",
+            "hu": "Tapasztalja meg a New Age strandklub modern tengerparti hangulatát, amely nagyszerű koktélokkal és tágas terekkel várja a családokat.",
+            "ro": "Experimentați atmosfera modernă de coastă la clubul New Age, care oferă cocktailuri excelente și mult spațiu pentru familii.",
+            "en": "Experience the modern coastal vibe of New Age beach club, featuring great cocktails and plenty of space for families to unwind."
+          }
+        },
+        {
+          "name": {
+            "de": "Ristoro",
+            "hu": "Ristoro",
+            "ro": "Ristoro",
+            "en": "Ristoro"
+          },
+          "coords": [
+            12.269023,
+            44.797146
+          ],
+          "category": "recreational",
+          "arrive_at": "11:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Halten Sie am Ristoro für einen schnellen, köstlichen Meeresfrüchte-Snack direkt am Wasser mit einem tollen lokalen Menü.",
+            "hu": "Álljon meg a Ristoróban egy gyors, finom tengeri falatra közvetlenül a vízparton, és próbálja ki a kiváló helyi menüt.",
+            "ro": "Opriți-vă la Ristoro pentru o gustare delicioasă de fructe de mare pe malul apei, savurând un meniu local de excepție.",
+            "en": "Stop at Ristoro for a quick, delicious seafood bite right by the water, offering an unpretentious but highly satisfying local menu."
+          }
+        },
+        {
+          "name": {
+            "de": "Ipanema",
+            "hu": "Ipanema",
+            "ro": "Ipanema",
+            "en": "Ipanema"
+          },
+          "coords": [
+            12.266767,
+            44.794315
+          ],
+          "category": "recreational",
+          "arrive_at": "12:16",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spüren Sie den lebhaften Rhythmus im Ipanema Beach Club, einem beliebten Ziel für Drinks bei Sonnenuntergang.",
+            "hu": "Érezze az Ipanema strandklub élénk ritmusát, amely népszerű célpont a naplementés koktélozásokhoz és az ismerkedéshez.",
+            "ro": "Simțiți ritmul plin de viață de la clubul Ipanema, o destinație populară pentru băuturi la apus și socializare.",
+            "en": "Feel the lively rhythm at Ipanema beach club, a popular destination for sunset drinks and socializing with both locals and tourists."
+          }
+        },
+        {
+          "name": {
+            "de": "Virna Beach",
+            "hu": "Virna Beach",
+            "ro": "Virna Beach",
+            "en": "Virna Beach"
+          },
+          "coords": [
+            12.26556,
+            44.792756
+          ],
+          "category": "recreational",
+          "arrive_at": "13:17",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die elegante Entspannung am Virna Beach, wo weit auseinander stehende Schirme einen ruhigen Rückzugsort bieten.",
+            "hu": "Fedezze fel a Virna Beach elegáns nyugalmát, ahol a szellősen elhelyezett napernyők csendes menedéket nyújtanak a tömeg elől.",
+            "ro": "Descoperiți relaxarea elegantă de la Virna Beach, unde umbrelele bine spațiate oferă un refugiu liniștit de aglomerație.",
+            "en": "Discover the elegant relaxation of Virna Beach, where well-spaced parasols offer a quiet retreat from the bustling summer crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Isa",
+            "hu": "Isa",
+            "ro": "Isa",
+            "en": "Isa"
+          },
+          "coords": [
+            12.263254,
+            44.790131
+          ],
+          "category": "recreational",
+          "arrive_at": "14:18",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag am Isa, der für seinen feinen Sand und seine wunderbare Gastfreundschaft bei einem Aperitif bekannt ist.",
+            "hu": "Zárja napját az Isában, amely finom homokjáról és csodálatos vendégszeretetéről híres, tökéletes hely egy esti aperitifhez.",
+            "ro": "Încheiați-vă ziua la Isa, cunoscut pentru nisipul său fin și ospitalitatea minunată, ideal pentru un aperitiv de seară.",
+            "en": "Conclude your sunny day at Isa, known for its pristine sands and wonderful hospitality, perfectly enjoyed with an evening aperitivo."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der frischen Adrialuft an den nördlichen Sandstränden.\n\nMittags lockt ein entspanntes Meeresfrüchte-Mittagessen in einem der einladenden Strandclubs.\n\nAm Nachmittag können Sie gemütlich am unberührten Ufer entlang spazieren und die sanften Wellen genießen.\n\nDer Tag endet mit einem wunderschönen Sonnenuntergang und einem erfrischenden Aperitif auf der Terrasse.",
+        "hu": "Kezdje a reggelt a friss adriai levegővel az északi homokos partszakaszokon.\n\nDélben egy pihentető tengeri ebédet fogyaszthat el a barátságos strandklubok egyikében.\n\nA délután folyamán sétáljon végig a festői parton, és élvezze a lágy hullámokat.\n\nA napot egy gyönyörű naplemente és egy frissítő aperitif zárja a teraszon.",
+        "ro": "Începeți dimineața respirând aerul proaspăt al Mării Adriatice pe plajele nordice.\n\nLa amiază, savurați un prânz relaxant cu fructe de mare la unul dintre cluburile de pe plajă.\n\nPe măsură ce după-amiaza se desfășoară, plimbați-vă de-a lungul țărmului și bucurați-vă de valurile blânde.\n\nZiua se încheie cu un apus superb și un aperitiv revigorant pe terasă.",
+        "en": "Begin your morning by breathing in the fresh Adriatic air along the northern sands.\n\nMidday invites a relaxed seafood lunch at one of the welcoming beach clubs.\n\nAs the afternoon unfolds, stroll along the pristine shoreline and enjoy the gentle waves.\n\nThe day ends with a beautiful sunset and a refreshing aperitivo on the seaside terrace."
+      }
+    }
+  }
+}

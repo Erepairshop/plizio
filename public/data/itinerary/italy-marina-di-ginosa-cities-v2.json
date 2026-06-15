@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-marina-di-ginosa-cities-v2",
+  "anchor": {
+    "name": "Marina di Ginosa",
+    "coords": [
+      16.8905,
+      40.42959
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:42",
+      "total_km": 1.48,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Maria Santissima Immacolata",
+            "hu": "Maria Santissima Immacolata",
+            "ro": "Maria Santissima Immacolata",
+            "en": "Maria Santissima Immacolata"
+          },
+          "coords": [
+            16.886248,
+            40.427584
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag in dieser friedlichen Kirche, die für ihre schlichte Architektur bekannt ist, und achten Sie auf respektvolle Kleidung.",
+            "hu": "Kezdje a napját ebben a békés templomban, amely egyszerű építészetéről ismert, és ügyeljen a tiszteletteljes öltözködésre a látogatás során.",
+            "ro": "Începeți-vă ziua în această biserică liniștită, cunoscută pentru arhitectura sa simplă, și asigurați-vă că purtați o ținută respectuoasă.",
+            "en": "Start your day at this peaceful church known for its simple architecture, and ensure you wear respectful attire during your quiet visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Bagno Cesena",
+            "hu": "Lido Bagno Cesena",
+            "ro": "Lido Bagno Cesena",
+            "en": "Lido Bagno Cesena"
+          },
+          "coords": [
+            16.892439,
+            40.426592
+          ],
+          "category": "recreational",
+          "arrive_at": "09:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem gepflegten Strandabschnitt mit feinem Sand und mieten Sie sich frühzeitig einen Liegestuhl für maximalen Komfort am Meer.",
+            "hu": "Pihenjen ezen a jól karbantartott homokos partszakaszon, és béreljen napágyat korán a maximális kényelem érdekében a tengerparti tartózkodása alatt.",
+            "ro": "Relaxați-vă pe această porțiune de plajă cu nisip fin, bine întreținută, și închiriați devreme un șezlong pentru un confort maxim la malul mării.",
+            "en": "Relax on this well-maintained stretch of sandy beach, and be sure to rent a sunbed early to secure maximum comfort during your seaside stay."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido La Baita",
+            "hu": "Lido La Baita",
+            "ro": "Lido La Baita",
+            "en": "Lido La Baita"
+          },
+          "coords": [
+            16.893785,
+            40.427678
+          ],
+          "category": "recreational",
+          "arrive_at": "11:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Genießen Sie die entspannte Atmosphäre dieses Strandclubs, der für sein sauberes Wasser bekannt ist, und probieren Sie unbedingt ein kaltes Getränk.",
+            "hu": "Élvezze a tiszta vizéről ismert strandklub laza hangulatát, és mindenképpen kóstoljon meg egy hűsítő italt a tengerparti kávézó teraszán.",
+            "ro": "Bucurați-vă de atmosfera relaxată a acestui club de plajă, cunoscut pentru apa curată, și asigurați-vă că savurați o băutură rece la cafenea.",
+            "en": "Enjoy the laid-back atmosphere of this beach club known for its clean water, and make sure to grab a cold drink from the seaside cafe."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido La Capannina",
+            "hu": "Lido La Capannina",
+            "ro": "Lido La Capannina",
+            "en": "Lido La Capannina"
+          },
+          "coords": [
+            16.895216,
+            40.429276
+          ],
+          "category": "recreational",
+          "arrive_at": "12:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen beliebten Strandabschnitt mit großartigen Einrichtungen und spazieren Sie am flachen Wasser entlang für eine kleine Abkühlung.",
+            "hu": "Fedezze fel ezt a nagyszerű felszereltségű, népszerű partszakaszt, és sétáljon egyet a sekély vízben, hogy egy kicsit lehűtse magát a napsütésben.",
+            "ro": "Descoperiți această porțiune populară de plajă cu facilități excelente și plimbați-vă prin apa puțin adâncă pentru o scurtă răcorire la soare.",
+            "en": "Discover this popular beach stretch featuring excellent facilities, and take a leisurely walk along the shallow waters to cool off in the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido La Perla",
+            "hu": "Lido La Perla",
+            "ro": "Lido La Perla",
+            "en": "Lido La Perla"
+          },
+          "coords": [
+            16.891336,
+            40.425275
+          ],
+          "category": "recreational",
+          "arrive_at": "13:57",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Strandtag in diesem lebhaften Strandbad und genießen Sie die herrliche Aussicht auf das Meer, während Sie sich vom Sand verabschieden.",
+            "hu": "Fejezze be tengerparti napját ebben a nyüzsgő fürdőhelyen, és élvezze a csodálatos kilátást a tengerre, mielőtt elbúcsúzna a homokos parttól.",
+            "ro": "Încheiați-vă ziua de plajă la acest lido plin de viață și bucurați-vă de priveliștile magnifice ale mării în timp ce vă luați rămas bun de la nisip.",
+            "en": "Conclude your beach day at this lively lido, and take in the magnificent sea views while you bid farewell to the soft sands and warm sun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt beschaulich mit einem Besuch in der örtlichen Kirche, um die friedliche Atmosphäre der Stadt in sich aufzunehmen. Gegen Mittag spazieren wir entlang der Küste und genießen die Sonne in den exzellenten Strandbädern. Am Nachmittag laden die flachen Gewässer und warmen Sandstrände zu einer echten Auszeit ein. Der Abend klingt entspannt am Meer aus, wo die Wellen ein beruhigendes Lied singen.",
+        "hu": "A reggel nyugodtan indul a helyi templom meglátogatásával, hogy átérezze a város békés hangulatát. Kora délután a part mentén sétálunk, és a kiváló strandklubokban élvezzük a napsütést. Később a sekély víz és a meleg homokos partok igazi kikapcsolódásra csábítanak. Az este a tengerparton ér véget, ahol a hullámok megnyugtató dalt énekelnek a fáradt utazóknak.",
+        "ro": "Dimineața începe liniștit cu o vizită la biserica locală, pentru a absorbi atmosfera pașnică a orașului. La prânz, ne plimbăm de-a lungul coastei și ne bucurăm de soare la excelentele cluburi de plajă. După-amiaza, apele puțin adânci și plajele cu nisip cald vă invită la o pauză adevărată. Seara se încheie pe malul mării, unde valurile cântă un cântec liniștitor.",
+        "en": "The morning begins peacefully with a visit to the local church to absorb the town's calm atmosphere. By midday, we stroll along the lively coast and enjoy the sun at the excellent beach clubs. The afternoon invites you to truly relax among the shallow waters and warm sandy shores. The evening concludes gently by the sea, as the gentle waves provide a soothing end to the day."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:42",
+      "total_km": 1.37,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Maria Santissima Immacolata",
+            "hu": "Maria Santissima Immacolata",
+            "ro": "Maria Santissima Immacolata",
+            "en": "Maria Santissima Immacolata"
+          },
+          "coords": [
+            16.886248,
+            40.427584
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag in dieser friedlichen Kirche, die für ihre schlichte Architektur bekannt ist, und achten Sie auf respektvolle Kleidung.",
+            "hu": "Kezdje a napját ebben a békés templomban, amely egyszerű építészetéről ismert, és ügyeljen a tiszteletteljes öltözködésre a látogatás során.",
+            "ro": "Începeți-vă ziua în această biserică liniștită, cunoscută pentru arhitectura sa simplă, și asigurați-vă că purtați o ținută respectuoasă.",
+            "en": "Start your day at this peaceful church known for its simple architecture, and ensure you wear respectful attire during your quiet visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Camping Internazionale",
+            "hu": "Lido Camping Internazionale",
+            "ro": "Lido Camping Internazionale",
+            "en": "Lido Camping Internazionale"
+          },
+          "coords": [
+            16.888597,
+            40.42227
+          ],
+          "category": "recreational",
+          "arrive_at": "09:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen weitläufigen Bereich nahe des Campingplatzes, der ideal für Familien ist, und nutzen Sie die nahegelegenen Picknickmöglichkeiten.",
+            "hu": "Látogasson el a kemping közelében lévő tágas, családok számára ideális területre, és használja ki a közeli kényelmes piknikezési lehetőségeket.",
+            "ro": "Vizitați această zonă spațioasă de lângă camping, ideală pentru familii, și profitați de facilitățile de picnic convenabile din apropiere.",
+            "en": "Visit this spacious area near the campground, which is ideal for families, and take advantage of the convenient picnic facilities nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Il Gabbiano",
+            "hu": "Lido Il Gabbiano",
+            "ro": "Lido Il Gabbiano",
+            "en": "Lido Il Gabbiano"
+          },
+          "coords": [
+            16.887017,
+            40.421308
+          ],
+          "category": "recreational",
+          "arrive_at": "11:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Erleben Sie das klassische italienische Strandgefühl an diesem belebten Küstenstreifen und mieten Sie ein Tretboot für einen spaßigen Ausflug.",
+            "hu": "Tapasztalja meg a klasszikus olasz tengerparti életérzést ezen a forgalmas szakaszon, és béreljen vízibiciklit egy vidám tengeri kiránduláshoz.",
+            "ro": "Experimentați senzația clasică a plajei italiene pe această porțiune aglomerată și închiriați o hidrobicicletă pentru o scurtă excursie pe mare.",
+            "en": "Experience the classic Italian beach feel at this busy coastal strip, and consider renting a pedal boat for a fun and active excursion on the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Franco",
+            "hu": "Lido Franco",
+            "ro": "Lido Franco",
+            "en": "Lido Franco"
+          },
+          "coords": [
+            16.885755,
+            40.419997
+          ],
+          "category": "recreational",
+          "arrive_at": "12:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Dieser charmante Abschnitt bietet bequeme Sonnenliegen und eine entspannte Musikuntermalung, perfekt für eine erholsame Pause am Nachmittag.",
+            "hu": "Ez a hangulatos szakasz kényelmes napágyakat és pihentető zenei aláfestést kínál, amely tökéletes egy délutáni pihentető szünethez a parton.",
+            "ro": "Această secțiune fermecătoare oferă șezlonguri confortabile și o muzică de fundal relaxantă, perfectă pentru o pauză odihnitoare de după-amiază.",
+            "en": "This charming section offers comfortable sunbeds and relaxing background music, making it the perfect spot for a restful break in the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Dubai Beach",
+            "hu": "Lido Dubai Beach",
+            "ro": "Lido Dubai Beach",
+            "en": "Lido Dubai Beach"
+          },
+          "coords": [
+            16.88452,
+            40.418487
+          ],
+          "category": "recreational",
+          "arrive_at": "13:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Einrichtung dieses exklusiven Clubs und sichern Sie sich rechtzeitig einen Platz, da es hier oft etwas voller wird.",
+            "hu": "Csodálja meg ennek az exkluzív klubnak a modern berendezését, és foglaljon helyet időben, mivel ez a népszerű partszakasz gyakran megtelik.",
+            "ro": "Admirați decorul modern al acestui club exclusivist și asigurați-vă că prindeți un loc din timp, deoarece această zonă populară se aglomerează des.",
+            "en": "Admire the modern decor of this exclusive beach club, and make sure to grab a spot early as this popular coastal stretch tends to get quite busy."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahia Lounge Beach",
+            "hu": "Bahia Lounge Beach",
+            "ro": "Bahia Lounge Beach",
+            "en": "Bahia Lounge Beach"
+          },
+          "coords": [
+            16.883125,
+            40.416921
+          ],
+          "category": "recreational",
+          "arrive_at": "14:57",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag in dieser stilvollen Lounge ausklingen und genießen Sie einen hervorragenden Cocktail bei einem malerischen Sonnenuntergang.",
+            "hu": "Zárja a napot ebben a stílusos lounge-ban, és fogyasszon el egy kiváló koktélt, miközben a festői naplementében gyönyörködik a parton.",
+            "ro": "Încheiați-vă ziua în acest lounge elegant și savurați un cocktail excelent în timp ce admirați un apus de soare pitoresc pe malul mării.",
+            "en": "Conclude your day at this stylish lounge, and treat yourself to an excellent cocktail while enjoying a picturesque sunset over the Ionian Sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie den Tag mit Kultur in der malerischen Kirche, bevor Sie sich auf Ihr Fahrrad schwingen. Mittags radeln Sie von einem lebhaften Lido zum nächsten und genießen die maritime Brise auf dem Gesicht. Der Nachmittag bietet zahlreiche Gelegenheiten für erfrischende Badepausen und lokale Snacks. Am frühen Abend erwartet Sie eine stilvolle Lounge für den perfekten Sonnenuntergang am Strand.",
+        "hu": "Kezdje a napot egy kis kultúrával a festői templomban, mielőtt kerékpárra pattan. Délben egyik nyüzsgő strandról a másikra tekerünk, miközben a tengeri szellő hűsíti az arcunkat. A délután számtalan lehetőséget kínál frissítő fürdőzésre és helyi finomságok megkóstolására. Kora este egy stílusos lounge várja a tökéletes tengerparti naplemente megtekintéséhez.",
+        "ro": "Începeți ziua cu un pic de cultură la biserica pitorească, înainte de a vă urca pe bicicletă. La prânz pedalați de la un lido plin de viață la altul, simțind briza mării. După-amiaza oferă numeroase oportunități pentru pauze de înot revigorante și gustări locale delicioase. Seara devreme vă așteaptă un lounge elegant pentru a urmări apusul perfect pe plajă.",
+        "en": "Start your day with a touch of culture at the picturesque church before hopping on your bike. Midday sees you cycling from one lively lido to the next, feeling the fresh sea breeze. The afternoon provides ample opportunities for refreshing swim breaks and tasting delicious local snacks. Early evening awaits with a stylish lounge, perfect for taking in the coastal sunset."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:58",
+      "total_km": 2.52,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Lido Cassiopea",
+            "hu": "Lido Cassiopea",
+            "ro": "Lido Cassiopea",
+            "en": "Lido Cassiopea"
+          },
+          "coords": [
+            16.881299,
+            40.415025
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie hier in Ihren herrlichen Küstentag mit einem Morgenspaziergang im feinen Sand und genießen Sie die ruhige Meeresbrise.",
+            "hu": "Kezdje csodálatos tengerparti napját egy reggeli sétával a finom homokban ezen a szakaszon, és élvezze a csendes és frissítő tengeri szellőt.",
+            "ro": "Începeți-vă minunata zi de coastă aici cu o plimbare matinală pe nisipul fin și bucurați-vă de briza mării liniștită și răcoroasă.",
+            "en": "Start your wonderful coastal day here with a morning stroll on the fine sand, and enjoy the quiet and refreshing sea breeze before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Zanzibar",
+            "hu": "Lido Zanzibar",
+            "ro": "Lido Zanzibar",
+            "en": "Lido Zanzibar"
+          },
+          "coords": [
+            16.882198,
+            40.416011
+          ],
+          "category": "recreational",
+          "arrive_at": "10:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Fühlen Sie sich in diesem tropisch inspirierten Club wie im Urlaub und testen Sie die lokalen Snacks an der kleinen, aber feinen Strandbar.",
+            "hu": "Érezze magát nyaraláson ebben a trópusi ihletésű klubban, és kóstolja meg a helyi harapnivalókat a kicsi, de kiváló minőségű strandbárban.",
+            "ro": "Simțiți-vă ca în vacanță în acest club cu inspirație tropicală și gustați gustările locale la micul, dar excelentul bar de pe plajă.",
+            "en": "Feel like you are on vacation at this tropically inspired club, and be sure to taste the local snacks available at the small but excellent beach bar."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Dubai Beach",
+            "hu": "Lido Dubai Beach",
+            "ro": "Lido Dubai Beach",
+            "en": "Lido Dubai Beach"
+          },
+          "coords": [
+            16.88452,
+            40.418487
+          ],
+          "category": "recreational",
+          "arrive_at": "11:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.34,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Einrichtung dieses exklusiven Clubs und sichern Sie sich rechtzeitig einen Platz, da es hier oft etwas voller wird.",
+            "hu": "Csodálja meg ennek az exkluzív klubnak a modern berendezését, és foglaljon helyet időben, mivel ez a népszerű partszakasz gyakran megtelik.",
+            "ro": "Admirați decorul modern al acestui club exclusivist și asigurați-vă că prindeți un loc din timp, deoarece această zonă populară se aglomerează des.",
+            "en": "Admire the modern decor of this exclusive beach club, and make sure to grab a spot early as this popular coastal stretch tends to get quite busy."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Franco",
+            "hu": "Lido Franco",
+            "ro": "Lido Franco",
+            "en": "Lido Franco"
+          },
+          "coords": [
+            16.885755,
+            40.419997
+          ],
+          "category": "recreational",
+          "arrive_at": "12:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Dieser charmante Abschnitt bietet bequeme Sonnenliegen und eine entspannte Musikuntermalung, perfekt für eine erholsame Pause am Nachmittag.",
+            "hu": "Ez a hangulatos szakasz kényelmes napágyakat és pihentető zenei aláfestést kínál, amely tökéletes egy délutáni pihentető szünethez a parton.",
+            "ro": "Această secțiune fermecătoare oferă șezlonguri confortabile și o muzică de fundal relaxantă, perfectă pentru o pauză odihnitoare de după-amiază.",
+            "en": "This charming section offers comfortable sunbeds and relaxing background music, making it the perfect spot for a restful break in the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Maria Santissima Immacolata",
+            "hu": "Maria Santissima Immacolata",
+            "ro": "Maria Santissima Immacolata",
+            "en": "Maria Santissima Immacolata"
+          },
+          "coords": [
+            16.886248,
+            40.427584
+          ],
+          "category": "religious",
+          "arrive_at": "14:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag in dieser friedlichen Kirche, die für ihre schlichte Architektur bekannt ist, und achten Sie auf respektvolle Kleidung.",
+            "hu": "Kezdje a napját ebben a békés templomban, amely egyszerű építészetéről ismert, és ügyeljen a tiszteletteljes öltözködésre a látogatás során.",
+            "ro": "Începeți-vă ziua în această biserică liniștită, cunoscută pentru arhitectura sa simplă, și asigurați-vă că purtați o ținută respectuoasă.",
+            "en": "Start your day at this peaceful church known for its simple architecture, and ensure you wear respectful attire during your quiet visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido La Perla",
+            "hu": "Lido La Perla",
+            "ro": "Lido La Perla",
+            "en": "Lido La Perla"
+          },
+          "coords": [
+            16.891336,
+            40.425275
+          ],
+          "category": "recreational",
+          "arrive_at": "14:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Strandtag in diesem lebhaften Strandbad und genießen Sie die herrliche Aussicht auf das Meer, während Sie sich vom Sand verabschieden.",
+            "hu": "Fejezze be tengerparti napját ebben a nyüzsgő fürdőhelyen, és élvezze a csodálatos kilátást a tengerre, mielőtt elbúcsúzna a homokos parttól.",
+            "ro": "Încheiați-vă ziua de plajă la acest lido plin de viață și bucurați-vă de priveliștile magnifice ale mării în timp ce vă luați rămas bun de la nisip.",
+            "en": "Conclude your beach day at this lively lido, and take in the magnificent sea views while you bid farewell to the soft sands and warm sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido La Capannina",
+            "hu": "Lido La Capannina",
+            "ro": "Lido La Capannina",
+            "en": "Lido La Capannina"
+          },
+          "coords": [
+            16.895216,
+            40.429276
+          ],
+          "category": "recreational",
+          "arrive_at": "16:13",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen beliebten Strandabschnitt mit großartigen Einrichtungen und spazieren Sie am flachen Wasser entlang für eine kleine Abkühlung.",
+            "hu": "Fedezze fel ezt a nagyszerű felszereltségű, népszerű partszakaszt, és sétáljon egyet a sekély vízben, hogy egy kicsit lehűtse magát a napsütésben.",
+            "ro": "Descoperiți această porțiune populară de plajă cu facilități excelente și plimbați-vă prin apa puțin adâncă pentru o scurtă răcorire la soare.",
+            "en": "Discover this popular beach stretch featuring excellent facilities, and take a leisurely walk along the shallow waters to cool off in the sun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unsere Fahrt beginnt an den ruhigeren südlichen Stränden, wo der Tag entspannt anläuft. Zur Mittagszeit erkunden wir die gut besuchten zentralen Badeanlagen und spüren das pulsierende Strandleben. Am Nachmittag machen wir einen kurzen Abstecher ins Zentrum, bevor es wieder ans Wasser geht. Die Tour endet im nördlichen Abschnitt, wo wir den Tag bei einem herrlichen Blick auf die Küste abschließen.",
+        "hu": "Utunk a csendesebb déli strandokon kezdődik, ahol a nap lazán és kellemesen indul. Ebédidőben a népszerű központi fürdőhelyeket fedezzük fel, átélve a lüktető tengerparti életet. Délután egy rövid kitérőt teszünk a központba, mielőtt visszatérnénk a vízhez. A túra az északi szakaszon ér véget, ahol gyönyörű parti panorámával zárjuk a napot.",
+        "ro": "Călătoria noastră începe pe plajele mai liniștite din sud, unde ziua începe într-un ritm relaxat. La prânz explorăm cluburile centrale populare și simțim viața vibrantă a plajei. După-amiaza facem un scurt ocol în centru, înainte de a ne întoarce la apă. Turul se încheie în secțiunea nordică, unde încheiem ziua cu o priveliște magnifică a coastei.",
+        "en": "Our drive begins at the quieter southern beaches, setting a relaxed tone for the morning. By lunchtime, we explore the popular central beach clubs and experience the vibrant seaside atmosphere. In the afternoon, a short detour inland brings a touch of culture before returning to the shore. The tour wraps up in the northern stretch, offering magnificent views as the day winds down."
+      }
+    }
+  }
+}

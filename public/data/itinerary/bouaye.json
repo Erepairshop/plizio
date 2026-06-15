@@ -1,0 +1,428 @@
+{
+  "city_id": "bouaye",
+  "anchor": {
+    "name": "Bouaye",
+    "coords": [
+      -1.6889,
+      47.1436
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:46",
+      "total_km": 3.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Hermeland Kirche",
+            "hu": "Saint-Hermeland Templom",
+            "ro": "Biserica Saint-Hermeland",
+            "en": "Saint-Hermeland Church"
+          },
+          "coords": [
+            -1.693425,
+            47.144127
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Buntglasfenster dieser historischen Kirche, die die Gemeinde verankert, und versuchen Sie, die ruhige Morgenmesse zu besuchen.",
+            "hu": "Csodálja meg e történelmi templom gyönyörű ólomüveg ablakait, amely a közösség központja, és próbáljon meg a nyugodt reggeli misére is ellátogatni a hangulatért.",
+            "ro": "Admirați vitraliile frumoase ale acestei biserici istorice care ancorează comunitatea și încercați să o vizitați în timpul slujbei de dimineață pentru o atmosferă senină.",
+            "en": "Admire the beautiful stained glass windows of this historic church that anchors the local community, and try to visit during morning mass for a serene experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Mévellière Park",
+            "hu": "Mévellière Park",
+            "ro": "Parcul Mévellière",
+            "en": "Mévellière Park"
+          },
+          "coords": [
+            -1.681115,
+            47.14903
+          ],
+          "category": "park",
+          "arrive_at": "10:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die grünen Pfade dieses weitläufigen Parks für einen ruhigen Rückzugsort und packen Sie ein Picknick ein, um es unter alten Bäumen zu genießen.",
+            "hu": "Sétáljon e tágas park zöldellő ösvényein, hogy élvezze a városból való békés kiszakadást, és vigyen magával egy kis pikniket, amit az ősi fák alatt fogyaszthat el.",
+            "ro": "Plimbați-vă pe aleile verzi ale acestui parc vast pentru a vă bucura de o retragere pașnică, aducând cu voi un mic picnic pe care să-l savurați sub copacii bătrâni.",
+            "en": "Stroll through the lush green pathways of this expansive park to enjoy a peaceful retreat from the city, packing a small picnic to savor under the ancient trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Mévellière",
+            "hu": "Château de la Mévellière",
+            "ro": "Château de la Mévellière",
+            "en": "Château de la Mévellière"
+          },
+          "coords": [
+            -1.681609,
+            47.15059
+          ],
+          "category": "historical",
+          "arrive_at": "11:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Architektur dieses historischen Herrenhauses, das die reiche Vergangenheit widerspiegelt, und prüfen Sie vorab den aktuellen Veranstaltungsplan.",
+            "hu": "Fedezze fel e történelmi kúria építészetét, amely a régió gazdag múltját tükrözi, és ne felejtse el előtte ellenőrizni a birtok aktuális eseménynaptárát a neten.",
+            "ro": "Explorați arhitectura acestui conac istoric ce reflectă trecutul bogat al regiunii și nu uitați să verificați în prealabil programul actualizat de evenimente locale.",
+            "en": "Explore the stately architecture of this historic manor which reflects the region's wealthy past, and remember to check the estate's current event schedule first."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison du Lac de Grand Lieu",
+            "hu": "Maison du Lac de Grand Lieu",
+            "ro": "Maison du Lac de Grand Lieu",
+            "en": "Maison du Lac de Grand Lieu"
+          },
+          "coords": [
+            -1.696538,
+            47.138633
+          ],
+          "category": "museum",
+          "arrive_at": "13:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Artenvielfalt des Seeökosystems in diesem Ausstellungszentrum und leihen Sie sich unbedingt die kostenlosen Ferngläser an der Rezeption.",
+            "hu": "Fedezze fel a tó ökoszisztémájának gazdag biológiai sokféleségét ebben a modern központban, és mindenképpen kérje el a recepción kínált ingyenes távcsöveket.",
+            "ro": "Descoperiți biodiversitatea bogată a ecosistemului lacului la acest centru modern și asigurați-vă că împrumutați binoclurile gratuite oferite direct la recepție.",
+            "en": "Discover the rich biodiversity of the lake ecosystem at this modern exhibition center, and make sure to borrow the free binoculars offered at the reception desk."
+          }
+        },
+        {
+          "name": {
+            "de": "Überschwemmte Wiese",
+            "hu": "Ártéri Rét",
+            "ro": "Pajiștea Inundabilă",
+            "en": "The Flooded Meadow"
+          },
+          "coords": [
+            -1.691876,
+            47.134513
+          ],
+          "category": "natural",
+          "arrive_at": "15:01",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beobachten Sie seltene Zugvögel auf diesen einzigartigen, überschwemmten Wiesen und tragen Sie robuste wasserdichte Stiefel, wenn Sie nah am Ufer spazieren wollen.",
+            "hu": "Figyeljen meg ritka vándormadarakat ezeken az egyedülálló, évszakonként változó ártéri réteken, és viseljen vízálló csizmát, ha a vízpart közelében szeretne sétálni.",
+            "ro": "Observați păsările migratoare rare pe aceste pajiști inundate unice ce se schimbă sezonier și purtați cizme impermeabile dacă intenționați să mergeți aproape de mal.",
+            "en": "Observe rare migratory birds across these unique flooded meadows that change with the seasons, and wear sturdy waterproof boots if you plan to walk near the edge."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im Herzen von Bouaye an der historischen Kirche, was einen friedlichen Ton angibt. Der Mittag bringt einen Spaziergang zum Mévellière Park. Der Nachmittag ist dem Verständnis der lokalen Umwelt im Museum gewidmet. Der Abend endet mit einem ruhigen Spaziergang durch die überschwemmten Wiesen.",
+        "hu": "Kezdje a reggelt Bouaye szívében a történelmi templomnál, amely békés alaphangot ad a napnak. A dél élénkítő sétát hoz a Mévellière parkba. A délutánt a helyi környezet megismerésének szenteljük a múzeumban. Az este az ártéri réteken tett nyugodt, madárlesős sétával zárul a naplementében.",
+        "ro": "Începeți dimineața în inima orașului Bouaye la biserica istorică. Miezul zilei aduce o plimbare revigorantă către Parcul Mévellière și conacul din apropiere. După-amiaza este dedicată înțelegerii mediului local la muzeul lacului. Seara se încheie cu o plimbare senină prin pajiștile inundate unice.",
+        "en": "Start your morning in the heart of Bouaye at the historic church, setting a peaceful tone for the day. Midday brings a refreshing walk to Mévellière Park and its nearby estate. Afternoon is dedicated to understanding the local environment at the museum. The evening concludes with a serene stroll through the flooded meadows."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Hermeland Kirche",
+            "hu": "Saint-Hermeland Templom",
+            "ro": "Biserica Saint-Hermeland",
+            "en": "Saint-Hermeland Church"
+          },
+          "coords": [
+            -1.693425,
+            47.144127
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Buntglasfenster dieser historischen Kirche, die die Gemeinde verankert, und versuchen Sie, die ruhige Morgenmesse zu besuchen.",
+            "hu": "Csodálja meg e történelmi templom gyönyörű ólomüveg ablakait, amely a közösség központja, és próbáljon meg a nyugodt reggeli misére is ellátogatni a hangulatért.",
+            "ro": "Admirați vitraliile frumoase ale acestei biserici istorice care ancorează comunitatea și încercați să o vizitați în timpul slujbei de dimineață pentru o atmosferă senină.",
+            "en": "Admire the beautiful stained glass windows of this historic church that anchors the local community, and try to visit during morning mass for a serene experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa du Châtelier",
+            "hu": "Villa du Châtelier",
+            "ro": "Villa du Châtelier",
+            "en": "Villa du Châtelier"
+          },
+          "coords": [
+            -1.715421,
+            47.142082
+          ],
+          "category": "historical",
+          "arrive_at": "09:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Betrachten Sie die elegante Fassade dieses Schlosses, das Einblicke in die aristokratische Geschichte bietet, aber respektieren Sie die Grenzen beim Fotografieren.",
+            "hu": "Vegye szemügyre e kastély elegáns homlokzatát, amely bepillantást enged a helyi arisztokrácia történelmébe, de fotózás közben mindenképp tartsa tiszteletben a határokat.",
+            "ro": "Admirați fațada elegantă a acestui castel ce oferă o privire în istoria aristocratică locală, deși ar trebui să respectați limitele proprietății când faceți fotografii.",
+            "en": "Take in the elegant facade of this private castle which offers a glimpse into local aristocratic history, though you should respect the boundary walls while snapping photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Espace Culturel Chai Gallais",
+            "hu": "Espace Culturel Chai Gallais",
+            "ro": "Espace Culturel Chai Gallais",
+            "en": "Espace Culturel Chai Gallais"
+          },
+          "coords": [
+            -1.721241,
+            47.136719
+          ],
+          "category": "cultural",
+          "arrive_at": "11:23",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erleben Sie zeitgenössische Kunst in diesem durchdacht umgestalteten Industrieraum und versuchen Sie, an einem der kostenlosen Nachmittagsworkshops teilzunehmen.",
+            "hu": "Ismerkedjen meg a kortárs regionális művészettel ebben az újrahasznosított ipari térben, és ha ideje engedi, vegyen részt az ingyenes délutáni workshopok egyikén.",
+            "ro": "Interacționați cu arta regională contemporană în acest spațiu industrial reconvertit și încercați să prindeți unul dintre atelierele gratuite de după-amiază.",
+            "en": "Engage with contemporary regional art inside this thoughtfully repurposed industrial space, and try to catch one of the free afternoon workshops if time permits."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison du Lac de Grand Lieu",
+            "hu": "Maison du Lac de Grand Lieu",
+            "ro": "Maison du Lac de Grand Lieu",
+            "en": "Maison du Lac de Grand Lieu"
+          },
+          "coords": [
+            -1.696538,
+            47.138633
+          ],
+          "category": "museum",
+          "arrive_at": "13:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Artenvielfalt des Seeökosystems in diesem Ausstellungszentrum und leihen Sie sich unbedingt die kostenlosen Ferngläser an der Rezeption.",
+            "hu": "Fedezze fel a tó ökoszisztémájának gazdag biológiai sokféleségét ebben a modern központban, és mindenképpen kérje el a recepción kínált ingyenes távcsöveket.",
+            "ro": "Descoperiți biodiversitatea bogată a ecosistemului lacului la acest centru modern și asigurați-vă că împrumutați binoclurile gratuite oferite direct la recepție.",
+            "en": "Discover the rich biodiversity of the lake ecosystem at this modern exhibition center, and make sure to borrow the free binoculars offered at the reception desk."
+          }
+        },
+        {
+          "name": {
+            "de": "Château du Bois de la Noë",
+            "hu": "Château du Bois de la Noë",
+            "ro": "Château du Bois de la Noë",
+            "en": "Château du Bois de la Noë"
+          },
+          "coords": [
+            -1.674943,
+            47.139784
+          ],
+          "category": "castle",
+          "arrive_at": "15:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historischen Anlagen dieses verborgenen Schlosses, das vom ländlichen Erbe zeugt, und bringen Sie ein Weitwinkelobjektiv für das ganze Anwesen mit.",
+            "hu": "Csodálja meg e rejtett kastély történelmi parkját, amely a francia vidék örökségéről mesél, és hozzon magával nagylátószögű lencsét a teljes birtok megörökítéséhez.",
+            "ro": "Minunați-vă de terenurile istorice ale acestui castel ascuns care vorbește despre patrimoniul rural francez și aduceți un obiectiv larg pentru a surprinde moșia.",
+            "en": "Marvel at the historic grounds of this hidden castle that speaks of centuries of French rural heritage, and bring a wide-angle lens to capture the whole estate."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de La Sénaigerie",
+            "hu": "Château de La Sénaigerie",
+            "ro": "Château de La Sénaigerie",
+            "en": "Château de La Sénaigerie"
+          },
+          "coords": [
+            -1.679597,
+            47.135785
+          ],
+          "category": "castle",
+          "arrive_at": "16:25",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie um die beeindruckende Fassade dieses monumentalen Bauwerks im klassischen Design, und besuchen Sie es zur goldenen Stunde für das beste Fotolicht.",
+            "hu": "Sétáljon körbe e monumentális építmény lenyűgöző külseje körül, hogy értékelje klasszikus dizájnját, és látogasson el az aranyórában a legszebb fények érdekében.",
+            "ro": "Plimbați-vă în jurul exteriorului impresionant al acestei structuri monumentale pentru a aprecia designul clasic și vizitați în timpul orei de aur pentru lumina ideală.",
+            "en": "Wander around the impressive exterior of this monumental structure to appreciate its classic design, and visit during the golden hour for the most flattering light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie von der zentralen Kirche zur prächtigen Villa du Châtelier, während der Morgen anbricht. Der Mittag ist perfekt, um Kultur zu tanken. Verbringen Sie den Nachmittag damit, das faszinierende Seeökosystem zu erkunden. Beenden Sie den Tag, indem Sie an majestätischen Schlössern im Abendlicht vorbeifahren.",
+        "hu": "Tekerjen a központi templomtól a nagyszerű Villa du Châtelier felé a délelőtt folyamán. A dél ideális a kortárs kultúra befogadására a kulturális térben. Töltse a délutánt a lenyűgöző tó ökoszisztémájának felfedezésével. Zárja a napot fenséges, késői napsütésben fürdő kastélyok melletti kerékpározással.",
+        "ro": "Pedalați de la biserica centrală spre grandioasa Villa du Châtelier în prima parte a zilei. Miezul zilei este perfect pentru a asimila cultura contemporană. Petreceți după-amiaza explorând ecosistemul fascinant al lacului. Încheiați ziua mergând cu bicicleta pe lângă castele maiestuoase scăldate în soare.",
+        "en": "Pedal your way from the central church out towards the grand Villa du Châtelier as the morning unfolds. Midday is perfect for taking in contemporary culture and grabbing a quick bite. Spend the afternoon exploring the fascinating lake ecosystem. Finish the day biking past majestic castles bathed in late sunshine."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:09",
+      "total_km": 8.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Hermeland Kirche",
+            "hu": "Saint-Hermeland Templom",
+            "ro": "Biserica Saint-Hermeland",
+            "en": "Saint-Hermeland Church"
+          },
+          "coords": [
+            -1.693425,
+            47.144127
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Buntglasfenster dieser historischen Kirche, die die Gemeinde verankert, und versuchen Sie, die ruhige Morgenmesse zu besuchen.",
+            "hu": "Csodálja meg e történelmi templom gyönyörű ólomüveg ablakait, amely a közösség központja, és próbáljon meg a nyugodt reggeli misére is ellátogatni a hangulatért.",
+            "ro": "Admirați vitraliile frumoase ale acestei biserici istorice care ancorează comunitatea și încercați să o vizitați în timpul slujbei de dimineață pentru o atmosferă senină.",
+            "en": "Admire the beautiful stained glass windows of this historic church that anchors the local community, and try to visit during morning mass for a serene experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Mévellière Park",
+            "hu": "Mévellière Park",
+            "ro": "Parcul Mévellière",
+            "en": "Mévellière Park"
+          },
+          "coords": [
+            -1.681115,
+            47.14903
+          ],
+          "category": "park",
+          "arrive_at": "09:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die grünen Pfade dieses weitläufigen Parks für einen ruhigen Rückzugsort und packen Sie ein Picknick ein, um es unter alten Bäumen zu genießen.",
+            "hu": "Sétáljon e tágas park zöldellő ösvényein, hogy élvezze a városból való békés kiszakadást, és vigyen magával egy kis pikniket, amit az ősi fák alatt fogyaszthat el.",
+            "ro": "Plimbați-vă pe aleile verzi ale acestui parc vast pentru a vă bucura de o retragere pașnică, aducând cu voi un mic picnic pe care să-l savurați sub copacii bătrâni.",
+            "en": "Stroll through the lush green pathways of this expansive park to enjoy a peaceful retreat from the city, packing a small picnic to savor under the ancient trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de La Sénaigerie",
+            "hu": "Château de La Sénaigerie",
+            "ro": "Château de La Sénaigerie",
+            "en": "Château de La Sénaigerie"
+          },
+          "coords": [
+            -1.679597,
+            47.135785
+          ],
+          "category": "castle",
+          "arrive_at": "11:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie um die beeindruckende Fassade dieses monumentalen Bauwerks im klassischen Design, und besuchen Sie es zur goldenen Stunde für das beste Fotolicht.",
+            "hu": "Sétáljon körbe e monumentális építmény lenyűgöző külseje körül, hogy értékelje klasszikus dizájnját, és látogasson el az aranyórában a legszebb fények érdekében.",
+            "ro": "Plimbați-vă în jurul exteriorului impresionant al acestei structuri monumentale pentru a aprecia designul clasic și vizitați în timpul orei de aur pentru lumina ideală.",
+            "en": "Wander around the impressive exterior of this monumental structure to appreciate its classic design, and visit during the golden hour for the most flattering light."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison du Lac de Grand Lieu",
+            "hu": "Maison du Lac de Grand Lieu",
+            "ro": "Maison du Lac de Grand Lieu",
+            "en": "Maison du Lac de Grand Lieu"
+          },
+          "coords": [
+            -1.696538,
+            47.138633
+          ],
+          "category": "museum",
+          "arrive_at": "12:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Artenvielfalt des Seeökosystems in diesem Ausstellungszentrum und leihen Sie sich unbedingt die kostenlosen Ferngläser an der Rezeption.",
+            "hu": "Fedezze fel a tó ökoszisztémájának gazdag biológiai sokféleségét ebben a modern központban, és mindenképpen kérje el a recepción kínált ingyenes távcsöveket.",
+            "ro": "Descoperiți biodiversitatea bogată a ecosistemului lacului la acest centru modern și asigurați-vă că împrumutați binoclurile gratuite oferite direct la recepție.",
+            "en": "Discover the rich biodiversity of the lake ecosystem at this modern exhibition center, and make sure to borrow the free binoculars offered at the reception desk."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand-Lieu See",
+            "hu": "Grand-Lieu Tó",
+            "ro": "Lacul Grand-Lieu",
+            "en": "Lake Grand-Lieu"
+          },
+          "coords": [
+            -1.634599,
+            47.122444
+          ],
+          "category": "natural",
+          "arrive_at": "14:24",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 4.9,
+          "tip_5lang": {
+            "de": "Erleben Sie die weite Stille eines der größten Flachlandseen Europas voller Wildtiere, und mieten Sie sich vielleicht ein kleines Boot vom Jachthafen für nähere Einblicke.",
+            "hu": "Tapasztalja meg Európa egyik legnagyobb, vadvilágtól nyüzsgő síkvidéki tavának hatalmas nyugalmát, és fontolja meg egy kis csónak bérlését a helyi kikötőből a felfedezéshez.",
+            "ro": "Experimentați seninătatea unuia dintre cele mai mari lacuri de șes din Europa plin de faună și luați în considerare închirierea unei bărci de la port pentru a vedea mai de aproape.",
+            "en": "Experience the vast serenity of one of Europe's largest lowland lakes which teems with wildlife, and consider renting a small boat from the local marina for a closer look."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie nach Bouaye, um an der zentralen Kirche zu beginnen, bevor Sie den weitläufigen Park besuchen. Mittags bewundern Sie die Architektur von La Sénaigerie. Verbringen Sie den Nachmittag damit, im Seemuseum tief in die Ökologie einzutauchen. Eine kurze abendliche Fahrt bringt Sie direkt an die Ufer des Sees.",
+        "hu": "Autózzon kényelmesen Bouaye-be, és kezdjen a templomnál, mielőtt meglátogatná a tágas helyi parkot. Délre már a La Sénaigerie építészetét fogja csodálni. Töltse a délutánt az ökológia elmélyült tanulmányozásával a múzeumban. Egy rövid esti út egyenesen a Grand-Lieu tó partjához vezet a tökéletes befejezésért.",
+        "ro": "Conduceți ușor în Bouaye pentru a începe la biserica centrală înainte de a vizita parcul local. Până la prânz, veți admira arhitectura castelului La Sénaigerie. Petreceți după-amiaza descoperind ecologia locală la muzeul lacului. O scurtă plimbare de seară vă duce chiar pe malurile vaste ale lacului Grand-Lieu.",
+        "en": "Drive easily into Bouaye to start at the central church before visiting the expansive local park. By midday, you'll be admiring the architecture of La Sénaigerie. Spend your afternoon diving deep into local ecology at the lake museum. A short evening drive takes you right to the sweeping shores of Lake Grand-Lieu."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "orthez",
+  "anchor": {
+    "name": "Orthez",
+    "coords": [
+      -0.7708,
+      43.4881
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:19",
+      "total_km": 2.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Haus Jeanne d'Albret",
+            "hu": "Jeanne d'Albret Ház",
+            "ro": "Casa Jeanne d'Albret",
+            "en": "Jeanne d'Albret House"
+          },
+          "coords": [
+            -0.774734,
+            43.488408
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die protestantische Geschichte des Béarn in diesem Museum aus dem 16. Jahrhundert und nutzen Sie den Audioguide für das beste Erlebnis.",
+            "hu": "Ismerje meg a Béarn régió protestáns történelmét ebben a 16. századi múzeumban, és a legjobb élmény érdekében kérje az angol nyelvű audioguide-ot.",
+            "ro": "Descoperiți istoria protestantă a regiunii Béarn în acest muzeu din secolul al XVI-lea și solicitați un ghid audio pentru o experiență completă.",
+            "en": "Explore the deep Protestant history of the Béarn region in this 16th-century museum, and pick up the English audio guide for the best experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel de la Lune",
+            "hu": "Hôtel de la Lune",
+            "ro": "Hôtel de la Lune",
+            "en": "Hôtel de la Lune"
+          },
+          "coords": [
+            -0.774515,
+            43.489158
+          ],
+          "category": "historical",
+          "arrive_at": "10:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die mittelalterliche Architektur dieses historischen Gästehauses, in dem Froissart einst wohnte, und achten Sie auf die Steinfassade.",
+            "hu": "Csodálja meg annak a történelmi vendégháznak a középkori építészetét, ahol egykor Froissart is megszállt, különös tekintettel a kőhomlokzatra.",
+            "ro": "Admirați arhitectura medievală a acestei case de oaspeți istorice unde a stat Froissart, observând cu atenție fațada de piatră remarcabil conservată.",
+            "en": "Admire the medieval architecture of this historic guest house where Froissart once stayed, taking note of its remarkably preserved stone facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Pierre-Kirche",
+            "hu": "Saint-Pierre Templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            -0.775265,
+            43.48952
+          ],
+          "category": "religious",
+          "arrive_at": "12:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die beeindruckenden gotischen Gewölbedecken dieser wunderschönen historischen Kirche, aber denken Sie an angemessene Kleidung.",
+            "hu": "Csodálja meg ennek a gyönyörű történelmi templomnak a lenyűgöző gótikus boltozatát, de ne felejtsen el szerény ruházatot viselni a belépéskor.",
+            "ro": "Minunați-vă de impresionantele tavane boltite gotice ale acestei frumoase biserici istorice, amintindu-vă să aveți o ținută decentă la intrare.",
+            "en": "Marvel at the impressive gothic vaulted ceilings of this beautiful historic church, but remember to dress modestly when stepping inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Moncade-Turm",
+            "hu": "Moncade Torony",
+            "ro": "Turnul Moncade",
+            "en": "Moncade Tower"
+          },
+          "coords": [
+            -0.770002,
+            43.491965
+          ],
+          "category": "fortress",
+          "arrive_at": "13:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Steigen Sie die Treppen zur Spitze dieses imposanten Festungsturms hinauf, um einen tollen Panoramablick auf Orthez in bequemen Schuhen zu genießen.",
+            "hu": "Mássza meg a lépcsőket ezen az impozáns erődtornyon, hogy lenyűgöző panorámát élvezhessen Orthezre, de viseljen kényelmes, stabil cipőt.",
+            "ro": "Urcați scările până în vârful acestui turn de fortăreață impunător pentru o vedere panoramică uimitoare asupra Orthezului, purtând încălțăminte comodă.",
+            "en": "Climb the stairs to the top of this imposing fortress tower for a stunning panoramic view of Orthez, but wear comfortable and sturdy shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont Vieux",
+            "hu": "Pont Vieux (Öreg Híd)",
+            "ro": "Pont Vieux (Podul Vechi)",
+            "en": "Pont Vieux (Old Bridge)"
+          },
+          "coords": [
+            -0.777031,
+            43.486288
+          ],
+          "category": "historical",
+          "arrive_at": "14:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie über diese befestigte Brücke aus dem 13. Jahrhundert über den Fluss Gave de Pau und gehen Sie zum Ufer für das beste Fotomotiv.",
+            "hu": "Sétáljon át a Gave de Pau folyót átívelő, 13. századi erődített hídon, és a legjobb fotók kedvéért ereszkedjen le egészen a folyópartig.",
+            "ro": "Plimbați-vă pe acest pod fortificat emblematic din secolul al XIII-lea peste râul Gave de Pau și coborâți pe mal pentru cel mai bun unghi foto.",
+            "en": "Walk across this iconic 13th-century fortified bridge spanning the Gave de Pau river, and step down to the riverbank for the best photo angle."
+          }
+        },
+        {
+          "name": {
+            "de": "Francis Jammes Museum",
+            "hu": "Francis Jammes Múzeum",
+            "ro": "Muzeul Francis Jammes",
+            "en": "Francis Jammes Museum"
+          },
+          "coords": [
+            -0.765206,
+            43.485536
+          ],
+          "category": "museum",
+          "arrive_at": "16:09",
+          "stay_min": 130,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Leben und die Werke des berühmten lokalen Dichters in diesem Hausmuseum, dessen Nachmittagsöffnungszeiten Sie vorab prüfen sollten.",
+            "hu": "Fedezze fel a híres helyi költő életét és munkásságát ebben a dedikált emlékházban, amelynek délutáni nyitvatartását érdemes előre ellenőrizni.",
+            "ro": "Descoperiți viața și operele celebrului poet local în acest muzeu memorial, pe care este cel mai bine să-l vizitați verificând programul de după-amiază.",
+            "en": "Discover the life and works of the famous local poet in this dedicated house museum, which is best visited after checking the afternoon opening hours."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Geschichte des Protestantismus im Haus Jeanne d'Albret und im mittelalterlichen Hôtel de la Lune. Mittags bewundern Sie die Saint-Pierre-Kirche und erklimmen den imposanten Moncade-Turm. Am Nachmittag überqueren Sie die mittelalterliche Brücke Pont Vieux über den Gave de Pau. Lassen Sie den Abend entspannt im Francis Jammes Museum ausklingen.",
+        "hu": "Kezdje a reggelt a protestantizmus történetének felfedezésével a Jeanne d'Albret házban és a középkori Hôtel de la Lune-nál. Délben csodálja meg a Saint-Pierre templomot és mássza meg az impozáns Moncade tornyot. Délután keljen át a Gave de Pau felett ívelő középkori Pont Vieux-n. Zárja az estét a helyi költészet felfedezésével a Francis Jammes Múzeumban.",
+        "ro": "Începeți dimineața explorând istoria protestantismului la Casa Jeanne d'Albret și medievalul Hôtel de la Lune. La prânz, admirați Biserica Saint-Pierre și cuceriți scările turnului impunător Moncade. După-amiaza, traversați podul medieval Pont Vieux peste râul Gave de Pau. Încheiați seara descoperind poezia locală la interesantul Muzeu Francis Jammes.",
+        "en": "Start your morning exploring the history of Protestantism at the Jeanne d'Albret House and the medieval Hôtel de la Lune. Midday, admire the gothic features of Saint-Pierre Church and conquer the steep stairs of the imposing Moncade Tower. In the afternoon, cross the medieval Pont Vieux bridging the Gave de Pau. Conclude your evening discovering local poetry at the Francis Jammes Museum."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:53",
+      "total_km": 2.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pont Vieux",
+            "hu": "Pont Vieux (Öreg Híd)",
+            "ro": "Pont Vieux (Podul Vechi)",
+            "en": "Pont Vieux (Old Bridge)"
+          },
+          "coords": [
+            -0.777031,
+            43.486288
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Spazieren Sie über diese befestigte Brücke aus dem 13. Jahrhundert über den Fluss Gave de Pau und gehen Sie zum Ufer für das beste Fotomotiv.",
+            "hu": "Sétáljon át a Gave de Pau folyót átívelő, 13. századi erődített hídon, és a legjobb fotók kedvéért ereszkedjen le egészen a folyópartig.",
+            "ro": "Plimbați-vă pe acest pod fortificat emblematic din secolul al XIII-lea peste râul Gave de Pau și coborâți pe mal pentru cel mai bun unghi foto.",
+            "en": "Walk across this iconic 13th-century fortified bridge spanning the Gave de Pau river, and step down to the riverbank for the best photo angle."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus Jeanne d'Albret",
+            "hu": "Jeanne d'Albret Ház",
+            "ro": "Casa Jeanne d'Albret",
+            "en": "Jeanne d'Albret House"
+          },
+          "coords": [
+            -0.774734,
+            43.488408
+          ],
+          "category": "museum",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die protestantische Geschichte des Béarn in diesem Museum aus dem 16. Jahrhundert und nutzen Sie den Audioguide für das beste Erlebnis.",
+            "hu": "Ismerje meg a Béarn régió protestáns történelmét ebben a 16. századi múzeumban, és a legjobb élmény érdekében kérje az angol nyelvű audioguide-ot.",
+            "ro": "Descoperiți istoria protestantă a regiunii Béarn în acest muzeu din secolul al XVI-lea și solicitați un ghid audio pentru o experiență completă.",
+            "en": "Explore the deep Protestant history of the Béarn region in this 16th-century museum, and pick up the English audio guide for the best experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Pierre-Kirche",
+            "hu": "Saint-Pierre Templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            -0.775265,
+            43.48952
+          ],
+          "category": "religious",
+          "arrive_at": "12:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die beeindruckenden gotischen Gewölbedecken dieser wunderschönen historischen Kirche, aber denken Sie an angemessene Kleidung.",
+            "hu": "Csodálja meg ennek a gyönyörű történelmi templomnak a lenyűgöző gótikus boltozatát, de ne felejtsen el szerény ruházatot viselni a belépéskor.",
+            "ro": "Minunați-vă de impresionantele tavane boltite gotice ale acestei frumoase biserici istorice, amintindu-vă să aveți o ținută decentă la intrare.",
+            "en": "Marvel at the impressive gothic vaulted ceilings of this beautiful historic church, but remember to dress modestly when stepping inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Moncade-Turm",
+            "hu": "Moncade Torony",
+            "ro": "Turnul Moncade",
+            "en": "Moncade Tower"
+          },
+          "coords": [
+            -0.770002,
+            43.491965
+          ],
+          "category": "fortress",
+          "arrive_at": "12:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Steigen Sie die Treppen zur Spitze dieses imposanten Festungsturms hinauf, um einen tollen Panoramablick auf Orthez in bequemen Schuhen zu genießen.",
+            "hu": "Mássza meg a lépcsőket ezen az impozáns erődtornyon, hogy lenyűgöző panorámát élvezhessen Orthezre, de viseljen kényelmes, stabil cipőt.",
+            "ro": "Urcați scările până în vârful acestui turn de fortăreață impunător pentru o vedere panoramică uimitoare asupra Orthezului, purtând încălțăminte comodă.",
+            "en": "Climb the stairs to the top of this imposing fortress tower for a stunning panoramic view of Orthez, but wear comfortable and sturdy shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de l'Y",
+            "hu": "Lac de l'Y",
+            "ro": "Lac de l'Y",
+            "en": "Lac de l'Y"
+          },
+          "coords": [
+            -0.76904,
+            43.49752
+          ],
+          "category": "natural",
+          "arrive_at": "14:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang an den von Bäumen gesäumten Ufern dieses ruhigen Natursees, ein idealer Ort, um auf einer Bank etwas zu entspannen.",
+            "hu": "Tegyen egy békés sétát e nyugodt, természetes tó fával szegélyezett partjainál, amely ideális hely arra, hogy egy padon megpihenve lazítson.",
+            "ro": "Bucurați-vă de o plimbare liniștită pe malurile împădurite ale acestui lac natural calm, un loc ideal pentru a vă relaxa puțin pe o bancă.",
+            "en": "Enjoy a peaceful walk around the tree-lined shores of this calm natural lake, making it an ideal spot to sit on a bench and relax for a while."
+          }
+        },
+        {
+          "name": {
+            "de": "Francis Jammes Museum",
+            "hu": "Francis Jammes Múzeum",
+            "ro": "Muzeul Francis Jammes",
+            "en": "Francis Jammes Museum"
+          },
+          "coords": [
+            -0.765206,
+            43.485536
+          ],
+          "category": "museum",
+          "arrive_at": "15:43",
+          "stay_min": 130,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Leben und die Werke des berühmten lokalen Dichters in diesem Hausmuseum, dessen Nachmittagsöffnungszeiten Sie vorab prüfen sollten.",
+            "hu": "Fedezze fel a híres helyi költő életét és munkásságát ebben a dedikált emlékházban, amelynek délutáni nyitvatartását érdemes előre ellenőrizni.",
+            "ro": "Descoperiți viața și operele celebrului poet local în acest muzeu memorial, pe care este cel mai bine să-l vizitați verificând programul de după-amiază.",
+            "en": "Discover the life and works of the famous local poet in this dedicated house museum, which is best visited after checking the afternoon opening hours."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens zum Pont Vieux für Fotos, bevor Sie die Ausstellungen im Haus Jeanne d'Albret erkunden. Mittags genießen Sie die Ruhe der Saint-Pierre-Kirche und fahren hinauf zur Festung Moncade. Verbringen Sie den Nachmittag in der Natur am ruhigen Lac de l'Y und beenden Sie Ihren aktiven Tag mit einem kulturellen Besuch im Francis Jammes Museum.",
+        "hu": "Először tekerjen az ikonikus Pont Vieux-hoz egy reggeli fotózásra, majd fedezze fel a Jeanne d'Albret ház gazdag kiállításait. Délben csendesedjen el a Saint-Pierre templomban, mielőtt a Moncade erődhöz hajtana. Töltse a délutánt a természetben a békés Lac de l'Y tónál, majd zárja aktív napját a Francis Jammes Múzeum kulturális kincseivel.",
+        "ro": "Pedalați mai întâi la emblematicul Pont Vieux pentru o fotografie de dimineață, apoi explorați Casa Jeanne d'Albret. La prânz, petreceți un moment liniștit în Biserica Saint-Pierre înainte de a ajunge la fortăreața Moncade. Petreceți-vă după-amiaza bucurându-vă de natură la Lac de l'Y și încheiați-vă ziua activă la Muzeul cultural Francis Jammes.",
+        "en": "Pedal first to the iconic Pont Vieux for a morning photo op, then explore the rich exhibits of the Jeanne d'Albret House. By midday, take a quiet moment in the Saint-Pierre Church before pushing your bike up to the towering Moncade fortress. Spend your afternoon enjoying nature at the serene Lac de l'Y, and end your active day with a cultural visit to the Francis Jammes Museum."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 5.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Moncade-Turm",
+            "hu": "Moncade Torony",
+            "ro": "Turnul Moncade",
+            "en": "Moncade Tower"
+          },
+          "coords": [
+            -0.770002,
+            43.491965
+          ],
+          "category": "fortress",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Steigen Sie die Treppen zur Spitze dieses imposanten Festungsturms hinauf, um einen tollen Panoramablick auf Orthez in bequemen Schuhen zu genießen.",
+            "hu": "Mássza meg a lépcsőket ezen az impozáns erődtornyon, hogy lenyűgöző panorámát élvezhessen Orthezre, de viseljen kényelmes, stabil cipőt.",
+            "ro": "Urcați scările până în vârful acestui turn de fortăreață impunător pentru o vedere panoramică uimitoare asupra Orthezului, purtând încălțăminte comodă.",
+            "en": "Climb the stairs to the top of this imposing fortress tower for a stunning panoramic view of Orthez, but wear comfortable and sturdy shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Pierre-Kirche",
+            "hu": "Saint-Pierre Templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            -0.775265,
+            43.48952
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die beeindruckenden gotischen Gewölbedecken dieser wunderschönen historischen Kirche, aber denken Sie an angemessene Kleidung.",
+            "hu": "Csodálja meg ennek a gyönyörű történelmi templomnak a lenyűgöző gótikus boltozatát, de ne felejtsen el szerény ruházatot viselni a belépéskor.",
+            "ro": "Minunați-vă de impresionantele tavane boltite gotice ale acestei frumoase biserici istorice, amintindu-vă să aveți o ținută decentă la intrare.",
+            "en": "Marvel at the impressive gothic vaulted ceilings of this beautiful historic church, but remember to dress modestly when stepping inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus Jeanne d'Albret",
+            "hu": "Jeanne d'Albret Ház",
+            "ro": "Casa Jeanne d'Albret",
+            "en": "Jeanne d'Albret House"
+          },
+          "coords": [
+            -0.774734,
+            43.488408
+          ],
+          "category": "museum",
+          "arrive_at": "11:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die protestantische Geschichte des Béarn in diesem Museum aus dem 16. Jahrhundert und nutzen Sie den Audioguide für das beste Erlebnis.",
+            "hu": "Ismerje meg a Béarn régió protestáns történelmét ebben a 16. századi múzeumban, és a legjobb élmény érdekében kérje az angol nyelvű audioguide-ot.",
+            "ro": "Descoperiți istoria protestantă a regiunii Béarn în acest muzeu din secolul al XVI-lea și solicitați un ghid audio pentru o experiență completă.",
+            "en": "Explore the deep Protestant history of the Béarn region in this 16th-century museum, and pick up the English audio guide for the best experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont Vieux",
+            "hu": "Pont Vieux (Öreg Híd)",
+            "ro": "Pont Vieux (Podul Vechi)",
+            "en": "Pont Vieux (Old Bridge)"
+          },
+          "coords": [
+            -0.777031,
+            43.486288
+          ],
+          "category": "historical",
+          "arrive_at": "12:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie über diese befestigte Brücke aus dem 13. Jahrhundert über den Fluss Gave de Pau und gehen Sie zum Ufer für das beste Fotomotiv.",
+            "hu": "Sétáljon át a Gave de Pau folyót átívelő, 13. századi erődített hídon, és a legjobb fotók kedvéért ereszkedjen le egészen a folyópartig.",
+            "ro": "Plimbați-vă pe acest pod fortificat emblematic din secolul al XIII-lea peste râul Gave de Pau și coborâți pe mal pentru cel mai bun unghi foto.",
+            "en": "Walk across this iconic 13th-century fortified bridge spanning the Gave de Pau river, and step down to the riverbank for the best photo angle."
+          }
+        },
+        {
+          "name": {
+            "de": "Base de Loisirs d'Orthez",
+            "hu": "Base de Loisirs d'Orthez",
+            "ro": "Base de Loisirs d'Orthez",
+            "en": "Base de Loisirs d'Orthez"
+          },
+          "coords": [
+            -0.753163,
+            43.474573
+          ],
+          "category": "family",
+          "arrive_at": "14:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Verbringen Sie eine schöne Zeit in diesem Freizeitzentrum mit Sandstrand und Wasseraktivitäten und packen Sie Sonnencreme und ein Handtuch ein.",
+            "hu": "Töltsön el egy kellemes időt ebben a homokos stranddal rendelkező szabadidőközpontban, és mindenképpen vigyen magával naptejet és törölközőt.",
+            "ro": "Petreceți timp de calitate la acest centru de agrement cu plaja sa de nisip și activități nautice, aducând cremă de soare și un prosop cu dumneavoastră.",
+            "en": "Spend quality time at this leisure center with its sandy beach and water activities, packing plenty of sunscreen and a towel for a sunny afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscine",
+            "hu": "Városi Uszoda",
+            "ro": "Piscina Municipală",
+            "en": "Piscine"
+          },
+          "coords": [
+            -0.768367,
+            43.45506
+          ],
+          "category": "family",
+          "arrive_at": "15:40",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich am Ende des Tages in diesem gepflegten städtischen Schwimmbad ab, aber denken Sie an eine in Frankreich obligatorische Badekappe.",
+            "hu": "Hűtse le magát a nap végén ebben a jól karbantartott városi uszodában, de ne felejtsen el úszósapkát vinni, ami kötelező a francia uszodákban.",
+            "ro": "Răcoriți-vă la sfârșitul zilei în această piscină municipală bine întreținută, dar nu uitați să aduceți o cască de înot, care este obligatorie în Franța.",
+            "en": "Cool off at the end of the day in this well-maintained municipal pool facility, but remember to bring a swimming cap which is mandatory in France."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zum Moncade-Turm für eine tolle Aussicht, bevor Sie im Zentrum die Saint-Pierre-Kirche und das Haus Jeanne d'Albret besuchen. Mittags erkunden Sie die alten Befestigungen am Pont Vieux. Parken Sie nachmittags nahe der Base de Loisirs d'Orthez, um am Sandstrand zu entspannen. Beenden Sie den Tag mit einem abendlichen Bad in der städtischen Piscine.",
+        "hu": "Reggel hajtson a Moncade toronyhoz a lenyűgöző panorámáért, majd irány a központ a Saint-Pierre templom és a Jeanne d'Albret ház felfedezésére. Délben tegyen egy kellemes sétát az ősi Pont Vieux erődítményeinél. Délután parkoljon le a Base de Loisirs d'Orthez közelében, hogy a homokos strandon pihenjen. Fejezze be a napot egy esti csobbanással a helyi uszodában.",
+        "ro": "Conduceți la Turnul Moncade pentru o priveliște de dimineață, apoi mergeți în centru pentru a vizita Biserica Saint-Pierre și Casa Jeanne d'Albret. Bucurați-vă la prânz de o plimbare plăcută în jurul vechiului Pont Vieux. După-amiaza, parcați lângă Base de Loisirs d'Orthez pentru a vă relaxa pe plajă. Terminați cu o baie de seară la piscina locală.",
+        "en": "Drive up to the Moncade Tower first for a sweeping morning view, then head into the center to visit the Saint-Pierre Church and Jeanne d'Albret House. Enjoy a pleasant midday walk around the ancient fortifications of Pont Vieux. In the afternoon, park near the Base de Loisirs d'Orthez to relax by the sandy beach. Finish with an evening dip in the local Piscine."
+      }
+    }
+  }
+}

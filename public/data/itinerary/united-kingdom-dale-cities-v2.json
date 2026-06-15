@@ -1,0 +1,451 @@
+{
+  "city_id": "united-kingdom-dale-cities-v2",
+  "anchor": {
+    "name": "Dale",
+    "coords": [
+      -5.16944,
+      51.70752
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:21",
+      "total_km": 5.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Gann Lime Kilns",
+            "hu": "Gann Lime Kilns",
+            "ro": "Gann Lime Kilns",
+            "en": "Gann Lime Kilns"
+          },
+          "coords": [
+            -5.173993,
+            51.715127
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit der Erkundung dieser historischen Kalköfen, wo Sie die robuste industrielle Vergangenheit der walisischen Küste spüren können.",
+            "hu": "Kezdje a napot e történelmi mészkemencék felfedezésével, ahol megtapasztalhatja a walesi partvidék robusztus ipari múltját, mielőtt dél felé indulna.",
+            "ro": "Începeți-vă ziua explorând aceste cuptoare istorice de calcar, unde puteți atinge trecutul industrial robust al coastei galeze înainte de a continua spre sud.",
+            "en": "Begin your day exploring these historic limestone kilns where you can touch the robust industrial past of the Welsh coast before continuing south."
+          }
+        },
+        {
+          "name": {
+            "de": "Westdale Bay",
+            "hu": "Westdale Bay",
+            "ro": "Westdale Bay",
+            "en": "Westdale Bay"
+          },
+          "coords": [
+            -5.188424,
+            51.708076
+          ],
+          "category": "recreational",
+          "arrive_at": "10:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die markanten roten Sandsteinklippen dieser wunderschönen Bucht, aber achten Sie auf Ihre Schritte beim steilen Abstieg zum herrlichen Sandstrand.",
+            "hu": "Élvezze e gyönyörű öböl lenyűgöző vörös homokkő szikláit, de vigyázzon a lépéseire a lenti csodálatos homokos strandhoz vezető meredek lejtőn.",
+            "ro": "Bucurați-vă de stâncile uimitoare de gresie roșie ale acestui golf frumos, dar aveți grijă la coborârea abruptă spre plaja magnifică de nisip de dedesubt.",
+            "en": "Enjoy the striking red sandstone cliffs of this beautiful bay, but watch your step on the steep descent to the magnificent sandy beach below."
+          }
+        },
+        {
+          "name": {
+            "de": "Castle Beach",
+            "hu": "Castle Beach",
+            "ro": "Castle Beach",
+            "en": "Castle Beach"
+          },
+          "coords": [
+            -5.158139,
+            51.701644
+          ],
+          "category": "recreational",
+          "arrive_at": "12:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich eine wohlverdiente Pause an diesem geschützten Kiesstrand, perfekt zum Steinehüpfen und Genießen der ruhigen Gewässer von Milford Haven.",
+            "hu": "Tartson egy jól megérdemelt pihenőt ezen a védett kavicsos strandon, amely tökéletes a kacsázáshoz és a Milford Haven békés vizeinek élvezetéhez.",
+            "ro": "Luați o binemeritată odihnă pe această plajă adăpostită cu pietriș, perfectă pentru a arunca pietre și a vă bucura de apele calme ale canalului Milford Haven.",
+            "en": "Take a well-deserved rest at this sheltered shingle beach, perfect for skipping stones and enjoying the calm waters of the Milford Haven waterway."
+          }
+        },
+        {
+          "name": {
+            "de": "Dale Fort",
+            "hu": "Dale Fort",
+            "ro": "Dale Fort",
+            "en": "Dale Fort"
+          },
+          "coords": [
+            -5.151122,
+            51.70276
+          ],
+          "category": "castle",
+          "arrive_at": "13:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Militärgeschichte dieser viktorianischen Festung, die heute als meeresbiologisches Zentrum dient und Panoramablicke bietet.",
+            "hu": "Fedezze fel e viktoriánus erőd lenyűgöző hadtörténetét, amely ma tengerbiológiai központként működik, és lenyűgöző panorámát nyújt a tengerre.",
+            "ro": "Descoperiți istoria militară fascinantă a acestei fortărețe victoriene, care servește acum ca centru de biologie marină, oferind vederi panoramice uimitoare.",
+            "en": "Discover the fascinating military history of this Victorian fortress, which now serves as a marine biology centre, offering stunning panoramic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Watwick Bay",
+            "hu": "Watwick Bay",
+            "ro": "Watwick Bay",
+            "en": "Watwick Bay"
+          },
+          "coords": [
+            -5.159923,
+            51.692588
+          ],
+          "category": "recreational",
+          "arrive_at": "15:36",
+          "stay_min": 105,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an diesem abgelegenen, unberührten Strand, der nur zu Fuß erreichbar ist, der perfekte ruhige Ort für den Sonnenuntergang.",
+            "hu": "Fejezze be sétáját ezen az elszigetelt, érintetlen, csak gyalog megközelíthető strandon, amely tökéletes, nyugodt hely a naplemente megtekintéséhez.",
+            "ro": "Încheiați plimbarea la această plajă izolată și virgină, accesibilă doar pe jos, fiind locul liniștit perfect pentru a privi cum începe să apună soarele.",
+            "en": "Conclude your walk at this isolated, pristine beach accessible only by foot, making it the perfect tranquil spot to watch the sun begin to set."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der frischen Küstenluft an den historischen Gann-Kalköfen. Mittags überqueren Sie die Halbinsel zu den dramatischen roten Klippen der Westdale Bay für eine erfrischende Pause. Am Nachmittag erkunden Sie die geschützten Ufer von Castle Beach und tauchen im Dale Fort in die Geschichte ein. Ihr Abend klingt perfekt an den abgelegenen Sandstränden der Watwick Bay aus.",
+        "hu": "Kezdje a reggelt a friss parti levegőn a történelmi Gann mészkemencéknél. Délben átszeli a félszigetet a Westdale-öböl drámai vörös szikláihoz egy frissítő pihenőre. Délután felfedezheti a Castle Beach védett partjait, és elmerülhet a történelemben a Dale-erődben. Az estéje tökéletesen zárul a Watwick-öböl eldugott homokos partjainál, hallgatva a tenger zúgását.",
+        "ro": "Începeți dimineața respirând aerul proaspăt de coastă la istoricele cuptoare de calcar Gann. La amiază traversați peninsula către stâncile roșii dramatice din Westdale Bay. După-amiaza, veți explora țărmurile adăpostite din Castle Beach și vă veți scufunda în istorie la fortul Dale. Seara se încheie perfect pe nisipurile izolate din Watwick Bay, în liniștea deplină a naturii.",
+        "en": "Start your morning breathing in the fresh coastal air at the historic Gann Lime Kilns. Midday brings you across the peninsula to the dramatic red cliffs of Westdale Bay for a refreshing scenic break. In the afternoon, you will explore the sheltered shores of Castle Beach and dive into history at Dale Fort. Your evening winds down perfectly at the secluded sands of Watwick Bay."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:57",
+      "total_km": 5.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Runway",
+            "hu": "Runway",
+            "ro": "Runway",
+            "en": "Runway"
+          },
+          "coords": [
+            -5.193163,
+            51.710657
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Fahrt an den Überresten dieses historischen Weltkriegsflugplatzes, ein flacher Ort, der einen Einblick in die Kriegsvergangenheit bietet.",
+            "hu": "Kezdje kerékpározását e történelmi második világháborús repülőtér maradványainál, amely egyedülálló bepillantást nyújt Pembrokeshire háborús múltjába.",
+            "ro": "Începeți plimbarea la rămășițele acestui aerodrom istoric din Al Doilea Război Mondial, un spațiu deschis ce oferă o privire unică asupra trecutului.",
+            "en": "Start your ride at the remnants of this historic WWII airfield, a flat and open space offering a unique glimpse into Pembrokeshire's wartime past."
+          }
+        },
+        {
+          "name": {
+            "de": "Westdale Bay",
+            "hu": "Westdale Bay",
+            "ro": "Westdale Bay",
+            "en": "Westdale Bay"
+          },
+          "coords": [
+            -5.188424,
+            51.708076
+          ],
+          "category": "recreational",
+          "arrive_at": "10:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihr Fahrrad oben stehen, um zu den dramatischen roten Klippen und brechenden Wellen hinunterzuwandern, ein hervorragender Ort für Fotos.",
+            "hu": "Hagyja a kerékpárját a hegytetőn, és sétáljon le a drámai vörös sziklákhoz és a becsapódó hullámokhoz, ami kiváló hely fotózáshoz és nézelődéshez.",
+            "ro": "Lăsați bicicleta sus pentru a coborî la stâncile roșii dramatice și valurile puternice, un loc excelent pentru fotografie și vederi panoramice de coastă.",
+            "en": "Leave your bike near the top to hike down to the dramatic red cliffs and crashing waves, an excellent spot for photography and coastal views."
+          }
+        },
+        {
+          "name": {
+            "de": "Gann Lime Kilns",
+            "hu": "Gann Lime Kilns",
+            "ro": "Gann Lime Kilns",
+            "en": "Gann Lime Kilns"
+          },
+          "coords": [
+            -5.173993,
+            51.715127
+          ],
+          "category": "historical",
+          "arrive_at": "11:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Radeln Sie zu diesen gut erhaltenen Steinstrukturen an der Mündung, wo Sie Ihr Fahrrad leicht parken und das industrielle Erbe der Region erkunden können.",
+            "hu": "Kerékpározzon el ezekhez a jól karbantartott kőszerkezetekhez a torkolatnál, ahol könnyen leparkolhat, és felfedezheti a régió ipari örökségét.",
+            "ro": "Mergeți cu bicicleta la aceste structuri de piatră bine conservate de lângă estuar, unde puteți parca ușor pentru a explora moștenirea industrială locală.",
+            "en": "Cycle over to these well-preserved stone structures by the estuary, where you can easily park your bike and explore the region's industrial heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Dale Fort",
+            "hu": "Dale Fort",
+            "ro": "Dale Fort",
+            "en": "Dale Fort"
+          },
+          "coords": [
+            -5.151122,
+            51.70276
+          ],
+          "category": "castle",
+          "arrive_at": "13:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Fahren Sie an den Rand der Halbinsel, um diese Küstenverteidigung aus dem 19. Jahrhundert zu besuchen, achten Sie dabei auf die schmale Zufahrtsstraße.",
+            "hu": "Tekerjen ki a félsziget szélére, hogy meglátogassa ezt a lenyűgöző 19. századi partvédelmet, de vigyázzon a szikla menti keskeny bekötőúton.",
+            "ro": "Pedalați spre marginea peninsulei pentru a vizita această apărare de coastă din secolul XIX, având grijă pe drumul de acces îngust de-a lungul stâncii.",
+            "en": "Ride out to the edge of the peninsula to visit this impressive 19th-century coastal defence, taking care on the narrow access road along the cliff."
+          }
+        },
+        {
+          "name": {
+            "de": "Watwick Bay",
+            "hu": "Watwick Bay",
+            "ro": "Watwick Bay",
+            "en": "Watwick Bay"
+          },
+          "coords": [
+            -5.159923,
+            51.692588
+          ],
+          "category": "recreational",
+          "arrive_at": "14:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad und navigieren Sie vorsichtig den steilen Pfad hinunter zu diesem versteckten Strand, bekannt für klares Wasser und Ruhe.",
+            "hu": "Parkolja le kerékpárját, és óvatosan ereszkedjen le a meredek ösvényen ehhez a rejtett gyöngyszemhez, amely tiszta vizéről és nyugalmáról híres.",
+            "ro": "Parcați bicicleta și navigați cu grijă pe calea abruptă până la această bijuterie ascunsă de plajă, faimoasă pentru apele clare și liniștea deplină.",
+            "en": "Park your bicycle and carefully navigate the steep path down to this hidden gem of a beach, famous for its clear waters and complete tranquility."
+          }
+        },
+        {
+          "name": {
+            "de": "West Blockhouse Fort",
+            "hu": "West Blockhouse Fort",
+            "ro": "West Blockhouse Fort",
+            "en": "West Blockhouse Fort"
+          },
+          "coords": [
+            -5.15799,
+            51.68834
+          ],
+          "category": "fortress",
+          "arrive_at": "16:07",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour an dieser beeindruckenden Küstenbatterie, nehmen Sie sich Zeit für das Gelände und genießen Sie die spektakuläre Aussicht.",
+            "hu": "Fejezze be kerékpáros útját ennél a félelmetes parti ütegnél, szánjon időt a történelmi terület bejárására, és élvezze a látványos óceáni naplementét.",
+            "ro": "Terminați-vă călătoria cu bicicleta la această formidabilă baterie de coastă, făcând timp să vă plimbați pe terenurile istorice la apusul soarelui.",
+            "en": "Finish your cycling journey at this formidable coastal battery, taking time to wander the historic grounds and enjoy spectacular sunset ocean vistas."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour entlang der Landebahn, bevor Sie die dramatische Küste an der Westdale Bay genießen. Gegen Mittag radeln Sie zur ruhigen Flussmündung, um die alten Gann-Kalköfen zu entdecken. Der Nachmittag lädt zu einer landschaftlich reizvollen Fahrt zum Dale Fort und der Isolation der Watwick Bay ein. Beenden Sie Ihren Tag mit der Erkundung des West Blockhouse Forts in der Abenddämmerung.",
+        "hu": "Kezdje kerékpáros túráját a történelmi kifutópálya mentén, majd gyönyörködjön a drámai partvidékben a Westdale-öbölnél. Dél közeledtével tekerjen a csendes torkolat felé, hogy felfedezze a régi Gann mészkemencéket. A délután festői utat kínál a Dale-erődhöz és a Watwick-öböl érintetlen elszigeteltségéhez. Zárja a napot a lenyűgöző West Blockhouse Fort falainak felfedezésével.",
+        "ro": "Începeți turul cu bicicleta pe vechea pistă de aterizare înainte de a admira coasta dramatică din Westdale Bay. Aproape de amiază, pedalați spre estuarul liniștit pentru a descoperi cuptoarele de calcar Gann. După-amiaza vă invită la o plimbare pitorească până la fortul Dale și izolarea virgină din Watwick Bay. Încheiați-vă ziua explorând zidurile impunătoare ale fortului West Blockhouse la lăsarea serii.",
+        "en": "Kick off your cycling tour tracing the historic runway lines before taking in the dramatic coastline at Westdale Bay. As midday approaches, pedal towards the tranquil estuary to discover the old Gann Lime Kilns. The afternoon invites a scenic ride out to Dale Fort and the pristine isolation of Watwick Bay. Conclude your day exploring the imposing walls of West Blockhouse Fort as dusk settles."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:13",
+      "total_km": 8.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "St Ishmael's",
+            "hu": "St Ishmael's",
+            "ro": "St Ishmael's",
+            "en": "St Ishmael's"
+          },
+          "coords": [
+            -5.142651,
+            51.717282
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Fahrt mit einem friedlichen Besuch dieser alten, in einem tiefen Tal versteckten Pfarrkirche und genießen Sie die ruhige Atmosphäre.",
+            "hu": "Kezdje az autózást ennek a mély völgyben megbúvó ősi plébániatemplomnak a békés meglátogatásával, élvezve a nyugodt légkört és a sírköveket.",
+            "ro": "Începeți-vă călătoria cu o vizită pașnică la această biserică parohială antică ascunsă într-o vale adâncă, bucurându-vă de atmosfera senină și istorică.",
+            "en": "Begin your drive with a peaceful visit to this ancient parish church hidden in a deep valley, enjoying the serene atmosphere and historic gravestones."
+          }
+        },
+        {
+          "name": {
+            "de": "Gann Lime Kilns",
+            "hu": "Gann Lime Kilns",
+            "ro": "Gann Lime Kilns",
+            "en": "Gann Lime Kilns"
+          },
+          "coords": [
+            -5.173993,
+            51.715127
+          ],
+          "category": "historical",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe für einen kurzen Spaziergang zu diesen faszinierenden Küstenöfen, die ein fotogenes Fenster in die maritime Vergangenheit bieten.",
+            "hu": "Parkoljon le a közelben, és sétáljon el ezekhez a lenyűgöző parti kemencékhez, amelyek fotogén ablakot nyitnak a terület tengeri és ipari múltjára.",
+            "ro": "Parcați în apropiere și faceți o scurtă plimbare până la aceste cuptoare de coastă fascinante, ce oferă o fereastră fotogenică în trecutul maritim local.",
+            "en": "Park nearby and take a short walk to these fascinating coastal kilns, which offer a photogenic window into the area's maritime and industrial past."
+          }
+        },
+        {
+          "name": {
+            "de": "Runway",
+            "hu": "Runway",
+            "ro": "Runway",
+            "en": "Runway"
+          },
+          "coords": [
+            -5.193163,
+            51.710657
+          ],
+          "category": "historical",
+          "arrive_at": "11:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Fahren Sie entlang der flachen Strecken dieses ehemaligen Militärflugplatzes und stellen Sie sich die geschäftige Luftfahrtaktivität von einst vor.",
+            "hu": "Vezessen végig ezen az egykori katonai repülőtér sík szakaszain, és képzelje el a nyüzsgő légi tevékenységet, amely egykor ezt a szeles félszigetet jellemezte.",
+            "ro": "Conduceți de-a lungul întinderilor plate ale acestui fost aerodrom militar, vizualizând activitatea aviatică plină de viață care definea cândva peninsula.",
+            "en": "Drive along the flat stretches of this former military airfield, visualizing the bustling aviation activity that once defined this windy peninsula."
+          }
+        },
+        {
+          "name": {
+            "de": "Westdale Bay",
+            "hu": "Westdale Bay",
+            "ro": "Westdale Bay",
+            "en": "Westdale Bay"
+          },
+          "coords": [
+            -5.188424,
+            51.708076
+          ],
+          "category": "recreational",
+          "arrive_at": "12:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihr Auto an der Haltebucht stehen und wandern Sie vorsichtig zu diesem herrlichen Sandstrand hinunter, der von roten Felsen gesäumt wird.",
+            "hu": "Hagyja autóját az út menti pihenőnél, és óvatosan túrázzon le ehhez a csodálatos, vörös homokkő sziklaalakzatokkal szegélyezett homokos strandhoz.",
+            "ro": "Lăsați mașina la marginea drumului și coborâți cu grijă la această plajă magnifică de nisip străjuită de formațiuni uimitoare de gresie roșie.",
+            "en": "Leave your car at the roadside pull-off and carefully hike down to this magnificent sandy beach bordered by striking red sandstone rock formations."
+          }
+        },
+        {
+          "name": {
+            "de": "Dale Fort",
+            "hu": "Dale Fort",
+            "ro": "Dale Fort",
+            "en": "Dale Fort"
+          },
+          "coords": [
+            -5.151122,
+            51.70276
+          ],
+          "category": "castle",
+          "arrive_at": "14:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Befahren Sie die malerische und schmale Zufahrtsstraße zu dieser viktorianischen Festung, die einen unvergleichlichen Blick auf Milford Haven bietet.",
+            "hu": "Navigáljon a festői és keskeny bekötőúton, hogy elérje ezt a viktoriánus erődöt, amely ma kutatóközpont, és páratlan kilátást nyújt a Milford Havenre.",
+            "ro": "Navigați pe drumul de acces pitoresc și îngust pentru a ajunge la această fortăreață victoriană, acum un centru de cercetare cu vederi de neegalat.",
+            "en": "Navigate the scenic and narrow access road to reach this Victorian stronghold, now a research center offering unparalleled views of Milford Haven."
+          }
+        },
+        {
+          "name": {
+            "de": "West Blockhouse Fort",
+            "hu": "West Blockhouse Fort",
+            "ro": "West Blockhouse Fort",
+            "en": "West Blockhouse Fort"
+          },
+          "coords": [
+            -5.15799,
+            51.68834
+          ],
+          "category": "fortress",
+          "arrive_at": "15:23",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Roadtrip an dieser majestätischen Küstenverteidigungsbatterie, ein perfekter Ort, um Schiffe in der Abenddämmerung zu beobachten.",
+            "hu": "Fejezze be autós utazását ennél a fenséges partvédő ütegnél, amely tökéletes hely a parti ösvényen való sétára és a hajók nézésére szürkületkor.",
+            "ro": "Terminați excursia cu mașina la această baterie maiestuoasă de apărare a coastei, locul perfect pentru a vă plimba și a privi navele în amurg.",
+            "en": "End your road trip at this majestic coastal defense battery, a perfect spot to wander around the coastal path and watch ships passing in the twilight."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Roadtrip beginnt mit einem ruhigen Morgen an der historischen St. Ishmael's Church und den Gann-Kalköfen an der Küste. Die Mittagsfahrten führen Sie über die weiten Flächen der alten Landebahn und hinunter zu den markanten roten Klippen der Westdale Bay. Verbringen Sie Ihren Nachmittag damit, im dramatisch positionierten Dale Fort in die Militärgeschichte einzutauchen. Der Abend endet wunderbar mit einem Besuch des West Blockhouse Forts bei Sonnenuntergang.",
+        "hu": "Autós utazása egy csendes reggellel kezdődik a történelmi St Ishmael templomnál és a parti Gann mészkemencéknél. A déli vezetés átviszi a régi kifutópálya nyílt terein, és le a Westdale-öböl feltűnő vörös szikláihoz. Töltse a délutánt a hadtörténet elmélyítésével a drámai elhelyezkedésű Dale-erődben. Az este gyönyörűen zárul egy naplementés látogatással a West Blockhouse Fortban.",
+        "ro": "Excursia dvs. cu mașina începe cu o dimineață liniștită explorând istorica biserică St Ishmael și cuptoarele de calcar de coastă Gann. Plimbările de la amiază vă poartă prin spațiile deschise ale vechii piste și coboară către stâncile roșii uimitoare din Westdale Bay. Petreceți-vă după-amiaza descoperind istoria militară la fortul Dale, poziționat dramatic. Seara se încheie frumos cu o vizită la apus la fortul West Blockhouse.",
+        "en": "Your road trip begins with a quiet morning exploring the historic St Ishmael's church and the coastal Gann Lime Kilns. Midday drives take you across the open expanses of the old Runway and down to the striking red cliffs of Westdale Bay. Spend your afternoon diving into military history at the dramatically positioned Dale Fort. The evening wraps up beautifully with a sunset visit to West Blockhouse Fort."
+      }
+    }
+  }
+}

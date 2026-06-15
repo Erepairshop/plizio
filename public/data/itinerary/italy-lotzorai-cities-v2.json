@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-lotzorai-cities-v2",
+  "anchor": {
+    "name": "Lotzorai",
+    "coords": [
+      9.66371,
+      39.96916
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:24",
+      "total_km": 3.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Monumento caduti in guerra",
+            "hu": "Monumento caduti in guerra",
+            "ro": "Monumento caduti in guerra",
+            "en": "Monumento caduti in guerra"
+          },
+          "coords": [
+            9.661372,
+            39.970059
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ehren Sie die Gefallenen an diesem ergreifenden Denkmal der lokalen Geschichte von Lotzorai, und trinken Sie einen schnellen Espresso in der Nähe.",
+            "hu": "Tisztelegjen az elesettek előtt ezen a Lotzorai helytörténetét tükröző megrendítő emlékművön, és igyon egy gyors eszpresszót egy közeli kávézóban.",
+            "ro": "Onoare celor căzuți la acest monument emoționant ce reflectă istoria din Lotzorai, și savurați un espresso rapid la o cafenea din apropiere.",
+            "en": "Honor the fallen at this poignant town monument reflecting Lotzorai's local history, and grab a quick espresso at a nearby café before continuing."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Etnografico Sa Domu de Donna Nassia",
+            "hu": "Museo Etnografico Sa Domu de Donna Nassia",
+            "ro": "Museo Etnografico Sa Domu de Donna Nassia",
+            "en": "Museo Etnografico Sa Domu de Donna Nassia"
+          },
+          "coords": [
+            9.659985,
+            39.97058
+          ],
+          "category": "museum",
+          "arrive_at": "09:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Reisen Sie in diesem ethnografischen Museum in die Vergangenheit des sardischen Dorflebens und nehmen Sie sich Zeit für die landwirtschaftlichen Geräte.",
+            "hu": "Lépjen vissza az időben ebben a néprajzi múzeumban, hogy felfedezze a hagyományos szardíniai falusi életet, és csodálja meg az autentikus eszközöket.",
+            "ro": "Întoarceți-vă în timp la acest muzeu etnografic pentru a descoperi viața tradițională sardă, făcându-vă timp să admirați uneltele agricole autentice.",
+            "en": "Step back in time at this ethnographic museum to discover traditional Sardinian village life, taking time to admire the authentic agricultural tools."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello di Medusa",
+            "hu": "Castello di Medusa",
+            "ro": "Castello di Medusa",
+            "en": "Castello di Medusa"
+          },
+          "coords": [
+            9.656696,
+            39.964503
+          ],
+          "category": "castle",
+          "arrive_at": "11:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie die antiken Ruinen des Medusa-Schlosses mit weitem Blick auf die üppige Landschaft, aber tragen Sie unbedingt festes Schuhwerk.",
+            "hu": "Fedezze fel a Medusa kastély ősi romjait, ahonnan pazar kilátás nyílik a buja tájra, de viseljen masszív cipőt, mivel az ösvények meglehetősen egyenetlenek.",
+            "ro": "Explorați ruinele antice ale Castelului Medusa cu vederi ample asupra peisajului luxuriant, dar purtați încălțăminte solidă pentru potecile inegale.",
+            "en": "Explore the ancient ruins of Medusa Castle offering sweeping views of the lush landscape, but wear sturdy shoes as the paths can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido delle Rose",
+            "hu": "Lido delle Rose",
+            "ro": "Lido delle Rose",
+            "en": "Lido delle Rose"
+          },
+          "coords": [
+            9.685319,
+            39.966298
+          ],
+          "category": "recreational",
+          "arrive_at": "13:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 37,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die Mittelmeersonne am lebhaften Lido delle Rose mit seinem kristallklaren Wasser und seien Sie früh dort, um sich einen guten Platz zu sichern.",
+            "hu": "Szívja magába a mediterrán napsütést a kristálytiszta vizéről híres, nyüzsgő Lido delle Rose-on, és érkezzen korán, hogy biztosítson magának egy jó helyet.",
+            "ro": "Bucurați-vă de soarele mediteranean la vibrantul Lido delle Rose, cunoscut pentru apele sale clare, și ajungeți devreme pentru a prinde un loc ideal.",
+            "en": "Soak up the Mediterranean sun at the vibrant Lido delle Rose, known for its crystal-clear waters, and arrive early to secure a prime spot near the shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Iscrixedda",
+            "hu": "Spiaggia di Iscrixedda",
+            "ro": "Spiaggia di Iscrixedda",
+            "en": "Spiaggia di Iscrixedda"
+          },
+          "coords": [
+            9.684622,
+            39.960938
+          ],
+          "category": "recreational",
+          "arrive_at": "14:39",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sandstrand von Iscrixedda im Schatten der Pinienbäume und packen Sie lokale Snacks für ein perfektes Picknick am Meer ein.",
+            "hu": "Pihenjen az Iscrixedda strand aranyló homokján a közeli fenyők árnyékában, és ne felejtsen el helyi finomságokat csomagolni egy tengerparti piknikhez.",
+            "ro": "Relaxați-vă pe nisipul auriu de la Iscrixedda la umbra pinilor din apropiere și împachetați câteva gustări locale pentru un picnic perfect la malul mării.",
+            "en": "Relax on the golden sands of Iscrixedda beach under the shade of nearby pine trees, and remember to pack some local snacks for a perfect seaside picnic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im Zentrum, indem Sie das Denkmal besichtigen und das ethnografische Museum erkunden. Mittags steigen Sie zur Ruine des Medusa-Schlosses auf, wo sich tolle Ausblicke eröffnen. Der Nachmittag führt Sie an die Küste zum Lido delle Rose. Beenden Sie den Tag entspannt am Spiaggia di Iscrixedda, wo sanfte Wellen Sie in den Abend begleiten.",
+        "hu": "Kezdje a reggelt Lotzoraiban a történelmi emlékműnél és a néprajzi múzeumban. Délben másszon fel a Medusa kastély lenyűgöző romjaihoz, ahonnan pazar panoráma nyílik. A délután a tengerpartra szólítja, először a nyüzsgő Lido delle Rose várja. Fejezze be a napot a békés Spiaggia di Iscrixedda homokján, élvezve a hullámok lágy morajlását.",
+        "ro": "Începeți dimineața în Lotzorai explorând monumentul și muzeul etnografic. La prânz, urcați la ruinele Castelului Medusa pentru o priveliște impresionantă. După-amiaza vă conduce spre coastă, începând cu vibrantul Lido delle Rose. Încheiați ziua relaxându-vă pe nisipul auriu de la Spiaggia di Iscrixedda, ascultând valurile mării.",
+        "en": "Start the morning in Lotzorai exploring the local monument and ethnographic museum. Midday invites a scenic hike to the Medusa Castle ruins for panoramic views. The afternoon leads to the coastline, beginning with vibrant Lido delle Rose. Conclude the day relaxing on the golden sands of Spiaggia di Iscrixedda as gentle waves soothe you."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:12",
+      "total_km": 5.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Monumento caduti in guerra",
+            "hu": "Monumento caduti in guerra",
+            "ro": "Monumento caduti in guerra",
+            "en": "Monumento caduti in guerra"
+          },
+          "coords": [
+            9.661372,
+            39.970059
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Ehren Sie die Gefallenen an diesem ergreifenden Denkmal der lokalen Geschichte von Lotzorai, und trinken Sie einen schnellen Espresso in der Nähe.",
+            "hu": "Tisztelegjen az elesettek előtt ezen a Lotzorai helytörténetét tükröző megrendítő emlékművön, és igyon egy gyors eszpresszót egy közeli kávézóban.",
+            "ro": "Onoare celor căzuți la acest monument emoționant ce reflectă istoria din Lotzorai, și savurați un espresso rapid la o cafenea din apropiere.",
+            "en": "Honor the fallen at this poignant town monument reflecting Lotzorai's local history, and grab a quick espresso at a nearby café before continuing."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Etnografico Sa Domu de Donna Nassia",
+            "hu": "Museo Etnografico Sa Domu de Donna Nassia",
+            "ro": "Museo Etnografico Sa Domu de Donna Nassia",
+            "en": "Museo Etnografico Sa Domu de Donna Nassia"
+          },
+          "coords": [
+            9.659985,
+            39.97058
+          ],
+          "category": "museum",
+          "arrive_at": "09:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Reisen Sie in diesem ethnografischen Museum in die Vergangenheit des sardischen Dorflebens und nehmen Sie sich Zeit für die landwirtschaftlichen Geräte.",
+            "hu": "Lépjen vissza az időben ebben a néprajzi múzeumban, hogy felfedezze a hagyományos szardíniai falusi életet, és csodálja meg az autentikus eszközöket.",
+            "ro": "Întoarceți-vă în timp la acest muzeu etnografic pentru a descoperi viața tradițională sardă, făcându-vă timp să admirați uneltele agricole autentice.",
+            "en": "Step back in time at this ethnographic museum to discover traditional Sardinian village life, taking time to admire the authentic agricultural tools."
+          }
+        },
+        {
+          "name": {
+            "de": "Sa Serra",
+            "hu": "Sa Serra",
+            "ro": "Sa Serra",
+            "en": "Sa Serra"
+          },
+          "coords": [
+            9.650198,
+            39.974861
+          ],
+          "category": "natural",
+          "arrive_at": "11:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Natur von Sa Serra, umgeben von der authentischen Flora Sardiniens, und bringen Sie eine Wasserflasche für Ihre Wanderung mit.",
+            "hu": "Élvezze a békés kikapcsolódást Sa Serra természeti szépségében, és feltétlenül vigyen magával egy palack vizet a frissítő, szardíniai túrához.",
+            "ro": "Bucurați-vă de o evadare liniștită în natura din Sa Serra, înconjurați de flora sardă, și luați o sticlă de apă pentru o drumeție revigorantă.",
+            "en": "Enjoy a tranquil escape in the natural beauty of Sa Serra, surrounded by authentic Sardinian flora, and bring a water bottle for a refreshing hike."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello di Medusa",
+            "hu": "Castello di Medusa",
+            "ro": "Castello di Medusa",
+            "en": "Castello di Medusa"
+          },
+          "coords": [
+            9.656696,
+            39.964503
+          ],
+          "category": "castle",
+          "arrive_at": "12:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die antiken Ruinen des Medusa-Schlosses mit weitem Blick auf die üppige Landschaft, aber tragen Sie unbedingt festes Schuhwerk.",
+            "hu": "Fedezze fel a Medusa kastély ősi romjait, ahonnan pazar kilátás nyílik a buja tájra, de viseljen masszív cipőt, mivel az ösvények meglehetősen egyenetlenek.",
+            "ro": "Explorați ruinele antice ale Castelului Medusa cu vederi ample asupra peisajului luxuriant, dar purtați încălțăminte solidă pentru potecile inegale.",
+            "en": "Explore the ancient ruins of Medusa Castle offering sweeping views of the lush landscape, but wear sturdy shoes as the paths can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Pollu",
+            "hu": "Spiaggia di Pollu",
+            "ro": "Spiaggia di Pollu",
+            "en": "Spiaggia di Pollu"
+          },
+          "coords": [
+            9.686633,
+            39.972713
+          ],
+          "category": "recreational",
+          "arrive_at": "14:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhigen Ufer des Pollu-Strandes, ein verstecktes Juwel für stille Momente, an dem ein gutes Buch das entspannte Küstenerlebnis abrundet.",
+            "hu": "Fedezze fel a Pollu strand csendes partjait, amely ideális a nyugodt elmélkedéshez, ahol egy jó könyv tovább fokozza a pihentető tengerparti élményt.",
+            "ro": "Descoperiți țărmurile liniștite de la plaja Pollu, o bijuterie ascunsă ideală pentru relaxare, unde o carte bună completează perfect experiența de coastă.",
+            "en": "Discover the serene shores of Pollu beach, a hidden gem ideal for quiet contemplation, where bringing a good book enhances the relaxing coastal experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Tancau",
+            "hu": "Spiaggia di Tancau",
+            "ro": "Spiaggia di Tancau",
+            "en": "Spiaggia di Tancau"
+          },
+          "coords": [
+            9.686884,
+            39.979574
+          ],
+          "category": "recreational",
+          "arrive_at": "15:27",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Spazieren Sie den Tancau-Strand entlang, der einen fantastischen Blick auf Santa Maria Navarrese bietet und sich perfekt für abendliche Fotos eignet.",
+            "hu": "Sétáljon végig a tágas Tancau strandon, amely fantasztikus kilátást nyújt Santa Maria Navarresére, így tökéletes helyszín a lenyűgöző esti fotózáshoz.",
+            "ro": "Plimbați-vă pe plaja spațioasă Tancau, ce oferă o vedere fantastică spre Santa Maria Navarrese, fiind locul perfect pentru fotografii memorabile de seară.",
+            "en": "Stroll along the spacious Tancau beach offering fantastic views toward Santa Maria Navarrese, making it a perfect spot for memorable evening photography."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens durch das Zentrum zum Monument und Museum. Danach bietet sich ein Ausflug in die Natur von Sa Serra an. Mittags erreichen Sie die Ruinen des Medusa-Schlosses. Am Nachmittag bringt Sie Ihr Fahrrad an die malerische Küste, um die Ruhe von Spiaggia di Pollu zu genießen. Der Tag endet friedlich am weitläufigen Strand von Tancau.",
+        "hu": "Tegyen egy reggeli kerékpártúrát az emlékmű és a múzeum érintésével, majd tekerjen Sa Serra természetébe. Délben érje el a Medusa kastély romjait. Délután a kerékpárja a festői tengerpartra viszi, ahol a Pollu strand nyugalmát élvezheti. A nap végül a tágas Tancau strandon ér véget, egy csodálatos naplemente békés kíséretében.",
+        "ro": "Pedalați dimineața prin centru spre monument și muzeu, apoi bucurați-vă de natura din Sa Serra. La prânz, ajungeți la fascinantele ruine ale Castelului Medusa. După-amiaza, bicicleta vă duce pe coasta pitorească pentru a savura liniștea plajei Pollu. Ziua se încheie pașnic pe plaja întinsă de la Tancau, sub un apus de soare superb.",
+        "en": "Enjoy a morning cycling through the center, stopping at the monument and museum. Late morning brings a ride to the natural beauty of Sa Serra. By midday, reach the ruins of Medusa Castle. The afternoon takes your bike along the scenic coast to soak in the tranquility of Pollu beach. Conclude your evening peacefully at Tancau beach under a sunset."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:10",
+      "total_km": 5.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Sa Serra",
+            "hu": "Sa Serra",
+            "ro": "Sa Serra",
+            "en": "Sa Serra"
+          },
+          "coords": [
+            9.650198,
+            39.974861
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Natur von Sa Serra, umgeben von der authentischen Flora Sardiniens, und bringen Sie eine Wasserflasche für Ihre Wanderung mit.",
+            "hu": "Élvezze a békés kikapcsolódást Sa Serra természeti szépségében, és feltétlenül vigyen magával egy palack vizet a frissítő, szardíniai túrához.",
+            "ro": "Bucurați-vă de o evadare liniștită în natura din Sa Serra, înconjurați de flora sardă, și luați o sticlă de apă pentru o drumeție revigorantă.",
+            "en": "Enjoy a tranquil escape in the natural beauty of Sa Serra, surrounded by authentic Sardinian flora, and bring a water bottle for a refreshing hike."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Etnografico Sa Domu de Donna Nassia",
+            "hu": "Museo Etnografico Sa Domu de Donna Nassia",
+            "ro": "Museo Etnografico Sa Domu de Donna Nassia",
+            "en": "Museo Etnografico Sa Domu de Donna Nassia"
+          },
+          "coords": [
+            9.659985,
+            39.97058
+          ],
+          "category": "museum",
+          "arrive_at": "10:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Reisen Sie in diesem ethnografischen Museum in die Vergangenheit des sardischen Dorflebens und nehmen Sie sich Zeit für die landwirtschaftlichen Geräte.",
+            "hu": "Lépjen vissza az időben ebben a néprajzi múzeumban, hogy felfedezze a hagyományos szardíniai falusi életet, és csodálja meg az autentikus eszközöket.",
+            "ro": "Întoarceți-vă în timp la acest muzeu etnografic pentru a descoperi viața tradițională sardă, făcându-vă timp să admirați uneltele agricole autentice.",
+            "en": "Step back in time at this ethnographic museum to discover traditional Sardinian village life, taking time to admire the authentic agricultural tools."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento caduti in guerra",
+            "hu": "Monumento caduti in guerra",
+            "ro": "Monumento caduti in guerra",
+            "en": "Monumento caduti in guerra"
+          },
+          "coords": [
+            9.661372,
+            39.970059
+          ],
+          "category": "historical",
+          "arrive_at": "12:08",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Ehren Sie die Gefallenen an diesem ergreifenden Denkmal der lokalen Geschichte von Lotzorai, und trinken Sie einen schnellen Espresso in der Nähe.",
+            "hu": "Tisztelegjen az elesettek előtt ezen a Lotzorai helytörténetét tükröző megrendítő emlékművön, és igyon egy gyors eszpresszót egy közeli kávézóban.",
+            "ro": "Onoare celor căzuți la acest monument emoționant ce reflectă istoria din Lotzorai, și savurați un espresso rapid la o cafenea din apropiere.",
+            "en": "Honor the fallen at this poignant town monument reflecting Lotzorai's local history, and grab a quick espresso at a nearby café before continuing."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello di Medusa",
+            "hu": "Castello di Medusa",
+            "ro": "Castello di Medusa",
+            "en": "Castello di Medusa"
+          },
+          "coords": [
+            9.656696,
+            39.964503
+          ],
+          "category": "castle",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie die antiken Ruinen des Medusa-Schlosses mit weitem Blick auf die üppige Landschaft, aber tragen Sie unbedingt festes Schuhwerk.",
+            "hu": "Fedezze fel a Medusa kastély ősi romjait, ahonnan pazar kilátás nyílik a buja tájra, de viseljen masszív cipőt, mivel az ösvények meglehetősen egyenetlenek.",
+            "ro": "Explorați ruinele antice ale Castelului Medusa cu vederi ample asupra peisajului luxuriant, dar purtați încălțăminte solidă pentru potecile inegale.",
+            "en": "Explore the ancient ruins of Medusa Castle offering sweeping views of the lush landscape, but wear sturdy shoes as the paths can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Isula Manna",
+            "hu": "Spiaggia di Isula Manna",
+            "ro": "Spiaggia di Isula Manna",
+            "en": "Spiaggia di Isula Manna"
+          },
+          "coords": [
+            9.685223,
+            39.95436
+          ],
+          "category": "recreational",
+          "arrive_at": "13:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Menschenmassen am Strand von Isula Manna, einem unberührten Küstenabschnitt, und bringen Sie unbedingt Ihren eigenen Sonnenschutz mit.",
+            "hu": "Meneküljön el a tömeg elől az Isula Manna strand érintetlen partszakaszára, és feltétlenül hozzon magával napernyőt, mivel a természetes árnyék korlátozott.",
+            "ro": "Scăpați de aglomerație la plaja Isula Manna, o coastă neatinsă și asigură-te că aduci propria umbrelă deoarece adăpostul natural este destul de limitat.",
+            "en": "Escape the crowds at Isula Manna beach, a pristine stretch of untouched coastline, and ensure you bring your own shade as natural shelter is quite limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Iscrixedda",
+            "hu": "Spiaggia di Iscrixedda",
+            "ro": "Spiaggia di Iscrixedda",
+            "en": "Spiaggia di Iscrixedda"
+          },
+          "coords": [
+            9.684622,
+            39.960938
+          ],
+          "category": "recreational",
+          "arrive_at": "15:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sandstrand von Iscrixedda im Schatten der Pinienbäume und packen Sie lokale Snacks für ein perfektes Picknick am Meer ein.",
+            "hu": "Pihenjen az Iscrixedda strand aranyló homokján a közeli fenyők árnyékában, és ne felejtsen el helyi finomságokat csomagolni egy tengerparti piknikhez.",
+            "ro": "Relaxați-vă pe nisipul auriu de la Iscrixedda la umbra pinilor din apropiere și împachetați câteva gustări locale pentru un picnic perfect la malul mării.",
+            "en": "Relax on the golden sands of Iscrixedda beach under the shade of nearby pine trees, and remember to pack some local snacks for a perfect seaside picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido delle Rose",
+            "hu": "Lido delle Rose",
+            "ro": "Lido delle Rose",
+            "en": "Lido delle Rose"
+          },
+          "coords": [
+            9.685319,
+            39.966298
+          ],
+          "category": "recreational",
+          "arrive_at": "16:25",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die Mittelmeersonne am lebhaften Lido delle Rose mit seinem kristallklaren Wasser und seien Sie früh dort, um sich einen guten Platz zu sichern.",
+            "hu": "Szívja magába a mediterrán napsütést a kristálytiszta vizéről híres, nyüzsgő Lido delle Rose-on, és érkezzen korán, hogy biztosítson magának egy jó helyet.",
+            "ro": "Bucurați-vă de soarele mediteranean la vibrantul Lido delle Rose, cunoscut pentru apele sale clare, și ajungeți devreme pentru a prinde un loc ideal.",
+            "en": "Soak up the Mediterranean sun at the vibrant Lido delle Rose, known for its crystal-clear waters, and arrive early to secure a prime spot near the shoreline."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Autotour mit einem Spaziergang in der Natur von Sa Serra, gefolgt vom ethnografischen Museum. Zur Mittagszeit besichtigen Sie das Denkmal und die Überreste des Medusa-Schlosses. Der Nachmittag ist dem Küstenzauber gewidmet und führt Sie von Isula Manna bis nach Iscrixedda. Zum Abschluss entspannen Sie am Lido delle Rose.",
+        "hu": "Kezdje autós túráját Sa Serra idilli természetében, majd látogasson el a néprajzi múzeumba. Délben tekintse meg az emlékművet és a Medusa kastély lenyűgöző romjait. A délután a tengerparti varázslat jegyében telik, Isula Manna érintetlen partszakaszától Iscrixedda homokjáig utazva. Az estét a nyüzsgő Lido delle Rose strandján zárhatja.",
+        "ro": "Începeți turul auto cu o plimbare prin natura din Sa Serra, urmată de vizita la muzeul etnografic. La prânz, explorați monumentul și impresionantul Castel Medusa. După-amiaza este dedicată magiei coastei, conducând de la plaja Isula Manna până la Iscrixedda. Încheiați ziua relaxându-vă pe nisipul plajei vibrante Lido delle Rose.",
+        "en": "Begin your driving tour with a stroll through the idyllic nature of Sa Serra, followed by insights at the ethnographic museum. Midday brings you to the local monument and the commanding ruins of Medusa Castle. The afternoon is dedicated to coastal magic, cruising from Isula Manna to Iscrixedda beach. Wrap up your journey at Lido delle Rose."
+      }
+    }
+  }
+}

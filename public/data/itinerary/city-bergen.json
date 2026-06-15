@@ -1,0 +1,405 @@
+{
+  "city_id": "city-bergen",
+  "anchor": {
+    "name": "Bergen",
+    "coords": [
+      5.3221,
+      60.3913
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:17",
+      "total_km": 1.06,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Gestapo-Museum",
+            "hu": "Gestapo Múzeum",
+            "ro": "Muzeul Gestapo",
+            "en": "Gestapo Museum"
+          },
+          "coords": [
+            5.320932,
+            60.392821
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die erschütternde Geschichte des Zweiten Weltkriegs im ehemaligen Gestapo-Hauptquartier, daher sollten Sie Ihre Tickets vorab online buchen.",
+            "hu": "Fedezze fel a II. világháború megrázó történelmét az egykori Gestapo főhadiszálláson, ezért érdemes a jegyeket előre, online lefoglalni az interneten.",
+            "ro": "Descoperiți istoria cutremurătoare a celui de-al Doilea Război Mondial la fostul sediu Gestapo, așa că rezervați-vă biletele în avans online pentru a evita cozile.",
+            "en": "Discover chilling WWII history at the former Gestapo headquarters, which offers deep insights into local resistance, so book your tickets in advance online."
+          }
+        },
+        {
+          "name": {
+            "de": "Buekorpsmuseet",
+            "hu": "Buekorpsmuseet",
+            "ro": "Buekorpsmuseet",
+            "en": "Buekorpsmuseet"
+          },
+          "coords": [
+            5.319768,
+            60.394742
+          ],
+          "category": "museum",
+          "arrive_at": "10:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Erkunden Sie die einzigartige Tradition der Bergener Jugendtrommelbrigaden in diesem Museum und prüfen Sie unbedingt die stark variierenden Öffnungszeiten.",
+            "hu": "Ismerje meg a bergeni ifjúsági dobosok egyedülálló hagyományát ebben a lenyűgöző helyi múzeumban, de mindenképpen ellenőrizze az eltérő nyitvatartási napokat.",
+            "ro": "Explorați tradiția unică a brigăzilor de toboșari de tineret din Bergen în acest muzeu fascinant și verificați cu atenție zilele de deschidere, deoarece variază.",
+            "en": "Explore the unique tradition of Bergen's youth drum brigades in this fascinating local museum, and be sure to check the opening days as they vary wildly."
+          }
+        },
+        {
+          "name": {
+            "de": "Theta-Museum",
+            "hu": "Theta Múzeum",
+            "ro": "Muzeul Theta",
+            "en": "Theta Museum"
+          },
+          "coords": [
+            5.324131,
+            60.397619
+          ],
+          "category": "museum",
+          "arrive_at": "12:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betreten Sie den winzigen, versteckten Raum, den der Widerstand während der Besatzung nutzte, aber bringen Sie keine großen Taschen mit, da es sehr eng ist.",
+            "hu": "Lépjen be abba az apró, rejtett szobába, amelyet az ellenállás használt a megszállás alatt, de ne hozzon magával nagy táskát, mert a hely rendkívül szűkös.",
+            "ro": "Pășiți în minuscula cameră ascunsă folosită de rezistență în timpul ocupației, dar țineți cont că spațiul este foarte restrâns, așa că nu aduceți bagaje mari.",
+            "en": "Step into the tiny, hidden room used by the resistance during the Nazi occupation, but bear in mind that space is very tight so avoid bringing large bags."
+          }
+        },
+        {
+          "name": {
+            "de": "Bryggens Museum",
+            "hu": "Bryggens Múzeum",
+            "ro": "Muzeul Bryggens",
+            "en": "Bryggens Museum"
+          },
+          "coords": [
+            5.322812,
+            60.398375
+          ],
+          "category": "museum",
+          "arrive_at": "14:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Bestaunen Sie mittelalterliche archäologische Funde direkt aus dem historischen Hafenviertel und schließen Sie sich am besten einer Führung für mehr Kontext an.",
+            "hu": "Csodálja meg a történelmi kikötőnegyedből feltárt középkori régészeti leleteket, és próbáljon meg csatlakozni egy vezetett túrához a maximális élmény érdekében.",
+            "ro": "Admirați descoperirile arheologice medievale excavate chiar din zona portului istoric și încercați să vă alăturați unui tur ghidat pentru un context complet.",
+            "en": "Marvel at the medieval archaeological finds excavated right from the historic harbor area, and try to join one of the guided tours for maximum historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Håkonshalle",
+            "hu": "Haakon's Hall",
+            "ro": "Sala lui Haakon",
+            "en": "Haakon's Hall"
+          },
+          "coords": [
+            5.317477,
+            60.399674
+          ],
+          "category": "museum",
+          "arrive_at": "16:07",
+          "stay_min": 130,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Pracht dieser königlichen Residenz aus dem 13. Jahrhundert und tragen Sie warme Kleidung, da es wegen der dicken Steinmauern recht kühl ist.",
+            "hu": "Csodálja meg ennek a 13. századi királyi rezidenciának a pompáját, de feltétlenül öltözzön melegen, mert a vastag kőfalak miatt odabent eléggé hűvös van.",
+            "ro": "Admirați măreția acestei reședințe regale din secolul al XIII-lea, și îmbrăcați-vă călduros deoarece zidurile groase de piatră fac să fie destul de frig înăuntru.",
+            "en": "Admire the grandeur of this 13th-century royal residence which hosted majestic banquets, and wear warm clothes because the stone walls make it quite chilly inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen im Zentrum von Bergen, wo die Narben des Zweiten Weltkriegs im Gestapo-Museum nachklingen und eine tiefe historische Reflexion anstoßen. Der Mittag führt Sie in die lokale Kultur, von der faszinierenden Geschichte der Trommelbrigaden im Buekorpsmuseet bis zum winzigen Theta-Museum. Der Nachmittag widmet sich der Hansezeit mit fantastischen Ausgrabungen im Bryggens Museum direkt am Hafen. Wenn der Abend naht, beenden Sie Ihre Tour am majestätischen Haakon's Hall und spüren Sie die königliche Geschichte dieses beeindruckenden Ortes.",
+        "hu": "Kezdje a reggelt Bergen központjában, ahol a II. világháború sebei erőteljesen visszhangoznak a Gestapo Múzeumban, megadva a mély történelmi elmélkedés alaphangját. A dél közeledtével merüljön el a helyi kultúrában a Buekorpsmuseet dobosainak történetén keresztül, majd fedezze fel az apró Theta Múzeumot. A délután a Hanza-korszak felé fordul, a Bryggens Múzeum hihetetlen kikötői régészeti leleteivel. Ahogy közeledik az este, fejezze be sétáját a fenséges Haakon's Hall területén, átérezve a lenyűgöző királyi történelmet.",
+        "ro": "Începeți dimineața traversând centrul orașului Bergen, unde rănile războiului răsună puternic în Muzeul Gestapo, stabilind un ton de profundă reflecție istorică. La amiază pătrundeți în cultura locală, explorând istoria brigăzilor de toboșari la Buekorpsmuseet înainte de a vizita minusculul Muzeu Theta. După-amiaza se îndreaptă spre era hanseatică, cu descoperiri arheologice incredibile la Muzeul Bryggens, chiar pe port. Odată cu lăsarea serii, încheiați călătoria plimbându-vă pe domeniul maiestuoasei Haakon's Hall.",
+        "en": "Start your morning traversing Bergen's central core, where the scars of WWII echo powerfully inside the Gestapo Museum, setting a tone of deep historical reflection. Midday brings you deeper into local culture, winding through the charming drum brigade history at Buekorpsmuseet before exploring the tiny Theta Museum. The afternoon shifts toward the Hanseatic era, with incredible archaeological finds awaiting at Bryggens Museum right along the harbor. As evening approaches, conclude your journey walking the grounds of the majestic Haakon's Hall, feeling the royal history."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 3.19,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bergener Technikmuseum",
+            "hu": "Bergen Műszaki Múzeum",
+            "ro": "Muzeul Tehnic din Bergen",
+            "en": "Bergen Technical Museum"
+          },
+          "coords": [
+            5.320933,
+            60.383841
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Reisen Sie durch faszinierende Sammlungen klassischer Verkehrsmittel in die Vergangenheit und verpassen Sie nicht die an Sonntagen verkehrende historische Straßenbahn.",
+            "hu": "Utazzon vissza az időben a klasszikus közlekedési eszközök és gépek lenyűgöző gyűjteményei között, és ne hagyja ki a vasárnaponként közlekedő nosztalgiavillamost.",
+            "ro": "Călătoriți în timp prin colecții fascinante de vehicule clasice și mașinării de epocă, și nu ratați tramvaiul de patrimoniu care circulă în anumite duminici.",
+            "en": "Ride back in time through fascinating collections of classic transport and vintage machinery, and don't miss the operating heritage tramway on selected Sundays."
+          }
+        },
+        {
+          "name": {
+            "de": "Universitätsmuseum Bergen - Naturgeschichte",
+            "hu": "Bergen Egyetemi Múzeum - Természettörténet",
+            "ro": "Muzeul Universității din Bergen - Istorie Naturală",
+            "en": "University Museum of Bergen – Natural History"
+          },
+          "coords": [
+            5.321555,
+            60.387654
+          ],
+          "category": "museum",
+          "arrive_at": "10:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Entdecken Sie vielfältige geologische Wunder und liebevoll restaurierte botanische Gärten, machen Sie also unbedingt einen Spaziergang im Freien, wenn das Wetter es zulässt.",
+            "hu": "Fedezze fel a változatos geológiai csodákat és a felújított botanikus kerteket, így mindenképpen tegyen egy sétát a szabadban, ha a norvég időjárás engedi.",
+            "ro": "Descoperiți minuni geologice diverse și grădini botanice meticulos restaurate, așa că asigurați-vă că faceți o plimbare afară dacă vremea norvegiană vă permite.",
+            "en": "Discover diverse geological marvels and meticulously restored botanical gardens, so make sure to take a stroll outside if the Norwegian weather permits it."
+          }
+        },
+        {
+          "name": {
+            "de": "Schifffahrtsmuseum",
+            "hu": "Tengerészeti Múzeum",
+            "ro": "Muzeul Maritim",
+            "en": "Maritime Museum"
+          },
+          "coords": [
+            5.319028,
+            60.38697
+          ],
+          "category": "museum",
+          "arrive_at": "12:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch aufwendig gefertigte Schiffsmodelle in Norwegens Seefahrtsgeschichte ein und besuchen Sie die interaktiven Ausstellungen im Erdgeschoss.",
+            "hu": "Merüljön el Norvégia tengerészeti örökségében a kidolgozott hajómodellek révén, és próbálja ki a földszinti interaktív kiállításokat, amelyek minden korosztálynak jók.",
+            "ro": "Pătrundeți în moștenirea maritimă a Norvegiei prin modele de nave complex realizate și explorați exponatele interactive de la parter, excelente pentru toate vârstele.",
+            "en": "Delve into Norway's seafaring legacy through intricately crafted ship models, and check out the interactive exhibits on the ground floor which are great for all ages."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Frederiksberg",
+            "hu": "Frederiksberg erőd",
+            "ro": "Fortul Frederiksberg",
+            "en": "Frederiksberg Fort"
+          },
+          "coords": [
+            5.308845,
+            60.396555
+          ],
+          "category": "fortress",
+          "arrive_at": "14:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick über die Stadt von dieser Küstenfestung aus dem 17. Jahrhundert, aber tragen Sie bequeme Schuhe, da die Kopfsteinpflasterwege steil sind.",
+            "hu": "Élvezze a városra nyíló panorámát ebből a 17. századi tengerparti erődből, de viseljen kényelmes cipőt, mert a macskaköves ösvények helyenként elég meredekek.",
+            "ro": "Bucurați-vă de vederi panoramice ale orașului de la această fortăreață de coastă, dar purtați pantofi confortabili, deoarece cărările pietruite pot fi destul de abrupte.",
+            "en": "Enjoy panoramic views of the entire city from this 17th-century coastal fortress, but wear comfortable walking shoes as the cobblestone paths can be rather steep."
+          }
+        },
+        {
+          "name": {
+            "de": "Lepra-Museum Bergen",
+            "hu": "Bergen Lepramúzeum",
+            "ro": "Muzeul Leprei din Bergen",
+            "en": "Bergen Leprosy Museum"
+          },
+          "coords": [
+            5.332622,
+            60.391436
+          ],
+          "category": "museum",
+          "arrive_at": "15:49",
+          "stay_min": 130,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Reflektieren Sie die Medizingeschichte in diesem unglaublich gut erhaltenen ehemaligen Lepra-Krankenhaus und verweilen Sie kurz im ruhigen Kräutergarten im Innenhof.",
+            "hu": "Tekintse át az orvostörténelmet ebben a hihetetlenül jól megőrzött egykori leprás kórházban, és tartson egy perc csendes elmélkedést a békés udvari gyógynövénykertben.",
+            "ro": "Reflectați asupra istoriei medicale în acest fost spital dedicat leprei incredibil de bine conservat și luați-vă un moment de liniște în grădina de ierburi din curte.",
+            "en": "Reflect on medical history in this incredibly preserved former hospital dedicated to leprosy, and take a moment of quiet contemplation in the peaceful courtyard herb garden."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens zum Bergener Technikmuseum, wo die industrielle Vergangenheit und die Verkehrsgeschichte der Stadt mit mechanischen Wundern zum Leben erwachen. Mittags fahren Sie ins Universitätsviertel für eine Reise durch die Naturgeschichte, nahtlos gefolgt vom maritimen Erbe Norwegens. Die Fahrt am Nachmittag erfordert Ausdauer für den Aufstieg zum Frederiksberg Fort, belohnt aber mit fantastischen Küstenpanoramen. Rollen Sie abends zum wunderschön erhaltenen Lepra-Museum hinab und beenden Sie den Tag besinnlich.",
+        "hu": "Tekerjen a reggeli órákban a Bergeni Műszaki Múzeum felé, ahol a város ipari múltja és közlekedési öröksége mechanikai csodákkal kel életre. Délben guruljon át az egyetemi negyedbe egy élénk utazásra a természettudományok világában, majd ismerje meg Norvégia tengerészeti örökségét. A délutáni tekerés próbára teszi állóképességét a Frederiksberg erőd felé, de lenyűgöző tengerparti panorámával jutalmaz. Este guruljon le a gyönyörűen megőrzött Lepra Múzeumhoz, és zárja a napot nyugodt, békés hangulatban.",
+        "ro": "Porniți dimineața pedalând spre Muzeul Tehnic, unde trecutul industrial și moștenirea transporturilor orașului prind viață prin minuni mecanice. La amiază, îndreptați-vă spre districtul universitar pentru o călătorie vibrantă prin istoria naturală, urmată de moștenirea maritimă a Norvegiei. Călătoria de după-amiază vă testează rezistența cu o urcare la Fortul Frederiksberg, răsplătindu-vă cu panorame de coastă. Coborâți spre seară la Muzeul Leprei, frumos conservat, încheind ziua într-o notă liniștită.",
+        "en": "Pedal into the morning at the Bergen Technical Museum, where the city's industrious past and transport heritage spring to life with mechanical wonder. By midday, cruise over to the University district for a vibrant journey through natural history, followed seamlessly by Norway's deep maritime legacy. The afternoon ride tests your stamina with a climb up to Frederiksberg Fort, rewarding you with sweeping coastal panoramas. Coast down into the evening at the beautifully preserved Leprosy Museum, ending the day on a tranquil, contemplative note."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:11",
+      "total_km": 4.35,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "VilVite",
+            "hu": "VilVite",
+            "ro": "VilVite",
+            "en": "VilVite"
+          },
+          "coords": [
+            5.329121,
+            60.381375
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wecken Sie Ihre Neugier mit riesigen interaktiven Wissenschaftsausstellungen für Familien und versuchen Sie, direkt zur Öffnung zu kommen, um den Schulklassen zu entgehen.",
+            "hu": "Ébresztse fel kíváncsiságát a családok számára tökéletes hatalmas interaktív tudományos kiállításokkal, és próbáljon meg nyitásra érkezni, hogy elkerülje az iskolásokat.",
+            "ro": "Stimulați-vă curiozitatea cu exponate științifice interactive uriașe, perfecte pentru familii, și încercați să ajungeți exact la deschidere pentru a evita grupurile școlare.",
+            "en": "Engage your curiosity with massive interactive science exhibits perfect for families, and try to arrive right at opening time to beat the energetic school crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Universitätsmuseum Bergen - Kulturgeschichte",
+            "hu": "Bergen Egyetemi Múzeum - Kultúrtörténet",
+            "ro": "Muzeul Universității din Bergen - Istorie Culturală",
+            "en": "University Museum of Bergen – Cultural History"
+          },
+          "coords": [
+            5.320175,
+            60.386862
+          ],
+          "category": "museum",
+          "arrive_at": "10:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erleben Sie reichhaltige ethnografische Ausstellungen über das norwegische Landleben und schnappen Sie sich am Eingang eine Broschüre, um die Artefakte besser zu verstehen.",
+            "hu": "Ismerje meg a norvég vidéki életet bemutató gazdag néprajzi kiállításokat, és kérjen egy részletes angol nyelvű brosúrát a bejáratnál a műtárgyak jobb megértéséhez.",
+            "ro": "Experimentați expozițiile etnografice bogate care detaliază viața rurală norvegiană și luați o broșură detaliată de la intrare pentru a înțelege mai bine artefactele.",
+            "en": "Experience rich ethnographic displays detailing Norwegian rural life and folklore, and grab a detailed English brochure at the entrance to better understand the artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergener Schulmuseum",
+            "hu": "Bergen Iskolamúzeum",
+            "ro": "Muzeul Școlii din Bergen",
+            "en": "Bergen School Museum"
+          },
+          "coords": [
+            5.330618,
+            60.394333
+          ],
+          "category": "museum",
+          "arrive_at": "12:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Betreten Sie ein authentisches altes Klassenzimmer, das die Entwicklung der Bildung veranschaulicht, und achten Sie auf die alten Holzpulte, die völlig unberührt sind.",
+            "hu": "Lépjen be egy autentikus régi osztályterembe, amely élénken szemlélteti az oktatás fejlődését, és keresse meg a régi fapadokat, amelyeket a modern idő teljesen érintetlenül hagyott.",
+            "ro": "Pășiți într-o veche sală de clasă autentică, care ilustrează evoluția educației, și căutați vechile bănci de lemn care sunt complet neatinse de trecerea timpului modern.",
+            "en": "Step into an authentic old classroom that vividly illustrates the evolution of education, and look for the old wooden desks which are completely untouched by modern time."
+          }
+        },
+        {
+          "name": {
+            "de": "Norwegisches Fischereimuseum",
+            "hu": "Norvég Halászati Múzeum",
+            "ro": "Muzeul Norvegian al Pescuitului",
+            "en": "Norwegian Fisheries Museum"
+          },
+          "coords": [
+            5.322068,
+            60.407944
+          ],
+          "category": "museum",
+          "arrive_at": "14:19",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erfahren Sie in authentischen Lagerhäusern am Wasser mehr über Norwegens boomendes Fischereierbe und mieten Sie ein Ruderboot, um den Hafen auf eigene Faust zu erkunden.",
+            "hu": "Ismerje meg Norvégia tengerparti halászati örökségét az autentikus vízparti raktárakban, és béreljen evezőscsónakot, hogy egyedül is felfedezhesse a nyugodt kikötőt.",
+            "ro": "Aflați despre moștenirea pescuitului de coastă al Norvegiei găzduită în depozite autentice pe malul apei și închiriați o barcă pentru a explora singuri apele calme.",
+            "en": "Learn about Norway's booming coastal fishing heritage housed in authentic waterfront warehouses, and rent a rowboat to explore the calm harbor waters on your own."
+          }
+        },
+        {
+          "name": {
+            "de": "Håkonshalle",
+            "hu": "Haakon's Hall",
+            "ro": "Sala lui Haakon",
+            "en": "Haakon's Hall"
+          },
+          "coords": [
+            5.317477,
+            60.399674
+          ],
+          "category": "museum",
+          "arrive_at": "16:01",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag in diesem monumentalen gotischen Festsaal, der von König Håkon erbaut wurde, und fangen Sie das goldene Licht an den beeindruckenden alten Mauern ein.",
+            "hu": "Zárja a napot ebben a monumentális gótikus lakomateremben, amelyet Håkon Håkonsson király építtetett, és élvezze az aranyóra fényeit a lenyűgöző ősi kőfalakon.",
+            "ro": "Încheiați-vă ziua la această monumentală sală de festinuri gotică construită de Regele Håkon și surprindeți lumina orei de aur strălucind pe zidăria antică impresionantă.",
+            "en": "End your day at this monumental gothic feasting hall built by King Håkon Håkonsson, and capture the golden hour light glowing against the impressive ancient masonry."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie mit einer Fahrt zum VilVite in einen Vormittag voller Entdeckungen, wo interaktive Wissenschaftsausstellungen Freude für alle Altersgruppen wecken. Mittags wird es akademisch, wenn Sie das Kulturmuseum der Universität erreichen, bevor Sie im charmanten Bergener Schulmuseum in Nostalgie schwelgen. Am Nachmittag fahren Sie zum Norges Fiskerimuseum am Wasser, um die Geschichte des Küstenhandels zu erkunden. Der Abend ruft Sie zurück ins Zentrum, um das beeindruckende alte Mauerwerk von Haakon's Hall zu bewundern.",
+        "hu": "Vezessen egyenesen a felfedezések reggelébe a VilVite-ben, ahol az interaktív tudományos kiállítások minden korosztály számára örömet szereznek. A dél az akadémiai elegancia jegyében telik az Egyetemi Múzeum kulturális szárnyában, majd egy nosztalgikus megálló következik a bájos Iskolamúzeumban. A délután folyamán utazzon el a vízparti Norges Fiskerimuseumhoz, hogy megismerje a létfontosságú part menti kereskedelem történetét. Az este visszaszólítja a városközpontba, hogy megcsodálja a Haakon's Hall ősi kőfalait.",
+        "ro": "Conduceți direct într-o dimineață a descoperirilor la VilVite, unde exponatele interactive de știință stârnesc bucurie și mirare pentru toate vârstele. Amiaza aduce eleganță academică la aripa culturală a Muzeului Universității, urmată de o doză de nostalgie la fermecătorul Muzeu al Școlii. Pe măsură ce se lasă după-amiaza, navigați spre Norges Fiskerimuseum de pe malul apei pentru a explora istoria comerțului de coastă. Seara vă cheamă înapoi în centru, admirând zidăria antică formidabilă a Haakon's Hall.",
+        "en": "Drive straight into a morning of discovery at VilVite, where interactive science and technology exhibits spark joy and wonder for minds of all ages. Midday shifts towards academic elegance as you arrive at the University Museum's cultural wing, before stopping by the charming Bergen Skolemuseum for a dose of nostalgia. As the afternoon unfolds, navigate out to the waterfront Norges Fiskerimuseum to embrace the vital coastal trade history. The evening calls you back to the city center, admiring the formidable ancient stonework of Haakon's Hall."
+      }
+    }
+  }
+}

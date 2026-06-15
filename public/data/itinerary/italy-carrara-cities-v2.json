@@ -1,0 +1,405 @@
+{
+  "city_id": "italy-carrara-cities-v2",
+  "anchor": {
+    "name": "Carrara",
+    "coords": [
+      10.1,
+      44.083333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:14",
+      "total_km": 2.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Fontana del Leone",
+            "hu": "Fontana del Leone",
+            "ro": "Fontana del Leone",
+            "en": "Fontana del Leone"
+          },
+          "coords": [
+            10.097788,
+            44.079651
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die aufwendigen Schnitzereien des Löwenbrunnens, ein Symbol für Carraras Marmorerbe, und füllen Sie Ihre Wasserflasche mit dem frischen Trinkwasser.",
+            "hu": "Csodálja meg a város márványörökségét jelképező Oroszlános kút részletes faragásait, és mindenképpen töltse meg kulacsát a friss, iható forrásvízzel.",
+            "ro": "Admirați sculpturile detaliate ale Fântânii Leului, un simbol al moștenirii de marmură din Carrara, și nu uitați să vă umpleți sticla cu apa sa proaspătă.",
+            "en": "Admire the intricate carvings of the Lion Fountain, a symbol of Carrara's marble legacy, and don't forget to fill your water bottle with its fresh, drinkable water."
+          }
+        },
+        {
+          "name": {
+            "de": "Statua di Giuseppe Garibaldi",
+            "hu": "Statua di Giuseppe Garibaldi",
+            "ro": "Statua di Giuseppe Garibaldi",
+            "en": "Statua di Giuseppe Garibaldi"
+          },
+          "coords": [
+            10.096672,
+            44.078581
+          ],
+          "category": "historical",
+          "arrive_at": "09:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Betrachten Sie die majestätische Garibaldi-Statue aus reinem weißem Marmor, die den italienischen Helden ehrt, und fotografieren Sie sie von links für das beste Licht.",
+            "hu": "Figyelje meg az olasz hőst ünneplő, tiszta fehér márványból faragott fenséges Garibaldi-szobrot, és a legjobb fényviszonyokért balról fotózza a délelőtti órákban.",
+            "ro": "Observați statuia maiestuoasă a lui Garibaldi din marmură albă pură, care onorează eroul italian, și fotografiați-o din stânga pentru a prinde cea mai bună lumină.",
+            "en": "Observe the majestic statue of Garibaldi crafted from pure white marble, honoring the Italian hero, and photograph it from the left to catch the best morning sunlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Mazzini",
+            "hu": "Mazzini",
+            "ro": "Mazzini",
+            "en": "Mazzini"
+          },
+          "coords": [
+            10.099072,
+            44.078498
+          ],
+          "category": "historical",
+          "arrive_at": "10:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie das Giuseppe Mazzini gewidmete Denkmal, das die starken republikanischen Wurzeln der Stadt widerspiegelt, und ruhen Sie sich auf den Marmorbänken aus.",
+            "hu": "Fedezze fel a város erős köztársasági gyökereit tükröző Giuseppe Mazzini emlékművet, és pihenjen meg egy pillanatra a közeli, árnyékos márványpadokon.",
+            "ro": "Explorați monumentul dedicat lui Giuseppe Mazzini, reflectând rădăcinile republicane puternice ale orașului, și luați-vă un moment de odihnă pe băncile de marmură.",
+            "en": "Explore the monument dedicated to Giuseppe Mazzini, reflecting the city's strong republican roots, and take a moment to rest on the nearby marble benches in the shade."
+          }
+        },
+        {
+          "name": {
+            "de": "CARMI - Villa Fabbricotti",
+            "hu": "CARMI - Villa Fabbricotti",
+            "ro": "CARMI - Villa Fabbricotti",
+            "en": "CARMI - Villa Fabbricotti"
+          },
+          "coords": [
+            10.09403,
+            44.084457
+          ],
+          "category": "museum",
+          "arrive_at": "12:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte der Marmorskulptur in der großen Villa Fabbricotti und kaufen Sie Ihre Tickets vorab online, um die Warteschlange zu umgehen.",
+            "hu": "Fedezze fel a márványszobrászat lenyűgöző történetét a nagyszerű Villa Fabbricottiban, és mindenképpen váltsa meg jegyét online, hogy elkerülje a bejáratnál a sorban állást.",
+            "ro": "Descoperiți istoria captivantă a sculpturii în marmură în interiorul măreței Villa Fabbricotti și asigurați-vă că vă cumpărați biletele online pentru a sări peste coadă.",
+            "en": "Discover the captivating history of marble sculpture inside the grand Villa Fabbricotti, and make sure to buy your tickets online in advance to skip the queue at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvedere",
+            "hu": "Belvedere",
+            "ro": "Belvedere",
+            "en": "Belvedere"
+          },
+          "coords": [
+            10.107799,
+            44.082896
+          ],
+          "category": "natural",
+          "arrive_at": "14:19",
+          "stay_min": 55,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf die Apuanischen Alpen von diesem Aussichtspunkt und kommen Sie am späten Nachmittag, um das goldene Licht zu sehen.",
+            "hu": "Élvezze az Apuan-Alpokra nyíló lélegzetelállító panorámát ebből a természetes kilátóból, és látogasson el késő délután, hogy láthassa az aranyló fényben fürdő márványbányákat.",
+            "ro": "Bucurați-vă de vederi panoramice uluitoare ale Alpilor Apuani de la acest punct de belvedere natural și vizitați-l după-amiaza târziu pentru a vedea lumina aurie.",
+            "en": "Enjoy breathtaking panoramic views of the Apuan Alps from this natural viewpoint, and visit during the late afternoon to see the marble quarries glowing in the golden light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt im Herzen von Carrara, wo die Fontana del Leone Sie mit frischem Wasser begrüßt. Schlendern Sie an den monumentalen Marmorwerken lokaler Helden vorbei.\n\nDer Mittag lädt Sie ein, das Erbe von Giuseppe Mazzini zu erkunden und die historische Tiefe zu spüren. Die gepflasterten Straßen führen Sie ganz natürlich zu den Villen.\n\nTauchen Sie am Nachmittag im CARMI-Museum in der Villa Fabbricotti in Kunst und Geschichte ein. Die Exponate zeigen die tiefe Verbindung zwischen Stadt und Stein.\n\nBeenden Sie Ihren Tag am Aussichtspunkt Belvedere und beobachten Sie, wie die Sonne hinter den Alpen untergeht. Das goldene Licht beleuchtet die Steinbrüche zum Abschied.",
+        "hu": "Reggelét Carrara szívében kezdi, ahol a Fontana del Leone friss vízzel várja. Sétáljon el a helyi hősök előtt tisztelgő monumentális, fehér márványból készült alkotások mellett.\n\nA dél a Giuseppe Mazzini örökségének felfedezéséről szól, ahol átérezheti a város történelmi mélységeit. A márvánnyal burkolt utcák természetes módon vezetnek a nagy villák felé.\n\nDélután merüljön el a művészetben és a történelemben a Villa Fabbricottiban található CARMI múzeumban. A kiállítások gyönyörűen részletezik a város és a kő kapcsolatát.\n\nZárja a napot a Belvedere kilátónál, nézve, ahogy a nap lebukik az Apuan-Alpok mögött. Az aranyóra megvilágítja a távoli bányákat, tökéletes búcsút véve a csodás Carrarától.",
+        "ro": "Dimineața ta începe în inima orașului Carrara, unde Fontana del Leone te întâmpină cu apă proaspătă. Plimbă-te pe lângă tributurile monumentale de marmură ale eroilor locali.\n\nAmiaza te invită să explorezi moștenirea lui Giuseppe Mazzini, simțind profunzimea istorică. Străzile pavate cu marmură te conduc în mod natural spre vilele mărețe din zonă.\n\nDupă-amiaza, cufundă-te în artă și istorie la muzeul CARMI din interiorul Villa Fabbricotti. Expozițiile detaliază frumos legătura profundă dintre oraș și piatra sa.\n\nÎncheie-ți ziua la punctul de belvedere Belvedere, urmărind soarele apunând în spatele Alpilor Apuani. Ora de aur iluminează carierele îndepărtate, oferind un rămas bun perfect.",
+        "en": "Your morning begins in the heart of Carrara, where the Fontana del Leone greets you with fresh water. Stroll past the monumental marble tributes to local heroes.\n\nMidday invites you to explore the legacy of Giuseppe Mazzini, feeling the town's historical depth. The marble-paved streets naturally lead you toward the grand villas.\n\nIn the afternoon, immerse yourself in art and history at the CARMI museum inside Villa Fabbricotti. The exhibits beautifully detail the profound connection between the city and its stone.\n\nConclude your day at the Belvedere viewpoint, watching the sun dip behind the Apuan Alps. The golden hour illuminates the distant quarries, offering a perfect, tranquil farewell to Carrara."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:42",
+      "total_km": 4.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di San Ceccardo",
+            "hu": "Chiesa di San Ceccardo",
+            "ro": "Chiesa di San Ceccardo",
+            "en": "Chiesa di San Ceccardo"
+          },
+          "coords": [
+            10.086138,
+            44.069036
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die schöne Chiesa di San Ceccardo mit ihren einzigartigen Marmordetails, und kleiden Sie sich angemessen, da es sich um eine aktive Kultstätte handelt.",
+            "hu": "Látogasson el a helyi védőszentnek szentelt Chiesa di San Ceccardo templomba, és öltözzön visszafogottan, mivel ez egy ma is aktívan működő vallási istentiszteleti hely.",
+            "ro": "Vizitați frumoasa Chiesa di San Ceccardo cu detaliile sale unice din marmură dedicate patronului local și îmbrăcați-vă modest, deoarece este un lăcaș de cult activ.",
+            "en": "Visit the beautiful Chiesa di San Ceccardo with its unique marble details dedicated to the local patron saint, and dress modestly as it is an active place of worship."
+          }
+        },
+        {
+          "name": {
+            "de": "Fontana del Leone",
+            "hu": "Fontana del Leone",
+            "ro": "Fontana del Leone",
+            "en": "Fontana del Leone"
+          },
+          "coords": [
+            10.097788,
+            44.079651
+          ],
+          "category": "landmark",
+          "arrive_at": "09:58",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die aufwendigen Schnitzereien des Löwenbrunnens, ein Symbol für Carraras Marmorerbe, und füllen Sie Ihre Wasserflasche mit dem frischen Trinkwasser.",
+            "hu": "Csodálja meg a város márványörökségét jelképező Oroszlános kút részletes faragásait, és mindenképpen töltse meg kulacsát a friss, iható forrásvízzel.",
+            "ro": "Admirați sculpturile detaliate ale Fântânii Leului, un simbol al moștenirii de marmură din Carrara, și nu uitați să vă umpleți sticla cu apa sa proaspătă.",
+            "en": "Admire the intricate carvings of the Lion Fountain, a symbol of Carrara's marble legacy, and don't forget to fill your water bottle with its fresh, drinkable water."
+          }
+        },
+        {
+          "name": {
+            "de": "CARMI - Villa Fabbricotti",
+            "hu": "CARMI - Villa Fabbricotti",
+            "ro": "CARMI - Villa Fabbricotti",
+            "en": "CARMI - Villa Fabbricotti"
+          },
+          "coords": [
+            10.09403,
+            44.084457
+          ],
+          "category": "museum",
+          "arrive_at": "10:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte der Marmorskulptur in der großen Villa Fabbricotti und kaufen Sie Ihre Tickets vorab online, um die Warteschlange zu umgehen.",
+            "hu": "Fedezze fel a márványszobrászat lenyűgöző történetét a nagyszerű Villa Fabbricottiban, és mindenképpen váltsa meg jegyét online, hogy elkerülje a bejáratnál a sorban állást.",
+            "ro": "Descoperiți istoria captivantă a sculpturii în marmură în interiorul măreței Villa Fabbricotti și asigurați-vă că vă cumpărați biletele online pentru a sări peste coadă.",
+            "en": "Discover the captivating history of marble sculpture inside the grand Villa Fabbricotti, and make sure to buy your tickets online in advance to skip the queue at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Locomotiva a vapore FMC nº 05",
+            "hu": "Locomotiva a vapore FMC nº 05",
+            "ro": "Locomotiva a vapore FMC nº 05",
+            "en": "Locomotiva a vapore FMC nº 05"
+          },
+          "coords": [
+            10.108555,
+            44.081883
+          ],
+          "category": "historical",
+          "arrive_at": "12:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Inspizieren Sie diese historische Dampflokomotive, die einst Marmorblöcke transportierte, und lesen Sie die Informationstafeln, um die industrielle Vergangenheit zu verstehen.",
+            "hu": "Vizsgálja meg ezt a történelmi gőzmozdonyt, amely egykor hatalmas márványtömböket szállított, és olvassa el a közeli információs táblákat a város ipari múltjáról.",
+            "ro": "Inspectați această locomotivă istorică cu abur care transporta odată blocuri masive de marmură și citiți plăcile informative pentru a înțelege trecutul industrial.",
+            "en": "Inspect this historic steam locomotive that once transported massive blocks of marble, and read the nearby informational plaques to understand the city's industrial past."
+          }
+        },
+        {
+          "name": {
+            "de": "San Martire Genesio",
+            "hu": "San Martire Genesio",
+            "ro": "San Martire Genesio",
+            "en": "San Martire Genesio"
+          },
+          "coords": [
+            10.124507,
+            44.078646
+          ],
+          "category": "religious",
+          "arrive_at": "13:32",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich einen ruhigen Moment in San Martire Genesio, einer charmanten Landkirche, und bringen Sie eine kleine Spende mit, um die Erhaltungsarbeiten zu unterstützen.",
+            "hu": "Töltsön el egy csendes pillanatot a San Martire Genesio bájos vidéki templomában, és vigyen magával egy kis adományt, amellyel hozzájárulhat a folyamatos megőrzési munkákhoz.",
+            "ro": "Luați-vă un moment de liniște la San Martire Genesio, o biserică rurală fermecătoare chiar în afara centrului, și aduceți o mică donație pentru a ajuta la eforturile de conservare.",
+            "en": "Take a quiet moment at San Martire Genesio, a charming rural church just outside the center, and bring a small donation to help with the ongoing preservation efforts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer in der friedlichen Chiesa di San Ceccardo und genießen Sie die morgendliche Ruhe. Eine kurze Fahrt bringt Sie ins lebhafte Stadtzentrum.\n\nAm Mittag bringen Sie Ihre Räder in das künstlerische Viertel der Villa Fabbricotti. Hier erwartet Sie das beeindruckende CARMI-Museum, umgeben von üppigen Gärten.\n\nTreten Sie am Nachmittag in Richtung der historischen FMC-Dampflokomotive in die Pedale, einem Denkmal des industriellen Muts. Es ist ein faszinierender Blick auf die Geschichte.\n\nBeenden Sie Ihre Reise mit einer gemütlichen Fahrt nach San Martire Genesio. Diese Landkirche bietet einen ruhigen Raum für Reflexion, während der Tag entspannt ausklingt.",
+        "hu": "Kezdje kerékpáros kalandját a békés Chiesa di San Ceccardo templomnál, élvezve a reggeli nyugalmat. Egy gyors utazás elviszi az élettel teli központba és ikonikus kútjaihoz.\n\nDélben kerekei a Villa Fabbricotti művészeti területére viszik. Itt várja a lenyűgöző CARMI múzeum, amelyet buja kertek vesznek körül, tökéletes egy pihentető szünethez.\n\nDélután pedálozzon a történelmi FMC gőzmozdony felé, amely a város ipari múltjának lenyűgöző emlékműve. Bepillantást enged abba, hogyan szállították egykor a márványt.\n\nZárja utazását egy kellemes tekeréssel a San Martire Genesio felé. Ez a vidéki templom csendes teret kínál az elmélkedésre, miközben a nap lehűl, megkoronázva a napot.",
+        "ro": "Începe-ți aventura pe bicicletă la pașnica Chiesa di San Ceccardo, bucurându-te de liniștea dimineții. O plimbare rapidă te aduce în centrul animat al orașului și la fântânile sale.\n\nLa amiază, roțile te poartă în domeniul artistic al Villa Fabbricotti. Aici te așteaptă impresionantul muzeu CARMI, înconjurat de grădini luxuriante, perfecte pentru o pauză.\n\nDupă-amiaza, pedalează spre locomotiva istorică cu abur FMC, un monument izbitor al curajului industrial al orașului. Este o privire fascinantă asupra modului de transport.\n\nÎncheie-ți călătoria cu o plimbare pe îndelete până la San Martire Genesio. Această biserică rurală oferă un spațiu liniștit pentru reflecție pe măsură ce ziua se răcorește ușor.",
+        "en": "Start your cycling adventure at the peaceful Chiesa di San Ceccardo, soaking in the morning tranquility. A quick ride brings you to the lively city center and its iconic fountains.\n\nBy midday, your wheels carry you into the artistic domain of Villa Fabbricotti. Here, the impressive CARMI museum awaits, surrounded by lush gardens perfect for a restful pause.\n\nIn the afternoon, pedal toward the historical FMC steam locomotive, a striking monument to the city's industrial grit. It's a fascinating look at how marble was once transported.\n\nEnd your journey with a leisurely ride to San Martire Genesio. This rural church offers a quiet space for reflection as the day cools, rounding off a fulfilling day of exploration."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:26",
+      "total_km": 4.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Castello di Moneta",
+            "hu": "Castello di Moneta",
+            "ro": "Castello di Moneta",
+            "en": "Castello di Moneta"
+          },
+          "coords": [
+            10.077962,
+            44.079522
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die antiken Ruinen des Castello di Moneta, die einen Einblick in die mittelalterliche Verteidigung bieten, und tragen Sie festes Schuhwerk für die unebenen Wege.",
+            "hu": "Barangoljon a Castello di Moneta ősi romjai között, amelyek bepillantást engednek a középkori védelmi rendszerekbe, és viseljen masszív túracipőt az egyenetlen ösvényeken.",
+            "ro": "Plimbați-vă prin ruinele antice ale Castello di Moneta, oferind o privire asupra sistemelor de apărare medievale, și purtați pantofi de mers rezistenți pentru potecile inegale.",
+            "en": "Wander through the ancient ruins of Castello di Moneta, offering a glimpse into medieval defense systems, and wear sturdy walking shoes for the uneven pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "San Giovanni",
+            "hu": "San Giovanni",
+            "ro": "San Giovanni",
+            "en": "San Giovanni"
+          },
+          "coords": [
+            10.079177,
+            44.07136
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die ruhige Architektur von San Giovanni, einem verborgenen religiösen Juwel, und kommen Sie früh am Morgen, wenn der Innenraum wunderschön beleuchtet ist.",
+            "hu": "Vizsgálja meg a San Giovanni nyugodt építészetét, amely a környék egyik rejtett vallási gyöngyszeme, és látogasson el kora reggel, amikor a belső teret gyönyörűen megvilágítják.",
+            "ro": "Examinați arhitectura senină a lui San Giovanni, o bijuterie religioasă ascunsă în zonă, și vizitați dimineața devreme când interiorul este frumos iluminat.",
+            "en": "Examine the serene architecture of San Giovanni, a hidden religious gem in the area, and visit early in the morning when the interior is beautifully illuminated."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Ceccardo ad Acquas",
+            "hu": "Chiesa di San Ceccardo ad Acquas",
+            "ro": "Chiesa di San Ceccardo ad Acquas",
+            "en": "Chiesa di San Ceccardo ad Acquas"
+          },
+          "coords": [
+            10.092379,
+            44.071657
+          ],
+          "category": "religious",
+          "arrive_at": "11:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Treten Sie in diese historische Kirche ein, die über einer heiligen Quelle erbaut wurde, und fragen Sie die einheimischen Wächter höflich nach den Legenden der Heilwasser.",
+            "hu": "Lépjen be ebbe a szent forrás fölé épült, nyugtató hangulatáról ismert történelmi templomba, és kérdezze meg udvariasan a helyi gondnokokat a gyógyító vizek legendáiról.",
+            "ro": "Intrați în această biserică istorică construită peste un izvor sacru, cunoscută pentru atmosfera sa calmantă, și întrebați politicos îngrijitorii locali despre legende.",
+            "en": "Step into this historic church built over a sacred spring, known for its calming atmosphere, and politely ask the local caretakers about the legends of the healing waters."
+          }
+        },
+        {
+          "name": {
+            "de": "CARMI - Villa Fabbricotti",
+            "hu": "CARMI - Villa Fabbricotti",
+            "ro": "CARMI - Villa Fabbricotti",
+            "en": "CARMI - Villa Fabbricotti"
+          },
+          "coords": [
+            10.09403,
+            44.084457
+          ],
+          "category": "museum",
+          "arrive_at": "11:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte der Marmorskulptur in der großen Villa Fabbricotti und kaufen Sie Ihre Tickets vorab online, um die Warteschlange zu umgehen.",
+            "hu": "Fedezze fel a márványszobrászat lenyűgöző történetét a nagyszerű Villa Fabbricottiban, és mindenképpen váltsa meg jegyét online, hogy elkerülje a bejáratnál a sorban állást.",
+            "ro": "Descoperiți istoria captivantă a sculpturii în marmură în interiorul măreței Villa Fabbricotti și asigurați-vă că vă cumpărați biletele online pentru a sări peste coadă.",
+            "en": "Discover the captivating history of marble sculpture inside the grand Villa Fabbricotti, and make sure to buy your tickets online in advance to skip the queue at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento dedicato ai Caduti del Marmo",
+            "hu": "Monumento dedicato ai Caduti del Marmo",
+            "ro": "Monumento dedicato ai Caduti del Marmo",
+            "en": "Monumento dedicato ai Caduti del Marmo"
+          },
+          "coords": [
+            10.102863,
+            44.076008
+          ],
+          "category": "historical",
+          "arrive_at": "13:41",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Halten Sie inne an dem Denkmal zu Ehren der gefallenen Marmorarbeiter, einer bewegenden Hommage, und lesen Sie die eingravierten Namen, um die menschlichen Opfer zu würdigen.",
+            "hu": "Emlékezzen a márványmunkások emlékművénél, amely megható tisztelgés a helyi áldozatok előtt, és olvassa el a feliratokat, hogy megértse a bányászat emberi árát.",
+            "ro": "Reflectați la monumentul care onorează muncitorii în marmură căzuți, un tribut emoționant adus sacrificiului local, și citiți numele înscrise pentru a aprecia prețul uman.",
+            "en": "Reflect at the monument honoring the fallen marble workers, a touching tribute to local sacrifice, and read the inscribed names to appreciate the human cost of the quarries."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Begeben Sie sich auf eine Fahrt, beginnend beim alten Castello di Moneta, wo die mittelalterliche Geschichte die Landschaft überblickt. Ein majestätischer Beginn Ihrer Tour.\n\nFahren Sie am Mittag hinunter, um die ruhigen religiösen Stätten zu besuchen, darunter San Giovanni und die kulturell bedeutende Chiesa di San Ceccardo ad Acquas an der Quelle.\n\nVerbringen Sie Ihren Nachmittag damit, zur großen Villa Fabbricotti zu fahren. Das CARMI-Museum bietet den notwendigen Kontext für den Marmor, den Sie überall in der Stadt sehen.\n\nBeenden Sie Ihre landschaftlich reizvolle Fahrt am Denkmal für die gefallenen Marmorarbeiter. Es ist ein ernster, aber schöner Ort, um die Generationen zu ehren, die hier arbeiteten.",
+        "hu": "Induljon egy autós túrára az ősi Castello di Moneta-tól, ahol a középkori történelem fenségesen uralja a tájat. Ez egy nagyszerű kezdete a varázslatos carrarai felfedezésének.\n\nDélben vezessen lefelé, hogy meglátogassa a békés vallási helyszíneket, köztük a San Giovanni-t és a kulturálisan jelentős Chiesa di San Ceccardo ad Acquas-t a szent forrás felett.\n\nDélutánját töltse el a nagy Villa Fabbricotti felé navigálva. A CARMI múzeum alapvető kontextust biztosít ahhoz a márványhoz, amelyet mindenhol lát, az ókortól napjainkig.\n\nZárja festői autózását a márványmunkások emlékművénél. Ez egy kijózanító, de gyönyörű hely, hogy tisztelegjen azok előtt a generációk előtt, akik a város identitását faragták.",
+        "ro": "Pornește într-un tur cu mașina începând de la anticul Castello di Moneta, unde istoria medievală domină peisajul. Este un început maiestuos pentru explorarea ta în Carrara.\n\nLa amiază, condu pentru a vizita site-urile religioase senine, inclusiv San Giovanni și Chiesa di San Ceccardo ad Acquas, semnificativă din punct de vedere cultural.\n\nPetrece-ți după-amiaza navigând spre măreața Villa Fabbricotti. Muzeul CARMI oferă contextul esențial pentru marmura pe care o vezi peste tot, din cele mai vechi timpuri.\n\nÎncheie-ți plimbarea pitorească la Monumentul Muncitorilor în Marmură Căzuți. Este un loc emoționant, dar frumos, pentru a onora generațiile care au sculptat identitatea orașului.",
+        "en": "Embark on a driving tour starting at the ancient Castello di Moneta, where medieval history overlooks the landscape. It's a majestic beginning to your Carrara exploration.\n\nBy midday, drive down to visit the serene religious sites, including San Giovanni and the culturally significant Chiesa di San Ceccardo ad Acquas, built over sacred springs.\n\nSpend your afternoon navigating to the grand Villa Fabbricotti. The CARMI museum provides essential context to the marble you see everywhere, from ancient times to modern art.\n\nConclude your scenic drive at the Monument to the Fallen Marble Workers. It's a sobering but beautiful place to honor the generations who carved the city's identity from stone."
+      }
+    }
+  }
+}

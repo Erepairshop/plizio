@@ -1,0 +1,497 @@
+{
+  "city_id": "italy-bagno-vignoni-cities-v2",
+  "anchor": {
+    "name": "Bagno Vignoni",
+    "coords": [
+      11.61942,
+      43.02837
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:29",
+      "total_km": 4.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Parco dei Mulini",
+            "hu": "Parco dei Mulini",
+            "ro": "Parco dei Mulini",
+            "en": "Parco dei Mulini"
+          },
+          "coords": [
+            11.619448,
+            43.027018
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen historischen Thermalpark mit seinen alten Mühlen an den heißen Quellen und tragen Sie bequeme Schuhe für die unebenen Steinwege rund um die Becken.",
+            "hu": "Fedezze fel ezt a történelmi termálparkot, ahol egykor ősi malmok hasznosították a forró vizet, és feltétlenül viseljen kényelmes cipőt az egyenetlen kőutakon.",
+            "ro": "Explorați acest parc termal istoric unde morile antice foloseau izvoarele fierbinți și asigurați-vă că purtați încălțăminte comodă pentru potecile din piatră.",
+            "en": "Explore this historic thermal park where ancient mills harnessed the hot springs, and be sure to wear comfortable shoes for the uneven stone paths around the pools."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Giovanni Battista",
+            "hu": "Chiesa di San Giovanni Battista",
+            "ro": "Chiesa di San Giovanni Battista",
+            "en": "Chiesa di San Giovanni Battista"
+          },
+          "coords": [
+            11.617766,
+            43.02808
+          ],
+          "category": "landmark",
+          "arrive_at": "10:33",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fresken in dieser kleinen Kirche und versuchen Sie, während der Morgenstunden zu kommen, wenn das Sonnenlicht den Altarraum wunderschön erhellt.",
+            "hu": "Csodálja meg a kis templom gyönyörű freskóit, és próbáljon meg a reggeli órákban érkezni, amikor a napfény lenyűgözően világítja meg a főoltár körüli részleteket.",
+            "ro": "Admirați frescele frumoase din această mică biserică și încercați să o vizitați dimineața, când lumina soarelui luminează în mod spectaculos zona altarului principal.",
+            "en": "Admire the beautiful frescoes inside this small but significant church, and try to visit during the morning hours when the sunlight beautifully illuminates the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Biagio",
+            "hu": "Chiesa di San Biagio",
+            "ro": "Chiesa di San Biagio",
+            "en": "Chiesa di San Biagio"
+          },
+          "coords": [
+            11.609372,
+            43.036454
+          ],
+          "category": "landmark",
+          "arrive_at": "11:06",
+          "stay_min": 15,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Atmosphäre dieser alten Landkirche in Vignoni Alto und bringen Sie ein Weitwinkelobjektiv mit, um die rustikale Fassade perfekt einzufangen.",
+            "hu": "Fedezze fel ennek a Vignoni Altóban található ősi vidéki templomnak a békés hangulatát, és hozzon nagylátószögű objektívet a rusztikus homlokzat megörökítéséhez.",
+            "ro": "Descoperiți atmosfera liniștită a acestei vechi biserici rurale din Vignoni Alto și aduceți un obiectiv grandangular pentru a surprinde fațada sa rustică deosebită.",
+            "en": "Discover the tranquil atmosphere of this ancient rural church situated in Vignoni Alto, and bring a wide-angle lens to capture its rustic facade against the landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Poggio Covili view",
+            "hu": "Poggio Covili view",
+            "ro": "Poggio Covili view",
+            "en": "Poggio Covili view"
+          },
+          "coords": [
+            11.626056,
+            43.023197
+          ],
+          "category": "natural",
+          "arrive_at": "11:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die toskanische Landschaft mit ihren sanften Hügeln und kommen Sie früh oder zum Sonnenuntergang, um die Zypressenreihen im besten Licht zu fotografieren.",
+            "hu": "Élvezze a jellegzetes toszkán tájat a dombokkal, és érkezzen korán vagy naplementekor, hogy a ciprussorokat a lehető legjobb természetes fényviszonyok között fotózza.",
+            "ro": "Bucurați-vă de peisajul toscan autentic cu dealuri și ajungeți devreme sau la apus pentru a fotografia faimoasele șiruri de chiparoși în cea mai bună lumină naturală.",
+            "en": "Take in the quintessential Tuscan landscape featuring iconic rolling hills, and arrive early or stay for sunset to photograph the cypress rows in the best natural light."
+          }
+        },
+        {
+          "name": {
+            "de": "View of the villa with the cypress alley",
+            "hu": "View of the villa with the cypress alley",
+            "ro": "View of the villa with the cypress alley",
+            "en": "View of the villa with the cypress alley"
+          },
+          "coords": [
+            11.636707,
+            43.021889
+          ],
+          "category": "natural",
+          "arrive_at": "12:34",
+          "stay_min": 55,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Halten Sie den postkartenreifen Blick auf das Anwesen mit den Zypressen fest und bleiben Sie auf den markierten Haltebuchten, um private Grundstücke zu respektieren.",
+            "hu": "Örökítse meg a magas ciprusokkal övezett birtok képeslapra illő látványát, és maradjon a kijelölt út menti parkolókban, hogy elkerülje a magánterületre való belépést.",
+            "ro": "Surprindeți priveliștea de carte poștală a conacului înconjurat de chiparoși și rămâneți în refugiile rutiere desemnate pentru a evita intrarea pe proprietăți private.",
+            "en": "Capture the postcard-perfect view of a grand estate framed by tall cypress trees, and stick to the designated roadside pull-offs to avoid trespassing on private land."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der historischen Atmosphäre des Parco dei Mulini. Am Mittag besuchen Sie die nahegelegene Kirche und wandern hinauf nach Vignoni Alto. Der Nachmittag ist der Natur gewidmet, mit einem Spaziergang zum atemberaubenden Aussichtspunkt Poggio Covili. Beenden Sie den Tag an der malerischen Zypressenallee im weichen Licht der untergehenden Sonne.",
+        "hu": "Kezdje a reggelt a Bagno Vignoni-i Parco dei Mulini történelmi hangulatának befogadásával. Délben látogasson el a közeli templomba, és sétáljon fel Vignoni Altóba. A délután a természeté, élvezze a lenyűgöző Poggio Covili kilátást. Este pedig fotózza le a jellegzetes, ciprussorral övezett villát a toszkán lemenő nap lágy, meleg fényében fürdőzve.",
+        "ro": "Începeți dimineața absorbind atmosfera istorică a Parco dei Mulini din Bagno Vignoni. La prânz, vizitați biserica din apropiere și plimbați-vă spre Vignoni Alto. După-amiaza este dedicată naturii, mergând la priveliștea uimitoare Poggio Covili. Încheiați seara fotografiind faimoasa vilă cu alee de chiparoși sub razele blânde ale soarelui toscan la apus.",
+        "en": "Start your morning by soaking in the historic atmosphere of Parco dei Mulini in Bagno Vignoni. At midday, enjoy a brief visit to the nearby church and walk up to Vignoni Alto. The afternoon is dedicated to nature, walking to the stunning Poggio Covili view. Conclude your evening photographing the iconic villa with its cypress alley under the fading Tuscan sun."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:19",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rocca di Tentennano",
+            "hu": "Rocca di Tentennano",
+            "ro": "Rocca di Tentennano",
+            "en": "Rocca di Tentennano"
+          },
+          "coords": [
+            11.614184,
+            43.009556
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Steigen Sie auf diese Festung, um einen Panoramablick auf das Val d'Orcia zu genießen, und halten Sie sich gut am Geländer fest, da die Steinstufen sehr steil sind.",
+            "hu": "Másszon fel a középkori erőd tetejére a Val d'Orcia panorámájáért, és kapaszkodjon erősen a korlátba, mivel a történelmi kőlépcsők meglehetősen meredekek lehetnek.",
+            "ro": "Urcați în vârful acestei fortărețe medievale pentru vederi panoramice asupra Val d'Orcia și țineți-vă bine de balustradă deoarece treptele din piatră sunt abrupte.",
+            "en": "Climb to the top of this formidable medieval fortress for panoramic views of the Val d'Orcia, and hold onto the railing tightly as the stone steps can be quite steep."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santa Maria Maddalena",
+            "hu": "Chiesa di Santa Maria Maddalena",
+            "ro": "Chiesa di Santa Maria Maddalena",
+            "en": "Chiesa di Santa Maria Maddalena"
+          },
+          "coords": [
+            11.617134,
+            43.006539
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die erhaltene mittelalterliche Architektur dieser Kirche in Castiglione d'Orcia und achten Sie besonders auf die feinen Details des steinernen Altars.",
+            "hu": "Lépjen be, hogy megcsodálja a Castiglione d'Orcia-i templom középkori építészetét, és szánjon egy pillanatot a kőoltár finoman kidolgozott részleteinek megfigyelésére.",
+            "ro": "Pășiți înăuntru pentru a admira arhitectura medievală a acestei biserici din Castiglione d'Orcia și observați detaliile fin lucrate de pe altarul din piatră veche.",
+            "en": "Step inside to admire the preserved medieval architecture of this Castiglione d'Orcia church, and take a moment to notice the finely crafted details on the stone altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Poggio Covili view",
+            "hu": "Poggio Covili view",
+            "ro": "Poggio Covili view",
+            "en": "Poggio Covili view"
+          },
+          "coords": [
+            11.626056,
+            43.023197
+          ],
+          "category": "natural",
+          "arrive_at": "11:23",
+          "stay_min": 25,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die toskanische Landschaft mit ihren sanften Hügeln und kommen Sie früh oder zum Sonnenuntergang, um die Zypressenreihen im besten Licht zu fotografieren.",
+            "hu": "Élvezze a jellegzetes toszkán tájat a dombokkal, és érkezzen korán vagy naplementekor, hogy a ciprussorokat a lehető legjobb természetes fényviszonyok között fotózza.",
+            "ro": "Bucurați-vă de peisajul toscan autentic cu dealuri și ajungeți devreme sau la apus pentru a fotografia faimoasele șiruri de chiparoși în cea mai bună lumină naturală.",
+            "en": "Take in the quintessential Tuscan landscape featuring iconic rolling hills, and arrive early or stay for sunset to photograph the cypress rows in the best natural light."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco dei Mulini",
+            "hu": "Parco dei Mulini",
+            "ro": "Parco dei Mulini",
+            "en": "Parco dei Mulini"
+          },
+          "coords": [
+            11.619448,
+            43.027018
+          ],
+          "category": "historical",
+          "arrive_at": "11:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen historischen Thermalpark mit seinen alten Mühlen an den heißen Quellen und tragen Sie bequeme Schuhe für die unebenen Steinwege rund um die Becken.",
+            "hu": "Fedezze fel ezt a történelmi termálparkot, ahol egykor ősi malmok hasznosították a forró vizet, és feltétlenül viseljen kényelmes cipőt az egyenetlen kőutakon.",
+            "ro": "Explorați acest parc termal istoric unde morile antice foloseau izvoarele fierbinți și asigurați-vă că purtați încălțăminte comodă pentru potecile din piatră.",
+            "en": "Explore this historic thermal park where ancient mills harnessed the hot springs, and be sure to wear comfortable shoes for the uneven stone paths around the pools."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Giovanni Battista",
+            "hu": "Chiesa di San Giovanni Battista",
+            "ro": "Chiesa di San Giovanni Battista",
+            "en": "Chiesa di San Giovanni Battista"
+          },
+          "coords": [
+            11.617766,
+            43.02808
+          ],
+          "category": "landmark",
+          "arrive_at": "13:13",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fresken in dieser kleinen Kirche und versuchen Sie, während der Morgenstunden zu kommen, wenn das Sonnenlicht den Altarraum wunderschön erhellt.",
+            "hu": "Csodálja meg a kis templom gyönyörű freskóit, és próbáljon meg a reggeli órákban érkezni, amikor a napfény lenyűgözően világítja meg a főoltár körüli részleteket.",
+            "ro": "Admirați frescele frumoase din această mică biserică și încercați să o vizitați dimineața, când lumina soarelui luminează în mod spectaculos zona altarului principal.",
+            "en": "Admire the beautiful frescoes inside this small but significant church, and try to visit during the morning hours when the sunlight beautifully illuminates the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Biagio",
+            "hu": "Chiesa di San Biagio",
+            "ro": "Chiesa di San Biagio",
+            "en": "Chiesa di San Biagio"
+          },
+          "coords": [
+            11.609372,
+            43.036454
+          ],
+          "category": "landmark",
+          "arrive_at": "13:34",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Atmosphäre dieser alten Landkirche in Vignoni Alto und bringen Sie ein Weitwinkelobjektiv mit, um die rustikale Fassade perfekt einzufangen.",
+            "hu": "Fedezze fel ennek a Vignoni Altóban található ősi vidéki templomnak a békés hangulatát, és hozzon nagylátószögű objektívet a rusztikus homlokzat megörökítéséhez.",
+            "ro": "Descoperiți atmosfera liniștită a acestei vechi biserici rurale din Vignoni Alto și aduceți un obiectiv grandangular pentru a surprinde fațada sa rustică deosebită.",
+            "en": "Discover the tranquil atmosphere of this ancient rural church situated in Vignoni Alto, and bring a wide-angle lens to capture its rustic facade against the landscape."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Treten Sie morgens kräftig in die Pedale, um die Rocca di Tentennano in Castiglione d'Orcia zu erobern. Mittags bewundern Sie die Schönheit von Santa Maria Maddalena. Am Nachmittag rollen Sie bergab am Poggio Covili vorbei zu den antiken Bädern des Parco dei Mulini. Abends radeln Sie entspannt nach Vignoni Alto, um Ihr Fahrradabenteuer ruhig ausklingen zu lassen.",
+        "hu": "Tekerjen fel reggel Castiglione d'Orciába, és hódítsa meg a Rocca di Tentennano erődjét. Délben megcsodálhatja a Santa Maria Maddalena szépségét. A délutánt a Poggio Covili melletti gurulás és a Parco dei Mulini ősi fürdőinek felfedezése tölti ki. Este biciklizzen fel Vignoni Altóba, és zárja a kalandot a békés, vidéki hangulatú toszkán tájban.",
+        "ro": "Pedalați dimineața spre Castiglione d'Orcia pentru a cuceri Rocca di Tentennano. La prânz descoperiți frumusețea bisericii Santa Maria Maddalena. Petreceți după-amiaza coborând pe lângă punctul de belvedere Poggio Covili spre băile antice din Parco dei Mulini. Seara, mergeți spre Vignoni Alto pentru un final liniștit al aventurii dumneavoastră pe două roți.",
+        "en": "Pedal hard in the morning up to Castiglione d'Orcia to conquer the Rocca di Tentennano. Midday brings you to the intricate beauty of Santa Maria Maddalena. Spend your afternoon cruising downhill past the Poggio Covili viewpoint towards the ancient baths of Parco dei Mulini. In the evening, ride up to Vignoni Alto for a peaceful end to your cycling adventure."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:52",
+      "total_km": 5.7,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Sala d'Arte di San Giovanni",
+            "hu": "Sala d'Arte di San Giovanni",
+            "ro": "Sala d'Arte di San Giovanni",
+            "en": "Sala d'Arte di San Giovanni"
+          },
+          "coords": [
+            11.61605,
+            43.006181
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in eine Sammlung sieneser religiöser Kunst ein und fragen Sie das Museumspersonal nach dem kostenlosen Audioguide, um den historischen Kontext zu verstehen.",
+            "hu": "Merüljön el a sienai vallási művészet gazdag gyűjteményében, és kérje a múzeum munkatársaitól az ingyenes audioguide-ot a történelmi háttér teljes megértéséhez.",
+            "ro": "Pătrundeți în colecția bogată de artă religioasă sieneză și solicitați personalului muzeului ghidul audio gratuit pentru a înțelege pe deplin contextul istoric.",
+            "en": "Delve into a rich collection of Sienese religious art from local parishes, and ask the museum staff for the free audio guide to fully understand the historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santa Maria Maddalena",
+            "hu": "Chiesa di Santa Maria Maddalena",
+            "ro": "Chiesa di Santa Maria Maddalena",
+            "en": "Chiesa di Santa Maria Maddalena"
+          },
+          "coords": [
+            11.617134,
+            43.006539
+          ],
+          "category": "religious",
+          "arrive_at": "10:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die erhaltene mittelalterliche Architektur dieser Kirche in Castiglione d'Orcia und achten Sie besonders auf die feinen Details des steinernen Altars.",
+            "hu": "Lépjen be, hogy megcsodálja a Castiglione d'Orcia-i templom középkori építészetét, és szánjon egy pillanatot a kőoltár finoman kidolgozott részleteinek megfigyelésére.",
+            "ro": "Pășiți înăuntru pentru a admira arhitectura medievală a acestei biserici din Castiglione d'Orcia și observați detaliile fin lucrate de pe altarul din piatră veche.",
+            "en": "Step inside to admire the preserved medieval architecture of this Castiglione d'Orcia church, and take a moment to notice the finely crafted details on the stone altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Rocca di Tentennano",
+            "hu": "Rocca di Tentennano",
+            "ro": "Rocca di Tentennano",
+            "en": "Rocca di Tentennano"
+          },
+          "coords": [
+            11.614184,
+            43.009556
+          ],
+          "category": "castle",
+          "arrive_at": "11:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Steigen Sie auf diese Festung, um einen Panoramablick auf das Val d'Orcia zu genießen, und halten Sie sich gut am Geländer fest, da die Steinstufen sehr steil sind.",
+            "hu": "Másszon fel a középkori erőd tetejére a Val d'Orcia panorámájáért, és kapaszkodjon erősen a korlátba, mivel a történelmi kőlépcsők meglehetősen meredekek lehetnek.",
+            "ro": "Urcați în vârful acestei fortărețe medievale pentru vederi panoramice asupra Val d'Orcia și țineți-vă bine de balustradă deoarece treptele din piatră sunt abrupte.",
+            "en": "Climb to the top of this formidable medieval fortress for panoramic views of the Val d'Orcia, and hold onto the railing tightly as the stone steps can be quite steep."
+          }
+        },
+        {
+          "name": {
+            "de": "San Sebastiano",
+            "hu": "San Sebastiano",
+            "ro": "San Sebastiano",
+            "en": "San Sebastiano"
+          },
+          "coords": [
+            11.613877,
+            43.010817
+          ],
+          "category": "religious",
+          "arrive_at": "13:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses charmante religiöse Heiligtum, um die lokale Hingabe zu erleben, und denken Sie daran, leise zu sein, da es sich um eine aktive Pfarrei handelt.",
+            "hu": "Látogassa meg ezt a Szent Sebestyénnek szentelt bájos szentélyt, és ne feledje lehalkítani a hangját, mivel az épület még mindig aktív plébániaként működik a faluban.",
+            "ro": "Vizitați acest sanctuar fermecător dedicat Sfântului Sebastian pentru a simți devotamentul local și rețineți să vorbiți încet deoarece este o parohie încă activă.",
+            "en": "Visit this charming religious sanctuary dedicated to Saint Sebastian to experience local devotion, and remember to keep your voice down as it remains an active parish."
+          }
+        },
+        {
+          "name": {
+            "de": "Poggio Covili view",
+            "hu": "Poggio Covili view",
+            "ro": "Poggio Covili view",
+            "en": "Poggio Covili view"
+          },
+          "coords": [
+            11.626056,
+            43.023197
+          ],
+          "category": "natural",
+          "arrive_at": "13:47",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die toskanische Landschaft mit ihren sanften Hügeln und kommen Sie früh oder zum Sonnenuntergang, um die Zypressenreihen im besten Licht zu fotografieren.",
+            "hu": "Élvezze a jellegzetes toszkán tájat a dombokkal, és érkezzen korán vagy naplementekor, hogy a ciprussorokat a lehető legjobb természetes fényviszonyok között fotózza.",
+            "ro": "Bucurați-vă de peisajul toscan autentic cu dealuri și ajungeți devreme sau la apus pentru a fotografia faimoasele șiruri de chiparoși în cea mai bună lumină naturală.",
+            "en": "Take in the quintessential Tuscan landscape featuring iconic rolling hills, and arrive early or stay for sunset to photograph the cypress rows in the best natural light."
+          }
+        },
+        {
+          "name": {
+            "de": "View of the villa with the cypress alley",
+            "hu": "View of the villa with the cypress alley",
+            "ro": "View of the villa with the cypress alley",
+            "en": "View of the villa with the cypress alley"
+          },
+          "coords": [
+            11.636707,
+            43.021889
+          ],
+          "category": "natural",
+          "arrive_at": "14:14",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Halten Sie den postkartenreifen Blick auf das Anwesen mit den Zypressen fest und bleiben Sie auf den markierten Haltebuchten, um private Grundstücke zu respektieren.",
+            "hu": "Örökítse meg a magas ciprusokkal övezett birtok képeslapra illő látványát, és maradjon a kijelölt út menti parkolókban, hogy elkerülje a magánterületre való belépést.",
+            "ro": "Surprindeți priveliștea de carte poștală a conacului înconjurat de chiparoși și rămâneți în refugiile rutiere desemnate pentru a evita intrarea pe proprietăți private.",
+            "en": "Capture the postcard-perfect view of a grand estate framed by tall cypress trees, and stick to the designated roadside pull-offs to avoid trespassing on private land."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco dei Mulini",
+            "hu": "Parco dei Mulini",
+            "ro": "Parco dei Mulini",
+            "en": "Parco dei Mulini"
+          },
+          "coords": [
+            11.619448,
+            43.027018
+          ],
+          "category": "historical",
+          "arrive_at": "14:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen historischen Thermalpark mit seinen alten Mühlen an den heißen Quellen und tragen Sie bequeme Schuhe für die unebenen Steinwege rund um die Becken.",
+            "hu": "Fedezze fel ezt a történelmi termálparkot, ahol egykor ősi malmok hasznosították a forró vizet, és feltétlenül viseljen kényelmes cipőt az egyenetlen kőutakon.",
+            "ro": "Explorați acest parc termal istoric unde morile antice foloseau izvoarele fierbinți și asigurați-vă că purtați încălțăminte comodă pentru potecile din piatră.",
+            "en": "Explore this historic thermal park where ancient mills harnessed the hot springs, and be sure to wear comfortable shoes for the uneven stone paths around the pools."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Giovanni Battista",
+            "hu": "Chiesa di San Giovanni Battista",
+            "ro": "Chiesa di San Giovanni Battista",
+            "en": "Chiesa di San Giovanni Battista"
+          },
+          "coords": [
+            11.617766,
+            43.02808
+          ],
+          "category": "landmark",
+          "arrive_at": "16:07",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Fresken in dieser kleinen Kirche und versuchen Sie, während der Morgenstunden zu kommen, wenn das Sonnenlicht den Altarraum wunderschön erhellt.",
+            "hu": "Csodálja meg a kis templom gyönyörű freskóit, és próbáljon meg a reggeli órákban érkezni, amikor a napfény lenyűgözően világítja meg a főoltár körüli részleteket.",
+            "ro": "Admirați frescele frumoase din această mică biserică și încercați să o vizitați dimineața, când lumina soarelui luminează în mod spectaculos zona altarului principal.",
+            "en": "Admire the beautiful frescoes inside this small but significant church, and try to visit during the morning hours when the sunlight beautifully illuminates the altar."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie heute Morgen ins Zentrum von Castiglione d'Orcia, um die reiche Kunst der Sala di San Giovanni zu erkunden. Der Mittag ist perfekt für die Besteigung der Rocca di Tentennano. Am Nachmittag fahren Sie zu den berühmten Zypressenalleen und Aussichtspunkten der Region. Lassen Sie den Tag an den warmen Thermalquellen von Bagno Vignoni entspannt ausklingen.",
+        "hu": "Autózzon reggel Castiglione d'Orcia szívébe, hogy felfedezze a Sala di San Giovanni művészeti kincseit. A dél tökéletes a Rocca di Tentennano megmászására és a San Sebastiano megtekintésére. Délután látogassa meg a híres ciprussorokat és a kilátókat. A napot Bagno Vignoni termálvizeinek pihentető környezetében, egy kellemes esti séta keretében zárhatja.",
+        "ro": "Conduceți în inima Castiglione d'Orcia în această dimineață pentru a explora arta de la Sala di San Giovanni. Prânzul este perfect pentru a urca pe Rocca di Tentennano și a vizita San Sebastiano. După-amiaza, mergeți spre faimoasele alei de chiparoși și puncte de belvedere. Încheiați ziua relaxându-vă lângă apele termale din centrul satului Bagno Vignoni.",
+        "en": "Drive into the heart of Castiglione d'Orcia this morning to explore the rich art at Sala di San Giovanni and Santa Maria Maddalena. Midday is perfect for climbing the Rocca di Tentennano and visiting San Sebastiano. In the afternoon, cruise to the famous cypress alleys and scenic viewpoints. End your day unwinding by the thermal waters of Bagno Vignoni."
+      }
+    }
+  }
+}

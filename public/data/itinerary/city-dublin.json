@@ -1,0 +1,405 @@
+{
+  "city_id": "city-dublin",
+  "anchor": {
+    "name": "Dublin",
+    "coords": [
+      -6.2603,
+      53.3498
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:24",
+      "total_km": 1.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Dublinia",
+            "hu": "Dublinia",
+            "ro": "Dublinia",
+            "en": "Dublinia"
+          },
+          "coords": [
+            -6.272016,
+            53.343238
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch interaktive Ausstellungen in das wikingische und mittelalterliche Dublin ein, und besteigen Sie unbedingt den historischen St. Michael's Tower für einen spektakulären Blick auf die Stadt.",
+            "hu": "Merüljön el a viking és középkori Dublinban a lenyűgöző interaktív kiállításokon keresztül, és mindenképpen másszon fel a történelmi Szent Mihály-toronyba a lenyűgöző városi kilátásért.",
+            "ro": "Cufundați-vă în Dublinul viking și medieval prin expoziții interactive captivante și asigurați-vă că urcați în istoricul Turn al Sfântului Mihail pentru o priveliște spectaculoasă asupra orașului.",
+            "en": "Immerse yourself in Viking and Medieval Dublin through engaging interactive exhibits, and make sure to climb the historic St Michael's Tower for a spectacular view of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Chester Beatty Library",
+            "hu": "Chester Beatty Könyvtár",
+            "ro": "Biblioteca Chester Beatty",
+            "en": "Chester Beatty Library"
+          },
+          "coords": [
+            -6.267451,
+            53.342202
+          ],
+          "category": "museum",
+          "arrive_at": "10:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie eine erstklassige Sammlung alter Manuskripte, seltener Bücher und einzigartiger Artefakte, und genießen Sie danach einen ruhigen Moment auf dem friedlichen Dachgarten.",
+            "hu": "Csodálja meg az ősi kéziratok, ritka könyvek és egyedi történelmi tárgyak világszínvonalú gyűjteményét, majd látogatása után élvezze a csendet a hangulatos és békés tetőkertben.",
+            "ro": "Admirați o colecție de clasă mondială de manuscrise antice, cărți rare și artefacte istorice unice, și bucurați-vă de un moment de liniște pe grădina senină de pe acoperiș după vizită.",
+            "en": "Marvel at a world-class collection of ancient manuscripts, rare books, and unique historical artifacts, and enjoy a quiet moment on the serene rooftop garden right after your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Garda Museum",
+            "hu": "Garda Múzeum",
+            "ro": "Muzeul Garda",
+            "en": "Garda Museum"
+          },
+          "coords": [
+            -6.266252,
+            53.343664
+          ],
+          "category": "museum",
+          "arrive_at": "12:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erfahren Sie durch eine Vielzahl faszinierender historischer Exponate mehr über die Geschichte der irischen Polizei, wobei Sie beachten sollten, dass der Eingang im Dublin Castle liegt.",
+            "hu": "Ismerje meg az ír rendőrség gazdag történetét különféle lenyűgöző történelmi kiállításokon keresztül, és tartsa szem előtt, hogy a főbejárat a híres dublini kastélyon belül található.",
+            "ro": "Aflați despre istoria bogată a forțelor de poliție irlandeze printr-o varietate de exponate fascinante, având în vedere că intrarea principală este situată în interiorul Castelului Dublin.",
+            "en": "Learn about the rich history of the Irish police force through a variety of fascinating historical exhibits, keeping in mind that the main entrance is located within Dublin Castle."
+          }
+        },
+        {
+          "name": {
+            "de": "The Little Museum of Dublin",
+            "hu": "Dublin Kis Múzeuma",
+            "ro": "Micul Muzeu din Dublin",
+            "en": "The Little Museum of Dublin"
+          },
+          "coords": [
+            -6.258395,
+            53.339539
+          ],
+          "category": "museum",
+          "arrive_at": "14:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie den einzigartigen Charme von Dublin im 20. Jahrhundert durch skurrile Artefakte, und buchen Sie Ihre Führung stets vorab online, um sich Ihren Platz zu sichern.",
+            "hu": "Fedezze fel a huszadik századi Dublin egyedi báját a helyiek által adományozott tárgyakon keresztül, és ne felejtse el jó előre online lefoglalni a vezetett túrát a hely biztosításához.",
+            "ro": "Descoperiți farmecul unic al Dublinului din secolul douăzeci prin artefacte locale inedite și amintiți-vă să rezervați online turul ghidat din timp pentru a vă asigura locul.",
+            "en": "Discover the unique charm of 20th-century Dublin through quirky, locally donated artifacts, and always remember to book your guided tour online well in advance to secure your spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalmuseum von Irland, Naturgeschichte",
+            "hu": "Ír Nemzeti Múzeum, Természettudomány",
+            "ro": "Muzeul Național al Irlandei, Istorie Naturală",
+            "en": "National Museum of Ireland, Natural History"
+          },
+          "coords": [
+            -6.253341,
+            53.339891
+          ],
+          "category": "museum",
+          "arrive_at": "16:14",
+          "stay_min": 130,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Untersuchen Sie Tausende faszinierender zoologischer Exemplare in diesem alten viktorianischen Museum, aber kommen Sie frühzeitig, da die engen Galerien sehr schnell voll werden können.",
+            "hu": "Vizsgálja meg a több ezer lenyűgöző és gondosan megőrzött állattani példányt ebben a viktoriánus múzeumban, de próbáljon korán érkezni, mivel a szűk galériák gyorsan megtelhetnek.",
+            "ro": "Examinați mii de specimene zoologice fascinante și conservate cu meticulozitate în acest muzeu victorian, dar încercați să ajungeți devreme, deoarece galeriile înguste se pot aglomera rapid.",
+            "en": "Examine thousands of fascinating and meticulously preserved zoological specimens in this Victorian museum, but try to arrive early as the narrow galleries can get quite busy quickly."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit den spannenden Ausstellungen zur wikingischen Vergangenheit in Dublinia, gefolgt von wertvollen Manuskripten. / Mittags tauchen Sie im Garda Museum in die Geschichte der nationalen irischen Polizei ein. / Am Nachmittag entdecken Sie das charmante Little Museum mit unzähligen Exponaten des 20. Jahrhunderts. / Der Abend endet beeindruckend im Naturkundemuseum.",
+        "hu": "A reggel a viking múlt izgalmas kiállításaival kezdődik a Dublinia múzeumban, majd értékes kéziratokkal folytatódik. / Délben a Garda Múzeumban elmerülhet a nemzeti rendőrség történelmében. / Délután felfedezheti a bájos Little Múzeumot, a huszadik század lenyűgöző emlékeivel. / Az este lenyűgözően zárul a híres Természettudományi Múzeum állattani gyűjteményei között.",
+        "ro": "Dimineața începe cu expozițiile captivante despre trecutul viking la Dublinia, urmate de manuscrise valoroase. / La prânz, vă scufundați în istoria poliției naționale irlandeze la Muzeul Garda. / După-amiaza descoperiți fermecătorul Little Museum, plin de amintiri din secolul douăzeci. / Seara se încheie impresionant în faimosul muzeu de istorie naturală.",
+        "en": "The morning starts with exciting exhibitions about the Viking past in Dublinia, followed by precious ancient manuscripts. / At midday, you immerse yourself in the history of the national police force at the Garda Museum. / In the afternoon, discover the charming Little Museum with countless 20th-century artifacts. / The evening ends impressively at the Natural History Museum."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 4.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Nationalmuseum von Irland (Kunsthandwerk & Geschichte)",
+            "hu": "Ír Nemzeti Múzeum (Díszítőművészet és Történelem)",
+            "ro": "Muzeul Național al Irlandei (Arte Decorative și Istorie)",
+            "en": "National Museum of Ireland (Decorative Arts & History)"
+          },
+          "coords": [
+            -6.285731,
+            53.348817
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die historischen Collins Barracks, um filigranes Kunsthandwerk und Militärgeschichte zu sehen, und nutzen Sie danach das hervorragende, gut bewertete Museums-Café.",
+            "hu": "Sétáljon végtelenül a történelmi Collins laktanyában, hogy megnézze a díszítőművészetet és a hadtörténetet, majd utána használja ki a kiváló, magasan értékelt múzeumi kávézó kínálatát.",
+            "ro": "Plimbați-vă nesfârșit prin istorica Cazarmă Collins pentru a vedea arte decorative și istorie militară și profitați din plin de cafeneaua excelentă a muzeului la sfârșitul vizitei.",
+            "en": "Wander endlessly through the historic Collins Barracks to see intricate decorative arts and military history, and take full advantage of the excellent, highly rated museum café afterwards."
+          }
+        },
+        {
+          "name": {
+            "de": "Old Jameson Distillery",
+            "hu": "Old Jameson Lepárló",
+            "ro": "Vechea Distilerie Jameson",
+            "en": "Old Jameson Distillery"
+          },
+          "coords": [
+            -6.277076,
+            53.348117
+          ],
+          "category": "museum",
+          "arrive_at": "10:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erleben Sie die reiche Geschichte der irischen Whiskey-Herstellung genau an ihrem Ursprungsort, und nehmen Sie am Ende unbedingt an der geführten und vergleichenden Verkostung teil.",
+            "hu": "Tapasztalja meg a hagyományos ír whiskeykészítés gazdag történetét pontosan az eredeti helyszínen, és a túra legvégén mindenképpen vegyen részt a vezetett összehasonlító kóstolón.",
+            "ro": "Experimentați istoria bogată a fabricării whiskey-ului tradițional irlandez exact la locul său de origine și asigurați-vă că participați la degustarea comparativă ghidată de la final.",
+            "en": "Experience the rich history of traditional Irish whiskey making exactly at its original site, and be completely sure to participate in the guided comparative tasting at the very end."
+          }
+        },
+        {
+          "name": {
+            "de": "Das James Joyce Centre",
+            "hu": "James Joyce Központ",
+            "ro": "Centrul James Joyce",
+            "en": "The James Joyce Centre"
+          },
+          "coords": [
+            -6.259969,
+            53.35419
+          ],
+          "category": "museum",
+          "arrive_at": "12:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in einem atemberaubenden georgianischen Haus tief in das Leben des berühmtesten irischen Autors ein, und probieren Sie unbedingt eine ihrer literarischen Walking-Touren aus.",
+            "hu": "Merüljön el mélyen Írország leghíresebb szerzőjének összetett életében egy lenyűgöző grúz házban, és próbáljon meg csatlakozni egy erősen ajánlott irodalmi sétálóutcás túrájukhoz.",
+            "ro": "Pătrundeți profund în viața și operele celui mai faimos autor irlandez într-o superbă casă georgiană și încercați să prindeți unul dintre tururile lor literare pe jos, foarte recomandate.",
+            "en": "Delve deeply into the complex life and works of Ireland's most famous author in a stunning Georgian house, and try to catch one of their highly recommended literary walking tours."
+          }
+        },
+        {
+          "name": {
+            "de": "EPIC The Irish Emigration Museum",
+            "hu": "EPIC Ír Kivándorlási Múzeum",
+            "ro": "Muzeul Emigrației Irlandeze EPIC",
+            "en": "EPIC The Irish Emigration Museum"
+          },
+          "coords": [
+            -6.247979,
+            53.348265
+          ],
+          "category": "museum",
+          "arrive_at": "14:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die tief inspirierenden Geschichten irischer Auswanderer in diesem vollständig digitalen Museum, und planen Sie mindestens zwei volle Stunden für die Interaktion ein.",
+            "hu": "Ismerje meg a globális ír kivándorlók mélyen inspiráló történeteit ebben a teljesen digitális múzeumban, és szánjon legalább két teljes órát a lenyűgöző kijelzőkkel való interakcióra.",
+            "ro": "Descoperiți poveștile profund inspiratoare ale emigranților irlandezi globali în acest muzeu complet digital și acordați-vă cel puțin două ore întregi pentru a interacționa cu toate ecranele.",
+            "en": "Uncover the deeply inspiring stories of global Irish emigrants in this completely digital museum, and allow yourself at least two full hours to interact with all the amazing displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationales Druckereimuseum",
+            "hu": "Nemzeti Nyomdamúzeum",
+            "ro": "Muzeul Național al Tiparului",
+            "en": "National Print Museum"
+          },
+          "coords": [
+            -6.235402,
+            53.335189
+          ],
+          "category": "museum",
+          "arrive_at": "16:15",
+          "stay_min": 130,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Sehen Sie die faszinierenden historischen Druckerpressen, die Irlands Vergangenheit physisch prägten, und prüfen Sie den offiziellen Zeitplan für interaktive Setz-Workshops.",
+            "hu": "Tekintse meg a lenyűgöző történelmi nyomdagépeket, amelyek fizikailag formálták Írország múltját, és látogatása során ellenőrizze a hivatalos menetrendet a gyakorlati workshopokhoz.",
+            "ro": "Vedeți presele tipografice istorice fascinante care au modelat fizic trecutul Irlandei și amintiți-vă să verificați programul oficial pentru atelierele practice de tipărire din timpul vizitei.",
+            "en": "See the fascinating historic printing presses that physically shaped Ireland's past, and remember to check the official schedule for hands-on typesetting workshops during your visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Am Morgen radeln Sie zu den Collins Barracks und erkunden Irlands Geschichte und dekorative Kunst. / Gegen Mittag erleben Sie im Jameson Distillery die Kunst der Whiskey-Herstellung hautnah. / Der Nachmittag führt Sie auf den Spuren von James Joyce und irischen Auswanderern quer durch die Stadt. / Am Abend beenden Sie die Tour im faszinierenden National Print Museum.",
+        "hu": "Reggel a Collins laktanyához teker, hogy felfedezze Írország történelmét és díszítőművészetét. / Dél körül a Jameson Lepárlóban testközelből tapasztalhatja meg a whiskykészítés művészetét. / A délután James Joyce és az ír kivándorlók nyomába vezet a városon keresztül. / Este a lenyűgöző Nemzeti Nyomdamúzeumban fejezi be ezt az aktív, kerékpáros felfedezőutat.",
+        "ro": "Dimineața pedalați spre Cazarma Collins pentru a explora istoria și arta decorativă a Irlandei. / În jurul prânzului, experimentați arta fabricării whiskey-ului la Distileria Jameson. / După-amiaza vă poartă pe urmele lui James Joyce și ale emigranților irlandezi prin oraș. / Seara încheiați acest tur activ la fascinantul Muzeu Național al Tiparului.",
+        "en": "In the morning, cycle to Collins Barracks to explore Ireland's history and decorative arts collections. / Around midday, experience the art of whiskey making firsthand at the Old Jameson Distillery. / The afternoon takes you on the trail of James Joyce and Irish emigrants across the city. / In the evening, you conclude this active tour at the fascinating National Print Museum."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:11",
+      "total_km": 4.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Irisch-Jüdisches Museum",
+            "hu": "Ír Zsidó Múzeum",
+            "ro": "Muzeul Evreiesc Irlandez",
+            "en": "Irish Jewish Museum"
+          },
+          "coords": [
+            -6.269372,
+            53.330728
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erhalten Sie einzigartige Einblicke in Irlands jüdisches Erbe in einer wunderschön erhaltenen ehemaligen Synagoge, aber denken Sie unbedingt daran, vorab die Öffnungszeiten zu prüfen.",
+            "hu": "Nyerjen igazán egyedi betekintést Írország zsidó örökségébe egy gyönyörűen megőrzött egykori zsinagógában, de nyomatékosan emlékezzen rá, hogy először ellenőrizze a nyitvatartást.",
+            "ro": "Obțineți perspective cu adevărat unice asupra patrimoniului evreiesc profund al Irlandei într-o fostă sinagogă frumos conservată, dar amintiți-vă să verificați mai întâi programul.",
+            "en": "Gain truly unique insights into Ireland's profound Jewish heritage within a beautifully preserved former synagogue, but strongly remember to verify the restricted opening hours first."
+          }
+        },
+        {
+          "name": {
+            "de": "Literaturmuseum Irland",
+            "hu": "Ír Irodalmi Múzeum",
+            "ro": "Muzeul Literaturii din Irlanda",
+            "en": "Museum of Literature Ireland"
+          },
+          "coords": [
+            -6.260422,
+            53.33679
+          ],
+          "category": "museum",
+          "arrive_at": "10:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Feiern Sie Irlands renommierte literarische Kultur in diesem modernen Ausstellungsraum, und machen Sie einen entspannten Spaziergang in ihrem wunderschönen und völlig geheimen Innenhof.",
+            "hu": "Ünnepelje Írország hihetetlenül híres irodalmi kultúráját ebben a hatalmas modern kiállítótérben, és tegyen egy hosszú, pihentető sétát a gyönyörű, teljesen titkos belső udvari kertben.",
+            "ro": "Celebrați cultura literară incredibil de renumită a Irlandei în acest spațiu modern de expoziții și faceți o plimbare lungă și relaxantă în frumoasa și complet secreta lor grădină.",
+            "en": "Celebrate Ireland's incredibly renowned literary culture in this vast modern exhibition space, and take a long, relaxing stroll in their beautiful and completely secret courtyard garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Douglas Hyde Gallery",
+            "hu": "Douglas Hyde Galéria",
+            "ro": "Galeria Douglas Hyde",
+            "en": "Douglas Hyde Gallery"
+          },
+          "coords": [
+            -6.257707,
+            53.343163
+          ],
+          "category": "museum",
+          "arrive_at": "12:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Betrachten Sie hochmoderne zeitgenössische Kunstausstellungen direkt im historischen Trinity College, und genießen Sie das markante, brutalistische architektonische Design des Gebäudes.",
+            "hu": "Tekintse meg az élvonalbeli kortárs művészeti kiállításokat közvetlenül a történelmi Trinity College-ban, és élvezze az egyedi épület jellegzetes, brutalista építészeti kialakítását.",
+            "ro": "Vedeți expoziții de artă contemporană de ultimă oră chiar în interiorul istoricului Trinity College și bucurați-vă profund de designul arhitectural brutalist și distinct al clădirii.",
+            "en": "View cutting-edge contemporary art exhibitions located right inside the historic Trinity College, and deeply enjoy the distinct, brutalist architectural design of the unique building."
+          }
+        },
+        {
+          "name": {
+            "de": "EPIC The Irish Emigration Museum",
+            "hu": "EPIC Ír Kivándorlási Múzeum",
+            "ro": "Muzeul Emigrației Irlandeze EPIC",
+            "en": "EPIC The Irish Emigration Museum"
+          },
+          "coords": [
+            -6.247979,
+            53.348265
+          ],
+          "category": "museum",
+          "arrive_at": "14:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die tief inspirierenden Geschichten irischer Auswanderer in diesem vollständig digitalen Museum, und planen Sie mindestens zwei volle Stunden für die Interaktion ein.",
+            "hu": "Ismerje meg a globális ír kivándorlók mélyen inspiráló történeteit ebben a teljesen digitális múzeumban, és szánjon legalább két teljes órát a lenyűgöző kijelzőkkel való interakcióra.",
+            "ro": "Descoperiți poveștile profund inspiratoare ale emigranților irlandezi globali în acest muzeu complet digital și acordați-vă cel puțin două ore întregi pentru a interacționa cu toate ecranele.",
+            "en": "Uncover the deeply inspiring stories of global Irish emigrants in this completely digital museum, and allow yourself at least two full hours to interact with all the amazing displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationalmuseum von Irland (Kunsthandwerk & Geschichte)",
+            "hu": "Ír Nemzeti Múzeum (Díszítőművészet és Történelem)",
+            "ro": "Muzeul Național al Irlandei (Arte Decorative și Istorie)",
+            "en": "National Museum of Ireland (Decorative Arts & History)"
+          },
+          "coords": [
+            -6.285731,
+            53.348817
+          ],
+          "category": "museum",
+          "arrive_at": "16:01",
+          "stay_min": 130,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die historischen Collins Barracks, um filigranes Kunsthandwerk und Militärgeschichte zu sehen, und nutzen Sie danach das hervorragende, gut bewertete Museums-Café.",
+            "hu": "Sétáljon végtelenül a történelmi Collins laktanyában, hogy megnézze a díszítőművészetet és a hadtörténetet, majd utána használja ki a kiváló, magasan értékelt múzeumi kávézó kínálatát.",
+            "ro": "Plimbați-vă nesfârșit prin istorica Cazarmă Collins pentru a vedea arte decorative și istorie militară și profitați din plin de cafeneaua excelentă a muzeului la sfârșitul vizitei.",
+            "en": "Wander endlessly through the historic Collins Barracks to see intricate decorative arts and military history, and take full advantage of the excellent, highly rated museum café afterwards."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt ruhig mit Einblicken in das jüdische Erbe Irlands in einer charmanten ehemaligen Synagoge. / Mittags können Sie sich im modernen Museum of Literature von den großen irischen Schriftstellern inspirieren lassen. / Nachmittags locken zeitgenössische Kunst und die beeindruckende Geschichte der Auswanderer. / Der Abend schließt mit den reichen Ausstellungen in den Collins Barracks.",
+        "hu": "A nap nyugodtan indul, betekintéssel Írország zsidó örökségébe egy bájos egykori zsinagógában. / Délben a modern Irodalmi Múzeumban inspirálódhat a legnagyobb ír írók és költők munkásságából. / Délután a kortárs művészet és a kivándorlók megrázó története várja a látogatókat. / Az este a történelmi Collins laktanya gazdag kiállításaival és gyűjteményeivel zárul.",
+        "ro": "Ziua începe liniștit, explorând moștenirea evreiască a Irlandei într-o fostă sinagogă fermecătoare. / La prânz, lăsați-vă inspirați de marii scriitori irlandezi în modernul Muzeu al Literaturii. / După-amiaza vă atrage cu artă contemporană și istoria impresionantă a emigranților. / Seara se încheie explorând bogatele expoziții din istorica Cazarmă Collins.",
+        "en": "The day begins quietly with insights into Ireland's Jewish heritage in a charming former synagogue. / At midday, let yourself be inspired by the great Irish writers at the modern Museum of Literature. / In the afternoon, contemporary art and the impressive history of the emigrants await you. / The evening concludes exploring the rich exhibitions at the historic Collins Barracks."
+      }
+    }
+  }
+}

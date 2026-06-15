@@ -1,0 +1,428 @@
+{
+  "city_id": "desouk-cities-v2",
+  "anchor": {
+    "name": "Desouk",
+    "coords": [
+      30.648,
+      31.1308
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:01",
+      "total_km": 2.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ibrahim El-Desouky Moschee",
+            "hu": "Ibrahim El-Desouky Mecset",
+            "ro": "Moscheea Ibrahim El-Desouky",
+            "en": "Ibrahim El-Desouky Mosque"
+          },
+          "coords": [
+            30.646641,
+            31.128445
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die großartige Architektur dieses islamischen Wahrzeichens, aber denken Sie daran, sich bescheiden zu kleiden und die Schuhe auszuziehen.",
+            "hu": "Csodálja meg e jelentős iszlám nevezetesség lenyűgöző építészetét, de ne feledjen visszafogottan öltözködni és belépés előtt levenni a cipőjét.",
+            "ro": "Admirați arhitectura grandioasă a acestui punct de reper islamic important, dar nu uitați să vă îmbrăcați modest și să vă descălțați la intrare.",
+            "en": "Marvel at the grand architecture of this highly significant Islamic landmark, but remember to dress modestly and remove your shoes before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Al-Midan Al-Ibrahimy Gärten",
+            "hu": "Al-Midan Al-Ibrahimy Kertek",
+            "ro": "Grădinile Al-Midan Al-Ibrahimy",
+            "en": "Al-Midan Al-Ibrahimy Gardens"
+          },
+          "coords": [
+            30.644192,
+            31.12741
+          ],
+          "category": "park",
+          "arrive_at": "09:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in dieser weitläufigen Gartenanlage, die eine grüne Oase im Zentrum bietet und sich perfekt für eine ruhige Pause am Morgen eignet.",
+            "hu": "Pihenjen meg ebben a hatalmas kertben, amely zöldellő oázist kínál a nyüzsgő városközpontban, ideális helyszínt nyújtva egy nyugodt délelőtti szünethez.",
+            "ro": "Relaxați-vă în aceste grădini întinse ce oferă o oază verde în centrul aglomerat al orașului, fiind locul perfect pentru o pauză liniștită de dimineață.",
+            "en": "Relax in these expansive gardens that offer a peaceful green oasis in the bustling city center, making it a perfect spot for a quiet mid-morning break."
+          }
+        },
+        {
+          "name": {
+            "de": "Veranstaltungshalle",
+            "hu": "Rendezvényterem",
+            "ro": "Sala de Evenimente",
+            "en": "Event Hall"
+          },
+          "coords": [
+            30.645847,
+            31.127138
+          ],
+          "category": "cultural",
+          "arrive_at": "11:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale Kulturszene in dieser bekannten Veranstaltungshalle, in der ein Blick auf den Programmplan interessante Treffen offenbaren kann.",
+            "hu": "Fedezze fel a helyi kulturális életet ebben a híres rendezvényteremben, ahol a program előzetes ellenőrzése érdekes közösségi eseményeket fedhet fel.",
+            "ro": "Descoperiți scena culturală locală în această sală de evenimente proeminentă, unde verificarea programului în avans poate dezvălui adunări interesante.",
+            "en": "Discover the local cultural scene at this prominent event hall, where checking the schedule in advance might reveal interesting community gatherings."
+          }
+        },
+        {
+          "name": {
+            "de": "Vergnügungspark",
+            "hu": "Vidámpark",
+            "ro": "Parcul de Distracții",
+            "en": "Amusement Park"
+          },
+          "coords": [
+            30.645073,
+            31.124326
+          ],
+          "category": "family",
+          "arrive_at": "12:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie familienfreundlichen Spaß in diesem lebhaften Vergnügungspark, obwohl ein Besuch an einem Wochentag kürzere Wartezeiten garantiert.",
+            "hu": "Élvezze a családbarát szórakozást ebben a nyüzsgő vidámparkban, bár egy hétköznapi látogatás rövidebb sorban állást biztosít a népszerűbb játékoknál.",
+            "ro": "Bucurați-vă de distracție în familie în acest parc de distracții plin de viață, deși o vizită în timpul săptămânii asigură cozi mai scurte la atracții.",
+            "en": "Enjoy some family-friendly fun at this lively amusement park, though visiting on a weekday ensures shorter queues for the most popular rides."
+          }
+        },
+        {
+          "name": {
+            "de": "Leylat Al-Omr",
+            "hu": "Leylat Al-Omr",
+            "ro": "Leylat Al-Omr",
+            "en": "Leylat Al-Omr"
+          },
+          "coords": [
+            30.64588,
+            31.122836
+          ],
+          "category": "cultural",
+          "arrive_at": "13:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die festliche Atmosphäre dieses ikonischen Kulturortes, der sich ideal eignet, um tagsüber unvergessliche Fotos von Feiern zu machen.",
+            "hu": "Tapasztalja meg ezen ikonikus kulturális helyszín ünnepi hangulatát, amely ideális a hagyományos helyi ünnepek emlékezetes megörökítésére napközben.",
+            "ro": "Experimentați atmosfera festivă a acestui loc cultural iconic, ideal pentru a face fotografii memorabile ale sărbătorilor tradiționale în timpul zilei.",
+            "en": "Experience the festive atmosphere of this iconic cultural venue, ideal for capturing memorable photos of traditional local celebrations during the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Georgskirche",
+            "hu": "Szent György Templom",
+            "ro": "Biserica Sf. Gheorghe",
+            "en": "Church of St. George the Great Martyr"
+          },
+          "coords": [
+            30.641462,
+            31.131881
+          ],
+          "category": "religious",
+          "arrive_at": "14:51",
+          "stay_min": 70,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie das schöne Interieur und die Ruhe dieser historischen Kirche, während Sie sich einen Moment Zeit nehmen, um die Fresken zu schätzen.",
+            "hu": "Csodálja meg a történelmi templom gyönyörű belső terét és békéjét, egy pillanatra csendben megállva a díszes vallási freskók megtekintése közben.",
+            "ro": "Admirați interiorul frumos și liniștea spirituală a acestei biserici istorice, luându-vă un moment pentru a aprecia în liniște frescele sale religioase.",
+            "en": "Admire the beautiful interior and spiritual tranquility of this historic church, taking a moment to quietly appreciate its ornate religious frescoes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der Erkundung der Ibrahim El-Desouky Moschee und ihrer spirituellen Atmosphäre. Gegen Mittag entspannen Sie in den Al-Midan Al-Ibrahimy Gärten und besuchen eine Veranstaltungshalle. Verbringen Sie den Nachmittag mit familienfreundlichen Fahrgeschäften im Vergnügungspark und bei Leylat Al-Omr. Beenden Sie den Spaziergang, indem Sie die historische Georgskirche im Sonnenuntergang bewundern.",
+        "hu": "Kezdje a reggelt a lenyűgöző Ibrahim El-Desouky mecset és annak spirituális atmoszférájának felfedezésével. Ahogy közeledik a dél, pihenjen az Al-Midan Al-Ibrahimy kertekben, majd nézzen meg egy helyi rendezvénytermet. A délutánt a vidámparkban és a Leylat Al-Omr ünnepi hangulatában töltheti. Zárja a sétát a történelmi Szent György templom megcsodálásával naplementekor.",
+        "ro": "Începeți dimineața explorând magnifica Moschee Ibrahim El-Desouky și atmosfera sa spirituală. Pe măsură ce se apropie prânzul, relaxați-vă în Grădinile Al-Midan Al-Ibrahimy înainte de a vizita o sală de evenimente. Petreceți după-amiaza bucurându-vă de atracțiile parcului de distracții și de atmosfera de la Leylat Al-Omr. Încheiați plimbarea admirând biserica istorică a Sf. Gheorghe la apus.",
+        "en": "Start your morning exploring the magnificent Ibrahim El-Desouky Mosque and its surrounding spiritual atmosphere. As midday approaches, relax in the vibrant Al-Midan Al-Ibrahimy Gardens before checking out a local Event Hall. Spend your afternoon enjoying the family rides at the Amusement Park and the festive vibes of Leylat Al-Omr. Conclude the walk by admiring the historical Church of St. George at sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:43",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Georgskirche",
+            "hu": "Szent György Templom",
+            "ro": "Biserica Sf. Gheorghe",
+            "en": "Church of St. George the Great Martyr"
+          },
+          "coords": [
+            30.641462,
+            31.131881
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das schöne Interieur und die Ruhe dieser historischen Kirche, während Sie sich einen Moment Zeit nehmen, um die Fresken zu schätzen.",
+            "hu": "Csodálja meg a történelmi templom gyönyörű belső terét és békéjét, egy pillanatra csendben megállva a díszes vallási freskók megtekintése közben.",
+            "ro": "Admirați interiorul frumos și liniștea spirituală a acestei biserici istorice, luându-vă un moment pentru a aprecia în liniște frescele sale religioase.",
+            "en": "Admire the beautiful interior and spiritual tranquility of this historic church, taking a moment to quietly appreciate its ornate religious frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Ibrahim El-Desouky Moschee",
+            "hu": "Ibrahim El-Desouky Mecset",
+            "ro": "Moscheea Ibrahim El-Desouky",
+            "en": "Ibrahim El-Desouky Mosque"
+          },
+          "coords": [
+            30.646641,
+            31.128445
+          ],
+          "category": "religious",
+          "arrive_at": "09:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die großartige Architektur dieses islamischen Wahrzeichens, aber denken Sie daran, sich bescheiden zu kleiden und die Schuhe auszuziehen.",
+            "hu": "Csodálja meg e jelentős iszlám nevezetesség lenyűgöző építészetét, de ne feledjen visszafogottan öltözködni és belépés előtt levenni a cipőjét.",
+            "ro": "Admirați arhitectura grandioasă a acestui punct de reper islamic important, dar nu uitați să vă îmbrăcați modest și să vă descălțați la intrare.",
+            "en": "Marvel at the grand architecture of this highly significant Islamic landmark, but remember to dress modestly and remove your shoes before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Al-Midan Al-Ibrahimy Gärten",
+            "hu": "Al-Midan Al-Ibrahimy Kertek",
+            "ro": "Grădinile Al-Midan Al-Ibrahimy",
+            "en": "Al-Midan Al-Ibrahimy Gardens"
+          },
+          "coords": [
+            30.644192,
+            31.12741
+          ],
+          "category": "park",
+          "arrive_at": "10:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in dieser weitläufigen Gartenanlage, die eine grüne Oase im Zentrum bietet und sich perfekt für eine ruhige Pause am Morgen eignet.",
+            "hu": "Pihenjen meg ebben a hatalmas kertben, amely zöldellő oázist kínál a nyüzsgő városközpontban, ideális helyszínt nyújtva egy nyugodt délelőtti szünethez.",
+            "ro": "Relaxați-vă în aceste grădini întinse ce oferă o oază verde în centrul aglomerat al orașului, fiind locul perfect pentru o pauză liniștită de dimineață.",
+            "en": "Relax in these expansive gardens that offer a peaceful green oasis in the bustling city center, making it a perfect spot for a quiet mid-morning break."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturhaus Desouk",
+            "hu": "Desouk Kultúrház",
+            "ro": "Casa de Cultură Desouk",
+            "en": "Desouk Culture House"
+          },
+          "coords": [
+            30.652436,
+            31.142007
+          ],
+          "category": "cultural",
+          "arrive_at": "12:01",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem wichtigen Kulturhaus in das künstlerische Erbe ein, wo eine Führung tiefere Einblicke in die lokalen Kunstformen ermöglicht.",
+            "hu": "Merüljön el a régió művészeti örökségében ebben a fontos kulturális házban, ahol egy vezetett túra mélyebb betekintést nyújt a helyi művészetekbe.",
+            "ro": "Cufundați-vă în patrimoniul artistic al regiunii la această importantă casă de cultură, unde un tur ghidat oferă o perspectivă mai profundă asupra artelor.",
+            "en": "Dive into the region's artistic heritage at this important cultural house, where taking a guided tour provides deeper insights into the local arts."
+          }
+        },
+        {
+          "name": {
+            "de": "Al Fardous Garten",
+            "hu": "Al Fardous Kert",
+            "ro": "Grădina Al Fardous",
+            "en": "Al Fardous Garden"
+          },
+          "coords": [
+            30.651667,
+            31.119336
+          ],
+          "category": "landmark",
+          "arrive_at": "13:13",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch dieses wunderschöne Gartenwahrzeichen, das Natur und Stadtleben verbindet, und bringen Sie eine Wasserflasche für sonnige Tage mit.",
+            "hu": "Sétáljon végig ezen a gyönyörű kerti nevezetességen, amely tökéletesen ötvözi a természetet a városi élettel, és hozzon magával vizet a napsütéses napokra.",
+            "ro": "Plimbați-vă prin această frumoasă grădină care îmbină perfect natura cu viața urbană, aducând o sticlă de apă pentru a vă hidrata în zilele însorite.",
+            "en": "Stroll through this beautiful garden landmark that perfectly blends nature with city life, bringing a reusable water bottle to stay hydrated on sunny days."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt mit einem friedlichen Besuch der Georgskirche, gefolgt von der beeindruckenden Ibrahim El-Desouky Moschee. Mittags radeln Sie zu den zentralen Al-Midan Al-Ibrahimy Gärten für eine Pause. Am Nachmittag fahren Sie nach Norden, um das Desouk Culture House zu erkunden. Beenden Sie Ihren aktiven Tag, indem Sie zum malerischen Al Fardous Garten radeln, um den Abend ausklingen zu lassen.",
+        "hu": "A biciklitúra a Szent György templom békés reggeli látogatásával indul, amelyet az Ibrahim El-Desouky mecset követ. Délben tekerjen a központi Al-Midan Al-Ibrahimy kertek felé egy frissítő szabadtéri szünetre. Délután kerékpározzon északra a Desouk Kultúrház művészeti kiállításainak felfedezéséhez. Zárja aktív napját az Al Fardous kerthez kerekezve egy csendes estéért.",
+        "ro": "Plimbarea cu bicicleta începe cu o vizită la Biserica Sf. Gheorghe, urmată de impresionanta Moschee Ibrahim El-Desouky. La prânz, pedalați spre Grădinile Al-Midan Al-Ibrahimy pentru o pauză revigorantă. După-amiaza, mergeți spre nord pentru a explora expozițiile artistice de la Casa de Cultură Desouk. Încheiați-vă ziua activă pedalând spre pitoreasca Grădină Al Fardous pentru o seară liniștită.",
+        "en": "Your ride kicks off with a peaceful morning visit to the Church of St. George, followed by the impressive Ibrahim El-Desouky Mosque. At midday, pedal towards the central Al-Midan Al-Ibrahimy Gardens for a refreshing outdoor break. In the afternoon, cycle north to explore the artistic exhibits at the Desouk Culture House. Wrap up your active day by cycling to the scenic Al Fardous Garden for a quiet evening."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:02",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Um Al-Qura Garten",
+            "hu": "Um Al-Qura Kert",
+            "ro": "Grădina Um Al-Qura",
+            "en": "Um Al-Qura Garden"
+          },
+          "coords": [
+            30.665307,
+            31.140954
+          ],
+          "category": "park",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Morgen mit einem Spaziergang in diesem weitläufigen Park, genießen Sie die Wege und holen Sie sich einen Snack bei einem nahen Verkäufer.",
+            "hu": "Kezdje a reggelt egy frissítő sétával ebben a tágas parkban, élvezve a jól karbantartott utakat, miközben egy közeli árusnál gyors harapnivalót vesz.",
+            "ro": "Începeți dimineața cu o plimbare răcoritoare în acest parc spațios, bucurându-vă de aleile bine întreținute în timp ce luați o gustare de la un vânzător.",
+            "en": "Start your morning with a refreshing walk in this spacious park, enjoying the well-maintained paths while picking up a quick snack at a nearby vendor."
+          }
+        },
+        {
+          "name": {
+            "de": "Kulturhaus Desouk",
+            "hu": "Desouk Kultúrház",
+            "ro": "Casa de Cultură Desouk",
+            "en": "Desouk Culture House"
+          },
+          "coords": [
+            30.652436,
+            31.142007
+          ],
+          "category": "cultural",
+          "arrive_at": "10:28",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem wichtigen Kulturhaus in das künstlerische Erbe ein, wo eine Führung tiefere Einblicke in die lokalen Kunstformen ermöglicht.",
+            "hu": "Merüljön el a régió művészeti örökségében ebben a fontos kulturális házban, ahol egy vezetett túra mélyebb betekintést nyújt a helyi művészetekbe.",
+            "ro": "Cufundați-vă în patrimoniul artistic al regiunii la această importantă casă de cultură, unde un tur ghidat oferă o perspectivă mai profundă asupra artelor.",
+            "en": "Dive into the region's artistic heritage at this important cultural house, where taking a guided tour provides deeper insights into the local arts."
+          }
+        },
+        {
+          "name": {
+            "de": "Ibrahim El-Desouky Moschee",
+            "hu": "Ibrahim El-Desouky Mecset",
+            "ro": "Moscheea Ibrahim El-Desouky",
+            "en": "Ibrahim El-Desouky Mosque"
+          },
+          "coords": [
+            30.646641,
+            31.128445
+          ],
+          "category": "religious",
+          "arrive_at": "11:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die großartige Architektur dieses islamischen Wahrzeichens, aber denken Sie daran, sich bescheiden zu kleiden und die Schuhe auszuziehen.",
+            "hu": "Csodálja meg e jelentős iszlám nevezetesség lenyűgöző építészetét, de ne feledjen visszafogottan öltözködni és belépés előtt levenni a cipőjét.",
+            "ro": "Admirați arhitectura grandioasă a acestui punct de reper islamic important, dar nu uitați să vă îmbrăcați modest și să vă descălțați la intrare.",
+            "en": "Marvel at the grand architecture of this highly significant Islamic landmark, but remember to dress modestly and remove your shoes before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Vergnügungspark",
+            "hu": "Vidámpark",
+            "ro": "Parcul de Distracții",
+            "en": "Amusement Park"
+          },
+          "coords": [
+            30.645073,
+            31.124326
+          ],
+          "category": "family",
+          "arrive_at": "12:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie familienfreundlichen Spaß in diesem lebhaften Vergnügungspark, obwohl ein Besuch an einem Wochentag kürzere Wartezeiten garantiert.",
+            "hu": "Élvezze a családbarát szórakozást ebben a nyüzsgő vidámparkban, bár egy hétköznapi látogatás rövidebb sorban állást biztosít a népszerűbb játékoknál.",
+            "ro": "Bucurați-vă de distracție în familie în acest parc de distracții plin de viață, deși o vizită în timpul săptămânii asigură cozi mai scurte la atracții.",
+            "en": "Enjoy some family-friendly fun at this lively amusement park, though visiting on a weekday ensures shorter queues for the most popular rides."
+          }
+        },
+        {
+          "name": {
+            "de": "Al-Safa Halle",
+            "hu": "Al-Safa Hall",
+            "ro": "Sala Al-Safa",
+            "en": "Al-Safa Hall"
+          },
+          "coords": [
+            30.653322,
+            31.118745
+          ],
+          "category": "cultural",
+          "arrive_at": "13:32",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Besuch in diesem renommierten Kulturzentrum, das für seine Veranstaltungen bekannt ist, und runden Sie den Tag mit Traditionen ab.",
+            "hu": "Zárja látogatását ebben a nyüzsgő eseményeiről ismert neves kulturális központban, egy lenyűgöző pillantást vetve a helyi hagyományokra a nap végén.",
+            "ro": "Încheiați-vă vizita la acest centru cultural renumit pentru evenimentele sale pline de viață, terminând ziua cu o privire fascinantă asupra tradițiilor.",
+            "en": "Conclude your visit at this renowned cultural center known for its lively events, wrapping up your day with a fascinating glimpse into local traditions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie direkt zum Um Al-Qura Garten für einen ruhigen Morgenspaziergang durch eine der grünsten Zonen der Stadt. Mittags machen Sie sich auf den Weg zum Desouk Culture House, um die Geschichte der Region zu erleben. Der Nachmittag lädt Sie zur monumentalen Ibrahim El-Desouky Moschee und in den nahen Vergnügungspark ein. Lassen Sie den Abend in der pulsierenden Al-Safa Hall bei lokaler Kultur ausklingen.",
+        "hu": "Vezessen egyenesen az Um Al-Qura kertbe egy békés reggeli sétára a város egyik legzöldebb részén. Délre érjen el a Desouk Kultúrházba, hogy magába szívja a régió gazdag helyi történelmét. A délután a monumentális Ibrahim El-Desouky mecsethez és a közeli vidámparkhoz csábít. Kora este zárja festői útját a nyüzsgő Al-Safa Hallban a helyi kultúra felfedezésével.",
+        "ro": "Conduceți direct la Grădina Um Al-Qura pentru o plimbare matinală liniștită prin una dintre cele mai verzi zone ale orașului. La prânz, mergeți la Casa de Cultură Desouk pentru a absorbi istoria locală bogată. După-amiaza vă invită la monumentala Moschee Ibrahim El-Desouky și la parcul de distracții din apropiere. Odată cu lăsarea serii, încheiați plimbarea cu mașina la vibranta Sală Al-Safa.",
+        "en": "Drive straight to Um Al-Qura Garden for a serene and spacious morning stroll through one of the city's greenest areas. By midday, make your way to the Desouk Culture House to absorb the region's rich local history. The afternoon invites you to the monumental Ibrahim El-Desouky Mosque and the nearby lively Amusement Park. As evening falls, conclude your scenic drive at the vibrant Al-Safa Hall for local culture."
+      }
+    }
+  }
+}

@@ -1,0 +1,497 @@
+{
+  "city_id": "mexico-bacalar-cities-v2",
+  "anchor": {
+    "name": "Bacalar",
+    "coords": [
+      -88.389353,
+      18.676147
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:57",
+      "total_km": 0.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "City Letters",
+            "hu": "City Letters",
+            "ro": "City Letters",
+            "en": "City Letters"
+          },
+          "coords": [
+            -88.389049,
+            18.676733
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Machen Sie ein farbenfrohes Erinnerungsfoto bei diesen ikonischen Buchstaben, aber kommen Sie früh morgens, um lange Schlangen in der heißen Sonne zu meiden.",
+            "hu": "Készíts egy színes emlékképet a lagúnára néző ikonikus betűknél, de érkezz kora reggel, hogy elkerüld a hosszú sorban állást a forró napsütésben.",
+            "ro": "Fă o poză colorată la aceste litere iconice cu vedere la lagună, dar vino dimineața devreme pentru a evita cozile lungi formate sub soarele fierbinte.",
+            "en": "Snap a colorful souvenir photo at these iconic letters overlooking the lagoon, but arrive early in the morning to avoid the long queues under the hot sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Free pier",
+            "hu": "Free pier",
+            "ro": "Free pier",
+            "en": "Free pier"
+          },
+          "coords": [
+            -88.387218,
+            18.676029
+          ],
+          "category": "landmark",
+          "arrive_at": "09:38",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den ungestörten Blick auf die sieben Farben von diesem ruhigen Holzsteg und bringen Sie ein Handtuch mit, um Ihre Zehen ins Wasser zu tauchen.",
+            "hu": "Élvezd a hét szín zavartalan látványát erről a csendes fapillérről, és hozz magaddal egy törölközőt, hogy a szélén rögtön a tiszta vízbe lógasd a lábad.",
+            "ro": "Bucură-te de priveliștile neobstrucționate ale celor șapte culori de pe acest ponton liniștit din lemn și adu un prosop pentru a-ți răcori picioarele.",
+            "en": "Enjoy unobstructed views of the seven colors from this quiet wooden dock, and bring a towel so you can dip your toes in the clear water right at the edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Park with view of old boardwalk",
+            "hu": "Park with view of old boardwalk",
+            "ro": "Park cu vedere spre vechea faleză",
+            "en": "Park with view of old boardwalk"
+          },
+          "coords": [
+            -88.388847,
+            18.674932
+          ],
+          "category": "natural",
+          "arrive_at": "10:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im Schatten und bewundern Sie die rustikalen Überreste der alten Promenade, der perfekte Ort, um ein erfrischendes lokales Getränk zu genießen.",
+            "hu": "Pihenj meg az árnyékban, miközben megcsodálod a régi sétány rusztikus maradványait, ami tökéletes békés helyszín egy hűsítő helyi ital elfogyasztásához.",
+            "ro": "Relaxează-te la umbră admirând rămășițele rustice ale vechii faleze, fiind locul liniștit perfect pentru a savura o băutură locală extrem de răcoritoare.",
+            "en": "Relax in the shade while admiring the rustic remains of the old boardwalk, making it the perfect peaceful spot to sit down with a refreshing local drink."
+          }
+        },
+        {
+          "name": {
+            "de": "Andador Peatonal Calle 16",
+            "hu": "Andador Peatonal Calle 16",
+            "ro": "Andador Peatonal Calle 16",
+            "en": "Andador Peatonal Calle 16"
+          },
+          "coords": [
+            -88.388899,
+            18.67394
+          ],
+          "category": "landmark",
+          "arrive_at": "11:23",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese charmante Fußgängerzone mit ihren kleinen Geschäften und bunter Straßenkunst, und handeln Sie ruhig sanft um handgemachte Souvenirs.",
+            "hu": "Sétálj végig ezen a hangulatos, kis boltokkal és élénk utcai művészettel teli sétálóutcán, és nyugodtan alkudozz egy kicsit a kézműves ajándéktárgyakra.",
+            "ro": "Plimbă-te pe această stradă pietonală fermecătoare plină de magazine pitorești și artă stradală, și nu ezita să negociezi ușor suvenirurile lucrate manual.",
+            "en": "Stroll down this charming pedestrian street lined with quaint shops and vibrant street art, and don't hesitate to bargain gently for handmade souvenirs."
+          }
+        },
+        {
+          "name": {
+            "de": "Lanchas El Fuerte de Bacalar",
+            "hu": "Lanchas El Fuerte de Bacalar",
+            "ro": "Lanchas El Fuerte de Bacalar",
+            "en": "Lanchas El Fuerte de Bacalar"
+          },
+          "coords": [
+            -88.388748,
+            18.672705
+          ],
+          "category": "landmark",
+          "arrive_at": "11:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Buchen Sie eine Bootstour direkt von diesem historischen Startpunkt, um die Piratenkanäle zu erkunden, und bestätigen Sie die Route vor der Bezahlung.",
+            "hu": "Foglalj hajótúrát közvetlenül ebből a történelmi indulási pontból a kalózcsatornák felfedezéséhez, és fizetés előtt feltétlenül egyeztesd az útvonalat.",
+            "ro": "Rezervă un tur cu barca direct de la acest punct istoric de plecare pentru a explora canalele piraților, dar confirmă itinerariul exact înainte de a plăti.",
+            "en": "Book a boat tour directly from this historic launch point to explore the pirate channels, ensuring you confirm the exact itinerary before paying the captain."
+          }
+        },
+        {
+          "name": {
+            "de": "Public beach",
+            "hu": "Public beach",
+            "ro": "Plaja publică",
+            "en": "Public beach"
+          },
+          "coords": [
+            -88.38927,
+            18.671606
+          ],
+          "category": "landmark",
+          "arrive_at": "13:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das flache, faszinierende türkisfarbene Wasser an diesem lokalen Strand ein, aber bringen Sie umweltfreundliche Sonnencreme zum Schutz der Lagune mit.",
+            "hu": "Csobbanj a sekély, lenyűgöző türkizkék vízbe ezen a könnyen megközelíthető helyi strandon, de hozz környezetbarát naptejet a törékeny lagúna védelmében.",
+            "ro": "Scufundă-te în apele turcoaz de la această plajă publică accesibilă, dar adu-ți propria cremă de soare ecologică pentru a proteja ecosistemul fragil al lagunei.",
+            "en": "Dive into the shallow, mesmerizing turquoise waters at this accessible local beach, but bring your own eco-friendly sunscreen to protect the fragile lagoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie den Tag mit der Erkundung des lebendigen Zentrums, machen Sie Fotos bei den bunten Buchstaben und genießen Sie die klare Morgenluft an den Holzstegen.\nMittag: Schlendern Sie durch die Fußgängerzonen und historischen Parks und nehmen Sie sich Zeit für den rustikalen Charme der alten Promenade und der lokalen Marktstände.\nNachmittag: Wechseln Sie ans Wasser, entdecken Sie tiefe Cenoten und paddeln Sie über die unglaublich klare, siebenfarbige Lagune unter der warmen Sonne.\nAbend: Lassen Sie die Reise ausklingen, entspannen Sie an friedlichen Stränden oder genießen Sie ein asiatisches Fusionsdinner, während Sie den Tag Revue passieren lassen.",
+        "hu": "Reggel: Kezdd a napot a város nyüzsgő központjának felfedezésével, fotózz a színes betűknél, és élvezd a friss reggeli levegőt a fa mólók mellett sétálva.\nDél: Barangolj a sétálóutcákon és a történelmi parkokban, időt szakítva a régi sétány és a helyi árusok pultjainak rusztikus varázsának megtapasztalására.\nDélután: Irány a víz, fedezz fel mély víznyelőket, és evezz át a hihetetlenül tiszta, hét színben pompázó lagúnán a meleg trópusi napsütésben.\nEste: Zárd az utazást a békés strandokon pihenve, vagy fogyassz el egy egyedi fúziós vacsorát, miközben visszagondolsz erre a csodálatos napra.",
+        "ro": "Dimineața: Începe ziua explorând centrul vibrant al orașului, făcând poze la literele colorate și bucurându-te de aerul proaspăt al dimineții lângă pontonul de lemn.\nPrânz: Plimbă-te pe străzile pietonale și prin parcurile istorice, făcându-ți timp să simți farmecul rustic al vechii faleze și al tarabelor comercianților locali.\nDupă-amiaza: Treci la activitățile acvatice, descoperind cenote adânci și vâslind pe deasupra lagunei incredibil de limpezi, în cele șapte culori ale sale.\nSeara: Încheie călătoria relaxându-te pe plaje liniștite sau savurând o cină cu fuziune asiatică în timp ce reflectezi asupra unei zile perfecte.",
+        "en": "Morning: Begin your day by exploring the town's vibrant center, capturing photos at the colorful letters and enjoying the crisp morning air by the wooden docks.\nMidday: Wander through pedestrian streets and historic parks, taking time to feel the rustic charm of the old boardwalk and local vendor stalls.\nAfternoon: Transition to the water, discovering deep cenotes and paddling across the incredibly clear, seven-colored lagoon.\nEvening: Wrap up the journey by relaxing at peaceful beaches or enjoying a uniquely fused dinner while reflecting on a beautiful day."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:20",
+      "total_km": 2.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ecological Park Beach",
+            "hu": "Ecological Park Beach",
+            "ro": "Ecological Park Beach",
+            "en": "Ecological Park Beach"
+          },
+          "coords": [
+            -88.383683,
+            18.682393
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die unberührte Natur an diesem geschützten Strandabschnitt, wo ein früh gemietetes Kajak die besten Chancen bietet, seltene Wasservögel zu sehen.",
+            "hu": "Tapasztald meg az érintetlen természeti környezetet ezen a védett partszakaszon, ahol a korai kajakbérlés adja a legjobb esélyt a ritka vízimadarak megfigyelésére.",
+            "ro": "Experimentează mediul natural imaculat la această plajă protejată, unde închirierea unui caiac devreme îți oferă cele mai bune șanse de a vedea păsări rare.",
+            "en": "Experience the pristine natural environment at this protected beach area, where renting a kayak early offers the best chance to spot rare local water birds."
+          }
+        },
+        {
+          "name": {
+            "de": "Magical Spa",
+            "hu": "Magical Spa",
+            "ro": "Magical Spa",
+            "en": "Magical Spa"
+          },
+          "coords": [
+            -88.386406,
+            18.680555
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich eine tiefenentspannende Behandlung umgeben von tropischer Flora und denken Sie daran, Ihren Massagetermin in der Hochsaison im Voraus zu buchen.",
+            "hu": "Kényeztesd magad egy mélyen pihentető kezeléssel a trópusi növényvilág ölelésében, és ne felejtsd el főszezonban már egy nappal előre lefoglalni a masszázst.",
+            "ro": "Răsfață-te cu un tratament profund relaxant înconjurat de floră tropicală și nu uita să îți rezervi masajul cu o zi înainte pe durata sezonului turistic de vârf.",
+            "en": "Treat yourself to a deeply relaxing treatment surrounded by tropical flora, and remember to book your massage appointment a day in advance during high season."
+          }
+        },
+        {
+          "name": {
+            "de": "Free pier",
+            "hu": "Free pier",
+            "ro": "Free pier",
+            "en": "Free pier"
+          },
+          "coords": [
+            -88.387218,
+            18.676029
+          ],
+          "category": "landmark",
+          "arrive_at": "11:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den ungestörten Blick auf die sieben Farben von diesem ruhigen Holzsteg und bringen Sie ein Handtuch mit, um Ihre Zehen ins Wasser zu tauchen.",
+            "hu": "Élvezd a hét szín zavartalan látványát erről a csendes fapillérről, és hozz magaddal egy törölközőt, hogy a szélén rögtön a tiszta vízbe lógasd a lábad.",
+            "ro": "Bucură-te de priveliștile neobstrucționate ale celor șapte culori de pe acest ponton liniștit din lemn și adu un prosop pentru a-ți răcori picioarele.",
+            "en": "Enjoy unobstructed views of the seven colors from this quiet wooden dock, and bring a towel so you can dip your toes in the clear water right at the edge."
+          }
+        },
+        {
+          "name": {
+            "de": "City Letters",
+            "hu": "City Letters",
+            "ro": "City Letters",
+            "en": "City Letters"
+          },
+          "coords": [
+            -88.389049,
+            18.676733
+          ],
+          "category": "landmark",
+          "arrive_at": "11:37",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie ein farbenfrohes Erinnerungsfoto bei diesen ikonischen Buchstaben, aber kommen Sie früh morgens, um lange Schlangen in der heißen Sonne zu meiden.",
+            "hu": "Készíts egy színes emlékképet a lagúnára néző ikonikus betűknél, de érkezz kora reggel, hogy elkerüld a hosszú sorban állást a forró napsütésben.",
+            "ro": "Fă o poză colorată la aceste litere iconice cu vedere la lagună, dar vino dimineața devreme pentru a evita cozile lungi formate sub soarele fierbinte.",
+            "en": "Snap a colorful souvenir photo at these iconic letters overlooking the lagoon, but arrive early in the morning to avoid the long queues under the hot sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Andador Peatonal Calle 16",
+            "hu": "Andador Peatonal Calle 16",
+            "ro": "Andador Peatonal Calle 16",
+            "en": "Andador Peatonal Calle 16"
+          },
+          "coords": [
+            -88.388899,
+            18.67394
+          ],
+          "category": "landmark",
+          "arrive_at": "12:04",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese charmante Fußgängerzone mit ihren kleinen Geschäften und bunter Straßenkunst, und handeln Sie ruhig sanft um handgemachte Souvenirs.",
+            "hu": "Sétálj végig ezen a hangulatos, kis boltokkal és élénk utcai művészettel teli sétálóutcán, és nyugodtan alkudozz egy kicsit a kézműves ajándéktárgyakra.",
+            "ro": "Plimbă-te pe această stradă pietonală fermecătoare plină de magazine pitorești și artă stradală, și nu ezita să negociezi ușor suvenirurile lucrate manual.",
+            "en": "Stroll down this charming pedestrian street lined with quaint shops and vibrant street art, and don't hesitate to bargain gently for handmade souvenirs."
+          }
+        },
+        {
+          "name": {
+            "de": "Black Cenote",
+            "hu": "Black Cenote",
+            "ro": "Black Cenote",
+            "en": "Black Cenote"
+          },
+          "coords": [
+            -88.394282,
+            18.666929
+          ],
+          "category": "natural",
+          "arrive_at": "12:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den dramatischen Farbwechsel, wo die tiefe Doline auf die türkisfarbene Lagune trifft, und tragen Sie eine Rettungsweste am steilen Abgrund.",
+            "hu": "Csodáld meg a drámai színváltozást, ahol a mély víznyelő találkozik a türkizkék lagúnával, és viselj mentőmellényt, mivel a hirtelen mélyülés nagyon meredek.",
+            "ro": "Minunează-te de schimbarea dramatică de culoare unde dolina adâncă întâlnește laguna turcoaz, și poartă o vestă de salvare deoarece panta este foarte abruptă.",
+            "en": "Marvel at the dramatic color shift where the dark, deep sinkhole meets the turquoise lagoon, and wear a life jacket since the sudden drop-off is very steep."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie den Tag mit der Erkundung des lebendigen Zentrums, machen Sie Fotos bei den bunten Buchstaben und genießen Sie die klare Morgenluft an den Holzstegen.\nMittag: Schlendern Sie durch die Fußgängerzonen und historischen Parks und nehmen Sie sich Zeit für den rustikalen Charme der alten Promenade und der lokalen Marktstände.\nNachmittag: Wechseln Sie ans Wasser, entdecken Sie tiefe Cenoten und paddeln Sie über die unglaublich klare, siebenfarbige Lagune unter der warmen Sonne.\nAbend: Lassen Sie die Reise ausklingen, entspannen Sie an friedlichen Stränden oder genießen Sie ein asiatisches Fusionsdinner, während Sie den Tag Revue passieren lassen.",
+        "hu": "Reggel: Kezdd a napot a város nyüzsgő központjának felfedezésével, fotózz a színes betűknél, és élvezd a friss reggeli levegőt a fa mólók mellett sétálva.\nDél: Barangolj a sétálóutcákon és a történelmi parkokban, időt szakítva a régi sétány és a helyi árusok pultjainak rusztikus varázsának megtapasztalására.\nDélután: Irány a víz, fedezz fel mély víznyelőket, és evezz át a hihetetlenül tiszta, hét színben pompázó lagúnán a meleg trópusi napsütésben.\nEste: Zárd az utazást a békés strandokon pihenve, vagy fogyassz el egy egyedi fúziós vacsorát, miközben visszagondolsz erre a csodálatos napra.",
+        "ro": "Dimineața: Începe ziua explorând centrul vibrant al orașului, făcând poze la literele colorate și bucurându-te de aerul proaspăt al dimineții lângă pontonul de lemn.\nPrânz: Plimbă-te pe străzile pietonale și prin parcurile istorice, făcându-ți timp să simți farmecul rustic al vechii faleze și al tarabelor comercianților locali.\nDupă-amiaza: Treci la activitățile acvatice, descoperind cenote adânci și vâslind pe deasupra lagunei incredibil de limpezi, în cele șapte culori ale sale.\nSeara: Încheie călătoria relaxându-te pe plaje liniștite sau savurând o cină cu fuziune asiatică în timp ce reflectezi asupra unei zile perfecte.",
+        "en": "Morning: Begin your day by exploring the town's vibrant center, capturing photos at the colorful letters and enjoying the crisp morning air by the wooden docks.\nMidday: Wander through pedestrian streets and historic parks, taking time to feel the rustic charm of the old boardwalk and local vendor stalls.\nAfternoon: Transition to the water, discovering deep cenotes and paddling across the incredibly clear, seven-colored lagoon.\nEvening: Wrap up the journey by relaxing at peaceful beaches or enjoying a uniquely fused dinner while reflecting on a beautiful day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 6.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bacalar Dany",
+            "hu": "Bacalar Dany",
+            "ro": "Bacalar Dany",
+            "en": "Bacalar Dany"
+          },
+          "coords": [
+            -88.400409,
+            18.673372
+          ],
+          "category": "castle",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses charmante architektonische Wahrzeichen, das einer kleinen Festung ähnelt, und fragen Sie Einheimische nach den Legenden seines Baus.",
+            "hu": "Fedezd fel ezt a kis erődítményre emlékeztető bájos építészeti nevezetességet, és feltétlenül kérdezd meg a barátságos helyieket az építéséhez fűződő legendákról.",
+            "ro": "Explorează acest punct de reper arhitectural fermecător asemănător unei mici fortărețe, și întreabă localnicii prietenoși despre legendele din jurul construcției.",
+            "en": "Explore this charming architectural landmark resembling a small fortress, making sure to ask the friendly locals about the legends surrounding its construction."
+          }
+        },
+        {
+          "name": {
+            "de": "What SUP",
+            "hu": "What SUP",
+            "ro": "What SUP",
+            "en": "What SUP"
+          },
+          "coords": [
+            -88.399024,
+            18.660205
+          ],
+          "category": "landmark",
+          "arrive_at": "10:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Gleiten Sie auf einer Paddleboard-Tour über das gläserne Morgenwasser und packen Sie eine wasserdichte Tasche für Ihr Handy ein, um den Sonnenaufgang festzuhalten.",
+            "hu": "Siklik át az üvegszerű reggeli vizeken egy innen induló evezős deszkatúrán, és csomagolj egy vízálló táskát a telefonodnak a lenyűgöző napfelkelte megörökítéséhez.",
+            "ro": "Alunecă pe apele clare ale dimineții într-un tur cu paddleboard-ul, și ia cu tine o geantă impermeabilă pentru telefon pentru a surprinde culorile răsăritului.",
+            "en": "Glide across the glassy morning waters on a paddleboard tour starting from here, and pack a waterproof bag for your phone to capture the stunning sunrise colors."
+          }
+        },
+        {
+          "name": {
+            "de": "Emerald Cenote",
+            "hu": "Emerald Cenote",
+            "ro": "Cenota de Smarald",
+            "en": "Emerald Cenote"
+          },
+          "coords": [
+            -88.405154,
+            18.65567
+          ],
+          "category": "landmark",
+          "arrive_at": "11:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Schwimmen Sie in den unglaublich klaren und erfrischenden grünen Gewässern dieser natürlichen Doline, aber kommen Sie vor Mittag, um den großen Massen auszuweichen.",
+            "hu": "Ússz el ennek a természetes víznyelőnek a hihetetlenül tiszta és frissítő zöld árnyalatú vizében, de próbálj meg dél előtt érkezni, hogy elkerüld a nagy turistacsoportokat.",
+            "ro": "Înoată în apele incredibil de limpezi și revigorante ale acestei doline naturale, dar încearcă să ajungi înainte de prânz pentru a evita marile aglomerații de turiști.",
+            "en": "Swim in the incredibly clear and refreshing green-tinted waters of this natural sinkhole, but try to arrive before midday to beat the large tourist excursion crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Birds Island",
+            "hu": "Birds Island",
+            "ro": "Insula Păsărilor",
+            "en": "Birds Island"
+          },
+          "coords": [
+            -88.392823,
+            18.655256
+          ],
+          "category": "natural",
+          "arrive_at": "13:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Beobachten Sie verschiedene Herden von Zugvögeln auf dieser ruhigen, geschützten Insel, und bringen Sie ein gutes Fernglas mit, um die Nester aus der Ferne zu sehen.",
+            "hu": "Figyeld meg a vándormadarak sokféle csapatát ezen a békés, védett szigeten, és hozz egy jó távcsövet, hogy biztonságos távolságból láthasd a fészkelési szokásokat.",
+            "ro": "Observă diversele stoluri de păsări migratoare pe această insulă liniștită, și adu un binoclu bun pentru a vedea cuiburile de la o distanță complet sigură.",
+            "en": "Observe diverse flocks of migratory species gathering on this serene protected island, and bring a good pair of binoculars to see the nesting patterns from a safe distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Black Cenote",
+            "hu": "Black Cenote",
+            "ro": "Black Cenote",
+            "en": "Black Cenote"
+          },
+          "coords": [
+            -88.394282,
+            18.666929
+          ],
+          "category": "natural",
+          "arrive_at": "14:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den dramatischen Farbwechsel, wo die tiefe Doline auf die türkisfarbene Lagune trifft, und tragen Sie eine Rettungsweste am steilen Abgrund.",
+            "hu": "Csodáld meg a drámai színváltozást, ahol a mély víznyelő találkozik a türkizkék lagúnával, és viselj mentőmellényt, mivel a hirtelen mélyülés nagyon meredek.",
+            "ro": "Minunează-te de schimbarea dramatică de culoare unde dolina adâncă întâlnește laguna turcoaz, și poartă o vestă de salvare deoarece panta este foarte abruptă.",
+            "en": "Marvel at the dramatic color shift where the dark, deep sinkhole meets the turquoise lagoon, and wear a life jacket since the sudden drop-off is very steep."
+          }
+        },
+        {
+          "name": {
+            "de": "NAO Japanese Fusion",
+            "hu": "NAO Japanese Fusion",
+            "ro": "NAO Japanese Fusion",
+            "en": "NAO Japanese Fusion"
+          },
+          "coords": [
+            -88.391687,
+            18.670961
+          ],
+          "category": "natural",
+          "arrive_at": "15:43",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Nachmittag mit einer einzigartigen Mischung aus lokalen Meeresfrüchten und japanischen Aromen, probieren Sie unbedingt die Ceviche-Rolle in der Brise.",
+            "hu": "Zárd a délutánt a helyi tengeri gyümölcsök és a japán ízek rendkívül egyedi keverékével, és feltétlenül kóstold meg a jellegzetes ceviche tekercset a szellőben.",
+            "ro": "Încheie-ți după-amiaza cu un amestec unic de fructe de mare locale și arome japoneze, și asigură-te că încerci ruloul lor de ceviche în timp ce te bucuri de briza mării.",
+            "en": "Finish your afternoon with a highly unique blend of local seafood and Japanese flavors here, making sure to try their signature ceviche roll while enjoying the breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "City Letters",
+            "hu": "City Letters",
+            "ro": "City Letters",
+            "en": "City Letters"
+          },
+          "coords": [
+            -88.389049,
+            18.676733
+          ],
+          "category": "landmark",
+          "arrive_at": "16:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Machen Sie ein farbenfrohes Erinnerungsfoto bei diesen ikonischen Buchstaben, aber kommen Sie früh morgens, um lange Schlangen in der heißen Sonne zu meiden.",
+            "hu": "Készíts egy színes emlékképet a lagúnára néző ikonikus betűknél, de érkezz kora reggel, hogy elkerüld a hosszú sorban állást a forró napsütésben.",
+            "ro": "Fă o poză colorată la aceste litere iconice cu vedere la lagună, dar vino dimineața devreme pentru a evita cozile lungi formate sub soarele fierbinte.",
+            "en": "Snap a colorful souvenir photo at these iconic letters overlooking the lagoon, but arrive early in the morning to avoid the long queues under the hot sun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie den Tag mit der Erkundung des lebendigen Zentrums, machen Sie Fotos bei den bunten Buchstaben und genießen Sie die klare Morgenluft an den Holzstegen.\nMittag: Schlendern Sie durch die Fußgängerzonen und historischen Parks und nehmen Sie sich Zeit für den rustikalen Charme der alten Promenade und der lokalen Marktstände.\nNachmittag: Wechseln Sie ans Wasser, entdecken Sie tiefe Cenoten und paddeln Sie über die unglaublich klare, siebenfarbige Lagune unter der warmen Sonne.\nAbend: Lassen Sie die Reise ausklingen, entspannen Sie an friedlichen Stränden oder genießen Sie ein asiatisches Fusionsdinner, während Sie den Tag Revue passieren lassen.",
+        "hu": "Reggel: Kezdd a napot a város nyüzsgő központjának felfedezésével, fotózz a színes betűknél, és élvezd a friss reggeli levegőt a fa mólók mellett sétálva.\nDél: Barangolj a sétálóutcákon és a történelmi parkokban, időt szakítva a régi sétány és a helyi árusok pultjainak rusztikus varázsának megtapasztalására.\nDélután: Irány a víz, fedezz fel mély víznyelőket, és evezz át a hihetetlenül tiszta, hét színben pompázó lagúnán a meleg trópusi napsütésben.\nEste: Zárd az utazást a békés strandokon pihenve, vagy fogyassz el egy egyedi fúziós vacsorát, miközben visszagondolsz erre a csodálatos napra.",
+        "ro": "Dimineața: Începe ziua explorând centrul vibrant al orașului, făcând poze la literele colorate și bucurându-te de aerul proaspăt al dimineții lângă pontonul de lemn.\nPrânz: Plimbă-te pe străzile pietonale și prin parcurile istorice, făcându-ți timp să simți farmecul rustic al vechii faleze și al tarabelor comercianților locali.\nDupă-amiaza: Treci la activitățile acvatice, descoperind cenote adânci și vâslind pe deasupra lagunei incredibil de limpezi, în cele șapte culori ale sale.\nSeara: Încheie călătoria relaxându-te pe plaje liniștite sau savurând o cină cu fuziune asiatică în timp ce reflectezi asupra unei zile perfecte.",
+        "en": "Morning: Begin your day by exploring the town's vibrant center, capturing photos at the colorful letters and enjoying the crisp morning air by the wooden docks.\nMidday: Wander through pedestrian streets and historic parks, taking time to feel the rustic charm of the old boardwalk and local vendor stalls.\nAfternoon: Transition to the water, discovering deep cenotes and paddling across the incredibly clear, seven-colored lagoon.\nEvening: Wrap up the journey by relaxing at peaceful beaches or enjoying a uniquely fused dinner while reflecting on a beautiful day."
+      }
+    }
+  }
+}

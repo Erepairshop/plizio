@@ -1,0 +1,451 @@
+{
+  "city_id": "spain-colonia-de-sant-jordi-cities-v2",
+  "anchor": {
+    "name": "Colònia de Sant Jordi",
+    "coords": [
+      2.99245,
+      39.31836
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:39",
+      "total_km": 3.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Centre d'Interpretació del Parc Nacional de Cabrera",
+            "hu": "Centre d'Interpretació del Parc Nacional de Cabrera",
+            "ro": "Centre d'Interpretació del Parc Nacional de Cabrera",
+            "en": "Centre d'Interpretació del Parc Nacional de Cabrera"
+          },
+          "coords": [
+            2.999626,
+            39.318606
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Unterwasserwelt des Cabrera-Archipels in diesem interaktiven Museum und verpassen Sie nicht das faszinierende Aquarium im Untergeschoss.",
+            "hu": "Ismerje meg a Cabrera-szigetcsoport gazdag tengeri élővilágát ebben az interaktív múzeumban, és mindenképpen nézze meg a lenyűgöző földalatti akváriumot.",
+            "ro": "Descoperiți bogata viață marină a arhipelagului Cabrera în acest muzeu interactiv și asigurați-vă că explorați fascinantul acvariu subteran de la subsol.",
+            "en": "Discover the rich marine life and history of the Cabrera archipelago before taking a boat tour, and make sure to check out the fascinating underground aquarium."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja d'es Port",
+            "hu": "Platja d'es Port",
+            "ro": "Platja d'es Port",
+            "en": "Platja d'es Port"
+          },
+          "coords": [
+            2.998089,
+            39.31713
+          ],
+          "category": "recreational",
+          "arrive_at": "10:53",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem familienfreundlichen Strand direkt neben dem Zentrum, wo das flache Wasser ideal ist, aber kommen Sie früh, um eine Liege zu ergattern.",
+            "hu": "Pihenjen ezen a családbarát, sekély vizű strandon a központ mellett, de nyáron érdemes korán érkezni, hogy biztosan kapjon napágyat a tömeg előtt.",
+            "ro": "Relaxați-vă pe această plajă pentru familii de lângă centru, cu ape puțin adânci, dar veniți devreme vara pentru a prinde un șezlong liber în primul rând.",
+            "en": "Relax on this family-friendly beach right next to the town center, where shallow waters offer a safe swim, but arrive early to secure a sunbed during summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja d'es Dolç",
+            "hu": "Platja d'es Dolç",
+            "ro": "Platja d'es Dolç",
+            "en": "Platja d'es Dolç"
+          },
+          "coords": [
+            3.004634,
+            39.316415
+          ],
+          "category": "recreational",
+          "arrive_at": "12:02",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie den weißen Sand und die herrliche Aussicht auf die kleinen Inseln, aber packen Sie unbedingt genügend Wasser ein, da die Einrichtungen begrenzt sind.",
+            "hu": "Élvezze az érintetlen fehér homokot és a környező kis szigetekre nyíló kilátást, de vigyen magával elég vizet, mivel a szolgáltatások itt meglehetősen korlátozottak.",
+            "ro": "Bucurați-vă de nisipul alb și priveliștea spre micile insule, dar nu uitați să luați cu voi suficientă apă, deoarece facilitățile de aici sunt destul de limitate.",
+            "en": "Enjoy the pristine white sands and stunning views of the nearby small islands, and don't forget to pack plenty of water as facilities here are quite limited."
+          }
+        },
+        {
+          "name": {
+            "de": "sa Puntassa",
+            "hu": "sa Puntassa",
+            "ro": "sa Puntassa",
+            "en": "sa Puntassa"
+          },
+          "coords": [
+            2.993531,
+            39.312419
+          ],
+          "category": "landmark",
+          "arrive_at": "13:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Küste von dieser malerischen felsigen Landzunge aus und tragen Sie festes Schuhwerk für das unebene Kalksteingelände.",
+            "hu": "Csodálja meg a panorámás parti kilátást erről a festői sziklás pontról, és viseljen zárt cipőt, hogy kényelmesen közlekedhessen az egyenetlen mészköves terepen.",
+            "ro": "Admirați priveliștile panoramice de pe acest punct stâncos pitoresc și purtați încălțăminte solidă pentru a naviga confortabil pe terenul calcaros accidentat.",
+            "en": "Take in the panoramic coastal views from this picturesque rocky point, and wear sturdy shoes to comfortably navigate the uneven limestone terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Bassa Cabots",
+            "hu": "Bassa Cabots",
+            "ro": "Bassa Cabots",
+            "en": "Bassa Cabots"
+          },
+          "coords": [
+            2.9869,
+            39.32143
+          ],
+          "category": "recreational",
+          "arrive_at": "14:17",
+          "stay_min": 45,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses ruhige Feuchtgebiet, das für seine Vogelwelt bekannt ist, und bringen Sie ein Fernglas mit, um wandernde Arten an der Küste zu beobachten.",
+            "hu": "Fedezze fel ezt a nyugodt parti vizes élőhelyet, amely madárvilágáról ismert, és hozzon távcsövet, hogy jobban megfigyelhesse a vonuló fajokat a parton.",
+            "ro": "Explorați această zonă umedă de coastă liniștită, cunoscută pentru păsările sale, și aduceți binoclul pentru a observa speciile migratoare de-a lungul țărmului.",
+            "en": "Explore this tranquil coastal wetland area known for its unique birdlife, and bring binoculars for the best chance of spotting migratory species along the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja d'es Coto",
+            "hu": "Platja d'es Coto",
+            "ro": "Platja d'es Coto",
+            "en": "Platja d'es Coto"
+          },
+          "coords": [
+            2.986818,
+            39.32561
+          ],
+          "category": "recreational",
+          "arrive_at": "15:09",
+          "stay_min": 90,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erleben Sie einen ruhigeren Strandtag an diesem weniger überlaufenen Favoriten der Einheimischen und schnorcheln Sie an den felsigen Rändern nach bunten Fischen.",
+            "hu": "Töltsön el egy nyugodtabb napot ezen a helyiek által kedvelt strandon, és próbálja ki a sznorkelezést a sziklás széleknél, hogy színes halakat lásson.",
+            "ro": "Petreceți o zi mai liniștită pe această plajă preferată de localnici și încercați snorkelingul pe la marginile stâncoase pentru a vedea pești mediteraneeni.",
+            "en": "Experience a quieter beach day at this less-crowded local favorite, and try snorkeling near the rocky edges to spot colorful Mediterranean fish."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit lokaler Ökologie im Besucherzentrum des Cabrera-Nationalparks. Gegen Mittag schlendern Sie zur Platja d'es Port für ein erfrischendes Bad und ein Mittagessen am Meer. Genießen Sie am Nachmittag die Küstenwege an sa Puntassa vorbei zu den Bassa Cabots Feuchtgebieten. Beenden Sie den Tag an der Platja d'es Coto und genießen Sie die ruhige Abendstimmung und spektakuläre Sonnenuntergänge.",
+        "hu": "Kezdje a reggelt a helyi ökológia felfedezésével a Cabrera Nemzeti Park látogatóközpontjában. Dél közeledtével sétáljon át a Platja d'es Port strandra egy frissítő úszásra és ebédre. Délután élvezze a sa Puntassa melletti parti sétányokat a festői Bassa Cabots vizes élőhelyek felé. Zárja a napot a Platja d'es Coto strandon, elmerülve a nyugodt esti hangulatban és a naplemente színeiben.",
+        "ro": "Începeți dimineața explorând ecologia locală la centrul parcului național Cabrera. La prânz, plimbați-vă spre Platja d'es Port pentru o baie răcoroasă și un prânz la malul mării. După-amiaza, bucurați-vă de cărările de coastă ce trec pe lângă sa Puntassa spre pitoreștile zone umede Bassa Cabots. Încheiați ziua la Platja d'es Coto, admirând atmosfera liniștită de seară și culorile apusului de soare.",
+        "en": "Start your morning delving into local ecology at the Cabrera National Park visitor center. As midday approaches, stroll over to Platja d'es Port for a refreshing swim and a relaxing seaside lunch. In the afternoon, enjoy the coastal pathways leading past sa Puntassa to the scenic Bassa Cabots wetlands. Conclude your day at Platja d'es Coto, soaking up the quiet evening atmosphere and spectacular sunset colors."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:19",
+      "total_km": 4.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Centre d'Interpretació del Parc Nacional de Cabrera",
+            "hu": "Centre d'Interpretació del Parc Nacional de Cabrera",
+            "ro": "Centre d'Interpretació del Parc Nacional de Cabrera",
+            "en": "Centre d'Interpretació del Parc Nacional de Cabrera"
+          },
+          "coords": [
+            2.999626,
+            39.318606
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Unterwasserwelt des Cabrera-Archipels in diesem interaktiven Museum und verpassen Sie nicht das faszinierende Aquarium im Untergeschoss.",
+            "hu": "Ismerje meg a Cabrera-szigetcsoport gazdag tengeri élővilágát ebben az interaktív múzeumban, és mindenképpen nézze meg a lenyűgöző földalatti akváriumot.",
+            "ro": "Descoperiți bogata viață marină a arhipelagului Cabrera în acest muzeu interactiv și asigurați-vă că explorați fascinantul acvariu subteran de la subsol.",
+            "en": "Discover the rich marine life and history of the Cabrera archipelago before taking a boat tour, and make sure to check out the fascinating underground aquarium."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja d'es Port",
+            "hu": "Platja d'es Port",
+            "ro": "Platja d'es Port",
+            "en": "Platja d'es Port"
+          },
+          "coords": [
+            2.998089,
+            39.31713
+          ],
+          "category": "recreational",
+          "arrive_at": "10:52",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem familienfreundlichen Strand direkt neben dem Zentrum, wo das flache Wasser ideal ist, aber kommen Sie früh, um eine Liege zu ergattern.",
+            "hu": "Pihenjen ezen a családbarát, sekély vizű strandon a központ mellett, de nyáron érdemes korán érkezni, hogy biztosan kapjon napágyat a tömeg előtt.",
+            "ro": "Relaxați-vă pe această plajă pentru familii de lângă centru, cu ape puțin adânci, dar veniți devreme vara pentru a prinde un șezlong liber în primul rând.",
+            "en": "Relax on this family-friendly beach right next to the town center, where shallow waters offer a safe swim, but arrive early to secure a sunbed during summer."
+          }
+        },
+        {
+          "name": {
+            "de": "platja del Dofí",
+            "hu": "platja del Dofí",
+            "ro": "platja del Dofí",
+            "en": "platja del Dofí"
+          },
+          "coords": [
+            3.009743,
+            39.31218
+          ],
+          "category": "recreational",
+          "arrive_at": "11:44",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Schwimmen Sie in kristallklarem, türkisfarbenem Wasser, umgeben von wunderschönen Dünen, und machen Sie einen langen Spaziergang am malerischen Kiefernwald.",
+            "hu": "Fürödjön a kristálytiszta türkizkék vízben a gyönyörű dűnék mögött, és tegyen egy hosszú sétát a parton a festői fenyőerdő árnyékában.",
+            "ro": "Înotați în apele turcoaz cristaline susținute de dune frumoase și faceți o lungă plimbare pe mal, în timp ce pădurea de pini oferă un fundal pitoresc.",
+            "en": "Swim in the crystal-clear turquoise waters backed by beautiful dunes, and take a long walk along the shore as the pine forest provides a scenic backdrop."
+          }
+        },
+        {
+          "name": {
+            "de": "platja de Can Curt",
+            "hu": "platja de Can Curt",
+            "ro": "platja de Can Curt",
+            "en": "platja de Can Curt"
+          },
+          "coords": [
+            3.00595,
+            39.312259
+          ],
+          "category": "recreational",
+          "arrive_at": "12:47",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Finden Sie ein friedliches Plätzchen an diesem kleinen, intimen Sandstrand, der ideal zum Lesen ist, aber beachten Sie den minimalen natürlichen Schatten.",
+            "hu": "Találjon egy békés helyet ezen a kisebb, meghitt homokszakaszon, amely ideális egy kis olvasáshoz, de vegye figyelembe, hogy itt minimális a természetes árnyék.",
+            "ro": "Găsiți un loc liniștit pe această porțiune de nisip mai mică și intimă, ideală pentru lectură, dar fiți conștienți că aici există umbră naturală minimă.",
+            "en": "Find a peaceful spot on this smaller, intimate stretch of sand, ideal for relaxing reading, but be aware there is minimal natural shade available here."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja des Estanys",
+            "hu": "Platja des Estanys",
+            "ro": "Platja des Estanys",
+            "en": "Platja des Estanys"
+          },
+          "coords": [
+            2.989908,
+            39.326778
+          ],
+          "category": "recreational",
+          "arrive_at": "13:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an einem atemberaubenden, weitläufigen Strand mit azurblauem Wasser und mieten Sie sich einen Sonnenschirm gegen die starke Mittagssonne.",
+            "hu": "Kapcsolódjon ki egy lenyűgöző, tágas strandon, briliáns azúrkék vizekkel, és érdemes napernyőt bérelni a helyi árusoktól az erős déli napsütés elkerülése végett.",
+            "ro": "Relaxați-vă pe o plajă vastă uimitoare, cu ape azurii strălucitoare, și luați în considerare închirierea unei umbrele de soare pentru a evita arsurile de la prânz.",
+            "en": "Unwind on a stunning expansive beach with brilliant azure waters, and consider renting a parasol from local vendors to escape the strong midday sunshine."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja Es Peregons",
+            "hu": "Platja Es Peregons",
+            "ro": "Platja Es Peregons",
+            "en": "Platja Es Peregons"
+          },
+          "coords": [
+            2.992005,
+            39.332609
+          ],
+          "category": "recreational",
+          "arrive_at": "14:49",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen an dieser abgelegenen Bucht, die hauptsächlich zu Fuß erreichbar ist, und genießen Sie die ruhige Atmosphäre dieses unberührten Strandes.",
+            "hu": "Meneküljön el a tömeg elől ebben a főként gyalog megközelíthető eldugott öbölben, és élvezze az egy olyan strand nyugodt légkörét, amely gyakran teljesen néptelen.",
+            "ro": "Scăpați de aglomerație în acest golf retras accesibil în principal pe jos și îmbrățișați atmosfera liniștită a unei plaje care este adesea complet pustie.",
+            "en": "Escape the crowds at this secluded bay accessible mainly by foot, and embrace the tranquil atmosphere of a beach that is often entirely deserted."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer und lernen Sie im Interpretationszentrum mehr über die Meereswelt. Mittags radeln Sie an Platja d'es Port und Platja d'es Dolç vorbei zum ruhigen Sand der platja de Can Curt. Verbringen Sie den Nachmittag entlang der Küste und bewundern Sie die ausgedehnten Dünen von Platja des Estanys. Ihr Abend endet friedlich an der Platja Es Peregons.",
+        "hu": "Kezdje kerékpáros kalandját a tengeri élővilág megismerésével az Interpretációs Központban. Délben tekerjen el a Platja d'es Port és a Platja d'es Dolç mellett a platja de Can Curt csendes homokjához. Délután guruljon végig a part mentén, megcsodálva a Platja des Estanys kiterjedt dűnéit. Az estét békésen fejezheti be a Platja Es Peregons strandon, figyelve a szelíd hullámokat.",
+        "ro": "Începeți aventura pe bicicletă învățând despre viața marină la Centrul de Interpretare. La prânz, pedalați pe lângă Platja d'es Port și Platja d'es Dolç pentru a descoperi nisipurile liniștite de la platja de Can Curt. Petreceți după-amiaza mergând de-a lungul coastei, admirând dunele extinse de la Platja des Estanys. Seara se încheie liniștit la Platja Es Peregons, urmărind valurile.",
+        "en": "Begin your cycling adventure learning about nearby marine life at the Interpretation Center. By midday, pedal past Platja d'es Port and Platja d'es Dolç to discover the quiet sands of platja de Can Curt. Spend your afternoon cruising along the coastline, stopping to admire the extensive dunes of Platja des Estanys. Your evening ends peacefully at Platja Es Peregons, watching the waves gently lap the secluded shore."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 10.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Centre d'Interpretació del Parc Nacional de Cabrera",
+            "hu": "Centre d'Interpretació del Parc Nacional de Cabrera",
+            "ro": "Centre d'Interpretació del Parc Nacional de Cabrera",
+            "en": "Centre d'Interpretació del Parc Nacional de Cabrera"
+          },
+          "coords": [
+            2.999626,
+            39.318606
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Unterwasserwelt des Cabrera-Archipels in diesem interaktiven Museum und verpassen Sie nicht das faszinierende Aquarium im Untergeschoss.",
+            "hu": "Ismerje meg a Cabrera-szigetcsoport gazdag tengeri élővilágát ebben az interaktív múzeumban, és mindenképpen nézze meg a lenyűgöző földalatti akváriumot.",
+            "ro": "Descoperiți bogata viață marină a arhipelagului Cabrera în acest muzeu interactiv și asigurați-vă că explorați fascinantul acvariu subteran de la subsol.",
+            "en": "Discover the rich marine life and history of the Cabrera archipelago before taking a boat tour, and make sure to check out the fascinating underground aquarium."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja d'es Carbó",
+            "hu": "Platja d'es Carbó",
+            "ro": "Platja d'es Carbó",
+            "en": "Platja d'es Carbó"
+          },
+          "coords": [
+            3.017061,
+            39.30677
+          ],
+          "category": "recreational",
+          "arrive_at": "11:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die unberührten Dünen und das klare Wasser dieses abgelegenen Strandes und packen Sie alles Notwendige ein, da er wunderschön wild geblieben ist.",
+            "hu": "Csodálja meg ennek a távoli strandnak a hatalmas, érintetlen dűnéit és kristálytiszta vizét, de hozzon magával mindent, amire szüksége van a teljesen vad parton.",
+            "ro": "Minunați-vă de dunele vaste și neatinse ale acestei plaje îndepărtate și luați la voi tot ce aveți nevoie, deoarece zona rămâne complet sălbatică și neamenajată.",
+            "en": "Marvel at the vast, untouched dunes and incredibly pristine water of this remote beach, and pack everything you need as it remains beautifully completely wild."
+          }
+        },
+        {
+          "name": {
+            "de": "sa Puntassa",
+            "hu": "sa Puntassa",
+            "ro": "sa Puntassa",
+            "en": "sa Puntassa"
+          },
+          "coords": [
+            2.993531,
+            39.312419
+          ],
+          "category": "landmark",
+          "arrive_at": "12:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Küste von dieser malerischen felsigen Landzunge aus und tragen Sie festes Schuhwerk für das unebene Kalksteingelände.",
+            "hu": "Csodálja meg a panorámás parti kilátást erről a festői sziklás pontról, és viseljen zárt cipőt, hogy kényelmesen közlekedhessen az egyenetlen mészköves terepen.",
+            "ro": "Admirați priveliștile panoramice de pe acest punct stâncos pitoresc și purtați încălțăminte solidă pentru a naviga confortabil pe terenul calcaros accidentat.",
+            "en": "Take in the panoramic coastal views from this picturesque rocky point, and wear sturdy shoes to comfortably navigate the uneven limestone terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja des Estanys",
+            "hu": "Platja des Estanys",
+            "ro": "Platja des Estanys",
+            "en": "Platja des Estanys"
+          },
+          "coords": [
+            2.989908,
+            39.326778
+          ],
+          "category": "recreational",
+          "arrive_at": "13:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an einem atemberaubenden, weitläufigen Strand mit azurblauem Wasser und mieten Sie sich einen Sonnenschirm gegen die starke Mittagssonne.",
+            "hu": "Kapcsolódjon ki egy lenyűgöző, tágas strandon, briliáns azúrkék vizekkel, és érdemes napernyőt bérelni a helyi árusoktól az erős déli napsütés elkerülése végett.",
+            "ro": "Relaxați-vă pe o plajă vastă uimitoare, cu ape azurii strălucitoare, și luați în considerare închirierea unei umbrele de soare pentru a evita arsurile de la prânz.",
+            "en": "Unwind on a stunning expansive beach with brilliant azure waters, and consider renting a parasol from local vendors to escape the strong midday sunshine."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja d'es Trenc",
+            "hu": "Platja d'es Trenc",
+            "ro": "Platja d'es Trenc",
+            "en": "Platja d'es Trenc"
+          },
+          "coords": [
+            2.990078,
+            39.338234
+          ],
+          "category": "landmark",
+          "arrive_at": "14:25",
+          "stay_min": 150,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erleben Sie Mallorcas berühmtesten Naturstrand mit karibischem Flair, aber besuchen Sie ihn außerhalb der Stoßzeiten, um den großen Sommermassen auszuweichen.",
+            "hu": "Tapasztalja meg Mallorca leghíresebb természetes strandját a karibi hangulattal, de látogasson el csúcsidőn kívül, hogy elkerülje a hatalmas nyári tömeget.",
+            "ro": "Experimentați cea mai faimoasă plajă naturală din Mallorca cu un aer caraibian și vizitați-o în afara orelor de vârf pentru a evita inevitabila aglomerație estivală.",
+            "en": "Experience Mallorca's most famous natural beach with its Caribbean-like ambiance, and visit during off-peak hours to avoid the inevitable heavy summer crowds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Küstenfahrt beginnt mit einem informativen Besuch im beeindruckenden Interpretationszentrum von Cabrera. Gegen Mittag fahren Sie eine kurze Strecke, um zur unberührten Schönheit der Platja d'es Carbó zu wandern. Fahren Sie am Nachmittag nach Westen zur sa Puntassa, bevor Sie an der Platja des Estanys entspannen. Fahren Sie schließlich zur ikonischen Platja d'es Trenc für eine unvergessliche Abenddämmerung.",
+        "hu": "Autós parti kirándulása egy edukatív látogatással indul a lenyűgöző Cabrera Interpretációs Központban. Dél körül tegyen egy rövid utat, majd túrázzon le a Platja d'es Carbó érintetlen természeti szépségéhez. Délután induljon vissza nyugatra, csodálja meg a sa Puntassa kilátását, mielőtt a Platja des Estanys-on pihenne. Végül hajtson el az ikonikus Platja d'es Trenc-hez egy felejthetetlen alkonyatért.",
+        "ro": "Plimbarea de coastă începe cu o vizită educativă la impresionantul Centru de Interpretare Cabrera. Pe la prânz, conduceți scurt pentru a coborî spre frumusețea naturală neatinsă a Platja d'es Carbó. După-amiaza, mergeți înapoi spre vest pentru a admira priveliștile de la sa Puntassa, înainte de a vă relaxa la Platja des Estanys. În final, mergeți spre iconica Platja d'es Trenc pentru un amurg mediteranean de neuitat.",
+        "en": "Your coastal drive kicks off with an educational visit to the impressive Cabrera Interpretation Center. Around midday, take a short drive to hike down to the stunning, untouched natural beauty of Platja d'es Carbó. In the afternoon, head back west to admire the views at sa Puntassa before relaxing at Platja des Estanys. Finally, drive up to the iconic Platja d'es Trenc to witness an unforgettable Mediterranean twilight."
+      }
+    }
+  }
+}

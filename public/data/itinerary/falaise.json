@@ -1,0 +1,405 @@
+{
+  "city_id": "falaise",
+  "anchor": {
+    "name": "Falaise",
+    "coords": [
+      -0.1975,
+      48.8972
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:27",
+      "total_km": 1.75,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Sainte-Trinité",
+            "hu": "Sainte-Trinité templom",
+            "ro": "Biserica Sainte-Trinité",
+            "en": "Sainte-Trinité Church"
+          },
+          "coords": [
+            -0.197575,
+            48.898349
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante gotische Architektur dieser historischen Kirche und nehmen Sie sich Zeit für die wunderschön erhaltenen Buntglasfenster.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a lenyűgöző gótikus építészetét, és szánjon egy percet a gyönyörűen megőrzött ólomüveg ablakok megtekintésére.",
+            "ro": "Admirați arhitectura gotică impresionantă a acestei biserici istorice și alocați un moment pentru a privi vitraliile frumos conservate din naos.",
+            "en": "Admire the striking gothic architecture of this historic church and take a moment to look at the beautifully preserved stained glass windows from the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Gervais",
+            "hu": "Saint-Gervais templom",
+            "ro": "Biserica Saint-Gervais",
+            "en": "Saint-Gervais Church"
+          },
+          "coords": [
+            -0.1988,
+            48.898097
+          ],
+          "category": "religious",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier die harmonische Mischung aus romanischen und gotischen Stilen und versuchen Sie früh anzukommen, um die ruhige Atmosphäre zu genießen.",
+            "hu": "Fedezze fel a román és gótikus stílusok harmonikus keveredését itt, és próbáljon korán érkezni, hogy élvezhesse a békés hangulatot a napi tömeg előtt.",
+            "ro": "Descoperiți amestecul armonios de stiluri romanice și gotice aici și încercați să ajungeți devreme pentru a vă bucura de atmosfera pașnică fără mulțime.",
+            "en": "Discover the harmonious blend of Romanesque and Gothic styles here, and try to arrive early to enjoy the peaceful atmosphere before the daily crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte des Cordeliers",
+            "hu": "Porte des Cordeliers",
+            "ro": "Porte des Cordeliers",
+            "en": "Porte des Cordeliers"
+          },
+          "coords": [
+            -0.2012,
+            48.897806
+          ],
+          "category": "fortress",
+          "arrive_at": "10:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Gehen Sie durch das letzte verbleibende mittelalterliche Tor der Stadtmauer und beobachten Sie das beeindruckende Mauerwerk, das einst den Ort schützte.",
+            "hu": "Sétáljon át a városfalak utolsó fennmaradt középkori kapuján, és álljon meg, hogy megfigyelje a lenyűgöző kőműves munkát, amely egykor a várost védte.",
+            "ro": "Treceți prin ultima poartă medievală rămasă a zidurilor orașului și faceți o pauză pentru a observa zidăria impresionantă care a protejat odată intrarea.",
+            "en": "Walk through the last remaining medieval gate of the city walls and pause to observe the impressive stonework that once protected the town's entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Falaise",
+            "hu": "Falaise-i kastély",
+            "ro": "Château de Falaise",
+            "en": "Château de Falaise"
+          },
+          "coords": [
+            -0.2039,
+            48.8932
+          ],
+          "category": "fortress",
+          "arrive_at": "12:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie den imposanten Geburtsort von Wilhelm dem Eroberer und leihen Sie sich am Eingang das interaktive Tablet für eine lebendige Rekonstruktion aus.",
+            "hu": "Fedezze fel Hódító Vilmos impozáns szülőhelyét, és mindenképpen kérje el a bejáratnál az interaktív táblagépet az élénk történelmi rekonstrukcióhoz.",
+            "ro": "Explorați impunătorul loc de naștere al lui William Cuceritorul și asigurați-vă că împrumutați tableta interactivă la intrare pentru o reconstrucție vie.",
+            "en": "Explore the imposing birthplace of William the Conqueror and make sure to borrow the interactive tablet at the entrance for a vivid historical reconstruction."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Fresnaye",
+            "hu": "Château de la Fresnaye",
+            "ro": "Château de la Fresnaye",
+            "en": "Château de la Fresnaye"
+          },
+          "coords": [
+            -0.194569,
+            48.89751
+          ],
+          "category": "castle",
+          "arrive_at": "13:37",
+          "stay_min": 110,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch dieses elegante Anwesen aus dem 17. Jahrhundert und tragen Sie bequeme Schuhe, um die wunderschönen umliegenden öffentlichen Gärten zu erkunden.",
+            "hu": "Sétáljon végig ezen az elegáns, 17. századi birtokon, és viseljen kényelmes cipőt, hogy felfedezze a gyönyörű, környező, gondozott nyilvános kerteket.",
+            "ro": "Plimbați-vă prin această proprietate elegantă din secolul al XVII-lea și purtați pantofi confortabili pentru a explora frumoasele grădini publice înconjurătoare.",
+            "en": "Wander around this elegant 17th-century estate with its charming grounds, and wear comfortable shoes to explore the beautiful surrounding public gardens."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Falaise und genießen Sie die spirituelle Atmosphäre in den Kirchen Sainte-Trinité und Saint-Gervais. \n\nVor dem Mittagessen spazieren Sie durch die historische Porte des Cordeliers, eine beeindruckende Erinnerung an die mittelalterlichen Befestigungen. \n\nTauchen Sie am Nachmittag im großen Château de Falaise in die epische Geschichte von Wilhelm dem Eroberer ein. \n\nBeenden Sie Ihren Rundgang mit einem abendlichen Spaziergang durch die eleganten Anlagen des Château de la Fresnaye, während die Sonne über der Stadt untergeht.",
+        "hu": "Kezdje a napot Falaise szívében, a Sainte-Trinité és a Saint-Gervais templomok spirituális atmoszférájának élvezetével. \n\nEbéd előtt sétáljon át a történelmi Porte des Cordeliers-n, amely a város középkori erődítményeinek lenyűgöző emléke. \n\nDélután merüljön el Hódító Vilmos epikus történelmében a hatalmas falaise-i kastély lenyűgöző falai között. \n\nFejezze be a gyalogtúrát egy pihentető esti sétával a Château de la Fresnaye elegáns parkjában, ahogy a nap lenyugszik a város felett.",
+        "ro": "Începeți-vă ziua în inima orașului Falaise, absorbind atmosfera spirituală la bisericile Sainte-Trinité și Saint-Gervais. \n\nÎnainte de prânz, plimbați-vă prin istorica Porte des Cordeliers, o amintire uimitoare a fortificațiilor medievale. \n\nDupă-amiaza, cufundați-vă în istoria epică a lui William Cuceritorul la mărețul Château de Falaise. \n\nÎncheiați turul pietonal cu o plimbare relaxantă de seară pe terenurile elegante de la Château de la Fresnaye, în timp ce soarele apune.",
+        "en": "Start your day in the heart of Falaise, soaking up the spiritual atmosphere at Sainte-Trinité and Saint-Gervais churches. \n\nBefore lunch, wander through the historic Porte des Cordeliers, a stunning reminder of the town's medieval fortifications. \n\nIn the afternoon, immerse yourself in the epic history of William the Conqueror at the grand Château de Falaise. \n\nConclude your walking tour with a relaxing evening stroll around the elegant grounds of Château de la Fresnaye as the sun sets over the town."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:59",
+      "total_km": 3.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Sainte-Trinité",
+            "hu": "Sainte-Trinité templom",
+            "ro": "Biserica Sainte-Trinité",
+            "en": "Sainte-Trinité Church"
+          },
+          "coords": [
+            -0.197575,
+            48.898349
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante gotische Architektur dieser historischen Kirche und nehmen Sie sich Zeit für die wunderschön erhaltenen Buntglasfenster.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a lenyűgöző gótikus építészetét, és szánjon egy percet a gyönyörűen megőrzött ólomüveg ablakok megtekintésére.",
+            "ro": "Admirați arhitectura gotică impresionantă a acestei biserici istorice și alocați un moment pentru a privi vitraliile frumos conservate din naos.",
+            "en": "Admire the striking gothic architecture of this historic church and take a moment to look at the beautifully preserved stained glass windows from the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte des Cordeliers",
+            "hu": "Porte des Cordeliers",
+            "ro": "Porte des Cordeliers",
+            "en": "Porte des Cordeliers"
+          },
+          "coords": [
+            -0.2012,
+            48.897806
+          ],
+          "category": "fortress",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Gehen Sie durch das letzte verbleibende mittelalterliche Tor der Stadtmauer und beobachten Sie das beeindruckende Mauerwerk, das einst den Ort schützte.",
+            "hu": "Sétáljon át a városfalak utolsó fennmaradt középkori kapuján, és álljon meg, hogy megfigyelje a lenyűgöző kőműves munkát, amely egykor a várost védte.",
+            "ro": "Treceți prin ultima poartă medievală rămasă a zidurilor orașului și faceți o pauză pentru a observa zidăria impresionantă care a protejat odată intrarea.",
+            "en": "Walk through the last remaining medieval gate of the city walls and pause to observe the impressive stonework that once protected the town's entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Falaise",
+            "hu": "Falaise-i kastély",
+            "ro": "Château de Falaise",
+            "en": "Château de Falaise"
+          },
+          "coords": [
+            -0.2039,
+            48.8932
+          ],
+          "category": "fortress",
+          "arrive_at": "11:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie den imposanten Geburtsort von Wilhelm dem Eroberer und leihen Sie sich am Eingang das interaktive Tablet für eine lebendige Rekonstruktion aus.",
+            "hu": "Fedezze fel Hódító Vilmos impozáns szülőhelyét, és mindenképpen kérje el a bejáratnál az interaktív táblagépet az élénk történelmi rekonstrukcióhoz.",
+            "ro": "Explorați impunătorul loc de naștere al lui William Cuceritorul și asigurați-vă că împrumutați tableta interactivă la intrare pentru o reconstrucție vie.",
+            "en": "Explore the imposing birthplace of William the Conqueror and make sure to borrow the interactive tablet at the entrance for a vivid historical reconstruction."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir du Mesnil-Besnard",
+            "hu": "Manoir du Mesnil-Besnard",
+            "ro": "Manoir du Mesnil-Besnard",
+            "en": "Manoir du Mesnil-Besnard"
+          },
+          "coords": [
+            -0.210108,
+            48.902344
+          ],
+          "category": "castle",
+          "arrive_at": "12:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Beachten Sie das komplexe Fachwerk dieses traditionellen normannischen Herrenhauses und bringen Sie Ihre Kamera mit, um seinen rustikalen Charme einzufangen.",
+            "hu": "Figyelje meg ennek a hagyományos normann udvarháznak a bonyolult favázas szerkezetét, és hozzon fényképezőgépet a rusztikus báj megörökítéséhez.",
+            "ro": "Observați structura complexă din lemn a acestui conac tradițional normand și aduceți camera pentru a surprinde farmecul său rustic în peisajul verde.",
+            "en": "Notice the intricate timber framing of this traditional Norman manor, and bring your camera to capture its rustic charm against the lush green landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Long Pré",
+            "hu": "Château de Long Pré",
+            "ro": "Château de Long Pré",
+            "en": "Château de Long Pré"
+          },
+          "coords": [
+            -0.222186,
+            48.903135
+          ],
+          "category": "castle",
+          "arrive_at": "14:09",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische französische Landarchitektur dieses versteckten Juwels und prüfen Sie vorab den Zeitplan, da Innenbesuche meist nach Vereinbarung erfolgen.",
+            "hu": "Csodálja meg e rejtett gyöngyszem klasszikus francia vidéki építészetét, és előtte ellenőrizze a menetrendet, mivel a belső látogatások többnyire előzetes egyeztetéssel történnek.",
+            "ro": "Admirați arhitectura clasică franceză a acestei bijuterii ascunse și verificați programul în prealabil, deoarece vizitele interioare se fac de obicei cu programare.",
+            "en": "Admire the classic French country architecture of this hidden gem, and check the local schedule beforehand as interior visits are mostly by appointment."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an der majestätischen Kirche Sainte-Trinité und bewundern Sie ihre alte Fassade im Morgenlicht. \n\nFahren Sie an der Porte des Cordeliers vorbei, bevor Sie in die tiefe Geschichte des kolossalen Château de Falaise eintauchen. \n\nRadeln Sie aus dem Zentrum heraus, um das charmante Fachwerkhaus Manoir du Mesnil-Besnard in der ruhigen Landschaft zu entdecken. \n\nBeenden Sie Ihren aktiven Tag mit einem friedlichen Besuch im Château de Long Pré und reflektieren Sie über das reiche Erbe der Region.",
+        "hu": "Kezdje a kerékpártúrát a fenséges Sainte-Trinité templomnál, és csodálja meg annak ősi homlokzatát a reggeli fényben. \n\nKerékpározzon el a Porte des Cordeliers mellett, mielőtt elmélyülne a hatalmas falaise-i kastély mélyreható történelmében. \n\nTekerjen ki a fő központból, hogy felfedezze a bájos, favázas Manoir du Mesnil-Besnard-t a nyugodt vidéken. \n\nFejezze be az aktív napot a Château de Long Pré békés meglátogatásával, visszatekintve a régió gazdag építészeti örökségére.",
+        "ro": "Începeți-vă turul cu bicicleta la maiestuoasa Biserică Sainte-Trinité, admirându-i fațada veche în lumina dimineții. \n\nMergeți pe lângă Porte des Cordeliers înainte de a pătrunde în istoria profundă a colosalului Château de Falaise. \n\nPedalați în afara centrului principal pentru a descoperi fermecătorul Manoir du Mesnil-Besnard din lemn, în mediul rural. \n\nÎncheiați-vă ziua activă cu o vizită liniștită la Château de Long Pré, reflectând asupra bogatului patrimoniu arhitectural.",
+        "en": "Kick off your cycling tour at the majestic Sainte-Trinité Church, admiring its ancient facade in the morning light. \n\nRide past the medieval Porte des Cordeliers before delving into the profound history of the colossal Château de Falaise. \n\nPedal out of the main center to discover the charming timber-framed Manoir du Mesnil-Besnard in the tranquil countryside. \n\nFinish your active day with a peaceful visit to Château de Long Pré, reflecting on the region's rich architectural heritage."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 10.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Château de Falaise",
+            "hu": "Falaise-i kastély",
+            "ro": "Château de Falaise",
+            "en": "Château de Falaise"
+          },
+          "coords": [
+            -0.2039,
+            48.8932
+          ],
+          "category": "fortress",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie den imposanten Geburtsort von Wilhelm dem Eroberer und leihen Sie sich am Eingang das interaktive Tablet für eine lebendige Rekonstruktion aus.",
+            "hu": "Fedezze fel Hódító Vilmos impozáns szülőhelyét, és mindenképpen kérje el a bejáratnál az interaktív táblagépet az élénk történelmi rekonstrukcióhoz.",
+            "ro": "Explorați impunătorul loc de naștere al lui William Cuceritorul și asigurați-vă că împrumutați tableta interactivă la intrare pentru o reconstrucție vie.",
+            "en": "Explore the imposing birthplace of William the Conqueror and make sure to borrow the interactive tablet at the entrance for a vivid historical reconstruction."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Fresnaye",
+            "hu": "Château de la Fresnaye",
+            "ro": "Château de la Fresnaye",
+            "en": "Château de la Fresnaye"
+          },
+          "coords": [
+            -0.194569,
+            48.89751
+          ],
+          "category": "castle",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch dieses elegante Anwesen aus dem 17. Jahrhundert und tragen Sie bequeme Schuhe, um die wunderschönen umliegenden öffentlichen Gärten zu erkunden.",
+            "hu": "Sétáljon végig ezen az elegáns, 17. századi birtokon, és viseljen kényelmes cipőt, hogy felfedezze a gyönyörű, környező, gondozott nyilvános kerteket.",
+            "ro": "Plimbați-vă prin această proprietate elegantă din secolul al XVII-lea și purtați pantofi confortabili pentru a explora frumoasele grădini publice înconjurătoare.",
+            "en": "Wander around this elegant 17th-century estate with its charming grounds, and wear comfortable shoes to explore the beautiful surrounding public gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Versainville",
+            "hu": "Château de Versainville",
+            "ro": "Château de Versainville",
+            "en": "Château de Versainville"
+          },
+          "coords": [
+            -0.180395,
+            48.913884
+          ],
+          "category": "castle",
+          "arrive_at": "11:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die prächtig dekorierten großen Salons dieses weitläufigen aristokratischen Anwesens und nehmen Sie sich Zeit für die gepflegten französischen Gärten.",
+            "hu": "Járja be e hatalmas arisztokrata birtok fényűzően berendezett nagy szalonjait, és szánjon időt a gyönyörűen gondozott, klasszikus francia kertekre is.",
+            "ro": "Vizitați marile saloane somptuos decorate ale acestei proprietăți aristocratice întinse și faceți o plimbare prin grădinile franceze frumos îngrijite.",
+            "en": "Tour the lavishly decorated grand salons of this sprawling aristocratic estate, and take time to stroll through the beautifully manicured French gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Château d'Aubigny",
+            "hu": "Château d'Aubigny",
+            "ro": "Château d'Aubigny",
+            "en": "Château d'Aubigny"
+          },
+          "coords": [
+            -0.216655,
+            48.914755
+          ],
+          "category": "castle",
+          "arrive_at": "13:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses weniger bekannte ländliche Schloss inmitten malerischer Ackerflächen, wo Sie einen ruhigen Spaziergang entlang der idyllischen Wege genießen können.",
+            "hu": "Fedezze fel ezt a festői mezőgazdasági területekkel körülvett, kevésbé ismert vidéki kastélyt, ahol békés sétát tehet a birtokot szegélyező csendes ösvényeken.",
+            "ro": "Explorați acest castel rural mai puțin cunoscut, înconjurat de terenuri agricole pitorești, unde vă puteți bucura de o plimbare pașnică de-a lungul cărărilor liniștite.",
+            "en": "Explore this lesser-known rural castle surrounded by picturesque farmlands, where you can enjoy a peaceful walk along the quiet paths lining the property."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Vallembras",
+            "hu": "Château de Vallembras",
+            "ro": "Château de Vallembras",
+            "en": "Château de Vallembras"
+          },
+          "coords": [
+            -0.223474,
+            48.888709
+          ],
+          "category": "castle",
+          "arrive_at": "14:54",
+          "stay_min": 110,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise, während Sie die gut erhaltenen Türme dieses historischen Anwesens betrachten, und fragen Sie die freundlichen Hausmeister nach lokalen Legenden.",
+            "hu": "Lépjen vissza az időben, miközben megtekinti e történelmi birtok jól megőrzött tornyait, és kérdezze meg a barátságos gondnokokat a lenyűgöző helyi legendákról.",
+            "ro": "Întoarceți-vă în timp în timp ce vizualizați turnurile bine conservate ale acestei proprietăți istorice și întrebați îngrijitorii prietenoși despre legendele locale fascinante.",
+            "en": "Step back in time as you view the well-preserved towers of this historic estate, and ask the friendly caretakers about the fascinating local legends."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Begeben Sie sich auf eine spektakuläre Autotour, die direkt an der beeindruckenden Festung Château de Falaise beginnt. \n\nFahren Sie als Nächstes zum raffinierten Château de la Fresnaye, dessen elegante Gärten im Kontrast zur militärischen Macht des Morgens stehen. \n\nFahren Sie am Nachmittag durch die malerische normannische Landschaft und halten Sie an den herrlichen Anwesen von Versainville und Aubigny. \n\nLassen Sie Ihren Roadtrip im ruhigen Château de Vallembras ausklingen, einem perfekten Ort, um den Charme des ländlichen Frankreichs zu schätzen.",
+        "hu": "Induljon el egy látványos autós túrára, amely közvetlenül a félelmetes falaise-i kastélynál, a normandiai hercegek építményénél kezdődik. \n\nVezessen tovább a kifinomult Château de la Fresnaye-hez, amelynek elegáns kertjei kontrasztban állnak a reggeli katonai erővel. \n\nDélután cirkáljon át a festői normann vidéken, megállva Versainville és Aubigny csodálatos, régi nemesi birtokain. \n\nFejezze be utazását a nyugodt Château de Vallembras-nál, amely tökéletes csendes hely a vidéki Franciaország bájának értékeléséhez.",
+        "ro": "Porniți într-un tur auto spectaculos care începe direct la formidabila fortăreață, Château de Falaise, construită de ducii normanzi. \n\nConduceți apoi spre rafinatul Château de la Fresnaye, contrastând grădinile sale elegante cu forța militară brută a dimineții. \n\nTraversați peisajul rural pitoresc după-amiaza, oprindu-vă la moșiile magnifice Versainville și Aubigny. \n\nÎncheiați-vă călătoria la seninul Château de Vallembras, un loc liniștit perfect pentru a aprecia farmecul Franței rurale.",
+        "en": "Embark on a spectacular driving tour starting directly at the formidable fortress, the Château de Falaise, built by Dukes of Normandy. \n\nDrive next to the refined Château de la Fresnaye, contrasting its elegant gardens with the raw military might of the morning. \n\nCruise through the picturesque Norman countryside in the afternoon, stopping at the magnificent estates of Versainville and Aubigny. \n\nWind down your road trip at the serene Château de Vallembras, a perfect quiet spot to appreciate the enduring charm of rural France."
+      }
+    }
+  }
+}

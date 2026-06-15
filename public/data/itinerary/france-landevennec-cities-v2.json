@@ -1,0 +1,474 @@
+{
+  "city_id": "france-landevennec-cities-v2",
+  "anchor": {
+    "name": "Landévennec",
+    "coords": [
+      -4.26797,
+      48.29263
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:50",
+      "total_km": 1.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Notre-Dame de Landévennec",
+            "hu": "Église Notre-Dame de Landévennec",
+            "ro": "Église Notre-Dame de Landévennec",
+            "en": "Église Notre-Dame de Landévennec"
+          },
+          "coords": [
+            -4.267588,
+            48.293788
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante Kirche im Dorfzentrum und achten Sie auf die maritimen Details; kommen Sie früh, um die morgendliche Stille zu genießen.",
+            "hu": "Látogasson el ebbe a bájos templomba a falu központjában, és figyelje meg a tengerészeti részleteket; érkezzen korán, hogy élvezze a csendet.",
+            "ro": "Vizitați această biserică fermecătoare din centrul satului și observați detaliile maritime; ajungeți devreme pentru a vă bucura de liniștea dimineții.",
+            "en": "Visit this charming church in the village center and notice the maritime details; arrive early to enjoy the morning silence before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Breizh Odyssée",
+            "hu": "Musée Breizh Odyssée",
+            "ro": "Musée Breizh Odyssée",
+            "en": "Musée Breizh Odyssée"
+          },
+          "coords": [
+            -4.267344,
+            48.292513
+          ],
+          "category": "museum",
+          "arrive_at": "09:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem modernen Museum in die bretonische Kultur ein und buchen Sie Ihre Tickets im Voraus, um lange Warteschlangen zu vermeiden.",
+            "hu": "Merüljön el a breton kultúrában ebben a modern múzeumban, és foglalja le jegyeit előre, hogy elkerülje a hosszú sorban állást a bejáratnál.",
+            "ro": "Pătrundeți în cultura bretonă în acest muzeu modern și rezervați-vă biletele în avans pentru a evita cozile lungi la intrarea principală.",
+            "en": "Immerse yourself in Breton culture at this modern museum, and be sure to book your tickets in advance to avoid long queues at the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de l’abbaye de Landévennec",
+            "hu": "Musée de l’abbaye de Landévennec",
+            "ro": "Musée de l’abbaye de Landévennec",
+            "en": "Musée de l’abbaye de Landévennec"
+          },
+          "coords": [
+            -4.267078,
+            48.290084
+          ],
+          "category": "museum",
+          "arrive_at": "11:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Entdecken Sie die historischen Ruinen dieser alten Abtei inmitten eines wunderschönen Gartens; tragen Sie bequeme Schuhe für das unebene Gelände.",
+            "hu": "Fedezze fel ennek az ősi apátságnak a történelmi romjait egy gyönyörű kert közepén; viseljen kényelmes cipőt az egyenetlen terep miatt.",
+            "ro": "Descoperiți ruinele istorice ale acestei vechi abații în mijlocul unei grădini frumoase; purtați încălțăminte confortabilă pentru terenul accidentat.",
+            "en": "Discover the historical ruins of this ancient abbey surrounded by a beautiful garden; wear comfortable walking shoes for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvedère de Landévennec",
+            "hu": "Belvedère de Landévennec",
+            "ro": "Belvedère de Landévennec",
+            "en": "Belvedère de Landévennec"
+          },
+          "coords": [
+            -4.280716,
+            48.290723
+          ],
+          "category": "viewpoint",
+          "arrive_at": "13:31",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf die Flussmündung der Aulne von diesem Ort und bringen Sie unbedingt eine Kamera mit.",
+            "hu": "Élvezze a lélegzetelállító panorámát az Aulne folyó torkolatára ebből a kilátóból, és mindenképpen hozzon magával fényképezőgépet a képekért.",
+            "ro": "Bucurați-vă de o vedere panoramică uluitoare a estuarului râului Aulne din acest punct de belvedere și nu uitați să aduceți un aparat foto.",
+            "en": "Enjoy breathtaking panoramic views of the Aulne river estuary from this scenic viewpoint, and be sure to bring a good camera for stunning photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Cimetière des navires de Landévennec",
+            "hu": "Cimetière des navires de Landévennec",
+            "ro": "Cimetière des navires de Landévennec",
+            "en": "Cimetière des navires de Landévennec"
+          },
+          "coords": [
+            -4.280668,
+            48.288201
+          ],
+          "category": "landmark",
+          "arrive_at": "14:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Beobachten Sie die faszinierenden alten Marineschiffe, die hier vor Anker liegen; ein Fernglas hilft dabei, die Details der Riesen zu erkennen.",
+            "hu": "Figyelje meg a lenyűgöző régi haditengerészeti hajókat; egy távcső segít felfedezni a vízen csendesen rozsdásodó óriások apró részleteit.",
+            "ro": "Observați fascinantele vechi nave militare ancorate aici; aduceți un binoclu pentru a distinge detaliile acestor uriași care ruginesc încet.",
+            "en": "Observe the fascinating old naval ships anchored here in the river meander; bringing binoculars helps to see the fine details of the rusting giants."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im malerischen Dorfzentrum von Landévennec. Die charmante Kirche Notre-Dame läutet einen ruhigen und friedlichen Morgen in der Bretagne ein.\n\nAm Vormittag widmen Sie sich der reichen Kultur. Das moderne Musée Breizh Odyssée und die historischen Ruinen der alten Abtei bieten faszinierende Einblicke in die Vergangenheit der Region.\n\nNachmittags spazieren Sie entspannt zum Aussichtspunkt. Der Panoramablick über das weite Flusstal der Aulne ist einfach unvergesslich und ein echtes Highlight.\n\nDer Tag endet beeindruckend am Schiffsfriedhof. Die stillen, rostenden Ozeanriesen im Wasser bilden einen dramatischen und fotogenen Abschluss Ihres Rundgangs.",
+        "hu": "Kezdje a napot Landévennec festői faluközpontjában. A bájos Notre-Dame templom tökéletes helyszín egy csendes és békés breton reggel megalapozásához.\n\nDélelőtt merüljön el a gazdag helyi kultúrában. A modern Musée Breizh Odyssée és a régi apátság történelmi romjai lenyűgöző bepillantást nyújtanak a régió múltjába.\n\nDélután tegyen egy pihentető sétát a kilátóhoz. Az Aulne folyó széles völgyére nyíló panoráma egyszerűen felejthetetlen és a nap igazi fénypontja.\n\nA nap a hajótemető lenyűgöző látványával zárul. A vízben csendesen rozsdásodó óceáni óriások drámai és rendkívül fotogén befejezést nyújtanak a túrának.",
+        "ro": "Începeți-vă ziua în centrul pitoresc al satului Landévennec. Biserica fermecătoare Notre-Dame este locul perfect pentru o dimineață bretonă liniștită.\n\nPeste zi, scufundați-vă în cultura bogată. Modernul Musée Breizh Odyssée și ruinele istorice ale vechii abații oferă o privire fascinantă asupra trecutului acestei regiuni.\n\nDupă-amiază, faceți o scurtă plimbare până la punctul de belvedere. Priveliștea panoramică asupra văii râului Aulne este pur și simplu de neuitat.\n\nZiua se încheie impresionant la cimitirul de nave. Giganții oceanici care ruginesc tăcuți în apă oferă un final dramatic și fotogenic pentru traseul dumneavoastră.",
+        "en": "Start your day in the picturesque village center of Landévennec. The charming Notre-Dame church is the perfect spot for a quiet and peaceful Breton morning.\n\nMidday, dive into the rich local culture. The modern Musée Breizh Odyssée and the historical ruins of the ancient abbey offer a fascinating glimpse into the region's past.\n\nIn the afternoon, take a relaxing walk to the viewpoint. The sweeping panoramic views over the wide Aulne river valley are simply unforgettable.\n\nThe day ends impressively at the ship cemetery. The silent, rusting oceanic giants in the water provide a dramatic and highly photogenic conclusion to your walking tour."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 3.75,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Musée Breizh Odyssée",
+            "hu": "Musée Breizh Odyssée",
+            "ro": "Musée Breizh Odyssée",
+            "en": "Musée Breizh Odyssée"
+          },
+          "coords": [
+            -4.267344,
+            48.292513
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem modernen Museum in die bretonische Kultur ein und buchen Sie Ihre Tickets im Voraus, um lange Warteschlangen zu vermeiden.",
+            "hu": "Merüljön el a breton kultúrában ebben a modern múzeumban, és foglalja le jegyeit előre, hogy elkerülje a hosszú sorban állást a bejáratnál.",
+            "ro": "Pătrundeți în cultura bretonă în acest muzeu modern și rezervați-vă biletele în avans pentru a evita cozile lungi la intrarea principală.",
+            "en": "Immerse yourself in Breton culture at this modern museum, and be sure to book your tickets in advance to avoid long queues at the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de l’abbaye de Landévennec",
+            "hu": "Musée de l’abbaye de Landévennec",
+            "ro": "Musée de l’abbaye de Landévennec",
+            "en": "Musée de l’abbaye de Landévennec"
+          },
+          "coords": [
+            -4.267078,
+            48.290084
+          ],
+          "category": "museum",
+          "arrive_at": "10:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Entdecken Sie die historischen Ruinen dieser alten Abtei inmitten eines wunderschönen Gartens; tragen Sie bequeme Schuhe für das unebene Gelände.",
+            "hu": "Fedezze fel ennek az ősi apátságnak a történelmi romjait egy gyönyörű kert közepén; viseljen kényelmes cipőt az egyenetlen terep miatt.",
+            "ro": "Descoperiți ruinele istorice ale acestei vechi abații în mijlocul unei grădini frumoase; purtați încălțăminte confortabilă pentru terenul accidentat.",
+            "en": "Discover the historical ruins of this ancient abbey surrounded by a beautiful garden; wear comfortable walking shoes for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvedère de Landévennec",
+            "hu": "Belvedère de Landévennec",
+            "ro": "Belvedère de Landévennec",
+            "en": "Belvedère de Landévennec"
+          },
+          "coords": [
+            -4.280716,
+            48.290723
+          ],
+          "category": "viewpoint",
+          "arrive_at": "12:37",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf die Flussmündung der Aulne von diesem Ort und bringen Sie unbedingt eine Kamera mit.",
+            "hu": "Élvezze a lélegzetelállító panorámát az Aulne folyó torkolatára ebből a kilátóból, és mindenképpen hozzon magával fényképezőgépet a képekért.",
+            "ro": "Bucurați-vă de o vedere panoramică uluitoare a estuarului râului Aulne din acest punct de belvedere și nu uitați să aduceți un aparat foto.",
+            "en": "Enjoy breathtaking panoramic views of the Aulne river estuary from this scenic viewpoint, and be sure to bring a good camera for stunning photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Belle Adour",
+            "hu": "Belle Adour",
+            "ro": "Belle Adour",
+            "en": "Belle Adour"
+          },
+          "coords": [
+            -4.284255,
+            48.28827
+          ],
+          "category": "recreational",
+          "arrive_at": "13:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem ruhigen Erholungsgebiet am Wasser, das sich perfekt für ein kurzes Picknick in der warmen Nachmittagssonne anbietet.",
+            "hu": "Pihenjen ebben a csendes, vízparti rekreációs övezetben, amely tökéletes helyszínt biztosít egy rövid piknikhez a délutáni napsütésben.",
+            "ro": "Relaxați-vă în această zonă de recreere liniștită de lângă apă, care este perfectă pentru un scurt picnic sub soarele cald de după-amiază târziu.",
+            "en": "Relax in this quiet waterfront recreation area, which offers the perfect setting for a short picnic under the warm late afternoon sunshine."
+          }
+        },
+        {
+          "name": {
+            "de": "Ferme Apicole et Gîte d'étape Brindeau",
+            "hu": "Ferme Apicole et Gîte d'étape Brindeau",
+            "ro": "Ferme Apicole et Gîte d'étape Brindeau",
+            "en": "Ferme Apicole et Gîte d'étape Brindeau"
+          },
+          "coords": [
+            -4.276359,
+            48.279726
+          ],
+          "category": "landmark",
+          "arrive_at": "14:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Kosten Sie den köstlichen lokalen Honig auf dieser authentischen Bienenfarm und nehmen Sie ein Glas als perfektes süßes Souvenir mit.",
+            "hu": "Kóstolja meg a finom helyi mézet ezen az autentikus méhészfarmon, és vigyen haza egy üveggel tökéletes édes szuvenírként a látogatás emlékére.",
+            "ro": "Gustați mierea locală delicioasă la această fermă apicolă autentică și cumpărați un borcan ca un suvenir dulce perfect de luat acasă.",
+            "en": "Taste the delicious local honey at this authentic bee farm, and make sure to buy a small jar to take home as a perfect sweet souvenir."
+          }
+        },
+        {
+          "name": {
+            "de": "Cimetière des navires de Landévennec",
+            "hu": "Cimetière des navires de Landévennec",
+            "ro": "Cimetière des navires de Landévennec",
+            "en": "Cimetière des navires de Landévennec"
+          },
+          "coords": [
+            -4.280668,
+            48.288201
+          ],
+          "category": "landmark",
+          "arrive_at": "15:50",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die faszinierenden alten Marineschiffe, die hier vor Anker liegen; ein Fernglas hilft dabei, die Details der Riesen zu erkennen.",
+            "hu": "Figyelje meg a lenyűgöző régi haditengerészeti hajókat; egy távcső segít felfedezni a vízen csendesen rozsdásodó óriások apró részleteit.",
+            "ro": "Observați fascinantele vechi nave militare ancorate aici; aduceți un binoclu pentru a distinge detaliile acestor uriași care ruginesc încet.",
+            "en": "Observe the fascinating old naval ships anchored here in the river meander; bringing binoculars helps to see the fine details of the rusting giants."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie sportlich ins Musée Breizh Odyssée, um die bretonische Kultur kennenzulernen. Die morgendliche Frische ist ideal für diesen Museumsbesuch.\n\nAnschließend radeln Sie zur historischen Abtei, bevor es bergauf zum Aussichtspunkt geht. Der weite Blick über den Fluss entschädigt für jede kleine Anstrengung.\n\nAm Nachmittag locken das Erholungsgebiet Belle Adour und die charmante Bienenfarm. Hier können Sie wunderbar entspannen und lokalen Honig direkt vom Erzeuger kosten.\n\nGegen Abend erreichen Sie den berühmten Schiffsfriedhof. Das warme Abendlicht taucht die alten Militärschiffe in eine ganz besondere, melancholische Atmosphäre.",
+        "hu": "Kezdje a napot sportosan a Musée Breizh Odyssée-ben, hogy megismerje a breton kultúrát. A reggeli frissesség ideális ehhez a múzeumi látogatáshoz.\n\nEzt követően tekerjen el a történelmi apátsághoz, mielőtt felmászik a kilátóhoz. A folyóra nyíló pazar kilátás minden kisebb erőfeszítésért kárpótol.\n\nDélután a Belle Adour rekreációs terület és egy bájos méhészet várja. Itt csodálatosan pihenhet és megkóstolhatja a termelőtől származó helyi mézet.\n\nKora este érkezik meg a híres hajótemetőhöz. A meleg esti fény igazán különleges, kissé melankolikus atmoszférát kölcsönöz az öreg hadihajóknak.",
+        "ro": "Începeți sportiv la Musée Breizh Odyssée pentru a învăța despre cultura bretonă. Răcoarea dimineții este ideală pentru această vizită la muzeu.\n\nApoi, pedalați către abația istorică înainte de a urca spre punctul de belvedere. Vederea vastă asupra râului compensează pe deplin orice mic efort.\n\nDupă-amiază, vă așteaptă zona de recreere Belle Adour și ferma apicolă. Aici vă puteți relaxa minunat și puteți gusta miere locală direct de la producător.\n\nSpre seară ajungeți la celebrul cimitir de nave. Lumina caldă a asfințitului scaldă vechile nave militare într-o atmosferă cu totul specială și melancolică.",
+        "en": "Start actively at the Musée Breizh Odyssée to learn about Breton culture. The morning freshness is ideal for this interesting museum visit.\n\nNext, pedal to the historic abbey before heading up to the scenic viewpoint. The vast view over the river easily compensates for any slight physical effort.\n\nIn the afternoon, the Belle Adour recreation area and a charming bee farm await. Here you can relax wonderfully and taste local honey straight from the producer.\n\nTowards evening you reach the famous ship cemetery. The warm twilight bathes the old military ships in a very special, slightly melancholic atmosphere."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:01",
+      "total_km": 6.88,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Sainte-Anne de Troaon",
+            "hu": "Chapelle Sainte-Anne de Troaon",
+            "ro": "Chapelle Sainte-Anne de Troaon",
+            "en": "Chapelle Sainte-Anne de Troaon"
+          },
+          "coords": [
+            -4.255724,
+            48.311001
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Architektur dieser abgelegenen bretonischen Kapelle im Wald; respektieren Sie die Stille dieses friedlichen Ortes.",
+            "hu": "Csodálja meg ennek az eldugott erdei breton kápolnának az egyszerű építészetét; kérjük, tartsa tiszteletben a hely békés, nyugodt csendjét.",
+            "ro": "Admirați arhitectura simplă a acestei capele bretone izolate din pădure; respectați liniștea și atmosfera pașnică a acestui loc sacru.",
+            "en": "Admire the simple architecture of this secluded Breton chapel hidden in the woods; please respect the silence and peaceful atmosphere of the site."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Keravice",
+            "hu": "Château de Keravice",
+            "ro": "Château de Keravice",
+            "en": "Château de Keravice"
+          },
+          "coords": [
+            -4.252137,
+            48.303008
+          ],
+          "category": "castle",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Betrachten Sie die majestätische Fassade dieses historischen Schlosses von außen; es ist ein wunderbares Fotomotiv bei gutem Vormittagslicht.",
+            "hu": "Tekintse meg ennek a történelmi kastélynak a fenséges homlokzatát kívülről; nagyszerű fotótéma, különösen a kedvező délelőtti fényviszonyok között.",
+            "ro": "Priviți fațada maiestuoasă a acestui castel istoric din exterior; este un subiect fotografic minunat dacă vizitați în timpul luminii de dimineață.",
+            "en": "View the majestic facade of this historic castle from the outside; it serves as a wonderful photographic subject under the clear morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de l'île de Tibidy",
+            "hu": "Château de l'île de Tibidy",
+            "ro": "Château de l'île de Tibidy",
+            "en": "Château de l'île de Tibidy"
+          },
+          "coords": [
+            -4.246874,
+            48.299707
+          ],
+          "category": "castle",
+          "arrive_at": "11:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick auf das geheimnisvolle Schloss auf dieser winzigen Insel; prüfen Sie vorab die Gezeiten für die beste Perspektive.",
+            "hu": "Élvezze a kilátást az apró szigeten lévő titokzatos kastélyra; előzetesen ellenőrizze az árapályt, hogy a legjobb szögből láthassa a partról.",
+            "ro": "Bucurați-vă de vederea castelului misterios de pe această insulă minusculă; verificați mareele în prealabil pentru cea mai bună perspectivă.",
+            "en": "Enjoy the view of the mysterious castle located on this tiny island; be sure to check the tide schedules beforehand for the best coastal perspective."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de l’abbaye de Landévennec",
+            "hu": "Musée de l’abbaye de Landévennec",
+            "ro": "Musée de l’abbaye de Landévennec",
+            "en": "Musée de l’abbaye de Landévennec"
+          },
+          "coords": [
+            -4.267078,
+            48.290084
+          ],
+          "category": "museum",
+          "arrive_at": "12:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die historischen Ruinen dieser alten Abtei inmitten eines wunderschönen Gartens; tragen Sie bequeme Schuhe für das unebene Gelände.",
+            "hu": "Fedezze fel ennek az ősi apátságnak a történelmi romjait egy gyönyörű kert közepén; viseljen kényelmes cipőt az egyenetlen terep miatt.",
+            "ro": "Descoperiți ruinele istorice ale acestei vechi abații în mijlocul unei grădini frumoase; purtați încălțăminte confortabilă pentru terenul accidentat.",
+            "en": "Discover the historical ruins of this ancient abbey surrounded by a beautiful garden; wear comfortable walking shoes for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvedère de Landévennec",
+            "hu": "Belvedère de Landévennec",
+            "ro": "Belvedère de Landévennec",
+            "en": "Belvedère de Landévennec"
+          },
+          "coords": [
+            -4.280716,
+            48.290723
+          ],
+          "category": "viewpoint",
+          "arrive_at": "14:19",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf die Flussmündung der Aulne von diesem Ort und bringen Sie unbedingt eine Kamera mit.",
+            "hu": "Élvezze a lélegzetelállító panorámát az Aulne folyó torkolatára ebből a kilátóból, és mindenképpen hozzon magával fényképezőgépet a képekért.",
+            "ro": "Bucurați-vă de o vedere panoramică uluitoare a estuarului râului Aulne din acest punct de belvedere și nu uitați să aduceți un aparat foto.",
+            "en": "Enjoy breathtaking panoramic views of the Aulne river estuary from this scenic viewpoint, and be sure to bring a good camera for stunning photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Cimetière des navires de Landévennec",
+            "hu": "Cimetière des navires de Landévennec",
+            "ro": "Cimetière des navires de Landévennec",
+            "en": "Cimetière des navires de Landévennec"
+          },
+          "coords": [
+            -4.280668,
+            48.288201
+          ],
+          "category": "landmark",
+          "arrive_at": "14:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Beobachten Sie die faszinierenden alten Marineschiffe, die hier vor Anker liegen; ein Fernglas hilft dabei, die Details der Riesen zu erkennen.",
+            "hu": "Figyelje meg a lenyűgöző régi haditengerészeti hajókat; egy távcső segít felfedezni a vízen csendesen rozsdásodó óriások apró részleteit.",
+            "ro": "Observați fascinantele vechi nave militare ancorate aici; aduceți un binoclu pentru a distinge detaliile acestor uriași care ruginesc încet.",
+            "en": "Observe the fascinating old naval ships anchored here in the river meander; bringing binoculars helps to see the fine details of the rusting giants."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Keronec",
+            "hu": "Château de Keronec",
+            "ro": "Château de Keronec",
+            "en": "Château de Keronec"
+          },
+          "coords": [
+            -4.253807,
+            48.275921
+          ],
+          "category": "castle",
+          "arrive_at": "16:11",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die spannenden Geschichten rund um dieses beeindruckende Anwesen und nutzen Sie die Nachmittagssonne für einen Spaziergang.",
+            "hu": "Fedezze fel az ehhez a lenyűgöző birtokhoz fűződő izgalmas történeteket, és használja ki a délutáni napsütést egy sétára a környező területen.",
+            "ro": "Descoperiți poveștile fascinante din jurul acestei proprietăți impresionante și profitați de soarele de după-amiază pentru o scurtă plimbare.",
+            "en": "Discover the fascinating stories surrounding this impressive estate and take advantage of the late afternoon sun for a short walk around the grounds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Roadtrip startet an der ruhigen Waldkapelle Sainte-Anne de Troaon. Das sanfte Morgenlicht schafft hier eine geradezu magische, entspannte Stimmung.\n\nDie Reise führt Sie weiter zu den majestätischen Schlössern Keravice und Tibidy. Anschließend erkunden Sie die faszinierenden Ruinen der alten Abtei von Landévennec.\n\nNach einer malerischen Fahrt erreichen Sie den herrlichen Aussichtspunkt und kurz darauf den beeindruckenden Schiffsfriedhof, wo riesige Kriegsschiffe langsam verfallen.\n\nZum Abschluss des Tages fahren Sie zum eleganten Château de Keronec. Die idyllische Umgebung ist der perfekte Ort, um einen erlebnisreichen Tag ruhig ausklingen zu lassen.",
+        "hu": "Az autós túra a csendes Sainte-Anne de Troaon erdei kápolnánál kezdődik. A lágy reggeli fény szinte varázslatos, nyugodt hangulatot teremt itt.\n\nAz utazás a fenséges Keravice és Tibidy kastélyokhoz vezet tovább. Ezután felfedezheti Landévennec régi apátságának lenyűgöző történelmi romjait.\n\nEgy festői autózás után eléri a csodálatos kilátót, majd a lenyűgöző hajótemetőt, ahol hatalmas hadihajók lassan az enyészeté lesznek a vízben.\n\nA nap végén az elegáns Château de Keronec-hez vezet az útja. Az idilli környezet tökéletes helyszín egy élményekkel teli nap nyugodt és békés lezárásához.",
+        "ro": "Călătoria auto începe la capela liniștită Sainte-Anne de Troaon. Lumina blândă a dimineții creează aici o atmosferă magică, perfectă pentru relaxare.\n\nTraseul vă duce mai departe spre castelele maiestuoase Keravice și Tibidy. Apoi explorați ruinele fascinante ale vechii abații din Landévennec.\n\nDupă o plimbare pitorească, ajungeți la magnificul punct de belvedere și la cimitirul de nave, unde uriașele nave de război se degradează încet.\n\nLa finalul zilei, conduceți spre elegantul Château de Keronec. Împrejurimile idilice sunt locul perfect pentru a încheia o zi plină de evenimente.",
+        "en": "Your road trip starts at the quiet forest chapel of Sainte-Anne de Troaon. The soft morning light creates an almost magical, relaxing atmosphere here.\n\nThe journey continues to the majestic castles of Keravice and Tibidy. Afterwards, you will explore the fascinating historical ruins of the ancient Landévennec abbey.\n\nAfter a scenic drive, you reach the magnificent viewpoint and the impressive ship cemetery, where huge warships are slowly slowly decaying in the water.\n\nTo end the day, drive to the elegant Château de Keronec. The idyllic surroundings are the absolute perfect place to quietly conclude an eventful day trip."
+      }
+    }
+  }
+}

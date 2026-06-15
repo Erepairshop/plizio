@@ -1,0 +1,520 @@
+{
+  "city_id": "chiang-rai-cities-v2",
+  "anchor": {
+    "name": "Chiang Rai",
+    "coords": [
+      99.8329,
+      19.911
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:58",
+      "total_km": 2.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Uhrturm Chiang Rai",
+            "hu": "Chiang Rai Óratorony",
+            "ro": "Turnul cu ceas",
+            "en": "Clock Tower"
+          },
+          "coords": [
+            99.830989,
+            19.907163
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die goldene Pracht des Uhrturms, der abends leuchtet, und kommen Sie für das Lichtspiel um 19 Uhr rechtzeitig für den besten Blick.",
+            "hu": "Csodálja meg az aranyozott óratorony részletes kidolgozását, amely este kivilágítva várja, és érkezzen időben a 19 órás fényjátékra.",
+            "ro": "Admirați splendoarea aurită a turnului cu ceas, care se luminează spectaculos seara, și veniți mai devreme pentru a prinde spectacolul de la ora 19.",
+            "en": "Marvel at the golden splendor of this intricate clock tower, which lights up beautifully at night, and arrive early for the 7 PM light show."
+          }
+        },
+        {
+          "name": {
+            "de": "Darunaman-Moschee",
+            "hu": "Darunaman mecset",
+            "ro": "Moscheea Darunaman",
+            "en": "Darunaman Mosque"
+          },
+          "coords": [
+            99.829247,
+            19.907812
+          ],
+          "category": "religious",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die elegante Architektur dieser bedeutenden Moschee im Herzen der Stadt, bei der Sie auf respektvolle und bedeckende Kleidung achten sollten.",
+            "hu": "Fedezze fel ennek a fontos belvárosi mecsetnek az elegáns építészetét, és a látogatás során mindenképpen ügyeljen a tiszteletteljes öltözékre.",
+            "ro": "Descoperiți arhitectura elegantă a acestei importante moschei din inima orașului, asigurându-vă că purtați haine decente și respectuoase la intrare.",
+            "en": "Discover the elegant architecture of this important mosque in the heart of the city, and remember to wear respectful, modest clothing during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Phra Kaew",
+            "hu": "Wat Phra Kaew",
+            "ro": "Wat Phra Kaew",
+            "en": "Wat Phra Kaew"
+          },
+          "coords": [
+            99.827018,
+            19.911693
+          ],
+          "category": "religious",
+          "arrive_at": "10:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besichtigen Sie den ursprünglichen Fundort des Smaragd-Buddhas in diesem historischen Tempel und besuchen Sie das kleine Museum für Artefakte.",
+            "hu": "Látogasson el a Smaragd Buddha eredeti fellelési helyére ebben a templomban, és ne hagyja ki a lenyűgöző ereklyéket rejtő kis múzeumot sem.",
+            "ro": "Vizitați locul original unde a fost descoperit Buddha de Smarald în acest templu istoric și explorați micul muzeu plin de artefacte fascinante.",
+            "en": "Visit the original discovery site of the Emerald Buddha at this historic temple, and take time to explore the small museum filled with fascinating artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Phra Sing",
+            "hu": "Wat Phra Sing",
+            "ro": "Wat Phra Sing",
+            "en": "Wat Phra Sing"
+          },
+          "coords": [
+            99.830546,
+            19.91153
+          ],
+          "category": "religious",
+          "arrive_at": "11:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von den feinen Lanna-Holzschnitzereien in diesem Tempel verzaubern, der für seine ruhige Atmosphäre und goldenen Chedis bekannt ist.",
+            "hu": "Engedje, hogy elvarázsolják a finom lanna fafaragások ebben a templomban, amely békés atmoszférájáról és lenyűgöző arany cselijeiről ismert.",
+            "ro": "Lăsați-vă fermecați de sculpturile detaliate din lemn în stil Lanna ale acestui templu, renumit pentru atmosfera sa liniștită și stupele aurii.",
+            "en": "Be enchanted by the fine Lanna wood carvings in this tranquil temple, known for its peaceful atmosphere and impressive golden chedis."
+          }
+        },
+        {
+          "name": {
+            "de": "Tabaklager Chiang Rai",
+            "hu": "Chiang Rai Dohányraktár",
+            "ro": "Depozitul de tutun",
+            "en": "Tobacco Warehouse Chiang Rai"
+          },
+          "coords": [
+            99.836679,
+            19.908559
+          ],
+          "category": "museum",
+          "arrive_at": "12:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die lokale Industriegeschichte dieses ehemaligen Tabaklagers ein und nutzen Sie das wunderbare natürliche Licht für Fotografien.",
+            "hu": "Merüljön el a helyi ipartörténetben ebben az egykori dohányraktárban, és használja ki a természetes fényeket egyedi fényképek készítéséhez.",
+            "ro": "Pătrundeți în istoria industrială locală a acestui fost depozit de tutun și profitați de lumina naturală minunată pentru a realiza fotografii unice.",
+            "en": "Delve into the local industrial history of this former tobacco warehouse, and take advantage of the wonderful natural light to capture unique photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Si Koet",
+            "hu": "Wat Si Koet",
+            "ro": "Wat Si Koet",
+            "en": "Wat Si Koet"
+          },
+          "coords": [
+            99.839275,
+            19.90691
+          ],
+          "category": "religious",
+          "arrive_at": "13:48",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die authentische Atmosphäre dieses weniger besuchten Tempels, bei dem Sie die traditionelle Architektur ohne große Menschenmassen bewundern können.",
+            "hu": "Élvezze ennek a kevésbé látogatott templomnak a nyugodt légkörét, ahol tömeg nélkül csodálhatja meg a hagyományos thaiföldi építészetet.",
+            "ro": "Bucurați-vă de atmosfera autentică a acestui templu mai puțin vizitat, unde puteți admira arhitectura tradițională fără aglomerația turiștilor.",
+            "en": "Enjoy the authentic and peaceful atmosphere of this less-visited temple, allowing you to admire the traditional architecture without the usual crowds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Chiang Rai am ikonischen Uhrturm, bevor Sie die nahegelegene Darunaman Moschee besuchen. Der Vormittag steht im Zeichen der beeindruckenden Tempel Wat Phra Kaew und Wat Phra Sing. Nachmittags tauchen Sie im historischen Tabaklager in die Vergangenheit ein. Der erlebnisreiche Tag klingt ruhig und authentisch im malerischen Wat Si Koet aus.",
+        "hu": "Kezdje a napot Chiang Rai szívében, az ikonikus óratoronynál, majd látogasson el a közeli Darunaman mecsetbe. A délelőttöt a lenyűgöző Wat Phra Kaew és Wat Phra Sing templomok felfedezése tölti ki. Délután a régi dohányraktárban merülhet el a helyi történelemben. Az estét a festői Wat Si Koet békés, turistáktól mentes atmoszférája zárja.",
+        "ro": "Începeți ziua în inima orașului Chiang Rai la turnul cu ceas, înainte de a vizita moscheea Darunaman. Dimineața este dedicată explorării impresionantelor temple Wat Phra Kaew și Wat Phra Sing. După-amiaza vă scufundați în istorie la vechiul depozit de tutun. Seara se încheie liniștit și departe de mulțimi la pitorescul templu Wat Si Koet.",
+        "en": "Start your day in the heart of Chiang Rai at the iconic Clock Tower before visiting the nearby Darunaman Mosque. The morning is dedicated to exploring the impressive Wat Phra Kaew and Wat Phra Sing temples. In the afternoon, dive into local history at the Tobacco Warehouse. The evening ends peacefully away from the crowds at Wat Si Koet."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:27",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Wat Chet Yot",
+            "hu": "Wat Chet Yot",
+            "ro": "Wat Chet Yot",
+            "en": "Wat Chet Yot"
+          },
+          "coords": [
+            99.831303,
+            19.903573
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die sieben ikonischen Spitzen dieses einzigartigen Tempels, der eine Kopie indischer Bauwerke ist, und besuchen Sie ihn früh für das beste Fotolicht.",
+            "hu": "Fedezze fel ennek az indiai mintára épült templomnak a hét csúcsát, és érkezzen kora reggel a legjobb fényképezési lehetőségek érdekében.",
+            "ro": "Explorați cele șapte vârfuri iconice ale acestui templu unic inspirat din India și veniți dimineața devreme pentru cea mai bună lumină naturală.",
+            "en": "Explore the seven iconic spires of this unique temple modeled after Indian monuments, and arrive early in the morning to get the best lighting for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm Chiang Rai",
+            "hu": "Chiang Rai Óratorony",
+            "ro": "Turnul cu ceas",
+            "en": "Clock Tower"
+          },
+          "coords": [
+            99.830989,
+            19.907163
+          ],
+          "category": "landmark",
+          "arrive_at": "09:52",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die goldene Pracht des Uhrturms, der abends leuchtet, und kommen Sie für das Lichtspiel um 19 Uhr rechtzeitig für den besten Blick.",
+            "hu": "Csodálja meg az aranyozott óratorony részletes kidolgozását, amely este kivilágítva várja, és érkezzen időben a 19 órás fényjátékra.",
+            "ro": "Admirați splendoarea aurită a turnului cu ceas, care se luminează spectaculos seara, și veniți mai devreme pentru a prinde spectacolul de la ora 19.",
+            "en": "Marvel at the golden splendor of this intricate clock tower, which lights up beautifully at night, and arrive early for the 7 PM light show."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Phra Kaew",
+            "hu": "Wat Phra Kaew",
+            "ro": "Wat Phra Kaew",
+            "en": "Wat Phra Kaew"
+          },
+          "coords": [
+            99.827018,
+            19.911693
+          ],
+          "category": "religious",
+          "arrive_at": "10:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besichtigen Sie den ursprünglichen Fundort des Smaragd-Buddhas in diesem historischen Tempel und besuchen Sie das kleine Museum für Artefakte.",
+            "hu": "Látogasson el a Smaragd Buddha eredeti fellelési helyére ebben a templomban, és ne hagyja ki a lenyűgöző ereklyéket rejtő kis múzeumot sem.",
+            "ro": "Vizitați locul original unde a fost descoperit Buddha de Smarald în acest templu istoric și explorați micul muzeu plin de artefacte fascinante.",
+            "en": "Visit the original discovery site of the Emerald Buddha at this historic temple, and take time to explore the small museum filled with fascinating artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Ngam Muang",
+            "hu": "Wat Ngam Muang",
+            "ro": "Wat Ngam Muang",
+            "en": "Wat Ngam Muang"
+          },
+          "coords": [
+            99.825018,
+            19.912511
+          ],
+          "category": "religious",
+          "arrive_at": "11:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Steigen Sie die alten Treppen zu diesem historischen Tempel hinauf, der die Asche eines Königs bewahrt, und genießen Sie die spirituelle Stille.",
+            "hu": "Mássza meg az ősi lépcsőket ehhez a történelmi templomhoz, amely egy király hamvait őrzi, és élvezze a spirituális csendet távol a város zajától.",
+            "ro": "Urcați treptele vechi către acest templu istoric care adăpostește cenușa unui rege și bucurați-vă de liniștea spirituală departe de agitația orașului.",
+            "en": "Climb the ancient steps to this historic temple that preserves the ashes of a king, and enjoy the profound spiritual silence away from the city bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Phra That Doi Chom Thong",
+            "hu": "Wat Phra That Doi Chom Thong",
+            "ro": "Wat Phra That Doi Chom Thong",
+            "en": "Wat Phra That Doi Chom Thong"
+          },
+          "coords": [
+            99.822768,
+            19.915725
+          ],
+          "category": "religious",
+          "arrive_at": "11:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem auf einem Hügel gelegenen Tempel den Panoramablick über den Fluss, und bringen Sie eine Flasche Wasser für den Aufstieg mit.",
+            "hu": "Élvezze a folyóra nyíló panorámát ebből a dombtetőn álló templomból, és mindenképpen hozzon magával egy üveg vizet a kaptatóhoz.",
+            "ro": "Admirați panorama asupra râului de la acest templu situat pe un deal și nu uitați să luați o sticlă cu apă pentru urcarea scurtă, dar abruptă.",
+            "en": "Enjoy the panoramic views over the river from this hilltop temple, and be sure to bring a bottle of water for the short but somewhat steep climb."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Phra Sing",
+            "hu": "Wat Phra Sing",
+            "ro": "Wat Phra Sing",
+            "en": "Wat Phra Sing"
+          },
+          "coords": [
+            99.830546,
+            19.91153
+          ],
+          "category": "religious",
+          "arrive_at": "12:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von den feinen Lanna-Holzschnitzereien in diesem Tempel verzaubern, der für seine ruhige Atmosphäre und goldenen Chedis bekannt ist.",
+            "hu": "Engedje, hogy elvarázsolják a finom lanna fafaragások ebben a templomban, amely békés atmoszférájáról és lenyűgöző arany cselijeiről ismert.",
+            "ro": "Lăsați-vă fermecați de sculpturile detaliate din lemn în stil Lanna ale acestui templu, renumit pentru atmosfera sa liniștită și stupele aurii.",
+            "en": "Be enchanted by the fine Lanna wood carvings in this tranquil temple, known for its peaceful atmosphere and impressive golden chedis."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Rong Suea Ten (Blauer Tempel)",
+            "hu": "Kék Templom",
+            "ro": "Templul Albastru",
+            "en": "Blue Temple (Wat Rong Suea Ten)"
+          },
+          "coords": [
+            99.841755,
+            19.923357
+          ],
+          "category": "religious",
+          "arrive_at": "13:17",
+          "stay_min": 70,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die faszinierende blaue Fassade und die kunstvollen Details dieses modernen Tempels, der bei Radfahrern als toller Fotostopp beliebt ist.",
+            "hu": "Csodálja meg ennek a modern templomnak a lenyűgöző kék homlokzatát és részleteit, amely kerékpárosok körében is rendkívül népszerű fotós megálló.",
+            "ro": "Admirați fațada albastră fascinantă și detaliile artistice ale acestui templu modern, o oprire foarte populară pentru fotografii de pe traseu.",
+            "en": "Marvel at the mesmerizing blue facade and intricate artistic details of this modern temple, an incredibly popular photo stop to end your ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour gemütlich im Süden beim Wat Chet Yot und radeln Sie dann zum goldenen Uhrturm. Die Route führt Sie weiter zu den historischen Schätzen von Wat Phra Kaew und Wat Ngam Muang. Mittags erklimmen Sie den Doi Chom Thong für eine tolle Aussicht. Nachmittags beeindrucken Wat Phra Sing und der berühmte blaue Tempel als spektakulärer Abschluss.",
+        "hu": "Kezdje kerékpártúráját kényelmesen délen a Wat Chet Yotnál, majd tekerjen az arany óratoronyhoz. Az útvonal a Wat Phra Kaew és a Wat Ngam Muang történelmi kincseihez vezet. Délben mássza meg a Doi Chom Thongot a kilátásért. Délután a Wat Phra Sing és a lenyűgöző Kék Templom nyújt felejthetetlen élményt a tekerés végén.",
+        "ro": "Începeți turul cu bicicleta în sud, la Wat Chet Yot, apoi pedalați spre turnul cu ceas. Traseul continuă către comorile de la Wat Phra Kaew și Wat Ngam Muang. La prânz, urcați pe Doi Chom Thong pentru panorama minunată. După-amiaza, Wat Phra Sing și celebrul Templu Albastru vă vor lăsa amintiri de neuitat.",
+        "en": "Start your bike tour leisurely in the south at Wat Chet Yot, then cycle to the golden Clock Tower. The route takes you to the historic treasures of Wat Phra Kaew and Wat Ngam Muang. At midday, climb Doi Chom Thong for a great view. In the afternoon, Wat Phra Sing and the famous Blue Temple provide a spectacular finish to your ride."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:26",
+      "total_km": 9.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Wat Si Sai Mun",
+            "hu": "Wat Si Sai Mun",
+            "ro": "Wat Si Sai Mun",
+            "en": "Wat Si Sai Mun"
+          },
+          "coords": [
+            99.840047,
+            19.897808
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erleben Sie das lokale buddhistische Leben in diesem ruhigen Quartierstempel, wo Sie mit Respekt an einer echten Mönchszeremonie teilhaben können.",
+            "hu": "Tapasztalja meg a helyi buddhista életet ebben a békés déli kerületi templomban, ahol akár egy valódi szerzetesi ceremóniát is megfigyelhet.",
+            "ro": "Experimentați viața budistă locală în acest templu liniștit din cartierul sudic, unde puteți observa cu respect o ceremonie autentică a călugărilor.",
+            "en": "Experience authentic local Buddhist life at this peaceful neighborhood temple in the south, where you might respectfully observe a genuine monk ceremony."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Chet Yot",
+            "hu": "Wat Chet Yot",
+            "ro": "Wat Chet Yot",
+            "en": "Wat Chet Yot"
+          },
+          "coords": [
+            99.831303,
+            19.903573
+          ],
+          "category": "religious",
+          "arrive_at": "09:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die sieben ikonischen Spitzen dieses einzigartigen Tempels, der eine Kopie indischer Bauwerke ist, und nutzen Sie das Morgenlicht für Fotos.",
+            "hu": "Fedezze fel ennek az indiai mintára épült templomnak a hét csúcsát, és használja ki a délelőtti fényeket a nagyszerű fotókhoz.",
+            "ro": "Explorați cele șapte vârfuri iconice ale acestui templu unic inspirat din India și veniți dimineața devreme pentru cea mai bună lumină naturală.",
+            "en": "Explore the seven iconic spires of this unique temple modeled after Indian monuments, and take advantage of the morning light for fantastic pictures."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhrturm Chiang Rai",
+            "hu": "Chiang Rai Óratorony",
+            "ro": "Turnul cu ceas",
+            "en": "Clock Tower"
+          },
+          "coords": [
+            99.830989,
+            19.907163
+          ],
+          "category": "landmark",
+          "arrive_at": "10:34",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die goldene Pracht des Uhrturms, der abends leuchtet, und kommen Sie für das Lichtspiel um 19 Uhr rechtzeitig für den besten Blick.",
+            "hu": "Csodálja meg az aranyozott óratorony részletes kidolgozását, amely este kivilágítva várja, és érkezzen időben a 19 órás fényjátékra.",
+            "ro": "Admirați splendoarea aurită a turnului cu ceas, care se luminează spectaculos seara, și veniți mai devreme pentru a prinde spectacolul de la ora 19.",
+            "en": "Marvel at the golden splendor of this intricate clock tower, which lights up beautifully at night, and arrive early for the 7 PM light show."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Phra That Doi Chom Thong",
+            "hu": "Wat Phra That Doi Chom Thong",
+            "ro": "Wat Phra That Doi Chom Thong",
+            "en": "Wat Phra That Doi Chom Thong"
+          },
+          "coords": [
+            99.822768,
+            19.915725
+          ],
+          "category": "religious",
+          "arrive_at": "11:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem auf einem Hügel gelegenen Tempel den Panoramablick über den Fluss, der sich bequem mit dem Auto anfahren lässt.",
+            "hu": "Élvezze a folyóra nyíló panorámát ebből a dombtetőn álló templomból, amely autóval is könnyen megközelíthető parkolóval rendelkezik.",
+            "ro": "Admirați panorama asupra râului de la acest templu situat pe un deal, având avantajul unei parcări accesibile direct cu mașina.",
+            "en": "Enjoy the panoramic views over the river from this hilltop temple, which is conveniently accessible by car with parking nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Tabaklager Chiang Rai",
+            "hu": "Chiang Rai Dohányraktár",
+            "ro": "Depozitul de tutun",
+            "en": "Tobacco Warehouse Chiang Rai"
+          },
+          "coords": [
+            99.836679,
+            19.908559
+          ],
+          "category": "museum",
+          "arrive_at": "11:46",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die lokale Industriegeschichte dieses ehemaligen Tabaklagers ein und nutzen Sie das wunderbare natürliche Licht für Fotografien.",
+            "hu": "Merüljön el a helyi ipartörténetben ebben az egykori dohányraktárban, és használja ki a természetes fényeket egyedi fényképek készítéséhez.",
+            "ro": "Pătrundeți în istoria industrială locală a acestui fost depozit de tutun și profitați de lumina naturală minunată pentru a realiza fotografii unice.",
+            "en": "Delve into the local industrial history of this former tobacco warehouse, and take advantage of the wonderful natural light to capture unique photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Rong Suea Ten (Blauer Tempel)",
+            "hu": "Kék Templom",
+            "ro": "Templul Albastru",
+            "en": "Blue Temple (Wat Rong Suea Ten)"
+          },
+          "coords": [
+            99.841755,
+            19.923357
+          ],
+          "category": "religious",
+          "arrive_at": "13:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die faszinierende blaue Fassade dieses modernen Tempels, bei dem Parkplätze glücklicherweise ausreichend zur Verfügung stehen.",
+            "hu": "Csodálja meg ennek a modern templomnak a lenyűgöző kék homlokzatát, ahol szerencsére bőséges parkolóhely áll az autósok rendelkezésére.",
+            "ro": "Admirați fațada albastră fascinantă a acestui templu modern, unde locurile de parcare sunt de obicei ușor de găsit în timpul după-amiezii.",
+            "en": "Marvel at the mesmerizing blue facade and intricate artistic details of this modern temple, which offers ample parking for drivers."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Namlat Wang Sang",
+            "hu": "Wat Namlat Wang Sang",
+            "ro": "Wat Namlat Wang Sang",
+            "en": "Wat Namlat Wang Sang"
+          },
+          "coords": [
+            99.816671,
+            19.929386
+          ],
+          "category": "religious",
+          "arrive_at": "14:16",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Entfliehen Sie dem Stadtzentrum zu dieser malerischen Anlage im Nordwesten, wo die Naturkulisse perfekt für entspannte Spaziergänge nach der Fahrt ist.",
+            "hu": "Meneküljön el a városközpontból ehhez a festői komplexumhoz, ahol a természetes környezet tökéletes a vezetés utáni pihentető sétákhoz.",
+            "ro": "Evadați din centrul orașului la acest complex pitoresc din nord-vest, unde decorul natural este perfect pentru o plimbare relaxantă după volan.",
+            "en": "Escape the busy city center to this picturesque northwestern complex, where the natural surroundings are perfect for a relaxing stroll after driving."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt im tiefen Süden beim authentischen Wat Si Sai Mun und Wat Chet Yot. Anschließend fahren Sie ins Zentrum zum bekannten Uhrturm und genießen die spirituelle Ruhe auf dem Doi Chom Thong. Nach einem Abstecher zum alten Tabaklager führt der Weg bequem zum blauen Tempel und endet malerisch im abgelegenen Wat Namlat Wang Sang.",
+        "hu": "Kezdje autós körútját a távoli délen az autentikus Wat Si Sai Munnál és a Wat Chet Yotnál. Ezután hajtson be a központba az óratoronyhoz, majd élvezze a Doi Chom Thong nyugalmát. A régi dohányraktár megtekintése után az út a híres Kék Templomhoz vezet, és a nap a festői szépségű, erdős Wat Namlat Wang Sangnál ér véget.",
+        "ro": "Începeți plimbarea cu mașina în sudul îndepărtat la autenticul Wat Si Sai Mun și Wat Chet Yot. Apoi, conduceți spre centru la turnul cu ceas și bucurați-vă de liniștea de la Doi Chom Thong. După depozitul de tutun, drumul duce confortabil la Templul Albastru și se termină pitoresc la retrasul Wat Namlat Wang Sang.",
+        "en": "Begin your scenic drive in the deep south at the authentic Wat Si Sai Mun and Wat Chet Yot. Then, head to the center for the famous Clock Tower and enjoy the spiritual calm of Doi Chom Thong. After visiting the Tobacco Warehouse, the route easily takes you to the Blue Temple, ending beautifully at the secluded Wat Namlat Wang Sang."
+      }
+    }
+  }
+}

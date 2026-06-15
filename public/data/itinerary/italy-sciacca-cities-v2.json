@@ -1,0 +1,497 @@
+{
+  "city_id": "italy-sciacca-cities-v2",
+  "anchor": {
+    "name": "Sciacca",
+    "coords": [
+      13.088889,
+      37.509167
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:02",
+      "total_km": 1.65,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Palazzo Steripinto",
+            "hu": "Palazzo Steripinto",
+            "ro": "Palazzo Steripinto",
+            "en": "Palazzo Steripinto"
+          },
+          "coords": [
+            13.079044,
+            37.509414
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Diamantquader-Fassade dieses Palastes aus dem 16. Jahrhundert, ein Meisterwerk, das Sie am besten im sanften Morgenlicht fotografieren.",
+            "hu": "Csodálja meg a 16. századi palota lenyűgöző gyémántköves homlokzatát, ami egy igazi mestermű, melyet érdemes a reggeli lágy fényekben lencsevégre kapnia.",
+            "ro": "Admirați fațada impresionantă cu bosaje în formă de diamant a acestui palat din secolul al XVI-lea, o capodoperă pe care e ideal să o fotografiați în lumina dimineții.",
+            "en": "Admire the impressive diamond-rusticated facade of this 16th-century palace, a true masterpiece that is best photographed in the soft, warm light of the early morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Francesco di Paola",
+            "hu": "Chiesa di San Francesco di Paola",
+            "ro": "Chiesa di San Francesco di Paola",
+            "en": "Chiesa di San Francesco di Paola"
+          },
+          "coords": [
+            13.081574,
+            37.508804
+          ],
+          "category": "religious",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese friedliche Kirche mit ihrer schlichten Architektur und nehmen Sie sich Zeit für die stillen Details im Innenraum, abseits des lauten Stadtzentrums.",
+            "hu": "Fedezze fel ezt a békés, egyszerű építészetű templomot, és szánjon időt a csendes belső részletekre, távol a nyüzsgő városközpont zajától.",
+            "ro": "Descoperiți această biserică pașnică cu o arhitectură simplă și acordați-vă timp pentru detaliile tăcute din interior, departe de centrul zgomotos al orașului.",
+            "en": "Discover this peaceful church featuring simple architecture and take your time to appreciate the quiet interior details away from the noisy, bustling city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Museo Francesco Scaglione",
+            "hu": "Casa Museo Francesco Scaglione",
+            "ro": "Casa Museo Francesco Scaglione",
+            "en": "Casa Museo Francesco Scaglione"
+          },
+          "coords": [
+            13.083895,
+            37.50679
+          ],
+          "category": "museum",
+          "arrive_at": "10:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die aristokratische Welt des 19. Jahrhunderts ein, indem Sie die historischen Möbel und wertvollen Kunstwerke dieses faszinierenden Hausmuseums besichtigen.",
+            "hu": "Merüljön el a 19. századi arisztokrata világban, megtekintve e lenyűgöző házmúzeum történelmi bútorait és értékes művészeti alkotásait a helyszínen.",
+            "ro": "Pătrundeți în lumea aristocratică a secolului al XIX-lea explorând mobilierul istoric și operele de artă valoroase ale acestui fascinant muzeu găzduit într-o casă.",
+            "en": "Immerse yourself in the 19th-century aristocratic world by exploring the historical furniture and valuable artworks of this fascinating local house museum today."
+          }
+        },
+        {
+          "name": {
+            "de": "Via Perollo",
+            "hu": "Via Perollo",
+            "ro": "Via Perollo",
+            "en": "Via Perollo"
+          },
+          "coords": [
+            13.08527,
+            37.506613
+          ],
+          "category": "landmark",
+          "arrive_at": "12:08",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang dieser historischen Straße, um die mittelalterliche Atmosphäre von Sciacca zu spüren, und achten Sie auf die alten steinernen Portale der Häuser.",
+            "hu": "Sétáljon végig ezen a történelmi utcán, hogy átérezze Sciacca középkori hangulatát, és figyelje meg a házak régi, kőből faragott portáljait útközben.",
+            "ro": "Plimbați-vă de-a lungul acestei străzi istorice pentru a simți atmosfera medievală din Sciacca și acordați atenție vechilor portaluri de piatră ale caselor tradiționale.",
+            "en": "Stroll along this historical street to truly feel the medieval atmosphere of Sciacca, and pay close attention to the ancient stone portals of the traditional houses."
+          }
+        },
+        {
+          "name": {
+            "de": "Scalinata a Zig Zag",
+            "hu": "Scalinata a Zig Zag",
+            "ro": "Scalinata a Zig Zag",
+            "en": "Scalinata a Zig Zag"
+          },
+          "coords": [
+            13.084069,
+            37.505018
+          ],
+          "category": "landmark",
+          "arrive_at": "12:36",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Steigen Sie diese charakteristischen Zickzack-Treppen hinab, die das Zentrum mit dem Hafen verbinden, und tragen Sie bequeme Schuhe für die unebenen Steinstufen.",
+            "hu": "Sétáljon le a központot a kikötővel összekötő jellegzetes cikkcakkos lépcsőkön, és mindenképpen viseljen kényelmes cipőt az egyenetlen kőfokokon.",
+            "ro": "Coborâți aceste scări în zigzag caracteristice care leagă centrul de port și asigurați-vă că purtați încălțăminte confortabilă pentru treptele de piatră denivelate.",
+            "en": "Walk down these characteristic zigzag stairs connecting the center to the bustling port, and make sure to wear comfortable shoes for the slightly uneven stone steps."
+          }
+        },
+        {
+          "name": {
+            "de": "chiesa di San Pietro Apostolo",
+            "hu": "chiesa di San Pietro Apostolo",
+            "ro": "chiesa di San Pietro Apostolo",
+            "en": "chiesa di San Pietro Apostolo"
+          },
+          "coords": [
+            13.080744,
+            37.505209
+          ],
+          "category": "religious",
+          "arrive_at": "13:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese alte Pfarrkirche, um die wunderschönen Stuckarbeiten zu sehen, und prüfen Sie vorab die lokalen Öffnungszeiten, da diese oft variieren können.",
+            "hu": "Látogasson el ebbe a régi plébániatemplomba, hogy megcsodálja a gyönyörű stukkókat, de előtte feltétlenül ellenőrizze a gyakran változó helyi nyitvatartási időt.",
+            "ro": "Vizitați această veche biserică parohială pentru a vedea stucaturile frumoase, dar verificați în prealabil programul de funcționare, deoarece acesta variază adesea.",
+            "en": "Visit this ancient parish church to admire the beautiful stucco work inside, but be sure to check the local opening hours in advance as they can often vary greatly."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Giocattolo",
+            "hu": "Museo del Giocattolo",
+            "ro": "Museo del Giocattolo",
+            "en": "Museo del Giocattolo"
+          },
+          "coords": [
+            13.077437,
+            37.507077
+          ],
+          "category": "museum",
+          "arrive_at": "13:52",
+          "stay_min": 130,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine wunderbare Sammlung alter Spielzeuge, die Erinnerungen weckt, ideal für einen unterhaltsamen Familienbesuch an einem entspannten späten Nachmittag.",
+            "hu": "Fedezzen fel egy csodálatos, emlékeket ébresztő régi játékgyűjteményt, amely ideális egy szórakoztató családi látogatáshoz egy pihentető késő délutáni órában.",
+            "ro": "Descoperiți o minunată colecție de jucării vechi care trezește amintiri, ideală pentru o vizită distractivă în familie într-o după-amiază târzie și relaxantă.",
+            "en": "Discover a wonderful collection of vintage toys that brings back fond memories, making it an ideal spot for a fun family visit during a relaxing late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag in Sciacca beginnt mit der faszinierenden Architektur des Palazzo Steripinto. Wir schlendern durch enge Gassen zur Chiesa di San Francesco. \n\nMittags tauchen wir im Casa Museo Francesco Scaglione tief in die Geschichte ein. Die historischen Räume erzählen vom aristokratischen Leben vergangener Jahrhunderte. \n\nAm Nachmittag erkunden wir die charakteristische Via Perollo und steigen die Zickzack-Treppen hinab. Ein Besuch der San Pietro Apostolo rundet den Weg ab. \n\nDer Abend gehört der Nostalgie im Museo del Giocattolo. Mit charmanten alten Spielzeugen lassen wir den perfekten Spaziergang durch die Altstadt ruhig ausklingen.",
+        "hu": "A sciacca-i nap a Palazzo Steripinto lenyűgöző építészetével indul, majd szűk utcákon át a San Francesco di Paola templom felé vesszük az irányt. \n\nDélben a Casa Museo Francesco Scaglione történelmi termeiben elmélyülünk az arisztokrata múltban, megismerve a régi korok fényűző életmódját. \n\nDélután felfedezzük a hangulatos Via Perollót, és leereszkedünk a híres cikkcakkos lépcsőkön. A sétát a San Pietro Apostolo templom látogatása egészíti ki. \n\nAz estét a Museo del Giocattolo nosztalgikus játékgyűjteménye aranyozza be. Ezzel a békés és varázslatos élménnyel zárjuk az óvárosi kalandozást.",
+        "ro": "Ziua în Sciacca începe cu arhitectura fascinantă a Palazzo Steripinto, continuând apoi pe străduțele înguste către liniștita biserică San Francesco. \n\nLa prânz, explorăm Casa Museo Francesco Scaglione, unde încăperile istorice ne poartă într-o călătorie prin viața aristocratică a secolelor trecute. \n\nDupă-amiaza, ne plimbăm pe fermecătoarea Via Perollo și coborâm scările în zigzag. O vizită la biserica San Pietro Apostolo completează perfect traseul. \n\nSeara este dedicată nostalgiei la Museo del Giocattolo. Această colecție fermecătoare de jucării vechi încheie o plimbare memorabilă prin centru.",
+        "en": "Our day in Sciacca begins with the striking architecture of Palazzo Steripinto before wandering through narrow streets to the tranquil San Francesco church. \n\nAt midday, we step back in time at the Casa Museo Francesco Scaglione, exploring elegantly furnished rooms that reveal the region's aristocratic past. \n\nThe afternoon invites us to stroll along Via Perollo and descend the famous zigzag stairs. A quick visit to the San Pietro Apostolo church adds a historical touch. \n\nEvening falls with a nostalgic visit to the Museo del Giocattolo. Surrounded by charming vintage toys, we conclude our delightful walking tour."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:52",
+      "total_km": 2.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di Santa Maria delle Giummare",
+            "hu": "Chiesa di Santa Maria delle Giummare",
+            "ro": "Chiesa di Santa Maria delle Giummare",
+            "en": "Chiesa di Santa Maria delle Giummare"
+          },
+          "coords": [
+            13.087651,
+            37.507713
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende Aussicht und die normannische Architektur dieser befestigten Kirche; besuchen Sie sie morgens, um die ruhigste Atmosphäre zu erleben.",
+            "hu": "Élvezze a lenyűgöző kilátást és ennek az erődített templomnak a normann építészetét; érdemes reggel felkeresni, hogy a legnyugodtabb légkört tapasztalhassa meg.",
+            "ro": "Bucurați-vă de priveliștile uimitoare și de arhitectura normandă a acestei biserici fortificate; vizitați-o dimineața pentru a experimenta cea mai liniștită atmosferă.",
+            "en": "Enjoy the stunning views and Norman architecture of this fortified church; plan your visit for the morning to experience the most peaceful and serene atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Via Perollo",
+            "hu": "Via Perollo",
+            "ro": "Via Perollo",
+            "en": "Via Perollo"
+          },
+          "coords": [
+            13.08527,
+            37.506613
+          ],
+          "category": "landmark",
+          "arrive_at": "09:52",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang dieser historischen Straße, um die mittelalterliche Atmosphäre von Sciacca zu spüren, und achten Sie auf die alten steinernen Portale der Häuser.",
+            "hu": "Sétáljon végig ezen a történelmi utcán, hogy átérezze Sciacca középkori hangulatát, és figyelje meg a házak régi, kőből faragott portáljait útközben.",
+            "ro": "Plimbați-vă de-a lungul acestei străzi istorice pentru a simți atmosfera medievală din Sciacca și acordați atenție vechilor portaluri de piatră ale caselor tradiționale.",
+            "en": "Stroll along this historical street to truly feel the medieval atmosphere of Sciacca, and pay close attention to the ancient stone portals of the traditional houses."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento ai Caduti del Mare",
+            "hu": "Monumento ai Caduti del Mare",
+            "ro": "Monumento ai Caduti del Mare",
+            "en": "Monumento ai Caduti del Mare"
+          },
+          "coords": [
+            13.087025,
+            37.505308
+          ],
+          "category": "historical",
+          "arrive_at": "10:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erweisen Sie an diesem eindrucksvollen Denkmal den auf See Gebliebenen die Ehre und genießen Sie dabei den weiten, melancholischen Blick auf das Mittelmeer.",
+            "hu": "Rójja le tiszteletét a tengeren odaveszettek előtt ennél a lenyűgöző emlékműnél, miközben élvezi a Földközi-tengerre nyíló széles, melankolikus kilátást.",
+            "ro": "Aduceți un omagiu celor pierduți pe mare la acest monument impresionant, în timp ce vă bucurați de vederea vastă și melancolică asupra Mării Mediterane.",
+            "en": "Pay your respects to those lost at sea at this impressive monument while enjoying the wide, slightly melancholic view out over the beautiful Mediterranean Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Mare",
+            "hu": "Museo del Mare",
+            "ro": "Museo del Mare",
+            "en": "Museo del Mare"
+          },
+          "coords": [
+            13.093437,
+            37.503736
+          ],
+          "category": "museum",
+          "arrive_at": "11:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über die reiche maritime Geschichte von Sciacca durch faszinierende Exponate; nehmen Sie an einer Führung teil, um verborgene Details zu entdecken.",
+            "hu": "Ismerje meg Sciacca gazdag tengerészeti történelmét a lenyűgöző kiállítási tárgyakon keresztül; csatlakozzon egy tárlatvezetéshez, hogy rejtett részleteket fedezzen fel.",
+            "ro": "Aflați despre istoria maritimă bogată a orașului Sciacca prin exponate fascinante; alăturați-vă unui tur ghidat pentru a descoperi detalii ascunse și povești captivante.",
+            "en": "Learn all about the rich maritime history of Sciacca through fascinating exhibits; consider joining a guided tour to uncover hidden details and captivating local stories."
+          }
+        },
+        {
+          "name": {
+            "de": "Scalinata a Zig Zag",
+            "hu": "Scalinata a Zig Zag",
+            "ro": "Scalinata a Zig Zag",
+            "en": "Scalinata a Zig Zag"
+          },
+          "coords": [
+            13.084069,
+            37.505018
+          ],
+          "category": "landmark",
+          "arrive_at": "13:28",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Steigen Sie diese charakteristischen Zickzack-Treppen hinab, die das Zentrum mit dem Hafen verbinden, und tragen Sie bequeme Schuhe für die unebenen Steinstufen.",
+            "hu": "Sétáljon le a központot a kikötővel összekötő jellegzetes cikkcakkos lépcsőkön, és mindenképpen viseljen kényelmes cipőt az egyenetlen kőfokokon.",
+            "ro": "Coborâți aceste scări în zigzag caracteristice care leagă centrul de port și asigurați-vă că purtați încălțăminte confortabilă pentru treptele de piatră denivelate.",
+            "en": "Walk down these characteristic zigzag stairs connecting the center to the bustling port, and make sure to wear comfortable shoes for the slightly uneven stone steps."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Steripinto",
+            "hu": "Palazzo Steripinto",
+            "ro": "Palazzo Steripinto",
+            "en": "Palazzo Steripinto"
+          },
+          "coords": [
+            13.079044,
+            37.509414
+          ],
+          "category": "landmark",
+          "arrive_at": "13:57",
+          "stay_min": 55,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Diamantquader-Fassade dieses Palastes aus dem 16. Jahrhundert, ein Meisterwerk, das Sie am besten im sanften Morgenlicht fotografieren.",
+            "hu": "Csodálja meg a 16. századi palota lenyűgöző gyémántköves homlokzatát, ami egy igazi mestermű, melyet érdemes a reggeli lágy fényekben lencsevégre kapnia.",
+            "ro": "Admirați fațada impresionantă cu bosaje în formă de diamant a acestui palat din secolul al XVI-lea, o capodoperă pe care e ideal să o fotografiați în lumina dimineții.",
+            "en": "Admire the impressive diamond-rusticated facade of this 16th-century palace, a true masterpiece that is best photographed in the soft, warm light of the early morning."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad starten wir an der majestätischen Kirche Santa Maria delle Giummare, die uns morgens mit ihrer ruhigen normannischen Aura begrüßt. \n\nMittags radeln wir gemütlich zur historischen Via Perollo. Hier spüren wir das mittelalterliche Flair, bevor wir Richtung Hafen weiterfahren. \n\nDer Nachmittag steht im Zeichen des Meeres: Nach dem Monumento ai Caduti del Mare tauchen wir im Museo del Mare in die reiche Schifffahrtsgeschichte ein. \n\nDen Abend beschließen wir mit einem Fotostopp an der Zickzack-Treppe, bevor uns das letzte Tageslicht zum ikonischen Palazzo Steripinto führt.",
+        "hu": "Kerékpáros utunk a fenséges Santa Maria delle Giummare templomnál kezdődik, melynek normann stílusa azonnal magával ragadja a látogatót. \n\nDélben kényelmesen eltekerünk a történelmi Via Perollo felé. A középkori hangulatú utcán át a kikötő nyüzsgése irányába vesszük az irányt. \n\nA délután a tenger jegyében telik: a tengerészek emlékműve után a Museo del Mare izgalmas kiállításain ismerjük meg Sciacca hajózási múltját. \n\nAz estét a jellegzetes cikkcakkos lépcsőnél fotózással kezdjük, végül a nap utolsó sugarainál csodáljuk meg a Palazzo Steripinto egyedi homlokzatát.",
+        "ro": "Traseul nostru cu bicicleta începe la maiestuoasa biserică Santa Maria delle Giummare, unde arhitectura normandă ne întâmpină cu o atmosferă liniștită. \n\nLa prânz, pedalăm relaxat spre istorica Via Perollo. Aici simțim farmecul medieval al orașului înainte de a ne îndrepta spre portul animat. \n\nDupă-amiaza este dedicată mării: vizităm monumentul marinarilor și apoi aprofundăm istoria navală a regiunii la fascinantul Museo del Mare. \n\nSeara facem o oprire foto la scările în zigzag, iar la apus admirăm fațada unică, cu bosaje în formă de diamant, a faimosului Palazzo Steripinto.",
+        "en": "Our cycling adventure starts at the majestic Santa Maria delle Giummare, where the robust Norman architecture provides a peaceful morning atmosphere. \n\nBy midday, we casually pedal towards the historic Via Perollo. We absorb the medieval vibes before making our way down to the bustling harbor. \n\nThe afternoon is entirely devoted to the sea. We visit the striking sailors' monument, followed by a deep dive into local maritime history at the Museo del Mare. \n\nEvening approaches with a photo stop at the iconic zigzag stairs, ending our ride as the setting sun illuminates the facade of Palazzo Steripinto."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:56",
+      "total_km": 6.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa della Raccomandata",
+            "hu": "Chiesa della Raccomandata",
+            "ro": "Chiesa della Raccomandata",
+            "en": "Chiesa della Raccomandata"
+          },
+          "coords": [
+            13.064436,
+            37.519537
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das gotische Portal dieser historischen Kirche am Rande der Stadt und kombinieren Sie den Besuch mit einem kurzen Spaziergang in der umliegenden Natur.",
+            "hu": "Csodálja meg a város szélén található történelmi templom gótikus portálját, és kösse össze a látogatást egy rövid sétával a környező békés természetben.",
+            "ro": "Admirați portalul gotic al acestei biserici istorice de la marginea orașului și combinați vizita cu o scurtă plimbare relaxantă în natura înconjurătoare.",
+            "en": "Admire the Gothic portal of this historic church located on the outskirts of the city, and combine your visit with a short, relaxing walk in the surrounding nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvedere Cosimo Aleo",
+            "hu": "Belvedere Cosimo Aleo",
+            "ro": "Belvedere Cosimo Aleo",
+            "en": "Belvedere Cosimo Aleo"
+          },
+          "coords": [
+            13.064523,
+            37.507137
+          ],
+          "category": "natural",
+          "arrive_at": "09:53",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Genießen Sie einen spektakulären Panoramablick über die Stadt und das Meer von diesem Aussichtspunkt; bringen Sie unbedingt eine Kamera für fantastische Aufnahmen mit.",
+            "hu": "Élvezze a látványos panorámát a városra és a tengerre erről a kilátóról; mindenképpen hozzon magával fényképezőgépet, hogy fantasztikus felvételeket készíthessen.",
+            "ro": "Bucurați-vă de o vedere panoramică spectaculoasă asupra orașului și a mării din acest punct de belvedere; asigurați-vă că aduceți un aparat foto pentru cadre fantastice.",
+            "en": "Enjoy a spectacular panoramic view of the town and the sea from this lovely viewpoint; be absolutely sure to bring a camera to capture some fantastic landscape shots."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Giocattolo",
+            "hu": "Museo del Giocattolo",
+            "ro": "Museo del Giocattolo",
+            "en": "Museo del Giocattolo"
+          },
+          "coords": [
+            13.077437,
+            37.507077
+          ],
+          "category": "museum",
+          "arrive_at": "10:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine wunderbare Sammlung alter Spielzeuge, die Erinnerungen weckt, ideal für einen unterhaltsamen Familienbesuch an einem entspannten späten Nachmittag.",
+            "hu": "Fedezzen fel egy csodálatos, emlékeket ébresztő régi játékgyűjteményt, amely ideális egy szórakoztató családi látogatáshoz egy pihentető késő délutáni órában.",
+            "ro": "Descoperiți o minunată colecție de jucării vechi care trezește amintiri, ideală pentru o vizită distractivă în familie într-o după-amiază târzie și relaxantă.",
+            "en": "Discover a wonderful collection of vintage toys that brings back fond memories, making it an ideal spot for a fun family visit during a relaxing late afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento ai Caduti del Mare",
+            "hu": "Monumento ai Caduti del Mare",
+            "ro": "Monumento ai Caduti del Mare",
+            "en": "Monumento ai Caduti del Mare"
+          },
+          "coords": [
+            13.087025,
+            37.505308
+          ],
+          "category": "historical",
+          "arrive_at": "12:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erweisen Sie an diesem eindrucksvollen Denkmal den auf See Gebliebenen die Ehre und genießen Sie dabei den weiten, melancholischen Blick auf das Mittelmeer.",
+            "hu": "Rójja le tiszteletét a tengeren odaveszettek előtt ennél a lenyűgöző emlékműnél, miközben élvezi a Földközi-tengerre nyíló széles, melankolikus kilátást.",
+            "ro": "Aduceți un omagiu celor pierduți pe mare la acest monument impresionant, în timp ce vă bucurați de vederea vastă și melancolică asupra Mării Mediterane.",
+            "en": "Pay your respects to those lost at sea at this impressive monument while enjoying the wide, slightly melancholic view out over the beautiful Mediterranean Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Mare",
+            "hu": "Museo del Mare",
+            "ro": "Museo del Mare",
+            "en": "Museo del Mare"
+          },
+          "coords": [
+            13.093437,
+            37.503736
+          ],
+          "category": "museum",
+          "arrive_at": "13:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über die reiche maritime Geschichte von Sciacca durch faszinierende Exponate; nehmen Sie an einer Führung teil, um verborgene Details zu entdecken.",
+            "hu": "Ismerje meg Sciacca gazdag tengerészeti történelmét a lenyűgöző kiállítási tárgyakon keresztül; csatlakozzon egy tárlatvezetéshez, hogy rejtett részleteket fedezzen fel.",
+            "ro": "Aflați despre istoria maritimă bogată a orașului Sciacca prin exponate fascinante; alăturați-vă unui tur ghidat pentru a descoperi detalii ascunse și povești captivante.",
+            "en": "Learn all about the rich maritime history of Sciacca through fascinating exhibits; consider joining a guided tour to uncover hidden details and captivating local stories."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Sovareto",
+            "hu": "Lido Sovareto",
+            "ro": "Lido Sovareto",
+            "en": "Lido Sovareto"
+          },
+          "coords": [
+            13.119191,
+            37.497442
+          ],
+          "category": "recreational",
+          "arrive_at": "15:11",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem wunderschönen Strand mit feinem Sand und kristallklarem Wasser; mieten Sie frühzeitig einen Liegestuhl, um sich den besten Platz zu sichern.",
+            "hu": "Pihenjen ezen a gyönyörű, finom homokos és kristálytiszta vizű strandon; béreljen napágyat minél korábban, hogy biztosítsa a legjobb helyet a kikapcsolódáshoz.",
+            "ro": "Relaxați-vă pe această plajă frumoasă cu nisip fin și apă cristalină; închiriați un șezlong din timp pentru a vă asigura cel mai bun loc de pe întregul litoral.",
+            "en": "Relax on this beautiful beach featuring fine sand and crystal-clear water; make sure to rent a sunbed early in the day to secure the very best spot available."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Autotour beginnt an der Peripherie bei der gotischen Chiesa della Raccomandata. Ein ruhiger Startpunkt mit viel historischem Charme und Natur. \n\nGegen Mittag fahren wir zum Belvedere Cosimo Aleo. Der atemberaubende Ausblick über Küste und Stadt bietet das perfekte Panorama für tolle Fotos. \n\nAm Nachmittag erkunden wir das Zentrum: Vom verspielten Museo del Giocattolo geht es zum Hafen, wo das Monumento ai Caduti und das Museo del Mare warten. \n\nDer Tag endet entspannt am Lido Sovareto. Im weichen Sand lassen wir bei sanftem Meeresrauschen die wunderschönen Eindrücke von Sciacca Revue passieren.",
+        "hu": "Autós túránk a város szélén, a gótikus Chiesa della Raccomandata templomnál indul. Csendes és történelmi atmoszféra fogad minket ezen a reggelen. \n\nDél körül a Belvedere Cosimo Aleo kilátóhoz hajtunk. A tengerpartra és a városra nyíló lenyűgöző panoráma tökéletes hátteret nyújt a fotózáshoz. \n\nDélután a belvárost vesszük célba: a játékos Museo del Giocattolo után a kikötőben a tengerészek emlékműve és a tengerészeti múzeum vár ránk. \n\nA napot a gyönyörű Lido Sovareto strandon zárjuk. A finom homokban pihenve, a tenger morajlását hallgatva emlékszünk vissza az élményekre.",
+        "ro": "Turul auto începe la periferie, la biserica gotică Chiesa della Raccomandata. Un punct de plecare liniștit, plin de farmec istoric și natură. \n\nSpre prânz conducem la Belvedere Cosimo Aleo. Priveliștea uimitoare asupra coastei și a orașului oferă panorama perfectă pentru fotografii de neuitat. \n\nDupă-amiaza explorăm centrul: de la jucăușul Museo del Giocattolo ajungem în port, unde ne așteaptă monumentul marinarilor și Museo del Mare. \n\nZiua se încheie relaxant pe plaja Lido Sovareto. Pe nisipul fin, în sunetul valurilor, recapitulăm toate impresiile minunate adunate în Sciacca.",
+        "en": "Our driving tour kicks off on the outskirts at the Gothic Chiesa della Raccomandata, offering a quiet start surrounded by history and lovely nature. \n\nAround midday, we drive up to Belvedere Cosimo Aleo. The breathtaking panoramic views over the coastline and town provide perfect photo opportunities. \n\nIn the afternoon, we dive into culture: from the playful Museo del Giocattolo we head to the port to explore the sailors' monument and maritime museum. \n\nWe wrap up the day unwinding at Lido Sovareto. Relaxing on the soft sand to the sound of the waves is the perfect way to end our time in Sciacca."
+      }
+    }
+  }
+}

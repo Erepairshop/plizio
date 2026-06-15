@@ -1,0 +1,474 @@
+{
+  "city_id": "valognes",
+  "anchor": {
+    "name": "Valognes",
+    "coords": [
+      -1.4692,
+      49.5092
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 1.28,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hôtel Dorléans",
+            "hu": "Hôtel Dorléans",
+            "ro": "Hôtel Dorléans",
+            "en": "Hôtel Dorléans"
+          },
+          "coords": [
+            -1.471831,
+            49.5102
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem eleganten Adelssitz aus dem 18. Jahrhundert und achten Sie auf die aufwendigen Steinmetzarbeiten, bevor Sie das Morgenlicht im Innenhof genießen.",
+            "hu": "Kezdje a napot ennél az elegáns, 18. századi arisztokrata rezidenciánál, figyelve a bonyolult kőfaragásokra, mielőtt megcsodálná a reggeli fényeket a tágas belső udvarban.",
+            "ro": "Începeți ziua la această elegantă reședință aristocratică din secolul al XVIII-lea, admirând detaliile sculpturilor în piatră înainte de a vă bucura de lumina dimineții în curte.",
+            "en": "Begin your day at this elegant aristocratic residence from the 18th century, paying attention to the intricate stonework before enjoying the morning light in its courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Malo",
+            "hu": "Saint-Malo templom",
+            "ro": "Biserica Saint-Malo",
+            "en": "Saint-Malo Church"
+          },
+          "coords": [
+            -1.469385,
+            49.507963
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende gotische Architektur und die wunderschön restaurierten Buntglasfenster dieser historischen Kirche, aber nehmen Sie Rücksicht auf laufende Gottesdienste.",
+            "hu": "Csodálja meg a történelmi templom lenyűgöző gótikus építészetét és gyönyörűen felújított ólomüveg ablakait, de látogatásakor legyen tekintettel a folyamatban lévő istentiszteletekre.",
+            "ro": "Admirați arhitectura gotică impresionantă și vitraliile frumos restaurate ale acestei biserici istorice, dar asigurați-vă că respectați slujbele în desfășurare în timpul vizitei.",
+            "en": "Admire the impressive Gothic architecture and the beautifully restored stained glass windows of this historic church, but remember to respect ongoing services during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel de Thieuville",
+            "hu": "Hôtel de Thieuville",
+            "ro": "Hôtel de Thieuville",
+            "en": "Hôtel de Thieuville"
+          },
+          "coords": [
+            -1.469083,
+            49.506924
+          ],
+          "category": "castle",
+          "arrive_at": "11:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Erkunden Sie die majestätischen Fassaden dieses bemerkenswerten Herrenhauses, das die große Vergangenheit von Valognes widerspiegelt, und bringen Sie ein Weitwinkelobjektiv mit.",
+            "hu": "Fedezze fel ennek a figyelemre méltó kúriának a fenséges homlokzatát, amely Valognes normandiai Versailles-ként ismert múltját tükrözi, és hozzon magával nagylátószögű objektívet.",
+            "ro": "Explorați fațadele maiestuoase ale acestui conac remarcabil care reflectă trecutul grandios al orașului Valognes, aducând o lentilă cu unghi larg pentru a-i surprinde adevărata amploare.",
+            "en": "Explore the majestic facades of this notable mansion which reflects Valognes' grand past as the Versailles of Normandy, bringing a wide-angle lens to capture its true scale."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel de Grandval-Caligny",
+            "hu": "Hôtel de Grandval-Caligny",
+            "ro": "Hôtel de Grandval-Caligny",
+            "en": "Hôtel de Grandval-Caligny"
+          },
+          "coords": [
+            -1.467238,
+            49.506537
+          ],
+          "category": "historical",
+          "arrive_at": "12:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit für die klassische französische Architektur dieses geschichtsträchtigen Gebäudes und prüfen Sie die Zeiten für den Zugang zu den verborgenen Gärten.",
+            "hu": "Szánjon egy percet az épület klasszikus francia építészeti eleganciájának értékelésére, és ellenőrizze a látogatóközpont nyitvatartását a rejtett belső kertek megtekintéséhez.",
+            "ro": "Luați-vă un moment pentru a aprecia eleganța arhitecturală clasică a acestei clădiri și verificați programul centrului de vizitare pentru acces la grădinile sale interioare ascunse.",
+            "en": "Take a moment to appreciate the classic French architectural elegance of this storied building, and check the local visitor center schedule for access to its hidden inner gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel de Beaumont",
+            "hu": "Hôtel de Beaumont",
+            "ro": "Hôtel de Beaumont",
+            "en": "Hôtel de Beaumont"
+          },
+          "coords": [
+            -1.4703,
+            49.5056
+          ],
+          "category": "historical",
+          "arrive_at": "14:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die monumentale Treppe und die üppigen Innenräume dieses prächtigen Stadtpalais und nehmen Sie an einer Führung teil, um seine aristokratische Geschichte zu verstehen.",
+            "hu": "Csodálja meg a csodálatos városi palota monumentális lépcsőházát és pazar belső tereit, és feltétlenül csatlakozzon egy tárlatvezetéshez, hogy megismerje arisztokratikus történetét.",
+            "ro": "Minunați-vă de scara monumentală grandioasă și de interioarele somptuoase ale acestui palat magnific, asigurându-vă că participați la un tur ghidat pentru a-i înțelege istoria.",
+            "en": "Marvel at the grand monumental staircase and lavish interiors of this magnificent town mansion, making sure to join a guided tour to fully understand its aristocratic history."
+          }
+        },
+        {
+          "name": {
+            "de": "Abtei Notre-Dame-de-Protection",
+            "hu": "Notre-Dame-de-Protection apátság",
+            "ro": "Abația Notre-Dame-de-Protection",
+            "en": "Notre-Dame-de-Protection Abbey"
+          },
+          "coords": [
+            -1.464486,
+            49.507773
+          ],
+          "category": "monastic",
+          "arrive_at": "15:30",
+          "stay_min": 70,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Erleben Sie die ruhige Atmosphäre dieser aktiven Benediktinerabtei bei einem Spaziergang durch die Innenhöfe und erwägen Sie den Kauf handgefertigter Produkte aus dem Klosterladen.",
+            "hu": "Tapasztalja meg az aktív bencés apátság nyugodt atmoszféráját a békés udvarokon sétálva, és fontolja meg az apácák által készített kézműves termékek vásárlását az ajándékboltban.",
+            "ro": "Experimentați atmosfera liniștită a acestei abații benedictine active plimbându-vă prin curțile sale pașnice și luați în considerare achiziționarea de obiecte realizate manual.",
+            "en": "Experience the tranquil atmosphere of this active Benedictine abbey by quietly walking through its peaceful courtyards, and consider purchasing handmade items from the nuns' shop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen in Valognes und entdecken Sie den aristokratischen Charme des Hôtel Dorléans und die Anmut der Kirche Saint-Malo. Tauchen Sie mittags in die Erhabenheit des Hôtel de Thieuville und des Hôtel de Grandval-Caligny ein. Der Nachmittag ist dem spektakulären Hôtel de Beaumont und dem ruhigen Klostergelände der Abtei Notre-Dame vorbehalten. Verbringen Sie den Abend mit einem entspannten normannischen Abendessen und reflektieren Sie die reiche Geschichte.",
+        "hu": "Kezdje a reggelt Valognes-ban barangolva, felfedezve a Hôtel Dorléans arisztokratikus varázsát és a Saint-Malo templom csendes eleganciáját. Délben merüljön el a Hôtel de Thieuville nagyszerűségében és a Hôtel de Grandval-Caligny klasszikus vonalaiban. A délutánt a látványos Hôtel de Beaumont és a Notre-Dame-de-Protection apátság nyugodt kolostori területének tartogassa. Az estét egy nyugodt normandiai vacsora mellett töltse, átgondolva a város gazdag örökségét.",
+        "ro": "Începeți dimineața rătăcind prin Valognes, descoperind farmecul aristocratic al Hôtel Dorléans și eleganța liniștită a Bisericii Saint-Malo. La prânz, cufundați-vă în grandoarea Hôtel de Thieuville și liniile clasice ale Hôtel de Grandval-Caligny. După-amiaza este rezervată spectaculosului Hôtel de Beaumont și terenurilor monahale senine ale Abației Notre-Dame. Petreceți-vă seara reflectând asupra moștenirii bogate a orașului în timpul unei cine relaxate normande.",
+        "en": "Start your morning wandering through Valognes, uncovering the aristocratic charm of Hôtel Dorléans and the quiet grace of Saint-Malo Church. At midday, immerse yourself in the grandeur of Hôtel de Thieuville and the classic lines of Hôtel de Grandval-Caligny. The afternoon is reserved for the spectacular Hôtel de Beaumont and the serene monastic grounds of Notre-Dame-de-Protection Abbey. Spend your evening reflecting on the city's rich heritage over a relaxed local Norman dinner."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:47",
+      "total_km": 3.78,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hôtel Dorléans",
+            "hu": "Hôtel Dorléans",
+            "ro": "Hôtel Dorléans",
+            "en": "Hôtel Dorléans"
+          },
+          "coords": [
+            -1.471831,
+            49.5102
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem eleganten Adelssitz aus dem 18. Jahrhundert und achten Sie auf die aufwendigen Steinmetzarbeiten, bevor Sie das Morgenlicht im Innenhof genießen.",
+            "hu": "Kezdje a napot ennél az elegáns, 18. századi arisztokrata rezidenciánál, figyelve a bonyolult kőfaragásokra, mielőtt megcsodálná a reggeli fényeket a tágas belső udvarban.",
+            "ro": "Începeți ziua la această elegantă reședință aristocratică din secolul al XVIII-lea, admirând detaliile sculpturilor în piatră înainte de a vă bucura de lumina dimineții în curte.",
+            "en": "Begin your day at this elegant aristocratic residence from the 18th century, paying attention to the intricate stonework before enjoying the morning light in its courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Malo",
+            "hu": "Saint-Malo templom",
+            "ro": "Biserica Saint-Malo",
+            "en": "Saint-Malo Church"
+          },
+          "coords": [
+            -1.469385,
+            49.507963
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende gotische Architektur und die wunderschön restaurierten Buntglasfenster dieser historischen Kirche, aber nehmen Sie Rücksicht auf laufende Gottesdienste.",
+            "hu": "Csodálja meg a történelmi templom lenyűgöző gótikus építészetét és gyönyörűen felújított ólomüveg ablakait, de látogatásakor legyen tekintettel a folyamatban lévő istentiszteletekre.",
+            "ro": "Admirați arhitectura gotică impresionantă și vitraliile frumos restaurate ale acestei biserici istorice, dar asigurați-vă că respectați slujbele în desfășurare în timpul vizitei.",
+            "en": "Admire the impressive Gothic architecture and the beautifully restored stained glass windows of this historic church, but remember to respect ongoing services during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel de Beaumont",
+            "hu": "Hôtel de Beaumont",
+            "ro": "Hôtel de Beaumont",
+            "en": "Hôtel de Beaumont"
+          },
+          "coords": [
+            -1.4703,
+            49.5056
+          ],
+          "category": "historical",
+          "arrive_at": "11:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die monumentale Treppe und die üppigen Innenräume dieses prächtigen Stadtpalais und nehmen Sie an einer Führung teil, um seine aristokratische Geschichte zu verstehen.",
+            "hu": "Csodálja meg a csodálatos városi palota monumentális lépcsőházát és pazar belső tereit, és feltétlenül csatlakozzon egy tárlatvezetéshez, hogy megismerje arisztokratikus történetét.",
+            "ro": "Minunați-vă de scara monumentală grandioasă și de interioarele somptuoase ale acestui palat magnific, asigurându-vă că participați la un tur ghidat pentru a-i înțelege istoria.",
+            "en": "Marvel at the grand monumental staircase and lavish interiors of this magnificent town mansion, making sure to join a guided tour to fully understand its aristocratic history."
+          }
+        },
+        {
+          "name": {
+            "de": "Abtei Notre-Dame-de-Protection",
+            "hu": "Notre-Dame-de-Protection apátság",
+            "ro": "Abația Notre-Dame-de-Protection",
+            "en": "Notre-Dame-de-Protection Abbey"
+          },
+          "coords": [
+            -1.464486,
+            49.507773
+          ],
+          "category": "monastic",
+          "arrive_at": "12:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erleben Sie die ruhige Atmosphäre dieser aktiven Benediktinerabtei bei einem Spaziergang durch die Innenhöfe und erwägen Sie den Kauf handgefertigter Produkte aus dem Klosterladen.",
+            "hu": "Tapasztalja meg az aktív bencés apátság nyugodt atmoszféráját a békés udvarokon sétálva, és fontolja meg az apácák által készített kézműves termékek vásárlását az ajándékboltban.",
+            "ro": "Experimentați atmosfera liniștită a acestei abații benedictine active plimbându-vă prin curțile sale pașnice și luați în considerare achiziționarea de obiecte realizate manual.",
+            "en": "Experience the tranquil atmosphere of this active Benedictine abbey by quietly walking through its peaceful courtyards, and consider purchasing handmade items from the nuns' shop."
+          }
+        },
+        {
+          "name": {
+            "de": "Thermes antiques d'Alauna",
+            "hu": "Thermes antiques d'Alauna",
+            "ro": "Thermes antiques d'Alauna",
+            "en": "Thermes antiques d'Alauna"
+          },
+          "coords": [
+            -1.45521,
+            49.507137
+          ],
+          "category": "landmark",
+          "arrive_at": "13:21",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.67,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise zu diesen faszinierenden römischen Badehausruinen, die historische Wurzeln offenbaren, und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Lépjen vissza az időben a lenyűgöző ókori római fürdőromoknál, amelyek feltárják a régió mély történelmi gyökereit, és viseljen masszív cipőt az egyenetlen füves terep miatt.",
+            "ro": "Întoarceți-vă în timp la aceste fascinante ruine ale băilor romane antice care dezvăluie rădăcinile istorice, purtând încălțăminte robustă pentru a naviga în siguranță pe teren.",
+            "en": "Step back in time at these fascinating ancient Roman bathhouse ruins that reveal the region's deep historical roots, wearing sturdy shoes to safely navigate the uneven grassy terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir du Quesnay",
+            "hu": "Manoir du Quesnay",
+            "ro": "Manoir du Quesnay",
+            "en": "Manoir du Quesnay"
+          },
+          "coords": [
+            -1.476768,
+            49.495143
+          ],
+          "category": "castle",
+          "arrive_at": "13:57",
+          "stay_min": 110,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.04,
+          "tip_5lang": {
+            "de": "Entdecken Sie den rustikalen Charme dieses befestigten Herrenhauses in der normannischen Landschaft und nähern Sie sich vorsichtig über die engen Landstraßen, um das Privatland zu respektieren.",
+            "hu": "Fedezze fel ennek a normandiai vidéken megbúvó erődített udvarháznak a rusztikus varázsát, a szűk vidéki sávokon óvatosan haladva, tiszteletben tartva a környező magánterületeket.",
+            "ro": "Descoperiți farmecul rustic al acestui conac fortificat amplasat în mediul rural normand, apropiindu-vă cu atenție pe benzile înguste de țară pentru a respecta terenurile private.",
+            "en": "Discover the rustic charm of this fortified manor house nestled in the Norman countryside, approaching carefully via the narrow country lanes to respect the surrounding private lands."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie durch den Morgennebel zum Hôtel Dorléans und zur zentralen Kirche Saint-Malo und genießen Sie die frische normannische Luft. Gegen Mittag führt Sie Ihre Fahrt vorbei am opulenten Hôtel de Beaumont zur friedlichen Abtei Notre-Dame. Nachmittags radeln Sie zu den faszinierenden Thermes d'Alauna und dem rustikalen Manoir du Quesnay. Am Abend kehren Sie ins historische Zentrum zurück, um sich bei lokalem Cidre auszuruhen.",
+        "hu": "Reggel tekerjen át a párán a Hôtel Dorléans és a központi Saint-Malo templom felé, élvezve a friss normandiai levegőt. Délben útja az opulens Hôtel de Beaumont mellett a békés Notre-Dame apátság felé vezet. Délután kerékpározzon el a lenyűgöző Thermes antiques d'Alauna és a rusztikus Manoir du Quesnay felé. Ahogy leszáll az este, térjen vissza a történelmi központba, hogy pihentesse lábait és megkóstoljon egy kis helyi almabort.",
+        "ro": "Pedați prin ceața dimineții pentru a vizita Hôtel Dorléans și Biserica Saint-Malo centrală, bucurându-vă de aerul proaspăt normand. La prânz, plimbarea vă duce pe lângă opulentul Hôtel de Beaumont spre liniștita Abație Notre-Dame. După-amiaza, mergeți cu bicicleta la fascinantele Thermes d'Alauna și rusticul Manoir du Quesnay. Odată cu lăsarea serii, întoarceți-vă în centrul istoric pentru a vă odihni picioarele și a savura un cidru local.",
+        "en": "Pedal through the morning mist to visit Hôtel Dorléans and the central Saint-Malo Church, enjoying the brisk Norman air. By midday, your ride takes you past the opulent Hôtel de Beaumont towards the peaceful Notre-Dame-de-Protection Abbey. In the afternoon, cycle out to the fascinating Thermes antiques d'Alauna and the rustic Manoir du Quesnay. As evening falls, return to the historic center to rest your legs and enjoy some local cider."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:19",
+      "total_km": 5.19,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hôtel Dorléans",
+            "hu": "Hôtel Dorléans",
+            "ro": "Hôtel Dorléans",
+            "en": "Hôtel Dorléans"
+          },
+          "coords": [
+            -1.471831,
+            49.5102
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem eleganten Adelssitz aus dem 18. Jahrhundert und achten Sie auf die aufwendigen Steinmetzarbeiten, bevor Sie das Morgenlicht im Innenhof genießen.",
+            "hu": "Kezdje a napot ennél az elegáns, 18. századi arisztokrata rezidenciánál, figyelve a bonyolult kőfaragásokra, mielőtt megcsodálná a reggeli fényeket a tágas belső udvarban.",
+            "ro": "Începeți ziua la această elegantă reședință aristocratică din secolul al XVIII-lea, admirând detaliile sculpturilor în piatră înainte de a vă bucura de lumina dimineții în curte.",
+            "en": "Begin your day at this elegant aristocratic residence from the 18th century, paying attention to the intricate stonework before enjoying the morning light in its courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Malo",
+            "hu": "Saint-Malo templom",
+            "ro": "Biserica Saint-Malo",
+            "en": "Saint-Malo Church"
+          },
+          "coords": [
+            -1.469385,
+            49.507963
+          ],
+          "category": "religious",
+          "arrive_at": "10:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende gotische Architektur und die wunderschön restaurierten Buntglasfenster dieser historischen Kirche, aber nehmen Sie Rücksicht auf laufende Gottesdienste.",
+            "hu": "Csodálja meg a történelmi templom lenyűgöző gótikus építészetét és gyönyörűen felújított ólomüveg ablakait, de látogatásakor legyen tekintettel a folyamatban lévő istentiszteletekre.",
+            "ro": "Admirați arhitectura gotică impresionantă și vitraliile frumos restaurate ale acestei biserici istorice, dar asigurați-vă că respectați slujbele în desfășurare în timpul vizitei.",
+            "en": "Admire the impressive Gothic architecture and the beautifully restored stained glass windows of this historic church, but remember to respect ongoing services during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel de Beaumont",
+            "hu": "Hôtel de Beaumont",
+            "ro": "Hôtel de Beaumont",
+            "en": "Hôtel de Beaumont"
+          },
+          "coords": [
+            -1.4703,
+            49.5056
+          ],
+          "category": "historical",
+          "arrive_at": "11:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die monumentale Treppe und die üppigen Innenräume dieses prächtigen Stadtpalais und nehmen Sie an einer Führung teil, um seine aristokratische Geschichte zu verstehen.",
+            "hu": "Csodálja meg a csodálatos városi palota monumentális lépcsőházát és pazar belső tereit, és feltétlenül csatlakozzon egy tárlatvezetéshez, hogy megismerje arisztokratikus történetét.",
+            "ro": "Minunați-vă de scara monumentală grandioasă și de interioarele somptuoase ale acestui palat magnific, asigurându-vă că participați la un tur ghidat pentru a-i înțelege istoria.",
+            "en": "Marvel at the grand monumental staircase and lavish interiors of this magnificent town mansion, making sure to join a guided tour to fully understand its aristocratic history."
+          }
+        },
+        {
+          "name": {
+            "de": "Thermes antiques d'Alauna",
+            "hu": "Thermes antiques d'Alauna",
+            "ro": "Thermes antiques d'Alauna",
+            "en": "Thermes antiques d'Alauna"
+          },
+          "coords": [
+            -1.45521,
+            49.507137
+          ],
+          "category": "landmark",
+          "arrive_at": "12:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise zu diesen faszinierenden römischen Badehausruinen, die historische Wurzeln offenbaren, und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Lépjen vissza az időben a lenyűgöző ókori római fürdőromoknál, amelyek feltárják a régió mély történelmi gyökereit, és viseljen masszív cipőt az egyenetlen füves terep miatt.",
+            "ro": "Întoarceți-vă în timp la aceste fascinante ruine ale băilor romane antice care dezvăluie rădăcinile istorice, purtând încălțăminte robustă pentru a naviga în siguranță pe teren.",
+            "en": "Step back in time at these fascinating ancient Roman bathhouse ruins that reveal the region's deep historical roots, wearing sturdy shoes to safely navigate the uneven grassy terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir du Quesnay",
+            "hu": "Manoir du Quesnay",
+            "ro": "Manoir du Quesnay",
+            "en": "Manoir du Quesnay"
+          },
+          "coords": [
+            -1.476768,
+            49.495143
+          ],
+          "category": "castle",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.04,
+          "tip_5lang": {
+            "de": "Entdecken Sie den rustikalen Charme dieses befestigten Herrenhauses in der normannischen Landschaft und nähern Sie sich vorsichtig über die engen Landstraßen, um das Privatland zu respektieren.",
+            "hu": "Fedezze fel ennek a normandiai vidéken megbúvó erődített udvarháznak a rusztikus varázsát, a szűk vidéki sávokon óvatosan haladva, tiszteletben tartva a környező magánterületeket.",
+            "ro": "Descoperiți farmecul rustic al acestui conac fortificat amplasat în mediul rural normand, apropiindu-vă cu atenție pe benzile înguste de țară pentru a respecta terenurile private.",
+            "en": "Discover the rustic charm of this fortified manor house nestled in the Norman countryside, approaching carefully via the narrow country lanes to respect the surrounding private lands."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Servigny",
+            "hu": "Château de Servigny",
+            "ro": "Château de Servigny",
+            "en": "Château de Servigny"
+          },
+          "coords": [
+            -1.496892,
+            49.497669
+          ],
+          "category": "castle",
+          "arrive_at": "14:29",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.48,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Erkundung auf diesem historisch bedeutsamen Schloss, in dem wichtige Verträge des Zweiten Weltkriegs unterzeichnet wurden, und buchen Sie für Innenbesichtigungen im Voraus.",
+            "hu": "Zárja felfedezését ennél a történelmi jelentőségű kastélynál, ahol fontos második világháborús szerződéseket írtak alá, és feltétlenül foglaljon előre, ha szeretné látni a belső tereket.",
+            "ro": "Încheiați-vă explorarea la acest castel istoric semnificativ unde au fost semnate tratate importante din al Doilea Război Mondial, asigurându-vă că rezervați din timp pentru interioare.",
+            "en": "Conclude your exploration at this historically significant chateau where important World War II treaties were signed, ensuring you book ahead if you wish to see the interior rooms."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie bequem zum Hôtel Dorléans und zur berühmten Kirche Saint-Malo und setzen Sie einen eleganten Ton für den Tag. Mittags erkunden Sie die architektonische Pracht des Hôtel de Beaumont und die römischen Überreste der Thermes d'Alauna. Die malerische Nachmittagsfahrt führt Sie aufs Land zum Manoir du Quesnay und zum historischen Château de Servigny. Verbringen Sie den Abend wieder in der Stadt und genießen Sie die kulturelle Tiefe der Normandie bei einem feinen Essen.",
+        "hu": "Vezessen kényelmesen a Hôtel Dorléans és az ikonikus Saint-Malo templom felé, amely elegáns alaphangot ad az utazásnak. A dél hívogatja, hogy felfedezze a Hôtel de Beaumont építészeti pompáját és a Thermes d'Alauna ókori római maradványait. A délutáni festői autózás a vidékre viszi, hogy megcsodálja a Manoir du Quesnay-t és a történelmi Château de Servigny-t. Az estét a városban töltse, értékelve Normandia kulturális mélységét egy finom étkezés mellett.",
+        "ro": "Conduceți confortabil spre Hôtel Dorléans și emblematica Biserică Saint-Malo, dând un ton elegant excursiei. Prânzul vă invită să explorați splendoarea Hôtel de Beaumont și rămășițele romane la Thermes d'Alauna. Conducerea pitorească de după-amiază vă duce la țară pentru a admira Manoir du Quesnay și istoricul Château de Servigny. Petreceți seara înapoi în oraș, apreciind profunzimea culturală a Normandiei cu o masă rafinată.",
+        "en": "Drive comfortably to start your day at Hôtel Dorléans and the iconic Saint-Malo Church, setting an elegant tone for the trip. Midday invites you to explore the architectural splendor of Hôtel de Beaumont and the ancient Roman remnants at Thermes antiques d'Alauna. The afternoon scenic drive takes you to the countryside to admire Manoir du Quesnay and the historic Château de Servigny. Spend the evening back in town, appreciating Normandy's cultural depth over a fine meal."
+      }
+    }
+  }
+}

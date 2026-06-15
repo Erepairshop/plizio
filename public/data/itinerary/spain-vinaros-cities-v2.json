@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-vinaros-cities-v2",
+  "anchor": {
+    "name": "Vinaròs",
+    "coords": [
+      0.47559,
+      40.47033
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:43",
+      "total_km": 1.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Casa de la Vila",
+            "hu": "Casa de la Vila",
+            "ro": "Casa de la Vila",
+            "en": "Casa de la Vila"
+          },
+          "coords": [
+            0.475722,
+            40.470243
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur des Rathauses aus dem 18. Jahrhundert und fotografieren Sie die großen Bögen am besten früh am Morgen.",
+            "hu": "Csodálja meg a 18. századi városháza elegáns építészetét, és fotózza le a lenyűgöző boltíveket a térről kora reggel, a tömeg elkerülése végett.",
+            "ro": "Admirați arhitectura elegantă din secolul al XVIII-lea a primăriei și faceți fotografii cu arcadele sale impunătoare dis-de-dimineață.",
+            "en": "Admire the elegant 18th-century architecture of the town hall and snap photos of its grand arches from the square early in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Sendra",
+            "hu": "Casa Sendra",
+            "ro": "Casa Sendra",
+            "en": "Casa Sendra"
+          },
+          "coords": [
+            0.474349,
+            40.470338
+          ],
+          "category": "landmark",
+          "arrive_at": "09:37",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beachten Sie die auffälligen modernistischen Details der Fassade und betrachten Sie die feinen Schmiedearbeiten der Balkone bei gutem Licht.",
+            "hu": "Figyelje meg az épület homlokzatának feltűnő modernista részleteit, és nézze meg közelebbről az utcaszint feletti bonyolult erkélyrácsokat.",
+            "ro": "Observați detaliile moderniste izbitoare de pe fațada acestei clădiri și priviți îndeaproape feroneria complexă de pe balcoanele iluminate.",
+            "en": "Notice the striking modernist details on this facade, and look closely at the intricate ironwork on the balconies above street level."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Membrillera",
+            "hu": "Casa Membrillera",
+            "ro": "Casa Membrillera",
+            "en": "Casa Membrillera"
+          },
+          "coords": [
+            0.47521,
+            40.469292
+          ],
+          "category": "landmark",
+          "arrive_at": "10:04",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses gut erhaltene Herrenhaus, um mehr über die Lokalgeschichte zu erfahren, und prüfen Sie vorab den aktuellen Ausstellungsplan.",
+            "hu": "Lépjen be, hogy megismerje a helyi történelmet ebben a jól megőrzött kúriában, de látogatás előtt mindenképp ellenőrizze a kiállítási rendet.",
+            "ro": "Intrați pentru a afla despre istoria locală în acest conac bine conservat, verificând programul expozițiilor înainte de vizita dumneavoastră.",
+            "en": "Step inside to learn about local history in this well-preserved mansion, checking the current exhibition schedule before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja del Fortí",
+            "hu": "Platja del Fortí",
+            "ro": "Platja del Fortí",
+            "en": "Platja del Fortí"
+          },
+          "coords": [
+            0.477668,
+            40.46861
+          ],
+          "category": "recreational",
+          "arrive_at": "10:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem feinen goldenen Sand dieses beliebten Strandes, aber kommen Sie früh, um einen Platz an der Promenade zu sichern.",
+            "hu": "Pihenjen ennek a népszerű központi strandnak az aranyhomokos partján, de érkezzen korán, hogy jó helyet biztosítson magának a sétány közelében.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje centrale populare, dar ajungeți devreme pentru a vă asigura un loc excelent lângă promenadă.",
+            "en": "Relax on the long stretch of golden sand at this popular central beach, but arrive early to secure a prime spot near the promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de Fora del Forat",
+            "hu": "Platja de Fora del Forat",
+            "ro": "Platja de Fora del Forat",
+            "en": "Platja de Fora del Forat"
+          },
+          "coords": [
+            0.481874,
+            40.473711
+          ],
+          "category": "recreational",
+          "arrive_at": "11:58",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten, von Palmen gesäumten Sandstrand und machen Sie am späten Nachmittag einen friedlichen Spaziergang auf dem nahen Weg.",
+            "hu": "Élvezze a pálmafákkal körülvett tágas homokos partot, és tegyen egy békés sétát a szomszédos kövezett ösvényen a késő délutáni órákban.",
+            "ro": "Bucurați-vă de nisipul spațios înconjurat de palmieri și faceți o plimbare liniștită pe aleea pavată adiacentă în timpul după-amiezii târzii.",
+            "en": "Enjoy the wide, spacious sands surrounded by palm trees, and take a peaceful walk along the adjacent paved path during the late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im historischen Zentrum mit der Casa de la Vila und modernistischen Fassaden. Mittags verlagert sich das Treiben an die sonnige Küste der Platja del Fortí für einen Spaziergang. Der Nachmittag wird entspannt am Strand Platja de Fora del Forat verbracht. Am Abend lockt ein letzter Spaziergang mit lokalen Tapas am Meer.",
+        "hu": "A reggel a történelmi központban kezdődik a Casa de la Vila és a modernista homlokzatok felfedezésével. Délben a napfényes Platja del Fortí tengerpartja felé vesszük az irányt egy frissítő sétára. A délutánt a Platja de Fora del Forat strandján töltjük a hullámok morajlását figyelve. Az estét tengerparti séta és helyi tapasok zárják.",
+        "ro": "Dimineața începe în centrul istoric explorând Casa de la Vila și fațadele moderniste. La prânz ne îndreptăm spre țărmurile însorite de la Platja del Fortí pentru o plimbare revigorantă. După-amiaza este petrecută relaxându-ne la Platja de Fora del Forat. Seara vă invită la o ultimă plimbare pe coastă și tapas cu fructe de mare.",
+        "en": "Morning begins in the historic center exploring Casa de la Vila and modernist facades. Midday shifts towards the sunlit shores of Platja del Fortí for a refreshing walk. Afternoon is spent relaxing at Platja de Fora del Forat, watching the Mediterranean waves. Evening invites a final coastal stroll and local seafood tapas near the beach."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "13:58",
+      "total_km": 3.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Platja del Saldonar",
+            "hu": "Platja del Saldonar",
+            "ro": "Platja del Saldonar",
+            "en": "Platja del Saldonar"
+          },
+          "coords": [
+            0.48852,
+            40.48502
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Menschenmassen an diesem ruhigen Kieselstrand und bringen Sie Wasserschuhe mit, um die felsige Küste sicher zu erkunden.",
+            "hu": "Meneküljön el a tömeg elől ezen a csendesebb kavicsos strandon, de ne felejtsen el kényelmes vizicipőt hozni a sziklás partvonal felfedezéséhez.",
+            "ro": "Scăpați de aglomerație la această plajă liniștită cu pietriș, amintindu-vă să aduceți încălțăminte de apă pentru a explora țărmul stâncos.",
+            "en": "Escape the crowds at this quieter pebbled beach area, remembering to bring comfortable water shoes for exploring the rocky shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala dels Cossis",
+            "hu": "Cala dels Cossis",
+            "ro": "Cala dels Cossis",
+            "en": "Cala dels Cossis"
+          },
+          "coords": [
+            0.485294,
+            40.479877
+          ],
+          "category": "recreational",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bringen Sie Ihre Schnorchelausrüstung mit, um das klare Mittelmeerwasser dieser malerischen Bucht nördlich des Zentrums zu erkunden.",
+            "hu": "Hozza magával a sznorkelfelszerelését, hogy felfedezze ennek a nyüzsgő központtól északra fekvő kis festői öbölnek a kristálytiszta vizeit.",
+            "ro": "Aduceți echipamentul de snorkeling pentru a explora apele limpezi ale acestui mic golf pitoresc situat la nord de centrul plin de viață.",
+            "en": "Bring your snorkeling gear to explore the clear Mediterranean waters of this small, scenic cove located just north of the bustling center."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de Fora del Forat",
+            "hu": "Platja de Fora del Forat",
+            "ro": "Platja de Fora del Forat",
+            "en": "Platja de Fora del Forat"
+          },
+          "coords": [
+            0.481874,
+            40.473711
+          ],
+          "category": "recreational",
+          "arrive_at": "10:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten, von Palmen gesäumten Sandstrand und machen Sie am späten Nachmittag einen friedlichen Spaziergang auf dem nahen Weg.",
+            "hu": "Élvezze a pálmafákkal körülvett tágas homokos partot, és tegyen egy békés sétát a szomszédos kövezett ösvényen a késő délutáni órákban.",
+            "ro": "Bucurați-vă de nisipul spațios înconjurat de palmieri și faceți o plimbare liniștită pe aleea pavată adiacentă în timpul după-amiezii târzii.",
+            "en": "Enjoy the wide, spacious sands surrounded by palm trees, and take a peaceful walk along the adjacent paved path during the late afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de la Vila",
+            "hu": "Casa de la Vila",
+            "ro": "Casa de la Vila",
+            "en": "Casa de la Vila"
+          },
+          "coords": [
+            0.475722,
+            40.470243
+          ],
+          "category": "landmark",
+          "arrive_at": "11:21",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur des Rathauses aus dem 18. Jahrhundert und fotografieren Sie die großen Bögen am besten früh am Morgen.",
+            "hu": "Csodálja meg a 18. századi városháza elegáns építészetét, és fotózza le a lenyűgöző boltíveket a térről kora reggel, a tömeg elkerülése végett.",
+            "ro": "Admirați arhitectura elegantă din secolul al XVIII-lea a primăriei și faceți fotografii cu arcadele sale impunătoare dis-de-dimineață.",
+            "en": "Admire the elegant 18th-century architecture of the town hall and snap photos of its grand arches from the square early in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja del Clot",
+            "hu": "Platja del Clot",
+            "ro": "Platja del Clot",
+            "en": "Platja del Clot"
+          },
+          "coords": [
+            0.470308,
+            40.463281
+          ],
+          "category": "recreational",
+          "arrive_at": "11:56",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Schwimmen Sie im flachen, geschützten Wasser dieses familienfreundlichen Strandes nahe dem Hafen, der perfekt für ein sicheres Bad ist.",
+            "hu": "Ússzon egyet ennek a kikötőhöz közeli, családbarát strandnak a sekély vizében, amely tökéletes egy biztonságos és pihentető mártózáshoz.",
+            "ro": "Înotați în apele puțin adânci ale acestei plaje ideale pentru familii de lângă port, care este perfectă pentru o baie sigură și relaxantă.",
+            "en": "Swim in the shallow, protected waters of this family-friendly beach near the port, which is perfect for a safe and relaxing dip."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala dels Pinets",
+            "hu": "Cala dels Pinets",
+            "ro": "Cala dels Pinets",
+            "en": "Cala dels Pinets"
+          },
+          "coords": [
+            0.46837,
+            40.46128
+          ],
+          "category": "recreational",
+          "arrive_at": "12:48",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie in dieser kleinen, von niedrigen Klippen umgebenen Bucht und bringen Sie Snacks mit, da es keine Einrichtungen gibt.",
+            "hu": "Kapcsolódjon ki ebben a kis, alacsony sziklákkal körülvett kavicsos öbölben, és hozzon magával rágcsálnivalót, mivel nincsenek büfék.",
+            "ro": "Relaxați-vă în acest mic golf cu pietriș înconjurat de stânci joase, aducând propriile gustări deoarece nu există facilități în apropiere.",
+            "en": "Unwind at this tiny, secluded pebble cove surrounded by low cliffs, bringing your own snacks as there are no nearby facilities."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt an den nördlichen Buchten der Platja del Saldonar, bevor es an der Küste südwärts geht. Mittags führt die Tour durch das lebhafte Stadtzentrum mit seiner lokalen Architektur. Nachmittags folgen Sie den Radwegen zu den ruhigen Gewässern der Platja del Clot. Der Abend bietet eine friedliche Fahrt zur abgelegenen Cala dels Pinets.",
+        "hu": "A reggel az északi Platja del Saldonar öbleinél indul, majd dél felé tekerünk a szellős tengerpart mentén. Délben áthaladunk a nyüzsgő városközponton, megcsodálva a helyi építészetet. Délután a kerékpárutakon a Platja del Clot nyugodt vizeihez érkezünk. Az este egy békés utazást kínál, amely a festői Cala dels Pinets-nél ér véget.",
+        "ro": "Dimineața începe la golfurile nordice de la Platja del Saldonar înainte de a pedala spre sud pe coastă. La prânz trecem prin centrul animat al orașului pentru a admira arhitectura locală. După-amiaza urmează pistele de biciclete până la apele liniștite de la Platja del Clot. Seara oferă o plimbare liniștită care se termină la Cala dels Pinets.",
+        "en": "Morning starts at the northern coves of Platja del Saldonar before pedaling south along the breezy coast. Midday brings you through the bustling town center for a glimpse of local architecture. Afternoon follows the bike paths to the calm waters of Platja del Clot. Evening offers a peaceful ride ending at the secluded Cala dels Pinets."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:50",
+      "total_km": 4.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ermita de Sant Gregori",
+            "hu": "Ermita de Sant Gregori",
+            "ro": "Ermita de Sant Gregori",
+            "en": "Ermita de Sant Gregori"
+          },
+          "coords": [
+            0.463261,
+            40.481455
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fahren Sie landeinwärts, um diese bezaubernde weiße Einsiedelei zu besuchen, und bringen Sie eine Kamera für die natürliche Umgebung mit.",
+            "hu": "Tegyen egy rövid utat a szárazföld belsejébe, hogy meglátogassa ezt a bájos kápolnát, és hozzon kamerát a békés környezet megörökítéséhez.",
+            "ro": "Faceți o scurtă plimbare pentru a vizita acest schit alb fermecător, aducând un aparat foto pentru a surprinde împrejurimile naturale.",
+            "en": "Take a short drive inland to visit this charming white hermitage, bringing a camera to capture the peaceful natural surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Membrillera",
+            "hu": "Casa Membrillera",
+            "ro": "Casa Membrillera",
+            "en": "Casa Membrillera"
+          },
+          "coords": [
+            0.47521,
+            40.469292
+          ],
+          "category": "landmark",
+          "arrive_at": "09:54",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses gut erhaltene Herrenhaus, um mehr über die Lokalgeschichte zu erfahren, und prüfen Sie vorab den aktuellen Ausstellungsplan.",
+            "hu": "Lépjen be, hogy megismerje a helyi történelmet ebben a jól megőrzött kúriában, de látogatás előtt mindenképp ellenőrizze a kiállítási rendet.",
+            "ro": "Intrați pentru a afla despre istoria locală în acest conac bine conservat, verificând programul expozițiilor înainte de vizita dumneavoastră.",
+            "en": "Step inside to learn about local history in this well-preserved mansion, checking the current exhibition schedule before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Sendra",
+            "hu": "Casa Sendra",
+            "ro": "Casa Sendra",
+            "en": "Casa Sendra"
+          },
+          "coords": [
+            0.474349,
+            40.470338
+          ],
+          "category": "landmark",
+          "arrive_at": "10:26",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beachten Sie die auffälligen modernistischen Details der Fassade und betrachten Sie die feinen Schmiedearbeiten der Balkone bei gutem Licht.",
+            "hu": "Figyelje meg az épület homlokzatának feltűnő modernista részleteit, és nézze meg közelebbről az utcaszint feletti bonyolult erkélyrácsokat.",
+            "ro": "Observați detaliile moderniste izbitoare de pe fațada acestei clădiri și priviți îndeaproape feroneria complexă de pe balcoanele iluminate.",
+            "en": "Notice the striking modernist details on this facade, and look closely at the intricate ironwork on the balconies above street level."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja del Fortí",
+            "hu": "Platja del Fortí",
+            "ro": "Platja del Fortí",
+            "en": "Platja del Fortí"
+          },
+          "coords": [
+            0.477668,
+            40.46861
+          ],
+          "category": "recreational",
+          "arrive_at": "10:54",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem feinen goldenen Sand dieses beliebten Strandes, aber kommen Sie früh, um einen Platz an der Promenade zu sichern.",
+            "hu": "Pihenjen ennek a népszerű központi strandnak az aranyhomokos partján, de érkezzen korán, hogy jó helyet biztosítson magának a sétány közelében.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje centrale populare, dar ajungeți devreme pentru a vă asigura un loc excelent lângă promenadă.",
+            "en": "Relax on the long stretch of golden sand at this popular central beach, but arrive early to secure a prime spot near the promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala del Fondo de Bola",
+            "hu": "Cala del Fondo de Bola",
+            "ro": "Cala del Fondo de Bola",
+            "en": "Cala del Fondo de Bola"
+          },
+          "coords": [
+            0.46697,
+            40.460513
+          ],
+          "category": "recreational",
+          "arrive_at": "11:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Moment an dieser felsigen Küstenbucht und bewegen Sie sich vorsichtig über das Gelände zu einem versteckten Platz.",
+            "hu": "Élvezze a csendes pillanatokat ennél a sziklás tengerparti beömlőnél, de óvatosan navigáljon az egyenetlen terepen a megfelelő helyig.",
+            "ro": "Bucurați-vă de un moment liniștit la această intrare stâncoasă, navigând cu atenție pe terenul accidentat pentru un loc retras lângă valuri.",
+            "en": "Enjoy a quiet moment at this rocky coastal inlet, carefully navigating the uneven terrain to find a secluded spot by the waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala de les Roques",
+            "hu": "Cala de les Roques",
+            "ro": "Cala de les Roques",
+            "en": "Cala de les Roques"
+          },
+          "coords": [
+            0.464965,
+            40.458731
+          ],
+          "category": "recreational",
+          "arrive_at": "12:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die raue Schönheit dieser weniger besuchten felsigen Bucht, aber achten Sie auf rutschige Steine in der Nähe des Wassers.",
+            "hu": "Fedezze fel ennek a ritkábban látogatott sziklás öbölnek a zord szépségét, miközben ügyel a csúszós kövekre a vízpart közelében.",
+            "ro": "Descoperiți frumusețea accidentată a acestui golf stâncos mai puțin vizitat, fiind atenți la pietrele alunecoase când vă plimbați pe mal.",
+            "en": "Discover the rugged beauty of this less-visited rocky bay, being mindful of the slippery stones when walking near the water's edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Platja de les Salines",
+            "hu": "Platja de les Salines",
+            "ro": "Platja de les Salines",
+            "en": "Platja de les Salines"
+          },
+          "coords": [
+            0.461702,
+            40.454353
+          ],
+          "category": "recreational",
+          "arrive_at": "13:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem südlichen Kieselstrand und packen Sie ein Picknick ein, um den Sonnenuntergang fernab des Stadtlärms zu genießen.",
+            "hu": "Zárja a napot ezen a hatalmas déli kavicsos strandon, és vigyen magával egy piknikkosarat, hogy távol a város zajától élvezze a naplementét.",
+            "ro": "Încheiați-vă ziua la această plajă sudică cu pietriș, aducând un picnic ușor pentru a vă bucura de apusul liniștit departe de zgomotul orașului.",
+            "en": "End your day at this expansive southern pebble beach, packing a light picnic to enjoy the tranquil sunset views away from the city noise."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Landesinneren an der ruhigen Ermita de Sant Gregori, bevor es ins historische Zentrum geht. Mittags stehen kulturelle Highlights wie Casa Membrillera und ein Strandspaziergang auf dem Programm. Nachmittags fahren Sie südwärts zu versteckten Buchten wie Fondo de Bola. Der Abend endet bei Sonnenuntergang an der Platja de les Salines.",
+        "hu": "A reggel egy kicsit a szárazföld belsejében, a békés Ermita de Sant Gregori-nál kezdődik, majd a történelmi városközpontba autózunk. A dél a Casa Membrillera-hoz és a Fortí strandjához hasonló kulturális látnivalókról szól. Délután dél felé vesszük az irányt, hogy rejtett öblöket fedezzünk fel. Az estét a Platja de les Salines strandjánál zárjuk.",
+        "ro": "Dimineața începe în interior la liniștita Ermita de Sant Gregori înainte de a conduce spre centrul istoric. La prânz vizităm atracții culturale precum Casa Membrillera și facem o plimbare pe plajă. După-amiaza coborâm spre sud pentru a descoperi golfuri ascunse precum Fondo de Bola. Seara se încheie cu un apus pașnic la Platja de les Salines.",
+        "en": "Morning begins slightly inland at the serene Ermita de Sant Gregori before driving to the historic town center. Midday focuses on the cultural highlights like Casa Membrillera and a beach walk at Fortí. Afternoon is a coastal drive southwards to discover hidden coves like Fondo de Bola. Evening concludes with a peaceful sunset at Platja de les Salines."
+      }
+    }
+  }
+}

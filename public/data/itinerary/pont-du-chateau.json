@@ -1,0 +1,474 @@
+{
+  "city_id": "pont-du-chateau",
+  "anchor": {
+    "name": "Pont-du-Château",
+    "coords": [
+      3.2483,
+      45.7983
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:42",
+      "total_km": 1.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Pont-du-Château",
+            "hu": "Pont-du-Château Városháza",
+            "ro": "Primăria Pont-du-Château",
+            "en": "Town Hall of Pont-du-Château"
+          },
+          "coords": [
+            3.248532,
+            45.796944
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das historische Rathaus im ehemaligen Schlossgebäude und achten Sie auf die originalen Fassadendetails, bevor Sie den Hof betreten.",
+            "hu": "Csodálja meg a történelmi városházát az egykori kastély épületében, és figyelje meg az eredeti homlokzati részleteket, mielőtt belépne az udvarra.",
+            "ro": "Admirați primăria istorică din fosta clădire a castelului și observați detaliile fațadei originale înainte de a explora liniștit curtea interioară.",
+            "en": "Admire the historic town hall located in the former castle building, taking note of the original facade details before peacefully exploring the courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame de Paulhat",
+            "hu": "Notre-Dame de Paulhat templom",
+            "ro": "Biserica Notre-Dame de Paulhat",
+            "en": "Notre-Dame de Paulhat Church"
+          },
+          "coords": [
+            3.246841,
+            45.796705
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese charmante Kirche mit ihren bemerkenswerten architektonischen Linien und besuchen Sie sie am Vormittag für das beste Innenlicht.",
+            "hu": "Fedezze fel ezt a bájos templomot, amely figyelemre méltó építészeti vonalakkal rendelkezik, és látogassa meg délelőtt a legjobb belső fényekért.",
+            "ro": "Descoperiți această biserică fermecătoare cu linii arhitecturale remarcabile și vizitați-o dimineața pentru a prinde cea mai bună lumină interioară.",
+            "en": "Discover this charming church featuring remarkable architectural lines, and make sure to visit in the morning to catch the absolute best interior light."
+          }
+        },
+        {
+          "name": {
+            "de": "Belfried",
+            "hu": "Harangtorony",
+            "ro": "Turnul Clopotniță",
+            "en": "Belfry"
+          },
+          "coords": [
+            3.247877,
+            45.79795
+          ],
+          "category": "tower",
+          "arrive_at": "11:14",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Betrachten Sie den imposanten mittelalterlichen Glockenturm, der das Stadtbild prägt, und bringen Sie ein gutes Weitwinkelobjektiv für Fotos mit.",
+            "hu": "Tekintse meg a városképet meghatározó, impozáns középkori harangtornyot, és feltétlenül hozzon magával egy jó nagylátószögű objektívet a fotózáshoz.",
+            "ro": "Priviți impunătorul turn clopotniță medieval care domină peisajul urban și asigurați-vă că aveți un obiectiv cu unghi larg pentru fotografii perfecte.",
+            "en": "Gaze up at the imposing medieval belfry that dominates the cityscape, and be sure to bring a good wide-angle lens to capture its impressive full height."
+          }
+        },
+        {
+          "name": {
+            "de": "Akkordeon-Club",
+            "hu": "Harmonikaklub",
+            "ro": "Clubul de Acordeon",
+            "en": "Accordion Club"
+          },
+          "coords": [
+            3.247627,
+            45.800078
+          ],
+          "category": "cultural",
+          "arrive_at": "11:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die lokale Musikkultur in diesem einzigartigen Akkordeon-Club und prüfen Sie die Aushänge für spontane kleine Abendkonzerte oder Proben.",
+            "hu": "Tapasztalja meg a helyi zenei kultúrát ebben az egyedülálló harmonikaklubban, és keresse a plakátokat az esetleges esti minikoncertek időpontjaival.",
+            "ro": "Experimentați cultura muzicală locală în acest club unic de acordeon și verificați avizierele pentru posibile concerte sau repetiții deschise seara.",
+            "en": "Experience the local musical culture at this unique accordion club, and check the community notice boards for any impromptu evening concerts or rehearsals."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Sainte-Martine",
+            "hu": "Sainte-Martine templom",
+            "ro": "Biserica Sainte-Martine",
+            "en": "Sainte-Martine Church"
+          },
+          "coords": [
+            3.254967,
+            45.798357
+          ],
+          "category": "religious",
+          "arrive_at": "13:32",
+          "stay_min": 70,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besichtigen Sie dieses beeindruckende religiöse Bauwerk mit seinen filigranen Verzierungen und genießen Sie die spirituelle Ruhe in den Seitenschiffen.",
+            "hu": "Tekintse meg ezt a lenyűgöző vallási építményt a finom díszítéseivel, és élvezze a spirituális nyugalmat és csendet az eldugott oldalkápolnákban.",
+            "ro": "Vizitați acest edificiu religios impresionant cu decorațiuni filigranate și bucurați-vă de liniștea spirituală deplină în capelele laterale retrase.",
+            "en": "Visit this impressive religious structure featuring delicate ornamentation, and take a moment to enjoy the profound spiritual peace in the side chapels."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Pont-du-Château beim historischen Rathaus. Schlendern Sie durch die engen Gassen zur Kirche Notre-Dame. Der Nachmittag bringt Sie zum imposanten Beffroi. Beenden Sie den Spaziergang mit einem Besuch des Akkordeon-Clubs und der Sainte-Martine Kirche.",
+        "hu": "Kezdje a napot Pont-du-Château szívében a történelmi városházánál. Sétáljon végig a szűk utcákon a Notre-Dame templomig. A délután az impozáns harangtoronyhoz vezet. Fejezze be a sétát a harmonikaklub és a Sainte-Martine templom meglátogatásával, élvezve a helyi hangulatot.",
+        "ro": "Începeți ziua în inima Pont-du-Château la primăria istorică. Plimbați-vă pe străzile înguste până la biserica Notre-Dame. După-amiaza vă duce la impunătorul turn Beffroi. Încheiați plimbarea cu o vizită la clubul de acordeon și la biserica Sainte-Martine pentru o notă autentică.",
+        "en": "Start your morning in the heart of Pont-du-Château at the historic town hall. Stroll through the charming narrow streets to the Notre-Dame church. The afternoon leads you to the imposing Beffroi tower. Finish your walk by visiting the unique accordion club and the grand Sainte-Martine church."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:08",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Le Caméléon",
+            "hu": "Le Caméléon",
+            "ro": "Le Caméléon",
+            "en": "Le Caméléon"
+          },
+          "coords": [
+            3.235573,
+            45.789304
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die dynamische Kulturszene dieses modernen Veranstaltungsortes ein und reservieren Sie Tickets für aktuelle Ausstellungen im Voraus.",
+            "hu": "Merüljön el ennek a modern rendezvényhelyszínnek a dinamikus kulturális színterében, és időben foglaljon jegyet az aktuális kiállításokra vagy show-kra.",
+            "ro": "Cufundați-vă în scena culturală dinamică a acestui loc modern de evenimente și rezervați bilete în avans pentru expozițiile sau spectacolele actuale.",
+            "en": "Immerse yourself in the dynamic cultural scene of this modern event space, and always book tickets in advance for current exhibitions or performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame de Paulhat",
+            "hu": "Notre-Dame de Paulhat templom",
+            "ro": "Biserica Notre-Dame de Paulhat",
+            "en": "Notre-Dame de Paulhat Church"
+          },
+          "coords": [
+            3.246841,
+            45.796705
+          ],
+          "category": "religious",
+          "arrive_at": "10:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese charmante Kirche mit ihren bemerkenswerten architektonischen Linien und besuchen Sie sie am Vormittag für das beste Innenlicht.",
+            "hu": "Fedezze fel ezt a bájos templomot, amely figyelemre méltó építészeti vonalakkal rendelkezik, és látogassa meg délelőtt a legjobb belső fényekért.",
+            "ro": "Descoperiți această biserică fermecătoare cu linii arhitecturale remarcabile și vizitați-o dimineața pentru a prinde cea mai bună lumină interioară.",
+            "en": "Discover this charming church featuring remarkable architectural lines, and make sure to visit in the morning to catch the absolute best interior light."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Pont-du-Château",
+            "hu": "Pont-du-Château Városháza",
+            "ro": "Primăria Pont-du-Château",
+            "en": "Town Hall of Pont-du-Château"
+          },
+          "coords": [
+            3.248532,
+            45.796944
+          ],
+          "category": "castle",
+          "arrive_at": "11:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie das historische Rathaus im ehemaligen Schlossgebäude und achten Sie auf die originalen Fassadendetails, bevor Sie den Hof betreten.",
+            "hu": "Csodálja meg a történelmi városházát az egykori kastély épületében, és figyelje meg az eredeti homlokzati részleteket, mielőtt belépne az udvarra.",
+            "ro": "Admirați primăria istorică din fosta clădire a castelului și observați detaliile fațadei originale înainte de a explora liniștit curtea interioară.",
+            "en": "Admire the historic town hall located in the former castle building, taking note of the original facade details before peacefully exploring the courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Belfried",
+            "hu": "Harangtorony",
+            "ro": "Turnul Clopotniță",
+            "en": "Belfry"
+          },
+          "coords": [
+            3.247877,
+            45.79795
+          ],
+          "category": "tower",
+          "arrive_at": "12:59",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Betrachten Sie den imposanten mittelalterlichen Glockenturm, der das Stadtbild prägt, und bringen Sie ein gutes Weitwinkelobjektiv für Fotos mit.",
+            "hu": "Tekintse meg a városképet meghatározó, impozáns középkori harangtornyot, és feltétlenül hozzon magával egy jó nagylátószögű objektívet a fotózáshoz.",
+            "ro": "Priviți impunătorul turn clopotniță medieval care domină peisajul urban și asigurați-vă că aveți un obiectiv cu unghi larg pentru fotografii perfecte.",
+            "en": "Gaze up at the imposing medieval belfry that dominates the cityscape, and be sure to bring a good wide-angle lens to capture its impressive full height."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Sainte-Martine",
+            "hu": "Sainte-Martine templom",
+            "ro": "Biserica Sainte-Martine",
+            "en": "Sainte-Martine Church"
+          },
+          "coords": [
+            3.254967,
+            45.798357
+          ],
+          "category": "religious",
+          "arrive_at": "13:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besichtigen Sie dieses beeindruckende religiöse Bauwerk mit seinen filigranen Verzierungen und genießen Sie die spirituelle Ruhe in den Seitenschiffen.",
+            "hu": "Tekintse meg ezt a lenyűgöző vallási építményt a finom díszítéseivel, és élvezze a spirituális nyugalmat és csendet az eldugott oldalkápolnákban.",
+            "ro": "Vizitați acest edificiu religios impresionant cu decorațiuni filigranate și bucurați-vă de liniștea spirituală deplină în capelele laterale retrase.",
+            "en": "Visit this impressive religious structure featuring delicate ornamentation, and take a moment to enjoy the profound spiritual peace in the side chapels."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Chignat",
+            "hu": "Chignat Kastély",
+            "ro": "Castelul Chignat",
+            "en": "Chignat Castle"
+          },
+          "coords": [
+            3.274845,
+            45.787666
+          ],
+          "category": "castle",
+          "arrive_at": "14:18",
+          "stay_min": 110,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die malerischen Überreste dieses historischen Schlosses am Rande der Stadt und tragen Sie feste Schuhe für den unebenen Zugangsweg.",
+            "hu": "Fedezze fel ennek a történelmi kastélynak a festői maradványait a város szélén, és viseljen zárt cipőt a kissé egyenetlen és kavicsos felvezető úton.",
+            "ro": "Explorați rămășițele pitorești ale acestui castel istoric de la marginea orașului și purtați încălțăminte robustă pentru calea de acces denivelată.",
+            "en": "Explore the picturesque remnants of this historic castle on the outskirts of town, and wear sturdy walking shoes for the uneven, unpaved access paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens zum Kulturzentrum Le Caméléon am Stadtrand. Danach geht es zurück ins Zentrum zur Notre-Dame Kirche und zum Rathaus. Am Nachmittag passieren Sie den Beffroi und die Sainte-Martine Kirche. Die Tour endet mit einer malerischen Fahrt zum Château de Chignat im Südosten.",
+        "hu": "Kerékpározzon reggel a Le Caméléon kulturális központhoz. Ezután térjen vissza a központba a Notre-Dame templomhoz és a városházához. Délután tekerjen el a harangtorony és a Sainte-Martine templom mellett. A túra a délkeleti Château de Chignat festői környezetében ér véget.",
+        "ro": "Pedalați dimineața spre centrul cultural Le Caméléon. Apoi întoarceți-vă în centru la biserica Notre-Dame și primărie. După-amiaza treceți pe lângă turnul Beffroi și biserica Sainte-Martine. Turul se încheie cu o plimbare pitorească spre impresionantul Château de Chignat.",
+        "en": "Cycle in the morning to the Le Caméléon cultural center on the outskirts. Then head back into the town center to see the Notre-Dame church and town hall. In the afternoon, ride past the belfry and Sainte-Martine church. Conclude the tour with a scenic ride out to the Château de Chignat."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 9.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Le Caméléon",
+            "hu": "Le Caméléon",
+            "ro": "Le Caméléon",
+            "en": "Le Caméléon"
+          },
+          "coords": [
+            3.235573,
+            45.789304
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die dynamische Kulturszene dieses modernen Veranstaltungsortes ein und reservieren Sie Tickets für aktuelle Ausstellungen im Voraus.",
+            "hu": "Merüljön el ennek a modern rendezvényhelyszínnek a dinamikus kulturális színterében, és időben foglaljon jegyet az aktuális kiállításokra vagy show-kra.",
+            "ro": "Cufundați-vă în scena culturală dinamică a acestui loc modern de evenimente și rezervați bilete în avans pentru expozițiile sau spectacolele actuale.",
+            "en": "Immerse yourself in the dynamic cultural scene of this modern event space, and always book tickets in advance for current exhibitions or performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Pont-du-Château",
+            "hu": "Pont-du-Château Városháza",
+            "ro": "Primăria Pont-du-Château",
+            "en": "Town Hall of Pont-du-Château"
+          },
+          "coords": [
+            3.248532,
+            45.796944
+          ],
+          "category": "castle",
+          "arrive_at": "10:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie das historische Rathaus im ehemaligen Schlossgebäude und achten Sie auf die originalen Fassadendetails, bevor Sie den Hof betreten.",
+            "hu": "Csodálja meg a történelmi városházát az egykori kastély épületében, és figyelje meg az eredeti homlokzati részleteket, mielőtt belépne az udvarra.",
+            "ro": "Admirați primăria istorică din fosta clădire a castelului și observați detaliile fațadei originale înainte de a explora liniștit curtea interioară.",
+            "en": "Admire the historic town hall located in the former castle building, taking note of the original facade details before peacefully exploring the courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Belfried",
+            "hu": "Harangtorony",
+            "ro": "Turnul Clopotniță",
+            "en": "Belfry"
+          },
+          "coords": [
+            3.247877,
+            45.79795
+          ],
+          "category": "tower",
+          "arrive_at": "12:14",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Betrachten Sie den imposanten mittelalterlichen Glockenturm, der das Stadtbild prägt, und bringen Sie ein gutes Weitwinkelobjektiv für Fotos mit.",
+            "hu": "Tekintse meg a városképet meghatározó, impozáns középkori harangtornyot, és feltétlenül hozzon magával egy jó nagylátószögű objektívet a fotózáshoz.",
+            "ro": "Priviți impunătorul turn clopotniță medieval care domină peisajul urban și asigurați-vă că aveți un obiectiv cu unghi larg pentru fotografii perfecte.",
+            "en": "Gaze up at the imposing medieval belfry that dominates the cityscape, and be sure to bring a good wide-angle lens to capture its impressive full height."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Sainte-Martine",
+            "hu": "Sainte-Martine templom",
+            "ro": "Biserica Sainte-Martine",
+            "en": "Sainte-Martine Church"
+          },
+          "coords": [
+            3.254967,
+            45.798357
+          ],
+          "category": "religious",
+          "arrive_at": "12:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besichtigen Sie dieses beeindruckende religiöse Bauwerk mit seinen filigranen Verzierungen und genießen Sie die spirituelle Ruhe in den Seitenschiffen.",
+            "hu": "Tekintse meg ezt a lenyűgöző vallási építményt a finom díszítéseivel, és élvezze a spirituális nyugalmat és csendet az eldugott oldalkápolnákban.",
+            "ro": "Vizitați acest edificiu religios impresionant cu decorațiuni filigranate și bucurați-vă de liniștea spirituală deplină în capelele laterale retrase.",
+            "en": "Visit this impressive religious structure featuring delicate ornamentation, and take a moment to enjoy the profound spiritual peace in the side chapels."
+          }
+        },
+        {
+          "name": {
+            "de": "Akkordeon-Club",
+            "hu": "Harmonikaklub",
+            "ro": "Clubul de Acordeon",
+            "en": "Accordion Club"
+          },
+          "coords": [
+            3.247627,
+            45.800078
+          ],
+          "category": "cultural",
+          "arrive_at": "13:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erleben Sie die lokale Musikkultur in diesem einzigartigen Akkordeon-Club und prüfen Sie die Aushänge für spontane kleine Abendkonzerte oder Proben.",
+            "hu": "Tapasztalja meg a helyi zenei kultúrát ebben az egyedülálló harmonikaklubban, és keresse a plakátokat az esetleges esti minikoncertek időpontjaival.",
+            "ro": "Experimentați cultura muzicală locală în acest club unic de acordeon și verificați avizierele pentru posibile concerte sau repetiții deschise seara.",
+            "en": "Experience the local musical culture at this unique accordion club, and check the community notice boards for any impromptu evening concerts or rehearsals."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Aventin",
+            "hu": "Saint-Aventin templom",
+            "ro": "Biserica Saint-Aventin",
+            "en": "Saint-Aventin Church"
+          },
+          "coords": [
+            3.27917,
+            45.813244
+          ],
+          "category": "religious",
+          "arrive_at": "15:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an dieser abgelegenen Kirche mit ihrer schlichten Architektur und nutzen Sie die ruhige Umgebung für eine kurze Nachmittagspause.",
+            "hu": "Pihenjen meg ezen az eldugott templomnál, amely egyszerű építészetével varázsol, és használja ki a csendes környezetet egy rövid délutáni szünetre.",
+            "ro": "Relaxați-vă la această biserică retrasă, cu arhitectura sa austeră, și folosiți împrejurimile pașnice pentru o scurtă pauză de odihnă după-amiaza.",
+            "en": "Relax at this secluded church renowned for its simple, austere architecture, and take advantage of the peaceful surroundings for a short afternoon break."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Chignat",
+            "hu": "Chignat Kastély",
+            "ro": "Castelul Chignat",
+            "en": "Chignat Castle"
+          },
+          "coords": [
+            3.274845,
+            45.787666
+          ],
+          "category": "castle",
+          "arrive_at": "15:55",
+          "stay_min": 110,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die malerischen Überreste dieses historischen Schlosses am Rande der Stadt und tragen Sie feste Schuhe für den unebenen Zugangsweg.",
+            "hu": "Fedezze fel ennek a történelmi kastélynak a festői maradványait a város szélén, és viseljen zárt cipőt a kissé egyenetlen és kavicsos felvezető úton.",
+            "ro": "Explorați rămășițele pitorești ale acestui castel istoric de la marginea orașului și purtați încălțăminte robustă pentru calea de acces denivelată.",
+            "en": "Explore the picturesque remnants of this historic castle on the outskirts of town, and wear sturdy walking shoes for the uneven, unpaved access paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie bequem mit dem Auto beim modernen Le Caméléon. Fahren Sie ins Zentrum, um das historische Rathaus und den Beffroi zu erkunden. Besuchen Sie am Nachmittag die Sainte-Martine Kirche und den Akkordeon-Club. Den krönenden Abschluss bilden die Kirche Saint-Aventin und das Château de Chignat.",
+        "hu": "Induljon kényelmesen autóval a modern Le Caméléon központtól. Vezessen a belvárosba a városháza és a harangtorony felfedezéséhez. Délután látogassa meg a Sainte-Martine templomot és a harmonikaklubot. A napot a Saint-Aventin templom és a lenyűgöző Château de Chignat zárja.",
+        "ro": "Începeți confortabil cu mașina la modernul spațiu Le Caméléon. Conduceți spre centru pentru a explora primăria istorică și Beffroi. Vizitați după-amiaza biserica Sainte-Martine și clubul de acordeon. Ziua se încheie cu explorarea bisericii Saint-Aventin și a castelului Chignat.",
+        "en": "Start your road trip comfortably at the modern Le Caméléon event space. Drive into the center to explore the historic town hall and the towering Beffroi. In the afternoon, visit the Sainte-Martine church and accordion club. Cap off your day with trips to Saint-Aventin and Château de Chignat."
+      }
+    }
+  }
+}

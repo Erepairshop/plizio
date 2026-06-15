@@ -1,0 +1,520 @@
+{
+  "city_id": "gourin",
+  "anchor": {
+    "name": "Gourin",
+    "coords": [
+      -3.6075,
+      48.1394
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 2.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Pierre et Saint-Paul",
+            "hu": "Église Saint-Pierre et Saint-Paul",
+            "ro": "Église Saint-Pierre et Saint-Paul",
+            "en": "Église Saint-Pierre et Saint-Paul"
+          },
+          "coords": [
+            -3.608251,
+            48.139296
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Buntglasfenster und die filigrane Steinmetzarbeit dieser historischen Kirche, ein Symbol des Erbes von Gourin, aber prüfen Sie vorab die Messezeiten.",
+            "hu": "Csodálja meg e történelmi templom gyönyörű ólomüveg ablakait és bonyolult kőfaragásait, Gourin örökségének szimbólumát, de a belső látogatás előtt ellenőrizze a misék rendjét.",
+            "ro": "Admirați vitraliile frumoase și sculpturile în piatră ale acestei biserici istorice, un simbol al moștenirii din Gourin, dar verificați programul slujbelor înainte de a intra.",
+            "en": "Admire the beautiful stained glass and intricate stonework of this historic church, a symbol of Gourin's heritage, but check the mass schedule before visiting inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de Gourin",
+            "hu": "Étang de Gourin",
+            "ro": "Étang de Gourin",
+            "en": "Étang de Gourin"
+          },
+          "coords": [
+            -3.60322,
+            48.136777
+          ],
+          "category": "natural",
+          "arrive_at": "09:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie einen friedlichen Spaziergang um diesen malerischen Natursee, in dem sich der Himmel spiegelt, und vergessen Sie nicht, ein Picknick für die Bänke am Ufer einzupacken.",
+            "hu": "Élvezze a békés sétát e festői természetes tó körül, amely gyönyörűen tükrözi az eget, és ne felejtsen el egy kis pikniket csomagolni a tóparti padok egyikére.",
+            "ro": "Bucurați-vă de o plimbare liniștită în jurul acestui lac natural pitoresc ce reflectă cerul și nu uitați să împachetați un mic picnic pentru a-l savura pe băncile de pe mal.",
+            "en": "Enjoy a peaceful stroll around this scenic natural lake which reflects the sky beautifully, and don't forget to pack a small picnic to enjoy on one of the lakeside benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Philibert",
+            "hu": "Chapelle Saint-Philibert",
+            "ro": "Chapelle Saint-Philibert",
+            "en": "Chapelle Saint-Philibert"
+          },
+          "coords": [
+            -3.590935,
+            48.13947
+          ],
+          "category": "religious",
+          "arrive_at": "11:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese charmante Steinkapelle inmitten einer ruhigen Landschaft, um die friedliche Atmosphäre zu genießen, und betrachten Sie die alten Schnitzereien an den Außenmauern.",
+            "hu": "Fedezze fel ezt a bájos kőkápolnát a nyugodt vidéki tájban, hogy élvezze annak csendes atmoszféráját, és szánjon egy pillanatot a külső falakon található ősi faragások megtekintésére.",
+            "ro": "Descoperiți această capelă fermecătoare de piatră din mediul rural pentru a-i aprecia atmosfera liniștită, luându-vă un moment pentru a privi sculpturile vechi de pe zidurile exterioare.",
+            "en": "Discover this charming stone chapel nestled in the serene countryside to appreciate its quiet atmosphere, taking a moment to view the ancient carvings on the outer walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Théâtre de Tronjoly",
+            "hu": "Théâtre de Tronjoly",
+            "ro": "Théâtre de Tronjoly",
+            "en": "Théâtre de Tronjoly"
+          },
+          "coords": [
+            -3.608716,
+            48.143876
+          ],
+          "category": "cultural",
+          "arrive_at": "12:28",
+          "stay_min": 100,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Freiluft-Veranstaltungsort neben dem Schloss in die lokale Kunstszene ein und informieren Sie sich vorab über das Programm für faszinierende Nachmittagsvorstellungen.",
+            "hu": "Merüljön el a helyi előadóművészeti életben ezen a kastély melletti szabadtéri kulturális helyszínen, előre ellenőrizve a programjukat bármilyen lenyűgöző délutáni műsor kapcsán.",
+            "ro": "Pătrundeți în scena artelor spectacolului la această locație culturală în aer liber de lângă castel, verificând programul în avans pentru orice spectacole fascinante de după-amiază.",
+            "en": "Immerse yourself in the local performing arts scene at this open-air cultural venue right next to the château, checking their schedule in advance for any fascinating afternoon shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Tronjoly",
+            "hu": "Château de Tronjoly",
+            "ro": "Château de Tronjoly",
+            "en": "Château de Tronjoly"
+          },
+          "coords": [
+            -3.60977,
+            48.14466
+          ],
+          "category": "historical",
+          "arrive_at": "14:10",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie das weitläufige Gelände und die Architektur dieses historischen Schlosses, in dem lokale Kulturveranstaltungen stattfinden, und nehmen Sie sich Zeit für die üppigen Gärten.",
+            "hu": "Fedezze fel e történelmi kastély hatalmas birtokát és építészetét, amely helyi kulturális eseményeknek ad otthont, elegendő időt hagyva a buja, gondozott kertekben való sétára.",
+            "ro": "Explorați domeniul vast și arhitectura acestui castel istoric care găzduiește evenimente culturale locale, lăsând suficient timp pentru a vă plimba prin grădinile luxuriante și îngrijite.",
+            "en": "Explore the sprawling grounds and majestic architecture of this historic castle that hosts local cultural events, leaving enough time to wander through the lush, well-kept gardens."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit der Erkundung des spirituellen Herzens von Gourin in der zentralen Kirche, bevor die friedliche Atmosphäre des Sees einen entspannten Ton für den Morgen setzt.\nZur Mittagszeit können Sie die charmante ländliche Steinkapelle entdecken, die ihre ganz eigene, stille Geschichte von Hingabe und Tradition in der malerischen bretonischen Landschaft erzählt.\nDer Nachmittag widmet sich der Pracht von Tronjoly; spazieren Sie durch die herrlichen Schlossanlagen und stellen Sie sich die großen Veranstaltungen im benachbarten Freilufttheater vor.\nBeenden Sie Ihre Reise, während das späte Nachmittagslicht weicher wird, und lassen Sie einen gut verbrachten Tag inmitten der Denkmäler und üppigen grünen Landschaften der Bretagne Revue passieren.",
+        "hu": "Kezdje a napot Gourin szellemi központjának felfedezésével a központi templomban, mielőtt a helyi tó békés atmoszférája nyugodt alaphangot adna az egész délelőttnek.\nDélben merészkedjen egy kicsit kijjebb, és fedezze fel a breton vidéket pettyező bájos, vidéki kőkápolnát, amely a történelemről és az őszinte áhítatról mesél.\nA délután Tronjoly nagyszerűségének van szentelve; sétáljon végig a csodálatos kastélykertben, és képzelje el a szomszédos szabadtéri színházban megrendezett nagyszabású eseményeket.\nZárja utazását a késő délutáni fények lágyulásával, visszagondolva az ezen autentikus breton város történelmi műemlékei és buja zöldellő tájai között eltöltött csodálatos napra.",
+        "ro": "Începeți ziua explorând inima spirituală a orașului Gourin la biserica centrală, înainte ca atmosfera pașnică a lacului local să stabilească un ton relaxant pentru prima parte a dimineții.\nLa amiază, aventurați-vă ușor spre exterior pentru a descoperi fermecătoarea capelă rurală de piatră care presară peisajul breton, spunând propria poveste de istorie și devotament.\nDupă-amiaza este dedicată măreției domeniului Tronjoly; plimbați-vă prin terenurile magnifice ale castelului și imaginați-vă marile evenimente de la teatrul în aer liber din vecinătate.\nÎncheiați-vă călătoria pe măsură ce lumina se domolește, reflectând la o zi bine petrecută printre monumentele istorice și peisajele verzi și luxuriante ale acestui oraș breton autentic.",
+        "en": "Start your day exploring the spiritual heart of Gourin by visiting the central church, before letting the peaceful atmosphere of the local lake set a relaxing tone for the morning.\nBy midday, venture slightly outwards to discover the charming rural stone chapel that dots the Breton countryside, telling its own quiet story of history and regional devotion.\nThe afternoon is dedicated to the grandeur of Tronjoly; walk through its magnificent castle grounds and picture the grand events that take place at the neighboring open-air theatre.\nConclude your journey as the late afternoon light softens, reflecting on a day well spent amidst the historical monuments and lush, green landscapes of this authentic Breton town."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:39",
+      "total_km": 5.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Pierre et Saint-Paul",
+            "hu": "Église Saint-Pierre et Saint-Paul",
+            "ro": "Église Saint-Pierre et Saint-Paul",
+            "en": "Église Saint-Pierre et Saint-Paul"
+          },
+          "coords": [
+            -3.608251,
+            48.139296
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Buntglasfenster und die filigrane Steinmetzarbeit dieser historischen Kirche, ein Symbol des Erbes von Gourin, aber prüfen Sie vorab die Messezeiten.",
+            "hu": "Csodálja meg e történelmi templom gyönyörű ólomüveg ablakait és bonyolult kőfaragásait, Gourin örökségének szimbólumát, de a belső látogatás előtt ellenőrizze a misék rendjét.",
+            "ro": "Admirați vitraliile frumoase și sculpturile în piatră ale acestei biserici istorice, un simbol al moștenirii din Gourin, dar verificați programul slujbelor înainte de a intra.",
+            "en": "Admire the beautiful stained glass and intricate stonework of this historic church, a symbol of Gourin's heritage, but check the mass schedule before visiting inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Philibert",
+            "hu": "Chapelle Saint-Philibert",
+            "ro": "Chapelle Saint-Philibert",
+            "en": "Chapelle Saint-Philibert"
+          },
+          "coords": [
+            -3.590935,
+            48.13947
+          ],
+          "category": "religious",
+          "arrive_at": "09:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese charmante Steinkapelle inmitten einer ruhigen Landschaft, um die friedliche Atmosphäre zu genießen, und betrachten Sie die alten Schnitzereien an den Außenmauern.",
+            "hu": "Fedezze fel ezt a bájos kőkápolnát a nyugodt vidéki tájban, hogy élvezze annak csendes atmoszféráját, és szánjon egy pillanatot a külső falakon található ősi faragások megtekintésére.",
+            "ro": "Descoperiți această capelă fermecătoare de piatră din mediul rural pentru a-i aprecia atmosfera liniștită, luându-vă un moment pentru a privi sculpturile vechi de pe zidurile exterioare.",
+            "en": "Discover this charming stone chapel nestled in the serene countryside to appreciate its quiet atmosphere, taking a moment to view the ancient carvings on the outer walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Guénolé",
+            "hu": "Chapelle Saint-Guénolé",
+            "ro": "Chapelle Saint-Guénolé",
+            "en": "Chapelle Saint-Guénolé"
+          },
+          "coords": [
+            -3.586375,
+            48.135506
+          ],
+          "category": "religious",
+          "arrive_at": "10:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise an diesem bescheidenen, aber historisch bedeutsamen Ort, der tolle Fotomotive bietet, besonders wenn das Morgenlicht auf die rustikale Fassade fällt.",
+            "hu": "Lépjen vissza az időben ezen a szerény, mégis történelmileg jelentős vallási helyszínen, amely nagyszerű fotózási lehetőségeket kínál, különösen amikor a reggeli fény éri a homlokzatot.",
+            "ro": "Pășiți înapoi în timp la acest sit religios modest, dar semnificativ din punct de vedere istoric, care oferă oportunități foto excelente la primele ore ale dimineții.",
+            "en": "Step back in time at this modest yet historically significant religious site that offers great photo opportunities, especially when the morning light hits the rustic facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de Gourin",
+            "hu": "Étang de Gourin",
+            "ro": "Étang de Gourin",
+            "en": "Étang de Gourin"
+          },
+          "coords": [
+            -3.60322,
+            48.136777
+          ],
+          "category": "natural",
+          "arrive_at": "11:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Genießen Sie einen friedlichen Spaziergang um diesen malerischen Natursee, in dem sich der Himmel spiegelt, und vergessen Sie nicht, ein Picknick für die Bänke am Ufer einzupacken.",
+            "hu": "Élvezze a békés sétát e festői természetes tó körül, amely gyönyörűen tükrözi az eget, és ne felejtsen el egy kis pikniket csomagolni a tóparti padok egyikére.",
+            "ro": "Bucurați-vă de o plimbare liniștită în jurul acestui lac natural pitoresc ce reflectă cerul și nu uitați să împachetați un mic picnic pentru a-l savura pe băncile de pe mal.",
+            "en": "Enjoy a peaceful stroll around this scenic natural lake which reflects the sky beautifully, and don't forget to pack a small picnic to enjoy on one of the lakeside benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Tronjoly",
+            "hu": "Château de Tronjoly",
+            "ro": "Château de Tronjoly",
+            "en": "Château de Tronjoly"
+          },
+          "coords": [
+            -3.60977,
+            48.14466
+          ],
+          "category": "historical",
+          "arrive_at": "12:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das weitläufige Gelände und die Architektur dieses historischen Schlosses, in dem lokale Kulturveranstaltungen stattfinden, und nehmen Sie sich Zeit für die üppigen Gärten.",
+            "hu": "Fedezze fel e történelmi kastély hatalmas birtokát és építészetét, amely helyi kulturális eseményeknek ad otthont, elegendő időt hagyva a buja, gondozott kertekben való sétára.",
+            "ro": "Explorați domeniul vast și arhitectura acestui castel istoric care găzduiește evenimente culturale locale, lăsând suficient timp pentru a vă plimba prin grădinile luxuriante și îngrijite.",
+            "en": "Explore the sprawling grounds and majestic architecture of this historic castle that hosts local cultural events, leaving enough time to wander through the lush, well-kept gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Théâtre de Tronjoly",
+            "hu": "Théâtre de Tronjoly",
+            "ro": "Théâtre de Tronjoly",
+            "en": "Théâtre de Tronjoly"
+          },
+          "coords": [
+            -3.608716,
+            48.143876
+          ],
+          "category": "cultural",
+          "arrive_at": "14:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Freiluft-Veranstaltungsort neben dem Schloss in die lokale Kunstszene ein und informieren Sie sich vorab über das Programm für faszinierende Nachmittagsvorstellungen.",
+            "hu": "Merüljön el a helyi előadóművészeti életben ezen a kastély melletti szabadtéri kulturális helyszínen, előre ellenőrizve a programjukat bármilyen lenyűgöző délutáni műsor kapcsán.",
+            "ro": "Pătrundeți în scena artelor spectacolului la această locație culturală în aer liber de lângă castel, verificând programul în avans pentru orice spectacole fascinante de după-amiază.",
+            "en": "Immerse yourself in the local performing arts scene at this open-air cultural venue right next to the château, checking their schedule in advance for any fascinating afternoon shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Jean Baptiste",
+            "hu": "Saint-Jean Baptiste",
+            "ro": "Saint-Jean Baptiste",
+            "en": "Saint-Jean Baptiste"
+          },
+          "coords": [
+            -3.618502,
+            48.151731
+          ],
+          "category": "landmark",
+          "arrive_at": "15:54",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem bekannten, Johannes dem Täufer gewidmeten Denkmal an, um das Mauerwerk zu bewundern, und fotografieren Sie die Statue von unten für eine majestätische Wirkung.",
+            "hu": "Álljon meg ennél a Keresztelő Jánosnak szentelt emlékműnél, hogy megcsodálja a finom falazatot, és próbálja alacsony szögből fotózni a szobrot fenséges arányainak kiemeléséhez.",
+            "ro": "Opriți-vă la acest monument proeminent dedicat Sfântului Ioan Botezătorul pentru a admira zidăria delicată și încercați să surprindeți statuia dintr-un unghi inferior.",
+            "en": "Pause at this prominent monument dedicated to John the Baptist to admire the delicate masonry, and try capturing the statue from a low angle to highlight its majestic proportions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit der Erkundung des spirituellen Herzens von Gourin in der zentralen Kirche, bevor Sie mit dem Rad in die Umgebung aufbrechen.\nZur Mittagszeit können Sie die charmanten ländlichen Steinkapellen der bretonischen Landschaft entdecken, gefolgt von einem entspannenden Aufenthalt am malerischen Natursee.\nDer Nachmittag widmet sich der Pracht von Tronjoly; radeln Sie zu den herrlichen Schlossanlagen und bestaunen Sie die großen Veranstaltungen im benachbarten Freilufttheater.\nBeenden Sie Ihre Reise am markanten Johannes-Denkmal, während das späte Nachmittagslicht eine ruhige Atmosphäre auf die üppigen grünen Landschaften der Region wirft.",
+        "hu": "Kezdje a napot Gourin szellemi központjának felfedezésével a központi templomban, mielőtt két kerékre pattanva bejárná a környéket.\nDélben merészkedjen kijjebb, és fedezze fel a breton vidéket pettyező vidéki kőkápolnákat, majd pihenjen meg egy kicsit a festői természetes tó partján.\nA délután Tronjoly nagyszerűségének van szentelve; tekerjen el a csodálatos kastélykertbe, és képzelje el a szabadtéri színházban megrendezett nagy eseményeket.\nZárja utazását a Keresztelő János emlékműnél, élvezve, ahogy a késő délutáni fények finoman megvilágítják ezen autentikus breton város buja tájait.",
+        "ro": "Începeți ziua explorând inima spirituală a orașului Gourin la biserica centrală, înainte de a pedala prin împrejurimi pentru un aer proaspăt de dimineață.\nLa amiază, aventurați-vă spre exterior pentru a descoperi fermecătoarele capele de piatră care presară peisajul breton, urmate de o oprire relaxantă la lacul natural pitoresc.\nDupă-amiaza este dedicată măreției domeniului Tronjoly; mergeți cu bicicleta la terenurile magnifice ale castelului și explorați teatrul în aer liber din vecinătate.\nÎncheiați-vă călătoria la impresionantul monument dedicat Sfântului Ioan, în timp ce lumina caldă a după-amiezii reflectă farmecul istoric al acestui oraș breton.",
+        "en": "Start your day exploring the spiritual heart of Gourin by visiting the central church, before hopping on your bike to explore the surrounding countryside.\nBy midday, venture slightly outwards to discover the charming rural stone chapels that dot the Breton landscape, followed by a relaxing pause at the scenic natural lake.\nThe afternoon is dedicated to the grandeur of Tronjoly; cycle over to its magnificent castle grounds and picture the grand events taking place at the open-air theatre.\nConclude your journey at the striking Saint John monument as the late afternoon light softens, reflecting on a day of cultural discovery amidst the greenery."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 9.9,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Pierre et Saint-Paul",
+            "hu": "Église Saint-Pierre et Saint-Paul",
+            "ro": "Église Saint-Pierre et Saint-Paul",
+            "en": "Église Saint-Pierre et Saint-Paul"
+          },
+          "coords": [
+            -3.608251,
+            48.139296
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Buntglasfenster und die filigrane Steinmetzarbeit dieser historischen Kirche, ein Symbol des Erbes von Gourin, aber prüfen Sie vorab die Messezeiten.",
+            "hu": "Csodálja meg e történelmi templom gyönyörű ólomüveg ablakait és bonyolult kőfaragásait, Gourin örökségének szimbólumát, de a belső látogatás előtt ellenőrizze a misék rendjét.",
+            "ro": "Admirați vitraliile frumoase și sculpturile în piatră ale acestei biserici istorice, un simbol al moștenirii din Gourin, dar verificați programul slujbelor înainte de a intra.",
+            "en": "Admire the beautiful stained glass and intricate stonework of this historic church, a symbol of Gourin's heritage, but check the mass schedule before visiting inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de Gourin",
+            "hu": "Étang de Gourin",
+            "ro": "Étang de Gourin",
+            "en": "Étang de Gourin"
+          },
+          "coords": [
+            -3.60322,
+            48.136777
+          ],
+          "category": "natural",
+          "arrive_at": "09:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie einen friedlichen Spaziergang um diesen malerischen Natursee, in dem sich der Himmel spiegelt, und vergessen Sie nicht, ein Picknick für die Bänke am Ufer einzupacken.",
+            "hu": "Élvezze a békés sétát e festői természetes tó körül, amely gyönyörűen tükrözi az eget, és ne felejtsen el egy kis pikniket csomagolni a tóparti padok egyikére.",
+            "ro": "Bucurați-vă de o plimbare liniștită în jurul acestui lac natural pitoresc ce reflectă cerul și nu uitați să împachetați un mic picnic pentru a-l savura pe băncile de pe mal.",
+            "en": "Enjoy a peaceful stroll around this scenic natural lake which reflects the sky beautifully, and don't forget to pack a small picnic to enjoy on one of the lakeside benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Philibert",
+            "hu": "Chapelle Saint-Philibert",
+            "ro": "Chapelle Saint-Philibert",
+            "en": "Chapelle Saint-Philibert"
+          },
+          "coords": [
+            -3.590935,
+            48.13947
+          ],
+          "category": "religious",
+          "arrive_at": "11:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese charmante Steinkapelle inmitten einer ruhigen Landschaft, um die friedliche Atmosphäre zu genießen, und betrachten Sie die alten Schnitzereien an den Außenmauern.",
+            "hu": "Fedezze fel ezt a bájos kőkápolnát a nyugodt vidéki tájban, hogy élvezze annak csendes atmoszféráját, és szánjon egy pillanatot a külső falakon található ősi faragások megtekintésére.",
+            "ro": "Descoperiți această capelă fermecătoare de piatră din mediul rural pentru a-i aprecia atmosfera liniștită, luându-vă un moment pentru a privi sculpturile vechi de pe zidurile exterioare.",
+            "en": "Discover this charming stone chapel nestled in the serene countryside to appreciate its quiet atmosphere, taking a moment to view the ancient carvings on the outer walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Guénolé",
+            "hu": "Chapelle Saint-Guénolé",
+            "ro": "Chapelle Saint-Guénolé",
+            "en": "Chapelle Saint-Guénolé"
+          },
+          "coords": [
+            -3.586375,
+            48.135506
+          ],
+          "category": "religious",
+          "arrive_at": "11:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise an diesem bescheidenen, aber historisch bedeutsamen Ort, der tolle Fotomotive bietet, besonders wenn das Morgenlicht auf die rustikale Fassade fällt.",
+            "hu": "Lépjen vissza az időben ezen a szerény, mégis történelmileg jelentős vallási helyszínen, amely nagyszerű fotózási lehetőségeket kínál, különösen amikor a reggeli fény éri a homlokzatot.",
+            "ro": "Pășiți înapoi în timp la acest sit religios modest, dar semnificativ din punct de vedere istoric, care oferă oportunități foto excelente la primele ore ale dimineții.",
+            "en": "Step back in time at this modest yet historically significant religious site that offers great photo opportunities, especially when the morning light hits the rustic facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Hervé",
+            "hu": "Chapelle Saint-Hervé",
+            "ro": "Chapelle Saint-Hervé",
+            "en": "Chapelle Saint-Hervé"
+          },
+          "coords": [
+            -3.57447,
+            48.163
+          ],
+          "category": "religious",
+          "arrive_at": "12:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses abgeschiedene, von dichten Bäumen umgebene religiöse Kleinod, das sich perfekt zur Besinnung eignet, aber tragen Sie festes Schuhwerk für den holprigen Pfad.",
+            "hu": "Látogasson el ehhez a sűrű fákkal körülvett, eldugott vallási gyöngyszemhez, amely tökéletes hely a csendes elmélkedésre, de viseljen erős cipőt, mert az ösvény egyenetlen lehet.",
+            "ro": "Vizitați această bijuterie religioasă izolată, înconjurată de copaci deși, ideală pentru reflecție, dar purtați încălțăminte robustă, deoarece poteca poate fi uneori noroioasă.",
+            "en": "Visit this secluded religious gem surrounded by dense trees, which provides a perfect setting for reflection, but wear sturdy shoes as the path can be slightly uneven and muddy."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Jean Baptiste",
+            "hu": "Saint-Jean Baptiste",
+            "ro": "Saint-Jean Baptiste",
+            "en": "Saint-Jean Baptiste"
+          },
+          "coords": [
+            -3.618502,
+            48.151731
+          ],
+          "category": "landmark",
+          "arrive_at": "13:23",
+          "stay_min": 15,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem bekannten, Johannes dem Täufer gewidmeten Denkmal an, um das Mauerwerk zu bewundern, und fotografieren Sie die Statue von unten für eine majestätische Wirkung.",
+            "hu": "Álljon meg ennél a Keresztelő Jánosnak szentelt emlékműnél, hogy megcsodálja a finom falazatot, és próbálja alacsony szögből fotózni a szobrot fenséges arányainak kiemeléséhez.",
+            "ro": "Opriți-vă la acest monument proeminent dedicat Sfântului Ioan Botezătorul pentru a admira zidăria delicată și încercați să surprindeți statuia dintr-un unghi inferior.",
+            "en": "Pause at this prominent monument dedicated to John the Baptist to admire the delicate masonry, and try capturing the statue from a low angle to highlight its majestic proportions."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Tronjoly",
+            "hu": "Château de Tronjoly",
+            "ro": "Château de Tronjoly",
+            "en": "Château de Tronjoly"
+          },
+          "coords": [
+            -3.60977,
+            48.14466
+          ],
+          "category": "historical",
+          "arrive_at": "13:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das weitläufige Gelände und die Architektur dieses historischen Schlosses, in dem lokale Kulturveranstaltungen stattfinden, und nehmen Sie sich Zeit für die üppigen Gärten.",
+            "hu": "Fedezze fel e történelmi kastély hatalmas birtokát és építészetét, amely helyi kulturális eseményeknek ad otthont, elegendő időt hagyva a buja, gondozott kertekben való sétára.",
+            "ro": "Explorați domeniul vast și arhitectura acestui castel istoric care găzduiește evenimente culturale locale, lăsând suficient timp pentru a vă plimba prin grădinile luxuriante și îngrijite.",
+            "en": "Explore the sprawling grounds and majestic architecture of this historic castle that hosts local cultural events, leaving enough time to wander through the lush, well-kept gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Théâtre de Tronjoly",
+            "hu": "Théâtre de Tronjoly",
+            "ro": "Théâtre de Tronjoly",
+            "en": "Théâtre de Tronjoly"
+          },
+          "coords": [
+            -3.608716,
+            48.143876
+          ],
+          "category": "cultural",
+          "arrive_at": "15:01",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Freiluft-Veranstaltungsort neben dem Schloss in die lokale Kunstszene ein und informieren Sie sich vorab über das Programm für faszinierende Nachmittagsvorstellungen.",
+            "hu": "Merüljön el a helyi előadóművészeti életben ezen a kastély melletti szabadtéri kulturális helyszínen, előre ellenőrizve a programjukat bármilyen lenyűgöző délutáni műsor kapcsán.",
+            "ro": "Pătrundeți în scena artelor spectacolului la această locație culturală în aer liber de lângă castel, verificând programul în avans pentru orice spectacole fascinante de după-amiază.",
+            "en": "Immerse yourself in the local performing arts scene at this open-air cultural venue right next to the château, checking their schedule in advance for any fascinating afternoon shows."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im spirituellen Herzen von Gourin an der zentralen Kirche und fahren Sie dann gemütlich zum malerischen See, um die friedliche Morgenatmosphäre zu genießen.\nAm Mittag können Sie mit dem Auto die weiter entfernten historischen Steinkapellen ansteuern, die verborgen in den Wäldern und auf den weiten Feldern der bretonischen Landschaft liegen.\nDer Nachmittag führt Sie zum beeindruckenden Johannes-Denkmal und schließlich zur Pracht von Tronjoly, wo Sie die herrlichen Schlossanlagen und das benachbarte Freilufttheater erkunden können.\nBeenden Sie Ihre bequeme Tour durch diese bretonische Perle, während das schwindende Licht die jahrhundertealte Architektur in warme, goldene Farbtöne taucht.",
+        "hu": "Kezdje a napot Gourin szellemi központjában a központi templomnál, majd tegyen egy rövid utat a festői tóhoz, hogy élvezze a békés reggeli atmoszférát.\nDélben autóval könnyedén elérheti a távolabbi történelmi kőkápolnákat is, amelyek a breton vidék kiterjedt erdeiben és mezőin bújnak meg, csendes áhítatot árasztva.\nA délután a lenyűgöző Keresztelő János emlékműhöz, majd Tronjoly nagyszerűségéhez vezeti Önt, ahol felfedezheti a kastély csodás kertjeit és a szomszédos szabadtéri színházat.\nZárja ezt a kényelmes utazást, miközben a lemenő nap fénye meleg, arany árnyalatokkal vonja be e breton városka évszázados építészetét.",
+        "ro": "Începeți ziua în inima spirituală a orașului Gourin la biserica centrală, apoi conduceți scurt până la lacul pitoresc pentru a vă bucura de atmosfera pașnică a dimineții.\nLa amiază, mașina vă permite să ajungeți cu ușurință la capelele istorice de piatră mai îndepărtate, ascunse în pădurile și câmpurile vaste ale peisajului breton.\nDupă-amiaza vă poartă spre impresionantul monument dedicat Sfântului Ioan, urmat de măreția domeniului Tronjoly, unde puteți explora grădinile castelului și teatrul în aer liber.\nÎncheiați acest tur confortabil pe măsură ce lumina difuză a apusului îmbracă arhitectura seculară a acestui oraș breton în nuanțe calde, aurii.",
+        "en": "Start your day in the spiritual heart of Gourin at the central church, then take a short drive to the scenic local lake to soak in the peaceful morning atmosphere.\nBy midday, your car allows you to easily reach the more distant historic stone chapels, tucked away in the woods and open fields of the picturesque Breton countryside.\nThe afternoon leads you to the striking Saint John monument, followed by the grandeur of Tronjoly, where you can explore the castle's beautiful grounds and adjacent open-air theatre.\nConclude this comfortable journey as the fading light coats the centuries-old architecture of this authentic Breton town in warm, golden hues."
+      }
+    }
+  }
+}

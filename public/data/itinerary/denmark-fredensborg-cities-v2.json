@@ -1,0 +1,474 @@
+{
+  "city_id": "denmark-fredensborg-cities-v2",
+  "anchor": {
+    "name": "Fredensborg",
+    "coords": [
+      12.4,
+      55.97
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:14",
+      "total_km": 3.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Asminderød Kirke",
+            "hu": "Asminderød Kirke",
+            "ro": "Biserica Asminderød",
+            "en": "Asminderød Kirke"
+          },
+          "coords": [
+            12.408314,
+            55.968454
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese schöne weiße Dorfkirche, um die klassische dänische Architektur zu bewundern, und prüfen Sie vorab die genauen Öffnungszeiten.",
+            "hu": "Látogassa meg ezt a gyönyörű fehér vidéki templomot a klasszikus dán építészetért, és előzetesen mindenképpen tájékozódjon a nyitvatartásról.",
+            "ro": "Vizitați această frumoasă biserică albă pentru a admira arhitectura clasică daneză și nu uitați să verificați în prealabil programul exact de vizitare.",
+            "en": "Visit this beautiful white country church to admire its classic Danish architecture and heritage, and don't forget to check the precise opening hours beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Fredensborg",
+            "hu": "Fredensborgi kastély",
+            "ro": "Palatul Fredensborg",
+            "en": "Fredensborg Palace"
+          },
+          "coords": [
+            12.395759,
+            55.982157
+          ],
+          "category": "castle",
+          "arrive_at": "10:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.75,
+          "tip_5lang": {
+            "de": "Erkunden Sie die weitläufige Frühlings- und Herbstresidenz der dänischen Königsfamilie und kommen Sie früh am Tag, um großen Touristengruppen auszuweichen.",
+            "hu": "Fedezze fel a dán királyi család tavaszi és őszi rezidenciáját, és érkezzen korán a nap folyamán, hogy elkerülje a legnagyobb turistacsoportokat a bejáratnál.",
+            "ro": "Explorați reședința de primăvară și toamnă a familiei regale daneze, asigurându-vă că ajungeți devreme pentru a evita cele mai mari grupuri de turiști.",
+            "en": "Explore the sprawling spring and autumn residence of the Danish royal family, making sure to arrive early in the day to avoid the largest tourist groups at the gates."
+          }
+        },
+        {
+          "name": {
+            "de": "Fredensborg Slotskirke",
+            "hu": "Fredensborg Slotskirke",
+            "ro": "Biserica Palatului Fredensborg",
+            "en": "Fredensborg Slotskirke"
+          },
+          "coords": [
+            12.396794,
+            55.982599
+          ],
+          "category": "religious",
+          "arrive_at": "11:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Betreten Sie diese elegante, von den Royals genutzte Schlosskirche, aber denken Sie daran, dass der Zugang begrenzt ist, buchen Sie also frühzeitig eine Führung.",
+            "hu": "Lépjen be a királyi család által használt elegáns kastélytemplomba, de ne feledje, hogy a belépés korlátozott, ezért érdemes időben vezetett túrát foglalni.",
+            "ro": "Pășiți în această elegantă biserică de palat folosită de membrii familiei regale, dar rețineți că accesul este limitat și necesită un tur ghidat rezervat.",
+            "en": "Step inside this elegant palace church used by the royals for special events, but remember that access is limited so try booking a guided tour of the complex."
+          }
+        },
+        {
+          "name": {
+            "de": "Nordmandsdalen",
+            "hu": "Nordmandsdalen",
+            "ro": "Nordmandsdalen",
+            "en": "Nordmandsdalen"
+          },
+          "coords": [
+            12.388037,
+            55.982729
+          ],
+          "category": "landmark",
+          "arrive_at": "12:46",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch das faszinierende Amphitheater aus klassischen Sandsteinstatuen von einfachen Leuten und bringen Sie Ihre Kamera für einmalige Perspektiven mit.",
+            "hu": "Sétáljon az egyszerű embereket ábrázoló homokkő szobrok lenyűgöző amfiteátrumában, és feltétlenül hozzon magával fényképezőgépet az egyedi emlékekért.",
+            "ro": "Plimbați-vă prin fascinantul amfiteatru de statui clasice din gresie care reprezintă oameni de rând și aduceți-vă aparatul foto pentru perspective unice.",
+            "en": "Walk among the fascinating amphitheater of classic sandstone statues representing ordinary people, and be sure to bring your camera for truly unique perspectives."
+          }
+        },
+        {
+          "name": {
+            "de": "Kovangsgården",
+            "hu": "Kovangsgården",
+            "ro": "Kovangsgården",
+            "en": "Kovangsgården"
+          },
+          "coords": [
+            12.394483,
+            55.98949
+          ],
+          "category": "historical",
+          "arrive_at": "13:24",
+          "stay_min": 110,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.86,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen gut erhaltenen historischen Bauernhof des traditionellen Landlebens und prüfen Sie die Tafeln auf saisonale Handwerksmärkte in der Nähe.",
+            "hu": "Fedezze fel ezt a jól megőrzött történelmi farmot, amely bemutatja a hagyományos vidéki életet, és keresse a helyi hirdetőtáblákon a szezonális piacokat.",
+            "ro": "Descoperiți această fermă istorică bine conservată pentru a vedea viața rurală tradițională și verificați panourile locale pentru târguri meșteșugărești.",
+            "en": "Discover this well-preserved historical farm to get a real glimpse of traditional rural life, checking local event boards beforehand for seasonal craft markets."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen an der Asminderød Kirke und genießen Sie das Erbe.\n\nMittags besuchen Sie das prachtvolle Schloss Fredensborg und seine Gärten.\n\nAm Nachmittag erkunden Sie die historische Slotskirke und die Statuen von Nordmandsdalen.\n\nBeenden Sie Ihre Tour am Kovangsgården und tauchen Sie in die lokale Geschichte ein.",
+        "hu": "Kezdje a reggelt az Asminderød Kirkénél, élvezve a gazdag helyi örökséget.\n\nDélben látogasson el a lenyűgöző Fredensborgi kastélyba és annak zöld kertjeibe.\n\nDélután fedezze fel a történelmi Slotskirke és a Nordmandsdalen lenyűgöző szobrait.\n\nZárja sétáját a Kovangsgården történelmi birtokánál, elmerülve a helyi múltban.",
+        "ro": "Începeți dimineața la Biserica Asminderød, bucurându-vă de moștenirea locală.\n\nLa prânz, vizitați magnificul Palat Fredensborg și grădinile sale spectaculoase.\n\nDupă-amiaza, explorați Slotskirke și sculpturile unice din zona Nordmandsdalen.\n\nÎncheiați plimbarea la Kovangsgården, descoperind fascinanta istorie tradițională.",
+        "en": "Start your morning at Asminderød Kirke, soaking in the area's local heritage.\n\nMidday takes you to the magnificent Fredensborg Palace and its beautiful gardens.\n\nIn the afternoon, explore the historic Slotskirke and the sculptures of Nordmandsdalen.\n\nConclude your walking tour at Kovangsgården, diving deep into regional history."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 7.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Grønholt Kirke",
+            "hu": "Grønholt Kirke",
+            "ro": "Biserica Grønholt",
+            "en": "Grønholt Kirke"
+          },
+          "coords": [
+            12.385145,
+            55.945733
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser charmanten mittelalterlichen Pfarrkirche, die die Landschaft prägt, und respektieren Sie die ruhige Atmosphäre bei aktiven Gottesdiensten.",
+            "hu": "Álljon meg ennél a bájos középkori plébániatemplomnál, amely csodálatosan kiegészíti a déli tájat, és tartsa tiszteletben a csendes légkört a misék alatt.",
+            "ro": "Opriți-vă la această fermecătoare biserică parohială medievală care completează frumos peisajul sudic și respectați liniștea în timpul slujbelor active.",
+            "en": "Stop by this charming medieval parish church that beautifully anchors the southern landscape, and always respect the quiet atmosphere during active services."
+          }
+        },
+        {
+          "name": {
+            "de": "Grønholt Motte",
+            "hu": "Grønholt motte",
+            "ro": "Grønholt motte",
+            "en": "Grønholt motte"
+          },
+          "coords": [
+            12.39007,
+            55.955104
+          ],
+          "category": "historical",
+          "arrive_at": "09:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.15,
+          "tip_5lang": {
+            "de": "Wandern Sie um diese historischen Erdwälle, die eine mittelalterliche Festung markieren, und tragen Sie festes Schuhwerk, da das Gelände oft uneben ist.",
+            "hu": "Járja be ezeket az ősi erődítményt jelző történelmi földműveket, és viseljen masszív cipőt, mivel a füves terep meglehetősen egyenetlen és nehézkes lehet.",
+            "ro": "Plimbați-vă în jurul acestor lucrări de pământ istorice care marchează o veche fortăreață medievală, purtând încălțăminte rezistentă pe terenul denivelat.",
+            "en": "Wander around these subtle historical earthworks that mark an old medieval fortress, wearing sturdy shoes since the terrain can be quite uneven and grassy."
+          }
+        },
+        {
+          "name": {
+            "de": "Asminderød Kirke",
+            "hu": "Asminderød Kirke",
+            "ro": "Biserica Asminderød",
+            "en": "Asminderød Kirke"
+          },
+          "coords": [
+            12.408314,
+            55.968454
+          ],
+          "category": "religious",
+          "arrive_at": "11:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.83,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese schöne weiße Dorfkirche, um die klassische dänische Architektur zu bewundern, und prüfen Sie vorab die genauen Öffnungszeiten.",
+            "hu": "Látogassa meg ezt a gyönyörű fehér vidéki templomot a klasszikus dán építészetért, és előzetesen mindenképpen tájékozódjon a nyitvatartásról.",
+            "ro": "Vizitați această frumoasă biserică albă pentru a admira arhitectura clasică daneză și nu uitați să verificați în prealabil programul exact de vizitare.",
+            "en": "Visit this beautiful white country church to admire its classic Danish architecture and heritage, and don't forget to check the precise opening hours beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Fredensborg",
+            "hu": "Fredensborgi kastély",
+            "ro": "Palatul Fredensborg",
+            "en": "Fredensborg Palace"
+          },
+          "coords": [
+            12.395759,
+            55.982157
+          ],
+          "category": "castle",
+          "arrive_at": "12:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.75,
+          "tip_5lang": {
+            "de": "Erkunden Sie die weitläufige Frühlings- und Herbstresidenz der dänischen Königsfamilie und kommen Sie früh am Tag, um großen Touristengruppen auszuweichen.",
+            "hu": "Fedezze fel a dán királyi család tavaszi és őszi rezidenciáját, és érkezzen korán a nap folyamán, hogy elkerülje a legnagyobb turistacsoportokat a bejáratnál.",
+            "ro": "Explorați reședința de primăvară și toamnă a familiei regale daneze, asigurându-vă că ajungeți devreme pentru a evita cele mai mari grupuri de turiști.",
+            "en": "Explore the sprawling spring and autumn residence of the Danish royal family, making sure to arrive early in the day to avoid the largest tourist groups at the gates."
+          }
+        },
+        {
+          "name": {
+            "de": "Nordmandsdalen",
+            "hu": "Nordmandsdalen",
+            "ro": "Nordmandsdalen",
+            "en": "Nordmandsdalen"
+          },
+          "coords": [
+            12.388037,
+            55.982729
+          ],
+          "category": "landmark",
+          "arrive_at": "13:58",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch das faszinierende Amphitheater aus klassischen Sandsteinstatuen von einfachen Leuten und bringen Sie Ihre Kamera für einmalige Perspektiven mit.",
+            "hu": "Sétáljon az egyszerű embereket ábrázoló homokkő szobrok lenyűgöző amfiteátrumában, és feltétlenül hozzon magával fényképezőgépet az egyedi emlékekért.",
+            "ro": "Plimbați-vă prin fascinantul amfiteatru de statui clasice din gresie care reprezintă oameni de rând și aduceți-vă aparatul foto pentru perspective unice.",
+            "en": "Walk among the fascinating amphitheater of classic sandstone statues representing ordinary people, and be sure to bring your camera for truly unique perspectives."
+          }
+        },
+        {
+          "name": {
+            "de": "Falkonergården",
+            "hu": "Falkonergården",
+            "ro": "Falkonergården",
+            "en": "Falkonergården"
+          },
+          "coords": [
+            12.422763,
+            55.986933
+          ],
+          "category": "museum",
+          "arrive_at": "14:35",
+          "stay_min": 130,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.15,
+          "tip_5lang": {
+            "de": "Erleben Sie unglaubliche Live-Vorführungen von Greifvögeln in diesem einzigartigen Museum und buchen Sie Ihre Tickets online lange im Voraus.",
+            "hu": "Tapasztalja meg a lenyűgöző ragadozómadár-bemutatókat ebben az egyedülálló múzeumban, és jó előre foglalja le jegyeit az interneten a biztos helyért.",
+            "ro": "Experimentați demonstrații incredibile cu păsări de pradă la acest muzeu unic, rezervându-vă biletele online din timp pentru a vă asigura locul perfect.",
+            "en": "Experience incredible live demonstrations of birds of prey at this unique living museum, booking your tickets online well in advance to secure your spot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie an der Grønholt Kirke und erkunden Sie die historischen Ruinen der Grønholt Motte.\n\nRadeln Sie mittags zur Asminderød Kirke und zum beeindruckenden Schloss Fredensborg.\n\nVerbringen Sie den Nachmittag bei den faszinierenden architektonischen Statuen in Nordmandsdalen.\n\nBeenden Sie den Tag im Falkonergården mit seinen unglaublichen Vogelausstellungen.",
+        "hu": "Indítsa a tekerést a Grønholt Kirkénél és a helyi történelmi motte régi romjainál.\n\nDélben tekerjen az Asminderød Kirke és a lenyűgöző királyi Fredensborgi kastély felé.\n\nDélután csodálja meg a Nordmandsdalen különleges és hihetetlenül művészi kőszobrait.\n\nFejezze be az aktív napot a Falkonergården lenyűgöző madárkiállításainak otthonában.",
+        "ro": "Începeți traseul la Biserica Grønholt și la vechile ruine istorice ale fortăreței.\n\nLa prânz, pedalați spre Biserica Asminderød și elegantul, spectaculosul Palat Fredensborg.\n\nPetreceți după-amiaza admirând statuile fascinante din frumosul și pitorescul Nordmandsdalen.\n\nÎncheiați ziua activă la Falkonergården cu expozițiile sale incredibile de păsări.",
+        "en": "Start cycling at Grønholt Kirke and the historic, subtle ruins of the Grønholt motte.\n\nPedal north at midday to Asminderød Kirke and the grand, royal Fredensborg Palace.\n\nSpend your afternoon admiring the fascinating statues located at beautiful Nordmandsdalen.\n\nFinish the active day at Falkonergården with its incredible birds of prey exhibitions."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 11.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Stenholt Fuglereservat",
+            "hu": "Stenholt Fuglereservat",
+            "ro": "Rezervația de păsări Stenholt",
+            "en": "Stenholt Fuglereservat"
+          },
+          "coords": [
+            12.353531,
+            55.967255
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang in diesem geschützten Naturschutzgebiet voller Vogelarten und packen Sie ein Fernglas ein, um seltene Tiere zu erspähen.",
+            "hu": "Élvezze a békés sétát ebben a madárvilágban gazdag, védett természeti rezervátumban, és hozzon távcsövet a vizes élőhelyek ritka fajainak megfigyeléséhez.",
+            "ro": "Bucurați-vă de o plimbare pașnică în această rezervație naturală protejată, plină de păsări, și luați binoclul pentru a observa speciile rare ascunse.",
+            "en": "Enjoy a peaceful walk in this protected natural reserve teeming with local birdlife, and pack binoculars to spot rare winged species hidden in the wetlands."
+          }
+        },
+        {
+          "name": {
+            "de": "Grønholt Kirke",
+            "hu": "Grønholt Kirke",
+            "ro": "Biserica Grønholt",
+            "en": "Grønholt Kirke"
+          },
+          "coords": [
+            12.385145,
+            55.945733
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.16,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser charmanten mittelalterlichen Pfarrkirche, die die Landschaft prägt, und respektieren Sie die ruhige Atmosphäre bei aktiven Gottesdiensten.",
+            "hu": "Álljon meg ennél a bájos középkori plébániatemplomnál, amely csodálatosan kiegészíti a déli tájat, és tartsa tiszteletben a csendes légkört a misék alatt.",
+            "ro": "Opriți-vă la această fermecătoare biserică parohială medievală care completează frumos peisajul sudic și respectați liniștea în timpul slujbelor active.",
+            "en": "Stop by this charming medieval parish church that beautifully anchors the southern landscape, and always respect the quiet atmosphere during active services."
+          }
+        },
+        {
+          "name": {
+            "de": "Grønholt Motte",
+            "hu": "Grønholt motte",
+            "ro": "Grønholt motte",
+            "en": "Grønholt motte"
+          },
+          "coords": [
+            12.39007,
+            55.955104
+          ],
+          "category": "historical",
+          "arrive_at": "11:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.15,
+          "tip_5lang": {
+            "de": "Wandern Sie um diese historischen Erdwälle, die eine mittelalterliche Festung markieren, und tragen Sie festes Schuhwerk, da das Gelände oft uneben ist.",
+            "hu": "Járja be ezeket az ősi erődítményt jelző történelmi földműveket, és viseljen masszív cipőt, mivel a füves terep meglehetősen egyenetlen és nehézkes lehet.",
+            "ro": "Plimbați-vă în jurul acestor lucrări de pământ istorice care marchează o veche fortăreață medievală, purtând încălțăminte rezistentă pe terenul denivelat.",
+            "en": "Wander around these subtle historical earthworks that mark an old medieval fortress, wearing sturdy shoes since the terrain can be quite uneven and grassy."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Fredensborg",
+            "hu": "Fredensborgi kastély",
+            "ro": "Palatul Fredensborg",
+            "en": "Fredensborg Palace"
+          },
+          "coords": [
+            12.395759,
+            55.982157
+          ],
+          "category": "castle",
+          "arrive_at": "12:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.01,
+          "tip_5lang": {
+            "de": "Erkunden Sie die weitläufige Frühlings- und Herbstresidenz der dänischen Königsfamilie und kommen Sie früh am Tag, um großen Touristengruppen auszuweichen.",
+            "hu": "Fedezze fel a dán királyi család tavaszi és őszi rezidenciáját, és érkezzen korán a nap folyamán, hogy elkerülje a legnagyobb turistacsoportokat a bejáratnál.",
+            "ro": "Explorați reședința de primăvară și toamnă a familiei regale daneze, asigurându-vă că ajungeți devreme pentru a evita cele mai mari grupuri de turiști.",
+            "en": "Explore the sprawling spring and autumn residence of the Danish royal family, making sure to arrive early in the day to avoid the largest tourist groups at the gates."
+          }
+        },
+        {
+          "name": {
+            "de": "Nordmandsdalen",
+            "hu": "Nordmandsdalen",
+            "ro": "Nordmandsdalen",
+            "en": "Nordmandsdalen"
+          },
+          "coords": [
+            12.388037,
+            55.982729
+          ],
+          "category": "landmark",
+          "arrive_at": "14:21",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch das faszinierende Amphitheater aus klassischen Sandsteinstatuen von einfachen Leuten und bringen Sie Ihre Kamera für einmalige Perspektiven mit.",
+            "hu": "Sétáljon az egyszerű embereket ábrázoló homokkő szobrok lenyűgöző amfiteátrumában, és feltétlenül hozzon magával fényképezőgépet az egyedi emlékekért.",
+            "ro": "Plimbați-vă prin fascinantul amfiteatru de statui clasice din gresie care reprezintă oameni de rând și aduceți-vă aparatul foto pentru perspective unice.",
+            "en": "Walk among the fascinating amphitheater of classic sandstone statues representing ordinary people, and be sure to bring your camera for truly unique perspectives."
+          }
+        },
+        {
+          "name": {
+            "de": "Falkonergården",
+            "hu": "Falkonergården",
+            "ro": "Falkonergården",
+            "en": "Falkonergården"
+          },
+          "coords": [
+            12.422763,
+            55.986933
+          ],
+          "category": "museum",
+          "arrive_at": "14:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.15,
+          "tip_5lang": {
+            "de": "Erleben Sie unglaubliche Live-Vorführungen von Greifvögeln in diesem einzigartigen Museum und buchen Sie Ihre Tickets online lange im Voraus.",
+            "hu": "Tapasztalja meg a lenyűgöző ragadozómadár-bemutatókat ebben az egyedülálló múzeumban, és jó előre foglalja le jegyeit az interneten a biztos helyért.",
+            "ro": "Experimentați demonstrații incredibile cu păsări de pradă la acest muzeu unic, rezervându-vă biletele online din timp pentru a vă asigura locul perfect.",
+            "en": "Experience incredible live demonstrations of birds of prey at this unique living museum, booking your tickets online well in advance to secure your spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kovangsgården",
+            "hu": "Kovangsgården",
+            "ro": "Kovangsgården",
+            "en": "Kovangsgården"
+          },
+          "coords": [
+            12.394483,
+            55.98949
+          ],
+          "category": "historical",
+          "arrive_at": "16:35",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.76,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen gut erhaltenen historischen Bauernhof des traditionellen Landlebens und prüfen Sie die Tafeln auf saisonale Handwerksmärkte in der Nähe.",
+            "hu": "Fedezze fel ezt a jól megőrzött történelmi farmot, amely bemutatja a hagyományos vidéki életet, és keresse a helyi hirdetőtáblákon a szezonális piacokat.",
+            "ro": "Descoperiți această fermă istorică bine conservată pentru a vedea viața rurală tradițională și verificați panourile locale pentru târguri meșteșugărești.",
+            "en": "Discover this well-preserved historical farm to get a real glimpse of traditional rural life, checking local event boards beforehand for seasonal craft markets."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt am schönen Stenholt Fuglereservat und der historischen Grønholt Kirke.\n\nMittags erkunden Sie die alte Motte und das berühmte, gewaltige Schloss Fredensborg.\n\nDer Nachmittag führt Sie in Ruhe nach Nordmandsdalen und zum tollen Museum Falkonergården.\n\nBeenden Sie Ihren Roadtrip am Kovangsgården und tauchen Sie in die alte Geschichte ein.",
+        "hu": "Kezdje útját a békés Stenholt Fuglereservatnál és a varázslatos szépségű Grønholt Kirkénél.\n\nDélben fedezze fel a középkori romokat és a fenséges, hatalmas Fredensborgi kastélyt.\n\nA délután a Nordmandsdalen és a lenyűgöző Falkonergården kiváló múzeumához vezet tovább.\n\nZárja az autós kirándulást a Kovangsgården birtokán, elmerülve a gazdag helyi múltban.",
+        "ro": "Începeți plimbarea la frumoasa rezervație de păsări Stenholt și fascinanta Biserică Grønholt.\n\nLa prânz, explorați ruina medievală de pământ și impresionantul, vastul Palat Fredensborg.\n\nDupă-amiaza vă aduce la Nordmandsdalen și la uimitorul, educativul muzeu Falkonergården.\n\nÎncheiați călătoria la Kovangsgården, descoperind interesanta istorie arhitecturală locală.",
+        "en": "Kick off your drive at the serene Stenholt Fuglereservat and the beautiful Grønholt Kirke.\n\nBy midday, explore the medieval motte earthworks and the grand, royal Fredensborg Palace.\n\nThe afternoon brings you to Nordmandsdalen and the fascinating Falkonergården museum.\n\nWrap up your scenic road trip at Kovangsgården, diving deep into local architectural history."
+      }
+    }
+  }
+}

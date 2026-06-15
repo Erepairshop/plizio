@@ -1,0 +1,474 @@
+{
+  "city_id": "louviers",
+  "anchor": {
+    "name": "Louviers",
+    "coords": [
+      1.1656,
+      49.2153
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:41",
+      "total_km": 1.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Louviers Museum",
+            "hu": "Louviers Museum",
+            "ro": "Louviers Museum",
+            "en": "Louviers Museum"
+          },
+          "coords": [
+            1.16856,
+            49.2147
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Industriegeschichte von Louviers anhand der beeindruckenden Textilsammlungen und beginnen Sie Ihren Rundgang im obersten Stockwerk für das beste Licht.",
+            "hu": "Fedezze fel Louviers gazdag ipartörténetét a lenyűgöző textilgyűjteményeken keresztül, és a legjobb fényviszonyok érdekében kezdje a látogatást a legfelső emeleten.",
+            "ro": "Descoperiți istoria industrială bogată a orașului Louviers prin colecțiile sale de textile și începeți vizita la ultimul etaj pentru a beneficia de cea mai bună lumină.",
+            "en": "Explore the rich industrial history of Louviers through its impressive textile collections, and start your visit on the top floor where the natural lighting is best."
+          }
+        },
+        {
+          "name": {
+            "de": "Cloître des Pénitents",
+            "hu": "Cloître des Pénitents",
+            "ro": "Cloître des Pénitents",
+            "en": "Cloître des Pénitents"
+          },
+          "coords": [
+            1.17185,
+            49.2127
+          ],
+          "category": "monastic",
+          "arrive_at": "10:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses seltenen über der Eure schwebenden Franziskanerklosters und machen Sie für eine einzigartige Perspektive Fotos von der angrenzenden Brücke.",
+            "hu": "Csodálja meg a ritka, Eure folyó fölé nyúló ferences kolostor lenyűgöző építészetét, és a legkülönlegesebb perspektíváért készítsen fotókat a szomszédos hídról.",
+            "ro": "Admirați arhitectura impresionantă a acestei rare mănăstiri suspendate deasupra râului Eure și faceți fotografii de pe podul alăturat pentru o perspectivă unică.",
+            "en": "Admire the striking architecture of this rare Franciscan cloister suspended over the Eure river, and be sure to capture photos from the adjacent bridge for a unique perspective."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle de l'hôpital Saint-Jean",
+            "hu": "Chapelle de l'hôpital Saint-Jean",
+            "ro": "Chapelle de l'hôpital Saint-Jean",
+            "en": "Chapelle de l'hôpital Saint-Jean"
+          },
+          "coords": [
+            1.175153,
+            49.211268
+          ],
+          "category": "religious",
+          "arrive_at": "12:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betreten Sie diese wunderschön erhaltene Kapelle, um ihre historischen Buntglasfenster zu bewundern, wobei Sie beachten sollten, dass der Zugang meist über den Haupthof erfolgt.",
+            "hu": "Lépjen be ebbe a gyönyörűen megőrzött kápolnába, hogy megcsodálja történelmi ólomüveg ablakait, szem előtt tartva, hogy a bejárat általában a kórház főudvaráról nyílik.",
+            "ro": "Pășiți în această capelă frumos conservată pentru a-i aprecia vitraliile istorice, ținând cont că intrarea se face de obicei prin curtea principală a spitalului.",
+            "en": "Step inside this beautifully preserved chapel to appreciate its historic stained glass windows, keeping in mind that entry is usually through the main hospital courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Caseo",
+            "hu": "Caseo",
+            "ro": "Caseo",
+            "en": "Caseo"
+          },
+          "coords": [
+            1.178455,
+            49.212125
+          ],
+          "category": "family",
+          "arrive_at": "13:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie eine erfrischende Pause in diesem modernen Wasserfreizeitzentrum für Familien, aber denken Sie an eine Badekappe, da diese für den Eintritt obligatorisch ist.",
+            "hu": "Élvezze a frissítő pihenést ebben a modern, családoknak tervezett vízi központban, de ne felejtsen el úszósapkát hozni, mivel az a belépéshez kötelező.",
+            "ro": "Bucurați-vă de o pauză răcoroasă la acest centru acvatic modern destinat familiilor, dar nu uitați să aduceți o cască de înot, deoarece este obligatorie pentru intrare.",
+            "en": "Enjoy a refreshing break at this modern aquatic and leisure center designed for families, but remember to bring a proper swimming cap as it is mandatory for entry."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Germain",
+            "hu": "Église Saint-Germain",
+            "ro": "Église Saint-Germain",
+            "en": "Église Saint-Germain"
+          },
+          "coords": [
+            1.172126,
+            49.220318
+          ],
+          "category": "religious",
+          "arrive_at": "14:31",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die zarten Details der Flamboyant-Gotik in dieser Pfarrkirche und nehmen Sie sich einen Moment Zeit, um die kunstvollen Steinmetzarbeiten am Südportal zu betrachten.",
+            "hu": "Csodálja meg a plébániatemplom lángoló gótikus részleteit, és szánjon egy kis időt a déli portál körüli bonyolult kőfaragások alaposabb megvizsgálására.",
+            "ro": "Minunați-vă de detaliile gotice flamboaiante ale acestei biserici parohiale, luându-vă un moment pentru a examina sculpturile complicate din piatră din jurul portalului sudic.",
+            "en": "Marvel at the delicate flamboyant Gothic details of this parish church, taking a moment to examine the intricate stone carvings around the southern portal."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der Entdeckung des textilen Industrieerbes im örtlichen Museum. Gegen Mittag überqueren Sie den Fluss, um die seltene Architektur des Franziskanerklosters zu bewundern. Verbringen Sie den Nachmittag damit, die Fenster der Krankenhauskapelle zu bewundern und im modernen Wasserzentrum zu entspannen. Am Abend genießen Sie die friedliche Atmosphäre um die Pfarrkirche.",
+        "hu": "Kezdje a reggelt a helyi múzeum textilipari örökségének felfedezésével. Ahogy közeledik a dél, sétáljon a folyó felé, hogy megcsodálja a ferences kolostor ritka építészetét. A délutánt töltse a kórházi kápolna ablakainak megcsodálásával és a modern vízi központban való pihenéssel. Ahogy leszáll az est, élvezze a történelmi plébániatemplom körüli békés hangulatot.",
+        "ro": "Începeți dimineața descoperind moștenirea industrială textilă la muzeul local. Pe măsură ce se apropie prânzul, traversați spre râu pentru a admira arhitectura rară a mănăstirii franciscane. Petreceți după-amiaza admirând vitraliile capelei spitalului și relaxându-vă la centrul acvatic modern. Pe măsură ce se lasă seara, bucurați-vă de atmosfera pașnică din jurul bisericii parohiale.",
+        "en": "Start your morning by discovering the industrial textile heritage at the local museum. As midday approaches, cross towards the river to marvel at the rare architecture of the Franciscan cloister. Spend your afternoon admiring the intricate windows of the hospital chapel and relaxing at the modern aquatic center. As evening falls, enjoy the peaceful ambiance around the historic parish church."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:16",
+      "total_km": 5.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Notre-Dame",
+            "hu": "Église Notre-Dame",
+            "ro": "Église Notre-Dame",
+            "en": "Église Notre-Dame"
+          },
+          "coords": [
+            1.148715,
+            49.199452
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die prächtige Architektur der Flamboyant-Gotik dieser ikonischen Kirche, wo ein kurzer Spaziergang um das südliche Portal ihre beeindruckendsten Skulpturen offenbart.",
+            "hu": "Gyönyörködjön ezen ikonikus templom csodálatos lángoló gótikus építészetében, ahol a lenyűgöző déli tornác körüli séta felfedi annak leglenyűgözőbb szobrait.",
+            "ro": "Admirați arhitectura gotică flamboaiantă a acestei biserici emblematice, unde o scurtă plimbare în jurul verandei sudice dezvăluie cele mai impresionante sculpturi ale sale.",
+            "en": "Take in the magnificent flamboyant Gothic architecture of this iconic church, where a quick walk around the stunning southern porch reveals its most impressive sculptures."
+          }
+        },
+        {
+          "name": {
+            "de": "Château Saint-Hilaire",
+            "hu": "Château Saint-Hilaire",
+            "ro": "Château Saint-Hilaire",
+            "en": "Château Saint-Hilaire"
+          },
+          "coords": [
+            1.170961,
+            49.202629
+          ],
+          "category": "castle",
+          "arrive_at": "09:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Gelände und die eleganten Fassaden dieses örtlichen Schlosses und planen Sie Ihren Besuch für den Vormittag, wenn das natürliche Licht die Mauern schön beleuchtet.",
+            "hu": "Fedezze fel e helyi kastély történelmi területét és elegáns homlokzatait, és időzítse a látogatást a délelőtti órákra, amikor a természetes fény gyönyörűen megvilágítja a régi kőfalakat.",
+            "ro": "Explorați terenurile istorice și fațadele elegante ale acestui castel local, programându-vă vizita dimineața, când lumina naturală luminează frumos vechile ziduri de piatră.",
+            "en": "Explore the historic grounds and elegant facades of this local château, timing your visit for mid-morning when the natural light beautifully illuminates the old stone walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Louviers Museum",
+            "hu": "Louviers Museum",
+            "ro": "Louviers Museum",
+            "en": "Louviers Museum"
+          },
+          "coords": [
+            1.16856,
+            49.2147
+          ],
+          "category": "museum",
+          "arrive_at": "11:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Industriegeschichte von Louviers anhand der beeindruckenden Textilsammlungen und beginnen Sie Ihren Rundgang im obersten Stockwerk für das beste Licht.",
+            "hu": "Fedezze fel Louviers gazdag ipartörténetét a lenyűgöző textilgyűjteményeken keresztül, és a legjobb fényviszonyok érdekében kezdje a látogatást a legfelső emeleten.",
+            "ro": "Descoperiți istoria industrială bogată a orașului Louviers prin colecțiile sale de textile și începeți vizita la ultimul etaj pentru a beneficia de cea mai bună lumină.",
+            "en": "Explore the rich industrial history of Louviers through its impressive textile collections, and start your visit on the top floor where the natural lighting is best."
+          }
+        },
+        {
+          "name": {
+            "de": "Cloître des Pénitents",
+            "hu": "Cloître des Pénitents",
+            "ro": "Cloître des Pénitents",
+            "en": "Cloître des Pénitents"
+          },
+          "coords": [
+            1.17185,
+            49.2127
+          ],
+          "category": "monastic",
+          "arrive_at": "13:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses seltenen über der Eure schwebenden Franziskanerklosters und machen Sie für eine einzigartige Perspektive Fotos von der angrenzenden Brücke.",
+            "hu": "Csodálja meg a ritka, Eure folyó fölé nyúló ferences kolostor lenyűgöző építészetét, és a legkülönlegesebb perspektíváért készítsen fotókat a szomszédos hídról.",
+            "ro": "Admirați arhitectura impresionantă a acestei rare mănăstiri suspendate deasupra râului Eure și faceți fotografii de pe podul alăturat pentru o perspectivă unică.",
+            "en": "Admire the striking architecture of this rare Franciscan cloister suspended over the Eure river, and be sure to capture photos from the adjacent bridge for a unique perspective."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Germain",
+            "hu": "Église Saint-Germain",
+            "ro": "Église Saint-Germain",
+            "en": "Église Saint-Germain"
+          },
+          "coords": [
+            1.172126,
+            49.220318
+          ],
+          "category": "religious",
+          "arrive_at": "14:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die zarten Details der Flamboyant-Gotik in dieser Pfarrkirche und nehmen Sie sich einen Moment Zeit, um die kunstvollen Steinmetzarbeiten am Südportal zu betrachten.",
+            "hu": "Csodálja meg a plébániatemplom lángoló gótikus részleteit, és szánjon egy kis időt a déli portál körüli bonyolult kőfaragások alaposabb megvizsgálására.",
+            "ro": "Minunați-vă de detaliile gotice flamboaiante ale acestei biserici parohiale, luându-vă un moment pentru a examina sculpturile complicate din piatră din jurul portalului sudic.",
+            "en": "Marvel at the delicate flamboyant Gothic details of this parish church, taking a moment to examine the intricate stone carvings around the southern portal."
+          }
+        },
+        {
+          "name": {
+            "de": "Source d'eau chaude d'Incarville",
+            "hu": "Source d'eau chaude d'Incarville",
+            "ro": "Source d'eau chaude d'Incarville",
+            "en": "Source d'eau chaude d'Incarville"
+          },
+          "coords": [
+            1.180808,
+            49.23463
+          ],
+          "category": "landmark",
+          "arrive_at": "15:21",
+          "stay_min": 55,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese kuriose geothermische Quelle, die Besucher das ganze Jahr über mit ihrem erwärmten Wasser überrascht, aber tragen Sie wasserdichte Schuhe, da der Boden schlammig sein kann.",
+            "hu": "Fedezze fel ezt a különös geotermikus hőforrást, amely egész évben meglepi a látogatókat természetes meleg vizével, de viseljen vízálló cipőt, mert a talaj sáros lehet.",
+            "ro": "Descoperiți acest izvor geotermal curios care surprinde vizitatorii cu apele sale încălzite natural, dar purtați încălțăminte impermeabilă deoarece solul poate fi noroios.",
+            "en": "Discover this curious geothermal warm spring that surprises visitors with its naturally heated waters year-round, but wear sturdy waterproof shoes as the ground can be muddy."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Fahrradabenteuer beginnt an der atemberaubenden gotischen Notre-Dame-Kirche. Am späten Vormittag radeln Sie zum eleganten Gelände des örtlichen Schlosses und zum informativen Stadtmuseum. Der Nachmittag führt Sie am Fluss entlang zum Kloster und zur historischen Kirche Saint-Germain. Beenden Sie den Tag mit einer Fahrt nach Norden zu einer natürlich beheizten geothermischen Quelle.",
+        "hu": "Kerékpáros kalandja a lenyűgöző lángoló gótikus Notre-Dame templomnál kezdődik. Késő délelőtt tekerjen a helyi kastély elegáns birtoka és a múzeum felé. A délután a folyó mentén a kolostorhoz és a történelmi Saint-Germain templomhoz vezet. Zárja a napot egy északi úttal, hogy a naplemente fényében megcsodálhasson egy természetes fűtésű geotermikus forrást.",
+        "ro": "Aventura cu bicicleta începe la uimitoarea biserică gotică Notre-Dame. Până dimineața târziu, pedalați spre terenurile elegante ale castelului local și muzeul orașului. După-amiaza vă poartă de-a lungul râului către mănăstire și biserica istorică Saint-Germain. Încheiați ziua cu o plimbare spre nord pentru a admira un izvor geotermal încălzit natural, în timp ce soarele apune.",
+        "en": "Your cycling adventure begins at the stunning flamboyant Gothic Notre-Dame church. By late morning, pedal your way towards the elegant grounds of the local château and the informative town museum. The afternoon takes you along the river to the cloister and the historic Saint-Germain church. Finish the day with a ride north to marvel at a naturally heated geothermal spring as the sun sets."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 6.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Notre-Dame",
+            "hu": "Église Notre-Dame",
+            "ro": "Église Notre-Dame",
+            "en": "Église Notre-Dame"
+          },
+          "coords": [
+            1.148715,
+            49.199452
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die prächtige Architektur der Flamboyant-Gotik dieser ikonischen Kirche, wo ein kurzer Spaziergang um das südliche Portal ihre beeindruckendsten Skulpturen offenbart.",
+            "hu": "Gyönyörködjön ezen ikonikus templom csodálatos lángoló gótikus építészetében, ahol a lenyűgöző déli tornác körüli séta felfedi annak leglenyűgözőbb szobrait.",
+            "ro": "Admirați arhitectura gotică flamboaiantă a acestei biserici emblematice, unde o scurtă plimbare în jurul verandei sudice dezvăluie cele mai impresionante sculpturi ale sale.",
+            "en": "Take in the magnificent flamboyant Gothic architecture of this iconic church, where a quick walk around the stunning southern porch reveals its most impressive sculptures."
+          }
+        },
+        {
+          "name": {
+            "de": "Château Saint-Hilaire",
+            "hu": "Château Saint-Hilaire",
+            "ro": "Château Saint-Hilaire",
+            "en": "Château Saint-Hilaire"
+          },
+          "coords": [
+            1.170961,
+            49.202629
+          ],
+          "category": "castle",
+          "arrive_at": "09:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Gelände und die eleganten Fassaden dieses örtlichen Schlosses und planen Sie Ihren Besuch für den Vormittag, wenn das natürliche Licht die Mauern schön beleuchtet.",
+            "hu": "Fedezze fel e helyi kastély történelmi területét és elegáns homlokzatait, és időzítse a látogatást a délelőtti órákra, amikor a természetes fény gyönyörűen megvilágítja a régi kőfalakat.",
+            "ro": "Explorați terenurile istorice și fațadele elegante ale acestui castel local, programându-vă vizita dimineața, când lumina naturală luminează frumos vechile ziduri de piatră.",
+            "en": "Explore the historic grounds and elegant facades of this local château, timing your visit for mid-morning when the natural light beautifully illuminates the old stone walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Louviers Museum",
+            "hu": "Louviers Museum",
+            "ro": "Louviers Museum",
+            "en": "Louviers Museum"
+          },
+          "coords": [
+            1.16856,
+            49.2147
+          ],
+          "category": "museum",
+          "arrive_at": "11:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Industriegeschichte von Louviers anhand der beeindruckenden Textilsammlungen und beginnen Sie Ihren Rundgang im obersten Stockwerk für das beste Licht.",
+            "hu": "Fedezze fel Louviers gazdag ipartörténetét a lenyűgöző textilgyűjteményeken keresztül, és a legjobb fényviszonyok érdekében kezdje a látogatást a legfelső emeleten.",
+            "ro": "Descoperiți istoria industrială bogată a orașului Louviers prin colecțiile sale de textile și începeți vizita la ultimul etaj pentru a beneficia de cea mai bună lumină.",
+            "en": "Explore the rich industrial history of Louviers through its impressive textile collections, and start your visit on the top floor where the natural lighting is best."
+          }
+        },
+        {
+          "name": {
+            "de": "Cloître des Pénitents",
+            "hu": "Cloître des Pénitents",
+            "ro": "Cloître des Pénitents",
+            "en": "Cloître des Pénitents"
+          },
+          "coords": [
+            1.17185,
+            49.2127
+          ],
+          "category": "monastic",
+          "arrive_at": "12:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses seltenen über der Eure schwebenden Franziskanerklosters und machen Sie für eine einzigartige Perspektive Fotos von der angrenzenden Brücke.",
+            "hu": "Csodálja meg a ritka, Eure folyó fölé nyúló ferences kolostor lenyűgöző építészetét, és a legkülönlegesebb perspektíváért készítsen fotókat a szomszédos hídról.",
+            "ro": "Admirați arhitectura impresionantă a acestei rare mănăstiri suspendate deasupra râului Eure și faceți fotografii de pe podul alăturat pentru o perspectivă unică.",
+            "en": "Admire the striking architecture of this rare Franciscan cloister suspended over the Eure river, and be sure to capture photos from the adjacent bridge for a unique perspective."
+          }
+        },
+        {
+          "name": {
+            "de": "Caseo",
+            "hu": "Caseo",
+            "ro": "Caseo",
+            "en": "Caseo"
+          },
+          "coords": [
+            1.178455,
+            49.212125
+          ],
+          "category": "family",
+          "arrive_at": "14:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie eine erfrischende Pause in diesem modernen Wasserfreizeitzentrum für Familien, aber denken Sie an eine Badekappe, da diese für den Eintritt obligatorisch ist.",
+            "hu": "Élvezze a frissítő pihenést ebben a modern, családoknak tervezett vízi központban, de ne felejtsen el úszósapkát hozni, mivel az a belépéshez kötelező.",
+            "ro": "Bucurați-vă de o pauză răcoroasă la acest centru acvatic modern destinat familiilor, dar nu uitați să aduceți o cască de înot, deoarece este obligatorie pentru intrare.",
+            "en": "Enjoy a refreshing break at this modern aquatic and leisure center designed for families, but remember to bring a proper swimming cap as it is mandatory for entry."
+          }
+        },
+        {
+          "name": {
+            "de": "Source d'eau chaude d'Incarville",
+            "hu": "Source d'eau chaude d'Incarville",
+            "ro": "Source d'eau chaude d'Incarville",
+            "en": "Source d'eau chaude d'Incarville"
+          },
+          "coords": [
+            1.180808,
+            49.23463
+          ],
+          "category": "landmark",
+          "arrive_at": "15:39",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese kuriose geothermische Quelle, die Besucher das ganze Jahr über mit ihrem erwärmten Wasser überrascht, aber tragen Sie wasserdichte Schuhe, da der Boden schlammig sein kann.",
+            "hu": "Fedezze fel ezt a különös geotermikus hőforrást, amely egész évben meglepi a látogatókat természetes meleg vizével, de viseljen vízálló cipőt, mert a talaj sáros lehet.",
+            "ro": "Descoperiți acest izvor geotermal curios care surprinde vizitatorii cu apele sale încălzite natural, dar purtați încălțăminte impermeabilă deoarece solul poate fi noroios.",
+            "en": "Discover this curious geothermal warm spring that surprises visitors with its naturally heated waters year-round, but wear sturdy waterproof shoes as the ground can be muddy."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            1.179371,
+            49.235148
+          ],
+          "category": "religious",
+          "arrive_at": "16:05",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Ausflug an dieser friedlichen Kirche, um ihre ruhige Atmosphäre zu genießen, und prüfen Sie das lokale Schwarze Brett auf die Termine gelegentlicher intimer Konzerte.",
+            "hu": "Zárja kirándulását ennél a békés templomnál, hogy megtapasztalja a nyugodt légkört, és ellenőrizze a kinti hirdetőtáblán az alkalmankénti meghitt koncertek menetrendjét.",
+            "ro": "Încheiați-vă călătoria la această biserică senină pentru a experimenta atmosfera sa pașnică, verificând panoul local de afară pentru programul concertelor intime ocazionale.",
+            "en": "Conclude your trip at this serene church to experience its peaceful atmosphere, checking the local bulletin board outside for the schedule of occasional intimate concerts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Roadtrip mit der Bewunderung der majestätischen Skulpturen der Notre-Dame. Mittags erreichen Sie die prächtigen Fassaden des Château Saint-Hilaire und das Hauptmuseum. Erkunden Sie am Nachmittag das schwebende Franziskanerkloster und das Familien-Erlebnisbad. Wenn die Dämmerung hereinbricht, fahren Sie nach Norden, um die dampfende warme Quelle und Saint-Pierre zu sehen.",
+        "hu": "Kezdje autós utazását a Notre-Dame déli tornácán található fenséges szobrok megcsodálásával. A dél a Château Saint-Hilaire grandiózus homlokzataihoz és a fő múzeum kulturális megállójához hozza. A délután folyamán járja be a ferences kolostort és a családi vízi parkot. Alkonyatkor vezessen északra, hogy megnézze a gőzölgő meleg forrást és a Saint-Pierre templomot.",
+        "ro": "Începeți excursia cu mașina admirând sculpturile maiestuoase ale verandei sudice de la Notre-Dame. Prânzul vă aduce la fațadele grandioase ale Château Saint-Hilaire și la o oprire culturală la muzeu. Pe parcursul după-amiezii, plimbați-vă prin mănăstirea franciscană și parcul acvatic familial. La lăsarea amurgului, conduceți spre nord pentru a vedea izvorul cald aburind și Saint-Pierre.",
+        "en": "Kick off your road trip marveling at the majestic sculptures of the southern porch at Notre-Dame. The midday brings you to the grand facades of the Château Saint-Hilaire and a cultural stop at the main museum. Throughout the afternoon, wander the suspended Franciscan cloister and splash around the family aquatic park. As dusk arrives, drive north to see the steaming warm spring and Saint-Pierre."
+      }
+    }
+  }
+}

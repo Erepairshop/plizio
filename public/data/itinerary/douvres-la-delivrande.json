@@ -1,0 +1,497 @@
+{
+  "city_id": "douvres-la-delivrande",
+  "anchor": {
+    "name": "Douvres-la-Délivrande",
+    "coords": [
+      -0.3794,
+      49.2933
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 4.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "La Baronnie",
+            "hu": "La Baronnie",
+            "ro": "La Baronnie",
+            "en": "La Baronnie"
+          },
+          "coords": [
+            -0.387178,
+            49.290342
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese mittelalterliche Residenz der Bischöfe von Bayeux, aber kommen Sie früh, um die friedlichen Anlagen vor dem Andrang zu genießen.",
+            "hu": "Fedezze fel a bayeux-i püspökök ezen középkori rezidenciáját, de érkezzen korán, hogy még a tömeg előtt élvezhesse a békés parkot.",
+            "ro": "Explorați această reședință medievală a episcopilor de Bayeux, dar sosiți devreme pentru a vă bucura de domeniul liniștit înaintea aglomerației.",
+            "en": "Explore this medieval residence of the bishops of Bayeux, but arrive early to fully appreciate the peaceful grounds before the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Radar Museum 44",
+            "hu": "Radar Múzeum 44",
+            "ro": "Muzeul Radarului 44",
+            "en": "Radar Museum 44"
+          },
+          "coords": [
+            -0.40363,
+            49.285989
+          ],
+          "category": "museum",
+          "arrive_at": "10:49",
+          "stay_min": 100,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 1.27,
+          "tip_5lang": {
+            "de": "Betreten Sie authentische Bunker aus dem Zweiten Weltkrieg, um die Geschichte der Radartechnologie zu entdecken, und ziehen Sie sich warm an, da die Gänge kühl sein können.",
+            "hu": "Lépjen be az eredeti második világháborús bunkerekbe a radartechnológia történetének megismeréséhez, és öltözzön melegen, mert a földalatti folyosók hűvösek lehetnek.",
+            "ro": "Pășiți în buncărele autentice din al Doilea Război Mondial pentru a descoperi istoria radarului și îmbrăcați-vă gros, deoarece coridoarele subterane sunt răcoroase.",
+            "en": "Step into genuine WWII bunkers to uncover the history of radar technology, and dress warmly as the underground corridors can be surprisingly chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Douvres British War Cemetery",
+            "hu": "Douvres Brit Katonai Temető",
+            "ro": "Cimitirul Militar Britanic Douvres",
+            "en": "Douvres British War Cemetery"
+          },
+          "coords": [
+            -0.377107,
+            49.290065
+          ],
+          "category": "historical",
+          "arrive_at": "12:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 1.96,
+          "tip_5lang": {
+            "de": "Erweisen Sie Ihre Ehre auf diesem gepflegten Soldatenfriedhof und nehmen Sie sich einen ruhigen Moment, um über die großen Opfer von 1944 nachzudenken.",
+            "hu": "Rója le tiszteletét ezen az ünnepélyes és kifogástalanul gondozott katonai temetőben, egy csendes pillanatot szentelve az 1944-es áldozatok emlékének.",
+            "ro": "Prezentați-vă omagiile în acest cimitir militar solemn și impecabil întreținut, păstrând un moment de liniște pentru a reflecta asupra sacrificiilor din 1944.",
+            "en": "Pay your respects at this solemn and impeccably maintained military cemetery, bringing a quiet moment to reflect on the immense sacrifices of 1944."
+          }
+        },
+        {
+          "name": {
+            "de": "Convent of Notre-Dame de Fidélité",
+            "hu": "Notre-Dame de Fidélité Kolostor",
+            "ro": "Mănăstirea Notre-Dame de Fidélité",
+            "en": "Convent of Notre-Dame de Fidélité"
+          },
+          "coords": [
+            -0.370281,
+            49.29569
+          ],
+          "category": "monastic",
+          "arrive_at": "14:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.79,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser aktiven Ordensgemeinschaft und denken Sie daran, leise zu sprechen, um den Alltag der Schwestern zu respektieren.",
+            "hu": "Csodálja meg ezen aktív vallási közösség békés építészetét, és ne felejtsen el halkan beszélni, tiszteletben tartva a nővérek napi rutinját.",
+            "ro": "Admirați arhitectura senină a acestei comunități religioase active, amintindu-vă să vorbiți încet pentru a respecta rutina zilnică a surorilor rezidente.",
+            "en": "Admire the serene architecture of this active religious community, remembering to speak softly and respect the daily routines of the resident sisters."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica of Notre-Dame de la Délivrande",
+            "hu": "Notre-Dame de la Délivrande Bazilika",
+            "ro": "Bazilica Notre-Dame de la Délivrande",
+            "en": "Basilica of Notre-Dame de la Délivrande"
+          },
+          "coords": [
+            -0.372355,
+            49.2987
+          ],
+          "category": "religious",
+          "arrive_at": "15:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten neugotischen Türme und die verehrte Schwarze Madonna und nehmen Sie sich Zeit für die detailreichen Buntglasfenster.",
+            "hu": "Csodálja meg a lenyűgöző neogótikus tornyokat és a tisztelt Fekete Madonnát, időt szánva az oltár melletti bonyolult ólomüveg ablakok megtekintésére.",
+            "ro": "Admirați turlele neogotice uimitoare și venerata Madonă Neagră, făcându-vă timp pentru a examina vitraliile complicate de lângă altar.",
+            "en": "Marvel at the striking neo-Gothic spires and the revered Black Madonna, taking time to examine the intricate stained glass windows near the altar."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein friedlicher Spaziergang durch Douvres-la-Délivrande beginnt an der historischen Baronnie, gefolgt von tiefen Einblicken in die Kriegsgeschichte im Radar-Museum. Der Nachmittag bietet Momente der Stille auf dem Militärfriedhof und im Kloster, bevor der Tag majestätisch an der beeindruckenden Basilika endet.",
+        "hu": "Egy békés séta Douvres-la-Délivrande-ban a történelmi Baronnie-nál kezdődik, majd a Radar Múzeum háborús történetével folytatódik. A délután a katonai temető és a kolostor csendes pillanatait kínálja, mielőtt a nap fenségesen zárulna a lenyűgöző bazilikánál.",
+        "ro": "O plimbare liniștită prin Douvres-la-Délivrande începe la istorica Baronnie, urmată de perspective profunde asupra istoriei războiului la Muzeul Radarului. După-amiaza oferă momente de tăcere la cimitirul militar și la mănăstire, înainte ca ziua să se încheie maiestuos la impresionanta bazilică.",
+        "en": "A peaceful walk through Douvres-la-Délivrande begins at the historical La Baronnie, followed by deep insights into war history at the Radar Museum. The afternoon offers quiet moments of reflection at the military cemetery and the convent, before the day ends majestically at the stunning Basilica."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:26",
+      "total_km": 9.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Radar Museum 44",
+            "hu": "Radar Múzeum 44",
+            "ro": "Muzeul Radarului 44",
+            "en": "Radar Museum 44"
+          },
+          "coords": [
+            -0.40363,
+            49.285989
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betreten Sie authentische Bunker aus dem Zweiten Weltkrieg, um die Geschichte der Radartechnologie zu entdecken, und ziehen Sie sich warm an, da die Gänge kühl sein können.",
+            "hu": "Lépjen be az eredeti második világháborús bunkerekbe a radartechnológia történetének megismeréséhez, és öltözzön melegen, mert a földalatti folyosók hűvösek lehetnek.",
+            "ro": "Pășiți în buncărele autentice din al Doilea Război Mondial pentru a descoperi istoria radarului și îmbrăcați-vă gros, deoarece coridoarele subterane sunt răcoroase.",
+            "en": "Step into genuine WWII bunkers to uncover the history of radar technology, and dress warmly as the underground corridors can be surprisingly chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Prieuré de Tailleville",
+            "hu": "Tailleville-i Perjelség",
+            "ro": "Prieuré de Tailleville",
+            "en": "Prieuré de Tailleville"
+          },
+          "coords": [
+            -0.408876,
+            49.306707
+          ],
+          "category": "religious",
+          "arrive_at": "11:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.33,
+          "tip_5lang": {
+            "de": "Radeln Sie zu diesem ehemaligen Priorat mit Emmaus-Gemeinschaft und prüfen Sie vor Ihrem Besuch unbedingt die saisonalen Öffnungszeiten.",
+            "hu": "Kerékpározzon el ehhez az Emmaus közösséggel kapcsolatban álló csendes egykori perjelséghez, és látogatás előtt mindenképp ellenőrizze a nyitvatartást.",
+            "ro": "Pedalați până la acest fost priorat liniștit, legat de comunitatea Emmaus, asigurându-vă că verificați programul de funcționare sezonier înainte de vizită.",
+            "en": "Cycle out to this quiet former priory with Emmaus community connections, making sure to check their seasonal opening hours before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc des Chasses",
+            "hu": "Parc des Chasses",
+            "ro": "Parc des Chasses",
+            "en": "Parc des Chasses"
+          },
+          "coords": [
+            -0.372512,
+            49.318607
+          ],
+          "category": "park",
+          "arrive_at": "11:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.93,
+          "tip_5lang": {
+            "de": "Genießen Sie ein erfrischendes Picknick unter den alten Bäumen dieses großen lokalen Parks und nutzen Sie die gut ausgebauten Radwege dorthin.",
+            "hu": "Élvezze a frissítő pikniket e hatalmas helyi park öreg fái alatt, kihasználva a közvetlenül ide vezető, kiválóan karbantartott kerékpárutakat.",
+            "ro": "Bucurați-vă de un picnic răcoritor sub copacii bătrâni ai acestui parc local vast, folosind pistele de biciclete bine întreținute care duc direct acolo.",
+            "en": "Enjoy a refreshing picnic stop under the mature trees of this expansive local park, utilizing the well-maintained cycling paths that lead directly into it."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica of Notre-Dame de la Délivrande",
+            "hu": "Notre-Dame de la Délivrande Bazilika",
+            "ro": "Bazilica Notre-Dame de la Délivrande",
+            "en": "Basilica of Notre-Dame de la Délivrande"
+          },
+          "coords": [
+            -0.372355,
+            49.2987
+          ],
+          "category": "religious",
+          "arrive_at": "13:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten neugotischen Türme und die verehrte Schwarze Madonna und nehmen Sie sich Zeit für die detailreichen Buntglasfenster.",
+            "hu": "Csodálja meg a lenyűgöző neogótikus tornyokat és a tisztelt Fekete Madonnát, időt szánva az oltár melletti bonyolult ólomüveg ablakok megtekintésére.",
+            "ro": "Admirați turlele neogotice uimitoare și venerata Madonă Neagră, făcându-vă timp pentru a examina vitraliile complicate de lângă altar.",
+            "en": "Marvel at the striking neo-Gothic spires and the revered Black Madonna, taking time to examine the intricate stained glass windows near the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Douvres British War Cemetery",
+            "hu": "Douvres Brit Katonai Temető",
+            "ro": "Cimitirul Militar Britanic Douvres",
+            "en": "Douvres British War Cemetery"
+          },
+          "coords": [
+            -0.377107,
+            49.290065
+          ],
+          "category": "historical",
+          "arrive_at": "14:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.02,
+          "tip_5lang": {
+            "de": "Erweisen Sie Ihre Ehre auf diesem gepflegten Soldatenfriedhof und nehmen Sie sich einen ruhigen Moment, um über die großen Opfer von 1944 nachzudenken.",
+            "hu": "Rója le tiszteletét ezen az ünnepélyes és kifogástalanul gondozott katonai temetőben, egy csendes pillanatot szentelve az 1944-es áldozatok emlékének.",
+            "ro": "Prezentați-vă omagiile în acest cimitir militar solemn și impecabil întreținut, păstrând un moment de liniște pentru a reflecta asupra sacrificiilor din 1944.",
+            "en": "Pay your respects at this solemn and impeccably maintained military cemetery, bringing a quiet moment to reflect on the immense sacrifices of 1944."
+          }
+        },
+        {
+          "name": {
+            "de": "La Baronnie",
+            "hu": "La Baronnie",
+            "ro": "La Baronnie",
+            "en": "La Baronnie"
+          },
+          "coords": [
+            -0.387178,
+            49.290342
+          ],
+          "category": "historical",
+          "arrive_at": "15:36",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.72,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese mittelalterliche Residenz der Bischöfe von Bayeux, aber kommen Sie früh, um die friedlichen Anlagen vor dem Andrang zu genießen.",
+            "hu": "Fedezze fel a bayeux-i püspökök ezen középkori rezidenciáját, de érkezzen korán, hogy még a tömeg előtt élvezhesse a békés parkot.",
+            "ro": "Explorați această reședință medievală a episcopilor de Bayeux, dar sosiți devreme pentru a vă bucura de domeniul liniștit înaintea aglomerației.",
+            "en": "Explore this medieval residence of the bishops of Bayeux, but arrive early to fully appreciate the peaceful grounds before the crowds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine aktive Radtour verbindet das Radar-Museum mit dem charmanten Prieuré de Tailleville im Umland. Ein Picknick im Parc des Chasses stärkt Sie für den Nachmittag, der der prächtigen Basilika und dem ehrenvollen Soldatenfriedhof gewidmet ist, bevor die Tour an der historischen Baronnie gemütlich ausklingt.",
+        "hu": "Egy aktív kerékpártúra köti össze a Radar Múzeumot a bájos vidéki Prieuré de Tailleville-lel. Egy piknik a Parc des Chasses-ban energiát ad a délutánhoz, amelyet a pompás bazilikának és a katonai temetőnek szentelünk, majd a túra a történelmi Baronnie-nál ér véget.",
+        "ro": "Un tur activ cu bicicleta leagă Muzeul Radarului de fermecătorul Prieuré de Tailleville din împrejurimi. Un picnic în Parc des Chasses vă oferă energie pentru după-amiaza dedicată bazilicii și cimitirului militar, înainte ca turul să se încheie relaxant la istorica Baronnie.",
+        "en": "An active cycling route connects the Radar Museum with the charming Prieuré de Tailleville in the outskirts. A picnic in Parc des Chasses fuels your afternoon, dedicated to the grand Basilica and the honorable military cemetery, before wrapping up the day at the historical La Baronnie."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:10",
+      "total_km": 11.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Prieuré de Tailleville",
+            "hu": "Tailleville-i Perjelség",
+            "ro": "Prieuré de Tailleville",
+            "en": "Prieuré de Tailleville"
+          },
+          "coords": [
+            -0.408876,
+            49.306707
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Radeln Sie zu diesem ehemaligen Priorat mit Emmaus-Gemeinschaft und prüfen Sie vor Ihrem Besuch unbedingt die saisonalen Öffnungszeiten.",
+            "hu": "Kerékpározzon el ehhez az Emmaus közösséggel kapcsolatban álló csendes egykori perjelséghez, és látogatás előtt mindenképp ellenőrizze a nyitvatartást.",
+            "ro": "Pedalați până la acest fost priorat liniștit, legat de comunitatea Emmaus, asigurându-vă că verificați programul de funcționare sezonier înainte de vizită.",
+            "en": "Cycle out to this quiet former priory with Emmaus community connections, making sure to check their seasonal opening hours before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Radar Museum 44",
+            "hu": "Radar Múzeum 44",
+            "ro": "Muzeul Radarului 44",
+            "en": "Radar Museum 44"
+          },
+          "coords": [
+            -0.40363,
+            49.285989
+          ],
+          "category": "museum",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.33,
+          "tip_5lang": {
+            "de": "Betreten Sie authentische Bunker aus dem Zweiten Weltkrieg, um die Geschichte der Radartechnologie zu entdecken, und ziehen Sie sich warm an, da die Gänge kühl sein können.",
+            "hu": "Lépjen be az eredeti második világháborús bunkerekbe a radartechnológia történetének megismeréséhez, és öltözzön melegen, mert a földalatti folyosók hűvösek lehetnek.",
+            "ro": "Pășiți în buncărele autentice din al Doilea Război Mondial pentru a descoperi istoria radarului și îmbrăcați-vă gros, deoarece coridoarele subterane sunt răcoroase.",
+            "en": "Step into genuine WWII bunkers to uncover the history of radar technology, and dress warmly as the underground corridors can be surprisingly chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "La Baronnie",
+            "hu": "La Baronnie",
+            "ro": "La Baronnie",
+            "en": "La Baronnie"
+          },
+          "coords": [
+            -0.387178,
+            49.290342
+          ],
+          "category": "historical",
+          "arrive_at": "11:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.27,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese mittelalterliche Residenz der Bischöfe von Bayeux, aber kommen Sie früh, um die friedlichen Anlagen vor dem Andrang zu genießen.",
+            "hu": "Fedezze fel a bayeux-i püspökök ezen középkori rezidenciáját, de érkezzen korán, hogy még a tömeg előtt élvezhesse a békés parkot.",
+            "ro": "Explorați această reședință medievală a episcopilor de Bayeux, dar sosiți devreme pentru a vă bucura de domeniul liniștit înaintea aglomerației.",
+            "en": "Explore this medieval residence of the bishops of Bayeux, but arrive early to fully appreciate the peaceful grounds before the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Mairie de Plumetot",
+            "hu": "Plumetot Városháza",
+            "ro": "Primăria Plumetot",
+            "en": "Mairie de Plumetot"
+          },
+          "coords": [
+            -0.357408,
+            49.279736
+          ],
+          "category": "landmark",
+          "arrive_at": "13:03",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.44,
+          "tip_5lang": {
+            "de": "Halten Sie kurz, um dieses wunderschön erhaltene Rathaus zu fotografieren, und nutzen Sie den kleinen öffentlichen Parkplatz direkt gegenüber dem Haupteingang.",
+            "hu": "Álljon meg egy rövid fotózásra ennél a gyönyörűen megőrzött helyi városházánál, és használja a főbejárattal szemközti kis nyilvános parkolót.",
+            "ro": "Opriți-vă scurt pentru a fotografia această primărie locală frumos conservată, folosind mica parcare publică situată chiar vizavi de intrarea principală.",
+            "en": "Stop briefly to photograph this beautifully preserved local town hall, utilizing the small public parking area just opposite the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Douvres British War Cemetery",
+            "hu": "Douvres Brit Katonai Temető",
+            "ro": "Cimitirul Militar Britanic Douvres",
+            "en": "Douvres British War Cemetery"
+          },
+          "coords": [
+            -0.377107,
+            49.290065
+          ],
+          "category": "historical",
+          "arrive_at": "13:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.83,
+          "tip_5lang": {
+            "de": "Erweisen Sie Ihre Ehre auf diesem gepflegten Soldatenfriedhof und nehmen Sie sich einen ruhigen Moment, um über die großen Opfer von 1944 nachzudenken.",
+            "hu": "Rója le tiszteletét ezen az ünnepélyes és kifogástalanul gondozott katonai temetőben, egy csendes pillanatot szentelve az 1944-es áldozatok emlékének.",
+            "ro": "Prezentați-vă omagiile în acest cimitir militar solemn și impecabil întreținut, păstrând un moment de liniște pentru a reflecta asupra sacrificiilor din 1944.",
+            "en": "Pay your respects at this solemn and impeccably maintained military cemetery, bringing a quiet moment to reflect on the immense sacrifices of 1944."
+          }
+        },
+        {
+          "name": {
+            "de": "Convent of Notre-Dame de Fidélité",
+            "hu": "Notre-Dame de Fidélité Kolostor",
+            "ro": "Mănăstirea Notre-Dame de Fidélité",
+            "en": "Convent of Notre-Dame de Fidélité"
+          },
+          "coords": [
+            -0.370281,
+            49.29569
+          ],
+          "category": "monastic",
+          "arrive_at": "14:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.79,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser aktiven Ordensgemeinschaft und denken Sie daran, leise zu sprechen, um den Alltag der Schwestern zu respektieren.",
+            "hu": "Csodálja meg ezen aktív vallási közösség békés építészetét, és ne felejtsen el halkan beszélni, tiszteletben tartva a nővérek napi rutinját.",
+            "ro": "Admirați arhitectura senină a acestei comunități religioase active, amintindu-vă să vorbiți încet pentru a respecta rutina zilnică a surorilor rezidente.",
+            "en": "Admire the serene architecture of this active religious community, remembering to speak softly and respect the daily routines of the resident sisters."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica of Notre-Dame de la Délivrande",
+            "hu": "Notre-Dame de la Délivrande Bazilika",
+            "ro": "Bazilica Notre-Dame de la Délivrande",
+            "en": "Basilica of Notre-Dame de la Délivrande"
+          },
+          "coords": [
+            -0.372355,
+            49.2987
+          ],
+          "category": "religious",
+          "arrive_at": "15:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten neugotischen Türme und die verehrte Schwarze Madonna und nehmen Sie sich Zeit für die detailreichen Buntglasfenster.",
+            "hu": "Csodálja meg a lenyűgöző neogótikus tornyokat és a tisztelt Fekete Madonnát, időt szánva az oltár melletti bonyolult ólomüveg ablakok megtekintésére.",
+            "ro": "Admirați turlele neogotice uimitoare și venerata Madonă Neagră, făcându-vă timp pentru a examina vitraliile complicate de lângă altar.",
+            "en": "Marvel at the striking neo-Gothic spires and the revered Black Madonna, taking time to examine the intricate stained glass windows near the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Pierre de Luc",
+            "hu": "Pierre de Luc",
+            "ro": "Pierre de Luc",
+            "en": "Pierre de Luc"
+          },
+          "coords": [
+            -0.355405,
+            49.314916
+          ],
+          "category": "historical",
+          "arrive_at": "16:20",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.17,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem faszinierenden historischen Steinmal in der Landschaft, aber achten Sie auf die engen Landstraßen, wenn Sie zum Lesen der Inschrift anhalten.",
+            "hu": "Vezessen el ehhez az érdekes történelmi kőjelzéshez a vidéken, de ügyeljen a szűk vidéki utakra, amikor lehúzódik elolvasni a feliratot.",
+            "ro": "Conduceți până la acest indicator istoric intrigant din piatră din peisaj, dar fiți atenți la drumurile rurale înguste când trageți pe dreapta pentru a-i citi inscripția.",
+            "en": "Drive out to this intriguing historical stone marker in the landscape, but be mindful of the narrow rural roads when pulling over to read its inscription."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine komfortable Autofahrt ermöglicht es, die weiter entfernten Schätze wie das Prieuré de Tailleville und das kleine Rathaus von Plumetot zu entdecken. Nach intensiven Besuchen in den Museen und historischen Residenzen krönen die beeindruckende Basilika und der antike Pierre de Luc diesen erlebnisreichen Tag.",
+        "hu": "Egy kényelmes autóút lehetővé teszi a távolabbi kincsek, például a Prieuré de Tailleville és Plumetot kis városházának felfedezését. A múzeumok és történelmi rezidenciák intenzív látogatása után a lenyűgöző bazilika és az ősi Pierre de Luc koronázza meg ezt az eseménydús napot.",
+        "ro": "O plimbare confortabilă cu mașina permite descoperirea comorilor mai îndepărtate, cum ar fi Prieuré de Tailleville și mica primărie din Plumetot. După vizite intense la muzee și reședințe istorice, impresionanta bazilică și antica Pierre de Luc încoronează această zi plină de evenimente.",
+        "en": "A comfortable drive allows you to discover further gems like the Prieuré de Tailleville and the small town hall of Plumetot. Following in-depth visits to local museums and historical residences, the stunning Basilica and the ancient Pierre de Luc beautifully crown this eventful day."
+      }
+    }
+  }
+}

@@ -1,0 +1,497 @@
+{
+  "city_id": "france-sables-d-or-les-pins-cities-v2",
+  "anchor": {
+    "name": "Sables-d'Or-les-Pins",
+    "coords": [
+      -2.40647,
+      48.64046
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:09",
+      "total_km": 4.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame des Sables",
+            "hu": "Chapelle Notre-Dame des Sables",
+            "ro": "Chapelle Notre-Dame des Sables",
+            "en": "Chapelle Notre-Dame des Sables"
+          },
+          "coords": [
+            -2.400915,
+            48.638883
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese reizende Kapelle, die das lokale Erbe hervorhebt, und kommen Sie früh am Morgen, um die ruhige Atmosphäre abseits der Küstenmassen zu genießen.",
+            "hu": "Fedezze fel ezt a helyi örökséget kiemelő bájos kápolnát, és látogasson el kora reggel, hogy a parti tömeg nélkül élvezhesse a csendes atmoszférát.",
+            "ro": "Descoperiți această capelă fermecătoare care evidențiază moștenirea locală și vizitați-o dimineața devreme pentru a vă bucura de atmosfera liniștită fără aglomerație.",
+            "en": "Discover this charming chapel highlighting local heritage, and visit during the early morning hours to enjoy the tranquil atmosphere without the coastal crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Grève de Minieu",
+            "hu": "Grève de Minieu",
+            "ro": "Grève de Minieu",
+            "en": "Grève de Minieu"
+          },
+          "coords": [
+            -2.408269,
+            48.643893
+          ],
+          "category": "recreational",
+          "arrive_at": "10:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem weitläufigen Sandstrand, der perfekt zur Erholung ist, aber prüfen Sie vorher die lokalen Gezeitentabellen für den besten Picknickplatz.",
+            "hu": "Sétáljon ezen a pihenésre tökéletes, kiterjedt homokos strandon, de előtte feltétlenül ellenőrizze az árapály-táblázatokat, hogy megtalálja a legjobb piknikezőhelyet.",
+            "ro": "Plimbați-vă pe această plajă vastă de nisip, perfectă pentru relaxare, dar asigurați-vă că verificați graficul mareelor pentru a găsi cel mai bun loc de picnic.",
+            "en": "Stroll along this expansive sandy beach perfect for relaxation, but make sure to check the local tide charts beforehand so you can find the best spot for a picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Point de vue",
+            "hu": "Point de vue",
+            "ro": "Point de vue",
+            "en": "Point de vue"
+          },
+          "coords": [
+            -2.423428,
+            48.639285
+          ],
+          "category": "natural",
+          "arrive_at": "11:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die atemberaubenden Küstenpanoramen von diesem natürlichen Aussichtspunkt und bringen Sie ein Weitwinkelobjektiv mit, um den Kontrast einzufangen.",
+            "hu": "Csodálja meg a lélegzetelállító tengerparti panorámát erről a természetes kilátópontról, és hozzon magával nagylátószögű objektívet a lenyűgöző kontraszt rögzítéséhez.",
+            "ro": "Admirați panoramele de coastă uluitoare de la acest punct de belvedere natural și nu uitați să aduceți un obiectiv superangular pentru a surprinde contrastul uimitor.",
+            "en": "Admire the breathtaking coastal panoramas from this natural viewpoint, and remember to bring a wide-angle lens to capture the stunning contrast of sea and cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Ancien moulin de la Hunaudaye (1593)",
+            "hu": "Ancien moulin de la Hunaudaye (1593)",
+            "ro": "Ancien moulin de la Hunaudaye (1593)",
+            "en": "Ancien moulin de la Hunaudaye (1593)"
+          },
+          "coords": [
+            -2.422169,
+            48.628641
+          ],
+          "category": "historical",
+          "arrive_at": "12:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historische Mühle aus dem 16. Jahrhundert, die die landwirtschaftliche Vergangenheit offenbart, und tragen Sie feste Schuhe für den unebenen Weg.",
+            "hu": "Fedezze fel ezt a 16. századi történelmi malmot, amely a régió mezőgazdasági múltját tárja fel, és viseljen masszív cipőt, mivel a környező út meglehetősen egyenetlen.",
+            "ro": "Explorați această moară istorică din secolul al XVI-lea care dezvăluie trecutul agricol și purtați încălțăminte solidă, deoarece poteca din jur poate fi denivelată.",
+            "en": "Explore this historic 16th-century mill that reveals the region's agricultural past, and wear sturdy walking shoes as the surrounding path can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            -2.403828,
+            48.626693
+          ],
+          "category": "religious",
+          "arrive_at": "13:59",
+          "stay_min": 70,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit für die Architektur dieser lokalen Kirche und kommen Sie vorbei, wenn die Sonne durch die bunten Buntglasfenster scheint.",
+            "hu": "Szánjon egy percet e helyi templom gyönyörű építészetének megcsodálására, és próbáljon meg akkor érkezni, amikor a nap átsüt az élénk ólomüveg ablakokon.",
+            "ro": "Luați-vă un moment pentru a aprecia arhitectura acestei biserici locale și încercați să o vizitați când soarele strălucește prin vitraliile sale vibrante.",
+            "en": "Take a moment to appreciate the beautiful architecture of this local church, and try to visit when the sun shines through the vibrant stained-glass windows."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihren Tag an der frischen Küstenluft und entdecken Sie die friedliche Chapelle Notre-Dame des Sables. Genießen Sie anschließend einen entspannten Spaziergang in Richtung Grève de Minieu und lassen Sie sich vom weichen Morgenlicht am Sandstrand verzaubern.\nMidday: Wenn die Sonne höher steht, begeben Sie sich zum atemberaubenden Point de vue für einen unvergleichlichen Blick auf die bretonische Küste. Danach tauchen Sie beim Ancien moulin de la Hunaudaye tief in die landwirtschaftliche Geschichte und die alten Praktiken der Region ein.\nAfternoon: Verbringen Sie den Nachmittag damit, die charmanten Straßen zur Église Saint-Pierre zu erkunden. Diese architektonische Perle vermittelt den wahren Geist der Gemeinde und bietet einen herrlichen Kontrast zu den windgepeitschten Küstenwegen des Vormittags.\nEvening: Lassen Sie Ihre Reise bei den historischen Windmühlen im südlichen Teil der Stadt ausklingen. Die goldene Stunde wirft ein warmes Licht auf diese Bauwerke aus dem 18. Jahrhundert und bietet einen perfekten, besinnlichen Abschluss für Ihren wunderbaren Tag.",
+        "hu": "Morning: Kezdje a napot a friss tengerparti levegőn a békés Chapelle Notre-Dame des Sables felfedezésével. Innen tegyen egy lassú, pihentető sétát a Grève de Minieu felé, miközben élvezi a homokos partokon és lágy hullámokon megcsillanó kora reggeli napfény szépségét.\nMidday: Ahogy a nap egyre magasabbra hág, menjen tovább a lélegzetelállító Point de vue felé, ahonnan páratlan kilátás nyílik a breton partvidékre. Később merüljön el a régió gazdag történelmében az Ancien moulin de la Hunaudaye-nál, megismerve a régi mezőgazdaságot.\nAfternoon: Töltse a délutánt az Église Saint-Pierre felé vezető hangulatos utcák felfedezésével, amely tökéletes hely a helyi építészet megcsodálására. A beljebb fekvő útvonal elragadó kontrasztot nyújt a délelőtt megismert szélfútta tengerparti ösvényekhez képest.\nEvening: Utazását a város déli részén található történelmi szélmalmok közelében fejezze be. A lemenő nap meleg aranyfénybe öltözteti ezeket a 18. századi építményeket, tökéletes és elgondolkodtató befejezést kínálva ennek a gyönyörű Sables-d'Or-les-Pins-i napnak.",
+        "ro": "Morning: Începeți ziua respirând aerul proaspăt de coastă în timp ce descoperiți pașnica Chapelle Notre-Dame des Sables. De acolo, faceți o plimbare relaxantă spre Grève de Minieu, bucurându-vă de lumina moale a dimineții care se reflectă pe țărmul nisipos și valurile blânde.\nMidday: Pe măsură ce soarele urcă, îndreptați-vă spre uluitorul Point de vue pentru o vedere panoramică asupra coastei bretone. Mai târziu, pătrundeți în istoria bogată a regiunii la Ancien moulin de la Hunaudaye, explorând cu admirație vechile practici agricole locale.\nAfternoon: Petreceți după-amiaza explorând străzile fermecătoare care duc la Église Saint-Pierre, un loc perfect pentru a aprecia arhitectura locală. Acest traseu situat puțin mai spre interior oferă un contrast încântător față de cărările de coastă bătute de vânt.\nEvening: Încheiați-vă călătoria plimbându-vă pe lângă morile de vânt istorice din partea de sud a orașului. Ora de aur aruncă o strălucire caldă asupra acestor structuri din secolul al XVIII-lea, oferind un final perfect și plin de reflecție pentru o zi superbă.",
+        "en": "Morning: Start your day breathing in the fresh coastal air as you discover the peaceful Chapelle Notre-Dame des Sables. From there, take a slow and relaxing stroll toward the Grève de Minieu, enjoying the soft morning light reflecting off the sandy shores and gentle waves.\nMidday: As the sun climbs higher, transition towards the breathtaking Point de vue for an unparalleled view of the Breton coastline. Pause here to capture memories before diving into the region’s rich history at the Ancien moulin de la Hunaudaye, exploring ancient agricultural practices.\nAfternoon: Spend your afternoon exploring the charming streets that lead to Église Saint-Pierre, a perfect spot to appreciate local architecture and community spirit. The slightly inland route provides a delightful contrast to the windswept coastal paths of the morning.\nEvening: Conclude your journey by wandering near the historic windmills in the southern part of town. The golden hour casts a warm glow over these 18th-century structures, offering a perfect, reflective ending to your beautiful day in Sables-d'Or-les-Pins."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:17",
+      "total_km": 6.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Saint-Michel",
+            "hu": "Chapelle Saint-Michel",
+            "ro": "Chapelle Saint-Michel",
+            "en": "Chapelle Saint-Michel"
+          },
+          "coords": [
+            -2.425374,
+            48.65554
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wandern Sie zu dieser ikonischen Kapelle in der Nähe der Küste und bringen Sie eine leichte Windjacke mit, da die Meeresbrise hier den ganzen Tag über recht stark ist.",
+            "hu": "Túrázzon fel ehhez a tengerpart közelében magasodó ikonikus kápolnához, és hozzon egy könnyű széldzsekit, mivel a tengeri szellő itt egész nap meglehetősen erős.",
+            "ro": "Urcați până la această capelă emblematică cocoțată lângă coastă și aduceți o jachetă de vânt, deoarece briza mării este de obicei destul de puternică aici.",
+            "en": "Hike up to this iconic landmark chapel perched near the coast, and bring a light windbreaker since the sea breeze here is typically quite strong all day long."
+          }
+        },
+        {
+          "name": {
+            "de": "Point de vue",
+            "hu": "Point de vue",
+            "ro": "Point de vue",
+            "en": "Point de vue"
+          },
+          "coords": [
+            -2.423428,
+            48.639285
+          ],
+          "category": "natural",
+          "arrive_at": "10:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die atemberaubenden Küstenpanoramen von diesem natürlichen Aussichtspunkt und bringen Sie ein Weitwinkelobjektiv mit, um den Kontrast einzufangen.",
+            "hu": "Csodálja meg a lélegzetelállító tengerparti panorámát erről a természetes kilátópontról, és hozzon magával nagylátószögű objektívet a lenyűgöző kontraszt rögzítéséhez.",
+            "ro": "Admirați panoramele de coastă uluitoare de la acest punct de belvedere natural și nu uitați să aduceți un obiectiv superangular pentru a surprinde contrastul uimitor.",
+            "en": "Admire the breathtaking coastal panoramas from this natural viewpoint, and remember to bring a wide-angle lens to capture the stunning contrast of sea and cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Grève de Minieu",
+            "hu": "Grève de Minieu",
+            "ro": "Grève de Minieu",
+            "en": "Grève de Minieu"
+          },
+          "coords": [
+            -2.408269,
+            48.643893
+          ],
+          "category": "recreational",
+          "arrive_at": "10:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem weitläufigen Sandstrand, der perfekt zur Erholung ist, aber prüfen Sie vorher die lokalen Gezeitentabellen für den besten Picknickplatz.",
+            "hu": "Sétáljon ezen a pihenésre tökéletes, kiterjedt homokos strandon, de előtte feltétlenül ellenőrizze az árapály-táblázatokat, hogy megtalálja a legjobb piknikezőhelyet.",
+            "ro": "Plimbați-vă pe această plajă vastă de nisip, perfectă pentru relaxare, dar asigurați-vă că verificați graficul mareelor pentru a găsi cel mai bun loc de picnic.",
+            "en": "Stroll along this expansive sandy beach perfect for relaxation, but make sure to check the local tide charts beforehand so you can find the best spot for a picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame des Sables",
+            "hu": "Chapelle Notre-Dame des Sables",
+            "ro": "Chapelle Notre-Dame des Sables",
+            "en": "Chapelle Notre-Dame des Sables"
+          },
+          "coords": [
+            -2.400915,
+            48.638883
+          ],
+          "category": "religious",
+          "arrive_at": "11:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese reizende Kapelle, die das lokale Erbe hervorhebt, und kommen Sie früh am Morgen, um die ruhige Atmosphäre abseits der Küstenmassen zu genießen.",
+            "hu": "Fedezze fel ezt a helyi örökséget kiemelő bájos kápolnát, és látogasson el kora reggel, hogy a parti tömeg nélkül élvezhesse a csendes atmoszférát.",
+            "ro": "Descoperiți această capelă fermecătoare care evidențiază moștenirea locală și vizitați-o dimineața devreme pentru a vă bucura de atmosfera liniștită fără aglomerație.",
+            "en": "Discover this charming chapel highlighting local heritage, and visit during the early morning hours to enjoy the tranquil atmosphere without the coastal crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            -2.403828,
+            48.626693
+          ],
+          "category": "religious",
+          "arrive_at": "12:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit für die Architektur dieser lokalen Kirche und kommen Sie vorbei, wenn die Sonne durch die bunten Buntglasfenster scheint.",
+            "hu": "Szánjon egy percet e helyi templom gyönyörű építészetének megcsodálására, és próbáljon meg akkor érkezni, amikor a nap átsüt az élénk ólomüveg ablakokon.",
+            "ro": "Luați-vă un moment pentru a aprecia arhitectura acestei biserici locale și încercați să o vizitați când soarele strălucește prin vitraliile sale vibrante.",
+            "en": "Take a moment to appreciate the beautiful architecture of this local church, and try to visit when the sun shines through the vibrant stained-glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Ancien Moulin de l'Epine (1785)",
+            "hu": "Ancien Moulin de l'Epine (1785)",
+            "ro": "Ancien Moulin de l'Epine (1785)",
+            "en": "Ancien Moulin de l'Epine (1785)"
+          },
+          "coords": [
+            -2.422914,
+            48.625716
+          ],
+          "category": "historical",
+          "arrive_at": "13:27",
+          "stay_min": 110,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden mechanischen Überreste dieser Mühle aus dem späten 18. Jahrhundert und gehen Sie vorsichtig herum, um den besten Winkel zu finden.",
+            "hu": "Fedezze fel a késő 18. századi malom lenyűgöző mechanikai maradványait, és óvatosan járja körbe, hogy megtalálja a legjobb szöget a fotózáshoz.",
+            "ro": "Descoperiți rămășițele mecanice fascinante ale acestei mori de la sfârșitul secolului al XVIII-lea și mergeți încet în jurul ei pentru a găsi cel mai bun unghi foto.",
+            "en": "Discover the fascinating mechanical remnants of this late 18th-century mill, and gently walk around the perimeter to find the best angle for photography."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Starten Sie Ihre Fahrradtour an der markanten Chapelle Saint-Michel und genießen Sie die kühle Meeresbrise. Fahren Sie von dort zum Point de vue, wo Sie unvergessliche Ausblicke auf die schroffe Küste und die tosenden Wellen erwarten.\nMidday: Radeln Sie weiter zur Grève de Minieu, einem herrlichen Sandstrand, der ideal für eine erholsame Pause ist. Danach besichtigen Sie die charmante Chapelle Notre-Dame des Sables, die mit ihrer schlichten Schönheit tief in die lokale Geschichte eintaucht.\nAfternoon: Am Nachmittag führt Sie Ihre Route zur historischen Église Saint-Pierre im Stadtzentrum, die zur ruhigen Besinnung einlädt. Die Fahrt durch die friedlichen Straßen der Gemeinde bietet eine willkommene Abwechslung zum belebten Strandbereich.\nEvening: Den krönenden Abschluss bildet das Ancien Moulin de l'Epine, dessen historische Ruinen im Abendlicht eine magische Atmosphäre ausstrahlen. Genießen Sie die Ruhe an diesem Ort, bevor Sie Ihren ereignisreichen Ausflugstag beenden.",
+        "hu": "Morning: Indítsa kerékpártúráját a lenyűgöző Chapelle Saint-Michel kápolnánál, és élvezze a hűs tengeri szellőt. Tekerjen el a Point de vue-höz, ahol felejthetetlen kilátás várja a zord tengerpartra és a hullámzó tengerre.\nMidday: Tekerjen tovább a Grève de Minieu-höz, egy csodálatos homokos strandhoz, amely ideális egy pihentető szünethez. Ezután látogasson el a bájos Chapelle Notre-Dame des Sables-hoz, amely egyszerű szépségével mélyen gyökerezik a helyi történelemben.\nAfternoon: Délután az útvonal a központban található történelmi Église Saint-Pierre-hez vezet, amely nyugodt elmélkedésre csábít. A község békés utcáin való kerékpározás kellemes változatosságot nyújt a forgalmas strandok után.\nEvening: A nap fénypontjaként az Ancien Moulin de l'Epine következik, amelynek történelmi romjai varázslatos hangulatot árasztanak az esti fényekben. Élvezze a csendet ezen a helyen, mielőtt befejezné eseménydús kirándulását.",
+        "ro": "Morning: Începeți turul cu bicicleta la impresionanta Chapelle Saint-Michel și bucurați-vă de briza răcoroasă a mării. Pedalați spre Point de vue, unde vă așteaptă priveliști de neuitat asupra coastei stâncoase și a valurilor agitate.\nMidday: Continuați spre Grève de Minieu, o plajă de nisip magnifică, ideală pentru o pauză relaxantă. Apoi vizitați fermecătoarea Chapelle Notre-Dame des Sables, care este profund ancorată în istoria locală cu frumusețea sa simplă.\nAfternoon: După-amiaza, traseul vă duce la istorica Église Saint-Pierre din centrul orașului, care invită la o reflecție liniștită. Plimbarea pe străzile pașnice ale comunității oferă o schimbare binevenită față de zona aglomerată de plajă.\nEvening: Punctul culminant îl reprezintă Ancien Moulin de l'Epine, ale cărui ruine istorice emană o atmosferă magică în lumina serii. Bucurați-vă de liniștea acestui loc înainte de a vă încheia ziua plină de evenimente.",
+        "en": "Morning: Start your cycling tour at the striking Chapelle Saint-Michel, enjoying the cool sea breeze. Ride down to the Point de vue, where you will be rewarded with unforgettable sights of the rugged coastline and crashing waves.\nMidday: Pedal onward to the Grève de Minieu, a magnificent sandy beach ideal for a restful break. Afterward, visit the charming Chapelle Notre-Dame des Sables, a spot deeply rooted in local history with its simple, elegant beauty.\nAfternoon: In the afternoon, your route brings you to the historic Église Saint-Pierre in the town center, inviting quiet reflection. Riding through the peaceful streets of the community provides a pleasant change of pace from the busy beachfront.\nEvening: The grand finale is the Ancien Moulin de l'Epine, whose historical ruins radiate a magical atmosphere in the evening light. Relish the tranquility of this location before drawing your eventful day to a perfect close."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:03",
+      "total_km": 7.6,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Saint-Michel",
+            "hu": "Chapelle Saint-Michel",
+            "ro": "Chapelle Saint-Michel",
+            "en": "Chapelle Saint-Michel"
+          },
+          "coords": [
+            -2.425374,
+            48.65554
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wandern Sie zu dieser ikonischen Kapelle in der Nähe der Küste und bringen Sie eine leichte Windjacke mit, da die Meeresbrise hier den ganzen Tag über recht stark ist.",
+            "hu": "Túrázzon fel ehhez a tengerpart közelében magasodó ikonikus kápolnához, és hozzon egy könnyű széldzsekit, mivel a tengeri szellő itt egész nap meglehetősen erős.",
+            "ro": "Urcați până la această capelă emblematică cocoțată lângă coastă și aduceți o jachetă de vânt, deoarece briza mării este de obicei destul de puternică aici.",
+            "en": "Hike up to this iconic landmark chapel perched near the coast, and bring a light windbreaker since the sea breeze here is typically quite strong all day long."
+          }
+        },
+        {
+          "name": {
+            "de": "Point de vue",
+            "hu": "Point de vue",
+            "ro": "Point de vue",
+            "en": "Point de vue"
+          },
+          "coords": [
+            -2.423428,
+            48.639285
+          ],
+          "category": "natural",
+          "arrive_at": "09:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die atemberaubenden Küstenpanoramen von diesem natürlichen Aussichtspunkt und bringen Sie ein Weitwinkelobjektiv mit, um den Kontrast einzufangen.",
+            "hu": "Csodálja meg a lélegzetelállító tengerparti panorámát erről a természetes kilátópontról, és hozzon magával nagylátószögű objektívet a lenyűgöző kontraszt rögzítéséhez.",
+            "ro": "Admirați panoramele de coastă uluitoare de la acest punct de belvedere natural și nu uitați să aduceți un obiectiv superangular pentru a surprinde contrastul uimitor.",
+            "en": "Admire the breathtaking coastal panoramas from this natural viewpoint, and remember to bring a wide-angle lens to capture the stunning contrast of sea and cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame des Sables",
+            "hu": "Chapelle Notre-Dame des Sables",
+            "ro": "Chapelle Notre-Dame des Sables",
+            "en": "Chapelle Notre-Dame des Sables"
+          },
+          "coords": [
+            -2.400915,
+            48.638883
+          ],
+          "category": "religious",
+          "arrive_at": "10:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese reizende Kapelle, die das lokale Erbe hervorhebt, und kommen Sie früh am Morgen, um die ruhige Atmosphäre abseits der Küstenmassen zu genießen.",
+            "hu": "Fedezze fel ezt a helyi örökséget kiemelő bájos kápolnát, és látogasson el kora reggel, hogy a parti tömeg nélkül élvezhesse a csendes atmoszférát.",
+            "ro": "Descoperiți această capelă fermecătoare care evidențiază moștenirea locală și vizitați-o dimineața devreme pentru a vă bucura de atmosfera liniștită fără aglomerație.",
+            "en": "Discover this charming chapel highlighting local heritage, and visit during the early morning hours to enjoy the tranquil atmosphere without the coastal crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Salle Polyvalente",
+            "hu": "Salle Polyvalente",
+            "ro": "Salle Polyvalente",
+            "en": "Salle Polyvalente"
+          },
+          "coords": [
+            -2.409228,
+            48.624856
+          ],
+          "category": "cultural",
+          "arrive_at": "11:07",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Erleben Sie den kulturellen Puls der Gemeinde in dieser vielseitigen Halle und prüfen Sie das schwarze Brett draußen für temporäre Kunstausstellungen oder Events.",
+            "hu": "Tapasztalja meg a közösség kulturális lüktetését ebben a sokoldalú teremben, és nézze meg a kinti hirdetőtáblát, hogy elcsípjen egy időszaki művészeti kiállítást.",
+            "ro": "Experimentați pulsul cultural al comunității în această sală versatilă și verificați avizierul exterior pentru a prinde expoziții de artă sau evenimente temporare.",
+            "en": "Experience the cultural pulse of the community at this versatile hall, and check the local bulletin board outside to catch temporary art exhibits or events."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            -2.403828,
+            48.626693
+          ],
+          "category": "religious",
+          "arrive_at": "12:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit für die Architektur dieser lokalen Kirche und kommen Sie vorbei, wenn die Sonne durch die bunten Buntglasfenster scheint.",
+            "hu": "Szánjon egy percet e helyi templom gyönyörű építészetének megcsodálására, és próbáljon meg akkor érkezni, amikor a nap átsüt az élénk ólomüveg ablakokon.",
+            "ro": "Luați-vă un moment pentru a aprecia arhitectura acestei biserici locale și încercați să o vizitați când soarele strălucește prin vitraliile sale vibrante.",
+            "en": "Take a moment to appreciate the beautiful architecture of this local church, and try to visit when the sun shines through the vibrant stained-glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Ancien moulin de la Hunaudaye (1593)",
+            "hu": "Ancien moulin de la Hunaudaye (1593)",
+            "ro": "Ancien moulin de la Hunaudaye (1593)",
+            "en": "Ancien moulin de la Hunaudaye (1593)"
+          },
+          "coords": [
+            -2.422169,
+            48.628641
+          ],
+          "category": "historical",
+          "arrive_at": "13:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historische Mühle aus dem 16. Jahrhundert, die die landwirtschaftliche Vergangenheit offenbart, und tragen Sie feste Schuhe für den unebenen Weg.",
+            "hu": "Fedezze fel ezt a 16. századi történelmi malmot, amely a régió mezőgazdasági múltját tárja fel, és viseljen masszív cipőt, mivel a környező út meglehetősen egyenetlen.",
+            "ro": "Explorați această moară istorică din secolul al XVI-lea care dezvăluie trecutul agricol și purtați încălțăminte solidă, deoarece poteca din jur poate fi denivelată.",
+            "en": "Explore this historic 16th-century mill that reveals the region's agricultural past, and wear sturdy walking shoes as the surrounding path can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Ancien Moulin de l'Epine (1785)",
+            "hu": "Ancien Moulin de l'Epine (1785)",
+            "ro": "Ancien Moulin de l'Epine (1785)",
+            "en": "Ancien Moulin de l'Epine (1785)"
+          },
+          "coords": [
+            -2.422914,
+            48.625716
+          ],
+          "category": "historical",
+          "arrive_at": "14:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden mechanischen Überreste dieser Mühle aus dem späten 18. Jahrhundert und gehen Sie vorsichtig herum, um den besten Winkel zu finden.",
+            "hu": "Fedezze fel a késő 18. századi malom lenyűgöző mechanikai maradványait, és óvatosan járja körbe, hogy megtalálja a legjobb szöget a fotózáshoz.",
+            "ro": "Descoperiți rămășițele mecanice fascinante ale acestei mori de la sfârșitul secolului al XVIII-lea și mergeți încet în jurul ei pentru a găsi cel mai bun unghi foto.",
+            "en": "Discover the fascinating mechanical remnants of this late 18th-century mill, and gently walk around the perimeter to find the best angle for photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Ancien Moulin de Montafilan (1785)",
+            "hu": "Ancien Moulin de Montafilan (1785)",
+            "ro": "Ancien Moulin de Montafilan (1785)",
+            "en": "Ancien Moulin de Montafilan (1785)"
+          },
+          "coords": [
+            -2.424901,
+            48.623757
+          ],
+          "category": "historical",
+          "arrive_at": "16:13",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Treten Sie an dieser gut erhaltenen Mühlenstätte in die 1700er Jahre zurück und halten Sie Ausschau nach kleinen Informationstafeln, die ihre Bedeutung erklären.",
+            "hu": "Lépjen vissza az 1700-as évekbe ezen a jól megőrzött malomhelyen, és figyelje a kis információs táblákat, amelyek részletezik a hely történelmi jelentőségét.",
+            "ro": "Întoarceți-vă în anii 1700 la acest sit de morărit bine conservat și fiți atenți la micile plăci informative care detaliază semnificația sa istorică profundă.",
+            "en": "Step back into the 1700s at this well-preserved milling site, and keep an eye out for the small informational plaques that detail its historical significance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Erleben Sie einen bequemen Start in den Tag mit dem Auto an der beeindruckenden Chapelle Saint-Michel und fahren Sie rasch zum Point de vue. Die Panoramen von diesen erhöhten Standpunkten setzen den idealen Ton für Ihren Ausflug.\nMidday: Setzen Sie Ihre Fahrt zur Chapelle Notre-Dame des Sables fort und spüren Sie die spirituelle Ruhe des Ortes. Besuchen Sie anschließend die lebendige Salle Polyvalente, wo lokale Kultur und Gemeinschaft auf faszinierende Weise lebendig werden.\nAfternoon: Am Nachmittag steuern Sie die Église Saint-Pierre an, deren Architektur im Herzen der Stadt bezaubert. Eine kurze Fahrt bringt Sie dann tief in das Erbe der Region beim eindrucksvollen Ancien moulin de la Hunaudaye aus dem 16. Jahrhundert.\nEvening: Lassen Sie den Tag stilvoll an den Mühlen Ancien Moulin de l'Epine und Montafilan ausklingen. Diese geschichtsträchtigen Ruinen erstrahlen im sanften Abendlicht und runden Ihren komfortablen Ausflug in Sables-d'Or-les-Pins perfekt ab.",
+        "hu": "Morning: Kezdje a napot kényelmes autózással a lenyűgöző Chapelle Saint-Michel felé, majd utazzon gyorsan a Point de vue kilátópontra. Ezekből a magaslati pontokból nyíló panorámák tökéletesen megadják a kirándulás alaphangulatát.\nMidday: Folytassa útját a Chapelle Notre-Dame des Sables-hoz, és érezze át a hely spirituális nyugalmát. Ezt követően látogasson el az élettel teli Salle Polyvalente-ba, ahol a helyi kultúra és közösség magával ragadó módon elevenedik meg.\nAfternoon: Délután vegye az irányt az Église Saint-Pierre felé, melynek építészete a város szívében elbűvöli a látogatókat. Egy rövid vezetés után elmerülhet a régió örökségében az 1593-ban épült lenyűgöző Ancien moulin de la Hunaudaye-nál.\nEvening: Zárja a napot stílusosan az Ancien Moulin de l'Epine és a Montafilan malmoknál. Ezek a történelmi romok lágy esti fényben pompáznak, tökéletesen megkoronázva ezt a kényelmes Sables-d'Or-les-Pins-i autós kirándulást.",
+        "ro": "Morning: Începeți ziua confortabil cu mașina la impresionanta Chapelle Saint-Michel și conduceți rapid către Point de vue. Panoramele din aceste puncte ridicate stabilesc tonul ideal pentru excursia dumneavoastră relaxantă pe coastă.\nMidday: Continuați-vă călătoria către Chapelle Notre-Dame des Sables și simțiți liniștea spirituală a locului. Ulterior, vizitați vibranta Salle Polyvalente, unde cultura locală și comunitatea prind viață într-un mod fascinant și autentic.\nAfternoon: După-amiaza, îndreptați-vă spre Église Saint-Pierre, a cărei arhitectură fermecătoare decorează centrul orașului. O scurtă plimbare cu mașina vă duce apoi adânc în patrimoniul regiunii la impresionanta Ancien moulin de la Hunaudaye.\nEvening: Încheiați ziua cu stil la morile Ancien Moulin de l'Epine și Montafilan. Aceste ruine istorice strălucesc frumos în lumina blândă a serii, completând perfect o excursie confortabilă și memorabilă în Sables-d'Or-les-Pins.",
+        "en": "Morning: Experience a comfortable start to the day by driving to the impressive Chapelle Saint-Michel and quickly heading over to the Point de vue. The incredible panoramas from these elevated coastal spots set the ideal tone for your entire trip.\nMidday: Continue your drive to the Chapelle Notre-Dame des Sables to experience its profound spiritual tranquility. Afterward, visit the vibrant Salle Polyvalente, a hub where local culture and community spirit come alive in a fascinating way.\nAfternoon: In the afternoon, navigate to the Église Saint-Pierre, whose architecture enchants visitors in the town center. A short drive then immerses you deep into regional heritage at the impressive 16th-century Ancien moulin de la Hunaudaye.\nEvening: End the day in style by exploring the historic mills of Ancien Moulin de l'Epine and Montafilan. These storied ruins shine beautifully in the soft evening light, perfectly capping off your comfortable and comprehensive excursion."
+      }
+    }
+  }
+}

@@ -1,0 +1,543 @@
+{
+  "city_id": "nilvange",
+  "anchor": {
+    "name": "Nilvange",
+    "coords": [
+      6.05,
+      49.3422
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:14",
+      "total_km": 1.92,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ancienne mine de la paix",
+            "hu": "Ancienne mine de la paix",
+            "ro": "Ancienne mine de la paix",
+            "en": "Ancienne mine de la paix"
+          },
+          "coords": [
+            6.046386,
+            49.344963
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Schächte dieses ehemaligen Eisenbergwerks, um das Industrieerbe zu verstehen, aber bringen Sie eine warme Jacke für die kühlen Tunnel mit.",
+            "hu": "Fedezze fel az egykori vasércbánya történelmi aknáit, hogy megértse a régió ipari örökségét, de hozzon magával meleg kabátot a hűvös földalatti alagutak miatt.",
+            "ro": "Explorați puțurile istorice ale acestei foste mine de fier pentru a înțelege patrimoniul industrial, dar luați o jachetă călduroasă deoarece galeriile subterane sunt reci.",
+            "en": "Explore the historic shafts of this former iron mine to understand the region's industrial heritage, but wear a warm jacket as the underground tunnels are chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Nilvange Castle",
+            "hu": "Nilvange Castle",
+            "ro": "Nilvange Castle",
+            "en": "Nilvange Castle"
+          },
+          "coords": [
+            6.048631,
+            49.343555
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur dieses historischen Schlosses, die die adelige Vergangenheit von Nilvange widerspiegelt, und kommen Sie früh für ungestörte Fotos.",
+            "hu": "Csodálja meg ennek a történelmi kastélynak az elegáns építészetét, amely a város nemesi múltját tükrözi, és érkezzen korán, hogy tömeg nélkül fotózhassa le a homlokzatot.",
+            "ro": "Admirați arhitectura elegantă a acestui castel istoric care reflectă trecutul nobil al orașului și veniți dimineața devreme pentru a fotografia fațada fără aglomerație.",
+            "en": "Admire the elegant architecture of this historic castle that reflects Nilvange's noble past, and try to visit early in the day to take uncrowded photos of the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Temple protestant",
+            "hu": "Temple protestant",
+            "ro": "Temple protestant",
+            "en": "Temple protestant"
+          },
+          "coords": [
+            6.04541,
+            49.342604
+          ],
+          "category": "religious",
+          "arrive_at": "11:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die markanten neugotischen Merkmale dieser protestantischen Kirche, die religiöse Vielfalt zeigt, und achten Sie auf die feinen Holzdetails an der Eingangstür.",
+            "hu": "Csodálja meg a protestáns templom jellegzetes neogótikus vonásait, amelyek a vallási sokszínűséget mutatják, és figyelje meg a bejárati ajtó finom fafaragásait.",
+            "ro": "Admirați trăsăturile neogotice distincte ale acestui templu protestant, ce ilustrează diversitatea religioasă, și observați detaliile fine din lemn ale ușii de la intrare.",
+            "en": "Marvel at the distinct neo-Gothic features of this Protestant temple, which showcases religious diversity, and look closely at the fine wooden details on the entrance door."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Charles",
+            "hu": "Église Saint-Charles",
+            "ro": "Église Saint-Charles",
+            "en": "Église Saint-Charles"
+          },
+          "coords": [
+            6.042124,
+            49.339908
+          ],
+          "category": "religious",
+          "arrive_at": "12:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Betrachten Sie die atemberaubenden Buntglasfenster dieser katholischen Kirche, die farbiges Licht hereinlassen, und sitzen Sie ruhig in den hinteren Reihen für die Akustik.",
+            "hu": "Figyelje meg ennek a katolikus templomnak a lenyűgöző ólomüveg ablakait, amelyek színes fényt vetnek befelé, és üljön le csendben a hátsó padokban az akusztika miatt.",
+            "ro": "Observați vitraliile uimitoare ale acestei biserici catolice care aruncă lumini colorate în interior și așezați-vă în liniște pe băncile din spate pentru a simți acustica.",
+            "en": "Observe the stunning stained glass windows of this historic Catholic church that cast colorful light inside, and sit quietly in the back pews to appreciate the acoustics."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle de la Sainte-Trinité et Saint-Nicolas",
+            "hu": "Chapelle de la Sainte-Trinité et Saint-Nicolas",
+            "ro": "Chapelle de la Sainte-Trinité et Saint-Nicolas",
+            "en": "Chapelle de la Sainte-Trinité et Saint-Nicolas"
+          },
+          "coords": [
+            6.052248,
+            49.342274
+          ],
+          "category": "religious",
+          "arrive_at": "13:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.76,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Atmosphäre dieser malerischen Kapelle der Heiligen Dreifaltigkeit, die perfekt gepflegt wird, und bringen Sie ein Weitwinkelobjektiv für den Altar mit.",
+            "hu": "Fedezze fel a Szentháromságnak szentelt, tökéletesen karbantartott festői kápolna békés hangulatát, és hozzon magával nagylátószögű objektívet a kis oltár megörökítéséhez.",
+            "ro": "Descoperiți atmosfera senină a acestei capele pitorești dedicate Sfintei Treimi, perfect întreținută, și aduceți un obiectiv superangular pentru a surprinde micul altar.",
+            "en": "Discover the serene atmosphere of this quaint chapel dedicated to the Holy Trinity, perfectly maintained over the years, and bring a wide-angle lens to capture its small altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Gueulard Plus",
+            "hu": "Le Gueulard Plus",
+            "ro": "Le Gueulard Plus",
+            "en": "Le Gueulard Plus"
+          },
+          "coords": [
+            6.050774,
+            49.340581
+          ],
+          "category": "cultural",
+          "arrive_at": "14:17",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebendige zeitgenössische Kultur in diesem bekannten Musikveranstaltungsort, aber überprüfen Sie unbedingt das Tagesausstellungsprogramm vor Ihrem Besuch.",
+            "hu": "Tapasztalja meg a pezsgő kortárs kultúrát ezen az ismert kortárs zenei helyszínen, de látogatás előtt mindenképpen ellenőrizze a nappali kiállítások menetrendjét.",
+            "ro": "Experimentați cultura contemporană vibrantă în această locație de muzică modernă, dar asigurați-vă că verificați programul expozițiilor de zi înainte de a planifica vizita.",
+            "en": "Experience the vibrant contemporary culture at this renowned contemporary music venue, but make sure to check their daytime exhibition schedule before planning your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint James the Greater Church",
+            "hu": "Saint James the Greater Church",
+            "ro": "Saint James the Greater Church",
+            "en": "Saint James the Greater Church"
+          },
+          "coords": [
+            6.051727,
+            49.339665
+          ],
+          "category": "religious",
+          "arrive_at": "15:04",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Treten Sie in diese majestätische Pfarrkirche ein, um die wunderschön erhaltenen Fresken zu sehen, und ruhen Sie sich auf dem angrenzenden Platz aus, um die Architektur zu bewundern.",
+            "hu": "Lépjen be ebbe a fenséges plébániatemplomba, hogy megtekintse szépen megőrzött freskóit, és pihenjen meg a szomszédos téren, hogy teljes mértékben befogadja az építészeti léptéket.",
+            "ro": "Pășiți în această biserică parohială maiestuoasă pentru a vedea frescele sale frumos conservate și odihniți-vă în piața alăturată pentru a absorbi pe deplin scara sa arhitecturală.",
+            "en": "Step inside this majestic parish church to view its beautifully preserved frescoes, and take a moment to rest in the adjoining square to fully absorb its architectural scale."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung der tiefen industriellen Wurzeln in der ehemaligen Friedensmine. Danach spazieren Sie zum historischen Schloss, um die elegante Struktur zu bewundern.\nMittags machen Sie eine spirituelle Pause im markanten protestantischen Tempel und bewundern die katholische Architektur von Saint-Charles. Genießen Sie danach ein Mittagessen.\nSetzen Sie am Nachmittag Ihren Spaziergang zur ruhigen Kapelle der Heiligen Dreifaltigkeit fort. Nehmen Sie sich Zeit für Fotos, bevor Sie ins kulturelle Zentrum gehen.\nBeenden Sie Ihre Tour am Le Gueulard Plus für zeitgenössische Kunst und lassen Sie den Abend in der Kirche St. Jakobus der Ältere mit ihren wunderschönen Fresken ausklingen.",
+        "hu": "Kezdje a reggelt a régió ipari gyökereinek felfedezésével az egykori bányában. Ezután sétáljon át a történelmi kastélyhoz, hogy megcsodálja elegáns szerkezetét és nemesi múltját.\nDélben tartson spirituális szünetet a feltűnő protestáns templomban, amelyet a Saint-Charles templom gyönyörű katolikus építészete követ. Fogyasszon el egy finom ebédet a közelben.\nDélután folytassa sétáját a békés Szentháromság-kápolna felé. Szánjon időt a bájos részletek fotózására, mielőtt a város kulturális központja felé venné az irányt.\nFejezze be a sétát a Le Gueulard Plus kortárs hangulatában, az estét pedig a Nagy Szent Jakab-templom freskóinak megcsodálásával zárja a naplemente fényeiben.",
+        "ro": "Începeți dimineața explorând rădăcinile industriale profunde ale regiunii la fosta mină a păcii. Apoi, plimbați-vă până la castelul istoric pentru a admira structura sa elegantă și trecutul nobil.\nMiezul zilei aduce o pauză spirituală la uimitorul templu protestant, urmată de arhitectura catolică superbă a bisericii Saint-Charles. Bucurați-vă de prânz în apropiere.\nDupă-amiaza, continuați plimbarea spre capela senină a Sfintei Treimi. Luați-vă timp pentru a fotografia detaliile sale fermecătoare înainte de a vă îndrepta spre inima culturală.\nÎncheiați turul la Le Gueulard Plus pentru a absorbi vibrațiile contemporane, terminând seara admirând frescele Bisericii Sfântul Iacob cel Mare la apus.",
+        "en": "Start your morning exploring the deep industrial roots of the region at the former peace mine. Afterwards, walk over to the historic castle to admire its elegant structure and noble past.\nMidday brings a spiritual pause as you visit the striking Protestant temple, followed by the beautiful Catholic architecture of Saint-Charles church. Enjoy lunch nearby.\nIn the afternoon, continue your stroll to the serene Holy Trinity chapel. Take time to photograph its charming details before heading towards the town's cultural heart.\nConclude your walking tour at Le Gueulard Plus to soak in contemporary vibes, finishing the evening admiring the frescoes of Saint James the Greater Church as the sun sets."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:19",
+      "total_km": 3.75,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle du Konacker",
+            "hu": "Chapelle du Konacker",
+            "ro": "Chapelle du Konacker",
+            "en": "Chapelle du Konacker"
+          },
+          "coords": [
+            6.057484,
+            49.350694
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Vorstadtumgebung dieser bezaubernden Kapelle im Viertel Konacker und gehen Sie um sie herum, um die klassischen Ziegelsteindetails zu bewundern.",
+            "hu": "Élvezze a helyi Konacker negyedet szolgáló bájos kápolna békés, külvárosi környezetét, és sétálja körbe, hogy megcsodálhassa a klasszikus téglaépítészet részleteit.",
+            "ro": "Bucurați-vă de cadrul suburban liniștit al acestei capele fermecătoare care deservește cartierul Konacker și plimbați-vă în jurul ei pentru a aprecia detaliile din cărămidă.",
+            "en": "Enjoy the peaceful suburban setting of this charming chapel that serves the local Konacker neighborhood, and walk around its perimeter to appreciate the classic brickwork details."
+          }
+        },
+        {
+          "name": {
+            "de": "Nilvange Castle",
+            "hu": "Nilvange Castle",
+            "ro": "Nilvange Castle",
+            "en": "Nilvange Castle"
+          },
+          "coords": [
+            6.048631,
+            49.343555
+          ],
+          "category": "historical",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur dieses historischen Schlosses, die die adelige Vergangenheit von Nilvange widerspiegelt, und kommen Sie früh für ungestörte Fotos.",
+            "hu": "Csodálja meg ennek a történelmi kastélynak az elegáns építészetét, amely a város nemesi múltját tükrözi, és érkezzen korán, hogy tömeg nélkül fotózhassa le a homlokzatot.",
+            "ro": "Admirați arhitectura elegantă a acestui castel istoric care reflectă trecutul nobil al orașului și veniți dimineața devreme pentru a fotografia fațada fără aglomerație.",
+            "en": "Admire the elegant architecture of this historic castle that reflects Nilvange's noble past, and try to visit early in the day to take uncrowded photos of the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Ancienne mine de la paix",
+            "hu": "Ancienne mine de la paix",
+            "ro": "Ancienne mine de la paix",
+            "en": "Ancienne mine de la paix"
+          },
+          "coords": [
+            6.046386,
+            49.344963
+          ],
+          "category": "historical",
+          "arrive_at": "11:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Schächte dieses ehemaligen Eisenbergwerks, um das Industrieerbe zu verstehen, aber bringen Sie eine warme Jacke für die kühlen Tunnel mit.",
+            "hu": "Fedezze fel az egykori vasércbánya történelmi aknáit, hogy megértse a régió ipari örökségét, de hozzon magával meleg kabátot a hűvös földalatti alagutak miatt.",
+            "ro": "Explorați puțurile istorice ale acestei foste mine de fier pentru a înțelege patrimoniul industrial, dar luați o jachetă călduroasă deoarece galeriile subterane sunt reci.",
+            "en": "Explore the historic shafts of this former iron mine to understand the region's industrial heritage, but wear a warm jacket as the underground tunnels are chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Temple protestant",
+            "hu": "Temple protestant",
+            "ro": "Temple protestant",
+            "en": "Temple protestant"
+          },
+          "coords": [
+            6.04541,
+            49.342604
+          ],
+          "category": "religious",
+          "arrive_at": "12:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die markanten neugotischen Merkmale dieser protestantischen Kirche, die religiöse Vielfalt zeigt, und achten Sie auf die feinen Holzdetails an der Eingangstür.",
+            "hu": "Csodálja meg a protestáns templom jellegzetes neogótikus vonásait, amelyek a vallási sokszínűséget mutatják, és figyelje meg a bejárati ajtó finom fafaragásait.",
+            "ro": "Admirați trăsăturile neogotice distincte ale acestui templu protestant, ce ilustrează diversitatea religioasă, și observați detaliile fine din lemn ale ușii de la intrare.",
+            "en": "Marvel at the distinct neo-Gothic features of this Protestant temple, which showcases religious diversity, and look closely at the fine wooden details on the entrance door."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Charles",
+            "hu": "Église Saint-Charles",
+            "ro": "Église Saint-Charles",
+            "en": "Église Saint-Charles"
+          },
+          "coords": [
+            6.042124,
+            49.339908
+          ],
+          "category": "religious",
+          "arrive_at": "13:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Betrachten Sie die atemberaubenden Buntglasfenster dieser katholischen Kirche, die farbiges Licht hereinlassen, und sitzen Sie ruhig in den hinteren Reihen für die Akustik.",
+            "hu": "Figyelje meg ennek a katolikus templomnak a lenyűgöző ólomüveg ablakait, amelyek színes fényt vetnek befelé, és üljön le csendben a hátsó padokban az akusztika miatt.",
+            "ro": "Observați vitraliile uimitoare ale acestei biserici catolice care aruncă lumini colorate în interior și așezați-vă în liniște pe băncile din spate pentru a simți acustica.",
+            "en": "Observe the stunning stained glass windows of this historic Catholic church that cast colorful light inside, and sit quietly in the back pews to appreciate the acoustics."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée des Mines de Fer de Neufchef",
+            "hu": "Musée des Mines de Fer de Neufchef",
+            "ro": "Musée des Mines de Fer de Neufchef",
+            "en": "Musée des Mines de Fer de Neufchef"
+          },
+          "coords": [
+            6.028231,
+            49.325348
+          ],
+          "category": "museum",
+          "arrive_at": "14:09",
+          "stay_min": 130,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Tauchen Sie tief in die harte Realität der lothringischen Eisenerzbergleute in authentischen unterirdischen Galerien ein und tragen Sie feste Schuhe für das unebene Gelände.",
+            "hu": "Merüljön el a lotaringiai vasércbányászok kemény valóságában az autentikus földalatti galériákon keresztül, és viseljen masszív túracipőt, mivel a múzeum terepe meglehetősen egyenetlen.",
+            "ro": "Pătrundeți în realitatea dură a minerilor de fier din Lorena prin galeriile subterane autentice și purtați pantofi de mers rezistenți, deoarece terenul muzeului este destul de denivelat.",
+            "en": "Dive deep into the harsh reality of Lorraine's iron miners through authentic underground galleries, and wear sturdy walking shoes as the museum terrain is quite uneven."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag im ruhigen nördlichen Vorort an der Kapelle Konacker. Radeln Sie hinunter zum historischen Schloss Nilvange und genießen Sie die morgendliche Brise.\nMittags liegt der Fokus auf dem Bergbauerbe mit einem Stopp an der alten Friedensmine. Fahren Sie dann durch das Stadtzentrum und besuchen Sie die Kirchen.\nVerbringen Sie den Nachmittag mit einer landschaftlich reizvollen Fahrt Richtung Neufchef. Der Wechsel von städtischen Straßen zu grüneren Wegen macht die Tour besonders angenehm.\nBeenden Sie den Nachmittag mit der Erkundung des Eisenerzbergbaumuseums Neufchef. Die faszinierenden unterirdischen Stollen bilden den perfekten kühlen Abschluss.",
+        "hu": "Kezdje a kerékpározást az északi külvárosban, a Konacker kápolnánál. Tekerjen le a történelmi Nilvange kastélyhoz, és élvezze a reggeli szellőt a terület felfedezése közben.\nDélben fókuszáljon a régió bányászati örökségére az egykori bányánál. Ezután kerékpározzon át a városközponton, és látogassa meg a protestáns és katolikus templomokat.\nA délutánt egy festői, valamivel hosszabb tekeréssel töltse Neufchef felé. A városi utcákról a zöldebb ösvényekre változó táj nagyon élvezetessé teszi az utat.\nZárja a délutánt a kiterjedt Neufchef Vasmúzeum felfedezésével. A lenyűgöző földalatti galériák tökéletes, hűvös esti lezárást nyújtanak kerékpáros kalandjának.",
+        "ro": "Începeți ziua de ciclism în suburbia nordică liniștită, la capela Konacker. Pedați până la Castelul istoric Nilvange, bucurându-vă de briza dimineții în timp ce explorați domeniul.\nLa amiază, concentrați-vă pe patrimoniul minier cu o scurtă oprire la vechea mină. Apoi, mergeți prin centrul orașului vizitând bisericile protestante și catolice din zonă.\nPetreceți după-amiaza bucurându-vă de o plimbare pitorească și mai lungă spre Neufchef. Peisajele schimbătoare de la străzi urbane la cărări mai verzi sunt cu adevărat plăcute.\nÎncheiați după-amiaza explorând vastul Muzeu al Minelor de Fier Neufchef. Galeriile subterane fascinante oferă o concluzie răcoroasă perfectă pentru aventura pe două roți.",
+        "en": "Kick off your cycling day in the quiet northern suburb at Konacker chapel. Pedal down to the historic Nilvange Castle, embracing the morning breeze as you explore its grounds.\nAt midday, shift your focus to the region's mining heritage with a quick stop at the old peace mine. Then, ride through the town center visiting the Protestant and Catholic churches.\nSpend your afternoon enjoying a scenic, slightly longer ride towards Neufchef. The changing landscapes from urban streets to greener paths make the cycling journey highly enjoyable.\nEnd your afternoon exploring the extensive Neufchef Iron Mines Museum. The fascinating underground galleries provide a perfect, cool evening conclusion to your cycling adventure."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:31",
+      "total_km": 4.29,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Musée des Mines de Fer de Neufchef",
+            "hu": "Musée des Mines de Fer de Neufchef",
+            "ro": "Musée des Mines de Fer de Neufchef",
+            "en": "Musée des Mines de Fer de Neufchef"
+          },
+          "coords": [
+            6.028231,
+            49.325348
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Tauchen Sie tief in die harte Realität der lothringischen Eisenerzbergleute in authentischen unterirdischen Galerien ein und tragen Sie feste Schuhe für das unebene Gelände.",
+            "hu": "Merüljön el a lotaringiai vasércbányászok kemény valóságában az autentikus földalatti galériákon keresztül, és viseljen masszív túracipőt, mivel a múzeum terepe meglehetősen egyenetlen.",
+            "ro": "Pătrundeți în realitatea dură a minerilor de fier din Lorena prin galeriile subterane autentice și purtați pantofi de mers rezistenți, deoarece terenul muzeului este destul de denivelat.",
+            "en": "Dive deep into the harsh reality of Lorraine's iron miners through authentic underground galleries, and wear sturdy walking shoes as the museum terrain is quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame-des-Neiges",
+            "hu": "Chapelle Notre-Dame-des-Neiges",
+            "ro": "Chapelle Notre-Dame-des-Neiges",
+            "en": "Chapelle Notre-Dame-des-Neiges"
+          },
+          "coords": [
+            6.025475,
+            49.32616
+          ],
+          "category": "religious",
+          "arrive_at": "10:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Finden Sie spirituellen Trost in dieser winzigen Kapelle in der Nähe des Minenkomplexes und kommen Sie am späten Vormittag, wenn das Sonnenlicht perfekt durch die kleinen Fenster fällt.",
+            "hu": "Találjon lelki vigasztalást ezen az apró, hóról elnevezett kápolnánál a bányakomplexum közelében, és érkezzen késő délelőtt, amikor a napfény tökéletesen átszűrődik a kis ablakain.",
+            "ro": "Găsiți o alinare spirituală la această minusculă capelă situată lângă complexul minier și ajungeți dimineața târziu, când lumina soarelui se filtrează perfect prin ferestrele sale mici.",
+            "en": "Find spiritual solace at this tiny, snow-named chapel nestled near the mining complex, and arrive in the late morning when the sunlight filters perfectly through its small windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Charles",
+            "hu": "Église Saint-Charles",
+            "ro": "Église Saint-Charles",
+            "en": "Église Saint-Charles"
+          },
+          "coords": [
+            6.042124,
+            49.339908
+          ],
+          "category": "religious",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.93,
+          "tip_5lang": {
+            "de": "Betrachten Sie die atemberaubenden Buntglasfenster dieser katholischen Kirche, die farbiges Licht hereinlassen, und sitzen Sie ruhig in den hinteren Reihen für die Akustik.",
+            "hu": "Figyelje meg ennek a katolikus templomnak a lenyűgöző ólomüveg ablakait, amelyek színes fényt vetnek befelé, és üljön le csendben a hátsó padokban az akusztika miatt.",
+            "ro": "Observați vitraliile uimitoare ale acestei biserici catolice care aruncă lumini colorate în interior și așezați-vă în liniște pe băncile din spate pentru a simți acustica.",
+            "en": "Observe the stunning stained glass windows of this historic Catholic church that cast colorful light inside, and sit quietly in the back pews to appreciate the acoustics."
+          }
+        },
+        {
+          "name": {
+            "de": "Temple protestant",
+            "hu": "Temple protestant",
+            "ro": "Temple protestant",
+            "en": "Temple protestant"
+          },
+          "coords": [
+            6.04541,
+            49.342604
+          ],
+          "category": "religious",
+          "arrive_at": "12:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die markanten neugotischen Merkmale dieser protestantischen Kirche, die religiöse Vielfalt zeigt, und achten Sie auf die feinen Holzdetails an der Eingangstür.",
+            "hu": "Csodálja meg a protestáns templom jellegzetes neogótikus vonásait, amelyek a vallási sokszínűséget mutatják, és figyelje meg a bejárati ajtó finom fafaragásait.",
+            "ro": "Admirați trăsăturile neogotice distincte ale acestui templu protestant, ce ilustrează diversitatea religioasă, și observați detaliile fine din lemn ale ușii de la intrare.",
+            "en": "Marvel at the distinct neo-Gothic features of this Protestant temple, which showcases religious diversity, and look closely at the fine wooden details on the entrance door."
+          }
+        },
+        {
+          "name": {
+            "de": "Ancienne mine de la paix",
+            "hu": "Ancienne mine de la paix",
+            "ro": "Ancienne mine de la paix",
+            "en": "Ancienne mine de la paix"
+          },
+          "coords": [
+            6.046386,
+            49.344963
+          ],
+          "category": "historical",
+          "arrive_at": "12:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Schächte dieses ehemaligen Eisenbergwerks, um das Industrieerbe zu verstehen, aber bringen Sie eine warme Jacke für die kühlen Tunnel mit.",
+            "hu": "Fedezze fel az egykori vasércbánya történelmi aknáit, hogy megértse a régió ipari örökségét, de hozzon magával meleg kabátot a hűvös földalatti alagutak miatt.",
+            "ro": "Explorați puțurile istorice ale acestei foste mine de fier pentru a înțelege patrimoniul industrial, dar luați o jachetă călduroasă deoarece galeriile subterane sunt reci.",
+            "en": "Explore the historic shafts of this former iron mine to understand the region's industrial heritage, but wear a warm jacket as the underground tunnels are chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Nilvange Castle",
+            "hu": "Nilvange Castle",
+            "ro": "Nilvange Castle",
+            "en": "Nilvange Castle"
+          },
+          "coords": [
+            6.048631,
+            49.343555
+          ],
+          "category": "historical",
+          "arrive_at": "14:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur dieses historischen Schlosses, die die adelige Vergangenheit von Nilvange widerspiegelt, und kommen Sie früh für ungestörte Fotos.",
+            "hu": "Csodálja meg ennek a történelmi kastélynak az elegáns építészetét, amely a város nemesi múltját tükrözi, és érkezzen korán, hogy tömeg nélkül fotózhassa le a homlokzatot.",
+            "ro": "Admirați arhitectura elegantă a acestui castel istoric care reflectă trecutul nobil al orașului și veniți dimineața devreme pentru a fotografia fațada fără aglomerație.",
+            "en": "Admire the elegant architecture of this historic castle that reflects Nilvange's noble past, and try to visit early in the day to take uncrowded photos of the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle de la Sainte-Trinité et Saint-Nicolas",
+            "hu": "Chapelle de la Sainte-Trinité et Saint-Nicolas",
+            "ro": "Chapelle de la Sainte-Trinité et Saint-Nicolas",
+            "en": "Chapelle de la Sainte-Trinité et Saint-Nicolas"
+          },
+          "coords": [
+            6.052248,
+            49.342274
+          ],
+          "category": "religious",
+          "arrive_at": "15:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Atmosphäre dieser malerischen Kapelle der Heiligen Dreifaltigkeit, die perfekt gepflegt wird, und bringen Sie ein Weitwinkelobjektiv für den Altar mit.",
+            "hu": "Fedezze fel a Szentháromságnak szentelt, tökéletesen karbantartott festői kápolna békés hangulatát, és hozzon magával nagylátószögű objektívet a kis oltár megörökítéséhez.",
+            "ro": "Descoperiți atmosfera senină a acestei capele pitorești dedicate Sfintei Treimi, perfect întreținută, și aduceți un obiectiv superangular pentru a surprinde micul altar.",
+            "en": "Discover the serene atmosphere of this quaint chapel dedicated to the Holy Trinity, perfectly maintained over the years, and bring a wide-angle lens to capture its small altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle du Konacker",
+            "hu": "Chapelle du Konacker",
+            "ro": "Chapelle du Konacker",
+            "en": "Chapelle du Konacker"
+          },
+          "coords": [
+            6.057484,
+            49.350694
+          ],
+          "category": "religious",
+          "arrive_at": "16:21",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Vorstadtumgebung dieser bezaubernden Kapelle im Viertel Konacker und gehen Sie um sie herum, um die klassischen Ziegelsteindetails zu bewundern.",
+            "hu": "Élvezze a helyi Konacker negyedet szolgáló bájos kápolna békés, külvárosi környezetét, és sétálja körbe, hogy megcsodálhassa a klasszikus téglaépítészet részleteit.",
+            "ro": "Bucurați-vă de cadrul suburban liniștit al acestei capele fermecătoare care deservește cartierul Konacker și plimbați-vă în jurul ei pentru a aprecia detaliile din cărămidă.",
+            "en": "Enjoy the peaceful suburban setting of this charming chapel that serves the local Konacker neighborhood, and walk around its perimeter to appreciate the classic brickwork details."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour mit einem tiefen Einblick in die Geschichte im Eisenerzbergbaumuseum Neufchef. Verbringen Sie den Morgen in den authentischen unterirdischen Stollen.\nFahren Sie mittags eine kurze Strecke zur winzigen Kapelle Maria Schnee. Fahren Sie weiter ins Zentrum von Nilvange, um die wunderschönen Buntglasfenster von Saint-Charles zu bestaunen.\nParken Sie am Nachmittag in der Nähe des protestantischen Tempels, bevor Sie die alte Mine und das historische Schloss Nilvange erkunden. Alles liegt hier sehr bequem beieinander.\nWenn der Abend naht, beenden Sie Ihre umfassende Tour mit Stopps an der Dreifaltigkeitskapelle und der bezaubernden Kapelle Konacker, und genießen Sie die ruhige Abenddämmerung.",
+        "hu": "Kezdje autós túráját a történelemben elmerülve a Neufchef Vasmúzeumban. Töltse a reggelt az autentikus földalatti galériákban sétálva, és ismerkedjen meg a bányászok életével.\nDélben vezessen egy rövid távolságot a Havas Boldogasszony apró kápolnájához. Folytassa útját Nilvange központjába, hogy megcsodálja a Saint-Charles templom ólomüveg ablakait.\nDélután parkoljon le a protestáns templom közelében, mielőtt felfedezné a régi bányát és a történelmi Nilvange kastélyt. A közelség miatt nagyon könnyű ezek között váltani.\nAz este közeledtével fejezze be az autós túrát a Szentháromság-kápolnánál és a bájos Konacker kápolnánál, élvezve a külvárosok csendes, alkonyati hangulatát.",
+        "ro": "Începeți turul cu mașina profund cufundat în istorie la Muzeul Minelor de Fier Neufchef. Petreceți dimineața plimbându-vă prin galeriile subterane autentice ale minerilor.\nÎn jurul amiezii, conduceți scurt până la micuța capelă a Maicii Domnului a Zăpezilor. Continuați spre centrul orașului Nilvange pentru a admira vitraliile din Saint-Charles.\nDupă-amiaza, parcați lângă templul protestant înainte de a explora vechea mină și castelul istoric Nilvange. Distanțele scurte fac deplasarea între aceste obiective foarte ușoară.\nSpre seară, încheiați turul cuprinzător cu mașina cu opriri la capela Sfintei Treimi și fermecătoarea capelă Konacker, bucurându-vă de atmosfera liniștită a crepusculului.",
+        "en": "Start your driving tour deeply immersed in history at the Neufchef Iron Mines Museum. Spend the morning walking through its authentic underground galleries and learning about the miners.\nAround midday, drive a short distance to the tiny Chapel of Our Lady of the Snows. Continue into Nilvange's town center to marvel at the beautiful stained glass of Saint-Charles.\nIn the afternoon, park near the Protestant temple before exploring the old peace mine and the historic Nilvange Castle. The close proximity makes jumping between these sights very easy.\nAs evening approaches, finish your comprehensive car tour with stops at the Holy Trinity chapel and the charming Konacker chapel, enjoying the quiet twilight atmosphere of the suburbs."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "villeneuve-les-maguelone",
+  "anchor": {
+    "name": "Villeneuve-lès-Maguelone",
+    "coords": [
+      3.8608,
+      43.5322
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:53",
+      "total_km": 3.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Arnel Pond",
+            "hu": "Arnel Pond",
+            "ro": "Arnel Pond",
+            "en": "Arnel Pond"
+          },
+          "coords": [
+            3.889998,
+            43.521878
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den ruhigen Étang de l'Arnel, ein Paradies für Rosa Flamingos und Zugvögel, also bringen Sie unbedingt Ihr Fernglas für die beste Vogelbeobachtung mit.",
+            "hu": "Csodálja meg a nyugodt Arnel-tavat, amely a rózsás flamingók és vándormadarak menedéke, ezért mindenképpen hozzon magával távcsövet a legjobb madármegfigyeléshez.",
+            "ro": "Admirați liniștitul Iaz Arnel, un refugiu pentru păsările flamingo și alte specii migratoare, deci aduceți-vă binoclul pentru cea mai bună experiență de observare.",
+            "en": "Admire the tranquil Arnel Pond, a haven for pink flamingos and migratory birds, so bring your binoculars for the best early morning birdwatching experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Pilou Footbridge",
+            "hu": "Pilou Footbridge",
+            "ro": "Pilou Footbridge",
+            "en": "Pilou Footbridge"
+          },
+          "coords": [
+            3.880629,
+            43.517001
+          ],
+          "category": "civic",
+          "arrive_at": "10:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Überqueren Sie die ikonische Pilou-Fußgängerbrücke, die das Festland mit dem Küstenstreifen verbindet und großartige Fotomotive der umliegenden ruhigen Gewässer bietet.",
+            "hu": "Keljen át az ikonikus Pilou gyaloghídon, amely elegánsan köti össze a szárazföldet a partszakasszal, így nagyszerű fotózási lehetőségeket kínál a nyugodt vizekről.",
+            "ro": "Traversați faimoasa Pasarelă Pilou, care conectează elegant continentul de fâșia de coastă, oferind oportunități excelente de fotografiere a apelor liniștite.",
+            "en": "Cross the iconic Pilou Footbridge which elegantly connects the mainland to the coastal strip, offering great photo opportunities of the surrounding calm waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Maguelone Cathedral",
+            "hu": "Maguelone Cathedral",
+            "ro": "Maguelone Cathedral",
+            "en": "Maguelone Cathedral"
+          },
+          "coords": [
+            3.883611,
+            43.5125
+          ],
+          "category": "religious",
+          "arrive_at": "11:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die majestätische romanische Kathedrale von Maguelone inmitten üppiger Weinberge, aber überprüfen Sie vorher die saisonal wechselnden Öffnungszeiten.",
+            "hu": "Fedezze fel a fenséges román stílusú Maguelone-katedrálist a buja szőlőültetvények között, de indulás előtt ellenőrizze a szezonálisan változó nyitvatartási időt.",
+            "ro": "Explorați maiestuoasa Catedrală romanică Maguelone înconjurată de podgorii luxuriante, dar nu uitați să verificați în prealabil programul de vizitare care variază.",
+            "en": "Explore the majestic Romanesque Maguelone Cathedral surrounded by lush vineyards, but remember to check the opening hours beforehand as they change seasonally."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Maguelone",
+            "hu": "Plage de Maguelone",
+            "ro": "Plage de Maguelone",
+            "en": "Plage de Maguelone"
+          },
+          "coords": [
+            3.882348,
+            43.504754
+          ],
+          "category": "recreational",
+          "arrive_at": "12:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie am unberührten Plage de Maguelone, einem perfekten Naturstrand zum Schwimmen, also packen Sie ausreichend Sonnencreme ein, da der Schatten begrenzt ist.",
+            "hu": "Pihenjen a festői Maguelone strandon, amely tökéletes egy kis úszáshoz, ezért csomagoljon bőségesen naptejet és vizet, mivel az árnyék meglehetősen korlátozott.",
+            "ro": "Relaxați-vă pe Plaja Maguelone, o întindere naturală perfectă pentru înot, așa că luați cu dumneavoastră multă cremă de soare deoarece zonele cu umbră sunt limitate.",
+            "en": "Relax on the pristine Plage de Maguelone, an unspoiled natural beach perfect for swimming, so pack plenty of sunscreen and water as shade is quite limited here."
+          }
+        },
+        {
+          "name": {
+            "de": "Pilou Beach",
+            "hu": "Pilou Beach",
+            "ro": "Pilou Beach",
+            "en": "Pilou Beach"
+          },
+          "coords": [
+            3.88916,
+            43.50813
+          ],
+          "category": "natural",
+          "arrive_at": "14:08",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie am wunderschönen Pilou-Strand, wo das Mittelmeer auf die Lagunen trifft, was ihn ideal für einen späten Nachmittagsspaziergang in der Meeresbrise macht.",
+            "hu": "Kapcsolódjon ki a gyönyörű Pilou strandon, ahol a Földközi-tenger találkozik a lagúnákkal, így ideális helyszín egy késő délutáni sétához a lágy tengeri szellőben.",
+            "ro": "Destindeți-vă pe frumoasa Plajă Pilou, unde Marea Mediterană întâlnește lagunele de coastă, fiind locul ideal pentru o plimbare de după-amiază în briza mării.",
+            "en": "Unwind at the beautiful Pilou Beach where the Mediterranean meets the coastal lagoons, making it ideal for a late afternoon stroll in the gentle sea breeze."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einem ruhigen Spaziergang um den Étang de l'Arnel und genießen Sie die Natur. Überqueren Sie am Mittag die malerische Pilou-Fußgängerbrücke und tauchen Sie in die Geschichte der Kathedrale von Maguelone ein. Verbringen Sie den Nachmittag entspannt am unberührten Strand von Maguelone. Beenden Sie Ihre Reise am Abend mit einem sanften Spaziergang am Pilou-Strand.",
+        "hu": "Kezdje a reggelt egy nyugodt sétával az Arnel-tó körül, élvezve a természeti szépségeket. Délben keljen át a festői Pilou gyaloghídon, és merüljön el a Maguelone-katedrális történetében. Töltse a délutánt pihenéssel a Maguelone strand érintetlen homokján. Az este közeledtével zárja utazását egy megnyugtató sétával a gyönyörű Pilou strandon a naplementében.",
+        "ro": "Începeți dimineața cu o plimbare liniștită în jurul Iazului Arnel, bucurându-vă de natură. La amiază, traversați pitoreasca Pasarelă Pilou și descoperiți istoria Catedralei Maguelone. Petreceți-vă după-amiaza relaxându-vă pe nisipul virgin de la Plaja Maguelone. Pe măsură ce se lasă seara, încheiați-vă călătoria cu o plimbare reconfortantă pe minunata Plajă Pilou.",
+        "en": "Begin your morning with a tranquil walk around the Arnel Pond, embracing the natural beauty and birdlife. By midday, cross the picturesque Pilou Footbridge and immerse yourself in the history of the Maguelone Cathedral. Spend your afternoon relaxing on the pristine sands of Plage de Maguelone. As evening approaches, conclude your journey with a soothing stroll along Pilou Beach."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:02",
+      "total_km": 7.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Villeneuve Salt Marshes",
+            "hu": "Villeneuve Salt Marshes",
+            "ro": "Villeneuve Salt Marshes",
+            "en": "Villeneuve Salt Marshes"
+          },
+          "coords": [
+            3.848401,
+            43.51832
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Salinen von Villeneuve mit ihrer ökologischen Vielfalt und tragen Sie bequeme Wanderschuhe, um die rustikalen Wege leicht zu meistern.",
+            "hu": "Fedezze fel a lenyűgöző Villeneuve sólepárlókat és azok egyedülálló ökológiai sokszínűségét, és viseljen kényelmes cipőt a rusztikus földutak könnyű bejárásához.",
+            "ro": "Descoperiți fascinantele Mlaștini Sărate Villeneuve cu diversitatea lor ecologică unică și purtați încălțăminte confortabilă pentru a parcurge ușor potecile rustice.",
+            "en": "Discover the fascinating Villeneuve Salt Marshes with their unique ecological diversity, and wear comfortable walking shoes to navigate the rustic dirt pathways easily."
+          }
+        },
+        {
+          "name": {
+            "de": "Arnel Pond",
+            "hu": "Arnel Pond",
+            "ro": "Arnel Pond",
+            "en": "Arnel Pond"
+          },
+          "coords": [
+            3.889998,
+            43.521878
+          ],
+          "category": "natural",
+          "arrive_at": "10:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie den ruhigen Étang de l'Arnel, ein Paradies für Rosa Flamingos und Zugvögel, also bringen Sie unbedingt Ihr Fernglas für die beste Vogelbeobachtung mit.",
+            "hu": "Csodálja meg a nyugodt Arnel-tavat, amely a rózsás flamingók és vándormadarak menedéke, ezért mindenképpen hozzon magával távcsövet a legjobb madármegfigyeléshez.",
+            "ro": "Admirați liniștitul Iaz Arnel, un refugiu pentru păsările flamingo și alte specii migratoare, deci aduceți-vă binoclul pentru cea mai bună experiență de observare.",
+            "en": "Admire the tranquil Arnel Pond, a haven for pink flamingos and migratory birds, so bring your binoculars for the best early morning birdwatching experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Pilou Footbridge",
+            "hu": "Pilou Footbridge",
+            "ro": "Pilou Footbridge",
+            "en": "Pilou Footbridge"
+          },
+          "coords": [
+            3.880629,
+            43.517001
+          ],
+          "category": "civic",
+          "arrive_at": "12:04",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Überqueren Sie die ikonische Pilou-Fußgängerbrücke, die das Festland mit dem Küstenstreifen verbindet und großartige Fotomotive der umliegenden ruhigen Gewässer bietet.",
+            "hu": "Keljen át az ikonikus Pilou gyaloghídon, amely elegánsan köti össze a szárazföldet a partszakasszal, így nagyszerű fotózási lehetőségeket kínál a nyugodt vizekről.",
+            "ro": "Traversați faimoasa Pasarelă Pilou, care conectează elegant continentul de fâșia de coastă, oferind oportunități excelente de fotografiere a apelor liniștite.",
+            "en": "Cross the iconic Pilou Footbridge which elegantly connects the mainland to the coastal strip, offering great photo opportunities of the surrounding calm waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Maguelone Cathedral",
+            "hu": "Maguelone Cathedral",
+            "ro": "Maguelone Cathedral",
+            "en": "Maguelone Cathedral"
+          },
+          "coords": [
+            3.883611,
+            43.5125
+          ],
+          "category": "religious",
+          "arrive_at": "12:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die majestätische romanische Kathedrale von Maguelone inmitten üppiger Weinberge, aber überprüfen Sie vorher die saisonal wechselnden Öffnungszeiten.",
+            "hu": "Fedezze fel a fenséges román stílusú Maguelone-katedrálist a buja szőlőültetvények között, de indulás előtt ellenőrizze a szezonálisan változó nyitvatartási időt.",
+            "ro": "Explorați maiestuoasa Catedrală romanică Maguelone înconjurată de podgorii luxuriante, dar nu uitați să verificați în prealabil programul de vizitare care variază.",
+            "en": "Explore the majestic Romanesque Maguelone Cathedral surrounded by lush vineyards, but remember to check the opening hours beforehand as they change seasonally."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Maguelone",
+            "hu": "Plage de Maguelone",
+            "ro": "Plage de Maguelone",
+            "en": "Plage de Maguelone"
+          },
+          "coords": [
+            3.882348,
+            43.504754
+          ],
+          "category": "recreational",
+          "arrive_at": "13:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie am unberührten Plage de Maguelone, einem perfekten Naturstrand zum Schwimmen, also packen Sie ausreichend Sonnencreme ein, da der Schatten begrenzt ist.",
+            "hu": "Pihenjen a festői Maguelone strandon, amely tökéletes egy kis úszáshoz, ezért csomagoljon bőségesen naptejet és vizet, mivel az árnyék meglehetősen korlátozott.",
+            "ro": "Relaxați-vă pe Plaja Maguelone, o întindere naturală perfectă pentru înot, așa că luați cu dumneavoastră multă cremă de soare deoarece zonele cu umbră sunt limitate.",
+            "en": "Relax on the pristine Plage de Maguelone, an unspoiled natural beach perfect for swimming, so pack plenty of sunscreen and water as shade is quite limited here."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de Pierre Blanche",
+            "hu": "Étang de Pierre Blanche",
+            "ro": "Étang de Pierre Blanche",
+            "en": "Étang de Pierre Blanche"
+          },
+          "coords": [
+            3.860825,
+            43.499114
+          ],
+          "category": "natural",
+          "arrive_at": "15:17",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die Aussicht am Étang de Pierre Blanche, einem friedlichen Naturschutzgebiet, und besuchen Sie es während der goldenen Stunde für atemberaubende Fotos.",
+            "hu": "Élvezze a festői kilátást az Étang de Pierre Blanche békés természetvédelmi területén, és próbáljon az aranyórában érkezni a legszebb tájképek elkészítéséhez.",
+            "ro": "Bucurați-vă de priveliștile pitorești la Étang de Pierre Blanche, o rezervație naturală pașnică, și încercați să o vizitați la apus pentru fotografii uluitoare.",
+            "en": "Enjoy the scenic views at Étang de Pierre Blanche, a peaceful natural reserve, and try visiting during the golden hour for the most breathtaking landscape photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihr Radabenteuer auf den malerischen Wegen der Salinen von Villeneuve. Fahren Sie zum Étang de l'Arnel und überqueren Sie gegen Mittag die Pilou-Brücke. Verbringen Sie den frühen Nachmittag mit der Erkundung der Kathedrale von Maguelone und entspannen Sie am Plage de Maguelone. Beenden Sie den Tag mit einer Fahrt zum Étang de Pierre Blanche in den schönen Abendfarben.",
+        "hu": "Kezdje kerékpáros kalandját a Villeneuve sólepárlók festői ösvényein. Kerekezzen az Arnel-tó felé, majd dél körül keljen át a Pilou gyaloghídon. Kora délután fedezze fel a csodálatos Maguelone-katedrálist, és pihenjen egyet a Maguelone strandon. Fejezze be a napot az Étang de Pierre Blanche felé haladva, gyönyörködve az esti égbolt lenyűgöző színeiben.",
+        "ro": "Începeți aventura pe bicicletă explorând traseele Mlaștinilor Sărate Villeneuve. Pedalați spre Iazul Arnel, apoi traversați Pasarela Pilou în jurul prânzului. Petreceți începutul după-amiezii explorând Catedrala Maguelone și odihnindu-vă la Plaja Maguelone. Încheiați ziua mergând spre Étang de Pierre Blanche, bucurându-vă de culorile superbe ale serii de pe coastă.",
+        "en": "Start your cycling adventure navigating the scenic trails of the Villeneuve Salt Marshes. Ride towards Arnel Pond to enjoy the vibrant wildlife before crossing the Pilou Footbridge around noon. Spend your early afternoon exploring the magnificent Maguelone Cathedral and resting at Plage de Maguelone. Finish your day biking towards Étang de Pierre Blanche, soaking in the beautiful evening hues."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:23",
+      "total_km": 12.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Les Rochers de Maguelone - Explor’parc",
+            "hu": "Les Rochers de Maguelone - Explor’parc",
+            "ro": "Les Rochers de Maguelone - Explor’parc",
+            "en": "Les Rochers de Maguelone - Explor’parc"
+          },
+          "coords": [
+            3.829077,
+            43.525522
+          ],
+          "category": "family",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie mit der Familie den Explor'parc für ein aufregendes Abenteuer in den Bäumen, aber buchen Sie Ihre Tickets im Voraus online, um Wartezeiten zu vermeiden.",
+            "hu": "Hozza el a családot az Explor'parcba egy izgalmas fák közötti kalandra, de mindenképpen foglalja le előre online a jegyeit a kívánt időpont biztosítása érdekében.",
+            "ro": "Aduceți familia la Explor'parc pentru o aventură palpitantă printre copaci, dar asigurați-vă că rezervați biletele online în avans pentru a vă asigura locul preferat.",
+            "en": "Bring the family to Explor’parc for a thrilling adventure among the trees, but make sure to book your tickets in advance online to secure your preferred time slot."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Rochers de Maguelone - Accro’parc",
+            "hu": "Les Rochers de Maguelone - Accro’parc",
+            "ro": "Les Rochers de Maguelone - Accro’parc",
+            "en": "Les Rochers de Maguelone - Accro’parc"
+          },
+          "coords": [
+            3.827765,
+            43.525892
+          ],
+          "category": "family",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Fordern Sie sich auf den Seilgärten im Accro'parc in wunderschöner Naturkulisse heraus und tragen Sie flexible Kleidung, um die sportlichen Hindernisse zu meistern.",
+            "hu": "Tegye próbára magát az Accro'parc kötélpályáin egy gyönyörű természeti környezetben, és viseljen rugalmas ruházatot, hogy maximálisan élvezze az akadályokat.",
+            "ro": "Provocați-vă pe traseele cu frânghii suspendate de la Accro'parc într-un cadru natural minunat și purtați haine flexibile pentru a vă bucura de toate obstacolele.",
+            "en": "Challenge yourself on the elevated rope courses at Accro’parc in a beautiful natural setting, and wear flexible clothing to fully enjoy the athletic obstacles."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de Vic",
+            "hu": "Étang de Vic",
+            "ro": "Étang de Vic",
+            "en": "Étang de Vic"
+          },
+          "coords": [
+            3.835036,
+            43.487757
+          ],
+          "category": "natural",
+          "arrive_at": "11:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die Weite des Étang de Vic, einer Lagune mit reichem Meeresleben, und halten Sie Ausschau nach traditionellen Fischerbooten, die sanft über das Wasser gleiten.",
+            "hu": "Gyönyörködjön a tengeri élőlényekben gazdag Étang de Vic kiterjedt parti lagúnájában, és figyelje a vízen lágyan sikló hagyományos halászhajók romantikus látványát.",
+            "ro": "Admirați imensitatea Étang de Vic, o lagună de coastă plină de viață marină, și căutați bărcile tradiționale de pescuit care alunecă lin pe suprafața apei liniștite.",
+            "en": "Take in the vastness of Étang de Vic, an expansive coastal lagoon rich in marine life, and look out for traditional fishing boats gliding smoothly across the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Villeneuve Salt Marshes",
+            "hu": "Villeneuve Salt Marshes",
+            "ro": "Villeneuve Salt Marshes",
+            "en": "Villeneuve Salt Marshes"
+          },
+          "coords": [
+            3.848401,
+            43.51832
+          ],
+          "category": "natural",
+          "arrive_at": "13:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Salinen von Villeneuve mit ihrer ökologischen Vielfalt und tragen Sie bequeme Wanderschuhe, um die rustikalen Wege leicht zu meistern.",
+            "hu": "Fedezze fel a lenyűgöző Villeneuve sólepárlókat és azok egyedülálló ökológiai sokszínűségét, és viseljen kényelmes cipőt a rusztikus földutak könnyű bejárásához.",
+            "ro": "Descoperiți fascinantele Mlaștini Sărate Villeneuve cu diversitatea lor ecologică unică și purtați încălțăminte confortabilă pentru a parcurge ușor potecile rustice.",
+            "en": "Discover the fascinating Villeneuve Salt Marshes with their unique ecological diversity, and wear comfortable walking shoes to navigate the rustic dirt pathways easily."
+          }
+        },
+        {
+          "name": {
+            "de": "Pilou Footbridge",
+            "hu": "Pilou Footbridge",
+            "ro": "Pilou Footbridge",
+            "en": "Pilou Footbridge"
+          },
+          "coords": [
+            3.880629,
+            43.517001
+          ],
+          "category": "civic",
+          "arrive_at": "14:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Überqueren Sie die ikonische Pilou-Fußgängerbrücke, die das Festland mit dem Küstenstreifen verbindet und großartige Fotomotive der umliegenden ruhigen Gewässer bietet.",
+            "hu": "Keljen át az ikonikus Pilou gyaloghídon, amely elegánsan köti össze a szárazföldet a partszakasszal, így nagyszerű fotózási lehetőségeket kínál a nyugodt vizekről.",
+            "ro": "Traversați faimoasa Pasarelă Pilou, care conectează elegant continentul de fâșia de coastă, oferind oportunități excelente de fotografiere a apelor liniștite.",
+            "en": "Cross the iconic Pilou Footbridge which elegantly connects the mainland to the coastal strip, offering great photo opportunities of the surrounding calm waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Maguelone Cathedral",
+            "hu": "Maguelone Cathedral",
+            "ro": "Maguelone Cathedral",
+            "en": "Maguelone Cathedral"
+          },
+          "coords": [
+            3.883611,
+            43.5125
+          ],
+          "category": "religious",
+          "arrive_at": "15:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die majestätische romanische Kathedrale von Maguelone inmitten üppiger Weinberge, aber überprüfen Sie vorher die saisonal wechselnden Öffnungszeiten.",
+            "hu": "Fedezze fel a fenséges román stílusú Maguelone-katedrálist a buja szőlőültetvények között, de indulás előtt ellenőrizze a szezonálisan változó nyitvatartási időt.",
+            "ro": "Explorați maiestuoasa Catedrală romanică Maguelone înconjurată de podgorii luxuriante, dar nu uitați să verificați în prealabil programul de vizitare care variază.",
+            "en": "Explore the majestic Romanesque Maguelone Cathedral surrounded by lush vineyards, but remember to check the opening hours beforehand as they change seasonally."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Maguelone",
+            "hu": "Plage de Maguelone",
+            "ro": "Plage de Maguelone",
+            "en": "Plage de Maguelone"
+          },
+          "coords": [
+            3.882348,
+            43.504754
+          ],
+          "category": "recreational",
+          "arrive_at": "16:38",
+          "stay_min": 105,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie am unberührten Plage de Maguelone, einem perfekten Naturstrand zum Schwimmen, also packen Sie ausreichend Sonnencreme ein, da der Schatten begrenzt ist.",
+            "hu": "Pihenjen a festői Maguelone strandon, amely tökéletes egy kis úszáshoz, ezért csomagoljon bőségesen naptejet és vizet, mivel az árnyék meglehetősen korlátozott.",
+            "ro": "Relaxați-vă pe Plaja Maguelone, o întindere naturală perfectă pentru înot, așa că luați cu dumneavoastră multă cremă de soare deoarece zonele cu umbră sunt limitate.",
+            "en": "Relax on the pristine Plage de Maguelone, an unspoiled natural beach perfect for swimming, so pack plenty of sunscreen and water as shade is quite limited here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag mit Familienspaß im Explor'parc und Accro'parc in üppiger Waldumgebung. Fahren Sie zum Étang de Vic für spektakuläre Mittagsaussichten und dann zu den Salinen von Villeneuve. Parken Sie nachmittags nahe der Pilou-Brücke, um zur historischen Kathedrale zu spazieren. Beenden Sie Ihr Abenteuer mit einem friedlichen Abend am Plage de Maguelone.",
+        "hu": "Indítsa a napot családi szórakozással az Explor'parc és Accro'parc erdei környezetében. Vezessen el az Étang de Vic lagúnához, majd látogasson el a Villeneuve sólepárlókhoz. Délután parkoljon le a Pilou gyaloghíd közelében, hogy elsétáljon a történelmi Maguelone-katedrálishoz. Zárja kalandos napját egy békés esti pihenéssel a festői Maguelone strandon.",
+        "ro": "Începeți ziua cu distracție în familie la Explor'parc și Accro'parc. Conduceți spre Étang de Vic pentru vederi spectaculoase, apoi vizitați Mlaștinile Sărate Villeneuve. După-amiaza, parcați lângă Pasarela Pilou pentru a merge pe jos până la Catedrala istorică Maguelone. Încheiați aventura cu o seară liniștită și relaxantă ascultând valurile la Plaja Maguelone.",
+        "en": "Kick off the day with family fun at Explor’parc and Accro’parc, enjoying the lush forest environment. Drive out to Étang de Vic for spectacular midday views over the lagoon, then head to the Villeneuve Salt Marshes. In the afternoon, park near the Pilou Footbridge to walk towards the historic Maguelone Cathedral. Conclude your adventure with a peaceful evening relaxing at Plage de Maguelone."
+      }
+    }
+  }
+}

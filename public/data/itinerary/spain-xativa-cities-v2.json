@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-xativa-cities-v2",
+  "anchor": {
+    "name": "Xàtiva",
+    "coords": [
+      -0.518696,
+      38.987971
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:56",
+      "total_km": 1.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hospital Reial",
+            "hu": "Hospital Reial",
+            "ro": "Hospital Reial",
+            "en": "Hospital Reial"
+          },
+          "coords": [
+            -0.519461,
+            38.987689
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die großartige Renaissance-Architektur dieses historischen königlichen Krankenhauses und überprüfen Sie vor Ihrem Besuch unbedingt die Öffnungszeiten des Innenhofs.",
+            "hu": "Csodálja meg a történelmi királyi kórház lenyűgöző reneszánsz építészetét, de látogatás előtt mindenképpen ellenőrizze a csodálatos belső udvar aktuális nyitvatartási idejét.",
+            "ro": "Admirați arhitectura renascentistă grandioasă a acestui spital regal istoric, fost centru medical local, și verificați programul de vizitare a curții interioare înainte de a veni.",
+            "en": "Admire the grand Renaissance architecture of this historic royal hospital, once the center of local medicine, and be sure to check the stunning courtyard's opening hours first."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Almodí",
+            "hu": "Museu Almodí",
+            "ro": "Museu Almodí",
+            "en": "Museu Almodí"
+          },
+          "coords": [
+            -0.52182,
+            38.987857
+          ],
+          "category": "museum",
+          "arrive_at": "10:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende archäologische Artefakte in diesem ehemaligen Weizenmarkt, um Xàtivas Geschichte zu verstehen, und fragen Sie nach dem günstigen Kombiticket.",
+            "hu": "Fedezze fel Xàtiva mély történelmét az egykori búzapiacon kiállított régészeti leleteken keresztül, és ne felejtse el a kombinált jegyet kérni a belépési díjak megtakarításához.",
+            "ro": "Explorați artefacte arheologice fascinante în acest fost târg de grâu pentru a înțelege istoria orașului și cereți biletul combinat la intrare pentru a economisi niște bani.",
+            "en": "Explore fascinating archaeological artifacts in this former wheat market to understand Xàtiva's deep history, but remember to ask for the combined ticket to save on entry fees."
+          }
+        },
+        {
+          "name": {
+            "de": "Església Col·legiata Basílica de Santa Maria",
+            "hu": "Església Col·legiata Basílica de Santa Maria",
+            "ro": "Església Col·legiata Basílica de Santa Maria",
+            "en": "Església Col·legiata Basílica de Santa Maria"
+          },
+          "coords": [
+            -0.518282,
+            38.988066
+          ],
+          "category": "religious",
+          "arrive_at": "12:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den imposanten Glockenturm und das riesige Innere dieser majestätischen Basilika, und kleiden Sie sich bescheiden, um problemlos Einlass in die Kirche zu erhalten.",
+            "hu": "Csodálja meg a fenséges bazilika impozáns harangtornyát és hatalmas belsejét, amely a város hitének szimbóluma, és öltözzön szerényen a zökkenőmentes belépés érdekében.",
+            "ro": "Minunați-vă de clopotnița impunătoare și interiorul vast al acestei bazilici maiestuoase și îmbrăcați-vă decent pentru a vă asigura că vi se permite accesul fără probleme.",
+            "en": "Marvel at the imposing bell tower and vast interior of this majestic basilica, a symbol of the city's faith, and dress modestly to ensure you are granted entry without issue."
+          }
+        },
+        {
+          "name": {
+            "de": "Església de Sant Feliu",
+            "hu": "Església de Sant Feliu",
+            "ro": "Església de Sant Feliu",
+            "en": "Església de Sant Feliu"
+          },
+          "coords": [
+            -0.51913,
+            38.984828
+          ],
+          "category": "religious",
+          "arrive_at": "13:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die alten westgotischen Wurzeln und romanischen Details der ältesten Kirche Xàtivas, und bringen Sie ein Weitwinkelobjektiv für die malerische Hanglage mit.",
+            "hu": "Fedezze fel Xàtiva legrégebbi templomának ősi vizigót gyökereit és lenyűgöző román kori részleteit, és hozzon magával nagylátószögű objektívet a festői domboldal fotózásához.",
+            "ro": "Descoperiți rădăcinile vizigote și detaliile romanice uimitoare ale celei mai vechi biserici din Xàtiva și aduceți un obiectiv superangular pentru a surprinde cadrul pitoresc.",
+            "en": "Discover the ancient Visigothic roots and stunning Romanesque details of the oldest church in Xàtiva, and bring a wide-angle lens to capture its picturesque hillside setting."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell de Xàtiva",
+            "hu": "Castell de Xàtiva",
+            "ro": "Castell de Xàtiva",
+            "en": "Castell de Xàtiva"
+          },
+          "coords": [
+            -0.51857,
+            38.982807
+          ],
+          "category": "landmark",
+          "arrive_at": "14:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der Festungsmauern dieser spektakulären Doppelgipfelburg, um ihre Bedeutung zu erfassen, und tragen Sie feste Schuhe für die steilen, unebenen Steinwege.",
+            "hu": "Sétáljon végig e látványos, kétcsúcsú erődítmény kiterjedt falain, hogy megértse stratégiai jelentőségét, és viseljen masszív cipőt a meredek, egyenetlen kőösvények miatt.",
+            "ro": "Plimbați-vă de-a lungul zidurilor fortificate ale acestei cetăți spectaculoase pentru a-i înțelege importanța strategică și purtați încălțăminte robustă pentru cărările abrupte.",
+            "en": "Walk along the extensive fortified walls of this spectacular twin-peaked fortress to grasp its strategic importance, and wear sturdy shoes for the steep, uneven stone pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell Menor",
+            "hu": "Castell Menor",
+            "ro": "Castell Menor",
+            "en": "Castell Menor"
+          },
+          "coords": [
+            -0.51611,
+            38.982996
+          ],
+          "category": "castle",
+          "arrive_at": "16:06",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Steigen Sie zum älteren, iberischen Teil der Burganlage hinauf, um atemberaubende Ausblicke zu genießen, und kommen Sie am späten Nachmittag, um der intensiven Hitze zu entgehen.",
+            "hu": "Másszon fel a várkomplexum régebbi, ibériai részére a völgyre nyíló lélegzetelállító panorámáért, és látogasson ide késő délután, hogy elkerülje az intenzív mediterrán hőséget.",
+            "ro": "Urcați în partea iberică mai veche a complexului castelului pentru vederi panoramice uluitoare asupra văii și vizitați-l după-amiaza târziu pentru a evita căldura mediteraneană.",
+            "en": "Climb to the older, Iberian part of the castle complex for breathtaking panoramic views over the valley, and visit late in the afternoon to avoid the intense Mediterranean heat."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Wir beginnen unseren Tag mit der Entdeckung des lokalen Erbes im wunderschön erhaltenen Hospital Reial, gefolgt von archäologischen Einblicken im Museu Almodí.\nMidday: Während die Sonne steigt, bestaunen wir die Architektur der Basílica de Santa Maria, bevor wir uns an der alten Església de Sant Feliu etwas ausruhen.\nAfternoon: Der Nachmittag ist der Eroberung der Höhen des Castell de Xàtiva gewidmet, wo gewaltige Steinmauern spektakuläre Perspektiven auf die Umgebung bieten.\nEvening: Wir beenden unsere Reise am Castell Menor und genießen die Aussicht auf das Tal zur goldenen Stunde, während die historische Stadt unter uns allmählich beleuchtet wird.",
+        "hu": "Morning: A napot a helyi örökség felfedezésével kezdjük a gyönyörűen megőrzött Hospital Reialban, majd mélyebb régészeti betekintést nyerünk a közeli Museu Almodíban.\nMidday: Ahogy a nap magasabbra hág, megcsodáljuk a Basílica de Santa Maria tornyosuló építészetét, mielőtt megpihennénk az ősi Església de Sant Feliu templomnál.\nAfternoon: A délutánt a Castell de Xàtiva magasságainak meghódítására szánjuk, ahol a hatalmas kőfalak látványos kilátást nyújtanak a környező vidékre.\nEvening: Utunkat a Castell Menornál zárjuk, élvezve az aranyóra völgyre nyíló kilátását, miközben az alattunk elterülő történelmi város lassan kivilágosodik az éjszakára.",
+        "ro": "Morning: Ne începem ziua descoperind patrimoniul local la frumosul Hospital Reial, urmat de o incursiune arheologică profundă la Museu Almodí din apropiere.\nMidday: Pe măsură ce soarele urcă, admirăm arhitectura impunătoare a Basílicii de Santa Maria înainte de a ne odihni la vechea biserică Església de Sant Feliu.\nAfternoon: După-amiaza este dedicată cuceririi înălțimilor Castell de Xàtiva, unde zidurile imense de piatră oferă perspective spectaculoase asupra peisajului înconjurător.\nEvening: Ne încheiem călătoria la Castell Menor, bucurându-ne de priveliștile orei de aur asupra văii, în timp ce orașul istoric de jos începe încet să se lumineze pentru noapte.",
+        "en": "Morning: We begin our day discovering the local heritage at the beautifully preserved Hospital Reial, followed by deep archaeological dives at the nearby Museu Almodí.\nMidday: As the sun climbs, we marvel at the towering architecture of the Basílica de Santa Maria before resting at the ancient Església de Sant Feliu.\nAfternoon: The afternoon is dedicated to conquering the heights of Castell de Xàtiva, where immense stone walls offer spectacular perspectives of the surrounding landscape.\nEvening: We wrap up our journey at the Castell Menor, enjoying golden hour views over the valley as the historic city below slowly begins to light up for the night."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:29",
+      "total_km": 2.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Gran Teatre de Xàtiva",
+            "hu": "Gran Teatre de Xàtiva",
+            "ro": "Gran Teatre de Xàtiva",
+            "en": "Gran Teatre de Xàtiva"
+          },
+          "coords": [
+            -0.516016,
+            38.990556
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante moderne Fassade dieses lebendigen Kulturzentrums der Stadt und prüfen Sie den Online-Spielplan frühzeitig auf mögliche Last-Minute-Ticketangebote.",
+            "hu": "Csodálja meg ennek a nyüzsgő kulturális központnak a feltűnő, modern homlokzatát, és érdemes korán ellenőrizni az online műsort az esetleges last minute jegyértékesítések miatt.",
+            "ro": "Admirați fațada modernă și izbitoare a acestui centru cultural vibrant și verificați programul online din timp pentru a profita de eventualele oferte de bilete de ultim moment.",
+            "en": "Admire the striking modern façade of this vibrant cultural hub which hosts the city's main performances, and check their online schedule early for any last-minute ticket offers."
+          }
+        },
+        {
+          "name": {
+            "de": "Sant Pere",
+            "hu": "Sant Pere",
+            "ro": "Sant Pere",
+            "en": "Sant Pere"
+          },
+          "coords": [
+            -0.514408,
+            38.988617
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese historische Viertelkirche, um ihren ruhigen Charme abseits der Touristenpfade zu genießen, und ruhen Sie sich auf dem schattigen Platz direkt vor der Tür aus.",
+            "hu": "Látogasson el ebbe a történelmi szomszédsági templomba, hogy élvezze a turistautaktól távol eső csendes báját, és pihenjen meg egy pillanatra az ajtaja előtti árnyékos téren.",
+            "ro": "Vizitați această biserică istorică de cartier pentru a aprecia farmecul ei liniștit, departe de agitație, și odihniți-vă o clipă în piațeta umbrită situată chiar în fața ușilor.",
+            "en": "Visit this historic neighborhood church to appreciate its quiet charm away from the main tourist paths, and take a moment to rest in the shaded square right outside its doors."
+          }
+        },
+        {
+          "name": {
+            "de": "Església de Sant Francesc",
+            "hu": "Església de Sant Francesc",
+            "ro": "Església de Sant Francesc",
+            "en": "Església de Sant Francesc"
+          },
+          "coords": [
+            -0.521586,
+            38.989267
+          ],
+          "category": "religious",
+          "arrive_at": "11:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die elegante gotische Architektur dieser alten Klosterkirche und achten Sie unbedingt auf die aufwendig geschnitzten Details des wunderschönen Hochaltars im Inneren.",
+            "hu": "Fedezze fel ezen ősi kolostortemplom elegáns gótikus építészetét, amely gazdag a helyi vallástörténetben, és mindenképpen nézze meg a főoltár bonyolultan faragott részleteit.",
+            "ro": "Explorați arhitectura gotică elegantă a acestei vechi biserici mănăstirești, bogată în istorie religioasă, și asigurați-vă că admirați detaliile sculptate complicat ale altarului.",
+            "en": "Explore the elegant Gothic architecture of this ancient monastery church, rich in local religious history, and make sure to view the intricately carved details of the high altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Romana",
+            "hu": "Torre Romana",
+            "ro": "Torre Romana",
+            "en": "Torre Romana"
+          },
+          "coords": [
+            -0.520525,
+            38.982572
+          ],
+          "category": "historical",
+          "arrive_at": "12:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die widerstandsfähigen Überreste der alten römischen Verteidigungsmauern von Xàtiva und lesen Sie die informativen Tafeln in der Nähe, um den Kontext zu verstehen.",
+            "hu": "Vizsgálja meg Xàtiva ókori római védőfalainak ellenálló maradványait, amelyek kiemelik stratégiai múltját, és olvassa el a közeli tájékoztató táblákat a megértés érdekében.",
+            "ro": "Examinați rămășițele rezistente ale vechilor ziduri de apărare romane care subliniază trecutul strategic al orașului și citiți plăcile informative din apropiere pentru context.",
+            "en": "Examine the resilient remnants of Xàtiva's ancient Roman defensive walls that highlight its strategic past, and read the informative plaques nearby to understand their context."
+          }
+        },
+        {
+          "name": {
+            "de": "Cova dels Lleons",
+            "hu": "Cova dels Lleons",
+            "ro": "Cova dels Lleons",
+            "en": "Cova dels Lleons"
+          },
+          "coords": [
+            -0.517654,
+            38.983147
+          ],
+          "category": "natural",
+          "arrive_at": "13:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betreten Sie diese faszinierende natürliche Höhle, die elegant am Hangweg zur Burg liegt, und nutzen Sie die Taschenlampe Ihres Telefons, um die dunklen Ecken sicher zu erkunden.",
+            "hu": "Lépjen be ebbe a lenyűgöző természetes barlangba, amely a kastélyhoz vezető domboldalon található, és használja a telefonja zseblámpáját az árnyékos sarkok biztonságos felfedezéséhez.",
+            "ro": "Pășiți în această peșteră naturală fascinantă situată grațios de-a lungul drumului spre castel și folosiți lanterna telefonului pentru a explora în siguranță colțurile întunecate.",
+            "en": "Step inside this fascinating natural cave situated gracefully along the hillside approach to the castle, and use your phone's flashlight to safely explore its shadowed corners."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell de Xàtiva",
+            "hu": "Castell de Xàtiva",
+            "ro": "Castell de Xàtiva",
+            "en": "Castell de Xàtiva"
+          },
+          "coords": [
+            -0.51857,
+            38.982807
+          ],
+          "category": "landmark",
+          "arrive_at": "14:39",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Fuße der Anlage sicher ab, bevor Sie diese riesige Bergfestung erkunden, und bringen Sie viel Wasser mit, da das Gelände viel Fußmarsch erfordert.",
+            "hu": "Zárja le biztonságosan a kerékpárját az aljzatnál, mielőtt felfedezné ezt a hatalmas hegytetőn lévő erődöt, és hozzon sok vizet, mivel a vár területe jelentős sétát igényel.",
+            "ro": "Legați-vă bicicleta în siguranță la bază înainte de a explora această fortăreață masivă de pe deal și aduceți multă apă, deoarece terenurile extinse necesită mult mers pe jos.",
+            "en": "Lock up your bike securely at the base before exploring this massive hilltop fortress, and bring plenty of water as the sprawling castle grounds demand significant walking."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihre Radroute am lebhaften Gran Teatre de Xàtiva und radeln Sie durch die ruhigen Straßen zum charmanten und beschaulichen Viertel von Sant Pere.\nMidday: Rollen Sie zu den eleganten gotischen Bögen der Església de Sant Francesc und fahren Sie etwas weiter, um die alte Verteidigungsanlage Torre Romana zu besichtigen.\nAfternoon: Fordern Sie Ihre Beine heraus, wenn der Weg ansteigt, und machen Sie eine wohlverdiente Pause, um den natürlichen Schutz der Cova dels Lleons zu erkunden.\nEvening: Die Fahrt gipfelt am Fuße des Castell de Xàtiva, wo Sie Ihr Fahrrad abschließen und die weitläufigen Festungsmauern erkunden können, während die Sonne untergeht.",
+        "hu": "Morning: Kezdje kerékpáros útvonalát a nyüzsgő Gran Teatre de Xàtiva-nál, pedálozva a csendes utcákon Sant Pere bájos és nyugodt környéke felé.\nMidday: Guruljon az Església de Sant Francesc elegáns gótikus boltívei felé, majd haladjon kicsit kijjebb, hogy szemügyre vegye az ősi védelmi Torre Romanát.\nAfternoon: Tegye próbára a lábait, ahogy az út felfelé ível, és tartson egy jól megérdemelt pihenőt a Cova dels Lleons lenyűgöző természetes menedékének felfedezésére.\nEvening: Az út a Castell de Xàtiva lábánál éri el csúcspontját, ahol lezárhatja kerékpárját, és felfedezheti a kiterjedt várfalakat, ahogy a nap a horizont alá bukik.",
+        "ro": "Morning: Începeți traseul de ciclism la vibrantul Gran Teatre de Xàtiva, pedalând pe străzile calme către farmecul liniștit al cartierului Sant Pere.\nMidday: Rostogoliți-vă spre arcele gotice elegante ale Església de Sant Francesc, apoi mergeți puțin mai departe pentru a inspecta vechiul turn de apărare Torre Romana.\nAfternoon: Puneți-vă picioarele la încercare pe drumul în urcare, luând o pauză bine meritată pentru a explora adăpostul natural fascinant de la Cova dels Lleons.\nEvening: Călătoria atinge punctul culminant la baza Castell de Xàtiva, unde vă puteți lega bicicleta și explora zidurile extinse ale cetății în timp ce soarele apune.",
+        "en": "Morning: Start your cycling route at the vibrant Gran Teatre de Xàtiva, pedaling through the calm streets to the quiet neighborhood charm of Sant Pere.\nMidday: Roll towards the elegant Gothic arches of Església de Sant Francesc, then head slightly further out to inspect the ancient defensive Torre Romana.\nAfternoon: Challenge your legs as the path slopes upward, taking a well-deserved break to explore the fascinating natural shelter of Cova dels Lleons.\nEvening: The ride peaks at the base of Castell de Xàtiva, where you can lock up your bike and explore the expansive fortress walls as the sun dips below the horizon."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:03",
+      "total_km": 4.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Piscina municipal",
+            "hu": "Piscina municipal",
+            "ro": "Piscina municipal",
+            "en": "Piscina municipal"
+          },
+          "coords": [
+            -0.554993,
+            38.985914
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen mit einem erfrischenden Bad in dieser weitläufigen, bei Einheimischen beliebten städtischen Anlage, und bringen Sie unbedingt Ihr eigenes Handtuch mit.",
+            "hu": "Kezdje a reggelt egy frissítő úszással ebben a helyiek által kedvelt, tágas városi létesítményben, és feltétlenül hozzon magával saját törölközőt, mivel itt nincs kölcsönzési lehetőség.",
+            "ro": "Începeți dimineața cu o baie răcoritoare în această facilitate municipală spațioasă, apreciată de localnici, și asigurați-vă că vă aduceți propriul prosop, deoarece nu se închiriază.",
+            "en": "Start your morning with a refreshing swim in this spacious municipal facility favored by locals, and be sure to bring your own towel as rentals are usually not available here."
+          }
+        },
+        {
+          "name": {
+            "de": "Bañeras del Raval",
+            "hu": "Bañeras del Raval",
+            "ro": "Bañeras del Raval",
+            "en": "Bañeras del Raval"
+          },
+          "coords": [
+            -0.53048,
+            38.986435
+          ],
+          "category": "historical",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese historischen Waschhäuser, in denen sich die Bewohner einst trafen, und betrachten Sie die abgenutzten Steinkanten genau, um ihre jahrhundertelange Nutzung zu sehen.",
+            "hu": "Fedezze fel ezeket a történelmi mosóházakat, ahol a lakosok egykor mosni és beszélgetni gyűltek össze, és nézze meg a kopott kőperemeket, hogy értékelje több évszázados használatukat.",
+            "ro": "Descoperiți aceste spălătorii istorice unde locuitorii se adunau odată, și priviți cu atenție marginile uzate de piatră pentru a aprecia secolele lor de utilizare zilnică continuă.",
+            "en": "Discover these historic washhouses where residents once gathered for laundry and socializing, and look closely at the worn stone edges to appreciate their centuries of daily use."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Almodí",
+            "hu": "Museu Almodí",
+            "ro": "Museu Almodí",
+            "en": "Museu Almodí"
+          },
+          "coords": [
+            -0.52182,
+            38.987857
+          ],
+          "category": "museum",
+          "arrive_at": "11:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe und tauchen Sie in dieser ehemaligen Weizenbörse in die lokale Geschichte ein, prüfen Sie jedoch, ob temporäre Ausstellungen in Ihrem Ticket enthalten sind.",
+            "hu": "Parkoljon a közelben, és merüljön el a helyi történelemben ebben a lenyűgöző egykori búzabörzében, de mindenképpen ellenőrizze, hogy az időszaki kiállításokat is tartalmazza-e a jegye.",
+            "ro": "Parcați în apropiere și pătrundeți în istoria locală în această fostă bursă de grâu, dar asigurați-vă că verificați dacă expozițiile temporare sunt incluse în biletul dumneavoastră.",
+            "en": "Park nearby and delve into local history within this stunning former Renaissance wheat exchange, but make sure to check if any temporary exhibitions are included in your ticket."
+          }
+        },
+        {
+          "name": {
+            "de": "Església Col·legiata Basílica de Santa Maria",
+            "hu": "Església Col·legiata Basílica de Santa Maria",
+            "ro": "Església Col·legiata Basílica de Santa Maria",
+            "en": "Església Col·legiata Basílica de Santa Maria"
+          },
+          "coords": [
+            -0.518282,
+            38.988066
+          ],
+          "category": "religious",
+          "arrive_at": "13:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die monumentale Größe dieser Basilika im Herzen des historischen Zentrums der Stadt und nutzen Sie die nahe gelegene Tiefgarage, um die Gegend bequem zu erkunden.",
+            "hu": "Csodálja meg e bazilika monumentális méreteit a város történelmi központjának szívében, és használja ki a közeli mélygarázst, hogy kényelmesen felfedezhesse az egész környéket.",
+            "ro": "Admirați scara monumentală a acestei bazilici din inima centrului istoric al orașului și profitați de parcarea subterană din apropiere pentru a explora cu ușurință zona pietonală.",
+            "en": "Admire the monumental scale of this basilica right in the heart of the city's historic center, and take advantage of the nearby underground parking to easily explore the area."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell Menor",
+            "hu": "Castell Menor",
+            "ro": "Castell Menor",
+            "en": "Castell Menor"
+          },
+          "coords": [
+            -0.51611,
+            38.982996
+          ],
+          "category": "castle",
+          "arrive_at": "14:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Fahren Sie die kurvenreiche Straße zum Burgparkplatz hinauf, bevor Sie die alten iberischen Ursprünge erkunden, und halten Sie Ihre Kamera für die steilen Klippen bereit.",
+            "hu": "Hajtson fel a kanyargós úton a vár parkolójába, mielőtt felfedezné az erőd ősi ibériai eredetét, és tartsa készenlétben a fényképezőgépét a lenyűgöző sziklafalak megörökítéséhez.",
+            "ro": "Conduceți pe drumul șerpuit până la parcarea castelului înainte de a explora originile iberice, și țineți camera pregătită pentru pantele stâncoase uluitoare de pe margine.",
+            "en": "Drive up the winding road to the castle's parking lot before exploring the ancient Iberian origins of this fortress, and keep your camera ready for the stunning cliffside drops."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell de Xàtiva",
+            "hu": "Castell de Xàtiva",
+            "ro": "Castell de Xàtiva",
+            "en": "Castell de Xàtiva"
+          },
+          "coords": [
+            -0.51857,
+            38.982807
+          ],
+          "category": "landmark",
+          "arrive_at": "16:13",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Ausflug auf den weitläufigen oberen Ebenen dieser prächtigen historischen Festung und bleiben Sie bis zum Sonnenuntergang, um das beleuchtete Tal zu beobachten.",
+            "hu": "Fejezze be utazását ennek a csodálatos történelmi erődítménynek a hatalmas felső szakaszaiban, és érdemes naplementéig maradni, hogy megnézze a gyönyörűen kivilágított völgyet.",
+            "ro": "Încheiați-vă călătoria rătăcind prin vastele zone superioare ale acestei fortărețe magnifice și luați în considerare să stați până la apus pentru a vedea valea luminată frumos.",
+            "en": "Conclude your trip wandering the vast upper reaches of this magnificent historical stronghold, and consider staying until sunset to watch the valley below light up beautifully."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Eine kurze Fahrt bringt uns zur geräumigen Piscina municipal für einen frischen Start, gefolgt von einem Stopp, um das historische Leben an den Bañeras del Raval zu entdecken.\nMidday: Wir fahren ins Stadtzentrum, parken in der Nähe, um im Museu Almodí Geschichte zu entdecken, und blicken zur monumentalen Basílica de Santa Maria hinauf.\nAfternoon: Wir lassen die Unterstadt hinter uns und fahren auf der kurvenreichen Panoramastraße direkt zum weitläufigen Festungskomplex, beginnend mit dem Castell Menor.\nEvening: Unser Roadtrip endet spektakulär am hoch aufragenden Castell de Xàtiva und bietet einen unvergleichlichen Panoramablick über die Region, während der Abend einbricht.",
+        "hu": "Morning: Egy rövid autóút a tágas Piscina municipalhoz vezet egy friss kezdésért, amelyet egy gyors ugrás követ a Bañeras del Raval történelmi mindennapjainak felfedezésére.\nMidday: A városközpontba gurulunk, leparkolunk, hogy felfedezzük a helyi történelmet a Museu Almodíban, és felnézzünk a monumentális Basílica de Santa Mariára.\nAfternoon: Hátrahagyva az alsóvárost, a kanyargós festői út egyenesen a kiterjedt erődkomplexumhoz visz minket, kezdve a régebbi Castell Menorral.\nEvening: Autós utunk látványosan zárul a tornyosuló Castell de Xàtivánál, amely páratlan panorámát kínál a régióra, ahogy az este szép lassan leszáll.",
+        "ro": "Morning: O scurtă plimbare cu mașina ne aduce la spațioasa Piscina municipal pentru un început proaspăt, urmată de o vizită pentru a descoperi viața istorică la Bañeras del Raval.\nMidday: Ne îndreptăm spre centrul orașului, parcând în apropiere pentru a descoperi istoria la Museu Almodí și a admira monumentala Basílica de Santa Maria.\nAfternoon: Lăsând în urmă orașul de jos, drumul pitoresc și șerpuit ne duce direct sus la complexul fortăreței extinse, începând cu vechiul Castell Menor.\nEvening: Călătoria noastră se încheie spectaculos la impresionantul Castell de Xàtiva, oferind vederi panoramice de neegalat asupra regiunii pe măsură ce se lasă seara.",
+        "en": "Morning: A quick drive brings us to the spacious Piscina municipal for a fresh start, followed by a short hop to discover the historic daily life at Bañeras del Raval.\nMidday: We cruise into the city center, parking nearby to uncover local history at Museu Almodí and gaze up at the monumental Basílica de Santa Maria.\nAfternoon: Leaving the lower town behind, the winding scenic road takes us directly up to the sprawling fortress complex, starting with the older Castell Menor.\nEvening: Our road trip concludes spectacularly at the towering Castell de Xàtiva, offering unparalleled panoramic views over the region as evening settles in."
+      }
+    }
+  }
+}

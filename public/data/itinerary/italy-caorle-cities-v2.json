@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-caorle-cities-v2",
+  "anchor": {
+    "name": "Caorle",
+    "coords": [
+      12.887575,
+      45.600261
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:27",
+      "total_km": 3.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa della Madonna del Rosario di Pompei",
+            "hu": "Chiesa della Madonna del Rosario di Pompei",
+            "ro": "Chiesa della Madonna del Rosario di Pompei",
+            "en": "Chiesa della Madonna del Rosario di Pompei"
+          },
+          "coords": [
+            12.888261,
+            45.600366
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Fresken dieses Heiligtums am Meer, ein Symbol lokaler Frömmigkeit, und kommen Sie früh, um der Mittagssonne zu entgehen.",
+            "hu": "Csodálja meg ennek a tengerparti szentélynek a gyönyörű freskóit, amely a helyi áhítat szimbóluma, és érkezzen korán, hogy elkerülje a déli hőséget.",
+            "ro": "Admirați frescele frumoase ale acestui sanctuar de la malul mării, un simbol al devotamentului local, și vizitați-l devreme pentru a evita soarele amiezii.",
+            "en": "Admire the beautiful frescoes of this seaside sanctuary, a symbol of local devotion, and visit early to avoid the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo di Santo Stefano Protomartire",
+            "hu": "Duomo di Santo Stefano Protomartire",
+            "ro": "Duomo di Santo Stefano Protomartire",
+            "en": "Duomo di Santo Stefano Protomartire"
+          },
+          "coords": [
+            12.889716,
+            45.599252
+          ],
+          "category": "religious",
+          "arrive_at": "09:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den zylindrischen Glockenturm dieser antiken Kathedrale, ein Meisterwerk der romanischen Architektur, und prüfen Sie vorab die Öffnungszeiten.",
+            "hu": "Csodálja meg ennek az ősi katedrálisnak a hengeres harangtornyát, amely a román építészet remekműve, és ellenőrizze a belső tér nyitvatartási idejét.",
+            "ro": "Minunați-vă de turnul cilindric al acestei catedrale antice, o capodoperă a arhitecturii romanice, și verificați programul înainte de a intra.",
+            "en": "Marvel at the cylindrical bell tower of this ancient cathedral, a masterpiece of Romanesque architecture, and check the opening hours for the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro A. Bafile",
+            "hu": "Teatro A. Bafile",
+            "ro": "Teatro A. Bafile",
+            "en": "Teatro A. Bafile"
+          },
+          "coords": [
+            12.885733,
+            45.598444
+          ],
+          "category": "cultural",
+          "arrive_at": "11:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entdecken Sie Caorles kulturelles Herz in diesem lokalen Theater und informieren Sie sich am Aushang über die aktuellen Abendvorstellungen.",
+            "hu": "Fedezze fel Caorle kulturális szívét ebben a helyi színházban, és nézze meg a kinti hirdetőtáblán az esti előadások műsorát.",
+            "ro": "Descoperiți inima culturală a orașului Caorle la acest teatru local și consultați programul de afară pentru spectacolele de seară.",
+            "en": "Discover Caorle's cultural heart at this local theater, which hosts various events, and check the schedule outside for evening performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Levante",
+            "hu": "Spiaggia di Levante",
+            "ro": "Spiaggia di Levante",
+            "en": "Spiaggia di Levante"
+          },
+          "coords": [
+            12.899867,
+            45.608342
+          ],
+          "category": "recreational",
+          "arrive_at": "12:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sand dieses weitläufigen Oststrandes und mieten Sie sich frühzeitig eine Sonnenliege direkt am Wasser.",
+            "hu": "Pihenjen ezen a tágas keleti strandon, amely tökéletes családok számára, és béreljen napozóágyat korán, hogy jó helyet kapjon.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje estice întinse și închiriați un șezlong devreme pentru a vă asigura un loc bun lângă apă.",
+            "en": "Relax on the golden sands of this expansive eastern beach, perfect for families, and rent a sunbed early to secure a prime spot by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco del Pescatore",
+            "hu": "Parco del Pescatore",
+            "ro": "Parco del Pescatore",
+            "en": "Parco del Pescatore"
+          },
+          "coords": [
+            12.88517,
+            45.60785
+          ],
+          "category": "park",
+          "arrive_at": "14:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Machen Sie einen ruhigen Spaziergang durch diese grüne Oase, eine Hommage an die Fischer, und bringen Sie Snacks für ein Picknick mit.",
+            "hu": "Tegyen egy békés sétát ebben a zöld oázisban, amely a halászhagyományoknak állít emléket, és hozzon magával harapnivalót egy piknikhez.",
+            "ro": "Faceți o plimbare liniștită prin această oază verde, un tribut adus patrimoniului pescăresc, și aduceți gustări pentru un picnic sub copaci.",
+            "en": "Take a peaceful stroll through this green oasis, a tribute to the town's fishing heritage, and bring some snacks for a relaxing picnic under the trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquafollie",
+            "hu": "Aquafollie",
+            "ro": "Aquafollie",
+            "en": "Aquafollie"
+          },
+          "coords": [
+            12.884279,
+            45.605203
+          ],
+          "category": "recreational",
+          "arrive_at": "15:42",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie rasante Wasserrutschen und Wellenbäder in diesem beliebten Aquapark und kaufen Sie Tickets online, um die Warteschlange zu umgehen.",
+            "hu": "Élvezze a fantasztikus vízi csúszdákat és hullámmedencéket ebben a népszerű víziparkban, és vegye meg jegyét online, hogy elkerülje a sorban állást.",
+            "ro": "Bucurați-vă de toboganele de apă și piscinele cu valuri la acest parc acvatic popular și cumpărați biletele online pentru a evita cozile la intrare.",
+            "en": "Enjoy thrilling water slides and wave pools at this popular aquatic park, ideal for cooling off, and buy your tickets online to skip the entrance line."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen am legendären Heiligtum am Meer und bewundern Sie anschließend die historische Architektur der nahegelegenen Kathedrale.\n\nSpazieren Sie mittags durch das kulturelle Zentrum von Caorle nahe dem Theater, bevor Sie sich zum weitläufigen Oststrand begeben.\n\nAm Nachmittag können Sie im Parco del Pescatore entspannen und die grüne Oase sowie die lokale Atmosphäre in vollen Zügen genießen.\n\nBeenden Sie Ihren Rundgang am frühen Abend mit einem erfrischenden und lustigen Besuch im Aquafollie, ideal für die ganze Familie.",
+        "hu": "Kezdje a reggelt a tengerparti ikonikus szentélynél, majd csodálja meg a közeli, történelmi jelentőségű ősi katedrálist.\n\nDélben sétáljon át Caorle kulturális központján a színház mellett, mielőtt a kiterjedt keleti strandra indulna napozni.\n\nDélután pihenjen meg a Halászok Parkjában, élvezve a zöldellő környezetet és a város autentikus, nyugodt hangulatát.\n\nZárja a gyalogtúrát kora este egy frissítő és vidám látogatással az Aquafollie víziparkban, amely tökéletes levezetés a napra.",
+        "ro": "Începeți dimineața la sanctuarul emblematic de la malul mării și admirați apoi arhitectura istorică a catedralei din apropiere.\n\nLa prânz, plimbați-vă prin centrul cultural din zona teatrului, înainte de a vă îndrepta spre întinsa plajă de est pentru relaxare.\n\nDupă-amiaza, relaxați-vă în Parcul Pescarului, bucurându-vă de spațiile verzi, de umbră și de vibrația locală autentică.\n\nÎncheiați turul pietonal spre seară cu o vizită revigorantă și plină de distracție la parcul acvatic Aquafollie, perfect pentru toate vârstele.",
+        "en": "Begin the morning at the iconic seaside sanctuary and admire the historic architecture of the ancient cathedral nearby.\n\nMidday, stroll through Caorle's cultural heart near the theater before heading to the expansive eastern beach for some sun.\n\nIn the afternoon, relax in the Fisherman's Park, enjoying the lush green spaces and the authentic, peaceful local vibe.\n\nConclude your walking tour in the early evening with a refreshing and fun-filled visit to the Aquafollie water park."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:28",
+      "total_km": 5.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Santa Margherita",
+            "hu": "Santa Margherita",
+            "ro": "Santa Margherita",
+            "en": "Santa Margherita"
+          },
+          "coords": [
+            12.866413,
+            45.593665
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses ruhige Wohn- und Religiösviertel für einen Einblick in den Alltag und ruhen Sie sich auf den schattigen Bänken aus.",
+            "hu": "Fedezze fel ezt a csendes lakó- és vallási övezetet, amely bepillantást enged a mindennapi életbe, és pihenjen meg az árnyékos padokon.",
+            "ro": "Explorați această zonă rezidențială și religioasă liniștită pentru o perspectivă asupra vieții cotidiene și odihniți-vă pe băncile umbrite.",
+            "en": "Explore this quiet residential and religious area, offering a glimpse into everyday life, and take a moment to rest on the shaded benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Ponente",
+            "hu": "Spiaggia di Ponente",
+            "ro": "Spiaggia di Ponente",
+            "en": "Spiaggia di Ponente"
+          },
+          "coords": [
+            12.874257,
+            45.592745
+          ],
+          "category": "recreational",
+          "arrive_at": "09:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Radeln Sie am feinen Sand des Weststrandes entlang und packen Sie eine leichte Windjacke ein, da es oft eine frische Brise gibt.",
+            "hu": "Kerékpározzon a nyugati part finom homokja mentén, és csomagoljon egy könnyű széldzsekit, mivel a tengerparton gyakran fúj a szél.",
+            "ro": "Pedalați de-a lungul nisipului fin de pe plaja de vest și luați o jachetă ușoară de vânt, deoarece poate deveni destul de aerat.",
+            "en": "Cycle along the fine sand of the western beach, and pack a light windbreaker as it can get breezy near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo di Santo Stefano Protomartire",
+            "hu": "Duomo di Santo Stefano Protomartire",
+            "ro": "Duomo di Santo Stefano Protomartire",
+            "en": "Duomo di Santo Stefano Protomartire"
+          },
+          "coords": [
+            12.889716,
+            45.599252
+          ],
+          "category": "religious",
+          "arrive_at": "11:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den zylindrischen Glockenturm dieser antiken Kathedrale, ein Meisterwerk der romanischen Architektur, und prüfen Sie vorab die Öffnungszeiten.",
+            "hu": "Csodálja meg ennek az ősi katedrálisnak a hengeres harangtornyát, amely a román építészet remekműve, és ellenőrizze a belső tér nyitvatartási idejét.",
+            "ro": "Minunați-vă de turnul cilindric al acestei catedrale antice, o capodoperă a arhitecturii romanice, și verificați programul înainte de a intra.",
+            "en": "Marvel at the cylindrical bell tower of this ancient cathedral, a masterpiece of Romanesque architecture, and check the opening hours for the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Levante",
+            "hu": "Spiaggia di Levante",
+            "ro": "Spiaggia di Levante",
+            "en": "Spiaggia di Levante"
+          },
+          "coords": [
+            12.899867,
+            45.608342
+          ],
+          "category": "recreational",
+          "arrive_at": "12:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sand dieses weitläufigen Oststrandes und mieten Sie sich frühzeitig eine Sonnenliege direkt am Wasser.",
+            "hu": "Pihenjen ezen a tágas keleti strandon, amely tökéletes családok számára, és béreljen napozóágyat korán, hogy jó helyet kapjon.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje estice întinse și închiriați un șezlong devreme pentru a vă asigura un loc bun lângă apă.",
+            "en": "Relax on the golden sands of this expansive eastern beach, perfect for families, and rent a sunbed early to secure a prime spot by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco del Pescatore",
+            "hu": "Parco del Pescatore",
+            "ro": "Parco del Pescatore",
+            "en": "Parco del Pescatore"
+          },
+          "coords": [
+            12.88517,
+            45.60785
+          ],
+          "category": "park",
+          "arrive_at": "13:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause in dieser grünen Oase, eine Hommage an die Fischer, und bringen Sie Snacks für ein Picknick mit.",
+            "hu": "Tartson pihenőt ebben a zöld oázisban, amely a halászhagyományoknak állít emléket, és hozzon magával harapnivalót egy piknikhez.",
+            "ro": "Luați o pauză în această oază verde, un tribut adus patrimoniului pescăresc, și aduceți gustări pentru un picnic sub copaci.",
+            "en": "Take a break in this green oasis, a tribute to the town's fishing heritage, and bring some snacks for a relaxing picnic under the trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Nazionale di Archeologia del Mare",
+            "hu": "Museo Nazionale di Archeologia del Mare",
+            "ro": "Museo Nazionale di Archeologia del Mare",
+            "en": "Museo Nazionale di Archeologia del Mare"
+          },
+          "coords": [
+            12.876822,
+            45.606476
+          ],
+          "category": "museum",
+          "arrive_at": "15:18",
+          "stay_min": 130,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch antike römische Artefakte in die reiche maritime Geschichte ein und fragen Sie am Empfang nach einem Audioguide.",
+            "hu": "Merüljön el a régió gazdag tengerészeti történelmében az ókori római leletek révén, és kérjen audioguide-ot a recepción.",
+            "ro": "Scufundați-vă în istoria maritimă a regiunii prin intermediul artefactelor romane antice și solicitați un ghid audio la recepție.",
+            "en": "Dive into the region's rich maritime history through ancient Roman artifacts, and ask for an audio guide at the reception for more details."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Morgen im ruhigen Viertel Santa Margherita, bevor Sie zum sonnigen Weststrand hinüberrollen.\n\nMittags radeln Sie ins historische Zentrum von Caorle, um die eindrucksvolle Architektur und den Charme des Duomo zu bewundern.\n\nFahren Sie am Nachmittag weiter entlang der malerischen Küste zum Oststrand und machen Sie eine entspannte Pause im kühlen Park.\n\nBeenden Sie die Tour am Abend im faszinierenden maritimen Museum, wo Sie tief in die lokale Unterwasserarchäologie eintauchen.",
+        "hu": "Kezdje a reggeli kerékpártúrát a békés Santa Margherita negyedben, mielőtt a napfényes nyugati strandra tekerni.\n\nDélben kerekezzen be Caorle történelmi központjába, hogy megcsodálja a lenyűgöző Duomo építészetét és varázsát.\n\nDélután folytassa útját a festői partvonal mentén a keleti strandig, majd tartson egy pihentető szünetet a hűvös parkban.\n\nZárja a túrát este a lenyűgöző tengerészeti múzeumban, ahol elmélyülhet a helyi víz alatti régészet rejtelmeiben.",
+        "ro": "Începeți plimbarea cu bicicleta dimineața în cartierul liniștit Santa Margherita, înainte de a pedala spre plaja însorită de vest.\n\nLa prânz, mergeți spre centrul istoric al orașului Caorle pentru a admira arhitectura impresionantă și farmecul catedralei Duomo.\n\nDupă-amiaza, continuați de-a lungul coastei pitorești până la plaja de est și faceți o pauză relaxantă în parcul umbrit.\n\nÎncheiați turul seara la fascinantul muzeu maritim, unde veți descoperi secretele arheologiei subacvatice locale.",
+        "en": "Start your morning bike ride in the peaceful Santa Margherita district before rolling over to the sunny western beach.\n\nMidday, pedal into the historic center of Caorle to admire the impressive architecture and charm of the ancient Duomo.\n\nIn the afternoon, continue along the picturesque coastline to the eastern beach and take a relaxing break in the cool park.\n\nEnd the tour in the evening at the fascinating maritime museum, where you can delve deep into the local underwater archaeology."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Baja Blanca",
+            "hu": "Baja Blanca",
+            "ro": "Baja Blanca",
+            "en": "Baja Blanca"
+          },
+          "coords": [
+            12.844643,
+            45.581149
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie diesen lebhaften Strandort, ideal für sommerliche Entspannung, und seien Sie früh dort, um eine bequeme Cabana zu ergattern.",
+            "hu": "Tapasztalja meg ezt a pezsgő tengerparti helyet, amely kiváló a nyári pihenéshez, és érkezzen korán, hogy kényelmes pihenőágyat szerezzen.",
+            "ro": "Bucurați-vă de acest loc de agrement plin de viață pe plajă și ajungeți devreme pentru a prinde o cabină confortabilă.",
+            "en": "Experience this vibrant beachside recreational spot, great for summer relaxation, and arrive early to grab a comfortable cabana."
+          }
+        },
+        {
+          "name": {
+            "de": "Il Mio Cane",
+            "hu": "Il Mio Cane",
+            "ro": "Il Mio Cane",
+            "en": "Il Mio Cane"
+          },
+          "coords": [
+            12.86153,
+            45.587033
+          ],
+          "category": "recreational",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bringen Sie Ihren pelzigen Freund an diesen speziellen Hundestrand und vergessen Sie nicht das Impfbuch Ihres Haustiers.",
+            "hu": "Hozza magával szőrös barátját erre a dedikált kutyás strandra, és ne felejtse el magával vinni kedvence oltási könyvét.",
+            "ro": "Aduceți-vă prietenul blănos la această plajă dedicată câinilor și nu uitați să aveți la dumneavoastră carnetul de vaccinări al animalului.",
+            "en": "Bring your furry friend to this dedicated dog beach, offering specialized services, and remember to carry your pet's vaccination booklet."
+          }
+        },
+        {
+          "name": {
+            "de": "AcquaInn",
+            "hu": "AcquaInn",
+            "ro": "AcquaInn",
+            "en": "AcquaInn"
+          },
+          "coords": [
+            12.866387,
+            45.589981
+          ],
+          "category": "recreational",
+          "arrive_at": "11:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Planschen Sie in dieser modernen Schwimmanlage, perfekt für aktive Reisende, und bringen Sie eine Badekappe mit, da diese Pflicht ist.",
+            "hu": "Csobbanjon ebben a modern medencekomplexumban, amely tökéletes az aktív utazóknak, és hozzon úszósapkát, mivel az kötelező.",
+            "ro": "Bălăciți-vă în această facilitate modernă cu piscine, și aduceți-vă propria cască de înot, deoarece este necesară pentru intrare.",
+            "en": "Splash around in this modern pool facility, perfect for active travelers, and bring your own swimming cap as it is required for entry."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Sonessa",
+            "hu": "Chiesa di San Sonessa",
+            "ro": "Chiesa di San Sonessa",
+            "en": "Chiesa di San Sonessa"
+          },
+          "coords": [
+            12.874423,
+            45.605109
+          ],
+          "category": "religious",
+          "arrive_at": "13:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Besinnen Sie sich in dieser kleinen Kirche, einem friedlichen Rückzugsort von den Straßen, und kleiden Sie sich respektvoll nach lokalen Vorgaben.",
+            "hu": "Mélyedjen el a gondolataiban ebben a bájos kis templomban, egy békés menedékben, és öltözzön visszafogottan a helyi szokásoknak megfelelően.",
+            "ro": "Reflectați în această mică biserică fermecătoare, un refugiu pașnic, și îmbrăcați-vă modest conform obiceiurilor locale.",
+            "en": "Reflect in this charming small church, a peaceful retreat from the bustling streets, and dress modestly as per local customs."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Nazionale di Archeologia del Mare",
+            "hu": "Museo Nazionale di Archeologia del Mare",
+            "ro": "Museo Nazionale di Archeologia del Mare",
+            "en": "Museo Nazionale di Archeologia del Mare"
+          },
+          "coords": [
+            12.876822,
+            45.606476
+          ],
+          "category": "museum",
+          "arrive_at": "13:44",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch antike römische Artefakte in die reiche maritime Geschichte ein und fragen Sie am Empfang nach einem Audioguide.",
+            "hu": "Merüljön el a régió gazdag tengerészeti történelmében az ókori római leletek révén, és kérjen audioguide-ot a recepción.",
+            "ro": "Scufundați-vă în istoria maritimă a regiunii prin intermediul artefactelor romane antice și solicitați un ghid audio la recepție.",
+            "en": "Dive into the region's rich maritime history through ancient Roman artifacts, and ask for an audio guide at the reception for more details."
+          }
+        },
+        {
+          "name": {
+            "de": "Luna Park",
+            "hu": "Luna Park",
+            "ro": "Luna Park",
+            "en": "Luna Park"
+          },
+          "coords": [
+            12.885368,
+            45.6051
+          ],
+          "category": "recreational",
+          "arrive_at": "15:26",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit Fahrgeschäften und Zuckerwatte in diesem klassischen Vergnügungspark und kaufen Sie ein Armband für mehrere Attraktionen.",
+            "hu": "Zárja a napot vidám hullámvasutazással és vattacukorral ebben a klasszikus vidámparkban, és vásároljon karszalagot a korlátlan élményekhez.",
+            "ro": "Încheiați-vă ziua cu atracții distractive și vată de zahăr la acest parc de distracții clasic, și cumpărați o brățară pentru mai multe atracții.",
+            "en": "End your day with fun rides and cotton candy at this classic amusement park, and purchase a wristband if you plan to go on multiple attractions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zu den Außenbezirken und genießen Sie die entspannte Atmosphäre im Baja Blanca sowie an den hundefreundlichen Küstenabschnitten.\n\nMachen Sie mittags einen Stopp im AcquaInn für ein schnelles Schwimm-Workout und besuchen Sie anschließend die ruhige San Sonessa Kirche.\n\nAm Nachmittag parken Sie am maritimen Museum, um in die faszinierende Welt der antiken Unterwasserarchäologie von Caorle einzutauchen.\n\nSchließen Sie Ihre Autotour am frühen Abend mit familienfreundlichen Abenteuern und bunten Lichtern im klassischen Luna Park ab.",
+        "hu": "Autózzon ki reggel a város szélére, és élvezze a pezsgő Baja Blanca strandot, valamint az állatbarát tengerparti szakaszokat.\n\nDélben tartson pihenőt az AcquaInn modern medencéinél egy gyors úszásra, majd látogasson el a csendes San Sonessa templomba.\n\nDélután parkoljon le a tengerészeti múzeum közelében, hogy felfedezze Caorle lenyűgöző ókori és víz alatti régészeti leleteit.\n\nZárja az autós városnézést kora este egy családbarát, vidám kalanddal a klasszikus Luna Park színes forgatagában.",
+        "ro": "Conduceți dimineața spre periferie pentru a vă bucura de atmosfera vibrantă de la Baja Blanca și de plajele prietenoase cu animalele.\n\nLa prânz, opriți-vă la AcquaInn pentru o baie rapidă în piscină, apoi vizitați biserica liniștită San Sonessa pentru un moment de respiro.\n\nDupă-amiaza, parcați lângă muzeul maritim pentru a explora artefactele fascinante și istoria arheologiei subacvatice antice.\n\nÎncheiați turul cu mașina spre seară bucurându-vă de atracțiile pline de adrenalină pentru toată familia din clasicul Luna Park.",
+        "en": "Drive out in the morning to enjoy the vibrant atmosphere at Baja Blanca and explore the pet-friendly stretches of the coastline.\n\nMidday, stop by AcquaInn for a quick swim in the modern pools, and then visit the tranquil San Sonessa church for a quiet moment.\n\nIn the afternoon, park near the maritime museum to explore the fascinating ancient artifacts and underwater archaeology of the region.\n\nWrap up your driving tour in the early evening with family-friendly thrills and classic amusements at the colorful Luna Park."
+      }
+    }
+  }
+}

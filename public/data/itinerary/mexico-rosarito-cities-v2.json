@@ -1,0 +1,520 @@
+{
+  "city_id": "mexico-rosarito-cities-v2",
+  "anchor": {
+    "name": "Rosarito",
+    "coords": [
+      -117.054444,
+      32.363611
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:37",
+      "total_km": 4.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Playa de Rosarito",
+            "hu": "Playa de Rosarito",
+            "ro": "Playa de Rosarito",
+            "en": "Playa de Rosarito"
+          },
+          "coords": [
+            -117.062945,
+            32.346445
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Weite dieses berühmten Strandes für entspannte Spaziergänge, aber kommen Sie am besten früh, um den Menschenmassen und der Mittagshitze zu entgehen.",
+            "hu": "Élvezze a híres tengerpart széles homokos sávját egy pihentető sétára, de érdemes korán érkezni, hogy elkerülje a tömeget és a déli hőséget.",
+            "ro": "Bucurați-vă de întinderea acestei faimoase plaje pentru plimbări relaxante, dar ajungeți devreme pentru a evita aglomerația și căldura prânzului.",
+            "en": "Enjoy the wide expanse of this famous beach for relaxing strolls, but aim to arrive early in the day to avoid the biggest crowds and the midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Quintas",
+            "hu": "Quintas",
+            "ro": "Quintas",
+            "en": "Quintas"
+          },
+          "coords": [
+            -117.060542,
+            32.350971
+          ],
+          "category": "recreational",
+          "arrive_at": "10:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Diese malerische Freizeitanlage bietet eine willkommene Auszeit vom städtischen Trubel; packen Sie leichte Snacks ein, um sich hier im Grünen zu entspannen.",
+            "hu": "Ez a festői rekreációs terület kellemes kikapcsolódást nyújt a város zajából; hozzon magával némi harapnivalót a zöldben való pihenéshez.",
+            "ro": "Această zonă pitorească de agrement oferă un refugiu binevenit de la agitația urbană; aduceți câteva gustări ușoare pentru a vă relaxa la iarbă verde.",
+            "en": "This picturesque recreational area provides a welcome retreat from the urban bustle; pack some light snacks to relax amidst the greenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Banos",
+            "hu": "Banos",
+            "ro": "Banos",
+            "en": "Banos"
+          },
+          "coords": [
+            -117.056247,
+            32.342794
+          ],
+          "category": "recreational",
+          "arrive_at": "12:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.98,
+          "tip_5lang": {
+            "de": "Nutzen Sie diese gut gelegene Einrichtung, um sich während Ihres Rundgangs zu erfrischen, und halten Sie für alle Fälle ein wenig Kleingeld bereit.",
+            "hu": "Használja ki ezt a jól elhelyezkedő létesítményt, hogy felfrissüljön a városnézés során, és tartson magánál némi aprópénzt a belépéshez.",
+            "ro": "Profitați de această facilitate bine amplasată pentru a vă revigora în timpul turului și asigurați-vă că aveți la voi niște mărunt.",
+            "en": "Take advantage of this well-located facility to freshen up during your tour, and be sure to keep some small change handy for easy access."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro del pueblo",
+            "hu": "Teatro del pueblo",
+            "ro": "Teatro del pueblo",
+            "en": "Teatro del pueblo"
+          },
+          "coords": [
+            -117.058818,
+            32.341597
+          ],
+          "category": "cultural",
+          "arrive_at": "13:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Bewundern Sie die lebendige lokale Kultur an diesem offenen Veranstaltungsort, an dem es sich lohnt, abends nach geplanten Folklore-Aufführungen Ausschau zu halten.",
+            "hu": "Csodálja meg a pezsgő helyi kultúrát ezen a nyitott rendezvényhelyszínen, ahol érdemes az esti folklórelőadások programját is előre ellenőrizni.",
+            "ro": "Admirați cultura locală vibrantă la acest spațiu de evenimente în aer liber, unde merită să verificați programul pentru spectacole de folclor seara.",
+            "en": "Admire the vibrant local culture at this open-air event space, where it is highly recommended to check for scheduled folklore performances in the evening."
+          }
+        },
+        {
+          "name": {
+            "de": "Ciencia y tecnologia del estado",
+            "hu": "Ciencia y tecnologia del estado",
+            "ro": "Ciencia y tecnologia del estado",
+            "en": "Ciencia y tecnologia del estado"
+          },
+          "coords": [
+            -117.05557,
+            32.36875
+          ],
+          "category": "museum",
+          "arrive_at": "15:27",
+          "stay_min": 130,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 3.01,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem modernen Museum interaktive Exponate zur regionalen Innovation, was besonders für technikbegeisterte Familien einen längeren Aufenthalt wert ist.",
+            "hu": "Fedezze fel a regionális innovációt bemutató interaktív kiállításokat ebben a modern múzeumban, amely különösen a technológia iránt érdeklődő családok számára izgalmas.",
+            "ro": "Descoperiți exponatele interactive despre inovația regională în acest muzeu modern, o vizită deosebit de interesantă pentru familiile pasionate de tehnologie.",
+            "en": "Discover interactive exhibits on regional innovation in this modern museum, making it an especially engaging stop for technology-minded families."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt am wunderschönen Playa de Rosarito, wo die frische Meeresbrise und das sanfte Rauschen der Wellen für einen perfekten Start sorgen. Gegen Mittag wandern Sie durch die entspannenden grünen Anlagen der Quintas und gönnen sich eine kurze Pause bei den nahegelegenen Banos. Am Nachmittag tauchen Sie beim Teatro del pueblo tief in die lokale Kultur und Kunstszene ein. Der Abend rundet Ihre Tour im Wissenschaftsmuseum ab, wo interaktive Ausstellungen zum Staunen anregen.",
+        "hu": "A nap a csodálatos Playa de Rosarito tengerpartján indul, ahol a friss óceáni szellő és a hullámok hangja azonnal ellazít. Dél körül a Quintas zöldövezetében sétál, majd a közeli Banosnál tart egy frissítő pihenőt. Késő délután a Teatro del pueblo szabadtéri színpadánál a helyi kultúra lüktetését tapasztalhatja meg. Az estét a modern tudományos múzeum interaktív és gondolatébresztő kiállításai zárják.",
+        "ro": "Ziua începe pe superba Playa de Rosarito, unde briza proaspătă a oceanului și sunetul valurilor creează un start perfect. La prânz, vă plimbați prin zonele verzi relaxante de la Quintas și faceți o scurtă pauză de revigorare la Banos. După-amiaza vă scufundă în inima culturii locale vizitând Teatro del pueblo. Seara încheie turul la muzeul de știință și tehnologie, unde exponatele interactive vă vor fascina.",
+        "en": "Your day begins at the beautiful Playa de Rosarito, where the fresh ocean breeze and soothing sound of waves set a perfect tone. By midday, you'll wander through the relaxing green spaces of Quintas and take a refreshing break near Banos. The afternoon immerses you deeply in the local culture with a visit to the vibrant Teatro del pueblo. The evening perfectly wraps up your tour at the state science museum, exploring interactive exhibits."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "20:07",
+      "total_km": 7.41,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo de Letras",
+            "hu": "Museo de Letras",
+            "ro": "Museo de Letras",
+            "en": "Museo de Letras"
+          },
+          "coords": [
+            -117.056004,
+            32.371416
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem charmanten Museum in die literarische Geschichte der Region ein und fragen Sie am Eingang nach einer kurzen Einführung auf Englisch.",
+            "hu": "Merüljön el a régió irodalmi történelmében ebben a bájos múzeumban, és kérjen angol nyelvű összefoglalót a bejáratnál a jobb megértés érdekében.",
+            "ro": "Cufundați-vă în istoria literară a regiunii în acest muzeu fermecător și solicitați o scurtă introducere în limba engleză la intrare pentru context.",
+            "en": "Immerse yourself in the region's literary history at this charming museum, and politely ask for a brief English summary at the entrance to enhance your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Ciencia y tecnologia del estado",
+            "hu": "Ciencia y tecnologia del estado",
+            "ro": "Ciencia y tecnologia del estado",
+            "en": "Ciencia y tecnologia del estado"
+          },
+          "coords": [
+            -117.05557,
+            32.36875
+          ],
+          "category": "museum",
+          "arrive_at": "10:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.29,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem modernen Museum interaktive Exponate zur regionalen Innovation, was besonders für technikbegeisterte Familien einen längeren Aufenthalt wert ist.",
+            "hu": "Fedezze fel a regionális innovációt bemutató interaktív kiállításokat ebben a modern múzeumban, amely különösen a technológia iránt érdeklődő családok számára izgalmas.",
+            "ro": "Descoperiți exponatele interactive despre inovația regională în acest muzeu modern, o vizită deosebit de interesantă pentru familiile pasionate de tehnologie.",
+            "en": "Discover interactive exhibits on regional innovation in this modern museum, making it an especially engaging stop for technology-minded families."
+          }
+        },
+        {
+          "name": {
+            "de": "Quintas",
+            "hu": "Quintas",
+            "ro": "Quintas",
+            "en": "Quintas"
+          },
+          "coords": [
+            -117.060542,
+            32.350971
+          ],
+          "category": "recreational",
+          "arrive_at": "12:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Diese malerische Freizeitanlage bietet eine willkommene Auszeit vom städtischen Trubel; packen Sie leichte Snacks ein, um sich hier im Grünen zu entspannen.",
+            "hu": "Ez a festői rekreációs terület kellemes kikapcsolódást nyújt a város zajából; hozzon magával némi harapnivalót a zöldben való pihenéshez.",
+            "ro": "Această zonă pitorească de agrement oferă un refugiu binevenit de la agitația urbană; aduceți câteva gustări ușoare pentru a vă relaxa la iarbă verde.",
+            "en": "This picturesque recreational area provides a welcome retreat from the urban bustle; pack some light snacks to relax amidst the greenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Rosarito",
+            "hu": "Playa de Rosarito",
+            "ro": "Playa de Rosarito",
+            "en": "Playa de Rosarito"
+          },
+          "coords": [
+            -117.062945,
+            32.346445
+          ],
+          "category": "recreational",
+          "arrive_at": "14:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Genießen Sie die Weite dieses berühmten Strandes für entspannte Spaziergänge, aber kommen Sie am besten früh, um den Menschenmassen und der Mittagshitze zu entgehen.",
+            "hu": "Élvezze a híres tengerpart széles homokos sávját egy pihentető sétára, de érdemes korán érkezni, hogy elkerülje a tömeget és a déli hőséget.",
+            "ro": "Bucurați-vă de întinderea acestei faimoase plaje pentru plimbări relaxante, dar ajungeți devreme pentru a evita aglomerația și căldura prânzului.",
+            "en": "Enjoy the wide expanse of this famous beach for relaxing strolls, but aim to arrive early in the day to avoid the biggest crowds and the midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro del pueblo",
+            "hu": "Teatro del pueblo",
+            "ro": "Teatro del pueblo",
+            "en": "Teatro del pueblo"
+          },
+          "coords": [
+            -117.058818,
+            32.341597
+          ],
+          "category": "cultural",
+          "arrive_at": "15:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Bewundern Sie die lebendige lokale Kultur an diesem offenen Veranstaltungsort, an dem es sich lohnt, abends nach geplanten Folklore-Aufführungen Ausschau zu halten.",
+            "hu": "Csodálja meg a pezsgő helyi kultúrát ezen a nyitott rendezvényhelyszínen, ahol érdemes az esti folklórelőadások programját is előre ellenőrizni.",
+            "ro": "Admirați cultura locală vibrantă la acest spațiu de evenimente în aer liber, unde merită să verificați programul pentru spectacole de folclor seara.",
+            "en": "Admire the vibrant local culture at this open-air event space, where it is highly recommended to check for scheduled folklore performances in the evening."
+          }
+        },
+        {
+          "name": {
+            "de": "Banos",
+            "hu": "Banos",
+            "ro": "Banos",
+            "en": "Banos"
+          },
+          "coords": [
+            -117.056247,
+            32.342794
+          ],
+          "category": "recreational",
+          "arrive_at": "16:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Nutzen Sie diese gut gelegene Einrichtung, um sich während Ihres Rundgangs zu erfrischen, und halten Sie für alle Fälle ein wenig Kleingeld bereit.",
+            "hu": "Használja ki ezt a jól elhelyezkedő létesítményt, hogy felfrissüljön a városnézés során, és tartson magánál némi aprópénzt a belépéshez.",
+            "ro": "Profitați de această facilitate bine amplasată pentru a vă revigora în timpul turului și asigurați-vă că aveți la voi niște mărunt.",
+            "en": "Take advantage of this well-located facility to freshen up during your tour, and be sure to keep some small change handy for easy access."
+          }
+        },
+        {
+          "name": {
+            "de": "Chikis818",
+            "hu": "Chikis818",
+            "ro": "Chikis818",
+            "en": "Chikis818"
+          },
+          "coords": [
+            -117.040789,
+            32.373213
+          ],
+          "category": "landmark",
+          "arrive_at": "18:17",
+          "stay_min": 110,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.66,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses markante lokale Wahrzeichen, das durch seine einzigartige Architektur besticht, und nutzen Sie das Morgenlicht für die besten Erinnerungsfotos.",
+            "hu": "Fedezze fel ezt a jellegzetes helyi látványosságot, amely egyedi építészetével varázsol el, és használja ki a reggeli fényeket a legjobb fotók elkészítéséhez.",
+            "ro": "Explorați acest punct de reper local distinctiv, care impresionează prin arhitectura sa unică, și folosiți lumina dimineții pentru cele mai reușite fotografii.",
+            "en": "Explore this distinctive local landmark which captivates with its unique architecture, and make sure to utilize the morning light for the best photographs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad starten Sie im kulturellen Herzen beim Museo de Letras und erkunden anschließend die modernen Wunder im Ciencia y tecnologia del estado. Danach radeln Sie südwärts zur entspannten Atmosphäre der Quintas, bevor Sie das lebhafte Treiben am Playa de Rosarito genießen. Am späten Nachmittag bieten das Teatro del pueblo und die Banos charmante Einblicke in den lokalen Alltag. Der Tag endet im Norden bei Chikis818, während die Sonne langsam untergeht.",
+        "hu": "Kerékpártúrája a kulturális központban, a Museo de Letras-nál kezdődik, majd a tudományos múzeum innovatív tárlatait fedezi fel. Ezután dél felé teker a Quintas nyugodt zöldövezetébe, mielőtt a Playa de Rosarito nyüzsgő partját élvezné. Késő délután a Teatro del pueblo és a Banos kínál bájos bepillantást a helyi életbe. A nap végül északon, a Chikis818 lenyűgöző látványosságánál ér véget a lemenő nap fényében.",
+        "ro": "Turul pe bicicletă începe în inima culturală la Museo de Letras, urmat de minunile moderne de la Ciencia y tecnologia del estado. Apoi pedalați spre sud către atmosfera relaxată de la Quintas, înainte de a ajunge pe plaja plină de viață Rosarito. După-amiaza târziu, Teatro del pueblo și Banos vă oferă o perspectivă fermecătoare asupra vieții locale. Ziua se încheie în nord, explorând reperul Chikis818 în lumina apusului.",
+        "en": "Your cycling tour starts in the cultural heart at the Museo de Letras before discovering modern wonders at the science museum. You'll then pedal south to enjoy the laid-back atmosphere of Quintas and the vibrant energy of Playa de Rosarito. By late afternoon, Teatro del pueblo and Banos provide charming glimpses into local daily life. The day concludes up north, exploring the distinctive architecture of Chikis818 as the sun sets."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:55",
+      "total_km": 5.26,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "FRUTSY",
+            "hu": "FRUTSY",
+            "ro": "FRUTSY",
+            "en": "FRUTSY"
+          },
+          "coords": [
+            -117.040841,
+            32.374224
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die natürlichen Reize dieses idyllischen Spots am Rand der Stadt und bringen Sie festes Schuhwerk mit, um die Umgebung sicher zu erkunden.",
+            "hu": "Élvezze a város szélén található idilli hely természeti vonzerejét, és viseljen kényelmes cipőt a környék biztonságos felfedezéséhez.",
+            "ro": "Bucurați-vă de farmecul natural al acestui loc idilic de la marginea orașului și asigurați-vă că purtați încălțăminte comodă pentru o explorare în siguranță.",
+            "en": "Enjoy the natural charm of this idyllic spot on the outskirts of the city, and remember to wear sturdy footwear to safely explore the surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Chikis818",
+            "hu": "Chikis818",
+            "ro": "Chikis818",
+            "en": "Chikis818"
+          },
+          "coords": [
+            -117.040789,
+            32.373213
+          ],
+          "category": "landmark",
+          "arrive_at": "10:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses markante lokale Wahrzeichen, das durch seine einzigartige Architektur besticht, und nutzen Sie das Morgenlicht für die besten Erinnerungsfotos.",
+            "hu": "Fedezze fel ezt a jellegzetes helyi látványosságot, amely egyedi építészetével varázsol el, és használja ki a reggeli fényeket a legjobb fotók elkészítéséhez.",
+            "ro": "Explorați acest punct de reper local distinctiv, care impresionează prin arhitectura sa unică, și folosiți lumina dimineții pentru cele mai reușite fotografii.",
+            "en": "Explore this distinctive local landmark which captivates with its unique architecture, and make sure to utilize the morning light for the best photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Letras",
+            "hu": "Museo de Letras",
+            "ro": "Museo de Letras",
+            "en": "Museo de Letras"
+          },
+          "coords": [
+            -117.056004,
+            32.371416
+          ],
+          "category": "museum",
+          "arrive_at": "11:49",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem charmanten Museum in die literarische Geschichte der Region ein und fragen Sie am Eingang nach einer kurzen Einführung auf Englisch.",
+            "hu": "Merüljön el a régió irodalmi történelmében ebben a bájos múzeumban, és kérjen angol nyelvű összefoglalót a bejáratnál a jobb megértés érdekében.",
+            "ro": "Cufundați-vă în istoria literară a regiunii în acest muzeu fermecător și solicitați o scurtă introducere în limba engleză la intrare pentru context.",
+            "en": "Immerse yourself in the region's literary history at this charming museum, and politely ask for a brief English summary at the entrance to enhance your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Ciencia y tecnologia del estado",
+            "hu": "Ciencia y tecnologia del estado",
+            "ro": "Ciencia y tecnologia del estado",
+            "en": "Ciencia y tecnologia del estado"
+          },
+          "coords": [
+            -117.05557,
+            32.36875
+          ],
+          "category": "museum",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.29,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem modernen Museum interaktive Exponate zur regionalen Innovation, was besonders für technikbegeisterte Familien einen längeren Aufenthalt wert ist.",
+            "hu": "Fedezze fel a regionális innovációt bemutató interaktív kiállításokat ebben a modern múzeumban, amely különösen a technológia iránt érdeklődő családok számára izgalmas.",
+            "ro": "Descoperiți exponatele interactive despre inovația regională în acest muzeu modern, o vizită deosebit de interesantă pentru familiile pasionate de tehnologie.",
+            "en": "Discover interactive exhibits on regional innovation in this modern museum, making it an especially engaging stop for technology-minded families."
+          }
+        },
+        {
+          "name": {
+            "de": "Quintas",
+            "hu": "Quintas",
+            "ro": "Quintas",
+            "en": "Quintas"
+          },
+          "coords": [
+            -117.060542,
+            32.350971
+          ],
+          "category": "recreational",
+          "arrive_at": "15:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Diese malerische Freizeitanlage bietet eine willkommene Auszeit vom städtischen Trubel; packen Sie leichte Snacks ein, um sich hier im Grünen zu entspannen.",
+            "hu": "Ez a festői rekreációs terület kellemes kikapcsolódást nyújt a város zajából; hozzon magával némi harapnivalót a zöldben való pihenéshez.",
+            "ro": "Această zonă pitorească de agrement oferă un refugiu binevenit de la agitația urbană; aduceți câteva gustări ușoare pentru a vă relaxa la iarbă verde.",
+            "en": "This picturesque recreational area provides a welcome retreat from the urban bustle; pack some light snacks to relax amidst the greenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Rosarito",
+            "hu": "Playa de Rosarito",
+            "ro": "Playa de Rosarito",
+            "en": "Playa de Rosarito"
+          },
+          "coords": [
+            -117.062945,
+            32.346445
+          ],
+          "category": "recreational",
+          "arrive_at": "16:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Genießen Sie die Weite dieses berühmten Strandes für entspannte Spaziergänge, aber kommen Sie am besten früh, um den Menschenmassen und der Mittagshitze zu entgehen.",
+            "hu": "Élvezze a híres tengerpart széles homokos sávját egy pihentető sétára, de érdemes korán érkezni, hogy elkerülje a tömeget és a déli hőséget.",
+            "ro": "Bucurați-vă de întinderea acestei faimoase plaje pentru plimbări relaxante, dar ajungeți devreme pentru a evita aglomerația și căldura prânzului.",
+            "en": "Enjoy the wide expanse of this famous beach for relaxing strolls, but aim to arrive early in the day to avoid the biggest crowds and the midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro del pueblo",
+            "hu": "Teatro del pueblo",
+            "ro": "Teatro del pueblo",
+            "en": "Teatro del pueblo"
+          },
+          "coords": [
+            -117.058818,
+            32.341597
+          ],
+          "category": "cultural",
+          "arrive_at": "17:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Bewundern Sie die lebendige lokale Kultur an diesem offenen Veranstaltungsort, an dem es sich lohnt, abends nach geplanten Folklore-Aufführungen Ausschau zu halten.",
+            "hu": "Csodálja meg a pezsgő helyi kultúrát ezen a nyitott rendezvényhelyszínen, ahol érdemes az esti folklórelőadások programját is előre ellenőrizni.",
+            "ro": "Admirați cultura locală vibrantă la acest spațiu de evenimente în aer liber, unde merită să verificați programul pentru spectacole de folclor seara.",
+            "en": "Admire the vibrant local culture at this open-air event space, where it is highly recommended to check for scheduled folklore performances in the evening."
+          }
+        },
+        {
+          "name": {
+            "de": "Banos",
+            "hu": "Banos",
+            "ro": "Banos",
+            "en": "Banos"
+          },
+          "coords": [
+            -117.056247,
+            32.342794
+          ],
+          "category": "recreational",
+          "arrive_at": "19:10",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Nutzen Sie diese gut gelegene Einrichtung, um sich während Ihres Rundgangs zu erfrischen, und halten Sie für alle Fälle ein wenig Kleingeld bereit.",
+            "hu": "Használja ki ezt a jól elhelyezkedő létesítményt, hogy felfrissüljön a városnézés során, és tartson magánál némi aprópénzt a belépéshez.",
+            "ro": "Profitați de această facilitate bine amplasată pentru a vă revigora în timpul turului și asigurați-vă că aveți la voi niște mărunt.",
+            "en": "Take advantage of this well-located facility to freshen up during your tour, and be sure to keep some small change handy for easy access."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erleben Sie Rosarito in seiner ganzen Vielfalt, beginnend in der friedlichen Natur von FRUTSY und dem Wahrzeichen Chikis818. Mittags tauchen Sie in die Geschichte im Museo de Letras ein und lassen sich im Technikmuseum inspirieren. Nachmittags fahren Sie in den Süden zu den Quintas und lassen am belebten Playa de Rosarito die Seele baumeln. Den Abend verbringen Sie kulturell am Teatro del pueblo, gefolgt von einem entspannten Abschluss bei den Banos.",
+        "hu": "Autóval Rosarito minden arcát megismerheti, kezdve a FRUTSY békés természetével és a Chikis818 jellegzetes épületével. Délben a Museo de Letras irodalmi kincseit és a tudományos múzeum csodáit térképezi fel. Délután a déli részre utazik a Quintas zöldjébe, majd a nyüzsgő Playa de Rosarito partján kapcsolódik ki. Az estét a Teatro del pueblo kulturális hangulatában tölti, amelyet egy pihentető látogatás zár a Banosnál.",
+        "ro": "Cu mașina descoperiți diversitatea din Rosarito, începând în natura liniștită de la FRUTSY și reperul Chikis818. La prânz, explorați istoria literară la Museo de Letras și inovațiile de la muzeul de știință. După-amiaza vă îndreptați spre sud pentru a vă relaxa la Quintas și pe celebra plajă Rosarito. Seara este dedicată atmosferei culturale de la Teatro del pueblo, încheindu-se cu o oprire reconfortantă la Banos.",
+        "en": "Traveling by car lets you experience Rosarito's full diversity, starting in the peaceful nature of FRUTSY and the iconic Chikis818. Midday is perfect for exploring literary history at Museo de Letras and innovations at the science museum. In the afternoon, you'll drive south to relax at Quintas and the lively Playa de Rosarito. The evening features the cultural vibes of Teatro del pueblo, finishing with a relaxing stop at Banos."
+      }
+    }
+  }
+}

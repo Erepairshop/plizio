@@ -1,0 +1,474 @@
+{
+  "city_id": "denain",
+  "anchor": {
+    "name": "Denain",
+    "coords": [
+      3.395,
+      50.3286
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:29",
+      "total_km": 2.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Denain",
+            "hu": "Denain Városháza",
+            "ro": "Primăria Denain",
+            "en": "Denain Town Hall"
+          },
+          "coords": [
+            3.382452,
+            50.326549
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieses bürgerlichen Zentrums voller Geschichte, und nutzen Sie den nahen Platz für den besten Fotowinkel, bevor Sie weitergehen.",
+            "hu": "Csodálja meg e történelmi jelentőségű épület lenyűgöző architektúráját, és mielőtt továbbindulna, keressen egy jó szöget a közeli téren a tökéletes fotóhoz.",
+            "ro": "Admirați arhitectura impresionantă a acestui centru civic încărcat de istorie și profitați de piațeta din apropiere pentru cel mai bun unghi fotografic înainte de a pleca.",
+            "en": "Admire the striking architecture of this civic centerpiece which anchors the local history, and be sure to step into the nearby square for the best photo angle before heading out."
+          }
+        },
+        {
+          "name": {
+            "de": "Herz-Jesu-Kirche",
+            "hu": "Sacré-Cœur-templom",
+            "ro": "Biserica Sacré-Cœur",
+            "en": "Sacré-Cœur Church"
+          },
+          "coords": [
+            3.379938,
+            50.322511
+          ],
+          "category": "religious",
+          "arrive_at": "09:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Beachten Sie das komplexe Mauerwerk an der Fassade dieses friedlichen Ortes, und kommen Sie morgens, um die ruhige Atmosphäre und das schöne Licht im Inneren zu genießen.",
+            "hu": "Figyelje meg e békés szentély külsejének bonyolult téglafalát, és látogasson el ide a reggeli órákban, hogy élvezhesse a csendes légkört és a csodás belső fényeket.",
+            "ro": "Observați zidăria complexă de pe fațada acestui sanctuar pașnic și vizitați-l dimineața pentru a vă bucura de atmosfera liniștită și de lumina frumoasă din interior.",
+            "en": "Note the intricate brickwork on the exterior of this peaceful sanctuary, and visit during morning hours to appreciate the quiet atmosphere and beautiful light streaming inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Émile-Zola-Park",
+            "hu": "Émile Zola park",
+            "ro": "Parcul Émile Zola",
+            "en": "Émile Zola Park"
+          },
+          "coords": [
+            3.392683,
+            50.32322
+          ],
+          "category": "recreational",
+          "arrive_at": "10:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die weitläufigen Grünflächen, die einen perfekten Rückzugsort bieten, und bringen Sie einen Snack mit, um ihn auf einer der schattigen Bänke zu genießen.",
+            "hu": "Sétáljon végig a tágas zöldterületeken, amelyek tökéletes menedéket nyújtanak a város elől, és vigyen magával egy kis harapnivalót az egyik árnyékos padon való pihenéshez.",
+            "ro": "Plimbați-vă prin aceste spații verzi întinse ce oferă un refugiu perfect din fața orașului și aduceți o gustare pentru a o savura pe una dintre băncile umbrite din centru.",
+            "en": "Stroll through these expansive green spaces that offer a perfect retreat from the city streets, and bring a small snack to enjoy on one of the shaded benches near the central paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadttheater von Denain",
+            "hu": "Denain Városi Színháza",
+            "ro": "Teatrul Municipal din Denain",
+            "en": "Municipal Theater of Denain"
+          },
+          "coords": [
+            3.396484,
+            50.327107
+          ],
+          "category": "cultural",
+          "arrive_at": "11:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Fassade dieses kulturellen Wahrzeichens der darstellenden Künste, und prüfen Sie die Aushänge draußen auf kommende lokale Vorstellungen und Events.",
+            "hu": "Szánjon egy percet az előadó-művészetnek szentelt kulturális nevezetesség elegáns homlokzatára, és ellenőrizze a kinti táblákon a közelgő helyi előadások hirdetéseit.",
+            "ro": "Alocați un moment pentru a aprecia fațada elegantă a acestui reper cultural dedicat artelor spectacolului și verificați panourile exterioare pentru viitoare reprezentații.",
+            "en": "Take a moment to appreciate the elegant facade of this cultural landmark dedicated to the performing arts, and check the display boards outside for any upcoming local performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Martin",
+            "hu": "Saint-Martin-templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            3.400577,
+            50.32691
+          ],
+          "category": "religious",
+          "arrive_at": "13:19",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Kirchenschiff dieser zentralen Kirche mit schönen traditionellen Details, und umrunden Sie das Gebäude, um die herrlichen Buntglasfenster zu sehen.",
+            "hu": "Fedezze fel e fontos központi templom történelmi hajóját a gyönyörű hagyományos részletekkel, és sétálja körbe az épületet az ólomüveg ablakok megtekintéséhez.",
+            "ro": "Explorați naosul istoric al acestei biserici centrale importante, plină de detalii tradiționale, și faceți un tur al perimetrului pentru a vedea vitraliile spectaculoase.",
+            "en": "Explore the historic nave of this important central church, which features beautiful traditional details, and take time to walk around its perimeter to view the stained glass."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im bürgerlichen Herzen von Denain, wo Sie die Architektur und die ruhigen Straßen genießen. Mittags finden Sie Entspannung im Émile-Zola-Park und erleben den natürlichen Charme der Stadt. Der Nachmittag lädt dazu ein, das lokale Kulturerbe mit historischen Kirchen und Denkmälern zu entdecken. Beenden Sie Ihre Tour mit Gedanken an die reiche und vielfältige Vergangenheit von Denain.",
+        "hu": "A napja Denain polgári központjában indul, ahol megcsodálhatja a történelmi építészetet és a csendes utcákat. Délben az Émile Zola park zöldjében pihenhet meg, élvezve a város természeti varázsát. A délután folyamán a helyi kulturális örökséget, köztük történelmi templomokat és emlékműveket fedezhet fel. Zárja sétáját Denain gazdag múltjának nyugodt felidézésével a késő délutáni órákban.",
+        "ro": "Ziua începe în inima civică din Denain, admirând arhitectura istorică și străzile liniștite. La prânz, veți găsi relaxare și verdeață în Parcul Émile Zola, bucurându-vă de farmecul natural al orașului. După-amiaza vă invită să descoperiți patrimoniul cultural local, inclusiv biserici și monumente istorice. Încheiați-vă turul reflectând la tapiseria bogată a trecutului impresionant al orașului Denain.",
+        "en": "Your day begins in the civic heart of Denain, admiring the historic architecture and quiet morning streets. By midday, you'll find relaxation and greenery at Émile Zola Park, enjoying the town's natural charm. The afternoon invites you to discover the local cultural heritage, including historic churches and monuments. Conclude your tour reflecting on the rich tapestry of Denain's past."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:40",
+      "total_km": 4.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Denain",
+            "hu": "Denain Városháza",
+            "ro": "Primăria Denain",
+            "en": "Denain Town Hall"
+          },
+          "coords": [
+            3.382452,
+            50.326549
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieses bürgerlichen Zentrums voller Geschichte, und nutzen Sie den nahen Platz für den besten Fotowinkel, bevor Sie weitergehen.",
+            "hu": "Csodálja meg e történelmi jelentőségű épület lenyűgöző architektúráját, és mielőtt továbbindulna, keressen egy jó szöget a közeli téren a tökéletes fotóhoz.",
+            "ro": "Admirați arhitectura impresionantă a acestui centru civic încărcat de istorie și profitați de piațeta din apropiere pentru cel mai bun unghi fotografic înainte de a pleca.",
+            "en": "Admire the striking architecture of this civic centerpiece which anchors the local history, and be sure to step into the nearby square for the best photo angle before heading out."
+          }
+        },
+        {
+          "name": {
+            "de": "Herz-Jesu-Kirche",
+            "hu": "Sacré-Cœur-templom",
+            "ro": "Biserica Sacré-Cœur",
+            "en": "Sacré-Cœur Church"
+          },
+          "coords": [
+            3.379938,
+            50.322511
+          ],
+          "category": "religious",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Beachten Sie das komplexe Mauerwerk an der Fassade dieses friedlichen Ortes, und kommen Sie morgens, um die ruhige Atmosphäre und das schöne Licht im Inneren zu genießen.",
+            "hu": "Figyelje meg e békés szentély külsejének bonyolult téglafalát, és látogasson el ide a reggeli órákban, hogy élvezhesse a csendes légkört és a csodás belső fényeket.",
+            "ro": "Observați zidăria complexă de pe fațada acestui sanctuar pașnic și vizitați-l dimineața pentru a vă bucura de atmosfera liniștită și de lumina frumoasă din interior.",
+            "en": "Note the intricate brickwork on the exterior of this peaceful sanctuary, and visit during morning hours to appreciate the quiet atmosphere and beautiful light streaming inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Émile-Zola-Park",
+            "hu": "Émile Zola park",
+            "ro": "Parcul Émile Zola",
+            "en": "Émile Zola Park"
+          },
+          "coords": [
+            3.392683,
+            50.32322
+          ],
+          "category": "recreational",
+          "arrive_at": "10:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die weitläufigen Grünflächen, die einen perfekten Rückzugsort bieten, und bringen Sie einen Snack mit, um ihn auf einer der schattigen Bänke zu genießen.",
+            "hu": "Sétáljon végig a tágas zöldterületeken, amelyek tökéletes menedéket nyújtanak a város elől, és vigyen magával egy kis harapnivalót az egyik árnyékos padon való pihenéshez.",
+            "ro": "Plimbați-vă prin aceste spații verzi întinse ce oferă un refugiu perfect din fața orașului și aduceți o gustare pentru a o savura pe una dintre băncile umbrite din centru.",
+            "en": "Stroll through these expansive green spaces that offer a perfect retreat from the city streets, and bring a small snack to enjoy on one of the shaded benches near the central paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadttheater von Denain",
+            "hu": "Denain Városi Színháza",
+            "ro": "Teatrul Municipal din Denain",
+            "en": "Municipal Theater of Denain"
+          },
+          "coords": [
+            3.396484,
+            50.327107
+          ],
+          "category": "cultural",
+          "arrive_at": "11:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Fassade dieses kulturellen Wahrzeichens der darstellenden Künste, und prüfen Sie die Aushänge draußen auf kommende lokale Vorstellungen und Events.",
+            "hu": "Szánjon egy percet az előadó-művészetnek szentelt kulturális nevezetesség elegáns homlokzatára, és ellenőrizze a kinti táblákon a közelgő helyi előadások hirdetéseit.",
+            "ro": "Alocați un moment pentru a aprecia fațada elegantă a acestui reper cultural dedicat artelor spectacolului și verificați panourile exterioare pentru viitoare reprezentații.",
+            "en": "Take a moment to appreciate the elegant facade of this cultural landmark dedicated to the performing arts, and check the display boards outside for any upcoming local performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Martin",
+            "hu": "Saint-Martin-templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            3.400577,
+            50.32691
+          ],
+          "category": "religious",
+          "arrive_at": "12:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Kirchenschiff dieser zentralen Kirche mit schönen traditionellen Details, und umrunden Sie das Gebäude, um die herrlichen Buntglasfenster zu sehen.",
+            "hu": "Fedezze fel e fontos központi templom történelmi hajóját a gyönyörű hagyományos részletekkel, és sétálja körbe az épületet az ólomüveg ablakok megtekintéséhez.",
+            "ro": "Explorați naosul istoric al acestei biserici centrale importante, plină de detalii tradiționale, și faceți un tur al perimetrului pentru a vedea vitraliile spectaculoase.",
+            "en": "Explore the historic nave of this important central church, which features beautiful traditional details, and take time to walk around its perimeter to view the stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Pyramide zur Schlacht von Denain",
+            "hu": "Denaini csata emlékgúlája",
+            "ro": "Piramida comemorativă a bătăliei de la Denain",
+            "en": "Denain Battle Commemorative Pyramid"
+          },
+          "coords": [
+            3.422065,
+            50.318085
+          ],
+          "category": "historical",
+          "arrive_at": "13:50",
+          "stay_min": 110,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses hoch aufragende historische Denkmal zur Erinnerung an eine Schlacht des 18. Jahrhunderts, und lesen Sie die Informationstafeln an der Basis für den Kontext.",
+            "hu": "Fedezze fel ezt a 18. századi sorsdöntő csatának emléket állító, magasodó történelmi emlékművet, és olvassa el a tövénél lévő táblákat, hogy megértse nemzeti jelentőségét.",
+            "ro": "Descoperiți acest monument istoric impunător ce comemorează o bătălie decisivă din secolul XVIII și citiți plăcile informative de la bază pentru a-i înțelege semnificația.",
+            "en": "Discover this towering historical monument commemorating a decisive 18th-century battle, and read the informational plaques at the base to fully grasp its national significance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im bürgerlichen Herzen von Denain, wo Sie die Architektur und die ruhigen Straßen genießen. Mittags finden Sie Entspannung im Émile-Zola-Park und erleben den natürlichen Charme der Stadt. Der Nachmittag lädt dazu ein, das lokale Kulturerbe mit historischen Kirchen und Denkmälern zu entdecken. Beenden Sie Ihre Tour mit Gedanken an die reiche und vielfältige Vergangenheit von Denain.",
+        "hu": "A napja Denain polgári központjában indul, ahol megcsodálhatja a történelmi építészetet és a csendes utcákat. Délben az Émile Zola park zöldjében pihenhet meg, élvezve a város természeti varázsát. A délután folyamán a helyi kulturális örökséget, köztük történelmi templomokat és emlékműveket fedezhet fel. Zárja sétáját Denain gazdag múltjának nyugodt felidézésével a késő délutáni órákban.",
+        "ro": "Ziua începe în inima civică din Denain, admirând arhitectura istorică și străzile liniștite. La prânz, veți găsi relaxare și verdeață în Parcul Émile Zola, bucurându-vă de farmecul natural al orașului. După-amiaza vă invită să descoperiți patrimoniul cultural local, inclusiv biserici și monumente istorice. Încheiați-vă turul reflectând la tapiseria bogată a trecutului impresionant al orașului Denain.",
+        "en": "Your day begins in the civic heart of Denain, admiring the historic architecture and quiet morning streets. By midday, you'll find relaxation and greenery at Émile Zola Park, enjoying the town's natural charm. The afternoon invites you to discover the local cultural heritage, including historic churches and monuments. Conclude your tour reflecting on the rich tapestry of Denain's past."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 5.65,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Denain",
+            "hu": "Denain Városháza",
+            "ro": "Primăria Denain",
+            "en": "Denain Town Hall"
+          },
+          "coords": [
+            3.382452,
+            50.326549
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieses bürgerlichen Zentrums voller Geschichte, und nutzen Sie den nahen Platz für den besten Fotowinkel, bevor Sie weitergehen.",
+            "hu": "Csodálja meg e történelmi jelentőségű épület lenyűgöző architektúráját, és mielőtt továbbindulna, keressen egy jó szöget a közeli téren a tökéletes fotóhoz.",
+            "ro": "Admirați arhitectura impresionantă a acestui centru civic încărcat de istorie și profitați de piațeta din apropiere pentru cel mai bun unghi fotografic înainte de a pleca.",
+            "en": "Admire the striking architecture of this civic centerpiece which anchors the local history, and be sure to step into the nearby square for the best photo angle before heading out."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadttheater von Denain",
+            "hu": "Denain Városi Színháza",
+            "ro": "Teatrul Municipal din Denain",
+            "en": "Municipal Theater of Denain"
+          },
+          "coords": [
+            3.396484,
+            50.327107
+          ],
+          "category": "cultural",
+          "arrive_at": "09:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.05,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Fassade dieses kulturellen Wahrzeichens der darstellenden Künste, und prüfen Sie die Aushänge draußen auf kommende lokale Vorstellungen und Events.",
+            "hu": "Szánjon egy percet az előadó-művészetnek szentelt kulturális nevezetesség elegáns homlokzatára, és ellenőrizze a kinti táblákon a közelgő helyi előadások hirdetéseit.",
+            "ro": "Alocați un moment pentru a aprecia fațada elegantă a acestui reper cultural dedicat artelor spectacolului și verificați panourile exterioare pentru viitoare reprezentații.",
+            "en": "Take a moment to appreciate the elegant facade of this cultural landmark dedicated to the performing arts, and check the display boards outside for any upcoming local performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Martin",
+            "hu": "Saint-Martin-templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            3.400577,
+            50.32691
+          ],
+          "category": "religious",
+          "arrive_at": "10:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Kirchenschiff dieser zentralen Kirche mit schönen traditionellen Details, und umrunden Sie das Gebäude, um die herrlichen Buntglasfenster zu sehen.",
+            "hu": "Fedezze fel e fontos központi templom történelmi hajóját a gyönyörű hagyományos részletekkel, és sétálja körbe az épületet az ólomüveg ablakok megtekintéséhez.",
+            "ro": "Explorați naosul istoric al acestei biserici centrale importante, plină de detalii tradiționale, și faceți un tur al perimetrului pentru a vedea vitraliile spectaculoase.",
+            "en": "Explore the historic nave of this important central church, which features beautiful traditional details, and take time to walk around its perimeter to view the stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Émile-Zola-Park",
+            "hu": "Émile Zola park",
+            "ro": "Parcul Émile Zola",
+            "en": "Émile Zola Park"
+          },
+          "coords": [
+            3.392683,
+            50.32322
+          ],
+          "category": "recreational",
+          "arrive_at": "11:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die weitläufigen Grünflächen, die einen perfekten Rückzugsort bieten, und bringen Sie einen Snack mit, um ihn auf einer der schattigen Bänke zu genießen.",
+            "hu": "Sétáljon végig a tágas zöldterületeken, amelyek tökéletes menedéket nyújtanak a város elől, és vigyen magával egy kis harapnivalót az egyik árnyékos padon való pihenéshez.",
+            "ro": "Plimbați-vă prin aceste spații verzi întinse ce oferă un refugiu perfect din fața orașului și aduceți o gustare pentru a o savura pe una dintre băncile umbrite din centru.",
+            "en": "Stroll through these expansive green spaces that offer a perfect retreat from the city streets, and bring a small snack to enjoy on one of the shaded benches near the central paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Freilichtbühne",
+            "hu": "Szabadtéri Színház",
+            "ro": "Teatrul de Vară",
+            "en": "Open-Air Theater"
+          },
+          "coords": [
+            3.391587,
+            50.323886
+          ],
+          "category": "cultural",
+          "arrive_at": "12:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese Freilichtbühne inmitten des Grüns des Parks, die Natur und Architektur verbindet, und testen Sie die beeindruckende natürliche Akustik von der Bühne aus.",
+            "hu": "Csodálja meg ezt a park zöldjében megbúvó szabadtéri helyszínt, amely gyönyörűen ötvözi a természetet és az építészetet, és próbálja ki a színpad lenyűgöző akusztikáját.",
+            "ro": "Admirați această scenă în aer liber cuibărită în verdeața parcului, ce îmbină natura și arhitectura, și încercați să testați acustica naturală impresionantă de pe scenă.",
+            "en": "Marvel at this open-air venue nestled within the park's greenery, which beautifully blends nature and architecture, and try testing the impressive natural acoustics from the stage."
+          }
+        },
+        {
+          "name": {
+            "de": "Pyramide zur Schlacht von Denain",
+            "hu": "Denaini csata emlékgúlája",
+            "ro": "Piramida comemorativă a bătăliei de la Denain",
+            "en": "Denain Battle Commemorative Pyramid"
+          },
+          "coords": [
+            3.422065,
+            50.318085
+          ],
+          "category": "historical",
+          "arrive_at": "14:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.45,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses hoch aufragende historische Denkmal zur Erinnerung an eine Schlacht des 18. Jahrhunderts, und lesen Sie die Informationstafeln an der Basis für den Kontext.",
+            "hu": "Fedezze fel ezt a 18. századi sorsdöntő csatának emléket állító, magasodó történelmi emlékművet, és olvassa el a tövénél lévő táblákat, hogy megértse nemzeti jelentőségét.",
+            "ro": "Descoperiți acest monument istoric impunător ce comemorează o bătălie decisivă din secolul XVIII și citiți plăcile informative de la bază pentru a-i înțelege semnificația.",
+            "en": "Discover this towering historical monument commemorating a decisive 18th-century battle, and read the informational plaques at the base to fully grasp its national significance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame-de-l'Assomption",
+            "hu": "Notre-Dame-de-l'Assomption templom",
+            "ro": "Biserica Notre-Dame-de-l'Assomption",
+            "en": "Church of Notre-Dame-de-l'Assomption"
+          },
+          "coords": [
+            3.433348,
+            50.318175
+          ],
+          "category": "religious",
+          "arrive_at": "15:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante religiöse Stätte abseits des Trubels, die eine ruhige Atmosphäre bietet, und achten Sie auf den unverwechselbaren architektonischen Stil des Eingangs.",
+            "hu": "Látogasson el a nyüzsgő központtól távolabb eső békés, közösségi hangulatú vallási emlékhelyre, és figyelje meg a bejárat jellegzetes építészeti stílusát és kidolgozottságát.",
+            "ro": "Vizitați acest lăcaș religios fermecător departe de centrul aglomerat, ce oferă o atmosferă comunitară senină, și observați stilul arhitectural distinct al intrării sale.",
+            "en": "Visit this charming religious site located away from the bustling center, which offers a serene community atmosphere, and take note of the distinct architectural style of its entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im bürgerlichen Herzen von Denain, wo Sie die Architektur und die ruhigen Straßen genießen. Mittags finden Sie Entspannung im Émile-Zola-Park und erleben den natürlichen Charme der Stadt. Der Nachmittag lädt dazu ein, das lokale Kulturerbe mit historischen Kirchen und Denkmälern zu entdecken. Beenden Sie Ihre Tour mit Gedanken an die reiche und vielfältige Vergangenheit von Denain.",
+        "hu": "A napja Denain polgári központjában indul, ahol megcsodálhatja a történelmi építészetet és a csendes utcákat. Délben az Émile Zola park zöldjében pihenhet meg, élvezve a város természeti varázsát. A délután folyamán a helyi kulturális örökséget, köztük történelmi templomokat és emlékműveket fedezhet fel. Zárja sétáját Denain gazdag múltjának nyugodt felidézésével a késő délutáni órákban.",
+        "ro": "Ziua începe în inima civică din Denain, admirând arhitectura istorică și străzile liniștite. La prânz, veți găsi relaxare și verdeață în Parcul Émile Zola, bucurându-vă de farmecul natural al orașului. După-amiaza vă invită să descoperiți patrimoniul cultural local, inclusiv biserici și monumente istorice. Încheiați-vă turul reflectând la tapiseria bogată a trecutului impresionant al orașului Denain.",
+        "en": "Your day begins in the civic heart of Denain, admiring the historic architecture and quiet morning streets. By midday, you'll find relaxation and greenery at Émile Zola Park, enjoying the town's natural charm. The afternoon invites you to discover the local cultural heritage, including historic churches and monuments. Conclude your tour reflecting on the rich tapestry of Denain's past."
+      }
+    }
+  }
+}

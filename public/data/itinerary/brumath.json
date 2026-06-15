@@ -1,0 +1,405 @@
+{
+  "city_id": "brumath",
+  "anchor": {
+    "name": "Brumath",
+    "coords": [
+      7.7083,
+      48.7319
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:52",
+      "total_km": 3.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Jardin de l'Escalier (Treppengarten)",
+            "hu": "Lépcsőkertje (Jardin de l'Escalier)",
+            "ro": "Grădina Scărilor (Jardin de l'Escalier)",
+            "en": "Garden of the Staircase"
+          },
+          "coords": [
+            7.708794,
+            48.73679
+          ],
+          "category": "garden",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen bezaubernden organischen Garten voller Skulpturen, wo Sie bei einem entspannten Spaziergang verborgene künstlerische Schätze finden.",
+            "hu": "Fedezze fel ezt a szobrokkal teli varázslatos organikus kertet, ahol egy pihentető séta során rejtett művészeti kincsekre bukkanhat az aljnövényzetben.",
+            "ro": "Explorați această grădină organică fermecătoare plină de sculpturi, unde veți găsi comori artistice ascunse în timpul unei plimbări matinale relaxante.",
+            "en": "Explore this enchanting organic garden filled with sculptures, where a relaxing morning stroll will reveal hidden artistic treasures among the lush foliage."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Brumath",
+            "hu": "Brumathi Régészeti Múzeum",
+            "ro": "Muzeul Arheologic din Brumath",
+            "en": "Brumath Archaeological Museum"
+          },
+          "coords": [
+            7.712778,
+            48.731389
+          ],
+          "category": "museum",
+          "arrive_at": "10:19",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die galloromanische Geschichte ein und bestaunen Sie antike Funde, aber achten Sie auf die wechselnden Öffnungszeiten in den Wintermonaten.",
+            "hu": "Merüljön el a gall-római történelemben és csodálja meg az ókori leleteket, de látogatás előtt mindenképpen ellenőrizze a változó téli nyitvatartási időt.",
+            "ro": "Scufundați-vă în istoria galo-romană admirând numeroasele descoperiri antice, dar asigurați-vă că verificați programul de iarnă care se poate schimba.",
+            "en": "Dive into Gallo-Roman history by admiring the ancient local artifacts, but be absolutely sure to check the seasonal opening hours before planning your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Spielplatz Eichenstraße",
+            "hu": "Tölgyfa utcai játszótér",
+            "ro": "Loc de joacă Rue des Chênes",
+            "en": "Oak Street Playground"
+          },
+          "coords": [
+            7.720289,
+            48.735403
+          ],
+          "category": "family",
+          "arrive_at": "12:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Ein idealer Ort für Familien mit kleinen Kindern, der sichere Spielgeräte im Schatten der alten Eichen für eine erholsame Pause am Mittag stets bietet.",
+            "hu": "Ideális hely kisgyermekes családok számára, amely biztonságos játszótéri eszközöket kínál az öreg tölgyfák árnyékában egy pihentető déli szünethez.",
+            "ro": "Un loc ideal pentru familiile cu copii mici, oferind echipamente de joacă sigure la umbra stejarilor maturi pentru o pauză relaxantă liniștită la prânz.",
+            "en": "An ideal spot for families with young children, offering safe play equipment under the pleasant shade of mature oak trees for a relaxing afternoon break."
+          }
+        },
+        {
+          "name": {
+            "de": "Spielplatz Paul Cézanne",
+            "hu": "Paul Cézanne játszótér",
+            "ro": "Loc de joacă Paul Cézanne",
+            "en": "Paul Cézanne Playground"
+          },
+          "coords": [
+            7.720093,
+            48.736554
+          ],
+          "category": "family",
+          "arrive_at": "13:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder auf diesem modernen Spielplatz überschüssige Energie abbauen, während Sie die ruhige Umgebung des schönen Wohnviertels genießen.",
+            "hu": "Hagyja, hogy a gyerekek levezessék az energiájukat ezen a modern játszótéren, miközben Ön a csendes lakóövezet nyugalmát élvezi a kora délután folyamán.",
+            "ro": "Lăsați copiii să-și consume energia pe acest loc de joacă modern foarte bine întreținut, în timp ce vă bucurați de împrejurimile liniștite ale cartierului.",
+            "en": "Let the kids burn off some excess energy at this modern playground while you peacefully enjoy the tranquil surroundings of the quiet residential neighborhood."
+          }
+        },
+        {
+          "name": {
+            "de": "Wald von Brumath",
+            "hu": "Brumathi Erdő",
+            "ro": "Pădurea Brumath",
+            "en": "Brumath Forest"
+          },
+          "coords": [
+            7.699771,
+            48.732506
+          ],
+          "category": "natural",
+          "arrive_at": "15:07",
+          "stay_min": 105,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die tiefe Stille der Natur auf den ausgedehnten Waldwegen, die sich perfekt für einen langen, meditativen Spaziergang in der Sonne eignen.",
+            "hu": "Élvezze a természet mély csendjét a kiterjedt erdei ösvényeken, amelyek tökéletesek egy hosszú, meditatív sétához a kellemes délutáni meleg napsütésben.",
+            "ro": "Bucurați-vă de liniștea profundă a naturii pe traseele forestiere extinse, care sunt perfecte pentru o plimbare lungă și meditativă la soarele de după-amiază.",
+            "en": "Enjoy the profound tranquility of nature on the extensive forest trails, which are absolutely perfect for a long, meditative walk in the warm afternoon sun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unser Tag in Brumath beginnt entspannt im malerischen Jardin de l'Escalier. Danach tauchen wir im Musée Archéologique in die reiche galloromanische Vergangenheit ein. Am Nachmittag schlendern wir gemütlich zu den schönen Spielplätzen der Stadt. Zum Abschluss erwartet uns die beruhigende Atmosphäre der La Forêt de Brumath.",
+        "hu": "Brumathi napunk a Jardin de l'Escalier nyugodt környezetében kezdődik. Ezután a Musée Archéologique-ban elmélyedünk a gall-római múltban. Délután kényelmesen elsétálunk a város kedves játszótereihez, majd a La Forêt de Brumath sűrű erdejének megnyugtató légkörében zárjuk ezt a békés és pihentető napot.",
+        "ro": "Ziua noastră în Brumath începe relaxant în pitorescul Jardin de l'Escalier. Apoi pătrundem în trecutul galo-roman la Musée Archéologique. După-amiaza ne plimbăm liniștit spre frumoasele locuri de joacă ale orașului, pentru a încheia ziua în atmosfera liniștitoare a pădurii seculare La Forêt de Brumath.",
+        "en": "Our day in Brumath starts with a peaceful morning at the beautifully curated Jardin de l'Escalier. We then dive into Gallo-Roman history at the Musée Archéologique. In the afternoon, we take a leisurely stroll to the town's local playgrounds. We conclude our trip surrounded by the soothing nature of La Forêt de Brumath."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:37",
+      "total_km": 12.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Archäologisches Museum Brumath",
+            "hu": "Brumathi Régészeti Múzeum",
+            "ro": "Muzeul Arheologic din Brumath",
+            "en": "Brumath Archaeological Museum"
+          },
+          "coords": [
+            7.712778,
+            48.731389
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die galloromanische Geschichte ein und bestaunen Sie antike Funde, aber achten Sie auf die wechselnden Öffnungszeiten in den Wintermonaten.",
+            "hu": "Merüljön el a gall-római történelemben és csodálja meg az ókori leleteket, de látogatás előtt mindenképpen ellenőrizze a változó téli nyitvatartási időt.",
+            "ro": "Scufundați-vă în istoria galo-romană admirând numeroasele descoperiri antice, dar asigurați-vă că verificați programul de iarnă care se poate schimba.",
+            "en": "Dive into Gallo-Roman history by admiring the ancient local artifacts, but be absolutely sure to check the seasonal opening hours before planning your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin de l'Escalier (Treppengarten)",
+            "hu": "Lépcsőkertje (Jardin de l'Escalier)",
+            "ro": "Grădina Scărilor (Jardin de l'Escalier)",
+            "en": "Garden of the Staircase"
+          },
+          "coords": [
+            7.708794,
+            48.73679
+          ],
+          "category": "garden",
+          "arrive_at": "10:53",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen bezaubernden organischen Garten voller Skulpturen, wo Sie bei einem entspannten Spaziergang verborgene künstlerische Schätze finden.",
+            "hu": "Fedezze fel ezt a szobrokkal teli varázslatos organikus kertet, ahol egy pihentető séta során rejtett művészeti kincsekre bukkanhat az aljnövényzetben.",
+            "ro": "Explorați această grădină organică fermecătoare plină de sculpturi, unde veți găsi comori artistice ascunse în timpul unei plimbări matinale relaxante.",
+            "en": "Explore this enchanting organic garden filled with sculptures, where a relaxing morning stroll will reveal hidden artistic treasures among the lush foliage."
+          }
+        },
+        {
+          "name": {
+            "de": "Wald von Brumath",
+            "hu": "Brumathi Erdő",
+            "ro": "Pădurea Brumath",
+            "en": "Brumath Forest"
+          },
+          "coords": [
+            7.699771,
+            48.732506
+          ],
+          "category": "natural",
+          "arrive_at": "11:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die tiefe Stille der Natur auf den ausgedehnten Waldwegen, die sich perfekt für einen langen, meditativen Spaziergang in der Sonne eignen.",
+            "hu": "Élvezze a természet mély csendjét a kiterjedt erdei ösvényeken, amelyek tökéletesek egy hosszú, meditatív sétához a kellemes délutáni meleg napsütésben.",
+            "ro": "Bucurați-vă de liniștea profundă a naturii pe traseele forestiere extinse, care sunt perfecte pentru o plimbare lungă și meditativă la soarele de după-amiază.",
+            "en": "Enjoy the profound tranquility of nature on the extensive forest trails, which are absolutely perfect for a long, meditative walk in the warm afternoon sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Fluss Zorn",
+            "hu": "Zorn folyó",
+            "ro": "Râul Zorn",
+            "en": "The Zorn River"
+          },
+          "coords": [
+            7.66419,
+            48.734148
+          ],
+          "category": "natural",
+          "arrive_at": "13:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie an den ruhigen Ufern dieses malerischen Flusses entlang, der eine reiche Vogelwelt anzieht und fantastische Fotomotive am Nachmittag bietet.",
+            "hu": "Sétáljon végig a festői folyó csendes partján, amely gazdag madárvilágot vonz és fantasztikus fotótémákat kínál a kellemes késő délutáni napsütésben.",
+            "ro": "Plimbați-vă de-a lungul malurilor liniștite ale acestui râu pitoresc, care atrage numeroase păsări și oferă oportunități fotografice excelente la amiază.",
+            "en": "Stroll along the peaceful banks of this highly picturesque river, which attracts diverse local birdlife and offers fantastic mid-day photographic opportunities."
+          }
+        },
+        {
+          "name": {
+            "de": "Protestantische Kirche Brumath",
+            "hu": "Brumathi Protestáns Templom",
+            "ro": "Biserica Protestantă din Brumath",
+            "en": "Brumath Protestant Church"
+          },
+          "coords": [
+            7.775535,
+            48.753236
+          ],
+          "category": "religious",
+          "arrive_at": "15:27",
+          "stay_min": 70,
+          "hop_from_prev_min": 46,
+          "hop_from_prev_km": 8.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Eleganz dieser historischen protestantischen Kirche, deren beeindruckende Architektur die religiöse Geschichte der Region widerspiegelt.",
+            "hu": "Csodálja meg ennek a történelmi protestáns templomnak az egyszerű eleganciáját, amelynek lenyűgöző építészete a régió gazdag vallási múltját tükrözi.",
+            "ro": "Admirați eleganța simplă a acestei biserici protestante istorice, a cărei arhitectură impresionantă reflectă foarte clar bogata istorie religioasă a regiunii.",
+            "en": "Admire the incredibly simple elegance of this historic Protestant church, whose impressive architecture beautifully reflects the region's deep religious history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir starten unsere spannende Fahrradtour am Musée Archéologique, um die Geschichte von Brumath zu erkunden. Nach einem Stopp im Jardin de l'Escalier radeln wir zur grünen Oase der La Forêt. Der Weg führt uns weiter zum malerischen Fluss La Zorn. Schließlich bewundern wir die historische Église Protestante.",
+        "hu": "Kerékpártúránkat a Musée Archéologique-nál kezdjük a város történetének felfedezésével. A Jardin de l'Escalier után a La Forêt zöldellő oázisába tekerünk. Utunk ezután a festői La Zorn folyóhoz vezet, majd végül megcsodáljuk a történelmi Église Protestante épületét a város túlsó szélén.",
+        "ro": "Turul nostru pe bicicletă începe la Musée Archéologique pentru a explora istoria orașului. După Jardin de l'Escalier, pedalăm spre oaza verde La Forêt. Traseul continuă relaxat spre râul pitoresc La Zorn, iar în final admirăm arhitectura impresionantă a bisericii istorice Église Protestante.",
+        "en": "We kick off our cycling tour at the Musée Archéologique to explore Brumath's deep historic roots. Following a stop at Jardin de l'Escalier, we pedal to the green oasis of La Forêt. Our path then leads to the picturesque La Zorn river, finishing with a visit to the gorgeous historic Église Protestante."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:02",
+      "total_km": 14.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Protestantische Kirche Brumath",
+            "hu": "Brumathi Protestáns Templom",
+            "ro": "Biserica Protestantă din Brumath",
+            "en": "Brumath Protestant Church"
+          },
+          "coords": [
+            7.775535,
+            48.753236
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Eleganz dieser historischen protestantischen Kirche, deren beeindruckende Architektur die religiöse Geschichte der Region widerspiegelt.",
+            "hu": "Csodálja meg ennek a történelmi protestáns templomnak az egyszerű eleganciáját, amelynek lenyűgöző építészete a régió gazdag vallási múltját tükrözi.",
+            "ro": "Admirați eleganța simplă a acestei biserici protestante istorice, a cărei arhitectură impresionantă reflectă foarte clar bogata istorie religioasă a regiunii.",
+            "en": "Admire the incredibly simple elegance of this historic Protestant church, whose impressive architecture beautifully reflects the region's deep religious history."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum Brumath",
+            "hu": "Brumathi Régészeti Múzeum",
+            "ro": "Muzeul Arheologic din Brumath",
+            "en": "Brumath Archaeological Museum"
+          },
+          "coords": [
+            7.712778,
+            48.731389
+          ],
+          "category": "museum",
+          "arrive_at": "10:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die galloromanische Geschichte ein und bestaunen Sie antike Funde, aber achten Sie auf die wechselnden Öffnungszeiten in den Wintermonaten.",
+            "hu": "Merüljön el a gall-római történelemben és csodálja meg az ókori leleteket, de látogatás előtt mindenképpen ellenőrizze a változó téli nyitvatartási időt.",
+            "ro": "Scufundați-vă în istoria galo-romană admirând numeroasele descoperiri antice, dar asigurați-vă că verificați programul de iarnă care se poate schimba.",
+            "en": "Dive into Gallo-Roman history by admiring the ancient local artifacts, but be absolutely sure to check the seasonal opening hours before planning your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin de l'Escalier (Treppengarten)",
+            "hu": "Lépcsőkertje (Jardin de l'Escalier)",
+            "ro": "Grădina Scărilor (Jardin de l'Escalier)",
+            "en": "Garden of the Staircase"
+          },
+          "coords": [
+            7.708794,
+            48.73679
+          ],
+          "category": "garden",
+          "arrive_at": "11:44",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen bezaubernden organischen Garten voller Skulpturen, wo Sie bei einem entspannten Spaziergang verborgene künstlerische Schätze finden.",
+            "hu": "Fedezze fel ezt a szobrokkal teli varázslatos organikus kertet, ahol egy pihentető séta során rejtett művészeti kincsekre bukkanhat az aljnövényzetben.",
+            "ro": "Explorați această grădină organică fermecătoare plină de sculpturi, unde veți găsi comori artistice ascunse în timpul unei plimbări matinale relaxante.",
+            "en": "Explore this enchanting organic garden filled with sculptures, where a relaxing morning stroll will reveal hidden artistic treasures among the lush foliage."
+          }
+        },
+        {
+          "name": {
+            "de": "Fluss Zorn",
+            "hu": "Zorn folyó",
+            "ro": "Râul Zorn",
+            "en": "The Zorn River"
+          },
+          "coords": [
+            7.66419,
+            48.734148
+          ],
+          "category": "natural",
+          "arrive_at": "12:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie an den ruhigen Ufern dieses malerischen Flusses entlang, der eine reiche Vogelwelt anzieht und fantastische Fotomotive am Nachmittag bietet.",
+            "hu": "Sétáljon végig a festői folyó csendes partján, amely gazdag madárvilágot vonz és fantasztikus fotótémákat kínál a kellemes késő délutáni napsütésben.",
+            "ro": "Plimbați-vă de-a lungul malurilor liniștite ale acestui râu pitoresc, care atrage numeroase păsări și oferă oportunități fotografice excelente la amiază.",
+            "en": "Stroll along the peaceful banks of this highly picturesque river, which attracts diverse local birdlife and offers fantastic mid-day photographic opportunities."
+          }
+        },
+        {
+          "name": {
+            "de": "Fun Parc Brumath",
+            "hu": "Brumath Élménypark",
+            "ro": "Fun Parc Brumath",
+            "en": "Brumath Fun Park"
+          },
+          "coords": [
+            7.720233,
+            48.70617
+          ],
+          "category": "family",
+          "arrive_at": "14:17",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.2,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit aufregenden Outdoor-Aktivitäten für die ganze Familie in diesem großen Freizeitpark am Seeufer, der wirklich für jeden etwas bietet.",
+            "hu": "Zárja a napot izgalmas szabadtéri tevékenységekkel az egész család számára ebben a nagy, tóparti vidámparkban, amely biztosan mindenki számára tartogat valamit.",
+            "ro": "Încheiați ziua cu activități captivante în aer liber pentru toată familia în acest mare parc de distracții pe malul lacului, care oferă câte ceva pentru toți.",
+            "en": "End your exciting day with outdoor activities for the whole family at this expansive lakeside adventure park, which undoubtedly offers something thrilling for everyone."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto beginnen wir an der historischen Église Protestante im Osten der Stadt. Anschließend fahren wir ins Zentrum zum Musée Archéologique und zum Jardin de l'Escalier. Nach einem erholsamen Halt am idyllischen Fluss La Zorn steuern wir das Highlight für Familien an: den actionreichen Fun Parc Brumath.",
+        "hu": "Autóval a város keleti részén található Église Protestante-nál kezdünk. Ezután a központba hajtunk a Musée Archéologique és a Jardin de l'Escalier felé. A La Zorn folyónál tartott frissítő pihenő után a családok kedvencéhez, a délen fekvő, izgalmakkal teli Fun Parc Brumath-hoz vesszük az irányt.",
+        "ro": "Cu mașina începem la Église Protestante în estul orașului. Apoi conducem spre centru pentru Musée Archéologique și Jardin de l'Escalier. După o oprire relaxantă la pitorescul râu La Zorn, ne îndreptăm spre atracția principală pentru familii: parcul plin de aventură Fun Parc Brumath din sudul orașului.",
+        "en": "By car, we start at the lovely Église Protestante in the east of the town. We then drive to the center for the Musée Archéologique and Jardin de l'Escalier. Following a relaxing stop at the La Zorn river, we head down south to the main family attraction: the wonderfully action-packed Fun Parc Brumath."
+      }
+    }
+  }
+}

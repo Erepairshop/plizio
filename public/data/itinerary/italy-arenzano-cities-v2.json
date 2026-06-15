@@ -1,0 +1,405 @@
+{
+  "city_id": "italy-arenzano-cities-v2",
+  "anchor": {
+    "name": "Arenzano",
+    "coords": [
+      8.68313,
+      44.40252
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:43",
+      "total_km": 1.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Parco Villa Pallavicini",
+            "hu": "Parco Villa Pallavicini",
+            "ro": "Parco Villa Pallavicini",
+            "en": "Parco Villa Pallavicini"
+          },
+          "coords": [
+            8.68275,
+            44.401822
+          ],
+          "category": "park",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch das üppige Grün und die historischen Wege dieses zentralen Parks und halten Sie nach freilaufenden Pfauen Ausschau.",
+            "hu": "Sétáljon át a központi park buja zöldjén és történelmi ösvényein, ügyelve a kis tavak közelében szabadon kószáló pávákra.",
+            "ro": "Plimbați-vă prin verdeața luxuriantă și aleile istorice ale acestui parc central, căutând păunii care se plimbă liberi pe lângă iazuri.",
+            "en": "Wander through the lush greenery and historic paths of this central park, keeping an eye out for free-roaming peacocks near the small ponds."
+          }
+        },
+        {
+          "name": {
+            "de": "Oratorio di Santa Chiara",
+            "hu": "Oratorio di Santa Chiara",
+            "ro": "Oratorio di Santa Chiara",
+            "en": "Oratorio di Santa Chiara"
+          },
+          "coords": [
+            8.681798,
+            44.402771
+          ],
+          "category": "religious",
+          "arrive_at": "10:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, aber elegante Fassade dieses historischen Oratoriums und versuchen Sie, während einer Chorprobe hier zu sein.",
+            "hu": "Csodálja meg ennek a történelmi oratóriumnak az egyszerű, mégis elegáns homlokzatát, és próbáljon meg a helyi kórusok próbája idején érkezni.",
+            "ro": "Admirați fațada simplă, dar elegantă a acestui oratoriu istoric, și încercați să-l vizitați când corurile locale repetă pentru acustica deosebită.",
+            "en": "Admire the simple yet elegant facade of this historic oratory, and try to visit when local choirs rehearse to experience its fine acoustics."
+          }
+        },
+        {
+          "name": {
+            "de": "Santuario del Bambin di Praga",
+            "hu": "Santuario del Bambin di Praga",
+            "ro": "Santuario del Bambin di Praga",
+            "en": "Santuario del Bambin di Praga"
+          },
+          "coords": [
+            8.680685,
+            44.405728
+          ],
+          "category": "religious",
+          "arrive_at": "11:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erkunden Sie die atemberaubenden Majolika-Dekorationen dieses berühmten Heiligtums und verpassen Sie nicht die detaillierte permanente Krippe.",
+            "hu": "Fedezze fel ennek a híres szentélynek a lenyűgöző majolika díszítéseit, és ne hagyja ki az alagsorban található részletes állandó betlehemet.",
+            "ro": "Explorați decorațiunile uimitoare de majolică ale acestui sanctuar renumit și nu ratați scena detaliată a nașterii, aflată la subsol.",
+            "en": "Explore the stunning majolica decorations of this renowned sanctuary, and don't miss the detailed permanent nativity scene located just downstairs."
+          }
+        },
+        {
+          "name": {
+            "de": "Nostra Signora delle Olivette",
+            "hu": "Nostra Signora delle Olivette",
+            "ro": "Nostra Signora delle Olivette",
+            "en": "Nostra Signora delle Olivette"
+          },
+          "coords": [
+            8.686425,
+            44.407607
+          ],
+          "category": "religious",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieser malerischen religiösen Stätte auf einem Hügel, die einen perfekten Ort für ruhige Kontemplation bietet.",
+            "hu": "Élvezze ennek a dombtetőn álló festői vallási helyszínnek a békés hangulatát, amely tökéletes menedéket nyújt a csendes elmélkedéshez.",
+            "ro": "Bucurați-vă de atmosfera pașnică a acestui loc religios pitoresc, cocoțat pe un deal, care oferă un refugiu senin perfect pentru contemplare.",
+            "en": "Enjoy the peaceful atmosphere of this quaint religious site, perched on a hill, which offers a serene retreat perfect for quiet contemplation."
+          }
+        },
+        {
+          "name": {
+            "de": "Molo di Ponente",
+            "hu": "Molo di Ponente",
+            "ro": "Molo di Ponente",
+            "en": "Molo di Ponente"
+          },
+          "coords": [
+            8.686522,
+            44.40284
+          ],
+          "category": "natural",
+          "arrive_at": "12:48",
+          "stay_min": 55,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Machen Sie einen gemütlichen Spaziergang bis zum Ende dieses malerischen westlichen Piers, um einen herrlichen Sonnenuntergang zu erleben.",
+            "hu": "Tegyen egy kellemes sétát ennek a festői nyugati mólónak a végére, hogy megcsodálhassa a lenyűgöző naplementét és érezze a tengeri szellőt.",
+            "ro": "Faceți o plimbare relaxantă până la capătul acestui debarcader vestic pitoresc pentru a surprinde un apus magnific și briza răcoroasă.",
+            "en": "Take a leisurely stroll to the end of this picturesque western pier to catch a magnificent sunset and feel the refreshing coastal sea breeze."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Rundgang beginnt mit einem erfrischenden Morgenspaziergang durch die üppigen Gärten des Parco Villa Pallavicini. Mittags erkunden Sie das religiöse Erbe im Oratorio di Santa Chiara und im berühmten Santuario del Bambin di Praga. Am Nachmittag steigen Sie leicht zur ruhigen Nostra Signora delle Olivette hinauf. Wenn der Abend hereinbricht, beenden Sie Ihre Reise am Molo di Ponente und genießen den wunderschönen Sonnenuntergang.",
+        "hu": "Gyalogos túrája egy frissítő reggeli sétával kezdődik a Parco Villa Pallavicini buja kertjeiben. Délben felfedezheti a helyi vallási örökséget a bájos Oratorio di Santa Chiara-ban és a híres Santuario del Bambin di Praga-ban. Délután egy kicsit feljebb kapaszkodik a békés Nostra Signora delle Olivette-hez. Ahogy leszáll az est, utazását a Molo di Ponente mólónál fejezi be, gyönyörködve a tengerparti naplementében.",
+        "ro": "Turul pietonal începe cu o plimbare matinală revigorantă prin grădinile luxuriante ale Parco Villa Pallavicini. La prânz, veți explora moștenirea religioasă la fermecătorul Oratorio di Santa Chiara și la celebrul Santuario del Bambin di Praga. După-amiaza, urcați ușor spre liniștita Nostra Signora delle Olivette. Pe măsură ce se lasă seara, veți încheia călătoria la Molo di Ponente, admirând frumosul apus de soare de pe coastă.",
+        "en": "Your walking tour begins with a refreshing morning stroll through the lush gardens of Parco Villa Pallavicini. Midday invites you to explore the local religious heritage at the charming Oratorio di Santa Chiara and the famous Santuario del Bambin di Praga. In the afternoon, you ascend slightly to the serene Nostra Signora delle Olivette. As evening falls, you will conclude your journey at the Molo di Ponente, soaking in the beautiful coastal sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "13:42",
+      "total_km": 3.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Molo di Ponente",
+            "hu": "Molo di Ponente",
+            "ro": "Molo di Ponente",
+            "en": "Molo di Ponente"
+          },
+          "coords": [
+            8.686522,
+            44.40284
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Radtour mit einer Fahrt entlang des westlichen Piers und atmen Sie die frische Meeresluft ein, bevor der Küstenweg voll wird.",
+            "hu": "Kezdje a kerékpározást egy könnyed tekeréssel a nyugati móló mentén, magába szívva a friss reggeli tengeri levegőt a tömeg elől.",
+            "ro": "Începeți plimbarea cu bicicleta pe debarcaderul vestic, respirând aerul proaspăt al mării dimineața, înainte ca poteca să se aglomereze.",
+            "en": "Start your bike ride with a gentle cruise along the western pier, breathing in the fresh morning sea air before the coastal path gets crowded."
+          }
+        },
+        {
+          "name": {
+            "de": "Santuario del Bambin di Praga",
+            "hu": "Santuario del Bambin di Praga",
+            "ro": "Santuario del Bambin di Praga",
+            "en": "Santuario del Bambin di Praga"
+          },
+          "coords": [
+            8.680685,
+            44.405728
+          ],
+          "category": "religious",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad, um die exquisiten Keramikkunstwerke zu bestaunen, und erkunden Sie den ruhigen, terrassenförmig angelegten botanischen Garten.",
+            "hu": "Parkolja le a kerékpárt, hogy megcsodálja a szentély gyönyörű kerámia alkotásait, és szánjon időt a teraszos botanikus kert felfedezésére.",
+            "ro": "Parcați bicicleta pentru a vă minuna de operele de artă din ceramică ale sanctuarului, explorând grădinile botanice terasate și liniștite.",
+            "en": "Park your bike to marvel at the sanctuary's exquisite ceramic artworks, taking a few minutes to explore the tranquil terraced botanical gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Giardini di Villa Maddalena",
+            "hu": "Giardini di Villa Maddalena",
+            "ro": "Giardini di Villa Maddalena",
+            "en": "Giardini di Villa Maddalena"
+          },
+          "coords": [
+            8.672941,
+            44.401543
+          ],
+          "category": "park",
+          "arrive_at": "10:22",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Radeln Sie leicht ins Landesinnere zu diesen eleganten Gärten, wo Sie leicht eine schattige Bank unter den Pinien für eine Pause finden können.",
+            "hu": "Tekerjen egy kicsit a szárazföld felé ezekhez az elegáns kertekhez, ahol könnyen talál egy árnyékos padot a fenyőfák alatt egy gyors pihenőre.",
+            "ro": "Bicicliți ușor spre interior pentru a ajunge la aceste grădini elegante, unde puteți găsi o bancă umbrită sub pini pentru o scurtă odihnă.",
+            "en": "Cycle slightly inland to reach these elegant gardens, where you can easily find a shaded bench under the pine trees for a quick rest."
+          }
+        },
+        {
+          "name": {
+            "de": "Punta Bonaparte",
+            "hu": "Punta Bonaparte",
+            "ro": "Punta Bonaparte",
+            "en": "Punta Bonaparte"
+          },
+          "coords": [
+            8.662028,
+            44.392352
+          ],
+          "category": "natural",
+          "arrive_at": "11:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Fahren Sie auf dem atemberaubenden Küstenradweg zu diesem historischen Punkt, der sich perfekt für Panoramafotos des Mittelmeers eignet.",
+            "hu": "Lovagoljon végig a lenyűgöző tengerparti kerékpárúton ehhez a történelmi ponthoz, amely tökéletes átfogó panorámaképek készítéséhez.",
+            "ro": "Mergeți pe uimitoarea pistă de biciclete de coastă până la acest punct istoric, perfect pentru a face fotografii panoramice cu Marea Mediterană.",
+            "en": "Ride along the stunning coastal cycling path to this historic point, perfect for capturing sweeping panoramic photos of the Mediterranean Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia libera Stoppani",
+            "hu": "Spiaggia libera Stoppani",
+            "ro": "Spiaggia libera Stoppani",
+            "en": "Spiaggia libera Stoppani"
+          },
+          "coords": [
+            8.66361,
+            44.390619
+          ],
+          "category": "recreational",
+          "arrive_at": "11:57",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihr Radabenteuer an diesem weitläufigen freien Strand, wo Sie Ihr Fahrrad abschließen und direkt in die einladenden Wellen springen können.",
+            "hu": "Zárja kerékpáros kalandját ezen a tágas szabadstrandon, ahol lezárhatja a biciklijét, és azonnal fejest ugorhat a hívogató hullámokba.",
+            "ro": "Încheiați-vă aventura cu bicicleta pe această plajă publică spațioasă, unde vă puteți asigura bicicleta și puteți sări direct în valuri.",
+            "en": "Conclude your cycling adventure on this spacious free beach, where you can finally lock your bike and jump straight into the inviting waves."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Küstenradtour beginnt mit der erfrischenden Meeresbrise am Molo di Ponente. Mittags fahren Sie ins Landesinnere, um die spirituelle Schönheit des Santuario del Bambin di Praga und die Ruhe der Giardini di Villa Maddalena zu entdecken. Am Nachmittag sausen Sie den atemberaubenden Küstenweg entlang bis zur historischen Punta Bonaparte. Der Abend endet mit einer wohlverdienten, entspannenden Pause am Wasser der offenen Spiaggia libera Stoppani.",
+        "hu": "Tengerparti kerékpáros utazása a Molo di Ponente frissítő tengeri szellőjével kezdődik. Délben kissé a szárazföld felé veszi az irányt, hogy felfedezze a Santuario del Bambin di Praga szépségét és a Giardini di Villa Maddalena nyugalmát. Délután a lenyűgöző tengerparti ösvényen száguld, elérve a történelmi Punta Bonaparte-t. Az estét egy jól megérdemelt, pihentető vízparti kikapcsolódással zárja a tágas Spiaggia libera Stoppani-n.",
+        "ro": "Călătoria de coastă cu bicicleta începe cu briza mării de la Molo di Ponente. La prânz, mergeți ușor spre interior pentru a descoperi frumusețea spirituală de la Santuario del Bambin di Praga și liniștea Giardini di Villa Maddalena. După-amiaza, veți pedala pe superba pistă de coastă, ajungând la istorica Punta Bonaparte. Seara se încheie cu o pauză de relaxare binemeritată la malul apei, la Spiaggia libera Stoppani.",
+        "en": "Your coastal cycling journey begins with the refreshing sea breezes at Molo di Ponente. Midday takes you slightly inland to discover the spiritual beauty of Santuario del Bambin di Praga and the leafy tranquility of Giardini di Villa Maddalena. In the afternoon, you will speed along the stunning coastal path, reaching the historic Punta Bonaparte. Evening concludes with a well-deserved, relaxing break by the water at the open Spiaggia libera Stoppani."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "13:25",
+      "total_km": 4.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Belvedere 2000",
+            "hu": "Belvedere 2000",
+            "ro": "Belvedere 2000",
+            "en": "Belvedere 2000"
+          },
+          "coords": [
+            8.69355,
+            44.417131
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fahren Sie am frühen Morgen zu diesem Aussichtspunkt, um einen guten Parkplatz zu sichern und einen spektakulären Blick über die ligurische Küste zu genießen.",
+            "hu": "Vezessen fel ehhez a magaslati kilátóhoz kora reggel, hogy jó parkolóhelyet találjon, és megcsodálja a Ligur-tengerpart lenyűgöző látványát.",
+            "ro": "Conduceți până la acest punct de belvedere dimineața devreme pentru a găsi o parcare bună și a vedea o priveliște spectaculoasă a coastei.",
+            "en": "Drive up to this elevated vantage point early in the morning to secure a good parking spot and witness a spectacular view over the Ligurian coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Curvone di Terrarossa",
+            "hu": "Curvone di Terrarossa",
+            "ro": "Curvone di Terrarossa",
+            "en": "Curvone di Terrarossa"
+          },
+          "coords": [
+            8.691783,
+            44.409017
+          ],
+          "category": "natural",
+          "arrive_at": "09:37",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Halten Sie vorsichtig an dieser malerischen Straßenbiegung an, um die schroffen, rötlichen Klippen zu fotografieren, die ins blaue Meer abfallen.",
+            "hu": "Óvatosan húzódjon félre ennél a festői útkanyarulatnál, hogy lefotózza a tiszta, kék tengerbe meredeken alábukó, vöröses árnyalatú sziklákat.",
+            "ro": "Trageți pe dreapta cu grijă la această curbă pitorească pentru a fotografia stâncile roșiatice accidentate care se scufundă abrupt în marea albastră.",
+            "en": "Carefully pull over at this scenic bend in the road to photograph the rugged, red-tinted cliffs diving sharply into the clear blue sea below."
+          }
+        },
+        {
+          "name": {
+            "de": "Santuario del Bambin di Praga",
+            "hu": "Santuario del Bambin di Praga",
+            "ro": "Santuario del Bambin di Praga",
+            "en": "Santuario del Bambin di Praga"
+          },
+          "coords": [
+            8.680685,
+            44.405728
+          ],
+          "category": "religious",
+          "arrive_at": "10:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Besucherparkplatz des Heiligtums, um das kunstvolle Innere und den friedlichen, gepflegten botanischen Park bequem zu erkunden.",
+            "hu": "Használja a szentély saját látogatói parkolóját, hogy kényelmesen felfedezhesse a díszes belső tereket és a békés, gondozott botanikus kertet.",
+            "ro": "Folosiți parcarea pentru vizitatori a sanctuarului pentru a explora confortabil interioarele ornamentate și parcul botanic pașnic și bine întreținut.",
+            "en": "Use the sanctuary's dedicated visitor parking to comfortably explore its ornate interiors and the peaceful, well-maintained botanical park outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Muvita",
+            "hu": "Muvita",
+            "ro": "Muvita",
+            "en": "Muvita"
+          },
+          "coords": [
+            8.664911,
+            44.402288
+          ],
+          "category": "museum",
+          "arrive_at": "10:47",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Verbringen Sie einige Stunden in diesem interaktiven Umweltmuseum; Parkplätze sind meist reichlich vorhanden, was es zu einem stressfreien Halt macht.",
+            "hu": "Töltsön el pár órát ebben az interaktív környezetvédelmi múzeumban; a parkolás általában bőséges, így stresszmentes oktatási állomás lehet.",
+            "ro": "Petreceți câteva ore în acest muzeu ecologic interactiv; locurile de parcare sunt de obicei ample, făcându-l o oprire educativă fără stres.",
+            "en": "Spend a couple of hours in this interactive environmental museum; parking is usually ample, making it a stress-free educational stop for the family."
+          }
+        },
+        {
+          "name": {
+            "de": "Radura degli U.F.O.",
+            "hu": "Radura degli U.F.O.",
+            "ro": "Radura degli U.F.O.",
+            "en": "Radura degli U.F.O."
+          },
+          "coords": [
+            8.657654,
+            44.392839
+          ],
+          "category": "landmark",
+          "arrive_at": "12:30",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem skurrilen, mysteriösen Wahrzeichen in der Natur und tragen Sie festes Schuhwerk für den kurzen Spaziergang vom Parkplatz.",
+            "hu": "Autózzon el ehhez a mókás, titokzatos természeti nevezetességhez, és viseljen masszív cipőt az út menti parkolótól a tisztásig tartó rövid sétához.",
+            "ro": "Conduceți către acest reper ciudat și misterios din natură și purtați pantofi rezistenți pentru scurta plimbare de la parcare până la poiană.",
+            "en": "Drive out to this quirky, mysterious landmark set in nature, and wear sturdy shoes for the short walk from the roadside parking to the clearing."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt mit weiten Morgenpanoramen vom Belvedere 2000 und dem malerischen Curvone di Terrarossa. Mittags fahren Sie in die Stadt hinunter, um die spirituelle Kunst im Santuario del Bambin di Praga zu bewundern. Am Nachmittag tauchen Sie in die ökologischen Exponate des Muvita-Museums ein. Wenn der Abend naht, endet Ihre landschaftlich reizvolle Fahrt mit einem Besuch der skurrilen und natürlichen Radura degli U.F.O.",
+        "hu": "Autós túrája a Belvedere 2000 és a festői Curvone di Terrarossa lenyűgöző reggeli panorámáival indul. Délben leereszkedik a városba, hogy megcsodálja a spirituális művészetet a Santuario del Bambin di Praga-ban. Délután elmerülhet a Muvita múzeum lenyűgöző ökológiai kiállításaiban. Ahogy közeledik az este, festői autózása a különleges és természetes, zöld növényzettel körülvett Radura degli U.F.O. meglátogatásával zárul.",
+        "ro": "Turul cu mașina începe cu panorame matinale ample de la Belvedere 2000 și pitorescul Curvone di Terrarossa. La prânz, veți coborî în oraș pentru a admira arta spirituală de la Santuario del Bambin di Praga. După-amiaza, vă scufundați în exponatele ecologice fascinante de la muzeul Muvita. Pe măsură ce se apropie seara, călătoria pitorească se încheie cu o vizită la ciudata și naturala Radura degli U.F.O., înconjurată de verdeață.",
+        "en": "Your driving tour kicks off with sweeping morning panoramas from Belvedere 2000 and the scenic Curvone di Terrarossa. By midday, you will descend into town to admire the spiritual art at the Santuario del Bambin di Praga. In the afternoon, you dive into fascinating ecological exhibits at the Muvita museum. As the evening approaches, your scenic drive concludes with a visit to the quirky and natural Radura degli U.F.O., surrounded by greenery."
+      }
+    }
+  }
+}

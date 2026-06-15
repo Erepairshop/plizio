@@ -1,0 +1,543 @@
+{
+  "city_id": "chimalhuacan-cities-v2",
+  "anchor": {
+    "name": "Chimalhuacán",
+    "coords": [
+      -98.9667,
+      19.4333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:18",
+      "total_km": 5.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo del Guerrero Chimalli",
+            "hu": "Museo del Guerrero Chimalli",
+            "ro": "Museo del Guerrero Chimalli",
+            "en": "Museo del Guerrero Chimalli"
+          },
+          "coords": [
+            -98.983904,
+            19.413004
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die kolossale Statue des Chimalli-Kriegers, die den lokalen Stolz symbolisiert, und machen Sie unbedingt Panoramabilder von der Aussichtsplattform.",
+            "hu": "Csodálja meg a Chimalli harcos lenyűgöző, kolosszális szobrát, amely a helyi büszkeséget jelképezi, és készítsen panorámaképeket a kilátójáról.",
+            "ro": "Admirați statuia colosală a războinicului Chimalli ce simbolizează mândria locală și asigurați-vă că faceți fotografii panoramice de pe platforma sa de observare.",
+            "en": "Marvel at the monumental towering statue of the Chimalli warrior which symbolizes local pride, and make sure to take panoramic photos from its viewing platform."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro-Auditorio Humberto Vidal Mendoza",
+            "hu": "Teatro-Auditorio Humberto Vidal Mendoza",
+            "ro": "Teatro-Auditorio Humberto Vidal Mendoza",
+            "en": "Teatro-Auditorio Humberto Vidal Mendoza"
+          },
+          "coords": [
+            -98.984442,
+            19.418037
+          ],
+          "category": "cultural",
+          "arrive_at": "10:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.56,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebendige lokale Kunstszene in diesem modernen Auditorium und informieren Sie sich vorab über kostenlose Nachmittagsvorstellungen.",
+            "hu": "Tapasztalja meg a helyi művészeti életet ebben a modern előadóteremben, és mindenképpen ellenőrizze előre az ingyenes délutáni előadások pontos menetrendjét.",
+            "ro": "Experimentați scena artistică locală în acest auditoriu modern și verificați din timp programul pentru a prinde spectacole gratuite în timpul după-amiezii.",
+            "en": "Experience the vibrant local arts scene at this modern auditorium known for hosting community plays, so check the schedule in advance for free afternoon performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Acuático El Chimalhuache",
+            "hu": "Parque Acuático El Chimalhuache",
+            "ro": "Parque Acuático El Chimalhuache",
+            "en": "Parque Acuático El Chimalhuache"
+          },
+          "coords": [
+            -98.960942,
+            19.406805
+          ],
+          "category": "recreational",
+          "arrive_at": "12:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 41,
+          "hop_from_prev_km": 2.74,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich in den Pools ab und genießen Sie die Aussicht auf die Hügel in diesem beliebten Wasserpark, wobei Sie unbedingt eigene Handtücher mitbringen sollten.",
+            "hu": "Hűsöljön a frissítő medencékben és élvezze a domboldali kilátást ebben a népszerű víziparkban, ahová mindenképpen érdemes saját törölközőt és naptejet magával hozni.",
+            "ro": "Răcoriți-vă în piscinele revigorante și bucurați-vă de priveliștile colinelor în acest parc acvatic, unde este foarte recomandat să aduceți propriile prosoape.",
+            "en": "Cool off in the refreshing pools and enjoy the scenic hillside views at this popular local water park, where bringing your own towels and sunscreen is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Zona Arqueológica Los Pochotes",
+            "hu": "Zona Arqueológica Los Pochotes",
+            "ro": "Zona Arqueológica Los Pochotes",
+            "en": "Zona Arqueológica Los Pochotes"
+          },
+          "coords": [
+            -98.947096,
+            19.418137
+          ],
+          "category": "historical",
+          "arrive_at": "14:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 1.91,
+          "tip_5lang": {
+            "de": "Erkunden Sie die prähispanischen Palastruinen, die das faszinierende Acolhua-Erbe offenbaren, und tragen Sie bequeme Schuhe für das unebene historische Gelände.",
+            "hu": "Fedezze fel a spanyol hódítás előtti palotaromokat, amelyek a régió Acolhua örökségét őrzik, és viseljen kényelmes cipőt az egyenetlen történelmi terepen.",
+            "ro": "Explorați ruinele palatului prehispanic ce dezvăluie moștenirea fascinantă Acolhua și purtați încălțăminte confortabilă pentru plimbarea pe terenul neregulat.",
+            "en": "Explore the ancient pre-Hispanic palace ruins that reveal the region's fascinating Acolhua heritage, and wear comfortable walking shoes for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Auditorio Alcomixtli Nezahualcóyotl",
+            "hu": "Teatro Auditorio Alcomixtli Nezahualcóyotl",
+            "ro": "Teatro Auditorio Alcomixtli Nezahualcóyotl",
+            "en": "Teatro Auditorio Alcomixtli Nezahualcóyotl"
+          },
+          "coords": [
+            -98.945395,
+            19.418961
+          ],
+          "category": "cultural",
+          "arrive_at": "15:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur und die große Bühne dieses kulturellen Zentrums und holen Sie sich vor dem Betreten einen schnellen Kaffee bei den Straßenverkäufern.",
+            "hu": "Csodálja meg ennek a fontos kulturális központnak a lenyűgöző építészetét, és mindenképpen igyon egy kávét a közeli árusoknál, mielőtt besétál a térre.",
+            "ro": "Admirați arhitectura impresionantă a acestui hub cultural esențial și asigurați-vă că luați o cafea de la vânzătorii din apropiere înainte de a intra în piață.",
+            "en": "Admire the impressive architecture and grand stage of this vital cultural hub, making sure to grab a quick coffee from nearby vendors before entering the plaza."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Chimaltonalli",
+            "hu": "Museo Chimaltonalli",
+            "ro": "Museo Chimaltonalli",
+            "en": "Museo Chimaltonalli"
+          },
+          "coords": [
+            -98.944256,
+            19.419413
+          ],
+          "category": "museum",
+          "arrive_at": "16:08",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Entdecken Sie die tiefe Geschichte von Chimalhuacán anhand gut kuratierter Artefakte und nehmen Sie sich Zeit für die informativen Tafeln über lokale Legenden.",
+            "hu": "Ismerje meg Chimalhuacán mély történetét és fejlődését a jól gondozott leleteken keresztül, és szánjon időt a helyi legendákat részletező táblák elolvasására.",
+            "ro": "Descoperiți istoria profundă a orașului Chimalhuacán prin artefacte bine organizate și luați-vă timp pentru a citi plăcuțele informative despre legendele locale.",
+            "en": "Discover the deep history and evolution of Chimalhuacán through well-curated artifacts, and take your time reading the informative plaques detailing local legends."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am imposanten Guerrero Chimalli, einem Symbol des lokalen Stolzes, und genießen Sie die Künste im nahen Auditorium. Mittags geht es zum El Chimalhuache für erfrischende Parklandschaften. Am Nachmittag erkunden Sie die antiken Wurzeln bei Los Pochotes und das markante Alcomixtli-Theater. Beenden Sie den Tag im Chimaltonalli-Museum mit tiefer lokaler Geschichte.",
+        "hu": "Kezdje a reggelt a helyi büszkeséget jelképező hatalmas Guerrero Chimalli szobornál, majd élvezze a művészetet a közeli előadóteremben. Délben az El Chimalhuache frissítő parkja nyújt pihenést. Délután fedezze fel a régió ősi gyökereit a Los Pochotes romoknál és az Alcomixtli színháznál. A napot a Chimaltonalli Múzeum gazdag helytörténeti kiállításával zárhatja nyugodt környezetben.",
+        "ro": "Începeți dimineața la impunătorul Guerrero Chimalli, un simbol al mândriei locale, urmat de artă la auditoriul din apropiere. La prânz, vizitați El Chimalhuache pentru peisaje revigorante și relaxare. După-amiaza, explorați rădăcinile antice la Los Pochotes și teatrul Alcomixtli. Încheiați ziua descoperind moștenirea bogată a zonei la Muzeul Chimaltonalli, plin de istorie locală.",
+        "en": "Begin your morning at the towering Guerrero Chimalli, a symbol of local pride, before enjoying local arts at the nearby auditorium. Midday takes you to El Chimalhuache for refreshing park views and a relaxing break. In the afternoon, explore the ancient roots of the region at Los Pochotes and the striking Alcomixtli theater. End your day discovering rich heritage at the Chimaltonalli Museum."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:24",
+      "total_km": 7.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo del Guerrero Chimalli",
+            "hu": "Museo del Guerrero Chimalli",
+            "ro": "Museo del Guerrero Chimalli",
+            "en": "Museo del Guerrero Chimalli"
+          },
+          "coords": [
+            -98.983904,
+            19.413004
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die kolossale Statue des Chimalli-Kriegers, die den lokalen Stolz symbolisiert, und machen Sie unbedingt Panoramabilder von der Aussichtsplattform.",
+            "hu": "Csodálja meg a Chimalli harcos lenyűgöző, kolosszális szobrát, amely a helyi büszkeséget jelképezi, és készítsen panorámaképeket a kilátójáról.",
+            "ro": "Admirați statuia colosală a războinicului Chimalli ce simbolizează mândria locală și asigurați-vă că faceți fotografii panoramice de pe platforma sa de observare.",
+            "en": "Marvel at the monumental towering statue of the Chimalli warrior which symbolizes local pride, and make sure to take panoramic photos from its viewing platform."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro-Auditorio Humberto Vidal Mendoza",
+            "hu": "Teatro-Auditorio Humberto Vidal Mendoza",
+            "ro": "Teatro-Auditorio Humberto Vidal Mendoza",
+            "en": "Teatro-Auditorio Humberto Vidal Mendoza"
+          },
+          "coords": [
+            -98.984442,
+            19.418037
+          ],
+          "category": "cultural",
+          "arrive_at": "10:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.56,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebendige lokale Kunstszene in diesem modernen Auditorium und informieren Sie sich vorab über kostenlose Nachmittagsvorstellungen.",
+            "hu": "Tapasztalja meg a helyi művészeti életet ebben a modern előadóteremben, és mindenképpen ellenőrizze előre az ingyenes délutáni előadások pontos menetrendjét.",
+            "ro": "Experimentați scena artistică locală în acest auditoriu modern și verificați din timp programul pentru a prinde spectacole gratuite în timpul după-amiezii.",
+            "en": "Experience the vibrant local arts scene at this modern auditorium known for hosting community plays, so check the schedule in advance for free afternoon performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Granja Interativa",
+            "hu": "Granja Interativa",
+            "ro": "Granja Interativa",
+            "en": "Granja Interativa"
+          },
+          "coords": [
+            -98.962617,
+            19.405784
+          ],
+          "category": "wildlife",
+          "arrive_at": "11:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.65,
+          "tip_5lang": {
+            "de": "Interagieren Sie auf diesem familienfreundlichen Hof mit Tieren und bringen Sie etwas Kleingeld mit, um spezielles Futter für die sanftmütigen Bewohner zu kaufen.",
+            "hu": "Kerüljön közelebb a farm állataihoz és ismerkedjen a vidéki élettel ebben a családbarát környezetben, és hozzon aprópénzt a különleges állateledel megvásárlásához.",
+            "ro": "Interacționați cu animalele de fermă și învățați despre viața rurală în acest spațiu prietenos, aducând mărunt pentru a cumpăra hrană specială pentru ele.",
+            "en": "Interact with farm animals and learn about sustainable rural life at this family-friendly farm, bringing small change to buy special food for the gentle animals."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Acuático El Chimalhuache",
+            "hu": "Parque Acuático El Chimalhuache",
+            "ro": "Parque Acuático El Chimalhuache",
+            "en": "Parque Acuático El Chimalhuache"
+          },
+          "coords": [
+            -98.960942,
+            19.406805
+          ],
+          "category": "recreational",
+          "arrive_at": "13:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich in den Pools ab und genießen Sie die Aussicht auf die Hügel in diesem beliebten Wasserpark, wobei Sie unbedingt eigene Handtücher mitbringen sollten.",
+            "hu": "Hűsöljön a frissítő medencékben és élvezze a domboldali kilátást ebben a népszerű víziparkban, ahová mindenképpen érdemes saját törölközőt és naptejet magával hozni.",
+            "ro": "Răcoriți-vă în piscinele revigorante și bucurați-vă de priveliștile colinelor în acest parc acvatic, unde este foarte recomandat să aduceți propriile prosoape.",
+            "en": "Cool off in the refreshing pools and enjoy the scenic hillside views at this popular local water park, where bringing your own towels and sunscreen is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Zona Arqueológica Los Pochotes",
+            "hu": "Zona Arqueológica Los Pochotes",
+            "ro": "Zona Arqueológica Los Pochotes",
+            "en": "Zona Arqueológica Los Pochotes"
+          },
+          "coords": [
+            -98.947096,
+            19.418137
+          ],
+          "category": "historical",
+          "arrive_at": "14:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.91,
+          "tip_5lang": {
+            "de": "Erkunden Sie die prähispanischen Palastruinen, die das faszinierende Acolhua-Erbe offenbaren, und tragen Sie bequeme Schuhe für das unebene historische Gelände.",
+            "hu": "Fedezze fel a spanyol hódítás előtti palotaromokat, amelyek a régió Acolhua örökségét őrzik, és viseljen kényelmes cipőt az egyenetlen történelmi terepen.",
+            "ro": "Explorați ruinele palatului prehispanic ce dezvăluie moștenirea fascinantă Acolhua și purtați încălțăminte confortabilă pentru plimbarea pe terenul neregulat.",
+            "en": "Explore the ancient pre-Hispanic palace ruins that reveal the region's fascinating Acolhua heritage, and wear comfortable walking shoes for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Chimaltonalli",
+            "hu": "Museo Chimaltonalli",
+            "ro": "Museo Chimaltonalli",
+            "en": "Museo Chimaltonalli"
+          },
+          "coords": [
+            -98.944256,
+            19.419413
+          ],
+          "category": "museum",
+          "arrive_at": "15:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.31,
+          "tip_5lang": {
+            "de": "Entdecken Sie die tiefe Geschichte von Chimalhuacán anhand gut kuratierter Artefakte und nehmen Sie sich Zeit für die informativen Tafeln über lokale Legenden.",
+            "hu": "Ismerje meg Chimalhuacán mély történetét és fejlődését a jól gondozott leleteken keresztül, és szánjon időt a helyi legendákat részletező táblák elolvasására.",
+            "ro": "Descoperiți istoria profundă a orașului Chimalhuacán prin artefacte bine organizate și luați-vă timp pentru a citi plăcuțele informative despre legendele locale.",
+            "en": "Discover the deep history and evolution of Chimalhuacán through well-curated artifacts, and take your time reading the informative plaques detailing local legends."
+          }
+        },
+        {
+          "name": {
+            "de": "Recinto Ferial de Chimalhuacán",
+            "hu": "Recinto Ferial de Chimalhuacán",
+            "ro": "Recinto Ferial de Chimalhuacán",
+            "en": "Recinto Ferial de Chimalhuacán"
+          },
+          "coords": [
+            -98.928815,
+            19.417951
+          ],
+          "category": "recreational",
+          "arrive_at": "17:39",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.62,
+          "tip_5lang": {
+            "de": "Schlendern Sie über dieses weitläufige Messegelände, auf dem oft lebhafte Feste stattfinden, und probieren Sie die lokalen Essensstände bei großen Veranstaltungen.",
+            "hu": "Sétáljon végig ezen a tágas vásártéren, amely gyakran ad otthont élénk regionális fesztiváloknak, és próbálja ki a helyi ételstandokat a nagyobb események során.",
+            "ro": "Plimbați-vă prin acest vast teren de expoziții ce găzduiește adesea festivaluri regionale și încercați standurile cu mâncare locală deschise la marile evenimente.",
+            "en": "Stroll through this expansive fairground which often hosts lively regional festivals, and check out the local food stalls that set up during major community events."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens zum monumentalen Guerrero Chimalli und zum modernen Humberto Vidal Theater. Mittags fahren Sie nach Süden zur interaktiven Farm und kühlen sich im Chimalhuache-Wasserpark ab. Der Nachmittag steht ganz im Zeichen der Geschichte mit den Ruinen von Los Pochotes und dem faszinierenden Chimaltonalli-Museum. Beenden Sie Ihre Radtour auf dem weitläufigen Recinto Ferial.",
+        "hu": "Tekerjen a monumentális Guerrero Chimalli és a modern Humberto Vidal színház felé a reggel folyamán. Dél körül biciklizzen délre az interaktív farmhoz, és hűsöljön a Chimalhuache víziparkban. A délután a történelemé, a Los Pochotes ősi romjaival és a Chimaltonalli Múzeum leleteivel. Zárja tartalmas kerékpártúráját a tágas Recinto Ferial rendezvényközpont területén.",
+        "ro": "Pedalați dimineața spre monumentalul Guerrero Chimalli și modernul teatru Humberto Vidal. La prânz, mergeți spre sud la ferma interactivă și răcoriți-vă la parcul acvatic Chimalhuache. După-amiaza se axează pe istorie, cu ruinele antice Los Pochotes și artefactele fascinante ale Muzeului Chimaltonalli. Încheiați-vă turul cu bicicleta pe spațiosul teren al Recinto Ferial.",
+        "en": "Pedal out to the monumental Guerrero Chimalli and the modern Humberto Vidal theater to start your morning. Around midday, ride south to the interactive farm and cool off by the Chimalhuache water park. Your afternoon shifts to history with the ancient ruins of Los Pochotes and the fascinating artifacts of the Chimaltonalli Museum. Cap off your bike tour at the spacious Recinto Ferial."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:09",
+      "total_km": 10.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo del Guerrero Chimalli",
+            "hu": "Museo del Guerrero Chimalli",
+            "ro": "Museo del Guerrero Chimalli",
+            "en": "Museo del Guerrero Chimalli"
+          },
+          "coords": [
+            -98.983904,
+            19.413004
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die kolossale Statue des Chimalli-Kriegers, die den lokalen Stolz symbolisiert, und machen Sie unbedingt Panoramabilder von der Aussichtsplattform.",
+            "hu": "Csodálja meg a Chimalli harcos lenyűgöző, kolosszális szobrát, amely a helyi büszkeséget jelképezi, és készítsen panorámaképeket a kilátójáról.",
+            "ro": "Admirați statuia colosală a războinicului Chimalli ce simbolizează mândria locală și asigurați-vă că faceți fotografii panoramice de pe platforma sa de observare.",
+            "en": "Marvel at the monumental towering statue of the Chimalli warrior which symbolizes local pride, and make sure to take panoramic photos from its viewing platform."
+          }
+        },
+        {
+          "name": {
+            "de": "Granja Interativa",
+            "hu": "Granja Interativa",
+            "ro": "Granja Interativa",
+            "en": "Granja Interativa"
+          },
+          "coords": [
+            -98.962617,
+            19.405784
+          ],
+          "category": "wildlife",
+          "arrive_at": "10:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Interagieren Sie auf diesem familienfreundlichen Hof mit Tieren und bringen Sie etwas Kleingeld mit, um spezielles Futter für die sanftmütigen Bewohner zu kaufen.",
+            "hu": "Kerüljön közelebb a farm állataihoz és ismerkedjen a vidéki élettel ebben a családbarát környezetben, és hozzon aprópénzt a különleges állateledel megvásárlásához.",
+            "ro": "Interacționați cu animalele de fermă și învățați despre viața rurală în acest spațiu prietenos, aducând mărunt pentru a cumpăra hrană specială pentru ele.",
+            "en": "Interact with farm animals and learn about sustainable rural life at this family-friendly farm, bringing small change to buy special food for the gentle animals."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Acuático El Chimalhuache",
+            "hu": "Parque Acuático El Chimalhuache",
+            "ro": "Parque Acuático El Chimalhuache",
+            "en": "Parque Acuático El Chimalhuache"
+          },
+          "coords": [
+            -98.960942,
+            19.406805
+          ],
+          "category": "recreational",
+          "arrive_at": "12:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich in den Pools ab und genießen Sie die Aussicht auf die Hügel in diesem beliebten Wasserpark, wobei Sie unbedingt eigene Handtücher mitbringen sollten.",
+            "hu": "Hűsöljön a frissítő medencékben és élvezze a domboldali kilátást ebben a népszerű víziparkban, ahová mindenképpen érdemes saját törölközőt és naptejet magával hozni.",
+            "ro": "Răcoriți-vă în piscinele revigorante și bucurați-vă de priveliștile colinelor în acest parc acvatic, unde este foarte recomandat să aduceți propriile prosoape.",
+            "en": "Cool off in the refreshing pools and enjoy the scenic hillside views at this popular local water park, where bringing your own towels and sunscreen is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Zona Arqueológica Los Pochotes",
+            "hu": "Zona Arqueológica Los Pochotes",
+            "ro": "Zona Arqueológica Los Pochotes",
+            "en": "Zona Arqueológica Los Pochotes"
+          },
+          "coords": [
+            -98.947096,
+            19.418137
+          ],
+          "category": "historical",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.91,
+          "tip_5lang": {
+            "de": "Erkunden Sie die prähispanischen Palastruinen, die das faszinierende Acolhua-Erbe offenbaren, und tragen Sie bequeme Schuhe für das unebene historische Gelände.",
+            "hu": "Fedezze fel a spanyol hódítás előtti palotaromokat, amelyek a régió Acolhua örökségét őrzik, és viseljen kényelmes cipőt az egyenetlen történelmi terepen.",
+            "ro": "Explorați ruinele palatului prehispanic ce dezvăluie moștenirea fascinantă Acolhua și purtați încălțăminte confortabilă pentru plimbarea pe terenul neregulat.",
+            "en": "Explore the ancient pre-Hispanic palace ruins that reveal the region's fascinating Acolhua heritage, and wear comfortable walking shoes for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Auditorio Alcomixtli Nezahualcóyotl",
+            "hu": "Teatro Auditorio Alcomixtli Nezahualcóyotl",
+            "ro": "Teatro Auditorio Alcomixtli Nezahualcóyotl",
+            "en": "Teatro Auditorio Alcomixtli Nezahualcóyotl"
+          },
+          "coords": [
+            -98.945395,
+            19.418961
+          ],
+          "category": "cultural",
+          "arrive_at": "14:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur und die große Bühne dieses kulturellen Zentrums und holen Sie sich vor dem Betreten einen schnellen Kaffee bei den Straßenverkäufern.",
+            "hu": "Csodálja meg ennek a fontos kulturális központnak a lenyűgöző építészetét, és mindenképpen igyon egy kávét a közeli árusoknál, mielőtt besétál a térre.",
+            "ro": "Admirați arhitectura impresionantă a acestui hub cultural esențial și asigurați-vă că luați o cafea de la vânzătorii din apropiere înainte de a intra în piață.",
+            "en": "Admire the impressive architecture and grand stage of this vital cultural hub, making sure to grab a quick coffee from nearby vendors before entering the plaza."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Chimaltonalli",
+            "hu": "Museo Chimaltonalli",
+            "ro": "Museo Chimaltonalli",
+            "en": "Museo Chimaltonalli"
+          },
+          "coords": [
+            -98.944256,
+            19.419413
+          ],
+          "category": "museum",
+          "arrive_at": "15:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Entdecken Sie die tiefe Geschichte von Chimalhuacán anhand gut kuratierter Artefakte und nehmen Sie sich Zeit für die informativen Tafeln über lokale Legenden.",
+            "hu": "Ismerje meg Chimalhuacán mély történetét és fejlődését a jól gondozott leleteken keresztül, és szánjon időt a helyi legendákat részletező táblák elolvasására.",
+            "ro": "Descoperiți istoria profundă a orașului Chimalhuacán prin artefacte bine organizate și luați-vă timp pentru a citi plăcuțele informative despre legendele locale.",
+            "en": "Discover the deep history and evolution of Chimalhuacán through well-curated artifacts, and take your time reading the informative plaques detailing local legends."
+          }
+        },
+        {
+          "name": {
+            "de": "Recinto Ferial de Chimalhuacán",
+            "hu": "Recinto Ferial de Chimalhuacán",
+            "ro": "Recinto Ferial de Chimalhuacán",
+            "en": "Recinto Ferial de Chimalhuacán"
+          },
+          "coords": [
+            -98.928815,
+            19.417951
+          ],
+          "category": "recreational",
+          "arrive_at": "17:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.62,
+          "tip_5lang": {
+            "de": "Schlendern Sie über dieses weitläufige Messegelände, auf dem oft lebhafte Feste stattfinden, und probieren Sie die lokalen Essensstände bei großen Veranstaltungen.",
+            "hu": "Sétáljon végig ezen a tágas vásártéren, amely gyakran ad otthont élénk regionális fesztiváloknak, és próbálja ki a helyi ételstandokat a nagyobb események során.",
+            "ro": "Plimbați-vă prin acest vast teren de expoziții ce găzduiește adesea festivaluri regionale și încercați standurile cu mâncare locală deschise la marile evenimente.",
+            "en": "Stroll through this expansive fairground which often hosts lively regional festivals, and check out the local food stalls that set up during major community events."
+          }
+        },
+        {
+          "name": {
+            "de": "Albercas Ejidales San Vicente",
+            "hu": "Albercas Ejidales San Vicente",
+            "ro": "Albercas Ejidales San Vicente",
+            "en": "Albercas Ejidales San Vicente"
+          },
+          "coords": [
+            -98.890407,
+            19.406371
+          ],
+          "category": "recreational",
+          "arrive_at": "18:24",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesen von viel Grün umgebenen Gemeinschaftspools, wobei eine Ankunft am späten Nachmittag eine viel ruhigere und friedlichere Atmosphäre garantiert.",
+            "hu": "Pihenjen ezekben a zöldellő növényzettel körülvett közösségi medencékben, és ne feledje, hogy a késő délutáni érkezés sokkal csendesebb légkört garantál a nap végén.",
+            "ro": "Relaxați-vă la aceste piscine comunitare înconjurate de verdeață pentru a vă încheia ziua și rețineți că o vizită după-amiaza târziu asigură o atmosferă mai liniștită.",
+            "en": "Relax at these community pools surrounded by lush greenery to end your day peacefully, and remember that arriving late afternoon ensures a much quieter atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zum ikonischen Guerrero Chimalli, um Ihren Tag mit beeindruckenden Aussichten zu beginnen. Mittags gibt es familienfreundlichen Spaß auf der interaktiven Farm und in den Pools von El Chimalhuache. Verbringen Sie den Nachmittag mit der Geschichte von Los Pochotes, dem Alcomixtli-Theater und dem Chimaltonalli-Museum. Abends entspannen Sie sich schließlich an den San Vicente Pools.",
+        "hu": "Autózzon az ikonikus Guerrero Chimalli szoborhoz, és indítsa a napot lenyűgöző kilátással. A délben jöhet a családbarát szórakozás az interaktív farmon és az El Chimalhuache medencéinél. A délutánt a történelemnek szentelje a Los Pochotes, az Alcomixtli színház és a Chimaltonalli Múzeum felfedezésével. Este pedig pihenjen egyet a tágas Recinto Ferial és a San Vicente medencéknél.",
+        "ro": "Conduceți spre emblematicul Guerrero Chimalli pentru a începe ziua cu priveliști impresionante. Prânzul aduce distracție în familie la ferma interactivă și piscinele El Chimalhuache. Petreceți după-amiaza explorând istoria la Los Pochotes, teatrul Alcomixtli și Muzeul Chimaltonalli. Pe măsură ce se lasă seara, vizitați Recinto Ferial și relaxați-vă la piscinele San Vicente.",
+        "en": "Drive to the iconic Guerrero Chimalli to kick off your day with impressive views. Midday brings family-friendly fun as you hop between the interactive farm and the pools of El Chimalhuache. Spend your afternoon diving into history at Los Pochotes, the Alcomixtli theater, and the Chimaltonalli Museum. As evening falls, cruise over to the Recinto Ferial and unwind at the San Vicente pools."
+      }
+    }
+  }
+}

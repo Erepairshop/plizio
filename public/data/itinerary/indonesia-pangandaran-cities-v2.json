@@ -1,0 +1,474 @@
+{
+  "city_id": "indonesia-pangandaran-cities-v2",
+  "anchor": {
+    "name": "Pangandaran",
+    "coords": [
+      108.6575,
+      -7.700278
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:58",
+      "total_km": 2.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Masjid Baiturrahman",
+            "hu": "Baiturrahman Mecset",
+            "ro": "Moscheea Baiturrahman",
+            "en": "Masjid Baiturrahman"
+          },
+          "coords": [
+            108.657593,
+            -7.70412
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ruhige Architektur dieser zentralen Moschee, um das lokale spirituelle Leben zu verstehen, und denken Sie daran, sich bescheiden zu kleiden.",
+            "hu": "Csodáld meg a központi mecset nyugodt építészetét a helyi hitélet megismeréséhez, és ne felejts el visszafogottan öltözni, mielőtt belépsz az udvarra.",
+            "ro": "Admiră arhitectura liniștită a acestei moschei centrale pentru a înțelege viața spirituală locală, amintindu-ți să te îmbraci decent la intrare.",
+            "en": "Admire the tranquil architecture of this central mosque to understand local spiritual life, remembering to dress modestly and remove your shoes before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Pantai Timur Pangandaran",
+            "hu": "Pangandaran Keleti Part",
+            "ro": "Plaja de Est Pangandaran",
+            "en": "Pantai Timur Pangandaran"
+          },
+          "coords": [
+            108.658609,
+            -7.703145
+          ],
+          "category": "recreational",
+          "arrive_at": "09:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Beobachten Sie die geschäftigen Fischer, die ihren morgendlichen Fang an der Ostküste einbringen, und kaufen Sie frische Meeresfrüchte direkt am Strand.",
+            "hu": "Figyeld meg a keleti parton a reggeli fogásukkal érkező nyüzsgő halászokat, és vásárolj friss tengeri herkentyűt közvetlenül a helyi árusoktól.",
+            "ro": "Urmărește pescarii plini de viață care aduc captura de dimineață pe țărmul estic și cumpără fructe de mare proaspete de la vânzătorii de pe plajă.",
+            "en": "Watch the bustling activities of fishermen bringing in their morning catch along the eastern shore, and buy some fresh seafood directly from local vendors."
+          }
+        },
+        {
+          "name": {
+            "de": "White Sand Beach West",
+            "hu": "Nyugati Fehérhomokos Part",
+            "ro": "Plaja cu Nisip Alb Vest",
+            "en": "White sand beach West"
+          },
+          "coords": [
+            108.652693,
+            -7.706462
+          ],
+          "category": "recreational",
+          "arrive_at": "11:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen weißen Sandstrand, der ideal zum Schwimmen ist, aber achten Sie auf die manchmal starken Unterwasserströmungen.",
+            "hu": "Pihenj ezen a festői fehérhomokos strandon, amely ideális úszásra, de mindig ügyelj a néha hirtelen felerősödő tengeri áramlatokra a vízben.",
+            "ro": "Relaxează-te pe această plajă pitorească cu nisip alb, ideală pentru înot, dar fii mereu atent la curenții subacvatici care pot fi puternici uneori.",
+            "en": "Relax on this picturesque white sand beach that offers ideal swimming conditions, but always remain mindful of the occasionally strong underwater currents."
+          }
+        },
+        {
+          "name": {
+            "de": "Cagar Alam Pangandaran",
+            "hu": "Cagar Alam Pangandaran",
+            "ro": "Rezervația Cagar Alam Pangandaran",
+            "en": "Cagar Alam Pangandaran"
+          },
+          "coords": [
+            108.663098,
+            -7.716163
+          ],
+          "category": "park",
+          "arrive_at": "12:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses üppige Naturschutzgebiet mit seiner reichen Flora und Fauna, und halten Sie Ihre Wertsachen sicher vor den neugierigen Affen.",
+            "hu": "Fedezd fel ezt a buja természetvédelmi területet, amely gazdag növény- és állatvilággal büszkélkedhet, és tartsd távol értékeidet a kíváncsi majmoktól.",
+            "ro": "Explorează această rezervație luxuriantă cu o floră și faună bogate, asigurându-te că îți ții obiectele de valoare departe de maimuțele curioase.",
+            "en": "Explore this lush nature conservation area filled with rich flora and fauna, making sure to keep your snacks and valuables secured from curious monkeys."
+          }
+        },
+        {
+          "name": {
+            "de": "Pananjung Pangandaran Nature Reserve",
+            "hu": "Pananjung Pangandaran Rezervátum",
+            "ro": "Rezervația Naturală Pananjung Pangandaran",
+            "en": "Pananjung Pangandaran Nature Reserve"
+          },
+          "coords": [
+            108.661588,
+            -7.716193
+          ],
+          "category": "park",
+          "arrive_at": "14:13",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Wandern Sie tiefer in dieses Reservat, um versteckte Höhlen zu finden, und bringen Sie ausreichend Wasser für die feuchten Dschungelpfade mit.",
+            "hu": "Túrázz mélyebbre a rezervátumban a lenyűgöző rejtett barlangok felfedezéséhez, és vigyél magaddal bőséges vizet a párás dzsungelösvényekre.",
+            "ro": "Aventurează-te mai adânc în această rezervație pentru a descoperi peșteri ascunse și adu-ți suficientă apă pentru potecile umede din junglă.",
+            "en": "Hike deeper into this expansive reserve to discover fascinating hidden caves, and bring plenty of drinking water for the humid jungle trails."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen, indem Sie in die ruhige Atmosphäre der lokalen Moschee eintauchen, bevor Sie zur lebhaften Ostküste aufbrechen.\nZur Mittagszeit spazieren Sie an den belebten Ufern vorbei zum ruhigeren westlichen Sand, um sich richtig zu entspannen.\nDer Nachmittag ist den dichten und faszinierenden Dschungelpfaden des großen Naturschutzgebiets gewidmet.\nDer Abend bricht herein, während Sie die spektakuläre Tierwelt und die tanzenden Schatten am Rande des Parks beobachten.",
+        "hu": "Kezdd a reggelt a helyi mecset nyugodt légkörében, mielőtt a nyüzsgő keleti partvidék felé vennéd az irányt a friss tengeri levegőért.\nDélben a forgalmas partok mentén a csendesebb nyugati homokdűnék felé sétálsz egy kellemes és pihentető tengerparti szünetre.\nA délutánt a hatalmas természetvédelmi terület sűrű dzsungelösvényeinek és rejtett csodáinak felfedezésére szánjuk.\nAz este közeledtével megcsodálhatod a park szélén gyülekező különleges vadvilágot és a lenyugvó nap fényeit.",
+        "ro": "Începe-ți dimineața scufundându-te în ambianța calmă a moscheii locale înainte de a te îndrepta spre coasta vibrantă de est.\nLa prânz vei trece de țărmurile pline de viață spre nisipurile vestice mai liniștite pentru o sesiune de relaxare binemeritată.\nDupă-amiaza este dedicată potecilor dense din junglă și explorării rezervației naturale spectaculoase din peninsulă.\nSeara se lasă încet în timp ce privești fauna sălbatică și umbrele mișcătoare la marginea parcului protejat.",
+        "en": "Start your morning immersing in the calm ambiance of the local mosque before heading to the vibrant and bustling eastern coastline.\nMidday brings you past energetic shores to the quieter western sands for a well-deserved relaxation session by the water.\nThe afternoon is wholly dedicated to trekking the dense jungle trails and discovering the secrets of the nature reserve.\nEvening settles in as you watch the spectacular wildlife and shifting shadows near the edge of the sprawling park."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:14",
+      "total_km": 5.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Masjid Husnul Khotimah",
+            "hu": "Husnul Khotimah Mecset",
+            "ro": "Moscheea Husnul Khotimah",
+            "en": "Masjid Husnul Khotimah"
+          },
+          "coords": [
+            108.655026,
+            -7.69308
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Radtour an dieser schönen Moschee im Norden, die friedliche Einkehr bietet, und parken Sie Ihr Fahrrad sicher im Schatten.",
+            "hu": "Kezdd a kerékpártúrát ennél az északi mecsetnél, amely békés elmélkedést kínál, és parkold le a biciklid biztonságosan az árnyékban.",
+            "ro": "Începe-ți turul cu bicicleta la această moschee din nord, care oferă o atmosferă pașnică, și parchează-ți bicicleta la umbră.",
+            "en": "Start your cycling journey at this beautiful northern mosque offering peaceful contemplation, and park your bike securely in the shaded area."
+          }
+        },
+        {
+          "name": {
+            "de": "Pantai Timur Pangandaran",
+            "hu": "Pangandaran Keleti Part",
+            "ro": "Plaja de Est Pangandaran",
+            "en": "Pantai Timur Pangandaran"
+          },
+          "coords": [
+            108.658609,
+            -7.703145
+          ],
+          "category": "recreational",
+          "arrive_at": "09:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fahren Sie entlang der Ostküste, um die traditionellen Fischerboote zu sehen, und weichen Sie den Netzen auf dem feinen Sand vorsichtig aus.",
+            "hu": "Tekerj végig a keleti parton a hagyományos halászhajók megtekintéséhez, és óvatosan kerüld ki a finom homokon kiterített hálókat.",
+            "ro": "Pedalează de-a lungul coastei de est pentru a vedea bărcile tradiționale de pescuit și evită cu grijă plasele întinse pe nisip.",
+            "en": "Ride along the eastern coastline to see the vibrant traditional fishing boats, carefully avoiding the fishing nets spread out on the soft sand."
+          }
+        },
+        {
+          "name": {
+            "de": "White Sand Beach East",
+            "hu": "Keleti Fehérhomokos Part",
+            "ro": "Plaja cu Nisip Alb Est",
+            "en": "White Sand Beach East"
+          },
+          "coords": [
+            108.664279,
+            -7.706698
+          ],
+          "category": "recreational",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Genießen Sie den feinen weißen Sand in diesem etwas ruhigeren Abschnitt, der ideal ist, um bei einem kühlen Kokosnusswasser zu entspannen.",
+            "hu": "Élvezd a finom fehér homokot ezen a csendesebb szakaszon, amely ideális egy kis pihenésre egy hűsítő kókuszvíz kíséretében.",
+            "ro": "Bucură-te de nisipul fin și alb în această secțiune mai liniștită a plajei, perfectă pentru a te relaxa cu o apă rece de cocos.",
+            "en": "Enjoy the fine white sand in this slightly quieter section of the beach, which is perfectly suited for relaxing with a cold, fresh coconut water."
+          }
+        },
+        {
+          "name": {
+            "de": "Cagar Alam Pangandaran",
+            "hu": "Cagar Alam Pangandaran",
+            "ro": "Rezervația Cagar Alam Pangandaran",
+            "en": "Cagar Alam Pangandaran"
+          },
+          "coords": [
+            108.663098,
+            -7.716163
+          ],
+          "category": "park",
+          "arrive_at": "12:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad am Parkeingang ab und spazieren Sie durch den dichten Wald, um wilde Hirsche in ihrer natürlichen Umgebung zu sehen.",
+            "hu": "Zárd le a kerékpárod a park bejáratánál, és sétálj a sűrű erdőben, hogy vadon élő szarvasokat pillanthass meg természetes élőhelyükön.",
+            "ro": "Leagă-ți bicicleta la intrarea în parc și plimbă-te prin pădurea deasă pentru a vedea cerbii sălbatici în habitatul lor natural.",
+            "en": "Lock your bike at the park entrance and stroll through the dense coastal forest for a great chance to spot wild deer in their natural habitat."
+          }
+        },
+        {
+          "name": {
+            "de": "Air Terjun",
+            "hu": "Vízesés (Air Terjun)",
+            "ro": "Cascada Air Terjun",
+            "en": "Air Terjun"
+          },
+          "coords": [
+            108.659707,
+            -7.721905
+          ],
+          "category": "landmark",
+          "arrive_at": "13:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von diesem versteckten Wasserfall tief im Naturschutzgebiet erfrischen, tragen Sie jedoch rutschfeste Schuhe für den moosigen Weg.",
+            "hu": "Frissülj fel a rezervátum mélyén megbújó rejtett vízesésnél, de mindenképpen viselj csúszásmentes cipőt a mohás erdei ösvényen.",
+            "ro": "Lasă-te răcorit de această cascadă ascunsă adânc în rezervație, asigurându-te că porți încălțăminte antiderapantă pe poteca plină de mușchi.",
+            "en": "Let the mist of this hidden waterfall deep inside the nature reserve refresh you, but be sure to wear non-slip shoes for the mossy trails."
+          }
+        },
+        {
+          "name": {
+            "de": "White Sand Beach West",
+            "hu": "Nyugati Fehérhomokos Part",
+            "ro": "Plaja cu Nisip Alb Vest",
+            "en": "White sand beach West"
+          },
+          "coords": [
+            108.652693,
+            -7.706462
+          ],
+          "category": "recreational",
+          "arrive_at": "14:29",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag an diesem berühmten Strandabschnitt im Westen, wo Sie bei Ebbe hervorragend im klaren, warmen Wasser baden können.",
+            "hu": "Zárd a napot a híres nyugati strandszakaszon, ahol apálykor kiválóan lehet fürdeni a tiszta, kellemesen meleg tengervízben.",
+            "ro": "Încheie ziua pe această faimoasă plajă vestică, unde te poți bucura de o baie excelentă în apa clară și caldă în timpul refluxului.",
+            "en": "End your cycling day at this famous western beach stretch, which offers excellent conditions for bathing in clear, warm water during low tide."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre morgendliche Radtour führt Sie von der nördlichen Moschee direkt zu den energetischen östlichen Fischmärkten und den Küstenstränden.\nZur Mittagszeit radeln Sie am Ufer entlang und wechseln auf den makellosen weißen Sand des Oststrands für eine malerische Pause.\nAm Nachmittag erkunden Sie die unberührte Wildnis des Parks zu Fuß und entdecken einen versteckten Wasserfall im tiefen Dschungel.\nDer Abend bietet eine ruhige Fahrt zurück entlang des atemberaubenden westlichen Strandes, ideal für einen perfekten Sonnenuntergang.",
+        "hu": "A reggeli kerékpártúra az északi mecsettől egyenesen az energikus keleti halpiacokra és a nyüzsgő tengerpartra vezet téged.\nDélben a partvonal mentén tekerve eléred a keleti strand érintetlen fehér homokját egy festői és kellemes pihenőhöz.\nDélután felfedezed a park érintetlen vadonját, és egy eldugott dzsungel-vízesésre bukkansz a sűrű lombok alatt.\nAz este nyugodt visszautat kínál a lenyűgöző nyugati strand mentén, amely tökéletes helyszín a naplemente megcsodálására.",
+        "ro": "Plimbarea matinală cu bicicleta te duce de la moscheea din nord direct la piețele energice de pește din est și la plajele aglomerate.\nLa prânz, pedalând de-a lungul coastei, vei ajunge pe nisipurile albe imaculate din est pentru o pauză pitorească și relaxantă.\nDupă-amiaza, vei explora sălbăticia neatinsă a parcului și vei descoperi o cascadă ascunsă adânc în inima junglei dese.\nSeara oferă o plimbare liniștită înapoi de-a lungul plajei uimitoare de vest, fiind decorul ideal pentru un apus perfect.",
+        "en": "Morning pedals take you from the tranquil northern mosque straight to the energetic eastern fish markets and beautiful coastal shores.\nMidday riding skirts the rugged coastline, transitioning onto the pristine white sands of the east for a picturesque oceanfront break.\nIn the afternoon, you will explore the rugged wilderness of the nature reserve and discover a hidden jungle waterfall on foot.\nEvening provides a tranquil ride back along the stunning western beach, offering an idyllic setting for a perfect golden sunset."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:16",
+      "total_km": 11.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Masjid Agung Pangandaran",
+            "hu": "Pangandaran Főmecset (Masjid Agung)",
+            "ro": "Marea Moschee Pangandaran",
+            "en": "Masjid Agung Pangandaran"
+          },
+          "coords": [
+            108.652922,
+            -7.684817
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Größe der Hauptmoschee der Stadt, die für ihre elegante Architektur bekannt ist, und parken Sie bequem auf dem Vorplatz.",
+            "hu": "Csodáld meg a város főmecsetjének nagyságát, amely elegáns építészetéről ismert, és parkolj kényelmesen a tágas előtéren.",
+            "ro": "Admiră măreția moscheii principale a orașului, cunoscută pentru arhitectura sa elegantă, și parchează convenabil în curtea din față.",
+            "en": "Marvel at the sheer size of the city's grand mosque known for its elegant architecture, utilizing the convenient parking in the front courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquarium Indonesia Pangandaran",
+            "hu": "Pangandaran Indonéz Akvárium",
+            "ro": "Acvariul Indonezia Pangandaran",
+            "en": "Aquarium Indonesia Pangandaran"
+          },
+          "coords": [
+            108.67674,
+            -7.681288
+          ],
+          "category": "museum",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die farbenfrohe Unterwasserwelt des Archipels ein und buchen Sie Ihre Eintrittskarten vorab, um die Warteschlangen am Morgen zu umgehen.",
+            "hu": "Merülj el a szigetvilág színes víz alatti világában, és foglalj előre jegyet, hogy elkerüld a hosszú reggeli sorban állást.",
+            "ro": "Scufundă-te în lumea subacvatică colorată a arhipelagului și rezervă-ți biletele în avans pentru a evita cozile lungi de dimineață.",
+            "en": "Immerse yourself in the vibrant underwater world of the archipelago, and book your tickets in advance to skip the busy morning queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Pangandaran Beach",
+            "hu": "Pangandaran Főstrand",
+            "ro": "Plaja Pangandaran",
+            "en": "Pangandaran Beach"
+          },
+          "coords": [
+            108.642271,
+            -7.688661
+          ],
+          "category": "recreational",
+          "arrive_at": "11:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.9,
+          "tip_5lang": {
+            "de": "Erleben Sie die weite Küstenlinie dieses beliebten Strandes, perfekt für lange Spaziergänge, und parken Sie auf den offiziellen Stellplätzen.",
+            "hu": "Tapasztald meg ennek a népszerű strandnak a széles partvonalát, amely tökéletes a hosszú sétákhoz, és használd a hivatalos parkolókat.",
+            "ro": "Experimentează coasta largă a acestei plaje populare, perfectă pentru plimbări lungi, și folosește locurile de parcare oficiale.",
+            "en": "Experience the expansive coastline of this popular main beach, perfect for long strolls, and make sure to use the designated public parking areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Baiturrahman",
+            "hu": "Baiturrahman Mecset",
+            "ro": "Moscheea Baiturrahman",
+            "en": "Masjid Baiturrahman"
+          },
+          "coords": [
+            108.657593,
+            -7.70412
+          ],
+          "category": "religious",
+          "arrive_at": "13:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses spirituelle Herz im Zentrum der Halbinsel für eine kurze Pause und achten Sie auf angemessene Kleidung beim Eintreten.",
+            "hu": "Látogasd meg ezt a spirituális központot a félsziget szívében egy rövid pihenőre, és ügyelj a megfelelő öltözékre a belépéskor.",
+            "ro": "Vizitează această inimă spirituală din centrul peninsulei pentru o scurtă pauză și asigură-te că porți o ținută adecvată la intrare.",
+            "en": "Visit this spiritual heart in the center of the peninsula for a brief, peaceful respite, ensuring your attire is modest before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Pantai Timur Pangandaran",
+            "hu": "Pangandaran Keleti Part",
+            "ro": "Plaja de Est Pangandaran",
+            "en": "Pantai Timur Pangandaran"
+          },
+          "coords": [
+            108.658609,
+            -7.703145
+          ],
+          "category": "recreational",
+          "arrive_at": "13:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto stehen und schlendern Sie an den Fischmärkten vorbei, um die authentische maritime Kultur der lokalen Fischer zu erleben.",
+            "hu": "Hagyd hátra az autót, és sétálj el a halpiacok mellett, hogy megtapasztald a helyi halászok autentikus és élénk tengeri kultúráját.",
+            "ro": "Lasă mașina parcată și plimbă-te pe lângă piețele de pește pentru a experimenta cultura maritimă autentică a pescarilor locali.",
+            "en": "Leave the car parked and stroll past the lively fish markets to truly experience the authentic maritime culture of the local fishermen."
+          }
+        },
+        {
+          "name": {
+            "de": "Pananjung Pangandaran Nature Reserve",
+            "hu": "Pananjung Pangandaran Rezervátum",
+            "ro": "Rezervația Naturală Pananjung Pangandaran",
+            "en": "Pananjung Pangandaran Nature Reserve"
+          },
+          "coords": [
+            108.661588,
+            -7.716193
+          ],
+          "category": "park",
+          "arrive_at": "15:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Parkeingang, um die dichten Wälder zu erkunden, wo Sie Nasenaffen und seltene Vögel in den hohen Baumkronen entdecken können.",
+            "hu": "Hajts a park bejáratához a sűrű erdők felfedezéséhez, ahol makákókat és ritka madarakat pillanthatsz meg a magas lombkoronákban.",
+            "ro": "Condu la intrarea în parc pentru a explora pădurile dense, unde poți descoperi maimuțe și păsări rare în coronamentul înalt al copacilor.",
+            "en": "Drive down to the main park entrance to explore the dense forests, where you can spot diverse monkey species and rare birds in the high canopy."
+          }
+        },
+        {
+          "name": {
+            "de": "Air Terjun",
+            "hu": "Vízesés (Air Terjun)",
+            "ro": "Cascada Air Terjun",
+            "en": "Air Terjun"
+          },
+          "coords": [
+            108.659707,
+            -7.721905
+          ],
+          "category": "landmark",
+          "arrive_at": "16:21",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Wandern Sie vom Parkplatz des Naturreservats zu diesem abgelegenen Wasserfall und genießen Sie die absolute Ruhe des späten Nachmittags.",
+            "hu": "Túrázz a természetvédelmi terület parkolójából ehhez a félreeső vízeséshez, és élvezd a késő délutáni őserdő abszolút nyugalmát.",
+            "ro": "Fă o drumeție de la parcarea rezervației naturale până la această cascadă izolată și bucură-te de liniștea absolută a după-amiezii târzii.",
+            "en": "Hike from the nature reserve parking area to this secluded waterfall, taking the time to enjoy the absolute tranquility of the late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt mit einer Fahrt zur großen nördlichen Moschee, gefolgt von einem faszinierenden Tauchgang in die Meereswelt des Aquariums.\nZur Mittagszeit cruisen Sie zum weitläufigen Hauptstrand und kehren dann für einen kulturellen Stopp in das pulsierende Zentrum zurück.\nDas Nachmittagsfahren erkundet das östliche Ufer und die üppigen grünen Ränder des großen Halbinsel-Reservats.\nBeenden Sie den Tag entspannt, während Sie in der Nähe eines ruhigen Wasserfalls tief im geschützten Wald wandern.",
+        "hu": "A nap egy utazással kezdődik a nagy északi mecsethez, amelyet egy lenyűgöző látogatás követ az akvárium színes tengeri világában.\nDélben a kiterjedt főstrand felé autózol, majd visszatérsz a lüktető központba egy kis kulturális elmélyülésre és pihenésre.\nA délutáni vezetés a keleti partot és a hatalmas félszigeti rezervátum buja, zöldellő peremeit térképezi fel számodra.\nZárd a napot békésen, barangolva egy csendes és varázslatos vízesés közelében, mélyen a védett erdő szívében.",
+        "ro": "Ziua începe cu o plimbare cu mașina până la marea moschee din nord, urmată de o scufundare fascinantă în viața marină de la acvariu.\nLa prânz, vei naviga spre plaja principală extinsă și te vei întoarce în centrul vibrant pentru o pauză spirituală și culturală.\nPlimbarea de după-amiază explorează țărmul estic și marginile luxuriante ale marii rezervații naturale din peninsulă.\nÎncheie ziua plimbându-te în liniște lângă o cascadă senină, ascunsă adânc în interiorul pădurii tropicale protejate.",
+        "en": "The day begins with a pleasant drive to the grand northern mosque followed by a fascinating dive into the marine life at the local aquarium.\nMidday cruising takes you to the sprawling main beach and back into the vibrant center of town for a quick cultural visit.\nAfternoon driving explores the lively eastern shore and the lush, untouched edges of the great peninsula nature reserve.\nEnd the day peacefully by wandering near a serene and hidden waterfall deep within the protected, ancient forest."
+      }
+    }
+  }
+}

@@ -1,0 +1,428 @@
+{
+  "city_id": "saint-affrique",
+  "anchor": {
+    "name": "Saint-Affrique",
+    "coords": [
+      2.8864,
+      43.9583
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:02",
+      "total_km": 1.75,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Espace Marionnettes",
+            "hu": "Espace Marionnettes",
+            "ro": "Espace Marionnettes",
+            "en": "Espace Marionnettes"
+          },
+          "coords": [
+            2.882078,
+            43.956809
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie im Espace Marionnettes in die zauberhafte Welt der Puppen ein und versuchen Sie, eine Live-Vorführung zu besuchen, um diese einzigartige Kunstform zu erleben.",
+            "hu": "Lépjen be a bábok varázslatos világába az Espace Marionnettes múzeumban, és mindenképpen nézzen meg egy élő bemutatót, hogy teljes mértékben átélhesse ezt az egyedi művészetet.",
+            "ro": "Pășește în lumea magică a marionetelor la Espace Marionnettes și încearcă să prinzi o demonstrație live pentru a aprecia pe deplin această formă unică de artă locală.",
+            "en": "Step into the magical world of puppetry at Espace Marionnettes, and try to catch a live demonstration to fully appreciate this unique local art form."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame De La Miséricorde",
+            "hu": "Église Notre-Dame De La Miséricorde",
+            "ro": "Église Notre-Dame De La Miséricorde",
+            "en": "Église Notre-Dame De La Miséricorde"
+          },
+          "coords": [
+            2.885621,
+            43.957769
+          ],
+          "category": "religious",
+          "arrive_at": "10:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schönen Buntglasfenster und die ruhige Atmosphäre der Église Notre-Dame De La Miséricorde und nehmen Sie sich einen Moment Zeit, um sich abseits der belebten Straßen zu entspannen.",
+            "hu": "Csodálja meg az Église Notre-Dame De La Miséricorde gyönyörű ólomüveg ablakait és csendes atmoszféráját, egy pillanatra megpihenve a forgalmas utcák zajától.",
+            "ro": "Admiră vitraliile frumoase și atmosfera liniștită de la Église Notre-Dame De La Miséricorde, luându-ți un moment pentru a sta în liniște departe de străzile aglomerate.",
+            "en": "Admire the beautiful stained glass and quiet atmosphere of Église Notre-Dame De La Miséricorde, taking a moment to sit quietly away from the busy streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Affrique Church",
+            "hu": "Saint-Affrique Church",
+            "ro": "Saint-Affrique Church",
+            "en": "Saint-Affrique Church"
+          },
+          "coords": [
+            2.886664,
+            43.958003
+          ],
+          "category": "religious",
+          "arrive_at": "11:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die beeindruckende Architektur und die historischen Details der Saint-Affrique Church, aber denken Sie daran, sich angemessen zu kleiden, wenn Sie das Innere erkunden möchten.",
+            "hu": "Csodálja meg a Saint-Affrique Church lenyűgöző építészetét és történelmi részleteit, de ne felejtsen el szerényen öltözködni, ha szeretné felfedezni a belső kápolnákat.",
+            "ro": "Minunează-te de arhitectura impresionantă și detaliile istorice ale Bisericii Saint-Affrique, dar amintește-ți să te îmbraci decent dacă plănuiești să explorezi capelele interioare.",
+            "en": "Marvel at the impressive architecture and historic details of Saint-Affrique Church, but remember to dress modestly if you plan to explore the interior chapels."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle du couvent des Sœurs de l'Adoration-Perpétuelle",
+            "hu": "Chapelle du couvent des Sœurs de l'Adoration-Perpétuelle",
+            "ro": "Chapelle du couvent des Sœurs de l'Adoration-Perpétuelle",
+            "en": "Chapelle du couvent des Sœurs de l'Adoration-Perpétuelle"
+          },
+          "coords": [
+            2.889433,
+            43.95851
+          ],
+          "category": "religious",
+          "arrive_at": "12:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erleben Sie den tiefen spirituellen Frieden in der Chapelle du couvent des Sœurs und sprechen Sie leise, da dies ein aktiver Ort der ewigen Anbetung ist.",
+            "hu": "Tapasztalja meg a Chapelle du couvent des Sœurs mély spirituális békéjét, és beszéljen halkan, mivel ez az örökimádás aktív helyszíne maradt.",
+            "ro": "Experimentează pacea spirituală profundă din interiorul Chapelle du couvent des Sœurs, vorbind în șoaptă, deoarece rămâne un loc activ de adorație perpetuă.",
+            "en": "Experience the deep spiritual peace within the Chapelle du couvent des Sœurs, keeping your voice low as it remains an active place of perpetual adoration."
+          }
+        },
+        {
+          "name": {
+            "de": "Caylus Rock",
+            "hu": "Caylus Rock",
+            "ro": "Caylus Rock",
+            "en": "Caylus Rock"
+          },
+          "coords": [
+            2.896074,
+            43.96635
+          ],
+          "category": "natural",
+          "arrive_at": "13:17",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Steigen Sie zum Caylus Rock hinauf, um einen atemberaubenden Panoramablick auf das gesamte Tal zu genießen, und tragen Sie für die unebenen Pfade unbedingt festes Schuhwerk.",
+            "hu": "Másszon fel a Caylus Rock sziklához, ahonnan lélegzetelállító panoráma nyílik az egész völgyre, és mindenképpen viseljen masszív túracipőt az egyenetlen ösvényeken.",
+            "ro": "Urcă pe Stânca Caylus pentru vederi panoramice uluitoare asupra întregii văi, asigurându-te că porți încălțăminte solidă pentru traseele stâncoase și denivelate.",
+            "en": "Climb up to Caylus Rock for breathtaking panoramic views of the entire valley, ensuring you wear sturdy walking shoes for the uneven, rocky trails leading to the top."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt bei den faszinierenden Puppen des Espace Marionnettes, bevor Sie zur wunderschönen Église Notre-Dame De La Miséricorde spazieren. Mittags bewundern Sie die architektonische Pracht der Saint-Affrique Church. Am Nachmittag entdecken Sie die friedliche Chapelle du couvent des Sœurs. Der Tag endet mit einer lohnenden Wanderung auf den Caylus Rock zum Sonnenuntergang.",
+        "hu": "A reggel az Espace Marionnettes lenyűgöző bábjai között indul, majd a gyönyörű Église Notre-Dame De La Miséricorde felé sétálunk. Délben a Saint-Affrique Church építészeti pompáját csodálhatja meg. Délután fedezze fel a békés Chapelle du couvent des Sœurs kápolnát. A nap a Caylus Rock sziklához vezető jutalmazó túrával és naplementével zárul.",
+        "ro": "Dimineața începe printre marionetele fascinante de la Espace Marionnettes, înainte de o plimbare spre frumoasa Église Notre-Dame De La Miséricorde. La prânz vei admira Biserica Saint-Affrique și splendoarea sa arhitecturală. După-amiaza, descoperă liniștita Chapelle du couvent des Sœurs. Ziua se încheie cu o drumeție memorabilă pe Stânca Caylus la apus.",
+        "en": "Morning begins among the fascinating puppets of Espace Marionnettes before a peaceful stroll to the beautiful Église Notre-Dame De La Miséricorde. Midday brings you to the imposing Saint-Affrique Church to admire its architectural splendor. In the afternoon, discover the serene Chapelle du couvent des Sœurs de l'Adoration-Perpétuelle. The day concludes with a rewarding hike up Caylus Rock for sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:19",
+      "total_km": 4.05,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Espace Marionnettes",
+            "hu": "Espace Marionnettes",
+            "ro": "Espace Marionnettes",
+            "en": "Espace Marionnettes"
+          },
+          "coords": [
+            2.882078,
+            43.956809
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie im Espace Marionnettes in die zauberhafte Welt der Puppen ein und versuchen Sie, eine Live-Vorführung zu besuchen, um diese einzigartige Kunstform zu erleben.",
+            "hu": "Lépjen be a bábok varázslatos világába az Espace Marionnettes múzeumban, és mindenképpen nézzen meg egy élő bemutatót, hogy teljes mértékben átélhesse ezt az egyedi művészetet.",
+            "ro": "Pășește în lumea magică a marionetelor la Espace Marionnettes și încearcă să prinzi o demonstrație live pentru a aprecia pe deplin această formă unică de artă locală.",
+            "en": "Step into the magical world of puppetry at Espace Marionnettes, and try to catch a live demonstration to fully appreciate this unique local art form."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Affrique Church",
+            "hu": "Saint-Affrique Church",
+            "ro": "Saint-Affrique Church",
+            "en": "Saint-Affrique Church"
+          },
+          "coords": [
+            2.886664,
+            43.958003
+          ],
+          "category": "religious",
+          "arrive_at": "10:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die beeindruckende Architektur und die historischen Details der Saint-Affrique Church, aber denken Sie daran, sich angemessen zu kleiden, wenn Sie das Innere erkunden möchten.",
+            "hu": "Csodálja meg a Saint-Affrique Church lenyűgöző építészetét és történelmi részleteit, de ne felejtsen el szerényen öltözködni, ha szeretné felfedezni a belső kápolnákat.",
+            "ro": "Minunează-te de arhitectura impresionantă și detaliile istorice ale Bisericii Saint-Affrique, dar amintește-ți să te îmbraci decent dacă plănuiești să explorezi capelele interioare.",
+            "en": "Marvel at the impressive architecture and historic details of Saint-Affrique Church, but remember to dress modestly if you plan to explore the interior chapels."
+          }
+        },
+        {
+          "name": {
+            "de": "Caylus Rock",
+            "hu": "Caylus Rock",
+            "ro": "Caylus Rock",
+            "en": "Caylus Rock"
+          },
+          "coords": [
+            2.896074,
+            43.96635
+          ],
+          "category": "natural",
+          "arrive_at": "11:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Steigen Sie zum Caylus Rock hinauf, um einen atemberaubenden Panoramablick auf das gesamte Tal zu genießen, und tragen Sie für die unebenen Pfade unbedingt festes Schuhwerk.",
+            "hu": "Másszon fel a Caylus Rock sziklához, ahonnan lélegzetelállító panoráma nyílik az egész völgyre, és mindenképpen viseljen masszív túracipőt az egyenetlen ösvényeken.",
+            "ro": "Urcă pe Stânca Caylus pentru vederi panoramice uluitoare asupra întregii văi, asigurându-te că porți încălțăminte solidă pentru traseele stâncoase și denivelate.",
+            "en": "Climb up to Caylus Rock for breathtaking panoramic views of the entire valley, ensuring you wear sturdy walking shoes for the uneven, rocky trails leading to the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen de Galtery (B)",
+            "hu": "Dolmen de Galtery (B)",
+            "ro": "Dolmen de Galtery (B)",
+            "en": "Dolmen de Galtery (B)"
+          },
+          "coords": [
+            2.904772,
+            43.952174
+          ],
+          "category": "historical",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie am gut erhaltenen Dolmen de Galtery in die Vorgeschichte ein und bringen Sie eine Kamera sowie einen Reiseführer mit, da die Informationstafeln vor Ort begrenzt sind.",
+            "hu": "Lépjen vissza az őskorba a jól karbantartott Dolmen de Galtery meglátogatásával, és hozzon magával fényképezőgépet, mivel a helyszíni információs táblák száma korlátozott.",
+            "ro": "Întoarce-te în preistorie vizitând bine conservatul Dolmen de Galtery, aducând un aparat foto și un ghid bun, deoarece panourile informative de la fața locului sunt limitate.",
+            "en": "Step back into prehistory by visiting the well-preserved Dolmen de Galtery, bringing along a camera and a good guidebook since on-site information panels are limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Vincent",
+            "hu": "Chapelle Saint-Vincent",
+            "ro": "Chapelle Saint-Vincent",
+            "en": "Chapelle Saint-Vincent"
+          },
+          "coords": [
+            2.905026,
+            43.946856
+          ],
+          "category": "historical",
+          "arrive_at": "14:29",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die alten Steine und die ruhige Abgeschiedenheit der Chapelle Saint-Vincent und packen Sie ein kleines Picknick ein, um die ländliche Umgebung nach Ihrem Besuch zu genießen.",
+            "hu": "Fedezze fel a Chapelle Saint-Vincent ősi köveit és békés elszigeteltségét, és csomagoljon be egy kis pikniket, hogy a látogatás után élvezhesse a nyugodt vidéki környezetet.",
+            "ro": "Descoperă pietrele antice și izolarea senină a Capelei Saint-Vincent, luând cu tine un mic picnic pentru a te bucura de împrejurimile rurale liniștite după vizită.",
+            "en": "Discover the ancient stones and serene isolation of Chapelle Saint-Vincent, packing a small picnic to enjoy the tranquil countryside surroundings after your visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour mit einem Besuch im Espace Marionnettes im Herzen der Stadt. Mittags radeln Sie zur historischen Saint-Affrique Church, um ihr Inneres zu bewundern. Am Nachmittag fahren Sie in die Natur, um die Pfade am Caylus Rock zu erobern und den alten Dolmen de Galtery zu erkunden. Der Abend bricht an der abgelegenen Chapelle Saint-Vincent herein.",
+        "hu": "Kezdje a kerékpártúrát az Espace Marionnettes bábjainak felfedezésével a város szívében. Délben a történelmi Saint-Affrique Church felé tekerünk, hogy megcsodáljuk belső terét. Délután a természetbe kerékpározunk, felfedezzük a Caylus Rock környékét és a Galtery dolment. Az este a Chapelle Saint-Vincent elzárt békéjében köszönt ránk.",
+        "ro": "Începe turul pe bicicletă cu o vizită la Espace Marionnettes în inima orașului. La prânz, o scurtă plimbare te duce la istorica Biserică Saint-Affrique pentru a-i admira interiorul. După-amiaza, pedalează spre natură pentru a cuceri traseele din jurul Stâncii Caylus și a explora Dolmenul de Galtery. Seara se lasă grațios la izolată Capelă Saint-Vincent.",
+        "en": "Kick off your cycling tour with a delightful visit to the Espace Marionnettes in the heart of town. Midday features a quick ride to the historic Saint-Affrique Church to appreciate its grand interior. In the afternoon, cycle out towards nature to conquer the trails around Caylus Rock and explore the ancient Dolmen de Galtery. Evening falls gracefully at the secluded Chapelle Saint-Vincent."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:33",
+      "total_km": 6.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Caylus Rock",
+            "hu": "Caylus Rock",
+            "ro": "Caylus Rock",
+            "en": "Caylus Rock"
+          },
+          "coords": [
+            2.896074,
+            43.96635
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Steigen Sie zum Caylus Rock hinauf, um einen atemberaubenden Panoramablick auf das gesamte Tal zu genießen, und tragen Sie für die unebenen Pfade unbedingt festes Schuhwerk.",
+            "hu": "Másszon fel a Caylus Rock sziklához, ahonnan lélegzetelállító panoráma nyílik az egész völgyre, és mindenképpen viseljen masszív túracipőt az egyenetlen ösvényeken.",
+            "ro": "Urcă pe Stânca Caylus pentru vederi panoramice uluitoare asupra întregii văi, asigurându-te că porți încălțăminte solidă pentru traseele stâncoase și denivelate.",
+            "en": "Climb up to Caylus Rock for breathtaking panoramic views of the entire valley, ensuring you wear sturdy walking shoes for the uneven, rocky trails leading to the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Affrique Church",
+            "hu": "Saint-Affrique Church",
+            "ro": "Saint-Affrique Church",
+            "en": "Saint-Affrique Church"
+          },
+          "coords": [
+            2.886664,
+            43.958003
+          ],
+          "category": "religious",
+          "arrive_at": "10:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die beeindruckende Architektur und die historischen Details der Saint-Affrique Church, aber denken Sie daran, sich angemessen zu kleiden, wenn Sie das Innere erkunden möchten.",
+            "hu": "Csodálja meg a Saint-Affrique Church lenyűgöző építészetét és történelmi részleteit, de ne felejtsen el szerényen öltözködni, ha szeretné felfedezni a belső kápolnákat.",
+            "ro": "Minunează-te de arhitectura impresionantă și detaliile istorice ale Bisericii Saint-Affrique, dar amintește-ți să te îmbraci decent dacă plănuiești să explorezi capelele interioare.",
+            "en": "Marvel at the impressive architecture and historic details of Saint-Affrique Church, but remember to dress modestly if you plan to explore the interior chapels."
+          }
+        },
+        {
+          "name": {
+            "de": "Espace Marionnettes",
+            "hu": "Espace Marionnettes",
+            "ro": "Espace Marionnettes",
+            "en": "Espace Marionnettes"
+          },
+          "coords": [
+            2.882078,
+            43.956809
+          ],
+          "category": "museum",
+          "arrive_at": "11:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie im Espace Marionnettes in die zauberhafte Welt der Puppen ein und versuchen Sie, eine Live-Vorführung zu besuchen, um diese einzigartige Kunstform zu erleben.",
+            "hu": "Lépjen be a bábok varázslatos világába az Espace Marionnettes múzeumban, és mindenképpen nézzen meg egy élő bemutatót, hogy teljes mértékben átélhesse ezt az egyedi művészetet.",
+            "ro": "Pășește în lumea magică a marionetelor la Espace Marionnettes și încearcă să prinzi o demonstrație live pentru a aprecia pe deplin această formă unică de artă locală.",
+            "en": "Step into the magical world of puppetry at Espace Marionnettes, and try to catch a live demonstration to fully appreciate this unique local art form."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen de Galtery (B)",
+            "hu": "Dolmen de Galtery (B)",
+            "ro": "Dolmen de Galtery (B)",
+            "en": "Dolmen de Galtery (B)"
+          },
+          "coords": [
+            2.904772,
+            43.952174
+          ],
+          "category": "historical",
+          "arrive_at": "12:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie am gut erhaltenen Dolmen de Galtery in die Vorgeschichte ein und bringen Sie eine Kamera sowie einen Reiseführer mit, da die Informationstafeln vor Ort begrenzt sind.",
+            "hu": "Lépjen vissza az őskorba a jól karbantartott Dolmen de Galtery meglátogatásával, és hozzon magával fényképezőgépet, mivel a helyszíni információs táblák száma korlátozott.",
+            "ro": "Întoarce-te în preistorie vizitând bine conservatul Dolmen de Galtery, aducând un aparat foto și un ghid bun, deoarece panourile informative de la fața locului sunt limitate.",
+            "en": "Step back into prehistory by visiting the well-preserved Dolmen de Galtery, bringing along a camera and a good guidebook since on-site information panels are limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Vincent",
+            "hu": "Chapelle Saint-Vincent",
+            "ro": "Chapelle Saint-Vincent",
+            "en": "Chapelle Saint-Vincent"
+          },
+          "coords": [
+            2.905026,
+            43.946856
+          ],
+          "category": "historical",
+          "arrive_at": "14:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die alten Steine und die ruhige Abgeschiedenheit der Chapelle Saint-Vincent und packen Sie ein kleines Picknick ein, um die ländliche Umgebung nach Ihrem Besuch zu genießen.",
+            "hu": "Fedezze fel a Chapelle Saint-Vincent ősi köveit és békés elszigeteltségét, és csomagoljon be egy kis pikniket, hogy a látogatás után élvezhesse a nyugodt vidéki környezetet.",
+            "ro": "Descoperă pietrele antice și izolarea senină a Capelei Saint-Vincent, luând cu tine un mic picnic pentru a te bucura de împrejurimile rurale liniștite după vizită.",
+            "en": "Discover the ancient stones and serene isolation of Chapelle Saint-Vincent, packing a small picnic to enjoy the tranquil countryside surroundings after your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Vailhauzy",
+            "hu": "Château de Vailhauzy",
+            "ro": "Château de Vailhauzy",
+            "en": "Château de Vailhauzy"
+          },
+          "coords": [
+            2.920216,
+            43.950295
+          ],
+          "category": "castle",
+          "arrive_at": "15:43",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie das imposante Gelände des Château de Vailhauzy, um die feudale Geschichte der Region zu verstehen, aber prüfen Sie vorab die Besuchszeiten, da der private Zugang eingeschränkt sein kann.",
+            "hu": "Fedezze fel a Château de Vailhauzy impozáns birtokát, hogy megismerje a régió feudális történelmét, de előre ellenőrizze a nyitvatartást, mivel a magánterületre való bejutás korlátozott lehet.",
+            "ro": "Explorează domeniul impunător al Château de Vailhauzy pentru a înțelege istoria feudală a regiunii, dar verifică din timp orele de vizitare, deoarece accesul privat poate fi restricționat.",
+            "en": "Explore the imposing grounds of Château de Vailhauzy to grasp the region's feudal history, but check visiting hours in advance as private access may be restricted."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit einer Morgenwanderung am Caylus Rock, um früh den atemberaubenden Talblick zu genießen. Mittags geht es ins Zentrum zur großen Saint-Affrique Church und zum originellen Espace Marionnettes. Am Nachmittag fahren Sie zum mystischen Dolmen de Galtery und zur alten Chapelle Saint-Vincent. Beenden Sie den Tag auf dem imposanten Gelände des Château de Vailhauzy.",
+        "hu": "Kezdje a napot a Caylus Rock felfedezésével, hogy korán élvezhesse a lenyűgöző völgyi kilátást. Délben a városközpontba autózunk, ahol a Saint-Affrique Church és az Espace Marionnettes vár. Délután fedezze fel a misztikus Galtery dolment és a Chapelle Saint-Vincent ősi falait. A napot a Château de Vailhauzy impozáns birtokának bejárásával zárjuk.",
+        "ro": "Începe cu o plimbare matinală la Stânca Caylus pentru a admira priveliștea uluitoare a văii. La prânz, mergi în centrul orașului pentru a vizita Biserica Saint-Affrique și ineditul Espace Marionnettes. După-amiaza, condu spre misticul Dolmen de Galtery și vechea Capelă Saint-Vincent. Încheie ziua explorând domeniul impunător al Château de Vailhauzy.",
+        "en": "Start with an energetic morning walk at Caylus Rock to take in the breathtaking valley views early. Midday shifts to the city center, admiring the grand Saint-Affrique Church and diving into the quirky Espace Marionnettes. In the afternoon, drive out to the mystical Dolmen de Galtery and the ancient Chapelle Saint-Vincent. Conclude the day exploring the imposing grounds of Château de Vailhauzy."
+      }
+    }
+  }
+}

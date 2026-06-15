@@ -1,0 +1,405 @@
+{
+  "city_id": "cy-ayianapa",
+  "anchor": {
+    "name": "Ayia Napa",
+    "coords": [
+      34,
+      34.9833
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:14",
+      "total_km": 1.85,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Country House Museum",
+            "hu": "Country House Museum",
+            "ro": "Country House Museum",
+            "en": "Country House Museum"
+          },
+          "coords": [
+            33.99971,
+            34.988771
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit einem Einblick in das traditionelle zypriotische Landleben und achten Sie auf die authentischen Werkzeuge, die hier ausgestellt sind.",
+            "hu": "Kezdje a napot a hagyományos ciprusi vidéki élet megismerésével, és figyelje meg a kiállított autentikus mezőgazdasági eszközöket.",
+            "ro": "Începeți ziua cu o privire asupra vieții rurale tradiționale cipriote și acordați atenție uneltelor agricole autentice expuse aici.",
+            "en": "Start your day with a glimpse into traditional Cypriot rural life and pay attention to the authentic agricultural tools on display here."
+          }
+        },
+        {
+          "name": {
+            "de": "Agia Napa Aquädukt",
+            "hu": "Agia Napa Vízvezeték",
+            "ro": "Apeductul Agia Napa",
+            "en": "The Agia Napa Aqueduct"
+          },
+          "coords": [
+            34.00458,
+            34.989086
+          ],
+          "category": "landmark",
+          "arrive_at": "10:57",
+          "stay_min": 15,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Bewundern Sie die antike römische Ingenieurskunst dieses beeindruckenden, teilweise restaurierten Aquädukts bei einem kurzen Spaziergang entlang der Bögen.",
+            "hu": "Csodálja meg ennek a lenyűgöző, részben felújított vízvezetéknek az ókori római mérnöki munkáját egy rövid séta során a boltívek mentén.",
+            "ro": "Admirați ingineria romană antică a acestui apeduct impresionant, parțial restaurat, la o scurtă plimbare de-a lungul arcadelor.",
+            "en": "Marvel at the ancient Roman engineering of this impressive, partially restored aqueduct with a short walk along its arches."
+          }
+        },
+        {
+          "name": {
+            "de": "Thalassa Municipal Museum",
+            "hu": "Thalassa Városi Múzeum",
+            "ro": "Muzeul Municipal Thalassa",
+            "en": "Thalassa Municipal Museum"
+          },
+          "coords": [
+            34.002224,
+            34.987567
+          ],
+          "category": "museum",
+          "arrive_at": "11:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die maritime Geschichte Zyperns ein und verpassen Sie nicht das faszinierende, lebensgroße Replikat des antiken Schiffswracks von Kyrenia.",
+            "hu": "Merüljön el Ciprus tengeri történelmében, és ne hagyja ki a kyreniai ókori hajóroncs lenyűgöző, életnagyságú másolatát.",
+            "ro": "Scufundați-vă în istoria maritimă a Ciprului și nu ratați fascinanta replică în mărime naturală a epavei antice de la Kyrenia.",
+            "en": "Dive into the maritime history of Cyprus and do not miss the fascinating, life-size replica of the ancient Kyrenia shipwreck."
+          }
+        },
+        {
+          "name": {
+            "de": "Parko Paliatso Luna Park",
+            "hu": "Parko Paliatso Vidámpark",
+            "ro": "Parcul de distracții Parko Paliatso",
+            "en": "Parko Paliatso Luna Park"
+          },
+          "coords": [
+            33.997636,
+            34.985585
+          ],
+          "category": "family",
+          "arrive_at": "13:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Nervenkitzel auf den Fahrgeschäften oder machen Sie eine Fahrt mit dem Riesenrad, um einen großartigen Blick über ganz Ayia Napa zu werfen.",
+            "hu": "Élvezze a vidámparki játékok izgalmát, vagy üljön fel az óriáskerékre, ahonnan remek kilátás nyílik egész Ayia Napára.",
+            "ro": "Bucurați-vă de emoția atracțiilor sau faceți o plimbare cu roata panoramică pentru a avea o vedere excelentă asupra întregii Ayia Napa.",
+            "en": "Enjoy the thrill of the amusement rides or take a trip on the Ferris wheel to get a great view over all of Ayia Napa."
+          }
+        },
+        {
+          "name": {
+            "de": "Black Pearl",
+            "hu": "Black Pearl",
+            "ro": "Black Pearl",
+            "en": "Black Pearl"
+          },
+          "coords": [
+            34.002497,
+            34.98132
+          ],
+          "category": "landmark",
+          "arrive_at": "14:29",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour am Hafen mit einem Blick auf dieses berühmte Piratenschiff, das tolle Fotomotive im goldenen Nachmittagslicht bietet.",
+            "hu": "Fejezze be túráját a kikötőben ennek a híres kalózhajónak a megtekintésével, amely nagyszerű fotótémákat kínál az aranyló délutáni fényben.",
+            "ro": "Încheiați-vă turul în port cu o privire la această faimoasă navă de pirați, care oferă oportunități foto excelente în lumina aurie a după-amiezii.",
+            "en": "End your tour at the harbor by checking out this famous pirate ship, which offers great photo opportunities in the golden afternoon light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen in Ayia Napa beginnt entspannt mit der Erkundung des ländlichen Erbes im Country House Museum, gefolgt von einem Spaziergang zum antiken Aquädukt. Mittags tauchen wir im Thalassa Museum in die reiche, maritime Geschichte Zyperns ein. Der Nachmittag bietet im Parko Paliatso Spaß für die ganze Familie, bevor wir den Tag am malerischen Hafen bei der beeindruckenden Black Pearl ausklingen lassen.",
+        "hu": "A reggel Ayia Napában nyugodtan indul a vidéki örökség felfedezésével a Country House Múzeumban, majd az ókori vízvezetékhez sétálunk. Délben a Thalassa Múzeumban merülünk el Ciprus gazdag tengeri történelmében. A délután a Parko Paliatsóban kínál szórakozást az egész családnak, mielőtt a napot a festői kikötőben, a lenyűgöző Black Pearl hajónál zárnánk.",
+        "ro": "Dimineața în Ayia Napa începe relaxant cu explorarea moștenirii rurale la Country House Museum, urmată de o plimbare spre apeductul antic. La prânz, ne scufundăm în istoria maritimă bogată a Ciprului la Muzeul Thalassa. După-amiaza oferă distracție pentru toată familia în Parko Paliatso, înainte de a încheia ziua în portul pitoresc, lângă impresionanta Black Pearl.",
+        "en": "The morning in Ayia Napa starts relaxingly by exploring the rural heritage at the Country House Museum, followed by a stroll to the ancient aqueduct. At noon, we dive into the rich maritime history of Cyprus at the Thalassa Museum. The afternoon offers fun for the whole family at Parko Paliatso, before we end the day at the picturesque harbor by the impressive Black Pearl."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:29",
+      "total_km": 7.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Thalassa Municipal Museum",
+            "hu": "Thalassa Városi Múzeum",
+            "ro": "Muzeul Municipal Thalassa",
+            "en": "Thalassa Municipal Museum"
+          },
+          "coords": [
+            34.002224,
+            34.987567
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Nutzen Sie den kühlen Morgen, um die Meeresfossilien und Schiffsrepliken zu erkunden, bevor Sie Ihre Radtour antreten.",
+            "hu": "Használja ki a hűvös reggelt a tengeri kövületek és hajómásolatok felfedezésére, mielőtt elkezdené kerékpártúráját.",
+            "ro": "Profitați de dimineața răcoroasă pentru a explora fosilele marine și replicile navelor înainte de a începe turul cu bicicleta.",
+            "en": "Take advantage of the cool morning to explore the marine fossils and ship replicas before starting your bike ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Ayia Napa International sculpture symposium",
+            "hu": "Ayia Napa Nemzetközi Szobrászati Szimpózium",
+            "ro": "Simpozionul Internațional de Sculptură Ayia Napa",
+            "en": "Ayia Napa International sculpture symposium"
+          },
+          "coords": [
+            34.016998,
+            34.985682
+          ],
+          "category": "museum",
+          "arrive_at": "10:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Radeln Sie durch diesen faszinierenden Open-Air-Park, um zeitgenössische Skulpturen vor der Kulisse des glitzernden Mittelmeers zu bewundern.",
+            "hu": "Kerekezzen át ezen a lenyűgöző szabadtéri parkon, és csodálja meg a kortárs szobrokat a csillogó Földközi-tenger hátterében.",
+            "ro": "Pedalați prin acest parc în aer liber fascinant pentru a admira sculpturi contemporane pe fundalul Mării Mediterane strălucitoare.",
+            "en": "Cycle through this fascinating open-air park to admire contemporary sculptures set against the backdrop of the sparkling Mediterranean Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Brücke der griechisch-polnischen Freundschaft",
+            "hu": "A görög-lengyel barátság hídja",
+            "ro": "Podul prieteniei greco-poloneze",
+            "en": "Bridge of Greek & Polish Friendship"
+          },
+          "coords": [
+            34.018679,
+            34.98112
+          ],
+          "category": "landmark",
+          "arrive_at": "12:40",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Halt an diesem Denkmal, um das symbolische Bauwerk und die hervorragende Aussicht auf die felsige Küste zu genießen.",
+            "hu": "Tegyen egy rövid megállót ennél az emlékműnél, hogy élvezze a szimbolikus építményt és a sziklás tengerpartra nyíló kiváló kilátást.",
+            "ro": "Faceți o scurtă oprire la acest monument pentru a vă bucura de structura simbolică și de vederea excelentă a coastei stâncoase.",
+            "en": "Make a quick stop at this monument to appreciate the symbolic structure and the excellent view of the rocky coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Glyky Nero",
+            "hu": "Glyky Nero",
+            "ro": "Glyky Nero",
+            "en": "Glyky Nero"
+          },
+          "coords": [
+            34.00844,
+            34.984219
+          ],
+          "category": "recreational",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem wunderschönen Sandstrand, der ideal ist, um sich im klaren Wasser abzukühlen und eine Mittagspause einzulegen.",
+            "hu": "Pihenjen ezen a gyönyörű homokos strandon, amely ideális a tiszta vízben való hűsölésre és egy ebédszünetre.",
+            "ro": "Relaxați-vă pe această plajă frumoasă de nisip, care este ideală pentru a vă răcori în apa curată și pentru a lua o pauză de prânz.",
+            "en": "Relax on this beautiful sandy beach, which is ideal for cooling off in the clear water and taking a lunch break."
+          }
+        },
+        {
+          "name": {
+            "de": "Nissi beach",
+            "hu": "Nissi Beach",
+            "ro": "Plaja Nissi",
+            "en": "Nissi beach"
+          },
+          "coords": [
+            33.96899,
+            34.98749
+          ],
+          "category": "recreational",
+          "arrive_at": "14:39",
+          "stay_min": 110,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour an Ayia Napas berühmtestem Strand und laufen Sie bei Ebbe zur kleinen vorgelagerten Insel hinüber.",
+            "hu": "Fejezze be kerékpártúráját Ayia Napa leghíresebb strandján, és apály idején sétáljon át a kis part menti szigetre.",
+            "ro": "Încheiați-vă turul cu bicicleta pe cea mai faimoasă plajă din Ayia Napa și mergeți pe jos până la mica insulă de lângă țărm la reflux.",
+            "en": "Finish your bike ride at Ayia Napa's most famous beach and walk over to the small offshore island during low tide."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir starten sportlich am Thalassa Museum, wo wir die maritime Historie studieren. Anschließend radeln wir zum Skulpturenpark, einem Open-Air-Museum direkt an der Küste. Ein kurzer Fotostopp an der Freundschaftsbrücke führt uns weiter zu den goldenen Sandstränden. Nach einer Erholungspause am Glyky Nero Strand beenden wir die Tour schwimmend und sonnenbadend am lebhaften Nissi Beach.",
+        "hu": "Sportosan indulunk a Thalassa Múzeumtól, ahol a tengeri történelmet tanulmányozzuk. Ezt követően a szoborparkba tekerünk, amely egy szabadtéri múzeum közvetlenül a tengerparton. Egy rövid fotómegálló a barátság hídjánál az aranyhomokos strandok felé vezet minket. A Glyky Nero strandon tartott pihenő után a túrát a nyüzsgő Nissi Beach-en fejezzük be.",
+        "ro": "Începem sportiv la Muzeul Thalassa, unde studiem istoria maritimă. Apoi pedalăm către parcul de sculpturi, un muzeu în aer liber chiar pe coastă. O scurtă oprire foto la podul prieteniei ne duce mai departe spre plajele cu nisip auriu. După o pauză de relaxare pe plaja Glyky Nero, terminăm turul cu înot și plajă pe plaja plină de viață Nissi.",
+        "en": "We start sportily at the Thalassa Museum, where we study the maritime history. We then cycle to the sculpture park, an open-air museum right on the coast. A short photo stop at the friendship bridge leads us on to the golden sandy beaches. After a relaxing break at Glyky Nero Beach, we end the tour swimming and sunbathing at the lively Nissi Beach."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:20",
+      "total_km": 8.75,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Agia Napa Aquädukt",
+            "hu": "Agia Napa Vízvezeték",
+            "ro": "Apeductul Agia Napa",
+            "en": "The Agia Napa Aqueduct"
+          },
+          "coords": [
+            34.00458,
+            34.989086
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe dieses historischen Wahrzeichens, um die Ruinen zu Beginn Ihres Tages bequem und ohne Menschenmassen zu erkunden.",
+            "hu": "Parkoljon le ennek a történelmi nevezetességnek a közelében, hogy a nap kezdetén kényelmesen és tömeg nélkül fedezze fel a romokat.",
+            "ro": "Parcați în apropierea acestui punct de reper istoric pentru a explora ruinele la începutul zilei, confortabil și fără aglomerație.",
+            "en": "Park near this historic landmark to explore the ruins comfortably and without crowds at the very beginning of your day."
+          }
+        },
+        {
+          "name": {
+            "de": "Ayia Napa International sculpture symposium",
+            "hu": "Ayia Napa Nemzetközi Szobrászati Szimpózium",
+            "ro": "Simpozionul Internațional de Sculptură Ayia Napa",
+            "en": "Ayia Napa International sculpture symposium"
+          },
+          "coords": [
+            34.016998,
+            34.985682
+          ],
+          "category": "museum",
+          "arrive_at": "09:28",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.45,
+          "tip_5lang": {
+            "de": "Fahren Sie zum großzügigen Parkplatz des Skulpturenparks und nehmen Sie sich Zeit für die beeindruckende Kunst vor dem tiefblauen Ozean.",
+            "hu": "Hajtson a szoborpark tágas parkolójába, és szánjon időt a lenyűgöző művészeti alkotásokra a mélykék óceán előtt.",
+            "ro": "Conduceți până la parcarea spațioasă a parcului de sculpturi și acordați-vă timp pentru arta impresionantă din fața oceanului albastru intens.",
+            "en": "Drive to the spacious parking lot of the sculpture park and take your time viewing the impressive art in front of the deep blue ocean."
+          }
+        },
+        {
+          "name": {
+            "de": "Brücke der griechisch-polnischen Freundschaft",
+            "hu": "A görög-lengyel barátság hídja",
+            "ro": "Podul prieteniei greco-poloneze",
+            "en": "Bridge of Greek & Polish Friendship"
+          },
+          "coords": [
+            34.018679,
+            34.98112
+          ],
+          "category": "landmark",
+          "arrive_at": "11:09",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Nutzen Sie das Auto für diesen kurzen Abstecher an die raue Küstenlinie und genießen Sie die Panoramaaussicht auf das nahe Kap Greco.",
+            "hu": "Használja az autót ehhez a rövid kitérőhöz a zord partvonalhoz, és élvezze a panorámát a közeli Greco-fokra.",
+            "ro": "Folosiți mașina pentru acest scurt ocol către linia de coastă accidentată și bucurați-vă de vederea panoramică spre Capul Greco din apropiere.",
+            "en": "Use the car for this short detour to the rugged coastline and enjoy the panoramic view towards the nearby Cape Greco."
+          }
+        },
+        {
+          "name": {
+            "de": "Pernera",
+            "hu": "Pernera",
+            "ro": "Pernera",
+            "en": "Pernera"
+          },
+          "coords": [
+            33.983378,
+            34.984934
+          ],
+          "category": "recreational",
+          "arrive_at": "11:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.7,
+          "tip_5lang": {
+            "de": "Steuern Sie diesen ruhigeren Strandabschnitt an, der sich perfekt für ein entspanntes Bad abseits des großen Trubels eignet.",
+            "hu": "Vezessen ehhez a csendesebb strandszakaszhoz, amely tökéletes egy nyugodt fürdőzéshez távol a nagy nyüzsgéstől.",
+            "ro": "Îndreptați-vă spre această secțiune de plajă mai liniștită, perfectă pentru o baie relaxantă departe de agitația mare.",
+            "en": "Head towards this quieter stretch of beach, which is perfect for a relaxing swim away from the big hustle and bustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Nissi beach",
+            "hu": "Nissi Beach",
+            "ro": "Plaja Nissi",
+            "en": "Nissi beach"
+          },
+          "coords": [
+            33.96899,
+            34.98749
+          ],
+          "category": "recreational",
+          "arrive_at": "12:53",
+          "stay_min": 147,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag bequem hier, nutzen Sie die großen Parkplätze am Strand und tauchen Sie in das lebhafte Ambiente von Ayia Napa ein.",
+            "hu": "Fejezze be a napot kényelmesen itt, használja a nagy strandparkolókat, és merüljön el Ayia Napa nyüzsgő légkörében.",
+            "ro": "Încheiați-vă ziua confortabil aici, folosiți parcările mari de pe plajă și cufundați-vă în atmosfera plină de viață din Ayia Napa.",
+            "en": "End the day comfortably here, make use of the large beach parking lots, and immerse yourself in the lively ambiance of Ayia Napa."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Autotour ermöglicht uns, entspannt die weiter entfernten Sehenswürdigkeiten abzufahren. Wir beginnen am historischen Aquädukt und gleiten dann hinaus zum eindrucksvollen Skulpturenpark direkt am Meer. Nach einem Fotostopp an der Freundschaftsbrücke fahren wir quer durch den Ort zum Strand von Pernera. Den krönenden Abschluss bildet der berühmte Nissi Beach, an dem der späte Nachmittag genossen wird.",
+        "hu": "Az autós túra lehetővé teszi, hogy kényelmesen megközelítsük a távolabbi látnivalókat. A történelmi vízvezetéknél kezdünk, majd a tengerparti, lenyűgöző szoborpark felé siklunk. A barátság hídjánál tartott fotómegálló után átutazunk a városon a Pernera strandig. A megkoronázás a híres Nissi Beach, ahol a késő délutánt élvezzük.",
+        "ro": "Turul cu mașina ne permite să ajungem confortabil la atracțiile mai îndepărtate. Începem la apeductul istoric și apoi alunecăm spre impresionantul parc de sculpturi de la malul mării. După o oprire foto la podul prieteniei, traversăm orașul până la plaja Pernera. Punctul culminant este faimoasa plajă Nissi, unde ne bucurăm de sfârșitul după-amiezii.",
+        "en": "The car tour allows us to comfortably reach the more distant sights. We start at the historic aqueduct and then glide out to the impressive seaside sculpture park. After a photo stop at the friendship bridge, we drive right across town to the beach of Pernera. The grand finale is the famous Nissi Beach, where the late afternoon is thoroughly enjoyed."
+      }
+    }
+  }
+}

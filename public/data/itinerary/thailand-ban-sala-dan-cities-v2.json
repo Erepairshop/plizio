@@ -1,0 +1,451 @@
+{
+  "city_id": "thailand-ban-sala-dan-cities-v2",
+  "anchor": {
+    "name": "Ban Sala Dan",
+    "coords": [
+      99.03789,
+      7.6493
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:48",
+      "total_km": 4.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Sala Dan Bureau of Monks",
+            "hu": "Sala Dan Bureau of Monks",
+            "ro": "Sala Dan Bureau of Monks",
+            "en": "Sala Dan Bureau of Monks"
+          },
+          "coords": [
+            99.038739,
+            7.643712
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses ruhige buddhistische Zentrum früh, um Morgenrituale zu beobachten, aber denken Sie daran, sich angemessen zu kleiden und Ihre Schultern zu bedecken.",
+            "hu": "Látogasson el kora reggel ebbe a nyugodt buddhista központba a reggeli rituálék megfigyelésére, de ne felejtse el eltakarni a vállait.",
+            "ro": "Vizitați devreme acest centru budist liniștit pentru a observa ritualurile matinale, dar nu uitați să vă îmbrăcați decent și să vă acoperiți umerii.",
+            "en": "Visit this tranquil Buddhist center early to observe morning rituals, but remember to dress modestly and cover your shoulders."
+          }
+        },
+        {
+          "name": {
+            "de": "Lighthouse",
+            "hu": "Lighthouse",
+            "ro": "Lighthouse",
+            "en": "Lighthouse"
+          },
+          "coords": [
+            99.045618,
+            7.645187
+          ],
+          "category": "historical",
+          "arrive_at": "10:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Klettern Sie in die Nähe dieses historischen Leuchtturms, um das weite Meerespanorama zu genießen, und bringen Sie feste Schuhe für den felsigen Weg mit.",
+            "hu": "Másszon fel e történelmi tengerparti világítótorony közelébe a lenyűgöző óceáni panorámáért, és hozzon masszív cipőt a sziklás ösvényhez.",
+            "ro": "Urcați în apropierea acestui far istoric de coastă pentru a vă bucura de panorame ample ale oceanului și purtați încălțăminte rezistentă pentru poteca stâncoasă.",
+            "en": "Climb near this historic coastal beacon to enjoy sweeping ocean panoramas, and bring sturdy shoes for the rocky path leading up to it."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaw Kwang Beach",
+            "hu": "Kaw Kwang Beach",
+            "ro": "Kaw Kwang Beach",
+            "en": "Kaw Kwang Beach"
+          },
+          "coords": [
+            99.023594,
+            7.643742
+          ],
+          "category": "recreational",
+          "arrive_at": "11:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen, geschwungenen Sandstrand, wo das ruhige, flache Wasser absolut perfekt für ein erfrischendes Nachmittagsschwimmen ist.",
+            "hu": "Pihenjen ezen a festői, ívelt homokos partszakaszon, ahol a nyugodt, sekély víz tökéletesen alkalmas egy frissítő délutáni úszásra.",
+            "ro": "Relaxați-vă pe această porțiune pitorească de nisip curbat, unde apele calme și puțin adânci sunt perfecte pentru o baie răcoritoare de după-amiază.",
+            "en": "Relax on this picturesque curved stretch of sand where the calm, shallow waters are absolutely perfect for a refreshing afternoon swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Small cave",
+            "hu": "Small cave",
+            "ro": "Small cave",
+            "en": "Small cave"
+          },
+          "coords": [
+            99.020351,
+            7.641926
+          ],
+          "category": "landmark",
+          "arrive_at": "13:19",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese verborgene geologische Formation, indem Sie vorsichtig hineintreten, und achten Sie darauf, eine zuverlässige Taschenlampe mitzubringen.",
+            "hu": "Fedezze fel ezt a rejtett geológiai képződményt óvatosan belépve, és ügyeljen arra, hogy legyen önnél egy megbízható zseblámpa a sziklák megcsodálásához.",
+            "ro": "Explorați această formațiune geologică ascunsă pășind cu grijă înăuntru, asigurându-vă că aveți o lanternă fiabilă pentru a admira texturile rocilor.",
+            "en": "Explore this hidden geological formation by carefully stepping inside, making sure you have a reliable flashlight to admire the rock textures."
+          }
+        },
+        {
+          "name": {
+            "de": "Fantastic sunset viewpoint",
+            "hu": "Fantastic sunset viewpoint",
+            "ro": "Fantastic sunset viewpoint",
+            "en": "Fantastic sunset viewpoint"
+          },
+          "coords": [
+            99.019729,
+            7.647174
+          ],
+          "category": "viewpoint",
+          "arrive_at": "13:53",
+          "stay_min": 55,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Kommen Sie kurz vor der Dämmerung an diesem atemberaubenden, erhöhten Ort an, um sich einen guten Fotowinkel für den farbenprächtigen Himmel zu sichern.",
+            "hu": "Érkezzen erre a lélegzetelállító, magaslati pontra közvetlenül szürkület előtt, hogy jó fotószöget biztosítson magának, amikor az égbolt színes vászonná változik.",
+            "ro": "Ajungeți în acest loc înalt uluitor chiar înainte de lăsarea întunericului pentru a vă asigura un unghi bun pentru fotografii, pe măsură ce cerul prinde viață.",
+            "en": "Arrive at this breathtaking elevated spot just before dusk to secure a good photo angle as the sky turns into a vibrant canvas of colors."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit Kultur im Mönchsbüro, gefolgt von einem Spaziergang zum historischen Leuchtturm. Mittags können Sie sich an den sanften Kurven des Strandes entspannen. Der Nachmittag ist für einen abenteuerlichen Blick in die kleine Höhle reserviert. Abends gehen Sie nach Westen, um einen spektakulären Sonnenuntergang zu erleben.",
+        "hu": "A reggel a szerzetesek irodájánál tett kulturális látogatással kezdődik, majd elsétálunk a világítótoronyhoz. A délidő kikapcsolódást hoz a strand lágy ívei mentén. A délután egy kalandos bepillantást tartogat a kis barlangba. Este pedig nyugat felé vesszük az irányt, hogy megcsodáljuk a látványos naplementét.",
+        "ro": "Dimineața începe cu o imersiune culturală la biroul călugărilor, urmată de o plimbare la farul istoric. Prânzul aduce relaxare de-a lungul curbelor blânde ale plajei. După-amiaza este rezervată unei priviri aventuroase în mica peșteră. Seara se apropie îndreptându-vă spre vest pentru un apus de soare spectaculos peste Marea Andaman.",
+        "en": "Morning begins with cultural immersion at the Monks' Bureau, followed by a walk to the historic Lighthouse. Midday brings relaxation along the gentle curves of Kaw Kwang Beach. Afternoon is reserved for an adventurous peek into the Small Cave. Evening approaches as you head west to witness a spectacular sunset over the Andaman Sea."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:32",
+      "total_km": 5.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Klong Dao Beach",
+            "hu": "Klong Dao Beach",
+            "ro": "Klong Dao Beach",
+            "en": "Klong Dao Beach"
+          },
+          "coords": [
+            99.029932,
+            7.634817
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schlendern Sie diesen weitläufigen, weichen Sandstrand entlang, der sich ideal für einen sanften Morgenspaziergang eignet, und probieren Sie die kleinen Strandcafés.",
+            "hu": "Sétáljon végig ezen a tágas, puha homokos strandon, amely ideális egy könnyed reggeli sétához, és ne hagyja ki a kis parti kávézókat sem.",
+            "ro": "Plimbați-vă de-a lungul acestei plaje întinse cu nisip fin, ideală pentru o plimbare matinală, și nu ratați micile cafenele de pe plajă.",
+            "en": "Stroll along this expansive, soft-sand beach which is ideal for a gentle morning walk, and don't miss the small beachside cafes for a quick drink."
+          }
+        },
+        {
+          "name": {
+            "de": "Sala Dan Bureau of Monks",
+            "hu": "Sala Dan Bureau of Monks",
+            "ro": "Sala Dan Bureau of Monks",
+            "en": "Sala Dan Bureau of Monks"
+          },
+          "coords": [
+            99.038739,
+            7.643712
+          ],
+          "category": "religious",
+          "arrive_at": "10:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses ruhige buddhistische Zentrum früh, um Morgenrituale zu beobachten, aber denken Sie daran, sich angemessen zu kleiden und Ihre Schultern zu bedecken.",
+            "hu": "Látogasson el kora reggel ebbe a nyugodt buddhista központba a reggeli rituálék megfigyelésére, de ne felejtse el eltakarni a vállait.",
+            "ro": "Vizitați devreme acest centru budist liniștit pentru a observa ritualurile matinale, dar nu uitați să vă îmbrăcați decent și să vă acoperiți umerii.",
+            "en": "Visit this tranquil Buddhist center early to observe morning rituals, but remember to dress modestly and cover your shoulders."
+          }
+        },
+        {
+          "name": {
+            "de": "Lighthouse",
+            "hu": "Lighthouse",
+            "ro": "Lighthouse",
+            "en": "Lighthouse"
+          },
+          "coords": [
+            99.045618,
+            7.645187
+          ],
+          "category": "historical",
+          "arrive_at": "11:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Klettern Sie in die Nähe dieses historischen Leuchtturms, um das weite Meerespanorama zu genießen, und bringen Sie feste Schuhe für den felsigen Weg mit.",
+            "hu": "Másszon fel e történelmi tengerparti világítótorony közelébe a lenyűgöző óceáni panorámáért, és hozzon masszív cipőt a sziklás ösvényhez.",
+            "ro": "Urcați în apropierea acestui far istoric de coastă pentru a vă bucura de panorame ample ale oceanului și purtați încălțăminte rezistentă pentru poteca stâncoasă.",
+            "en": "Climb near this historic coastal beacon to enjoy sweeping ocean panoramas, and bring sturdy shoes for the rocky path leading up to it."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaw Kwang Beach",
+            "hu": "Kaw Kwang Beach",
+            "ro": "Kaw Kwang Beach",
+            "en": "Kaw Kwang Beach"
+          },
+          "coords": [
+            99.023594,
+            7.643742
+          ],
+          "category": "recreational",
+          "arrive_at": "12:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen, geschwungenen Sandstrand, wo das ruhige, flache Wasser absolut perfekt für ein erfrischendes Nachmittagsschwimmen ist.",
+            "hu": "Pihenjen ezen a festői, ívelt homokos partszakaszon, ahol a nyugodt, sekély víz tökéletesen alkalmas egy frissítő délutáni úszásra.",
+            "ro": "Relaxați-vă pe această porțiune pitorească de nisip curbat, unde apele calme și puțin adânci sunt perfecte pentru o baie răcoritoare de după-amiază.",
+            "en": "Relax on this picturesque curved stretch of sand where the calm, shallow waters are absolutely perfect for a refreshing afternoon swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Ko Raeng",
+            "hu": "Ko Raeng",
+            "ro": "Ko Raeng",
+            "en": "Ko Raeng"
+          },
+          "coords": [
+            99.018283,
+            7.650333
+          ],
+          "category": "landmark",
+          "arrive_at": "14:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Planen Sie Ihren Besuch dieser einzigartigen Gezeiteninsel streng nach dem Ebbe-Plan, um sicher und trockenen Fußes über die freigelegte Sandbank zu spazieren.",
+            "hu": "Tervezze meg a látogatást erre az egyedülálló árapály-szigetre szigorúan az apály idejére, hogy biztonságosan átsétálhasson a szabaddá váló homokpadon.",
+            "ro": "Planificați-vă vizita pe această insulă unică strict în funcție de orarul refluxului pentru a traversa în siguranță bancul de nisip expus.",
+            "en": "Plan your visit to this unique tidal island strictly around the low tide schedule to safely walk across the exposed sandbank without getting wet."
+          }
+        },
+        {
+          "name": {
+            "de": "Fantastic sunset viewpoint",
+            "hu": "Fantastic sunset viewpoint",
+            "ro": "Fantastic sunset viewpoint",
+            "en": "Fantastic sunset viewpoint"
+          },
+          "coords": [
+            99.019729,
+            7.647174
+          ],
+          "category": "viewpoint",
+          "arrive_at": "14:37",
+          "stay_min": 55,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Kommen Sie kurz vor der Dämmerung an diesem atemberaubenden, erhöhten Ort an, um sich einen guten Fotowinkel für den farbenprächtigen Himmel zu sichern.",
+            "hu": "Érkezzen erre a lélegzetelállító, magaslati pontra közvetlenül szürkület előtt, hogy jó fotószöget biztosítson magának, amikor az égbolt színes vászonná változik.",
+            "ro": "Ajungeți în acest loc înalt uluitor chiar înainte de lăsarea întunericului pentru a vă asigura un unghi bun pentru fotografii, pe măsură ce cerul prinde viață.",
+            "en": "Arrive at this breathtaking elevated spot just before dusk to secure a good photo angle as the sky turns into a vibrant canvas of colors."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie zuerst zum Strand von Klong Dao, bevor Sie das Mönchsbüro und den historischen Leuchtturm besuchen. Die Mittagszeit ist perfekt, um für eine erfrischende Pause nach Kaw Kwang zu fahren. Der Nachmittag ermöglicht einen Ausflug nach Ko Raeng. Der Abend klingt an einem atemberaubenden Aussichtspunkt im Sonnenuntergang aus.",
+        "hu": "Reggel tekerjen a Klong Dao Beachre a friss levegőért, majd látogasson el a szerzetesekhez és a világítótoronyhoz. A délidő tökéletes a Kaw Kwang Beach felé való biciklizéshez. A délután lehetővé tesz egy különleges apályos kirándulást Ko Raengre. Az este egy lenyűgöző, lemenő nappal szemközti kilátóponton zárul tökéletesen.",
+        "ro": "Pedalați mai întâi la plaja Klong Dao pentru briza matinală, apoi vizitați biroul călugărilor și farul istoric. Prânzul este perfect pentru a merge cu bicicleta spre plaja Kaw Kwang. După-amiaza permite o excursie unică la reflux spre Ko Raeng. Seara se încheie la un punct de belvedere uimitor orientat spre apusul soarelui.",
+        "en": "Pedal first to Klong Dao Beach for a fresh morning breeze, then visit the Monks' Bureau and the historic Lighthouse. Midday is perfect for cycling towards Kaw Kwang Beach for a refreshing break. Afternoon allows a unique low-tide excursion to Ko Raeng. Evening wraps up perfectly at a stunning viewpoint facing the setting sun."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:11",
+      "total_km": 8.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sala Dan Bureau of Monks",
+            "hu": "Sala Dan Bureau of Monks",
+            "ro": "Sala Dan Bureau of Monks",
+            "en": "Sala Dan Bureau of Monks"
+          },
+          "coords": [
+            99.038739,
+            7.643712
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses ruhige buddhistische Zentrum früh, um Morgenrituale zu beobachten, aber denken Sie daran, sich angemessen zu kleiden und Ihre Schultern zu bedecken.",
+            "hu": "Látogasson el kora reggel ebbe a nyugodt buddhista központba a reggeli rituálék megfigyelésére, de ne felejtse el eltakarni a vállait.",
+            "ro": "Vizitați devreme acest centru budist liniștit pentru a observa ritualurile matinale, dar nu uitați să vă îmbrăcați decent și să vă acoperiți umerii.",
+            "en": "Visit this tranquil Buddhist center early to observe morning rituals, but remember to dress modestly and cover your shoulders."
+          }
+        },
+        {
+          "name": {
+            "de": "Lighthouse",
+            "hu": "Lighthouse",
+            "ro": "Lighthouse",
+            "en": "Lighthouse"
+          },
+          "coords": [
+            99.045618,
+            7.645187
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Klettern Sie in die Nähe dieses historischen Leuchtturms, um das weite Meerespanorama zu genießen, und bringen Sie feste Schuhe für den felsigen Weg mit.",
+            "hu": "Másszon fel e történelmi tengerparti világítótorony közelébe a lenyűgöző óceáni panorámáért, és hozzon masszív cipőt a sziklás ösvényhez.",
+            "ro": "Urcați în apropierea acestui far istoric de coastă pentru a vă bucura de panorame ample ale oceanului și purtați încălțăminte rezistentă pentru poteca stâncoasă.",
+            "en": "Climb near this historic coastal beacon to enjoy sweeping ocean panoramas, and bring sturdy shoes for the rocky path leading up to it."
+          }
+        },
+        {
+          "name": {
+            "de": "Langsod Beach",
+            "hu": "Langsod Beach",
+            "ro": "Langsod Beach",
+            "en": "Langsod Beach"
+          },
+          "coords": [
+            99.040177,
+            7.670245
+          ],
+          "category": "recreational",
+          "arrive_at": "11:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem ruhigeren, weniger überlaufenen Nordstrand, wo Sie die Naturgeräusche genießen können, aber bringen Sie eigene Snacks mit.",
+            "hu": "Kapcsolódjon ki ezen a csendesebb, kevésbé zsúfolt északi strandon, ahol élvezheti a természet hangjait, de pakoljon saját rágcsálnivalót, mert kevés a bolt.",
+            "ro": "Relaxați-vă pe această plajă nordică mai liniștită, unde vă puteți bucura de sunetele naturii, dar luați-vă gustări la pachet deoarece facilitățile sunt puține.",
+            "en": "Unwind on this quieter, less crowded northern beach where you can enjoy the serene sounds of nature, but pack your own snacks as facilities are scarce."
+          }
+        },
+        {
+          "name": {
+            "de": "Rattana Resort & Waterpark",
+            "hu": "Rattana Resort & Waterpark",
+            "ro": "Rattana Resort & Waterpark",
+            "en": "Rattana Resort & Waterpark"
+          },
+          "coords": [
+            99.045234,
+            7.672793
+          ],
+          "category": "landmark",
+          "arrive_at": "12:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erleben Sie Spaß für die ganze Familie mit aufregenden Rutschen und Pools, was eine tolle Mittagspause ist, wenn das Meerwasser etwas zu warm wird.",
+            "hu": "Élvezze a családi szórakozást az izgalmas csúszdákkal és medencékkel, ami nagyszerű déli pihenő lehet, ha a tengervíz már túl melegnek tűnik.",
+            "ro": "Experimentați distracția în familie cu tobogane și piscine captivante, fiind o pauză grozavă la amiază dacă apa mării vi se pare prea caldă.",
+            "en": "Experience fun family entertainment with exciting slides and pools, making it a great midday break if the sea water feels a bit too warm."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaw Kwang Beach",
+            "hu": "Kaw Kwang Beach",
+            "ro": "Kaw Kwang Beach",
+            "en": "Kaw Kwang Beach"
+          },
+          "coords": [
+            99.023594,
+            7.643742
+          ],
+          "category": "recreational",
+          "arrive_at": "13:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen, geschwungenen Sandstrand, wo das ruhige, flache Wasser absolut perfekt für ein erfrischendes Nachmittagsschwimmen ist.",
+            "hu": "Pihenjen ezen a festői, ívelt homokos partszakaszon, ahol a nyugodt, sekély víz tökéletesen alkalmas egy frissítő délutáni úszásra.",
+            "ro": "Relaxați-vă pe această porțiune pitorească de nisip curbat, unde apele calme și puțin adânci sunt perfecte pentru o baie răcoritoare de după-amiază.",
+            "en": "Relax on this picturesque curved stretch of sand where the calm, shallow waters are absolutely perfect for a refreshing afternoon swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Fantastic sunset viewpoint",
+            "hu": "Fantastic sunset viewpoint",
+            "ro": "Fantastic sunset viewpoint",
+            "en": "Fantastic sunset viewpoint"
+          },
+          "coords": [
+            99.019729,
+            7.647174
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:16",
+          "stay_min": 55,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Kommen Sie kurz vor der Dämmerung an diesem atemberaubenden, erhöhten Ort an, um sich einen guten Fotowinkel für den farbenprächtigen Himmel zu sichern.",
+            "hu": "Érkezzen erre a lélegzetelállító, magaslati pontra közvetlenül szürkület előtt, hogy jó fotószöget biztosítson magának, amikor az égbolt színes vászonná változik.",
+            "ro": "Ajungeți în acest loc înalt uluitor chiar înainte de lăsarea întunericului pentru a vă asigura un unghi bun pentru fotografii, pe măsură ce cerul prinde viață.",
+            "en": "Arrive at this breathtaking elevated spot just before dusk to secure a good photo angle as the sky turns into a vibrant canvas of colors."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie früh zum Mönchsbüro und zum Leuchtturm, um Ihren Tag zu beginnen. Mittags geht es nach Norden zu den ruhigen Sandstränden von Langsod und zum Wasserpark Rattana. Nachmittags fahren Sie zum wunderschönen Kaw Kwang Beach. Der Abend endet majestätisch, wenn Sie an die Westküste fahren, um den Sonnenuntergang zu genießen.",
+        "hu": "Kora reggel vezessen a szerzetesek irodájához és a tengerparti világítótoronyhoz. Délben északra indul a csendes Langsod Beach és a nyüzsgő Rattana Waterpark felé. A délután folyamán a gyönyörű Kaw Kwang Beachhez autózunk. Az este fenségesen zárul a nyugati parton megtekinthető felejthetetlen naplementével.",
+        "ro": "Conduceți devreme la biroul călugărilor și la farul de pe coastă. Prânzul vă duce spre nord, la nisipurile liniștite din Langsod și la parcul acvatic plin de viață. După-amiaza implică o croazieră pitorească spre frumoasa plajă Kaw Kwang. Seara se încheie maiestuos conducând spre marginea vestică pentru priveliști de neuitat.",
+        "en": "Drive early to the Monks' Bureau and the coastal Lighthouse to start your day. Midday takes you north to the quiet sands of Langsod Beach and the lively Rattana Waterpark. Afternoon involves a scenic cruise to the beautiful Kaw Kwang Beach. Evening concludes majestically as you drive to the western edge for unforgettable sunset views."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-rianxo-cities-v2",
+  "anchor": {
+    "name": "Rianxo",
+    "coords": [
+      -8.81737,
+      42.64887
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:33",
+      "total_km": 1.85,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Monumento á Virxe de Guadalupe",
+            "hu": "Monumento á Virxe de Guadalupe",
+            "ro": "Monumento á Virxe de Guadalupe",
+            "en": "Monumento á Virxe de Guadalupe"
+          },
+          "coords": [
+            -8.816867,
+            42.645786
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses ikonische Mariendenkmal, das als Symbol der lokalen maritimen Hingabe steht, und fotografieren Sie es im abendlichen Sonnenlicht.",
+            "hu": "Csodálja meg ezt az ikonikus Mária-emlékművet, amely a helyi tengerészeti áhítat szimbóluma, és próbálja meg az esti naplementében lefényképezni.",
+            "ro": "Admirați acest monument marian iconic care reprezintă un simbol al devotamentului maritim local și încercați să-l fotografiați în lumina apusului de soare.",
+            "en": "Admire this iconic Marian monument standing gracefully as a symbol of local maritime devotion, and try to photograph it against the evening sunset light."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Baltar",
+            "hu": "Praia de Baltar",
+            "ro": "Praia de Baltar",
+            "en": "Praia de Baltar"
+          },
+          "coords": [
+            -8.815212,
+            42.64518
+          ],
+          "category": "recreational",
+          "arrive_at": "09:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem hübschen Strand mit ruhigem Wasser zum Schwimmen, aber kommen Sie früh, um den besten Platz am Ufer zu sichern.",
+            "hu": "Pihenjen ezen a szép helyi strandon, melynek nyugodt vize tökéletes az úszáshoz, de érkezzen korán, hogy a legjobb helyet foglalja el a parton.",
+            "ro": "Relaxați-vă pe nisipul fin al acestei plaje cu ape calme perfecte pentru înot, dar sosiți devreme pentru a prinde cel mai bun loc pe țărm.",
+            "en": "Relax on the soft sands of this lovely local beach which offers calm waters perfect for swimming, but arrive early to secure the best spot near the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Tanxil",
+            "hu": "Praia de Tanxil",
+            "ro": "Praia de Tanxil",
+            "en": "Praia de Tanxil"
+          },
+          "coords": [
+            -8.813549,
+            42.644315
+          ],
+          "category": "recreational",
+          "arrive_at": "10:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang entlang dieses von Pinien gesäumten Küstenstreifens mit toller Aussicht, und packen Sie ein Picknick für eine Pause ein.",
+            "hu": "Tegyen egy sétát ezen a fenyőkkel szegélyezett gyönyörű partszakaszon, amely lenyűgöző öbölbeli kilátást nyújt, és hozzon magával egy kis pikniket.",
+            "ro": "Bucurați-vă de o plimbare pe această plajă mărginită de pini care oferă priveliști uimitoare la golf și aduceți un mic picnic pentru o pauză pitorească.",
+            "en": "Enjoy a peaceful stroll along this beautiful, pine-fringed coastal stretch that provides stunning bay views, and pack a light picnic for a scenic break."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Museo Manuel Antonio",
+            "hu": "Casa Museo Manuel Antonio",
+            "ro": "Casa Museo Manuel Antonio",
+            "en": "Casa Museo Manuel Antonio"
+          },
+          "coords": [
+            -8.81914,
+            42.651598
+          ],
+          "category": "museum",
+          "arrive_at": "12:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Leben des berühmten galicischen Dichters in seiner Residenz, und fragen Sie das Personal nach seinen maritimen Einflüssen auf die Kunst.",
+            "hu": "Fedezze fel a híres galíciai költő életét egykori rezidenciájában, és mindenképpen kérdezze meg a személyzetet a tengeri élményeinek hatásáról.",
+            "ro": "Descoperiți viața celebrului poet galician în fosta sa reședință și asigurați-vă că întrebați personalul despre influențele sale maritime.",
+            "en": "Discover the fascinating life and works of the celebrated Galician poet in his former residence, and be sure to ask the staff about his maritime influences."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo do Mar",
+            "hu": "Museo do Mar",
+            "ro": "Museo do Mar",
+            "en": "Museo do Mar"
+          },
+          "coords": [
+            -8.818231,
+            42.653028
+          ],
+          "category": "museum",
+          "arrive_at": "13:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie Rianxos Verbindung zum Ozean durch Schiffsmodelle und Fischereiartefakte, und schauen Sie sich die interaktive Knotenanzeige im ersten Stock an.",
+            "hu": "Ismerje meg Rianxo óceánhoz fűződő mély kapcsolatát a hajómodelleken keresztül, és nézze meg az első emeleti interaktív csomózási kiállítást.",
+            "ro": "Explorați conexiunea orașului Rianxo cu oceanul prin machete de nave și unelte de pescuit, și vizitați expoziția interactivă de noduri de la primul etaj.",
+            "en": "Explore Rianxo's deep connection to the ocean through intricate model ships and fishing artifacts, and check out the interactive knots display on the first floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Nós Nuco",
+            "hu": "Museo de Nós Nuco",
+            "ro": "Museo de Nós Nuco",
+            "en": "Museo de Nós Nuco"
+          },
+          "coords": [
+            -8.813031,
+            42.655225
+          ],
+          "category": "cultural",
+          "arrive_at": "15:43",
+          "stay_min": 110,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in das galicische Kulturerbe durch fesselnde ethnografische Ausstellungen, und verpassen Sie nicht die Galerie für traditionelle Kleidung.",
+            "hu": "Merüljön el a galíciai kulturális örökségben a néprajzi kiállításokon keresztül, és semmiképpen se hagyja ki a hagyományos ruházati galériát.",
+            "ro": "Lăsați-vă captivat de moștenirea culturală galiciană prezentată prin expoziții etnografice și nu ratați galeria de îmbrăcăminte tradițională locală.",
+            "en": "Immerse yourself in authentic Galician cultural heritage showcased through engaging ethnographic exhibits, and don't miss the traditional clothing gallery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag am Denkmal von Guadalupe, dem Herzen der Stadt. Mittags schlendern Sie zu den schönen Stränden Baltar und Tanxil, um das Meer zu genießen. Am Nachmittag entdecken Sie die maritime Literatur im Casa Museo Manuel Antonio und im Museo do Mar. Der Abend endet ruhig im Kulturzentrum Museo de Nós Nuco.",
+        "hu": "Kezdje a napot a Guadalupe emlékműnél, a város szívében. Délben sétáljon el a gyönyörű Baltar és Tanxil strandokra, és élvezze a tengerpartot. Délután fedezze fel a tengeri irodalmat a Casa Museo Manuel Antonio és a Museo do Mar termeiben. Az estét a Museo de Nós Nuco kulturális kiállításain fejezheti be nyugodtan.",
+        "ro": "Începeți ziua la Monumentul Guadalupe, în inima orașului. La prânz, faceți o plimbare spre frumoasele plaje Baltar și Tanxil pentru a vă bucura de mare. După-amiaza, descoperiți literatura maritimă la Casa Museo Manuel Antonio și la Museo do Mar. Seara se încheie liniștit explorând cultura la Museo de Nós Nuco.",
+        "en": "Start your day at the Guadalupe Monument, the heart of the town. Midday brings a relaxing stroll to the beautiful Baltar and Tanxil beaches to enjoy the gentle sea breeze. In the afternoon, discover local maritime literature and history at Casa Museo Manuel Antonio and Museo do Mar. The evening concludes exploring culture at Museo de Nós Nuco."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:58",
+      "total_km": 3.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Praia de Tronco",
+            "hu": "Praia de Tronco",
+            "ro": "Praia de Tronco",
+            "en": "Praia de Tronco"
+          },
+          "coords": [
+            -8.808694,
+            42.642204
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihr Abenteuer an diesem unberührten Strand, wo Sie lokale Seevögel beobachten können, also bringen Sie ein Fernglas für einen genaueren Blick mit.",
+            "hu": "Kezdje kalandját ezen a csendes strandon, ahol helyi tengeri madarakat figyelhet meg, ezért ne felejtsen el távcsövet hozni a jobb kilátás érdekében.",
+            "ro": "Începeți aventura pe această plajă liniștită unde puteți observa păsări marine locale, așa că nu uitați să aduceți binoclul pentru o privire mai atentă.",
+            "en": "Start your adventure at this pristine and tranquil beach where you can observe local marine birds, so remember to bring binoculars for a closer look."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Redemuíños",
+            "hu": "Praia de Redemuíños",
+            "ro": "Praia de Redemuíños",
+            "en": "Praia de Redemuíños"
+          },
+          "coords": [
+            -8.805662,
+            42.640121
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die entspannende Küstenatmosphäre an diesem weniger bekannten Sandstrand, der viel natürlichen Schatten für eine ruhige Pause bietet.",
+            "hu": "Élvezze a pihentető tengerparti hangulatot ezen a kevésbé ismert homokos menedékhelyen, amely természetes árnyékot nyújt egy csendes reggeli pihenéshez.",
+            "ro": "Bucurați-vă de atmosfera de coastă relaxantă la acest refugiu de nisip mai puțin cunoscut, care oferă umbră naturală ideală pentru o odihnă liniștită.",
+            "en": "Take in the relaxing coastal atmosphere at this lesser-known sandy haven that offers great natural shade, making it ideal for a quiet mid-morning rest."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Tanxil",
+            "hu": "Praia de Tanxil",
+            "ro": "Praia de Tanxil",
+            "en": "Praia de Tanxil"
+          },
+          "coords": [
+            -8.813549,
+            42.644315
+          ],
+          "category": "recreational",
+          "arrive_at": "11:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang entlang dieses von Pinien gesäumten Küstenstreifens mit toller Aussicht, und packen Sie ein Picknick für eine Pause ein.",
+            "hu": "Tegyen egy sétát ezen a fenyőkkel szegélyezett gyönyörű partszakaszon, amely lenyűgöző öbölbeli kilátást nyújt, és hozzon magával egy kis pikniket.",
+            "ro": "Bucurați-vă de o plimbare pe această plajă mărginită de pini care oferă priveliști uimitoare la golf și aduceți un mic picnic pentru o pauză pitorească.",
+            "en": "Enjoy a peaceful stroll along this beautiful, pine-fringed coastal stretch that provides stunning bay views, and pack a light picnic for a scenic break."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento á Virxe de Guadalupe",
+            "hu": "Monumento á Virxe de Guadalupe",
+            "ro": "Monumento á Virxe de Guadalupe",
+            "en": "Monumento á Virxe de Guadalupe"
+          },
+          "coords": [
+            -8.816867,
+            42.645786
+          ],
+          "category": "landmark",
+          "arrive_at": "13:03",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses ikonische Mariendenkmal, das als Symbol der lokalen maritimen Hingabe steht, und fotografieren Sie es im abendlichen Sonnenlicht.",
+            "hu": "Csodálja meg ezt az ikonikus Mária-emlékművet, amely a helyi tengerészeti áhítat szimbóluma, és próbálja meg az esti naplementében lefényképezni.",
+            "ro": "Admirați acest monument marian iconic care reprezintă un simbol al devotamentului maritim local și încercați să-l fotografiați în lumina apusului de soare.",
+            "en": "Admire this iconic Marian monument standing gracefully as a symbol of local maritime devotion, and try to photograph it against the evening sunset light."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo do Mar",
+            "hu": "Museo do Mar",
+            "ro": "Museo do Mar",
+            "en": "Museo do Mar"
+          },
+          "coords": [
+            -8.818231,
+            42.653028
+          ],
+          "category": "museum",
+          "arrive_at": "13:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie Rianxos Verbindung zum Ozean durch Schiffsmodelle und Fischereiartefakte, und schauen Sie sich die interaktive Knotenanzeige im ersten Stock an.",
+            "hu": "Ismerje meg Rianxo óceánhoz fűződő mély kapcsolatát a hajómodelleken keresztül, és nézze meg az első emeleti interaktív csomózási kiállítást.",
+            "ro": "Explorați conexiunea orașului Rianxo cu oceanul prin machete de nave și unelte de pescuit, și vizitați expoziția interactivă de noduri de la primul etaj.",
+            "en": "Explore Rianxo's deep connection to the ocean through intricate model ships and fishing artifacts, and check out the interactive knots display on the first floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelo da Lúa",
+            "hu": "Castelo da Lúa",
+            "ro": "Castelo da Lúa",
+            "en": "Castelo da Lúa"
+          },
+          "coords": [
+            -8.814921,
+            42.662912
+          ],
+          "category": "historical",
+          "arrive_at": "15:08",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die Ruinen dieser mittelalterlichen Küstenfestung am Mündungsgebiet, und tragen Sie feste Schuhe für die unebenen Steinwege.",
+            "hu": "Sétáljon a torkolatot védő középkori tengerparti erődítmény lenyűgöző romjai között, és viseljen masszív cipőt az egyenetlen kőösvények miatt.",
+            "ro": "Plimbați-vă printre ruinele acestei fortărețe medievale de coastă și purtați încălțăminte rezistentă pentru a merge în siguranță pe cărările pietruite.",
+            "en": "Wander among the evocative ruins of this medieval coastal fortress that defended the estuary, and wear sturdy shoes to safely navigate the uneven stone paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie morgens sportlich am Praia de Tronco. Genießen Sie die friedliche Fahrt zum Strand Redemuíños, wo die Natur lockt. Am Nachmittag passieren Sie Tanxil und das Guadalupe-Denkmal auf dem Weg ins Zentrum zum Museo do Mar. Gegen Abend radeln Sie gemütlich zu den Ruinen des Castelo da Lúa, um den Tag historisch ausklingen zu lassen.",
+        "hu": "Indítsa a reggelt sportosan a Praia de Troncon. Élvezze a békés kerékpározást a Redemuíños strandra, ahol a természet várja. Délután haladjon el a Tanxil és a Guadalupe emlékmű mellett a központban található Tengerészeti Múzeum felé. Kora este tekerjen el a Castelo da Lúa romjaihoz egy történelmi lezárásért.",
+        "ro": "Începeți dimineața activ la Praia de Tronco. Bucurați-vă de plimbarea liniștită spre plaja Redemuíños, unde natura vă așteaptă. După-amiaza, treceți pe lângă Tanxil și Monumentul Guadalupe spre centrul orașului la Museo do Mar. Spre seară, pedalați ușor spre ruinele Castelo da Lúa pentru un final istoric de zi.",
+        "en": "Start your morning actively at Praia de Tronco. Enjoy a peaceful ride towards the tranquil Redemuíños beach where nature awaits. In the afternoon, cycle past Tanxil and the Guadalupe Monument into the town center for a stop at Museo do Mar. Towards evening, take a gentle ride to the Castelo da Lúa ruins for a historic finale."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:24",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Praia de Area Longa",
+            "hu": "Praia de Area Longa",
+            "ro": "Praia de Area Longa",
+            "en": "Praia de Area Longa"
+          },
+          "coords": [
+            -8.840684,
+            42.635859
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem weitläufigen Strand mit weitem Blick auf die Bucht, und bringen Sie eine Windjacke mit, da die Meeresbrise hier stark sein kann.",
+            "hu": "Sétáljon végig ezen a tágas, nyitott strandon, amely az öbölre nyíló kilátásáról híres, és hozzon magával széldzsekit az erős parti szél miatt.",
+            "ro": "Plimbați-vă pe această plajă vastă, cunoscută pentru priveliștile sale ample asupra golfului, și luați o jachetă de vânt, deoarece briza poate fi puternică.",
+            "en": "Walk along this expansive, open beach known for its sweeping views of the entire bay, and bring a windbreaker as the coastal breezes can be quite strong here."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento á Virxe de Guadalupe",
+            "hu": "Monumento á Virxe de Guadalupe",
+            "ro": "Monumento á Virxe de Guadalupe",
+            "en": "Monumento á Virxe de Guadalupe"
+          },
+          "coords": [
+            -8.816867,
+            42.645786
+          ],
+          "category": "landmark",
+          "arrive_at": "10:30",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses ikonische Mariendenkmal, das als Symbol der lokalen maritimen Hingabe steht, und fotografieren Sie es im abendlichen Sonnenlicht.",
+            "hu": "Csodálja meg ezt az ikonikus Mária-emlékművet, amely a helyi tengerészeti áhítat szimbóluma, és próbálja meg az esti naplementében lefényképezni.",
+            "ro": "Admirați acest monument marian iconic care reprezintă un simbol al devotamentului maritim local și încercați să-l fotografiați în lumina apusului de soare.",
+            "en": "Admire this iconic Marian monument standing gracefully as a symbol of local maritime devotion, and try to photograph it against the evening sunset light."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Museo Manuel Antonio",
+            "hu": "Casa Museo Manuel Antonio",
+            "ro": "Casa Museo Manuel Antonio",
+            "en": "Casa Museo Manuel Antonio"
+          },
+          "coords": [
+            -8.81914,
+            42.651598
+          ],
+          "category": "museum",
+          "arrive_at": "10:46",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Leben des berühmten galicischen Dichters in seiner Residenz, und fragen Sie das Personal nach seinen maritimen Einflüssen auf die Kunst.",
+            "hu": "Fedezze fel a híres galíciai költő életét egykori rezidenciájában, és mindenképpen kérdezze meg a személyzetet a tengeri élményeinek hatásáról.",
+            "ro": "Descoperiți viața celebrului poet galician în fosta sa reședință și asigurați-vă că întrebați personalul despre influențele sale maritime.",
+            "en": "Discover the fascinating life and works of the celebrated Galician poet in his former residence, and be sure to ask the staff about his maritime influences."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelo da Lúa",
+            "hu": "Castelo da Lúa",
+            "ro": "Castelo da Lúa",
+            "en": "Castelo da Lúa"
+          },
+          "coords": [
+            -8.814921,
+            42.662912
+          ],
+          "category": "historical",
+          "arrive_at": "12:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die Ruinen dieser mittelalterlichen Küstenfestung am Mündungsgebiet, und tragen Sie feste Schuhe für die unebenen Steinwege.",
+            "hu": "Sétáljon a torkolatot védő középkori tengerparti erődítmény lenyűgöző romjai között, és viseljen masszív cipőt az egyenetlen kőösvények miatt.",
+            "ro": "Plimbați-vă printre ruinele acestei fortărețe medievale de coastă și purtați încălțăminte rezistentă pentru a merge în siguranță pe cărările pietruite.",
+            "en": "Wander among the evocative ruins of this medieval coastal fortress that defended the estuary, and wear sturdy shoes to safely navigate the uneven stone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Capela de San Xoán de Vista Real",
+            "hu": "Capela de San Xoán de Vista Real",
+            "ro": "Capela de San Xoán de Vista Real",
+            "en": "Capela de San Xoán de Vista Real"
+          },
+          "coords": [
+            -8.824123,
+            42.669371
+          ],
+          "category": "religious",
+          "arrive_at": "13:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante, abgelegene Kapelle am Hang, die dem Heiligen Johannes gewidmet ist, und respektieren Sie die ruhige Atmosphäre der Gegend.",
+            "hu": "Látogasson el a hegyoldalban fekvő, Szent Jánosnak szentelt kápolnához a nyugodt építészetéért, és tisztelje a csendes légkört a helyi misék idején.",
+            "ro": "Vizitați această fermecătoare capelă izolată de pe deal, dedicată Sfântului Ioan, pentru a vă bucura de arhitectura sa și respectați liniștea locului.",
+            "en": "Visit this charming, isolated hillside chapel dedicated to Saint John to enjoy its serene architecture, and respect the quiet atmosphere during local mass times."
+          }
+        },
+        {
+          "name": {
+            "de": "Castros de Neixón",
+            "hu": "Castros de Neixón",
+            "ro": "Castros de Neixón",
+            "en": "Castros de Neixón"
+          },
+          "coords": [
+            -8.840529,
+            42.661906
+          ],
+          "category": "historical",
+          "arrive_at": "14:34",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Reisen Sie zurück in die Zeit an dieser Ausgrabungsstätte einer Siedlung aus der Eisenzeit, und lesen Sie die Schautafeln, um ihre historische Dimension zu erfassen.",
+            "hu": "Lépjen vissza az időben ezen a vaskori régészeti lelőhelyen a ria felett, és olvassa el a tájékoztató táblákat, hogy megértse a történelmi jelentőségét.",
+            "ro": "Întoarceți-vă în timp la această așezare din Epoca Fierului cu vedere la ria și citiți panourile informative pentru a-i înțelege scara istorică monumentală.",
+            "en": "Step back in time at this significant Iron Age settlement archaeological site overlooking the ria, and read the informative panels to grasp its historical scale."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zur weitläufigen Praia de Area Longa und genießen Sie die Aussicht. Mittags machen Sie Halt am Guadalupe-Denkmal und dem Casa Museo Manuel Antonio im Herzen Rianxos. Nachmittags erkunden Sie die mittelalterlichen Überreste am Castelo da Lúa und die Kapelle Vista Real. Der Abend bietet ein geschichtliches Highlight bei den Castros.",
+        "hu": "Reggel vezessen a tágas Praia de Area Longa strandra, és gyönyörködjön a kilátásban. Délben álljon meg a Guadalupe emlékműnél és a Casa Museo Manuel Antonionál Rianxo szívében. Délután fedezze fel a Castelo da Lúa középkori maradványait és a Vista Real kápolnát. Az este történelmi fénypontja a Castros de Neixón.",
+        "ro": "Conduceți dimineața spre vasta Praia de Area Longa și bucurați-vă de priveliște. La prânz, opriți la Monumentul Guadalupe și Casa Museo Manuel Antonio în inima orașului. După-amiaza, explorați rămășițele medievale de la Castelo da Lúa și capela Vista Real. Seara oferă un punct de atracție istoric la Castros de Neixón.",
+        "en": "Drive out in the morning to the expansive Praia de Area Longa and soak in the beautiful bay views. By midday, stop at the Guadalupe Monument and Casa Museo Manuel Antonio in the heart of Rianxo. In the afternoon, explore the medieval remains at Castelo da Lúa and the Vista Real chapel. The evening provides a historical highlight at Castros de Neixón."
+      }
+    }
+  }
+}

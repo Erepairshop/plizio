@@ -1,0 +1,497 @@
+{
+  "city_id": "ensenada-cities-v2",
+  "anchor": {
+    "name": "Ensenada",
+    "coords": [
+      -116.5964,
+      31.8664
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:23",
+      "total_km": 1.98,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Monumento a la Madre",
+            "hu": "Monumento a la Madre",
+            "ro": "Monumento a la Madre",
+            "en": "Monumento a la Madre"
+          },
+          "coords": [
+            -116.62675,
+            31.86898
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese berührende Hommage an die Mutterschaft, die die öffentlichen Plätze der Stadt prägt, und kommen Sie früh, um das beste Licht für Fotos ohne Menschenmassen zu nutzen.",
+            "hu": "Csodálja meg az anyaság e megható emlékművét, amely a város köztereinek fénypontja, és érkezzen kora reggel, hogy tömeg nélkül fotózhasson a legjobb fényviszonyok között.",
+            "ro": "Admirați acest tribut emoționant adus maternității care domină spațiile publice ale orașului și veniți dimineața devreme pentru a face fotografii în cea mai bună lumină, fără aglomerație.",
+            "en": "Admire this touching tribute to motherhood that anchors the city's public spaces, and visit early in the morning to capture the best lighting for photos without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Historical Archives of the City",
+            "hu": "Historical Archives of the City",
+            "ro": "Historical Archives of the City",
+            "en": "Historical Archives of the City"
+          },
+          "coords": [
+            -116.626725,
+            31.865714
+          ],
+          "category": "museum",
+          "arrive_at": "09:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Tauchen Sie in Ensenadas Gründungsdokumente und seltene Fotos ein und fragen Sie unbedingt das fachkundige Personal nach ihrer liebsten verborgenen historischen Anekdote.",
+            "hu": "Merüljön el Ensenada alapító dokumentumaiban és ritka fotóiban, és mindenképpen kérdezze meg a rendkívül tájékozott személyzetet kedvenc rejtett történelmi anekdotájukról.",
+            "ro": "Explorați documentele fondatoare ale orașului Ensenada și fotografiile rare, asigurându-vă că întrebați personalul extrem de bine informat despre anecdota lor istorică preferată.",
+            "en": "Dive into Ensenada's rich foundational documents and rare photographs, making sure to ask the incredibly knowledgeable staff for their favorite hidden historical anecdote."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum of Regional History of Ensenada",
+            "hu": "Museum of Regional History of Ensenada",
+            "ro": "Museum of Regional History of Ensenada",
+            "en": "Museum of Regional History of Ensenada"
+          },
+          "coords": [
+            -116.628128,
+            31.863372
+          ],
+          "category": "museum",
+          "arrive_at": "11:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.29,
+          "tip_5lang": {
+            "de": "Erkunden Sie die indigenen Wurzeln und die koloniale Entwicklung von Baja California in diesen alten Mauern und planen Sie extra Zeit für die detaillierte Artefaktsammlung ein.",
+            "hu": "Fedezze fel Alsó-Kalifornia őslakos gyökereit és gyarmati fejlődését ezen ősi falak között, és szánjon extra időt a rendkívül részletes őslakos leletgyűjteményre.",
+            "ro": "Explorați rădăcinile indigene și evoluția colonială a Baja California între aceste ziduri vechi și alocați timp suplimentar pentru colecția remarcabil de detaliată de artefacte.",
+            "en": "Explore the indigenous roots and colonial evolution of Baja California within these ancient walls, and allocate extra time for the remarkably detailed native artifact collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Concha Marina",
+            "hu": "Concha Marina",
+            "ro": "Concha Marina",
+            "en": "Concha Marina"
+          },
+          "coords": [
+            -116.624503,
+            31.859464
+          ],
+          "category": "cultural",
+          "arrive_at": "13:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem muschelförmigen Freiluft-Amphitheater, einem Treffpunkt der Gemeinde, und bringen Sie eine leichte Jacke mit, da die Meeresbrise oft kühl ist.",
+            "hu": "Pihenjen meg ebben a kagyló alakú szabadtéri amfiteátrumban, amely közösségi találkozóhelyként szolgál, és hozzon magával könnyű kabátot, mert a tengeri szél hűvös lehet.",
+            "ro": "Relaxați-vă la acest amfiteatru în aer liber în formă de scoică, un loc de adunare a comunității, și aduceți o jachetă ușoară, deoarece briza mării poate fi rece.",
+            "en": "Relax at this open-air shell-shaped amphitheater that serves as a community gathering spot, bringing a light jacket as the sea breeze can be unexpectedly cool even on sunny days."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Social Civico y Cultural Riviera",
+            "hu": "Centro Social Civico y Cultural Riviera",
+            "ro": "Centro Social Civico y Cultural Riviera",
+            "en": "Centro Social Civico y Cultural Riviera"
+          },
+          "coords": [
+            -116.619442,
+            31.85985
+          ],
+          "category": "landmark",
+          "arrive_at": "13:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die maurische Architektur dieses ehemaligen Casinos aus den 1930er Jahren und probieren Sie den legendären Original-Margarita-Cocktail in der historischen Bar Andaluz.",
+            "hu": "Csodálja meg ennek az egykori, 1930-as évekbeli kaszinónak a lenyűgöző mór építészetét, és kóstolja meg a legendás eredeti Margarita koktélt a történelmi Bar Andaluzban.",
+            "ro": "Admirați arhitectura maură uimitoare din anii 1930 a acestui fost cazinou și încercați legendarul cocktail Margarita original la barul istoric atașat, Bar Andaluz.",
+            "en": "Marvel at the stunning 1930s Moorish architecture of this former casino, and try the legendary original Margarita cocktail at the attached historic Bar Andaluz."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Historia de Ensenada",
+            "hu": "Museo de Historia de Ensenada",
+            "ro": "Museo de Historia de Ensenada",
+            "en": "Museo de Historia de Ensenada"
+          },
+          "coords": [
+            -116.619778,
+            31.858593
+          ],
+          "category": "museum",
+          "arrive_at": "14:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geschichte Ensenadas von der ruhigen Mission zur geschäftigen Hafenstadt und beachten Sie, dass der zweite Stock hervorragende, weniger überlaufene Ausstellungen bietet.",
+            "hu": "Ismerje meg Ensenada történetét a csendes missziótól a nyüzsgő kikötővárosig, és vegye figyelembe, hogy a múzeum második emelete kiváló, kevésbé zsúfolt kiállításokat kínál.",
+            "ro": "Descoperiți istoria orașului Ensenada de la o misiune liniștită la un oraș portuar plin de viață, reținând că etajul al doilea al muzeului oferă expoziții excelente și mai puțin aglomerate.",
+            "en": "Uncover the timeline of Ensenada from a quiet mission to a bustling port city, noting that the museum's second floor offers excellent, less-crowded exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Caracol Science Museum",
+            "hu": "Caracol Science Museum",
+            "ro": "Caracol Science Museum",
+            "en": "Caracol Science Museum"
+          },
+          "coords": [
+            -116.620383,
+            31.857188
+          ],
+          "category": "museum",
+          "arrive_at": "16:13",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem bootförmigen Gebäude interaktive Ausstellungen zu Erd- und Meereswissenschaften, ideal für Familien, die lehrreichen, praktischen Spaß suchen.",
+            "hu": "Fedezze fel az interaktív föld- és tengertudományi kiállításokat ebben a hajó alakú épületben, amely tökéletes a gyakorlatias, oktató jellegű szórakozást kereső családok számára.",
+            "ro": "Interacționați cu expoziții axate pe științele pământului și ale mării în această clădire în formă de barcă, perfectă pentru familiile care caută distracție educațională practică.",
+            "en": "Engage with interactive exhibits focusing on earth and sea sciences in this boat-shaped building, making it perfect for families looking for hands-on educational fun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie im nördlichen historischen Viertel mit dem Mutterdenkmal und den Stadtarchiven. Spazieren Sie südlich zur Concha Marina am Hafen. Bewundern Sie die Architektur des Kulturzentrums Riviera und das lokale Geschichtsmuseum. Beenden Sie die Tour am Wissenschaftsmuseum Caracol.",
+        "hu": "Kezdje az északi történelmi negyedben az Anyák emlékművével és a városi levéltárral. Sétáljon délre a kikötői Concha Marinához. Csodálja meg a Riviera Kulturális Központ építészetét és a helytörténeti múzeumot. Zárja a napot a Caracol Tudományos Múzeum interaktív kiállításaival.",
+        "ro": "Începeți în cartierul istoric nordic cu Monumentul Mamei și arhivele orașului. Plimbați-vă spre sud până la portul Concha Marina. Admirați arhitectura Centrului Cultural Riviera și muzeul de istorie locală. Încheiați la Muzeul de Știință Caracol cu expozițiile sale interactive.",
+        "en": "Start at the northern historical cluster with the Mother's Monument and city archives. Stroll south to the harbor's Concha Marina. Admire the Riviera Cultural Center's architecture and local history museum. End at the Caracol Science Museum for interactive exhibits and sunset views."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:34",
+      "total_km": 6.28,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum of Regional History of Ensenada",
+            "hu": "Museum of Regional History of Ensenada",
+            "ro": "Museum of Regional History of Ensenada",
+            "en": "Museum of Regional History of Ensenada"
+          },
+          "coords": [
+            -116.628128,
+            31.863372
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die indigenen Wurzeln und die koloniale Entwicklung von Baja California in diesen alten Mauern und planen Sie extra Zeit für die detaillierte Artefaktsammlung ein.",
+            "hu": "Fedezze fel Alsó-Kalifornia őslakos gyökereit és gyarmati fejlődését ezen ősi falak között, és szánjon extra időt a rendkívül részletes őslakos leletgyűjteményre.",
+            "ro": "Explorați rădăcinile indigene și evoluția colonială a Baja California între aceste ziduri vechi și alocați timp suplimentar pentru colecția remarcabil de detaliată de artefacte.",
+            "en": "Explore the indigenous roots and colonial evolution of Baja California within these ancient walls, and allocate extra time for the remarkably detailed native artifact collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Hidalgo",
+            "hu": "Hidalgo",
+            "ro": "Hidalgo",
+            "en": "Hidalgo"
+          },
+          "coords": [
+            -116.624871,
+            31.860525
+          ],
+          "category": "historical",
+          "arrive_at": "10:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.44,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser historischen Statue, die dem Helden der mexikanischen Unabhängigkeit gewidmet ist, und lesen Sie die umgebenden Tafeln für tiefgreifende nationale Kontexte.",
+            "hu": "Álljon meg ennél a mexikói függetlenségi hősnek szentelt történelmi szobornál, és szánjon egy percet a környező emléktáblák elolvasására a nemzeti kontextus megértéséhez.",
+            "ro": "Opriți-vă la această statuie istorică dedicată eroului independenței mexicane, făcându-vă timp să citiți plăcile înconjurătoare care oferă un context național profund.",
+            "en": "Pause at this historical statue dedicated to the Mexican independence hero, taking a moment to read the surrounding plaques that offer profound national context."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Social Civico y Cultural Riviera",
+            "hu": "Centro Social Civico y Cultural Riviera",
+            "ro": "Centro Social Civico y Cultural Riviera",
+            "en": "Centro Social Civico y Cultural Riviera"
+          },
+          "coords": [
+            -116.619442,
+            31.85985
+          ],
+          "category": "landmark",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.52,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die maurische Architektur dieses ehemaligen Casinos aus den 1930er Jahren und probieren Sie den legendären Original-Margarita-Cocktail in der historischen Bar Andaluz.",
+            "hu": "Csodálja meg ennek az egykori, 1930-as évekbeli kaszinónak a lenyűgöző mór építészetét, és kóstolja meg a legendás eredeti Margarita koktélt a történelmi Bar Andaluzban.",
+            "ro": "Admirați arhitectura maură uimitoare din anii 1930 a acestui fost cazinou și încercați legendarul cocktail Margarita original la barul istoric atașat, Bar Andaluz.",
+            "en": "Marvel at the stunning 1930s Moorish architecture of this former casino, and try the legendary original Margarita cocktail at the attached historic Bar Andaluz."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Riviera",
+            "hu": "Teatro Riviera",
+            "ro": "Teatro Riviera",
+            "en": "Teatro Riviera"
+          },
+          "coords": [
+            -116.618139,
+            31.858206
+          ],
+          "category": "cultural",
+          "arrive_at": "12:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Bewundern Sie das klassische Theaterdesign dieses intimen Ortes, an dem sich einst Ensenadas High Society versammelte, und prüfen Sie das Schild auf unerwartete Abendvorstellungen.",
+            "hu": "Csodálja meg e bensőséges helyszín klasszikus színházi dizájnját, ahol egykor Ensenada elitje gyűlt össze, és nézze meg a bejáratnál, hogy vannak-e váratlan esti előadások.",
+            "ro": "Admirați designul teatral clasic al acestui loc intim unde se aduna odată înalta societate din Ensenada și verificați panoul de la intrare pentru posibile spectacole de seară.",
+            "en": "Admire the classic theatrical design of this intimate venue where Ensenada's high society once gathered, and check the entrance board for any unexpected evening performances."
+          }
+        },
+        {
+          "name": {
+            "de": "CEARTE",
+            "hu": "CEARTE",
+            "ro": "CEARTE",
+            "en": "CEARTE"
+          },
+          "coords": [
+            -116.617576,
+            31.856912
+          ],
+          "category": "cultural",
+          "arrive_at": "13:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem dynamischen Kulturzentrum in die zeitgenössische Kunst der Baja California ein, wo im Innenhof oft lebhafte Kunsthandwerksmärkte und Live-Musik stattfinden.",
+            "hu": "Merüljön el a kortárs alsó-kaliforniai művészetben ebben a dinamikus kulturális központban, amelynek szabadtéri udvarán gyakran tartanak nyüzsgő kézműves piacokat és élőzenét.",
+            "ro": "Cufundați-vă în arta contemporană din Baja California la acest centru cultural dinamic, unde curtea exterioară găzduiește adesea piețe artizanale vibrante și muzică live.",
+            "en": "Immerse yourself in contemporary Baja California art at this dynamic cultural center, where the outdoor courtyard often hosts vibrant pop-up artisan markets and live music."
+          }
+        },
+        {
+          "name": {
+            "de": "Epocas",
+            "hu": "Epocas",
+            "ro": "Epocas",
+            "en": "Epocas"
+          },
+          "coords": [
+            -116.610111,
+            31.854689
+          ],
+          "category": "landmark",
+          "arrive_at": "14:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses faszinierende Wahrzeichen, das die Essenz von Ensenadas sich wandelnden Epochen einfängt, und nutzen Sie es als großartige Fotokulisse für Ihre Reise.",
+            "hu": "Fedezze fel ezt az érdekes helyi mérföldkövet, amely megragadja Ensenada változó korszakainak lényegét, és használja kiváló fotóháttérként a városon átívelő utazásának megörökítésére.",
+            "ro": "Descoperiți acest reper local intrigant care surprinde esența epocilor în evoluție ale orașului Ensenada și folosiți-l ca un fundal fotografic excelent pentru a vă marca călătoria.",
+            "en": "Discover this intriguing local landmark that captures the essence of Ensenada's evolving eras, and use it as a great photographic backdrop to mark your journey across town."
+          }
+        },
+        {
+          "name": {
+            "de": "Porterias",
+            "hu": "Porterias",
+            "ro": "Porterias",
+            "en": "Porterias"
+          },
+          "coords": [
+            -116.570441,
+            31.868624
+          ],
+          "category": "landmark",
+          "arrive_at": "15:24",
+          "stay_min": 70,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Betrachten Sie die imposanten Tore, die die östlichen Grenzen markieren und einen faszinierenden Einblick in die architektonischen Grenzen der Stadt bieten, am besten im Nachmittagslicht.",
+            "hu": "Nézze meg a keleti határokat jelző impozáns kapukat, amelyek lenyűgöző bepillantást nyújtanak a város építészeti határaiba, és amelyeket legjobb a lágy délutáni fényben megtekinteni.",
+            "ro": "Priviți porțile impunătoare care marchează granițele estice, oferind o privire fascinantă asupra granițelor arhitecturale ale orașului, cel mai bine văzute în lumina blândă a după-amiezii.",
+            "en": "Check out the imposing gates that mark the eastern boundaries, providing a fascinating glimpse into the city's architectural borders, best viewed during the soft afternoon light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie vom Regionalgeschichtsmuseum los und fahren Sie zum Hidalgo-Gelände. Besuchen Sie das Centro Social Civico und das historische Teatro Riviera. Gleiten Sie am CEARTE vorbei und fahren Sie zum Wahrzeichen Epocas. Beenden Sie die Tour mit einer Fahrt ostwärts zu den Porterias.",
+        "hu": "Induljon a Regionális Történeti Múzeumból, majd tekerjen a Hidalgo emlékhelyhez. Látogasson el a Centro Social Civico-hoz és a Teatro Rivierához. Guruljon el a CEARTE mellett, majd irány az Epocas. Fejezze be a napot egy festői keleti utazással a Porterias felé az alkonyatban.",
+        "ro": "Porniți de la Muzeul de Istorie Regională, apoi mergeți la situl Hidalgo. Vizitați Centro Social Civico și istoricul Teatro Riviera. Treceți pe lângă CEARTE, apoi mergeți la reperul Epocas. Încheiați cu o plimbare pitorească spre est, la Porterias, la sfârșitul zilei.",
+        "en": "Pedal off from the Regional History Museum, then ride to the Hidalgo site. Cycle to the iconic Centro Social Civico and historic Teatro Riviera. Glide past CEARTE for art, then head to the Epocas landmark. Finish with a scenic ride eastward to the Porterias as the day gracefully ends."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:51",
+      "total_km": 14.67,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Porterias",
+            "hu": "Porterias",
+            "ro": "Porterias",
+            "en": "Porterias"
+          },
+          "coords": [
+            -116.570441,
+            31.868624
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die imposanten Tore, die die östlichen Grenzen markieren und einen faszinierenden Einblick in die architektonischen Grenzen der Stadt bieten, am besten im Nachmittagslicht.",
+            "hu": "Nézze meg a keleti határokat jelző impozáns kapukat, amelyek lenyűgöző bepillantást nyújtanak a város építészeti határaiba, és amelyeket legjobb a lágy délutáni fényben megtekinteni.",
+            "ro": "Priviți porțile impunătoare care marchează granițele estice, oferind o privire fascinantă asupra granițelor arhitecturale ale orașului, cel mai bine văzute în lumina blândă a după-amiezii.",
+            "en": "Check out the imposing gates that mark the eastern boundaries, providing a fascinating glimpse into the city's architectural borders, best viewed during the soft afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "Historical Archives of the City",
+            "hu": "Historical Archives of the City",
+            "ro": "Historical Archives of the City",
+            "en": "Historical Archives of the City"
+          },
+          "coords": [
+            -116.626725,
+            31.865714
+          ],
+          "category": "museum",
+          "arrive_at": "10:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.33,
+          "tip_5lang": {
+            "de": "Tauchen Sie in Ensenadas Gründungsdokumente und seltene Fotos ein und fragen Sie unbedingt das fachkundige Personal nach ihrer liebsten verborgenen historischen Anekdote.",
+            "hu": "Merüljön el Ensenada alapító dokumentumaiban és ritka fotóiban, és mindenképpen kérdezze meg a rendkívül tájékozott személyzetet kedvenc rejtett történelmi anekdotájukról.",
+            "ro": "Explorați documentele fondatoare ale orașului Ensenada și fotografiile rare, asigurându-vă că întrebați personalul extrem de bine informat despre anecdota lor istorică preferată.",
+            "en": "Dive into Ensenada's rich foundational documents and rare photographs, making sure to ask the incredibly knowledgeable staff for their favorite hidden historical anecdote."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Social Civico y Cultural Riviera",
+            "hu": "Centro Social Civico y Cultural Riviera",
+            "ro": "Centro Social Civico y Cultural Riviera",
+            "en": "Centro Social Civico y Cultural Riviera"
+          },
+          "coords": [
+            -116.619442,
+            31.85985
+          ],
+          "category": "landmark",
+          "arrive_at": "11:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.93,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die maurische Architektur dieses ehemaligen Casinos aus den 1930er Jahren und probieren Sie den legendären Original-Margarita-Cocktail in der historischen Bar Andaluz.",
+            "hu": "Csodálja meg ennek az egykori, 1930-as évekbeli kaszinónak a lenyűgöző mór építészetét, és kóstolja meg a legendás eredeti Margarita koktélt a történelmi Bar Andaluzban.",
+            "ro": "Admirați arhitectura maură uimitoare din anii 1930 a acestui fost cazinou și încercați legendarul cocktail Margarita original la barul istoric atașat, Bar Andaluz.",
+            "en": "Marvel at the stunning 1930s Moorish architecture of this former casino, and try the legendary original Margarita cocktail at the attached historic Bar Andaluz."
+          }
+        },
+        {
+          "name": {
+            "de": "Caracol Science Museum",
+            "hu": "Caracol Science Museum",
+            "ro": "Caracol Science Museum",
+            "en": "Caracol Science Museum"
+          },
+          "coords": [
+            -116.620383,
+            31.857188
+          ],
+          "category": "museum",
+          "arrive_at": "12:24",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.31,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem bootförmigen Gebäude interaktive Ausstellungen zu Erd- und Meereswissenschaften, ideal für Familien, die lehrreichen, praktischen Spaß suchen.",
+            "hu": "Fedezze fel az interaktív föld- és tengertudományi kiállításokat ebben a hajó alakú épületben, amely tökéletes a gyakorlatias, oktató jellegű szórakozást kereső családok számára.",
+            "ro": "Interacționați cu expoziții axate pe științele pământului și ale mării în această clădire în formă de barcă, perfectă pentru familiile care caută distracție educațională practică.",
+            "en": "Engage with interactive exhibits focusing on earth and sea sciences in this boat-shaped building, making it perfect for families looking for hands-on educational fun."
+          }
+        },
+        {
+          "name": {
+            "de": "Monalisa",
+            "hu": "Monalisa",
+            "ro": "Monalisa",
+            "en": "Monalisa"
+          },
+          "coords": [
+            -116.617262,
+            31.784369
+          ],
+          "category": "recreational",
+          "arrive_at": "14:21",
+          "stay_min": 90,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 8.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem wunderschönen Erholungsort an der Südküste, ideal für einen ruhigen Spaziergang bei Sonnenuntergang, während Sie den Wellen des Pazifiks lauschen.",
+            "hu": "Fejezze be a napját ezen a gyönyörű déli parti pihenőhelyen, amely tökéletes egy nyugodt naplementi sétához, miközben a Csendes-óceán hullámainak morajlását hallgatja.",
+            "ro": "Încheiați-vă ziua în acest loc de recreere frumos de pe coasta de sud, perfect pentru o plimbare liniștită la apus în timp ce ascultați valurile Pacificului izbindu-se de țărm.",
+            "en": "End your day at this beautiful recreational spot along the southern coast, perfect for a tranquil sunset stroll while listening to the crashing Pacific waves."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zuerst zum östlichen Rand zu den Porterias und dann zurück zu den Stadtarchiven. Parken Sie nahe dem Riviera-Zentrum, um das Centro Social Civico zu erkunden. Besuchen Sie das Caracol-Wissenschaftsmuseum. Fahren Sie abends in den Süden zum Monalisa für entspannte Stunden.",
+        "hu": "Vezessen a keleti peremre a Porterias-hoz, majd térjen vissza a Történelmi Levéltárhoz. Parkoljon a Riviera központnál a Centro Social Civico felfedezéséhez. Látogasson el a Caracol Tudományos Múzeumba. Este tegyen egy festői autózást délre a Monalisa felé a pihenéshez.",
+        "ro": "Conduceți spre marginea estică pentru a vedea Porterias, apoi întoarceți-vă la Arhivele Istorice. Parcați lângă hub-ul Riviera pentru a explora Centro Social Civico. Vizitați Muzeul de Știință Caracol. Faceți o plimbare pitorească spre sud până la Monalisa pentru o seară relaxantă.",
+        "en": "Drive to the eastern edge to see the Porterias first, then cruise back to the Historical Archives. Park near the Riviera hub to explore the Centro Social Civico's courtyards. Visit the modern Caracol Science Museum. Take a scenic drive south to Monalisa for a relaxing evening."
+      }
+    }
+  }
+}

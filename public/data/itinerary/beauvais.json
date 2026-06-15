@@ -1,0 +1,566 @@
+{
+  "city_id": "beauvais",
+  "anchor": {
+    "name": "Beauvais",
+    "coords": [
+      2.0875,
+      49.4342
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:27",
+      "total_km": 1.7,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Beauvais",
+            "hu": "Beauvais Vasútállomás",
+            "ro": "Gara Beauvais",
+            "en": "Beauvais Station"
+          },
+          "coords": [
+            2.088797,
+            49.426481
+          ],
+          "category": "station",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Reise an diesem historischen Bahnhof aus dem 19. Jahrhundert und bewundern Sie die klassische Provinzarchitektur, bevor Sie gegenüber einen Kaffee trinken.",
+            "hu": "Kezdje utazását ezen a történelmi 19. századi vasútállomáson, megfigyelve a klasszikus vidéki építészetet, mielőtt meginna egy kávét az utca túloldalán.",
+            "ro": "Începeți călătoria la această gară istorică din secolul al XIX-lea, admirând arhitectura sa provincială clasică înainte de a bea o cafea peste drum.",
+            "en": "Start your journey at this historic 19th-century railway station, noting its classic provincial architecture before grabbing a coffee across the street."
+          }
+        },
+        {
+          "name": {
+            "de": "Nationale Gobelin-Manufaktur",
+            "hu": "Nemzeti Kárpitmanufaktúra",
+            "ro": "Manufactura Națională de Tapiserie",
+            "en": "National Tapestry Manufactory"
+          },
+          "coords": [
+            2.087516,
+            49.424566
+          ],
+          "category": "cultural",
+          "arrive_at": "09:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie in dieser nationalen Manufaktur jahrhundertealte Textilkunst und planen Sie Ihren Besuch so, dass Sie eine Live-Webvorführung geschickter Handwerker erleben.",
+            "hu": "Fedezze fel az évszázados textilművészetet ebben a nemzeti manufaktúrában, és időzítse látogatását úgy, hogy láthasson egy élő szövési bemutatót.",
+            "ro": "Descoperiți secole de artă textilă la această manufactură națională, unde ar trebui să vă programați vizita pentru a prinde o demonstrație live de țesut.",
+            "en": "Discover centuries of textile artistry at this national factory, where you should time your visit to catch a live weaving demonstration by skilled artisans."
+          }
+        },
+        {
+          "name": {
+            "de": "Place Jeanne Hachette",
+            "hu": "Place Jeanne Hachette",
+            "ro": "Piața Jeanne Hachette",
+            "en": "Place Jeanne Hachette"
+          },
+          "coords": [
+            2.08268,
+            49.430419
+          ],
+          "category": "civic",
+          "arrive_at": "11:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Der belebte zentrale Platz erinnert an eine lokale Heldin und ist der perfekte Ort, um auf einer Terrasse zu sitzen und die historischen Fassaden zu bewundern.",
+            "hu": "A nyüzsgő központi tér egy helyi hősnőnek állít emléket, így tökéletes hely arra, hogy egy teraszon ülve megcsodálja a környező történelmi homlokzatokat.",
+            "ro": "Piața centrală plină de viață comemorează o eroină locală, fiind locul perfect pentru a vă așeza la o terasă și a admira fațadele istorice din jur.",
+            "en": "The lively central square commemorates a local heroine, making it the perfect spot to sit on a terrace and admire the surrounding historic facades."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Hôtel de Ville"
+          },
+          "coords": [
+            2.081588,
+            49.429845
+          ],
+          "category": "civic",
+          "arrive_at": "11:27",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassizistische Fassade des 1752 erbauten Rathauses und werfen Sie einen Blick hinein, um die elegante Treppe und historische Artefakte zu sehen.",
+            "hu": "Csodálja meg az 1752-ben épült városháza klasszikus homlokzatát, és próbáljon meg bekukkantani, hogy láthassa az elegáns lépcsőházat.",
+            "ro": "Admirați marea fațadă clasică a Primăriei construite în 1752 și încercați să aruncați o privire înăuntru pentru a vedea scara elegantă.",
+            "en": "Admire the grand classical facade of the City Hall built in 1752, and try to peek inside to see the elegant staircase and historical municipal artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Saint-Pierre",
+            "hu": "Saint-Pierre Katedrális",
+            "ro": "Catedrala Saint-Pierre",
+            "en": "Saint-Pierre Cathedral"
+          },
+          "coords": [
+            2.081567,
+            49.432606
+          ],
+          "category": "religious",
+          "arrive_at": "11:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das höchste gotische Chorgewölbe der Welt, aber vergessen Sie nicht, nach der prächtigen astronomischen Uhr aus dem 19. Jahrhundert zu suchen.",
+            "hu": "Ámuljon el a világ legmagasabb gótikus kórusboltozata alatt, és mindenképpen keresse meg a csodálatos 19. századi csillagászati órát odabent.",
+            "ro": "Rămâneți uimit sub cea mai înaltă boltă gotică de cor din lume, dar nu uitați să căutați magnificul ceas astronomic din secolul al XIX-lea ascuns înăuntru.",
+            "en": "Stand in awe beneath the highest Gothic choir vault in the world, but don't forget to look for the magnificent 19th-century astronomical clock tucked away inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame-de-la-Basse-Œuvre",
+            "hu": "Notre-Dame-de-la-Basse-Œuvre",
+            "ro": "Notre-Dame-de-la-Basse-Œuvre",
+            "en": "Notre-Dame-de-la-Basse-Œuvre"
+          },
+          "coords": [
+            2.080911,
+            49.432753
+          ],
+          "category": "religious",
+          "arrive_at": "13:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Dieses seltene karolingische Überbleibsel bildet einen starken Kontrast zur gotischen Kathedrale und bietet eine rustikale Atmosphäre, die man am besten im Morgenlicht fotografiert.",
+            "hu": "Ez a ritka Karoling-kori túlélő éles kontrasztot alkot a szomszédos gótikus katedrálissal; csendes hangulatát a reggeli fényekben érdemes fotózni.",
+            "ro": "Această supraviețuitoare carolingiană rară contrastează puternic cu catedrala gotică vecină, oferind o atmosferă rustică ce merită fotografiată în lumina dimineții.",
+            "en": "This rare Carolingian survivor contrasts sharply with the soaring Gothic cathedral next door, offering a quiet, rustic atmosphere best photographed in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "MUDO - Oise Museum",
+            "hu": "MUDO - Oise Múzeum",
+            "ro": "Muzeul MUDO - Oise",
+            "en": "MUDO - Oise Museum"
+          },
+          "coords": [
+            2.080381,
+            49.432581
+          ],
+          "category": "museum",
+          "arrive_at": "13:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das Museum im beeindruckenden ehemaligen Bischofspalast beherbergt eine bedeutende Kunstsammlung; besuchen Sie unbedingt die oberen Etagen für Landschaften.",
+            "hu": "A lenyűgöző egykori püspöki palotában helyet kapó múzeum európai művészeti gyűjteményt kínál; ne hagyja ki a felső szintek 19. századi tájképeit.",
+            "ro": "Găzduit în impresionantul fost palat episcopal, acest muzeu prezintă o colecție de artă europeană; asigurați-vă că urcați pentru peisajele din secolul al XIX-lea.",
+            "en": "Housed in the striking former episcopal palace, this museum features an impressive collection of European art, so be sure to check the upper floors for 19th-century landscapes."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Quadrilatère",
+            "hu": "Le Quadrilatère",
+            "ro": "Le Quadrilatère",
+            "en": "Le Quadrilatère"
+          },
+          "coords": [
+            2.082796,
+            49.432311
+          ],
+          "category": "cultural",
+          "arrive_at": "15:37",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie zeitgenössische Ausstellungen vor gallorömischen Mauern und fragen Sie das Personal nach der Architekturgeschichte, um mehr zu erfahren.",
+            "hu": "Fedezze fel a kortárs kiállításokat a gall-római falak között ebben a modern művészeti térben, ahol érdemes a személyzetet az építészettörténetről kérdezni.",
+            "ro": "Explorați expoziții contemporane așezate lângă ziduri galo-romane în acest spațiu de artă, unde detaliile arhitecturale cerute personalului adaugă o mare valoare.",
+            "en": "Explore contemporary exhibitions set against Gallo-Roman walls in this modern art space, where asking the staff about the architectural history adds great value."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie morgens am historischen Bahnhof und schlendern Sie zu den Gobelin-Werkstätten.\n\nEntspannen Sie mittags an der Place Jeanne Hachette und bewundern Sie die Kathedrale.\n\nVerbringen Sie den Nachmittag mit Kunst im MUDO und bestaunen Sie die seltenen karolingischen Ruinen.\n\nBeenden Sie den Tag im Quadrilatère und genießen Sie moderne Kunst an alten römischen Mauern.",
+        "hu": "Kezdje a reggelt a történelmi vasútállomásnál, majd sétáljon el a kárpitműhelyekig.\n\nDélben pihenjen meg a Place Jeanne Hachette téren, mielőtt megcsodálná a hatalmas katedrálist.\n\nDélután fedezze fel a MUDO művészeti gyűjteményeit és az ősi Karoling-kori romokat.\n\nZárja a napot a Le Quadrilatère-ben, ahol a modern művészet az ősi római falakkal találkozik.",
+        "ro": "Începeți dimineața la gara istorică, mergând spre atelierele naționale de tapiserie.\n\nLa prânz, relaxați-vă în Piața Jeanne Hachette înainte de a admira impunătoarea catedrală.\n\nPetreceți după-amiaza explorând arta de la MUDO și ruinele antice carolingiene.\n\nÎncheiați ziua la Le Quadrilatère, admirând arta modernă chiar lângă vechile ziduri romane.",
+        "en": "Start with a morning stroll from the historic station to the tapestry workshops.\n\nAt midday, relax at Place Jeanne Hachette before marveling at the towering Saint-Pierre Cathedral.\n\nSpend your afternoon exploring the diverse art collections at MUDO and admiring Carolingian ruins.\n\nConclude the day at Le Quadrilatère, reflecting on modern art alongside ancient Roman city walls."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:43",
+      "total_km": 6.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Beauvais",
+            "hu": "Beauvais Vasútállomás",
+            "ro": "Gara Beauvais",
+            "en": "Beauvais Station"
+          },
+          "coords": [
+            2.088797,
+            49.426481
+          ],
+          "category": "station",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Reise an diesem historischen Bahnhof aus dem 19. Jahrhundert und bewundern Sie die klassische Provinzarchitektur, bevor Sie gegenüber einen Kaffee trinken.",
+            "hu": "Kezdje utazását ezen a történelmi 19. századi vasútállomáson, megfigyelve a klasszikus vidéki építészetet, mielőtt meginna egy kávét az utca túloldalán.",
+            "ro": "Începeți călătoria la această gară istorică din secolul al XIX-lea, admirând arhitectura sa provincială clasică înainte de a bea o cafea peste drum.",
+            "en": "Start your journey at this historic 19th-century railway station, noting its classic provincial architecture before grabbing a coffee across the street."
+          }
+        },
+        {
+          "name": {
+            "de": "Place Jeanne Hachette",
+            "hu": "Place Jeanne Hachette",
+            "ro": "Piața Jeanne Hachette",
+            "en": "Place Jeanne Hachette"
+          },
+          "coords": [
+            2.08268,
+            49.430419
+          ],
+          "category": "civic",
+          "arrive_at": "09:28",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Der belebte zentrale Platz erinnert an eine lokale Heldin und ist der perfekte Ort, um auf einer Terrasse zu sitzen und die historischen Fassaden zu bewundern.",
+            "hu": "A nyüzsgő központi tér egy helyi hősnőnek állít emléket, így tökéletes hely arra, hogy egy teraszon ülve megcsodálja a környező történelmi homlokzatokat.",
+            "ro": "Piața centrală plină de viață comemorează o eroină locală, fiind locul perfect pentru a vă așeza la o terasă și a admira fațadele istorice din jur.",
+            "en": "The lively central square commemorates a local heroine, making it the perfect spot to sit on a terrace and admire the surrounding historic facades."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Saint-Pierre",
+            "hu": "Saint-Pierre Katedrális",
+            "ro": "Catedrala Saint-Pierre",
+            "en": "Saint-Pierre Cathedral"
+          },
+          "coords": [
+            2.081567,
+            49.432606
+          ],
+          "category": "religious",
+          "arrive_at": "09:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das höchste gotische Chorgewölbe der Welt, aber vergessen Sie nicht, nach der prächtigen astronomischen Uhr aus dem 19. Jahrhundert zu suchen.",
+            "hu": "Ámuljon el a világ legmagasabb gótikus kórusboltozata alatt, és mindenképpen keresse meg a csodálatos 19. századi csillagászati órát odabent.",
+            "ro": "Rămâneți uimit sub cea mai înaltă boltă gotică de cor din lume, dar nu uitați să căutați magnificul ceas astronomic din secolul al XIX-lea ascuns înăuntru.",
+            "en": "Stand in awe beneath the highest Gothic choir vault in the world, but don't forget to look for the magnificent 19th-century astronomical clock tucked away inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison Gréber",
+            "hu": "Maison Gréber",
+            "ro": "Maison Gréber",
+            "en": "Maison Gréber"
+          },
+          "coords": [
+            2.0831,
+            49.4379
+          ],
+          "category": "museum",
+          "arrive_at": "11:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisiten Keramikfassaden dieses historischen Töpferhauses und achten Sie auf die detaillierten floralen Motive, die das handwerkliche Erbe prägen.",
+            "hu": "Csodálja meg ennek a történelmi fazekasháznak a kerámia homlokzatát, és figyelje meg a részletes virágmotívumokat, amelyek a város kézműves örökségét jellemzik.",
+            "ro": "Admirați fațadele ceramice deosebite ale acestei case istorice de olărit, privind îndeaproape motivele florale care caracterizează moștenirea artizanală a orașului.",
+            "en": "Admire the exquisite ceramic facades of this historic pottery house, looking closely at the detailed floral motifs that characterize Beauvais' rich artisanal heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Marcel Dassault Park",
+            "hu": "Marcel Dassault Park",
+            "ro": "Parcul Marcel Dassault",
+            "en": "Parc Marcel Dassault"
+          },
+          "coords": [
+            2.097381,
+            49.450259
+          ],
+          "category": "natural",
+          "arrive_at": "13:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie in dieser grünen Oase mit Themengärten und Nutztieren und bringen Sie etwas Brot für die Enten mit, wenn Sie mit kleinen Kindern reisen.",
+            "hu": "Pihenjen ebben a hatalmas zöld oázisban, ahol tematikus kertek és haszonállatok találhatók; hozzon magával kenyeret a kacsáknak, ha gyerekekkel utazik.",
+            "ro": "Relaxați-vă în această oază verde întinsă cu grădini tematice și animale de fermă, aducând niște pâine pentru rațe dacă călătoriți cu copii mici.",
+            "en": "Relax in this sprawling green oasis featuring themed gardens and farm animals, bringing some bread for the ducks if you are traveling with young children."
+          }
+        },
+        {
+          "name": {
+            "de": "Elispace",
+            "hu": "Elispace",
+            "ro": "Elispace",
+            "en": "Elispace"
+          },
+          "coords": [
+            2.1009,
+            49.45006
+          ],
+          "category": "cultural",
+          "arrive_at": "14:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit, um die moderne Architektur dieser großen Veranstaltungshalle zu bewundern, die an eine fliegende Untertasse erinnert.",
+            "hu": "Szánjon egy percet ennek a repülő csészealjra emlékeztető modern rendezvényközpontnak az értékelésére, amely rangos sport- és kulturális eseményeknek ad otthont.",
+            "ro": "Acordați-vă un moment pentru a aprecia arhitectura modernă, ca o farfurie zburătoare, a acestei locații de evenimente care găzduiește spectacole de top.",
+            "en": "Take a moment outside to appreciate the flying saucer-like modern architecture of this major event venue, which regularly hosts premier sports and cultural events."
+          }
+        },
+        {
+          "name": {
+            "de": "Kanada-See",
+            "hu": "Kanada-tó",
+            "ro": "Lacul Canada",
+            "en": "Canada Lake"
+          },
+          "coords": [
+            2.0577,
+            49.452
+          ],
+          "category": "natural",
+          "arrive_at": "15:58",
+          "stay_min": 105,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Nachmittag mit einem Spaziergang um diesen großen, ruhigen See und mieten Sie bei gutem Wetter ein Kajak, um die Natur zu genießen.",
+            "hu": "Zárja a délutánt egy sétával a nyugodt tó körül; béreljen kajakot, ha az időjárás engedi, hogy teljes mértékben kiélvezze a festői természeti környezetet.",
+            "ro": "Încheiați-vă după-amiaza cu o plimbare în jurul acestui lac mare și liniștit, închiriind un caiac dacă vremea permite pentru a vă bucura de natură.",
+            "en": "End your afternoon with a stroll around this large, tranquil lake, renting a kayak if the weather permits to fully enjoy the scenic natural surroundings."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Rollen Sie vom Bahnhof ins Zentrum und genießen Sie das morgendliche Treiben auf dem Hauptplatz.\n\nDer Mittag konzentriert sich auf die Kathedrale und die kunstvolle Keramik der Maison Gréber.\n\nRadeln Sie nachmittags durch die Grünanlagen des Parc Marcel Dassault und am Elispace vorbei.\n\nIhr Radtag endet mit einer friedlichen Fahrt im Sonnenuntergang am weitläufigen Canada Lake.",
+        "hu": "Guruljon be az állomástól a központba, magába szívva a főtér kora reggeli pezsgő hangulatát.\n\nA dél a lélegzetelállító katedrális és a Maison Gréber díszes kerámiái körül forog.\n\nDélután tekerjen a Parc Marcel Dassault zöldjébe, elhaladva a lenyűgöző Elispace mellett.\n\nA biciklis nap a festői Canada tó partján, egy békés naplementés kerékpározással és pihenéssel zárul.",
+        "ro": "Porniți de la gară spre centrul orașului, absorbind agitația matinală din piața principală.\n\nPrânzul se concentrează pe Catedrala impresionantă și ceramica ornamentată de la Maison Gréber.\n\nPedalați după-amiaza prin parcul Marcel Dassault și pe lângă spectaculosul Elispace.\n\nZiua dumneavoastră se încheie liniștit pe bicicletă, relaxându-vă la apus lângă imensul lac Canada.",
+        "en": "Roll from the station into the heart of the city, absorbing the morning bustle of the central square.\n\nMidday centers around the breathtaking Cathedral and the ornate ceramics of Maison Gréber.\n\nPedal into the afternoon green spaces of Parc Marcel Dassault and past the striking Elispace.\n\nYour cycling day ends with a peaceful sunset ride and relaxation beside the sprawling Canada Lake."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:50",
+      "total_km": 7.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Maladrerie Saint-Lazare",
+            "hu": "Maladrerie Saint-Lazare",
+            "ro": "Maladrerie Saint-Lazare",
+            "en": "Maladrerie Saint-Lazare"
+          },
+          "coords": [
+            2.10158,
+            49.4147
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Reisen Sie in dieser bemerkenswert erhaltenen Leprakolonie in das 12. Jahrhundert zurück und spazieren Sie unbedingt durch die mittelalterlichen Heilgärten.",
+            "hu": "Lépjen vissza a 12. századba ebben a figyelemre méltóan fennmaradt lepratelepen, és mindenképpen tegyen egy sétát a békés középkori gyógynövénykertekben.",
+            "ro": "Întoarceți-vă în secolul al XII-lea la această colonie de leproși remarcabil conservată, asigurându-vă că vă plimbați prin grădinile medicinale medievale.",
+            "en": "Step back into the 12th century at this remarkably preserved leper colony, making sure to walk through the medieval medicinal gardens for a serene experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Bahnhof Beauvais",
+            "hu": "Beauvais Vasútállomás",
+            "ro": "Gara Beauvais",
+            "en": "Gare de Beauvais"
+          },
+          "coords": [
+            2.088797,
+            49.426481
+          ],
+          "category": "station",
+          "arrive_at": "10:34",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Reise an diesem historischen Bahnhof aus dem 19. Jahrhundert und bewundern Sie die klassische Provinzarchitektur, bevor Sie gegenüber einen Kaffee trinken.",
+            "hu": "Kezdje utazását ezen a történelmi 19. századi vasútállomáson, megfigyelve a klasszikus vidéki építészetet, mielőtt meginna egy kávét az utca túloldalán.",
+            "ro": "Începeți călătoria la această gară istorică din secolul al XIX-lea, admirând arhitectura sa provincială clasică înainte de a bea o cafea peste drum.",
+            "en": "Start your journey at this historic 19th-century railway station, noting its classic provincial architecture before grabbing a coffee across the street."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Saint-Pierre",
+            "hu": "Saint-Pierre Katedrális",
+            "ro": "Catedrala Saint-Pierre",
+            "en": "Saint-Pierre Cathedral"
+          },
+          "coords": [
+            2.081567,
+            49.432606
+          ],
+          "category": "religious",
+          "arrive_at": "11:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das höchste gotische Chorgewölbe der Welt, aber vergessen Sie nicht, nach der prächtigen astronomischen Uhr aus dem 19. Jahrhundert zu suchen.",
+            "hu": "Ámuljon el a világ legmagasabb gótikus kórusboltozata alatt, és mindenképpen keresse meg a csodálatos 19. századi csillagászati órát odabent.",
+            "ro": "Rămâneți uimit sub cea mai înaltă boltă gotică de cor din lume, dar nu uitați să căutați magnificul ceas astronomic din secolul al XIX-lea ascuns înăuntru.",
+            "en": "Stand in awe beneath the highest Gothic choir vault in the world, but don't forget to look for the magnificent 19th-century astronomical clock tucked away inside."
+          }
+        },
+        {
+          "name": {
+            "de": "MUDO - Oise Museum",
+            "hu": "MUDO - Oise Múzeum",
+            "ro": "Muzeul MUDO - Oise",
+            "en": "MUDO - Oise Museum"
+          },
+          "coords": [
+            2.080381,
+            49.432581
+          ],
+          "category": "museum",
+          "arrive_at": "12:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das Museum im beeindruckenden ehemaligen Bischofspalast beherbergt eine bedeutende Kunstsammlung; besuchen Sie unbedingt die oberen Etagen für Landschaften.",
+            "hu": "A lenyűgöző egykori püspöki palotában helyet kapó múzeum európai művészeti gyűjteményt kínál; ne hagyja ki a felső szintek 19. századi tájképeit.",
+            "ro": "Găzduit în impresionantul fost palat episcopal, acest muzeu prezintă o colecție de artă europeană; asigurați-vă că urcați pentru peisajele din secolul al XIX-lea.",
+            "en": "Housed in the striking former episcopal palace, this museum features an impressive collection of European art, so be sure to check the upper floors for 19th-century landscapes."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison Gréber",
+            "hu": "Maison Gréber",
+            "ro": "Maison Gréber",
+            "en": "Maison Gréber"
+          },
+          "coords": [
+            2.0831,
+            49.4379
+          ],
+          "category": "museum",
+          "arrive_at": "13:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisiten Keramikfassaden dieses historischen Töpferhauses und achten Sie auf die detaillierten floralen Motive, die das handwerkliche Erbe prägen.",
+            "hu": "Csodálja meg ennek a történelmi fazekasháznak a kerámia homlokzatát, és figyelje meg a részletes virágmotívumokat, amelyek a város kézműves örökségét jellemzik.",
+            "ro": "Admirați fațadele ceramice deosebite ale acestei case istorice de olărit, privind îndeaproape motivele florale care caracterizează moștenirea artizanală a orașului.",
+            "en": "Admire the exquisite ceramic facades of this historic pottery house, looking closely at the detailed floral motifs that characterize Beauvais' rich artisanal heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Marcel Dassault Park",
+            "hu": "Marcel Dassault Park",
+            "ro": "Parcul Marcel Dassault",
+            "en": "Parc Marcel Dassault"
+          },
+          "coords": [
+            2.097381,
+            49.450259
+          ],
+          "category": "natural",
+          "arrive_at": "15:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie in dieser grünen Oase mit Themengärten und Nutztieren und bringen Sie etwas Brot für die Enten mit, wenn Sie mit kleinen Kindern reisen.",
+            "hu": "Pihenjen ebben a hatalmas zöld oázisban, ahol tematikus kertek és haszonállatok találhatók; hozzon magával kenyeret a kacsáknak, ha gyerekekkel utazik.",
+            "ro": "Relaxați-vă în această oază verde întinsă cu grădini tematice și animale de fermă, aducând niște pâine pentru rațe dacă călătoriți cu copii mici.",
+            "en": "Relax in this sprawling green oasis featuring themed gardens and farm animals, bringing some bread for the ducks if you are traveling with young children."
+          }
+        },
+        {
+          "name": {
+            "de": "Kanada-See",
+            "hu": "Kanada-tó",
+            "ro": "Lacul Canada",
+            "en": "Canada Lake"
+          },
+          "coords": [
+            2.0577,
+            49.452
+          ],
+          "category": "natural",
+          "arrive_at": "17:05",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Nachmittag mit einem Spaziergang um diesen großen, ruhigen See und mieten Sie bei gutem Wetter ein Kajak, um die Natur zu genießen.",
+            "hu": "Zárja a délutánt egy sétával a nyugodt tó körül; béreljen kajakot, ha az időjárás engedi, hogy teljes mértékben kiélvezze a festői természeti környezetet.",
+            "ro": "Încheiați-vă după-amiaza cu o plimbare în jurul acestui lac mare și liniștit, închiriind un caiac dacă vremea permite pentru a vă bucura de natură.",
+            "en": "End your afternoon with a stroll around this large, tranquil lake, renting a kayak if the weather permits to fully enjoy the scenic natural surroundings."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie außerhalb des Zentrums mit einer morgendlichen Erkundung der Maladrerie Saint-Lazare.\n\nFahren Sie mittags in die Stadt für die gotische Kathedrale und die Schätze des MUDO.\n\nFahren Sie nachmittags an der Maison Gréber vorbei, um die Gärten des Parc Marcel Dassault zu genießen.\n\nSchließen Sie mit einer kurzen abendlichen Fahrt zum Canada Lake ab und entspannen Sie sich am Wasser.",
+        "hu": "Kezdje a napot a központon kívül, a középkori Maladrerie Saint-Lazare kora reggeli felfedezésével.\n\nVezessen a központba, hogy délben megcsodálja a gótikus katedrálist és a MUDO kincseit.\n\nDélután haladjon el a Maison Gréber mellett, és élvezze a Parc Marcel Dassault hatalmas kertjeit.\n\nZárásként tegyen egy rövid esti utat a Canada tóhoz, élvezve a nyugodt vízparti hangulatot sötétedés előtt.",
+        "ro": "Începeți în afara centrului cu o explorare matinală a coloniei medievale Maladrerie Saint-Lazare.\n\nConduceți spre centru la prânz pentru înălțimile gotice ale Catedralei și comorile de la MUDO.\n\nDupă-amiaza, treceți pe lângă Maison Gréber pentru a vă bucura de grădinile parcului Dassault.\n\nÎncheiați cu un scurt drum de seară la lacul Canada, savurând liniștea apei înainte de a se întuneca.",
+        "en": "Begin outside the center with a morning exploration of the medieval Maladrerie Saint-Lazare.\n\nDrive to the core for a midday journey through the Cathedral's Gothic heights and MUDO's treasures.\n\nIn the afternoon, cruise past Maison Gréber to enjoy the vast gardens of Parc Marcel Dassault.\n\nConclude with a short evening drive to Canada Lake, enjoying the waterside tranquility before dark."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-almenara-cities-v2",
+  "anchor": {
+    "name": "Almenara",
+    "coords": [
+      -0.22513,
+      39.75212
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:22",
+      "total_km": 2.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Monument a la Dona Treballadora",
+            "hu": "Monument a la Dona Treballadora",
+            "ro": "Monument a la Dona Treballadora",
+            "en": "Monument a la Dona Treballadora"
+          },
+          "coords": [
+            -0.224766,
+            39.750744
+          ],
+          "category": "monument",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese eindrucksvolle Hommage an die arbeitenden Frauen von Almenara und achten Sie auf die Details, die das tägliche Leben des frühen 20. Jahrhunderts einfangen.",
+            "hu": "Csodálja meg az almenarai dolgozó nők előtt tisztelgő emlékművet, amely a helyi ipari örökséget tükrözi, és figyelje meg a 20. század eleji mindennapi élet apró részleteit.",
+            "ro": "Admirați acest omagiu adus femeilor muncitoare din Almenara, care reflectă moștenirea industrială locală, și observați detaliile ce surprind viața cotidiană de la începutul secolului XX.",
+            "en": "Admire this striking tribute to the working women of Almenara, reflecting local industrial heritage, and note the details that capture early 20th-century daily life."
+          }
+        },
+        {
+          "name": {
+            "de": "Joaquín Rodrigo Vidre",
+            "hu": "Joaquín Rodrigo Vidre",
+            "ro": "Joaquín Rodrigo Vidre",
+            "en": "Joaquín Rodrigo Vidre"
+          },
+          "coords": [
+            -0.22254,
+            39.750379
+          ],
+          "category": "monument",
+          "arrive_at": "09:28",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erweisen Sie dem berühmten Komponisten an seinem Denkmal die Ehre, bewundern Sie die modernen künstlerischen Linien und setzen Sie dann Ihren Spaziergang durch die nahegelegenen Straßen fort.",
+            "hu": "Tisztelegjen a híres zeneszerzőnek szentelt emlékműnél, megcsodálva annak modern művészi vonalait, mielőtt folytatná kényelmes sétáját a közeli festői utcákon keresztül.",
+            "ro": "Prezentați-vă omagiile la memorialul dedicat celebrului compozitor, apreciind liniile sale artistice moderne, înainte de a continua plimbarea pe străzile din apropiere.",
+            "en": "Pay your respects at the memorial dedicated to the famous composer, appreciating its modern artistic lines, before continuing your leisurely walk through the nearby streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Etnològic El Molí d'Arròs",
+            "hu": "Museu Etnològic El Molí d'Arròs",
+            "ro": "Museu Etnològic El Molí d'Arròs",
+            "en": "Museu Etnològic El Molí d'Arròs"
+          },
+          "coords": [
+            -0.225529,
+            39.751826
+          ],
+          "category": "museum",
+          "arrive_at": "09:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie in dieser restaurierten Mühle die faszinierende Geschichte des lokalen Reisanbaus und lesen Sie unbedingt die Informationstafeln über die traditionellen Anbaumethoden.",
+            "hu": "Fedezze fel a helyi rizstermesztés lenyűgöző történetét ebben a felújított malomban, és feltétlenül olvassa el a hagyományos gazdálkodási módszereket bemutató tájékoztató táblákat.",
+            "ro": "Explorați istoria fascinantă a cultivării orezului în această moară restaurată și asigurați-vă că citiți plăcuțele informative ce detaliază metodele agricole tradiționale locale.",
+            "en": "Explore the fascinating history of local rice cultivation in this restored mill, and make sure to read the informative plaques detailing the traditional farming methods used here."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu de Santa Genoveva Torres",
+            "hu": "Museu de Santa Genoveva Torres",
+            "ro": "Museu de Santa Genoveva Torres",
+            "en": "Museu de Santa Genoveva Torres"
+          },
+          "coords": [
+            -0.22523,
+            39.752953
+          ],
+          "category": "museum",
+          "arrive_at": "11:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die in diesem ruhigen Museum erhaltenen religiösen Artefakte, die der Heiligen gewidmet sind, und nehmen Sie sich Zeit für die aufwendig bestickten Gewänder.",
+            "hu": "Fedezze fel a szentnek szentelt csendes múzeumban őrzött vallási és kulturális leleteket, és szánjon időt a kiállított, bonyolult hímzésű ruhadarabok megtekintésére is.",
+            "ro": "Descoperiți artefactele religioase și culturale păstrate în acest muzeu liniștit dedicat sfintei, făcându-vă timp să apreciați veșmintele brodate expuse cu deosebită grijă.",
+            "en": "Discover the religious and cultural artifacts preserved in this quiet museum dedicated to the saint, taking time to appreciate the intricately embroidered garments on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditori Municipal",
+            "hu": "Auditori Municipal",
+            "ro": "Auditori Municipal",
+            "en": "Auditori Municipal"
+          },
+          "coords": [
+            -0.229273,
+            39.752055
+          ],
+          "category": "cultural",
+          "arrive_at": "13:17",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur des wichtigsten Kulturzentrums der Stadt und werfen Sie einen Blick in das Foyer, um zu sehen, ob gerade lokale Kunstwerke ausgestellt sind.",
+            "hu": "Csodálja meg a város első számú kulturális helyszínének modern építészetét, és mindenképpen kukkantson be az előcsarnokba, hátha éppen valamilyen helyi művészeti kiállítást tartanak.",
+            "ro": "Admirați arhitectura modernă a principalei locații culturale a orașului și aruncați o privire în foaier pentru a vedea dacă sunt expuse gratuit opere de artă ale creatorilor locali.",
+            "en": "Marvel at the modern architecture of the town's premier cultural venue, which often hosts free daytime exhibitions, so peek inside the foyer to see if any local art is on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Creu Gòtica \"La Creueta\"",
+            "hu": "Creu Gòtica \"La Creueta\"",
+            "ro": "Creu Gòtica \"La Creueta\"",
+            "en": "Creu Gòtica \"La Creueta\""
+          },
+          "coords": [
+            -0.218025,
+            39.75411
+          ],
+          "category": "historical",
+          "arrive_at": "14:32",
+          "stay_min": 110,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fotografieren Sie dieses alte gotische Kreuz, das seit Jahrhunderten über die Stadt wacht, und fangen Sie die detaillierten Steinmetzarbeiten im späten Nachmittagslicht ein.",
+            "hu": "Fényképezze le ezt az évszázadok óta a város felett őrködő ősi gótikus keresztet, és örökítse meg annak részletgazdag kőfaragásait a gyönyörű késő délutáni napfényben.",
+            "ro": "Fotografiați această veche cruce gotică ce veghează asupra orașului de secole, surprinzând detaliile sculpturilor în piatră în lumina caldă a soarelui de după-amiază târzie.",
+            "en": "Photograph this ancient Gothic cross that has stood watch over the town for centuries, capturing its detailed stone carvings during the beautiful late afternoon sunlight."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang im Herzen von Almenara und ehren Sie die industrielle und künstlerische Vergangenheit der Stadt. Mittags tauchen Sie tiefer in die Geschichte der Region ein, indem Sie die beiden Museen für Reisanbau und religiöses Erbe erkunden. Am Nachmittag verlagern Sie Ihren Fokus auf architektonische Highlights, darunter das moderne städtische Auditorium. Beenden Sie den Tag mit einem ruhigen Spaziergang zum historischen gotischen Kreuz bei Sonnenuntergang.",
+        "hu": "Kezdje sétáját Almenara szívében, a város ipari és művészeti múltját helyi emlékművekkel tisztelegve. A délidő arra csábít, hogy a rizstermesztésnek és a vallási örökségnek szentelt múzeumok felfedezésével mélyedjen el a történelemben. Délután fordítsa figyelmét az építészeti nevezetességekre, beleértve a modern városi előadótermet is. Zárja a napot egy békés sétával a történelmi gótikus kereszt felé, ahogy a nap lenyugszik a város felett.",
+        "ro": "Începeți turul pietonal în inima orașului Almenara, onorând trecutul industrial și artistic al zonei. La amiază, explorați mai profund istoria regiunii vizitând muzeele dedicate cultivării orezului și moștenirii religioase. După-amiaza, îndreptați-vă atenția către atracțiile arhitecturale, inclusiv modernul auditoriu municipal. Încheiați ziua cu o plimbare liniștită spre crucea gotică istorică, în timp ce soarele apune peste așezare.",
+        "en": "Begin your walking tour at the heart of Almenara, honoring the town's industrial and artistic past with visits to local monuments. Midday invites you to dive deeper into the region's history by exploring the dual museums dedicated to rice cultivation and religious heritage. In the afternoon, shift your focus to the architectural highlights, including the modern municipal auditorium. Conclude your day with a peaceful stroll towards the historic Gothic cross as the sun sets over the town."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:17",
+      "total_km": 2.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Auditori Municipal",
+            "hu": "Auditori Municipal",
+            "ro": "Auditori Municipal",
+            "en": "Auditori Municipal"
+          },
+          "coords": [
+            -0.229273,
+            39.752055
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur des wichtigsten Kulturzentrums der Stadt und werfen Sie einen Blick in das Foyer, um zu sehen, ob gerade lokale Kunstwerke ausgestellt sind.",
+            "hu": "Csodálja meg a város első számú kulturális helyszínének modern építészetét, és mindenképpen kukkantson be az előcsarnokba, hátha éppen valamilyen helyi művészeti kiállítást tartanak.",
+            "ro": "Admirați arhitectura modernă a principalei locații culturale a orașului și aruncați o privire în foaier pentru a vedea dacă sunt expuse gratuit opere de artă ale creatorilor locali.",
+            "en": "Marvel at the modern architecture of the town's premier cultural venue, which often hosts free daytime exhibitions, so peek inside the foyer to see if any local art is on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu de Santa Genoveva Torres",
+            "hu": "Museu de Santa Genoveva Torres",
+            "ro": "Museu de Santa Genoveva Torres",
+            "en": "Museu de Santa Genoveva Torres"
+          },
+          "coords": [
+            -0.22523,
+            39.752953
+          ],
+          "category": "museum",
+          "arrive_at": "10:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entdecken Sie die in diesem ruhigen Museum erhaltenen religiösen Artefakte, die der Heiligen gewidmet sind, und nehmen Sie sich Zeit für die aufwendig bestickten Gewänder.",
+            "hu": "Fedezze fel a szentnek szentelt csendes múzeumban őrzött vallási és kulturális leleteket, és szánjon időt a kiállított, bonyolult hímzésű ruhadarabok megtekintésére is.",
+            "ro": "Descoperiți artefactele religioase și culturale păstrate în acest muzeu liniștit dedicat sfintei, făcându-vă timp să apreciați veșmintele brodate expuse cu deosebită grijă.",
+            "en": "Discover the religious and cultural artifacts preserved in this quiet museum dedicated to the saint, taking time to appreciate the intricately embroidered garments on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Etnològic El Molí d'Arròs",
+            "hu": "Museu Etnològic El Molí d'Arròs",
+            "ro": "Museu Etnològic El Molí d'Arròs",
+            "en": "Museu Etnològic El Molí d'Arròs"
+          },
+          "coords": [
+            -0.225529,
+            39.751826
+          ],
+          "category": "museum",
+          "arrive_at": "11:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie in dieser restaurierten Mühle die faszinierende Geschichte des lokalen Reisanbaus und lesen Sie unbedingt die Informationstafeln über die traditionellen Anbaumethoden.",
+            "hu": "Fedezze fel a helyi rizstermesztés lenyűgöző történetét ebben a felújított malomban, és feltétlenül olvassa el a hagyományos gazdálkodási módszereket bemutató tájékoztató táblákat.",
+            "ro": "Explorați istoria fascinantă a cultivării orezului în această moară restaurată și asigurați-vă că citiți plăcuțele informative ce detaliază metodele agricole tradiționale locale.",
+            "en": "Explore the fascinating history of local rice cultivation in this restored mill, and make sure to read the informative plaques detailing the traditional farming methods used here."
+          }
+        },
+        {
+          "name": {
+            "de": "Polifuncional \"Paolo Freire\"",
+            "hu": "Polifuncional \"Paolo Freire\"",
+            "ro": "Polifuncional \"Paolo Freire\"",
+            "en": "Polifuncional \"Paolo Freire\""
+          },
+          "coords": [
+            -0.219417,
+            39.753539
+          ],
+          "category": "cultural",
+          "arrive_at": "13:37",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses lebendige Gemeindezentrum, das nach dem berühmten Pädagogen benannt ist, und prüfen Sie das schwarze Brett auf spannende Abendveranstaltungen oder offene Workshops.",
+            "hu": "Látogasson el a híres pedagógusról elnevezett közösségi központba, hogy megértse a helyi civil életet, és nézze meg a hirdetőtáblát az esti események vagy nyitott workshopok miatt.",
+            "ro": "Vizitați acest centru comunitar vibrant pentru a înțelege viața civică locală și verificați avizierul pentru evenimente de seară interesante sau ateliere deschise publicului.",
+            "en": "Visit this vibrant community center named after the famous educator to understand local civic life, and check the notice board for exciting evening events or open workshops."
+          }
+        },
+        {
+          "name": {
+            "de": "Niu d'ametralladores",
+            "hu": "Niu d'ametralladores",
+            "ro": "Niu d'ametralladores",
+            "en": "Niu d'ametralladores"
+          },
+          "coords": [
+            -0.219736,
+            39.756565
+          ],
+          "category": "historical",
+          "arrive_at": "14:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diese historischen Maschinengewehrnester aus dem Spanischen Bürgerkrieg, die einen ernüchternden Blick in die Vergangenheit bieten, und tragen Sie festes Schuhwerk.",
+            "hu": "Vizsgálja meg a spanyol polgárháborúból származó történelmi géppuskafészkeket, amelyek kijózanító bepillantást nyújtanak a múltba, és viseljen erős cipőt az egyenetlen ösvény miatt.",
+            "ro": "Examinați aceste cuiburi istorice de mitralieră din Războiul Civil Spaniol, care oferă o perspectivă tulburătoare asupra trecutului, și purtați încălțăminte robustă pentru potecă.",
+            "en": "Examine these historic machine gun nests from the Spanish Civil War, offering a sobering glimpse into the past, and wear sturdy shoes for the slightly uneven path approaching them."
+          }
+        },
+        {
+          "name": {
+            "de": "Abric de les Cinc",
+            "hu": "Abric de les Cinc",
+            "ro": "Abric de les Cinc",
+            "en": "Abric de les Cinc"
+          },
+          "coords": [
+            -0.216667,
+            39.755556
+          ],
+          "category": "historical",
+          "arrive_at": "16:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesen faszinierenden alten Felsunterständen hinauf, bringen Sie viel Wasser mit und genießen Sie den atemberaubenden Panoramablick auf die Landschaft Valencias.",
+            "hu": "Túrázzon fel ezekhez a lenyűgöző ősi sziklamenedékekhez, hozzon magával sok vizet és távcsövet, hogy élvezhesse a környező valenciai vidék lenyűgöző panorámáját.",
+            "ro": "Urcați până la aceste adăposturi antice din stâncă, luând cu dumneavoastră multă apă și un binoclu pentru a vă bucura de priveliștile panoramice asupra peisajului valencian.",
+            "en": "Hike up to these fascinating ancient rock shelters, bringing plenty of water and binoculars to enjoy the sweeping panoramic views of the surrounding Valencian countryside."
+          }
+        },
+        {
+          "name": {
+            "de": "Jaciment del Punt del Cid",
+            "hu": "Jaciment del Punt del Cid",
+            "ro": "Jaciment del Punt del Cid",
+            "en": "Jaciment del Punt del Cid"
+          },
+          "coords": [
+            -0.206755,
+            39.750885
+          ],
+          "category": "historical",
+          "arrive_at": "17:27",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die stimmungsvollen Ruinen dieser antiken iberischen Siedlung und kommen Sie früh oder spät am Tag, um die intensive Mittagssonne bei der Erkundung zu meiden.",
+            "hu": "Sétáljon végig ennek az ősi ibériai településnek a hangulatos romjain, és érkezzen kora reggel vagy késő délután, hogy elkerülje az erős déli napsütést a régészeti feltárás során.",
+            "ro": "Plimbați-vă prin ruinele pline de atmosferă ale acestei vechi așezări iberice, ajungând devreme sau târziu pentru a evita soarele intens în timp ce explorați vestigiile.",
+            "en": "Walk through the atmospheric ruins of this ancient Iberian settlement, arriving early or late in the day to avoid the intense midday sun while exploring the archaeological remains."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour am kulturellen Epizentrum, bevor Sie die wichtigsten Museen besuchen. Fahren Sie gegen Mittag bequem zwischen dem historischen Zentrum und den wichtigsten Institutionen. Die Nachmittagsroute wird abenteuerlicher und führt Sie in die Außenbezirke, wo Sie Überreste des Spanischen Bürgerkriegs entdecken. Radeln Sie abends zu den alten archäologischen Stätten und genießen Sie eine leichte Brise, während Sie jahrtausendealte Geschichte aufdecken.",
+        "hu": "Kezdje kerékpártúráját a város kulturális központjában, és nézze meg az előadótermet a múzeumok előtt. Délidőben kerekezzen kényelmesen a történelmi központ és a fontos intézmények között. A délutáni útvonal kissé kalandosabb fordulatot vesz, a külvárosok felé irányítva, hogy felfedezze a polgárháború maradványait. Ahogy leszáll az este, pedálozzon az ősi régészeti lelőhelyek felé, élvezve a szellőt, miközben évezredes történelmet fedez fel.",
+        "ro": "Începeți călătoria cu bicicleta la epicentrul cultural al orașului, vizitând auditoriul înainte de principalele muzee. Mergeți confortabil între centrul istoric și instituțiile cheie la prânz. Traseul de după-amiază capătă o tentă aventuroasă, ghidându-vă spre periferie pentru a descoperi rămășițele Războiului Civil Spaniol. Odată cu lăsarea serii, pedalați spre siturile arheologice antice, bucurându-vă de briză în timp ce descoperiți milenii de istorie.",
+        "en": "Kick off your cycling journey at the cultural epicenter of the town, checking out the auditorium before visiting the main museums. Ride comfortably between the historical center and the town's key institutions as midday approaches. The afternoon route takes a slightly adventurous turn, guiding you towards the outskirts to discover remnants of the Spanish Civil War. As evening falls, pedal towards the ancient archaeological sites, enjoying a breeze while uncovering thousands of years of history."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:49",
+      "total_km": 7.35,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museu de Santa Genoveva Torres",
+            "hu": "Museu de Santa Genoveva Torres",
+            "ro": "Museu de Santa Genoveva Torres",
+            "en": "Museu de Santa Genoveva Torres"
+          },
+          "coords": [
+            -0.22523,
+            39.752953
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die in diesem ruhigen Museum erhaltenen religiösen Artefakte, die der Heiligen gewidmet sind, und nehmen Sie sich Zeit für die aufwendig bestickten Gewänder.",
+            "hu": "Fedezze fel a szentnek szentelt csendes múzeumban őrzött vallási és kulturális leleteket, és szánjon időt a kiállított, bonyolult hímzésű ruhadarabok megtekintésére is.",
+            "ro": "Descoperiți artefactele religioase și culturale păstrate în acest muzeu liniștit dedicat sfintei, făcându-vă timp să apreciați veșmintele brodate expuse cu deosebită grijă.",
+            "en": "Discover the religious and cultural artifacts preserved in this quiet museum dedicated to the saint, taking time to appreciate the intricately embroidered garments on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Etnològic El Molí d'Arròs",
+            "hu": "Museu Etnològic El Molí d'Arròs",
+            "ro": "Museu Etnològic El Molí d'Arròs",
+            "en": "Museu Etnològic El Molí d'Arròs"
+          },
+          "coords": [
+            -0.225529,
+            39.751826
+          ],
+          "category": "museum",
+          "arrive_at": "10:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie in dieser restaurierten Mühle die faszinierende Geschichte des lokalen Reisanbaus und lesen Sie unbedingt die Informationstafeln über die traditionellen Anbaumethoden.",
+            "hu": "Fedezze fel a helyi rizstermesztés lenyűgöző történetét ebben a felújított malomban, és feltétlenül olvassa el a hagyományos gazdálkodási módszereket bemutató tájékoztató táblákat.",
+            "ro": "Explorați istoria fascinantă a cultivării orezului în această moară restaurată și asigurați-vă că citiți plăcuțele informative ce detaliază metodele agricole tradiționale locale.",
+            "en": "Explore the fascinating history of local rice cultivation in this restored mill, and make sure to read the informative plaques detailing the traditional farming methods used here."
+          }
+        },
+        {
+          "name": {
+            "de": "Abric de les Cinc",
+            "hu": "Abric de les Cinc",
+            "ro": "Abric de les Cinc",
+            "en": "Abric de les Cinc"
+          },
+          "coords": [
+            -0.216667,
+            39.755556
+          ],
+          "category": "historical",
+          "arrive_at": "12:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesen faszinierenden alten Felsunterständen hinauf, bringen Sie viel Wasser mit und genießen Sie den atemberaubenden Panoramablick auf die Landschaft Valencias.",
+            "hu": "Túrázzon fel ezekhez a lenyűgöző ősi sziklamenedékekhez, hozzon magával sok vizet és távcsövet, hogy élvezhesse a környező valenciai vidék lenyűgöző panorámáját.",
+            "ro": "Urcați până la aceste adăposturi antice din stâncă, luând cu dumneavoastră multă apă și un binoclu pentru a vă bucura de priveliștile panoramice asupra peisajului valencian.",
+            "en": "Hike up to these fascinating ancient rock shelters, bringing plenty of water and binoculars to enjoy the sweeping panoramic views of the surrounding Valencian countryside."
+          }
+        },
+        {
+          "name": {
+            "de": "Jaciment del Punt del Cid",
+            "hu": "Jaciment del Punt del Cid",
+            "ro": "Jaciment del Punt del Cid",
+            "en": "Jaciment del Punt del Cid"
+          },
+          "coords": [
+            -0.206755,
+            39.750885
+          ],
+          "category": "historical",
+          "arrive_at": "14:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die stimmungsvollen Ruinen dieser antiken iberischen Siedlung und kommen Sie früh oder spät am Tag, um die intensive Mittagssonne bei der Erkundung zu meiden.",
+            "hu": "Sétáljon végig ennek az ősi ibériai településnek a hangulatos romjain, és érkezzen kora reggel vagy késő délután, hogy elkerülje az erős déli napsütést a régészeti feltárás során.",
+            "ro": "Plimbați-vă prin ruinele pline de atmosferă ale acestei vechi așezări iberice, ajungând devreme sau târziu pentru a evita soarele intens în timp ce explorați vestigiile.",
+            "en": "Walk through the atmospheric ruins of this ancient Iberian settlement, arriving early or late in the day to avoid the intense midday sun while exploring the archaeological remains."
+          }
+        },
+        {
+          "name": {
+            "de": "Església de Sant Jaume de Benicalaf",
+            "hu": "Església de Sant Jaume de Benicalaf",
+            "ro": "Església de Sant Jaume de Benicalaf",
+            "en": "Església de Sant Jaume de Benicalaf"
+          },
+          "coords": [
+            -0.247811,
+            39.738107
+          ],
+          "category": "religious",
+          "arrive_at": "15:39",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Erleben Sie die friedliche Atmosphäre dieser historischen Kirche abseits des Stadtzentrums und nehmen Sie sich einen Moment Zeit, um ihre elegant erhaltenen architektonischen Details zu bewundern.",
+            "hu": "Tapasztalja meg ennek a városközponttól távol eső, történelmi templomnak a békés hangulatát, és szánjon egy percet szerény, de elegánsan megőrzött építészeti részleteinek megcsodálására.",
+            "ro": "Experimentați atmosfera senină a acestei biserici istorice situată departe de centrul orașului și admirați detaliile sale arhitecturale modeste, dar elegant conservate.",
+            "en": "Experience the serene atmosphere of this historic church nestled away from the main town center, and take a moment to admire its modest but elegantly preserved architectural details."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt im zentralen Museumsviertel, wo Sie bequem parken, um in das kulturelle und landwirtschaftliche Erbe einzutauchen. Fahren Sie gegen Mittag zu den alten iberischen Siedlungen und Felsunterständen. Verbringen Sie Ihren Nachmittag damit, diese bedeutenden historischen Stätten inmitten der umgebenden Landschaft ausführlich zu erkunden. Zum Abschluss des Tages bringt Sie eine kurze Fahrt nach Süden zu einer ruhigen historischen Kirche für ein besinnliches Ende.",
+        "hu": "Kezdje autós túráját a központi múzeumi negyedben, kényelmesen leparkolva, hogy elmerüljön Almenara gazdag kulturális örökségében. Dél körül vezessen ki az ősi ibériai települések és zord sziklamenedékek felé, felcserélve a kövezett utcákat régészeti ösvényekre. Töltse a délutánt a környező tájban megbúvó jelentős történelmi helyszínek alapos felfedezésével. A nap zárásaként egy rövid dél felé tartó út egy csendes, történelmi templomhoz vezet a tökéletes befejezésért.",
+        "ro": "Începeți turul auto în cartierul central al muzeelor, parcând confortabil pentru a pătrunde în bogata moștenire culturală a Almenarei. În jurul prânzului, conduceți spre vechile așezări iberice și adăposturile din stâncă. Petreceți-vă după-amiaza explorând pe îndelete aceste situri istorice semnificative, ascunse în peisajul înconjurător. Pe măsură ce ziua se încheie, o scurtă plimbare cu mașina spre sud vă aduce la o biserică istorică liniștită pentru un final reflexiv.",
+        "en": "Start your driving tour in the central museum district, comfortably parking to dive into Almenara's rich cultural and agricultural heritage. Around midday, drive out towards the ancient Iberian settlements and rugged rock shelters, trading paved streets for archaeological trails. Spend your afternoon thoroughly exploring these significant historical sites nestled in the surrounding landscape. As the day wraps up, a short drive south brings you to a quiet, historic church for a perfect, reflective ending."
+      }
+    }
+  }
+}

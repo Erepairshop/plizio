@@ -1,0 +1,451 @@
+{
+  "city_id": "tepic-cities-v2",
+  "anchor": {
+    "name": "Tepic",
+    "coords": [
+      -104.8948,
+      21.5061
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:22",
+      "total_km": 1.48,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Foro Cultural Ofelia Dominguez A.C.",
+            "hu": "Foro Cultural Ofelia Dominguez A.C.",
+            "ro": "Foro Cultural Ofelia Dominguez A.C.",
+            "en": "Foro Cultural Ofelia Dominguez A.C."
+          },
+          "coords": [
+            -104.900966,
+            21.507299
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses Zentrum für regionale Kunstausstellungen und achten Sie auf das aktuelle Monatsprogramm, um keinen besonderen Workshop zu verpassen.",
+            "hu": "Kezdje a napot ebben a kulturális központban, ahol helyi művészek alkotásait csodálhatja meg; érdemes a bejáratnál elkérni az aktuális havi programfüzetet.",
+            "ro": "Începeți explorarea la acest centru cultural dedicat artei regionale, solicitând la intrare programul evenimentelor și atelierelor din luna respectivă.",
+            "en": "Start your cultural exploration at this center for regional art, and be sure to ask for the monthly program at the entrance to catch any special workshops."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Estatal de Culturas Populares e Indigenas (CECUPI)",
+            "hu": "Centro Estatal de Culturas Populares e Indigenas (CECUPI)",
+            "ro": "Centro Estatal de Culturas Populares e Indigenas (CECUPI)",
+            "en": "Centro Estatal de Culturas Populares e Indigenas (CECUPI)"
+          },
+          "coords": [
+            -104.892459,
+            21.510367
+          ],
+          "category": "museum",
+          "arrive_at": "10:24",
+          "stay_min": 100,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.93,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Kultur der indigenen Völker Nayarits in diesem Museum; buchen Sie am besten eine geführte Tour, um die Symbolik der Kunstwerke zu verstehen.",
+            "hu": "Fedezze fel Nayarit őslakosainak gazdag kultúráját ebben a múzeumban; érdemes tárlatvezetést kérni, hogy megértse az egyedi műalkotások mélyebb szimbolikáját.",
+            "ro": "Descoperiți cultura popoarelor indigene din Nayarit în acest muzeu fascinant; vă recomandăm un tur ghidat pentru a înțelege simbolistica profundă a artei expuse.",
+            "en": "Discover the rich culture of Nayarit's indigenous peoples in this museum, and consider joining a guided tour to fully understand the symbolism of the artwork."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a los Constituyentes",
+            "hu": "Monumento a los Constituyentes",
+            "ro": "Monumento a los Constituyentes",
+            "en": "Monumento a los Constituyentes"
+          },
+          "coords": [
+            -104.892284,
+            21.512176
+          ],
+          "category": "historical",
+          "arrive_at": "12:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses historische Denkmal im Stadtzentrum und nutzen Sie das morgendliche Licht für perfekte Fotografien ohne viele Menschen im Hintergrund.",
+            "hu": "Csodálja meg ezt a történelmi emlékművet a város szívében; használja ki a kora délelőtti fényeket, hogy tökéletes és tömegmentes fényképeket készíthessen.",
+            "ro": "Admirați acest monument istoric dedicat fondatorilor și profitați de lumina dimineții târzii pentru a face fotografii excelente, fără aglomerație în fundal.",
+            "en": "Admire this historical monument honoring the founders in the city center, and take advantage of the late morning light for perfect, crowd-free photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Museo Amado Nervo",
+            "hu": "Casa Museo Amado Nervo",
+            "ro": "Casa Museo Amado Nervo",
+            "en": "Casa Museo Amado Nervo"
+          },
+          "coords": [
+            -104.890411,
+            21.512474
+          ],
+          "category": "museum",
+          "arrive_at": "13:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das Leben des berühmten mexikanischen Dichters ein und nehmen Sie sich Zeit, die originalen Manuskripte in der Bibliothek des Hauses zu lesen.",
+            "hu": "Merüljön el a híres mexikói költő életében ebben az emlékházban, és szánjon időt az eredeti kéziratok és személyes tárgyak aprólékos tanulmányozására.",
+            "ro": "Pătrundeți în viața faimosului poet mexican vizitând această casă memorială și acordați-vă timp pentru a studia manuscrisele originale expuse în bibliotecă.",
+            "en": "Delve into the life of the famous Mexican poet at this museum house, taking time to carefully read the original manuscripts preserved in the library."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Fenelón",
+            "hu": "Casa Fenelón",
+            "ro": "Casa Fenelón",
+            "en": "Casa Fenelón"
+          },
+          "coords": [
+            -104.890592,
+            21.511104
+          ],
+          "category": "museum",
+          "arrive_at": "15:12",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Rundgang in dieser wunderschönen historischen Residenz mit klassischer Architektur; der Innenhof bietet herrliche Fotomotive am späten Nachmittag.",
+            "hu": "Zárja a sétát ebben a lenyűgöző klasszikus építészetű történelmi rezidenciában, amelynek belső udvara csodálatos témát kínál a késő délutáni fotózáshoz.",
+            "ro": "Încheiați turul la această superbă reședință istorică cu arhitectură clasică, a cărei curte interioară oferă cadre perfecte pentru fotografiile de după-amiază.",
+            "en": "Conclude your walking tour at this beautiful historical residence with classic architecture, as its inner courtyard provides wonderful late afternoon photo opportunities."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unser Tag beginnt im Stadtzentrum von Tepic mit einem tiefen Einblick in die lokale Kunstszene im Foro Cultural. Am Vormittag spazieren wir weiter zum CECUPI, um die indigenen Wurzeln und Traditionen des Bundesstaates Nayarit kennenzulernen. Nachmittags ehren wir die Geschichte am Constituyentes-Denkmal, bevor wir die Poesie im Casa Museo Amado Nervo aufleben lassen. Der Tag endet entspannt in der eleganten Casa Fenelón, wo wir die klassische Architektur bewundern können.",
+        "hu": "Napunk Tepic szívében indul, ahol a Foro Cultural kiállításai adnak betekintést a helyi művészetbe. Délelőtt átsétálunk a CECUPI-ba, hogy felfedezzük Nayarit állam gazdag őslakos gyökereit és hagyományait. Kora délután a Constituyentes emlékműnél időzünk, majd Amado Nervo szülőházában merülünk el a költészetben. A sétát a lenyűgöző Casa Fenelón épületénél fejezzük be, gyönyörködve a klasszikus építészetben.",
+        "ro": "Ziua noastră începe în inima orașului Tepic cu o vizită la Foro Cultural, pentru a explora arta locală. Dimineața continuă la CECUPI, unde descoperim rădăcinile și tradițiile indigene fascinante ale statului Nayarit. După-amiaza onorăm istoria la Monumentul Constituienților, apoi ne adâncim în poezie la Casa Museo Amado Nervo. Ne încheiem traseul la eleganta Casa Fenelón, admirând detaliile arhitecturii sale clasice.",
+        "en": "Our day starts in the heart of Tepic, immersing ourselves in the local art scene at the Foro Cultural. Mid-morning, we walk to CECUPI to discover the fascinating indigenous roots and traditions of Nayarit state. Early afternoon is spent honoring history at the Constituyentes Monument, before delving into poetry at the Casa Museo Amado Nervo. We conclude our walking tour at the elegant Casa Fenelón, admiring its classic architecture."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:41",
+      "total_km": 5.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Centro Estatal de Culturas Populares e Indigenas (CECUPI)",
+            "hu": "Centro Estatal de Culturas Populares e Indigenas (CECUPI)",
+            "ro": "Centro Estatal de Culturas Populares e Indigenas (CECUPI)",
+            "en": "Centro Estatal de Culturas Populares e Indigenas (CECUPI)"
+          },
+          "coords": [
+            -104.892459,
+            21.510367
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie hier, um die indigene Kultur von Nayarit zu entdecken; ein guter Tipp ist, sich gleich morgens das detaillierte Handwerk genau anzusehen.",
+            "hu": "Kezdje a napot a helyi őslakos kultúra megismerésével; érdemes korán érkezni, hogy nyugodtan megcsodálhassa a hihetetlenül részletgazdag kézműves tárgyakat.",
+            "ro": "Începeți ziua descoperind cultura indigenă din Nayarit; este bine să veniți devreme pentru a studia în liniște detaliile meșteșugurilor tradiționale expuse.",
+            "en": "Start your cycling day discovering Nayarit's indigenous culture; arriving early allows you to quietly admire the incredibly detailed traditional crafts on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a los Constituyentes",
+            "hu": "Monumento a los Constituyentes",
+            "ro": "Monumento a los Constituyentes",
+            "en": "Monumento a los Constituyentes"
+          },
+          "coords": [
+            -104.892284,
+            21.512176
+          ],
+          "category": "historical",
+          "arrive_at": "10:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein kurzer Stopp an diesem bedeutenden Denkmal lohnt sich, besonders um die Inschriften auf der Basis in der ruhigen Vormittagsstimmung zu lesen.",
+            "hu": "Tartson egy rövid pihenőt ennél a fontos emlékműnél, és olvassa el az alapzaton lévő feliratokat a délelőtti napsütés csendjében.",
+            "ro": "Faceți o scurtă oprire la acest monument important pentru a citi inscripțiile de la baza sa în atmosfera liniștită a dimineții.",
+            "en": "Make a brief stop at this important monument to read the historical inscriptions on its base in the peaceful morning atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Fenelón",
+            "hu": "Casa Fenelón",
+            "ro": "Casa Fenelón",
+            "en": "Casa Fenelón"
+          },
+          "coords": [
+            -104.890592,
+            21.511104
+          ],
+          "category": "museum",
+          "arrive_at": "12:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad sicher im Innenhofbereich, während Sie diese historische Villa und ihre prachtvolle neoklassizistische Innenausstattung besichtigen.",
+            "hu": "Keressen egy biztonságos helyet a kerékpárnak a bejárat közelében, amíg felfedezi ezt a történelmi villát és annak lenyűgöző neoklasszikus belső tereit.",
+            "ro": "Asigurați-vă bicicleta aproape de intrare în timp ce explorați această vilă istorică și interioarele sale neoclasice cu adevărat spectaculoase.",
+            "en": "Secure your bike safely near the entrance while you explore this historical mansion and marvel at its spectacular neoclassical interior design."
+          }
+        },
+        {
+          "name": {
+            "de": "Zitacua",
+            "hu": "Zitacua",
+            "ro": "Zitacua",
+            "en": "Zitacua"
+          },
+          "coords": [
+            -104.870242,
+            21.504584
+          ],
+          "category": "natural",
+          "arrive_at": "14:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Radeln Sie zu diesem Aussichtspunkt hinauf; der Weg ist etwas steil, aber der Panoramablick auf die Stadt ist absolut atemberaubend und jeden Tropfen Schweiß wert.",
+            "hu": "Kerékpározzon fel ehhez a természetes kilátóhoz; az út kicsit meredek, de a városra nyíló panoráma minden csepp izzadságot megér.",
+            "ro": "Pedalați spre acest punct de belvedere natural; urcușul este puțin abrupt, dar priveliștea panoramică asupra orașului Tepic merită tot efortul depus.",
+            "en": "Pedal up to this natural viewpoint; the path is slightly steep, but the panoramic view over Tepic is absolutely breathtaking and well worth the effort."
+          }
+        },
+        {
+          "name": {
+            "de": "Ángel de la Independencia",
+            "hu": "Ángel de la Independencia",
+            "ro": "Ángel de la Independencia",
+            "en": "Ángel de la Independencia"
+          },
+          "coords": [
+            -104.878485,
+            21.490217
+          ],
+          "category": "historical",
+          "arrive_at": "15:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Legen Sie hier eine Pause ein, um das Denkmal der Unabhängigkeit zu betrachten, bevor Sie Ihre Fahrt in Richtung der südlichen Parks von Tepic fortsetzen.",
+            "hu": "Álljon meg egy rövid pihenőre a Függetlenség Angyala emlékműnél, mielőtt folytatná útját Tepic déli parkjai felé a kellemes délutáni szellőben.",
+            "ro": "Luați o pauză la acest monument dedicat independenței pentru câteva fotografii rapide, înainte de a continua cursa spre parcurile din sudul orașului.",
+            "en": "Take a break at this independence monument for some quick photos before continuing your ride towards the pleasant parks in the southern part of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Banca de la Loma de 2010",
+            "hu": "Banca de la Loma de 2010",
+            "ro": "Banca de la Loma de 2010",
+            "en": "Banca de la Loma de 2010"
+          },
+          "coords": [
+            -104.889593,
+            21.482947
+          ],
+          "category": "landmark",
+          "arrive_at": "16:56",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour in diesem grünen Park; setzen Sie sich auf diese symbolische Bank, um sich zu entspannen und die lebhafte Atmosphäre der Loma zu genießen.",
+            "hu": "Fejezze be a túrát ebben a zöldellő parkban; pihenjen meg ezen a szimbolikus padon, és élvezze a Loma park nyüzsgő, mégis békés atmoszféráját.",
+            "ro": "Încheiați traseul în acest parc înverzit; așezați-vă pe această bancă simbolică pentru a vă relaxa și a vă bucura de atmosfera vibrantă din La Loma.",
+            "en": "Finish your bike tour in this lush park, taking a well-deserved rest on this symbolic bench while enjoying the vibrant yet peaceful atmosphere of La Loma."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Am Morgen starten wir im Zentrum mit der indigenen Kultur im CECUPI und einem Stopp am Constituyentes-Denkmal. Gegen Mittag bewundern wir die Architektur der Casa Fenelón, bevor wir uns auf die Räder schwingen. Der Nachmittag wird sportlich mit der Fahrt hinauf zur Zitacua für einen atemberaubenden Blick über Tepic. Danach rollen wir entspannt in den Süden, passieren den Ángel de la Independencia und beenden den Tag gemütlich im Park bei der Banca de la Loma.",
+        "hu": "A reggelt a belvárosban kezdjük a CECUPI őslakos kultúrájával és a Constituyentes emlékműnél tett rövid látogatással. Délben a Casa Fenelón építészetét csodáljuk, majd nyeregbe pattanunk. A délután sportosan telik: feltekerünk a Zitacua kilátópontjához a városi panorámáért. Később kényelmesen gurulunk dél felé a Függetlenség Angyalát érintve, majd a napot a La Loma parkban, a szimbolikus padnál fejezzük be.",
+        "ro": "Dimineața începe central la CECUPI cu cultură indigenă, urmată de Monumentul Constituienților. La prânz vizităm eleganta Casa Fenelón înainte de a pedala mai serios. După-amiaza urcăm la Zitacua pentru o priveliște superbă asupra orașului, o recompensă pe măsura efortului. Spre seară coborâm lin spre sud, trecem pe la Îngerul Independenței și ne relaxăm complet în parcul La Loma.",
+        "en": "We kick off our morning in the center exploring indigenous heritage at CECUPI, followed by the Constituyentes Monument. Midday brings us to the elegant Casa Fenelón before we hit the pedals hard. The afternoon features a challenging but rewarding climb to the Zitacua natural viewpoint. As evening approaches, we cruise southward past the Angel of Independence, finishing with a relaxing rest at the iconic bench in La Loma park."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:29",
+      "total_km": 17.95,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ex-Fabrica Textil de Bellavista",
+            "hu": "Ex-Fabrica Textil de Bellavista",
+            "ro": "Ex-Fabrica Textil de Bellavista",
+            "en": "Ex-Fabrica Textil de Bellavista"
+          },
+          "coords": [
+            -104.883213,
+            21.564615
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieser alten Textilfabrik im Norden der Stadt; tragen Sie bequeme Schuhe, da das historische Gelände teilweise uneben ist.",
+            "hu": "Kezdje a napot az északi rész lenyűgöző régi textilgyárának romjainál; viseljen kényelmes cipőt, mivel a történelmi terület talaja helyenként egyenetlen.",
+            "ro": "Explorați ruinele acestei vechi fabrici textile din nordul orașului; asigurați-vă că purtați încălțăminte confortabilă, deoarece terenul istoric este denivelat.",
+            "en": "Explore the fascinating ruins of this old textile factory in the north; be sure to wear comfortable shoes as the historical grounds can be somewhat uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "La Cuadra",
+            "hu": "La Cuadra",
+            "ro": "La Cuadra",
+            "en": "La Cuadra"
+          },
+          "coords": [
+            -104.882129,
+            21.564874
+          ],
+          "category": "landmark",
+          "arrive_at": "10:31",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Gleich neben der alten Fabrik befindet sich dieses interessante historische Gebäude, ideal für einen kurzen Fotostopp, bevor Sie in Richtung Zentrum fahren.",
+            "hu": "Közvetlenül a gyár mellett található ez az érdekes történelmi épület, amely ideális egy rövid fotómegállóhoz, mielőtt elindulna a belváros felé.",
+            "ro": "Chiar lângă fosta fabrică se află această clădire istorică interesantă, locul ideal pentru câteva fotografii rapide înainte de a conduce spre centrul orașului.",
+            "en": "Just next to the old factory is this interesting historical structure, serving as an ideal spot for a quick photo before you drive towards the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Museo Amado Nervo",
+            "hu": "Casa Museo Amado Nervo",
+            "ro": "Casa Museo Amado Nervo",
+            "en": "Casa Museo Amado Nervo"
+          },
+          "coords": [
+            -104.890411,
+            21.512474
+          ],
+          "category": "museum",
+          "arrive_at": "10:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.8,
+          "tip_5lang": {
+            "de": "Parken Sie in einer Seitenstraße nahe dem Zentrum, um das Geburtshaus des Dichters in Ruhe zu besichtigen und in die mexikanische Literatur einzutauchen.",
+            "hu": "Parkoljon le egy csendesebb mellékutcában a központ közelében, hogy nyugodtan felfedezhesse a költő szülőházát és elmerüljön a mexikói irodalomban.",
+            "ro": "Găsiți o parcare pe o stradă lăturalnică din centru pentru a vizita în liniște casa natală a poetului și pentru a vă bucura de istoria literaturii mexicane.",
+            "en": "Park on a quieter side street near the center to peacefully explore the poet's birthplace and immerse yourself in the rich history of Mexican literature."
+          }
+        },
+        {
+          "name": {
+            "de": "Zitacua",
+            "hu": "Zitacua",
+            "ro": "Zitacua",
+            "en": "Zitacua"
+          },
+          "coords": [
+            -104.870242,
+            21.504584
+          ],
+          "category": "natural",
+          "arrive_at": "12:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Fahren Sie den Hügel hinauf zu diesem fantastischen Naturpark; der Parkplatz ist klein, also achten Sie auf den Verkehr, während Sie die Aussicht genießen.",
+            "hu": "Vezessen fel a dombon ehhez a fantasztikus természeti parkhoz; a parkoló kicsi, ezért érkezzen türelmesen, de a panoráma kárpótolni fog mindenért.",
+            "ro": "Conduceți pe deal până la acest parc natural; parcarea este mică, deci aveți răbdare, dar priveliștea de sus vă va răsplăti din plin.",
+            "en": "Drive up the hill to this fantastic natural viewpoint; the parking lot is small, so practice patience as the incredible panoramic views will reward you."
+          }
+        },
+        {
+          "name": {
+            "de": "Amado Nervo",
+            "hu": "Amado Nervo",
+            "ro": "Amado Nervo",
+            "en": "Amado Nervo"
+          },
+          "coords": [
+            -104.894723,
+            21.491052
+          ],
+          "category": "historical",
+          "arrive_at": "14:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Halten Sie am Nervo-Denkmal im südlichen Teil der Stadt an; es ist ein perfekter Ort, um der Poesie dieses großen Schriftstellers Tribut zu zollen.",
+            "hu": "Álljon meg a Nervo-emlékműnél a város déli részén; ez a tökéletes hely arra, hogy adózzon a nagy mexikói író csodálatos költészetének emléke előtt.",
+            "ro": "Opriți la monumentul Nervo din partea de sud a orașului; este locul perfect pentru a aduce un omagiu poeziei acestui mare scriitor mexican.",
+            "en": "Stop at the Nervo Monument in the southern part of the city; it is a perfect spot to pay tribute to the enduring poetry of this great Mexican writer."
+          }
+        },
+        {
+          "name": {
+            "de": "Maxiletras Tepic",
+            "hu": "Maxiletras Tepic",
+            "ro": "Maxiletras Tepic",
+            "en": "Maxiletras Tepic"
+          },
+          "coords": [
+            -104.833963,
+            21.465777
+          ],
+          "category": "historical",
+          "arrive_at": "15:39",
+          "stay_min": 110,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an den bunten Stadtschriftzügen am südlichen Rand; positionieren Sie sich richtig, um das perfekte Souvenirfoto mit allen Buchstaben zu schießen.",
+            "hu": "Zárja a napot a város déli peremén található színes Tepic feliratnál; helyezkedjen el jól, hogy mind a lenyűgöző betűk ráférjenek a tökéletes szuvenírfotóra.",
+            "ro": "Încheiați ziua la literele colorate ale orașului de la marginea sudică; poziționați-vă corect pentru a obține fotografia suvenir perfectă cu întregul nume.",
+            "en": "End your day at the colorful city letters on the southern edge; make sure to position yourself well to capture the perfect souvenir photo with every letter."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unsere Fahrt beginnt im Norden von Tepic mit der faszinierenden Industriegeschichte der Ex-Fábrica Textil de Bellavista und der nahegelegenen La Cuadra. Gegen Mittag fahren wir ins Herz der Stadt, um das Erbe von Amado Nervo in seinem Geburtshaus zu ehren. Der Nachmittag führt uns bergauf zur Zitacua, wo uns ein spektakulärer Blick über Tepic erwartet. Zum Abschluss cruisen wir in den Süden zum Nervo-Denkmal und beenden den Roadtrip mit einem bunten Erinnerungsfoto an den Maxiletras.",
+        "hu": "Utunk Tepic északi részén, a Bellavista textilgyár lenyűgöző ipari romjainál és a La Cuadránál indul. Délben a belvárosba autózunk, hogy megtekintsük Amado Nervo szülőházát és tisztelegjünk az irodalom előtt. Délután felkapaszkodunk a Zitacua kilátójához egy látványos városi panorámáért. Végül dél felé vesszük az irányt a Nervo-emlékműhöz, majd a napot a Tepic óriásbetűinél lőtt tökéletes emlékfotóval zárjuk.",
+        "ro": "Traseul auto începe în nord cu istoria industrială fascinantă de la fosta fabrică de textile Bellavista și La Cuadra. La prânz conducem spre centrul orașului pentru a onora moștenirea lui Amado Nervo vizitându-i casa memorială. După-amiaza urcăm cu mașina spre Zitacua pentru a admira priveliștea spectaculoasă a orașului de sus. Călătoria se încheie în sud la monumentul Nervo și cu o fotografie de neuitat la literele colorate Maxiletras.",
+        "en": "Our drive begins in the north of Tepic with the fascinating industrial history of the Ex-Fábrica Textil de Bellavista and nearby La Cuadra. At midday, we navigate into the city's heart to honor the literary legacy at Casa Museo Amado Nervo. The afternoon takes us driving uphill to the Zitacua natural area for spectacular city views. We finally cruise south to the Nervo Monument and conclude our road trip snapping a colorful souvenir photo at the Maxiletras."
+      }
+    }
+  }
+}

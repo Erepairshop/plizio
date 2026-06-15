@@ -1,0 +1,497 @@
+{
+  "city_id": "franqueville-saint-pierre",
+  "anchor": {
+    "name": "Franqueville-Saint-Pierre",
+    "coords": [
+      1.18,
+      49.4011
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:55",
+      "total_km": 4.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Pierre Church",
+            "hu": "Saint-Pierre Church",
+            "ro": "Saint-Pierre Church",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            1.179812,
+            49.399981
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne Architektur der Saint-Pierre Kirche und betrachten Sie die Buntglasfenster, bevor Sie sich auf den Bänken ausruhen und die Ruhe genießen.",
+            "hu": "Csodálja meg a Saint-Pierre templom gyönyörű építészetét és figyelje meg az ólomüveg ablakokat, majd pihenjen egyet a közeli padokon, hogy élvezze a csendet.",
+            "ro": "Admirați arhitectura frumoasă a bisericii Saint-Pierre și priviți vitraliile, apoi odihniți-vă scurt pe băncile din apropiere pentru a vă relaxa complet în liniște.",
+            "en": "Admire the beautiful architecture of Saint-Pierre Church and look closely at the stained glass windows, then rest briefly on the nearby benches to enjoy the calm."
+          }
+        },
+        {
+          "name": {
+            "de": "Centre Culturel Bourvil",
+            "hu": "Centre Culturel Bourvil",
+            "ro": "Centre Culturel Bourvil",
+            "en": "Centre Culturel Bourvil"
+          },
+          "coords": [
+            1.17171,
+            49.401848
+          ],
+          "category": "cultural",
+          "arrive_at": "09:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Ausstellungen in diesem Bourvil gewidmeten Kulturzentrum und prüfen Sie den Tagesplan auf lokale Aufführungen, die heute stattfinden könnten.",
+            "hu": "Fedezze fel a Bourvilnak szentelt kulturális központ kiállításait, és ellenőrizze a napi menetrendet a helyi művészeti előadásokért, amelyek ma is megtekinthetők.",
+            "ro": "Explorați expozițiile atractive de la acest centru cultural dedicat lui Bourvil și verificați programul zilnic pentru spectacole de artă locală care ar putea avea loc astăzi.",
+            "en": "Explore the engaging exhibits at this cultural center dedicated to Bourvil, and check the daily schedule for any special local art performances happening today."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame Church",
+            "hu": "Notre-Dame Church",
+            "ro": "Notre-Dame Church",
+            "en": "Notre-Dame Church"
+          },
+          "coords": [
+            1.175633,
+            49.401916
+          ],
+          "category": "religious",
+          "arrive_at": "11:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betreten Sie die Notre-Dame Kirche, um die friedliche Atmosphäre und den historischen Altar zu erleben, und sprechen Sie während des Besuchs leise, um andere nicht zu stören.",
+            "hu": "Lépjen be a Notre-Dame templomba, hogy átélje békés hangulatát és történelmi oltárképét, de ügyeljen arra, hogy csendben maradjon a nyugodt látogatás alatt.",
+            "ro": "Intrați în biserica Notre-Dame pentru a experimenta atmosfera sa pașnică și retablul istoric, asigurându-vă că vorbiți încet în timpul vizitei dumneavoastră relaxante.",
+            "en": "Step inside Notre-Dame Church to experience its peaceful atmosphere and historic altarpiece, making sure to keep your voice down during your tranquil visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Franqueville Town Hall",
+            "hu": "Franqueville Town Hall",
+            "ro": "Franqueville Town Hall",
+            "en": "Franqueville Town Hall"
+          },
+          "coords": [
+            1.158929,
+            49.403127
+          ],
+          "category": "civic",
+          "arrive_at": "12:42",
+          "stay_min": 25,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Betrachten Sie die bürgerliche Architektur des Rathauses, das als lokales Verwaltungszentrum dient, und machen Sie ein schnelles Foto vom Vorplatz als schöne Erinnerung an den Tag.",
+            "hu": "Tekintse meg a helyi közigazgatási központként szolgáló városháza polgári építészetét, és készítsen egy gyors fotót az előtte lévő térről szép emlékként.",
+            "ro": "Vizualizați arhitectura civică a Primăriei care servește drept centru administrativ local și faceți o fotografie rapidă din piața din față ca amintire a vizitei dumneavoastră.",
+            "en": "View the civic architecture of the Franqueville Town Hall which serves as the local administrative hub, and snap a quick photo from the front plaza for your memories."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre-et-Saint-Laurent",
+            "hu": "Église Saint-Pierre-et-Saint-Laurent",
+            "ro": "Église Saint-Pierre-et-Saint-Laurent",
+            "en": "Église Saint-Pierre-et-Saint-Laurent"
+          },
+          "coords": [
+            1.155619,
+            49.381083
+          ],
+          "category": "religious",
+          "arrive_at": "13:45",
+          "stay_min": 70,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese Kirche mit zwei Schutzpatronen wegen ihres rustikalen Charmes und kommen Sie am späten Nachmittag für das beste Fotolicht, das die alten Steine wunderbar betont.",
+            "hu": "Látogassa meg ezt a két védőszenttel rendelkező templomot rusztikus varázsáért, és próbáljon késő délután érkezni, amikor a fények gyönyörűen kiemelik a köveket.",
+            "ro": "Vizitați această biserică cu dublu hram pentru a vedea farmecul său rustic unic și încercați să sosiți după-amiaza târziu pentru o lumină perfectă care evidențiază zidăria veche.",
+            "en": "Visit this dual-patron church to see its unique rustic charm, and try to visit in the late afternoon when the beautiful lighting highlights the old stonework perfectly."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Bewunderung der historischen Saint-Pierre Kirche und genießen Sie die ruhige lokale Atmosphäre. Am Mittag erkunden Sie die Kulturszene im Centre Culturel Bourvil, gefolgt von der Notre-Dame Kirche. Ihr Nachmittag führt Sie zum zentralen Rathaus von Franqueville. Beenden Sie Ihren Rundgang an der rustikalen Église Saint-Pierre-et-Saint-Laurent am Abend.",
+        "hu": "Kezdje a reggelt a történelmi Saint-Pierre templom megcsodálásával, elmerülve a csendes helyi hangulatban. Délben fedezze fel a Centre Culturel Bourvil kulturális kínálatát, majd pihenjen a Notre-Dame templomnál. A délután folyamán látogasson el a központi városházához. Sétája a rusztikus Église Saint-Pierre-et-Saint-Laurent templomnál ér véget az este közeledtével.",
+        "ro": "Începeți dimineața admirând biserica istorică Saint-Pierre, bucurându-vă de atmosfera locală liniștită. La prânz, explorați scena culturală la Centre Culturel Bourvil, urmată de o oprire la biserica Notre-Dame. După-amiaza continuă cu o vizită la Primăria centrală. Încheiați turul pietonal la rustica Église Saint-Pierre-et-Saint-Laurent, odată cu lăsarea serii.",
+        "en": "Begin your morning by admiring the historic Saint-Pierre Church, soaking in the quiet local atmosphere. By midday, dive into the cultural scene at Centre Culturel Bourvil, followed by a serene stop at Notre-Dame Church. Your afternoon continues with a visit to the central Franqueville Town Hall. End your walking tour at the rustic Église Saint-Pierre-et-Saint-Laurent as evening approaches."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:11",
+      "total_km": 8.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Pierre Church",
+            "hu": "Saint-Pierre Church",
+            "ro": "Saint-Pierre Church",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            1.179812,
+            49.399981
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne Architektur der Saint-Pierre Kirche und betrachten Sie die Buntglasfenster, bevor Sie sich auf den Bänken ausruhen und die Ruhe genießen.",
+            "hu": "Csodálja meg a Saint-Pierre templom gyönyörű építészetét és figyelje meg az ólomüveg ablakokat, majd pihenjen egyet a közeli padokon, hogy élvezze a csendet.",
+            "ro": "Admirați arhitectura frumoasă a bisericii Saint-Pierre și priviți vitraliile, apoi odihniți-vă scurt pe băncile din apropiere pentru a vă relaxa complet în liniște.",
+            "en": "Admire the beautiful architecture of Saint-Pierre Church and look closely at the stained glass windows, then rest briefly on the nearby benches to enjoy the calm."
+          }
+        },
+        {
+          "name": {
+            "de": "Centre Culturel Bourvil",
+            "hu": "Centre Culturel Bourvil",
+            "ro": "Centre Culturel Bourvil",
+            "en": "Centre Culturel Bourvil"
+          },
+          "coords": [
+            1.17171,
+            49.401848
+          ],
+          "category": "cultural",
+          "arrive_at": "09:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Ausstellungen in diesem Bourvil gewidmeten Kulturzentrum und prüfen Sie den Tagesplan auf lokale Aufführungen, die heute stattfinden könnten.",
+            "hu": "Fedezze fel a Bourvilnak szentelt kulturális központ kiállításait, és ellenőrizze a napi menetrendet a helyi művészeti előadásokért, amelyek ma is megtekinthetők.",
+            "ro": "Explorați expozițiile atractive de la acest centru cultural dedicat lui Bourvil și verificați programul zilnic pentru spectacole de artă locală care ar putea avea loc astăzi.",
+            "en": "Explore the engaging exhibits at this cultural center dedicated to Bourvil, and check the daily schedule for any special local art performances happening today."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame Church",
+            "hu": "Notre-Dame Church",
+            "ro": "Notre-Dame Church",
+            "en": "Notre-Dame Church"
+          },
+          "coords": [
+            1.175633,
+            49.401916
+          ],
+          "category": "religious",
+          "arrive_at": "11:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betreten Sie die Notre-Dame Kirche, um die friedliche Atmosphäre und den historischen Altar zu erleben, und sprechen Sie während des Besuchs leise, um andere nicht zu stören.",
+            "hu": "Lépjen be a Notre-Dame templomba, hogy átélje békés hangulatát és történelmi oltárképét, de ügyeljen arra, hogy csendben maradjon a nyugodt látogatás alatt.",
+            "ro": "Intrați în biserica Notre-Dame pentru a experimenta atmosfera sa pașnică și retablul istoric, asigurându-vă că vorbiți încet în timpul vizitei dumneavoastră relaxante.",
+            "en": "Step inside Notre-Dame Church to experience its peaceful atmosphere and historic altarpiece, making sure to keep your voice down during your tranquil visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Aubin",
+            "hu": "Église Saint-Aubin",
+            "ro": "Église Saint-Aubin",
+            "en": "Église Saint-Aubin"
+          },
+          "coords": [
+            1.178397,
+            49.421726
+          ],
+          "category": "religious",
+          "arrive_at": "12:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die charmante Kirche Saint-Aubin mit ihrem lokalen Stil und nehmen Sie sich einen Moment Zeit für einen Spaziergang um den Kirchhof, um die friedvolle Umgebung zu genießen.",
+            "hu": "Fedezze fel a bájos Église Saint-Aubin templomot jellegzetes helyi stílusával, és szánjon egy percet a festői környező templomkert bejárására sétálva.",
+            "ro": "Descoperiți fermecătoarea biserică Saint-Aubin cu stilul său local distinct și faceți o plimbare scurtă prin curtea pitorească din împrejurimi pentru a vă bucura de atmosfera de liniște.",
+            "en": "Discover the charming Église Saint-Aubin with its distinct local style, and take a moment to stroll around the quaint surrounding churchyard grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Franqueville Town Hall",
+            "hu": "Franqueville Town Hall",
+            "ro": "Franqueville Town Hall",
+            "en": "Franqueville Town Hall"
+          },
+          "coords": [
+            1.158929,
+            49.403127
+          ],
+          "category": "civic",
+          "arrive_at": "13:22",
+          "stay_min": 25,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Betrachten Sie die bürgerliche Architektur des Rathauses, das als lokales Verwaltungszentrum dient, und machen Sie ein schnelles Foto vom Vorplatz als schöne Erinnerung an den Tag.",
+            "hu": "Tekintse meg a helyi közigazgatási központként szolgáló városháza polgári építészetét, és készítsen egy gyors fotót az előtte lévő térről szép emlékként.",
+            "ro": "Vizualizați arhitectura civică a Primăriei care servește drept centru administrativ local și faceți o fotografie rapidă din piața din față ca amintire a vizitei dumneavoastră.",
+            "en": "View the civic architecture of the Franqueville Town Hall which serves as the local administrative hub, and snap a quick photo from the front plaza for your memories."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre-et-Saint-Laurent",
+            "hu": "Église Saint-Pierre-et-Saint-Laurent",
+            "ro": "Église Saint-Pierre-et-Saint-Laurent",
+            "en": "Église Saint-Pierre-et-Saint-Laurent"
+          },
+          "coords": [
+            1.155619,
+            49.381083
+          ],
+          "category": "religious",
+          "arrive_at": "14:01",
+          "stay_min": 70,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese Kirche mit zwei Schutzpatronen wegen ihres rustikalen Charmes und kommen Sie am späten Nachmittag für das beste Fotolicht, das die alten Steine wunderbar betont.",
+            "hu": "Látogassa meg ezt a két védőszenttel rendelkező templomot rusztikus varázsáért, és próbáljon késő délután érkezni, amikor a fények gyönyörűen kiemelik a köveket.",
+            "ro": "Vizitați această biserică cu dublu hram pentru a vedea farmecul său rustic unic și încercați să sosiți după-amiaza târziu pentru o lumină perfectă care evidențiază zidăria veche.",
+            "en": "Visit this dual-patron church to see its unique rustic charm, and try to visit in the late afternoon when the beautiful lighting highlights the old stonework perfectly."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an der Saint-Pierre Kirche, bevor Sie zum inspirierenden Centre Culturel Bourvil radeln. Mittags besuchen Sie die friedliche Notre-Dame Kirche und fahren nach Norden zur Église Saint-Aubin. Gleiten Sie am Nachmittag sanft am Rathaus vorbei. Beenden Sie Ihren aktiven Tag an der Église Saint-Pierre-et-Saint-Laurent im goldenen Abendlicht.",
+        "hu": "Kezdje kerékpáros útját a Saint-Pierre templomnál, mielőtt az inspiráló Centre Culturel Bourvil felé pedálozna. Dél körül látogassa meg a Notre-Dame templomot, majd tekerjen északra az Église Saint-Aubin felé. Délután guruljon el a városháza mellett. Zárja aktív napját az Église Saint-Pierre-et-Saint-Laurent megcsodálásával a késő délutáni aranyfényben.",
+        "ro": "Începeți călătoria cu bicicleta la biserica Saint-Pierre înainte de a pedala spre inspirantul Centre Culturel Bourvil. În jurul prânzului, vizitați biserica Notre-Dame și apoi mergeți spre nord la Église Saint-Aubin. După-amiaza, treceți ușor pe lângă Primăria Franqueville. Încheiați-vă ziua activă minunându-vă de Église Saint-Pierre-et-Saint-Laurent în lumina de seară.",
+        "en": "Kick off your cycling journey at Saint-Pierre Church before pedaling to the inspiring Centre Culturel Bourvil. Around noon, visit the peaceful Notre-Dame Church and then ride north to the quaint Église Saint-Aubin. In the afternoon, smoothly glide past the Franqueville Town Hall. Conclude your active day by marveling at Église Saint-Pierre-et-Saint-Laurent in the golden late-day light."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:02",
+      "total_km": 18.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Sauveur",
+            "hu": "Église Saint-Sauveur",
+            "ro": "Église Saint-Sauveur",
+            "en": "Église Saint-Sauveur"
+          },
+          "coords": [
+            1.202067,
+            49.385759
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Tour an der Église Saint-Sauveur, um ihren robusten Glockenturm zu bewundern, und bringen Sie eine leichte Jacke für das kühle Innere mit.",
+            "hu": "Kezdje építészeti túráját a Saint-Sauveur templomnál a masszív harangtorony megcsodálásával, de hozzon magával kabátot, mert bent hűvös huzat lehet.",
+            "ro": "Începeți turul arhitectural la Église Saint-Sauveur pentru a admira turnul său robust, dar aduceți o jachetă, deoarece poate fi curent rece în interior.",
+            "en": "Start your architectural tour at Église Saint-Sauveur to appreciate its sturdy bell tower, but remember to bring a light jacket as it can be drafty inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Pierre Church",
+            "hu": "Saint-Pierre Church",
+            "ro": "Saint-Pierre Church",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            1.179812,
+            49.399981
+          ],
+          "category": "religious",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne Architektur der Saint-Pierre Kirche und betrachten Sie die Buntglasfenster, bevor Sie sich auf den Bänken ausruhen und die Ruhe genießen.",
+            "hu": "Csodálja meg a Saint-Pierre templom gyönyörű építészetét és figyelje meg az ólomüveg ablakokat, majd pihenjen egyet a közeli padokon, hogy élvezze a csendet.",
+            "ro": "Admirați arhitectura frumoasă a bisericii Saint-Pierre și priviți vitraliile, apoi odihniți-vă scurt pe băncile din apropiere pentru a vă relaxa complet în liniște.",
+            "en": "Admire the beautiful architecture of Saint-Pierre Church and look closely at the stained glass windows, then rest briefly on the nearby benches to enjoy the calm."
+          }
+        },
+        {
+          "name": {
+            "de": "Centre Culturel Bourvil",
+            "hu": "Centre Culturel Bourvil",
+            "ro": "Centre Culturel Bourvil",
+            "en": "Centre Culturel Bourvil"
+          },
+          "coords": [
+            1.17171,
+            49.401848
+          ],
+          "category": "cultural",
+          "arrive_at": "10:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Ausstellungen in diesem Bourvil gewidmeten Kulturzentrum und prüfen Sie den Tagesplan auf lokale Aufführungen, die heute stattfinden könnten.",
+            "hu": "Fedezze fel a Bourvilnak szentelt kulturális központ kiállításait, és ellenőrizze a napi menetrendet a helyi művészeti előadásokért, amelyek ma is megtekinthetők.",
+            "ro": "Explorați expozițiile atractive de la acest centru cultural dedicat lui Bourvil și verificați programul zilnic pentru spectacole de artă locală care ar putea avea loc astăzi.",
+            "en": "Explore the engaging exhibits at this cultural center dedicated to Bourvil, and check the daily schedule for any special local art performances happening today."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame Church",
+            "hu": "Notre-Dame Church",
+            "ro": "Notre-Dame Church",
+            "en": "Notre-Dame Church"
+          },
+          "coords": [
+            1.175633,
+            49.401916
+          ],
+          "category": "religious",
+          "arrive_at": "12:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betreten Sie die Notre-Dame Kirche, um die friedliche Atmosphäre und den historischen Altar zu erleben, und sprechen Sie während des Besuchs leise, um andere nicht zu stören.",
+            "hu": "Lépjen be a Notre-Dame templomba, hogy átélje békés hangulatát és történelmi oltárképét, de ügyeljen arra, hogy csendben maradjon a nyugodt látogatás alatt.",
+            "ro": "Intrați în biserica Notre-Dame pentru a experimenta atmosfera sa pașnică și retablul istoric, asigurându-vă că vorbiți încet în timpul vizitei dumneavoastră relaxante.",
+            "en": "Step inside Notre-Dame Church to experience its peaceful atmosphere and historic altarpiece, making sure to keep your voice down during your tranquil visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Aubin",
+            "hu": "Église Saint-Aubin",
+            "ro": "Église Saint-Aubin",
+            "en": "Église Saint-Aubin"
+          },
+          "coords": [
+            1.178397,
+            49.421726
+          ],
+          "category": "religious",
+          "arrive_at": "13:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die charmante Kirche Saint-Aubin mit ihrem lokalen Stil und nehmen Sie sich einen Moment Zeit für einen Spaziergang um den Kirchhof, um die friedvolle Umgebung zu genießen.",
+            "hu": "Fedezze fel a bájos Église Saint-Aubin templomot jellegzetes helyi stílusával, és szánjon egy percet a festői környező templomkert bejárására sétálva.",
+            "ro": "Descoperiți fermecătoarea biserică Saint-Aubin cu stilul său local distinct și faceți o plimbare scurtă prin curtea pitorească din împrejurimi pentru a vă bucura de atmosfera de liniște.",
+            "en": "Discover the charming Église Saint-Aubin with its distinct local style, and take a moment to stroll around the quaint surrounding churchyard grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Franqueville Town Hall",
+            "hu": "Franqueville Town Hall",
+            "ro": "Franqueville Town Hall",
+            "en": "Franqueville Town Hall"
+          },
+          "coords": [
+            1.158929,
+            49.403127
+          ],
+          "category": "civic",
+          "arrive_at": "13:49",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Betrachten Sie die bürgerliche Architektur des Rathauses, das als lokales Verwaltungszentrum dient, und machen Sie ein schnelles Foto vom Vorplatz als schöne Erinnerung an den Tag.",
+            "hu": "Tekintse meg a helyi közigazgatási központként szolgáló városháza polgári építészetét, és készítsen egy gyors fotót az előtte lévő térről szép emlékként.",
+            "ro": "Vizualizați arhitectura civică a Primăriei care servește drept centru administrativ local și faceți o fotografie rapidă din piața din față ca amintire a vizitei dumneavoastră.",
+            "en": "View the civic architecture of the Franqueville Town Hall which serves as the local administrative hub, and snap a quick photo from the front plaza for your memories."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre-et-Saint-Laurent",
+            "hu": "Église Saint-Pierre-et-Saint-Laurent",
+            "ro": "Église Saint-Pierre-et-Saint-Laurent",
+            "en": "Église Saint-Pierre-et-Saint-Laurent"
+          },
+          "coords": [
+            1.155619,
+            49.381083
+          ],
+          "category": "religious",
+          "arrive_at": "14:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese Kirche mit zwei Schutzpatronen wegen ihres rustikalen Charmes und kommen Sie am späten Nachmittag für das beste Fotolicht, das die alten Steine wunderbar betont.",
+            "hu": "Látogassa meg ezt a két védőszenttel rendelkező templomot rusztikus varázsáért, és próbáljon késő délután érkezni, amikor a fények gyönyörűen kiemelik a köveket.",
+            "ro": "Vizitați această biserică cu dublu hram pentru a vedea farmecul său rustic unic și încercați să sosiți după-amiaza târziu pentru o lumină perfectă care evidențiază zidăria veche.",
+            "en": "Visit this dual-patron church to see its unique rustic charm, and try to visit in the late afternoon when the beautiful lighting highlights the old stonework perfectly."
+          }
+        },
+        {
+          "name": {
+            "de": "Plateaux du Rouennais",
+            "hu": "Plateaux du Rouennais",
+            "ro": "Plateaux du Rouennais",
+            "en": "Plateaux du Rouennais"
+          },
+          "coords": [
+            1.098393,
+            49.441038
+          ],
+          "category": "natural",
+          "arrive_at": "15:17",
+          "stay_min": 105,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 7.8,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die wunderschönen Naturlandschaften des Plateaux du Rouennais für den Panoramablick und tragen Sie bequeme Schuhe für die unebenen Wanderwege.",
+            "hu": "Túrázzon a Plateaux du Rouennais gyönyörű természeti tájain a lenyűgöző panorámás kilátásért, és viseljen kényelmes sétacipőt a poros és egyenetlen ösvényeken.",
+            "ro": "Faceți drumeții prin peisajele naturale frumoase de pe Plateaux du Rouennais pentru vederi panoramice și purtați încălțăminte confortabilă pentru trasee de pământ.",
+            "en": "Hike through the beautiful natural landscapes of Plateaux du Rouennais to enjoy panoramic views, and wear comfortable walking shoes for the dusty trails."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Roadtrip an der südlichen Église Saint-Sauveur und fahren Sie dann zur Saint-Pierre Kirche. Verbringen Sie die Mittagszeit im Centre Culturel Bourvil und an der Notre-Dame Kirche. Erkunden Sie am Nachmittag die Église Saint-Aubin, das Rathaus und die Église Saint-Pierre-et-Saint-Laurent. Beenden Sie den Tag auf dem Plateaux du Rouennais.",
+        "hu": "Kezdje autós útját a déli Église Saint-Sauveur templomnál, majd hajtson a Saint-Pierre templomhoz. A telet a Centre Culturel Bourvil és a Notre-Dame templom felfedezésével töltheti. Délután látogassa meg a Saint-Aubin templomot, a városházát és a Saint-Pierre-et-Saint-Laurent templomot. Fejezze be a napot egy esti túrával a Plateaux du Rouennais területén.",
+        "ro": "Începeți excursia cu mașina la Église Saint-Sauveur din sud, apoi conduceți până la frumoasa biserică Saint-Pierre. Petreceți prânzul cufundându-vă în artă la Centre Culturel Bourvil și vizitând biserica Notre-Dame. După-amiaza, explorați Église Saint-Aubin, Primăria și Église Saint-Pierre-et-Saint-Laurent. Finalizați cu o drumeție de seară la Plateaux du Rouennais.",
+        "en": "Start your road trip at the southern Église Saint-Sauveur, then drive to the beautiful Saint-Pierre Church. Spend midday immersing yourself in art at Centre Culturel Bourvil and checking out Notre-Dame Church. In the afternoon, explore Église Saint-Aubin, the Town Hall, and Église Saint-Pierre-et-Saint-Laurent. Finish with an evening hike and sunset views at Plateaux du Rouennais."
+      }
+    }
+  }
+}

@@ -1,0 +1,451 @@
+{
+  "city_id": "nerac",
+  "anchor": {
+    "name": "Nérac",
+    "coords": [
+      0.3394,
+      44.1361
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:05",
+      "total_km": 1.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Nérac Markthallen",
+            "hu": "Néraci Vásárcsarnok",
+            "ro": "Halele Pieței din Nérac",
+            "en": "Nérac Market Halls"
+          },
+          "coords": [
+            0.338826,
+            44.135817
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Architektur der Markthallen, die das Herz des städtischen Handels bilden, und besuchen Sie sie am besten früh morgens für frische regionale Produkte.",
+            "hu": "Csodálja meg a történelmi vásárcsarnok építészetét, amely a városi kereskedelem szíve, és érkezzen kora reggel a legfrissebb helyi termékekért.",
+            "ro": "Admirați arhitectura istorică a halelor pieței, inima comerțului urban, și vizitați-le devreme dimineața pentru a găsi cele mai proaspete produse locale.",
+            "en": "Admire the historic architecture of the market halls, the heart of urban trade, and arrive early in the morning to grab the freshest regional products."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Nicolas Kirche",
+            "hu": "Saint-Nicolas Templom",
+            "ro": "Biserica Saint-Nicolas",
+            "en": "Saint-Nicolas Church"
+          },
+          "coords": [
+            0.340308,
+            44.135801
+          ],
+          "category": "religious",
+          "arrive_at": "10:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die prächtigen Buntglasfenster dieser Kirche, ein wahres Meisterwerk sakraler Kunst, und achten Sie besonders auf die feinen Details des Altars.",
+            "hu": "Csodálja meg e templom lenyűgöző ólomüveg ablakait, a szakrális művészet remekműveit, és figyelje meg az oltár finoman kidolgozott részleteit.",
+            "ro": "Admirați vitraliile magnifice ale acestei biserici, o capodoperă a artei sacre, și acordați o atenție deosebită detaliilor fine ale altarului principal.",
+            "en": "Marvel at the magnificent stained-glass windows of this church, a masterpiece of sacred art, and pay special attention to the fine details of the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame",
+            "hu": "Église Notre-Dame",
+            "ro": "Église Notre-Dame",
+            "en": "Église Notre-Dame"
+          },
+          "coords": [
+            0.344168,
+            44.137031
+          ],
+          "category": "religious",
+          "arrive_at": "10:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Atmosphäre und die gotischen Elemente dieser Kirche, die zur Kontemplation einladen, während Sie die Akustik im Hauptschiff genießen.",
+            "hu": "Fedezze fel a templom békés atmoszféráját és gótikus elemeit, amelyek elmélyülésre hívnak, miközben élvezi a főhajó kiváló akusztikáját.",
+            "ro": "Descoperiți atmosfera liniștită și elementele gotice ale acestei biserici, ideale pentru contemplare, în timp ce vă bucurați de acustica navei centrale.",
+            "en": "Discover the peaceful atmosphere and gothic elements of this church, inviting contemplation, while enjoying the excellent acoustics in the main nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Garenne Park",
+            "hu": "Garenne Park",
+            "ro": "Parcul Garenne",
+            "en": "Garenne Park"
+          },
+          "coords": [
+            0.341444,
+            44.134861
+          ],
+          "category": "natural",
+          "arrive_at": "11:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die königlichen Gärten dieses herrlichen Parks, einst Rückzugsort von Heinrich IV, und bringen Sie bequeme Schuhe für die schattigen Waldwege mit.",
+            "hu": "Sétáljon végig a csodálatos park királyi kertjein, amely egykor IV. Henrik menedéke volt, és viseljen kényelmes cipőt az árnyékos erdei ösvényeken.",
+            "ro": "Plimbați-vă prin grădinile regale ale acestui parc magnific, odinioară refugiul lui Henric al IV-lea, și purtați pantofi comozi pentru aleile împădurite.",
+            "en": "Stroll through the royal gardens of this magnificent park, once the retreat of Henry IV, and bring comfortable shoes for the shaded woodland paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Protestantische Kirche",
+            "hu": "Protestáns Templom",
+            "ro": "Biserica Protestantă",
+            "en": "Église Protestante"
+          },
+          "coords": [
+            0.337395,
+            44.13348
+          ],
+          "category": "religious",
+          "arrive_at": "12:55",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die reiche hugenottische Geschichte der Region in dieser schlichten, aber eleganten Kirche, und prüfen Sie vorab die aktuellen Öffnungszeiten.",
+            "hu": "Ismerje meg a régió gazdag hugenotta történelmét ebben az egyszerű, de elegáns templomban, és előzetesen ellenőrizze az aktuális nyitvatartási időt.",
+            "ro": "Aflați despre istoria bogată a hughenoților din regiune în această biserică simplă, dar elegantă, și verificați în prealabil programul de vizitare.",
+            "en": "Learn about the rich Huguenot history of the region in this simple yet elegant church, and make sure to check the current opening hours beforehand."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Am Morgen erkunden wir die historischen Markthallen und die charmante Kirche Saint-Nicolas. Mittags schlendern wir gemütlich zur majestätischen Église Notre-Dame im Stadtzentrum. Der Nachmittag ist geprägt von einem entspannten Spaziergang durch den königlichen Garenne Park. Wir lassen den Tag an der historischen protestantischen Kirche ruhig ausklingen.",
+        "hu": "Reggel felfedezzük a történelmi vásárcsarnokot és a bájos Saint-Nicolas templomot. Délben kényelmesen elsétálunk a városközpontban található fenséges Église Notre-Dame-hoz. A délutánt a királyi Garenne Parkban tett pihentető séta határozza meg. A napot a történelmi protestáns templom csendes megtekintésével zárjuk.",
+        "ro": "Dimineața explorăm halele istorice ale pieței și fermecătoarea biserică Saint-Nicolas. La prânz ne plimbăm pe îndelete spre maiestuoasa Église Notre-Dame din centru. După-amiaza este marcată de o plimbare relaxantă prin parcul regal Garenne. Încheiem ziua liniștit la istorica biserică protestantă.",
+        "en": "In the morning, we explore the historic market halls and the charming Saint-Nicolas Church. At noon, we stroll leisurely to the majestic Église Notre-Dame in the city center. The afternoon is defined by a relaxing walk through the royal Garenne Park. We end the day quietly at the historic Protestant church."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:39",
+      "total_km": 2.05,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Protestantische Kirche",
+            "hu": "Protestáns Templom",
+            "ro": "Biserica Protestantă",
+            "en": "Église Protestante"
+          },
+          "coords": [
+            0.337395,
+            44.13348
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die reiche hugenottische Geschichte der Region in dieser schlichten, aber eleganten Kirche, und prüfen Sie vorab die aktuellen Öffnungszeiten.",
+            "hu": "Ismerje meg a régió gazdag hugenotta történelmét ebben az egyszerű, de elegáns templomban, és előzetesen ellenőrizze az aktuális nyitvatartási időt.",
+            "ro": "Aflați despre istoria bogată a hughenoților din regiune în această biserică simplă, dar elegantă, și verificați în prealabil programul de vizitare.",
+            "en": "Learn about the rich Huguenot history of the region in this simple yet elegant church, and make sure to check the current opening hours beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Nérac Markthallen",
+            "hu": "Néraci Vásárcsarnok",
+            "ro": "Halele Pieței din Nérac",
+            "en": "Nérac Market Halls"
+          },
+          "coords": [
+            0.338826,
+            44.135817
+          ],
+          "category": "civic",
+          "arrive_at": "09:52",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Architektur der Markthallen, die das Herz des städtischen Handels bilden, und besuchen Sie sie am besten früh morgens für frische regionale Produkte.",
+            "hu": "Csodálja meg a történelmi vásárcsarnok építészetét, amely a városi kereskedelem szíve, és érkezzen kora reggel a legfrissebb helyi termékekért.",
+            "ro": "Admirați arhitectura istorică a halelor pieței, inima comerțului urban, și vizitați-le devreme dimineața pentru a găsi cele mai proaspete produse locale.",
+            "en": "Admire the historic architecture of the market halls, the heart of urban trade, and arrive early in the morning to grab the freshest regional products."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Nicolas Kirche",
+            "hu": "Saint-Nicolas Templom",
+            "ro": "Biserica Saint-Nicolas",
+            "en": "Saint-Nicolas Church"
+          },
+          "coords": [
+            0.340308,
+            44.135801
+          ],
+          "category": "religious",
+          "arrive_at": "10:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die prächtigen Buntglasfenster dieser Kirche, ein wahres Meisterwerk sakraler Kunst, und achten Sie besonders auf die feinen Details des Altars.",
+            "hu": "Csodálja meg e templom lenyűgöző ólomüveg ablakait, a szakrális művészet remekműveit, és figyelje meg az oltár finoman kidolgozott részleteit.",
+            "ro": "Admirați vitraliile magnifice ale acestei biserici, o capodoperă a artei sacre, și acordați o atenție deosebită detaliilor fine ale altarului principal.",
+            "en": "Marvel at the magnificent stained-glass windows of this church, a masterpiece of sacred art, and pay special attention to the fine details of the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Garenne Park",
+            "hu": "Garenne Park",
+            "ro": "Parcul Garenne",
+            "en": "Garenne Park"
+          },
+          "coords": [
+            0.341444,
+            44.134861
+          ],
+          "category": "natural",
+          "arrive_at": "11:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die königlichen Gärten dieses herrlichen Parks, einst Rückzugsort von Heinrich IV, und bringen Sie bequeme Schuhe für die schattigen Waldwege mit.",
+            "hu": "Sétáljon végig a csodálatos park királyi kertjein, amely egykor IV. Henrik menedéke volt, és viseljen kényelmes cipőt az árnyékos erdei ösvényeken.",
+            "ro": "Plimbați-vă prin grădinile regale ale acestui parc magnific, odinioară refugiul lui Henric al IV-lea, și purtați pantofi comozi pentru aleile împădurite.",
+            "en": "Stroll through the royal gardens of this magnificent park, once the retreat of Henry IV, and bring comfortable shoes for the shaded woodland paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Lud'O Parc",
+            "hu": "Lud'O Parc",
+            "ro": "Lud'O Parc",
+            "en": "Lud'O Parc"
+          },
+          "coords": [
+            0.343572,
+            44.141841
+          ],
+          "category": "family",
+          "arrive_at": "12:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die Wasserspiele und Becken in diesem familienfreundlichen Park, der eine perfekte Abkühlung bietet, und mieten Sie sich frühzeitig einen Liegestuhl im Schatten.",
+            "hu": "Élvezze a vízi játékokat és medencéket ebben a családbarát parkban, amely tökéletes felfrissülést kínál, és béreljen időben napágyat az árnyékban.",
+            "ro": "Bucurați-vă de jocurile de apă și bazinele din acest parc prietenos cu familiile, perfect pentru o răcorire, și închiriați din timp un șezlong la umbră.",
+            "en": "Enjoy the water features and pools in this family-friendly park, offering a perfect cool-down, and rent a sun lounger in the shade early on."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame",
+            "hu": "Église Notre-Dame",
+            "ro": "Église Notre-Dame",
+            "en": "Église Notre-Dame"
+          },
+          "coords": [
+            0.344168,
+            44.137031
+          ],
+          "category": "religious",
+          "arrive_at": "14:29",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Atmosphäre und die gotischen Elemente dieser Kirche, die zur Kontemplation einladen, während Sie die Akustik im Hauptschiff genießen.",
+            "hu": "Fedezze fel a templom békés atmoszféráját és gótikus elemeit, amelyek elmélyülésre hívnak, miközben élvezi a főhajó kiváló akusztikáját.",
+            "ro": "Descoperiți atmosfera liniștită și elementele gotice ale acestei biserici, ideale pentru contemplare, în timp ce vă bucurați de acustica navei centrale.",
+            "en": "Discover the peaceful atmosphere and gothic elements of this church, inviting contemplation, while enjoying the excellent acoustics in the main nave."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen unsere Radtour an der Église Protestante und radeln zu den lebhaften Markthallen. Gegen Mittag erreichen wir die Kirche Saint-Nicolas und entspannen im Garenne Park. Am Nachmittag bringt uns eine kurze Fahrt zum Lud'O Parc für etwas Familienspaß. Der Ausflug endet mit einer ruhigen Fahrt zur imposanten Église Notre-Dame.",
+        "hu": "Kerékpártúránkat a protestáns templomnál kezdjük, majd az élénk vásárcsarnokhoz pedálozunk. Délkörül elérjük a Saint-Nicolas templomot, és a Garenne Parkban pihenünk. Délután egy rövid út a Lud'O Parcba vezet minket egy kis családi szórakozásra. A kirándulás a lenyűgöző Église Notre-Dame felé tett csendes tekeréssel zárul.",
+        "ro": "Începem turul cu bicicleta la Biserica Protestantă și pedalăm spre piața plină de viață. În jurul prânzului ajungem la biserica Saint-Nicolas și ne relaxăm în Parcul Garenne. După-amiaza, o scurtă plimbare ne duce la Lud'O Parc pentru distracție în familie. Excursia se termină cu o plimbare liniștită spre Église Notre-Dame.",
+        "en": "We start our bike tour at the Protestant Church and pedal to the bustling market halls. Around noon, we reach the Saint-Nicolas Church and relax in the Garenne Park. In the afternoon, a short ride takes us to Lud'O Parc for some family fun. The trip ends with a quiet ride to the impressive Église Notre-Dame."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:38",
+      "total_km": 9.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Nicolas Kirche",
+            "hu": "Saint-Nicolas Templom",
+            "ro": "Biserica Saint-Nicolas",
+            "en": "Saint-Nicolas Church"
+          },
+          "coords": [
+            0.340308,
+            44.135801
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die prächtigen Buntglasfenster dieser Kirche, ein wahres Meisterwerk sakraler Kunst, und achten Sie besonders auf die feinen Details des Altars.",
+            "hu": "Csodálja meg e templom lenyűgöző ólomüveg ablakait, a szakrális művészet remekműveit, és figyelje meg az oltár finoman kidolgozott részleteit.",
+            "ro": "Admirați vitraliile magnifice ale acestei biserici, o capodoperă a artei sacre, și acordați o atenție deosebită detaliilor fine ale altarului principal.",
+            "en": "Marvel at the magnificent stained-glass windows of this church, a masterpiece of sacred art, and pay special attention to the fine details of the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Garenne Park",
+            "hu": "Garenne Park",
+            "ro": "Parcul Garenne",
+            "en": "Garenne Park"
+          },
+          "coords": [
+            0.341444,
+            44.134861
+          ],
+          "category": "natural",
+          "arrive_at": "09:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die königlichen Gärten dieses herrlichen Parks, einst Rückzugsort von Heinrich IV, und bringen Sie bequeme Schuhe für die schattigen Waldwege mit.",
+            "hu": "Sétáljon végig a csodálatos park királyi kertjein, amely egykor IV. Henrik menedéke volt, és viseljen kényelmes cipőt az árnyékos erdei ösvényeken.",
+            "ro": "Plimbați-vă prin grădinile regale ale acestui parc magnific, odinioară refugiul lui Henric al IV-lea, și purtați pantofi comozi pentru aleile împădurite.",
+            "en": "Stroll through the royal gardens of this magnificent park, once the retreat of Henry IV, and bring comfortable shoes for the shaded woodland paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Lud'O Parc",
+            "hu": "Lud'O Parc",
+            "ro": "Lud'O Parc",
+            "en": "Lud'O Parc"
+          },
+          "coords": [
+            0.343572,
+            44.141841
+          ],
+          "category": "family",
+          "arrive_at": "11:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die Wasserspiele und Becken in diesem familienfreundlichen Park, der eine perfekte Abkühlung bietet, und mieten Sie sich frühzeitig einen Liegestuhl im Schatten.",
+            "hu": "Élvezze a vízi játékokat és medencéket ebben a családbarát parkban, amely tökéletes felfrissülést kínál, és béreljen időben napágyat az árnyékban.",
+            "ro": "Bucurați-vă de jocurile de apă și bazinele din acest parc prietenos cu familiile, perfect pentru o răcorire, și închiriați din timp un șezlong la umbră.",
+            "en": "Enjoy the water features and pools in this family-friendly park, offering a perfect cool-down, and rent a sun lounger in the shade early on."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Bournac",
+            "hu": "Château de Bournac",
+            "ro": "Château de Bournac",
+            "en": "Château de Bournac"
+          },
+          "coords": [
+            0.323967,
+            44.154398
+          ],
+          "category": "castle",
+          "arrive_at": "12:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Ruinen dieses historischen Schlosses, das tiefe Einblicke in die feudale Vergangenheit bietet, und bleiben Sie auf den markierten Wegen.",
+            "hu": "Fedezze fel e történelmi kastély lenyűgöző romjait, amelyek mély bepillantást engednek a feudális múltba, és maradjon mindig a kijelölt ösvényeken.",
+            "ro": "Explorați ruinele fascinante ale acestui castel istoric, care oferă o privire în trecutul feudal, și asigurați-vă că rămâneți pe potecile marcate.",
+            "en": "Explore the fascinating ruins of this historical castle, offering deep insights into the feudal past, and make sure to stay on the marked pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Lagrange-Monrepos",
+            "hu": "Château de Lagrange-Monrepos",
+            "ro": "Château de Lagrange-Monrepos",
+            "en": "Château de Lagrange-Monrepos"
+          },
+          "coords": [
+            0.320867,
+            44.158007
+          ],
+          "category": "castle",
+          "arrive_at": "14:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Fassade dieses Schlosses inmitten der Weinberge, ein Symbol des lokalen Adels, und buchen Sie im Voraus eine geführte Besichtigung.",
+            "hu": "Csodálja meg a szőlőültetvények között fekvő kastély elegáns homlokzatát, a helyi nemesség szimbólumát, és foglaljon előre egy vezetett túrát.",
+            "ro": "Admirați fațada elegantă a acestui castel situat printre podgorii, un simbol al nobilimii locale, și rezervați-vă din timp un tur ghidat.",
+            "en": "Admire the elegant facade of this castle set among the vineyards, a symbol of local nobility, and book a guided tour in advance to see the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Douazan",
+            "hu": "Château de Douazan",
+            "ro": "Château de Douazan",
+            "en": "Château de Douazan"
+          },
+          "coords": [
+            0.3191,
+            44.113713
+          ],
+          "category": "castle",
+          "arrive_at": "15:48",
+          "stay_min": 110,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Erleben Sie die majestätische Architektur dieses etwas abgelegenen Châteaus, das durch seine Friedlichkeit besticht, und nutzen Sie das sanfte Nachmittagslicht für Fotos.",
+            "hu": "Tapasztalja meg ennek a kissé félreeső kastélynak a fenséges építészetét és békéjét, és használja ki a lágy délutáni fényeket a legjobb fényképekhez.",
+            "ro": "Experimentați arhitectura maiestuoasă a acestui castel mai izolat, care farmecă prin liniștea sa, și folosiți lumina blândă a după-amiezii pentru fotografii.",
+            "en": "Experience the majestic architecture of this somewhat secluded château, enchanting with its peacefulness, and use the soft afternoon light for the best photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag startet mit einem Besuch der historischen Kirche Saint-Nicolas im Herzen von Nérac. Mittags genießen wir die Natur im Garenne Park, bevor wir den Familienspaß im Lud'O Parc erleben. Am Nachmittag fahren wir zu den beeindruckenden Ruinen des Château de Bournac. Gegen Abend bewundern wir Château de Lagrange-Monrepos und beenden die Tour am Château de Douazan.",
+        "hu": "A nap a Nérac szívében található Saint-Nicolas templom megtekintésével indul. Délben élvezzük a természetet a Garenne Parkban, mielőtt felfedezzük a Lud'O Parc családi élményeit. Délután a Château de Bournac lenyűgöző romjaihoz hajtunk. Kora este megcsodáljuk a Château de Lagrange-Monrepos-t, és a Château de Douazan-nál fejezzük be a túrát.",
+        "ro": "Ziua începe cu o vizită la biserica istorică Saint-Nicolas din inima orașului Nérac. La prânz ne bucurăm de natură în Parcul Garenne, înainte de a experimenta distracția la Lud'O Parc. După-amiaza conducem spre ruinele impresionante ale Château de Bournac. Seara admirăm Château de Lagrange-Monrepos și încheiem turul la Château de Douazan.",
+        "en": "The day starts with a visit to the historic Saint-Nicolas Church in the heart of Nérac. At noon, we enjoy nature in the Garenne Park before experiencing family fun at Lud'O Parc. In the afternoon, we drive to the impressive ruins of Château de Bournac. By early evening, we admire Château de Lagrange-Monrepos and finish the tour at Château de Douazan."
+      }
+    }
+  }
+}

@@ -1,0 +1,520 @@
+{
+  "city_id": "coutras",
+  "anchor": {
+    "name": "Coutras",
+    "coords": [
+      -0.1289,
+      45.0408
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 5.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Jean-Baptiste",
+            "hu": "Keresztelő Szent János-templom",
+            "ro": "Biserica Sf. Ioan Botezătorul",
+            "en": "Saint-Jean-Baptiste Church"
+          },
+          "coords": [
+            -0.129991,
+            45.040919
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur der Kirche Saint-Jean-Baptiste, ein spirituelles Zentrum von Coutras, und betrachten Sie die feinen Details der Buntglasfenster genau.",
+            "hu": "Csodálja meg a Keresztelő Szent János-templom lenyűgöző építészetét, amely Coutras spirituális központja, és figyelje meg az oltár melletti finom ólomüveg részleteket.",
+            "ro": "Admirați arhitectura impresionantă a Bisericii Sf. Ioan Botezătorul, un reper spiritual al orașului Coutras, și priviți îndeaproape vitraliile rafinate de lângă altar.",
+            "en": "Admire the striking architecture of Saint-Jean-Baptiste Church, a spiritual beacon of Coutras, and look closely at the exquisite stained glass details near the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Brunnen von Heinrich IV.",
+            "hu": "IV. Henrik-kút",
+            "ro": "Fântâna lui Henric al IV-lea",
+            "en": "Henri IV Well"
+          },
+          "coords": [
+            -0.129626,
+            45.04
+          ],
+          "category": "historical",
+          "arrive_at": "09:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie den historischen Brunnen von Heinrich IV., ein charmantes Zeugnis königlicher Verbindungen, und bringen Sie Ihre Kamera für perfekte Detailaufnahmen mit.",
+            "hu": "Fedezze fel a történelmi IV. Henrik-kutat, amely a város királyi kapcsolatainak bájos emléke, és hozzon fényképezőgépet a kőfaragások tökéletes megörökítéséhez.",
+            "ro": "Descoperiți istorica Fântână a lui Henric al IV-lea, o mărturie fermecătoare a legăturilor regale, și aduceți camera pentru a surprinde sculpturile detaliate în piatră.",
+            "en": "Discover the historic Henri IV Well, a charming testament to the town's royal connections, and bring your camera to capture its intricate stone carvings perfectly."
+          }
+        },
+        {
+          "name": {
+            "de": "Château d'Eygreteau",
+            "hu": "Château d'Eygreteau",
+            "ro": "Château d'Eygreteau",
+            "en": "Château d'Eygreteau"
+          },
+          "coords": [
+            -0.100174,
+            45.035586
+          ],
+          "category": "castle",
+          "arrive_at": "11:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie das herrschaftliche Château d'Eygreteau, ein architektonisches Juwel voller lokaler Sagen, und betrachten Sie die Fassade vom Haupttor aus für die beste Sicht.",
+            "hu": "Fedezze fel a tekintélyes Château d'Eygreteau-t, a helyi mondákban gazdag építészeti gyöngyszemet, és nézze meg a lenyűgöző homlokzatot a főkaputól a teljes méretért.",
+            "ro": "Descoperiți impunătorul Château d'Eygreteau, o bijuterie arhitecturală bogată în tradiții locale, și vizualizați fațada sa de la poarta principală pentru a-i surprinde grandoarea.",
+            "en": "Uncover the stately Château d'Eygreteau, an impressive architectural gem rich with local lore, and view its stunning facade from the main gate to capture its full scale."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac des Nauves",
+            "hu": "Lac des Nauves",
+            "ro": "Lac des Nauves",
+            "en": "Lac des Nauves"
+          },
+          "coords": [
+            -0.098814,
+            45.053506
+          ],
+          "category": "natural",
+          "arrive_at": "13:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Lac des Nauves, einem ruhigen Naturparadies mit friedlichen Ufern, und packen Sie ein kleines Picknick für die schattigen Grasbänke am Nachmittag ein.",
+            "hu": "Pihenjen meg a Lac des Nauves békés vízpartján, amely tökéletes természetközeli kikapcsolódás, és csomagoljon egy könnyű pikniket a késő délutáni árnyékos füves partokra.",
+            "ro": "Relaxați-vă la Lac des Nauves, o evadare naturală senină cu maluri liniștite, și împachetați un picnic ușor pentru a-l savura pe zonele cu iarbă umbrită după-amiaza.",
+            "en": "Relax at Lac des Nauves, a serene natural escape offering peaceful watersides, and pack a light picnic to enjoy on the shaded grassy banks during the late afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "AquaGym",
+            "hu": "AquaGym",
+            "ro": "AquaGym",
+            "en": "AquaGym"
+          },
+          "coords": [
+            -0.113239,
+            45.052507
+          ],
+          "category": "family",
+          "arrive_at": "15:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie familienfreundlichen Spaß im AquaGym, einem lebhaften Komplex für aktive Entspannung, und denken Sie an ein eigenes Handtuch sowie ein Schloss für den Spind.",
+            "hu": "Élvezze a családbarát szórakozást az AquaGym élénk komplexumában, amely tökéletes az aktív pihenéshez, és ne felejtsen el saját törölközőt és lakatot hozni az öltözőhöz.",
+            "ro": "Bucurați-vă de distracție în familie la AquaGym, un complex plin de viață perfect pentru relaxare, și nu uitați să aduceți un prosop și un lacăt pentru vestiare.",
+            "en": "Enjoy family-friendly fun at AquaGym, a lively complex perfect for active relaxation, and remember to bring your own towel and a padlock for the changing room lockers."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im historischen Herzen von Coutras und bewundern Sie die Kirche Saint-Jean-Baptiste und den Brunnen von Heinrich IV. Am Mittag spazieren Sie zum beeindruckenden Château d'Eygreteau, um in die Geschichte einzutauchen. Der Nachmittag führt Sie zum ruhigen Lac des Nauves für entspannte Momente. Beenden Sie den Tag gemütlich in den Anlagen des AquaGym.",
+        "hu": "Kezdje a reggelt Coutras történelmi központjában a Keresztelő Szent János-templom és a híres IV. Henrik-kút felfedezésével. Délben tegyen egy festői sétát a lenyűgöző Château d'Eygreteau felé, hogy elmerüljön a múltban. A délután a békés Lac des Nauves tavához vezet, amely tökéletes természeti kikapcsolódást nyújt. Zárja a napot egy kellemes pihenéssel az AquaGym medencéinél.",
+        "ro": "Începeți dimineața explorând inima istorică a orașului Coutras, admirând Biserica Sf. Ioan Botezătorul și faimoasa Fântână a lui Henric al IV-lea. La prânz, plimbați-vă spre impresionantul Château d'Eygreteau pentru o incursiune în istorie. După-amiaza vă conduce la liniștitul Lac des Nauves, oferind o evadare naturală perfectă. Încheiați ziua relaxându-vă la facilitățile AquaGym.",
+        "en": "Start your morning exploring the historic heart of Coutras, admiring the beautiful Saint-Jean-Baptiste Church and the iconic Henri IV Well. By midday, enjoy a scenic walk south to the impressive Château d'Eygreteau for a touch of local history. The afternoon leads you to the tranquil Lac des Nauves, offering perfect natural escapes. End your day relaxing at the AquaGym facilities."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:17",
+      "total_km": 8.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Mairie d'Abzac",
+            "hu": "Abzac Városháza",
+            "ro": "Primăria Abzac",
+            "en": "Mairie d'Abzac"
+          },
+          "coords": [
+            -0.128985,
+            45.017233
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Sehen Sie sich die elegante Mairie d'Abzac an, die traditionelle bürgerliche Architektur widerspiegelt, und prüfen Sie die Anschlagtafeln auf lokale Veranstaltungen.",
+            "hu": "Tekintse meg az elegáns abzac-i városházát, amely tökéletesen tükrözi a hagyományos polgári építészetet, és nézze meg a hirdetőtáblákat a helyi eseményekért.",
+            "ro": "Vedeți eleganta Primărie din Abzac, care reflectă perfect arhitectura civică tradițională, și verificați panourile informative pentru orice evenimente locale actuale.",
+            "en": "See the elegant Mairie d'Abzac, reflecting traditional civic architecture perfectly, and check the notice boards outside for any local events happening during your stay."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Szent Péter-templom",
+            "ro": "Biserica Sf. Petru",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            -0.12707,
+            45.017437
+          ],
+          "category": "religious",
+          "arrive_at": "09:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie die ruhige Église Saint-Pierre, ein bescheidenes historisches Heiligtum in Abzac, und treten Sie ein, um die kühle, beruhigende Atmosphäre zu genießen.",
+            "hu": "Látogasson el a csendes Szent Péter-templomba, amely Abzac szerény, de történelmi szentélye, és lépjen be, hogy élvezze a hűvös, megnyugtató légkört a nap elől.",
+            "ro": "Vizitați liniștita Biserică Sf. Petru, un sanctuar modest, dar profund istoric din Abzac, și pășiți înăuntru pentru a aprecia atmosfera răcoroasă și calmă departe de soare.",
+            "en": "Visit the quiet Église Saint-Pierre, a modest yet deeply historical sanctuary in Abzac, and step inside to appreciate the cool, calming atmosphere away from the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Château et moulin d'Abzac",
+            "hu": "Château et moulin d'Abzac",
+            "ro": "Château și moara din Abzac",
+            "en": "Château et moulin d'Abzac"
+          },
+          "coords": [
+            -0.124398,
+            45.016906
+          ],
+          "category": "castle",
+          "arrive_at": "10:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie das majestätische Château et moulin d'Abzac, das brillantes Erbe am Flussufer zeigt, und spazieren Sie am Wasser entlang für die besten Fotoperspektiven.",
+            "hu": "Fedezze fel a fenséges Château et moulin d'Abzac lenyűgöző folyóparti örökségét, és sétáljon egyet a víz mentén, hogy megtalálja a legjobb fotózási szögeket.",
+            "ro": "Explorați maiestuosul Château et moulin d'Abzac, care prezintă o moștenire strălucitoare pe malul râului, și plimbați-vă pe malul apei pentru cele mai bune unghiuri foto.",
+            "en": "Explore the majestic Château et moulin d'Abzac, showcasing brilliant riverside heritage, and take a moment to walk along the water for the best photographic angles."
+          }
+        },
+        {
+          "name": {
+            "de": "Château d'Eygreteau",
+            "hu": "Château d'Eygreteau",
+            "ro": "Château d'Eygreteau",
+            "en": "Château d'Eygreteau"
+          },
+          "coords": [
+            -0.100174,
+            45.035586
+          ],
+          "category": "castle",
+          "arrive_at": "11:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie das herrschaftliche Château d'Eygreteau, ein architektonisches Juwel voller lokaler Sagen, und betrachten Sie die Fassade vom Haupttor aus für die beste Sicht.",
+            "hu": "Fedezze fel a tekintélyes Château d'Eygreteau-t, a helyi mondákban gazdag építészeti gyöngyszemet, és nézze meg a lenyűgöző homlokzatot a főkaputól a teljes méretért.",
+            "ro": "Descoperiți impunătorul Château d'Eygreteau, o bijuterie arhitecturală bogată în tradiții locale, și vizualizați fațada sa de la poarta principală pentru a-i surprinde grandoarea.",
+            "en": "Uncover the stately Château d'Eygreteau, an impressive architectural gem rich with local lore, and view its stunning facade from the main gate to capture its full scale."
+          }
+        },
+        {
+          "name": {
+            "de": "Brunnen von Heinrich IV.",
+            "hu": "IV. Henrik-kút",
+            "ro": "Fântâna lui Henric al IV-lea",
+            "en": "Henri IV Well"
+          },
+          "coords": [
+            -0.129626,
+            45.04
+          ],
+          "category": "historical",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie den historischen Brunnen von Heinrich IV., ein charmantes Zeugnis königlicher Verbindungen, und bringen Sie Ihre Kamera für perfekte Detailaufnahmen mit.",
+            "hu": "Fedezze fel a történelmi IV. Henrik-kutat, amely a város királyi kapcsolatainak bájos emléke, és hozzon fényképezőgépet a kőfaragások tökéletes megörökítéséhez.",
+            "ro": "Descoperiți istorica Fântână a lui Henric al IV-lea, o mărturie fermecătoare a legăturilor regale, și aduceți camera pentru a surprinde sculpturile detaliate în piatră.",
+            "en": "Discover the historic Henri IV Well, a charming testament to the town's royal connections, and bring your camera to capture its intricate stone carvings perfectly."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Jean-Baptiste",
+            "hu": "Keresztelő Szent János-templom",
+            "ro": "Biserica Sf. Ioan Botezătorul",
+            "en": "Saint-Jean-Baptiste Church"
+          },
+          "coords": [
+            -0.129991,
+            45.040919
+          ],
+          "category": "religious",
+          "arrive_at": "14:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur der Kirche Saint-Jean-Baptiste, ein spirituelles Zentrum von Coutras, und betrachten Sie die feinen Details der Buntglasfenster genau.",
+            "hu": "Csodálja meg a Keresztelő Szent János-templom lenyűgöző építészetét, amely Coutras spirituális központja, és figyelje meg az oltár melletti finom ólomüveg részleteket.",
+            "ro": "Admirați arhitectura impresionantă a Bisericii Sf. Ioan Botezătorul, un reper spiritual al orașului Coutras, și priviți îndeaproape vitraliile rafinate de lângă altar.",
+            "en": "Admire the striking architecture of Saint-Jean-Baptiste Church, a spiritual beacon of Coutras, and look closely at the exquisite stained glass details near the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac des Nauves",
+            "hu": "Lac des Nauves",
+            "ro": "Lac des Nauves",
+            "en": "Lac des Nauves"
+          },
+          "coords": [
+            -0.098814,
+            45.053506
+          ],
+          "category": "natural",
+          "arrive_at": "15:32",
+          "stay_min": 105,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Lac des Nauves, einem ruhigen Naturparadies mit friedlichen Ufern, und packen Sie ein kleines Picknick für die schattigen Grasbänke am Nachmittag ein.",
+            "hu": "Pihenjen meg a Lac des Nauves békés vízpartján, amely tökéletes természetközeli kikapcsolódás, és csomagoljon egy könnyű pikniket a késő délutáni árnyékos füves partokra.",
+            "ro": "Relaxați-vă la Lac des Nauves, o evadare naturală senină cu maluri liniștite, și împachetați un picnic ușor pentru a-l savura pe zonele cu iarbă umbrită după-amiaza.",
+            "en": "Relax at Lac des Nauves, a serene natural escape offering peaceful watersides, and pack a light picnic to enjoy on the shaded grassy banks during the late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour in Abzac, vorbei an der Mairie, der Église Saint-Pierre und dem historischen Château. Mittags radeln Sie nach Norden, um das großartige Château d'Eygreteau zu entdecken, bevor Sie das Zentrum von Coutras erreichen. Am Nachmittag erkunden Sie den Brunnen von Heinrich IV. und die Hauptkirche. Beenden Sie den aktiven Tag mit einer Fahrt zum idyllischen Lac des Nauves.",
+        "hu": "Indítsa a kerékpártúrát Abzacban, megtekintve a városházát, a hangulatos Szent Péter-templomot és a történelmi kastélyt. Délben tekerjen északra a lenyűgöző Château d'Eygreteau felé, majd érje el Coutras központját. A délutánt a IV. Henrik-kút és a főtemplom felfedezésével töltheti. Zárja ezt az aktív napot egy frissítő gurulással a festői Lac des Nauves tavához.",
+        "ro": "Începeți turul cu bicicleta în Abzac, admirând primăria, fermecătoarea Biserică Sf. Petru și castelul istoric. La prânz, pedalați spre nord pentru a descoperi grandiosul Château d'Eygreteau, ajungând apoi în centrul orașului Coutras. Petreceți după-amiaza explorând Fântâna lui Henric al IV-lea și biserica principală. Încheiați ziua activă cu o plimbare spre pitorescul Lac des Nauves.",
+        "en": "Kick off your cycling tour in Abzac, taking in the local Mairie, the charming Église Saint-Pierre, and the historic Château et moulin. Midday, pedal north to uncover the grand Château d'Eygreteau before reaching the very center of Coutras. Spend the afternoon exploring the Henri IV Well and the main church. Wrap up your active day with a refreshing ride to the scenic Lac des Nauves."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:57",
+      "total_km": 9.3,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Château d'Eygreteau",
+            "hu": "Château d'Eygreteau",
+            "ro": "Château d'Eygreteau",
+            "en": "Château d'Eygreteau"
+          },
+          "coords": [
+            -0.100174,
+            45.035586
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das herrschaftliche Château d'Eygreteau, ein architektonisches Juwel voller lokaler Sagen, und betrachten Sie die Fassade vom Haupttor aus für die beste Sicht.",
+            "hu": "Fedezze fel a tekintélyes Château d'Eygreteau-t, a helyi mondákban gazdag építészeti gyöngyszemet, és nézze meg a lenyűgöző homlokzatot a főkaputól a teljes méretért.",
+            "ro": "Descoperiți impunătorul Château d'Eygreteau, o bijuterie arhitecturală bogată în tradiții locale, și vizualizați fațada sa de la poarta principală pentru a-i surprinde grandoarea.",
+            "en": "Uncover the stately Château d'Eygreteau, an impressive architectural gem rich with local lore, and view its stunning facade from the main gate to capture its full scale."
+          }
+        },
+        {
+          "name": {
+            "de": "Mairie d'Abzac",
+            "hu": "Abzac Városháza",
+            "ro": "Primăria Abzac",
+            "en": "Mairie d'Abzac"
+          },
+          "coords": [
+            -0.128985,
+            45.017233
+          ],
+          "category": "landmark",
+          "arrive_at": "10:36",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Sehen Sie sich die elegante Mairie d'Abzac an, die traditionelle bürgerliche Architektur widerspiegelt, und prüfen Sie die Anschlagtafeln auf lokale Veranstaltungen.",
+            "hu": "Tekintse meg az elegáns abzac-i városházát, amely tökéletesen tükrözi a hagyományos polgári építészetet, és nézze meg a hirdetőtáblákat a helyi eseményekért.",
+            "ro": "Vedeți eleganta Primărie din Abzac, care reflectă perfect arhitectura civică tradițională, și verificați panourile informative pentru orice evenimente locale actuale.",
+            "en": "See the elegant Mairie d'Abzac, reflecting traditional civic architecture perfectly, and check the notice boards outside for any local events happening during your stay."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Szent Péter-templom",
+            "ro": "Biserica Sf. Petru",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            -0.12707,
+            45.017437
+          ],
+          "category": "religious",
+          "arrive_at": "10:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie die ruhige Église Saint-Pierre, ein bescheidenes historisches Heiligtum in Abzac, und treten Sie ein, um die kühle, beruhigende Atmosphäre zu genießen.",
+            "hu": "Látogasson el a csendes Szent Péter-templomba, amely Abzac szerény, de történelmi szentélye, és lépjen be, hogy élvezze a hűvös, megnyugtató légkört a nap elől.",
+            "ro": "Vizitați liniștita Biserică Sf. Petru, un sanctuar modest, dar profund istoric din Abzac, și pășiți înăuntru pentru a aprecia atmosfera răcoroasă și calmă departe de soare.",
+            "en": "Visit the quiet Église Saint-Pierre, a modest yet deeply historical sanctuary in Abzac, and step inside to appreciate the cool, calming atmosphere away from the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Château et moulin d'Abzac",
+            "hu": "Château et moulin d'Abzac",
+            "ro": "Château și moara din Abzac",
+            "en": "Château et moulin d'Abzac"
+          },
+          "coords": [
+            -0.124398,
+            45.016906
+          ],
+          "category": "castle",
+          "arrive_at": "11:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie das majestätische Château et moulin d'Abzac, das brillantes Erbe am Flussufer zeigt, und spazieren Sie am Wasser entlang für die besten Fotoperspektiven.",
+            "hu": "Fedezze fel a fenséges Château et moulin d'Abzac lenyűgöző folyóparti örökségét, és sétáljon egyet a víz mentén, hogy megtalálja a legjobb fotózási szögeket.",
+            "ro": "Explorați maiestuosul Château et moulin d'Abzac, care prezintă o moștenire strălucitoare pe malul râului, și plimbați-vă pe malul apei pentru cele mai bune unghiuri foto.",
+            "en": "Explore the majestic Château et moulin d'Abzac, showcasing brilliant riverside heritage, and take a moment to walk along the water for the best photographic angles."
+          }
+        },
+        {
+          "name": {
+            "de": "Brunnen von Heinrich IV.",
+            "hu": "IV. Henrik-kút",
+            "ro": "Fântâna lui Henric al IV-lea",
+            "en": "Henri IV Well"
+          },
+          "coords": [
+            -0.129626,
+            45.04
+          ],
+          "category": "historical",
+          "arrive_at": "13:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie den historischen Brunnen von Heinrich IV., ein charmantes Zeugnis königlicher Verbindungen, und bringen Sie Ihre Kamera für perfekte Detailaufnahmen mit.",
+            "hu": "Fedezze fel a történelmi IV. Henrik-kutat, amely a város királyi kapcsolatainak bájos emléke, és hozzon fényképezőgépet a kőfaragások tökéletes megörökítéséhez.",
+            "ro": "Descoperiți istorica Fântână a lui Henric al IV-lea, o mărturie fermecătoare a legăturilor regale, și aduceți camera pentru a surprinde sculpturile detaliate în piatră.",
+            "en": "Discover the historic Henri IV Well, a charming testament to the town's royal connections, and bring your camera to capture its intricate stone carvings perfectly."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Jean-Baptiste",
+            "hu": "Keresztelő Szent János-templom",
+            "ro": "Biserica Sf. Ioan Botezătorul",
+            "en": "Saint-Jean-Baptiste Church"
+          },
+          "coords": [
+            -0.129991,
+            45.040919
+          ],
+          "category": "religious",
+          "arrive_at": "14:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur der Kirche Saint-Jean-Baptiste, ein spirituelles Zentrum von Coutras, und betrachten Sie die feinen Details der Buntglasfenster genau.",
+            "hu": "Csodálja meg a Keresztelő Szent János-templom lenyűgöző építészetét, amely Coutras spirituális központja, és figyelje meg az oltár melletti finom ólomüveg részleteket.",
+            "ro": "Admirați arhitectura impresionantă a Bisericii Sf. Ioan Botezătorul, un reper spiritual al orașului Coutras, și priviți îndeaproape vitraliile rafinate de lângă altar.",
+            "en": "Admire the striking architecture of Saint-Jean-Baptiste Church, a spiritual beacon of Coutras, and look closely at the exquisite stained glass details near the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "AquaGym",
+            "hu": "AquaGym",
+            "ro": "AquaGym",
+            "en": "AquaGym"
+          },
+          "coords": [
+            -0.113239,
+            45.052507
+          ],
+          "category": "family",
+          "arrive_at": "15:09",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Genießen Sie familienfreundlichen Spaß im AquaGym, einem lebhaften Komplex für aktive Entspannung, und denken Sie an ein eigenes Handtuch sowie ein Schloss für den Spind.",
+            "hu": "Élvezze a családbarát szórakozást az AquaGym élénk komplexumában, amely tökéletes az aktív pihenéshez, és ne felejtsen el saját törölközőt és lakatot hozni az öltözőhöz.",
+            "ro": "Bucurați-vă de distracție în familie la AquaGym, un complex plin de viață perfect pentru relaxare, și nu uitați să aduceți un prosop și un lacăt pentru vestiare.",
+            "en": "Enjoy family-friendly fun at AquaGym, a lively complex perfect for active relaxation, and remember to bring your own towel and a padlock for the changing room lockers."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac des Nauves",
+            "hu": "Lac des Nauves",
+            "ro": "Lac des Nauves",
+            "en": "Lac des Nauves"
+          },
+          "coords": [
+            -0.098814,
+            45.053506
+          ],
+          "category": "natural",
+          "arrive_at": "16:12",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Lac des Nauves, einem ruhigen Naturparadies mit friedlichen Ufern, und packen Sie ein kleines Picknick für die schattigen Grasbänke am Nachmittag ein.",
+            "hu": "Pihenjen meg a Lac des Nauves békés vízpartján, amely tökéletes természetközeli kikapcsolódás, és csomagoljon egy könnyű pikniket a késő délutáni árnyékos füves partokra.",
+            "ro": "Relaxați-vă la Lac des Nauves, o evadare naturală senină cu maluri liniștite, și împachetați un picnic ușor pentru a-l savura pe zonele cu iarbă umbrită după-amiaza.",
+            "en": "Relax at Lac des Nauves, a serene natural escape offering peaceful watersides, and pack a light picnic to enjoy on the shaded grassy banks during the late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt am eleganten Château d'Eygreteau, das einen majestätischen Ton für den Tag setzt. Mittags fahren Sie nach Abzac, um die Mairie, die Kirche und das Schloss am Fluss zu besichtigen. Am Nachmittag kehren Sie nach Coutras zurück, um den Brunnen und die Kirche zu sehen. Beenden Sie den Tag mit Spaß im AquaGym und einem friedlichen Sonnenuntergang am Lac des Nauves.",
+        "hu": "Kezdje az utat az elegáns Château d'Eygreteau-nál, amely fenséges hangulatot ad a napnak. Délben utazzon Abzacba, ahol a városháza, a templom és a folyóparti kastély könnyen bejárható. Délután térjen vissza Coutrasba a IV. Henrik-kút és a Keresztelő Szent János-templom megtekintésére. Zárja az utat családi mókával az AquaGymben és egy békés naplementével a Lac des Nauves-nél.",
+        "ro": "Începeți traseul auto la elegantul Château d'Eygreteau, setând un ton maiestuos pentru zi. La prânz, conduceți spre Abzac pentru a vizita primăria, biserica istorică și castelul de pe malul râului. După-amiaza, întoarceți-vă în Coutras pentru a vedea Fântâna lui Henric al IV-lea și Biserica Sf. Ioan Botezătorul. Încheiați cu distracție la AquaGym și un apus la Lac des Nauves.",
+        "en": "Begin your drive at the elegant Château d'Eygreteau, setting a majestic tone for the day. By midday, travel to Abzac to easily walk between the Mairie, the historic church, and the riverside Château et moulin. In the afternoon, return to Coutras to see the Henri IV Well and Saint-Jean-Baptiste Church. Conclude your road trip with family fun at AquaGym and a peaceful sunset at Lac des Nauves."
+      }
+    }
+  }
+}

@@ -1,0 +1,451 @@
+{
+  "city_id": "croatia-momici-cities-v2",
+  "anchor": {
+    "name": "Momići",
+    "coords": [
+      17.598,
+      43.047
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kablina",
+            "hu": "Kablina",
+            "ro": "Kablina",
+            "en": "Kablina"
+          },
+          "coords": [
+            17.587819,
+            43.042124
+          ],
+          "category": "natural",
+          "arrive_at": "09:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die unberührte Karstnatur von Kablina, bekannt für ihre ruhigen Pfade, und tragen Sie festes Schuhwerk für das felsige Gelände.",
+            "hu": "Élvezze Kablina érintetlen karszttermészetét, amely csendes ösvényeiről ismert, és viseljen masszív cipőt a sziklás terepen.",
+            "ro": "Bucurați-vă de natura carstică neatinsă din Kablina, cunoscută pentru potecile sale liniștite, și purtați încălțăminte solidă pentru terenul stâncos.",
+            "en": "Enjoy the pristine karst nature of Kablina, known for its tranquil paths, and wear sturdy shoes for the rocky terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Gnječi",
+            "hu": "Gnječi",
+            "ro": "Gnječi",
+            "en": "Gnječi"
+          },
+          "coords": [
+            17.580375,
+            43.041962
+          ],
+          "category": "historical",
+          "arrive_at": "10:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die traditionelle Steinarchitektur des Weilers Gnječi, ein Fenster in das ländliche Leben der Vergangenheit, aber bringen Sie unbedingt eigenes Wasser mit.",
+            "hu": "Fedezze fel Gnječi falucska hagyományos kőépítészetét, amely bepillantást enged a múlt vidéki életébe, de ne felejtsen el saját vizet hozni magával.",
+            "ro": "Descoperiți arhitectura tradițională din piatră a cătunului Gnječi, o fereastră către viața rurală trecută, dar amintiți-vă să vă aduceți propria apă.",
+            "en": "Discover the traditional stone architecture of the Gnječi hamlet, a window into past rural life, but remember to bring your own water as amenities are scarce."
+          }
+        },
+        {
+          "name": {
+            "de": "Krvavac",
+            "hu": "Krvavac",
+            "ro": "Krvavac",
+            "en": "Krvavac"
+          },
+          "coords": [
+            17.586312,
+            43.027471
+          ],
+          "category": "natural",
+          "arrive_at": "12:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch das üppige Gebiet von Krvavac entlang der Neretva, das sich perfekt zur Vogelbeobachtung eignet, und halten Sie ein Fernglas bereit.",
+            "hu": "Sétáljon egyet Krvavac buja területén a Neretva partján, amely tökéletes madármegfigyelésre, ezért tartson kéznél egy távcsövet.",
+            "ro": "Plimbați-vă prin zona luxuriantă din Krvavac de-a lungul malurilor râului Neretva, perfectă pentru observarea păsărilor, deci țineți un binoclu la îndemână.",
+            "en": "Stroll around the lush area of Krvavac along the Neretva riverbanks, perfect for birdwatching, so keep a pair of binoculars handy."
+          }
+        },
+        {
+          "name": {
+            "de": "Kula Norinska",
+            "hu": "Kula Norinska",
+            "ro": "Kula Norinska",
+            "en": "Kula Norinska"
+          },
+          "coords": [
+            17.606915,
+            43.02862
+          ],
+          "category": "historical",
+          "arrive_at": "14:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposante Kula Norinska, eine Festung aus dem 16. Jahrhundert, und besuchen Sie sie am frühen Nachmittag für das beste Fotolicht.",
+            "hu": "Csodálja meg az impozáns Kula Norinska-t, egy 16. századi védelmi erődöt, és látogasson el ide kora délután a legjobb fotózási fényekért.",
+            "ro": "Admirați impunătoarea Kula Norinska, o fortăreață din secolul al XVI-lea construită pentru apărare, și vizitați-o la începutul după-amiezii pentru cea mai bună lumină de fotografiat.",
+            "en": "Admire the imposing Kula Norinska, a 16th-century fortress built to defend against invaders, and visit early in the afternoon for the best photography lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Općina Kula Norinska",
+            "hu": "Općina Kula Norinska",
+            "ro": "Općina Kula Norinska",
+            "en": "Općina Kula Norinska"
+          },
+          "coords": [
+            17.606339,
+            43.030274
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:35",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die lokale Atmosphäre an der Općina Kula Norinska, einem zentralen Treffpunkt, wo Sie in einem nahegelegenen Café einen schnellen Kaffee trinken können.",
+            "hu": "Szívja magába a helyi kulturális hangulatot az Općina Kula Norinska központjában, és igyon meg egy gyors kávét a közeli helyi kávézóban.",
+            "ro": "Simțiți atmosfera locală la Općina Kula Norinska, un punct central de adunare, de unde puteți lua o cafea rapidă la o cafenea din apropiere.",
+            "en": "Soak in the local administrative and cultural vibes at Općina Kula Norinska, a central gathering point, where you can grab a quick coffee at a nearby local café."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt mit einer leichten Wanderung durch die Karstlandschaften von Kablina an der frischen Morgenluft. Mittags erreichen Sie die rustikalen Steinhäuser von Gnječi, wo Geschichte lebendig wird. Nachmittags spazieren Sie an den Ufern der Neretva in Krvavac. Zum Abschluss bewundern Sie die Festung Kula Norinska, während die Sonne über dem Tal untergeht.",
+        "hu": "A nap egy könnyű túrával kezdődik Kablina karsztvidékén, élvezve a friss reggeli levegőt. Délben Gnječi rusztikus kőházaihoz ér, ahol megelevenedik a történelem. Délután a Neretva partján sétálhat Krvavacban. Végül megcsodálhatja Kula Norinska 16. századi erődjét, miközben a nap lenyugszik a völgy felett.",
+        "ro": "Ziua dvs. începe cu o drumeție ușoară prin peisajele carstice din Kablina, bucurându-vă de aerul proaspăt al dimineții. La amiază ajungeți la casele rustice din piatră din Gnječi. După-amiaza vă veți plimba de-a lungul malurilor râului Neretva în Krvavac. La final, admirați fortăreața din secolul al XVI-lea din Kula Norinska în timp ce soarele apune.",
+        "en": "Your day begins with a gentle hike through the karst landscapes of Kablina, enjoying the serene morning air. Midday brings you to the rustic stone dwellings of Gnječi, where history feels alive. By afternoon, you'll wander along the Neretva riverbanks in Krvavac. Finally, marvel at the 16th-century fortress of Kula Norinska as the sun sets over the valley."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:13",
+      "total_km": 7.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mala Rujnica",
+            "hu": "Mala Rujnica",
+            "ro": "Mala Rujnica",
+            "en": "Mala Rujnica"
+          },
+          "coords": [
+            17.577606,
+            43.055307
+          ],
+          "category": "natural",
+          "arrive_at": "09:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Wandern Sie auf den Pfaden der Mala Rujnica, um einen weiten Blick auf die Täler zu genießen, und packen Sie winddichte Kleidung für den windigen Gipfel ein.",
+            "hu": "Túrázzon Mala Rujnica ösvényein a környező völgyekre nyíló lenyűgöző kilátásért, és csomagoljon szélálló ruházatot, mivel a csúcs meglehetősen szeles.",
+            "ro": "Faceți drumeții pe potecile din Mala Rujnica pentru vederi panoramice ale văilor, și aduceți haine rezistente la vânt deoarece pe vârf suflă briza.",
+            "en": "Hike the trails of Mala Rujnica for sweeping views of the surrounding valleys, and pack windproof clothing as the summit gets quite breezy."
+          }
+        },
+        {
+          "name": {
+            "de": "Kovač",
+            "hu": "Kovač",
+            "ro": "Kovač",
+            "en": "Kovač"
+          },
+          "coords": [
+            17.564273,
+            43.040929
+          ],
+          "category": "natural",
+          "arrive_at": "10:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie in der natürlichen Schönheit von Kovač, einem friedlichen Ort für ein Picknick, und vergessen Sie nicht, lokale Snacks vom Markt mitzubringen.",
+            "hu": "Pihenjen Kovač természeti szépségei mellett, amely egy békés hely egy déli piknikhez, így ne felejtsen el helyi rágcsálnivalókat csomagolni.",
+            "ro": "Relaxați-vă în frumusețea naturală din Kovač, un loc liniștit perfect pentru un picnic la amiază, așa că nu uitați să aduceți gustări locale.",
+            "en": "Relax by the natural beauty of Kovač, a serene spot perfect for a midday picnic, so don't forget to pack local snacks from the market."
+          }
+        },
+        {
+          "name": {
+            "de": "Gnječi",
+            "hu": "Gnječi",
+            "ro": "Gnječi",
+            "en": "Gnječi"
+          },
+          "coords": [
+            17.580375,
+            43.041962
+          ],
+          "category": "historical",
+          "arrive_at": "12:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die traditionelle Steinarchitektur des Weilers Gnječi, ein Fenster in das ländliche Leben der Vergangenheit, aber bringen Sie unbedingt eigenes Wasser mit.",
+            "hu": "Fedezze fel Gnječi falucska hagyományos kőépítészetét, amely bepillantást enged a múlt vidéki életébe, de ne felejtsen el saját vizet hozni magával.",
+            "ro": "Descoperiți arhitectura tradițională din piatră a cătunului Gnječi, o fereastră către viața rurală trecută, dar amintiți-vă să vă aduceți propria apă.",
+            "en": "Discover the traditional stone architecture of the Gnječi hamlet, a window into past rural life, but remember to bring your own water as amenities are scarce."
+          }
+        },
+        {
+          "name": {
+            "de": "Kablina",
+            "hu": "Kablina",
+            "ro": "Kablina",
+            "en": "Kablina"
+          },
+          "coords": [
+            17.587819,
+            43.042124
+          ],
+          "category": "natural",
+          "arrive_at": "13:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die unberührte Karstnatur von Kablina, bekannt für ihre ruhigen Pfade, und tragen Sie festes Schuhwerk für das felsige Gelände.",
+            "hu": "Élvezze Kablina érintetlen karszttermészetét, amely csendes ösvényeiről ismert, és viseljen masszív cipőt a sziklás terepen.",
+            "ro": "Bucurați-vă de natura carstică neatinsă din Kablina, cunoscută pentru potecile sale liniștite, și purtați încălțăminte solidă pentru terenul stâncos.",
+            "en": "Enjoy the pristine karst nature of Kablina, known for its tranquil paths, and wear sturdy shoes for the rocky terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Kula Norinska",
+            "hu": "Kula Norinska",
+            "ro": "Kula Norinska",
+            "en": "Kula Norinska"
+          },
+          "coords": [
+            17.606915,
+            43.02862
+          ],
+          "category": "historical",
+          "arrive_at": "14:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposante Kula Norinska, eine Festung aus dem 16. Jahrhundert, und besuchen Sie sie am frühen Nachmittag für das beste Fotolicht.",
+            "hu": "Csodálja meg az impozáns Kula Norinska-t, egy 16. századi védelmi erődöt, és látogasson el ide kora délután a legjobb fotózási fényekért.",
+            "ro": "Admirați impunătoarea Kula Norinska, o fortăreață din secolul al XVI-lea construită pentru apărare, și vizitați-o la începutul după-amiezii pentru cea mai bună lumină de fotografiat.",
+            "en": "Admire the imposing Kula Norinska, a 16th-century fortress built to defend against invaders, and visit early in the afternoon for the best photography lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Općina Kula Norinska",
+            "hu": "Općina Kula Norinska",
+            "ro": "Općina Kula Norinska",
+            "en": "Općina Kula Norinska"
+          },
+          "coords": [
+            17.606339,
+            43.030274
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:18",
+          "stay_min": 55,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die lokale Atmosphäre an der Općina Kula Norinska, einem zentralen Treffpunkt, wo Sie in einem nahegelegenen Café einen schnellen Kaffee trinken können.",
+            "hu": "Szívja magába a helyi kulturális hangulatot az Općina Kula Norinska központjában, és igyon meg egy gyors kávét a közeli helyi kávézóban.",
+            "ro": "Simțiți atmosfera locală la Općina Kula Norinska, un punct central de adunare, de unde puteți lua o cafea rapidă la o cafenea din apropiere.",
+            "en": "Soak in the local administrative and cultural vibes at Općina Kula Norinska, a central gathering point, where you can grab a quick coffee at a nearby local café."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Fahrradabenteuer mit den Panoramahöhen der Mala Rujnica, bevor Sie in grüne Täler hinabfahren. Mittags machen Sie eine friedliche Pause inmitten der Natur von Kovač und der historischen Aura von Gnječi. Nachmittags radeln Sie gemütlich nach Kablina. Der Abend endet an den dicken Steinmauern der berühmten Festung von Kula Norinska.",
+        "hu": "Kezdje kerékpáros kalandját Mala Rujnica panorámás magasságaiban, majd ereszkedjen le a buja völgyekbe. Tartson békés déli pihenőt Kovač zöldellő környezetében és Gnječi történelmi aurájában. Délután pedálozzon zökkenőmentesen Kablina felé. Az este Kula Norinska ikonikus tornyának erős kőfalait csodálva zárul.",
+        "ro": "Începeți aventura cu bicicleta escaladând înălțimile panoramice din Mala Rujnica înainte de a coborî în văi luxuriante. Opriți-vă pentru o pauză la prânz înconjurat de verdeața din Kovač și aura istorică din Gnječi. După-amiaza, pedalați spre Kablina. Seara se încheie admirând zidurile puternice de piatră ale turnului iconic din Kula Norinska.",
+        "en": "Kick off your biking adventure scaling the panoramic heights of Mala Rujnica before descending into lush valleys. Stop for a peaceful midday rest surrounded by the greenery of Kovač and the historic aura of Gnječi. In the afternoon, pedal smoothly toward Kablina. Your evening wraps up admiring the strong stone walls of Kula Norinska's iconic tower."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:57",
+      "total_km": 17.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Desansko jezero",
+            "hu": "Desansko jezero",
+            "ro": "Desansko jezero",
+            "en": "Desansko jezero"
+          },
+          "coords": [
+            17.51812,
+            43.056557
+          ],
+          "category": "natural",
+          "arrive_at": "09:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 6.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am Desansko jezero, einem versteckten See umgeben von Schilf, und kommen Sie früh morgens, um den Nebel über dem Wasser zu sehen.",
+            "hu": "Kapcsolódjon ki a Desansko jezero-nál, egy náddal körülvett rejtett tónál, és látogasson el kora reggel, hogy lássa a víz felett felszálló ködöt.",
+            "ro": "Relaxați-vă la Desansko jezero, un lac ascuns înconjurat de stuf, și vizitați-l devreme dimineața pentru a prinde ceața ridicându-se de pe apă.",
+            "en": "Unwind at Desansko jezero, a hidden gem of a lake surrounded by reeds, and visit early in the morning to catch the mist rising off the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Mala Rujnica",
+            "hu": "Mala Rujnica",
+            "ro": "Mala Rujnica",
+            "en": "Mala Rujnica"
+          },
+          "coords": [
+            17.577606,
+            43.055307
+          ],
+          "category": "natural",
+          "arrive_at": "10:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.8,
+          "tip_5lang": {
+            "de": "Wandern Sie auf den Pfaden der Mala Rujnica, um einen weiten Blick auf die Täler zu genießen, und packen Sie winddichte Kleidung für den windigen Gipfel ein.",
+            "hu": "Túrázzon Mala Rujnica ösvényein a környező völgyekre nyíló lenyűgöző kilátásért, és csomagoljon szélálló ruházatot, mivel a csúcs meglehetősen szeles.",
+            "ro": "Faceți drumeții pe potecile din Mala Rujnica pentru vederi panoramice ale văilor, și aduceți haine rezistente la vânt deoarece pe vârf suflă briza.",
+            "en": "Hike the trails of Mala Rujnica for sweeping views of the surrounding valleys, and pack windproof clothing as the summit gets quite breezy."
+          }
+        },
+        {
+          "name": {
+            "de": "Kovač",
+            "hu": "Kovač",
+            "ro": "Kovač",
+            "en": "Kovač"
+          },
+          "coords": [
+            17.564273,
+            43.040929
+          ],
+          "category": "natural",
+          "arrive_at": "12:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie in der natürlichen Schönheit von Kovač, einem friedlichen Ort für ein Picknick, und vergessen Sie nicht, lokale Snacks vom Markt mitzubringen.",
+            "hu": "Pihenjen Kovač természeti szépségei mellett, amely egy békés hely egy déli piknikhez, így ne felejtsen el helyi rágcsálnivalókat csomagolni.",
+            "ro": "Relaxați-vă în frumusețea naturală din Kovač, un loc liniștit perfect pentru un picnic la amiază, așa că nu uitați să aduceți gustări locale.",
+            "en": "Relax by the natural beauty of Kovač, a serene spot perfect for a midday picnic, so don't forget to pack local snacks from the market."
+          }
+        },
+        {
+          "name": {
+            "de": "Gnječi",
+            "hu": "Gnječi",
+            "ro": "Gnječi",
+            "en": "Gnječi"
+          },
+          "coords": [
+            17.580375,
+            43.041962
+          ],
+          "category": "historical",
+          "arrive_at": "13:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die traditionelle Steinarchitektur des Weilers Gnječi, ein Fenster in das ländliche Leben der Vergangenheit, aber bringen Sie unbedingt eigenes Wasser mit.",
+            "hu": "Fedezze fel Gnječi falucska hagyományos kőépítészetét, amely bepillantást enged a múlt vidéki életébe, de ne felejtsen el saját vizet hozni magával.",
+            "ro": "Descoperiți arhitectura tradițională din piatră a cătunului Gnječi, o fereastră către viața rurală trecută, dar amintiți-vă să vă aduceți propria apă.",
+            "en": "Discover the traditional stone architecture of the Gnječi hamlet, a window into past rural life, but remember to bring your own water as amenities are scarce."
+          }
+        },
+        {
+          "name": {
+            "de": "Krvavac",
+            "hu": "Krvavac",
+            "ro": "Krvavac",
+            "en": "Krvavac"
+          },
+          "coords": [
+            17.586312,
+            43.027471
+          ],
+          "category": "natural",
+          "arrive_at": "14:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch das üppige Gebiet von Krvavac entlang der Neretva, das sich perfekt zur Vogelbeobachtung eignet, und halten Sie ein Fernglas bereit.",
+            "hu": "Sétáljon egyet Krvavac buja területén a Neretva partján, amely tökéletes madármegfigyelésre, ezért tartson kéznél egy távcsövet.",
+            "ro": "Plimbați-vă prin zona luxuriantă din Krvavac de-a lungul malurilor râului Neretva, perfectă pentru observarea păsărilor, deci țineți un binoclu la îndemână.",
+            "en": "Stroll around the lush area of Krvavac along the Neretva riverbanks, perfect for birdwatching, so keep a pair of binoculars handy."
+          }
+        },
+        {
+          "name": {
+            "de": "Kula Norinska",
+            "hu": "Kula Norinska",
+            "ro": "Kula Norinska",
+            "en": "Kula Norinska"
+          },
+          "coords": [
+            17.606915,
+            43.02862
+          ],
+          "category": "historical",
+          "arrive_at": "16:07",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposante Kula Norinska, eine Festung aus dem 16. Jahrhundert, und besuchen Sie sie am frühen Nachmittag für das beste Fotolicht.",
+            "hu": "Csodálja meg az impozáns Kula Norinska-t, egy 16. századi védelmi erődöt, és látogasson el ide kora délután a legjobb fotózási fényekért.",
+            "ro": "Admirați impunătoarea Kula Norinska, o fortăreață din secolul al XVI-lea construită pentru apărare, și vizitați-o la începutul după-amiezii pentru cea mai bună lumină de fotografiat.",
+            "en": "Admire the imposing Kula Norinska, a 16th-century fortress built to defend against invaders, and visit early in the afternoon for the best photography lighting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre malerische Fahrt an den ruhigen Ufern des Desansko jezero und genießen Sie das neblige Wasser. Mittags fahren Sie hinauf zur Mala Rujnica und weiter in die stillen Wälder von Kovač. Später erkunden Sie die Siedlung Gnječi und die Uferwege von Krvavac. Beenden Sie den Tag an der Kula Norinska, einem jahrhundertealten historischen Zeugnis.",
+        "hu": "Kezdje festői autózását a Desansko jezero nyugodt partjainál, élvezve a ködös reggeli vizeket. Délben menjen fel Mala Rujnica panorámás kilátásáért, majd Kovač csendes erdeibe. Később fedezze fel Gnječi festői települését és Krvavac folyóparti ösvényeit. Fejezze be a napot Kula Norinska lenyűgöző történelmi erődjénél.",
+        "ro": "Începeți traseul pitoresc pe malurile liniștite ale Desansko jezero, bucurându-vă de apele de dimineață. La amiază urcați spre Mala Rujnica pentru vederi panoramice și pădurile din Kovač. Mai târziu, explorați așezarea pitorească Gnječi și cărările riverane din Krvavac. Încheiați ziua la Kula Norinska, o adevărată mărturie istorică.",
+        "en": "Start your scenic drive at the tranquil shores of Desansko jezero, soaking in the misty morning waters. Midday takes you up to Mala Rujnica for panoramic views and then to the quiet woods of Kovač. Later, explore the quaint settlement of Gnječi and the riverside paths of Krvavac. End the day at Kula Norinska, witnessing centuries of history standing tall."
+      }
+    }
+  }
+}

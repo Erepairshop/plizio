@@ -1,0 +1,451 @@
+{
+  "city_id": "entraigues-sur-la-sorgue",
+  "anchor": {
+    "name": "Entraigues-sur-la-Sorgue",
+    "coords": [
+      4.9267,
+      44.0031
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:10",
+      "total_km": 7.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Place du 8 Mai 1945",
+            "hu": "Place du 8 Mai 1945",
+            "ro": "Place du 8 Mai 1945",
+            "en": "Place du 8 Mai 1945"
+          },
+          "coords": [
+            4.927747,
+            44.003375
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das zentrale Treiben an diesem historischen Platz der Befreiung und genießen Sie einen entspannten Kaffee auf einer der sonnigen Terrassen.",
+            "hu": "Csodálja meg a város központi életét ezen a felszabadulásra emlékező történelmi téren, és tartson egy rövid pihenőt egy napos terasz kávézójában.",
+            "ro": "Admirați viața centrală a orașului în această piață istorică a eliberării și luați o pauză binemeritată la o cafenea cu terasă însorită din apropiere.",
+            "en": "Admire the central life of the town at this historic square, which commemorates liberation, and take a moment to sip coffee at a nearby sunny terrace."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont sur la Sorgue",
+            "hu": "Pont sur la Sorgue",
+            "ro": "Pont sur la Sorgue",
+            "en": "Pont sur la Sorgue"
+          },
+          "coords": [
+            4.931189,
+            44.004591
+          ],
+          "category": "civic",
+          "arrive_at": "09:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese charmante Brücke über die Sorgue für malerische Ausblicke auf das Wasser, aber achten Sie bei starkem Mistralwind auf Ihren Hut.",
+            "hu": "Sétáljon át a Sorgue folyó ezen a bájos hídján, hogy élvezze a festői vízi kilátást, de erős misztrál szél esetén mindenképpen fogja meg a kalapját.",
+            "ro": "Traversați acest pod fermecător peste râul Sorgue pentru a admira priveliștile pitorești, dar aveți grijă la pălării atunci când bate vântul mistral.",
+            "en": "Cross this charming bridge over the Sorgue river to enjoy picturesque water views, but be sure to hold onto your hat during the strong mistral winds."
+          }
+        },
+        {
+          "name": {
+            "de": "Berges de la Sorgue",
+            "hu": "Berges de la Sorgue",
+            "ro": "Berges de la Sorgue",
+            "en": "Berges de la Sorgue"
+          },
+          "coords": [
+            4.922707,
+            44.00462
+          ],
+          "category": "natural",
+          "arrive_at": "10:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der ruhigen, naturbelassenen und grünen Flussufer, was diesen Ort ideal für einen friedlichen Morgenspaziergang macht.",
+            "hu": "Sétáljon a buja növényzettel körülvett, nyugodt folyóparton, amely tökéletes helyszínt biztosít egy békés reggeli sétához és madármegfigyeléshez.",
+            "ro": "Plimbați-vă de-a lungul malurilor naturale liniștite, înconjurate de verdeață luxuriantă, locul perfect pentru o dimineață relaxantă la pas.",
+            "en": "Walk along the tranquil natural riverbanks surrounded by lush greenery, making it the perfect spot for a peaceful morning stroll and some birdwatching."
+          }
+        },
+        {
+          "name": {
+            "de": "Square Les Jardins",
+            "hu": "Square Les Jardins",
+            "ro": "Square Les Jardins",
+            "en": "Square Les Jardins"
+          },
+          "coords": [
+            4.907139,
+            43.982276
+          ],
+          "category": "family",
+          "arrive_at": "12:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese charmante grüne Oase, in der sich Einheimische entspannen und Familien viel Schatten finden, also bringen Sie Wasser und Snacks mit.",
+            "hu": "Fedezze fel ezt a bájos lakossági zöldterületet, ahol a helyiek is kikapcsolódnak; árnyékos pihenőt kínál, ezért érdemes vizet és rágcsálnivalót hozni.",
+            "ro": "Descoperiți acest spațiu verde fermecător unde se relaxează localnicii, oferind un refugiu umbros pentru familii, așa că aduceți apă și o gustare.",
+            "en": "Discover this charming residential green space where locals relax, offering a nice shady retreat for families, so bring some water and a light snack."
+          }
+        },
+        {
+          "name": {
+            "de": "Ancien Lavoir",
+            "hu": "Ancien Lavoir",
+            "ro": "Ancien Lavoir",
+            "en": "Ancien Lavoir"
+          },
+          "coords": [
+            4.940336,
+            43.959828
+          ],
+          "category": "historical",
+          "arrive_at": "14:20",
+          "stay_min": 110,
+          "hop_from_prev_min": 55,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses gut erhaltene historische Waschhaus, das vom provenzalischen Alltag erzählt, und bewundern Sie die typisch robuste Steinarchitektur.",
+            "hu": "Fedezze fel ezt a jól megőrzött történelmi mosóházat, amely a mindennapi provence-i életről mesél, és figyelje meg a régió jellegzetes kőépítészetét.",
+            "ro": "Explorați această spălătorie istorică bine conservată care povestește despre viața cotidiană provensală și remarcați arhitectura robustă din piatră.",
+            "en": "Explore this well-preserved historic washhouse that tells the story of daily Provencal life, and notice the robust stone architecture typical of the region."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag am historischen Platz und genießen Sie das Morgenlicht. Ein kurzer Spaziergang führt zur Brücke über die Sorgue, wo Sie das klare Wasser beobachten können.\n\nSpazieren Sie an den friedlichen Flussufern entlang, umgeben von üppiger Vegetation. Dieser schattige Bereich ist perfekt für eine entspannte Mittagspause.\n\nGehen Sie weiter in die südlichen Viertel, um eine schöne lokale Grünfläche zu entdecken. Der Park bietet Einblicke in den Alltag mit Platz zum Ausruhen.\n\nBeenden Sie die Tour mit einem Besuch des historischen Waschhauses. Die alten Steine leuchten in der Abenddämmerung warm und bieten einen besinnlichen Abschluss.",
+        "hu": "Kezdje a napot a történelmi téren, élvezve a reggeli fényeket. Egy rövid séta elvezet a Sorgue feletti hídhoz, ahol megfigyelheti a tiszta vizet.\n\nSétáljon a békés folyóparton, buja növényzettel körülvéve. Ez az árnyékos terület tökéletes egy nyugodt déli pihenőhöz, távol a központtól.\n\nFolytassa útját a déli negyedek felé, és fedezzen fel egy szép helyi zöldterületet. A park bepillantást enged a mindennapi életbe.\n\nZárja a napot a történelmi mosóház meglátogatásával, amely a régió örökségét őrzi. Az öreg kövek melegen ragyognak alkonyatkor, békés befejezést kínálva.",
+        "ro": "Începeți ziua în piața istorică, bucurându-vă de lumina dimineții. O scurtă plimbare duce la podul peste râul Sorgue, unde puteți privi apele limpezi.\n\nPlimbați-vă de-a lungul malurilor pașnice ale râului, înconjurați de vegetație luxuriantă. Această zonă umbrită este perfectă pentru o pauză relaxantă la prânz.\n\nContinuați spre cartierele sudice pentru a descoperi un spațiu verde minunat. Parcul oferă o privire în viața de zi cu zi și un loc bun de odihnă.\n\nÎncheiați cu o vizită la spălătoria istorică, o mărturie a patrimoniului local. Pietrele vechi strălucesc cald la amurg, oferind un final liniștit.",
+        "en": "Start the day at the historic square, soaking in the morning light. A short walk leads to the bridge over the Sorgue, where you can watch the clear waters flow.\n\nStroll along the peaceful riverbanks, surrounded by lush vegetation. This shaded area is perfect to enjoy a relaxed midday break away from the town center.\n\nContinue towards the southern neighborhoods to discover a lovely local green space. The park offers a glimpse into daily life with room to rest under mature trees.\n\nConclude with a visit to the historic washhouse, a testament to the region's heritage. The old stones glow warmly at dusk, offering a reflective end to the tour."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:03",
+      "total_km": 5.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place du 8 Mai 1945",
+            "hu": "Place du 8 Mai 1945",
+            "ro": "Place du 8 Mai 1945",
+            "en": "Place du 8 Mai 1945"
+          },
+          "coords": [
+            4.927747,
+            44.003375
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das zentrale Treiben an diesem historischen Platz der Befreiung und genießen Sie einen entspannten Kaffee auf einer der sonnigen Terrassen.",
+            "hu": "Csodálja meg a város központi életét ezen a felszabadulásra emlékező történelmi téren, és tartson egy rövid pihenőt egy napos terasz kávézójában.",
+            "ro": "Admirați viața centrală a orașului în această piață istorică a eliberării și luați o pauză binemeritată la o cafenea cu terasă însorită din apropiere.",
+            "en": "Admire the central life of the town at this historic square, which commemorates liberation, and take a moment to sip coffee at a nearby sunny terrace."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont sur la Sorgue",
+            "hu": "Pont sur la Sorgue",
+            "ro": "Pont sur la Sorgue",
+            "en": "Pont sur la Sorgue"
+          },
+          "coords": [
+            4.931189,
+            44.004591
+          ],
+          "category": "civic",
+          "arrive_at": "09:37",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese charmante Brücke über die Sorgue für malerische Ausblicke auf das Wasser, aber achten Sie bei starkem Mistralwind auf Ihren Hut.",
+            "hu": "Sétáljon át a Sorgue folyó ezen a bájos hídján, hogy élvezze a festői vízi kilátást, de erős misztrál szél esetén mindenképpen fogja meg a kalapját.",
+            "ro": "Traversați acest pod fermecător peste râul Sorgue pentru a admira priveliștile pitorești, dar aveți grijă la pălării atunci când bate vântul mistral.",
+            "en": "Cross this charming bridge over the Sorgue river to enjoy picturesque water views, but be sure to hold onto your hat during the strong mistral winds."
+          }
+        },
+        {
+          "name": {
+            "de": "Berges de la Sorgue",
+            "hu": "Berges de la Sorgue",
+            "ro": "Berges de la Sorgue",
+            "en": "Berges de la Sorgue"
+          },
+          "coords": [
+            4.922707,
+            44.00462
+          ],
+          "category": "natural",
+          "arrive_at": "10:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der ruhigen, naturbelassenen und grünen Flussufer, was diesen Ort ideal für einen friedlichen Morgenspaziergang macht.",
+            "hu": "Sétáljon a buja növényzettel körülvett, nyugodt folyóparton, amely tökéletes helyszínt biztosít egy békés reggeli sétához és madármegfigyeléshez.",
+            "ro": "Plimbați-vă de-a lungul malurilor naturale liniștite, înconjurate de verdeață luxuriantă, locul perfect pentru o dimineață relaxantă la pas.",
+            "en": "Walk along the tranquil natural riverbanks surrounded by lush greenery, making it the perfect spot for a peaceful morning stroll and some birdwatching."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Spirou",
+            "hu": "Parc Spirou",
+            "ro": "Parc Spirou",
+            "en": "Parc Spirou"
+          },
+          "coords": [
+            4.970712,
+            44.022286
+          ],
+          "category": "family",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 4.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem lebhaften Vergnügungspark in die Welt der Comics ein und buchen Sie Ihre Tickets vorab online, um die Warteschlangen zu umgehen.",
+            "hu": "Merüljön el a klasszikus karaktereknek szentelt vidámpark képregényes játékaiban, és foglalja le a jegyeket előre online, hogy elkerülje a sorban állást.",
+            "ro": "Explorați atracțiile cu tematică de benzi desenate în acest parc de distracții animat și rezervați-vă biletele online în avans pentru a evita cozile.",
+            "en": "Dive into the comic-themed rides at this lively amusement park dedicated to classic characters, and book tickets online in advance to skip the queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Wave Island",
+            "hu": "Wave Island",
+            "ro": "Wave Island",
+            "en": "Wave Island"
+          },
+          "coords": [
+            4.967132,
+            44.022584
+          ],
+          "category": "family",
+          "arrive_at": "13:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie adrenalingeladene Wasserrutschen in diesem riesigen tropischen Wasserpark, aber kommen Sie früh, um eine gute Liege an den Pools zu sichern.",
+            "hu": "Próbálja ki az adrenalint növelő csúszdákat ebben a hatalmas trópusi víziparkban, de érkezzen korán, hogy jó napozóágyat találjon a medencék mellett.",
+            "ro": "Experimentați toboganele pline de adrenalină la acest parc acvatic masiv, dar ajungeți devreme pentru a vă asigura un șezlong bun lângă piscine.",
+            "en": "Experience adrenaline-pumping water slides at this massive tropical-themed aqua park, but arrive early to secure a good sunbed near the main pools."
+          }
+        },
+        {
+          "name": {
+            "de": "Da wave",
+            "hu": "Da wave",
+            "ro": "Da wave",
+            "en": "Da wave"
+          },
+          "coords": [
+            4.965705,
+            44.020625
+          ],
+          "category": "family",
+          "arrive_at": "14:18",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Testen Sie Ihre Surfkünste auf diesem riesigen künstlichen Wellensimulator, wobei es sich empfiehlt, einen gut sitzenden Badeanzug mitzubringen.",
+            "hu": "Tesztelje szörftudását ezen a minden szintnek megfelelő hatalmas mesterséges hullámszimulátoron, bár a jól illeszkedő fürdőruha használata nagyon ajánlott.",
+            "ro": "Testați-vă abilitățile de surfing pe acest simulator uriaș de valuri artificiale, deși este foarte recomandat să aduceți un costum de baie potrivit.",
+            "en": "Test your surfing skills on this massive artificial wave simulator perfect for all levels, though bringing your own well-fitting swimsuit is highly advised."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Tour im Zentrum und bewundern Sie den historischen Platz, bevor Sie über die ikonische Brücke fahren. Folgen Sie den sanften Kurven des Flusses.\n\nLassen Sie die ruhigen Wege hinter sich und radeln Sie in Richtung des Vergnügungsviertels. Die flachen provenzalischen Straßen sorgen für eine angenehme Fahrt.\n\nTauchen Sie ein in die aufregenden Achterbahnen. Tauschen Sie den Helm gegen Badesachen und kühlen Sie sich in den riesigen tropischen Pools ab.\n\nBeenden Sie den aktiven Tag, indem Sie Ihre Balance auf dem Surfsimulator testen. Ein energiegeladener Abschluss für einen aufregenden Ausflug.",
+        "hu": "Kezdje túráját az élénk központban, megtekintve a történelmi teret, mielőtt áttekerne a hídon. Kövesse a folyópart lágy íveit a reggeli szellőben.\n\nHagyja maga mögött a csendes utakat, és tekerjen észak felé a szórakozónegyedbe. A sík provence-i utak könnyű és kellemes kerékpározást biztosítanak.\n\nMerüljön el a képregényes hullámvasutak izgalmaiban. Cserélje le sisakját fürdőruhára, és hűsöljön az óriási trópusi medencékben.\n\nFejezze be az aktív napot a mesterséges szörfszimulátor kipróbálásával. Ez egy energikus módja az izgalmas kerékpártúra lezárásának.",
+        "ro": "Începeți turul în centrul plin de viață, admirând piața istorică înainte de a traversa podul iconic. Urmați curbele blânde ale malurilor râului.\n\nLăsați în urmă aleile liniștite și pedalați spre nord, către zona de divertisment. Drumurile provensale plate asigură o plimbare ușoară și plăcută.\n\nScufundați-vă în entuziasmul roller coasterelor tematice. Schimbați casca de bicicletă cu un costum de baie și răcoriți-vă în piscinele tropicale gigantice.\n\nÎncheiați ziua activă testându-vă echilibrul pe simulatorul de surf artificial. Este un mod plin de energie pentru a încheia o excursie captivantă.",
+        "en": "Kick off your tour in the lively center, taking in the historical square before riding over the iconic bridge. Follow the gentle curves of the riverbank.\n\nLeave the quiet river pathways behind and cycle northwards towards the entertainment district. The flat Provencal roads make for an easy and pleasant ride.\n\nDive into the excitement with comic-themed rollercoasters and attractions. Swap your bike helmet for a swimsuit and cool off in the giant tropical pools.\n\nFinish your active day by testing your balance on the ultimate artificial surf simulator. It's an energetic way to cap off a thrilling bike trip."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:58",
+      "total_km": 9.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ancien Lavoir",
+            "hu": "Ancien Lavoir",
+            "ro": "Ancien Lavoir",
+            "en": "Ancien Lavoir"
+          },
+          "coords": [
+            4.940336,
+            43.959828
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses gut erhaltene historische Waschhaus, das vom provenzalischen Alltag erzählt, und bewundern Sie die typisch robuste Steinarchitektur.",
+            "hu": "Fedezze fel ezt a jól megőrzött történelmi mosóházat, amely a mindennapi provence-i életről mesél, és figyelje meg a régió jellegzetes kőépítészetét.",
+            "ro": "Explorați această spălătorie istorică bine conservată care povestește despre viața cotidiană provensală și remarcați arhitectura robustă din piatră.",
+            "en": "Explore this well-preserved historic washhouse that tells the story of daily Provencal life, and notice the robust stone architecture typical of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Place du 8 Mai 1945",
+            "hu": "Place du 8 Mai 1945",
+            "ro": "Place du 8 Mai 1945",
+            "en": "Place du 8 Mai 1945"
+          },
+          "coords": [
+            4.927747,
+            44.003375
+          ],
+          "category": "civic",
+          "arrive_at": "10:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie das zentrale Treiben an diesem historischen Platz der Befreiung und genießen Sie einen entspannten Kaffee auf einer der sonnigen Terrassen.",
+            "hu": "Csodálja meg a város központi életét ezen a felszabadulásra emlékező történelmi téren, és tartson egy rövid pihenőt egy napos terasz kávézójában.",
+            "ro": "Admirați viața centrală a orașului în această piață istorică a eliberării și luați o pauză binemeritată la o cafenea cu terasă însorită din apropiere.",
+            "en": "Admire the central life of the town at this historic square, which commemorates liberation, and take a moment to sip coffee at a nearby sunny terrace."
+          }
+        },
+        {
+          "name": {
+            "de": "Berges de la Sorgue",
+            "hu": "Berges de la Sorgue",
+            "ro": "Berges de la Sorgue",
+            "en": "Berges de la Sorgue"
+          },
+          "coords": [
+            4.922707,
+            44.00462
+          ],
+          "category": "natural",
+          "arrive_at": "11:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der ruhigen, naturbelassenen und grünen Flussufer, was diesen Ort ideal für einen friedlichen Morgenspaziergang macht.",
+            "hu": "Sétáljon a buja növényzettel körülvett, nyugodt folyóparton, amely tökéletes helyszínt biztosít egy békés reggeli sétához és madármegfigyeléshez.",
+            "ro": "Plimbați-vă de-a lungul malurilor naturale liniștite, înconjurate de verdeață luxuriantă, locul perfect pentru o dimineață relaxantă la pas.",
+            "en": "Walk along the tranquil natural riverbanks surrounded by lush greenery, making it the perfect spot for a peaceful morning stroll and some birdwatching."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont sur la Sorgue",
+            "hu": "Pont sur la Sorgue",
+            "ro": "Pont sur la Sorgue",
+            "en": "Pont sur la Sorgue"
+          },
+          "coords": [
+            4.931189,
+            44.004591
+          ],
+          "category": "civic",
+          "arrive_at": "12:24",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese charmante Brücke über die Sorgue für malerische Ausblicke auf das Wasser, aber achten Sie bei starkem Mistralwind auf Ihren Hut.",
+            "hu": "Sétáljon át a Sorgue folyó ezen a bájos hídján, hogy élvezze a festői vízi kilátást, de erős misztrál szél esetén mindenképpen fogja meg a kalapját.",
+            "ro": "Traversați acest pod fermecător peste râul Sorgue pentru a admira priveliștile pitorești, dar aveți grijă la pălării atunci când bate vântul mistral.",
+            "en": "Cross this charming bridge over the Sorgue river to enjoy picturesque water views, but be sure to hold onto your hat during the strong mistral winds."
+          }
+        },
+        {
+          "name": {
+            "de": "Le château des Aventuriers",
+            "hu": "Le château des Aventuriers",
+            "ro": "Le château des Aventuriers",
+            "en": "Le château des Aventuriers"
+          },
+          "coords": [
+            4.967204,
+            44.021315
+          ],
+          "category": "family",
+          "arrive_at": "12:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Begeistern Sie Ihre Familie mit interaktiven Rätseln und immersiven Themenbereichen, wobei bequeme Schuhe für das viele Laufen sehr zu empfehlen sind.",
+            "hu": "Kösse le a családot az itt található interaktív rejtvényekkel és tematikus területekkel, és viseljen kényelmes cipőt a rengeteg energikus gyalogláshoz.",
+            "ro": "Atrageți-vă familia în puzzle-urile interactive și zonele tematice de aici și asigurați-vă că purtați încălțăminte confortabilă pentru plimbările lungi.",
+            "en": "Engage your family with the interactive puzzles and immersive themed areas here, making sure to wear comfortable shoes for all the energetic walking involved."
+          }
+        },
+        {
+          "name": {
+            "de": "La Baie des Sirènes",
+            "hu": "La Baie des Sirènes",
+            "ro": "La Baie des Sirènes",
+            "en": "La Baie des Sirènes"
+          },
+          "coords": [
+            4.968116,
+            44.023353
+          ],
+          "category": "family",
+          "arrive_at": "14:13",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie im ruhigen Wasser dieser familienfreundlichen Attraktion für alle Altersgruppen und behalten Sie kleinere Kinder gut im Auge.",
+            "hu": "Pihenjen a minden korosztálynak tervezett, családbarát látványosság nyugodt vizeiben, és figyeljen a kisebb gyerekekre, mert a vizes elemek izgalmasak.",
+            "ro": "Relaxați-vă în apele liniștite ale acestei atracții destinate familiilor și fiți cu ochii pe copiii mici, deoarece jocurile de apă pot fi foarte tentante.",
+            "en": "Relax in the calm waters of this family-friendly attraction designed for all ages, and keep an eye on younger children as the water features can be exciting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Autotour am historischen Waschhaus am Rande der Stadt und bewundern Sie die alte Architektur. Fahren Sie ins Zentrum, um die lebhafte Atmosphäre zu erleben.\n\nParken Sie in der Nähe und spazieren Sie gemütlich an den Ufern der Sorgue entlang. Überqueren Sie die malerische Brücke, um tolle Fotos vom Wasser zu machen.\n\nFahren Sie mit dem Auto in Richtung Norden zum aufregenden Vergnügungspark. Verbringen Sie den Nachmittag damit, Rätsel in den Themenbereichen zu lösen.\n\nLassen Sie den Roadtrip entspannt in der nahegelegenen Meerjungfrauenbucht ausklingen. Die ruhige Umgebung bietet einen erfrischenden Abschluss.",
+        "hu": "Kezdje autós túráját a város szélén található történelmi mosóháznál, megcsodálva az ősi építészetet. Hajtson a központba az élénk reggeli hangulatért.\n\nParkoljon le a közelben, és tegyen egy kényelmes sétát a Sorgue folyó gyönyörű partján. Keljen át a festői hídon, hogy fotókat készítsen a csillogó vízről.\n\nPattanjon vissza az autóba egy rövid útra az északi szórakoztató központ felé. Töltse a délutánt rejtvények megoldásával és a tematikus zónák felfedezésével.\n\nZárja le az utazást a közeli sellő-öbölben való csobbanással és pihenéssel. A nyugodt vízi környezet frissítő befejezést kínál egy változatos naphoz.",
+        "ro": "Începeți turul cu mașina la spălătoria istorică de la marginea orașului, apreciind arhitectura veche. Conduceți în centru pentru a experimenta atmosfera vibrantă.\n\nParcați în apropiere și faceți o plimbare pe malurile frumoase ale râului Sorgue. Traversați podul pitoresc pentru a face fotografii cu apele sclipitoare.\n\nUrcați din nou în mașină pentru un scurt drum spre nord, la zona de distracții. Petreceți după-amiaza rezolvând puzzle-uri și explorând zonele tematice.\n\nÎncheiați-vă călătoria relaxându-vă în golful sirenelor din apropiere. Mediul acvatic calm oferă o concluzie revigorantă pentru o zi diversă.",
+        "en": "Start your driving tour at the historic washhouse on the town's outskirts, appreciating its ancient architecture. Drive into the center to experience the vibrant morning atmosphere.\n\nPark nearby and take a leisurely walk along the beautiful banks of the Sorgue river. Cross the scenic bridge to capture photos of the sparkling waters.\n\nHop back in the car for a short drive to the exciting amusement cluster to the north. Spend the afternoon solving puzzles and exploring the themed zones.\n\nWind down your road trip splashing and relaxing at the nearby mermaid bay. The calm aquatic environment provides a refreshing conclusion to a diverse day."
+      }
+    }
+  }
+}

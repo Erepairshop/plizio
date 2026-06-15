@@ -1,0 +1,451 @@
+{
+  "city_id": "city-esbjerg",
+  "anchor": {
+    "name": "Esbjerg",
+    "coords": [
+      8.4508,
+      55.4765
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:54",
+      "total_km": 3.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Esbjerg Kunstmuseum",
+            "hu": "Esbjerg Kunstmuseum",
+            "ro": "Esbjerg Kunstmuseum",
+            "en": "Esbjerg Kunstmuseum"
+          },
+          "coords": [
+            8.450574,
+            55.46424
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie zeitgenössische dänische Kunst und experimentelle Installationen, und beachten Sie die einzigartige sensorische Erfahrung der Duftausstellung.",
+            "hu": "Fedezze fel a kortárs dán művészetet és a kísérleti installációkat, de ne hagyja ki az illatkiállítás nyújtotta különleges érzékszervi élményt.",
+            "ro": "Explorați arta daneză contemporană și instalațiile experimentale, având în vedere că expoziția de parfumuri oferă o experiență senzorială unică.",
+            "en": "Explore contemporary Danish art and experimental installations, keeping in mind that the scent exhibition offers a unique sensory experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Lykkens Have",
+            "hu": "Lykkens Have",
+            "ro": "Lykkens Have",
+            "en": "Lykkens Have"
+          },
+          "coords": [
+            8.453192,
+            55.463778
+          ],
+          "category": "family",
+          "arrive_at": "10:53",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem charmanten Gemeinschaftsgarten, in dem sich Familien treffen, und bringen Sie ein kleines Picknick für die gepflegten Rasenflächen mit.",
+            "hu": "Pihenjen ebben a bájos közösségi kertben, ahol a helyi családok összegyűlnek, és hozzon magával egy kis pikniket a gondozott pázsitra.",
+            "ro": "Relaxați-vă în această grădină comunitară fermecătoare unde se adună familiile locale și aduceți un mic picnic pentru a-l savura pe iarbă.",
+            "en": "Relax in this charming community garden area where local families gather, and bring a small picnic to enjoy on the well-kept grassy patches."
+          }
+        },
+        {
+          "name": {
+            "de": "Lydlegeplads",
+            "hu": "Lydlegeplads",
+            "ro": "Lydlegeplads",
+            "en": "Lydlegeplads"
+          },
+          "coords": [
+            8.451302,
+            55.470267
+          ],
+          "category": "family",
+          "arrive_at": "12:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder auf diesem Klangspielplatz mit akustischen Freiluftinstrumenten experimentieren, den Sie am besten frühzeitig besuchen.",
+            "hu": "Hagyja, hogy a gyerekek kísérletezzenek a szabadtéri akusztikus hangszerekkel ezen a hangjátszótéren, amelyet érdemes korán meglátogatni.",
+            "ro": "Lăsați copiii să experimenteze cu instrumentele acustice în aer liber din acest loc de joacă sonor, care este cel mai bine de vizitat devreme.",
+            "en": "Let the kids experiment with the outdoor acoustic instruments in this sound playground, which is best visited early to avoid the afternoon rush."
+          }
+        },
+        {
+          "name": {
+            "de": "Vognbølparkens Legeplads",
+            "hu": "Vognbølparkens Legeplads",
+            "ro": "Vognbølparkens Legeplads",
+            "en": "Vognbølparkens Legeplads"
+          },
+          "coords": [
+            8.442948,
+            55.48423
+          ],
+          "category": "family",
+          "arrive_at": "13:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause auf diesem weitläufigen, von hohen Bäumen umgebenen Parkspielplatz und nutzen Sie die Bänke, während die Kinder spielen.",
+            "hu": "Tartson egy kis szünetet ezen a magas fákkal körülvett, tágas parki játszótéren, és pihenjen a közeli padokon, amíg a gyerekek levezetik az energiájukat.",
+            "ro": "Faceți o pauză la acest loc de joacă spațios înconjurat de copaci înalți și folosiți băncile din apropiere pentru a vă odihni în timp ce copiii se joacă.",
+            "en": "Take a break at this spacious park playground surrounded by tall trees, and use the nearby benches to rest while the children burn off energy."
+          }
+        },
+        {
+          "name": {
+            "de": "Vognsbøl Sø",
+            "hu": "Vognsbøl Sø",
+            "ro": "Vognsbøl Sø",
+            "en": "Vognsbøl Sø"
+          },
+          "coords": [
+            8.438307,
+            55.488456
+          ],
+          "category": "natural",
+          "arrive_at": "15:09",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie um diesen ruhigen Stadtsee, der bei Joggern beliebt ist, und vergessen Sie nicht, Vogelfutter für die Enten und Schwäne mitzubringen.",
+            "hu": "Sétáljon egyet ezen a nyugodt, kocogók körében is népszerű városi tavon, és ne felejtsen el madáreledelt hozni az itt élő kacsáknak és hattyúknak.",
+            "ro": "Plimbați-vă în jurul acestui lac urban liniștit, popular printre alergători, și nu uitați să aduceți semințe pentru rațele și lebedele rezidente.",
+            "en": "Stroll around this tranquil urban lake popular with local joggers, and don't forget to bring some birdseed for the resident ducks and swans."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit zeitgenössischer Kunst im Esbjerg Kunstmuseum. Gegen Mittag wechseln Sie in die charmante Grünanlage Lykkens Have und zum Lydlegeplads. Den Nachmittag verbringen Sie auf dem lebhaften Vognbølparkens Legeplads, einem beliebten Treffpunkt. Lassen Sie den Abend mit einem ruhigen Spaziergang am Ufer des Vognsbøl Sø gemütlich ausklingen.",
+        "hu": "Kezdje a reggelt a kortárs esztétika befogadásával az Esbjerg Kunstmuseumban. Ahogy közeledik a dél, váltson a Lykkens Have zöldterületére, és látogasson el a Lydlegepladsra. A délutánt a nyüzsgő Vognbølparkens Legeplads játszótéren töltheti. Végül zárja az estét egy békés, nyugodt sétával a Vognsbøl Sø festői partjainál, elvonulva a város zajától.",
+        "ro": "Începeți dimineața absorbind estetica contemporană la Esbjerg Kunstmuseum. Pe măsură ce se apropie amiaza, treceți la fermecătorul spațiu verde Lykkens Have și la Lydlegeplads. După-amiaza este petrecută bucurându-vă de animatul Vognbølparkens Legeplads, un loc preferat al familiilor. În cele din urmă, încheiați seara cu o plimbare senină pe malul lacului Vognsbøl Sø.",
+        "en": "Start your morning absorbing contemporary aesthetics at the Esbjerg Kunstmuseum. As midday approaches, transition to the charming green space of Lykkens Have and watch the kids play at Lydlegeplads. The afternoon is spent enjoying the lively Vognbølparkens Legeplads, a favorite local family spot. Finally, wind down your evening with a serene walk along the shores of Vognsbøl Sø."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:13",
+      "total_km": 6.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Esbjerg Kunstmuseum",
+            "hu": "Esbjerg Kunstmuseum",
+            "ro": "Esbjerg Kunstmuseum",
+            "en": "Esbjerg Kunstmuseum"
+          },
+          "coords": [
+            8.450574,
+            55.46424
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie zeitgenössische dänische Kunst und experimentelle Installationen, und beachten Sie die einzigartige sensorische Erfahrung der Duftausstellung.",
+            "hu": "Fedezze fel a kortárs dán művészetet és a kísérleti installációkat, de ne hagyja ki az illatkiállítás nyújtotta különleges érzékszervi élményt.",
+            "ro": "Explorați arta daneză contemporană și instalațiile experimentale, având în vedere că expoziția de parfumuri oferă o experiență senzorială unică.",
+            "en": "Explore contemporary Danish art and experimental installations, keeping in mind that the scent exhibition offers a unique sensory experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Hermans Hule",
+            "hu": "Hermans Hule",
+            "ro": "Hermans Hule",
+            "en": "Hermans Hule"
+          },
+          "coords": [
+            8.465307,
+            55.46372
+          ],
+          "category": "family",
+          "arrive_at": "10:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesen fantastischen Indoor-Spielbereich ein, der ideal für Regentage ist, aber prüfen Sie vorab die Öffnungszeiten im Internet.",
+            "hu": "Merüljön el ebben a fantasztikus fedett játszóházban, amely tökéletes az esős napokra, de látogatás előtt mindenképpen ellenőrizze a nyitvatartást.",
+            "ro": "Scufundați-vă în acest loc de joacă interior fantastic, perfect pentru zilele ploioase, dar asigurați-vă că verificați programul online înainte.",
+            "en": "Dive into this fantastic indoor play area perfect for rainy days, but make sure to check their opening hours online before planning your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Lergravssøen",
+            "hu": "Lergravssøen",
+            "ro": "Lergravssøen",
+            "en": "Lergravssøen"
+          },
+          "coords": [
+            8.470398,
+            55.465297
+          ],
+          "category": "natural",
+          "arrive_at": "12:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang um diesen malerischen See, eine ehemalige Tongrube, und tragen Sie festes Schuhwerk für die unbefestigten Wege.",
+            "hu": "Tegyen egy békés sétát ez egykori agyagbányából lett festői tó körül, de viseljen masszív cipőt, mivel az erdei ösvények néha sárosak lehetnek.",
+            "ro": "Bucurați-vă de o plimbare liniștită în jurul acestui fost bazin de lut transformat în lac pitoresc și purtați încălțăminte robustă pentru trasee.",
+            "en": "Enjoy a peaceful walk around this former clay pit turned scenic lake, and wear sturdy shoes as the unpaved nature trails can sometimes get muddy."
+          }
+        },
+        {
+          "name": {
+            "de": "Vognsbøl Sø",
+            "hu": "Vognsbøl Sø",
+            "ro": "Vognsbøl Sø",
+            "en": "Vognsbøl Sø"
+          },
+          "coords": [
+            8.438307,
+            55.488456
+          ],
+          "category": "natural",
+          "arrive_at": "13:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie um diesen ruhigen Stadtsee, der bei Joggern beliebt ist, und vergessen Sie nicht, Vogelfutter für die Enten und Schwäne mitzubringen.",
+            "hu": "Sétáljon egyet ezen a nyugodt, kocogók körében is népszerű városi tavon, és ne felejtsen el madáreledelt hozni az itt élő kacsáknak és hattyúknak.",
+            "ro": "Plimbați-vă în jurul acestui lac urban liniștit, popular printre alergători, și nu uitați să aduceți semințe pentru rațele și lebedele rezidente.",
+            "en": "Stroll around this tranquil urban lake popular with local joggers, and don't forget to bring some birdseed for the resident ducks and swans."
+          }
+        },
+        {
+          "name": {
+            "de": "Sildesøen",
+            "hu": "Sildesøen",
+            "ro": "Sildesøen",
+            "en": "Sildesøen"
+          },
+          "coords": [
+            8.421029,
+            55.489895
+          ],
+          "category": "natural",
+          "arrive_at": "15:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses versteckte Naturjuwel mit wunderschönen Wasserspiegelungen, das sich ideal für die Naturfotografie zur goldenen Stunde eignet.",
+            "hu": "Fedezze fel ezt a rejtett természeti gyöngyszemet, ahol a víztükröződések gyönyörűek, így tökéletes egy gyors fotózáshoz az aranyórában.",
+            "ro": "Descoperiți această bijuterie naturală ascunsă, unde reflexiile apei sunt frumoase, fiind o oprire perfectă pentru fotografia de natură.",
+            "en": "Discover this hidden natural gem where the water reflections are beautiful, making it a perfect quick stop for nature photography during golden hour."
+          }
+        },
+        {
+          "name": {
+            "de": "Aqtiv",
+            "hu": "Aqtiv",
+            "ro": "Aqtiv",
+            "en": "Aqtiv"
+          },
+          "coords": [
+            8.414961,
+            55.483315
+          ],
+          "category": "family",
+          "arrive_at": "16:28",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erleben Sie dynamischen Wassersport in diesem modernen Aktivitätszentrum, wobei es sehr empfehlenswert ist, Ihre Ausrüstung im Voraus zu buchen.",
+            "hu": "Vegyen részt a dinamikus vízi sportokban ebben a modern aktív központban, ahol erősen ajánlott előre lefoglalni a szükséges felszereléseket.",
+            "ro": "Implicați-vă în sporturi nautice dinamice la acest centru modern de activități, unde rezervarea echipamentului în avans este foarte recomandată.",
+            "en": "Engage in dynamic watersports and outdoor fun at this modern activity center, where booking your equipment rental in advance is highly recommended."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour mit Kultur pur im Esbjerg Kunstmuseum. Mittags radeln Sie nach Osten, um Hermans Hule und die Schönheit des Lergravssøen zu erkunden. Die Nachmittagsfahrt führt Sie durch die weite Natur rund um Vognsbøl Sø und Sildesøen. Beenden Sie Ihren aktiven Tag mit einem Abend voller Wassersport oder entspannter Erholung im Aqtiv am Wasser.",
+        "hu": "Kezdje kerékpártúráját egy kis kultúrával az Esbjerg Kunstmuseumban. Délben tekerjen kelet felé, hogy felfedezze a Hermans Hule-t és a Lergravssøen szépségét. A délutáni út nyugatra vezet a Vognsbøl Sø és a Sildesøen körüli kiterjedt természeten keresztül. Zárja aktív napját az Aqtiv vízi sportokat és egyedülálló kikapcsolódást kínáló esti programjával a parton.",
+        "ro": "Începeți turul cu bicicleta cu o doză de cultură la Esbjerg Kunstmuseum. Până la amiază, pedalați spre est pentru a descoperi Hermans Hule și frumusețea Lergravssøen. Călătoria de după-amiază vă duce spre vest prin natura vastă din jurul Vognsbøl Sø și Sildesøen. Încheiați ziua activă cu o seară de emoție a sporturilor nautice sau relaxare la Aqtiv.",
+        "en": "Kick off your cycling tour with a dose of culture at the Esbjerg Kunstmuseum. By midday, pedal eastward to discover the indoor fun of Hermans Hule and the quiet beauty of Lergravssøen. The afternoon ride takes you west through the expansive nature surrounding Vognsbøl Sø and Sildesøen. Conclude your active day with an evening of watersport excitement or relaxation at Aqtiv."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:03",
+      "total_km": 12.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Esbjerg Kunstmuseum",
+            "hu": "Esbjerg Kunstmuseum",
+            "ro": "Esbjerg Kunstmuseum",
+            "en": "Esbjerg Kunstmuseum"
+          },
+          "coords": [
+            8.450574,
+            55.46424
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie zeitgenössische dänische Kunst und experimentelle Installationen, und beachten Sie die einzigartige sensorische Erfahrung der Duftausstellung.",
+            "hu": "Fedezze fel a kortárs dán művészetet és a kísérleti installációkat, de ne hagyja ki az illatkiállítás nyújtotta különleges érzékszervi élményt.",
+            "ro": "Explorați arta daneză contemporană și instalațiile experimentale, având în vedere că expoziția de parfumuri oferă o experiență senzorială unică.",
+            "en": "Explore contemporary Danish art and experimental installations, keeping in mind that the scent exhibition offers a unique sensory experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Aqtiv",
+            "hu": "Aqtiv",
+            "ro": "Aqtiv",
+            "en": "Aqtiv"
+          },
+          "coords": [
+            8.414961,
+            55.483315
+          ],
+          "category": "family",
+          "arrive_at": "10:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Erleben Sie dynamischen Wassersport in diesem modernen Aktivitätszentrum, wobei es sehr empfehlenswert ist, Ihre Ausrüstung im Voraus zu buchen.",
+            "hu": "Vegyen részt a dinamikus vízi sportokban ebben a modern aktív központban, ahol erősen ajánlott előre lefoglalni a szükséges felszereléseket.",
+            "ro": "Implicați-vă în sporturi nautice dinamice la acest centru modern de activități, unde rezervarea echipamentului în avans este foarte recomandată.",
+            "en": "Engage in dynamic watersports and outdoor fun at this modern activity center, where booking your equipment rental in advance is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Spangsbjerg Møllesø",
+            "hu": "Spangsbjerg Møllesø",
+            "ro": "Spangsbjerg Møllesø",
+            "en": "Spangsbjerg Møllesø"
+          },
+          "coords": [
+            8.449048,
+            55.494513
+          ],
+          "category": "natural",
+          "arrive_at": "12:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Kulisse des historischen Mühlensees, der einen Kontrast zur modernen Stadt bildet, und beobachten Sie die lokale Tierwelt am Ufer.",
+            "hu": "Csodálja meg a történelmi malomtó környezetét, amely remek kontrasztot alkot a várossal, és üljön le a vízpartra a vadvilág megfigyeléséhez.",
+            "ro": "Admirați decorul istoric al lacului morii care contrastează cu orașul modern și luați-vă un moment pentru a sta pe mal și a privi fauna sălbatică.",
+            "en": "Admire the historic mill lake setting that contrasts with the modern city, and take a moment to sit by the water's edge to simply watch the wildlife."
+          }
+        },
+        {
+          "name": {
+            "de": "Kvaglund Sø",
+            "hu": "Kvaglund Sø",
+            "ro": "Kvaglund Sø",
+            "en": "Kvaglund Sø"
+          },
+          "coords": [
+            8.469942,
+            55.494914
+          ],
+          "category": "natural",
+          "arrive_at": "13:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Atmen Sie die frische Luft an dieser weitläufigen Seeoase in der Vorstadt ein, die ein großartiger, ruhiger Ort für eine Pause für Radfahrer ist.",
+            "hu": "Szívja magába a friss levegőt ennél a kiterjedt külvárosi tónál, amely nagyszerű és csendes pihenőhely a festői szépségre vágyó kerékpárosoknak.",
+            "ro": "Respirați aer curat la această oază vastă de lac suburban, care servește drept un loc liniștit excelent pentru cicliștii care au nevoie de o pauză.",
+            "en": "Breathe in the fresh air at this expansive suburban lake oasis, which serves as a great, quiet spot for cycling enthusiasts needing a scenic break."
+          }
+        },
+        {
+          "name": {
+            "de": "Gjesing Sø",
+            "hu": "Gjesing Sø",
+            "ro": "Gjesing Sø",
+            "en": "Gjesing Sø"
+          },
+          "coords": [
+            8.441555,
+            55.514412
+          ],
+          "category": "natural",
+          "arrive_at": "14:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die üppige Vegetation rund um diesen nördlichen See und folgen Sie den gut markierten Wegen, um die besten Aussichten zu genießen.",
+            "hu": "Figyelje meg az ezen északi tavat körülvevő buja növényzetet, és kövesse a jól jelzett ösvényeket, hogy eltévedés nélkül élvezhesse a kilátást.",
+            "ro": "Observați vegetația luxuriantă care înconjoară acest lac nordic senin și urmați traseele bine marcate pentru a obține cele mai bune priveliști.",
+            "en": "Observe the lush vegetation surrounding this serene northern lake, and follow the well-marked trails to get the best views without getting lost."
+          }
+        },
+        {
+          "name": {
+            "de": "Tarp Sø",
+            "hu": "Tarp Sø",
+            "ro": "Tarp Sø",
+            "en": "Tarp Sø"
+          },
+          "coords": [
+            8.457646,
+            55.528359
+          ],
+          "category": "natural",
+          "arrive_at": "16:18",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihren Tag an diesem friedlichen Gewässer am Stadtrand ausklingen und bringen Sie eine warme Jacke mit, da es abends windig wird.",
+            "hu": "Zárja a napot ennél a békés vízfelületnél a város szélén, de hozzon magával egy meleg kabátot, mert a nyitott tájon estére feltámadhat a szél.",
+            "ro": "Încheiați ziua la această apă pașnică de la marginea orașului, aducând o jachetă caldă, deoarece peisajul deschis poate deveni destul de răcoros.",
+            "en": "Wrap up your day at this peaceful body of water on the city's edge, bringing a warm jacket as the open landscape can get quite breezy by evening."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Roadtrip beginnt zentral mit inspirierender Kunst im Esbjerg Kunstmuseum. Mittags fahren Sie an die Westküste für einen Energieschub im modernen Aqtiv-Zentrum. Am Nachmittag fahren Sie nach Norden, um die ruhigen Gewässer des Spangsbjerg Møllesø und Kvaglund Sø zu erleben. Ihr Tag endet weit im Norden an den malerischen und ruhigen Seen Gjesing Sø und Tarp Sø.",
+        "hu": "Az autós kirándulás a központban, az Esbjerg Kunstmuseum elgondolkodtató művészetével kezdődik. A dél a nyugati partra viszi, hogy energiát gyűjtsön a modern Aqtiv központban. Délután észak felé haladva élvezze a Spangsbjerg Møllesø és a Kvaglund Sø csendes vizeit. A nap a festői és hihetetlenül békés Gjesing Sø és Tarp Sø partján ér véget a messzi északon.",
+        "ro": "Călătoria dvs. cu mașina începe central cu arta de la Esbjerg Kunstmuseum. Amiaza vă aduce pe coasta de vest pentru o explozie de energie la centrul modern Aqtiv. În timpul după-amiezii, conduceți spre nord pentru a experimenta apele liniștite de la Spangsbjerg Møllesø și Kvaglund Sø. Ziua se încheie în nordul îndepărtat cu pitoreștile Gjesing Sø și Tarp Sø.",
+        "en": "Your road trip starts centrally with thought-provoking art at the Esbjerg Kunstmuseum. Midday brings you to the western coast for a burst of energy at the modern Aqtiv center. During the afternoon, drive north to experience the tranquil waters of Spangsbjerg Møllesø and Kvaglund Sø. Your day concludes far north with the picturesque and incredibly peaceful Gjesing Sø and Tarp Sø."
+      }
+    }
+  }
+}

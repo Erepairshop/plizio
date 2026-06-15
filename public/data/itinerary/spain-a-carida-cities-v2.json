@@ -1,0 +1,520 @@
+{
+  "city_id": "spain-a-carida-cities-v2",
+  "anchor": {
+    "name": "A Caridá",
+    "coords": [
+      -6.82899,
+      43.55097
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:26",
+      "total_km": 2.75,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ayuntamiento de El Franco",
+            "hu": "Ayuntamiento de El Franco",
+            "ro": "Ayuntamiento de El Franco",
+            "en": "Ayuntamiento de El Franco"
+          },
+          "coords": [
+            -6.829371,
+            43.551045
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur des Rathauses, das historische Herz der Gemeinde, und machen Sie frühzeitig Fotos, bevor der Platz belebt wird.",
+            "hu": "Csodálja meg a városháza klasszikus építészetét, amely a település történelmi szíve, és készítsen fotókat korán, mielőtt a tér megtelik emberekkel.",
+            "ro": "Admirați arhitectura clasică a primăriei, care reprezintă inima istorică a municipalității, și faceți fotografii devreme, înainte ca piața să se aglomereze.",
+            "en": "Admire the classic architecture of the town hall, which stands as the historical heart of the municipality, and capture photos early before the square gets busy."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de la Forja",
+            "hu": "Museo de la Forja",
+            "ro": "Museo de la Forja",
+            "en": "Museo de la Forja"
+          },
+          "coords": [
+            -6.827536,
+            43.550213
+          ],
+          "category": "museum",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Tradition der lokalen Eisenverarbeitung, die die Wirtschaft prägte, und fragen Sie den freundlichen Kurator nach einer Vorführung.",
+            "hu": "Fedezze fel a helyi vasművesség lenyűgöző hagyományát, amely meghatározta a régió gazdaságát, és kérjen élő bemutatót a barátságos kurátortól.",
+            "ro": "Explorați tradiția fascinantă a prelucrării fierului care a modelat economia regiunii și nu uitați să cereți curatorului prietenos o demonstrație live.",
+            "en": "Explore the fascinating tradition of local ironworking that shaped the region's economy, and don't forget to ask the friendly curator for a live demonstration."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Permenande",
+            "hu": "Playa de Permenande",
+            "ro": "Playa de Permenande",
+            "en": "Playa de Permenande"
+          },
+          "coords": [
+            -6.826472,
+            43.564003
+          ],
+          "category": "recreational",
+          "arrive_at": "12:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen, ruhigen Strand umgeben von dramatischen Klippen, und bringen Sie feste Wasserschuhe mit, um die felsige Küste sicher zu erkunden.",
+            "hu": "Pihenjen ezen a festői, nyugodt, drámai sziklákkal körülvett strandon, és hozzon masszív vízi cipőt a sziklás partvonal biztonságos felfedezéséhez apálykor.",
+            "ro": "Relaxați-vă pe această plajă pitorească și liniștită, înconjurată de stânci dramatice, aducând încălțăminte de apă rezistentă pentru a naviga țărmul stâncos la reflux.",
+            "en": "Relax on this picturesque, tranquil beach surrounded by dramatic cliffs, bringing sturdy water shoes to navigate the rocky shoreline safely during low tide."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de la Atalaya",
+            "hu": "Mirador de la Atalaya",
+            "ro": "Mirador de la Atalaya",
+            "en": "Mirador de la Atalaya"
+          },
+          "coords": [
+            -6.839042,
+            43.565864
+          ],
+          "category": "natural",
+          "arrive_at": "14:03",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf das Kantabrische Meer bis zum Horizont und bringen Sie ein Fernglas mit, um Seevögel in der Thermik zu beobachten.",
+            "hu": "Szívja magába a Kantábriai-tengerre nyíló lélegzetelállító panorámát, és mindenképpen hozzon távcsövet a termikeket meglovagló tengeri madarak megfigyeléséhez.",
+            "ro": "Bucurați-vă de priveliștile panoramice uluitoare ale Mării Cantabrice ce se întind până la orizont, asigurându-vă că aduceți binoclu pentru a observa păsările marine.",
+            "en": "Soak in the breathtaking panoramic views of the Cantabrian Sea stretching to the horizon, making sure to bring binoculars to spot seabirds riding the thermal currents."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de Viavélez",
+            "hu": "Mirador de Viavélez",
+            "ro": "Mirador de Viavélez",
+            "en": "Mirador de Viavélez"
+          },
+          "coords": [
+            -6.84085,
+            43.564678
+          ],
+          "category": "natural",
+          "arrive_at": "14:31",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie den malerischen Fischerhafen in einer natürlichen Bucht und planen Sie Ihren Besuch kurz vor Sonnenuntergang für das beste goldene Licht auf dem Wasser.",
+            "hu": "Csodálja meg a természetes öbölbe tökéletesen megbúvó festői halászkikötőt, és időzítse látogatását naplemente környékére a leglátványosabb aranyórai fényekért.",
+            "ro": "Minunați-vă de portul pitoresc de pescuit ascuns perfect într-un golf natural și planificați-vă vizita aproape de apus pentru cea mai spectaculoasă lumină aurie.",
+            "en": "Marvel at the picturesque fishing port tucked perfectly into a natural inlet, and time your visit near sunset for the most spectacular golden hour lighting on the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie am historischen Rathaus und genießen Sie die ruhige Atmosphäre von A Caridá, gefolgt von einem faszinierenden Einblick in die lokale Schmiedetradition im Museum.\n\nMittag: Spazieren Sie nach Norden zur Playa de Permenande, wo Sie sich bei den rauschenden Wellen entspannen und die raue, unberührte Küstenlandschaft genießen können.\n\nNachmittag: Setzen Sie den Spaziergang zu den spektakulären Aussichtspunkten fort; der Mirador de la Atalaya bietet weite Panoramen über das tiefblaue Kantabrische Meer.\n\nAbend: Beenden Sie Ihre landschaftlich reizvolle Tour am Mirador de Viavélez und beobachten Sie, wie sich die warmen Farben des Sonnenuntergangs im ruhigen Wasser des Fischerhafens spiegeln.",
+        "hu": "Reggel: Kezdjen a történelmi városházánál, magába szívva A Caridá békés hangulatát, majd merüljön el a helyi kovácsmesterség lenyűgöző világában a múzeumban.\n\nDél: Sétáljon északra a part felé a Playa de Permenande-hoz, ahol megpihenhet a morajló hullámok mellett, és élvezheti a zord, érintetlen tengerparti tájat.\n\nDélután: Folytassa sétáját a látványos kilátók felé; a Mirador de la Atalaya lenyűgöző panorámát nyújt a végtelenbe nyúló mélykék Kantábriai-tengerre.\n\nEste: Zárja festői sétáját a Mirador de Viavéleznél, figyelve, ahogy a naplemente meleg színei visszatükröződnek a bájos halászkikötő csendes vizén.",
+        "ro": "Dimineață: Începeți la primăria istorică, bucurându-vă de atmosfera senină din A Caridá, urmată de o incursiune fascinantă în tradițiile locale de prelucrare a fierului la muzeu.\n\nPrânz: Îndreptați-vă spre nord către coastă pentru a ajunge la Playa de Permenande, unde vă puteți relaxa ascultând valurile și admirând peisajul de coastă neatins.\n\nDupă-amiază: Continuați plimbarea către punctele de belvedere spectaculoase; Mirador de la Atalaya oferă panorame vaste ale Mării Cantabrice care se întinde nesfârșit.\n\nSeară: Încheiați-vă turul pitoresc la Mirador de Viavélez, privind culorile calde ale apusului care se reflectă pe apele liniștite ale fermecătorului port de pescuit.",
+        "en": "Morning: Start at the historical town hall, taking in the serene morning atmosphere of A Caridá, followed by a fascinating immersion into local ironworking traditions at the museum.\n\nMidday: Head north towards the coastline to reach Playa de Permenande, where you can relax by the crashing waves and enjoy the rugged, untouched coastal landscape.\n\nAfternoon: Continue your walk to the spectacular viewpoints; the Mirador de la Atalaya offers sweeping panoramas of the deep blue Cantabrian Sea stretching endlessly.\n\nEvening: Conclude your scenic walking tour at the Mirador de Viavélez, watching the warm sunset colors reflect off the tranquil waters of the charming fishing harbor."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:20",
+      "total_km": 5.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ayuntamiento de El Franco",
+            "hu": "Ayuntamiento de El Franco",
+            "ro": "Ayuntamiento de El Franco",
+            "en": "Ayuntamiento de El Franco"
+          },
+          "coords": [
+            -6.829371,
+            43.551045
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur des Rathauses, das historische Herz der Gemeinde, und machen Sie frühzeitig Fotos, bevor der Platz belebt wird.",
+            "hu": "Csodálja meg a városháza klasszikus építészetét, amely a település történelmi szíve, és készítsen fotókat korán, mielőtt a tér megtelik emberekkel.",
+            "ro": "Admirați arhitectura clasică a primăriei, care reprezintă inima istorică a municipalității, și faceți fotografii devreme, înainte ca piața să se aglomereze.",
+            "en": "Admire the classic architecture of the town hall, which stands as the historical heart of the municipality, and capture photos early before the square gets busy."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Cambaredo",
+            "hu": "Playa de Cambaredo",
+            "ro": "Playa de Cambaredo",
+            "en": "Playa de Cambaredo"
+          },
+          "coords": [
+            -6.817485,
+            43.556091
+          ],
+          "category": "recreational",
+          "arrive_at": "10:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die raue, unberührte Schönheit dieser abgelegenen Bucht mit kristallklarem Wasser, und packen Sie Snacks ein, da es hier keine kommerziellen Einrichtungen gibt.",
+            "hu": "Élvezze ennek az eldugott, kristálytiszta vizű öbölnek a nyers, érintetlen szépségét, és csomagoljon saját rágcsálnivalót, mivel a közelben nincsenek kereskedelmi egységek.",
+            "ro": "Bucurați-vă de frumusețea crudă a acestui golf retras cu ape cristaline, împachetând propriile gustări, deoarece nu există facilități comerciale în apropiere.",
+            "en": "Enjoy the raw, unspoiled beauty of this secluded cove with crystal-clear waters, packing your own snacks and drinks as there are no commercial facilities nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Castello",
+            "hu": "Playa de Castello",
+            "ro": "Playa de Castello",
+            "en": "Playa de Castello"
+          },
+          "coords": [
+            -6.810628,
+            43.554519
+          ],
+          "category": "recreational",
+          "arrive_at": "11:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der faszinierenden Felsformationen dieses weitläufigen Strandes und achten Sie auf die Gezeiten, um nicht vom Hauptweg abgeschnitten zu werden.",
+            "hu": "Sétáljon végig a kiterjedt strandot őrző lenyűgöző sziklaalakzatok mentén, és figyelje az árapály-táblázatot, hogy ne vágja el a víz a fő útvonaltól.",
+            "ro": "Plimbați-vă de-a lungul formațiunilor stâncoase fascinante care păzesc această plajă și fiți atenți la programul mareelor pentru a nu fi izolați de calea principală.",
+            "en": "Stroll along the fascinating rock formations that guard this expansive beach, and keep an eye on the tide schedule to ensure you don't get cut off from the main path."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Permenande",
+            "hu": "Playa de Permenande",
+            "ro": "Playa de Permenande",
+            "en": "Playa de Permenande"
+          },
+          "coords": [
+            -6.826472,
+            43.564003
+          ],
+          "category": "recreational",
+          "arrive_at": "13:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen, ruhigen Strand umgeben von dramatischen Klippen, und bringen Sie feste Wasserschuhe mit, um die felsige Küste sicher zu erkunden.",
+            "hu": "Pihenjen ezen a festői, nyugodt, drámai sziklákkal körülvett strandon, és hozzon masszív vízi cipőt a sziklás partvonal biztonságos felfedezéséhez apálykor.",
+            "ro": "Relaxați-vă pe această plajă pitorească și liniștită, înconjurată de stânci dramatice, aducând încălțăminte de apă rezistentă pentru a naviga țărmul stâncos la reflux.",
+            "en": "Relax on this picturesque, tranquil beach surrounded by dramatic cliffs, bringing sturdy water shoes to navigate the rocky shoreline safely during low tide."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de la Atalaya",
+            "hu": "Mirador de la Atalaya",
+            "ro": "Mirador de la Atalaya",
+            "en": "Mirador de la Atalaya"
+          },
+          "coords": [
+            -6.839042,
+            43.565864
+          ],
+          "category": "natural",
+          "arrive_at": "14:39",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf das Kantabrische Meer bis zum Horizont und bringen Sie ein Fernglas mit, um Seevögel in der Thermik zu beobachten.",
+            "hu": "Szívja magába a Kantábriai-tengerre nyíló lélegzetelállító panorámát, és mindenképpen hozzon távcsövet a termikeket meglovagló tengeri madarak megfigyeléséhez.",
+            "ro": "Bucurați-vă de priveliștile panoramice uluitoare ale Mării Cantabrice ce se întind până la orizont, asigurându-vă că aduceți binoclu pentru a observa păsările marine.",
+            "en": "Soak in the breathtaking panoramic views of the Cantabrian Sea stretching to the horizon, making sure to bring binoculars to spot seabirds riding the thermal currents."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de Viavélez",
+            "hu": "Mirador de Viavélez",
+            "ro": "Mirador de Viavélez",
+            "en": "Mirador de Viavélez"
+          },
+          "coords": [
+            -6.84085,
+            43.564678
+          ],
+          "category": "natural",
+          "arrive_at": "15:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie den malerischen Fischerhafen in einer natürlichen Bucht und planen Sie Ihren Besuch kurz vor Sonnenuntergang für das beste goldene Licht auf dem Wasser.",
+            "hu": "Csodálja meg a természetes öbölbe tökéletesen megbúvó festői halászkikötőt, és időzítse látogatását naplemente környékére a leglátványosabb aranyórai fényekért.",
+            "ro": "Minunați-vă de portul pitoresc de pescuit ascuns perfect într-un golf natural și planificați-vă vizita aproape de apus pentru cea mai spectaculoasă lumină aurie.",
+            "en": "Marvel at the picturesque fishing port tucked perfectly into a natural inlet, and time your visit near sunset for the most spectacular golden hour lighting on the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Monellos",
+            "hu": "Playa de Monellos",
+            "ro": "Playa de Monellos",
+            "en": "Playa de Monellos"
+          },
+          "coords": [
+            -6.8518,
+            43.562521
+          ],
+          "category": "recreational",
+          "arrive_at": "15:35",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses versteckte Küstenjuwel, wo grüne Wiesen auf dramatische Meereswellen treffen, und bringen Sie eine Windjacke für die frische Meeresbrise mit.",
+            "hu": "Fedezze fel ezt a rejtett tengerparti gyöngyszemet, ahol zöld rétek találkoznak az óceán hullámaival, és hozzon széldzsekit az élénk tengeri szél ellen.",
+            "ro": "Descoperiți această bijuterie de coastă ascunsă unde pajiștile verzi întâlnesc valurile dramatice, aducând o geacă de vânt pentru a sta confortabil în briza mării.",
+            "en": "Discover this hidden coastal gem where the green meadows meet the dramatic ocean waves, bringing a windbreaker to stay comfortable in the brisk ocean breeze."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie Ihr Fahrradabenteuer am Rathaus im Zentrum und radeln Sie dann nach Osten, um die unberührten, weißen Strände der Playa de Cambaredo zu entdecken.\n\nMittag: Fahren Sie entlang der Küstenwege zur Playa de Castello und lassen Sie sich von der Meeresbrise abkühlen, während Sie die dramatischen Felsformationen am Meer erkunden.\n\nNachmittag: Fahren Sie nach Norden zur Playa de Permenande für weitere Entspannung am Strand und bezwingen Sie dann die sanften Hügel hinauf zum Mirador de la Atalaya.\n\nAbend: Nachdem Sie die Aussicht über Viavélez genossen haben, radeln Sie nach Westen, um Ihren aktiven Tag an der ruhigen Playa de Monellos ausklingen zu lassen.",
+        "hu": "Reggel: Kezdje kerékpáros kalandját a központban lévő városházánál, majd tekerjen kelet felé, hogy felfedezze a Playa de Cambaredo érintetlen, finom homokját.\n\nDél: Lovagoljon a gyönyörű parti utakon a Playa de Castello felé, hagyva, hogy a tengeri szél lehűtse, miközben felfedezi a drámai sziklaalakzatokat a víz mentén.\n\nDélután: Vegye az irányt északra, a Playa de Permenande felé további pihenésért, majd küzdje le az enyhe dombokat, amelyek a fenséges Mirador de la Atalaya-hoz vezetnek.\n\nEste: Miután kiélvezte a Viavélezre nyíló kilátást, tekerjen nyugatra, és zárja aktív napját a Playa de Monellos partján a békés alkonyi fényekben.",
+        "ro": "Dimineață: Începeți aventura pe bicicletă la primăria din centru, apoi pedalați spre est pentru a descoperi nisipurile imaculate și retrase de la Playa de Cambaredo.\n\nPrânz: Mergeți de-a lungul coastelor frumoase către Playa de Castello, lăsând briza oceanului să vă răcorească în timp ce explorați formațiunile stâncoase dramatice.\n\nDupă-amiază: Îndreptați-vă spre nord către Playa de Permenande pentru mai multă relaxare, apoi cuceriți dealurile blânde care duc la maiestuosul Mirador de la Atalaya.\n\nSeară: După ce v-ați bucurat de priveliștile asupra Viavélez, pedalați spre vest pentru a încheia ziua la Playa de Monellos, savurând ambianța liniștită a amurgului.",
+        "en": "Morning: Kick off your cycling adventure at the town hall in the center, then pedal eastwards to discover the secluded, pristine sands of Playa de Cambaredo.\n\nMidday: Ride along the beautiful coastal routes to Playa de Castello, letting the ocean breeze cool you down as you explore the dramatic rock formations by the sea.\n\nAfternoon: Head north towards Playa de Permenande for more beachside relaxation, then conquer the gentle hills leading up to the majestic Mirador de la Atalaya.\n\nEvening: After enjoying the views over Viavélez, cycle westward to finish your active day at Playa de Monellos, soaking in the peaceful twilight ambiance on the shore."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:39",
+      "total_km": 8.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo de la Forja",
+            "hu": "Museo de la Forja",
+            "ro": "Museo de la Forja",
+            "en": "Museo de la Forja"
+          },
+          "coords": [
+            -6.827536,
+            43.550213
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Tradition der lokalen Eisenverarbeitung, die die Wirtschaft prägte, und fragen Sie den freundlichen Kurator nach einer Vorführung.",
+            "hu": "Fedezze fel a helyi vasművesség lenyűgöző hagyományát, amely meghatározta a régió gazdaságát, és kérjen élő bemutatót a barátságos kurátortól.",
+            "ro": "Explorați tradiția fascinantă a prelucrării fierului care a modelat economia regiunii și nu uitați să cereți curatorului prietenos o demonstrație live.",
+            "en": "Explore the fascinating tradition of local ironworking that shaped the region's economy, and don't forget to ask the friendly curator for a live demonstration."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Armaza",
+            "hu": "Playa de Armaza",
+            "ro": "Playa de Armaza",
+            "en": "Playa de Armaza"
+          },
+          "coords": [
+            -6.799365,
+            43.555455
+          ],
+          "category": "recreational",
+          "arrive_at": "10:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die kraftvolle Schönheit der kantabrischen Küste an diesem abgelegenen Ort und gehen Sie den steilen Zugangsweg vorsichtig in geeigneten Wanderschuhen hinab.",
+            "hu": "Tapasztalja meg a kantábriai partok erőteljes szépségét ezen az eldugott helyen, és óvatosan ereszkedjen le a meredek hozzáférési ösvényen megfelelő túracipőben.",
+            "ro": "Experimentați frumusețea puternică a coastei Cantabrice în acest loc retras, coborând cu grijă pe poteca de acces abruptă, purtând încălțăminte adecvată pentru drumeții.",
+            "en": "Experience the powerful beauty of the Cantabrian coast at this secluded spot, carefully walking down the steep access trail while wearing appropriate hiking footwear."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Castello",
+            "hu": "Playa de Castello",
+            "ro": "Playa de Castello",
+            "en": "Playa de Castello"
+          },
+          "coords": [
+            -6.810628,
+            43.554519
+          ],
+          "category": "recreational",
+          "arrive_at": "12:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der faszinierenden Felsformationen dieses weitläufigen Strandes und achten Sie auf die Gezeiten, um nicht vom Hauptweg abgeschnitten zu werden.",
+            "hu": "Sétáljon végig a kiterjedt strandot őrző lenyűgöző sziklaalakzatok mentén, és figyelje az árapály-táblázatot, hogy ne vágja el a víz a fő útvonaltól.",
+            "ro": "Plimbați-vă de-a lungul formațiunilor stâncoase fascinante care păzesc această plajă și fiți atenți la programul mareelor pentru a nu fi izolați de calea principală.",
+            "en": "Stroll along the fascinating rock formations that guard this expansive beach, and keep an eye on the tide schedule to ensure you don't get cut off from the main path."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Cambaredo",
+            "hu": "Playa de Cambaredo",
+            "ro": "Playa de Cambaredo",
+            "en": "Playa de Cambaredo"
+          },
+          "coords": [
+            -6.817485,
+            43.556091
+          ],
+          "category": "recreational",
+          "arrive_at": "13:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die raue, unberührte Schönheit dieser abgelegenen Bucht mit kristallklarem Wasser, und packen Sie Snacks ein, da es hier keine kommerziellen Einrichtungen gibt.",
+            "hu": "Élvezze ennek az eldugott, kristálytiszta vizű öbölnek a nyers, érintetlen szépségét, és csomagoljon saját rágcsálnivalót, mivel a közelben nincsenek kereskedelmi egységek.",
+            "ro": "Bucurați-vă de frumusețea crudă a acestui golf retras cu ape cristaline, împachetând propriile gustări, deoarece nu există facilități comerciale în apropiere.",
+            "en": "Enjoy the raw, unspoiled beauty of this secluded cove with crystal-clear waters, packing your own snacks and drinks as there are no commercial facilities nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Ayuntamiento de El Franco",
+            "hu": "Ayuntamiento de El Franco",
+            "ro": "Ayuntamiento de El Franco",
+            "en": "Ayuntamiento de El Franco"
+          },
+          "coords": [
+            -6.829371,
+            43.551045
+          ],
+          "category": "historical",
+          "arrive_at": "14:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur des Rathauses, das historische Herz der Gemeinde, und machen Sie frühzeitig Fotos, bevor der Platz belebt wird.",
+            "hu": "Csodálja meg a városháza klasszikus építészetét, amely a település történelmi szíve, és készítsen fotókat korán, mielőtt a tér megtelik emberekkel.",
+            "ro": "Admirați arhitectura clasică a primăriei, care reprezintă inima istorică a municipalității, și faceți fotografii devreme, înainte ca piața să se aglomereze.",
+            "en": "Admire the classic architecture of the town hall, which stands as the historical heart of the municipality, and capture photos early before the square gets busy."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Permenande",
+            "hu": "Playa de Permenande",
+            "ro": "Playa de Permenande",
+            "en": "Playa de Permenande"
+          },
+          "coords": [
+            -6.826472,
+            43.564003
+          ],
+          "category": "recreational",
+          "arrive_at": "16:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen, ruhigen Strand umgeben von dramatischen Klippen, und bringen Sie feste Wasserschuhe mit, um die felsige Küste sicher zu erkunden.",
+            "hu": "Pihenjen ezen a festői, nyugodt, drámai sziklákkal körülvett strandon, és hozzon masszív vízi cipőt a sziklás partvonal biztonságos felfedezéséhez apálykor.",
+            "ro": "Relaxați-vă pe această plajă pitorească și liniștită, înconjurată de stânci dramatice, aducând încălțăminte de apă rezistentă pentru a naviga țărmul stâncos la reflux.",
+            "en": "Relax on this picturesque, tranquil beach surrounded by dramatic cliffs, bringing sturdy water shoes to navigate the rocky shoreline safely during low tide."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de la Atalaya",
+            "hu": "Mirador de la Atalaya",
+            "ro": "Mirador de la Atalaya",
+            "en": "Mirador de la Atalaya"
+          },
+          "coords": [
+            -6.839042,
+            43.565864
+          ],
+          "category": "natural",
+          "arrive_at": "17:26",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf das Kantabrische Meer bis zum Horizont und bringen Sie ein Fernglas mit, um Seevögel in der Thermik zu beobachten.",
+            "hu": "Szívja magába a Kantábriai-tengerre nyíló lélegzetelállító panorámát, és mindenképpen hozzon távcsövet a termikeket meglovagló tengeri madarak megfigyeléséhez.",
+            "ro": "Bucurați-vă de priveliștile panoramice uluitoare ale Mării Cantabrice ce se întind până la orizont, asigurându-vă că aduceți binoclu pentru a observa păsările marine.",
+            "en": "Soak in the breathtaking panoramic views of the Cantabrian Sea stretching to the horizon, making sure to bring binoculars to spot seabirds riding the thermal currents."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Monellos",
+            "hu": "Playa de Monellos",
+            "ro": "Playa de Monellos",
+            "en": "Playa de Monellos"
+          },
+          "coords": [
+            -6.8518,
+            43.562521
+          ],
+          "category": "recreational",
+          "arrive_at": "17:54",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses versteckte Küstenjuwel, wo grüne Wiesen auf dramatische Meereswellen treffen, und bringen Sie eine Windjacke für die frische Meeresbrise mit.",
+            "hu": "Fedezze fel ezt a rejtett tengerparti gyöngyszemet, ahol zöld rétek találkoznak az óceán hullámaival, és hozzon széldzsekit az élénk tengeri szél ellen.",
+            "ro": "Descoperiți această bijuterie de coastă ascunsă unde pajiștile verzi întâlnesc valurile dramatice, aducând o geacă de vânt pentru a sta confortabil în briza mării.",
+            "en": "Discover this hidden coastal gem where the green meadows meet the dramatic ocean waves, bringing a windbreaker to stay comfortable in the brisk ocean breeze."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie mit einem tiefen Einblick in das lokale Erbe im Museo de la Forja und fahren Sie dann nach Osten, um die raue Küstenlandschaft der Playa de Armaza zu erleben.\n\nMittag: Springen Sie zwischen den herrlichen östlichen Stränden von Castello und Cambaredo hin und her und nutzen Sie die Flexibilität Ihres Autos, um diese sandigen Buchten zu erkunden.\n\nNachmittag: Kehren Sie kurz ins Zentrum zum historischen Rathaus zurück, bevor Sie die Küste hinauf zur Playa de Permenande und den atemberaubenden Höhen von Atalaya fahren.\n\nAbend: Beenden Sie Ihren ausgiebigen Roadtrip an der Playa de Monellos am westlichen Rand, wo Sie den Sonnenuntergang über dem Atlantik vor der Rückfahrt beobachten können.",
+        "hu": "Reggel: Kezdje a helyi örökség mélyebb megismerésével a Museo de la Forja-ban, majd vezessen kelet felé, hogy megtapasztalja a Playa de Armaza nyers, erőteljes tengerparti táját.\n\nDél: Ugráljon a csodálatos keleti strandok, Castello és Cambaredo között, kihasználva autója rugalmasságát e zord, gyönyörű homokos öblök felfedezéséhez.\n\nDélután: Térjen vissza egy pillanatra a városközpontba a történelmi városházához, majd hajtson fel a parton a Playa de Permenande-hoz és az Atalaya lenyűgöző magaslataihoz.\n\nEste: Zárja kiterjedt autós túráját a nyugati szélén található Playa de Monellosnál, ahol visszaindulás előtt végignézheti az Atlanti-óceán feletti naplementét.",
+        "ro": "Dimineață: Începeți cu o scufundare profundă în patrimoniul local la Museo de la Forja, apoi conduceți spre est pentru a experimenta peisajul aspru și puternic de la Playa de Armaza.\n\nPrânz: Săriți între plajele magnifice din est, Castello și Cambaredo, bucurându-vă de flexibilitatea mașinii pentru a explora aceste golfuri nisipoase și izolate.\n\nDupă-amiază: Reveniți scurt în centrul orașului pentru primăria istorică, apoi navigați pe coastă către Playa de Permenande și înălțimile uluitoare de la Atalaya.\n\nSeară: Încheiați-vă călătoria cu mașina la Playa de Monellos la marginea de vest, unde puteți urmări apusul peste Atlantic înainte de a conduce înapoi.",
+        "en": "Morning: Begin with a deep dive into local heritage at the Museo de la Forja, then drive east to experience the raw, powerful coastal scenery at Playa de Armaza.\n\nMidday: Hop between the magnificent eastern beaches of Castello and Cambaredo, enjoying the flexibility of your car to explore these rugged, beautiful sandy coves.\n\nAfternoon: Return briefly to the town center for the historical Ayuntamiento, then cruise up the coast to Playa de Permenande and the stunning heights of Atalaya.\n\nEvening: Wrap up your extensive road trip at Playa de Monellos on the western edge, where you can watch the sunset over the Atlantic before driving back."
+      }
+    }
+  }
+}

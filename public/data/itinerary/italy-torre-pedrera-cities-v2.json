@@ -1,0 +1,405 @@
+{
+  "city_id": "italy-torre-pedrera-cities-v2",
+  "anchor": {
+    "name": "Torre Pedrera",
+    "coords": [
+      12.51047,
+      44.10693
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:36",
+      "total_km": 1.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Pfarrkirche Torre Pedrera",
+            "hu": "Torre Pedrera Plébániatemplom",
+            "ro": "Biserica Parohială Torre Pedrera",
+            "en": "Torre Pedrera Parish Church"
+          },
+          "coords": [
+            12.510129,
+            44.106618
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Eleganz dieser örtlichen Pfarrkirche, die einen friedlichen Rückzugsort bietet; achten Sie auf angemessene Kleidung.",
+            "hu": "Csodálja meg ennek a helyi plébániatemplomnak az egyszerű, de elegáns építészetét, amely békés menedéket kínál; kérjük, öltözzön szerényen a belépéskor.",
+            "ro": "Admirați arhitectura simplă și elegantă a acestei biserici parohiale care oferă un refugiu liniștit; vă rugăm să vă îmbrăcați modest la intrare.",
+            "en": "Admire the simple yet elegant architecture of this local parish church, which offers a peaceful retreat; please remember to dress modestly when entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Rinato 68/89",
+            "hu": "Bagno Rinato 68/89",
+            "ro": "Bagno Rinato 68/89",
+            "en": "Bagno Rinato 68/89"
+          },
+          "coords": [
+            12.510488,
+            44.109261
+          ],
+          "category": "recreational",
+          "arrive_at": "09:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den goldenen Sand und die familienfreundliche Atmosphäre dieses klassischen Strandclubs; mieten Sie frühzeitig einen Sonnenschirm.",
+            "hu": "Élvezze a klasszikus strandklub aranyhomokját és családbarát légkörét; egy napernyő korai bérlése tökéletes helyet biztosít a víz közelében.",
+            "ro": "Bucurați-vă de nisipul auriu și de atmosfera familială a acestui club clasic de plajă; închirierea timpurie a unei umbrele asigură un loc perfect.",
+            "en": "Enjoy the golden sands and family-friendly atmosphere of this classic beach club; renting an umbrella early ensures a perfect spot near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Belaburderla",
+            "hu": "Belaburderla",
+            "ro": "Belaburderla",
+            "en": "Belaburderla"
+          },
+          "coords": [
+            12.509029,
+            44.11024
+          ],
+          "category": "recreational",
+          "arrive_at": "11:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Strandenergie und die erfrischende Meeresbrise an diesem Ort; bringen Sie Sonnencreme und ein gutes Buch zum Entspannen mit.",
+            "hu": "Tapasztalja meg a tengerparti energiát és a frissítő tengeri szellőt ezen a kedves pihenőhelyen; hozzon magával naptejet és egy jó könyvet.",
+            "ro": "Experimentați energia vibrantă a litoralului și briza mării în acest loc minunat de recreere; aduceți protecție solară și o carte bună pentru relaxare.",
+            "en": "Experience the vibrant seaside energy and refreshing sea breeze at this lovely recreational spot; bring some sunscreen and a good book to relax."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno 72 Onda Blue Village",
+            "hu": "Bagno 72 Onda Blue Village",
+            "ro": "Bagno 72 Onda Blue Village",
+            "en": "Bagno 72 Onda Blue Village"
+          },
+          "coords": [
+            12.507659,
+            44.111375
+          ],
+          "category": "recreational",
+          "arrive_at": "12:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das klare Wasser ein und genießen Sie die Einrichtungen dieses lebhaften Resorts; holen Sie sich ein kaltes Getränk am Strandkiosk.",
+            "hu": "Merüljön el a tiszta vízben, és élvezze e nyüzsgő üdülőhely létesítményeit; vegyen egy frissítő hideg italt a közeli strandkioszkban, hogy lehűljön.",
+            "ro": "Scufundați-vă în apele clare și bucurați-vă de facilitățile acestui complex plin de viață; luați o băutură rece și răcoritoare de la chioșcul de plajă.",
+            "en": "Dive into the clear waters and enjoy the extensive facilities of this lively beach resort; grab a refreshing cold drink from the nearby beach kiosk."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno 76 Kamoke Beach",
+            "hu": "Bagno 76 Kamoke Beach",
+            "ro": "Bagno 76 Kamoke Beach",
+            "en": "Bagno 76 Kamoke Beach"
+          },
+          "coords": [
+            12.505761,
+            44.113072
+          ],
+          "category": "recreational",
+          "arrive_at": "13:51",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie auf den gepflegten Sonnenliegen an diesem beliebten Ort; bleiben Sie bis spät, um den wunderschönen Sonnenuntergang zu beobachten.",
+            "hu": "Pihenjen a jól karbantartott napozóágyakon ezen a népszerű helyen; maradjon későig, hogy megörökítse a tenger felett lenyugvó gyönyörű naplementét.",
+            "ro": "Relaxați-vă pe șezlongurile bine întreținute în acest loc popular; rămâneți până târziu pentru a prinde frumosul apus de soare deasupra mării.",
+            "en": "Relax on the well-maintained sunbeds and soak up the afternoon sun at this popular spot; stay until late to catch the beautiful sunset over the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung des spirituellen Herzens von Torre Pedrera. Gegen Mittag bewegen Sie sich zur Küste, um die Sonne im Bagno Rinato zu genießen. Verbringen Sie den Nachmittag damit, die lebhafte Atmosphäre am Strand aufzusaugen. Beenden Sie den Tag entspannt am Kamoke Beach.",
+        "hu": "Kezdje a reggelt Torre Pedrera spirituális szívének felfedezésével a helyi plébánián. Közeledve a délhez, menjen a part felé, hogy élvezze a napsütést. Töltse a délutánt a vidám tengerparti hangulat élvezetével a helyi fürdőkben. Zárja a napot egy pihentető naplemente nézéssel a Kamoke Beach-en.",
+        "ro": "Începeți dimineața explorând inima spirituală a orașului la parohia locală. Pe măsură ce se apropie prânzul, îndreptați-vă spre coastă pentru a vă bucura de soare. Petreceți după-amiaza absorbind atmosfera plină de viață a stațiunilor balneare. Încheiați ziua cu o privire relaxantă a apusului de soare la plajă.",
+        "en": "Start your morning exploring the spiritual heart of Torre Pedrera at the local parish. As midday approaches, move towards the coast to embrace the sun at Bagno Rinato. Spend your afternoon soaking up the lively vibes at Belaburderla and Onda Blue Village. Conclude the day with a relaxing sunset watch at Kamoke Beach."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:35",
+      "total_km": 2.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bagno 46 Malu Beach",
+            "hu": "Bagno 46 Malu Beach",
+            "ro": "Bagno 46 Malu Beach",
+            "en": "Bagno 46 Malu Beach"
+          },
+          "coords": [
+            12.528007,
+            44.095258
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen mit einem ruhigen Spaziergang entlang der Küste dieses angenehmen Strandclubs; kommen Sie früh, um eine Premium-Liege zu ergattern.",
+            "hu": "Kezdje a reggelt egy békés sétával e kellemes strandklub partjain; érkezzen korán, hogy megkaparintson egy prémium nyugágyat közvetlenül a tenger mellett.",
+            "ro": "Începeți dimineața cu o plimbare liniștită pe țărmurile acestui club plăcut; ajungeți devreme pentru a prinde un șezlong premium chiar la mare.",
+            "en": "Start your morning with a peaceful stroll along the calm shores of this pleasant beach club; arrive early to snag a premium lounger right by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno 58 Amerigo",
+            "hu": "Bagno 58 Amerigo",
+            "ro": "Bagno 58 Amerigo",
+            "en": "Bagno 58 Amerigo"
+          },
+          "coords": [
+            12.518456,
+            44.102645
+          ],
+          "category": "recreational",
+          "arrive_at": "10:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Nehmen Sie ein erfrischendes Bad in der Adria und genießen Sie die entspannte Atmosphäre; vergessen Sie nicht Ihr Strandtuch und Ihre Sonnenbrille.",
+            "hu": "Vegyen egy frissítő fürdőt az Adriai-tengerben, és élvezze a hely nyugodt hangulatát; ne felejtse el magával hozni a strandtörölközőt és a napszemüveget.",
+            "ro": "Faceți o baie răcoritoare în Marea Adriatică și bucurați-vă de atmosfera relaxată a acestui loc; nu uitați prosopul de plajă și ochelarii de soare.",
+            "en": "Take a refreshing dip in the Adriatic Sea and enjoy the laid-back vibe of this bathing establishment; don't forget your beach towel and sunglasses."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche Torre Pedrera",
+            "hu": "Torre Pedrera Plébániatemplom",
+            "ro": "Biserica Parohială Torre Pedrera",
+            "en": "Torre Pedrera Parish Church"
+          },
+          "coords": [
+            12.510129,
+            44.106618
+          ],
+          "category": "religious",
+          "arrive_at": "11:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Eleganz dieser örtlichen Pfarrkirche, die einen friedlichen Rückzugsort bietet; achten Sie auf angemessene Kleidung.",
+            "hu": "Csodálja meg ennek a helyi plébániatemplomnak az egyszerű, de elegáns építészetét, amely békés menedéket kínál; kérjük, öltözzön szerényen a belépéskor.",
+            "ro": "Admirați arhitectura simplă și elegantă a acestei biserici parohiale care oferă un refugiu liniștit; vă rugăm să vă îmbrăcați modest la intrare.",
+            "en": "Admire the simple yet elegant architecture of this local parish church, which offers a peaceful retreat; please remember to dress modestly when entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno 72 Onda Blue Village",
+            "hu": "Bagno 72 Onda Blue Village",
+            "ro": "Bagno 72 Onda Blue Village",
+            "en": "Bagno 72 Onda Blue Village"
+          },
+          "coords": [
+            12.507659,
+            44.111375
+          ],
+          "category": "recreational",
+          "arrive_at": "12:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das klare Wasser ein und genießen Sie die Einrichtungen dieses lebhaften Resorts; holen Sie sich ein kaltes Getränk am Strandkiosk.",
+            "hu": "Merüljön el a tiszta vízben, és élvezze e nyüzsgő üdülőhely létesítményeit; vegyen egy frissítő hideg italt a közeli strandkioszkban, hogy lehűljön.",
+            "ro": "Scufundați-vă în apele clare și bucurați-vă de facilitățile acestui complex plin de viață; luați o băutură rece și răcoritoare de la chioșcul de plajă.",
+            "en": "Dive into the clear waters and enjoy the extensive facilities of this lively beach resort; grab a refreshing cold drink from the nearby beach kiosk."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno 76 Kamoke Beach",
+            "hu": "Bagno 76 Kamoke Beach",
+            "ro": "Bagno 76 Kamoke Beach",
+            "en": "Bagno 76 Kamoke Beach"
+          },
+          "coords": [
+            12.505761,
+            44.113072
+          ],
+          "category": "recreational",
+          "arrive_at": "13:50",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie auf den gepflegten Sonnenliegen an diesem beliebten Ort; bleiben Sie bis spät, um den wunderschönen Sonnenuntergang zu beobachten.",
+            "hu": "Pihenjen a jól karbantartott napozóágyakon ezen a népszerű helyen; maradjon későig, hogy megörökítse a tenger felett lenyugvó gyönyörű naplementét.",
+            "ro": "Relaxați-vă pe șezlongurile bine întreținute în acest loc popular; rămâneți până târziu pentru a prinde frumosul apus de soare deasupra mării.",
+            "en": "Relax on the well-maintained sunbeds and soak up the afternoon sun at this popular spot; stay until late to catch the beautiful sunset over the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour mit einem erfrischenden Stopp am Malu Beach. Der Mittag bringt eine angenehme Fahrt entlang der Küste in Richtung der charmanten Kirche der Stadt. Der Nachmittag ist perfekt, um weitere Strandclubs im Norden zu entdecken. Beenden Sie Ihren aktiven Tag am Kamoke Beach.",
+        "hu": "Kezdje kerékpártúráját egy frissítő megállóval a Malu Beach-en, hogy üdvözölje a tengert. A dél egy kellemes utazást hoz a part mentén a város hangulatos temploma felé. A délután tökéletes további nyüzsgő strandklubok felfedezésére északon. Fejezze be aktív napját a tengerparton, ahogy leszáll az este.",
+        "ro": "Începeți turul cu bicicleta cu o oprire revigorantă la Malu Beach pentru a saluta marea. Prânzul aduce o plimbare plăcută de-a lungul coastei spre biserica fermecătoare a orașului. După-amiaza este perfectă pentru a descoperi mai multe cluburi de plajă vibrante. Încheiați ziua activă la Kamoke Beach.",
+        "en": "Kick off your cycling tour with a refreshing stop at Malu Beach to greet the sea. Midday brings a pleasant ride along the coast towards Amerigo and the town's charming church. The afternoon is perfect for discovering more vibrant beach clubs up north. Finish your active day at Kamoke Beach as evening falls."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:19",
+      "total_km": 3.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Italia in Miniatura",
+            "hu": "Italia in Miniatura",
+            "ro": "Italia in Miniatura",
+            "en": "Italia in Miniatura"
+          },
+          "coords": [
+            12.516044,
+            44.091409
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die sorgfältig gefertigten maßstabsgetreuen Modelle der berühmten Wahrzeichen Italiens; kaufen Sie Tickets online, um Warteschlangen zu vermeiden.",
+            "hu": "Csodálja meg Olaszország híres nevezetességeinek gondosan kidolgozott makettjeit ebben az egyedi parkban; vásároljon jegyet online, hogy elkerülje a sorban állást.",
+            "ro": "Minunați-vă de modelele la scară ale celebrelor repere ale Italiei în acest parc tematic unic; cumpărați bilete online pentru a evita cozile la intrare.",
+            "en": "Marvel at the meticulously crafted scale models of Italy's famous landmarks in this unique theme park; buy tickets online to skip the entrance queues."
+          }
+        },
+        {
+          "name": {
+            "de": "San Giovanni Battista",
+            "hu": "San Giovanni Battista",
+            "ro": "San Giovanni Battista",
+            "en": "San Giovanni Battista"
+          },
+          "coords": [
+            12.502547,
+            44.100516
+          ],
+          "category": "religious",
+          "arrive_at": "10:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historische spirituelle Atmosphäre dieser ruhigen Kirche abseits der Küste; verhalten Sie sich leise, um die Gläubigen zu respektieren.",
+            "hu": "Fedezze fel a tengerparttól távolabb fekvő nyugodt templom történelmi spirituális atmoszféráját; őrizze meg a csendet, hogy tisztelje a helyi hívőket.",
+            "ro": "Explorați atmosfera spirituală istorică a acestei biserici liniștite, departe de coastă; păstrați o atitudine tăcută pentru a respecta credincioșii.",
+            "en": "Explore the historic spiritual atmosphere of this serene church nestled away from the coastline; maintain a quiet demeanor to respect local worshippers."
+          }
+        },
+        {
+          "name": {
+            "de": "Pfarrkirche Torre Pedrera",
+            "hu": "Torre Pedrera Plébániatemplom",
+            "ro": "Biserica Parohială Torre Pedrera",
+            "en": "Torre Pedrera Parish Church"
+          },
+          "coords": [
+            12.510129,
+            44.106618
+          ],
+          "category": "religious",
+          "arrive_at": "11:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Eleganz dieser örtlichen Pfarrkirche, die einen friedlichen Rückzugsort bietet; achten Sie auf angemessene Kleidung.",
+            "hu": "Csodálja meg ennek a helyi plébániatemplomnak az egyszerű, de elegáns építészetét, amely békés menedéket kínál; kérjük, öltözzön szerényen a belépéskor.",
+            "ro": "Admirați arhitectura simplă și elegantă a acestei biserici parohiale care oferă un refugiu liniștit; vă rugăm să vă îmbrăcați modest la intrare.",
+            "en": "Admire the simple yet elegant architecture of this local parish church, which offers a peaceful retreat; please remember to dress modestly when entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Belaburderla",
+            "hu": "Belaburderla",
+            "ro": "Belaburderla",
+            "en": "Belaburderla"
+          },
+          "coords": [
+            12.509029,
+            44.11024
+          ],
+          "category": "recreational",
+          "arrive_at": "12:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Strandenergie und die erfrischende Meeresbrise an diesem Ort; bringen Sie Sonnencreme und ein gutes Buch zum Entspannen mit.",
+            "hu": "Tapasztalja meg a tengerparti energiát és a frissítő tengeri szellőt ezen a kedves pihenőhelyen; hozzon magával naptejet és egy jó könyvet.",
+            "ro": "Experimentați energia vibrantă a litoralului și briza mării în acest loc minunat de recreere; aduceți protecție solară și o carte bună pentru relaxare.",
+            "en": "Experience the vibrant seaside energy and refreshing sea breeze at this lovely recreational spot; bring some sunscreen and a good book to relax."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno 76 Kamoke Beach",
+            "hu": "Bagno 76 Kamoke Beach",
+            "ro": "Bagno 76 Kamoke Beach",
+            "en": "Bagno 76 Kamoke Beach"
+          },
+          "coords": [
+            12.505761,
+            44.113072
+          ],
+          "category": "recreational",
+          "arrive_at": "13:34",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie auf den gepflegten Sonnenliegen an diesem beliebten Ort; bleiben Sie bis spät, um den wunderschönen Sonnenuntergang zu beobachten.",
+            "hu": "Pihenjen a jól karbantartott napozóágyakon ezen a népszerű helyen; maradjon későig, hogy megörökítse a tenger felett lenyugvó gyönyörű naplementét.",
+            "ro": "Relaxați-vă pe șezlongurile bine întreținute în acest loc popular; rămâneți până târziu pentru a prinde frumosul apus de soare deasupra mării.",
+            "en": "Relax on the well-maintained sunbeds and soak up the afternoon sun at this popular spot; stay until late to catch the beautiful sunset over the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt im unglaublichen Italia in Miniatura, was ein fantastisches Abenteuer bietet. Gegen Mittag verlagert sich der Fokus auf die historische Gelassenheit von San Giovanni Battista. Verbringen Sie den Nachmittag mit dem Übergang zur Küstenenergie der Stadt. Parken Sie am Strand für einen ruhigen Abend.",
+        "hu": "Autóútja a hihetetlen Italia in Miniatura-nál kezdődik, amely fantasztikus reggeli kalandot kínál. A dél a San Giovanni Battista és a főplébánia történelmi nyugalmára összpontosít. Töltse a délutánt a város tengerparti energiájának megismerésével. Parkoljon le a Kamoke Beach közelében egy békés estéhez.",
+        "ro": "Plimbarea dvs. cu mașina începe la incredibila Italia in Miniatura, oferind o aventură fantastică de dimineață. Prânzul se concentrează pe seninătatea istorică a lui San Giovanni Battista. Petreceți după-amiaza trecând la energia de coastă a orașului. Parcați lângă plajă pentru a vă bucura de o seară pașnică.",
+        "en": "Your drive begins at the incredible Italia in Miniatura, offering a fantastic morning adventure. Midday shifts focus to the historical serenity of San Giovanni Battista and the main parish. Spend your afternoon transitioning to the coastal energy of the town. Park near Kamoke Beach to enjoy a peaceful coastal evening."
+      }
+    }
+  }
+}

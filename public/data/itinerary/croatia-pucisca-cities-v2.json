@@ -1,0 +1,474 @@
+{
+  "city_id": "croatia-pucisca-cities-v2",
+  "anchor": {
+    "name": "Pučišća",
+    "coords": [
+      16.73,
+      43.3475
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:55",
+      "total_km": 1.03,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche St. Hieronymus",
+            "hu": "Szent Jeromos-templom",
+            "ro": "Biserica Sf. Ieronim",
+            "en": "Church of St. Jerome"
+          },
+          "coords": [
+            16.733208,
+            43.347678
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die einfache, aber elegante Architektur der Kirche des Heiligen Hieronymus in der Nähe des Hafens und prüfen Sie die saisonalen Öffnungszeiten vor Ort.",
+            "hu": "Csodálja meg a Szent Jeromos-templom egyszerű, de elegáns építészetét a kikötő közelében, de előtte érdemes helyben ellenőrizni a szezonális nyitvatartást.",
+            "ro": "Admirați arhitectura simplă, dar elegantă a Bisericii Sfântul Ieronim de lângă port, verificând programul sezonier de vizitare la fața locului.",
+            "en": "Admire the simple but elegant architecture of St. Jerome's Church near the harbor, checking the opening hours locally as they vary by season."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Unserer Lieben Frau von Batak",
+            "hu": "Bataki Miasszonyunk temploma",
+            "ro": "Biserica Maicii Domnului din Batak",
+            "en": "Church of our Lady of Batak"
+          },
+          "coords": [
+            16.733497,
+            43.348962
+          ],
+          "category": "religious",
+          "arrive_at": "09:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Atmosphäre der Kirche Unserer Lieben Frau von Batak und nehmen Sie sich einen Moment Zeit, um die Steinmetzarbeiten zu würdigen, die die Tradition der Insel widerspiegeln.",
+            "hu": "Fedezze fel a Bataki Miasszonyunk templomának békés hangulatát, és szánjon egy pillanatot a sziget kőfaragó hagyományait tükröző kőmunkák megcsodálására.",
+            "ro": "Descoperiți atmosfera senină a Bisericii Maicii Domnului din Batak, luându-vă un moment pentru a aprecia lucrările în piatră care reflectă tradiția insulei.",
+            "en": "Discover the serene atmosphere of the Church of our Lady of Batak, taking a moment to appreciate the stonework that reflects the island's deep masonry traditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Steinmetzschule",
+            "hu": "Kőfaragó Iskola",
+            "ro": "Școala de Pietrărie",
+            "en": "Stonemasonry School"
+          },
+          "coords": [
+            16.735488,
+            43.349532
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Erkunden Sie die berühmte Steinmetzschule, wo Schüler den Brač-Stein von Hand bearbeiten; besuchen Sie sie am besten werktags vormittags, um sie in Aktion zu sehen.",
+            "hu": "Fedezze fel a híres kőfaragó iskolát, ahol a diákok kézzel munkálják meg a brači követ, és érdemes hétköznap délelőtt érkezni, hogy munka közben láthassa őket.",
+            "ro": "Explorați faimoasa Școală de Pietrărie unde elevii prelucrează manual piatra de Brač, vizitând de preferință în diminețile din timpul săptămânii pentru a-i vedea la lucru.",
+            "en": "Explore the famous Stonemasonry School where students craft Brac stone by hand, ensuring you visit during weekday mornings to see them actively working."
+          }
+        },
+        {
+          "name": {
+            "de": "Sv. Rok",
+            "hu": "Szent Rókus",
+            "ro": "Sfântul Roc",
+            "en": "St. Rok"
+          },
+          "coords": [
+            16.737161,
+            43.349946
+          ],
+          "category": "viewpoint",
+          "arrive_at": "11:57",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Genießen Sie vom reizvollen Bereich Sv. Rok den Panoramablick auf die Bucht und bringen Sie eine Kamera mit, um die weißen Steinhäuser vor dem blauen Meer festzuhalten.",
+            "hu": "Élvezze a tengeröbölre nyíló panorámát a hangulatos Sv. Rok környékéről, és feltétlenül hozzon fényképezőgépet, hogy megörökítse a kék tengerrel kontrasztos fehér kőházakat.",
+            "ro": "Bucurați-vă de vederea panoramică asupra golfului din zona fermecătoare Sv. Rok, aducând o cameră pentru a surprinde casele de piatră albă contrastând cu marea albastră.",
+            "en": "Enjoy panoramic views of the bay from the charming area of St. Rok, bringing a camera to capture the white stone houses beautifully contrasting with the blue sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Macel",
+            "hu": "Macel",
+            "ro": "Macel",
+            "en": "Macel"
+          },
+          "coords": [
+            16.737062,
+            43.348075
+          ],
+          "category": "recreational",
+          "arrive_at": "12:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie eine erfrischende Pause in Macel, einem angenehmen Erholungsort am Wasser; packen Sie ein kleines Handtuch ein, falls Sie die Füße in die Adria tauchen möchten.",
+            "hu": "Tartson egy frissítő pihenőt a Macel nevű, vízparti szabadidős területen, és hozzon magával egy kis törölközőt, ha szeretné megmártani a lábát a kristálytiszta Adriában.",
+            "ro": "Faceți o pauză răcoritoare la Macel, un loc de recreere plăcut lângă apă, împachetând un prosop mic dacă vă decideți să vă scufundați picioarele în Marea Adriatică.",
+            "en": "Take a refreshing break at Macel, a pleasant recreational spot near the water, packing a small towel if you decide to dip your feet into the crystal-clear Adriatic."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Lucia",
+            "hu": "Szent Lúcia templom",
+            "ro": "Biserica Sf. Lucia",
+            "en": "Church of St. Lucy"
+          },
+          "coords": [
+            16.73285,
+            43.346743
+          ],
+          "category": "religious",
+          "arrive_at": "13:45",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an der historischen Kirche St. Lucia und achten Sie auf die aufwendigen Details ihrer Fassade, die etwas abseits der belebten Uferpromenade ruht.",
+            "hu": "Zárja a sétát a történelmi Szent Lúcia templomnál, és figyelje meg a homlokzatának bonyolult részleteit, amely kissé távolabb található a nyüzsgő fő vízparttól.",
+            "ro": "Încheiați plimbarea la biserica istorică Sfânta Lucia, remarcând detaliile complicate ale fațadei sale, care stă liniștită puțin mai sus de faleza aglomerată.",
+            "en": "Conclude your walk at the historic Church of St. Lucy, noting the intricate details of its facade which stands quietly a bit further up from the bustling main waterfront."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt in der Nähe des Hafens, wo Sie sofort in das spirituelle Erbe der Stadt eintauchen. Weiter im Inneren entdecken Sie kleinere Kapellen, die die lokalen Steinmetzkünste hervorheben. Der Höhepunkt ist die weltberühmte Steinmetzschule, die eine lebendige Tradition zeigt. Sie beenden den Tag entspannt am Meer an einer historischen Kirche.",
+        "hu": "A nap a kikötő közelében kezdődik, azonnal elmerülve a város spirituális örökségében. Beljebb haladva kisebb kápolnákat fedezhet fel, amelyek kiemelik a helyi kőfaragó készségeket. A fénypont a világhírű kőfaragó iskola, amely egy élő hagyományt mutat be. A napot a tengerparton pihenve és egy utolsó történelmi templom meglátogatásával zárja.",
+        "ro": "Ziua începe lângă port, aprofundând imediat moștenirea spirituală a orașului. Mergând mai spre interior, descoperiți capele mai mici care evidențiază abilitățile locale de pietrărie. Punctul culminant este școala de pietrărie de renume mondial, care prezintă o tradiție vie. Încheiați ziua relaxându-vă la mare și vizitând o ultimă biserică istorică.",
+        "en": "Your day begins near the harbor, delving immediately into the spiritual heritage of the town. Moving inward, you discover smaller chapels that highlight local stonemasonry skills. The highlight is the world-renowned stonemasonry school, showcasing a living tradition. You finish the day relaxing by the sea and visiting one last historic church."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:50",
+      "total_km": 1.85,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche St. Lucia",
+            "hu": "Szent Lúcia templom",
+            "ro": "Biserica Sf. Lucia",
+            "en": "Church of St. Lucy"
+          },
+          "coords": [
+            16.73285,
+            43.346743
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an der historischen Kirche St. Lucia und achten Sie auf die aufwendigen Details ihrer Fassade, die etwas abseits der belebten Uferpromenade ruht.",
+            "hu": "Zárja a sétát a történelmi Szent Lúcia templomnál, és figyelje meg a homlokzatának bonyolult részleteit, amely kissé távolabb található a nyüzsgő fő vízparttól.",
+            "ro": "Încheiați plimbarea la biserica istorică Sfânta Lucia, remarcând detaliile complicate ale fațadei sale, care stă liniștită puțin mai sus de faleza aglomerată.",
+            "en": "Conclude your walk at the historic Church of St. Lucy, noting the intricate details of its facade which stands quietly a bit further up from the bustling main waterfront."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Hieronymus",
+            "hu": "Szent Jeromos-templom",
+            "ro": "Biserica Sf. Ieronim",
+            "en": "Church of St. Jerome"
+          },
+          "coords": [
+            16.733208,
+            43.347678
+          ],
+          "category": "religious",
+          "arrive_at": "09:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Bewundern Sie die einfache, aber elegante Architektur der Kirche des Heiligen Hieronymus in der Nähe des Hafens und prüfen Sie die saisonalen Öffnungszeiten vor Ort.",
+            "hu": "Csodálja meg a Szent Jeromos-templom egyszerű, de elegáns építészetét a kikötő közelében, de előtte érdemes helyben ellenőrizni a szezonális nyitvatartást.",
+            "ro": "Admirați arhitectura simplă, dar elegantă a Bisericii Sfântul Ieronim de lângă port, verificând programul sezonier de vizitare la fața locului.",
+            "en": "Admire the simple but elegant architecture of St. Jerome's Church near the harbor, checking the opening hours locally as they vary by season."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Unserer Lieben Frau von Batak",
+            "hu": "Bataki Miasszonyunk temploma",
+            "ro": "Biserica Maicii Domnului din Batak",
+            "en": "Church of our Lady of Batak"
+          },
+          "coords": [
+            16.733497,
+            43.348962
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Atmosphäre der Kirche Unserer Lieben Frau von Batak und nehmen Sie sich einen Moment Zeit, um die Steinmetzarbeiten zu würdigen, die die Tradition der Insel widerspiegeln.",
+            "hu": "Fedezze fel a Bataki Miasszonyunk templomának békés hangulatát, és szánjon egy pillanatot a sziget kőfaragó hagyományait tükröző kőmunkák megcsodálására.",
+            "ro": "Descoperiți atmosfera senină a Bisericii Maicii Domnului din Batak, luându-vă un moment pentru a aprecia lucrările în piatră care reflectă tradiția insulei.",
+            "en": "Discover the serene atmosphere of the Church of our Lady of Batak, taking a moment to appreciate the stonework that reflects the island's deep masonry traditions."
+          }
+        },
+        {
+          "name": {
+            "de": "Steinmetzschule",
+            "hu": "Kőfaragó Iskola",
+            "ro": "Școala de Pietrărie",
+            "en": "Stonemasonry School"
+          },
+          "coords": [
+            16.735488,
+            43.349532
+          ],
+          "category": "historical",
+          "arrive_at": "11:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Erkunden Sie die berühmte Steinmetzschule, wo Schüler den Brač-Stein von Hand bearbeiten; besuchen Sie sie am besten werktags vormittags, um sie in Aktion zu sehen.",
+            "hu": "Fedezze fel a híres kőfaragó iskolát, ahol a diákok kézzel munkálják meg a brači követ, és érdemes hétköznap délelőtt érkezni, hogy munka közben láthassa őket.",
+            "ro": "Explorați faimoasa Școală de Pietrărie unde elevii prelucrează manual piatra de Brač, vizitând de preferință în diminețile din timpul săptămânii pentru a-i vedea la lucru.",
+            "en": "Explore the famous Stonemasonry School where students craft Brac stone by hand, ensuring you visit during weekday mornings to see them actively working."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Prve Lučice",
+            "hu": "Prve Lučice strand",
+            "ro": "Plaja Prve Lučice",
+            "en": "Prve Lučice Beach"
+          },
+          "coords": [
+            16.7377,
+            43.352775
+          ],
+          "category": "recreational",
+          "arrive_at": "12:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an der Küste von Prve Lučice, einem einladenden Küstenabschnitt, der sich perfekt zum Sonnenbaden eignet; denken Sie an Sonnencreme und ausreichend Trinkwasser.",
+            "hu": "Pihenjen a parton a Prve Lučice hívogató partszakaszán, amely tökéletes a napozásra, ezért ne feledkezzen meg a naptejről és hozzon magával elegendő ivóvizet.",
+            "ro": "Relaxați-vă pe mal la Prve Lučice, o porțiune de coastă primitoare, perfectă pentru a vă bucura de soare, așa că nu uitați să purtați protecție solară și să aduceți multă apă de băut.",
+            "en": "Relax by the shore at Prve Lučice, an inviting coastal stretch perfect for soaking up the sun, so remember to wear sunscreen and bring plenty of drinking water."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm St. Nikolaus",
+            "hu": "Szent Miklós világítótorony",
+            "ro": "Farul Sfântul Nicolae",
+            "en": "St. Nicholas Lighthouse"
+          },
+          "coords": [
+            16.735386,
+            43.361743
+          ],
+          "category": "landmark",
+          "arrive_at": "13:55",
+          "stay_min": 55,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie zum malerischen Leuchtturm St. Nikolaus für einen freien Blick auf den Kanal und tragen Sie bequemes Schuhwerk, da der Weg teils uneben und felsig sein kann.",
+            "hu": "Sétáljon ki a festői Szent Miklós világítótoronyhoz, ahonnan zavartalan kilátás nyílik a csatornára, és viseljen kényelmes cipőt, mivel az ösvény némileg egyenetlen és sziklás lehet.",
+            "ro": "Mergeți până la pitorescul Far Sfântul Nicolae pentru vederi neobstrucționate asupra canalului, purtând încălțăminte confortabilă deoarece poteca poate fi oarecum accidentată și stâncoasă.",
+            "en": "Walk out to the picturesque St. Nicholas Lighthouse for unobstructed views of the channel, wearing comfortable shoes as the path can be somewhat uneven and rocky."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radfahren bietet eine wunderbare Möglichkeit, die Geschichte der Stadt von den inneren Gassen bis zu den markanten Küstenwahrzeichen zu verfolgen. Nach den zentralen Kirchen radeln Sie zur berühmten Steinmetzschule. Der Nachmittag führt Sie entlang der Küste zu schönen Erholungsorten. Die Reise endet mit einer Fahrt zum Leuchtturm.",
+        "hu": "A kerékpározás csodálatos módja annak, hogy nyomon kövesse a város történetét a belső sikátoroktól a part menti tájékozódási pontokig. A központi templomok után a híres kőfaragó iskolához tekerhet. A délután a part mentén gyönyörű rekreációs helyekre vezet. Az utazás egy frissítő tekeréssel zárul a világítótoronyhoz.",
+        "ro": "Mersul pe bicicletă oferă o modalitate minunată de a urmări istoria orașului, de la aleile sale interioare până la reperele de coastă. După explorarea bisericilor centrale, veți pedala până la faimoasa școală de pietrărie. După-amiaza vă duce de-a lungul coastei către locuri de recreere frumoase. Călătoria se încheie cu o plimbare până la far.",
+        "en": "Cycling offers a wonderful way to trace the town's history from its inner alleys to its prominent coastal landmarks. After exploring central churches, you'll pedal to the famous stonemasonry school. The afternoon takes you along the coast to beautiful recreational spots. The journey concludes with an invigorating ride out to the lighthouse."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:22",
+      "total_km": 2.65,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche St. Stephan",
+            "hu": "Szent István-templom",
+            "ro": "Biserica Sfântul Ștefan",
+            "en": "Church of Saint Stephen"
+          },
+          "coords": [
+            16.744363,
+            43.346959
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die etwas versteckte Kirche St. Stephan auf der Ostseite, bewundern Sie ihren rustikalen Charme und nehmen Sie sich Zeit, das ruhigere Wohnviertel zu erkunden.",
+            "hu": "Látogasson el a keleti oldalon megbúvó Szent István-templomhoz, csodálja meg rusztikus báját, és szánjon időt a csendesebb, kevésbé turistás lakónegyed felfedezésére.",
+            "ro": "Vizitați biserica oarecum ascunsă Sfântul Ștefan din partea de est, admirându-i farmecul rustic și făcându-vă timp pentru a explora cartierul rezidențial mai liniștit și mai puțin turistic.",
+            "en": "Visit the somewhat hidden Saint Stephen church on the eastern side, admiring its rustic charm and taking time to explore the quieter, less touristy residential neighborhood."
+          }
+        },
+        {
+          "name": {
+            "de": "Macel",
+            "hu": "Macel",
+            "ro": "Macel",
+            "en": "Macel"
+          },
+          "coords": [
+            16.737062,
+            43.348075
+          ],
+          "category": "recreational",
+          "arrive_at": "09:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Machen Sie eine erfrischende Pause in Macel, einem angenehmen Erholungsort am Wasser; packen Sie ein kleines Handtuch ein, falls Sie die Füße in die Adria tauchen möchten.",
+            "hu": "Tartson egy frissítő pihenőt a Macel nevű, vízparti szabadidős területen, és hozzon magával egy kis törölközőt, ha szeretné megmártani a lábát a kristálytiszta Adriában.",
+            "ro": "Faceți o pauză răcoritoare la Macel, un loc de recreere plăcut lângă apă, împachetând un prosop mic dacă vă decideți să vă scufundați picioarele în Marea Adriatică.",
+            "en": "Take a refreshing break at Macel, a pleasant recreational spot near the water, packing a small towel if you decide to dip your feet into the crystal-clear Adriatic."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Hieronymus",
+            "hu": "Szent Jeromos-templom",
+            "ro": "Biserica Sf. Ieronim",
+            "en": "Church of St. Jerome"
+          },
+          "coords": [
+            16.733208,
+            43.347678
+          ],
+          "category": "religious",
+          "arrive_at": "11:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie die einfache, aber elegante Architektur der Kirche des Heiligen Hieronymus in der Nähe des Hafens und prüfen Sie die saisonalen Öffnungszeiten vor Ort.",
+            "hu": "Csodálja meg a Szent Jeromos-templom egyszerű, de elegáns építészetét a kikötő közelében, de előtte érdemes helyben ellenőrizni a szezonális nyitvatartást.",
+            "ro": "Admirați arhitectura simplă, dar elegantă a Bisericii Sfântul Ieronim de lângă port, verificând programul sezonier de vizitare la fața locului.",
+            "en": "Admire the simple but elegant architecture of St. Jerome's Church near the harbor, checking the opening hours locally as they vary by season."
+          }
+        },
+        {
+          "name": {
+            "de": "Steinmetzschule",
+            "hu": "Kőfaragó Iskola",
+            "ro": "Școala de Pietrărie",
+            "en": "Stonemasonry School"
+          },
+          "coords": [
+            16.735488,
+            43.349532
+          ],
+          "category": "historical",
+          "arrive_at": "11:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die berühmte Steinmetzschule, wo Schüler den Brač-Stein von Hand bearbeiten; besuchen Sie sie am besten werktags vormittags, um sie in Aktion zu sehen.",
+            "hu": "Fedezze fel a híres kőfaragó iskolát, ahol a diákok kézzel munkálják meg a brači követ, és érdemes hétköznap délelőtt érkezni, hogy munka közben láthassa őket.",
+            "ro": "Explorați faimoasa Școală de Pietrărie unde elevii prelucrează manual piatra de Brač, vizitând de preferință în diminețile din timpul săptămânii pentru a-i vedea la lucru.",
+            "en": "Explore the famous Stonemasonry School where students craft Brac stone by hand, ensuring you visit during weekday mornings to see them actively working."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Prve Lučice",
+            "hu": "Prve Lučice strand",
+            "ro": "Plaja Prve Lučice",
+            "en": "Prve Lučice Beach"
+          },
+          "coords": [
+            16.7377,
+            43.352775
+          ],
+          "category": "recreational",
+          "arrive_at": "13:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an der Küste von Prve Lučice, einem einladenden Küstenabschnitt, der sich perfekt zum Sonnenbaden eignet; denken Sie an Sonnencreme und ausreichend Trinkwasser.",
+            "hu": "Pihenjen a parton a Prve Lučice hívogató partszakaszán, amely tökéletes a napozásra, ezért ne feledkezzen meg a naptejről és hozzon magával elegendő ivóvizet.",
+            "ro": "Relaxați-vă pe mal la Prve Lučice, o porțiune de coastă primitoare, perfectă pentru a vă bucura de soare, așa că nu uitați să purtați protecție solară și să aduceți multă apă de băut.",
+            "en": "Relax by the shore at Prve Lučice, an inviting coastal stretch perfect for soaking up the sun, so remember to wear sunscreen and bring plenty of drinking water."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm St. Nikolaus",
+            "hu": "Szent Miklós világítótorony",
+            "ro": "Farul Sfântul Nicolae",
+            "en": "St. Nicholas Lighthouse"
+          },
+          "coords": [
+            16.735386,
+            43.361743
+          ],
+          "category": "landmark",
+          "arrive_at": "14:27",
+          "stay_min": 55,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie zum malerischen Leuchtturm St. Nikolaus für einen freien Blick auf den Kanal und tragen Sie bequemes Schuhwerk, da der Weg teils uneben und felsig sein kann.",
+            "hu": "Sétáljon ki a festői Szent Miklós világítótoronyhoz, ahonnan zavartalan kilátás nyílik a csatornára, és viseljen kényelmes cipőt, mivel az ösvény némileg egyenetlen és sziklás lehet.",
+            "ro": "Mergeți până la pitorescul Far Sfântul Nicolae pentru vederi neobstrucționate asupra canalului, purtând încălțăminte confortabilă deoarece poteca poate fi oarecum accidentată și stâncoasă.",
+            "en": "Walk out to the picturesque St. Nicholas Lighthouse for unobstructed views of the channel, wearing comfortable shoes as the path can be somewhat uneven and rocky."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto können Sie bequem die östlichen Außenbezirke mit dem belebten Zentrum und dem nördlichen Kap verbinden. Sie beginnen mit ruhigen Kapellen, bevor Sie zum Herzen der Steinmetztradition fahren. Später fahren Sie zur Entspannung näher an die Küste. Der Tag endet perfekt mit einer Fahrt zum malerischen Leuchtturm-Aussichtspunkt.",
+        "hu": "Az autóvezetés lehetővé teszi a keleti külvárosok kényelmes összekapcsolását a nyüzsgő központtal és az északi fokkal. Csendes kápolnákkal kezd, majd a kőfaragó hagyomány szívébe indul. Később közelebb vezet a parthoz egy kis pihenésre. A nap tökéletesen zárul egy festői világítótorony kilátóhoz vezető úttal.",
+        "ro": "Condusul vă permite să conectați confortabil periferia estică cu centrul plin de viață și capul nordic. Veți începe cu capele liniștite înainte de a trece la inima tradiției pietrăriei. Mai târziu, vă apropiați de coastă pentru relaxare. Ziua se încheie perfect cu o plimbare cu mașina către punctul de observație pitoresc al farului.",
+        "en": "Driving allows you to comfortably connect the eastern outskirts with the bustling center and the northern cape. You'll start with quiet chapels before moving to the heart of the stonemasonry tradition. Later, you drive closer to the coast for some relaxation. The day ends perfectly with a drive towards the scenic lighthouse viewpoint."
+      }
+    }
+  }
+}

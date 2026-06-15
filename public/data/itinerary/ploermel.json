@@ -1,0 +1,474 @@
+{
+  "city_id": "ploermel",
+  "anchor": {
+    "name": "Ploërmel",
+    "coords": [
+      -2.3975,
+      47.9317
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:05",
+      "total_km": 2.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle des Ursulines",
+            "hu": "Chapelle des Ursulines",
+            "ro": "Chapelle des Ursulines",
+            "en": "Chapelle des Ursulines"
+          },
+          "coords": [
+            -2.395528,
+            47.931015
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese historische Kapelle, ein bemerkenswertes Stück lokalen Erbes mit wunderschönen Altarbildern, und treten Sie im frühen Morgenlicht ein, um die Reflexionen an den Wänden zu sehen.",
+            "hu": "Látogassa meg ezt a történelmi kápolnát, amely gyönyörű oltárképeivel a helyi örökség figyelemre méltó része, és lépjen be a kora reggeli fényben, hogy lássa a falakon táncoló tükröződéseket.",
+            "ro": "Vizitați această capelă istorică, o piesă remarcabilă a patrimoniului local cu altare frumoase, și intrați în lumina dimineții pentru a vedea reflexiile pe pereții de piatră.",
+            "en": "Visit this historic chapel, a remarkable piece of local heritage with beautiful altarpieces, and step inside during early morning light to see the vibrant reflections on the stone walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Armel",
+            "hu": "Église Saint-Armel",
+            "ro": "Église Saint-Armel",
+            "en": "Église Saint-Armel"
+          },
+          "coords": [
+            -2.398106,
+            47.932053
+          ],
+          "category": "religious",
+          "arrive_at": "09:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese atemberaubende spätgotische Kirche, die für ihre majestätischen Buntglasfenster und aufwendig geschnitzten Portale bekannt ist, und genießen Sie die ruhige spirituelle Atmosphäre im Inneren.",
+            "hu": "Fedezze fel ezt a lenyűgöző késő gótikus templomot, amely fenséges ólomüveg ablakairól és faragott portáljairól ismert, és szánjon egy percet a csendes spirituális atmoszféra élvezetére.",
+            "ro": "Explorați această uimitoare biserică în stil gotic târziu, cunoscută pentru vitraliile sale maiestuoase și portalurile sculptate, și bucurați-vă de o clipă de liniște spirituală în interior.",
+            "en": "Explore this stunning late-Gothic church known for its majestic stained-glass windows and intricately carved portals, taking a moment to appreciate the quiet spiritual atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison des Marmousets",
+            "hu": "Maison des Marmousets",
+            "ro": "Maison des Marmousets",
+            "en": "Maison des Marmousets"
+          },
+          "coords": [
+            -2.398833,
+            47.932833
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante holzgeschnitzte Fassade dieses Hauses aus dem 16. Jahrhundert, das einen Einblick in die lokale Geschichte bietet, und achten Sie auf die aufwendigen Figuren, bevor Sie einen Kaffee trinken.",
+            "hu": "Csodálja meg ennek a 16. századi háznak a lenyűgöző fametszetes homlokzatát, amely bepillantást enged a helyi történelembe, és figyelje meg a bonyolult figurákat, mielőtt meginna egy kávét a közelben.",
+            "ro": "Admirați fațada sculptată în lemn a acestei case din secolul al XVI-lea, care oferă o privire în istoria locală, și căutați figurinele complicate înainte de a savura o cafea în apropiere.",
+            "en": "Admire the striking wood-carved facade of this 16th-century house, which offers a glimpse into local history, and look for the intricate figurines before grabbing a nearby coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Horloge Astronomique",
+            "hu": "Horloge Astronomique",
+            "ro": "Horloge Astronomique",
+            "en": "Horloge Astronomique"
+          },
+          "coords": [
+            -2.399581,
+            47.931369
+          ],
+          "category": "cultural",
+          "arrive_at": "11:58",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese beeindruckende astronomische Uhr aus dem 19. Jahrhundert, die von einem lokalen Mönch erbaut wurde, und beobachten Sie ihre komplexen Mechanismen beim Stundenwechsel.",
+            "hu": "Csodálja meg ezt a lenyűgöző 19. századi csillagászati órát, amelyet egy helyi szerzetes épített, és figyelje meg a bolygókat is mutató bonyolult mechanizmusokat az óraváltáskor.",
+            "ro": "Minunați-vă de acest impresionant ceas astronomic din secolul al XIX-lea, construit de un călugăr local, observând mecanismele sale complexe și afișajele planetare în timpul schimbării orei.",
+            "en": "Marvel at this impressive 19th-century astronomical clock built by a local monk, observing its complex mechanisms and planetary displays during the hour change."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac au Duc",
+            "hu": "Lac au Duc",
+            "ro": "Lac au Duc",
+            "en": "Lac au Duc"
+          },
+          "coords": [
+            -2.414304,
+            47.941856
+          ],
+          "category": "natural",
+          "arrive_at": "13:20",
+          "stay_min": 105,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den weiten Gewässern dieses malerischen Sees, ideal für Naturliebhaber, und mieten Sie ein Tretboot oder spazieren Sie auf den mit Hortensien gesäumten Uferpfaden.",
+            "hu": "Pihenjen ennek a festői tónak a hatalmas vize partján, amely tökéletes a természet kedvelőinek, és béreljen vízibiciklit, vagy sétáljon a part menti hortenziákkal övezett ösvényeken.",
+            "ro": "Relaxați-vă pe malurile acestui lac pitoresc, perfect pentru iubitorii de natură, și luați în considerare închirierea unei hidrobiciclete sau plimbarea pe potecile pline de hortensii.",
+            "en": "Relax by the vast waters of this scenic lake, perfect for nature lovers and outdoor enthusiasts, and consider renting a pedal boat or strolling the hydrangea-lined paths along the shore."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit der historischen Chapelle des Ursulines und der Église Saint-Armel im Zentrum. Der Mittag lädt ein, die geschnitzte Maison des Marmousets zu entdecken. Der Nachmittag wird mit der Mechanik der astronomischen Uhr fortgesetzt. Der Abend endet mit einem entspannten Spaziergang zum ruhigen Lac au Duc.",
+        "hu": "A reggel a történelmi Chapelle des Ursulines-nél és a központi Église Saint-Armel-nél kezdődik. A délidő a fafaragásos Maison des Marmousets felfedezésére hív. A délután az asztronómiai óra lenyűgöző mechanikájával folytatódik. Az este egy pihentető sétával zárul a festői Lac au Duc partján, a naplementét figyelve.",
+        "ro": "Dimineața începe cu capela istorică Ursulines și grandioasa Église Saint-Armel. Amiaza vă invită să descoperiți secretele sculpturilor de la Maison des Marmousets. După-amiaza continuă cu mecanica fascinantă a ceasului astronomic. Seara se încheie cu o plimbare relaxantă către seninul Lac au Duc.",
+        "en": "Morning begins with the historic Chapelle des Ursulines and the grand Église Saint-Armel in the town center. Midday invites you to uncover the secrets of the carved Maison des Marmousets. Afternoon continues with the fascinating mechanics of the Horloge Astronomique. Evening concludes with a relaxing, longer walk out to the serene Lac au Duc for sunset views."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:34",
+      "total_km": 3.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle des Ursulines",
+            "hu": "Chapelle des Ursulines",
+            "ro": "Chapelle des Ursulines",
+            "en": "Chapelle des Ursulines"
+          },
+          "coords": [
+            -2.395528,
+            47.931015
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese historische Kapelle, ein bemerkenswertes Stück lokalen Erbes mit wunderschönen Altarbildern, und treten Sie im frühen Morgenlicht ein, um die Reflexionen an den Wänden zu sehen.",
+            "hu": "Látogassa meg ezt a történelmi kápolnát, amely gyönyörű oltárképeivel a helyi örökség figyelemre méltó része, és lépjen be a kora reggeli fényben, hogy lássa a falakon táncoló tükröződéseket.",
+            "ro": "Vizitați această capelă istorică, o piesă remarcabilă a patrimoniului local cu altare frumoase, și intrați în lumina dimineții pentru a vedea reflexiile pe pereții de piatră.",
+            "en": "Visit this historic chapel, a remarkable piece of local heritage with beautiful altarpieces, and step inside during early morning light to see the vibrant reflections on the stone walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Armel",
+            "hu": "Église Saint-Armel",
+            "ro": "Église Saint-Armel",
+            "en": "Église Saint-Armel"
+          },
+          "coords": [
+            -2.398106,
+            47.932053
+          ],
+          "category": "religious",
+          "arrive_at": "09:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese atemberaubende spätgotische Kirche, die für ihre majestätischen Buntglasfenster und aufwendig geschnitzten Portale bekannt ist, und genießen Sie die ruhige spirituelle Atmosphäre im Inneren.",
+            "hu": "Fedezze fel ezt a lenyűgöző késő gótikus templomot, amely fenséges ólomüveg ablakairól és faragott portáljairól ismert, és szánjon egy percet a csendes spirituális atmoszféra élvezetére.",
+            "ro": "Explorați această uimitoare biserică în stil gotic târziu, cunoscută pentru vitraliile sale maiestuoase și portalurile sculptate, și bucurați-vă de o clipă de liniște spirituală în interior.",
+            "en": "Explore this stunning late-Gothic church known for its majestic stained-glass windows and intricately carved portals, taking a moment to appreciate the quiet spiritual atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Horloge Astronomique",
+            "hu": "Horloge Astronomique",
+            "ro": "Horloge Astronomique",
+            "en": "Horloge Astronomique"
+          },
+          "coords": [
+            -2.399581,
+            47.931369
+          ],
+          "category": "cultural",
+          "arrive_at": "10:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese beeindruckende astronomische Uhr aus dem 19. Jahrhundert, die von einem lokalen Mönch erbaut wurde, und beobachten Sie ihre komplexen Mechanismen beim Stundenwechsel.",
+            "hu": "Csodálja meg ezt a lenyűgöző 19. századi csillagászati órát, amelyet egy helyi szerzetes épített, és figyelje meg a bolygókat is mutató bonyolult mechanizmusokat az óraváltáskor.",
+            "ro": "Minunați-vă de acest impresionant ceas astronomic din secolul al XIX-lea, construit de un călugăr local, observând mecanismele sale complexe și afișajele planetare în timpul schimbării orei.",
+            "en": "Marvel at this impressive 19th-century astronomical clock built by a local monk, observing its complex mechanisms and planetary displays during the hour change."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison des Marmousets",
+            "hu": "Maison des Marmousets",
+            "ro": "Maison des Marmousets",
+            "en": "Maison des Marmousets"
+          },
+          "coords": [
+            -2.398833,
+            47.932833
+          ],
+          "category": "historical",
+          "arrive_at": "11:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante holzgeschnitzte Fassade dieses Hauses aus dem 16. Jahrhundert, das einen Einblick in die lokale Geschichte bietet, und achten Sie auf die aufwendigen Figuren, bevor Sie einen Kaffee trinken.",
+            "hu": "Csodálja meg ennek a 16. századi háznak a lenyűgöző fametszetes homlokzatát, amely bepillantást enged a helyi történelembe, és figyelje meg a bonyolult figurákat, mielőtt meginna egy kávét a közelben.",
+            "ro": "Admirați fațada sculptată în lemn a acestei case din secolul al XVI-lea, care oferă o privire în istoria locală, și căutați figurinele complicate înainte de a savura o cafea în apropiere.",
+            "en": "Admire the striking wood-carved facade of this 16th-century house, which offers a glimpse into local history, and look for the intricate figurines before grabbing a nearby coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Joseph",
+            "hu": "Chapelle Saint-Joseph",
+            "ro": "Chapelle Saint-Joseph",
+            "en": "Chapelle Saint-Joseph"
+          },
+          "coords": [
+            -2.397911,
+            47.951765
+          ],
+          "category": "religious",
+          "arrive_at": "13:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese friedliche, etwas abgelegene Kapelle mit traditioneller bretonischer Architektur und genießen Sie die ruhige Umgebung bei einem Spaziergang um das Gebäude.",
+            "hu": "Fedezze fel ezt a békés, kissé félreeső kápolnát, amely hagyományos breton építészettel büszkélkedhet, és sétálja körbe az épületet, hogy megcsodálja a klasszikus falazatot a csendes környezetben.",
+            "ro": "Descoperiți această capelă liniștită, ușor izolată, cu arhitectură tradițională bretonă, și bucurați-vă de împrejurimile pașnice plimbându-vă în jurul clădirii pentru a admira zidăria.",
+            "en": "Discover this peaceful, somewhat secluded chapel featuring traditional Breton architecture, and enjoy the tranquil surroundings by walking the perimeter to appreciate the classic masonry."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac au Duc",
+            "hu": "Lac au Duc",
+            "ro": "Lac au Duc",
+            "en": "Lac au Duc"
+          },
+          "coords": [
+            -2.414304,
+            47.941856
+          ],
+          "category": "natural",
+          "arrive_at": "13:49",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den weiten Gewässern dieses malerischen Sees, ideal für Naturliebhaber, und mieten Sie ein Tretboot oder spazieren Sie auf den mit Hortensien gesäumten Uferpfaden.",
+            "hu": "Pihenjen ennek a festői tónak a hatalmas vize partján, amely tökéletes a természet kedvelőinek, és béreljen vízibiciklit, vagy sétáljon a part menti hortenziákkal övezett ösvényeken.",
+            "ro": "Relaxați-vă pe malurile acestui lac pitoresc, perfect pentru iubitorii de natură, și luați în considerare închirierea unei hidrobiciclete sau plimbarea pe potecile pline de hortensii.",
+            "en": "Relax by the vast waters of this scenic lake, perfect for nature lovers and outdoor enthusiasts, and consider renting a pedal boat or strolling the hydrangea-lined paths along the shore."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einer Radtour zwischen der Chapelle des Ursulines und der Église Saint-Armel. Mittags erkunden Sie die astronomische Uhr und die historische Maison des Marmousets. Der Nachmittag bringt eine angenehme Fahrt zur Chapelle Saint-Joseph. Der Abend belohnt Sie mit einem Erlebnis am Lac au Duc.",
+        "hu": "A reggel a Chapelle des Ursulines és az Église Saint-Armel közötti biciklizéssel indul. Délben a helyi csodákra, az asztronómiai órára és a Maison des Marmousets-re fókuszálunk. A délután egy kellemes tekerést hoz a Chapelle Saint-Joseph felé. Az este festői tóparti élménnyel jutalmaz a Lac au Duc-nál.",
+        "ro": "Dimineața începe pedalând între Chapelle des Ursulines și Église Saint-Armel. Amiaza se mută la minunile locale, explorând ceasul astronomic și Maison des Marmousets. După-amiaza aduce o plimbare plăcută spre capela retrasă Saint-Joseph. Seara vă răsplătește cu o experiență pitorească la Lac au Duc.",
+        "en": "Morning kicks off by cycling between the elegant Chapelle des Ursulines and Église Saint-Armel. Midday shifts to local marvels, exploring the Horloge Astronomique and the historic Maison des Marmousets. Afternoon brings a pleasant ride to the somewhat secluded Chapelle Saint-Joseph. Evening rewards you with a scenic lakeside experience at Lac au Duc."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:36",
+      "total_km": 10.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Maison des Marmousets",
+            "hu": "Maison des Marmousets",
+            "ro": "Maison des Marmousets",
+            "en": "Maison des Marmousets"
+          },
+          "coords": [
+            -2.398833,
+            47.932833
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante holzgeschnitzte Fassade dieses Hauses aus dem 16. Jahrhundert, das einen Einblick in die lokale Geschichte bietet, und achten Sie auf die aufwendigen Figuren, bevor Sie einen Kaffee trinken.",
+            "hu": "Csodálja meg ennek a 16. századi háznak a lenyűgöző fametszetes homlokzatát, amely bepillantást enged a helyi történelembe, és figyelje meg a bonyolult figurákat, mielőtt meginna egy kávét a közelben.",
+            "ro": "Admirați fațada sculptată în lemn a acestei case din secolul al XVI-lea, care oferă o privire în istoria locală, și căutați figurinele complicate înainte de a savura o cafea în apropiere.",
+            "en": "Admire the striking wood-carved facade of this 16th-century house, which offers a glimpse into local history, and look for the intricate figurines before grabbing a nearby coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Horloge Astronomique",
+            "hu": "Horloge Astronomique",
+            "ro": "Horloge Astronomique",
+            "en": "Horloge Astronomique"
+          },
+          "coords": [
+            -2.399581,
+            47.931369
+          ],
+          "category": "cultural",
+          "arrive_at": "10:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese beeindruckende astronomische Uhr aus dem 19. Jahrhundert, die von einem lokalen Mönch erbaut wurde, und beobachten Sie ihre komplexen Mechanismen beim Stundenwechsel.",
+            "hu": "Csodálja meg ezt a lenyűgöző 19. századi csillagászati órát, amelyet egy helyi szerzetes épített, és figyelje meg a bolygókat is mutató bonyolult mechanizmusokat az óraváltáskor.",
+            "ro": "Minunați-vă de acest impresionant ceas astronomic din secolul al XIX-lea, construit de un călugăr local, observând mecanismele sale complexe și afișajele planetare în timpul schimbării orei.",
+            "en": "Marvel at this impressive 19th-century astronomical clock built by a local monk, observing its complex mechanisms and planetary displays during the hour change."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Armel",
+            "hu": "Église Saint-Armel",
+            "ro": "Église Saint-Armel",
+            "en": "Église Saint-Armel"
+          },
+          "coords": [
+            -2.398106,
+            47.932053
+          ],
+          "category": "religious",
+          "arrive_at": "11:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese atemberaubende spätgotische Kirche, die für ihre majestätischen Buntglasfenster und aufwendig geschnitzten Portale bekannt ist, und genießen Sie die ruhige spirituelle Atmosphäre im Inneren.",
+            "hu": "Fedezze fel ezt a lenyűgöző késő gótikus templomot, amely fenséges ólomüveg ablakairól és faragott portáljairól ismert, és szánjon egy percet a csendes spirituális atmoszféra élvezetére.",
+            "ro": "Explorați această uimitoare biserică în stil gotic târziu, cunoscută pentru vitraliile sale maiestuoase și portalurile sculptate, și bucurați-vă de o clipă de liniște spirituală în interior.",
+            "en": "Explore this stunning late-Gothic church known for its majestic stained-glass windows and intricately carved portals, taking a moment to appreciate the quiet spiritual atmosphere inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Joseph",
+            "hu": "Chapelle Saint-Joseph",
+            "ro": "Chapelle Saint-Joseph",
+            "en": "Chapelle Saint-Joseph"
+          },
+          "coords": [
+            -2.397911,
+            47.951765
+          ],
+          "category": "religious",
+          "arrive_at": "12:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese friedliche, etwas abgelegene Kapelle mit traditioneller bretonischer Architektur und genießen Sie die ruhige Umgebung bei einem Spaziergang um das Gebäude.",
+            "hu": "Fedezze fel ezt a békés, kissé félreeső kápolnát, amely hagyományos breton építészettel büszkélkedhet, és sétálja körbe az épületet, hogy megcsodálja a klasszikus falazatot a csendes környezetben.",
+            "ro": "Descoperiți această capelă liniștită, ușor izolată, cu arhitectură tradițională bretonă, și bucurați-vă de împrejurimile pașnice plimbându-vă în jurul clădirii pentru a admira zidăria.",
+            "en": "Discover this peaceful, somewhat secluded chapel featuring traditional Breton architecture, and enjoy the tranquil surroundings by walking the perimeter to appreciate the classic masonry."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac au Duc",
+            "hu": "Lac au Duc",
+            "ro": "Lac au Duc",
+            "en": "Lac au Duc"
+          },
+          "coords": [
+            -2.414304,
+            47.941856
+          ],
+          "category": "natural",
+          "arrive_at": "12:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den weiten Gewässern dieses malerischen Sees, ideal für Naturliebhaber, und mieten Sie ein Tretboot oder spazieren Sie auf den mit Hortensien gesäumten Uferpfaden.",
+            "hu": "Pihenjen ennek a festői tónak a hatalmas vize partján, amely tökéletes a természet kedvelőinek, és béreljen vízibiciklit, vagy sétáljon a part menti hortenziákkal övezett ösvényeken.",
+            "ro": "Relaxați-vă pe malurile acestui lac pitoresc, perfect pentru iubitorii de natură, și luați în considerare închirierea unei hidrobiciclete sau plimbarea pe potecile pline de hortensii.",
+            "en": "Relax by the vast waters of this scenic lake, perfect for nature lovers and outdoor enthusiasts, and consider renting a pedal boat or strolling the hydrangea-lined paths along the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir de la Cour",
+            "hu": "Manoir de la Cour",
+            "ro": "Manoir de la Cour",
+            "en": "Manoir de la Cour"
+          },
+          "coords": [
+            -2.361693,
+            47.93912
+          ],
+          "category": "castle",
+          "arrive_at": "14:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesem authentischen ländlichen Herrenhaus, einem schönen Beispiel regionaler aristokratischer Architektur, und beachten Sie die robusten Steintürme.",
+            "hu": "Lépjen vissza az időben ebben az autentikus vidéki udvarházban, amely a regionális arisztokrata építészet szép példája, és figyelje meg a robusztus kőtornyokat a környező birtok felfedezése előtt.",
+            "ro": "Întoarceți-vă în timp la acest conac rural autentic, un exemplu fin de arhitectură aristocratică regională, și observați turnurile robuste de piatră înainte de a explora domeniul.",
+            "en": "Step back in time at this authentic rural manor, a fine example of regional aristocratic architecture, and take note of the robust stone towers before checking the surrounding estate."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Malleville",
+            "hu": "Château de Malleville",
+            "ro": "Château de Malleville",
+            "en": "Château de Malleville"
+          },
+          "coords": [
+            -2.377618,
+            47.924472
+          ],
+          "category": "castle",
+          "arrive_at": "15:46",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre historische Reise an diesem prächtigen Schloss, das von üppigen Anlagen umgeben ist, machen Sie Fotos der eleganten Fassaden und erkunden Sie die gepflegten Gärten.",
+            "hu": "Fejezze be történelmi utazását ebben a csodálatos, buja növényzettel körülvett kastélyban, fényképezze le az elegáns homlokzatokat, és kényelmes tempóban fedezze fel a gondozott kerteket.",
+            "ro": "Încheiați-vă călătoria istorică la acest castel magnific, înconjurat de terenuri luxuriante, realizând fotografii cu fațadele elegante și explorând grădinile bine întreținute într-un ritm relaxant.",
+            "en": "End your historic journey at this magnificent château surrounded by lush grounds, capturing photos of the elegant facades and exploring the well-maintained gardens at a leisurely pace."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt an der aufwendig geschnitzten Maison des Marmousets und der nahegelegenen astronomischen Uhr. Mittags besuchen Sie die Église Saint-Armel und die Chapelle Saint-Joseph. Der Nachmittag bietet Natur am Lac au Duc und das Manoir de la Cour. Der Abend endet beeindruckend am Château de Malleville.",
+        "hu": "A reggel az igényesen faragott Maison des Marmousets-nél és az asztronómiai óránál indul. A délidő a spirituális helyszínekre, az Église Saint-Armel-re és a Chapelle Saint-Joseph-re tér át. A délután a Lac au Duc természetére és a Manoir de la Cour-ra fókuszál. Az este a Château de Malleville arisztokratikus környezetében ér véget.",
+        "ro": "Dimineața începe la Maison des Marmousets, urmată de ceasul astronomic. Amiaza face tranziția către siturile spirituale, vizitând Église Saint-Armel și Chapelle Saint-Joseph. După-amiaza se concentrează pe natură la Lac au Duc și Manoir de la Cour. Seara se încheie cu impresionantul Château de Malleville.",
+        "en": "Morning starts strong at the elaborately carved Maison des Marmousets, followed by the nearby Horloge Astronomique. Midday transitions to spiritual sites, visiting Église Saint-Armel and Chapelle Saint-Joseph. Afternoon focuses on nature at the sprawling Lac au Duc before a drive out to Manoir de la Cour. Evening ends with the impressive aristocratic setting of Château de Malleville."
+      }
+    }
+  }
+}

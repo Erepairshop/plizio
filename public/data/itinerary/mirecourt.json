@@ -1,0 +1,451 @@
+{
+  "city_id": "mirecourt",
+  "anchor": {
+    "name": "Mirecourt",
+    "coords": [
+      6.1303,
+      48.2986
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:40",
+      "total_km": 0.65,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Mirecourt",
+            "hu": "Mirecourt Városháza",
+            "ro": "Primăria Mirecourt",
+            "en": "Mirecourt Town Hall"
+          },
+          "coords": [
+            6.133977,
+            48.300122
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur dieses Rathauses, das als politisches Herz der Stadt dient, und achten Sie auf die Details am Haupteingang.",
+            "hu": "Csodálja meg a városháza klasszikus építészetét, amely a város politikai központja, és fordítson különös figyelmet a főbejárat finom részleteire.",
+            "ro": "Admirați arhitectura clasică a acestei primării, care servește drept inima politică a orașului, și acordați atenție detaliilor de la intrarea principală.",
+            "en": "Admire the classical architecture of this civic building, which serves as the political heart of the city, and pay close attention to the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Markthalle Mirecourt",
+            "hu": "Mirecourt Vásárcsarnok",
+            "ro": "Hala Pieței Mirecourt",
+            "en": "Mirecourt Market Hall"
+          },
+          "coords": [
+            6.133977,
+            48.300122
+          ],
+          "category": "historical",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckende Holzkonstruktion der historischen Markthalle, die das Zentrum des Handelslebens war, und besuchen Sie sie früh morgens.",
+            "hu": "Fedezze fel a történelmi vásárcsarnok lenyűgöző faszerkezetét, amely egykor a kereskedelem központja volt, és érdemes kora reggel meglátogatni.",
+            "ro": "Descoperiți impresionanta structură de lemn a halei pieței istorice, fostul centru al comerțului, și încercați să o vizitați dis-de-dimineață.",
+            "en": "Discover the impressive wooden structure of the historical market hall, once the center of trade, and try to visit early in the morning for the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame Kirche",
+            "hu": "Notre-Dame Templom",
+            "ro": "Biserica Notre-Dame",
+            "en": "Notre-Dame Church"
+          },
+          "coords": [
+            6.134598,
+            48.301201
+          ],
+          "category": "religious",
+          "arrive_at": "11:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Betrachten Sie die gotischen Gewölbe dieser wunderschönen Kirche, die ein Ort tiefer Spiritualität ist, und treten Sie leise ein, um die Ruhe zu genießen.",
+            "hu": "Tekintse meg ennek a gyönyörű templomnak a gótikus boltozatait, amely a mély spiritualitás helyszíne, és lépjen be halkan a csend tiszteletben tartásával.",
+            "ro": "Observați bolțile gotice ale acestei biserici frumoase, un loc de profundă spiritualitate, și intrați în liniște pentru a respecta atmosfera pașnică.",
+            "en": "Observe the gothic vaults of this beautiful church, which serves as a place of deep spirituality, and enter quietly to respect the peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Geigenbaumuseum",
+            "hu": "Hegedűkészítő Múzeum",
+            "ro": "Muzeul Viorilor",
+            "en": "Musée de la lutherie et de l’archèterie"
+          },
+          "coords": [
+            6.135633,
+            48.301502
+          ],
+          "category": "museum",
+          "arrive_at": "11:44",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Welt des Geigenbaus ein, für die Mirecourt weltberühmt ist, und buchen Sie eine Führung, um Experten bei der Arbeit zu sehen.",
+            "hu": "Merüljön el a hegedűkészítés világában, amelyről Mirecourt világhírű, és foglaljon előre vezetett túrát, hogy munka közben láthassa a mestereket.",
+            "ro": "Scufundați-vă în lumea fascinantă a construcției de viori pentru care Mirecourt este celebru și rezervați un tur ghidat pentru a vedea experți la lucru.",
+            "en": "Dive into the fascinating world of violin making for which Mirecourt is world-famous, and book a guided tour in advance to see experts at work."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle de la Oultre",
+            "hu": "Oultre Kápolna",
+            "ro": "Capela de la Oultre",
+            "en": "Chapelle de la Oultre"
+          },
+          "coords": [
+            6.139423,
+            48.29943
+          ],
+          "category": "religious",
+          "arrive_at": "13:30",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Überqueren Sie den Fluss, um diese idyllische Kapelle zu besuchen, die eine lange Geschichte hat, und genießen Sie den schönen Blick auf die Altstadt.",
+            "hu": "Keljen át a folyón, hogy meglátogassa ezt az idilli kápolnát, amely gazdag történelemmel rendelkezik, és élvezze a csodálatos kilátást az óvárosra.",
+            "ro": "Traversați râul pentru a vizita această capelă idilică cu o istorie îndelungată și bucurați-vă de vederea frumoasă asupra centrului vechi al orașului.",
+            "en": "Cross the river to visit this idyllic chapel which holds a long history, and enjoy the beautiful view back towards the old town from its quiet grounds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag im historischen Kern von Mirecourt. Genießen Sie das musikalische Erbe im Geigenbaumuseum, bevor Sie über den Fluss zur idyllischen Chapelle de la Oultre schlendern. Ein entspannter Abend in den Gassen rundet den Tag ab.",
+        "hu": "Kezdje a napot Mirecourt történelmi központjában. Merüljön el a zenei örökségben a hegedűkészítő múzeumban, majd sétáljon át a folyón az idilli kápolnához. Egy pihentető este a hangulatos utcákon tökéletes befejezés.",
+        "ro": "Începeți ziua în centrul istoric al Mirecourt. Explorați moștenirea muzicală la muzeul viorilor, apoi plimbați-vă peste râu până la idilica capelă. O seară relaxantă pe străzile fermecătoare completează perfect ziua.",
+        "en": "Start the day in the historic core of Mirecourt. Delve into the musical heritage at the violin making museum, then stroll across the river to the idyllic chapel. A relaxing evening in the charming streets rounds off the day perfectly."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:50",
+      "total_km": 4.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Markthalle Mirecourt",
+            "hu": "Mirecourt Vásárcsarnok",
+            "ro": "Hala Pieței Mirecourt",
+            "en": "Mirecourt Market Hall"
+          },
+          "coords": [
+            6.133977,
+            48.300122
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckende Holzkonstruktion der historischen Markthalle, die das Zentrum des Handelslebens war, und besuchen Sie sie früh morgens.",
+            "hu": "Fedezze fel a történelmi vásárcsarnok lenyűgöző faszerkezetét, amely egykor a kereskedelem központja volt, és érdemes kora reggel meglátogatni.",
+            "ro": "Descoperiți impresionanta structură de lemn a halei pieței istorice, fostul centru al comerțului, și încercați să o vizitați dis-de-dimineață.",
+            "en": "Discover the impressive wooden structure of the historical market hall, once the center of trade, and try to visit early in the morning for the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Geigenbaumuseum",
+            "hu": "Hegedűkészítő Múzeum",
+            "ro": "Muzeul Viorilor",
+            "en": "Musée de la lutherie et de l’archèterie"
+          },
+          "coords": [
+            6.135633,
+            48.301502
+          ],
+          "category": "museum",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Welt des Geigenbaus ein, für die Mirecourt weltberühmt ist, und buchen Sie eine Führung, um Experten bei der Arbeit zu sehen.",
+            "hu": "Merüljön el a hegedűkészítés világában, amelyről Mirecourt világhírű, és foglaljon előre vezetett túrát, hogy munka közben láthassa a mestereket.",
+            "ro": "Scufundați-vă în lumea fascinantă a construcției de viori pentru care Mirecourt este celebru și rezervați un tur ghidat pentru a vedea experți la lucru.",
+            "en": "Dive into the fascinating world of violin making for which Mirecourt is world-famous, and book a guided tour in advance to see experts at work."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle de la Oultre",
+            "hu": "Oultre Kápolna",
+            "ro": "Capela de la Oultre",
+            "en": "Chapelle de la Oultre"
+          },
+          "coords": [
+            6.139423,
+            48.29943
+          ],
+          "category": "religious",
+          "arrive_at": "12:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Überqueren Sie den Fluss, um diese idyllische Kapelle zu besuchen, die eine lange Geschichte hat, und genießen Sie den schönen Blick auf die Altstadt.",
+            "hu": "Keljen át a folyón, hogy meglátogassa ezt az idilli kápolnát, amely gazdag történelemmel rendelkezik, és élvezze a csodálatos kilátást az óvárosra.",
+            "ro": "Traversați râul pentru a vizita această capelă idilică cu o istorie îndelungată și bucurați-vă de vederea frumoasă asupra centrului vechi al orașului.",
+            "en": "Cross the river to visit this idyllic chapel which holds a long history, and enjoy the beautiful view back towards the old town from its quiet grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika Saint-Pierre-Fourier",
+            "hu": "Saint-Pierre-Fourier Bazilika",
+            "ro": "Bazilica Saint-Pierre-Fourier",
+            "en": "Basilique Saint-Pierre-Fourier"
+          },
+          "coords": [
+            6.133673,
+            48.279434
+          ],
+          "category": "religious",
+          "arrive_at": "13:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese majestätische Basilika, die dem Schutzheiligen der Region gewidmet ist, und bestaunen Sie die kunstvollen Buntglasfenster im Inneren.",
+            "hu": "Látogasson el ebbe a fenséges bazilikába, amelyet a régió védőszentjének szenteltek, és csodálja meg a belső tér művészi ólomüveg ablakait.",
+            "ro": "Vizitați această bazilică maiestuoasă dedicată sfântului patron al regiunii și minunați-vă de vitraliile elaborate care luminează interiorul.",
+            "en": "Visit this majestic basilica dedicated to the patron saint of the region, and marvel at the elaborate stained glass windows illuminating the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle des guten Saint-Pierre-Fourier",
+            "hu": "Jó Saint-Pierre-Fourier Kápolna",
+            "ro": "Capela Bunului Saint-Pierre-Fourier",
+            "en": "Chapelle du Bon Saint-Pierre-Fourrier"
+          },
+          "coords": [
+            6.144284,
+            48.280852
+          ],
+          "category": "religious",
+          "arrive_at": "13:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen kleinen, aber bedeutenden Wallfahrtsort inmitten der Natur, und nehmen Sie sich Zeit für einen ruhigen Moment der Reflexion.",
+            "hu": "Fedezze fel ezt a kis, de jelentős zarándokhelyet a természet lágy ölén, és szánjon egy kis időt a csendes elmélkedésre a fák árnyékában.",
+            "ro": "Descoperiți acest mic, dar important loc de pelerinaj în mijlocul naturii și acordați-vă timp pentru un moment liniștit de reflecție spirituală.",
+            "en": "Discover this small but important pilgrimage site surrounded by nature, and take a moment for quiet reflection away from the main tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame Kapelle",
+            "hu": "Notre-Dame Kápolna",
+            "ro": "Capela Notre-Dame",
+            "en": "Chapelle Notre-Dame"
+          },
+          "coords": [
+            6.131796,
+            48.280257
+          ],
+          "category": "religious",
+          "arrive_at": "14:40",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Eleganz dieser historischen Marienkapelle am Rande der Stadt, und achten Sie auf die gut erhaltenen Fresken an den Wänden.",
+            "hu": "Csodálja meg ennek a város szélén található történelmi Mária-kápolnának az egyszerű eleganciáját, és figyelje meg a jól megőrzött freskókat.",
+            "ro": "Admirați eleganța simplă a acestei capele istorice de la marginea orașului și acordați atenție frescelor bine conservate de pe pereții interiori.",
+            "en": "Admire the simple elegance of this historic Marian chapel on the edge of town, and pay close attention to the well-preserved frescoes on the walls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie ins Zentrum zur alten Markthalle und dem Geigenbaumuseum. Mittags fahren Sie über den Fluss und weiter nach Mattaincourt, um die beeindruckende Basilika und friedliche Kapellen zu entdecken. Ein sanfter Rückweg am Abend.",
+        "hu": "Kerékpározzon a központba a régi vásárcsarnokhoz és a múzeumhoz. Délben tekerjen át a folyón Mattaincourt felé, hogy felfedezze a lenyűgöző bazilikát és a békés kápolnákat. Kellemes visszatérés este.",
+        "ro": "Ciclism spre centru, la vechea hală a pieței și muzeul de instrumente. La prânz, mergeți peste râu spre Mattaincourt pentru a descoperi bazilica impresionantă și capelele liniștite. O întoarcere blândă seara.",
+        "en": "Cycle into the center to the old market hall and the luthiery museum. At midday, ride across the river and on to Mattaincourt to discover the impressive basilica and peaceful chapels. A gentle ride back in the evening."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:38",
+      "total_km": 6.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "St. Mauritius Kirche",
+            "hu": "Szent Móric Templom",
+            "ro": "Biserica Saint-Maurice",
+            "en": "Église Saint-Maurice"
+          },
+          "coords": [
+            6.124384,
+            48.320847
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese traditionelle Dorfkirche, die tief in der lokalen Gemeinschaft verwurzelt ist, und genießen Sie die ländliche Atmosphäre der Umgebung.",
+            "hu": "Fedezze fel ezt a hagyományos falusi templomot, amely mélyen gyökerezik a helyi közösségben, és élvezze a környező táj békés, vidéki hangulatát.",
+            "ro": "Explorați această biserică de sat tradițională, adânc înrădăcinată în comunitatea locală, și bucurați-vă de atmosfera rurală pașnică a împrejurimilor.",
+            "en": "Explore this traditional village church deeply rooted in the local community, and enjoy the peaceful rural atmosphere of the surrounding landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Markthalle Mirecourt",
+            "hu": "Mirecourt Vásárcsarnok",
+            "ro": "Hala Pieței Mirecourt",
+            "en": "Mirecourt Market Hall"
+          },
+          "coords": [
+            6.133977,
+            48.300122
+          ],
+          "category": "historical",
+          "arrive_at": "09:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckende Holzkonstruktion der historischen Markthalle, die das Zentrum des Handelslebens war, und besuchen Sie sie früh morgens.",
+            "hu": "Fedezze fel a történelmi vásárcsarnok lenyűgöző faszerkezetét, amely egykor a kereskedelem központja volt, és érdemes kora reggel meglátogatni.",
+            "ro": "Descoperiți impresionanta structură de lemn a halei pieței istorice, fostul centru al comerțului, și încercați să o vizitați dis-de-dimineață.",
+            "en": "Discover the impressive wooden structure of the historical market hall, once the center of trade, and try to visit early in the morning for the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Geigenbaumuseum",
+            "hu": "Hegedűkészítő Múzeum",
+            "ro": "Muzeul Viorilor",
+            "en": "Musée de la lutherie et de l’archèterie"
+          },
+          "coords": [
+            6.135633,
+            48.301502
+          ],
+          "category": "museum",
+          "arrive_at": "11:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Welt des Geigenbaus ein, für die Mirecourt weltberühmt ist, und buchen Sie eine Führung, um Experten bei der Arbeit zu sehen.",
+            "hu": "Merüljön el a hegedűkészítés világában, amelyről Mirecourt világhírű, és foglaljon előre vezetett túrát, hogy munka közben láthassa a mestereket.",
+            "ro": "Scufundați-vă în lumea fascinantă a construcției de viori pentru care Mirecourt este celebru și rezervați un tur ghidat pentru a vedea experți la lucru.",
+            "en": "Dive into the fascinating world of violin making for which Mirecourt is world-famous, and book a guided tour in advance to see experts at work."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle de la Oultre",
+            "hu": "Oultre Kápolna",
+            "ro": "Capela de la Oultre",
+            "en": "Chapelle de la Oultre"
+          },
+          "coords": [
+            6.139423,
+            48.29943
+          ],
+          "category": "religious",
+          "arrive_at": "13:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Überqueren Sie den Fluss, um diese idyllische Kapelle zu besuchen, die eine lange Geschichte hat, und genießen Sie den schönen Blick auf die Altstadt.",
+            "hu": "Keljen át a folyón, hogy meglátogassa ezt az idilli kápolnát, amely gazdag történelemmel rendelkezik, és élvezze a csodálatos kilátást az óvárosra.",
+            "ro": "Traversați râul pentru a vizita această capelă idilică cu o istorie îndelungată și bucurați-vă de vederea frumoasă asupra centrului vechi al orașului.",
+            "en": "Cross the river to visit this idyllic chapel which holds a long history, and enjoy the beautiful view back towards the old town from its quiet grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika Saint-Pierre-Fourier",
+            "hu": "Saint-Pierre-Fourier Bazilika",
+            "ro": "Bazilica Saint-Pierre-Fourier",
+            "en": "Basilique Saint-Pierre-Fourier"
+          },
+          "coords": [
+            6.133673,
+            48.279434
+          ],
+          "category": "religious",
+          "arrive_at": "13:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese majestätische Basilika, die dem Schutzheiligen der Region gewidmet ist, und bestaunen Sie die kunstvollen Buntglasfenster im Inneren.",
+            "hu": "Látogasson el ebbe a fenséges bazilikába, amelyet a régió védőszentjének szenteltek, és csodálja meg a belső tér művészi ólomüveg ablakait.",
+            "ro": "Vizitați această bazilică maiestuoasă dedicată sfântului patron al regiunii și minunați-vă de vitraliile elaborate care luminează interiorul.",
+            "en": "Visit this majestic basilica dedicated to the patron saint of the region, and marvel at the elaborate stained glass windows illuminating the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle des guten Saint-Pierre-Fourier",
+            "hu": "Jó Saint-Pierre-Fourier Kápolna",
+            "ro": "Capela Bunului Saint-Pierre-Fourier",
+            "en": "Chapelle du Bon Saint-Pierre-Fourrier"
+          },
+          "coords": [
+            6.144284,
+            48.280852
+          ],
+          "category": "religious",
+          "arrive_at": "14:28",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen kleinen, aber bedeutenden Wallfahrtsort inmitten der Natur, und nehmen Sie sich Zeit für einen ruhigen Moment der Reflexion.",
+            "hu": "Fedezze fel ezt a kis, de jelentős zarándokhelyet a természet lágy ölén, és szánjon egy kis időt a csendes elmélkedésre a fák árnyékában.",
+            "ro": "Descoperiți acest mic, dar important loc de pelerinaj în mijlocul naturii și acordați-vă timp pentru un moment liniștit de reflecție spirituală.",
+            "en": "Discover this small but important pilgrimage site surrounded by nature, and take a moment for quiet reflection away from the main tourist crowds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zuerst nach Poussay, bevor Sie die Markthalle und das Geigenbaumuseum in Mirecourt erkunden. Nachmittags geht es bequem weiter nach Mattaincourt zur großen Basilika und den benachbarten Kapellen.",
+        "hu": "Először vezessen Poussay-ba, mielőtt felfedezné Mirecourt vásárcsarnokát és hegedűkészítő múzeumát. Délután kényelmesen utazzon Mattaincourt-ba a nagy bazilikához és a szomszédos kápolnákhoz.",
+        "ro": "Conduceți mai întâi spre Poussay, înainte de a explora hala pieței și muzeul de viori din Mirecourt. După-amiaza, mergeți confortabil la Mattaincourt la marea bazilică și capelele învecinate.",
+        "en": "Drive first to Poussay before exploring the market hall and violin making museum in Mirecourt. In the afternoon, travel comfortably to Mattaincourt to see the grand basilica and neighboring chapels."
+      }
+    }
+  }
+}

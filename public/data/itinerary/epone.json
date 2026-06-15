@@ -1,0 +1,474 @@
+{
+  "city_id": "epone",
+  "anchor": {
+    "name": "Épône",
+    "coords": [
+      1.8153,
+      48.9558
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:27",
+      "total_km": 2.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Béat",
+            "hu": "Saint-Béat templom",
+            "ro": "Biserica Saint-Béat",
+            "en": "Saint-Béat Church"
+          },
+          "coords": [
+            1.814167,
+            48.955333
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Architektur der Kirche Saint-Béat, einer ruhigen spirituellen Oase in Épône; prüfen Sie vorab die lokalen Messezeiten für einen Innenbesuch.",
+            "hu": "Csodálja meg a Saint-Béat templom történelmi építészetét, Épône békés spirituális menedékét; a belső látogatás tervezése előtt érdemes ellenőrizni a misék időpontját.",
+            "ro": "Admirați arhitectura istorică a Bisericii Saint-Béat, un refugiu spiritual liniștit în Épône; verificați orele de slujbă locale înainte de a planifica o vizită în interior.",
+            "en": "Admire the historic architecture of Saint-Béat Church, a serene spiritual haven in Épône; remember to check local mass times before planning an interior visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Davidstempel",
+            "hu": "Dávid-templom",
+            "ro": "Templul lui David",
+            "en": "Temple of David"
+          },
+          "coords": [
+            1.80842,
+            48.95487
+          ],
+          "category": "historical",
+          "arrive_at": "09:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Ruinen des Davidstempels, eine einzigartige historische Stätte zur stillen Reflexion; tragen Sie bequeme Schuhe für das unebene Gelände.",
+            "hu": "Fedezze fel a Dávid-templom lenyűgöző romjait, egy egyedülálló történelmi helyszínt, amely csendes elmélkedésre hív; viseljen kényelmes cipőt az egyenetlen terep miatt.",
+            "ro": "Explorați ruinele fascinante ale Templului lui David, un sit istoric unic care invită la reflecție liniștită; purtați încălțăminte comodă pentru terenul accidentat din jur.",
+            "en": "Explore the intriguing ruins of the Temple of David, a unique historical site that invites quiet reflection; wear comfortable walking shoes for the uneven terrain around it."
+          }
+        },
+        {
+          "name": {
+            "de": "Park des Château d'Épône",
+            "hu": "Château d'Épône parkja",
+            "ro": "Parcul Château d'Épône",
+            "en": "Park of the Château d'Épône"
+          },
+          "coords": [
+            1.810679,
+            48.954098
+          ],
+          "category": "recreational",
+          "arrive_at": "11:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im üppigen Park des Château d'Épône, perfekt für einen gemütlichen Nachmittagsspaziergang; bringen Sie lokale Snacks mit, um sie auf dem Rasen zu genießen.",
+            "hu": "Pihenjen a Château d'Épône buja parkjában, amely tökéletes egy kényelmes délutáni sétához vagy családi piknikhez; hozzon magával helyi harapnivalókat a gondozott pázsitra.",
+            "ro": "Relaxați-vă în parcul luxuriant al Château d'Épône, perfect pentru o plimbare de după-amiază; aduceți câteva gustări locale pentru a le savura pe peluzele bine îngrijite.",
+            "en": "Relax in the lush Park of the Château d'Épône, perfect for a leisurely afternoon stroll or a family picnic; bring some local snacks to enjoy on the manicured lawns."
+          }
+        },
+        {
+          "name": {
+            "de": "Château d'Épône",
+            "hu": "Château d'Épône",
+            "ro": "Château d'Épône",
+            "en": "Château d'Épône"
+          },
+          "coords": [
+            1.812082,
+            48.953534
+          ],
+          "category": "castle",
+          "arrive_at": "12:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die elegante Fassade des Château d'Épône, die einen Einblick in die aristokratische Vergangenheit der Region bietet; machen Sie atemberaubende Fotos im Abendlicht.",
+            "hu": "Fedezze fel a Château d'Épône elegáns homlokzatát, amely bepillantást enged a régió arisztokratikus múltjába; készítsen lenyűgöző fotókat az aranyóra lágy fényében.",
+            "ro": "Descoperiți fațada elegantă a Château d'Épône, care oferă o privire în trecutul aristocratic al regiunii; surprindeți fotografii uimitoare în lumina blândă a apusului.",
+            "en": "Discover the elegant façade of the Château d'Épône, which offers a glimpse into the region's aristocratic past; capture stunning photos in the golden hour light."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Nicolas",
+            "hu": "Saint-Nicolas templom",
+            "ro": "Église Saint-Nicolas",
+            "en": "Église Saint-Nicolas"
+          },
+          "coords": [
+            1.795714,
+            48.960258
+          ],
+          "category": "religious",
+          "arrive_at": "14:17",
+          "stay_min": 70,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Betreten Sie die Église Saint-Nicolas, um die gut erhaltene religiöse Kunst und die Buntglasfenster zu sehen; bewahren Sie respektvolle Stille in dieser aktiven Pfarrei.",
+            "hu": "Lépjen be a Saint-Nicolas templomba, hogy megcsodálja a gyönyörűen megőrzött vallási művészetet és az ólomüveg ablakokat; tartson tiszteletteljes csendet az aktív plébánián.",
+            "ro": "Pășiți în Église Saint-Nicolas pentru a vedea arta religioasă și vitraliile frumos conservate; păstrați o liniște respectuoasă, deoarece rămâne o parohie activă.",
+            "en": "Step inside Église Saint-Nicolas to witness its beautifully preserved religious art and stained glass windows; maintain a respectful silence as it remains an active parish."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt im Herzen von Épône mit einem friedlichen Besuch der Kirche Saint-Béat und dem geheimnisvollen Davidstempel, was einen besinnlichen Ton für den Tag angibt. Gegen Mittag wechseln Sie in die malerische Umgebung des Parks des Château d'Épône, ein perfekter Ort, um sich auszuruhen. Der Nachmittag ist der Erkundung des majestätischen Äußeren des Château d'Épône gewidmet, gefolgt von einem gemütlichen Spaziergang zur historischen Église Saint-Nicolas. Am Abend bieten die charmanten Straßen der Stadt eine ruhige Kulisse für den Abschluss eines Tages voller sanfter Entdeckungen.",
+        "hu": "A reggel Épône szívében kezdődik a Saint-Béat templom és a titokzatos Dávid-templom békés meglátogatásával, megalapozva a nap elmélkedő hangulatát. Dél körül a Château d'Épône festői parkjába érkezik, amely tökéletes hely a pihenésre. A délután folyamán a Château d'Épône fenséges külsejét fedezheti fel, majd egy kényelmes sétát tehet a történelmi Saint-Nicolas templom felé. Ahogy közeledik az este, a város hangulatos utcái nyugodt hátteret biztosítanak egy gyalogos felfedezésekkel teli nap kellemes lezárásához.",
+        "ro": "Dimineața începe în inima orașului Épône cu o vizită pașnică la Biserica Saint-Béat și la misteriosul Templu al lui David, stabilind un ton reflexiv pentru zi. În jurul prânzului, veți trece la împrejurimile pitorești ale Parcului Château d'Épône, un loc perfect pentru a vă odihni. După-amiaza este dedicată explorării exteriorului maiestuos al Château d'Épône, urmată de o plimbare pe îndelete spre istorica Église Saint-Nicolas. Pe măsură ce se apropie seara, străzile fermecătoare ale orașului oferă un fundal senin pentru a încheia o zi de descoperire.",
+        "en": "Your morning begins at the heart of Épône with a peaceful visit to Saint-Béat Church and the mysterious Temple of David, setting a reflective tone for the day. Around midday, you will transition to the scenic surroundings of the Park of the Château d'Épône, a perfect spot to rest and enjoy the local greenery. The afternoon is dedicated to exploring the majestic exterior of the Château d'Épône, followed by a leisurely stroll towards the historic Église Saint-Nicolas. As evening approaches, the charming streets of the town provide a serene backdrop, concluding a day of gentle discovery on foot."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:43",
+      "total_km": 4.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Béat",
+            "hu": "Saint-Béat templom",
+            "ro": "Biserica Saint-Béat",
+            "en": "Saint-Béat Church"
+          },
+          "coords": [
+            1.814167,
+            48.955333
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Architektur der Kirche Saint-Béat, einer ruhigen spirituellen Oase in Épône; prüfen Sie vorab die lokalen Messezeiten für einen Innenbesuch.",
+            "hu": "Csodálja meg a Saint-Béat templom történelmi építészetét, Épône békés spirituális menedékét; a belső látogatás tervezése előtt érdemes ellenőrizni a misék időpontját.",
+            "ro": "Admirați arhitectura istorică a Bisericii Saint-Béat, un refugiu spiritual liniștit în Épône; verificați orele de slujbă locale înainte de a planifica o vizită în interior.",
+            "en": "Admire the historic architecture of Saint-Béat Church, a serene spiritual haven in Épône; remember to check local mass times before planning an interior visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Château d'Épône",
+            "hu": "Château d'Épône",
+            "ro": "Château d'Épône",
+            "en": "Château d'Épône"
+          },
+          "coords": [
+            1.812082,
+            48.953534
+          ],
+          "category": "castle",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die elegante Fassade des Château d'Épône, die einen Einblick in die aristokratische Vergangenheit der Region bietet; machen Sie atemberaubende Fotos im Abendlicht.",
+            "hu": "Fedezze fel a Château d'Épône elegáns homlokzatát, amely bepillantást enged a régió arisztokratikus múltjába; készítsen lenyűgöző fotókat az aranyóra lágy fényében.",
+            "ro": "Descoperiți fațada elegantă a Château d'Épône, care oferă o privire în trecutul aristocratic al regiunii; surprindeți fotografii uimitoare în lumina blândă a apusului.",
+            "en": "Discover the elegant façade of the Château d'Épône, which offers a glimpse into the region's aristocratic past; capture stunning photos in the golden hour light."
+          }
+        },
+        {
+          "name": {
+            "de": "Davidstempel",
+            "hu": "Dávid-templom",
+            "ro": "Templul lui David",
+            "en": "Temple of David"
+          },
+          "coords": [
+            1.80842,
+            48.95487
+          ],
+          "category": "historical",
+          "arrive_at": "11:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Ruinen des Davidstempels, eine einzigartige historische Stätte zur stillen Reflexion; tragen Sie bequeme Schuhe für das unebene Gelände.",
+            "hu": "Fedezze fel a Dávid-templom lenyűgöző romjait, egy egyedülálló történelmi helyszínt, amely csendes elmélkedésre hív; viseljen kényelmes cipőt az egyenetlen terep miatt.",
+            "ro": "Explorați ruinele fascinante ale Templului lui David, un sit istoric unic care invită la reflecție liniștită; purtați încălțăminte comodă pentru terenul accidentat din jur.",
+            "en": "Explore the intriguing ruins of the Temple of David, a unique historical site that invites quiet reflection; wear comfortable walking shoes for the uneven terrain around it."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Nicolas",
+            "hu": "Saint-Nicolas templom",
+            "ro": "Église Saint-Nicolas",
+            "en": "Église Saint-Nicolas"
+          },
+          "coords": [
+            1.795714,
+            48.960258
+          ],
+          "category": "religious",
+          "arrive_at": "12:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Betreten Sie die Église Saint-Nicolas, um die gut erhaltene religiöse Kunst und die Buntglasfenster zu sehen; bewahren Sie respektvolle Stille in dieser aktiven Pfarrei.",
+            "hu": "Lépjen be a Saint-Nicolas templomba, hogy megcsodálja a gyönyörűen megőrzött vallási művészetet és az ólomüveg ablakokat; tartson tiszteletteljes csendet az aktív plébánián.",
+            "ro": "Pășiți în Église Saint-Nicolas pentru a vedea arta religioasă și vitraliile frumos conservate; păstrați o liniște respectuoasă, deoarece rămâne o parohie activă.",
+            "en": "Step inside Église Saint-Nicolas to witness its beautifully preserved religious art and stained glass windows; maintain a respectful silence as it remains an active parish."
+          }
+        },
+        {
+          "name": {
+            "de": "Allée couverte de la Justice",
+            "hu": "Allée couverte de la Justice",
+            "ro": "Allée couverte de la Justice",
+            "en": "Allée couverte de la Justice"
+          },
+          "coords": [
+            1.832271,
+            48.970261
+          ],
+          "category": "historical",
+          "arrive_at": "13:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Allée couverte de la Justice, ein faszinierendes Megalithdenkmal mit Einblicken in die Urzeit; besuchen Sie es früh am Tag, um den Mittagsmassen zu entgehen.",
+            "hu": "Csodálja meg az Allée couverte de la Justice megalitikus emlékművet, amely betekintést nyújt a történelem előtti életbe; látogasson el kora reggel a tömeg elkerülése végett.",
+            "ro": "Minunați-vă de Allée couverte de la Justice, un monument megalitic fascinant ce oferă o perspectivă asupra vieții preistorice; vizitați dimineața devreme pentru a evita aglomerația.",
+            "en": "Marvel at the Allée couverte de la Justice, a fascinating megalithic monument offering insight into prehistoric life; visit early in the day to beat the midday crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "L'Hérubé",
+            "hu": "L'Hérubé",
+            "ro": "L'Hérubé",
+            "en": "L'Hérubé"
+          },
+          "coords": [
+            1.828003,
+            48.972703
+          ],
+          "category": "natural",
+          "arrive_at": "14:58",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die natürliche Schönheit von L'Hérubé, einem malerischen Ort für Naturliebhaber und Vogelbeobachter; bringen Sie ein Fernglas mit, um die Tierwelt zu sehen.",
+            "hu": "Merüljön el L'Hérubé természeti szépségében, amely festői helyszín a természet szerelmeseinek és madármegfigyelőknek; hozzon távcsövet a helyi vadvilág megfigyeléséhez.",
+            "ro": "Cufundați-vă în frumusețea naturală de la L'Hérubé, un loc pitoresc ideal pentru iubitorii de natură; aduceți un binoclu pentru a observa fauna sălbatică de la distanță.",
+            "en": "Immerse yourself in the natural beauty of L'Hérubé, a scenic spot ideal for nature enthusiasts and bird watchers; bring binoculars to spot local wildlife from a distance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer an der Kirche Saint-Béat, bevor Sie am großen Château d'Épône und dem alten Davidstempel vorbeigleiten. Mittags erreichen Sie die kulturell reiche Église Saint-Nicolas, die einen Moment der stillen Reflexion bietet, bevor Sie in die umliegende Landschaft radeln. Am Nachmittag führt die Reise zur bemerkenswerten Allée couverte de la Justice, wo prähistorische Geschichte mit der Natur verschmilzt. Wenn der Abend hereinbricht, gipfelt Ihre Fahrt in L'Hérubé, wo Sie inmitten der ruhigen Schönheit der Natur entspannen können.",
+        "hu": "Kezdje kerékpáros kalandját a Saint-Béat templomnál, mielőtt elhaladna a nagyszerű Château d'Épône és az ősi Dávid-templom mellett a friss reggeli levegőn. Délben a kulturálisan gazdag Saint-Nicolas templomhoz érkezik, amely csendes elmélkedést kínál, mielőtt tovább pedálozna a vidék felé. Délután az utazás a figyelemre méltó Allée couverte de la Justice-hez vezet, ahol az őskori történelem egybeolvad a természeti tájjal. Ahogy leszáll az est, az utazás L'Hérubé természeti szépségében csúcsosodik ki, lehetővé téve a teljes ellazulást.",
+        "ro": "Începeți aventura cu bicicleta la Biserica Saint-Béat, înainte de a trece pe lângă marele Château d'Épône și vechiul Templu al lui David în aerul proaspăt al dimineții. La prânz, ajungeți la Église Saint-Nicolas, bogată cultural, oferind un moment de reflecție liniștită. După-amiaza, călătoria vă duce la remarcabila Allée couverte de la Justice, unde istoria preistorică se îmbină perfect cu peisajul natural. Odată cu lăsarea serii, plimbarea culminează la L'Hérubé, permițându-vă să vă relaxați în mijlocul frumuseții liniștite a naturii.",
+        "en": "Start your cycling adventure at Saint-Béat Church before gliding past the grand Château d'Épône and the ancient Temple of David in the crisp morning air. Midday brings you to the culturally rich Église Saint-Nicolas, offering a moment of quiet reflection before you pedal further out into the surrounding countryside. In the afternoon, the journey takes you to the remarkable Allée couverte de la Justice, where prehistoric history seamlessly blends with the natural landscape. As evening falls, your ride culminates at L'Hérubé, allowing you to unwind amidst nature's tranquil beauty."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:14",
+      "total_km": 8.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Davidstempel",
+            "hu": "Dávid-templom",
+            "ro": "Templul lui David",
+            "en": "Temple of David"
+          },
+          "coords": [
+            1.80842,
+            48.95487
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Ruinen des Davidstempels, eine einzigartige historische Stätte zur stillen Reflexion; tragen Sie bequeme Schuhe für das unebene Gelände.",
+            "hu": "Fedezze fel a Dávid-templom lenyűgöző romjait, egy egyedülálló történelmi helyszínt, amely csendes elmélkedésre hív; viseljen kényelmes cipőt az egyenetlen terep miatt.",
+            "ro": "Explorați ruinele fascinante ale Templului lui David, un sit istoric unic care invită la reflecție liniștită; purtați încălțăminte comodă pentru terenul accidentat din jur.",
+            "en": "Explore the intriguing ruins of the Temple of David, a unique historical site that invites quiet reflection; wear comfortable walking shoes for the uneven terrain around it."
+          }
+        },
+        {
+          "name": {
+            "de": "Château d'Épône",
+            "hu": "Château d'Épône",
+            "ro": "Château d'Épône",
+            "en": "Château d'Épône"
+          },
+          "coords": [
+            1.812082,
+            48.953534
+          ],
+          "category": "castle",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die elegante Fassade des Château d'Épône, die einen Einblick in die aristokratische Vergangenheit der Region bietet; machen Sie atemberaubende Fotos im Abendlicht.",
+            "hu": "Fedezze fel a Château d'Épône elegáns homlokzatát, amely bepillantást enged a régió arisztokratikus múltjába; készítsen lenyűgöző fotókat az aranyóra lágy fényében.",
+            "ro": "Descoperiți fațada elegantă a Château d'Épône, care oferă o privire în trecutul aristocratic al regiunii; surprindeți fotografii uimitoare în lumina blândă a apusului.",
+            "en": "Discover the elegant façade of the Château d'Épône, which offers a glimpse into the region's aristocratic past; capture stunning photos in the golden hour light."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Nicolas",
+            "hu": "Saint-Nicolas templom",
+            "ro": "Église Saint-Nicolas",
+            "en": "Église Saint-Nicolas"
+          },
+          "coords": [
+            1.795714,
+            48.960258
+          ],
+          "category": "religious",
+          "arrive_at": "11:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Betreten Sie die Église Saint-Nicolas, um die gut erhaltene religiöse Kunst und die Buntglasfenster zu sehen; bewahren Sie respektvolle Stille in dieser aktiven Pfarrei.",
+            "hu": "Lépjen be a Saint-Nicolas templomba, hogy megcsodálja a gyönyörűen megőrzött vallási művészetet és az ólomüveg ablakokat; tartson tiszteletteljes csendet az aktív plébánián.",
+            "ro": "Pășiți în Église Saint-Nicolas pentru a vedea arta religioasă și vitraliile frumos conservate; păstrați o liniște respectuoasă, deoarece rămâne o parohie activă.",
+            "en": "Step inside Église Saint-Nicolas to witness its beautifully preserved religious art and stained glass windows; maintain a respectful silence as it remains an active parish."
+          }
+        },
+        {
+          "name": {
+            "de": "Allée couverte de la Justice",
+            "hu": "Allée couverte de la Justice",
+            "ro": "Allée couverte de la Justice",
+            "en": "Allée couverte de la Justice"
+          },
+          "coords": [
+            1.832271,
+            48.970261
+          ],
+          "category": "historical",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Allée couverte de la Justice, ein faszinierendes Megalithdenkmal mit Einblicken in die Urzeit; besuchen Sie es früh am Tag, um den Mittagsmassen zu entgehen.",
+            "hu": "Csodálja meg az Allée couverte de la Justice megalitikus emlékművet, amely betekintést nyújt a történelem előtti életbe; látogasson el kora reggel a tömeg elkerülése végett.",
+            "ro": "Minunați-vă de Allée couverte de la Justice, un monument megalitic fascinant ce oferă o perspectivă asupra vieții preistorice; vizitați dimineața devreme pentru a evita aglomerația.",
+            "en": "Marvel at the Allée couverte de la Justice, a fascinating megalithic monument offering insight into prehistoric life; visit early in the day to beat the midday crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "L'Hérubé",
+            "hu": "L'Hérubé",
+            "ro": "L'Hérubé",
+            "en": "L'Hérubé"
+          },
+          "coords": [
+            1.828003,
+            48.972703
+          ],
+          "category": "natural",
+          "arrive_at": "14:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die natürliche Schönheit von L'Hérubé, einem malerischen Ort für Naturliebhaber und Vogelbeobachter; bringen Sie ein Fernglas mit, um die Tierwelt zu sehen.",
+            "hu": "Merüljön el L'Hérubé természeti szépségében, amely festői helyszín a természet szerelmeseinek és madármegfigyelőknek; hozzon távcsövet a helyi vadvilág megfigyeléséhez.",
+            "ro": "Cufundați-vă în frumusețea naturală de la L'Hérubé, un loc pitoresc ideal pentru iubitorii de natură; aduceți un binoclu pentru a observa fauna sălbatică de la distanță.",
+            "en": "Immerse yourself in the natural beauty of L'Hérubé, a scenic spot ideal for nature enthusiasts and bird watchers; bring binoculars to spot local wildlife from a distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Église de la Nativité-de-la-Vierge",
+            "hu": "Église de la Nativité-de-la-Vierge",
+            "ro": "Église de la Nativité-de-la-Vierge",
+            "en": "Église de la Nativité-de-la-Vierge"
+          },
+          "coords": [
+            1.83228,
+            48.944284
+          ],
+          "category": "religious",
+          "arrive_at": "15:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment der ruhigen Besinnung in der Église de la Nativité-de-la-Vierge; überprüfen Sie das Schwarze Brett draußen auf bevorstehende Gemeindeversammlungen.",
+            "hu": "Töltsön el egy percet csendes elmélkedéssel az Église de la Nativité-de-la-Vierge békés hangulatában; nézze meg a kinti hirdetőtáblát a közelgő közösségi eseményekért.",
+            "ro": "Luați-vă un moment de contemplare la Église de la Nativité-de-la-Vierge, renumită pentru ambianța sa pașnică; verificați avizierul exterior pentru evenimente viitoare.",
+            "en": "Take a moment of quiet contemplation at the Église de la Nativité-de-la-Vierge, renowned for its peaceful ambiance; check the notice board outside for upcoming community events."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Blaise",
+            "hu": "Saint-Blaise templom",
+            "ro": "Église Saint-Blaise",
+            "en": "Église Saint-Blaise"
+          },
+          "coords": [
+            1.836883,
+            48.943638
+          ],
+          "category": "religious",
+          "arrive_at": "16:04",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie die charmante Église Saint-Blaise, um ihre bescheidene, aber markante Architektur zu würdigen; kleiden Sie sich aus Respekt vor diesem Heiligtum angemessen.",
+            "hu": "Látogasson el a bájos Saint-Blaise templomba, hogy értékelje szerény, mégis lenyűgöző építészetét; öltözzön szerényen, tiszteletben tartva ezt a becsben tartott szentélyt.",
+            "ro": "Vizitați fermecătoarea Église Saint-Blaise pentru a aprecia arhitectura sa modestă, dar impresionantă; îmbrăcați-vă decent din respect pentru acest sanctuar prețuit.",
+            "en": "Visit the charming Église Saint-Blaise to appreciate its modest yet striking architecture and historical significance; dress modestly out of respect for this cherished sanctuary."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zuerst zum rätselhaften Davidstempel und dem stattlichen Château d'Épône und genießen Sie die tiefe historische Atmosphäre im Morgenlicht. Wenn der Mittag naht, fahren Sie zur Église Saint-Nicolas und der alten Allée couverte de la Justice, einem faszinierenden Nebeneinander von mittelalterlichem und prähistorischem Erbe. Die Fahrt am Nachmittag nimmt eine natürliche Wendung in L'Hérubé, gefolgt von einem Besuch der ruhigen Église de la Nativité-de-la-Vierge. Beenden Sie Ihren Abend an der Église Saint-Blaise, wo die ruhige Abenddämmerung perfekt passt.",
+        "hu": "Vezessen először a rejtélyes Dávid-templomhoz és a fenséges Château d'Épône-hoz, elmerülve a mély történelmi hangulatban a kora reggeli fényben. Ahogy közeledik a dél, haladjon tovább a Saint-Nicolas templomhoz és az ősi Allée couverte de la Justice-hez, amely a középkori és az őskori örökség lenyűgöző találkozása. A délutáni autózás természetes fordulatot vesz L'Hérubé-nél, frissítő szünetet kínálva, majd látogatást tesz a békés Église de la Nativité-de-la-Vierge-nél. Fejezze be az estét a Saint-Blaise templomnál, ahol a csendes alkonyat tökéletes lezárást nyújt.",
+        "ro": "Conduceți mai întâi la Templul lui David și la impunătorul Château d'Épône, bucurându-vă de atmosfera istorică profundă în lumina dimineții. Pe măsură ce se apropie prânzul, îndreptați-vă spre Église Saint-Nicolas și vechea Allée couverte de la Justice, o juxtapunere fascinantă de patrimoniu medieval și preistoric. Călătoria de după-amiază ia o întorsătură naturală la L'Hérubé, urmată de o vizită la senina Église de la Nativité-de-la-Vierge. Încheiați seara la Église Saint-Blaise, unde amurgul liniștit se potrivește perfect cu farmecul sanctuarului.",
+        "en": "Drive first to the enigmatic Temple of David and the stately Château d'Épône, soaking in the profound historical atmosphere that defines the town's morning light. As midday approaches, navigate smoothly to Église Saint-Nicolas and the ancient Allée couverte de la Justice, a fascinating juxtaposition of medieval and prehistoric heritage. The afternoon drive takes a natural turn at L'Hérubé, offering a refreshing break in the lush scenery, followed by a visit to the serene Église de la Nativité-de-la-Vierge. End your evening at Église Saint-Blaise, where the quiet twilight perfectly matches the sanctuary's enduring and peaceful charm."
+      }
+    }
+  }
+}

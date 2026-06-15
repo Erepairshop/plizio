@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-pozuelo-de-alarcon-cities-v2",
+  "anchor": {
+    "name": "Pozuelo de Alarcón",
+    "coords": [
+      -3.81338,
+      40.43293
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:21",
+      "total_km": 2.38,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Nuevo Centro Cultural",
+            "hu": "Nuevo Centro Cultural",
+            "ro": "Nuevo Centro Cultural",
+            "en": "Nuevo Centro Cultural"
+          },
+          "coords": [
+            -3.814418,
+            40.435204
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie zeitgenössische Ausstellungen in diesem modernen Zentrum, das lokale Künstler fördert, und prüfen Sie vorab den Veranstaltungskalender.",
+            "hu": "Fedezze fel a kortárs kiállításokat ebben a modern központban, amely a helyi művészeket támogatja, és érkezés előtt ellenőrizze a programnaptárt.",
+            "ro": "Explorați expoziții contemporane în acest centru modern care sprijină artiștii locali și verificați calendarul de evenimente înainte de sosire.",
+            "en": "Discover contemporary exhibitions in this modern center that supports local artists, and check the event calendar before you arrive to plan ahead."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Fuente de la Salud",
+            "hu": "Parque Fuente de la Salud",
+            "ro": "Parque Fuente de la Salud",
+            "en": "Parque Fuente de la Salud"
+          },
+          "coords": [
+            -3.813821,
+            40.443874
+          ],
+          "category": "park",
+          "arrive_at": "11:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.97,
+          "tip_5lang": {
+            "de": "Entspannen Sie in dieser grünen Oase mit ihren ruhigen Spazierwegen, die einen schönen Kontrast zur Stadt bilden, und bringen Sie bequeme Schuhe mit.",
+            "hu": "Pihenjen meg ebben a zöld oázisban, amelynek nyugodt sétányai kellemes kontrasztot nyújtanak a várossal, és hozzon magával kényelmes cipőt.",
+            "ro": "Relaxați-vă în această oază verde, cu aleile sale liniștite ce oferă un contrast plăcut cu orașul, și asigurați-vă că purtați încălțăminte comodă.",
+            "en": "Relax in this green oasis with its peaceful walkways that provide a lovely contrast to the city, and make sure to wear comfortable walking shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Sala de Exposiciones",
+            "hu": "Sala de Exposiciones",
+            "ro": "Sala de Exposiciones",
+            "en": "Sala de Exposiciones"
+          },
+          "coords": [
+            -3.810071,
+            40.44544
+          ],
+          "category": "museum",
+          "arrive_at": "12:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wechselnden Kunstwerke in dieser intimen Galerie, die tiefere Einblicke in die Madrider Kunstszene bietet, und fotografieren Sie ohne Blitz.",
+            "hu": "Csodálja meg a változó műalkotásokat ebben az intim galériában, amely mélyebb betekintést nyújt a madridi művészeti szcénába, és vaku nélkül fotózzon.",
+            "ro": "Admirați operele de artă în schimbare din această galerie intimă, care oferă o privire profundă asupra scenei de artă, și fotografiați fără bliț.",
+            "en": "Admire the changing artworks in this intimate gallery that offers deeper insights into the Madrid art scene, and remember to take photos without flash."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditorio El Torreón",
+            "hu": "Auditorio El Torreón",
+            "ro": "Auditorio El Torreón",
+            "en": "Auditorio El Torreón"
+          },
+          "coords": [
+            -3.810101,
+            40.444329
+          ],
+          "category": "cultural",
+          "arrive_at": "14:09",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Betrachten Sie die architektonischen Details dieses kulturellen Wahrzeichens von außen und besuchen Sie das nahegelegene Café für eine kleine Pause.",
+            "hu": "Tekintse meg ennek a kulturális nevezetességnek az építészeti részleteit kívülről, és látogasson el a közeli kávézóba egy rövid pihenőre.",
+            "ro": "Priviți detaliile arhitecturale ale acestui punct de reper cultural de la exterior și vizitați o cafenea din apropiere pentru o scurtă pauză.",
+            "en": "Observe the architectural details of this cultural landmark from the outside and consider visiting a nearby café for a quick and relaxing break."
+          }
+        },
+        {
+          "name": {
+            "de": "Parroquia Nuestra Señora del Carmen",
+            "hu": "Parroquia Nuestra Señora del Carmen",
+            "ro": "Parroquia Nuestra Señora del Carmen",
+            "en": "Parroquia Nuestra Señora del Carmen"
+          },
+          "coords": [
+            -3.802765,
+            40.445964
+          ],
+          "category": "religious",
+          "arrive_at": "15:11",
+          "stay_min": 70,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.82,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese friedliche Kirche, die durch ihre schlichte Architektur und spirituelle Atmosphäre besticht, und kleiden Sie sich für den Eintritt respektvoll.",
+            "hu": "Látogassa meg ezt a békés templomot, amely egyszerű építészetével és spirituális légkörével hódít, és öltözzön tisztelettudóan a belépéshez.",
+            "ro": "Vizitați această biserică pașnică, care impresionează prin arhitectura sa simplă și atmosfera spirituală, și îmbrăcați-vă decent pentru a intra.",
+            "en": "Visit this peaceful church that impresses with its simple architecture and deeply spiritual atmosphere, and ensure you dress respectfully before entering."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen unseren Rundgang im Zentrum im Nuevo Centro Cultural und tauchen in lokale Kunst ein. Gegen Mittag spazieren wir entspannt nach Norden zum Parque Fuente de la Salud, um im Grünen zu entspannen. Der Nachmittag ist der Kultur gewidmet, mit Besuchen der Sala de Exposiciones und des Auditorio El Torreón. Am Abend beenden wir den Tag mit einem ruhigen Besuch der Parroquia.",
+        "hu": "Sétánkat a város szívében, a Nuevo Centro Culturalban kezdjük, elmerülve a kortárs művészetben. Dél körül észak felé vesszük az irányt a békés Parque Fuente de la Salud felé, hogy megpihenjünk. A délutánt a kultúrának szenteljük a Sala de Exposiciones és az Auditorio El Torreón felfedezésével. Este a napot a Parroquia Nuestra Señora del Carmen templom csendes légkörében zárjuk.",
+        "ro": "Începem turul nostru pe jos în centrul orașului la Nuevo Centro Cultural, admirând arta contemporană. Pe la prânz, facem o plimbare relaxantă spre nord către liniștitul Parque Fuente de la Salud. După-amiaza este dedicată culturii, vizitând atât Sala de Exposiciones, cât și Auditorio El Torreón. Seara ne încheiem ziua cu o vizită la biserica liniștită Nuestra Señora del Carmen.",
+        "en": "We begin our walking tour in the heart of the city at the Nuevo Centro Cultural, immersing ourselves in contemporary local art. As midday approaches, we take a refreshing stroll northwards to the serene Parque Fuente de la Salud to relax under the trees. The afternoon is dedicated to culture, visiting both the intimate Sala de Exposiciones and Auditorio El Torreón. We conclude peacefully at the church."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:58",
+      "total_km": 4.26,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Torre Dragona",
+            "hu": "Torre Dragona",
+            "ro": "Torre Dragona",
+            "en": "Torre Dragona"
+          },
+          "coords": [
+            -3.834296,
+            40.43268
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses markante historische Bauwerk, das einen Blick auf die Vergangenheit der Region bietet, und nutzen Sie das Morgenlicht für Fotos.",
+            "hu": "Csodálja meg ezt a feltűnő történelmi épületet, amely bepillantást enged a régió múltjába, és használja ki a reggeli fényeket a fotózáshoz.",
+            "ro": "Admirați această clădire istorică impresionantă, care oferă o privire asupra trecutului regiunii, și profitați de lumina dimineții pentru poze.",
+            "en": "Admire this striking historical structure that offers a glimpse into the region's past, and take advantage of the morning light for the best photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuevo Centro Cultural",
+            "hu": "Nuevo Centro Cultural",
+            "ro": "Nuevo Centro Cultural",
+            "en": "Nuevo Centro Cultural"
+          },
+          "coords": [
+            -3.814418,
+            40.435204
+          ],
+          "category": "museum",
+          "arrive_at": "10:42",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie hier die wechselnden lokalen Kunstausstellungen in modernen Räumlichkeiten und binden Sie Ihr Fahrrad sicher am Eingang an.",
+            "hu": "Fedezze fel itt a változó helyi művészeti kiállításokat modern terekben, és kösse le biztonságosan a kerékpárját a bejáratnál.",
+            "ro": "Explorați aici expozițiile de artă locală în schimbare în spații moderne și asigurați-vă că vă legați bicicleta la intrare.",
+            "en": "Explore the changing local art exhibitions here in modern spaces, and make sure to lock your bicycle securely right near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Escenario",
+            "hu": "Escenario",
+            "ro": "Escenario",
+            "en": "Escenario"
+          },
+          "coords": [
+            -3.803185,
+            40.436095
+          ],
+          "category": "cultural",
+          "arrive_at": "12:29",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.25,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebendige Atmosphäre an diesem öffentlichen Platz, der oft für Gemeindeveranstaltungen genutzt wird, und parken Sie Ihr Fahrrad sicher.",
+            "hu": "Élvezze a nyüzsgő légkört ezen a nyilvános téren, amelyet gyakran használnak közösségi rendezvényekre, és biztonságosan parkolja le kerékpárját.",
+            "ro": "Bucurați-vă de atmosfera plină de viață a acestui spațiu public, adesea folosit pentru evenimente, și asigurați-vă că vă parcați bicicleta în siguranță.",
+            "en": "Experience the vibrant atmosphere at this public space often used for community events, and make sure to lock your bicycle securely nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador Cerro de los Perdigones",
+            "hu": "Mirador Cerro de los Perdigones",
+            "ro": "Mirador Cerro de los Perdigones",
+            "en": "Mirador Cerro de los Perdigones"
+          },
+          "coords": [
+            -3.801724,
+            40.435412
+          ],
+          "category": "natural",
+          "arrive_at": "12:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende Aussicht über die Hügel von diesem malerischen Aussichtspunkt und nehmen Sie unbedingt ein Fernglas für Details mit.",
+            "hu": "Élvezze a lenyűgöző kilátást a dombokra ebből a festői kilátóból, és mindenképpen vigyen magával egy távcsövet a részletek megfigyeléséhez.",
+            "ro": "Bucurați-vă de priveliștile uimitoare peste dealuri din acest punct de observație pitoresc și asigurați-vă că aduceți un binoclu pentru detalii.",
+            "en": "Enjoy the stunning views across the rolling hills from this picturesque viewpoint, and be sure to bring binoculars to spot distant landmarks."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de Santa María de Caná",
+            "hu": "Iglesia de Santa María de Caná",
+            "ro": "Iglesia de Santa María de Caná",
+            "en": "Iglesia de Santa María de Caná"
+          },
+          "coords": [
+            -3.799838,
+            40.434592
+          ],
+          "category": "religious",
+          "arrive_at": "13:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierende moderne Ziegelarchitektur dieser beeindruckenden Kirche und betreten Sie das Gebäude leise während der Gottesdienste.",
+            "hu": "Fedezze fel ennek a lenyűgöző templomnak a lenyűgöző modern téglaépítészetét, és csendben lépjen be az épületbe az istentiszteletek alatt.",
+            "ro": "Explorați arhitectura modernă din cărămidă a acestei biserici impresionante și asigurați-vă că intrați în liniște în timpul slujbelor religioase.",
+            "en": "Explore the fascinating modern brick architecture of this impressive church, and remember to enter quietly to respect ongoing religious services."
+          }
+        },
+        {
+          "name": {
+            "de": "Vista panorámica Madrid",
+            "hu": "Vista panorámica Madrid",
+            "ro": "Vista panorámica Madrid",
+            "en": "Vista panorámica Madrid"
+          },
+          "coords": [
+            -3.796107,
+            40.433958
+          ],
+          "category": "natural",
+          "arrive_at": "14:03",
+          "stay_min": 55,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.42,
+          "tip_5lang": {
+            "de": "Blicken Sie von hier aus direkt auf die Skyline von Madrid, was diesen Ort einzigartig macht, und kommen Sie bei klarem Wetter für die beste Sicht.",
+            "hu": "Tekintsen innen egyenesen Madrid horizontjára, ami egyedülállóvá teszi ezt a helyet, és tiszta időben érkezzen a legjobb látvány érdekében.",
+            "ro": "Priviți direct către orizontul Madridului de aici, ceea ce face acest loc unic, și veniți în zile senine pentru a avea cea mai clară panoramă.",
+            "en": "Gaze directly at the Madrid skyline from here, making this spot truly unique, and try to visit on a clear weather day for the best visibility."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Fahrradabenteuer beginnt an der markanten Torre Dragona, wo Sie das Morgenlicht genießen. Mittags radeln Sie zum lebendigen Nuevo Centro Cultural, um lokale Kunst zu bewundern. Am Nachmittag erkunden Sie den Escenario und genießen die weite Aussicht vom Mirador Cerro de los Perdigones. Wir beenden die Tour an der Iglesia de Santa María de Caná und betrachten die Skyline von Madrid von Weitem.",
+        "hu": "Kerékpáros kalandja a lenyűgöző Torre Dragonánál kezdődik, ahol a reggeli fények különleges hangulatot adnak. Délben a Nuevo Centro Cultural felé tekerünk, hogy helyi művészetet csodáljunk. Délután felfedezzük az Escenariót, és élvezzük a Mirador panorámáját. A túrát az Iglesia de Santa María de Caná épületénél és a madridi horizont megtekintésével fejezzük be.",
+        "ro": "Aventura pe bicicletă începe la impresionanta Torre Dragona, captând lumina dimineții pe zidurile ei. La prânz, pedalați spre Nuevo Centro Cultural pentru a admira arta locală. După-amiaza, explorați spațiul deschis Escenario și savurați priveliștea de la Mirador Cerro de los Perdigones. Terminăm traseul la Iglesia de Santa María de Caná, admirând panorama Madridului.",
+        "en": "Your cycling adventure begins at the striking Torre Dragona, capturing the morning light against its historic walls. By midday, pedal towards the vibrant Nuevo Centro Cultural to soak in some local artistic expression. In the afternoon, explore the open public space of Escenario before catching breathtaking views from the Mirador. We finish by watching the Madrid skyline."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:23",
+      "total_km": 10.31,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Zoo Aquarium de Madrid",
+            "hu": "Zoo Aquarium de Madrid",
+            "ro": "Zoo Aquarium de Madrid",
+            "en": "Zoo Aquarium de Madrid"
+          },
+          "coords": [
+            -3.763898,
+            40.409277
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Verbringen Sie hier faszinierende Stunden bei der Beobachtung exotischer Tiere, was ideal für Familien ist, und kaufen Sie Tickets vorab online.",
+            "hu": "Töltsön el itt lenyűgöző órákat az egzotikus állatok megfigyelésével, ami ideális családok számára, és vásárolja meg jegyeit előre online.",
+            "ro": "Petreceți ore fascinante observând animale exotice aici, un loc ideal pentru familii, și cumpărați-vă biletele online în avans pentru a evita cozile.",
+            "en": "Spend fascinating hours observing exotic animals at this family-friendly attraction, and buy your tickets online in advance to skip the long lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Vista panorámica Madrid",
+            "hu": "Vista panorámica Madrid",
+            "ro": "Vista panorámica Madrid",
+            "en": "Vista panorámica Madrid"
+          },
+          "coords": [
+            -3.796107,
+            40.433958
+          ],
+          "category": "natural",
+          "arrive_at": "11:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Parken Sie hier kurz, um die unglaubliche Weitsicht auf die spanische Hauptstadt zu genießen, und halten Sie Ihre Kamera für Panoramabilder bereit.",
+            "hu": "Parkoljon le itt egy rövid időre, hogy élvezze a spanyol fővárosra nyíló hihetetlen kilátást, és tartsa készenlétben a fényképezőgépét.",
+            "ro": "Parcați aici scurt timp pentru a vă bucura de o vedere incredibilă asupra capitalei spaniole și țineți camera pregătită pentru imagini panoramice.",
+            "en": "Park here briefly to enjoy the incredible expansive view over the Spanish capital, and make sure your camera is ready for panoramic shots."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de Santa María de Caná",
+            "hu": "Iglesia de Santa María de Caná",
+            "ro": "Iglesia de Santa María de Caná",
+            "en": "Iglesia de Santa María de Caná"
+          },
+          "coords": [
+            -3.799838,
+            40.434592
+          ],
+          "category": "religious",
+          "arrive_at": "11:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.42,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die ungewöhnliche Backsteinarchitektur dieser modernen Kirche und verhalten Sie sich im Innenraum respektvoll gegenüber den Betenden.",
+            "hu": "Csodálja meg e modern templom szokatlan téglaépítészetét, és viselkedjen tisztelettudóan a belső térben a imádkozókkal szemben.",
+            "ro": "Minunați-vă de arhitectura neobișnuită din cărămidă a acestei biserici moderne și comportați-vă respectuos în interior față de credincioși.",
+            "en": "Marvel at the highly unusual brick architecture of this modern church, and maintain a respectful silence inside for those who are praying."
+          }
+        },
+        {
+          "name": {
+            "de": "Eucalipto Rojo",
+            "hu": "Eucalipto Rojo",
+            "ro": "Eucalipto Rojo",
+            "en": "Eucalipto Rojo"
+          },
+          "coords": [
+            -3.798642,
+            40.443849
+          ],
+          "category": "historical",
+          "arrive_at": "12:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.03,
+          "tip_5lang": {
+            "de": "Betrachten Sie diesen historischen Eukalyptusbaum, der ein einzigartiges Naturdenkmal darstellt, und achten Sie auf die Informationstafel vor Ort.",
+            "hu": "Tekintse meg ezt a történelmi eukaliptuszfát, amely egyedülálló természeti emlék, és figyeljen a helyszínen található információs táblára.",
+            "ro": "Admirați acest arbore de eucalipt istoric, un monument natural cu adevărat unic, și citiți panoul informativ de la fața locului pentru context.",
+            "en": "Marvel at this historic eucalyptus tree which stands as a unique natural monument, and read the on-site information board for more botanical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Parroquia Nuestra Señora del Carmen",
+            "hu": "Parroquia Nuestra Señora del Carmen",
+            "ro": "Parroquia Nuestra Señora del Carmen",
+            "en": "Parroquia Nuestra Señora del Carmen"
+          },
+          "coords": [
+            -3.802765,
+            40.445964
+          ],
+          "category": "religious",
+          "arrive_at": "13:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.52,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich in dieser spirituellen Umgebung einen Moment der Ruhe und achten Sie beim Parken auf die örtlichen Beschränkungen.",
+            "hu": "Engedjen meg magának egy pillanatnyi nyugalmat ebben a spirituális környezetben, és parkoláskor ügyeljen a helyi korlátozásokra.",
+            "ro": "Acordați-vă un moment de liniște în acest mediu spiritual cald și acordați atenție restricțiilor locale atunci când parcați mașina.",
+            "en": "Grant yourself a quiet moment of reflection in this deeply spiritual setting, and be sure to check local street signs before parking your car."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Fuente de la Salud",
+            "hu": "Parque Fuente de la Salud",
+            "ro": "Parque Fuente de la Salud",
+            "en": "Parque Fuente de la Salud"
+          },
+          "coords": [
+            -3.813821,
+            40.443874
+          ],
+          "category": "park",
+          "arrive_at": "14:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.25,
+          "tip_5lang": {
+            "de": "Nutzen Sie den Nachmittag für einen Spaziergang durch die gepflegten Gärten des Parks und lassen Sie das Auto auf dem angrenzenden Parkplatz.",
+            "hu": "Használja ki a délutánt egy sétára a park gondozott kertjeiben, és hagyja autóját a szomszédos parkolóban.",
+            "ro": "Profitați de după-amiază pentru o plimbare prin grădinile bine îngrijite ale parcului și lăsați-vă mașina în parcarea adiacentă.",
+            "en": "Take advantage of the late afternoon to stroll through the manicured gardens, leaving your car conveniently in the adjacent parking lot."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Dragona",
+            "hu": "Torre Dragona",
+            "ro": "Torre Dragona",
+            "en": "Torre Dragona"
+          },
+          "coords": [
+            -3.834296,
+            40.43268
+          ],
+          "category": "historical",
+          "arrive_at": "15:33",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.59,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an diesem beeindruckenden historischen Turm ausklingen, der eine lange Geschichte erzählt, und bleiben Sie bis zum Sonnenuntergang.",
+            "hu": "Zárja a napot ennél a lenyűgöző történelmi toronynál, amely hosszú múltra tekint vissza, és maradjon naplementéig a legjobb látványért.",
+            "ro": "Încheiați ziua la acest turn istoric impresionant care spune o poveste fascinantă și rămâneți până la apus pentru a vedea culorile pe piatră.",
+            "en": "Finish your day at this impressive historical tower that tells a fascinating regional story, and linger until sunset for stunning golden hour views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Fahrt mit einem aufregenden Morgen im Zoo Aquarium de Madrid. Fahren Sie mittags weiter zur Vista panorámica Madrid für einen Blick auf die Hauptstadt und besuchen Sie die Iglesia de Santa María de Caná. Der Nachmittag bietet am Eucalipto Rojo und der Parroquia Nuestra Señora del Carmen eine Mischung aus Natur und Historie. Beenden Sie die Tour entspannt im Parque Fuente de la Salud und an der Torre Dragona.",
+        "hu": "Autós útját a Zoo Aquarium de Madrid lenyűgöző világában kezdi. Dél körül a Vista panorámica Madridhoz hajtunk, ahonnan a főváros sziluettje látható, majd az Iglesia de Santa María de Caná templomnál pihenünk meg. A délután az Eucalipto Rojo és a Parroquia Nuestra Señora del Carmen kettősét kínálja. Zárja a napot a Parque Fuente de la Salud zöldjében és végül a történelmi Torre Dragonánál.",
+        "ro": "Începeți traseul cu mașina printr-o dimineață captivantă la Zoo Aquarium de Madrid. La prânz, conduceți spre Vista panorámica Madrid pentru a vedea orizontul capitalei, apoi opriți la Iglesia de Santa María de Caná. După-amiaza oferă un amestec de istorie și natură la Eucalipto Rojo și Parroquia Nuestra Señora del Carmen. Încheiați ziua relaxant în Parque Fuente de la Salud și la Torre Dragona.",
+        "en": "Start your driving itinerary with a thrilling morning at the Zoo Aquarium de Madrid, perfect for discovering exotic wildlife. Drive east around midday to gaze out at the capital's skyline from the Vista panorámica before a quiet stop at the Iglesia de Santa María. The afternoon offers a mix of history and nature at the historic Eucalipto Rojo and the Parroquia. Conclude with a relaxing park walk and the Torre Dragona."
+      }
+    }
+  }
+}

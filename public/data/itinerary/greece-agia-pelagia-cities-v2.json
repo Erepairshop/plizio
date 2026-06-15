@@ -1,0 +1,497 @@
+{
+  "city_id": "greece-agia-pelagia-cities-v2",
+  "anchor": {
+    "name": "Agia Pelagia",
+    "coords": [
+      25.01679,
+      35.40803
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:17",
+      "total_km": 2.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Agia Pelagia",
+            "hu": "Agia Pelagia templom",
+            "ro": "Biserica Agia Pelagia",
+            "en": "Agia Pelagia Church"
+          },
+          "coords": [
+            25.007675,
+            35.407998
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ruhige Architektur dieser charmanten lokalen Kirche, die dem Dorf seinen Namen gab, und denken Sie an angemessene Kleidung, wenn Sie das Innere besichtigen.",
+            "hu": "Csodálja meg e bájos helyi templom nyugodt építészetét, amely a falu nevét is adta, és ne feledjen szerényen öltözködni, ha be szeretne menni a gyönyörű ikonok megtekintésére.",
+            "ro": "Admirați arhitectura senină a acestei biserici locale fermecătoare care a dat numele satului și purtați o ținută decentă dacă intenționați să intrați pentru a vedea icoanele.",
+            "en": "Admire the serene architecture of this charming local church that gave the village its name, and remember to dress modestly if you plan to step inside to view the beautiful icons."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Agia Pelagia",
+            "hu": "Agia Pelagia strand",
+            "ro": "Plaja Agia Pelagia",
+            "en": "Agia Pelagia Beach"
+          },
+          "coords": [
+            25.018516,
+            35.406134
+          ],
+          "category": "recreational",
+          "arrive_at": "10:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sand dieses lebhaften Hauptstrandes mit seinem ruhigen, kristallklaren Wasser und mieten Sie frühzeitig eine Sonnenliege für den besten Platz am Meer.",
+            "hu": "Pihenjen ezen a nyüzsgő fő strandon, ahol a nyugodt, kristálytiszta víz úszásra csábít, és érdemes korán napágyat bérelni, hogy a legjobb, vízparti helyet biztosítsa magának.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje principale vibrante, unde apele calme vă invită la înot, și închiriați un șezlong devreme pentru a prinde cel mai bun loc la mal.",
+            "en": "Relax on the golden sands of this vibrant main beach where calm, crystal-clear waters invite you for a swim, and consider renting a sunbed early to secure the best waterfront spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Psaromoura Strand",
+            "hu": "Psaromoura strand",
+            "ro": "Plaja Psaromoura",
+            "en": "Psaromoura Beach"
+          },
+          "coords": [
+            25.017825,
+            35.412995
+          ],
+          "category": "recreational",
+          "arrive_at": "11:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen in dieser malerischen, von Klippen umgebenen Kieselbucht und bringen Sie Ihre Schnorchelausrüstung mit, um die lebhafte Unterwasserwelt zu erkunden.",
+            "hu": "Meneküljön el a tömeg elől ebbe a festői, sziklákkal körülvett kavicsos öbölbe, és hozzon magával búvárfelszerelést, hogy felfedezze a sziklás peremek rejtett tengeri élővilágát.",
+            "ro": "Scăpați de aglomerație în acest golf pitoresc cu pietriș înconjurat de stânci dramatice și aduceți echipamentul de snorkeling pentru a explora viața marină de-a lungul rocilor.",
+            "en": "Escape the crowds at this picturesque, pebbly cove surrounded by dramatic cliffs, and bring your snorkeling gear to explore the vibrant marine life hiding along the rocky edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Peninsula Privatstrand",
+            "hu": "Peninsula Magánstrand",
+            "ro": "Plaja Privată Peninsula",
+            "en": "Peninsula Private Beach"
+          },
+          "coords": [
+            25.019871,
+            35.414213
+          ],
+          "category": "recreational",
+          "arrive_at": "12:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie ein exklusives und ruhiges Erlebnis an diesem abgelegenen Privatstrand, aber bringen Sie unbedingt eigenes Wasser und Snacks mit, da die Ausstattung minimalistisch ist.",
+            "hu": "Élvezze az exkluzív és nyugodt tengerparti élményt ezen a félreeső magánstrandon, de ne felejtsen el vizet és rágcsálnivalót hozni, mivel a szolgáltatások itt minimalisztikusak.",
+            "ro": "Bucurați-vă de o experiență maritimă exclusivistă și liniștită la această plajă privată izolată, dar aduceți-vă propria apă și gustări, deoarece facilitățile sunt minimaliste.",
+            "en": "Enjoy an exclusive and tranquil seaside experience at this secluded private beach, but remember to bring your own water and snacks as amenities here are wonderfully minimalist."
+          }
+        },
+        {
+          "name": {
+            "de": "Mononaftis Strand",
+            "hu": "Mononaftis strand",
+            "ro": "Plaja Mononaftis",
+            "en": "Mononaftis Beach"
+          },
+          "coords": [
+            25.018752,
+            35.416361
+          ],
+          "category": "recreational",
+          "arrive_at": "14:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das tiefe, erfrischende Wasser dieses atemberaubenden Kieselstrandes ein, der bei Tauchern beliebt ist, und essen Sie in den fantastischen Tavernen in der Nähe.",
+            "hu": "Merüljön el ennek a lenyűgöző, búvárok körében kedvelt kavicsos strandnak a mély, frissítő vizében, és harapjon valamit a friss tenger gyümölcseit kínáló közeli tavernákban.",
+            "ro": "Scufundați-vă în apele adânci și răcoroase ale acestei uimitoare plaje cu pietriș, preferată de scafandri, și savurați o gustare la tavernele fantastice care oferă fructe de mare.",
+            "en": "Dive into the deep, refreshing waters of this stunning pebble beach which is a favorite among local divers, and grab a bite at the fantastic nearby tavernas offering fresh seafood."
+          }
+        },
+        {
+          "name": {
+            "de": "Sea Cave Spa",
+            "hu": "Sea Cave Spa",
+            "ro": "Sea Cave Spa",
+            "en": "Sea Cave Spa"
+          },
+          "coords": [
+            25.019328,
+            35.417703
+          ],
+          "category": "recreational",
+          "arrive_at": "15:32",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich ein einzigartiges Wellness-Erlebnis in einer natürlichen Küstenhöhle und buchen Sie Ihre verjüngende Massage in den Hochsommermonaten unbedingt weit im Voraus.",
+            "hu": "Kényeztesse magát egy igazán egyedülálló, természetes tengerparti barlangban rejlő wellness élménnyel, és a nyári csúcsidőszakban mindenképpen jó előre foglalja le a masszázsát.",
+            "ro": "Răsfățați-vă cu o experiență de wellness unică ascunsă într-o peșteră de coastă naturală și asigurați-vă că vă rezervați masajul de întinerire cu mult timp înainte, vara.",
+            "en": "Treat yourself to a truly unique wellness experience hidden inside a natural coastal cave, and make sure to book your rejuvenating massage well in advance during peak summer months."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihren Rundgang, indem Sie die friedliche Schönheit der lokalen Kirche von Agia Pelagia bewundern. Schlendern Sie dann zum Hauptstrand, um die Morgensonne und das ruhige Wasser zu genießen.\nMidday: Wenn es wärmer wird, folgen Sie dem Küstenpfad zum Strand von Psaromoura. Diese malerische Felsbucht bietet eine perfekte Flucht vor den Massen und einen großartigen Ort für ein erfrischendes Bad.\nAfternoon: Setzen Sie Ihren Spaziergang zum abgeschiedenen Peninsula Private Beach fort, um exklusive Ruhe zu finden. Bald darauf erreichen Sie Mononaftis Beach, wo steile Klippen eine atemberaubende Kulisse bilden.\nEvening: Beenden Sie Ihre Reise im außergewöhnlichen Sea Cave Spa. Lassen Sie sich in der natürlichen Höhle bei beruhigendem Meeresrauschen verwöhnen, während die Sonne langsam am Horizont untergeht.",
+        "hu": "Morning: Kezdje sétáját az Agia Pelagia templom békés szépségének megcsodálásával. Innen sétáljon le a nyüzsgő fő strandra, hogy magába szívja a korai napsugarakat és élvezze a Földközi-tenger kristálytiszta vizét.\nMidday: Ahogy az idő melegszik, kövesse a part menti ösvényt a Psaromoura strand felé. Ez a festői, sziklás öböl tökéletes menedéket nyújt a tömeg elől, és kiváló hely egy frissítő úszáshoz vagy sznorkelezéshez.\nAfternoon: Folytassa kényelmes sétáját a félreeső Peninsula Private Beach felé egy kis nyugalomért. Nem sokkal ezután induljon a Mononaftis strandhoz, ahol a drámai sziklák és a mély vizek lélegzetelállító hátteret biztosítanak.\nEvening: Fejezze be tengerparti utazását a rendkívüli Sea Cave Spa-ban. Kényeztesse magát egy pihentető kezeléssel a természetes barlangban, miközben a hullámok megnyugtató hangját hallgatja a naplementében.",
+        "ro": "Morning: Începeți turul admirând frumusețea senină a bisericii locale Agia Pelagia. De acolo, plimbați-vă până la plaja principală vibrantă pentru a vă bucura de soarele de dimineață și de apele cristaline ale Mediteranei.\nMidday: Pe măsură ce ziua se încălzește, urmați poteca de coastă spre plaja Psaromoura. Acest golf stâncos și pitoresc oferă o evadare perfectă din aglomerație și un loc excelent pentru o baie răcoritoare sau snorkeling.\nAfternoon: Continuați plimbarea spre izolata Peninsula Private Beach pentru liniște exclusivistă. La scurt timp, îndreptați-vă spre plaja Mononaftis, unde stâncile dramatice și apele adânci oferă un fundal uimitor.\nEvening: Încheiați călătoria la extraordinarul Sea Cave Spa. Răsfățați-vă cu un tratament relaxant în interiorul cavernei naturale, ascultând sunetul liniștitor al valurilor în timp ce soarele apune blând pe orizont.",
+        "en": "Morning: Begin your walking tour by admiring the serene beauty of the local Agia Pelagia church. From there, stroll down to the vibrant main beach to soak in the early sun and enjoy the calm, crystal-clear Mediterranean waters.\nMidday: As the day warms up, follow the scenic coastal path towards Psaromoura beach. This picturesque, rocky cove offers a perfect escape from the crowds and an excellent spot for a refreshing swim or snorkeling adventure.\nAfternoon: Continue your leisurely walk to the secluded Peninsula Private Beach for some exclusive tranquility. Shortly after, make your way to Mononaftis Beach, where the dramatic cliffs and deep waters provide a breathtaking backdrop.\nEvening: Conclude your beautiful coastal journey at the extraordinary Sea Cave Spa. Pamper yourself with a relaxing treatment inside the natural cavern while listening to the soothing sounds of the waves as the sun gently sets."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 9.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Agia Pelagia",
+            "hu": "Agia Pelagia templom",
+            "ro": "Biserica Agia Pelagia",
+            "en": "Agia Pelagia Church"
+          },
+          "coords": [
+            25.007675,
+            35.407998
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ruhige Architektur dieser charmanten lokalen Kirche, die dem Dorf seinen Namen gab, und denken Sie an angemessene Kleidung, wenn Sie das Innere besichtigen.",
+            "hu": "Csodálja meg e bájos helyi templom nyugodt építészetét, amely a falu nevét is adta, és ne feledjen szerényen öltözködni, ha be szeretne menni a gyönyörű ikonok megtekintésére.",
+            "ro": "Admirați arhitectura senină a acestei biserici locale fermecătoare care a dat numele satului și purtați o ținută decentă dacă intenționați să intrați pentru a vedea icoanele.",
+            "en": "Admire the serene architecture of this charming local church that gave the village its name, and remember to dress modestly if you plan to step inside to view the beautiful icons."
+          }
+        },
+        {
+          "name": {
+            "de": "Olivenbaum- und Ölmuseum Striligkas",
+            "hu": "Striligkas Olajfa és Olívaolaj Múzeum",
+            "ro": "Muzeul Măslinului și Uleiului Striligkas",
+            "en": "Museum of Olive Tree & Oil Striligkas"
+          },
+          "coords": [
+            24.99664,
+            35.394355
+          ],
+          "category": "museum",
+          "arrive_at": "10:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden traditionellen Methoden der kretischen Olivenölproduktion in diesem familiengeführten Museum und probieren Sie unbedingt die exquisiten Öle.",
+            "hu": "Fedezze fel a krétai olívaolaj-termelés lenyűgöző hagyományos módszereit ebben a családi múzeumban, és mindenképpen kóstolja meg a kiváló extra szűz olajaikat távozás előtt.",
+            "ro": "Descoperiți metodele tradiționale fascinante de producție a uleiului de măsline cretan în acest muzeu de familie și asigurați-vă că degustați uleiurile extravirgine rafinate.",
+            "en": "Discover the fascinating traditional methods of Cretan olive oil production in this family-run museum, and be sure to sample their exquisite extra virgin oils before leaving."
+          }
+        },
+        {
+          "name": {
+            "de": "Lygaria Strand",
+            "hu": "Lygaria strand",
+            "ro": "Plaja Lygaria",
+            "en": "Lygaria Beach"
+          },
+          "coords": [
+            25.027147,
+            35.399074
+          ],
+          "category": "recreational",
+          "arrive_at": "12:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese halbmondförmige Bucht mit ruhigem Wasser, das perfekt für Familien ist, und besuchen Sie eines der charmanten Strandcafés für einen erfrischenden Eiskaffee.",
+            "hu": "Fedezze fel ezt a félhold alakú öblöt, amely hihetetlenül nyugodt vizeivel tökéletes a családok számára, és próbáljon ki egy hangulatos tengerparti kávézót egy hűsítő jegeskávéra.",
+            "ro": "Descoperiți acest golf în formă de semilună ce oferă ape incredibil de calme perfecte pentru familii, și încercați o cafenea fermecătoare pe plajă pentru o cafea cu gheață.",
+            "en": "Discover this crescent-shaped bay offering incredibly calm and shallow waters perfect for families, and try one of the charming seaside cafes for a refreshing afternoon iced coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Agia Pelagia",
+            "hu": "Agia Pelagia strand",
+            "ro": "Plaja Agia Pelagia",
+            "en": "Agia Pelagia Beach"
+          },
+          "coords": [
+            25.018516,
+            35.406134
+          ],
+          "category": "recreational",
+          "arrive_at": "13:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sand dieses lebhaften Hauptstrandes mit seinem ruhigen, kristallklaren Wasser und mieten Sie frühzeitig eine Sonnenliege für den besten Platz am Meer.",
+            "hu": "Pihenjen ezen a nyüzsgő fő strandon, ahol a nyugodt, kristálytiszta víz úszásra csábít, és érdemes korán napágyat bérelni, hogy a legjobb, vízparti helyet biztosítsa magának.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje principale vibrante, unde apele calme vă invită la înot, și închiriați un șezlong devreme pentru a prinde cel mai bun loc la mal.",
+            "en": "Relax on the golden sands of this vibrant main beach where calm, crystal-clear waters invite you for a swim, and consider renting a sunbed early to secure the best waterfront spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Psaromoura Strand",
+            "hu": "Psaromoura strand",
+            "ro": "Plaja Psaromoura",
+            "en": "Psaromoura Beach"
+          },
+          "coords": [
+            25.017825,
+            35.412995
+          ],
+          "category": "recreational",
+          "arrive_at": "14:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen in dieser malerischen, von Klippen umgebenen Kieselbucht und bringen Sie Ihre Schnorchelausrüstung mit, um die lebhafte Unterwasserwelt zu erkunden.",
+            "hu": "Meneküljön el a tömeg elől ebbe a festői, sziklákkal körülvett kavicsos öbölbe, és hozzon magával búvárfelszerelést, hogy felfedezze a sziklás peremek rejtett tengeri élővilágát.",
+            "ro": "Scăpați de aglomerație în acest golf pitoresc cu pietriș înconjurat de stânci dramatice și aduceți echipamentul de snorkeling pentru a explora viața marină de-a lungul rocilor.",
+            "en": "Escape the crowds at this picturesque, pebbly cove surrounded by dramatic cliffs, and bring your snorkeling gear to explore the vibrant marine life hiding along the rocky edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Mononaftis Strand",
+            "hu": "Mononaftis strand",
+            "ro": "Plaja Mononaftis",
+            "en": "Mononaftis Beach"
+          },
+          "coords": [
+            25.018752,
+            35.416361
+          ],
+          "category": "recreational",
+          "arrive_at": "16:05",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das tiefe, erfrischende Wasser dieses atemberaubenden Kieselstrandes ein, der bei Tauchern beliebt ist, und essen Sie in den fantastischen Tavernen in der Nähe.",
+            "hu": "Merüljön el ennek a lenyűgöző, búvárok körében kedvelt kavicsos strandnak a mély, frissítő vizében, és harapjon valamit a friss tenger gyümölcseit kínáló közeli tavernákban.",
+            "ro": "Scufundați-vă în apele adânci și răcoroase ale acestei uimitoare plaje cu pietriș, preferată de scafandri, și savurați o gustare la tavernele fantastice care oferă fructe de mare.",
+            "en": "Dive into the deep, refreshing waters of this stunning pebble beach which is a favorite among local divers, and grab a bite at the fantastic nearby tavernas offering fresh seafood."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Starten Sie Ihr Radabenteuer an der ruhigen Kirche Agia Pelagia, bevor Sie ins Landesinnere zum Olivenbaum-Museum radeln. Entdecken Sie die reichen Traditionen der authentischen kretischen Olivenölproduktion.\nMidday: Genießen Sie eine luftige Fahrt zurück zur Küste zum familienfreundlichen Strand von Lygaria. Die ruhige Bucht ist perfekt für ein Bad am Mittag, gefolgt von einer Pause in einem hübschen Strandcafé.\nAfternoon: Radeln Sie weiter zum lebhaften Strand von Agia Pelagia, um sich zu sonnen, und dann leicht nach Norden zum malerischen Strand von Psaromoura. Die raue Landschaft bietet wunderbare Orte zum Schnorcheln.\nEvening: Beenden Sie Ihren aktiven Tag am Mononaftis Beach. Tauchen Sie in das erfrischende Wasser ein und gönnen Sie sich ein köstliches traditionelles Fischabendessen in einer der einladenden Tavernen in der Nähe.",
+        "hu": "Morning: Kezdje kerékpáros kalandját a csendes Agia Pelagia templomnál, mielőtt a szárazföld felé, a lenyűgöző Olajfa Múzeumhoz tekerne. Itt felfedezheti az autentikus krétai olívaolaj-termelés gazdag hagyományait.\nMidday: Élvezze a szellős utazást vissza a part felé, és érkezzen a családbarát Lygaria strandra. A nyugodt, félhold alakú öböl tökéletes egy déli úszáshoz, amelyet egy pihentető szünet követhet egy tengerparti kávézóban.\nAfternoon: Tekerjen tovább a nyüzsgő Agia Pelagia strandra egy kis napozásra, majd kissé északra, a festői Psaromoura strandhoz. A zord táj és a tiszta víz csodálatos lehetőségeket kínál a sznorkelezéshez.\nEvening: Fejezze be aktív napját a Mononaftis strandon. Miután leparkolta kerékpárját, merüljön el a frissítő mély vízben, és kényeztesse magát egy finom, hagyományos tengeri vacsorával a közeli tavernák egyikében.",
+        "ro": "Morning: Începeți aventura pe bicicletă la liniștita biserică Agia Pelagia înainte de a pedala spre fascinantul Muzeu al Măslinului. Aici, veți descoperi bogatele tradiții ale producției autentice de ulei de măsline cretan.\nMidday: Bucurați-vă de o plimbare răcoroasă înapoi spre coastă, ajungând la plaja Lygaria, ideală pentru familii. Golful calm este perfect pentru o baie de prânz, urmată de o pauză relaxantă la o cafenea drăguță pe plajă.\nAfternoon: Pedalați spre plaja vibrantă Agia Pelagia pentru plajă, apoi spre nord, spre plaja pitorească Psaromoura. Peisajul accidentat și apele limpezi oferă locuri minunate pentru explorare și snorkeling.\nEvening: Încheiați ziua activă la plaja Mononaftis. După ce vă parcați bicicleta, scufundați-vă în apele adânci și răcoritoare și răsfățați-vă cu o cină delicioasă cu fructe de mare la una dintre tavernele primitoare.",
+        "en": "Morning: Start your cycling adventure at the quiet Agia Pelagia church before pedaling inland to the fascinating Museum of Olive Tree. Here, you will uncover the rich traditions of authentic Cretan olive oil production.\nMidday: Enjoy a breezy ride back towards the coast, arriving at the family-friendly Lygaria Beach. The calm, crescent-shaped bay is perfect for a midday swim, followed by a relaxing break at a lovely seaside cafe.\nAfternoon: Cycle onwards to the lively Agia Pelagia Beach for some sunbathing, then pedal slightly north to the picturesque Psaromoura beach. The rugged landscape and clear waters offer wonderful spots for snorkeling.\nEvening: Finish your active day at Mononaftis Beach. After parking your bike, dive into the refreshing deep waters and treat yourself to a delicious, traditional seafood dinner at one of the welcoming tavernas nearby."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:33",
+      "total_km": 8.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Olivenbaum- und Ölmuseum Striligkas",
+            "hu": "Striligkas Olajfa és Olívaolaj Múzeum",
+            "ro": "Muzeul Măslinului și Uleiului Striligkas",
+            "en": "Museum of Olive Tree & Oil Striligkas"
+          },
+          "coords": [
+            24.99664,
+            35.394355
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden traditionellen Methoden der kretischen Olivenölproduktion in diesem familiengeführten Museum und probieren Sie unbedingt die exquisiten Öle.",
+            "hu": "Fedezze fel a krétai olívaolaj-termelés lenyűgöző hagyományos módszereit ebben a családi múzeumban, és mindenképpen kóstolja meg a kiváló extra szűz olajaikat távozás előtt.",
+            "ro": "Descoperiți metodele tradiționale fascinante de producție a uleiului de măsline cretan în acest muzeu de familie și asigurați-vă că degustați uleiurile extravirgine rafinate.",
+            "en": "Discover the fascinating traditional methods of Cretan olive oil production in this family-run museum, and be sure to sample their exquisite extra virgin oils before leaving."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Agia Pelagia",
+            "hu": "Agia Pelagia templom",
+            "ro": "Biserica Agia Pelagia",
+            "en": "Agia Pelagia Church"
+          },
+          "coords": [
+            25.007675,
+            35.407998
+          ],
+          "category": "religious",
+          "arrive_at": "10:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ruhige Architektur dieser charmanten lokalen Kirche, die dem Dorf seinen Namen gab, und denken Sie an angemessene Kleidung, wenn Sie das Innere besichtigen.",
+            "hu": "Csodálja meg e bájos helyi templom nyugodt építészetét, amely a falu nevét is adta, és ne feledjen szerényen öltözködni, ha be szeretne menni a gyönyörű ikonok megtekintésére.",
+            "ro": "Admirați arhitectura senină a acestei biserici locale fermecătoare care a dat numele satului și purtați o ținută decentă dacă intenționați să intrați pentru a vedea icoanele.",
+            "en": "Admire the serene architecture of this charming local church that gave the village its name, and remember to dress modestly if you plan to step inside to view the beautiful icons."
+          }
+        },
+        {
+          "name": {
+            "de": "Lygaria Strand",
+            "hu": "Lygaria strand",
+            "ro": "Plaja Lygaria",
+            "en": "Lygaria Beach"
+          },
+          "coords": [
+            25.027147,
+            35.399074
+          ],
+          "category": "recreational",
+          "arrive_at": "11:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese halbmondförmige Bucht mit ruhigem Wasser, das perfekt für Familien ist, und besuchen Sie eines der charmanten Strandcafés für einen erfrischenden Eiskaffee.",
+            "hu": "Fedezze fel ezt a félhold alakú öblöt, amely hihetetlenül nyugodt vizeivel tökéletes a családok számára, és próbáljon ki egy hangulatos tengerparti kávézót egy hűsítő jegeskávéra.",
+            "ro": "Descoperiți acest golf în formă de semilună ce oferă ape incredibil de calme perfecte pentru familii, și încercați o cafenea fermecătoare pe plajă pentru o cafea cu gheață.",
+            "en": "Discover this crescent-shaped bay offering incredibly calm and shallow waters perfect for families, and try one of the charming seaside cafes for a refreshing afternoon iced coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Agia Pelagia",
+            "hu": "Agia Pelagia strand",
+            "ro": "Plaja Agia Pelagia",
+            "en": "Agia Pelagia Beach"
+          },
+          "coords": [
+            25.018516,
+            35.406134
+          ],
+          "category": "recreational",
+          "arrive_at": "12:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sand dieses lebhaften Hauptstrandes mit seinem ruhigen, kristallklaren Wasser und mieten Sie frühzeitig eine Sonnenliege für den besten Platz am Meer.",
+            "hu": "Pihenjen ezen a nyüzsgő fő strandon, ahol a nyugodt, kristálytiszta víz úszásra csábít, és érdemes korán napágyat bérelni, hogy a legjobb, vízparti helyet biztosítsa magának.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje principale vibrante, unde apele calme vă invită la înot, și închiriați un șezlong devreme pentru a prinde cel mai bun loc la mal.",
+            "en": "Relax on the golden sands of this vibrant main beach where calm, crystal-clear waters invite you for a swim, and consider renting a sunbed early to secure the best waterfront spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Psaromoura Strand",
+            "hu": "Psaromoura strand",
+            "ro": "Plaja Psaromoura",
+            "en": "Psaromoura Beach"
+          },
+          "coords": [
+            25.017825,
+            35.412995
+          ],
+          "category": "recreational",
+          "arrive_at": "14:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen in dieser malerischen, von Klippen umgebenen Kieselbucht und bringen Sie Ihre Schnorchelausrüstung mit, um die lebhafte Unterwasserwelt zu erkunden.",
+            "hu": "Meneküljön el a tömeg elől ebbe a festői, sziklákkal körülvett kavicsos öbölbe, és hozzon magával búvárfelszerelést, hogy felfedezze a sziklás peremek rejtett tengeri élővilágát.",
+            "ro": "Scăpați de aglomerație în acest golf pitoresc cu pietriș înconjurat de stânci dramatice și aduceți echipamentul de snorkeling pentru a explora viața marină de-a lungul rocilor.",
+            "en": "Escape the crowds at this picturesque, pebbly cove surrounded by dramatic cliffs, and bring your snorkeling gear to explore the vibrant marine life hiding along the rocky edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Peninsula Privatstrand",
+            "hu": "Peninsula Magánstrand",
+            "ro": "Plaja Privată Peninsula",
+            "en": "Peninsula Private Beach"
+          },
+          "coords": [
+            25.019871,
+            35.414213
+          ],
+          "category": "recreational",
+          "arrive_at": "15:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie ein exklusives und ruhiges Erlebnis an diesem abgelegenen Privatstrand, aber bringen Sie unbedingt eigenes Wasser und Snacks mit, da die Ausstattung minimalistisch ist.",
+            "hu": "Élvezze az exkluzív és nyugodt tengerparti élményt ezen a félreeső magánstrandon, de ne felejtsen el vizet és rágcsálnivalót hozni, mivel a szolgáltatások itt minimalisztikusak.",
+            "ro": "Bucurați-vă de o experiență maritimă exclusivistă și liniștită la această plajă privată izolată, dar aduceți-vă propria apă și gustări, deoarece facilitățile sunt minimaliste.",
+            "en": "Enjoy an exclusive and tranquil seaside experience at this secluded private beach, but remember to bring your own water and snacks as amenities here are wonderfully minimalist."
+          }
+        },
+        {
+          "name": {
+            "de": "Sea Cave Spa",
+            "hu": "Sea Cave Spa",
+            "ro": "Sea Cave Spa",
+            "en": "Sea Cave Spa"
+          },
+          "coords": [
+            25.019328,
+            35.417703
+          ],
+          "category": "recreational",
+          "arrive_at": "16:48",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich ein einzigartiges Wellness-Erlebnis in einer natürlichen Küstenhöhle und buchen Sie Ihre verjüngende Massage in den Hochsommermonaten unbedingt weit im Voraus.",
+            "hu": "Kényeztesse magát egy igazán egyedülálló, természetes tengerparti barlangban rejlő wellness élménnyel, és a nyári csúcsidőszakban mindenképpen jó előre foglalja le a masszázsát.",
+            "ro": "Răsfățați-vă cu o experiență de wellness unică ascunsă într-o peșteră de coastă naturală și asigurați-vă că vă rezervați masajul de întinerire cu mult timp înainte, vara.",
+            "en": "Treat yourself to a truly unique wellness experience hidden inside a natural coastal cave, and make sure to book your rejuvenating massage well in advance during peak summer months."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihren Roadtrip leicht im Landesinnere beim Olivenbaum-Museum, um Kretas Erbe zu erkunden. Eine kurze Fahrt bringt Sie zur Kirche von Agia Pelagia, wo Sie die ruhige Atmosphäre bewundern können.\nMidday: Fahren Sie bequem die wunderschöne Küste hinunter zum Strand von Lygaria. Genießen Sie das flache, ruhige Wasser, bevor Sie bequem zum belebten Strand von Agia Pelagia fahren, um dort zu Mittag zu essen.\nAfternoon: Eine kurze Fahrt nach Norden bringt Sie zum raueren Strand von Psaromoura und kurz darauf zum abgelegenen Peninsula Private Beach. Diese Stopps unterstreichen die spektakulären und felsigen Küstenlinien.\nEvening: Ihr letztes Ziel ist das außergewöhnliche Sea Cave Spa. Beenden Sie Ihren spektakulären Tag in einer wunderschönen natürlichen Höhle mit erstklassigen Wellness-Behandlungen und Blick auf den Sonnenuntergang.",
+        "hu": "Morning: Indítsa autós utazását kissé a szárazföld belsejében, az Olajfa Múzeumban, hogy felfedezze Kréta arany örökségét. Egy rövid út után az Agia Pelagia templomhoz ér, ahol megcsodálhatja annak békés hangulatát.\nMidday: Vezessen kényelmesen a gyönyörű partvonal mentén a Lygaria strandig. Élvezze a sekély, nyugodt vizet, majd guruljon át a nyüzsgő Agia Pelagia strandra, hogy megebédeljen a tengerparti éttermek egyikében.\nAfternoon: Egy rövid északi irányú út a zordabb Psaromoura strandhoz vezet, amelyet a félreeső Peninsula Private Beach követ. Ezek a megállók remekül kiemelik a régió látványos és változatosan sziklás partvonalait.\nEvening: A végső úti cél a rendkívüli Sea Cave Spa. Miután letette autóját, zárja látványos napját egy gyönyörű természetes barlangban, prémium wellness kezelésekkel és a tengeri naplemente csodálatos látványával.",
+        "ro": "Morning: Începeți excursia cu mașina spre interiorul insulei la Muzeul Măslinului pentru a explora moștenirea aurie a Cretei. Un drum scurt vă duce apoi la biserica locală Agia Pelagia, unde puteți admira atmosfera senină.\nMidday: Conduceți confortabil de-a lungul coastei frumoase până la plaja Lygaria. Bucurați-vă de apele calme și puțin adânci, deplasându-vă apoi cu ușurință la plaja plină de viață Agia Pelagia pentru a lua prânzul.\nAfternoon: Un scurt drum spre nord vă aduce la plaja mai accidentată Psaromoura, urmată rapid de izolata Peninsula Private Beach. Aceste opriri evidențiază țărmurile stâncoase spectaculoase și variate ale regiunii.\nEvening: Destinația finală este extraordinarul Sea Cave Spa. După ce lăsați mașina, încheiați-vă ziua spectaculoasă relaxându-vă într-o peșteră naturală cu tratamente de wellness premium și vederi la apus.",
+        "en": "Morning: Kick off your road trip slightly inland at the Museum of Olive Tree to explore Crete’s golden heritage. A quick drive then takes you to the local Agia Pelagia church, where you can admire its serene atmosphere.\nMidday: Drive comfortably along the beautiful coastline down to Lygaria Beach. Enjoy the shallow, calm waters ideal for a safe and relaxing midday swim, easily moving next to the bustling Agia Pelagia Beach for lunch.\nAfternoon: A short drive north brings you to the more rugged Psaromoura beach, followed quickly by the secluded Peninsula Private Beach. These stops highlight the spectacular and varying dramatic rocky shorelines of the region.\nEvening: Your final destination is the extraordinary Sea Cave Spa. After leaving your car, end your spectacular day unwinding inside a beautiful natural cave with premium wellness treatments and views of the sunset."
+      }
+    }
+  }
+}

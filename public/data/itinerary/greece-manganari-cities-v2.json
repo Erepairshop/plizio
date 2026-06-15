@@ -1,0 +1,474 @@
+{
+  "city_id": "greece-manganari-cities-v2",
+  "anchor": {
+    "name": "Manganari",
+    "coords": [
+      25.37349,
+      36.66098
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:30",
+      "total_km": 2.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint Constantine and Helen",
+            "hu": "Saint Constantine and Helen",
+            "ro": "Saint Constantine and Helen",
+            "en": "Saint Constantine and Helen"
+          },
+          "coords": [
+            25.373393,
+            36.660708
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, weiße Architektur dieser bezaubernden Kirche, die als malerisches Fotomotiv dient, und besuchen Sie sie am besten am frühen Morgen für das beste Licht.",
+            "hu": "Csodálja meg ennek a bájos templomnak az egyszerű, mégis elegáns fehér építészetét, amely kiváló fotótéma, és érkezzen kora reggel a legszebb fényekért és a csendes környezetért.",
+            "ro": "Admirați arhitectura albă simplă a acestei biserici fermecătoare, un subiect fotografic excelent, și încercați să ajungeți dimineața devreme pentru cea mai bună lumină naturală.",
+            "en": "Admire the simple white architecture of this charming church, which makes for a brilliant photographic subject, and arrive early in the morning to enjoy the softest natural light."
+          }
+        },
+        {
+          "name": {
+            "de": "Manganari",
+            "hu": "Manganari",
+            "ro": "Manganari",
+            "en": "Manganari"
+          },
+          "coords": [
+            25.371486,
+            36.6589
+          ],
+          "category": "recreational",
+          "arrive_at": "09:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den goldenen Sand und das kristallklare Wasser an diesem berühmten Strandabschnitt, wo Sie unbedingt eine Sonnenbrille und ausreichend Sonnencreme mitbringen sollten.",
+            "hu": "Élvezze az aranyhomokot és a kristálytiszta vizet ezen a híres partszakaszon, ahová érdemes naptejet, kalapot és bőséges ivóvizet magával hozni a tartós tengerparti pihenéshez.",
+            "ro": "Bucurați-vă de nisipul auriu și apele cristaline de pe această plajă renumită, unde este esențial să aduceți cremă de soare, ochelari și suficientă apă pentru a vă hidrata.",
+            "en": "Enjoy the golden sand and crystal-clear water at this renowned stretch of beach, where bringing plenty of sunscreen and an umbrella is highly recommended for a relaxing stay."
+          }
+        },
+        {
+          "name": {
+            "de": "Kremasto",
+            "hu": "Kremasto",
+            "ro": "Kremasto",
+            "en": "Kremasto"
+          },
+          "coords": [
+            25.37558,
+            36.6556
+          ],
+          "category": "recreational",
+          "arrive_at": "10:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese ruhigere Bucht mit ihren sanften Wellen und bringen Sie unbedingt ein gutes Buch und ein Handtuch mit, um abseits der großen Menschenmengen völlig abzuschalten.",
+            "hu": "Fedezze fel ezt a csendesebb, lágy hullámokkal tarkított öblöt, és feltétlenül hozzon magával egy jó könyvet és egy törölközőt, hogy a nagyobb tömegektől távol kapcsolódhasson ki.",
+            "ro": "Descoperiți acest golf mai liniștit, cu valuri blânde, și asigurați-vă că aduceți o carte bună și un prosop confortabil pentru a vă relaxa complet departe de aglomerația obișnuită.",
+            "en": "Discover this quieter cove with its gentle waves, and be sure to bring a good book and a towel to completely disconnect and relax far away from the area's larger summer crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Khalara",
+            "hu": "Khalara",
+            "ro": "Khalara",
+            "en": "Khalara"
+          },
+          "coords": [
+            25.381717,
+            36.653861
+          ],
+          "category": "recreational",
+          "arrive_at": "12:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Schwimmen Sie in den erfrischenden Fluten dieses abgelegenen Abschnitts und nehmen Sie am besten Wasserschuhe mit, da der Einstieg hier manchmal leicht steinig und rutschig ist.",
+            "hu": "Mártózzon meg ennek a félreeső partszakasznak a frissítő vizében, és vigyen magával vizicipőt, mivel a vízbe való bejutás helyenként kissé sziklás és csúszós lehet az itteni szakaszon.",
+            "ro": "Înotați în apele răcoroase ale acestei porțiuni retrase de coastă și purtați încălțăminte de apă, deoarece intrarea în mare poate fi uneori stâncoasă și ușor alunecoasă în zonă.",
+            "en": "Swim in the refreshing waters of this secluded coastal section, and remember to pack water shoes as the entry into the sea can occasionally be slightly rocky and slippery here."
+          }
+        },
+        {
+          "name": {
+            "de": "Manganari Bay",
+            "hu": "Manganari Bay",
+            "ro": "Manganari Bay",
+            "en": "Manganari Bay"
+          },
+          "coords": [
+            25.36955,
+            36.650855
+          ],
+          "category": "landmark",
+          "arrive_at": "13:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Strandspaziergang mit einem atemberaubenden Blick über die gesamte Manganari-Bucht und halten Sie Ihre Kamera bereit für fantastische Panoramaaufnahmen.",
+            "hu": "Fejezze be tengerparti sétáját a Manganari-öbölre nyíló lélegzetelállító kilátással, és tartsa kéznél a fényképezőgépét a fantasztikus és felejthetetlen panorámaképek elkészítéséhez.",
+            "ro": "Încheiați-vă plimbarea cu o priveliște uluitoare asupra întregului golf Manganari și țineți aparatul foto pregătit pentru a surprinde cele mai frumoase și ample fotografii panoramice.",
+            "en": "Conclude your coastal stroll with a breathtaking view over the entire Manganari Bay, and keep your camera easily accessible for capturing fantastic, sweeping panoramic photographs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser Spaziergang beginnt am malerischen Kirchlein von Manganari, bevor Sie die sonnigen Sandstrände erkunden. Spüren Sie die leichte Brise, während Sie von einer traumhaften Badebucht zur nächsten wandern. Nach entspannten Schwimmstunden im kristallklaren Wasser führt der Weg weiter die Küste entlang. Den krönenden Abschluss bildet der weite, ungestörte Blick auf die traumhafte Manganari-Bucht.",
+        "hu": "Ez a séta a festői Manganari templomnál kezdődik, mielőtt felfedezné a napsütötte homokos strandokat. Érezze a lágy szellőt, miközben az egyik csodálatos fürdőöbölből a másikba sétál. A kristálytiszta vízben töltött pihentető úszás után az út a part mentén halad tovább. A túra fénypontjaként megcsodálhatja a csodálatos Manganari-öböl széles és zavartalan, végtelen horizontba vesző panorámáját.",
+        "ro": "Această plimbare începe la bisericuța pitorească, înainte de a explora superbele plaje însorite. Simțiți briza ușoară în timp ce mergeți pe jos de la un golf de înot la altul. După câteva ore de relaxare în apele cristaline, traseul continuă pur și simplu de-a lungul coastei stâncoase. Vă veți bucura în final de vederea amplă și netulburată asupra frumosului golf Manganari, o priveliște unică.",
+        "en": "This walk begins at the picturesque little church before you start exploring the sun-drenched sandy beaches. Feel the gentle breeze as you wander from one gorgeous swimming cove to the next. After spending relaxing hours swimming in the crystal-clear water, the path continues along the coastline. The grand finale is the wide, undisturbed view of the stunning Manganari Bay in all its natural glory."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:39",
+      "total_km": 3.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Manganari view",
+            "hu": "Manganari view",
+            "ro": "Manganari view",
+            "en": "Manganari view"
+          },
+          "coords": [
+            25.370855,
+            36.667524
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den fantastischen Überblick von diesem erhöhten Punkt aus auf die gesamte Südküste und achten Sie beim Abstieg mit dem Fahrrad auf lose Steine auf dem Weg.",
+            "hu": "Élvezze a fantasztikus kilátást erről a magaslati pontról a teljes déli partvidékre, és kerékpározás közben nagyon ügyeljen a laza kövekre és az egyenetlen útviszonyokra lefelé menet.",
+            "ro": "Bucurați-vă de o panoramă fantastică asupra întregii coaste sudice din acest punct înalt și fiți atenți la pietrele libere de pe potecă atunci când coborâți pe bicicletă din zonă.",
+            "en": "Enjoy the fantastic overview of the entire southern coast from this elevated vantage point, and be mindful of loose stones on the path when carefully descending with your bicycle."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint Constantine and Helen",
+            "hu": "Saint Constantine and Helen",
+            "ro": "Saint Constantine and Helen",
+            "en": "Saint Constantine and Helen"
+          },
+          "coords": [
+            25.373393,
+            36.660708
+          ],
+          "category": "landmark",
+          "arrive_at": "09:39",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Legen Sie hier eine kurze Fotopause ein, um die traditionelle Architektur der Kirche festzuhalten, und nutzen Sie den nahen Schatten, um sich kurz von der Radtour auszuruhen.",
+            "hu": "Tartsanak itt egy rövid fotószünetet a templom hagyományos építészetének megörökítésére, és használják ki a közeli árnyékot, hogy egy kicsit megpihenjenek a kerékpározás után.",
+            "ro": "Faceți o scurtă pauză foto aici pentru a surprinde arhitectura tradițională a bisericii și folosiți umbra din apropiere pentru a vă odihni puțin picioarele după turul cu bicicleta.",
+            "en": "Take a short photo break here to capture the traditional architecture of the church, and utilize the nearby shade to briefly rest from your morning bicycle ride around the area."
+          }
+        },
+        {
+          "name": {
+            "de": "Manganari",
+            "hu": "Manganari",
+            "ro": "Manganari",
+            "en": "Manganari"
+          },
+          "coords": [
+            25.371486,
+            36.6589
+          ],
+          "category": "recreational",
+          "arrive_at": "09:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad sicher am Rand des Strandes, bevor Sie in das türkisfarbene Wasser springen, und behalten Sie Ihre Wertsachen immer gut im Auge während des Badens.",
+            "hu": "Parkolja le kerékpárját biztonságosan a strand szélén, mielőtt a türkizkék vízbe ugrik, és úszás közben mindig tartsa szemmel értékeit egy vízálló táskában a nyugodt kikapcsolódásért.",
+            "ro": "Parcați bicicleta în siguranță la marginea plajei înainte de a sări în apa turcoaz și păstrați întotdeauna bunurile de valoare într-un loc vizibil în timpul sesiunii de înot.",
+            "en": "Park your bicycle safely at the edge of the beach before jumping into the turquoise water, and keep a close eye on your valuables while you enjoy a refreshing swim in the ocean."
+          }
+        },
+        {
+          "name": {
+            "de": "Santorenaiko",
+            "hu": "Santorenaiko",
+            "ro": "Santorenaiko",
+            "en": "Santorenaiko"
+          },
+          "coords": [
+            25.363889,
+            36.657254
+          ],
+          "category": "recreational",
+          "arrive_at": "11:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erleben Sie die ruhige Atmosphäre dieses schönen Küstenabschnitts, der sich ideal für ein Picknick eignet, also bringen Sie unbedingt ein paar Snacks für eine erholsame Pause mit.",
+            "hu": "Tapasztalja meg ennek a gyönyörű partszakasznak a nyugodt légkörét, amely ideális egy piknikhez, ezért feltétlenül hozzon magával néhány finom rágcsálnivalót a pihentető szünethez.",
+            "ro": "Experimentați atmosfera calmă a acestei frumoase porțiuni de coastă, care este ideală pentru un picnic, așa că asigurați-vă că aduceți câteva gustări pentru o pauză relaxantă și delicioasă.",
+            "en": "Experience the calm atmosphere of this beautiful stretch of coast that is ideal for a picnic, so be sure to bring along some tasty snacks and water for a highly relaxing midday break."
+          }
+        },
+        {
+          "name": {
+            "de": "Antonarou",
+            "hu": "Antonarou",
+            "ro": "Antonarou",
+            "en": "Antonarou"
+          },
+          "coords": [
+            25.360163,
+            36.65014
+          ],
+          "category": "recreational",
+          "arrive_at": "12:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Radle in Richtung dieser weniger besuchten Bucht für absolute Ruhe und denke daran, deine Schnorchelausrüstung einzupacken, um die kleine, aber feine Unterwasserwelt zu bewundern.",
+            "hu": "Kerékpározzon el ebbe a kevésbé látogatott öbölbe a teljes nyugalomért, és ne felejtse el bepakolni a búvárfelszerelését, hogy megcsodálhassa a kis, de finom víz alatti élővilágot.",
+            "ro": "Pedalați spre acest golf mai puțin vizitat pentru liniște absolută și amintiți-vă să împachetați echipamentul de snorkeling pentru a admira viața subacvatică de lângă formațiunile stâncoase.",
+            "en": "Cycle towards this less frequently visited cove for absolute tranquility, and remember to pack your snorkeling gear to admire the small but vibrant underwater world near the rocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Manganari Bay",
+            "hu": "Manganari Bay",
+            "ro": "Manganari Bay",
+            "en": "Manganari Bay"
+          },
+          "coords": [
+            25.36955,
+            36.650855
+          ],
+          "category": "landmark",
+          "arrive_at": "13:54",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie zum Abschluss der Tour den weiten Blick auf die Manganari-Bucht und verweilen Sie einen Moment, um die einmalige Meeresbrise und die weite Aussicht aufzusaugen.",
+            "hu": "A túra végén élvezze a Manganari-öbölre nyíló lenyűgözően széles kilátást, és időzzön el egy pillanatig, hogy magába szívja az egyedülálló tengeri szellőt és a hatalmas kék távlatot.",
+            "ro": "La finalul turului, bucurați-vă de vederea largă a golfului Manganari și zăboviți un moment pentru a absorbi briza mării unică și panorama vastă care se întinde în fața dumneavoastră.",
+            "en": "At the end of your tour, enjoy the sweeping view of Manganari Bay and linger for a moment to fully absorb the unique sea breeze and the expansive coastal panorama in the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Radtour beginnt hoch oben am Aussichtspunkt, der Ihnen sofort einen fantastischen Panoramablick über die Küste verschafft. Von dort rollen Sie hinab zur kleinen Kapelle und weiter an den Hauptstrand von Manganari. Anschließend geht es per Pedaltritt zu ruhigeren Abschnitten wie Santorenaiko und Antonarou, wo ungestörter Badespaß wartet. Am Ende der Route blicken Sie noch einmal auf das faszinierende Manganari Bay.",
+        "hu": "Ez a kerékpártúra magasan, a kilátóponton kezdődik, ahonnan fantasztikus panoráma nyílik a partra. Innen gurulhat le a kis kápolnához, majd tovább Manganari fő strandjához. Ezt követően csendesebb részekhez kerekezhet, mint például a Santorenaiko és az Antonarou, ahol zavartalan fürdőzés várja. Az útvonal végén még egyszer megcsodálhatja a lenyűgöző Manganari-öböl vizének hívogató csillogását.",
+        "ro": "Acest tur cu bicicleta începe sus la punctul de belvedere, oferindu-vă imediat o vedere panoramică fantastică a coastei. De acolo, veți coborî la mica capelă și veți continua spre plaja principală. Apoi pedalați către porțiuni mai liniștite precum Santorenaiko și Antonarou, unde vă așteaptă o distracție de înot netulburată de zgomot. La sfârșitul traseului, veți mai privi o dată spre fascinantul golf Manganari.",
+        "en": "This bike tour starts high up at the viewpoint, instantly providing you with a fantastic panoramic view of the coast. From there, you coast down to the small chapel and continue to the main Manganari beach. Afterwards, pedal to quieter sections like Santorenaiko and Antonarou, where undisturbed swimming fun awaits. At the end of the route, you look out over the fascinating Manganari Bay one last time."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:08",
+      "total_km": 10.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Santorini View",
+            "hu": "Santorini View",
+            "ro": "Santorini View",
+            "en": "Santorini View"
+          },
+          "coords": [
+            25.36839,
+            36.672965
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihren Roadtrip mit diesem atemberaubenden Ausblick Richtung Santorini und parken Sie sicher am Straßenrand, bevor Sie Ihre Kamera für einmalige Landschaftsaufnahmen zücken.",
+            "hu": "Kezdje útját ezzel a Szantoríni felé nyíló lélegzetelállító kilátással, és parkoljon le biztonságosan az út szélén, mielőtt előveszi fényképezőgépét az egyedülálló tájképek készítéséhez.",
+            "ro": "Începeți călătoria cu această priveliște uluitoare către Santorini și parcați în siguranță pe marginea drumului înainte de a scoate aparatul foto pentru fotografii unice ale peisajului.",
+            "en": "Start your road trip with this breathtaking view towards Santorini, and ensure you park safely by the roadside before taking out your camera for some highly unique landscape photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Viglia Manganariou and Viglia Kalamou view",
+            "hu": "Viglia Manganariou and Viglia Kalamou view",
+            "ro": "Viglia Manganariou and Viglia Kalamou view",
+            "en": "Viglia Manganariou and Viglia Kalamou view"
+          },
+          "coords": [
+            25.358099,
+            36.679627
+          ],
+          "category": "natural",
+          "arrive_at": "09:37",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fahren Sie kurz weiter zu diesem nächsten Aussichtspunkt, der Ihnen eine andere Perspektive auf die Hügel bietet, und seien Sie vorsichtig bei aufkommenden Windböen an der Klippe.",
+            "hu": "Vezessen tovább ehhez a következő kilátóhoz, amely más perspektívát kínál a dombokra, és legyen rendkívül óvatos a szikla szélén a hirtelen és erős széllökésekkel szemben.",
+            "ro": "Conduceți puțin mai departe până la acest următor punct de vedere care vă oferă o altă perspectivă asupra dealurilor și aveți mare grijă la rafalele de vânt pe marginea stâncii abrupte.",
+            "en": "Drive a little further to this next viewpoint offering a different perspective of the coastal hills, and be extremely cautious of sudden wind gusts when standing close to the cliff edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Trupete",
+            "hu": "Trupete",
+            "ro": "Trupete",
+            "en": "Trupete"
+          },
+          "coords": [
+            25.347643,
+            36.656659
+          ],
+          "category": "recreational",
+          "arrive_at": "10:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Steuern Sie diesen abgelegenen Strandabschnitt an, um der Hektik zu entfliehen, und bringen Sie ausreichend Trinkwasser mit, da es hier in der Regel keine touristische Infrastruktur gibt.",
+            "hu": "Célozza meg ezt a félreeső partszakaszt, hogy elmeneküljön a rohanás elől, és hozzon magával elegendő ivóvizet, mivel itt általában nincs semmilyen turisztikai infrastruktúra a közelben.",
+            "ro": "Mergeți spre această porțiune retrasă de plajă pentru a scăpa de agitație și aduceți cu voi suficientă apă de băut, deoarece de obicei nu există infrastructură turistică disponibilă aici.",
+            "en": "Head to this isolated stretch of beach to escape the hustle and bustle, and make absolutely sure to bring enough drinking water since there is usually no tourist infrastructure here."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint Constantine and Helen",
+            "hu": "Saint Constantine and Helen",
+            "ro": "Saint Constantine and Helen",
+            "en": "Saint Constantine and Helen"
+          },
+          "coords": [
+            25.373393,
+            36.660708
+          ],
+          "category": "landmark",
+          "arrive_at": "11:28",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Halt an dieser kleinen Kapelle für ein tolles Erinnerungsfoto und respektieren Sie dabei die Ruhe dieses spirituellen und kulturell bedeutsamen Ortes.",
+            "hu": "Tegyen egy rövid megállót ennél a kis kápolnánál egy nagyszerű emlékfotó erejéig, miközben mindenképpen tiszteletben tartja ennek a kulturálisan jelentős helynek a nyugalmát.",
+            "ro": "Faceți o scurtă oprire la această mică capelă pentru o fotografie grozavă de suvenir, respectând în același timp liniștea absolută a acestui loc spiritual și cultural semnificativ.",
+            "en": "Make a quick stop at this small chapel for a great souvenir photo, while always being mindful to respect the quiet and serene atmosphere of this culturally significant spiritual site."
+          }
+        },
+        {
+          "name": {
+            "de": "Louka Aulaki",
+            "hu": "Louka Aulaki",
+            "ro": "Louka Aulaki",
+            "en": "Louka Aulaki"
+          },
+          "coords": [
+            25.387037,
+            36.660577
+          ],
+          "category": "recreational",
+          "arrive_at": "11:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fahren Sie weiter in den Osten zu dieser fantastischen Badebucht, packen Sie Ihr Strandtuch ein und genießen Sie ein ungestörtes Bad im kristallklaren Wasser der südlichen Ägäis.",
+            "hu": "Vezessen tovább kelet felé ebbe a fantasztikus fürdőöbölbe, pakolja be a strandtörölközőjét, és élvezze a zavartalan úszást a déli Égei-tenger kristálytiszta és lenyűgöző vizében.",
+            "ro": "Conduceți mai departe spre est către acest golf de înot fantastic, împachetați prosopul de plajă și bucurați-vă de o baie netulburată în apele limpezi ale Mării Egee de Sud liniștite.",
+            "en": "Drive further east to this fantastic swimming cove, pack your beach towel securely, and enjoy an undisturbed swim in the exceptionally crystal-clear waters of the southern Aegean Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Never bay",
+            "hu": "Never bay",
+            "ro": "Never bay",
+            "en": "Never bay"
+          },
+          "coords": [
+            25.383351,
+            36.652927
+          ],
+          "category": "natural",
+          "arrive_at": "13:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Ein echtes Naturhighlight erwartet Sie in dieser spektakulären Bucht, wo das Parken manchmal improvisiert werden muss, bevor Sie den malerischen Felsabstieg wagen können.",
+            "hu": "Egy igazi természeti fénypont várja Önt ebben a látványos öbölben, ahol a parkolást néha improvizálni kell, mielőtt meg merné kockáztatni a festői, de kissé nehézkes sziklás ereszkedést.",
+            "ro": "O adevărată atracție naturală vă așteaptă în acest golf spectaculos, unde parcarea trebuie uneori improvizată înainte de a putea îndrăzni coborârea destul de pitorească pe stânci.",
+            "en": "A true natural highlight awaits you in this spectacular bay, where parking sometimes needs to be improvised on the spot before you can safely brave the scenic rocky descent downwards."
+          }
+        },
+        {
+          "name": {
+            "de": "Treis Kleisies mikre",
+            "hu": "Treis Kleisies mikre",
+            "ro": "Treis Kleisies mikre",
+            "en": "Treis Kleisies mikre"
+          },
+          "coords": [
+            25.382592,
+            36.672341
+          ],
+          "category": "recreational",
+          "arrive_at": "14:23",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Lassen Sie den perfekten Tag an dieser unberührten Küste ausklingen und bringen Sie etwas Zeit mit, um die magische Abendstimmung am ruhigen Meer vollends genießen zu können.",
+            "hu": "Fejezze be a tökéletes napot ezen az érintetlen tengerparton, és szánjon rá elegendő időt, hogy teljes mértékben élvezhesse a varázslatos esti hangulatot a nyugodt tenger mellett.",
+            "ro": "Încheiați ziua perfectă pe această coastă neatinsă de dezvoltare și aduceți cu dumneavoastră puțin timp liber pentru a vă bucura pe deplin de atmosfera magică de seară lângă mare.",
+            "en": "End your perfect coastal day on this untouched shoreline, and be absolutely sure to bring enough time to fully enjoy the highly magical evening atmosphere by the tranquil and calm sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Dieser motorisierte Ausflug bietet die beste Möglichkeit, alle Ecken von Manganari zu sehen. Beginnend bei den hoch gelegenen Aussichtspunkten mit Blick auf Santorini, fahren Sie anschließend weit nach Westen in die Abgeschiedenheit von Trupete. Nach einem kurzen kulturellen Halt am malerischen Kirchlein geht die Fahrt in den Osten zu idyllischen Buchten wie Louka Aulaki und Never Bay. Ein ausgiebiger Aufenthalt am Treis Kleisies mikre Strand rundet den erfüllten Roadtrip hervorragend ab.",
+        "hu": "Ez a motoros kirándulás a legjobb módja Manganari minden sarkának felfedezésére. A Szantorínire néző magas kilátópontoktól kezdve nyugat felé halad Trupete magányába. Egy rövid kulturális megálló után a kis kápolnánál az út kelet felé, idilli öblök felé veszi az irányt, mint a Louka Aulaki és a Never Bay. A Treis Kleisies mikre strandon tett hosszabb tartózkodás kiválóan lekerekíti a tartalmas autós túrát.",
+        "ro": "Această excursie motorizată oferă cea mai bună modalitate de a vedea toate colțurile zonei Manganari. Începând de la punctele înalte de belvedere cu vedere la Santorini, conduceți spre vest în izolarea din Trupete. După o scurtă oprire la micuța capelă, călătoria se îndreaptă spre est către golfuri idilice precum Louka Aulaki și Never Bay. O ședere extinsă pe plaja Treis Kleisies mikre completează perfect această călătorie relaxantă cu mașina.",
+        "en": "This motorized excursion offers the best way to see all corners of the Manganari area. Starting at the high viewpoints overlooking Santorini, you then drive far west into the seclusion of Trupete. After a brief cultural stop at the little chapel, the journey heads east to idyllic bays like Louka Aulaki and the stunning Never Bay. An extended stay at Treis Kleisies mikre beach perfectly rounds off this highly fulfilling coastal road trip."
+      }
+    }
+  }
+}

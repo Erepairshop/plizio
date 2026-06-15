@@ -1,0 +1,451 @@
+{
+  "city_id": "spain-o-vicedo-cities-v2",
+  "anchor": {
+    "name": "O Vicedo",
+    "coords": [
+      -7.67368,
+      43.73233
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:00",
+      "total_km": 2.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Concello do Vicedo",
+            "hu": "Concello do Vicedo",
+            "ro": "Concello do Vicedo",
+            "en": "Concello do Vicedo"
+          },
+          "coords": [
+            -7.675116,
+            43.732569
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beachten Sie die bürgerliche Architektur, die die Geschichte der Stadt verankert; die nahegelegenen Anschlagtafeln geben Ihnen Einblicke in den lokalen Alltag.",
+            "hu": "Figyelje meg a város történelmét megalapozó polgári építészetet; a közeli hirdetőtáblák bepillantást engednek a helyi mindennapokba.",
+            "ro": "Observați arhitectura civică care ancorează istoria orașului; panourile de informare din apropiere vă vor oferi o privire în viața de zi cu zi.",
+            "en": "Notice the civic architecture that anchors the town's history; checking the nearby noticeboards will give you a glimpse into local daily life."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Vicedo Vello",
+            "hu": "Praia do Vicedo Vello",
+            "ro": "Praia do Vicedo Vello",
+            "en": "Praia do Vicedo Vello"
+          },
+          "coords": [
+            -7.673635,
+            43.735269
+          ],
+          "category": "recreational",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie an diesem älteren Erholungsstrand entlang, um die maritimen Wurzeln des Dorfes zu würdigen, und bringen Sie eine Windjacke mit.",
+            "hu": "Sétáljon végig ezen a régebbi rekreációs parton, hogy értékelje a falu tengerészeti gyökereit, és hozzon magával széldzsekit a hűvös szellő miatt.",
+            "ro": "Plimbați-vă de-a lungul acestui țărm de recreere mai vechi pentru a aprecia rădăcinile maritime, aducând o jachetă de vânt pentru briza ascuțită.",
+            "en": "Stroll along this older recreational shore to appreciate the maritime roots of the village, bringing a windbreaker as the coastal breezes can be sharp."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Vidreiro",
+            "hu": "Praia do Vidreiro",
+            "ro": "Praia do Vidreiro",
+            "en": "Praia do Vidreiro"
+          },
+          "coords": [
+            -7.674828,
+            43.739632
+          ],
+          "category": "recreational",
+          "arrive_at": "11:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den weichen Sand und das einladende Wasser dieses Strandes und versuchen Sie, bei Ebbe anzukommen, um versteckte Felsenpools zu entdecken.",
+            "hu": "Élvezze a népszerű strand lágyabb homokját és hívogató vizét, és próbáljon apálykor érkezni, hogy felfedezze a rejtett sziklamedencéket.",
+            "ro": "Bucurați-vă de nisipurile mai fine și de apele primitoare ale acestei plaje populare și încercați să ajungeți la reflux pentru a descoperi piscine ascunse.",
+            "en": "Enjoy the softer sands and inviting waters of this popular beach, and try to arrive during low tide to discover hidden rock pools along the edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro da Punta do Castro",
+            "hu": "Faro da Punta do Castro",
+            "ro": "Faro da Punta do Castro",
+            "en": "Faro da Punta do Castro"
+          },
+          "coords": [
+            -7.674444,
+            43.741235
+          ],
+          "category": "landmark",
+          "arrive_at": "13:16",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie atemberaubende Fotos von diesem wichtigen maritimen Wahrzeichen, aber seien Sie in der Nähe der unbewachten Klippenränder sehr vorsichtig.",
+            "hu": "Készítsen lenyűgöző fényképeket erről a tengerészeti mérföldkőről, de legyen nagyon óvatos az őrizetlen sziklaszélek közelében a kilátás megcsodálása közben.",
+            "ro": "Surprindeți fotografii uimitoare de la acest punct de reper maritim crucial, dar fiți foarte atenți lângă marginile neprotejate ale stâncilor.",
+            "en": "Capture stunning photographs from this crucial maritime landmark, but be very careful near the unguarded cliff edges while admiring the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Ría do Barqueiro",
+            "hu": "Ría do Barqueiro",
+            "ro": "Ría do Barqueiro",
+            "en": "Ría do Barqueiro"
+          },
+          "coords": [
+            -7.666369,
+            43.754163
+          ],
+          "category": "landmark",
+          "arrive_at": "14:05",
+          "stay_min": 55,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Beobachten Sie das dynamische Zusammenspiel von Fluss und Meer an dieser malerischen Mündung und bringen Sie ein Fernglas für die Vogelbeobachtung mit.",
+            "hu": "Figyelje meg a folyó és a tenger dinamikus kölcsönhatását ezen a festői torkolatnál, és hozzon távcsövet a változatos madárfajok megfigyeléséhez.",
+            "ro": "Urmăriți interacțiunea dinamică dintre râu și mare la acest estuar pitoresc, aducând binoclul pentru a observa diversele specii de păsări.",
+            "en": "Watch the dynamic interplay of river and sea at this picturesque estuary, bringing binoculars to spot the diverse bird species thriving here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der Erkundung des lokalen Erbes am zentralen Rathaus, bevor Sie zur Küste aufbrechen. Die Mittagszeit ist für die wunderschönen Sandküsten von Vicedo Vello und Vidreiro reserviert, wo die Meeresbrise die Seele erfrischt. Verbringen Sie den Nachmittag mit einem leichten Aufstieg zum ikonischen Leuchtturm und genießen Sie den Panoramablick auf die zerklüftete Küste. Lassen Sie den Tag an der Ría do Barqueiro ausklingen, wo die ruhigen Gewässer der Mündung unter dem Abendhimmel auf die Tiefsee treffen.",
+        "hu": "Kezdje a reggelt a helyi örökség felfedezésével a központi városházán, mielőtt a part felé venné az irányt. A délidő Vicedo Vello és Vidreiro gyönyörű homokos partjaié, ahol az óceáni szellő felfrissíti a lelket. Töltse a délutánt egy enyhe emelkedővel az ikonikus világítótoronyhoz, ahonnan panorámás kilátás nyílik a zord partvonalra. Zárja a napot a Ría do Barqueiro megcsodálásával, ahol a nyugodt torkolati vizek találkoznak a mélytengerrel az esti égbolt alatt.",
+        "ro": "Începeți dimineața explorând patrimoniul local la primăria centrală înainte de a vă îndrepta spre coastă. Miezul zilei este rezervat pentru țărmurile frumoase de nisip de la Vicedo Vello și Vidreiro, unde briza oceanului revigorează sufletul. Petreceți după-amiaza urcând ușor spre farul iconic, admirând vederile panoramice ale coastei accidentate. Încheiați ziua admirând Ría do Barqueiro, unde apele liniștite ale estuarului se întâlnesc cu marea adâncă sub cerul serii.",
+        "en": "Start the morning exploring the local heritage at the central municipal building before heading toward the coast. Midday is reserved for the beautiful sandy shores of Vicedo Vello and Vidreiro, where the ocean breeze refreshes the soul. Spend the afternoon climbing slightly to the iconic lighthouse, taking in panoramic views of the rugged coastline. Conclude the day marveling at the Ría do Barqueiro, where the tranquil estuary waters meet the deep sea under the evening sky."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:05",
+      "total_km": 4.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Concello do Vicedo",
+            "hu": "Concello do Vicedo",
+            "ro": "Concello do Vicedo",
+            "en": "Concello do Vicedo"
+          },
+          "coords": [
+            -7.675116,
+            43.732569
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beachten Sie die bürgerliche Architektur, die die Geschichte der Stadt verankert; die nahegelegenen Anschlagtafeln geben Ihnen Einblicke in den lokalen Alltag.",
+            "hu": "Figyelje meg a város történelmét megalapozó polgári építészetet; a közeli hirdetőtáblák bepillantást engednek a helyi mindennapokba.",
+            "ro": "Observați arhitectura civică care ancorează istoria orașului; panourile de informare din apropiere vă vor oferi o privire în viața de zi cu zi.",
+            "en": "Notice the civic architecture that anchors the town's history; checking the nearby noticeboards will give you a glimpse into local daily life."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Vidreiro",
+            "hu": "Praia do Vidreiro",
+            "ro": "Praia do Vidreiro",
+            "en": "Praia do Vidreiro"
+          },
+          "coords": [
+            -7.674828,
+            43.739632
+          ],
+          "category": "recreational",
+          "arrive_at": "10:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den weichen Sand und das einladende Wasser dieses Strandes und versuchen Sie, bei Ebbe anzukommen, um versteckte Felsenpools zu entdecken.",
+            "hu": "Élvezze a népszerű strand lágyabb homokját és hívogató vizét, és próbáljon apálykor érkezni, hogy felfedezze a rejtett sziklamedencéket.",
+            "ro": "Bucurați-vă de nisipurile mai fine și de apele primitoare ale acestei plaje populare și încercați să ajungeți la reflux pentru a descoperi piscine ascunse.",
+            "en": "Enjoy the softer sands and inviting waters of this popular beach, and try to arrive during low tide to discover hidden rock pools along the edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro da Punta do Castro",
+            "hu": "Faro da Punta do Castro",
+            "ro": "Faro da Punta do Castro",
+            "en": "Faro da Punta do Castro"
+          },
+          "coords": [
+            -7.674444,
+            43.741235
+          ],
+          "category": "landmark",
+          "arrive_at": "11:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie atemberaubende Fotos von diesem wichtigen maritimen Wahrzeichen, aber seien Sie in der Nähe der unbewachten Klippenränder sehr vorsichtig.",
+            "hu": "Készítsen lenyűgöző fényképeket erről a tengerészeti mérföldkőről, de legyen nagyon óvatos az őrizetlen sziklaszélek közelében a kilátás megcsodálása közben.",
+            "ro": "Surprindeți fotografii uimitoare de la acest punct de reper maritim crucial, dar fiți foarte atenți lângă marginile neprotejate ale stâncilor.",
+            "en": "Capture stunning photographs from this crucial maritime landmark, but be very careful near the unguarded cliff edges while admiring the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Ría do Barqueiro",
+            "hu": "Ría do Barqueiro",
+            "ro": "Ría do Barqueiro",
+            "en": "Ría do Barqueiro"
+          },
+          "coords": [
+            -7.666369,
+            43.754163
+          ],
+          "category": "landmark",
+          "arrive_at": "12:24",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Beobachten Sie das dynamische Zusammenspiel von Fluss und Meer an dieser malerischen Mündung und bringen Sie ein Fernglas für die Vogelbeobachtung mit.",
+            "hu": "Figyelje meg a folyó és a tenger dinamikus kölcsönhatását ezen a festői torkolatnál, és hozzon távcsövet a változatos madárfajok megfigyeléséhez.",
+            "ro": "Urmăriți interacțiunea dinamică dintre râu și mare la acest estuar pitoresc, aducând binoclul pentru a observa diversele specii de păsări.",
+            "en": "Watch the dynamic interplay of river and sea at this picturesque estuary, bringing binoculars to spot the diverse bird species thriving here."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Xilloi",
+            "hu": "Praia de Xilloi",
+            "ro": "Praia de Xilloi",
+            "en": "Praia de Xilloi"
+          },
+          "coords": [
+            -7.652018,
+            43.743366
+          ],
+          "category": "recreational",
+          "arrive_at": "12:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an einem der schönsten Strände Galiziens mit seinem beeindruckenden Dünensystem und nutzen Sie die ausgewiesenen Holzstege.",
+            "hu": "Pihenjen Galícia egyik legszebb strandján, lenyűgöző dűnerendszerével, és feltétlenül a kijelölt fapallókat használja a növényvilág védelme érdekében.",
+            "ro": "Relaxați-vă la una dintre cele mai fine plaje din Galicia, cu ecosistemul său de dune, asigurându-vă că utilizați pasarelele din lemn desemnate.",
+            "en": "Relax at one of Galicia's finest beaches with its impressive dune ecosystem, making sure to use the designated wooden walkways to protect the flora."
+          }
+        },
+        {
+          "name": {
+            "de": "O Castelo",
+            "hu": "O Castelo",
+            "ro": "O Castelo",
+            "en": "O Castelo"
+          },
+          "coords": [
+            -7.649703,
+            43.739817
+          ],
+          "category": "historical",
+          "arrive_at": "14:15",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die Überreste dieses historischen Küstenforts, aber achten Sie auf Ihre Schritte auf den moosigen und rutschigen Steinruinen.",
+            "hu": "Sétáljon át ennek a történelmi parti erődnek a maradványain, de ügyeljen a lépéseire a mohás és csúszós kőromokon.",
+            "ro": "Plimbați-vă prin rămășițele acestui fort istoric de coastă pentru a vizualiza apărarea trecută, dar aveți grijă la pașii pe ruinele de piatră alunecoase.",
+            "en": "Wander through the remnants of this historic coastal fort to visualize past defenses, but watch your step on the mossy and slippery stone ruins."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie vom historischen Stadtzentrum direkt an den nördlichen Küstenrand und spüren Sie die frische galizische Luft entlang des Weges. Fahren Sie an den Aussichtspunkten des Leuchtturms und der Mündung vorbei und nehmen Sie die dramatischen Klippen und Gezeitenwechsel der atemberaubenden Küste in sich auf. Fahren Sie in Richtung Osten zum berühmten Strand Xilloi, der unberührten Sand und kristallklares Wasser bietet, perfekt umrahmt von Pinienwäldern. Beenden Sie Ihre Fahrt an den Ruinen von O Castelo, wo sich historische Mysterien nahtlos mit den Schatten der goldenen Stunde über dem Meer vermischen.",
+        "hu": "Kerékpározzon a történelmi városközpontból egyenesen az északi partvidékre, és érezze az élénk galíciai levegőt az út során. Navigáljon el a világítótorony és a torkolat kilátópontjai mellett, befogadva a lélegzetelállító partvonal drámai szikláit és árapály-változásait. Lovagoljon kelet felé a híres Xilloi strandhoz, amely érintetlen homokot és kristálytiszta vizet kínál fenyőerdőkkel tökéletesen keretezve. Fejezze be utazását az O Castelo romjainál, ahol a történelmi rejtélyek zökkenőmentesen keverednek a tenger feletti aranyóra árnyékaival.",
+        "ro": "Ciclismul din centrul istoric al orașului direct către marginea coastei de nord, simțind aerul vioi galician pe parcurs. Navigați pe lângă punctele de belvedere ale farului și estuarului, absorbind stâncile dramatice și schimbările de maree ale coastei uluitoare. Mergeți spre est către faimoasa plajă Xilloi, oferind nisipuri imaculate și ape cristaline, perfect încadrate de păduri de pini. Terminați-vă plimbarea la ruinele din O Castelo, unde misterele istorice se îmbină perfect cu umbrele orei de aur deasupra mării.",
+        "en": "Cycle from the historic town center directly to the northern coastal edge, feeling the brisk Galician air along the path. Navigate past the lighthouse and estuary viewpoints, absorbing the dramatic cliffs and tidal shifts of the breathtaking coastline. Ride east towards the famous Xilloi beach, offering pristine sands and crystal-clear waters perfectly framed by pine forests. Finish your ride at the ruins of O Castelo, where historical mysteries blend seamlessly with golden hour shadows over the sea."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:16",
+      "total_km": 7.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "A Calzada",
+            "hu": "A Calzada",
+            "ro": "A Calzada",
+            "en": "A Calzada"
+          },
+          "coords": [
+            -7.691329,
+            43.714331
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Gehen Sie diesen historischen Steinpfad entlang, um die alten Transitrouten zu spüren, und tragen Sie feste Schuhe für das unebene Gelände.",
+            "hu": "Sétáljon végig ezen a történelmi kőösvényen, hogy átérezze az ősi tranzitútvonalakat, és viseljen masszív cipőt az egyenetlen terephez.",
+            "ro": "Mergeți pe această cale istorică de piatră pentru a simți vechile rute de tranzit și purtați încălțăminte robustă pentru terenul denivelat.",
+            "en": "Walk this historical stone path to feel the ancient transit routes, and wear sturdy shoes to easily navigate the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de San Miguel das Negradas",
+            "hu": "Igrexa de San Miguel das Negradas",
+            "ro": "Igrexa de San Miguel das Negradas",
+            "en": "Igrexa de San Miguel das Negradas"
+          },
+          "coords": [
+            -7.673737,
+            43.712075
+          ],
+          "category": "religious",
+          "arrive_at": "10:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die einfache, aber beständige Architektur dieser Landkirche, aber bewahren Sie respektvolle Stille, da sie der örtlichen Gemeinde dient.",
+            "hu": "Csodálja meg ennek a vidéki templomnak az egyszerű, mégis tartós építészetét, de ne felejtsen el tiszteletteljes csendet tartani odabent.",
+            "ro": "Admirați arhitectura simplă, dar durabilă a acestei biserici rurale, dar amintiți-vă să păstrați o tăcere respectuoasă în interior.",
+            "en": "Admire the simple yet enduring architecture of this rural church, but remember to maintain respectful silence as it serves the local parish."
+          }
+        },
+        {
+          "name": {
+            "de": "Concello do Vicedo",
+            "hu": "Concello do Vicedo",
+            "ro": "Concello do Vicedo",
+            "en": "Concello do Vicedo"
+          },
+          "coords": [
+            -7.675116,
+            43.732569
+          ],
+          "category": "historical",
+          "arrive_at": "11:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Beachten Sie die bürgerliche Architektur, die die Geschichte der Stadt verankert; die nahegelegenen Anschlagtafeln geben Ihnen Einblicke in den lokalen Alltag.",
+            "hu": "Figyelje meg a város történelmét megalapozó polgári építészetet; a közeli hirdetőtáblák bepillantást engednek a helyi mindennapokba.",
+            "ro": "Observați arhitectura civică care ancorează istoria orașului; panourile de informare din apropiere vă vor oferi o privire în viața de zi cu zi.",
+            "en": "Notice the civic architecture that anchors the town's history; checking the nearby noticeboards will give you a glimpse into local daily life."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro da Punta do Castro",
+            "hu": "Faro da Punta do Castro",
+            "ro": "Faro da Punta do Castro",
+            "en": "Faro da Punta do Castro"
+          },
+          "coords": [
+            -7.674444,
+            43.741235
+          ],
+          "category": "landmark",
+          "arrive_at": "12:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Machen Sie atemberaubende Fotos von diesem wichtigen maritimen Wahrzeichen, aber seien Sie in der Nähe der unbewachten Klippenränder sehr vorsichtig.",
+            "hu": "Készítsen lenyűgöző fényképeket erről a tengerészeti mérföldkőről, de legyen nagyon óvatos az őrizetlen sziklaszélek közelében a kilátás megcsodálása közben.",
+            "ro": "Surprindeți fotografii uimitoare de la acest punct de reper maritim crucial, dar fiți foarte atenți lângă marginile neprotejate ale stâncilor.",
+            "en": "Capture stunning photographs from this crucial maritime landmark, but be very careful near the unguarded cliff edges while admiring the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de Xilloi",
+            "hu": "Praia de Xilloi",
+            "ro": "Praia de Xilloi",
+            "en": "Praia de Xilloi"
+          },
+          "coords": [
+            -7.652018,
+            43.743366
+          ],
+          "category": "recreational",
+          "arrive_at": "13:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an einem der schönsten Strände Galiziens mit seinem beeindruckenden Dünensystem und nutzen Sie die ausgewiesenen Holzstege.",
+            "hu": "Pihenjen Galícia egyik legszebb strandján, lenyűgöző dűnerendszerével, és feltétlenül a kijelölt fapallókat használja a növényvilág védelme érdekében.",
+            "ro": "Relaxați-vă la una dintre cele mai fine plaje din Galicia, cu ecosistemul său de dune, asigurându-vă că utilizați pasarelele din lemn desemnate.",
+            "en": "Relax at one of Galicia's finest beaches with its impressive dune ecosystem, making sure to use the designated wooden walkways to protect the flora."
+          }
+        },
+        {
+          "name": {
+            "de": "O Castro Redondo",
+            "hu": "O Castro Redondo",
+            "ro": "O Castro Redondo",
+            "en": "O Castro Redondo"
+          },
+          "coords": [
+            -7.647867,
+            43.737803
+          ],
+          "category": "historical",
+          "arrive_at": "14:26",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese alte Siedlung aus der Eisenzeit, um die keltischen Wurzeln der Gegend zu entdecken, und bringen Sie einen Reiseführer mit.",
+            "hu": "Fedezze fel ezt az ősi vaskori települést, hogy feltárja a terület kelta gyökereit, és fontolja meg egy útikönyv hozatalát az extra kontextusért.",
+            "ro": "Explorați această veche așezare din Epoca Fierului pentru a descoperi rădăcinile celtice profunde ale zonei și luați în considerare aducerea unui ghid.",
+            "en": "Explore this ancient Iron Age settlement site to uncover the deep Celtic roots of the area, and consider bringing a guidebook for extra context."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie in die südlichen Außenbezirke, um alte Steinpfade und traditionelle Landkirchen zu erkunden, die das spirituelle Erbe der Region prägen. Kehren Sie in das städtische Herz von O Vicedo zurück, bevor Sie zum nördlichen Leuchtturm hinauffahren, um einen beeindruckenden Blick auf den Atlantischen Ozean zu genießen. Entspannen Sie sich am weitläufigen Sandstrand von Xilloi, der leicht mit dem Auto erreichbar und perfekt für eine friedliche Nachmittagspause am Meer ist. Schließen Sie die Reise in der alten Hügelsiedlung Castro Redondo ab und nehmen Sie die tiefe Stille und die historische Resonanz der Landschaft in sich auf.",
+        "hu": "Hajtson a déli külvárosokba, hogy felfedezze az ősi kőösvényeket és a hagyományos vidéki templomokat, amelyek meghatározzák a régió szellemi örökségét. Térjen vissza O Vicedo önkormányzati szívébe, mielőtt felhajtana az északi világítótoronyhoz, ahonnan lenyűgöző kilátás nyílik az Atlanti-óceánra. Pihenjen a Xilloi strand kiterjedt homokján, amely autóval könnyen megközelíthető, és tökéletes egy békés délutáni pihenéshez a tengerparton. Zárja az utazást Castro Redondo ősi dombtetői településén, befogadva a táj mély csendjét és történelmi rezonanciáját.",
+        "ro": "Conduceți spre periferiile sudice pentru a explora vechile poteci de piatră și bisericile rurale tradiționale care definesc patrimoniul spiritual al regiunii. Întoarceți-vă în inima municipală din O Vicedo înainte de a urca spre farul nordic pentru vederi impresionante asupra Oceanului Atlantic. Relaxați-vă pe nisipurile întinse ale plajei Xilloi, ușor accesibilă cu mașina și perfectă pentru o pauză de după-amiază liniștită la malul mării. Încheiați călătoria la vechea așezare pe deal Castro Redondo, absorbind tăcerea profundă și rezonanța istorică a peisajului.",
+        "en": "Drive to the southern outskirts to explore ancient stone paths and traditional rural churches that define the region's spiritual heritage. Return to the municipal heart of O Vicedo before cruising up to the northern lighthouse for commanding views of the Atlantic Ocean. Relax on the expansive sands of Xilloi beach, easily accessible by car and perfect for a peaceful afternoon break by the sea. Wrap up the journey at the ancient hilltop settlement of Castro Redondo, taking in the profound silence and historic resonance of the landscape."
+      }
+    }
+  }
+}

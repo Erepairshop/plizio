@@ -1,0 +1,474 @@
+{
+  "city_id": "creteil",
+  "anchor": {
+    "name": "Créteil",
+    "coords": [
+      2.4531,
+      48.7778
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:29",
+      "total_km": 2.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Créteil",
+            "hu": "Créteil Városháza",
+            "ro": "Primăria Créteil",
+            "en": "Créteil City Hall"
+          },
+          "coords": [
+            2.45306,
+            48.7778
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die zylindrische Architektur dieses Rathauses, die utopische Ideale der 1970er widerspiegelt, und kommen Sie am besten vormittags an Werktagen.",
+            "hu": "Csodálja meg ennek a városházának az 1970-es évek utópisztikus ideáljait tükröző hengeres építészetét, és a tömeg elkerülése érdekében jöjjön hétköznap délelőtt.",
+            "ro": "Admirați arhitectura cilindrică monumentală a acestui centru civic, reflectând idealurile utopice din anii 1970, și vizitați-l în diminețile din timpul săptămânii.",
+            "en": "Admire the monumental cylindrical architecture of this civic center, reflecting 1970s utopian ideals, and visit during weekday mornings for fewer crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus der Kunst und Kultur",
+            "hu": "Művészetek és Kultúra Háza",
+            "ro": "Casa Artelor și Culturii",
+            "en": "House of Arts and Culture"
+          },
+          "coords": [
+            2.454437,
+            48.77686
+          ],
+          "category": "cultural",
+          "arrive_at": "09:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses wichtige Kulturzentrum mit seiner markanten Betonfassade und avantgardistischem Theater, aber buchen Sie Ihre Tickets weit im Voraus online.",
+            "hu": "Fedezze fel ezt a feltűnő betonhomlokzatáról és avantgárd színházáról ismert kulturális központot, de az előadásokra szóló jegyeket jó előre foglalja le online.",
+            "ro": "Explorați acest centru cultural faimos pentru teatrul avangardist și fațadele de beton, dar asigurați-vă că rezervați biletele pentru spectacole online din timp.",
+            "en": "Explore this major cultural hub known for its avant-garde theatre and striking concrete facades, but make sure to book performance tickets well in advance online."
+          }
+        },
+        {
+          "name": {
+            "de": "See von Créteil",
+            "hu": "Créteil-tó",
+            "ro": "Lacul Créteil",
+            "en": "Lake Créteil"
+          },
+          "coords": [
+            2.45081,
+            48.7767
+          ],
+          "category": "natural",
+          "arrive_at": "11:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Spazieren Sie um diesen riesigen künstlichen See, der einen ehemaligen Sandsteinbruch in ein Naturparadies verwandelte, und mieten Sie ein Tretboot am Westufer.",
+            "hu": "Sétáljon körbe ezen a hatalmas mesterséges tavon, amely egykori homokbányából lett a biodiverzitás menedéke, és béreljen vízibiciklit a nyugati part közelében.",
+            "ro": "Plimbați-vă în jurul acestui lac artificial masiv care a transformat o fostă carieră de nisip într-un refugiu al biodiversității și închiriați o hidrobicicletă.",
+            "en": "Walk around this massive artificial lake which transformed a former sand quarry into a biodiversity haven, and rent a pedal boat near the western shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus der Natur",
+            "hu": "Természet Háza",
+            "ro": "Casa Naturii",
+            "en": "House of Nature"
+          },
+          "coords": [
+            2.44714,
+            48.777258
+          ],
+          "category": "cultural",
+          "arrive_at": "12:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Lernen Sie in diesem direkt am See gelegenen Bildungszentrum alles über lokale Ökosysteme und bringen Sie ein Fernglas mit, um draußen die Zugvögel zu beobachten.",
+            "hu": "Ismerje meg a helyi ökoszisztémákat ebben a tóparti oktatóközpontban, amely ideális családoknak, és hozzon távcsövet a különféle vándormadarak megfigyeléséhez.",
+            "ro": "Învățați despre ecosistemele locale în acest centru educațional perfect pentru familii și aduceți binocluri pentru a observa diversele păsări migratoare afară.",
+            "en": "Learn about local ecosystems in this educational center nestled by the lake, perfect for families, and bring binoculars to spot the diverse migratory birds outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Choux de Créteil",
+            "hu": "Les Choux de Créteil",
+            "ro": "Les Choux de Créteil",
+            "en": "Les Choux de Créteil"
+          },
+          "coords": [
+            2.445585,
+            48.784695
+          ],
+          "category": "historical",
+          "arrive_at": "14:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.83,
+          "tip_5lang": {
+            "de": "Fotografieren Sie diese ikonischen, kohlkopfförmigen Wohntürme, die 1974 von Gérard Grandval entworfen wurden, und bleiben Sie dabei auf den öffentlichen Wegen.",
+            "hu": "Fényképezze le ezeket a Gérard Grandval által 1974-ben tervezett, ikonikus káposzta alakú lakótornyokat, de maradjon a nyilvános utakon a lakók magánéletének tiszteletben tartása érdekében.",
+            "ro": "Fotografiați aceste turnuri rezidențiale în formă de varză proiectate de Gérard Grandval în 1974, asigurându-vă că rămâneți pe căile publice pentru a respecta intimitatea.",
+            "en": "Photograph these iconic cabbage-shaped residential towers designed by Gérard Grandval in 1974, ensuring you stay on public paths to respect the residents' privacy."
+          }
+        },
+        {
+          "name": {
+            "de": "Créteil Soleil",
+            "hu": "Créteil Soleil",
+            "ro": "Créteil Soleil",
+            "en": "Créteil Soleil"
+          },
+          "coords": [
+            2.457,
+            48.78
+          ],
+          "category": "recreational",
+          "arrive_at": "16:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Kaufen und essen Sie in einem der größten Einkaufszentren der Region mit riesigen Glasdecken und kommen Sie am frühen Nachmittag, um dem großen Trubel zu entgehen.",
+            "hu": "Vásároljon és étkezzen a régió egyik legnagyobb, hatalmas üvegmennyezettel büszkélkedő bevásárlóközpontjában, és látogasson el kora délután egy nyugodtabb élményért.",
+            "ro": "Faceți cumpărături în unul dintre cele mai mari centre comerciale din regiune cu tavane vaste din sticlă și vizitați-l după-amiaza devreme pentru a evita aglomerația.",
+            "en": "Shop and dine in one of the region's largest commercial centers boasting extensive glass ceilings, and visit during early afternoon hours for a quieter experience."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung der monumentalen bürgerlichen Architektur des modernen Créteil und spüren Sie den Puls des 70er-Jahre-Designs. Mittags locken die ruhigen Ufer des Lac de Créteil. Der Nachmittag ist der Bewunderung der ikonischen Kohltürme gewidmet, bevor Sie abends im lebhaften Handelszentrum entspannen.",
+        "hu": "Kezdje a reggelt a modern Créteil monumentális polgári építészetének felfedezésével, átérezve a 70-es évek egyedi városépítészetének lüktetését. Délben a Lac de Créteil nyugodt partjai várják. A délutánt az ikonikus Káposzta-tornyok megcsodálásának szentelheti, este pedig a nyüzsgő kereskedelmi központban lazíthat.",
+        "ro": "Începeți dimineața explorând arhitectura civică monumentală a Créteil-ului modern, simțind pulsul designului său urban din anii '70. La prânz, relaxați-vă pe malurile liniștite ale lacului Créteil. După-amiaza este dedicată admirării iconurilor turnuri Varză, înainte de a vă destinde în hub-ul comercial plin de viață seara.",
+        "en": "Start your morning exploring the monumental civic architecture of modern Créteil, feeling the pulse of its unique 70s urban design. Midday invites you to the calm shores of Lac de Créteil and its nature center. The afternoon is dedicated to admiring the iconic 'Cabbage' towers before unwinding at the lively commercial hub in the evening."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Les Choux de Créteil",
+            "hu": "Les Choux de Créteil",
+            "ro": "Les Choux de Créteil",
+            "en": "Les Choux de Créteil"
+          },
+          "coords": [
+            2.445585,
+            48.784695
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fotografieren Sie diese ikonischen, kohlkopfförmigen Wohntürme, die 1974 von Gérard Grandval entworfen wurden, und bleiben Sie dabei auf den öffentlichen Wegen.",
+            "hu": "Fényképezze le ezeket a Gérard Grandval által 1974-ben tervezett, ikonikus káposzta alakú lakótornyokat, de maradjon a nyilvános utakon a lakók magánéletének tiszteletben tartása érdekében.",
+            "ro": "Fotografiați aceste turnuri rezidențiale în formă de varză proiectate de Gérard Grandval în 1974, asigurându-vă că rămâneți pe căile publice pentru a respecta intimitatea.",
+            "en": "Photograph these iconic cabbage-shaped residential towers designed by Gérard Grandval in 1974, ensuring you stay on public paths to respect the residents' privacy."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de la Brèche",
+            "hu": "Brèche Park",
+            "ro": "Parcul Brèche",
+            "en": "Brèche Park"
+          },
+          "coords": [
+            2.455435,
+            48.785107
+          ],
+          "category": "natural",
+          "arrive_at": "10:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.73,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem wunderschön angelegten Park, der als grüne Brücke zwischen den Vierteln dient, und nutzen Sie die breiten Wege für eine angenehme Radtour.",
+            "hu": "Pihenjen ebben a gyönyörűen parkosított, negyedeket összekötő zöld hídként szolgáló parkban, és használja a széles, burkolt ösvényeket zökkenőmentes kerékpározáshoz.",
+            "ro": "Relaxați-vă în acest parc frumos amenajat, care servește drept punte verde între cartiere, și folosiți traseele largi pavate pentru o experiență lină de ciclism.",
+            "en": "Relax in this beautifully landscaped park serving as a green bridge between neighborhoods, and use the wide paved trails for a smooth cycling or walking experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Créteil",
+            "hu": "Créteil Városháza",
+            "ro": "Primăria Créteil",
+            "en": "Créteil City Hall"
+          },
+          "coords": [
+            2.45306,
+            48.7778
+          ],
+          "category": "civic",
+          "arrive_at": "11:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.83,
+          "tip_5lang": {
+            "de": "Bewundern Sie die zylindrische Architektur dieses Rathauses, die utopische Ideale der 1970er widerspiegelt, und kommen Sie am besten vormittags an Werktagen.",
+            "hu": "Csodálja meg ennek a városházának az 1970-es évek utópisztikus ideáljait tükröző hengeres építészetét, és a tömeg elkerülése érdekében jöjjön hétköznap délelőtt.",
+            "ro": "Admirați arhitectura cilindrică monumentală a acestui centru civic, reflectând idealurile utopice din anii 1970, și vizitați-l în diminețile din timpul săptămânii.",
+            "en": "Admire the monumental cylindrical architecture of this civic center, reflecting 1970s utopian ideals, and visit during weekday mornings for fewer crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "See von Créteil",
+            "hu": "Créteil-tó",
+            "ro": "Lacul Créteil",
+            "en": "Lake Créteil"
+          },
+          "coords": [
+            2.45081,
+            48.7767
+          ],
+          "category": "natural",
+          "arrive_at": "12:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie um diesen riesigen künstlichen See, der einen ehemaligen Sandsteinbruch in ein Naturparadies verwandelte, und mieten Sie ein Tretboot am Westufer.",
+            "hu": "Sétáljon körbe ezen a hatalmas mesterséges tavon, amely egykori homokbányából lett a biodiverzitás menedéke, és béreljen vízibiciklit a nyugati part közelében.",
+            "ro": "Plimbați-vă în jurul acestui lac artificial masiv care a transformat o fostă carieră de nisip într-un refugiu al biodiversității și închiriați o hidrobicicletă.",
+            "en": "Walk around this massive artificial lake which transformed a former sand quarry into a biodiversity haven, and rent a pedal boat near the western shore."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Christophorus Kirche",
+            "hu": "Szent Kristóf Templom",
+            "ro": "Biserica Sfântul Cristofor",
+            "en": "Saint Christopher's Church"
+          },
+          "coords": [
+            2.461323,
+            48.79421
+          ],
+          "category": "religious",
+          "arrive_at": "13:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese alte Kirche mit ihrem beeindruckenden Glockenturm aus dem 11. Jahrhundert und kleiden Sie sich angemessen, um das ruhige Heiligtum zu betreten.",
+            "hu": "Fedezze fel ezt az ősi templomot, amelynek lenyűgöző 11. századi harangtornya van, és öltözzön szerényen, hogy beléphessen ebbe a békés, meghitt szentélybe.",
+            "ro": "Descoperiți această biserică veche cu un turn clopotniță impresionant din secolul al XI-lea și vitralii superbe, îmbrăcându-vă modest pentru a intra în sanctuarul liniștit.",
+            "en": "Discover this ancient church featuring an impressive 11th-century bell tower and beautiful stained glass, and dress modestly to enter the quiet sanctuary inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Guyère Insel",
+            "hu": "Guyère-sziget",
+            "ro": "Insula Guyère",
+            "en": "Guyère Island"
+          },
+          "coords": [
+            2.46911,
+            48.7957
+          ],
+          "category": "natural",
+          "arrive_at": "14:30",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entfliehen Sie auf diese üppige Flussinsel, die eine ruhige Atmosphäre abseits des Stadttrubels bietet, und bringen Sie Insektenschutzmittel für die Sommermonate mit.",
+            "hu": "Meneküljön erre a buja folyami szigetre, amely nyugodt légkört kínál távol a város zajától, és hozzon magával rovarriasztót, ha a meleg nyári hónapokban látogat ide.",
+            "ro": "Evadați pe această insulă fluvială luxuriantă, care oferă o atmosferă senină departe de agitația orașului, și aduceți repulsiv pentru insecte dacă veniți vara.",
+            "en": "Escape to this lush river island offering a serene atmosphere away from the city bustle, and bring insect repellent if you are visiting during the warm summer months."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt an den erstaunlichen Les Choux-Türmen und führt durch den grünen Parc de la Brèche. Fahren Sie gegen Mittag zum Rathaus und genießen Sie die Brise am Lac de Créteil. Am Nachmittag radeln Sie zur historischen Église Saint-Christophe und beenden den Tag mit einer ruhigen Abendflucht auf der Île de la Guyère.",
+        "hu": "Kerékpáros utazása a lenyűgöző Les Choux tornyoknál kezdődik, áthaladva a Parc de la Brèche zöld folyosóján. Délben tekerjen a városháza felé, és élvezze a szelet a hatalmas Lac de Créteil partján. Délután folytassa útját a történelmi Église Saint-Christophe-hoz, és zárja a napot a nyugodt Île de la Guyère szigeten.",
+        "ro": "Călătoria pe bicicletă începe la uimitoarele turnuri Les Choux, trecând prin coridorul verde Parc de la Brèche. La prânz, pedalați spre Primărie și bucurați-vă de briza lacului Créteil. După-amiaza continuă spre istorica Biserică Saint-Christophe, încheindu-se cu o evadare senină de seară pe Insula Guyère.",
+        "en": "Your cycling journey starts at the astonishing Les Choux towers, cruising through the green corridor of Parc de la Brèche. Around noon, pedal towards the Hôtel de Ville and enjoy a breezy ride alongside the massive Lac de Créteil. Your afternoon continues to the historic Église Saint-Christophe, concluding with a serene evening escape on Île de la Guyère."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:31",
+      "total_km": 18.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Justizpalast",
+            "hu": "Igazságügyi Palota",
+            "ro": "Palatul de Justiție",
+            "en": "Palace of Justice"
+          },
+          "coords": [
+            2.345051,
+            48.855722
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die großartige Architektur dieses historischen Gerichtsgebäudes auf der Île de la Cité und stellen Sie sich auf strenge Sicherheitskontrollen ein.",
+            "hu": "Csodálja meg ennek a történelmi bírósági épületnek a grandiózus építészetét az Île de la Cité-n, és készüljön fel a szigorú biztonsági ellenőrzésekre a belépésnél.",
+            "ro": "Minunați-vă de arhitectura grandioasă a acestui tribunal istoric situat pe Île de la Cité și pregătiți-vă pentru controale stricte de securitate la intrare.",
+            "en": "Marvel at the grand architecture of this historic courthouse situated on the Île de la Cité, and prepare for strict security checks if you plan to view the interiors."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Notre-Dame",
+            "hu": "Notre-Dame Katedrális",
+            "ro": "Catedrala Notre-Dame",
+            "en": "Notre-Dame Cathedral"
+          },
+          "coords": [
+            2.3498,
+            48.853
+          ],
+          "category": "religious",
+          "arrive_at": "09:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erleben Sie die gotische Majestät und die laufende Restaurierung dieser weltberühmten Kathedrale, und informieren Sie sich online über die zugänglichen Bereiche.",
+            "hu": "Legyen tanúja ennek a világhírű katedrálisnak a gótikus fenségének és folyamatban lévő restaurálásának, és ellenőrizze a hivatalos weboldalt a látogatható zónákért.",
+            "ro": "Fiți martorii măreției gotice și ai restaurării continue a acestei catedrale celebre și verificați site-ul oficial pentru cele mai noi actualizări despre acces.",
+            "en": "Witness the enduring gothic majesty and ongoing restoration of this world-famous cathedral, and check the official website for the latest updates on public access zones."
+          }
+        },
+        {
+          "name": {
+            "de": "Ufer der Marne",
+            "hu": "A Marne partja",
+            "ro": "Malurile râului Marne",
+            "en": "Banks of the Marne"
+          },
+          "coords": [
+            2.429137,
+            48.815499
+          ],
+          "category": "natural",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 11.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der malerischen Ufer der Marne vorbei an historischen Guinguettes, und tragen Sie bequeme Schuhe, um die ausgedehnten Promenaden zu genießen.",
+            "hu": "Sétáljon a Marne folyó festői partján történelmi guinguette-ek mellett, és viseljen kényelmes sétacipőt, hogy teljes mértékben élvezhesse a hosszan elnyúló sétányokat.",
+            "ro": "Plimbați-vă pe malurile pitorești ale râului Marne trecând pe lângă guinguettes istorice și purtați pantofi confortabili pentru a vă bucura de promenadele lungi.",
+            "en": "Stroll along the scenic banks of the Marne river passing historic guinguettes, and wear comfortable walking shoes to fully enjoy the extensive riverside promenades."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Choux de Créteil",
+            "hu": "Les Choux de Créteil",
+            "ro": "Les Choux de Créteil",
+            "en": "Les Choux de Créteil"
+          },
+          "coords": [
+            2.445585,
+            48.784695
+          ],
+          "category": "historical",
+          "arrive_at": "12:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Fotografieren Sie diese ikonischen, kohlkopfförmigen Wohntürme, die 1974 von Gérard Grandval entworfen wurden, und bleiben Sie dabei auf den öffentlichen Wegen.",
+            "hu": "Fényképezze le ezeket a Gérard Grandval által 1974-ben tervezett, ikonikus káposzta alakú lakótornyokat, de maradjon a nyilvános utakon a lakók magánéletének tiszteletben tartása érdekében.",
+            "ro": "Fotografiați aceste turnuri rezidențiale în formă de varză proiectate de Gérard Grandval în 1974, asigurându-vă că rămâneți pe căile publice pentru a respecta intimitatea.",
+            "en": "Photograph these iconic cabbage-shaped residential towers designed by Gérard Grandval in 1974, ensuring you stay on public paths to respect the residents' privacy."
+          }
+        },
+        {
+          "name": {
+            "de": "See von Créteil",
+            "hu": "Créteil-tó",
+            "ro": "Lacul Créteil",
+            "en": "Lake Créteil"
+          },
+          "coords": [
+            2.45081,
+            48.7767
+          ],
+          "category": "natural",
+          "arrive_at": "14:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie um diesen riesigen künstlichen See, der einen ehemaligen Sandsteinbruch in ein Naturparadies verwandelte, und mieten Sie ein Tretboot am Westufer.",
+            "hu": "Sétáljon körbe ezen a hatalmas mesterséges tavon, amely egykori homokbányából lett a biodiverzitás menedéke, és béreljen vízibiciklit a nyugati part közelében.",
+            "ro": "Plimbați-vă în jurul acestui lac artificial masiv care a transformat o fostă carieră de nisip într-un refugiu al biodiversității și închiriați o hidrobicicletă.",
+            "en": "Walk around this massive artificial lake which transformed a former sand quarry into a biodiversity haven, and rent a pedal boat near the western shore."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Christophorus Kirche",
+            "hu": "Szent Kristóf Templom",
+            "ro": "Biserica Sfântul Cristofor",
+            "en": "Saint Christopher's Church"
+          },
+          "coords": [
+            2.461323,
+            48.79421
+          ],
+          "category": "religious",
+          "arrive_at": "15:21",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese alte Kirche mit ihrem beeindruckenden Glockenturm aus dem 11. Jahrhundert und kleiden Sie sich angemessen, um das ruhige Heiligtum zu betreten.",
+            "hu": "Fedezze fel ezt az ősi templomot, amelynek lenyűgöző 11. századi harangtornya van, és öltözzön szerényen, hogy beléphessen ebbe a békés, meghitt szentélybe.",
+            "ro": "Descoperiți această biserică veche cu un turn clopotniță impresionant din secolul al XI-lea și vitralii superbe, îmbrăcându-vă modest pentru a intra în sanctuarul liniștit.",
+            "en": "Discover this ancient church featuring an impressive 11th-century bell tower and beautiful stained glass, and dress modestly to enter the quiet sanctuary inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie im Herzen von Paris mit der Majestät des Justizpalastes und Notre-Dame. Fahren Sie in die östlichen Vororte für einen malerischen Mittagsspaziergang an den Ufern der Marne. Der Nachmittag führt zur faszinierenden Stadtlandschaft von Créteils Les Choux und dem See, gekrönt von einem ruhigen Abendbesuch der mittelalterlichen Église Saint-Christophe.",
+        "hu": "Kezdje Párizs szívében, a Palais de Justice és a Notre-Dame fenségének megtekintésével. Hajtson kelet felé, hogy délben egy festői sétát tegyen a Marne partján. Délután Créteil, a Les Choux és a tó lenyűgöző városi táját fedezheti fel, végül este egy békés látogatással zárja a napot a középkori Église Saint-Christophe-nál.",
+        "ro": "Începeți în inima Parisului asistând la măreția Palais de Justice și Notre-Dame. Conduceți spre suburbiile estice pentru o plimbare pitorească la prânz de-a lungul Marne. După-amiaza trece la peisajul urban fascinant din Créteil, la Les Choux și lac, terminând cu o vizită liniștită de seară la biserica medievală Saint-Christophe.",
+        "en": "Begin in the heart of Paris witnessing the majesty of the Palais de Justice and Notre-Dame. Drive out towards the eastern suburbs for a midday scenic stroll along the Bords de la Marne. The afternoon shifts to the fascinating urban landscape of Créteil's Les Choux and the lake, finishing with a peaceful evening visit to the medieval Église Saint-Christophe."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "trebes",
+  "anchor": {
+    "name": "Trèbes",
+    "coords": [
+      2.4414,
+      43.2097
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:14",
+      "total_km": 4.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Trèbes",
+            "hu": "Trèbes Városháza",
+            "ro": "Primăria Trèbes",
+            "en": "Trèbes Town Hall"
+          },
+          "coords": [
+            2.443105,
+            43.209388
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses charmanten Rathauses, dem Zentrum des städtischen Lebens in Trèbes, und spazieren Sie anschließend über den Platz, um das lokale Flair zu genießen.",
+            "hu": "Csodálja meg a varázslatos városháza építészetét, amely Trèbes központi magja, majd sétáljon egyet a téren, hogy magába szívja a helyi hangulatot.",
+            "ro": "Admirați arhitectura fermecătoare a primăriei, centrul vieții din Trèbes, și faceți apoi o plimbare prin piață pentru a simți atmosfera locală liniștită.",
+            "en": "Admire the architecture of this charming town hall, the administrative heart of Trèbes, and take a moment to stroll the adjacent square to soak in the local atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Trèbes",
+            "hu": "Trèbes Kikötő",
+            "ro": "Portul Trèbes",
+            "en": "Port of Trèbes"
+          },
+          "coords": [
+            2.441505,
+            43.210012
+          ],
+          "category": "recreational",
+          "arrive_at": "09:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Der malerische Hafen von Trèbes am Ufer der Aude lädt mit seinen vielen Booten und gemütlichen Ufercafés zu einer erholsamen Pause bei einem Glas Wein ein.",
+            "hu": "A festői kikötő az Aude folyó partján, a hajókkal és a hangulatos parti kávézókkal tökéletes helyszínt biztosít egy pihentető szünethez és egy pohár borhoz.",
+            "ro": "Portul pitoresc din Trèbes, cu bărcile sale și cafenelele relaxante de pe mal, este locul ideal pentru o pauză odihnitoare însoțită de un pahar de vin local.",
+            "en": "The picturesque port of Trèbes, bustling with boats and lined with cozy waterfront cafes, provides the perfect backdrop for a relaxing break with a glass of wine."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Étienne",
+            "hu": "Saint-Étienne templom",
+            "ro": "Biserica Saint-Étienne",
+            "en": "Saint-Étienne Church"
+          },
+          "coords": [
+            2.441206,
+            43.210449
+          ],
+          "category": "religious",
+          "arrive_at": "10:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckenden Fresken dieser historischen Kirche und achten Sie besonders auf die faszinierenden Holzschnitzereien, die das Innere schmücken.",
+            "hu": "Fedezze fel ennek a történelmi templomnak a lenyűgöző freskóit, és fordítson különös figyelmet a belső teret díszítő, lenyűgöző fa faragásokra.",
+            "ro": "Descoperiți frescele impresionante ale acestei biserici istorice și acordați o atenție deosebită sculpturilor fascinante din lemn care îi împodobesc interiorul.",
+            "en": "Discover the impressive frescoes within this historic church, paying special attention to the fascinating wood carvings that beautifully decorate its quiet interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Sainte-Cécile de Berriac",
+            "hu": "Sainte-Cécile templom",
+            "ro": "Biserica Sainte-Cécile",
+            "en": "Sainte-Cécile Church"
+          },
+          "coords": [
+            2.413331,
+            43.217597
+          ],
+          "category": "religious",
+          "arrive_at": "12:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieser kleinen Landkirche, die einen authentischen Einblick in das spirituelle Erbe der südfranzösischen Dörfer bietet.",
+            "hu": "Élvezze e kis vidéki templom békés atmoszféráját, amely hiteles bepillantást enged a dél-franciaországi falvak gazdag spirituális örökségébe.",
+            "ro": "Bucurați-vă de atmosfera pașnică a acestei mici biserici rurale, care oferă o perspectivă autentică asupra patrimoniului spiritual al satelor din sudul Franței.",
+            "en": "Enjoy the peaceful atmosphere of this small rural church, which offers an authentic glimpse into the spiritual heritage and quiet life of southern French villages."
+          }
+        },
+        {
+          "name": {
+            "de": "Canal du Midi",
+            "hu": "Canal du Midi",
+            "ro": "Canal du Midi",
+            "en": "Canal du Midi"
+          },
+          "coords": [
+            2.410759,
+            43.238724
+          ],
+          "category": "historical",
+          "arrive_at": "13:24",
+          "stay_min": 110,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Dieses Meisterwerk der Ingenieurskunst gehört zum UNESCO-Welterbe und bietet schattige Pfade unter Platanen, ideal für einen ausgedehnten, entspannten Nachmittagsspaziergang.",
+            "hu": "Ez a mérnöki remekmű az UNESCO világörökség része, amelynek platánfákkal árnyékolt ösvényei ideálisak egy hosszú, pihentető délutáni sétához a vízparton.",
+            "ro": "Această capodoperă inginerească inclusă în patrimoniul UNESCO oferă poteci umbrite de platani, ideale pentru o plimbare lungă și relaxantă pe marginea apei.",
+            "en": "This UNESCO World Heritage engineering masterpiece features shaded paths under plane trees, making it absolutely ideal for a long, relaxed afternoon stroll by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen von Trèbes am Rathaus, bevor Sie das lebhafte Treiben am Hafen beobachten. Gegen Mittag können Sie die reiche Geschichte der Kirche Saint-Étienne in der Altstadt erkunden. Der Nachmittag führt Sie aus der Stadt hinaus in Richtung Berriac, wo idyllische Ruhe auf Sie wartet. Den krönenden Abschluss bildet ein magischer Spaziergang entlang des historischen Canal du Midi, wo Sie unter Platanen den Abend entspannt ausklingen lassen können.",
+        "hu": "Kezdje a napot Trèbes szívében a városházánál, majd figyelje meg a pezsgő életet a kikötőben. Délben felfedezheti az óvárosban található Saint-Étienne templom gazdag történelmét. A délután kivezeti a városból Berriac felé, ahol idillikus nyugalom várja. A nap koronája egy varázslatos séta a történelmi Canal du Midi mentén, ahol a platánfák alatt pihentetően zárhatja az estét.",
+        "ro": "Începeți-vă ziua în inima orașului Trèbes la primărie, înainte de a observa forfota plină de viață din port. La prânz, puteți explora istoria bogată a bisericii Saint-Étienne din orașul vechi. După-amiaza vă poartă în afara orașului spre Berriac, unde vă așteaptă o liniște idilică. Punctul culminant este o plimbare magică de-a lungul istoricului Canal du Midi, încheind seara sub platani.",
+        "en": "Start your day in the heart of Trèbes at the town hall, before watching the lively hustle and bustle at the port. Around midday, explore the rich history of the Saint-Étienne Church in the old town. The afternoon takes you out of the city towards Berriac, where idyllic peace awaits. The crowning finale is a magical walk along the historic Canal du Midi, ending the evening perfectly under the plane trees."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:18",
+      "total_km": 7.55,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafen von Trèbes",
+            "hu": "Trèbes Kikötő",
+            "ro": "Portul Trèbes",
+            "en": "Port of Trèbes"
+          },
+          "coords": [
+            2.441505,
+            43.210012
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Der malerische Hafen von Trèbes am Ufer der Aude lädt mit seinen vielen Booten und gemütlichen Ufercafés zu einer erholsamen Pause bei einem Glas Wein ein.",
+            "hu": "A festői kikötő az Aude folyó partján, a hajókkal és a hangulatos parti kávézókkal tökéletes helyszínt biztosít egy pihentető szünethez és egy pohár borhoz.",
+            "ro": "Portul pitoresc din Trèbes, cu bărcile sale și cafenelele relaxante de pe mal, este locul ideal pentru o pauză odihnitoare însoțită de un pahar de vin local.",
+            "en": "The picturesque port of Trèbes, bustling with boats and lined with cozy waterfront cafes, provides the perfect backdrop for a relaxing break with a glass of wine."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Étienne",
+            "hu": "Saint-Étienne templom",
+            "ro": "Biserica Saint-Étienne",
+            "en": "Saint-Étienne Church"
+          },
+          "coords": [
+            2.441206,
+            43.210449
+          ],
+          "category": "religious",
+          "arrive_at": "10:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckenden Fresken dieser historischen Kirche und achten Sie besonders auf die faszinierenden Holzschnitzereien, die das Innere schmücken.",
+            "hu": "Fedezze fel ennek a történelmi templomnak a lenyűgöző freskóit, és fordítson különös figyelmet a belső teret díszítő, lenyűgöző fa faragásokra.",
+            "ro": "Descoperiți frescele impresionante ale acestei biserici istorice și acordați o atenție deosebită sculpturilor fascinante din lemn care îi împodobesc interiorul.",
+            "en": "Discover the impressive frescoes within this historic church, paying special attention to the fascinating wood carvings that beautifully decorate its quiet interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Bouilhonnac",
+            "hu": "Bouilhonnac kastély",
+            "ro": "Castelul Bouilhonnac",
+            "en": "Château de Bouilhonnac"
+          },
+          "coords": [
+            2.440019,
+            43.232208
+          ],
+          "category": "castle",
+          "arrive_at": "11:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Ruinen und die Geschichte dieses majestätischen Schlosses, dessen Lage einen herrlichen Panoramablick über die umgebende Weinlandschaft bietet.",
+            "hu": "Fedezze fel e fenséges kastély lenyűgöző romjait és történelmét, amelynek elhelyezkedése csodálatos panorámát kínál a környező festői borvidékre.",
+            "ro": "Explorați ruinele fascinante și istoria acestui castel maiestuos, a cărui locație oferă o vedere panoramică magnifică asupra peisajului viticol înconjurător.",
+            "en": "Explore the fascinating ruins and rich history of this majestic castle, whose elevated location provides a magnificent panoramic view across the surrounding vineyards."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Julien",
+            "hu": "Saint-Julien templom",
+            "ro": "Biserica Saint-Julien",
+            "en": "Saint-Julien Church"
+          },
+          "coords": [
+            2.420056,
+            43.230891
+          ],
+          "category": "religious",
+          "arrive_at": "12:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Diese alte Kirche besticht durch ihre robuste Steinarchitektur und ist ein wunderbarer Ort der Stille, an dem man abseits der Touristenpfade tief durchatmen kann.",
+            "hu": "Ez a régi templom robusztus kőépítészetével hódít, és egy csodálatosan csendes hely, ahol a turistautaktól távol igazán megpihenhet és fellélegezhet.",
+            "ro": "Această biserică veche impresionează prin arhitectura sa robustă din piatră, fiind un loc minunat de liniște unde puteți respira profund departe de traseele turistice.",
+            "en": "This ancient church impresses with its robust stone architecture, serving as a wonderfully quiet spot where you can take a deep breath far from the tourist trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Canal du Midi",
+            "hu": "Canal du Midi",
+            "ro": "Canal du Midi",
+            "en": "Canal du Midi"
+          },
+          "coords": [
+            2.410759,
+            43.238724
+          ],
+          "category": "historical",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Dieses Meisterwerk der Ingenieurskunst gehört zum UNESCO-Welterbe und bietet schattige Pfade unter Platanen, ideal für einen ausgedehnten, entspannten Nachmittagsspaziergang.",
+            "hu": "Ez a mérnöki remekmű az UNESCO világörökség része, amelynek platánfákkal árnyékolt ösvényei ideálisak egy hosszú, pihentető délutáni sétához a vízparton.",
+            "ro": "Această capodoperă inginerească inclusă în patrimoniul UNESCO oferă poteci umbrite de platani, ideale pentru o plimbare lungă și relaxantă pe marginea apei.",
+            "en": "This UNESCO World Heritage engineering masterpiece features shaded paths under plane trees, making it absolutely ideal for a long, relaxed afternoon stroll by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Sainte-Cécile de Berriac",
+            "hu": "Sainte-Cécile templom",
+            "ro": "Biserica Sainte-Cécile",
+            "en": "Sainte-Cécile Church"
+          },
+          "coords": [
+            2.413331,
+            43.217597
+          ],
+          "category": "religious",
+          "arrive_at": "15:08",
+          "stay_min": 70,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieser kleinen Landkirche, die einen authentischen Einblick in das spirituelle Erbe der südfranzösischen Dörfer bietet.",
+            "hu": "Élvezze e kis vidéki templom békés atmoszféráját, amely hiteles bepillantást enged a dél-franciaországi falvak gazdag spirituális örökségébe.",
+            "ro": "Bucurați-vă de atmosfera pașnică a acestei mici biserici rurale, care oferă o perspectivă autentică asupra patrimoniului spiritual al satelor din sudul Franței.",
+            "en": "Enjoy the peaceful atmosphere of this small rural church, which offers an authentic glimpse into the spiritual heritage and quiet life of southern French villages."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich aufs Rad und starten Sie am malerischen Hafen von Trèbes, bevor Sie die nahegelegene Kirche bewundern. Mittags radeln Sie in nördlicher Richtung zum beeindruckenden Château de Bouilhonnac. Der Nachmittag ist geprägt von der historischen Kirche Saint-Julien und einer entspannten Fahrt entlang des weltberühmten Canal du Midi. Zum Abend hin führt die Route Sie nach Berriac, wo Sie die ruhige Landluft genießen und den Tag ausklingen lassen.",
+        "hu": "Pattanjon kerékpárra, és induljon a festői Trèbes kikötőjéből, mielőtt megcsodálná a közeli templomot. Délben tekerjen észak felé a lenyűgöző Château de Bouilhonnac kastélyhoz. A délutánt a történelmi Saint-Julien templom és a világhírű Canal du Midi menti nyugodt tekerés határozza meg. Estefelé az útvonal Berriac felé vezet, ahol élvezheti a vidéki levegőt és lezárhatja a napot.",
+        "ro": "Urcați-vă pe bicicletă și începeți de la portul pitoresc din Trèbes, înainte de a admira biserica din apropiere. La prânz, pedalați spre nord către impresionantul Château de Bouilhonnac. După-amiaza este marcată de biserica istorică Saint-Julien și de o plimbare relaxantă de-a lungul celebrului Canal du Midi. Spre seară, traseul vă duce la Berriac, unde vă puteți bucura de aerul rural liniștit.",
+        "en": "Jump on your bike and start at the picturesque port of Trèbes, before admiring the nearby ancient church. At midday, cycle north to the impressive Château de Bouilhonnac. The afternoon is characterized by the historic Saint-Julien church and a relaxing ride along the world-famous Canal du Midi. Towards evening, the route takes you down to Berriac to enjoy the peaceful country air."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:36",
+      "total_km": 16.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus Trèbes",
+            "hu": "Trèbes Városháza",
+            "ro": "Primăria Trèbes",
+            "en": "Trèbes Town Hall"
+          },
+          "coords": [
+            2.443105,
+            43.209388
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses charmanten Rathauses, dem Zentrum des städtischen Lebens in Trèbes, und spazieren Sie anschließend über den Platz, um das lokale Flair zu genießen.",
+            "hu": "Csodálja meg a varázslatos városháza építészetét, amely Trèbes központi magja, majd sétáljon egyet a téren, hogy magába szívja a helyi hangulatot.",
+            "ro": "Admirați arhitectura fermecătoare a primăriei, centrul vieții din Trèbes, și faceți apoi o plimbare prin piață pentru a simți atmosfera locală liniștită.",
+            "en": "Admire the architecture of this charming town hall, the administrative heart of Trèbes, and take a moment to stroll the adjacent square to soak in the local atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Marcel",
+            "hu": "Saint-Marcel templom",
+            "ro": "Biserica Saint-Marcel",
+            "en": "Saint-Marcel Church"
+          },
+          "coords": [
+            2.454781,
+            43.187555
+          ],
+          "category": "religious",
+          "arrive_at": "09:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese idyllisch gelegene Kirche im Süden der Stadt, die für ihre schlichte, aber bewegende mittelalterliche Baukunst in der Region bekannt ist.",
+            "hu": "Látogasson el a város déli részén található, idillikus környezetben fekvő templomba, amely a régióban egyszerű, de megható középkori építészetéről híres.",
+            "ro": "Vizitați această biserică situată idilic în sudul orașului, cunoscută în regiune pentru arhitectura sa medievală simplă, dar extrem de emoționantă.",
+            "en": "Visit this idyllically located church in the south of the city, widely known throughout the region for its simple yet deeply moving medieval architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Martin",
+            "hu": "Saint-Martin templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            2.471793,
+            43.216099
+          ],
+          "category": "religious",
+          "arrive_at": "10:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Die charmante Kirche Saint-Martin umgibt eine Aura der Besinnlichkeit und ist am besten am Vormittag zu besuchen, wenn das Licht wunderschön durch die Fenster fällt.",
+            "hu": "A bájos Saint-Martin templomot a békesség aurája veszi körül, és érdemes délelőtt meglátogatni, amikor a napfény gyönyörűen szűrődik be az ablakokon keresztül.",
+            "ro": "Biserica fermecătoare Saint-Martin este înconjurată de o aură de contemplare și cel mai bine este să o vizitați dimineața, când lumina cade frumos prin ferestre.",
+            "en": "The charming Saint-Martin church is surrounded by an aura of contemplation and is best visited in the morning when the sunlight filters beautifully through its windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Bouilhonnac",
+            "hu": "Bouilhonnac kastély",
+            "ro": "Castelul Bouilhonnac",
+            "en": "Château de Bouilhonnac"
+          },
+          "coords": [
+            2.440019,
+            43.232208
+          ],
+          "category": "castle",
+          "arrive_at": "11:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Ruinen und die Geschichte dieses majestätischen Schlosses, dessen Lage einen herrlichen Panoramablick über die umgebende Weinlandschaft bietet.",
+            "hu": "Fedezze fel e fenséges kastély lenyűgöző romjait és történelmét, amelynek elhelyezkedése csodálatos panorámát kínál a környező festői borvidékre.",
+            "ro": "Explorați ruinele fascinante și istoria acestui castel maiestuos, a cărui locație oferă o vedere panoramică magnifică asupra peisajului viticol înconjurător.",
+            "en": "Explore the fascinating ruins and rich history of this majestic castle, whose elevated location provides a magnificent panoramic view across the surrounding vineyards."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Julien",
+            "hu": "Saint-Julien templom",
+            "ro": "Biserica Saint-Julien",
+            "en": "Saint-Julien Church"
+          },
+          "coords": [
+            2.420056,
+            43.230891
+          ],
+          "category": "religious",
+          "arrive_at": "12:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Diese alte Kirche besticht durch ihre robuste Steinarchitektur und ist ein wunderbarer Ort der Stille, an dem man abseits der Touristenpfade tief durchatmen kann.",
+            "hu": "Ez a régi templom robusztus kőépítészetével hódít, és egy csodálatosan csendes hely, ahol a turistautaktól távol igazán megpihenhet és fellélegezhet.",
+            "ro": "Această biserică veche impresionează prin arhitectura sa robustă din piatră, fiind un loc minunat de liniște unde puteți respira profund departe de traseele turistice.",
+            "en": "This ancient church impresses with its robust stone architecture, serving as a wonderfully quiet spot where you can take a deep breath far from the tourist trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Canal du Midi",
+            "hu": "Canal du Midi",
+            "ro": "Canal du Midi",
+            "en": "Canal du Midi"
+          },
+          "coords": [
+            2.410759,
+            43.238724
+          ],
+          "category": "historical",
+          "arrive_at": "13:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Dieses Meisterwerk der Ingenieurskunst gehört zum UNESCO-Welterbe und bietet schattige Pfade unter Platanen, ideal für einen ausgedehnten, entspannten Nachmittagsspaziergang.",
+            "hu": "Ez a mérnöki remekmű az UNESCO világörökség része, amelynek platánfákkal árnyékolt ösvényei ideálisak egy hosszú, pihentető délutáni sétához a vízparton.",
+            "ro": "Această capodoperă inginerească inclusă în patrimoniul UNESCO oferă poteci umbrite de platani, ideale pentru o plimbare lungă și relaxantă pe marginea apei.",
+            "en": "This UNESCO World Heritage engineering masterpiece features shaded paths under plane trees, making it absolutely ideal for a long, relaxed afternoon stroll by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Trèbes",
+            "hu": "Trèbes Kikötő",
+            "ro": "Portul Trèbes",
+            "en": "Port of Trèbes"
+          },
+          "coords": [
+            2.441505,
+            43.210012
+          ],
+          "category": "recreational",
+          "arrive_at": "14:51",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Der malerische Hafen von Trèbes am Ufer der Aude lädt mit seinen vielen Booten und gemütlichen Ufercafés zu einer erholsamen Pause bei einem Glas Wein ein.",
+            "hu": "A festői kikötő az Aude folyó partján, a hajókkal és a hangulatos parti kávézókkal tökéletes helyszínt biztosít egy pihentető szünethez és egy pohár borhoz.",
+            "ro": "Portul pitoresc din Trèbes, cu bărcile sale și cafenelele relaxante de pe mal, este locul ideal pentru o pauză odihnitoare însoțită de un pahar de vin local.",
+            "en": "The picturesque port of Trèbes, bustling with boats and lined with cozy waterfront cafes, provides the perfect backdrop for a relaxing break with a glass of wine."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine komfortable Autofahrt beginnt am Rathaus von Trèbes und führt Sie zu den charmanten Kirchen Saint-Marcel und Saint-Martin im Umland. Mittags erreichen Sie das majestätische Château de Bouilhonnac, wo die Zeit stillzustehen scheint. Der Nachmittag kombiniert die archaische Kirche Saint-Julien mit der ingenieurtechnischen Brillanz des Canal du Midi. Beenden Sie diesen wunderbaren Ausflug am Abend am Hafen von Trèbes bei einem exzellenten lokalen Abendessen.",
+        "hu": "A kényelmes autós utazás a városházától indul, és elviszi a környék bájos Saint-Marcel és Saint-Martin templomaihoz. Délben megérkezik a fenséges Château de Bouilhonnac kastélyhoz, ahol mintha megállt volna az idő. A délután az archaikus Saint-Julien templomot és a Canal du Midi zsenialitását ötvözi. Zárja ezt a csodálatos kirándulást este a trébesi kikötőben egy kiváló helyi vacsorával.",
+        "ro": "O călătorie confortabilă cu mașina începe la primăria din Trèbes și vă duce la fermecătoarele biserici Saint-Marcel și Saint-Martin. La prânz, ajungeți la maiestuosul Château de Bouilhonnac, unde timpul pare să se oprească. După-amiaza combină biserica arhaică Saint-Julien cu strălucirea inginerească a Canal du Midi. Încheiați această excursie minunată seara, în portul Trèbes, cu o cină locală excelentă.",
+        "en": "A comfortable car journey begins at the Trèbes town hall and takes you to the charming rural churches of Saint-Marcel and Saint-Martin. At midday, you reach the majestic Château de Bouilhonnac, where time seems to stand still. The afternoon seamlessly combines the archaic Saint-Julien church with the engineering brilliance of the Canal du Midi. End this wonderful trip back at the Port of Trèbes with an excellent local dinner."
+      }
+    }
+  }
+}

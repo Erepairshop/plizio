@@ -1,0 +1,543 @@
+{
+  "city_id": "italy-quercianella-cities-v2",
+  "anchor": {
+    "name": "Quercianella",
+    "coords": [
+      10.36751,
+      43.45887
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:38",
+      "total_km": 1.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cappella della Sacra Famiglia",
+            "hu": "Cappella della Sacra Famiglia",
+            "ro": "Cappella della Sacra Famiglia",
+            "en": "Cappella della Sacra Famiglia"
+          },
+          "coords": [
+            10.374388,
+            43.454511
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese charmante Küstenkapelle mit ihren ruhigen Momenten, aber prüfen Sie die örtlichen Messezeiten vor einem Besuch im Inneren.",
+            "hu": "Csodálja meg ezt a hangulatos tengerparti kápolnát, amely nyugodt pillanatokat kínál, de a csendes belső látogatás előtt ellenőrizze a miséket.",
+            "ro": "Admirați această capelă de coastă fermecătoare ce oferă momente senine, dar verificați programul slujbelor înainte de a planifica o vizită.",
+            "en": "Admire this charming coastal chapel offering serene moments, but be sure to check local mass times before planning a quiet interior visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia della piega",
+            "hu": "Spiaggia della piega",
+            "ro": "Spiaggia della piega",
+            "en": "Spiaggia della piega"
+          },
+          "coords": [
+            10.373276,
+            43.452838
+          ],
+          "category": "recreational",
+          "arrive_at": "09:53",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen, versteckten Strand mit kristallklarem Wasser, und bringen Sie feste Wasserschuhe für die Kieselsteine mit.",
+            "hu": "Pihenjen ezen a kristálytiszta vizéről ismert rejtett strandon, ezért hozzon magával erős vizicipőt a kavicsos partszakasz kényelmes bejárásához.",
+            "ro": "Relaxați-vă pe această plajă ascunsă pitorească cu ape cristaline, așa că aduceți încălțăminte de apă rezistentă pentru a merge pe pietriș.",
+            "en": "Relax on this picturesque hidden beach known for crystal waters, so bring sturdy water shoes to comfortably navigate the pebbly shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala bianca Thalasso & Spa",
+            "hu": "Cala bianca Thalasso & Spa",
+            "ro": "Cala bianca Thalasso & Spa",
+            "en": "Cala bianca Thalasso & Spa"
+          },
+          "coords": [
+            10.365156,
+            43.458412
+          ],
+          "category": "recreational",
+          "arrive_at": "10:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Beleben Sie Ihre Sinne in diesem luxuriösen Wellness-Retreat mit Thalassotherapie und buchen Sie Ihre entspannende Spa-Behandlung im Voraus.",
+            "hu": "Frissítse fel érzékeit ebben a thalassoterápiát kínáló, luxus wellness-központban, és jó előre foglalja le a pihentető fürdőkezelést.",
+            "ro": "Revigorați-vă simțurile la această stațiune de wellness de lux cu talasoterapie și rezervați-vă din timp tratamentul spa de relaxare.",
+            "en": "Rejuvenate your senses at this luxurious wellness retreat featuring thalassotherapy, and book your relaxing spa treatment well in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Arenile di Quercianella",
+            "hu": "Arenile di Quercianella",
+            "ro": "Arenile di Quercianella",
+            "en": "Arenile di Quercianella"
+          },
+          "coords": [
+            10.364088,
+            43.458843
+          ],
+          "category": "recreational",
+          "arrive_at": "11:34",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie familienfreundliches Schwimmen am Hauptsandstrand des Dorfes, und kommen Sie im Sommer früh, um sich einen guten Platz zu sichern.",
+            "hu": "Élvezze a családbarát fürdőzést a falu fő homokos partszakaszán, és érkezzen korán, hogy biztosítsa a legjobb helyet a nyári csúcsidőszakban.",
+            "ro": "Bucurați-vă de înot la principala fâșie de nisip a satului, potrivită pentru familii, și ajungeți devreme pentru a prinde un loc bun vara.",
+            "en": "Enjoy family-friendly swimming at the main sandy stretch of the village, arriving early to secure a prime spot during the peak summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Lido del Rogiolo",
+            "hu": "Bagni Lido del Rogiolo",
+            "ro": "Bagni Lido del Rogiolo",
+            "en": "Bagni Lido del Rogiolo"
+          },
+          "coords": [
+            10.360659,
+            43.461142
+          ],
+          "category": "recreational",
+          "arrive_at": "12:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erleben Sie die klassische italienische Strandkultur in diesem organisierten Lido, wo die Miete einer Sonnenliege einen bequemen Tag garantiert.",
+            "hu": "Tapasztalja meg a klasszikus olasz strandkultúrát ezen a jól felszerelt strandon, ahol a napágy bérlése garantálja a kényelmes tengerparti napot.",
+            "ro": "Experimentați cultura clasică a plajelor italiene la acest lido organizat, unde închirierea unui șezlong garantează o zi confortabilă la mare.",
+            "en": "Experience classic Italian beach culture at this organized lido with amenities, where renting a sunbed guarantees a comfortable day by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Baia del Rogiolo",
+            "hu": "Baia del Rogiolo",
+            "ro": "Baia del Rogiolo",
+            "en": "Baia del Rogiolo"
+          },
+          "coords": [
+            10.359313,
+            43.460832
+          ],
+          "category": "landmark",
+          "arrive_at": "13:13",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese malerische Bucht, die hervorragende Schnorchelmöglichkeiten zwischen den Felsen bietet, also vergessen Sie Ihre Ausrüstung nicht.",
+            "hu": "Fedezze fel ezt a festői öblöt, amely kiváló sznorkelezési lehetőségeket kínál a sziklák között, ezért ne felejtse el bepakolni a búvárfelszerelést.",
+            "ro": "Descoperiți acest golf pitoresc ce oferă oportunități excelente de snorkeling printre stânci, deci nu uitați să vă împachetați echipamentul.",
+            "en": "Discover this scenic coastal bay offering excellent snorkeling opportunities among the rocks, so don't forget to pack your underwater gear."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der Erkundung des friedlichen südlichen Randes von Quercianella und besuchen Sie die charmante Kapelle. Entspannen Sie mittags in malerischen Küstenspas. Der Nachmittag lädt Sie ein, die lebendigen, familienfreundlichen Sandstrände zu genießen. Am Abend lassen Sie die Reise an der wunderschönen Rogiolo-Bucht ausklingen.",
+        "hu": "Kezdje a reggelt Quercianella békés déli peremének felfedezésével és a helyi kápolna meglátogatásával. Délben pihenjen a festői tengerparti fürdőkben. A délután arra csábít, hogy élvezze az élénk, családbarát homokos partokat. Ahogy leszáll az este, fejezze be utazását a gyönyörű Rogiolo-öbölben pihenve.",
+        "ro": "Începeți dimineața explorând marginea sudică liniștită a Quercianellei, vizitând fermecătoarea capelă locală. La prânz, relaxați-vă la spa-urile pitorești de coastă. După-amiaza vă invită să vă bucurați de țărmurile nisipoase pline de viață. Odată cu lăsarea serii, încheiați-vă călătoria relaxându-vă în frumosul golf Rogiolo.",
+        "en": "Start your morning exploring the peaceful southern edge of Quercianella, visiting the charming local chapel. By midday, relax at the scenic coastal spas and hidden pebble beaches. The afternoon invites you to enjoy the lively, family-friendly sandy shores. As evening falls, end your journey unwinding at the beautiful Rogiolo bay."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:03",
+      "total_km": 3.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Spiaggia dei ghiaioni",
+            "hu": "Spiaggia dei ghiaioni",
+            "ro": "Spiaggia dei ghiaioni",
+            "en": "Spiaggia dei ghiaioni"
+          },
+          "coords": [
+            10.375741,
+            43.450548
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie an diesem rauen Kiesstrand entlang, der friedliche Meerblicke bietet – perfekt für einen morgendlichen Spaziergang mit festen Schuhen.",
+            "hu": "Sétáljon végig ezen a zord kavicsos strandon, amely békés tengeri kilátást nyújt, és tökéletes egy kora reggeli sétához kényelmes cipőben.",
+            "ro": "Plimbați-vă pe această plajă cu pietriș ce oferă vederi liniștite la mare, perfectă pentru o plimbare matinală dacă purtați pantofi comozi.",
+            "en": "Stroll along this rugged gravel beach offering peaceful sea views, perfect for an early morning walk if you wear comfortable walking shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Cappella della Sacra Famiglia",
+            "hu": "Cappella della Sacra Famiglia",
+            "ro": "Cappella della Sacra Famiglia",
+            "en": "Cappella della Sacra Famiglia"
+          },
+          "coords": [
+            10.374388,
+            43.454511
+          ],
+          "category": "religious",
+          "arrive_at": "09:52",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese charmante Küstenkapelle mit ihren ruhigen Momenten, aber prüfen Sie die örtlichen Messezeiten vor einem Besuch im Inneren.",
+            "hu": "Csodálja meg ezt a hangulatos tengerparti kápolnát, amely nyugodt pillanatokat kínál, de a csendes belső látogatás előtt ellenőrizze a miséket.",
+            "ro": "Admirați această capelă de coastă fermecătoare ce oferă momente senine, dar verificați programul slujbelor înainte de a planifica o vizită.",
+            "en": "Admire this charming coastal chapel offering serene moments, but be sure to check local mass times before planning a quiet interior visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Arenile di Quercianella",
+            "hu": "Arenile di Quercianella",
+            "ro": "Arenile di Quercianella",
+            "en": "Arenile di Quercianella"
+          },
+          "coords": [
+            10.364088,
+            43.458843
+          ],
+          "category": "recreational",
+          "arrive_at": "10:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie familienfreundliches Schwimmen am Hauptsandstrand des Dorfes, und kommen Sie im Sommer früh, um sich einen guten Platz zu sichern.",
+            "hu": "Élvezze a családbarát fürdőzést a falu fő homokos partszakaszán, és érkezzen korán, hogy biztosítsa a legjobb helyet a nyári csúcsidőszakban.",
+            "ro": "Bucurați-vă de înot la principala fâșie de nisip a satului, potrivită pentru familii, și ajungeți devreme pentru a prinde un loc bun vara.",
+            "en": "Enjoy family-friendly swimming at the main sandy stretch of the village, arriving early to secure a prime spot during the peak summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Baia del Rogiolo",
+            "hu": "Baia del Rogiolo",
+            "ro": "Baia del Rogiolo",
+            "en": "Baia del Rogiolo"
+          },
+          "coords": [
+            10.359313,
+            43.460832
+          ],
+          "category": "landmark",
+          "arrive_at": "11:11",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese malerische Bucht, die hervorragende Schnorchelmöglichkeiten zwischen den Felsen bietet, also vergessen Sie Ihre Ausrüstung nicht.",
+            "hu": "Fedezze fel ezt a festői öblöt, amely kiváló sznorkelezési lehetőségeket kínál a sziklák között, ezért ne felejtse el bepakolni a búvárfelszerelést.",
+            "ro": "Descoperiți acest golf pitoresc ce oferă oportunități excelente de snorkeling printre stânci, deci nu uitați să vă împachetați echipamentul.",
+            "en": "Discover this scenic coastal bay offering excellent snorkeling opportunities among the rocks, so don't forget to pack your underwater gear."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Sonnino",
+            "hu": "Castello Sonnino",
+            "ro": "Castello Sonnino",
+            "en": "Castello Sonnino"
+          },
+          "coords": [
+            10.355826,
+            43.461992
+          ],
+          "category": "castle",
+          "arrive_at": "11:43",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese historische Küstenburg mit ihrem spektakulären Panoramablick, aber beachten Sie, dass der Innenbereich oft streng privat ist.",
+            "hu": "Csodálja meg ezt a történelmi tengerparti kastélyt, amely látványos panorámát nyújt, de vegye figyelembe, hogy a belső tér gyakran privát.",
+            "ro": "Minunați-vă de acest castel istoric de coastă cu vederi panoramice spectaculoase, deși accesul în interior este adesea strict privat.",
+            "en": "Marvel at this historic coastal castle commanding spectacular panoramic views, though be aware that interior access is often strictly private."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala del Leone",
+            "hu": "Cala del Leone",
+            "ro": "Cala del Leone",
+            "en": "Cala del Leone"
+          },
+          "coords": [
+            10.354459,
+            43.463859
+          ],
+          "category": "recreational",
+          "arrive_at": "12:45",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Wandern Sie zu dieser dramatischen Bucht, die von Klippen umschlossen ist, aber tragen Sie gute Turnschuhe für den steilen Abstieg zum Wasser.",
+            "hu": "Túrázzon le ehhez a sziklákkal körülvett drámai öbölhöz egy vadabb úszásért, de viseljen megfelelő cipőt a vízhez vezető meredek ereszkedéshez.",
+            "ro": "Coborâți spre acest golf dramatic înconjurat de stânci impresionante, dar purtați adidași adecvați pentru coborârea abruptă spre apă.",
+            "en": "Hike down to this dramatic cove enclosed by striking cliffs for a wilder swim, but wear proper sneakers for the steep descent to the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Sonnino's little Harbour",
+            "hu": "Sonnino's little Harbour",
+            "ro": "Micul port al lui Sonnino",
+            "en": "Sonnino's little Harbour"
+          },
+          "coords": [
+            10.35808,
+            43.461305
+          ],
+          "category": "landmark",
+          "arrive_at": "13:38",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fotografieren Sie den charmanten kleinen Hafen, der ursprünglich für das Anwesen des Barons gebaut wurde und die romantische maritime Essenz einfängt.",
+            "hu": "Fényképezze le a báró birtokához épült bájos kis kikötőt, amely tökéletesen megragadja a sziklás tengerpart romantikus tengerészeti esszenciáját.",
+            "ro": "Fotografiați micul port fermecător construit inițial pentru moșia baronului, care surprinde esența maritimă romantică a coastei stâncoase.",
+            "en": "Photograph the charming little harbor built originally for the baron's estate, which captures the romantic maritime essence of the rocky coast."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie durch die Morgenbrise entlang der ruhigen Kiesstrände ins Zentrum. Mittags erreichen Sie die organisierten Küstenbäder und die Hauptstrände. Am Nachmittag radeln Sie an der majestätischen Burg am Meer vorbei zu dramatischen Buchten. Ihr Abend endet wunderschön am historischen und abgelegenen Hafen des Barons.",
+        "hu": "Tekerjen át a reggeli szellőben a nyugodt kavicsos strandok mentén a falu szíve felé. A dél a jól felszerelt strandokhoz és a főbb homokos partokhoz vezet. Délután kerekezzen el a fenséges tengerparti kastély mellett a drámai öblökig. Az este gyönyörűen zárul a báró történelmi és eldugott kis kikötőjében.",
+        "ro": "Pedalați în briza dimineții de-a lungul plajelor cu pietriș spre inima satului. Prânzul vă aduce la lido-urile organizate și la principalele plaje. După-amiaza, mergeți cu bicicleta pe lângă maiestuosul castel pe malul mării pentru a descoperi golfuri dramatice. Seara se încheie la micul port istoric al baronului.",
+        "en": "Pedal through the morning breeze along the serene gravel beaches towards the village heart. Midday brings you to the organized coastal lidos and the main sandy beaches. In the afternoon, cycle past the majestic seaside castle to discover dramatic coves. Your evening concludes beautifully by the historic and secluded baron's harbor."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:50",
+      "total_km": 4.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Spiaggia dei ghiaioni",
+            "hu": "Spiaggia dei ghiaioni",
+            "ro": "Spiaggia dei ghiaioni",
+            "en": "Spiaggia dei ghiaioni"
+          },
+          "coords": [
+            10.375741,
+            43.450548
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 30,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie an diesem rauen Kiesstrand entlang, der friedliche Meerblicke bietet – perfekt für einen morgendlichen Spaziergang mit festen Schuhen.",
+            "hu": "Sétáljon végig ezen a zord kavicsos strandon, amely békés tengeri kilátást nyújt, és tökéletes egy kora reggeli sétához kényelmes cipőben.",
+            "ro": "Plimbați-vă pe această plajă cu pietriș ce oferă vederi liniștite la mare, perfectă pentru o plimbare matinală dacă purtați pantofi comozi.",
+            "en": "Stroll along this rugged gravel beach offering peaceful sea views, perfect for an early morning walk if you wear comfortable walking shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala bianca Thalasso & Spa",
+            "hu": "Cala bianca Thalasso & Spa",
+            "ro": "Cala bianca Thalasso & Spa",
+            "en": "Cala bianca Thalasso & Spa"
+          },
+          "coords": [
+            10.365156,
+            43.458412
+          ],
+          "category": "recreational",
+          "arrive_at": "09:42",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beleben Sie Ihre Sinne in diesem luxuriösen Wellness-Retreat mit Thalassotherapie und buchen Sie Ihre entspannende Spa-Behandlung im Voraus.",
+            "hu": "Frissítse fel érzékeit ebben a thalassoterápiát kínáló, luxus wellness-központban, és jó előre foglalja le a pihentető fürdőkezelést.",
+            "ro": "Revigorați-vă simțurile la această stațiune de wellness de lux cu talasoterapie și rezervați-vă din timp tratamentul spa de relaxare.",
+            "en": "Rejuvenate your senses at this luxurious wellness retreat featuring thalassotherapy, and book your relaxing spa treatment well in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Sonnino",
+            "hu": "Castello Sonnino",
+            "ro": "Castello Sonnino",
+            "en": "Castello Sonnino"
+          },
+          "coords": [
+            10.355826,
+            43.461992
+          ],
+          "category": "castle",
+          "arrive_at": "10:29",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese historische Küstenburg mit ihrem spektakulären Panoramablick, aber beachten Sie, dass der Innenbereich oft streng privat ist.",
+            "hu": "Csodálja meg ezt a történelmi tengerparti kastélyt, amely látványos panorámát nyújt, de vegye figyelembe, hogy a belső tér gyakran privát.",
+            "ro": "Minunați-vă de acest castel istoric de coastă cu vederi panoramice spectaculoase, deși accesul în interior este adesea strict privat.",
+            "en": "Marvel at this historic coastal castle commanding spectacular panoramic views, though be aware that interior access is often strictly private."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala del Leone",
+            "hu": "Cala del Leone",
+            "ro": "Cala del Leone",
+            "en": "Cala del Leone"
+          },
+          "coords": [
+            10.354459,
+            43.463859
+          ],
+          "category": "recreational",
+          "arrive_at": "11:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Wandern Sie zu dieser dramatischen Bucht, die von Klippen umschlossen ist, aber tragen Sie gute Turnschuhe für den steilen Abstieg zum Wasser.",
+            "hu": "Túrázzon le ehhez a sziklákkal körülvett drámai öbölhöz egy vadabb úszásért, de viseljen megfelelő cipőt a vízhez vezető meredek ereszkedéshez.",
+            "ro": "Coborâți spre acest golf dramatic înconjurat de stânci impresionante, dar purtați adidași adecvați pentru coborârea abruptă spre apă.",
+            "en": "Hike down to this dramatic cove enclosed by striking cliffs for a wilder swim, but wear proper sneakers for the steep descent to the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Bedrock naturista",
+            "hu": "Bedrock naturista",
+            "ro": "Bedrock naturista",
+            "en": "Bedrock naturista"
+          },
+          "coords": [
+            10.350264,
+            43.464411
+          ],
+          "category": "landmark",
+          "arrive_at": "12:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses abgelegene Felsplateau, das von Naturisten wegen der totalen Freiheit bevorzugt wird, und wahren Sie respektvollen Abstand.",
+            "hu": "Látogasson el erre a naturisták által kedvelt eldugott sziklaperemre a teljes szabadságért, tiszteletteljes távolságot tartva a természetben.",
+            "ro": "Vizitați acest raft stâncos izolat preferat de naturiști pentru libertate totală, păstrând o distanță respectuoasă și bucurându-vă de atmosferă.",
+            "en": "Visit this secluded rocky shelf favored by naturists for total freedom, maintaining a respectful distance and embracing the unspoiled atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Marematto Calignaia",
+            "hu": "Marematto Calignaia",
+            "ro": "Marematto Calignaia",
+            "en": "Marematto Calignaia"
+          },
+          "coords": [
+            10.348763,
+            43.465244
+          ],
+          "category": "recreational",
+          "arrive_at": "13:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen lebhaften Tauchplatz, der für sein kristallklares Wasser bekannt ist und ein idealer Ort für erfahrene Klippenspringer ist.",
+            "hu": "Fedezze fel ezt a kristálytiszta vizéről híres élénk szabadidős búvárhelyet, amely ideális helyszín a tapasztalt szikla- és műugrók számára.",
+            "ro": "Explorați acest loc de scufundări plin de viață, renumit pentru apele cristaline, un loc ideal pentru săritorii de pe stânci și înotătorii experimentați.",
+            "en": "Explore this lively recreational diving spot famed for crystal clear waters, making it an ideal location for experienced cliff jumpers and swimmers."
+          }
+        },
+        {
+          "name": {
+            "de": "Sassoscritto",
+            "hu": "Sassoscritto",
+            "ro": "Sassoscritto",
+            "en": "Sassoscritto"
+          },
+          "coords": [
+            10.343077,
+            43.464643
+          ],
+          "category": "landmark",
+          "arrive_at": "13:53",
+          "stay_min": 30,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese faszinierende geologische Formation mit einzigartigen Gesteinsmustern, perfekt für eine Fotopsession zum Sonnenuntergang.",
+            "hu": "Fedezze fel ezt az izgalmas tengerparti geológiai képződményt, amely egyedi sziklamintákat kínál, és tökéletes egy naplementés fotózáshoz.",
+            "ro": "Descoperiți această formațiune geologică de coastă ce oferă modele unice de roci, perfectă pentru o sesiune foto la apus pe țărmul stâncos.",
+            "en": "Discover this intriguing coastal geological formation offering unique rock patterns, perfect for a sunset photo session along the rocky shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Balcone marittimo di Poggio delle Monachine",
+            "hu": "Balcone marittimo di Poggio delle Monachine",
+            "ro": "Balcone marittimo di Poggio delle Monachine",
+            "en": "Balcone marittimo di Poggio delle Monachine"
+          },
+          "coords": [
+            10.351484,
+            43.468102
+          ],
+          "category": "natural",
+          "arrive_at": "14:25",
+          "stay_min": 55,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem atemberaubenden natürlichen Balkon mit Blick auf das Meer, und bringen Sie eine leichte Jacke für den Abendwind mit.",
+            "hu": "Zárja a napot ezen a hatalmas tengerre néző, lélegzetelállító természetes erkélyen, és hozzon egy könnyű kabátot az esti tengerparti szellő miatt.",
+            "ro": "Încheiați-vă ziua la acest balcon natural uluitor cu vedere la marea vastă, aducând o jachetă ușoară, deoarece briza de coastă se intensifică seara.",
+            "en": "End your day at this breathtaking natural balcony overlooking the vast sea, bringing a light jacket as the coastal breeze picks up in the evening."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie entlang der atemberaubenden Etruskerküste und beginnen Sie mit einem morgendlichen Spaziergang am Kiesstrand. Mittags können Sie die Klippen erkunden und die Architektur der Küstenburg bewundern. Entdecken Sie nachmittags verborgene Buchten. Der Tag endet mit einem unvergesslichen Blick von einem hohen Küstenbalkon.",
+        "hu": "Vezessen végig a lenyűgöző etruszk tengerparton, egy frissítő reggeli sétával kezdve a kavicsos parton. A dél tökéletes a zord sziklák és a kastély építészetének felfedezéséhez. Töltse a délutánt rejtett öblök és búvárhelyek felfedezésével. A napot felejthetetlen kilátás zárja egy magas tengerparti erkélyről.",
+        "ro": "Conduceți de-a lungul coastei etrusce uimitoare, începând cu o plimbare revigorantă dimineața pe țărmul cu pietriș. Prânzul este perfect pentru a explora stâncile și arhitectura castelului. Petreceți după-amiaza descoperind golfuri ascunse și locuri de scufundări. Ziua se încheie cu o vedere de neuitat de la un balcon înalt.",
+        "en": "Drive along the stunning Etruscan Coast, starting with a refreshing morning walk on the pebbly shore. Midday is perfect for exploring the rugged cliffs and admiring the imposing seaside castle architecture. Spend your afternoon discovering hidden natural coves and diving spots. The day ends with an unforgettable view from a high coastal balcony."
+      }
+    }
+  }
+}

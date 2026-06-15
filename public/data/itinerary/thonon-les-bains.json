@@ -1,0 +1,474 @@
+{
+  "city_id": "thonon-les-bains",
+  "anchor": {
+    "name": "Thonon-les-Bains",
+    "coords": [
+      6.4797,
+      46.3706
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:15",
+      "total_km": 1.25,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Basilika Saint-François-de-Sales",
+            "hu": "Saint-François-de-Sales Bazilika",
+            "ro": "Bazilica Saint-François-de-Sales",
+            "en": "Basilica of Saint-François-de-Sales"
+          },
+          "coords": [
+            6.47964,
+            46.373
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden Fresken und wunderschönen Buntglasfenster dieser Basilika und planen Sie einen ruhigen Morgenbesuch ein, um das Innere zu genießen.",
+            "hu": "Csodálja meg a lenyűgöző bazilika freskóit és gyönyörű ólomüveg ablakait, és tervezzen egy csendes reggeli látogatást, hogy értékelje békés belső terét.",
+            "ro": "Admirați frescele izbitoare și vitraliile frumoase ale acestei bazilici impresionante, planificând o vizită liniștită dimineața pentru a aprecia interiorul.",
+            "en": "Admire the striking frescoes and beautiful stained glass windows of this impressive basilica, planning a quiet morning visit to appreciate its peaceful interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des Chablais",
+            "hu": "Chablais Múzeum",
+            "ro": "Muzeul Chablais",
+            "en": "Chablais Museum"
+          },
+          "coords": [
+            6.478328,
+            46.373656
+          ],
+          "category": "museum",
+          "arrive_at": "09:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie die reiche Geschichte der Region in diesem faszinierenden Museum im historischen Château de Sonnaz und planen Sie mindestens eine Stunde für die Ausstellungen ein.",
+            "hu": "Fedezze fel a régió gazdag történelmét a történelmi Château de Sonnazban található múzeumban, és szánjon legalább egy órát a kiállítások megtekintésére.",
+            "ro": "Explorați istoria bogată a regiunii în acest muzeu fascinant situat în istoricul Château de Sonnaz, alocând cel puțin o oră pentru a vedea toate exponatele.",
+            "en": "Explore the rich history of the region in this fascinating museum located in the historic Château de Sonnaz, allowing at least an hour to see all the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Standseilbahn Thonon",
+            "hu": "Thonon Sikló",
+            "ro": "Funicularul din Thonon",
+            "en": "Thonon Funicular"
+          },
+          "coords": [
+            6.479722,
+            46.375
+          ],
+          "category": "station",
+          "arrive_at": "11:36",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fahren Sie mit der einzigartigen Standseilbahn, die die Oberstadt mit dem Hafen verbindet, und genießen Sie während der Abfahrt den Panoramablick auf den Genfersee.",
+            "hu": "Utazzon az egyedülálló, ívelt siklóval, amely összeköti a felsővárost a kikötővel, és élvezze a Genfi-tóra nyíló panorámát az ereszkedés során.",
+            "ro": "Călătoriți cu acest funicular curbat unic care leagă orașul de sus de port, luându-vă timp pentru a vă bucura de priveliștile panoramice ale Lacului Geneva.",
+            "en": "Ride this unique curved funicular railway connecting the upper town to the port, taking time to enjoy the panoramic views of Lake Geneva during the descent."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Rives",
+            "hu": "Rives Kikötő",
+            "ro": "Portul Rives",
+            "en": "Port of Rives"
+          },
+          "coords": [
+            6.478814,
+            46.375665
+          ],
+          "category": "recreational",
+          "arrive_at": "12:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang dieses lebhaften Jachthafens mit bunten Booten und charmanten Restaurants und probieren Sie frische Eglifilets aus dem Genfersee.",
+            "hu": "Sétáljon a színes csónakokkal és hangulatos éttermekkel teli, nyüzsgő kikötőben, és álljon meg megkóstolni a Genfi-tóból frissen fogott sügérfilét.",
+            "ro": "Plimbați-vă de-a lungul acestui port animat, plin de bărci colorate și restaurante fermecătoare, oprindu-vă pentru a încerca fileurile proaspete de biban.",
+            "en": "Stroll along this lively lakeside marina filled with colorful boats and charming restaurants, stopping to try fresh perch fillets caught right from Lake Geneva."
+          }
+        },
+        {
+          "name": {
+            "de": "Thermalbäder von Thonon",
+            "hu": "Thonon Termálfürdő",
+            "ro": "Băile Termale din Thonon",
+            "en": "Thonon Thermal Baths"
+          },
+          "coords": [
+            6.473074,
+            46.369828
+          ],
+          "category": "recreational",
+          "arrive_at": "13:30",
+          "stay_min": 105,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie in den berühmten Thermalbädern inmitten eines schönen Parks und denken Sie daran, Ihre Spa-Behandlungen oder den Zugang zum Thermalbecken frühzeitig zu buchen.",
+            "hu": "Pihenjen és frissüljön fel a parkkal körülvett híres termálfürdőben, és ne felejtse el jó előre lefoglalni a wellnesskezeléseket vagy a medencehasználatot.",
+            "ro": "Relaxați-vă și întineriți-vă în aceste băi termale renumite înconjurate de un parc minunat și nu uitați să vă rezervați din timp tratamentele spa.",
+            "en": "Relax and rejuvenate in these famous thermal baths surrounded by a lovely park, and remember to book your spa treatments or thermal pool access well in advance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen in der friedlichen Atmosphäre der Basilique Saint-François-de-Sales. Der Mittag ist perfekt, um im Musée du Chablais in das lokale Erbe einzutauchen. Fahren Sie nachmittags mit der Standseilbahn hinab zum Hafen Port de Rives. Beenden Sie Ihren Rundgang mit einem entspannenden Abend in den berühmten Thermes de Thonon.",
+        "hu": "Kezdje a reggelt a Basilique Saint-François-de-Sales békés atmoszférájának felfedezésével. A délidő tökéletes arra, hogy elmerüljön a helyi örökségben a közeli Musée du Chablais-ban. Délután utazzon le a siklóval, hogy végigsétáljon a festői Port de Rives kikötőjén. Zárja sétáját egy pihentető és feltöltődést nyújtó estével a híres Thermes de Thononban.",
+        "ro": "Începeți dimineața explorând atmosfera pașnică de la Basilique Saint-François-de-Sales. Amiaza este perfectă pentru a vă scufunda în patrimoniul local la Musée du Chablais. După-amiaza, coborâți cu funicularul iconic pentru a vă plimba de-a lungul pitorescului Port de Rives. Încheiați-vă turul pietonal cu o seară relaxantă la faimoasele Thermes de Thonon.",
+        "en": "Start your morning exploring the peaceful atmosphere of the Basilique Saint-François-de-Sales. Midday is perfect for diving into local heritage at the nearby Musée du Chablais. In the afternoon, ride the iconic funicular down to stroll along the scenic Port de Rives. Conclude your walking tour with a relaxing and rejuvenating evening at the famous Thermes de Thonon."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:01",
+      "total_km": 2.75,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Thermalbäder von Thonon",
+            "hu": "Thonon Termálfürdő",
+            "ro": "Băile Termale din Thonon",
+            "en": "Thonon Thermal Baths"
+          },
+          "coords": [
+            6.473074,
+            46.369828
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 55,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie in den berühmten Thermalbädern inmitten eines schönen Parks und denken Sie daran, Ihre Spa-Behandlungen oder den Zugang zum Thermalbecken frühzeitig zu buchen.",
+            "hu": "Pihenjen és frissüljön fel a parkkal körülvett híres termálfürdőben, és ne felejtse el jó előre lefoglalni a wellnesskezeléseket vagy a medencehasználatot.",
+            "ro": "Relaxați-vă și întineriți-vă în aceste băi termale renumite înconjurate de un parc minunat și nu uitați să vă rezervați din timp tratamentele spa.",
+            "en": "Relax and rejuvenate in these famous thermal baths surrounded by a lovely park, and remember to book your spa treatments or thermal pool access well in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika Saint-François-de-Sales",
+            "hu": "Saint-François-de-Sales Bazilika",
+            "ro": "Bazilica Saint-François-de-Sales",
+            "en": "Basilica of Saint-François-de-Sales"
+          },
+          "coords": [
+            6.47964,
+            46.373
+          ],
+          "category": "religious",
+          "arrive_at": "09:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden Fresken und wunderschönen Buntglasfenster dieser Basilika und planen Sie einen ruhigen Morgenbesuch ein, um das Innere zu genießen.",
+            "hu": "Csodálja meg a lenyűgöző bazilika freskóit és gyönyörű ólomüveg ablakait, és tervezzen egy csendes reggeli látogatást, hogy értékelje békés belső terét.",
+            "ro": "Admirați frescele izbitoare și vitraliile frumoase ale acestei bazilici impresionante, planificând o vizită liniștită dimineața pentru a aprecia interiorul.",
+            "en": "Admire the striking frescoes and beautiful stained glass windows of this impressive basilica, planning a quiet morning visit to appreciate its peaceful interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des Chablais",
+            "hu": "Chablais Múzeum",
+            "ro": "Muzeul Chablais",
+            "en": "Chablais Museum"
+          },
+          "coords": [
+            6.478328,
+            46.373656
+          ],
+          "category": "museum",
+          "arrive_at": "10:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie die reiche Geschichte der Region in diesem faszinierenden Museum im historischen Château de Sonnaz und planen Sie mindestens eine Stunde für die Ausstellungen ein.",
+            "hu": "Fedezze fel a régió gazdag történelmét a történelmi Château de Sonnazban található múzeumban, és szánjon legalább egy órát a kiállítások megtekintésére.",
+            "ro": "Explorați istoria bogată a regiunii în acest muzeu fascinant situat în istoricul Château de Sonnaz, alocând cel puțin o oră pentru a vedea toate exponatele.",
+            "en": "Explore the rich history of the region in this fascinating museum located in the historic Château de Sonnaz, allowing at least an hour to see all the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Standseilbahn Thonon",
+            "hu": "Thonon Sikló",
+            "ro": "Funicularul din Thonon",
+            "en": "Thonon Funicular"
+          },
+          "coords": [
+            6.479722,
+            46.375
+          ],
+          "category": "station",
+          "arrive_at": "12:21",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fahren Sie mit der einzigartigen Standseilbahn, die die Oberstadt mit dem Hafen verbindet, und genießen Sie während der Abfahrt den Panoramablick auf den Genfersee.",
+            "hu": "Utazzon az egyedülálló, ívelt siklóval, amely összeköti a felsővárost a kikötővel, és élvezze a Genfi-tóra nyíló panorámát az ereszkedés során.",
+            "ro": "Călătoriți cu acest funicular curbat unic care leagă orașul de sus de port, luându-vă timp pentru a vă bucura de priveliștile panoramice ale Lacului Geneva.",
+            "en": "Ride this unique curved funicular railway connecting the upper town to the port, taking time to enjoy the panoramic views of Lake Geneva during the descent."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Rives",
+            "hu": "Rives Kikötő",
+            "ro": "Portul Rives",
+            "en": "Port of Rives"
+          },
+          "coords": [
+            6.478814,
+            46.375665
+          ],
+          "category": "recreational",
+          "arrive_at": "12:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang dieses lebhaften Jachthafens mit bunten Booten und charmanten Restaurants und probieren Sie frische Eglifilets aus dem Genfersee.",
+            "hu": "Sétáljon a színes csónakokkal és hangulatos éttermekkel teli, nyüzsgő kikötőben, és álljon meg megkóstolni a Genfi-tóból frissen fogott sügérfilét.",
+            "ro": "Plimbați-vă de-a lungul acestui port animat, plin de bărci colorate și restaurante fermecătoare, oprindu-vă pentru a încerca fileurile proaspete de biban.",
+            "en": "Stroll along this lively lakeside marina filled with colorful boats and charming restaurants, stopping to try fresh perch fillets caught right from Lake Geneva."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Ripaille",
+            "hu": "Ripaille Kastély",
+            "ro": "Castelul Ripaille",
+            "en": "Ripaille Castle"
+          },
+          "coords": [
+            6.48667,
+            46.3881
+          ],
+          "category": "historical",
+          "arrive_at": "14:11",
+          "stay_min": 110,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses Schloss am See aus dem 15. Jahrhundert mit seinen Weinbergen und probieren Sie nach einer Führung durch die Räume den lokalen Wein.",
+            "hu": "Fedezze fel a 15. századi tóparti kastélyt és szőlőültetvényeit, és ne hagyja ki a helyi borok kóstolását a történelmi termek bejárása után.",
+            "ro": "Descoperiți acest castel pe malul lacului din secolul al XV-lea și podgoriile sale, asigurându-vă că degustați vinul local după un tur al camerelor.",
+            "en": "Discover this 15th-century lakeside castle and its beautiful vineyards, making sure to taste the local wine after a guided tour of the historical rooms."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem erholsamen Morgen in den Thermes de Thonon, bevor Sie in die Altstadt fahren. Bewundern Sie mittags die Basilika und das Musée du Chablais. Verbringen Sie Ihren Nachmittag mit der Aussicht von der Standseilbahn und am lebhaften Hafen. Beenden Sie den Tag mit einer Radtour am See entlang zum beeindruckenden Château de Ripaille.",
+        "hu": "Kezdje a kerékpáros napot egy frissítő reggellel a Thermes de Thononban, mielőtt a történelmi belvárosba indulna. Délben csodálja meg a bazilikát és a Musée du Chablais-t. Délután élvezze a kilátást a siklóból és a nyüzsgő kikötőből. Zárja a napot egy tóparti tekeréssel a fenséges Château de Ripaille felfedezéséhez.",
+        "ro": "Începeți ziua de ciclism cu o dimineață revitalizantă la Thermes de Thonon înainte de a vă îndrepta spre centrul istoric. La prânz, admirați bazilica și Musée du Chablais. Petreceți-vă după-amiaza bucurându-vă de priveliștile de la funicular și de portul plin de viață. Încheiați ziua mergând cu bicicleta de-a lungul lacului până la magnificul Château de Ripaille.",
+        "en": "Kick off your cycling day with a revitalizing morning at the Thermes de Thonon before heading to the historic city center. By midday, admire the basilica and uncover regional secrets at the Musée du Chablais. Spend your afternoon enjoying the views from the funicular and the lively port. End your day biking along the lake to explore the magnificent Château de Ripaille."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 3.65,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Ripaille",
+            "hu": "Ripaille Kastély",
+            "ro": "Castelul Ripaille",
+            "en": "Ripaille Castle"
+          },
+          "coords": [
+            6.48667,
+            46.3881
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses Schloss am See aus dem 15. Jahrhundert mit seinen Weinbergen und probieren Sie nach einer Führung durch die Räume den lokalen Wein.",
+            "hu": "Fedezze fel a 15. századi tóparti kastélyt és szőlőültetvényeit, és ne hagyja ki a helyi borok kóstolását a történelmi termek bejárása után.",
+            "ro": "Descoperiți acest castel pe malul lacului din secolul al XV-lea și podgoriile sale, asigurându-vă că degustați vinul local după un tur al camerelor.",
+            "en": "Discover this 15th-century lakeside castle and its beautiful vineyards, making sure to taste the local wine after a guided tour of the historical rooms."
+          }
+        },
+        {
+          "name": {
+            "de": "50-Meter-Schwimmbecken",
+            "hu": "50 méteres Úszómedence",
+            "ro": "Bazin de înot de 50m",
+            "en": "50m Swimming Pool"
+          },
+          "coords": [
+            6.483056,
+            46.387577
+          ],
+          "category": "family",
+          "arrive_at": "10:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie ein erfrischendes Bad in diesem fantastischen olympischen Freibad am See, und kommen Sie im Sommer früh morgens, um sich einen guten Platz zu sichern.",
+            "hu": "Élvezze a frissítő úszást ebben a tóparti, olimpiai méretű szabadtéri medencében, és nyáron érkezzen kora reggel, hogy jó helyet találjon a füvön.",
+            "ro": "Bucurați-vă de o baie răcoritoare în această piscină olimpică în aer liber de lângă lac, sosind devreme dimineața în timpul verii pentru a vă asigura un loc bun.",
+            "en": "Enjoy a refreshing swim in this fantastic Olympic-sized outdoor pool by the lake, arriving early in the morning during summer to secure a good spot on the grass."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Rives",
+            "hu": "Rives Kikötő",
+            "ro": "Portul Rives",
+            "en": "Port of Rives"
+          },
+          "coords": [
+            6.478814,
+            46.375665
+          ],
+          "category": "recreational",
+          "arrive_at": "11:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang dieses lebhaften Jachthafens mit bunten Booten und charmanten Restaurants und probieren Sie frische Eglifilets aus dem Genfersee.",
+            "hu": "Sétáljon a színes csónakokkal és hangulatos éttermekkel teli, nyüzsgő kikötőben, és álljon meg megkóstolni a Genfi-tóból frissen fogott sügérfilét.",
+            "ro": "Plimbați-vă de-a lungul acestui port animat, plin de bărci colorate și restaurante fermecătoare, oprindu-vă pentru a încerca fileurile proaspete de biban.",
+            "en": "Stroll along this lively lakeside marina filled with colorful boats and charming restaurants, stopping to try fresh perch fillets caught right from Lake Geneva."
+          }
+        },
+        {
+          "name": {
+            "de": "Standseilbahn Thonon",
+            "hu": "Thonon Sikló",
+            "ro": "Funicularul din Thonon",
+            "en": "Thonon Funicular"
+          },
+          "coords": [
+            6.479722,
+            46.375
+          ],
+          "category": "station",
+          "arrive_at": "13:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Fahren Sie mit der einzigartigen Standseilbahn, die die Oberstadt mit dem Hafen verbindet, und genießen Sie während der Abfahrt den Panoramablick auf den Genfersee.",
+            "hu": "Utazzon az egyedülálló, ívelt siklóval, amely összeköti a felsővárost a kikötővel, és élvezze a Genfi-tóra nyíló panorámát az ereszkedés során.",
+            "ro": "Călătoriți cu acest funicular curbat unic care leagă orașul de sus de port, luându-vă timp pentru a vă bucura de priveliștile panoramice ale Lacului Geneva.",
+            "en": "Ride this unique curved funicular railway connecting the upper town to the port, taking time to enjoy the panoramic views of Lake Geneva during the descent."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum des Chablais",
+            "hu": "Chablais Múzeum",
+            "ro": "Muzeul Chablais",
+            "en": "Chablais Museum"
+          },
+          "coords": [
+            6.478328,
+            46.373656
+          ],
+          "category": "museum",
+          "arrive_at": "13:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die reiche Geschichte der Region in diesem faszinierenden Museum im historischen Château de Sonnaz und planen Sie mindestens eine Stunde für die Ausstellungen ein.",
+            "hu": "Fedezze fel a régió gazdag történelmét a történelmi Château de Sonnazban található múzeumban, és szánjon legalább egy órát a kiállítások megtekintésére.",
+            "ro": "Explorați istoria bogată a regiunii în acest muzeu fascinant situat în istoricul Château de Sonnaz, alocând cel puțin o oră pentru a vedea toate exponatele.",
+            "en": "Explore the rich history of the region in this fascinating museum located in the historic Château de Sonnaz, allowing at least an hour to see all the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika Saint-François-de-Sales",
+            "hu": "Saint-François-de-Sales Bazilika",
+            "ro": "Bazilica Saint-François-de-Sales",
+            "en": "Basilica of Saint-François-de-Sales"
+          },
+          "coords": [
+            6.47964,
+            46.373
+          ],
+          "category": "religious",
+          "arrive_at": "15:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden Fresken und wunderschönen Buntglasfenster dieser Basilika und planen Sie einen ruhigen Morgenbesuch ein, um das Innere zu genießen.",
+            "hu": "Csodálja meg a lenyűgöző bazilika freskóit és gyönyörű ólomüveg ablakait, és tervezzen egy csendes reggeli látogatást, hogy értékelje békés belső terét.",
+            "ro": "Admirați frescele izbitoare și vitraliile frumoase ale acestei bazilici impresionante, planificând o vizită liniștită dimineața pentru a aprecia interiorul.",
+            "en": "Admire the striking frescoes and beautiful stained glass windows of this impressive basilica, planning a quiet morning visit to appreciate its peaceful interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Funky Factory",
+            "hu": "Funky Factory",
+            "ro": "Funky Factory",
+            "en": "Funky Factory"
+          },
+          "coords": [
+            6.49547,
+            46.369939
+          ],
+          "category": "family",
+          "arrive_at": "15:55",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bringen Sie die Familie in diesen energiegeladenen Indoor-Spielplatz mit Trampolinen und Spielen und stellen Sie sicher, dass Kinder rutschfeste Socken tragen.",
+            "hu": "Hozza el a családot ebbe az energiával teli fedett játszóházba, amely tele van trambulinokkal, és gondoskodjon arról, hogy a gyerekek csúszásgátló zoknit viseljenek.",
+            "ro": "Aduceți familia la acest loc de joacă interior plin de trambuline și jocuri, asigurându-vă că cei mici poartă șosete antiderapante pentru siguranță.",
+            "en": "Bring the family to this energetic indoor playground packed with trampolines and games, ensuring kids wear comfortable grip socks for a safe and fun afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Roadtrip mit der Erkundung des majestätischen Château de Ripaille und einem erfrischenden Bad im nahen Freibad. Fahren Sie mittags zum See, um die lebhafte Atmosphäre von Port de Rives zu erleben. Fahren Sie nachmittags mit der Standseilbahn ins Stadtzentrum zum Museum und zur wunderschönen Basilika. Lassen Sie den Tag mit Familienspaß in der Funky Factory ausklingen.",
+        "hu": "Kezdje autós útját a fenséges Château de Ripaille felfedezésével és egy frissítő reggeli úszással a közeli szabadtéri medencében. Délben vezessen a tó felé, hogy megtapasztalja a Port de Rives pezsgő hangulatát. Délután menjen fel a belvárosba a siklóval, hogy meglátogassa a múzeumot és a gyönyörű bazilikát. Zárja a napot egy kis családi szórakozással a Funky Factoryban.",
+        "ro": "Începeți călătoria cu mașina explorând grandiosul Château de Ripaille și înotând la piscina în aer liber din apropiere. La prânz, conduceți spre lac pentru a simți atmosfera vibrantă de la Port de Rives. După-amiaza, urcați în centrul orașului cu funicularul pentru a vizita muzeul și frumoasa bazilică. Încheiați cu o distracție în familie la Funky Factory.",
+        "en": "Begin your road trip by exploring the grand Château de Ripaille and taking a refreshing morning swim at the nearby outdoor pool. For midday, drive towards the lake to experience the vibrant atmosphere of Port de Rives. In the afternoon, head up to the city center via funicular to visit the museum and the beautiful basilica. Wrap up with some family fun at the Funky Factory."
+      }
+    }
+  }
+}

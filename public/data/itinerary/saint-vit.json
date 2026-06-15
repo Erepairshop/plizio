@@ -1,0 +1,451 @@
+{
+  "city_id": "saint-vit",
+  "anchor": {
+    "name": "Saint-Vit",
+    "coords": [
+      5.8108,
+      47.1814
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:10",
+      "total_km": 4.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Saint-Vit",
+            "hu": "Saint-Vit Városháza",
+            "ro": "Primăria Saint-Vit",
+            "en": "Saint-Vit Town Hall"
+          },
+          "coords": [
+            5.810536,
+            47.181945
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit der Bewunderung der klassischen Architektur des Rathauses von Saint-Vit, dem bürgerlichen Zentrum der Stadt, und prüfen Sie die Aushänge auf lokale Veranstaltungen.",
+            "hu": "Kezdje a napot a Saint-Vit városháza klasszikus építészetének megcsodálásával, amely a város polgári központja, és nézze meg a hirdetőtáblákon a helyi eseményeket.",
+            "ro": "Începeți ziua admirând arhitectura clasică a Primăriei din Saint-Vit, centrul civic al orașului, și verificați panourile informative pentru evenimente locale.",
+            "en": "Start your day by admiring the classical architecture of the Saint-Vit Town Hall, the civic heart of the city, and check the notice boards for local events."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Vit",
+            "hu": "Saint-Vit Templom",
+            "ro": "Biserica Saint-Vit",
+            "en": "Saint-Vit Church"
+          },
+          "coords": [
+            5.810608,
+            47.180989
+          ],
+          "category": "religious",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Treten Sie in die Kirche Saint-Vit ein, um die ruhige Atmosphäre und die wunderschönen Buntglasfenster zu schätzen, und nehmen Sie sich einen Moment Zeit für stille Besinnung im Hauptschiff.",
+            "hu": "Lépjen be a Saint-Vit templomba, hogy értékelje nyugodt légkörét és gyönyörű ólomüveg ablakait, és szánjon egy percet a csendes elmélkedésre a hajóban.",
+            "ro": "Intrați în Biserica Saint-Vit pentru a aprecia atmosfera sa senină și vitraliile frumoase și luați-vă un moment pentru o reflecție liniștită în navă.",
+            "en": "Step inside the Saint-Vit Church to appreciate its serene atmosphere and beautiful stained glass windows, and take a moment for quiet reflection in the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Doubs Flusspromenade",
+            "hu": "Doubs Folyó Sétánya",
+            "ro": "Promenada Râului Doubs",
+            "en": "Doubs River Promenade"
+          },
+          "coords": [
+            5.810451,
+            47.182909
+          ],
+          "category": "natural",
+          "arrive_at": "10:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannenden Spaziergang entlang der Doubs-Flusspromenade, um die üppige Flusslandschaft zu genießen, und bringen Sie eine Kamera mit, um die Spiegelungen auf dem Wasser einzufangen.",
+            "hu": "Élvezze a pihentető sétát a Doubs folyó sétányán, hogy megcsodálja a buja folyóparti tájat, és hozzon magával egy fényképezőgépet, hogy megörökítse a víz tükröződéseit.",
+            "ro": "Bucurați-vă de o plimbare relaxantă de-a lungul Promenadei râului Doubs pentru a admira peisajul luxuriant de pe mal, aducând un aparat foto pentru a surprinde reflexiile apei.",
+            "en": "Enjoy a relaxing stroll along the Doubs River Promenade to take in the lush riverside scenery, bringing a camera to capture the vibrant reflections on the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Gerberviertel",
+            "hu": "Régi Cserzőműhelyek Negyede",
+            "ro": "Cartierul Vechi al Tăbăcăriilor",
+            "en": "Old Tanneries District"
+          },
+          "coords": [
+            5.827066,
+            47.18186
+          ],
+          "category": "historical",
+          "arrive_at": "11:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch das historische Gerberviertel, um das reiche industrielle Erbe der Stadt zu entdecken, und achten Sie auf die einzigartige Architektur der ehemaligen Werkstätten.",
+            "hu": "Sétáljon végig a régi cserzőműhelyek negyedén, hogy felfedezze a város gazdag ipari örökségét, figyelemmel kísérve az egykori műhelyek egyedi építészetét.",
+            "ro": "Plimbați-vă prin vechiul cartier al tăbăcăriilor pentru a descoperi bogatul patrimoniu industrial al orașului, acordând atenție arhitecturii unice a fostelor ateliere.",
+            "en": "Wander through the Old Tanneries District to uncover the city's rich industrial heritage, paying attention to the unique architecture of the former workshops."
+          }
+        },
+        {
+          "name": {
+            "de": "Église de la Nativité-de-Notre-Dame",
+            "hu": "Église de la Nativité-de-Notre-Dame",
+            "ro": "Église de la Nativité-de-Notre-Dame",
+            "en": "Église de la Nativité-de-Notre-Dame"
+          },
+          "coords": [
+            5.803764,
+            47.205389
+          ],
+          "category": "religious",
+          "arrive_at": "14:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 47,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Église de la Nativité-de-Notre-Dame, um ihre historische Bedeutung und den eleganten Altar zu sehen, am besten am Nachmittag, wenn das Licht das Innere wunderschön beleuchtet.",
+            "hu": "Látogasson el az Église de la Nativité-de-Notre-Dame templomba, hogy tanúja legyen történelmi jelentőségének és elegáns oltárának, érkezzen délután, amikor a fény gyönyörűen megvilágítja a belső teret.",
+            "ro": "Vizitați Église de la Nativité-de-Notre-Dame pentru a asista la importanța sa istorică și la altarul elegant, sosind după-amiaza când lumina iluminează frumos interiorul.",
+            "en": "Visit the Église de la Nativité-de-Notre-Dame to witness its historical significance and elegant altar, arriving in the afternoon when the light beautifully illuminates the interior."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung des Bürgerzentrums am Rathaus von Saint-Vit und der nahegelegenen Kirche Saint-Vit.\nDer Mittag lädt zu einem gemütlichen Spaziergang entlang der malerischen Doubs-Flusspromenade ein, um die Natur zu genießen.\nAm Nachmittag tauchen Sie mit einem Spaziergang durch das faszinierende Gerberviertel in die lokale Geschichte ein.\nGegen Abend beenden Sie Ihren Rundgang an der eleganten Église de la Nativité-de-Notre-Dame.",
+        "hu": "Kezdje a reggelt a polgári központ felfedezésével a Saint-Vit városházán és a közeli Saint-Vit templomban.\nA délidő egy kellemes sétára hívogat a festői Doubs folyó sétányán, amely tökéletes a természetes hangulat elmerüléséhez.\nDélután merüljön el a helyi történelemben a lenyűgöző régi cserzőműhelyek negyedében tett sétával.\nAz este közeledtével fejezze be sétáját az elegáns Église de la Nativité-de-Notre-Dame templomnál.",
+        "ro": "Începeți dimineața explorând centrul civic la Primăria Saint-Vit și inima spirituală din apropiere, Biserica Saint-Vit.\nLa amiază, bucurați-vă de o plimbare pe malul pitoresc al Promenadei râului Doubs, perfectă pentru a vă relaxa.\nDupă-amiaza, pătrundeți în istoria locală cu o plimbare prin fascinantul cartier al vechilor tăbăcării.\nSpre seară, încheiați turul la eleganta Église de la Nativité-de-Notre-Dame.",
+        "en": "Start your morning exploring the civic center at the Saint-Vit Town Hall and the nearby spiritual heart, Saint-Vit Church.\nMidday invites a leisurely walk along the scenic Doubs River Promenade, perfect for soaking in the natural atmosphere.\nIn the afternoon, dive into local history with a stroll through the fascinating Old Tanneries District.\nAs evening approaches, complete your walking tour at the elegant Église de la Nativité-de-Notre-Dame."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:58",
+      "total_km": 6.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Saint-Vit",
+            "hu": "Saint-Vit Városháza",
+            "ro": "Primăria Saint-Vit",
+            "en": "Saint-Vit Town Hall"
+          },
+          "coords": [
+            5.810536,
+            47.181945
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit der Bewunderung der klassischen Architektur des Rathauses von Saint-Vit, dem bürgerlichen Zentrum der Stadt, und prüfen Sie die Aushänge auf lokale Veranstaltungen.",
+            "hu": "Kezdje a napot a Saint-Vit városháza klasszikus építészetének megcsodálásával, amely a város polgári központja, és nézze meg a hirdetőtáblákon a helyi eseményeket.",
+            "ro": "Începeți ziua admirând arhitectura clasică a Primăriei din Saint-Vit, centrul civic al orașului, și verificați panourile informative pentru evenimente locale.",
+            "en": "Start your day by admiring the classical architecture of the Saint-Vit Town Hall, the civic heart of the city, and check the notice boards for local events."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Gerberviertel",
+            "hu": "Régi Cserzőműhelyek Negyede",
+            "ro": "Cartierul Vechi al Tăbăcăriilor",
+            "en": "Old Tanneries District"
+          },
+          "coords": [
+            5.827066,
+            47.18186
+          ],
+          "category": "historical",
+          "arrive_at": "09:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch das historische Gerberviertel, um das reiche industrielle Erbe der Stadt zu entdecken, und achten Sie auf die einzigartige Architektur der ehemaligen Werkstätten.",
+            "hu": "Sétáljon végig a régi cserzőműhelyek negyedén, hogy felfedezze a város gazdag ipari örökségét, figyelemmel kísérve az egykori műhelyek egyedi építészetét.",
+            "ro": "Plimbați-vă prin vechiul cartier al tăbăcăriilor pentru a descoperi bogatul patrimoniu industrial al orașului, acordând atenție arhitecturii unice a fostelor ateliere.",
+            "en": "Wander through the Old Tanneries District to uncover the city's rich industrial heritage, paying attention to the unique architecture of the former workshops."
+          }
+        },
+        {
+          "name": {
+            "de": "Doubs Flusspromenade",
+            "hu": "Doubs Folyó Sétánya",
+            "ro": "Promenada Râului Doubs",
+            "en": "Doubs River Promenade"
+          },
+          "coords": [
+            5.810451,
+            47.182909
+          ],
+          "category": "natural",
+          "arrive_at": "11:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannenden Spaziergang entlang der Doubs-Flusspromenade, um die üppige Flusslandschaft zu genießen, und bringen Sie eine Kamera mit, um die Spiegelungen auf dem Wasser einzufangen.",
+            "hu": "Élvezze a pihentető sétát a Doubs folyó sétányán, hogy megcsodálja a buja folyóparti tájat, és hozzon magával egy fényképezőgépet, hogy megörökítse a víz tükröződéseit.",
+            "ro": "Bucurați-vă de o plimbare relaxantă de-a lungul Promenadei râului Doubs pentru a admira peisajul luxuriant de pe mal, aducând un aparat foto pentru a surprinde reflexiile apei.",
+            "en": "Enjoy a relaxing stroll along the Doubs River Promenade to take in the lush riverside scenery, bringing a camera to capture the vibrant reflections on the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Vit",
+            "hu": "Saint-Vit Templom",
+            "ro": "Biserica Saint-Vit",
+            "en": "Saint-Vit Church"
+          },
+          "coords": [
+            5.810608,
+            47.180989
+          ],
+          "category": "religious",
+          "arrive_at": "12:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Treten Sie in die Kirche Saint-Vit ein, um die ruhige Atmosphäre und die wunderschönen Buntglasfenster zu schätzen, und nehmen Sie sich einen Moment Zeit für stille Besinnung im Hauptschiff.",
+            "hu": "Lépjen be a Saint-Vit templomba, hogy értékelje nyugodt légkörét és gyönyörű ólomüveg ablakait, és szánjon egy percet a csendes elmélkedésre a hajóban.",
+            "ro": "Intrați în Biserica Saint-Vit pentru a aprecia atmosfera sa senină și vitraliile frumoase și luați-vă un moment pentru o reflecție liniștită în navă.",
+            "en": "Step inside the Saint-Vit Church to appreciate its serene atmosphere and beautiful stained glass windows, and take a moment for quiet reflection in the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Funéraire",
+            "hu": "Église Funéraire",
+            "ro": "Église Funéraire",
+            "en": "Église Funéraire"
+          },
+          "coords": [
+            5.778052,
+            47.179197
+          ],
+          "category": "historical",
+          "arrive_at": "13:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historische Église Funéraire, um über die angestammten Traditionen der Region nachzudenken, und tragen Sie bequeme Schuhe, um die umliegenden alten Wege zu bewältigen.",
+            "hu": "Fedezze fel a történelmi Église Funéraire-t, hogy elmélkedjen a régió ősi hagyományain, és viseljen kényelmes sétacipőt, hogy eligazodjon a környező régi ösvényeken.",
+            "ro": "Explorați biserica istorică Église Funéraire pentru a reflecta asupra tradițiilor ancestrale ale regiunii, purtând pantofi confortabili pentru a naviga pe vechile cărări din jur.",
+            "en": "Explore the historic Église Funéraire to reflect on the region's ancestral traditions, wearing comfortable walking shoes to navigate the surrounding old pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Laurent",
+            "hu": "Église Saint-Laurent",
+            "ro": "Église Saint-Laurent",
+            "en": "Église Saint-Laurent"
+          },
+          "coords": [
+            5.790114,
+            47.166732
+          ],
+          "category": "religious",
+          "arrive_at": "14:48",
+          "stay_min": 70,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise in der Église Saint-Laurent, um die friedliche Atmosphäre und den rustikalen Charme zu erleben, und nehmen Sie sich einen Moment Zeit, um die feinen Holzarbeiten zu würdigen.",
+            "hu": "Fejezze be utazását az Église Saint-Laurent templomban, hogy megtapasztalja békés hangulatát és rusztikus varázsát, szánva egy percet a finoman megmunkált famunkák értékelésére.",
+            "ro": "Încheiați călătoria la Église Saint-Laurent pentru a experimenta ambianța sa pașnică și farmecul rustic, luându-vă un moment pentru a aprecia lucrările din lemn fin lucrate.",
+            "en": "Conclude your journey at Église Saint-Laurent to experience its peaceful ambiance and rustic charm, taking a moment to appreciate the finely crafted woodwork inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie am Morgen vom zentralen Rathaus von Saint-Vit los und fahren Sie zügig zum historisch reichen Gerberviertel.\nGleiten Sie am Mittag entlang der Doubs-Flusspromenade für eine malerische Pause am Wasser.\nVerbringen Sie Ihren Nachmittag damit, an der Kirche Saint-Vit vorbeizuradeln und zur Église Funéraire zu fahren.\nLassen Sie den Abend mit einer entspannten Fahrt zur charmanten Église Saint-Laurent ausklingen.",
+        "hu": "Kerékpározzon a reggeli órákban a központi Saint-Vit városházától, gyorsan a történelmileg gazdag régi cserzőműhelyek felé.\nDélben guruljon végig a Doubs folyó sétányán egy festői pihenőre a vízparton.\nA délutánt töltse azzal, hogy elteker a Saint-Vit templom mellett, és folytassa útját a lenyűgöző Église Funéraire felé.\nZárja az estét egy pihentető tekeréssel a bájos Église Saint-Laurent felé.",
+        "ro": "Pedalați de dimineață pornind de la Primăria centrală din Saint-Vit, îndreptându-vă rapid către vechiul cartier istoric al tăbăcăriilor.\nLa amiază, alunecați de-a lungul Promenadei râului Doubs pentru o pauză pitorească pe malul apei.\nPetreceți după-amiaza mergând cu bicicleta pe lângă Biserica Saint-Vit și continuând spre captivanta Église Funéraire.\nÎncheiați seara cu o plimbare relaxantă spre fermecătoarea Église Saint-Laurent.",
+        "en": "Pedal through the morning starting from the central Saint-Vit Town Hall, heading swiftly to the historically rich Old Tanneries District.\nAt midday, glide along the Doubs River Promenade for a scenic break by the water.\nSpend your afternoon biking past the Saint-Vit Church and continuing to the captivating Église Funéraire.\nWind down the evening with a relaxing ride towards the charming Église Saint-Laurent."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:27",
+      "total_km": 11.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Vit",
+            "hu": "Saint-Vit Templom",
+            "ro": "Biserica Saint-Vit",
+            "en": "Saint-Vit Church"
+          },
+          "coords": [
+            5.810608,
+            47.180989
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Treten Sie in die Kirche Saint-Vit ein, um die ruhige Atmosphäre und die wunderschönen Buntglasfenster zu schätzen, und nehmen Sie sich einen Moment Zeit für stille Besinnung im Hauptschiff.",
+            "hu": "Lépjen be a Saint-Vit templomba, hogy értékelje nyugodt légkörét és gyönyörű ólomüveg ablakait, és szánjon egy percet a csendes elmélkedésre a hajóban.",
+            "ro": "Intrați în Biserica Saint-Vit pentru a aprecia atmosfera sa senină și vitraliile frumoase și luați-vă un moment pentru o reflecție liniștită în navă.",
+            "en": "Step inside the Saint-Vit Church to appreciate its serene atmosphere and beautiful stained glass windows, and take a moment for quiet reflection in the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Roset-Fluans",
+            "hu": "Château de Roset-Fluans",
+            "ro": "Château de Roset-Fluans",
+            "en": "Château de Roset-Fluans"
+          },
+          "coords": [
+            5.825248,
+            47.164639
+          ],
+          "category": "castle",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie das majestätische Château de Roset-Fluans, um in das Mittelalter zurückzukehren, und stellen Sie sicher, dass Sie die robusten Außenmauern betrachten, die einst das Tal bewachten.",
+            "hu": "Fedezze fel a fenséges Château de Roset-Fluans kastélyt, hogy visszalépjen a középkorba, biztosítva, hogy megnézze a masszív külső falakat, amelyek egykor a völgyet őrizték.",
+            "ro": "Descoperiți maiestuosul Château de Roset-Fluans pentru a vă întoarce în epoca medievală, asigurându-vă că vedeți pereții exteriori rezistenți care păzeau cândva valea.",
+            "en": "Discover the majestic Château de Roset-Fluans to step back into medieval times, ensuring you view the sturdy outer walls that once guarded the local valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Claude",
+            "hu": "Église Saint-Claude",
+            "ro": "Église Saint-Claude",
+            "en": "Église Saint-Claude"
+          },
+          "coords": [
+            5.827286,
+            47.16328
+          ],
+          "category": "religious",
+          "arrive_at": "11:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die charmante Architektur der Église Saint-Claude, ein verstecktes spirituelles Juwel, und bringen Sie eine kleine Spende mit, um den Erhalt dieser malerischen Gemeinde zu unterstützen.",
+            "hu": "Csodálja meg az Église Saint-Claude bájos építészetét, amely egy rejtett szellemi gyöngyszem, és hozzon magával egy kis adományt, hogy támogassa ennek a furcsa plébániának a megőrzését.",
+            "ro": "Admirați arhitectura fermecătoare a Église Saint-Claude, o bijuterie spirituală ascunsă, și aduceți o mică donație pentru a sprijini conservarea acestei parohii pitorești.",
+            "en": "Admire the charming architecture of Église Saint-Claude, a hidden spiritual gem, and bring a small donation to help support the preservation of this quaint parish."
+          }
+        },
+        {
+          "name": {
+            "de": "Historisches Gerberviertel",
+            "hu": "Régi Cserzőműhelyek Negyede",
+            "ro": "Cartierul Vechi al Tăbăcăriilor",
+            "en": "Old Tanneries District"
+          },
+          "coords": [
+            5.827066,
+            47.18186
+          ],
+          "category": "historical",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch das historische Gerberviertel, um das reiche industrielle Erbe der Stadt zu entdecken, und achten Sie auf die einzigartige Architektur der ehemaligen Werkstätten.",
+            "hu": "Sétáljon végig a régi cserzőműhelyek negyedén, hogy felfedezze a város gazdag ipari örökségét, figyelemmel kísérve az egykori műhelyek egyedi építészetét.",
+            "ro": "Plimbați-vă prin vechiul cartier al tăbăcăriilor pentru a descoperi bogatul patrimoniu industrial al orașului, acordând atenție arhitecturii unice a fostelor ateliere.",
+            "en": "Wander through the Old Tanneries District to uncover the city's rich industrial heritage, paying attention to the unique architecture of the former workshops."
+          }
+        },
+        {
+          "name": {
+            "de": "Église de la Nativité-de-Notre-Dame",
+            "hu": "Église de la Nativité-de-Notre-Dame",
+            "ro": "Église de la Nativité-de-Notre-Dame",
+            "en": "Église de la Nativité-de-Notre-Dame"
+          },
+          "coords": [
+            5.803764,
+            47.205389
+          ],
+          "category": "religious",
+          "arrive_at": "13:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Église de la Nativité-de-Notre-Dame, um ihre historische Bedeutung und den eleganten Altar zu sehen, am besten am Nachmittag, wenn das Licht das Innere wunderschön beleuchtet.",
+            "hu": "Látogasson el az Église de la Nativité-de-Notre-Dame templomba, hogy tanúja legyen történelmi jelentőségének és elegáns oltárának, érkezzen délután, amikor a fény gyönyörűen megvilágítja a belső teret.",
+            "ro": "Vizitați Église de la Nativité-de-Notre-Dame pentru a asista la importanța sa istorică și la altarul elegant, sosind după-amiaza când lumina iluminează frumos interiorul.",
+            "en": "Visit the Église de la Nativité-de-Notre-Dame to witness its historical significance and elegant altar, arriving in the afternoon when the light beautifully illuminates the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Laurent",
+            "hu": "Église Saint-Laurent",
+            "ro": "Église Saint-Laurent",
+            "en": "Église Saint-Laurent"
+          },
+          "coords": [
+            5.790114,
+            47.166732
+          ],
+          "category": "religious",
+          "arrive_at": "14:17",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise in der Église Saint-Laurent, um die friedliche Atmosphäre und den rustikalen Charme zu erleben, und nehmen Sie sich einen Moment Zeit, um die feinen Holzarbeiten zu würdigen.",
+            "hu": "Fejezze be utazását az Église Saint-Laurent templomban, hogy megtapasztalja békés hangulatát és rusztikus varázsát, szánva egy percet a finoman megmunkált famunkák értékelésére.",
+            "ro": "Încheiați călătoria la Église Saint-Laurent pentru a experimenta ambianța sa pașnică și farmecul rustic, luându-vă un moment pentru a aprecia lucrările din lemn fin lucrate.",
+            "en": "Conclude your journey at Église Saint-Laurent to experience its peaceful ambiance and rustic charm, taking a moment to appreciate the finely crafted woodwork inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie in den Morgen mit Besuchen der zentralen Kirche Saint-Vit und des beeindruckenden Château de Roset-Fluans.\nDer Mittag bringt Sie zur hübschen Église Saint-Claude und zum historisch bedeutsamen Gerberviertel.\nAm Nachmittag fahren Sie zur eleganten Église de la Nativité-de-Notre-Dame, um ihre Architektur zu bewundern.\nBeenden Sie Ihre Autotour am Abend an der friedlichen Église Saint-Laurent für einen ruhigen Abschluss.",
+        "hu": "Induljon a reggelbe a központi Saint-Vit templom és a lenyűgöző külvárosi Château de Roset-Fluans kastély meglátogatásával.\nA délidő a szép Église Saint-Claude templomhoz és a történelmileg jelentős régi cserzőműhelyek negyedébe viszi.\nDélután utazzon az elegáns Église de la Nativité-de-Notre-Dame felé, hogy megcsodálja annak építészetét.\nFejezze be az autós túrát este a békés Église Saint-Laurent templomnál egy nyugodt befejezésért.",
+        "ro": "Începeți dimineața cu vizite la Biserica centrală Saint-Vit și la impresionantul Château de Roset-Fluans de la periferie.\nAmiaza vă aduce la frumoasa Église Saint-Claude și la cartierul istoric semnificativ al vechilor tăbăcării.\nDupă-amiaza, conduceți către eleganta Église de la Nativité-de-Notre-Dame pentru a-i aprecia arhitectura.\nÎncheiați turul cu mașina seara la pașnica Église Saint-Laurent pentru o concluzie senină.",
+        "en": "Drive into the morning with visits to the central Saint-Vit Church and the impressive Château de Roset-Fluans on the outskirts.\nMidday brings you to the lovely Église Saint-Claude and the historically significant Old Tanneries District.\nIn the afternoon, cruise to the elegant Église de la Nativité-de-Notre-Dame to appreciate its architecture.\nWrap up your driving tour in the evening at the peaceful Église Saint-Laurent for a serene conclusion."
+      }
+    }
+  }
+}

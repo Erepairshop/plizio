@@ -1,0 +1,405 @@
+{
+  "city_id": "revin",
+  "anchor": {
+    "name": "Revin",
+    "coords": [
+      4.6386,
+      49.9425
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:55",
+      "total_km": 2.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Spanisches Haus",
+            "hu": "Spanyol ház",
+            "ro": "Casa Spaniolă",
+            "en": "The Spanish House"
+          },
+          "coords": [
+            4.637349,
+            49.943893
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem charakteristischen Fachwerkhaus die reiche lokale Geschichte und achten Sie auf die wechselnden handwerklichen Ausstellungen im ersten Stock.",
+            "hu": "Fedezze fel a helyi történelmet ebben a jellegzetes favázas épületben, és mindenképpen szánjon időt az emeleten található időszakos kézműves kiállításokra.",
+            "ro": "Descoperiți istoria locală bogată în această casă tradițională cu structură din lemn și nu ratați expozițiile temporare de artizanat de la primul etaj.",
+            "en": "Discover rich local history inside this distinctive timber-framed building, and be sure to check out the rotating craft exhibitions on the upper floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame Kirche",
+            "hu": "Notre-Dame templom",
+            "ro": "Biserica Notre-Dame",
+            "en": "Notre-Dame Church"
+          },
+          "coords": [
+            4.634916,
+            49.94372
+          ],
+          "category": "religious",
+          "arrive_at": "10:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, aber elegante Architektur dieser Kirche und nehmen Sie sich einen Moment Zeit, um die kunstvollen Buntglasfenster im Licht zu betrachten.",
+            "hu": "Csodálja meg a templom egyszerű, de elegáns építészetét, és szánjon egy pillanatot a színes üvegablakokon átszűrődő fény megfigyelésére.",
+            "ro": "Admirați arhitectura simplă, dar elegantă a acestei biserici și rezervați-vă un moment pentru a privi vitraliile frumos luminate de soare.",
+            "en": "Admire the simple yet elegant architecture of this church, and take a moment to appreciate the intricate stained glass windows catching the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Saal Jean Vilar",
+            "hu": "Jean Vilar Terem",
+            "ro": "Sala Jean Vilar",
+            "en": "Jean Vilar Hall"
+          },
+          "coords": [
+            4.632669,
+            49.93891
+          ],
+          "category": "cultural",
+          "arrive_at": "11:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Dieses kulturelle Zentrum bietet einen faszinierenden Einblick in das moderne Gemeindeleben; schauen Sie unbedingt vorab auf den Spielplan für aktuelle Veranstaltungen.",
+            "hu": "Ez a kulturális központ lenyűgöző bepillantást nyújt a modern közösségi életbe, ezért érdemes előre ellenőrizni a programot az aktuális eseményekért.",
+            "ro": "Acest centru cultural oferă o perspectivă fascinantă asupra vieții comunitare moderne, așa că verificați din timp programul pentru evenimentele actuale.",
+            "en": "This cultural center offers a fascinating glimpse into modern community life, so make sure to check their schedule beforehand for any ongoing events or exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Park Rocheteaux",
+            "hu": "Rocheteaux Park",
+            "ro": "Parcul Rocheteaux",
+            "en": "Rocheteaux Park"
+          },
+          "coords": [
+            4.638434,
+            49.937158
+          ],
+          "category": "landmark",
+          "arrive_at": "12:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannten Spaziergang durch diesen grünen Park und nutzen Sie die schattigen Bänke für eine erholsame Pause inmitten der Natur.",
+            "hu": "Élvezze a pihentető sétát ebben a zöld parkban, és használja ki az árnyékos padokat egy frissítő pihenőre a természet lágy ölén.",
+            "ro": "Bucurați-vă de o plimbare relaxantă prin acest parc verde și profitați de băncile umbrite pentru o pauză reconfortantă în mijlocul naturii.",
+            "en": "Enjoy a relaxing stroll through this leafy park and take advantage of the shaded benches for a refreshing break surrounded by local flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Mintch-Felsen",
+            "hu": "Mintch-szikla",
+            "ro": "Stânca Mintch",
+            "en": "Mintch Rock"
+          },
+          "coords": [
+            4.651825,
+            49.939581
+          ],
+          "category": "natural",
+          "arrive_at": "14:00",
+          "stay_min": 55,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erwandern Sie diesen markanten Felsvorsprung für eine spektakuläre Aussicht auf die Flussschleife und tragen Sie unbedingt festes Schuhwerk für den Aufstieg.",
+            "hu": "Túrázzon fel erre a lenyűgöző sziklakiszögellésre a folyókanyarulat páratlan látványáért, de a mászáshoz feltétlenül viseljen masszív túracipőt.",
+            "ro": "Urcați pe acest promontoriu stâncos pentru o priveliște spectaculoasă asupra buclei râului, având grijă să purtați încălțăminte adecvată pentru drumeție.",
+            "en": "Hike up to this striking rocky outcrop for a spectacular view over the river bend, and ensure you wear sturdy shoes for the steep ascent."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit einem tiefen Einblick in die lokale Geschichte und Kultur im Zentrum von Revin. Mittags spazieren Sie durch belebte Straßen zu weiteren kulturellen Höhepunkten. Am Nachmittag bietet der Park eine willkommene, grüne Erholungspause. Den Tag beschließen Sie mit einem kurzen Aufstieg zu einem markanten Aussichtspunkt über dem Fluss.",
+        "hu": "Kezdje a reggelt Revin központjában, elmerülve a helyi történelemben és kultúrában. Délben sétáljon végig a hangulatos utcákon további kulturális kincseket keresve. Délután a zöldellő park nyújt kellemes és frissítő pihenést. A napot egy rövid túrával zárja a folyóra néző lenyűgöző kilátópontnál.",
+        "ro": "Începeți dimineața cu o incursiune profundă în istoria și cultura locală în centrul orașului Revin. La amiază, plimbați-vă pe străzile pline de viață spre alte atracții culturale. După-amiaza, parcul oferă o pauză verde și binevenită. Încheiați ziua cu o scurtă ascensiune către un punct de belvedere impresionant.",
+        "en": "Start the morning by diving deep into local history and culture right in the center of Revin. By midday, stroll through the charming streets to discover more cultural gems. In the afternoon, the leafy park offers a welcome and refreshing green break. Conclude your day with a short hike to a striking viewpoint overlooking the winding river."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:10",
+      "total_km": 7.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Notre-Dame Kirche",
+            "hu": "Notre-Dame templom",
+            "ro": "Biserica Notre-Dame",
+            "en": "Notre-Dame Church"
+          },
+          "coords": [
+            4.634916,
+            49.94372
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, aber elegante Architektur dieser Kirche und nehmen Sie sich einen Moment Zeit, um die kunstvollen Buntglasfenster im Licht zu betrachten.",
+            "hu": "Csodálja meg a templom egyszerű, de elegáns építészetét, és szánjon egy pillanatot a színes üvegablakokon átszűrődő fény megfigyelésére.",
+            "ro": "Admirați arhitectura simplă, dar elegantă a acestei biserici și rezervați-vă un moment pentru a privi vitraliile frumos luminate de soare.",
+            "en": "Admire the simple yet elegant architecture of this church, and take a moment to appreciate the intricate stained glass windows catching the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Spanisches Haus",
+            "hu": "Spanyol ház",
+            "ro": "Casa Spaniolă",
+            "en": "The Spanish House"
+          },
+          "coords": [
+            4.637349,
+            49.943893
+          ],
+          "category": "museum",
+          "arrive_at": "09:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem charakteristischen Fachwerkhaus die reiche lokale Geschichte und achten Sie auf die wechselnden handwerklichen Ausstellungen im ersten Stock.",
+            "hu": "Fedezze fel a helyi történelmet ebben a jellegzetes favázas épületben, és mindenképpen szánjon időt az emeleten található időszakos kézműves kiállításokra.",
+            "ro": "Descoperiți istoria locală bogată în această casă tradițională cu structură din lemn și nu ratați expozițiile temporare de artizanat de la primul etaj.",
+            "en": "Discover rich local history inside this distinctive timber-framed building, and be sure to check out the rotating craft exhibitions on the upper floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Mintch-Felsen",
+            "hu": "Mintch-szikla",
+            "ro": "Stânca Mintch",
+            "en": "Mintch Rock"
+          },
+          "coords": [
+            4.651825,
+            49.939581
+          ],
+          "category": "natural",
+          "arrive_at": "11:38",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erwandern Sie diesen markanten Felsvorsprung für eine spektakuläre Aussicht auf die Flussschleife und tragen Sie unbedingt festes Schuhwerk für den Aufstieg.",
+            "hu": "Túrázzon fel erre a lenyűgöző sziklakiszögellésre a folyókanyarulat páratlan látványáért, de a mászáshoz feltétlenül viseljen masszív túracipőt.",
+            "ro": "Urcați pe acest promontoriu stâncos pentru o priveliște spectaculoasă asupra buclei râului, având grijă să purtați încălțăminte adecvată pentru drumeție.",
+            "en": "Hike up to this striking rocky outcrop for a spectacular view over the river bend, and ensure you wear sturdy shoes for the steep ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Berg Malgré-Tout",
+            "hu": "Malgré-Tout hegy",
+            "ro": "Muntele Malgré-Tout",
+            "en": "Mount Malgré-Tout"
+          },
+          "coords": [
+            4.663948,
+            49.939399
+          ],
+          "category": "natural",
+          "arrive_at": "12:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Besteigen Sie diesen bewaldeten Berg, der einst George Sand inspirierte, und genießen Sie die Panoramaaussicht auf die Ardennenlandschaft.",
+            "hu": "Mássza meg ezt az erdős hegyet, amely egykor George Sandot is megihlette, és élvezze az Ardennek tájára nyíló páratlan panorámát.",
+            "ro": "Urcați pe acest munte împădurit care a inspirat-o odinioară pe George Sand și bucurați-vă de panorama superbă asupra peisajului din Ardeni.",
+            "en": "Climb this forested mountain that once inspired author George Sand, and soak in the expansive panoramic views of the dense Ardennes landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Staudamm",
+            "hu": "Vízerőmű gát",
+            "ro": "Barajul hidroelectric",
+            "en": "Hydroelectric Dam"
+          },
+          "coords": [
+            4.607693,
+            49.928183
+          ],
+          "category": "natural",
+          "arrive_at": "13:15",
+          "stay_min": 55,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die beeindruckende Ingenieurskunst dieser Staudammanlage und fotografieren Sie das faszinierende Zusammenspiel von Wasser und Technologie.",
+            "hu": "Figyelje meg ennek a gátnak a lenyűgöző mérnöki megoldásait, és készítsen nagyszerű fotókat a víz és a technológia lenyűgöző találkozásáról.",
+            "ro": "Observați ingineria impresionantă a acestui baraj hidroelectric și fotografiați contrastul fascinant dintre forța apei și tehnologia modernă.",
+            "en": "Observe the impressive engineering of this hydroelectric dam and capture great photos of the fascinating interplay between roaring water and industrial technology."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am Morgen im historischen Zentrum und erkunden Sie entspannt die wichtigsten Kirchen und Museen. Mittags radeln Sie den Hügel hinauf zu beeindruckenden Felsformationen. Der Nachmittag ist geprägt von den Panoramablicken des bewaldeten Berges. Zum Abschluss rollen Sie gemütlich zum spektakulären Staudamm am Rande der Stadt.",
+        "hu": "Kezdje a reggelt a történelmi központban, felfedezve a legfontosabb templomokat és múzeumokat. Délben tekerjen fel a hegyre a lenyűgöző sziklaképződményekhez. A délutánt az erdős hegycsúcsról nyíló panoráma határozza meg. Befejezésül guruljon le kényelmesen a város szélén található látványos gáthoz.",
+        "ro": "Începeți dimineața în centrul istoric, explorând pe îndelete principalele biserici și muzee. La amiază, pedalați pe deal spre formațiuni stâncoase impresionante. După-amiaza este marcată de priveliștile panoramice de pe muntele împădurit. La final, coborâți relaxat spre barajul spectaculos de la marginea orașului.",
+        "en": "Start your morning in the historic center, effortlessly exploring the main churches and local museums. At midday, pedal up the rolling hills to discover impressive rocky formations. The afternoon is defined by the panoramic views from the forested mountain peak. Finally, cruise down to the spectacular dam at the edge of the city."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:09",
+      "total_km": 9.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Spanisches Haus",
+            "hu": "Spanyol ház",
+            "ro": "Casa Spaniolă",
+            "en": "The Spanish House"
+          },
+          "coords": [
+            4.637349,
+            49.943893
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem charakteristischen Fachwerkhaus die reiche lokale Geschichte und achten Sie auf die wechselnden handwerklichen Ausstellungen im ersten Stock.",
+            "hu": "Fedezze fel a helyi történelmet ebben a jellegzetes favázas épületben, és mindenképpen szánjon időt az emeleten található időszakos kézműves kiállításokra.",
+            "ro": "Descoperiți istoria locală bogată în această casă tradițională cu structură din lemn și nu ratați expozițiile temporare de artizanat de la primul etaj.",
+            "en": "Discover rich local history inside this distinctive timber-framed building, and be sure to check out the rotating craft exhibitions on the upper floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame Kirche",
+            "hu": "Notre-Dame templom",
+            "ro": "Biserica Notre-Dame",
+            "en": "Notre-Dame Church"
+          },
+          "coords": [
+            4.634916,
+            49.94372
+          ],
+          "category": "religious",
+          "arrive_at": "10:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, aber elegante Architektur dieser Kirche und nehmen Sie sich einen Moment Zeit, um die kunstvollen Buntglasfenster im Licht zu betrachten.",
+            "hu": "Csodálja meg a templom egyszerű, de elegáns építészetét, és szánjon egy pillanatot a színes üvegablakokon átszűrődő fény megfigyelésére.",
+            "ro": "Admirați arhitectura simplă, dar elegantă a acestei biserici și rezervați-vă un moment pentru a privi vitraliile frumos luminate de soare.",
+            "en": "Admire the simple yet elegant architecture of this church, and take a moment to appreciate the intricate stained glass windows catching the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Berg Malgré-Tout",
+            "hu": "Malgré-Tout hegy",
+            "ro": "Muntele Malgré-Tout",
+            "en": "Mount Malgré-Tout"
+          },
+          "coords": [
+            4.663948,
+            49.939399
+          ],
+          "category": "natural",
+          "arrive_at": "11:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Besteigen Sie diesen bewaldeten Berg, der einst George Sand inspirierte, und genießen Sie die Panoramaaussicht auf die Ardennenlandschaft.",
+            "hu": "Mássza meg ezt az erdős hegyet, amely egykor George Sandot is megihlette, és élvezze az Ardennek tájára nyíló páratlan panorámát.",
+            "ro": "Urcați pe acest munte împădurit care a inspirat-o odinioară pe George Sand și bucurați-vă de panorama superbă asupra peisajului din Ardeni.",
+            "en": "Climb this forested mountain that once inspired author George Sand, and soak in the expansive panoramic views of the dense Ardennes landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Peter Kirche",
+            "hu": "Szent Péter templom",
+            "ro": "Biserica Sfântul Petru",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            4.676107,
+            49.931071
+          ],
+          "category": "religious",
+          "arrive_at": "12:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese friedliche Kirche abseits des Trubels, um ihre historischen Details zu bewundern und einen Moment der vollkommenen Stille zu genießen.",
+            "hu": "Látogasson el ebbe a nyüzsgéstől távol eső békés templomba, hogy megcsodálja történelmi részleteit és élvezze a teljes csend pillanatait.",
+            "ro": "Vizitați această biserică liniștită, departe de agitație, pentru a-i admira detaliile istorice și pentru a savura un moment de liniște absolută.",
+            "en": "Visit this peaceful church tucked away from the main bustle to admire its historic details and enjoy a rare moment of absolute tranquility."
+          }
+        },
+        {
+          "name": {
+            "de": "Staudamm",
+            "hu": "Vízerőmű gát",
+            "ro": "Barajul hidroelectric",
+            "en": "Hydroelectric Dam"
+          },
+          "coords": [
+            4.607693,
+            49.928183
+          ],
+          "category": "natural",
+          "arrive_at": "13:14",
+          "stay_min": 55,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie die beeindruckende Ingenieurskunst dieser Staudammanlage und fotografieren Sie das faszinierende Zusammenspiel von Wasser und Technologie.",
+            "hu": "Figyelje meg ennek a gátnak a lenyűgöző mérnöki megoldásait, és készítsen nagyszerű fotókat a víz és a technológia lenyűgöző találkozásáról.",
+            "ro": "Observați ingineria impresionantă a acestui baraj hidroelectric și fotografiați contrastul fascinant dintre forța apei și tehnologia modernă.",
+            "en": "Observe the impressive engineering of this hydroelectric dam and capture great photos of the fascinating interplay between roaring water and industrial technology."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt bequem im Stadtkern mit einem Besuch des faszinierenden Museums und der historischen Kirche. Gegen Mittag fahren Sie hoch in die Ardennen für atemberaubende Naturerlebnisse. Am Nachmittag entdecken Sie eine versteckte Kirche in den Vororten. Den perfekten Abschluss bildet der Blick auf die massive Ingenieurskunst des Staudamms im Abendlicht.",
+        "hu": "A nap kényelmesen indul a városközpontban, a lenyűgöző múzeum és a történelmi templom meglátogatásával. Délben autózzon fel az Ardennekbe a lélegzetelállító természeti élményekért. Délután fedezzen fel egy eldugott templomot a külvárosban. A tökéletes befejezést a gát hatalmas mérnöki csodájának látványa nyújtja.",
+        "ro": "Ziua începe confortabil în centrul orașului cu o vizită la muzeul fascinant și biserica istorică. La amiază, conduceți sus în Ardeni pentru experiențe naturale uluitoare. După-amiaza, descoperiți o biserică ascunsă în suburbii. Finalul perfect este oferit de vederea asupra ingineriei masive a barajului în lumina după-amiezii.",
+        "en": "Your day begins comfortably in the town core with visits to the fascinating local museum and historic church. By midday, drive up into the Ardennes for breathtaking natural experiences. In the afternoon, discover a quiet, hidden church in the suburbs. The perfect ending is the sight of the massive dam engineering in the late light."
+      }
+    }
+  }
+}

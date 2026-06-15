@@ -1,0 +1,428 @@
+{
+  "city_id": "avesnes-sur-helpe",
+  "anchor": {
+    "name": "Avesnes-sur-Helpe",
+    "coords": [
+      3.9327,
+      50.1224
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:40",
+      "total_km": 3.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kollegiatstift Saint-Nicolas",
+            "hu": "Saint-Nicolas társaskáptalan templom",
+            "ro": "Biserica Colegială Saint-Nicolas",
+            "en": "Saint-Nicolas Collegiate Church"
+          },
+          "coords": [
+            3.9325,
+            50.1219
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das markante Glockenspiel dieser Stiftskirche aus dem 16. Jahrhundert, aber besuchen Sie sie vor Mittag, um den melodischen Klang zu hören.",
+            "hu": "Csodálja meg a 16. századi társaskáptalani templom lenyűgöző harangjátékát, de feltétlenül dél előtt érkezzen, hogy hallhassa a dallamos harangszót.",
+            "ro": "Admirați impresionantul carilon din secolul al XVI-lea al acestei biserici colegiale, dar vizitați-o înainte de prânz pentru a-i asculta sunetul melodios.",
+            "en": "Admire the striking 16th-century carillon of this collegiate church to understand local heritage, but visit before noon to hear its melodious chime clearly."
+          }
+        },
+        {
+          "name": {
+            "de": "Königinnenbastion",
+            "hu": "Királynő Bástyája",
+            "ro": "Bastionul Reginei",
+            "en": "Queen's Bastion"
+          },
+          "coords": [
+            3.927017,
+            50.12397
+          ],
+          "category": "fortress",
+          "arrive_at": "09:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese robusten Vauban-Festungen, die einst die Grenze schützten, und tragen Sie feste Schuhe, um sicher auf den historischen Wegen zu gehen.",
+            "hu": "Fedezze fel ezeket a robusztus Vauban-erődítményeket, amelyek egykor a határt védték, és viseljen kényelmes cipőt a történelmi, egyenetlen ösvények miatt.",
+            "ro": "Explorați aceste fortificații robuste Vauban care protejau odată frontiera și purtați încălțăminte confortabilă pentru a naviga în siguranță pe căile istorice.",
+            "en": "Explore these robust Vauban fortifications that once protected the French frontier, and wear sturdy walking shoes to navigate the uneven historic pathways safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Denis",
+            "hu": "Église Saint-Denis",
+            "ro": "Église Saint-Denis",
+            "en": "Église Saint-Denis"
+          },
+          "coords": [
+            3.946991,
+            50.11832
+          ],
+          "category": "religious",
+          "arrive_at": "11:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Beachten Sie das markante regionale Mauerwerk dieser malerischen Pfarrkirche und bringen Sie unbedingt eine Kamera für das warme, einladende Nachmittagslicht mit.",
+            "hu": "Figyelje meg ennek a bájos plébániatemplomnak a jellegzetes, regionális téglaépítészetét, és hozzon magával fényképezőgépet a meleg délutáni fényekhez.",
+            "ro": "Observați zidăria regională distinctivă a acestei biserici parohiale pitorești și aduceți neapărat o cameră foto pentru a surprinde lumina caldă a după-amiezii.",
+            "en": "Notice the distinctive regional brickwork of this quaint parish church representing classic rural architecture, and bring a camera for the warm afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Sainte-Aldegonde",
+            "hu": "Chapelle Sainte-Aldegonde",
+            "ro": "Chapelle Sainte-Aldegonde",
+            "en": "Chapelle Sainte-Aldegonde"
+          },
+          "coords": [
+            3.959024,
+            50.125519
+          ],
+          "category": "religious",
+          "arrive_at": "12:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser ruhigen, einer lokalen Heiligen gewidmeten Kapelle, um die mittelalterliche Hingabe zu würdigen, und lesen Sie die kleine Infotafel draußen.",
+            "hu": "Álljon meg ennél a helyi szentnek szentelt, békés kápolnánál a középkori áhítat átéléséhez, és feltétlenül olvassa el a kinti kis történelmi információs táblát.",
+            "ro": "Opriți-vă la această capelă liniștită dedicată unei sfinte locale pentru a aprecia devotamentul medieval și citiți micul panou informativ aflat la exterior.",
+            "en": "Pause at this serene roadside chapel dedicated to a local saint to appreciate medieval devotion, and check the small info board outside for historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Victor",
+            "hu": "Église Saint-Victor",
+            "ro": "Église Saint-Victor",
+            "en": "Église Saint-Victor"
+          },
+          "coords": [
+            3.968968,
+            50.125219
+          ],
+          "category": "religious",
+          "arrive_at": "13:30",
+          "stay_min": 70,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie das wunderschön erhaltene Altarbild in dieser ruhigen Dorfkirche und treten Sie leise auf, da es sich um eine noch aktive Gemeinde handelt.",
+            "hu": "Fedezze fel a csendes falusi templom csodálatosan megőrzött, igazi mestermunkát tükröző oltárképét, de mozogjon csendben, mivel ez még egy aktív plébánia.",
+            "ro": "Descoperiți retablul frumos conservat din această biserică liniștită de sat care reflectă măiestria adevărată și pășiți ușor, fiind o parohie încă activă.",
+            "en": "Discover the beautifully preserved altarpiece within this quiet village church reflecting true craftsmanship, and step lightly as it is still an active parish."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der Erkundung des historischen Herzens und der großen Stiftskirche. Gegen Mittag wandern Sie zu den robusten Festungen, um mehr über die militärische Vergangenheit zu erfahren. Der Nachmittag führt durch ruhigere Wohnstraßen, die kleine, charmante Gemeinden verbinden. Beenden Sie den Tag mit einem friedlichen Moment in der Kirche Saint-Victor.",
+        "hu": "Kezdje a reggelt a város történelmi és vallási központjának felfedezésével, különös tekintettel a hatalmas társaskáptalani templomra. Délben sétáljon az erődítmények felé, hogy megismerje a katonai múltat. A délután csendesebb lakóutcákon vezet keresztül, apró, bájos plébániákat érintve. Zárja a napot egy békés pillanattal a Saint-Victor templomnál naplemente előtt.",
+        "ro": "Începeți dimineața explorând inima istorică și religioasă, concentrându-vă pe marea Biserică Colegială. La prânz, plimbați-vă spre fortificațiile robuste pentru a afla despre trecutul militar. După-amiaza vă poartă pe străzi rezidențiale mai liniștite care leagă parohii fermecătoare. Încheiați ziua cu un moment de liniște la biserica Saint-Victor înainte de apus.",
+        "en": "Start your morning exploring the central historical and religious heart of the city, focusing on the grand Collegiate Church. By midday, wander towards the robust fortifications to learn about the region's military past. The afternoon takes you through quieter residential streets linking smaller, charming parishes. Conclude the day with a peaceful moment at Saint-Victor before sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:40",
+      "total_km": 13.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Königinnenbastion",
+            "hu": "Királynő Bástyája",
+            "ro": "Bastionul Reginei",
+            "en": "Queen's Bastion"
+          },
+          "coords": [
+            3.927017,
+            50.12397
+          ],
+          "category": "fortress",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese robusten Vauban-Festungen, die einst die Grenze schützten, und tragen Sie feste Schuhe, um sicher auf den historischen Wegen zu gehen.",
+            "hu": "Fedezze fel ezeket a robusztus Vauban-erődítményeket, amelyek egykor a határt védték, és viseljen kényelmes cipőt a történelmi, egyenetlen ösvények miatt.",
+            "ro": "Explorați aceste fortificații robuste Vauban care protejau odată frontiera și purtați încălțăminte confortabilă pentru a naviga în siguranță pe căile istorice.",
+            "en": "Explore these robust Vauban fortifications that once protected the French frontier, and wear sturdy walking shoes to navigate the uneven historic pathways safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Kollegiatstift Saint-Nicolas",
+            "hu": "Saint-Nicolas társaskáptalan templom",
+            "ro": "Biserica Colegială Saint-Nicolas",
+            "en": "Saint-Nicolas Collegiate Church"
+          },
+          "coords": [
+            3.9325,
+            50.1219
+          ],
+          "category": "religious",
+          "arrive_at": "10:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Bewundern Sie das markante Glockenspiel dieser Stiftskirche aus dem 16. Jahrhundert, aber besuchen Sie sie vor Mittag, um den melodischen Klang zu hören.",
+            "hu": "Csodálja meg a 16. századi társaskáptalani templom lenyűgöző harangjátékát, de feltétlenül dél előtt érkezzen, hogy hallhassa a dallamos harangszót.",
+            "ro": "Admirați impresionantul carilon din secolul al XVI-lea al acestei biserici colegiale, dar vizitați-o înainte de prânz pentru a-i asculta sunetul melodios.",
+            "en": "Admire the striking 16th-century carillon of this collegiate church to understand local heritage, but visit before noon to hear its melodious chime clearly."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Hilaire",
+            "hu": "Église Saint-Hilaire",
+            "ro": "Église Saint-Hilaire",
+            "en": "Église Saint-Hilaire"
+          },
+          "coords": [
+            3.905198,
+            50.133063
+          ],
+          "category": "religious",
+          "arrive_at": "11:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Betrachten Sie die Buntglasfenster dieser historischen Kirche genau, um lebendige biblische Geschichten zu sehen, und stehen Sie für den besten Blick in Chor-Nähe.",
+            "hu": "Vizsgálja meg a történelmi templom ólomüveg ablakait az élénk bibliai történetekért, és álljon a kórus közelébe a legjobb építészeti kilátás és élmény érdekében.",
+            "ro": "Priviți cu atenție vitraliile acestei biserici istorice pentru a vedea narațiuni biblice vii și așezați-vă lângă cor pentru cel mai bun punct de vedere.",
+            "en": "Look closely at the stained glass windows of this historic church to see vivid biblical narratives, and stand near the choir for the best architectural viewpoint."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-André",
+            "hu": "Église Saint-André",
+            "ro": "Église Saint-André",
+            "en": "Église Saint-André"
+          },
+          "coords": [
+            3.91365,
+            50.101488
+          ],
+          "category": "religious",
+          "arrive_at": "12:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Genießen Sie das einfache, aber elegante Design von Saint-André, das den klassischen ländlichen Glauben zeigt, und drücken Sie die Haupttüren kräftig auf.",
+            "hu": "Csodálja meg a Saint-André egyszerű, mégis elegáns, vidéki hitet tükröző kialakítását, de vegye figyelembe, hogy a főajtó kinyitásához határozott lökés kell.",
+            "ro": "Admirați designul simplu, dar elegant al bisericii Saint-André, și rețineți că ușile principale ar putea necesita o împingere fermă pentru a se deschide complet.",
+            "en": "Take in the simplistic yet elegant design of Saint-André showcasing classical rural faith, and note that the main doors may require a firm push to open fully."
+          }
+        },
+        {
+          "name": {
+            "de": "Place du Général de Gaulle",
+            "hu": "Place du Général de Gaulle",
+            "ro": "Piața General de Gaulle",
+            "en": "General de Gaulle Square"
+          },
+          "coords": [
+            4.011515,
+            50.095563
+          ],
+          "category": "civic",
+          "arrive_at": "13:45",
+          "stay_min": 55,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre auf diesem zentralen Platz mit historischen Bürgerhäusern und trinken Sie einen Espresso in einem Eckcafé, um Leute zu beobachten.",
+            "hu": "Élvezze a történelmi polgárházakkal szegélyezett központi tér nyüzsgő hangulatát, és igyon egy gyors eszpresszót az egyik sarki kávézóban a helyiek megfigyeléséhez.",
+            "ro": "Bucurați-vă de atmosfera civică plină de viață din această piață centrală mărginită de case istorice și beți un espresso rapid la o cafenea de la colț.",
+            "en": "Soak up the lively civic atmosphere at this central square bordered by historic townhouses, and grab a quick espresso at a corner café to watch the locals."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Treten Sie kräftig von der historischen Königinnenbastion in die Pedale und genießen Sie die klare Morgenluft. Mittags erreichen Sie die zentrale Stiftskirche, bevor Sie zu Vorstadtkapellen fahren. Die nachmittägliche Fahrt verbindet Saint-Hilaire und Saint-André mit malerischen Übergängen. Beenden Sie Ihre Tour am belebten Place du Général de Gaulle für eine verdiente Pause.",
+        "hu": "Induljon a történelmi Királynő Bástyájától, élvezve a friss reggeli levegőt az ősi falak mentén. A dél a központi társaskáptalani templomhoz vezet, majd a csendesebb külvárosi kápolnák felé kerékpározhat. A délutáni túra összeköti a Saint-Hilaire-t és a Saint-André-t. Fejezze be a kerékpározást a nyüzsgő General de Gaulle téren egy jól megérdemelt pihenéssel.",
+        "ro": "Porniți de la Bastionul Reginei, bucurându-vă de aerul proaspăt al dimineții. Prânzul vă aduce la biserica centrală colegială înainte de a vă îndrepta spre capelele liniștite de la periferie. Plimbarea de după-amiază conectează Saint-Hilaire și Saint-André, oferind peisaje pitorești. Încheiați traseul în piața animată General de Gaulle pentru o odihnă bine meritată.",
+        "en": "Pedal off vigorously from the historic Queen's Bastion, enjoying the crisp morning air alongside ancient walls. Midday brings you to the central collegiate church before cruising out to the quieter suburban chapels. The afternoon ride connects Saint-Hilaire and Saint-André, offering scenic transitions. End your cycle at the bustling General de Gaulle Square for a well-deserved rest."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:27",
+      "total_km": 9.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place du Général de Gaulle",
+            "hu": "Place du Général de Gaulle",
+            "ro": "Piața General de Gaulle",
+            "en": "General de Gaulle Square"
+          },
+          "coords": [
+            4.011515,
+            50.095563
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre auf diesem zentralen Platz mit historischen Bürgerhäusern und trinken Sie einen Espresso in einem Eckcafé, um Leute zu beobachten.",
+            "hu": "Élvezze a történelmi polgárházakkal szegélyezett központi tér nyüzsgő hangulatát, és igyon egy gyors eszpresszót az egyik sarki kávézóban a helyiek megfigyeléséhez.",
+            "ro": "Bucurați-vă de atmosfera civică plină de viață din această piață centrală mărginită de case istorice și beți un espresso rapid la o cafenea de la colț.",
+            "en": "Soak up the lively civic atmosphere at this central square bordered by historic townhouses, and grab a quick espresso at a corner café to watch the locals."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Victor",
+            "hu": "Église Saint-Victor",
+            "ro": "Église Saint-Victor",
+            "en": "Église Saint-Victor"
+          },
+          "coords": [
+            3.968968,
+            50.125219
+          ],
+          "category": "religious",
+          "arrive_at": "09:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie das wunderschön erhaltene Altarbild in dieser ruhigen Dorfkirche und treten Sie leise auf, da es sich um eine noch aktive Gemeinde handelt.",
+            "hu": "Fedezze fel a csendes falusi templom csodálatosan megőrzött, igazi mestermunkát tükröző oltárképét, de mozogjon csendben, mivel ez még egy aktív plébánia.",
+            "ro": "Descoperiți retablul frumos conservat din această biserică liniștită de sat care reflectă măiestria adevărată și pășiți ușor, fiind o parohie încă activă.",
+            "en": "Discover the beautifully preserved altarpiece within this quiet village church reflecting true craftsmanship, and step lightly as it is still an active parish."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Sainte-Aldegonde",
+            "hu": "Chapelle Sainte-Aldegonde",
+            "ro": "Chapelle Sainte-Aldegonde",
+            "en": "Chapelle Sainte-Aldegonde"
+          },
+          "coords": [
+            3.959024,
+            50.125519
+          ],
+          "category": "religious",
+          "arrive_at": "10:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser ruhigen, einer lokalen Heiligen gewidmeten Kapelle, um die mittelalterliche Hingabe zu würdigen, und lesen Sie die kleine Infotafel draußen.",
+            "hu": "Álljon meg ennél a helyi szentnek szentelt, békés kápolnánál a középkori áhítat átéléséhez, és feltétlenül olvassa el a kinti kis történelmi információs táblát.",
+            "ro": "Opriți-vă la această capelă liniștită dedicată unei sfinte locale pentru a aprecia devotamentul medieval și citiți micul panou informativ aflat la exterior.",
+            "en": "Pause at this serene roadside chapel dedicated to a local saint to appreciate medieval devotion, and check the small info board outside for historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Kollegiatstift Saint-Nicolas",
+            "hu": "Saint-Nicolas társaskáptalan templom",
+            "ro": "Biserica Colegială Saint-Nicolas",
+            "en": "Saint-Nicolas Collegiate Church"
+          },
+          "coords": [
+            3.9325,
+            50.1219
+          ],
+          "category": "religious",
+          "arrive_at": "11:11",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das markante Glockenspiel dieser Stiftskirche aus dem 16. Jahrhundert, aber besuchen Sie sie vor Mittag, um den melodischen Klang zu hören.",
+            "hu": "Csodálja meg a 16. századi társaskáptalani templom lenyűgöző harangjátékát, de feltétlenül dél előtt érkezzen, hogy hallhassa a dallamos harangszót.",
+            "ro": "Admirați impresionantul carilon din secolul al XVI-lea al acestei biserici colegiale, dar vizitați-o înainte de prânz pentru a-i asculta sunetul melodios.",
+            "en": "Admire the striking 16th-century carillon of this collegiate church to understand local heritage, but visit before noon to hear its melodious chime clearly."
+          }
+        },
+        {
+          "name": {
+            "de": "Königinnenbastion",
+            "hu": "Királynő Bástyája",
+            "ro": "Bastionul Reginei",
+            "en": "Queen's Bastion"
+          },
+          "coords": [
+            3.927017,
+            50.12397
+          ],
+          "category": "fortress",
+          "arrive_at": "11:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese robusten Vauban-Festungen, die einst die Grenze schützten, und tragen Sie feste Schuhe, um sicher auf den historischen Wegen zu gehen.",
+            "hu": "Fedezze fel ezeket a robusztus Vauban-erődítményeket, amelyek egykor a határt védték, és viseljen kényelmes cipőt a történelmi, egyenetlen ösvények miatt.",
+            "ro": "Explorați aceste fortificații robuste Vauban care protejau odată frontiera și purtați încălțăminte confortabilă pentru a naviga în siguranță pe căile istorice.",
+            "en": "Explore these robust Vauban fortifications that once protected the French frontier, and wear sturdy walking shoes to navigate the uneven historic pathways safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Hilaire",
+            "hu": "Église Saint-Hilaire",
+            "ro": "Église Saint-Hilaire",
+            "en": "Église Saint-Hilaire"
+          },
+          "coords": [
+            3.905198,
+            50.133063
+          ],
+          "category": "religious",
+          "arrive_at": "13:17",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Betrachten Sie die Buntglasfenster dieser historischen Kirche genau, um lebendige biblische Geschichten zu sehen, und stehen Sie für den besten Blick in Chor-Nähe.",
+            "hu": "Vizsgálja meg a történelmi templom ólomüveg ablakait az élénk bibliai történetekért, és álljon a kórus közelébe a legjobb építészeti kilátás és élmény érdekében.",
+            "ro": "Priviți cu atenție vitraliile acestei biserici istorice pentru a vedea narațiuni biblice vii și așezați-vă lângă cor pentru cel mai bun punct de vedere.",
+            "en": "Look closely at the stained glass windows of this historic church to see vivid biblical narratives, and stand near the choir for the best architectural viewpoint."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour am lebhaften Place du Général de Gaulle und trinken Sie einen Kaffee. Gegen Mittag steuern Sie die historischen religiösen Stätten am Stadtrand an. Verbringen Sie den Nachmittag damit, an der Stiftskirche und der Bastion in die reiche Geschichte einzutauchen. Beenden Sie die heutige Fahrt am frühen Abend entspannt an der Kirche Saint-Hilaire.",
+        "hu": "Kezdje autós túráját a nyüzsgő General de Gaulle téren egy kávéval, mielőtt útnak indul. Ahogy közeledik a dél, navigáljon a város szélén található történelmi vallási helyszínek felé. Töltse a délutánt a gazdag történelem felfedezésével a társaskáptalani templomnál és a bástyánál. Zárja a napot a kora esti órákban a Saint-Hilaire templomnál tett csendes látogatással.",
+        "ro": "Începeți turul cu mașina în Piața General de Gaulle, savurând o cafea. Pe măsură ce se apropie prânzul, îndreptați-vă spre grupul de situri religioase istorice de la marginea orașului. Petreceți după-amiaza descoperind istoria bogată la Biserica Colegială și la faimosul Bastion. Încheiați călătoria zilei la frumoasa biserică Saint-Hilaire la începutul serii liniștite.",
+        "en": "Kick off your driving tour at the vibrant General de Gaulle Square, grabbing a coffee before hitting the road. As midday approaches, navigate towards the cluster of historical religious sites and chapels on the city's edge. Spend your afternoon diving deep into the area's rich history at the Collegiate Church and the Bastion. Wrap up the day's drive at Saint-Hilaire in the early evening."
+      }
+    }
+  }
+}

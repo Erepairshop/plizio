@@ -1,0 +1,520 @@
+{
+  "city_id": "france-penvins-cities-v2",
+  "anchor": {
+    "name": "Penvins",
+    "coords": [
+      -2.68498,
+      47.5059
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 4.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Château de Kérampoul",
+            "hu": "Château de Kérampoul",
+            "ro": "Château de Kérampoul",
+            "en": "Château de Kérampoul"
+          },
+          "coords": [
+            -2.683085,
+            47.505088
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposanten Türme dieses charmanten bretonischen Schlosses aus dem 15. Jahrhundert und bringen Sie bequeme Schuhe für einen Spaziergang im Hof mit.",
+            "hu": "Csodálja meg a 15. századi bájos breton kastély impozáns tornyait, és mindenképpen hozzon kényelmes cipőt az udvaron tett hangulatos sétához.",
+            "ro": "Admirați turnurile impunătoare ale acestui fermecător castel breton din secolul al XV-lea și aduceți încălțăminte comodă pentru o plimbare în curte.",
+            "en": "Admire the imposing towers of this charming 15th-century Breton castle, and be sure to bring comfortable shoes for a pleasant stroll in the courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Petite plage de Penvins",
+            "hu": "Petite plage de Penvins",
+            "ro": "Petite plage de Penvins",
+            "en": "Petite plage de Penvins"
+          },
+          "coords": [
+            -2.681112,
+            47.495186
+          ],
+          "category": "recreational",
+          "arrive_at": "10:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem intimen Küstenabschnitt, der perfekt für Familien ist, aber kommen Sie früh, um den besten Platz im weichen Sand zu ergattern.",
+            "hu": "Pihenjen ezen az intim, családok számára tökéletes tengerparti szakaszon, de érkezzen korán, hogy megszerezze a legjobb helyet a puha homokban.",
+            "ro": "Relaxați-vă pe această porțiune intimă de coastă perfectă pentru familii, dar sosiți devreme pentru a prinde cel mai bun loc pe nisipul fin.",
+            "en": "Relax on this intimate stretch of coastline perfect for families, but arrive early to secure the best spot on the soft sand before it gets crowded."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Penvins",
+            "hu": "Plage de Penvins",
+            "ro": "Plage de Penvins",
+            "en": "Plage de Penvins"
+          },
+          "coords": [
+            -2.691395,
+            47.498718
+          ],
+          "category": "recreational",
+          "arrive_at": "12:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erleben Sie die Weite dieses windigen Strandes, der ideal für Wassersportler ist, und vergessen Sie nicht Ihre Windjacke für einen angenehmen Spaziergang.",
+            "hu": "Tapasztalja meg ennek a szeles, vízisportokhoz ideális strandnak a tágasságát, és ne felejtse el a széldzsekijét egy kellemes tengerparti sétához.",
+            "ro": "Experimentați imensitatea acestei plaje cu vânt ideală pentru sporturi nautice și nu uitați jacheta de vânt pentru o plimbare confortabilă.",
+            "en": "Experience the vastness of this breezy beach which is ideal for water sports enthusiasts, and remember to pack a windbreaker for a comfortable stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage naturiste",
+            "hu": "Plage naturiste",
+            "ro": "Plage naturiste",
+            "en": "Plage naturiste"
+          },
+          "coords": [
+            -2.697218,
+            47.500905
+          ],
+          "category": "recreational",
+          "arrive_at": "13:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die unberührte Natur und absolute Freiheit an diesem abgelegenen FKK-Strand, wo Sie ausreichend Sonnencreme und Wasser mitbringen sollten.",
+            "hu": "Élvezze az érintetlen természetet és a teljes szabadságot ezen az eldugott naturista strandon, ahová érdemes elegendő naptejet és vizet magával hoznia.",
+            "ro": "Bucurați-vă de natura virgină și libertatea absolută pe această plajă naturistă retrasă, unde ar trebui să aduceți multă cremă de soare și apă.",
+            "en": "Enjoy untouched nature and absolute freedom at this secluded naturist beach, making sure to bring plenty of sunscreen and water for a comfortable day."
+          }
+        },
+        {
+          "name": {
+            "de": "Celt Aventures",
+            "hu": "Celt Aventures",
+            "ro": "Celt Aventures",
+            "en": "Celt Aventures"
+          },
+          "coords": [
+            -2.689512,
+            47.514106
+          ],
+          "category": "recreational",
+          "arrive_at": "15:20",
+          "stay_min": 105,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Bezwingen Sie die spannenden Hochseilgärten in diesem weitläufigen Abenteuerpark, wobei das Tragen von geschlossenen Sportschuhen für Ihre Sicherheit Pflicht ist.",
+            "hu": "Hódítsa meg az izgalmas kötélpályákat ebben a hatalmas kalandparkban, de a saját biztonsága érdekében feltétlenül viseljen zárt sportcipőt.",
+            "ro": "Cuceriți traseele provocatoare din copaci în acest vast parc de aventuri, dar asigurați-vă că purtați încălțăminte sport închisă pentru siguranța dumneavoastră.",
+            "en": "Conquer the thrilling treetop rope courses in this expansive adventure park, keeping in mind that closed-toe sports shoes are mandatory for your safety."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Tag am historischen Château de Kérampoul, wo die alten Mauern Geschichten aus vergangenen Jahrhunderten erzählen. Nach einem Spaziergang erreichen Sie die Petite plage de Penvins, ideal für eine morgendliche Abkühlung. Der Nachmittag führt Sie zur weiten Plage de Penvins und dem FKK-Strand, wo Sie Sonne pur tanken können. Lassen Sie den Tag im Celt Aventures aktiv ausklingen.",
+        "hu": "Kezdje a napot a történelmi Château de Kérampoul kastélynál, ahol a falak letűnt évszázadok történeteit suttogják. Egy rövid séta után elérheti a Petite plage de Penvins-t, amely ideális egy reggeli frissítő fürdőzéshez. Délután a tágas Plage de Penvins és a naturista strand várja, ahol magába szívhatja a napfényt. Zárja a napot aktívan a Celt Aventures izgalmas kalandparkjában.",
+        "ro": "Începeți ziua la istoricul Château de Kérampoul, unde zidurile vechi șoptesc povești din secolele trecute. După o scurtă plimbare veți ajunge la Petite plage de Penvins, ideală pentru o răcorire matinală. După-amiaza vă poartă spre vasta Plage de Penvins și plaja naturistă, unde vă puteți bucura din plin de soare. Încheiați ziua în mod activ explorând traseele de la Celt Aventures.",
+        "en": "Start your day at the historical Château de Kérampoul, where ancient walls whisper tales of centuries past. A short stroll brings you to Petite plage de Penvins, perfect for a refreshing morning dip. The afternoon leads you to the expansive Plage de Penvins and the naturist beach to soak up the coastal sunshine. End your day actively conquering the exciting trails at Celt Aventures."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:17",
+      "total_km": 7.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Moulin à Samson",
+            "hu": "Moulin à Samson",
+            "ro": "Moulin à Samson",
+            "en": "Moulin à Samson"
+          },
+          "coords": [
+            -2.704369,
+            47.5177
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte dieser alten Windmühle auf einer malerischen Klippe, und nutzen Sie das sanfte Nachmittagslicht für wunderschöne Fotos.",
+            "hu": "Fedezze fel egy festői sziklán álló régi szélmalom lenyűgöző történetét, és használja ki a lágy délutáni fényeket gyönyörű fényképek készítéséhez.",
+            "ro": "Descoperiți istoria fascinantă a acestei vechi mori de vânt așezate pe o stâncă pitorească și profitați de lumina blândă a după-amiezii pentru fotografii superbe.",
+            "en": "Discover the fascinating history of this old windmill perched on a picturesque cliff, and take advantage of the soft afternoon light for gorgeous photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Landrezac",
+            "hu": "Plage de Landrezac",
+            "ro": "Plage de Landrezac",
+            "en": "Plage de Landrezac"
+          },
+          "coords": [
+            -2.708593,
+            47.503958
+          ],
+          "category": "recreational",
+          "arrive_at": "10:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang dieses scheinbar endlosen goldenen Sandstrandes, der sich hervorragend zum Muschelsuchen eignet, wenn Sie einen kleinen Eimer mitnehmen.",
+            "hu": "Sétáljon végig ezen a végtelennek tűnő aranyhomokos strandon, amely kiválóan alkalmas kagylógyűjtésre, ha hoz magával egy kis vödröt a kincseknek.",
+            "ro": "Plimbați-vă de-a lungul acestei plaje infinite cu nisip auriu, excelentă pentru adunat scoici dacă aduceți o găletușă pentru comorile găsite.",
+            "en": "Stroll along this seemingly endless golden sand beach which is excellent for shell collecting if you remember to bring a small bucket for your finds."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage naturiste",
+            "hu": "Plage naturiste",
+            "ro": "Plage naturiste",
+            "en": "Plage naturiste"
+          },
+          "coords": [
+            -2.697218,
+            47.500905
+          ],
+          "category": "recreational",
+          "arrive_at": "11:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die unberührte Natur und absolute Freiheit an diesem abgelegenen FKK-Strand, wo Sie ausreichend Sonnencreme und Wasser mitbringen sollten.",
+            "hu": "Élvezze az érintetlen természetet és a teljes szabadságot ezen az eldugott naturista strandon, ahová érdemes elegendő naptejet és vizet magával hoznia.",
+            "ro": "Bucurați-vă de natura virgină și libertatea absolută pe această plajă naturistă retrasă, unde ar trebui să aduceți multă cremă de soare și apă.",
+            "en": "Enjoy untouched nature and absolute freedom at this secluded naturist beach, making sure to bring plenty of sunscreen and water for a comfortable day."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Penvins",
+            "hu": "Plage de Penvins",
+            "ro": "Plage de Penvins",
+            "en": "Plage de Penvins"
+          },
+          "coords": [
+            -2.691395,
+            47.498718
+          ],
+          "category": "recreational",
+          "arrive_at": "13:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erleben Sie die Weite dieses windigen Strandes, der ideal für Wassersportler ist, und vergessen Sie nicht Ihre Windjacke für einen angenehmen Spaziergang.",
+            "hu": "Tapasztalja meg ennek a szeles, vízisportokhoz ideális strandnak a tágasságát, és ne felejtse el a széldzsekijét egy kellemes tengerparti sétához.",
+            "ro": "Experimentați imensitatea acestei plaje cu vânt ideală pentru sporturi nautice și nu uitați jacheta de vânt pentru o plimbare confortabilă.",
+            "en": "Experience the vastness of this breezy beach which is ideal for water sports enthusiasts, and remember to pack a windbreaker for a comfortable stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Kérampoul",
+            "hu": "Château de Kérampoul",
+            "ro": "Château de Kérampoul",
+            "en": "Château de Kérampoul"
+          },
+          "coords": [
+            -2.683085,
+            47.505088
+          ],
+          "category": "castle",
+          "arrive_at": "14:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposanten Türme dieses charmanten bretonischen Schlosses aus dem 15. Jahrhundert und bringen Sie bequeme Schuhe für einen Spaziergang im Hof mit.",
+            "hu": "Csodálja meg a 15. századi bájos breton kastély impozáns tornyait, és mindenképpen hozzon kényelmes cipőt az udvaron tett hangulatos sétához.",
+            "ro": "Admirați turnurile impunătoare ale acestui fermecător castel breton din secolul al XV-lea și aduceți încălțăminte comodă pentru o plimbare în curte.",
+            "en": "Admire the imposing towers of this charming 15th-century Breton castle, and be sure to bring comfortable shoes for a pleasant stroll in the courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Petite plage de Penvins",
+            "hu": "Petite plage de Penvins",
+            "ro": "Petite plage de Penvins",
+            "en": "Petite plage de Penvins"
+          },
+          "coords": [
+            -2.681112,
+            47.495186
+          ],
+          "category": "recreational",
+          "arrive_at": "16:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem intimen Küstenabschnitt, der perfekt für Familien ist, aber kommen Sie früh, um den besten Platz im weichen Sand zu ergattern.",
+            "hu": "Pihenjen ezen az intim, családok számára tökéletes tengerparti szakaszon, de érkezzen korán, hogy megszerezze a legjobb helyet a puha homokban.",
+            "ro": "Relaxați-vă pe această porțiune intimă de coastă perfectă pentru familii, dar sosiți devreme pentru a prinde cel mai bun loc pe nisipul fin.",
+            "en": "Relax on this intimate stretch of coastline perfect for families, but arrive early to secure the best spot on the soft sand before it gets crowded."
+          }
+        },
+        {
+          "name": {
+            "de": "Celt Aventures",
+            "hu": "Celt Aventures",
+            "ro": "Celt Aventures",
+            "en": "Celt Aventures"
+          },
+          "coords": [
+            -2.689512,
+            47.514106
+          ],
+          "category": "recreational",
+          "arrive_at": "17:32",
+          "stay_min": 105,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Bezwingen Sie die spannenden Hochseilgärten in diesem weitläufigen Abenteuerpark, wobei das Tragen von geschlossenen Sportschuhen für Ihre Sicherheit Pflicht ist.",
+            "hu": "Hódítsa meg az izgalmas kötélpályákat ebben a hatalmas kalandparkban, de a saját biztonsága érdekében feltétlenül viseljen zárt sportcipőt.",
+            "ro": "Cuceriți traseele provocatoare din copaci în acest vast parc de aventuri, dar asigurați-vă că purtați încălțăminte sport închisă pentru siguranța dumneavoastră.",
+            "en": "Conquer the thrilling treetop rope courses in this expansive adventure park, keeping in mind that closed-toe sports shoes are mandatory for your safety."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt am malerischen Moulin à Samson, der eine herrliche Aussicht bietet. Rollen Sie weiter zur weitläufigen Plage de Landrezac, um die morgendliche Meeresbrise zu genießen. Mittags erkunden Sie die Plage naturiste und die lebhafte Plage de Penvins. Nachmittags bestaunen Sie das Château de Kérampoul und entspannen an der Petite plage, bevor es ins Celt Aventures geht.",
+        "hu": "Kerékpártúrája a festői Moulin à Samson szélmalomnál kezdődik, ahonnan csodálatos kilátás nyílik. Guruljon tovább a Plage de Landrezac strandhoz a reggeli tengeri szellőért. Délben fedezze fel a naturista strandot és a nyüzsgő Plage de Penvins-t. Délután csodálja meg a Château de Kérampoul kastélyt, lazítson a Petite plage-on, mielőtt belevetné magát a Celt Aventures izgalmaiba.",
+        "ro": "Turul pe bicicletă începe la pitorescul Moulin à Samson, care oferă o panoramă superbă. Pedalați apoi spre întinsa Plage de Landrezac pentru a savura briza mării. La prânz explorați plaja naturistă și vibranta Plage de Penvins. După-amiaza admirați Château de Kérampoul și relaxați-vă la Petite plage, înainte de a vă aventura în provocările parcului Celt Aventures din apropiere.",
+        "en": "Your cycling tour begins at the picturesque Moulin à Samson, offering breathtaking coastal views. Roll down to the expansive Plage de Landrezac to enjoy the crisp morning sea breeze. By midday, explore the naturist beach and the vibrant Plage de Penvins. In the afternoon, marvel at Château de Kérampoul and relax at Petite plage, before diving into the thrills of Celt Aventures."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:10",
+      "total_km": 9.1,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Plage de Banastère (Bécudo)",
+            "hu": "Plage de Banastère (Bécudo)",
+            "ro": "Plage de Banastère (Bécudo)",
+            "en": "Plage de Banastère (Bécudo)"
+          },
+          "coords": [
+            -2.66779,
+            47.512837
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Verbringen Sie ruhige Stunden an diesem weniger überlaufenen Strandabschnitt, der sich ideal für ein entspanntes Picknick mit frischen lokalen Produkten anbietet.",
+            "hu": "Töltsön nyugodt órákat ezen a kevésbé zsúfolt partszakaszon, amely ideális helyszín egy friss helyi termékekből álló pihentető piknikhez.",
+            "ro": "Petreceți ore liniștite pe această secțiune de plajă mai puțin aglomerată, care oferă cadrul ideal pentru un picnic relaxant cu produse locale proaspete.",
+            "en": "Spend quiet hours on this less crowded beach section, which provides the ideal setting for a relaxing picnic filled with fresh local produce."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Banastère",
+            "hu": "Plage de Banastère",
+            "ro": "Plage de Banastère",
+            "en": "Plage de Banastère"
+          },
+          "coords": [
+            -2.665532,
+            47.517212
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Vögel in dieser ruhigen Küstenlandschaft mit natürlichen Gezeitentümpeln, wofür ein gutes Fernglas Ihr Erlebnis deutlich verbessern wird.",
+            "hu": "Figyelje meg a madarakat ebben a nyugodt, természetes árapálymedencékkel tarkított parti tájban, amihez egy jó távcső jelentősen javítja az élményt.",
+            "ro": "Observați păsările în acest peisaj de coastă liniștit cu bazine de maree naturale, unde un binoclu bun vă va îmbunătăți semnificativ experiența.",
+            "en": "Birdwatch in this tranquil coastal landscape dotted with natural tide pools, where bringing a good pair of binoculars will significantly enhance your experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Celt Aventures",
+            "hu": "Celt Aventures",
+            "ro": "Celt Aventures",
+            "en": "Celt Aventures"
+          },
+          "coords": [
+            -2.689512,
+            47.514106
+          ],
+          "category": "recreational",
+          "arrive_at": "11:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bezwingen Sie die spannenden Hochseilgärten in diesem weitläufigen Abenteuerpark, wobei das Tragen von geschlossenen Sportschuhen für Ihre Sicherheit Pflicht ist.",
+            "hu": "Hódítsa meg az izgalmas kötélpályákat ebben a hatalmas kalandparkban, de a saját biztonsága érdekében feltétlenül viseljen zárt sportcipőt.",
+            "ro": "Cuceriți traseele provocatoare din copaci în acest vast parc de aventuri, dar asigurați-vă că purtați încălțăminte sport închisă pentru siguranța dumneavoastră.",
+            "en": "Conquer the thrilling treetop rope courses in this expansive adventure park, keeping in mind that closed-toe sports shoes are mandatory for your safety."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin à Samson",
+            "hu": "Moulin à Samson",
+            "ro": "Moulin à Samson",
+            "en": "Moulin à Samson"
+          },
+          "coords": [
+            -2.704369,
+            47.5177
+          ],
+          "category": "historical",
+          "arrive_at": "13:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte dieser alten Windmühle auf einer malerischen Klippe, und nutzen Sie das sanfte Nachmittagslicht für wunderschöne Fotos.",
+            "hu": "Fedezze fel egy festői sziklán álló régi szélmalom lenyűgöző történetét, és használja ki a lágy délutáni fényeket gyönyörű fényképek készítéséhez.",
+            "ro": "Descoperiți istoria fascinantă a acestei vechi mori de vânt așezate pe o stâncă pitorească și profitați de lumina blândă a după-amiezii pentru fotografii superbe.",
+            "en": "Discover the fascinating history of this old windmill perched on a picturesque cliff, and take advantage of the soft afternoon light for gorgeous photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Landrezac",
+            "hu": "Plage de Landrezac",
+            "ro": "Plage de Landrezac",
+            "en": "Plage de Landrezac"
+          },
+          "coords": [
+            -2.708593,
+            47.503958
+          ],
+          "category": "recreational",
+          "arrive_at": "14:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang dieses scheinbar endlosen goldenen Sandstrandes, der sich hervorragend zum Muschelsuchen eignet, wenn Sie einen kleinen Eimer mitnehmen.",
+            "hu": "Sétáljon végig ezen a végtelennek tűnő aranyhomokos strandon, amely kiválóan alkalmas kagylógyűjtésre, ha hoz magával egy kis vödröt a kincseknek.",
+            "ro": "Plimbați-vă de-a lungul acestei plaje infinite cu nisip auriu, excelentă pentru adunat scoici dacă aduceți o găletușă pentru comorile găsite.",
+            "en": "Stroll along this seemingly endless golden sand beach which is excellent for shell collecting if you remember to bring a small bucket for your finds."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Kérampoul",
+            "hu": "Château de Kérampoul",
+            "ro": "Château de Kérampoul",
+            "en": "Château de Kérampoul"
+          },
+          "coords": [
+            -2.683085,
+            47.505088
+          ],
+          "category": "castle",
+          "arrive_at": "15:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposanten Türme dieses charmanten bretonischen Schlosses aus dem 15. Jahrhundert und bringen Sie bequeme Schuhe für einen Spaziergang im Hof mit.",
+            "hu": "Csodálja meg a 15. századi bájos breton kastély impozáns tornyait, és mindenképpen hozzon kényelmes cipőt az udvaron tett hangulatos sétához.",
+            "ro": "Admirați turnurile impunătoare ale acestui fermecător castel breton din secolul al XV-lea și aduceți încălțăminte comodă pentru o plimbare în curte.",
+            "en": "Admire the imposing towers of this charming 15th-century Breton castle, and be sure to bring comfortable shoes for a pleasant stroll in the courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Penvins",
+            "hu": "Plage de Penvins",
+            "ro": "Plage de Penvins",
+            "en": "Plage de Penvins"
+          },
+          "coords": [
+            -2.691395,
+            47.498718
+          ],
+          "category": "recreational",
+          "arrive_at": "17:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die Weite dieses windigen Strandes, der ideal für Wassersportler ist, und vergessen Sie nicht Ihre Windjacke für einen angenehmen Spaziergang.",
+            "hu": "Tapasztalja meg ennek a szeles, vízisportokhoz ideális strandnak a tágasságát, és ne felejtse el a széldzsekijét egy kellemes tengerparti sétához.",
+            "ro": "Experimentați imensitatea acestei plaje cu vânt ideală pentru sporturi nautice și nu uitați jacheta de vânt pentru o plimbare confortabilă.",
+            "en": "Experience the vastness of this breezy beach which is ideal for water sports enthusiasts, and remember to pack a windbreaker for a comfortable stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Petite plage de Penvins",
+            "hu": "Petite plage de Penvins",
+            "ro": "Petite plage de Penvins",
+            "en": "Petite plage de Penvins"
+          },
+          "coords": [
+            -2.681112,
+            47.495186
+          ],
+          "category": "recreational",
+          "arrive_at": "18:25",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem intimen Küstenabschnitt, der perfekt für Familien ist, aber kommen Sie früh, um den besten Platz im weichen Sand zu ergattern.",
+            "hu": "Pihenjen ezen az intim, családok számára tökéletes tengerparti szakaszon, de érkezzen korán, hogy megszerezze a legjobb helyet a puha homokban.",
+            "ro": "Relaxați-vă pe această porțiune intimă de coastă perfectă pentru familii, dar sosiți devreme pentru a prinde cel mai bun loc pe nisipul fin.",
+            "en": "Relax on this intimate stretch of coastline perfect for families, but arrive early to secure the best spot on the soft sand before it gets crowded."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt an der ruhigen Plage de Banastère (Bécudo) und genießen Sie die morgendliche Stille am Wasser. Nach einem kurzen Stopp an der Plage de Banastère erreichen Sie den Hochseilgarten Celt Aventures. Mittags bringt Sie das Auto zum historischen Moulin à Samson und der goldenen Plage de Landrezac. Der Nachmittag ist geprägt vom Château de Kérampoul und den belebten Stränden.",
+        "hu": "Kezdje autós útját a nyugodt Plage de Banastère (Bécudo) partszakaszon, élvezve a reggeli csendet. A Plage de Banastère érintése után hamar eléri a Celt Aventures kalandparkját. Délben a történelmi Moulin à Samson és az aranyló Plage de Landrezac nyújt csodás látványt. A délutánt a Château de Kérampoul fenséges látványa és Penvins nyüzsgő strandjai teszik teljessé és felejthetetlenné.",
+        "ro": "Începeți traseul auto la liniștita Plage de Banastère (Bécudo), bucurându-vă de calmul dimineții la malul apei. După o scurtă oprire la Plage de Banastère, ajungeți la parcul Celt Aventures. La prânz, vizitați istorica Moulin à Samson și nisipul auriu de la Plage de Landrezac. După-amiaza este dominată de impresionantul Château de Kérampoul și de plajele animate din Penvins.",
+        "en": "Begin your driving route at the tranquil Plage de Banastère (Bécudo) to enjoy the peaceful morning waters. After a brief stop at Plage de Banastère, arrive at the adventurous Celt Aventures. By midday, your car brings you to the historic Moulin à Samson and the golden sands of Plage de Landrezac. The afternoon highlights include Château de Kérampoul and the lively beaches of Penvins."
+      }
+    }
+  }
+}

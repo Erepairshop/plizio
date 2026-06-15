@@ -1,0 +1,405 @@
+{
+  "city_id": "united-kingdom-porthcurno-cities-v2",
+  "anchor": {
+    "name": "Porthcurno",
+    "coords": [
+      -5.65698,
+      50.04765
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:32",
+      "total_km": 1.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Porthcurno Telegrafenmuseum",
+            "hu": "Porthcurno Távíró Múzeum",
+            "ro": "Muzeul Telegrafului Porthcurno",
+            "en": "Porthcurno Telegraph Museum"
+          },
+          "coords": [
+            -5.654957,
+            50.046744
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte der globalen Kommunikation in den unterirdischen Tunneln und bringen Sie eine Jacke mit, da die Bunker recht kühl sind.",
+            "hu": "Fedezze fel a globális kommunikáció lenyűgöző történetét a földalatti alagutakban, és hozzon magával kabátot, mert a háborús bunkerekben meglehetősen hűvös van.",
+            "ro": "Descoperiți istoria fascinantă a comunicațiilor globale în tunelurile subterane și luați o jachetă, deoarece buncărele din timpul războiului sunt destul de răcoroase.",
+            "en": "Discover the fascinating history of global communications in the underground tunnels, and remember to bring a jacket as the wartime bunkers get quite chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint Levan Kirche",
+            "hu": "Saint Levan Templom",
+            "ro": "Biserica Saint Levan",
+            "en": "Saint Levan Church"
+          },
+          "coords": [
+            -5.660271,
+            50.042254
+          ],
+          "category": "religious",
+          "arrive_at": "10:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisiten mittelalterlichen Holzarbeiten in dieser ruhigen Kirche, aber treten Sie vorsichtig über die ausgetretenen Steinpfade im historischen Friedhof.",
+            "hu": "Csodálja meg a gyönyörű középkori fafaragásokat ebben a békés ősi templomban, de óvatosan lépkedjen a történelmi temetőhöz vezető kopott kőösvényeken.",
+            "ro": "Admirați sculpturile medievale rafinate din lemn din această biserică antică liniștită, dar pășiți cu grijă pe cărările de piatră uzate prin cimitirul istoric.",
+            "en": "Admire the exquisite medieval woodwork inside this tranquil ancient church, but step carefully over the worn stone paths leading through the historic graveyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Porth Chapel",
+            "hu": "Porth Chapel",
+            "ro": "Porth Chapel",
+            "en": "Porth Chapel"
+          },
+          "coords": [
+            -5.657972,
+            50.039262
+          ],
+          "category": "recreational",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im Sand dieses atemberaubenden, versteckten Strandes, aber tragen Sie feste Wanderschuhe, da der steile Pfad die Klippen hinab anspruchsvoll ist.",
+            "hu": "Pihenjen e lenyűgöző rejtett strand eldugott homokján, de viseljen masszív túracipőt, mivel a sziklákon levezető meredek ösvény meglehetősen kihívást jelenthet.",
+            "ro": "Relaxați-vă pe nisipurile izolate ale acestei plaje ascunse uimitoare, dar purtați pantofi de mers pe jos rezistenți, deoarece poteca abruptă este provocatoare.",
+            "en": "Relax on the secluded sands of this stunning hidden beach, but wear sturdy walking shoes as the steep path down the cliffs can be quite challenging."
+          }
+        },
+        {
+          "name": {
+            "de": "Minack Theatre",
+            "hu": "Minack Színház",
+            "ro": "Teatrul Minack",
+            "en": "Minack Theatre"
+          },
+          "coords": [
+            -5.651303,
+            50.041023
+          ],
+          "category": "landmark",
+          "arrive_at": "13:09",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erleben Sie atemberaubende Meerblicke von diesem spektakulären, in die Granitklippen gehauenen Freilufttheater und buchen Sie Ihre Besuchszeiten rechtzeitig online.",
+            "hu": "Élvezze a lélegzetelállító óceáni kilátást ebből a gránitsziklákba vájt látványos szabadtéri színházból, és jó előre foglalja le a látogatási időpontot online.",
+            "ro": "Experimentați priveliști uluitoare ale oceanului de la acest teatru spectaculos în aer liber sculptat în stânci și rezervați-vă biletele de vizitare online din timp.",
+            "en": "Experience breathtaking ocean views from this spectacular open-air theatre carved into the granite cliffs, and book your visiting slots online well in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Wendy House",
+            "hu": "Wendy House",
+            "ro": "Wendy House",
+            "en": "Wendy House"
+          },
+          "coords": [
+            -5.651358,
+            50.043004
+          ],
+          "category": "landmark",
+          "arrive_at": "13:37",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen charmanten, winzigen Steinunterstand an der dramatischen Klippe, der ein hervorragendes Fotomotiv bietet, wenn Sie sicher hinter den Absperrungen bleiben.",
+            "hu": "Keresse meg ezt a bájos kis kőmenedéket a hullámok feletti drámai sziklafalon, amely kiváló fotózási lehetőséget kínál, ha biztonságosan a korlátok mögött marad.",
+            "ro": "Observați acest adăpost fermecător de piatră agățat de faleza dramatică deasupra valurilor, care oferă o oportunitate excelentă de fotografie dacă stați în siguranță.",
+            "en": "Spot this charming tiny stone shelter clinging to the dramatic cliffside above the waves, providing an excellent photo opportunity if you stay safely behind the barriers."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag in der Geschichte der Seekabel im Telegrafenmuseum. Mittags wandern Sie zur ruhigen mittelalterlichen Kulisse der Saint Levan Church. Der Nachmittag bringt spektakuläre Küstenlandschaften in Porth Chapel und am Minack Theatre. Beenden Sie Ihre Wanderung mit der Bewunderung des skurrilen Wendy House über den Wellen.",
+        "hu": "Kezdje a napot a tenger alatti kábelek történetének felfedezésével a múzeumban. Délben sétáljon el a Saint Levan templom nyugodt középkori környezetébe. A délután látványos tengerparti tájakat tartogat a Porth Chapel és a Minack Színház körül. Fejezze be a túrát a hullámok felett egyensúlyozó bájos Wendy House megcsodálásával.",
+        "ro": "Începeți ziua explorând istoria cablurilor submarine la Muzeul Telegrafului. La prânz, plimbați-vă spre cadrul medieval liniștit al Bisericii Saint Levan. După-amiaza aduce peisaje de coastă spectaculoase la Porth Chapel și vederi dramatice la Teatrul Minack. Încheiați drumeția admirând fermecătoarea Wendy House deasupra valurilor.",
+        "en": "Begin your day immersed in the secret history of submarine cables at the Telegraph Museum. By midday, wander up to the tranquil medieval setting of Saint Levan Church. The afternoon brings spectacular coastal scenery at Porth Chapel and dramatic views of the Minack Theatre. Conclude your hike admiring the quirky, precarious Wendy House perched above the crashing waves."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:18",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Porthgwarra",
+            "hu": "Porthgwarra",
+            "ro": "Porthgwarra",
+            "en": "Porthgwarra"
+          },
+          "coords": [
+            -5.672237,
+            50.037149
+          ],
+          "category": "recreational",
+          "arrive_at": "09:08",
+          "stay_min": 85,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die malerische Bucht, die für ihren durch den Fels gehauenen Tunnel bekannt ist, und besuchen Sie das kleine Café früh, um eine Cornish Pasty zu ergattern.",
+            "hu": "Fedezze fel a festői öblöt, amely a sziklába vájt alagútjáról híres, és látogasson el korán a kis kávézóba, hogy megkóstolhasson egy hagyományos cornwalli pitét.",
+            "ro": "Explorați golful pitoresc renumit pentru tunelul său sculptat prin stâncă și vizitați mica cafenea sezonieră devreme pentru a savura o plăcintă tradițională.",
+            "en": "Explore the picturesque swimming cove famous for its rugged tunnel cut through the rock, and visit the small seasonal cafe early to grab a traditional Cornish pasty."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint Levan Kirche",
+            "hu": "Saint Levan Templom",
+            "ro": "Biserica Saint Levan",
+            "en": "Saint Levan Church"
+          },
+          "coords": [
+            -5.660271,
+            50.042254
+          ],
+          "category": "religious",
+          "arrive_at": "10:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisiten mittelalterlichen Holzarbeiten in dieser ruhigen Kirche, aber treten Sie vorsichtig über die ausgetretenen Steinpfade im historischen Friedhof.",
+            "hu": "Csodálja meg a gyönyörű középkori fafaragásokat ebben a békés ősi templomban, de óvatosan lépkedjen a történelmi temetőhöz vezető kopott kőösvényeken.",
+            "ro": "Admirați sculpturile medievale rafinate din lemn din această biserică antică liniștită, dar pășiți cu grijă pe cărările de piatră uzate prin cimitirul istoric.",
+            "en": "Admire the exquisite medieval woodwork inside this tranquil ancient church, but step carefully over the worn stone paths leading through the historic graveyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Porthcurno Telegrafenmuseum",
+            "hu": "Porthcurno Távíró Múzeum",
+            "ro": "Muzeul Telegrafului Porthcurno",
+            "en": "Porthcurno Telegraph Museum"
+          },
+          "coords": [
+            -5.654957,
+            50.046744
+          ],
+          "category": "museum",
+          "arrive_at": "11:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte der globalen Kommunikation in den unterirdischen Tunneln und bringen Sie eine Jacke mit, da die Bunker recht kühl sind.",
+            "hu": "Fedezze fel a globális kommunikáció lenyűgöző történetét a földalatti alagutakban, és hozzon magával kabátot, mert a háborús bunkerekben meglehetősen hűvös van.",
+            "ro": "Descoperiți istoria fascinantă a comunicațiilor globale în tunelurile subterane și luați o jachetă, deoarece buncărele din timpul războiului sunt destul de răcoroase.",
+            "en": "Discover the fascinating history of global communications in the underground tunnels, and remember to bring a jacket as the wartime bunkers get quite chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Minack Theatre",
+            "hu": "Minack Színház",
+            "ro": "Teatrul Minack",
+            "en": "Minack Theatre"
+          },
+          "coords": [
+            -5.651303,
+            50.041023
+          ],
+          "category": "landmark",
+          "arrive_at": "13:04",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erleben Sie atemberaubende Meerblicke von diesem spektakulären, in die Granitklippen gehauenen Freilufttheater und buchen Sie Ihre Besuchszeiten rechtzeitig online.",
+            "hu": "Élvezze a lélegzetelállító óceáni kilátást ebből a gránitsziklákba vájt látványos szabadtéri színházból, és jó előre foglalja le a látogatási időpontot online.",
+            "ro": "Experimentați priveliști uluitoare ale oceanului de la acest teatru spectaculos în aer liber sculptat în stânci și rezervați-vă biletele de vizitare online din timp.",
+            "en": "Experience breathtaking ocean views from this spectacular open-air theatre carved into the granite cliffs, and book your visiting slots online well in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Pedn Vounder",
+            "hu": "Pedn Vounder",
+            "ro": "Pedn Vounder",
+            "en": "Pedn Vounder"
+          },
+          "coords": [
+            -5.641692,
+            50.043387
+          ],
+          "category": "recreational",
+          "arrive_at": "13:33",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das kristallklare türkisfarbene Wasser und den markanten Logan Rock in der Ferne, aber planen Sie Ihren Besuch bei Ebbe, um den Sandstrand sicher zu erreichen.",
+            "hu": "Csodálja meg a kristálytiszta türkizkék vizet és a távoli Logan Rockot, de látogatását apály idejére időzítse, hogy biztonságosan megközelíthesse a gyönyörű homokos partot.",
+            "ro": "Minunați-vă de apele turcoaz și de Logan Rock în depărtare, dar programați-vă vizita la reflux pentru a accesa în siguranță frumoasa coastă cu nisip.",
+            "en": "Marvel at the crystal-clear turquoise waters and dramatic Logan Rock in the distance, but time your visit for low tide to safely access the beautiful sandy shore."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie mit einer morgendlichen Fahrt zur rauen und schönen Bucht von Porthgwarra. Gegen Mittag erkunden Sie die Saint Levan Church vor dem Telegrafenmuseum. Der Nachmittag ist für die dramatischen Klippen des ikonischen Minack Theatre reserviert. Beenden Sie Ihr Radabenteuer am unberührten Strand von Pedn Vounder.",
+        "hu": "Kezdje egy reggeli kerékpározással Porthgwarra gyönyörű öbléhez. Dél felé haladva fedezze fel a történelmi Saint Levan templomot, majd a Telegraf Múzeumot. A délután az ikonikus Minack Színház drámai szikláié. Végül fejezze be kerékpáros kalandját egy lazítással a Pedn Vounder érintetlen homokos tengerpartján.",
+        "ro": "Începeți cu o plimbare matinală spre golful frumos din Porthgwarra. La prânz, explorați Biserica Saint Levan înainte de a vă scufunda în expozițiile fascinante de la Muzeul Telegrafului. După-amiaza este rezervată stâncilor Teatrului Minack. În cele din urmă, încheiați aventura pe plaja curată de la Pedn Vounder.",
+        "en": "Kick off with a morning pedal to the rugged and beautiful cove of Porthgwarra. As midday approaches, explore the historic Saint Levan Church before delving into the fascinating exhibits at the Telegraph Museum. The afternoon is reserved for the iconic Minack Theatre's dramatic cliffs. Finally, end your cycling adventure by relaxing on the pristine sands of Pedn Vounder beach."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Porthgwarra",
+            "hu": "Porthgwarra",
+            "ro": "Porthgwarra",
+            "en": "Porthgwarra"
+          },
+          "coords": [
+            -5.672237,
+            50.037149
+          ],
+          "category": "recreational",
+          "arrive_at": "09:03",
+          "stay_min": 85,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die malerische Bucht, die für ihren durch den Fels gehauenen Tunnel bekannt ist, und besuchen Sie das kleine Café früh, um eine Cornish Pasty zu ergattern.",
+            "hu": "Fedezze fel a festői öblöt, amely a sziklába vájt alagútjáról híres, és látogasson el korán a kis kávézóba, hogy megkóstolhasson egy hagyományos cornwalli pitét.",
+            "ro": "Explorați golful pitoresc renumit pentru tunelul său sculptat prin stâncă și vizitați mica cafenea sezonieră devreme pentru a savura o plăcintă tradițională.",
+            "en": "Explore the picturesque swimming cove famous for its rugged tunnel cut through the rock, and visit the small seasonal cafe early to grab a traditional Cornish pasty."
+          }
+        },
+        {
+          "name": {
+            "de": "Porthcurno Telegrafenmuseum",
+            "hu": "Porthcurno Távíró Múzeum",
+            "ro": "Muzeul Telegrafului Porthcurno",
+            "en": "Porthcurno Telegraph Museum"
+          },
+          "coords": [
+            -5.654957,
+            50.046744
+          ],
+          "category": "museum",
+          "arrive_at": "10:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte der globalen Kommunikation in den unterirdischen Tunneln und bringen Sie eine Jacke mit, da die Bunker recht kühl sind.",
+            "hu": "Fedezze fel a globális kommunikáció lenyűgöző történetét a földalatti alagutakban, és hozzon magával kabátot, mert a háborús bunkerekben meglehetősen hűvös van.",
+            "ro": "Descoperiți istoria fascinantă a comunicațiilor globale în tunelurile subterane și luați o jachetă, deoarece buncărele din timpul războiului sunt destul de răcoroase.",
+            "en": "Discover the fascinating history of global communications in the underground tunnels, and remember to bring a jacket as the wartime bunkers get quite chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Minack Theatre",
+            "hu": "Minack Színház",
+            "ro": "Teatrul Minack",
+            "en": "Minack Theatre"
+          },
+          "coords": [
+            -5.651303,
+            50.041023
+          ],
+          "category": "landmark",
+          "arrive_at": "12:12",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erleben Sie atemberaubende Meerblicke von diesem spektakulären, in die Granitklippen gehauenen Freilufttheater und buchen Sie Ihre Besuchszeiten rechtzeitig online.",
+            "hu": "Élvezze a lélegzetelállító óceáni kilátást ebből a gránitsziklákba vájt látványos szabadtéri színházból, és jó előre foglalja le a látogatási időpontot online.",
+            "ro": "Experimentați priveliști uluitoare ale oceanului de la acest teatru spectaculos în aer liber sculptat în stânci și rezervați-vă biletele de vizitare online din timp.",
+            "en": "Experience breathtaking ocean views from this spectacular open-air theatre carved into the granite cliffs, and book your visiting slots online well in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Pedn Vounder",
+            "hu": "Pedn Vounder",
+            "ro": "Pedn Vounder",
+            "en": "Pedn Vounder"
+          },
+          "coords": [
+            -5.641692,
+            50.043387
+          ],
+          "category": "recreational",
+          "arrive_at": "12:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das kristallklare türkisfarbene Wasser und den markanten Logan Rock in der Ferne, aber planen Sie Ihren Besuch bei Ebbe, um den Sandstrand sicher zu erreichen.",
+            "hu": "Csodálja meg a kristálytiszta türkizkék vizet és a távoli Logan Rockot, de látogatását apály idejére időzítse, hogy biztonságosan megközelíthesse a gyönyörű homokos partot.",
+            "ro": "Minunați-vă de apele turcoaz și de Logan Rock în depărtare, dar programați-vă vizita la reflux pentru a accesa în siguranță frumoasa coastă cu nisip.",
+            "en": "Marvel at the crystal-clear turquoise waters and dramatic Logan Rock in the distance, but time your visit for low tide to safely access the beautiful sandy shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Treryn Dinas",
+            "hu": "Treryn Dinas",
+            "ro": "Treryn Dinas",
+            "en": "Treryn Dinas"
+          },
+          "coords": [
+            -5.636854,
+            50.040734
+          ],
+          "category": "historical",
+          "arrive_at": "13:55",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Wandern Sie zu dieser beeindruckenden Klippenburg aus der Eisenzeit mit Panoramablick auf die Küste, aber achten Sie auf starke Winde und unebenes Gelände an den Kanten.",
+            "hu": "Túrázzon ki ehhez a lenyűgöző vaskori sziklavárhoz, amely panorámás tengerparti kilátást nyújt, de ügyeljen az erős szélre és az egyenetlen terepre a sziklák szélén.",
+            "ro": "Faceți o drumeție până la acest impresionant castel din Epoca Fierului de pe stâncă, ce oferă vederi panoramice, dar atenție la vânturile puternice și la terenul accidentat.",
+            "en": "Hike out to this impressive Iron Age cliff castle promontory offering panoramic coastal vistas, but beware of strong winds and uneven terrain near the unprotected cliff edges."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour in der malerischen Bucht von Porthgwarra. Mittags tauchen Sie im Telegrafenmuseum in die Geschichte der globalen Kommunikation ein. Bewundern Sie am Nachmittag das Minack Theatre an den Klippen und die tropischen Farben von Pedn Vounder. Beenden Sie den Tag bei den antiken Ruinen von Treryn Dinas.",
+        "hu": "Kezdje autós túráját Porthgwarra festői öblében. Délben merüljön el a globális kommunikáció történetében a Múzeumban. Délután csodálja meg a sziklára épült Minack Színház építészetét és a Pedn Vounder trópusi színeit. Fejezze be a napot a Treryn Dinas ősi sziklafalának romjai között.",
+        "ro": "Începeți turul cu mașina la pitorescul golf Porthgwarra, renumit pentru tunelurile sale. La prânz, scufundați-vă în istoria la Muzeul Telegrafului. După-amiaza, minunați-vă de arhitectura Teatrului Minack și de nuanțele de la Pedn Vounder. Încheiați-vă ziua explorând vechile ruine de la Treryn Dinas.",
+        "en": "Start your driving tour at the picturesque coastal inlet of Porthgwarra, famous for its hidden tunnels. By midday, dive into global communication history at the comprehensive Telegraph Museum. In the afternoon, marvel at the breathtaking architecture of the cliff-side Minack Theatre and the tropical hues of Pedn Vounder. Finish your day exploring the ancient cliffside ruins of Treryn Dinas."
+      }
+    }
+  }
+}

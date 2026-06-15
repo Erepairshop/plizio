@@ -1,0 +1,474 @@
+{
+  "city_id": "portugal-achadinha-cities-v2",
+  "anchor": {
+    "name": "Achadinha",
+    "coords": [
+      -25.28219,
+      37.85454
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:57",
+      "total_km": 1.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Casa João de Melo",
+            "hu": "Casa João de Melo",
+            "ro": "Casa João de Melo",
+            "en": "Casa João de Melo"
+          },
+          "coords": [
+            -25.2855,
+            37.851611
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Leben und die Werke des berühmten azorischen Schriftstellers in seinem Elternhaus, aber prüfen Sie vorab die saisonabhängigen Öffnungszeiten.",
+            "hu": "Fedezze fel a híres azori-szigeteki író életét és munkásságát a szülőházában, de előzetesen ellenőrizze a szezonálisan változó nyitvatartást.",
+            "ro": "Descoperiți viața și operele celebrului scriitor azorean în casa copilăriei sale, dar verificați în prealabil programul de funcționare sezonier.",
+            "en": "Discover the life and works of the famous Azorean writer in his childhood home, but check the opening hours beforehand as they vary by season."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro do Pesqueiro - Achadinha",
+            "hu": "Miradouro do Pesqueiro - Achadinha",
+            "ro": "Miradouro do Pesqueiro - Achadinha",
+            "en": "Miradouro do Pesqueiro - Achadinha"
+          },
+          "coords": [
+            -25.287687,
+            37.854958
+          ],
+          "category": "natural",
+          "arrive_at": "10:36",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie atemberaubende Küstenausblicke von diesem Aussichtspunkt auf den Klippen, und bringen Sie eine Windjacke mit, da die Meeresbrise stark sein kann.",
+            "hu": "Élvezze a lélegzetelállító tengerparti kilátást erről a szikla tetején lévő kilátópontról, és mindenképpen hozzon széldzsekit az erős óceáni szél miatt.",
+            "ro": "Bucurați-vă de vederi de coastă uluitoare de la acest punct de belvedere pe stâncă și asigurați-vă că aduceți o jachetă din cauza brizei puternice.",
+            "en": "Enjoy breathtaking coastal views from this clifftop vantage point, and make sure to bring a windbreaker as the ocean breeze can be quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Zona Balnear dos Moinhos das Relvas",
+            "hu": "Zona Balnear dos Moinhos das Relvas",
+            "ro": "Zona Balnear dos Moinhos das Relvas",
+            "en": "Zona Balnear dos Moinhos das Relvas"
+          },
+          "coords": [
+            -25.289169,
+            37.855251
+          ],
+          "category": "recreational",
+          "arrive_at": "11:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am Meer in diesem charmanten Erholungsgebiet mit alten Mühlen und packen Sie Badesachen für ein erfrischendes Bad ein.",
+            "hu": "Pihenjen az óceán partján ezen a bájos, régi malmokkal tarkított pihenőhelyen, és csomagoljon fürdőruhát egy frissítő csobbanáshoz.",
+            "ro": "Relaxați-vă pe malul oceanului în această zonă pitorească de agrement, plină de mori vechi, și luați-vă costumul de baie pentru o baie răcoritoare.",
+            "en": "Relax by the ocean at this charming recreational area dotted with old mills, and pack your swimsuit for a refreshing dip in the clear waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro do Salto da Farinha",
+            "hu": "Miradouro do Salto da Farinha",
+            "ro": "Miradouro do Salto da Farinha",
+            "en": "Miradouro do Salto da Farinha"
+          },
+          "coords": [
+            -25.297622,
+            37.853842
+          ],
+          "category": "natural",
+          "arrive_at": "12:34",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die spektakuläre Schlucht und den fernen Wasserfall von diesem Aussichtspunkt, wobei das beste Licht für Fotos am frühen Nachmittag herrscht.",
+            "hu": "Csodálja meg a látványos szurdokot és a távoli vízesést ebből a drámai kilátóból, észben tartva, hogy a kora délutáni fény a legjobb a fotózáshoz.",
+            "ro": "Admirați defileul spectaculos și cascada îndepărtată de la acest punct de belvedere, ținând cont că lumina de la începutul după-amiezii este ideală pentru poze.",
+            "en": "Admire the spectacular gorge and the distant waterfall from this dramatic viewpoint, keeping in mind that the best lighting for photos is early afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro da Pedra dos Estorninhos",
+            "hu": "Miradouro da Pedra dos Estorninhos",
+            "ro": "Miradouro da Pedra dos Estorninhos",
+            "en": "Miradouro da Pedra dos Estorninhos"
+          },
+          "coords": [
+            -25.298528,
+            37.85489
+          ],
+          "category": "natural",
+          "arrive_at": "13:02",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem ruhigen Ort aus den Panoramablick auf die raue Nordküste, der sich perfekt für ein ungestörtes Picknick eignet.",
+            "hu": "Élvezze a zord északi partvidék panorámáját erről a nyugodt helyről, amely tökéletes és csendes helyszín egy csomagolt ebédhez.",
+            "ro": "Admirați priveliștile panoramice ale coastei nordice accidentate din acest loc liniștit, fiind un loc perfect pentru a savura un prânz la pachet.",
+            "en": "Take in panoramic views of the rugged northern coastline from this serene spot, which is a perfect and quiet place to enjoy a packed lunch."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Erkunden Sie das kulturelle Herz von Achadinha, beginnend am Elternhaus eines berühmten Schriftstellers. Gegen Mittag genießen Sie die Meeresbrise am Aussichtspunkt Pesqueiro, bevor Sie zum charmanten Erholungsgebiet Moinhos das Relvas hinabsteigen. Am Nachmittag folgen Sie der dramatischen Küste zum Salto da Farinha. Beenden Sie Ihre Wanderung am friedlichen Aussichtspunkt Pedra dos Estorninhos.",
+        "hu": "Fedezze fel Achadinha kulturális központját egy híres író szülőházánál kezdve. Délben élvezze a tengeri szellőt a Pesqueiro kilátóból, mielőtt leereszkedik a bájos Moinhos das Relvas pihenőhelyre. Délután haladjon a drámai partvidéken a Salto da Farinha felé. Zárja a túrát a békés Pedra dos Estorninhos kilátónál, gyönyörködve az északi partvidékben.",
+        "ro": "Explorați inima culturală a orașului Achadinha, începând de la casa copilăriei unui celebru scriitor. La prânz, bucurați-vă de briza mării de la Pesqueiro, apoi coborâți spre pitoreasca zonă de agrement Moinhos das Relvas. După-amiaza, urmați coasta dramatică spre Salto da Farinha. Încheiați-vă drumeția la liniștitul punct de observație Pedra dos Estorninhos.",
+        "en": "Explore Achadinha's cultural heart starting at the childhood home of a famous writer. Midday, enjoy the sea breeze at the Pesqueiro viewpoint before descending to the charming Moinhos das Relvas recreational area. In the afternoon, continue along the dramatic coastal paths toward the Salto da Farinha gorge. End your hike at the peaceful Pedra dos Estorninhos lookout as the day winds down."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:22",
+      "total_km": 5.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Centro de Atividades Culturais e Recreativas da Salga",
+            "hu": "Centro de Atividades Culturais e Recreativas da Salga",
+            "ro": "Centro de Atividades Culturais e Recreativas da Salga",
+            "en": "Centro de Atividades Culturais e Recreativas da Salga"
+          },
+          "coords": [
+            -25.300967,
+            37.848337
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erleben Sie den lokalen Gemeinschaftsgeist in diesem Kulturzentrum, aber prüfen Sie die Anschlagtafel für das aktuelle Tagesprogramm.",
+            "hu": "Tapasztalja meg a helyi közösség szellemét ebben a kulturális központban, de érdemes megnézni a napi programot a hirdetőtáblán.",
+            "ro": "Experimentați spiritul comunității locale la acest centru cultural, însă este recomandat să verificați panoul local pentru programul zilnic.",
+            "en": "Experience the local community spirit at this cultural hub hosting traditional events, though it's best to check their local board for the daily schedule."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro da Rocha",
+            "hu": "Miradouro da Rocha",
+            "ro": "Miradouro da Rocha",
+            "en": "Miradouro da Rocha"
+          },
+          "coords": [
+            -25.30965,
+            37.858057
+          ],
+          "category": "natural",
+          "arrive_at": "10:38",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Überblicken Sie den weiten Atlantik von diesem felsigen Abgrund aus, aber bleiben Sie hinter den Geländern, da die Klippen sehr steil sind.",
+            "hu": "Tekintsen le a hatalmas Atlanti-óceánra erről a sziklás peremről, de maradjon a korlátok mögött, mivel a sziklák meredekek és veszélyesek.",
+            "ro": "Priviți vastul Atlantic de pe această prăpastie stâncoasă, dar stați în spatele balustradelor de siguranță, deoarece stâncile sunt abrupte.",
+            "en": "Overlook the vast Atlantic from this elevated, rocky precipice, but stay behind the safety rails as the cliffs are sheer and unforgiving."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro do Salto da Farinha",
+            "hu": "Miradouro do Salto da Farinha",
+            "ro": "Miradouro do Salto da Farinha",
+            "en": "Miradouro do Salto da Farinha"
+          },
+          "coords": [
+            -25.297622,
+            37.853842
+          ],
+          "category": "natural",
+          "arrive_at": "11:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die spektakuläre Schlucht und den fernen Wasserfall von diesem Aussichtspunkt, wobei das beste Licht für Fotos am frühen Nachmittag herrscht.",
+            "hu": "Csodálja meg a látványos szurdokot és a távoli vízesést ebből a drámai kilátóból, észben tartva, hogy a kora délutáni fény a legjobb a fotózáshoz.",
+            "ro": "Admirați defileul spectaculos și cascada îndepărtată de la acest punct de belvedere, ținând cont că lumina de la începutul după-amiezii este ideală pentru poze.",
+            "en": "Admire the spectacular gorge and the distant waterfall from this dramatic viewpoint, keeping in mind that the best lighting for photos is early afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa João de Melo",
+            "hu": "Casa João de Melo",
+            "ro": "Casa João de Melo",
+            "en": "Casa João de Melo"
+          },
+          "coords": [
+            -25.2855,
+            37.851611
+          ],
+          "category": "cultural",
+          "arrive_at": "11:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Leben und die Werke des berühmten azorischen Schriftstellers in seinem Elternhaus, aber prüfen Sie vorab die saisonabhängigen Öffnungszeiten.",
+            "hu": "Fedezze fel a híres azori-szigeteki író életét és munkásságát a szülőházában, de előzetesen ellenőrizze a szezonálisan változó nyitvatartást.",
+            "ro": "Descoperiți viața și operele celebrului scriitor azorean în casa copilăriei sale, dar verificați în prealabil programul de funcționare sezonier.",
+            "en": "Discover the life and works of the famous Azorean writer in his childhood home, but check the opening hours beforehand as they vary by season."
+          }
+        },
+        {
+          "name": {
+            "de": "Zona Balnear do Lenho Achada/Achadinha",
+            "hu": "Zona Balnear do Lenho Achada/Achadinha",
+            "ro": "Zona Balnear do Lenho Achada/Achadinha",
+            "en": "Zona Balnear do Lenho Achada/Achadinha"
+          },
+          "coords": [
+            -25.273648,
+            37.858646
+          ],
+          "category": "recreational",
+          "arrive_at": "13:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich an diesem in den Klippen versteckten Badeplatz ab und bringen Sie Badeschuhe mit, um sich auf dem felsigen Meeresboden bequem zu bewegen.",
+            "hu": "Hűtse le magát ezen a sziklák között megbúvó helyi fürdőhelyen, és hozzon vízicipőt, hogy kényelmesen közlekedhessen a sziklás mederben.",
+            "ro": "Răcoriți-vă în acest loc de scăldat ascuns printre stânci și aduceți încălțăminte de apă pentru a naviga confortabil pe fundul stâncos.",
+            "en": "Cool off at this local bathing spot tucked away in the cliffs, and bring water shoes to comfortably navigate the rocky seabed."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro da Quinta",
+            "hu": "Miradouro da Quinta",
+            "ro": "Miradouro da Quinta",
+            "en": "Miradouro da Quinta"
+          },
+          "coords": [
+            -25.270993,
+            37.858219
+          ],
+          "category": "natural",
+          "arrive_at": "14:27",
+          "stay_min": 55,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Küstenreise mit einem weiten Blick auf die Küste von Achada von diesem ruhigen Aussichtspunkt aus, der sich ideal für späte Fotos eignet.",
+            "hu": "Zárja tengerparti utazását az Achada partvidékére nyíló pazar kilátással ebből a békés kilátóból, amely tökéletes a késő délutáni fotózáshoz.",
+            "ro": "Încheiați-vă călătoria cu o priveliște superbă asupra țărmului Achada de la acest punct de observație liniștit, ideal orientat pentru poze de seară.",
+            "en": "Finish your coastal journey with a sweeping view of the Achada shoreline from this peaceful lookout, perfectly oriented for late afternoon photography."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour am lokalen Kulturzentrum in Salga und radeln Sie dann zu den westlichsten Klippen für spektakuläre Ausblicke auf den Atlantik. Mittags fahren Sie zum Aussichtspunkt Salto da Farinha und dann landeinwärts zur Casa João de Melo. Am Nachmittag steuern Sie die lokalen Badeplätze in den felsigen Buchten an. Beenden Sie die Tour am Miradouro da Quinta in der Abendsonne.",
+        "hu": "Kezdje a biciklitúrát a salgai kulturális központban, majd tekerjen a nyugati sziklákhoz a látványos óceáni kilátásért. Délben kerekezzen a Salto da Farinha kilátóhoz, majd a szárazföld belsejében lévő Casa João de Melohoz. Délután vegye az irányt a sziklás partokon megbúvó fürdőhelyek felé. Zárja a túrát a Miradouro da Quinta kilátónál az esti fényekben.",
+        "ro": "Începeți plimbarea cu bicicleta la centrul cultural din Salga, apoi pedalați spre stâncile vestice pentru priveliști spectaculoase. La prânz, mergeți la impresionantul punct de belvedere Salto da Farinha, apoi spre Casa João de Melo. După-amiaza, navigați spre zonele de scăldat ascunse pe țărmurile stâncoase. Încheiați călătoria la Miradouro da Quinta.",
+        "en": "Kick off your ride at the local cultural hub in Salga, then pedal to the westernmost cliffs for spectacular Atlantic views. Midday, cycle towards the impressive Salto da Farinha viewpoint, then head inland to learn about Azorean literature at Casa João de Melo. Navigate to the local bathing areas in the afternoon, wrapping up at Miradouro da Quinta as golden hues cover the eastern cliffs."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:49",
+      "total_km": 7.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Moinho de água - Ribeira dos Caldeirões (IPIA)",
+            "hu": "Moinho de água - Ribeira dos Caldeirões (IPIA)",
+            "ro": "Moinho de água - Ribeira dos Caldeirões (IPIA)",
+            "en": "Moinho de água - Ribeira dos Caldeirões (IPIA)"
+          },
+          "coords": [
+            -25.267625,
+            37.842016
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Fühlen Sie sich in die Vergangenheit versetzt an dieser funktionsfähigen historischen Wassermühle und kaufen Sie traditionelles Maismehl direkt beim Müller.",
+            "hu": "Lépjen vissza az időben, megfigyelve ezt a teljesen működőképes történelmi vízimalmot, és fontolja meg a hagyományos kukoricaliszt vásárlását a molnártól.",
+            "ro": "Întoarceți-vă în timp observând această moară de apă istorică și luați în considerare cumpărarea de mălai tradițional direct de la morar.",
+            "en": "Step back in time by observing this fully functional historic watermill, and consider buying traditional cornmeal directly from the friendly miller."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro da Ribeira dos Caldeirões",
+            "hu": "Miradouro da Ribeira dos Caldeirões",
+            "ro": "Miradouro da Ribeira dos Caldeirões",
+            "en": "Miradouro da Ribeira dos Caldeirões"
+          },
+          "coords": [
+            -25.26851,
+            37.844059
+          ],
+          "category": "natural",
+          "arrive_at": "09:27",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Blicken Sie von diesem malerischen Balkon über den üppigen Naturpark und seine Kaskaden, wobei Sie früh ankommen sollten, um Menschenmassen zu meiden.",
+            "hu": "Tekintsen végig a buja natúrparkon és vízesésein erről a festői erkélyről, ügyelve arra, hogy korán érkezzen a turistatömegek elkerülése végett.",
+            "ro": "Admirați parcul natural luxuriant și cascadele sale de pe acest balcon pitoresc, asigurându-vă că ajungeți devreme pentru a evita aglomerația.",
+            "en": "Gaze over the lush natural park and its stunning cascades from this scenic balcony, making sure to arrive early to avoid the tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Bridge of Ribeira dos Caldeirões (II)",
+            "hu": "Bridge of Ribeira dos Caldeirões (II)",
+            "ro": "Bridge of Ribeira dos Caldeirões (II)",
+            "en": "Bridge of Ribeira dos Caldeirões (II)"
+          },
+          "coords": [
+            -25.271946,
+            37.846345
+          ],
+          "category": "historical",
+          "arrive_at": "09:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Steinarchitektur dieser alten Brücke über die Schlucht und nutzen Sie die Gelegenheit, ihre Bögen von unten zu betrachten.",
+            "hu": "Csodálja meg a szurdokon átívelő régi híd klasszikus kőépítészetét, és éljen a lehetőséggel, hogy átsétáljon alatta és megvizsgálja boltíveit.",
+            "ro": "Minunați-vă de arhitectura clasică din piatră a acestui pod vechi și profitați de ocazie pentru a merge dedesubt pentru a inspecta arcadele sale.",
+            "en": "Marvel at the classical stone architecture of this old bridge crossing the gorge, taking the opportunity to walk underneath to inspect its arches."
+          }
+        },
+        {
+          "name": {
+            "de": "Núcleo Museológico da Achada",
+            "hu": "Núcleo Museológico da Achada",
+            "ro": "Núcleo Museológico da Achada",
+            "en": "Núcleo Museológico da Achada"
+          },
+          "coords": [
+            -25.26442,
+            37.858543
+          ],
+          "category": "museum",
+          "arrive_at": "11:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem kleinen Museum mehr über das reiche ländliche Erbe der lokalen Gemeinden, beachten Sie jedoch, dass englische Texte begrenzt sind.",
+            "hu": "Ismerje meg a helyi egyházközségek gazdag vidéki örökségét ebben a kis múzeumban, de vegye figyelembe, hogy az angol nyelvű leírások korlátozottak lehetnek.",
+            "ro": "Aflați despre bogatul patrimoniu rural al parohiilor locale în acest mic muzeu, dar fiți conștienți că descrierile în engleză pot fi limitate.",
+            "en": "Learn about the rich rural heritage of the local parishes in this small museum, but be aware that English descriptions may be limited inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa João de Melo",
+            "hu": "Casa João de Melo",
+            "ro": "Casa João de Melo",
+            "en": "Casa João de Melo"
+          },
+          "coords": [
+            -25.2855,
+            37.851611
+          ],
+          "category": "cultural",
+          "arrive_at": "13:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Leben und die Werke des berühmten azorischen Schriftstellers in seinem Elternhaus, aber prüfen Sie vorab die saisonabhängigen Öffnungszeiten.",
+            "hu": "Fedezze fel a híres azori-szigeteki író életét és munkásságát a szülőházában, de előzetesen ellenőrizze a szezonálisan változó nyitvatartást.",
+            "ro": "Descoperiți viața și operele celebrului scriitor azorean în casa copilăriei sale, dar verificați în prealabil programul de funcționare sezonier.",
+            "en": "Discover the life and works of the famous Azorean writer in his childhood home, but check the opening hours beforehand as they vary by season."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro do Salto da Farinha",
+            "hu": "Miradouro do Salto da Farinha",
+            "ro": "Miradouro do Salto da Farinha",
+            "en": "Miradouro do Salto da Farinha"
+          },
+          "coords": [
+            -25.297622,
+            37.853842
+          ],
+          "category": "natural",
+          "arrive_at": "14:26",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die spektakuläre Schlucht und den fernen Wasserfall von diesem Aussichtspunkt, wobei das beste Licht für Fotos am frühen Nachmittag herrscht.",
+            "hu": "Csodálja meg a látványos szurdokot és a távoli vízesést ebből a drámai kilátóból, észben tartva, hogy a kora délutáni fény a legjobb a fotózáshoz.",
+            "ro": "Admirați defileul spectaculos și cascada îndepărtată de la acest punct de belvedere, ținând cont că lumina de la începutul după-amiezii este ideală pentru poze.",
+            "en": "Admire the spectacular gorge and the distant waterfall from this dramatic viewpoint, keeping in mind that the best lighting for photos is early afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro da Rocha",
+            "hu": "Miradouro da Rocha",
+            "ro": "Miradouro da Rocha",
+            "en": "Miradouro da Rocha"
+          },
+          "coords": [
+            -25.30965,
+            37.858057
+          ],
+          "category": "natural",
+          "arrive_at": "14:54",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Überblicken Sie den weiten Atlantik von diesem felsigen Abgrund aus, aber bleiben Sie hinter den Geländern, da die Klippen sehr steil sind.",
+            "hu": "Tekintsen le a hatalmas Atlanti-óceánra erről a sziklás peremről, de maradjon a korlátok mögött, mivel a sziklák meredekek és veszélyesek.",
+            "ro": "Priviți vastul Atlantic de pe această prăpastie stâncoasă, dar stați în spatele balustradelor de siguranță, deoarece stâncile sunt abrupte.",
+            "en": "Overlook the vast Atlantic from this elevated, rocky precipice, but stay behind the safety rails as the cliffs are sheer and unforgiving."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zum üppigen Park Ribeira dos Caldeirões, um die historischen Wassermühlen und Kaskaden zu bewundern. Mittags führt die Reise nach Osten zum Museum in Achada und weiter ins Zentrum von Achadinha. Am Nachmittag erkunden Sie die nördliche Küste und halten am ikonischen Salto da Farinha. Die Fahrt endet am rauen Miradouro da Rocha mit einem atemberaubenden Finale am Ozean.",
+        "hu": "Reggel vezessen a buja Ribeira dos Caldeirões parkba, csodálja meg a történelmi vízimalmokat és vízeséseket. Délben utazzon keletre az achadai múzeumba, mielőtt meglátogatja Achadinha központját. Délután fedezze fel a drámai északi partvidéket, megállva a híres Salto da Farinha kilátónál. Zárja festői útját a zord Miradouro da Rocha szikláinál, lenyűgöző óceáni kilátással.",
+        "ro": "Conduceți dimineața spre parcul luxuriant Ribeira dos Caldeirões, admirând morile de apă istorice și cascadele. La prânz, călătoriți spre est către muzeul din Achada, înainte de a vizita centrul orașului Achadinha. După-amiaza, explorați coasta dramatică de nord, oprindu-vă la emblematicul Salto da Farinha. Încheiați traseul pitoresc la Miradouro da Rocha pentru un final uluitor.",
+        "en": "Drive to the lush Ribeira dos Caldeirões park in the morning, admiring the historic watermills, stone bridges, and cascading waterfalls. Midday, journey east to the local museum in Achada to uncover rural history before visiting Achadinha's center. Explore the dramatic northern coastline in the afternoon, stopping at the iconic Salto da Farinha. Conclude at Miradouro da Rocha for a breathtaking oceanic finale."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "egypt-el-rawdah-cities-v2",
+  "anchor": {
+    "name": "El Rawdah",
+    "coords": [
+      29.28919,
+      30.85652
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:22",
+      "total_km": 1.74,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "New Maamoura",
+            "hu": "New Maamoura",
+            "ro": "New Maamoura",
+            "en": "New Maamoura"
+          },
+          "coords": [
+            29.284596,
+            30.854931
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Küstentag in New Maamoura, um die ruhige Morgenbrise zu genießen, und bringen Sie unbedingt eine leichte Jacke mit.",
+            "hu": "Kezdje a tengerparti napot a New Maamoura negyedben, hogy kiélvezze a csendes reggeli szellőt, de mindenképp hozzon magával egy könnyű dzsekit.",
+            "ro": "Începeți ziua de coastă la New Maamoura pentru a vă bucura de briza liniștită a dimineții și asigurați-vă că aveți o jachetă ușoară la dumneavoastră.",
+            "en": "Start your coastal day at New Maamoura to enjoy the serene morning breeze, and make sure to bring a light jacket as the sea air can be brisk."
+          }
+        },
+        {
+          "name": {
+            "de": "El Rawdah",
+            "hu": "El Rawdah",
+            "ro": "El Rawdah",
+            "en": "El Rawdah"
+          },
+          "coords": [
+            29.289189,
+            30.856523
+          ],
+          "category": "recreational",
+          "arrive_at": "10:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Erkunden Sie das zentrale Erholungsgebiet von El Rawdah mit seiner entspannten Atmosphäre und tragen Sie bequeme Schuhe für die sandigen Wege.",
+            "hu": "Fedezze fel El Rawdah központi rekreációs övezetét, amely pihentető atmoszférájáról ismert, és viseljen kényelmes cipőt a homokos részek miatt.",
+            "ro": "Explorați zona centrală de recreere din El Rawdah, cunoscută pentru atmosfera sa relaxantă, și purtați încălțăminte comodă pentru a merge ușor pe nisip.",
+            "en": "Explore the central recreational area of El Rawdah, known for its relaxing atmosphere, and wear comfortable walking shoes to navigate the sandy patches easily."
+          }
+        },
+        {
+          "name": {
+            "de": "قرية الروضة",
+            "hu": "قرية الروضة",
+            "ro": "قرية الروضة",
+            "en": "قرية الروضة"
+          },
+          "coords": [
+            29.291729,
+            30.853545
+          ],
+          "category": "recreational",
+          "arrive_at": "11:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in das authentische lokale Flair von Qaryat Al Rawdah, einem charmanten Dorf-Resort, wo das Mitbringen von eigener Sonnencreme sehr zu empfehlen ist.",
+            "hu": "Merüljön el a bájos Qaryat Al Rawdah falusi üdülőhelyének autentikus helyi hangulatában, ahová erősen ajánlott saját naptejet magával hozni.",
+            "ro": "Lăsați-vă purtat de atmosfera locală autentică a fermecătorului sat-stațiune Qaryat Al Rawdah, unde este foarte recomandat să vă aduceți propria cremă de soare.",
+            "en": "Immerse yourself in the authentic local vibe of Qaryat Al Rawdah, a charming village resort, where bringing your own sunscreen is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Marseilia Beach 3",
+            "hu": "Marseilia Beach 3",
+            "ro": "Marseilia Beach 3",
+            "en": "Marseilia Beach 3"
+          },
+          "coords": [
+            29.293931,
+            30.85839
+          ],
+          "category": "recreational",
+          "arrive_at": "13:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.57,
+          "tip_5lang": {
+            "de": "Spazieren Sie gemütlich an den wunderschönen Ufern des Marseilia Beach 3 entlang, genießen Sie den Blick auf das Mittelmeer und halten Sie Bargeld für Erfrischungen bereit.",
+            "hu": "Tegyen egy kényelmes sétát a gyönyörű Marseilia Beach 3 partján, gyönyörködjön a Földközi-tengerben, és tartson magánál némi készpénzt a strandbüfékhez.",
+            "ro": "Faceți o plimbare relaxantă pe țărmul frumos al Marseilia Beach 3, admirând priveliștea Mediteranei, și păstrați bani gheață pentru răcoritoare pe plajă.",
+            "en": "Take a leisurely stroll along the beautiful shores of Marseilia Beach 3, appreciating the Mediterranean views, and keep some cash handy for beachside refreshments."
+          }
+        },
+        {
+          "name": {
+            "de": "Academic Engineers",
+            "hu": "Academic Engineers",
+            "ro": "Academic Engineers",
+            "en": "Academic Engineers"
+          },
+          "coords": [
+            29.295416,
+            30.861024
+          ],
+          "category": "recreational",
+          "arrive_at": "14:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.31,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in der gepflegten Küstenanlage Academic Engineers und kommen Sie etwas früher am Nachmittag, um den besten Sitzplatz zu ergattern.",
+            "hu": "Pihenjen az Academic Engineers jól karbantartott tengerparti üdülőterületén, és érkezzen kora délután, hogy biztosan a legjobb helyet kaphassa meg.",
+            "ro": "Relaxați-vă în zona complexului Academic Engineers, un refugiu de coastă bine întreținut, și ajungeți puțin mai devreme după-amiaza pentru a prinde cel mai bun loc.",
+            "en": "Relax at the Academic Engineers resort area, a well-maintained coastal retreat, and arrive slightly early in the afternoon to secure the best seating spot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen bringt eine erfrischende Brise an die Nordküste, beginnend mit einer ruhigen Erkundung von New Maamoura. Während die Sonne höher steigt, führt der angenehme Küstenspaziergang direkt ins Herz von El Rawdah und lädt Sie ein, den gemütlichen lokalen Lebensstil zu genießen.\nAm Mittag bieten die goldenen Sandstrände von Marseilia Beach 3 eine ideale Kulisse zur Entspannung. Das glitzernde Mittelmeer ergänzt die lebhafte Atmosphäre der Region und macht jeden Halt entlang der Küste zu einem malerischen Moment voller Ruhe und Freude.\nDer Nachmittag entfaltet sich mit einem Besuch der gepflegten Anlagen wie Academic Engineers. Dieser Ort ist perfekt, um sich unter der warmen ägyptischen Sonne zu entspannen und den charakteristischen Architekturstil des Sommerdomizils zu genießen.\nWenn der Nachmittag endet, sorgen das sanfte Rauschen der Wellen und das letzte Tageslicht an der Küste für einen beruhigenden Ausklang und garantieren, dass Ihr gemütlicher Spaziergang Ihnen friedliche Erinnerungen ans Meer hinterlässt.",
+        "hu": "A reggel frissítő tengeri szellőt hoz az északi partra, amely New Maamoura nyugodt felfedezésével veszi kezdetét. Ahogy a nap egyre magasabbra hág, a kellemes parti séta természetes módon vezet át El Rawdah szívébe, hogy átadja magát a ráérős helyi életstílusnak.\nDélben a Marseilia Beach 3 aranyló homokja ideális hátteret nyújt a pihenéshez. A csillogó Földközi-tenger kiegészíti a környék nyüzsgő hangulatát, így a part menti megállók mindegyike a nyugalom és az öröm festői pillanatát kínálja az utazóknak.\nA délután során egy olyan szépen rendezett enklávét látogathat meg, mint az Academic Engineers. Ez a hely tökéletes a meleg egyiptomi nap alatti feltöltődéshez, miközben megcsodálhatja e kedvelt nyári menedékhely jellegzetes stílusát.\nA nap vége felé közeledve a part menti hullámok lágy morajlása megnyugtató befejezést nyújt, és biztosítja, hogy tengerparti kalandja maradandó, békés emlékekkel gazdagodjon a sós levegőjű vidéken.",
+        "ro": "Dimineața aduce o briză răcoroasă pe Coasta de Nord, începând cu o explorare liniștită a zonei New Maamoura. Pe măsură ce soarele urcă pe cer, plimbarea plăcută de pe coastă vă conduce natural în inima El Rawdah, invitându-vă să îmbrățișați stilul de viață local lipsit de grabă.\nLa amiază, nisipurile aurii de la Marseilia Beach 3 oferă un fundal ideal pentru relaxare. Marea Mediterană strălucitoare completează atmosfera vibrantă a zonei, transformând fiecare oprire de-a lungul țărmului într-un moment pitoresc de liniște și bucurie pură.\nDupă-amiaza se desfășoară cu o vizită la enclava frumos amenajată Academic Engineers. Acest loc este perfect pentru a vă relaxa sub soarele cald egiptean, în timp ce vă bucurați de stilul arhitectural distinct al acestui refugiu de vară foarte îndrăgit.\nOdată cu lăsarea după-amiezii târzii, sunetul blând al valurilor creează un final liniștitor al zilei de plimbare, asigurându-vă că aventura dumneavoastră pe coastă vă lasă amintiri pașnice și de neuitat.",
+        "en": "Morning brings a refreshing breeze to the North Coast, starting with a serene exploration of New Maamoura. As the sun climbs higher, the pleasant coastal walk leads naturally into the heart of El Rawdah, inviting you to embrace the unhurried local lifestyle.\nBy midday, the golden sands of Marseilia Beach 3 provide an ideal backdrop for relaxation. The sparkling Mediterranean Sea complements the vibrant atmosphere of the area, making every stop along the shoreline a picturesque moment of tranquility and joy.\nThe afternoon unfolds with a visit to the neatly arranged enclave of Academic Engineers. This spot is perfect for unwinding under the warm Egyptian sun while enjoying the distinct architectural style that characterizes this beloved summer retreat.\nAs your day winds down, the gentle sound of waves creates a soothing end to the afternoon walking tour, ensuring your coastal adventure leaves you with lasting, peaceful memories of the sea and the lively seaside communities."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:41",
+      "total_km": 2.67,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "New Maamoura",
+            "hu": "New Maamoura",
+            "ro": "New Maamoura",
+            "en": "New Maamoura"
+          },
+          "coords": [
+            29.284596,
+            30.854931
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Küstentag in New Maamoura, um die ruhige Morgenbrise zu genießen, und bringen Sie unbedingt eine leichte Jacke mit.",
+            "hu": "Kezdje a tengerparti napot a New Maamoura negyedben, hogy kiélvezze a csendes reggeli szellőt, de mindenképp hozzon magával egy könnyű dzsekit.",
+            "ro": "Începeți ziua de coastă la New Maamoura pentru a vă bucura de briza liniștită a dimineții și asigurați-vă că aveți o jachetă ușoară la dumneavoastră.",
+            "en": "Start your coastal day at New Maamoura to enjoy the serene morning breeze, and make sure to bring a light jacket as the sea air can be brisk."
+          }
+        },
+        {
+          "name": {
+            "de": "El Rawdah",
+            "hu": "El Rawdah",
+            "ro": "El Rawdah",
+            "en": "El Rawdah"
+          },
+          "coords": [
+            29.289189,
+            30.856523
+          ],
+          "category": "recreational",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Erkunden Sie das zentrale Erholungsgebiet von El Rawdah mit seiner entspannten Atmosphäre und tragen Sie bequeme Schuhe für die sandigen Wege.",
+            "hu": "Fedezze fel El Rawdah központi rekreációs övezetét, amely pihentető atmoszférájáról ismert, és viseljen kényelmes cipőt a homokos részek miatt.",
+            "ro": "Explorați zona centrală de recreere din El Rawdah, cunoscută pentru atmosfera sa relaxantă, și purtați încălțăminte comodă pentru a merge ușor pe nisip.",
+            "en": "Explore the central recreational area of El Rawdah, known for its relaxing atmosphere, and wear comfortable walking shoes to navigate the sandy patches easily."
+          }
+        },
+        {
+          "name": {
+            "de": "Marseilia Beach 3",
+            "hu": "Marseilia Beach 3",
+            "ro": "Marseilia Beach 3",
+            "en": "Marseilia Beach 3"
+          },
+          "coords": [
+            29.293931,
+            30.85839
+          ],
+          "category": "recreational",
+          "arrive_at": "11:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.49,
+          "tip_5lang": {
+            "de": "Spazieren Sie gemütlich an den wunderschönen Ufern des Marseilia Beach 3 entlang, genießen Sie den Blick auf das Mittelmeer und halten Sie Bargeld für Erfrischungen bereit.",
+            "hu": "Tegyen egy kényelmes sétát a gyönyörű Marseilia Beach 3 partján, gyönyörködjön a Földközi-tengerben, és tartson magánál némi készpénzt a strandbüfékhez.",
+            "ro": "Faceți o plimbare relaxantă pe țărmul frumos al Marseilia Beach 3, admirând priveliștea Mediteranei, și păstrați bani gheață pentru răcoritoare pe plajă.",
+            "en": "Take a leisurely stroll along the beautiful shores of Marseilia Beach 3, appreciating the Mediterranean views, and keep some cash handy for beachside refreshments."
+          }
+        },
+        {
+          "name": {
+            "de": "Academic Engineers",
+            "hu": "Academic Engineers",
+            "ro": "Academic Engineers",
+            "en": "Academic Engineers"
+          },
+          "coords": [
+            29.295416,
+            30.861024
+          ],
+          "category": "recreational",
+          "arrive_at": "13:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.31,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in der gepflegten Küstenanlage Academic Engineers und kommen Sie etwas früher am Nachmittag, um den besten Sitzplatz zu ergattern.",
+            "hu": "Pihenjen az Academic Engineers jól karbantartott tengerparti üdülőterületén, és érkezzen kora délután, hogy biztosan a legjobb helyet kaphassa meg.",
+            "ro": "Relaxați-vă în zona complexului Academic Engineers, un refugiu de coastă bine întreținut, și ajungeți puțin mai devreme după-amiaza pentru a prinde cel mai bun loc.",
+            "en": "Relax at the Academic Engineers resort area, a well-maintained coastal retreat, and arrive slightly early in the afternoon to secure the best seating spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Casabianca",
+            "hu": "Casabianca",
+            "ro": "Casabianca",
+            "en": "Casabianca"
+          },
+          "coords": [
+            29.301086,
+            30.860576
+          ],
+          "category": "recreational",
+          "arrive_at": "14:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.53,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lebhafte Atmosphäre des bei Einheimischen beliebten Resorts Casabianca und vergessen Sie nicht, Fotos von der markanten weißen Architektur zu machen.",
+            "hu": "Fedezze fel a helyiek körében népszerű Casabianca üdülőhely nyüzsgő hangulatát, és ne felejtsen el fotókat készíteni a lenyűgöző fehér építészetről.",
+            "ro": "Descoperiți atmosfera vibrantă a complexului Casabianca, un favorit al localnicilor, și nu uitați să faceți fotografii arhitecturii sale albe impresionante.",
+            "en": "Discover the vibrant atmosphere of Casabianca resort, a favorite among locals, and do not forget to capture photos of the striking white architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Ramatan",
+            "hu": "Ramatan",
+            "ro": "Ramatan",
+            "en": "Ramatan"
+          },
+          "coords": [
+            29.305594,
+            30.862448
+          ],
+          "category": "recreational",
+          "arrive_at": "15:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Umgebung von Ramatan, perfekt für eine Pause am späten Nachmittag, und bringen Sie ein Buch mit, um am Wasser völlig abzuschalten.",
+            "hu": "Élvezze a Ramatan békés környezetét, amely tökéletes egy késő délutáni pihenőhöz, és érdemes egy könyvet is magával hoznia a vízparti kikapcsolódáshoz.",
+            "ro": "Bucurați-vă de împrejurimile pașnice de la Ramatan, perfecte pentru o pauză spre seară, și aduceți o carte pentru a vă relaxa complet pe malul apei.",
+            "en": "Enjoy the peaceful surroundings of Ramatan, perfect for a late afternoon break, and consider bringing a book or magazine to unwind fully by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "League of Arab States",
+            "hu": "League of Arab States",
+            "ro": "League of Arab States",
+            "en": "League of Arab States"
+          },
+          "coords": [
+            29.309829,
+            30.86371
+          ],
+          "category": "recreational",
+          "arrive_at": "16:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.42,
+          "tip_5lang": {
+            "de": "Besuchen Sie das gehobene Resort-Gebiet der Arabischen Liga, um das elegante Layout zu bewundern, und respektieren Sie die Ruhezonen der Bewohner.",
+            "hu": "Látogasson el az Arab Liga elegáns üdülőnegyedébe, hogy megcsodálja az igényes elrendezést, és tartsa tiszteletben az ott lakók magánszféráját védő csendes zónákat.",
+            "ro": "Vizitați zona exclusivistă a Ligii Statelor Arabe pentru a admira amenajarea elegantă și respectați zonele de liniște stabilite pentru intimitatea rezidenților.",
+            "en": "Visit the upscale League of Arab States resort area to admire its elegant layout, and respect the quiet zones established for the residents' privacy."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen bringt eine erfrischende Brise an die Nordküste, beginnend mit einer flotten Radtour durch New Maamoura. Während die Sonne höher steigt, führt der angenehme Weg direkt ins Herz von El Rawdah und lädt Sie ein, die entspannte lokale Atmosphäre voll aufzunehmen.\nAm Mittag bieten die goldenen Sandstrände von Marseilia Beach 3 und Academic Engineers eine ideale Kulisse zur Entspannung. Das glitzernde Mittelmeer ergänzt die lebhafte Region und macht jeden Halt entlang Ihrer Route zu einem Moment voller Ruhe.\nDer Nachmittag entfaltet sich mit einem Besuch der charmanten Anlagen wie Casabianca und Ramatan. Diese Orte sind perfekt, um sich unter der warmen ägyptischen Sonne auszuruhen und die Architektur dieser beliebten Sommerdomizile zu genießen.\nWenn der Abend naht, bietet die Anlage der Arabischen Liga ein elegantes Ambiente im weichen Licht. Das sanfte Rauschen der Wellen sorgt für einen beruhigenden Tagesausklang auf dem Rad und garantiert, dass Ihr Küstenabenteuer Ihnen friedliche Erinnerungen hinterlässt.",
+        "hu": "A reggel frissítő tengeri szellőt hoz az északi partra, amely egy kellemes biciklitúrával veszi kezdetét New Maamoura területén. Ahogy a nap egyre magasabbra hág, az út El Rawdah szívébe vezet, hogy átadja magát a ráérős helyi életstílusnak a nyeregben ülve.\nDélben a Marseilia Beach 3 és az Academic Engineers aranyló partszakaszai ideális hátteret nyújtanak a pihenéshez. A csillogó Földközi-tenger kiegészíti a környék nyüzsgő hangulatát, festői állomásokat kínálva a bringázás során.\nA délután során olyan hangulatos enklávékat érint, mint a Casabianca és a Ramatan. Ezek a helyek tökéletesek a meleg egyiptomi nap alatti feltöltődéshez, miközben megcsodálhatja az üdülőhelyek jellegzetes építészeti megoldásait.\nAz est közeledtével az Arab Liga üdülőkomplexuma elegáns környezettel várja a lemenő nap fényében. A hullámok lágy morajlása megnyugtató befejezést nyújt a napnak, békés emlékekkel gazdagítva a kerékpáros túrát.",
+        "ro": "Dimineața aduce o briză răcoroasă pe Coasta de Nord, începând cu o plimbare cu bicicleta prin New Maamoura. Pe măsură ce soarele urcă pe cer, traseul vă conduce natural în inima El Rawdah, invitându-vă să îmbrățișați stilul de viață local lipsit de grabă.\nLa amiază, zonele de coastă de la Marseilia Beach 3 și Academic Engineers oferă un fundal ideal pentru relaxare. Marea Mediterană strălucitoare completează atmosfera vibrantă a zonei, transformând fiecare oprire într-un moment de bucurie pură.\nDupă-amiaza se desfășoară pedalând spre enclavele Casabianca și Ramatan. Aceste locuri sunt perfecte pentru a vă relaxa sub soarele cald, în timp ce vă bucurați de stilurile arhitecturale distincte ale acestor refugii de vară foarte îndrăgite.\nOdată cu lăsarea serii, zona Ligii Statelor Arabe oferă un decor elegant în lumina apusului. Sunetul blând al valurilor creează un final liniștitor al zilei pe două roți, asigurându-vă că aventura vă lasă amintiri de neuitat.",
+        "en": "Morning brings a refreshing breeze to the North Coast, starting with a serene cycling exploration of New Maamoura. As the sun climbs higher, the pleasant coastal path leads naturally into the heart of El Rawdah, inviting you to embrace the unhurried local lifestyle on two wheels.\nBy midday, the scenic stretches of Marseilia Beach 3 and Academic Engineers provide an ideal backdrop for relaxation. The sparkling Mediterranean Sea complements the vibrant atmosphere of the area, making every pedal stroke along the shoreline a picturesque moment of tranquility.\nThe afternoon unfolds with visits to vibrant enclaves like Casabianca and the peaceful Ramatan. These spots are perfect for unwinding under the warm Egyptian sun while enjoying the distinct architectural styles that characterize these beloved summer retreats.\nAs evening approaches, the League of Arab States resort area offers an elegant setting in the fading light. The gentle sound of waves creates a soothing end to the active day, ensuring your coastal biking adventure leaves you with lasting, peaceful memories."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:18",
+      "total_km": 3.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "New Maamoura",
+            "hu": "New Maamoura",
+            "ro": "New Maamoura",
+            "en": "New Maamoura"
+          },
+          "coords": [
+            29.284596,
+            30.854931
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Küstentag in New Maamoura, um die ruhige Morgenbrise zu genießen, und bringen Sie unbedingt eine leichte Jacke mit.",
+            "hu": "Kezdje a tengerparti napot a New Maamoura negyedben, hogy kiélvezze a csendes reggeli szellőt, de mindenképp hozzon magával egy könnyű dzsekit.",
+            "ro": "Începeți ziua de coastă la New Maamoura pentru a vă bucura de briza liniștită a dimineții și asigurați-vă că aveți o jachetă ușoară la dumneavoastră.",
+            "en": "Start your coastal day at New Maamoura to enjoy the serene morning breeze, and make sure to bring a light jacket as the sea air can be brisk."
+          }
+        },
+        {
+          "name": {
+            "de": "El Rawdah",
+            "hu": "El Rawdah",
+            "ro": "El Rawdah",
+            "en": "El Rawdah"
+          },
+          "coords": [
+            29.289189,
+            30.856523
+          ],
+          "category": "recreational",
+          "arrive_at": "10:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Erkunden Sie das zentrale Erholungsgebiet von El Rawdah mit seiner entspannten Atmosphäre und tragen Sie bequeme Schuhe für die sandigen Wege.",
+            "hu": "Fedezze fel El Rawdah központi rekreációs övezetét, amely pihentető atmoszférájáról ismert, és viseljen kényelmes cipőt a homokos részek miatt.",
+            "ro": "Explorați zona centrală de recreere din El Rawdah, cunoscută pentru atmosfera sa relaxantă, și purtați încălțăminte comodă pentru a merge ușor pe nisip.",
+            "en": "Explore the central recreational area of El Rawdah, known for its relaxing atmosphere, and wear comfortable walking shoes to navigate the sandy patches easily."
+          }
+        },
+        {
+          "name": {
+            "de": "Academic Engineers",
+            "hu": "Academic Engineers",
+            "ro": "Academic Engineers",
+            "en": "Academic Engineers"
+          },
+          "coords": [
+            29.295416,
+            30.861024
+          ],
+          "category": "recreational",
+          "arrive_at": "11:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.76,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in der gepflegten Küstenanlage Academic Engineers und kommen Sie etwas früher am Nachmittag, um den besten Sitzplatz zu ergattern.",
+            "hu": "Pihenjen az Academic Engineers jól karbantartott tengerparti üdülőterületén, és érkezzen kora délután, hogy biztosan a legjobb helyet kaphassa meg.",
+            "ro": "Relaxați-vă în zona complexului Academic Engineers, un refugiu de coastă bine întreținut, și ajungeți puțin mai devreme după-amiaza pentru a prinde cel mai bun loc.",
+            "en": "Relax at the Academic Engineers resort area, a well-maintained coastal retreat, and arrive slightly early in the afternoon to secure the best seating spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Casabianca",
+            "hu": "Casabianca",
+            "ro": "Casabianca",
+            "en": "Casabianca"
+          },
+          "coords": [
+            29.301086,
+            30.860576
+          ],
+          "category": "recreational",
+          "arrive_at": "12:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.53,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lebhafte Atmosphäre des bei Einheimischen beliebten Resorts Casabianca und vergessen Sie nicht, Fotos von der markanten weißen Architektur zu machen.",
+            "hu": "Fedezze fel a helyiek körében népszerű Casabianca üdülőhely nyüzsgő hangulatát, és ne felejtsen el fotókat készíteni a lenyűgöző fehér építészetről.",
+            "ro": "Descoperiți atmosfera vibrantă a complexului Casabianca, un favorit al localnicilor, și nu uitați să faceți fotografii arhitecturii sale albe impresionante.",
+            "en": "Discover the vibrant atmosphere of Casabianca resort, a favorite among locals, and do not forget to capture photos of the striking white architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Ramatan",
+            "hu": "Ramatan",
+            "ro": "Ramatan",
+            "en": "Ramatan"
+          },
+          "coords": [
+            29.305594,
+            30.862448
+          ],
+          "category": "recreational",
+          "arrive_at": "14:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Umgebung von Ramatan, perfekt für eine Pause am späten Nachmittag, und bringen Sie ein Buch mit, um am Wasser völlig abzuschalten.",
+            "hu": "Élvezze a Ramatan békés környezetét, amely tökéletes egy késő délutáni pihenőhöz, és érdemes egy könyvet is magával hoznia a vízparti kikapcsolódáshoz.",
+            "ro": "Bucurați-vă de împrejurimile pașnice de la Ramatan, perfecte pentru o pauză spre seară, și aduceți o carte pentru a vă relaxa complet pe malul apei.",
+            "en": "Enjoy the peaceful surroundings of Ramatan, perfect for a late afternoon break, and consider bringing a book or magazine to unwind fully by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "El Karawan",
+            "hu": "El Karawan",
+            "ro": "El Karawan",
+            "en": "El Karawan"
+          },
+          "coords": [
+            29.317334,
+            30.866379
+          ],
+          "category": "recreational",
+          "arrive_at": "15:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.19,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise an der Küste im El Karawan, um einen herrlichen mediterranen Sonnenuntergang zu erleben, und holen Sie sich noch ein warmes Getränk.",
+            "hu": "Fejezze be a tengerparti utazást az El Karawan üdülőben egy csodálatos mediterrán naplemente kíséretében, és vegyen egy meleg italt az egyik helyi árustól.",
+            "ro": "Încheiați-vă călătoria pe coastă la El Karawan pentru a asista la un apus mediteranean glorios și încercați să luați o băutură caldă de la un vânzător local.",
+            "en": "End your coastal journey at El Karawan to witness a glorious Mediterranean sunset, and try to grab a warm drink from a local vendor before dusk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen bringt eine erfrischende Brise an die Nordküste, beginnend mit einem entspannten Halt in New Maamoura. Während die Sonne höher steigt, führt die kurze Fahrt Sie direkt ins Herz von El Rawdah und lädt Sie ein, den gemütlichen lokalen Lebensstil zu genießen.\nAm Mittag bietet die goldenen Anlage der Academic Engineers eine ideale Kulisse zur Entspannung. Das glitzernde Mittelmeer ergänzt die lebhafte Atmosphäre der Region und macht jeden Halt entlang der Küstenstraße zu einem malerischen Moment voller Ruhe.\nDer Nachmittag entfaltet sich mit einem Besuch der charmanten Residenzen von Casabianca und Ramatan. Diese Orte sind perfekt, um sich unter der warmen ägyptischen Sonne zu entspannen und die charakteristischen Architekturstile dieser beliebten Sommerdomizile im Vorbeifahren zu erkunden.\nWenn der Abend naht, bietet El Karawan einen spektakulären Sonnenuntergang über dem Wasser. Das sanfte Rauschen der Wellen sorgt für einen beruhigenden Tagesausklang, der nach einem komfortablen Roadtrip für dauerhafte, friedliche Erinnerungen sorgt.",
+        "hu": "A reggel frissítő tengeri szellőt hoz az északi partra, amely egy autós megállóval veszi kezdetét New Maamoura nyugodt környezetében. Ahogy a nap egyre magasabbra hág, a rövid utazás természetes módon vezet át El Rawdah szívébe.\nDélben az Academic Engineers rendezett partszakasza ideális hátteret nyújt a pihenéshez. A csillogó Földközi-tenger kiegészíti a környék nyüzsgő hangulatát, így az autós utazás minden egyes állomása festői élményt garantál a part mentén.\nA délután során a Casabianca és a Ramatan üdülőhelyeit keresheti fel autójával. Ezek a helyek tökéletesek a meleg egyiptomi nap alatti feltöltődéshez, miközben kényelmesen felfedezheti e kedvelt nyári menedékhelyek jellegzetes építészeti megoldásait.\nAz est közeledtével az El Karawan lenyűgöző naplementét kínál a víz felett. A hullámok lágy morajlása megnyugtató befejezést nyújt a napnak, és biztosítja, hogy tengerparti kocsikázása békés emlékekkel gazdagodjon.",
+        "ro": "Dimineața aduce o briză răcoroasă pe Coasta de Nord, începând cu o explorare confortabilă a zonei New Maamoura. Pe măsură ce soarele urcă pe cer, drumul plăcut cu mașina vă conduce natural în inima El Rawdah, invitându-vă să îmbrățișați stilul de viață relaxat.\nLa amiază, plaja din zona Academic Engineers oferă un fundal ideal pentru relaxare. Marea Mediterană strălucitoare completează atmosfera vibrantă, transformând fiecare oprire de-a lungul rutei costiere într-un moment pitoresc de liniște și bucurie.\nDupă-amiaza se desfășoară cu o scurtă deplasare spre Casabianca și Ramatan. Aceste locuri sunt perfecte pentru a vă relaxa sub soarele cald egiptean, în timp ce explorați cu mașina stilurile arhitecturale distincte ale acestor refugii de vară foarte îndrăgite.\nOdată cu lăsarea serii, complexul El Karawan oferă priveliști spectaculoase ale apusului. Sunetul blând al valurilor creează un final liniștitor al zilei, asigurându-vă că excursia rutieră pe coastă vă lasă amintiri pașnice și de neuitat.",
+        "en": "Morning brings a refreshing breeze to the North Coast, starting with a comfortable drive to New Maamoura. As the sun climbs higher, the pleasant coastal route leads naturally into the heart of El Rawdah, inviting you to embrace the unhurried local lifestyle with ease.\nBy midday, the relaxing enclave of Academic Engineers provides an ideal backdrop for beachside lounging. The sparkling Mediterranean Sea complements the vibrant atmosphere of the area, making every driving stop along the shoreline a picturesque moment of tranquility.\nThe afternoon unfolds with visits to neatly arranged complexes like Casabianca and Ramatan. These spots are perfect for unwinding under the warm Egyptian sun while easily driving between the distinct architectural styles that characterize these beloved summer retreats.\nAs evening approaches, El Karawan offers spectacular sunset views over the water. The gentle sound of waves creates a soothing end to the day's road trip, ensuring your coastal adventure leaves you with lasting, peaceful memories of the sea."
+      }
+    }
+  }
+}

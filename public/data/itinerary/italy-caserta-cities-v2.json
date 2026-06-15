@@ -1,0 +1,497 @@
+{
+  "city_id": "italy-caserta-cities-v2",
+  "anchor": {
+    "name": "Caserta",
+    "coords": [
+      14.333333,
+      41.066667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:08",
+      "total_km": 1.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Monumento a Luigi Vanvitelli",
+            "hu": "Luigi Vanvitelli-emlékmű",
+            "ro": "Monumentul lui Luigi Vanvitelli",
+            "en": "Monumento a Luigi Vanvitelli"
+          },
+          "coords": [
+            14.332233,
+            41.075348
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Statue zu Ehren des visionären Architekten des Königspalastes und achten Sie darauf, wie perfekt sie sich in das von ihm entworfene Stadtbild einfügt.",
+            "hu": "Csodálja meg a Királyi Palota látnoki építészének szobrát, és figyelje meg, milyen tökéletesen illeszkedik az általa tervezett városszerkezethez, ha pont elébe áll.",
+            "ro": "Admirați statuia dedicată arhitectului vizionar al Palatului Regal și observați cum se aliniază perfect cu grila urbană proiectată de el dacă stați direct în fața ei.",
+            "en": "Admire the statue honoring the visionary architect of the Royal Palace, and notice how perfectly it aligns with the urban grid he designed if you stand directly in front."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Commestibili",
+            "hu": "Palazzo Commestibili",
+            "ro": "Palazzo Commestibili",
+            "en": "Palazzo Commestibili"
+          },
+          "coords": [
+            14.334807,
+            41.075162
+          ],
+          "category": "castle",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historische Marktgebäude, das einst die Lebensmittelverteilung bündelte, und kommen Sie früh am Tag, um die utilitaristische Architektur voll zu würdigen.",
+            "hu": "Fedezze fel ezt a történelmi piaccsarnokot, amely egykor az élelmiszer-elosztást központosította, és látogasson el ide korán, hogy értékelni tudja a 19. századi építészetet.",
+            "ro": "Explorați această clădire istorică de piață care a centralizat cândva distribuția alimentelor și vizitați devreme pentru a aprecia arhitectura sa utilitară din secolul al XIX-lea.",
+            "en": "Explore this historic marketplace building that once centralized food distribution, and visit early in the day to fully appreciate its utilitarian yet elegant 19th-century architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Cattedrale di San Michele Arcangelo",
+            "hu": "San Michele Arcangelo Katedrális",
+            "ro": "Catedrala San Michele Arcangelo",
+            "en": "Cattedrale di San Michele Arcangelo"
+          },
+          "coords": [
+            14.333649,
+            41.073764
+          ],
+          "category": "religious",
+          "arrive_at": "11:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Treten Sie in diese ruhige Kathedrale ein, um ihre wunderschönen Fresken zu bewundern, und denken Sie daran, Ihre Schultern zu bedecken, da es ein aktiver Gottesdienstort ist.",
+            "hu": "Lépjen be ebbe a békés katedrálisba, csodálja meg gyönyörű freskóit, és ne felejtse el eltakarni a vállait, mivel ez egy működő istentiszteleti hely.",
+            "ro": "Pășiți în această catedrală senină pentru a-i admira frescele frumoase și vitraliile, și amintiți-vă să aveți umerii acoperiți, fiind un lăcaș de cult activ.",
+            "en": "Step inside this serene cathedral to admire its beautiful frescoes and stained glass, and remember to keep your shoulders covered as it is an active place of worship."
+          }
+        },
+        {
+          "name": {
+            "de": "Fontana Margherita",
+            "hu": "Fontana Margherita",
+            "ro": "Fontana Margherita",
+            "en": "Fontana Margherita"
+          },
+          "coords": [
+            14.327748,
+            41.081003
+          ],
+          "category": "landmark",
+          "arrive_at": "13:23",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Verweilen Sie an diesem kreisförmigen Brunnen, der als malerisches Tor zum riesigen königlichen Park dient, und machen Sie ein Foto mit der Palastfassade im Hintergrund.",
+            "hu": "Pihenjen meg ennél a kör alakú szökőkútnál, amely festői kapuként szolgál a hatalmas királyi parkhoz, és készítsen egy fotót a háttérben látható palotahomlokzattal.",
+            "ro": "Opriți-vă la această fântână circulară care servește ca poartă pitorească spre vastul parc regal și faceți o fotografie cu fațada palatului pe fundal.",
+            "en": "Pause by this circular fountain that serves as a scenic gateway to the vast royal park, capturing a photo from the edge to get the sweeping palace facade in the background."
+          }
+        },
+        {
+          "name": {
+            "de": "Königliche Gärten",
+            "hu": "Királyi Kertek",
+            "ro": "Grădinile Regale",
+            "en": "Royal Gardens - Royal Palace of Caserta"
+          },
+          "coords": [
+            14.326805,
+            41.081644
+          ],
+          "category": "park",
+          "arrive_at": "13:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diese riesigen Gärten voller Brunnen und Skulpturen, und erwägen Sie, ein Fahrrad zu mieten, um den majestätischen Englischen Garten schneller zu erreichen.",
+            "hu": "Sétáljon végig ezeken a hatalmas, szökőkutakkal és szobrokkal teli monumentális kerteken, és fontolja meg egy kerékpár bérlését, hogy gyorsabban eljusson az Angolkertbe.",
+            "ro": "Plimbați-vă prin aceste imense grădini monumentale pline de fântâni și sculpturi, și luați în considerare închirierea unei biciclete pentru a ajunge mai repede la Grădina Engleză.",
+            "en": "Wander through these immense monumental gardens filled with fountains and sculptures, and consider renting a bike or taking the shuttle bus to save time reaching the majestic English Garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Cascata dei Delfini",
+            "hu": "Cascata dei Delfini",
+            "ro": "Cascata dei Delfini",
+            "en": "Cascata dei Delfini"
+          },
+          "coords": [
+            14.32815,
+            41.086068
+          ],
+          "category": "landmark",
+          "arrive_at": "15:13",
+          "stay_min": 55,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erreichen Sie den Höhepunkt der Wasserwege des Parks an diesem atemberaubenden Delfin-Wasserfall, wo das späte Nachmittagslicht die besten Fotobedingungen bietet.",
+            "hu": "Érje el a park vízi útjának csúcspontját ennél a lenyűgöző delfin-vízesésnél, ahol a fotózáshoz a legjobb fényviszonyok a késő délutáni órákban vannak.",
+            "ro": "Ajungeți la apogeul cursului de apă al parcului la această cascadă uimitoare cu delfini, unde lumina de la sfârșitul după-amiezii este perfectă pentru a fotografia apa curgătoare.",
+            "en": "Reach the pinnacle of the park's waterway at this stunning dolphin cascade, where the best lighting for photography occurs in the late afternoon when the sun highlights the rushing water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Erkunden Sie den historischen Kern von Caserta, beginnend am Vanvitelli-Denkmal, bevor Sie in die Atmosphäre des Palazzo Commestibili eintauchen.\n\nMittag: Bewundern Sie die spirituelle Pracht der Kathedrale San Michele Arcangelo als friedlichen Auftakt zu den monumentalen königlichen Anlagen.\n\nNachmittag: Überqueren Sie die Fontana Margherita, um die beeindruckenden königlichen Gärten zu betreten, und spazieren Sie durch endlose grüne Alleen.\n\nAbend: Beenden Sie Ihre Reise an der atemberaubenden Cascata dei Delfini und beobachten Sie das Sonnenuntergangslicht auf dem fallenden Wasser dieses Parks.",
+        "hu": "Délelőtt: Fedezze fel Caserta történelmi magját, kezdve a Vanvitelli-emlékművel, mielőtt elmerülne a Palazzo Commestibili nyüzsgő légkörében.\n\nDél: Csodálja meg a San Michele Arcangelo katedrális spirituális és művészeti nagyszerűségét, amely békés előjátéka a monumentális királyi kerteknek.\n\nDélután: Keljen át a Fontana Margheritán, hogy belépjen a fenséges Királyi Kertekbe, és sétáljon végig a végtelen zöld fasorokon.\n\nEste: Zárja utazását a lélegzetelállító Cascata dei Delfininél, és figyelje, ahogy a lemenő nap fénye játszik a fenséges park csobogó vizein.",
+        "ro": "Dimineața: Explorați centrul istoric, începând cu Monumentul Vanvitelli, înainte de a vă cufunda în atmosfera vibrantă a Palazzo Commestibili.\n\nPrânz: Admirați măreția spirituală și artistică a Catedralei San Michele Arcangelo, un preludiu pașnic la terenurile regale monumentale.\n\nDupă-amiază: Traversați Fontana Margherita pentru a intra în uimitoarele Grădini Regale, plimbându-vă pe aleile verzi nesfârșite și printre statui.\n\nSeara: Încheiați-vă călătoria la uluitoarea Cascadă a Delfinilor, privind lumina apusului care se joacă pe apele curgătoare ale acestui parc.",
+        "en": "Morning: Explore Caserta's historic core, starting at the Vanvitelli Monument before immersing yourself in the bustling atmosphere of Palazzo Commestibili.\n\nMidday: Marvel at the spiritual and artistic grandeur of the Cathedral of San Michele Arcangelo, a peaceful prelude to the monumental royal grounds.\n\nAfternoon: Cross Fontana Margherita to enter the awe-inspiring Royal Gardens, walking past endless green avenues and classical statues.\n\nEvening: Conclude your journey at the breathtaking Cascata dei Delfini, watching the sunset light play on the tumbling waters of this majestic park."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:02",
+      "total_km": 3.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Palazzo Paternò",
+            "hu": "Palazzo Paternò",
+            "ro": "Palazzo Paternò",
+            "en": "Palazzo Paternò"
+          },
+          "coords": [
+            14.339259,
+            41.073363
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die beeindruckende Fassade dieses Adelspalastes, der Casertas reiche Vergangenheit widerspiegelt, und prüfen Sie, ob der Innenhof für einen kurzen Blick geöffnet ist.",
+            "hu": "Tekintse meg ennek az arisztokrata palotának a lenyűgöző homlokzatát, amely Caserta gazdag múltját tükrözi, és nézze meg, nyitva van-e a belső udvar egy gyors pillantásra.",
+            "ro": "Priviți fațada impresionantă a acestui palat aristocratic care reflectă trecutul bogat al Casertei și verificați dacă curtea interioară este deschisă pentru o privire rapidă.",
+            "en": "View the impressive facade of this aristocratic palace that reflects Caserta's wealthy past, and check the entrance gate to see if the inner courtyard is open for a quick glimpse."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Dinamico della Tecnologia Adriano Olivetti",
+            "hu": "Adriano Olivetti Technológiai Múzeum",
+            "ro": "Muzeul Tehnologiei Adriano Olivetti",
+            "en": "Museo Dinamico della Tecnologia Adriano Olivetti"
+          },
+          "coords": [
+            14.339043,
+            41.068822
+          ],
+          "category": "museum",
+          "arrive_at": "10:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem einzigartigen Museum die Geschichte der italienischen Computer, und bitten Sie die Führer um eine kurze Demonstration der historischen Rechenmaschinen.",
+            "hu": "Fedezze fel az olasz számítástechnika és írógépek történetét ebben az egyedi múzeumban, és kérjen meg egy tárlatvezetőt a régi számológépek gyors bemutatására.",
+            "ro": "Descoperiți istoria calculatoarelor și mașinilor de scris italiene în acest muzeu unic și rugați ghizii să vă facă o scurtă demonstrație a calculatoarelor de epocă.",
+            "en": "Discover the history of Italian computing and typewriters in this unique museum, and ask the knowledgeable volunteer guides for a quick demonstration of the vintage calculators."
+          }
+        },
+        {
+          "name": {
+            "de": "Cattedrale di San Michele Arcangelo",
+            "hu": "San Michele Arcangelo Katedrális",
+            "ro": "Catedrala San Michele Arcangelo",
+            "en": "Cattedrale di San Michele Arcangelo"
+          },
+          "coords": [
+            14.333649,
+            41.073764
+          ],
+          "category": "religious",
+          "arrive_at": "12:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Treten Sie in diese ruhige Kathedrale ein, um ihre wunderschönen Fresken zu bewundern, und denken Sie daran, Ihre Schultern zu bedecken, da es ein aktiver Gottesdienstort ist.",
+            "hu": "Lépjen be ebbe a békés katedrálisba, csodálja meg gyönyörű freskóit, és ne felejtse el eltakarni a vállait, mivel ez egy működő istentiszteleti hely.",
+            "ro": "Pășiți în această catedrală senină pentru a-i admira frescele frumoase și vitraliile, și amintiți-vă să aveți umerii acoperiți, fiind un lăcaș de cult activ.",
+            "en": "Step inside this serene cathedral to admire its beautiful frescoes and stained glass, and remember to keep your shoulders covered as it is an active place of worship."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo al Boschetto",
+            "hu": "Palazzo al Boschetto",
+            "ro": "Palazzo al Boschetto",
+            "en": "Palazzo al Boschetto"
+          },
+          "coords": [
+            14.321241,
+            41.075809
+          ],
+          "category": "museum",
+          "arrive_at": "13:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ausstellungen in diesem weniger bekannten kulturellen Veranstaltungsort und ruhen Sie sich einen Moment auf der kleinen angrenzenden Grünfläche aus.",
+            "hu": "Tekintse meg a kiállításokat ezen a kevésbé ismert kulturális helyszínen, és pihenjen egy pillanatot a hozzá tartozó kis zöldterületen, mielőtt folytatná útját.",
+            "ro": "Investigați expozițiile din acest loc cultural mai puțin cunoscut și acordați-vă un moment de odihnă în micul său spațiu verde atașat înainte de a vă continua drumul.",
+            "en": "Investigate the exhibits within this lesser-known cultural venue set in a quiet area, and take a moment to rest in its small attached green space before continuing your ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelluccia",
+            "hu": "Castelluccia",
+            "ro": "Castelluccia",
+            "en": "Castelluccia"
+          },
+          "coords": [
+            14.322468,
+            41.077283
+          ],
+          "category": "landmark",
+          "arrive_at": "15:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Radeln Sie zu dieser Miniaturfestung, die als Spielschloss für die königlichen Prinzen gebaut wurde, und bringen Sie ein Weitwinkelobjektiv mit, um die verspielte Architektur einzufangen.",
+            "hu": "Kerekezzen fel ehhez a miniatűr erődhöz, amelyet a királyi hercegek játszóvárának építettek, és hozzon magával nagylátószögű objektívet, hogy megörökítse játékos építészetét.",
+            "ro": "Pedalați până la această fortăreață miniaturală construită ca un castel de joacă pentru prinții regali, aducând un obiectiv cu unghi larg pentru a surprinde arhitectura sa jucăușă.",
+            "en": "Cycle up to this miniature fortress built as a play castle for the royal princes, bringing a wide-angle lens to capture its playful architecture set amongst the dense park foliage."
+          }
+        },
+        {
+          "name": {
+            "de": "Königliche Gärten",
+            "hu": "Királyi Kertek",
+            "ro": "Grădinile Regale",
+            "en": "Royal Gardens - Royal Palace of Caserta"
+          },
+          "coords": [
+            14.326805,
+            41.081644
+          ],
+          "category": "park",
+          "arrive_at": "15:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diese riesigen Gärten voller Brunnen und Skulpturen, und erwägen Sie, ein Fahrrad zu mieten, um den majestätischen Englischen Garten schneller zu erreichen.",
+            "hu": "Sétáljon végig ezeken a hatalmas, szökőkutakkal és szobrokkal teli monumentális kerteken, és fontolja meg egy kerékpár bérlését, hogy gyorsabban eljusson az Angolkertbe.",
+            "ro": "Plimbați-vă prin aceste imense grădini monumentale pline de fântâni și sculpturi, și luați în considerare închirierea unei biciclete pentru a ajunge mai repede la Grădina Engleză.",
+            "en": "Wander through these immense monumental gardens filled with fountains and sculptures, and consider renting a bike or taking the shuttle bus to save time reaching the majestic English Garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Cascata dei Delfini",
+            "hu": "Cascata dei Delfini",
+            "ro": "Cascata dei Delfini",
+            "en": "Cascata dei Delfini"
+          },
+          "coords": [
+            14.32815,
+            41.086068
+          ],
+          "category": "landmark",
+          "arrive_at": "17:07",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erreichen Sie den Höhepunkt der Wasserwege des Parks an diesem atemberaubenden Delfin-Wasserfall, wo das späte Nachmittagslicht die besten Fotobedingungen bietet.",
+            "hu": "Érje el a park vízi útjának csúcspontját ennél a lenyűgöző delfin-vízesésnél, ahol a fotózáshoz a legjobb fényviszonyok a késő délutáni órákban vannak.",
+            "ro": "Ajungeți la apogeul cursului de apă al parcului la această cascadă uimitoare cu delfini, unde lumina de la sfârșitul după-amiezii este perfectă pentru a fotografia apa curgătoare.",
+            "en": "Reach the pinnacle of the park's waterway at this stunning dolphin cascade, where the best lighting for photography occurs in the late afternoon when the sun highlights the rushing water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Radeln Sie durch die eleganten Straßen, um den Palazzo Paternò zu bewundern, und tauchen Sie dann im Olivetti-Technologiemuseum in die Industriegeschichte ein.\n\nMittag: Machen Sie einen Halt an der Kathedrale San Michele Arcangelo für einen Moment der Besinnung, bevor Sie zu den kulturellen Ausstellungen des Palazzo al Boschetto aufbrechen.\n\nNachmittag: Radeln Sie in die weitläufigen königlichen Parkanlagen und machen Sie einen Abstecher zur Castelluccia, der faszinierenden Miniaturfestung.\n\nAbend: Genießen Sie eine entspannte Fahrt durch die königlichen Gärten und lassen Sie den Tag an den kaskadierenden Wassern der spektakulären Delfini-Fontäne ausklingen.",
+        "hu": "Délelőtt: Kerekezzen végig az elegáns utcákon, csodálja meg a Palazzo Paternót, majd merüljön el az ipartörténetben az Olivetti Technológiai Múzeumban.\n\nDél: Álljon meg a San Michele Arcangelo katedrálisnál egy csendes elmélkedésre, mielőtt a Palazzo al Boschetto kulturális kiállításai felé venné az irányt.\n\nDélután: Tekerjen be a hatalmas királyi parkba, és tegyen egy szórakoztató kitérőt a Castellucciához, a királyi szórakozásra épült miniatűr erődhöz.\n\nEste: Élvezze a kényelmes gurulást a Királyi Kertekben, és koronázza meg a napját a látványos Delfini-szökőkút lezúduló vizeinél.",
+        "ro": "Dimineața: Pedalați pe străzile elegante pentru a admira Palazzo Paternò, apoi scufundați-vă în istoria industrială la Muzeul Tehnologiei Olivetti.\n\nPrânz: Opriți-vă la Catedrala San Michele Arcangelo pentru un moment de liniște, înainte de a merge spre expozițiile culturale de la Palazzo al Boschetto.\n\nDupă-amiază: Călătoriți în vastul parc regal, făcând un ocol distractiv la Castelluccia, o fascinantă fortăreață miniaturală construită pentru relaxare.\n\nSeara: Bucurați-vă de o plimbare ușoară prin Grădinile Regale, încheindu-vă ziua la apele în cascadă ale spectaculoasei fântâni Delfini.",
+        "en": "Morning: Pedal through the elegant streets to admire Palazzo Paternò, then dive into industrial history at the Adriano Olivetti Technology Museum.\n\nMidday: Stop by the Cathedral of San Michele Arcangelo for a moment of quiet reflection, before riding out towards the cultural exhibits of Palazzo al Boschetto.\n\nAfternoon: Cycle into the vast Royal park lands, making a fun detour to the Castelluccia, the fascinating miniature fortress built for royal recreation.\n\nEvening: Enjoy an easy cruise through the Royal Gardens, capping off your day at the cascading waters of the spectacular Delfini fountain."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:13",
+      "total_km": 7.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fornace",
+            "hu": "Fornace",
+            "ro": "Fornace",
+            "en": "Fornace"
+          },
+          "coords": [
+            14.339533,
+            41.046806
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Ruinen dieses alten Ziegelofens, der Materialien für die Region lieferte, und tragen Sie festes Schuhwerk, da der Boden um die Stätte uneben ist.",
+            "hu": "Látogassa meg ennek az ősi téglagyárnak a romjait, amely a régió épületeinek anyagát szolgáltatta, és viseljen zárt cipőt, mivel a terep meglehetősen egyenetlen.",
+            "ro": "Vizitați ruinele acestui vechi cuptor de cărămizi care a furnizat materiale pentru clădirile din regiune și purtați încălțăminte rezistentă deoarece terenul este accidentat.",
+            "en": "Visit the ruins of this ancient brickworks furnace that supplied materials for the region's great buildings, and wear sturdy shoes as the ground around the archaeological site is uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Leonetti",
+            "hu": "Palazzo Leonetti",
+            "ro": "Palazzo Leonetti",
+            "en": "Palazzo Leonetti"
+          },
+          "coords": [
+            14.352386,
+            41.062404
+          ],
+          "category": "castle",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Betrachten Sie die befestigten architektonischen Details dieser ländlichen, schlossähnlichen Residenz und denken Sie daran, dass sie meist nur von außen besichtigt werden kann.",
+            "hu": "Figyelje meg ennek a vidéki, kastélyszerű rezidenciának az erődített építészeti részleteit, és ne feledje, hogy többnyire csak kívülről látható, mivel magántulajdonban van.",
+            "ro": "Observați detaliile arhitecturale fortificate ale acestei reședințe rurale asemănătoare unui castel, ținând cont că se vede mai mult de afară, fiind proprietate privată.",
+            "en": "Observe the fortified architectural details of this rural castle-like residence, keeping in mind that it is mostly viewed from the outside since it remains private property."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo dei Vescovi",
+            "hu": "Palazzo dei Vescovi",
+            "ro": "Palazzo dei Vescovi",
+            "en": "Palazzo dei Vescovi"
+          },
+          "coords": [
+            14.349516,
+            41.070026
+          ],
+          "category": "castle",
+          "arrive_at": "11:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen historischen Bischofspalast, der eine wichtige Rolle in der lokalen Kirchengeschichte spielte, und prüfen Sie den Gemeindeplan auf gelegentliche Führungen.",
+            "hu": "Fedezze fel ezt a történelmi püspöki palotát, amely döntő szerepet játszott a helyi egyháztörténetben, és ellenőrizze a plébánia beosztását, hátha tartanak belső vezetett túrákat.",
+            "ro": "Explorați acest palat istoric al episcopilor care a jucat un rol crucial în istoria ecleziastică locală și verificați programul parohiei pentru posibile tururi ghidate.",
+            "en": "Explore this historical Bishops' Palace which played a crucial role in local ecclesiastical history, and check the local parish schedule for occasional guided tours of the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Cattedrale di San Michele Arcangelo",
+            "hu": "San Michele Arcangelo Katedrális",
+            "ro": "Catedrala San Michele Arcangelo",
+            "en": "Cattedrale di San Michele Arcangelo"
+          },
+          "coords": [
+            14.333649,
+            41.073764
+          ],
+          "category": "religious",
+          "arrive_at": "13:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Treten Sie in diese ruhige Kathedrale ein, um ihre wunderschönen Fresken zu bewundern, und denken Sie daran, Ihre Schultern zu bedecken, da es ein aktiver Gottesdienstort ist.",
+            "hu": "Lépjen be ebbe a békés katedrálisba, csodálja meg gyönyörű freskóit, és ne felejtse el eltakarni a vállait, mivel ez egy működő istentiszteleti hely.",
+            "ro": "Pășiți în această catedrală senină pentru a-i admira frescele frumoase și vitraliile, și amintiți-vă să aveți umerii acoperiți, fiind un lăcaș de cult activ.",
+            "en": "Step inside this serene cathedral to admire its beautiful frescoes and stained glass, and remember to keep your shoulders covered as it is an active place of worship."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento ai Caduti",
+            "hu": "Monumento ai Caduti",
+            "ro": "Monumento ai Caduti",
+            "en": "Monumento ai Caduti"
+          },
+          "coords": [
+            14.310124,
+            41.079284
+          ],
+          "category": "historical",
+          "arrive_at": "14:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Erweisen Sie an diesem feierlichen Kriegsdenkmal für gefallene Soldaten Ihren Respekt, ein ruhiger Ort, der abseits des Trubels einen Moment der Besinnung bietet.",
+            "hu": "Tiszteljen meg ezen az elesett katonáknak szentelt ünnepélyes háborús emlékműnél, amely egy csendes hely, lehetőséget adva a elmélkedésre a nyüzsgő városközponti forgalomtól távol.",
+            "ro": "Prezentați-vă omagiile la acest memorial solemn de război dedicat soldaților căzuți, un loc liniștit care oferă un moment de reflecție departe de traficul aglomerat al orașului.",
+            "en": "Pay your respects at this solemn war memorial dedicated to fallen soldiers, a quiet spot offering a moment of reflection away from the bustling city center traffic."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo al Boschetto",
+            "hu": "Palazzo al Boschetto",
+            "ro": "Palazzo al Boschetto",
+            "en": "Palazzo al Boschetto"
+          },
+          "coords": [
+            14.321241,
+            41.075809
+          ],
+          "category": "museum",
+          "arrive_at": "16:03",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ausstellungen in diesem weniger bekannten kulturellen Veranstaltungsort und ruhen Sie sich einen Moment auf der kleinen angrenzenden Grünfläche aus.",
+            "hu": "Tekintse meg a kiállításokat ezen a kevésbé ismert kulturális helyszínen, és pihenjen egy pillanatot a hozzá tartozó kis zöldterületen, mielőtt folytatná útját.",
+            "ro": "Investigați expozițiile din acest loc cultural mai puțin cunoscut și acordați-vă un moment de odihnă în micul său spațiu verde atașat înainte de a vă continua drumul.",
+            "en": "Investigate the exhibits within this lesser-known cultural venue set in a quiet area, and take a moment to rest in its small attached green space before continuing your ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Fahren Sie in die Außenbezirke, um Casertas verborgene historische Schichten zu entdecken, beginnend mit der alten Fornace und dem befestigten Charme des Palazzo Leonetti.\n\nMittag: Entdecken Sie die kirchliche Macht im Palazzo dei Vescovi und fahren Sie dann näher ins Zentrum, um die ruhige Kathedrale San Michele Arcangelo zu besuchen.\n\nNachmittag: Erweisen Sie am Monumento ai Caduti Ihren Respekt und navigieren Sie durch die historischen Alleen der Stadt, um die Umgebung des Palazzo al Boschetto zu erreichen.\n\nAbend: Schließen Sie Ihre Erkundungsfahrt in der Nähe der Parkgrenzen ab und lassen Sie einen Tag Revue passieren, der von ländlichen Ruinen bis zu aristokratischer Architektur reichte.",
+        "hu": "Délelőtt: Vezessen ki a külvárosba, hogy felfedezze Caserta rejtett történelmi rétegeit, az ősi Fornace-tól a Palazzo Leonetti erődített bájáig.\n\nDél: Fedezze fel az egyházi hatalmat a Palazzo dei Vescovi-ban, majd induljon közelebb a központhoz, hogy meglátogassa a békés San Michele Arcangelo katedrálist.\n\nDélután: Tiszteljen meg a Monumento ai Caduti-nál, majd navigáljon a város történelmi sugárútjain, hogy elérje a Palazzo al Boschetto elegáns környékét.\n\nEste: Zárja autós felfedezőútját a park pereménél, visszagondolva arra a napra, amely a vidéki ipari romoktól a nagyszerű arisztokrata építészetig ívelt.",
+        "ro": "Dimineața: Conduceți la periferie pentru a descoperi straturile istorice ascunse, începând cu vechea Fornace și farmecul fortificat al Palazzo Leonetti.\n\nPrânz: Descoperiți puterea ecleziastică la Palazzo dei Vescovi, apoi mergeți mai aproape de centru pentru a vizita Catedrala senină San Michele Arcangelo.\n\nDupă-amiază: Prezentați-vă omagiile la Monumento ai Caduti, navigând pe bulevardele istorice pentru a ajunge în împrejurimile elegante ale Palazzo al Boschetto.\n\nSeara: Încheiați explorarea la marginile parcului, reflectând asupra unei zile care a cuprins de la ruine industriale rurale la o grandioasă arhitectură aristocratică.",
+        "en": "Morning: Drive to the outskirts to uncover Caserta's hidden historical layers, starting with the ancient Fornace and the fortified charm of Palazzo Leonetti.\n\nMidday: Discover the ecclesiastical power at Palazzo dei Vescovi, then head closer to the center to visit the serene Cathedral of San Michele Arcangelo.\n\nAfternoon: Pay your respects at the Monumento ai Caduti, navigating the city’s historic avenues to reach the elegant surroundings of Palazzo al Boschetto.\n\nEvening: Wrap up your driven exploration near the park edges, reflecting on a day that spanned from rural industrial ruins to grand aristocratic architecture."
+      }
+    }
+  }
+}

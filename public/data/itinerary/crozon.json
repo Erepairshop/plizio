@@ -1,0 +1,405 @@
+{
+  "city_id": "crozon",
+  "anchor": {
+    "name": "Crozon",
+    "coords": [
+      -4.4889,
+      48.2453
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:06",
+      "total_km": 3.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Pierre",
+            "hu": "Saint-Pierre Templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            -4.489599,
+            48.246655
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den außergewöhnlichen Altaraufsatz der Zehntausend Märtyrer und besuchen Sie die Kirche früh, um den Menschenmassen zu entgehen.",
+            "hu": "Csodálja meg a Tízezer Vértanú különleges oltárképét, és látogassa meg a templomot kora reggel a tömeg elkerülése végett.",
+            "ro": "Admirați altarul extraordinar al Celor Zece Mii de Martiri și vizitați biserica dimineața devreme pentru a evita aglomerația.",
+            "en": "Marvel at the extraordinary altarpiece of the Ten Thousand Martyrs, and visit the church early in the day to beat the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Porzic",
+            "hu": "Plage du Porzic",
+            "ro": "Plage du Porzic",
+            "en": "Plage du Porzic"
+          },
+          "coords": [
+            -4.489969,
+            48.235784
+          ],
+          "category": "recreational",
+          "arrive_at": "10:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre dieses versteckten Strandes, bringen Sie jedoch eigene Snacks mit, da es keine Kioske gibt.",
+            "hu": "Élvezze e rejtett strand nyugodt légkörét, de hozzon magával saját rágcsálnivalót, mivel nincsenek büfék a közelben.",
+            "ro": "Bucurați-vă de atmosfera liniștită a acestei plaje ascunse, dar aduceți propriile gustări deoarece nu există chioșcuri.",
+            "en": "Enjoy the quiet atmosphere of this hidden beach, but make sure to bring your own snacks as there are no kiosks nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Morgat",
+            "hu": "Morgat Strand",
+            "ro": "Plaja Morgat",
+            "en": "Morgat Beach"
+          },
+          "coords": [
+            -4.498607,
+            48.233044
+          ],
+          "category": "recreational",
+          "arrive_at": "11:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der belebten Promenade von Morgat und nutzen Sie die Ebbe, um die weitläufige Sandfläche zu erkunden.",
+            "hu": "Sétáljon végig Morgat nyüzsgő sétányán, és használja ki az apályt a hatalmas homokos terület felfedezésére.",
+            "ro": "Plimbați-vă pe promenada plină de viață din Morgat și profitați de reflux pentru a explora imensa întindere de nisip.",
+            "en": "Stroll along the lively promenade of Morgat and take advantage of the low tide to explore the vast expanse of sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Traezh Morgad",
+            "hu": "Traezh Morgad",
+            "ro": "Traezh Morgad",
+            "en": "Traezh Morgad"
+          },
+          "coords": [
+            -4.50228,
+            48.228615
+          ],
+          "category": "recreational",
+          "arrive_at": "12:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie in dieser geschützten Bucht mit kristallklarem Wasser, perfekt für ein kurzes, erfrischendes Bad am Nachmittag.",
+            "hu": "Pihenjen ebben a védett öbölben a kristálytiszta víznél, amely tökéletes egy rövid, frissítő délutáni úszáshoz.",
+            "ro": "Relaxați-vă în acest golf protejat cu ape cristaline, perfect pentru o baie scurtă și revigorantă de după-amiază.",
+            "en": "Relax in this sheltered bay with crystal-clear waters, making it the perfect spot for a short, refreshing afternoon swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Meereshöhlen von Morgat",
+            "hu": "Morgat Tengeri Barlangjai",
+            "ro": "Peșterile Marine din Morgat",
+            "en": "Morgat Sea Caves"
+          },
+          "coords": [
+            -4.499671,
+            48.224529
+          ],
+          "category": "natural",
+          "arrive_at": "14:21",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die farbenprächtigen Grotten am besten bei Ebbe zu Fuß oder buchen Sie vorab eine geführte Bootstour.",
+            "hu": "A színes barlangokat apálykor érdemes gyalog felfedezni, vagy foglaljon előre vezetett hajótúrát a legjobb élményért.",
+            "ro": "Explorați peșterile colorate cel mai bine pe jos la reflux sau rezervați din timp un tur ghidat cu barca.",
+            "en": "Explore the vividly colored sea caves best on foot during low tide, or book a guided boat tour well in advance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein Spaziergang durch Crozon und Morgat verbindet bretonisches Kulturerbe mit malerischen Küsten. Der Vormittag beginnt an der Kirche und führt zum friedlichen Plage du Porzic. Mittags entspannen Sie am Hauptstrand von Morgat. Der Nachmittag lädt zur Erkundung der Bucht Traezh Morgad ein. Zum Abschluss bewundern Sie die faszinierenden Meereshöhlen in der goldenen Abendsonne.",
+        "hu": "A Crozon és Morgat közötti séta a breton örökséget és a festői partokat ötvözi. A délelőtt a templomnál indul, majd a békés Plage du Porzic felé vezet. Délben a fő strandon pihenhet meg Morgatban. Délután a Traezh Morgad öböl felfedezése várja. Végül az esti napfényben megcsodálhatja a lenyűgöző tengeri barlangokat, melyek felejthetetlen élményt nyújtanak.",
+        "ro": "O plimbare prin Crozon și Morgat combină moștenirea bretonă cu coastele pitorești. Dimineața începe la biserică, îndreptându-se spre liniștita Plage du Porzic. La prânz, vă puteți relaxa pe plaja principală din Morgat. După-amiaza invită la explorarea golfului Traezh Morgad. În final, admirați fascinantele peșteri marine sub lumina aurie a soarelui de seară.",
+        "en": "A stroll through Crozon and Morgat blends Breton heritage with picturesque coasts. The morning starts at the church, leading to the peaceful Plage du Porzic. At midday, relax on the main beach in Morgat. The afternoon invites exploration of the Traezh Morgad bay. Finally, marvel at the fascinating sea caves bathed in the golden evening sunlight."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:58",
+      "total_km": 18.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Pierre",
+            "hu": "Saint-Pierre Templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            -4.489599,
+            48.246655
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den außergewöhnlichen Altaraufsatz der Zehntausend Märtyrer und besuchen Sie die Kirche früh, um den Menschenmassen zu entgehen.",
+            "hu": "Csodálja meg a Tízezer Vértanú különleges oltárképét, és látogassa meg a templomot kora reggel a tömeg elkerülése végett.",
+            "ro": "Admirați altarul extraordinar al Celor Zece Mii de Martiri și vizitați biserica dimineața devreme pentru a evita aglomerația.",
+            "en": "Marvel at the extraordinary altarpiece of the Ten Thousand Martyrs, and visit the church early in the day to beat the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de l'Aber",
+            "hu": "Plage de l'Aber",
+            "ro": "Plage de l'Aber",
+            "en": "Plage de l'Aber"
+          },
+          "coords": [
+            -4.439595,
+            48.232705
+          ],
+          "category": "recreational",
+          "arrive_at": "10:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.9,
+          "tip_5lang": {
+            "de": "Radeln Sie zur Mündung des Flusses Aber, ein Paradies für Vogelbeobachter, und packen Sie unbedingt ein Fernglas ein.",
+            "hu": "Tekerjen el az Aber folyó torkolatához, amely a madármegfigyelők paradicsoma, és mindenképpen vigyen magával távcsövet.",
+            "ro": "Pedalați până la gura râului Aber, un paradis pentru ornitologi, și asigurați-vă că împachetați un binoclu.",
+            "en": "Cycle to the mouth of the Aber river, a paradise for birdwatchers, and make sure to pack a good pair of binoculars."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Postolonnec",
+            "hu": "Plage de Postolonnec",
+            "ro": "Plage de Postolonnec",
+            "en": "Plage de Postolonnec"
+          },
+          "coords": [
+            -4.464663,
+            48.238435
+          ],
+          "category": "recreational",
+          "arrive_at": "11:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Dieser familienfreundliche Strand fällt flach ins Wasser ab, ideal für eine entspannte Pause, bevor Sie steilere Hügel in Angriff nehmen.",
+            "hu": "Ez a családbarát strand lassan mélyül, ideális egy pihentető szünethez, mielőtt meredekebb dombokat mászna meg.",
+            "ro": "Această plajă pentru familii are o pantă lină, ideală pentru o pauză relaxantă înainte de a aborda dealuri mai abrupte.",
+            "en": "This family-friendly beach slopes gently into the water, ideal for a relaxing break before you tackle any steeper hills."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Morgat",
+            "hu": "Morgat Strand",
+            "ro": "Plaja Morgat",
+            "en": "Morgat Beach"
+          },
+          "coords": [
+            -4.498607,
+            48.233044
+          ],
+          "category": "recreational",
+          "arrive_at": "13:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der belebten Promenade von Morgat und nutzen Sie die Ebbe, um die weitläufige Sandfläche zu erkunden.",
+            "hu": "Sétáljon végig Morgat nyüzsgő sétányán, és használja ki az apályt a hatalmas homokos terület felfedezésére.",
+            "ro": "Plimbați-vă pe promenada plină de viață din Morgat și profitați de reflux pentru a explora imensa întindere de nisip.",
+            "en": "Stroll along the lively promenade of Morgat and take advantage of the low tide to explore the vast expanse of sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Pointe de Pen-Hir",
+            "hu": "Pointe de Pen-Hir",
+            "ro": "Pointe de Pen-Hir",
+            "en": "Pointe de Pen-Hir"
+          },
+          "coords": [
+            -4.623603,
+            48.250897
+          ],
+          "category": "natural",
+          "arrive_at": "15:13",
+          "stay_min": 105,
+          "hop_from_prev_min": 52,
+          "hop_from_prev_km": 9.5,
+          "tip_5lang": {
+            "de": "Erleben Sie die monumentalen Felsformationen Tas de Pois und tragen Sie eine windfeste Jacke, da die Klippen sehr ungeschützt sind.",
+            "hu": "Csodálja meg a monumentális Tas de Pois sziklaalakzatokat, és viseljen szélálló kabátot, mert a sziklák nagyon szelesek.",
+            "ro": "Experimentați formațiunile monumentale de rocă Tas de Pois și purtați o jachetă rezistentă la vânt, deoarece stâncile sunt expuse.",
+            "en": "Experience the monumental Tas de Pois rock formations, and be sure to wear a windproof jacket as the cliffs are highly exposed."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erleben Sie die Vielfalt der Halbinsel auf sportliche Weise. Der Tag startet im Zentrum und führt schnell zum östlichen Plage de l'Aber. Mittags genießen Sie die Ruhe am Postolonnec und stärken sich in Morgat. Am Nachmittag radeln Sie quer über die Halbinsel zur wilden Atlantikküste. Der Abend belohnt Sie mit den dramatischen Klippen der Pointe de Pen-Hir.",
+        "hu": "Kerékpárral sportosan fedezheti fel a félsziget sokszínűségét. A nap a központban indul, majd a keleti Plage de l'Aber felé veszi az irányt. Délben élvezze a Postolonnec nyugalmát és frissüljön fel Morgatban. Délután a vad Atlanti-óceán partjára tekerhet át a félszigeten. Az este a Pointe de Pen-Hir drámai szikláinak látványával jutalmazza meg.",
+        "ro": "Cu bicicleta experimentați diversitatea peninsulei într-un mod sportiv. Ziua începe în centru și duce rapid la Plage de l'Aber în est. La prânz vă bucurați de liniște la Postolonnec și vă revigorați în Morgat. După-amiaza pedalați peste peninsulă spre coasta sălbatică a Atlanticului. Seara vă răsplătește cu stâncile dramatice de la Pointe de Pen-Hir.",
+        "en": "Cycling offers a sporty way to experience the peninsula's diverse landscapes. The day starts in the center, heading quickly to the eastern Plage de l'Aber. At midday, enjoy the tranquility at Postolonnec and recharge in Morgat. In the afternoon, pedal across the peninsula to the wild Atlantic coast. The evening rewards you with the dramatic cliffs of Pointe de Pen-Hir."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:57",
+      "total_km": 31.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Pierre",
+            "hu": "Saint-Pierre Templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            -4.489599,
+            48.246655
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den außergewöhnlichen Altaraufsatz der Zehntausend Märtyrer und besuchen Sie die Kirche früh, um den Menschenmassen zu entgehen.",
+            "hu": "Csodálja meg a Tízezer Vértanú különleges oltárképét, és látogassa meg a templomot kora reggel a tömeg elkerülése végett.",
+            "ro": "Admirați altarul extraordinar al Celor Zece Mii de Martiri și vizitați biserica dimineața devreme pentru a evita aglomerația.",
+            "en": "Marvel at the extraordinary altarpiece of the Ten Thousand Martyrs, and visit the church early in the day to beat the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort des Capucins",
+            "hu": "Fort des Capucins",
+            "ro": "Fort des Capucins",
+            "en": "Fort des Capucins"
+          },
+          "coords": [
+            -4.582726,
+            48.319066
+          ],
+          "category": "fortress",
+          "arrive_at": "10:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 10.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese beeindruckende, auf einer kleinen Insel erbaute Festung, aber tragen Sie feste Schuhe für den felsigen Abstieg.",
+            "hu": "Fedezze fel ezt a lenyűgöző, kis szigetre épült erődöt, de viseljen erős cipőt a sziklás ereszkedéshez a romokhoz.",
+            "ro": "Descoperiți această fortăreață impresionantă construită pe o mică insulă, dar purtați pantofi rezistenți pentru coborârea stâncoasă.",
+            "en": "Discover this impressive fortress built on a small islet, but ensure you wear sturdy shoes for the rocky descent to the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Pointe de Pen-Hir",
+            "hu": "Pointe de Pen-Hir",
+            "ro": "Pointe de Pen-Hir",
+            "en": "Pointe de Pen-Hir"
+          },
+          "coords": [
+            -4.623603,
+            48.250897
+          ],
+          "category": "natural",
+          "arrive_at": "11:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 8.1,
+          "tip_5lang": {
+            "de": "Erleben Sie die monumentalen Felsformationen Tas de Pois und tragen Sie eine windfeste Jacke, da die Klippen sehr ungeschützt sind.",
+            "hu": "Csodálja meg a monumentális Tas de Pois sziklaalakzatokat, és viseljen szélálló kabátot, mert a sziklák nagyon szelesek.",
+            "ro": "Experimentați formațiunile monumentale de rocă Tas de Pois și purtați o jachetă rezistentă la vânt, deoarece stâncile sunt expuse.",
+            "en": "Experience the monumental Tas de Pois rock formations, and be sure to wear a windproof jacket as the cliffs are highly exposed."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus der Mineralien",
+            "hu": "Ásványok Háza",
+            "ro": "Casa Mineralelor",
+            "en": "Maison des Minéraux"
+          },
+          "coords": [
+            -4.530321,
+            48.204039
+          ],
+          "category": "cultural",
+          "arrive_at": "13:23",
+          "stay_min": 100,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 8.7,
+          "tip_5lang": {
+            "de": "Erfahren Sie alles über die faszinierende Geologie der Bretagne und prüfen Sie vor dem Besuch online die aktuellen Öffnungszeiten.",
+            "hu": "Tudjon meg mindent Bretagne lenyűgöző geológiájáról, és látogatás előtt ellenőrizze az aktuális nyitvatartási időt az interneten.",
+            "ro": "Aflați totul despre geologia fascinantă a Bretaniei și verificați online programul actual de funcționare înainte de vizită.",
+            "en": "Learn all about the fascinating geology of Brittany, and check the current opening hours online before planning your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Cap de la Chèvre",
+            "hu": "Cap de la Chèvre",
+            "ro": "Cap de la Chèvre",
+            "en": "Cap de la Chèvre"
+          },
+          "coords": [
+            -4.558522,
+            48.1701
+          ],
+          "category": "natural",
+          "arrive_at": "15:12",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die Heidelandschaft mit Panoramablick auf die Bucht von Douarnenez, bleiben Sie jedoch immer auf den markierten Wegen.",
+            "hu": "Sétáljon a hangásokon át a Douarnenez-öbölre nyíló panorámás kilátásért, de mindig maradjon a kijelölt ösvényeken a biztonság érdekében.",
+            "ro": "Plimbați-vă prin peisajul cu bruyère oferind vederi panoramice spre golful Douarnenez, dar rămâneți mereu pe traseele marcate.",
+            "en": "Walk through the heather landscape with panoramic views of the Bay of Douarnenez, but always stick to the marked trails for safety."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine Rundfahrt bietet die perfekten Kontraste der wilden Crozon-Halbinsel. Vom Zentrum geht es morgens zur historischen Festungsanlage Fort des Capucins. Mittags stehen Sie am Rand der schwindelerregenden Klippen der Pointe de Pen-Hir. Der Nachmittag ist für die geologischen Wunder im Maison des Minéraux reserviert. Zum Sonnenuntergang bietet das Cap de la Chèvre atemberaubende Ausblicke.",
+        "hu": "Egy autós túra tökéletes kontrasztokat kínál a vad Crozon-félszigeten. A központból reggel a történelmi Fort des Capucins erődítményhez hajtunk. Délben a Pointe de Pen-Hir szédítő szikláinak szélén állhat. A délután a Maison des Minéraux geológiai csodáinak van fenntartva. Naplementekor a Cap de la Chèvre lélegzetelállító kilátást nyújt a tengerre.",
+        "ro": "Un tur cu mașina oferă contrastele perfecte ale sălbaticei peninsule Crozon. Din centru plecați dimineața spre istorica Fort des Capucins. La prânz stați pe marginea stâncilor amețitoare de la Pointe de Pen-Hir. După-amiaza este rezervată minunilor geologice de la Maison des Minéraux. La apus, Cap de la Chèvre oferă o panoramă uluitoare.",
+        "en": "A road trip perfectly highlights the wild contrasts of the Crozon peninsula. From the center, head morning to the historic Fort des Capucins. At midday, stand on the edge of the dizzying cliffs of Pointe de Pen-Hir. The afternoon is reserved for the geological wonders at the Maison des Minéraux. At sunset, Cap de la Chèvre offers breathtaking ocean vistas."
+      }
+    }
+  }
+}

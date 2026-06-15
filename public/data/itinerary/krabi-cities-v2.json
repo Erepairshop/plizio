@@ -1,0 +1,474 @@
+{
+  "city_id": "krabi-cities-v2",
+  "anchor": {
+    "name": "Krabi",
+    "coords": [
+      98.906,
+      8.075
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:00",
+      "total_km": 1.35,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Andaman Kunstmuseum",
+            "hu": "Andamán Művészeti Múzeum",
+            "ro": "Muzeul de Artă Andaman",
+            "en": "Andaman Art Museum"
+          },
+          "coords": [
+            98.913867,
+            8.070762
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie zeitgenössische thailändische Kunst, die Krabis Erbe widerspiegelt, ideal als kühler Rückzugsort an einem heißen Nachmittag.",
+            "hu": "Fedezze fel a Krabi örökségét tükröző kortárs thai művészetet, amely tökéletes beltéri menedék egy forró trópusi délutánon.",
+            "ro": "Explorați arta contemporană thailandeză ce reflectă patrimoniul din Krabi, ideală pentru un refugiu răcoros într-o după-amiază fierbinte.",
+            "en": "Explore contemporary Thai art reflecting Krabi's culture and heritage, making it a perfect indoor retreat on a hot afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Smilodon-Kreuzung",
+            "hu": "Smilodon Kereszteződés",
+            "ro": "Intersecția Smilodon",
+            "en": "Smilodon Intersection"
+          },
+          "coords": [
+            98.914737,
+            8.066991
+          ],
+          "category": "landmark",
+          "arrive_at": "10:56",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prähistorischen Säbelzahnkatzenstatuen auf dieser Verkehrsinsel, die den skurrilen Sinn der Region für bürgerliche Kunst zeigen.",
+            "hu": "Csodálja meg a kardfogú tigriseket ábrázoló szobrokat a forgalomszigeten, amelyek a régió sajátos, játékos köztéri művészetét képviselik.",
+            "ro": "Admirați statuile preistorice de smilodon de pe insula de trafic, care evidențiază simțul excentric al regiunii pentru arta civică.",
+            "en": "Admire the prehistoric saber-toothed cat statues acting as a traffic island, showcasing the region's quirky sense of civic art design."
+          }
+        },
+        {
+          "name": {
+            "de": "Cro-Magnon-Mensch-Kreuzung",
+            "hu": "Cro-magnoni Ember Kereszteződés",
+            "ro": "Intersecția Omului de Cro-Magnon",
+            "en": "Cro-magnon Man Intersection"
+          },
+          "coords": [
+            98.915184,
+            8.064853
+          ],
+          "category": "landmark",
+          "arrive_at": "11:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Betrachten Sie diese einzigartige Ampelskulptur zur menschlichen Evolution, die ein lustiges Fotomotiv beim Überqueren der Straße bietet.",
+            "hu": "Figyelje meg ezt az emberi evolúciót ábrázoló egyedi közlekedési lámpát, amely szórakoztató fotótémát kínál a forgalmas utca átkelésekor.",
+            "ro": "Observați această sculptură unică a semaforului ce descrie evoluția umană, oferind o ocazie foto amuzantă când traversați strada aglomerată.",
+            "en": "Observe this unique traffic light sculpture depicting human evolution, offering a fun, quick photo opportunity while crossing the busy street."
+          }
+        },
+        {
+          "name": {
+            "de": "Krabi Fußgängerzone",
+            "hu": "Krabi Sétálóutca",
+            "ro": "Strada Pietonală Krabi",
+            "en": "Krabi Walking Street"
+          },
+          "coords": [
+            98.916398,
+            8.06416
+          ],
+          "category": "landmark",
+          "arrive_at": "11:52",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Probieren Sie lokales Streetfood und stöbern Sie nach Kunsthandwerk auf diesem Markt, wo frühes Erscheinen die besten Tische sichert.",
+            "hu": "Kóstolja meg a helyi ételeket ezen az éjszakai piacon, ahová érdemes korán érkezni, hogy elkerülje a tömeget és jó asztalt találjon.",
+            "ro": "Gustați mâncarea stradală locală la această piață vibrantă, dar ajungeți devreme pentru a evita aglomerația și a prinde o masă bună.",
+            "en": "Taste local street food and browse unique crafts at this vibrant evening market, so arrive early to beat the crowds and find a good table."
+          }
+        },
+        {
+          "name": {
+            "de": "Schrein der Stadtsäule",
+            "hu": "Városi Oszlop Szentély",
+            "ro": "Altarul Stâlpului Orașului",
+            "en": "City Pillar Shrine"
+          },
+          "coords": [
+            98.918013,
+            8.05961
+          ],
+          "category": "religious",
+          "arrive_at": "12:50",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.53,
+          "tip_5lang": {
+            "de": "Erleben Sie lokale spirituelle Traditionen an diesem reich verzierten weißen Schrein, wo man sich bescheiden kleidet und die Schuhe auszieht.",
+            "hu": "Tapasztalja meg a helyi spirituális hagyományokat ennél a díszes fehér szentélynél, emlékezve a szerény öltözködésre és a cipő levételére.",
+            "ro": "Experimentați tradițiile spirituale la acest altar alb frumos ornamentat, amintindu-vă să vă îmbrăcați modest și să vă descălțați la intrare.",
+            "en": "Experience local spiritual traditions at this beautifully ornate white shrine, remembering to dress modestly and remove shoes before entering."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem tiefen Einblick in die lokale Kreativität im Andaman Kunstmuseum, einer inspirierenden Einführung in Krabis Szene.\n\nSchlendern Sie an den skurrilen Kreuzungen mit Smilodon- und Cro-Magnon-Statuen vorbei, die dem geschäftigen Stadtzentrum einen verspielten Charme verleihen.\n\nErkunden Sie die belebte Fußgängerzone von Krabi, wo Sie lokales Kunsthandwerk durchstöbern und die lebhafte Atmosphäre am späten Nachmittag genießen können.\n\nBeenden Sie Ihren Spaziergang am majestätischen Schrein der Stadtsäule, einem friedlichen Ort, um den Tag beim Sonnenuntergang Revue passieren zu lassen.",
+        "hu": "Kezdje a napot a helyi kreativitás felfedezésével az Andamán Művészeti Múzeumban, amely inspiráló bevezetés Krabi vibráló kulturális életébe.\n\nSétáljon el a furcsa közlekedési lámpák mellett, ahol a Smilodon és a Cro-magnoni szobrok egyedi, játékos bájt kölcsönöznek a nyüzsgő központnak.\n\nFedezze fel a nyüzsgő Krabi Sétálóutcát, ahol helyi kézműves termékeket böngészhet, és elmerülhet a késő délutáni élénk atmoszférában.\n\nZárja sétáját a fenséges Városi Oszlop Szentélynél, amely békés és elegáns hely a nap eseményeinek átgondolására naplemente idején.",
+        "ro": "Începeți ziua explorând creativitatea locală la Muzeul de Artă Andaman, o introducere inspiratoare în scena culturală vibrantă a orașului Krabi.\n\nPlimbați-vă pe lângă intersecțiile cu statuile Smilodon și Cro-Magnon, care adaugă un farmec unic, jucăuș, centrului plin de viață al orașului.\n\nExplorați Strada Pietonală din Krabi, unde puteți admira meșteșugurile locale și vă puteți bucura de atmosfera plină de viață a după-amiezii.\n\nÎncheiați plimbarea la maiestuosul Altar al Stâlpului Orașului, un loc elegant și liniștit pentru a reflecta asupra zilei în timp ce soarele apune.",
+        "en": "Start your day with a deep dive into local creativity at the Andaman Art Museum, an inspiring introduction to Krabi's vibrant cultural scene.\n\nStroll past the quirky traffic intersections featuring Smilodon and Cro-magnon statues, which add a unique, playful charm to the bustling city center.\n\nExplore the bustling Krabi Walking Street, where you can browse local handicrafts and soak in the lively atmosphere of the late afternoon.\n\nConclude your walk at the majestic City Pillar Shrine, an elegant and peaceful spot to reflect on the day as the sun sets over the town."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:57",
+      "total_km": 3.01,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Khao Khanap Nam Höhle",
+            "hu": "Khao Khanap Nam Barlang",
+            "ro": "Peștera Khao Khanap Nam",
+            "en": "Khao Khanap Nam Cave"
+          },
+          "coords": [
+            98.921093,
+            8.078329
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie alte Tropfsteine in diesen ikonischen Zwillingsbergen, die Sie am besten mit einem Longtail-Boot vom Pier aus erreichen.",
+            "hu": "Fedezze fel az ősi cseppköveket ezen az ikonikus ikerhegyen, amelyet a mólótól induló bérelt hosszúfarkú hajóval a legjobb megközelíteni.",
+            "ro": "Descoperiți stalactite străvechi în acești munți gemeni iconici, cel mai bine vizitați închiriind o barcă tradițională de la debarcader.",
+            "en": "Discover ancient stalactites and prehistoric human traces in these iconic twin mountains, best visited by hiring a longtail boat from the pier."
+          }
+        },
+        {
+          "name": {
+            "de": "Mangroven-Holzsteg",
+            "hu": "Mangrove Sétány",
+            "ro": "Promenada Mangrovelor",
+            "en": "Mangrove Boardwalk"
+          },
+          "coords": [
+            98.918743,
+            8.07676
+          ],
+          "category": "landmark",
+          "arrive_at": "10:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.31,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch üppige Küstenwälder voller Krabben und Affen, aber denken Sie daran, vorher ein gutes Insektenschutzmittel aufzutragen.",
+            "hu": "Sétáljon a rákoktól és majmoktól nyüzsgő buja partmenti erdőkben, de indulás előtt mindenképpen használjon erős rovarriasztó szert.",
+            "ro": "Plimbați-vă prin pădurile de coastă pline de crabi și maimuțe, dar asigurați-vă că aplicați repelent de insecte înainte de a începe traseul.",
+            "en": "Walk through lush coastal forests teeming with fiddler crabs and monkeys, but make sure to apply insect repellent before starting the trail."
+          }
+        },
+        {
+          "name": {
+            "de": "Andaman Kunstmuseum",
+            "hu": "Andamán Művészeti Múzeum",
+            "ro": "Muzeul de Artă Andaman",
+            "en": "Andaman Art Museum"
+          },
+          "coords": [
+            98.913867,
+            8.070762
+          ],
+          "category": "museum",
+          "arrive_at": "11:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Entdecken Sie zeitgenössische thailändische Kunst, die Krabis Erbe widerspiegelt, ideal als kühler Rückzugsort an einem heißen Nachmittag.",
+            "hu": "Fedezze fel a Krabi örökségét tükröző kortárs thai művészetet, amely tökéletes beltéri menedék egy forró trópusi délutánon.",
+            "ro": "Explorați arta contemporană thailandeză ce reflectă patrimoniul din Krabi, ideală pentru un refugiu răcoros într-o după-amiază fierbinte.",
+            "en": "Explore contemporary Thai art reflecting Krabi's culture and heritage, making it a perfect indoor retreat on a hot afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Smilodon-Kreuzung",
+            "hu": "Smilodon Kereszteződés",
+            "ro": "Intersecția Smilodon",
+            "en": "Smilodon Intersection"
+          },
+          "coords": [
+            98.914737,
+            8.066991
+          ],
+          "category": "landmark",
+          "arrive_at": "12:59",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prähistorischen Säbelzahnkatzenstatuen auf dieser Verkehrsinsel, die den skurrilen Sinn der Region für bürgerliche Kunst zeigen.",
+            "hu": "Csodálja meg a kardfogú tigriseket ábrázoló szobrokat a forgalomszigeten, amelyek a régió sajátos, játékos köztéri művészetét képviselik.",
+            "ro": "Admirați statuile preistorice de smilodon de pe insula de trafic, care evidențiază simțul excentric al regiunii pentru arta civică.",
+            "en": "Admire the prehistoric saber-toothed cat statues acting as a traffic island, showcasing the region's quirky sense of civic art design."
+          }
+        },
+        {
+          "name": {
+            "de": "Cro-Magnon-Mensch-Kreuzung",
+            "hu": "Cro-magnoni Ember Kereszteződés",
+            "ro": "Intersecția Omului de Cro-Magnon",
+            "en": "Cro-magnon Man Intersection"
+          },
+          "coords": [
+            98.915184,
+            8.064853
+          ],
+          "category": "landmark",
+          "arrive_at": "13:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Betrachten Sie diese einzigartige Ampelskulptur zur menschlichen Evolution, die ein lustiges Fotomotiv beim Überqueren der Straße bietet.",
+            "hu": "Figyelje meg ezt az emberi evolúciót ábrázoló egyedi közlekedési lámpát, amely szórakoztató fotótémát kínál a forgalmas utca átkelésekor.",
+            "ro": "Observați această sculptură unică a semaforului ce descrie evoluția umană, oferind o ocazie foto amuzantă când traversați strada aglomerată.",
+            "en": "Observe this unique traffic light sculpture depicting human evolution, offering a fun, quick photo opportunity while crossing the busy street."
+          }
+        },
+        {
+          "name": {
+            "de": "Schrein der Stadtsäule",
+            "hu": "Városi Oszlop Szentély",
+            "ro": "Altarul Stâlpului Orașului",
+            "en": "City Pillar Shrine"
+          },
+          "coords": [
+            98.918013,
+            8.05961
+          ],
+          "category": "religious",
+          "arrive_at": "13:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Erleben Sie lokale spirituelle Traditionen an diesem reich verzierten weißen Schrein, wo man sich bescheiden kleidet und die Schuhe auszieht.",
+            "hu": "Tapasztalja meg a helyi spirituális hagyományokat ennél a díszes fehér szentélynél, emlékezve a szerény öltözködésre és a cipő levételére.",
+            "ro": "Experimentați tradițiile spirituale la acest altar alb frumos ornamentat, amintindu-vă să vă îmbrăcați modest și să vă descălțați la intrare.",
+            "en": "Experience local spiritual traditions at this beautifully ornate white shrine, remembering to dress modestly and remove shoes before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Krabi Fußgängerzone",
+            "hu": "Krabi Sétálóutca",
+            "ro": "Strada Pietonală Krabi",
+            "en": "Krabi Walking Street"
+          },
+          "coords": [
+            98.916398,
+            8.06416
+          ],
+          "category": "landmark",
+          "arrive_at": "14:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.53,
+          "tip_5lang": {
+            "de": "Probieren Sie lokales Streetfood und stöbern Sie nach Kunsthandwerk auf diesem Markt, wo frühes Erscheinen die besten Tische sichert.",
+            "hu": "Kóstolja meg a helyi ételeket ezen az éjszakai piacon, ahová érdemes korán érkezni, hogy elkerülje a tömeget és jó asztalt találjon.",
+            "ro": "Gustați mâncarea stradală locală la această piață vibrantă, dar ajungeți devreme pentru a evita aglomerația și a prinde o masă bună.",
+            "en": "Taste local street food and browse unique crafts at this vibrant evening market, so arrive early to beat the crowds and find a good table."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour mit der Erkundung der prähistorischen Geheimnisse der Khao Khanap Nam Höhle, gefolgt von einer Fahrt zum Mangroven-Holzsteg.\n\nRadeln Sie in die Innenstadt, um sich im Andaman Kunstmuseum abzukühlen, einem wunderbaren Ort, um lokale zeitgenössische Meisterwerke zu bewundern.\n\nNavigieren Sie durch die Straßen mit den prähistorischen Smilodon- und Cro-Magnon-Ampeln, die Sie zum friedlichen Schrein der Stadtsäule führen.\n\nParken Sie Ihr Fahrrad an der Krabi Fußgängerzone für einen lebhaften Abend mit köstlichem Streetfood und netten Gesprächen unter dem Sternenhimmel.",
+        "hu": "Kezdje a kerékpártúrát a Khao Khanap Nam Barlang történelem előtti titkainak felfedezésével, majd tekerjen el a buja Mangrove Sétányhoz.\n\nTekerjen be a városközpontba, és hűsöljön az Andamán Művészeti Múzeumban, amely csodálatos hely a helyi kortárs remekművek megtekintésére.\n\nNavigáljon a játékos utcákon a prehisztorikus Smilodon és Cro-magnon lámpák mellett, amelyek a békés Városi Oszlop Szentély felé vezetnek.\n\nParkolja le kerékpárját a Krabi Sétálóutcán egy élénk, finom utcai ételekkel és barátságos helyiekkel teli estéért a csillagos ég alatt.",
+        "ro": "Începeți turul cu bicicleta explorând secretele preistorice ale Peșterii Khao Khanap Nam, urmate de o plimbare revigorantă spre Promenada Mangrovelor.\n\nPedalați spre centrul orașului pentru a vă răcori la Muzeul de Artă Andaman, un loc minunat pentru a admira capodoperele contemporane locale.\n\nParcurgeți străzile decorate cu semafoarele preistorice Smilodon și Cro-Magnon, care vă vor conduce spre liniștitul Altar al Stâlpului Orașului.\n\nParcați bicicleta la Strada Pietonală din Krabi pentru o seară vibrantă cu mâncare stradală delicioasă și socializare cu localnicii sub cerul înstelat.",
+        "en": "Kick off your cycling tour by exploring the prehistoric secrets of Khao Khanap Nam Cave, followed by a refreshing ride to the lush Mangrove Boardwalk.\n\nCycle into the city center to cool down at the Andaman Art Museum, a wonderful spot to appreciate local contemporary masterpieces.\n\nNavigate the playful streets adorned with the prehistoric Smilodon and Cro-magnon traffic lights, leading you toward the serene City Pillar Shrine.\n\nPark your bike at Krabi Walking Street for a vibrant evening of delicious street food and mingling with friendly locals under the night sky."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:25",
+      "total_km": 4.09,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Krabi Glückswindmühle",
+            "hu": "Krabi Szerencsemalom",
+            "ro": "Moara de Vânt din Krabi",
+            "en": "Krabi Lucky Windmill"
+          },
+          "coords": [
+            98.908498,
+            8.048457
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Machen Sie malerische Fotos an diesem skurrilen Wahrzeichen der Küste, das man am besten morgens für das klarste Licht besucht.",
+            "hu": "Készítsen festői fotókat ennél a különleges tengerparti nevezetességnél, amelyet reggel érdemes felkeresni a legtisztább fényviszonyokért.",
+            "ro": "Faceți fotografii pitorești la acest reper de coastă inedit, pe care este cel mai bine să-l vizitați dimineața pentru cea mai clară lumină.",
+            "en": "Snap scenic photos at this quirky coastal landmark representing Krabi's natural breeze, best visited in the morning for the clearest lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Schrein der Stadtsäule",
+            "hu": "Városi Oszlop Szentély",
+            "ro": "Altarul Stâlpului Orașului",
+            "en": "City Pillar Shrine"
+          },
+          "coords": [
+            98.918013,
+            8.05961
+          ],
+          "category": "religious",
+          "arrive_at": "09:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.62,
+          "tip_5lang": {
+            "de": "Erleben Sie lokale spirituelle Traditionen an diesem reich verzierten weißen Schrein, wo man sich bescheiden kleidet und die Schuhe auszieht.",
+            "hu": "Tapasztalja meg a helyi spirituális hagyományokat ennél a díszes fehér szentélynél, emlékezve a szerény öltözködésre és a cipő levételére.",
+            "ro": "Experimentați tradițiile spirituale la acest altar alb frumos ornamentat, amintindu-vă să vă îmbrăcați modest și să vă descălțați la intrare.",
+            "en": "Experience local spiritual traditions at this beautifully ornate white shrine, remembering to dress modestly and remove shoes before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Krabi Fußgängerzone",
+            "hu": "Krabi Sétálóutca",
+            "ro": "Strada Pietonală Krabi",
+            "en": "Krabi Walking Street"
+          },
+          "coords": [
+            98.916398,
+            8.06416
+          ],
+          "category": "landmark",
+          "arrive_at": "10:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.53,
+          "tip_5lang": {
+            "de": "Probieren Sie lokales Streetfood und stöbern Sie nach Kunsthandwerk auf diesem Markt, wo frühes Erscheinen die besten Tische sichert.",
+            "hu": "Kóstolja meg a helyi ételeket ezen az éjszakai piacon, ahová érdemes korán érkezni, hogy elkerülje a tömeget és jó asztalt találjon.",
+            "ro": "Gustați mâncarea stradală locală la această piață vibrantă, dar ajungeți devreme pentru a evita aglomerația și a prinde o masă bună.",
+            "en": "Taste local street food and browse unique crafts at this vibrant evening market, so arrive early to beat the crowds and find a good table."
+          }
+        },
+        {
+          "name": {
+            "de": "Andaman Kunstmuseum",
+            "hu": "Andamán Művészeti Múzeum",
+            "ro": "Muzeul de Artă Andaman",
+            "en": "Andaman Art Museum"
+          },
+          "coords": [
+            98.913867,
+            8.070762
+          ],
+          "category": "museum",
+          "arrive_at": "11:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.78,
+          "tip_5lang": {
+            "de": "Entdecken Sie zeitgenössische thailändische Kunst, die Krabis Erbe widerspiegelt, ideal als kühler Rückzugsort an einem heißen Nachmittag.",
+            "hu": "Fedezze fel a Krabi örökségét tükröző kortárs thai művészetet, amely tökéletes beltéri menedék egy forró trópusi délutánon.",
+            "ro": "Explorați arta contemporană thailandeză ce reflectă patrimoniul din Krabi, ideală pentru un refugiu răcoros într-o după-amiază fierbinte.",
+            "en": "Explore contemporary Thai art reflecting Krabi's culture and heritage, making it a perfect indoor retreat on a hot afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Mangroven-Holzsteg",
+            "hu": "Mangrove Sétány",
+            "ro": "Promenada Mangrovelor",
+            "en": "Mangrove Boardwalk"
+          },
+          "coords": [
+            98.918743,
+            8.07676
+          ],
+          "category": "landmark",
+          "arrive_at": "12:54",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch üppige Küstenwälder voller Krabben und Affen, aber denken Sie daran, vorher ein gutes Insektenschutzmittel aufzutragen.",
+            "hu": "Sétáljon a rákoktól és majmoktól nyüzsgő buja partmenti erdőkben, de indulás előtt mindenképpen használjon erős rovarriasztó szert.",
+            "ro": "Plimbați-vă prin pădurile de coastă pline de crabi și maimuțe, dar asigurați-vă că aplicați repelent de insecte înainte de a începe traseul.",
+            "en": "Walk through lush coastal forests teeming with fiddler crabs and monkeys, but make sure to apply insect repellent before starting the trail."
+          }
+        },
+        {
+          "name": {
+            "de": "Khao Khanap Nam Höhle",
+            "hu": "Khao Khanap Nam Barlang",
+            "ro": "Peștera Khao Khanap Nam",
+            "en": "Khao Khanap Nam Cave"
+          },
+          "coords": [
+            98.921093,
+            8.078329
+          ],
+          "category": "landmark",
+          "arrive_at": "13:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.31,
+          "tip_5lang": {
+            "de": "Entdecken Sie alte Tropfsteine in diesen ikonischen Zwillingsbergen, die Sie am besten mit einem Longtail-Boot vom Pier aus erreichen.",
+            "hu": "Fedezze fel az ősi cseppköveket ezen az ikonikus ikerhegyen, amelyet a mólótól induló bérelt hosszúfarkú hajóval a legjobb megközelíteni.",
+            "ro": "Descoperiți stalactite străvechi în acești munți gemeni iconici, cel mai bine vizitați închiriind o barcă tradițională de la debarcader.",
+            "en": "Discover ancient stalactites and prehistoric human traces in these iconic twin mountains, best visited by hiring a longtail boat from the pier."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre malerische Fahrt an der Krabi Glückswindmühle für einen Blick auf die Küste und fahren Sie dann zum Schrein der Stadtsäule.\n\nFahren Sie eine kurze Strecke zur Krabi Fußgängerzone für einen kurzen Tagesblick, gefolgt von einem Besuch im Andaman Kunstmuseum.\n\nFahren Sie etwas nach Norden, um die Ruhe des Mangroven-Holzstegs zu erleben, der einen immersiven Spaziergang durch einzigartige Ökosysteme bietet.\n\nBeenden Sie die Route nahe der Khao Khanap Nam Höhle, wo die ikonischen Karstgipfel eine dramatische Silhouette im Abendlicht bilden.",
+        "hu": "Kezdje a festői autózást a Krabi Szerencsemalomnál a partmenti kilátásért, majd hajtson a városba a díszes Városi Oszlop Szentélyhez.\n\nVezessen a Krabi Sétálóutcához egy gyors nappali bepillantásért, amelyet egy tartalmas látogatás követ az Andamán Művészeti Múzeumban.\n\nMerészkedjen kissé északra, hogy megtapasztalja a Mangrove Sétány nyugalmát, amely magával ragadó sétát kínál az egyedi trópusi ökoszisztémákban.\n\nFejezze be az útvonalat a Khao Khanap Nam Barlang közelében, ahol az ikonikus karsztcsúcsok drámai sziluettet alkotnak az esti szürkületben.",
+        "ro": "Începeți traseul pitoresc la Moara de Vânt din Krabi pentru vedere la coastă, apoi mergeți în oraș pentru a vizita Altarul Stâlpului Orașului.\n\nConduceți o scurtă distanță până la Strada Pietonală din Krabi pentru o privire de zi, urmată de o vizită îmbogățitoare la Muzeul de Artă Andaman.\n\nAventurați-vă ușor spre nord pentru a experimenta liniștea Promenadei Mangrovelor, oferind o plimbare imersivă prin ecosisteme tropicale unice.\n\nTerminați traseul lângă Peștera Khao Khanap Nam, unde vârfurile carstice gemene oferă o siluetă dramatică în amurgul serii.",
+        "en": "Start your scenic drive at the Krabi Lucky Windmill for coastal views, then head directly into town to visit the ornate City Pillar Shrine.\n\nDrive a short distance to Krabi Walking Street for a quick daytime glimpse, followed by an enriching visit to the Andaman Art Museum.\n\nVenture slightly north to experience the tranquility of the Mangrove Boardwalk, offering an immersive walk through unique tropical ecosystems.\n\nFinish the route near Khao Khanap Nam Cave, where the iconic twin karst peaks provide a dramatic silhouette against the evening twilight."
+      }
+    }
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "city_id": "italy-scanno-cities-v2",
+  "anchor": {
+    "name": "Scanno",
+    "coords": [
+      13.87961,
+      41.90442
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:52",
+      "total_km": 0.75,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di Sant'Antonio da Padova",
+            "hu": "Chiesa di Sant'Antonio da Padova",
+            "ro": "Chiesa di Sant'Antonio da Padova",
+            "en": "Chiesa di Sant'Antonio da Padova"
+          },
+          "coords": [
+            13.878589,
+            41.904464
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisiten Fresken in dieser zentral gelegenen Kirche, bevor Sie die umliegenden Gassen frühzeitig erkunden, um den Massen zu entgehen.",
+            "hu": "Csodálja meg a központi fekvésű templom gyönyörű freskóit, mielőtt kora reggel felfedezné a környező sikátorokat, elkerülve a tömeget.",
+            "ro": "Admirați frescele rafinate din această biserică centrală înainte de a explora străduțele din jur dimineața devreme pentru a evita aglomerația.",
+            "en": "Admire the exquisite frescoes within this centrally located church before exploring the surrounding alleys early to beat the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa della Madonna di Costantinopoli",
+            "hu": "Chiesa della Madonna di Costantinopoli",
+            "ro": "Chiesa della Madonna di Costantinopoli",
+            "en": "Chiesa della Madonna di Costantinopoli"
+          },
+          "coords": [
+            13.881134,
+            41.904445
+          ],
+          "category": "religious",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit, um die ruhige Atmosphäre und die historischen Kunstwerke dieser Kirche zu genießen, und tragen Sie beim Betreten angemessene Kleidung.",
+            "hu": "Szánjon egy percet a templom békés hangulatának és történelmi műalkotásainak megtekintésére, ügyelve a szerény öltözködésre a belépéskor.",
+            "ro": "Rezervați-vă un moment pentru a aprecia atmosfera senină și operele de artă istorice ale acestei biserici, purtând haine modeste la intrare.",
+            "en": "Take a moment to appreciate the serene atmosphere and historic artwork of this church, wearing modest clothing for respectful entry."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Di Rienzo",
+            "hu": "Palazzo Di Rienzo",
+            "ro": "Palazzo Di Rienzo",
+            "en": "Palazzo Di Rienzo"
+          },
+          "coords": [
+            13.882158,
+            41.903967
+          ],
+          "category": "castle",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Pracht dieses historischen Palastes bei einem Spaziergang um das imposante Äußere und prüfen Sie die lokalen Zeiten für einen Zugang zum Innenhof.",
+            "hu": "Fedezze fel e történelmi palota nagyszerűségét a lenyűgöző külső körüljárásával, és ellenőrizze a helyi menetrendet az udvar esetleges látogatásához.",
+            "ro": "Descoperiți măreția acestui palat istoric plimbându-vă în jurul exteriorului său impunător, verificând programul local pentru acces ocazional în curte.",
+            "en": "Discover the grandeur of this historic castle-like palace by walking around its imposing exterior, checking local schedules for occasional courtyard access."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santa Maria della Valle",
+            "hu": "Chiesa di Santa Maria della Valle",
+            "ro": "Chiesa di Santa Maria della Valle",
+            "en": "Chiesa di Santa Maria della Valle"
+          },
+          "coords": [
+            13.879921,
+            41.903042
+          ],
+          "category": "religious",
+          "arrive_at": "11:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erkunden Sie die architektonischen Details der Hauptpfarrkirche von Scanno und achten Sie dabei auf das wunderschön geschnitzte hölzerne Chorgestühl.",
+            "hu": "Fedezze fel Scanno fő plébániatemplomának építészeti részleteit, és feltétlenül figyelje meg a gyönyörűen faragott fa kórusüléseket.",
+            "ro": "Explorați detaliile arhitecturale ale bisericii parohiale principale din Scanno, asigurându-vă că observați stranele din lemn frumos sculptate.",
+            "en": "Explore the architectural details of Scanno's main parish church, making sure to notice the beautifully carved wooden choir stalls."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Sant'Antonio Abate",
+            "hu": "Chiesa di Sant'Antonio Abate",
+            "ro": "Chiesa di Sant'Antonio Abate",
+            "en": "Chiesa di Sant'Antonio Abate"
+          },
+          "coords": [
+            13.881733,
+            41.9026
+          ],
+          "category": "religious",
+          "arrive_at": "12:42",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Treten Sie ein in diese reizvolle Kirche, die für ihren rustikalen Charme bekannt ist, und besuchen Sie sie am späten Vormittag, wenn das Licht den Altar beleuchtet.",
+            "hu": "Lépjen be ebbe a rusztikus bájáról ismert hangulatos kisebb templomba, és látogasson el késő délelőtt, amikor a fények gyönyörűen megvilágítják az oltárt.",
+            "ro": "Pășiți în această bisericuță fermecătoare, cunoscută pentru farmecul ei rustic, vizitând-o târziu dimineața, când lumina iluminează frumos altarul.",
+            "en": "Step inside this charming smaller church known for its rustic charm, visiting during late morning when the lighting beautifully illuminates the altar."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen in Scanno enthüllt ein zeitloses Dorf aus Steingassen und beginnt bei den historischen Kirchen, wo das lokale Leben sanft brummt. Am Mittag tauchen Sie tiefer in das architektonische Herz ein und bestaunen noble Paläste. Nachmittagsspaziergänge rücken kleinere Pfarrkirchen mit ihrer exquisiten religiösen Kunst in den Mittelpunkt. Der Abend lädt zu einem sanften Abschied inmitten des rustikalen Charmes ein.",
+        "hu": "Scanno reggele egy időtlen, kőből épült sikátorokból álló falut tár elénk, a történelmi templomok között, ahol lágyan zsong a helyi élet. A dél hidegében mélyebbre merülhet az építészeti központban, megcsodálva a nemesi palotákat. A délutáni séták során a kisebb kerületi plébániák felé fordul a figyelem, amelyek gyönyörű vallási művészetet mutatnak be. Az este kellemes búcsúra hív a város rusztikus varázsával.",
+        "ro": "Dimineața în Scanno dezvăluie un sat atemporal de străduțe pietruite, începând printre bisericile istorice unde viața locală pulsează încet. La prânz, pătrundeți mai adânc în inima arhitecturală, minunându-vă de palatele nobile. Plimbările de după-amiază se concentrează pe parohiile mai mici de cartier, prezentând artă religioasă rafinată. Seara vă invită la un bun rămas blând în farmecul rustic primitor.",
+        "en": "Morning in Scanno reveals a timeless village of stone alleys, beginning among the historic churches where local life hums softly. Midday brings you deeper into the architectural heart, marveling at noble palaces and ancient portals. Afternoon strolls shift focus to smaller neighborhood parishes, showcasing exquisite religious art. The evening invites a gentle farewell amid the town's welcoming rustic charm."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "13:55",
+      "total_km": 2.25,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Palazzo Di Rienzo",
+            "hu": "Palazzo Di Rienzo",
+            "ro": "Palazzo Di Rienzo",
+            "en": "Palazzo Di Rienzo"
+          },
+          "coords": [
+            13.882158,
+            41.903967
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Pracht dieses historischen Palastes bei einem Spaziergang um das imposante Äußere und prüfen Sie die lokalen Zeiten für einen Zugang zum Innenhof.",
+            "hu": "Fedezze fel e történelmi palota nagyszerűségét a lenyűgöző külső körüljárásával, és ellenőrizze a helyi menetrendet az udvar esetleges látogatásához.",
+            "ro": "Descoperiți măreția acestui palat istoric plimbându-vă în jurul exteriorului său impunător, verificând programul local pentru acces ocazional în curte.",
+            "en": "Discover the grandeur of this historic castle-like palace by walking around its imposing exterior, checking local schedules for occasional courtyard access."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santa Maria della Valle",
+            "hu": "Chiesa di Santa Maria della Valle",
+            "ro": "Chiesa di Santa Maria della Valle",
+            "en": "Chiesa di Santa Maria della Valle"
+          },
+          "coords": [
+            13.879921,
+            41.903042
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erkunden Sie die architektonischen Details der Hauptpfarrkirche von Scanno und achten Sie dabei auf das wunderschön geschnitzte hölzerne Chorgestühl.",
+            "hu": "Fedezze fel Scanno fő plébániatemplomának építészeti részleteit, és feltétlenül figyelje meg a gyönyörűen faragott fa kórusüléseket.",
+            "ro": "Explorați detaliile arhitecturale ale bisericii parohiale principale din Scanno, asigurându-vă că observați stranele din lemn frumos sculptate.",
+            "en": "Explore the architectural details of Scanno's main parish church, making sure to notice the beautifully carved wooden choir stalls."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Michele Arcangelo",
+            "hu": "Chiesa di San Michele Arcangelo",
+            "ro": "Chiesa di San Michele Arcangelo",
+            "en": "Chiesa di San Michele Arcangelo"
+          },
+          "coords": [
+            13.875713,
+            41.909269
+          ],
+          "category": "religious",
+          "arrive_at": "11:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre und die traditionellen Steinarbeiten dieser Vorstadtkirche, die einen idealen Ausgangspunkt für eine Fahrt zum See bietet.",
+            "hu": "Élvezze a külvárosi templom békés hangulatát és hagyományos kőfaragásait, amely nagyszerű kiindulópont egy tó felé vezető kerékpározáshoz.",
+            "ro": "Bucurați-vă de ambianța liniștită și de zidăria tradițională a acestei biserici suburbane, care oferă un punct de plecare excelent pentru o cursă spre lac.",
+            "en": "Enjoy the peaceful ambiance and traditional stonework of this suburban church, which offers a great starting point for a ride towards the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Eremo di Sant'Egidio",
+            "hu": "Eremo di Sant'Egidio",
+            "ro": "Eremo di Sant'Egidio",
+            "en": "Eremo di Sant'Egidio"
+          },
+          "coords": [
+            13.874397,
+            41.912376
+          ],
+          "category": "religious",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Wandern Sie zu dieser abgelegenen Einsiedelei hinauf, um einen atemberaubenden Panoramablick auf den See zu genießen, und tragen Sie festes Schuhwerk für den unebenen Weg.",
+            "hu": "Túrázzon fel ehhez az eldugott remetelakhoz, ahonnan lélegzetelállító panoráma nyílik a Scanno-tóra, és viseljen masszív cipőt az egyenetlen ösvényhez.",
+            "ro": "Urcați la acest schit izolat pentru a avea vederi panoramice uluitoare asupra lacului, purtând încălțăminte rezistentă pentru poteca denivelată.",
+            "en": "Hike up to this secluded hermitage for breathtaking panoramic views of Lake Scanno, wearing sturdy shoes for the uneven path."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa della Madonna del Lago",
+            "hu": "Chiesa della Madonna del Lago",
+            "ro": "Chiesa della Madonna del Lago",
+            "en": "Chiesa della Madonna del Lago"
+          },
+          "coords": [
+            13.871879,
+            41.919236
+          ],
+          "category": "religious",
+          "arrive_at": "12:45",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese malerische Kirche direkt am Ufer des Scanno-Sees, die in der Nachmittagssonne besonders fotogen ist, wenn sich die Spiegelungen abzeichnen.",
+            "hu": "Csodálja meg ezt a festői templomot a Scanno-tó partján, amely különösen fotogén a délutáni napsütésben, amikor a tükröződések a legjobbak.",
+            "ro": "Admirați această biserică pitorească situată pe malul lacului Scanno, perfect fotogenică în soarele după-amiezii, când reflexiile sunt cele mai bune.",
+            "en": "Admire this picturesque church set right on the shores of Lake Scanno, perfectly photogenic in the afternoon sun when reflections are best."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine Radtour vom stattlichen Zentrum Scannos aus bietet einen aufregenden Start inmitten von grandiosen Palästen. Gegen Mittag fahren Sie an den nördlichen Stadtrand, wo sich historische Pfarrkirchen an die Hänge schmiegen. Am Nachmittag erleben Sie einen abenteuerlichen Aufstieg zu einer abgelegenen Einsiedelei. Die Tour endet mit einem entspannten abendlichen Rollen am unberührten Ufer des bekannten herzförmigen Sees.",
+        "hu": "A Scanno fenséges központjából való kerékpározás izgalmas kezdést nyújt a grandiózus paloták között. Délre az északi külvárosok felé halad, ahol történelmi plébániák pettyezik a hegyoldalt. A délutáni tekerés kalandos hegymászást kínál egy eldugott remetelakhoz, ahonnan lenyűgöző kilátás nyílik. A túra egy pihentető esti gurulással zárul a híres szív alakú tó érintetlen partján.",
+        "ro": "Mersul pe bicicletă din centrul impunător al orașului Scanno oferă un început antrenant printre palate grandioase. La prânz, treceți spre periferiile nordice, unde parohiile istorice presară dealul. Călătoria de după-amiază include o urcare plină de aventură către un schit izolat cu vederi uimitoare. Turul dumneavoastră se încheie cu o plimbare relaxantă de seară de-a lungul malurilor imaculate ale faimosului lac în formă de inimă.",
+        "en": "Cycling out from the stately core of Scanno provides an exhilarating start among grand palaces. By midday, you transition towards the northern outskirts, where historic parishes dot the hillside. The afternoon ride features an adventurous climb to a secluded hermitage with stunning views. Your tour concludes with a relaxing evening roll along the pristine shores of the famous heart-shaped lake."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "13:57",
+      "total_km": 5.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa degli Alpini",
+            "hu": "Chiesa degli Alpini",
+            "ro": "Chiesa degli Alpini",
+            "en": "Chiesa degli Alpini"
+          },
+          "coords": [
+            13.871836,
+            41.886375
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese einzigartige, den Gebirgssoldaten gewidmete Gedenkkirche, die Sie am besten mit dem Auto erreichen, um einen ruhigen Moment abseits des Zentrums zu erleben.",
+            "hu": "Látogasson el ebbe az alpesi katonáknak szentelt emléktemplomba, amely autóval a legkönnyebben megközelíthető egy csendes pillanatért a központtól távol.",
+            "ro": "Vizitați această biserică memorială unică dedicată soldaților alpini, la care se ajunge cel mai bine cu mașina pentru un moment liniștit de reflecție departe de centru.",
+            "en": "Visit this unique memorial church dedicated to alpine soldiers, which is best accessed by car for a quiet moment of reflection away from the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santa Maria della Valle",
+            "hu": "Chiesa di Santa Maria della Valle",
+            "ro": "Chiesa di Santa Maria della Valle",
+            "en": "Chiesa di Santa Maria della Valle"
+          },
+          "coords": [
+            13.879921,
+            41.903042
+          ],
+          "category": "religious",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die architektonischen Details der Hauptpfarrkirche von Scanno und achten Sie dabei auf das wunderschön geschnitzte hölzerne Chorgestühl.",
+            "hu": "Fedezze fel Scanno fő plébániatemplomának építészeti részleteit, és feltétlenül figyelje meg a gyönyörűen faragott fa kórusüléseket.",
+            "ro": "Explorați detaliile arhitecturale ale bisericii parohiale principale din Scanno, asigurându-vă că observați stranele din lemn frumos sculptate.",
+            "en": "Explore the architectural details of Scanno's main parish church, making sure to notice the beautifully carved wooden choir stalls."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Di Rienzo",
+            "hu": "Palazzo Di Rienzo",
+            "ro": "Palazzo Di Rienzo",
+            "en": "Palazzo Di Rienzo"
+          },
+          "coords": [
+            13.882158,
+            41.903967
+          ],
+          "category": "castle",
+          "arrive_at": "10:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Pracht dieses historischen Palastes bei einem Spaziergang um das imposante Äußere und prüfen Sie die lokalen Zeiten für einen Zugang zum Innenhof.",
+            "hu": "Fedezze fel e történelmi palota nagyszerűségét a lenyűgöző külső körüljárásával, és ellenőrizze a helyi menetrendet az udvar esetleges látogatásához.",
+            "ro": "Descoperiți măreția acestui palat istoric plimbându-vă în jurul exteriorului său impunător, verificând programul local pentru acces ocazional în curte.",
+            "en": "Discover the grandeur of this historic castle-like palace by walking around its imposing exterior, checking local schedules for occasional courtyard access."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Michele Arcangelo",
+            "hu": "Chiesa di San Michele Arcangelo",
+            "ro": "Chiesa di San Michele Arcangelo",
+            "en": "Chiesa di San Michele Arcangelo"
+          },
+          "coords": [
+            13.875713,
+            41.909269
+          ],
+          "category": "religious",
+          "arrive_at": "12:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre und die traditionellen Steinarbeiten dieser Vorstadtkirche, die einen idealen Ausgangspunkt für eine Fahrt zum See bietet.",
+            "hu": "Élvezze a külvárosi templom békés hangulatát és hagyományos kőfaragásait, amely nagyszerű kiindulópont egy tó felé vezető úthoz.",
+            "ro": "Bucurați-vă de ambianța liniștită și de zidăria tradițională a acestei biserici suburbane, care oferă un punct de plecare excelent pentru o plimbare spre lac.",
+            "en": "Enjoy the peaceful ambiance and traditional stonework of this suburban church, which offers a great starting point for a drive towards the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa della Madonna del Lago",
+            "hu": "Chiesa della Madonna del Lago",
+            "ro": "Chiesa della Madonna del Lago",
+            "en": "Chiesa della Madonna del Lago"
+          },
+          "coords": [
+            13.871879,
+            41.919236
+          ],
+          "category": "religious",
+          "arrive_at": "12:47",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese malerische Kirche direkt am Ufer des Scanno-Sees, die in der Nachmittagssonne besonders fotogen ist, wenn sich die Spiegelungen abzeichnen.",
+            "hu": "Csodálja meg ezt a festői templomot a Scanno-tó partján, amely különösen fotogén a délutáni napsütésben, amikor a tükröződések a legjobbak.",
+            "ro": "Admirați această biserică pitorească situată pe malul lacului Scanno, perfect fotogenică în soarele după-amiezii, când reflexiile sunt cele mai bune.",
+            "en": "Admire this picturesque church set right on the shores of Lake Scanno, perfectly photogenic in the afternoon sun when reflections are best."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie die Fahrt im friedlichen südlichen Tal, um das einzigartige Denkmal der Gebirgstruppen zu besuchen. Zur Mittagszeit parken Sie in der Nähe des Zentrums, um die monumentale Architektur Scannos zu Fuß zu erkunden. Am Nachmittag fahren Sie zu den nördlichen Hängen, um ruhigere Heiligtümer zu finden. Beenden Sie die Reise in der Dämmerung am Seeufer und bewundern Sie die malerische kleine Kapelle.",
+        "hu": "Kezdje az utazást a békés déli völgyben, hogy meglátogassa az alpesi csapatok egyedülálló emlékművét. Dél közeledtével parkoljon le a városközpont közelében, és gyalogosan fedezze fel Scanno monumentális építészetét. A délután az északi domboldalak felé viszi, ahol csendesebb szentélyeket találhat. Fejezze be az utazást szürkületkor a csillogó tónál, megcsodálva annak festői vízparti kápolnáját.",
+        "ro": "Începeți plimbarea în valea sudică pașnică pentru a vizita memorialul unic al trupelor alpine. Spre prânz, parcați aproape de centrul orașului pentru a explora la pas arhitectura monumentală și structurile religioase. După-amiaza vă poartă spre dealurile nordice pentru a găsi sanctuare mai liniștite. Încheiați călătoria la lăsarea serii lângă lac, admirând capela sa pitorească de pe malul apei.",
+        "en": "Start the drive in the peaceful southern valley to visit the unique memorial to alpine troops. As midday approaches, park near the town center to delve into Scanno’s monumental architecture and grand religious structures on foot. The afternoon takes you motoring towards the northern hillsides to find quieter sanctuaries. Finish the journey at dusk by the shimmering lake, admiring its quaint waterside chapel."
+      }
+    }
+  }
+}

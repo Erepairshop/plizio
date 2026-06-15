@@ -1,0 +1,474 @@
+{
+  "city_id": "conches-en-ouche",
+  "anchor": {
+    "name": "Conches-en-Ouche",
+    "coords": [
+      0.9425,
+      48.9606
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:13",
+      "total_km": 0.95,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Haus der Kunst und des Tourismus",
+            "hu": "Művészetek és Turizmus Háza",
+            "ro": "Casa Artelor și Turismului",
+            "en": "House of Arts and Tourism"
+          },
+          "coords": [
+            0.943068,
+            48.960245
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier lokale Kunstausstellungen und besorgen Sie sich wichtige Stadtpläne, bevor Sie Ihre historische Tour starten.",
+            "hu": "Fedezze fel a helyi művészeti kiállításokat, és szerezzen be egy várostérképet, mielőtt nekivágna a történelmi sétának.",
+            "ro": "Descoperiți expozițiile de artă locale și luați o hartă a orașului de aici înainte de a începe turul istoric al așezării.",
+            "en": "Discover local art exhibitions and gather essential town maps here before starting your historical tour of Conches."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Conches",
+            "hu": "Conches-i kastély",
+            "ro": "Castelul din Conches",
+            "en": "Castle of Conches"
+          },
+          "coords": [
+            0.94329,
+            48.961398
+          ],
+          "category": "castle",
+          "arrive_at": "10:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposanten Ruinen dieser mittelalterlichen Festung und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Csodálja meg ennek a középkori erődnek a lenyűgöző romjait, és mindenképpen viseljen kényelmes cipőt az egyenetlen talaj miatt.",
+            "ro": "Admirați ruinele impresionante ale acestei fortărețe medievale și purtați încălțăminte comodă pentru a explora terenul accidentat.",
+            "en": "Admire the impressive ruins of this medieval stronghold, and be sure to wear sturdy shoes for walking around the uneven grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint Faith",
+            "hu": "Szent Hit templom",
+            "ro": "Biserica Sfânta Credință",
+            "en": "Saint Faith Church"
+          },
+          "coords": [
+            0.942152,
+            48.962475
+          ],
+          "category": "religious",
+          "arrive_at": "12:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die spektakulären Buntglasfenster aus dem 16. Jahrhundert am besten an einem sonnigen Morgen für die schönsten Farben.",
+            "hu": "Csodálja meg a látványos, tizenhatodik századi ólomüveg ablakokat, amelyeket egy napsütéses reggelen a legérdemesebb megtekinteni.",
+            "ro": "Admirați vitraliile spectaculoase din secolul al șaisprezecelea, ideal într-o dimineață însorită pentru a vă bucura de culori.",
+            "en": "Marvel at the spectacular 16th-century stained glass windows, and visit on a sunny morning to see the colors at their best."
+          }
+        },
+        {
+          "name": {
+            "de": "Festungsturm von Conches",
+            "hu": "Conches-i erőd",
+            "ro": "Fortăreața din Conches",
+            "en": "Keep of Conches"
+          },
+          "coords": [
+            0.940574,
+            48.963537
+          ],
+          "category": "fortress",
+          "arrive_at": "12:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieses historischen Wehrturms, der einen fantastischen Panoramablick über das umliegende Ouche-Tal bietet.",
+            "hu": "Fedezze fel a történelmi védőtorony maradványait, ahonnan fantasztikus panoráma nyílik a környező festői Ouche-völgyre.",
+            "ro": "Explorați rămășițele acestui turn defensiv istoric, care oferă o vedere panoramică fantastică asupra văii pitorești Ouche.",
+            "en": "Explore the remnants of this historic defensive tower, which offers fantastic panoramic views over the surrounding Ouche valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Glasmuseum François Décorchemont",
+            "hu": "François Décorchemont Üvegmúzeum",
+            "ro": "Muzeul Sticlei François Décorchemont",
+            "en": "François Décorchemont Glass Museum"
+          },
+          "coords": [
+            0.942952,
+            48.966112
+          ],
+          "category": "museum",
+          "arrive_at": "14:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erleben Sie die faszinierende Entwicklung der Glaskunst in diesem Museum und prüfen Sie den Plan für Live-Glasbläservorführungen.",
+            "hu": "Ismerje meg az üvegművészet lenyűgöző fejlődését ebben a múzeumban, és érdemes előre tájékozódni az élő üvegfúvó bemutatókról.",
+            "ro": "Descoperiți evoluția fascinantă a artei sticlei în acest muzeu și verificați programul pentru demonstrațiile de suflare a sticlei.",
+            "en": "Experience the fascinating evolution of glass art in this dedicated museum, and check the schedule for live glassblowing demos."
+          }
+        },
+        {
+          "name": {
+            "de": "Abtei Saint-Pierre und Saint-Paul",
+            "hu": "Szent Péter és Szent Pál Apátság",
+            "ro": "Abația Sfântul Petru și Sfântul Pavel",
+            "en": "Abbey of Saint Peter and Saint Paul"
+          },
+          "coords": [
+            0.944001,
+            48.966806
+          ],
+          "category": "religious",
+          "arrive_at": "16:03",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch das friedliche Gelände dieser alten Abtei und nehmen Sie sich Zeit für die ruhige Atmosphäre der Kreuzgänge.",
+            "hu": "Sétáljon végig az ősi apátság békés területén, és szánjon időt a történelmi kerengők nyugodt atmoszférájának élvezetére.",
+            "ro": "Plimbați-vă pe domeniul liniștit al acestei abații antice și acordați-vă timp pentru a aprecia atmosfera senină a curților istorice.",
+            "en": "Wander through the peaceful grounds of this ancient abbey, taking time to appreciate the serene atmosphere of the historic cloisters."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittag: Beginnen Sie im Herzen von Conches beim Tourismusbüro, bevor Sie zu den Burgruinen schlendern. Mittag: Bewundern Sie die Buntglasfenster der Kirche Saint Faith und erkunden Sie den imposanten mittelalterlichen Wehrturm. Nachmittag: Widmen Sie sich dem faszinierenden Glasmuseum, einem echten Highlight des künstlerischen Erbes der Stadt. Abend: Beenden Sie Ihren Rundgang mit einem ruhigen Spaziergang über das Gelände der alten Abtei und genießen Sie das historische Flair.",
+        "hu": "Délelőtt: Kezdje a napot Conches szívében a turisztikai irodánál, majd sétáljon a félelmetes várromok felé. Délben: Csodálja meg a Saint Faith templom ólomüvegeit, majd folytassa útját az impozáns Öregtoronyhoz. Délután: Szentelje a délutánt a lenyűgöző Üvegmúzeumnak, amely a város művészeti örökségének fénypontja. Este: Zárja sétáját egy békés barangolással az ősi apátság területén, visszatekintve a város történelmi bájára.",
+        "ro": "Dimineața: Începeți ziua în inima orașului Conches la biroul de turism, înainte de a vă îndrepta spre ruinele castelului. La prânz: Admirați vitraliile bisericii Saint Faith, apoi continuați spre Donjon pentru atmosfera sa medievală. După-amiaza: Dedicați-vă după-amiaza fascinantului Muzeu al Sticlei, un punct de atracție al patrimoniului artistic local. Seara: Încheiați plimbarea cu o vizită liniștită pe domeniul vechii abații, reflectând la farmecul istoric al orașului.",
+        "en": "Morning: Begin your day in the heart of Conches at the tourism office before wandering towards the formidable castle ruins. Midday: Marvel at the intricate stained glass of Saint Faith Church, then continue to the impressive Keep to soak up the medieval atmosphere. Afternoon: Dedicate your afternoon to the fascinating Glass Museum, a true highlight of the town's artistic heritage. Evening: Conclude your walk with a peaceful stroll around the old abbey grounds, reflecting on the historical charm of the town."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:18",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Haus der Kunst und des Tourismus",
+            "hu": "Művészetek és Turizmus Háza",
+            "ro": "Casa Artelor și Turismului",
+            "en": "House of Arts and Tourism"
+          },
+          "coords": [
+            0.943068,
+            48.960245
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier lokale Kunstausstellungen und besorgen Sie sich wichtige Stadtpläne, bevor Sie Ihre historische Tour starten.",
+            "hu": "Fedezze fel a helyi művészeti kiállításokat, és szerezzen be egy várostérképet, mielőtt nekivágna a történelmi sétának.",
+            "ro": "Descoperiți expozițiile de artă locale și luați o hartă a orașului de aici înainte de a începe turul istoric al așezării.",
+            "en": "Discover local art exhibitions and gather essential town maps here before starting your historical tour of Conches."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint Faith",
+            "hu": "Szent Hit templom",
+            "ro": "Biserica Sfânta Credință",
+            "en": "Saint Faith Church"
+          },
+          "coords": [
+            0.942152,
+            48.962475
+          ],
+          "category": "religious",
+          "arrive_at": "10:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die spektakulären Buntglasfenster aus dem 16. Jahrhundert am besten an einem sonnigen Morgen für die schönsten Farben.",
+            "hu": "Csodálja meg a látványos, tizenhatodik századi ólomüveg ablakokat, amelyeket egy napsütéses reggelen a legérdemesebb megtekinteni.",
+            "ro": "Admirați vitraliile spectaculoase din secolul al șaisprezecelea, ideal într-o dimineață însorită pentru a vă bucura de culori.",
+            "en": "Marvel at the spectacular 16th-century stained glass windows, and visit on a sunny morning to see the colors at their best."
+          }
+        },
+        {
+          "name": {
+            "de": "Festungsturm von Conches",
+            "hu": "Conches-i erőd",
+            "ro": "Fortăreața din Conches",
+            "en": "Keep of Conches"
+          },
+          "coords": [
+            0.940574,
+            48.963537
+          ],
+          "category": "fortress",
+          "arrive_at": "11:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieses historischen Wehrturms, der einen fantastischen Panoramablick über das umliegende Ouche-Tal bietet.",
+            "hu": "Fedezze fel a történelmi védőtorony maradványait, ahonnan fantasztikus panoráma nyílik a környező festői Ouche-völgyre.",
+            "ro": "Explorați rămășițele acestui turn defensiv istoric, care oferă o vedere panoramică fantastică asupra văii pitorești Ouche.",
+            "en": "Explore the remnants of this historic defensive tower, which offers fantastic panoramic views over the surrounding Ouche valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Glasmuseum François Décorchemont",
+            "hu": "François Décorchemont Üvegmúzeum",
+            "ro": "Muzeul Sticlei François Décorchemont",
+            "en": "François Décorchemont Glass Museum"
+          },
+          "coords": [
+            0.942952,
+            48.966112
+          ],
+          "category": "museum",
+          "arrive_at": "12:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erleben Sie die faszinierende Entwicklung der Glaskunst in diesem Museum und prüfen Sie den Plan für Live-Glasbläservorführungen.",
+            "hu": "Ismerje meg az üvegművészet lenyűgöző fejlődését ebben a múzeumban, és érdemes előre tájékozódni az élő üvegfúvó bemutatókról.",
+            "ro": "Descoperiți evoluția fascinantă a artei sticlei în acest muzeu și verificați programul pentru demonstrațiile de suflare a sticlei.",
+            "en": "Experience the fascinating evolution of glass art in this dedicated museum, and check the schedule for live glassblowing demos."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Quenet",
+            "hu": "Quenet Kastély",
+            "ro": "Castelul Quenet",
+            "en": "Quenet Castle"
+          },
+          "coords": [
+            0.95816,
+            48.966935
+          ],
+          "category": "castle",
+          "arrive_at": "14:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Ausflug, um dieses charmante aristokratische Anwesen von außen zu betrachten, da die Architektur fotogen ist.",
+            "hu": "Tegyen egy rövid kitérőt, és csodálja meg kívülről ezt a bájos arisztokrata birtokot, mivel klasszikus építészete igazán fotogén.",
+            "ro": "Faceți o scurtă excursie pentru a vedea această moșie aristocratică fermecătoare, deoarece arhitectura sa clasică este foarte fotogenică.",
+            "en": "Take a short trip out to view this charming aristocratic estate from the outside, as the classical architecture is truly photogenic."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Élier",
+            "hu": "Saint-Élier Templom",
+            "ro": "Biserica Saint-Élier",
+            "en": "Saint-Élier Church"
+          },
+          "coords": [
+            0.967382,
+            48.978277
+          ],
+          "category": "religious",
+          "arrive_at": "16:08",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese ruhige ländliche Kirche, um ihren schlichten, aber eleganten Baustil zu bewundern, der das Erbe der Region widerspiegelt.",
+            "hu": "Látogasson el ebbe a csendes vidéki templomba, hogy megcsodálja egyszerű, de elegáns építészeti stílusát, amely a régió örökségét tükrözi.",
+            "ro": "Vizitați această biserică rurală liniștită pentru a admira stilul său arhitectural simplu, care reflectă perfect patrimoniul regiunii.",
+            "en": "Visit this quiet rural church to admire its simple yet elegant architectural style that perfectly reflects the region's heritage."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittag: Starten Sie Ihre Radtour mit Plänen aus dem Zentrum und fahren Sie zügig zur wunderschönen Kirche Saint Faith. Mittag: Radeln Sie zum majestätischen Wehrturm für einen weiten Blick ins Tal, bevor Sie das berühmte Glasmuseum besuchen. Nachmittag: Verlassen Sie das Zentrum in Richtung des eleganten Château de Quenet und genießen Sie die frische Luft der Normandie. Abend: Beenden Sie Ihr Abenteuer an der ruhigen ländlichen Kirche Saint-Élier im milden Abendlicht.",
+        "hu": "Délelőtt: Kezdje kerékpáros útvonalát a központban, majd tekerjen el a gyönyörű Saint Faith templomhoz. Délben: Haladjon a fenséges Öregtorony felé a völgyre nyíló kilátásért, mielőtt felfedezné az Üvegmúzeumot. Délután: Kerekezzen ki a központból az elegáns Château de Quenet felé, élvezve a normandiai vidék friss levegőjét. Este: Fejezze be kerékpáros kalandját a csendes Église Saint-Élier-nél, ahol megcsodálhatja a mezők felett lenyugvó napot.",
+        "ro": "Dimineața: Începeți traseul de ciclism preluând hărți din centru, apoi pedalați spre frumoasa biserică Saint Faith. La prânz: Mergeți spre maiestuosul Donjon pentru vederi panoramice, înainte de a vizita renumitul Muzeu al Sticlei. După-amiaza: Ieșiți din centrul aglomerat spre elegantul Château de Quenet, bucurându-vă de aerul proaspăt din Normandia. Seara: Terminați aventura la liniștita Église Saint-Élier, admirând apusul peste câmpurile rurale.",
+        "en": "Morning: Start your cycling route by gathering maps in the center, then quickly ride over to the beautiful Saint Faith Church. Midday: Pedal towards the majestic Keep to enjoy sweeping views of the valley before visiting the renowned Glass Museum. Afternoon: Ride out of the dense center towards the elegant Château de Quenet, enjoying the fresh air of the Normandy countryside. Evening: Finish your cycling adventure at the quiet rural Église Saint-Élier, where you can watch the sun lower over the fields."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:13",
+      "total_km": 6.25,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Haus der Kunst und des Tourismus",
+            "hu": "Művészetek és Turizmus Háza",
+            "ro": "Casa Artelor și Turismului",
+            "en": "House of Arts and Tourism"
+          },
+          "coords": [
+            0.943068,
+            48.960245
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier lokale Kunstausstellungen und besorgen Sie sich wichtige Stadtpläne, bevor Sie Ihre historische Tour starten.",
+            "hu": "Fedezze fel a helyi művészeti kiállításokat, és szerezzen be egy várostérképet, mielőtt nekivágna a történelmi sétának.",
+            "ro": "Descoperiți expozițiile de artă locale și luați o hartă a orașului de aici înainte de a începe turul istoric al așezării.",
+            "en": "Discover local art exhibitions and gather essential town maps here before starting your historical tour of Conches."
+          }
+        },
+        {
+          "name": {
+            "de": "Festungsturm von Conches",
+            "hu": "Conches-i erőd",
+            "ro": "Fortăreața din Conches",
+            "en": "Keep of Conches"
+          },
+          "coords": [
+            0.940574,
+            48.963537
+          ],
+          "category": "fortress",
+          "arrive_at": "10:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieses historischen Wehrturms, der einen fantastischen Panoramablick über das umliegende Ouche-Tal bietet.",
+            "hu": "Fedezze fel a történelmi védőtorony maradványait, ahonnan fantasztikus panoráma nyílik a környező festői Ouche-völgyre.",
+            "ro": "Explorați rămășițele acestui turn defensiv istoric, care oferă o vedere panoramică fantastică asupra văii pitorești Ouche.",
+            "en": "Explore the remnants of this historic defensive tower, which offers fantastic panoramic views over the surrounding Ouche valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Glasmuseum François Décorchemont",
+            "hu": "François Décorchemont Üvegmúzeum",
+            "ro": "Muzeul Sticlei François Décorchemont",
+            "en": "François Décorchemont Glass Museum"
+          },
+          "coords": [
+            0.942952,
+            48.966112
+          ],
+          "category": "museum",
+          "arrive_at": "12:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erleben Sie die faszinierende Entwicklung der Glaskunst in diesem Museum und prüfen Sie den Plan für Live-Glasbläservorführungen.",
+            "hu": "Ismerje meg az üvegművészet lenyűgöző fejlődését ebben a múzeumban, és érdemes előre tájékozódni az élő üvegfúvó bemutatókról.",
+            "ro": "Descoperiți evoluția fascinantă a artei sticlei în acest muzeu și verificați programul pentru demonstrațiile de suflare a sticlei.",
+            "en": "Experience the fascinating evolution of glass art in this dedicated museum, and check the schedule for live glassblowing demos."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Quenet",
+            "hu": "Quenet Kastély",
+            "ro": "Castelul Quenet",
+            "en": "Quenet Castle"
+          },
+          "coords": [
+            0.95816,
+            48.966935
+          ],
+          "category": "castle",
+          "arrive_at": "13:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Ausflug, um dieses charmante aristokratische Anwesen von außen zu betrachten, da die Architektur fotogen ist.",
+            "hu": "Tegyen egy rövid kitérőt, és csodálja meg kívülről ezt a bájos arisztokrata birtokot, mivel klasszikus építészete igazán fotogén.",
+            "ro": "Faceți o scurtă excursie pentru a vedea această moșie aristocratică fermecătoare, deoarece arhitectura sa clasică este foarte fotogenică.",
+            "en": "Take a short trip out to view this charming aristocratic estate from the outside, as the classical architecture is truly photogenic."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Élier",
+            "hu": "Saint-Élier Templom",
+            "ro": "Biserica Saint-Élier",
+            "en": "Saint-Élier Church"
+          },
+          "coords": [
+            0.967382,
+            48.978277
+          ],
+          "category": "religious",
+          "arrive_at": "15:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese ruhige ländliche Kirche, um ihren schlichten, aber eleganten Baustil zu bewundern, der das Erbe der Region widerspiegelt.",
+            "hu": "Látogasson el ebbe a csendes vidéki templomba, hogy megcsodálja egyszerű, de elegáns építészeti stílusát, amely a régió örökségét tükrözi.",
+            "ro": "Vizitați această biserică rurală liniștită pentru a admira stilul său arhitectural simplu, care reflectă perfect patrimoniul regiunii.",
+            "en": "Visit this quiet rural church to admire its simple yet elegant architectural style that perfectly reflects the region's heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Léonard",
+            "hu": "Saint-Léonard Templom",
+            "ro": "Biserica Saint-Léonard",
+            "en": "Saint-Léonard Church"
+          },
+          "coords": [
+            0.973859,
+            48.951161
+          ],
+          "category": "religious",
+          "arrive_at": "16:03",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour durch die Landschaft an dieser charmanten historischen Kapelle und genießen Sie die friedliche Umgebung.",
+            "hu": "Zárja vidéki körútját ennél a bájos történelmi kápolnánál, szánjon egy pillanatot a pihenésre és élvezze a békés környezetet.",
+            "ro": "Încheiați turul la această capelă istorică fermecătoare, luându-vă un moment pentru a vă relaxa și a vă bucura de peisajul rural.",
+            "en": "Conclude your countryside tour at this charming historic chapel, taking a moment to relax and enjoy the peaceful rural surroundings."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittag: Beginnen Sie am Tourismusbüro im Stadtzentrum zur Orientierung, bevor Sie die kurze Fahrt zum alten Wehrturm antreten. Mittag: Tauchen Sie im Glasmuseum in die Kunstgeschichte der Region ein, nur eine kurze Fahrt entfernt. Nachmittag: Fahren Sie in die malerische Landschaft, um das Château de Quenet und die charmante Kirche Saint-Élier zu bewundern. Abend: Fahren Sie weiter zur friedlichen Kirche Saint-Léonard und beenden Sie den Tag mit einer landschaftlich reizvollen Fahrt in den Sonnenuntergang.",
+        "hu": "Délelőtt: Kezdje a városközpont turisztikai irodájánál a tájékozódást, majd tegyen egy rövid utat az ősi Öregtoronyhoz. Délben: Merüljön el a régió művészeti történelmében az Üvegmúzeumban, amely könnyen megközelíthető autóval. Délután: Vezessen ki a festői vidékre, hogy megcsodálja a Château de Quenet-t és a bájos Église Saint-Élier-t. Este: Hajtson tovább a békés Église Saint-Léonard-hoz, és zárja a napot egy pihentető, naplementés autózással.",
+        "ro": "Dimineața: Începeți la biroul de turism din centrul orașului pentru a vă orienta înainte de scurta plimbare spre Donjonul antic. La prânz: Aprofundați istoria artistică a regiunii la Muzeul Sticlei, aflat la mică distanță cu mașina. După-amiaza: Conduceți prin peisajul rural pitoresc pentru a admira Château de Quenet și cocheta biserică Saint-Élier. Seara: Mergeți mai departe spre liniștita Église Saint-Léonard, încheind ziua cu un drum relaxant la apus.",
+        "en": "Morning: Begin at the tourism office in the town center to orient yourself before making the short drive to the ancient Keep. Midday: Delve into the region's artistic history at the Glass Museum, a comfortable drive from the main historical sites. Afternoon: Drive out into the picturesque countryside to admire the exterior of Château de Quenet and the quaint Église Saint-Élier. Evening: Drive further out to the peaceful Église Saint-Léonard, concluding your day trip with a scenic and relaxing sunset drive."
+      }
+    }
+  }
+}

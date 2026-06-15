@@ -1,0 +1,474 @@
+{
+  "city_id": "uk-milford-haven",
+  "anchor": {
+    "name": "Milford Haven",
+    "coords": [
+      -5.0427,
+      51.7142
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:08",
+      "total_km": 1.75,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Torch Theatre",
+            "hu": "Torch Színház",
+            "ro": "Teatrul Torch",
+            "en": "Torch Theatre"
+          },
+          "coords": [
+            -5.04,
+            51.7153
+          ],
+          "category": "cultural",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie eine fesselnde Live-Aufführung in diesem modernen Kulturzentrum und buchen Sie Ihre Tickets am besten im Voraus.",
+            "hu": "Élvezzen egy lenyűgöző élő előadást ebben a modern kulturális központban, de ne felejtse el jó előre lefoglalni a jegyeit.",
+            "ro": "Bucurați-vă de un spectacol live în acest centru cultural modern, asigurându-vă că rezervați biletele din timp pentru cele mai bune locuri.",
+            "en": "Enjoy a captivating live performance at this modern cultural hub, making sure to book your tickets well in advance for the best seats."
+          }
+        },
+        {
+          "name": {
+            "de": "Milford Waterfront",
+            "hu": "Milford Vízpart",
+            "ro": "Faleza Milford",
+            "en": "Milford Waterfront"
+          },
+          "coords": [
+            -5.040702,
+            51.712584
+          ],
+          "category": "recreational",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang des Jachthafens und holen Sie sich einen Kaffee in einem der Cafés, während Sie die maritime Atmosphäre genießen.",
+            "hu": "Sétáljon végig a kikötőben, és igyon egy kávét a vízparti kávézók egyikében a tengerészeti hangulatot élvezve.",
+            "ro": "Plimbați-vă de-a lungul portului de agrement și savurați o cafea la una dintre cafenele, bucurându-vă de atmosfera nautică.",
+            "en": "Stroll along the bustling marina and grab a coffee at one of the waterside cafes while enjoying the lively nautical atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Milford Haven Museum",
+            "hu": "Milford Haven Múzeum",
+            "ro": "Muzeul Milford Haven",
+            "en": "Milford Haven Museum"
+          },
+          "coords": [
+            -5.0404,
+            51.7126
+          ],
+          "category": "museum",
+          "arrive_at": "11:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche maritime Geschichte in diesem alten Zollhaus, wo ein einstündiger Rundgang durch die Ausstellungen zu empfehlen ist.",
+            "hu": "Fedezze fel a város tengerészeti történelmét ebben a régi vámházban, ahol érdemes legalább egy órát szánni a kiállításokra.",
+            "ro": "Descoperiți istoria maritimă în această veche vamă fascinantă, unde o oră de explorare a expozițiilor este foarte recomandată.",
+            "en": "Discover the town's rich maritime history inside this fascinating old customs house, where spending an hour exploring is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Lord Nelson Hotel",
+            "hu": "Lord Nelson Szálloda",
+            "ro": "Hotelul Lord Nelson",
+            "en": "Lord Nelson Hotel"
+          },
+          "coords": [
+            -5.037573,
+            51.712712
+          ],
+          "category": "historical",
+          "arrive_at": "13:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses historischen Hotels und kehren Sie für ein traditionelles walisisches Mittagessen in den Speisesaal ein.",
+            "hu": "Csodálja meg a történelmi szálloda építészetét, és térjen be egy hagyományos walesi ebédre a barátságos étterembe.",
+            "ro": "Admirați arhitectura acestui hotel istoric și opriți-vă pentru un prânz galez tradițional în sala sa de mese primitoare.",
+            "en": "Admire the architecture of this historic hotel and consider stopping for a traditional Welsh lunch in its welcoming dining room."
+          }
+        },
+        {
+          "name": {
+            "de": "The Rath",
+            "hu": "The Rath Park",
+            "ro": "Parcul The Rath",
+            "en": "The Rath"
+          },
+          "coords": [
+            -5.031397,
+            51.711714
+          ],
+          "category": "natural",
+          "arrive_at": "14:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Machen Sie einen Spaziergang durch diesen hochgelegenen Park mit Panoramablick und bringen Sie eine Kamera für die Küstenlandschaft mit.",
+            "hu": "Tegyen egy pihentető sétát ebben a parkban, és ne hagyja otthon a fényképezőgépét a gyönyörű parti táj megörökítéséhez.",
+            "ro": "Faceți o plimbare prin acest parc pitoresc cu vederi panoramice și aduceți un aparat foto pentru a surprinde peisajul de coastă.",
+            "en": "Take a relaxing walk through this elevated park offering panoramic views, and bring a camera to capture the stunning coastal scenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Hakin Point",
+            "hu": "Hakin-fok",
+            "ro": "Punctul Hakin",
+            "en": "Hakin Point"
+          },
+          "coords": [
+            -5.040378,
+            51.709203
+          ],
+          "category": "historical",
+          "arrive_at": "15:48",
+          "stay_min": 50,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen Aussichtspunkt, um Schiffe zu beobachten, und ziehen Sie sich warm an, da die Meeresbrise frisch sein kann.",
+            "hu": "Fedezze fel ezt a kilátópontot, ahonnan megfigyelheti a hajókat, de öltözzön melegen, mert a tengeri szellő hűvös lehet.",
+            "ro": "Explorați acest punct de belvedere pentru a privi navele navigând, îmbrăcându-vă gros deoarece briza mării poate fi rece.",
+            "en": "Explore this historically significant viewpoint to watch vessels navigating, wrapping up warmly as the sea breeze can be brisk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie Ihren Tag mit einem kulturellen Funken im Torch Theatre. Ein kurzer Spaziergang führt Sie zur Milford Waterfront, wo die Boote sanft schaukeln und Kaffeeduft zum Verweilen einlädt.\nMittag: Entdecken Sie die maritimen Wurzeln im Milford Haven Museum. Danach bewundern Sie die Fassade des Lord Nelson Hotels, ein perfekter Ort für ein traditionelles Mittagessen.\nNachmittag: Verdauen Sie das Essen bei einem malerischen Spaziergang zum The Rath, einem Park mit freiem Blick auf die Wasserstraße. Genießen Sie die frische Luft und machen Sie Fotos.\nAbend: Beenden Sie Ihren Spaziergang am Hakin Point, während Schiffe in die Dämmerung segeln. Lassen Sie den Tag Revue passieren, bevor Sie zum Hafen zurückkehren.",
+        "hu": "Délelőtt: Kezdje a napot egy kulturális élménnyel a Torch Színházban. Egy rövid séta elvezeti a Milford Waterfront-hoz, ahol a csónakok lágyan ringatóznak, és kávé illata hívogat.\nDél: Merüljön el a város tengerészeti gyökereiben a múzeumban. Ezután csodálja meg a Lord Nelson Hotel történelmi homlokzatát, amely kiváló hely egy hagyományos ebédre.\nDélután: Sétáljon fel a The Rath parkba, amely zavartalan kilátást nyújt a forgalmas vízi útra. Szívja magába a friss levegőt, és készítsen sok fényképet a torkolatról.\nEste: Fejezze be sétáját a Hakin-fokon, érezve a friss tengeri szellőt, miközben a hajók elvitorláznak a szürkületben. Pihenjen meg egy jól megérdemelt vacsora előtt.",
+        "ro": "Dimineața: Începeți ziua cu o scânteie culturală la Torch Theatre. O scurtă plimbare vă duce la Milford Waterfront, unde bărcile se leagănă ușor, iar mirosul de cafea vă invită să zăboviți.\nPrânz: Pătrundeți în rădăcinile maritime la Muzeul Milford Haven. Ulterior, admirați fațada istorică a Hotelului Lord Nelson, un loc excelent pentru a lua un prânz tradițional.\nDupă-amiaza: Faceți o plimbare pitorească până la The Rath, un parc care oferă vederi neîntrerupte asupra căii navigabile. Respirați aerul proaspăt și faceți o mulțime de fotografii.\nSeara: Încheiați-vă plimbarea la Hakin Point, simțind briza proaspătă a mării în timp ce navele navighează spre amurg. Reflectați asupra descoperirilor înainte de cină.",
+        "en": "Morning: Start your day with a cultural spark at the Torch Theatre, diving into the local arts scene. A short stroll leads to the Milford Waterfront, where boats bob gently and the smell of fresh coffee invites you to linger.\nMidday: Dive into the deep maritime roots of the town at the Milford Haven Museum. Afterwards, admire the historic facade of the Lord Nelson Hotel, an excellent spot to grab lunch.\nAfternoon: Work off lunch with a scenic walk up to The Rath, a beautiful elevated park offering uninterrupted views of the busy waterway. Breathe in the fresh air and take plenty of photos.\nEvening: Conclude your walk at Hakin Point, feeling the crisp sea breeze as ships sail by into the twilight. Reflect on the day's maritime discoveries before a well-deserved dinner."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:24",
+      "total_km": 2.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Milford Waterfront",
+            "hu": "Milford Vízpart",
+            "ro": "Faleza Milford",
+            "en": "Milford Waterfront"
+          },
+          "coords": [
+            -5.040702,
+            51.712584
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie hier und holen Sie sich einen Kaffee in einem der Cafés am Wasser, während Sie die entspannte maritime Atmosphäre genießen.",
+            "hu": "Kezdje a napot itt, és igyon egy kávét a vízparti kávézók egyikében a tengerészeti hangulatot élvezve.",
+            "ro": "Începeți aici și savurați o cafea la una dintre cafenelele de pe mal, bucurându-vă de atmosfera nautică relaxantă.",
+            "en": "Start your ride here and grab a coffee at one of the waterside cafes while enjoying the relaxed maritime atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Milford Haven Museum",
+            "hu": "Milford Haven Múzeum",
+            "ro": "Muzeul Milford Haven",
+            "en": "Milford Haven Museum"
+          },
+          "coords": [
+            -5.0404,
+            51.7126
+          ],
+          "category": "museum",
+          "arrive_at": "10:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad sicher und entdecken Sie die reiche Walfangvergangenheit der Stadt in diesem alten Zollhaus.",
+            "hu": "Parkolja le kerékpárját biztonságosan, és fedezze fel a város bálnavadász múltját ebben a régi vámházban.",
+            "ro": "Parcați bicicleta în siguranță și descoperiți trecutul vânătorii de balene în această veche vamă fascinantă.",
+            "en": "Park your bike securely and discover the town's rich whaling past inside this fascinating old customs house."
+          }
+        },
+        {
+          "name": {
+            "de": "The Rath",
+            "hu": "The Rath Park",
+            "ro": "Parcul The Rath",
+            "en": "The Rath"
+          },
+          "coords": [
+            -5.031397,
+            51.711714
+          ],
+          "category": "natural",
+          "arrive_at": "11:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Radeln Sie zu diesem hochgelegenen Park mit Panoramablick auf den Hafen und machen Sie eine Pause auf den Rasenflächen.",
+            "hu": "Tekerjen fel ebbe a parkba, amely panorámát nyújt az öbölre, és tartson egy kis pihenőt a pázsiton.",
+            "ro": "Pedalați până la acest parc pitoresc care oferă vederi panoramice și luați o pauză pe iarbă.",
+            "en": "Cycle up to this elevated park offering panoramic views of the haven, taking a well-deserved break on the lawns."
+          }
+        },
+        {
+          "name": {
+            "de": "Hakin Point",
+            "hu": "Hakin-fok",
+            "ro": "Punctul Hakin",
+            "en": "Hakin Point"
+          },
+          "coords": [
+            -5.040378,
+            51.709203
+          ],
+          "category": "historical",
+          "arrive_at": "12:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem Aussichtspunkt, um große Schiffe zu beobachten, aber passen Sie auf den manchmal starken Küstenwind auf.",
+            "hu": "Álljon meg ennél a kilátópontnál, és figyelje a nagy hajókat, de vigyázzon az olykor erős parti szélre.",
+            "ro": "Opriți-vă la acest punct de belvedere pentru a privi navele mari, dar fiți atenți la vântul de coastă care poate fi puternic.",
+            "en": "Stop at this historical viewpoint to watch large vessels navigate, but be mindful of the sometimes strong coastal wind."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort Hubberstone",
+            "hu": "Hubberstone Erőd",
+            "ro": "Fortul Hubberstone",
+            "en": "Fort Hubberstone"
+          },
+          "coords": [
+            -5.05431,
+            51.7086
+          ],
+          "category": "fortress",
+          "arrive_at": "13:26",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Überreste dieser Festung aus der Ferne, da das Bauwerk am besten vom Küstenpfad aus zu sehen ist.",
+            "hu": "Csodálja meg ezen erődítmény maradványait tisztes távolságból, mivel a parti ösvényről nyújtja a legjobb látványt.",
+            "ro": "Minunați-vă de rămășițele acestui fort de la distanță, deoarece cel mai bine se vede de pe poteca de coastă.",
+            "en": "Marvel at the remains of this coastal defense fort from a safe distance, as it is best viewed from the coastal path."
+          }
+        },
+        {
+          "name": {
+            "de": "Gelliswick Bay",
+            "hu": "Gelliswick-öböl",
+            "ro": "Golful Gelliswick",
+            "en": "Gelliswick Bay"
+          },
+          "coords": [
+            -5.05955,
+            51.70778
+          ],
+          "category": "natural",
+          "arrive_at": "14:29",
+          "stay_min": 85,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie nach der Radtour am Kieselstrand dieser Bucht entlang und prüfen Sie die Gezeiten für die Gezeitentümpel.",
+            "hu": "A tekerés után sétáljon végig a kavicsos strandon, és ellenőrizze az árapályt, ha fel akarja fedezni a medencéket.",
+            "ro": "După plimbare, relaxați-vă pe plaja cu pietriș a acestui golf și verificați orele mareei pentru piscinele naturale.",
+            "en": "After your ride, walk along the pebble beach of this sheltered bay and check tide times if you want to explore the rock pools."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Das Radeln beginnt an der lebhaften Milford Waterfront und bietet ein sanftes maritimes Aufwärmen. Danach parken Sie Ihr Fahrrad, um eine Stunde lang die Sammlung des nahe gelegenen Milford Haven Museums zu erkunden.\nMittag: Eine kurze, luftige Fahrt bringt Sie hinauf zum The Rath, wo Sie sich auf dem Gras ausruhen und picknicken können. Gleiten Sie dann in Richtung Hakin Point, um den Küstenverkehr zu beobachten.\nNachmittag: Radeln Sie weiter an der Küste entlang, um die imposanten, überwucherten Überreste von Fort Hubberstone zu bestaunen, ein faszinierendes Stück viktorianischer Militärgeschichte.\nAbend: Beenden Sie Ihr Abenteuer in der friedlichen Gelliswick Bay. Steigen Sie ab, um über den Kieselstrand zu spazieren und die ruhige Atmosphäre des Abends zu genießen.",
+        "hu": "Délelőtt: A kerékpározás a nyüzsgő Milford Waterfront-nál kezdődik. Ezután parkolja le a kerékpárt, hogy egy órát töltsön a közeli múzeum gazdag gyűjteményeinek felfedezésével.\nDél: Egy rövid kerékpározás felvisz a The Rath-hoz, ahol megpihenhet a füvön és piknikezhet. Ezután guruljon le a Hakin-fok felé, hogy megfigyelje a parti forgalmat.\nDélután: Tekerjen tovább a part mentén, és csodálja meg a Hubberstone erőd impozáns, benőtt maradványait, amely a viktoriánus hadtörténelem lenyűgöző darabja.\nEste: Fejezze be a kerékpáros kalandot a békés Gelliswick-öbölben. Szálljon le, sétáljon a kavicsos parton, és élvezze az este nyugodt tengerparti hangulatát.",
+        "ro": "Dimineața: Ciclismul începe pe plina de viață Faleză Milford. Apoi vă veți parca bicicleta pentru a petrece o oră explorând colecțiile bogate ale Muzeului Milford Haven din apropiere.\nPrânz: O scurtă plimbare vă aduce sus la The Rath, unde vă puteți odihni pe iarbă și vă puteți bucura de un picnic. Apoi, coborâți spre Hakin Point pentru a observa traficul de coastă.\nDupă-amiaza: Cilați mai departe de-a lungul coastei pentru a admira rămășițele impunătoare ale Fortului Hubberstone, o parte fascinantă a istoriei militare victoriene.\nSeara: Încheiați aventura de ciclism la pașnicul Gelliswick Bay. Descălecați pentru a vă plimba pe plaja cu pietriș și a privi apele calme la apus.",
+        "en": "Morning: Pedaling starts at the lively Milford Waterfront, offering a gentle maritime warm-up. You'll then park your bike to spend an immersive hour exploring the rich collections of the nearby Milford Haven Museum.\nMidday: A short, breezy ride brings you up to The Rath, where you can rest on the grass and enjoy a picnic. Then, glide down towards Hakin Point to observe the coastal traffic.\nAfternoon: Cycle further along the coast to marvel at the imposing, overgrown remains of Fort Hubberstone, a fascinating slice of Victorian military history best seen from your saddle.\nEvening: End your cycling adventure at the peaceful Gelliswick Bay. Dismount to walk the pebble beach, skip stones into the calm waters, and enjoy the sunset."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 14.65,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "St. Peter & St. Cewydd",
+            "hu": "Szent Péter és Szent Cewydd Templom",
+            "ro": "Biserica Sf. Petru și Sf. Cewydd",
+            "en": "St. Peter & St. Cewydd"
+          },
+          "coords": [
+            -5.016585,
+            51.730336
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese alte Kirche, um ihr mittelalterliches Mauerwerk zu bewundern, und genießen Sie die Atmosphäre des historischen Friedhofs.",
+            "hu": "Látogasson el ebbe az ősi templomba, hogy megcsodálja középkori kőművesmunkáit, és élvezze a történelmi temető békés hangulatát.",
+            "ro": "Vizitați această biserică străveche pentru a admira frumoasa sa zidărie medievală și observați atmosfera pașnică a cimitirului istoric.",
+            "en": "Visit this ancient church steeped in local history to admire its beautiful medieval stonework and the peaceful atmosphere of its graveyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Milford Waterfront",
+            "hu": "Milford Vízpart",
+            "ro": "Faleza Milford",
+            "en": "Milford Waterfront"
+          },
+          "coords": [
+            -5.040702,
+            51.712584
+          ],
+          "category": "recreational",
+          "arrive_at": "09:56",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parken Sie zentral und schlendern Sie entlang des Jachthafens, um einen Kaffee in einem der Cafés am Wasser zu genießen.",
+            "hu": "Parkoljon központilag, és sétáljon végig a nyüzsgő kikötőben, hogy igyon egy kávét a vízparti kávézók egyikében.",
+            "ro": "Parcați central și plimbați-vă de-a lungul portului de agrement pentru a savura o cafea la una dintre cafenelele de pe mal.",
+            "en": "Park centrally and stroll along the bustling marina to grab a coffee at one of the waterside cafes while enjoying the nautical atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Milford Haven Museum",
+            "hu": "Milford Haven Múzeum",
+            "ro": "Muzeul Milford Haven",
+            "en": "Milford Haven Museum"
+          },
+          "coords": [
+            -5.0404,
+            51.7126
+          ],
+          "category": "museum",
+          "arrive_at": "11:07",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto stehen und entdecken Sie die reiche maritime Geschichte der Stadt in diesem alten Zollhaus.",
+            "hu": "Hagyja a környéken az autót, és fedezze fel a város gazdag tengerészeti történelmét ebben a régi vámházban.",
+            "ro": "Lăsați mașina și descoperiți istoria maritimă bogată a orașului în această veche vamă fascinantă.",
+            "en": "Leave the car parked and discover the town's rich maritime history and whaling past inside this fascinating old customs house."
+          }
+        },
+        {
+          "name": {
+            "de": "Gelliswick Bay",
+            "hu": "Gelliswick-öböl",
+            "ro": "Golful Gelliswick",
+            "en": "Gelliswick Bay"
+          },
+          "coords": [
+            -5.05955,
+            51.70778
+          ],
+          "category": "natural",
+          "arrive_at": "12:41",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Fahren Sie zu dieser geschützten Bucht und spazieren Sie am Kieselstrand, perfekt für eine ruhige Pause in der Natur.",
+            "hu": "Hajtson el ehhez a védett öbölhöz, és sétáljon a kavicsos strandon, amely tökéletes egy nyugodt természetközeli pihenéshez.",
+            "ro": "Conduceți spre acest golf adăpostit și plimbați-vă pe plaja cu pietriș, perfectă pentru o pauză liniștită în natură.",
+            "en": "Drive down to this sheltered bay and walk along the pebble beach, perfect for a quiet nature break away from the town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Sandy Haven Beach",
+            "hu": "Sandy Haven Strand",
+            "ro": "Plaja Sandy Haven",
+            "en": "Sandy Haven Beach"
+          },
+          "coords": [
+            -5.096389,
+            51.724298
+          ],
+          "category": "recreational",
+          "arrive_at": "13:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese weite Sandfläche, die ideal für Küstenwanderungen ist, aber achten Sie auf die Gezeiten bei der Flussüberquerung.",
+            "hu": "Fedezze fel ezt a széles homokos partszakaszt, de túrázáskor ügyeljen az árapály-patak átkelőjére, amely csak apálykor járható.",
+            "ro": "Descoperiți această întindere de nisip ideală pentru drumeții, fiind atenți la trecerea pârâului, accesibilă doar la reflux.",
+            "en": "Discover this wide sandy expanse ideal for a coastal hike, being mindful of the tidal stream crossing which is only accessible during low tide."
+          }
+        },
+        {
+          "name": {
+            "de": "Milford Haven Waterway",
+            "hu": "Milford Haven Vízi Út",
+            "ro": "Calea Navigabilă Milford Haven",
+            "en": "Milford Haven Waterway"
+          },
+          "coords": [
+            -5.011984,
+            51.698207
+          ],
+          "category": "natural",
+          "arrive_at": "15:24",
+          "stay_min": 81,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7,
+          "tip_5lang": {
+            "de": "Fahren Sie zu einem Aussichtspunkt, um den weiten Blick auf den Hafen und die riesigen vorbeifahrenden Tanker zu genießen.",
+            "hu": "Vezessen el egy kilátóponthoz, hogy gyönyörködjön a kikötőben és a hatalmas elhaladó tankerekben.",
+            "ro": "Conduceți spre un punct de belvedere pentru a vă bucura de priveliștile ample ale portului și ale petrolierelor uriașe care trec.",
+            "en": "Drive to a scenic spot to take in the expansive views of the harbor and fully appreciate the dramatic scale of the passing tankers."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie am Stadtrand bei der historischen Kirche St. Peter & St. Cewydd. Fahren Sie dann hinunter ins Herz der Stadt, um an der lebhaften Milford Waterfront zu schlendern.\nMittag: Lassen Sie das Auto geparkt, während Sie im Milford Haven Museum in das Erbe der Region eintauchen. Nach einem Mittagessen bringt Sie eine kurze Fahrt zur malerischen Gelliswick Bay.\nNachmittag: Navigieren Sie über die Küstenstraßen zu den weiten Sandflächen des Sandy Haven Beach. Hier können Sie sich auf einem langen Spaziergang die Beine vertreten.\nAbend: Für ein spektakuläres Finale fahren Sie zu einem Aussichtspunkt über den Milford Haven Waterway, wo Sie riesige Schiffe bei Einbruch der Dunkelheit beobachten können.",
+        "hu": "Délelőtt: Kezdjen a külvárosban, a történelmi Szent Péter és Szent Cewydd templomnál. Ezután hajtson be a város szívébe, hogy a nyüzsgő Milford Waterfront-on sétáljon.\nDél: Hagyja parkolni az autót, amíg elmerül a terület múltjában a múzeumban. Egy kiadós ebéd után egy gyors út a festői Gelliswick-öböl kavicsos partjaira viszi.\nDélután: Navigáljon a parti utakon a Sandy Haven Beach hatalmas homokos részéhez. Itt egy hosszú sétával kinyújthatja a lábait, ha az árapály engedi.\nEste: Látványos fináléként vezessen egy magaslati ponthoz, amely a Milford Haven vízi útra néz. Nézze meg, ahogy a hatalmas hajók navigálnak a szürkületben.",
+        "ro": "Dimineața: Începeți la periferie la biserica istorică Sf. Petru și Sf. Cewydd, o introducere senină. Conduceți apoi în inima orașului pentru a vă plimba pe vibranta Faleză Milford.\nPrânz: Lăsați mașina parcată în timp ce explorați moștenirea zonei la Muzeul Milford Haven. După un prânz copios, o scurtă călătorie vă duce la țărmurile pitorești ale Golfului Gelliswick.\nDupă-amiaza: Navigați pe drumurile de coastă către nisipurile întinse de la Sandy Haven Beach. Aici, vă puteți întinde picioarele la o plimbare lungă la reflux.\nSeara: Pentru un final spectaculos, conduceți la un punct înalt cu vedere la Milford Haven Waterway. Urmăriți navele colosale navigând pe măsură ce ziua se stinge.",
+        "en": "Morning: Begin on the outskirts at the historic church of St. Peter & St. Cewydd, a serene introduction. Drive down into the heart of town to stroll the vibrant Milford Waterfront and soak up the local harbor atmosphere.\nMidday: Leave the car parked while you delve into the area's whaling and fishing heritage at the Milford Haven Museum. After lunch, a quick drive takes you out to the scenic shores of Gelliswick Bay.\nAfternoon: Navigate the coastal roads to the expansive sands of Sandy Haven Beach. Here, you can stretch your legs on a long walk, provided the tide is low enough to safely cross the tidal stream.\nEvening: For a spectacular finale, drive to a high vantage point overlooking the Milford Haven Waterway. Watch colossal ships navigate one of the world's deepest natural harbors as the day fades into dusk."
+      }
+    }
+  }
+}

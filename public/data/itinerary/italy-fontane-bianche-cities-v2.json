@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-fontane-bianche-cities-v2",
+  "anchor": {
+    "name": "Fontane Bianche",
+    "coords": [
+      15.21278,
+      36.96551
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:36",
+      "total_km": 1.05,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di Maria Stella del Mare",
+            "hu": "Chiesa di Maria Stella del Mare",
+            "ro": "Chiesa di Maria Stella del Mare",
+            "en": "Chiesa di Maria Stella del Mare"
+          },
+          "coords": [
+            15.207607,
+            36.966855
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur dieser Küstenkirche, die als spiritueller Anker für die Gemeinde dient, und respektieren Sie die ruhige Atmosphäre während der Messe.",
+            "hu": "Csodálja meg ennek a tengerparti templomnak a modern építészetét, amely a helyi közösség spirituális központja, és tartsa tiszteletben a csendet a misék ideje alatt.",
+            "ro": "Admirați arhitectura modernă a acestei biserici de coastă, un adevărat reper spiritual al comunității locale, și respectați atmosfera liniștită în timpul slujbelor.",
+            "en": "Admire the modern architecture of this coastal church, which serves as a spiritual anchor for the local community, and respect the quiet atmosphere during mass times."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Camomilla",
+            "hu": "Lido Camomilla",
+            "ro": "Lido Camomilla",
+            "en": "Lido Camomilla"
+          },
+          "coords": [
+            15.21006,
+            36.964482
+          ],
+          "category": "recreational",
+          "arrive_at": "09:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Genießen Sie den weißen Sand und das kristallklare Wasser in diesem entspannenden Strandclub, aber vergessen Sie nicht, Ihre Liege in den Sommermonaten im Voraus zu buchen.",
+            "hu": "Élvezze az érintetlen fehér homokot és a kristálytiszta vizet ebben a nyugodt strandklubban, de a forgalmas nyári hónapokban ne felejtse el előre lefoglalni a napozóágyat.",
+            "ro": "Bucurați-vă de nisipul alb și de apele cristaline la acest club de plajă relaxant, însă asigurați-vă că vă rezervați șezlongul din timp în timpul lunilor aglomerate de vară.",
+            "en": "Enjoy the pristine white sands and crystal-clear waters at this relaxing beach club, but remember to book your sunbed in advance during the busy summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Fontane Bianche",
+            "hu": "Lido Fontane Bianche",
+            "ro": "Lido Fontane Bianche",
+            "en": "Lido Fontane Bianche"
+          },
+          "coords": [
+            15.206637,
+            36.961925
+          ],
+          "category": "recreational",
+          "arrive_at": "11:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erleben Sie das lebhafte Herz der Küste in diesem beliebten Resort, das für seine Süßwasserquellen bekannt ist, wo frühes Ankommen den besten Platz am Ufer garantiert.",
+            "hu": "Tapasztalja meg a partvidék pezsgő szívét ezen a népszerű, édesvizű forrásairól ismert strandon, ahol a korai érkezés garantálja a legjobb helyet közvetlenül a vízparton.",
+            "ro": "Descoperiți inima vibrantă a coastei la această stațiune faimoasă pentru izvoarele sale de apă dulce, unde o sosire matinală vă garantează cel mai bun loc lângă apă.",
+            "en": "Experience the lively heart of the coastline at this popular resort known for its fresh water springs, where arriving early guarantees the best spot near the shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Sayonara",
+            "hu": "Lido Sayonara",
+            "ro": "Lido Sayonara",
+            "en": "Lido Sayonara"
+          },
+          "coords": [
+            15.205382,
+            36.960456
+          ],
+          "category": "recreational",
+          "arrive_at": "12:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in dieser gut ausgestatteten Strandanlage mit tollen Angeboten für Familien, und probieren Sie unbedingt die erfrischende lokale Granita am Kiosk.",
+            "hu": "Kapcsolódjon ki ezen a jól felszerelt, családbarát szolgáltatásokat nyújtó strandon, és mindenképpen kóstolja meg a közeli vízparti kioszkban kapható hűsítő helyi granitát.",
+            "ro": "Relaxați-vă la această facilitate de plajă excelent dotată pentru familii și nu ratați ocazia de a gusta o granita locală răcoritoare la chioșcul situat pe faleză.",
+            "en": "Unwind at this well-equipped beach facility offering great amenities for families, and be sure to try the refreshing local granita available at the nearby seaside kiosk."
+          }
+        },
+        {
+          "name": {
+            "de": "Kukua Beach",
+            "hu": "Kukua Beach",
+            "ro": "Kukua Beach",
+            "en": "Kukua Beach"
+          },
+          "coords": [
+            15.204336,
+            36.960326
+          ],
+          "category": "recreational",
+          "arrive_at": "13:51",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie das elegante tropische Flair an diesem exklusiven Sandstrand mit fantastischem Sonnenuntergang, der perfekte Ort für einen abendlichen Aperitif am Meer.",
+            "hu": "Adja át magát az elegáns trópusi hangulatnak ezen az exkluzív homokos partszakaszon, amely tökéletes helyszínt biztosít egy esti tengerparti aperitif elfogyasztásához.",
+            "ro": "Bucurați-vă de atmosfera tropicală elegantă de pe această plajă exclusivistă cu apusuri superbe, locul ideal pentru a savura un aperitiv de seară pe malul mării.",
+            "en": "Soak up the elegant tropical vibe at this exclusive sandy stretch featuring fantastic sunset views, making it the perfect place to enjoy an evening aperitif by the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einem Besuch der schönen Küstenkirche Maria Stella del Mare, bevor Sie den weichen Sand des Lido Camomilla betreten. Mittags entspannen Sie unter der warmen sizilianischen Sonne und genießen die lebhafte Atmosphäre sowie das kristallklare Wasser des Lido Fontane Bianche. Am Nachmittag spazieren Sie gemütlich am Ufer entlang zum Lido Sayonara. Der Abend klingt elegant am Kukua Beach aus, wo Sie bei einem erfrischenden Cocktail am Meer den rosafarbenen Sonnenuntergang beobachten können.",
+        "hu": "A reggel a tengerparti Maria Stella del Mare templom meglátogatásával indul, amely békés hangulatot teremt a Lido Camomilla homokjának felfedezése előtt. A telet a szicíliai napfényben fürdőzve tölthetjük a Lido Fontane Bianche kristálytiszta vizénél és élénk partszakaszán. Délután tegyen egy kellemes sétát a vízparton, amíg el nem éri a Lido Sayonara barátságos környezetét. Az este a Kukua Beach trópusi hangulatában zárul, ahol a tengerparton ülve gyönyörködhet a csodálatos rózsaszínű naplementében.",
+        "ro": "Dimineața începe cu o vizită spirituală la frumoasa biserică Maria Stella del Mare, stabilind un ton pașnic înainte de a păși pe nisipul de la Lido Camomilla. La prânz, relaxați-vă sub soarele sicilian, bucurându-vă de atmosfera vibrantă și apele limpezi ale plajei Lido Fontane Bianche. După-amiaza aduce o plimbare liniștită de-a lungul țărmului până la mediul primitor de la Lido Sayonara. Seara se încheie elegant la Kukua Beach, unde puteți admira apusul spectaculos savurând un cocktail răcoritor pe malul mării.",
+        "en": "Morning begins with a spiritual visit to the beautiful coastal church of Maria Stella del Mare, setting a peaceful tone before stepping onto the soft sands of Lido Camomilla. Midday is spent relaxing under the warm Sicilian sun, enjoying the vibrant atmosphere and crystal-clear waters of Lido Fontane Bianche. In the afternoon, take a leisurely stroll down the shoreline to the welcoming environment of Lido Sayonara. The evening concludes gracefully at Kukua Beach, where you can watch the sky turn pink while enjoying a refreshing seaside cocktail."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:29",
+      "total_km": 3.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di San Giuseppe",
+            "hu": "Chiesa di San Giuseppe",
+            "ro": "Chiesa di San Giuseppe",
+            "en": "Chiesa di San Giuseppe"
+          },
+          "coords": [
+            15.197974,
+            36.976017
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante historische Pfarrkirche im nahegelegenen Dorf Cassibile, um das ruhige Innere zu bewundern, wobei Sie stets respektvoll leise sprechen sollten.",
+            "hu": "Látogasson el a közeli Cassibile falujában található hangulatos, történelmi plébániára, hogy megcsodálja békés belső terét, tiszteletben tartva annak szakrális jellegét.",
+            "ro": "Vizitați această parohie istorică fermecătoare din satul Cassibile pentru a-i admira interiorul senin, păstrând o atitudine liniștită într-un lăcaș de cult activ.",
+            "en": "Visit this charming historic parish in the nearby village of Cassibile to appreciate its serene interior, keeping your voice low as it remains an active place of worship."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre di Cassibile",
+            "hu": "Torre di Cassibile",
+            "ro": "Torre di Cassibile",
+            "en": "Torre di Cassibile"
+          },
+          "coords": [
+            15.192785,
+            36.973326
+          ],
+          "category": "landmark",
+          "arrive_at": "09:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieses alten Wehrturms, der einst die Küste vor Piraten schützte, und tragen Sie bequeme Schuhe, um das unebene Gelände sicher zu durchqueren.",
+            "hu": "Fedezze fel ennek az ősi védőtoronynak a maradványait, amely egykor kalózoktól védte a partot, és viseljen kényelmes cipőt a környék egyenetlen terepének bejárásához.",
+            "ro": "Explorați ruinele acestui vechi turn de apărare care proteja odată coasta de pirați și purtați încălțăminte confortabilă pentru a naviga pe terenul accidentat din jur.",
+            "en": "Explore the remnants of this ancient defensive tower that once protected the coastline from pirates, and wear comfortable walking shoes to navigate the uneven terrain around it."
+          }
+        },
+        {
+          "name": {
+            "de": "Presepe di cartapesta",
+            "hu": "Presepe di cartapesta",
+            "ro": "Presepe di cartapesta",
+            "en": "Presepe di cartapesta"
+          },
+          "coords": [
+            15.195725,
+            36.972481
+          ],
+          "category": "landmark",
+          "arrive_at": "11:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese aufwendige Weihnachtskrippe aus Pappmaché, die traditionelle sizilianische Handwerkskunst widerspiegelt, und achten Sie auf die bemerkenswerten Details.",
+            "hu": "Csodálja meg ezt a hagyományos szicíliai kézművességet tükröző, bonyolult papírmasé betlehemet, és szánjon időt a lenyűgözően aprólékos részletek megfigyelésére.",
+            "ro": "Minunați-vă de această scenă a nașterii complexă din papier-mâché ce reflectă măiestria siciliană, și luați-vă un moment pentru a observa atenția deosebită la detalii.",
+            "en": "Marvel at this intricate papier-mâché nativity scene reflecting traditional Sicilian craftsmanship, and take a moment to notice the remarkable attention to minute details."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Maria Stella del Mare",
+            "hu": "Chiesa di Maria Stella del Mare",
+            "ro": "Chiesa di Maria Stella del Mare",
+            "en": "Chiesa di Maria Stella del Mare"
+          },
+          "coords": [
+            15.207607,
+            36.966855
+          ],
+          "category": "religious",
+          "arrive_at": "12:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur dieser Küstenkirche, die als spiritueller Anker für die Gemeinde dient, und respektieren Sie die ruhige Atmosphäre während der Messe.",
+            "hu": "Csodálja meg ennek a tengerparti templomnak a modern építészetét, amely a helyi közösség spirituális központja, és tartsa tiszteletben a csendet a misék ideje alatt.",
+            "ro": "Admirați arhitectura modernă a acestei biserici de coastă, un adevărat reper spiritual al comunității locale, și respectați atmosfera liniștită în timpul slujbelor.",
+            "en": "Admire the modern architecture of this coastal church, which serves as a spiritual anchor for the local community, and respect the quiet atmosphere during mass times."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Fontane Bianche",
+            "hu": "Lido Fontane Bianche",
+            "ro": "Lido Fontane Bianche",
+            "en": "Lido Fontane Bianche"
+          },
+          "coords": [
+            15.206637,
+            36.961925
+          ],
+          "category": "recreational",
+          "arrive_at": "13:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erleben Sie das lebhafte Herz der Küste in diesem beliebten Resort, das für seine Süßwasserquellen bekannt ist, wo frühes Ankommen den besten Platz am Ufer garantiert.",
+            "hu": "Tapasztalja meg a partvidék pezsgő szívét ezen a népszerű, édesvizű forrásairól ismert strandon, ahol a korai érkezés garantálja a legjobb helyet közvetlenül a vízparton.",
+            "ro": "Descoperiți inima vibrantă a coastei la această stațiune faimoasă pentru izvoarele sale de apă dulce, unde o sosire matinală vă garantează cel mai bun loc lângă apă.",
+            "en": "Experience the lively heart of the coastline at this popular resort known for its fresh water springs, where arriving early guarantees the best spot near the shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Kukua Beach",
+            "hu": "Kukua Beach",
+            "ro": "Kukua Beach",
+            "en": "Kukua Beach"
+          },
+          "coords": [
+            15.204336,
+            36.960326
+          ],
+          "category": "recreational",
+          "arrive_at": "14:44",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie das elegante tropische Flair an diesem exklusiven Sandstrand mit fantastischem Sonnenuntergang, der perfekte Ort für einen abendlichen Aperitif am Meer.",
+            "hu": "Adja át magát az elegáns trópusi hangulatnak ezen az exkluzív homokos partszakaszon, amely tökéletes helyszínt biztosít egy esti tengerparti aperitif elfogyasztásához.",
+            "ro": "Bucurați-vă de atmosfera tropicală elegantă de pe această plajă exclusivistă cu apusuri superbe, locul ideal pentru a savura un aperitiv de seară pe malul mării.",
+            "en": "Soak up the elegant tropical vibe at this exclusive sandy stretch featuring fantastic sunset views, making it the perfect place to enjoy an evening aperitif by the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einer Radtour durch Cassibile, um die historische Chiesa di San Giuseppe und die alten Ruinen des Torre di Cassibile zu besichtigen. Mittags bewundern Sie die Handwerkskunst der Presepe di cartapesta, bevor Sie zur luftigen Küste radeln. Am Nachmittag besuchen Sie kurz die örtliche Kirche, bevor Sie sich am belebten Ufer des Lido Fontane Bianche entspannen. Der Abend endet perfekt am Kukua Beach, wo der Sonnenuntergang eine magische Kulisse für das Ende Ihres Fahrradabenteuers bietet.",
+        "hu": "Kezdje a reggelt egy kerékpártúrával Cassibile falujában, hogy meglátogassa a történelmi Chiesa di San Giuseppe-t és a Torre di Cassibile ősi romjait. Délben csodálja meg a hagyományos papírmasé betlehemet, mielőtt a szellős partvidék felé pedálozna. Délután tegyen egy rövid látogatást a helyi templomban, majd telepedjen le a Lido Fontane Bianche nyüzsgő partjainál. Az este tökéletesen zárul a Kukua Beach partszakaszán, ahol a csodás naplemente varázslatos hátteret biztosít kerékpáros kalandjának befejezéséhez.",
+        "ro": "Începeți dimineața pedalând prin Cassibile pentru a vizita istorica Chiesa di San Giuseppe și ruinele antice de la Torre di Cassibile. La prânz, admirați măiestria tradițională a Presepe di cartapesta înainte de a coborî spre coasta brizei marine. După-amiaza, faceți o scurtă vizită la biserica locală înainte de a vă relaxa pe țărmurile pline de viață ale Lido Fontane Bianche. Seara se încheie perfect la Kukua Beach, unde priveliștile apusului oferă un fundal magic pentru finalul aventurii dumneavoastră pe bicicletă.",
+        "en": "Start your morning cycling through the village of Cassibile to visit the historic Chiesa di San Giuseppe and the ancient ruins of Torre di Cassibile. Midday invites you to marvel at the traditional craftsmanship of the Presepe di cartapesta before pedaling down towards the breezy coastline. In the afternoon, pay a quick visit to the local church before settling down on the lively shores of Lido Fontane Bianche. The evening wraps up perfectly at Kukua Beach, where the sunset views provide a magical backdrop to the end of your cycling adventure."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 3.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Torre di Cassibile",
+            "hu": "Torre di Cassibile",
+            "ro": "Torre di Cassibile",
+            "en": "Torre di Cassibile"
+          },
+          "coords": [
+            15.192785,
+            36.973326
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieses alten Wehrturms, der einst die Küste vor Piraten schützte, und tragen Sie bequeme Schuhe, um das unebene Gelände sicher zu durchqueren.",
+            "hu": "Fedezze fel ennek az ősi védőtoronynak a maradványait, amely egykor kalózoktól védte a partot, és viseljen kényelmes cipőt a környék egyenetlen terepének bejárásához.",
+            "ro": "Explorați ruinele acestui vechi turn de apărare care proteja odată coasta de pirați și purtați încălțăminte confortabilă pentru a naviga pe terenul accidentat din jur.",
+            "en": "Explore the remnants of this ancient defensive tower that once protected the coastline from pirates, and wear comfortable walking shoes to navigate the uneven terrain around it."
+          }
+        },
+        {
+          "name": {
+            "de": "Presepe di cartapesta",
+            "hu": "Presepe di cartapesta",
+            "ro": "Presepe di cartapesta",
+            "en": "Presepe di cartapesta"
+          },
+          "coords": [
+            15.195725,
+            36.972481
+          ],
+          "category": "landmark",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese aufwendige Weihnachtskrippe aus Pappmaché, die traditionelle sizilianische Handwerkskunst widerspiegelt, und achten Sie auf die bemerkenswerten Details.",
+            "hu": "Csodálja meg ezt a hagyományos szicíliai kézművességet tükröző, bonyolult papírmasé betlehemet, és szánjon időt a lenyűgözően aprólékos részletek megfigyelésére.",
+            "ro": "Minunați-vă de această scenă a nașterii complexă din papier-mâché ce reflectă măiestria siciliană, și luați-vă un moment pentru a observa atenția deosebită la detalii.",
+            "en": "Marvel at this intricate papier-mâché nativity scene reflecting traditional Sicilian craftsmanship, and take a moment to notice the remarkable attention to minute details."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Giuseppe",
+            "hu": "Chiesa di San Giuseppe",
+            "ro": "Chiesa di San Giuseppe",
+            "en": "Chiesa di San Giuseppe"
+          },
+          "coords": [
+            15.197974,
+            36.976017
+          ],
+          "category": "religious",
+          "arrive_at": "11:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante historische Pfarrkirche im nahegelegenen Dorf Cassibile, um das ruhige Innere zu bewundern, wobei Sie stets respektvoll leise sprechen sollten.",
+            "hu": "Látogasson el a közeli Cassibile falujában található hangulatos, történelmi plébániára, hogy megcsodálja békés belső terét, tiszteletben tartva annak szakrális jellegét.",
+            "ro": "Vizitați această parohie istorică fermecătoare din satul Cassibile pentru a-i admira interiorul senin, păstrând o atitudine liniștită într-un lăcaș de cult activ.",
+            "en": "Visit this charming historic parish in the nearby village of Cassibile to appreciate its serene interior, keeping your voice low as it remains an active place of worship."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Maria Stella del Mare",
+            "hu": "Chiesa di Maria Stella del Mare",
+            "ro": "Chiesa di Maria Stella del Mare",
+            "en": "Chiesa di Maria Stella del Mare"
+          },
+          "coords": [
+            15.207607,
+            36.966855
+          ],
+          "category": "religious",
+          "arrive_at": "12:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur dieser Küstenkirche, die als spiritueller Anker für die Gemeinde dient, und respektieren Sie die ruhige Atmosphäre während der Messe.",
+            "hu": "Csodálja meg ennek a tengerparti templomnak a modern építészetét, amely a helyi közösség spirituális központja, és tartsa tiszteletben a csendet a misék ideje alatt.",
+            "ro": "Admirați arhitectura modernă a acestei biserici de coastă, un adevărat reper spiritual al comunității locale, și respectați atmosfera liniștită în timpul slujbelor.",
+            "en": "Admire the modern architecture of this coastal church, which serves as a spiritual anchor for the local community, and respect the quiet atmosphere during mass times."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Camomilla",
+            "hu": "Lido Camomilla",
+            "ro": "Lido Camomilla",
+            "en": "Lido Camomilla"
+          },
+          "coords": [
+            15.21006,
+            36.964482
+          ],
+          "category": "recreational",
+          "arrive_at": "13:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den weißen Sand und das kristallklare Wasser in diesem entspannenden Strandclub, aber vergessen Sie nicht, Ihre Liege in den Sommermonaten im Voraus zu buchen.",
+            "hu": "Élvezze az érintetlen fehér homokot és a kristálytiszta vizet ebben a nyugodt strandklubban, de a forgalmas nyári hónapokban ne felejtse el előre lefoglalni a napozóágyat.",
+            "ro": "Bucurați-vă de nisipul alb și de apele cristaline la acest club de plajă relaxant, însă asigurați-vă că vă rezervați șezlongul din timp în timpul lunilor aglomerate de vară.",
+            "en": "Enjoy the pristine white sands and crystal-clear waters at this relaxing beach club, but remember to book your sunbed in advance during the busy summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Fontane Bianche",
+            "hu": "Lido Fontane Bianche",
+            "ro": "Lido Fontane Bianche",
+            "en": "Lido Fontane Bianche"
+          },
+          "coords": [
+            15.206637,
+            36.961925
+          ],
+          "category": "recreational",
+          "arrive_at": "14:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erleben Sie das lebhafte Herz der Küste in diesem beliebten Resort, das für seine Süßwasserquellen bekannt ist, wo frühes Ankommen den besten Platz am Ufer garantiert.",
+            "hu": "Tapasztalja meg a partvidék pezsgő szívét ezen a népszerű, édesvizű forrásairól ismert strandon, ahol a korai érkezés garantálja a legjobb helyet közvetlenül a vízparton.",
+            "ro": "Descoperiți inima vibrantă a coastei la această stațiune faimoasă pentru izvoarele sale de apă dulce, unde o sosire matinală vă garantează cel mai bun loc lângă apă.",
+            "en": "Experience the lively heart of the coastline at this popular resort known for its fresh water springs, where arriving early guarantees the best spot near the shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Sayonara",
+            "hu": "Lido Sayonara",
+            "ro": "Lido Sayonara",
+            "en": "Lido Sayonara"
+          },
+          "coords": [
+            15.205382,
+            36.960456
+          ],
+          "category": "recreational",
+          "arrive_at": "15:49",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in dieser gut ausgestatteten Strandanlage mit tollen Angeboten für Familien, und probieren Sie unbedingt die erfrischende lokale Granita am Kiosk.",
+            "hu": "Kapcsolódjon ki ezen a jól felszerelt, családbarát szolgáltatásokat nyújtó strandon, és mindenképpen kóstolja meg a közeli vízparti kioszkban kapható hűsítő helyi granitát.",
+            "ro": "Relaxați-vă la această facilitate de plajă excelent dotată pentru familii și nu ratați ocazia de a gusta o granita locală răcoritoare la chioșcul situat pe faleză.",
+            "en": "Unwind at this well-equipped beach facility offering great amenities for families, and be sure to try the refreshing local granita available at the nearby seaside kiosk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie in den Tag hinein und erkunden Sie die historischen Ruinen des Torre di Cassibile und die faszinierende Ausstellung der Presepe di cartapesta im nahegelegenen Dorf. Der Mittag geht fließend von der ruhigen Chiesa di San Giuseppe zur Küstenruhe der Maria Stella del Mare über. Erleben Sie am Nachmittag die wahre Essenz der sizilianischen Küste mit entspannenden Stopps am Lido Camomilla und am Lido Fontane Bianche. Wenn der Abend hereinbricht, finden Sie am Lido Sayonara den perfekten Ort, um beim Rauschen der Wellen völlig abzuschalten.",
+        "hu": "Autózzon a napba a Torre di Cassibile történelmi védelmi romjainak és a közeli faluban található, lenyűgöző kézműves papírmasé betlehemnek a felfedezésével. A délidő kecsesen vált át a Chiesa di San Giuseppe csendes áhítatából a Maria Stella del Mare part menti nyugalmába. Délután tapasztalja meg a szicíliai tengerpart igazi esszenciáját a Lido Camomilla és a Lido Fontane Bianche pihentető megállóival. Ahogy leszáll az est, találja meg a tökéletes helyet a Lido Sayonara strandján a teljes kikapcsolódáshoz a hullámok hangja mellett.",
+        "ro": "Conduceți spre o nouă zi explorând ruinele defensive istorice de la Torre di Cassibile și fascinanta expoziție artizanală Presepe di cartapesta din satul vecin. Prânzul face o tranziție grațioasă de la reverența tăcută a Chiesa di San Giuseppe spre calmul de coastă al Mariei Stella del Mare. După-amiaza, experimentați adevărata esență a litoralului sicilian cu opriri relaxante la Lido Camomilla și Lido Fontane Bianche. Pe măsură ce se lasă seara, găsiți-vă locul perfect la Lido Sayonara pentru a vă deconecta complet ascultând valurile blânde.",
+        "en": "Drive into the day by exploring the historic defensive ruins of Torre di Cassibile and the fascinating artisanal display of the Presepe di cartapesta in the nearby village. Midday transitions gracefully from the quiet reverence of Chiesa di San Giuseppe down to the coastal calm of Maria Stella del Mare. In the afternoon, experience the true essence of the Sicilian seaside with relaxing stops at Lido Camomilla and Lido Fontane Bianche. As evening descends, find your perfect spot at Lido Sayonara to unwind completely as the gentle waves roll in."
+      }
+    }
+  }
+}

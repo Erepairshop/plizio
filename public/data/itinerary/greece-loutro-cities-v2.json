@@ -1,0 +1,451 @@
+{
+  "city_id": "greece-loutro-cities-v2",
+  "anchor": {
+    "name": "Loutro",
+    "coords": [
+      24.07858,
+      35.20001
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:43",
+      "total_km": 2.55,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Koules of Loutros",
+            "hu": "Koules of Loutros",
+            "ro": "Koules of Loutros",
+            "en": "Koules of Loutros"
+          },
+          "coords": [
+            24.07747,
+            35.197764
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieser alten Festung mit Blick auf die Bucht, um die lokale Seefahrtsgeschichte zu verstehen, und tragen Sie feste Schuhe für den unebenen Weg.",
+            "hu": "Fedezze fel az öbölre néző ősi erőd romjait a helyi tengerészeti történelem megismeréséhez, és viseljen erős cipőt az egyenetlen tengerparti ösvényen.",
+            "ro": "Explorați ruinele acestei cetăți antice cu vedere la golf pentru a înțelege istoria maritimă locală și purtați încălțăminte rezistentă pentru poteca stâncoasă.",
+            "en": "Explore the ruins of this ancient fortress overlooking the bay to understand local maritime history, and wear sturdy shoes for the uneven coastal path."
+          }
+        },
+        {
+          "name": {
+            "de": "Kastella",
+            "hu": "Kastella",
+            "ro": "Kastella",
+            "en": "Kastella"
+          },
+          "coords": [
+            24.080882,
+            35.197075
+          ],
+          "category": "castle",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese strategische Befestigung aus der venezianischen Zeit am Naturhafen und bringen Sie Ihre Kamera für spektakuläre Panoramen des Libyschen Meeres mit.",
+            "hu": "Fedezze fel ezt a stratégiai velencei kori erődítményt a természetes kikötőnél, és hozza magával fényképezőgépét a Líbiai-tenger látványos panorámájáért.",
+            "ro": "Descoperiți această fortificație strategică din epoca venețiană din portul natural și aduceți aparatul foto pentru panorame spectaculoase ale Mării Libiei.",
+            "en": "Discover this strategic Venetian-era fortification that guarded the natural harbor, and bring your camera for spectacular panoramas of the Libyan Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Finikas Beach",
+            "hu": "Finikas strand",
+            "ro": "Plaja Finikas",
+            "en": "Finikas Beach"
+          },
+          "coords": [
+            24.072466,
+            35.19977
+          ],
+          "category": "recreational",
+          "arrive_at": "12:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.82,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den Kieselstränden dieser ruhigen Bucht mit kristallklarem Wasser und packen Sie einen Schnorchel ein, um die Meeresbewohner zu beobachten.",
+            "hu": "Pihenjen meg ennek a kristálytiszta vizű, csendes öbölnek a kavicsos partján, és csomagoljon búvármaszkot a part menti tengeri élővilág felfedezéséhez.",
+            "ro": "Relaxați-vă pe țărmurile cu pietriș ale acestui golf liniștit cu ape cristaline și luați un tub de snorkeling pentru a explora viața marină de pe coastă.",
+            "en": "Relax on the pebble shores of this tranquil cove with crystal-clear waters, and pack a snorkel to explore the vibrant marine life just off the coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Lycos Beach",
+            "hu": "Lycos strand",
+            "ro": "Plaja Lycos",
+            "en": "Lycos Beach"
+          },
+          "coords": [
+            24.067646,
+            35.200507
+          ],
+          "category": "recreational",
+          "arrive_at": "13:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Genießen Sie die raue Schönheit dieser abgelegenen Bucht inmitten beeindruckender Klippen und kommen Sie früh, um einen Platz unter den Tamarisken zu ergattern.",
+            "hu": "Élvezze a lenyűgöző sziklákkal körülvett csendes öböl zord szépségét, és érkezzen korán, hogy jó helyet szerezzen a tamariszkuszfák alatt.",
+            "ro": "Bucurați-vă de frumusețea accidentată a acestui golf retras înconjurat de stânci impresionante și ajungeți devreme pentru un loc bun sub tamarix.",
+            "en": "Enjoy the secluded and rugged beauty of this quiet bay surrounded by impressive cliffs, and arrive early to claim a good spot under the tamarisk trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Marmara Beach",
+            "hu": "Marmara strand",
+            "ro": "Plaja Marmara",
+            "en": "Marmara Beach"
+          },
+          "coords": [
+            24.058135,
+            35.196638
+          ],
+          "category": "recreational",
+          "arrive_at": "14:58",
+          "stay_min": 105,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.96,
+          "tip_5lang": {
+            "de": "Schwimmen Sie in den herrlichen azurblauen Gewässern am Ausgang der Aradena-Schlucht und nutzen Sie die lokale Taverne für einen erfrischenden griechischen Salat.",
+            "hu": "Ússzon egyet az Aradena-szurdok kijáratánál lévő lenyűgöző azúrkék vizekben, és használja ki a helyi tavernát egy frissítő görög salátára.",
+            "ro": "Înotați în apele azurii uimitoare de la ieșirea din defileul Aradena și profitați de taverna locală pentru o salată grecească revigorantă după baie.",
+            "en": "Swim in the stunning azure waters at the exit of the Aradena Gorge, and take advantage of the local taverna for a refreshing post-swim Greek salad."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit den historischen Befestigungsanlagen, die die Bucht von Loutro bewachen. Mittags locken die ruhigen Kieselstrände der nahegelegenen Buchten zu einem erfrischenden Bad. Am Nachmittag erkunden Sie abgeschiedenere Küstenabschnitte unter steilen Klippen. Lassen Sie den Abend am herrlichen Marmara-Strand ausklingen und beobachten Sie den Sonnenuntergang.",
+        "hu": "Kezdje a reggelt a Loutro öblét őrző történelmi erődítmények felfedezésével. A délidő a közeli öblök csendes kavicsos partjaira csábít egy frissítő fürdőzésre. Délután fedezze fel a tornyosuló sziklák alatt megbúvó eldugottabb strandokat. Zárja az estét a csodálatos Marmara strandon, figyelve a tenger feletti csodás naplementét.",
+        "ro": "Începeți dimineața printre fortificațiile istorice care păzesc golful Loutro. La prânz, ajungeți pe țărmurile liniștite ale golfurilor din apropiere pentru o baie revigorantă. După-amiaza, explorați plaje mai izolate ascunse sub stânci impunătoare. Încheiați seara la magnifica plajă Marmara, admirând apusul soarelui peste întinderea mării.",
+        "en": "Begin your morning wandering among the historic fortifications guarding Loutro's scenic bay. Midday brings you to the tranquil pebble shores of nearby coves for a refreshing dip. In the afternoon, explore more secluded beaches tucked beneath towering cliffs. Conclude your evening at the magnificent Marmara Beach, watching the spectacular sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:57",
+      "total_km": 4.76,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kastella",
+            "hu": "Kastella",
+            "ro": "Kastella",
+            "en": "Kastella"
+          },
+          "coords": [
+            24.080882,
+            35.197075
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese strategische Befestigung aus der venezianischen Zeit am Naturhafen und bringen Sie Ihre Kamera für spektakuläre Panoramen des Libyschen Meeres mit.",
+            "hu": "Fedezze fel ezt a stratégiai velencei kori erődítményt a természetes kikötőnél, és hozza magával fényképezőgépét a Líbiai-tenger látványos panorámájáért.",
+            "ro": "Descoperiți această fortificație strategică din epoca venețiană din portul natural și aduceți aparatul foto pentru panorame spectaculoase ale Mării Libiei.",
+            "en": "Discover this strategic Venetian-era fortification that guarded the natural harbor, and bring your camera for spectacular panoramas of the Libyan Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Koules of Loutros",
+            "hu": "Koules of Loutros",
+            "ro": "Koules of Loutros",
+            "en": "Koules of Loutros"
+          },
+          "coords": [
+            24.07747,
+            35.197764
+          ],
+          "category": "castle",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieser alten Festung mit Blick auf die Bucht, um die lokale Seefahrtsgeschichte zu verstehen, und tragen Sie feste Schuhe für den unebenen Weg.",
+            "hu": "Fedezze fel az öbölre néző ősi erőd romjait a helyi tengerészeti történelem megismeréséhez, és viseljen erős cipőt az egyenetlen tengerparti ösvényen.",
+            "ro": "Explorați ruinele acestei cetăți antice cu vedere la golf pentru a înțelege istoria maritimă locală și purtați încălțăminte rezistentă pentru poteca stâncoasă.",
+            "en": "Explore the ruins of this ancient fortress overlooking the bay to understand local maritime history, and wear sturdy shoes for the uneven coastal path."
+          }
+        },
+        {
+          "name": {
+            "de": "Finikas Beach",
+            "hu": "Finikas strand",
+            "ro": "Plaja Finikas",
+            "en": "Finikas Beach"
+          },
+          "coords": [
+            24.072466,
+            35.19977
+          ],
+          "category": "recreational",
+          "arrive_at": "11:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.52,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den Kieselstränden dieser ruhigen Bucht mit kristallklarem Wasser und packen Sie einen Schnorchel ein, um die Meeresbewohner zu beobachten.",
+            "hu": "Pihenjen meg ennek a kristálytiszta vizű, csendes öbölnek a kavicsos partján, és csomagoljon búvármaszkot a part menti tengeri élővilág felfedezéséhez.",
+            "ro": "Relaxați-vă pe țărmurile cu pietriș ale acestui golf liniștit cu ape cristaline și luați un tub de snorkeling pentru a explora viața marină de pe coastă.",
+            "en": "Relax on the pebble shores of this tranquil cove with crystal-clear waters, and pack a snorkel to explore the vibrant marine life just off the coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Ancient Anopolis",
+            "hu": "Ősi Anopolis",
+            "ro": "Vechiul Anopolis",
+            "en": "Ancient Anopolis"
+          },
+          "coords": [
+            24.084714,
+            35.212819
+          ],
+          "category": "historical",
+          "arrive_at": "13:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die Ruinen dieser einst mächtigen unabhängigen Stadt, um das Echo der Vergangenheit zu spüren, und folgen Sie den markierten Wegen.",
+            "hu": "Barangoljon ennek az egykor független városnak a romjai között, hogy átérezze a múlt visszhangját, és kövesse a kijelölt ösvényeket az eltévedés elkerülése végett.",
+            "ro": "Plimbați-vă prin ruinele antice ale acestui oraș puternic independent pentru a simți ecourile trecutului și urmați traseele marcate pentru a nu vă rătăci.",
+            "en": "Wander through the ancient ruins of this powerful independent city to feel the echoes of the past, and follow the marked trails to avoid getting lost."
+          }
+        },
+        {
+          "name": {
+            "de": "Mikros Koules of Loutros",
+            "hu": "Mikros Koules of Loutros",
+            "ro": "Mikros Koules of Loutros",
+            "en": "Mikros Koules of Loutros"
+          },
+          "coords": [
+            24.087275,
+            35.212307
+          ],
+          "category": "castle",
+          "arrive_at": "14:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diesen kleineren, aber faszinierenden Turm über dem Dorf und besuchen Sie ihn am späten Nachmittag für das beste Fotolicht.",
+            "hu": "Vizsgálja meg ezt a falu felett magasodó kisebb, de lenyűgöző romos tornyot, és látogasson el ide késő délután a tökéletes fotókhoz.",
+            "ro": "Investigați acest turn ruinat, mai mic dar la fel de fascinant, și vizitați-l după-amiaza târziu pentru a surprinde lumina caldă a soarelui.",
+            "en": "Investigate this smaller but equally fascinating ruined tower above the village, and visit during the late afternoon to capture the golden hour lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Timios Stavros beach",
+            "hu": "Timios Stavros strand",
+            "ro": "Plaja Timios Stavros",
+            "en": "Timios Stavros beach"
+          },
+          "coords": [
+            24.099814,
+            35.198632
+          ],
+          "category": "recreational",
+          "arrive_at": "16:12",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.88,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem friedlichen Küstenabschnitt abseits der Massen und bringen Sie unbedingt viel Wasser mit, da es hier keine Einrichtungen gibt.",
+            "hu": "Töltődjön fel ezen a tömegtől mentes, békés partszakaszon, és ne felejtsen el sok vizet hozni, mivel a szolgáltatások itt hiányoznak.",
+            "ro": "Relaxați-vă pe această porțiune liniștită de coastă care oferă o evadare perfectă și nu uitați să aduceți multă apă, deoarece facilitățile sunt rare.",
+            "en": "Unwind on this peaceful stretch of coast that offers a perfect escape from the crowds, and remember to bring plenty of water as facilities are sparse."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zu den venezianischen Ruinen an der Küste und genießen Sie den atemberaubenden Meerblick. Gegen Mittag radeln Sie zu den ruhigen Gewässern der Bucht, bevor Sie in die Hügel fahren, um antike Geschichte zu erleben. Am Nachmittag erkunden Sie alte Wachtürme hoch über dem Dorf. Den entspannten Abschluss des Tages bildet ein unberührter, ruhiger Strand abseits des Trubels.",
+        "hu": "Reggel tekerjen el a tengerparti velencei romokhoz, és élvezze a lélegzetelállító kilátást. Dél körül bringázzon át a közeli öböl csendes vizeihez, mielőtt felkapaszkodna a hegyekbe a történelmi emlékekhez. Délután fedezze fel a falu feletti ősi őrtornyokat. A nap békés lezárásaként egy érintetlen, nyüzsgéstől mentes strandon pihenhet meg a vízparton.",
+        "ro": "Pedalați dimineața către ruinele venețiene de pe coastă pentru a vă bucura de vederi uluitoare. În jurul prânzului, mergeți spre apele liniștite ale golfului înainte de a urca pe dealuri pentru istorie antică. După-amiaza, explorați vechile turnuri de veghe de deasupra satului. Încheiați ziua relaxant pe o plajă virgină, complet izolată de agitație.",
+        "en": "Ride to the coastal Venetian ruins in the morning, enjoying breathtaking sea views along the way. Around midday, cycle to the tranquil waters of the bay before heading into the hills for ancient history. In the afternoon, explore old watchtowers perched high above the village. A peaceful, crowd-free beach provides the perfect relaxing conclusion to your active day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:47",
+      "total_km": 6.57,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ancient Anopolis",
+            "hu": "Ősi Anopolis",
+            "ro": "Vechiul Anopolis",
+            "en": "Ancient Anopolis"
+          },
+          "coords": [
+            24.084714,
+            35.212819
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die Ruinen dieser einst mächtigen unabhängigen Stadt, um das Echo der Vergangenheit zu spüren, und folgen Sie den markierten Wegen.",
+            "hu": "Barangoljon ennek az egykor független városnak a romjai között, hogy átérezze a múlt visszhangját, és kövesse a kijelölt ösvényeket az eltévedés elkerülése végett.",
+            "ro": "Plimbați-vă prin ruinele antice ale acestui oraș puternic independent pentru a simți ecourile trecutului și urmați traseele marcate pentru a nu vă rătăci.",
+            "en": "Wander through the ancient ruins of this powerful independent city to feel the echoes of the past, and follow the marked trails to avoid getting lost."
+          }
+        },
+        {
+          "name": {
+            "de": "Mikros Koules of Loutros",
+            "hu": "Mikros Koules of Loutros",
+            "ro": "Mikros Koules of Loutros",
+            "en": "Mikros Koules of Loutros"
+          },
+          "coords": [
+            24.087275,
+            35.212307
+          ],
+          "category": "castle",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diesen kleineren, aber faszinierenden Turm über dem Dorf und besuchen Sie ihn am späten Nachmittag für das beste Fotolicht.",
+            "hu": "Vizsgálja meg ezt a falu felett magasodó kisebb, de lenyűgöző romos tornyot, és látogasson el ide késő délután a tökéletes fotókhoz.",
+            "ro": "Investigați acest turn ruinat, mai mic dar la fel de fascinant, și vizitați-l după-amiaza târziu pentru a surprinde lumina caldă a soarelui.",
+            "en": "Investigate this smaller but equally fascinating ruined tower above the village, and visit during the late afternoon to capture the golden hour lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Kambia Koules",
+            "hu": "Kambia Koules",
+            "ro": "Kambia Koules",
+            "en": "Kambia Koules"
+          },
+          "coords": [
+            24.10107,
+            35.210414
+          ],
+          "category": "castle",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.26,
+          "tip_5lang": {
+            "de": "Genießen Sie die dramatischen Küstenausblicke von diesem weniger bekannten osmanischen Blockhaus und treten Sie vorsichtig auf die unebenen Steine.",
+            "hu": "Gyönyörködjön a drámai parti kilátásban ebből a kevésbé ismert oszmán blokkházból, és lépkedjen óvatosan a fűben heverő kövek között.",
+            "ro": "Bucurați-vă de priveliștile dramatice ale coastei din acest fort otoman mai puțin cunoscut și pășiți cu grijă printre pietrele neexcavate.",
+            "en": "Take in the dramatic coastal views from this lesser-known Ottoman blockhouse, and step carefully around the unexcavated stones scattered in the grass."
+          }
+        },
+        {
+          "name": {
+            "de": "Timios Stavros beach",
+            "hu": "Timios Stavros strand",
+            "ro": "Plaja Timios Stavros",
+            "en": "Timios Stavros beach"
+          },
+          "coords": [
+            24.099814,
+            35.198632
+          ],
+          "category": "recreational",
+          "arrive_at": "13:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem friedlichen Küstenabschnitt abseits der Massen und bringen Sie unbedingt viel Wasser mit, da es hier keine Einrichtungen gibt.",
+            "hu": "Töltődjön fel ezen a tömegtől mentes, békés partszakaszon, és ne felejtsen el sok vizet hozni, mivel a szolgáltatások itt hiányoznak.",
+            "ro": "Relaxați-vă pe această porțiune liniștită de coastă care oferă o evadare perfectă și nu uitați să aduceți multă apă, deoarece facilitățile sunt rare.",
+            "en": "Unwind on this peaceful stretch of coast that offers a perfect escape from the crowds, and remember to bring plenty of water as facilities are sparse."
+          }
+        },
+        {
+          "name": {
+            "de": "Kastella",
+            "hu": "Kastella",
+            "ro": "Kastella",
+            "en": "Kastella"
+          },
+          "coords": [
+            24.080882,
+            35.197075
+          ],
+          "category": "castle",
+          "arrive_at": "14:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.71,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese strategische Befestigung aus der venezianischen Zeit am Naturhafen und bringen Sie Ihre Kamera für spektakuläre Panoramen des Libyschen Meeres mit.",
+            "hu": "Fedezze fel ezt a stratégiai velencei kori erődítményt a természetes kikötőnél, és hozza magával fényképezőgépét a Líbiai-tenger látványos panorámájáért.",
+            "ro": "Descoperiți această fortificație strategică din epoca venețiană din portul natural și aduceți aparatul foto pentru panorame spectaculoase ale Mării Libiei.",
+            "en": "Discover this strategic Venetian-era fortification that guarded the natural harbor, and bring your camera for spectacular panoramas of the Libyan Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Marmara Beach",
+            "hu": "Marmara strand",
+            "ro": "Plaja Marmara",
+            "en": "Marmara Beach"
+          },
+          "coords": [
+            24.058135,
+            35.196638
+          ],
+          "category": "recreational",
+          "arrive_at": "16:02",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.06,
+          "tip_5lang": {
+            "de": "Schwimmen Sie in den herrlichen azurblauen Gewässern am Ausgang der Aradena-Schlucht und nutzen Sie die lokale Taverne für einen erfrischenden griechischen Salat.",
+            "hu": "Ússzon egyet az Aradena-szurdok kijáratánál lévő lenyűgöző azúrkék vizekben, és használja ki a helyi tavernát egy frissítő görög salátára.",
+            "ro": "Înotați în apele azurii uimitoare de la ieșirea din defileul Aradena și profitați de taverna locală pentru o salată grecească revigorantă după baie.",
+            "en": "Swim in the stunning azure waters at the exit of the Aradena Gorge, and take advantage of the local taverna for a refreshing post-swim Greek salad."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Autotour in den Bergen bei der antiken Stätte Anopolis mit ihren historischen Wachtürmen. Fahren Sie zur Mittagszeit an die Küste hinab und entspannen Sie sich an einem abgelegenen, friedlichen Sandstreifen. Der Nachmittag bietet eine malerische Fahrt zu alten venezianischen Festungen, die direkt am Wasser liegen. Ihr Tag endet perfekt an den spektakulären Klippen und Buchten des Marmara-Strandes.",
+        "hu": "Kezdje autós túráját a hegyekben az ősi Anopolis lelőhelyénél és a történelmi őrtornyoknál. Ebédidőben ereszkedjen le a tengerparthoz, és pihenjen meg egy eldugott, békés partszakaszon. A délután festői autózást kínál a közvetlenül a vízparton álló régi velencei erődítményekhez. A nap a Marmara strand látványos szikláinál és öblénél zárul tökéletesen.",
+        "ro": "Începeți turul cu mașina în munți, la situl antic Anopolis și turnurile sale de veghe. Coborâți spre coastă la prânz și relaxați-vă pe o fâșie izolată și pașnică de țărm. După-amiaza oferă o plimbare pitorească spre vechile fortărețe venețiene așezate direct pe malul apei. Ziua dumneavoastră se termină perfect la stâncile și golfurile spectaculoase de pe plaja Marmara.",
+        "en": "Begin your driving tour in the hills at the ancient site of Anopolis and its historic watchtowers. Descend to the coast at midday and relax on an isolated, peaceful stretch of shore. The afternoon provides a scenic drive to old Venetian fortresses sitting directly on the waterfront. Your day finishes perfectly at the spectacular cliffs and cove of Marmara Beach."
+      }
+    }
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "city_id": "thuir",
+  "anchor": {
+    "name": "Thuir",
+    "coords": [
+      2.7564,
+      42.6319
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:49",
+      "total_km": 1.57,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Place de la République",
+            "hu": "Place de la République",
+            "ro": "Place de la République",
+            "en": "Place de la République"
+          },
+          "coords": [
+            2.757019,
+            42.632288
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag auf diesem belebten, von Platanen gesäumten zentralen Platz, wo Sie einen schnellen Espresso vor der Erkundung genießen können.",
+            "hu": "Kezdje a napot ezen a nyüzsgő, platánfákkal szegélyezett központi téren, ahol érdemes meginni egy gyors eszpresszót a város felfedezése előtt.",
+            "ro": "Începeți-vă ziua în această piață centrală plină de viață, străjuită de platani, unde este recomandat să savurați un espresso rapid.",
+            "en": "Start your day at this lively central square lined with plane trees, where you can grab a quick morning espresso before exploring Thuir."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame-de-la-Victoire",
+            "hu": "Notre-Dame-de-la-Victoire templom",
+            "ro": "Biserica Notre-Dame-de-la-Victoire",
+            "en": "Church of Notre-Dame-de-la-Victoire"
+          },
+          "coords": [
+            2.755067,
+            42.633141
+          ],
+          "category": "religious",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur und das ruhige Innere dieser historischen Pfarrkirche und achten Sie beim Betreten auf angemessene Kleidung.",
+            "hu": "Csodálja meg a történelmi plébániatemplom lenyűgöző építészetét és békés belső terét, de a belépéskor ügyeljen a tiszteletteljes öltözködésre.",
+            "ro": "Admirați arhitectura impresionantă și interiorul liniștit al acestei biserici parohiale istorice, având grijă să purtați o ținută respectuoasă.",
+            "en": "Admire the striking architecture and serene interior of this historic parish church, and remember to wear respectable attire when entering the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Caves Byrrh",
+            "hu": "Caves Byrrh",
+            "ro": "Caves Byrrh",
+            "en": "Caves Byrrh"
+          },
+          "coords": [
+            2.75645,
+            42.635523
+          ],
+          "category": "museum",
+          "arrive_at": "10:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Entdecken Sie das größte Eichenfass der Welt in diesem berühmten Aperitif-Keller aus dem 19. Jahrhundert, aber buchen Sie Ihre Führung frühzeitig.",
+            "hu": "Fedezze fel a világ legnagyobb tölgyfahordóját ebben a híres 19. századi aperitif-pincében, de a kóstolóval egybekötött túrát jó előre foglalja le.",
+            "ro": "Descoperiți cel mai mare butoi de stejar din lume în această cramă faimoasă de aperitive, dar rezervați-vă turul cu degustare cu mult timp înainte.",
+            "en": "Discover the world's largest oak vat at this iconic 19th-century apéritif cellar, but be sure to book your guided tasting tour well in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Palauda",
+            "hu": "Villa Palauda",
+            "ro": "Villa Palauda",
+            "en": "Villa Palauda"
+          },
+          "coords": [
+            2.759137,
+            42.636716
+          ],
+          "category": "historical",
+          "arrive_at": "12:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise bei der Erkundung dieser eleganten historischen Villa mit ihren üppigen Gärten, die im Nachmittagslicht am besten wirkt.",
+            "hu": "Lépjen vissza az időben ezen a buja kertekkel körülvett elegáns történelmi kúrián, amelyet a legszebben a délutáni lágy fényekben lehet lefotózni.",
+            "ro": "Întoarceți-vă în timp explorând acest conac istoric elegant, înconjurat de grădini luxuriante, ideal de fotografiat în lumina blândă a după-amiezii.",
+            "en": "Step back in time as you explore this elegant historical mansion surrounded by lush gardens, which is best photographed in the soft afternoon sunlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Sébastien-Kapelle",
+            "hu": "Saint-Sébastien kápolna",
+            "ro": "Capela Saint-Sébastien",
+            "en": "Saint-Sébastien Chapel"
+          },
+          "coords": [
+            2.760256,
+            42.629106
+          ],
+          "category": "religious",
+          "arrive_at": "13:39",
+          "stay_min": 70,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Erleben Sie einen Moment der Ruhe in dieser charmanten mittelalterlichen Kapelle etwas abseits der Touristenpfade, perfekt für eine kleine Auszeit.",
+            "hu": "Éljen át egy pillanatnyi nyugalmat ebben a bájos, kissé eldugott középkori kápolnában, amely tökéletes helyszín egy békés délutáni visszavonuláshoz.",
+            "ro": "Bucurați-vă de un moment de liniște la această capelă medievală fermecătoare, ușor retrasă, perfectă pentru o retragere pașnică după-amiaza.",
+            "en": "Experience a moment of tranquility at this charming medieval chapel located slightly off the beaten path, perfect for a peaceful afternoon retreat."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittag: Beginnen Sie an der lebhaften Place de la République, bewundern Sie die nahegelegene Kirche Notre-Dame-de-la-Victoire und erkunden Sie die ikonischen Caves Byrrh.\nMittag: Schlendern Sie zur eleganten Villa Palauda und nehmen Sie sich Zeit, die historische Architektur und die wunderschönen Gärten zu genießen.\nNachmittag: Setzen Sie Ihren Spaziergang etwas weiter südlich fort, um den ruhigen mittelalterlichen Charme der Saint-Sébastien-Kapelle zu entdecken.\nAbend: Beenden Sie Ihren gemütlichen Rundgang mit einem entspannten Spaziergang durch die stimmungsvollen Gassen der Altstadt.",
+        "hu": "Délelőtt: Kezdje a nyüzsgő Place de la République-en, majd csodálja meg a közeli Notre-Dame-de-la-Victoire templomot, és fedezze fel a híres Caves Byrrh-t.\nDél: Sétáljon át az elegáns Villa Palaudához, és szánjon időt a történelmi építészet, valamint a gyönyörű kerti környezet megcsodálására.\nDélután: Folytassa sétáját egy kicsit dél felé, hogy felfedezze a Saint-Sébastien kápolna békés középkori varázsát.\nEste: Zárja a kényelmes sétát egy kellemes barangolással az óváros hangulatos, macskaköves utcáin, és keressen egy jó helyet a pihenésre.",
+        "ro": "Dimineața: Începeți în animata Place de la République, apoi admirați Biserica Notre-Dame-de-la-Victoire și explorați iconicele crame Byrrh.\nPrânz: Plimbați-vă până la eleganta Villa Palauda, luându-vă timp pentru a aprecia arhitectura sa istorică și împrejurimile superbe ale grădinii.\nDupă-amiaza: Continuați plimbarea ușor spre sud pentru a descoperi farmecul medieval senin al Capelei Saint-Sébastien.\nSeara: Încheiați-vă turul pietonal cu o plimbare relaxantă înapoi prin străzile pline de atmosferă ale orașului vechi.",
+        "en": "Morning: Start at the lively Place de la République, then admire the nearby Church of Notre-Dame-de-la-Victoire and explore the iconic Caves Byrrh.\nMidday: Stroll over to the elegant Villa Palauda, taking your time to appreciate its historic architecture and beautiful garden surroundings.\nAfternoon: Continue your walk slightly south to discover the serene medieval charm of the Saint-Sébastien Chapel.\nEvening: Conclude your gentle walking tour with a leisurely stroll back through the old town's atmospheric streets, finding a cozy spot to relax."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:53",
+      "total_km": 5.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Place de la République",
+            "hu": "Place de la République",
+            "ro": "Place de la République",
+            "en": "Place de la République"
+          },
+          "coords": [
+            2.757019,
+            42.632288
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag auf diesem belebten, von Platanen gesäumten zentralen Platz, wo Sie einen schnellen Espresso vor der Erkundung genießen können.",
+            "hu": "Kezdje a napot ezen a nyüzsgő, platánfákkal szegélyezett központi téren, ahol érdemes meginni egy gyors eszpresszót a város felfedezése előtt.",
+            "ro": "Începeți-vă ziua în această piață centrală plină de viață, străjuită de platani, unde este recomandat să savurați un espresso rapid.",
+            "en": "Start your day at this lively central square lined with plane trees, where you can grab a quick morning espresso before exploring Thuir."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame-de-la-Victoire",
+            "hu": "Notre-Dame-de-la-Victoire templom",
+            "ro": "Biserica Notre-Dame-de-la-Victoire",
+            "en": "Church of Notre-Dame-de-la-Victoire"
+          },
+          "coords": [
+            2.755067,
+            42.633141
+          ],
+          "category": "religious",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur und das ruhige Innere dieser historischen Pfarrkirche und achten Sie beim Betreten auf angemessene Kleidung.",
+            "hu": "Csodálja meg a történelmi plébániatemplom lenyűgöző építészetét és békés belső terét, de a belépéskor ügyeljen a tiszteletteljes öltözködésre.",
+            "ro": "Admirați arhitectura impresionantă și interiorul liniștit al acestei biserici parohiale istorice, având grijă să purtați o ținută respectuoasă.",
+            "en": "Admire the striking architecture and serene interior of this historic parish church, and remember to wear respectable attire when entering the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Byrrh",
+            "hu": "Byrrh",
+            "ro": "Byrrh",
+            "en": "Byrrh"
+          },
+          "coords": [
+            2.756829,
+            42.634344
+          ],
+          "category": "museum",
+          "arrive_at": "10:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Entdecken Sie das größte Eichenfass der Welt in diesem berühmten Aperitif-Keller aus dem 19. Jahrhundert, aber buchen Sie Ihre Führung frühzeitig.",
+            "hu": "Fedezze fel a világ legnagyobb tölgyfahordóját ebben a híres 19. századi aperitif-pincében, de a kóstolóval egybekötött túrát jó előre foglalja le.",
+            "ro": "Descoperiți cel mai mare butoi de stejar din lume în această cramă faimoasă de aperitive, dar rezervați-vă turul cu degustare cu mult timp înainte.",
+            "en": "Discover the world's largest oak vat at this iconic 19th-century apéritif cellar, but be sure to book your guided tasting tour well in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Saü",
+            "hu": "Château de Saü",
+            "ro": "Château de Saü",
+            "en": "Château de Saü"
+          },
+          "coords": [
+            2.77543,
+            42.64885
+          ],
+          "category": "castle",
+          "arrive_at": "12:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.21,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die imposanten Türme dieser eindrucksvollen Schlossanlage auf dem Land und tragen Sie bequeme Schuhe für die unebenen Wege.",
+            "hu": "Csodálja meg a vidéki kastélybirtok impozáns tornyait, de mindenképpen kényelmes sétacipőt viseljen a kissé egyenetlen talaj miatt.",
+            "ro": "Admirați turnurile impunătoare ale acestui impresionant domeniu de castel din mediul rural, purtând încălțăminte confortabilă pentru cărările inegale.",
+            "en": "Marvel at the imposing towers of this impressive castle estate in the countryside, and wear comfortable walking shoes for the slightly uneven paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Sébastien-Kapelle",
+            "hu": "Saint-Sébastien kápolna",
+            "ro": "Capela Saint-Sébastien",
+            "en": "Saint-Sébastien Chapel"
+          },
+          "coords": [
+            2.760256,
+            42.629106
+          ],
+          "category": "religious",
+          "arrive_at": "13:43",
+          "stay_min": 70,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.52,
+          "tip_5lang": {
+            "de": "Erleben Sie einen Moment der Ruhe in dieser charmanten mittelalterlichen Kapelle etwas abseits der Touristenpfade, perfekt für eine kleine Auszeit.",
+            "hu": "Éljen át egy pillanatnyi nyugalmat ebben a bájos, kissé eldugott középkori kápolnában, amely tökéletes helyszín egy békés délutáni visszavonuláshoz.",
+            "ro": "Bucurați-vă de un moment de liniște la această capelă medievală fermecătoare, ușor retrasă, perfectă pentru o retragere pașnică după-amiaza.",
+            "en": "Experience a moment of tranquility at this charming medieval chapel located slightly off the beaten path, perfect for a peaceful afternoon retreat."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittag: Radeln Sie vom lebhaften zentralen Platz zur historischen Kirche und fahren Sie dann zu den berühmten Byrrh-Kellern für eine faszinierende Tour.\nMittag: Fahren Sie durch die malerischen Außenbezirke von Thuir zum imposanten Château de Saü und genießen Sie die ländliche Umgebung.\nNachmittag: Treten Sie zurück in Richtung Stadt, um die ruhige Kapelle Saint-Sébastien in einem gemütlichen, ungestörten Tempo zu erkunden.\nAbend: Beenden Sie Ihr aktives Radabenteuer mit einer entspannten Fahrt zurück ins Herz von Thuir, während die Sonne langsam untergeht.",
+        "hu": "Délelőtt: Kerékpározzon a nyüzsgő központi tértől a történelmi templomig, majd irány a híres Byrrh pincészet egy lenyűgöző túrára.\nDél: Tekerjen át Thuir festői külvárosán az impozáns Château de Saü felé, miközben élvezheti a gyönyörű vidéki tájat az út mentén.\nDélután: Pedálozzon vissza a város felé, hogy nyugodt, zavartalan tempóban fedezze fel a csendes Saint-Sébastien kápolnát.\nEste: Zárja aktív kerékpáros kalandját egy pihentető tekeréssel vissza Thuir szívébe, miközben a lemenő nap megvilágítja a dombokat.",
+        "ro": "Dimineața: Bicicliți din piața centrală vibrantă până la biserica istorică, apoi îndreptați-vă spre faimoasele crame Byrrh pentru un tur fascinant.\nPrânz: Mergeți prin împrejurimile pitorești ale Thuir-ului pentru a ajunge la impunătorul Château de Saü, admirând peisajul rural pe drum.\nDupă-amiaza: Pedalați înapoi spre oraș pentru a explora liniștita Capelă Saint-Sébastien într-un ritm relaxant și neîntrerupt.\nSeara: Încheiați-vă aventura activă cu o plimbare relaxantă cu bicicleta înapoi în inima orașului Thuir, în timp ce soarele începe să apună.",
+        "en": "Morning: Cycle from the vibrant central square to the historic church, then head to the famous Byrrh cellars for a fascinating guided tour.\nMidday: Ride through the scenic outskirts of Thuir to reach the imposing Château de Saü, taking in the picturesque countryside along the way.\nAfternoon: Pedal your way back towards town to explore the quiet Saint-Sébastien Chapel at a leisurely, uninterrupted pace.\nEvening: End your active cycling adventure with a relaxing ride back to the heart of Thuir as the afternoon sun begins to slowly set over the hills."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:35",
+      "total_km": 9.16,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Caves Byrrh",
+            "hu": "Caves Byrrh",
+            "ro": "Caves Byrrh",
+            "en": "Caves Byrrh"
+          },
+          "coords": [
+            2.75645,
+            42.635523
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das größte Eichenfass der Welt in diesem berühmten Aperitif-Keller aus dem 19. Jahrhundert, aber buchen Sie Ihre Führung frühzeitig.",
+            "hu": "Fedezze fel a világ legnagyobb tölgyfahordóját ebben a híres 19. századi aperitif-pincében, de a kóstolóval egybekötött túrát jó előre foglalja le.",
+            "ro": "Descoperiți cel mai mare butoi de stejar din lume în această cramă faimoasă de aperitive, dar rezervați-vă turul cu degustare cu mult timp înainte.",
+            "en": "Discover the world's largest oak vat at this iconic 19th-century apéritif cellar, but be sure to book your guided tasting tour well in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Saü",
+            "hu": "Château de Saü",
+            "ro": "Château de Saü",
+            "en": "Château de Saü"
+          },
+          "coords": [
+            2.77543,
+            42.64885
+          ],
+          "category": "castle",
+          "arrive_at": "10:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.14,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die imposanten Türme dieser eindrucksvollen Schlossanlage auf dem Land und tragen Sie bequeme Schuhe für die unebenen Wege.",
+            "hu": "Csodálja meg a vidéki kastélybirtok impozáns tornyait, de mindenképpen kényelmes sétacipőt viseljen a kissé egyenetlen talaj miatt.",
+            "ro": "Admirați turnurile impunătoare ale acestui impresionant domeniu de castel din mediul rural, purtând încălțăminte confortabilă pentru cărările inegale.",
+            "en": "Marvel at the imposing towers of this impressive castle estate in the countryside, and wear comfortable walking shoes for the slightly uneven paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Thomas",
+            "hu": "Église Saint-Thomas",
+            "ro": "Église Saint-Thomas",
+            "en": "Église Saint-Thomas"
+          },
+          "coords": [
+            2.769638,
+            42.619837
+          ],
+          "category": "religious",
+          "arrive_at": "12:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.25,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese malerische Landkirche, um das authentische Mauerwerk zu bewundern, und prüfen Sie das Schild nach den unregelmäßigen Öffnungszeiten.",
+            "hu": "Látogasson el ebbe a festői vidéki templomba az autentikus kőművesmunka miatt, de érdemes megnézni a hirdetőtáblát az esetleges nyitvatartásról.",
+            "ro": "Vizitați această biserică rurală pitorească pentru a aprecia zidăria autentică din piatră, verificând panoul local pentru orele ocazionale de deschidere.",
+            "en": "Visit this quaint rural church to appreciate its authentic stone masonry, making sure to check the local notice board for occasional opening hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Julien et Sainte-Baselisse",
+            "hu": "Église Saint-Julien et Sainte-Baselisse",
+            "ro": "Église Saint-Julien et Sainte-Baselisse",
+            "en": "Église Saint-Julien et Sainte-Baselisse"
+          },
+          "coords": [
+            2.771772,
+            42.607644
+          ],
+          "category": "religious",
+          "arrive_at": "13:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.36,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche regionale Erbe innerhalb der Mauern dieser traditionellen Dorfkirche und bringen Sie eine Taschenlampe für das dunkle Innere mit.",
+            "hu": "Fedezze fel a gazdag regionális örökséget e hagyományos falusi templom falai között, és hozzon egy zseblámpát a sötét belső tér megfigyeléséhez.",
+            "ro": "Descoperiți patrimoniul regional bogat ascuns în pereții acestei biserici tradiționale de sat, aducând o lanternă mică pentru interiorul întunecat.",
+            "en": "Uncover the rich regional heritage hidden within the walls of this traditional village church, bringing a small flashlight to observe the dark interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Place de la Fon Espinasse",
+            "hu": "Place de la Fon Espinasse",
+            "ro": "Place de la Fon Espinasse",
+            "en": "Place de la Fon Espinasse"
+          },
+          "coords": [
+            2.754167,
+            42.625048
+          ],
+          "category": "family",
+          "arrive_at": "13:50",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.41,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem familienfreundlichen Platz mit schattigen Bäumen, der ideale Ort, um vor der Heimreise zur Ruhe zu kommen und Kinder spielen zu lassen.",
+            "hu": "Pihenjen ezen a családbarát téren, ahol árnyékos fák találhatók, és amely kiváló hely a hazatérés előtti lazításra és a gyerekek biztonságos játékára.",
+            "ro": "Relaxați-vă în această piață prietenoasă cu familiile, plină de copaci umbroși, un loc excelent pentru a vă odihni înainte de a vă întoarce acasă.",
+            "en": "Relax at this family-friendly square featuring shady trees and open spaces, an excellent spot to unwind and let children run safely before heading home."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Vormittag: Fahren Sie direkt zu den weltberühmten Caves Byrrh für eine faszinierende historische Führung durch die legendären Weinkeller.\nMittag: Fahren Sie in die üppige Landschaft hinaus, um das großartige Château de Saü und die malerische ländliche Umgebung zu bewundern.\nNachmittag: Navigieren Sie durch das hügelige Gelände, um die malerische Kirche Saint-Thomas und die historische Kirche Saint-Julien et Sainte-Baselisse zu entdecken.\nAbend: Kehren Sie nach Thuir zurück, um sich an der Place de la Fon Espinasse zu entspannen und Ihre umfassende Autotour Revue passieren zu lassen.",
+        "hu": "Délelőtt: Vezessen egyenesen a világhírű Caves Byrrh-hez, hogy részt vegyen egy lenyűgöző történelmi túrán a legendás pincékben.\nDél: Irány a buja vidék, hogy megcsodálja a nagyszerű Château de Saü-t és a birtokot körülvevő festői, nyugodt vidéki tájat.\nDélután: Navigáljon át a dombos terepen, és fedezze fel a festői Église Saint-Thomas-t, valamint a történelmi Église Saint-Julien et Sainte-Baselisse-t.\nEste: Térjen vissza Thuir-ba, és pihenjen meg a Place de la Fon Espinasse téren, átgondolva a tágabb régió sokszínű autós felfedezését.",
+        "ro": "Dimineața: Conduceți direct la faimoasele Caves Byrrh pentru un tur istoric fascinant și o degustare captivantă în cramele legendare.\nPrânz: Mergeți în mediul rural luxuriant pentru a admira mărețul Château de Saü și peisajele rurale pitorești care înconjoară domeniul.\nDupă-amiaza: Navigați prin terenul deluros pentru a descoperi pitoreasca Église Saint-Thomas și istorica Église Saint-Julien et Sainte-Baselisse.\nSeara: Întoarceți-vă la Thuir pentru a vă relaxa în Place de la Fon Espinasse, reflectând la turul dumneavoastră cuprinzător al regiunii mai largi.",
+        "en": "Morning: Drive straight to the world-renowned Caves Byrrh for an immersive tasting and fascinating historical tour of the legendary cellars.\nMidday: Head out into the lush countryside to admire the grand Château de Saü and the picturesque rural landscapes surrounding the estate.\nAfternoon: Navigate through the rolling terrain to discover the quaint Église Saint-Thomas and the historic Église Saint-Julien et Sainte-Baselisse.\nEvening: Return to Thuir to unwind at Place de la Fon Espinasse, reflecting on your comprehensive driving tour of the diverse wider region."
+      }
+    }
+  }
+}

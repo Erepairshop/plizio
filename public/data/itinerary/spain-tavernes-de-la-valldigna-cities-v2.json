@@ -1,0 +1,405 @@
+{
+  "city_id": "spain-tavernes-de-la-valldigna-cities-v2",
+  "anchor": {
+    "name": "Tavernes de la Valldigna",
+    "coords": [
+      -0.26623,
+      39.07195
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:23",
+      "total_km": 1.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ajuntament de Tavernes de la Valldigna",
+            "hu": "Ajuntament de Tavernes de la Valldigna",
+            "ro": "Ajuntament de Tavernes de la Valldigna",
+            "en": "Ajuntament de Tavernes de la Valldigna"
+          },
+          "coords": [
+            -0.267751,
+            39.071673
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur dieses bürgerlichen Gebäudes im Herzen der Stadt und erkunden Sie den belebten Platz, bevor Sie weitergehen.",
+            "hu": "Csodálja meg a város szívében található impozáns építészetű városházát, és szánjon egy kis időt a közeli, élettel teli tér felfedezésére a továbbindulás előtt.",
+            "ro": "Admirați arhitectura impresionantă a acestei clădiri civice din inima orașului și luați-vă un moment pentru a explora piața plină de viață din apropiere.",
+            "en": "Admire the striking architecture of this civic building located in the heart of the town, and take a moment to explore the nearby lively square before continuing."
+          }
+        },
+        {
+          "name": {
+            "de": "Esglesia de Sant Pere",
+            "hu": "Esglesia de Sant Pere",
+            "ro": "Esglesia de Sant Pere",
+            "en": "Esglesia de Sant Pere"
+          },
+          "coords": [
+            -0.267282,
+            39.072822
+          ],
+          "category": "religious",
+          "arrive_at": "10:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Betreten Sie diese wunderschöne historische Kirche, um ihre friedliche Atmosphäre und sakrale Kunst zu schätzen, aber respektieren Sie die stillen Gebete.",
+            "hu": "Lépjen be ebbe a gyönyörű történelmi templomba, és élvezze a békés légkört és a vallási műalkotásokat, de ne felejtse el tiszteletben tartani a csendes imákat.",
+            "ro": "Pășiți în această frumoasă biserică istorică pentru a-i aprecia atmosfera pașnică și arta religioasă, dar nu uitați să respectați rugăciunile tăcute.",
+            "en": "Step inside this beautiful historic church to appreciate its peaceful atmosphere and intricate religious artwork, but remember to respect the ongoing silent prayers."
+          }
+        },
+        {
+          "name": {
+            "de": "Esglesia Sant Josep",
+            "hu": "Esglesia Sant Josep",
+            "ro": "Esglesia Sant Josep",
+            "en": "Esglesia Sant Josep"
+          },
+          "coords": [
+            -0.271635,
+            39.070972
+          ],
+          "category": "religious",
+          "arrive_at": "11:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Entdecken Sie die heitere Schönheit dieser örtlichen Pfarrkirche bei einem kurzen Spaziergang vom Zentrum aus und beachten Sie die Besuchszeiten an der Tafel.",
+            "hu": "Fedezze fel ennek a helyi plébániatemplomnak a békés szépségét egy rövid sétával a központból, és mindenképpen ellenőrizze a hirdetőtáblán a látogatási időt.",
+            "ro": "Descoperiți frumusețea senină a acestei biserici parohiale locale făcând o scurtă plimbare din centru și verificați neapărat orarul de vizitare la avizier.",
+            "en": "Discover the serene beauty of this local parish church by taking a short walk from the center, making sure to check the notice board for visiting times."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de la Cultura",
+            "hu": "Casa de la Cultura",
+            "ro": "Casa de la Cultura",
+            "en": "Casa de la Cultura"
+          },
+          "coords": [
+            -0.268029,
+            39.069156
+          ],
+          "category": "museum",
+          "arrive_at": "12:06",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erkunden Sie das reiche lokale Erbe und die fesselnden Kunstausstellungen in diesem Kulturzentrum und holen Sie sich am Empfang einen kostenlosen Veranstaltungsplan.",
+            "hu": "Fedezze fel a gazdag helyi örökséget és a lenyűgöző művészeti kiállításokat ebben a kulturális központban, és érkezéskor kérjen ingyenes eseménynaptárt a pultnál.",
+            "ro": "Explorați bogata moștenire locală și expozițiile artistice din acest centru cultural, luând un program gratuit al evenimentelor de la recepție la sosire.",
+            "en": "Explore the rich local heritage and engaging artistic exhibitions in this cultural hub, picking up a free event schedule at the front desk upon your arrival."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscina Coberta Municipal",
+            "hu": "Piscina Coberta Municipal",
+            "ro": "Piscina Coberta Municipal",
+            "en": "Piscina Coberta Municipal"
+          },
+          "coords": [
+            -0.262966,
+            39.068741
+          ],
+          "category": "recreational",
+          "arrive_at": "13:53",
+          "stay_min": 90,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich nach dem Spaziergang bei einem erfrischenden Bad in diesem modernen städtischen Hallenbad, wobei das Mitbringen von Handtuch und Badekappe Pflicht ist.",
+            "hu": "Séta után lazítson egy frissítő úszással ebben a modern városi fedett uszodában, bár a saját törölköző és úszósapka használata szigorúan kötelező.",
+            "ro": "Relaxați-vă după plimbare cu o baie revigorantă în această piscină municipală modernă acoperită, deși aducerea propriului prosop și a căștii este strict obligatorie.",
+            "en": "Unwind after walking by enjoying a refreshing swim in this modern indoor municipal pool facility, though carrying your own towel and swimming cap is strictly mandatory."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am großen Ajuntament, bevor Sie zur Esglesia de Sant Pere schlendern. Mittags besuchen Sie die friedliche Esglesia Sant Josep und die kulturell bereichernde Casa de la Cultura. Ihr Nachmittag endet entspannt und aktiv im städtischen Hallenbad, wo Sie die lokale Gemeinschaft hautnah erleben können.",
+        "hu": "Kezdje a reggelt a lenyűgöző városházánál, majd sétáljon át az Esglesia de Sant Pere templomhoz. A dél körül a békés Esglesia Sant Josep és a kulturális élményeket nyújtó Casa de la Cultura várja. A délutánt a városi uszodában zárhatja, ahol pihentető és aktív módon tapasztalhatja meg a helyi közösség mindennapjait.",
+        "ro": "Începeți dimineața la grandiosul Ajuntament înainte de a vă plimba spre Esglesia de Sant Pere. La prânz vizitați pașnica Esglesia Sant Josep și Casa de la Cultura, un loc plin de cultură. După-amiaza se încheie activ și relaxant la piscina municipală, unde veți simți din plin spiritul comunității locale.",
+        "en": "Start your morning at the grand Ajuntament before strolling to the nearby Esglesia de Sant Pere. Midday brings you to the peaceful Esglesia Sant Josep and the culturally enriching Casa de la Cultura. Your afternoon concludes with a relaxing and active end at the Piscina Coberta Municipal, experiencing the local community vibes firsthand."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:07",
+      "total_km": 2.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Casa de la Cultura",
+            "hu": "Casa de la Cultura",
+            "ro": "Casa de la Cultura",
+            "en": "Casa de la Cultura"
+          },
+          "coords": [
+            -0.268029,
+            39.069156
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das reiche lokale Erbe und die fesselnden Kunstausstellungen in diesem Kulturzentrum und holen Sie sich am Empfang einen kostenlosen Veranstaltungsplan.",
+            "hu": "Fedezze fel a gazdag helyi örökséget és a lenyűgöző művészeti kiállításokat ebben a kulturális központban, és érkezéskor kérjen ingyenes eseménynaptárt a pultnál.",
+            "ro": "Explorați bogata moștenire locală și expozițiile artistice din acest centru cultural, luând un program gratuit al evenimentelor de la recepție la sosire.",
+            "en": "Explore the rich local heritage and engaging artistic exhibitions in this cultural hub, picking up a free event schedule at the front desk upon your arrival."
+          }
+        },
+        {
+          "name": {
+            "de": "Ajuntament de Tavernes de la Valldigna",
+            "hu": "Ajuntament de Tavernes de la Valldigna",
+            "ro": "Ajuntament de Tavernes de la Valldigna",
+            "en": "Ajuntament de Tavernes de la Valldigna"
+          },
+          "coords": [
+            -0.267751,
+            39.071673
+          ],
+          "category": "historical",
+          "arrive_at": "10:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur dieses bürgerlichen Gebäudes im Herzen der Stadt und erkunden Sie den belebten Platz, bevor Sie weitergehen.",
+            "hu": "Csodálja meg a város szívében található impozáns építészetű városházát, és szánjon egy kis időt a közeli, élettel teli tér felfedezésére a továbbindulás előtt.",
+            "ro": "Admirați arhitectura impresionantă a acestei clădiri civice din inima orașului și luați-vă un moment pentru a explora piața plină de viață din apropiere.",
+            "en": "Admire the striking architecture of this civic building located in the heart of the town, and take a moment to explore the nearby lively square before continuing."
+          }
+        },
+        {
+          "name": {
+            "de": "Esglesia de Sant Pere",
+            "hu": "Esglesia de Sant Pere",
+            "ro": "Esglesia de Sant Pere",
+            "en": "Esglesia de Sant Pere"
+          },
+          "coords": [
+            -0.267282,
+            39.072822
+          ],
+          "category": "religious",
+          "arrive_at": "12:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Betreten Sie diese wunderschöne historische Kirche, um ihre friedliche Atmosphäre und sakrale Kunst zu schätzen, aber respektieren Sie die stillen Gebete.",
+            "hu": "Lépjen be ebbe a gyönyörű történelmi templomba, és élvezze a békés légkört és a vallási műalkotásokat, de ne felejtse el tiszteletben tartani a csendes imákat.",
+            "ro": "Pășiți în această frumoasă biserică istorică pentru a-i aprecia atmosfera pașnică și arta religioasă, dar nu uitați să respectați rugăciunile tăcute.",
+            "en": "Step inside this beautiful historic church to appreciate its peaceful atmosphere and intricate religious artwork, but remember to respect the ongoing silent prayers."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell de Tavernes",
+            "hu": "Castell de Tavernes",
+            "ro": "Castell de Tavernes",
+            "en": "Castell de Tavernes"
+          },
+          "coords": [
+            -0.26828,
+            39.079089
+          ],
+          "category": "castle",
+          "arrive_at": "12:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Wandern Sie zu den mittelalterlichen Burgruinen, um faszinierende historische Schichten zu entdecken und den atemberaubenden Panoramablick über das Tal zu genießen.",
+            "hu": "Túrázzon fel a középkori várromokhoz, hogy felfedezze a lenyűgöző történelmi rétegeket, és élvezze a lélegzetelállító panorámát a völgyön át egészen a távoli partig.",
+            "ro": "Urcați la ruinele castelului medieval pentru a descoperi straturi istorice fascinante și bucurați-vă de vederi panoramice uluitoare asupra întregii văi spre coastă.",
+            "en": "Hike up to the medieval castle ruins to uncover fascinating historical layers and enjoy breathtaking panoramic views over the entire valley toward the distant coast."
+          }
+        },
+        {
+          "name": {
+            "de": "les Creus",
+            "hu": "les Creus",
+            "ro": "les Creus",
+            "en": "les Creus"
+          },
+          "coords": [
+            -0.278569,
+            39.079743
+          ],
+          "category": "natural",
+          "arrive_at": "14:22",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Navigieren Sie auf den malerischen Wegen dieser Naturlandschaft, die spektakuläre Fotomotive bietet, und tragen Sie unbedingt festes Schuhwerk für das unebene Gelände.",
+            "hu": "Navigáljon ennek a természeti tájnak a festői hegyi ösvényein, amely látványos fotózási lehetőségeket kínál, ezért feltétlenül viseljen masszív cipőt az egyenetlen terepen.",
+            "ro": "Navigați pe traseele pitorești ale acestui peisaj natural care oferă oportunități fotografice spectaculoase, așa că purtați pantofi rezistenți pentru terenul accidentat.",
+            "en": "Navigate the scenic hilltop trails of this natural landscape which offers spectacular photographic opportunities, so be sure to wear sturdy shoes for the uneven terrain."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt mit Ausstellungen im Casa de la Cultura und einem Halt am historischen Rathausplatz. Gegen Mittag radeln Sie zur Esglesia de Sant Pere, bevor Sie den Aufstieg zum Castell de Tavernes in Angriff nehmen. Verbringen Sie den späten Nachmittag in den Höhen von les Creus, wo Sie weite Ausblicke belohnen.",
+        "hu": "A kerékpártúra a Casa de la Cultura kiállításaival és a történelmi városháza terének megtekintésével indul. Kora délután tekerjen az Esglesia de Sant Pere-hez, mielőtt megkezdené a kapaszkodót a Castell de Tavernes felé. Késő délután fedezze fel a les Creus magaslatait, ahol a csodálatos kilátás kárpótol a fáradozásokért.",
+        "ro": "Turul cu bicicleta începe cu expozițiile de la Casa de la Cultura și o oprire în piața istorică a primăriei. La prânz, pedalați spre Esglesia de Sant Pere înainte de a urca spre Castell de Tavernes. Petreceți după-amiaza explorând înălțimile de la les Creus, unde peisajele naturale vă răsplătesc efortul.",
+        "en": "Your cycling tour begins with engaging exhibits at Casa de la Cultura and a stop at the historic Ajuntament square. As midday approaches, pedal to the grand Esglesia de Sant Pere before tackling the ascent to Castell de Tavernes. Spend the late afternoon exploring the heights of les Creus, where sweeping natural vistas reward your active effort."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:52",
+      "total_km": 5.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cova del Bolomor",
+            "hu": "Cova del Bolomor",
+            "ro": "Cova del Bolomor",
+            "en": "Cova del Bolomor"
+          },
+          "coords": [
+            -0.250281,
+            39.059691
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie tief in die alte Menschheitsgeschichte ein, indem Sie diese archäologische Höhle besuchen, und buchen Sie vorab eine Führung, um die Funde zu verstehen.",
+            "hu": "Merüljön el az ősi emberi történelemben e jelentős régészeti barlang meglátogatásával, és érdemes előre vezetett túrát foglalni a leletek jobb megértése érdekében.",
+            "ro": "Scufundați-vă adânc în istoria antică a omului vizitând această peșteră arheologică semnificativă și rezervați un tur ghidat în avans pentru a înțelege descoperirile.",
+            "en": "Dive deep into ancient human history by visiting this significant archaeological cave site, and consider booking a guided tour in advance to truly understand the findings."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de la Cultura",
+            "hu": "Casa de la Cultura",
+            "ro": "Casa de la Cultura",
+            "en": "Casa de la Cultura"
+          },
+          "coords": [
+            -0.268029,
+            39.069156
+          ],
+          "category": "museum",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie das reiche lokale Erbe und die fesselnden Kunstausstellungen in diesem Kulturzentrum und holen Sie sich am Empfang einen kostenlosen Veranstaltungsplan.",
+            "hu": "Fedezze fel a gazdag helyi örökséget és a lenyűgöző művészeti kiállításokat ebben a kulturális központban, és érkezéskor kérjen ingyenes eseménynaptárt a pultnál.",
+            "ro": "Explorați bogata moștenire locală și expozițiile artistice din acest centru cultural, luând un program gratuit al evenimentelor de la recepție la sosire.",
+            "en": "Explore the rich local heritage and engaging artistic exhibitions in this cultural hub, picking up a free event schedule at the front desk upon your arrival."
+          }
+        },
+        {
+          "name": {
+            "de": "Ajuntament de Tavernes de la Valldigna",
+            "hu": "Ajuntament de Tavernes de la Valldigna",
+            "ro": "Ajuntament de Tavernes de la Valldigna",
+            "en": "Ajuntament de Tavernes de la Valldigna"
+          },
+          "coords": [
+            -0.267751,
+            39.071673
+          ],
+          "category": "historical",
+          "arrive_at": "12:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur dieses bürgerlichen Gebäudes im Herzen der Stadt und erkunden Sie den belebten Platz, bevor Sie weitergehen.",
+            "hu": "Csodálja meg a város szívében található impozáns építészetű városházát, és szánjon egy kis időt a közeli, élettel teli tér felfedezésére a továbbindulás előtt.",
+            "ro": "Admirați arhitectura impresionantă a acestei clădiri civice din inima orașului și luați-vă un moment pentru a explora piața plină de viață din apropiere.",
+            "en": "Admire the striking architecture of this civic building located in the heart of the town, and take a moment to explore the nearby lively square before continuing."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell de Tavernes",
+            "hu": "Castell de Tavernes",
+            "ro": "Castell de Tavernes",
+            "en": "Castell de Tavernes"
+          },
+          "coords": [
+            -0.26828,
+            39.079089
+          ],
+          "category": "castle",
+          "arrive_at": "13:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Wandern Sie zu den mittelalterlichen Burgruinen, um faszinierende historische Schichten zu entdecken und den atemberaubenden Panoramablick über das Tal zu genießen.",
+            "hu": "Túrázzon fel a középkori várromokhoz, hogy felfedezze a lenyűgöző történelmi rétegeket, és élvezze a lélegzetelállító panorámát a völgyön át egészen a távoli partig.",
+            "ro": "Urcați la ruinele castelului medieval pentru a descoperi straturi istorice fascinante și bucurați-vă de vederi panoramice uluitoare asupra întregii văi spre coastă.",
+            "en": "Hike up to the medieval castle ruins to uncover fascinating historical layers and enjoy breathtaking panoramic views over the entire valley toward the distant coast."
+          }
+        },
+        {
+          "name": {
+            "de": "el Mirador",
+            "hu": "el Mirador",
+            "ro": "el Mirador",
+            "en": "el Mirador"
+          },
+          "coords": [
+            -0.248536,
+            39.084955
+          ],
+          "category": "natural",
+          "arrive_at": "15:07",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihr Abenteuer mit einer Fahrt zu diesem erhöhten Aussichtspunkt, um zu beobachten, wie der Sonnenuntergang den Himmel über Valldigna in Farben taucht.",
+            "hu": "Zárja kalandját egy autózással ehhez a magaslati kilátóponthoz, hogy megnézze, amint a naplemente ragyogó és felejthetetlen színekre festi az eget a Valldigna tája felett.",
+            "ro": "Încheiați-vă aventura cu o plimbare cu mașina până la acest punct de observație pentru a privi cum apusul pictează cerul deasupra peisajului Valldigna în culori vii.",
+            "en": "End your adventure with a drive up to this elevated vantage point to watch the sunset paint the sky over the Valldigna landscape in brilliant and unforgettable colors."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag mit der Erforschung der alten Geschichte in der Cova del Bolomor, bevor Sie in die Stadt fahren. Die Mittagssonne beleuchtet das historische Ajuntament, bevor Sie mit dem Auto zur mittelalterlichen Burgruine fahren. Den Sonnenuntergang genießen Sie am besten bei einer Fahrt zum el Mirador.",
+        "hu": "Kezdje a napot az ősi történelem felfedezésével a Cova del Bolomor barlangban, majd vezessen be a városba a Casa de la Cultura-hoz. A déli nap a történelmi városházát világítja meg, mielőtt a középkori vár felé venné az irányt. A naplementét az el Mirador kilátóból érdemes megcsodálni, amely lenyűgöző panorámával zárja a napot.",
+        "ro": "Începeți ziua explorând istoria antică la Cova del Bolomor înainte de a conduce în oraș spre Casa de la Cultura. Soarele amiezii luminează Ajuntament-ul istoric, chiar înainte de a conduce spre Castell de Tavernes. Apusul soarelui vă cheamă la el Mirador, încheind ziua cu panorame magnifice asupra văii.",
+        "en": "Kick off the day exploring ancient history at Cova del Bolomor before driving into town to see Casa de la Cultura. The midday sun illuminates the historical Ajuntament, right before you navigate your vehicle up towards the medieval Castell de Tavernes. Sunset calls for a drive to el Mirador, closing your day with magnificent panoramas."
+      }
+    }
+  }
+}

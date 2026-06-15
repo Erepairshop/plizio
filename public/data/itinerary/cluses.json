@@ -1,0 +1,520 @@
+{
+  "city_id": "cluses",
+  "anchor": {
+    "name": "Cluses",
+    "coords": [
+      6.5786,
+      46.0603
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Nicolas-des-Franciscains-de-l'Observance",
+            "hu": "Saint-Nicolas-des-Franciscains-de-l'Observance",
+            "ro": "Saint-Nicolas-des-Franciscains-de-l'Observance",
+            "en": "Saint-Nicolas-des-Franciscains-de-l'Observance"
+          },
+          "coords": [
+            6.581238,
+            46.06026
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Architektur dieser alten Franziskanerkirche und achten Sie auf die ruhige Atmosphäre, die ideal für einen Moment der Besinnung am Morgen ist.",
+            "hu": "Csodálja meg a ferences rendi templom letisztult építészetét, és élvezze a csendes atmoszférát, amely tökéletes egy nyugodt reggeli elmélkedéshez a városban.",
+            "ro": "Admirați arhitectura simplă a acestei vechi biserici franciscane și bucurați-vă de atmosfera liniștită, ideală pentru o dimineață de reculegere în centrul orașului.",
+            "en": "Admire the simple architecture of this old Franciscan church and soak in its peaceful atmosphere, which is ideal for a quiet moment of reflection in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de l'horlogerie et du décolletage",
+            "hu": "Musée de l'horlogerie et du décolletage",
+            "ro": "Musée de l'horlogerie et du décolletage",
+            "en": "Musée de l'horlogerie et du décolletage"
+          },
+          "coords": [
+            6.579977,
+            46.055957
+          ],
+          "category": "museum",
+          "arrive_at": "09:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte der Uhrmacherkunst in Cluses, aber vergessen Sie nicht, sich die filigranen Maschinen im Erdgeschoss genau anzusehen.",
+            "hu": "Fedezze fel Cluses órakészítésének lenyűgöző történetét, de ne felejtse el alaposan szemügyre venni a földszinten kiállított aprólékos és lenyűgöző gépezeteket.",
+            "ro": "Descoperiți istoria fascinantă a orologeriei din Cluses, dar nu uitați să examinați cu atenție mașinăriile complicate și delicate expuse la parterul muzeului.",
+            "en": "Discover the fascinating history of watchmaking in Cluses, but make sure to closely examine the intricate and historical machinery displayed on the ground floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-de-la-Nativité",
+            "hu": "Église Notre-Dame-de-la-Nativité",
+            "ro": "Église Notre-Dame-de-la-Nativité",
+            "en": "Église Notre-Dame-de-la-Nativité"
+          },
+          "coords": [
+            6.578572,
+            46.042946
+          ],
+          "category": "religious",
+          "arrive_at": "12:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Betrachten Sie die kunstvollen Details dieser historischen Kirche, und versuchen Sie, die feinen Holzschnitzereien im Innenraum bei gutem Tageslicht zu fotografieren.",
+            "hu": "Vizsgálja meg e történelmi templom művészi részleteit, és próbálja meg jó természetes fénynél lencsevégre kapni a belső tér gyönyörű, finom fafaragásait.",
+            "ro": "Observați detaliile artistice ale acestei biserici istorice și încercați să fotografiați sculpturile delicate din lemn din interior folosind lumina naturală a zilei.",
+            "en": "Observe the artistic details of this historic church, and try to photograph the delicate wood carvings inside the nave while taking advantage of natural daylight."
+          }
+        },
+        {
+          "name": {
+            "de": "Pointe de Chevran",
+            "hu": "Pointe de Chevran",
+            "ro": "Pointe de Chevran",
+            "en": "Pointe de Chevran"
+          },
+          "coords": [
+            6.602341,
+            46.060603
+          ],
+          "category": "landmark",
+          "arrive_at": "13:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick über das Arve-Tal, aber ziehen Sie unbedingt festes Schuhwerk für den steinigen und oft rutschigen Aufstieg an.",
+            "hu": "Élvezze a lélegzetelállító panorámát az Arve-völgyre, de mindenképpen vegyen fel strapabíró túracipőt a köves és sokszor csúszós ösvényen való biztonságos feljutáshoz.",
+            "ro": "Bucurați-vă de panorama uluitoare asupra văii Arve, dar asigurați-vă că purtați încălțăminte de drumeție robustă pentru ascensiunea pe poteca stâncoasă și abruptă.",
+            "en": "Enjoy the breathtaking panoramic views over the Arve Valley, but make absolutely sure to wear sturdy hiking shoes to safely navigate the rocky and steep approach."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Église Saint-Martin",
+            "ro": "Église Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            6.583636,
+            46.084436
+          ],
+          "category": "religious",
+          "arrive_at": "14:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese charmante Kirche etwas außerhalb des Zentrums und nehmen Sie sich Zeit, die friedliche Umgebung vor dem Abendessen auf sich wirken zu lassen.",
+            "hu": "Tekintse meg ezt a bájos templomot kicsit távolabb a központtól, és szánjon időt arra, hogy vacsora előtt magába szívja a környék csendes és békés hangulatát.",
+            "ro": "Vizitați această biserică fermecătoare situată puțin în afara centrului și luați-vă timp pentru a absorbi mediul pașnic înainte de a merge la o cină relaxantă.",
+            "en": "Visit this charming church located slightly outside the bustling center and take your time to absorb the peaceful surroundings before heading out for a nice dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen in Cluses beginnt mit der friedlichen Stille historischer Kirchen und dem faszinierenden Uhrenmuseum. Mittags spazieren wir weiter in Richtung Süden zur charmanten Église Notre-Dame. Der Nachmittag bietet am Pointe de Chevran einen tollen Ausblick auf das Arve-Tal. Abends lassen wir den Tag bei der Église Saint-Martin in aller Ruhe ausklingen.",
+        "hu": "A reggel Cluses-ben a történelmi templomok békéjével és a lenyűgöző óramúzeummal indul. Délben dél felé sétálunk a bájos Église Notre-Dame-hoz. A délután folyamán a Pointe de Chevran csodás kilátást kínál az Arve-völgyre. Az estét a kicsit távolabb fekvő Église Saint-Martin környezetében zárjuk, élvezve a nyugodt alpesi levegőt.",
+        "ro": "Dimineața în Cluses începe cu liniștea bisericilor istorice și cu fascinantul muzeu al ceasurilor. La prânz, ne îndreptăm spre sud către fermecătoarea Église Notre-Dame. După-amiaza, Pointe de Chevran ne oferă o priveliște minunată asupra văii Arve. Seara se încheie liniștit în preajma Église Saint-Martin, bucurându-ne de atmosfera alpină.",
+        "en": "Morning in Cluses begins with the peaceful silence of historic churches and the fascinating watchmaking museum. At midday, we stroll further south toward the charming Église Notre-Dame. The afternoon offers great views of the Arve Valley from Pointe de Chevran. In the evening, we end the day peacefully at the Église Saint-Martin, enjoying the alpine atmosphere."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:58",
+      "total_km": 10.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Nicolas-des-Franciscains-de-l'Observance",
+            "hu": "Saint-Nicolas-des-Franciscains-de-l'Observance",
+            "ro": "Saint-Nicolas-des-Franciscains-de-l'Observance",
+            "en": "Saint-Nicolas-des-Franciscains-de-l'Observance"
+          },
+          "coords": [
+            6.581238,
+            46.06026
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Architektur dieser alten Franziskanerkirche und achten Sie auf die ruhige Atmosphäre, die ideal für einen Moment der Besinnung am Morgen ist.",
+            "hu": "Csodálja meg a ferences rendi templom letisztult építészetét, és élvezze a csendes atmoszférát, amely tökéletes egy nyugodt reggeli elmélkedéshez a városban.",
+            "ro": "Admirați arhitectura simplă a acestei vechi biserici franciscane și bucurați-vă de atmosfera liniștită, ideală pentru o dimineață de reculegere în centrul orașului.",
+            "en": "Admire the simple architecture of this old Franciscan church and soak in its peaceful atmosphere, which is ideal for a quiet moment of reflection in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de l'horlogerie et du décolletage",
+            "hu": "Musée de l'horlogerie et du décolletage",
+            "ro": "Musée de l'horlogerie et du décolletage",
+            "en": "Musée de l'horlogerie et du décolletage"
+          },
+          "coords": [
+            6.579977,
+            46.055957
+          ],
+          "category": "museum",
+          "arrive_at": "09:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte der Uhrmacherkunst in Cluses, aber vergessen Sie nicht, sich die filigranen Maschinen im Erdgeschoss genau anzusehen.",
+            "hu": "Fedezze fel Cluses órakészítésének lenyűgöző történetét, de ne felejtse el alaposan szemügyre venni a földszinten kiállított aprólékos és lenyűgöző gépezeteket.",
+            "ro": "Descoperiți istoria fascinantă a orologeriei din Cluses, dar nu uitați să examinați cu atenție mașinăriile complicate și delicate expuse la parterul muzeului.",
+            "en": "Discover the fascinating history of watchmaking in Cluses, but make sure to closely examine the intricate and historical machinery displayed on the ground floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-de-la-Nativité",
+            "hu": "Église Notre-Dame-de-la-Nativité",
+            "ro": "Église Notre-Dame-de-la-Nativité",
+            "en": "Église Notre-Dame-de-la-Nativité"
+          },
+          "coords": [
+            6.578572,
+            46.042946
+          ],
+          "category": "religious",
+          "arrive_at": "11:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Betrachten Sie die kunstvollen Details dieser historischen Kirche, und versuchen Sie, die feinen Holzschnitzereien im Innenraum bei gutem Tageslicht zu fotografieren.",
+            "hu": "Vizsgálja meg e történelmi templom művészi részleteit, és próbálja meg jó természetes fénynél lencsevégre kapni a belső tér gyönyörű, finom fafaragásait.",
+            "ro": "Observați detaliile artistice ale acestei biserici istorice și încercați să fotografiați sculpturile delicate din lemn din interior folosind lumina naturală a zilei.",
+            "en": "Observe the artistic details of this historic church, and try to photograph the delicate wood carvings inside the nave while taking advantage of natural daylight."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de Chamonix-Mottet",
+            "hu": "Lac de Chamonix-Mottet",
+            "ro": "Lac de Chamonix-Mottet",
+            "en": "Lac de Chamonix-Mottet"
+          },
+          "coords": [
+            6.613095,
+            46.035577
+          ],
+          "category": "natural",
+          "arrive_at": "12:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie gemütlich um diesen malerischen See, und bringen Sie ein kleines Picknick mit, um die wunderschöne alpine Kulisse in aller Ruhe zu genießen.",
+            "hu": "Sétáljon egy nagyot e festői tó körül, és hozzon magával néhány finom falatot egy kellemes piknikhez, hogy teljes mértékben kiélvezze a lenyűgöző alpesi tájat.",
+            "ro": "Faceți o plimbare relaxantă în jurul acestui lac pitoresc și aduceți un mic picnic pentru a vă bucura de peisajul alpin splendid într-o atmosferă absolut calmă.",
+            "en": "Take a leisurely walk around this picturesque lake, and consider bringing along a small picnic so you can fully enjoy the beautiful alpine scenery in complete tranquility."
+          }
+        },
+        {
+          "name": {
+            "de": "Pointe de Chevran",
+            "hu": "Pointe de Chevran",
+            "ro": "Pointe de Chevran",
+            "en": "Pointe de Chevran"
+          },
+          "coords": [
+            6.602341,
+            46.060603
+          ],
+          "category": "landmark",
+          "arrive_at": "14:07",
+          "stay_min": 25,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick über das Arve-Tal, aber ziehen Sie unbedingt festes Schuhwerk für den steinigen und oft rutschigen Aufstieg an.",
+            "hu": "Élvezze a lélegzetelállító panorámát az Arve-völgyre, de mindenképpen vegyen fel strapabíró túracipőt a köves és sokszor csúszós ösvényen való biztonságos feljutáshoz.",
+            "ro": "Bucurați-vă de panorama uluitoare asupra văii Arve, dar asigurați-vă că purtați încălțăminte de drumeție robustă pentru ascensiunea pe poteca stâncoasă și abruptă.",
+            "en": "Enjoy the breathtaking panoramic views over the Arve Valley, but make absolutely sure to wear sturdy hiking shoes to safely navigate the rocky and steep approach."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Église Saint-Martin",
+            "ro": "Église Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            6.583636,
+            46.084436
+          ],
+          "category": "religious",
+          "arrive_at": "14:48",
+          "stay_min": 70,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese charmante Kirche etwas außerhalb des Zentrums und nehmen Sie sich Zeit, die friedliche Umgebung vor dem Abendessen auf sich wirken zu lassen.",
+            "hu": "Tekintse meg ezt a bájos templomot kicsit távolabb a központtól, és szánjon időt arra, hogy vacsora előtt magába szívja a környék csendes és békés hangulatát.",
+            "ro": "Vizitați această biserică fermecătoare situată puțin în afara centrului și luați-vă timp pentru a absorbi mediul pașnic înainte de a merge la o cină relaxantă.",
+            "en": "Visit this charming church located slightly outside the bustling center and take your time to absorb the peaceful surroundings before heading out for a nice dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Auf zwei Rädern erkunden wir zuerst das Zentrum und das berühmte Uhrenmuseum. Mittags führt die Route zur Église Notre-Dame und weiter zum idyllischen Lac de Chamonix-Mottet, perfekt für ein Picknick. Nachmittags erwartet uns ein fantastisches Panorama am Pointe de Chevran. Der Abend bricht bei der Église Saint-Martin herein, was den aktiven Tag perfekt abrundet.",
+        "hu": "Két keréken először a központot és a híres óramúzeumot fedezzük fel. Délben a Notre-Dame templomhoz tekerünk, majd a festői Lac de Chamonix-Mottet partján pihenünk. Délután a Pointe de Chevran panorámája nyújt felejthetetlen élményt a völgy felett. Az este a Saint-Martin templomnál köszönt ránk, amely tökéletes lezárása ennek az aktív és tartalmas napnak.",
+        "ro": "Pe două roți, explorăm mai întâi centrul și faimosul muzeu de orologerie. La prânz, pedalăm către Église Notre-Dame și ajungem la pitorescul Lac de Chamonix-Mottet pentru relaxare. După-amiaza ne aduce panorama spectaculoasă de la Pointe de Chevran. Seara coboară peste Église Saint-Martin, oferind o încheiere perfectă acestei zile active și frumoase.",
+        "en": "On two wheels, we first explore the center and the famous watchmaking museum. At midday, we ride to the Église Notre-Dame and reach the picturesque Lac de Chamonix-Mottet for a break. The afternoon brings a spectacular panorama from Pointe de Chevran. Evening falls by the Église Saint-Martin, providing a perfect conclusion to this highly active day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:46",
+      "total_km": 27.5,
+      "stop_count": 9,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Nicolas-des-Franciscains-de-l'Observance",
+            "hu": "Saint-Nicolas-des-Franciscains-de-l'Observance",
+            "ro": "Saint-Nicolas-des-Franciscains-de-l'Observance",
+            "en": "Saint-Nicolas-des-Franciscains-de-l'Observance"
+          },
+          "coords": [
+            6.581238,
+            46.06026
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Architektur dieser alten Franziskanerkirche und achten Sie auf die ruhige Atmosphäre, die ideal für einen Moment der Besinnung am Morgen ist.",
+            "hu": "Csodálja meg a ferences rendi templom letisztult építészetét, és élvezze a csendes atmoszférát, amely tökéletes egy nyugodt reggeli elmélkedéshez a városban.",
+            "ro": "Admirați arhitectura simplă a acestei vechi biserici franciscane și bucurați-vă de atmosfera liniștită, ideală pentru o dimineață de reculegere în centrul orașului.",
+            "en": "Admire the simple architecture of this old Franciscan church and soak in its peaceful atmosphere, which is ideal for a quiet moment of reflection in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de l'horlogerie et du décolletage",
+            "hu": "Musée de l'horlogerie et du décolletage",
+            "ro": "Musée de l'horlogerie et du décolletage",
+            "en": "Musée de l'horlogerie et du décolletage"
+          },
+          "coords": [
+            6.579977,
+            46.055957
+          ],
+          "category": "museum",
+          "arrive_at": "09:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte der Uhrmacherkunst in Cluses, aber vergessen Sie nicht, sich die filigranen Maschinen im Erdgeschoss genau anzusehen.",
+            "hu": "Fedezze fel Cluses órakészítésének lenyűgöző történetét, de ne felejtse el alaposan szemügyre venni a földszinten kiállított aprólékos és lenyűgöző gépezeteket.",
+            "ro": "Descoperiți istoria fascinantă a orologeriei din Cluses, dar nu uitați să examinați cu atenție mașinăriile complicate și delicate expuse la parterul muzeului.",
+            "en": "Discover the fascinating history of watchmaking in Cluses, but make sure to closely examine the intricate and historical machinery displayed on the ground floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-de-la-Nativité",
+            "hu": "Église Notre-Dame-de-la-Nativité",
+            "ro": "Église Notre-Dame-de-la-Nativité",
+            "en": "Église Notre-Dame-de-la-Nativité"
+          },
+          "coords": [
+            6.578572,
+            46.042946
+          ],
+          "category": "religious",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Betrachten Sie die kunstvollen Details dieser historischen Kirche, und versuchen Sie, die feinen Holzschnitzereien im Innenraum bei gutem Tageslicht zu fotografieren.",
+            "hu": "Vizsgálja meg e történelmi templom művészi részleteit, és próbálja meg jó természetes fénynél lencsevégre kapni a belső tér gyönyörű, finom fafaragásait.",
+            "ro": "Observați detaliile artistice ale acestei biserici istorice și încercați să fotografiați sculpturile delicate din lemn din interior folosind lumina naturală a zilei.",
+            "en": "Observe the artistic details of this historic church, and try to photograph the delicate wood carvings inside the nave while taking advantage of natural daylight."
+          }
+        },
+        {
+          "name": {
+            "de": "Lake of Gron",
+            "hu": "Lake of Gron",
+            "ro": "Lake of Gron",
+            "en": "Lake of Gron"
+          },
+          "coords": [
+            6.665245,
+            46.031859
+          ],
+          "category": "natural",
+          "arrive_at": "12:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die unberührte Natur an diesem abgelegenen See, doch denken Sie an Insektenschutzmittel, da die Uferzonen in den wärmeren Monaten recht belebt sind.",
+            "hu": "Tapasztalja meg az érintetlen természetet ennél az eldugott tónál, de ne felejtsen el rovarriasztót hozni, mivel a part menti területeken sok a szúnyog meleg időben.",
+            "ro": "Experimentați natura neatinsă la acest lac izolat, dar nu uitați să luați un repelent de insecte, deoarece zonele de pe mal sunt destul de active în lunile calde.",
+            "en": "Experience untouched nature at this secluded lake, but remember to pack insect repellent as the shoreline areas can get quite active with bugs during warmer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de Chamonix-Mottet",
+            "hu": "Lac de Chamonix-Mottet",
+            "ro": "Lac de Chamonix-Mottet",
+            "en": "Lac de Chamonix-Mottet"
+          },
+          "coords": [
+            6.613095,
+            46.035577
+          ],
+          "category": "natural",
+          "arrive_at": "13:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie gemütlich um diesen malerischen See, und bringen Sie ein kleines Picknick mit, um die wunderschöne alpine Kulisse in aller Ruhe zu genießen.",
+            "hu": "Sétáljon egy nagyot e festői tó körül, és hozzon magával néhány finom falatot egy kellemes piknikhez, hogy teljes mértékben kiélvezze a lenyűgöző alpesi tájat.",
+            "ro": "Faceți o plimbare relaxantă în jurul acestui lac pitoresc și aduceți un mic picnic pentru a vă bucura de peisajul alpin splendid într-o atmosferă absolut calmă.",
+            "en": "Take a leisurely walk around this picturesque lake, and consider bringing along a small picnic so you can fully enjoy the beautiful alpine scenery in complete tranquility."
+          }
+        },
+        {
+          "name": {
+            "de": "Pointe de Chevran",
+            "hu": "Pointe de Chevran",
+            "ro": "Pointe de Chevran",
+            "en": "Pointe de Chevran"
+          },
+          "coords": [
+            6.602341,
+            46.060603
+          ],
+          "category": "landmark",
+          "arrive_at": "15:16",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick über das Arve-Tal, aber ziehen Sie unbedingt festes Schuhwerk für den steinigen und oft rutschigen Aufstieg an.",
+            "hu": "Élvezze a lélegzetelállító panorámát az Arve-völgyre, de mindenképpen vegyen fel strapabíró túracipőt a köves és sokszor csúszós ösvényen való biztonságos feljutáshoz.",
+            "ro": "Bucurați-vă de panorama uluitoare asupra văii Arve, dar asigurați-vă că purtați încălțăminte de drumeție robustă pentru ascensiunea pe poteca stâncoasă și abruptă.",
+            "en": "Enjoy the breathtaking panoramic views over the Arve Valley, but make absolutely sure to wear sturdy hiking shoes to safely navigate the rocky and steep approach."
+          }
+        },
+        {
+          "name": {
+            "de": "Réservoir Incendie",
+            "hu": "Réservoir Incendie",
+            "ro": "Réservoir Incendie",
+            "en": "Réservoir Incendie"
+          },
+          "coords": [
+            6.626776,
+            46.09091
+          ],
+          "category": "natural",
+          "arrive_at": "15:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Betrachten Sie diese unerwartet ruhige Wasserfläche inmitten der Landschaft, und nutzen Sie den flachen Pfad für eine entspannte Pause fernab der Touristenmassen.",
+            "hu": "Figyelje meg ezt a meglepően békés vízfelületet a táj szívében, és használja ki a sík ösvényt egy pihentető szünetre, távol a zajos turistatömegektől és a forgalomtól.",
+            "ro": "Observați acest ochi de apă surprinzător de liniștit în mijlocul peisajului și folosiți poteca plată pentru o pauză relaxantă, departe de agitația mulțimilor de turiști.",
+            "en": "Observe this surprisingly tranquil body of water amidst the landscape, and take advantage of the flat path for a relaxing break far away from the bustling tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac des Vernays",
+            "hu": "Lac des Vernays",
+            "ro": "Lac des Vernays",
+            "en": "Lac des Vernays"
+          },
+          "coords": [
+            6.621982,
+            46.101672
+          ],
+          "category": "natural",
+          "arrive_at": "17:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Ufer dieses kleinen Sees im Norden, wo Sie wunderbar Vögel beobachten können, solange Sie ein Fernglas in Ihrem Rucksack bereithalten.",
+            "hu": "Pihenjen meg ennek az északi kis tónak a partján, amely kiváló lehetőséget nyújt madármegfigyelésre, feltéve, hogy hozott magával egy jó távcsövet a hátizsákjában.",
+            "ro": "Relaxați-vă pe malul acestui mic lac nordic, care este un loc excelent pentru observarea păsărilor, atâta timp cât păstrați un binoclu la îndemână în rucsac.",
+            "en": "Relax on the shores of this small northern lake, which offers excellent birdwatching opportunities as long as you keep a pair of binoculars handy in your backpack."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Église Saint-Martin",
+            "ro": "Église Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            6.583636,
+            46.084436
+          ],
+          "category": "religious",
+          "arrive_at": "18:36",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese charmante Kirche etwas außerhalb des Zentrums und nehmen Sie sich Zeit, die friedliche Umgebung vor dem Abendessen auf sich wirken zu lassen.",
+            "hu": "Tekintse meg ezt a bájos templomot kicsit távolabb a központtól, és szánjon időt arra, hogy vacsora előtt magába szívja a környék csendes és békés hangulatát.",
+            "ro": "Vizitați această biserică fermecătoare situată puțin în afara centrului și luați-vă timp pentru a absorbi mediul pașnic înainte de a merge la o cină relaxantă.",
+            "en": "Visit this charming church located slightly outside the bustling center and take your time to absorb the peaceful surroundings before heading out for a nice dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto verbinden wir Kultur und weite Landschaften. Nach dem Museum und der Kirche im Zentrum fahren wir entspannt zu den versteckten Seen im Süden. Der Nachmittag ist geprägt von weiten Aussichten am Pointe de Chevran und weiteren Gewässern wie dem Réservoir Incendie. Zum Abschluss des Tages bewundern wir die Église Saint-Martin im sanften Abendlicht.",
+        "hu": "Autóval könnyedén összekötjük a kultúrát és a távoli tavakat. A központban található múzeum és templom után a déli eldugott tavakhoz vezetünk. A délutánt a Pointe de Chevran csodás kilátása és az északi víztározók, mint a Lac des Vernays határozzák meg. A nap lezárásaként a Saint-Martin templomot csodáljuk meg a lenyugvó nap fényében.",
+        "ro": "Cu mașina, combinăm cultura cu peisajele vaste. După muzeu și biserica din centru, conducem relaxat spre lacurile ascunse din sud. După-amiaza este dominată de priveliștile de la Pointe de Chevran și de rezervoarele liniștite din nord. Pentru a încheia ziua, admirăm Église Saint-Martin învăluită în lumina caldă și moale a înserării.",
+        "en": "By car, we combine cultural highlights with expansive landscapes. After the museum and central church, we drive to the hidden lakes in the south. The afternoon features stunning views from Pointe de Chevran and tranquil northern reservoirs. To cap off the day, we admire the Église Saint-Martin bathed in the soft, warm light of the early evening."
+      }
+    }
+  }
+}

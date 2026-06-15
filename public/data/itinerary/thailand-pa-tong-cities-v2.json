@@ -1,0 +1,428 @@
+{
+  "city_id": "thailand-pa-tong-cities-v2",
+  "anchor": {
+    "name": "Pa Tong",
+    "coords": [
+      98.2988,
+      7.89495
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:00",
+      "total_km": 4.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Patong Beach",
+            "hu": "Patong Beach",
+            "ro": "Patong Beach",
+            "en": "Patong Beach"
+          },
+          "coords": [
+            98.294961,
+            7.893891
+          ],
+          "category": "park",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre und den weichen Sand dieses ikonischen Strandes, wo Sie früh ankommen sollten, um sich einen ruhigen Platz zu sichern.",
+            "hu": "Élvezze ezen ikonikus strand nyüzsgő hangulatát és puha homokját, és érkezzen korán, hogy jó helyet biztosítson magának távol a jet-skiktől.",
+            "ro": "Bucurați-vă de atmosfera plină de viață a acestei plaje emblematice și ajungeți devreme pentru a vă asigura un loc bun, departe de zonele cu jet-ski.",
+            "en": "Enjoy the lively atmosphere and soft sands of this iconic beach, where you should arrive early to secure a good spot away from the jet ski zones."
+          }
+        },
+        {
+          "name": {
+            "de": "อ่าวป่าตอง",
+            "hu": "อ่าวป่าตอง",
+            "ro": "อ่าวป่าตอง",
+            "en": "อ่าวป่าตอง"
+          },
+          "coords": [
+            98.287172,
+            7.901395
+          ],
+          "category": "viewpoint",
+          "arrive_at": "10:41",
+          "stay_min": 25,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die weiten Ausblicke auf die geschwungene Küste der Bucht, die Sie am besten im Morgenlicht fotografieren, bevor der Mittagsdunst aufzieht.",
+            "hu": "Gyönyörködjön az öböl ívelt partvonalának lenyűgöző panorámájában, amelyet a déli pára megérkezése előtt, a reggeli fényben érdemes fotózni.",
+            "ro": "Admiteți priveliștile de coastă ale țărmului curbat al golfului, cel mai bine fotografiat în lumina dimineții înainte să apară ceața de prânz.",
+            "en": "Take in the sweeping coastal views of the bay's curved shoreline, best photographed in the morning light before the midday haze sets in."
+          }
+        },
+        {
+          "name": {
+            "de": "Patong Boyz Town",
+            "hu": "Patong Boyz Town",
+            "ro": "Patong Boyz Town",
+            "en": "Patong Boyz Town"
+          },
+          "coords": [
+            98.299678,
+            7.895707
+          ],
+          "category": "landmark",
+          "arrive_at": "11:28",
+          "stay_min": 25,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erleben Sie das pulsierende Nachtleben in dieser belebten Straße, obwohl Besuche am Tag einen ruhigeren Blick auf die farbenfrohen Lokale bieten.",
+            "hu": "Tapasztalja meg a nyüzsgő éjszakai életet ebben az utcában, bár a nappali látogatások csendesebb bepillantást engednek a színes szórakozóhelyekbe.",
+            "ro": "Experimentați viața de noapte vibrantă din această stradă plină de viață, deși vizitele de zi oferă o privire mai liniștită asupra localurilor colorate.",
+            "en": "Experience the vibrant nightlife and unique entertainment in this bustling street, though daytime visits offer a quieter look at its colorful venues."
+          }
+        },
+        {
+          "name": {
+            "de": "Banzaan Fresh Market (Night)",
+            "hu": "Banzaan Fresh Market",
+            "ro": "Banzaan Fresh Market",
+            "en": "Banzaan Fresh Market"
+          },
+          "coords": [
+            98.301498,
+            7.891351
+          ],
+          "category": "market",
+          "arrive_at": "12:01",
+          "stay_min": 50,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Probieren Sie authentisches thailändisches Streetfood auf diesem lebhaften Markt; bringen Sie Bargeld mit und verhandeln Sie höflich für die besten Preise.",
+            "hu": "Kóstoljon meg autentikus thai ételeket ezen a nyüzsgő piacon, ezért hozzon magával készpénzt, és alkudozzon udvariasan a legjobb árakért.",
+            "ro": "Gustați mâncare thailandeză autentică la această piață vibrantă, așa că aduceți numerar și negociați politicos pentru a obține cele mai bune prețuri.",
+            "en": "Taste authentic Thai street food and buy fresh produce at this vibrant market, so bring cash and negotiate politely for the best prices."
+          }
+        },
+        {
+          "name": {
+            "de": "Mountain View",
+            "hu": "Mountain View",
+            "ro": "Mountain View",
+            "en": "Mountain View"
+          },
+          "coords": [
+            98.307083,
+            7.885028
+          ],
+          "category": "viewpoint",
+          "arrive_at": "13:05",
+          "stay_min": 25,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Menschenmassen und genießen Sie den Panoramablick von diesem erhöhten Punkt, wobei Sie Mückenschutz und Wasser mitbringen sollten.",
+            "hu": "Meneküljön el a tömeg elől, és élvezze a trópusi panorámát erről a magaslati pontról, de ne felejtsen el szúnyogriasztót és vizet hozni magával.",
+            "ro": "Evadați de aglomerația de pe coastă și bucurați-vă de priveliștile tropicale panoramice din acest loc înalt, luând cu dumneavoastră apă și repelent.",
+            "en": "Escape the coastal crowds and enjoy panoramic tropical vistas from this elevated spot, making sure to bring mosquito repellent and water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am weichen Sand von Patong Beach, bevor Sie zur Patong Bay aufsteigen. Mittags können Sie durch die farbenfrohen Straßen von Boyz Town schlendern. Am Nachmittag tauchen Sie in den Banzaan Fresh Market ein, um authentisches thailändisches Streetfood zu probieren. Beenden Sie Ihren Tag mit einer Wanderung zum Mountain View, um einen atemberaubenden tropischen Sonnenuntergang zu erleben.",
+        "hu": "Kezdje a reggelt a Patong Beach puha homokján, majd irány a Patong Bay a lenyűgöző kilátásért. Dél közeledtével sétáljon végig a Boyz Town színes utcáin. Délután merüljön el a nyüzsgő Banzaan piacon, ahol megkóstolhatja a thaiföldi utcai ételeket. Zárja a napot egy kirándulással a Mountain View-hoz, és gyönyörködjön a lélegzetelállító trópusi naplementében.",
+        "ro": "Începeți dimineața pe nisipul fin al plajei Patong înainte de a vă bucura de priveliștile din golful Patong. La prânz, plimbați-vă pe străzile colorate din Boyz Town. După-amiaza, vizitați Banzaan Fresh Market pentru a experimenta mâncarea stradală thailandeză autentică. Încheiați ziua cu o drumeție la Mountain View pentru a admira un apus tropical uluitor.",
+        "en": "Start your morning feeling the soft sands of Patong Beach before heading up to Patong Bay for sweeping views. As midday approaches, wander through the colorful streets of Boyz Town, enjoying a quieter perspective. In the afternoon, dive into the bustling Banzaan Fresh Market to experience authentic Thai street food. End your day hiking up to Mountain View for a breathtaking tropical sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:32",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Zorbing Rollerball",
+            "hu": "Zorbing Rollerball",
+            "ro": "Zorbing Rollerball",
+            "en": "Zorbing Rollerball"
+          },
+          "coords": [
+            98.297085,
+            7.9165
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Rollen Sie in einem riesigen aufblasbaren Ball den Hügel hinunter; denken Sie daran, bequeme Kleidung zu tragen, die leicht nass werden darf.",
+            "hu": "Guruljon le a dombokon egy óriási felfújható labdában egy izgalmas kalandért, de viseljen olyan kényelmes ruhát, amely nyugodtan vizes is lehet.",
+            "ro": "Rostogoliți-vă pe dealuri în interiorul unei mingi uriașe gonflabile pentru o aventură palpitantă, purtând haine confortabile care se pot uda.",
+            "en": "Roll down the hills inside a giant inflatable ball for a thrilling adventure, but remember to wear comfortable clothes that can get slightly wet."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalim Beach",
+            "hu": "Kalim Beach",
+            "ro": "Kalim Beach",
+            "en": "Kalim Beach"
+          },
+          "coords": [
+            98.295406,
+            7.910562
+          ],
+          "category": "park",
+          "arrive_at": "09:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie an dieser ruhigeren, felsigen Alternative zu den Hauptstränden, ein idealer Ort, um lokales Streetfood von den Ständen zu probieren.",
+            "hu": "Pihenjen ezen a csendesebb, sziklás strandon, amely ideális hely arra is, hogy megkóstolja a közeli árusok által kínált helyi utcai ételeket.",
+            "ro": "Relaxați-vă pe această alternativă stâncoasă și mai liniștită a plajelor principale, fiind locul ideal pentru a gusta preparate locale de la vânzători.",
+            "en": "Relax on this quieter, rocky alternative to the main beaches, which is an ideal spot to sample local street food from the nearby vendor carts."
+          }
+        },
+        {
+          "name": {
+            "de": "Patong Beach",
+            "hu": "Patong Beach",
+            "ro": "Patong Beach",
+            "en": "Patong Beach"
+          },
+          "coords": [
+            98.294961,
+            7.893891
+          ],
+          "category": "park",
+          "arrive_at": "11:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre und den weichen Sand dieses ikonischen Strandes, wo Sie früh ankommen sollten, um sich einen ruhigen Platz zu sichern.",
+            "hu": "Élvezze ezen ikonikus strand nyüzsgő hangulatát és puha homokját, és érkezzen korán, hogy jó helyet biztosítson magának távol a jet-skiktől.",
+            "ro": "Bucurați-vă de atmosfera plină de viață a acestei plaje emblematice și ajungeți devreme pentru a vă asigura un loc bun, departe de zonele cu jet-ski.",
+            "en": "Enjoy the lively atmosphere and soft sands of this iconic beach, where you should arrive early to secure a good spot away from the jet ski zones."
+          }
+        },
+        {
+          "name": {
+            "de": "Banzaan Fresh Market",
+            "hu": "Banzaan Fresh Market",
+            "ro": "Banzaan Fresh Market",
+            "en": "Banzaan Fresh Market"
+          },
+          "coords": [
+            98.301498,
+            7.891351
+          ],
+          "category": "market",
+          "arrive_at": "12:23",
+          "stay_min": 50,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Probieren Sie authentisches thailändisches Streetfood auf diesem lebhaften Markt; bringen Sie Bargeld mit und verhandeln Sie höflich für die besten Preise.",
+            "hu": "Kóstoljon meg autentikus thai ételeket ezen a nyüzsgő piacon, ezért hozzon magával készpénzt, és alkudozzon udvariasan a legjobb árakért.",
+            "ro": "Gustați mâncare thailandeză autentică la această piață vibrantă, așa că aduceți numerar și negociați politicos pentru a obține cele mai bune prețuri.",
+            "en": "Taste authentic Thai street food and buy fresh produce at this vibrant market, so bring cash and negotiate politely for the best prices."
+          }
+        },
+        {
+          "name": {
+            "de": "ภูเก็ต ไซม่อน คาบาเรต์",
+            "hu": "ภูเก็ต ไซม่อน คาบาเรต์",
+            "ro": "ภูเก็ต ไซม่อน คาบาเรต์",
+            "en": "Phuket Simon Cabaret"
+          },
+          "coords": [
+            98.292118,
+            7.878915
+          ],
+          "category": "museum",
+          "arrive_at": "13:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die spektakulären Kostüme dieser berühmten Kabarett-Show und buchen Sie Ihre Tickets im Voraus für die besten Plätze.",
+            "hu": "Csodálja meg ennek a híres kabaré előadásnak a látványos jelmezeit, és foglalja le a jegyeit előre, hogy a legjobb helyekről élvezhesse a műsort.",
+            "ro": "Minunați-vă de costumele spectaculoase ale acestui faimos spectacol de cabaret și rezervați-vă biletele în avans pentru a obține cele mai bune locuri.",
+            "en": "Marvel at the spectacular costumes and theatrical performances of this famous cabaret show, and book your tickets in advance for the best seats."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einem Adrenalinschub beim Zorbing, bevor Sie zum ruhigeren Kalim Beach radeln. Mittags genießen Sie die lebhafte Atmosphäre am Patong Beach. Verbringen Sie Ihren Nachmittag damit, auf dem Banzaan Market lokale Köstlichkeiten zu probieren. Abends radeln Sie zum berühmten Phuket Simon Cabaret, um eine Show mit schillernden Kostümen zu erleben.",
+        "hu": "Kezdje a napot egy kis adrenalinnal a Zorbing Rollerballnál, majd kerekezzen le a Kalim strandra. Délben élvezze a pezsgő hangulatot a Patong Beachen, és pihenjen a napon. A délutánt a Banzaan piacon töltheti helyi finomságokat kóstolva. Este pedig biciklizzen el a híres Simon Cabaret-ba egy látványos, ragyogó jelmezekkel teli előadásra.",
+        "ro": "Începeți ziua cu adrenalina de la Zorbing Rollerball înainte de a pedala spre plaja Kalim. La prânz, alăturați-vă atmosferei vibrante de pe plaja Patong. Petreceți după-amiaza degustând bunătăți la Banzaan Fresh Market. Seara, pedalați către celebrul Phuket Simon Cabaret pentru a vedea un spectacol impresionant cu costume orbitoare.",
+        "en": "Kick off your day with an adrenaline rush at Zorbing Rollerball before cycling down to the quieter Kalim Beach. By midday, join the vibrant atmosphere at Patong Beach, relaxing under the sun. Spend your afternoon sampling local treats at Banzaan Fresh Market. In the evening, pedal over to the famous Phuket Simon Cabaret for a spectacular show full of dazzling costumes."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:35",
+      "total_km": 9.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Radar hill",
+            "hu": "Radar hill",
+            "ro": "Radar hill",
+            "en": "Radar hill"
+          },
+          "coords": [
+            98.313511,
+            7.874235
+          ],
+          "category": "viewpoint",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum höchsten Aussichtspunkt Phukets, um atemberaubende Ausblicke zu genießen, aber seien Sie auf der steilen Zufahrtsstraße vorsichtig.",
+            "hu": "Hajtson fel Phuket legmagasabb kilátópontjára, ahonnan lélegzetelállító kilátás nyílik a szigetre, de legyen óvatos a meredek hozzáférési úton.",
+            "ro": "Conduceți până la cel mai înalt punct de observație din Phuket pentru priveliști uluitoare, dar fiți precauți pe drumul de acces abrupt și sinuos.",
+            "en": "Drive up to the highest vantage point in Phuket for breathtaking island-wide views, but be cautious on the steep and winding access road."
+          }
+        },
+        {
+          "name": {
+            "de": "Mountain View",
+            "hu": "Mountain View",
+            "ro": "Mountain View",
+            "en": "Mountain View"
+          },
+          "coords": [
+            98.307083,
+            7.885028
+          ],
+          "category": "viewpoint",
+          "arrive_at": "09:38",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Menschenmassen und genießen Sie den Panoramablick von diesem erhöhten Punkt, wobei Sie Mückenschutz und Wasser mitbringen sollten.",
+            "hu": "Meneküljön el a tömeg elől, és élvezze a trópusi panorámát erről a magaslati pontról, de ne felejtsen el szúnyogriasztót és vizet hozni magával.",
+            "ro": "Evadați de aglomerația de pe coastă și bucurați-vă de priveliștile tropicale panoramice din acest loc înalt, luând cu dumneavoastră apă și repelent.",
+            "en": "Escape the coastal crowds and enjoy panoramic tropical vistas from this elevated spot, making sure to bring mosquito repellent and water."
+          }
+        },
+        {
+          "name": {
+            "de": "ภูเก็ต ไซม่อน คาบาเรต์",
+            "hu": "ภูเก็ต ไซม่อน คาบาเรต์",
+            "ro": "ภูเก็ต ไซม่อน คาบาเรต์",
+            "en": "Phuket Simon Cabaret"
+          },
+          "coords": [
+            98.292118,
+            7.878915
+          ],
+          "category": "museum",
+          "arrive_at": "10:07",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die spektakulären Kostüme dieser berühmten Kabarett-Show und buchen Sie Ihre Tickets im Voraus für die besten Plätze.",
+            "hu": "Csodálja meg ennek a híres kabaré előadásnak a látványos jelmezeit, és foglalja le a jegyeit előre, hogy a legjobb helyekről élvezhesse a műsort.",
+            "ro": "Minunați-vă de costumele spectaculoase ale acestui faimos spectacol de cabaret și rezervați-vă biletele în avans pentru a obține cele mai bune locuri.",
+            "en": "Marvel at the spectacular costumes and theatrical performances of this famous cabaret show, and book your tickets in advance for the best seats."
+          }
+        },
+        {
+          "name": {
+            "de": "Tri Trang Beach",
+            "hu": "Tri Trang Beach",
+            "ro": "Tri Trang Beach",
+            "en": "Tri Trang Beach"
+          },
+          "coords": [
+            98.274967,
+            7.886282
+          ],
+          "category": "park",
+          "arrive_at": "11:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Schwimmen Sie in den ruhigen, klaren Gewässern dieser abgelegenen Bucht, die sich perfekt zum Entspannen abseits der üblichen Touristenmassen eignet.",
+            "hu": "Ússzon e csendes és eldugott öböl nyugodt, tiszta vizében, amely tökéletes hely a pihenésre távol a megszokott patongi turistatömegektől.",
+            "ro": "Înotați în apele calme și limpezi ale acestui golf liniștit, care este perfect pentru a vă relaxa departe de aglomerația turistică obișnuită.",
+            "en": "Swim in the calm, clear waters of this serene and secluded cove, which is perfect for relaxing away from the usual tourist crowds of Patong."
+          }
+        },
+        {
+          "name": {
+            "de": "อ่าวป่าตอง",
+            "hu": "อ่าวป่าตอง",
+            "ro": "อ่าวป่าตอง",
+            "en": "อ่าวป่าตอง"
+          },
+          "coords": [
+            98.287172,
+            7.901395
+          ],
+          "category": "landmark",
+          "arrive_at": "13:11",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die weiten Ausblicke auf die geschwungene Küste der Bucht, die Sie am besten im Morgenlicht fotografieren, bevor der Mittagsdunst aufzieht.",
+            "hu": "Gyönyörködjön az öböl ívelt partvonalának lenyűgöző panorámájában, amelyet a déli pára megérkezése előtt, a reggeli fényben érdemes fotózni.",
+            "ro": "Admiteți priveliștile de coastă ale țărmului curbat al golfului, cel mai bine fotografiat în lumina dimineții înainte să apară ceața de prânz.",
+            "en": "Take in the sweeping coastal views of the bay's curved shoreline, best photographed in the morning light before the midday haze sets in."
+          }
+        },
+        {
+          "name": {
+            "de": "Zorbing Rollerball",
+            "hu": "Zorbing Rollerball",
+            "ro": "Zorbing Rollerball",
+            "en": "Zorbing Rollerball"
+          },
+          "coords": [
+            98.297085,
+            7.9165
+          ],
+          "category": "landmark",
+          "arrive_at": "13:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Rollen Sie in einem riesigen aufblasbaren Ball den Hügel hinunter; denken Sie daran, bequeme Kleidung zu tragen, die leicht nass werden darf.",
+            "hu": "Guruljon le a dombokon egy óriási felfújható labdában egy izgalmas kalandért, de viseljen olyan kényelmes ruhát, amely nyugodtan vizes is lehet.",
+            "ro": "Rostogoliți-vă pe dealuri în interiorul unei mingi uriașe gonflabile pentru o aventură palpitantă, purtând haine confortabile care se pot uda.",
+            "en": "Roll down the hills inside a giant inflatable ball for a thrilling adventure, but remember to wear comfortable clothes that can get slightly wet."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie früh zum Radar Hill, um ein unvergleichliches Inselpanorama zu genießen. Später schlängeln Sie sich zum Mountain View. Mittags bietet sich eine Pause beim Simon Cabaret an. Verbringen Sie den Nachmittag schwimmend in den abgelegenen Gewässern des Tri Trang Beach. Beenden Sie den Tag an der Patong Bay und stoppen Sie beim Zorbing für abendlichen Spaß.",
+        "hu": "Hajtson fel korán a Radar Hillre a páratlan szigeti panorámáért. Később vegye az irányt a Mountain View felé egy újabb lenyűgöző kilátásért. A dél a Simon Cabaret környékének felfedezésével telik. Délután ússzon a Tri Trang Beach eldugott vizeiben, távol a tömegtől. Zárja a napot a Patong-öbölnél, végül élvezze az estét a Zorbing Rollerballnál.",
+        "ro": "Conduceți devreme la Radar Hill pentru o panoramă de neegalat. Mai târziu, îndreptați-vă spre Mountain View. Prânzul aduce o pauză culturală la Simon Cabaret. Petreceți după-amiaza înotând în apele izolate ale plajei Tri Trang, departe de aglomerație. Încheiați ziua explorând golful Patong și oprindu-vă la Zorbing pentru distracție.",
+        "en": "Drive up to Radar Hill early for an unmatched island panorama. Later, wind your way to Mountain View for another stunning perspective. Midday calls for a cultural break at the Simon Cabaret grounds. Spend your afternoon swimming in the secluded waters of Tri Trang Beach, away from the crowds. End the day touring Patong Bay and stopping at Zorbing Rollerball for some sunset fun."
+      }
+    }
+  }
+}

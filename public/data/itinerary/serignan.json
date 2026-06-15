@@ -1,0 +1,474 @@
+{
+  "city_id": "serignan",
+  "anchor": {
+    "name": "Sérignan",
+    "coords": [
+      3.2775,
+      43.28
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:56",
+      "total_km": 5.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Passerelle Saint-Roch",
+            "hu": "Saint-Roch gyalogoshíd",
+            "ro": "Pasarela Saint-Roch",
+            "en": "Saint-Roch Footbridge"
+          },
+          "coords": [
+            3.280508,
+            43.282174
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese moderne Fußgängerbrücke, um den friedlichen Blick auf den Fluss Orb und die Natur zu genießen, am besten im sanften Morgenlicht.",
+            "hu": "Sétáljon át ezen a modern gyalogoshídon, hogy élvezze az Orb folyóra és a természetre nyíló békés kilátást, lehetőleg a kora reggeli lágy fényben.",
+            "ro": "Traversați această pasarelă pietonală modernă pentru a admira priveliștile pașnice ale râului Orb și natura înconjurătoare, de preferință în lumina dimineții.",
+            "en": "Cross this modern pedestrian bridge to enjoy peaceful views of the Orb river and its natural surroundings, ideally during the soft light of early morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche Notre-Dame-de-Grâce",
+            "hu": "Notre-Dame-de-Grâce társaskáptalani templom",
+            "ro": "Biserica Colegială Notre-Dame-de-Grâce",
+            "en": "Collegiate Church of Notre-Dame-de-Grâce"
+          },
+          "coords": [
+            3.284128,
+            43.281557
+          ],
+          "category": "religious",
+          "arrive_at": "09:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende südfranzösische Gotik und die atemberaubenden Buntglasfenster dieser historischen Kirche, aber denken Sie an angemessene Kleidung.",
+            "hu": "Csodálja meg e történelmi templom lenyűgöző dél-francia gótikus építészetét és ólomüveg ablakait, de ne feledjen szerény öltözéket viselni a belépéshez.",
+            "ro": "Admirați impresionanta arhitectură gotică meridională și vitraliile uimitoare ale acestei biserici istorice, dar nu uitați să vă îmbrăcați decent.",
+            "en": "Admire the impressive Southern Gothic architecture and stunning stained glass windows of this historic church, but remember to dress modestly before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "La Cigalière",
+            "hu": "La Cigalière",
+            "ro": "La Cigalière",
+            "en": "La Cigalière"
+          },
+          "coords": [
+            3.279586,
+            43.284492
+          ],
+          "category": "cultural",
+          "arrive_at": "10:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen lebendigen Kulturort für zeitgenössische Kunst und Aufführungen, und prüfen Sie vorab das Programm auf interessante Mittagsausstellungen.",
+            "hu": "Fedezze fel ezt a kortárs művészetet és előadásokat bemutató pezsgő kulturális helyszínt, és előzetesen ellenőrizze a programot a déli kiállításokhoz.",
+            "ro": "Explorați acest spațiu cultural vibrant care găzduiește artă contemporană și spectacole, verificând programul în avans pentru expozițiile de la prânz.",
+            "en": "Explore this vibrant cultural venue that hosts contemporary art and lively performances, checking their schedule in advance for any midday exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Freibad",
+            "hu": "Szabadtéri medence",
+            "ro": "Piscină în aer liber",
+            "en": "Piscine extérieure"
+          },
+          "coords": [
+            3.286665,
+            43.257804
+          ],
+          "category": "family",
+          "arrive_at": "12:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich eine erfrischende Pause an diesem gepflegten Außenpool, bringen Sie eigene Handtücher mit und kommen Sie früh, um eine Liege zu ergattern.",
+            "hu": "Tartson egy frissítő szünetet a családdal ebben a gondozott szabadtéri medencében, hozzon saját törölközőt, és érkezzen korán a legjobb nyugágyakért.",
+            "ro": "Faceți o pauză răcoritoare cu familia la această piscină în aer liber bine întreținută, aducându-vă propriile prosoape și ajungând devreme pentru un șezlong.",
+            "en": "Take a refreshing break with the family at this well-maintained outdoor pool, bringing your own towels and arriving early to secure a comfortable lounger."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturschutzgebiet Les Orpellières",
+            "hu": "Les Orpellières Természetvédelmi Terület",
+            "ro": "Rezervația Naturală Les Orpellières",
+            "en": "Les Orpellières Nature Reserve"
+          },
+          "coords": [
+            3.299292,
+            43.250986
+          ],
+          "category": "natural",
+          "arrive_at": "14:11",
+          "stay_min": 105,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die geschützten Dünen und Salzwiesen, um die einzigartige Tierwelt zu beobachten, und denken Sie an festes Schuhwerk sowie ausreichend Trinkwasser.",
+            "hu": "Barangoljon a védett dűnék és sós mocsarak között a különleges vadvilág felfedezéséért, ügyelve a kényelmes túracipőre és az elegendő ivóvízre.",
+            "ro": "Plimbați-vă prin dunele și mlaștinile sărate protejate pentru a observa fauna unică, asigurându-vă că purtați încălțăminte adecvată și aveți suficientă apă.",
+            "en": "Wander through the protected dunes and salt marshes to spot unique local wildlife, making sure to wear sturdy walking shoes and carry plenty of drinking water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie an der Saint-Roch Brücke mit Flussblick und erkunden Sie dann die gotische Stiftskirche. Mittags bietet La Cigalière moderne Kunst, bevor ein längerer Spaziergang Richtung Süden führt. Am Nachmittag sorgt das Freibad für willkommene Erfrischung. Der Abend klingt in den ruhigen Dünen des Naturschutzgebiets Les Orpellières bei warmem Sonnenlicht friedlich aus.",
+        "hu": "Kezdje a Saint-Roch hídnál a folyóra nyíló kilátással, majd fedezze fel a gótikus társaskáptalani templomot. Délben a La Cigalière kínál kortárs művészetet, mielőtt dél felé venné az irányt. Délután a szabadtéri medence nyújt kellemes felfrissülést a hosszú séta után. Az estét a Les Orpellières Természetvédelmi Terület csendes dűnéi között zárja, a lenyugvó nap meleg fényében.",
+        "ro": "Începeți la pasarela Saint-Roch cu vedere la râu, apoi explorați biserica gotică. La prânz, La Cigalière oferă artă contemporană, înainte de o plimbare mai lungă spre sud. După-amiaza, piscina în aer liber vă oferă o răcorire binevenită. Seara se încheie liniștit în dunele protejate ale rezervației naturale Les Orpellières, sub lumina caldă a soarelui la apus.",
+        "en": "Start at the Saint-Roch Footbridge with river views, then explore the majestic Gothic Collegiate Church. Midday, La Cigalière offers contemporary culture before a longer stroll southwards. In the afternoon, the outdoor pool provides welcome refreshment after the walk. Conclude your day in the serene dunes of Les Orpellières Nature Reserve, bathed in warm late afternoon sunlight."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:38",
+      "total_km": 8.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place de la Liberté",
+            "hu": "Place de la Liberté",
+            "ro": "Place de la Liberté",
+            "en": "Place de la Liberté"
+          },
+          "coords": [
+            3.280268,
+            43.314519
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die lokale Atmosphäre an diesem schattigen Platz mit seinen malerischen Cafés, perfekt für einen schnellen morgendlichen Espresso vor der Weiterreise.",
+            "hu": "Szívja magába a helyi hangulatot ezen a bájos, árnyékos téren, mely tökéletes egy gyors reggeli eszpresszó elfogyasztására, mielőtt folytatná útját.",
+            "ro": "Bucurați-vă de atmosfera locală în această piață fermecătoare, umbrită, perfectă pentru un espresso rapid de dimineață înainte de a vă continua călătoria.",
+            "en": "Soak in the local atmosphere at this charming, shaded square surrounded by quaint cafes, perfect for a quick morning espresso before continuing your journey."
+          }
+        },
+        {
+          "name": {
+            "de": "La Cigalière",
+            "hu": "La Cigalière",
+            "ro": "La Cigalière",
+            "en": "La Cigalière"
+          },
+          "coords": [
+            3.279586,
+            43.284492
+          ],
+          "category": "cultural",
+          "arrive_at": "09:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen lebendigen Kulturort für zeitgenössische Kunst und Aufführungen, und prüfen Sie vorab das Programm auf interessante Mittagsausstellungen.",
+            "hu": "Fedezze fel ezt a kortárs művészetet és előadásokat bemutató pezsgő kulturális helyszínt, és előzetesen ellenőrizze a programot a déli kiállításokhoz.",
+            "ro": "Explorați acest spațiu cultural vibrant care găzduiește artă contemporană și spectacole, verificând programul în avans pentru expozițiile de la prânz.",
+            "en": "Explore this vibrant cultural venue that hosts contemporary art and lively performances, checking their schedule in advance for any midday exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche Notre-Dame-de-Grâce",
+            "hu": "Notre-Dame-de-Grâce társaskáptalani templom",
+            "ro": "Biserica Colegială Notre-Dame-de-Grâce",
+            "en": "Collegiate Church of Notre-Dame-de-Grâce"
+          },
+          "coords": [
+            3.284128,
+            43.281557
+          ],
+          "category": "religious",
+          "arrive_at": "11:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende südfranzösische Gotik und die atemberaubenden Buntglasfenster dieser historischen Kirche, aber denken Sie an angemessene Kleidung.",
+            "hu": "Csodálja meg e történelmi templom lenyűgöző dél-francia gótikus építészetét és ólomüveg ablakait, de ne feledjen szerény öltözéket viselni a belépéshez.",
+            "ro": "Admirați impresionanta arhitectură gotică meridională și vitraliile uimitoare ale acestei biserici istorice, dar nu uitați să vă îmbrăcați decent.",
+            "en": "Admire the impressive Southern Gothic architecture and stunning stained glass windows of this historic church, but remember to dress modestly before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Freibad",
+            "hu": "Szabadtéri medence",
+            "ro": "Piscină în aer liber",
+            "en": "Piscine extérieure"
+          },
+          "coords": [
+            3.286665,
+            43.257804
+          ],
+          "category": "family",
+          "arrive_at": "12:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich eine erfrischende Pause an diesem gepflegten Außenpool, bringen Sie eigene Handtücher mit und kommen Sie früh, um eine Liege zu ergattern.",
+            "hu": "Tartson egy frissítő szünetet a családdal ebben a gondozott szabadtéri medencében, hozzon saját törölközőt, és érkezzen korán a legjobb nyugágyakért.",
+            "ro": "Faceți o pauză răcoritoare cu familia la această piscină în aer liber bine întreținută, aducându-vă propriile prosoape și ajungând devreme pentru un șezlong.",
+            "en": "Take a refreshing break with the family at this well-maintained outdoor pool, bringing your own towels and arriving early to secure a comfortable lounger."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturschutzgebiet Les Orpellières",
+            "hu": "Les Orpellières Természetvédelmi Terület",
+            "ro": "Rezervația Naturală Les Orpellières",
+            "en": "Les Orpellières Nature Reserve"
+          },
+          "coords": [
+            3.299292,
+            43.250986
+          ],
+          "category": "natural",
+          "arrive_at": "13:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die geschützten Dünen und Salzwiesen, um die einzigartige Tierwelt zu beobachten, und denken Sie an festes Schuhwerk sowie ausreichend Trinkwasser.",
+            "hu": "Barangoljon a védett dűnék és sós mocsarak között a különleges vadvilág felfedezéséért, ügyelve a kényelmes túracipőre és az elegendő ivóvízre.",
+            "ro": "Plimbați-vă prin dunele și mlaștinile sărate protejate pentru a observa fauna unică, asigurându-vă că purtați încălțăminte adecvată și aveți suficientă apă.",
+            "en": "Wander through the protected dunes and salt marshes to spot unique local wildlife, making sure to wear sturdy walking shoes and carry plenty of drinking water."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Sérignan",
+            "hu": "Sérignan strand",
+            "ro": "Plaja Sérignan",
+            "en": "Plage Sérignan"
+          },
+          "coords": [
+            3.3082,
+            43.252496
+          ],
+          "category": "recreational",
+          "arrive_at": "14:53",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie am weiten, goldenen Sandstrand dieses Mittelmeerabschnitts, ideal für ein spätnachmittägliches Bad, aber achten Sie auf den starken Meereswind.",
+            "hu": "Pihenjen ezen a hatalmas, aranyhomokos mediterrán strandon, amely ideális egy késő délutáni úszáshoz, de vigyázzon az időnként megerősödő tengeri széllel.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje mediteraneene, ideală pentru o baie spre seară, dar fiți atenți la briza mării uneori destul de puternică.",
+            "en": "Relax on the expansive golden sands of this Mediterranean beach, ideal for a late afternoon swim, but watch out for the occasional strong sea breezes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am charmanten Place de la Liberté und radeln Sie zur modernen Kunststätte La Cigalière. Mittags besichtigen Sie die historische Stiftskirche im Zentrum, bevor Sie entspannt Richtung Küste fahren. Der Nachmittag lädt zu einer erfrischenden Pause am Freibad ein. Abends erkunden Sie die Natur in Les Orpellières und beenden den Tag am weiten Sandstrand von Sérignan.",
+        "hu": "Induljon a hangulatos Place de la Liberté térről, és tekerjen a La Cigalière kulturális központjához. Délben látogassa meg a történelmi templomot, majd induljon a part felé. Délután egy frissítő csobbanás várja a medencénél. Kora este fedezze fel a Les Orpellières dűnéit, majd fejezze be a napot a tengerpart aranyhomokján, hallgatva a hullámok játékát.",
+        "ro": "Porniți din fermecătoarea Place de la Liberté și pedalați spre centrul cultural La Cigalière. La prânz, vizitați biserica istorică din centru, înainte de a vă îndrepta spre coastă. După-amiaza vă invită la o pauză răcoritoare la piscină. Seara, explorați natura în Les Orpellières și încheiați ziua relaxându-vă pe vasta plajă de nisip din Sérignan.",
+        "en": "Start from the charming Place de la Liberté and cycle towards the modern cultural hub, La Cigalière. Midday, visit the historic Collegiate Church in the center before pedaling smoothly toward the coast. The afternoon invites a refreshing break at the outdoor pool. In the evening, explore the natural beauty of Les Orpellières and finish your day relaxing on the wide sandy beach of Sérignan."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:35",
+      "total_km": 8.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Place de la Liberté",
+            "hu": "Place de la Liberté",
+            "ro": "Place de la Liberté",
+            "en": "Place de la Liberté"
+          },
+          "coords": [
+            3.280268,
+            43.314519
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die lokale Atmosphäre an diesem schattigen Platz mit seinen malerischen Cafés, perfekt für einen schnellen morgendlichen Espresso vor der Weiterreise.",
+            "hu": "Szívja magába a helyi hangulatot ezen a bájos, árnyékos téren, mely tökéletes egy gyors reggeli eszpresszó elfogyasztására, mielőtt folytatná útját.",
+            "ro": "Bucurați-vă de atmosfera locală în această piață fermecătoare, umbrită, perfectă pentru un espresso rapid de dimineață înainte de a vă continua călătoria.",
+            "en": "Soak in the local atmosphere at this charming, shaded square surrounded by quaint cafes, perfect for a quick morning espresso before continuing your journey."
+          }
+        },
+        {
+          "name": {
+            "de": "La Cigalière",
+            "hu": "La Cigalière",
+            "ro": "La Cigalière",
+            "en": "La Cigalière"
+          },
+          "coords": [
+            3.279586,
+            43.284492
+          ],
+          "category": "cultural",
+          "arrive_at": "09:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen lebendigen Kulturort für zeitgenössische Kunst und Aufführungen, und prüfen Sie vorab das Programm auf interessante Mittagsausstellungen.",
+            "hu": "Fedezze fel ezt a kortárs művészetet és előadásokat bemutató pezsgő kulturális helyszínt, és előzetesen ellenőrizze a programot a déli kiállításokhoz.",
+            "ro": "Explorați acest spațiu cultural vibrant care găzduiește artă contemporană și spectacole, verificând programul în avans pentru expozițiile de la prânz.",
+            "en": "Explore this vibrant cultural venue that hosts contemporary art and lively performances, checking their schedule in advance for any midday exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Passerelle Saint-Roch",
+            "hu": "Saint-Roch gyalogoshíd",
+            "ro": "Pasarela Saint-Roch",
+            "en": "Saint-Roch Footbridge"
+          },
+          "coords": [
+            3.280508,
+            43.282174
+          ],
+          "category": "civic",
+          "arrive_at": "11:03",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese moderne Fußgängerbrücke, um den friedlichen Blick auf den Fluss Orb und die Natur zu genießen, am besten im sanften Morgenlicht.",
+            "hu": "Sétáljon át ezen a modern gyalogoshídon, hogy élvezze az Orb folyóra és a természetre nyíló békés kilátást, lehetőleg a kora reggeli lágy fényben.",
+            "ro": "Traversați această pasarelă pietonală modernă pentru a admira priveliștile pașnice ale râului Orb și natura înconjurătoare, de preferință în lumina dimineții.",
+            "en": "Cross this modern pedestrian bridge to enjoy peaceful views of the Orb river and its natural surroundings, ideally during the soft light of early morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Stiftskirche Notre-Dame-de-Grâce",
+            "hu": "Notre-Dame-de-Grâce társaskáptalani templom",
+            "ro": "Biserica Colegială Notre-Dame-de-Grâce",
+            "en": "Collegiate Church of Notre-Dame-de-Grâce"
+          },
+          "coords": [
+            3.284128,
+            43.281557
+          ],
+          "category": "religious",
+          "arrive_at": "11:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende südfranzösische Gotik und die atemberaubenden Buntglasfenster dieser historischen Kirche, aber denken Sie an angemessene Kleidung.",
+            "hu": "Csodálja meg e történelmi templom lenyűgöző dél-francia gótikus építészetét és ólomüveg ablakait, de ne feledjen szerény öltözéket viselni a belépéshez.",
+            "ro": "Admirați impresionanta arhitectură gotică meridională și vitraliile uimitoare ale acestei biserici istorice, dar nu uitați să vă îmbrăcați decent.",
+            "en": "Admire the impressive Southern Gothic architecture and stunning stained glass windows of this historic church, but remember to dress modestly before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Freibad",
+            "hu": "Szabadtéri medence",
+            "ro": "Piscină în aer liber",
+            "en": "Piscine extérieure"
+          },
+          "coords": [
+            3.286665,
+            43.257804
+          ],
+          "category": "family",
+          "arrive_at": "12:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich eine erfrischende Pause an diesem gepflegten Außenpool, bringen Sie eigene Handtücher mit und kommen Sie früh, um eine Liege zu ergattern.",
+            "hu": "Tartson egy frissítő szünetet a családdal ebben a gondozott szabadtéri medencében, hozzon saját törölközőt, és érkezzen korán a legjobb nyugágyakért.",
+            "ro": "Faceți o pauză răcoritoare cu familia la această piscină în aer liber bine întreținută, aducându-vă propriile prosoape și ajungând devreme pentru un șezlong.",
+            "en": "Take a refreshing break with the family at this well-maintained outdoor pool, bringing your own towels and arriving early to secure a comfortable lounger."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturschutzgebiet Les Orpellières",
+            "hu": "Les Orpellières Természetvédelmi Terület",
+            "ro": "Rezervația Naturală Les Orpellières",
+            "en": "Les Orpellières Nature Reserve"
+          },
+          "coords": [
+            3.299292,
+            43.250986
+          ],
+          "category": "natural",
+          "arrive_at": "13:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die geschützten Dünen und Salzwiesen, um die einzigartige Tierwelt zu beobachten, und denken Sie an festes Schuhwerk sowie ausreichend Trinkwasser.",
+            "hu": "Barangoljon a védett dűnék és sós mocsarak között a különleges vadvilág felfedezéséért, ügyelve a kényelmes túracipőre és az elegendő ivóvízre.",
+            "ro": "Plimbați-vă prin dunele și mlaștinile sărate protejate pentru a observa fauna unică, asigurându-vă că purtați încălțăminte adecvată și aveți suficientă apă.",
+            "en": "Wander through the protected dunes and salt marshes to spot unique local wildlife, making sure to wear sturdy walking shoes and carry plenty of drinking water."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Sérignan",
+            "hu": "Sérignan strand",
+            "ro": "Plaja Sérignan",
+            "en": "Plage Sérignan"
+          },
+          "coords": [
+            3.3082,
+            43.252496
+          ],
+          "category": "recreational",
+          "arrive_at": "14:50",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie am weiten, goldenen Sandstrand dieses Mittelmeerabschnitts, ideal für ein spätnachmittägliches Bad, aber achten Sie auf den starken Meereswind.",
+            "hu": "Pihenjen ezen a hatalmas, aranyhomokos mediterrán strandon, amely ideális egy késő délutáni úszáshoz, de vigyázzon az időnként megerősödő tengeri széllel.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje mediteraneene, ideală pentru o baie spre seară, dar fiți atenți la briza mării uneori destul de puternică.",
+            "en": "Relax on the expansive golden sands of this Mediterranean beach, ideal for a late afternoon swim, but watch out for the occasional strong sea breezes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Fahrt beginnt am Place de la Liberté, gefolgt von einem Besuch der Kulturstätte La Cigalière. Mittags erkunden Sie die Stiftskirche und die Saint-Roch Brücke im historischen Zentrum. Am Nachmittag fahren Sie zügig zum Freibad, um sich eine Auszeit zu gönnen. Der Abend gehört der idyllischen Natur in Les Orpellières und einem ruhigen Ausklang am Strand von Sérignan.",
+        "hu": "Az autós túra a Place de la Liberté téren indul, majd a La Cigalière meglátogatásával folytatódik. Délben a történelmi központ hídját és templomát fedezheti fel. Délután gyorsan elérheti a szabadtéri medencét egy kis kikapcsolódásra. Az estét a Les Orpellières idilli természetében töltheti, végül a Sérignan strandon zárva a napot a tengerparti nyugalomban.",
+        "ro": "Traseul auto începe la Place de la Liberté, urmat de o vizită la La Cigalière. La prânz explorați biserica și pasarela Saint-Roch din centrul istoric. După-amiaza conduceți rapid spre piscină pentru a vă bucura de o pauză. Seara este dedicată naturii idilice din rezervația Les Orpellières și se încheie liniștit pe superba plajă din Sérignan.",
+        "en": "Begin your drive at Place de la Liberté, followed by a visit to the cultural venue La Cigalière. Midday, explore the historic Collegiate Church and the Saint-Roch Footbridge in the center. In the afternoon, drive swiftly to the outdoor pool for a fun, relaxing break. Spend your evening enjoying the idyllic nature of Les Orpellières and unwind fully on the beautiful sands of Plage Sérignan."
+      }
+    }
+  }
+}

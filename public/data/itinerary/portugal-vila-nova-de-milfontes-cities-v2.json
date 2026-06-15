@@ -1,0 +1,451 @@
+{
+  "city_id": "portugal-vila-nova-de-milfontes-cities-v2",
+  "anchor": {
+    "name": "Vila Nova de Milfontes",
+    "coords": [
+      -8.782018,
+      37.723509
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:15",
+      "total_km": 1.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ermida de São Sebastião",
+            "hu": "Ermida de São Sebastião",
+            "ro": "Ermida de São Sebastião",
+            "en": "Ermida de São Sebastião"
+          },
+          "coords": [
+            -8.781353,
+            37.725971
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Diese hübsche kleine weiße Kapelle bietet einen ersten Einblick in das religiöse Erbe, also nehmen Sie sich einen ruhigen Moment für die Architektur.",
+            "hu": "Ez a gyönyörű kis fehér kápolna betekintést nyújt a helyi vallási örökségbe, ezért szánjon egy csendes percet a hagyományos alentejói építészetére.",
+            "ro": "Această mică și frumoasă capelă albă oferă o primă privire asupra moștenirii religioase locale, așa că luați-vă un moment pentru a-i admira arhitectura.",
+            "en": "A beautiful little white chapel offering your first glimpse into local religious heritage, so take a quiet moment to admire its Alentejo architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja de Nossa Senhora da Graça",
+            "hu": "Igreja de Nossa Senhora da Graça",
+            "ro": "Igreja de Nossa Senhora da Graça",
+            "en": "Igreja de Nossa Senhora da Graça"
+          },
+          "coords": [
+            -8.781829,
+            37.723558
+          ],
+          "category": "religious",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Im Herzen des Dorfes gelegen, lädt Sie diese charmante Pfarrkirche ein, einzutreten und in Ruhe ihre friedliche Atmosphäre und den historischen Altar zu bewundern.",
+            "hu": "A falu szívében található hangulatos plébániatemplom arra csábít, hogy lépjen be, és csendben csodálja meg annak békés légkörét és történelmi oltárát.",
+            "ro": "Situată în inima satului, această fermecătoare biserică parohială vă invită să pășiți înăuntru și să apreciați în liniște atmosfera sa senină și altarul istoric.",
+            "en": "Located in the heart of the village, this charming parish church invites you to step inside and quietly appreciate its serene atmosphere and historic altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte de São Clemente",
+            "hu": "Forte de São Clemente",
+            "ro": "Forte de São Clemente",
+            "en": "Forte de São Clemente"
+          },
+          "coords": [
+            -8.782958,
+            37.722762
+          ],
+          "category": "castle",
+          "arrive_at": "10:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Diese efeubewachsene Festung an der Flussmündung ist perfekt für atemberaubende Küstenfotos, auch wenn das Innere für die Öffentlichkeit meist geschlossen ist.",
+            "hu": "A Mira folyó torkolatát őrző, borostyánnal befuttatott erőd tökéletes helyszín lenyűgöző tengerparti fotók készítéséhez, bár a belseje általában zárva tart.",
+            "ro": "Această fortăreață impunătoare, acoperită de iederă, este perfectă pentru fotografii de coastă uimitoare, deși interiorul său este de obicei închis publicului.",
+            "en": "This imposing ivy-clad fortress guarding the Mira river mouth is perfect for stunning coastal photographs, though keep in mind the interior is usually closed."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Franquia",
+            "hu": "Praia da Franquia",
+            "ro": "Praia da Franquia",
+            "en": "Praia da Franquia"
+          },
+          "coords": [
+            -8.786801,
+            37.72223
+          ],
+          "category": "recreational",
+          "arrive_at": "12:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie das ruhige Flusswasser an diesem leicht zugänglichen Strand, der sich ideal für ein sicheres Bad oder das Mieten eines Stand-Up-Paddleboards eignet.",
+            "hu": "Élvezze a folyó nyugodt vizét ezen a könnyen megközelíthető strandon, amely ideális egy biztonságos úszáshoz vagy akár egy evezős deszka bérléséhez is.",
+            "ro": "Bucurați-vă de apele calme ale râului la această plajă foarte accesibilă, care este ideală pentru o înotare sigură sau chiar pentru a închiria un paddleboard.",
+            "en": "Enjoy the calm river waters at this highly accessible beach, which is ideal for a safe swim or even renting a paddleboard for an hour of aquatic fun."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Farol",
+            "hu": "Praia do Farol",
+            "ro": "Praia do Farol",
+            "en": "Praia do Farol"
+          },
+          "coords": [
+            -8.790377,
+            37.719251
+          ],
+          "category": "recreational",
+          "arrive_at": "13:30",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang dort, wo der Fluss auf den Atlantik trifft, und bestaunen Sie die weite Aussicht sowie die ikonische Silhouette des Leuchtturms.",
+            "hu": "Zárja sétáját ott, ahol a folyó találkozik az Atlanti-óceánnal, és gyönyörködjön a lenyűgöző kilátásban, valamint a világítótorony ikonikus sziluettjében.",
+            "ro": "Încheiați plimbarea unde râul întâlnește Oceanul Atlantic, minunându-vă de priveliștile panoramice și de silueta emblematică a farului sub soarele după-amiezii.",
+            "en": "Conclude your walk where the river meets the Atlantic, marveling at the sweeping ocean views and the iconic lighthouse silhouette as the afternoon sun sets."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie mit lokalen religiösen Wahrzeichen und traditioneller Architektur.\n\nMidday: Schlendern Sie durch malerische Straßen zur historischen Küstenfestung.\n\nAfternoon: Entspannen Sie an Flussstränden, wo sanftes Wasser auf goldenen Sand trifft.\n\nEvening: Beenden Sie den Tag am Leuchtturm mit einem spektakulären Sonnenuntergang.",
+        "hu": "Morning: Kezdje a helyi vallási nevezetességek és a hagyományos építészet felfedezésével.\n\nMidday: Sétáljon végig a festői utcákon a történelmi tengerparti erődhöz.\n\nAfternoon: Pihenjen a csendes folyami strandokon, ahol a víz az arany homokkal találkozik.\n\nEvening: Zárja a napot a világítótoronynál egy látványos atlanti naplementével.",
+        "ro": "Morning: Începeți cu reperele religioase locale, admirând arhitectura tradițională.\n\nMidday: Plimbați-vă pe străzile pitorești până la fortăreața istorică de coastă.\n\nAfternoon: Relaxați-vă la plajele fluviale unde apele blânde întâlnesc nisipul auriu.\n\nEvening: Încheiați la far, asistând la un apus spectaculos peste Oceanul Atlantic.",
+        "en": "Morning: Start with local religious landmarks, admiring traditional architecture.\n\nMidday: Stroll to the historic coastal fortress via picturesque streets.\n\nAfternoon: Relax at calm river beaches where gentle waters meet golden sand.\n\nEvening: Conclude at the lighthouse, witnessing a spectacular Atlantic sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 4.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ponte de Vila Nova de Milfontes",
+            "hu": "Ponte de Vila Nova de Milfontes",
+            "ro": "Ponte de Vila Nova de Milfontes",
+            "en": "Ponte de Vila Nova de Milfontes"
+          },
+          "coords": [
+            -8.769956,
+            37.726775
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Radtour auf dieser markanten Brücke und halten Sie sicher auf der Fußgängerseite an, um weitreichende Panoramen des Flusstals einzufangen.",
+            "hu": "Kezdje kerékpártúráját ezen a hídon, és álljon meg biztonságosan a gyalogos oldalon, hogy lenyűgöző panorámaképeket készítsen a csodálatos folyóvölgyről.",
+            "ro": "Începeți traseul de ciclism traversând acest pod proeminent, oprindu-vă în siguranță pe partea pietonală pentru a surprinde panorame superbe ale văii râului.",
+            "en": "Start your cycling route by crossing this prominent bridge, pausing safely on the pedestrian side to capture sweeping panoramas of the magnificent river valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermida de São Sebastião",
+            "hu": "Ermida de São Sebastião",
+            "ro": "Ermida de São Sebastião",
+            "en": "Ermida de São Sebastião"
+          },
+          "coords": [
+            -8.781353,
+            37.725971
+          ],
+          "category": "religious",
+          "arrive_at": "09:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Diese hübsche kleine weiße Kapelle bietet einen ersten Einblick in das religiöse Erbe, also nehmen Sie sich einen ruhigen Moment für die Architektur.",
+            "hu": "Ez a gyönyörű kis fehér kápolna betekintést nyújt a helyi vallási örökségbe, ezért szánjon egy csendes percet a hagyományos alentejói építészetére.",
+            "ro": "Această mică și frumoasă capelă albă oferă o primă privire asupra moștenirii religioase locale, așa că luați-vă un moment pentru a-i admira arhitectura.",
+            "en": "A beautiful little white chapel offering your first glimpse into local religious heritage, so take a quiet moment to admire its Alentejo architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte de São Clemente",
+            "hu": "Forte de São Clemente",
+            "ro": "Forte de São Clemente",
+            "en": "Forte de São Clemente"
+          },
+          "coords": [
+            -8.782958,
+            37.722762
+          ],
+          "category": "castle",
+          "arrive_at": "10:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Diese efeubewachsene Festung an der Flussmündung ist perfekt für atemberaubende Küstenfotos, auch wenn das Innere für die Öffentlichkeit meist geschlossen ist.",
+            "hu": "A Mira folyó torkolatát őrző, borostyánnal befuttatott erőd tökéletes helyszín lenyűgöző tengerparti fotók készítéséhez, bár a belseje általában zárva tart.",
+            "ro": "Această fortăreață impunătoare, acoperită de iederă, este perfectă pentru fotografii de coastă uimitoare, deși interiorul său este de obicei închis publicului.",
+            "en": "This imposing ivy-clad fortress guarding the Mira river mouth is perfect for stunning coastal photographs, though keep in mind the interior is usually closed."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Bica da Areia",
+            "hu": "Praia da Bica da Areia",
+            "ro": "Praia da Bica da Areia",
+            "en": "Praia da Bica da Areia"
+          },
+          "coords": [
+            -8.793,
+            37.725944
+          ],
+          "category": "recreational",
+          "arrive_at": "11:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Radeln Sie zu diesem weniger bekannten Sandstrand mit markanten Felsformationen, der ein fantastischer Ort ist, um die Beine auszuruhen und Meeresluft zu atmen.",
+            "hu": "Kerékpározzon el ehhez a sziklaalakzatokkal övezett, kevésbé ismert homokos partszakaszhoz, amely fantasztikus helyszín a lábak pihentetésére és a friss levegőre.",
+            "ro": "Pedați spre această întindere de nisip mai puțin cunoscută, încadrată de stânci impresionante, fiind un loc fantastic pentru a vă odihni și a respira aer sărat.",
+            "en": "Cycle towards this lesser-known sandy stretch framed by striking rock formations, making it a fantastic spot to simply rest your legs and breathe the ocean air."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia Carreiro da Fazenda",
+            "hu": "Praia Carreiro da Fazenda",
+            "ro": "Praia Carreiro da Fazenda",
+            "en": "Praia Carreiro da Fazenda"
+          },
+          "coords": [
+            -8.792042,
+            37.723378
+          ],
+          "category": "recreational",
+          "arrive_at": "13:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Die raue Naturschönheit dieses wilden Küstenabschnitts ist beeindruckend, also parken Sie Ihr Rad sicher und erkunden Sie vorsichtig die steilen Klippen.",
+            "hu": "Ennek a vad partvidéknek a zord természeti szépsége igazán lenyűgöző, ezért parkolja le biztonságosan a kerékpárját, és óvatosan fedezze fel a drámai sziklákat.",
+            "ro": "Frumusețea naturală aspră a acestei secțiuni de coastă este cu adevărat impresionantă, așa că parcați bicicleta în siguranță și explorați cu atenție stâncile.",
+            "en": "The rugged natural beauty of this untamed coastal section is truly impressive, so park your bike securely and carefully explore the surrounding dramatic cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Porto das Barcas",
+            "hu": "Praia do Porto das Barcas",
+            "ro": "Praia do Porto das Barcas",
+            "en": "Praia do Porto das Barcas"
+          },
+          "coords": [
+            -8.796502,
+            37.733757
+          ],
+          "category": "natural",
+          "arrive_at": "14:35",
+          "stay_min": 55,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihr Abenteuer an diesem malerischen Fischerhafen, wo Sie die lokalen Boote beobachten und vielleicht unglaublich frische Meeresfrüchte probieren können.",
+            "hu": "Fejezze be kalandját ennél a festői halászkikötőnél, ahol megfigyelheti a vízen ringatózó helyi csónakokat, és megkóstolhatja a hihetetlenül friss tengeri ételeket.",
+            "ro": "Încheiați aventura la acest port de pescuit pitoresc, unde puteți urmări bărcile locale legănându-se pe apă și probabil savura fructe de mare proaspete.",
+            "en": "End your adventure at this picturesque fishing harbor, where you can watch local boats bobbing in the water and perhaps enjoy some incredibly fresh seafood nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Überqueren Sie die Brücke für tolle Talblicke vor dem Besuch lokaler Kapellen.\n\nMidday: Radeln Sie auf malerischen Uferstraßen zur historischen Küstenfestung.\n\nAfternoon: Fahren Sie an wilden Küstenabschnitten entlang, um Klippen zu bewundern.\n\nEvening: Beenden Sie die Tour am rustikalen Fischerhafen mit maritimer Atmosphäre.",
+        "hu": "Morning: Keljen át a hídon a völgyre nyíló kilátásért, majd látogassa meg a kápolnákat.\n\nMidday: Tekerjen a festői parti utakon a történelmi tengerparti erődhöz.\n\nAfternoon: Kerékpározzon a vad partok mentén, megcsodálva a drámai sziklákat.\n\nEvening: Fejezze be a túrát a rusztikus halászkikötőben, élvezve a tengeri hangulatot.",
+        "ro": "Morning: Traversați podul pentru vederi ale văii înainte de a vizita capelele locale.\n\nMidday: Pedați spre fortul de coastă istoric pe drumuri pitorești pe malul râului.\n\nAfternoon: Mergeți pe coasta sălbatică pentru a admira stâncile dramatice și valurile.\n\nEvening: Terminați la portul de pescuit rustic, cu o atmosferă maritimă autentică.",
+        "en": "Morning: Cross the main bridge for elevated valley views before visiting local chapels.\n\nMidday: Pedal to the historic coastal fort via scenic riverfront roads.\n\nAfternoon: Ride along wilder coastal stretches to admire dramatic cliffs and waves.\n\nEvening: Finish at the rustic fishing port, enjoying an authentic maritime atmosphere."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:25",
+      "total_km": 18.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ponte de Vila Nova de Milfontes",
+            "hu": "Ponte de Vila Nova de Milfontes",
+            "ro": "Ponte de Vila Nova de Milfontes",
+            "en": "Ponte de Vila Nova de Milfontes"
+          },
+          "coords": [
+            -8.769956,
+            37.726775
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Radtour auf dieser markanten Brücke und halten Sie sicher auf der Fußgängerseite an, um weitreichende Panoramen des Flusstals einzufangen.",
+            "hu": "Kezdje kerékpártúráját ezen a hídon, és álljon meg biztonságosan a gyalogos oldalon, hogy lenyűgöző panorámaképeket készítsen a csodálatos folyóvölgyről.",
+            "ro": "Începeți traseul de ciclism traversând acest pod proeminent, oprindu-vă în siguranță pe partea pietonală pentru a surprinde panorame superbe ale văii râului.",
+            "en": "Start your cycling route by crossing this prominent bridge, pausing safely on the pedestrian side to capture sweeping panoramas of the magnificent river valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte de São Clemente",
+            "hu": "Forte de São Clemente",
+            "ro": "Forte de São Clemente",
+            "en": "Forte de São Clemente"
+          },
+          "coords": [
+            -8.782958,
+            37.722762
+          ],
+          "category": "castle",
+          "arrive_at": "09:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Diese efeubewachsene Festung an der Flussmündung ist perfekt für atemberaubende Küstenfotos, auch wenn das Innere für die Öffentlichkeit meist geschlossen ist.",
+            "hu": "A Mira folyó torkolatát őrző, borostyánnal befuttatott erőd tökéletes helyszín lenyűgöző tengerparti fotók készítéséhez, bár a belseje általában zárva tart.",
+            "ro": "Această fortăreață impunătoare, acoperită de iederă, este perfectă pentru fotografii de coastă uimitoare, deși interiorul său este de obicei închis publicului.",
+            "en": "This imposing ivy-clad fortress guarding the Mira river mouth is perfect for stunning coastal photographs, though keep in mind the interior is usually closed."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia das Furnas",
+            "hu": "Praia das Furnas",
+            "ro": "Praia das Furnas",
+            "en": "Praia das Furnas"
+          },
+          "coords": [
+            -8.786068,
+            37.716671
+          ],
+          "category": "recreational",
+          "arrive_at": "11:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Fahren Sie über den Fluss zu diesem weitläufigen Strand, wo die einzigartige Mischung aus Meereswellen und Flussströmung perfekt für Naturspaziergänge ist.",
+            "hu": "Vezessen át a folyón ehhez a kiterjedt strandhoz, ahol az óceáni hullámok és a nyugodt folyóáramlatok egyedi keveréke tökéletes környezetet teremt a sétákhoz.",
+            "ro": "Conduceți peste râu până la această plajă întinsă, unde mixul unic de valuri oceanice și curenți calmi de râu creează un mediu perfect pentru plimbări în natură.",
+            "en": "Drive across the river to reach this expansive beach, where the unique mix of ocean waves and calm river currents creates a perfect environment for nature walks."
+          }
+        },
+        {
+          "name": {
+            "de": "Non-official beach",
+            "hu": "Non-official beach",
+            "ro": "Non-official beach",
+            "en": "Non-official beach"
+          },
+          "coords": [
+            -8.790136,
+            37.708724
+          ],
+          "category": "landmark",
+          "arrive_at": "12:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Dieser abgelegene Sandabschnitt bietet einen ruhigen Rückzugsort fernab der Massen; bringen Sie jedoch Wasser mit, da es hier keinerlei Einrichtungen gibt.",
+            "hu": "Ez az elhagyatott és jelöletlen homokos szakasz elzárt menedéket kínál a tömeg elől, ezért hozzon magával vizet, mivel itt egyáltalán nincsenek szolgáltatások.",
+            "ro": "Această întindere de nisip retrasă oferă o evadare liniștită departe de mulțimi, așa că aduceți-vă propria apă și provizii, deoarece facilitățile sunt inexistente.",
+            "en": "This remote and unmarked stretch of sand offers a secluded escape from the crowds, so bring your own water and supplies as amenities are completely nonexistent."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Farol",
+            "hu": "Praia do Farol",
+            "ro": "Praia do Farol",
+            "en": "Praia do Farol"
+          },
+          "coords": [
+            -8.790377,
+            37.719251
+          ],
+          "category": "recreational",
+          "arrive_at": "13:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang dort, wo der Fluss auf den Atlantik trifft, und bestaunen Sie die weite Aussicht sowie die ikonische Silhouette des Leuchtturms.",
+            "hu": "Zárja sétáját ott, ahol a folyó találkozik az Atlanti-óceánnal, és gyönyörködjön a lenyűgöző kilátásban, valamint a világítótorony ikonikus sziluettjében.",
+            "ro": "Încheiați plimbarea unde râul întâlnește Oceanul Atlantic, minunându-vă de priveliștile panoramice și de silueta emblematică a farului sub soarele după-amiezii.",
+            "en": "Conclude your walk where the river meets the Atlantic, marveling at the sweeping ocean views and the iconic lighthouse silhouette as the afternoon sun sets."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Porto das Barcas",
+            "hu": "Praia do Porto das Barcas",
+            "ro": "Praia do Porto das Barcas",
+            "en": "Praia do Porto das Barcas"
+          },
+          "coords": [
+            -8.796502,
+            37.733757
+          ],
+          "category": "natural",
+          "arrive_at": "14:30",
+          "stay_min": 55,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihr Abenteuer an diesem malerischen Fischerhafen, wo Sie die lokalen Boote beobachten und vielleicht unglaublich frische Meeresfrüchte probieren können.",
+            "hu": "Fejezze be kalandját ennél a festői halászkikötőnél, ahol megfigyelheti a vízen ringatózó helyi csónakokat, és megkóstolhatja a hihetetlenül friss tengeri ételeket.",
+            "ro": "Încheiați aventura la acest port de pescuit pitoresc, unde puteți urmări bărcile locale legănându-se pe apă și probabil savura fructe de mare proaspete.",
+            "en": "End your adventure at this picturesque fishing harbor, where you can watch local boats bobbing in the water and perhaps enjoy some incredibly fresh seafood nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Starten Sie an der Stadtbrücke für Ausblicke vor der Fahrt zur Hauptfestung.\n\nMidday: Überqueren Sie den Fluss zu wunderschönen, weniger überfüllten Sandstränden.\n\nAfternoon: Navigieren Sie auf rauen Pfaden zu versteckten, abgelegenen Stränden.\n\nEvening: Fahren Sie zurück zum Leuchtturm und Fischerhafen für den Sonnenuntergang.",
+        "hu": "Morning: Kezdjen a hídnál a kilátásért, mielőtt elhajtana a fő történelmi erődhöz.\n\nMidday: Keljen át a folyón, hogy felfedezze a kevésbé zsúfolt, kiterjedt homokos partokat.\n\nAfternoon: Navigáljon a déli földutakon, hogy felfedezze a rejtett, távoli strandokat.\n\nEvening: Vezessen vissza a világítótoronyhoz és a kikötőhöz a naplemente megtekintéséhez.",
+        "ro": "Morning: Începeți la podul orașului pentru priveliști înainte de a conduce la fort.\n\nMidday: Traversați râul pentru a explora maluri de nisip frumoase, mai puțin aglomerate.\n\nAfternoon: Navigați pe trasee aspre spre sud pentru a descoperi plaje ascunse și izolate.\n\nEvening: Conduceți înapoi la far și portul de pescuit pentru a privi apusul vibrant.",
+        "en": "Morning: Start at the prominent town bridge for views before driving to the main fort.\n\nMidday: Cross the river to explore beautifully expansive, less crowded sandy shores.\n\nAfternoon: Navigate rugged southern tracks to discover hidden, unmarked remote beaches.\n\nEvening: Drive back to the lighthouse and fishing port to watch the vibrant sunset."
+      }
+    }
+  }
+}

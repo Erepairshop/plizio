@@ -1,0 +1,405 @@
+{
+  "city_id": "port-la-nouvelle",
+  "anchor": {
+    "name": "Port-la-Nouvelle",
+    "coords": [
+      3.0461,
+      43.02
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:22",
+      "total_km": 4.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Notre-Dame-de-Bon-Voyage",
+            "hu": "Notre-Dame-de-Bon-Voyage templom",
+            "ro": "Biserica Notre-Dame-de-Bon-Voyage",
+            "en": "Église Notre-Dame-de-Bon-Voyage"
+          },
+          "coords": [
+            3.0437,
+            43.021437
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die modernen Buntglasfenster dieser zentralen Kirche, einem Ankerpunkt des lokalen Lebens, und kommen Sie früh, um das beste Morgenlicht einzufangen.",
+            "hu": "Csodálja meg ennek a központi templomnak a modern ólomüveg ablakait, és érkezzen korán, hogy elcsípje a legszebb reggeli fényeket a falakon.",
+            "ro": "Admirați vitraliile moderne ale acestei biserici centrale, un punct de ancorare a vieții locale, și veniți devreme pentru a prinde cea mai bună lumină a dimineții.",
+            "en": "Admire the modern stained glass of this central church, an anchor of local life, and visit early to catch the beautiful morning light through the windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Théâtre de la Mer",
+            "hu": "A Tenger Színháza",
+            "ro": "Teatrul Mării",
+            "en": "Théâtre de la Mer"
+          },
+          "coords": [
+            3.043089,
+            43.022888
+          ],
+          "category": "cultural",
+          "arrive_at": "09:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Genießen Sie Vorstellungen im Freien in diesem maritimen Theater, das die Kultur der Stadt widerspiegelt, und bringen Sie eine leichte Jacke mit.",
+            "hu": "Élvezze a szabadtéri előadásokat ebben a tengerparti színházban, amely a város kultúráját tükrözi, de hozzon magával egy könnyű dzsekit a tengeri szél miatt.",
+            "ro": "Bucurați-vă de spectacole în aer liber la acest teatru maritim care reflectă cultura orașului și aduceți o jachetă ușoară pentru briza mării.",
+            "en": "Enjoy outdoor performances at this maritime theater reflecting the town's culture, and bring a light jacket as the sea breeze can be quite cool."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare de Port-la-Nouvelle",
+            "hu": "Port-la-Nouvelle Világítótorony",
+            "ro": "Farul din Port-la-Nouvelle",
+            "en": "Phare de Port-la-Nouvelle"
+          },
+          "coords": [
+            3.0698,
+            43.012369
+          ],
+          "category": "landmark",
+          "arrive_at": "11:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Betrachten Sie den markanten rot-weißen Leuchtturm, der ein perfektes Fotomotiv bietet, aber achten Sie auf Ihre Schritte auf dem felsigen Wellenbrecher.",
+            "hu": "Tekintse meg a feltűnő piros-fehér világítótornyot, amely tökéletes fotótéma, de nagyon ügyeljen a lépéseire a sziklás hullámtörőn sétálva.",
+            "ro": "Priviți farul impresionant roșu cu alb, un loc perfect pentru fotografii, dar aveți grijă pe unde călcați pe digul stâncos și alunecos.",
+            "en": "Behold the striking red and white lighthouse, a perfect photo spot guiding ships into the Mediterranean, but watch your step on the rocky breakwater."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Front de Mer",
+            "hu": "Tengerparti Fő Strand",
+            "ro": "Plaja Front de Mer",
+            "en": "Plage du Front de Mer"
+          },
+          "coords": [
+            3.061376,
+            43.009495
+          ],
+          "category": "recreational",
+          "arrive_at": "13:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem breiten, familienfreundlichen Sandstrand mit unendlichem Meerblick und kommen Sie vor Mittag, um sich einen guten Platz zu sichern.",
+            "hu": "Pihenjen ezen a széles, családbarát homokos strandon, és érkezzen dél előtt, hogy biztosan találjon egy nagyszerű helyet a víz közelében.",
+            "ro": "Relaxați-vă pe această plajă largă de nisip, ideală pentru familii, și ajungeți înainte de prânz pentru a ocupa un loc bun aproape de apă.",
+            "en": "Relax on this wide, family-friendly sandy beach offering endless Mediterranean views, and arrive before noon to secure a prime spot near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainte-Lucie Island",
+            "hu": "Sainte-Lucie Sziget",
+            "ro": "Insula Sainte-Lucie",
+            "en": "Sainte-Lucie Island"
+          },
+          "coords": [
+            3.052116,
+            43.009558
+          ],
+          "category": "natural",
+          "arrive_at": "14:37",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses unberührte Naturschutzgebiet voller lokaler Flora und Fauna und tragen Sie unbedingt feste Wanderschuhe für die unbefestigten Wege.",
+            "hu": "Fedezze fel ezt az érintetlen, helyi növény- és állatvilággal teli természetvédelmi területet, és viseljen kényelmes túracipőt a földutakon.",
+            "ro": "Explorați această rezervație naturală imaculată plină de floră și faună locală și purtați încălțăminte de drumeție robustă pentru traseele neasfaltate.",
+            "en": "Explore this pristine nature reserve filled with local flora and fauna, a true coastal gem, so wear sturdy walking shoes to navigate the unpaved trails."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an der zentralen Kirche der Stadt und dem nahegelegenen maritimen Theater. Mittags führt ein malerischer Spaziergang den Hafenkanal hinunter zum ikonischen Leuchtturm mit Panoramablick. Verbringen Sie den Nachmittag entspannt am goldenen Sand des Hauptstrandes. Beenden Sie den Tag mit einem friedlichen Abendspaziergang durch die unberührte Natur der Insel Sainte-Lucie.",
+        "hu": "Kezdje a napot a városközpontban található templomnál és a tengeri színháznál. Délben tegyen egy festői sétát a kikötői csatorna mentén az ikonikus világítótoronyhoz. A délutánt töltse pihenéssel a fő strand aranyhomokos partján. A napot a Sainte-Lucie sziget érintetlen és nyugodt természeti ösvényein tett békés esti sétával zárja.",
+        "ro": "Începeți la biserica centrală și la teatrul maritim din apropiere. La prânz, faceți o plimbare pitorească de-a lungul canalului portuar spre farul emblematic. Petreceți după-amiaza relaxându-vă pe nisipul auriu al plajei principale. Încheiați cu o plimbare pașnică de seară prin natura neatinsă a insulei Sainte-Lucie, ascultând sunetele naturii.",
+        "en": "Begin at the town's central church and the nearby maritime theater. Midday brings a scenic walk down the port canal to the iconic lighthouse for panoramic views. Spend the afternoon relaxing on the main beach's soft golden sands. Finish with a peaceful evening walk through the untouched nature and coastal paths of Sainte-Lucie Island."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:52",
+      "total_km": 10.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Notre-Dame-de-Bon-Voyage",
+            "hu": "Notre-Dame-de-Bon-Voyage templom",
+            "ro": "Biserica Notre-Dame-de-Bon-Voyage",
+            "en": "Église Notre-Dame-de-Bon-Voyage"
+          },
+          "coords": [
+            3.0437,
+            43.021437
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die modernen Buntglasfenster dieser zentralen Kirche, einem Ankerpunkt des lokalen Lebens, und kommen Sie früh, um das beste Morgenlicht einzufangen.",
+            "hu": "Csodálja meg ennek a központi templomnak a modern ólomüveg ablakait, és érkezzen korán, hogy elcsípje a legszebb reggeli fényeket a falakon.",
+            "ro": "Admirați vitraliile moderne ale acestei biserici centrale, un punct de ancorare a vieții locale, și veniți devreme pentru a prinde cea mai bună lumină a dimineții.",
+            "en": "Admire the modern stained glass of this central church, an anchor of local life, and visit early to catch the beautiful morning light through the windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Théâtre en Garrigue",
+            "hu": "Színház a Garrigue-ban",
+            "ro": "Teatrul din Garrigue",
+            "en": "Théâtre en Garrigue"
+          },
+          "coords": [
+            3.030496,
+            43.016564
+          ],
+          "category": "cultural",
+          "arrive_at": "09:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen charmanten Freiluft-Veranstaltungsort inmitten der Buschlandschaft und überprüfen Sie vorher den lokalen Spielplan auf spontane Events.",
+            "hu": "Fedezze fel ezt a bájos szabadtéri helyszínt a bozótosban, amely egy egyedülálló kulturális tér, és előzetesen ellenőrizze a helyi programokat.",
+            "ro": "Descoperiți acest loc fermecător în aer liber situat în tufăriș și verificați în prealabil programul local pentru evenimente culturale unice.",
+            "en": "Discover this charming open-air venue nestled in the scrubland, a unique cultural space, and check the local schedule beforehand for impromptu events."
+          }
+        },
+        {
+          "name": {
+            "de": "Salins de Sainte-Lucie",
+            "hu": "Sainte-Lucie Sólepárlók",
+            "ro": "Salinele Sainte-Lucie",
+            "en": "Salins de Sainte-Lucie"
+          },
+          "coords": [
+            3.054663,
+            43.038702
+          ],
+          "category": "landmark",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhaften rosa Farbtöne dieser historischen Salzpfannen und bringen Sie ein Zoomobjektiv mit, um die vielfältigen Zugvögel zu fotografieren.",
+            "hu": "Legyen tanúja e történelmi sólepárlók élénk rózsaszín árnyalatainak, és hozzon magával teleobjektívet, hogy megörökítse a változatos vándormadarakat.",
+            "ro": "Fiți martori la nuanțele vibrante de roz ale acestor saline istorice și aduceți un obiectiv cu zoom pentru a surprinde diversele păsări migratoare.",
+            "en": "Witness the vibrant pink hues of these historic salt pans, a testament to local industry, and bring a zoom lens to capture the diverse migratory birds."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare de Port-la-Nouvelle",
+            "hu": "Port-la-Nouvelle Világítótorony",
+            "ro": "Farul din Port-la-Nouvelle",
+            "en": "Phare de Port-la-Nouvelle"
+          },
+          "coords": [
+            3.0698,
+            43.012369
+          ],
+          "category": "landmark",
+          "arrive_at": "13:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Betrachten Sie den markanten rot-weißen Leuchtturm, der ein perfektes Fotomotiv bietet, aber achten Sie auf Ihre Schritte auf dem felsigen Wellenbrecher.",
+            "hu": "Tekintse meg a feltűnő piros-fehér világítótornyot, amely tökéletes fotótéma, de nagyon ügyeljen a lépéseire a sziklás hullámtörőn sétálva.",
+            "ro": "Priviți farul impresionant roșu cu alb, un loc perfect pentru fotografii, dar aveți grijă pe unde călcați pe digul stâncos și alunecos.",
+            "en": "Behold the striking red and white lighthouse, a perfect photo spot guiding ships into the Mediterranean, but watch your step on the rocky breakwater."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Montilles",
+            "hu": "Montilles Strand",
+            "ro": "Plaja Montilles",
+            "en": "Plage des Montilles"
+          },
+          "coords": [
+            3.054147,
+            42.99324
+          ],
+          "category": "recreational",
+          "arrive_at": "15:07",
+          "stay_min": 105,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Menschenmassen an diesem weiten, wilderen Strand, der ideal zum Windsurfen ist, und packen Sie Snacks ein, da es kaum Kioske gibt.",
+            "hu": "Meneküljön el a tömeg elől ezen a hatalmas, vadabb strandon, amely tökéletes a szörfözéshez, de hozzon magával rágcsálnivalót, mert kevés a büfé.",
+            "ro": "Scăpați de aglomerație pe această plajă vastă și mai sălbatică, perfectă pentru windsurfing, dar asigurați-vă că împachetați gustări proprii.",
+            "en": "Escape the crowds at this vast, wilder beach perfect for windsurfing and kiteboarding, but be sure to pack your own snacks as amenities are limited."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie am Morgen von der historischen Kirche zum rustikalen Freilufttheater in der Garrigue. Mittags fahren Sie nach Norden zu den faszinierenden Salzpfannen mit ihren einzigartigen Rosatönen. Am Nachmittag radeln Sie den malerischen Hafenkanal hinunter zum majestätischen Leuchtturm. Beenden Sie die Fahrt an den weitläufigen südlichen Stränden von Montilles und lauschen Sie den Wellen.",
+        "hu": "Reggel biciklizzen a történelmi templomtól a Garrigue-ban található rusztikus szabadtéri színházhoz. Délben tekerjen északra a lenyűgöző, rózsaszín árnyalatú sólepárlókhoz. Délután kövesse a festői kikötői csatornát a fenséges világítótoronyig. A kerékpártúrát a Montilles hatalmas déli strandjainál fejezze be, élvezve a tengeri szellőt.",
+        "ro": "Pedalați dimineața de la biserica istorică până la teatrul rustic în aer liber din Garrigue. La prânz, mergeți spre nord către fascinantele saline cu nuanțele lor roz unice. După-amiaza, coborâți pe canalul pitoresc al portului către farul maiestuos. Terminați plimbarea pe plajele vaste din sud de la Montilles pentru a vă bucura de apus.",
+        "en": "Cycle in the morning from the historic church to the rustic outdoor theater in the scrubland. Midday, ride north to the fascinating salt pans showing off unique pink hues. Afternoon sees you heading down the scenic port channel to the majestic lighthouse. Finish the ride relaxing at the expansive southern beaches of Montilles as the sun sets."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:04",
+      "total_km": 15.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Théâtre en Garrigue",
+            "hu": "Színház a Garrigue-ban",
+            "ro": "Teatrul din Garrigue",
+            "en": "Théâtre en Garrigue"
+          },
+          "coords": [
+            3.030496,
+            43.016564
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen charmanten Freiluft-Veranstaltungsort inmitten der Buschlandschaft und überprüfen Sie vorher den lokalen Spielplan auf spontane Events.",
+            "hu": "Fedezze fel ezt a bájos szabadtéri helyszínt a bozótosban, amely egy egyedülálló kulturális tér, és előzetesen ellenőrizze a helyi programokat.",
+            "ro": "Descoperiți acest loc fermecător în aer liber situat în tufăriș și verificați în prealabil programul local pentru evenimente culturale unice.",
+            "en": "Discover this charming open-air venue nestled in the scrubland, a unique cultural space, and check the local schedule beforehand for impromptu events."
+          }
+        },
+        {
+          "name": {
+            "de": "Salins de Sainte-Lucie",
+            "hu": "Sainte-Lucie Sólepárlók",
+            "ro": "Salinele Sainte-Lucie",
+            "en": "Salins de Sainte-Lucie"
+          },
+          "coords": [
+            3.054663,
+            43.038702
+          ],
+          "category": "landmark",
+          "arrive_at": "10:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhaften rosa Farbtöne dieser historischen Salzpfannen und bringen Sie ein Zoomobjektiv mit, um die vielfältigen Zugvögel zu fotografieren.",
+            "hu": "Legyen tanúja e történelmi sólepárlók élénk rózsaszín árnyalatainak, és hozzon magával teleobjektívet, hogy megörökítse a változatos vándormadarakat.",
+            "ro": "Fiți martori la nuanțele vibrante de roz ale acestor saline istorice și aduceți un obiectiv cu zoom pentru a surprinde diversele păsări migratoare.",
+            "en": "Witness the vibrant pink hues of these historic salt pans, a testament to local industry, and bring a zoom lens to capture the diverse migratory birds."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare de Port-la-Nouvelle",
+            "hu": "Port-la-Nouvelle Világítótorony",
+            "ro": "Farul din Port-la-Nouvelle",
+            "en": "Phare de Port-la-Nouvelle"
+          },
+          "coords": [
+            3.0698,
+            43.012369
+          ],
+          "category": "landmark",
+          "arrive_at": "12:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Betrachten Sie den markanten rot-weißen Leuchtturm, der ein perfektes Fotomotiv bietet, aber achten Sie auf Ihre Schritte auf dem felsigen Wellenbrecher.",
+            "hu": "Tekintse meg a feltűnő piros-fehér világítótornyot, amely tökéletes fotótéma, de nagyon ügyeljen a lépéseire a sziklás hullámtörőn sétálva.",
+            "ro": "Priviți farul impresionant roșu cu alb, un loc perfect pentru fotografii, dar aveți grijă pe unde călcați pe digul stâncos și alunecos.",
+            "en": "Behold the striking red and white lighthouse, a perfect photo spot guiding ships into the Mediterranean, but watch your step on the rocky breakwater."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainte-Lucie Island",
+            "hu": "Sainte-Lucie Sziget",
+            "ro": "Insula Sainte-Lucie",
+            "en": "Sainte-Lucie Island"
+          },
+          "coords": [
+            3.052116,
+            43.009558
+          ],
+          "category": "natural",
+          "arrive_at": "13:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses unberührte Naturschutzgebiet voller lokaler Flora und Fauna und tragen Sie unbedingt feste Wanderschuhe für die unbefestigten Wege.",
+            "hu": "Fedezze fel ezt az érintetlen, helyi növény- és állatvilággal teli természetvédelmi területet, és viseljen kényelmes túracipőt a földutakon.",
+            "ro": "Explorați această rezervație naturală imaculată plină de floră și faună locală și purtați încălțăminte de drumeție robustă pentru traseele neasfaltate.",
+            "en": "Explore this pristine nature reserve filled with local flora and fauna, a true coastal gem, so wear sturdy walking shoes to navigate the unpaved trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de la Palme",
+            "hu": "Étang de la Palme Lagúna",
+            "ro": "Laguna Étang de la Palme",
+            "en": "Étang de la Palme"
+          },
+          "coords": [
+            3.016566,
+            42.954501
+          ],
+          "category": "natural",
+          "arrive_at": "15:19",
+          "stay_min": 105,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese riesige Küstenlagune, die berühmt für Flamingos ist, und besuchen Sie sie in der Abenddämmerung, um die besten Lichtverhältnisse zu haben.",
+            "hu": "Csodálja meg ezt a flamingóiról híres hatalmas tengerparti lagúnát, és látogasson el ide alkonyatkor, amikor a fényviszonyok a legjobbak a fotózáshoz.",
+            "ro": "Minunați-vă de această lagună de coastă masivă renumită pentru flamingo și vizitați-o aproape de amurg pentru cele mai bune condiții de lumină.",
+            "en": "Marvel at this massive coastal lagoon famous for its flamingos and tranquil waters, a nature lover's dream, and visit near dusk for the best lighting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie am Morgen zum einzigartigen Freilufttheater in der Garrigue und zu den malerischen historischen Salzpfannen. Mittags folgen Sie dem Kanal zum markanten Leuchtturm und machen dort eine gemütliche Pause. Parken Sie am Nachmittag in der Nähe der Insel Sainte-Lucie für eine intensive Naturwanderung. Abends fahren Sie in den Süden zum riesigen Étang de la Palme, um den Sonnenuntergang über dem Wasser zu genießen.",
+        "hu": "Reggel vezessen az egyedülálló szabadtéri színházhoz a bozótosban, majd a festői sólepárlókhoz. Délben kövesse a csatornát a lenyűgöző világítótoronyig egy rövid pihenőre. Délután parkoljon le a Sainte-Lucie sziget közelében egy magával ragadó természetjárásra. Este hajtson délre a hatalmas Étang de la Palme lagúnához, és élvezze a naplementét a víz felett.",
+        "ro": "Conduceți dimineața la unicul teatru din Garrigue și la pitoreștile saline istorice. La prânz, urmați canalul până la farul impresionant pentru o scurtă pauză de relaxare. Parcați după-amiaza lângă insula Sainte-Lucie pentru o drumeție captivantă în natură. Seara, conduceți spre sud la vasta lagună Étang de la Palme pentru a vă bucura de apus.",
+        "en": "Drive in the morning to the unique Garrigue theater and the picturesque historic salt pans. Midday, follow the canal down to the lighthouse and grab a quick bite near the port. Afternoon sees you parking near Sainte-Lucie Island for an immersive coastal nature hike. In the evening, drive south to the vast Étang de la Palme lagoon to enjoy a breathtaking sunset."
+      }
+    }
+  }
+}

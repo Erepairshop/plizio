@@ -1,0 +1,451 @@
+{
+  "city_id": "saint-pierre-sur-dives",
+  "anchor": {
+    "name": "Saint-Pierre-sur-Dives",
+    "coords": [
+      -0.0325,
+      49.0189
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:35",
+      "total_km": 4.65,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Abtei von Saint-Pierre-sur-Dives",
+            "hu": "Saint-Pierre-sur-Dives apátsága",
+            "ro": "Abația Saint-Pierre-sur-Dives",
+            "en": "Abbey of Saint-Pierre-sur-Dives"
+          },
+          "coords": [
+            -0.032778,
+            49.02
+          ],
+          "category": "monastic",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende normannische Architektur dieser historischen Abtei und achten Sie besonders auf die kunstvollen mittelalterlichen Bodenfliesen, die Sie bei einer Führung entdecken können.",
+            "hu": "Csodálja meg e történelmi apátság lenyűgöző normann építészetét, és figyelje meg a díszes középkori padlólapokat, amelyeket érdemes egy vezetett túra során felfedezni.",
+            "ro": "Admirați arhitectura normandă impresionantă a acestei abații istorice și acordați o atenție deosebită plăcilor medievale ornate, cel mai bine explorate în timpul unui tur ghidat.",
+            "en": "Admire the impressive Norman architecture of this historic abbey and pay special attention to the ornate medieval floor tiles, which are best explored during a guided tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Wintergarten",
+            "hu": "Télikert",
+            "ro": "Grădina cu seră",
+            "en": "Conservatory Garden"
+          },
+          "coords": [
+            -0.033354,
+            49.019365
+          ],
+          "category": "recreational",
+          "arrive_at": "09:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.09,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in den ruhigen Grünanlagen dieses gepflegten Gartens und bringen Sie ein Buch mit, um die friedliche Atmosphäre auf einer der schattigen Bänke zu genießen.",
+            "hu": "Pihenjen meg a gondozott kert nyugodt zöldterületein, és hozzon magával egy könyvet, hogy az árnyékos padok egyikén élvezhesse a békés és csendes atmoszférát.",
+            "ro": "Relaxați-vă în spațiile verzi liniștite ale acestei grădini îngrijite și aduceți o carte pentru a vă bucura de atmosfera pașnică pe una dintre băncile umbrite.",
+            "en": "Relax in the tranquil green spaces of this manicured garden and bring a good book to fully enjoy the peaceful atmosphere on one of the comfortable shaded benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtisches Schwimmbad",
+            "hu": "Városi Uszoda",
+            "ro": "Piscina Municipală",
+            "en": "Piscine Municipale"
+          },
+          "coords": [
+            -0.029688,
+            49.016567
+          ],
+          "category": "family",
+          "arrive_at": "11:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich eine erfrischende Pause in den sauberen Becken dieses städtischen Schwimmbads und vergessen Sie nicht, Ihre eigene Badekappe mitzubringen, da diese hier Pflicht ist.",
+            "hu": "Tartson egy frissítő szünetet a városi uszoda tiszta medencéiben, és ne felejtsen el saját úszósapkát hozni, mivel annak viselése kötelező a vízbe lépéshez.",
+            "ro": "Faceți o pauză răcoritoare în piscinele curate ale acestui ștrand municipal și nu uitați să vă aduceți propria cască de înot, deoarece purtarea acesteia este obligatorie.",
+            "en": "Take a refreshing break in the clean pools of this municipal swimming facility and remember to bring your own swimming cap, as wearing one is mandatory for entry."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Carel",
+            "hu": "Château de Carel",
+            "ro": "Château de Carel",
+            "en": "Château de Carel"
+          },
+          "coords": [
+            -0.045487,
+            49.010025
+          ],
+          "category": "castle",
+          "arrive_at": "12:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.36,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses elegante Schloss auf seiner Insel, um die klassische französische Architektur zu bewundern, wobei Sie die besten Fotos vom umliegenden Graben aus machen.",
+            "hu": "Tekintse meg ezt az elegáns, szigeten épült kastélyt a klasszikus francia építészetért, és készítse el a legjobb fotókat a környező várárok mentén sétálva.",
+            "ro": "Priviți acest castel elegant situat pe o insulă pentru a admira arhitectura clasică franceză și surprindeți cele mai bune fotografii plimbându-vă de-a lungul șanțului pitoresc.",
+            "en": "View this elegant island-bound castle to admire classic French architecture, and capture the best photographs by walking along the edge of the picturesque surrounding moat."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Hiéville",
+            "hu": "Hiéville Városháza",
+            "ro": "Primăria Hiéville",
+            "en": "Town Hall Hiéville"
+          },
+          "coords": [
+            -0.010597,
+            49.020907
+          ],
+          "category": "landmark",
+          "arrive_at": "14:50",
+          "stay_min": 45,
+          "hop_from_prev_min": 42,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die charmante Fassade dieses kleinen Gemeindehauses in der Normandie und verbinden Sie Ihren Besuch mit einer kurzen Rast auf Ihrem Weg durch die Landschaft.",
+            "hu": "Fedezze fel ennek a kis normandiai közösségi háznak a bájos homlokzatát, és kösse össze látogatását egy rövid pihenővel a vidéken átívelő utazása során.",
+            "ro": "Descoperiți fațada fermecătoare a acestei mici clădiri comunitare normande și combinați vizita dumneavoastră cu o scurtă pauză în timpul călătoriei prin mediul rural.",
+            "en": "Discover the charming facade of this small Norman community building and combine your visit with a short rest during your journey through the picturesque local countryside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag in der majestätischen Abtei, bevor Sie in den umliegenden Gärten entspannen.\n\nAm Mittag können Sie sich im städtischen Schwimmbad erfrischen und neue Energie tanken.\n\nDer Nachmittag führt Sie zum malerischen Château de Carel, wo Sie Geschichte pur erleben.\n\nBeenden Sie den Tag an der Mairie de Hiéville und genießen Sie die ländliche Abendstimmung.",
+        "hu": "Kezdje a napot a fenséges apátságban, majd pihenjen a környező kertekben.\n\nDélben frissüljön fel a városi uszodában, és gyűjtsön új energiát a délutánra.\n\nA délután a festői Château de Carel-hez vezeti, ahol igazi történelmi élmény várja.\n\nZárja a napot a Hiéville-i városházánál, és élvezze a vidéki esti hangulatot.",
+        "ro": "Începeți ziua la majestuoasa abație înainte de a vă relaxa în grădinile din jur.\n\nLa prânz, răcoriți-vă la piscina municipală și reîncărcați-vă cu energie.\n\nDupă-amiaza vă duce la pitorescul Château de Carel, unde veți experimenta istoria pură.\n\nÎncheiați ziua la Mairie de Hiéville și bucurați-vă de atmosfera rurală de seară.",
+        "en": "Start your day at the majestic abbey before taking time to relax in the surrounding gardens.\n\nAt midday, cool off and recharge your energy with a refreshing break at the municipal pool.\n\nThe afternoon leads you to the picturesque Château de Carel, where you will experience pure history.\n\nConclude the day at the Mairie de Hiéville and enjoy the peaceful rural evening atmosphere."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:24",
+      "total_km": 6.17,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Abtei von Saint-Pierre-sur-Dives",
+            "hu": "Saint-Pierre-sur-Dives apátsága",
+            "ro": "Abația Saint-Pierre-sur-Dives",
+            "en": "Abbey of Saint-Pierre-sur-Dives"
+          },
+          "coords": [
+            -0.032778,
+            49.02
+          ],
+          "category": "monastic",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende normannische Architektur dieser historischen Abtei und achten Sie besonders auf die kunstvollen mittelalterlichen Bodenfliesen, die Sie bei einer Führung entdecken können.",
+            "hu": "Csodálja meg e történelmi apátság lenyűgöző normann építészetét, és figyelje meg a díszes középkori padlólapokat, amelyeket érdemes egy vezetett túra során felfedezni.",
+            "ro": "Admirați arhitectura normandă impresionantă a acestei abații istorice și acordați o atenție deosebită plăcilor medievale ornate, cel mai bine explorate în timpul unui tur ghidat.",
+            "en": "Admire the impressive Norman architecture of this historic abbey and pay special attention to the ornate medieval floor tiles, which are best explored during a guided tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Wintergarten",
+            "hu": "Télikert",
+            "ro": "Grădina cu seră",
+            "en": "Conservatory Garden"
+          },
+          "coords": [
+            -0.033354,
+            49.019365
+          ],
+          "category": "recreational",
+          "arrive_at": "09:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in den ruhigen Grünanlagen dieses gepflegten Gartens und bringen Sie ein Buch mit, um die friedliche Atmosphäre auf einer der schattigen Bänke zu genießen.",
+            "hu": "Pihenjen meg a gondozott kert nyugodt zöldterületein, és hozzon magával egy könyvet, hogy az árnyékos padok egyikén élvezhesse a békés és csendes atmoszférát.",
+            "ro": "Relaxați-vă în spațiile verzi liniștite ale acestei grădini îngrijite și aduceți o carte pentru a vă bucura de atmosfera pașnică pe una dintre băncile umbrite.",
+            "en": "Relax in the tranquil green spaces of this manicured garden and bring a good book to fully enjoy the peaceful atmosphere on one of the comfortable shaded benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Carel",
+            "hu": "Château de Carel",
+            "ro": "Château de Carel",
+            "en": "Château de Carel"
+          },
+          "coords": [
+            -0.045487,
+            49.010025
+          ],
+          "category": "castle",
+          "arrive_at": "11:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses elegante Schloss auf seiner Insel, um die klassische französische Architektur zu bewundern, wobei Sie die besten Fotos vom umliegenden Graben aus machen.",
+            "hu": "Tekintse meg ezt az elegáns, szigeten épült kastélyt a klasszikus francia építészetért, és készítse el a legjobb fotókat a környező várárok mentén sétálva.",
+            "ro": "Priviți acest castel elegant situat pe o insulă pentru a admira arhitectura clasică franceză și surprindeți cele mai bune fotografii plimbându-vă de-a lungul șanțului pitoresc.",
+            "en": "View this elegant island-bound castle to admire classic French architecture, and capture the best photographs by walking along the edge of the picturesque surrounding moat."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Grisy",
+            "hu": "Château de Grisy",
+            "ro": "Château de Grisy",
+            "en": "Château de Grisy"
+          },
+          "coords": [
+            -0.05316,
+            49.008242
+          ],
+          "category": "castle",
+          "arrive_at": "12:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.58,
+          "tip_5lang": {
+            "de": "Erkunden Sie die reiche Geschichte dieses beeindruckenden Schlosses in der Landschaft und überprüfen Sie vorab die Öffnungszeiten, da der Zugang zu den Innenräumen oft eingeschränkt ist.",
+            "hu": "Fedezze fel e lenyűgöző vidéki kastély gazdag történelmét, de előzetesen ellenőrizze a nyitvatartást, mivel a belső terek látogatása gyakran korlátozott a nagyközönség számára.",
+            "ro": "Explorați istoria bogată a acestui castel rural impresionant și verificați programul în prealabil, deoarece accesul la spațiile interioare este adesea restricționat pentru public.",
+            "en": "Explore the rich history of this impressive rural castle, but make sure to check the opening hours beforehand as access to the interiors is often restricted to the public."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir la Commanderie",
+            "hu": "Manoir la Commanderie",
+            "ro": "Manoir la Commanderie",
+            "en": "Manoir la Commanderie"
+          },
+          "coords": [
+            -0.025993,
+            49.03704
+          ],
+          "category": "castle",
+          "arrive_at": "14:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.75,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das ritterliche Erbe dieses faszinierenden Herrenhauses ein und nehmen Sie sich Zeit für einen gemütlichen Spaziergang durch die historische Umgebung des Anwesens.",
+            "hu": "Merüljön el e lenyűgöző udvarház lovagi örökségében, és szánjon időt egy kényelmes sétára a birtok történelmi környezetében, hogy átérezze a hely varázsát.",
+            "ro": "Scufundați-vă în moștenirea cavalerească a acestui conac fascinant și faceți-vă timp pentru o plimbare pe îndelete prin împrejurimile istorice frumoase ale proprietății.",
+            "en": "Immerse yourself in the chivalric heritage of this fascinating manor, and take the time for a leisurely walk through the beautiful and historic surroundings of the estate."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Bretteville-sur-Dives",
+            "hu": "Bretteville-sur-Dives Városháza",
+            "ro": "Primăria Bretteville-sur-Dives",
+            "en": "Town Hall Bretteville-sur-Dives"
+          },
+          "coords": [
+            -0.02001,
+            49.038119
+          ],
+          "category": "landmark",
+          "arrive_at": "15:39",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.44,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses malerische Rathausgebäude als Symbol der lokalen Verwaltung und nutzen Sie die Gelegenheit, um die ruhige dörfliche Atmosphäre der Umgebung zu genießen.",
+            "hu": "Tekintse meg ezt a festői városházát a helyi közigazgatás jelképeként, és használja ki az alkalmat a környező falu csendes és békés atmoszférájának élvezetére.",
+            "ro": "Priviți această clădire pitorească a primăriei ca un simbol al administrației locale și profitați de ocazie pentru a vă bucura de atmosfera liniștită a satului înconjurător.",
+            "en": "View this picturesque town hall building as a symbol of local administration and take the opportunity to enjoy the quiet and peaceful village atmosphere of the surroundings."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein sportlicher Start an der Abtei führt Sie schnell in die grünen Gärten der Stadt.\n\nRadeln Sie zum Château de Carel und weiter zum Château de Grisy für historische Entdeckungen.\n\nAm Nachmittag durchqueren Sie die Landschaft zum beeindruckenden Manoir la Commanderie.\n\nDie Tour endet entspannt an der Mairie in Bretteville-sur-Dives in der Abenddämmerung.",
+        "hu": "Egy sportos kezdés az apátságnál gyorsan a város zöld kertjeibe vezet.\n\nKerékpározzon a Château de Carel és a Château de Grisy felé történelmi felfedezésekért.\n\nDélután szelje át a vidéket a lenyűgöző Manoir la Commanderie irányába.\n\nA túra nyugodtan ér véget a Bretteville-sur-Dives-i városházánál az alkonyatban.",
+        "ro": "Un început sportiv la abație vă duce rapid către grădinile verzi ale orașului.\n\nBicicliți spre Château de Carel și Château de Grisy pentru descoperiri istorice fascinante.\n\nDupă-amiaza traversați peisajul rural către impresionantul Manoir la Commanderie.\n\nTurul se încheie relaxant la primăria din Bretteville-sur-Dives în amurgul liniștit.",
+        "en": "A sporty start at the abbey quickly leads you to the city's lush and green conservatory gardens.\n\nCycle towards Château de Carel and onwards to Château de Grisy for fascinating historical discoveries.\n\nIn the afternoon, ride through the scenic countryside to reach the impressive Manoir la Commanderie.\n\nThe tour concludes peacefully at the town hall in Bretteville-sur-Dives as dusk begins to fall."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:07",
+      "total_km": 7.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Abtei von Saint-Pierre-sur-Dives",
+            "hu": "Saint-Pierre-sur-Dives apátsága",
+            "ro": "Abația Saint-Pierre-sur-Dives",
+            "en": "Abbey of Saint-Pierre-sur-Dives"
+          },
+          "coords": [
+            -0.032778,
+            49.02
+          ],
+          "category": "monastic",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende normannische Architektur dieser historischen Abtei und achten Sie besonders auf die kunstvollen mittelalterlichen Bodenfliesen, die Sie bei einer Führung entdecken können.",
+            "hu": "Csodálja meg e történelmi apátság lenyűgöző normann építészetét, és figyelje meg a díszes középkori padlólapokat, amelyeket érdemes egy vezetett túra során felfedezni.",
+            "ro": "Admirați arhitectura normandă impresionantă a acestei abații istorice și acordați o atenție deosebită plăcilor medievale ornate, cel mai bine explorate în timpul unui tur ghidat.",
+            "en": "Admire the impressive Norman architecture of this historic abbey and pay special attention to the ornate medieval floor tiles, which are best explored during a guided tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Carel",
+            "hu": "Château de Carel",
+            "ro": "Château de Carel",
+            "en": "Château de Carel"
+          },
+          "coords": [
+            -0.045487,
+            49.010025
+          ],
+          "category": "castle",
+          "arrive_at": "09:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses elegante Schloss auf seiner Insel, um die klassische französische Architektur zu bewundern, wobei Sie die besten Fotos vom umliegenden Graben aus machen.",
+            "hu": "Tekintse meg ezt az elegáns, szigeten épült kastélyt a klasszikus francia építészetért, és készítse el a legjobb fotókat a környező várárok mentén sétálva.",
+            "ro": "Priviți acest castel elegant situat pe o insulă pentru a admira arhitectura clasică franceză și surprindeți cele mai bune fotografii plimbându-vă de-a lungul șanțului pitoresc.",
+            "en": "View this elegant island-bound castle to admire classic French architecture, and capture the best photographs by walking along the edge of the picturesque surrounding moat."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Grisy",
+            "hu": "Château de Grisy",
+            "ro": "Château de Grisy",
+            "en": "Château de Grisy"
+          },
+          "coords": [
+            -0.05316,
+            49.008242
+          ],
+          "category": "castle",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die reiche Geschichte dieses beeindruckenden Schlosses in der Landschaft und überprüfen Sie vorab die Öffnungszeiten, da der Zugang zu den Innenräumen oft eingeschränkt ist.",
+            "hu": "Fedezze fel e lenyűgöző vidéki kastély gazdag történelmét, de előzetesen ellenőrizze a nyitvatartást, mivel a belső terek látogatása gyakran korlátozott a nagyközönség számára.",
+            "ro": "Explorați istoria bogată a acestui castel rural impresionant și verificați programul în prealabil, deoarece accesul la spațiile interioare este adesea restricționat pentru public.",
+            "en": "Explore the rich history of this impressive rural castle, but make sure to check the opening hours beforehand as access to the interiors is often restricted to the public."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Hiéville",
+            "hu": "Hiéville Városháza",
+            "ro": "Primăria Hiéville",
+            "en": "Town Hall Hiéville"
+          },
+          "coords": [
+            -0.010597,
+            49.020907
+          ],
+          "category": "landmark",
+          "arrive_at": "12:42",
+          "stay_min": 15,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.37,
+          "tip_5lang": {
+            "de": "Entdecken Sie die charmante Fassade dieses kleinen Gemeindehauses in der Normandie und verbinden Sie Ihren Besuch mit einer kurzen Rast auf Ihrem Weg durch die Landschaft.",
+            "hu": "Fedezze fel ennek a kis normandiai közösségi háznak a bájos homlokzatát, és kösse össze látogatását egy rövid pihenővel a vidéken átívelő utazása során.",
+            "ro": "Descoperiți fațada fermecătoare a acestei mici clădiri comunitare normande și combinați vizita dumneavoastră cu o scurtă pauză în timpul călătoriei prin mediul rural.",
+            "en": "Discover the charming facade of this small Norman community building and combine your visit with a short rest during your journey through the picturesque local countryside."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus Bretteville-sur-Dives",
+            "hu": "Bretteville-sur-Dives Városháza",
+            "ro": "Primăria Bretteville-sur-Dives",
+            "en": "Town Hall Bretteville-sur-Dives"
+          },
+          "coords": [
+            -0.02001,
+            49.038119
+          ],
+          "category": "landmark",
+          "arrive_at": "13:01",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.98,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses malerische Rathausgebäude als Symbol der lokalen Verwaltung und nutzen Sie die Gelegenheit, um die ruhige dörfliche Atmosphäre der Umgebung zu genießen.",
+            "hu": "Tekintse meg ezt a festői városházát a helyi közigazgatás jelképeként, és használja ki az alkalmat a környező falu csendes és békés atmoszférájának élvezetére.",
+            "ro": "Priviți această clădire pitorească a primăriei ca un simbol al administrației locale și profitați de ocazie pentru a vă bucura de atmosfera liniștită a satului înconjurător.",
+            "en": "View this picturesque town hall building as a symbol of local administration and take the opportunity to enjoy the quiet and peaceful village atmosphere of the surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir la Commanderie",
+            "hu": "Manoir la Commanderie",
+            "ro": "Manoir la Commanderie",
+            "en": "Manoir la Commanderie"
+          },
+          "coords": [
+            -0.025993,
+            49.03704
+          ],
+          "category": "castle",
+          "arrive_at": "13:17",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das ritterliche Erbe dieses faszinierenden Herrenhauses ein und nehmen Sie sich Zeit für einen gemütlichen Spaziergang durch die historische Umgebung des Anwesens.",
+            "hu": "Merüljön el e lenyűgöző udvarház lovagi örökségében, és szánjon időt egy kényelmes sétára a birtok történelmi környezetében, hogy átérezze a hely varázsát.",
+            "ro": "Scufundați-vă în moștenirea cavalerească a acestui conac fascinant și faceți-vă timp pentru o plimbare pe îndelete prin împrejurimile istorice frumoase ale proprietății.",
+            "en": "Immerse yourself in the chivalric heritage of this fascinating manor, and take the time for a leisurely walk through the beautiful and historic surroundings of the estate."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autofahrt beginnt an der prächtigen Abtei, gefolgt von einer Fahrt zum Château de Carel.\n\nDie Route führt Sie weiter zum Château de Grisy und zu den kleinen Gemeinden der Umgebung.\n\nNach einem Halt in Hiéville erreichen Sie die idyllische Mairie von Bretteville-sur-Dives.\n\nDas Highlight des Abends ist das majestätische Manoir la Commanderie im goldenen Licht.",
+        "hu": "Autós útja a pompás apátságnál kezdődik, majd a Château de Carel felé veszi az irányt.\n\nAz útvonal a Château de Grisy-hez és a környék kis közösségeihez vezet tovább.\n\nEgy Hiéville-i megálló után eléri Bretteville-sur-Dives idillikus városházáját.\n\nAz este fénypontja a fenséges Manoir la Commanderie a lenyugvó nap arany fényében.",
+        "ro": "Călătoria cu mașina începe la abația splendidă, urmată de o vizită la Château de Carel.\n\nTraseul vă duce mai departe către Château de Grisy și micile comunități din jur.\n\nDupă o oprire în Hiéville, ajungeți la primăria idilică din Bretteville-sur-Dives.\n\nPunctul culminant al serii este maiestuosul Manoir la Commanderie în lumina aurie.",
+        "en": "Your drive starts at the magnificent abbey, followed by a quick journey to Château de Carel.\n\nThe route takes you further to Château de Grisy and the charming small communities nearby.\n\nAfter a stop in Hiéville, you arrive at the idyllic town hall of Bretteville-sur-Dives.\n\nThe highlight of the evening is the majestic Manoir la Commanderie glowing in the golden twilight."
+      }
+    }
+  }
+}

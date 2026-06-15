@@ -1,0 +1,497 @@
+{
+  "city_id": "pattaya-cities-v2",
+  "anchor": {
+    "name": "Pattaya",
+    "coords": [
+      100.8825,
+      12.9236
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "19:29",
+      "total_km": 3.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ripley's Believe it or not",
+            "hu": "Ripley's Believe it or not",
+            "ro": "Ripley's Believe it or not",
+            "en": "Ripley's Believe it or not"
+          },
+          "coords": [
+            100.878571,
+            12.928761
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie hunderte bizarre Artefakte und interaktive Ausstellungen, die die Realität herausfordern; kaufen Sie Tickets online, um Warteschlangen zu vermeiden.",
+            "hu": "Fedezzen fel több száz bizarr tárgyat és interaktív kiállítást, amelyek megkérdőjelezik a valóságot; vegye meg jegyét online, hogy elkerülje a hosszú sorban állást.",
+            "ro": "Descoperiți sute de artefacte bizare și expoziții interactive care sfidează realitatea; cumpărați bilete online pentru a evita cozile lungi de la intrare.",
+            "en": "Discover hundreds of bizarre artifacts and interactive exhibits that challenge reality; buy tickets online to skip the often long entrance lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Pattaya Beach",
+            "hu": "Pattaya Beach",
+            "ro": "Pattaya Beach",
+            "en": "Pattaya Beach"
+          },
+          "coords": [
+            100.879526,
+            12.938916
+          ],
+          "category": "recreational",
+          "arrive_at": "11:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie Sonne und Wassersport an dieser belebten Küste, aber sichern Sie Ihre Wertsachen beim Schwimmen und mieten Sie früh einen Schattenplatz.",
+            "hu": "Élvezze a napsütést és a vízi sportokat ezen a nyüzsgő parton, de fürdéskor mindig figyeljen értékeire, és béreljen időben árnyékos napágyat.",
+            "ro": "Bucurați-vă de soare și sporturi nautice pe această coastă animată, dar asigurați-vă bunurile când înotați și închiriați devreme un șezlong la umbră.",
+            "en": "Enjoy the sun and water sports along this bustling coastline, but always secure your belongings when swimming and rent a shaded chair early."
+          }
+        },
+        {
+          "name": {
+            "de": "Alcazar Cabaret Show",
+            "hu": "Alcazar Cabaret Show",
+            "ro": "Alcazar Cabaret Show",
+            "en": "Alcazar Cabaret Show"
+          },
+          "coords": [
+            100.889002,
+            12.943005
+          ],
+          "category": "cultural",
+          "arrive_at": "12:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schillernden Kostüme und atemberaubende Choreografie dieses weltberühmten Cabarets; sitzen Sie im VIP-Bereich für beste Fotowinkel.",
+            "hu": "Csodálja meg ennek a világhírű kabarénak a káprázatos jelmezeit és koreográfiáját; válasszon VIP jegyet a legjobb fotózási szögekért.",
+            "ro": "Admirați costumele orbitoare și coregrafia uimitoare a acestui faimos cabaret; alegeți secțiunea VIP pentru cele mai bune unghiuri foto.",
+            "en": "Marvel at the dazzling costumes and stunning choreography of this world-famous cabaret; sit in the VIP section for the best photo angles."
+          }
+        },
+        {
+          "name": {
+            "de": "Art in Paradise",
+            "hu": "Art in Paradise",
+            "ro": "Art in Paradise",
+            "en": "Art in Paradise"
+          },
+          "coords": [
+            100.889885,
+            12.948239
+          ],
+          "category": "museum",
+          "arrive_at": "14:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Posieren Sie in großen 3D-Gemälden für verblüffende optische Täuschungen und laden Sie Ihr Handy auf, um alle lustigen Momente festzuhalten.",
+            "hu": "Pózoljon a nagy 3D festményekben a lenyűgöző optikai csalódásokért, és gondoskodjon arról, hogy telefonja teljesen fel legyen töltve.",
+            "ro": "Pozați în picturi 3D pentru iluzii optice uluitoare și asigurați-vă că telefonul este complet încărcat pentru a surprinde toate momentele amuzante.",
+            "en": "Pose inside large 3D paintings for mind-bending optical illusions, and make sure your phone is fully charged to capture all the funny moments."
+          }
+        },
+        {
+          "name": {
+            "de": "Tiffany's Show",
+            "hu": "Tiffany's Show",
+            "ro": "Tiffany's Show",
+            "en": "Tiffany's Show"
+          },
+          "coords": [
+            100.887591,
+            12.94901
+          ],
+          "category": "cultural",
+          "arrive_at": "15:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie den Glanz von Asiens führendem Transvestiten-Cabaret und verpassen Sie nicht das Foto mit den Darstellern nach der Show.",
+            "hu": "Tapasztalja meg Ázsia vezető transzvesztita kabaréjának csillogását, és ne hagyja ki a közös fotózást a fellépőkkel az előadás után.",
+            "ro": "Experimentați strălucirea cabaretului asiatic de top și nu ratați ocazia de a face fotografii cu artiștii după spectacol.",
+            "en": "Experience the glitz and glamour of Asia's premier transvestite cabaret, and don't miss the chance to take photos with performers after the show."
+          }
+        },
+        {
+          "name": {
+            "de": "Teddy Bear Museum",
+            "hu": "Teddy Bear Museum",
+            "ro": "Teddy Bear Museum",
+            "en": "Teddy Bear Museum"
+          },
+          "coords": [
+            100.885038,
+            12.946648
+          ],
+          "category": "museum",
+          "arrive_at": "17:19",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch Themenbereiche voller Kuschelbären, ideal für Familienfotos; besuchen Sie das Museum an Wochentagen für mehr Ruhe.",
+            "hu": "Sétáljon végig a mackókkal teli tematikus zónákon, amelyek ideálisak családi fotókhoz; látogasson el hétköznap délelőtt a nyugodtabb élményért.",
+            "ro": "Plimbați-vă prin zone tematice pline de urși de pluș, ideale pentru fotografii; vizitați în diminețile de zi lucrătoare pentru liniște.",
+            "en": "Wander through diverse themed zones filled with cuddly bears ideal for family photos; visit during weekday mornings for a quieter experience."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Tour beginnt nahe dem lebhaften Strandzentrum mit den Kuriositäten von Ripley's und einem entspannten Spaziergang entlang des Pattaya Beach.\n\nMittags erreichen Sie das nördliche Viertel und erleben das pulsierende Flair des Alcazar Cabaret.\n\nDer Nachmittag ist interaktiver Kunst im Art in Paradise und dem glamourösen Tiffany's Show Theater gewidmet.\n\nDer Abend endet unbeschwert im Teddy Bear Museum und schließt einen perfekten Tag voller Kultur und Unterhaltung auf charmante Weise ab.",
+        "hu": "A gyalogtúra a nyüzsgő központi strandszakasznál indul, egyenesen a Ripley's furcsaságaival, majd egy pihentető tengerparti sétával a Pattaya Beach-en.\n\nDélben eléri az északi negyedet, ahol az Alcazar Cabaret ikonikus, lüktető hangulata fogadja.\n\nA délután az interaktív művészeté az Art in Paradise-ban és a csillogó Tiffany's Show teátrumánál.\n\nAz estéje a Teddy Bear Museum vidám látogatásával zárul, teljessé téve a kultúrával és szórakozással teli napot.",
+        "ro": "Turul pietonal începe aproape de plaja centrală, explorând curiozitățile de la Ripley's înainte de o plimbare relaxantă de-a lungul Pattaya Beach.\n\nLa amiază ajungeți în cartierul nordic, captând atmosfera vibrantă a legendarului cabaret Alcazar.\n\nDupă-amiaza este dedicată artei interactive la Art in Paradise și teatrului strălucitor Tiffany's Show.\n\nSeara se încheie vesel la Teddy Bear Museum, finalizând o zi perfectă de cultură și divertisment pe jos.",
+        "en": "Your walking tour begins near the vibrant central beach area, diving straight into the oddities of Ripley's before offering a relaxing seaside stroll along Pattaya Beach.\n\nBy midday, you'll reach the lively northern district, catching the iconic Alcazar Cabaret's distinct cultural ambiance.\n\nThe afternoon is dedicated to interactive art at Art in Paradise and the glamorous Tiffany's Show theater.\n\nYour evening concludes with a lighthearted visit to the Teddy Bear Museum, wrapping up a perfect day of culture and entertainment on foot."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:27",
+      "total_km": 10.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Asia Beach",
+            "hu": "Asia Beach",
+            "ro": "Asia Beach",
+            "en": "Asia Beach"
+          },
+          "coords": [
+            100.856814,
+            12.915334
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem ruhigen Strandabschnitt abseits der Massen; holen Sie sich eine frische Kokosnuss und genießen Sie den Sonnenuntergang.",
+            "hu": "Pihenjen ezen a viszonylag csendes, tömegtől mentes partszakaszon; vegyen egy friss kókuszt, és élvezze a békés naplementét.",
+            "ro": "Relaxați-vă pe această porțiune de nisip liniștită, perfectă pentru a scăpa de aglomerație; luați o nucă de cocos proaspătă și bucurați-vă de apus.",
+            "en": "Relax on this relatively quiet stretch of sand perfect for escaping the crowds; grab a fresh coconut from a local vendor and enjoy the serene atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "D'Luck Cinematic Theatre",
+            "hu": "D'Luck Cinematic Theatre",
+            "ro": "D'Luck Cinematic Theatre",
+            "en": "D'Luck Cinematic Theatre"
+          },
+          "coords": [
+            100.878076,
+            12.907177
+          ],
+          "category": "cultural",
+          "arrive_at": "10:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von innovativen Bühnenshows mit Flugeffekten fesseln; seien Sie 30 Minuten früher da, um Snacks zu holen und Ihren Platz zu finden.",
+            "hu": "Hagyja, hogy magával ragadják az innovatív filmes színpadi show-k repülő effektekkel; érkezzen 30 perccel korábban, hogy megtalálja a helyét.",
+            "ro": "Fiți captivați de spectacolele cinematografice inovatoare cu efecte de zbor; ajungeți cu 30 de minute devreme pentru a vă găsi locul.",
+            "en": "Be captivated by innovative cinematic stage shows featuring spectacular flying effects; arrive 30 minutes early to grab snacks and find your seat."
+          }
+        },
+        {
+          "name": {
+            "de": "Ripley's Believe it or not",
+            "hu": "Ripley's Believe it or not",
+            "ro": "Ripley's Believe it or not",
+            "en": "Ripley's Believe it or not"
+          },
+          "coords": [
+            100.878571,
+            12.928761
+          ],
+          "category": "museum",
+          "arrive_at": "12:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie hunderte bizarre Artefakte und interaktive Ausstellungen, die die Realität herausfordern; kaufen Sie Tickets online, um Warteschlangen zu vermeiden.",
+            "hu": "Fedezzen fel több száz bizarr tárgyat és interaktív kiállítást, amelyek megkérdőjelezik a valóságot; vegye meg jegyét online, hogy elkerülje a hosszú sorban állást.",
+            "ro": "Descoperiți sute de artefacte bizare și expoziții interactive care sfidează realitatea; cumpărați bilete online pentru a evita cozile lungi de la intrare.",
+            "en": "Discover hundreds of bizarre artifacts and interactive exhibits that challenge reality; buy tickets online to skip the often long entrance lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Pattaya Beach",
+            "hu": "Pattaya Beach",
+            "ro": "Pattaya Beach",
+            "en": "Pattaya Beach"
+          },
+          "coords": [
+            100.879526,
+            12.938916
+          ],
+          "category": "recreational",
+          "arrive_at": "13:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie Sonne und Wassersport an dieser belebten Küste, aber sichern Sie Ihre Wertsachen beim Schwimmen und mieten Sie früh einen Schattenplatz.",
+            "hu": "Élvezze a napsütést és a vízi sportokat ezen a nyüzsgő parton, de fürdéskor mindig figyeljen értékeire, és béreljen időben árnyékos napágyat.",
+            "ro": "Bucurați-vă de soare și sporturi nautice pe această coastă animată, dar asigurați-vă bunurile când înotați și închiriați devreme un șezlong la umbră.",
+            "en": "Enjoy the sun and water sports along this bustling coastline, but always secure your belongings when swimming and rent a shaded chair early."
+          }
+        },
+        {
+          "name": {
+            "de": "The bottle museum",
+            "hu": "The bottle museum",
+            "ro": "The bottle museum",
+            "en": "The bottle museum"
+          },
+          "coords": [
+            100.90008,
+            12.929072
+          ],
+          "category": "museum",
+          "arrive_at": "15:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Betrachten Sie unglaublich detaillierte Miniatur-Wahrzeichen in Glasflaschen; nehmen Sie sich Zeit, die winzigen Schiffe genau zu betrachten.",
+            "hu": "Vizsgálja meg az üvegpalackokban gondosan megépített, hihetetlenül részletes miniatűröket; szánjon időt az apró hajók alapos megfigyelésére.",
+            "ro": "Examinați repere miniaturale incredibil de detaliate construite în sticle; luați-vă timp pentru a privi navele minuscule cu o lupă.",
+            "en": "Examine incredibly detailed miniature landmarks built meticulously inside glass bottles; take your time viewing the tiny ships with a magnifying glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Amazing Art",
+            "hu": "Amazing Art",
+            "ro": "Amazing Art",
+            "en": "Amazing Art"
+          },
+          "coords": [
+            100.897032,
+            12.944936
+          ],
+          "category": "museum",
+          "arrive_at": "17:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in lebhafte optische Täuschungen; tragen Sie helle, einfarbige Kleidung, um sich von den detaillierten Hintergründen abzuheben.",
+            "hu": "Merüljön el az élénk optikai csalódásokban, ahol a festmény részévé válik; viseljen élénk, egyszínű ruhát a legjobb fotókért.",
+            "ro": "Cufundați-vă în iluzii optice vibrante unde deveniți parte din pictură; purtați culori vii, uni, pentru a ieși în evidență pe fundal.",
+            "en": "Immerse yourself in vibrant optical illusions where you become part of the painting; wear bright, solid colors to pop against the detailed backdrops."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt am ruhigen Asia Beach, bevor Sie zum architektonischen Wunderwerk des D'Luck Cinematic Theatre weiterradeln.\n\nGegen Mittag fahren Sie ins lebhafte Zentrum, um die Kuriositäten von Ripley's und den berühmten Pattaya Beach zu erkunden.\n\nDie Nachmittagsroute führt Sie etwas landeinwärts zu den faszinierenden, detailreichen Miniaturen im The Bottle Museum.\n\nIhr Fahrradabenteuer endet schließlich entspannt beim Amazing Art mit bunten, kreativen und interaktiven Eindrücken.",
+        "hu": "Kezdje a tekerést az Asia Beach nyugodt partjainál, majd vegye az irányt a D'Luck Cinematic Theatre modern építészeti csodája felé.\n\nDélidőben a város szívébe érkezik, ahol a Ripley's izgalmai és a híres Pattaya Beach tengerparti nyüzsgése várja.\n\nA délutáni útvonal kissé beljebb vezet, a The Bottle Museum lenyűgöző miniatűrjeihez és precíz palackhajóihoz.\n\nVégül a biciklis kaland az Amazing Art kreatív és színes, interaktív kiállításainál ér kényelmes véget.",
+        "ro": "Începeți traseul de pe țărmul liniștit de la Asia Beach, înainte de a pedala spre minunea arhitecturală modernă D'Luck Cinematic Theatre.\n\nLa amiază intrați în inima orașului pentru a explora colecțiile de la Ripley's și faimoasa Pattaya Beach.\n\nTraseul de după-amiază vă duce ușor spre interior la miniaturile fascinante și corăbiile meticuloase de la The Bottle Museum.\n\nAventura pe bicicletă se încheie creativ la Amazing Art, o destinație plină de culoare și iluzii fantastice.",
+        "en": "Start your ride from the tranquil shores of Asia Beach, enjoying the coastal breeze before heading to the architectural marvel of D'Luck Cinematic Theatre.\n\nAs midday approaches, pedal into the heart of the city to explore Ripley's Believe it or not and the iconic Pattaya Beach.\n\nThe afternoon route takes you slightly inland to discover intricately crafted miniatures at The Bottle Museum.\n\nFinally, your biking adventure winds down at Amazing Art, offering a highly creative and colorful end to your scenic journey."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:47",
+      "total_km": 9.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "International Snake Show",
+            "hu": "International Snake Show",
+            "ro": "International Snake Show",
+            "en": "International Snake Show"
+          },
+          "coords": [
+            100.907308,
+            12.9349
+          ],
+          "category": "family",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie mutige Dompteure, die Tricks mit tödlichen Kobras vorführen; sitzen Sie weiter hinten, wenn Sie bei plötzlichen Bewegungen schreckhaft sind.",
+            "hu": "Nézze meg, ahogy a merész gondozók trükköket mutatnak be kobrákkal; üljön pár sorral hátrébb, ha könnyen megijed a hirtelen mozdulatoktól.",
+            "ro": "Urmăriți manipulatorii curajoși făcând trucuri cu cobre; stați cu câteva rânduri mai în spate dacă vă speriați ușor de mișcările bruște.",
+            "en": "Witness daring handlers perform thrilling tricks with deadly cobras and pythons; sit a few rows back if you are easily startled by sudden movements."
+          }
+        },
+        {
+          "name": {
+            "de": "The bottle museum",
+            "hu": "The bottle museum",
+            "ro": "The bottle museum",
+            "en": "The bottle museum"
+          },
+          "coords": [
+            100.90008,
+            12.929072
+          ],
+          "category": "museum",
+          "arrive_at": "10:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie unglaublich detaillierte Miniatur-Wahrzeichen in Glasflaschen; nehmen Sie sich Zeit, die winzigen Schiffe genau zu betrachten.",
+            "hu": "Vizsgálja meg az üvegpalackokban gondosan megépített, hihetetlenül részletes miniatűröket; szánjon időt az apró hajók alapos megfigyelésére.",
+            "ro": "Examinați repere miniaturale incredibil de detaliate construite în sticle; luați-vă timp pentru a privi navele minuscule cu o lupă.",
+            "en": "Examine incredibly detailed miniature landmarks built meticulously inside glass bottles; take your time viewing the tiny ships with a magnifying glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Tuxedo Illusion Hall",
+            "hu": "Tuxedo Illusion Hall",
+            "ro": "Tuxedo Illusion Hall",
+            "en": "Tuxedo Illusion Hall"
+          },
+          "coords": [
+            100.889754,
+            12.946925
+          ],
+          "category": "cultural",
+          "arrive_at": "12:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Genießen Sie eine interaktive Zaubershow mit klassischen Illusionen; melden Sie sich freiwillig für die Bühne für ein unvergessliches Erlebnis.",
+            "hu": "Élvezze az interaktív varázsműsort klasszikus illúziókkal és modern trükkökkel; jelentkezzen önkéntesnek a színpadra egy felejthetetlen élményért.",
+            "ro": "Bucurați-vă de un spectacol de magie interactiv cu iluzii clasice; oferiți-vă voluntar pe scenă pentru o experiență cu adevărat de neuitat.",
+            "en": "Enjoy an interactive magic performance featuring classic illusions and modern trickery; volunteer to go on stage for a truly unforgettable experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Art in Paradise",
+            "hu": "Art in Paradise",
+            "ro": "Art in Paradise",
+            "en": "Art in Paradise"
+          },
+          "coords": [
+            100.889885,
+            12.948239
+          ],
+          "category": "museum",
+          "arrive_at": "13:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Posieren Sie in großen 3D-Gemälden für verblüffende optische Täuschungen und laden Sie Ihr Handy auf, um alle lustigen Momente festzuhalten.",
+            "hu": "Pózoljon a nagy 3D festményekben a lenyűgöző optikai csalódásokért, és gondoskodjon arról, hogy telefonja teljesen fel legyen töltve.",
+            "ro": "Pozați în picturi 3D pentru iluzii optice uluitoare și asigurați-vă că telefonul este complet încărcat pentru a surprinde toate momentele amuzante.",
+            "en": "Pose inside large 3D paintings for mind-bending optical illusions, and make sure your phone is fully charged to capture all the funny moments."
+          }
+        },
+        {
+          "name": {
+            "de": "Pattaya Beach",
+            "hu": "Pattaya Beach",
+            "ro": "Pattaya Beach",
+            "en": "Pattaya Beach"
+          },
+          "coords": [
+            100.879526,
+            12.938916
+          ],
+          "category": "recreational",
+          "arrive_at": "15:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie Sonne und Wassersport an dieser belebten Küste, aber sichern Sie Ihre Wertsachen beim Schwimmen und mieten Sie früh einen Schattenplatz.",
+            "hu": "Élvezze a napsütést és a vízi sportokat ezen a nyüzsgő parton, de fürdéskor mindig figyeljen értékeire, és béreljen időben árnyékos napágyat.",
+            "ro": "Bucurați-vă de soare și sporturi nautice pe această coastă animată, dar asigurați-vă bunurile când înotați și închiriați devreme un șezlong la umbră.",
+            "en": "Enjoy the sun and water sports along this bustling coastline, but always secure your belongings when swimming and rent a shaded chair early."
+          }
+        },
+        {
+          "name": {
+            "de": "Kids ATV's",
+            "hu": "Kids ATV's",
+            "ro": "Kids ATV's",
+            "en": "Kids ATV's"
+          },
+          "coords": [
+            100.883141,
+            12.906244
+          ],
+          "category": "family",
+          "arrive_at": "16:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Lassen Sie Kinder den Nervenkitzel des sicheren Offroad-Fahrens erleben; bringen Sie geschlossene Schuhe und Kleidung mit, die schmutzig werden darf.",
+            "hu": "Hagyja, hogy a gyerekek átéljék a biztonságos terepjárózás izgalmát; hozzanak zárt cipőt és kényelmes ruhát, ami nyugodtan bekoszolódhat.",
+            "ro": "Lăsați copiii să experimenteze fiorul condusului off-road pe piste sigure; aduceți încălțăminte închisă și haine care se pot murdări.",
+            "en": "Let the kids experience the thrill of safe, off-road driving on specially designed tracks; bring closed-toe shoes and comfortable clothes that can get dirty."
+          }
+        },
+        {
+          "name": {
+            "de": "Colosseum Show Pattaya",
+            "hu": "Colosseum Show Pattaya",
+            "ro": "Colosseum Show Pattaya",
+            "en": "Colosseum Show Pattaya"
+          },
+          "coords": [
+            100.877496,
+            12.90468
+          ],
+          "category": "cultural",
+          "arrive_at": "17:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit einer spektakulären Drag-Show in einer römischen Arena; buchen Sie einen VIP-Platz für Freigetränke und die beste Sicht.",
+            "hu": "Zárja a napot egy látványos drag-előadással egy kolosszális, római stílusú arénában; foglaljon VIP helyet az ingyenes italokért és a legjobb kilátásért.",
+            "ro": "Încheiați-vă ziua cu un spectacol spectaculos într-o arenă colosală în stil roman; rezervați un loc VIP pentru băuturi gratuite și cea mai bună vedere.",
+            "en": "End your day with a spectacular drag performance held in a colossal Roman-style arena; book a VIP seat for complimentary drinks and the best view."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt im Osten bei der aufregenden International Snake Show und den filigranen handgemachten Schiffen im The Bottle Museum.\n\nMittags erwarten Sie verblüffende magische Shows in der Tuxedo Illusion Hall und großartige 3D-Illusionen im Art in Paradise.\n\nVerbringen Sie den späten Nachmittag entspannt und erfrischend am belebten Sandstrand von Pattaya Beach.\n\nAm Abend fahren Sie in den Süden für Action bei Kids ATV's und beenden die Nacht stilvoll bei der spektakulären Colosseum Show.",
+        "hu": "Autós túrája a keleti oldalon, a Nemzetközi Kígyóshow izgalmainál kezdődik, majd a Palackmúzeum finom hajómakettjeinél folytatódik.\n\nDélben a Tuxedo Illusion Hall bámulatos varázslata és az Art in Paradise magával ragadó 3D illúziói várják.\n\nA késő délutánt a Pattaya Beach hűsítő homokján, a tengerparti nyüzsgésben töltheti el.\n\nEstefelé délre veszi az irányt a Kids ATV's kalandjaiért, és az estét a lenyűgöző Colosseum Show-nál zárja.",
+        "ro": "Turul auto începe în est cu captivantul International Snake Show și cu navele delicate din Muzeul Sticlei.\n\nLa amiază vă bucurați de magia de la Tuxedo Illusion Hall și de incredibilele iluzii 3D de la Art in Paradise.\n\nPetreceți după-amiaza târzie cu o pauză relaxantă pe nisipurile animate de la Pattaya Beach.\n\nPe seară, mergeți spre sud pentru acțiune la Kids ATV's și încheiați noaptea la spectaculosul Colosseum Show.",
+        "en": "Your driving tour begins on the eastern side at the thrilling International Snake Show before marvelling at the delicate ships within The Bottle Museum.\n\nMidday brings you to the magical performances at Tuxedo Illusion Hall and the immersive 3D optical illusions at Art in Paradise.\n\nSpend the late afternoon taking a refreshing and leisurely break along the sandy shores of Pattaya Beach.\n\nAs evening falls, head south for some action at Kids ATV's and cap off the night at the spectacular Colosseum Show."
+      }
+    }
+  }
+}

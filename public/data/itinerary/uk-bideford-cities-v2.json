@@ -1,0 +1,474 @@
+{
+  "city_id": "uk-bideford-cities-v2",
+  "anchor": {
+    "name": "Bideford",
+    "coords": [
+      -4.2171,
+      51.0162
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:36",
+      "total_km": 1.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bideford Pannier Market",
+            "hu": "Bideford Pannier Market",
+            "ro": "Bideford Pannier Market",
+            "en": "Bideford Pannier Market"
+          },
+          "coords": [
+            -4.207419,
+            51.016953
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historische viktorianische Markthalle für lokales Kunsthandwerk aus Devon, aber kommen Sie dienstags und samstags früh für die beste Auswahl.",
+            "hu": "Fedezze fel ezt a történelmi viktoriánus vásárcsarnokot helyi devoni termékekért, de kedden és szombaton érkezzen korán a legjobb friss áruválasztékért.",
+            "ro": "Explorați această piață istorică victoriană pentru produse și meșteșuguri locale din Devon, dar veniți devreme marțea și sâmbăta pentru cea mai bună selecție.",
+            "en": "Explore this historic Victorian market hall for local Devon produce and crafts, but come early on Tuesdays and Saturdays for the best selection of fresh goods."
+          }
+        },
+        {
+          "name": {
+            "de": "St Mary's Church",
+            "hu": "St Mary's Church",
+            "ro": "St Mary's Church",
+            "en": "St Mary's Church"
+          },
+          "coords": [
+            -4.205672,
+            51.016362
+          ],
+          "category": "religious",
+          "arrive_at": "10:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie das schöne normannische Taufbecken und die Buntglasfenster dieser Kirche und achten Sie auf die Anschlagtafel für Auftritte des lokalen Chors.",
+            "hu": "Csodálja meg a gyönyörű normann keresztelőmedencét és az üvegablakokat ebben a békés templomban, és figyelje a hirdetőtáblát a helyi kórus fellépéseiért.",
+            "ro": "Admirați frumosul font normand și vitraliile impresionante din această biserică pașnică, și amintiți-vă să verificați panoul pentru spectacolele corului local.",
+            "en": "Admire the beautiful Norman font and impressive stained glass in this peaceful parish church, and remember to check the noticeboard for local choir performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Cooper Street",
+            "hu": "Cooper Street",
+            "ro": "Cooper Street",
+            "en": "Cooper Street"
+          },
+          "coords": [
+            -4.205461,
+            51.018727
+          ],
+          "category": "historical",
+          "arrive_at": "10:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese charmante, schmale historische Straße voller unabhängiger Boutiquen und halten Sie Ausschau nach versteckten, handwerklichen Cafés.",
+            "hu": "Sétáljon végig ezen a bájos, szűk történelmi utcán, amely tele van független butikokkal, és tartsa nyitva a szemét az eldugott kézműves kávézók után.",
+            "ro": "Plimbați-vă pe această stradă istorică fermecătoare și îngustă, plină de buticuri independente, și fiți cu ochii în patru pentru cafenele artizanale ascunse.",
+            "en": "Wander down this charming, narrow historical street filled with independent boutiques and quirky architecture, keeping your eyes peeled for hidden artisan cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Bideford Quay",
+            "hu": "Bideford Quay",
+            "ro": "Bideford Quay",
+            "en": "Bideford Quay"
+          },
+          "coords": [
+            -4.20433,
+            51.0192
+          ],
+          "category": "civic",
+          "arrive_at": "12:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Schlendern Sie an der belebten Uferpromenade entlang, um die Fischerboote und die Fähre nach Lundy Island zu beobachten, während Sie ein lokales Eis genießen.",
+            "hu": "Sétáljon a nyüzsgő vízparton, nézze meg a halászhajókat és a Lundy-szigeti kompot, miközben vesz egy klasszikus helyi fagylaltot egy közeli árustól.",
+            "ro": "Plimbați-vă pe faleza plină de viață pentru a privi bărcile de pescuit și feribotul spre Insula Lundy, savurând o înghețată locală clasică de la un vânzător.",
+            "en": "Stroll along the bustling waterfront to watch the fishing boats and Lundy Island ferry depart, while grabbing a classic local ice cream from a nearby vendor."
+          }
+        },
+        {
+          "name": {
+            "de": "The Burton at Bideford",
+            "hu": "The Burton at Bideford",
+            "ro": "The Burton at Bideford",
+            "en": "The Burton at Bideford"
+          },
+          "coords": [
+            -4.205141,
+            51.021299
+          ],
+          "category": "museum",
+          "arrive_at": "12:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende lokale Geschichte und zeitgenössische Kunst in diesem Museum und besuchen Sie unbedingt das ausgezeichnete Café im französischen Stil.",
+            "hu": "Fedezzen fel lenyűgöző helyi történelmet és kortárs művészeti kiállításokat ebben a remek múzeumban, és mindenképp térjen be a kiváló francia stílusú kávézóba.",
+            "ro": "Descoperiți istoria locală și arta contemporană în acest muzeu minunat, asigurându-vă că vă opriți la excelenta lor cafenea în stil francez pentru o gustare.",
+            "en": "Discover fascinating local history and contemporary art exhibitions in this wonderful museum, making sure to stop by their excellent French-style cafe for a treat."
+          }
+        },
+        {
+          "name": {
+            "de": "Victoria Park",
+            "hu": "Victoria Park",
+            "ro": "Victoria Park",
+            "en": "Victoria Park"
+          },
+          "coords": [
+            -4.2043,
+            51.022178
+          ],
+          "category": "natural",
+          "arrive_at": "14:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich zwischen Blumenarrangements und historischen Kanonen in diesem gepflegten Park und bringen Sie eine Decke für ein gemütliches Picknick mit.",
+            "hu": "Pihenjen a gyönyörű virágok és történelmi ágyúk között ebben a jól karbantartott parkban, és hozzon magával egy takarót egy hangulatos délutáni piknikhez.",
+            "ro": "Relaxați-vă printre aranjamentele florale și tunurile istorice din acest parc public, aducând o pătură pentru un picnic pitoresc de după-amiază sub copaci.",
+            "en": "Relax among beautiful floral displays and historic cannons in this well-kept public park, bringing a blanket for a scenic afternoon picnic under the mature trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Bideford Long Bridge",
+            "hu": "Bideford Long Bridge",
+            "ro": "Bideford Long Bridge",
+            "en": "Bideford Long Bridge"
+          },
+          "coords": [
+            -4.2034,
+            51.0165
+          ],
+          "category": "historical",
+          "arrive_at": "15:46",
+          "stay_min": 110,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese ikonische mittelalterliche Brücke mit 24 Bögen über den Fluss Torridge für tolle Sonnenuntergangsfotos, aber achten Sie auf schmale Wege.",
+            "hu": "Sétáljon át a Torridge folyót átívelő, 24 ívű középkori építményen lenyűgöző naplementés fotókért, de ügyeljen a keskeny járdákra a forgalom mellett.",
+            "ro": "Traversați această structură medievală cu 24 de arce peste râul Torridge pentru a face fotografii uimitoare la apus, dar aveți grijă la trotuarele înguste.",
+            "en": "Walk across this iconic 24-arch medieval structure spanning the River Torridge to capture stunning sunset photographs, but be mindful of the narrow pavements."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am Pannier Market und der historischen St Mary's Church. Mittags erkunden Sie die Boutiquen der Cooper Street bis hin zum malerischen Bideford Quay. Der Nachmittag ist der Kunst im The Burton und der Entspannung im Victoria Park gewidmet. Der Abend endet mit einem Spaziergang über die mittelalterliche Long Bridge bei Sonnenuntergang.",
+        "hu": "A reggel a nyüzsgő Pannier Marketen és a történelmi St Mary's templomnál indul. Délben felfedezheti a Cooper Street butikjait, majd a festői Bideford Quay-t. A délután a művészeté a The Burtonben és a pihenésé a Victoria Park fáinak árnyékában. Az estét egy séta zárja a középkori Long Bridge-en, ahogy a nap lassan lenyugszik a horizonton.",
+        "ro": "Dimineața începe la vibrantul Pannier Market și biserica istorică St Mary's. La prânz, explorați buticurile de pe Cooper Street înainte de a ajunge la pitorescul Bideford Quay. După-amiaza este pentru artă la The Burton și relaxare în Victoria Park. Seara se încheie cu o plimbare pitorească peste podul medieval Long Bridge la apusul soarelui.",
+        "en": "Morning starts at the vibrant Pannier Market and historic St Mary's Church. Midday invites you to explore the boutiques on Cooper Street before reaching the scenic Bideford Quay. Afternoon is for discovering art at The Burton and relaxing under Victoria Park's trees. Evening concludes with a picturesque walk across the medieval Long Bridge as the sun sets."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 1.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bideford Quay",
+            "hu": "Bideford Quay",
+            "ro": "Bideford Quay",
+            "en": "Bideford Quay"
+          },
+          "coords": [
+            -4.20433,
+            51.0192
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schlendern Sie an der belebten Uferpromenade entlang, um die Fischerboote und die Fähre nach Lundy Island zu beobachten, während Sie ein lokales Eis genießen.",
+            "hu": "Sétáljon a nyüzsgő vízparton, nézze meg a halászhajókat és a Lundy-szigeti kompot, miközben vesz egy klasszikus helyi fagylaltot egy közeli árustól.",
+            "ro": "Plimbați-vă pe faleza plină de viață pentru a privi bărcile de pescuit și feribotul spre Insula Lundy, savurând o înghețată locală clasică de la un vânzător.",
+            "en": "Stroll along the bustling waterfront to watch the fishing boats and Lundy Island ferry depart, while grabbing a classic local ice cream from a nearby vendor."
+          }
+        },
+        {
+          "name": {
+            "de": "Bideford Long Bridge",
+            "hu": "Bideford Long Bridge",
+            "ro": "Bideford Long Bridge",
+            "en": "Bideford Long Bridge"
+          },
+          "coords": [
+            -4.2034,
+            51.0165
+          ],
+          "category": "historical",
+          "arrive_at": "09:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese ikonische mittelalterliche Brücke mit 24 Bögen über den Fluss Torridge für tolle Sonnenuntergangsfotos, aber achten Sie auf schmale Wege.",
+            "hu": "Sétáljon át a Torridge folyót átívelő, 24 ívű középkori építményen lenyűgöző naplementés fotókért, de ügyeljen a keskeny járdákra a forgalom mellett.",
+            "ro": "Traversați această structură medievală cu 24 de arce peste râul Torridge pentru a face fotografii uimitoare la apus, dar aveți grijă la trotuarele înguste.",
+            "en": "Walk across this iconic 24-arch medieval structure spanning the River Torridge to capture stunning sunset photographs, but be mindful of the narrow pavements."
+          }
+        },
+        {
+          "name": {
+            "de": "Tarka Trail",
+            "hu": "Tarka Trail",
+            "ro": "Tarka Trail",
+            "en": "Tarka Trail"
+          },
+          "coords": [
+            -4.201411,
+            51.015219
+          ],
+          "category": "recreational",
+          "arrive_at": "10:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Radeln oder spazieren Sie auf dieser berühmten autofreien Route mit herrlichem Flussblick und denken Sie daran, in den Sommermonaten frühzeitig Fahrräder zu mieten.",
+            "hu": "Kerékpározzon vagy sétáljon egy szakaszt ezen a híres, autómentes útvonalon, és ne felejtsen el korán kerékpárt bérelni a forgalmas nyári hónapokban.",
+            "ro": "Mergeți cu bicicleta sau pe jos pe acest traseu celebru fără trafic, cu vedere la râu, și nu uitați să închiriați biciclete devreme în lunile aglomerate de vară.",
+            "en": "Cycle or walk a stretch of this famous traffic-free route passing serene river views and wildlife, but remember to rent bikes early during the busy summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Chudleigh Fort",
+            "hu": "Chudleigh Fort",
+            "ro": "Chudleigh Fort",
+            "en": "Chudleigh Fort"
+          },
+          "coords": [
+            -4.198531,
+            51.016056
+          ],
+          "category": "fortress",
+          "arrive_at": "12:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Steigen Sie zu dieser Gedenkstätte des Bürgerkriegs hinauf, um einen Panoramablick über Bideford zu genießen; tragen Sie feste Schuhe, da der Weg uneben ist.",
+            "hu": "Másszon fel ehhez a polgárháborús emlékműhöz, ahonnan panorámás kilátás nyílik Bidefordra, és viseljen masszív cipőt, mivel az út meglehetősen egyenetlen.",
+            "ro": "Urcați la acest memorial al Războiului Civil pentru vederi panoramice peste Bideford și râu, purtând pantofi rezistenți, deoarece poteca poate fi destul de accidentată.",
+            "en": "Climb up to this Civil War memorial site for sweeping panoramic views over Bideford and the river, wearing sturdy shoes as the path upwards can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "The Burton at Bideford",
+            "hu": "The Burton at Bideford",
+            "ro": "The Burton at Bideford",
+            "en": "The Burton at Bideford"
+          },
+          "coords": [
+            -4.205141,
+            51.021299
+          ],
+          "category": "museum",
+          "arrive_at": "13:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende lokale Geschichte und zeitgenössische Kunst in diesem Museum und besuchen Sie unbedingt das ausgezeichnete Café im französischen Stil.",
+            "hu": "Fedezzen fel lenyűgöző helyi történelmet és kortárs művészeti kiállításokat ebben a remek múzeumban, és mindenképp térjen be a kiváló francia stílusú kávézóba.",
+            "ro": "Descoperiți istoria locală și arta contemporană în acest muzeu minunat, asigurându-vă că vă opriți la excelenta lor cafenea în stil francez pentru o gustare.",
+            "en": "Discover fascinating local history and contemporary art exhibitions in this wonderful museum, making sure to stop by their excellent French-style cafe for a treat."
+          }
+        },
+        {
+          "name": {
+            "de": "Victoria Park",
+            "hu": "Victoria Park",
+            "ro": "Victoria Park",
+            "en": "Victoria Park"
+          },
+          "coords": [
+            -4.2043,
+            51.022178
+          ],
+          "category": "natural",
+          "arrive_at": "14:59",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich zwischen Blumenarrangements und historischen Kanonen in diesem gepflegten Park und bringen Sie eine Decke für ein gemütliches Picknick mit.",
+            "hu": "Pihenjen a gyönyörű virágok és történelmi ágyúk között ebben a jól karbantartott parkban, és hozzon magával egy takarót egy hangulatos délutáni piknikhez.",
+            "ro": "Relaxați-vă printre aranjamentele florale și tunurile istorice din acest parc public, aducând o pătură pentru un picnic pitoresc de după-amiază sub copaci.",
+            "en": "Relax among beautiful floral displays and historic cannons in this well-kept public park, bringing a blanket for a scenic afternoon picnic under the mature trees."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen begrüßt Sie am Bideford Quay, bevor Sie über die historischen Bögen der Long Bridge radeln. Mittags fahren Sie auf dem friedlichen, autofreien Tarka Trail am Fluss entlang. Am Nachmittag erklimmen Sie das Chudleigh Fort für einen Panoramablick. Der Abend bietet eine sanfte Fahrt durch die grünen Alleen des gepflegten Victoria Parks.",
+        "hu": "A reggeli szellő a Bideford Quay-n köszönti, mielőtt áttekerné a Long Bridge történelmi boltíveit. Délben a békés, autómentes Tarka Trail-en tekerhet a folyó mellett. A délután folyamán felkapaszkodhat a Chudleigh erődbe a panorámáért, majd múzeumlátogatás következik. Az estét a Victoria Park lombos sugárútjain tett kellemes kerékpározás zárja.",
+        "ro": "Briza dimineții vă întâmpină la Bideford Quay înainte de a pedala peste arcele istorice ale Long Bridge. La prânz mergeți pe pașnicul traseu fără mașini Tarka Trail de-a lungul râului. După-amiaza aduce o urcare la Chudleigh Fort pentru vederi panoramice. Seara oferă o plimbare lină prin aleile înverzite din liniștitul și relaxantul Victoria Park.",
+        "en": "Morning breezes greet you at Bideford Quay before you cycle across the historic arches of Long Bridge. Midday sees you pedaling along the peaceful, car-free Tarka Trail alongside the river. Afternoon brings a climb to Chudleigh Fort for panoramic views, followed by museum visits. Evening offers a gentle ride back down through the leafy avenues of Victoria Park."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:33",
+      "total_km": 9.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "The BIG Sheep",
+            "hu": "The BIG Sheep",
+            "ro": "The BIG Sheep",
+            "en": "The BIG Sheep"
+          },
+          "coords": [
+            -4.243755,
+            51.01567
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie lustige Schafe-Rennen und Achterbahnen in diesem einzigartigen Themenpark; buchen Sie Ihre Tickets online im Voraus, um die Warteschlangen zu umgehen.",
+            "hu": "Élvezze a vidám birkaversenyeket és hullámvasutakat ebben az egyedülálló vidámparkban, és foglalja le jegyeit online előre, hogy elkerülje a belépési sorokat.",
+            "ro": "Bucurați-vă de curse amuzante de oi și montagne russe în acest parc tematic unic; rezervați-vă biletele online în avans pentru a sări peste cozile de la intrare.",
+            "en": "Enjoy hilarious sheep races, indoor play areas, and family rollercoasters at this unique theme park, and book your tickets online in advance to skip the entry queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Bideford Pannier Market",
+            "hu": "Bideford Pannier Market",
+            "ro": "Bideford Pannier Market",
+            "en": "Bideford Pannier Market"
+          },
+          "coords": [
+            -4.207419,
+            51.016953
+          ],
+          "category": "civic",
+          "arrive_at": "10:46",
+          "stay_min": 50,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historische viktorianische Markthalle für lokales Kunsthandwerk aus Devon, aber kommen Sie dienstags und samstags früh für die beste Auswahl.",
+            "hu": "Fedezze fel ezt a történelmi viktoriánus vásárcsarnokot helyi devoni termékekért, de kedden és szombaton érkezzen korán a legjobb friss áruválasztékért.",
+            "ro": "Explorați această piață istorică victoriană pentru produse și meșteșuguri locale din Devon, dar veniți devreme marțea și sâmbăta pentru cea mai bună selecție.",
+            "en": "Explore this historic Victorian market hall for local Devon produce and crafts, but come early on Tuesdays and Saturdays for the best selection of fresh goods."
+          }
+        },
+        {
+          "name": {
+            "de": "Bideford Quay",
+            "hu": "Bideford Quay",
+            "ro": "Bideford Quay",
+            "en": "Bideford Quay"
+          },
+          "coords": [
+            -4.20433,
+            51.0192
+          ],
+          "category": "civic",
+          "arrive_at": "11:38",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie an der belebten Uferpromenade entlang, um die Fischerboote und die Fähre nach Lundy Island zu beobachten, während Sie ein lokales Eis genießen.",
+            "hu": "Sétáljon a nyüzsgő vízparton, nézze meg a halászhajókat és a Lundy-szigeti kompot, miközben vesz egy klasszikus helyi fagylaltot egy közeli árustól.",
+            "ro": "Plimbați-vă pe faleza plină de viață pentru a privi bărcile de pescuit și feribotul spre Insula Lundy, savurând o înghețată locală clasică de la un vânzător.",
+            "en": "Stroll along the bustling waterfront to watch the fishing boats and Lundy Island ferry depart, while grabbing a classic local ice cream from a nearby vendor."
+          }
+        },
+        {
+          "name": {
+            "de": "Pebble Ridge Adventure Golf and Go Karts",
+            "hu": "Pebble Ridge Adventure Golf and Go Karts",
+            "ro": "Pebble Ridge Adventure Golf and Go Karts",
+            "en": "Pebble Ridge Adventure Golf and Go Karts"
+          },
+          "coords": [
+            -4.235324,
+            51.043277
+          ],
+          "category": "recreational",
+          "arrive_at": "12:11",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Fordern Sie Ihre Familie zu einer lustigen Partie Minigolf oder aufregendem Go-Kart nahe der Küste heraus und bringen Sie etwas Taschengeld für die Spielhallen mit.",
+            "hu": "Hívja ki családját egy szórakoztató minigolfra vagy gokartozásra a partvonal közelében, és hozzon némi extra zsebpénzt a szomszédos játékgépes termekre is.",
+            "ro": "Provocați-vă familia la un joc distractiv de mini-golf sau go-kart în apropierea coastei, aducând câțiva bani de buzunar pentru sălile de jocuri adiacente.",
+            "en": "Challenge your family to a fun game of mini-golf or exciting go-karting near the coastline, bringing some extra pocket money for the adjacent amusement arcades."
+          }
+        },
+        {
+          "name": {
+            "de": "Victoria Park",
+            "hu": "Victoria Park",
+            "ro": "Victoria Park",
+            "en": "Victoria Park"
+          },
+          "coords": [
+            -4.2043,
+            51.022178
+          ],
+          "category": "natural",
+          "arrive_at": "13:48",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich zwischen Blumenarrangements und historischen Kanonen in diesem gepflegten Park und bringen Sie eine Decke für ein gemütliches Picknick mit.",
+            "hu": "Pihenjen a gyönyörű virágok és történelmi ágyúk között ebben a jól karbantartott parkban, és hozzon magával egy takarót egy hangulatos délutáni piknikhez.",
+            "ro": "Relaxați-vă printre aranjamentele florale și tunurile istorice din acest parc public, aducând o pătură pentru un picnic pitoresc de după-amiază sub copaci.",
+            "en": "Relax among beautiful floral displays and historic cannons in this well-kept public park, bringing a blanket for a scenic afternoon picnic under the mature trees."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen ist voller Familienspaß mit Schafe-Rennen und Achterbahnen im The BIG Sheep. Mittags fahren Sie ins Zentrum von Bideford, um über den Markt zu bummeln und den Blick am Quay zu genießen. Nachmittags geht es an die Küste für Kartfahren und Minigolf. Der Abend klingt mit einem friedlichen Spaziergang durch die Gärten des Victoria Parks aus.",
+        "hu": "A reggel tele van családi szórakozással, birkaversenyekkel a The BIG Sheep élményparkban. Délben Bideford központjába hajt, hogy böngésszen a piacon és gyönyörködjön a vízpartban. A délutáni autózás a part felé visz gokartozásra és minigolfozásra. Az estét egy békés séta zárja a Victoria Park gyönyörűen gondozott, nyugalmat árasztó kertjeiben.",
+        "ro": "Dimineața este plină de distracție în familie, privind curse de oi la The BIG Sheep. Prânzul vă aduce în centrul Bidefordului pentru cumpărături și vederi la faleză. Plimbările de după-amiază vă duc spre coastă pentru go-kart și mini-golf. Seara se încheie liniștit cu o plimbare pașnică prin grădinile relaxante și verzi ale Victoria Park.",
+        "en": "Morning is packed with family fun, watching sheep races and riding coasters at The BIG Sheep. Midday brings you into central Bideford for market browsing and waterfront views at the Quay. Afternoon drives take you toward the coast for competitive go-karting and mini-golf. Evening gently winds down with a peaceful stroll through the gardens of Victoria Park."
+      }
+    }
+  }
+}

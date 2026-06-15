@@ -1,0 +1,543 @@
+{
+  "city_id": "vaux-le-penil",
+  "anchor": {
+    "name": "Vaux-le-Pénil",
+    "coords": [
+      2.6822,
+      48.5264
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:43",
+      "total_km": 4.78,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Vaux-le-Pénil",
+            "hu": "Vaux-le-Pénil Városháza",
+            "ro": "Primăria Vaux-le-Pénil",
+            "en": "Vaux-le-Pénil Town Hall"
+          },
+          "coords": [
+            2.684133,
+            48.525673
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag am historischen Rathaus, um die klassische französische Gemeindearchitektur zu bewundern, und holen Sie sich eine kostenlose lokale Karte an der Rezeption.",
+            "hu": "Kezdje a napot a történelmi városházánál, hogy megcsodálja a klasszikus francia önkormányzati építészetet, és kérjen egy ingyenes helyi térképet a recepción.",
+            "ro": "Începeți ziua la primăria istorică pentru a admira arhitectura municipală clasică franceză și luați o hartă locală gratuită de la recepție.",
+            "en": "Start your day at the historic town hall to admire its classical French municipal architecture, and grab a free local map from the reception desk."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle der Heiligen Familie",
+            "hu": "Szent Család Kápolna",
+            "ro": "Capela Sfintei Familii",
+            "en": "Holy Family Chapel"
+          },
+          "coords": [
+            2.683768,
+            48.527164
+          ],
+          "category": "religious",
+          "arrive_at": "09:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Beachten Sie die ruhigen Buntglasfenster dieser charmanten Familienkapelle, die einen friedlichen Rückzugsort bietet, wenn Sie in den ruhigen Morgenstunden besuchen.",
+            "hu": "Figyelje meg ennek a bájos családi kápolnának a békés ólomüveg ablakait, amely nyugodt menedéket kínál, ha a csendes reggeli órákban látogatja meg.",
+            "ro": "Observați vitraliile senine ale acestei fermecătoare capele de familie, care oferă un refugiu pașnic dacă o vizitați în timpul orelor liniștite ale dimineții.",
+            "en": "Notice the serene stained glass windows of this charming family chapel, which offers a peaceful retreat if you visit during the quiet morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Ferme des Jeux",
+            "hu": "Ferme des Jeux",
+            "ro": "Ferme des Jeux",
+            "en": "Ferme des Jeux"
+          },
+          "coords": [
+            2.688881,
+            48.527521
+          ],
+          "category": "cultural",
+          "arrive_at": "10:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses kulturelle Zentrum in einem alten Bauernhof, um zeitgenössische Kunstausstellungen zu erleben, aber prüfen Sie vor der Ankunft den saisonalen Zeitplan online.",
+            "hu": "Fedezze fel ezt a régi farmon kialakított kulturális központot a kortárs művészeti kiállításokért, de érkezés előtt ellenőrizze az online szezonális menetrendet.",
+            "ro": "Explorați acest centru cultural găzduit într-o fermă veche pentru a experimenta expoziții de artă contemporană, dar verificați programul sezonier online înainte de a ajunge.",
+            "en": "Explore this cultural hub housed in an old farm to experience contemporary art exhibitions, but check the seasonal schedule online before arriving."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Vaux-le-Pénil",
+            "hu": "Vaux-le-Pénil Kastély",
+            "ro": "Castelul Vaux-le-Pénil",
+            "en": "Vaux-le-Pénil Castle"
+          },
+          "coords": [
+            2.66987,
+            48.5322
+          ],
+          "category": "historical",
+          "arrive_at": "12:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die Anlagen dieses herrlichen historischen Schlosses, um seine eleganten Fassaden zu sehen, und denken Sie an bequeme Schuhe für das unebene Kopfsteinpflaster.",
+            "hu": "Sétáljon végig ennek a csodálatos történelmi kastélynak a parkján, hogy lássa elegáns homlokzatait, és ne felejtsen el kényelmes cipőt viselni az egyenetlen macskaköveken.",
+            "ro": "Plimbați-vă pe domeniul acestui magnific castel istoric pentru a vedea fațadele sale elegante și amintiți-vă să purtați pantofi comozi pentru pietrele cubice inegale.",
+            "en": "Stroll through the grounds of this magnificent historical castle to see its elegant facades, and remember to wear comfortable shoes for the uneven cobblestones."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt-Stephans-Kirche",
+            "hu": "Szent István Templom",
+            "ro": "Biserica Sfântul Ștefan",
+            "en": "Saint Stephen's Church"
+          },
+          "coords": [
+            2.685072,
+            48.510819
+          ],
+          "category": "religious",
+          "arrive_at": "14:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 39,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die romanischen architektonischen Elemente dieser alten Kirche und treten Sie ein, um die kühle Akustik abseits der Nachmittagshitze zu genießen.",
+            "hu": "Csodálja meg ennek az ősi templomnak a román kori építészeti elemeit, és lépjen be, hogy élvezze a hűvös akusztikát a délutáni hőségtől távol.",
+            "ro": "Admirați elementele arhitecturale romanice ale acestei biserici antice și pășiți înăuntru pentru a vă bucura de acustica răcoroasă, departe de căldura după-amiezii.",
+            "en": "Admire the Romanesque architectural elements of this ancient church, and step inside to enjoy the cool acoustics away from the afternoon heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Fief du Pré",
+            "hu": "Fief du Pré",
+            "ro": "Fief du Pré",
+            "en": "Fief du Pré"
+          },
+          "coords": [
+            2.683385,
+            48.510515
+          ],
+          "category": "landmark",
+          "arrive_at": "14:58",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses markante lokale Wahrzeichen, das das ländliche Erbe der Region widerspiegelt und sich hervorragend als Kulisse für schnelle Erinnerungsfotos eignet.",
+            "hu": "Fedezze fel ezt a jellegzetes helyi nevezetességet, amely a régió vidéki örökségét tükrözi, így kiváló hátteret biztosít a gyors emlékfotókhoz.",
+            "ro": "Descoperiți acest punct de reper local distinctiv care reflectă moștenirea rurală a regiunii, făcându-l un fundal excelent pentru fotografii comemorative rapide.",
+            "en": "Discover this distinctive local landmark that reflects the rural heritage of the region, making it an excellent backdrop for quick commemorative photographs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie Ihren Tag im bürgerlichen Herzen von Vaux-le-Pénil, erkunden Sie das elegante Rathaus und die ruhige Chapelle de la Sainte-Famille. Die ruhigen Straßen bieten einen sanften Einstieg in die historische Atmosphäre.\nMittag: Wechseln Sie zur kulturellen Seite der Stadt, indem Sie die Ferme des Jeux besuchen, ein Kunstzentrum in ländlicher Umgebung. Tauchen Sie danach in die Pracht des Château de Vaux-le-Pénil ein und erleben Sie die französische Geschichte.\nNachmittag: Fahren Sie in Richtung Süden zum historischen Kern rund um die Église Saint-Étienne und das rustikale Fief du Pré. Diese Sehenswürdigkeiten zeigen die authentische architektonische Entwicklung der Region im warmen Nachmittagslicht.\nAbend: Beenden Sie Ihren Ausflug mit der Erkundung der Überreste des Clos Notre-Dame oder entspannen Sie im Parc du Château. Die alten Steinstrukturen und Grünflächen bieten einen perfekten, entspannten Abschluss für diesen Tag.",
+        "hu": "Reggel: Kezdje a napot Vaux-le-Pénil polgári szívében, fedezze fel az elegáns városházát és a nyugodt Chapelle de la Sainte-Famille-t. A csendes utcák kellemes bevezetést nyújtanak a város történelmi hangulatába.\nDél: Térjen át a város kulturális oldalára a Ferme des Jeux meglátogatásával, amely egy művészeti központ pásztori környezetben. Ezután merüljön el a Château de Vaux-le-Pénil nagyszerűségében, és tapasztalja meg a francia arisztokrácia történetét.\nDélután: Irány dél felé, az Église Saint-Étienne és a rusztikus Fief du Pré körüli történelmi mag felé. Ezek a nevezetességek a régió hiteles építészeti fejlődését mutatják be, amelyet a meleg délutáni fény világít meg.\nEste: Fejezze be kirándulását a Clos Notre-Dame maradványainak felfedezésével vagy a tágas Parc du Château-ban való pihenéssel. A nyugodt zöldterületek és az ősi kőépítmények tökéletes, pihentető befejezést nyújtanak.",
+        "ro": "Dimineață: Începeți ziua în inima civică a orașului Vaux-le-Pénil, explorând primăria elegantă și liniștita Chapelle de la Sainte-Famille. Străzile liniștite oferă o introducere blândă în atmosfera istorică a orașului.\nPrânz: Treceți la latura culturală a orașului vizitând Ferme des Jeux, un centru artistic într-un cadru pastoral. Apoi, pătrundeți în măreția Château de Vaux-le-Pénil, scufundându-vă în secole de istorie aristocratică franceză.\nDupă-amiază: Îndreptați-vă spre sud, către nucleul istoric din jurul Église Saint-Étienne și rusticul Fief du Pré. Aceste repere prezintă evoluția arhitecturală autentică a regiunii, scăldate în lumina caldă a după-amiezii.\nSeară: Încheiați excursia explorând rămășițele Clos Notre-Dame sau relaxându-vă în vastul Parc du Château. Spațiile verzi senine și structurile antice din piatră oferă un final perfect și relaxant.",
+        "en": "Morning: Start your day in the civic heart of Vaux-le-Pénil, exploring the elegant town hall and the tranquil Chapelle de la Sainte-Famille. The quiet streets offer a gentle introduction to the town's historical atmosphere.\nMidday: Transition to the cultural side of the town by visiting the Ferme des Jeux, an artistic hub in a pastoral setting. Afterwards, delve into the grandeur of the Château de Vaux-le-Pénil, immersing yourself in centuries of French aristocratic history.\nAfternoon: Head south towards the historical core around Église Saint-Étienne and the rustic Fief du Pré. These landmarks showcase the authentic architectural evolution of the region over the centuries, bathed in warm afternoon light.\nEvening: Conclude your excursion exploring the remains of Clos Notre-Dame or unwinding in the expansive Parc du Château. The serene green spaces and ancient stone structures provide a perfect, relaxing finish to a day of discovery."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:19",
+      "total_km": 5.27,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Vaux-le-Pénil",
+            "hu": "Vaux-le-Pénil Városháza",
+            "ro": "Primăria Vaux-le-Pénil",
+            "en": "Vaux-le-Pénil Town Hall"
+          },
+          "coords": [
+            2.684133,
+            48.525673
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag am historischen Rathaus, um die klassische französische Gemeindearchitektur zu bewundern, und holen Sie sich eine kostenlose lokale Karte an der Rezeption.",
+            "hu": "Kezdje a napot a történelmi városházánál, hogy megcsodálja a klasszikus francia önkormányzati építészetet, és kérjen egy ingyenes helyi térképet a recepción.",
+            "ro": "Începeți ziua la primăria istorică pentru a admira arhitectura municipală clasică franceză și luați o hartă locală gratuită de la recepție.",
+            "en": "Start your day at the historic town hall to admire its classical French municipal architecture, and grab a free local map from the reception desk."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle der Heiligen Familie",
+            "hu": "Szent Család Kápolna",
+            "ro": "Capela Sfintei Familii",
+            "en": "Holy Family Chapel"
+          },
+          "coords": [
+            2.683768,
+            48.527164
+          ],
+          "category": "religious",
+          "arrive_at": "09:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Beachten Sie die ruhigen Buntglasfenster dieser charmanten Familienkapelle, die einen friedlichen Rückzugsort bietet, wenn Sie in den ruhigen Morgenstunden besuchen.",
+            "hu": "Figyelje meg ennek a bájos családi kápolnának a békés ólomüveg ablakait, amely nyugodt menedéket kínál, ha a csendes reggeli órákban látogatja meg.",
+            "ro": "Observați vitraliile senine ale acestei fermecătoare capele de familie, care oferă un refugiu pașnic dacă o vizitați în timpul orelor liniștite ale dimineții.",
+            "en": "Notice the serene stained glass windows of this charming family chapel, which offers a peaceful retreat if you visit during the quiet morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Ferme des Jeux",
+            "hu": "Ferme des Jeux",
+            "ro": "Ferme des Jeux",
+            "en": "Ferme des Jeux"
+          },
+          "coords": [
+            2.688881,
+            48.527521
+          ],
+          "category": "cultural",
+          "arrive_at": "10:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses kulturelle Zentrum in einem alten Bauernhof, um zeitgenössische Kunstausstellungen zu erleben, aber prüfen Sie vor der Ankunft den saisonalen Zeitplan online.",
+            "hu": "Fedezze fel ezt a régi farmon kialakított kulturális központot a kortárs művészeti kiállításokért, de érkezés előtt ellenőrizze az online szezonális menetrendet.",
+            "ro": "Explorați acest centru cultural găzduit într-o fermă veche pentru a experimenta expoziții de artă contemporană, dar verificați programul sezonier online înainte de a ajunge.",
+            "en": "Explore this cultural hub housed in an old farm to experience contemporary art exhibitions, but check the seasonal schedule online before arriving."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Vaux-le-Pénil",
+            "hu": "Vaux-le-Pénil Kastély",
+            "ro": "Castelul Vaux-le-Pénil",
+            "en": "Vaux-le-Pénil Castle"
+          },
+          "coords": [
+            2.66987,
+            48.5322
+          ],
+          "category": "historical",
+          "arrive_at": "11:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die Anlagen dieses herrlichen historischen Schlosses, um seine eleganten Fassaden zu sehen, und denken Sie an bequeme Schuhe für das unebene Kopfsteinpflaster.",
+            "hu": "Sétáljon végig ennek a csodálatos történelmi kastélynak a parkján, hogy lássa elegáns homlokzatait, és ne felejtsen el kényelmes cipőt viselni az egyenetlen macskaköveken.",
+            "ro": "Plimbați-vă pe domeniul acestui magnific castel istoric pentru a vedea fațadele sale elegante și amintiți-vă să purtați pantofi comozi pentru pietrele cubice inegale.",
+            "en": "Stroll through the grounds of this magnificent historical castle to see its elegant facades, and remember to wear comfortable shoes for the uneven cobblestones."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt-Stephans-Kirche",
+            "hu": "Szent István Templom",
+            "ro": "Biserica Sfântul Ștefan",
+            "en": "Saint Stephen's Church"
+          },
+          "coords": [
+            2.685072,
+            48.510819
+          ],
+          "category": "religious",
+          "arrive_at": "13:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die romanischen architektonischen Elemente dieser alten Kirche und treten Sie ein, um die kühle Akustik abseits der Nachmittagshitze zu genießen.",
+            "hu": "Csodálja meg ennek az ősi templomnak a román kori építészeti elemeit, és lépjen be, hogy élvezze a hűvös akusztikát a délutáni hőségtől távol.",
+            "ro": "Admirați elementele arhitecturale romanice ale acestei biserici antice și pășiți înăuntru pentru a vă bucura de acustica răcoroasă, departe de căldura după-amiezii.",
+            "en": "Admire the Romanesque architectural elements of this ancient church, and step inside to enjoy the cool acoustics away from the afternoon heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Fief du Pré",
+            "hu": "Fief du Pré",
+            "ro": "Fief du Pré",
+            "en": "Fief du Pré"
+          },
+          "coords": [
+            2.683385,
+            48.510515
+          ],
+          "category": "landmark",
+          "arrive_at": "14:11",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses markante lokale Wahrzeichen, das das ländliche Erbe der Region widerspiegelt und sich hervorragend als Kulisse für schnelle Erinnerungsfotos eignet.",
+            "hu": "Fedezze fel ezt a jellegzetes helyi nevezetességet, amely a régió vidéki örökségét tükrözi, így kiváló hátteret biztosít a gyors emlékfotókhoz.",
+            "ro": "Descoperiți acest punct de reper local distinctiv care reflectă moștenirea rurală a regiunii, făcându-l un fundal excelent pentru fotografii comemorative rapide.",
+            "en": "Discover this distinctive local landmark that reflects the rural heritage of the region, making it an excellent backdrop for quick commemorative photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Clos Notre-Dame",
+            "hu": "Clos Notre-Dame",
+            "ro": "Clos Notre-Dame",
+            "en": "Clos Notre-Dame"
+          },
+          "coords": [
+            2.678885,
+            48.507207
+          ],
+          "category": "castle",
+          "arrive_at": "14:29",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.49,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die befestigten Überreste dieses weniger bekannten Schlossguts und versuchen Sie, kurz vor Sonnenuntergang zu besuchen, um das beste natürliche Licht zu haben.",
+            "hu": "Csodálja meg ennek a kevésbé ismert kastélybirtoknak az erődített maradványait, és próbáljon meg közvetlenül naplemente előtt érkezni a legjobb természetes fényért.",
+            "ro": "Minunați-vă de rămășițele fortificate ale acestei moșii de castel mai puțin cunoscute și încercați să vizitați chiar înainte de apus pentru cea mai bună iluminare.",
+            "en": "Marvel at the fortified remnants of this lesser-known castle estate, and try to visit right before sunset for the best natural lighting on the stone walls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie Ihren Tag im bürgerlichen Herzen von Vaux-le-Pénil, erkunden Sie das elegante Rathaus und die ruhige Chapelle de la Sainte-Famille. Die ruhigen Straßen bieten einen sanften Einstieg in die historische Atmosphäre.\nMittag: Wechseln Sie zur kulturellen Seite der Stadt, indem Sie die Ferme des Jeux besuchen, ein Kunstzentrum in ländlicher Umgebung. Tauchen Sie danach in die Pracht des Château de Vaux-le-Pénil ein und erleben Sie die französische Geschichte.\nNachmittag: Fahren Sie in Richtung Süden zum historischen Kern rund um die Église Saint-Étienne und das rustikale Fief du Pré. Diese Sehenswürdigkeiten zeigen die authentische architektonische Entwicklung der Region im warmen Nachmittagslicht.\nAbend: Beenden Sie Ihren Ausflug mit der Erkundung der Überreste des Clos Notre-Dame oder entspannen Sie im Parc du Château. Die alten Steinstrukturen und Grünflächen bieten einen perfekten, entspannten Abschluss für diesen Tag.",
+        "hu": "Reggel: Kezdje a napot Vaux-le-Pénil polgári szívében, fedezze fel az elegáns városházát és a nyugodt Chapelle de la Sainte-Famille-t. A csendes utcák kellemes bevezetést nyújtanak a város történelmi hangulatába.\nDél: Térjen át a város kulturális oldalára a Ferme des Jeux meglátogatásával, amely egy művészeti központ pásztori környezetben. Ezután merüljön el a Château de Vaux-le-Pénil nagyszerűségében, és tapasztalja meg a francia arisztokrácia történetét.\nDélután: Irány dél felé, az Église Saint-Étienne és a rusztikus Fief du Pré körüli történelmi mag felé. Ezek a nevezetességek a régió hiteles építészeti fejlődését mutatják be, amelyet a meleg délutáni fény világít meg.\nEste: Fejezze be kirándulását a Clos Notre-Dame maradványainak felfedezésével vagy a tágas Parc du Château-ban való pihenéssel. A nyugodt zöldterületek és az ősi kőépítmények tökéletes, pihentető befejezést nyújtanak.",
+        "ro": "Dimineață: Începeți ziua în inima civică a orașului Vaux-le-Pénil, explorând primăria elegantă și liniștita Chapelle de la Sainte-Famille. Străzile liniștite oferă o introducere blândă în atmosfera istorică a orașului.\nPrânz: Treceți la latura culturală a orașului vizitând Ferme des Jeux, un centru artistic într-un cadru pastoral. Apoi, pătrundeți în măreția Château de Vaux-le-Pénil, scufundându-vă în secole de istorie aristocratică franceză.\nDupă-amiază: Îndreptați-vă spre sud, către nucleul istoric din jurul Église Saint-Étienne și rusticul Fief du Pré. Aceste repere prezintă evoluția arhitecturală autentică a regiunii, scăldate în lumina caldă a după-amiezii.\nSeară: Încheiați excursia explorând rămășițele Clos Notre-Dame sau relaxându-vă în vastul Parc du Château. Spațiile verzi senine și structurile antice din piatră oferă un final perfect și relaxant.",
+        "en": "Morning: Start your day in the civic heart of Vaux-le-Pénil, exploring the elegant town hall and the tranquil Chapelle de la Sainte-Famille. The quiet streets offer a gentle introduction to the town's historical atmosphere.\nMidday: Transition to the cultural side of the town by visiting the Ferme des Jeux, an artistic hub in a pastoral setting. Afterwards, delve into the grandeur of the Château de Vaux-le-Pénil, immersing yourself in centuries of French aristocratic history.\nAfternoon: Head south towards the historical core around Église Saint-Étienne and the rustic Fief du Pré. These landmarks showcase the authentic architectural evolution of the region over the centuries, bathed in warm afternoon light.\nEvening: Conclude your excursion exploring the remains of Clos Notre-Dame or unwinding in the expansive Parc du Château. The serene green spaces and ancient stone structures provide a perfect, relaxing finish to a day of discovery."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:26",
+      "total_km": 8.77,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Vaux-le-Pénil",
+            "hu": "Vaux-le-Pénil Városháza",
+            "ro": "Primăria Vaux-le-Pénil",
+            "en": "Vaux-le-Pénil Town Hall"
+          },
+          "coords": [
+            2.684133,
+            48.525673
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag am historischen Rathaus, um die klassische französische Gemeindearchitektur zu bewundern, und holen Sie sich eine kostenlose lokale Karte an der Rezeption.",
+            "hu": "Kezdje a napot a történelmi városházánál, hogy megcsodálja a klasszikus francia önkormányzati építészetet, és kérjen egy ingyenes helyi térképet a recepción.",
+            "ro": "Începeți ziua la primăria istorică pentru a admira arhitectura municipală clasică franceză și luați o hartă locală gratuită de la recepție.",
+            "en": "Start your day at the historic town hall to admire its classical French municipal architecture, and grab a free local map from the reception desk."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle der Heiligen Familie",
+            "hu": "Szent Család Kápolna",
+            "ro": "Capela Sfintei Familii",
+            "en": "Holy Family Chapel"
+          },
+          "coords": [
+            2.683768,
+            48.527164
+          ],
+          "category": "religious",
+          "arrive_at": "09:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Beachten Sie die ruhigen Buntglasfenster dieser charmanten Familienkapelle, die einen friedlichen Rückzugsort bietet, wenn Sie in den ruhigen Morgenstunden besuchen.",
+            "hu": "Figyelje meg ennek a bájos családi kápolnának a békés ólomüveg ablakait, amely nyugodt menedéket kínál, ha a csendes reggeli órákban látogatja meg.",
+            "ro": "Observați vitraliile senine ale acestei fermecătoare capele de familie, care oferă un refugiu pașnic dacă o vizitați în timpul orelor liniștite ale dimineții.",
+            "en": "Notice the serene stained glass windows of this charming family chapel, which offers a peaceful retreat if you visit during the quiet morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Ferme des Jeux",
+            "hu": "Ferme des Jeux",
+            "ro": "Ferme des Jeux",
+            "en": "Ferme des Jeux"
+          },
+          "coords": [
+            2.688881,
+            48.527521
+          ],
+          "category": "cultural",
+          "arrive_at": "10:07",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses kulturelle Zentrum in einem alten Bauernhof, um zeitgenössische Kunstausstellungen zu erleben, aber prüfen Sie vor der Ankunft den saisonalen Zeitplan online.",
+            "hu": "Fedezze fel ezt a régi farmon kialakított kulturális központot a kortárs művészeti kiállításokért, de érkezés előtt ellenőrizze az online szezonális menetrendet.",
+            "ro": "Explorați acest centru cultural găzduit într-o fermă veche pentru a experimenta expoziții de artă contemporană, dar verificați programul sezonier online înainte de a ajunge.",
+            "en": "Explore this cultural hub housed in an old farm to experience contemporary art exhibitions, but check the seasonal schedule online before arriving."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Vaux-le-Pénil",
+            "hu": "Vaux-le-Pénil Kastély",
+            "ro": "Castelul Vaux-le-Pénil",
+            "en": "Vaux-le-Pénil Castle"
+          },
+          "coords": [
+            2.66987,
+            48.5322
+          ],
+          "category": "historical",
+          "arrive_at": "11:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die Anlagen dieses herrlichen historischen Schlosses, um seine eleganten Fassaden zu sehen, und denken Sie an bequeme Schuhe für das unebene Kopfsteinpflaster.",
+            "hu": "Sétáljon végig ennek a csodálatos történelmi kastélynak a parkján, hogy lássa elegáns homlokzatait, és ne felejtsen el kényelmes cipőt viselni az egyenetlen macskaköveken.",
+            "ro": "Plimbați-vă pe domeniul acestui magnific castel istoric pentru a vedea fațadele sale elegante și amintiți-vă să purtați pantofi comozi pentru pietrele cubice inegale.",
+            "en": "Stroll through the grounds of this magnificent historical castle to see its elegant facades, and remember to wear comfortable shoes for the uneven cobblestones."
+          }
+        },
+        {
+          "name": {
+            "de": "Sankt-Stephans-Kirche",
+            "hu": "Szent István Templom",
+            "ro": "Biserica Sfântul Ștefan",
+            "en": "Saint Stephen's Church"
+          },
+          "coords": [
+            2.685072,
+            48.510819
+          ],
+          "category": "religious",
+          "arrive_at": "13:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die romanischen architektonischen Elemente dieser alten Kirche und treten Sie ein, um die kühle Akustik abseits der Nachmittagshitze zu genießen.",
+            "hu": "Csodálja meg ennek az ősi templomnak a román kori építészeti elemeit, és lépjen be, hogy élvezze a hűvös akusztikát a délutáni hőségtől távol.",
+            "ro": "Admirați elementele arhitecturale romanice ale acestei biserici antice și pășiți înăuntru pentru a vă bucura de acustica răcoroasă, departe de căldura după-amiezii.",
+            "en": "Admire the Romanesque architectural elements of this ancient church, and step inside to enjoy the cool acoustics away from the afternoon heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Fief du Pré",
+            "hu": "Fief du Pré",
+            "ro": "Fief du Pré",
+            "en": "Fief du Pré"
+          },
+          "coords": [
+            2.683385,
+            48.510515
+          ],
+          "category": "landmark",
+          "arrive_at": "13:57",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses markante lokale Wahrzeichen, das das ländliche Erbe der Region widerspiegelt und sich hervorragend als Kulisse für schnelle Erinnerungsfotos eignet.",
+            "hu": "Fedezze fel ezt a jellegzetes helyi nevezetességet, amely a régió vidéki örökségét tükrözi, így kiváló hátteret biztosít a gyors emlékfotókhoz.",
+            "ro": "Descoperiți acest punct de reper local distinctiv care reflectă moștenirea rurală a regiunii, făcându-l un fundal excelent pentru fotografii comemorative rapide.",
+            "en": "Discover this distinctive local landmark that reflects the rural heritage of the region, making it an excellent backdrop for quick commemorative photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Clos Notre-Dame",
+            "hu": "Clos Notre-Dame",
+            "ro": "Clos Notre-Dame",
+            "en": "Clos Notre-Dame"
+          },
+          "coords": [
+            2.678885,
+            48.507207
+          ],
+          "category": "castle",
+          "arrive_at": "14:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.49,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die befestigten Überreste dieses weniger bekannten Schlossguts und versuchen Sie, kurz vor Sonnenuntergang zu besuchen, um das beste natürliche Licht zu haben.",
+            "hu": "Csodálja meg ennek a kevésbé ismert kastélybirtoknak az erődített maradványait, és próbáljon meg közvetlenül naplemente előtt érkezni a legjobb természetes fényért.",
+            "ro": "Minunați-vă de rămășițele fortificate ale acestei moșii de castel mai puțin cunoscute și încercați să vizitați chiar înainte de apus pentru cea mai bună iluminare.",
+            "en": "Marvel at the fortified remnants of this lesser-known castle estate, and try to visit right before sunset for the best natural lighting on the stone walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Schlosspark",
+            "hu": "Kastélypark",
+            "ro": "Parcul Castelului",
+            "en": "Castle Park"
+          },
+          "coords": [
+            2.630783,
+            48.51168
+          ],
+          "category": "recreational",
+          "arrive_at": "15:41",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem weitläufigen Erholungspark mit alten Bäumen und malerischen Wanderwegen, perfekt für ein friedliches Picknick zum Abschluss Ihrer Reise.",
+            "hu": "Pihenjen meg ebben a hatalmas, ősfákkal és festői sétautakkal rendelkező rekreációs parkban, amely tökéletes egy békés piknikhez az utazás lezárásaként.",
+            "ro": "Relaxați-vă în acest parc de agrement întins, cu copaci seculari și trasee pitorești de mers pe jos, perfect pentru un picnic liniștit pentru a încheia călătoria.",
+            "en": "Relax in this sprawling recreational park featuring ancient trees and scenic walking paths, perfect for a peaceful picnic to conclude your journey."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie Ihren Tag im bürgerlichen Herzen von Vaux-le-Pénil, erkunden Sie das elegante Rathaus und die ruhige Chapelle de la Sainte-Famille. Die ruhigen Straßen bieten einen sanften Einstieg in die historische Atmosphäre.\nMittag: Wechseln Sie zur kulturellen Seite der Stadt, indem Sie die Ferme des Jeux besuchen, ein Kunstzentrum in ländlicher Umgebung. Tauchen Sie danach in die Pracht des Château de Vaux-le-Pénil ein und erleben Sie die französische Geschichte.\nNachmittag: Fahren Sie in Richtung Süden zum historischen Kern rund um die Église Saint-Étienne und das rustikale Fief du Pré. Diese Sehenswürdigkeiten zeigen die authentische architektonische Entwicklung der Region im warmen Nachmittagslicht.\nAbend: Beenden Sie Ihren Ausflug mit der Erkundung der Überreste des Clos Notre-Dame oder entspannen Sie im Parc du Château. Die alten Steinstrukturen und Grünflächen bieten einen perfekten, entspannten Abschluss für diesen Tag.",
+        "hu": "Reggel: Kezdje a napot Vaux-le-Pénil polgári szívében, fedezze fel az elegáns városházát és a nyugodt Chapelle de la Sainte-Famille-t. A csendes utcák kellemes bevezetést nyújtanak a város történelmi hangulatába.\nDél: Térjen át a város kulturális oldalára a Ferme des Jeux meglátogatásával, amely egy művészeti központ pásztori környezetben. Ezután merüljön el a Château de Vaux-le-Pénil nagyszerűségében, és tapasztalja meg a francia arisztokrácia történetét.\nDélután: Irány dél felé, az Église Saint-Étienne és a rusztikus Fief du Pré körüli történelmi mag felé. Ezek a nevezetességek a régió hiteles építészeti fejlődését mutatják be, amelyet a meleg délutáni fény világít meg.\nEste: Fejezze be kirándulását a Clos Notre-Dame maradványainak felfedezésével vagy a tágas Parc du Château-ban való pihenéssel. A nyugodt zöldterületek és az ősi kőépítmények tökéletes, pihentető befejezést nyújtanak.",
+        "ro": "Dimineață: Începeți ziua în inima civică a orașului Vaux-le-Pénil, explorând primăria elegantă și liniștita Chapelle de la Sainte-Famille. Străzile liniștite oferă o introducere blândă în atmosfera istorică a orașului.\nPrânz: Treceți la latura culturală a orașului vizitând Ferme des Jeux, un centru artistic într-un cadru pastoral. Apoi, pătrundeți în măreția Château de Vaux-le-Pénil, scufundându-vă în secole de istorie aristocratică franceză.\nDupă-amiază: Îndreptați-vă spre sud, către nucleul istoric din jurul Église Saint-Étienne și rusticul Fief du Pré. Aceste repere prezintă evoluția arhitecturală autentică a regiunii, scăldate în lumina caldă a după-amiezii.\nSeară: Încheiați excursia explorând rămășițele Clos Notre-Dame sau relaxându-vă în vastul Parc du Château. Spațiile verzi senine și structurile antice din piatră oferă un final perfect și relaxant.",
+        "en": "Morning: Start your day in the civic heart of Vaux-le-Pénil, exploring the elegant town hall and the tranquil Chapelle de la Sainte-Famille. The quiet streets offer a gentle introduction to the town's historical atmosphere.\nMidday: Transition to the cultural side of the town by visiting the Ferme des Jeux, an artistic hub in a pastoral setting. Afterwards, delve into the grandeur of the Château de Vaux-le-Pénil, immersing yourself in centuries of French aristocratic history.\nAfternoon: Head south towards the historical core around Église Saint-Étienne and the rustic Fief du Pré. These landmarks showcase the authentic architectural evolution of the region over the centuries, bathed in warm afternoon light.\nEvening: Conclude your excursion exploring the remains of Clos Notre-Dame or unwinding in the expansive Parc du Château. The serene green spaces and ancient stone structures provide a perfect, relaxing finish to a day of discovery."
+      }
+    }
+  }
+}

@@ -1,0 +1,451 @@
+{
+  "city_id": "ireland-ardfert-cities-v2",
+  "anchor": {
+    "name": "Ardfert",
+    "coords": [
+      -9.78095,
+      52.32724
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:37",
+      "total_km": 1.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "St Brendan's Church",
+            "hu": "St Brendan's Church",
+            "ro": "St Brendan's Church",
+            "en": "St Brendan's Church"
+          },
+          "coords": [
+            -9.783685,
+            52.326799
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Ruinen dieser alten Kirche, achten Sie auf die aufwendigen Steinarbeiten und kommen Sie früh am Morgen, um die friedliche Atmosphäre zu genießen.",
+            "hu": "Csodálja meg ezen ősi templom romjait, figyelve a bonyolult kőfaragásokra, és érkezzen kora reggel, hogy tömeg nélkül élvezze a békés és csendes légkört.",
+            "ro": "Admirați ruinele acestei biserici antice, acordând atenție lucrărilor complexe din piatră, și ajungeți devreme dimineața pentru a vă bucura de o atmosferă pașnică.",
+            "en": "Admire the ruins of this ancient church, paying attention to the intricate stonework, and arrive early in the morning to enjoy the peaceful atmosphere before the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Templenagriffin",
+            "hu": "Templenagriffin",
+            "ro": "Templenagriffin",
+            "en": "Templenagriffin"
+          },
+          "coords": [
+            -9.782691,
+            52.328826
+          ],
+          "category": "religious",
+          "arrive_at": "09:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese weniger bekannte religiöse Stätte, wo Sie mittelalterliche Architektur nachvollziehen können, und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel ezt a kevésbé ismert vallási helyszínt, ahol középkori építészet nyomaira bukkanhat, és viseljen kényelmes cipőt az egyenetlen, füves terep miatt.",
+            "ro": "Explorați acest sit religios mai puțin cunoscut unde puteți observa contururile arhitecturii medievale și purtați încălțăminte robustă pentru terenul iarbos denivelat.",
+            "en": "Explore this lesser-known religious site where you can trace the faint outlines of medieval architecture, and wear sturdy shoes for walking on the uneven, grassy terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Ardfert Cathedral",
+            "hu": "Ardfert Cathedral",
+            "ro": "Ardfert Cathedral",
+            "en": "Ardfert Cathedral"
+          },
+          "coords": [
+            -9.781736,
+            52.328735
+          ],
+          "category": "landmark",
+          "arrive_at": "10:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Betreten Sie die prächtigen Ruinen dieser großen Kathedrale, um das romanische Fenster zu sehen, und nutzen Sie die Führungen, um mehr über ihre reiche Geschichte zu erfahren.",
+            "hu": "Lépjen be ennek a nagyszerű katedrálisnak a csodálatos romjai közé a román stílusú ablakért, és vegyen részt egy vezetett túrán a gazdag történelem megismeréséhez.",
+            "ro": "Pășiți în interiorul ruinelor magnifice ale acestei catedrale grandioase pentru a vedea fereastra romanică și profitați de tururile ghidate pentru a afla istoria sa.",
+            "en": "Step inside the magnificent ruins of this grand cathedral to see the beautiful Romanesque window, and take advantage of the guided tours to learn about its rich history."
+          }
+        },
+        {
+          "name": {
+            "de": "Ardfert Friary",
+            "hu": "Ardfert Friary",
+            "ro": "Ardfert Friary",
+            "en": "Ardfert Friary"
+          },
+          "coords": [
+            -9.773863,
+            52.330173
+          ],
+          "category": "religious",
+          "arrive_at": "11:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die weitreichenden Überreste dieses Franziskanerklosters, beachten Sie die Kreuzgänge und bringen Sie eine Kamera für die dramatischen Schatten mit.",
+            "hu": "Sétáljon végig a ferences kolostor kiterjedt maradványain, figyelje meg a jól karbantartott kerengőket, és hozzon fényképezőt a délutáni nap drámai árnyékainak megörökítéséhez.",
+            "ro": "Plimbați-vă prin rămășițele extinse ale acestei mănăstiri franciscane, observând claustrele bine conservate, și aduceți un aparat foto pentru a surprinde umbrele dramatice.",
+            "en": "Wander through the extensive remains of this Franciscan friary, noting the well-preserved cloisters, and bring a camera to capture the dramatic shadows cast by the afternoon sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Purseman's Fort",
+            "hu": "Purseman's Fort",
+            "ro": "Purseman's Fort",
+            "en": "Purseman's Fort"
+          },
+          "coords": [
+            -9.767307,
+            52.327523
+          ],
+          "category": "historical",
+          "arrive_at": "12:47",
+          "stay_min": 110,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Erdwälle dieser historischen Festung, die einst die Gegend bewachte, und besuchen Sie sie zur goldenen Stunde für die besten Ausblicke auf die Landschaft.",
+            "hu": "Fedezze fel e történelmi erőd földmunkáit, amely egykor a helyi területet őrizte, és próbáljon meg aranyórakor érkezni, hogy a legszebb kilátást élvezhesse a környező vidékre.",
+            "ro": "Descoperiți fortificațiile de pământ ale acestui fort istoric care păzea odată zona și încercați să vizitați la ora de aur pentru cele mai impresionante priveliști ale peisajului.",
+            "en": "Discover the earthworks of this historic fort that once guarded the local area, and try visiting during the golden hour for the most striking views of the surrounding countryside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit der friedlichen Atmosphäre der St. Brendan's Church, die einen ruhigen Ton für den Tag setzt. Der Mittag wird damit verbracht, die Ruinen von Templenagriffin und die majestätische Ardfert Cathedral zu erkunden. Am Nachmittag geht der Spaziergang weiter zum gut erhaltenen Ardfert Friary, einem echten Highlight der Region. Der Abend nähert sich, während wir am historischen Purseman's Fort enden und die Aussicht auf die irische Landschaft zur goldenen Stunde genießen.",
+        "hu": "A reggel a St Brendan's Church békés hangulatával kezdődik, amely nyugodt alaphangot ad a napnak. A delet Templenagriffin csendes romjainak és a fenséges Ardfert katedrálisnak a felfedezésével töltjük. Délután a séta a jól megőrzött Ardfert Friaryhoz folytatódik, amely a régió igazi fénypontja. Az este közeledtével a történelmi Purseman's Fortnál fejezzük be a sétát, élvezve az ír vidék aranyórás kilátását.",
+        "ro": "Dimineața începe cu ambianța pașnică a bisericii St Brendan, stabilind un ton seren pentru zi. Amiaza este petrecută explorând ruinele liniștite de la Templenagriffin și maiestuoasa catedrală Ardfert. După-amiaza, plimbarea continuă către Ardfert Friary, un punct de atracție al regiunii. Seara se apropie în timp ce terminăm la istoricul Purseman's Fort, admirând priveliștile orei de aur.",
+        "en": "Morning begins with the peaceful ambiance of St Brendan's Church, setting a serene tone for the day. Midday is spent exploring the quiet ruins of Templenagriffin and the majestic Ardfert Cathedral, both offering deep dives into medieval architecture. In the afternoon, the walk continues to the well-preserved Ardfert Friary, a true highlight of the region. Evening approaches as we finish at the historic Purseman's Fort, taking in the golden hour views across the Irish countryside."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:46",
+      "total_km": 5.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ardfert Friary",
+            "hu": "Ardfert Friary",
+            "ro": "Ardfert Friary",
+            "en": "Ardfert Friary"
+          },
+          "coords": [
+            -9.773863,
+            52.330173
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die weitreichenden Überreste dieses Franziskanerklosters, beachten Sie die Kreuzgänge und bringen Sie eine Kamera für die dramatischen Schatten mit.",
+            "hu": "Sétáljon végig a ferences kolostor kiterjedt maradványain, figyelje meg a jól karbantartott kerengőket, és hozzon fényképezőt a délutáni nap drámai árnyékainak megörökítéséhez.",
+            "ro": "Plimbați-vă prin rămășițele extinse ale acestei mănăstiri franciscane, observând claustrele bine conservate, și aduceți un aparat foto pentru a surprinde umbrele dramatice.",
+            "en": "Wander through the extensive remains of this Franciscan friary, noting the well-preserved cloisters, and bring a camera to capture the dramatic shadows cast by the afternoon sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Ardfert Cathedral",
+            "hu": "Ardfert Cathedral",
+            "ro": "Ardfert Cathedral",
+            "en": "Ardfert Cathedral"
+          },
+          "coords": [
+            -9.781736,
+            52.328735
+          ],
+          "category": "landmark",
+          "arrive_at": "09:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Betreten Sie die prächtigen Ruinen dieser großen Kathedrale, um das romanische Fenster zu sehen, und nutzen Sie die Führungen, um mehr über ihre reiche Geschichte zu erfahren.",
+            "hu": "Lépjen be ennek a nagyszerű katedrálisnak a csodálatos romjai közé a román stílusú ablakért, és vegyen részt egy vezetett túrán a gazdag történelem megismeréséhez.",
+            "ro": "Pășiți în interiorul ruinelor magnifice ale acestei catedrale grandioase pentru a vedea fereastra romanică și profitați de tururile ghidate pentru a afla istoria sa.",
+            "en": "Step inside the magnificent ruins of this grand cathedral to see the beautiful Romanesque window, and take advantage of the guided tours to learn about its rich history."
+          }
+        },
+        {
+          "name": {
+            "de": "St Brendan's Church",
+            "hu": "St Brendan's Church",
+            "ro": "St Brendan's Church",
+            "en": "St Brendan's Church"
+          },
+          "coords": [
+            -9.783685,
+            52.326799
+          ],
+          "category": "religious",
+          "arrive_at": "11:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Ruinen dieser alten Kirche, achten Sie auf die aufwendigen Steinarbeiten und kommen Sie früh am Morgen, um die friedliche Atmosphäre zu genießen.",
+            "hu": "Csodálja meg ezen ősi templom romjait, figyelve a bonyolult kőfaragásokra, és érkezzen kora reggel, hogy tömeg nélkül élvezze a békés és csendes légkört.",
+            "ro": "Admirați ruinele acestei biserici antice, acordând atenție lucrărilor complexe din piatră, și ajungeți devreme dimineața pentru a vă bucura de o atmosferă pașnică.",
+            "en": "Admire the ruins of this ancient church, paying attention to the intricate stonework, and arrive early in the morning to enjoy the peaceful atmosphere before the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Casement's Fort",
+            "hu": "Casement's Fort",
+            "ro": "Casement's Fort",
+            "en": "Casement's Fort"
+          },
+          "coords": [
+            -9.802007,
+            52.320073
+          ],
+          "category": "historical",
+          "arrive_at": "11:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Stehen Sie an dieser historischen Stätte, die für ihre Verbindung zu Sir Roger Casement berühmt ist, und lesen Sie die Informationstafeln, um die politische Bedeutung zu verstehen.",
+            "hu": "Álljon ezen a történelmi helyszínen, amely Sir Roger Casementhez fűződő kapcsolatáról híres, és olvassa el az információs táblákat, hogy megértse a politikai jelentőséget.",
+            "ro": "Stați în acest sit istoric faimos pentru legătura sa cu Sir Roger Casement și asigurați-vă că citiți plăcile informative pentru a înțelege pe deplin semnificația politică.",
+            "en": "Stand at the historic site famous for its connection to Sir Roger Casement, and be sure to read the informational plaques to fully grasp the profound political significance here."
+          }
+        },
+        {
+          "name": {
+            "de": "Lisnaweenoch",
+            "hu": "Lisnaweenoch",
+            "ro": "Lisnaweenoch",
+            "en": "Lisnaweenoch"
+          },
+          "coords": [
+            -9.810288,
+            52.326169
+          ],
+          "category": "historical",
+          "arrive_at": "13:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die antiken Überreste an diesem historischen Ort, um sich mit Irlands tiefer Vergangenheit zu verbinden, und treten Sie vorsichtig auf, da die Wege oft schlammig sind.",
+            "hu": "Vizsgálja meg e történelmi helyszín ősi maradványait, hogy kapcsolódjon Írország mély múltjához, és lépkedjen óvatosan, mivel a helyszínre vezető ösvények gyakran sarasak és csúszósak.",
+            "ro": "Investigați rămășițele antice de la această locație istorică pentru a vă conecta cu trecutul Irlandei și călcați cu grijă, deoarece potecile care duc la sit pot fi noroioase.",
+            "en": "Investigate the ancient remnants at this historic location to connect with Ireland's deep past, and tread carefully as the pathways leading to the site can often be muddy and slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Caherferta",
+            "hu": "Caherferta",
+            "ro": "Caherferta",
+            "en": "Caherferta"
+          },
+          "coords": [
+            -9.791,
+            52.346177
+          ],
+          "category": "historical",
+          "arrive_at": "14:56",
+          "stay_min": 110,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden archäologischen Merkmale dieses antiken Steinringforts und packen Sie ein leichtes Picknick ein, das Sie in der ruhigen Isolation der Landschaft genießen können.",
+            "hu": "Fedezze fel ezen ősi kőgyűrű-erőd lenyűgöző régészeti jellemzőit, és csomagoljon egy könnyű pikniket, amelyet a seprő ír tájak csendes elszigeteltségében fogyaszthat el.",
+            "ro": "Descoperiți caracteristicile arheologice fascinante ale acestui ringfort antic din piatră și luați un picnic ușor pentru a vă bucura în izolarea liniștită a peisajelor irlandeze.",
+            "en": "Uncover the fascinating archaeological features of this ancient stone ringfort, and pack a light picnic to enjoy amidst the quiet isolation of the sweeping Irish landscapes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt am wunderschönen Ardfert Friary, bevor Sie zur hoch aufragenden Ardfert Cathedral fahren. Mittags erreichen Sie die malerischen Ruinen der St. Brendan's Church und radeln weiter zum historisch bedeutsamen Casement's Fort. Der Nachmittag führt Sie durch die Landschaft, um die Vergangenheit von Lisnaweenoch zu entdecken. Gegen Abend führt eine Fahrt nach Caherferta.",
+        "hu": "A kerékpáros túra a gyönyörű Ardfert Friary-nál kezdődik, mielőtt a magasba tornyosuló Ardfert katedrális felé venné az irányt. Délben eléri a St Brendan's Church festői romjait, és tovább teker a történelmi Casement's Forthoz. A délután a festői vidéken keresztül Lisnaweenoch rejtett múltjának felfedezésére vezet. Ahogy leszáll az est, egy egyenletes út a Caherferta csendes köveihez vezet.",
+        "ro": "Călătoria pe bicicletă începe la frumoasa mănăstire Ardfert Friary, înainte de a vă îndrepta spre impunătoarea catedrală Ardfert. La amiază, ajungeți la ruinele pitorești ale bisericii St Brendan și pedalați mai departe spre fortul istoric Casement's Fort. După-amiaza vă poartă prin peisajul pitoresc pentru a descoperi trecutul ascuns de la Lisnaweenoch. Seara, ajungeți la Caherferta antică.",
+        "en": "Your cycling journey starts at the beautiful Ardfert Friary before heading to the towering Ardfert Cathedral. By midday, you'll reach the quaint ruins of St Brendan's Church and cycle further out to the historically significant Casement's Fort. The afternoon takes you through the scenic countryside to discover the hidden past of Lisnaweenoch. As evening falls, a steady ride leads to Caherferta, where the quiet ancient stones offer a tranquil end to your active day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:53",
+      "total_km": 8.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Liscahane Castle",
+            "hu": "Liscahane Castle",
+            "ro": "Liscahane Castle",
+            "en": "Liscahane Castle"
+          },
+          "coords": [
+            -9.770383,
+            52.312482
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die hoch aufragenden Überreste dieser einst mächtigen Burg, die die Landschaft dominierte, und sehen Sie sie aus der Ferne an, um ihre Größe zu schätzen.",
+            "hu": "Tekintse meg a helyi tájat egykor uraló, egykor hatalmas kastély magasba tornyosuló maradványait, és figyelje meg távolról, hogy értékelje annak hatalmas méreteit.",
+            "ro": "Vedeți rămășițele falnice ale acestui castel cândva puternic care domina peisajul local și priviți-l de la distanță pentru a-i aprecia scara înainte de a explora ruinele.",
+            "en": "View the towering remnants of this once-mighty castle that dominated the local landscape, and view it from a distance to appreciate its scale before exploring the closer ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Purseman's Fort",
+            "hu": "Purseman's Fort",
+            "ro": "Purseman's Fort",
+            "en": "Purseman's Fort"
+          },
+          "coords": [
+            -9.767307,
+            52.327523
+          ],
+          "category": "historical",
+          "arrive_at": "10:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Erdwälle dieser historischen Festung, die einst die Gegend bewachte, und besuchen Sie sie zur goldenen Stunde für die besten Ausblicke auf die Landschaft.",
+            "hu": "Fedezze fel e történelmi erőd földmunkáit, amely egykor a helyi területet őrizte, és próbáljon meg aranyórakor érkezni, hogy a legszebb kilátást élvezhesse a környező vidékre.",
+            "ro": "Descoperiți fortificațiile de pământ ale acestui fort istoric care păzea odată zona și încercați să vizitați la ora de aur pentru cele mai impresionante priveliști ale peisajului.",
+            "en": "Discover the earthworks of this historic fort that once guarded the local area, and try visiting during the golden hour for the most striking views of the surrounding countryside."
+          }
+        },
+        {
+          "name": {
+            "de": "Ardfert Cathedral",
+            "hu": "Ardfert Cathedral",
+            "ro": "Ardfert Cathedral",
+            "en": "Ardfert Cathedral"
+          },
+          "coords": [
+            -9.781736,
+            52.328735
+          ],
+          "category": "landmark",
+          "arrive_at": "11:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Betreten Sie die prächtigen Ruinen dieser großen Kathedrale, um das romanische Fenster zu sehen, und nutzen Sie die Führungen, um mehr über ihre reiche Geschichte zu erfahren.",
+            "hu": "Lépjen be ennek a nagyszerű katedrálisnak a csodálatos romjai közé a román stílusú ablakért, és vegyen részt egy vezetett túrán a gazdag történelem megismeréséhez.",
+            "ro": "Pășiți în interiorul ruinelor magnifice ale acestei catedrale grandioase pentru a vedea fereastra romanică și profitați de tururile ghidate pentru a afla istoria sa.",
+            "en": "Step inside the magnificent ruins of this grand cathedral to see the beautiful Romanesque window, and take advantage of the guided tours to learn about its rich history."
+          }
+        },
+        {
+          "name": {
+            "de": "Caherferta",
+            "hu": "Caherferta",
+            "ro": "Caherferta",
+            "en": "Caherferta"
+          },
+          "coords": [
+            -9.791,
+            52.346177
+          ],
+          "category": "historical",
+          "arrive_at": "13:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden archäologischen Merkmale dieses antiken Steinringforts und packen Sie ein leichtes Picknick ein, das Sie in der ruhigen Isolation der Landschaft genießen können.",
+            "hu": "Fedezze fel ezen ősi kőgyűrű-erőd lenyűgöző régészeti jellemzőit, és csomagoljon egy könnyű pikniket, amelyet a seprő ír tájak csendes elszigeteltségében fogyaszthat el.",
+            "ro": "Descoperiți caracteristicile arheologice fascinante ale acestui ringfort antic din piatră și luați un picnic ușor pentru a vă bucura în izolarea liniștită a peisajelor irlandeze.",
+            "en": "Uncover the fascinating archaeological features of this ancient stone ringfort, and pack a light picnic to enjoy amidst the quiet isolation of the sweeping Irish landscapes."
+          }
+        },
+        {
+          "name": {
+            "de": "Lisnaweenoch",
+            "hu": "Lisnaweenoch",
+            "ro": "Lisnaweenoch",
+            "en": "Lisnaweenoch"
+          },
+          "coords": [
+            -9.810288,
+            52.326169
+          ],
+          "category": "historical",
+          "arrive_at": "14:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die antiken Überreste an diesem historischen Ort, um sich mit Irlands tiefer Vergangenheit zu verbinden, und treten Sie vorsichtig auf, da die Wege oft schlammig sind.",
+            "hu": "Vizsgálja meg e történelmi helyszín ősi maradványait, hogy kapcsolódjon Írország mély múltjához, és lépkedjen óvatosan, mivel a helyszínre vezető ösvények gyakran sarasak és csúszósak.",
+            "ro": "Investigați rămășițele antice de la această locație istorică pentru a vă conecta cu trecutul Irlandei și călcați cu grijă, deoarece potecile care duc la sit pot fi noroioase.",
+            "en": "Investigate the ancient remnants at this historic location to connect with Ireland's deep past, and tread carefully as the pathways leading to the site can often be muddy and slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Casement's Fort",
+            "hu": "Casement's Fort",
+            "ro": "Casement's Fort",
+            "en": "Casement's Fort"
+          },
+          "coords": [
+            -9.802007,
+            52.320073
+          ],
+          "category": "historical",
+          "arrive_at": "16:03",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Stehen Sie an dieser historischen Stätte, die für ihre Verbindung zu Sir Roger Casement berühmt ist, und lesen Sie die Informationstafeln, um die politische Bedeutung zu verstehen.",
+            "hu": "Álljon ezen a történelmi helyszínen, amely Sir Roger Casementhez fűződő kapcsolatáról híres, és olvassa el az információs táblákat, hogy megértse a politikai jelentőséget.",
+            "ro": "Stați în acest sit istoric faimos pentru legătura sa cu Sir Roger Casement și asigurați-vă că citiți plăcile informative pentru a înțelege pe deplin semnificația politică.",
+            "en": "Stand at the historic site famous for its connection to Sir Roger Casement, and be sure to read the informational plaques to fully grasp the profound political significance here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine entspannte morgendliche Fahrt bringt Sie zum imposanten Liscahane Castle, gefolgt von einem kurzen Ausflug zum Purseman's Fort. Mittags verlagert sich der Fokus auf die beeindruckende Architektur der Ardfert Cathedral. Am Nachmittag navigieren Sie über ruhige Landstraßen, um das antike Ringfort von Caherferta und die historische Stätte von Lisnaweenoch zu erkunden. Der Tag endet mit einem Stopp am Casement's Fort.",
+        "hu": "Egy nyugodt reggeli autóút az impozáns Liscahane-kastélyhoz vezet, amelyet a Purseman's Fort rövid meglátogatása követ. Délben a hangsúly a helyi örökség igazi központja, az Ardfert katedrális lenyűgöző építészete. Délután a csendes vidéki utakon navigálva felfedezheti Caherferta ősi gyűrűvárát és Lisnaweenoch történelmi helyszínét. A nap a történelmi Casement's Fortnál tett esti megállóval zárul.",
+        "ro": "O plimbare relaxantă de dimineață cu mașina vă aduce la impunătorul castel Liscahane, urmată de o scurtă excursie la Purseman's Fort. La amiază, concentrați-vă pe arhitectura impresionantă a catedralei Ardfert, o adevărată capodoperă locală. După-amiaza, navigați pe drumurile rurale liniștite pentru a explora vechiul inel fortificat de la Caherferta și situl istoric Lisnaweenoch. Ziua se încheie la Casement's Fort.",
+        "en": "A relaxed morning drive brings you to the imposing Liscahane Castle, followed by a short trip to Purseman's Fort. Midday shifts focus to the impressive architecture of Ardfert Cathedral, a true centerpiece of the local heritage. In the afternoon, navigate the quiet country roads to explore the ancient ringfort of Caherferta and the historical site of Lisnaweenoch. The day concludes with an evening stop at Casement's Fort, where history and coastal breezes beautifully intermingle."
+      }
+    }
+  }
+}

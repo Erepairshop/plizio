@@ -1,0 +1,497 @@
+{
+  "city_id": "germany-zingst-cities-v2",
+  "anchor": {
+    "name": "Zingst",
+    "coords": [
+      12.688889,
+      54.438889
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:42",
+      "total_km": 2.75,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Peter-Pauls-Kirche",
+            "hu": "Peter-Pauls-Kirche",
+            "ro": "Biserica Peter-Pauls",
+            "en": "Peter-Pauls-Kirche"
+          },
+          "coords": [
+            12.689071,
+            54.437412
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte neugotische Architektur dieser evangelischen Kirche und achten Sie auf die hervorragende Akustik bei den Sommerkonzerten.",
+            "hu": "Csodálja meg a protestáns templom egyszerű neogótikus építészetét, és figyeljen a kiváló akusztikára a rendszeres nyári koncerteken.",
+            "ro": "Admirați arhitectura neogotică simplă a acestei biserici protestante și acordați atenție acusticii excelente în timpul concertelor de vară.",
+            "en": "Admire the simple neo-Gothic architecture of this Protestant church and pay attention to the excellent acoustics during the regular summer concerts."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Michael",
+            "hu": "St. Michael",
+            "ro": "Sf. Michael",
+            "en": "St. Michael"
+          },
+          "coords": [
+            12.683679,
+            54.436488
+          ],
+          "category": "religious",
+          "arrive_at": "09:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese kleine, aber charmante katholische Kapelle, die einen ruhigen Rückzugsort bietet, und kommen Sie am besten am frühen Vormittag.",
+            "hu": "Fedezze fel ezt a kis, de bájos katolikus kápolnát, amely csendes menedéket nyújt, és a legjobb, ha kora délelőtt érkezik a nyugodt látogatáshoz.",
+            "ro": "Descoperiți această capelă catolică mică, dar fermecătoare, care oferă un refugiu liniștit, cel mai bine vizitată dimineața devreme pentru pace.",
+            "en": "Discover this small but charming Catholic chapel that offers a quiet retreat, and it is best to visit early in the morning for a peaceful experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum",
+            "hu": "Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie Locală",
+            "en": "Local History Museum"
+          },
+          "coords": [
+            12.682366,
+            54.432475
+          ],
+          "category": "museum",
+          "arrive_at": "10:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reiche maritime Geschichte von Zingst ein und vergessen Sie nicht, das beeindruckende alte Kapitänshaus mit Exponaten zu fotografieren.",
+            "hu": "Merüljön el Zingst gazdag tengerészeti történelmében, és ne felejtse el lefotózni a lenyűgöző régi kapitányi házat a sok tengerészeti kiállítással.",
+            "ro": "Scufundați-vă în bogata istorie maritimă a orașului Zingst și nu uitați să fotografiați impresionanta casă veche a căpitanului cu expozițiile sale.",
+            "en": "Immerse yourself in Zingst's rich maritime history and do not forget to photograph the impressive old captain's house with its many exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Ruh",
+            "hu": "Villa Ruh",
+            "ro": "Villa Ruh",
+            "en": "Villa Ruh"
+          },
+          "coords": [
+            12.682619,
+            54.433585
+          ],
+          "category": "cultural",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Betrachten Sie die historische Bäderarchitektur dieser wunderschönen Villa und spazieren Sie durch den gepflegten Garten für die authentische Atmosphäre.",
+            "hu": "Tekintse meg ennek a gyönyörű villának a történelmi fürdőépítészetét, és sétáljon végig a gondozott kertben, hogy élvezze az autentikus atmoszférát.",
+            "ro": "Priviți arhitectura istorică a stațiunii din această vilă frumoasă și faceți o plimbare prin grădina bine îngrijită pentru a vă bucura de atmosfera reală.",
+            "en": "Look at the historic resort architecture of this beautiful villa and take a walk through the well-tended garden to enjoy the authentic local atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Schule des Sehens",
+            "hu": "A Látás Iskolája",
+            "ro": "Școala Vederii",
+            "en": "School of Seeing"
+          },
+          "coords": [
+            12.682246,
+            54.440369
+          ],
+          "category": "cultural",
+          "arrive_at": "13:57",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von wechselnden Fotografie-Ausstellungen inspirieren und prüfen Sie vorab online das aktuelle Programm, um keinen Workshop zu verpassen.",
+            "hu": "Merítsen ihletet a változó fotókiállításokból, és előzetesen ellenőrizze az online programot, hogy ne maradjon le az izgalmas fotós workshopokról.",
+            "ro": "Lăsați-vă inspirat de expozițiile de fotografie în schimbare și verificați programul online în prealabil pentru a nu rata atelierele captivante.",
+            "en": "Get inspired by the changing photography exhibitions and check the current program online in advance so you do not miss any of the exciting workshops."
+          }
+        },
+        {
+          "name": {
+            "de": "Tauchgondel Zingst",
+            "hu": "Búvárgondola Zingst",
+            "ro": "Telegondola de scufundări",
+            "en": "Diving Gondola Zingst"
+          },
+          "coords": [
+            12.681531,
+            54.443607
+          ],
+          "category": "landmark",
+          "arrive_at": "15:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erleben Sie die Ostsee trockenen Fußes bei einem spannenden Tauchgang und kaufen Sie Ihre Tickets am besten frühzeitig an der Seebrücke.",
+            "hu": "Tapasztalja meg a Balti-tengert száraz lábbal egy izgalmas merülés során, és a legjobb, ha korán megveszi a jegyeket a mólónál, hogy elkerülje a várakozást.",
+            "ro": "Experimentați Marea Baltică cu picioarele uscate într-o scufundare captivantă și cumpărați biletele din timp la debarcader pentru a evita așteptarea.",
+            "en": "Experience the Baltic Sea with dry feet on an exciting dive and it is best to buy your tickets early at the pier to avoid long waiting times."
+          }
+        },
+        {
+          "name": {
+            "de": "Experimentarium",
+            "hu": "Experimentarium",
+            "ro": "Experimentarium",
+            "en": "Experimentarium"
+          },
+          "coords": [
+            12.672801,
+            54.440641
+          ],
+          "category": "museum",
+          "arrive_at": "16:32",
+          "stay_min": 130,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Genießen Sie interaktive wissenschaftliche Experimente für die Familie und planen Sie mindestens zwei Stunden ein, da die Stationen Zeit erfordern.",
+            "hu": "Élvezze az interaktív tudományos kísérleteket a család számára, és tervezzen legalább két órát, mivel a gyakorlati állomások sok időt igényelnek.",
+            "ro": "Bucurați-vă de experimente științifice interactive pentru întreaga familie și planificați cel puțin două ore, deoarece stațiile necesită mult timp.",
+            "en": "Enjoy interactive scientific experiments for the whole family and plan at least two hours, as the many hands-on stations require a lot of time to explore."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag im historischen Herzen von Zingst und spüren Sie die spirituelle Ruhe in der Peter-Pauls-Kirche und der St. Michael Kapelle. Nachmittags erwartet Sie das Heimatmuseum, wo die Seefahrergeschichte lebendig wird. Ein Spaziergang zur Küste führt Sie zur Kunst in der Schule des Sehens. Beenden Sie den Tag aufregend in der Tauchgondel und dem Experimentarium.",
+        "hu": "Kezdje a napot Zingst történelmi szívében, és érezze a spirituális nyugalmat a Peter-Pauls-Kirche és a St. Michael kápolnában. Délután a Heimatmuseum várja, ahol megelevenedik a tengerész történelem. Egy séta a tengerparthoz a Schule des Sehens művészetéhez vezet. Zárja a napot izgalmasan a Tauchgondel és az Experimentarium felfedezésével.",
+        "ro": "Începeți ziua în inima istorică a orașului Zingst și simțiți liniștea spirituală în Biserica Peter-Pauls și Capela St. Michael. După-amiaza vă așteaptă Muzeul Heimatmuseum, unde prinde viață istoria maritimă. O plimbare spre coastă vă duce la arta de la Schule des Sehens. Încheiați ziua captivant la Tauchgondel și la Experimentarium.",
+        "en": "Start the day in the historic heart of Zingst and feel the spiritual tranquility in the Peter-Pauls-Kirche and St. Michael's chapel. In the afternoon, the Heimatmuseum awaits you, where maritime history comes alive. A walk to the coast leads you to the art at the Schule des Sehens. End the day with an exciting dive in the Tauchgondel and fun at the Experimentarium."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:49",
+      "total_km": 5.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Altes Gehöft",
+            "hu": "Öreg Tanya",
+            "ro": "Vechea Fermă",
+            "en": "Old Farmstead"
+          },
+          "coords": [
+            12.702881,
+            54.427873
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses traditionelle landwirtschaftliche Anwesen, das die Baukultur widerspiegelt, und bringen Sie bequeme Schuhe für das Gelände mit.",
+            "hu": "Fedezze fel ezt a hagyományos mezőgazdasági birtokot, amely tükrözi a regionális építészetet, és hozzon kényelmes cipőt a területen való sétához.",
+            "ro": "Explorați această proprietate agricolă tradițională care reflectă arhitectura regională și aduceți încălțăminte confortabilă pentru plimbarea pe domeniu.",
+            "en": "Explore this traditional agricultural estate reflecting regional architecture and bring comfortable walking shoes for the stroll across the large grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Zingster Strom",
+            "hu": "Zingster Strom",
+            "ro": "Zingster Strom",
+            "en": "Zingster Strom"
+          },
+          "coords": [
+            12.685526,
+            54.425659
+          ],
+          "category": "landmark",
+          "arrive_at": "10:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die idyllische Aussicht auf das Boddenwasser und mieten Sie sich ein kleines Boot am Hafen, um die Landschaft vom Wasser aus zu erkunden.",
+            "hu": "Élvezze az idilli kilátást a csendes Bodden-vízre, és béreljen egy kis csónakot a közeli kikötőben, hogy a vízről fedezze fel a természeti tájat.",
+            "ro": "Bucurați-vă de vederea idilică a apelor liniștite Bodden și închiriați o barcă mică din portul din apropiere pentru a explora peisajul natural de pe apă.",
+            "en": "Enjoy the idyllic view of the calm Bodden waters and rent a small boat at the nearby harbor to explore the natural landscape directly from the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Heimatmuseum",
+            "hu": "Helytörténeti Múzeum",
+            "ro": "Muzeul de Istorie Locală",
+            "en": "Local History Museum"
+          },
+          "coords": [
+            12.682366,
+            54.432475
+          ],
+          "category": "museum",
+          "arrive_at": "11:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reiche maritime Geschichte von Zingst ein und vergessen Sie nicht, das beeindruckende alte Kapitänshaus mit Exponaten zu fotografieren.",
+            "hu": "Merüljön el Zingst gazdag tengerészeti történelmében, és ne felejtse el lefotózni a lenyűgöző régi kapitányi házat a sok tengerészeti kiállítással.",
+            "ro": "Scufundați-vă în bogata istorie maritimă a orașului Zingst și nu uitați să fotografiați impresionanta casă veche a căpitanului cu expozițiile sale.",
+            "en": "Immerse yourself in Zingst's rich maritime history and do not forget to photograph the impressive old captain's house with its many exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Experimentarium",
+            "hu": "Experimentarium",
+            "ro": "Experimentarium",
+            "en": "Experimentarium"
+          },
+          "coords": [
+            12.672801,
+            54.440641
+          ],
+          "category": "museum",
+          "arrive_at": "13:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie interaktive wissenschaftliche Experimente für die Familie und planen Sie mindestens zwei Stunden ein, da die Stationen Zeit erfordern.",
+            "hu": "Élvezze az interaktív tudományos kísérleteket a család számára, és tervezzen legalább két órát, mivel a gyakorlati állomások sok időt igényelnek.",
+            "ro": "Bucurați-vă de experimente științifice interactive pentru întreaga familie și planificați cel puțin două ore, deoarece stațiile necesită mult timp.",
+            "en": "Enjoy interactive scientific experiments for the whole family and plan at least two hours, as the many hands-on stations require a lot of time to explore."
+          }
+        },
+        {
+          "name": {
+            "de": "Hundestrand",
+            "hu": "Kutyás Strand",
+            "ro": "Plajă pentru câini",
+            "en": "Dog Beach"
+          },
+          "coords": [
+            12.663402,
+            54.442271
+          ],
+          "category": "recreational",
+          "arrive_at": "15:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem Strandabschnitt für Vierbeiner und bringen Sie unbedingt eigenes Wasser und Spielzeug mit, da die Versorgung dort begrenzt ist.",
+            "hu": "Pihenjen ezen a négylábú barátok számára kijelölt strandon, és feltétlenül vigyen magával vizet és játékot a kutyájának, mivel az ellátás korlátozott.",
+            "ro": "Relaxați-vă pe această plajă desemnată pentru prietenii cu patru picioare și asigurați-vă că aduceți apă și jucării pentru câine, dotările fiind limitate.",
+            "en": "Relax on this designated beach section for four-legged friends and be sure to bring your own water and toys for your dog, as local supplies are limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Hinter dem Wald",
+            "hu": "Az erdőn túl",
+            "ro": "Dincolo de pădure",
+            "en": "Beyond the forest"
+          },
+          "coords": [
+            12.665313,
+            54.435915
+          ],
+          "category": "landmark",
+          "arrive_at": "16:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Unternehmen Sie einen erholsamen Spaziergang durch diesen dichten Küstenwald und nutzen Sie Mückenspray, besonders in den feuchten Sommermonaten.",
+            "hu": "Tegyél egy pihentető sétát ezen a sűrű tengerparti erdőn, és használj szúnyogriasztót, különösen, ha a meleg és párás nyári hónapokban látogatsz ide.",
+            "ro": "Faceți o plimbare relaxantă prin această pădure de coastă deasă și folosiți spray împotriva țânțarilor, mai ales dacă vizitați în lunile calde de vară.",
+            "en": "Take a relaxing walk through this dense coastal forest and use mosquito repellent, especially if you are visiting during the warm and humid summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "FKK-Strand",
+            "hu": "Nudista Strand",
+            "ro": "Plajă de nudiști",
+            "en": "Nudist Beach"
+          },
+          "coords": [
+            12.654813,
+            54.44317
+          ],
+          "category": "recreational",
+          "arrive_at": "18:04",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erleben Sie die freie Körperkultur an diesem herrlichen Sandstrand und respektieren Sie die Privatsphäre der anderen Badegäste ohne zu fotografieren.",
+            "hu": "Tapasztalja meg a szabad testkultúrát ezen a gyönyörű homokos strandon, és tartsa tiszteletben a többi fürdőző magánéletét azzal, hogy nem fotóz.",
+            "ro": "Experimentați cultura corpului liber pe această plajă cu nisip și respectați intimitatea celorlalți vizitatori renunțând complet la fotografii.",
+            "en": "Experience the free body culture on this beautiful sandy beach and respect the privacy of other bathers by completely refraining from taking any photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens zum Alten Gehöft und genießen Sie die ländliche Tradition, bevor Sie am Zingster Strom die ruhige Boddenlandschaft bewundern. Die Mittagssonne verbringen Sie am besten im kühlen Heimatmuseum. Am Nachmittag führt die Route weiter zum Experimentarium und an den lebhaften Hundestrand. Der Abend klingt entspannt im Wald und schließlich am FKK-Strand im Westen aus.",
+        "hu": "Reggel biciklizzen el az Altes Gehöft-hez, és élvezze a vidéki hagyományokat, mielőtt megcsodálja a nyugodt Bodden-tájat a Zingster Stromnál. A déli napsütést a legjobb a hűvös Heimatmuseumban tölteni. Délután az út az Experimentarium és a nyüzsgő Hundestrand felé vezet. Az este nyugodtan ér véget az erdőben, végül a nyugati FKK strandon.",
+        "ro": "Mergeți cu bicicleta dimineața la Altes Gehöft și bucurați-vă de tradiția rurală înainte de a admira peisajul liniștit Bodden la Zingster Strom. Cel mai bine este să petreceți soarele amiezii în răcoarea Muzeului Heimatmuseum. După-amiaza traseul duce la Experimentarium și la plaja animată pentru câini. Seara se termină relaxant în pădure și la plaja de nudiști.",
+        "en": "Cycle in the morning to the Altes Gehöft and enjoy the rural tradition before admiring the quiet Bodden landscape at the Zingster Strom. The midday sun is best spent in the cool Heimatmuseum. In the afternoon, the route continues to the Experimentarium and the lively dog beach. The evening ends relaxed in the forest and finally at the nudist beach in the west."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:04",
+      "total_km": 4.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Mona Lisa",
+            "hu": "Mona Lisa",
+            "ro": "Mona Lisa",
+            "en": "Mona Lisa"
+          },
+          "coords": [
+            12.691284,
+            54.432054
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese charmante lokale Sehenswürdigkeit, die für ihre einzigartige Atmosphäre bekannt ist, und genießen Sie die besondere Architektur.",
+            "hu": "Fedezze fel ezt a bájos helyi látványosságot, amely egyedi atmoszférájáról ismert, és a legjobb, ha késő délután érkezik a legszebb fényekért.",
+            "ro": "Descoperiți această atracție locală fermecătoare, cunoscută pentru atmosfera sa unică, și cel mai bine este să vizitați după-amiaza pentru liniște.",
+            "en": "Discover this charming local landmark known for its unique atmosphere, and it is best to arrive in the late afternoon to catch the most beautiful light."
+          }
+        },
+        {
+          "name": {
+            "de": "Zingster Strom",
+            "hu": "Zingster Strom",
+            "ro": "Zingster Strom",
+            "en": "Zingster Strom"
+          },
+          "coords": [
+            12.685526,
+            54.425659
+          ],
+          "category": "landmark",
+          "arrive_at": "10:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die idyllische Aussicht auf das Boddenwasser und mieten Sie sich ein kleines Boot am Hafen, um die Landschaft vom Wasser aus zu erkunden.",
+            "hu": "Élvezze az idilli kilátást a csendes Bodden-vízre, és béreljen egy kis csónakot a közeli kikötőben, hogy a vízről fedezze fel a természeti tájat.",
+            "ro": "Bucurați-vă de vederea idilică a apelor liniștite Bodden și închiriați o barcă mică din portul din apropiere pentru a explora peisajul natural de pe apă.",
+            "en": "Enjoy the idyllic view of the calm Bodden waters and rent a small boat at the nearby harbor to explore the natural landscape directly from the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Schule des Sehens",
+            "hu": "A Látás Iskolája",
+            "ro": "Școala Vederii",
+            "en": "School of Seeing"
+          },
+          "coords": [
+            12.682246,
+            54.440369
+          ],
+          "category": "cultural",
+          "arrive_at": "11:51",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von wechselnden Fotografie-Ausstellungen inspirieren und prüfen Sie vorab online das aktuelle Programm, um keinen Workshop zu verpassen.",
+            "hu": "Merítsen ihletet a változó fotókiállításokból, és előzetesen ellenőrizze az online programot, hogy ne maradjon le az izgalmas fotós workshopokról.",
+            "ro": "Lăsați-vă inspirat de expozițiile de fotografie în schimbare și verificați programul online în prealabil pentru a nu rata atelierele captivante.",
+            "en": "Get inspired by the changing photography exhibitions and check the current program online in advance so you do not miss any of the exciting workshops."
+          }
+        },
+        {
+          "name": {
+            "de": "Tauchgondel Zingst",
+            "hu": "Búvárgondola Zingst",
+            "ro": "Telegondola de scufundări",
+            "en": "Diving Gondola Zingst"
+          },
+          "coords": [
+            12.681531,
+            54.443607
+          ],
+          "category": "landmark",
+          "arrive_at": "12:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die Ostsee trockenen Fußes bei einem spannenden Tauchgang und kaufen Sie Ihre Tickets am besten frühzeitig an der Seebrücke.",
+            "hu": "Tapasztalja meg a Balti-tengert száraz lábbal egy izgalmas merülés során, és a legjobb, ha korán megveszi a jegyeket a mólónál, hogy elkerülje a várakozást.",
+            "ro": "Experimentați Marea Baltică cu picioarele uscate într-o scufundare captivantă și cumpărați biletele din timp la debarcader pentru a evita așteptarea.",
+            "en": "Experience the Baltic Sea with dry feet on an exciting dive and it is best to buy your tickets early at the pier to avoid long waiting times."
+          }
+        },
+        {
+          "name": {
+            "de": "Sportstrand",
+            "hu": "Sportstrand",
+            "ro": "Plaja sportivă",
+            "en": "Sports Beach"
+          },
+          "coords": [
+            12.706698,
+            54.44226
+          ],
+          "category": "recreational",
+          "arrive_at": "14:19",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Werden Sie aktiv bei den zahlreichen Wassersportangeboten an diesem Strandabschnitt und buchen Sie Ihre Surfkurse am besten im Voraus.",
+            "hu": "Legyen aktív a számtalan vízisport-kínálattal ezen a strandon, és a legjobb, ha előre lefoglalja a szörfórákat, mivel a főszezonban gyorsan megtelnek.",
+            "ro": "Deveniți activ cu numeroasele oferte de sporturi nautice de pe această plajă și rezervați-vă lecțiile de surf în avans, deoarece se ocupă rapid în sezon.",
+            "en": "Get active with the numerous water sports offered on this beach section and book your surf lessons in advance, as they fill up quickly in high season."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie entspannt bei der Mona Lisa und fahren Sie anschließend zum Zingster Strom, um die friedliche Wasserlandschaft zu genießen. Nach einem stärkenden Mittagessen bringt Sie das Auto direkt an die Küste zur Schule des Sehens. Erleben Sie danach einen faszinierenden Tauchgang in der Tauchgondel. Zum Abschluss können Sie sich am weiten Sportstrand auspowern und den Sonnenuntergang erleben.",
+        "hu": "Kezdje lazán a Mona Lisánál, majd hajtson a Zingster Stromhoz, hogy élvezze a békés vízi tájat. Egy kiadós ebéd után az autó közvetlenül a partra viszi a Schule des Sehenshöz. Ezután éljen át egy lenyűgöző merülést a Tauchgondelben. Végül kimerítheti magát a hatalmas sportstrandon, és megnézheti a gyönyörű naplementét a tenger felett.",
+        "ro": "Începeți relaxat la Mona Lisa și apoi conduceți la Zingster Strom pentru a vă bucura de peisajul liniștit al apei. După un prânz revigorant, mașina vă duce direct pe coastă la Schule des Sehens. Apoi experimentați o scufundare fascinantă în Tauchgondel. La final, vă puteți consuma energia pe plaja vastă de sport și puteți privi apusul.",
+        "en": "Start relaxed at the Mona Lisa and then drive to the Zingster Strom to enjoy the peaceful water landscape. After a refreshing lunch, the car takes you straight to the coast to the Schule des Sehens. Then experience a fascinating dive in the Tauchgondel. Finally, you can burn off some energy at the vast sports beach and watch the sunset."
+      }
+    }
+  }
+}

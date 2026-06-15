@@ -1,0 +1,543 @@
+{
+  "city_id": "spain-barrika-cities-v2",
+  "anchor": {
+    "name": "Barrika",
+    "coords": [
+      -2.96516,
+      43.40769
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 5.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ayuntamiento de Barrika",
+            "hu": "Ayuntamiento de Barrika",
+            "ro": "Ayuntamiento de Barrika",
+            "en": "Ayuntamiento de Barrika"
+          },
+          "coords": [
+            -2.965387,
+            43.407792
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie am historischen Rathaus von Barrika, um die traditionelle baskische Architektur zu bewundern, und prüfen Sie die Anschlagbretter auf lokale Events.",
+            "hu": "Kezdje a történelmi Barrika városházánál, hogy megcsodálja a hagyományos baszk építészetet, és érdemes a hirdetőtáblákon a helyi eseményeket is megnézni.",
+            "ro": "Începeți la primăria istorică din Barrika pentru a admira arhitectura tradițională bască, neuitând să verificați panourile informative pentru evenimente locale.",
+            "en": "Start at the historical Barrika town hall to appreciate the traditional Basque architecture, making sure to check the notice boards for local events."
+          }
+        },
+        {
+          "name": {
+            "de": "Barrikako hondartza",
+            "hu": "Barrikako hondartza",
+            "ro": "Barrikako hondartza",
+            "en": "Barrikako hondartza"
+          },
+          "coords": [
+            -2.974156,
+            43.403857
+          ],
+          "category": "recreational",
+          "arrive_at": "10:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Steigen Sie die steilen Holztreppen zu diesem dramatischen Felsstrand hinab, der für seine Flyschformationen bekannt ist, aber tragen Sie festes Schuhwerk.",
+            "hu": "Ereszkedjen le a meredek falépcsőkön erre a drámai sziklás, flis képződményeiről híres strandra, de viseljen masszív cipőt, mert a terep meglehetősen csúszós.",
+            "ro": "Coborâți treptele abrupte de lemn spre această plajă stâncoasă renumită pentru formațiunile sale de fliș, dar purtați încălțăminte robustă, deoarece terenul e alunecos.",
+            "en": "Descend the steep wooden stairs to this dramatic, rocky beach famous for its flysch formations, but wear sturdy shoes as the terrain can be quite slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Muriola",
+            "hu": "Muriola",
+            "ro": "Muriola",
+            "en": "Muriola"
+          },
+          "coords": [
+            -2.959898,
+            43.413173
+          ],
+          "category": "recreational",
+          "arrive_at": "12:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese abgelegene Sandbucht, die als Drehort von Game of Thrones berühmt wurde, und bringen Sie eigenes Wasser mit, da es keine Einrichtungen gibt.",
+            "hu": "Látogasson el ebbe az eldugott homokos öbölbe, amely a Trónok harca forgatási helyszíneként vált ismertté, és hozzon vizet, mert nincsenek helyi szolgáltatások.",
+            "ro": "Vizitați acest golf izolat cu nisip devenit faimos ca locație de filmare pentru Urzeala Tronurilor și aduceți-vă apă, deoarece nu există facilități pe plajă.",
+            "en": "Visit this secluded, sandy cove that gained fame as a Game of Thrones filming location, and bring your own water since there are no facilities on site."
+          }
+        },
+        {
+          "name": {
+            "de": "Plentziako Uri Udala",
+            "hu": "Plentziako Uri Udala",
+            "ro": "Plentziako Uri Udala",
+            "en": "Plentziako Uri Udala"
+          },
+          "coords": [
+            -2.950281,
+            43.404448
+          ],
+          "category": "historical",
+          "arrive_at": "14:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Fassade des Rathauses von Plentzia an einem charmanten Platz und nehmen Sie sich Zeit für einen Kaffee, um die Atmosphäre zu genießen.",
+            "hu": "Csodálja meg a Plentzia városháza elegáns homlokzatát a bájos téren, és szánjon időt arra, hogy beüljön egy közeli kávézóba élvezni a helyi nyüzsgést.",
+            "ro": "Admirați fațada elegantă a primăriei din Plentzia, situată într-o piațetă fermecătoare, și savurați o cafea la o terasă din apropiere pentru a simți pulsul local.",
+            "en": "Admire the elegant facade of the Plentzia town hall set in a charming plaza, taking a moment to sit at a nearby cafe to enjoy the lively local atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Plentzia beach",
+            "hu": "Plentzia beach",
+            "ro": "Plentzia beach",
+            "en": "Plentzia beach"
+          },
+          "coords": [
+            -2.946194,
+            43.410825
+          ],
+          "category": "recreational",
+          "arrive_at": "15:40",
+          "stay_min": 105,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem weitläufigen, feinsandigen Stadtstrand, der ideal für Familien ist, kommen Sie jedoch früh, um sich den besten Platz am Wasser zu sichern.",
+            "hu": "Pihenjen ezen a tágas, finom homokos, családok számára tökéletes városi strandon, de érkezzen korán, mert gyorsan megtelik, és így biztosíthatja a legjobb helyet.",
+            "ro": "Relaxați-vă pe această plajă urbană spațioasă, ideală pentru familii, dar sosiți devreme pentru a vă asigura cel mai bun loc lângă apă, deoarece devine aglomerată.",
+            "en": "Relax on this expansive, fine-sand urban beach perfectly suited for families, though it gets crowded fast so arriving early secures the best waterfront spot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der Erkundung des Zentrums von Barrika, bevor Sie zum lokalen Strand schlendern. Gegen Mittag wandern Sie zur Bucht von Muriola, um den filmischen Charme zu genießen. Am Nachmittag geht es nach Plentzia, wo Sie die historische Architektur bewundern können. Beenden Sie den Tag auf dem feinen Sandstrand von Plentzia.",
+        "hu": "Kezdje a reggelt Barrika központjának felfedezésével, majd sétáljon el a lenyűgöző helyi strandra. Délben barangoljon el a Muriola öbölhöz, és élvezze annak filmes varázsát. Délután vegye az irányt Plentzia felé, és csodálja meg a városháza történelmi építészetét. A sétával töltött napot a placentiai strand puha homokján pihenve zárja le.",
+        "ro": "Începeți dimineața explorând centrul civic din Barrika înainte de a vă plimba spre plaja locală uimitoare. La amiază, mergeți către faimosul golf Muriola pentru a admira farmecul său de film. După-amiază, îndreptați-vă spre Plentzia pentru a vedea arhitectura istorică a primăriei. Încheiați ziua relaxându-vă pe nisipul fin al plajei Plentzia.",
+        "en": "Start your morning exploring Barrika's civic heart before strolling to the majestic flysch-lined local beach. By midday, wander over to the iconic Muriola cove to relish its cinematic coastal charm. In the afternoon, head toward Plentzia to admire the historical architecture of its town hall. Conclude your walking day unwinding on the soft sands of Plentzia beach."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:10",
+      "total_km": 6.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ayuntamiento de Barrika",
+            "hu": "Ayuntamiento de Barrika",
+            "ro": "Ayuntamiento de Barrika",
+            "en": "Ayuntamiento de Barrika"
+          },
+          "coords": [
+            -2.965387,
+            43.407792
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie am historischen Rathaus von Barrika, um die traditionelle baskische Architektur zu bewundern, und prüfen Sie die Anschlagbretter auf lokale Events.",
+            "hu": "Kezdje a történelmi Barrika városházánál, hogy megcsodálja a hagyományos baszk építészetet, és érdemes a hirdetőtáblákon a helyi eseményeket is megnézni.",
+            "ro": "Începeți la primăria istorică din Barrika pentru a admira arhitectura tradițională bască, neuitând să verificați panourile informative pentru evenimente locale.",
+            "en": "Start at the historical Barrika town hall to appreciate the traditional Basque architecture, making sure to check the notice boards for local events."
+          }
+        },
+        {
+          "name": {
+            "de": "Barrikako hondartza",
+            "hu": "Barrikako hondartza",
+            "ro": "Barrikako hondartza",
+            "en": "Barrikako hondartza"
+          },
+          "coords": [
+            -2.974156,
+            43.403857
+          ],
+          "category": "recreational",
+          "arrive_at": "10:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Steigen Sie die steilen Holztreppen zu diesem dramatischen Felsstrand hinab, der für seine Flyschformationen bekannt ist, aber tragen Sie festes Schuhwerk.",
+            "hu": "Ereszkedjen le a meredek falépcsőkön erre a drámai sziklás, flis képződményeiről híres strandra, de viseljen masszív cipőt, mert a terep meglehetősen csúszós.",
+            "ro": "Coborâți treptele abrupte de lemn spre această plajă stâncoasă renumită pentru formațiunile sale de fliș, dar purtați încălțăminte robustă, deoarece terenul e alunecos.",
+            "en": "Descend the steep wooden stairs to this dramatic, rocky beach famous for its flysch formations, but wear sturdy shoes as the terrain can be quite slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Muriola",
+            "hu": "Muriola",
+            "ro": "Muriola",
+            "en": "Muriola"
+          },
+          "coords": [
+            -2.959898,
+            43.413173
+          ],
+          "category": "recreational",
+          "arrive_at": "12:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese abgelegene Sandbucht, die als Drehort von Game of Thrones berühmt wurde, und bringen Sie eigenes Wasser mit, da es keine Einrichtungen gibt.",
+            "hu": "Látogasson el ebbe az eldugott homokos öbölbe, amely a Trónok harca forgatási helyszíneként vált ismertté, és hozzon vizet, mert nincsenek helyi szolgáltatások.",
+            "ro": "Vizitați acest golf izolat cu nisip devenit faimos ca locație de filmare pentru Urzeala Tronurilor și aduceți-vă apă, deoarece nu există facilități pe plajă.",
+            "en": "Visit this secluded, sandy cove that gained fame as a Game of Thrones filming location, and bring your own water since there are no facilities on site."
+          }
+        },
+        {
+          "name": {
+            "de": "Plentziako Uri Udala",
+            "hu": "Plentziako Uri Udala",
+            "ro": "Plentziako Uri Udala",
+            "en": "Plentziako Uri Udala"
+          },
+          "coords": [
+            -2.950281,
+            43.404448
+          ],
+          "category": "historical",
+          "arrive_at": "13:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Fassade des Rathauses von Plentzia an einem charmanten Platz und nehmen Sie sich Zeit für einen Kaffee, um die Atmosphäre zu genießen.",
+            "hu": "Csodálja meg a Plentzia városháza elegáns homlokzatát a bájos téren, és szánjon időt arra, hogy beüljön egy közeli kávézóba élvezni a helyi nyüzsgést.",
+            "ro": "Admirați fațada elegantă a primăriei din Plentzia, situată într-o piațetă fermecătoare, și savurați o cafea la o terasă din apropiere pentru a simți pulsul local.",
+            "en": "Admire the elegant facade of the Plentzia town hall set in a charming plaza, taking a moment to sit at a nearby cafe to enjoy the lively local atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Plentzia beach",
+            "hu": "Plentzia beach",
+            "ro": "Plentzia beach",
+            "en": "Plentzia beach"
+          },
+          "coords": [
+            -2.946194,
+            43.410825
+          ],
+          "category": "recreational",
+          "arrive_at": "14:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem weitläufigen, feinsandigen Stadtstrand, der ideal für Familien ist, kommen Sie jedoch früh, um sich den besten Platz am Wasser zu sichern.",
+            "hu": "Pihenjen ezen a tágas, finom homokos, családok számára tökéletes városi strandon, de érkezzen korán, mert gyorsan megtelik, és így biztosíthatja a legjobb helyet.",
+            "ro": "Relaxați-vă pe această plajă urbană spațioasă, ideală pentru familii, dar sosiți devreme pentru a vă asigura cel mai bun loc lângă apă, deoarece devine aglomerată.",
+            "en": "Relax on this expansive, fine-sand urban beach perfectly suited for families, though it gets crowded fast so arriving early secures the best waterfront spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Gorliz beach",
+            "hu": "Gorliz beach",
+            "ro": "Gorliz beach",
+            "en": "Gorliz beach"
+          },
+          "coords": [
+            -2.94386,
+            43.414848
+          ],
+          "category": "recreational",
+          "arrive_at": "16:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem malerischen, von Dünen gesäumten Küstenstreifen entlang, der bei Wassersportlern beliebt ist, und nutzen Sie die Promenade zum Flanieren.",
+            "hu": "Sétáljon végig a dűnékkel szegélyezett, vízisportok kedvelői körében népszerű partszakaszon, és használja ki a kiváló sétányt egy kellemes naplementés sétára.",
+            "ro": "Plimbați-vă pe această zonă de coastă mărginită de dune, preferată de pasionații de sporturi acvatice, și profitați de promenada excelentă pentru un apus perfect.",
+            "en": "Walk along this scenic, dune-backed sweep of coastline favored by watersports enthusiasts, taking advantage of the excellent promenade for a smooth sunset stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Astondo beach",
+            "hu": "Astondo beach",
+            "ro": "Astondo beach",
+            "en": "Astondo beach"
+          },
+          "coords": [
+            -2.945949,
+            43.418793
+          ],
+          "category": "recreational",
+          "arrive_at": "17:25",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entfliehen Sie in diese ruhigere Ecke, wo der Strand in felsige Vorsprünge übergeht, ideal zum Schnorcheln, wenn Sie Ihre eigene Ausrüstung dabei haben.",
+            "hu": "Meneküljön el ebbe a csendesebb szegletbe, ahol a strand sziklás kiemelkedésekbe megy át, és amely ideális sznorkelezésre, ha magával hozza saját felszerelését.",
+            "ro": "Refugiați-vă în acest colț mai liniștit, unde plaja se contopește cu aflorimente stâncoase, ideal pentru snorkeling dacă vă amintiți să aduceți propriul echipament.",
+            "en": "Escape to this quieter corner where the beach merges into rocky outcrops, making it ideal for snorkeling if you remember to bring your own underwater gear."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie vom historischen Rathaus in Barrika zu den Klippen von Barrikako hondartza. Mittags treten Sie in die Pedale zum spektakulären Muriola-Strand und weiter nach Plentzia. Der Nachmittag bietet eine sanfte Fahrt entlang der Küste, die die lebhaften Strände von Plentzia und Gorliz verbindet. Beenden Sie Ihre Tour an den ruhigen Ufern von Astondo.",
+        "hu": "Tekerjen ki Barrika történelmi városházájától a Barrikako hondartza sziklái felé. Délben pedálozzon el a látványos Muriola strandhoz, mielőtt Plentzia elegáns utcáira érne. A délután sima utazást kínál a part mentén, összekötve Plentzia pezsgő homokját a Gorliz-öböllel. Zárja a kerékpározást Astondo nyugodt partjainak közelében.",
+        "ro": "Pedalați de la primăria istorică din Barrika către stâncile abrupte care străjuiesc Barrikako hondartza. La prânz, mergeți spre spectaculoasa plajă Muriola, înainte de a intra în Plentzia. După-amiaza oferă o plimbare lină pe coastă, conectând nisipurile din Plentzia cu golful Gorliz. Terminați-vă traseul lângă țărmurile liniștite din Astondo.",
+        "en": "Cycle out from Barrika's historic town hall towards the rugged cliffs guarding Barrikako hondartza. By midday, pedal to the spectacular Muriola beach before heading into the elegant streets of Plentzia. The afternoon offers a smooth ride along the coast, connecting the vibrant sands of Plentzia with the wide bay of Gorliz. Finish your ride near the tranquil shores of Astondo."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "21:28",
+      "total_km": 7.1,
+      "stop_count": 9,
+      "stops": [
+        {
+          "name": {
+            "de": "Ayuntamiento de Barrika",
+            "hu": "Ayuntamiento de Barrika",
+            "ro": "Ayuntamiento de Barrika",
+            "en": "Ayuntamiento de Barrika"
+          },
+          "coords": [
+            -2.965387,
+            43.407792
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie am historischen Rathaus von Barrika, um die traditionelle baskische Architektur zu bewundern, und prüfen Sie die Anschlagbretter auf lokale Events.",
+            "hu": "Kezdje a történelmi Barrika városházánál, hogy megcsodálja a hagyományos baszk építészetet, és érdemes a hirdetőtáblákon a helyi eseményeket is megnézni.",
+            "ro": "Începeți la primăria istorică din Barrika pentru a admira arhitectura tradițională bască, neuitând să verificați panourile informative pentru evenimente locale.",
+            "en": "Start at the historical Barrika town hall to appreciate the traditional Basque architecture, making sure to check the notice boards for local events."
+          }
+        },
+        {
+          "name": {
+            "de": "Barrikako hondartza",
+            "hu": "Barrikako hondartza",
+            "ro": "Barrikako hondartza",
+            "en": "Barrikako hondartza"
+          },
+          "coords": [
+            -2.974156,
+            43.403857
+          ],
+          "category": "recreational",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Steigen Sie die steilen Holztreppen zu diesem dramatischen Felsstrand hinab, der für seine Flyschformationen bekannt ist, aber tragen Sie festes Schuhwerk.",
+            "hu": "Ereszkedjen le a meredek falépcsőkön erre a drámai sziklás, flis képződményeiről híres strandra, de viseljen masszív cipőt, mert a terep meglehetősen csúszós.",
+            "ro": "Coborâți treptele abrupte de lemn spre această plajă stâncoasă renumită pentru formațiunile sale de fliș, dar purtați încălțăminte robustă, deoarece terenul e alunecos.",
+            "en": "Descend the steep wooden stairs to this dramatic, rocky beach famous for its flysch formations, but wear sturdy shoes as the terrain can be quite slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Plentziako Uri Udala",
+            "hu": "Plentziako Uri Udala",
+            "ro": "Plentziako Uri Udala",
+            "en": "Plentziako Uri Udala"
+          },
+          "coords": [
+            -2.950281,
+            43.404448
+          ],
+          "category": "historical",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Fassade des Rathauses von Plentzia an einem charmanten Platz und nehmen Sie sich Zeit für einen Kaffee, um die Atmosphäre zu genießen.",
+            "hu": "Csodálja meg a Plentzia városháza elegáns homlokzatát a bájos téren, és szánjon időt arra, hogy beüljön egy közeli kávézóba élvezni a helyi nyüzsgést.",
+            "ro": "Admirați fațada elegantă a primăriei din Plentzia, situată într-o piațetă fermecătoare, și savurați o cafea la o terasă din apropiere pentru a simți pulsul local.",
+            "en": "Admire the elegant facade of the Plentzia town hall set in a charming plaza, taking a moment to sit at a nearby cafe to enjoy the lively local atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Plentzia beach",
+            "hu": "Plentzia beach",
+            "ro": "Plentzia beach",
+            "en": "Plentzia beach"
+          },
+          "coords": [
+            -2.946194,
+            43.410825
+          ],
+          "category": "recreational",
+          "arrive_at": "13:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem weitläufigen, feinsandigen Stadtstrand, der ideal für Familien ist, kommen Sie jedoch früh, um sich den besten Platz am Wasser zu sichern.",
+            "hu": "Pihenjen ezen a tágas, finom homokos, családok számára tökéletes városi strandon, de érkezzen korán, mert gyorsan megtelik, és így biztosíthatja a legjobb helyet.",
+            "ro": "Relaxați-vă pe această plajă urbană spațioasă, ideală pentru familii, dar sosiți devreme pentru a vă asigura cel mai bun loc lângă apă, deoarece devine aglomerată.",
+            "en": "Relax on this expansive, fine-sand urban beach perfectly suited for families, though it gets crowded fast so arriving early secures the best waterfront spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Gorliz beach",
+            "hu": "Gorliz beach",
+            "ro": "Gorliz beach",
+            "en": "Gorliz beach"
+          },
+          "coords": [
+            -2.94386,
+            43.414848
+          ],
+          "category": "recreational",
+          "arrive_at": "14:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem malerischen, von Dünen gesäumten Küstenstreifen entlang, der bei Wassersportlern beliebt ist, und nutzen Sie die Promenade zum Flanieren.",
+            "hu": "Sétáljon végig a dűnékkel szegélyezett, vízisportok kedvelői körében népszerű partszakaszon, és használja ki a kiváló sétányt egy kellemes naplementés sétára.",
+            "ro": "Plimbați-vă pe această zonă de coastă mărginită de dune, preferată de pasionații de sporturi acvatice, și profitați de promenada excelentă pentru un apus perfect.",
+            "en": "Walk along this scenic, dune-backed sweep of coastline favored by watersports enthusiasts, taking advantage of the excellent promenade for a smooth sunset stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Astondo beach",
+            "hu": "Astondo beach",
+            "ro": "Astondo beach",
+            "en": "Astondo beach"
+          },
+          "coords": [
+            -2.945949,
+            43.418793
+          ],
+          "category": "recreational",
+          "arrive_at": "15:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entfliehen Sie in diese ruhigere Ecke, wo der Strand in felsige Vorsprünge übergeht, ideal zum Schnorcheln, wenn Sie Ihre eigene Ausrüstung dabei haben.",
+            "hu": "Meneküljön el ebbe a csendesebb szegletbe, ahol a strand sziklás kiemelkedésekbe megy át, és amely ideális sznorkelezésre, ha magával hozza saját felszerelését.",
+            "ro": "Refugiați-vă în acest colț mai liniștit, unde plaja se contopește cu aflorimente stâncoase, ideal pentru snorkeling dacă vă amintiți să aduceți propriul echipament.",
+            "en": "Escape to this quieter corner where the beach merges into rocky outcrops, making it ideal for snorkeling if you remember to bring your own underwater gear."
+          }
+        },
+        {
+          "name": {
+            "de": "Astondoko Dunak",
+            "hu": "Astondoko Dunak",
+            "ro": "Astondoko Dunak",
+            "en": "Astondoko Dunak"
+          },
+          "coords": [
+            -2.944539,
+            43.420028
+          ],
+          "category": "natural",
+          "arrive_at": "17:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die versteinerten Dünen, die eine einzigartige geologische Perspektive auf die Küste bieten, und bleiben Sie auf den Wegen, um das Ökosystem zu schützen.",
+            "hu": "Fedezze fel a megkövesedett dűnéket, amelyek egyedülálló geológiai betekintést nyújtanak a partvidékre, de maradjon a kijelölt ösvényeken a törékeny ökoszisztéma védelmében.",
+            "ro": "Explorați dunele pietrificate care oferă o perspectivă geologică unică a coastei, rămânând pe potecile marcate pentru a proteja acest ecosistem fragil.",
+            "en": "Explore the fossilized dunes that offer a unique geological perspective of the coast, sticking to the marked paths to protect this fragile protected ecosystem."
+          }
+        },
+        {
+          "name": {
+            "de": "Askorriagako Gotortokia",
+            "hu": "Askorriagako Gotortokia",
+            "ro": "Askorriagako Gotortokia",
+            "en": "Askorriagako Gotortokia"
+          },
+          "coords": [
+            -2.954556,
+            43.422493
+          ],
+          "category": "historical",
+          "arrive_at": "18:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Wandern Sie zu den Ruinen dieser Festung aus dem 18. Jahrhundert, um die weite Küstenaussicht zu genießen, aber bringen Sie eine Windjacke mit auf die windige Landzunge.",
+            "hu": "Túrázzon fel a 18. századi erődítmény romjaihoz, ahonnan lenyűgöző part menti kilátás nyílik, de hozzon magával széldzsekit, mert a hegyfok hírhedten szeles.",
+            "ro": "Urcați la ruinele acestei fortificații din secolul al XVIII-lea pentru vederi ample asupra coastei, dar aduceți o jachetă de vânt, deoarece promontoriul este foarte vântos.",
+            "en": "Hike up to the ruins of this 18th-century fortification to soak in sweeping coastal views, but bring a windbreaker as the headland is notoriously breezy."
+          }
+        },
+        {
+          "name": {
+            "de": "Antekera",
+            "hu": "Antekera",
+            "ro": "Antekera",
+            "en": "Antekera"
+          },
+          "coords": [
+            -2.949728,
+            43.4214
+          ],
+          "category": "natural",
+          "arrive_at": "19:43",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die abgelegene Schönheit dieses rauen natürlichen Aussichtspunkts abseits der Massen und seien Sie vorsichtig an den Klippen, wenn Sie das Meer fotografieren.",
+            "hu": "Fedezze fel ennek a tömegtől távol eső, zord természeti kilátónak az elzárt szépségét, de legyen különösen óvatos a sziklafalak szélénél, miközben a végtelen óceánt fotózza.",
+            "ro": "Descoperiți frumusețea izolată a acestui punct de belvedere natural și stâncos, având mare grijă lângă marginile stâncilor în timp ce fotografiați oceanul imens.",
+            "en": "Discover the remote beauty of this rugged natural viewpoint away from the crowds, taking extra care near the cliff edges while photographing the immense ocean."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie vom historischen Zentrum Barrikas zu den beeindruckenden Flyschformationen am lokalen Strand. Mittags navigieren Sie nach Plentzia, um den eleganten Platz und die Strandpromenade zu entdecken. Am Nachmittag können Sie bequem die Strände von Gorliz und Astondo abfahren. Der Abend gipfelt bei den Festungsruinen und dem markanten Naturpunkt Antekera.",
+        "hu": "Vezessen Barrika történelmi központjából egyenesen a helyi strand lenyűgöző flis képződményeihez. Kora délután haladjon Plentzia felé, fedezze fel a városháza terét és a népszerű tengerpartot. Délután kényelmesen végigautózhat Gorliz és Astondo strandjai mellett. Az este a történelmi erődromoknál és az Antekera kilátónál csúcsosodik ki egy lenyűgöző panorámával.",
+        "ro": "Conduceți din centrul istoric al Barrikăi spre impresionantele formațiuni de fliș de pe plaja locală. Spre amiază, navigați în Plentzia pentru a descoperi primăria și faleza populară. După-amiaza vă permite să treceți confortabil pe lângă plajele din Gorliz și Astondo. Seara culminează la ruinele fortăreței de coastă și la punctul de belvedere natural din Antekera.",
+        "en": "Drive from the historical center of Barrika directly to the impressive flysch formations on the local beach. As midday approaches, navigate into Plentzia to discover its elegant civic plaza and popular seafront. The afternoon allows you to comfortably cruise past the long stretches of Gorliz and Astondo, taking time to admire the petrified dunes. Your evening culminates at the historic coastal fortress ruins and the striking natural vantage point of Antekera."
+      }
+    }
+  }
+}

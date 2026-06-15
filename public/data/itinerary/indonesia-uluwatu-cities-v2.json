@@ -1,0 +1,497 @@
+{
+  "city_id": "indonesia-uluwatu-cities-v2",
+  "anchor": {
+    "name": "Uluwatu",
+    "coords": [
+      115.084333,
+      -8.829167
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:50",
+      "total_km": 1.25,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Uluwatu",
+            "hu": "Uluwatu",
+            "ro": "Uluwatu",
+            "en": "Uluwatu"
+          },
+          "coords": [
+            115.086903,
+            -8.828008
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das geschäftige Zentrum von Uluwatu, um seine lebhafte Energie zu spüren, und vergessen Sie nicht, eine frische Kokosnuss zu kaufen.",
+            "hu": "Fedezze fel Uluwatu nyüzsgő központját, hogy átérezze a vibráló energiáját, és ne felejtsen el egy friss kókuszt venni a helyi árusoktól a séta előtt.",
+            "ro": "Explorați centrul plin de viață al Uluwatu pentru a-i simți energia vibrantă și nu uitați să cumpărați o nucă de cocos proaspătă de la un vânzător.",
+            "en": "Explore the bustling center of Uluwatu to feel its vibrant energy, and don't forget to grab a fresh coconut from a local vendor before continuing."
+          }
+        },
+        {
+          "name": {
+            "de": "Uluwatu-Tempel",
+            "hu": "Uluwatu templom",
+            "ro": "Templul Uluwatu",
+            "en": "Uluwatu Temple"
+          },
+          "coords": [
+            115.084518,
+            -8.829388
+          ],
+          "category": "landmark",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.31,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen antiken Meerestempel auf den steilen Klippen, aber sichern Sie unbedingt Ihre losen Gegenstände vor den frechen Makaken.",
+            "hu": "Csodálja meg ezt a drámai sziklán magasodó ősi tengeri templomot, de mindenképpen rögzítse laza tárgyait, hogy megvédje őket a huncut majmoktól.",
+            "ro": "Admirați acest templu maritim antic situat pe o stâncă abruptă, dar asigurați-vă că vă protejați bunurile de maimuțele extrem de curioase.",
+            "en": "Marvel at this ancient sea temple perched on a dramatic cliff, but be sure to secure your loose belongings to protect them from the mischievous monkeys."
+          }
+        },
+        {
+          "name": {
+            "de": "Sonnenuntergangs-Aussichtspunkt",
+            "hu": "Naplemente kilátó",
+            "ro": "Punct de belvedere la apus",
+            "en": "Sunset viewpoint"
+          },
+          "coords": [
+            115.085538,
+            -8.830743
+          ],
+          "category": "natural",
+          "arrive_at": "11:58",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Genießen Sie das atemberaubende Ozeanpanorama von diesem Felsvorsprung und bringen Sie ein Weitwinkelobjektiv für perfekte Küstenfotos mit.",
+            "hu": "Élvezze a lélegzetelállító óceáni panorámát erről a sziklaszirtről, és hozzon magával nagylátószögű objektívet, hogy tökéletesen megörökítse a partot.",
+            "ro": "Bucurați-vă de panoramele uluitoare ale oceanului de pe acest promontoriu și aduceți un obiectiv superangular pentru a surprinde măreția coastei.",
+            "en": "Take in the breathtaking ocean panoramas from this rocky outcrop, and bring a wide-angle lens to capture the sweeping majesty of the coastline perfectly."
+          }
+        },
+        {
+          "name": {
+            "de": "Sunset Pura Luhur",
+            "hu": "Sunset Pura Luhur",
+            "ro": "Sunset Pura Luhur",
+            "en": "Sunset Pura Luhur"
+          },
+          "coords": [
+            115.087211,
+            -8.833585
+          ],
+          "category": "natural",
+          "arrive_at": "12:29",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses friedliche Naturgebiet nahe dem Tempelkomplex und tragen Sie feste Wanderschuhe, da das unebene Gelände etwas anspruchsvoll ist.",
+            "hu": "Fedezze fel ezt a nyugodt természeti területet az ikonikus templom közelében, és viseljen kényelmes cipőt, mivel az egyenetlen terep kissé kihívást jelenthet.",
+            "ro": "Descoperiți această zonă naturală liniștită de lângă templu și purtați încălțăminte de drumeție robustă, deoarece terenul accidentat poate fi dificil.",
+            "en": "Discover this serene natural area near the iconic temple complex, and wear sturdy walking shoes since the uneven terrain can be a bit challenging."
+          }
+        },
+        {
+          "name": {
+            "de": "Karang Boma Klippe",
+            "hu": "Karang Boma szikla",
+            "ro": "Stânca Karang Boma",
+            "en": "Karang Boma Cliff"
+          },
+          "coords": [
+            115.08841,
+            -8.836756
+          ],
+          "category": "landmark",
+          "arrive_at": "13:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den steilen Abgrund dieser Klippe und versuchen Sie, am späten Nachmittag anzukommen, um den besten Platz für die goldene Stunde zu finden.",
+            "hu": "Álljon ámulatba a lenyűgöző sziklafal meredek letörése láttán, és érkezzen késő délután, hogy biztosítsa a legjobb helyet az aranyórára.",
+            "ro": "Admirați căderea abruptă a acestei stânci magnifice și încercați să ajungeți târziu după-amiaza pentru a prinde cel mai bun loc la apus.",
+            "en": "Stand in awe at the sheer drop of this magnificent cliff face, and aim to arrive late in the afternoon to secure the best spot for the golden hour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im pulsierenden Zentrum von Uluwatu, wo Sie die tropische Atmosphäre genießen und lokale Geschäfte entdecken können. Dies ist der perfekte Startpunkt.\n\nBis zum Mittag erreichen Sie den ikonischen Uluwatu-Tempel, der majestätisch über den tosenden Wellen thront. Diese spirituelle Stätte bietet tiefe Einblicke in die balinesische Kultur.\n\nAm Nachmittag folgen Sie den Küstenpfaden zu atemberaubenden Aussichtspunkten. Die schroffen Klippen und der weite Ozean bieten unglaubliche Fotomotive und ruhige Momente.\n\nBeenden Sie Ihre Wanderung an der majestätischen Karang Boma Klippe. Wenn die goldene Stunde naht, suchen Sie sich ein gemütliches Plätzchen, um das spektakuläre Lichterspiel zu beobachten.",
+        "hu": "Kezdje a napot Uluwatu nyüzsgő központjában, élvezve a trópusi hangulatot és felfedezve a helyi boltokat. Ez a tökéletes kiindulópont egy drámai parti sétához.\n\nDélben látogasson el az ikonikus Uluwatu templomba, amely elegánsan magasodik a hullámok felett. Ez a spirituális hely betekintést nyújt a balinéz kultúrába a lenyűgöző természeti tájon.\n\nDélután kövesse a tengerparti ösvényeket, hogy elérje a lélegzetelállító naplemente kilátókat. A zord sziklák és a végtelen óceán elképesztő fotózási lehetőségeket kínálnak.\n\nFejezze be sétáját a fenséges Karang Boma sziklánál. Az aranyóra közeledtével keressen egy kényelmes helyet, és nézze végig, ahogy a lemenő nap tüzes színekkel festi meg az eget.",
+        "ro": "Începeți ziua în centrul vibrant al Uluwatu, bucurându-vă de atmosfera tropicală și descoperind magazinele locale. Acesta este începutul perfect pentru o explorare de coastă.\n\nLa prânz, îndreptați-vă spre iconicul Templu Uluwatu, așezat elegant deasupra valurilor puternice. Acest sit spiritual oferă o perspectivă asupra culturii balineze în mijlocul naturii.\n\nDupă-amiaza, urmați potecile de coastă pentru a ajunge la punctele de belvedere uimitoare. Stâncile abrupte și oceanul nesfârșit oferă oportunități incredibile pentru fotografie.\n\nÎncheiați-vă turul la maiestuoasa stâncă Karang Boma. Pe măsură ce se apropie ora de aur, găsiți un loc confortabil pentru a privi cum soarele apune, colorând cerul în nuanțe calde.",
+        "en": "Start your day in the vibrant center of Uluwatu, soaking in the tropical atmosphere and discovering local shops. This sets the stage for a day of dramatic coastal exploration.\n\nBy midday, make your way to the iconic Uluwatu Temple, perched elegantly above the crashing waves. This deeply spiritual site provides insight into Balinese culture amidst stunning natural scenery.\n\nIn the afternoon, follow the coastal paths to reach breathtaking sunset viewpoints. The rugged cliffs and expansive ocean views offer incredible opportunities for photography and quiet reflection.\n\nConclude your walking tour at the majestic Karang Boma Cliff. As the golden hour approaches, find a comfortable spot to watch the sun dip below the horizon, painting the sky in fiery colors."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:03",
+      "total_km": 2.95,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pura Dalem Les",
+            "hu": "Pura Dalem Les",
+            "ro": "Pura Dalem Les",
+            "en": "Pura Dalem Les"
+          },
+          "coords": [
+            115.090589,
+            -8.814194
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen balinesischen Tempel, um die lokale Spiritualität zu verstehen, und tragen Sie respektvoll einen obligatorischen Sarong.",
+            "hu": "Látogassa meg ezt a hagyományos balinéz templomot a helyi vallás megértéséhez, és tiszteletteljesen viseljen szarongot, amely minden látogató számára kötelező.",
+            "ro": "Vizitați acest templu balinez pentru a înțelege practicile spirituale locale și purtați cu respect un sarong, care este obligatoriu pentru toți.",
+            "en": "Visit this traditional Balinese temple to understand the local spiritual practices, and respectfully wear a sarong which is mandatory for all visitors."
+          }
+        },
+        {
+          "name": {
+            "de": "Rambu Suar Tanjung Mobulu",
+            "hu": "Rambu Suar Tanjung Mobulu",
+            "ro": "Rambu Suar Tanjung Mobulu",
+            "en": "Rambu Suar Tanjung Mobulu"
+          },
+          "coords": [
+            115.085253,
+            -8.824029
+          ],
+          "category": "landmark",
+          "arrive_at": "10:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.23,
+          "tip_5lang": {
+            "de": "Beobachten Sie diesen Leuchtturm, der Seeleute an den Riffen vorbeiführt, und fragen Sie die Wächter höflich, ob Sie vom Fuß aus Fotos machen dürfen.",
+            "hu": "Figyelje meg ezt a világítótornyot, amely a zátonyok mellett vezeti a tengerészeket, és kérdezze meg a barátságos őröket, hogy fotózhat-e a lábától.",
+            "ro": "Observați acest far navigațional care ghidează marinarii și întrebați gardienii prietenoși dacă vă permit să faceți fotografii de la baza sa.",
+            "en": "Observe this navigational lighthouse guiding sailors safely past the reefs, and ask the friendly guards if they will let you take photos from the base."
+          }
+        },
+        {
+          "name": {
+            "de": "Uluwatu",
+            "hu": "Uluwatu",
+            "ro": "Uluwatu",
+            "en": "Uluwatu"
+          },
+          "coords": [
+            115.086903,
+            -8.828008
+          ],
+          "category": "landmark",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Erkunden Sie das geschäftige Zentrum von Uluwatu, um seine lebhafte Energie zu spüren, und vergessen Sie nicht, eine frische Kokosnuss zu kaufen.",
+            "hu": "Fedezze fel Uluwatu nyüzsgő központját, hogy átérezze a vibráló energiáját, és ne felejtsen el egy friss kókuszt venni a helyi árusoktól a séta előtt.",
+            "ro": "Explorați centrul plin de viață al Uluwatu pentru a-i simți energia vibrantă și nu uitați să cumpărați o nucă de cocos proaspătă de la un vânzător.",
+            "en": "Explore the bustling center of Uluwatu to feel its vibrant energy, and don't forget to grab a fresh coconut from a local vendor before continuing."
+          }
+        },
+        {
+          "name": {
+            "de": "Uluwatu-Tempel",
+            "hu": "Uluwatu templom",
+            "ro": "Templul Uluwatu",
+            "en": "Uluwatu Temple"
+          },
+          "coords": [
+            115.084518,
+            -8.829388
+          ],
+          "category": "landmark",
+          "arrive_at": "13:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.31,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen antiken Meerestempel auf den steilen Klippen, aber sichern Sie unbedingt Ihre losen Gegenstände vor den frechen Makaken.",
+            "hu": "Csodálja meg ezt a drámai sziklán magasodó ősi tengeri templomot, de mindenképpen rögzítse laza tárgyait, hogy megvédje őket a huncut majmoktól.",
+            "ro": "Admirați acest templu maritim antic situat pe o stâncă abruptă, dar asigurați-vă că vă protejați bunurile de maimuțele extrem de curioase.",
+            "en": "Marvel at this ancient sea temple perched on a dramatic cliff, but be sure to secure your loose belongings to protect them from the mischievous monkeys."
+          }
+        },
+        {
+          "name": {
+            "de": "Sonnenuntergangs-Aussichtspunkt",
+            "hu": "Naplemente kilátó",
+            "ro": "Punct de belvedere la apus",
+            "en": "Sunset viewpoint"
+          },
+          "coords": [
+            115.085538,
+            -8.830743
+          ],
+          "category": "natural",
+          "arrive_at": "14:44",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Genießen Sie das atemberaubende Ozeanpanorama von diesem Felsvorsprung und bringen Sie ein Weitwinkelobjektiv für perfekte Küstenfotos mit.",
+            "hu": "Élvezze a lélegzetelállító óceáni panorámát erről a sziklaszirtről, és hozzon magával nagylátószögű objektívet, hogy tökéletesen megörökítse a partot.",
+            "ro": "Bucurați-vă de panoramele uluitoare ale oceanului de pe acest promontoriu și aduceți un obiectiv superangular pentru a surprinde măreția coastei.",
+            "en": "Take in the breathtaking ocean panoramas from this rocky outcrop, and bring a wide-angle lens to capture the sweeping majesty of the coastline perfectly."
+          }
+        },
+        {
+          "name": {
+            "de": "Karang Boma Klippe",
+            "hu": "Karang Boma szikla",
+            "ro": "Stânca Karang Boma",
+            "en": "Karang Boma Cliff"
+          },
+          "coords": [
+            115.08841,
+            -8.836756
+          ],
+          "category": "landmark",
+          "arrive_at": "15:13",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.74,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den steilen Abgrund dieser Klippe und versuchen Sie, am späten Nachmittag anzukommen, um den besten Platz für die goldene Stunde zu finden.",
+            "hu": "Álljon ámulatba a lenyűgöző sziklafal meredek letörése láttán, és érkezzen késő délután, hogy biztosítsa a legjobb helyet az aranyórára.",
+            "ro": "Admirați căderea abruptă a acestei stânci magnifice și încercați să ajungeți târziu după-amiaza pentru a prinde cel mai bun loc la apus.",
+            "en": "Stand in awe at the sheer drop of this magnificent cliff face, and aim to arrive late in the afternoon to secure the best spot for the golden hour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Fahrradabenteuer beginnt am friedlichen Pura Dalem Les und führt Sie in das ruhige spirituelle Leben fernab der Massen ein. Das sanfte Morgenlicht schafft eine ruhige Atmosphäre.\n\nMittags radeln Sie zum markanten Leuchtturm Rambu Suar Tanjung Mobulu, bevor Sie das Zentrum von Uluwatu erreichen. Ruhen Sie sich aus und genießen Sie die lebhafte lokale Kultur.\n\nAm Nachmittag erkunden Sie den legendären Uluwatu-Tempel und die umliegenden Aussichtspunkte. Die Meeresbrise bietet eine erfrischende Abkühlung entlang der Küste.\n\nBeenden Sie Ihren Tag an der imposanten Karang Boma Klippe. Entspannen Sie sich nach dem Radfahren am Abgrund und genießen Sie eines der berühmtesten Sonnenuntergangspanoramen.",
+        "hu": "Kerékpáros kalandja a békés Pura Dalem Les-nél kezdődik, bemutatva a csendes spirituális életet távol a tömegtől. A lágy reggeli fények nyugodt légkört teremtenek.\n\nDélben tekerjen a lenyűgöző Rambu Suar Tanjung Mobulu világítótorony felé, mielőtt megérkezne Uluwatu központjába. Pihenjen meg egy kicsit, és élvezze a helyi kultúrát.\n\nDélután fedezze fel a legendás Uluwatu templomot és a környező kilátópontokat. A tengeri szellő frissítő megkönnyebbülést nyújt a drámai partvonal mentén.\n\nZárja a napot az impozáns Karang Boma sziklánál. Egy fárasztó kerékpározás után lazítson a szakadék szélén, és élvezze Bali legszebb naplemente panorámáját.",
+        "ro": "Aventura cu bicicleta începe la liniștitul Pura Dalem Les, introducându-vă în viața spirituală departe de aglomerație. Lumina blândă a dimineții creează o atmosferă senină.\n\nLa prânz pedalați spre farul impresionant Rambu Suar Tanjung Mobulu, înainte de a ajunge în inima Uluwatu. Luați o pauză pentru a vă bucura de cultura locală vibrantă.\n\nDupă-amiaza, explorați legendarul Templu Uluwatu și punctele de belvedere naturale din jur. Briza mării oferă o ușurare răcoritoare pe măsură ce navigați de-a lungul coastei.\n\nÎncheiați ziua la impresionanta stâncă Karang Boma. După pedalat, relaxați-vă pe marginea prăpastiei și bucurați-vă de cele mai faimoase panorame la apus din Bali.",
+        "en": "Your cycling adventure begins at the peaceful Pura Dalem Les, introducing you to the quiet spiritual life away from the crowds. The gentle morning light creates a serene ambiance.\n\nMidday sees you pedaling towards the striking Rambu Suar Tanjung Mobulu lighthouse, before rolling into the heart of Uluwatu. Take a moment to rest and enjoy the vibrant local culture.\n\nAs the afternoon unfolds, explore the legendary Uluwatu Temple and its surrounding natural viewpoints. The sea breeze offers refreshing relief as you navigate the dramatic coastline.\n\nEnd your day at the imposing Karang Boma Cliff. After a fulfilling day of cycling, relax by the precipice and enjoy one of Bali's most famous and breathtaking sunset panoramas."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:01",
+      "total_km": 6.05,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Pura Kulat",
+            "hu": "Pura Kulat",
+            "ro": "Pura Kulat",
+            "en": "Pura Kulat"
+          },
+          "coords": [
+            115.099775,
+            -8.822945
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erleben Sie die tiefe Ruhe dieses wenig bekannten Tempels in der Natur und bewahren Sie ein ruhiges Auftreten, da es ein Ort der Meditation ist.",
+            "hu": "Tapasztalja meg ennek a kevésbé ismert, természetben megbúvó templomnak a békéjét, és maradjon csendben, mivel ez egy nyugodt meditációs helyszín.",
+            "ro": "Experimentați liniștea profundă a acestui templu mai puțin cunoscut, situat în natură, și păstrați liniștea deoarece este un loc de meditație.",
+            "en": "Experience the profound tranquility of this lesser-known temple nestled in nature, and maintain a quiet demeanor as it serves as a peaceful meditation site."
+          }
+        },
+        {
+          "name": {
+            "de": "Pura Dalem Les",
+            "hu": "Pura Dalem Les",
+            "ro": "Pura Dalem Les",
+            "en": "Pura Dalem Les"
+          },
+          "coords": [
+            115.090589,
+            -8.814194
+          ],
+          "category": "landmark",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen balinesischen Tempel, um die lokale Spiritualität zu verstehen, und tragen Sie respektvoll einen obligatorischen Sarong.",
+            "hu": "Látogassa meg ezt a hagyományos balinéz templomot a helyi vallás megértéséhez, és tiszteletteljesen viseljen szarongot, amely minden látogató számára kötelező.",
+            "ro": "Vizitați acest templu balinez pentru a înțelege practicile spirituale locale și purtați cu respect un sarong, care este obligatoriu pentru toți.",
+            "en": "Visit this traditional Balinese temple to understand the local spiritual practices, and respectfully wear a sarong which is mandatory for all visitors."
+          }
+        },
+        {
+          "name": {
+            "de": "Rambu Suar Tanjung Mobulu",
+            "hu": "Rambu Suar Tanjung Mobulu",
+            "ro": "Rambu Suar Tanjung Mobulu",
+            "en": "Rambu Suar Tanjung Mobulu"
+          },
+          "coords": [
+            115.085253,
+            -8.824029
+          ],
+          "category": "landmark",
+          "arrive_at": "11:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.23,
+          "tip_5lang": {
+            "de": "Beobachten Sie diesen Leuchtturm, der Seeleute an den Riffen vorbeiführt, und fragen Sie die Wächter höflich, ob Sie vom Fuß aus Fotos machen dürfen.",
+            "hu": "Figyelje meg ezt a világítótornyot, amely a zátonyok mellett vezeti a tengerészeket, és kérdezze meg a barátságos őröket, hogy fotózhat-e a lábától.",
+            "ro": "Observați acest far navigațional care ghidează marinarii și întrebați gardienii prietenoși dacă vă permit să faceți fotografii de la baza sa.",
+            "en": "Observe this navigational lighthouse guiding sailors safely past the reefs, and ask the friendly guards if they will let you take photos from the base."
+          }
+        },
+        {
+          "name": {
+            "de": "Uluwatu-Tempel",
+            "hu": "Uluwatu templom",
+            "ro": "Templul Uluwatu",
+            "en": "Uluwatu Temple"
+          },
+          "coords": [
+            115.084518,
+            -8.829388
+          ],
+          "category": "landmark",
+          "arrive_at": "13:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen antiken Meerestempel auf den steilen Klippen, aber sichern Sie unbedingt Ihre losen Gegenstände vor den frechen Makaken.",
+            "hu": "Csodálja meg ezt a drámai sziklán magasodó ősi tengeri templomot, de mindenképpen rögzítse laza tárgyait, hogy megvédje őket a huncut majmoktól.",
+            "ro": "Admirați acest templu maritim antic situat pe o stâncă abruptă, dar asigurați-vă că vă protejați bunurile de maimuțele extrem de curioase.",
+            "en": "Marvel at this ancient sea temple perched on a dramatic cliff, but be sure to secure your loose belongings to protect them from the mischievous monkeys."
+          }
+        },
+        {
+          "name": {
+            "de": "Sonnenuntergangs-Aussichtspunkt",
+            "hu": "Naplemente kilátó",
+            "ro": "Punct de belvedere la apus",
+            "en": "Sunset viewpoint"
+          },
+          "coords": [
+            115.085538,
+            -8.830743
+          ],
+          "category": "natural",
+          "arrive_at": "14:39",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Genießen Sie das atemberaubende Ozeanpanorama von diesem Felsvorsprung und bringen Sie ein Weitwinkelobjektiv für perfekte Küstenfotos mit.",
+            "hu": "Élvezze a lélegzetelállító óceáni panorámát erről a sziklaszirtről, és hozzon magával nagylátószögű objektívet, hogy tökéletesen megörökítse a partot.",
+            "ro": "Bucurați-vă de panoramele uluitoare ale oceanului de pe acest promontoriu și aduceți un obiectiv superangular pentru a surprinde măreția coastei.",
+            "en": "Take in the breathtaking ocean panoramas from this rocky outcrop, and bring a wide-angle lens to capture the sweeping majesty of the coastline perfectly."
+          }
+        },
+        {
+          "name": {
+            "de": "Karang Boma Klippe",
+            "hu": "Karang Boma szikla",
+            "ro": "Stânca Karang Boma",
+            "en": "Karang Boma Cliff"
+          },
+          "coords": [
+            115.08841,
+            -8.836756
+          ],
+          "category": "landmark",
+          "arrive_at": "15:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.74,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den steilen Abgrund dieser Klippe und versuchen Sie, am späten Nachmittag anzukommen, um den besten Platz für die goldene Stunde zu finden.",
+            "hu": "Álljon ámulatba a lenyűgöző sziklafal meredek letörése láttán, és érkezzen késő délután, hogy biztosítsa a legjobb helyet az aranyórára.",
+            "ro": "Admirați căderea abruptă a acestei stânci magnifice și încercați să ajungeți târziu după-amiaza pentru a prinde cel mai bun loc la apus.",
+            "en": "Stand in awe at the sheer drop of this magnificent cliff face, and aim to arrive late in the afternoon to secure the best spot for the golden hour."
+          }
+        },
+        {
+          "name": {
+            "de": "Nyang Nyang",
+            "hu": "Nyang Nyang",
+            "ro": "Nyang Nyang",
+            "en": "Nyang Nyang"
+          },
+          "coords": [
+            115.095769,
+            -8.84005
+          ],
+          "category": "landmark",
+          "arrive_at": "16:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.89,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesem unberührten weißen Sandstrand hinab und nehmen Sie viel Wasser für den steilen und anstrengenden Rückweg nach oben mit.",
+            "hu": "Túrázzon le ehhez az érintetlen fehér homokos strandhoz, de vigyen magával rengeteg vizet a meredek és fárasztó visszaútra a hegyoldalon.",
+            "ro": "Coborâți spre această plajă cu nisip alb pentru o evadare retrasă, dar fiți pregătit cu multă apă pentru urcarea abruptă și obositoare la întoarcere.",
+            "en": "Hike down to this pristine white sand beach for an uncrowded coastal escape, but be prepared with plenty of water for the steep and strenuous climb back up."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Kapelle",
+            "hu": "A Kápolna",
+            "ro": "Capela",
+            "en": "The Chapel"
+          },
+          "coords": [
+            115.104723,
+            -8.841052
+          ],
+          "category": "religious",
+          "arrive_at": "17:51",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur dieser beliebten Hochzeitslocation auf den Klippen und prüfen Sie vorher die Öffnungszeiten bei Zeremonien.",
+            "hu": "Csodálja meg ennek a népszerű sziklafalon lévő esküvői helyszínnek a modern építészetét, és ellenőrizze a menetrendet, mivel gyakran zárva van rendezvények miatt.",
+            "ro": "Admirați arhitectura elegantă a acestei locații populare pentru nunți pe stâncă și verificați programul, deoarece deseori este închisă pentru ceremonii.",
+            "en": "Admire the elegant modern architecture of this popular cliffside wedding venue, and check the schedule beforehand as it often closes for private ceremonies."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt am Pura Kulat, einem versteckten Juwel, das tiefe morgendliche Ruhe bietet, gefolgt vom Pura Dalem Les. Diese Tempel ermöglichen ein tiefes kulturelles Eintauchen.\n\nMittags besuchen Sie den Küstenleuchtturm, bevor Sie zum ikonischen Uluwatu-Tempel fahren. Mit dem Auto wechseln Sie mühelos zwischen abgelegenen Orten und Hauptattraktionen.\n\nGenießen Sie am Nachmittag die Aussicht von den Klippen und wandern Sie zum unberührten Nyang Nyang Strand hinab. Der Kontrast zwischen Felsen und weißem Sand ist faszinierend.\n\nIhre Reise endet an der Chapel, einem architektonischen Wunderwerk auf den Klippen. Beobachten Sie, wie sich der Himmel über dem Indischen Ozean rosa und orange färbt.",
+        "hu": "Kezdje az utat a Pura Kulatnál, egy rejtett gyöngyszemnél, majd látogasson el a békés Pura Dalem Les-be. Ezek a templomok mély kulturális elmélyülést kínálnak a reggeli csendben.\n\nDélben nézze meg a parti világítótornyot, mielőtt az ikonikus Uluwatu templomhoz hajtana. Az autó kényelme révén könnyedén válthat az eldugott helyek és a főbb látványosságok között.\n\nDélután élvezze a sziklás kilátást, és túrázzon le az érintetlen Nyang Nyang strandhoz. A magas sziklák és a fehér homok drámai kontrasztja teljesen lenyűgöző.\n\nUtazása a sziklákon álló modern kápolnánál ér véget. Nézze végig, ahogy az ég rózsaszínre és narancssárgára változik az Indiai-óceán felett, tökéletes befejezést nyújtva.",
+        "ro": "Începeți traseul la Pura Kulat, o bijuterie ascunsă care oferă liniște dimineața, urmată de Pura Dalem Les. Aceste temple oferă o imersiune culturală profundă.\n\nLa prânz, vizitați farul de coastă înainte de a vă îndrepta spre iconicul Templu Uluwatu. Confortul mașinii vă permite să treceți ușor de la locuri retrase la repere majore.\n\nDupă-amiaza, bucurați-vă de priveliștile de pe stânci și coborâți spre plaja curată Nyang Nyang. Contrastul dramatic dintre stâncile înalte și nisipul alb este fascinant.\n\nCălătoria se încheie la Capelă, o minune arhitecturală situată perfect pe stânci. Priviți cum cerul devine roz și portocaliu deasupra Oceanului Indian pentru un final perfect.",
+        "en": "Start your scenic drive at Pura Kulat, a hidden gem offering profound early morning tranquility, followed by the equally serene Pura Dalem Les. These temples provide a deep cultural immersion.\n\nBy midday, visit the coastal lighthouse before heading to the iconic Uluwatu Temple. The convenience of a car lets you easily transition from secluded spots to major landmarks.\n\nIn the afternoon, enjoy sweeping cliffside views and make the trek down to the pristine Nyang Nyang beach. The dramatic contrast between the high cliffs and the white sand is mesmerizing.\n\nYour journey concludes at The Chapel, a stunning architectural marvel perfectly positioned on the cliffs. Watch the sky turn pink and orange over the Indian Ocean for a perfect finale."
+      }
+    }
+  }
+}

@@ -1,0 +1,451 @@
+{
+  "city_id": "neuves-maisons",
+  "anchor": {
+    "name": "Neuves-Maisons",
+    "coords": [
+      6.1036,
+      48.6161
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:37",
+      "total_km": 3.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Antoine",
+            "hu": "Église Saint-Antoine",
+            "ro": "Église Saint-Antoine",
+            "en": "Église Saint-Antoine"
+          },
+          "coords": [
+            6.103078,
+            48.615574
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die charmante Architektur dieser zentralen Kirche, die ein Ort der Ruhe ist; besuchen Sie sie am besten morgens wegen des schönen Lichteinfalls.",
+            "hu": "Csodálja meg a központi elhelyezkedésű templom békés hangulatát és építészetét; érdemes a reggeli órákban érkezni, amikor a legszebb a fény a falakon.",
+            "ro": "Admirați arhitectura fermecătoare a acestei biserici centrale și bucurați-vă de liniștea sa; este recomandat să o vizitați dimineața pentru lumina ideală.",
+            "en": "Admire the charming architecture of this central church, which offers a peaceful atmosphere; visit in the morning to enjoy the beautiful light on its walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame-des-Mineurs",
+            "hu": "Chapelle Notre-Dame-des-Mineurs",
+            "ro": "Chapelle Notre-Dame-des-Mineurs",
+            "en": "Chapelle Notre-Dame-des-Mineurs"
+          },
+          "coords": [
+            6.089524,
+            48.619894
+          ],
+          "category": "religious",
+          "arrive_at": "10:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Diese Kapelle ist den Bergleuten gewidmet und erzählt ein wichtiges Stück Lokalgeschichte; achten Sie auf die Details und tragen Sie bequeme Schuhe für den Weg.",
+            "hu": "Ez a kápolna a bányászok emlékét őrzi, mély betekintést nyújtva a helyi történelembe; figyelje meg az apró részleteket, és viseljen kényelmes cipőt az útra.",
+            "ro": "Dedicată minerilor, capela dezvăluie o bucată importantă din istoria locală; observați detaliile unice și purtați încălțăminte comodă pentru a ajunge aici.",
+            "en": "Dedicated to the miners, this chapel reveals a profound piece of local history; pay attention to the unique details and wear comfortable shoes for the walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Remi",
+            "hu": "Église Saint-Remi",
+            "ro": "Église Saint-Remi",
+            "en": "Église Saint-Remi"
+          },
+          "coords": [
+            6.083899,
+            48.62368
+          ],
+          "category": "religious",
+          "arrive_at": "10:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese historische Kirche im nordwestlichen Teil der Stadt, die durch ihre Schlichtheit besticht; eine kurze Pause hier lohnt sich für Fotografen.",
+            "hu": "Fedezze fel ezt a történelmi templomot a város északnyugati részén, amely egyszerűségével hódít; a fotósoknak mindenképpen érdemes egy rövid pihenőt tartaniuk.",
+            "ro": "Descoperiți această biserică istorică din nord-vestul orașului, fermecătoare prin simplitatea ei; o scurtă pauză aici este perfectă pentru pasionații de fotografie.",
+            "en": "Discover this historical church in the northwestern part of town, charming in its simplicity; a short break here is highly recommended for photography enthusiasts."
+          }
+        },
+        {
+          "name": {
+            "de": "Mine du Val de Fer",
+            "hu": "Mine du Val de Fer",
+            "ro": "Mine du Val de Fer",
+            "en": "Mine du Val de Fer"
+          },
+          "coords": [
+            6.1075,
+            48.6312
+          ],
+          "category": "historical",
+          "arrive_at": "12:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste der Eisenerzmine, die das Herz der industriellen Vergangenheit der Region war; bringen Sie eine leichte Jacke für die Führung mit.",
+            "hu": "Járja be a régi vasércbánya maradványait, amely a régió ipari múltjának szívét jelentette; hozzon magával egy könnyű kabátot az esetleges barlangi túrákhoz.",
+            "ro": "Explorați rămășițele minei de fier, inima trecutului industrial al regiunii; luați o jachetă ușoară cu dumneavoastră, deoarece poate fi răcoare în subteran.",
+            "en": "Explore the remains of the iron ore mine that formed the heart of the region's industrial past; bring a light jacket as it can be chilly during the underground tours."
+          }
+        },
+        {
+          "name": {
+            "de": "Mine Musée du Val de Fer",
+            "hu": "Mine Musée du Val de Fer",
+            "ro": "Mine Musée du Val de Fer",
+            "en": "Mine Musée du Val de Fer"
+          },
+          "coords": [
+            6.108742,
+            48.631564
+          ],
+          "category": "museum",
+          "arrive_at": "13:27",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Vertiefen Sie Ihr Wissen über den Bergbau in diesem faszinierenden Museum, das alte Ausrüstungen zeigt; planen Sie genug Zeit ein, um alle Exponate zu sehen.",
+            "hu": "Mélyítse el bányászati ismereteit ebben a lenyűgöző múzeumban, amely korabeli felszereléseket mutat be; szánjon elegendő időt a kiállítások megtekintésére.",
+            "ro": "Aprofundați cunoștințele despre minerit în acest muzeu fascinant cu echipamente vechi; asigurați-vă că alocați suficient timp pentru a admira toate exponatele.",
+            "en": "Deepen your knowledge of mining in this fascinating museum displaying vintage equipment; make sure to allow enough time to fully appreciate all the exhibits."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt im Zentrum von Neuves-Maisons an der Église Saint-Antoine. Ein gemütlicher Spaziergang führt uns dann zur Chapelle Notre-Dame-des-Mineurs, einem Ort tiefgründiger lokaler Geschichte. Am Nachmittag entdecken wir die Église Saint-Remi, bevor wir tiefer in die industrielle Vergangenheit der Stadt eintauchen. Der Tag endet faszinierend im historischen Bergbaumuseum.",
+        "hu": "A nap Neuves-Maisons központjában, az Église Saint-Antoine templomnál indul. Egy kényelmes sétával érjük el a bányászok kápolnáját, amely a helyi történelmet őrzi. Délután felfedezzük a Saint-Remi templomot, mielőtt elmerülnénk a város ipari múltjában. A túra a lenyűgöző egykori bányában és a bányászati múzeumban ér véget, tisztelegve a régió öröksége előtt.",
+        "ro": "Ziua începe în centrul Neuves-Maisons la Église Saint-Antoine. O plimbare plăcută ne conduce către capela minerilor, o mărturie a istoriei locale. După-amiaza explorăm biserica Saint-Remi înainte de a pătrunde în trecutul industrial. Traseul se încheie fascinant cu vizitarea vechii mine de fier și a muzeului dedicat, un omagiu adus patrimoniului minier al orașului.",
+        "en": "The day begins in the center of Neuves-Maisons at the Église Saint-Antoine. A leisurely walk takes us to the miners' chapel, a place of deep local history. In the afternoon, we explore the Église Saint-Remi before delving into the city's industrial past. The day concludes with a fascinating visit to the historic iron mine and its museum, honoring the town's heritage."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:48",
+      "total_km": 5.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Julien-de-Brioude",
+            "hu": "Église Saint-Julien-de-Brioude",
+            "ro": "Église Saint-Julien-de-Brioude",
+            "en": "Église Saint-Julien-de-Brioude"
+          },
+          "coords": [
+            6.097691,
+            48.60454
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie dieses beeindruckende religiöse Bauwerk im südlichen Viertel, das eine ruhige Atmosphäre bietet; der Vorplatz eignet sich gut für ein kurzes Picknick.",
+            "hu": "Tekintse meg ezt a lenyűgöző vallási épületet a déli negyedben, amely nyugodt légkört áraszt; a templom előtti tér kiváló helyszín egy rövid piknikezéshez.",
+            "ro": "Vizitați acest edificiu religios impresionant din cartierul sudic, care oferă o atmosferă liniștită; piațeta din față este ideală pentru un scurt popas sau picnic.",
+            "en": "Visit this impressive religious building in the southern quarter, offering a very calm atmosphere; the front square is a great spot to sit down for a quick break."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Antoine",
+            "hu": "Église Saint-Antoine",
+            "ro": "Église Saint-Antoine",
+            "en": "Église Saint-Antoine"
+          },
+          "coords": [
+            6.103078,
+            48.615574
+          ],
+          "category": "religious",
+          "arrive_at": "09:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die charmante Architektur dieser zentralen Kirche, die ein Ort der Ruhe ist; besuchen Sie sie am besten morgens wegen des schönen Lichteinfalls.",
+            "hu": "Csodálja meg a központi elhelyezkedésű templom békés hangulatát és építészetét; érdemes a reggeli órákban érkezni, amikor a legszebb a fény a falakon.",
+            "ro": "Admirați arhitectura fermecătoare a acestei biserici centrale și bucurați-vă de liniștea sa; este recomandat să o vizitați dimineața pentru lumina ideală.",
+            "en": "Admire the charming architecture of this central church, which offers a peaceful atmosphere; visit in the morning to enjoy the beautiful light on its walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame-des-Mineurs",
+            "hu": "Chapelle Notre-Dame-des-Mineurs",
+            "ro": "Chapelle Notre-Dame-des-Mineurs",
+            "en": "Chapelle Notre-Dame-des-Mineurs"
+          },
+          "coords": [
+            6.089524,
+            48.619894
+          ],
+          "category": "religious",
+          "arrive_at": "10:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Diese Kapelle ist den Bergleuten gewidmet und erzählt ein wichtiges Stück Lokalgeschichte; achten Sie auf die Details und tragen Sie bequeme Schuhe für den Weg.",
+            "hu": "Ez a kápolna a bányászok emlékét őrzi, mély betekintést nyújtva a helyi történelembe; figyelje meg az apró részleteket, és viseljen kényelmes cipőt az útra.",
+            "ro": "Dedicată minerilor, capela dezvăluie o bucată importantă din istoria locală; observați detaliile unice și purtați încălțăminte comodă pentru a ajunge aici.",
+            "en": "Dedicated to the miners, this chapel reveals a profound piece of local history; pay attention to the unique details and wear comfortable shoes for the walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Remi",
+            "hu": "Église Saint-Remi",
+            "ro": "Église Saint-Remi",
+            "en": "Église Saint-Remi"
+          },
+          "coords": [
+            6.083899,
+            48.62368
+          ],
+          "category": "religious",
+          "arrive_at": "11:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese historische Kirche im nordwestlichen Teil der Stadt, die durch ihre Schlichtheit besticht; eine kurze Pause hier lohnt sich für Fotografen.",
+            "hu": "Fedezze fel ezt a történelmi templomot a város északnyugati részén, amely egyszerűségével hódít; a fotósoknak mindenképpen érdemes egy rövid pihenőt tartaniuk.",
+            "ro": "Descoperiți această biserică istorică din nord-vestul orașului, fermecătoare prin simplitatea ei; o scurtă pauză aici este perfectă pentru pasionații de fotografie.",
+            "en": "Discover this historical church in the northwestern part of town, charming in its simplicity; a short break here is highly recommended for photography enthusiasts."
+          }
+        },
+        {
+          "name": {
+            "de": "Mine du Val de Fer",
+            "hu": "Mine du Val de Fer",
+            "ro": "Mine du Val de Fer",
+            "en": "Mine du Val de Fer"
+          },
+          "coords": [
+            6.1075,
+            48.6312
+          ],
+          "category": "historical",
+          "arrive_at": "12:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste der Eisenerzmine, die das Herz der industriellen Vergangenheit der Region war; bringen Sie eine leichte Jacke für die Führung mit.",
+            "hu": "Járja be a régi vasércbánya maradványait, amely a régió ipari múltjának szívét jelentette; hozzon magával egy könnyű kabátot az esetleges barlangi túrákhoz.",
+            "ro": "Explorați rămășițele minei de fier, inima trecutului industrial al regiunii; luați o jachetă ușoară cu dumneavoastră, deoarece poate fi răcoare în subteran.",
+            "en": "Explore the remains of the iron ore mine that formed the heart of the region's industrial past; bring a light jacket as it can be chilly during the underground tours."
+          }
+        },
+        {
+          "name": {
+            "de": "Mine Musée du Val de Fer",
+            "hu": "Mine Musée du Val de Fer",
+            "ro": "Mine Musée du Val de Fer",
+            "en": "Mine Musée du Val de Fer"
+          },
+          "coords": [
+            6.108742,
+            48.631564
+          ],
+          "category": "museum",
+          "arrive_at": "13:38",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Vertiefen Sie Ihr Wissen über den Bergbau in diesem faszinierenden Museum, das alte Ausrüstungen zeigt; planen Sie genug Zeit ein, um alle Exponate zu sehen.",
+            "hu": "Mélyítse el bányászati ismereteit ebben a lenyűgöző múzeumban, amely korabeli felszereléseket mutat be; szánjon elegendő időt a kiállítások megtekintésére.",
+            "ro": "Aprofundați cunoștințele despre minerit în acest muzeu fascinant cu echipamente vechi; asigurați-vă că alocați suficient timp pentru a admira toate exponatele.",
+            "en": "Deepen your knowledge of mining in this fascinating museum displaying vintage equipment; make sure to allow enough time to fully appreciate all the exhibits."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad starten wir an der Église Saint-Julien-de-Brioude im Süden. Wir fahren weiter zur zentralen Église Saint-Antoine und den spirituellen Stätten im Nordwesten. Nachmittags radeln wir zur historischen Eisenmine, um die Industriekultur hautnah zu erleben. Den Abschluss bildet das Bergbaumuseum, das die harte Arbeit der Bergleute eindrucksvoll dokumentiert.",
+        "hu": "Kerékpáros napunkat a déli Église Saint-Julien-de-Brioude-nál kezdjük. Továbbgurulunk a központi templomhoz, majd az északnyugati vallási emlékeket fedezzük fel. Délután a történelmi vasércbányához tekerünk, hogy megismerjük a régió ipari kultúráját. A napot a bányászati múzeumban zárjuk, amely lenyűgöző részletességgel mutatja be a munkások mindennapjait és örökségét.",
+        "ro": "Ziua pe bicicletă începe la biserica Saint-Julien-de-Brioude din sud. Pedalăm apoi către biserica centrală și monumentele spirituale din nord-vest. După-amiaza ne îndreptăm spre istorica mină de fier pentru a descoperi moștenirea industrială. Ziua se termină cu muzeul mineritului, care prezintă impresionant munca asiduă a minerilor și istoria zonei.",
+        "en": "Our biking day starts at the Église Saint-Julien-de-Brioude in the south. We then ride to the central church and the spiritual sites in the northwest. In the afternoon, we pedal to the historic iron mine to experience the region's industrial culture firsthand. The day ends at the mining museum, which impressively documents the hard work of the local miners."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:20",
+      "total_km": 5.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fort Pélissier",
+            "hu": "Fort Pélissier",
+            "ro": "Fort Pélissier",
+            "en": "Fort Pélissier"
+          },
+          "coords": [
+            6.090667,
+            48.597321
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die spektakuläre Aussicht von dieser ehemaligen Festungsanlage auf dem Hügel; ziehen Sie festes Schuhwerk an, da das Gelände teilweise uneben ist.",
+            "hu": "Élvezze a látványos kilátást erről a dombtetőn álló egykori erődítményről; mindenképpen viseljen zárt cipőt, mivel a terep helyenként meglehetősen egyenetlen.",
+            "ro": "Bucurați-vă de priveliștile spectaculoase de la acest fost fort militar de pe deal; purtați încălțăminte solidă, deoarece terenul din împrejurimi este denivelat.",
+            "en": "Enjoy the spectacular views from this former hilltop military fort; make sure to wear sturdy shoes as the surrounding terrain can be quite uneven and rocky."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Julien-de-Brioude",
+            "hu": "Église Saint-Julien-de-Brioude",
+            "ro": "Église Saint-Julien-de-Brioude",
+            "en": "Église Saint-Julien-de-Brioude"
+          },
+          "coords": [
+            6.097691,
+            48.60454
+          ],
+          "category": "religious",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie dieses beeindruckende religiöse Bauwerk im südlichen Viertel, das eine ruhige Atmosphäre bietet; der Vorplatz eignet sich gut für ein kurzes Picknick.",
+            "hu": "Tekintse meg ezt a lenyűgöző vallási épületet a déli negyedben, amely nyugodt légkört áraszt; a templom előtti tér kiváló helyszín egy rövid piknikezéshez.",
+            "ro": "Vizitați acest edificiu religios impresionant din cartierul sudic, care oferă o atmosferă liniștită; piațeta din față este ideală pentru un scurt popas sau picnic.",
+            "en": "Visit this impressive religious building in the southern quarter, offering a very calm atmosphere; the front square is a great spot to sit down for a quick break."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Antoine",
+            "hu": "Église Saint-Antoine",
+            "ro": "Église Saint-Antoine",
+            "en": "Église Saint-Antoine"
+          },
+          "coords": [
+            6.103078,
+            48.615574
+          ],
+          "category": "religious",
+          "arrive_at": "10:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die charmante Architektur dieser zentralen Kirche, die ein Ort der Ruhe ist; besuchen Sie sie am besten morgens wegen des schönen Lichteinfalls.",
+            "hu": "Csodálja meg a központi elhelyezkedésű templom békés hangulatát és építészetét; érdemes a reggeli órákban érkezni, amikor a legszebb a fény a falakon.",
+            "ro": "Admirați arhitectura fermecătoare a acestei biserici centrale și bucurați-vă de liniștea sa; este recomandat să o vizitați dimineața pentru lumina ideală.",
+            "en": "Admire the charming architecture of this central church, which offers a peaceful atmosphere; visit in the morning to enjoy the beautiful light on its walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Blaise",
+            "hu": "Église Saint-Blaise",
+            "ro": "Église Saint-Blaise",
+            "en": "Église Saint-Blaise"
+          },
+          "coords": [
+            6.123758,
+            48.628006
+          ],
+          "category": "religious",
+          "arrive_at": "11:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Diese Kirche im Nordosten der Stadt besticht durch ihre architektonischen Details und ruhige Lage; nutzen Sie den Besuch, um die lokale Kultur hautnah zu erleben.",
+            "hu": "A város északkeleti részén található templom építészeti részleteivel és nyugalmával vonzza a látogatókat; használja ki a lehetőséget a helyi kultúra megismerésére.",
+            "ro": "Situată în nord-est, biserica impresionează prin detaliile sale arhitecturale și liniștea deplină; profitați de această vizită pentru a cunoaște cultura locală autentică.",
+            "en": "Situated in the northeast, this church impresses with its architectural details and quiet setting; take advantage of the visit to experience authentic local culture."
+          }
+        },
+        {
+          "name": {
+            "de": "Mine du Val de Fer",
+            "hu": "Mine du Val de Fer",
+            "ro": "Mine du Val de Fer",
+            "en": "Mine du Val de Fer"
+          },
+          "coords": [
+            6.1075,
+            48.6312
+          ],
+          "category": "historical",
+          "arrive_at": "11:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste der Eisenerzmine, die das Herz der industriellen Vergangenheit der Region war; bringen Sie eine leichte Jacke für die Führung mit.",
+            "hu": "Járja be a régi vasércbánya maradványait, amely a régió ipari múltjának szívét jelentette; hozzon magával egy könnyű kabátot az esetleges barlangi túrákhoz.",
+            "ro": "Explorați rămășițele minei de fier, inima trecutului industrial al regiunii; luați o jachetă ușoară cu dumneavoastră, deoarece poate fi răcoare în subteran.",
+            "en": "Explore the remains of the iron ore mine that formed the heart of the region's industrial past; bring a light jacket as it can be chilly during the underground tours."
+          }
+        },
+        {
+          "name": {
+            "de": "Mine Musée du Val de Fer",
+            "hu": "Mine Musée du Val de Fer",
+            "ro": "Mine Musée du Val de Fer",
+            "en": "Mine Musée du Val de Fer"
+          },
+          "coords": [
+            6.108742,
+            48.631564
+          ],
+          "category": "museum",
+          "arrive_at": "13:10",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Vertiefen Sie Ihr Wissen über den Bergbau in diesem faszinierenden Museum, das alte Ausrüstungen zeigt; planen Sie genug Zeit ein, um alle Exponate zu sehen.",
+            "hu": "Mélyítse el bányászati ismereteit ebben a lenyűgöző múzeumban, amely korabeli felszereléseket mutat be; szánjon elegendő időt a kiállítások megtekintésére.",
+            "ro": "Aprofundați cunoștințele despre minerit în acest muzeu fascinant cu echipamente vechi; asigurați-vă că alocați suficient timp pentru a admira toate exponatele.",
+            "en": "Deepen your knowledge of mining in this fascinating museum displaying vintage equipment; make sure to allow enough time to fully appreciate all the exhibits."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erkunden wir zunächst das Fort Pélissier mit seiner tollen Aussicht. Anschließend fahren wir zu den bedeutenden Kirchen der Stadt, beginnend im Süden. Am Nachmittag erreichen wir die Église Saint-Blaise, bevor wir uns der Industriegeschichte widmen. Der Ausflug gipfelt im faszinierenden Besuch der Eisenmine und ihres Museums im Norden der Stadt.",
+        "hu": "Autós túránkat a Fort Pélissier-nél kezdjük, ahonnan csodás kilátás nyílik a vidékre. Ezután a város jelentős templomait járjuk körbe délről északra haladva. Délután a Saint-Blaise templomhoz érkezünk, mielőtt az ipartörténeti emlékek felé vennénk az irányt. A nap a vasércbánya és múzeumának izgalmas felfedezésével zárul a város északi részén.",
+        "ro": "Cu mașina explorăm mai întâi Fort Pélissier pentru o panoramă deosebită. Apoi vizităm bisericile importante din oraș, începând din sud. După-amiaza ajungem la biserica Saint-Blaise înainte de a ne concentra pe istoria industrială. Excursia culminează cu vizitarea fascinantă a minei de fier și a muzeului său, situate în partea de nord a orașului.",
+        "en": "By car, we first explore Fort Pélissier, enjoying its great views. We then drive to the city's significant churches, starting in the south. In the afternoon, we reach the Église Saint-Blaise before turning our attention to the industrial history. The trip culminates in a fascinating visit to the iron mine and its dedicated museum in the northern part of town."
+      }
+    }
+  }
+}

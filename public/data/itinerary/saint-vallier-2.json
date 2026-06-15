@@ -1,0 +1,428 @@
+{
+  "city_id": "saint-vallier-2",
+  "anchor": {
+    "name": "Saint-Vallier",
+    "coords": [
+      4.8153,
+      45.1786
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:25",
+      "total_km": 3.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Valery Church",
+            "hu": "Saint-Valery Church",
+            "ro": "Saint-Valery Church",
+            "en": "Saint-Valery Church"
+          },
+          "coords": [
+            4.815333,
+            45.178771
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser historischen Kirche im Zentrum und besuchen Sie sie früh, um das friedliche Morgenlicht durch die Buntglasfenster zu genießen.",
+            "hu": "Csodálja meg a történelmi templom építészetét a belvárosban, és érkezzen korán, hogy élvezhesse az ólomüveg ablakokon átszűrődő békés reggeli fényeket.",
+            "ro": "Admiră arhitectura acestei biserici istorice din centrul orașului și vino devreme pentru a te bucura de lumina dimineții care pătrunde prin vitralii.",
+            "en": "Admire the beautiful architecture of this historic church in the city center, and make sure to visit early to enjoy the peaceful morning light through its stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Saint-Vallier",
+            "hu": "Château de Saint-Vallier",
+            "ro": "Château de Saint-Vallier",
+            "en": "Château de Saint-Vallier"
+          },
+          "coords": [
+            4.817078,
+            45.179303
+          ],
+          "category": "castle",
+          "arrive_at": "09:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierende Geschichte und die Gärten dieses Schlosses, und tragen Sie bequeme Schuhe für die unebenen historischen Wege.",
+            "hu": "Fedezze fel a lenyűgöző történelmet és a fenséges kastély elegáns kertjeit, de ne felejtsen el kényelmes cipőt húzni az egyenetlen történelmi ösvényekhez.",
+            "ro": "Descoperă istoria fascinantă și grădinile elegante ale acestui castel maiestuos, purtând încălțăminte confortabilă pentru aleile istorice denivelate.",
+            "en": "Explore the fascinating history and elegant gardens of this majestic castle, and remember to wear comfortable shoes for walking along the uneven historic pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame",
+            "hu": "Chapelle Notre-Dame",
+            "ro": "Chapelle Notre-Dame",
+            "en": "Chapelle Notre-Dame"
+          },
+          "coords": [
+            4.843019,
+            45.180349
+          ],
+          "category": "religious",
+          "arrive_at": "11:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 31,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Moment der Ruhe in dieser charmanten Kapelle, die den tiefen regionalen Glauben widerspiegelt, und bringen Sie eine kleine Spende für eine Kerze mit.",
+            "hu": "Élvezze a nyugalmat ebben a bájos helyi kápolnában, amely a mély regionális hitet tükrözi, és hozzon magával aprót, ha gyertyát szeretne gyújtani.",
+            "ro": "Bucură-te de un moment de liniște la această capelă fermecătoare care reflectă credința locală, aducând o mică donație dacă dorești să aprinzi o lumânare.",
+            "en": "Enjoy a moment of serenity at this charming local chapel that reflects deep regional faith, and bring a small donation if you wish to light a candle."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Joseph de Vals",
+            "hu": "Chapelle Saint-Joseph de Vals",
+            "ro": "Chapelle Saint-Joseph de Vals",
+            "en": "Chapelle Saint-Joseph de Vals"
+          },
+          "coords": [
+            4.843607,
+            45.179354
+          ],
+          "category": "religious",
+          "arrive_at": "12:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie den ländlichen Charme dieser kleinen, im Grünen gelegenen Kapelle und bringen Sie eine Kamera mit, um die malerische Umgebung festzuhalten.",
+            "hu": "Fedezze fel ennek a zöldövezetben megbúvó kápolnának a vidéki báját, és hozzon magával fényképezőgépet a festői természeti környezet megörökítéséhez.",
+            "ro": "Descoperă farmecul rural al acestei capele situate în mijlocul verdeții și nu uita aparatul foto pentru a surprinde împrejurimile naturale pitorești.",
+            "en": "Discover the exquisite rural charm of this dedicated chapel set amidst greenery, and bring a camera to capture the picturesque natural surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Sainte-Euphémie",
+            "hu": "Chapelle Sainte-Euphémie",
+            "ro": "Chapelle Sainte-Euphémie",
+            "en": "Chapelle Sainte-Euphémie"
+          },
+          "coords": [
+            4.847261,
+            45.18205
+          ],
+          "category": "religious",
+          "arrive_at": "13:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick und die ruhige Atmosphäre dieser Hügelkapelle, die aufgrund der windigen Höhe am besten mit einer leichten Jacke besucht wird.",
+            "hu": "Gyönyörködjön a domboldali kápolnát körülvevő panorámában és csendes légkörben, de hozzon magával egy könnyű kabátot a szeles magasság miatt.",
+            "ro": "Admiră priveliștea panoramică și liniștea din jurul acestei capele pe deal, fiind recomandat să ai o jachetă subțire din cauza brizei de la altitudine.",
+            "en": "Take in the panoramic views and quiet atmosphere surrounding this hillside chapel, which is best visited with a light jacket due to the breezy elevation."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen in der historischen Kirche Saint-Valery direkt im Herzen der Stadt. Tauchen Sie dann bei einer Erkundung des Château de Saint-Vallier in die mittelalterliche Vergangenheit ein. Nach dem Mittagessen machen Sie einen angenehmen Spaziergang nach Osten zur charmanten Chapelle Notre-Dame. Setzen Sie den Nachmittag mit einem Besuch der Chapelle Saint-Joseph de Vals fort. Beenden Sie den Tag an der Chapelle Sainte-Euphémie.",
+        "hu": "Kezdje a reggelt a történelmi Saint-Valery templomál a város szívében. Ezután merüljön el a középkori múltban a Château de Saint-Vallier alapos felfedezésével. Ebéd után tegyen egy kellemes sétát kelet felé a bájos Chapelle Notre-Dame-hoz. Folytassa délutánját a közeli Chapelle Saint-Joseph de Vals meglátogatásával. Zárja a napot a Chapelle Sainte-Euphémie magaslati szellőinek élvezetével.",
+        "ro": "Începeți dimineața la biserica istorică Saint-Valery, chiar în inima orașului. Apoi, aprofundați trecutul medieval cu o explorare a Château de Saint-Vallier. După prânz, faceți o plimbare plăcută spre est pentru a găsi fermecătoarea Chapelle Notre-Dame. Continuați după-amiaza vizitând Chapelle Saint-Joseph de Vals. Încheiați ziua bucurându-vă de atmosfera liniștită de la Chapelle Sainte-Euphémie.",
+        "en": "Start your morning at the historic Saint-Valery Church right in the heart of town. Then, delve into the medieval past with a thorough exploration of the Château de Saint-Vallier. After lunch, take a pleasant stroll eastwards to find the charming Chapelle Notre-Dame. Continue your afternoon by visiting the nearby Chapelle Saint-Joseph de Vals. Conclude your day enjoying the elevated breezes at Chapelle Sainte-Euphémie."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:34",
+      "total_km": 14.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Valery Church",
+            "hu": "Saint-Valery Church",
+            "ro": "Saint-Valery Church",
+            "en": "Saint-Valery Church"
+          },
+          "coords": [
+            4.815333,
+            45.178771
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser historischen Kirche im Zentrum und besuchen Sie sie früh, um das friedliche Morgenlicht durch die Buntglasfenster zu genießen.",
+            "hu": "Csodálja meg a történelmi templom építészetét a belvárosban, és érkezzen korán, hogy élvezhesse az ólomüveg ablakokon átszűrődő békés reggeli fényeket.",
+            "ro": "Admiră arhitectura acestei biserici istorice din centrul orașului și vino devreme pentru a te bucura de lumina dimineții care pătrunde prin vitralii.",
+            "en": "Admire the beautiful architecture of this historic church in the city center, and make sure to visit early to enjoy the peaceful morning light through its stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Saint-Vallier",
+            "hu": "Château de Saint-Vallier",
+            "ro": "Château de Saint-Vallier",
+            "en": "Château de Saint-Vallier"
+          },
+          "coords": [
+            4.817078,
+            45.179303
+          ],
+          "category": "castle",
+          "arrive_at": "09:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierende Geschichte und die Gärten dieses Schlosses, und tragen Sie bequeme Schuhe für die unebenen historischen Wege.",
+            "hu": "Fedezze fel a lenyűgöző történelmet és a fenséges kastély elegáns kertjeit, de ne felejtsen el kényelmes cipőt húzni az egyenetlen történelmi ösvényekhez.",
+            "ro": "Descoperă istoria fascinantă și grădinile elegante ale acestui castel maiestuos, purtând încălțăminte confortabilă pentru aleile istorice denivelate.",
+            "en": "Explore the fascinating history and elegant gardens of this majestic castle, and remember to wear comfortable shoes for walking along the uneven historic pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Église de la Nativité-de-la-Vierge",
+            "hu": "Église de la Nativité-de-la-Vierge",
+            "ro": "Église de la Nativité-de-la-Vierge",
+            "en": "Église de la Nativité-de-la-Vierge"
+          },
+          "coords": [
+            4.798313,
+            45.186716
+          ],
+          "category": "religious",
+          "arrive_at": "11:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese historische Pfarrkirche, um ihr wunderschönes Altarbild zu sehen, und planen Sie den Stopp vor dem Mittag, da das Innere später dunkel wird.",
+            "hu": "Látogasson el ebbe a történelmi plébániatemplomba a gyönyörű oltárképért, és tervezze kora délutánra az érkezést, mivel a belső tér később elég sötét lehet.",
+            "ro": "Vizitează această biserică parohială istorică pentru frumosul său altar și planifică oprirea înainte de prânz, deoarece interiorul devine întunecat după-amiaza.",
+            "en": "Visit this historic parish church to see its beautiful altarpiece, and plan your stop before noon as the interior can get quite dark in the late afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de Vert",
+            "hu": "Lac de Vert",
+            "ro": "Lac de Vert",
+            "en": "Lac de Vert"
+          },
+          "coords": [
+            4.743793,
+            45.217525
+          ],
+          "category": "natural",
+          "arrive_at": "12:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie am ruhigen Wasser dieses natürlichen Sees entlang, der eine vielfältige Vogelwelt beherbergt, und packen Sie ein leichtes Picknick für die Ufer ein.",
+            "hu": "Sétáljon egyet a változatos madárvilágnak otthont adó, gyönyörű természetes tó nyugodt vizénél, és csomagoljon egy könnyű pikniket a gondozott partokra.",
+            "ro": "Plimbă-te pe malurile liniștite ale acestui lac natural frumos, gazdă a numeroase păsări, și adu un mic picnic pentru a te relaxa în natură.",
+            "en": "Stroll around the tranquil waters of this beautiful natural lake that hosts diverse birdlife, and pack a light picnic to enjoy on its well-maintained shores."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Jean-Saint-Paul",
+            "hu": "Chapelle Saint-Jean-Saint-Paul",
+            "ro": "Chapelle Saint-Jean-Saint-Paul",
+            "en": "Chapelle Saint-Jean-Saint-Paul"
+          },
+          "coords": [
+            4.802732,
+            45.165981
+          ],
+          "category": "religious",
+          "arrive_at": "14:24",
+          "stay_min": 70,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 7.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die rustikale Geschichte dieses in die Landschaft eingebetteten Heiligtums und achten Sie auf lokale Aushänge für kleine Gemeindeveranstaltungen.",
+            "hu": "Tárja fel a tájba simuló, kettős szentély rusztikus történelmét, és figyelje a helyi hirdetményeket, mivel időnként meghitt közösségi eseményeknek ad otthont.",
+            "ro": "Descoperă istoria rustică a acestui sanctuar dublu cuibărit în peisaj și verifică avizele locale, deoarece găzduiește uneori evenimente comunitare intime.",
+            "en": "Uncover the rustic history of this twin-dedicated sanctuary nestled in the landscape, and check local notices as it occasionally hosts intimate community events."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag an der zentralen Kirche Saint-Valery, bevor Sie das große Château de Saint-Vallier erkunden. Radeln Sie nach Nordwesten zur Église der Nativité-de-la-Vierge. Genießen Sie eine schöne, längere Fahrt zum ruhigen Lac de Vert für eine naturnahe Mittagspause. Beenden Sie Ihre malerische Runde, indem Sie nach Süden zur rustikalen Chapelle Saint-Jean-Saint-Paul fahren.",
+        "hu": "Kezdje kerékpáros napját a központi Saint-Valery templomnál, mielőtt felfedezné a nagyszerű Château de Saint-Valliert. Kerekezzen északnyugat felé, hogy megcsodálja a Nativité-de-la-Vierge templomot. Élvezze a hosszabb, gyönyörű utat a nyugodt Lac de Vert-hez egy természetközeli ebédszünethez. Zárja festői túráját dél felé tartva a rusztikus Chapelle Saint-Jean-Saint-Paul felé.",
+        "ro": "Începeți ziua de ciclism la biserica centrală Saint-Valery înainte de a explora mărețul Château de Saint-Vallier. Pedați spre nord-vest pentru a admira Église de la Nativité-de-la-Vierge. Bucurați-vă de o plimbare mai lungă până la liniștitul Lac de Vert pentru o pauză de prânz în natură. Încheiați circuitul pitoresc îndreptându-vă spre sud, spre rustica Chapelle Saint-Jean-Saint-Paul.",
+        "en": "Kick off your cycling day at the central Saint-Valery Church before exploring the grand Château de Saint-Vallier. Pedal northwest to admire the Église de la Nativité-de-la-Vierge and its rich heritage. Enjoy a beautiful, longer ride out to the tranquil Lac de Vert for a nature-filled midday break. Finish your scenic circuit by heading south to the rustic Chapelle Saint-Jean-Saint-Paul as the afternoon light wanes."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 29.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Valery Church",
+            "hu": "Saint-Valery Church",
+            "ro": "Saint-Valery Church",
+            "en": "Saint-Valery Church"
+          },
+          "coords": [
+            4.815333,
+            45.178771
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser historischen Kirche im Zentrum und besuchen Sie sie früh, um das friedliche Morgenlicht durch die Buntglasfenster zu genießen.",
+            "hu": "Csodálja meg a történelmi templom építészetét a belvárosban, és érkezzen korán, hogy élvezhesse az ólomüveg ablakokon átszűrődő békés reggeli fényeket.",
+            "ro": "Admiră arhitectura acestei biserici istorice din centrul orașului și vino devreme pentru a te bucura de lumina dimineții care pătrunde prin vitralii.",
+            "en": "Admire the beautiful architecture of this historic church in the city center, and make sure to visit early to enjoy the peaceful morning light through its stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Saint-Vallier",
+            "hu": "Château de Saint-Vallier",
+            "ro": "Château de Saint-Vallier",
+            "en": "Château de Saint-Vallier"
+          },
+          "coords": [
+            4.817078,
+            45.179303
+          ],
+          "category": "castle",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierende Geschichte und die Gärten dieses Schlosses, und tragen Sie bequeme Schuhe für die unebenen historischen Wege.",
+            "hu": "Fedezze fel a lenyűgöző történelmet és a fenséges kastély elegáns kertjeit, de ne felejtsen el kényelmes cipőt húzni az egyenetlen történelmi ösvényekhez.",
+            "ro": "Descoperă istoria fascinantă și grădinile elegante ale acestui castel maiestuos, purtând încălțăminte confortabilă pentru aleile istorice denivelate.",
+            "en": "Explore the fascinating history and elegant gardens of this majestic castle, and remember to wear comfortable shoes for walking along the uneven historic pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de Vert",
+            "hu": "Lac de Vert",
+            "ro": "Lac de Vert",
+            "en": "Lac de Vert"
+          },
+          "coords": [
+            4.743793,
+            45.217525
+          ],
+          "category": "natural",
+          "arrive_at": "11:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 6.7,
+          "tip_5lang": {
+            "de": "Spazieren Sie am ruhigen Wasser dieses natürlichen Sees entlang, der eine vielfältige Vogelwelt beherbergt, und packen Sie ein leichtes Picknick für die Ufer ein.",
+            "hu": "Sétáljon egyet a változatos madárvilágnak otthont adó, gyönyörű természetes tó nyugodt vizénél, és csomagoljon egy könnyű pikniket a gondozott partokra.",
+            "ro": "Plimbă-te pe malurile liniștite ale acestui lac natural frumos, gazdă a numeroase păsări, și adu un mic picnic pentru a te relaxa în natură.",
+            "en": "Stroll around the tranquil waters of this beautiful natural lake that hosts diverse birdlife, and pack a light picnic to enjoy on its well-maintained shores."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac des Meinettes",
+            "hu": "Lac des Meinettes",
+            "ro": "Lac des Meinettes",
+            "en": "Lac des Meinettes"
+          },
+          "coords": [
+            4.726673,
+            45.139913
+          ],
+          "category": "natural",
+          "arrive_at": "13:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 9.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Gewässer, ideal für Naturfotografie und leichte Wanderungen, und bringen Sie ein Fernglas mit, um die heimische Tierwelt zu beobachten.",
+            "hu": "Pihenjen e festői víztömeg mellett, amely tökéletes természetfotózáshoz és könnyű túrázáshoz, és hozzon távcsövet a helyi vadvilág megfigyeléséhez.",
+            "ro": "Relaxează-te lângă această întindere de apă perfectă pentru fotografii și drumeții ușoare, aducând un binoclu pentru a observa fauna sălbatică.",
+            "en": "Relax by this scenic body of water perfect for nature photography and gentle hiking, bringing binoculars if you want to spot some of the native wildlife."
+          }
+        },
+        {
+          "name": {
+            "de": "Rhone River Banks",
+            "hu": "Rhone River Banks",
+            "ro": "Rhone River Banks",
+            "en": "Rhone River Banks"
+          },
+          "coords": [
+            4.846433,
+            45.15657
+          ],
+          "category": "recreational",
+          "arrive_at": "14:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 10.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie an den weitläufigen Flussufern entlang, die fantastische Ausblicke bieten, und kommen Sie bei Sonnenuntergang für spektakuläre Spiegelungen auf dem Wasser.",
+            "hu": "Sétáljon végig a fantasztikus kilátást és friss levegőt kínáló hatalmas folyóparton, és időzítse látogatását naplementére az igazán látványos tükröződésekért.",
+            "ro": "Plimbă-te pe malurile extinse ale râului pentru priveliști fantastice și aer curat, programând vizita la apus pentru reflexii cu adevărat spectaculoase pe apă.",
+            "en": "Walk along the expansive and iconic river banks offering fantastic views and fresh air, and time your visit for sunset to capture truly spectacular reflections."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Joseph de Vals",
+            "hu": "Chapelle Saint-Joseph de Vals",
+            "ro": "Chapelle Saint-Joseph de Vals",
+            "en": "Chapelle Saint-Joseph de Vals"
+          },
+          "coords": [
+            4.843607,
+            45.179354
+          ],
+          "category": "religious",
+          "arrive_at": "16:01",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie den ländlichen Charme dieser kleinen, im Grünen gelegenen Kapelle und bringen Sie eine Kamera mit, um die malerische Umgebung festzuhalten.",
+            "hu": "Fedezze fel ennek a zöldövezetben megbúvó kápolnának a vidéki báját, és hozzon magával fényképezőgépet a festői természeti környezet megörökítéséhez.",
+            "ro": "Descoperă farmecul rural al acestei capele situate în mijlocul verdeții și nu uita aparatul foto pentru a surprinde împrejurimile naturale pitorești.",
+            "en": "Discover the exquisite rural charm of this dedicated chapel set amidst greenery, and bring a camera to capture the picturesque natural surroundings."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt mit den architektonischen Wundern der Kirche Saint-Valery und dem angrenzenden Schloss im Stadtzentrum. Fahren Sie zum malerischen Lac de Vert für einen erfrischenden Spaziergang am späten Vormittag. Nach dem Mittagessen setzen Sie Ihren Roadtrip zum malerischen Lac des Meinettes fort. Fahren Sie zu den Rhone-Ufern für einen Nachmittagsspaziergang und enden Sie an der Chapelle Saint-Joseph de Vals.",
+        "hu": "Az autós túra a Saint-Valery templom és a szomszédos kastély építészeti csodáival kezdődik a városközpontban. Vezessen el a festői Lac de Vert-hez egy frissítő késő délelőtti sétára. Ebéd után folytassa útját a fotózáshoz is tökéletes Lac des Meinettes felé. Irány az ikonikus Rhône folyópart egy késő délutáni sétára, majd zárja a napot a békés Chapelle Saint-Joseph de Valsnál.",
+        "ro": "Călătoria dvs. începe cu minunile arhitecturale ale Bisericii Saint-Valery și castelului adiacent din centrul orașului. Conduceți până la pitorescul Lac de Vert pentru o plimbare înviorătoare. După prânz, continuați-vă călătoria spre pitorescul Lac des Meinettes. Îndreptați-vă spre malurile râului Ron pentru o plimbare târzie după-amiaza, terminând la liniștita Chapelle Saint-Joseph de Vals.",
+        "en": "Your drive begins with the architectural wonders of Saint-Valery Church and the adjacent Château in the town center. Drive out to the picturesque Lac de Vert for a refreshing late-morning walk. After lunch, continue your road trip to the scenic Lac des Meinettes, a perfect spot for photography. Head towards the iconic Rhone River Banks for a late afternoon stroll, ending at the peaceful Chapelle Saint-Joseph de Vals."
+      }
+    }
+  }
+}

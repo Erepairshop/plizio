@@ -1,0 +1,428 @@
+{
+  "city_id": "mexico-akumal-cities-v2",
+  "anchor": {
+    "name": "Akumal",
+    "coords": [
+      -87.322436,
+      20.400935
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:28",
+      "total_km": 2.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cenote Puerta Maya",
+            "hu": "Cenote Puerta Maya",
+            "ro": "Cenote Puerta Maya",
+            "en": "Cenote Puerta Maya"
+          },
+          "coords": [
+            -87.327805,
+            20.406048
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie kristallklares unterirdisches Wasser für ein erfrischendes Bad, aber bringen Sie unbedingt biologisch abbaubare Sonnencreme zum Schutz des Ökosystems mit.",
+            "hu": "Fedezze fel a kristálytiszta földalatti vizeket egy frissítő úszáshoz, de feltétlenül hozzon magával biológiailag lebomló naptejet a törékeny ökoszisztéma védelmében.",
+            "ro": "Descoperiți apele subterane cristaline perfecte pentru o baie răcoroasă, dar asigurați-vă că aduceți cremă de soare biodegradabilă pentru a proteja ecosistemul fragil.",
+            "en": "Discover crystal-clear underground waters perfect for a refreshing morning swim, but be sure to bring eco-friendly biodegradable sunscreen to protect the fragile ecosystem."
+          }
+        },
+        {
+          "name": {
+            "de": "Lagunenpool",
+            "hu": "Lagúna medence",
+            "ro": "Piscina Lagună",
+            "en": "Lagoon Pool"
+          },
+          "coords": [
+            -87.317827,
+            20.396057
+          ],
+          "category": "recreational",
+          "arrive_at": "10:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an dieser ruhigen Wasser-Oase inmitten üppiger Vegetation und kommen Sie etwas vor der Mittagszeit, um sich einen schattigen Liegeplatz zu sichern.",
+            "hu": "Pihenjen ebben a buja trópusi növényzettel körülvett békés vízi oázisban, és érkezzen a kora délutáni csúcsidő előtt, hogy biztosítson magának egy árnyékos pihenőhelyet.",
+            "ro": "Relaxați-vă la această oază acvatică liniștită înconjurată de vegetație tropicală luxuriantă și ajungeți înainte de orele de vârf pentru a prinde un loc confortabil la umbră.",
+            "en": "Relax by this tranquil aquatic oasis surrounded by lush tropical vegetation, and arrive slightly before peak afternoon hours to secure a comfortable shaded lounge spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Akumal",
+            "hu": "Playa Akumal",
+            "ro": "Playa Akumal",
+            "en": "Playa Akumal"
+          },
+          "coords": [
+            -87.316418,
+            20.394004
+          ],
+          "category": "recreational",
+          "arrive_at": "12:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie über den weichen weißen Sand dieses ikonischen Küstenabschnitts und mieten Sie Ihre Schnorchelausrüstung direkt am Strand bei zertifizierten Händlern.",
+            "hu": "Sétáljon végig ennek az ikonikus tengerpartnak a puha fehér homokján, és a legjobb árakért béreljen sznorkelfelszerelést közvetlenül a parton a helyi árusoktól.",
+            "ro": "Plimbați-vă pe nisipul alb și fin al acestei plaje emblematice și închiriați echipament de snorkeling de la vânzătorii locali direct de pe țărm pentru prețuri bune.",
+            "en": "Stroll along the soft white sands of this iconic coastal stretch, and rent your snorkeling gear from certified local vendors directly on the shore for the best prices."
+          }
+        },
+        {
+          "name": {
+            "de": "Schildkrötenstrand",
+            "hu": "Teknős-part",
+            "ro": "Plaja Țestoaselor",
+            "en": "turtle beach"
+          },
+          "coords": [
+            -87.31502,
+            20.395179
+          ],
+          "category": "landmark",
+          "arrive_at": "13:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie majestätische Meeresschildkröten in ihrem natürlichen Lebensraum und halten Sie stets respektvollen Abstand, um diese sanften Tiere nicht zu stören.",
+            "hu": "Figyelje meg a természetes élőhelyükön kecsesen sikló fenséges tengeri teknősöket, és tartson legalább három méteres tisztes távolságot ezen szelíd lények nyugalmáért.",
+            "ro": "Observați broaștele țestoase marine maiestuoase în habitatul lor natural și păstrați o distanță respectuoasă de cel puțin trei metri pentru a nu deranja creaturile.",
+            "en": "Observe majestic sea turtles gliding gracefully in their natural habitat, and maintain a respectful distance of at least ten feet to avoid disturbing these gentle creatures."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand",
+            "hu": "Strand",
+            "ro": "Plajă",
+            "en": "Beach"
+          },
+          "coords": [
+            -87.313552,
+            20.396245
+          ],
+          "category": "landmark",
+          "arrive_at": "14:43",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie an dieser makellosen Küste mit sanften Karibikwellen und packen Sie ein leichtes Picknick ein, um die friedliche goldene Stunde am späten Nachmittag zu genießen.",
+            "hu": "Töltődjön fel ezen az érintetlen parton a lábát nyaldosó lágy karibi hullámok mellett, és csomagoljon egy könnyű pikniket, hogy kiélvezze a csendes délutáni aranyórát.",
+            "ro": "Relaxați-vă pe această coastă imaculată cu valuri blânde caraibiene și aduceți un mic picnic pentru a vă bucura de liniștea apusului atunci când căldura zilei scade.",
+            "en": "Unwind on this pristine shoreline with gentle Caribbean waves lapping at your feet, and pack a light picnic to enjoy a peaceful golden hour as the afternoon heat subsides."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im Landesinneren an einer atemberaubenden Cenote, wo kühles Wasser den perfekten Start bietet. Ein kurzer Spaziergang bringt Sie durch die tropische Flora von Akumal direkt an die malerische Küste.\n\nMittags erreichen Sie den ruhigen Lagoon Pool und die lebhafte Playa Akumal. Genießen Sie den weichen Sand und das karibische Wasser, entspannen Sie sich oder versuchen Sie sich im Schnorcheln direkt vor der Küste.\n\nDer Nachmittag ist den berühmten Meeresschildkröten gewidmet. Ein kurzer Spaziergang führt Sie zu einem geschützten Strandbereich, wo Sie diese sanften Tiere in den Seegraswiesen beobachten können.\n\nWenn der Abend naht, lassen Sie sich an einem ruhigen Strandabschnitt nieder. Die goldene Stunde taucht die Palmen in ein warmes Licht und bietet einen friedlichen und sehr malerischen Abschluss Ihrer Tour.",
+        "hu": "A nap egy lenyűgöző cenoténál kezdődik, ahol a hűvös földalatti vizek tökéletes indulást biztosítanak. Egy rövid séta a trópusi fák alatt elvezeti Önt Akumal buja környezetéből egyenesen a gyönyörű partra.\n\nDélben a békés Lagoon Pool és a nyüzsgő Playa Akumal várja. Élvezze a puha homokot és a karibi vizet, szakítson időt a pihenésre, vagy próbálja ki a sznorkelezést közvetlenül a part mentén.\n\nA délután a híres tengeri teknősöké. Egy rövid séta elviszi a védett strandszakaszra, ahol megfigyelheti ezeket a szelíd teremtményeket, ahogy kecsesen navigálnak a tengerifű-ágyások között.\n\nAhogy közeledik az este, telepedjen le a part egy csendesebb részén. Az aranyóra meleg fényt vet a pálmafákra, békés és rendkívül festői befejezést kínálva ennek a nagyszerű sétának.",
+        "ro": "Ziua începe la o cenotă uimitoare, unde apele subterane răcoroase oferă un start perfect. Scurta plimbare pe sub coronamentul tropical vă prezintă mediul luxuriant din Akumal înainte de a ajunge la coastă.\n\nLa prânz ajungeți la liniștita Lagoon Pool și la vibranta Playa Akumal. Bucurați-vă de nisipul fin și de apele caraibiene, luându-vă timp să vă relaxați sau să faceți puțin snorkeling de pe țărm.\n\nDupă-amiaza este dedicată celebrelor broaște țestoase marine. O scurtă plimbare vă duce într-o zonă de plajă protejată, unde puteți observa aceste creaturi blânde printre ierburile marine din zonă.\n\nOdată cu lăsarea serii, așezați-vă pe o porțiune mai liniștită de plajă. Ora de aur aruncă o strălucire caldă peste palmieri, oferind o concluzie pașnică și extrem de pitorească a turului pietonal.",
+        "en": "Your day begins inland at a stunning cenote, where the cool underground waters provide the perfect start. The short walk under the tropical canopy introduces you to the lush environment of Akumal before you head towards the coast.\n\nMidday brings you to the tranquil Lagoon Pool and the vibrant Playa Akumal. Enjoy the soft sands and crystal-clear Caribbean waters, taking time to relax or perhaps try a little snorkeling right off the shore.\n\nThe afternoon is dedicated to the famous sea turtles. A short stroll takes you to a protected beach area where you can spot these gentle creatures gracefully navigating the seagrass beds.\n\nAs evening approaches, settle on a quieter stretch of the beach. The golden hour casts a warm glow over the palm trees, offering a peaceful and highly scenic conclusion to your walking tour."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:43",
+      "total_km": 6.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cenote Puerta Maya",
+            "hu": "Cenote Puerta Maya",
+            "ro": "Cenote Puerta Maya",
+            "en": "Cenote Puerta Maya"
+          },
+          "coords": [
+            -87.327805,
+            20.406048
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie kristallklares unterirdisches Wasser für ein erfrischendes Bad, aber bringen Sie unbedingt biologisch abbaubare Sonnencreme zum Schutz des Ökosystems mit.",
+            "hu": "Fedezze fel a kristálytiszta földalatti vizeket egy frissítő úszáshoz, de feltétlenül hozzon magával biológiailag lebomló naptejet a törékeny ökoszisztéma védelmében.",
+            "ro": "Descoperiți apele subterane cristaline perfecte pentru o baie răcoroasă, dar asigurați-vă că aduceți cremă de soare biodegradabilă pentru a proteja ecosistemul fragil.",
+            "en": "Discover crystal-clear underground waters perfect for a refreshing morning swim, but be sure to bring eco-friendly biodegradable sunscreen to protect the fragile ecosystem."
+          }
+        },
+        {
+          "name": {
+            "de": "Yal-Ku",
+            "hu": "Yal-Ku",
+            "ro": "Yal-Ku",
+            "en": "Yal-Ku"
+          },
+          "coords": [
+            -87.304804,
+            20.410397
+          ],
+          "category": "landmark",
+          "arrive_at": "10:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Schnorcheln Sie in dieser spektakulären Lagune, in der sich Süß- und Salzwasser mischen, und tragen Sie ein UV-Shirt anstelle von Sonnencreme, um das Wasser rein zu halten.",
+            "hu": "Sznorkelezzen ebben a látványos lagúnában, ahol az édes és a sós víz keveredik, és naptej helyett viseljen hosszú ujjú úszóinget, hogy megőrizze a víz kristálytisztaságát.",
+            "ro": "Faceți snorkeling în această lagună spectaculoasă unde apele dulci și sărate se împletesc și purtați un tricou anti-UV în loc de cremă solară pentru a păstra apa curată.",
+            "en": "Snorkel in this spectacular lagoon where fresh and salt waters mix seamlessly, and wear a simple rash guard instead of any sunscreens to keep the pristine water pure."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand",
+            "hu": "Strand",
+            "ro": "Plajă",
+            "en": "Beach"
+          },
+          "coords": [
+            -87.313552,
+            20.396245
+          ],
+          "category": "landmark",
+          "arrive_at": "12:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie an dieser makellosen Küste mit sanften Karibikwellen und packen Sie ein leichtes Picknick ein, um die friedliche goldene Stunde am späten Nachmittag zu genießen.",
+            "hu": "Töltődjön fel ezen az érintetlen parton a lábát nyaldosó lágy karibi hullámok mellett, és csomagoljon egy könnyű pikniket, hogy kiélvezze a csendes délutáni aranyórát.",
+            "ro": "Relaxați-vă pe această coastă imaculată cu valuri blânde caraibiene și aduceți un mic picnic pentru a vă bucura de liniștea apusului atunci când căldura după-amiezii scade.",
+            "en": "Unwind on this pristine shoreline with gentle Caribbean waves lapping at your feet, and pack a light picnic to enjoy a peaceful golden hour as the afternoon heat subsides."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Akumal",
+            "hu": "Playa Akumal",
+            "ro": "Playa Akumal",
+            "en": "Playa Akumal"
+          },
+          "coords": [
+            -87.316418,
+            20.394004
+          ],
+          "category": "recreational",
+          "arrive_at": "13:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie über den weichen weißen Sand dieses ikonischen Küstenabschnitts und mieten Sie Ihre Schnorchelausrüstung direkt am Strand bei zertifizierten Händlern.",
+            "hu": "Sétáljon végig ennek az ikonikus tengerpartnak a puha fehér homokján, és a legjobb árakért béreljen sznorkelfelszerelést közvetlenül a parton a helyi árusoktól.",
+            "ro": "Plimbați-vă pe nisipul alb și fin al acestei plaje emblematice și închiriați echipament de snorkeling de la vânzătorii locali direct de pe țărm pentru cele mai bune prețuri.",
+            "en": "Stroll along the soft white sands of this iconic coastal stretch, and rent your snorkeling gear from certified local vendors directly on the shore for the best prices."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Punta Sur",
+            "hu": "Punta Sur kilátó",
+            "ro": "Punct de belvedere Punta Sur",
+            "en": "Punta Sur viewpoint"
+          },
+          "coords": [
+            -87.323485,
+            20.374596
+          ],
+          "category": "natural",
+          "arrive_at": "14:48",
+          "stay_min": 55,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die dramatischen Felsklippen, die auf den endlosen Ozean treffen, und bringen Sie feste Wanderschuhe mit, um die unebenen und felsigen Wege sicher zu meistern.",
+            "hu": "Csodálja meg a végtelen óceánnal találkozó drámai sziklás szirteket, és hozzon magával strapabíró sétacipőt az egyenetlen, sziklás ösvényeken való biztonságos közlekedéshez.",
+            "ro": "Admirați stâncile dramatice care se întâlnesc cu imensitatea oceanului și aduceți o pereche de încălțăminte solidă pentru a naviga în siguranță pe potecile accidentate.",
+            "en": "Marvel at the dramatic rocky cliffs meeting the endless expanse of the ocean, and bring a sturdy pair of walking shoes to safely navigate the uneven rugged pathways."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer mit einem erfrischenden Bad in einer lokalen Cenote. Das kühle Wasser belebt Sie für die weitere Fahrt durch Akumals Straßen zu den spektakulären Küstenlagunen.\n\nMittags schnorcheln Sie in der berühmten Yal-Ku Lagune, wo sich Salz- und Süßwasser mischen. Eine kurze Radtour bringt Sie dann zum lebhaften Hauptstrand, um die herrliche Karibiksonne zu genießen.\n\nVerbringen Sie den Nachmittag damit, Playa Akumal im Detail zu erkunden. Parken Sie Ihr Fahrrad und gehen Sie an der Küste entlang, bevor Sie sich auf die Weiterfahrt nach Süden vorbereiten.\n\nBeenden Sie Ihren Tag mit einer malerischen Fahrt zum dramatischen Aussichtspunkt Punta Sur. Die tosenden Wellen und Klippen bilden einen tollen Kontrast zu den Sandstränden und bieten ein unvergessliches Panorama.",
+        "hu": "Kezdje kerékpáros kalandját egy frissítő csobbanással egy helyi cenoténél. A hűvös víz felfrissíti a további útra, miközben Akumal kanyargós utcáin a látványos tengerparti lagúnák felé teker.\n\nA délidő a híres Yal-Ku lagúnában találja, ahol a sós és édesvíz találkozik. Ezután egy rövid kerékpározás elviszi a nyüzsgő fő strandra, hogy magába szívja a dicsőséges karibi napsütést.\n\nTöltse a délutánt Playa Akumal részletes felfedezésével. Parkolja le a kerékpárját, sétáljon végig a parton, és talán egyen egy gyors trópusi falatot, mielőtt tovább tekerne dél felé.\n\nZárja a napot egy festői utazással a drámai Punta Sur kilátóhoz. A lecsapódó hullámok és sziklás szirtek lenyűgöző kontrasztot alkotnak a homokos strandokkal, felejthetetlen panorámával zárva a túrát.",
+        "ro": "Începeți aventura pe bicicletă cu o baie revigorantă într-o cenotă locală. Apele răcoroase vă pregătesc pentru drumul ce urmează, pedalând pe străzile din Akumal spre lagunele de coastă.\n\nLa prânz faceți snorkeling în celebra lagună Yal-Ku, unde apele sărate și dulci se unesc. Apoi, o scurtă plimbare cu bicicleta vă aduce la plaja principală pentru a vă bucura de soarele Caraibelor.\n\nPetreceți după-amiaza explorând în detaliu Playa Akumal. Parcați bicicleta și plimbați-vă pe țărm, luând poate o gustare tropicală rapidă înainte de a vă pregăti să mergeți mai spre sud.\n\nÎncheiați-vă ziua cu o plimbare pitorească spre spectaculosul punct de belvedere Punta Sur. Valurile izbindu-se de stânci oferă un contrast uimitor cu plajele nisipoase, terminând turul cu o panoramă minunată.",
+        "en": "Start your cycling adventure with a refreshing dip at a local cenote. The cool waters invigorate you for the ride ahead, as you pedal through Akumal's winding streets towards the spectacular coastal lagoons.\n\nMidday finds you snorkeling in the famous Yal-Ku lagoon, where salt and fresh waters merge. Afterward, a short bike ride brings you to the lively main beach to soak up the glorious Caribbean sunshine.\n\nSpend the afternoon exploring Playa Akumal in detail. Park your bike and walk the shoreline, perhaps grabbing a quick tropical snack before preparing to ride further south.\n\nConclude your day with a scenic ride to the dramatic Punta Sur viewpoint. The crashing waves and rocky cliffs provide a stunning contrast to the sandy beaches, ending your tour with an unforgettable panorama."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:56",
+      "total_km": 15.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sirenis",
+            "hu": "Sirenis",
+            "ro": "Sirenis",
+            "en": "Sirenis"
+          },
+          "coords": [
+            -87.293845,
+            20.426359
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses weitläufige Resort, das Luxus mit tropischem Charme verbindet, und buchen Sie einen Tagespass, um alle außergewöhnlichen Freizeiteinrichtungen zu nutzen.",
+            "hu": "Fedezze fel ezt a luxust és trópusi bájat ötvöző hatalmas üdülőközpontot, és fontolja meg egy napijegy váltását a kivételes rekreációs szolgáltatások teljeskörű élvezetéhez.",
+            "ro": "Explorați acest resort extins care îmbină luxul cu farmecul tropical și luați în considerare achiziționarea unui permis de o zi pentru a accesa facilitățile recreative.",
+            "en": "Explore this sprawling resort environment blending luxury with tropical charm, and consider booking a day pass to fully access all the exceptional recreational amenities."
+          }
+        },
+        {
+          "name": {
+            "de": "Yal-Ku",
+            "hu": "Yal-Ku",
+            "ro": "Yal-Ku",
+            "en": "Yal-Ku"
+          },
+          "coords": [
+            -87.304804,
+            20.410397
+          ],
+          "category": "landmark",
+          "arrive_at": "10:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Schnorcheln Sie in dieser spektakulären Lagune, in der sich Süß- und Salzwasser mischen, und tragen Sie ein UV-Shirt anstelle von Sonnencreme, um das Wasser rein zu halten.",
+            "hu": "Sznorkelezzen ebben a látványos lagúnában, ahol az édes és a sós víz keveredik, és naptej helyett viseljen hosszú ujjú úszóinget, hogy megőrizze a víz kristálytisztaságát.",
+            "ro": "Faceți snorkeling în această lagună spectaculoasă unde apele dulci și sărate se împletesc și purtați un tricou anti-UV în loc de cremă solară pentru a păstra apa curată.",
+            "en": "Snorkel in this spectacular lagoon where fresh and salt waters mix seamlessly, and wear a simple rash guard instead of any sunscreens to keep the pristine water pure."
+          }
+        },
+        {
+          "name": {
+            "de": "Cenote Puerta Maya",
+            "hu": "Cenote Puerta Maya",
+            "ro": "Cenote Puerta Maya",
+            "en": "Cenote Puerta Maya"
+          },
+          "coords": [
+            -87.327805,
+            20.406048
+          ],
+          "category": "recreational",
+          "arrive_at": "11:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie kristallklares unterirdisches Wasser für ein erfrischendes Bad, aber bringen Sie unbedingt biologisch abbaubare Sonnencreme zum Schutz des Ökosystems mit.",
+            "hu": "Fedezze fel a kristálytiszta földalatti vizeket egy frissítő úszáshoz, de feltétlenül hozzon magával biológiailag lebomló naptejet a törékeny ökoszisztéma védelmében.",
+            "ro": "Descoperiți apele subterane cristaline perfecte pentru o baie răcoroasă, dar asigurați-vă că aduceți cremă de soare biodegradabilă pentru a proteja ecosistemul fragil.",
+            "en": "Discover crystal-clear underground waters perfect for a refreshing morning swim, but be sure to bring eco-friendly biodegradable sunscreen to protect the fragile ecosystem."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Akumal",
+            "hu": "Playa Akumal",
+            "ro": "Playa Akumal",
+            "en": "Playa Akumal"
+          },
+          "coords": [
+            -87.316418,
+            20.394004
+          ],
+          "category": "recreational",
+          "arrive_at": "13:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Schlendern Sie über den weichen weißen Sand dieses ikonischen Küstenabschnitts und mieten Sie Ihre Schnorchelausrüstung direkt am Strand bei zertifizierten Händlern.",
+            "hu": "Sétáljon végig ennek az ikonikus tengerpartnak a puha fehér homokján, és a legjobb árakért béreljen sznorkelfelszerelést közvetlenül a parton a helyi árusoktól.",
+            "ro": "Plimbați-vă pe nisipul alb și fin al acestei plaje emblematice și închiriați echipament de snorkeling de la vânzătorii locali direct de pe țărm pentru cele mai bune prețuri.",
+            "en": "Stroll along the soft white sands of this iconic coastal stretch, and rent your snorkeling gear from certified local vendors directly on the shore for the best prices."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Punta Sur",
+            "hu": "Punta Sur kilátó",
+            "ro": "Punct de belvedere Punta Sur",
+            "en": "Punta Sur viewpoint"
+          },
+          "coords": [
+            -87.323485,
+            20.374596
+          ],
+          "category": "natural",
+          "arrive_at": "14:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die dramatischen Felsklippen, die auf den endlosen Ozean treffen, und bringen Sie feste Wanderschuhe mit, um die unebenen und felsigen Wege sicher zu meistern.",
+            "hu": "Csodálja meg a végtelen óceánnal találkozó drámai sziklás szirteket, és hozzon magával strapabíró sétacipőt az egyenetlen, sziklás ösvényeken való biztonságos közlekedéshez.",
+            "ro": "Admirați stâncile dramatice care se întâlnesc cu imensitatea oceanului și aduceți o pereche de încălțăminte solidă pentru a naviga în siguranță pe potecile accidentate.",
+            "en": "Marvel at the dramatic rocky cliffs meeting the endless expanse of the ocean, and bring a sturdy pair of walking shoes to safely navigate the uneven rugged pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Xel-Há",
+            "hu": "Xel-Há",
+            "ro": "Xel-Há",
+            "en": "Xel-Há"
+          },
+          "coords": [
+            -87.358678,
+            20.317737
+          ],
+          "category": "recreational",
+          "arrive_at": "15:11",
+          "stay_min": 105,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 7.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in ein massives natürliches Aquarium voller Meeresleben ein und kommen Sie so früh wie möglich, um die beliebten Wasserattraktionen vor dem großen Ansturm zu genießen.",
+            "hu": "Merüljön el egy lenyűgöző hatalmas természetes akváriumban, és érkezzen a lehető legkorábban, hogy elkerülje a tömeget a legnépszerűbb vízi látványosságoknál.",
+            "ro": "Scufundați-vă într-un acvariu natural masiv plin de viață acvatică vibrantă și ajungeți cât mai devreme pentru a vă bucura de atracțiile populare înainte de aglomerație.",
+            "en": "Dive into an incredible massive natural aquarium filled with vibrant aquatic life, and arrive as early as possible to enjoy the popular water attractions before the crowds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Roadtrip beginnt an einem weitläufigen Luxusresortgebiet und sorgt für entspannte tropische Stimmung. Von dort aus fahren Sie zur Yal-Ku Lagune für Ihr erstes Schnorchelabenteuer des Tages.\n\nDer Mittag kombiniert das Beste beider Welten. Fahren Sie zu einer kristallklaren Cenote, um sich im Dschungel abzukühlen, und dann zur Playa Akumal für den klassischen weißen Karibiksand.\n\nDer Nachmittag bietet atemberaubende Landschaften, wenn Sie nach Süden nach Punta Sur fahren. Die raue Küste und die brechenden Wellen bieten fantastische Fotomotive, bevor es zum großen Finale geht.\n\nBeenden Sie den Tag im Xel-Há, einem massiven Wasserpark. Genießen Sie das restliche Tageslicht, während Sie sich den ruhigen Fluss hinuntertreiben lassen oder zwischen exotischen Fischen schnorcheln.",
+        "hu": "Autós utazása egy hatalmas luxus üdülőközpontnál indul, megadva a nyugodt trópusi alaphangot. Innen egy gyors út a lenyűgöző Yal-Ku lagúnába vezet a nap első sznorkelezési kalandjához.\n\nA dél a két világ legjavát ötvözi. Vezessen egy kristálytiszta cenotéhoz, hogy lehűljön az árnyékos dzsungelben, majd guruljon le Playa Akumalra a klasszikus karibi fehér homokos partokért.\n\nA délután lélegzetelállító tájat kínál, ahogy délre, Punta Sur felé vezet. A zord partvidék és a megtörő hullámok hihetetlen fotózási lehetőségeket biztosítanak, mielőtt a nagy finálé felé venné az irányt.\n\nZárja a napot Xel-Hában, egy masszív természetes víziparkban. Élvezze a maradék nappali fényt a lusta folyón lebegve, vagy egzotikus halak között sznorkelezve, látványosan lezárva az utat.",
+        "ro": "Excursia auto începe la o zonă extinsă de resorturi de lux, stabilind un ton tropical relaxat. De acolo, o scurtă plimbare vă duce la uimitoarea lagună Yal-Ku pentru prima aventură de snorkeling.\n\nPrânzul combină tot ce este mai bun. Conduceți la o cenotă cristalină pentru a vă răcori în jungla umbrită, apoi coborâți spre Playa Akumal pentru opțiuni de prânz și nisipuri albe clasice.\n\nDupă-amiaza oferă peisaje uluitoare în timp ce conduceți spre sud la Punta Sur. Coasta accidentată și valurile spumoase oferă oportunități foto incredibile înainte de a vă îndrepta spre marea finală.\n\nÎncheiați ziua la Xel-Há, un masiv parc acvatic natural. Bucurați-vă de lumina rămasă plutind pe râul leneș sau făcând snorkeling printre pești exotici, culminând excursia într-un mod spectaculos.",
+        "en": "Your road trip kicks off at a sprawling luxury resort area, setting a relaxed tropical tone. From there, a quick drive takes you to the stunning Yal-Ku lagoon for your first snorkeling adventure of the day.\n\nMidday combines the best of both worlds. Drive to a crystal-clear cenote to cool off in the shaded jungle, then cruise down to Playa Akumal for lunch options and classic Caribbean white sands.\n\nThe afternoon offers breathtaking scenery as you drive south to Punta Sur. The rugged coastline and crashing waves provide incredible photo opportunities before heading to your grand finale.\n\nFinish the day at Xel-Há, a massive natural aquatic park. Enjoy the remaining daylight floating down the lazy river or snorkeling among exotic fish, culminating your road trip in spectacular fashion."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "les-essarts-le-roi",
+  "anchor": {
+    "name": "Les Essarts-le-Roi",
+    "coords": [
+      1.8944,
+      48.7167
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:07",
+      "total_km": 5.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Les Essarts-le-Roi",
+            "hu": "Rathaus von Les Essarts-le-Roi",
+            "ro": "Rathaus von Les Essarts-le-Roi",
+            "en": "Rathaus von Les Essarts-le-Roi"
+          },
+          "coords": [
+            1.894659,
+            48.717784
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Fassade des Rathauses als Symbol des städtischen Lebens und werfen Sie einen Blick auf die Aushänge für kommende Veranstaltungen.",
+            "hu": "Csodálja meg a helyi városháza elegáns homlokzatát, amely a polgári élet szimbóluma, és érdemes megnézni a hirdetőtáblákat a közelgő eseményekért.",
+            "ro": "Admirați fațada elegantă a primăriei locale, un simbol al vieții civice, și nu uitați să verificați panourile pentru evenimentele viitoare.",
+            "en": "Admire the elegant facade of the local town hall, a symbol of civic life, and be sure to check the notice boards for upcoming community events."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Corneille-et-Saint-Cyprien",
+            "hu": "Kirche Saint-Corneille-et-Saint-Cyprien",
+            "ro": "Kirche Saint-Corneille-et-Saint-Cyprien",
+            "en": "Kirche Saint-Corneille-et-Saint-Cyprien"
+          },
+          "coords": [
+            1.893215,
+            48.716202
+          ],
+          "category": "religious",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese bezaubernde historische Kirche mit ihrer ruhigen Atmosphäre und betrachten Sie die atemberaubenden Buntglasfenster am besten im Morgenlicht.",
+            "hu": "Fedezze fel ezt a bájos történelmi templomot annak nyugodt légkörével, és figyelje meg a lenyűgöző ólomüveg ablakokat, amelyek reggeli fényben a legszebbek.",
+            "ro": "Explorați această biserică istorică fermecătoare cu atmosfera sa liniștită și priviți îndeaproape vitraliile uimitoare care se văd cel mai bine în lumina dimineții.",
+            "en": "Explore this charming historic church with its tranquil atmosphere, and look closely at the stunning stained glass windows best viewed in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-André",
+            "hu": "Église Saint-André",
+            "ro": "Église Saint-André",
+            "en": "Église Saint-André"
+          },
+          "coords": [
+            1.884839,
+            48.702598
+          ],
+          "category": "religious",
+          "arrive_at": "10:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Treten Sie in diese friedliche religiöse Stätte ein, um authentisches lokales Erbe zu erleben, und ruhen Sie sich einen Moment auf den Holzbänken am Eingang aus.",
+            "hu": "Lépjen be ebbe a békés vallási helyszínbe, hogy megtapasztalja az autentikus helyi örökséget, és pihenjen egy pillanatot a bejárat melletti fa padokon.",
+            "ro": "Intrați în acest sit religios senin pentru a experimenta moștenirea locală autentică și luați un moment pentru a vă odihni pe băncile de lemn din apropierea intrării.",
+            "en": "Step into this serene religious site to experience authentic local heritage, and take a moment to rest on the quiet wooden pews near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame-des-Layes",
+            "hu": "Chapelle Notre-Dame-des-Layes",
+            "ro": "Chapelle Notre-Dame-des-Layes",
+            "en": "Chapelle Notre-Dame-des-Layes"
+          },
+          "coords": [
+            1.919221,
+            48.715943
+          ],
+          "category": "religious",
+          "arrive_at": "12:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 43,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese versteckte Kapelle in der Landschaft, ein perfekter Ort für stille Reflexion, und tragen Sie bequeme Schuhe für den unebenen Weg.",
+            "hu": "Fedezze fel ezt a tájba simuló rejtett kápolnát, amely tökéletes hely a csendes elmélkedésre, de viseljen kényelmes cipőt az egyenetlen ösvény miatt.",
+            "ro": "Descoperiți această capelă ascunsă amplasată în peisaj, un loc perfect pentru reflecție liniștită, și purtați pantofi comozi deoarece poteca poate fi denivelată.",
+            "en": "Discover this hidden chapel nestled in the landscape, a perfect spot for quiet reflection, and wear comfortable walking shoes as the path can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle du Prieuré de l'Yvette",
+            "hu": "Chapelle du Prieuré de l'Yvette",
+            "ro": "Chapelle du Prieuré de l'Yvette",
+            "en": "Chapelle du Prieuré de l'Yvette"
+          },
+          "coords": [
+            1.924018,
+            48.722743
+          ],
+          "category": "religious",
+          "arrive_at": "12:57",
+          "stay_min": 70,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Überreste dieser faszinierenden Prioratskapelle, um mittelalterliche Geschichte zu entdecken, und bringen Sie eine Kamera für die Steinschnitzereien mit.",
+            "hu": "Látogasson el e lenyűgöző perjelségi kápolna romjaihoz a középkori történelem felfedezéséhez, és hozzon fényképezőgépet a bonyolult kőfaragások megörökítéséhez.",
+            "ro": "Vizitați rămășițele acestei fascinante capele de priorat pentru a descoperi istoria medievală și aduceți o cameră foto pentru a surprinde sculpturile în piatră.",
+            "en": "Visit the remnants of this fascinating priory chapel to uncover medieval history, and bring a small camera to capture the intricate stone carvings on the walls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen im Zentrum von Les Essarts-le-Roi, wo Sie das Rathaus und die Hauptkirche besichtigen. Mittags spazieren Sie durch ruhige Wohnstraßen in Richtung Süden, um lokale Geschichte hautnah zu erleben. Am Nachmittag wagen Sie sich nach Osten zu versteckten Kapellen in friedlicher Landschaft. Der Abend klingt mit ruhiger Besinnung in der Nähe des Yvette-Priorats aus.",
+        "hu": "Kezdje a reggelt Les Essarts-le-Roi központjában, megcsodálva a városházát és a főtemplomot. Délben csendes lakóutcákon át sétál a déli peremvidék felé a helyi történelemért. Délután kelet felé indul, hogy felfedezzen egy békés tájon megbúvó rejtett kápolnát. Az este csendes elmélkedéssel zárul az Yvette perjelség közelében, ami kellemes lezárása a gyalogos túrának.",
+        "ro": "Începeți dimineața în centrul localității Les Essarts-le-Roi, admirând centrul civic și biserica principală. La prânz, mergeți pe străzile liniștite spre periferia sudică pentru puțină istorie locală. După-amiaza, vă veți aventura spre est pentru a descoperi capele ascunse în peisaje senine. Seara se încheie cu o reflecție liniștită în apropierea prioratului Yvette.",
+        "en": "Begin your morning in the heart of Les Essarts-le-Roi, admiring the civic center before a peaceful stop at the main church. Midday leads you through quiet residential streets towards the southern outskirts for a touch of local history. In the afternoon, you'll venture eastward to discover hidden chapels nestled in serene landscapes. The evening concludes with quiet reflection near the Yvette priory."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:55",
+      "total_km": 9.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Les Essarts-le-Roi",
+            "hu": "Rathaus von Les Essarts-le-Roi",
+            "ro": "Rathaus von Les Essarts-le-Roi",
+            "en": "Rathaus von Les Essarts-le-Roi"
+          },
+          "coords": [
+            1.894659,
+            48.717784
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Fassade des Rathauses als Symbol des städtischen Lebens und werfen Sie einen Blick auf die Aushänge für kommende Veranstaltungen.",
+            "hu": "Csodálja meg a helyi városháza elegáns homlokzatát, amely a polgári élet szimbóluma, és érdemes megnézni a hirdetőtáblákat a közelgő eseményekért.",
+            "ro": "Admirați fațada elegantă a primăriei locale, un simbol al vieții civice, și nu uitați să verificați panourile pentru evenimentele viitoare.",
+            "en": "Admire the elegant facade of the local town hall, a symbol of civic life, and be sure to check the notice boards for upcoming community events."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Corneille-et-Saint-Cyprien",
+            "hu": "Kirche Saint-Corneille-et-Saint-Cyprien",
+            "ro": "Kirche Saint-Corneille-et-Saint-Cyprien",
+            "en": "Kirche Saint-Corneille-et-Saint-Cyprien"
+          },
+          "coords": [
+            1.893215,
+            48.716202
+          ],
+          "category": "religious",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese bezaubernde historische Kirche mit ihrer ruhigen Atmosphäre und betrachten Sie die atemberaubenden Buntglasfenster am besten im Morgenlicht.",
+            "hu": "Fedezze fel ezt a bájos történelmi templomot annak nyugodt légkörével, és figyelje meg a lenyűgöző ólomüveg ablakokat, amelyek reggeli fényben a legszebbek.",
+            "ro": "Explorați această biserică istorică fermecătoare cu atmosfera sa liniștită și priviți îndeaproape vitraliile uimitoare care se văd cel mai bine în lumina dimineții.",
+            "en": "Explore this charming historic church with its tranquil atmosphere, and look closely at the stunning stained glass windows best viewed in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Prieuré des Hautes-Bruyères (ancien)",
+            "hu": "Prieuré des Hautes-Bruyères (ancien)",
+            "ro": "Prieuré des Hautes-Bruyères (ancien)",
+            "en": "Prieuré des Hautes-Bruyères (ancien)"
+          },
+          "coords": [
+            1.893822,
+            48.739091
+          ],
+          "category": "historical",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie über das Gelände dieses alten historischen Priorats, um sich vergangene Jahrhunderte vorzustellen, und lesen Sie vorher eine kurze Geschichte online.",
+            "hu": "Sétáljon körbe ezen az ősi történelmi perjelségen, hogy elképzelje az elmúlt évszázadokat, és érdemes előtte online elolvasni egy rövid történeti összefoglalót.",
+            "ro": "Plimbați-vă pe domeniul acestui vechi priorat istoric pentru a vă imagina secolele trecute și luați în considerare citirea unei scurte istorii online în prealabil.",
+            "en": "Wander around the grounds of this ancient historical priory to imagine centuries past, and consider reading a brief history online beforehand to enrich your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle du Prieuré de l'Yvette",
+            "hu": "Chapelle du Prieuré de l'Yvette",
+            "ro": "Chapelle du Prieuré de l'Yvette",
+            "en": "Chapelle du Prieuré de l'Yvette"
+          },
+          "coords": [
+            1.924018,
+            48.722743
+          ],
+          "category": "religious",
+          "arrive_at": "12:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Überreste dieser faszinierenden Prioratskapelle, um mittelalterliche Geschichte zu entdecken, und bringen Sie eine Kamera für die Steinschnitzereien mit.",
+            "hu": "Látogasson el e lenyűgöző perjelségi kápolna romjaihoz a középkori történelem felfedezéséhez, és hozzon fényképezőgépet a bonyolult kőfaragások megörökítéséhez.",
+            "ro": "Vizitați rămășițele acestei fascinante capele de priorat pentru a descoperi istoria medievală și aduceți o cameră foto pentru a surprinde sculpturile în piatră.",
+            "en": "Visit the remnants of this fascinating priory chapel to uncover medieval history, and bring a small camera to capture the intricate stone carvings on the walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame-des-Layes",
+            "hu": "Chapelle Notre-Dame-des-Layes",
+            "ro": "Chapelle Notre-Dame-des-Layes",
+            "en": "Chapelle Notre-Dame-des-Layes"
+          },
+          "coords": [
+            1.919221,
+            48.715943
+          ],
+          "category": "religious",
+          "arrive_at": "12:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese versteckte Kapelle in der Landschaft, ein perfekter Ort für stille Reflexion, und tragen Sie bequeme Schuhe für den unebenen Weg.",
+            "hu": "Fedezze fel ezt a tájba simuló rejtett kápolnát, amely tökéletes hely a csendes elmélkedésre, de viseljen kényelmes cipőt az egyenetlen ösvény miatt.",
+            "ro": "Descoperiți această capelă ascunsă amplasată în peisaj, un loc perfect pentru reflecție liniștită, și purtați pantofi comozi deoarece poteca poate fi denivelată.",
+            "en": "Discover this hidden chapel nestled in the landscape, a perfect spot for quiet reflection, and wear comfortable walking shoes as the path can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-André",
+            "hu": "Église Saint-André",
+            "ro": "Église Saint-André",
+            "en": "Église Saint-André"
+          },
+          "coords": [
+            1.884839,
+            48.702598
+          ],
+          "category": "religious",
+          "arrive_at": "13:45",
+          "stay_min": 70,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Treten Sie in diese friedliche religiöse Stätte ein, um authentisches lokales Erbe zu erleben, und ruhen Sie sich einen Moment auf den Holzbänken am Eingang aus.",
+            "hu": "Lépjen be ebbe a békés vallási helyszínbe, hogy megtapasztalja az autentikus helyi örökséget, és pihenjen egy pillanatot a bejárat melletti fa padokon.",
+            "ro": "Intrați în acest sit religios senin pentru a experimenta moștenirea locală autentică și luați un moment pentru a vă odihni pe băncile de lemn din apropierea intrării.",
+            "en": "Step into this serene religious site to experience authentic local heritage, and take a moment to rest on the quiet wooden pews near the entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Rathaus und radeln Sie schnell zur nahegelegenen Kirche, um die morgendliche Ruhe zu genießen. Gegen Mittag fahren Sie gen Norden zum alten Priorat Hautes-Bruyères. Der Nachmittag führt Sie auf einer malerischen Schleife vorbei an den Kapellen Yvette und Layes. Beenden Sie Ihre Fahrt am frühen Abend an der historischen Église Saint-André.",
+        "hu": "Kezdje a kerékpártúrát a városházánál, majd gyorsan tekerjen a közeli templomhoz a reggeli nyugalomért. Dél körül pedálozzon északra az ősi Hautes-Bruyères perjelséghez. A délután egy festői körútra visz az Yvette és a Layes kápolnák mellett, élvezve a csendet. A kora esti órákban fejezze be túráját a történelmi Église Saint-André-nél, mielőtt hazatérne pihenni.",
+        "ro": "Începeți călătoria cu bicicleta la primărie, trecând rapid la biserica din apropiere pentru a vă bucura de liniștea dimineții. La prânz, pedalați spre nord până la vechiul priorat Hautes-Bruyères. După-amiaza vă duce într-o buclă pitorească pe lângă capelele Yvette și Layes. Terminați plimbarea la începutul serii la istorica Église Saint-André înainte de a pleca acasă.",
+        "en": "Start your cycling journey at the town hall, swiftly moving to the nearby church to soak in the morning tranquility. By midday, pedal northwards to the ancient Hautes-Bruyères priory, enjoying the fresh breeze and open roads. The afternoon takes you on a scenic loop past the Yvette and Layes chapels. Finish your ride in the early evening at the historic Église Saint-André before heading home."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:39",
+      "total_km": 20.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Les Essarts-le-Roi",
+            "hu": "Rathaus von Les Essarts-le-Roi",
+            "ro": "Rathaus von Les Essarts-le-Roi",
+            "en": "Rathaus von Les Essarts-le-Roi"
+          },
+          "coords": [
+            1.894659,
+            48.717784
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Fassade des Rathauses als Symbol des städtischen Lebens und werfen Sie einen Blick auf die Aushänge für kommende Veranstaltungen.",
+            "hu": "Csodálja meg a helyi városháza elegáns homlokzatát, amely a polgári élet szimbóluma, és érdemes megnézni a hirdetőtáblákat a közelgő eseményekért.",
+            "ro": "Admirați fațada elegantă a primăriei locale, un simbol al vieții civice, și nu uitați să verificați panourile pentru evenimentele viitoare.",
+            "en": "Admire the elegant facade of the local town hall, a symbol of civic life, and be sure to check the notice boards for upcoming community events."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Corneille-et-Saint-Cyprien",
+            "hu": "Kirche Saint-Corneille-et-Saint-Cyprien",
+            "ro": "Kirche Saint-Corneille-et-Saint-Cyprien",
+            "en": "Kirche Saint-Corneille-et-Saint-Cyprien"
+          },
+          "coords": [
+            1.893215,
+            48.716202
+          ],
+          "category": "religious",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese bezaubernde historische Kirche mit ihrer ruhigen Atmosphäre und betrachten Sie die atemberaubenden Buntglasfenster am besten im Morgenlicht.",
+            "hu": "Fedezze fel ezt a bájos történelmi templomot annak nyugodt légkörével, és figyelje meg a lenyűgöző ólomüveg ablakokat, amelyek reggeli fényben a legszebbek.",
+            "ro": "Explorați această biserică istorică fermecătoare cu atmosfera sa liniștită și priviți îndeaproape vitraliile uimitoare care se văd cel mai bine în lumina dimineții.",
+            "en": "Explore this charming historic church with its tranquil atmosphere, and look closely at the stunning stained glass windows best viewed in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Prieuré des Hautes-Bruyères (ancien)",
+            "hu": "Prieuré des Hautes-Bruyères (ancien)",
+            "ro": "Prieuré des Hautes-Bruyères (ancien)",
+            "en": "Prieuré des Hautes-Bruyères (ancien)"
+          },
+          "coords": [
+            1.893822,
+            48.739091
+          ],
+          "category": "historical",
+          "arrive_at": "10:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie über das Gelände dieses alten historischen Priorats, um sich vergangene Jahrhunderte vorzustellen, und lesen Sie vorher eine kurze Geschichte online.",
+            "hu": "Sétáljon körbe ezen az ősi történelmi perjelségen, hogy elképzelje az elmúlt évszázadokat, és érdemes előtte online elolvasni egy rövid történeti összefoglalót.",
+            "ro": "Plimbați-vă pe domeniul acestui vechi priorat istoric pentru a vă imagina secolele trecute și luați în considerare citirea unei scurte istorii online în prealabil.",
+            "en": "Wander around the grounds of this ancient historical priory to imagine centuries past, and consider reading a brief history online beforehand to enrich your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Wald von Rambouillet",
+            "hu": "Wald von Rambouillet",
+            "ro": "Wald von Rambouillet",
+            "en": "Wald von Rambouillet"
+          },
+          "coords": [
+            1.944108,
+            48.752927
+          ],
+          "category": "natural",
+          "arrive_at": "11:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.9,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich im weitläufigen Grün dieses riesigen Waldes für Naturliebhaber und vergessen Sie nicht, reichlich Wasser und eine verlässliche Wanderkarte einzupacken.",
+            "hu": "Vesszen el ennek a hatalmas erdőnek a kiterjedt zöldjében, amely ideális a szabadtér szerelmeseinek, és ne felejtsen el sok vizet és megbízható térképet vinni.",
+            "ro": "Pierdeți-vă în verdeața vastă a acestei păduri masive ideale pentru iubitorii de aer liber și nu uitați să împachetați multă apă și o hartă de încredere.",
+            "en": "Lose yourself in the sprawling greenery of this massive forest ideal for outdoor lovers, and don't forget to pack plenty of water and a reliable map for the trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle du Prieuré de l'Yvette",
+            "hu": "Chapelle du Prieuré de l'Yvette",
+            "ro": "Chapelle du Prieuré de l'Yvette",
+            "en": "Chapelle du Prieuré de l'Yvette"
+          },
+          "coords": [
+            1.924018,
+            48.722743
+          ],
+          "category": "religious",
+          "arrive_at": "13:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Überreste dieser faszinierenden Prioratskapelle, um mittelalterliche Geschichte zu entdecken, und bringen Sie eine Kamera für die Steinschnitzereien mit.",
+            "hu": "Látogasson el e lenyűgöző perjelségi kápolna romjaihoz a középkori történelem felfedezéséhez, és hozzon fényképezőgépet a bonyolult kőfaragások megörökítéséhez.",
+            "ro": "Vizitați rămășițele acestei fascinante capele de priorat pentru a descoperi istoria medievală și aduceți o cameră foto pentru a surprinde sculpturile în piatră.",
+            "en": "Visit the remnants of this fascinating priory chapel to uncover medieval history, and bring a small camera to capture the intricate stone carvings on the walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de l'Yveline",
+            "hu": "Parc de l'Yveline",
+            "ro": "Parc de l'Yveline",
+            "en": "Parc de l'Yveline"
+          },
+          "coords": [
+            1.93823,
+            48.675803
+          ],
+          "category": "natural",
+          "arrive_at": "14:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem gepflegten Naturpark mit malerischen Spazierwegen und suchen Sie sich ein gemütliches Plätzchen unter den alten Bäumen für ein Picknick.",
+            "hu": "Pihenjen meg ebben a gyönyörűen karbantartott természeti parkban, amely festői ösvényeket kínál, és keressen egy hangulatos helyet az öreg fák alatt piknikezéshez.",
+            "ro": "Relaxați-vă în acest parc natural frumos întreținut, care oferă poteci pitorești, și găsiți un loc confortabil sub copacii bătrâni pentru un picnic plăcut.",
+            "en": "Relax in this beautifully maintained natural park offering scenic walking paths, and find a cozy spot under the large old trees for a pleasant mid-afternoon picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-André",
+            "hu": "Église Saint-André",
+            "ro": "Église Saint-André",
+            "en": "Église Saint-André"
+          },
+          "coords": [
+            1.884839,
+            48.702598
+          ],
+          "category": "religious",
+          "arrive_at": "15:29",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.7,
+          "tip_5lang": {
+            "de": "Treten Sie in diese friedliche religiöse Stätte ein, um authentisches lokales Erbe zu erleben, und ruhen Sie sich einen Moment auf den Holzbänken am Eingang aus.",
+            "hu": "Lépjen be ebbe a békés vallási helyszínbe, hogy megtapasztalja az autentikus helyi örökséget, és pihenjen egy pillanatot a bejárat melletti fa padokon.",
+            "ro": "Intrați în acest sit religios senin pentru a experimenta moștenirea locală autentică și luați un moment pentru a vă odihni pe băncile de lemn din apropierea intrării.",
+            "en": "Step into this serene religious site to experience authentic local heritage, and take a moment to rest on the quiet wooden pews near the entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour am Rathaus und der markanten Saint-Corneille-Kirche. Ihr Mittagsabenteuer umfasst eine kurze Fahrt nach Norden, um das faszinierende Priorat und den riesigen Wald von Rambouillet zu erkunden. Am Nachmittag fahren Sie in den Süden zur Prioratskapelle und zum Yveline-Park. Ihr Roadtrip endet friedlich an der wunderschönen Saint-André-Kirche.",
+        "hu": "Kezdje az autós túrát a központi városházánál és a lenyűgöző Saint-Corneille templomnál. A déli kaland egy rövid északi utazást foglal magában a lenyűgöző perjelség és a hatalmas Rambouillet erdő felfedezésére. Délután autózzon délre a bájos kápolna és a kiterjedt Yveline park meglátogatásához. Az utazás a gyönyörű Saint-André templomnál ér nyugodt véget.",
+        "ro": "Începeți turul cu mașina la primăria centrală și la biserica impresionantă Saint-Corneille. Aventura de la prânz implică o plimbare scurtă spre nord pentru a explora prioratul și vasta pădure Rambouillet. După-amiaza, conduceți spre sud pentru a descoperi capela fermecătoare și parcul întins Yveline. Excursia se încheie la frumoasa biserică Saint-André.",
+        "en": "Kick off your driving tour at the central town hall and the striking Saint-Corneille church. Your midday adventure involves a quick drive north to explore the fascinating historical priory and the vast Rambouillet forest. In the afternoon, cruise south to discover the charming priory chapel and the expansive Yveline park. Your road trip winds down at the beautiful Saint-André church."
+      }
+    }
+  }
+}

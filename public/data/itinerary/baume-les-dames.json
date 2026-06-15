@@ -1,0 +1,543 @@
+{
+  "city_id": "baume-les-dames",
+  "anchor": {
+    "name": "Baume-les-Dames",
+    "coords": [
+      6.36,
+      47.3522
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:32",
+      "total_km": 1.29,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Abtei Sainte-Odile",
+            "hu": "Sainte-Odile Apátság",
+            "ro": "Abația Sainte-Odile",
+            "en": "Sainte-Odile Abbey"
+          },
+          "coords": [
+            6.362361,
+            47.352165
+          ],
+          "category": "monastic",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die architektonischen Überreste dieser historischen Klosteranlage, die lokales Erbe widerspiegelt, aber tragen Sie bequeme Schuhe für die unebenen Böden.",
+            "hu": "Csodálja meg a történelmi kolostor építészeti maradványait, amelyek évszázados örökséget tükröznek, de viseljen kényelmes cipőt az egyenetlen ősi padlók miatt.",
+            "ro": "Admirați rămășițele arhitecturale impresionante ale acestui sit monahal istoric, ce reflectă secole de moștenire, dar purtați încălțăminte confortabilă pe podelele vechi.",
+            "en": "Admire the impressive architectural remnants of this historic monastic site reflecting centuries of heritage, but wear comfortable shoes for the uneven ancient floors."
+          }
+        },
+        {
+          "name": {
+            "de": "Turmhaus",
+            "hu": "Tornyos Ház",
+            "ro": "Casa cu Turele",
+            "en": "Turret House"
+          },
+          "coords": [
+            6.3614,
+            47.3523
+          ],
+          "category": "historical",
+          "arrive_at": "10:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die elegante Fassade und die historischen Details dieses Renaissancegebäudes, aber kommen Sie früh, um Fotos ohne die grelle Mittagssonne zu machen.",
+            "hu": "Fedezze fel a kiemelkedő reneszánsz épület elegáns homlokzatát és részleteit, de érkezzen korán, hogy a legjobb fotókat a déli napsütés vakítása nélkül készítse el.",
+            "ro": "Explorați fațada elegantă și detaliile istorice ale acestei clădiri renascentiste proeminente, dar încercați să ajungeți devreme pentru fotografii fără soarele amiezii.",
+            "en": "Explore the elegant facade and historical details of this prominent Renaissance building, but try to arrive early to capture the best photos without midday sun glare."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Martin",
+            "hu": "Saint-Martin Templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            6.362132,
+            47.353325
+          ],
+          "category": "religious",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses wunderschön erhaltene religiöse Denkmal, um seinen Altar zu betrachten, und genießen Sie einen Moment der Stille im kühlen Kirchenschiff.",
+            "hu": "Lépjen be a gyönyörűen megőrzött vallási műemlékbe a bonyolult oltárképért, és töltsön el egy csendes percet a meglepően hűvös, békés főhajóban.",
+            "ro": "Pășiți în acest monument religios frumos conservat pentru a observa altarul său complex și oferiți-vă un moment de reflecție în naosul surprinzător de răcoros.",
+            "en": "Step inside this beautifully preserved religious monument to observe its intricate altarpiece, and take a moment of quiet reflection in the peaceful, cool nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle des Heiligen Grabes",
+            "hu": "Szent Sír-kápolna",
+            "ro": "Capela Sfântului Mormânt",
+            "en": "Chapel of the Holy Sepulchre"
+          },
+          "coords": [
+            6.362616,
+            47.354727
+          ],
+          "category": "religious",
+          "arrive_at": "12:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Entdecken Sie die tiefe Gelassenheit dieser kleinen historischen Kapelle mit klassischer Architektur und bringen Sie eine Taschenlampe mit für die dunklen Details.",
+            "hu": "Fedezze fel a kis történelmi kápolna mély nyugalmát és klasszikus kőépítészetét, de hozzon zseblámpát a sötétebb belső részletek jobb értékeléséhez.",
+            "ro": "Descoperiți seninătatea profundă a acestei mici capele istorice cu arhitectură clasică și aduceți o lanternă pentru a aprecia mai bine detaliile interioare întunecate.",
+            "en": "Discover the profound serenity of this small historic chapel with classic stone architecture, and bring a small flashlight to better appreciate the darker interior details."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Jungfrau der Cholera",
+            "hu": "A Kolera Szüze",
+            "ro": "Fecioara Holerei",
+            "en": "The Virgin of Cholera"
+          },
+          "coords": [
+            6.364729,
+            47.353894
+          ],
+          "category": "natural",
+          "arrive_at": "13:01",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses einzigartige Denkmal aus der Zeit der Cholera-Epidemie und nutzen Sie den sanften Weg für einen tollen ersten Talblick über die Region.",
+            "hu": "Látogassa meg a kolerajárvány idején emelt egyedi emlékművet a város kitartásáért, és közelítse meg az enyhe ösvényen a völgyre nyíló lenyűgöző kilátásért.",
+            "ro": "Vizitați acest monument unic ridicat în timpul epidemiei de holeră pentru a înțelege reziliența orașului și apropiați-vă pe cărarea lină pentru o panoramă superbă.",
+            "en": "Visit this unique memorial statue erected during the cholera epidemic to understand the town's resilience, and approach via the gentle path for a rewarding valley overview."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Sous-Buen",
+            "hu": "Sous-Buen Kilátó",
+            "ro": "Punct de Belvedere Sous-Buen",
+            "en": "Sous-Buen Viewpoint"
+          },
+          "coords": [
+            6.371555,
+            47.350024
+          ],
+          "category": "recreational",
+          "arrive_at": "13:37",
+          "stay_min": 55,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Panoramablick auf den Fluss Doubs, der sich durch die grüne Landschaft schlängelt, und bringen Sie ein Fernglas mit für die Vogelwelt.",
+            "hu": "Élvezze a zöldellő tájon kanyargó Doubs folyó lenyűgöző panorámáját, és érdemes távcsövet hozni a víz mentén élő változatos madárvilág megfigyeléséhez.",
+            "ro": "Admirați priveliștile panoramice ample ale râului Doubs ce șerpuiește prin peisajul verde luxuriant și luați un binoclu pentru a observa diversele păsări de pe apă.",
+            "en": "Take in the sweeping panoramic views of the Doubs river winding through the lush green landscape, and consider bringing binoculars to spot diverse birdlife along the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihren Rundgang im historischen Herzen von Baume-les-Dames, erkunden Sie klösterliche Ruinen und elegante Renaissance-Fassaden, die von der reichen Vergangenheit erzählen.\nMidday: Setzen Sie Ihren Spaziergang zum religiösen Erbe des Stadtzentrums fort, bewundern Sie gut erhaltene Kirchen und Kapellen, bevor Sie eine wohlverdiente Mittagspause einlegen.\nAfternoon: Steigen Sie leicht zu den malerischen Denkmälern auf, lernen Sie die Geschichte der Stadt kennen und genießen Sie ruhige, grüne Pfade, die die Landschaft enthüllen.\nEvening: Beenden Sie Ihre Wanderung an einem herrlichen Aussichtspunkt über das Doubs-Tal und beobachten Sie, wie sich das späte Licht im Fluss spiegelt, bevor Sie zurückkehren.",
+        "hu": "Morning: Kezdje sétáját Baume-les-Dames történelmi szívében, fedezze fel az ősi kolostorromokat és az elegáns reneszánsz homlokzatokat, amelyek gazdag múltjáról mesélnek.\nMidday: Folytassa útját a városközpont vallási öröksége felé, csodálja meg a gondosan megőrzött templomokat és kápolnákat, mielőtt megállna egy helyi ebédre.\nAfternoon: Enyhén emelkedjen fel a festői emlékművek felé, megismerve a város kitartásának történetét, miközben élvezi a békés, lombos ösvényeket.\nEvening: Zárja sétáját a Doubs-völgyre nyíló csodálatos kilátóponton, figyelve, ahogy a késői fény megcsillan a folyón, mielőtt visszatérne a pezsgő központba.",
+        "ro": "Morning: Începeți plimbarea în inima istorică a orașului Baume-les-Dames, explorând ruinele monahale antice și fațadele renascentiste elegante care spun povestea trecutului său bogat.\nMidday: Continuați plimbarea spre moștenirea religioasă a centrului orașului, oprindu-vă pentru a admira bisericile frumos conservate înainte de o pauză pentru prânz.\nAfternoon: Urcați ușor spre monumentele pitorești, învățând despre istoria de reziliență a orașului, în timp ce vă bucurați de cărările pașnice și înfrunzite ce dezvăluie peisajul.\nEvening: Încheiați-vă plimbarea la un punct de belvedere magnific cu vedere la valea Doubs, privind cum lumina târzie se reflectă pe râu înainte de a vă întoarce.",
+        "en": "Morning: Begin your walking tour in the historic heart of Baume-les-Dames, exploring the ancient monastic ruins and the elegant Renaissance facades that tell the story of its rich past.\nMidday: Continue your stroll towards the religious heritage of the town center, stopping to admire carefully preserved churches and chapels before pausing for a local lunch.\nAfternoon: Ascend slightly towards the scenic memorials, learning about the town's history of resilience while enjoying the peaceful, leafy paths that begin to reveal the landscape.\nEvening: Conclude your walk at a magnificent viewpoint overlooking the Doubs valley, watching the late light reflect off the river before heading back to the vibrant town center."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:51",
+      "total_km": 2.45,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Turmhaus",
+            "hu": "Tornyos Ház",
+            "ro": "Casa cu Turele",
+            "en": "Turret House"
+          },
+          "coords": [
+            6.3614,
+            47.3523
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die elegante Fassade und die historischen Details dieses Renaissancegebäudes, aber kommen Sie früh, um Fotos ohne die grelle Mittagssonne zu machen.",
+            "hu": "Fedezze fel a kiemelkedő reneszánsz épület elegáns homlokzatát és részleteit, de érkezzen korán, hogy a legjobb fotókat a déli napsütés vakítása nélkül készítse el.",
+            "ro": "Explorați fațada elegantă și detaliile istorice ale acestei clădiri renascentiste proeminente, dar încercați să ajungeți devreme pentru fotografii fără soarele amiezii.",
+            "en": "Explore the elegant facade and historical details of this prominent Renaissance building, but try to arrive early to capture the best photos without midday sun glare."
+          }
+        },
+        {
+          "name": {
+            "de": "Abtei Sainte-Odile",
+            "hu": "Sainte-Odile Apátság",
+            "ro": "Abația Sainte-Odile",
+            "en": "Sainte-Odile Abbey"
+          },
+          "coords": [
+            6.362361,
+            47.352165
+          ],
+          "category": "monastic",
+          "arrive_at": "10:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die architektonischen Überreste dieser historischen Klosteranlage, die lokales Erbe widerspiegelt, aber tragen Sie bequeme Schuhe für die unebenen Böden.",
+            "hu": "Csodálja meg a történelmi kolostor építészeti maradványait, amelyek évszázados örökséget tükröznek, de viseljen kényelmes cipőt az egyenetlen ősi padlók miatt.",
+            "ro": "Admirați rămășițele arhitecturale impresionante ale acestui sit monahal istoric, ce reflectă secole de moștenire, dar purtați încălțăminte confortabilă pe podelele vechi.",
+            "en": "Admire the impressive architectural remnants of this historic monastic site reflecting centuries of heritage, but wear comfortable shoes for the uneven ancient floors."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Martin",
+            "hu": "Saint-Martin Templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            6.362132,
+            47.353325
+          ],
+          "category": "religious",
+          "arrive_at": "11:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses wunderschön erhaltene religiöse Denkmal, um seinen Altar zu betrachten, und genießen Sie einen Moment der Stille im kühlen Kirchenschiff.",
+            "hu": "Lépjen be a gyönyörűen megőrzött vallási műemlékbe a bonyolult oltárképért, és töltsön el egy csendes percet a meglepően hűvös, békés főhajóban.",
+            "ro": "Pășiți în acest monument religios frumos conservat pentru a observa altarul său complex și oferiți-vă un moment de reflecție în naosul surprinzător de răcoros.",
+            "en": "Step inside this beautifully preserved religious monument to observe its intricate altarpiece, and take a moment of quiet reflection in the peaceful, cool nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Jungfrau der Cholera",
+            "hu": "A Kolera Szüze",
+            "ro": "Fecioara Holerei",
+            "en": "The Virgin of Cholera"
+          },
+          "coords": [
+            6.364729,
+            47.353894
+          ],
+          "category": "natural",
+          "arrive_at": "12:14",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses einzigartige Denkmal aus der Zeit der Cholera-Epidemie und nutzen Sie den sanften Weg für einen tollen ersten Talblick über die Region.",
+            "hu": "Látogassa meg a kolerajárvány idején emelt egyedi emlékművet a város kitartásáért, és közelítse meg az enyhe ösvényen a völgyre nyíló lenyűgöző kilátásért.",
+            "ro": "Vizitați acest monument unic ridicat în timpul epidemiei de holeră pentru a înțelege reziliența orașului și apropiați-vă pe cărarea lină pentru o panoramă superbă.",
+            "en": "Visit this unique memorial statue erected during the cholera epidemic to understand the town's resilience, and approach via the gentle path for a rewarding valley overview."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Sous-Buen",
+            "hu": "Sous-Buen Kilátó",
+            "ro": "Punct de Belvedere Sous-Buen",
+            "en": "Sous-Buen Viewpoint"
+          },
+          "coords": [
+            6.371555,
+            47.350024
+          ],
+          "category": "recreational",
+          "arrive_at": "12:43",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Panoramablick auf den Fluss Doubs, der sich durch die grüne Landschaft schlängelt, und bringen Sie ein Fernglas mit für die Vogelwelt.",
+            "hu": "Élvezze a zöldellő tájon kanyargó Doubs folyó lenyűgöző panorámáját, és érdemes távcsövet hozni a víz mentén élő változatos madárvilág megfigyeléséhez.",
+            "ro": "Admirați priveliștile panoramice ample ale râului Doubs ce șerpuiește prin peisajul verde luxuriant și luați un binoclu pentru a observa diversele păsări de pe apă.",
+            "en": "Take in the sweeping panoramic views of the Doubs river winding through the lush green landscape, and consider bringing binoculars to spot diverse birdlife along the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Pierre-et-Saint-Paul",
+            "hu": "Szent Péter és Pál-templom",
+            "ro": "Biserica Saint-Pierre-et-Saint-Paul",
+            "en": "Church of Saint Peter and Saint Paul"
+          },
+          "coords": [
+            6.367592,
+            47.343733
+          ],
+          "category": "religious",
+          "arrive_at": "13:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Betrachten Sie die historische Präsenz dieser robusten Kirche im südlichen Bezirk und fahren Sie um das Gebäude herum, um ihr imposantes Design zu erfassen.",
+            "hu": "Vizsgálja meg a déli negyedet horgonyzó robusztus templom történelmi jelenlétét, és először járja körbe, hogy teljesen megértse impozáns szerkezetét.",
+            "ro": "Examinați prezența istorică puternică a acestei biserici robuste care ancorează cartierul sudic și ocoliți exteriorul pentru a-i înțelege designul impunător.",
+            "en": "Examine the strong historical presence of this robust church anchoring the southern district, and walk around the exterior first to fully grasp its imposing structural design."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Croix de Châtard",
+            "hu": "Croix de Châtard Kilátó",
+            "ro": "Punct de Belvedere Croix de Châtard",
+            "en": "Croix de Châtard Viewpoint"
+          },
+          "coords": [
+            6.367129,
+            47.339282
+          ],
+          "category": "natural",
+          "arrive_at": "13:56",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem markanten Kreuz für einen unvergleichlichen Aussichtspunkt über die Region, aber bereiten Sie sich mit einer Windjacke auf eine frische Brise vor.",
+            "hu": "Tekerjen fel a kiemelkedő kereszthez, hogy páratlan kilátópontból csodálja meg a régiót, de készüljön fel a tetőn fújó erős szélre egy könnyű széldzsekivel.",
+            "ro": "Urcați la această cruce proeminentă pentru un punct de belvedere de neegalat asupra întregii regiuni, dar pregătiți-vă pentru un vânt tăios la vârf aducând o jachetă.",
+            "en": "Ride up to this prominent cross for an unparalleled vantage point over the entire region, but prepare for a brisk wind at the top by packing a light windbreaker."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Radeln Sie ins Zentrum, um das historische Renaissance-Haus und die klösterlichen Überreste zu bewundern und so einen schnellen, aber tiefen Einstieg in das Erbe zu finden.\nMidday: Fahren Sie durch ruhige Straßen, die die große Kirche und das Denkmal verbinden, und nutzen Sie Ihr Fahrrad, um die sanften Hänge mühelos zu meistern.\nAfternoon: Gleiten Sie nach Süden zur imposanten Église Saint-Pierre-et-Saint-Paul und spüren Sie die frische Brise des Tals, während Sie die engen Gassen hinter sich lassen.\nEvening: Fahren Sie hinauf zur panoramischen Croix de Châtard für einen unvergesslichen Blick auf den Sonnenuntergang und belohnen Sie sich mit der Aussicht auf das Doubs-Tal.",
+        "hu": "Morning: Tekerjen a központba, hogy megcsodálja a történelmi reneszánsz házat és a kolostor maradványait, gyors, de mélyreható betekintést nyerve a város kulturális örökségébe.\nMidday: Lovagoljon át a csendes utcákon a nagy templom és a domboldali emlékmű között, kihasználva a kerékpár előnyeit az enyhe lejtőkön egy pihentető ebéd előtt.\nAfternoon: Guruljon dél felé az impozáns Église Saint-Pierre-et-Saint-Paul felé, érezve a völgy friss szellőjét, ahogy a szűk utcákról tágasabb utakra tér át.\nEvening: Küzdje le a Croix de Châtard emelkedőjét egy felejthetetlen naplemente látványáért, megjutalmazva kerékpáros erőfeszítéseit a Doubs folyó egész régiójának panorámájával.",
+        "ro": "Morning: Pedalați spre centru pentru a admira casa istorică renascentistă și rămășițele monahale, având un start rapid, dar captivant, în moștenirea culturală profundă a orașului.\nMidday: Mergeți pe străzile liniștite care leagă marea biserică și memorialul de pe deal, profitând de bicicletă pentru a naviga ușor pe pantele blânde.\nAfternoon: Alunecați spre sud către impunătoarea Église Saint-Pierre-et-Saint-Paul, simțind briza proaspătă a văii în timp ce treceți de la străzi înguste la bulevarde.\nEvening: Urcați la panoramica Croix de Châtard pentru o vedere de neuitat la apus, recompensându-vă eforturile cu o perspectivă vastă asupra întregii regiuni a râului Doubs.",
+        "en": "Morning: Pedal into the center to admire the historic Renaissance house and the monastic remnants, getting a quick but immersive start to the town's profound cultural legacy.\nMidday: Ride through the quiet streets connecting the grand church and the hillside memorial, taking advantage of your bike to easily navigate the gentle slopes before a break.\nAfternoon: Glide south towards the imposing Église Saint-Pierre-et-Saint-Paul, feeling the fresh breeze of the valley as you transition from narrow streets to broader avenues.\nEvening: Push up to the panoramic Croix de Châtard for an unforgettable sunset view, rewarding your cycling efforts with an expansive vista of the entire Doubs river region."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:25",
+      "total_km": 2.61,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Abtei Sainte-Odile",
+            "hu": "Sainte-Odile Apátság",
+            "ro": "Abația Sainte-Odile",
+            "en": "Sainte-Odile Abbey"
+          },
+          "coords": [
+            6.362361,
+            47.352165
+          ],
+          "category": "monastic",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die architektonischen Überreste dieser historischen Klosteranlage, die lokales Erbe widerspiegelt, aber tragen Sie bequeme Schuhe für die unebenen Böden.",
+            "hu": "Csodálja meg a történelmi kolostor építészeti maradványait, amelyek évszázados örökséget tükröznek, de viseljen kényelmes cipőt az egyenetlen ősi padlók miatt.",
+            "ro": "Admirați rămășițele arhitecturale impresionante ale acestui sit monahal istoric, ce reflectă secole de moștenire, dar purtați încălțăminte confortabilă pe podelele vechi.",
+            "en": "Admire the impressive architectural remnants of this historic monastic site reflecting centuries of heritage, but wear comfortable shoes for the uneven ancient floors."
+          }
+        },
+        {
+          "name": {
+            "de": "Turmhaus",
+            "hu": "Tornyos Ház",
+            "ro": "Casa cu Turele",
+            "en": "Turret House"
+          },
+          "coords": [
+            6.3614,
+            47.3523
+          ],
+          "category": "historical",
+          "arrive_at": "10:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die elegante Fassade und die historischen Details dieses Renaissancegebäudes, aber kommen Sie früh, um Fotos ohne die grelle Mittagssonne zu machen.",
+            "hu": "Fedezze fel a kiemelkedő reneszánsz épület elegáns homlokzatát és részleteit, de érkezzen korán, hogy a legjobb fotókat a déli napsütés vakítása nélkül készítse el.",
+            "ro": "Explorați fațada elegantă și detaliile istorice ale acestei clădiri renascentiste proeminente, dar încercați să ajungeți devreme pentru fotografii fără soarele amiezii.",
+            "en": "Explore the elegant facade and historical details of this prominent Renaissance building, but try to arrive early to capture the best photos without midday sun glare."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Martin",
+            "hu": "Saint-Martin Templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            6.362132,
+            47.353325
+          ],
+          "category": "religious",
+          "arrive_at": "11:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses wunderschön erhaltene religiöse Denkmal, um seinen Altar zu betrachten, und genießen Sie einen Moment der Stille im kühlen Kirchenschiff.",
+            "hu": "Lépjen be a gyönyörűen megőrzött vallási műemlékbe a bonyolult oltárképért, és töltsön el egy csendes percet a meglepően hűvös, békés főhajóban.",
+            "ro": "Pășiți în acest monument religios frumos conservat pentru a observa altarul său complex și oferiți-vă un moment de reflecție în naosul surprinzător de răcoros.",
+            "en": "Step inside this beautifully preserved religious monument to observe its intricate altarpiece, and take a moment of quiet reflection in the peaceful, cool nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle des Heiligen Grabes",
+            "hu": "Szent Sír-kápolna",
+            "ro": "Capela Sfântului Mormânt",
+            "en": "Chapel of the Holy Sepulchre"
+          },
+          "coords": [
+            6.362616,
+            47.354727
+          ],
+          "category": "religious",
+          "arrive_at": "12:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Entdecken Sie die tiefe Gelassenheit dieser kleinen historischen Kapelle mit klassischer Architektur und bringen Sie eine Taschenlampe mit für die dunklen Details.",
+            "hu": "Fedezze fel a kis történelmi kápolna mély nyugalmát és klasszikus kőépítészetét, de hozzon zseblámpát a sötétebb belső részletek jobb értékeléséhez.",
+            "ro": "Descoperiți seninătatea profundă a acestei mici capele istorice cu arhitectură clasică și aduceți o lanternă pentru a aprecia mai bine detaliile interioare întunecate.",
+            "en": "Discover the profound serenity of this small historic chapel with classic stone architecture, and bring a small flashlight to better appreciate the darker interior details."
+          }
+        },
+        {
+          "name": {
+            "de": "Die Jungfrau der Cholera",
+            "hu": "A Kolera Szüze",
+            "ro": "Fecioara Holerei",
+            "en": "The Virgin of Cholera"
+          },
+          "coords": [
+            6.364729,
+            47.353894
+          ],
+          "category": "natural",
+          "arrive_at": "12:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses einzigartige Denkmal aus der Zeit der Cholera-Epidemie und nutzen Sie den sanften Weg für einen tollen ersten Talblick über die Region.",
+            "hu": "Látogassa meg a kolerajárvány idején emelt egyedi emlékművet a város kitartásáért, és közelítse meg az enyhe ösvényen a völgyre nyíló lenyűgöző kilátásért.",
+            "ro": "Vizitați acest monument unic ridicat în timpul epidemiei de holeră pentru a înțelege reziliența orașului și apropiați-vă pe cărarea lină pentru o panoramă superbă.",
+            "en": "Visit this unique memorial statue erected during the cholera epidemic to understand the town's resilience, and approach via the gentle path for a rewarding valley overview."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Sous-Buen",
+            "hu": "Sous-Buen Kilátó",
+            "ro": "Punct de Belvedere Sous-Buen",
+            "en": "Sous-Buen Viewpoint"
+          },
+          "coords": [
+            6.371555,
+            47.350024
+          ],
+          "category": "recreational",
+          "arrive_at": "13:21",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Panoramablick auf den Fluss Doubs, der sich durch die grüne Landschaft schlängelt, und bringen Sie ein Fernglas mit für die Vogelwelt.",
+            "hu": "Élvezze a zöldellő tájon kanyargó Doubs folyó lenyűgöző panorámáját, és érdemes távcsövet hozni a víz mentén élő változatos madárvilág megfigyeléséhez.",
+            "ro": "Admirați priveliștile panoramice ample ale râului Doubs ce șerpuiește prin peisajul verde luxuriant și luați un binoclu pentru a observa diversele păsări de pe apă.",
+            "en": "Take in the sweeping panoramic views of the Doubs river winding through the lush green landscape, and consider bringing binoculars to spot diverse birdlife along the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Pierre-et-Saint-Paul",
+            "hu": "Szent Péter és Pál-templom",
+            "ro": "Biserica Saint-Pierre-et-Saint-Paul",
+            "en": "Church of Saint Peter and Saint Paul"
+          },
+          "coords": [
+            6.367592,
+            47.343733
+          ],
+          "category": "religious",
+          "arrive_at": "13:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Betrachten Sie die historische Präsenz dieser robusten Kirche im südlichen Bezirk und fahren Sie um das Gebäude herum, um ihr imposantes Design zu erfassen.",
+            "hu": "Vizsgálja meg a déli negyedet horgonyzó robusztus templom történelmi jelenlétét, és először járja körbe, hogy teljesen megértse impozáns szerkezetét.",
+            "ro": "Examinați prezența istorică puternică a acestei biserici robuste care ancorează cartierul sudic și ocoliți exteriorul pentru a-i înțelege designul impunător.",
+            "en": "Examine the strong historical presence of this robust church anchoring the southern district, and walk around the exterior first to fully grasp its imposing structural design."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Croix de Châtard",
+            "hu": "Croix de Châtard Kilátó",
+            "ro": "Punct de Belvedere Croix de Châtard",
+            "en": "Croix de Châtard Viewpoint"
+          },
+          "coords": [
+            6.367129,
+            47.339282
+          ],
+          "category": "natural",
+          "arrive_at": "14:30",
+          "stay_min": 55,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem markanten Kreuz für einen unvergleichlichen Aussichtspunkt über die Region, aber bereiten Sie sich mit einer Windjacke auf eine frische Brise vor.",
+            "hu": "Tekerjen fel a kiemelkedő kereszthez, hogy páratlan kilátópontból csodálja meg a régiót, de készüljön fel a tetőn fújó erős szélre egy könnyű széldzsekivel.",
+            "ro": "Urcați la această cruce proeminentă pentru un punct de belvedere de neegalat asupra întregii regiuni, dar pregătiți-vă pentru un vânt tăios la vârf aducând o jachetă.",
+            "en": "Ride up to this prominent cross for an unparalleled vantage point over the entire region, but prepare for a brisk wind at the top by packing a light windbreaker."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Fahren Sie zum historischen Kern, um die alte Abtei und architektonische Schätze zu besuchen. Parken Sie in der Nähe, um das älte Viertel zu Fuß zu erkunden.\nMidday: Unternehmen Sie eine kurze Fahrt oder einen Spaziergang zu den zentralen religiösen Denkmälern, bevor Sie in einem lokalen Café zu Mittag essen.\nAfternoon: Fahren Sie etwas außerhalb des Zentrums, um die Denkmäler und Aussichtspunkte am Hang zu erkunden und die Höhenunterschiede mühelos zu überwinden.\nEvening: Fahren Sie zum südlichen Bezirk für einen letzten Kirchenbesuch und anschließend zum majestätischen Kreuz für einen bequemen Sonnenuntergang über dem Tal.",
+        "hu": "Morning: Vezessen a történelmi magba, hogy meglátogassa az ősi apátságot és az építészeti kincseket, könnyen parkolva a közelben, hogy gyalog fedezze fel a legrégebbi negyedet.\nMidday: Tegyen egy rövid utat vagy sétát a központi vallási műemlékekhez, magába szívva a főtemplomok derűs hangulatát, mielőtt megállna ebédelni egy kávézóban.\nAfternoon: Vezessen kissé ki a központból a domboldali emlékművek és kilátók felfedezéséhez, a legtöbbet kihozva az autóból a szintkülönbségek könnyű leküzdéséhez.\nEvening: Cirkáljon le a déli negyedbe egy utolsó történelmi templomlátogatásra, mielőtt felhajtana a fenséges kereszthez egy kényelmes naplementés élményért a völgy felett.",
+        "ro": "Morning: Conduceți spre nucleul istoric pentru a vizita vechea abație și comorile arhitecturale, parcând ușor în apropiere pentru a explora pe jos cel mai vechi cartier.\nMidday: Faceți o scurtă plimbare sau drum spre monumentele religioase centrale, absorbind atmosfera senină a bisericilor principale înainte de prânz la o cafenea.\nAfternoon: Conduceți puțin în afara centrului pentru a explora memorialele de pe deal și punctele de belvedere, folosind mașina pentru a acoperi fără efort diferențele de nivel.\nEvening: Coborâți spre cartierul sudic pentru o ultimă vizită istorică înainte de a conduce până la crucea maiestuoasă pentru un apus confortabil și amplu deasupra văii.",
+        "en": "Morning: Drive to the historic core to visit the ancient abbey and adjacent architectural treasures, easily parking nearby to thoroughly explore the town's oldest quarter on foot.\nMidday: Take a very brief drive or walk to the central religious monuments, soaking in the serene atmospheres of the main churches before stopping at a local cafe for lunch.\nAfternoon: Drive slightly out of the center to explore the hillside memorials and viewpoints, making the most of your car to effortlessly cover the elevation changes.\nEvening: Cruise down to the southern district for a final historic church visit before driving up to the majestic cross for a sweeping, comfortable sunset experience over the valley."
+      }
+    }
+  }
+}

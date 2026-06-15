@@ -1,0 +1,451 @@
+{
+  "city_id": "france-le-petit-piquey-cities-v2",
+  "anchor": {
+    "name": "Le Petit Piquey",
+    "coords": [
+      -1.205,
+      44.72139
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:27",
+      "total_km": 4.15,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame-des-Pins",
+            "hu": "Chapelle Notre-Dame-des-Pins",
+            "ro": "Chapelle Notre-Dame-des-Pins",
+            "en": "Chapelle Notre-Dame-des-Pins"
+          },
+          "coords": [
+            -1.20469,
+            44.724112
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die maritime Architektur dieser kleinen Kapelle im Kiefernwald, die für Seeleute wichtig ist, und kommen Sie morgens für bestes Licht.",
+            "hu": "Csodálja meg a fenyőerdőben megbúvó, tengerészek számára fontos kápolna különleges építészetét, és érkezzen korán a legszebb fényekért.",
+            "ro": "Admirați arhitectura maritimă a acestei capele ascunse în pădurea de pini, importantă pentru marinari, și veniți dimineața pentru cea mai bună lumină.",
+            "en": "Admire the maritime architecture of this small chapel hidden in the pine forest, important for sailors, and arrive in the morning for the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Petit Piquey",
+            "hu": "Plage de Petit Piquey",
+            "ro": "Plage de Petit Piquey",
+            "en": "Plage de Petit Piquey"
+          },
+          "coords": [
+            -1.203387,
+            44.721299
+          ],
+          "category": "recreational",
+          "arrive_at": "09:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Genießen Sie den feinen Sand und den Blick auf das Becken von Arcachon an diesem ruhigen Strand, aber bringen Sie Ihre eigene Verpflegung mit.",
+            "hu": "Élvezze a finom homokot és az Arcachoni-medencére nyíló kilátást ezen a csendes strandon, de ne felejtsen el saját enni- és innivalót hozni.",
+            "ro": "Bucurați-vă de nisipul fin și de vederea la Bazinul Arcachon pe această plajă liniștită, dar asigurați-vă că aduceți propriile provizii.",
+            "en": "Enjoy the fine sand and the view of the Arcachon Basin on this tranquil beach, but be sure to bring your own snacks and drinks for the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Jetée",
+            "hu": "Plage de la Jetée",
+            "ro": "Plage de la Jetée",
+            "en": "Plage de la Jetée"
+          },
+          "coords": [
+            -1.209798,
+            44.714789
+          ],
+          "category": "recreational",
+          "arrive_at": "11:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang dieses beliebten Strandes mit seinem charmanten Steg, ideal für Fotos, und achten Sie auf die Gezeiten, wenn Sie baden möchten.",
+            "hu": "Sétáljon végig ezen a népszerű strandon és hangulatos mólóján, amely tökéletes fotótéma, de fürdés előtt mindig ellenőrizze az árapályt.",
+            "ro": "Plimbați-vă de-a lungul acestei plaje populare și a debarcaderului său fermecător, ideal pentru fotografii, și verificați mareele înainte de a înota.",
+            "en": "Stroll along this popular beach and its charming pier, which is perfect for photography, and always check the tide times before going for a swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Jacquets",
+            "hu": "Plage des Jacquets",
+            "ro": "Plage des Jacquets",
+            "en": "Plage des Jacquets"
+          },
+          "coords": [
+            -1.196718,
+            44.725732
+          ],
+          "category": "recreational",
+          "arrive_at": "13:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem naturbelassenen Küstenabschnitt, der für seine Austernzucht bekannt ist, und probieren Sie frische Austern in der Nähe.",
+            "hu": "Pihenjen ezen a természetes partszakaszon, amely osztrigatenyésztéséről híres, és kóstolja meg a friss tengeri finomságokat a közeli bódékban.",
+            "ro": "Relaxați-vă pe această porțiune de coastă naturală, renumită pentru cultivarea stridiilor, și încercați delicatesele proaspete de la tarabele din apropiere.",
+            "en": "Relax on this natural stretch of coastline renowned for its oyster farming, and make sure to sample the fresh delicacies at the nearby stalls."
+          }
+        },
+        {
+          "name": {
+            "de": "Scène de spectacle",
+            "hu": "Scène de spectacle",
+            "ro": "Scène de spectacle",
+            "en": "Scène de spectacle"
+          },
+          "coords": [
+            -1.196263,
+            44.735016
+          ],
+          "category": "cultural",
+          "arrive_at": "14:37",
+          "stay_min": 110,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erleben Sie lokale Kultur an diesem Freiluftveranstaltungsort mit Blick auf das Wasser, und überprüfen Sie im Voraus den Spielplan für abendliche Shows.",
+            "hu": "Tapasztalja meg a helyi kultúrát ezen a szabadtéri, vízre néző rendezvényhelyszínen, és mindenképpen nézze meg a műsort a látogatás előtt.",
+            "ro": "Experimentați cultura locală la acest loc de evenimente în aer liber cu vedere la apă și verificați programul în avans pentru spectacolele de seară.",
+            "en": "Experience local culture at this open-air outdoor venue overlooking the water, and be sure to check the event schedule in advance for evening shows."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit der Erkundung der versteckten Kapelle und genießen Sie die ruhige Morgenstimmung. Zur Mittagszeit spazieren Sie zum Strand von Petit Piquey, wo der feine Sand zum Verweilen einlädt. Der Nachmittag führt Sie weiter entlang der Küste, um die natürliche Schönheit der Strände und Austerndörfer zu entdecken. Beenden Sie den Tag an der lokalen Bühne, wo Kultur und eine herrliche Aussicht auf Sie warten.",
+        "hu": "Kezdje a napot a rejtett kápolna felfedezésével, és élvezze a csendes reggeli hangulatot. Délben sétáljon el a Petit Piquey strandhoz, ahol a finom homok hosszas pihenésre csábít. A délután folyamán kövesse a partvonalat, hogy felfedezze a strandok és az osztrigafalvak természetes szépségét. Fejezze be a napot a helyi színpadnál, ahol kultúra és csodálatos kilátás várja.",
+        "ro": "Începeți ziua explorând capela ascunsă și bucurați-vă de atmosfera liniștită a dimineții. La prânz, faceți o plimbare până la plaja Petit Piquey, unde nisipul fin vă invită să vă relaxați. După-amiaza, continuați de-a lungul coastei pentru a descoperi frumusețea naturală a plajelor și a satelor de stridii. Încheiați ziua la scena locală, unde cultura și priveliștile magnifice vă așteaptă.",
+        "en": "Start your day exploring the hidden chapel and soak in the tranquil morning atmosphere. At midday, stroll to the Petit Piquey beach, where the fine sand invites you to relax and linger. The afternoon takes you further along the coast to discover the natural beauty of the beaches and oyster villages. End your day at the local outdoor stage, where culture and magnificent views await you."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:29",
+      "total_km": 5.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle de Piraillan",
+            "hu": "Chapelle de Piraillan",
+            "ro": "Chapelle de Piraillan",
+            "en": "Chapelle de Piraillan"
+          },
+          "coords": [
+            -1.228852,
+            44.707525
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses historische religiöse Gebäude, das eng mit der Geschichte der Fischer verbunden ist, und genießen Sie die friedliche Atmosphäre.",
+            "hu": "Fedezze fel ezt a halászok történelméhez szorosan kötődő történelmi vallási épületet, és szánjon időt a csendes, békés légkör kiélvezésére.",
+            "ro": "Descoperiți această clădire religioasă istorică, strâns legată de istoria pescarilor, și acordați-vă timp pentru a vă bucura de atmosfera pașnică.",
+            "en": "Discover this historical religious building deeply connected to the local fishermen's history, and take some time to enjoy its peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Réservoirs de Piraillan",
+            "hu": "Réservoirs de Piraillan",
+            "ro": "Réservoirs de Piraillan",
+            "en": "Réservoirs de Piraillan"
+          },
+          "coords": [
+            -1.223611,
+            44.711954
+          ],
+          "category": "natural",
+          "arrive_at": "09:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses geschützte Naturschutzgebiet mit seinen Teichen und wilden Vögeln, und tragen Sie bequeme Schuhe für die unebenen Wanderwege.",
+            "hu": "Fedezze fel ezt a védett természetvédelmi területet tavaival és vadon élő madaraival, de mindenképpen viseljen kényelmes cipőt az erdei ösvényeken.",
+            "ro": "Explorați această rezervație naturală protejată, cu iazurile și păsările sale sălbatice, și purtați pantofi confortabili pentru potecile neuniforme.",
+            "en": "Explore this protected nature reserve featuring beautiful ponds and wild birds, and make sure to wear comfortable shoes for the uneven walking trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Jetée",
+            "hu": "Plage de la Jetée",
+            "ro": "Plage de la Jetée",
+            "en": "Plage de la Jetée"
+          },
+          "coords": [
+            -1.209798,
+            44.714789
+          ],
+          "category": "recreational",
+          "arrive_at": "11:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang dieses beliebten Strandes mit seinem charmanten Steg, ideal für Fotos, und achten Sie auf die Gezeiten, wenn Sie baden möchten.",
+            "hu": "Sétáljon végig ezen a népszerű strandon és hangulatos mólóján, amely tökéletes fotótéma, de fürdés előtt mindig ellenőrizze az árapályt.",
+            "ro": "Plimbați-vă de-a lungul acestei plaje populare și a debarcaderului său fermecător, ideal pentru fotografii, și verificați mareele înainte de a înota.",
+            "en": "Stroll along this popular beach and its charming pier, which is perfect for photography, and always check the tide times before going for a swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame-des-Pins",
+            "hu": "Chapelle Notre-Dame-des-Pins",
+            "ro": "Chapelle Notre-Dame-des-Pins",
+            "en": "Chapelle Notre-Dame-des-Pins"
+          },
+          "coords": [
+            -1.20469,
+            44.724112
+          ],
+          "category": "religious",
+          "arrive_at": "12:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die maritime Architektur dieser kleinen Kapelle im Kiefernwald, die für Seeleute wichtig ist, und kommen Sie morgens für bestes Licht.",
+            "hu": "Csodálja meg a fenyőerdőben megbúvó, tengerészek számára fontos kápolna különleges építészetét, és érkezzen korán a legszebb fényekért.",
+            "ro": "Admirați arhitectura maritimă a acestei capele ascunse în pădurea de pini, importantă pentru marinari, și veniți dimineața pentru cea mai bună lumină.",
+            "en": "Admire the maritime architecture of this small chapel hidden in the pine forest, important for sailors, and arrive in the morning for the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Four",
+            "hu": "Plage du Four",
+            "ro": "Plage du Four",
+            "en": "Plage du Four"
+          },
+          "coords": [
+            -1.191569,
+            44.73095
+          ],
+          "category": "recreational",
+          "arrive_at": "13:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die unberührte Natur dieses abgeschiedenen Strandes fernab der Massen, und vergessen Sie nicht, Sonnencreme und ausreichend Wasser mitzunehmen.",
+            "hu": "Csodálja meg ennek a tömegtől távol eső strandnak az érintetlen természetét, és ne felejtsen el naptejet és elegendő ivóvizet csomagolni.",
+            "ro": "Admirați natura neatinsă a acestei plaje izolate, departe de aglomerație, și nu uitați să împachetați protecție solară și multă apă potabilă.",
+            "en": "Admire the unspoiled nature of this secluded beach away from the crowds, and remember to pack plenty of sunscreen and enough drinking water."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage privée",
+            "hu": "Plage privée",
+            "ro": "Plage privée",
+            "en": "Plage privée"
+          },
+          "coords": [
+            -1.191795,
+            44.735111
+          ],
+          "category": "recreational",
+          "arrive_at": "14:44",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich einen Hauch von Luxus an diesem privaten Strandabschnitt, und reservieren Sie Ihre Liegen im Voraus, um Enttäuschungen zu vermeiden.",
+            "hu": "Engedjen meg magának egy kis luxust ezen a privát partszakaszon, és mindenképpen foglalja le a napozóágyakat előre a kényelmes pihenés érdekében.",
+            "ro": "Răsfățați-vă cu un strop de lux pe această secțiune privată de plajă și asigurați-vă că rezervați șezlongurile în avans pentru a evita dezamăgirile.",
+            "en": "Treat yourself to a touch of luxury on this private stretch of beach, and make sure to reserve your sun loungers in advance to secure a good spot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour an der südlichen Kapelle und radeln Sie in Richtung der natürlichen Wasserreservoirs. Mittags erreichen Sie den lebhaften Pier, perfekt für eine Pause und einen Snack am Wasser. Nachmittags fahren Sie entspannt entlang der bewaldeten Wege zur zweiten Kapelle und weiter nach Norden. Am Abend können Sie die unberührten nördlichen Strände erkunden und den Tag in Ruhe ausklingen lassen.",
+        "hu": "Kezdje kerékpártúráját a déli kápolnánál, és tekerjen a természetes víztározók felé. Délben érje el a nyüzsgő mólót, amely tökéletes egy kis pihenőre és egy vízparti harapnivalóra. Délután kényelmesen haladjon az erdős ösvényeken a második kápolnához és tovább északra. Este fedezze fel az érintetlen északi strandokat, és nyugodt környezetben zárja a napot.",
+        "ro": "Începeți turul cu bicicleta la capela sudică și pedalați spre rezervoarele naturale de apă. La prânz, ajungeți la debarcaderul plin de viață, perfect pentru o pauză și o gustare pe malul apei. După-amiaza, mergeți pe îndelete de-a lungul potecilor împădurite până la a doua capelă și mai departe spre nord. Seara, explorați plajele nordice curate și lăsați ziua să se încheie într-o atmosferă pașnică.",
+        "en": "Start your bike tour at the southern chapel and pedal towards the tranquil natural water reservoirs. By midday, reach the lively pier, perfect for a break and a quick snack right by the water. In the afternoon, ride leisurely along the wooded paths to the second chapel and further north. Evening allows you to explore the pristine northern beaches, wrapping up the day in total peace."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:24",
+      "total_km": 5.65,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Réservoirs de Piraillan",
+            "hu": "Réservoirs de Piraillan",
+            "ro": "Réservoirs de Piraillan",
+            "en": "Réservoirs de Piraillan"
+          },
+          "coords": [
+            -1.223611,
+            44.711954
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses geschützte Naturschutzgebiet mit seinen Teichen und wilden Vögeln, und tragen Sie bequeme Schuhe für die unebenen Wanderwege.",
+            "hu": "Fedezze fel ezt a védett természetvédelmi területet tavaival és vadon élő madaraival, de mindenképpen viseljen kényelmes cipőt az erdei ösvényeken.",
+            "ro": "Explorați această rezervație naturală protejată, cu iazurile și păsările sale sălbatice, și purtați pantofi confortabili pentru potecile neuniforme.",
+            "en": "Explore this protected nature reserve featuring beautiful ponds and wild birds, and make sure to wear comfortable shoes for the uneven walking trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle de Piraillan",
+            "hu": "Chapelle de Piraillan",
+            "ro": "Chapelle de Piraillan",
+            "en": "Chapelle de Piraillan"
+          },
+          "coords": [
+            -1.228852,
+            44.707525
+          ],
+          "category": "religious",
+          "arrive_at": "10:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses historische religiöse Gebäude, das eng mit der Geschichte der Fischer verbunden ist, und genießen Sie die friedliche Atmosphäre.",
+            "hu": "Fedezze fel ezt a halászok történelméhez szorosan kötődő történelmi vallási épületet, és szánjon időt a csendes, békés légkör kiélvezésére.",
+            "ro": "Descoperiți această clădire religioasă istorică, strâns legată de istoria pescarilor, și acordați-vă timp pentru a vă bucura de atmosfera pașnică.",
+            "en": "Discover this historical religious building deeply connected to the local fishermen's history, and take some time to enjoy its peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Petit Piquey",
+            "hu": "Plage de Petit Piquey",
+            "ro": "Plage de Petit Piquey",
+            "en": "Plage de Petit Piquey"
+          },
+          "coords": [
+            -1.203387,
+            44.721299
+          ],
+          "category": "recreational",
+          "arrive_at": "11:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den feinen Sand und den Blick auf das Becken von Arcachon an diesem ruhigen Strand, aber bringen Sie Ihre eigene Verpflegung mit.",
+            "hu": "Élvezze a finom homokot és az Arcachoni-medencére nyíló kilátást ezen a csendes strandon, de ne felejtsen el saját enni- és innivalót hozni.",
+            "ro": "Bucurați-vă de nisipul fin și de vederea la Bazinul Arcachon pe această plajă liniștită, dar asigurați-vă că aduceți propriile provizii.",
+            "en": "Enjoy the fine sand and the view of the Arcachon Basin on this tranquil beach, but be sure to bring your own snacks and drinks for the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame-des-Pins",
+            "hu": "Chapelle Notre-Dame-des-Pins",
+            "ro": "Chapelle Notre-Dame-des-Pins",
+            "en": "Chapelle Notre-Dame-des-Pins"
+          },
+          "coords": [
+            -1.20469,
+            44.724112
+          ],
+          "category": "religious",
+          "arrive_at": "12:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie die maritime Architektur dieser kleinen Kapelle im Kiefernwald, die für Seeleute wichtig ist, und kommen Sie morgens für bestes Licht.",
+            "hu": "Csodálja meg a fenyőerdőben megbúvó, tengerészek számára fontos kápolna különleges építészetét, és érkezzen korán a legszebb fényekért.",
+            "ro": "Admirați arhitectura maritimă a acestei capele ascunse în pădurea de pini, importantă pentru marinari, și veniți dimineața pentru cea mai bună lumină.",
+            "en": "Admire the maritime architecture of this small chapel hidden in the pine forest, important for sailors, and arrive in the morning for the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Scène de spectacle",
+            "hu": "Scène de spectacle",
+            "ro": "Scène de spectacle",
+            "en": "Scène de spectacle"
+          },
+          "coords": [
+            -1.196263,
+            44.735016
+          ],
+          "category": "cultural",
+          "arrive_at": "13:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erleben Sie lokale Kultur an diesem Freiluftveranstaltungsort mit Blick auf das Wasser, und überprüfen Sie im Voraus den Spielplan für abendliche Shows.",
+            "hu": "Tapasztalja meg a helyi kultúrát ezen a szabadtéri, vízre néző rendezvényhelyszínen, és mindenképpen nézze meg a műsort a látogatás előtt.",
+            "ro": "Experimentați cultura locală la acest loc de evenimente în aer liber cu vedere la apă și verificați programul în avans pentru spectacolele de seară.",
+            "en": "Experience local culture at this open-air outdoor venue overlooking the water, and be sure to check the event schedule in advance for evening shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Four",
+            "hu": "Plage du Four",
+            "ro": "Plage du Four",
+            "en": "Plage du Four"
+          },
+          "coords": [
+            -1.191569,
+            44.73095
+          ],
+          "category": "recreational",
+          "arrive_at": "14:39",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die unberührte Natur dieses abgeschiedenen Strandes fernab der Massen, und vergessen Sie nicht, Sonnencreme und ausreichend Wasser mitzunehmen.",
+            "hu": "Csodálja meg ennek a tömegtől távol eső strandnak az érintetlen természetét, és ne felejtsen el naptejet és elegendő ivóvizet csomagolni.",
+            "ro": "Admirați natura neatinsă a acestei plaje izolate, departe de aglomerație, și nu uitați să împachetați protecție solară și multă apă potabilă.",
+            "en": "Admire the unspoiled nature of this secluded beach away from the crowds, and remember to pack plenty of sunscreen and enough drinking water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zu den Reservoirs und entdecken Sie die reiche Tierwelt dieses friedlichen Naturgebiets. Ein kurzer Halt an der kleinen Kapelle führt Sie zur Mittagszeit an den zentralen Strand zum Entspannen. Am Nachmittag wechseln Sie mit dem Auto bequem zwischen den Küstenhighlights und kulturellen Orten. Ihr Tag endet an einem abgelegenen Strand im Norden, wo der Sonnenuntergang über dem Wasser fasziniert.",
+        "hu": "Reggel autózzon a víztározókhoz, és fedezze fel ennek a békés természeti területnek a gazdag vadvilágát. Egy rövid megálló a kis kápolnánál délben a központi strandra vezeti Önt pihenni. Délután kényelmesen válthat a tengerparti látnivalók és a kulturális helyszínek között az autójával. A napja egy távoli északi strandon ér véget, ahol a víz feletti naplemente egyszerűen lenyűgöző.",
+        "ro": "Conduceți dimineața către rezervoare și descoperiți bogata viață sălbatică a acestei zone naturale pașnice. O scurtă oprire la mica capelă vă conduce la plaja centrală pentru a vă relaxa la prânz. După-amiaza, alternați confortabil între atracțiile de pe coastă și reperele culturale cu mașina. Ziua se termină pe o plajă retrasă din nord, unde apusul de soare deasupra apei este pur și simplu fascinant.",
+        "en": "Drive to the reservoirs in the morning and discover the rich wildlife of this peaceful natural area. A brief stop at the small chapel leads you to the central beach for a relaxing midday break. In the afternoon, comfortably switch between the coastal highlights and cultural landmarks by car. Your day ends at a remote northern beach, where the sunset over the water is truly mesmerizing."
+      }
+    }
+  }
+}

@@ -1,0 +1,428 @@
+{
+  "city_id": "apizaco-cities-v2",
+  "anchor": {
+    "name": "Apizaco",
+    "coords": [
+      -98.1408,
+      19.4142
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:13",
+      "total_km": 5.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Basílica de Nuestra Señora de la Misericordia",
+            "hu": "Basílica de Nuestra Señora de la Misericordia",
+            "ro": "Basílica de Nuestra Señora de la Misericordia",
+            "en": "Basílica de Nuestra Señora de la Misericordia"
+          },
+          "coords": [
+            -98.140957,
+            19.415964
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neugotische Architektur dieser ikonischen Basilika und betrachten Sie unbedingt die atemberaubenden Buntglasfenster im Morgenlicht.",
+            "hu": "Csodálja meg ennek az ikonikus bazilikának a neogótikus építészetét, és mindenképpen nézze meg a lenyűgöző ólomüveg ablakokat a reggeli fényben.",
+            "ro": "Admirați arhitectura neogotică a acestei bazilici iconice și nu ratați vitraliile uimitoare luminate de razele soarelui dimineața.",
+            "en": "Admire the neo-Gothic architecture of this iconic basilica and be sure to check the stunning stained glass windows during morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de Piedra",
+            "hu": "Casa de Piedra",
+            "ro": "Casa de Piedra",
+            "en": "Casa de Piedra"
+          },
+          "coords": [
+            -98.135928,
+            19.418281
+          ],
+          "category": "museum",
+          "arrive_at": "10:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Eisenbahngeschichte von Apizaco in diesem rustikalen Steingebäude und verpassen Sie nicht die alte Lokomotive direkt vor dem Eingang.",
+            "hu": "Fedezze fel Apizaco vasúti történelmét ebben a rusztikus kőépületben, és ne hagyja ki a bejárat előtt kiállított régi mozdonyt.",
+            "ro": "Explorați istoria feroviară a orașului Apizaco în această clădire rustică din piatră și nu ratați vechea locomotivă expusă chiar la intrare.",
+            "en": "Explore the railway history of Apizaco in this rustic stone building, and don't miss the old locomotive displayed just outside the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "La Cienega",
+            "hu": "La Cienega",
+            "ro": "La Cienega",
+            "en": "La Cienega"
+          },
+          "coords": [
+            -98.127405,
+            19.411996
+          ],
+          "category": "natural",
+          "arrive_at": "12:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Machen Sie eine erfrischende Pause in diesem natürlichen Feuchtgebiet, das sich perfekt zur Vogelbeobachtung und für Fotos der ruhigen Wasserlandschaften eignet.",
+            "hu": "Tartson egy frissítő pihenőt ezen a természetes vizes élőhelyen, amely tökéletes madármegfigyeléshez és a nyugodt vízi tájak fotózásához.",
+            "ro": "Faceți o pauză răcoritoare în această zonă umedă naturală, perfectă pentru observarea păsărilor și pentru fotografii ale peisajelor acvatice liniștite.",
+            "en": "Take a refreshing break in this natural wetland area, perfect for bird watching and snapping photos of the tranquil watery landscapes."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro de las Artes Tlaxcala",
+            "hu": "Centro de las Artes Tlaxcala",
+            "ro": "Centro de las Artes Tlaxcala",
+            "en": "Centro de las Artes Tlaxcala"
+          },
+          "coords": [
+            -98.116428,
+            19.423605
+          ],
+          "category": "cultural",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese umgebaute ehemalige Textilfabrik, um zeitgenössische regionale Kunst zu bewundern, und suchen Sie im Haupthof nach temporären Ausstellungen.",
+            "hu": "Sétáljon végig ezen az átalakított egykori textilgyáron, hogy megcsodálja a kortárs regionális művészetet, és keressen időszaki kiállításokat a főudvaron.",
+            "ro": "Plimbați-vă prin această fostă fabrică de textile transformată pentru a aprecia arta regională contemporană și verificați curtea principală pentru expoziții temporare.",
+            "en": "Wander through this transformed former textile factory to appreciate contemporary regional art, and check the main courtyard for temporary exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "El ojito",
+            "hu": "El ojito",
+            "ro": "El ojito",
+            "en": "El ojito"
+          },
+          "coords": [
+            -98.117315,
+            19.437395
+          ],
+          "category": "recreational",
+          "arrive_at": "15:28",
+          "stay_min": 105,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesen sprudelnden natürlichen Quellen, wo die Einheimischen sich abkühlen, und bringen Sie ein kleines Handtuch mit, wenn Sie Ihre Füße ins klare Wasser tauchen möchten.",
+            "hu": "Pihenjen ezeknél a bugyogó természetes forrásoknál, ahol a helyiek hűsölnek, és hozzon magával egy kis törölközőt, ha szeretné megmártani a lábát a tiszta vízben.",
+            "ro": "Relaxați-vă la aceste izvoare naturale unde localnicii vin să se răcorească și aduceți un prosop mic dacă intenționați să vă înmuiați picioarele în apa limpede.",
+            "en": "Relax at these bubbling natural springs where locals come to cool off, and bring a small towel if you plan to dip your feet in the clear water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Bewunderung der beeindruckenden neugotischen Basilika, die einen ruhigen Ton für den Tag angibt. Ein kurzer Spaziergang führt Sie zur Casa de Piedra, wo Sie in das tiefe Eisenbahnerbe der Stadt eintauchen. Die Mittagszeit lädt in die natürliche Ruhe von La Cienega ein. Am Nachmittag erwartet Sie künstlerische Inspiration im Centro de las Artes Tlaxcala. Beenden Sie Ihre Wanderung mit einem erfrischenden Besuch der Quellen von El ojito.",
+        "hu": "Kezdje a reggelt a lenyűgöző neogótikus bazilika megcsodálásával, amely nyugodt alaphangot ad a napnak. Egy rövid séta elvezeti a Casa de Piedra-hoz, ahol elmerülhet a város vasúti örökségében. A dél a La Cienega természetes nyugalmába invitál. Délután művészi inspiráció várja a Centro de las Artes Tlaxcala központban. Zárja gyalogos túráját egy frissítő naplementés látogatással az El ojito helyi forrásainál.",
+        "ro": "Începeți dimineața admirând impresionanta Bazilică neogotică, stabilind un ton seren pentru întreaga zi. O scurtă plimbare vă duce la Casa de Piedra, explorând patrimoniul feroviar al orașului. La prânz, liniștea naturală de la La Cienega vă oferă o evadare perfectă. După-amiaza, inspirația artistică vă așteaptă la Centro de las Artes Tlaxcala. Încheiați călătoria pe jos cu o vizită răcoritoare la izvoarele locale El ojito.",
+        "en": "Begin your morning admiring the impressive neo-Gothic Basilica, setting a serene tone for the day. A short stroll leads you to Casa de Piedra, delving into the town's profound railway heritage. Midday invites you to the natural tranquility of La Cienega, offering a perfect wetland escape. In the afternoon, artistic inspiration awaits at the Centro de las Artes Tlaxcala. Conclude your walking journey with a refreshing sunset visit to the local springs of El ojito."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:56",
+      "total_km": 12.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Basílica de Nuestra Señora de la Misericordia",
+            "hu": "Basílica de Nuestra Señora de la Misericordia",
+            "ro": "Basílica de Nuestra Señora de la Misericordia",
+            "en": "Basílica de Nuestra Señora de la Misericordia"
+          },
+          "coords": [
+            -98.140957,
+            19.415964
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neugotische Architektur dieser ikonischen Basilika und betrachten Sie unbedingt die atemberaubenden Buntglasfenster im Morgenlicht.",
+            "hu": "Csodálja meg ennek az ikonikus bazilikának a neogótikus építészetét, és mindenképpen nézze meg a lenyűgöző ólomüveg ablakokat a reggeli fényben.",
+            "ro": "Admirați arhitectura neogotică a acestei bazilici iconice și nu ratați vitraliile uimitoare luminate de razele soarelui dimineața.",
+            "en": "Admire the neo-Gothic architecture of this iconic basilica and be sure to check the stunning stained glass windows during morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de Piedra",
+            "hu": "Casa de Piedra",
+            "ro": "Casa de Piedra",
+            "en": "Casa de Piedra"
+          },
+          "coords": [
+            -98.135928,
+            19.418281
+          ],
+          "category": "museum",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Eisenbahngeschichte von Apizaco in diesem rustikalen Steingebäude und verpassen Sie nicht die alte Lokomotive direkt vor dem Eingang.",
+            "hu": "Fedezze fel Apizaco vasúti történelmét ebben a rusztikus kőépületben, és ne hagyja ki a bejárat előtt kiállított régi mozdonyt.",
+            "ro": "Explorați istoria feroviară a orașului Apizaco în această clădire rustică din piatră și nu ratați vechea locomotivă expusă chiar la intrare.",
+            "en": "Explore the railway history of Apizaco in this rustic stone building, and don't miss the old locomotive displayed just outside the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro de las Artes Tlaxcala",
+            "hu": "Centro de las Artes Tlaxcala",
+            "ro": "Centro de las Artes Tlaxcala",
+            "en": "Centro de las Artes Tlaxcala"
+          },
+          "coords": [
+            -98.116428,
+            19.423605
+          ],
+          "category": "cultural",
+          "arrive_at": "11:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese umgebaute ehemalige Textilfabrik, um zeitgenössische regionale Kunst zu bewundern, und suchen Sie im Haupthof nach temporären Ausstellungen.",
+            "hu": "Sétáljon végig ezen az átalakított egykori textilgyáron, hogy megcsodálja a kortárs regionális művészetet, és keressen időszaki kiállításokat a főudvaron.",
+            "ro": "Plimbați-vă prin această fostă fabrică de textile transformată pentru a aprecia arta regională contemporană și verificați curtea principală pentru expoziții temporare.",
+            "en": "Wander through this transformed former textile factory to appreciate contemporary regional art, and check the main courtyard for temporary exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "El ojito",
+            "hu": "El ojito",
+            "ro": "El ojito",
+            "en": "El ojito"
+          },
+          "coords": [
+            -98.117315,
+            19.437395
+          ],
+          "category": "recreational",
+          "arrive_at": "13:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesen sprudelnden natürlichen Quellen, wo die Einheimischen sich abkühlen, und bringen Sie ein kleines Handtuch mit, wenn Sie Ihre Füße ins klare Wasser tauchen möchten.",
+            "hu": "Pihenjen ezeknél a bugyogó természetes forrásoknál, ahol a helyiek hűsölnek, és hozzon magával egy kis törölközőt, ha szeretné megmártani a lábát a tiszta vízben.",
+            "ro": "Relaxați-vă la aceste izvoare naturale unde localnicii vin să se răcorească și aduceți un prosop mic dacă intenționați să vă înmuiați picioarele în apa limpede.",
+            "en": "Relax at these bubbling natural springs where locals come to cool off, and bring a small towel if you plan to dip your feet in the clear water."
+          }
+        },
+        {
+          "name": {
+            "de": "Los Manantiales",
+            "hu": "Los Manantiales",
+            "ro": "Los Manantiales",
+            "en": "Los Manantiales"
+          },
+          "coords": [
+            -98.168517,
+            19.394285
+          ],
+          "category": "recreational",
+          "arrive_at": "15:11",
+          "stay_min": 105,
+          "hop_from_prev_min": 41,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die weitläufigen Grünflächen und natürlichen Becken dieses Erholungsparks, ideal für ein Picknick am Mittag im Schatten der großen Bäume.",
+            "hu": "Élvezze ennek a rekreációs parknak a tágas zöldterületeit és természetes medencéit, amely ideális egy déli piknikhez a nagy fák árnyékában.",
+            "ro": "Bucurați-vă de zonele verzi spațioase și de piscinele naturale ale acestui parc de agrement, ideal pentru un picnic la prânz la umbra copacilor mari.",
+            "en": "Enjoy the spacious green areas and natural pools of this recreational park, ideal for a midday picnic under the shade of the large trees."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie zuerst zur majestätischen Basilika, bevor Sie zum Museum Casa de Piedra fahren, um die lokale Lokomotivgeschichte zu entdecken. Die Mittagssonne verbringt man am besten mit einer Fahrt zum Centro de las Artes. Fahren Sie weiter nach El ojito für eine schnelle, erfrischende Pause am Wasser. Ihre längste Fahrt führt Sie nach Süden, um den Nachmittag entspannt in den weitläufigen Grünflächen von Los Manantiales ausklingen zu lassen.",
+        "hu": "Tekerjen először a fenséges bazilikához, majd guruljon át a Casa de Piedra múzeumba, hogy felfedezze a helyi mozdonyok történetét. A déli napsütést a legjobb a Centro de las Artes-hez biciklizve tölteni. Tartsa meg a lendületet az El ojito felé, egy gyors, frissítő pihenőre a vízparton. A leghosszabb útja dél felé vezet, hogy a délutánt a Los Manantiales tágas zöldterületein pihenve fejezze be.",
+        "ro": "Pedalați mai întâi către maiestuoasa Bazilică, înainte de a merge la muzeul Casa de Piedra pentru a descoperi istoria locomotivelor. Soarele de prânz este cel mai bine petrecut mergând cu bicicleta către Centro de las Artes. Păstrați ritmul spre El ojito pentru o scurtă și răcoritoare pauză pe malul apei. Cea mai lungă cursă vă duce spre sud, pentru a vă încheia după-amiaza relaxându-vă în spațiul verde de la Los Manantiales.",
+        "en": "Pedal first to the majestic Basilica before rolling over to the Casa de Piedra museum to uncover local locomotive history. The midday sun is best spent cycling to the Centro de las Artes, marveling at modern regional masterpieces. Keep the momentum going to El ojito for a quick, refreshing break by the water. Your longest ride takes you southward to end the afternoon relaxing in the expansive green space of Los Manantiales."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 15.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Basílica de Nuestra Señora de la Misericordia",
+            "hu": "Basílica de Nuestra Señora de la Misericordia",
+            "ro": "Basílica de Nuestra Señora de la Misericordia",
+            "en": "Basílica de Nuestra Señora de la Misericordia"
+          },
+          "coords": [
+            -98.140957,
+            19.415964
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neugotische Architektur dieser ikonischen Basilika und betrachten Sie unbedingt die atemberaubenden Buntglasfenster im Morgenlicht.",
+            "hu": "Csodálja meg ennek az ikonikus bazilikának a neogótikus építészetét, és mindenképpen nézze meg a lenyűgöző ólomüveg ablakokat a reggeli fényben.",
+            "ro": "Admirați arhitectura neogotică a acestei bazilici iconice și nu ratați vitraliile uimitoare luminate de razele soarelui dimineața.",
+            "en": "Admire the neo-Gothic architecture of this iconic basilica and be sure to check the stunning stained glass windows during morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de Piedra",
+            "hu": "Casa de Piedra",
+            "ro": "Casa de Piedra",
+            "en": "Casa de Piedra"
+          },
+          "coords": [
+            -98.135928,
+            19.418281
+          ],
+          "category": "museum",
+          "arrive_at": "09:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Eisenbahngeschichte von Apizaco in diesem rustikalen Steingebäude und verpassen Sie nicht die alte Lokomotive direkt vor dem Eingang.",
+            "hu": "Fedezze fel Apizaco vasúti történelmét ebben a rusztikus kőépületben, és ne hagyja ki a bejárat előtt kiállított régi mozdonyt.",
+            "ro": "Explorați istoria feroviară a orașului Apizaco în această clădire rustică din piatră și nu ratați vechea locomotivă expusă chiar la intrare.",
+            "en": "Explore the railway history of Apizaco in this rustic stone building, and don't miss the old locomotive displayed just outside the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro de las Artes Tlaxcala",
+            "hu": "Centro de las Artes Tlaxcala",
+            "ro": "Centro de las Artes Tlaxcala",
+            "en": "Centro de las Artes Tlaxcala"
+          },
+          "coords": [
+            -98.116428,
+            19.423605
+          ],
+          "category": "cultural",
+          "arrive_at": "11:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese umgebaute ehemalige Textilfabrik, um zeitgenössische regionale Kunst zu bewundern, und suchen Sie im Haupthof nach temporären Ausstellungen.",
+            "hu": "Sétáljon végig ezen az átalakított egykori textilgyáron, hogy megcsodálja a kortárs regionális művészetet, és keressen időszaki kiállításokat a főudvaron.",
+            "ro": "Plimbați-vă prin această fostă fabrică de textile transformată pentru a aprecia arta regională contemporană și verificați curtea principală pentru expoziții temporare.",
+            "en": "Wander through this transformed former textile factory to appreciate contemporary regional art, and check the main courtyard for temporary exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Los Manantiales",
+            "hu": "Los Manantiales",
+            "ro": "Los Manantiales",
+            "en": "Los Manantiales"
+          },
+          "coords": [
+            -98.168517,
+            19.394285
+          ],
+          "category": "recreational",
+          "arrive_at": "13:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die weitläufigen Grünflächen und natürlichen Becken dieses Erholungsparks, ideal für ein Picknick am Mittag im Schatten der großen Bäume.",
+            "hu": "Élvezze ennek a rekreációs parknak a tágas zöldterületeit és természetes medencéit, amely ideális egy déli piknikhez a nagy fák árnyékában.",
+            "ro": "Bucurați-vă de zonele verzi spațioase și de piscinele naturale ale acestui parc de agrement, ideal pentru un picnic la prânz la umbra copacilor mari.",
+            "en": "Enjoy the spacious green areas and natural pools of this recreational park, ideal for a midday picnic under the shade of the large trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Ex Fábrica Santa Elena",
+            "hu": "Ex Fábrica Santa Elena",
+            "ro": "Ex Fábrica Santa Elena",
+            "en": "Ex Fábrica Santa Elena"
+          },
+          "coords": [
+            -98.161869,
+            19.356968
+          ],
+          "category": "recreational",
+          "arrive_at": "14:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die stimmungsvollen Ruinen dieser historischen Fabrik aus dem 19. Jahrhundert, ein fantastischer Ort für Fotoliebhaber, um industrielles Erbe einzufangen.",
+            "hu": "Fedezze fel ennek a történelmi 19. századi gyárnak a hangulatos romjait, amely fantasztikus helyszín a fotózás szerelmeseinek az ipari örökség megörökítésére.",
+            "ro": "Descoperiți ruinele atmosferice ale acestei fabrici istorice din secolul al XIX-lea, un loc fantastic pentru pasionații de fotografie pentru a surprinde patrimoniul industrial.",
+            "en": "Discover the atmospheric ruins of this historic 19th-century factory, a fantastic spot for photography enthusiasts to capture industrial heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "La Trinidad",
+            "hu": "La Trinidad",
+            "ro": "La Trinidad",
+            "en": "La Trinidad"
+          },
+          "coords": [
+            -98.155317,
+            19.359831
+          ],
+          "category": "recreational",
+          "arrive_at": "16:00",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag in diesem familienfreundlichen Resort-Komplex mit entspannendem Thermalwasser und malerischen Wanderwegen durch den nahegelegenen Wald.",
+            "hu": "Zárja a napot ebben a családbarát üdülőkomplexumban, amely pihentető termálvízzel és festői sétautakkal várja a közeli erdőben.",
+            "ro": "Încheiați-vă ziua la acest complex turistic de familie, cu ape termale relaxante și trasee pitorești de plimbare prin pădurea din apropiere.",
+            "en": "Conclude your day at this family-friendly resort complex featuring relaxing thermal waters and scenic walking paths through the nearby forest."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie bequem zur ikonischen Basilika, um Ihren Tag zu beginnen, gefolgt von einem kurzen Sprung zu den Eisenbahnausstellungen der Casa de Piedra. Ihr mittäglicher Fokus verlagert sich auf die regionale Kreativität bei einem Besuch im Centro de las Artes. Nach dem Mittagessen fahren Sie hinunter nach Los Manantiales, entdecken dann den rustikalen Charme der Ex Fábrica Santa Elena und lassen den Roadtrip entspannt im Resort La Trinidad ausklingen.",
+        "hu": "Autózzon könnyedén az ikonikus bazilikához a nap indításaként, majd tegyen egy gyors ugrást a Casa de Piedra vasúti kiállításaihoz. A déli fókusz a regionális kreativitásra terelődik a Centro de las Artes meglátogatásával. Ebéd után guruljon le a Los Manantiales-hez, majd fedezze fel az Ex Fábrica Santa Elena rusztikus varázsát. Zárja az autós utazást egy utolsó pihentető fürdőzéssel a családbarát La Trinidad üdülőhelyen.",
+        "ro": "Conduceți cu ușurință la emblematica Bazilică pentru a vă începe ziua, urmată de un salt rapid la Casa de Piedra. Centrul atenției la prânz se mută pe creativitatea regională, cu o vizită la frumos restauratul Centro de las Artes. După prânz, mergeți spre Los Manantiales, apoi descoperiți farmecul rustic de la Ex Fábrica Santa Elena. Încheiați-vă călătoria cu o ultimă baie relaxantă la stațiunea prietenoasă La Trinidad.",
+        "en": "Drive easily to the iconic Basilica to start your day, followed by a quick hop to Casa de Piedra's railway exhibits. Your midday focus shifts to regional creativity with a visit to the beautifully restored Centro de las Artes. After lunch, cruise down to Los Manantiales to enjoy nature's calm, then uncover the rustic charm of Ex Fábrica Santa Elena. Wind down your road trip with a final relaxing dip at the family-friendly La Trinidad resort."
+      }
+    }
+  }
+}

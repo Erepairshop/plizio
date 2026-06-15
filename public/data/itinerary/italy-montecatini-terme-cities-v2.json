@@ -1,0 +1,566 @@
+{
+  "city_id": "italy-montecatini-terme-cities-v2",
+  "anchor": {
+    "name": "Montecatini Terme",
+    "coords": [
+      10.7723,
+      43.88153
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 1.85,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Basilica di Santa Maria Assunta",
+            "hu": "Basilica di Santa Maria Assunta",
+            "ro": "Basilica di Santa Maria Assunta",
+            "en": "Basilica di Santa Maria Assunta"
+          },
+          "coords": [
+            10.770163,
+            43.882661
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die modernen Buntglasfenster dieser zentralen Basilika, die architektonisch vom klassischen Kurort-Stil abweicht, und besuchen Sie sie am besten früh, wenn das Morgenlicht das Kirchenschiff erhellt.",
+            "hu": "Csodálja meg ennek a központi bazilikának a modern ólomüveg ablakait, amely építészetileg eltér a klasszikus fürdővárosi stílustól, és a legjobb kora reggel meglátogatni, amikor a fény bevilágítja a főhajót.",
+            "ro": "Admirați vitraliile moderne ale acestei bazilici centrale, o abatere arhitecturală de la stilul clasic al orașului termal, cel mai bine vizitată dimineața devreme, când lumina pătrunde în naos.",
+            "en": "Admire the modern stained glass windows of this central basilica, an architectural departure from the classic thermal town style, best visited early when the morning light hits the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "MO.C.A. Montecatini Contemporary Art",
+            "hu": "MO.C.A. Montecatini Kortárs Művészet",
+            "ro": "MO.C.A. Artă Contemporană Montecatini",
+            "en": "MO.C.A. Montecatini Contemporary Art"
+          },
+          "coords": [
+            10.77267,
+            43.883966
+          ],
+          "category": "museum",
+          "arrive_at": "09:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine überraschend reiche Sammlung zeitgenössischer Kunst im historischen Rathaus und verpassen Sie nicht das Meisterwerk von Joan Miró, das gut sichtbar im Hauptgeschoss ausgestellt ist.",
+            "hu": "Fedezze fel a történelmi városházán helyet kapott, meglepően gazdag kortárs művészeti gyűjteményt, és semmiképp se hagyja ki Joan Miró a főemeleten kiállított remekművét.",
+            "ro": "Explorați o colecție surprinzător de bogată de artă contemporană găzduită în primăria istorică și nu ratați capodopera lui Joan Miró expusă la loc de cinste la etajul principal.",
+            "en": "Explore a surprisingly rich collection of contemporary art housed in the historic town hall, and don't miss the masterpiece by Joan Miró prominently displayed on the main floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Terme Excelsior",
+            "hu": "Terme Excelsior",
+            "ro": "Terme Excelsior",
+            "en": "Terme Excelsior"
+          },
+          "coords": [
+            10.774096,
+            43.885645
+          ],
+          "category": "landmark",
+          "arrive_at": "11:38",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Treten Sie ein, um die großartige Architektur im Liberty-Stil dieses historischen Kurgebäudes zu bewundern, und werfen Sie einen Blick auf den wunderbar erhaltenen Ticketschalter aus dem frühen 20. Jahrhundert.",
+            "hu": "Lépjen be ebbe a történelmi fürdőépületbe, hogy megcsodálja a grandiózus szecessziós építészetet, és vessen egy pillantást a gyönyörűen megőrzött, 20. század eleji jegypénztárra is.",
+            "ro": "Intrați pentru a vedea arhitectura grandioasă în stil Liberty a acestei clădiri termale istorice și luați-vă un moment pentru a admira ghișeul de bilete de la începutul secolului XX frumos conservat.",
+            "en": "Step inside to see the grand Liberty-style architecture of this historic spa building, and take a moment to look at the beautifully preserved early 20th-century ticket counter before heading out."
+          }
+        },
+        {
+          "name": {
+            "de": "Terme Leopoldine",
+            "hu": "Terme Leopoldine",
+            "ro": "Terme Leopoldine",
+            "en": "Terme Leopoldine"
+          },
+          "coords": [
+            10.775625,
+            43.886807
+          ],
+          "category": "landmark",
+          "arrive_at": "12:26",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Fotografieren Sie die monumentale klassizistische Fassade dieser vom Großherzog Leopold erbauten historischen Thermen und nehmen Sie die weitläufige Kolonnade aus einem niedrigen Winkel auf.",
+            "hu": "Fényképezze le Lipót nagyherceg történelmi termálfürdőjének monumentális neoklasszikus homlokzatát, és fotózza a lenyűgöző oszlopsort alulról a legdrámaibb hatás eléréséhez.",
+            "ro": "Fotografiați fațada neoclasică monumentală a acestor băi termale istorice construite de Marele Duce Leopold, surprinzând colonada amplă dintr-un unghi jos pentru un efect mai dramatic.",
+            "en": "Photograph the monumental neoclassical facade of these historic thermal baths built by Grand Duke Leopold, capturing the sweeping colonnade from a low angle for the most dramatic effect."
+          }
+        },
+        {
+          "name": {
+            "de": "Terme Tettuccio",
+            "hu": "Terme Tettuccio",
+            "ro": "Terme Tettuccio",
+            "en": "Terme Tettuccio"
+          },
+          "coords": [
+            10.776943,
+            43.888705
+          ],
+          "category": "landmark",
+          "arrive_at": "13:15",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Erleben Sie den Inbegriff italienischen Kur-Luxus in diesem UNESCO-geschützten Komplex, wo Sie unbedingt einen Espresso im eleganten historischen Café mit Blick auf die gepflegten Innenhöfe trinken sollten.",
+            "hu": "Tapasztalja meg az olasz fürdővilág luxusának csúcsát ebben az UNESCO által jegyzett komplexumban, ahol mindenképp igyon egy eszpresszót a gondozott udvarokra néző elegáns, történelmi kávézóban.",
+            "ro": "Experimentați esența luxului termal italian în acest complex listat de UNESCO, unde ar trebui neapărat să savurați un espresso la cafeneaua istorică elegantă cu vedere spre curțile interioare îngrijite.",
+            "en": "Experience the epitome of Italian spa luxury in this UNESCO-listed complex, where you should definitely grab an espresso at the elegant historical café overlooking the manicured courtyards."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Termale",
+            "hu": "Parco Termale",
+            "ro": "Parco Termale",
+            "en": "Parco Termale"
+          },
+          "coords": [
+            10.773826,
+            43.888528
+          ],
+          "category": "park",
+          "arrive_at": "14:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Schlendern Sie unter den alten Pinien in dieser weitläufigen grünen Lunge des Kurorts, ein perfekter Ort, um sich nach der Besichtigung der großartigen Architektur auf einer schattigen Bank auszuruhen.",
+            "hu": "Sétáljon az ősi fenyőfák alatt a fürdőváros ezen kiterjedt zöld tüdejében, amely tökéletes hely arra, hogy leüljön egy árnyékos padra megpihenni a grandiózus építészet felfedezése után.",
+            "ro": "Plimbați-vă pe sub pinii seculari în acest plămân verde întins al orașului termal, un loc perfect pentru a vă așeza pe o bancă la umbră și a vă odihni picioarele după explorarea arhitecturii grandioase.",
+            "en": "Stroll beneath the ancient pine trees in this expansive green lung of the spa town, a perfect spot to sit on a shaded bench and rest your feet after exploring the grand architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Padiglione Regina",
+            "hu": "Padiglione Regina",
+            "ro": "Padiglione Regina",
+            "en": "Padiglione Regina"
+          },
+          "coords": [
+            10.777685,
+            43.887794
+          ],
+          "category": "landmark",
+          "arrive_at": "15:24",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Betrachten Sie die feinen Jugendstildetails dieses kleineren Pavillons, der speziell für königliche Besuche erbaut wurde, und achten Sie genau auf die aufwendigen Schmiedearbeiten an den eleganten Eingängen.",
+            "hu": "Figyelje meg a kifejezetten királyi látogatásokra épült kisebb pavilon finom szecessziós részleteit, és nézze meg közelebbről az elegáns bejáratokat keretező bonyolult kovácsoltvas munkákat.",
+            "ro": "Observați detaliile delicate Art Nouveau ale acestui pavilion mai mic, construit special pentru vizitele regale, și priviți îndeaproape feroneria complexă care încadrează intrările sale elegante.",
+            "en": "Observe the delicate Art Nouveau details of this smaller pavilion, built specifically for royal visits, and look closely at the intricate ironwork framing its elegant entranceways."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Francesco",
+            "hu": "Chiesa di San Francesco",
+            "ro": "Chiesa di San Francesco",
+            "en": "Chiesa di San Francesco"
+          },
+          "coords": [
+            10.781183,
+            43.885242
+          ],
+          "category": "religious",
+          "arrive_at": "16:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Rundgang an dieser ruhigen Kirche am Rande des historischen Zentrums und bemerken Sie die friedlichere Atmosphäre im Vergleich zu den belebten Thermalalleen in der Nähe.",
+            "hu": "Fejezze be sétáját ennél a békés templomnál a történelmi központ szélén, és élvezze a csendesebb atmoszférát a közeli, nyüzsgő termál sugárutakhoz képest.",
+            "ro": "Încheiați-vă turul pietonal la această biserică liniștită de la marginea centrului istoric, remarcând atmosfera sa mai calmă în comparație cu bulevardele termale animate din apropiere.",
+            "en": "Conclude your walking tour at this serene church on the edge of the historic center, noting its quieter atmosphere compared to the bustling thermal avenues nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen an der Basilika mit ihren markanten Buntglasfenstern. Danach schlendern Sie zum MO.C.A., um zeitgenössische Kunst zu erleben. Mittags betreten Sie das herrliche Kurviertel, vorbei an der im Liberty-Stil erbauten Terme Excelsior bis zu den Säulen der Terme Leopoldine. Verbringen Sie den Nachmittag in der atemberaubenden Terme Tettuccio bei einem Espresso in UNESCO-geschützter Pracht. Kühlen Sie sich bei einem Spaziergang unter den Pinien des Parco Termale ab. Gegen Abend passieren Sie den eleganten Padiglione Regina auf dem Weg zur Chiesa di San Francesco.",
+        "hu": "Kezdje a reggelt a központi bazilika jellegzetes ólomüveg ablakainak megcsodálásával. Ahogy a város ébredezik, tegyen egy rövid sétát a MO.C.A.-ba a kortárs művészetért. A dél a lenyűgöző fürdőövezetbe hívja, elhaladva a szecessziós Terme Excelsior és a Terme Leopoldine oszlopai mellett. Töltse a délutánt a lélegzetelállító Terme Tettuccióban, eszpresszót kortyolgatva a világörökségi pompában. Hűtse le magát egy késő délutáni sétával a Parco Termale ősi fenyői alatt. Estefelé menjen el az elegáns Padiglione Regina mellett a békés Chiesa di San Francesco felé.",
+        "ro": "Începeți dimineața admirând vitraliile distinctive de la Bazilica centrală. Pe măsură ce orașul se trezește, faceți o scurtă plimbare la MO.C.A. pentru artă contemporană. Amiaza vă aduce în magnifica zonă termală, trecând pe lângă Terme Excelsior în stil Liberty înainte de a privi coloanele Terme Leopoldine. Petreceți după-amiaza în uluitoarea Terme Tettuccio, savurând espresso în splendoarea listată de UNESCO. Răcoriți-vă cu o plimbare printre pinii Parco Termale. Când se lasă seara, treceți de elegantul Padiglione Regina spre liniștita Chiesa di San Francesco.",
+        "en": "Start your morning admiring the distinctive stained glass at the central Basilica. As the town awakens, take a short stroll to the MO.C.A. to immerse yourself in contemporary art. Midday brings you into the magnificent spa zone, passing the Liberty-style Terme Excelsior before gazing up at the columns of Terme Leopoldine. Spend your afternoon inside the breathtaking Terme Tettuccio, sipping espresso amidst UNESCO-listed splendor. Cool off with a late afternoon walk through the ancient pines of the Parco Termale. As evening falls, pass the elegant Padiglione Regina on your way to the peaceful Chiesa di San Francesco."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:18",
+      "total_km": 6.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Basilica di Santa Maria Assunta",
+            "hu": "Basilica di Santa Maria Assunta",
+            "ro": "Basilica di Santa Maria Assunta",
+            "en": "Basilica di Santa Maria Assunta"
+          },
+          "coords": [
+            10.770163,
+            43.882661
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die modernen Buntglasfenster dieser zentralen Basilika, die architektonisch vom klassischen Kurort-Stil abweicht, und besuchen Sie sie am besten früh, wenn das Morgenlicht das Kirchenschiff erhellt.",
+            "hu": "Csodálja meg ennek a központi bazilikának a modern ólomüveg ablakait, amely építészetileg eltér a klasszikus fürdővárosi stílustól, és a legjobb kora reggel meglátogatni, amikor a fény bevilágítja a főhajót.",
+            "ro": "Admirați vitraliile moderne ale acestei bazilici centrale, o abatere arhitecturală de la stilul clasic al orașului termal, cel mai bine vizitată dimineața devreme, când lumina pătrunde în naos.",
+            "en": "Admire the modern stained glass windows of this central basilica, an architectural departure from the classic thermal town style, best visited early when the morning light hits the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Maltagliati",
+            "hu": "Villa Maltagliati",
+            "ro": "Villa Maltagliati",
+            "en": "Villa Maltagliati"
+          },
+          "coords": [
+            10.753522,
+            43.885771
+          ],
+          "category": "historical",
+          "arrive_at": "09:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das grandiose Äußere dieser prestigeträchtigen historischen Villa, ein Zeugnis der aristokratischen Vergangenheit der Stadt, die sich während einer morgendlichen Radtour hervorragend als Fotomotiv eignet.",
+            "hu": "Csodálja meg e tekintélyes történelmi villa grandiózus külsejét, amely a város arisztokratikus múltjáról tanúskodik, és gyönyörű fotóháttérként szolgál a reggeli kerékpározás során.",
+            "ro": "Minunați-vă de exteriorul grandios al acestei prestigioase vile istorice, o mărturie a trecutului aristocratic al orașului, care oferă un fundal fotografic superb în timpul unei plimbări matinale cu bicicleta.",
+            "en": "Marvel at the grandiose exterior of this prestigious historical villa, a testament to the town's aristocratic past, which makes for a beautiful photo backdrop during a morning cycle."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Ankuri",
+            "hu": "Villa Ankuri",
+            "ro": "Villa Ankuri",
+            "en": "Villa Ankuri"
+          },
+          "coords": [
+            10.749087,
+            43.886388
+          ],
+          "category": "historical",
+          "arrive_at": "11:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Radeln Sie weiter hinaus, um die ländliche Ruhe rund um dieses elegante Landgut zu genießen, und bringen Sie etwas Wasser mit, da es in diesem weniger besuchten Wohnviertel weniger Cafés gibt.",
+            "hu": "Kerékpározzon kijjebb, hogy értékelje az ezen elegáns vidéki birtokot körülvevő nyugalmat, és vigyen magával vizet, mivel ebben a kevésbé látogatott lakónegyedben kevesebb kávézó található.",
+            "ro": "Pedalați mai departe pentru a aprecia liniștea rurală care înconjoară această elegantă moșie de la țară, luând ceva apă la dumneavoastră, deoarece sunt mai puține cafenele în acest cartier rezidențial mai puțin vizitat.",
+            "en": "Cycle further out to appreciate the rural tranquility surrounding this elegant countryside estate, bringing some water along as there are fewer cafes in this less-visited residential district."
+          }
+        },
+        {
+          "name": {
+            "de": "MO.C.A. Montecatini Contemporary Art",
+            "hu": "MO.C.A. Montecatini Kortárs Művészet",
+            "ro": "MO.C.A. Artă Contemporană Montecatini",
+            "en": "MO.C.A. Montecatini Contemporary Art"
+          },
+          "coords": [
+            10.77267,
+            43.883966
+          ],
+          "category": "museum",
+          "arrive_at": "12:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine überraschend reiche Sammlung zeitgenössischer Kunst im historischen Rathaus und verpassen Sie nicht das Meisterwerk von Joan Miró, das gut sichtbar im Hauptgeschoss ausgestellt ist.",
+            "hu": "Fedezze fel a történelmi városházán helyet kapott, meglepően gazdag kortárs művészeti gyűjteményt, és semmiképp se hagyja ki Joan Miró a főemeleten kiállított remekművét.",
+            "ro": "Explorați o colecție surprinzător de bogată de artă contemporană găzduită în primăria istorică și nu ratați capodopera lui Joan Miró expusă la loc de cinste la etajul principal.",
+            "en": "Explore a surprisingly rich collection of contemporary art housed in the historic town hall, and don't miss the masterpiece by Joan Miró prominently displayed on the main floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Terme Tettuccio",
+            "hu": "Terme Tettuccio",
+            "ro": "Terme Tettuccio",
+            "en": "Terme Tettuccio"
+          },
+          "coords": [
+            10.776943,
+            43.888705
+          ],
+          "category": "landmark",
+          "arrive_at": "14:36",
+          "stay_min": 45,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erleben Sie den Inbegriff italienischen Kur-Luxus in diesem UNESCO-geschützten Komplex, wo Sie unbedingt einen Espresso im eleganten historischen Café mit Blick auf die gepflegten Innenhöfe trinken sollten.",
+            "hu": "Tapasztalja meg az olasz fürdővilág luxusának csúcsát ebben az UNESCO által jegyzett komplexumban, ahol mindenképp igyon egy eszpresszót a gondozott udvarokra néző elegáns, történelmi kávézóban.",
+            "ro": "Experimentați esența luxului termal italian în acest complex listat de UNESCO, unde ar trebui neapărat să savurați un espresso la cafeneaua istorică elegantă cu vedere spre curțile interioare îngrijite.",
+            "en": "Experience the epitome of Italian spa luxury in this UNESCO-listed complex, where you should definitely grab an espresso at the elegant historical café overlooking the manicured courtyards."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotta Maona",
+            "hu": "Grotta Maona",
+            "ro": "Grotta Maona",
+            "en": "Grotta Maona"
+          },
+          "coords": [
+            10.775709,
+            43.898573
+          ],
+          "category": "natural",
+          "arrive_at": "15:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Wagen Sie sich in dieses alte natürliche Höhlensystem, das für seine zwei unterirdischen Seen berühmt ist, und tragen Sie festes Schuhwerk, um sicher über die feuchten und teils rutschigen Kalksteinwege zu gehen.",
+            "hu": "Merészkedjen be ebbe a két földalatti taváról híres ősi természetes barlangrendszerbe, és viseljen masszív cipőt, hogy biztonságosan közlekedjen a nedves és néhol csúszós mészkő járatokban.",
+            "ro": "Aventurați-vă în acest vechi sistem natural de peșteri faimos pentru cele două lacuri subterane ale sale, purtând încălțăminte rezistentă pentru a naviga în siguranță pe aleile din calcar umede și uneori alunecoase.",
+            "en": "Venture into this ancient natural cave system famed for its two underground lakes, wearing sturdy shoes to safely navigate the damp and occasionally slippery limestone walkways."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Termale",
+            "hu": "Parco Termale",
+            "ro": "Parco Termale",
+            "en": "Parco Termale"
+          },
+          "coords": [
+            10.773826,
+            43.888528
+          ],
+          "category": "park",
+          "arrive_at": "16:33",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Schlendern Sie unter den alten Pinien in dieser weitläufigen grünen Lunge des Kurorts, ein perfekter Ort, um sich nach der Besichtigung der großartigen Architektur auf einer schattigen Bank auszuruhen.",
+            "hu": "Sétáljon az ősi fenyőfák alatt a fürdőváros ezen kiterjedt zöld tüdejében, amely tökéletes hely arra, hogy leüljön egy árnyékos padra megpihenni a grandiózus építészet felfedezése után.",
+            "ro": "Plimbați-vă pe sub pinii seculari în acest plămân verde întins al orașului termal, un loc perfect pentru a vă așeza pe o bancă la umbră și a vă odihni picioarele după explorarea arhitecturii grandioase.",
+            "en": "Stroll beneath the ancient pine trees in this expansive green lung of the spa town, a perfect spot to sit on a shaded bench and rest your feet after exploring the grand architecture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie früh von der Basilika zu den aristokratischen Rändern der Stadt und bewundern Sie die Fassade der Villa Maltagliati. Setzen Sie die morgendliche Fahrt zur ruhigen Villa Ankuri fort, bevor Sie ins Zentrum zurückkehren. Der Mittag ist perfekt für einen künstlerischen Abstecher ins MO.C.A. im historischen Rathaus. Am Nachmittag radeln Sie zur grandiosen Terme Tettuccio und dann weiter bergauf, um die unterirdischen Wunder der Grotta Maona zu entdecken. Beenden Sie den Tag, indem Sie gemütlich zu den üppigen Wegen des Parco Termale hinunterrollen.",
+        "hu": "Kerékpározzon ki korán a központi bazilikától a város arisztokratikus peremvidékére, és csodálja meg a Villa Maltagliati fenséges homlokzatát. Folytassa útját a Villa Ankuri nyugodt területére, mielőtt visszatérne a központba. A dél kiváló a MO.C.A. művészeti kitérőjéhez. Délután tekerjen fel a grandiózus Terme Tettuccióhoz, majd menjen még feljebb, hogy felfedezze a Grotta Maona földalatti csodáit. Fejezze be a napot úgy, hogy kényelmesen legurul a Parco Termale buja, zöldellő ösvényeire a kellemes esti órákban.",
+        "ro": "Pedalați devreme de la Bazilică spre marginile aristocratice ale orașului, admirând fațada maiestuoasă a Vilei Maltagliati. Continuați plimbarea matinală spre domeniul liniștit Villa Ankuri înainte de a vă întoarce în centru. Amiaza este perfectă pentru un ocol artistic la MO.C.A. După-amiaza, urcați pe bicicletă spre grandioasa Terme Tettuccio, apoi continuați mai sus pentru a descoperi minunile subterane de la Grotta Maona. Încheiați ziua coborând în voie spre cărările luxuriante ale Parco Termale în lumina blândă a serii.",
+        "en": "Cycle out early from the central Basilica to the quieter, aristocratic fringes of town, first taking in the majestic facade of Villa Maltagliati. Continue your morning ride out to the tranquil grounds of Villa Ankuri before looping back toward the bustling center. Midday is perfect for an artistic detour at MO.C.A., safely locking your bike outside the historic town hall. In the afternoon, pedal up to the grand Terme Tettuccio, then push further uphill to discover the subterranean wonders of Grotta Maona. Finish the day freewheeling back down to the lush paths of Parco Termale."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:31",
+      "total_km": 6.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Presepe meccanizzato",
+            "hu": "Presepe meccanizzato",
+            "ro": "Presepe meccanizzato",
+            "en": "Presepe meccanizzato"
+          },
+          "coords": [
+            10.753639,
+            43.869689
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 55,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese unglaublich detaillierte mechanische Krippe abseits der Touristenpfade und haben Sie ein paar kleine Münzen als Spende für die Handwerker parat, die sie ganzjährig in Betrieb halten.",
+            "hu": "Fedezze fel ezt a hihetetlenül részletgazdag mechanikus betlehemet, távol a fő turistaútvonalaktól, és vigyen magával néhány aprópénzt adományként az elkötelezett kézműveseknek, akik egész évben üzemeltetik.",
+            "ro": "Descoperiți această scenă mecanică a nașterii incredibil de detaliată ascunsă departe de traseul turistic principal, având la voi câteva monede mici ca donație pentru artizanii dedicați care o mențin în funcțiune tot anul.",
+            "en": "Discover this incredibly detailed mechanical nativity scene hidden off the main tourist track, carrying a few small coins as a donation for the dedicated artisans who keep it running year-round."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Gusci",
+            "hu": "Villa Gusci",
+            "ro": "Villa Gusci",
+            "en": "Villa Gusci"
+          },
+          "coords": [
+            10.753332,
+            43.870917
+          ],
+          "category": "historical",
+          "arrive_at": "09:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fahren Sie an den imposanten Toren dieses historischen Anwesens vorbei, um einen Blick auf den italienischen Glamour der alten Welt zu erhaschen, und beachten Sie die symmetrischen Gärten an der Auffahrt.",
+            "hu": "Hajtson el ezen történelmi birtok impozáns kapui mellett, hogy bepillantást nyerjen a régi világ olasz ragyogásába, és figyelje meg a birtok felhajtóját szegélyező gyönyörű szimmetrikus kerteket.",
+            "ro": "Conduceți pe lângă porțile impunătoare ale acestei proprietăți istorice pentru a surprinde o frântură din farmecul italian de modă veche, remarcând grădinile simetrice frumoase care străjuiesc aleea grandioasă a moșiei.",
+            "en": "Drive past the imposing gates of this historical property to catch a glimpse of old-world Italian glamour, noting the beautiful symmetrical gardens that line the estate's grand driveway."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Ankuri",
+            "hu": "Villa Ankuri",
+            "ro": "Villa Ankuri",
+            "en": "Villa Ankuri"
+          },
+          "coords": [
+            10.749087,
+            43.886388
+          ],
+          "category": "historical",
+          "arrive_at": "11:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Radeln Sie weiter hinaus, um die ländliche Ruhe rund um dieses elegante Landgut zu genießen, und bringen Sie etwas Wasser mit, da es in diesem weniger besuchten Wohnviertel weniger Cafés gibt.",
+            "hu": "Kerékpározzon kijjebb, hogy értékelje az ezen elegáns vidéki birtokot körülvevő nyugalmat, és vigyen magával vizet, mivel ebben a kevésbé látogatott lakónegyedben kevesebb kávézó található.",
+            "ro": "Pedalați mai departe pentru a aprecia liniștea rurală care înconjoară această elegantă moșie de la țară, luând ceva apă la dumneavoastră, deoarece sunt mai puține cafenele în acest cartier rezidențial mai puțin vizitat.",
+            "en": "Cycle further out to appreciate the rural tranquility surrounding this elegant countryside estate, bringing some water along as there are fewer cafes in this less-visited residential district."
+          }
+        },
+        {
+          "name": {
+            "de": "Terme Redi",
+            "hu": "Terme Redi",
+            "ro": "Terme Redi",
+            "en": "Terme Redi"
+          },
+          "coords": [
+            10.776858,
+            43.88358
+          ],
+          "category": "landmark",
+          "arrive_at": "12:45",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese moderne Thermenanlage, die für ihre therapeutischen Thermalbecken bekannt ist, und erkundigen Sie sich nach den berühmten Schlammbehandlungen für ein späteres Wellness-Erlebnis.",
+            "hu": "Látogasson el ebbe a terápiás medencéiről ismert modern termálfürdőbe, és érdeklődjön a híres iszapkezelések felől, ha később visszatérne egy teljes körű wellness-élményre.",
+            "ro": "Vizitați această facilitate termală modernă cunoscută pentru piscinele sale terapeutice și interesați-vă de faimoasele tratamente cu nămol dacă plănuiți să vă întoarceți mai târziu pentru o experiență de wellness completă.",
+            "en": "Visit this modern thermal facility known for its therapeutic thermal pools, and inquire about their famous mud treatments if you plan on returning later for a fully immersive wellness experience."
+          }
+        },
+        {
+          "name": {
+            "de": "MO.C.A. Montecatini Contemporary Art",
+            "hu": "MO.C.A. Montecatini Kortárs Művészet",
+            "ro": "MO.C.A. Artă Contemporană Montecatini",
+            "en": "MO.C.A. Montecatini Contemporary Art"
+          },
+          "coords": [
+            10.77267,
+            43.883966
+          ],
+          "category": "museum",
+          "arrive_at": "13:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine überraschend reiche Sammlung zeitgenössischer Kunst im historischen Rathaus und verpassen Sie nicht das Meisterwerk von Joan Miró, das gut sichtbar im Hauptgeschoss ausgestellt ist.",
+            "hu": "Fedezze fel a történelmi városházán helyet kapott, meglepően gazdag kortárs művészeti gyűjteményt, és semmiképp se hagyja ki Joan Miró a főemeleten kiállított remekművét.",
+            "ro": "Explorați o colecție surprinzător de bogată de artă contemporană găzduită în primăria istorică și nu ratați capodopera lui Joan Miró expusă la loc de cinste la etajul principal.",
+            "en": "Explore a surprisingly rich collection of contemporary art housed in the historic town hall, and don't miss the masterpiece by Joan Miró prominently displayed on the main floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Terme Tettuccio",
+            "hu": "Terme Tettuccio",
+            "ro": "Terme Tettuccio",
+            "en": "Terme Tettuccio"
+          },
+          "coords": [
+            10.776943,
+            43.888705
+          ],
+          "category": "landmark",
+          "arrive_at": "15:13",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erleben Sie den Inbegriff italienischen Kur-Luxus in diesem UNESCO-geschützten Komplex, wo Sie unbedingt einen Espresso im eleganten historischen Café mit Blick auf die gepflegten Innenhöfe trinken sollten.",
+            "hu": "Tapasztalja meg az olasz fürdővilág luxusának csúcsát ebben az UNESCO által jegyzett komplexumban, ahol mindenképp igyon egy eszpresszót a gondozott udvarokra néző elegáns, történelmi kávézóban.",
+            "ro": "Experimentați esența luxului termal italian în acest complex listat de UNESCO, unde ar trebui neapărat să savurați un espresso la cafeneaua istorică elegantă cu vedere spre curțile interioare îngrijite.",
+            "en": "Experience the epitome of Italian spa luxury in this UNESCO-listed complex, where you should definitely grab an espresso at the elegant historical café overlooking the manicured courtyards."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotta Maona",
+            "hu": "Grotta Maona",
+            "ro": "Grotta Maona",
+            "en": "Grotta Maona"
+          },
+          "coords": [
+            10.775709,
+            43.898573
+          ],
+          "category": "natural",
+          "arrive_at": "16:01",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Wagen Sie sich in dieses alte natürliche Höhlensystem, das für seine zwei unterirdischen Seen berühmt ist, und tragen Sie festes Schuhwerk, um sicher über die feuchten und teils rutschigen Kalksteinwege zu gehen.",
+            "hu": "Merészkedjen be ebbe a két földalatti taváról híres ősi természetes barlangrendszerbe, és viseljen masszív cipőt, hogy biztonságosan közlekedjen a nedves és néhol csúszós mészkő járatokban.",
+            "ro": "Aventurați-vă în acest vechi sistem natural de peșteri faimos pentru cele două lacuri subterane ale sale, purtând încălțăminte rezistentă pentru a naviga în siguranță pe aleile din calcar umede și uneori alunecoase.",
+            "en": "Venture into this ancient natural cave system famed for its two underground lakes, wearing sturdy shoes to safely navigate the damp and occasionally slippery limestone walkways."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour am südlichen Stadtrand an der faszinierenden mechanischen Krippe. Nur ein Stück die Straße hinauf bewundern Sie die Auffahrt der historischen Villa Gusci. Mittags fahren Sie nach Westen zur Villa Ankuri, bevor Sie die modernen Kurangebote der Terme Redi erkunden. Parken Sie nachmittags zentral, um die zeitgenössischen Werke im MO.C.A. und die Pracht der Terme Tettuccio zu sehen. Wenn die Sonne tiefer steht, fahren Sie nach Norden, um das Abenteuer in den Höhlen der Grotta Maona zu beenden.",
+        "hu": "Kezdje autós túráját a déli külvárosban a lenyűgöző mechanikus betlehemnél. Kicsit feljebb megcsodálhatja a történelmi Villa Gusci tágas felhajtóját. Délben hajtson nyugat felé a Villa Ankurihoz, mielőtt elmerülne a Terme Redi modern fürdőiben. Délután parkoljon le a központban, hogy megtekintse a MO.C.A. kortárs műveit és a Terme Tettuccio történelmi pompáját. Ahogy a nap kezd lemenni, hajtson észak felé, és fejezze be a kalandot a Grotta Maona természetes barlangjainak mélyén.",
+        "ro": "Începeți turul cu mașina la periferia sudică la fascinanta Presepe meccanizzato. Chiar în susul drumului, admirați aleea grandioasă a istoricei Villa Gusci. La amiază, conduceți spre vest la Villa Ankuri înainte de a plonja în ofertele moderne de spa la Terme Redi. Parcați central după-amiaza pentru a vedea lucrările contemporane la MO.C.A. și măreția istorică de la Terme Tettuccio în apropiere. Pe măsură ce soarele coboară, conduceți spre nord pentru a vă încheia aventura în cavernele naturale de la Grotta Maona.",
+        "en": "Start your driving tour on the southern outskirts at the fascinating Presepe meccanizzato, a testament to local craftsmanship. Just up the road, admire the sweeping driveway of historic Villa Gusci. By midday, cruise westward to capture the stately presence of Villa Ankuri before diving into the city's modern spa offerings at Terme Redi. Park centrally in the afternoon to view the contemporary works at MO.C.A. and the historic grandeur of Terme Tettuccio nearby. As the sun begins to lower, drive north to end your adventure deep within the natural caverns of Grotta Maona."
+      }
+    }
+  }
+}

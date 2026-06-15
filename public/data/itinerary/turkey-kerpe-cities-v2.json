@@ -1,0 +1,497 @@
+{
+  "city_id": "turkey-kerpe-cities-v2",
+  "anchor": {
+    "name": "Kerpe",
+    "coords": [
+      30.19574,
+      41.15958
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:03",
+      "total_km": 2.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kerpe Kayaliklari",
+            "hu": "Kerpe Kayaliklari",
+            "ro": "Kerpe Kayaliklari",
+            "en": "Kerpe Kayaliklari"
+          },
+          "coords": [
+            30.191837,
+            41.159506
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese einzigartigen, von den Wellen geformten Klippen bei Sonnenuntergang für die besten Fotos, bleiben Sie aber stets in sicherem Abstand zur Kante.",
+            "hu": "Csodálja meg a hullámok által formált egyedi sziklákat a legszebb fotókért, de mindig tartson biztonságos távolságot a peremtől.",
+            "ro": "Admirați aceste stânci unice sculptate de valuri pentru cele mai bune fotografii, dar păstrați mereu o distanță sigură de margine.",
+            "en": "Marvel at these unique, wave-sculpted cliffs which offer stunning backdrops for photography, but always keep a safe distance from the edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Miço Koyu Kadınlar Plajı",
+            "hu": "Miço Koyu Kadınlar Plajı",
+            "ro": "Miço Koyu Kadınlar Plajı",
+            "en": "Miço Koyu Kadınlar Plajı"
+          },
+          "coords": [
+            30.200639,
+            41.16063
+          ],
+          "category": "recreational",
+          "arrive_at": "10:02",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Dieser exklusive Strandabschnitt für Frauen bietet Privatsphäre und sauberen Sand, weshalb ein Besuch an Wochentagen für maximale Ruhe empfehlenswert ist.",
+            "hu": "Ez a kizárólag nőknek fenntartott strandszakasz privát szférát és tiszta homokot kínál, ezért érdemes hétköznap jönni a teljes nyugalomért.",
+            "ro": "Acest sector de plajă exclusiv pentru femei oferă intimitate și nisip curat, vizitarea în timpul săptămânii fiind recomandată pentru liniște.",
+            "en": "This exclusive women-only beach area offers privacy and pristine sand, so visiting on weekdays is recommended for maximum tranquility."
+          }
+        },
+        {
+          "name": {
+            "de": "Kerpe Plajı",
+            "hu": "Kerpe Plajı",
+            "ro": "Kerpe Plajı",
+            "en": "Kerpe Plajı"
+          },
+          "coords": [
+            30.196571,
+            41.156264
+          ],
+          "category": "recreational",
+          "arrive_at": "11:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Der zentrale Hauptstrand lockt mit feinem Sand und zahlreichen Cafés, aber seien Sie bereit auf ein lebhaftes Publikum in der Hochsaison.",
+            "hu": "A központi fő strand finom homokkal és számos kávézóval várja a látogatókat, de főszezonban készüljön fel a nyüzsgő tömegre.",
+            "ro": "Plaja centrală principală atrage cu nisip fin și numeroase cafenele, dar fiți pregătiți pentru o atmosferă plină de viață în plin sezon.",
+            "en": "The central main beach attracts visitors with its fine sand and nearby cafes, but be prepared for a lively crowd during the peak summer season."
+          }
+        },
+        {
+          "name": {
+            "de": "Paşaağzı",
+            "hu": "Paşaağzı",
+            "ro": "Paşaağzı",
+            "en": "Paşaağzı"
+          },
+          "coords": [
+            30.197033,
+            41.152741
+          ],
+          "category": "recreational",
+          "arrive_at": "12:32",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie in dieser malerischen kleinen Bucht abseits der Hauptstrände, und nehmen Sie Taucherbrillen mit, um die klaren Gewässer zu erkunden.",
+            "hu": "Pihenjen ebben a festői, csendes kis öbölben távol a fő strandoktól, és hozzon magával búvárszemüveget a tiszta víz felfedezéséhez.",
+            "ro": "Relaxați-vă în acest mic golf pitoresc departe de agitație și aduceți ochelari de scufundări pentru a explora apele limpezi.",
+            "en": "Relax in this picturesque small cove away from the main beach crowds, and consider bringing snorkeling gear to explore the clear waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Ömerağzı",
+            "hu": "Ömerağzı",
+            "ro": "Ömerağzı",
+            "en": "Ömerağzı"
+          },
+          "coords": [
+            30.187675,
+            41.145669
+          ],
+          "category": "recreational",
+          "arrive_at": "13:33",
+          "stay_min": 90,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Dieser abgelegene Strandbereich eignet sich perfekt für ein friedliches Picknick am Meer, also bringen Sie unbedingt Ihre eigenen Snacks mit.",
+            "hu": "Ez az eldugott partszakasz tökéletes egy békés tengerparti piknikhez, ezért feltétlenül hozzon magával saját harapnivalókat.",
+            "ro": "Acest sector de plajă izolat este perfect pentru un picnic liniștit, așa că nu uitați să vă aduceți propriile gustări și băuturi.",
+            "en": "This secluded beach area is perfect for a peaceful seaside picnic, so be sure to bring along your own snacks and drinks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an den majestätischen Klippen von Kerpe Kayaliklari, wo die Meeresbrise und die atemberaubende Felslandschaft einen energiegeladenen Start versprechen. Wandern Sie danach gemütlich zum Miço Koyu Kadınlar Plajı für entspannte Momente. Mittags erreichen Sie den belebten Kerpe Plajı, ideal für eine Pause. Nachmittags führt der Weg nach Paşaağzı und endet idyllisch in Ömerağzı.",
+        "hu": "Kezdje a napot a fenséges Kerpe Kayaliklari szikláinál, ahol a tengeri szellő és a drámai táj energikus indulást biztosít. Ezután sétáljon át a csendesebb Miço Koyu partszakaszra. Délben érkezzen meg a nyüzsgő Kerpe Plajı strandhoz, ami tökéletes hely egy rövid pihenőre. Délután folytassa útját a festői Paşaağzı felé, majd zárja a napot a nyugalmat árasztó Ömerağzı tengerpartján.",
+        "ro": "Începeți ziua la stâncile mărețe din Kerpe Kayaliklari, unde briza mării și peisajul dramatic oferă un start energizant. Apoi plimbați-vă relaxat spre zona Miço Koyu. La prânz, ajungeți la vibranta Kerpe Plajı, ideală pentru o pauză. După-amiaza, drumul vă poartă spre golful liniștit Paşaağzı, iar explorarea se încheie la apus pe plaja retrasă și pitorească din Ömerağzı.",
+        "en": "Start your day at the majestic cliffs of Kerpe Kayaliklari, where the sea breeze and dramatic landscape promise an energizing beginning. Stroll smoothly toward the secluded sandy stretch of Miço Koyu next. By midday, reach the lively central Kerpe Plajı, perfect for taking a leisurely break. Spend the afternoon exploring Paşaağzı, and finally end your walk in the tranquil nature of Ömerağzı."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:52",
+      "total_km": 5.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Baba Burnu",
+            "hu": "Baba Burnu",
+            "ro": "Baba Burnu",
+            "en": "Baba Burnu"
+          },
+          "coords": [
+            30.178198,
+            41.152495
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Panoramablick von dieser ruhigen Landspitze, aber tragen Sie feste Schuhe für den unebenen Weg.",
+            "hu": "Élvezze a lenyűgöző panorámát erről a csendes fokról, de mindenképpen viseljen kényelmes cipőt az egyenetlen terep miatt.",
+            "ro": "Bucurați-vă de vederea panoramică de pe acest promontoriu liniștit, dar purtați încălțăminte adecvată pentru potecile denivelate.",
+            "en": "Enjoy the sweeping panoramic views from this tranquil headland, but make sure to wear sturdy shoes for the uneven pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Ömerağzı",
+            "hu": "Ömerağzı",
+            "ro": "Ömerağzı",
+            "en": "Ömerağzı"
+          },
+          "coords": [
+            30.187675,
+            41.145669
+          ],
+          "category": "recreational",
+          "arrive_at": "09:51",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Dieser abgelegene Strandbereich eignet sich perfekt für ein friedliches Picknick am Meer, also bringen Sie unbedingt Ihre eigenen Snacks mit.",
+            "hu": "Ez az eldugott partszakasz tökéletes egy békés tengerparti piknikhez, ezért feltétlenül hozzon magával saját harapnivalókat.",
+            "ro": "Acest sector de plajă izolat este perfect pentru un picnic liniștit, așa că nu uitați să vă aduceți propriile gustări și băuturi.",
+            "en": "This secluded beach area is perfect for a peaceful seaside picnic, so be sure to bring along your own snacks and drinks."
+          }
+        },
+        {
+          "name": {
+            "de": "Paşaağzı",
+            "hu": "Paşaağzı",
+            "ro": "Paşaağzı",
+            "en": "Paşaağzı"
+          },
+          "coords": [
+            30.197033,
+            41.152741
+          ],
+          "category": "recreational",
+          "arrive_at": "10:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie in dieser malerischen kleinen Bucht abseits der Hauptstrände, und nehmen Sie Taucherbrillen mit, um die klaren Gewässer zu erkunden.",
+            "hu": "Pihenjen ebben a festői, csendes kis öbölben távol a fő strandoktól, és hozzon magával búvárszemüveget a tiszta víz felfedezéséhez.",
+            "ro": "Relaxați-vă în acest mic golf pitoresc departe de agitație și aduceți ochelari de scufundări pentru a explora apele limpezi.",
+            "en": "Relax in this picturesque small cove away from the main beach crowds, and consider bringing snorkeling gear to explore the clear waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Kerpe Plajı",
+            "hu": "Kerpe Plajı",
+            "ro": "Kerpe Plajı",
+            "en": "Kerpe Plajı"
+          },
+          "coords": [
+            30.196571,
+            41.156264
+          ],
+          "category": "recreational",
+          "arrive_at": "11:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Der zentrale Hauptstrand lockt mit feinem Sand und zahlreichen Cafés, aber seien Sie bereit auf ein lebhaftes Publikum in der Hochsaison.",
+            "hu": "A központi fő strand finom homokkal és számos kávézóval várja a látogatókat, de főszezonban készüljön fel a nyüzsgő tömegre.",
+            "ro": "Plaja centrală principală atrage cu nisip fin și numeroase cafenele, dar fiți pregătiți pentru o atmosferă plină de viață în plin sezon.",
+            "en": "The central main beach attracts visitors with its fine sand and nearby cafes, but be prepared for a lively crowd during the peak summer season."
+          }
+        },
+        {
+          "name": {
+            "de": "Kerpe Kayaliklari",
+            "hu": "Kerpe Kayaliklari",
+            "ro": "Kerpe Kayaliklari",
+            "en": "Kerpe Kayaliklari"
+          },
+          "coords": [
+            30.191837,
+            41.159506
+          ],
+          "category": "natural",
+          "arrive_at": "12:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese einzigartigen, von den Wellen geformten Klippen bei Sonnenuntergang für die besten Fotos, bleiben Sie aber stets in sicherem Abstand zur Kante.",
+            "hu": "Csodálja meg a hullámok által formált egyedi sziklákat a legszebb fotókért, de mindig tartson biztonságos távolságot a peremtől.",
+            "ro": "Admirați aceste stânci unice sculptate de valuri pentru cele mai bune fotografii, dar păstrați mereu o distanță sigură de margine.",
+            "en": "Marvel at these unique, wave-sculpted cliffs which offer stunning backdrops for photography, but always keep a safe distance from the edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Manitas Burnu",
+            "hu": "Manitas Burnu",
+            "ro": "Manitas Burnu",
+            "en": "Manitas Burnu"
+          },
+          "coords": [
+            30.206169,
+            41.163739
+          ],
+          "category": "recreational",
+          "arrive_at": "13:44",
+          "stay_min": 30,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den Spaziergang entlang dieser Klippen für herrliche Ausblicke auf das Schwarze Meer, besonders faszinierend an leicht windigen Tagen.",
+            "hu": "Élvezze a sétát ezeken a sziklákon a Fekete-tenger lenyűgöző látványáért, amely különösen szeles napokon igazán magával ragadó.",
+            "ro": "Bucurați-vă de o plimbare de-a lungul acestor stânci pentru vederi magnifice spre Marea Neagră, deosebit de spectaculoase în zilele vântoase.",
+            "en": "Enjoy a scenic walk along these cliffs for magnificent views over the Black Sea, particularly captivating on slightly breezy days."
+          }
+        },
+        {
+          "name": {
+            "de": "Kumcağız Plajı",
+            "hu": "Kumcağız Plajı",
+            "ro": "Kumcağız Plajı",
+            "en": "Kumcağız Plajı"
+          },
+          "coords": [
+            30.223734,
+            41.160692
+          ],
+          "category": "recreational",
+          "arrive_at": "14:22",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Dieser weitläufige Sandstrand ist ideal für Familien mit seinem flachen, warmen Wasser, wobei sich ein früher Besuch lohnt, um Schattenplätze zu sichern.",
+            "hu": "Ez a tágas homokos strand sekély, meleg vizével ideális családok számára, de érdemes korán érkezni az árnyékos helyekért.",
+            "ro": "Această plajă vastă de nisip este ideală pentru familii datorită apei calde și puțin adânci, însă veniți devreme pentru a prinde umbră.",
+            "en": "This expansive sandy beach is ideal for families with its shallow, warm waters, though arriving early to secure a shady spot is highly recommended."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt am ruhigen Baba Burnu mit herrlichen Meeresblicken, perfekt um die kühle Morgenluft aufzusaugen. Radeln Sie weiter nach Ömerağzı und Paşaağzı, wo kleine Buchten zum Verweilen einladen. Mittags erreichen Sie das Zentrum bei Kerpe Plajı und bestaunen danach die spektakulären Klippen von Kerpe Kayaliklari. Am späten Nachmittag endet die Tour entspannt am Kumcağız Plajı.",
+        "hu": "A kerékpártúra a csendes Baba Burnu foknál indul, ahonnan remek kilátás nyílik a tengerre a friss reggeli levegőben. Kerekezzen tovább Ömerağzı és Paşaağzı felé, ahol apró öblök hívogatnak. Dél körül érje el a központi Kerpe Plajı strandot, majd csodálja meg a Kerpe Kayaliklari szikláit. Késő délután a hosszú homokos Kumcağız Plajı partján pihenheti ki a nap fáradalmait.",
+        "ro": "Turul pe bicicletă începe la liniștitul Baba Burnu, cu vedere superbă la mare, perfect pentru briza dimineții. Pedalați apoi spre Ömerağzı și Paşaağzı, descoperind golfuri ascunse. La prânz, ajungeți în centrul stațiunii la Kerpe Plajı și continuați apoi cu stâncile spectaculoase din Kerpe Kayaliklari. Spre seară, turul se încheie cu o plimbare relaxantă pe plaja întinsă Kumcağız Plajı.",
+        "en": "Your cycling tour starts at the tranquil Baba Burnu with magnificent sea views, perfect for soaking up the fresh morning air. Pedal on to Ömerağzı and Paşaağzı, where small coves invite you to linger. By midday, arrive at the vibrant center near Kerpe Plajı, then marvel at the spectacular cliffs of Kerpe Kayaliklari. In the late afternoon, wind down your active day at the spacious Kumcağız Plajı."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:13",
+      "total_km": 5.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kumcağız Plajı",
+            "hu": "Kumcağız Plajı",
+            "ro": "Kumcağız Plajı",
+            "en": "Kumcağız Plajı"
+          },
+          "coords": [
+            30.223734,
+            41.160692
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Dieser weitläufige Sandstrand ist ideal für Familien mit seinem flachen, warmen Wasser, wobei sich ein früher Besuch lohnt, um Schattenplätze zu sichern.",
+            "hu": "Ez a tágas homokos strand sekély, meleg vizével ideális családok számára, de érdemes korán érkezni az árnyékos helyekért.",
+            "ro": "Această plajă vastă de nisip este ideală pentru familii datorită apei calde și puțin adânci, însă veniți devreme pentru a prinde umbră.",
+            "en": "This expansive sandy beach is ideal for families with its shallow, warm waters, though arriving early to secure a shady spot is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Manitas Burnu",
+            "hu": "Manitas Burnu",
+            "ro": "Manitas Burnu",
+            "en": "Manitas Burnu"
+          },
+          "coords": [
+            30.206169,
+            41.163739
+          ],
+          "category": "recreational",
+          "arrive_at": "10:28",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Spaziergang entlang dieser Klippen für herrliche Ausblicke auf das Schwarze Meer, besonders faszinierend an leicht windigen Tagen.",
+            "hu": "Élvezze a sétát ezeken a sziklákon a Fekete-tenger lenyűgöző látványáért, amely különösen szeles napokon igazán magával ragadó.",
+            "ro": "Bucurați-vă de o plimbare de-a lungul acestor stânci pentru vederi magnifice spre Marea Neagră, deosebit de spectaculoase în zilele vântoase.",
+            "en": "Enjoy a scenic walk along these cliffs for magnificent views over the Black Sea, particularly captivating on slightly breezy days."
+          }
+        },
+        {
+          "name": {
+            "de": "Miço Koyu",
+            "hu": "Miço Koyu",
+            "ro": "Miço Koyu",
+            "en": "Miço Koyu"
+          },
+          "coords": [
+            30.205642,
+            41.162079
+          ],
+          "category": "recreational",
+          "arrive_at": "10:59",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Versteckt zwischen üppigem Grün bietet diese Bucht türkisfarbenes Wasser zum Schwimmen, ideal für einen erfrischenden Nachmittagsausflug in die Natur.",
+            "hu": "A buja növényzet között megbúvó öböl türkizkék vizével kiválóan alkalmas úszásra, így ideális egy délutáni természetközeli kikapcsolódáshoz.",
+            "ro": "Ascuns printre verdeață, acest golf oferă ape turcoaz pentru înot, fiind ideal pentru o evadare revigorantă în mijlocul naturii.",
+            "en": "Hidden among lush greenery, this cove offers turquoise waters for swimming, making it ideal for a refreshing afternoon nature escape."
+          }
+        },
+        {
+          "name": {
+            "de": "Kerpe Kayaliklari",
+            "hu": "Kerpe Kayaliklari",
+            "ro": "Kerpe Kayaliklari",
+            "en": "Kerpe Kayaliklari"
+          },
+          "coords": [
+            30.191837,
+            41.159506
+          ],
+          "category": "natural",
+          "arrive_at": "12:02",
+          "stay_min": 50,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese einzigartigen, von den Wellen geformten Klippen bei Sonnenuntergang für die besten Fotos, bleiben Sie aber stets in sicherem Abstand zur Kante.",
+            "hu": "Csodálja meg a hullámok által formált egyedi sziklákat a legszebb fotókért, de mindig tartson biztonságos távolságot a peremtől.",
+            "ro": "Admirați aceste stânci unice sculptate de valuri pentru cele mai bune fotografii, dar păstrați mereu o distanță sigură de margine.",
+            "en": "Marvel at these unique, wave-sculpted cliffs which offer stunning backdrops for photography, but always keep a safe distance from the edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Kerpe Plajı",
+            "hu": "Kerpe Plajı",
+            "ro": "Kerpe Plajı",
+            "en": "Kerpe Plajı"
+          },
+          "coords": [
+            30.196571,
+            41.156264
+          ],
+          "category": "recreational",
+          "arrive_at": "12:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der zentrale Hauptstrand lockt mit feinem Sand und zahlreichen Cafés, aber seien Sie bereit auf ein lebhaftes Publikum in der Hochsaison.",
+            "hu": "A központi fő strand finom homokkal és számos kávézóval várja a látogatókat, de főszezonban készüljön fel a nyüzsgő tömegre.",
+            "ro": "Plaja centrală principală atrage cu nisip fin și numeroase cafenele, dar fiți pregătiți pentru o atmosferă plină de viață în plin sezon.",
+            "en": "The central main beach attracts visitors with its fine sand and nearby cafes, but be prepared for a lively crowd during the peak summer season."
+          }
+        },
+        {
+          "name": {
+            "de": "Ömerağzı",
+            "hu": "Ömerağzı",
+            "ro": "Ömerağzı",
+            "en": "Ömerağzı"
+          },
+          "coords": [
+            30.187675,
+            41.145669
+          ],
+          "category": "recreational",
+          "arrive_at": "14:11",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Dieser abgelegene Strandbereich eignet sich perfekt für ein friedliches Picknick am Meer, also bringen Sie unbedingt Ihre eigenen Snacks mit.",
+            "hu": "Ez az eldugott partszakasz tökéletes egy békés tengerparti piknikhez, ezért feltétlenül hozzon magával saját harapnivalókat.",
+            "ro": "Acest sector de plajă izolat este perfect pentru un picnic liniștit, așa că nu uitați să vă aduceți propriile gustări și băuturi.",
+            "en": "This secluded beach area is perfect for a peaceful seaside picnic, so be sure to bring along your own snacks and drinks."
+          }
+        },
+        {
+          "name": {
+            "de": "Baba Burnu",
+            "hu": "Baba Burnu",
+            "ro": "Baba Burnu",
+            "en": "Baba Burnu"
+          },
+          "coords": [
+            30.178198,
+            41.152495
+          ],
+          "category": "recreational",
+          "arrive_at": "15:13",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Panoramablick von dieser ruhigen Landspitze, aber tragen Sie feste Schuhe für den unebenen Weg.",
+            "hu": "Élvezze a lenyűgöző panorámát erről a csendes fokról, de mindenképpen viseljen kényelmes cipőt az egyenetlen terep miatt.",
+            "ro": "Bucurați-vă de vederea panoramică de pe acest promontoriu liniștit, dar purtați încălțăminte adecvată pentru potecile denivelate.",
+            "en": "Enjoy the sweeping panoramic views from this tranquil headland, but make sure to wear sturdy shoes for the uneven pathways."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie komfortabel am weitläufigen Kumcağız Plajı, wo Sie den ruhigen Strandmorgen genießen können. Fahren Sie anschließend zu den Aussichtspunkten bei Manitas Burnu und der Miço Bucht. Mittags bewundern Sie die berühmten Klippen von Kerpe Kayaliklari, gefolgt vom belebten Hauptstrand Kerpe Plajı. Am Nachmittag lockt Ömerağzı, bevor der Tag mit einem Sonnenuntergang am Baba Burnu endet.",
+        "hu": "Indítsa a napot kényelmesen a tágas Kumcağız Plajı partján, élvezve a nyugodt reggeli napsütést. Autózzon tovább a Manitas Burnu és a festői Miço Koyu kilátópontjaihoz. Délben látogassa meg a híres Kerpe Kayaliklari szikláit és a nyüzsgő Kerpe Plajı-t. A délutánt a békés Ömerağzı öbölben töltheti, mielőtt a napot a lélegzetelállító Baba Burnu fok naplementéjével zárná.",
+        "ro": "Începeți confortabil la vasta Kumcağız Plajı, savurând liniștea dimineții pe plajă. Conduceți apoi spre punctele de belvedere de la Manitas Burnu și golful Miço. La prânz, admirați faimoasele stânci Kerpe Kayaliklari, urmate de plaja centrală animată Kerpe Plajı. După-amiaza vă atrage plaja izolată din Ömerağzı, înainte de a încheia ziua cu un apus spectaculos la Baba Burnu.",
+        "en": "Start comfortably at the expansive Kumcağız Plajı, enjoying the serene morning atmosphere on the beach. Drive next to the scenic viewpoints at Manitas Burnu and the secluded Miço Koyu. At midday, admire the famous rock formations of Kerpe Kayaliklari, followed by the lively main beach of Kerpe Plajı. In the afternoon, head to peaceful Ömerağzı, ending with a stunning sunset at Baba Burnu."
+      }
+    }
+  }
+}

@@ -1,0 +1,543 @@
+{
+  "city_id": "italy-salivoli-cities-v2",
+  "anchor": {
+    "name": "Salivoli",
+    "coords": [
+      10.50589,
+      42.93749
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:54",
+      "total_km": 2.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo di entomologia",
+            "hu": "Museo di entomologia",
+            "ro": "Museo di entomologia",
+            "en": "Museo di entomologia"
+          },
+          "coords": [
+            10.511985,
+            42.934285
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine faszinierende Sammlung regionaler Insekten in diesem spezialisierten Museum, wo Sie besonders auf die detaillierten Käfer-Ausstellungen achten sollten, um die reiche Artenvielfalt der Gegend zu verstehen.",
+            "hu": "Fedezze fel a regionális rovarok lenyűgöző gyűjteményét ebben a különleges múzeumban, ahol érdemes a bogárkiállítások részleteire összpontosítani a helyi biodiverzitás megismeréséhez.",
+            "ro": "Descoperiți o colecție fascinantă de insecte regionale în acest muzeu specializat, unde atenția acordată expozițiilor detaliate de gândaci dezvăluie bogata biodiversitate a zonei.",
+            "en": "Discover a fascinating collection of regional insects in this specialized museum, where paying attention to the intricate beetle displays reveals the area's rich biodiversity."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagnetti Salivoli",
+            "hu": "Bagnetti Salivoli",
+            "ro": "Bagnetti Salivoli",
+            "en": "Bagnetti Salivoli"
+          },
+          "coords": [
+            10.508515,
+            42.933027
+          ],
+          "category": "recreational",
+          "arrive_at": "10:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre in diesem beliebten lokalen Strandclub, der sich perfekt für einen Vormittagskaffee am Meer eignet, während Sie das bunte Küstenleben der Einheimischen beobachten.",
+            "hu": "Élvezze a nyüzsgő hangulatot ebben a népszerű helyi strandklubban, amely tökéletes egy tengerparti délelőtti kávéhoz, miközben a helyiek nyüzsgő tengerparti életét figyeli.",
+            "ro": "Bucurați-vă de atmosfera plină de viață la acest popular club de plajă local, perfect pentru o cafea de dimineață la malul mării, în timp ce observați viața vibrantă a localnicilor.",
+            "en": "Enjoy the lively atmosphere at this popular local beach club, perfect for a mid-morning coffee by the sea while observing the vibrant coastal life of the residents."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa dell'Immacolata",
+            "hu": "Chiesa dell'Immacolata",
+            "ro": "Chiesa dell'Immacolata",
+            "en": "Chiesa dell'Immacolata"
+          },
+          "coords": [
+            10.521667,
+            42.924804
+          ],
+          "category": "religious",
+          "arrive_at": "12:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Treten Sie in dieses ruhige religiöse Heiligtum ein, um einen Zufluchtsort vor den belebten Straßen zu finden, und beachten Sie das wunderschöne Licht, das durch die Buntglasfenster fällt.",
+            "hu": "Lépjen be ebbe a nyugodt vallási szentélybe, hogy csendes menedéket találjon a nyüzsgő utcák elől, megfigyelve a gyönyörű fényt, amely átszűrődik a szerény ólomüveg ablakokon.",
+            "ro": "Pășiți în acest sanctuar religios senin pentru a găsi un refugiu liniștit de pe străzile aglomerate, observând lumina frumoasă care se filtrează prin vitraliile sale modeste.",
+            "en": "Step inside this serene religious sanctuary to find a quiet refuge from the bustling streets, noting the beautiful light that filters through its modest stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo archeologico del territorio di Populonia",
+            "hu": "Museo archeologico del territorio di Populonia",
+            "ro": "Museo archeologico del territorio di Populonia",
+            "en": "Museo archeologico del territorio di Populonia"
+          },
+          "coords": [
+            10.521979,
+            42.923373
+          ],
+          "category": "museum",
+          "arrive_at": "13:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie anhand bemerkenswerter Artefakte in die etruskische und römische Geschichte der Halbinsel Piombino ein und beginnen Sie Ihren Besuch im obersten Stockwerk, um dem Pfad zu folgen.",
+            "hu": "Mélyedjen el a Piombino-félsziget etruszk és római történelmében a figyelemre méltó leleteken keresztül, a látogatást a legfelső emeleten kezdve az időrendi haladás érdekében.",
+            "ro": "Aprofundați istoria etruscă și romană a promontoriului Piombino prin artefacte remarcabile, începând vizita la ultimul etaj pentru a urmări parcursul cronologic corect.",
+            "en": "Delve into the Etruscan and Roman history of the Piombino promontory through remarkable artifacts, starting your visit on the top floor to follow the chronological path."
+          }
+        },
+        {
+          "name": {
+            "de": "Giardino di Leonardo",
+            "hu": "Giardino di Leonardo",
+            "ro": "Giardino di Leonardo",
+            "en": "Giardino di Leonardo"
+          },
+          "coords": [
+            10.524294,
+            42.923397
+          ],
+          "category": "landmark",
+          "arrive_at": "14:59",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese friedliche, der Erfindungsgabe der Renaissance gewidmete grüne Oase, ein idealer Ort, um die Füße auszuruhen und die botanischen Arrangements zu bewundern.",
+            "hu": "Sétáljon végig ezen a reneszánsz leleményességnek szentelt békés zöld oázison, amely ideális hely a láb pihentetésére és a gondosan gondozott botanikai elrendezések megcsodálására.",
+            "ro": "Plimbați-vă prin această oază verde și liniștită dedicată ingeniozității renascentiste, un loc ideal pentru a vă odihni și a admira aranjamentele botanice atent îngrijite.",
+            "en": "Stroll through this peaceful green oasis dedicated to Renaissance ingenuity, an ideal spot to rest your feet and admire the carefully curated botanical arrangements."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Sant'Antimo sopra i Canali",
+            "hu": "Chiesa di Sant'Antimo sopra i Canali",
+            "ro": "Chiesa di Sant'Antimo sopra i Canali",
+            "en": "Chiesa di Sant'Antimo sopra i Canali"
+          },
+          "coords": [
+            10.524925,
+            42.922373
+          ],
+          "category": "religious",
+          "arrive_at": "16:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die feierliche Architektur dieser alten Kirche mit Blick auf das Meer und nehmen Sie sich Zeit, um den Kontrast zwischen der Steinfassade und den Wellen zu schätzen.",
+            "hu": "Csodálja meg a tengerre néző ősi templom ünnepélyes építészetét, szánva egy percet a kőhomlokzat és a kék hullámok közötti feltűnő kontraszt értékelésére.",
+            "ro": "Minunați-vă de arhitectura solemnă a acestei biserici antice cu vedere la mare, făcându-vă un moment pentru a aprecia contrastul izbitor dintre fațada de piatră și valurile albastre.",
+            "en": "Marvel at the solemn architecture of this ancient church overlooking the sea, taking a moment to appreciate the striking contrast between the stone facade and the blue waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Mare",
+            "hu": "Museo del Mare",
+            "ro": "Museo del Mare",
+            "en": "Museo del Mare"
+          },
+          "coords": [
+            10.526174,
+            42.921429
+          ],
+          "category": "museum",
+          "arrive_at": "16:44",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie das reiche maritime Erbe und die Meeresbiologie der Region in diesem faszinierenden Museum, wobei Sie den Zeitplan für interaktive Aquarienfütterungen prüfen sollten.",
+            "hu": "Fedezze fel a régió mély tengerészeti örökségét és tengerbiológiáját ebben a lebilincselő múzeumban, ügyelve arra, hogy ellenőrizze az interaktív akvárium-etetések időpontját.",
+            "ro": "Explorați patrimoniul maritim profund și biologia marină a regiunii în acest muzeu captivant, asigurându-vă că verificați programul pentru hrănirile interactive din acvariu.",
+            "en": "Explore the deep maritime heritage and marine biology of the region in this engaging museum, making sure to check the schedule for interactive aquarium feedings."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen unsere Erkundung der Küstenwunder im Entomologischen Museum und der beliebten Strandgegend von Salivoli. Auf dem Weg ins historische Zentrum bewundern wir die Chiesa dell'Immacolata und tauchen in die Regionalgeschichte ein. Der Nachmittag entfaltet sich in Leonardos Garten und an der Chiesa di Sant'Antimo. Unsere Tour endet am faszinierenden Meeresmuseum.",
+        "hu": "A part menti csodák felfedezését a Rovartani Múzeumban és a népszerű Salivoli strandon kezdjük. A történelmi központ felé haladva megcsodáljuk a Chiesa dell'Immacolata-t. A délután Leonardo kertjében és a tengerre néző Chiesa di Sant'Antimo-ban telik. Gyalogtúránk a lenyűgöző Tengerészeti Múzeumban ér véget a tökéletes esti befejezésért.",
+        "ro": "Începem explorarea minunilor de coastă la Muzeul Entomologic și la plaja populară Salivoli. Îndreptându-ne spre inima istorică, admirăm Chiesa dell'Immacolata și istoria regională. După-amiaza se desfășoară în Grădina lui Leonardo și continuă la biserica Sant'Antimo. Turul se încheie la fascinantul Muzeu al Mării, un final perfect la amurg.",
+        "en": "We start exploring the coastal wonders at the Entomological Museum and the popular Salivoli beach area. Transitioning towards the historic heart, we admire the serene Chiesa dell'Immacolata and deep-dive into regional history. The afternoon unfolds in Leonardo's Garden and continues at the solemn Chiesa di Sant'Antimo. Our tour concludes at the Sea Museum."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:41",
+      "total_km": 3.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Calamoresca beach",
+            "hu": "Calamoresca beach",
+            "ro": "Calamoresca beach",
+            "en": "Calamoresca beach"
+          },
+          "coords": [
+            10.499311,
+            42.935153
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den Kieselstränden dieser malerischen Bucht, die klares Wasser bietet, das sich perfekt für ein erfrischendes morgendliches Bad vor dem Ansturm der Touristen eignet.",
+            "hu": "Pihenjen meg ennek a festői öbölnek a kavicsos partján, amely látványos naplementéket és tiszta vizet kínál egy frissítő reggeli úszáshoz, mielőtt a tömeg megérkezne.",
+            "ro": "Relaxați-vă pe malurile cu pietriș ale acestui golf pitoresc, care oferă apusuri spectaculoase și ape limpezi ideale pentru o baie matinală răcoroasă, înainte de aglomerație.",
+            "en": "Relax on the pebble shores of this scenic cove, which offers spectacular sunset views and clear waters ideal for a refreshing morning swim before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo di entomologia",
+            "hu": "Museo di entomologia",
+            "ro": "Museo di entomologia",
+            "en": "Museo di entomologia"
+          },
+          "coords": [
+            10.511985,
+            42.934285
+          ],
+          "category": "museum",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine faszinierende Sammlung regionaler Insekten in diesem spezialisierten Museum, wo Sie besonders auf die detaillierten Käfer-Ausstellungen achten sollten.",
+            "hu": "Fedezze fel a regionális rovarok lenyűgöző gyűjteményét ebben a különleges múzeumban, ahol érdemes a bogárkiállítások részleteire összpontosítani a helyi biodiverzitás megismeréséhez.",
+            "ro": "Descoperiți o colecție fascinantă de insecte regionale în acest muzeu specializat, unde atenția acordată expozițiilor detaliate de gândaci dezvăluie bogata biodiversitate a zonei.",
+            "en": "Discover a fascinating collection of regional insects in this specialized museum, where paying attention to the intricate beetle displays reveals the area's rich biodiversity."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa dell'Immacolata",
+            "hu": "Chiesa dell'Immacolata",
+            "ro": "Chiesa dell'Immacolata",
+            "en": "Chiesa dell'Immacolata"
+          },
+          "coords": [
+            10.521667,
+            42.924804
+          ],
+          "category": "religious",
+          "arrive_at": "12:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Treten Sie in dieses ruhige religiöse Heiligtum ein, um einen Zufluchtsort vor den belebten Straßen zu finden, und beachten Sie das Licht, das durch die Buntglasfenster fällt.",
+            "hu": "Lépjen be ebbe a nyugodt vallási szentélybe, hogy csendes menedéket találjon a nyüzsgő utcák elől, megfigyelve a gyönyörű fényt, amely átszűrődik a szerény ólomüveg ablakokon.",
+            "ro": "Pășiți în acest sanctuar religios senin pentru a găsi un refugiu liniștit de pe străzile aglomerate, observând lumina frumoasă care se filtrează prin vitraliile sale modeste.",
+            "en": "Step inside this serene religious sanctuary to find a quiet refuge from the bustling streets, noting the beautiful light that filters through its modest stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo archeologico del territorio di Populonia",
+            "hu": "Museo archeologico del territorio di Populonia",
+            "ro": "Museo archeologico del territorio di Populonia",
+            "en": "Museo archeologico del territorio di Populonia"
+          },
+          "coords": [
+            10.521979,
+            42.923373
+          ],
+          "category": "museum",
+          "arrive_at": "13:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie anhand bemerkenswerter Artefakte in die etruskische Geschichte der Halbinsel ein und beginnen Sie Ihren Besuch im obersten Stockwerk, um dem chronologischen Pfad zu folgen.",
+            "hu": "Mélyedjen el a Piombino-félsziget etruszk és római történelmében a figyelemre méltó leleteken keresztül, a látogatást a legfelső emeleten kezdve az időrendi haladás érdekében.",
+            "ro": "Aprofundați istoria etruscă și romană a promontoriului Piombino prin artefacte remarcabile, începând vizita la ultimul etaj pentru a urmări parcursul cronologic.",
+            "en": "Delve into the Etruscan and Roman history of the Piombino promontory through remarkable artifacts, starting your visit on the top floor to follow the chronological path."
+          }
+        },
+        {
+          "name": {
+            "de": "Giardino di Leonardo",
+            "hu": "Giardino di Leonardo",
+            "ro": "Giardino di Leonardo",
+            "en": "Giardino di Leonardo"
+          },
+          "coords": [
+            10.524294,
+            42.923397
+          ],
+          "category": "landmark",
+          "arrive_at": "14:46",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese friedliche grüne Oase, ein idealer Ort, um die Füße nach der Radtour auszuruhen und die sorgfältig gepflegten botanischen Arrangements zu bewundern.",
+            "hu": "Sétáljon végig ezen a reneszánsz leleményességnek szentelt békés zöld oázison, amely ideális hely a láb pihentetésére és a gondosan gondozott botanikai elrendezések megcsodálására.",
+            "ro": "Plimbați-vă prin această oază verde și liniștită dedicată ingeniozității renascentiste, un loc ideal pentru a vă odihni și a admira aranjamentele botanice atent îngrijite.",
+            "en": "Stroll through this peaceful green oasis dedicated to Renaissance ingenuity, an ideal spot to rest your feet and admire the carefully curated botanical arrangements."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Sant'Antimo sopra i Canali",
+            "hu": "Chiesa di Sant'Antimo sopra i Canali",
+            "ro": "Chiesa di Sant'Antimo sopra i Canali",
+            "en": "Chiesa di Sant'Antimo sopra i Canali"
+          },
+          "coords": [
+            10.524925,
+            42.922373
+          ],
+          "category": "religious",
+          "arrive_at": "15:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die feierliche Architektur dieser alten Kirche mit Blick auf das Meer und schätzen Sie den markanten Kontrast zwischen der Steinfassade und den blauen Wellen.",
+            "hu": "Csodálja meg a tengerre néző ősi templom ünnepélyes építészetét, szánva egy percet a kőhomlokzat és a kék hullámok közötti feltűnő kontraszt értékelésére.",
+            "ro": "Minunați-vă de arhitectura solemnă a acestei biserici antice cu vedere la mare, făcându-vă un moment pentru a aprecia contrastul izbitor dintre fațada de piatră și valurile albastre.",
+            "en": "Marvel at the solemn architecture of this ancient church overlooking the sea, taking a moment to appreciate the striking contrast between the stone facade and the blue waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo diocesano d'arte sacra Andrea Guardi",
+            "hu": "Museo diocesano d'arte sacra Andrea Guardi",
+            "ro": "Museo diocesano d'arte sacra Andrea Guardi",
+            "en": "Museo diocesano d'arte sacra Andrea Guardi"
+          },
+          "coords": [
+            10.527989,
+            42.922128
+          ],
+          "category": "museum",
+          "arrive_at": "16:31",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisiten religiösen Kunstwerke und Skulpturen hier, mit besonderem Augenmerk auf die Marmormeisterwerke von Andrea Guardi, die die lokale Geschichte einfangen.",
+            "hu": "Csodálja meg az itt őrzött kiváló vallási alkotásokat és középkori szobrokat, különös figyelmet fordítva Andrea Guardi márvány remekműveire, amelyek megörökítik a helyi történelmet.",
+            "ro": "Admirați operele de artă religioasă deosebite și sculpturile medievale, acordând o atenție specială capodoperelor din marmură ale lui Andrea Guardi, care surprind frumos istoria locală.",
+            "en": "Admire the exquisite religious artworks and medieval sculptures housed here, paying special attention to Andrea Guardi's marble masterpieces that beautifully capture local history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir radeln früh zum atemberaubenden Strand Calamoresca, gefolgt von einem Stopp im örtlichen Entomologischen Museum. Eine entspannte Fahrt bringt uns ins historische Zentrum von Piombino, um eine Kirche und archäologische Schätze zu besichtigen. Wir spazieren durch den Giardino di Leonardo und die Sant'Antimo-Kirche, bevor wir die sakrale Kunst im Diözesanmuseum genießen.",
+        "hu": "Korán kikerékpározunk a lenyűgöző Calamoresca strandra, majd megállunk a helyi Rovartani Múzeumban. Egy kellemes tekerés elvisz minket Piombino történelmi központjába, a régészeti kincsekhez. Sétálunk a Giardino di Leonardo-ban és a Sant'Antimo templomban, mielőtt a szakrális művészetet élveznénk a Egyházmegyei Múzeumban.",
+        "ro": "Pedalăm devreme spre uimitoarea plajă Calamoresca, urmată de o oprire la Muzeul Entomologic local. O plimbare relaxantă ne aduce în centrul istoric al orașului Piombino, vizitând comori arheologice. Ne plimbăm prin Giardino di Leonardo și biserica Sant'Antimo, înainte de a ne bucura de arta sacră la Muzeul Diecezan în lumina serii.",
+        "en": "Pedal out to the stunning Calamoresca beach early, followed by a fascinating stop at the local Entomological Museum. A breezy ride brings us to Piombino's historic center, visiting an iconic church before exploring the archaeological treasures. Park the bike to stroll through the Giardino di Leonardo and Sant'Antimo, ending at the Diocesan Museum."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:27",
+      "total_km": 5.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Spiaggia Lunga",
+            "hu": "Spiaggia Lunga",
+            "ro": "Spiaggia Lunga",
+            "en": "Spiaggia Lunga"
+          },
+          "coords": [
+            10.493211,
+            42.9477
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe dieses ausgedehnten Küstenstreifens, aber denken Sie daran, eigenes Wasser und Snacks mitzubringen, da die Annehmlichkeiten hier erfreulich spärlich sind.",
+            "hu": "Élvezze ennek a kiterjedt, zord partvidéknek a nyugalmát, de ne felejtsen el saját vizet és harapnivalót hozni, mivel a kényelmi szolgáltatások itt meglehetősen ritkák.",
+            "ro": "Bucurați-vă de liniștea acestei întinderi de coastă lungi și sălbatice, dar amintiți-vă să aduceți apă și gustări proprii, deoarece facilitățile sunt destul de rare aici.",
+            "en": "Embrace the tranquility of this extensive, rugged stretch of coastline, but remember to bring your own water and snacks as amenities are delightfully scarce here."
+          }
+        },
+        {
+          "name": {
+            "de": "Calamoresca beach",
+            "hu": "Calamoresca beach",
+            "ro": "Calamoresca beach",
+            "en": "Calamoresca beach"
+          },
+          "coords": [
+            10.499311,
+            42.935153
+          ],
+          "category": "recreational",
+          "arrive_at": "10:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den Kieselstränden dieser malerischen Bucht, die spektakuläre Aussichten und klares Wasser bietet, das sich perfekt für ein erfrischendes Bad am Morgen eignet.",
+            "hu": "Pihenjen meg ennek a festői öbölnek a kavicsos partján, amely látványos naplementéket és tiszta vizet kínál egy frissítő reggeli úszáshoz, mielőtt a tömeg megérkezne.",
+            "ro": "Relaxați-vă pe malurile cu pietriș ale acestui golf pitoresc, care oferă apusuri spectaculoase și ape limpezi ideale pentru o baie matinală răcoroasă, înainte de aglomerație.",
+            "en": "Relax on the pebble shores of this scenic cove, which offers spectacular sunset views and clear waters ideal for a refreshing morning swim before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo di entomologia",
+            "hu": "Museo di entomologia",
+            "ro": "Museo di entomologia",
+            "en": "Museo di entomologia"
+          },
+          "coords": [
+            10.511985,
+            42.934285
+          ],
+          "category": "museum",
+          "arrive_at": "11:47",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine faszinierende Sammlung regionaler Insekten in diesem spezialisierten Museum, wo Sie besonders auf die detaillierten Käfer-Ausstellungen achten sollten.",
+            "hu": "Fedezze fel a regionális rovarok lenyűgöző gyűjteményét ebben a különleges múzeumban, ahol érdemes a bogárkiállítások részleteire összpontosítani a helyi biodiverzitás megismeréséhez.",
+            "ro": "Descoperiți o colecție fascinantă de insecte regionale în acest muzeu specializat, unde atenția acordată expozițiilor detaliate de gândaci dezvăluie bogata biodiversitate a zonei.",
+            "en": "Discover a fascinating collection of regional insects in this specialized museum, where paying attention to the intricate beetle displays reveals the area's rich biodiversity."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo archeologico del territorio di Populonia",
+            "hu": "Museo archeologico del territorio di Populonia",
+            "ro": "Museo archeologico del territorio di Populonia",
+            "en": "Museo archeologico del territorio di Populonia"
+          },
+          "coords": [
+            10.521979,
+            42.923373
+          ],
+          "category": "museum",
+          "arrive_at": "13:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie anhand bemerkenswerter Artefakte in die etruskische und römische Geschichte ein und beginnen Sie Ihren Besuch im obersten Stockwerk, um dem chronologischen Pfad zu folgen.",
+            "hu": "Mélyedjen el a Piombino-félsziget etruszk és római történelmében a figyelemre méltó leleteken keresztül, a látogatást a legfelső emeleten kezdve az időrendi haladás érdekében.",
+            "ro": "Aprofundați istoria etruscă și romană a promontoriului Piombino prin artefacte remarcabile, începând vizita la ultimul etaj pentru a urmări parcursul cronologic.",
+            "en": "Delve into the Etruscan and Roman history of the Piombino promontory through remarkable artifacts, starting your visit on the top floor to follow the chronological path."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Sant'Antimo sopra i Canali",
+            "hu": "Chiesa di Sant'Antimo sopra i Canali",
+            "ro": "Chiesa di Sant'Antimo sopra i Canali",
+            "en": "Chiesa di Sant'Antimo sopra i Canali"
+          },
+          "coords": [
+            10.524925,
+            42.922373
+          ],
+          "category": "religious",
+          "arrive_at": "15:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die feierliche Architektur dieser alten Kirche mit Blick auf das Meer und schätzen Sie den markanten Kontrast zwischen der Steinfassade und den blauen Wellen.",
+            "hu": "Csodálja meg a tengerre néző ősi templom ünnepélyes építészetét, szánva egy percet a kőhomlokzat és a kék hullámok közötti feltűnő kontraszt értékelésére.",
+            "ro": "Minunați-vă de arhitectura solemnă a acestei biserici antice cu vedere la mare, făcându-vă un moment pentru a aprecia contrastul izbitor dintre fațada de piatră și valurile albastre.",
+            "en": "Marvel at the solemn architecture of this ancient church overlooking the sea, taking a moment to appreciate the striking contrast between the stone facade and the blue waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Mare",
+            "hu": "Museo del Mare",
+            "ro": "Museo del Mare",
+            "en": "Museo del Mare"
+          },
+          "coords": [
+            10.526174,
+            42.921429
+          ],
+          "category": "museum",
+          "arrive_at": "15:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie das reiche maritime Erbe und die Meeresbiologie der Region in diesem Museum, wobei Sie unbedingt den Zeitplan für interaktive Aquarienfütterungen prüfen sollten.",
+            "hu": "Fedezze fel a régió mély tengerészeti örökségét és tengerbiológiáját ebben a lebilincselő múzeumban, ügyelve arra, hogy ellenőrizze az interaktív akvárium-etetések időpontját.",
+            "ro": "Explorați patrimoniul maritim profund și biologia marină a regiunii în acest muzeu captivant, asigurându-vă că verificați programul pentru hrănirile interactive din acvariu.",
+            "en": "Explore the deep maritime heritage and marine biology of the region in this engaging museum, making sure to check the schedule for interactive aquarium feedings."
+          }
+        },
+        {
+          "name": {
+            "de": "Cinema Teatro Metropolitan",
+            "hu": "Cinema Teatro Metropolitan",
+            "ro": "Cinema Teatro Metropolitan",
+            "en": "Cinema Teatro Metropolitan"
+          },
+          "coords": [
+            10.527972,
+            42.923233
+          ],
+          "category": "cultural",
+          "arrive_at": "17:42",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag, indem Sie in diesem historischen Theater die Kulturszene in sich aufnehmen, und prüfen Sie den Abendspielplan, um eine Aufführung zu erleben.",
+            "hu": "Zárja a napot a helyi kulturális élet felszívásával ebben a történelmi színházban, előzetesen ellenőrizve az esti műsorukat, hogy esetleg elcsípjen egy autentikus olasz előadást.",
+            "ro": "Încheiați ziua absorbind scena culturală locală la acest teatru istoric, verificând în avans programul de seară pentru a prinde poate un spectacol italian autentic.",
+            "en": "End your day absorbing the local cultural scene at this historic theater, checking their evening schedule in advance to perhaps catch an authentic Italian performance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir fahren zur abgelegenen Spiaggia Lunga für einen ruhigen Start und dann weiter nach Calamoresca für noch mehr Küstenschönheit. Wir erkunden die Insektensammlungen, bevor wir ins historische Zentrum fahren, um in die etruskische Archäologie einzutauchen. Die Reise führt zu Fuß weiter nach Sant'Antimo und ins Meeresmuseum. Der Tag endet am Cinema Teatro Metropolitan.",
+        "hu": "A távoli Spiaggia Lunga-hoz vezetünk egy nyugodt kezdésért, majd átugrunk a Calamoresca-ra további part menti szépségekért. Felfedezzük a rovar gyűjteményeket, mielőtt a történelmi központba hajtanánk az etruszk régészetért. Az utazás gyalogosan folytatódik a Sant'Antimo és a Tengerészeti Múzeum felé. A nap a Cinema Teatro Metropolitanban ér véget.",
+        "ro": "Conducem la îndepărtata Spiaggia Lunga pentru un început liniștit, apoi la Calamoresca pentru mai multă frumusețe a coastei. Explorăm colecțiile de insecte înainte de a merge în centrul istoric pentru arheologia etruscă. Călătoria continuă pe jos prin Sant'Antimo și la Muzeul Mării. Ziua se încheie relaxant la Cinema Teatro Metropolitan.",
+        "en": "Drive to the remote Spiaggia Lunga for an early, tranquil start, then hop over to Calamoresca for more coastal beauty. We explore the unique insect collections before driving into the historical center for an immersion in Etruscan archaeology. The journey continues on foot through Sant'Antimo and the Sea Museum, wrapping up at the Cinema Teatro Metropolitan."
+      }
+    }
+  }
+}

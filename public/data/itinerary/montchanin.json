@@ -1,0 +1,520 @@
+{
+  "city_id": "montchanin",
+  "anchor": {
+    "name": "Montchanin",
+    "coords": [
+      4.4689,
+      46.7481
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "19:25",
+      "total_km": 17.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Gare de Montchanin",
+            "hu": "Gare de Montchanin",
+            "ro": "Gare de Montchanin",
+            "en": "Gare de Montchanin"
+          },
+          "coords": [
+            4.481508,
+            46.759307
+          ],
+          "category": "station",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses historischen Bahnhofs, der einst ein wichtiger Eisenbahnknotenpunkt war, und prüfen Sie frühzeitig die Fahrpläne an den Anzeigetafeln.",
+            "hu": "Csodálja meg a történelmi vasútállomás építészetét, amely egykor fontos csomópont volt, és érkezéskor érdemes rögtön ellenőrizni a menetrendi kijelzőket a frissítésekért.",
+            "ro": "Admirați arhitectura acestei gări istorice, cândva un important nod feroviar, și verificați panourile cu mersul trenurilor de îndată ce ajungeți pentru orice actualizări.",
+            "en": "Admire the architecture of this historic station, once an important railway junction, and check the schedule boards early for any travel updates before starting your journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Golf du Château d'Avoise",
+            "hu": "Golf du Château d'Avoise",
+            "ro": "Golf du Château d'Avoise",
+            "en": "Golf du Château d'Avoise"
+          },
+          "coords": [
+            4.485834,
+            46.752452
+          ],
+          "category": "recreational",
+          "arrive_at": "09:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Spielen Sie eine Runde auf diesem malerischen Golfplatz, der für seine natürliche Schönheit bekannt ist, und reservieren Sie Ihren Abschlag am besten weit im Voraus.",
+            "hu": "Játsszon egy kört ezen a festői, természeti szépségéről híres golfpályán, de a legjobb élmény érdekében érdemes előre lefoglalni a kezdési időpontot a torlódás elkerülésére.",
+            "ro": "Jucați o rundă pe acest teren de golf pitoresc, renumit pentru frumusețea sa naturală, și rezervați-vă timpul de start în avans pentru a evita aglomerația la intrare.",
+            "en": "Play a round on this picturesque golf course, renowned for its natural beauty, and be sure to book your tee time well in advance to secure your spot during busy mornings."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de Bondilly",
+            "hu": "Étang de Bondilly",
+            "ro": "Étang de Bondilly",
+            "en": "Étang de Bondilly"
+          },
+          "coords": [
+            4.513824,
+            46.75101
+          ],
+          "category": "natural",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie am ruhigen Ufer dieses friedlichen Teiches, ideal für Naturliebhaber, und bringen Sie ein Fernglas mit, um die vielfältige heimische Vogelwelt zu beobachten.",
+            "hu": "Pihenjen meg a békés tó nyugodt partján, amely ideális a természet kedvelőinek, és hozzon magával távcsövet, hogy megfigyelhesse a gazdag helyi madárvilágot a fák között.",
+            "ro": "Relaxați-vă pe malurile liniștite ale acestui iaz pașnic, ideal pentru iubitorii de natură, și aduceți un binoclu pentru a observa diversele specii de păsări locale.",
+            "en": "Relax on the quiet shores of this peaceful pond, ideal for nature lovers, and remember to bring binoculars to spot the diverse local bird species hiding in the reeds."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang Berthaud",
+            "hu": "Étang Berthaud",
+            "ro": "Étang Berthaud",
+            "en": "Étang Berthaud"
+          },
+          "coords": [
+            4.473395,
+            46.7215
+          ],
+          "category": "natural",
+          "arrive_at": "14:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 70,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die grüne Umgebung dieses versteckten Gewässers, das sich perfekt für einen Spaziergang eignet, und tragen Sie bequeme, wasserfeste Schuhe für schlammige Wege.",
+            "hu": "Fedezze fel e rejtett vízfelület zöldellő környezetét, amely tökéletes egy kellemes sétához, és ehhez mindenképpen kényelmes, vízálló cipőt viseljen a nedves ösvények miatt.",
+            "ro": "Explorați împrejurimile verzi ale acestui ochi de apă ascuns, perfect pentru o plimbare relaxantă, și asigurați-vă că purtați încălțăminte comodă și impermeabilă pe poteci.",
+            "en": "Explore the verdant surroundings of this hidden body of water, perfect for a leisurely stroll, and wear comfortable waterproof shoes to navigate the often muddy trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de la Sorme",
+            "hu": "Lac de la Sorme",
+            "ro": "Lac de la Sorme",
+            "en": "Lac de la Sorme"
+          },
+          "coords": [
+            4.351795,
+            46.733558
+          ],
+          "category": "natural",
+          "arrive_at": "17:40",
+          "stay_min": 105,
+          "hop_from_prev_min": 135,
+          "hop_from_prev_km": 9.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die weite Aussicht über diesen Stausee, der die Region mit Wasser versorgt, und planen Sie Ihr Picknick am späten Nachmittag, um das beste Licht einzufangen.",
+            "hu": "Élvezze a hatalmas víztározó nyújtotta széles kilátást, amely a régiót vízzel látja el, és időzítse a pikniket késő délutánra, hogy a legszebb fényekben gyönyörködhessen.",
+            "ro": "Bucurați-vă de priveliștea vastă asupra acestui lac de acumulare care alimentează regiunea și planificați-vă picnicul spre seară pentru a surprinde cea mai bună lumină.",
+            "en": "Enjoy the sweeping views across this large reservoir that supplies the region, and plan your lakeside picnic for the late afternoon to catch the best golden hour light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Am Morgen starten Sie am historischen Bahnhof, bevor Sie einen erfrischenden Spaziergang zum eleganten Golfplatz unternehmen. Mittags wandern Sie durch die malerische Landschaft bis zu den friedlichen Ufern des Étang de Bondilly. Der Nachmittag führt Sie weiter nach Süden zum verborgenen Étang Berthaud, bevor Sie den Tag abends am riesigen Lac de la Sorme bei einem Sonnenuntergang ausklingen lassen.",
+        "hu": "Reggel a történelmi vasútállomásról indulva tesz egy frissítő sétát az elegáns golfpályához. Délben a vidéken át túrázva eléri az Étang de Bondilly békés partjait. Délután dél felé veszi az irányt a rejtett Étang Berthaud felé, hogy a természetben pihenjen. Az estét a hatalmas Lac de la Sorme partján zárja, ahogy a lemenő nap fénye megcsillan a vízfelszínen egy hosszú séta végén.",
+        "ro": "Dimineața începe la gara istorică, urmată de o plimbare revigorantă către elegantul teren de golf. La prânz, parcurgeți peisajul rural până la malurile liniștite ale Étang de Bondilly. După-amiaza vă conduce mai spre sud, către ascunsul Étang Berthaud, perfect pentru relaxare. Seara se încheie plimbarea dumneavoastră pe malul vastului Lac de la Sorme, sub un apus de soare spectaculos.",
+        "en": "Morning begins at the historic railway station before you take a brisk, refreshing walk to the elegant golf course. Midday sees you trekking through the rural landscape to reach the peaceful Étang de Bondilly. In the afternoon, continue southwards to the hidden Étang Berthaud for a relaxing nature break. Evening concludes your long walk at the vast Lac de la Sorme as the sun sets brilliantly."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 17.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Gare de Montchanin",
+            "hu": "Gare de Montchanin",
+            "ro": "Gare de Montchanin",
+            "en": "Gare de Montchanin"
+          },
+          "coords": [
+            4.481508,
+            46.759307
+          ],
+          "category": "station",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses historischen Bahnhofs, der einst ein wichtiger Eisenbahnknotenpunkt war, und prüfen Sie frühzeitig die Fahrpläne an den Anzeigetafeln.",
+            "hu": "Csodálja meg a történelmi vasútállomás építészetét, amely egykor fontos csomópont volt, és érkezéskor érdemes rögtön ellenőrizni a menetrendi kijelzőket a frissítésekért.",
+            "ro": "Admirați arhitectura acestei gări istorice, cândva un important nod feroviar, și verificați panourile cu mersul trenurilor de îndată ce ajungeți pentru orice actualizări.",
+            "en": "Admire the architecture of this historic station, once an important railway junction, and check the schedule boards early for any travel updates before starting your journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang Leduc",
+            "hu": "Étang Leduc",
+            "ro": "Étang Leduc",
+            "en": "Étang Leduc"
+          },
+          "coords": [
+            4.446277,
+            46.780543
+          ],
+          "category": "natural",
+          "arrive_at": "09:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang dieses charmanten Sees, der eine entspannte Atmosphäre bietet, und halten Sie an den Holzbrücken für fantastische Fotomöglichkeiten in der Morgensonne.",
+            "hu": "Sétáljon végig a bájos tó partján, amely igazán pihentető légkört kínál, és álljon meg a fa hidaknál, hogy fantasztikus fényképeket készíthessen a reggeli napsütésben.",
+            "ro": "Plimbați-vă pe malul acestui lac fermecător care oferă o atmosferă relaxantă și opriți-vă pe podurile de lemn pentru oportunități fotografice excelente în lumina dimineții.",
+            "en": "Walk along this charming lake that offers a deeply relaxing atmosphere, and make sure to stop by the wooden bridges for fantastic photographic opportunities in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de Torcy Neuf",
+            "hu": "Étang de Torcy Neuf",
+            "ro": "Étang de Torcy Neuf",
+            "en": "Étang de Torcy Neuf"
+          },
+          "coords": [
+            4.433378,
+            46.77688
+          ],
+          "category": "natural",
+          "arrive_at": "11:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses neuere Wasserbecken, das sich hervorragend zum Angeln eignet, und besorgen Sie sich vor Ort eine Tageskarte, wenn Sie heute selbst fischen möchten.",
+            "hu": "Fedezze fel ezt az újabb vízgyűjtőt, amely kiválóan alkalmas horgászatra, és ha szerencsét próbálna, a helyszínen érdemes kiváltania egy kedvezményes napijegyet a halőrnél.",
+            "ro": "Descoperiți acest bazin de apă mai nou, care este excelent pentru pescuit, și cumpărați un permis de o zi de la fața locului dacă doriți să pescuiți pe parcursul vizitei.",
+            "en": "Discover this newer water basin, which is highly regarded for fishing, and remember to purchase a day pass locally if you plan to cast a line and catch your own lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand Étang de Torcy",
+            "hu": "Grand Étang de Torcy",
+            "ro": "Grand Étang de Torcy",
+            "en": "Grand Étang de Torcy"
+          },
+          "coords": [
+            4.46857,
+            46.786114
+          ],
+          "category": "natural",
+          "arrive_at": "12:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den größten See der Umgebung, ein wahres Paradies für Wassersportler, und nutzen Sie den gut markierten Uferweg für eine ausgedehnte Wanderung am Mittag.",
+            "hu": "Csodálja meg a környék legnagyobb tavát, amely a vízisportok igazi paradicsoma, és használja a jól jelzett parti sétányt egy kiadós kerékpáros túrához az ebédszünetben.",
+            "ro": "Admirați cel mai mare lac din împrejurimi, un adevărat paradis al sporturilor nautice, și utilizați poteca bine marcată de pe mal pentru o drumeție lungă și reconfortantă.",
+            "en": "Admire the largest lake in the area, a true paradise for water sports enthusiasts, and use the well-marked shoreline path for an extended, refreshing ride during your stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de Montaubry",
+            "hu": "Étang de Montaubry",
+            "ro": "Étang de Montaubry",
+            "en": "Étang de Montaubry"
+          },
+          "coords": [
+            4.525629,
+            46.788637
+          ],
+          "category": "natural",
+          "arrive_at": "14:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die dichten Wälder rund um diesen malerischen See ein, der oft im Nebel liegt, und bringen Sie Insektenspray für den Aufenthalt im Waldgebiet mit sich.",
+            "hu": "Merüljön el a festői tó körüli sűrű erdőkben, amelyet gyakran köd borít, és feltétlenül hozzon magával rovarriasztót az árnyékos fás területeken való zavartalan tartózkodáshoz.",
+            "ro": "Pătrundeți în pădurile dese din jurul acestui lac pitoresc, adesea învăluit în ceață, și aduceți spray împotriva insectelor pentru timpul petrecut în zonele intens împădurite.",
+            "en": "Immerse yourself in the dense forests surrounding this picturesque lake, often shrouded in mist, and bring insect repellent for your time wandering in the damp wooded areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de Bondilly",
+            "hu": "Étang de Bondilly",
+            "ro": "Étang de Bondilly",
+            "en": "Étang de Bondilly"
+          },
+          "coords": [
+            4.513824,
+            46.75101
+          ],
+          "category": "natural",
+          "arrive_at": "16:10",
+          "stay_min": 105,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie am ruhigen Ufer dieses friedlichen Teiches, ideal für Naturliebhaber, und bringen Sie ein Fernglas mit, um die vielfältige heimische Vogelwelt zu beobachten.",
+            "hu": "Pihenjen meg a békés tó nyugodt partján, amely ideális a természet kedvelőinek, és hozzon magával távcsövet, hogy megfigyelhesse a gazdag helyi madárvilágot a fák között.",
+            "ro": "Relaxați-vă pe malurile liniștite ale acestui iaz pașnic, ideal pentru iubitorii de natură, și aduceți un binoclu pentru a observa diversele specii de păsări locale.",
+            "en": "Relax on the quiet shores of this peaceful pond, ideal for nature lovers, and remember to bring binoculars to spot the diverse local bird species hiding in the reeds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Am Morgen radeln Sie vom Bahnhof in Richtung der nördlichen Seen, beginnend mit dem charmanten Étang Leduc. Mittags umrunden Sie die weitläufigen Torcy-Seen, wo Sie die erfrischende Wasserlandschaft voll auskosten können. Der Nachmittag führt Sie weiter nach Osten zum waldreichen Étang de Montaubry für Natur pur. Den Abschluss Ihrer Fahrradtour bildet der friedliche Étang de Bondilly.",
+        "hu": "Reggel az állomástól északra lévő tavak felé teker, kezdve a bájos Étang Leduc érintésével. Délben körbekarikázza a tágas Torcy-tavakat, élvezve a frissítő vízparti tájat és a szellőt. Délután kelet felé veszi az irányt az erdős Étang de Montaubry-hoz a tökéletes nyugalomban. A kerékpáros kaland az Étang de Bondilly békés partjainál ér véget, ahol megpihenhet a nap végén.",
+        "ro": "Dimineața pedalați de la gară spre lacurile din nord, începând cu fermecătorul Étang Leduc. La prânz, înconjurați marile lacuri Torcy, bucurându-vă de peisajul nautic și de briza proaspătă. După-amiaza continuați spre est către împăduritul Étang de Montaubry pentru o imersiune în natură. Turul dumneavoastră pe bicicletă se încheie liniștit pe malurile calme ale Étang de Bondilly.",
+        "en": "Morning sees you cycling from the station towards the northern lakes, starting with the charming Étang Leduc. Midday is spent pedaling around the grand Torcy lakes, enjoying the water views and fresh breeze. In the afternoon, ride east to the forested Étang de Montaubry for a tranquil immersion in nature. Conclude your cycling adventure at the peaceful Étang de Bondilly to rest."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "21:19",
+      "total_km": 31.5,
+      "stop_count": 9,
+      "stops": [
+        {
+          "name": {
+            "de": "Gare de Montchanin",
+            "hu": "Gare de Montchanin",
+            "ro": "Gare de Montchanin",
+            "en": "Gare de Montchanin"
+          },
+          "coords": [
+            4.481508,
+            46.759307
+          ],
+          "category": "station",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses historischen Bahnhofs, der einst ein wichtiger Eisenbahnknotenpunkt war, und prüfen Sie frühzeitig die Fahrpläne an den Anzeigetafeln.",
+            "hu": "Csodálja meg a történelmi vasútállomás építészetét, amely egykor fontos csomópont volt, és érkezéskor érdemes rögtön ellenőrizni a menetrendi kijelzőket a frissítésekért.",
+            "ro": "Admirați arhitectura acestei gări istorice, cândva un important nod feroviar, și verificați panourile cu mersul trenurilor de îndată ce ajungeți pentru orice actualizări.",
+            "en": "Admire the architecture of this historic station, once an important railway junction, and check the schedule boards early for any travel updates before starting your journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang Leduc",
+            "hu": "Étang Leduc",
+            "ro": "Étang Leduc",
+            "en": "Étang Leduc"
+          },
+          "coords": [
+            4.446277,
+            46.780543
+          ],
+          "category": "natural",
+          "arrive_at": "09:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang dieses charmanten Sees, der eine entspannte Atmosphäre bietet, und halten Sie an den Holzbrücken für fantastische Fotomöglichkeiten in der Morgensonne.",
+            "hu": "Sétáljon végig a bájos tó partján, amely igazán pihentető légkört kínál, és álljon meg a fa hidaknál, hogy fantasztikus fényképeket készíthessen a reggeli napsütésben.",
+            "ro": "Plimbați-vă pe malul acestui lac fermecător care oferă o atmosferă relaxantă și opriți-vă pe podurile de lemn pentru oportunități fotografice excelente în lumina dimineții.",
+            "en": "Walk along this charming lake that offers a deeply relaxing atmosphere, and make sure to stop by the wooden bridges for fantastic photographic opportunities in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de Torcy Neuf",
+            "hu": "Étang de Torcy Neuf",
+            "ro": "Étang de Torcy Neuf",
+            "en": "Étang de Torcy Neuf"
+          },
+          "coords": [
+            4.433378,
+            46.77688
+          ],
+          "category": "natural",
+          "arrive_at": "11:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses neuere Wasserbecken, das sich hervorragend zum Angeln eignet, und besorgen Sie sich vor Ort eine Tageskarte, wenn Sie heute selbst fischen möchten.",
+            "hu": "Fedezze fel ezt az újabb vízgyűjtőt, amely kiválóan alkalmas horgászatra, és ha szerencsét próbálna, a helyszínen érdemes kiváltania egy kedvezményes napijegyet a halőrnél.",
+            "ro": "Descoperiți acest bazin de apă mai nou, care este excelent pentru pescuit, și cumpărați un permis de o zi de la fața locului dacă doriți să pescuiți pe parcursul vizitei.",
+            "en": "Discover this newer water basin, which is highly regarded for fishing, and remember to purchase a day pass locally if you plan to cast a line and catch your own lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand Étang de Torcy",
+            "hu": "Grand Étang de Torcy",
+            "ro": "Grand Étang de Torcy",
+            "en": "Grand Étang de Torcy"
+          },
+          "coords": [
+            4.46857,
+            46.786114
+          ],
+          "category": "natural",
+          "arrive_at": "12:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den größten See der Umgebung, ein wahres Paradies für Wassersportler, und nutzen Sie den gut markierten Uferweg für eine ausgedehnte Wanderung am Mittag.",
+            "hu": "Csodálja meg a környék legnagyobb tavát, amely a vízisportok igazi paradicsoma, és használja a jól jelzett parti sétányt egy kiadós túrához az ebédszünetben a friss levegőn.",
+            "ro": "Admirați cel mai mare lac din împrejurimi, un adevărat paradis al sporturilor nautice, și utilizați poteca bine marcată de pe mal pentru o drumeție lungă și reconfortantă.",
+            "en": "Admire the largest lake in the area, a true paradise for water sports enthusiasts, and use the well-marked shoreline path for an extended, refreshing hike during your stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de Montaubry",
+            "hu": "Étang de Montaubry",
+            "ro": "Étang de Montaubry",
+            "en": "Étang de Montaubry"
+          },
+          "coords": [
+            4.525629,
+            46.788637
+          ],
+          "category": "natural",
+          "arrive_at": "13:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die dichten Wälder rund um diesen malerischen See ein, der oft im Nebel liegt, und bringen Sie Insektenspray für den Aufenthalt im Waldgebiet mit sich.",
+            "hu": "Merüljön el a festői tó körüli sűrű erdőkben, amelyet gyakran köd borít, és feltétlenül hozzon magával rovarriasztót az árnyékos fás területeken való zavartalan tartózkodáshoz.",
+            "ro": "Pătrundeți în pădurile dese din jurul acestui lac pitoresc, adesea învăluit în ceață, și aduceți spray împotriva insectelor pentru timpul petrecut în zonele intens împădurite.",
+            "en": "Immerse yourself in the dense forests surrounding this picturesque lake, often shrouded in mist, and bring insect repellent for your time wandering in the damp wooded areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de Bondilly",
+            "hu": "Étang de Bondilly",
+            "ro": "Étang de Bondilly",
+            "en": "Étang de Bondilly"
+          },
+          "coords": [
+            4.513824,
+            46.75101
+          ],
+          "category": "natural",
+          "arrive_at": "15:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie am ruhigen Ufer dieses friedlichen Teiches, ideal für Naturliebhaber, und bringen Sie ein Fernglas mit, um die vielfältige heimische Vogelwelt zu beobachten.",
+            "hu": "Pihenjen meg a békés tó nyugodt partján, amely ideális a természet kedvelőinek, és hozzon magával távcsövet, hogy megfigyelhesse a gazdag helyi madárvilágot a fák között.",
+            "ro": "Relaxați-vă pe malurile liniștite ale acestui iaz pașnic, ideal pentru iubitorii de natură, și aduceți un binoclu pentru a observa diversele specii de păsări locale.",
+            "en": "Relax on the quiet shores of this peaceful pond, ideal for nature lovers, and remember to bring binoculars to spot the diverse local bird species hiding in the reeds."
+          }
+        },
+        {
+          "name": {
+            "de": "Golf du Château d'Avoise",
+            "hu": "Golf du Château d'Avoise",
+            "ro": "Golf du Château d'Avoise",
+            "en": "Golf du Château d'Avoise"
+          },
+          "coords": [
+            4.485834,
+            46.752452
+          ],
+          "category": "recreational",
+          "arrive_at": "16:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Spielen Sie eine Runde auf diesem malerischen Golfplatz, der für seine natürliche Schönheit bekannt ist, und reservieren Sie Ihren Abschlag am besten weit im Voraus.",
+            "hu": "Játsszon egy kört ezen a festői, természeti szépségéről híres golfpályán, de a legjobb élmény érdekében érdemes előre lefoglalni a kezdési időpontot a torlódás elkerülésére.",
+            "ro": "Jucați o rundă pe acest teren de golf pitoresc, renumit pentru frumusețea sa naturală, și rezervați-vă timpul de start în avans pentru a evita aglomerația la intrare.",
+            "en": "Play a round on this picturesque golf course, renowned for its natural beauty, and be sure to book your tee time well in advance to secure your spot during busy mornings."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang Berthaud",
+            "hu": "Étang Berthaud",
+            "ro": "Étang Berthaud",
+            "en": "Étang Berthaud"
+          },
+          "coords": [
+            4.473395,
+            46.7215
+          ],
+          "category": "natural",
+          "arrive_at": "17:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die grüne Umgebung dieses versteckten Gewässers, das sich perfekt für einen Spaziergang eignet, und tragen Sie bequeme, wasserfeste Schuhe für schlammige Wege.",
+            "hu": "Fedezze fel e rejtett vízfelület zöldellő környezetét, amely tökéletes egy kellemes sétához, és ehhez mindenképpen kényelmes, vízálló cipőt viseljen a nedves ösvények miatt.",
+            "ro": "Explorați împrejurimile verzi ale acestui ochi de apă ascuns, perfect pentru o plimbare relaxantă, și asigurați-vă că purtați încălțăminte comodă și impermeabilă pe poteci.",
+            "en": "Explore the verdant surroundings of this hidden body of water, perfect for a leisurely stroll, and wear comfortable waterproof shoes to navigate the often muddy trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de la Sorme",
+            "hu": "Lac de la Sorme",
+            "ro": "Lac de la Sorme",
+            "en": "Lac de la Sorme"
+          },
+          "coords": [
+            4.351795,
+            46.733558
+          ],
+          "category": "natural",
+          "arrive_at": "19:34",
+          "stay_min": 105,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 9.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die weite Aussicht über diesen Stausee, der die Region mit Wasser versorgt, und planen Sie Ihr Picknick am späten Nachmittag, um das beste Licht einzufangen.",
+            "hu": "Élvezze a hatalmas víztározó nyújtotta széles kilátást, amely a régiót vízzel látja el, és időzítse a pikniket késő délutánra, hogy a legszebb fényekben gyönyörködhessen.",
+            "ro": "Bucurați-vă de priveliștea vastă asupra acestui lac de acumulare care alimentează regiunea și planificați-vă picnicul spre seară pentru a surprinde cea mai bună lumină.",
+            "en": "Enjoy the sweeping views across this large reservoir that supplies the region, and plan your lakeside picnic for the late afternoon to catch the best golden hour light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Am Morgen fahren Sie bequem vom Bahnhof los und erkunden die nördliche Seenkette in entspanntem Tempo. Mittags besuchen Sie die großen Torcy-Seen und fahren weiter zum malerischen Étang de Montaubry in der Nähe. Nachmittags geht es in Richtung Süden zum Golfplatz und zur naturbelassenen Umgebung des Étang Berthaud. Der Abend endet an den Ufern des beeindruckenden Lac de la Sorme.",
+        "hu": "Reggel kényelmesen kigördül az állomásról autóval, hogy felfedezze az északi tórendszert. Délben a lenyűgöző Torcy-tavakat és a közeli, festői Étang de Montaubryt ejti útba egy pihentető sétára. Délután dél felé veszi az irányt a helyi golfpályához és a háborítatlan Étang Berthaud környékére. Az estéje a hatalmas Lac de la Sorme partján zárul egy varázslatos naplemente kíséretében.",
+        "ro": "Dimineața porniți cu mașina de la gară și explorați salba de lacuri nordice într-un ritm relaxat. La prânz vizitați marile lacuri Torcy și continuați către pitorescul Étang de Montaubry aflat în apropiere. După-amiaza vă îndreptați spre sud spre terenul de golf și împrejurimile sălbatice ale Étang Berthaud. Seara se încheie la Lac de la Sorme cu o panoramă magnifică la apus.",
+        "en": "Morning has you driving out from the station to explore the northern chain of lakes at a highly relaxed pace. Midday is spent visiting the grand Torcy lakes and continuing to the scenic Étang de Montaubry nearby. In the afternoon, head south towards the golf course and the unspoiled surroundings of Étang Berthaud. Conclude your driving tour at Lac de la Sorme with a sunset view."
+      }
+    }
+  }
+}

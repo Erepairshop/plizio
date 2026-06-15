@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-el-cotillo-cities-v2",
+  "anchor": {
+    "name": "El Cotillo",
+    "coords": [
+      -14.011111,
+      28.683611
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:07",
+      "total_km": 1.45,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ermita de Nuestra Señora del Buen Viaje",
+            "hu": "Ermita de Nuestra Señora del Buen Viaje",
+            "ro": "Ermita de Nuestra Señora del Buen Viaje",
+            "en": "Ermita de Nuestra Señora del Buen Viaje"
+          },
+          "coords": [
+            -14.008968,
+            28.686497
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese charmante maritime Kapelle, die der Schutzpatronin der Seeleute gewidmet ist, perfekt für eine stille Besinnung vor der Küstenwanderung.",
+            "hu": "Fedezze fel ezt a tengerészek védőszentjének szentelt, bájos tengerészeti kápolnát, amely tökéletes egy csendes elmélkedésre a parti túrák előtt.",
+            "ro": "Descoperiți această fermecătoare capelă maritimă dedicată ocrotitoarei marinarilor, perfectă pentru o scurtă reculegere înainte de a explora coasta.",
+            "en": "Discover this charming maritime chapel dedicated to the patron saint of sailors, perfect for quiet reflection before exploring the coastal trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Caleta del Cotillo",
+            "hu": "Caleta del Cotillo",
+            "ro": "Caleta del Cotillo",
+            "en": "Caleta del Cotillo"
+          },
+          "coords": [
+            -14.01138,
+            28.683623
+          ],
+          "category": "recreational",
+          "arrive_at": "09:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am ruhigen, türkisfarbenen Wasser dieser geschützten Bucht, ideal für Familien, aber kommen Sie früh, um einen guten Platz zu sichern.",
+            "hu": "Pihenjen e védett öböl nyugodt, türkizkék vizénél, amely ideális családoknak, de érkezzen korán, hogy jó helyet találjon a finom fehér homokon.",
+            "ro": "Relaxați-vă la apele liniștite și turcoaz ale acestui golf protejat, ideal pentru familii, dar sosiți devreme pentru a prinde un loc bun pe nisipul alb.",
+            "en": "Relax by the calm, turquoise waters of this sheltered cove, ideal for families and swimming, but arrive early to secure a good spot on the fine white sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador Hornos de cal",
+            "hu": "Mirador Hornos de cal",
+            "ro": "Mirador Hornos de cal",
+            "en": "Mirador Hornos de cal"
+          },
+          "coords": [
+            -14.010987,
+            28.680746
+          ],
+          "category": "natural",
+          "arrive_at": "11:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die spektakuläre Aussicht auf den Ozean und die historischen Kalköfen von diesem Punkt aus, aber halten Sie eine leichte Jacke bereit.",
+            "hu": "Csodálja meg a látványos óceáni kilátást és a történelmi mészégető kemencéket erről a pontról, és tartson kéznél egy könnyű kabátot a szél miatt.",
+            "ro": "Admirați priveliștea oceanului și cuptoarele istorice de var din acest punct de observație natural, având la îndemână o jachetă ușoară pentru vânt.",
+            "en": "Admire the spectacular ocean views and historic lime kilns from this natural vantage point, keeping a light jacket handy as the coastal wind can be strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Esqueleto Zifio comun",
+            "hu": "Esqueleto Zifio comun",
+            "ro": "Esqueleto Zifio comun",
+            "en": "Esqueleto Zifio comun"
+          },
+          "coords": [
+            -14.010422,
+            28.67953
+          ],
+          "category": "landmark",
+          "arrive_at": "11:42",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Betrachten Sie das beeindruckende Skelett eines Cuvier-Schnabelwals, das im Freien ausgestellt ist, und nutzen Sie diese einmalige Fotogelegenheit am Meer.",
+            "hu": "Vizsgálja meg a szabadban kiállított Cuvier-féle csőröscet lenyűgöző csontvázát, amely egyedülálló fotózási lehetőséget és tengervédelmi emlékeztetőt nyújt.",
+            "ro": "Examinați impresionantul schelet de balenă cu cioc expus în aer liber, oferind o oportunitate foto unică și un memento clar al conservării marine.",
+            "en": "Examine the impressive skeleton of a Cuvier's beaked whale displayed outdoors, offering a unique photo opportunity and a stark reminder of marine conservation."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa del Castillo",
+            "hu": "Playa del Castillo",
+            "ro": "Playa del Castillo",
+            "en": "Playa del Castillo"
+          },
+          "coords": [
+            -14.009,
+            28.67676
+          ],
+          "category": "recreational",
+          "arrive_at": "12:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Genießen Sie den goldenen Sand und die rollenden Wellen dieses beliebten Strandes, ein Paradies für Surfer, wo Sie Ausrüstung direkt vor Ort mieten können.",
+            "hu": "Élvezze e népszerű strand aranyhomokját és hullámait, amely a szörfösök paradicsoma, ahol felszerelést is bérelhet a közeli szörfiskolákban.",
+            "ro": "Bucurați-vă de nisipul auriu și de valurile acestui plajă populară, un paradis al surferilor unde puteți închiria echipament chiar de la școlile din zonă.",
+            "en": "Enjoy the golden sands and rolling waves of this popular beach, a haven for windsurfers where you can rent equipment right at the nearby surf schools."
+          }
+        },
+        {
+          "name": {
+            "de": "Piedra Playa",
+            "hu": "Piedra Playa",
+            "ro": "Piedra Playa",
+            "en": "Piedra Playa"
+          },
+          "coords": [
+            -14.009486,
+            28.673462
+          ],
+          "category": "recreational",
+          "arrive_at": "13:22",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erleben Sie die ungezähmte Schönheit dieses riesigen, zerklüfteten Küstenabschnitts für Kitesurfer, und vergessen Sie nicht, reichlich Wasser mitzubringen.",
+            "hu": "Tapasztalja meg ennek a hatalmas, zord partvidéknek a szépségét, amelyet a haladó kiteszörfösök imádnak, és feltétlenül vigyen magával vizet.",
+            "ro": "Experimentați frumusețea sălbatică a acestei coaste stâncoase iubită de surferi avansați, asigurându-vă că aduceți suficientă apă și protecție solară.",
+            "en": "Experience the untamed beauty of this vast, rugged coastline beloved by advanced kite surfers, making sure to bring plenty of water and sun protection."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Wanderung beginnt im Herzen von El Cotillo an der historischen Kapelle, die die maritimen Wurzeln der Stadt widerspiegelt. Bald erreichen Sie die geschützte Caleta del Cotillo, wo die Morgensonne das ruhige Wasser beleuchtet.\n\nMittags führt Sie der Küstenweg nach Süden, mit einem Halt am natürlichen Aussichtspunkt der Kalköfen, um die Meeresbrise zu spüren. Ganz in der Nähe bietet das Walskelett einen tollen Kontrast.\n\nAm Nachmittag öffnet sich die Landschaft an der Playa del Castillo und lädt Sie ein, den Windsurfern auf den Wellen zuzusehen. Der goldene Sand bietet einen perfekten Ort für eine kleine Nachmittagspause.\n\nGegen Abend ist Ihr letztes Ziel die raue Piedra Playa. Hier bietet die weite, ungezähmte Küste eine atemberaubende Kulisse für einen Spaziergang im Sonnenuntergang und rundet Ihr Abenteuer ab.",
+        "hu": "Gyalogos túrája El Cotillo szívében, a történelmi kápolnánál kezdődik, felidézve a város tengerészeti gyökereit. Hamarosan megérkezik a védett Caleta del Cotillo-hoz, ahol a reggeli napfény megvilágítja a nyugodt, türkizkék vizet.\n\nDélben dél felé halad a parti ösvényen, megállva a történelmi mészégető kemencék kilátójánál, hogy érezze az óceáni szellőt. A közelben a lenyűgöző bálnacsontváz izgalmas látványt nyújt.\n\nDélután a táj kinyílik a Playa del Castillo-nál, amely arra invitál, hogy megfigyelje a hullámokat meglovagoló szörfösöket. Az aranyhomok tökéletes hely egy kellemes délutáni pihenéshez.\n\nAz este közeledtével a zord Piedra Playa az utolsó célpont. Itt a hatalmas, érintetlen partvidék lélegzetelállító hátteret biztosít egy naplementés sétához, lezárva a kalandot.",
+        "ro": "Turul pietonal începe în inima orașului El Cotillo la capela istorică, reflectând la rădăcinile maritime ale orașului. Curând ajungeți la Caleta del Cotillo, unde soarele dimineții luminează apele turcoaz liniștite.\n\nLa amiază mergeți spre sud de-a lungul coastei, oprindu-vă la punctul de belvedere al cuptoarelor de var pentru a simți briza oceanului. Foarte aproape, scheletul de balenă oferă un contrast fascinant.\n\nDupă-amiaza, peisajul se deschide la Playa del Castillo, invitându-vă să priviți surferii pe valurile vibrante. Nisipul auriu oferă un loc perfect pentru o odihnă plăcută de după-amiază.\n\nPe măsură ce se apropie seara, destinația finală este Piedra Playa. Aici, coasta vastă și sălbatică oferă un fundal uluitor pentru o plimbare la apus, încheind aventura la malul mării.",
+        "en": "Your walking tour begins in the heart of El Cotillo at the historic chapel, reflecting on the town's maritime roots. Soon, you arrive at the sheltered Caleta del Cotillo, where the morning sun illuminates the calm turquoise waters.\n\nMidday takes you southward along the coastal path, stopping at the natural lime kilns viewpoint to feel the ocean breeze. Right nearby, the impressive whale skeleton offers a stark contrast between nature and history.\n\nIn the afternoon, the landscape opens up at Playa del Castillo, inviting you to watch the windsurfers riding the vibrant swells. The golden sands offer a perfect spot for an afternoon rest.\n\nAs evening approaches, your final destination is the rugged Piedra Playa. Here, the vast, untamed coastline provides a breathtaking backdrop for a sunset walk, concluding your seaside adventure."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 4.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Caletillas",
+            "hu": "Caletillas",
+            "ro": "Caletillas",
+            "en": "Caletillas"
+          },
+          "coords": [
+            -14.017118,
+            28.701567
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese ruhigen, abgelegenen kleinen Buchten im Norden, ideal für friedliches Sonnenbaden abseits der Massen, wobei Badeschuhe empfohlen werden.",
+            "hu": "Fedezze fel az északi apró öblök e békés, eldugott láncolatát, amely ideális a csendes napozáshoz távol a tömegtől, bár a vízi cipő erősen ajánlott.",
+            "ro": "Descoperiți acest șirag liniștit și izolat de golfuri mici din nord, ideal pentru băi de soare departe de aglomerație, deși se recomandă încălțăminte de apă.",
+            "en": "Discover this tranquil, secluded string of small coves in the north, ideal for peaceful sunbathing away from the crowds, though water shoes are recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "La Concha",
+            "hu": "La Concha",
+            "ro": "La Concha",
+            "en": "La Concha"
+          },
+          "coords": [
+            -14.016206,
+            28.693962
+          ],
+          "category": "recreational",
+          "arrive_at": "10:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie das halbmondförmige Riff, das diese unberührte Bucht schützt und ein natürliches Schwimmbecken schafft, das sich perfekt zum Schnorcheln eignet.",
+            "hu": "Csodálja meg a félhold alakú zátonyt, amely megvédi ezt az érintetlen öblöt, létrehozva egy természetes úszómedencét, amely tökéletes a sznorkelezéshez.",
+            "ro": "Minunați-vă de reciful în formă de semilună care protejează acest golf curat, creând o piscină naturală excepțional de sigură, perfectă pentru snorkeling.",
+            "en": "Marvel at the crescent-shaped reef protecting this pristine bay, creating a natural swimming pool that is exceptionally safe and perfect for snorkeling."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa del Marfolín",
+            "hu": "Playa del Marfolín",
+            "ro": "Playa del Marfolín",
+            "en": "Playa del Marfolín"
+          },
+          "coords": [
+            -14.012606,
+            28.688963
+          ],
+          "category": "recreational",
+          "arrive_at": "11:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Tanken Sie Sonne an diesem weitläufigen, leicht zugänglichen Strand in der Nähe der Stadt, wo flaches Wasser und nahe gelegene Cafés zum Verweilen einladen.",
+            "hu": "Szívja magába a napot ezen a tágas, könnyen megközelíthető strandon a város közelében, ahol a sekély víz hívogató, a közeli kávézók pedig frissítőket kínálnak.",
+            "ro": "Bucurați-vă de soare pe această plajă spațioasă, ușor accesibilă lângă oraș, unde apele puțin adânci invită la înot, iar cafenelele oferă băuturi reci.",
+            "en": "Soak up the sun at this expansive, easily accessible beach near the town, where shallow waters invite refreshing swims and nearby cafes offer cool drinks."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita de Nuestra Señora del Buen Viaje",
+            "hu": "Ermita de Nuestra Señora del Buen Viaje",
+            "ro": "Ermita de Nuestra Señora del Buen Viaje",
+            "en": "Ermita de Nuestra Señora del Buen Viaje"
+          },
+          "coords": [
+            -14.008968,
+            28.686497
+          ],
+          "category": "historical",
+          "arrive_at": "13:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese charmante maritime Kapelle, die der Schutzpatronin der Seeleute gewidmet ist, perfekt für eine stille Besinnung vor der Küstenwanderung.",
+            "hu": "Fedezze fel ezt a tengerészek védőszentjének szentelt, bájos tengerészeti kápolnát, amely tökéletes egy csendes elmélkedésre a parti túrák előtt.",
+            "ro": "Descoperiți această fermecătoare capelă maritimă dedicată ocrotitoarei marinarilor, perfectă pentru o scurtă reculegere înainte de a explora coasta.",
+            "en": "Discover this charming maritime chapel dedicated to the patron saint of sailors, perfect for quiet reflection before exploring the coastal trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Molino de El Roque",
+            "hu": "Molino de El Roque",
+            "ro": "Molino de El Roque",
+            "en": "Molino de El Roque"
+          },
+          "coords": [
+            -14.000623,
+            28.679574
+          ],
+          "category": "landmark",
+          "arrive_at": "13:50",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Fotografieren Sie diese makellos restaurierte traditionelle Windmühle, die stolz am Rand des Dorfes steht und ein malerisches Emblem der ländlichen Vergangenheit ist.",
+            "hu": "Fényképezze le ezt a kifogástalanul felújított hagyományos szélmalmot a falu szélén, amely a sziget múltjának festői jelképeként szolgál a tájban.",
+            "ro": "Fotografiați această moară de vânt tradițională impecabil restaurată de la marginea satului, servind drept emblemă pitorească a trecutului rural al insulei.",
+            "en": "Photograph this impeccably restored traditional windmill standing proudly on the edge of the village, serving as a picturesque emblem of the island's rural past."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa del Aljibe",
+            "hu": "Playa del Aljibe",
+            "ro": "Playa del Aljibe",
+            "en": "Playa del Aljibe"
+          },
+          "coords": [
+            -14.011776,
+            28.667471
+          ],
+          "category": "recreational",
+          "arrive_at": "14:15",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entfliehen Sie an diesen abgelegenen, dramatischen südlichen Küstenabschnitt, der von Klippen eingerahmt wird und ideal für Spaziergänge im Sonnenuntergang ist.",
+            "hu": "Meneküljön el erre a távoli, vulkáni sziklákkal szegélyezett drámai déli partvidékre, amely kifejezetten ajánlott naplementekor a vad szörfözés mellett.",
+            "ro": "Evadați pe această porțiune izolată și dramatică a țărmului sudic încadrată de stânci vulcanice, foarte recomandată pentru plimbări la apus lângă valuri.",
+            "en": "Escape to this remote, dramatic stretch of southern shoreline framed by volcanic cliffs, highly recommended for dramatic sunset walks along the wild surf."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag in den ruhigen nördlichen Buchten von Caletillas, wo die Umgebung einen friedlichen Morgen bietet. Eine kurze Fahrt bringt Sie zum geschützten Riff von La Concha zum Schnorcheln.\n\nGegen Mittag gleiten Sie entlang der Küste zur weitläufigen Playa del Marfolín. Das einladende flache Wasser ist perfekt zur Abkühlung, bevor Sie in Richtung des charmanten Stadtzentrums radeln.\n\nAm Nachmittag führt Ihre Erkundung zur historischen Ermita, gefolgt von einem kleinen Abstecher landeinwärts zum sorgfältig restaurierten Molino de El Roque, einem stolzen Symbol der Landwirtschaft.\n\nZur goldenen Stunde radeln Sie nach Süden zur dramatischen Playa del Aljibe. Umgeben von dunklen vulkanischen Klippen belohnt Sie diese weite Küste mit einem unvergesslichen Sonnenuntergang.",
+        "hu": "Kezdje a kerékpáros napot Caletillas nyugodt északi öbleiben, ahol a csendes környezet békés reggelt kínál. Egy rövid út után eléri La Concha védett zátonyát, amely a reggeli sznorkelezés paradicsoma.\n\nDélben a part mentén a tágas Playa del Marfolín felé suhan. A hívogató, sekély víz tökéletes a hűsölésre, mielőtt visszakerekezne a falu bájos központjába.\n\nA délutáni felfedezés a történelmi Ermita kápolnához vezet, majd egy kis kitérővel a szárazföld felé megcsodálhatja a Molino de El Roque gondosan felújított szélmalmát.\n\nAz aranyórában dél felé pedáloz a drámai Playa del Aljibe strandhoz. A sötét vulkáni sziklákkal körülvett tágas partvidék felejthetetlen, vad óceáni naplementével jutalmazza erőfeszítéseit.",
+        "ro": "Începeți ziua de ciclism în golfurile nordice liniștite din Caletillas, unde mediul senin oferă o dimineață pașnică. O scurtă plimbare vă aduce la reciful protejat La Concha, un paradis matinal.\n\nLa amiază, alunecați de-a lungul coastei către spațioasa Playa del Marfolín. Apele puțin adânci sunt perfecte pentru a vă răcori înainte de a merge înapoi spre centrul orașului fermecător.\n\nExplorările de după-amiază vă conduc la istorica Ermita, urmată de un ocol spre interior spre Molino de El Roque, un simbol mândru al tradițiilor rurale restaurat meticulos.\n\nÎn ora de aur, pedalați spre sud către dramatica Playa del Aljibe. Înconjurată de stânci vulcanice, această coastă întinsă vă răsplătește eforturile cu un apus de soare de neuitat.",
+        "en": "Start your cycling day in the tranquil northern coves of Caletillas, where the serene environment offers a peaceful morning. A short ride brings you to the protected reef of La Concha, a haven for morning snorkeling.\n\nBy midday, you glide along the coastline to the expansive Playa del Marfolín. The inviting shallow waters are perfect for cooling off before riding back towards the charming town center.\n\nAfternoon explorations lead you to the historic Ermita, followed by a slight inland detour to the meticulously restored Molino de El Roque, standing as a proud symbol of rural traditions.\n\nThe golden hour sees you pedaling south to the dramatic Playa del Aljibe. Surrounded by dark volcanic cliffs, this expansive shore rewards your cycling efforts with an unforgettable and wild ocean sunset."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:49",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Caleta del Rio",
+            "hu": "Caleta del Rio",
+            "ro": "Caleta del Rio",
+            "en": "Caleta del Rio"
+          },
+          "coords": [
+            -14.016603,
+            28.70984
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre nördliche Erkundung in dieser rauen natürlichen Bucht, wo der Atlantik auf vulkanische Felsen trifft und eine dramatische Morgenlandschaft bietet.",
+            "hu": "Kezdje északi felfedezését ebben a zord természetes öbölben, ahol az atlanti hullámok sötét vulkáni sziklákkal találkoznak, drámai reggeli tájat alkotva.",
+            "ro": "Începeți explorarea nordică în acest golf natural stâncos, unde valurile Atlanticului întâlnesc roci vulcanice întunecate, oferind un peisaj matinal dramatic.",
+            "en": "Start your northern exploration at this rugged natural cove where the Atlantic swells meet dark volcanic rocks, presenting a dramatic morning landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa la Barra",
+            "hu": "Playa la Barra",
+            "ro": "Playa la Barra",
+            "en": "Playa la Barra"
+          },
+          "coords": [
+            -14.016419,
+            28.698588
+          ],
+          "category": "recreational",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Waten Sie in die kristallklaren Lagunen, die bei Ebbe durch natürliche Felsbarrieren entstehen, und genießen Sie die idyllische Umgebung zum Entspannen.",
+            "hu": "Gázoljon be a kristálytiszta lagúnákba, amelyeket a természetes sziklafalak alkotnak apálykor, idilli környezetet biztosítva az apró tengeri élőlények felfedezéséhez.",
+            "ro": "Intrați în lagunele cristaline formate de bariere stâncoase naturale la reflux, oferind un cadru idilic pentru a găsi mică viață marină și a vă relaxa.",
+            "en": "Wade into the crystal-clear lagoons formed by natural rock barriers at low tide, providing an idyllic setting for finding small marine life and relaxing."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita de Nuestra Señora del Buen Viaje",
+            "hu": "Ermita de Nuestra Señora del Buen Viaje",
+            "ro": "Ermita de Nuestra Señora del Buen Viaje",
+            "en": "Ermita de Nuestra Señora del Buen Viaje"
+          },
+          "coords": [
+            -14.008968,
+            28.686497
+          ],
+          "category": "historical",
+          "arrive_at": "11:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese charmante maritime Kapelle, die der Schutzpatronin der Seeleute gewidmet ist, perfekt für eine stille Besinnung vor der Küstenwanderung.",
+            "hu": "Fedezze fel ezt a tengerészek védőszentjének szentelt, bájos tengerészeti kápolnát, amely tökéletes egy csendes elmélkedésre a parti túrák előtt.",
+            "ro": "Descoperiți această fermecătoare capelă maritimă dedicată ocrotitoarei marinarilor, perfectă pentru o scurtă reculegere înainte de a explora coasta.",
+            "en": "Discover this charming maritime chapel dedicated to the patron saint of sailors, perfect for quiet reflection before exploring the coastal trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Molino de El Roque",
+            "hu": "Molino de El Roque",
+            "ro": "Molino de El Roque",
+            "en": "Molino de El Roque"
+          },
+          "coords": [
+            -14.000623,
+            28.679574
+          ],
+          "category": "landmark",
+          "arrive_at": "12:28",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fotografieren Sie diese makellos restaurierte traditionelle Windmühle, die stolz am Rand des Dorfes steht und ein malerisches Emblem der ländlichen Vergangenheit ist.",
+            "hu": "Fényképezze le ezt a kifogástalanul felújított hagyományos szélmalmot a falu szélén, amely a sziget múltjának festői jelképeként szolgál a tájban.",
+            "ro": "Fotografiați această moară de vânt tradițională impecabil restaurată de la marginea satului, servind drept emblemă pitorească a trecutului rural al insulei.",
+            "en": "Photograph this impeccably restored traditional windmill standing proudly on the edge of the village, serving as a picturesque emblem of the island's rural past."
+          }
+        },
+        {
+          "name": {
+            "de": "Esqueleto Zifio comun",
+            "hu": "Esqueleto Zifio comun",
+            "ro": "Esqueleto Zifio comun",
+            "en": "Esqueleto Zifio comun"
+          },
+          "coords": [
+            -14.010422,
+            28.67953
+          ],
+          "category": "landmark",
+          "arrive_at": "12:45",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Betrachten Sie das beeindruckende Skelett eines Cuvier-Schnabelwals, das im Freien ausgestellt ist, und nutzen Sie diese einmalige Fotogelegenheit am Meer.",
+            "hu": "Vizsgálja meg a szabadban kiállított Cuvier-féle csőröscet lenyűgöző csontvázát, amely egyedülálló fotózási lehetőséget és tengervédelmi emlékeztetőt nyújt.",
+            "ro": "Examinați impresionantul schelet de balenă cu cioc expus în aer liber, oferind o oportunitate foto unică și un memento clar al conservării marine.",
+            "en": "Examine the impressive skeleton of a Cuvier's beaked whale displayed outdoors, offering a unique photo opportunity and a stark reminder of marine conservation."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Mallorquines",
+            "hu": "Playa Mallorquines",
+            "ro": "Playa Mallorquines",
+            "en": "Playa Mallorquines"
+          },
+          "coords": [
+            -14.014714,
+            28.661526
+          ],
+          "category": "recreational",
+          "arrive_at": "13:04",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem weitläufigen südlichen Strand, einem atemberaubenden und abgelegenen Sandstreifen, wo die Kraft des Ozeans majestätisch wirkt.",
+            "hu": "Fejezze be a napját ezen a tágas déli strandon, egy lenyűgöző és távoli homoksávon, ahol az óceán ereje fenséges, érintetlen atmoszférát teremt a sétákhoz.",
+            "ro": "Încheiați ziua pe această plajă sudică întinsă, o fâșie de nisip uimitoare și izolată unde puterea oceanului creează o atmosferă maiestuoasă și neatinsă.",
+            "en": "End your day at this expansive southern beach, a stunning and remote strip of sand where the power of the ocean creates a majestic, unspoiled atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Küstenfahrt beginnt am nördlichsten Punkt der Caleta del Rio, wo dramatische Vulkangesteine auf die morgendliche Brandung des Atlantiks treffen. Ein kurzer Sprung bringt Sie zur Playa la Barra.\n\nGegen Mittag fahren Sie in das Herz von El Cotillo, um die malerische maritime Kapelle zu besuchen. Etwas landeinwärts bietet die historische Roque-Windmühle einen Einblick in die Vergangenheit der Insel.\n\nAm frühen Nachmittag fahren Sie wieder nach Süden an die Küste, um das markante Cuvier-Schnabelwal-Skelett zu besichtigen. Dieses Wahrzeichen bietet einen unvergesslichen Fotostopp am Ozean.\n\nFahren Sie am Abend weiter südlich zur weitläufigen Playa Mallorquines. Diese abgelegene, unberührte Küste bietet die ultimative Kulisse, um sich zu entspannen und einen spektakulären Sonnenuntergang zu beobachten.",
+        "hu": "Tengerparti autózása az északi Caleta del Rio-nál indul, ahol drámai vulkáni kőzetek fogadják a reggeli atlanti hullámokat. Egy gyors ugrás után megérkezik a Playa la Barra kristálytiszta természetes medencéihez.\n\nDél közeledtével El Cotillo szívébe hajt, hogy meglátogassa a különleges tengerészeti kápolnát. Kicsit beljebb a történelmi Roque szélmalom nyújt lenyűgöző bepillantást a sziget múltjába.\n\nKora délután ismét a partvidék felé veszi az irányt, hogy megnézze a feltűnő Cuvier-féle csőröscet csontvázat. Ez az egyedülálló nevezetesség emlékezetes fotóélményt kínál az óceánnal a háttérben.\n\nEstére vezessen tovább délre, a hatalmas Playa Mallorquines felé. Ez az eldugott, érintetlen partvidék tökéletes hátteret nyújt a pihenéshez és egy látványos naplemente megtekintéséhez.",
+        "ro": "Călătoria pe coastă începe în punctul extrem nordic Caleta del Rio, unde rocile vulcanice dramatice întâmpină valurile dimineții. O săritură rapidă vă aduce la Playa la Barra și bazinele sale naturale.\n\nApropiindu-vă de amiază, conduceți în inima orașului El Cotillo pentru a vizita pitoreasca capelă maritimă. Spre interior, istorica moară de vânt Roque oferă o privire uimitoare în trecut.\n\nPrima parte a după-amiezii vă conduce din nou spre sud pe coastă pentru a asista la izbitorul schelet de balenă cu cioc. Acest punct de reper unic oferă o oprire foto memorabilă.\n\nPentru seară, conduceți mai spre sud până la imensa Playa Mallorquines. Această coastă izolată și neatinsă oferă fundalul suprem pentru a vă relaxa și a privi un apus de soare spectaculos.",
+        "en": "Your coastal drive kicks off at the far northern point of Caleta del Rio, where dramatic volcanic rocks greet the morning Atlantic surf. A quick hop brings you to Playa la Barra, revealing crystal-clear natural tide pools.\n\nApproaching midday, you drive into the heart of El Cotillo to visit the quaint maritime chapel. Just inland, the historic Roque windmill provides a stunning glimpse into the agricultural past of the island.\n\nEarly afternoon leads you south toward the coastline again to witness the striking Cuvier's beaked whale skeleton. This unique landmark offers a memorable photo stop against the backdrop of the vast ocean.\n\nFor the evening, drive further south to the expansive Playa Mallorquines. This remote, unspoiled shoreline provides the ultimate backdrop to relax and watch a spectacular Fuerteventura sunset."
+      }
+    }
+  }
+}

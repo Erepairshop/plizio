@@ -1,0 +1,497 @@
+{
+  "city_id": "italy-posada-cities-v2",
+  "anchor": {
+    "name": "Posada",
+    "coords": [
+      9.71644,
+      40.63197
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:55",
+      "total_km": 2.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Monumento a Padre Pio da Pietrelcina",
+            "hu": "Monumento a Padre Pio da Pietrelcina",
+            "ro": "Monumento a Padre Pio da Pietrelcina",
+            "en": "Monumento a Padre Pio da Pietrelcina"
+          },
+          "coords": [
+            9.714717,
+            40.632903
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem friedlichen Denkmal und nehmen Sie sich einen Moment Zeit, um die besinnliche Atmosphäre zu genießen, bevor Sie den Ort erkunden.",
+            "hu": "Kezdje a napot ennél a különleges és békés emlékműnél, és szánjon egy csendes percet az elmélyülésre, mielőtt gyalogosan felfedezné a város többi lenyűgöző látnivalóját.",
+            "ro": "Începeți-vă ziua la acest monument liniștit și acordați-vă un moment de contemplare profundă înainte de a explora pe îndelete restul minunatelor atracții ale orașului.",
+            "en": "Start your day at this peaceful monument and take a moment for quiet contemplation before setting off to explore the rest of the charming town's historical attractions."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvedere",
+            "hu": "Belvedere",
+            "ro": "Belvedere",
+            "en": "Belvedere"
+          },
+          "coords": [
+            9.723427,
+            40.636645
+          ],
+          "category": "natural",
+          "arrive_at": "09:37",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Panoramablick von diesem natürlichen Aussichtspunkt, der sich perfekt für atemberaubende Landschaftsfotos eignet; kommen Sie am besten bei klarem Wetter.",
+            "hu": "Élvezze a páratlan panorámát erről a természetes kilátóról, amely tökéletes helyszín a lenyűgöző tájképek elkészítéséhez; mindenképpen érdemes tiszta időben érkezni ide.",
+            "ro": "Bucurați-vă de priveliștea panoramică de la acest punct de belvedere natural, perfect pentru fotografii uimitoare, mai ales dacă reușiți să veniți într-o zi senină și clară.",
+            "en": "Enjoy the sweeping panoramic view from this natural viewpoint, perfectly suited for capturing stunning landscape photos, especially if you visit on a perfectly clear day."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello della Fava",
+            "hu": "Castello della Fava",
+            "ro": "Castello della Fava",
+            "en": "Castello della Fava"
+          },
+          "coords": [
+            9.723743,
+            40.637982
+          ],
+          "category": "castle",
+          "arrive_at": "10:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historische Burgruine und klettern Sie auf den Hauptturm, um eine fantastische Aussicht über das Tal und das Meer zu genießen; festes Schuhwerk ist unerlässlich.",
+            "hu": "Fedezze fel ezt a történelmi várromot, és másszon fel a toronyba, ahonnan fantasztikus kilátás nyílik a völgyre és a tengerre; a kényelmes, zárt cipő viselése nagyon ajánlott.",
+            "ro": "Explorați aceste ruine istorice și urcați în turnul principal pentru o priveliște fantastică asupra întregii văi și a mării, fiind absolut necesară o încălțăminte confortabilă.",
+            "en": "Explore this fascinating historic castle ruin and climb the main tower to enjoy a fantastic view over the valley and sea; comfortable, sturdy walking shoes are highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa delle Dame",
+            "hu": "Casa delle Dame",
+            "ro": "Casa delle Dame",
+            "en": "Casa delle Dame"
+          },
+          "coords": [
+            9.724839,
+            40.637897
+          ],
+          "category": "historical",
+          "arrive_at": "11:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses faszinierende historische Gebäude, um mehr über die lokale Baukunst zu erfahren, und achten Sie dabei besonders auf die liebevollen Details der Außenfassade.",
+            "hu": "Látogasson el ebbe a lenyűgöző történelmi épületbe, hogy többet megtudjon a helyi építészetről, és feltétlenül figyelje meg a külső homlokzat aprólékos, finom részleteit.",
+            "ro": "Vizitați această clădire istorică fascinantă pentru a afla mai multe despre arhitectura locală tradițională și acordați o atenție deosebită detaliilor complicate de pe fațadă.",
+            "en": "Visit this fascinating historic building to learn much more about traditional local architecture, making sure to pay close attention to the intricate details on the front facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Posada Strand",
+            "hu": "Posada Beach",
+            "ro": "Plaja Posada",
+            "en": "Posada Beach"
+          },
+          "coords": [
+            9.743741,
+            40.633624
+          ],
+          "category": "landmark",
+          "arrive_at": "13:10",
+          "stay_min": 105,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem wunderschönen Sandstrand und nehmen Sie ein erfrischendes Bad im kristallklaren Wasser; vergessen Sie nicht, reichlich Sonnencreme mitzubringen.",
+            "hu": "Pihenjen ezen a gyönyörű, finom homokos strandon, és mártózzon meg a hűsítő, kristálytiszta vízben; semmiképpen ne felejtsen el magával hozni naptejet és egy nagy törölközőt.",
+            "ro": "Relaxați-vă pe această plajă minunată cu nisip fin și faceți o baie răcoritoare în apele cristaline; nu uitați să aduceți suficientă cremă de protecție solară și un prosop mare.",
+            "en": "Relax on this beautiful sandy beach and take a highly refreshing dip in the crystal-clear ocean waters; please do not forget to bring plenty of sunscreen and a large beach towel."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens spazieren Sie durch Posada und entdecken friedliche, historische Monumente.\n\nGegen Mittag erklimmen Sie die stolze Burg Castello della Fava für tolle Ausblicke.\n\nNachmittags bewundern Sie die traditionelle Architektur der Casa delle Dame in der Stadt.\n\nAbends entspannen Sie sich am herrlichen Posada Beach und genießen den Sonnenuntergang.",
+        "hu": "Reggel Posada utcáin sétálva fedezhet fel békés és lenyűgöző történelmi műemlékeket.\n\nDélben mássza meg a Castello della Fava várat, ahonnan csodálatos kilátás nyílik.\n\nDélután a városban gyönyörködhet a történelmi Casa delle Dame hagyományos építészetében.\n\nEste a gyönyörű Posada Beach-en pihenhet, ahol a hullámok mellett nézheti a naplementét.",
+        "ro": "Dimineața vă plimbați prin Posada și descoperiți monumente istorice liniștite și frumoase.\n\nLa prânz urcați la impresionantul Castello della Fava pentru a admira priveliștile.\n\nDupă-amiaza admirați arhitectura tradițională a Casei delle Dame din centrul istoric.\n\nSeara vă relaxați pe minunata plajă Posada, bucurându-vă de apusul de soare la mare.",
+        "en": "In the morning, stroll through Posada to discover peaceful and historic local monuments.\n\nAt midday, climb the impressive Castello della Fava to enjoy breathtaking coastal views.\n\nDuring the afternoon, admire the traditional architecture of Casa delle Dame in town.\n\nIn the evening, completely relax on Posada Beach and watch the stunning sunset by the sea."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:08",
+      "total_km": 5.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Nuragne Pizzinnu",
+            "hu": "Nuragne Pizzinnu",
+            "ro": "Nuragne Pizzinnu",
+            "en": "Nuragne Pizzinnu"
+          },
+          "coords": [
+            9.705052,
+            40.617718
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese antike Nuraghen-Stätte, um tief in die prähistorische Vergangenheit Sardiniens einzutauchen; kommen Sie möglichst früh, um die Stille ungestört zu genießen.",
+            "hu": "Látogasson el ehhez az ősi nuraghe lelőhelyhez, és merüljön el Szardínia történelem előtti múltjában; érdemes minél korábban érkezni, hogy teljes nyugalomban fedezhesse fel.",
+            "ro": "Vizitați acest impresionant sit antic nuragic pentru a vă scufunda în trecutul preistoric al Sardiniei; veniți cât mai devreme posibil pentru a vă bucura de liniștea locului.",
+            "en": "Visit this impressive ancient Nuragic site to dive deeply into Sardinia's prehistoric past; arriving as early as possible allows you to experience the historic site in total peace."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a Padre Pio da Pietrelcina",
+            "hu": "Monumento a Padre Pio da Pietrelcina",
+            "ro": "Monumento a Padre Pio da Pietrelcina",
+            "en": "Monumento a Padre Pio da Pietrelcina"
+          },
+          "coords": [
+            9.714717,
+            40.632903
+          ],
+          "category": "landmark",
+          "arrive_at": "10:40",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem friedlichen Denkmal und nehmen Sie sich einen Moment Zeit, um die besinnliche Atmosphäre zu genießen, bevor Sie den Ort erkunden.",
+            "hu": "Kezdje a napot ennél a különleges és békés emlékműnél, és szánjon egy csendes percet az elmélyülésre, mielőtt gyalogosan felfedezné a város többi lenyűgöző látnivalóját.",
+            "ro": "Începeți-vă ziua la acest monument liniștit și acordați-vă un moment de contemplare profundă înainte de a explora pe îndelete restul minunatelor atracții ale orașului.",
+            "en": "Start your day at this peaceful monument and take a moment for quiet contemplation before setting off to explore the rest of the charming town's historical attractions."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello della Fava",
+            "hu": "Castello della Fava",
+            "ro": "Castello della Fava",
+            "en": "Castello della Fava"
+          },
+          "coords": [
+            9.723743,
+            40.637982
+          ],
+          "category": "castle",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historische Burgruine und klettern Sie auf den Hauptturm, um eine fantastische Aussicht über das Tal und das Meer zu genießen; festes Schuhwerk ist unerlässlich.",
+            "hu": "Fedezze fel ezt a történelmi várromot, és másszon fel a toronyba, ahonnan fantasztikus kilátás nyílik a völgyre és a tengerre; a kényelmes, zárt cipő viselése nagyon ajánlott.",
+            "ro": "Explorați aceste ruine istorice și urcați în turnul principal pentru o priveliște fantastică asupra întregii văi și a mării, fiind absolut necesară o încălțăminte confortabilă.",
+            "en": "Explore this fascinating historic castle ruin and climb the main tower to enjoy a fantastic view over the valley and sea; comfortable, sturdy walking shoes are highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Sutta 'e Riu",
+            "hu": "Sutta 'e Riu",
+            "ro": "Sutta 'e Riu",
+            "en": "Sutta 'e Riu"
+          },
+          "coords": [
+            9.741311,
+            40.638091
+          ],
+          "category": "landmark",
+          "arrive_at": "12:28",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Machen Sie eine wohlverdiente Pause in dieser malerischen Gegend am Fluss, die ideal für Naturliebhaber ist; bringen Sie unbedingt etwas Wasser und Snacks für ein Picknick mit.",
+            "hu": "Tartson egy jól megérdemelt pihenőt ezen a festői folyóparti területen, amely ideális a természet szerelmeseinek; mindenképpen vigyen magával vizet és egy kis rágcsálnivalót.",
+            "ro": "Faceți o pauză bine meritată în această zonă pitorească de pe malul râului, ideală pentru iubitorii de natură; aduceți cu siguranță apă și câteva gustări pentru un mic picnic.",
+            "en": "Take a well-deserved break in this incredibly picturesque riverside area, which is ideal for nature lovers; be sure to bring plenty of water and some snacks for a small picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Kitesurf-Startplatz",
+            "hu": "Kitesurf indítópálya",
+            "ro": "Pista de lansare pentru kitesurf",
+            "en": "Kite-surfing launch pad"
+          },
+          "coords": [
+            9.741579,
+            40.640271
+          ],
+          "category": "landmark",
+          "arrive_at": "12:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie die talentierten Kite-Surfer an diesem windigen Küstenabschnitt oder probieren Sie es einfach selbst aus, wenn Sie besonders abenteuerlustig und sportlich sind.",
+            "hu": "Figyelje meg a tehetséges kiteszörfösöket ezen a szeles partszakaszon, vagy bátran próbálja ki maga is a sportot, ha igazán kalandvágyó hangulatban van és szereti a kihívásokat.",
+            "ro": "Priviți pasionații talentați de kitesurf pe această porțiune de coastă vântoasă sau încercați chiar dumneavoastră acest sport, dacă sunteți într-o dispoziție cu adevărat aventuroasă.",
+            "en": "Watch the talented kite surfers catch the breeze on this windy stretch of coast, or bravely give it a try yourself if you are feeling genuinely adventurous and want some action."
+          }
+        },
+        {
+          "name": {
+            "de": "Posada Strand",
+            "hu": "Posada Beach",
+            "ro": "Plaja Posada",
+            "en": "Posada Beach"
+          },
+          "coords": [
+            9.743741,
+            40.633624
+          ],
+          "category": "landmark",
+          "arrive_at": "13:23",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem wunderschönen Sandstrand und nehmen Sie ein erfrischendes Bad im kristallklaren Wasser; vergessen Sie nicht, reichlich Sonnencreme mitzubringen.",
+            "hu": "Pihenjen ezen a gyönyörű, finom homokos strandon, és mártózzon meg a hűsítő, kristálytiszta vízben; semmiképpen ne felejtsen el magával hozni naptejet és egy nagy törölközőt.",
+            "ro": "Relaxați-vă pe această plajă minunată cu nisip fin și faceți o baie răcoritoare în apele cristaline; nu uitați să aduceți suficientă cremă de protecție solară și un prosop mare.",
+            "en": "Relax on this beautiful sandy beach and take a highly refreshing dip in the crystal-clear ocean waters; please do not forget to bring plenty of sunscreen and a large beach towel."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens radeln Sie zu den faszinierenden antiken Ruinen des Nuragne Pizzinnu.\n\nMittags erklimmen Sie mit dem Rad die Anhöhe zur Burg für eine wohlverdiente Pause.\n\nNachmittags führt die malerische Route hinab zur Küste an den entspannten Fluss.\n\nAbends erreichen Sie den Strand und den Kite-Surf-Spot für einen sportlichen Ausklang.",
+        "hu": "Reggel izgalmas kerékpártúrára indul a Nuragne Pizzinnu ősi romjaihoz a városon kívül.\n\nDélben felteker a vár dombjára, ahol fantasztikus kilátás kíséretében pihenhet meg.\n\nDélután a festői útvonal levezet a tengerparthoz és a nyugodt folyóparti vidékre.\n\nEste elérve a strandot és a kiteszörfös helyet, aktívan vagy teljesen ellazulva zárhatja a napot.",
+        "ro": "Dimineața pedalați spre ruinele antice fascinante ale Nuragne Pizzinnu din afara orașului.\n\nLa prânz urcați cu bicicleta dealul spre castel pentru o pauză și o priveliște superbă.\n\nDupă-amiaza traseul coboară spre coastă, ajungând la râul pitoresc și foarte relaxant.\n\nSeara ajungeți la plajă și la locul de kitesurf, încheind ziua activ sau stând liniștit.",
+        "en": "In the morning, ride your bike to the fascinating ancient ruins of Nuragne Pizzinnu.\n\nAt midday, confidently cycle up the hill to the historic castle for a well-deserved break.\n\nDuring the afternoon, the scenic route takes you down to the coast and the relaxing river.\n\nIn the evening, arrive at the vibrant beach and kite-surfing spot to end the day nicely."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:43",
+      "total_km": 5.0,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Nuragne Pizzinnu",
+            "hu": "Nuragne Pizzinnu",
+            "ro": "Nuragne Pizzinnu",
+            "en": "Nuragne Pizzinnu"
+          },
+          "coords": [
+            9.705052,
+            40.617718
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese antike Nuraghen-Stätte, um tief in die prähistorische Vergangenheit Sardiniens einzutauchen; kommen Sie möglichst früh, um die Stille ungestört zu genießen.",
+            "hu": "Látogasson el ehhez az ősi nuraghe lelőhelyhez, és merüljön el Szardínia történelem előtti múltjában; érdemes minél korábban érkezni, hogy teljes nyugalomban fedezhesse fel.",
+            "ro": "Vizitați acest impresionant sit antic nuragic pentru a vă scufunda în trecutul preistoric al Sardiniei; veniți cât mai devreme posibil pentru a vă bucura de liniștea locului.",
+            "en": "Visit this impressive ancient Nuragic site to dive deeply into Sardinia's prehistoric past; arriving as early as possible allows you to experience the historic site in total peace."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a Padre Pio da Pietrelcina",
+            "hu": "Monumento a Padre Pio da Pietrelcina",
+            "ro": "Monumento a Padre Pio da Pietrelcina",
+            "en": "Monumento a Padre Pio da Pietrelcina"
+          },
+          "coords": [
+            9.714717,
+            40.632903
+          ],
+          "category": "landmark",
+          "arrive_at": "10:34",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem friedlichen Denkmal und nehmen Sie sich einen Moment Zeit, um die besinnliche Atmosphäre zu genießen, bevor Sie den Ort erkunden.",
+            "hu": "Kezdje a napot ennél a különleges és békés emlékműnél, és szánjon egy csendes percet az elmélyülésre, mielőtt gyalogosan felfedezné a város többi lenyűgöző látnivalóját.",
+            "ro": "Începeți-vă ziua la acest monument liniștit și acordați-vă un moment de contemplare profundă înainte de a explora pe îndelete restul minunatelor atracții ale orașului.",
+            "en": "Start your day at this peaceful monument and take a moment for quiet contemplation before setting off to explore the rest of the charming town's historical attractions."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvedere",
+            "hu": "Belvedere",
+            "ro": "Belvedere",
+            "en": "Belvedere"
+          },
+          "coords": [
+            9.723427,
+            40.636645
+          ],
+          "category": "natural",
+          "arrive_at": "10:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Panoramablick von diesem natürlichen Aussichtspunkt, der sich perfekt für atemberaubende Landschaftsfotos eignet; kommen Sie am besten bei klarem Wetter.",
+            "hu": "Élvezze a páratlan panorámát erről a természetes kilátóról, amely tökéletes helyszín a lenyűgöző tájképek elkészítéséhez; mindenképpen érdemes tiszta időben érkezni ide.",
+            "ro": "Bucurați-vă de priveliștea panoramică de la acest punct de belvedere natural, perfect pentru fotografii uimitoare, mai ales dacă reușiți să veniți într-o zi senină și clară.",
+            "en": "Enjoy the sweeping panoramic view from this natural viewpoint, perfectly suited for capturing stunning landscape photos, especially if you visit on a perfectly clear day."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello della Fava",
+            "hu": "Castello della Fava",
+            "ro": "Castello della Fava",
+            "en": "Castello della Fava"
+          },
+          "coords": [
+            9.723743,
+            40.637982
+          ],
+          "category": "castle",
+          "arrive_at": "11:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historische Burgruine und klettern Sie auf den Hauptturm, um eine fantastische Aussicht über das Tal und das Meer zu genießen; festes Schuhwerk ist unerlässlich.",
+            "hu": "Fedezze fel ezt a történelmi várromot, és másszon fel a toronyba, ahonnan fantasztikus kilátás nyílik a völgyre és a tengerre; a kényelmes, zárt cipő viselése nagyon ajánlott.",
+            "ro": "Explorați aceste ruine istorice și urcați în turnul principal pentru o priveliște fantastică asupra întregii văi și a mării, fiind absolut necesară o încălțăminte confortabilă.",
+            "en": "Explore this fascinating historic castle ruin and climb the main tower to enjoy a fantastic view over the valley and sea; comfortable, sturdy walking shoes are highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa delle Dame",
+            "hu": "Casa delle Dame",
+            "ro": "Casa delle Dame",
+            "en": "Casa delle Dame"
+          },
+          "coords": [
+            9.724839,
+            40.637897
+          ],
+          "category": "historical",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses faszinierende historische Gebäude, um mehr über die lokale Baukunst zu erfahren, und achten Sie dabei besonders auf die liebevollen Details der Außenfassade.",
+            "hu": "Látogasson el ebbe a lenyűgöző történelmi épületbe, hogy többet megtudjon a helyi építészetről, és feltétlenül figyelje meg a külső homlokzat aprólékos, finom részleteit.",
+            "ro": "Vizitați această clădire istorică fascinantă pentru a afla mai multe despre arhitectura locală tradițională și acordați o atenție deosebită detaliilor complicate de pe fațadă.",
+            "en": "Visit this fascinating historic building to learn much more about traditional local architecture, making sure to pay close attention to the intricate details on the front facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Kitesurf-Startplatz",
+            "hu": "Kitesurf indítópálya",
+            "ro": "Pista de lansare pentru kitesurf",
+            "en": "Kite-surfing launch pad"
+          },
+          "coords": [
+            9.741579,
+            40.640271
+          ],
+          "category": "landmark",
+          "arrive_at": "14:03",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Beobachten Sie die talentierten Kite-Surfer an diesem windigen Küstenabschnitt oder probieren Sie es einfach selbst aus, wenn Sie besonders abenteuerlustig und sportlich sind.",
+            "hu": "Figyelje meg a tehetséges kiteszörfösöket ezen a szeles partszakaszon, vagy bátran próbálja ki maga is a sportot, ha igazán kalandvágyó hangulatban van és szereti a kihívásokat.",
+            "ro": "Priviți pasionații talentați de kitesurf pe această porțiune de coastă vântoasă sau încercați chiar dumneavoastră acest sport, dacă sunteți într-o dispoziție cu adevărat aventuroasă.",
+            "en": "Watch the talented kite surfers catch the breeze on this windy stretch of coast, or bravely give it a try yourself if you are feeling genuinely adventurous and want some action."
+          }
+        },
+        {
+          "name": {
+            "de": "Sutta 'e Riu",
+            "hu": "Sutta 'e Riu",
+            "ro": "Sutta 'e Riu",
+            "en": "Sutta 'e Riu"
+          },
+          "coords": [
+            9.741311,
+            40.638091
+          ],
+          "category": "landmark",
+          "arrive_at": "14:31",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie eine wohlverdiente Pause in dieser malerischen Gegend am Fluss, die ideal für Naturliebhaber ist; bringen Sie unbedingt etwas Wasser und Snacks für ein Picknick mit.",
+            "hu": "Tartson egy jól megérdemelt pihenőt ezen a festői folyóparti területen, amely ideális a természet szerelmeseinek; mindenképpen vigyen magával vizet és egy kis rágcsálnivalót.",
+            "ro": "Faceți o pauză bine meritată în această zonă pitorească de pe malul râului, ideală pentru iubitorii de natură; aduceți cu siguranță apă și câteva gustări pentru un mic picnic.",
+            "en": "Take a well-deserved break in this incredibly picturesque riverside area, which is ideal for nature lovers; be sure to bring plenty of water and some snacks for a small picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Posada Strand",
+            "hu": "Posada Beach",
+            "ro": "Plaja Posada",
+            "en": "Posada Beach"
+          },
+          "coords": [
+            9.743741,
+            40.633624
+          ],
+          "category": "landmark",
+          "arrive_at": "14:58",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem wunderschönen Sandstrand und nehmen Sie ein erfrischendes Bad im kristallklaren Wasser; vergessen Sie nicht, reichlich Sonnencreme mitzubringen.",
+            "hu": "Pihenjen ezen a gyönyörű, finom homokos strandon, és mártózzon meg a hűsítő, kristálytiszta vízben; semmiképpen ne felejtsen el magával hozni naptejet és egy nagy törölközőt.",
+            "ro": "Relaxați-vă pe această plajă minunată cu nisip fin și faceți o baie răcoritoare în apele cristaline; nu uitați să aduceți suficientă cremă de protecție solară și un prosop mare.",
+            "en": "Relax on this beautiful sandy beach and take a highly refreshing dip in the crystal-clear ocean waters; please do not forget to bring plenty of sunscreen and a large beach towel."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens fahren Sie ganz bequem zu den prähistorischen Überresten außerhalb der Stadt.\n\nMittags parken Sie im Zentrum und spazieren von der Aussichtsplattform zur alten Burg.\n\nNachmittags setzen Sie die kurze Fahrt zur Küste fort, um die Kite-Surfer zu beobachten.\n\nAbends genießen Sie einen letzten Spaziergang am Flussufer und entspannen am Sandstrand.",
+        "hu": "Reggel kényelmesen elautózik a városon kívül található történelem előtti lenyűgöző romokhoz.\n\nDélben a központban parkolva elsétál a csodás kilátótól a várig és a régi épületekig.\n\nDélután a part felé veszi az irányt, és kényelmesen figyeli a szörfösöket a strandon.\n\nEste egy utolsó nyugodt sétát tesz a folyóparton, majd a finom homokos tengerparton pihen.",
+        "ro": "Dimineața conduceți confortabil până la uimitoarele rămășițe preistorice din afara orașului.\n\nLa prânz parcați în centru și mergeți pe jos de la belvedere la castel și clădirile vechi.\n\nDupă-amiaza vă continuați drumul scurt spre coastă pentru a privi surferii pe valuri.\n\nSeara vă bucurați de o ultimă plimbare pe malul râului și vă relaxați pe plaja cu nisip.",
+        "en": "In the morning, drive comfortably to explore the prehistoric remains located outside town.\n\nAt midday, park in the historic center and walk from the viewpoint to the impressive castle.\n\nDuring the afternoon, securely drive to the coast to watch the kite surfers in real action.\n\nIn the evening, enjoy a final peaceful stroll by the river and relax on the sandy beach."
+      }
+    }
+  }
+}

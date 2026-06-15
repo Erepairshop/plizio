@@ -1,0 +1,497 @@
+{
+  "city_id": "thailand-ban-haad-rin-cities-v2",
+  "anchor": {
+    "name": "Ban Haad Rin",
+    "coords": [
+      100.06559,
+      9.67562
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:37",
+      "total_km": 1.82,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Haad Rin Nai",
+            "hu": "Haad Rin Nai",
+            "ro": "Haad Rin Nai",
+            "en": "Haad Rin Nai"
+          },
+          "coords": [
+            100.059207,
+            9.679388
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem ruhigeren Strand, genießen Sie das flache, ruhige Wasser und denken Sie an ausreichend Sonnencreme für die Mittagshitze.",
+            "hu": "Pihenjen ezen a csendesebb strandon, élvezve a nyugodt, sekély vizet, és ne felejtsen el bőségesen naptejet hozni a déli hőség ellen.",
+            "ro": "Relaxați-vă pe această plajă mai liniștită, apreciind apele calme și puțin adânci, și aduceți multă cremă de protecție solară pentru amiază.",
+            "en": "Relax on this quieter sunset beach, appreciating the calm shallow waters while bringing plenty of sunscreen for the midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "The Coast Resort",
+            "hu": "The Coast Resort",
+            "ro": "The Coast Resort",
+            "en": "The Coast Resort"
+          },
+          "coords": [
+            100.060503,
+            9.679737
+          ],
+          "category": "landmark",
+          "arrive_at": "10:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur dieser Strandpromenade und gönnen Sie sich eine kleine Erfrischung in der stilvollen Bar.",
+            "hu": "Csodálja meg ennek a tengerparti szállodának a modern építészetét, és fogyasszon el egy frissítőt a stílusos bárban, ha nyitva áll a látogatók előtt.",
+            "ro": "Admirați arhitectura modernă a acestei proprietăți de la malul mării, poate savurând o băutură răcoritoare la barul lor elegant.",
+            "en": "Admire the modern architecture of this beachfront property, perhaps grabbing a quick refreshment at their stylish bar if they allow walk-ins."
+          }
+        },
+        {
+          "name": {
+            "de": "Pooltrap Village",
+            "hu": "Pooltrap Village",
+            "ro": "Pooltrap Village",
+            "en": "Pooltrap Village"
+          },
+          "coords": [
+            100.062877,
+            9.679056
+          ],
+          "category": "landmark",
+          "arrive_at": "11:11",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese kleine Siedlung, um das authentische Inselleben zu spüren, und tragen Sie bequeme Schuhe für die unebenen Wege.",
+            "hu": "Sétáljon végig ezen a kis helyi településen, hogy megtapasztalja az autentikus szigeti életet, de viseljen kényelmes cipőt az egyenetlen utakon.",
+            "ro": "Plimbați-vă prin această mică așezare locală pentru a simți viața autentică a insulei, purtând încălțăminte confortabilă pentru potecile inegale.",
+            "en": "Wander through this small local settlement to get a feel for authentic island life, wearing comfortable walking shoes for the uneven paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Haad Rin Viewpoint",
+            "hu": "Haad Rin Viewpoint",
+            "ro": "Haad Rin Viewpoint",
+            "en": "Haad Rin Viewpoint"
+          },
+          "coords": [
+            100.065993,
+            9.680694
+          ],
+          "category": "natural",
+          "arrive_at": "11:57",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.39,
+          "tip_5lang": {
+            "de": "Wandern Sie den steilen, aber kurzen Weg hinauf für ein unschlagbares Strandpanorama und bringen Sie unbedingt ausreichend Trinkwasser mit.",
+            "hu": "Mássza meg a meredek, de rövid ösvényt a verhetetlen kettős strand panorámájáért, és mindenképpen vigyen magával elegendő ivóvizet.",
+            "ro": "Urcați pe traseul abrupt, dar scurt, pentru o panoramă inegalabilă asupra celor două plaje, asigurându-vă că aduceți suficientă apă.",
+            "en": "Hike up the steep but short trail for an unbeatable dual-beach panorama, making sure to bring plenty of drinking water."
+          }
+        },
+        {
+          "name": {
+            "de": "House of Sanskara",
+            "hu": "House of Sanskara",
+            "ro": "House of Sanskara",
+            "en": "House of Sanskara"
+          },
+          "coords": [
+            100.068355,
+            9.679112
+          ],
+          "category": "recreational",
+          "arrive_at": "12:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Genießen Sie die entspannte Holzarchitektur dieses Ortes, der sich ideal für einen ruhigen Nachmittagstee am Meer eignet.",
+            "hu": "Szánjon egy pillanatot a hely laza famunkáinak megcsodálására, amely ideális egy csendes délutáni teázáshoz az óceán partján.",
+            "ro": "Luați-vă un moment pentru a aprecia estetica relaxantă din lemn a acestui loc, ideal pentru un ceai liniștit de după-amiază pe malul oceanului.",
+            "en": "Take a moment to appreciate the laid-back wooden aesthetics of this spot, ideal for a quiet afternoon tea by the ocean."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Hat Rin",
+            "hu": "Ao Hat Rin",
+            "ro": "Ao Hat Rin",
+            "en": "Ao Hat Rin"
+          },
+          "coords": [
+            100.073937,
+            9.676291
+          ],
+          "category": "landmark",
+          "arrive_at": "13:52",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.69,
+          "tip_5lang": {
+            "de": "Erleben Sie den berühmten halbmondförmigen Strand, der für seine Vollmondpartys bekannt ist, und kommen Sie vor Sonnenuntergang, um einen guten Platz zu finden.",
+            "hu": "Tapasztalja meg a teliholdas bulijairól világszerte ismert, félhold alakú strandot, és érkezzen naplemente előtt, hogy jó helyet találjon a finom homokban.",
+            "ro": "Experimentați faimoasa plajă în formă de semilună, cunoscută la nivel mondial pentru petrecerile cu lună plină, ajungând înainte de apus pentru un loc bun.",
+            "en": "Experience the famous crescent beach known globally for its full moon parties, arriving before sunset to secure a good spot on the fine white sand."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am ruhigen Haad Rin Nai und genießen Sie das stille Wasser, bevor die Menge eintrifft. Mittags schlendern Sie am The Coast Resort vorbei zum gemütlichen Pooltrap Village. Am Nachmittag erklimmen Sie den Haad Rin Viewpoint für atemberaubende Panoramablicke auf die Halbinsel. Beenden Sie den Tag am lebhaften Ao Hat Rin, wo Sie die pulsierende Strandatmosphäre genießen können.",
+        "hu": "Kezdje a reggelt a nyugodt Haad Rin Nai partján, élvezve a csendes vizet a tömeg érkezése előtt. Délben sétáljon el a The Coast Resort mellett, és fedezze fel a Pooltrap Village hangulatos utcáit. Délután másszon fel a Haad Rin Viewpoint kilátóhoz a lenyűgöző panorámáért. Zárja a napot a nyüzsgő Ao Hat Rin strandon, elmerülve a pezsgő hangulatban és a gyönyörű naplementében.",
+        "ro": "Începeți dimineața pe plaja liniștită Haad Rin Nai, bucurându-vă de apele calme înainte de sosirea aglomerației. La prânz, plimbați-vă pe lângă The Coast Resort și explorați străzile pitorești din Pooltrap Village. După-amiaza, urcați la Haad Rin Viewpoint pentru o panoramă uimitoare a peninsulei. Încheiați ziua pe plaja vibrantă Ao Hat Rin, admirând apusul spectaculos.",
+        "en": "Start your morning at the tranquil Haad Rin Nai, enjoying the calm waters before the crowds arrive. By midday, stroll past The Coast Resort and explore the quaint streets around Pooltrap Village. In the afternoon, ascend to the Haad Rin Viewpoint for stunning panoramic vistas of the peninsula. Conclude your day at the lively Ao Hat Rin, soaking in the vibrant beach atmosphere and vibrant sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:31",
+      "total_km": 2.91,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Water World",
+            "hu": "Water World",
+            "ro": "Water World",
+            "en": "Water World"
+          },
+          "coords": [
+            100.057757,
+            9.681279
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit unbeschwertem Spaß in dieser lokalen Wasserattraktion, wobei Sie die saisonal bedingten Öffnungszeiten vorher prüfen sollten.",
+            "hu": "Kezdje a napot egy kis könnyed szórakozással ennél a helyi vízi látványosságnál, de előtte ellenőrizze a szezonálisan változó nyitvatartást.",
+            "ro": "Începeți-vă ziua cu distracție la această atracție acvatică locală, verificând în prealabil programul care poate varia în funcție de sezon.",
+            "en": "Start your day with some lighthearted fun at this local water attraction, checking opening hours beforehand as they can vary by season."
+          }
+        },
+        {
+          "name": {
+            "de": "Khmer Style Building",
+            "hu": "Khmer Style Building",
+            "ro": "Khmer Style Building",
+            "en": "Khmer Style Building"
+          },
+          "coords": [
+            100.05533,
+            9.683074
+          ],
+          "category": "landmark",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Fotografieren Sie die feinen, ungewöhnlichen architektonischen Details dieses einzigartigen Gebäudes und halten Sie dabei höflich Abstand zum Privatgrundstück.",
+            "hu": "Fotózza le ennek az egyedi épületnek a bonyolult, szokatlan építészeti részleteit, udvarias távolságot tartva a magánterület tiszteletben tartása érdekében.",
+            "ro": "Fotografiați detaliile arhitecturale complexe și neobișnuite ale acestei structuri unice, păstrând o distanță politicoasă pentru a respecta proprietatea privată.",
+            "en": "Photograph the intricate, out-of-place architectural details of this unique structure, standing at a polite distance to respect the private property."
+          }
+        },
+        {
+          "name": {
+            "de": "Haad Rin Nai",
+            "hu": "Haad Rin Nai",
+            "ro": "Haad Rin Nai",
+            "en": "Haad Rin Nai"
+          },
+          "coords": [
+            100.059207,
+            9.679388
+          ],
+          "category": "recreational",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.59,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem ruhigeren Strand, genießen Sie das flache, ruhige Wasser und denken Sie an ausreichend Sonnencreme für die Mittagshitze.",
+            "hu": "Pihenjen ezen a csendesebb strandon, élvezve a nyugodt, sekély vizet, és ne felejtsen el bőségesen naptejet hozni a déli hőség ellen.",
+            "ro": "Relaxați-vă pe această plajă mai liniștită, apreciind apele calme și puțin adânci, și aduceți multă cremă de protecție solară pentru amiază.",
+            "en": "Relax on this quieter sunset beach, appreciating the calm shallow waters while bringing plenty of sunscreen for the midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Sunset Bay Resort",
+            "hu": "Sunset Bay Resort",
+            "ro": "Sunset Bay Resort",
+            "en": "Sunset Bay Resort"
+          },
+          "coords": [
+            100.062677,
+            9.677174
+          ],
+          "category": "landmark",
+          "arrive_at": "12:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Entspannen Sie auf der Terrasse dieses Resorts und genießen Sie die Meeresbrise, vielleicht bei einer frischen Kokosnuss mit Blick aufs Meer.",
+            "hu": "Pihenjen a kemping teraszán, hogy élvezze a tengerparti szellőt, és rendeljen egy friss kókuszt, miközben a tengeri kilátásban gyönyörködik.",
+            "ro": "Relaxați-vă pe terasa acestui complex pentru a vă bucura de briza mării, poate comandând o nucă de cocos proaspătă în timp ce admirați priveliștea.",
+            "en": "Relax on the terrace of this resort to enjoy the coastal breeze, perhaps ordering a fresh coconut while admiring the sea view."
+          }
+        },
+        {
+          "name": {
+            "de": "Haad Rin Viewpoint",
+            "hu": "Haad Rin Viewpoint",
+            "ro": "Haad Rin Viewpoint",
+            "en": "Haad Rin Viewpoint"
+          },
+          "coords": [
+            100.065993,
+            9.680694
+          ],
+          "category": "natural",
+          "arrive_at": "13:16",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.53,
+          "tip_5lang": {
+            "de": "Wandern Sie den steilen, aber kurzen Weg hinauf für ein unschlagbares Strandpanorama und bringen Sie unbedingt ausreichend Trinkwasser mit.",
+            "hu": "Mássza meg a meredek, de rövid ösvényt a verhetetlen kettős strand panorámájáért, és mindenképpen vigyen magával elegendő ivóvizet.",
+            "ro": "Urcați pe traseul abrupt, dar scurt, pentru o panoramă inegalabilă asupra celor două plaje, asigurându-vă că aduceți suficientă apă.",
+            "en": "Hike up the steep but short trail for an unbeatable dual-beach panorama, making sure to bring plenty of drinking water."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Hat Rin",
+            "hu": "Ao Hat Rin",
+            "ro": "Ao Hat Rin",
+            "en": "Ao Hat Rin"
+          },
+          "coords": [
+            100.073937,
+            9.676291
+          ],
+          "category": "landmark",
+          "arrive_at": "13:46",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erleben Sie den berühmten halbmondförmigen Strand, der für seine Vollmondpartys bekannt ist, und kommen Sie vor Sonnenuntergang, um einen guten Platz zu finden.",
+            "hu": "Tapasztalja meg a teliholdas bulijairól világszerte ismert, félhold alakú strandot, és érkezzen naplemente előtt, hogy jó helyet találjon a finom homokban.",
+            "ro": "Experimentați faimoasa plajă în formă de semilună, cunoscută la nivel mondial pentru petrecerile cu lună plină, ajungând înainte de apus pentru un loc bun.",
+            "en": "Experience the famous crescent beach known globally for its full moon parties, arriving before sunset to secure a good spot on the fine white sand."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens zum verspielten Water World, um den Tag entspannt und unterhaltsam zu beginnen. Mittags bewundern Sie die architektonischen Details des Khmer Style Building, bevor Sie sich am Haad Rin Nai entspannen. Am Nachmittag fahren Sie zum luftigen Sunset Bay Resort und hinauf zum beeindruckenden Haad Rin Viewpoint. Der Abend klingt an den legendären Stränden von Ao Hat Rin gemütlich aus.",
+        "hu": "Tekerjen ki a központból a vidám Water World felé a reggeli órákban, hogy jókedvűen induljon a nap. Délben kulturális élmény várja a Khmer Style Building lenyűgöző részleteivel, majd pihenjen meg a Haad Rin Nai partján. A délutáni kerékpározás a szellős Sunset Bay Resortba és a káprázatos Haad Rin Viewpoint kilátóhoz vezet. Az estéje az ikonikus Ao Hat Rin homokos partjain ér véget.",
+        "ro": "Pedalați dimineața spre captivantul Water World pentru a începe ziua cu energie pozitivă și distracție. La prânz, admirați detaliile arhitecturale ale clădirii în stil khmer, apoi relaxați-vă pe nisipul fin de la Haad Rin Nai. Ciclismul de după-amiază vă duce la Sunset Bay Resort și la impresionantul punct de belvedere Haad Rin Viewpoint. Seara se încheie pe faimoasa plajă Ao Hat Rin.",
+        "en": "Pedal away from the center to visit the playful Water World in the morning, setting a fun tone for the day. Midday brings a cultural shift as you admire the intricate details of the Khmer Style Building before heading to Haad Rin Nai to relax. Afternoon cycling takes you to the breezy Sunset Bay Resort and up to the stunning Haad Rin Viewpoint. Your evening winds down on the iconic sands of Ao Hat Rin."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:18",
+      "total_km": 5.93,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Haad Wai Nam",
+            "hu": "Haad Wai Nam",
+            "ro": "Haad Wai Nam",
+            "en": "Haad Wai Nam"
+          },
+          "coords": [
+            100.078711,
+            9.698865
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Schwimmen Sie im klaren Wasser dieser abgelegenen Felsbucht und bringen Sie Ihre eigene Schnorchelausrüstung mit, da es hier keinen Verleih gibt.",
+            "hu": "Ússzon ennek az eldugott, sziklás öbölnek a tiszta vizében, és hozzon magával saját sznorkelfelszerelést, mivel a közelben nincs kölcsönző.",
+            "ro": "Înotați în apele limpezi ale acestui golf izolat, aducându-vă propriul echipament de snorkeling, deoarece nu există magazine de închiriat în apropiere.",
+            "en": "Swim in the clear waters of this secluded, rocky bay, bringing your own snorkeling gear as there are no rental shops nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Haad Thian",
+            "hu": "Haad Thian",
+            "ro": "Haad Thian",
+            "en": "Haad Thian"
+          },
+          "coords": [
+            100.077233,
+            9.695948
+          ],
+          "category": "recreational",
+          "arrive_at": "10:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Genießen Sie die entspannte, unkonventionelle Atmosphäre dieses atemberaubenden Strandes und denken Sie an Insektenschutz für die schattigen Bereiche.",
+            "hu": "Élvezze ennek a lenyűgöző strandnak a laza, bohém hangulatát, és ne felejtsen el rovarriasztót csomagolni az árnyékosabb részek miatt.",
+            "ro": "Bucurați-vă de atmosfera boemă și relaxată a acestei plaje uimitoare, nu uitați să luați repelent împotriva insectelor pentru zonele umbrite.",
+            "en": "Enjoy the relaxed, bohemian vibe of this stunning beach, known for the Sanctuary retreat, and remember to pack insect repellent for the shaded areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Haad Yuan",
+            "hu": "Haad Yuan",
+            "ro": "Haad Yuan",
+            "en": "Haad Yuan"
+          },
+          "coords": [
+            100.074074,
+            9.691914
+          ],
+          "category": "recreational",
+          "arrive_at": "11:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.57,
+          "tip_5lang": {
+            "de": "Graben Sie Ihre Zehen in den puderweißen Sand dieser schönen Bucht, deren sanfte Wellen sich perfekt für ein langes Mittagsschwimmen eignen.",
+            "hu": "Süllyessze lábujjait e gyönyörű öböl púderfehér homokjába, ahol a hullámok szelídebbek, ami tökéletes egy hosszú déli úszáshoz.",
+            "ro": "Scufundați-vă degetele în nisipul alb și fin al acestui golf superb, unde valurile blânde fac locul perfect pentru o înotare prelungită la prânz.",
+            "en": "Sink your toes into the powdery white sand of this beautiful bay, where the waves are gentler, making it perfect for a long midday swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Hat Yuan",
+            "hu": "Ao Hat Yuan",
+            "ro": "Ao Hat Yuan",
+            "en": "Ao Hat Yuan"
+          },
+          "coords": [
+            100.076365,
+            9.691004
+          ],
+          "category": "landmark",
+          "arrive_at": "12:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Erkunden Sie die felsigen Ränder der Bucht, um die Meereswelt zu entdecken, und tragen Sie Badeschuhe zum Schutz vor scharfen Korallen.",
+            "hu": "Fedezze fel az öböl sziklás széleit a lenyűgöző tengeri élőlényekért, és viseljen strapabíró vízi cipőt az éles korallok elleni védelem érdekében.",
+            "ro": "Explorați marginile stâncoase ale golfului pentru o viață marină fascinantă, purtând încălțăminte de apă rezistentă pentru a vă proteja de corali.",
+            "en": "Explore the rocky edges of the cove for fascinating marine life, wearing sturdy water shoes to protect your feet from the sharp corals."
+          }
+        },
+        {
+          "name": {
+            "de": "Haad Yuan viewpoint",
+            "hu": "Haad Yuan viewpoint",
+            "ro": "Haad Yuan viewpoint",
+            "en": "Haad Yuan viewpoint"
+          },
+          "coords": [
+            100.067852,
+            9.689622
+          ],
+          "category": "natural",
+          "arrive_at": "13:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.96,
+          "tip_5lang": {
+            "de": "Genießen Sie die spektakuläre Aussicht auf die Ostküste von diesem rauen Aussichtspunkt und achten Sie auf dem unebenen Gelände auf einen sicheren Tritt.",
+            "hu": "Élvezze a keleti partvidékre nyíló látványos, magaslati kilátást erről a zord helyről, miközben biztos lábbal halad az egyenetlen terepen.",
+            "ro": "Admirați priveliștile spectaculoase ale coastei de est de la acest punct de belvedere, menținându-vă un pas sigur pe terenul accidentat.",
+            "en": "Take in the spectacular elevated views of the eastern coastline from this rugged spot, keeping a steady footing on the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Khmer Style Building",
+            "hu": "Khmer Style Building",
+            "ro": "Khmer Style Building",
+            "en": "Khmer Style Building"
+          },
+          "coords": [
+            100.05533,
+            9.683074
+          ],
+          "category": "landmark",
+          "arrive_at": "14:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.57,
+          "tip_5lang": {
+            "de": "Fotografieren Sie die feinen, ungewöhnlichen architektonischen Details dieses einzigartigen Gebäudes und halten Sie dabei höflich Abstand zum Privatgrundstück.",
+            "hu": "Fotózza le ennek az egyedi épületnek a bonyolult, szokatlan építészeti részleteit, udvarias távolságot tartva a magánterület tiszteletben tartása érdekében.",
+            "ro": "Fotografiați detaliile arhitecturale complexe și neobișnuite ale acestei structuri unice, păstrând o distanță politicoasă pentru a respecta proprietatea privată.",
+            "en": "Photograph the intricate, out-of-place architectural details of this unique structure, standing at a polite distance to respect the private property."
+          }
+        },
+        {
+          "name": {
+            "de": "Ao Hat Rin",
+            "hu": "Ao Hat Rin",
+            "ro": "Ao Hat Rin",
+            "en": "Ao Hat Rin"
+          },
+          "coords": [
+            100.073937,
+            9.676291
+          ],
+          "category": "landmark",
+          "arrive_at": "15:33",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Erleben Sie den berühmten halbmondförmigen Strand, der für seine Vollmondpartys bekannt ist, und kommen Sie vor Sonnenuntergang, um einen guten Platz zu finden.",
+            "hu": "Tapasztalja meg a teliholdas bulijairól világszerte ismert, félhold alakú strandot, és érkezzen naplemente előtt, hogy jó helyet találjon a finom homokban.",
+            "ro": "Experimentați faimoasa plajă în formă de semilună, cunoscută la nivel mondial pentru petrecerile cu lună plină, ajungând înainte de apus pentru un loc bun.",
+            "en": "Experience the famous crescent beach known globally for its full moon parties, arriving before sunset to secure a good spot on the fine white sand."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zu den abgelegenen Nordstränden und beginnen Sie am Haad Wai Nam, einer friedlichen Bucht für das morgendliche Schwimmen. Mittags geht es weiter zu den unberührten Sandstränden von Haad Thian und dem weitläufigen Haad Yuan. Am Nachmittag genießen Sie die Aussicht vom Haad Yuan Viewpoint und bewundern dann das Khmer Style Building. Das große Finale bildet der legendäre Strand Ao Hat Rin.",
+        "hu": "Autózzon az eldugott északi strandokhoz, kezdve a Haad Wai Nam csendes öblével, amely tökéletes egy kora reggeli úszáshoz. Délben látogasson el az érintetlen Haad Thian és a tágasabb Haad Yuan homokos partjaira. Délután élvezze a lélegzetelállító kilátást a Haad Yuan viewpoint magaslatáról, majd csodálja meg a Khmer Style Building épületét. A nagy finálé a legendás Ao Hat Rin strand lesz.",
+        "ro": "Conduceți spre plajele izolate din nord, începând cu Haad Wai Nam, un golf liniștit ideal pentru înotul matinal. La prânz, explorați nisipurile imaculate de la Haad Thian și întinderea mai largă de la Haad Yuan. După-amiaza, admirați peisajul spectaculos de la punctul de belvedere Haad Yuan, apoi vizitați clădirea în stil khmer. Finalul grandios are loc pe legendara plajă Ao Hat Rin.",
+        "en": "Drive to the secluded northern beaches starting with Haad Wai Nam, a peaceful cove perfect for early morning swimming. Midday revolves around beach hopping to the pristine sands of Haad Thian and the wider stretch of Haad Yuan. In the afternoon, catch the breathtaking scenery from the Haad Yuan viewpoint before marveling at the Khmer Style Building. Your grand finale is the legendary Ao Hat Rin beach."
+      }
+    }
+  }
+}

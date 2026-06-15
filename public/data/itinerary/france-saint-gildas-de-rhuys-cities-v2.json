@@ -1,0 +1,474 @@
+{
+  "city_id": "france-saint-gildas-de-rhuys-cities-v2",
+  "anchor": {
+    "name": "Saint-Gildas-de-Rhuys",
+    "coords": [
+      -2.84032,
+      47.50042
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:16",
+      "total_km": 1.73,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Abbaye Saint-Gildas-de-Rhuys",
+            "hu": "Abbaye Saint-Gildas-de-Rhuys",
+            "ro": "Abbaye Saint-Gildas-de-Rhuys",
+            "en": "Abbaye Saint-Gildas-de-Rhuys"
+          },
+          "coords": [
+            -2.839685,
+            47.499897
+          ],
+          "category": "religious",
+          "arrive_at": "09:02",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses alte Kloster aus dem 6. Jahrhundert, um die romanische Architektur zu bewundern, und besuchen Sie es früh für eine ruhige Atmosphäre.",
+            "hu": "Fedezze fel ezt a 6. században alapított ősi kolostort a román kori építészetért, és érkezzen kora reggel a csendes, elmélyült atmoszféra megéléséhez.",
+            "ro": "Explorați această mănăstire veche din secolul al VI-lea pentru a admira arhitectura romanică și vizitați-o dimineața devreme pentru o atmosferă liniștită.",
+            "en": "Explore this ancient monastery founded in the 6th century to appreciate its Romanesque architecture, and visit early in the day for a quiet, reflective atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Galerie 34",
+            "hu": "Galerie 34",
+            "ro": "Galerie 34",
+            "en": "Galerie 34"
+          },
+          "coords": [
+            -2.838409,
+            47.500347
+          ],
+          "category": "museum",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie lokale zeitgenössische Kunst in dieser intimen Galerie, wo Sie sich die Zeit nehmen sollten, mit den Kuratoren über bretonische Künstler zu plaudern.",
+            "hu": "Csodálja meg a helyi kortárs művészeti kiállításokat ebben a galériában, ahol mindenképpen érdemes elbeszélgetni a kurátorokkal a bemutatott breton művészekről.",
+            "ro": "Admirați arta contemporană locală în această galerie intimă, unde ar trebui să vă luați timp pentru a discuta cu curatorii despre artiștii bretoni expuși.",
+            "en": "Admire local contemporary art and regional exhibitions in this intimate gallery space, where you should take time to chat with the curators about the featured Breton artists."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen du Port-aux-Moines",
+            "hu": "Dolmen du Port-aux-Moines",
+            "ro": "Dolmen du Port-aux-Moines",
+            "en": "Dolmen du Port-aux-Moines"
+          },
+          "coords": [
+            -2.834308,
+            47.492329
+          ],
+          "category": "historical",
+          "arrive_at": "11:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.93,
+          "tip_5lang": {
+            "de": "Tauchen Sie an diesem faszinierenden Megalithgrab in die Jungsteinzeit ein und tragen Sie festes Schuhwerk, da die umliegenden Küstenwege recht uneben sein können.",
+            "hu": "Lépjen vissza az újkőkorszakba ennél a lenyűgöző megalitikus sírnál, és viseljen túracipőt, mivel a környező tengerparti ösvények meglehetősen sziklásak és egyenetlenek.",
+            "ro": "Întoarceți-vă în era neolitică la acest fascinant mormânt megalitic și purtați încălțăminte solidă, deoarece potecile din jur de pe coastă pot fi destul de stâncoase.",
+            "en": "Step back into the Neolithic era at this fascinating megalithic tomb structure, and wear sturdy shoes as the surrounding paths along the coastline can be quite uneven and rocky."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Port Maria",
+            "hu": "Plage de Port Maria",
+            "ro": "Plage de Port Maria",
+            "en": "Plage de Port Maria"
+          },
+          "coords": [
+            -2.834958,
+            47.493558
+          ],
+          "category": "recreational",
+          "arrive_at": "13:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am goldenen Sand dieses charmanten Küstenortes, der sich perfekt zum Schwimmen eignet, und packen Sie eine Windjacke gegen die Meeresbrise ein.",
+            "hu": "Pihenjen ennek a bájos tengerparti szakasznak az aranyhomokján, amely tökéletes fürdőzéshez, de ne felejtsen el széldzsekit csomagolni a hűvös tengeri szellők ellen.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestui loc fermecător, perfect pentru înot, și nu uitați să luați o jachetă de vânt pentru a fi confortabil în timpul brizei marine.",
+            "en": "Relax on the golden sands of this charming coastal spot which is perfect for swimming, and don't forget to pack a windbreaker to stay comfortable during the sea breezes."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Kerfago",
+            "hu": "Plage de Kerfago",
+            "ro": "Plage de Kerfago",
+            "en": "Plage de Kerfago"
+          },
+          "coords": [
+            -2.830128,
+            47.492196
+          ],
+          "category": "recreational",
+          "arrive_at": "14:31",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Nachmittagsspaziergang an diesem malerischen, weniger besuchten Strandabschnitt, und prüfen Sie vorher unbedingt die Gezeitenzeiten.",
+            "hu": "Élvezze a békés délutáni sétát ezen a festői és kevésbé zsúfolt partszakaszon, és a tengerparti program megtervezése előtt feltétlenül ellenőrizze az árapály-táblázatot.",
+            "ro": "Bucurați-vă de o plimbare liniștită de după-amiază de-a lungul acestei plaje pitorești și mai puțin aglomerate, verificând neapărat orarul mareelor în prealabil.",
+            "en": "Enjoy a peaceful afternoon stroll along this picturesque and less-crowded stretch of the beach, making sure to check the tide times before planning your seaside walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen im Herzen des Dorfes und entdecken Sie den Charme der mittelalterlichen Abtei. Mittags lockt die lokale Kunstszene, bevor es in Richtung Küste geht. Der Nachmittag ist der Entdeckung antiker megalithischer Ruinen und der erfrischenden Meeresbrise gewidmet. Beenden Sie Ihren Tag mit einem ruhigen Spaziergang an den südlichen Sandstränden.",
+        "hu": "Kezdje a reggelt a falu szívében, felfedezve a középkori apátság történelmi varázsát. Délben ismerkedjen meg a helyi művészeti élettel, majd vegye az irányt a partvidék felé. A délutánt az ősi megalitikus romok felfedezésének és a frissítő tengeri szellő élvezetének szenteljük. Zárja a napot egy békés sétával a déli homokos strandok mentén.",
+        "ro": "Începeți dimineața în inima satului, descoperind farmecul istoric al abației medievale. La prânz, explorați scena de artă locală înainte de a vă îndrepta spre coastă. După-amiaza este dedicată descoperirii ruinelor megalitice antice și bucuriei brizei răcoroase a mării. Încheiați ziua cu o plimbare senină pe plajele nisipoase din sud.",
+        "en": "Begin your morning in the heart of the village, uncovering the historic charm of the medieval abbey. Midday invites you to explore the local art scene before shifting your focus toward the coastline. The afternoon is dedicated to discovering ancient megalithic ruins and enjoying the refreshing sea breeze along the shores. Conclude your day with a serene walk on the sandy southern beaches."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:46",
+      "total_km": 7.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Abbaye Saint-Gildas-de-Rhuys",
+            "hu": "Abbaye Saint-Gildas-de-Rhuys",
+            "ro": "Abbaye Saint-Gildas-de-Rhuys",
+            "en": "Abbaye Saint-Gildas-de-Rhuys"
+          },
+          "coords": [
+            -2.839685,
+            47.499897
+          ],
+          "category": "religious",
+          "arrive_at": "09:01",
+          "stay_min": 50,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses alte Kloster aus dem 6. Jahrhundert, um die romanische Architektur zu bewundern, und besuchen Sie es früh für eine ruhige Atmosphäre.",
+            "hu": "Fedezze fel ezt a 6. században alapított ősi kolostort a román kori építészetért, és érkezzen kora reggel a csendes, elmélyült atmoszféra megéléséhez.",
+            "ro": "Explorați această mănăstire veche din secolul al VI-lea pentru a admira arhitectura romanică și vizitați-o dimineața devreme pentru o atmosferă liniștită.",
+            "en": "Explore this ancient monastery founded in the 6th century to appreciate its Romanesque architecture, and visit early in the day for a quiet, reflective atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Goh Velin",
+            "hu": "Plage du Goh Velin",
+            "ro": "Plage du Goh Velin",
+            "en": "Plage du Goh Velin"
+          },
+          "coords": [
+            -2.852293,
+            47.516195
+          ],
+          "category": "recreational",
+          "arrive_at": "10:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Atmen Sie die frische Meeresluft an diesem weitläufigen Sandstrand ein und versuchen Sie, früher am Morgen anzukommen, um sich einen guten Platz zu sichern.",
+            "hu": "Szívja magába a friss óceáni levegőt ezen a tágas és gyönyörű homokos strandon, és érkezzen korán, hogy biztosítsa a legjobb helyet még a helyi tömeg megérkezése előtt.",
+            "ro": "Respirați aerul proaspăt al oceanului pe această plajă imensă de nisip și încercați să ajungeți mai devreme pentru a prinde un loc bun înainte de aglomerație.",
+            "en": "Breathe in the fresh ocean air at this expansive and beautiful sandy beach, and try arriving earlier in the morning to secure a prime spot before the local crowds gather."
+          }
+        },
+        {
+          "name": {
+            "de": "Galerie 34",
+            "hu": "Galerie 34",
+            "ro": "Galerie 34",
+            "en": "Galerie 34"
+          },
+          "coords": [
+            -2.838409,
+            47.500347
+          ],
+          "category": "museum",
+          "arrive_at": "11:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie lokale zeitgenössische Kunst in dieser intimen Galerie, wo Sie sich die Zeit nehmen sollten, mit den Kuratoren über bretonische Künstler zu plaudern.",
+            "hu": "Csodálja meg a helyi kortárs művészeti kiállításokat ebben a galériában, ahol mindenképpen érdemes elbeszélgetni a kurátorokkal a bemutatott breton művészekről.",
+            "ro": "Admirați arta contemporană locală în această galerie intimă, unde ar trebui să vă luați timp pentru a discuta cu curatorii despre artiștii bretoni expuși.",
+            "en": "Admire local contemporary art and regional exhibitions in this intimate gallery space, where you should take time to chat with the curators about the featured Breton artists."
+          }
+        },
+        {
+          "name": {
+            "de": "La croix de justice",
+            "hu": "La croix de justice",
+            "ro": "La croix de justice",
+            "en": "La croix de justice"
+          },
+          "coords": [
+            -2.823153,
+            47.502004
+          ],
+          "category": "historical",
+          "arrive_at": "13:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses historische Kreuz, das als stiller Zeuge der lokalen Geschichte steht, und nutzen Sie es als perfekten Orientierungspunkt am östlichen Rand.",
+            "hu": "Látogasson el ehhez a történelmi kereszt emlékműhöz, amely a helyi történelem csendes tanúja, és használja kiváló tájékozódási pontként a keleti peremvidék felfedezésekor.",
+            "ro": "Vizitați această cruce istorică ce stă ca un martor tăcut al istoriei locale și folosiți locul ca un punct perfect de orientare în timp ce explorați periferia estică.",
+            "en": "Visit this historic cross monument that stands as a silent witness to local history, and use the site as a perfect navigation waypoint while exploring the eastern outskirts."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Poulgor",
+            "hu": "Plage du Poulgor",
+            "ro": "Plage du Poulgor",
+            "en": "Plage du Poulgor"
+          },
+          "coords": [
+            -2.827352,
+            47.491243
+          ],
+          "category": "recreational",
+          "arrive_at": "14:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses versteckte Küstenjuwel, das fantastische Ausblicke auf die Meereswellen bietet, und bringen Sie Ihre Kamera für die atemberaubenden Felsformationen mit.",
+            "hu": "Fedezze fel ezt a rejtett tengerparti gyöngyszemet, amely fantasztikus kilátást nyújt a hullámokra, és hozzon magával fényképezőgépet a lenyűgöző sziklaalakzatok megörökítéséhez.",
+            "ro": "Descoperiți această bijuterie de coastă ascunsă care oferă vederi fantastice la ocean și aduceți camera foto pentru a surprinde formațiunile stâncoase uimitoare.",
+            "en": "Discover this hidden coastal gem that offers fantastic views of the ocean waves, and bring your camera to capture the stunning rock formations that dot the shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Kercambre",
+            "hu": "Plage de Kercambre",
+            "ro": "Plage de Kercambre",
+            "en": "Plage de Kercambre"
+          },
+          "coords": [
+            -2.821329,
+            47.489373
+          ],
+          "category": "recreational",
+          "arrive_at": "16:01",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an diesem ruhigen Strand ausklingen, der für seine Dämmerungsfarben bekannt ist, und packen Sie ein Picknick ein, um die friedliche Atmosphäre zu genießen.",
+            "hu": "Zárja a napot ezen a nyugodt strandon, amely gyönyű alkonyati színeiről híres, és csomagoljon egy könnyű pikniket, hogy élvezhesse a békés hangulatot naplemente közben.",
+            "ro": "Încheiați ziua pe această plajă senină, cunoscută pentru culorile frumoase ale amurgului, și aduceți un picnic ușor pentru a savura ambianța liniștită la apus.",
+            "en": "Wind down your day at this serene beach known for its beautiful twilight colors, and pack a light picnic to savor the peaceful ambiance as the sun dips below the horizon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihr Radabenteuer im Dorfzentrum, bevor Sie zu den weitläufigen nordwestlichen Stränden fahren. Mittags kehren Sie zurück, um regionale Kunst zu genießen. Am Nachmittag radeln Sie zu den östlichen Denkmälern und tauchen in das kulturelle Erbe ein. Der Abend belohnt Ihre Anstrengungen mit spektakulären Ausblicken auf das Meer an der südöstlichen Küste.",
+        "hu": "Indítsa kerékpáros kalandját a faluközpontban, mielőtt az északnyugati strandok felé venné az irányt. A délidő visszavezeti a nyüzsgő központba, hogy megcsodálja a helyi művészetet. Késő délután tekerjen a keleti műemlékek felé, és merüljön el a kulturális örökségben. Az este látványos óceáni panorámával jutalmazza a délkeleti partvidéken.",
+        "ro": "Începeți aventura cu bicicleta în centrul satului, înainte de a pedala spre plajele din nord-vest. La prânz, reveniți în centru pentru a aprecia arta regională. Pe măsură ce după-amiaza avansează, pedalați spre monumentele estice și absorbiți moștenirea culturală. Seara vă răsplătește eforturile cu vederi spectaculoase ale oceanului pe coasta de sud-est.",
+        "en": "Kick off your cycling adventure at the village center before speeding up to the expansive northwestern beaches. Midday brings you back to the vibrant core to appreciate regional art and history. As the afternoon unfolds, pedal towards the eastern monuments and soak in the cultural heritage. The evening rewards your efforts with spectacular ocean views along the quiet southeastern shoreline."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 8.05,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plage du Goh Velin",
+            "hu": "Plage du Goh Velin",
+            "ro": "Plage du Goh Velin",
+            "en": "Plage du Goh Velin"
+          },
+          "coords": [
+            -2.852293,
+            47.516195
+          ],
+          "category": "recreational",
+          "arrive_at": "09:04",
+          "stay_min": 85,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Atmen Sie die frische Meeresluft an diesem weitläufigen Sandstrand ein und versuchen Sie, früher am Morgen anzukommen, um sich einen guten Platz zu sichern.",
+            "hu": "Szívja magába a friss óceáni levegőt ezen a tágas és gyönyörű homokos strandon, és érkezzen korán, hogy biztosítsa a legjobb helyet még a helyi tömeg megérkezése előtt.",
+            "ro": "Respirați aerul proaspăt al oceanului pe această plajă imensă de nisip și încercați să ajungeți mai devreme pentru a prinde un loc bun înainte de aglomerație.",
+            "en": "Breathe in the fresh ocean air at this expansive and beautiful sandy beach, and try arriving earlier in the morning to secure a prime spot before the local crowds gather."
+          }
+        },
+        {
+          "name": {
+            "de": "Abbaye Saint-Gildas-de-Rhuys",
+            "hu": "Abbaye Saint-Gildas-de-Rhuys",
+            "ro": "Abbaye Saint-Gildas-de-Rhuys",
+            "en": "Abbaye Saint-Gildas-de-Rhuys"
+          },
+          "coords": [
+            -2.839685,
+            47.499897
+          ],
+          "category": "religious",
+          "arrive_at": "10:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses alte Kloster aus dem 6. Jahrhundert, um die romanische Architektur zu bewundern, und besuchen Sie es früh für eine ruhige Atmosphäre.",
+            "hu": "Fedezze fel ezt a 6. században alapított ősi kolostort a román kori építészetért, és érkezzen kora reggel a csendes, elmélyült atmoszféra megéléséhez.",
+            "ro": "Explorați această mănăstire veche din secolul al VI-lea pentru a admira arhitectura romanică și vizitați-o dimineața devreme pentru o atmosferă liniștită.",
+            "en": "Explore this ancient monastery founded in the 6th century to appreciate its Romanesque architecture, and visit early in the day for a quiet, reflective atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Galerie 34",
+            "hu": "Galerie 34",
+            "ro": "Galerie 34",
+            "en": "Galerie 34"
+          },
+          "coords": [
+            -2.838409,
+            47.500347
+          ],
+          "category": "museum",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie lokale zeitgenössische Kunst in dieser intimen Galerie, wo Sie sich die Zeit nehmen sollten, mit den Kuratoren über bretonische Künstler zu plaudern.",
+            "hu": "Csodálja meg a helyi kortárs művészeti kiállításokat ebben a galériában, ahol mindenképpen érdemes elbeszélgetni a kurátorokkal a bemutatott breton művészekről.",
+            "ro": "Admirați arta contemporană locală în această galerie intimă, unde ar trebui să vă luați timp pentru a discuta cu curatorii despre artiștii bretoni expuși.",
+            "en": "Admire local contemporary art and regional exhibitions in this intimate gallery space, where you should take time to chat with the curators about the featured Breton artists."
+          }
+        },
+        {
+          "name": {
+            "de": "La croix de justice",
+            "hu": "La croix de justice",
+            "ro": "La croix de justice",
+            "en": "La croix de justice"
+          },
+          "coords": [
+            -2.823153,
+            47.502004
+          ],
+          "category": "historical",
+          "arrive_at": "12:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses historische Kreuz, das als stiller Zeuge der lokalen Geschichte steht, und nutzen Sie es als perfekten Orientierungspunkt am östlichen Rand.",
+            "hu": "Látogasson el ehhez a történelmi kereszt emlékműhöz, amely a helyi történelem csendes tanúja, és használja kiváló tájékozódási pontként a keleti peremvidék felfedezésekor.",
+            "ro": "Vizitați această cruce istorică ce stă ca un martor tăcut al istoriei locale și folosiți locul ca un punct perfect de orientare în timp ce explorați periferia estică.",
+            "en": "Visit this historic cross monument that stands as a silent witness to local history, and use the site as a perfect navigation waypoint while exploring the eastern outskirts."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen du Port-aux-Moines",
+            "hu": "Dolmen du Port-aux-Moines",
+            "ro": "Dolmen du Port-aux-Moines",
+            "en": "Dolmen du Port-aux-Moines"
+          },
+          "coords": [
+            -2.834308,
+            47.492329
+          ],
+          "category": "historical",
+          "arrive_at": "14:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie an diesem faszinierenden Megalithgrab in die Jungsteinzeit ein und tragen Sie festes Schuhwerk, da die umliegenden Küstenwege recht uneben sein können.",
+            "hu": "Lépjen vissza az újkőkorszakba ennél a lenyűgöző megalitikus sírnál, és viseljen túracipőt, mivel a környező tengerparti ösvények meglehetősen sziklásak és egyenetlenek.",
+            "ro": "Întoarceți-vă în era neolitică la acest fascinant mormânt megalitic și purtați încălțăminte solidă, deoarece potecile din jur de pe coastă pot fi destul de stâncoase.",
+            "en": "Step back into the Neolithic era at this fascinating megalithic tomb structure, and wear sturdy shoes as the surrounding paths along the coastline can be quite uneven and rocky."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Port Maria",
+            "hu": "Plage de Port Maria",
+            "ro": "Plage de Port Maria",
+            "en": "Plage de Port Maria"
+          },
+          "coords": [
+            -2.834958,
+            47.493558
+          ],
+          "category": "recreational",
+          "arrive_at": "15:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am goldenen Sand dieses charmanten Küstenortes, der sich perfekt zum Schwimmen eignet, und packen Sie eine Windjacke gegen die Meeresbrise ein.",
+            "hu": "Pihenjen ennek a bájos tengerparti szakasznak az aranyhomokján, amely tökéletes fürdőzéshez, de ne felejtsen el széldzsekit csomagolni a hűvös tengeri szellők ellen.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestui loc fermecător, perfect pentru înot, și nu uitați să luați o jachetă de vânt pentru a fi confortabil în timpul brizei marine.",
+            "en": "Relax on the golden sands of this charming coastal spot which is perfect for swimming, and don't forget to pack a windbreaker to stay comfortable during the sea breezes."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Kercambre",
+            "hu": "Plage de Kercambre",
+            "ro": "Plage de Kercambre",
+            "en": "Plage de Kercambre"
+          },
+          "coords": [
+            -2.821329,
+            47.489373
+          ],
+          "category": "recreational",
+          "arrive_at": "17:00",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an diesem ruhigen Strand ausklingen, der für seine Dämmerungsfarben bekannt ist, und packen Sie ein Picknick ein, um die friedliche Atmosphäre zu genießen.",
+            "hu": "Zárja a napot ezen a nyugodt strandon, amely gyönyörű alkonyati színeiről híres, és csomagoljon egy könnyű pikniket, hogy élvezhesse a békés hangulatot naplemente közben.",
+            "ro": "Încheiați ziua pe această plajă senină, cunoscută pentru culorile frumoase ale amurgului, și aduceți un picnic ușor pentru a savura ambianța liniștită la apus.",
+            "en": "Wind down your day at this serene beach known for its beautiful twilight colors, and pack a light picnic to savor the peaceful ambiance as the sun dips below the horizon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt mit einem erfrischenden morgendlichen Besuch der unberührten Nordstrände. Gegen Mittag fahren Sie in das charmante Zentrum, um das religiöse und künstlerische Erbe zu erkunden. Verbringen Sie den Nachmittag damit, zwischen antiken Steindenkmälern und versteckten Küstenjuwelen zu fahren. Ihr Tag endet perfekt an einem ruhigen Strand in der Abenddämmerung.",
+        "hu": "Kezdje az autós utazást egy frissítő reggeli látogatással az északi strandokon. A dél közeledtével ereszkedjen le a bájos faluközpontba, hogy felfedezze annak vallási és művészeti örökségét. Töltse a délutánt az ősi kőemlékek és rejtett tengerparti gyöngyszemek közötti autózással. A nap tökéletesen zárul egy csendes strandon, figyelve a hullámokat alkonyatkor.",
+        "ro": "Începeți plimbarea cu mașina cu o vizită revigorantă dimineața la plajele virgine din nord. La prânz, conduceți spre centrul fermecător pentru a explora moștenirea sa religioasă și artistică. Petreceți după-amiaza conducând lin între monumente antice de piatră și bijuterii ascunse ale coastei. Ziua se încheie perfect pe o plajă liniștită, privind valurile la amurg.",
+        "en": "Start your drive with an invigorating morning visit to the pristine northern beaches. As midday approaches, navigate into the charming town center to explore its deeply rooted religious and artistic heritage. Spend your afternoon driving smoothly between ancient stone monuments and hidden coastal gems. Your day concludes perfectly at a tranquil beach, watching the waves roll in at twilight."
+      }
+    }
+  }
+}

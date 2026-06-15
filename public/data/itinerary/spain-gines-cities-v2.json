@@ -1,0 +1,451 @@
+{
+  "city_id": "spain-gines-cities-v2",
+  "anchor": {
+    "name": "Gines",
+    "coords": [
+      -6.0777,
+      37.38705
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:57",
+      "total_km": 2.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Teatro El Tronío",
+            "hu": "Teatro El Tronío",
+            "ro": "Teatro El Tronío",
+            "en": "Teatro El Tronío"
+          },
+          "coords": [
+            -6.078292,
+            37.387614
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die kulturelle Atmosphäre dieses lokalen Theaters und überprüfen Sie den Spielplan im Voraus, um vielleicht eine abendliche Vorstellung zu ergattern.",
+            "hu": "Csodálja meg e helyi színház kulturális légkörét, és érdemes előre ellenőrizni a műsort, hátha elcsíphet egy esti előadást.",
+            "ro": "Admirați atmosfera culturală a acestui teatru local și verificați programul în avans pentru a prinde un spectacol de seară.",
+            "en": "Admire the cultural atmosphere of this local theater and be sure to check the schedule in advance to possibly catch an evening performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditorio Municipal Carlos Cano",
+            "hu": "Auditorio Municipal Carlos Cano",
+            "ro": "Auditorio Municipal Carlos Cano",
+            "en": "Auditorio Municipal Carlos Cano"
+          },
+          "coords": [
+            -6.079337,
+            37.385796
+          ],
+          "category": "cultural",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die moderne Architektur dieses Veranstaltungsortes und suchen Sie sich einen Platz im Freien, um die Akustik bei Proben zu genießen.",
+            "hu": "Fedezze fel e rendezvényközpont modern építészetét, és keressen egy szabadtéri ülőhelyet, ahol élvezheti a próbák akusztikáját.",
+            "ro": "Explorați arhitectura modernă a acestui centru de evenimente și găsiți un loc în aer liber pentru a vă bucura de acustică în timpul repetițiilor.",
+            "en": "Explore the modern architecture of this venue and find an outdoor seat to enjoy the acoustics during local rehearsals."
+          }
+        },
+        {
+          "name": {
+            "de": "Spain Contemporary Art",
+            "hu": "Spain Contemporary Art",
+            "ro": "Spain Contemporary Art",
+            "en": "Spain Contemporary Art"
+          },
+          "coords": [
+            -6.085551,
+            37.383012
+          ],
+          "category": "museum",
+          "arrive_at": "10:46",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Welt der zeitgenössischen spanischen Kunst ein und nehmen Sie sich Zeit für die wechselnden Ausstellungen im Hauptsaal.",
+            "hu": "Merüljön el a kortárs spanyol művészet lenyűgöző világában, és szánjon időt a főteremben található időszaki kiállításokra is.",
+            "ro": "Cufundați-vă în lumea fascinantă a artei contemporane spaniole și alocați timp pentru a studia expozițiile temporare din sala principală.",
+            "en": "Immerse yourself in the fascinating world of contemporary Spanish art and take your time exploring the rotating exhibitions in the main hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Valores de Gines",
+            "hu": "Valores de Gines",
+            "ro": "Valores de Gines",
+            "en": "Valores de Gines"
+          },
+          "coords": [
+            -6.082237,
+            37.37948
+          ],
+          "category": "historical",
+          "arrive_at": "12:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte dieses historischen Ortes und achten Sie besonders auf die traditionellen architektonischen Details der Fassade.",
+            "hu": "Fedezze fel e történelmi helyszín gazdag múltját, és figyeljen a homlokzat hagyományos építészeti részleteire.",
+            "ro": "Descoperiți istoria bogată a acestui sit istoric și acordați o atenție deosebită detaliilor arhitecturale tradiționale ale fațadei.",
+            "en": "Discover the rich history of this historical site and pay close attention to the traditional architectural details of its facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Al-Xaraf",
+            "hu": "Torre Al-Xaraf",
+            "ro": "Torre Al-Xaraf",
+            "en": "Torre Al-Xaraf"
+          },
+          "coords": [
+            -6.079907,
+            37.390517
+          ],
+          "category": "landmark",
+          "arrive_at": "14:12",
+          "stay_min": 45,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das markante Wahrzeichen von Gines und versuchen Sie, bei Sonnenuntergang für die besten Fotomotive hier zu sein.",
+            "hu": "Csodálja meg Gines lenyűgöző nevezetességét, és próbáljon naplemente környékén ideérkezni a legjobb fotós témákért.",
+            "ro": "Admirați acest punct de reper izbitor din Gines și încercați să vizitați la apus pentru a obține cele mai bune fotografii.",
+            "en": "Marvel at this striking landmark of Gines and try to time your visit around sunset for the most spectacular photo opportunities."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im kulturellen Herzen von Gines mit einem Besuch der Theater. Mittags lockt ein faszinierender Einblick in die moderne Kunst im Kunstzentrum. Die Nachmittagsstunden eignen sich am besten für einen Spaziergang nach Süden zu den historischen Sehenswürdigkeiten. Beenden Sie den Rundgang am legendären Turm.",
+        "hu": "Kezdje a napot Gines kulturális szívében, a helyi színházak meglátogatásával. A délben tett séta során elmerülhet a kortárs művészeti központ lenyűgöző világában. A délutánt érdemes a történelmi értékek felfedezésének szentelni, majd a napot az ikonikus torony megcsodálásával zárhatja.",
+        "ro": "Începeți ziua în inima culturală a orașului Gines, vizitând teatrele locale. La prânz vă puteți scufunda în creativitatea modernă la centrul de artă contemporană. După-amiaza este ideală pentru a descoperi valorile istorice din partea de sud. Încheiați turul pietonal admirând turnul istoric la lăsarea serii.",
+        "en": "Begin your day in the cultural heart of Gines, visiting the prominent local theaters. Midday offers a fascinating dive into modern creativity at the contemporary art center. Afternoon hours are best spent wandering south to discover local historical values. Conclude the walking tour admiring the iconic historic tower."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:59",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Asociación fotográfica Diagonal3",
+            "hu": "Asociación fotográfica Diagonal3",
+            "ro": "Asociación fotográfica Diagonal3",
+            "en": "Asociación fotográfica Diagonal3"
+          },
+          "coords": [
+            -6.077552,
+            37.369137
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die beeindruckenden Werke lokaler Fotografen und kommen Sie mit den Künstlern ins Gespräch, um mehr über ihre Techniken zu erfahren.",
+            "hu": "Tekintse meg a helyi fotósok lenyűgöző alkotásait, és elegyedjen szóba a művészekkel, hogy többet tudjon meg a technikáikról.",
+            "ro": "Vizualizați lucrările impresionante ale fotografilor locali și stați de vorbă cu artiștii pentru a afla mai multe despre tehnicile lor.",
+            "en": "View the impressive works of local photographers and strike up a conversation with the artists to learn more about their techniques."
+          }
+        },
+        {
+          "name": {
+            "de": "Valores de Gines",
+            "hu": "Valores de Gines",
+            "ro": "Valores de Gines",
+            "en": "Valores de Gines"
+          },
+          "coords": [
+            -6.082237,
+            37.37948
+          ],
+          "category": "historical",
+          "arrive_at": "10:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte dieses historischen Ortes und achten Sie besonders auf die traditionellen architektonischen Details der Fassade.",
+            "hu": "Fedezze fel e történelmi helyszín gazdag múltját, és figyeljen a homlokzat hagyományos építészeti részleteire.",
+            "ro": "Descoperiți istoria bogată a acestui sit istoric și acordați o atenție deosebită detaliilor arhitecturale tradiționale ale fațadei.",
+            "en": "Discover the rich history of this historical site and pay close attention to the traditional architectural details of its facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Spain Contemporary Art",
+            "hu": "Spain Contemporary Art",
+            "ro": "Spain Contemporary Art",
+            "en": "Spain Contemporary Art"
+          },
+          "coords": [
+            -6.085551,
+            37.383012
+          ],
+          "category": "museum",
+          "arrive_at": "12:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Welt der zeitgenössischen spanischen Kunst ein und nehmen Sie sich Zeit für die wechselnden Ausstellungen im Hauptsaal.",
+            "hu": "Merüljön el a kortárs spanyol művészet lenyűgöző világában, és szánjon időt a főteremben található időszaki kiállításokra is.",
+            "ro": "Cufundați-vă în lumea fascinantă a artei contemporane spaniole și alocați timp pentru a studia expozițiile temporare din sala principală.",
+            "en": "Immerse yourself in the fascinating world of contemporary Spanish art and take your time exploring the rotating exhibitions in the main hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro El Tronío",
+            "hu": "Teatro El Tronío",
+            "ro": "Teatro El Tronío",
+            "en": "Teatro El Tronío"
+          },
+          "coords": [
+            -6.078292,
+            37.387614
+          ],
+          "category": "cultural",
+          "arrive_at": "14:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die kulturelle Atmosphäre dieses lokalen Theaters und überprüfen Sie den Spielplan im Voraus, um vielleicht eine abendliche Vorstellung zu ergattern.",
+            "hu": "Csodálja meg e helyi színház kulturális légkörét, és érdemes előre ellenőrizni a műsort, hátha elcsíphet egy esti előadást.",
+            "ro": "Admirați atmosfera culturală a acestui teatru local și verificați programul în avans pentru a prinde un spectacol de seară.",
+            "en": "Admire the cultural atmosphere of this local theater and be sure to check the schedule in advance to possibly catch an evening performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Al-Xaraf",
+            "hu": "Torre Al-Xaraf",
+            "ro": "Torre Al-Xaraf",
+            "en": "Torre Al-Xaraf"
+          },
+          "coords": [
+            -6.079907,
+            37.390517
+          ],
+          "category": "landmark",
+          "arrive_at": "14:48",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das markante Wahrzeichen von Gines und versuchen Sie, bei Sonnenuntergang für die besten Fotomotive hier zu sein.",
+            "hu": "Csodálja meg Gines lenyűgöző nevezetességét, és próbáljon naplemente környékén ideérkezni a legjobb fotós témákért.",
+            "ro": "Admirați acest punct de reper izbitor din Gines și încercați să vizitați la apus pentru a obține cele mai bune fotografii.",
+            "en": "Marvel at this striking landmark of Gines and try to time your visit around sunset for the most spectacular photo opportunities."
+          }
+        },
+        {
+          "name": {
+            "de": "Dólmen de Matarrubilla",
+            "hu": "Dólmen de Matarrubilla",
+            "ro": "Dólmen de Matarrubilla",
+            "en": "Dólmen de Matarrubilla"
+          },
+          "coords": [
+            -6.069738,
+            37.405486
+          ],
+          "category": "landmark",
+          "arrive_at": "15:14",
+          "stay_min": 45,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die Mystik dieses prähistorischen Denkmals und bringen Sie festes Schuhwerk mit, da das Gelände rund um die Anlage uneben sein kann.",
+            "hu": "Tapasztalja meg e történelem előtti műemlék misztikumát, és hozzon kényelmes cipőt, mivel a terep egyenetlen lehet a környéken.",
+            "ro": "Experimentați misticismul acestui monument preistoric și aduceți încălțăminte adecvată, deoarece terenul din jur poate fi accidentat.",
+            "en": "Experience the mystique of this prehistoric monument and be sure to wear sturdy shoes as the surrounding terrain can be quite uneven."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour mit visuellen Künsten in der Fotografie-Ausstellung. Gegen Mittag radeln Sie zu den historischen Wahrzeichen und zum Museum für zeitgenössische Kunst. Der Nachmittag ist geprägt von der Architektur im Theaterviertel. Beenden Sie den aktiven Tag mit einer Fahrt zum mysteriösen prähistorischen Dolmen.",
+        "hu": "Indítsa kerékpáros túráját a vizuális művészetekkel a fotós egyesületnél. Dél felé haladva tekerjen a történelmi emlékhelyek és a kortárs múzeum felé. A délutánt a kulturális építészet jegyében töltheti a színházi negyedben. Zárja az aktív napot egy kellemes utazással a titokzatos, őskori dolmenhez.",
+        "ro": "Începeți traseul pe bicicletă cu artele vizuale la asociația fotografică. Spre prânz, pedalați către reperele istorice și muzeul de artă contemporană. După-amiaza este plină de arhitectură culturală în zona teatrelor. Încheiați ziua activă cu o plimbare până la misteriosul dolmen preistoric de la marginea orașului.",
+        "en": "Kick off your cycling journey with visual arts at the photographic association. As noon approaches, pedal towards the historical landmarks and contemporary art museum. The afternoon is filled with cultural architecture as you explore the town's theater district. End the active day by riding out to the mysterious prehistoric dolmen."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:46",
+      "total_km": 8.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Dólmen de Matarrubilla",
+            "hu": "Dólmen de Matarrubilla",
+            "ro": "Dólmen de Matarrubilla",
+            "en": "Dólmen de Matarrubilla"
+          },
+          "coords": [
+            -6.069738,
+            37.405486
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die Mystik dieses prähistorischen Denkmals und bringen Sie festes Schuhwerk mit, da das Gelände rund um die Anlage uneben sein kann.",
+            "hu": "Tapasztalja meg e történelem előtti műemlék misztikumát, és hozzon kényelmes cipőt, mivel a terep egyenetlen lehet a környéken.",
+            "ro": "Experimentați misticismul acestui monument preistoric și aduceți încălțăminte adecvată, deoarece terenul din jur poate fi accidentat.",
+            "en": "Experience the mystique of this prehistoric monument and be sure to wear sturdy shoes as the surrounding terrain can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscina municipal",
+            "hu": "Piscina municipal",
+            "ro": "Piscina municipal",
+            "en": "Piscina municipal"
+          },
+          "coords": [
+            -6.052603,
+            37.39022
+          ],
+          "category": "recreational",
+          "arrive_at": "09:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich nach einer Sightseeing-Tour in den erfrischenden Pools und vergessen Sie nicht, ein eigenes Handtuch sowie Sonnencreme einzupacken.",
+            "hu": "Pihenjen egy városnéző túra után a frissítő medencékben, és ne felejtsen el saját törölközőt, valamint naptejet csomagolni.",
+            "ro": "Relaxați-vă după un tur de vizitare a obiectivelor turistice în piscinele răcoritoare și nu uitați să împachetați un prosop propriu și cremă de soare.",
+            "en": "Relax after a sightseeing tour in the refreshing pools and don't forget to pack your own towel along with plenty of sunscreen."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Al-Xaraf",
+            "hu": "Torre Al-Xaraf",
+            "ro": "Torre Al-Xaraf",
+            "en": "Torre Al-Xaraf"
+          },
+          "coords": [
+            -6.079907,
+            37.390517
+          ],
+          "category": "landmark",
+          "arrive_at": "10:51",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das markante Wahrzeichen von Gines und versuchen Sie, bei Sonnenuntergang für die besten Fotomotive hier zu sein.",
+            "hu": "Csodálja meg Gines lenyűgöző nevezetességét, és próbáljon naplemente környékén ideérkezni a legjobb fotós témákért.",
+            "ro": "Admirați acest punct de reper izbitor din Gines și încercați să vizitați la apus pentru a obține cele mai bune fotografii.",
+            "en": "Marvel at this striking landmark of Gines and try to time your visit around sunset for the most spectacular photo opportunities."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro El Tronío",
+            "hu": "Teatro El Tronío",
+            "ro": "Teatro El Tronío",
+            "en": "Teatro El Tronío"
+          },
+          "coords": [
+            -6.078292,
+            37.387614
+          ],
+          "category": "cultural",
+          "arrive_at": "11:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die kulturelle Atmosphäre dieses lokalen Theaters und überprüfen Sie den Spielplan im Voraus, um vielleicht eine abendliche Vorstellung zu ergattern.",
+            "hu": "Csodálja meg e helyi színház kulturális légkörét, és érdemes előre ellenőrizni a műsort, hátha elcsíphet egy esti előadást.",
+            "ro": "Admirați atmosfera culturală a acestui teatru local și verificați programul în avans pentru a prinde un spectacol de seară.",
+            "en": "Admire the cultural atmosphere of this local theater and be sure to check the schedule in advance to possibly catch an evening performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Spain Contemporary Art",
+            "hu": "Spain Contemporary Art",
+            "ro": "Spain Contemporary Art",
+            "en": "Spain Contemporary Art"
+          },
+          "coords": [
+            -6.085551,
+            37.383012
+          ],
+          "category": "museum",
+          "arrive_at": "11:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Welt der zeitgenössischen spanischen Kunst ein und nehmen Sie sich Zeit für die wechselnden Ausstellungen im Hauptsaal.",
+            "hu": "Merüljön el a kortárs spanyol művészet lenyűgöző világában, és szánjon időt a főteremben található időszaki kiállításokra is.",
+            "ro": "Cufundați-vă în lumea fascinantă a artei contemporane spaniole și alocați timp pentru a studia expozițiile temporare din sala principală.",
+            "en": "Immerse yourself in the fascinating world of contemporary Spanish art and take your time exploring the rotating exhibitions in the main hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Asociación fotográfica Diagonal3",
+            "hu": "Asociación fotográfica Diagonal3",
+            "ro": "Asociación fotográfica Diagonal3",
+            "en": "Asociación fotográfica Diagonal3"
+          },
+          "coords": [
+            -6.077552,
+            37.369137
+          ],
+          "category": "museum",
+          "arrive_at": "13:36",
+          "stay_min": 130,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Betrachten Sie die beeindruckenden Werke lokaler Fotografen und kommen Sie mit den Künstlern ins Gespräch, um mehr über ihre Techniken zu erfahren.",
+            "hu": "Tekintse meg a helyi fotósok lenyűgöző alkotásait, és elegyedjen szóba a művészekkel, hogy többet tudjon meg a technikáikról.",
+            "ro": "Vizualizați lucrările impresionante ale fotografilor locali și stați de vorbă cu artiștii pentru a afla mai multe despre tehnicile lor.",
+            "en": "View the impressive works of local photographers and strike up a conversation with the artists to learn more about their techniques."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit einer kurzen Fahrt aus der Stadt, um den prähistorischen Dolmen im Morgenlicht zu erkunden. Der Mittag ist perfekt für eine Erfrischung im örtlichen Schwimmbad. Kehren Sie nachmittags ins Zentrum zurück, um Kultur in den Theatern und Galerien aufzusaugen. Lassen Sie den Tag im Fotografiezentrum ausklingen.",
+        "hu": "Kezdje egy rövid autóúttal a városon kívülre, hogy megcsodálja az őskori dolment a reggeli fényben. A dél kiválóan alkalmas egy frissítő úszásra a helyi uszodában. Délután térjen vissza a központba, hogy elmerüljön a színházak és galériák kultúrájában. Zárja a napot a helyi fotósok kiállítóterének meglátogatásával.",
+        "ro": "Începeți cu o scurtă ieșire din oraș pentru a explora dolmenul preistoric în lumina dimineții. Prânzul este perfect pentru o baie răcoritoare la piscina locală. După-amiaza, reveniți în centru pentru a absorbi cultura la teatre și galeriile de artă. Încheiați ziua admirând creațiile asociației locale de fotografie.",
+        "en": "Start with a short drive out of town to explore the prehistoric dolmen in the morning light. Midday is perfect for a refreshing swim and relaxation at the local pool. In the afternoon, return to the center to absorb the culture at the theaters and art galleries. Wrap up your day mingling with local photographers at the exhibition space."
+      }
+    }
+  }
+}

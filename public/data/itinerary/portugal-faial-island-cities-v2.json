@@ -1,0 +1,451 @@
+{
+  "city_id": "portugal-faial-island-cities-v2",
+  "anchor": {
+    "name": "Faial Island",
+    "coords": [
+      -28.702778,
+      38.576944
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:04",
+      "total_km": 5.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Alto do Cabouco Viewpoint",
+            "hu": "Alto do Cabouco Viewpoint",
+            "ro": "Alto do Cabouco Viewpoint",
+            "en": "Alto do Cabouco Viewpoint"
+          },
+          "coords": [
+            -28.700481,
+            38.583244
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die üppige Landschaft von diesem hohen Aussichtspunkt und bringen Sie eine Windjacke mit, da es oft sehr windig ist.",
+            "hu": "Élvezze a sziget buja tájára nyíló panorámát erről a magaslati pontról, de mindenképpen hozzon széldzsekit, mert nagyon szeles lehet.",
+            "ro": "Bucurați-vă de vederile panoramice asupra peisajului luxuriant de pe acest punct de belvedere înalt și asigurați-vă că aduceți o jachetă, deoarece este vânt.",
+            "en": "Enjoy sweeping panoramic views of the island's lush landscape from this high vantage point, and be sure to bring a windbreaker as it gets very breezy."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro da Caldeira",
+            "hu": "Miradouro da Caldeira",
+            "ro": "Miradouro da Caldeira",
+            "en": "Miradouro da Caldeira"
+          },
+          "coords": [
+            -28.706565,
+            38.580694
+          ],
+          "category": "natural",
+          "arrive_at": "09:44",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Blicken Sie in den riesigen Vulkankrater mit seiner grünen Flora, ein echtes Naturwunder, das man am besten früh besucht, um Nachmittagswolken zu meiden.",
+            "hu": "Tekintsen be a zöld növényzettel borított hatalmas vulkáni kráterbe, amelyet érdemes kora reggel felkeresni, hogy elkerülje a délutáni felhőket.",
+            "ro": "Priviți în craterul vulcanic masiv acoperit de floră verde, o minune naturală uimitoare care trebuie vizitată devreme pentru a evita norii de după-amiază.",
+            "en": "Peer into the massive volcanic crater covered in verdant flora, a stunning natural wonder best visited early to avoid the afternoon clouds."
+          }
+        },
+        {
+          "name": {
+            "de": "Cabeço Gordo",
+            "hu": "Cabeço Gordo",
+            "ro": "Cabeço Gordo",
+            "en": "Cabeço Gordo"
+          },
+          "coords": [
+            -28.713081,
+            38.575985
+          ],
+          "category": "natural",
+          "arrive_at": "10:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erklimmen Sie den höchsten Punkt der Insel für atemberaubende Ausblicke über den Atlantik und tragen Sie dabei festes Schuhwerk für das unebene Gelände.",
+            "hu": "Túrázzon fel a sziget legmagasabb pontjára, ahonnan lélegzetelállító kilátás nyílik az Atlanti-óceánra, és viseljen masszív cipőt az egyenetlen terepen.",
+            "ro": "Urcați pe cel mai înalt punct al insulei pentru vederi uluitoare peste Atlantic și asigurați-vă că purtați pantofi rezistenți pentru terenul accidentat.",
+            "en": "Hike up the island's highest point for breathtaking views stretching across the Atlantic, making sure to wear sturdy shoes for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Caldeira",
+            "hu": "Caldeira",
+            "ro": "Caldeira",
+            "en": "Caldeira"
+          },
+          "coords": [
+            -28.716089,
+            38.588082
+          ],
+          "category": "landmark",
+          "arrive_at": "11:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen riesigen eingestürzten Vulkankegel der geologischen Geschichte von Faial und bleiben Sie auf den markierten Wegen, um die Natur zu schützen.",
+            "hu": "Csodálja meg ezt az óriási beszakadt vulkáni kúpot, amely Faial történetét mutatja be, és maradjon a kijelölt ösvényeken a törékeny ökoszisztéma védelmében.",
+            "ro": "Minunați-vă de acest colosal con vulcanic prăbușit care prezintă istoria geologică și rămâneți pe traseele marcate pentru a proteja ecosistemul fragil.",
+            "en": "Marvel at this colossal collapsed volcanic cone which showcases Faial's geological history, and stick to the marked trails to protect the fragile ecosystem."
+          }
+        },
+        {
+          "name": {
+            "de": "Roadman’s House",
+            "hu": "Roadman’s House",
+            "ro": "Roadman’s House",
+            "en": "Roadman’s House"
+          },
+          "coords": [
+            -28.692269,
+            38.571329
+          ],
+          "category": "landmark",
+          "arrive_at": "14:04",
+          "stay_min": 60,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden historischen Unterkünfte der ehemaligen Straßenarbeiter in diesem Gebäude und achten Sie auf kleine Informationstafeln.",
+            "hu": "Fedezze fel az egykori útépítők lenyűgöző történelmi szálláshelyét ebben az egyedi épületben, és figyelje a közelben elhelyezett kis információs táblákat.",
+            "ro": "Descoperiți cartierele istorice fascinante ale foștilor muncitori rutieri în această clădire unică și fiți atenți la micile plăci informative din apropiere.",
+            "en": "Discover the intriguing historical quarters of former road workers in this unique building, keeping an eye out for small informational plaques nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt hoch oben mit herrlichen Panoramablicken von den Aussichtspunkten der Insel. Mittags wandern wir zum höchsten Gipfel und genießen die frische Luft. Der Nachmittag ist geprägt von den Wundern des Vulkankraters und seinen massiven Ausmaßen. Am Abend erreichen wir historische Orte, um die rustikale Architektur der Region in Ruhe zu betrachten.",
+        "hu": "A reggel magasan indul, gyönyörű panorámás kilátókról csodálva a szigetet. Délben a legmagasabb csúcs felé túrázunk, friss levegőt szívva. A délutánt a vulkáni kráter felfedezésének szenteljük, megfigyelve annak hatalmas méreteit. Estére történelmi helyszíneket érünk el, ahol a környék rusztikus építészete nyugodt környezetben fogad.",
+        "ro": "Dimineața începe la înălțime cu vederi panoramice splendide de la punctele de belvedere ale insulei. La prânz facem o drumeție către cel mai înalt vârf pentru aer proaspăt. După-amiaza este dominată de minunile craterului vulcanic masiv și formațiunile sale. Seara ajungem în zone istorice pentru a contempla arhitectura rustică locală în liniște.",
+        "en": "Morning begins high up with splendid panoramic views from the island's scenic viewpoints. At midday, we hike toward the highest peak to take in the fresh air. The afternoon is dominated by the wonders of the massive volcanic crater and its dramatic geology. By evening, we reach historical grounds to quietly contemplate the local rustic architecture."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:04",
+      "total_km": 5.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Reserva Florestal de Recreio da Falca",
+            "hu": "Reserva Florestal de Recreio da Falca",
+            "ro": "Reserva Florestal de Recreio da Falca",
+            "en": "Reserva Florestal de Recreio da Falca"
+          },
+          "coords": [
+            -28.684208,
+            38.563019
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem ruhigen Waldreservat mit endemischen Pflanzen und Picknickplätzen, das sich perfekt für eine Mittagspause mit eigenem Proviant eignet.",
+            "hu": "Pihenjen meg ebben az endemikus növényekkel teli, csendes erdőrezervátumban, amely tökéletes egy déli piknikhez, ha saját ebédet is csomagol.",
+            "ro": "Relaxați-vă în această rezervație forestieră plină de plante endemice și locuri de picnic, perfectă pentru o pauză la amiază dacă vă aduceți propriul prânz.",
+            "en": "Relax in this peaceful forest reserve filled with endemic plants and picnic spots, perfect for a midday break if you pack your own lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro da Falca",
+            "hu": "Miradouro da Falca",
+            "ro": "Miradouro da Falca",
+            "en": "Miradouro da Falca"
+          },
+          "coords": [
+            -28.683969,
+            38.561771
+          ],
+          "category": "natural",
+          "arrive_at": "10:26",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die wunderschöne Küstenlandschaft von diesem ruhigen Aussichtspunkt, der fantastische Fotomotive bietet, wenn Sie zur goldenen Stunde kommen.",
+            "hu": "Élvezze a gyönyörű partvidéki tájat erről a csendes kilátóból, amely fantasztikus fotózási lehetőségeket kínál, ha az aranyórában látogat ide.",
+            "ro": "Bucurați-vă de frumoasele peisaje de coastă de la acest punct de belvedere, care oferă oportunități fantastice de fotografie dacă vizitați la ora de aur.",
+            "en": "Take in the beautiful coastal scenery from this quiet lookout point, which offers fantastic photo opportunities if you visit during golden hour."
+          }
+        },
+        {
+          "name": {
+            "de": "Pico Cangueiro",
+            "hu": "Pico Cangueiro",
+            "ro": "Pico Cangueiro",
+            "en": "Pico Cangueiro"
+          },
+          "coords": [
+            -28.697697,
+            38.561636
+          ],
+          "category": "natural",
+          "arrive_at": "10:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen markanten vulkanischen Gipfel mit seinen einzigartigen Gesteinsformationen und bringen Sie eine Kamera mit gutem Zoom für Vögel mit.",
+            "hu": "Fedezze fel ezt a különleges geológiai képződményeiről ismert vulkáni csúcsot, és hozzon magával jó zoomobjektívvel rendelkező fényképezőgépet.",
+            "ro": "Explorați acest vârf vulcanic remarcabil, cunoscut pentru formațiunile sale geologice, și aduceți o cameră cu zoom bun pentru a surprinde păsările.",
+            "en": "Explore this striking volcanic peak known for its unique geological formations, and bring a camera with a good zoom lens to capture distant birds."
+          }
+        },
+        {
+          "name": {
+            "de": "Roadman’s House",
+            "hu": "Roadman’s House",
+            "ro": "Roadman’s House",
+            "en": "Roadman’s House"
+          },
+          "coords": [
+            -28.692269,
+            38.571329
+          ],
+          "category": "landmark",
+          "arrive_at": "12:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden historischen Unterkünfte der ehemaligen Straßenarbeiter in diesem Gebäude und achten Sie auf kleine Informationstafeln.",
+            "hu": "Fedezze fel az egykori útépítők lenyűgöző történelmi szálláshelyét ebben az egyedi épületben, és figyelje a közelben elhelyezett kis információs táblákat.",
+            "ro": "Descoperiți cartierele istorice fascinante ale foștilor muncitori rutieri în această clădire unică și fiți atenți la micile plăci informative din apropiere.",
+            "en": "Discover the intriguing historical quarters of former road workers in this unique building, keeping an eye out for small informational plaques nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Cabeço Gordo",
+            "hu": "Cabeço Gordo",
+            "ro": "Cabeço Gordo",
+            "en": "Cabeço Gordo"
+          },
+          "coords": [
+            -28.713081,
+            38.575985
+          ],
+          "category": "natural",
+          "arrive_at": "13:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erklimmen Sie den höchsten Punkt der Insel für atemberaubende Ausblicke über den Atlantik und tragen Sie dabei festes Schuhwerk für das unebene Gelände.",
+            "hu": "Túrázzon fel a sziget legmagasabb pontjára, ahonnan lélegzetelállító kilátás nyílik az Atlanti-óceánra, és viseljen masszív cipőt az egyenetlen terepen.",
+            "ro": "Urcați pe cel mai înalt punct al insulei pentru vederi uluitoare peste Atlantic și asigurați-vă că purtați pantofi rezistenți pentru terenul accidentat.",
+            "en": "Hike up the island's highest point for breathtaking views stretching across the Atlantic, making sure to wear sturdy shoes for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro da Caldeira",
+            "hu": "Miradouro da Caldeira",
+            "ro": "Miradouro da Caldeira",
+            "en": "Miradouro da Caldeira"
+          },
+          "coords": [
+            -28.706565,
+            38.580694
+          ],
+          "category": "natural",
+          "arrive_at": "15:09",
+          "stay_min": 55,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Blicken Sie in den riesigen Vulkankrater mit seiner grünen Flora, ein echtes Naturwunder, das man am besten früh besucht, um Nachmittagswolken zu meiden.",
+            "hu": "Tekintsen be a zöld növényzettel borított hatalmas vulkáni kráterbe, amelyet érdemes kora reggel felkeresni, hogy elkerülje a délutáni felhőket.",
+            "ro": "Priviți în craterul vulcanic masiv acoperit de floră verde, o minune naturală uimitoare care trebuie vizitată devreme pentru a evita norii de după-amiază.",
+            "en": "Peer into the massive volcanic crater covered in verdant flora, a stunning natural wonder best visited early to avoid the afternoon clouds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Am Morgen radeln wir zu entspannten Naturreservaten und genießen die ruhige Waldatmosphäre. Die Mittagspause verbringen wir an der Küste mit atemberaubenden Ausblicken. Am Nachmittag fahren wir bergauf, um historische Stätten und imposante Vulkangipfel zu entdecken. Der Abend bietet uns den ultimativen Blick in den Krater, bevor die Sonne untergeht.",
+        "hu": "Reggel békés természetvédelmi területek felé tekerünk, élvezve az erdei nyugalmat. A déli órákat a part menti lenyűgöző kilátópontoknál töltjük. Délután felfelé haladunk, hogy történelmi helyszíneket és vulkáni csúcsokat fedezzünk fel. Az este során pedig megcsodáljuk az ikonikus krátert a naplemente előtti varázslatos fényekben.",
+        "ro": "Dimineața pedalăm către rezervații naturale relaxante, bucurându-ne de liniștea pădurii. Pauza de prânz este petrecută pe coastă cu vederi panoramice uimitoare. După-amiaza urcăm pentru a descoperi repere istorice și vârfuri vulcanice impunătoare. Seara ne oferă priveliștea supremă asupra craterului înainte ca soarele să apună încet.",
+        "en": "Morning cycling takes us to relaxing nature reserves where we enjoy the peaceful forest air. Midday is spent admiring coastal panoramas from stunning lookouts. In the afternoon, we ride uphill to explore historical landmarks and imposing volcanic peaks. The evening rewards us with the ultimate view into the iconic crater just before sunset."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:47",
+      "total_km": 8.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pico das Queimadas",
+            "hu": "Pico das Queimadas",
+            "ro": "Pico das Queimadas",
+            "en": "Pico das Queimadas"
+          },
+          "coords": [
+            -28.703271,
+            38.556225
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die unberührte Natur rund um diesen malerischen Gipfel, ein idealer Ort für Naturliebhaber, die daran denken, viel Trinkwasser mitzunehmen.",
+            "hu": "Barangoljon e csúcsot körülvevő érintetlen természetben, amely ideális hely a természet szerelmeseinek, de ne felejtsen el bőséges ivóvizet vinni.",
+            "ro": "Plimbați-vă prin frumusețea naturală neatinsă din jurul acestui vârf, un loc ideal pentru iubitorii de natură care nu uită să ia apă potabilă suficientă.",
+            "en": "Wander through the untouched natural beauty surrounding this peak, an ideal spot for nature lovers who remember to carry plenty of drinking water."
+          }
+        },
+        {
+          "name": {
+            "de": "Reserva Florestal de Recreio da Falca",
+            "hu": "Reserva Florestal de Recreio da Falca",
+            "ro": "Reserva Florestal de Recreio da Falca",
+            "en": "Reserva Florestal de Recreio da Falca"
+          },
+          "coords": [
+            -28.684208,
+            38.563019
+          ],
+          "category": "natural",
+          "arrive_at": "10:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem ruhigen Waldreservat mit endemischen Pflanzen und Picknickplätzen, das sich perfekt für eine Mittagspause mit eigenem Proviant eignet.",
+            "hu": "Pihenjen meg ebben az endemikus növényekkel teli, csendes erdőrezervátumban, amely tökéletes egy déli piknikhez, ha saját ebédet is csomagol.",
+            "ro": "Relaxați-vă în această rezervație forestieră plină de plante endemice și locuri de picnic, perfectă pentru o pauză la amiază dacă vă aduceți propriul prânz.",
+            "en": "Relax in this peaceful forest reserve filled with endemic plants and picnic spots, perfect for a midday break if you pack your own lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Roadman’s House",
+            "hu": "Roadman’s House",
+            "ro": "Roadman’s House",
+            "en": "Roadman’s House"
+          },
+          "coords": [
+            -28.692269,
+            38.571329
+          ],
+          "category": "landmark",
+          "arrive_at": "11:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden historischen Unterkünfte der ehemaligen Straßenarbeiter in diesem Gebäude und achten Sie auf kleine Informationstafeln.",
+            "hu": "Fedezze fel az egykori útépítők lenyűgöző történelmi szálláshelyét ebben az egyedi épületben, és figyelje a közelben elhelyezett kis információs táblákat.",
+            "ro": "Descoperiți cartierele istorice fascinante ale foștilor muncitori rutieri în această clădire unică și fiți atenți la micile plăci informative din apropiere.",
+            "en": "Discover the intriguing historical quarters of former road workers in this unique building, keeping an eye out for small informational plaques nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Cabeço Gordo",
+            "hu": "Cabeço Gordo",
+            "ro": "Cabeço Gordo",
+            "en": "Cabeço Gordo"
+          },
+          "coords": [
+            -28.713081,
+            38.575985
+          ],
+          "category": "natural",
+          "arrive_at": "13:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erklimmen Sie den höchsten Punkt der Insel für atemberaubende Ausblicke über den Atlantik und tragen Sie dabei festes Schuhwerk für das unebene Gelände.",
+            "hu": "Túrázzon fel a sziget legmagasabb pontjára, ahonnan lélegzetelállító kilátás nyílik az Atlanti-óceánra, és viseljen masszív cipőt az egyenetlen terepen.",
+            "ro": "Urcați pe cel mai înalt punct al insulei pentru vederi uluitoare peste Atlantic și asigurați-vă că purtați pantofi rezistenți pentru terenul accidentat.",
+            "en": "Hike up the island's highest point for breathtaking views stretching across the Atlantic, making sure to wear sturdy shoes for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Caldeira",
+            "hu": "Caldeira",
+            "ro": "Caldeira",
+            "en": "Caldeira"
+          },
+          "coords": [
+            -28.716089,
+            38.588082
+          ],
+          "category": "landmark",
+          "arrive_at": "14:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen riesigen eingestürzten Vulkankegel der geologischen Geschichte von Faial und bleiben Sie auf den markierten Wegen, um die Natur zu schützen.",
+            "hu": "Csodálja meg ezt az óriási beszakadt vulkáni kúpot, amely Faial történetét mutatja be, és maradjon a kijelölt ösvényeken a törékeny ökoszisztéma védelmében.",
+            "ro": "Minunați-vă de acest colosal con vulcanic prăbușit care prezintă istoria geologică și rămâneți pe traseele marcate pentru a proteja ecosistemul fragil.",
+            "en": "Marvel at this colossal collapsed volcanic cone which showcases Faial's geological history, and stick to the marked trails to protect the fragile ecosystem."
+          }
+        },
+        {
+          "name": {
+            "de": "Alto do Cabouco Viewpoint",
+            "hu": "Alto do Cabouco Viewpoint",
+            "ro": "Alto do Cabouco Viewpoint",
+            "en": "Alto do Cabouco Viewpoint"
+          },
+          "coords": [
+            -28.700481,
+            38.583244
+          ],
+          "category": "natural",
+          "arrive_at": "15:52",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die üppige Landschaft von diesem hohen Aussichtspunkt und bringen Sie eine Windjacke mit, da es oft sehr windig ist.",
+            "hu": "Élvezze a sziget buja tájára nyíló panorámát erről a magaslati pontról, de mindenképpen hozzon széldzsekit, mert nagyon szeles lehet.",
+            "ro": "Bucurați-vă de vederile panoramice asupra peisajului luxuriant de pe acest punct de belvedere înalt și asigurați-vă că aduceți o jachetă, deoarece este vânt.",
+            "en": "Enjoy sweeping panoramic views of the island's lush landscape from this high vantage point, and be sure to bring a windbreaker as it gets very breezy."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Fahrt beginnt mit einer entspannten Tour durch unberührte Landschaften und wunderschöne grüne Waldgebiete. Gegen Mittag erkunden wir die rustikale Architektur der historischen Gebäude. Der Nachmittag bringt uns zu den höchsten und beeindruckendsten vulkanischen Zielen der Insel. Den Abend lassen wir an malerischen Aussichtspunkten hoch über dem Meer ausklingen.",
+        "hu": "Az utazás a buja, érintetlen tájak és zöldellő erdők kényelmes felfedezésével indul. Kora délután a történelmi épületek rusztikus építészetében gyönyörködünk. A délután további része a sziget legmagasabb és leglenyűgözőbb vulkáni képződményeihez visz. Az estét a tenger felett magasodó, festői kilátópontokon fejezzük be nyugodt környezetben.",
+        "ro": "Călătoria începe cu o plimbare confortabilă prin peisaje neatinse și zone forestiere verzi. La prânz explorăm arhitectura rustică a clădirilor istorice din regiune. După-amiaza ne aduce la cele mai înalte și impresionante obiective vulcanice de pe insulă. Seara se încheie la puncte de belvedere pitorești situate mult deasupra oceanului liniștit.",
+        "en": "The drive starts with a comfortable tour through untouched landscapes and verdant forest areas. By midday, we explore the rustic architecture of the region's historical buildings. The afternoon brings us to the highest and most impressive volcanic destinations on the island. We conclude the evening at picturesque viewpoints high above the peaceful ocean."
+      }
+    }
+  }
+}

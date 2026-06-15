@@ -1,0 +1,520 @@
+{
+  "city_id": "ambazac",
+  "anchor": {
+    "name": "Ambazac",
+    "coords": [
+      1.4,
+      45.9578
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:07",
+      "total_km": 6.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Antoine",
+            "hu": "Saint-Antoine templom",
+            "ro": "Biserica Saint-Antoine",
+            "en": "Saint-Antoine Church"
+          },
+          "coords": [
+            1.401162,
+            45.958158
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die erhaltenen Reliquiare in dieser historischen Kirche und versuchen Sie, an einem ruhigen Morgen für das beste Licht vorbeizukommen.",
+            "hu": "Csodálja meg a fennmaradt ereklyetartókat ebben a történelmi templomban, és próbáljon meg egy csendes reggelen érkezni a legjobb fényviszonyokért.",
+            "ro": "Admirați relicvele conservate în această biserică istorică și încercați să o vizitați într-o dimineață liniștită pentru cea mai bună lumină.",
+            "en": "Admire the preserved reliquaries in this historic church, a key piece of local heritage, and try to visit on a quiet morning for the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Montméry",
+            "hu": "Château de Montméry",
+            "ro": "Château de Montméry",
+            "en": "Château de Montméry"
+          },
+          "coords": [
+            1.39194,
+            45.9706
+          ],
+          "category": "historical",
+          "arrive_at": "10:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie das elegante Gelände dieses Schlosses aus dem 19. Jahrhundert und bringen Sie bequeme Schuhe für die Schotterwege mit.",
+            "hu": "Fedezze fel a 19. századi kastély elegáns birtokát, amely a múltat tükrözi, és hozzon magával kényelmes cipőt a kavicsos ösvényekhez.",
+            "ro": "Explorați domeniul elegant al acestui castel din secolul al XIX-lea, reflectând trecutul aristocratic, și purtați încălțăminte confortabilă pentru alei.",
+            "en": "Explore the elegant grounds of this 19th-century castle, reflecting Ambazac's aristocratic past, and bring comfortable shoes for the gravel paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Monts d'Ambazac",
+            "hu": "Monts d'Ambazac",
+            "ro": "Monts d'Ambazac",
+            "en": "Monts d'Ambazac"
+          },
+          "coords": [
+            1.383333,
+            45.983333
+          ],
+          "category": "natural",
+          "arrive_at": "11:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Wandern Sie durch diese sanften Hügel mit herrlichem Panoramablick auf die Landschaft des Limousin und nehmen Sie genügend Wasser für die Wege mit.",
+            "hu": "Túrázzon végig ezeken a dombokon, amelyek lenyűgöző panorámát nyújtanak a Limousin vidékére, és ne felejtsen el elegendő vizet vinni az ösvényekre.",
+            "ro": "Faceți drumeții pe aceste dealuri care oferă vederi panoramice uimitoare ale peisajului Limousin, asigurându-vă că aveți suficientă apă la voi.",
+            "en": "Hike through these rolling hills that offer stunning panoramic views of the Limousin countryside, making sure to carry enough water for the trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Abtei Grandmont",
+            "hu": "Grandmont apátság",
+            "ro": "Abația Grandmont",
+            "en": "Grandmont Abbey"
+          },
+          "coords": [
+            1.39323,
+            45.99997
+          ],
+          "category": "monastic",
+          "arrive_at": "13:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Ruinen dieses einst mächtigen Klosterzentrums im Wald und nehmen Sie sich Zeit für die informativen Tafeln in der Umgebung.",
+            "hu": "Fedezze fel ennek az egykor hatalmas, erdőben megbúvó kolostorközpontnak a romjait, és szánjon időt a kihelyezett információs táblák elolvasására.",
+            "ro": "Descoperiți ruinele acestui centru monahal odinioară puternic, ascuns în pădure, și faceți-vă timp să citiți plăcuțele informative din jur.",
+            "en": "Discover the solemn ruins of this once-powerful monastic center hidden in the forest, taking time to read the informative plaques scattered around."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de l'Âne",
+            "hu": "Étang de l'Âne",
+            "ro": "Étang de l'Âne",
+            "en": "Étang de l'Âne"
+          },
+          "coords": [
+            1.386457,
+            46.011425
+          ],
+          "category": "natural",
+          "arrive_at": "15:22",
+          "stay_min": 105,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem ruhigen, von viel Grün umgebenen Teich, der sich ideal zur Vogelbeobachtung eignet, packen Sie also ein Fernglas ein.",
+            "hu": "Pihenjen a buja növényzettel körülvett nyugodt tó partján, amely tökéletes hely madármegfigyelésre, ezért ne felejtse el magával hozni a távcsövét.",
+            "ro": "Relaxați-vă lângă acest iaz liniștit înconjurat de verdeață, un loc perfect pentru observarea păsărilor, așa că nu uitați să luați un binoclu cu voi.",
+            "en": "Relax by this tranquil pond surrounded by lush greenery, a perfect spot for birdwatching, so remember to pack your binoculars for the best experience."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Wanderung durch Ambazac beginnt im Zentrum mit der historischen Kirche Saint-Antoine. Mittags geht es zum prächtigen Château de Montméry, wo das städtische Erbe in die Natur übergeht. Der Nachmittag ist den malerischen Monts d'Ambazac und der stimmungsvollen Abtei Grandmont gewidmet. Beenden Sie Ihren Tag mit einem ruhigen Abendspaziergang am friedlichen Wasser des Étang de l'Âne.",
+        "hu": "Gyalogos túrája Ambazac központjában indul a történelmi Saint-Antoine templomnál. A délben már a lenyűgöző Château de Montméry felé tart, átlépve a városból a természetbe. A délutánt a festői Monts d'Ambazac hegyeinek és a hangulatos Grandmont apátságnak szenteli. Zárja a napot egy békés esti sétával a nyugodt Étang de l'Âne vizének partján.",
+        "ro": "Turul pietonal din Ambazac începe în centru, vizitând istorica biserică Saint-Antoine. La amiază vă îndreptați spre grandiosul Château de Montméry. După-amiaza este dedicată pitoreștilor Monts d'Ambazac și atmosferei speciale de la Abația Grandmont. Încheiați-vă ziua cu o plimbare liniștită de seară pe malul apelor calme ale Étang de l'Âne.",
+        "en": "Your walking tour of Ambazac begins in the vibrant center, visiting the historic Saint-Antoine Church. Midday takes you towards the grand Château de Montméry, transitioning from urban heritage to nature. The afternoon is dedicated to the scenic Monts d'Ambazac and the atmospheric Grandmont Abbey. Conclude your day with a peaceful evening stroll by the tranquil waters of Étang de l'Âne."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:09",
+      "total_km": 11.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Dolmen de la Lieue",
+            "hu": "Dolmen de la Lieue",
+            "ro": "Dolmen de la Lieue",
+            "en": "Dolmen de la Lieue"
+          },
+          "coords": [
+            1.36969,
+            45.945798
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Stehen Sie vor diesem prähistorischen Megalithen, der alte Siedlungen markiert, und bringen Sie ein Weitwinkelobjektiv für das perfekte Foto mit.",
+            "hu": "Álljon meg e lenyűgöző őskori megalit előtt, és fontolja meg egy nagylátószögű objektív használatát, hogy teljes egészében megörökíthesse.",
+            "ro": "Stați în fața acestui impresionant megalit preistoric care marchează așezări antice și luați un obiectiv cu unghi larg pentru a-i surprinde amploarea.",
+            "en": "Stand before this impressive prehistoric megalith that marks ancient settlements, and consider bringing a wide-angle lens to capture its full scale."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Antoine",
+            "hu": "Saint-Antoine templom",
+            "ro": "Biserica Saint-Antoine",
+            "en": "Saint-Antoine Church"
+          },
+          "coords": [
+            1.401162,
+            45.958158
+          ],
+          "category": "religious",
+          "arrive_at": "10:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die erhaltenen Reliquiare in dieser historischen Kirche und versuchen Sie, an einem ruhigen Morgen für das beste Licht vorbeizukommen.",
+            "hu": "Csodálja meg a fennmaradt ereklyetartókat ebben a történelmi templomban, és próbáljon meg egy csendes reggelen érkezni a legjobb fényviszonyokért.",
+            "ro": "Admirați relicvele conservate în această biserică istorică și încercați să o vizitați într-o dimineață liniștită pentru cea mai bună lumină.",
+            "en": "Admire the preserved reliquaries in this historic church, a key piece of local heritage, and try to visit on a quiet morning for the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Montméry",
+            "hu": "Château de Montméry",
+            "ro": "Château de Montméry",
+            "en": "Château de Montméry"
+          },
+          "coords": [
+            1.39194,
+            45.9706
+          ],
+          "category": "historical",
+          "arrive_at": "11:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie das elegante Gelände dieses Schlosses aus dem 19. Jahrhundert und bringen Sie bequeme Schuhe für die Schotterwege mit.",
+            "hu": "Fedezze fel a 19. századi kastély elegáns birtokát, amely a múltat tükrözi, és hozzon magával kényelmes cipőt a kavicsos ösvényekhez.",
+            "ro": "Explorați domeniul elegant al acestui castel din secolul al XIX-lea, reflectând trecutul aristocratic, și purtați încălțăminte confortabilă pentru alei.",
+            "en": "Explore the elegant grounds of this 19th-century castle, reflecting Ambazac's aristocratic past, and bring comfortable shoes for the gravel paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Monts d'Ambazac",
+            "hu": "Monts d'Ambazac",
+            "ro": "Monts d'Ambazac",
+            "en": "Monts d'Ambazac"
+          },
+          "coords": [
+            1.383333,
+            45.983333
+          ],
+          "category": "natural",
+          "arrive_at": "13:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Wandern Sie durch diese sanften Hügel mit herrlichem Panoramablick auf die Landschaft des Limousin und nehmen Sie genügend Wasser für die Wege mit.",
+            "hu": "Túrázzon végig ezeken a dombokon, amelyek lenyűgöző panorámát nyújtanak a Limousin vidékére, és ne felejtsen el elegendő vizet vinni az ösvényekre.",
+            "ro": "Faceți drumeții pe aceste dealuri care oferă vederi panoramice uimitoare ale peisajului Limousin, asigurându-vă că aveți suficientă apă la voi.",
+            "en": "Hike through these rolling hills that offer stunning panoramic views of the Limousin countryside, making sure to carry enough water for the trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Abtei Grandmont",
+            "hu": "Grandmont apátság",
+            "ro": "Abația Grandmont",
+            "en": "Grandmont Abbey"
+          },
+          "coords": [
+            1.39323,
+            45.99997
+          ],
+          "category": "monastic",
+          "arrive_at": "14:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Ruinen dieses einst mächtigen Klosterzentrums im Wald und nehmen Sie sich Zeit für die informativen Tafeln in der Umgebung.",
+            "hu": "Fedezze fel ennek az egykor hatalmas, erdőben megbúvó kolostorközpontnak a romjait, és szánjon időt a kihelyezett információs táblák elolvasására.",
+            "ro": "Descoperiți ruinele acestui centru monahal odinioară puternic, ascuns în pădure, și faceți-vă timp să citiți plăcuțele informative din jur.",
+            "en": "Discover the solemn ruins of this once-powerful monastic center hidden in the forest, taking time to read the informative plaques scattered around."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de l'Âne",
+            "hu": "Étang de l'Âne",
+            "ro": "Étang de l'Âne",
+            "en": "Étang de l'Âne"
+          },
+          "coords": [
+            1.386457,
+            46.011425
+          ],
+          "category": "natural",
+          "arrive_at": "15:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem ruhigen, von viel Grün umgebenen Teich, der sich ideal zur Vogelbeobachtung eignet, packen Sie also ein Fernglas ein.",
+            "hu": "Pihenjen a buja növényzettel körülvett nyugodt tó partján, amely tökéletes hely madármegfigyelésre, ezért ne felejtse el magával hozni a távcsövét.",
+            "ro": "Relaxați-vă lângă acest iaz liniștit înconjurat de verdeață, un loc perfect pentru observarea păsărilor, așa că nu uitați să luați un binoclu cu voi.",
+            "en": "Relax by this tranquil pond surrounded by lush greenery, a perfect spot for birdwatching, so remember to pack your binoculars for the best experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de Pierre Millier",
+            "hu": "Étang de Pierre Millier",
+            "ro": "Étang de Pierre Millier",
+            "en": "Étang de Pierre Millier"
+          },
+          "coords": [
+            1.394513,
+            46.033736
+          ],
+          "category": "natural",
+          "arrive_at": "17:24",
+          "stay_min": 105,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieses großen Sees, der die umliegenden Hügel widerspiegelt, ideal für die Naturfotografie am späten Nachmittag.",
+            "hu": "Élvezze e nagy tó békés atmoszféráját, amely tükrözi a környező dombokat, így ideális késő délutáni helyszín a természetfotózáshoz.",
+            "ro": "Bucurați-vă de atmosfera pașnică a acestui lac mare care reflectă dealurile din jur, fiind un loc ideal după-amiaza pentru fotografia de natură.",
+            "en": "Enjoy the peaceful atmosphere of this large lake that reflects the surrounding hills, making it an ideal late-afternoon spot for nature photography."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag am alten Dolmen de la Lieue und fahren Sie flott ins Herz von Ambazac. Mittags erkunden Sie das Château de Montméry und die sanften Hänge der Monts. Verbringen Sie den Nachmittag bei den Ruinen der Abtei Grandmont und dem Étang de l'Âne. Bei Sonnenuntergang können Sie am weitläufigen und spiegelnden Étang de Pierre Millier entspannen.",
+        "hu": "Kezdje kerékpáros napját az ősi Dolmen de la Lieue-nél, majd haladjon Ambazac szívébe. Ebédidőben fedezze fel a Château de Montméry-t és a Monts lankáit. Délután fedezze fel a Grandmont apátság romjait, és haladjon el a szép Étang de l'Âne mellett. Naplemente idején pihenjen meg a tágas és visszatükröződő Étang de Pierre Millier partján.",
+        "ro": "Începeți ziua de ciclism la vechiul Dolmen de la Lieue, deplasându-vă rapid spre centrul Ambazac. La prânz, explorați Château de Montméry și pantele ușoare ale Monts. Petreceți-vă după-amiaza descoperind ruinele abației Grandmont și trecând pe lângă frumosul Étang de l'Âne. La apus, relaxați-vă lângă întinsul Étang de Pierre Millier.",
+        "en": "Kick off your cycling day at the ancient Dolmen de la Lieue, moving swiftly to the heart of Ambazac. Around lunchtime, explore the elegant Château de Montméry and tackle the gentle slopes of the Monts. Spend your afternoon uncovering the monastic ruins of Grandmont Abbey and passing the lovely Étang de l'Âne. As the sun sets, relax by the expansive and reflective Étang de Pierre Millier."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:58",
+      "total_km": 17.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Plan d'eau du Soleil Levant",
+            "hu": "Plan d'eau du Soleil Levant",
+            "ro": "Plan d'eau du Soleil Levant",
+            "en": "Plan d'eau du Soleil Levant"
+          },
+          "coords": [
+            1.439473,
+            45.919755
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem schönen Gewässer mit gemütlichen Spazierwegen und holen Sie sich in der Nähe einen Kaffee vor Ihrem Abenteuer.",
+            "hu": "Kezdje a napot ennél a kellemes, sétányokkal övezett víztömegnél, és igyon meg egy kávét a közelben, mielőtt belevágna a városi kalandba.",
+            "ro": "Începeți-vă ziua la acest plan de apă plăcut, cu alei de promenadă, și savurați o cafea în apropiere înainte de a porni în aventura urbană.",
+            "en": "Start your day at this pleasant body of water featuring leisurely walking paths, and grab a coffee nearby before embarking on your city adventure."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen de la Lieue",
+            "hu": "Dolmen de la Lieue",
+            "ro": "Dolmen de la Lieue",
+            "en": "Dolmen de la Lieue"
+          },
+          "coords": [
+            1.36969,
+            45.945798
+          ],
+          "category": "historical",
+          "arrive_at": "10:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Stehen Sie vor diesem prähistorischen Megalithen, der alte Siedlungen markiert, und bringen Sie ein Weitwinkelobjektiv für das perfekte Foto mit.",
+            "hu": "Álljon meg e lenyűgöző őskori megalit előtt, és fontolja meg egy nagylátószögű objektív használatát, hogy teljes egészében megörökíthesse.",
+            "ro": "Stați în fața acestui impresionant megalit preistoric care marchează așezări antice și luați un obiectiv cu unghi larg pentru a-i surprinde amploarea.",
+            "en": "Stand before this impressive prehistoric megalith that marks ancient settlements, and consider bringing a wide-angle lens to capture its full scale."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Antoine",
+            "hu": "Saint-Antoine templom",
+            "ro": "Biserica Saint-Antoine",
+            "en": "Saint-Antoine Church"
+          },
+          "coords": [
+            1.401162,
+            45.958158
+          ],
+          "category": "religious",
+          "arrive_at": "12:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die erhaltenen Reliquiare in dieser historischen Kirche und versuchen Sie, an einem ruhigen Morgen für das beste Licht vorbeizukommen.",
+            "hu": "Csodálja meg a fennmaradt ereklyetartókat ebben a történelmi templomban, és próbáljon meg egy csendes reggelen érkezni a legjobb fényviszonyokért.",
+            "ro": "Admirați relicvele conservate în această biserică istorică și încercați să o vizitați într-o dimineață liniștită pentru cea mai bună lumină.",
+            "en": "Admire the preserved reliquaries in this historic church, a key piece of local heritage, and try to visit on a quiet morning for the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Montméry",
+            "hu": "Château de Montméry",
+            "ro": "Château de Montméry",
+            "en": "Château de Montméry"
+          },
+          "coords": [
+            1.39194,
+            45.9706
+          ],
+          "category": "historical",
+          "arrive_at": "12:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie das elegante Gelände dieses Schlosses aus dem 19. Jahrhundert und bringen Sie bequeme Schuhe für die Schotterwege mit.",
+            "hu": "Fedezze fel a 19. századi kastély elegáns birtokát, amely a múltat tükrözi, és hozzon magával kényelmes cipőt a kavicsos ösvényekhez.",
+            "ro": "Explorați domeniul elegant al acestui castel din secolul al XIX-lea, reflectând trecutul aristocratic, și purtați încălțăminte confortabilă pentru alei.",
+            "en": "Explore the elegant grounds of this 19th-century castle, reflecting Ambazac's aristocratic past, and bring comfortable shoes for the gravel paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Monts d'Ambazac",
+            "hu": "Monts d'Ambazac",
+            "ro": "Monts d'Ambazac",
+            "en": "Monts d'Ambazac"
+          },
+          "coords": [
+            1.383333,
+            45.983333
+          ],
+          "category": "natural",
+          "arrive_at": "14:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Wandern Sie durch diese sanften Hügel mit herrlichem Panoramablick auf die Landschaft des Limousin und nehmen Sie genügend Wasser für die Wege mit.",
+            "hu": "Túrázzon végig ezeken a dombokon, amelyek lenyűgöző panorámát nyújtanak a Limousin vidékére, és ne felejtsen el elegendő vizet vinni az ösvényekre.",
+            "ro": "Faceți drumeții pe aceste dealuri care oferă vederi panoramice uimitoare ale peisajului Limousin, asigurându-vă că aveți suficientă apă la voi.",
+            "en": "Hike through these rolling hills that offer stunning panoramic views of the Limousin countryside, making sure to carry enough water for the trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Abtei Grandmont",
+            "hu": "Grandmont apátság",
+            "ro": "Abația Grandmont",
+            "en": "Grandmont Abbey"
+          },
+          "coords": [
+            1.39323,
+            45.99997
+          ],
+          "category": "monastic",
+          "arrive_at": "15:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Ruinen dieses einst mächtigen Klosterzentrums im Wald und nehmen Sie sich Zeit für die informativen Tafeln in der Umgebung.",
+            "hu": "Fedezze fel ennek az egykor hatalmas, erdőben megbúvó kolostorközpontnak a romjait, és szánjon időt a kihelyezett információs táblák elolvasására.",
+            "ro": "Descoperiți ruinele acestui centru monahal odinioară puternic, ascuns în pădure, și faceți-vă timp să citiți plăcuțele informative din jur.",
+            "en": "Discover the solemn ruins of this once-powerful monastic center hidden in the forest, taking time to read the informative plaques scattered around."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de l'Âne",
+            "hu": "Étang de l'Âne",
+            "ro": "Étang de l'Âne",
+            "en": "Étang de l'Âne"
+          },
+          "coords": [
+            1.386457,
+            46.011425
+          ],
+          "category": "natural",
+          "arrive_at": "16:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem ruhigen, von viel Grün umgebenen Teich, der sich ideal zur Vogelbeobachtung eignet, packen Sie also ein Fernglas ein.",
+            "hu": "Pihenjen a buja növényzettel körülvett nyugodt tó partján, amely tökéletes hely madármegfigyelésre, ezért ne felejtse el magával hozni a távcsövét.",
+            "ro": "Relaxați-vă lângă acest iaz liniștit înconjurat de verdeață, un loc perfect pentru observarea păsărilor, așa că nu uitați să luați un binoclu cu voi.",
+            "en": "Relax by this tranquil pond surrounded by lush greenery, a perfect spot for birdwatching, so remember to pack your binoculars for the best experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de Pierre Millier",
+            "hu": "Étang de Pierre Millier",
+            "ro": "Étang de Pierre Millier",
+            "en": "Étang de Pierre Millier"
+          },
+          "coords": [
+            1.394513,
+            46.033736
+          ],
+          "category": "natural",
+          "arrive_at": "18:13",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieses großen Sees, der die umliegenden Hügel widerspiegelt, ideal für die Naturfotografie am späten Nachmittag.",
+            "hu": "Élvezze e nagy tó békés atmoszféráját, amely tükrözi a környező dombokat, így ideális késő délutáni helyszín a természetfotózáshoz.",
+            "ro": "Bucurați-vă de atmosfera pașnică a acestui lac mare care reflectă dealurile din jur, fiind un loc ideal după-amiaza pentru fotografia de natură.",
+            "en": "Enjoy the peaceful atmosphere of this large lake that reflects the surrounding hills, making it an ideal late-afternoon spot for nature photography."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt im Südosten am Plan d'eau du Soleil Levant, gefolgt vom Dolmen de la Lieue. Mittags geht es in den Stadtkern zur Kirche und zum Château de Montméry. Die Fahrt am Nachmittag führt durch die Monts d'Ambazac zur historischen Abtei Grandmont. Am Abend besuchen Sie den Étang de l'Âne, bevor Sie die Dämmerung am Étang de Pierre Millier genießen.",
+        "hu": "Az autós túra délkeleten, a Plan d'eau du Soleil Levantnál kezdődik, majd a Dolmen de la Lieue következik. Délben a városközpontban a templomot és a Château de Montméryt keresi fel. A délutáni út a Monts d'Ambazac hegyein át a Grandmont apátsághoz vezet. Este látogasson el az Étang de l'Âne-hoz, majd élvezze az alkonyatot az Étang de Pierre Milliernél.",
+        "ro": "Călătoria cu mașina începe la sud-est, la Plan d'eau du Soleil Levant, urmat de Dolmen de la Lieue. La amiază vă mutați în centrul orașului pentru Biserică și Château de Montméry. Traseul de după-amiază trece prin Monts d'Ambazac spre Abația Grandmont. Seara, vizitați Étang de l'Âne înainte de a vă bucura de liniștea crepusculului la Étang de Pierre Millier.",
+        "en": "Your drive begins southeast at the refreshing Plan d'eau du Soleil Levant, followed by the ancient Dolmen de la Lieue. Midday shifts to the town's core for the Church and Château de Montméry. The afternoon drive sweeps through the Monts d'Ambazac to the historic Grandmont Abbey. In the evening, visit Étang de l'Âne before enjoying the twilight serenity at Étang de Pierre Millier."
+      }
+    }
+  }
+}

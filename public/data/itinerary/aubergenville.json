@@ -1,0 +1,497 @@
+{
+  "city_id": "aubergenville",
+  "anchor": {
+    "name": "Aubergenville",
+    "coords": [
+      1.855,
+      48.9583
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 2.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Gartenstadt Élisabethville",
+            "hu": "Élisabethville kertváros",
+            "ro": "Orașul grădină Élisabethville",
+            "en": "Élisabethville Garden City"
+          },
+          "coords": [
+            1.846633,
+            48.973496
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historische Viertel mit seinem einzigartigen städtebaulichen Konzept und achten Sie bei einem gemütlichen Spaziergang auf die charmanten Hausfassaden.",
+            "hu": "Fedezze fel ezt az egyedülálló várostervezési koncepciót tükröző történelmi negyedet, és egy kellemes séta során figyelje meg a bájos, régi házhomlokzatokat.",
+            "ro": "Explorați acest cartier istoric renumit pentru conceptul său urbanistic unic și plimbați-vă pe îndelete pentru a observa detaliile fermecătoare ale fațadelor vechi.",
+            "en": "Explore this historic district known for its unique urban planning concept, and take a leisurely stroll to fully appreciate the charming details of the old facades."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Theresia-Kirche",
+            "hu": "Szent Teréz templom",
+            "ro": "Biserica Sfânta Tereza",
+            "en": "Saint Theresa Church"
+          },
+          "coords": [
+            1.845956,
+            48.976319
+          ],
+          "category": "religious",
+          "arrive_at": "10:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur dieser beeindruckenden Kirche, die ein Symbol der Erneuerung ist, und besuchen Sie sie am besten im hellen Morgenlicht.",
+            "hu": "Csodálja meg a megújulás szimbólumaként ismert, modern építészeti stílusban épült templomot, és a legszebb fényekért érkezzen a kora reggeli órákban.",
+            "ro": "Admirați arhitectura modernă a acestei biserici impresionante, simbol al reînnoirii, și vizitați-o dimineața devreme pentru a vă bucura de cea mai bună lumină.",
+            "en": "Admire the modern architecture of this impressive church, a true symbol of renewal, and aim to visit in the early morning to catch the most beautiful natural light."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Bains de Seine Mauldre",
+            "hu": "Les Bains de Seine Mauldre",
+            "ro": "Les Bains de Seine Mauldre",
+            "en": "Les Bains de Seine Mauldre"
+          },
+          "coords": [
+            1.854417,
+            48.963623
+          ],
+          "category": "family",
+          "arrive_at": "11:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie eine erholsame Auszeit in dieser familienfreundlichen Anlage am Wasser und packen Sie unbedingt Badesachen für ein erfrischendes Erlebnis ein.",
+            "hu": "Töltsön el egy pihentető időszakot ebben a vízparti, családbarát komplexumban, és mindenképpen hozzon magával fürdőruhát a frissítő élmény érdekében.",
+            "ro": "Bucurați-vă de o pauză relaxantă în acest complex de agrement potrivit pentru familii și nu uitați să vă aduceți costumul de baie pentru o experiență răcoritoare.",
+            "en": "Enjoy a relaxing break at this family-friendly waterfront leisure complex, and be sure to pack your swimsuit for a refreshing and fun-filled aquatic experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Ouen",
+            "hu": "Saint-Ouen templom",
+            "ro": "Biserica Saint-Ouen",
+            "en": "Église Saint-Ouen"
+          },
+          "coords": [
+            1.854608,
+            48.959508
+          ],
+          "category": "religious",
+          "arrive_at": "13:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die spirituelle Ruhe dieser historischen Kirche und achten Sie besonders auf die detaillierten Holzschnitzereien, die den Altarraum kunstvoll schmücken.",
+            "hu": "Fedezze fel e történelmi templom spirituális nyugalmát, és fordítson különös figyelmet a szentélyt művészien díszítő, aprólékosan kidolgozott fafaragásokra.",
+            "ro": "Descoperiți liniștea spirituală a acestei biserici istorice și acordați o atenție deosebită sculpturilor detaliate în lemn care decorează cu măiestrie sanctuarul.",
+            "en": "Discover the spiritual tranquility of this historic church, and pay special attention to the detailed wood carvings that artfully decorate the elegant sanctuary area."
+          }
+        },
+        {
+          "name": {
+            "de": "Theater de la Nacelle",
+            "hu": "Théâtre de la Nacelle",
+            "ro": "Teatrul de la Nacelle",
+            "en": "Théâtre de la Nacelle"
+          },
+          "coords": [
+            1.850382,
+            48.958141
+          ],
+          "category": "cultural",
+          "arrive_at": "14:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das kulturelle Leben ein und bewundern Sie dieses moderne Theatergebäude; informieren Sie sich vorab über das aktuelle Programm für Abendveranstaltungen.",
+            "hu": "Merüljön el a kulturális életben ennek a modern színházépületnek a megcsodálásával, és mindenképpen tájékozódjon előre az esti előadások aktuális programjáról.",
+            "ro": "Cufundați-vă în viața culturală admirând această clădire modernă de teatru și verificați programul actual în avans pentru a prinde un spectacol minunat de seară.",
+            "en": "Immerse yourself in the local cultural life by admiring this modern theater building, and check the current schedule in advance to catch an engaging evening performance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer Erkundung der ruhigen Viertel und historischen Gebäude, die den einzigartigen Charakter von Aubergenville prägen.\nAm Mittag bietet sich eine entspannte Pause in der Nähe der Freizeitbäder an, wo Sie neue Energie für die kommenden Entdeckungen tanken können.\nDer Nachmittag führt Sie zu weiteren kulturellen und religiösen Sehenswürdigkeiten, die spannende Einblicke in die lokale Geschichte gewähren.\nLassen Sie den Tag bei einem gemütlichen Spaziergang in der Nähe des Theaters oder Schlosses ausklingen und genießen Sie die abendliche Atmosphäre.",
+        "hu": "Kezdje a napot Aubergenville békés negyedeinek és történelmi épületeinek felfedezésével, amelyek megadják a város egyedi és varázslatos karakterét.\nDélben érdemes egy pihentető szünetet tartani a szabadidőközpont közelében, ahol felfrissülhet és energiát gyűjthet a délutáni programokhoz.\nA délután folyamán további kulturális és vallási látnivalók várják, amelyek mélyebb bepillantást engednek a helyi történelem gazdag múltjába.\nZárja a napot egy kellemes esti sétával a színház vagy a kastély környékén, és élvezze a város csendes, lelassult esti hangulatát.",
+        "ro": "Începeți ziua explorând cartierele liniștite și clădirile istorice care conferă orașului Aubergenville caracterul său unic și plin de farmec.\nLa prânz, o pauză relaxantă în apropierea complexului de agrement este perfectă pentru a vă reîncărca bateriile pentru următoarele descoperiri.\nDupă-amiaza vă poartă către alte atracții culturale și religioase, oferind o perspectivă captivantă asupra istoriei locale și a comunității.\nÎncheiați ziua cu o plimbare plăcută pe lângă teatru sau castel, bucurându-vă de atmosfera senină și relaxantă a serii în acest oraș pitoresc.",
+        "en": "Begin your day by exploring the peaceful neighborhoods and historic buildings that give Aubergenville its unique and truly charming character.\nAt midday, take a relaxing break near the local leisure complex, providing the perfect opportunity to recharge your energy for more discoveries.\nThe afternoon leads you to further cultural and religious sights, offering fascinating insights into the rich local history and community life.\nEnd your day with a leisurely evening stroll near the modern theater or the majestic castle, soaking in the serene and relaxing evening atmosphere."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:58",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schloss Montgardé",
+            "hu": "Montgardé kastély",
+            "ro": "Castelul Montgardé",
+            "en": "Château de Montgardé"
+          },
+          "coords": [
+            1.841866,
+            48.947495
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposante Architektur dieses historischen Schlosses und spazieren Sie durch die umliegenden Gärten, um die besten Fotomotive des Anwesens zu finden.",
+            "hu": "Csodálja meg e történelmi kastély lenyűgöző építészetét, és tegyen egy kellemes sétát a környező kertekben, hogy megtalálja a birtok legjobb fotós helyszíneit.",
+            "ro": "Admirați arhitectura impunătoare a acestui castel istoric și plimbați-vă prin grădinile înconjurătoare pentru a descoperi cele mai bune unghiuri pentru fotografii.",
+            "en": "Admire the imposing architecture of this historic castle, and take a relaxing stroll through the surrounding gardens to find the best photographic spots on the estate."
+          }
+        },
+        {
+          "name": {
+            "de": "Theater de la Nacelle",
+            "hu": "Théâtre de la Nacelle",
+            "ro": "Teatrul de la Nacelle",
+            "en": "Théâtre de la Nacelle"
+          },
+          "coords": [
+            1.850382,
+            48.958141
+          ],
+          "category": "cultural",
+          "arrive_at": "10:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das kulturelle Leben ein und bewundern Sie dieses moderne Theatergebäude; informieren Sie sich vorab über das aktuelle Programm für Abendveranstaltungen.",
+            "hu": "Merüljön el a kulturális életben ennek a modern színházépületnek a megcsodálásával, és mindenképpen tájékozódjon előre az esti előadások aktuális programjáról.",
+            "ro": "Cufundați-vă în viața culturală admirând această clădire modernă de teatru și verificați programul actual în avans pentru a prinde un spectacol minunat de seară.",
+            "en": "Immerse yourself in the local cultural life by admiring this modern theater building, and check the current schedule in advance to catch an engaging evening performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Ouen",
+            "hu": "Saint-Ouen templom",
+            "ro": "Biserica Saint-Ouen",
+            "en": "Église Saint-Ouen"
+          },
+          "coords": [
+            1.854608,
+            48.959508
+          ],
+          "category": "religious",
+          "arrive_at": "11:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die spirituelle Ruhe dieser historischen Kirche und achten Sie besonders auf die detaillierten Holzschnitzereien, die den Altarraum kunstvoll schmücken.",
+            "hu": "Fedezze fel e történelmi templom spirituális nyugalmát, és fordítson különös figyelmet a szentélyt művészien díszítő, aprólékosan kidolgozott fafaragásokra.",
+            "ro": "Descoperiți liniștea spirituală a acestei biserici istorice și acordați o atenție deosebită sculpturilor detaliate în lemn care decorează cu măiestrie sanctuarul.",
+            "en": "Discover the spiritual tranquility of this historic church, and pay special attention to the detailed wood carvings that artfully decorate the elegant sanctuary area."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Bains de Seine Mauldre",
+            "hu": "Les Bains de Seine Mauldre",
+            "ro": "Les Bains de Seine Mauldre",
+            "en": "Les Bains de Seine Mauldre"
+          },
+          "coords": [
+            1.854417,
+            48.963623
+          ],
+          "category": "family",
+          "arrive_at": "12:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie eine erholsame Auszeit in dieser familienfreundlichen Anlage am Wasser und packen Sie unbedingt Badesachen für ein erfrischendes Erlebnis ein.",
+            "hu": "Töltsön el egy pihentető időszakot ebben a vízparti, családbarát komplexumban, és mindenképpen hozzon magával fürdőruhát a frissítő élmény érdekében.",
+            "ro": "Bucurați-vă de o pauză relaxantă în acest complex de agrement potrivit pentru familii și nu uitați să vă aduceți costumul de baie pentru o experiență răcoritoare.",
+            "en": "Enjoy a relaxing break at this family-friendly waterfront leisure complex, and be sure to pack your swimsuit for a refreshing and fun-filled aquatic experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Gartenstadt Élisabethville",
+            "hu": "Élisabethville kertváros",
+            "ro": "Orașul grădină Élisabethville",
+            "en": "Élisabethville Garden City"
+          },
+          "coords": [
+            1.846633,
+            48.973496
+          ],
+          "category": "historical",
+          "arrive_at": "14:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historische Viertel mit seinem einzigartigen städtebaulichen Konzept und achten Sie bei einem gemütlichen Spaziergang auf die charmanten Hausfassaden.",
+            "hu": "Fedezze fel ezt az egyedülálló várostervezési koncepciót tükröző történelmi negyedet, és egy kellemes séta során figyelje meg a bájos, régi házhomlokzatokat.",
+            "ro": "Explorați acest cartier istoric renumit pentru conceptul său urbanistic unic și plimbați-vă pe îndelete pentru a observa detaliile fermecătoare ale fațadelor vechi.",
+            "en": "Explore this historic district known for its unique urban planning concept, and take a leisurely stroll to fully appreciate the charming details of the old facades."
+          }
+        },
+        {
+          "name": {
+            "de": "St.-Theresia-Kirche",
+            "hu": "Szent Teréz templom",
+            "ro": "Biserica Sfânta Tereza",
+            "en": "Saint Theresa Church"
+          },
+          "coords": [
+            1.845956,
+            48.976319
+          ],
+          "category": "religious",
+          "arrive_at": "15:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur dieser beeindruckenden Kirche, die ein Symbol der Erneuerung ist, und besuchen Sie sie am besten im hellen Morgenlicht.",
+            "hu": "Csodálja meg a megújulás szimbólumaként ismert, modern építészeti stílusban épült templomot, és a legszebb fényekért érkezzen a kora reggeli órákban.",
+            "ro": "Admirați arhitectura modernă a acestei biserici impresionante, simbol al reînnoirii, și vizitați-o dimineața devreme pentru a vă bucura de cea mai bună lumină.",
+            "en": "Admire the modern architecture of this impressive church, a true symbol of renewal, and aim to visit in the early morning to catch the most beautiful natural light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer Erkundung der ruhigen Viertel und historischen Gebäude, die den einzigartigen Charakter von Aubergenville prägen.\nAm Mittag bietet sich eine entspannte Pause in der Nähe der Freizeitbäder an, wo Sie neue Energie für die kommenden Entdeckungen tanken können.\nDer Nachmittag führt Sie zu weiteren kulturellen und religiösen Sehenswürdigkeiten, die spannende Einblicke in die lokale Geschichte gewähren.\nLassen Sie den Tag bei einem gemütlichen Spaziergang in der Nähe des Theaters oder Schlosses ausklingen und genießen Sie die abendliche Atmosphäre.",
+        "hu": "Kezdje a napot Aubergenville békés negyedeinek és történelmi épületeinek felfedezésével, amelyek megadják a város egyedi és varázslatos karakterét.\nDélben érdemes egy pihentető szünetet tartani a szabadidőközpont közelében, ahol felfrissülhet és energiát gyűjthet a délutáni programokhoz.\nA délután folyamán további kulturális és vallási látnivalók várják, amelyek mélyebb bepillantást engednek a helyi történelem gazdag múltjába.\nZárja a napot egy kellemes esti sétával a színház vagy a kastély környékén, és élvezze a város csendes, lelassult esti hangulatát.",
+        "ro": "Începeți ziua explorând cartierele liniștite și clădirile istorice care conferă orașului Aubergenville caracterul său unic și plin de farmec.\nLa prânz, o pauză relaxantă în apropierea complexului de agrement este perfectă pentru a vă reîncărca bateriile pentru următoarele descoperiri.\nDupă-amiaza vă poartă către alte atracții culturale și religioase, oferind o perspectivă captivantă asupra istoriei locale și a comunității.\nÎncheiați ziua cu o plimbare plăcută pe lângă teatru sau castel, bucurându-vă de atmosfera senină și relaxantă a serii în acest oraș pitoresc.",
+        "en": "Begin your day by exploring the peaceful neighborhoods and historic buildings that give Aubergenville its unique and truly charming character.\nAt midday, take a relaxing break near the local leisure complex, providing the perfect opportunity to recharge your energy for more discoveries.\nThe afternoon leads you to further cultural and religious sights, offering fascinating insights into the rich local history and community life.\nEnd your day with a leisurely evening stroll near the modern theater or the majestic castle, soaking in the serene and relaxing evening atmosphere."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:11",
+      "total_km": 7.6,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "St.-Theresia-Kirche",
+            "hu": "Szent Teréz templom",
+            "ro": "Biserica Sfânta Tereza",
+            "en": "Saint Theresa Church"
+          },
+          "coords": [
+            1.845956,
+            48.976319
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur dieser beeindruckenden Kirche, die ein Symbol der Erneuerung ist, und besuchen Sie sie am besten im hellen Morgenlicht.",
+            "hu": "Csodálja meg a megújulás szimbólumaként ismert, modern építészeti stílusban épült templomot, és a legszebb fényekért érkezzen a kora reggeli órákban.",
+            "ro": "Admirați arhitectura modernă a acestei biserici impresionante, simbol al reînnoirii, și vizitați-o dimineața devreme pentru a vă bucura de cea mai bună lumină.",
+            "en": "Admire the modern architecture of this impressive church, a true symbol of renewal, and aim to visit in the early morning to catch the most beautiful natural light."
+          }
+        },
+        {
+          "name": {
+            "de": "Gartenstadt Élisabethville",
+            "hu": "Élisabethville kertváros",
+            "ro": "Orașul grădină Élisabethville",
+            "en": "Élisabethville Garden City"
+          },
+          "coords": [
+            1.846633,
+            48.973496
+          ],
+          "category": "historical",
+          "arrive_at": "09:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historische Viertel mit seinem einzigartigen städtebaulichen Konzept und achten Sie bei einem gemütlichen Spaziergang auf die charmanten Hausfassaden.",
+            "hu": "Fedezze fel ezt az egyedülálló várostervezési koncepciót tükröző történelmi negyedet, és egy kellemes séta során figyelje meg a bájos, régi házhomlokzatokat.",
+            "ro": "Explorați acest cartier istoric renumit pentru conceptul său urbanistic unic și plimbați-vă pe îndelete pentru a observa detaliile fermecătoare ale fațadelor vechi.",
+            "en": "Explore this historic district known for its unique urban planning concept, and take a leisurely stroll to fully appreciate the charming details of the old facades."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Bains de Seine Mauldre",
+            "hu": "Les Bains de Seine Mauldre",
+            "ro": "Les Bains de Seine Mauldre",
+            "en": "Les Bains de Seine Mauldre"
+          },
+          "coords": [
+            1.854417,
+            48.963623
+          ],
+          "category": "family",
+          "arrive_at": "11:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie eine erholsame Auszeit in dieser familienfreundlichen Anlage am Wasser und packen Sie unbedingt Badesachen für ein erfrischendes Erlebnis ein.",
+            "hu": "Töltsön el egy pihentető időszakot ebben a vízparti, családbarát komplexumban, és mindenképpen hozzon magával fürdőruhát a frissítő élmény érdekében.",
+            "ro": "Bucurați-vă de o pauză relaxantă în acest complex de agrement potrivit pentru familii și nu uitați să vă aduceți costumul de baie pentru o experiență răcoritoare.",
+            "en": "Enjoy a relaxing break at this family-friendly waterfront leisure complex, and be sure to pack your swimsuit for a refreshing and fun-filled aquatic experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Cloud",
+            "hu": "Saint-Cloud templom",
+            "ro": "Biserica Saint-Cloud",
+            "en": "Église Saint-Cloud"
+          },
+          "coords": [
+            1.870931,
+            48.961053
+          ],
+          "category": "religious",
+          "arrive_at": "12:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese charmante Kirche mit ihrer friedlichen Atmosphäre und nehmen Sie sich einen Moment Zeit, um die wunderschönen Buntglasfenster im Inneren zu studieren.",
+            "hu": "Látogassa meg ezt a békés hangulatot árasztó, bájos templomot, és szánjon egy kis időt a belső tér csodálatos ólomüveg ablakainak alapos megfigyelésére.",
+            "ro": "Vizitați această biserică fermecătoare cu o atmosferă liniștită și acordați-vă un moment pentru a admira frumoasele vitralii colorate din interiorul său primitor.",
+            "en": "Visit this charming church known for its peaceful atmosphere, and take a moment to carefully study the beautiful stained glass windows that adorn its welcoming interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Laser Games Action",
+            "hu": "Laser Games Action",
+            "ro": "Laser Games Action",
+            "en": "Laser Games Action"
+          },
+          "coords": [
+            1.870254,
+            48.968988
+          ],
+          "category": "family",
+          "arrive_at": "13:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erleben Sie ein spannendes Abenteuer in dieser modernen Lasertag-Arena, die Spaß für die ganze Familie bietet, und buchen Sie Ihr Ticket am besten im Voraus.",
+            "hu": "Éljen át egy izgalmas kalandot ebben az egész család számára szórakozást nyújtó, modern lézerharc-arénában, és a biztos bejutásért foglaljon jegyet előre.",
+            "ro": "Trăiți o aventură palpitantă în această arenă modernă de laser tag, perfectă pentru întreaga familie, și rezervați-vă biletele în avans pentru a evita cozile.",
+            "en": "Experience a thrilling adventure in this modern laser tag arena that offers fun for the whole family, and consider booking your tickets in advance to secure a spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Ouen",
+            "hu": "Saint-Ouen templom",
+            "ro": "Biserica Saint-Ouen",
+            "en": "Église Saint-Ouen"
+          },
+          "coords": [
+            1.854608,
+            48.959508
+          ],
+          "category": "religious",
+          "arrive_at": "15:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die spirituelle Ruhe dieser historischen Kirche und achten Sie besonders auf die detaillierten Holzschnitzereien, die den Altarraum kunstvoll schmücken.",
+            "hu": "Fedezze fel e történelmi templom spirituális nyugalmát, és fordítson különös figyelmet a szentélyt művészien díszítő, aprólékosan kidolgozott fafaragásokra.",
+            "ro": "Descoperiți liniștea spirituală a acestei biserici istorice și acordați o atenție deosebită sculpturilor detaliate în lemn care decorează cu măiestrie sanctuarul.",
+            "en": "Discover the spiritual tranquility of this historic church, and pay special attention to the detailed wood carvings that artfully decorate the elegant sanctuary area."
+          }
+        },
+        {
+          "name": {
+            "de": "Theater de la Nacelle",
+            "hu": "Théâtre de la Nacelle",
+            "ro": "Teatrul de la Nacelle",
+            "en": "Théâtre de la Nacelle"
+          },
+          "coords": [
+            1.850382,
+            48.958141
+          ],
+          "category": "cultural",
+          "arrive_at": "16:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das kulturelle Leben ein und bewundern Sie dieses moderne Theatergebäude; informieren Sie sich vorab über das aktuelle Programm für Abendveranstaltungen.",
+            "hu": "Merüljön el a kulturális életben ennek a modern színházépületnek a megcsodálásával, és mindenképpen tájékozódjon előre az esti előadások aktuális programjáról.",
+            "ro": "Cufundați-vă în viața culturală admirând această clădire modernă de teatru și verificați programul actual în avans pentru a prinde un spectacol minunat de seară.",
+            "en": "Immerse yourself in the local cultural life by admiring this modern theater building, and check the current schedule in advance to catch an engaging evening performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Montgardé",
+            "hu": "Montgardé kastély",
+            "ro": "Castelul Montgardé",
+            "en": "Château de Montgardé"
+          },
+          "coords": [
+            1.841866,
+            48.947495
+          ],
+          "category": "landmark",
+          "arrive_at": "17:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposante Architektur dieses historischen Schlosses und spazieren Sie durch die umliegenden Gärten, um die besten Fotomotive des Anwesens zu finden.",
+            "hu": "Csodálja meg e történelmi kastély lenyűgöző építészetét, és tegyen egy kellemes sétát a környező kertekben, hogy megtalálja a birtok legjobb fotós helyszíneit.",
+            "ro": "Admirați arhitectura impunătoare a acestui castel istoric și plimbați-vă prin grădinile înconjurătoare pentru a descoperi cele mai bune unghiuri pentru fotografii.",
+            "en": "Admire the imposing architecture of this historic castle, and take a relaxing stroll through the surrounding gardens to find the best photographic spots on the estate."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer Erkundung der ruhigen Viertel und historischen Gebäude, die den einzigartigen Charakter von Aubergenville prägen.\nAm Mittag bietet sich eine entspannte Pause in der Nähe der Freizeitbäder an, wo Sie neue Energie für die kommenden Entdeckungen tanken können.\nDer Nachmittag führt Sie zu weiteren kulturellen und religiösen Sehenswürdigkeiten, die spannende Einblicke in die lokale Geschichte gewähren.\nLassen Sie den Tag bei einem gemütlichen Spaziergang in der Nähe des Theaters oder Schlosses ausklingen und genießen Sie die abendliche Atmosphäre.",
+        "hu": "Kezdje a napot Aubergenville békés negyedeinek és történelmi épületeinek felfedezésével, amelyek megadják a város egyedi és varázslatos karakterét.\nDélben érdemes egy pihentető szünetet tartani a szabadidőközpont közelében, ahol felfrissülhet és energiát gyűjthet a délutáni programokhoz.\nA délután folyamán további kulturális és vallási látnivalók várják, amelyek mélyebb bepillantást engednek a helyi történelem gazdag múltjába.\nZárja a napot egy kellemes esti sétával a színház vagy a kastély környékén, és élvezze a város csendes, lelassult esti hangulatát.",
+        "ro": "Începeți ziua explorând cartierele liniștite și clădirile istorice care conferă orașului Aubergenville caracterul său unic și plin de farmec.\nLa prânz, o pauză relaxantă în apropierea complexului de agrement este perfectă pentru a vă reîncărca bateriile pentru următoarele descoperiri.\nDupă-amiaza vă poartă către alte atracții culturale și religioase, oferind o perspectivă captivantă asupra istoriei locale și a comunității.\nÎncheiați ziua cu o plimbare plăcută pe lângă teatru sau castel, bucurându-vă de atmosfera senină și relaxantă a serii în acest oraș pitoresc.",
+        "en": "Begin your day by exploring the peaceful neighborhoods and historic buildings that give Aubergenville its unique and truly charming character.\nAt midday, take a relaxing break near the local leisure complex, providing the perfect opportunity to recharge your energy for more discoveries.\nThe afternoon leads you to further cultural and religious sights, offering fascinating insights into the rich local history and community life.\nEnd your day with a leisurely evening stroll near the modern theater or the majestic castle, soaking in the serene and relaxing evening atmosphere."
+      }
+    }
+  }
+}

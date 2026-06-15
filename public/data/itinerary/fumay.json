@@ -1,0 +1,474 @@
+{
+  "city_id": "fumay",
+  "anchor": {
+    "name": "Fumay",
+    "coords": [
+      4.7069,
+      49.9936
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:20",
+      "total_km": 3.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Georges Church",
+            "hu": "Saint-Georges Church",
+            "ro": "Saint-Georges Church",
+            "en": "Saint-Georges Church"
+          },
+          "coords": [
+            4.707845,
+            49.993554
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser historischen Kirche im Zentrum und achten Sie auf das schwarze Brett für lokale Choraufführungen in der Gemeinde.",
+            "hu": "Csodálja meg e történelmi templom lenyűgöző építészetét a központban, és mindenképpen nézze meg a hirdetőtáblát a helyi kóruselőadások időpontjaiért.",
+            "ro": "Admirați arhitectura uimitoare a acestei biserici istorice și nu uitați să verificați avizierul pentru a vedea programul spectacolelor corale locale.",
+            "en": "Admire the stunning architecture of this historic church that anchors the town, and remember to check the notice board for any local choral performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Château des Comtes-de-Bryas (Ancien)",
+            "hu": "Château des Comtes-de-Bryas (Ancien)",
+            "ro": "Château des Comtes-de-Bryas (Ancien)",
+            "en": "Château des Comtes-de-Bryas (Ancien)"
+          },
+          "coords": [
+            4.703933,
+            49.993571
+          ],
+          "category": "castle",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieses Schlosses mit seiner adeligen Vergangenheit; tragen Sie festes Schuhwerk, da die Wege sehr uneben sein können.",
+            "hu": "Fedezze fel e nagyszerű kastély romjait, melyek a nemes múltról mesélnek, de viseljen kényelmes cipőt, mivel a környező ösvények meglehetősen egyenetlenek.",
+            "ro": "Explorați rămășițele acestui castel care spune povești despre trecutul nobil, dar purtați încălțăminte solidă, deoarece cărările din jur sunt denivelate.",
+            "en": "Explore the remnants of this grand castle that tells tales of noble pasts, but wear sturdy shoes as the surrounding pathways can be quite uneven to walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de l’ardoise Michel Paradon",
+            "hu": "Musée de l’ardoise Michel Paradon",
+            "ro": "Musée de l’ardoise Michel Paradon",
+            "en": "Musée de l’ardoise Michel Paradon"
+          },
+          "coords": [
+            4.706966,
+            49.995172
+          ],
+          "category": "museum",
+          "arrive_at": "11:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier die faszinierende Geschichte des Schieferabbaus der Region und holen Sie sich am Eingang eine englische Broschüre für mehr Kontext.",
+            "hu": "Ismerje meg a régió palabányászatának történetét e lenyűgöző kiállításon, és a jobb megértés érdekében kérjen egy angol nyelvű brosúrát a bejáratnál.",
+            "ro": "Descoperiți istoria extracției de ardezie din regiune prin exponate fascinante și luați o broșură detaliată în limba engleză de la intrare.",
+            "en": "Discover the region's slate mining history through fascinating exhibits here, and grab a detailed English brochure at the entrance for better context."
+          }
+        },
+        {
+          "name": {
+            "de": "Diversmonts, dit du Relais",
+            "hu": "Diversmonts, dit du Relais",
+            "ro": "Diversmonts, dit du Relais",
+            "en": "Diversmonts, dit du Relais"
+          },
+          "coords": [
+            4.694885,
+            49.993139
+          ],
+          "category": "natural",
+          "arrive_at": "13:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Naturschönheit und die frische Luft dieser Landschaft; bringen Sie eine leichte Jacke mit, da die Brise recht kühl sein kann.",
+            "hu": "Élvezze a békés táj nyújtotta természeti szépséget és friss levegőt; feltétlenül hozzon magával egy vékony kabátot, mert a szellő hűvös lehet.",
+            "ro": "Bucurați-vă de frumusețea naturală și de aerul proaspăt al acestui peisaj liniștit, dar asigurați-vă că aduceți o jachetă, deoarece briza poate fi rece.",
+            "en": "Take in the serene natural beauty and fresh air of this peaceful landscape, making sure to bring a light jacket as the gentle breeze can feel quite cool."
+          }
+        },
+        {
+          "name": {
+            "de": "Fumay Marina",
+            "hu": "Fumay Marina",
+            "ro": "Fumay Marina",
+            "en": "Fumay Marina"
+          },
+          "coords": [
+            4.717156,
+            49.983802
+          ],
+          "category": "recreational",
+          "arrive_at": "14:25",
+          "stay_min": 55,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Boote an diesem charmanten Erholungsort am Wasser und holen Sie sich einen frischen Kaffee von einem nahegelegenen Kiosk.",
+            "hu": "Nézze a csónakok ringatózását ezen a bájos vízparti pihenőhelyen, és vegyen egy frissen főzött kávét egy közeli pavilonban, amit a padon elfogyaszthat.",
+            "ro": "Urmăriți bărcile alunecând pe apă în acest loc fermecător și luați o cafea proaspătă de la un chioșc din apropiere pentru a o savura pe bancă.",
+            "en": "Watch the boats glide by along this charming recreational waterfront spot, and grab a freshly brewed coffee from a nearby kiosk to enjoy on the benches."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen in der historischen Kirche Saint-Georges, gefolgt vom antiken Château des Comtes-de-Bryas. Mittags entdecken Sie im Schiefermuseum die industrielle Vergangenheit von Fumay. Verbringen Sie den Nachmittag mit der Naturlandschaft von Diversmonts. Beenden Sie den Tag mit einem entspannenden Abendspaziergang am malerischen Jachthafen.",
+        "hu": "Kezdje a reggelt a történelmi Saint-Georges templomnál, majd fedezze fel a Château des Comtes-de-Bryas ősi várát. Délben a palabányászati múzeum nyújt bepillantást Fumay ipari múltjába. A délutánt töltse a Diversmonts csodálatos természeti környezetében. Zárja a napot egy pihentető esti sétával a festői szépségű kikötőben.",
+        "ro": "Începeți dimineața explorând istorica Biserică Saint-Georges, urmată de o vizită la vechiul Château des Comtes-de-Bryas. La prânz, descoperiți trecutul industrial al orașului la muzeul ardeziei. Petreceți după-amiaza bucurându-vă de peisajul natural de la Diversmonts. Încheiați ziua cu o plimbare relaxantă de seară în portul pitoresc din Fumay.",
+        "en": "Start your morning exploring the historic Saint-Georges Church, followed by a visit to the ancient Château des Comtes-de-Bryas. Midday brings you to the fascinating slate museum, uncovering Fumay's industrial past. Spend your afternoon enjoying the natural beauty at Diversmonts. Conclude the day with a relaxing evening stroll along the picturesque Fumay Marina."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:31",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Musée de l’ardoise Michel Paradon",
+            "hu": "Musée de l’ardoise Michel Paradon",
+            "ro": "Musée de l’ardoise Michel Paradon",
+            "en": "Musée de l’ardoise Michel Paradon"
+          },
+          "coords": [
+            4.706966,
+            49.995172
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier die faszinierende Geschichte des Schieferabbaus der Region und holen Sie sich am Eingang eine englische Broschüre für mehr Kontext.",
+            "hu": "Ismerje meg a régió palabányászatának történetét e lenyűgöző kiállításon, és a jobb megértés érdekében kérjen egy angol nyelvű brosúrát a bejáratnál.",
+            "ro": "Descoperiți istoria extracției de ardezie din regiune prin exponate fascinante și luați o broșură detaliată în limba engleză de la intrare.",
+            "en": "Discover the region's slate mining history through fascinating exhibits here, and grab a detailed English brochure at the entrance for better context."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Georges Church",
+            "hu": "Saint-Georges Church",
+            "ro": "Saint-Georges Church",
+            "en": "Saint-Georges Church"
+          },
+          "coords": [
+            4.707845,
+            49.993554
+          ],
+          "category": "religious",
+          "arrive_at": "10:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser historischen Kirche im Zentrum und achten Sie auf das schwarze Brett für lokale Choraufführungen in der Gemeinde.",
+            "hu": "Csodálja meg e történelmi templom lenyűgöző építészetét a központban, és mindenképpen nézze meg a hirdetőtáblát a helyi kóruselőadások időpontjaiért.",
+            "ro": "Admirați arhitectura uimitoare a acestei biserici istorice și nu uitați să verificați avizierul pentru a vedea programul spectacolelor corale locale.",
+            "en": "Admire the stunning architecture of this historic church that anchors the town, and remember to check the notice board for any local choral performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Château des Comtes-de-Bryas (Ancien)",
+            "hu": "Château des Comtes-de-Bryas (Ancien)",
+            "ro": "Château des Comtes-de-Bryas (Ancien)",
+            "en": "Château des Comtes-de-Bryas (Ancien)"
+          },
+          "coords": [
+            4.703933,
+            49.993571
+          ],
+          "category": "castle",
+          "arrive_at": "11:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieses Schlosses mit seiner adeligen Vergangenheit; tragen Sie festes Schuhwerk, da die Wege sehr uneben sein können.",
+            "hu": "Fedezze fel e nagyszerű kastély romjait, melyek a nemes múltról mesélnek, de viseljen kényelmes cipőt, mivel a környező ösvények meglehetősen egyenetlenek.",
+            "ro": "Explorați rămășițele acestui castel care spune povești despre trecutul nobil, dar purtați încălțăminte solidă, deoarece cărările din jur sunt denivelate.",
+            "en": "Explore the remnants of this grand castle that tells tales of noble pasts, but wear sturdy shoes as the surrounding pathways can be quite uneven to walk."
+          }
+        },
+        {
+          "name": {
+            "de": "La Platale",
+            "hu": "La Platale",
+            "ro": "La Platale",
+            "en": "La Platale"
+          },
+          "coords": [
+            4.715061,
+            49.998425
+          ],
+          "category": "natural",
+          "arrive_at": "13:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie eine ruhige Auszeit im üppigen Grün dieses wunderschönen Naturparks und halten Sie Ihre Kamera bereit, um die lokalen Vogelarten einzufangen.",
+            "hu": "Élvezze a nyugodt kikapcsolódást a buja zöld növényzet között ebben a parkban, és tartsa készenlétben a fényképezőgépét a helyi madárfajok megörökítéséhez.",
+            "ro": "Bucurați-vă de o evadare liniștită printre verdeața luxuriantă a acestui parc natural și pregătiți camera foto pentru a surprinde speciile de păsări.",
+            "en": "Enjoy a tranquil escape amidst lush greenery in this beautiful natural park, and keep your camera ready to capture the diverse local bird species here."
+          }
+        },
+        {
+          "name": {
+            "de": "Fumay Marina",
+            "hu": "Fumay Marina",
+            "ro": "Fumay Marina",
+            "en": "Fumay Marina"
+          },
+          "coords": [
+            4.717156,
+            49.983802
+          ],
+          "category": "recreational",
+          "arrive_at": "13:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Boote an diesem charmanten Erholungsort am Wasser und holen Sie sich einen frischen Kaffee von einem nahegelegenen Kiosk.",
+            "hu": "Nézze a csónakok ringatózását ezen a bájos vízparti pihenőhelyen, és vegyen egy frissen főzött kávét egy közeli pavilonban, amit a padon elfogyaszthat.",
+            "ro": "Urmăriți bărcile alunecând pe apă în acest loc fermecător și luați o cafea proaspătă de la un chioșc din apropiere pentru a o savura pe bancă.",
+            "en": "Watch the boats glide by along this charming recreational waterfront spot, and grab a freshly brewed coffee from a nearby kiosk to enjoy on the benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Roche de l'Uf",
+            "hu": "Roche de l'Uf",
+            "ro": "Roche de l'Uf",
+            "en": "Roche de l'Uf"
+          },
+          "coords": [
+            4.704283,
+            49.987286
+          ],
+          "category": "natural",
+          "arrive_at": "14:21",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den spektakulären Panoramablick auf den Fluss von diesem Felsen; versuchen Sie, am späten Nachmittag für das beste goldene Licht zu kommen.",
+            "hu": "Csodálja meg a lenyűgöző panorámás kilátást a folyóra erről a lenyűgöző szikláról, és próbálja meg késő délután meglátogatni a legszebb aranyfényekért.",
+            "ro": "Minunați-vă de priveliștile panoramice spectaculoase asupra râului de pe această stâncă și vizitați-o spre seară pentru cea mai uimitoare lumină.",
+            "en": "Marvel at the spectacular panoramic river views from this impressive rock, and try to visit during the late afternoon for the most stunning golden light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihr Fahrradabenteuer am Schiefermuseum, um das lokale Erbe zu erkunden. Mittags radeln Sie zur schönen Kirche Saint-Georges und zum großen Château des Comtes-de-Bryas. Der Nachmittag bietet malerische Fahrten nach La Platale und zum Jachthafen. Beenden Sie den Tag an der Roche de l'Uf mit herrlichem Blick auf den Fluss.",
+        "hu": "Kezdje kerékpáros kalandját a palamúzeumnál, elmerülve a helyi örökségben. Dél körül tekerjen el a Saint-Georges templom és a fenséges Château des Comtes-de-Bryas mellett. A délután festői utat kínál a La Platale-hoz és a kikötőhöz. Zárja a napot a Roche de l'Uf sziklánál, ahonnan lélegzetelállító kilátás nyílik a folyóra.",
+        "ro": "Începeți aventura pe bicicletă la muzeul ardeziei pentru a descoperi moștenirea locală. La prânz, pedalați pe lângă Biserica Saint-Georges și grandiosul Château des Comtes-de-Bryas. După-amiaza oferă plimbări pitorești spre La Platale și port. Încheiați ziua la Roche de l'Uf pentru vederi uimitoare asupra râului.",
+        "en": "Kick off your biking adventure at the slate museum to dive into local heritage. By midday, pedal past the beautiful Saint-Georges Church and the grand Château des Comtes-de-Bryas. Your afternoon is filled with scenic rides to La Platale and a serene stop at the Marina. Wrap up the day by biking to Roche de l'Uf for breathtaking river views."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:03",
+      "total_km": 6.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Pierre et Saint-Paul",
+            "hu": "Église Saint-Pierre et Saint-Paul",
+            "ro": "Église Saint-Pierre et Saint-Paul",
+            "en": "Église Saint-Pierre et Saint-Paul"
+          },
+          "coords": [
+            4.705077,
+            50.010197
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die tiefe spirituelle Atmosphäre in diesem imposanten Bauwerk und achten Sie auf die Stille beim Fotografieren der wunderschönen Glaskunst.",
+            "hu": "Tapasztalja meg az impozáns épület mély spirituális atmoszféráját, és ne feledje tiszteletben tartani a csendet, miközben az üvegművészetet fotózza.",
+            "ro": "Experimentați atmosfera spirituală profundă din interiorul acestei structuri impunătoare și respectați regula tăcerii în timp ce fotografiați vitraliile.",
+            "en": "Experience the profound spiritual atmosphere inside this imposing structure, and remember to respect the silence rule while photographing the glass art."
+          }
+        },
+        {
+          "name": {
+            "de": "La Platale",
+            "hu": "La Platale",
+            "ro": "La Platale",
+            "en": "La Platale"
+          },
+          "coords": [
+            4.715061,
+            49.998425
+          ],
+          "category": "natural",
+          "arrive_at": "09:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie eine ruhige Auszeit im üppigen Grün dieses wunderschönen Naturparks und halten Sie Ihre Kamera bereit, um die lokalen Vogelarten einzufangen.",
+            "hu": "Élvezze a nyugodt kikapcsolódást a buja zöld növényzet között ebben a parkban, és tartsa készenlétben a fényképezőgépét a helyi madárfajok megörökítéséhez.",
+            "ro": "Bucurați-vă de o evadare liniștită printre verdeața luxuriantă a acestui parc natural și pregătiți camera foto pentru a surprinde speciile de păsări.",
+            "en": "Enjoy a tranquil escape amidst lush greenery in this beautiful natural park, and keep your camera ready to capture the diverse local bird species here."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée de l’ardoise Michel Paradon",
+            "hu": "Musée de l’ardoise Michel Paradon",
+            "ro": "Musée de l’ardoise Michel Paradon",
+            "en": "Musée de l’ardoise Michel Paradon"
+          },
+          "coords": [
+            4.706966,
+            49.995172
+          ],
+          "category": "museum",
+          "arrive_at": "10:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier die faszinierende Geschichte des Schieferabbaus der Region und holen Sie sich am Eingang eine englische Broschüre für mehr Kontext.",
+            "hu": "Ismerje meg a régió palabányászatának történetét e lenyűgöző kiállításon, és a jobb megértés érdekében kérjen egy angol nyelvű brosúrát a bejáratnál.",
+            "ro": "Descoperiți istoria extracției de ardezie din regiune prin exponate fascinante și luați o broșură detaliată în limba engleză de la intrare.",
+            "en": "Discover the region's slate mining history through fascinating exhibits here, and grab a detailed English brochure at the entrance for better context."
+          }
+        },
+        {
+          "name": {
+            "de": "Château des Comtes-de-Bryas (Ancien)",
+            "hu": "Château des Comtes-de-Bryas (Ancien)",
+            "ro": "Château des Comtes-de-Bryas (Ancien)",
+            "en": "Château des Comtes-de-Bryas (Ancien)"
+          },
+          "coords": [
+            4.703933,
+            49.993571
+          ],
+          "category": "castle",
+          "arrive_at": "12:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieses Schlosses mit seiner adeligen Vergangenheit; tragen Sie festes Schuhwerk, da die Wege sehr uneben sein können.",
+            "hu": "Fedezze fel e nagyszerű kastély romjait, melyek a nemes múltról mesélnek, de viseljen kényelmes cipőt, mivel a környező ösvények meglehetősen egyenetlenek.",
+            "ro": "Explorați rămășițele acestui castel care spune povești despre trecutul nobil, dar purtați încălțăminte solidă, deoarece cărările din jur sunt denivelate.",
+            "en": "Explore the remnants of this grand castle that tells tales of noble pasts, but wear sturdy shoes as the surrounding pathways can be quite uneven to walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Roche de l'Uf",
+            "hu": "Roche de l'Uf",
+            "ro": "Roche de l'Uf",
+            "en": "Roche de l'Uf"
+          },
+          "coords": [
+            4.704283,
+            49.987286
+          ],
+          "category": "natural",
+          "arrive_at": "13:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den spektakulären Panoramablick auf den Fluss von diesem Felsen; versuchen Sie, am späten Nachmittag für das beste goldene Licht zu kommen.",
+            "hu": "Csodálja meg a lenyűgöző panorámás kilátást a folyóra erről a lenyűgöző szikláról, és próbálja meg késő délután meglátogatni a legszebb aranyfényekért.",
+            "ro": "Minunați-vă de priveliștile panoramice spectaculoase asupra râului de pe această stâncă și vizitați-o spre seară pentru cea mai uimitoare lumină.",
+            "en": "Marvel at the spectacular panoramic river views from this impressive rock, and try to visit during the late afternoon for the most stunning golden light."
+          }
+        },
+        {
+          "name": {
+            "de": "Fumay Marina",
+            "hu": "Fumay Marina",
+            "ro": "Fumay Marina",
+            "en": "Fumay Marina"
+          },
+          "coords": [
+            4.717156,
+            49.983802
+          ],
+          "category": "recreational",
+          "arrive_at": "14:23",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Boote an diesem charmanten Erholungsort am Wasser und holen Sie sich einen frischen Kaffee von einem nahegelegenen Kiosk.",
+            "hu": "Nézze a csónakok ringatózását ezen a bájos vízparti pihenőhelyen, és vegyen egy frissen főzött kávét egy közeli pavilonban, amit a padon elfogyaszthat.",
+            "ro": "Urmăriți bărcile alunecând pe apă în acest loc fermecător și luați o cafea proaspătă de la un chioșc din apropiere pentru a o savura pe bancă.",
+            "en": "Watch the boats glide by along this charming recreational waterfront spot, and grab a freshly brewed coffee from a nearby kiosk to enjoy on the benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Sainte-Thérèse",
+            "hu": "Chapelle Sainte-Thérèse",
+            "ro": "Chapelle Sainte-Thérèse",
+            "en": "Chapelle Sainte-Thérèse"
+          },
+          "coords": [
+            4.689802,
+            49.985012
+          ],
+          "category": "religious",
+          "arrive_at": "14:53",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Finden Sie einen Moment der Besinnung in dieser malerischen, friedlichen Kapelle und bringen Sie einige Münzen mit, um hier eine Votivkerze anzuzünden.",
+            "hu": "Találjon egy pillanatnyi mély elmélkedést ebben a békés kis kápolnában, és vigyen magával néhány aprópénzt, ha szeretne egy fogadalmi gyertyát gyújtani.",
+            "ro": "Găsiți un moment de reflecție în această mică și pașnică capelă și aduceți câteva monede dacă doriți să aprindeți o lumânare votivă în timpul vizitei.",
+            "en": "Find a moment of deep reflection in this quaint and peaceful small chapel, and carry a few coins if you wish to light a votive candle during your visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit einer Fahrt zur Église Saint-Pierre et Saint-Paul und weiter nach La Platale. Mittags besuchen Sie das Schiefermuseum und das historische Château des Comtes-de-Bryas. Nachmittags genießen Sie die Aussicht an der Roche de l'Uf und entspannen am Jachthafen. Der Abend endet ruhig an der Chapelle Sainte-Thérèse.",
+        "hu": "Kezdje a napot a történelmi Église Saint-Pierre et Saint-Paul templomnál, majd vezessen a La Platale-hoz. Délben látogassa meg a palamúzeumot és a történelmi Château des Comtes-de-Bryas-t. A délutánt a Roche de l'Uf kilátójánál és a kikötőben töltheti. Az estét a békés Chapelle Sainte-Thérèse kápolnánál zárhatja.",
+        "ro": "Începeți cu o plimbare matinală la Église Saint-Pierre et Saint-Paul, apoi mergeți la La Platale. La prânz, vizitați muzeul ardeziei și istoricul Château des Comtes-de-Bryas. Petreceți după-amiaza la punctul de belvedere Roche de l'Uf și în port. Seara se încheie liniștit la frumoasa Chapelle Sainte-Thérèse.",
+        "en": "Begin with a morning drive to the historic Église Saint-Pierre et Saint-Paul, then head to La Platale. At midday, visit the slate museum and the historic Château des Comtes-de-Bryas. Spend your afternoon enjoying the viewpoints at Roche de l'Uf and relaxing by the Marina. Your evening concludes with a quiet visit to the Chapelle Sainte-Thérèse."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-tremensuoli-cities-v2",
+  "anchor": {
+    "name": "Tremensuoli",
+    "coords": [
+      13.72514,
+      41.26188
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:58",
+      "total_km": 3.52,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa dell'Annunziata",
+            "hu": "Chiesa dell'Annunziata",
+            "ro": "Chiesa dell'Annunziata",
+            "en": "Chiesa dell'Annunziata"
+          },
+          "coords": [
+            13.744911,
+            41.263198
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Fresken in dieser alten Kirche, die das lokale religiöse Erbe widerspiegeln, und prüfen Sie vorher die Messezeiten.",
+            "hu": "Csodálja meg a helyi vallási örökséget tükröző ősi templom gyönyörű freskóit, és belépés előtt mindenképpen ellenőrizze a misék pontos rendjét.",
+            "ro": "Admirați frescele frumoase din această biserică antică ce reflectă moștenirea religioasă locală și asigurați-vă că verificați programul slujbelor înainte.",
+            "en": "Admire the beautiful frescoes in this ancient church, reflecting local religious heritage, and be sure to check the mass schedule before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Caracciolo Carafa",
+            "hu": "Castello Caracciolo Carafa",
+            "ro": "Castello Caracciolo Carafa",
+            "en": "Castello Caracciolo Carafa"
+          },
+          "coords": [
+            13.746449,
+            41.263105
+          ],
+          "category": "castle",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Erkunden Sie die imposanten Steinmauern dieser historischen Festung, um in die adlige Vergangenheit einzutauchen, und tragen Sie bequeme Schuhe.",
+            "hu": "Fedezze fel e történelmi erődítmény impozáns kőfalait, bepillantást nyerve a régió nemesi múltjába, de az egyenetlen talaj miatt viseljen kényelmes cipőt.",
+            "ro": "Explorați zidurile impunătoare de piatră ale acestei fortărețe istorice pentru o perspectivă asupra trecutului nobil, purtând pantofi confortabili.",
+            "en": "Explore the imposing stone walls of this historic fortress for a glimpse into the region's noble past, wearing comfortable shoes for the uneven ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Florida",
+            "hu": "Lido Florida",
+            "ro": "Lido Florida",
+            "en": "Lido Florida"
+          },
+          "coords": [
+            13.723652,
+            41.246554
+          ],
+          "category": "recreational",
+          "arrive_at": "12:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 39,
+          "hop_from_prev_km": 2.56,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sand dieses beliebten Küstenortes, genießen Sie die lebhafte Atmosphäre und kommen Sie früh, um eine gute Liege zu sichern.",
+            "hu": "Pihenjen e népszerű tengerparti hely aranyló homokján, élvezve a nyüzsgő légkört, és érkezzen korán, hogy jó napágyat szerezzen a víz közelében.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestui loc popular, bucurându-vă de atmosfera de coastă plină de viață și ajungeți devreme pentru un șezlong bun.",
+            "en": "Relax on the golden sands of this popular seaside spot, enjoying the lively coastal atmosphere, and arrive early to secure a prime sunbed near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Poseidon Beach",
+            "hu": "Poseidon Beach",
+            "ro": "Poseidon Beach",
+            "en": "Poseidon Beach"
+          },
+          "coords": [
+            13.718727,
+            41.249028
+          ],
+          "category": "recreational",
+          "arrive_at": "13:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.49,
+          "tip_5lang": {
+            "de": "Nehmen Sie ein erfrischendes Bad im klaren Wasser dieses gepflegten Strandclubs und halten Sie etwas Bargeld für einen Sonnenschirm oder Snacks bereit.",
+            "hu": "Vegyen egy frissítő fürdőt a tiszta Földközi-tengerben ennél a jól karbantartott strandklubnál, és tartson magánál készpénzt napernyő bérlésére.",
+            "ro": "Faceți o baie răcoritoare în apele clare ale Mediteranei la acest club de plajă îngrijit, păstrând bani gheață pentru închirierea unei umbrele.",
+            "en": "Take a refreshing dip in the clear Mediterranean waters at this well-maintained beach club, keeping some cash handy for renting a parasol or buying snacks."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido I Delfini",
+            "hu": "Lido I Delfini",
+            "ro": "Lido I Delfini",
+            "en": "Lido I Delfini"
+          },
+          "coords": [
+            13.715255,
+            41.250705
+          ],
+          "category": "recreational",
+          "arrive_at": "15:13",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.34,
+          "tip_5lang": {
+            "de": "Genießen Sie familienfreundliche Freizeit in diesem lebhaften Strandbad mit flachem Wasser und nutzen Sie die Strandbar für einen klassischen Espresso.",
+            "hu": "Élvezze a családbarát kikapcsolódást ezen a sekély vizű, nyüzsgő strandon, és használja ki a helyi strandbár kínálatát egy klasszikus eszpresszóra.",
+            "ro": "Bucurați-vă de relaxare în familie la acest ștrand vibrant cu ape puțin adânci, profitând de barul local de pe plajă pentru un espresso clasic.",
+            "en": "Enjoy family-friendly leisure at this vibrant lido known for its shallow waters, taking advantage of the local beach bar for a classic Italian espresso."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihren Tag im Landesinneren und erkunden Sie das reiche Erbe von Tremensuoli. Besuchen Sie die historische Chiesa dell'Annunziata und das Castello Caracciolo Carafa.\nMidday: Fahren Sie in Richtung der wunderschönen Küste, wenn die Sonne stärker wird. Erreichen Sie die lebhaften Strandclubs, um die energiegeladene italienische Meeresatmosphäre zu genießen.\nAfternoon: Verbringen Sie Ihren Nachmittag mit Strand-Hopping. Tauchen Sie Ihre Zehen in das klare Wasser des Mittelmeers, tanken Sie Sonne und genießen Sie die erfrischende Meeresbrise.\nEvening: Wenn es kühler wird, machen Sie einen gemütlichen Spaziergang am Wasser. Beobachten Sie, wie sich der Himmel während eines wunderschönen Sonnenuntergangs über dem Tyrrhenischen Meer färbt.",
+        "hu": "Morning: Kezdje a napot a szárazföld belsejében, Tremensuoli gazdag örökségének felfedezésével. Látogasson el a történelmi Chiesa dell'Annunziata templomhoz és az impozáns Castello Caracciolo Carafa várhoz.\nMidday: Irány a gyönyörű partvidék, ahogy a nap egyre melegebben süt. Érkezzen meg a nyüzsgő strandklubokhoz, hogy élvezze az energikus olasz tengerparti légkört és pihenjen a vízparton.\nAfternoon: Töltse a délutánt a part menti strandok felfedezésével. Mártsa lábát a tiszta Földközi-tengerbe, szívja magába a napsugarakat, és élvezze a frissítő tengeri szellőt a lüktető partszakaszon.\nEvening: Ahogy a levegő lehűl, tegyen egy kényelmes sétát a vízparton. Csodálja meg, ahogy az égbolt élénk narancs és rózsaszín árnyalatokat ölt a Tirrén-tenger felett lemenő napfényben.",
+        "ro": "Morning: Începeți-vă ziua explorând bogata moștenire din Tremensuoli. Vizitați istorica Chiesa dell'Annunziata și impunătorul Castello Caracciolo Carafa, admirând arhitectura și priveliștile.\nMidday: Îndreptați-vă spre coasta frumoasă pe măsură ce soarele devine mai puternic. Ajungeți la cluburile de plajă pline de viață pentru a vă bucura de atmosfera litoralului italian.\nAfternoon: Petreceți-vă după-amiaza explorând diverse plaje. Scufundați-vă degetele în apele clare ale Mediteranei, bucurați-vă de soare și simțiți briza răcoroasă a mării la popularele lido-uri.\nEvening: Pe măsură ce ziua se răcește, faceți o plimbare liniștită pe malul apei. Urmăriți cum cerul capătă nuanțe vibrante de portocaliu și roz în timpul unui apus superb peste Marea Tireniană.",
+        "en": "Morning: Start your day inland, exploring the rich heritage of Tremensuoli. Visit the historic Chiesa dell'Annunziata and the imposing Castello Caracciolo Carafa, admiring the architecture and views.\nMidday: Head down towards the beautiful coastline as the sun gets stronger. Arrive at the lively beach clubs to enjoy the energetic Italian seaside atmosphere and relax by the water.\nAfternoon: Spend your afternoon beach-hopping along the coast. Dip your toes into the clear Mediterranean waters, soak up the sun, and enjoy the refreshing sea breeze at various popular lidos.\nEvening: As the day cools, take a leisurely stroll along the water's edge. Watch the sky turn vibrant shades of orange and pink during a beautiful sunset over the Tyrrhenian Sea before heading to dinner."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:43",
+      "total_km": 4.15,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Castello Caracciolo Carafa",
+            "hu": "Castello Caracciolo Carafa",
+            "ro": "Castello Caracciolo Carafa",
+            "en": "Castello Caracciolo Carafa"
+          },
+          "coords": [
+            13.746449,
+            41.263105
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die imposanten Steinmauern dieser historischen Festung, um in die adlige Vergangenheit einzutauchen, und tragen Sie bequeme Schuhe.",
+            "hu": "Fedezze fel e történelmi erődítmény impozáns kőfalait, bepillantást nyerve a régió nemesi múltjába, de az egyenetlen talaj miatt viseljen kényelmes cipőt.",
+            "ro": "Explorați zidurile impunătoare de piatră ale acestei fortărețe istorice pentru o perspectivă asupra trecutului nobil, purtând pantofi confortabili.",
+            "en": "Explore the imposing stone walls of this historic fortress for a glimpse into the region's noble past, wearing comfortable shoes for the uneven ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa dell'Annunziata",
+            "hu": "Chiesa dell'Annunziata",
+            "ro": "Chiesa dell'Annunziata",
+            "en": "Chiesa dell'Annunziata"
+          },
+          "coords": [
+            13.744911,
+            41.263198
+          ],
+          "category": "historical",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Fresken in dieser alten Kirche, die das lokale religiöse Erbe widerspiegeln, und prüfen Sie vorher die Messezeiten.",
+            "hu": "Csodálja meg a helyi vallási örökséget tükröző ősi templom gyönyörű freskóit, és belépés előtt mindenképpen ellenőrizze a misék pontos rendjét.",
+            "ro": "Admirați frescele frumoase din această biserică antică ce reflectă moștenirea religioasă locală și asigurați-vă că verificați programul slujbelor înainte.",
+            "en": "Admire the beautiful frescoes in this ancient church, reflecting local religious heritage, and be sure to check the mass schedule before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Florida",
+            "hu": "Lido Florida",
+            "ro": "Lido Florida",
+            "en": "Lido Florida"
+          },
+          "coords": [
+            13.723652,
+            41.246554
+          ],
+          "category": "recreational",
+          "arrive_at": "12:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.56,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sand dieses beliebten Küstenortes, genießen Sie die lebhafte Atmosphäre und kommen Sie früh, um eine gute Liege zu sichern.",
+            "hu": "Pihenjen e népszerű tengerparti hely aranyló homokján, élvezve a nyüzsgő légkört, és érkezzen korán, hogy jó napágyat szerezzen a víz közelében.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestui loc popular, bucurându-vă de atmosfera de coastă plină de viață și ajungeți devreme pentru un șezlong bun.",
+            "en": "Relax on the golden sands of this popular seaside spot, enjoying the lively coastal atmosphere, and arrive early to secure a prime sunbed near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Medusa",
+            "hu": "Lido Medusa",
+            "ro": "Lido Medusa",
+            "en": "Lido Medusa"
+          },
+          "coords": [
+            13.721926,
+            41.247444
+          ],
+          "category": "recreational",
+          "arrive_at": "13:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Erleben Sie einen ruhigeren Küstenabschnitt, der sich perfekt zum ungestörten Sonnenbaden eignet, und bringen Sie ein Handtuch für den freien Strand mit.",
+            "hu": "Tapasztalja meg a partvonal csendesebb szakaszát a zavartalan napozáshoz, és ne felejtsen el saját törölközőt hozni, ha az ingyenes részen maradna.",
+            "ro": "Experimentați o porțiune mai liniștită a coastei, perfectă pentru plajă neîntreruptă, amintindu-vă să aduceți un prosop dacă stați pe nisipul liber.",
+            "en": "Experience a quieter stretch of the coastline perfect for uninterrupted sunbathing, remembering to bring your own towel if you plan to stay on the free sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Del Sole",
+            "hu": "Lido Del Sole",
+            "ro": "Lido Del Sole",
+            "en": "Lido Del Sole"
+          },
+          "coords": [
+            13.717507,
+            41.249651
+          ],
+          "category": "recreational",
+          "arrive_at": "14:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem lebhaften, sommerlich bunten Strand am Wasser entlang und gönnen Sie sich ein Gelato von den nahegelegenen Strandverkäufern.",
+            "hu": "Sétáljon a vízparton ezen a nyári nyüzsgéssel teli, élettel teli strandon, és lepje meg magát egy finom fagyival a közeli tengerparti árusoktól.",
+            "ro": "Plimbați-vă pe malul apei la această plajă plină de viață și activitate de vară, răsfățându-vă cu o înghețată de la vânzătorii locali de pe litoral.",
+            "en": "Stroll along the water's edge at this lively beach area bustling with summer activity, treating yourself to a gelato from the nearby seaside vendors."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Sirene",
+            "hu": "Lido Sirene",
+            "ro": "Lido Sirene",
+            "en": "Lido Sirene"
+          },
+          "coords": [
+            13.708658,
+            41.253383
+          ],
+          "category": "recreational",
+          "arrive_at": "15:58",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.84,
+          "tip_5lang": {
+            "de": "Beobachten Sie einen spektakulären Sonnenuntergang an den friedlichen Ufern dieses westlichen Strandbades und bringen Sie eine leichte Jacke für den Abend mit.",
+            "hu": "Nézzen meg egy látványos naplementét e legnyugatibb strand békés partjairól, és hozzon magával egy könnyű kabátot az esti tengeri szellő ellen.",
+            "ro": "Urmăriți un apus spectaculos de pe țărmurile pașnice ale acestui ștrand vestic, aducând o jachetă ușoară pentru a vă feri de briza răcoroasă a serii.",
+            "en": "Watch a spectacular sunset from the peaceful shores of this westernmost lido, bringing a light jacket to stay comfortable as the evening sea breeze rolls in."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihren Tag im Landesinneren und erkunden Sie das reiche Erbe von Tremensuoli. Besuchen Sie die historische Chiesa dell'Annunziata und das Castello Caracciolo Carafa.\nMidday: Fahren Sie in Richtung der wunderschönen Küste, wenn die Sonne stärker wird. Erreichen Sie die lebhaften Strandclubs, um die energiegeladene italienische Meeresatmosphäre zu genießen.\nAfternoon: Verbringen Sie Ihren Nachmittag mit Strand-Hopping. Tauchen Sie Ihre Zehen in das klare Wasser des Mittelmeers, tanken Sie Sonne und genießen Sie die erfrischende Meeresbrise.\nEvening: Wenn es kühler wird, machen Sie einen gemütlichen Spaziergang am Wasser. Beobachten Sie, wie sich der Himmel während eines wunderschönen Sonnenuntergangs über dem Tyrrhenischen Meer färbt.",
+        "hu": "Morning: Kezdje a napot a szárazföld belsejében, Tremensuoli gazdag örökségének felfedezésével. Látogasson el a történelmi Chiesa dell'Annunziata templomhoz és az impozáns Castello Caracciolo Carafa várhoz.\nMidday: Irány a gyönyörű partvidék, ahogy a nap egyre melegebben süt. Érkezzen meg a nyüzsgő strandklubokhoz, hogy élvezze az energikus olasz tengerparti légkört és pihenjen a vízparton.\nAfternoon: Töltse a délutánt a part menti strandok felfedezésével. Mártsa lábát a tiszta Földközi-tengerbe, szívja magába a napsugarakat, és élvezze a frissítő tengeri szellőt a lüktető partszakaszon.\nEvening: Ahogy a levegő lehűl, tegyen egy kényelmes sétát a vízparton. Csodálja meg, ahogy az égbolt élénk narancs és rózsaszín árnyalatokat ölt a Tirrén-tenger felett lemenő napfényben.",
+        "ro": "Morning: Începeți-vă ziua explorând bogata moștenire din Tremensuoli. Vizitați istorica Chiesa dell'Annunziata și impunătorul Castello Caracciolo Carafa, admirând arhitectura și priveliștile.\nMidday: Îndreptați-vă spre coasta frumoasă pe măsură ce soarele devine mai puternic. Ajungeți la cluburile de plajă pline de viață pentru a vă bucura de atmosfera litoralului italian.\nAfternoon: Petreceți-vă după-amiaza explorând diverse plaje. Scufundați-vă degetele în apele clare ale Mediteranei, bucurați-vă de soare și simțiți briza răcoroasă a mării la popularele lido-uri.\nEvening: Pe măsură ce ziua se răcește, faceți o plimbare liniștită pe malul apei. Urmăriți cum cerul capătă nuanțe vibrante de portocaliu și roz în timpul unui apus superb peste Marea Tireniană.",
+        "en": "Morning: Start your day inland, exploring the rich heritage of Tremensuoli. Visit the historic Chiesa dell'Annunziata and the imposing Castello Caracciolo Carafa, admiring the architecture and views.\nMidday: Head down towards the beautiful coastline as the sun gets stronger. Arrive at the lively beach clubs to enjoy the energetic Italian seaside atmosphere and relax by the water.\nAfternoon: Spend your afternoon beach-hopping along the coast. Dip your toes into the clear Mediterranean waters, soak up the sun, and enjoy the refreshing sea breeze at various popular lidos.\nEvening: As the day cools, take a leisurely stroll along the water's edge. Watch the sky turn vibrant shades of orange and pink during a beautiful sunset over the Tyrrhenian Sea before heading to dinner."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 3.89,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa dell'Annunziata",
+            "hu": "Chiesa dell'Annunziata",
+            "ro": "Chiesa dell'Annunziata",
+            "en": "Chiesa dell'Annunziata"
+          },
+          "coords": [
+            13.744911,
+            41.263198
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Fresken in dieser alten Kirche, die das lokale religiöse Erbe widerspiegeln, und prüfen Sie vorher die Messezeiten.",
+            "hu": "Csodálja meg a helyi vallási örökséget tükröző ősi templom gyönyörű freskóit, és belépés előtt mindenképpen ellenőrizze a misék pontos rendjét.",
+            "ro": "Admirați frescele frumoase din această biserică antică ce reflectă moștenirea religioasă locală și asigurați-vă că verificați programul slujbelor înainte.",
+            "en": "Admire the beautiful frescoes in this ancient church, reflecting local religious heritage, and be sure to check the mass schedule before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello Caracciolo Carafa",
+            "hu": "Castello Caracciolo Carafa",
+            "ro": "Castello Caracciolo Carafa",
+            "en": "Castello Caracciolo Carafa"
+          },
+          "coords": [
+            13.746449,
+            41.263105
+          ],
+          "category": "castle",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Erkunden Sie die imposanten Steinmauern dieser historischen Festung, um in die adlige Vergangenheit einzutauchen, und tragen Sie bequeme Schuhe.",
+            "hu": "Fedezze fel e történelmi erődítmény impozáns kőfalait, bepillantást nyerve a régió nemesi múltjába, de az egyenetlen talaj miatt viseljen kényelmes cipőt.",
+            "ro": "Explorați zidurile impunătoare de piatră ale acestei fortărețe istorice pentru o perspectivă asupra trecutului nobil, purtând pantofi confortabili.",
+            "en": "Explore the imposing stone walls of this historic fortress for a glimpse into the region's noble past, wearing comfortable shoes for the uneven ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Florida",
+            "hu": "Lido Florida",
+            "ro": "Lido Florida",
+            "en": "Lido Florida"
+          },
+          "coords": [
+            13.723652,
+            41.246554
+          ],
+          "category": "recreational",
+          "arrive_at": "11:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.56,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sand dieses beliebten Küstenortes, genießen Sie die lebhafte Atmosphäre und kommen Sie früh, um eine gute Liege zu sichern.",
+            "hu": "Pihenjen e népszerű tengerparti hely aranyló homokján, élvezve a nyüzsgő légkört, és érkezzen korán, hogy jó napágyat szerezzen a víz közelében.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestui loc popular, bucurându-vă de atmosfera de coastă plină de viață și ajungeți devreme pentru un șezlong bun.",
+            "en": "Relax on the golden sands of this popular seaside spot, enjoying the lively coastal atmosphere, and arrive early to secure a prime sunbed near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Il Vascello",
+            "hu": "Lido Il Vascello",
+            "ro": "Lido Il Vascello",
+            "en": "Lido Il Vascello"
+          },
+          "coords": [
+            13.719902,
+            41.248437
+          ],
+          "category": "recreational",
+          "arrive_at": "13:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die energiegeladene Atmosphäre dieses Küstenortes ein, der ideal zum Schwimmen ist, und tragen Sie großzügig Sonnencreme für den Nachmittag auf.",
+            "hu": "Vesse bele magát e népszerű tengerparti hely energikus hangulatába, amely úszáshoz és ismerkedéshez is ideális, és használjon bőségesen naptejet.",
+            "ro": "Scufundați-vă în atmosfera plină de energie a acestui loc de coastă, ideal pentru înot, și aplicați cremă de soare cu generozitate după-amiaza.",
+            "en": "Dive into the energetic vibe of this popular coastal spot, ideal for both swimming and socializing, and apply sunscreen generously throughout the hot afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Italia",
+            "hu": "Lido Italia",
+            "ro": "Lido Italia",
+            "en": "Lido Italia"
+          },
+          "coords": [
+            13.716458,
+            41.250171
+          ],
+          "category": "recreational",
+          "arrive_at": "14:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.34,
+          "tip_5lang": {
+            "de": "Tanken Sie Sonne in dieser ikonischen Strandanlage, die den klassischen Riviera-Lebensstil verkörpert, und reservieren Sie Ihren Schirm rechtzeitig.",
+            "hu": "Gyűjtsön egy kis napfényt ezen az ikonikus tengerparti helyen, amely a klasszikus olasz Riviéra életérzést nyújtja, de főszezonban foglaljon előre napernyőt.",
+            "ro": "Prindeți câteva raze la această locație iconică pe malul mării ce întruchipează stilul de viață clasic italian, rezervând umbrela din timp în sezon.",
+            "en": "Catch some rays at this iconic beachfront establishment that embodies the classic Italian Riviera lifestyle, reserving your umbrella ahead of time during peak season."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Delizia",
+            "hu": "Lido Delizia",
+            "ro": "Lido Delizia",
+            "en": "Lido Delizia"
+          },
+          "coords": [
+            13.71356,
+            41.251405
+          ],
+          "category": "recreational",
+          "arrive_at": "15:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Genießen Sie das beruhigende Rauschen der Wellen an diesem charmanten Ort an der Küste und halten Sie eine Wasserflasche bereit, um hydriert zu bleiben.",
+            "hu": "Élvezze a hullámok nyugtató hangját ezen az elragadó tengerparti helyen, és tartson magánál egy újratölthető kulacsot a meleg olasz nap alatt.",
+            "ro": "Savurați sunetul liniștitor al valurilor în acest loc încântător de pe coastă, păstrând la îndemână o sticlă de apă pentru a vă menține hidratat la soare.",
+            "en": "Savor the soothing sound of the waves at this delightful spot along the coast, keeping a reusable water bottle handy to stay hydrated under the warm Italian sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Scauri",
+            "hu": "Lido Scauri",
+            "ro": "Lido Scauri",
+            "en": "Lido Scauri"
+          },
+          "coords": [
+            13.711349,
+            41.252292
+          ],
+          "category": "recreational",
+          "arrive_at": "17:00",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise an diesem weitläufigen Strandrückzugsort, ideal für abendliche Spaziergänge, und besuchen Sie die kleinen Lokale für ein Abendessen.",
+            "hu": "Zárja tengerparti útját ezen a tágas strandon, amely tökéletes az esti tengerparti sétákhoz, és térjen be a közeli kis éttermek egyikébe vacsorázni.",
+            "ro": "Încheiați călătoria dvs. de coastă la această retragere expansivă, perfectă pentru plimbări de seară, căutând micile restaurante locale pentru cină.",
+            "en": "End your coastal journey at this expansive seaside retreat, perfect for evening beach walks, checking out the small local eateries nearby for a sunset dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihren Tag im Landesinneren und erkunden Sie das reiche Erbe von Tremensuoli. Besuchen Sie die historische Chiesa dell'Annunziata und das Castello Caracciolo Carafa.\nMidday: Fahren Sie in Richtung der wunderschönen Küste, wenn die Sonne stärker wird. Erreichen Sie die lebhaften Strandclubs, um die energiegeladene italienische Meeresatmosphäre zu genießen.\nAfternoon: Verbringen Sie Ihren Nachmittag mit Strand-Hopping. Tauchen Sie Ihre Zehen in das klare Wasser des Mittelmeers, tanken Sie Sonne und genießen Sie die erfrischende Meeresbrise.\nEvening: Wenn es kühler wird, machen Sie einen gemütlichen Spaziergang am Wasser. Beobachten Sie, wie sich der Himmel während eines wunderschönen Sonnenuntergangs über dem Tyrrhenischen Meer färbt.",
+        "hu": "Morning: Kezdje a napot a szárazföld belsejében, Tremensuoli gazdag örökségének felfedezésével. Látogasson el a történelmi Chiesa dell'Annunziata templomhoz és az impozáns Castello Caracciolo Carafa várhoz.\nMidday: Irány a gyönyörű partvidék, ahogy a nap egyre melegebben süt. Érkezzen meg a nyüzsgő strandklubokhoz, hogy élvezze az energikus olasz tengerparti légkört és pihenjen a vízparton.\nAfternoon: Töltse a délutánt a part menti strandok felfedezésével. Mártsa lábát a tiszta Földközi-tengerbe, szívja magába a napsugarakat, és élvezze a frissítő tengeri szellőt a lüktető partszakaszon.\nEvening: Ahogy a levegő lehűl, tegyen egy kényelmes sétát a vízparton. Csodálja meg, ahogy az égbolt élénk narancs és rózsaszín árnyalatokat ölt a Tirrén-tenger felett lemenő napfényben.",
+        "ro": "Morning: Începeți-vă ziua explorând bogata moștenire din Tremensuoli. Vizitați istorica Chiesa dell'Annunziata și impunătorul Castello Caracciolo Carafa, admirând arhitectura și priveliștile.\nMidday: Îndreptați-vă spre coasta frumoasă pe măsură ce soarele devine mai puternic. Ajungeți la cluburile de plajă pline de viață pentru a vă bucura de atmosfera litoralului italian.\nAfternoon: Petreceți-vă după-amiaza explorând diverse plaje. Scufundați-vă degetele în apele clare ale Mediteranei, bucurați-vă de soare și simțiți briza răcoroasă a mării la popularele lido-uri.\nEvening: Pe măsură ce ziua se răcește, faceți o plimbare liniștită pe malul apei. Urmăriți cum cerul capătă nuanțe vibrante de portocaliu și roz în timpul unui apus superb peste Marea Tireniană.",
+        "en": "Morning: Start your day inland, exploring the rich heritage of Tremensuoli. Visit the historic Chiesa dell'Annunziata and the imposing Castello Caracciolo Carafa, admiring the architecture and views.\nMidday: Head down towards the beautiful coastline as the sun gets stronger. Arrive at the lively beach clubs to enjoy the energetic Italian seaside atmosphere and relax by the water.\nAfternoon: Spend your afternoon beach-hopping along the coast. Dip your toes into the clear Mediterranean waters, soak up the sun, and enjoy the refreshing sea breeze at various popular lidos.\nEvening: As the day cools, take a leisurely stroll along the water's edge. Watch the sky turn vibrant shades of orange and pink during a beautiful sunset over the Tyrrhenian Sea before heading to dinner."
+      }
+    }
+  }
+}

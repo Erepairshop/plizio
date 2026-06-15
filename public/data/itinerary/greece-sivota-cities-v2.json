@@ -1,0 +1,405 @@
+{
+  "city_id": "greece-sivota-cities-v2",
+  "anchor": {
+    "name": "Sivota",
+    "coords": [
+      20.24523,
+      39.40777
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:46",
+      "total_km": 3.35,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Gallikos Molos",
+            "hu": "Gallikos Molos",
+            "ro": "Gallikos Molos",
+            "en": "Gallikos Molos"
+          },
+          "coords": [
+            20.236596,
+            39.410731
+          ],
+          "category": "recreational",
+          "arrive_at": "09:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Genießen Sie den weichen Sand und das warme Wasser an diesem beliebten Stadtstrand, aber kommen Sie früh, um sich eine Liege vor dem Nachmittagsansturm zu sichern.",
+            "hu": "Élvezze a finom homokot és a meleg, sekély vizet ezen a népszerű városi strandon, de érkezzen korán, hogy biztosítson magának egy napágyat a délutáni tömeg előtt.",
+            "ro": "Bucurați-vă de nisipul fin și apele calde la această plajă populară, dar ajungeți devreme pentru a prinde un șezlong înainte de aglomerația de după-amiază.",
+            "en": "Enjoy the soft sand and warm, shallow waters at this popular town beach, but arrive early to secure a sunbed and umbrella before the afternoon crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Zeri",
+            "hu": "Zeri",
+            "ro": "Zeri",
+            "en": "Zeri"
+          },
+          "coords": [
+            20.234383,
+            39.413101
+          ],
+          "category": "recreational",
+          "arrive_at": "10:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese familienfreundliche Bucht mit ruhigem Wasser, und vergessen Sie nicht, Snacks einzupacken, da die Einrichtungen hier etwas begrenzt sind.",
+            "hu": "Fedezze fel ezt a családbarát öblöt, amelynek nyugodt, kristálytiszta vize tökéletes az úszáshoz, és ne felejtsen el rágcsálnivalót csomagolni a korlátozott büfék miatt.",
+            "ro": "Descoperiți acest golf prietenos pentru familii, cu apă calmă perfectă pentru înot, și nu uitați să aduceți gustări deoarece facilitățile sunt destul de limitate.",
+            "en": "Discover this family-friendly cove with calm, crystal-clear water perfect for swimming, and don't forget to pack some snacks as facilities are somewhat limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Dei",
+            "hu": "Dei",
+            "ro": "Dei",
+            "en": "Dei"
+          },
+          "coords": [
+            20.23104,
+            39.415978
+          ],
+          "category": "recreational",
+          "arrive_at": "12:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im natürlichen Schatten der Olivenbäume an diesem Kieselstrand und bringen Sie Badeschuhe für einen bequemen Einstieg ins Wasser mit.",
+            "hu": "Pihenjen a tengert érintő olajfák természetes árnyékában ezen a kavicsos strandon, és hozzon magával vizicipőt, hogy kényelmesebben bemehessen a tiszta vízbe.",
+            "ro": "Relaxați-vă sub umbra naturală a măslinilor care ating marea pe această plajă cu pietriș și aduceți încălțăminte de apă pentru a intra confortabil în mare.",
+            "en": "Relax under the natural shade of olive trees touching the sea at this pebbly beach, and bring water shoes for a more comfortable walk into the clear water."
+          }
+        },
+        {
+          "name": {
+            "de": "Karbouno",
+            "hu": "Karbouno",
+            "ro": "Karbouno",
+            "en": "Karbouno"
+          },
+          "coords": [
+            20.234598,
+            39.404163
+          ],
+          "category": "recreational",
+          "arrive_at": "13:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erleben Sie das üppige Grün, das mit dem Ionischen Blau kontrastiert, und mieten Sie ein kleines Boot vom nahen Yachthafen, um diesen idyllischen Ort zu erkunden.",
+            "hu": "Tapasztalja meg az élénk növényzet és a jón kék kontrasztját ezen az idilli helyen, ahová érdemes egy kis csónakot bérelni a közeli kikötőből a teljes hozzáféréshez.",
+            "ro": "Experimentați verdeața luxuriantă contrastând cu albastrul ionic în acest loc idilic, unde merită să închiriați o barcă mică din port pentru acces complet.",
+            "en": "Experience the lush greenery contrasting with the Ionian blue at this idyllic spot, making it worth renting a small boat from the nearby marina for full access."
+          }
+        },
+        {
+          "name": {
+            "de": "Mpella Braka",
+            "hu": "Mpella Braka",
+            "ro": "Mpella Braka",
+            "en": "Mpella Braka"
+          },
+          "coords": [
+            20.235556,
+            39.399311
+          ],
+          "category": "recreational",
+          "arrive_at": "15:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Waten Sie durch das knöcheltiefe Wasser zu dieser einzigartigen Insel, aber tragen Sie einen Hut und Sonnencreme, da es keinen natürlichen Schatten gibt.",
+            "hu": "Gázoljon át a bokáig érő tengeren erre az egyedülálló, szárazföldhöz kapcsolódó kis szigetre, de viseljen kalapot és naptejet, mivel nincs természetes árnyék.",
+            "ro": "Pășiți prin apa mării până la glezne pentru a ajunge la această insuliță unică, dar purtați pălărie și cremă de soare deoarece nu există umbră naturală.",
+            "en": "Wade through the ankle-deep sea to reach this unique, sandy islet that connects to the mainland, but wear a hat and sunscreen as there is no natural shade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgenspaziergänge führen zu den Stränden Gallikos Molos und Zeri für ein friedliches Bad. Mittags entspannen Sie unter den Olivenbäumen von Dei. Der Nachmittag bringt Sie zum malerischen Karbouno. Beenden Sie den Abend an der einzigartigen Mpella Braka.",
+        "hu": "A reggeli séták során felfedezheti a Gallikos Molos és a Zeri strandokat egy békés csobbanásra. Délben pihenjen a Dei olajfái alatt. A délután a lenyűgöző Karbouno partjára viszi. Az estét a Mpella Braka szigetén fejezze be egy varázslatos naplementével.",
+        "ro": "Plimbările de dimineață dezvăluie plajele Gallikos Molos și Zeri pentru o baie liniștită. La prânz, relaxați-vă sub măslinii din Dei. După-amiaza vă duce la pitorescul Karbouno. Încheiați seara traversând prin apă spre Mpella Braka la apusul soarelui.",
+        "en": "Morning strolls reveal the vibrant Gallikos Molos and Zeri beaches, offering peaceful dips. By midday, relax under Dei's olive trees. The afternoon takes you to Karbouno for stunning scenery. End the evening wading across to Mpella Braka as the sun sets."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:26",
+      "total_km": 5.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Zavia",
+            "hu": "Zavia",
+            "ro": "Zavia",
+            "en": "Zavia"
+          },
+          "coords": [
+            20.249889,
+            39.400587
+          ],
+          "category": "recreational",
+          "arrive_at": "09:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Süßwasserquellen, die diese grünliche Bucht erfrischend kühl halten, und genießen Sie ein morgendliches Bad, bevor die Boote vor Anker gehen.",
+            "hu": "Csodálja meg a víz alatti édesvízi forrásokat, amelyek hűsen tartják ezt a zöldes öblöt, és élvezze a békés reggeli úszást, mielőtt a hajók lehorgonyoznának.",
+            "ro": "Admirați izvoarele de apă dulce care mențin acest golf verde răcoros și bucurați-vă de o înotare liniștită dimineața înainte ca bărcile să arunce ancora.",
+            "en": "Marvel at the underwater freshwater springs that keep this green-hued bay refreshingly cool, and enjoy a peaceful morning swim before the boats drop anchor."
+          }
+        },
+        {
+          "name": {
+            "de": "Mega Ammos",
+            "hu": "Mega Ammos",
+            "ro": "Mega Ammos",
+            "en": "Mega Ammos"
+          },
+          "coords": [
+            20.256995,
+            39.39828
+          ],
+          "category": "recreational",
+          "arrive_at": "10:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre von Sivotas größtem organisierten Strand mit vielen Wassersportarten, und essen Sie mittags frische Meeresfrüchte in einer Taverne.",
+            "hu": "Szívja magába Sivota legnagyobb kiépített strandjának nyüzsgő hangulatát a sok vízi sporttal, és ebédeljen egy tengerparti tavernában friss helyi tengeri herkentyűket.",
+            "ro": "Bucurați-vă de atmosfera plină de viață a celei mai mari plaje organizate din Sivota și luați prânzul la o tavernă pe malul mării pentru fructe de mare proaspete.",
+            "en": "Soak in the lively atmosphere of Sivota's largest organized beach with extensive water sports, and grab lunch at a nearby seaside taverna for fresh local seafood."
+          }
+        },
+        {
+          "name": {
+            "de": "Mikri Ammos",
+            "hu": "Mikri Ammos",
+            "ro": "Mikri Ammos",
+            "en": "Mikri Ammos"
+          },
+          "coords": [
+            20.263139,
+            39.396509
+          ],
+          "category": "recreational",
+          "arrive_at": "11:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Tanzen Sie zu fröhlicher Musik in diesem trendigen, lebhaften Strandclub, aber reservieren Sie Ihre Premium-Liegen im Hochsommer besser einen Tag im Voraus.",
+            "hu": "Táncoljon vidám zenére ebben a divatos, fiatalos energiáiról ismert strandklubban, de a főszezonban már egy nappal előre foglalja le a prémium napágyakat.",
+            "ro": "Dansați pe muzică antrenantă la acest club de plajă la modă, dar rezervați-vă șezlongurile premium cu o zi înainte în timpul verii de vârf.",
+            "en": "Dance to upbeat music at this trendy, vibrant beach club known for its youthful energy, but reserve your premium sunbeds a day in advance during peak summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Mpella Braka",
+            "hu": "Mpella Braka",
+            "ro": "Mpella Braka",
+            "en": "Mpella Braka"
+          },
+          "coords": [
+            20.235556,
+            39.399311
+          ],
+          "category": "recreational",
+          "arrive_at": "13:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Waten Sie durch das knöcheltiefe Wasser zu dieser einzigartigen Insel, aber tragen Sie einen Hut und Sonnencreme, da es keinen natürlichen Schatten gibt.",
+            "hu": "Gázoljon át a bokáig érő tengeren erre az egyedülálló, szárazföldhöz kapcsolódó kis szigetre, de viseljen kalapot és naptejet, mivel nincs természetes árnyék.",
+            "ro": "Pășiți prin apa mării până la glezne pentru a ajunge la această insuliță unică, dar purtați pălărie și cremă de soare deoarece nu există umbră naturală.",
+            "en": "Wade through the ankle-deep sea to reach this unique, sandy islet that connects to the mainland, but wear a hat and sunscreen as there is no natural shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Gallikos Molos",
+            "hu": "Gallikos Molos",
+            "ro": "Gallikos Molos",
+            "en": "Gallikos Molos"
+          },
+          "coords": [
+            20.236596,
+            39.410731
+          ],
+          "category": "recreational",
+          "arrive_at": "14:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den weichen Sand und das warme Wasser an diesem beliebten Stadtstrand, aber kommen Sie früh, um sich eine Liege vor dem Nachmittagsansturm zu sichern.",
+            "hu": "Élvezze a finom homokot és a meleg, sekély vizet ezen a népszerű városi strandon, de érkezzen korán, hogy biztosítson magának egy napágyat a délutáni tömeg előtt.",
+            "ro": "Bucurați-vă de nisipul fin și apele calde la această plajă populară, dar ajungeți devreme pentru a prinde un șezlong înainte de aglomerația de după-amiază.",
+            "en": "Enjoy the soft sand and warm, shallow waters at this popular town beach, but arrive early to secure a sunbed and umbrella before the afternoon crowds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens zu den erfrischenden Quellen von Zavia. Mittags lockt der weitläufige Strand von Mega Ammos für ein Mittagessen. Genießen Sie nachmittags die Energie von Mikri Ammos. Fahren Sie zum Sonnenuntergang nach Mpella Braka und Gallikos Molos.",
+        "hu": "Indítsa a reggelt egy kerékpártúrával a Zavia frissítő forrásaihoz. A dél megérkezik a Mega Ammos homokos partjára egy ebédre. Délután élvezze a Mikri Ammos vibráló energiáját. Tekerjen a Mpella Braka és a Gallikos Molos felé a gyönyörű naplemente miatt.",
+        "ro": "Începeți dimineața pedalând spre izvoarele răcoroase din Zavia. Prânzul vă aduce pe plaja vastă Mega Ammos pentru o masă delicioasă. După-amiaza, bucurați-vă de energia de la Mikri Ammos. Pedalați spre Mpella Braka și Gallikos Molos la apusul soarelui.",
+        "en": "Start the morning cycling to the refreshing springs of Zavia. Midday brings you to the expansive, vibrant sands of Mega Ammos for lunch. In the afternoon, soak up the energetic vibe at Mikri Ammos. Ride to Mpella Braka and Gallikos Molos for a picturesque sunset ride."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:06",
+      "total_km": 4.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Zeri",
+            "hu": "Zeri",
+            "ro": "Zeri",
+            "en": "Zeri"
+          },
+          "coords": [
+            20.234383,
+            39.413101
+          ],
+          "category": "recreational",
+          "arrive_at": "09:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese familienfreundliche Bucht mit ruhigem Wasser, und vergessen Sie nicht, Snacks einzupacken, da die Einrichtungen hier etwas begrenzt sind.",
+            "hu": "Fedezze fel ezt a családbarát öblöt, amelynek nyugodt, kristálytiszta vize tökéletes az úszáshoz, és ne felejtsen el rágcsálnivalót csomagolni a korlátozott büfék miatt.",
+            "ro": "Descoperiți acest golf prietenos pentru familii, cu apă calmă perfectă pentru înot, și nu uitați să aduceți gustări deoarece facilitățile sunt destul de limitate.",
+            "en": "Discover this family-friendly cove with calm, crystal-clear water perfect for swimming, and don't forget to pack some snacks as facilities are somewhat limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Karbouno",
+            "hu": "Karbouno",
+            "ro": "Karbouno",
+            "en": "Karbouno"
+          },
+          "coords": [
+            20.234598,
+            39.404163
+          ],
+          "category": "recreational",
+          "arrive_at": "10:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erleben Sie das üppige Grün, das mit dem Ionischen Blau kontrastiert, und mieten Sie ein kleines Boot vom nahen Yachthafen, um diesen idyllischen Ort zu erkunden.",
+            "hu": "Tapasztalja meg az élénk növényzet és a jón kék kontrasztját ezen az idilli helyen, ahová érdemes egy kis csónakot bérelni a közeli kikötőből a teljes hozzáféréshez.",
+            "ro": "Experimentați verdeața luxuriantă contrastând cu albastrul ionic în acest loc idilic, unde merită să închiriați o barcă mică din port pentru acces complet.",
+            "en": "Experience the lush greenery contrasting with the Ionian blue at this idyllic spot, making it worth renting a small boat from the nearby marina for full access."
+          }
+        },
+        {
+          "name": {
+            "de": "Zavia",
+            "hu": "Zavia",
+            "ro": "Zavia",
+            "en": "Zavia"
+          },
+          "coords": [
+            20.249889,
+            39.400587
+          ],
+          "category": "recreational",
+          "arrive_at": "11:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Süßwasserquellen, die diese grünliche Bucht erfrischend kühl halten, und genießen Sie ein morgendliches Bad, bevor die Boote vor Anker gehen.",
+            "hu": "Csodálja meg a víz alatti édesvízi forrásokat, amelyek hűsen tartják ezt a zöldes öblöt, és élvezze a békés reggeli úszást, mielőtt a hajók lehorgonyoznának.",
+            "ro": "Admirați izvoarele de apă dulce care mențin acest golf verde răcoros și bucurați-vă de o înotare liniștită dimineața înainte ca bărcile să arunce ancora.",
+            "en": "Marvel at the underwater freshwater springs that keep this green-hued bay refreshingly cool, and enjoy a peaceful morning swim before the boats drop anchor."
+          }
+        },
+        {
+          "name": {
+            "de": "Mega Ammos",
+            "hu": "Mega Ammos",
+            "ro": "Mega Ammos",
+            "en": "Mega Ammos"
+          },
+          "coords": [
+            20.256995,
+            39.39828
+          ],
+          "category": "recreational",
+          "arrive_at": "13:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre von Sivotas größtem organisierten Strand mit vielen Wassersportarten, und essen Sie mittags frische Meeresfrüchte in einer Taverne.",
+            "hu": "Szívja magába Sivota legnagyobb kiépített strandjának nyüzsgő hangulatát a sok vízi sporttal, és ebédeljen egy tengerparti tavernában friss helyi tengeri herkentyűket.",
+            "ro": "Bucurați-vă de atmosfera plină de viață a celei mai mari plaje organizate din Sivota și luați prânzul la o tavernă pe malul mării pentru fructe de mare proaspete.",
+            "en": "Soak in the lively atmosphere of Sivota's largest organized beach with extensive water sports, and grab lunch at a nearby seaside taverna for fresh local seafood."
+          }
+        },
+        {
+          "name": {
+            "de": "Mikri Ammos",
+            "hu": "Mikri Ammos",
+            "ro": "Mikri Ammos",
+            "en": "Mikri Ammos"
+          },
+          "coords": [
+            20.263139,
+            39.396509
+          ],
+          "category": "recreational",
+          "arrive_at": "14:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Tanzen Sie zu fröhlicher Musik in diesem trendigen, lebhaften Strandclub, aber reservieren Sie Ihre Premium-Liegen im Hochsommer besser einen Tag im Voraus.",
+            "hu": "Táncoljon vidám zenére ebben a divatos, fiatalos energiáiról ismert strandklubban, de a főszezonban már egy nappal előre foglalja le a prémium napágyakat.",
+            "ro": "Dansați pe muzică antrenantă la acest club de plajă la modă, dar rezervați-vă șezlongurile premium cu o zi înainte în timpul verii de vârf.",
+            "en": "Dance to upbeat music at this trendy, vibrant beach club known for its youthful energy, but reserve your premium sunbeds a day in advance during peak summer."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens nach Zeri für ein ruhiges Schwimmen. Mittags erkunden Sie Karbouno, bevor es zu den kühlen Gewässern von Zavia geht. Verbringen Sie den Nachmittag am belebten Mega Ammos. Der Abend endet am Mikri Ammos in einer tollen Atmosphäre.",
+        "hu": "Reggel vezessen Zeri felé egy nyugodt úszásra. Délben fedezze fel Karbouno-t, majd irány a Zavia hűs vize. A délutánt a nyüzsgő Mega Ammos strandon töltse. Az este a Mikri Ammos vibráló, tengerparti naplementés hangulatával zárul kényelmesen.",
+        "ro": "Conduceți la Zeri la prima oră pentru o înotare senină de dimineață. La prânz, explorați Karbouno și apele reci din Zavia. Petreceți după-amiaza la plaja animată Mega Ammos. Seara se încheie la Mikri Ammos cu o atmosferă vibrantă la apus pe litoral.",
+        "en": "Drive to Zeri first thing for a serene morning swim. By midday, explore Karbouno before heading to the cool waters of Zavia. Spend the afternoon at the bustling Mega Ammos beach. The evening concludes at Mikri Ammos with a vibrant seaside sunset atmosphere."
+      }
+    }
+  }
+}

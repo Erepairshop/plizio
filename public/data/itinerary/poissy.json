@@ -1,0 +1,497 @@
+{
+  "city_id": "poissy",
+  "anchor": {
+    "name": "Poissy",
+    "coords": [
+      2.0447,
+      48.9289
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:28",
+      "total_km": 1.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hôtel de Ville",
+            "hu": "Hôtel de Ville",
+            "ro": "Hôtel de Ville",
+            "en": "Hôtel de Ville"
+          },
+          "coords": [
+            2.042785,
+            48.927364
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische bürgerliche Architektur dieses historischen Rathauses und fotografieren Sie die elegante Fassade vor dem großen Andrang.",
+            "hu": "Csodálja meg a történelmi városháza klasszikus polgári építészetét, és készítsen egy gyors fotót az elegáns homlokzatról a reggeli tömeg érkezése előtt.",
+            "ro": "Admirați arhitectura civică clasică a acestei primării istorice și faceți o fotografie rapidă a fațadei sale elegante înainte de aglomerația matinală.",
+            "en": "Admire the classical civic architecture of this historic town hall, and take a quick photo of its elegant facade before the morning crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Noyau de Poissy",
+            "hu": "Noyau de Poissy",
+            "ro": "Noyau de Poissy",
+            "en": "Noyau de Poissy"
+          },
+          "coords": [
+            2.044116,
+            48.928719
+          ],
+          "category": "culinary",
+          "arrive_at": "09:37",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier den traditionellen lokalen Likör aus Aprikosenkernen und kaufen Sie eine kleine Probierflasche als authentisches Souvenir.",
+            "hu": "Fedezze fel itt a sárgabarackmagból készült hagyományos helyi likőrt, és mindenképpen vásároljon egy kis kóstolóüveget autentikus szuvenírként.",
+            "ro": "Descoperiți aici lichiorul local tradițional din sâmburi de caise și asigurați-vă că cumpărați o sticlă mică de degustare ca suvenir autentic.",
+            "en": "Discover the traditional local liqueur made from apricot kernels here, and be sure to buy a small tasting bottle to enjoy as an authentic souvenir."
+          }
+        },
+        {
+          "name": {
+            "de": "Collégiale Notre-Dame",
+            "hu": "Collégiale Notre-Dame",
+            "ro": "Collégiale Notre-Dame",
+            "en": "Collégiale Notre-Dame"
+          },
+          "coords": [
+            2.038146,
+            48.929923
+          ],
+          "category": "religious",
+          "arrive_at": "10:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Betreten Sie diese atemberaubende Kirche aus dem 12. Jahrhundert, in der der heilige Ludwig getauft wurde, und achten Sie auf die romanischen Kapitelle.",
+            "hu": "Lépjen be ebbe a lenyűgöző 12. századi templomba, ahol Szent Lajost megkeresztelték, és figyelje meg a román stílusú oszlopfők gyönyörű részleteit.",
+            "ro": "Intrați în această uimitoare biserică din secolul al XII-lea unde a fost botezat Sfântul Ludovic și priviți detaliile rafinate ale capitelurilor romanice.",
+            "en": "Step inside this stunning 12th-century church where Saint Louis was baptized, and look closely at the exquisite details of the Romanesque capitals."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée du Jouet",
+            "hu": "Musée du Jouet",
+            "ro": "Musée du Jouet",
+            "en": "Musée du Jouet"
+          },
+          "coords": [
+            2.037917,
+            48.928444
+          ],
+          "category": "museum",
+          "arrive_at": "11:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie eine faszinierende Sammlung von Vintage-Spielzeugen zur Geschichte der Kindheit, perfekt für eine spannende Entdeckungsstunde für Familien.",
+            "hu": "Fedezze fel a gyermekkor történetét bemutató lenyűgöző vintage játékok gyűjteményét, amely tökéletes egy izgalmas, felfedezéssel teli órához a családoknak.",
+            "ro": "Explorați o colecție fascinantă de jucării de epocă ce ilustrează istoria copilăriei, perfectă pentru ca familiile să petreacă o oră de descoperiri.",
+            "en": "Explore a fascinating collection of vintage toys that chart childhood history, making it perfect for families to spend an engaging hour of discovery."
+          }
+        },
+        {
+          "name": {
+            "de": "Prieuré royal Saint-Louis",
+            "hu": "Prieuré royal Saint-Louis",
+            "ro": "Prieuré royal Saint-Louis",
+            "en": "Prieuré royal Saint-Louis"
+          },
+          "coords": [
+            2.035673,
+            48.92859
+          ],
+          "category": "monastic",
+          "arrive_at": "13:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die friedlichen Überreste dieses königlichen Priorats und ruhen Sie sich in den ruhigen Gärten abseits des belebten Zentrums aus.",
+            "hu": "Sétáljon végig ennek a történelmi királyi perjelségnek a békés maradványai között, és pihenjen meg egy pillanatra csendes kertjeiben a központ zajától távol.",
+            "ro": "Plimbați-vă prin rămășițele pașnice ale acestei priorități regale istorice și odihniți-vă un moment în grădinile sale liniștite departe de agitația orașului.",
+            "en": "Wander through the peaceful remnants of this historical royal priory, and take a moment to rest in its quiet gardens away from the bustling city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc Meissonier",
+            "hu": "Parc Meissonier",
+            "ro": "Parc Meissonier",
+            "en": "Parc Meissonier"
+          },
+          "coords": [
+            2.031,
+            48.927
+          ],
+          "category": "natural",
+          "arrive_at": "14:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem wunderschönen Park im englischen Stil mit seinem ruhigen Teich, der einen perfekten schattigen Platz für ein Picknick bietet.",
+            "hu": "Pihenjen meg ebben a gyönyörűen parkosított, angol stílusú parkban és békés tavánál, amely tökéletes árnyékos helyet kínál egy délutáni piknikhez.",
+            "ro": "Relaxați-vă în acest parc frumos amenajat în stil englezesc, cu iazul său liniștit, care oferă un loc umbrit perfect pentru un picnic de după-amiază.",
+            "en": "Relax in this beautifully landscaped English-style park with its tranquil pond, which offers a perfect shaded spot for a mid-afternoon picnic break."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Savoye",
+            "hu": "Villa Savoye",
+            "ro": "Villa Savoye",
+            "en": "Villa Savoye"
+          },
+          "coords": [
+            2.028333,
+            48.924444
+          ],
+          "category": "historical",
+          "arrive_at": "15:38",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bestaunen Sie Le Corbusiers modernistisches Architekturmeisterwerk und buchen Sie Ihr Ticket unbedingt im Voraus online, um die Warteschlangen zu umgehen.",
+            "hu": "Csodálja meg Le Corbusier modernista építészeti remekművét, és ne felejtse el előre online lefoglalni a belépőjét, hogy elkerülje a gyakori sorban állást.",
+            "ro": "Minunați-vă de capodopera arhitecturală modernistă a lui Le Corbusier și amintiți-vă să rezervați biletul online în avans pentru a evita cozile frecvente.",
+            "en": "Marvel at Le Corbusier's modernist architectural masterpiece, and remember to book your entrance ticket online in advance to skip the frequent queues."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im bürgerlichen Herzen von Poissy am Hôtel de Ville, gefolgt von einer Geschmacksprobe beim Noyau de Poissy. \n\n Tauchen Sie am Mittag in die tiefe Geschichte der Collégiale Notre-Dame ein, bevor Sie im Musée du Jouet in Kindheitserinnerungen schwelgen. \n\n Der Nachmittag bietet Ruhe und Natur im königlichen Priorat und am ruhigen Teich im malerischen Parc Meissonier. \n\n Beenden Sie den Spaziergang mit einem unvergesslichen Besuch in Le Corbusiers ikonischer Villa Savoye, der diesen architektonischen Tag abrundet.",
+        "hu": "Kezdje a reggelt Poissy polgári szívében, a Hôtel de Ville-nél, majd kóstolja meg a helyi hagyományokat a Noyau de Poissy-nél. \n\n Délben merüljön el a történelemben a csodálatos Collégiale Notre-Dame-ban, mielőtt a Musée du Jouet gyermekkorba repítő nosztalgiájába lépne. \n\n A délután a béke és a természet ötvözete a királyi perjelség maradványai között és a Parc Meissonier tavainál. \n\n Zárja a sétát Le Corbusier ikonikus Villa Savoye-jának felejthetetlen esti látogatásával, megkoronázva a hatalmas építészeti változatosság napját.",
+        "ro": "Începeți dimineața în centrul civic al orașului Poissy la Hôtel de Ville, urmat de un gust de tradiție la localul Noyau de Poissy. \n\n La prânz, cufundați-vă în istorie la magnifica Collégiale Notre-Dame înainte de a păși în nostalgia copilăriei la Musée du Jouet. \n\n După-amiaza este un amestec de pace și natură, plimbându-vă prin rămășițele Prioratului Regal și relaxându-vă la Parc Meissonier. \n\n Încheiați plimbarea cu o vizită de seară de neuitat la iconica Villa Savoye a lui Le Corbusier, încununând o zi de o imensă varietate arhitecturală.",
+        "en": "Begin your morning in the civic heart of Poissy at the Hôtel de Ville, followed by a taste of tradition at the local Noyau de Poissy. \n\n By midday, immerse yourself in deep history at the magnificent Collégiale Notre-Dame before stepping into childhood nostalgia at the Musée du Jouet. \n\n Your afternoon is a blend of peace and nature, wandering through the Royal Priory remnants and relaxing by the ponds of Parc Meissonier. \n\n Conclude the walk with an unforgettable evening visit to Le Corbusier's iconic Villa Savoye, capping off a day of immense architectural variety."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:53",
+      "total_km": 2.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Forum Armand-Peugeot",
+            "hu": "Forum Armand-Peugeot",
+            "ro": "Forum Armand-Peugeot",
+            "en": "Forum Armand-Peugeot"
+          },
+          "coords": [
+            2.043178,
+            48.934722
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag in diesem modernen Kulturzentrum mit lokalen Veranstaltungen und prüfen Sie frühzeitig, ob heute kostenlose Ausstellungen stattfinden.",
+            "hu": "Kezdje a napot ebben a modern, helyi eseményeknek otthont adó kulturális központban, és ellenőrizze korán, vannak-e ma ingyenes kiállítások.",
+            "ro": "Începeți ziua la acest centru cultural modern ce găzduiește evenimente locale și verificați programul devreme pentru a vedea dacă există expoziții gratuite azi.",
+            "en": "Start your day at this modern cultural hub hosting diverse local events, and check their schedule board early to see if any free exhibitions are open today."
+          }
+        },
+        {
+          "name": {
+            "de": "Vieux Pont",
+            "hu": "Vieux Pont",
+            "ro": "Vieux Pont",
+            "en": "Vieux Pont"
+          },
+          "coords": [
+            2.037789,
+            48.933352
+          ],
+          "category": "historical",
+          "arrive_at": "09:37",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der alten Steinbögen dieser teilweise zerstörten Brücke über die Seine, die einen fantastischen Aussichtspunkt für Fotos bietet.",
+            "hu": "Sétáljon végig a Szajna feletti, részben megsemmisült híd ősi kőívein, amely fantasztikus kilátást és remek fotózási lehetőséget kínál a folyóparton.",
+            "ro": "Plimbați-vă de-a lungul arcadelor antice de piatră ale acestui pod parțial distrus peste Sena, care oferă un punct de observație fantastic pentru fotografii.",
+            "en": "Walk along the ancient stone arches of this partially destroyed bridge over the Seine, which provides a fantastic vantage point for riverside photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Collégiale Notre-Dame",
+            "hu": "Collégiale Notre-Dame",
+            "ro": "Collégiale Notre-Dame",
+            "en": "Collégiale Notre-Dame"
+          },
+          "coords": [
+            2.038146,
+            48.929923
+          ],
+          "category": "religious",
+          "arrive_at": "10:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betreten Sie diese atemberaubende Kirche aus dem 12. Jahrhundert, in der der heilige Ludwig getauft wurde, und achten Sie auf die romanischen Kapitelle.",
+            "hu": "Lépjen be ebbe a lenyűgöző 12. századi templomba, ahol Szent Lajost megkeresztelték, és figyelje meg a román stílusú oszlopfők gyönyörű részleteit.",
+            "ro": "Intrați în această uimitoare biserică din secolul al XII-lea unde a fost botezat Sfântul Ludovic și priviți detaliile rafinate ale capitelurilor romanice.",
+            "en": "Step inside this stunning 12th-century church where Saint Louis was baptized, and look closely at the exquisite details of the Romanesque capitals."
+          }
+        },
+        {
+          "name": {
+            "de": "Statue of Ernest Meissonier",
+            "hu": "Statue of Ernest Meissonier",
+            "ro": "Statue of Ernest Meissonier",
+            "en": "Statue of Ernest Meissonier"
+          },
+          "coords": [
+            2.031197,
+            48.928205
+          ],
+          "category": "historical",
+          "arrive_at": "11:22",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Halten Sie kurz an, um diese klassische Bronzestatue des berühmten französischen Malers zu würdigen, bevor Sie weiter in den Park gehen.",
+            "hu": "Álljon meg egy rövid időre, hogy megcsodálja ezt a híres francia festőnek emléket állító bronzszobrot, mielőtt mélyebben belevetné magát a parkba.",
+            "ro": "Opriți-vă scurt pentru a aprecia acest tribut clasic din bronz adus faimosului pictor francez, situat perfect înainte de a vă îndrepta spre parc.",
+            "en": "Stop briefly to appreciate this classic bronze tribute to the famous French painter, perfectly situated as a waypoint before heading deeper into the park."
+          }
+        },
+        {
+          "name": {
+            "de": "Chateau de Villiers",
+            "hu": "Chateau de Villiers",
+            "ro": "Chateau de Villiers",
+            "en": "Chateau de Villiers"
+          },
+          "coords": [
+            2.023305,
+            48.926259
+          ],
+          "category": "castle",
+          "arrive_at": "11:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Fassade dieses historischen, von viel Grün umgebenen Schlosses und genießen Sie einen langsamen Spaziergang auf dem Gelände.",
+            "hu": "Csodálja meg ennek a zöldövezettel körülvett, történelmi helyi kastélynak az elegáns homlokzatát, és tegyen egy lassú sétát a varázsa teljes átéléséhez.",
+            "ro": "Admirați fațada elegantă a acestui castel istoric local înconjurat de verdeață și bucurați-vă de o plimbare lentă în jurul său pentru a-i aprecia farmecul.",
+            "en": "Admire the elegant facade of this historic local castle surrounded by greenery, and enjoy a slow walk around its perimeter to fully appreciate its charm."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Savoye",
+            "hu": "Villa Savoye",
+            "ro": "Villa Savoye",
+            "en": "Villa Savoye"
+          },
+          "coords": [
+            2.028333,
+            48.924444
+          ],
+          "category": "historical",
+          "arrive_at": "13:03",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie Le Corbusiers modernistisches Architekturmeisterwerk und buchen Sie Ihr Ticket unbedingt im Voraus online, um die Warteschlangen zu umgehen.",
+            "hu": "Csodálja meg Le Corbusier modernista építészeti remekművét, és ne felejtse el előre online lefoglalni a belépőjét, hogy elkerülje a gyakori sorban állást.",
+            "ro": "Minunați-vă de capodopera arhitecturală modernistă a lui Le Corbusier și amintiți-vă să rezervați biletul online în avans pentru a evita cozile frecvente.",
+            "en": "Marvel at Le Corbusier's modernist architectural masterpiece, and remember to book your entrance ticket online in advance to skip the frequent queues."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Radtag im modernen Forum Armand-Peugeot, bevor Sie zum Fluss radeln, um die mittelalterlichen Reste des Vieux Pont zu bewundern. \n\n Mittags machen Sie eine spirituelle Pause an der Collégiale Notre-Dame, gefolgt von einem kurzen Fotostopp an der Meissonier-Statue. \n\n Verbringen Sie den Nachmittag damit, durch grünere Alleen zum eleganten Chateau de Villiers zu radeln und die frische Luft zu genießen. \n\n Ihr Tag endet mit einer Fahrt zur spektakulären Villa Savoye, wo die modernistische Geschichte Ihr zweirädriges Abenteuer perfekt abschließt.",
+        "hu": "Kezdje a kerékpáros napot a modern Forum Armand-Peugeot-nál, majd tekerjen a folyó felé, hogy megcsodálja a Vieux Pont középkori maradványait. \n\n A dél pihentető szünetet hoz a lenyűgöző Collégiale Notre-Dame-nál, amelyet egy gyors fotómegálló követ a Meissonier-szobornál. \n\n Töltse a délutánt zöldebb utakon kerekezve, hogy felfedezze az elegáns Chateau de Villiers-t, élvezve a friss levegőt. \n\n A nap a látványos Villa Savoye-hoz tett kerékpározással zárul, ahol a modernista történelem tökéletesen megkoronázza a kétkerekű kalandot.",
+        "ro": "Începeți ziua de ciclism la modernul Forum Armand-Peugeot, înainte de a pedala spre râu pentru a admira rămășițele medievale ale Vieux Pont. \n\n Prânzul aduce o pauză spirituală la uimitoarea Collégiale Notre-Dame, urmată de o oprire foto rapidă la Statuia lui Meissonier. \n\n Petreceți-vă după-amiaza pedalând pe bulevarde mai verzi pentru a descoperi elegantul Chateau de Villiers, bucurându-vă de aerul proaspăt. \n\n Ziua se încheie cu o plimbare către spectaculoasa Villa Savoye, unde istoria modernistă vă încununează perfect aventura pe două roți.",
+        "en": "Kick off your cycling day at the modern Forum Armand-Peugeot, before pedaling towards the river to admire the medieval remnants of the Vieux Pont. \n\n Midday brings a spiritual pause at the striking Collégiale Notre-Dame, followed by a quick photo stop at the Meissonier Statue to break up the ride. \n\n Spend your afternoon cycling through greener avenues to discover the elegant Chateau de Villiers, enjoying the fresh air and charming estates. \n\n Your day wraps up with a ride to the spectacular Villa Savoye, where modernist history perfectly caps your two-wheeled adventure."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:47",
+      "total_km": 13.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Maison de Fer",
+            "hu": "Maison de Fer",
+            "ro": "Maison de Fer",
+            "en": "Maison de Fer"
+          },
+          "coords": [
+            2.023434,
+            48.916379
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses ungewöhnliche Ganzmetallhaus mit seinem markanten Design und lesen Sie die Informationstafeln über seine einzigartige Konstruktion.",
+            "hu": "Fedezze fel ezt a szokatlan, teljesen fémből épült házat a feltűnő dizájnjával, és olvassa el a kinti táblákat az egyedülálló konstrukció történetéről.",
+            "ro": "Descoperiți această casă neobișnuită din metal cu designul său arhitectural izbitor și citiți panourile exterioare pentru a afla despre construcția sa.",
+            "en": "Discover this unusual all-metal house with its striking architectural design, and read the informative outdoor panels to learn about its unique construction."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison d'Andre Derain",
+            "hu": "Maison d'Andre Derain",
+            "ro": "Maison d'Andre Derain",
+            "en": "Maison d'Andre Derain"
+          },
+          "coords": [
+            2.037108,
+            48.906428
+          ],
+          "category": "museum",
+          "arrive_at": "10:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie hier in die kreative Welt des berühmten fauvistischen Malers ein und nehmen Sie sich Zeit für sein erhaltenes Atelier und die Gärten.",
+            "hu": "Merüljön el a híres fauvista festő kreatív világában, és szánjon időt a gondosan megőrzött stúdiójának és az inspiráló kertjének felfedezésére.",
+            "ro": "Scufundați-vă aici în lumea creativă a faimosului pictor fauvist, făcându-vă timp să vă plimbați prin studioul său conservat și grădinile inspiratoare.",
+            "en": "Immerse yourself in the creative world of the famous Fauvist painter here, taking time to wander through his preserved studio and the inspiring gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Savoye",
+            "hu": "Villa Savoye",
+            "ro": "Villa Savoye",
+            "en": "Villa Savoye"
+          },
+          "coords": [
+            2.028333,
+            48.924444
+          ],
+          "category": "historical",
+          "arrive_at": "12:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie Le Corbusiers modernistisches Architekturmeisterwerk und buchen Sie Ihr Ticket unbedingt im Voraus online, um die Warteschlangen zu umgehen.",
+            "hu": "Csodálja meg Le Corbusier modernista építészeti remekművét, és ne felejtse el előre online lefoglalni a belépőjét, hogy elkerülje a gyakori sorban állást.",
+            "ro": "Minunați-vă de capodopera arhitecturală modernistă a lui Le Corbusier și amintiți-vă să rezervați biletul online în avans pentru a evita cozile frecvente.",
+            "en": "Marvel at Le Corbusier's modernist architectural masterpiece, and remember to book your entrance ticket online in advance to skip the frequent queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée du Jouet",
+            "hu": "Musée du Jouet",
+            "ro": "Musée du Jouet",
+            "en": "Musée du Jouet"
+          },
+          "coords": [
+            2.037917,
+            48.928444
+          ],
+          "category": "museum",
+          "arrive_at": "13:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie eine faszinierende Sammlung von Vintage-Spielzeugen zur Geschichte der Kindheit, perfekt für eine spannende Entdeckungsstunde für Familien.",
+            "hu": "Fedezze fel a gyermekkor történetét bemutató lenyűgöző vintage játékok gyűjteményét, amely tökéletes egy izgalmas, felfedezéssel teli órához a családoknak.",
+            "ro": "Explorați o colecție fascinantă de jucării de epocă ce ilustrează istoria copilăriei, perfectă pentru ca familiile să petreacă o oră de descoperiri.",
+            "en": "Explore a fascinating collection of vintage toys that chart childhood history, making it perfect for families to spend an engaging hour of discovery."
+          }
+        },
+        {
+          "name": {
+            "de": "Vieux Pont",
+            "hu": "Vieux Pont",
+            "ro": "Vieux Pont",
+            "en": "Vieux Pont"
+          },
+          "coords": [
+            2.037789,
+            48.933352
+          ],
+          "category": "historical",
+          "arrive_at": "15:21",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der alten Steinbögen dieser teilweise zerstörten Brücke über die Seine, die einen fantastischen Aussichtspunkt für Fotos bietet.",
+            "hu": "Sétáljon végig a Szajna feletti, részben megsemmisült híd ősi kőívein, amely fantasztikus kilátást és remek fotózási lehetőséget kínál a folyóparton.",
+            "ro": "Plimbați-vă de-a lungul arcadelor antice de piatră ale acestui pod parțial distrus peste Sena, care oferă un punct de observație fantastic pentru fotografii.",
+            "en": "Walk along the ancient stone arches of this partially destroyed bridge over the Seine, which provides a fantastic vantage point for riverside photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Berges de la Seine",
+            "hu": "Berges de la Seine",
+            "ro": "Berges de la Seine",
+            "en": "Berges de la Seine"
+          },
+          "coords": [
+            2.111807,
+            48.880307
+          ],
+          "category": "natural",
+          "arrive_at": "16:02",
+          "stay_min": 105,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit einer malerischen Fahrt zu diesen friedlichen Flussufern, wo Sie den Sonnenuntergang über dem Wasser beobachten können.",
+            "hu": "Fejezze be a napját egy festői utazással e békés folyópartokhoz, ahol megnézheti a naplementét a víz felett, és élvezhet egy nyugodt esti sétát.",
+            "ro": "Încheiați-vă ziua cu un drum pitoresc către aceste maluri pașnice, unde puteți privi apusul de soare peste apă și vă puteți bucura de o plimbare calmă.",
+            "en": "End your day with a scenic scenic drive to these peaceful riverbanks, where you can watch the sunset over the water and enjoy a calm evening stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Roadtrip mit der ungewöhnlichen metallischen Architektur der Maison de Fer und genießen Sie die Flexibilität Ihres Autos. \n\n Fahren Sie am Mittag nach Süden, um das künstlerische Erbe in der Maison d'Andre Derain zu erkunden und in die erhaltenen Ateliers einzutauchen. \n\n Der Nachmittag geht weiter mit der Fahrt zur Villa Savoye, gefolgt von einem Besuch der Vintage-Sammlungen im Musée du Jouet. \n\n Beenden Sie die Tour mit einem Blick auf den Vieux Pont, bevor Sie eine malerische Abendfahrt zu den Ufern der Berges de la Seine unternehmen.",
+        "hu": "Kezdje autós utazását a Maison de Fer rendkívül szokatlan fémes építészetével, kihasználva a rugalmasságot, amit egy autó nyújt e helyekhez. \n\n Vezessen délre délben, hogy felfedezze a Maison d'Andre Derain művészeti örökségét, elmerülve a gondosan megőrzött stúdiókban. \n\n A délután folytatódik, ahogy észak felé tart a kihagyhatatlan Villa Savoye-hoz, majd a Musée du Jouet vintage gyűjteményeibe vetve magát. \n\n Fejezze be a túrát a Vieux Pont megtekintésével, majd egy festői esti vezetéssel, hogy teljesen ellazuljon a Berges de la Seine mentén.",
+        "ro": "Începeți călătoria cu mașina cu arhitectura metalică neobișnuită de la Maison de Fer, bucurându-vă de flexibilitatea pe care o oferă o mașină. \n\n Conduceți spre sud la prânz pentru a explora moștenirea artistică la Maison d'Andre Derain, cufundându-vă în studiourile conservate. \n\n După-amiaza continuă în timp ce vă îndreptați înapoi spre nord către inegalabila Villa Savoye, urmată de o vizită la Musée du Jouet. \n\n Terminați turul cu o scurtă vedere a Vieux Pont înainte de a conduce seara pentru a vă relaxa complet de-a lungul Berges de la Seine.",
+        "en": "Start your road trip with the highly unusual metallic architecture of Maison de Fer, enjoying the flexibility a car provides to reach these unique spots. \n\n Drive south by midday to explore the artistic legacy at Maison d'Andre Derain, immersing yourself in the preserved studios and colorful history. \n\n Your afternoon continues as you head back north to the unmissable Villa Savoye, followed by a dive into vintage collections at the Musée du Jouet. \n\n Finish the driving tour with a quick view of the Vieux Pont before a scenic evening drive to relax completely along the Berges de la Seine."
+      }
+    }
+  }
+}

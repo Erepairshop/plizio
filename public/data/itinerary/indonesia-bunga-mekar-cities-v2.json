@@ -1,0 +1,520 @@
+{
+  "city_id": "indonesia-bunga-mekar-cities-v2",
+  "anchor": {
+    "name": "Bunga Mekar",
+    "coords": [
+      115.47745,
+      -8.74287
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:01",
+      "total_km": 3.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kelingking Aussichtspunkt",
+            "hu": "Kelingking naplemente kilátó",
+            "ro": "Punct de belvedere Kelingking",
+            "en": "Kelingking sunset view point"
+          },
+          "coords": [
+            115.476889,
+            -8.752523
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die berühmte T-Rex-Felsformation von oben, aber kommen Sie früh, um den riesigen Menschenmengen an den Fotospots zu entgehen.",
+            "hu": "Csodálja meg fentről a híres T-Rex alakú sziklaképződményt, de érkezzen korán, hogy elkerülje a legjobb fotóhelyekért sorban álló tömeget.",
+            "ro": "Admirați faimoasa stâncă în formă de T-Rex de sus, dar ajungeți devreme pentru a evita mulțimile uriașe care stau la coadă pentru poze.",
+            "en": "Admire the famous T-Rex shaped rock formation from above, but arrive early to avoid the massive crowds queuing for the best photo spots."
+          }
+        },
+        {
+          "name": {
+            "de": "Kelingking Strand",
+            "hu": "Kelingking strand",
+            "ro": "Plaja Kelingking",
+            "en": "Kelingking Beach"
+          },
+          "coords": [
+            115.473081,
+            -8.751299
+          ],
+          "category": "landmark",
+          "arrive_at": "09:42",
+          "stay_min": 90,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Wandern Sie den steilen Pfad hinab zu diesem unberührten, versteckten Strand und achten Sie darauf, feste Schuhe zu tragen und Wasser mitzunehmen.",
+            "hu": "Túrázzon le a meredek ösvényen ehhez az érintetlen, rejtett strandhoz, de feltétlenül viseljen masszív cipőt és vigyen magával ivóvizet.",
+            "ro": "Coborâți pe poteca abruptă pentru a explora această plajă ascunsă imaculată, asigurându-vă că purtați încălțăminte solidă și aveți apă.",
+            "en": "Hike down the steep, rugged path to experience this pristine hidden beach, making sure to wear sturdy shoes and carry plenty of drinking water."
+          }
+        },
+        {
+          "name": {
+            "de": "Verlassenes Haus",
+            "hu": "Elhagyatott ház",
+            "ro": "Casa abandonată",
+            "en": "Maisn abandonnée"
+          },
+          "coords": [
+            115.469111,
+            -8.74627
+          ],
+          "category": "landmark",
+          "arrive_at": "11:23",
+          "stay_min": 25,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses verlassene, von tropischer Vegetation überwucherte Gebäude, wobei Sie vorsichtig über die unebenen, trümmergefüllten Böden gehen sollten.",
+            "hu": "Fedezze fel ezt a trópusi növényzettel benőtt, kísérteties elhagyatott épületet, óvatosan lépkedve az egyenetlen, törmelékkel teli padlón.",
+            "ro": "Explorați această structură abandonată și stranie invadată de vegetație tropicală, pășind cu grijă pe podelele inegale pline de moloz.",
+            "en": "Explore this eerie, abandoned concrete structure overgrown with tropical vegetation, treading carefully around the uneven debris-filled floors."
+          }
+        },
+        {
+          "name": {
+            "de": "Extreme Park Bali",
+            "hu": "Extreme Park Bali",
+            "ro": "Extreme Park Bali",
+            "en": "Extreme Park Bali"
+          },
+          "coords": [
+            115.466384,
+            -8.745684
+          ],
+          "category": "landmark",
+          "arrive_at": "11:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Holen Sie sich Ihren Adrenalinkick auf diesem lokalen Abenteuerspielplatz mit Seilschaukeln, aber prüfen Sie die Sicherheitsgurte vor der Nutzung.",
+            "hu": "Pörgesse fel az adrenalint ezen a kötéhintákat kínáló helyi kalandparkon, bár részvétel előtt alaposan ellenőrizze a biztonsági hevedereket.",
+            "ro": "Creșteți-vă adrenalina la acest parc de aventură local cu leagăne, deși trebuie să verificați cu atenție hamurile de siguranță înainte.",
+            "en": "Get your adrenaline pumping at this local adventure playground featuring rope swings, though check safety harnesses carefully before participating."
+          }
+        },
+        {
+          "name": {
+            "de": "Bulian Strand",
+            "hu": "Bulian strand",
+            "ro": "Plaja Bulian",
+            "en": "Bulian Beach"
+          },
+          "coords": [
+            115.455314,
+            -8.742177
+          ],
+          "category": "recreational",
+          "arrive_at": "13:28",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem abgelegenen Küstenabschnitt mit dramatischen Wellen, aber vermeiden Sie das Schwimmen, da die Strömungen gefährlich sind.",
+            "hu": "Pihenjen ezen az eldugott, drámai hullámokkal és puha homokkal rendelkező partszakaszon, de kerülje az úszást az erős tengeri áramlatok miatt.",
+            "ro": "Relaxați-vă pe această coastă izolată cu valuri dramatice și nisip fin, dar evitați înotul deoarece curenții subacvatici pot fi foarte periculoși.",
+            "en": "Relax at this secluded coastal stretch featuring dramatic waves and soft sand, but avoid swimming as the underwater currents can be very dangerous."
+          }
+        },
+        {
+          "name": {
+            "de": "Lumangan Strand",
+            "hu": "Lumangan strand",
+            "ro": "Plaja Lumangan",
+            "en": "Lumangan Beach"
+          },
+          "coords": [
+            115.454824,
+            -8.740317
+          ],
+          "category": "recreational",
+          "arrive_at": "14:31",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie versteckte Felsenpools und Meereshöhlen an dieser ruhigen Bucht, indem Sie Ihren Besuch bei Ebbe planen, um sicher zu erkunden.",
+            "hu": "Fedezzen fel rejtett sziklamedencéket ezen a csendes, sziklás öbölben, és időzítse látogatását apályra a lenyűgöző tengeri élőlények miatt.",
+            "ro": "Descoperiți piscine naturale și peșteri marine în acest golf stâncos liniștit, planificând vizita la reflux pentru a explora în siguranță.",
+            "en": "Discover hidden rock pools and sea caves at this quiet rocky bay, timing your visit for low tide to explore the fascinating marine life safely."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am berühmten Kelingking-Aussichtspunkt, gefolgt von einer Wanderung hinab zum Strand. Mittags machen Sie einen Abstecher zu einem verlassenen Haus und besuchen dann den Extreme Park Bali. Am Nachmittag wird die Reise ruhiger, während Sie der rauen Westküste folgen. Der Tag endet friedlich am Lumangan Beach, wo versteckte Felsenpools auf Entdeckung warten.",
+        "hu": "A reggel az ikonikus Kelingking kilátónál kezdődik, majd egy meredek túra következik a strandra. Délben egy elhagyatott házhoz teszünk kitérőt, mielőtt elérjük az Extreme Park Bali izgalmait. Délután a zord nyugati partvidéken kanyarogva lazul a tempó. A nap békésen zárul a Lumangan strandon, ahol lenyűgöző, rejtett sziklamedencék várják, hogy felfedezzük őket a tengerparton.",
+        "ro": "Dimineața începe la faimosul punct de belvedere Kelingking, urmat de o drumeție pe plajă. La amiază vizitați o casă abandonată înainte de a ajunge la Extreme Park Bali. După-amiaza, călătoria devine mai liniștită, urmărind coasta vestică stâncoasă. Ziua se încheie pașnic la plaja Lumangan, unde piscinele naturale ascunse în stânci așteaptă să fie explorate în ritm relaxat.",
+        "en": "Morning begins at the iconic Kelingking viewpoint, followed by a rewarding but steep hike down to its pristine beach. Midday offers a quirky detour to an abandoned house before reaching the thrills of Extreme Park Bali. In the afternoon, the journey mellows out by tracing the rugged western coastline. The day concludes peacefully at Lumangan Beach, where hidden rock pools await exploration."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:21",
+      "total_km": 8.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kelingking Aussichtspunkt",
+            "hu": "Kelingking naplemente kilátó",
+            "ro": "Punct de belvedere Kelingking",
+            "en": "Kelingking sunset view point"
+          },
+          "coords": [
+            115.476889,
+            -8.752523
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die berühmte T-Rex-Felsformation von oben, aber kommen Sie früh, um den riesigen Menschenmengen an den Fotospots zu entgehen.",
+            "hu": "Csodálja meg fentről a híres T-Rex alakú sziklaképződményt, de érkezzen korán, hogy elkerülje a legjobb fotóhelyekért sorban álló tömeget.",
+            "ro": "Admirați faimoasa stâncă în formă de T-Rex de sus, dar ajungeți devreme pentru a evita mulțimile uriașe care stau la coadă pentru poze.",
+            "en": "Admire the famous T-Rex shaped rock formation from above, but arrive early to avoid the massive crowds queuing for the best photo spots."
+          }
+        },
+        {
+          "name": {
+            "de": "Kelingking Strand",
+            "hu": "Kelingking strand",
+            "ro": "Plaja Kelingking",
+            "en": "Kelingking Beach"
+          },
+          "coords": [
+            115.473081,
+            -8.751299
+          ],
+          "category": "landmark",
+          "arrive_at": "09:38",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Wandern Sie den steilen Pfad hinab zu diesem unberührten, versteckten Strand und achten Sie darauf, feste Schuhe zu tragen und Wasser mitzunehmen.",
+            "hu": "Túrázzon le a meredek ösvényen ehhez az érintetlen, rejtett strandhoz, de feltétlenül viseljen masszív cipőt és vigyen magával ivóvizet.",
+            "ro": "Coborâți pe poteca abruptă pentru a explora această plajă ascunsă imaculată, asigurându-vă că purtați încălțăminte solidă și aveți apă.",
+            "en": "Hike down the steep, rugged path to experience this pristine hidden beach, making sure to wear sturdy shoes and carry plenty of drinking water."
+          }
+        },
+        {
+          "name": {
+            "de": "Bana Klippen-Aussicht",
+            "hu": "Bana szikla kilátó",
+            "ro": "Punct de belvedere Bana Cliff",
+            "en": "Bana Cliff viewpoint"
+          },
+          "coords": [
+            115.483266,
+            -8.759802
+          ],
+          "category": "natural",
+          "arrive_at": "11:14",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den weiten Panoramablick auf den tiefblauen Ozean von dieser dramatischen Klippe und halten Sie Abstand zu den ungesicherten Abgründen.",
+            "hu": "Csodálja meg a mélykék óceánra nyíló pazar panorámát erről a drámai sziklaszirtről, biztonságos távolságot tartva a kerítés nélküli peremtől.",
+            "ro": "Minunați-vă de priveliștile panoramice ale oceanului albastru de pe această stâncă dramatică, păstrând o distanță sigură de marginea neîngrădită.",
+            "en": "Marvel at the sweeping panoramic views of the deep blue ocean from this dramatic cliff edge, keeping a safe distance from the unfenced drops."
+          }
+        },
+        {
+          "name": {
+            "de": "Sonnenuntergangspunkt",
+            "hu": "Naplemente pont",
+            "ro": "Punctul de apus",
+            "en": "Sunset point"
+          },
+          "coords": [
+            115.486604,
+            -8.760614
+          ],
+          "category": "natural",
+          "arrive_at": "11:41",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erleben Sie atemberaubende Farben der goldenen Stunde über den Kalksteinformationen und kommen Sie früh, um einen guten Aussichtsfelsen zu sichern.",
+            "hu": "Élvezze a mészkőalakzatokon megcsillanó lélegzetelállító naplemente színeit, és érkezzen jóval sötétedés előtt, hogy jó nézőpontot találjon.",
+            "ro": "Admirați culorile uimitoare ale apusului reflectate pe formațiunile de calcar, ajungând din timp pentru a ocupa o stâncă confortabilă de vizionare.",
+            "en": "Catch breathtaking golden hour colors reflecting over the limestone formations, arriving well before sunset to claim a comfortable viewing rock."
+          }
+        },
+        {
+          "name": {
+            "de": "Banah Klippe",
+            "hu": "Banah szikla",
+            "ro": "Stânca Banah",
+            "en": "Banah Cliff"
+          },
+          "coords": [
+            115.486667,
+            -8.767719
+          ],
+          "category": "natural",
+          "arrive_at": "12:11",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Fotografieren Sie den markanten Steinbogen im Indischen Ozean und verwenden Sie einen Polarisationsfilter, um die Wasserblendung zu reduzieren.",
+            "hu": "Fényképezze le az Indiai-óceánból kiemelkedő ikonikus kőívet, és gondoskodjon polarizációs szűrőről a víz csillogásának csökkentése érdekében.",
+            "ro": "Fotografiați arcul de piatră naturală iconic care iese din Oceanul Indian, asigurându-vă că aveți un filtru de polarizare pentru claritate.",
+            "en": "Photograph the iconic natural stone arch jutting out of the Indian Ocean, ensuring your camera has a polarizing filter to reduce water glare."
+          }
+        },
+        {
+          "name": {
+            "de": "Tare Lagune",
+            "hu": "Tare lagúna",
+            "ro": "Laguna Tare",
+            "en": "Tare Lagoon"
+          },
+          "coords": [
+            115.452144,
+            -8.746877
+          ],
+          "category": "landmark",
+          "arrive_at": "13:16",
+          "stay_min": 45,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Blicken Sie in das kristallklare, türkisfarbene Wasser dieser Küstenlagune und bringen Sie ein Fernglas mit, um majestätische Mantarochen zu sehen.",
+            "hu": "Nézzen bele ennek a természetes parti lagúnának a kristálytiszta, türkizkék vizébe, és vigyen távcsövet a lenn úszó fenséges mantaráják miatt.",
+            "ro": "Priviți în apele turcoaz cristaline ale acestei lagune de coastă naturale, aducând binoclul pentru a observa pisicile de mare majestuoase.",
+            "en": "Gaze into the crystal-clear turquoise waters of this natural coastal lagoon, bringing binoculars to spot majestic manta rays gliding far below."
+          }
+        },
+        {
+          "name": {
+            "de": "Manta Point",
+            "hu": "Manta Point",
+            "ro": "Punctul Manta",
+            "en": "Manta Point"
+          },
+          "coords": [
+            115.453986,
+            -8.738844
+          ],
+          "category": "landmark",
+          "arrive_at": "14:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Suchen Sie die Küstengewässer von diesen rauen Klippen nach riesigen Mantarochen ab und achten Sie auf sicheren Halt auf dem scharfen Kalkstein.",
+            "hu": "Kémlelje a vibráló parti vizeket ezekről a zord sziklákról hatalmas mantaráják után kutatva, biztosan állva az éles és mállott mészköveken.",
+            "ro": "Scanați apele vibrante de coastă de pe aceste stânci pentru a zări mantia uriașe, menținând un sprijin stabil pe calcarul ascuțit și erodat.",
+            "en": "Scan the vibrant coastal waters from these rugged cliffs to spot huge manta rays, keeping a steady footing on the sharp and weathered limestone."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt am majestätischen Kelingking-Aussichtspunkt, bevor Sie in die Bucht wandern. Mittags radeln Sie nach Süden zum Bana Cliff und zum dramatischen Banah-Felsentor. Der Nachmittag bietet eine malerische Küstenfahrt nach Nordwesten zur Tare Lagoon. Der Abend endet am Manta Point, der die perfekte Gelegenheit bietet, Meereslebewesen von den Klippen aus zu beobachten.",
+        "hu": "Kezdje a túrát a fenséges Kelingking kilátónál, mielőtt leereszkedik az öbölbe. Délben biciklizzen délre a Bana sziklához és a drámai Banah kőívhez. Délután egy festői tengerparti tekerés következik északnyugat felé a Tare lagúna türkizkék vizéhez. Az este a Manta Pointnál érkezik el, amely tökéletes lehetőséget nyújt a tengeri élőlények megfigyelésére a zord sziklákról.",
+        "ro": "Începeți plimbarea la maiestuosul punct de belvedere Kelingking înainte de a coborî spre golf. La amiază, pedalați spre sud spre Bana Cliff și arcul de stâncă Banah. După-amiaza implică o pedalare pitorească spre nord-vest către apele turcoaz ale Lagunei Tare. Seara sosiți la Manta Point, oferind ocazia perfectă de a observa viața marină de pe stâncile abrupte uluitoare.",
+        "en": "Kick off your ride at the majestic Kelingking viewpoint before taking a strenuous hike down to the bay. By midday, cycle south to Bana Cliff and the dramatic Banah rock arch. The afternoon involves a scenic coastal pedal northwest towards the turquoise waters of Tare Lagoon. Evening arrives at Manta Point, offering the perfect opportunity to spot marine life from the rugged cliffs."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 6.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Manta Point",
+            "hu": "Manta Point",
+            "ro": "Punctul Manta",
+            "en": "Manta Point"
+          },
+          "coords": [
+            115.453986,
+            -8.738844
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 55,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Suchen Sie die Küstengewässer von diesen rauen Klippen nach riesigen Mantarochen ab und achten Sie auf sicheren Halt auf dem scharfen Kalkstein.",
+            "hu": "Kémlelje a vibráló parti vizeket ezekről a zord sziklákról hatalmas mantaráják után kutatva, biztosan állva az éles és mállott mészköveken.",
+            "ro": "Scanați apele vibrante de coastă de pe aceste stânci pentru a zări mantia uriașe, menținând un sprijin stabil pe calcarul ascuțit și erodat.",
+            "en": "Scan the vibrant coastal waters from these rugged cliffs to spot huge manta rays, keeping a steady footing on the sharp and weathered limestone."
+          }
+        },
+        {
+          "name": {
+            "de": "Lumangan Strand",
+            "hu": "Lumangan strand",
+            "ro": "Plaja Lumangan",
+            "en": "Lumangan Beach"
+          },
+          "coords": [
+            115.454824,
+            -8.740317
+          ],
+          "category": "recreational",
+          "arrive_at": "09:57",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie versteckte Felsenpools und Meereshöhlen an dieser ruhigen Bucht, indem Sie Ihren Besuch bei Ebbe planen, um sicher zu erkunden.",
+            "hu": "Fedezzen fel rejtett sziklamedencéket ezen a csendes, sziklás öbölben, és időzítse látogatását apályra a lenyűgöző tengeri élőlények miatt.",
+            "ro": "Descoperiți piscine naturale și peșteri marine în acest golf stâncos liniștit, planificând vizita la reflux pentru a explora în siguranță.",
+            "en": "Discover hidden rock pools and sea caves at this quiet rocky bay, timing your visit for low tide to explore the fascinating marine life safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Extreme Park Bali",
+            "hu": "Extreme Park Bali",
+            "ro": "Extreme Park Bali",
+            "en": "Extreme Park Bali"
+          },
+          "coords": [
+            115.466384,
+            -8.745684
+          ],
+          "category": "landmark",
+          "arrive_at": "11:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Holen Sie sich Ihren Adrenalinkick auf diesem lokalen Abenteuerspielplatz mit Seilschaukeln, aber prüfen Sie die Sicherheitsgurte vor der Nutzung.",
+            "hu": "Pörgesse fel az adrenalint ezen a kötéhintákat kínáló helyi kalandparkon, bár részvétel előtt alaposan ellenőrizze a biztonsági hevedereket.",
+            "ro": "Creșteți-vă adrenalina la acest parc de aventură local cu leagăne, deși trebuie să verificați cu atenție hamurile de siguranță înainte.",
+            "en": "Get your adrenaline pumping at this local adventure playground featuring rope swings, though check safety harnesses carefully before participating."
+          }
+        },
+        {
+          "name": {
+            "de": "Kelingking Aussichtspunkt",
+            "hu": "Kelingking naplemente kilátó",
+            "ro": "Punct de belvedere Kelingking",
+            "en": "Kelingking sunset view point"
+          },
+          "coords": [
+            115.476889,
+            -8.752523
+          ],
+          "category": "natural",
+          "arrive_at": "12:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die berühmte T-Rex-Felsformation von oben, aber kommen Sie früh, um den riesigen Menschenmengen an den Fotospots zu entgehen.",
+            "hu": "Csodálja meg fentről a híres T-Rex alakú sziklaképződményt, de érkezzen korán, hogy elkerülje a legjobb fotóhelyekért sorban álló tömeget.",
+            "ro": "Admirați faimoasa stâncă în formă de T-Rex de sus, dar ajungeți devreme pentru a evita mulțimile uriașe care stau la coadă pentru poze.",
+            "en": "Admire the famous T-Rex shaped rock formation from above, but arrive early to avoid the massive crowds queuing for the best photo spots."
+          }
+        },
+        {
+          "name": {
+            "de": "Kelingking Strand",
+            "hu": "Kelingking strand",
+            "ro": "Plaja Kelingking",
+            "en": "Kelingking Beach"
+          },
+          "coords": [
+            115.473081,
+            -8.751299
+          ],
+          "category": "landmark",
+          "arrive_at": "12:47",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Wandern Sie den steilen Pfad hinab zu diesem unberührten, versteckten Strand und achten Sie darauf, feste Schuhe zu tragen und Wasser mitzunehmen.",
+            "hu": "Túrázzon le a meredek ösvényen ehhez az érintetlen, rejtett strandhoz, de feltétlenül viseljen masszív cipőt és vigyen magával ivóvizet.",
+            "ro": "Coborâți pe poteca abruptă pentru a explora această plajă ascunsă imaculată, asigurându-vă că purtați încălțăminte solidă și aveți apă.",
+            "en": "Hike down the steep, rugged path to experience this pristine hidden beach, making sure to wear sturdy shoes and carry plenty of drinking water."
+          }
+        },
+        {
+          "name": {
+            "de": "Banah Klippe",
+            "hu": "Banah szikla",
+            "ro": "Stânca Banah",
+            "en": "Banah Cliff"
+          },
+          "coords": [
+            115.486667,
+            -8.767719
+          ],
+          "category": "natural",
+          "arrive_at": "14:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Fotografieren Sie den markanten Steinbogen im Indischen Ozean und verwenden Sie einen Polarisationsfilter, um die Wasserblendung zu reduzieren.",
+            "hu": "Fényképezze le az Indiai-óceánból kiemelkedő ikonikus kőívet, és gondoskodjon polarizációs szűrőről a víz csillogásának csökkentése érdekében.",
+            "ro": "Fotografiați arcul de piatră naturală iconic care iese din Oceanul Indian, asigurându-vă că aveți un filtru de polarizare pentru claritate.",
+            "en": "Photograph the iconic natural stone arch jutting out of the Indian Ocean, ensuring your camera has a polarizing filter to reduce water glare."
+          }
+        },
+        {
+          "name": {
+            "de": "Sonnenuntergangspunkt",
+            "hu": "Naplemente pont",
+            "ro": "Punctul de apus",
+            "en": "Sunset point"
+          },
+          "coords": [
+            115.486604,
+            -8.760614
+          ],
+          "category": "natural",
+          "arrive_at": "15:05",
+          "stay_min": 55,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erleben Sie atemberaubende Farben der goldenen Stunde über den Kalksteinformationen und kommen Sie früh, um einen guten Aussichtsfelsen zu sichern.",
+            "hu": "Élvezze a mészkőalakzatokon megcsillanó lélegzetelállító naplemente színeit, és érkezzen jóval sötétedés előtt, hogy jó nézőpontot találjon.",
+            "ro": "Admirați culorile uimitoare ale apusului reflectate pe formațiunile de calcar, ajungând din timp pentru a ocupa o stâncă confortabilă de vizionare.",
+            "en": "Catch breathtaking golden hour colors reflecting over the limestone formations, arriving well before sunset to claim a comfortable viewing rock."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre malerische Fahrt am Manta Point, bevor Sie am abgelegenen Lumangan Beach entspannen. Der Mittag bringt Abenteuer im Extreme Park Bali, gefolgt von der berühmten Kelingking-Klippe. Am Nachmittag steigen Sie zum weißen Sand des Kelingking Beach hinab. Gegen Abend fahren Sie nach Süden zum Banah Cliff und beenden den Tag mit einem spektakulären Sonnenuntergang.",
+        "hu": "Kezdje a festői autózást a Manta Pointnál, majd pihenjen az eldugott Lumangan strandon. A dél kalandot hoz az Extreme Park Balin, amit a híres Kelingking szikla lenyűgöző kilátása követ. Délután ereszkedjen le a Kelingking strand érintetlen homokjára. Ahogy közeledik az este, vezessen délre a Banah sziklához, és zárja a napot egy látványos tengerparti naplementével.",
+        "ro": "Începeți condusul pitoresc la Manta Point, înainte de a vă relaxa la plaja izolată Lumangan. Amiaza aduce aventură la Extreme Park Bali, urmată de priveliștile de la faimoasa stâncă Kelingking. După-amiaza, coborâți pe nisipurile imaculate ale plajei Kelingking. Spre seară, conduceți spre sud la Banah Cliff și încheiați cu un apus de soare de coastă cu adevărat spectaculos.",
+        "en": "Start your scenic drive at Manta Point, scanning the ocean before relaxing at the secluded Lumangan Beach. Midday brings adventure at Extreme Park Bali, followed by the breathtaking vistas of the famous Kelingking Cliff. In the afternoon, descend to the pristine sands of Kelingking Beach. As evening approaches, drive south to Banah Cliff and end with a spectacular coastal sunset."
+      }
+    }
+  }
+}

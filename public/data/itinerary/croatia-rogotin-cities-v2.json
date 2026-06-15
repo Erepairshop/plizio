@@ -1,0 +1,474 @@
+{
+  "city_id": "croatia-rogotin-cities-v2",
+  "anchor": {
+    "name": "Rogotin",
+    "coords": [
+      17.4669,
+      43.0481
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:11",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Veliki Trovro",
+            "hu": "Veliki Trovro",
+            "ro": "Veliki Trovro",
+            "en": "Veliki Trovro"
+          },
+          "coords": [
+            17.469384,
+            43.043774
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wandern Sie auf den Veliki Trovro, um die atemberaubende Aussicht auf das Neretva-Delta zu genießen, und tragen Sie unbedingt festes Schuhwerk.",
+            "hu": "Mássza meg a Veliki Trovro csúcsát a Neretva deltájának lenyűgöző panorámájáért, és mindenképpen viseljen masszív túracipőt a sziklás ösvényeken.",
+            "ro": "Urcați pe Veliki Trovro pentru a admira priveliștile uimitoare ale deltei Neretva și purtați încălțăminte robustă pentru a naviga în siguranță pe poteci.",
+            "en": "Hike up Veliki Trovro to witness stunning panoramic views of the Neretva delta, and wear sturdy shoes to safely navigate the rocky paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Sestrun",
+            "hu": "Sestrun",
+            "ro": "Sestrun",
+            "en": "Sestrun"
+          },
+          "coords": [
+            17.484352,
+            43.045862
+          ],
+          "category": "natural",
+          "arrive_at": "10:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die natürliche Schönheit der Flora von Sestrun und nehmen Sie sich früh morgens Zeit, um einheimische Vogelarten zu beobachten.",
+            "hu": "Fedezze fel Sestrun változatos növényvilágának természetes szépségét, és érdemes kora reggel érkezni a helyi madárfajok megfigyeléséhez.",
+            "ro": "Explorați frumusețea naturală a florei din Sestrun și rezervați-vă timp dimineața devreme pentru a observa speciile de păsări locale.",
+            "en": "Explore the natural beauty of Sestrun's diverse flora, taking time to spot local bird species early in the morning for the best experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Rogotinski most",
+            "hu": "Rogotinski most",
+            "ro": "Rogotinski most",
+            "en": "Rogotinski most"
+          },
+          "coords": [
+            17.484857,
+            43.038642
+          ],
+          "category": "landmark",
+          "arrive_at": "12:12",
+          "stay_min": 15,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Gehen Sie über die Brücke Rogotinski most und bewundern Sie ihre elegante Konstruktion, wobei ein Stopp in der Mitte tolle Fotos ermöglicht.",
+            "hu": "Sétáljon át a lenyűgöző Rogotinski most hídon annak szerkezeti eleganciájáért, és álljon meg középen egy gyönyörű vízi fotó elkészítéséhez.",
+            "ro": "Traversați podul iconic Rogotinski most pentru a-i aprecia eleganța structurală, oprindu-vă la mijloc pentru o fotografie frumoasă peste ape.",
+            "en": "Walk across the iconic Rogotinski most to appreciate its structural elegance, pausing at the center for a beautiful photo over the calm waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Kozjak",
+            "hu": "Kozjak",
+            "ro": "Kozjak",
+            "en": "Kozjak"
+          },
+          "coords": [
+            17.476551,
+            43.031365
+          ],
+          "category": "natural",
+          "arrive_at": "12:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Kozjak, einem ruhigen Naturparadies, um die friedliche Atmosphäre zu genießen, aber bringen Sie eigenes Wasser und Sonnenschutz mit.",
+            "hu": "Pihenjen meg a Kozjak békés természeti környezetében a csendes légkör élvezetéért, de ne felejtsen el saját vizet és napvédőt hozni magával.",
+            "ro": "Relaxați-vă la Kozjak, o retragere naturală liniștită unde vă puteți bucura de atmosfera senină, dar nu uitați să vă aduceți apă și protecție solară.",
+            "en": "Relax at Kozjak, a tranquil natural retreat where you can enjoy the serene atmosphere, but remember to bring your own water and sun protection."
+          }
+        },
+        {
+          "name": {
+            "de": "Galičak",
+            "hu": "Galičak",
+            "ro": "Galičak",
+            "en": "Galičak"
+          },
+          "coords": [
+            17.463348,
+            43.022454
+          ],
+          "category": "natural",
+          "arrive_at": "14:26",
+          "stay_min": 105,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour am Galičak, wo raue Naturformationen auf den Fluss treffen, um im späten Nachmittagslicht perfekte Sonnenuntergangsfotos zu machen.",
+            "hu": "Fejezze be sétáját a Galičaknál, ahol a sziklás természeti képződmények találkoznak a folyóval, és késő délután gyönyörű naplementét fotózhat.",
+            "ro": "Încheiați-vă plimbarea la Galičak, unde formațiunile naturale stâncoase întâlnesc râul, surprinzând perfect lumina apusului dacă ajungeți după-amiaza.",
+            "en": "End your walk at Galičak where the rugged natural formations meet the river, capturing the sunset glow perfectly if you arrive in the late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit einer Wanderung auf den Veliki Trovro für unvergessliche Ausblicke. Mittags geht es zur Naturoase Sestrun und weiter zur markanten Brücke Rogotinski most. Den Nachmittag verbringen Sie entspannt in der friedlichen Landschaft des Kozjak. Gegen Abend erreichen Sie das malerische Flussufer am Galičak, um den Tag bei einem friedlichen Sonnenuntergang ausklingen zu lassen.",
+        "hu": "Kezdje a reggelt a Veliki Trovro megmászásával, amely felejthetetlen kilátást nyújt a deltára. Délben fedezze fel a Sestrun természeti szépségeit, majd csodálja meg a Rogotinski most hidat. Délután pihenjen meg a Kozjak békés és csendes környezetében. Végül, ahogy közeledik az este, érjen el a Galičak festői folyópartjára, hogy nyugodt körülmények között zárja ezt a tartalmas gyalogos túrát.",
+        "ro": "Începeți dimineața cu o drumeție revigorantă pe Veliki Trovro, oferind vederi de neuitat asupra deltei. La amiază, îndreptați-vă spre refugiul natural Sestrun înainte de a admira podul Rogotinski most. Petreceți după-amiaza relaxându-vă în peisajul senin de la Kozjak. În cele din urmă, pe măsură ce se apropie seara, ajungeți la malul râului Galičak pentru a încheia ziua într-o atmosferă liniștită.",
+        "en": "Start your morning with an invigorating hike up Veliki Trovro, offering unforgettable delta views. By midday, wander towards the natural haven of Sestrun before admiring the architectural grace of Rogotinski most. Spend your afternoon relaxing amidst the serene landscape of Kozjak. Finally, as evening approaches, reach the stunning riverside at Galičak for a tranquil end to your day's journey."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:44",
+      "total_km": 12.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "crkva Kraljice Neba i Zemlje",
+            "hu": "crkva Kraljice Neba i Zemlje",
+            "ro": "crkva Kraljice Neba i Zemlje",
+            "en": "crkva Kraljice Neba i Zemlje"
+          },
+          "coords": [
+            17.433299,
+            43.05488
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die charmante Kirche Kraljice Neba i Zemlje und überprüfen Sie die Gottesdienstzeiten, um das friedliche Innere zu besichtigen.",
+            "hu": "Látogasson el a bájos crkva Kraljice Neba i Zemlje templomba a helyi építészetért, és ellenőrizze a misék rendjét, ha belülről is megnézné.",
+            "ro": "Vizitați fermecătoarea biserică crkva Kraljice Neba i Zemlje și verificați programul slujbelor dacă doriți să-i admirați și interiorul pașnic.",
+            "en": "Visit the charming crkva Kraljice Neba i Zemlje to admire its local religious architecture, and check the mass schedule if you wish to see the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Kite Surf Spot",
+            "hu": "Kite Surf Spot",
+            "ro": "Kite Surf Spot",
+            "en": "Kite Surf Spot"
+          },
+          "coords": [
+            17.447072,
+            43.019459
+          ],
+          "category": "recreational",
+          "arrive_at": "10:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die kühlen Küstenwinde am Kite Surf Spot, ideal, um Sportler zu beobachten oder an windigen Tagen selbst ein Brett zu mieten.",
+            "hu": "Élvezze a tengerparti szeleket a Kite Surf Spotnál, amely tökéletes hely a sportolók megfigyelésére vagy akár deszkabérlésre is egy szeles napon.",
+            "ro": "Simțiți fiorul vânturilor de coastă la Kite Surf Spot, locul perfect pentru a urmări sportivii sau a închiria o placă într-o zi cu vânt favorabil.",
+            "en": "Experience the thrill of coastal winds at the Kite Surf Spot, making it a perfect spot to watch athletes or rent a board yourself on a breezy day."
+          }
+        },
+        {
+          "name": {
+            "de": "Galičak",
+            "hu": "Galičak",
+            "ro": "Galičak",
+            "en": "Galičak"
+          },
+          "coords": [
+            17.463348,
+            43.022454
+          ],
+          "category": "natural",
+          "arrive_at": "11:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Radeln Sie zum Galičak, um die unberührte Natur am Wasser zu genießen, und bringen Sie ein kleines Picknick für eine wohlverdiente Pause mit.",
+            "hu": "Kerékpározzon le a Galičakhoz a víz melletti érintetlen természetért, és hozzon magával egy kis pikniket a jól megérdemelt pihenőjéhez.",
+            "ro": "Mergeți cu bicicleta până la Galičak pentru a vă bucura de natura neatinsă, aducând un mic picnic pentru a-l savura în timpul pauzei bine meritate.",
+            "en": "Cycle down to Galičak to enjoy the unspoiled nature surrounding the water, bringing a small picnic to savor during your well-deserved break."
+          }
+        },
+        {
+          "name": {
+            "de": "Veliki Trovro",
+            "hu": "Veliki Trovro",
+            "ro": "Veliki Trovro",
+            "en": "Veliki Trovro"
+          },
+          "coords": [
+            17.469384,
+            43.043774
+          ],
+          "category": "natural",
+          "arrive_at": "13:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab und vertreten Sie sich die Beine am Veliki Trovro, wo der leicht steile Weg mit den besten Panoramablicken belohnt.",
+            "hu": "Parkolja le a kerékpárt és nyújtsa ki a lábait a Veliki Trovro hegyen, ahol a kissé meredek ösvény a régió legjobb panorámájával jutalmazza meg.",
+            "ro": "Parcați bicicleta și dezmorțiți-vă picioarele la Veliki Trovro, unde poteca ușor abruptă vă răsplătește cu cele mai bune priveliști panoramice din regiune.",
+            "en": "Park your bike and stretch your legs at Veliki Trovro, as the slightly steep path rewards you with the best panoramic views of the entire region."
+          }
+        },
+        {
+          "name": {
+            "de": "Sestrun",
+            "hu": "Sestrun",
+            "ro": "Sestrun",
+            "en": "Sestrun"
+          },
+          "coords": [
+            17.484352,
+            43.045862
+          ],
+          "category": "natural",
+          "arrive_at": "14:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Genießen Sie eine Fahrt durch die Wege von Sestrun, um die mediterrane Vegetation zu beobachten, und halten Sie Ihre Kamera für Wildtiere bereit.",
+            "hu": "Tegyen egy frissítő kerékpártúrát Sestrun ösvényein a mediterrán növényzet megfigyeléséért, és tartsa készenlétben kameráját az állatvilág megörökítésére.",
+            "ro": "Faceți o plimbare revigorantă pe potecile din Sestrun pentru a observa vegetația mediteraneană, ținând camera pregătită pentru a fotografia fauna.",
+            "en": "Take a refreshing ride through the paths of Sestrun to observe native Mediterranean vegetation, keeping your camera ready for sudden wildlife sightings."
+          }
+        },
+        {
+          "name": {
+            "de": "Desansko jezero",
+            "hu": "Desansko jezero",
+            "ro": "Desansko jezero",
+            "en": "Desansko jezero"
+          },
+          "coords": [
+            17.51812,
+            43.056557
+          ],
+          "category": "natural",
+          "arrive_at": "15:59",
+          "stay_min": 105,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihr Radabenteuer am Desansko jezero, um das ruhige Wasser zu erleben, und kommen Sie kurz vor Sonnenuntergang für ein magisches Farbenspiel.",
+            "hu": "Zárja kerékpáros kalandját a Desansko jezero nyugodt tópartjánál, és érkezzen közvetlenül naplemente előtt, hogy varázslatos színekben gyönyörködhessen.",
+            "ro": "Încheiați aventura cu bicicleta la Desansko jezero pentru a simți liniștea apelor și ajungeți chiar înainte de apus pentru un cer magic, plin de culori.",
+            "en": "Conclude your cycling adventure at Desansko jezero to experience the tranquil lake waters, and arrive just before sunset to witness a magical colorful sky."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt mit einem Besuch der örtlichen Kirche und sorgt für einen ruhigen Start in den Tag. Mittags fahren Sie zur windigen Küste, um die Kitesurfer zu beobachten, und weiter zum Naturufer des Galičak. Am Nachmittag radeln Sie in Richtung Veliki Trovro und Sestrun und tauchen tief in die mediterrane Landschaft ein. Der Abend lädt dazu ein, sich an den ruhigen Gewässern des Desansko jezero zu entspannen und die Dämmerung zu genießen.",
+        "hu": "Kerékpártúrája a helyi templom békés látogatásával indul, megadva a nap nyugodt alaphangját. Délben a szellős partra érkezik, ahol megcsodálhatja a sárkányszörfösöket, majd tovább teker Galičak festői partjaihoz. Délután a Veliki Trovro és Sestrun felé veszi az irányt, teljesen elmerülve a buja mediterrán tájban. Az este a Desansko jezero nyugodt vize mellett éri, ahol kipihenheti a nap fáradalmait a lenyűgöző alkonyati fényekben.",
+        "ro": "Turul dvs. cu bicicleta începe cu o vizită pașnică la biserica locală, stabilind un ton calm pentru restul zilei. Amiaza vă aduce pe coasta bătută de vânt pentru a urmări surferii și la țărmurile naturale din Galičak. În timpul după-amiezii, pedalați spre Veliki Trovro și Sestrun pentru a vă cufunda complet în peisajele luxuriante mediteraneene. Seara vă invită să vă relaxați la apele senine ale lacului Desansko, care reflectă cerul la amurg.",
+        "en": "Your cycling tour starts with a peaceful visit to the local church, setting a calm tone for the day. Midday brings you to the breezy coast for exciting kite surfing views and a scenic ride to the natural shores of Galičak. During the afternoon, pedal towards Veliki Trovro and Sestrun to fully immerse yourself in the lush Mediterranean landscapes. The evening invites you to relax by the serene waters of Desansko jezero, reflecting the twilight sky."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:53",
+      "total_km": 14.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Crniševo",
+            "hu": "Crniševo",
+            "ro": "Crniševo",
+            "en": "Crniševo"
+          },
+          "coords": [
+            17.409715,
+            43.075565
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Fahrt am Crniševo, einer wunderschönen Seenplatte, und umrunden Sie das Gewässer, um die dramatische Karstlandschaft zu würdigen.",
+            "hu": "Kezdje autós útját a Crniševo gyönyörű, összekapcsolt tavainál, és sétáljon egyet a part mentén a drámai karsztos környezet felfedezéséhez.",
+            "ro": "Începeți plimbarea cu mașina la Crniševo, o serie frumoasă de lacuri interconectate, și plimbați-vă pe perimetru pentru a aprecia peisajul carstic.",
+            "en": "Start your drive at Crniševo, a beautiful series of interconnected lakes, and walk the perimeter to fully appreciate the dramatic karst surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Vrbnik",
+            "hu": "Vrbnik",
+            "ro": "Vrbnik",
+            "en": "Vrbnik"
+          },
+          "coords": [
+            17.413743,
+            43.071666
+          ],
+          "category": "natural",
+          "arrive_at": "10:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Halten Sie kurz am Vrbnik, um dieses einzigartige Dolinenphänomen zu bewundern, und halten Sie beim Fotografieren einen sicheren Abstand zum Rand.",
+            "hu": "Álljon meg röviden a Vrbniknél e különleges természeti víznyelő jelenség miatt, és tartson biztonságos távolságot a peremtől a fotózás során.",
+            "ro": "Opriți-vă scurt la Vrbnik pentru a admira acest fenomen natural unic de dolină, păstrând o distanță sigură de margine în timp ce faceți fotografii.",
+            "en": "Stop briefly at Vrbnik to marvel at this unique natural sinkhole phenomenon, keeping a safe distance from the edge while taking spectacular photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Plitko jezero",
+            "hu": "Plitko jezero",
+            "ro": "Plitko jezero",
+            "en": "Plitko jezero"
+          },
+          "coords": [
+            17.431292,
+            43.072325
+          ],
+          "category": "natural",
+          "arrive_at": "11:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhigen Gewässer von Plitko jezero, ein flacher See, der sich ideal für eine Kaffeepause am Ufer eignet, bevor Sie weiterfahren.",
+            "hu": "Élvezze a Plitko jezero sekély és nyugodt vizét, amely ideális helyszín egy délelőtti kávészünethez a parton a további utazás előtt.",
+            "ro": "Bucurați-vă de apele senine ale Plitko jezero, un lac de mică adâncime perfect pentru o pauză de cafea pe mal înainte de a vă continua drumul.",
+            "en": "Enjoy the serene waters of Plitko jezero, an ideal shallow lake perfect for a mid-morning coffee break by the shores before continuing your journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Kolovrat",
+            "hu": "Kolovrat",
+            "ro": "Kolovrat",
+            "en": "Kolovrat"
+          },
+          "coords": [
+            17.452231,
+            43.07094
+          ],
+          "category": "natural",
+          "arrive_at": "13:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Fahren Sie nach Kolovrat, um die erhöhten felsigen Gebiete zu erkunden, und tragen Sie bequeme Schuhe, die sich auch für kurze Spaziergänge eignen.",
+            "hu": "Autózzon el a Kolovrat sziklás domborzatához, és viseljen kényelmes cipőt, amely egyaránt alkalmas vezetéshez és könnyed sétákhoz is a megállók során.",
+            "ro": "Conduceți spre Kolovrat pentru a explora terenurile stâncoase înalte, purtând încălțăminte confortabilă care poate servi și pentru scurte drumeții.",
+            "en": "Drive to Kolovrat to explore the elevated rocky terrains, wearing comfortable driving shoes that double as light hiking boots for quick stops."
+          }
+        },
+        {
+          "name": {
+            "de": "Šušnjevac",
+            "hu": "Šušnjevac",
+            "ro": "Šušnjevac",
+            "en": "Šušnjevac"
+          },
+          "coords": [
+            17.461708,
+            43.065908
+          ],
+          "category": "natural",
+          "arrive_at": "14:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das versteckte Juwel Šušnjevac zwischen den Hügeln und nutzen Sie die kleinen unbefestigten Haltebuchten, um sicher zu parken.",
+            "hu": "Fedezze fel Šušnjevac zöld dombok között megbúvó rejtett kincsét, és használja a kis földutak melletti megállókat a biztonságos parkoláshoz.",
+            "ro": "Descoperiți bijuteria ascunsă Šušnjevac printre dealurile verzi, folosind micile refugii neasfaltate pentru a parca în siguranță mașina și a explora.",
+            "en": "Discover the hidden gem of Šušnjevac hidden among lush green hills, utilizing the small unpaved pull-offs to safely park your car and explore."
+          }
+        },
+        {
+          "name": {
+            "de": "crkva Kraljice Neba i Zemlje",
+            "hu": "crkva Kraljice Neba i Zemlje",
+            "ro": "crkva Kraljice Neba i Zemlje",
+            "en": "crkva Kraljice Neba i Zemlje"
+          },
+          "coords": [
+            17.433299,
+            43.05488
+          ],
+          "category": "religious",
+          "arrive_at": "16:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Kirche Kraljice Neba i Zemlje am späten Nachmittag, um ihre Fassade im sanften, warmen Sonnenlicht zu bewundern.",
+            "hu": "Látogassa meg a kulturálisan jelentős crkva Kraljice Neba i Zemlje templomot késő délután, hogy megcsodálhassa a meleg napfényben fürdő homlokzatát.",
+            "ro": "Vizitați biserica crkva Kraljice Neba i Zemlje, plină de semnificație culturală, spre seară pentru a aprecia fațada scăldată în lumina caldă a soarelui.",
+            "en": "Visit the culturally significant crkva Kraljice Neba i Zemlje in the late afternoon to appreciate its facade bathed in soft, warm sunlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Desansko jezero",
+            "hu": "Desansko jezero",
+            "ro": "Desansko jezero",
+            "en": "Desansko jezero"
+          },
+          "coords": [
+            17.51812,
+            43.056557
+          ],
+          "category": "natural",
+          "arrive_at": "17:08",
+          "stay_min": 105,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Parken Sie gegen Abend am Desansko jezero, dessen spiegelglatte Oberfläche fantastische Sonnenuntergangsreflexionen für das Ende Ihres Roadtrips bietet.",
+            "hu": "Parkoljon le a Desansko jezero közelében az este közeledtével, ahol a tó tükörsima felszíne tökéletes naplementés visszaverődéseket kínál az út zárásaként.",
+            "ro": "Parcați lângă Desansko jezero la căderea serii, suprafața ca o oglindă oferind reflexii uimitoare ale apusului pentru a vă încheia perfect călătoria cu mașina.",
+            "en": "Park near Desansko jezero as evening falls, providing the perfect mirror-like surface for stunning sunset reflections to end your road trip perfectly."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Roadtrip beginnt bei den faszinierenden Karstseen Crniševo, Vrbnik und Plitko jezero im Morgenlicht. Am Mittag erkunden Sie die rauen Hügel von Kolovrat und das abgelegene Grün von Šušnjevac. Am Nachmittag tauchen Sie beim Besuch der charmanten Kirche Kraljice Neba i Zemlje in das lokale Erbe ein. Die Reise klingt am Desansko jezero entspannt aus, wo ruhige Gewässer den abendlichen Himmel farbenprächtig widerspiegeln.",
+        "hu": "Autós utazása az északi karszttavak lenyűgöző világában kezdődik a Crniševo, Vrbnik és Plitko jezero reggeli felfedezésével. Délben a Kolovrat sziklás dombjai és a Šušnjevac rejtett zöldellő lankái felé veszi az irányt. Délután elmélyülhet a helyi kulturális örökségben a crkva Kraljice Neba i Zemlje templom meglátogatásával. Az utazás a Desansko jezero tó partján ér véget, amelynek tükörsima vize tökéletesen veri vissza az esti égbolt színeit.",
+        "ro": "Călătoria dvs. cu mașina începe printre lacurile carstice nordice fascinante, explorând Crniševo, Vrbnik și Plitko jezero în lumina dimineții. Amiaza vă aduce spre dealurile stâncoase din Kolovrat și verdeața izolată din Šušnjevac pentru scurte plimbări pitorești. După-amiaza, descoperiți patrimoniul local vizitând biserica crkva Kraljice Neba i Zemlje. Călătoria se încheie grațios la Desansko jezero, unde apele calme reflectă perfect cerul vibrant de seară.",
+        "en": "Your road trip begins among the fascinating northern karst lakes, exploring Crniševo, Vrbnik, and Plitko jezero in the morning light. Midday shifts towards the rugged hills of Kolovrat and the secluded greenery of Šušnjevac for short, scenic walks. In the afternoon, dive into local heritage by visiting the charming crkva Kraljice Neba i Zemlje. The trip winds down gracefully at Desansko jezero, where calm waters flawlessly reflect the vibrant evening sky."
+      }
+    }
+  }
+}

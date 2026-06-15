@@ -1,0 +1,497 @@
+{
+  "city_id": "france-le-conquet-cities-v2",
+  "anchor": {
+    "name": "Le Conquet",
+    "coords": [
+      -4.77091,
+      48.36053
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:31",
+      "total_km": 3.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Passerelle",
+            "hu": "Passerelle",
+            "ro": "Passerelle",
+            "en": "Passerelle"
+          },
+          "coords": [
+            -4.766529,
+            48.362741
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese bezaubernde Fußgängerbrücke über die Ria für fantastische Gezeitenausblicke, aber tragen Sie winddichte Kleidung, da die Meeresbrise hier stark weht.",
+            "hu": "Sétáljon át ezen a bájos gyalogoshídon a ria felett, hogy élvezze az árapály lenyűgöző látványát, de hozzon szélálló ruhát, mert a parti szél itt elég erős szokott lenni.",
+            "ro": "Traversați acest pod pietonal fermecător peste ria pentru a vă bucura de priveliștile mareelor, dar asigurați-vă că purtați haine rezistente la vânt din cauza brizei puternice.",
+            "en": "Cross this charming pedestrian bridge bridging the ria to enjoy stunning tidal views, but ensure you wear windproof clothing as the coastal breeze is very strong here."
+          }
+        },
+        {
+          "name": {
+            "de": "Cromlech de Kermorvan",
+            "hu": "Cromlech de Kermorvan",
+            "ro": "Cromlech de Kermorvan",
+            "en": "Cromlech de Kermorvan"
+          },
+          "coords": [
+            -4.781396,
+            48.363854
+          ],
+          "category": "historical",
+          "arrive_at": "10:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen faszinierenden alten prähistorischen Steinkreis, aber bleiben Sie unbedingt auf den markierten Wegen, um die empfindliche Küstenflora zu schützen.",
+            "hu": "Fedezze fel ezt a lenyűgöző ősi megalitikus kőkört, amely a történelem előtti időkbe repít, de maradjon a kijelölt ösvényeken, hogy megóvja a törékeny parti növényzetet.",
+            "ro": "Descoperiți acest cerc de pietre megalitice fascinant care vă conectează cu preistoria, dar amintiți-vă să rămâneți pe traseele marcate pentru a proteja flora de coastă.",
+            "en": "Discover this fascinating ancient megalithic stone circle that connects you to prehistoric times, but remember to stay on marked trails to protect the fragile coastal flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Allée couverte",
+            "hu": "Allée couverte",
+            "ro": "Allée couverte",
+            "en": "Allée couverte"
+          },
+          "coords": [
+            -4.785415,
+            48.361866
+          ],
+          "category": "historical",
+          "arrive_at": "12:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie dieses gut erhaltene neolithische Galeriegrab, und bringen Sie eine kleine Taschenlampe mit, um in die dunkleren Spalten der alten Steine zu blicken.",
+            "hu": "Csodálja meg ezt a jól megőrzött újkőkori folyosósírt, amely a korai emberi településeket mutatja be, és hozzon zseblámpát, hogy benézhessen a kövek sötétebb hasadékaiba.",
+            "ro": "Admirați acest mormânt neolitic tip galerie bine conservat și aduceți o mică lanternă pentru a privi în crăpăturile mai întunecate ale pietrelor antice și pline de istorie.",
+            "en": "Marvel at this well-preserved Neolithic gallery grave demonstrating early human settlement, and bring a small flashlight to peek into the darker crevices of the ancient stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Lighthouse Kermorvan",
+            "hu": "Kermorvan Világítótorony",
+            "ro": "Farul Kermorvan",
+            "en": "Lighthouse Kermorvan"
+          },
+          "coords": [
+            -4.789877,
+            48.362004
+          ],
+          "category": "landmark",
+          "arrive_at": "13:33",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieses aktiven Leuchtturms auf der felsigen Halbinsel und versuchen Sie, zur goldenen Stunde für das beste Fotolicht hier zu sein.",
+            "hu": "Csodálja meg ennek a sziklás félszigetet őrző aktív világítótoronynak a lenyűgöző építészetét, és próbáljon az aranyórában érkezni a legszebb fotózási fényekért.",
+            "ro": "Admirați arhitectura impresionantă a acestui far activ ce păzește peninsula stâncoasă și încercați să vizitați la ora de aur pentru cea mai spectaculoasă lumină foto.",
+            "en": "Admire the striking architecture of this active lighthouse guarding the rocky peninsula, and try to visit right at golden hour for the most spectacular photography lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort de Kermorvan",
+            "hu": "Fort de Kermorvan",
+            "ro": "Fort de Kermorvan",
+            "en": "Fort de Kermorvan"
+          },
+          "coords": [
+            -4.788577,
+            48.362512
+          ],
+          "category": "fortress",
+          "arrive_at": "14:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen dieser historischen Küstenfestung mit Panoramablick auf den Ozean, aber tragen Sie festes Schuhwerk, da die umliegenden Wege sehr uneben und steinig sind.",
+            "hu": "Fedezze fel ennek a történelmi parti erődnek a romjait, amely panorámás óceáni kilátást kínál, de viseljen masszív túracipőt, mivel a környező ösvények meglehetősen egyenetlenek.",
+            "ro": "Explorați ruinele defensive ale acestei fortărețe istorice de coastă care oferă panorame oceanice, dar purtați încălțăminte solidă, deoarece potecile sunt inegale și stâncoase.",
+            "en": "Explore the defensive ruins of this historic coastal fortress offering panoramic ocean vistas, but wear sturdy walking shoes as the surrounding paths are quite uneven and rocky."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Blancs Sablons",
+            "hu": "Plage des Blancs Sablons",
+            "ro": "Plage des Blancs Sablons",
+            "en": "Plage des Blancs Sablons"
+          },
+          "coords": [
+            -4.768051,
+            48.369684
+          ],
+          "category": "recreational",
+          "arrive_at": "15:46",
+          "stay_min": 105,
+          "hop_from_prev_min": 26,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem weitläufigen weißen Sandstrand, der sich perfekt nach der Wanderung eignet, und packen Sie ein Picknick ein, um den Sonnenuntergang zu genießen.",
+            "hu": "Pihenjen ezen a hatalmas fehér homokos strandon a túra után, és csomagoljon egy pikniket, hogy élvezze a lenyűgöző naplementét anélkül, hogy vissza kellene rohannia.",
+            "ro": "Relaxați-vă pe această plajă imensă cu nisip alb, perfectă după drumeție, și aduceți un picnic pentru a vă bucura de apusul spectaculos fără a vă grăbi înapoi în oraș.",
+            "en": "Relax on this expansive white sand beach perfect for unwinding after your hike, and pack a picnic to enjoy the spectacular sunset views without needing to rush back to town."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie an der Passerelle über die Ria und betreten Sie die wilde Schönheit der Halbinsel Kermorvan. Genießen Sie die frische Meeresluft.\nMidday: Entdecken Sie den Cromlech und die Allée couverte, uralte Steine in der rauen Küstenheide, die Geschichten aus der Vorgeschichte der Bretagne flüstern.\nAfternoon: Erreichen Sie den legendären Leuchtturm Kermorvan und erkunden Sie die massiven Ruinen des Forts, das die zerklüftete Küste vor den Wellen schützt.\nEvening: Beenden Sie Ihr Abenteuer entspannt am weitläufigen Strand Plage des Blancs Sablons und beobachten Sie, wie der atemberaubende Sonnenuntergang den Horizont färbt.",
+        "hu": "Morning: Kezdje a ria feletti Passerelle-nél, és lépjen a Kermorvan-félsziget vad szépsége felé. Élvezze a friss tengeri levegőt és a panorámát.\nMidday: Fedezze fel a Cromlechet és az Allée couverte-t; ezek az ősi kövek Bretagne történelem előtti meséit suttogják a zord parti hangásban.\nAfternoon: Érje el az ikonikus Kermorvan világítótornyot, és fedezze fel az erőd hatalmas romjait, amelyek a csipkézett partvidéket védik a hullámoktól.\nEvening: Fejezze be gyalogos kalandját a hatalmas Plage des Blancs Sablons strandon, miközben figyeli a lélegzetelállító breton naplementét.",
+        "ro": "Morning: Începeți la Passerelle peste ria, pășind spre frumusețea sălbatică a Peninsulei Kermorvan. Bucurați-vă de aerul proaspăt și de priveliștile panoramice.\nMidday: Descoperiți Cromlech-ul și Allée couverte, pietre străvechi ce șoptesc povești despre preistoria Bretaniei în mijlocul vegetației aspre de coastă.\nAfternoon: Ajungeți la iconicul Far Kermorvan și explorați ruinele masive ale Fortului, ce apără coasta dantelată împotriva valurilor feroce ale Atlanticului.\nEvening: Încheiați aventura pe jos relaxându-vă pe imensa Plajă Blancs Sablons, privind cum apusul uluitor pictează orizontul breton.",
+        "en": "Morning: Start at the Passerelle over the ria, stepping towards the wild beauty of the Kermorvan Peninsula. Enjoy the fresh maritime air and panoramic views.\nMidday: Discover the ancient Cromlech and the Allée couverte, ancient stones whispering tales of prehistoric Brittany amidst the rugged coastal heathland.\nAfternoon: Reach the iconic Lighthouse Kermorvan and explore the massive ruins of the Fort, guarding the jagged coastline against the fierce Atlantic waves.\nEvening: Conclude your walking adventure relaxing on the expansive Plage des Blancs Sablons, watching the breathtaking Breton sunset paint the horizon."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:51",
+      "total_km": 5.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Saint-Michel",
+            "hu": "Chapelle Saint-Michel",
+            "ro": "Chapelle Saint-Michel",
+            "en": "Chapelle Saint-Michel"
+          },
+          "coords": [
+            -4.762105,
+            48.345911
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Betreten Sie diese ruhige historische Kapelle für einen friedlichen Einblick in das lokale Erbe und prüfen Sie das schwarze Brett auf gelegentliche akustische Konzerte.",
+            "hu": "Lépjen be ebbe a nyugodt, történelmi kápolnába, amely bepillantást enged a helyi örökségbe, és nézze meg a hirdetőtáblát az esetleges közösségi akusztikus koncertek miatt.",
+            "ro": "Pășiți în această capelă istorică liniștită care oferă o privire pașnică asupra patrimoniului local și verificați avizierul pentru concerte acustice comunitare ocazionale.",
+            "en": "Step inside this tranquil historic chapel which offers a peaceful glimpse into local heritage, and check the notice board outside for occasional community acoustic concerts."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare de Lochrist",
+            "hu": "Lochrist Világítótorony",
+            "ro": "Farul Lochrist",
+            "en": "Phare de Lochrist"
+          },
+          "coords": [
+            -4.763537,
+            48.342523
+          ],
+          "category": "landmark",
+          "arrive_at": "09:52",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beobachten Sie diesen weniger bekannten Binnenleuchtturm, der eine wichtige Rolle in der Schifffahrt spielte, und stellen Sie sich an den Fuß, um seine Größe zu erfassen.",
+            "hu": "Figyelje meg ezt a kevésbé ismert szárazföldi világítótornyot, amely fontos szerepet játszott a hajózásban, és álljon a tövéhez, hogy értékelje az építmény lenyűgöző méretét.",
+            "ro": "Observați acest far interior mai puțin cunoscut cu rol vital în navigație și stați la bază pentru a aprecia cu adevărat scara impresionantă a construcției sale masive.",
+            "en": "Observe this lesser-known inland lighthouse that played a vital role in local navigation, and stand at the base to truly appreciate the impressive scale of its construction."
+          }
+        },
+        {
+          "name": {
+            "de": "Passerelle",
+            "hu": "Passerelle",
+            "ro": "Passerelle",
+            "en": "Passerelle"
+          },
+          "coords": [
+            -4.766529,
+            48.362741
+          ],
+          "category": "natural",
+          "arrive_at": "10:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Radeln Sie über diese malerische Fußgängerbrücke zur Halbinsel und halten Sie in der Mitte an, um die Boote zu beobachten, die elegant durch die Gezeitenmündung navigieren.",
+            "hu": "Kerekezzen át ezen a festői gyalogoshídon, amely a várost a félszigettel köti össze, és álljon meg a közepén, hogy megnézze az árapályos torkolatban hajózó csónakokat.",
+            "ro": "Bicicliți pe acest pod pitoresc care leagă orașul de peninsulă și opriți-vă la mijloc pentru a privi bărcile care navighează grațios prin estuarul influențat de maree.",
+            "en": "Cycle across this scenic pedestrian bridge connecting the town to the peninsula, and pause at the middle section to watch the boats gracefully navigating the tidal estuary."
+          }
+        },
+        {
+          "name": {
+            "de": "Redoute des Blancs-Sablons",
+            "hu": "Redoute des Blancs-Sablons",
+            "ro": "Redoute des Blancs-Sablons",
+            "en": "Redoute des Blancs-Sablons"
+          },
+          "coords": [
+            -4.767593,
+            48.365244
+          ],
+          "category": "fortress",
+          "arrive_at": "11:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Inspizieren Sie die Überreste dieser Küstenfestung, die einst die Bucht schützte, und schließen Sie Ihr Fahrrad sicher an den Holzpfosten an, bevor Sie die Ruinen erkunden.",
+            "hu": "Vizsgálja meg ennek a parti sáncnak a maradványait, amely egykor az öblöt védte, és zárja le kerékpárját biztonságosan a kijelölt faoszlopoknál, mielőtt felfedezi a romokat.",
+            "ro": "Inspectați rămășițele acestei redute de coastă care odinioară proteja golful și legați-vă bicicleta în siguranță de stâlpii de lemn desemnați înainte de a explora ruinele.",
+            "en": "Inspect the remains of this coastal redoubt which once protected the bay from invaders, and lock your bike securely at the designated wooden posts before exploring the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Lighthouse Kermorvan",
+            "hu": "Kermorvan Világítótorony",
+            "ro": "Farul Kermorvan",
+            "en": "Lighthouse Kermorvan"
+          },
+          "coords": [
+            -4.789877,
+            48.362004
+          ],
+          "category": "landmark",
+          "arrive_at": "13:16",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Betrachten Sie diesen ikonischen quadratischen Leuchtturm vor der dramatischen Atlantikkulisse und lassen Sie das Rad am Haupteingang stehen, da der Weg nur für Fußgänger ist.",
+            "hu": "Tekintse meg ezt az ikonikus négyzet alakú világítótornyot a drámai Atlanti-óceán hátterével, és hagyja a biciklijét a főösvény bejáratánál, mivel az utolsó szakasz csak gyalogos.",
+            "ro": "Vizionați acest far iconic cu formă pătrată pe fundalul dramatic al Atlanticului și lăsați bicicleta la intrarea principală, deoarece porțiunea finală este strict pietonală.",
+            "en": "View this iconic square-shaped lighthouse set against the dramatic Atlantic ocean backdrop, and leave your bike at the main path entrance as the final approach is strictly pedestrian."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Porz Pabu",
+            "hu": "Plage de Porz Pabu",
+            "ro": "Plaja Porz Pabu",
+            "en": "Plage de Porz Pabu"
+          },
+          "coords": [
+            -4.785656,
+            48.366317
+          ],
+          "category": "recreational",
+          "arrive_at": "13:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese versteckte Bucht, die eine ruhige Zuflucht vor den großen Stränden bietet, und seien Sie beim Abstieg vorsichtig, da der schmale Weg oft sehr rutschig ist.",
+            "hu": "Fedezze fel ezt a rejtett parti öblöt, amely békés menedéket nyújt a nagyobb strandoktól, és legyen óvatos a lefelé vezető úton, mivel a keskeny ösvény nedvesen csúszós lehet.",
+            "ro": "Descoperiți acest golf ascuns care oferă o evadare liniștită de pe plajele mari și fiți atenți la coborâre, deoarece cărarea îngustă poate fi destul de alunecoasă când e udă.",
+            "en": "Discover this hidden coastal cove providing a tranquil escape from the larger beaches, and be careful while walking down as the narrow access path can be quite slippery when wet."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort de l'Îlette",
+            "hu": "Fort de l'Îlette",
+            "ro": "Fort de l'Îlette",
+            "en": "Fort de l'Îlette"
+          },
+          "coords": [
+            -4.7873,
+            48.36907
+          ],
+          "category": "historical",
+          "arrive_at": "15:01",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erreichen Sie die Ruinen dieses isolierten Forts auf einer kleinen Gezeiteninsel, aber prüfen Sie vorher unbedingt die Gezeitentabellen, um nicht vom Wasser eingeschlossen zu werden.",
+            "hu": "Érje el ennek az elszigetelt erődnek a romjait egy kis árapály-szigeten, de előtte alaposan ellenőrizze az árapály-táblázatokat, nehogy a emelkedő víz miatt ott rekedjen.",
+            "ro": "Ajungeți la ruinele acestui fort izolat de pe o mică insulă cu maree, dar verificați cu atenție graficele mareelor în prealabil pentru a nu rămâne blocat de apa în creștere.",
+            "en": "Reach the ruins of this isolated fort situated on a small tidal island, but meticulously check the local tide charts beforehand to ensure you do not get stranded by the rising water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Radeln Sie zur ruhigen Kapelle Saint-Michel und zum Phare de Lochrist, um das lokale maritime Erbe zu spüren, bevor Sie die Ria überqueren.\nMidday: Genießen Sie die Fahrt auf den Küstenpfaden zur Redoute des Blancs-Sablons und atmen Sie die salzige Brise bei dramatischen Ozeanblicken ein.\nAfternoon: Fahren Sie weiter die Halbinsel hinauf zum Leuchtturm Kermorvan und halten Sie an versteckten Buchten wie Plage de Porz Pabu für eine Pause.\nEvening: Beenden Sie Ihre Tour am spektakulären Fort de l'Îlette am westlichen Rand und erleben Sie die raue Kraft des Atlantiks in der Abenddämmerung.",
+        "hu": "Morning: Kerekezzen a csendes Saint-Michel kápolnához és a Lochrist világítótoronyhoz, hogy megismerje a tengeri örökséget, mielőtt átkel a rián.\nMidday: Élvezze a parti ösvényeken való biciklizést a Redoute des Blancs-Sablons felé, befogadva a sós szelet és a drámai óceáni kilátást.\nAfternoon: Folytassa útját a félszigeten a sztoikus Kermorvan világítótoronyhoz, és álljon meg olyan rejtett öblöknél, mint a Plage de Porz Pabu.\nEvening: Fejezze be a túrát a lenyűgöző Fort de l'Îlette-nél a nyugati peremen, megtapasztalva az Atlanti-óceán nyers erejét, ahogy közeleg az alkonyat.",
+        "ro": "Morning: Bicicliți spre liniștita Capelă Saint-Michel și Farul Lochrist pentru a înțelege patrimoniul maritim local, înainte de a traversa estuarul.\nMidday: Bucurați-vă de ciclism pe cărările de coastă spre Redoute des Blancs-Sablons, îmbrățișând briza sărată și priveliștile dramatice ale oceanului.\nAfternoon: Continuați pe peninsulă până la stoicul Far Kermorvan, oprindu-vă la golfuri ascunse precum Plage de Porz Pabu pentru o pauză liniștită.\nEvening: Încheiați cursa la spectaculosul Fort de l'Îlette la marginea vestică, experimentând puterea brută a Atlanticului odată cu apropierea amurgului.",
+        "en": "Morning: Pedal to the quiet Chapelle Saint-Michel and Phare de Lochrist to grasp the local maritime heritage before gliding across the ria.\nMidday: Enjoy cycling along the coastal paths towards the Redoute des Blancs-Sablons, embracing the salty breeze and the dramatic ocean vistas.\nAfternoon: Continue up the peninsula to the stoic Lighthouse Kermorvan, stopping by hidden sandy coves like Plage de Porz Pabu for a peaceful break.\nEvening: End your ride at the spectacular Fort de l'Îlette on the western edge, experiencing the raw power of the Atlantic as twilight approaches."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:58",
+      "total_km": 7.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plage de la Grève Bleue",
+            "hu": "Plage de la Grève Bleue",
+            "ro": "Plage de la Grève Bleue",
+            "en": "Plage de la Grève Bleue"
+          },
+          "coords": [
+            -4.771751,
+            48.343122
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit frischer Meeresluft an diesem charmanten Kieselstrand und nutzen Sie die einfachen Parkplätze am Morgen für einen ruhigen Spaziergang ohne Menschenmassen.",
+            "hu": "Kezdje a napot a friss óceáni levegővel ezen a bájos kavicsos strandon, és használja ki az egyszerű reggeli parkolást egy csendes sétához, mielőtt megérkezik a tömeg.",
+            "ro": "Începeți ziua respirând aerul proaspăt al oceanului pe această plajă cu pietriș și profitați de parcarea ușoară de dimineață pentru o plimbare liniștită înainte de aglomerație.",
+            "en": "Start your day breathing the fresh ocean air at this charming pebble beach, and take advantage of the easy morning parking to enjoy a quiet stroll before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare de Lochrist",
+            "hu": "Lochrist Világítótorony",
+            "ro": "Farul Lochrist",
+            "en": "Phare de Lochrist"
+          },
+          "coords": [
+            -4.763537,
+            48.342523
+          ],
+          "category": "landmark",
+          "arrive_at": "10:27",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem robusten Leuchtturm, der Schiffe landeinwärts führt, und verwenden Sie ein Zoomobjektiv, um die feinen architektonischen Details der Laterne einzufangen.",
+            "hu": "Álljon meg ennél a masszív világítótoronynál, amely a hajókat a szárazföld felé irányítja, és használjon zoomobjektívet, hogy megörökítse a lámpatér finom építészeti részleteit.",
+            "ro": "Opriți-vă la acest far robust care ghidează navele spre interior și folosiți un obiectiv cu zoom pentru a surprinde detaliile arhitecturale fine din apropierea camerei felinarului.",
+            "en": "Stop by this sturdy lighthouse that guides vessels safely inland, and use a zoom lens on your camera to capture the fine architectural details near the top of the lantern room."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort Saint-Louis",
+            "hu": "Fort Saint-Louis",
+            "ro": "Fort Saint-Louis",
+            "en": "Fort Saint-Louis"
+          },
+          "coords": [
+            -4.759641,
+            48.369409
+          ],
+          "category": "fortress",
+          "arrive_at": "10:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese imposante historische Küstenverteidigungsanlage über der Hafeneinfahrt und bringen Sie ein Fernglas mit, um Meereslebewesen und entfernte Segelboote zu erspähen.",
+            "hu": "Fedezze fel ezt az impozáns történelmi parti védművet a kikötő bejárata felett, és hozzon távcsövet, hogy megfigyelhesse az elhaladó tengeri élővilágot és a távoli vitorlásokat.",
+            "ro": "Explorați această impunătoare structură de apărare de coastă ce domină intrarea în port și aduceți binoclu pentru a observa viața marină și bărcile cu pânze de pe ziduri.",
+            "en": "Explore this imposing historic coastal defense structure overlooking the harbor entrance, and bring binoculars to spot passing marine wildlife and distant sailing boats from the walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Perzic",
+            "hu": "Plage de Perzic",
+            "ro": "Plaja Perzic",
+            "en": "Plage de Perzic"
+          },
+          "coords": [
+            -4.763317,
+            48.378492
+          ],
+          "category": "recreational",
+          "arrive_at": "12:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang dieses weniger überlaufenen Sandstrands zwischen Felsen und suchen Sie bei Ebbe in den Gezeitentümpeln nach faszinierenden Krabben und bunten Seeanemonen.",
+            "hu": "Sétáljon végig ezen a kevésbé zsúfolt homokos parton a sziklák között, és apálykor vizsgálja meg az árapály-medencéket, hogy apró rákokat és színes tengeri rózsákat fedezzen fel.",
+            "ro": "Plimbați-vă pe acest țărm nisipos mai puțin aglomerat dintre stânci și verificați bălțile de maree pentru a observa crabi fascinanți și anemone de mare colorate la reflux.",
+            "en": "Walk along this less crowded sandy shore nestled between rocky outcrops, and check the tide pools at low tide to spot fascinating small crabs and colorful sea anemones."
+          }
+        },
+        {
+          "name": {
+            "de": "Lighthouse Kermorvan",
+            "hu": "Kermorvan Világítótorony",
+            "ro": "Farul Kermorvan",
+            "en": "Lighthouse Kermorvan"
+          },
+          "coords": [
+            -4.789877,
+            48.362004
+          ],
+          "category": "landmark",
+          "arrive_at": "13:42",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Westspitze der Halbinsel, um dieses ikonische Seezeichen zu sehen, und parken Sie auf dem ausgewiesenen Platz vor dem Sperrweg für einen Spaziergang zur Spitze.",
+            "hu": "Látogasson el a félsziget legnyugatibb csücskére ehhez az ikonikus hajózási támponthoz, és parkoljon a kijelölt helyen a korlátozott ösvény előtt, hogy élvezze a szeles sétát.",
+            "ro": "Vizitați cel mai vestic punct al insulei pentru a vedea acest ajutor de navigație și parcați în locul desemnat înainte de calea restricționată pentru o plimbare plăcută spre cap.",
+            "en": "Visit the westernmost tip of the peninsula to see this iconic navigation aid, and park at the designated lot just before the restricted path to enjoy the breezy walk to the point."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort de Kermorvan",
+            "hu": "Fort de Kermorvan",
+            "ro": "Fort de Kermorvan",
+            "en": "Fort de Kermorvan"
+          },
+          "coords": [
+            -4.788577,
+            48.362512
+          ],
+          "category": "fortress",
+          "arrive_at": "14:08",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die beeindruckenden Überreste dieser massiven Halbinselfestung und beenden Sie Ihren Tag hier mit tollen Landschaftsfotos, wenn das Abendlicht die Steine trifft.",
+            "hu": "Sétáljon a félszigeten lévő hatalmas erődítmény lenyűgöző kőmaradványai között, és fejezze be a napját lenyűgöző tájképek készítésével, ahogy az esti fény megvilágítja a köveket.",
+            "ro": "Plimbați-vă printre rămășițele impresionante ale acestei fortărețe peninsulare și încheiați-vă ziua făcând fotografii ample de peisaj în timp ce lumina serii atinge pietrele vechi.",
+            "en": "Wander around the impressive stone remnants of this massive peninsular fortress, and finish your day here taking sweeping landscape photos as the evening light hits the old stones."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Fahren Sie zu den südlichen Küstengrenzen an der Plage de la Grève Bleue, dann besuchen Sie den Binnenwächter, Phare de Lochrist.\nMidday: Fahren Sie nach Norden zur Hafeneinfahrt, um das beeindruckende Fort Saint-Louis und den ruhigen Sandstrand von Plage de Perzic zu erkunden.\nAfternoon: Fahren Sie zur Halbinsel Kermorvan zum ikonischen quadratischen Leuchtturm und gehen Sie zu Fuß zur beeindruckenden felsigen Landspitze.\nEvening: Beenden Sie Ihre Küstenfahrt durch die großen Ruinen des Fort de Kermorvan und genießen Sie den Panoramablick aufs Meer zur goldenen Stunde.",
+        "hu": "Morning: Vezessen a déli parti peremekhez, a Plage de la Grève Bleue-hez, majd látogassa meg a szárazföldi őrszemet, a Lochrist világítótornyot.\nMidday: Haladjon észak felé a kikötő bejáratához, hogy felfedezze az impozáns Fort Saint-Louis-t és a Plage de Perzic nyugodt homokos sávját.\nAfternoon: Hajtson ki a Kermorvan-félszigetre az ikonikus négyzet alakú világítótoronyhoz, és sétáljon ki a festői sziklás ponthoz.\nEvening: Zárja a parti utat a Fort de Kermorvan hatalmas romjai között sétálva, elmerülve a panorámás tengeri kilátásban az aranyórában.",
+        "ro": "Morning: Conduceți spre sud la Plage de la Grève Bleue, apoi vizitați santinela interioară, Farul Lochrist, captând farmecul maritim de dimineață.\nMidday: Mergeți spre nord la intrarea în port pentru a explora impresionantul Fort Saint-Louis și întinderea senină de nisip a Plage de Perzic.\nAfternoon: Conduceți spre peninsula Kermorvan la iconicul Far pătrat, lăsând mașina pentru o plimbare pitorească până la capătul stâncos.\nEvening: Încheiați călătoria pe coastă rătăcind prin ruinele mărețe ale Fortului Kermorvan, admirând panoramele mării la ora de aur.",
+        "en": "Morning: Drive to the southern coastal edges at Plage de la Grève Bleue, then visit the inland sentinel, Phare de Lochrist, capturing early maritime charm.\nMidday: Head north towards the harbor entrance to explore the impressive Fort Saint-Louis and enjoy the serene sandy stretch of Plage de Perzic.\nAfternoon: Drive out to the Kermorvan peninsula to visit the iconic square Lighthouse, leaving your vehicle for a scenic walk out to the rocky point.\nEvening: Wrap up your coastal drive by wandering through the grand ruins of Fort de Kermorvan, soaking in the panoramic sea views at golden hour."
+      }
+    }
+  }
+}

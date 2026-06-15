@@ -1,0 +1,543 @@
+{
+  "city_id": "france-curzo-cities-v2",
+  "anchor": {
+    "name": "Curzo",
+    "coords": [
+      8.89391,
+      42.62199
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:58",
+      "total_km": 1.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Saints-Pierre-et-Paul",
+            "hu": "Chapelle Saints-Pierre-et-Paul",
+            "ro": "Chapelle Saints-Pierre-et-Paul",
+            "en": "Chapelle Saints-Pierre-et-Paul"
+          },
+          "coords": [
+            8.900321,
+            42.612321
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die faszinierende Architektur dieser historischen Kapelle und genießen Sie die Stille, aber kommen Sie früh, um das schöne Morgenlicht in den alten Fenstern zu sehen.",
+            "hu": "Csodálja meg a történelmi kápolna lenyűgöző építészetét és élvezze a csendet, de érkezzen korán, hogy a reggeli fény gyönyörűen átszűrődjön a régi ablakokon.",
+            "ro": "Admirați arhitectura uimitoare a acestei capele istorice și bucurați-vă de liniște, dar ajungeți devreme pentru a prinde lumina frumoasă a dimineții prin ferestrele vechi.",
+            "en": "Admire the striking architecture of this historic chapel and listen to the serene silence, but arrive early to catch the beautiful morning light through the old windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame des 7 Douleurs",
+            "hu": "Notre-Dame des 7 Douleurs",
+            "ro": "Notre-Dame des 7 Douleurs",
+            "en": "Notre-Dame des 7 Douleurs"
+          },
+          "coords": [
+            8.902893,
+            42.614415
+          ],
+          "category": "natural",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick und die friedliche Natur rund um diese heilige Stätte, und tragen Sie unbedingt feste Schuhe für die leicht unebenen, felsigen Wege dorthin.",
+            "hu": "Élvezze a panorámát és a szent helyet körülvevő békés természetet, de mindenképpen viseljen masszív cipőt a kissé egyenetlen és sziklás ösvényeken való feljutáshoz.",
+            "ro": "Bucurați-vă de priveliștile panoramice și de natura liniștită care înconjoară acest loc sacru, dar purtați încălțăminte robustă pentru potecile stâncoase ușor denivelate.",
+            "en": "Take in the panoramic views and tranquil nature surrounding this sacred site, and be sure to wear sturdy shoes for the slightly uneven rocky paths leading up to it."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Sainte-Lucie",
+            "hu": "Chapelle Sainte-Lucie",
+            "ro": "Chapelle Sainte-Lucie",
+            "en": "Chapelle Sainte-Lucie"
+          },
+          "coords": [
+            8.904471,
+            42.614032
+          ],
+          "category": "religious",
+          "arrive_at": "10:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie das intime Innere dieses charmanten Heiligtums und betrachten Sie die gut erhaltenen Fresken, die das tiefe spirituelle Erbe der lokalen Gemeinschaft zeigen.",
+            "hu": "Fedezze fel e bájos vallási szentély meghitt belső terét, és nézze meg közelebbről a fennmaradt freskókat, amelyek a helyi közösség mély spirituális örökségét őrzik.",
+            "ro": "Explorați interiorul intim al acestui sanctuar religios fermecător și priviți îndeaproape frescele păstrate care detaliază moștenirea spirituală profundă a comunității.",
+            "en": "Explore the intimate interior of this charming religious sanctuary, and look closely at the preserved frescoes that detail the deep spiritual heritage of the local community."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée privé de Guy Savelli",
+            "hu": "Musée privé de Guy Savelli",
+            "ro": "Musée privé de Guy Savelli",
+            "en": "Musée privé de Guy Savelli"
+          },
+          "coords": [
+            8.905855,
+            42.615152
+          ],
+          "category": "museum",
+          "arrive_at": "11:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in dieser dichten Privatsammlung in die authentische korsische Geschichte ein und fragen Sie den kenntnisreichen Kurator nach den Geschichten hinter den Objekten.",
+            "hu": "Merüljön el az autentikus korzikai történelemben ezen a sűrű magángyűjteményen keresztül, és kérdezze meg a szakértő kurátort a ritka műtárgyak mögött meghúzódó történetekről.",
+            "ro": "Cufundați-vă în istoria autentică a Corsicii prin această colecție privată densă și întrebați curatorul experimentat despre poveștile fascinante din spatele artefactelor.",
+            "en": "Immerse yourself in authentic Corsican history through this dense private collection, and ask the knowledgeable curator for the fascinating stories behind the rare artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée du Trésor Cubaru",
+            "hu": "Musée du Trésor Cubaru",
+            "ro": "Musée du Trésor Cubaru",
+            "en": "Musée du Trésor Cubaru"
+          },
+          "coords": [
+            8.907012,
+            42.615243
+          ],
+          "category": "museum",
+          "arrive_at": "13:23",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie religiöse Kunst und historische Schätze, die in diesem Museum sicher aufbewahrt werden, und nehmen Sie sich genug Zeit für die mehrsprachigen Beschreibungen.",
+            "hu": "Fedezze fel a múzeumban őrzött vallásos művészetet és értékes történelmi kincseket, és ügyeljen arra, hogy elegendő időt szánjon a részletes, többnyelvű leírások elolvasására.",
+            "ro": "Descoperiți arta religioasă și comorile istorice prețioase păzite în acest muzeu, asigurându-vă că alocați suficient timp pentru a citi descrierile detaliate în mai multe limbi.",
+            "en": "Discover religious art and precious historical treasures safely guarded in this museum, making sure to allocate enough time to read the detailed multi-language descriptions."
+          }
+        },
+        {
+          "name": {
+            "de": "Castel de Guido de Sabellis",
+            "hu": "Castel de Guido de Sabellis",
+            "ro": "Castel de Guido de Sabellis",
+            "en": "Castel de Guido de Sabellis"
+          },
+          "coords": [
+            8.904078,
+            42.616615
+          ],
+          "category": "historical",
+          "arrive_at": "15:08",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in den beeindruckenden Ruinen dieser mittelalterlichen Festung, und bringen Sie ein Weitwinkelobjektiv für die Steinmauern vor den Bergen mit.",
+            "hu": "Lépjen vissza az időben ennek a középkori erődnek a lenyűgöző romjai között, és hozzon nagylátószögű objektívet, hogy megörökítse a kőfalakat a hegyi háttér előtt.",
+            "ro": "Întoarceți-vă în timp printre ruinele impresionante ale acestei fortărețe medievale și aduceți un obiectiv cu unghi larg pentru a surprinde zidurile de piatră cu fundalul montan.",
+            "en": "Step back in time among the impressive ruins of this medieval fortress, and bring a wide-angle lens to capture the imposing stone walls against the dramatic mountain backdrop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang bei der schönen Chapelle Saints-Pierre-et-Paul. Ein kurzer Spaziergang bringt Sie dann zur malerischen Notre-Dame des 7 Douleurs. Mittags tauchen Sie in die Kultur von Sainte-Lucie ein und besuchen das Musée privé de Guy Savelli, das viele Geheimnisse birgt. Am Nachmittag erwartet Sie das Musée du Trésor Cubaru mit religiöser Kunst und reicher korsischer Geschichte. Beenden Sie den perfekten Tag am historischen Castel de Guido de Sabellis, wo Sie bei Sonnenuntergang die mittelalterlichen Ruinen erkunden können.",
+        "hu": "Kezdje a sétát a gyönyörű Chapelle Saints-Pierre-et-Paul kápolnánál. Egy rövid séta elvezeti a festői Notre-Dame des 7 Douleurs természeti szépségeihez. Délben merüljön el a Sainte-Lucie kápolna nyugalmában, majd látogasson el a titkokat rejtő Guy Savelli Magánmúzeumba. Délután a Musée du Trésor Cubaru várja Önt, ahol felfedezheti a régió lenyűgöző vallási és történelmi kincseit. Fejezze be a tökéletes napot a Castel de Guido de Sabellis történelmi romjainál, ahonnan csodálatos kilátás nyílik a naplementében.",
+        "ro": "Începeți turul pietonal la frumoasa capelă Saints-Pierre-et-Paul. O scurtă plimbare vă aduce apoi la pitorescul loc natural Notre-Dame des 7 Douleurs. La prânz, scufundați-vă în cultura locală la Sainte-Lucie și vizitați Muzeul Privat Guy Savelli, plin de secrete. După-amiaza vă așteaptă Muzeul Tezaurului Cubaru, care găzduiește artă religioasă și o istorie corsicană bogată. Încheiați ziua perfectă la istoricul Castel de Guido de Sabellis, explorând ruinele medievale la lumina magică a apusului.",
+        "en": "Begin your walking tour at the beautiful Chapelle Saints-Pierre-et-Paul. A short stroll then takes you to the scenic natural site of Notre-Dame des 7 Douleurs. By midday, immerse yourself in the serene Chapelle Sainte-Lucie before visiting the Musée privé de Guy Savelli, a place full of local secrets. In the afternoon, the Musée du Trésor Cubaru awaits you with religious art and rich Corsican heritage. End the perfect day at the historic Castel de Guido de Sabellis, exploring the medieval ruins as the sun sets over the landscape."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Saints-Pierre-et-Paul",
+            "hu": "Chapelle Saints-Pierre-et-Paul",
+            "ro": "Chapelle Saints-Pierre-et-Paul",
+            "en": "Chapelle Saints-Pierre-et-Paul"
+          },
+          "coords": [
+            8.900321,
+            42.612321
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die faszinierende Architektur dieser historischen Kapelle und genießen Sie die Stille, aber kommen Sie früh, um das schöne Morgenlicht in den alten Fenstern zu sehen.",
+            "hu": "Csodálja meg a történelmi kápolna lenyűgöző építészetét és élvezze a csendet, de érkezzen korán, hogy a reggeli fény gyönyörűen átszűrődjön a régi ablakokon.",
+            "ro": "Admirați arhitectura uimitoare a acestei capele istorice și bucurați-vă de liniște, dar ajungeți devreme pentru a prinde lumina frumoasă a dimineții prin ferestrele vechi.",
+            "en": "Admire the striking architecture of this historic chapel and listen to the serene silence, but arrive early to catch the beautiful morning light through the old windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame des 7 Douleurs",
+            "hu": "Notre-Dame des 7 Douleurs",
+            "ro": "Notre-Dame des 7 Douleurs",
+            "en": "Notre-Dame des 7 Douleurs"
+          },
+          "coords": [
+            8.902893,
+            42.614415
+          ],
+          "category": "natural",
+          "arrive_at": "09:52",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick und die friedliche Natur rund um diese heilige Stätte, und tragen Sie unbedingt feste Schuhe für die leicht unebenen, felsigen Wege dorthin.",
+            "hu": "Élvezze a panorámát és a szent helyet körülvevő békés természetet, de mindenképpen viseljen masszív cipőt a kissé egyenetlen és sziklás ösvényeken való feljutáshoz.",
+            "ro": "Bucurați-vă de priveliștile panoramice și de natura liniștită care înconjoară acest loc sacru, dar purtați încălțăminte robustă pentru potecile stâncoase ușor denivelate.",
+            "en": "Take in the panoramic views and tranquil nature surrounding this sacred site, and be sure to wear sturdy shoes for the slightly uneven rocky paths leading up to it."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Sainte-Lucie",
+            "hu": "Chapelle Sainte-Lucie",
+            "ro": "Chapelle Sainte-Lucie",
+            "en": "Chapelle Sainte-Lucie"
+          },
+          "coords": [
+            8.904471,
+            42.614032
+          ],
+          "category": "religious",
+          "arrive_at": "10:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie das intime Innere dieses charmanten Heiligtums und betrachten Sie die gut erhaltenen Fresken, die das tiefe spirituelle Erbe der lokalen Gemeinschaft zeigen.",
+            "hu": "Fedezze fel e bájos vallási szentély meghitt belső terét, és nézze meg közelebbről a fennmaradt freskókat, amelyek a helyi közösség mély spirituális örökségét őrzik.",
+            "ro": "Explorați interiorul intim al acestui sanctuar religios fermecător și priviți îndeaproape frescele păstrate care detaliază moștenirea spirituală profundă a comunității.",
+            "en": "Explore the intimate interior of this charming religious sanctuary, and look closely at the preserved frescoes that detail the deep spiritual heritage of the local community."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée privé de Guy Savelli",
+            "hu": "Musée privé de Guy Savelli",
+            "ro": "Musée privé de Guy Savelli",
+            "en": "Musée privé de Guy Savelli"
+          },
+          "coords": [
+            8.905855,
+            42.615152
+          ],
+          "category": "museum",
+          "arrive_at": "11:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in dieser dichten Privatsammlung in die authentische korsische Geschichte ein und fragen Sie den kenntnisreichen Kurator nach den Geschichten hinter den Objekten.",
+            "hu": "Merüljön el az autentikus korzikai történelemben ezen a sűrű magángyűjteményen keresztül, és kérdezze meg a szakértő kurátort a ritka műtárgyak mögött meghúzódó történetekről.",
+            "ro": "Cufundați-vă în istoria autentică a Corsicii prin această colecție privată densă și întrebați curatorul experimentat despre poveștile fascinante din spatele artefactelor.",
+            "en": "Immerse yourself in authentic Corsican history through this dense private collection, and ask the knowledgeable curator for the fascinating stories behind the rare artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Castel de Guido de Sabellis",
+            "hu": "Castel de Guido de Sabellis",
+            "ro": "Castel de Guido de Sabellis",
+            "en": "Castel de Guido de Sabellis"
+          },
+          "coords": [
+            8.904078,
+            42.616615
+          ],
+          "category": "historical",
+          "arrive_at": "13:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in den beeindruckenden Ruinen dieser mittelalterlichen Festung, und bringen Sie ein Weitwinkelobjektiv für die Steinmauern vor den Bergen mit.",
+            "hu": "Lépjen vissza az időben ennek a középkori erődnek a lenyűgöző romjai között, és hozzon nagylátószögű objektívet, hogy megörökítse a kőfalakat a hegyi háttér előtt.",
+            "ro": "Întoarceți-vă în timp printre ruinele impresionante ale acestei fortărețe medievale și aduceți un obiectiv cu unghi larg pentru a surprinde zidurile de piatră cu fundalul montan.",
+            "en": "Step back in time among the impressive ruins of this medieval fortress, and bring a wide-angle lens to capture the imposing stone walls against the dramatic mountain backdrop."
+          }
+        },
+        {
+          "name": {
+            "de": "Ghjunchitu",
+            "hu": "Ghjunchitu",
+            "ro": "Ghjunchitu",
+            "en": "Ghjunchitu"
+          },
+          "coords": [
+            8.905447,
+            42.627309
+          ],
+          "category": "recreational",
+          "arrive_at": "14:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem malerischen Erholungsgebiet, das ideal für Familien ist, und packen Sie ein leichtes Picknick ein, um die Meeresbrise und die Nachmittagssonne zu genießen.",
+            "hu": "Pihenjen meg ebben a festői szabadidős övezetben, amely tökéletes a családok számára, és csomagoljon egy könnyű pikniket, hogy élvezhesse a parti szellőt és a délutáni napsütést.",
+            "ro": "Relaxați-vă în această zonă pitorească de agrement perfectă pentru familii și împachetați un picnic ușor pentru a vă bucura de briza coastei și de soarele spectaculos de după-amiază.",
+            "en": "Relax in this scenic recreational area that offers a perfect break for families, and pack a light picnic to enjoy the coastal breezes and the spectacular afternoon sunshine."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour Vallitone",
+            "hu": "Tour Vallitone",
+            "ro": "Tour Vallitone",
+            "en": "Tour Vallitone"
+          },
+          "coords": [
+            8.881531,
+            42.628364
+          ],
+          "category": "historical",
+          "arrive_at": "16:09",
+          "stay_min": 110,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die Küstenverteidigung an diesem gut erhaltenen historischen Wachturm und prüfen Sie vorher die Windvorhersage, da die exponierte Landzunge sehr windig sein kann.",
+            "hu": "Vizsgálja meg a partvédelmet ennél a jól karbantartott történelmi őrtoronynál, és előzetesen ellenőrizze a szélelőrejelzést, mivel a nyílt hegyfokon eléggé szeles lehet az idő.",
+            "ro": "Investigați apărarea coastei la acest turn de veghe istoric bine conservat și verificați prognoza vântului în prealabil, deoarece promontoriul expus poate fi destul de bătut de vânt.",
+            "en": "Investigate the coastal defenses at this well-preserved historical watchtower, and check the wind forecast beforehand since the exposed headland can get quite breezy."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour an der Chapelle Saints-Pierre-et-Paul und radeln Sie entspannt zur Notre-Dame des 7 Douleurs für eine Portion unberührte Natur. Besichtigen Sie am Mittag die Sainte-Lucie Kapelle und das faszinierende Guy Savelli Museum, gefolgt von den Ruinen des Castel de Guido de Sabellis. Der Nachmittag führt Sie in den Norden zum Freizeitgebiet Ghjunchitu, wo Sie sich am Wasser wunderbar entspannen können. Zum Abschluss radeln Sie zum historischen Tour Vallitone, einem alten Wachturm, der eine herrliche Aussicht auf das Meer bei Abendlicht bietet.",
+        "hu": "Indítsa kerékpártúráját a Chapelle Saints-Pierre-et-Paul kápolnánál, majd tekerjen el a Notre-Dame des 7 Douleurs érintetlen természeti környezetébe. Délben látogassa meg a Sainte-Lucie kápolnát és a Guy Savelli Múzeumot, majd a Castel de Guido de Sabellis lenyűgöző romjait. Délután tekerjen északra, a Ghjunchitu szabadidős övezet felé, ahol megpihenhet a gyönyörű parti környezetben. Végül látogasson el a történelmi Tour Vallitone őrtoronyhoz, ahonnan az esti fényben pompázó tengerre nyílik csodás kilátás.",
+        "ro": "Începeți turul cu bicicleta la Chapelle Saints-Pierre-et-Paul și pedalați către natura virgină de la Notre-Dame des 7 Douleurs. La prânz, vizitați capela Sainte-Lucie și fascinantul muzeu Guy Savelli, urmate de ruinele impunătoare ale Castel de Guido de Sabellis. După-amiaza vă poartă spre nord, la zona de agrement Ghjunchitu, unde vă puteți relaxa minunat pe malul apei. Încheiați ziua pedalând către istoricul Tour Vallitone, un vechi turn de veghe cu priveliști superbe la mare în lumina serii.",
+        "en": "Start your cycling tour at the Chapelle Saints-Pierre-et-Paul and pedal smoothly to the untouched nature of Notre-Dame des 7 Douleurs. At midday, visit the Sainte-Lucie chapel and the fascinating Guy Savelli Museum, followed by the ruins of Castel de Guido de Sabellis. The afternoon takes you north to the Ghjunchitu recreational area, where you can relax by the water's edge. Finally, cycle to the historic Tour Vallitone, an ancient watchtower offering magnificent views of the sea in the evening light."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:50",
+      "total_km": 5.6,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Tour Vallitone",
+            "hu": "Tour Vallitone",
+            "ro": "Tour Vallitone",
+            "en": "Tour Vallitone"
+          },
+          "coords": [
+            8.881531,
+            42.628364
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die Küstenverteidigung an diesem gut erhaltenen historischen Wachturm und prüfen Sie vorher die Windvorhersage, da die exponierte Landzunge sehr windig sein kann.",
+            "hu": "Vizsgálja meg a partvédelmet ennél a jól karbantartott történelmi őrtoronynál, és előzetesen ellenőrizze a szélelőrejelzést, mivel a nyílt hegyfokon eléggé szeles lehet az idő.",
+            "ro": "Investigați apărarea coastei la acest turn de veghe istoric bine conservat și verificați prognoza vântului în prealabil, deoarece promontoriul expus poate fi destul de bătut de vânt.",
+            "en": "Investigate the coastal defenses at this well-preserved historical watchtower, and check the wind forecast beforehand since the exposed headland can get quite breezy."
+          }
+        },
+        {
+          "name": {
+            "de": "Ghjunchitu",
+            "hu": "Ghjunchitu",
+            "ro": "Ghjunchitu",
+            "en": "Ghjunchitu"
+          },
+          "coords": [
+            8.905447,
+            42.627309
+          ],
+          "category": "recreational",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem malerischen Erholungsgebiet, das ideal für Familien ist, und packen Sie ein leichtes Picknick ein, um die Meeresbrise und die Nachmittagssonne zu genießen.",
+            "hu": "Pihenjen meg ebben a festői szabadidős övezetben, amely tökéletes a családok számára, és csomagoljon egy könnyű pikniket, hogy élvezhesse a parti szellőt és a délutáni napsütést.",
+            "ro": "Relaxați-vă în această zonă pitorească de agrement perfectă pentru familii și împachetați un picnic ușor pentru a vă bucura de briza coastei și de soarele spectaculos de după-amiază.",
+            "en": "Relax in this scenic recreational area that offers a perfect break for families, and pack a light picnic to enjoy the coastal breezes and the spectacular afternoon sunshine."
+          }
+        },
+        {
+          "name": {
+            "de": "Castel de Guido de Sabellis",
+            "hu": "Castel de Guido de Sabellis",
+            "ro": "Castel de Guido de Sabellis",
+            "en": "Castel de Guido de Sabellis"
+          },
+          "coords": [
+            8.904078,
+            42.616615
+          ],
+          "category": "historical",
+          "arrive_at": "11:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in den beeindruckenden Ruinen dieser mittelalterlichen Festung, und bringen Sie ein Weitwinkelobjektiv für die Steinmauern vor den Bergen mit.",
+            "hu": "Lépjen vissza az időben ennek a középkori erődnek a lenyűgöző romjai között, és hozzon nagylátószögű objektívet, hogy megörökítse a kőfalakat a hegyi háttér előtt.",
+            "ro": "Întoarceți-vă în timp printre ruinele impresionante ale acestei fortărețe medievale și aduceți un obiectiv cu unghi larg pentru a surprinde zidurile de piatră cu fundalul montan.",
+            "en": "Step back in time among the impressive ruins of this medieval fortress, and bring a wide-angle lens to capture the imposing stone walls against the dramatic mountain backdrop."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée du Trésor Cubaru",
+            "hu": "Musée du Trésor Cubaru",
+            "ro": "Musée du Trésor Cubaru",
+            "en": "Musée du Trésor Cubaru"
+          },
+          "coords": [
+            8.907012,
+            42.615243
+          ],
+          "category": "museum",
+          "arrive_at": "13:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie religiöse Kunst und historische Schätze, die in diesem Museum sicher aufbewahrt werden, und nehmen Sie sich genug Zeit für die mehrsprachigen Beschreibungen.",
+            "hu": "Fedezze fel a múzeumban őrzött vallásos művészetet és értékes történelmi kincseket, és ügyeljen arra, hogy elegendő időt szánjon a részletes, többnyelvű leírások elolvasására.",
+            "ro": "Descoperiți arta religioasă și comorile istorice prețioase păzite în acest muzeu, asigurându-vă că alocați suficient timp pentru a citi descrierile detaliate în mai multe limbi.",
+            "en": "Discover religious art and precious historical treasures safely guarded in this museum, making sure to allocate enough time to read the detailed multi-language descriptions."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame des 7 Douleurs",
+            "hu": "Notre-Dame des 7 Douleurs",
+            "ro": "Notre-Dame des 7 Douleurs",
+            "en": "Notre-Dame des 7 Douleurs"
+          },
+          "coords": [
+            8.902893,
+            42.614415
+          ],
+          "category": "natural",
+          "arrive_at": "14:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick und die friedliche Natur rund um diese heilige Stätte, und tragen Sie unbedingt feste Schuhe für die leicht unebenen, felsigen Wege dorthin.",
+            "hu": "Élvezze a panorámát és a szent helyet körülvevő békés természetet, de mindenképpen viseljen masszív cipőt a kissé egyenetlen és sziklás ösvényeken való feljutáshoz.",
+            "ro": "Bucurați-vă de priveliștile panoramice și de natura liniștită care înconjoară acest loc sacru, dar purtați încălțăminte robustă pentru potecile stâncoase ușor denivelate.",
+            "en": "Take in the panoramic views and tranquil nature surrounding this sacred site, and be sure to wear sturdy shoes for the slightly uneven rocky paths leading up to it."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Sainte-Lucie",
+            "hu": "Chapelle Sainte-Lucie",
+            "ro": "Chapelle Sainte-Lucie",
+            "en": "Chapelle Sainte-Lucie"
+          },
+          "coords": [
+            8.904471,
+            42.614032
+          ],
+          "category": "religious",
+          "arrive_at": "15:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie das intime Innere dieses charmanten Heiligtums und betrachten Sie die gut erhaltenen Fresken, die das tiefe spirituelle Erbe der lokalen Gemeinschaft zeigen.",
+            "hu": "Fedezze fel e bájos vallási szentély meghitt belső terét, és nézze meg közelebbről a fennmaradt freskókat, amelyek a helyi közösség mély spirituális örökségét őrzik.",
+            "ro": "Explorați interiorul intim al acestui sanctuar religios fermecător și priviți îndeaproape frescele păstrate care detaliază moștenirea spirituală profundă a comunității.",
+            "en": "Explore the intimate interior of this charming religious sanctuary, and look closely at the preserved frescoes that detail the deep spiritual heritage of the local community."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saints-Pierre-et-Paul",
+            "hu": "Chapelle Saints-Pierre-et-Paul",
+            "ro": "Chapelle Saints-Pierre-et-Paul",
+            "en": "Chapelle Saints-Pierre-et-Paul"
+          },
+          "coords": [
+            8.900321,
+            42.612321
+          ],
+          "category": "religious",
+          "arrive_at": "16:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die faszinierende Architektur dieser historischen Kapelle und genießen Sie die Stille, aber kommen Sie früh, um das schöne Morgenlicht in den alten Fenstern zu sehen.",
+            "hu": "Csodálja meg a történelmi kápolna lenyűgöző építészetét és élvezze a csendet, de érkezzen korán, hogy a reggeli fény gyönyörűen átszűrődjön a régi ablakokon.",
+            "ro": "Admirați arhitectura uimitoare a acestei capele istorice și bucurați-vă de liniște, dar ajungeți devreme pentru a prinde lumina frumoasă a dimineții prin ferestrele vechi.",
+            "en": "Admire the striking architecture of this historic chapel and listen to the serene silence, but arrive early to catch the beautiful morning light through the old windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Monte Sant Anghjulu",
+            "hu": "Monte Sant Anghjulu",
+            "ro": "Monte Sant Anghjulu",
+            "en": "Monte Sant Anghjulu"
+          },
+          "coords": [
+            8.914247,
+            42.607828
+          ],
+          "category": "natural",
+          "arrive_at": "17:20",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fordern Sie sich mit einer Wanderung auf diesen natürlichen Gipfel heraus und nehmen Sie viel Wasser mit, da der felsige Weg während des Aufstiegs nur sehr wenig Schatten bietet.",
+            "hu": "Tegye próbára magát egy túrával erre a látványos természeti csúcsra a jutalmazó kilátásért, és vigyen magával sok vizet, mivel a sziklás ösvény kevés árnyékot ad a mászás során.",
+            "ro": "Provocați-vă cu o drumeție pe acest vârf natural spectaculos pentru priveliști deosebite, luând multă apă deoarece poteca stâncoasă oferă puțină umbră în timpul urcușului.",
+            "en": "Challenge yourself with a hike up to this spectacular natural peak for rewarding vistas, carrying plenty of water as the rocky trail offers little shade during the ascent."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt im Nordwesten am Tour Vallitone, bevor Sie gemütlich zum schönen Erholungsgebiet Ghjunchitu weiterfahren. Genießen Sie den Mittag in den historischen Mauern des Castel de Guido de Sabellis und bewundern Sie anschließend die Sammlung im Musée du Trésor Cubaru. Nachmittags erkunden Sie die Notre-Dame des 7 Douleurs, gefolgt von der spirituellen Stille der Kapellen Sainte-Lucie und Saints-Pierre-et-Paul. Zum krönenden Abschluss fahren Sie zum Monte Sant Anghjulu, wo Sie eine spektakuläre Naturlandschaft und einen unvergesslichen Sonnenuntergang erleben.",
+        "hu": "Autós túrája északnyugaton, a Tour Vallitone őrtoronynál kezdődik, mielőtt továbbhajtana a gyönyörű Ghjunchitu szabadidős területre. Élvezze a delet a Castel de Guido de Sabellis történelmi falai között, majd csodálja meg a Musée du Trésor Cubaru gazdag gyűjteményét. Délután fedezze fel a Notre-Dame des 7 Douleurs-t, amelyet a Sainte-Lucie és a Saints-Pierre-et-Paul kápolnák spirituális nyugalma követ. A nap megkoronázásaként autózzon a Monte Sant Anghjulu csúcsához, ahol látványos természeti környezet és felejthetetlen naplemente várja.",
+        "ro": "Călătoria începe în nord-vest, la Tour Vallitone, înainte de a conduce confortabil către frumoasa zonă de agrement Ghjunchitu. Bucurați-vă de prânz între zidurile istorice ale Castel de Guido de Sabellis și admirați apoi colecția de la Musée du Trésor Cubaru. După-amiaza explorați Notre-Dame des 7 Douleurs, urmată de liniștea spirituală a capelelor Sainte-Lucie și Saints-Pierre-et-Paul. Ca o încununare, conduceți către Monte Sant Anghjulu, unde veți experimenta un peisaj natural spectaculos și un apus de soare de neuitat.",
+        "en": "Your drive begins in the northwest at the Tour Vallitone before heading to the beautiful Ghjunchitu recreational area. Enjoy midday exploring the historic walls of Castel de Guido de Sabellis and admiring the collection at the Musée du Trésor Cubaru. In the afternoon, explore Notre-Dame des 7 Douleurs, followed by the spiritual quiet of the Sainte-Lucie and Saints-Pierre-et-Paul chapels. To cap it off, drive to Monte Sant Anghjulu, where you will experience a spectacular natural landscape and an unforgettable sunset."
+      }
+    }
+  }
+}

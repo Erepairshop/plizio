@@ -1,0 +1,402 @@
+{
+  "city_id": "italy-adria-cities-v2",
+  "anchor": {
+    "name": "Adria",
+    "coords": [
+      12.05,
+      45.05
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:02",
+      "total_km": 1.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Museo Archeologico Nazionale di Adria",
+          "coords": [
+            12.055459,
+            45.049
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die antiken etruskischen und römischen Wurzeln von Adria anhand reicher Artefakte, also fragen Sie unbedingt nach dem englischen Audioguide an der Kasse.",
+            "hu": "Fedezze fel Adria ősi etruszk és római gyökereit a gazdag leletanyagon keresztül, ezért mindenképpen kérjen angol nyelvű audioguide-ot a recepción.",
+            "ro": "Descoperiți rădăcinile etrusce și romane antice ale Adriei prin artefacte bogate, deci asigurați-vă că cereți un ghid audio în engleză la recepție.",
+            "en": "Discover the ancient Etruscan and Roman roots of Adria through rich artifacts, so be sure to ask for the English audio guide at the reception."
+          }
+        },
+        {
+          "name": "Chiesa di Santa Maria Assunta della Tomba",
+          "coords": [
+            12.059462,
+            45.051085
+          ],
+          "category": "religious",
+          "arrive_at": "10:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betreten Sie diese historische Basilika auf römischen Fundamenten, um das alte Taufbecken zu bewundern, und kommen Sie früh, um der Mittagssonne zu entgehen.",
+            "hu": "Lépjen be ebbe a római alapokra épült történelmi bazilikába, hogy megcsodálja ősi keresztelőmedencéjét, lehetőleg kora délelőtt, elkerülve a hőséget.",
+            "ro": "Pășiți în această bazilică istorică construită pe fundații romane pentru a admira vechiul său font baptismal, venind devreme pentru a evita soarele de amiază.",
+            "en": "Step into this historic basilica built on Roman foundations to admire its ancient baptismal font, visiting early to avoid the midday sun."
+          }
+        },
+        {
+          "name": "Comune di Adria",
+          "coords": [
+            12.056527,
+            45.054477
+          ],
+          "category": "historical",
+          "arrive_at": "11:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur des Rathauses, das das zivile Leben der Stadt prägt, und nehmen Sie sich einen Moment Zeit für die Bänke am Platz.",
+            "hu": "Csodálja meg a helyi városháza lenyűgöző építészetét, amely a város polgári életének központja, és pihenjen meg egy pillanatra a szomszédos tér padjain.",
+            "ro": "Admirați arhitectura impresionantă a primăriei locale, care ancorează viața civică a orașului, luându-vă un moment pentru a vă așeza pe băncile din piață.",
+            "en": "Admire the striking architecture of the local town hall which anchors the city's civic life, taking a moment to sit on the adjacent square's benches."
+          }
+        },
+        {
+          "name": "Circolo del Cinema Carlo Mazzacurati Adria",
+          "coords": [
+            12.057579,
+            45.055029
+          ],
+          "category": "cultural",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das lokale Kulturleben dieses historischen, dem berühmten Regisseur gewidmeten Kinoclubs ein und prüfen Sie vorab das Abendprogramm.",
+            "hu": "Merüljön el a helyi kulturális életben ebben a híres rendezőnek szentelt történelmi moziba látogatva, és előre ellenőrizze az esti műsort.",
+            "ro": "Cufundați-vă în viața culturală locală la acest club istoric de cinema dedicat celebrului regizor, verificând în prealabil programul lor de seară.",
+            "en": "Immerse yourself in local cultural life at this historic cinema club dedicated to the famed director, checking their evening schedule in advance."
+          }
+        },
+        {
+          "name": "Duomo di Adria",
+          "coords": [
+            12.055807,
+            45.056986
+          ],
+          "category": "religious",
+          "arrive_at": "14:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erkunden Sie die prächtige Kathedrale, die mit ihrem feierlichen Inneren die Skyline dominiert, und achten Sie auf angemessene Kleidung beim Eintritt.",
+            "hu": "Fedezze fel a városképet uraló csodálatos katedrálist és annak ünnepélyes belső terét, de ügyeljen a visszafogott öltözködésre a belépés előtt.",
+            "ro": "Explorați catedrala magnifică care domină orizontul cu interiorul său solemn, asigurându-vă că vă îmbrăcați modest înainte de a intra.",
+            "en": "Explore the magnificent cathedral that dominates the skyline with its solemn interior, making sure to dress modestly before entering."
+          }
+        },
+        {
+          "name": "Auditorium Mecenati",
+          "coords": [
+            12.055438,
+            45.058856
+          ],
+          "category": "cultural",
+          "arrive_at": "15:12",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie Adrias musikalisches Erbe in diesem wunderschönen Auditorium mit hervorragender Akustik, idealerweise indem Sie online ein Konzertticket buchen.",
+            "hu": "Tapasztalja meg Adria zenei örökségét ebben a kiváló akusztikájáról ismert gyönyörű nézőtéren, ideális esetben online lefoglalva egy koncertjegyet.",
+            "ro": "Experimentați moștenirea muzicală a Adriei în acest frumos auditorium cunoscut pentru acustica sa excelentă, ideal rezervând un bilet de concert online.",
+            "en": "Experience Adria's musical heritage in this beautiful auditorium known for its excellent acoustics, ideally by booking a concert ticket online."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt mit einem faszinierenden Einblick in die archäologische Vergangenheit der Stadt, gefolgt von der Ruhe einer antiken Basilika. Am Mittag erleben Sie das bürgerliche Zentrum und die kulturellen Rhythmen am Rathausplatz. Der Nachmittag ist geprägt von beeindruckender Sakralarchitektur im majestätischen Dom. Den Abend lassen Sie gemütlich beim Auditorium ausklingen.",
+        "hu": "A nap a város régészeti múltjának lenyűgöző bemutatásával kezdődik, majd egy ősi bazilika nyugalmát élvezheti. Délben a Városháza környékén a helyi polgári élet ritmusát és a kulturális színteret fedezheti fel. A délután a majestikus dóm és annak lenyűgöző szakrális építészetének jegyében telik. Az estét az Auditorium környékén zártuk le békésen.",
+        "ro": "Ziua începe cu o perspectivă fascinantă asupra trecutului arheologic, urmată de liniștea unei bazilici antice. La prânz, veți experimenta centrul civic și ritmurile culturale în Piața Primăriei. După-amiaza este caracterizată de arhitectura sacră impresionantă a domului maiestuos. Vă puteți încheia seara confortabil la Auditorium.",
+        "en": "The day begins with a fascinating glimpse into the city's archaeological past, followed by the tranquility of an ancient basilica. At midday, you will experience the civic heart and cultural rhythms around the Town Hall square. The afternoon is characterized by impressive sacred architecture at the majestic Duomo. You end the evening with a relaxing stroll near the Auditorium."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:33",
+      "total_km": 4.25,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": "Piscina Comunale di Adria",
+          "coords": [
+            12.059015,
+            45.042937
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich eine erfrischende Pause im öffentlichen Schwimmbad mit tollen Freizeiteinrichtungen, aber vergessen Sie nicht die obligatorische Badekappe.",
+            "hu": "Tartson egy frissítő szünetet a nagyszerű rekreációs lehetőségeket kínáló nyilvános medencénél, de ne felejtsen el saját úszósapkát vinni.",
+            "ro": "Faceți o pauză revigorantă la piscina publică care oferă facilități excelente de recreere, dar nu uitați să vă aduceți propria cască de înot.",
+            "en": "Take a refreshing break at the public pool which offers great recreational facilities, but remember to bring your own swim cap as it is required."
+          }
+        },
+        {
+          "name": "Museo Archeologico Nazionale di Adria",
+          "coords": [
+            12.055459,
+            45.049
+          ],
+          "category": "museum",
+          "arrive_at": "10:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die antiken etruskischen und römischen Wurzeln von Adria anhand reicher Artefakte, also fragen Sie unbedingt nach dem englischen Audioguide an der Kasse.",
+            "hu": "Fedezze fel Adria ősi etruszk és római gyökereit a gazdag leletanyagon keresztül, ezért mindenképpen kérjen angol nyelvű audioguide-ot a recepción.",
+            "ro": "Descoperiți rădăcinile etrusce și romane antice ale Adriei prin artefacte bogate, deci asigurați-vă că cereți un ghid audio în engleză la recepție.",
+            "en": "Discover the ancient Etruscan and Roman roots of Adria through rich artifacts, so be sure to ask for the English audio guide at the reception."
+          }
+        },
+        {
+          "name": "Chiesa di Santa Maria Assunta della Tomba",
+          "coords": [
+            12.059462,
+            45.051085
+          ],
+          "category": "religious",
+          "arrive_at": "12:11",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betreten Sie diese historische Basilika auf römischen Fundamenten, um das alte Taufbecken zu bewundern, und kommen Sie früh, um der Mittagssonne zu entgehen.",
+            "hu": "Lépjen be ebbe a római alapokra épült történelmi bazilikába, hogy megcsodálja ősi keresztelőmedencéjét, lehetőleg kora délelőtt, elkerülve a hőséget.",
+            "ro": "Pășiți în această bazilică istorică construită pe fundații romane pentru a admira vechiul său font baptismal, venind devreme pentru a evita soarele de amiază.",
+            "en": "Step into this historic basilica built on Roman foundations to admire its ancient baptismal font, visiting early to avoid the midday sun."
+          }
+        },
+        {
+          "name": "Comune di Adria",
+          "coords": [
+            12.056527,
+            45.054477
+          ],
+          "category": "historical",
+          "arrive_at": "12:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur des Rathauses, das das zivile Leben der Stadt prägt, und nehmen Sie sich einen Moment Zeit für die Bänke am Platz.",
+            "hu": "Csodálja meg a helyi városháza lenyűgöző építészetét, amely a város polgári életének központja, és pihenjen meg egy pillanatra a szomszédos tér padjain.",
+            "ro": "Admirați arhitectura impresionantă a primăriei locale, care ancorează viața civică a orașului, luându-vă un moment pentru a vă așeza pe băncile din piață.",
+            "en": "Admire the striking architecture of the local town hall which anchors the city's civic life, taking a moment to sit on the adjacent square's benches."
+          }
+        },
+        {
+          "name": "Duomo di Adria",
+          "coords": [
+            12.055807,
+            45.056986
+          ],
+          "category": "religious",
+          "arrive_at": "14:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die prächtige Kathedrale, die mit ihrem feierlichen Inneren die Skyline dominiert, und achten Sie auf angemessene Kleidung beim Eintritt.",
+            "hu": "Fedezze fel a városképet uraló csodálatos katedrálist és annak ünnepélyes belső terét, de ügyeljen a visszafogott öltözködésre a belépés előtt.",
+            "ro": "Explorați catedrala magnifică care domină orizontul cu interiorul său solemn, asigurându-vă că vă îmbrăcați modest înainte de a intra.",
+            "en": "Explore the magnificent cathedral that dominates the skyline with its solemn interior, making sure to dress modestly before entering."
+          }
+        },
+        {
+          "name": "Monumento a Chiarato",
+          "coords": [
+            12.050918,
+            45.058316
+          ],
+          "category": "historical",
+          "arrive_at": "14:57",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Verweilen Sie an diesem bedeutungsvollen historischen Denkmal zu Ehren des lokalen Erbes, das am besten zur goldenen Stunde fotografiert wird.",
+            "hu": "Álljon meg ennél a helyi örökség előtt tisztelgő történelmi emlékműnél, amelyet a tökéletes megvilágítás érdekében az aranyórában érdemes fotózni.",
+            "ro": "Opriți-vă la acest monument istoric semnificativ care onorează moștenirea locală, care este cel mai bine fotografiat în timpul orei de aur.",
+            "en": "Pause at this meaningful historical monument honoring local legacy, which is best photographed during the golden hour for perfect lighting."
+          }
+        },
+        {
+          "name": "Septem Mària Museum",
+          "coords": [
+            12.07429,
+            45.050511
+          ],
+          "category": "museum",
+          "arrive_at": "15:23",
+          "stay_min": 130,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem einzigartigen Museum in die Geschichte der Wasserwirtschaft des Po-Deltas ein und planen Sie mindestens zwei Stunden für die Modelle ein.",
+            "hu": "Merüljön el a Pó-delta vízgazdálkodásának lenyűgöző történetében ebben az egyedülálló múzeumban, és szánjon legalább két órát a működő modellek megtekintésére.",
+            "ro": "Pătrundeți în istoria fascinantă a managementului apei din Delta Po-ului în acest muzeu unic, alocând cel puțin două ore pentru a vedea modelele funcționale.",
+            "en": "Delve into the fascinating water management history of the Po Delta in this unique museum, allowing at least two hours to see all the working models."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie aktiv mit einem morgendlichen Besuch im örtlichen Schwimmbad, bevor Sie sich der römischen Geschichte widmen. Die Mittagszeit verbringen Sie mit dem Radfahren zwischen historischen Kirchen und dem lebhaften Rathausplatz. Am Nachmittag erkunden Sie weitere Denkmäler im Zentrum, bevor Sie weiterfahren. Die Tour endet am Rande der Stadt im Museum Septem Mària.",
+        "hu": "Kezdje a napot aktívan a helyi uszodában, mielőtt belevetné magát a római történelembe. A déli órákat a történelmi templomok és a nyüzsgő városháza tér közötti kerékpározással töltheti. Délután a központ további műemlékeit fedezheti fel, majd továbbteker. A túra a város szélén, a Septem Mària Múzeumban ér véget.",
+        "ro": "Începeți activ cu o vizită de dimineață la piscina locală înainte de a vă dedica istoriei romane. Veți petrece prânzul cu bicicleta între bisericile istorice și piața animată a Primăriei. După-amiaza veți explora alte monumente din centru înainte de a merge mai departe. Turul se încheie la marginea orașului la Muzeul Septem Mària.",
+        "en": "Start actively with a morning visit to the local pool before diving into Roman history. You will spend midday cycling between historic churches and the lively Town Hall square. In the afternoon, you will explore further monuments in the center before pedaling on. The tour concludes on the outskirts of the city at the Septem Mària Museum."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 4.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": "Septem Mària Museum",
+          "coords": [
+            12.07429,
+            45.050511
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem einzigartigen Museum in die Geschichte der Wasserwirtschaft des Po-Deltas ein und planen Sie mindestens zwei Stunden für die Modelle ein.",
+            "hu": "Merüljön el a Pó-delta vízgazdálkodásának lenyűgöző történetében ebben az egyedülálló múzeumban, és szánjon legalább két órát a működő modellek megtekintésére.",
+            "ro": "Pătrundeți în istoria fascinantă a managementului apei din Delta Po-ului în acest muzeu unic, alocând cel puțin două ore pentru a vedea modelele funcționale.",
+            "en": "Delve into the fascinating water management history of the Po Delta in this unique museum, allowing at least two hours to see all the working models."
+          }
+        },
+        {
+          "name": "Museo Archeologico Nazionale di Adria",
+          "coords": [
+            12.055459,
+            45.049
+          ],
+          "category": "museum",
+          "arrive_at": "10:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die antiken etruskischen und römischen Wurzeln von Adria anhand reicher Artefakte, also fragen Sie unbedingt nach dem englischen Audioguide an der Kasse.",
+            "hu": "Fedezze fel Adria ősi etruszk és római gyökereit a gazdag leletanyagon keresztül, ezért mindenképpen kérjen angol nyelvű audioguide-ot a recepción.",
+            "ro": "Descoperiți rădăcinile etrusce și romane antice ale Adriei prin artefacte bogate, deci asigurați-vă că cereți un ghid audio în engleză la recepție.",
+            "en": "Discover the ancient Etruscan and Roman roots of Adria through rich artifacts, so be sure to ask for the English audio guide at the reception."
+          }
+        },
+        {
+          "name": "chiesa di Nostro Signore Gesù Cristo Divino Lavoratore",
+          "coords": [
+            12.050439,
+            45.05236
+          ],
+          "category": "religious",
+          "arrive_at": "12:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese einzigartig moderne religiöse Stätte, die die Geschichte des 20. Jahrhunderts widerspiegelt, und genießen Sie die friedliche Atmosphäre.",
+            "hu": "Látogasson el erre az egyedülállóan modern vallási helyszínre, amely a régió 20. századi történelmét tükrözi, élvezve a csendes környék békés hangulatát.",
+            "ro": "Vizitați acest sit religios unic, modern, care reflectă istoria secolului XX a regiunii, bucurându-vă de atmosfera liniștită a cartierului său.",
+            "en": "Visit this uniquely modern religious site that reflects the 20th-century history of the region, enjoying the peaceful atmosphere of its quiet neighborhood."
+          }
+        },
+        {
+          "name": "Comune di Adria",
+          "coords": [
+            12.056527,
+            45.054477
+          ],
+          "category": "historical",
+          "arrive_at": "13:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur des Rathauses, das das zivile Leben der Stadt prägt, und nehmen Sie sich einen Moment Zeit für die Bänke am Platz.",
+            "hu": "Csodálja meg a helyi városháza lenyűgöző építészetét, amely a város polgári életének központja, és pihenjen meg egy pillanatra a szomszédos tér padjain.",
+            "ro": "Admirați arhitectura impresionantă a primăriei locale, care ancorează viața civică a orașului, luându-vă un moment pentru a vă așeza pe băncile din piață.",
+            "en": "Admire the striking architecture of the local town hall which anchors the city's civic life, taking a moment to sit on the adjacent square's benches."
+          }
+        },
+        {
+          "name": "Duomo di Adria",
+          "coords": [
+            12.055807,
+            45.056986
+          ],
+          "category": "religious",
+          "arrive_at": "14:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die prächtige Kathedrale, die mit ihrem feierlichen Inneren die Skyline dominiert, und achten Sie auf angemessene Kleidung beim Eintritt.",
+            "hu": "Fedezze fel a városképet uraló csodálatos katedrálist és annak ünnepélyes belső terét, de ügyeljen a visszafogott öltözködésre a belépés előtt.",
+            "ro": "Explorați catedrala magnifică care domină orizontul cu interiorul său solemn, asigurându-vă că vă îmbrăcați modest înainte de a intra.",
+            "en": "Explore the magnificent cathedral that dominates the skyline with its solemn interior, making sure to dress modestly before entering."
+          }
+        },
+        {
+          "name": "Monumento a Chiarato",
+          "coords": [
+            12.050918,
+            45.058316
+          ],
+          "category": "historical",
+          "arrive_at": "15:30",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Verweilen Sie an diesem bedeutungsvollen historischen Denkmal zu Ehren des lokalen Erbes, das am besten zur goldenen Stunde fotografiert wird.",
+            "hu": "Álljon meg ennél a helyi örökség előtt tisztelgő történelmi emlékműnél, amelyet a tökéletes megvilágítás érdekében az aranyórában érdemes fotózni.",
+            "ro": "Opriți-vă la acest monument istoric semnificativ care onorează moștenirea locală, care este cel mai bine fotografiat în timpul orei de aur.",
+            "en": "Pause at this meaningful historical monument honoring local legacy, which is best photographed during the golden hour for perfect lighting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen bietet eine fesselnde Fahrt zum Septem Mària Museum, gefolgt von tiefen Einblicken im Archäologischen Museum. Mittags fahren Sie in die ruhigeren Viertel zu einer modernen Kirche und dem historischen Zentrum. Der Nachmittag steht im Zeichen des imposanten Doms und entspannter Spaziergänge. Die Route endet würdevoll am historischen Chiarato-Denkmal.",
+        "hu": "A reggel izgalmas utazást kínál a Septem Mària Múzeumba, majd a Régészeti Múzeum felfedezésével folytatódik. Délben a csendesebb negyedekbe hajt egy modern templomhoz, majd a történelmi központba. A délután az impozáns dóm és egy pihentető séta jegyében telik. Az útvonal méltóságteljesen ér véget a történelmi Chiarato emlékműnél.",
+        "ro": "Dimineața oferă o călătorie captivantă la Muzeul Septem Mària, urmată de perspective profunde la Muzeul Arheologic. La prânz, conduceți în cartierele mai liniștite către o biserică modernă și centrul istoric. După-amiaza este dominată de domul impunător și de plimbări relaxate. Traseul se termină la monumentul istoric Chiarato.",
+        "en": "The morning offers a captivating drive to the Septem Mària Museum, followed by deep insights at the Archaeological Museum. At midday, you drive to the quieter neighborhoods to see a modern church and the historic center. The afternoon is dominated by the imposing Duomo and relaxing walks. The route ends gracefully at the historic Chiarato Monument."
+      }
+    }
+  }
+}

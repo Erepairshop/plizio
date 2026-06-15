@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-aurisina-cave-cities-v2",
+  "anchor": {
+    "name": "Aurisina Cave",
+    "coords": [
+      13.65933,
+      45.75397
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:23",
+      "total_km": 1.15,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Vedetta / Razgledišče Tiziana Weiss",
+            "hu": "Vedetta / Razgledišče Tiziana Weiss",
+            "ro": "Vedetta / Razgledišče Tiziana Weiss",
+            "en": "Vedetta / Razgledišče Tiziana Weiss"
+          },
+          "coords": [
+            13.652383,
+            45.754153
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf die Adria von diesem Aussichtspunkt und bringen Sie unbedingt eine gute Kamera mit, um die Karstklippen festzuhalten.",
+            "hu": "Élvezze a lélegzetelállító panorámát az Adriai-tengerre ebből a parti kilátóból, és mindenképpen hozzon magával egy jó fényképezőgépet a karszt sziklák megörökítéséhez.",
+            "ro": "Bucurați-vă de vederi panoramice uluitoare asupra Mării Adriatice de la acest punct de observație și asigurați-vă că aduceți o cameră foto bună pentru a surprinde stâncile carstice.",
+            "en": "Enjoy breathtaking panoramic views of the Adriatic Sea from this coastal vantage point, and make sure to bring a good camera to capture the stunning karst cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Ginestre, spiaggia centrale",
+            "hu": "Le Ginestre, spiaggia centrale",
+            "ro": "Le Ginestre, spiaggia centrale",
+            "en": "Le Ginestre, spiaggia centrale"
+          },
+          "coords": [
+            13.651125,
+            45.752195
+          ],
+          "category": "recreational",
+          "arrive_at": "09:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf den Kieselsteinen dieses zentralen Strandbereichs, wo das klare Wasser zu einem morgendlichen Bad einlädt, also packen Sie Badeschuhe für mehr Komfort ein.",
+            "hu": "Pihenjen ennek a központi strandszakasznak a kavicsain, ahol a tiszta víz egy frissítő reggeli úszásra csábít, ezért a kényelem érdekében csomagoljon vízi cipőt.",
+            "ro": "Relaxați-vă pe pietricelele imaculate ale acestei zone centrale de plajă, unde apele clare vă invită la o baie matinală, așa că împachetați pantofi de apă pentru confort.",
+            "en": "Relax on the pristine pebbles of this central beach area, where clear waters invite you for a refreshing morning swim, so pack water shoes for comfort."
+          }
+        },
+        {
+          "name": {
+            "de": "Canovella degli Zoppoli / Pri čupah",
+            "hu": "Canovella degli Zoppoli / Pri čupah",
+            "ro": "Canovella degli Zoppoli / Pri čupah",
+            "en": "Canovella degli Zoppoli / Pri čupah"
+          },
+          "coords": [
+            13.655565,
+            45.749912
+          ],
+          "category": "recreational",
+          "arrive_at": "11:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen bezaubernden historischen Fischerhafen in den Klippen und nehmen Sie sich Zeit, die traditionellen Bootsunterstände zu betrachten, während Sie vorsichtig auf den unebenen Wegen gehen.",
+            "hu": "Fedezze fel ezt a sziklák között megbúvó, bájos történelmi halászkikötőt, szánjon időt a hagyományos csónakmenedékek megfigyelésére, miközben óvatosan sétál az egyenetlen ösvényeken.",
+            "ro": "Descoperiți acest port istoric fermecător de pescari ascuns printre stânci, făcându-vă timp să observați adăposturile tradiționale pentru bărci în timp ce mergeți cu atenție pe potecile inegale.",
+            "en": "Discover this charming historic fishing harbor nestled among the cliffs, taking time to observe the traditional boat shelters while walking carefully on the uneven paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Trtur",
+            "hu": "Trtur",
+            "ro": "Trtur",
+            "en": "Trtur"
+          },
+          "coords": [
+            13.658592,
+            45.750391
+          ],
+          "category": "natural",
+          "arrive_at": "12:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die raue Naturschönheit dieses unberührten Küstenabschnitts, der sich ideal zur Beobachtung der Meeresflora und Geologie eignet, aber tragen Sie festes Schuhwerk für das felsige Gelände.",
+            "hu": "Fedezze fel ennek az érintetlen partszakasznak a zord természeti szépségét, amely ideális a helyi tengeri élőlények és a geológia megfigyelésére, de viseljen erős lábbelit a sziklás terephez.",
+            "ro": "Explorați frumusețea naturală aspră a acestei porțiuni de coastă neatinse, ideală pentru observarea vieții marine și a geologiei, dar purtați încălțăminte rezistentă pentru terenul stâncos.",
+            "en": "Explore the rugged natural beauty of this unspoiled coastal stretch, ideal for observing local marine life and geology, but wear sturdy footwear for the rocky terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Oljščica",
+            "hu": "Oljščica",
+            "ro": "Oljščica",
+            "en": "Oljščica"
+          },
+          "coords": [
+            13.660438,
+            45.749148
+          ],
+          "category": "natural",
+          "arrive_at": "13:38",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour an dieser ruhigen natürlichen Bucht, die eine friedliche Atmosphäre abseits der Massen bietet, perfekt für eine späte Nachmittagsruhe an den sanften Wellen.",
+            "hu": "Fejezze be túráját ebben a nyugodt természetes öbölben, amely békés légkört kínál távol a tömegtől, tökéletes időzítéssel egy késő délutáni pihenéshez a lágy hullámok mellett.",
+            "ro": "Încheiați-vă turul la acest golf natural liniștit, oferind o atmosferă pașnică departe de mulțimi, perfect cronometrat pentru o odihnă târzie după-amiaza lângă valurile blânde.",
+            "en": "End your tour at this tranquil natural cove, offering a peaceful atmosphere away from the crowds, perfectly timed for a late afternoon rest by the gentle waves."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen damit, die dramatische Karstküste von einem Aussichtspunkt zu bewundern und die frische Meeresbrise zu spüren. Gegen Mittag steigen Sie zu den einladenden zentralen Stränden hinab, um ein erfrischendes Bad zu nehmen und am historischen Fischerhafen entlang zu spazieren. Der Nachmittag ist der Erkundung der unberührten Felsküste gewidmet. Wenn der Abend naht, finden Sie Ruhe in einer stillen natürlichen Bucht und beobachten, wie die Sonne goldene Farbtöne über die Adria wirft.",
+        "hu": "Kezdje a reggelt a drámai karsztos partvidék megcsodálásával egy kilátópontból, érezve a friss tengeri szellőt. Délben ereszkedjen le a hívogató központi strandok felé egy frissítő úszásra és egy sétára a történelmi halászkikötő mentén. A délutánt az érintetlen sziklás partok felfedezésének szentelik. Ahogy közeledik az este, találjon nyugalmat egy csendes természetes öbölben, figyelve, ahogy a nap arany árnyalatokat vet az Adriai-tenger szelíd hullámaira.",
+        "ro": "Începeți dimineața admirând coasta carstică dramatică de la un punct de observație, simțind briza proaspătă a mării. La prânz, coborâți spre plajele centrale primitoare pentru o baie revigorantă și o plimbare de-a lungul portului istoric. După-amiaza este dedicată explorării țărmurilor stâncoase neatinse, observând întâlnirea unică dintre piatră și mare. Pe măsură ce se apropie seara, găsiți liniște într-un golf natural tăcut, privind cum soarele aruncă nuanțe aurii.",
+        "en": "Begin your morning admiring the dramatic karst coastline from a prominent viewpoint, feeling the fresh sea breeze. By midday, descend towards the inviting central beaches for a refreshing swim and a walk along the historic fishing harbor. The afternoon is dedicated to exploring the untouched rocky shores, observing the unique meeting of stone and sea. As evening approaches, find serenity in a quiet natural cove, watching the sun cast golden hues over the gentle Adriatic waves."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:39",
+      "total_km": 2.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Casa romana / Rimska hiša",
+            "hu": "Casa romana / Rimska hiša",
+            "ro": "Casa romana / Rimska hiša",
+            "en": "Casa romana / Rimska hiša"
+          },
+          "coords": [
+            13.642809,
+            45.759504
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise und erkunden Sie die Überreste einer alten römischen Villa an der Küste, wobei Sie darauf achten sollten, die zerbrechlichen archäologischen Strukturen nicht zu beschädigen.",
+            "hu": "Lépjen vissza az időben, hogy felfedezze egy ókori római villa érdekes maradványait a tengerparton, ügyelve arra, hogy ne zavarja meg a törékeny régészeti szerkezeteket.",
+            "ro": "Întoarceți-vă în timp pentru a explora rămășițele intrigante ale unei vechi vile romane de pe coastă, având grijă să nu deranjați structurile arheologice fragile.",
+            "en": "Step back in time to explore the intriguing remains of an ancient Roman villa perched on the coastline, taking care not to disturb the fragile archaeological structures."
+          }
+        },
+        {
+          "name": {
+            "de": "Costa dei Barbari",
+            "hu": "Costa dei Barbari",
+            "ro": "Costa dei Barbari",
+            "en": "Costa dei Barbari"
+          },
+          "coords": [
+            13.642892,
+            45.757356
+          ],
+          "category": "landmark",
+          "arrive_at": "10:32",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die wilden Klippen dieses Wahrzeichens, wo der Karst auf das Meer trifft, und halten Sie einen sicheren Abstand zu den Rändern, während Sie die Aussicht genießen.",
+            "hu": "Csodálja meg ennek a nevezetes mérföldkőnek a drámai, vad szikláit, ahol a karszt találkozik a tengerrel, és tartson biztonságos távolságot a szélektől, miközben élvezi a kilátást.",
+            "ro": "Minunați-vă de stâncile dramatice și sălbatice ale acestui reper notabil unde carstul întâlnește marea și păstrați o distanță sigură față de margini în timp ce vă bucurați de priveliște.",
+            "en": "Marvel at the dramatic, wild cliffs of this notable landmark where the karst meets the sea, and keep a safe distance from the edges while enjoying the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Vedetta / Razgledišče Tiziana Weiss",
+            "hu": "Vedetta / Razgledišče Tiziana Weiss",
+            "ro": "Vedetta / Razgledišče Tiziana Weiss",
+            "en": "Vedetta / Razgledišče Tiziana Weiss"
+          },
+          "coords": [
+            13.652383,
+            45.754153
+          ],
+          "category": "natural",
+          "arrive_at": "10:52",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf die Adria von diesem Aussichtspunkt und bringen Sie unbedingt eine gute Kamera mit, um die Karstklippen festzuhalten.",
+            "hu": "Élvezze a lélegzetelállító panorámát az Adriai-tengerre ebből a parti kilátóból, és mindenképpen hozzon magával egy jó fényképezőgépet a karszt sziklák megörökítéséhez.",
+            "ro": "Bucurați-vă de vederi panoramice uluitoare asupra Mării Adriatice de la acest punct de observație și asigurați-vă că aduceți o cameră foto bună pentru a surprinde stâncile carstice.",
+            "en": "Enjoy breathtaking panoramic views of the Adriatic Sea from this coastal vantage point, and make sure to bring a good camera to capture the stunning karst cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Canovella degli Zoppoli / Pri čupah",
+            "hu": "Canovella degli Zoppoli / Pri čupah",
+            "ro": "Canovella degli Zoppoli / Pri čupah",
+            "en": "Canovella degli Zoppoli / Pri čupah"
+          },
+          "coords": [
+            13.655565,
+            45.749912
+          ],
+          "category": "recreational",
+          "arrive_at": "11:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen bezaubernden historischen Fischerhafen in den Klippen und nehmen Sie sich Zeit, die traditionellen Bootsunterstände zu betrachten, während Sie vorsichtig auf den unebenen Wegen gehen.",
+            "hu": "Fedezze fel ezt a sziklák között megbúvó, bájos történelmi halászkikötőt, szánjon időt a hagyományos csónakmenedékek megfigyelésére, miközben óvatosan sétál az egyenetlen ösvényeken.",
+            "ro": "Descoperiți acest port istoric fermecător de pescari ascuns printre stânci, făcându-vă timp să observați adăposturile tradiționale pentru bărci în timp ce mergeți cu atenție pe potecile inegale.",
+            "en": "Discover this charming historic fishing harbor nestled among the cliffs, taking time to observe the traditional boat shelters while walking carefully on the uneven paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Oljščica",
+            "hu": "Oljščica",
+            "ro": "Oljščica",
+            "en": "Oljščica"
+          },
+          "coords": [
+            13.660438,
+            45.749148
+          ],
+          "category": "natural",
+          "arrive_at": "12:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour an dieser ruhigen natürlichen Bucht, die eine friedliche Atmosphäre abseits der Massen bietet, perfekt für eine späte Nachmittagsruhe an den sanften Wellen.",
+            "hu": "Fejezze be túráját ebben a nyugodt természetes öbölben, amely békés légkört kínál távol a tömegtől, tökéletes időzítéssel egy késő délutáni pihenéshez a lágy hullámok mellett.",
+            "ro": "Încheiați-vă turul la acest golf natural liniștit, oferind o atmosferă pașnică departe de mulțimi, perfect cronometrat pentru o odihnă târzie după-amiaza lângă valurile blânde.",
+            "en": "End your tour at this tranquil natural cove, offering a peaceful atmosphere away from the crowds, perfectly timed for a late afternoon rest by the gentle waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia naturista",
+            "hu": "Spiaggia naturista",
+            "ro": "Spiaggia naturista",
+            "en": "Spiaggia naturista"
+          },
+          "coords": [
+            13.660879,
+            45.746062
+          ],
+          "category": "recreational",
+          "arrive_at": "13:54",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem abgelegenen Naturistenstrand inmitten wilder Natur, respektieren Sie die lokale Etikette und bringen Sie Ihren eigenen Schatten mit, da die Einrichtungen begrenzt sind.",
+            "hu": "Pihenjen meg teljesen ezen a vad természettel körülvett eldugott naturista strandon, tiszteletben tartva a helyi etikettet, és hozzon saját árnyékot, mivel a felszereltség korlátozott.",
+            "ro": "Relaxați-vă complet la această plajă naturistă izolată înconjurată de natură sălbatică, respectând eticheta locală și aducându-vă propria umbră, deoarece facilitățile sunt limitate.",
+            "en": "Unwind completely at this secluded naturist beach surrounded by wild nature, respecting the local etiquette and bringing your own shade as facilities are limited."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie mit einem morgendlichen Besuch alter römischer Ruinen dramatisch über der Küste in die Vergangenheit. Mittags fahren Sie an hoch aufragenden Klippen vorbei und halten an einem atemberaubenden Aussichtspunkt. Am Nachmittag radeln Sie zu einem historischen Fischerort und erkunden friedliche natürliche Buchten. Die Reise endet an einem abgelegenen Strand, wo das rhythmische Rauschen der Wellen eine perfekte Kulisse für eine entspannte Abendruhe bietet.",
+        "hu": "Tekerjen a múltba egy reggeli látogatással a partvonal felett drámaian elhelyezkedő ókori római romokhoz. A délidő egy utazást hoz a tornyosuló sziklák mellett, és egy megállót egy lenyűgöző kilátónál. Délután cirkáljon le egy történelmi halászhelyre, és fedezze fel a békés természetes öblöket. Az utazás egy eldugott strandon ér véget, ahol a hullámok ritmikus hangja tökéletes hátteret biztosít egy pihentető esti pihenéshez.",
+        "ro": "Pedați în trecut cu o vizită matinală la vechile ruine romane așezate dramatic deasupra coastei. Prânzul aduce o plimbare pe lângă stânci falnice și o oprire la un punct de observație uimitor. După-amiaza, coborâți spre un loc istoric de pescari și explorați golfuri naturale pașnice. Călătoria se încheie la o plajă retrasă, unde sunetul ritmic al valurilor oferă un fundal perfect pentru o odihnă relaxantă de seară.",
+        "en": "Pedal into the past with a morning visit to ancient Roman ruins perched dramatically above the coastline. Midday brings a ride past towering cliffs and a stop at a stunning viewpoint to appreciate the vast Adriatic expanse. In the afternoon, cruise down to a historic fishermen's spot and explore peaceful natural coves. The journey concludes at a secluded beach, where the rhythmic sound of the waves provides a perfect backdrop for a relaxing evening rest."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:51",
+      "total_km": 3.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cohiba",
+            "hu": "Cohiba",
+            "ro": "Cohiba",
+            "en": "Cohiba"
+          },
+          "coords": [
+            13.633418,
+            45.766564
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen mit Küstenflair an diesem lebhaften Erholungsort, ideal, um einen schnellen Kaffee zu trinken und die frische Meeresbrise zu genießen, bevor Sie weiter die Küste entlangfahren.",
+            "hu": "Kezdje a reggelt tengerparti hangulattal ezen a nyüzsgő üdülőhelyen, amely ideális egy gyors kávé elfogyasztásához és a friss tengeri szellő élvezetéhez, mielőtt tovább indulna a parton.",
+            "ro": "Începeți dimineața cu vibrații de coastă la acest loc de agrement plin de viață, ideal pentru a bea o cafea rapidă și a vă bucura de briza proaspătă a mării înainte de a merge mai departe de-a lungul țărmului.",
+            "en": "Start your morning with coastal vibes at this lively recreational spot, ideal for grabbing a quick coffee and enjoying the fresh sea breeze before heading further along the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Green Beach",
+            "hu": "Green Beach",
+            "ro": "Green Beach",
+            "en": "Green Beach"
+          },
+          "coords": [
+            13.63745,
+            45.762283
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Tanken Sie Sonne an diesem wunderschönen Strandabschnitt, der für seine üppige Umgebung bekannt ist, und kommen Sie früh, um sich den besten Platz auf den Kieselsteinen zu sichern.",
+            "hu": "Szívja magába a napsütést ezen a gyönyörű, buja környezetéről ismert strandon, és érdemes korán érkezni, hogy biztosítsa a legjobb helyet a kavicsokon.",
+            "ro": "Bucurați-vă de soare la această plajă frumoasă cunoscută pentru împrejurimile sale luxuriante și luați în considerare sosirea devreme pentru a vă asigura cel mai bun loc pe pietricele.",
+            "en": "Soak up the sun at this beautiful beach area known for its lush surroundings, and consider arriving early to secure the best spot on the pebbles."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa romana / Rimska hiša",
+            "hu": "Casa romana / Rimska hiša",
+            "ro": "Casa romana / Rimska hiša",
+            "en": "Casa romana / Rimska hiša"
+          },
+          "coords": [
+            13.642809,
+            45.759504
+          ],
+          "category": "historical",
+          "arrive_at": "11:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise und erkunden Sie die Überreste einer alten römischen Villa an der Küste, wobei Sie darauf achten sollten, die zerbrechlichen archäologischen Strukturen nicht zu beschädigen.",
+            "hu": "Lépjen vissza az időben, hogy felfedezze egy ókori római villa érdekes maradványait a tengerparton, ügyelve arra, hogy ne zavarja meg a törékeny régészeti szerkezeteket.",
+            "ro": "Întoarceți-vă în timp pentru a explora rămășițele intrigante ale unei vechi vile romane de pe coastă, având grijă să nu deranjați structurile arheologice fragile.",
+            "en": "Step back in time to explore the intriguing remains of an ancient Roman villa perched on the coastline, taking care not to disturb the fragile archaeological structures."
+          }
+        },
+        {
+          "name": {
+            "de": "Costa dei Barbari",
+            "hu": "Costa dei Barbari",
+            "ro": "Costa dei Barbari",
+            "en": "Costa dei Barbari"
+          },
+          "coords": [
+            13.642892,
+            45.757356
+          ],
+          "category": "landmark",
+          "arrive_at": "13:05",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die wilden Klippen dieses Wahrzeichens, wo der Karst auf das Meer trifft, und halten Sie einen sicheren Abstand zu den Rändern, während Sie die Aussicht genießen.",
+            "hu": "Csodálja meg ennek a nevezetes mérföldkőnek a drámai, vad szikláit, ahol a karszt találkozik a tengerrel, és tartson biztonságos távolságot a szélektől, miközben élvezi a kilátást.",
+            "ro": "Minunați-vă de stâncile dramatice și sălbatice ale acestui reper notabil unde carstul întâlnește marea și păstrați o distanță sigură față de margini în timp ce vă bucurați de priveliște.",
+            "en": "Marvel at the dramatic, wild cliffs of this notable landmark where the karst meets the sea, and keep a safe distance from the edges while enjoying the view."
+          }
+        },
+        {
+          "name": {
+            "de": "Vedetta / Razgledišče Tiziana Weiss",
+            "hu": "Vedetta / Razgledišče Tiziana Weiss",
+            "ro": "Vedetta / Razgledišče Tiziana Weiss",
+            "en": "Vedetta / Razgledišče Tiziana Weiss"
+          },
+          "coords": [
+            13.652383,
+            45.754153
+          ],
+          "category": "natural",
+          "arrive_at": "13:22",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf die Adria von diesem Aussichtspunkt und bringen Sie unbedingt eine gute Kamera mit, um die Karstklippen festzuhalten.",
+            "hu": "Élvezze a lélegzetelállító panorámát az Adriai-tengerre ebből a parti kilátóból, és mindenképpen hozzon magával egy jó fényképezőgépet a karszt sziklák megörökítéséhez.",
+            "ro": "Bucurați-vă de vederi panoramice uluitoare asupra Mării Adriatice de la acest punct de observație și asigurați-vă că aduceți o cameră foto bună pentru a surprinde stâncile carstice.",
+            "en": "Enjoy breathtaking panoramic views of the Adriatic Sea from this coastal vantage point, and make sure to bring a good camera to capture the stunning karst cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Canovella degli Zoppoli / Pri čupah",
+            "hu": "Canovella degli Zoppoli / Pri čupah",
+            "ro": "Canovella degli Zoppoli / Pri čupah",
+            "en": "Canovella degli Zoppoli / Pri čupah"
+          },
+          "coords": [
+            13.655565,
+            45.749912
+          ],
+          "category": "recreational",
+          "arrive_at": "13:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen bezaubernden historischen Fischerhafen in den Klippen und nehmen Sie sich Zeit, die traditionellen Bootsunterstände zu betrachten, während Sie vorsichtig auf den unebenen Wegen gehen.",
+            "hu": "Fedezze fel ezt a sziklák között megbúvó, bájos történelmi halászkikötőt, szánjon időt a hagyományos csónakmenedékek megfigyelésére, miközben óvatosan sétál az egyenetlen ösvényeken.",
+            "ro": "Descoperiți acest port istoric fermecător de pescari ascuns printre stânci, făcându-vă timp să observați adăposturile tradiționale pentru bărci în timp ce mergeți cu atenție pe potecile inegale.",
+            "en": "Discover this charming historic fishing harbor nestled among the cliffs, taking time to observe the traditional boat shelters while walking carefully on the uneven paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia naturista",
+            "hu": "Spiaggia naturista",
+            "ro": "Spiaggia naturista",
+            "en": "Spiaggia naturista"
+          },
+          "coords": [
+            13.660879,
+            45.746062
+          ],
+          "category": "recreational",
+          "arrive_at": "15:06",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem abgelegenen Naturistenstrand inmitten wilder Natur, respektieren Sie die lokale Etikette und bringen Sie Ihren eigenen Schatten mit, da die Einrichtungen begrenzt sind.",
+            "hu": "Pihenjen meg teljesen ezen a vad természettel körülvett eldugott naturista strandon, tiszteletben tartva a helyi etikettet, és hozzon saját árnyékot, mivel a felszereltség korlátozott.",
+            "ro": "Relaxați-vă complet la această plajă naturistă izolată înconjurată de natură sălbatică, respectând eticheta locală și aducându-vă propria umbră, deoarece facilitățile sunt limitate.",
+            "en": "Unwind completely at this secluded naturist beach surrounded by wild nature, respecting the local etiquette and bringing your own shade as facilities are limited."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zu einem lebhaften Küstenort, um den Tag mit frischer Energie zu beginnen, gefolgt von einem entspannten Morgen an einem wunderschönen Strand. Mittags wechseln Sie von der Natur zur Geschichte, indem Sie alte Ruinen erkunden und die rauen Klippen bewundern. Der Nachmittag ist perfekt, um die weite Aussicht zu genießen, bevor Sie zu verborgenen Buchten hinabsteigen. Beenden Sie Ihren Roadtrip an einer makellosen, abgelegenen Küste und entspannen Sie sich vollkommen.",
+        "hu": "Vezessen egy nyüzsgő tengerparti helyre, hogy friss energiával kezdje a napot, majd egy pihentető délelőtt következik egy gyönyörű zöld strandon. Délben váltson a természetről a történelemre az ókori római romok felfedezésével és a zord sziklák megcsodálásával. A délután tökéletes a panorámás kilátás élvezetére, mielőtt leereszkedne a rejtett történelmi öblökbe. Fejezze be autós utazását egy érintetlen, eldugott partszakaszon, teljesen ellazulva.",
+        "ro": "Conduceți către un loc de coastă plin de viață pentru a începe ziua cu energie proaspătă, urmat de o dimineață relaxantă pe o plajă verde frumoasă. La prânz, treceți de la natură la istorie explorând ruinele antice romane și admirând stâncile aspre. După-amiaza este perfectă pentru a vă bucura de vederi ample înainte de a coborî spre golfurile istorice ascunse. Încheiați-vă excursia pe o coastă imaculată și izolată, relaxându-vă complet pe măsură ce ziua se estompează.",
+        "en": "Drive to a lively coastal spot to start the day with fresh energy, followed by a relaxing morning on a beautiful green beach. By midday, shift from nature to history by exploring ancient Roman ruins and admiring the rugged cliffs nearby. The afternoon is perfect for taking in sweeping views from high vantage points before descending to hidden historical coves. Finish your road trip at a pristine, secluded shoreline, unwinding completely as the day fades into night."
+      }
+    }
+  }
+}

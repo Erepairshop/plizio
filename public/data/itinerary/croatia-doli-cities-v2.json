@@ -1,0 +1,474 @@
+{
+  "city_id": "croatia-doli-cities-v2",
+  "anchor": {
+    "name": "Doli",
+    "coords": [
+      17.783,
+      42.813
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:27",
+      "total_km": 6.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Pjenak",
+            "hu": "Pjenak",
+            "ro": "Pjenak",
+            "en": "Pjenak"
+          },
+          "coords": [
+            17.764398,
+            42.810859
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen im ruhigen Naturschutzgebiet Pjenak, einem idyllischen grünen Ort, für den Sie unbedingt Insektenschutzmittel für einen ungestörten Spaziergang mitbringen sollten.",
+            "hu": "Kezdje a reggelt a nyugodt Pjenak természetvédelmi területén, egy idillien zöldellő helyen, ahová feltétlenül vigyen magával rovarriasztót a zavartalan séta érdekében.",
+            "ro": "Începeți dimineața în rezervația naturală liniștită Pjenak, un loc verde idilic, unde ar trebui să aduceți neapărat spray împotriva insectelor pentru o plimbare netulburată.",
+            "en": "Start your morning at the tranquil nature reserve of Pjenak, an idyllic green spot where you should definitely bring insect repellent for an undisturbed stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Zaglavice",
+            "hu": "Zaglavice",
+            "ro": "Zaglavice",
+            "en": "Zaglavice"
+          },
+          "coords": [
+            17.762595,
+            42.822076
+          ],
+          "category": "natural",
+          "arrive_at": "10:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die raue Schönheit von Zaglavice, einer faszinierenden Felslandschaft, für die Sie jedoch unbedingt feste Wanderschuhe tragen sollten, um das unebene Gelände sicher zu meistern.",
+            "hu": "Fedezze fel Zaglavice zord szépségét, egy lenyűgöző sziklás tájat, amely tökéletes a fotózáshoz, de mindenképpen viseljen masszív túracipőt az egyenetlen terepen való biztonságos közlekedéshez.",
+            "ro": "Descoperiți frumusețea aspră a Zaglavice, un peisaj stâncos fascinant, având grijă să purtați încălțăminte robustă de drumeție pentru a naviga în siguranță pe terenul accidentat.",
+            "en": "Discover the rugged beauty of Zaglavice, a fascinating rocky landscape perfect for photography, just make sure to wear sturdy hiking shoes to safely navigate the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Gradac",
+            "hu": "Gradac",
+            "ro": "Gradac",
+            "en": "Gradac"
+          },
+          "coords": [
+            17.780241,
+            42.822426
+          ],
+          "category": "natural",
+          "arrive_at": "12:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Die historische und natürliche Erhebung von Gradac bietet einen weiten Panoramablick über die umliegenden Täler, weshalb ein Fernglas Ihr Erlebnis hier enorm bereichern wird.",
+            "hu": "Gradac történelmi és természeti magaslata széles panorámát nyújt a környező völgyekre, ezért egy távcső magával hozatala nagymértékben gazdagítja majd az élményt.",
+            "ro": "Înălțimea istorică și naturală a Gradac oferă vederi panoramice ample asupra văilor din jur, așa că un binoclu va îmbunătăți considerabil experiența dumneavoastră aici.",
+            "en": "The historic and natural elevation of Gradac offers sweeping panoramic views over the surrounding valleys, so bringing binoculars will vastly improve your experience here."
+          }
+        },
+        {
+          "name": {
+            "de": "Vriješac",
+            "hu": "Vriješac",
+            "ro": "Vriješac",
+            "en": "Vriješac"
+          },
+          "coords": [
+            17.804395,
+            42.820921
+          ],
+          "category": "natural",
+          "arrive_at": "14:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die lebhafte lokale Flora im Vriješac, einem von den Einheimischen geschätzten Gebiet, das Sie am besten am frühen Nachmittag besuchen sollten, um das schönste Licht einzufangen.",
+            "hu": "Csodálja meg Vriješac élénk helyi növényvilágát, egy buja területet, és látogasson el kora délután, hogy elkapja a fák között átszűrődő legjobb természetes fényt.",
+            "ro": "Admirați flora locală vibrantă la Vriješac, o zonă luxuriantă prețuită de localnici, pe care este ideal să o vizitați la începutul după-amiezii pentru a prinde cea mai bună lumină naturală.",
+            "en": "Admire the vibrant local flora at Vriješac, a lush area deeply cherished by locals, and visit during the early afternoon to catch the best natural lighting filtering through the trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Rvač",
+            "hu": "Rvač",
+            "ro": "Rvač",
+            "en": "Rvač"
+          },
+          "coords": [
+            17.79991,
+            42.808486
+          ],
+          "category": "natural",
+          "arrive_at": "15:42",
+          "stay_min": 105,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang am Rvač, einem ruhigen Talkessel, in dem sich die Natur ihren Raum zurückerobert, was ihn zu einem idealen Ort für einen friedlichen Snack macht.",
+            "hu": "Fejezze be sétáját a Rvač nevű csendes völgymedencében, ahol a természet visszahódítja a teret, így ideális hely arra, hogy egy kidőlt fatörzsön ülve elfogyassza a délutáni uzsonnáját.",
+            "ro": "Încheiați-vă plimbarea la Rvač, un bazin de vale liniștit unde natura își recuperează spațiul, fiind locul ideal pentru a vă așeza pe un buștean și a savura o gustare liniștită.",
+            "en": "Finish your walk at Rvač, a quiet valley basin where nature reclaims its space, making it an ideal spot to sit on a fallen log and enjoy a peaceful afternoon snack."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt friedlich inmitten der unberührten Flora von Pjenak und Zaglavice.\n\nGegen Mittag bietet die Anhöhe von Gradac weite Ausblicke und eine erfrischende Brise.\n\nDer Nachmittag wendet sich den reichen, lebendigen Ökosystemen von Vriješac zu.\n\nSchließlich bricht der Abend ruhig am Rvač an und bietet einen besinnlichen Abschluss Ihrer Wandertour durch die Natur von Doli.",
+        "hu": "A reggel békésen indul Pjenak és Zaglavice érintetlen növényvilága közepette.\n\nAhogy közeledik a dél, Gradac magaslata széles kilátást és frissítő szellőt kínál a látogatóknak.\n\nA délután Vriješac gazdag, élettel teli ökoszisztémái felé irányul egy kellemes séta során.\n\nVégül az este csendesen ereszkedik le Rvač területén, nyugodt lezárást nyújtva a gyalogos túrának.",
+        "ro": "Dimineața începe liniștit în mijlocul florei neatinse din Pjenak și Zaglavice.\n\nPe măsură ce se apropie amiaza, înălțimea pitorească Gradac oferă priveliști ample și o briză răcoroasă.\n\nDupă-amiaza se îndreaptă spre ecosistemele bogate și vibrante din rezervația naturală Vriješac.\n\nÎn cele din urmă, seara se lasă în liniște la Rvač, oferind o concluzie senină turului dumneavoastră.",
+        "en": "Your morning starts peacefully amidst the untouched flora of Pjenak and Zaglavice.\n\nAs midday approaches, the elevation of Gradac provides sweeping views and a refreshing coastal breeze.\n\nThe afternoon shifts towards the rich, vibrant and highly cherished ecosystems of Vriješac.\n\nFinally, the evening settles quietly at Rvač, offering a serene conclusion to your Doli walking tour."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 7.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Prijšnica",
+            "hu": "Prijšnica",
+            "ro": "Prijšnica",
+            "en": "Prijšnica"
+          },
+          "coords": [
+            17.776881,
+            42.800703
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Radeln Sie zur Prijšnica, einer verborgenen Quelle inmitten dichten Laubs, und füllen Sie Ihre Wasserflaschen mit dem frischen Bachwasser auf, bevor Sie weiterfahren.",
+            "hu": "Kerékpározzon el Prijšnica sűrű lombokkal körülvett rejtett forrásához, és töltse fel kulacsait a friss, hideg patakvízzel, mielőtt továbbindulna.",
+            "ro": "Pedalați spre Prijšnica, un frumos izvor ascuns înconjurat de frunziș dens, și umpleți-vă sticlele cu apă rece și proaspătă din pârâu înainte de a continua.",
+            "en": "Cycle your way to Prijšnica, a beautiful hidden spring surrounded by dense foliage, and fill up your water bottles with the fresh, cold stream water before continuing."
+          }
+        },
+        {
+          "name": {
+            "de": "Pjenak",
+            "hu": "Pjenak",
+            "ro": "Pjenak",
+            "en": "Pjenak"
+          },
+          "coords": [
+            17.764398,
+            42.810859
+          ],
+          "category": "natural",
+          "arrive_at": "10:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich an der grünen Oase Pjenak eine entspannte Pause, bei der Sie Ihr Fahrrad bequem an den schattigen Bäumen anlehnen können.",
+            "hu": "Tartson egy pihentető szünetet a zöld oázisnak számító Pjenaknál, ahol kényelmesen nekitámaszthatja kerékpárját az árnyékot adó fáknak.",
+            "ro": "Luați o pauză relaxantă la oaza verde Pjenak, unde vă puteți sprijini confortabil bicicleta de copacii umbroși în timp ce admirați natura.",
+            "en": "Take a relaxing break at the green oasis of Pjenak, where you can comfortably lean your bike against the shady trees while admiring the peaceful surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Zaglavice",
+            "hu": "Zaglavice",
+            "ro": "Zaglavice",
+            "en": "Zaglavice"
+          },
+          "coords": [
+            17.762595,
+            42.822076
+          ],
+          "category": "natural",
+          "arrive_at": "11:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Steigen Sie kurz ab, um die steinernen Strukturen von Zaglavice aus der Nähe zu betrachten, und nutzen Sie den festen Untergrund für einen sicheren Stand.",
+            "hu": "Szálljon le egy rövid időre, hogy testközelből is megvizsgálja Zaglavice kőépítményeit, és használja ki a szilárd talajt a biztonságos parkoláshoz.",
+            "ro": "Coborâți scurt din șa pentru a examina îndeaproape structurile de piatră din Zaglavice, folosind solul ferm pentru o staționare sigură.",
+            "en": "Dismount briefly to examine the rocky structures of Zaglavice up close, utilizing the firm, dry ground for a secure spot to rest your bicycle."
+          }
+        },
+        {
+          "name": {
+            "de": "Blizna",
+            "hu": "Blizna",
+            "ro": "Blizna",
+            "en": "Blizna"
+          },
+          "coords": [
+            17.768215,
+            42.832216
+          ],
+          "category": "natural",
+          "arrive_at": "13:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad ab, um Blizna zu erkunden, wo faszinierende Felsformationen die Landschaft prägen, und achten Sie auf das leicht rutschige Moos.",
+            "hu": "Tegye le kerékpárját, és fedezze fel Blizna lenyűgöző sziklaalakzatait, amelyek formálják a tájat, de ügyeljen a köveket borító kissé csúszós mohára.",
+            "ro": "Parcați-vă bicicleta pentru a explora Blizna, unde formațiunile stâncoase fascinante modelează peisajul, având grijă la mușchiul ușor alunecos de pe pietre.",
+            "en": "Park your bike to explore Blizna, where fascinating rock formations shape the landscape, and watch out for the slightly slippery moss covering the stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Oštrikovac",
+            "hu": "Oštrikovac",
+            "ro": "Oštrikovac",
+            "en": "Oštrikovac"
+          },
+          "coords": [
+            17.779384,
+            42.839809
+          ],
+          "category": "natural",
+          "arrive_at": "14:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die sanfte Steigung hinauf zum Oštrikovac für einen unvergleichlichen Blick auf den Horizont, wobei Sie Ihr Fahrrad am Fuße sicher abschließen sollten.",
+            "hu": "Másszon fel az Oštrikovac enyhe emelkedőjén a páratlan kilátásért, miközben kerékpárját biztonságosan lezárva hagyja az ösvény lábánál.",
+            "ro": "Urcați panta lină către Oštrikovac pentru o vedere de neegalat asupra orizontului, asigurându-vă că lăsați bicicleta bine încuiată la baza traseului.",
+            "en": "Climb the gentle incline up to Oštrikovac for an unparalleled view of the northern horizon, keeping your bike securely locked at the base of the trail."
+          }
+        },
+        {
+          "name": {
+            "de": "Gradac",
+            "hu": "Gradac",
+            "ro": "Gradac",
+            "en": "Gradac"
+          },
+          "coords": [
+            17.780241,
+            42.822426
+          ],
+          "category": "natural",
+          "arrive_at": "16:05",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour auf der Anhöhe von Gradac, wo Sie sich im Gras entspannen und den Sonnenuntergang in vollen Zügen genießen können.",
+            "hu": "Zárja kerékpártúráját a Gradac magaslatán, ahol nyugodtan leheveredhet a fűbe, és teljes mértékben kiélvezheti a lenyűgöző naplementét.",
+            "ro": "Încheiați-vă turul cu bicicleta pe înălțimea Gradac, unde vă puteți relaxa pe iarbă și vă puteți bucura din plin de apusul de soare magnific.",
+            "en": "Finish your cycling tour on the elevation of Gradac, where you can relax on the grass and fully enjoy the magnificent sunset over the rugged valleys."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt an den verborgenen Quellen von Prijšnica, bevor Sie zur grünen Oase Pjenak radeln.\n\nDer Mittag führt Sie zu den rauen, steinigen Landschaften von Zaglavice und den bemoosten Felsen von Blizna.\n\nDer nachmittägliche Aufstieg zum Aussichtspunkt Oštrikovac belohnt Sie mit weiten Ausblicken bis zum Horizont.\n\nBeenden Sie den Tag entspannt am Gradac und genießen Sie die späte Sonne über dem malerischen Tal.",
+        "hu": "Indítsa útját Prijšnica rejtett forrásainál, mielőtt Pjenak hívogató, zöld oázisa felé gurulna.\n\nA dél Zaglavice és Blizna zord, sziklás terepeire viszi Önt egy közelebbi pillantásra a természet munkájára.\n\nAz Oštrikovac délutáni megmászása és felfedezése horizontot átfogó, varázslatos kilátással jutalmazza.\n\nFejezze be a napot Gradacnál, kényelmesen magába szívva a völgy feletti utolsó, késői napfényt.",
+        "ro": "Începeți plimbarea la izvoarele ascunse din Prijšnica înainte de a coborî spre frumoasa oază verde Pjenak.\n\nAmiaza vă aduce pe terenurile accidentate din Zaglavice și printre formațiunile stâncoase din Blizna.\n\nUrcușul de după-amiază pe dealul Oštrikovac vă răsplătește cu perspective panoramice de neuitat.\n\nÎncheiați ziua liniștit la Gradac, bucurându-vă de lumina târzie a soarelui deasupra văii adânci.",
+        "en": "Kick off your ride at the hidden springs of Prijšnica before coasting towards the green oasis of Pjenak.\n\nMidday brings you to the rugged rocky terrains of Zaglavice and Blizna for a closer look at nature's sculpting.\n\nThe short afternoon climb up to Oštrikovac rewards your pedaling efforts with horizon-spanning scenic vistas.\n\nEnd the day peacefully at Gradac, soaking in the late golden sunlight as it sets over the valley."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:15",
+      "total_km": 11.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaža Pržina",
+            "hu": "Plaža Pržina",
+            "ro": "Plaža Pržina",
+            "en": "Plaža Pržina"
+          },
+          "coords": [
+            17.754081,
+            42.773795
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das klare Wasser der Adria an der Plaža Pržina ein, und versuchen Sie frühzeitig anzukommen, um sich einen Parkplatz direkt am Strandzugang zu sichern.",
+            "hu": "Merüljön el az Adriai-tenger vizében a Plaža Pržina homokos paradicsomban, és érkezzen korán, hogy kiváló parkolóhelyet találjon a strand bejáratánál.",
+            "ro": "Scufundați-vă în apele Adriaticii la Plaža Pržina, un paradis recreativ, și încercați să sosiți devreme pentru a vă asigura o parcare chiar lângă accesul la plajă.",
+            "en": "Dive into the clear Adriatic waters at Plaža Pržina, a sandy recreational haven, and try to arrive early to secure a prime parking spot right next to the beach access."
+          }
+        },
+        {
+          "name": {
+            "de": "Pologrina",
+            "hu": "Pologrina",
+            "ro": "Pologrina",
+            "en": "Pologrina"
+          },
+          "coords": [
+            17.781492,
+            42.789596
+          ],
+          "category": "natural",
+          "arrive_at": "10:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Fahrt zur Pologrina, wo Sie beim Aussteigen aus dem Auto sofort mit dem intensiven Duft der unberührten wilden Kräuter belohnt werden.",
+            "hu": "Tegyen egy rövid utazást Pologrinába, a mediterrán növényzet érintetlen foltjára, ahol az autóból kiszállva azonnal megcsapja a vadon termő gyógynövények illata.",
+            "ro": "Faceți o scurtă plimbare cu mașina până la Pologrina, unde ieșirea din mașină vă răsplătește cu mirosul intens și proaspăt al ierburilor sălbatice mediteraneene.",
+            "en": "Take a short drive to Pologrina, an untouched patch of Mediterranean vegetation, where stepping out of the car rewards you with the intense scent of wild herbs."
+          }
+        },
+        {
+          "name": {
+            "de": "Prijšnica",
+            "hu": "Prijšnica",
+            "ro": "Prijšnica",
+            "en": "Prijšnica"
+          },
+          "coords": [
+            17.776881,
+            42.800703
+          ],
+          "category": "natural",
+          "arrive_at": "12:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Fahren Sie weiter zur Prijšnica, um sich an der frischen Waldquelle das Gesicht mit kaltem Wasser zu erfrischen, bevor die Nachmittagshitze einsetzt.",
+            "hu": "Hajtson tovább Prijšnica felé, hogy a friss erdei forrásnál hideg vízzel mossa meg az arcát, mielőtt beállna a délutáni hőség a völgyben.",
+            "ro": "Conduceți mai departe spre Prijšnica pentru a vă reîmprospăta fața cu apă rece la izvorul proaspăt din pădure, înainte ca soarele de după-amiază să devină puternic.",
+            "en": "Drive further to Prijšnica to refresh your face with the cold water at this secluded forest spring just before the afternoon heat fully sets in."
+          }
+        },
+        {
+          "name": {
+            "de": "Rvač",
+            "hu": "Rvač",
+            "ro": "Rvač",
+            "en": "Rvač"
+          },
+          "coords": [
+            17.79991,
+            42.808486
+          ],
+          "category": "natural",
+          "arrive_at": "13:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Nutzen Sie den ruhigen Talkessel von Rvač für ein ausgedehntes Picknick aus dem Kofferraum Ihres Autos inmitten absoluter Stille und Natur.",
+            "hu": "Használja ki a Rvač nevű csendes völgymedencét egy kiterjedt csomagtartós piknikhez a teljes csend és az érintetlen természet lágy ölén.",
+            "ro": "Profitați de bazinul liniștit al văii Rvač pentru un picnic generos din portbagajul mașinii, înconjurat de tăcere absolută și de natura neatinsă.",
+            "en": "Take advantage of the quiet valley basin of Rvač for an extended car-trunk picnic surrounded by nothing but absolute silence and pure nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Vriješac",
+            "hu": "Vriješac",
+            "ro": "Vriješac",
+            "en": "Vriješac"
+          },
+          "coords": [
+            17.804395,
+            42.820921
+          ],
+          "category": "natural",
+          "arrive_at": "14:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie am Vriješac das Spiel von Licht und Schatten in der üppigen Vegetation, was sich hervorragend für spektakuläre Nachmittagsfotos eignet.",
+            "hu": "Figyelje meg a fény és az árnyék játékát a buja növényzetben a Vriješac területén, amely kiválóan alkalmas látványos délutáni fényképek készítésére.",
+            "ro": "Observați jocul de lumini și umbre în vegetația luxuriantă de la Vriješac, un cadru excelent pentru a surprinde fotografii spectaculoase de după-amiază.",
+            "en": "Observe the brilliant play of light and shadows within the lush vegetation at Vriješac, an excellent setting for capturing spectacular afternoon photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Gradac",
+            "hu": "Gradac",
+            "ro": "Gradac",
+            "en": "Gradac"
+          },
+          "coords": [
+            17.780241,
+            42.822426
+          ],
+          "category": "natural",
+          "arrive_at": "16:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parken Sie an der Anhöhe von Gradac und genießen Sie die kühle Brise bei einem weiten Blick über die sanften, von der späten Sonne beschienenen Hügel.",
+            "hu": "Parkoljon le a Gradac magaslatán, és élvezze a hűvös szellőt, miközben végigtekintek a késői napfény által megvilágított szelíd dombokon.",
+            "ro": "Parcați la înălțimea Gradac și bucurați-vă de briza răcoroasă în timp ce admirați priveliștea largă peste dealurile blânde luminate de soarele târziu.",
+            "en": "Park near the elevation of Gradac and enjoy the cooling breeze along with a wide view over the gentle hills illuminated by the late afternoon sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Oštrikovac",
+            "hu": "Oštrikovac",
+            "ro": "Oštrikovac",
+            "en": "Oštrikovac"
+          },
+          "coords": [
+            17.779384,
+            42.839809
+          ],
+          "category": "natural",
+          "arrive_at": "17:30",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Abschluss hoch zum Oštrikovac, lehnen Sie sich an Ihr Auto und betrachten Sie in Ruhe, wie sich der Horizont spektakulär dunkel färbt.",
+            "hu": "Zárásként vezessen fel az Oštrikovac területére, dőljön neki az autójának, és csendben nézze végig, ahogy a horizont látványosan sötétbe borul.",
+            "ro": "Conduceți spre final până la Oštrikovac, sprijiniți-vă de mașină și urmăriți în liniște cum orizontul se întunecă într-un mod cu adevărat spectaculos.",
+            "en": "Drive up to Oštrikovac for the grand finale, lean against your car, and peacefully watch as the entire horizon spectacularly fades into the evening dark."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Reise beginnt mit den morgendlichen Wellen und dem goldenen Sand der Plaža Pržina.\n\nDer Mittag geht langsam in die wilden Düfte von Pologrina und die tiefe, schattige Ruhe von Prijšnica und Rvač über.\n\nDie landschaftlich reizvollen Fahrten am Nachmittag führen Sie durch das dichte Laub von Vriješac und den weiten Gradac.\n\nDen Abschluss bildet Oštrikovac, wo die untergehende Sonne den weiten Himmel in sanfte Farben taucht.",
+        "hu": "Utazása a reggeli hullámokkal és a Plaža Pržina gyönyörű, aranyhomokos partjával kezdődik.\n\nA dél Pologrina vad, mediterrán illatai, valamint Prijšnica és Rvač mély, árnyékos nyugalma felé fordul.\n\nA délutáni festői autózások Vriješac lombjai és a Gradac lenyűgöző, szeles magaslatai közé vezetnek.\n\nZárja a napot Oštrikovacnál, ahol a lenyugvó nap lágy színekkel festi meg az eget a távoli csúcsok felett.",
+        "ro": "Călătoria începe relaxant cu valurile dimineții și nisipurile aurii primitoare de la Plaža Pržina.\n\nAmiaza face tranziția către parfumurile sălbatice din Pologrina și liniștea profundă din Prijšnica și Rvač.\n\nPlimbările pitorești de după-amiază cu mașina vă poartă prin frunzișul din Vriješac și pe înălțimile de la Gradac.\n\nÎncheiați turul la Oštrikovac, unde soarele care apune pictează treptat întregul cer în culori calde.",
+        "en": "Your journey begins with the refreshing morning waves and warm golden sands at Plaža Pržina.\n\nMidday gracefully transitions to the wild, herbaceous scents of Pologrina and the deep tranquility of Prijšnica and Rvač.\n\nAfternoon scenic drives take you smoothly through the vibrant foliage of Vriješac and the impressive heights of Gradac.\n\nConclude at the viewpoint of Oštrikovac, where the setting sun beautifully paints the sky over the distant landscape."
+      }
+    }
+  }
+}

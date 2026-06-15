@@ -1,0 +1,497 @@
+{
+  "city_id": "montrond-les-bains",
+  "anchor": {
+    "name": "Montrond-les-Bains",
+    "coords": [
+      4.2306,
+      45.6436
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:24",
+      "total_km": 4.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Roch",
+            "hu": "Église Saint-Roch",
+            "ro": "Église Saint-Roch",
+            "en": "Église Saint-Roch"
+          },
+          "coords": [
+            4.229652,
+            45.641894
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an dieser charmanten Kirche und bewundern Sie die traditionelle Architektur, bevor Sie die nahegelegenen Thermalbäder erkunden.",
+            "hu": "Kezdje a napot ennél a bájos helyi templomnál, figyelve meg annak hagyományos építészetét, mielőtt felfedezné a közeli termálfürdőket.",
+            "ro": "Începeți ziua la această biserică fermecătoare, remarcând arhitectura sa tradițională înainte de a explora băile termale din apropiere.",
+            "en": "Start your day at this charming local church, noting its traditional architecture before exploring the nearby thermal baths."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Thermes de Montrond",
+            "hu": "Les Thermes de Montrond",
+            "ro": "Les Thermes de Montrond",
+            "en": "Les Thermes de Montrond"
+          },
+          "coords": [
+            4.23208,
+            45.643342
+          ],
+          "category": "recreational",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in den berühmten Thermalbädern, wo die wohltuenden Gewässer für Erholung sorgen, und buchen Sie Ihr Spa-Zeitfenster am besten im Voraus.",
+            "hu": "Pihenjen a híres termálfürdőkben, ahol a nyugtató vizek tökéletes felfrissülést nyújtanak, és ne felejtse el előre lefoglalni az időpontját.",
+            "ro": "Relaxați-vă la faimoasele băi termale unde apele liniștitoare oferă o pauză perfectă de întinerire și amintiți-vă să rezervați din timp o ședință de spa.",
+            "en": "Relax at the famous thermal baths where the soothing waters provide a perfect rejuvenating break, and remember to book your spa slot in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Montrond",
+            "hu": "Château de Montrond",
+            "ro": "Château de Montrond",
+            "en": "Château de Montrond"
+          },
+          "coords": [
+            4.231389,
+            45.643889
+          ],
+          "category": "fortress",
+          "arrive_at": "11:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die mittelalterlichen Ruinen dieser beeindruckenden Festung und genießen Sie den Panoramablick auf die Loire; tragen Sie dabei bequeme Schuhe.",
+            "hu": "Fedezze fel e lenyűgöző erődítmény középkori romjait, élvezve a Loire folyóra nyíló panorámát, miközben kényelmes cipőt visel az egyenetlen talaj miatt.",
+            "ro": "Explorați ruinele medievale ale acestei fortărețe impresionante, bucurându-vă de priveliștile panoramice asupra râului Loara, purtând încălțăminte confortabilă.",
+            "en": "Explore the medieval ruins of this impressive fortress, enjoying panoramic views of the Loire river while wearing comfortable shoes for the uneven ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Casino JOA de Montrond",
+            "hu": "Casino JOA de Montrond",
+            "ro": "Casino JOA de Montrond",
+            "en": "Casino JOA de Montrond"
+          },
+          "coords": [
+            4.237233,
+            45.637945
+          ],
+          "category": "recreational",
+          "arrive_at": "13:09",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Versuchen Sie Ihr Glück oder genießen Sie ein feines Essen in diesem modernen Unterhaltungskomplex, der eine tolle Atmosphäre bietet, aber einen Ausweis erfordert.",
+            "hu": "Próbálja ki szerencséjét, vagy csak élvezzen egy finom ételt ebben a modern szórakoztató központban, ahová érvényes személyi igazolvánnyal léphet be.",
+            "ro": "Încercați-vă norocul sau pur și simplu savurați o masă fină la acest complex modern de divertisment, care necesită un act de identitate valabil pentru intrare.",
+            "en": "Try your luck or simply enjoy a fine meal at this modern entertainment complex, which offers a great ambiance but requires valid ID for entry."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Sourcieux",
+            "hu": "Château de Sourcieux",
+            "ro": "Château de Sourcieux",
+            "en": "Château de Sourcieux"
+          },
+          "coords": [
+            4.202664,
+            45.642026
+          ],
+          "category": "castle",
+          "arrive_at": "15:34",
+          "stay_min": 110,
+          "hop_from_prev_min": 45,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an diesem malerischen historischen Schloss inmitten üppiger Natur und bringen Sie eine Kamera für das späte Nachmittagslicht mit.",
+            "hu": "Fejezze be sétáját ennél a festői történelmi kastélynál, és hozzon magával fényképezőgépet, hogy megörökítse a kőhomlokzaton megcsillanó késő délutáni napfényt.",
+            "ro": "Încheiați-vă plimbarea la acest castel istoric pitoresc înconjurat de verdeață, aducând un aparat foto pentru a surprinde lumina după-amiezii pe fațada sa.",
+            "en": "End your walk at this picturesque historic castle set amid lush greenery, bringing a camera to capture the beautiful late afternoon sunlight on its stone facade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im Stadtzentrum und erkunden Sie die hübsche Église Saint-Roch. \n Gönnen Sie sich am Mittag die heilenden Wasser der Thermes, bevor Sie im Château de Montrond in die Vergangenheit reisen. \n Am Nachmittag steht moderne Unterhaltung im Casino JOA auf dem Programm. \n Beenden Sie Ihren aktiven Tag mit einem lohnenden Spaziergang nach Westen zur ruhigen Schönheit des Château de Sourcieux.",
+        "hu": "Kezdje a reggelt a városközpont helyi történelmének felfedezésével a bájos Église Saint-Roch templomnál. \n Délben kényeztesse magát a Les Thermes gyógyvizével, mielőtt visszautazna az időben a Château de Montrond romjainál. \n Délután váltson a modern szórakozásra a Casino JOA meglátogatásával. \n Aktív napját egy hosszú, de megéri nyugati sétával zárja a békés Château de Sourcieux megcsodálásához.",
+        "ro": "Începeți dimineața cu istoria locală explorând biserica Église Saint-Roch din centrul orașului. \n La prânz, răsfățați-vă cu apele curative de la Les Thermes, înainte de a face un pas înapoi în timp la Château de Montrond. \n După-amiaza, treceți la divertismentul modern de la Casino JOA. \n Încheiați ziua activă cu o plimbare lungă și relaxantă spre vest, pentru a admira frumusețea liniștită a Château de Sourcieux.",
+        "en": "Start your morning immersed in local history near the city center, exploring the quaint Église Saint-Roch. \n By midday, treat yourself to the restorative waters of Les Thermes before stepping back in time at the medieval Château de Montrond. \n In the afternoon, shift gears to modern entertainment at the Casino JOA. \n Conclude your active day with a long, rewarding stroll westward to admire the tranquil beauty of Château de Sourcieux."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:38",
+      "total_km": 6.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Église Saint-Martin",
+            "ro": "Église Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            4.21003,
+            45.664418
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Radeln Sie zu dieser ruhigen nördlichen Kirche, um ihren rustikalen Charme zu bewundern, und nehmen Sie Wasser für die bevorstehende Fahrt mit.",
+            "hu": "Kerékpározzon el ehhez a csendes északi templomhoz, hogy megcsodálja rusztikus báját, és mindenképpen vigyen magával egy üveg vizet a reggeli útra.",
+            "ro": "Pedalați spre această biserică nordică liniștită pentru a admira farmecul ei rustic, asigurându-vă că aduceți apă pentru plimbarea de dimineață.",
+            "en": "Cycle out to this quiet northern church to admire its rustic charm, making sure to bring a water bottle for the pleasant morning ride ahead."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Montrond",
+            "hu": "Château de Montrond",
+            "ro": "Château de Montrond",
+            "en": "Château de Montrond"
+          },
+          "coords": [
+            4.231389,
+            45.643889
+          ],
+          "category": "fortress",
+          "arrive_at": "10:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad am Fuß dieser majestätischen Festung und steigen Sie zu den Ruinen hinauf, um spektakuläre Flussblicke zu genießen.",
+            "hu": "Parkolja le kerékpárját az erődítmény lábánál, és másszon fel a romokhoz a lenyűgöző folyóparti kilátásért, amely életre kelti a középkori történelmet.",
+            "ro": "Parcați bicicleta la baza acestei fortărețe și urcați la ruine pentru priveliști spectaculoase asupra râului, ce readuc la viață istoria medievală.",
+            "en": "Park your bike at the base of this majestic fortress and climb up to the ruins for spectacular river views that bring medieval history to life."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Thermes de Montrond",
+            "hu": "Les Thermes de Montrond",
+            "ro": "Les Thermes de Montrond",
+            "en": "Les Thermes de Montrond"
+          },
+          "coords": [
+            4.23208,
+            45.643342
+          ],
+          "category": "recreational",
+          "arrive_at": "11:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Machen Sie eine wohlverdiente Radpause im Thermalpark, wo die heilende Umgebung es Ihnen ermöglicht, sich die Beine zu vertreten und zu entspannen.",
+            "hu": "Tartson egy jól megérdemelt kerékpáros pihenőt a termálparkban, ahol a gyógyító környezet lehetővé teszi, hogy kinyújtóztassa a lábát és ellazuljon.",
+            "ro": "Luați o pauză bine meritată de la pedalat în parcul termal, unde mediul curativ vă permite să vă întindeți picioarele și să vă relaxați complet.",
+            "en": "Take a well-deserved cycling break in the thermal park, where the healing environment allows you to stretch your legs and relax completely."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Roch",
+            "hu": "Église Saint-Roch",
+            "ro": "Église Saint-Roch",
+            "en": "Église Saint-Roch"
+          },
+          "coords": [
+            4.229652,
+            45.641894
+          ],
+          "category": "religious",
+          "arrive_at": "13:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses zentrale Gotteshaus kurz, um das ruhige Innere zu würdigen, das direkt an den Hauptradwegen der Stadt liegt.",
+            "hu": "Látogasson el röviden ebbe a központi templomba, hogy megcsodálja nyugodt belső terét, amely könnyen megközelíthető a város fő kerékpárútjairól.",
+            "ro": "Vizitați scurt acest lăcaș central de cult pentru a aprecia interiorul său senin, ușor accesibil direct de pe pistele principale de biciclete.",
+            "en": "Briefly visit this central place of worship to appreciate its serene interior, easily accessible right off the main cycling paths of the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Casino JOA de Montrond",
+            "hu": "Casino JOA de Montrond",
+            "ro": "Casino JOA de Montrond",
+            "en": "Casino JOA de Montrond"
+          },
+          "coords": [
+            4.237233,
+            45.637945
+          ],
+          "category": "recreational",
+          "arrive_at": "13:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem lebhaften Komplex für eine erfrischende Nachmittagspause an, aber stellen Sie sicher, dass Ihr Fahrrad draußen sicher angeschlossen ist.",
+            "hu": "Álljon meg ebben a nyüzsgő komplexumban egy élénk délutáni hangulatért és frissítőért, de gondoskodjon a kerékpár biztonságos lezárásáról.",
+            "ro": "Opriți-vă la acest complex plin de viață pentru o atmosferă de după-amiază și o scurtă reîmprospătare, dar asigurați-vă că bicicleta este bine încuiată.",
+            "en": "Stop by this bustling complex for a lively afternoon atmosphere and a quick refreshment, but ensure your bike is securely locked outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Sourcieux",
+            "hu": "Château de Sourcieux",
+            "ro": "Château de Sourcieux",
+            "en": "Château de Sourcieux"
+          },
+          "coords": [
+            4.202664,
+            45.642026
+          ],
+          "category": "castle",
+          "arrive_at": "15:48",
+          "stay_min": 110,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour mit einer malerischen Fahrt zu diesem bezaubernden Schloss und genießen Sie die ruhigen Landstraßen und das herrliche Abendlicht.",
+            "hu": "Fejezze be kerékpártúráját egy festői tekeréssel ehhez a varázslatos kastélyhoz, élvezve a csendes vidéki utakat és a gyönyörű aranyórai fényeket.",
+            "ro": "Finalizați turul cu bicicleta cu o plimbare pitorească spre acest castel fermecător, bucurându-vă de drumurile rurale liniștite și de lumina caldă a asfințitului.",
+            "en": "Finish your cycling tour with a scenic ride out to this enchanting castle, enjoying the quiet country roads and the beautiful golden hour light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit einer flotten morgendlichen Fahrt zur friedlichen Église Saint-Martin im Norden. \n Mittags geht es zurück ins Zentrum, um die historischen Höhen des Château de Montrond zu erklimmen, gefolgt von einer Pause in den Thermes. \n Am Nachmittag radeln Sie an der Église Saint-Roch vorbei zum lebhaften Casino JOA. \n Der Abend lockt mit einer malerischen Fahrt zum hübschen Château de Sourcieux.",
+        "hu": "Kezdje egy frissítő reggeli tekeréssel a békés északi Église Saint-Martin templomhoz. \n Délben térjen vissza a központba, hogy meghódítsa a Château de Montrond történelmi magaslatait, majd lazítson a Les Thermes-nél. \n Délután guruljon el az Église Saint-Roch mellett, mielőtt belevetné magát a Casino JOA nyüzsgésébe. \n Az estét egy festői tekerés zárja a bájos Château de Sourcieux felé.",
+        "ro": "Începeți cu o plimbare revigorantă de dimineață către biserica liniștită Église Saint-Martin din nord. \n La prânz, reveniți în centru pentru a cuceri înălțimile istorice de la Château de Montrond, urmată de o pauză relaxantă la Les Thermes. \n După-amiaza, treceți pe lângă Église Saint-Roch înainte de a vă bucura de împrejurimile vibrante de la Casino JOA. \n Seara aduce o pedalare pitorească spre frumosul Château de Sourcieux pentru a încheia ziua.",
+        "en": "Start with a brisk morning ride to the peaceful Église Saint-Martin in the north. \n Midday takes you back to the center to conquer the historical heights of Château de Montrond, followed by a relaxing pause at Les Thermes. \n In the afternoon, cruise past Église Saint-Roch before enjoying the vibrant surroundings of the Casino JOA. \n Evening brings a rewarding, scenic pedal out to the lovely Château de Sourcieux to wrap up the day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:53",
+      "total_km": 11.1,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Église Saint-Martin",
+            "ro": "Église Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            4.21003,
+            45.664418
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fahren Sie in die nördlichen Außenbezirke zu dieser charmanten Kirche und finden Sie leicht einen Parkplatz für einen ruhigen Moment.",
+            "hu": "Vezessen az északi külvárosba ehhez a bájos templomhoz, ahol könnyen talál utcai parkolót egy csendes pillanathoz.",
+            "ro": "Conduceți la periferia nordică la această biserică fermecătoare, găsind ușor parcare pe stradă pentru un moment de liniște.",
+            "en": "Drive to the northern outskirts to visit this charming church, easily finding street parking to enjoy a quiet moment of morning reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Sourcieux",
+            "hu": "Château de Sourcieux",
+            "ro": "Château de Sourcieux",
+            "en": "Château de Sourcieux"
+          },
+          "coords": [
+            4.202664,
+            45.642026
+          ],
+          "category": "castle",
+          "arrive_at": "09:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Navigieren Sie nach Westen zu diesem prächtigen Anwesen, wo Sie die Architektur ohne die Menschenmassen der Innenstadt bewundern können.",
+            "hu": "Navigáljon nyugatra ehhez a csodálatos birtokhoz, ahol a belváros tömege nélkül csodálhatja meg a jól megőrzött építészetet.",
+            "ro": "Navigați spre vest la acest domeniu splendid, unde puteți admira arhitectura fără a vă confrunta cu aglomerația din centru.",
+            "en": "Navigate west to this splendid estate, where you can admire the well-preserved architecture without dealing with the crowds of the town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Montrond",
+            "hu": "Château de Montrond",
+            "ro": "Château de Montrond",
+            "en": "Château de Montrond"
+          },
+          "coords": [
+            4.231389,
+            45.643889
+          ],
+          "category": "fortress",
+          "arrive_at": "11:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Stadtzentrums, um diese beeindruckende mittelalterliche Festung über der Loire zu erkunden; ein Muss für Historiker.",
+            "hu": "Parkoljon a központ közelében, hogy felfedezze ezt a Loire-ra néző lenyűgöző középkori erődöt, amely kötelező a történelem szerelmeseinek.",
+            "ro": "Parcați aproape de centrul orașului pentru a explora această fortăreață medievală impresionantă cu vedere la Loara, o necesitate pentru istorici.",
+            "en": "Head to the town center and park nearby to explore this impressive medieval fortress overlooking the Loire, an absolute must-see for history buffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Thermes de Montrond",
+            "hu": "Les Thermes de Montrond",
+            "ro": "Les Thermes de Montrond",
+            "en": "Les Thermes de Montrond"
+          },
+          "coords": [
+            4.23208,
+            45.643342
+          ],
+          "category": "recreational",
+          "arrive_at": "12:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto stehen und spazieren Sie zu den Thermalbädern für ein erfrischendes Spa-Erlebnis, das die Wasserressourcen der Stadt zeigt.",
+            "hu": "Hagyja leparkolva az autót, és sétáljon át a termálfürdőkbe egy frissítő élményért, amely nagyszerűen bemutatja a város vízi erőforrásait.",
+            "ro": "Lăsați mașina parcată și mergeți la băile termale pentru o experiență spa răcoritoare care evidențiază resursele de apă ale orașului.",
+            "en": "Leave the car parked and walk over to the thermal baths for a refreshing spa experience that brilliantly showcases the town's natural water resources."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Roch",
+            "hu": "Église Saint-Roch",
+            "ro": "Église Saint-Roch",
+            "en": "Église Saint-Roch"
+          },
+          "coords": [
+            4.229652,
+            45.641894
+          ],
+          "category": "religious",
+          "arrive_at": "14:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Spaziergang von den Bädern, um diese religiöse Stätte mit ihrem markanten Innendesign und der friedlichen Atmosphäre zu entdecken.",
+            "hu": "Tegyen egy rövid sétát a fürdőktől, hogy felfedezze ezt a vallási helyet, megfigyelve annak feltűnő belső kialakítását és békés hangulatát.",
+            "ro": "Faceți o scurtă plimbare de la băi pentru a descoperi acest sit religios, remarcând designul interior impresionant și atmosfera sa pașnică.",
+            "en": "Take a short stroll from the baths to discover this beautifully maintained religious site, noting its striking interior design and peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Casino JOA de Montrond",
+            "hu": "Casino JOA de Montrond",
+            "ro": "Casino JOA de Montrond",
+            "en": "Casino JOA de Montrond"
+          },
+          "coords": [
+            4.237233,
+            45.637945
+          ],
+          "category": "recreational",
+          "arrive_at": "15:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Fahren Sie hinunter zum modernen Casino, wo ausreichend Parkplätze es einfach machen, Spiele und die lebhafte Atmosphäre zu genießen.",
+            "hu": "Vezessen le a modern kaszinóhoz, ahol a bőséges parkolóhely megkönnyíti a játékok és a nyüzsgő hangulat élvezetét a délután során.",
+            "ro": "Conduceți la cazinoul modern, unde parcarea amplă vă ajută să vă bucurați ușor de jocuri și de atmosfera plină de viață a după-amiezii.",
+            "en": "Drive down to the modern casino complex where ample parking makes it easy to enjoy late afternoon games, dining, or simply a lively environment."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            4.244142,
+            45.624669
+          ],
+          "category": "religious",
+          "arrive_at": "16:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahren Sie nach Süden zu dieser schönen Pfarrkirche, die einen ruhigen Kontrast zum belebten Casinoviertel und einen Einblick ins Erbe bietet.",
+            "hu": "Autózzon dél felé ehhez a szép plébániatemplomhoz, amely nyugodt kontrasztot nyújt a nyüzsgő kaszinónegyedhez és bepillantást a helyi örökségbe.",
+            "ro": "Călătoriți spre sud pentru a vizita această frumoasă biserică, oferind un contrast liniștit față de zona cazinoului și o privire în patrimoniu.",
+            "en": "Cruise southward to visit this lovely parish church, offering a serene contrast to the bustling casino area and a glimpse into local heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Blaise",
+            "hu": "Église Saint-Blaise",
+            "ro": "Église Saint-Blaise",
+            "en": "Église Saint-Blaise"
+          },
+          "coords": [
+            4.211893,
+            45.620431
+          ],
+          "category": "religious",
+          "arrive_at": "17:43",
+          "stay_min": 70,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt an dieser ruhigen südwestlichen Kirche, einem perfekten Ort, um den ländlichen Charme beim Sonnenuntergang zu erleben.",
+            "hu": "Fejezze be autós túráját ennél a csendes délnyugati templomnál, amely tökéletes hely az autentikus vidéki báj megtapasztalására naplementekor.",
+            "ro": "Încheiați-vă turul la această biserică de sud-vest, un loc perfect pentru a experimenta farmecul rural autentic la apusul soarelui.",
+            "en": "Conclude your driving tour at this quiet southwestern church, a perfect spot to experience authentic rural charm as the sun sets over the region."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit einer Fahrt nach Norden zur Église Saint-Martin und weiter nach Westen zum Château de Sourcieux. \n Mittags parken Sie im Zentrum, um das Château de Montrond zu erkunden und sich in den Thermes zu erholen. \n Ihr Nachmittag beinhaltet einen kurzen Besuch der Église Saint-Roch, gefolgt vom modernen Casino JOA. \n Der Tag endet elegant mit einer abendlichen Fahrt nach Süden zur friedlichen Église Saint-Pierre und Église Saint-Blaise.",
+        "hu": "Kezdje egy északi autózással az Église Saint-Martin felé, majd induljon nyugatra a festői Château de Sourcieux-hoz. \n Délben parkoljon le a központban, hogy felfedezze a történelmi Château de Montrond-t és feltöltődjön a Les Thermes-nél. \n Délután látogasson el az Église Saint-Roch templomba, majd élvezze a Casino JOA izgalmait. \n A napot egy kellemes esti autózás zárja dél felé, a békés Saint-Pierre és Saint-Blaise templomokhoz.",
+        "ro": "Începeți cu o plimbare cu mașina spre nord până la Église Saint-Martin, apoi spre vest spre pitorescul Château de Sourcieux. \n La prânz, parcați în centru pentru a explora istoricul Château de Montrond și a vă revigora la Les Thermes. \n După-amiaza include o vizită scurtă la Église Saint-Roch, urmată de emoțiile moderne de la Casino JOA. \n Ziua se încheie grațios cu o plimbare de seară spre sud, spre bisericile liniștite Saint-Pierre și Saint-Blaise.",
+        "en": "Begin with a drive north to Église Saint-Martin, then head west to the picturesque Château de Sourcieux. \n By midday, park in the town center to explore the historic Château de Montrond and rejuvenate at Les Thermes. \n Your afternoon features a quick visit to Église Saint-Roch before experiencing the modern thrills of the Casino JOA. \n The day gracefully ends with an evening drive southwards to the peaceful Église Saint-Pierre and Église Saint-Blaise."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "france-pramousquier-cities-v2",
+  "anchor": {
+    "name": "Pramousquier",
+    "coords": [
+      6.44607,
+      43.15546
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:24",
+      "total_km": 3.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Plage de Pramousquier",
+            "hu": "Plage de Pramousquier",
+            "ro": "Plage de Pramousquier",
+            "en": "Plage de Pramousquier"
+          },
+          "coords": [
+            6.448736,
+            43.153351
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am feinen Sandstrand von Pramousquier, einer geschützten Bucht, ideal zum Schwimmen, aber kommen Sie früh, um einen guten Platz zu finden.",
+            "hu": "Pihenjen a Pramousquier finom homokos strandján, egy védett öbölben, amely ideális úszáshoz, de érkezzen korán a legjobb helyekért.",
+            "ro": "Relaxați-vă pe nisipul fin de la Pramousquier, un golf adăpostit perfect pentru înot, dar sosiți devreme pentru a prinde un loc excelent lângă apă.",
+            "en": "Relax on the fine sands of Pramousquier beach, a sheltered cove perfect for swimming, but arrive early to secure a prime spot near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Cap Nègre",
+            "hu": "Plage du Cap Nègre",
+            "ro": "Plage du Cap Nègre",
+            "en": "Plage du Cap Nègre"
+          },
+          "coords": [
+            6.439553,
+            43.147497
+          ],
+          "category": "recreational",
+          "arrive_at": "10:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende Aussicht am Strand von Cap Nègre, berühmt für kristallklares Wasser und Klippen, also bringen Sie unbedingt Ihre Schnorchelausrüstung mit.",
+            "hu": "Élvezze a lenyűgöző kilátást a Cap Nègre strandon, amely kristálytiszta vizéről híres, így a sznorkelfelszerelés mindenképpen elengedhetetlen.",
+            "ro": "Bucurați-vă de priveliștile uimitoare de la plaja Cap Nègre, faimoasă pentru apele cristaline, așadar este esențial să aveți echipament de snorkeling la voi.",
+            "en": "Enjoy the stunning views from Cap Nègre beach, famous for its crystal-clear waters and surrounding cliffs, making it essential to bring snorkeling gear."
+          }
+        },
+        {
+          "name": {
+            "de": "Château Faraghi",
+            "hu": "Château Faraghi",
+            "ro": "Château Faraghi",
+            "en": "Château Faraghi"
+          },
+          "coords": [
+            6.440514,
+            43.143909
+          ],
+          "category": "historical",
+          "arrive_at": "12:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur des Château Faraghi, eines geschichtsträchtigen Küstenanwesens, wobei die beste Aussicht von den äußeren Wegen aus besteht.",
+            "hu": "Csodálja meg a történelmi Château Faraghi elegáns építészetét, de vegye figyelembe, hogy az ikonikus partvidéki birtok leginkább a külső ösvényekről nyújt szép látványt.",
+            "ro": "Admirați arhitectura elegantă a Château Faraghi, un domeniu istoric iconic de pe coastă, dar rețineți că priveliștile sunt cel mai bine savurate de pe aleile exterioare.",
+            "en": "Admire the elegant architecture of Château Faraghi, an iconic coastal estate rich in history, though note that views are mostly best enjoyed from the exterior pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre Dame du Rosaire",
+            "hu": "Chapelle Notre Dame du Rosaire",
+            "ro": "Chapelle Notre Dame du Rosaire",
+            "en": "Chapelle Notre Dame du Rosaire"
+          },
+          "coords": [
+            6.461703,
+            43.158359
+          ],
+          "category": "religious",
+          "arrive_at": "13:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Betreten Sie diese friedliche Kapelle, um ihre spirituelle Gelassenheit zu bewundern, und nehmen Sie sich einen Moment Zeit, um ruhig im schattigen Garten zu sitzen.",
+            "hu": "Lépjen be ebbe a békés kápolnába, hogy megcsodálja a spirituális nyugalmat, és szánjon egy percet arra, hogy csendben leüljön a kinti árnyékos kertben.",
+            "ro": "Pășiți în această capelă pașnică pentru a admira frumusețea și seninătatea sa spirituală, luându-vă un moment de liniște în grădina umbrită de afară.",
+            "en": "Step inside this peaceful chapel to admire its modest beauty and spiritual serenity, taking a moment to sit quietly in the shaded garden just outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Canadel",
+            "hu": "Plage du Canadel",
+            "ro": "Plage du Canadel",
+            "en": "Plage du Canadel"
+          },
+          "coords": [
+            6.464046,
+            43.15755
+          ],
+          "category": "recreational",
+          "arrive_at": "14:39",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag am Plage du Canadel, einem breiten historischen Strand, der für seine Sonnenuntergänge bekannt ist, der perfekte Ort für einen Abendspaziergang.",
+            "hu": "Zárja a napot a Plage du Canadel történelmi strandján, amely híres naplementéiről, így tökéletes helyszínt biztosít egy esti tengerparti sétához.",
+            "ro": "Încheiați-vă ziua la Plage du Canadel, o plajă largă istorică renumită pentru apusuri, fiind locul perfect pentru o plimbare relaxantă de seară.",
+            "en": "Conclude your day at Plage du Canadel, a wide historical beach renowned for its sunset views, making it the perfect place for an evening promenade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am Strand von Pramousquier und genießen Sie die frühe Sonne. Ein kurzer Spaziergang bringt Sie zum atemberaubenden Cap Nègre.\n\nMittags geht es zum historischen Château Faraghi, um dessen Architektur bei einem Picknick zu bewundern.\n\nNachmittags spazieren Sie landeinwärts zur friedlichen Chapelle Notre Dame du Rosaire für eine ruhige Pause.\n\nBeenden Sie Ihre Tour am Plage du Canadel mit einem Abendspaziergang bei Sonnenuntergang.",
+        "hu": "Kezdje a napot a Pramousquier strand lágy hullámai mellett. Egy rövid séta elviszi a lenyűgöző Cap Nègre-hez.\n\nDélben haladjon a történelmi Château Faraghi felé, és élvezze az építészeti szépséget egy piknik kíséretében.\n\nDélután sétáljon a békés Chapelle Notre Dame du Rosaire kápolnához, amely hűsítő menedéket nyújt.\n\nZárja a napot a Plage du Canadel tágas partján egy gyönyörű naplementés sétával.",
+        "ro": "Începeți-vă ziua pe plaja Pramousquier, bucurându-vă de soarele matinal. O scurtă plimbare vă duce la uimitorul Cap Nègre.\n\nLa prânz, îndreptați-vă spre domeniul istoric Château Faraghi pentru a admira frumusețea sa arhitecturală.\n\nDupă-amiaza continuați spre pașnica Chapelle Notre Dame du Rosaire pentru o pauză liniștită.\n\nÎncheiați turul la Plage du Canadel cu o plimbare de seară admirând apusul.",
+        "en": "Start your day by the gentle waves of Plage de Pramousquier, soaking in the early sunlight. A short walk brings you to the stunning Cap Nègre.\n\nAround noon, make your way to the historic grounds of Château Faraghi to enjoy its architectural beauty.\n\nContinue inland towards the peaceful Chapelle Notre Dame du Rosaire, an inviting retreat for quiet contemplation.\n\nConclude your walking tour at Plage du Canadel, perfect for an evening stroll as you watch the sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 5.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Crique du Layet",
+            "hu": "Crique du Layet",
+            "ro": "Crique du Layet",
+            "en": "Crique du Layet"
+          },
+          "coords": [
+            6.419012,
+            43.147555
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die abgelegene Crique du Layet, eine felsige Bucht mit wilder Atmosphäre, und denken Sie an festes Schuhwerk für den etwas unebenen Zugang.",
+            "hu": "Fedezze fel az eldugott Crique du Layet sziklás öblöt, amely vad atmoszférájáról híres, de ne felejtsen el masszív cipőt húzni a kissé rögös megközelítéshez.",
+            "ro": "Descoperiți Crique du Layet, un golf stâncos retras apreciat pentru atmosfera sa sălbatică, așa că purtați încălțăminte robustă pentru accesul puțin accidentat.",
+            "en": "Discover the secluded Crique du Layet, a rocky inlet favored for its wild atmosphere, so remember to wear sturdy shoes for the slightly rugged approach."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Cavalière",
+            "hu": "Plage de Cavalière",
+            "ro": "Plage de Cavalière",
+            "en": "Plage de Cavalière"
+          },
+          "coords": [
+            6.429366,
+            43.150918
+          ],
+          "category": "recreational",
+          "arrive_at": "10:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Atmosphäre am Plage de Cavalière mit Wassersport und weitläufigem Sand, wo Sie Ausrüstung direkt an der belebten Promenade mieten können.",
+            "hu": "Tapasztalja meg a Plage de Cavalière nyüzsgő hangulatát és tágas homokját, ahol a vízi sportok kedvelői könnyedén bérelhetnek felszerelést a sétányon.",
+            "ro": "Experimentați atmosfera plină de viață de la Plage de Cavalière, oferind sporturi nautice și nisipuri spațioase, de unde puteți închiria cu ușurință echipamente direct.",
+            "en": "Experience the lively atmosphere at Plage de Cavalière, offering water sports and spacious sands, where you can easily rent equipment right on the bustling promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Temple d'Hercule",
+            "hu": "Temple d'Hercule",
+            "ro": "Temple d'Hercule",
+            "en": "Temple d'Hercule"
+          },
+          "coords": [
+            6.429925,
+            43.161519
+          ],
+          "category": "historical",
+          "arrive_at": "11:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die eindrucksvollen Ruinen des Temple d'Hercule, die den römischen Einfluss in der Region zeigen, und lesen Sie die Infotafeln für den historischen Kontext.",
+            "hu": "Fedezze fel az egykori római hatást őrző Temple d'Hercule lenyűgöző romjait, és mindenképpen olvassa el az információs táblákat a történelmi kontextus megértéséhez.",
+            "ro": "Explorați ruinele evocatoare ale Temple d'Hercule, captând influența romană din regiune, și citiți plăcile informative pentru a înțelege pe deplin contextul său istoric.",
+            "en": "Explore the evocative ruins of the Temple d'Hercule, capturing the ancient Roman influence in the region, and read the informative plaques to fully grasp its historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Pramousquier",
+            "hu": "Plage de Pramousquier",
+            "ro": "Plage de Pramousquier",
+            "en": "Plage de Pramousquier"
+          },
+          "coords": [
+            6.448736,
+            43.153351
+          ],
+          "category": "recreational",
+          "arrive_at": "13:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie am feinen Sandstrand von Pramousquier, einer geschützten Bucht, ideal zum Schwimmen, aber kommen Sie früh, um einen guten Platz zu finden.",
+            "hu": "Pihenjen a Pramousquier finom homokos strandján, egy védett öbölben, amely ideális úszáshoz, de érkezzen korán a legjobb helyekért.",
+            "ro": "Relaxați-vă pe nisipul fin de la Pramousquier, un golf adăpostit perfect pentru înot, dar sosiți devreme pentru a prinde un loc excelent lângă apă.",
+            "en": "Relax on the fine sands of Pramousquier beach, a sheltered cove perfect for swimming, but arrive early to secure a prime spot near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre Dame du Rosaire",
+            "hu": "Chapelle Notre Dame du Rosaire",
+            "ro": "Chapelle Notre Dame du Rosaire",
+            "en": "Chapelle Notre Dame du Rosaire"
+          },
+          "coords": [
+            6.461703,
+            43.158359
+          ],
+          "category": "religious",
+          "arrive_at": "14:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Betreten Sie diese friedliche Kapelle, um ihre spirituelle Gelassenheit zu bewundern, und nehmen Sie sich einen Moment Zeit, um ruhig im schattigen Garten zu sitzen.",
+            "hu": "Lépjen be ebbe a békés kápolnába, hogy megcsodálja a spirituális nyugalmat, és szánjon egy percet arra, hogy csendben leüljön a kinti árnyékos kertben.",
+            "ro": "Pășiți în această capelă pașnică pentru a admira frumusețea și seninătatea sa spirituală, luându-vă un moment de liniște în grădina umbrită de afară.",
+            "en": "Step inside this peaceful chapel to admire its modest beauty and spiritual serenity, taking a moment to sit quietly in the shaded garden just outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Canadel",
+            "hu": "Plage du Canadel",
+            "ro": "Plage du Canadel",
+            "en": "Plage du Canadel"
+          },
+          "coords": [
+            6.464046,
+            43.15755
+          ],
+          "category": "recreational",
+          "arrive_at": "15:25",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag am Plage du Canadel, einem breiten historischen Strand, der für seine Sonnenuntergänge bekannt ist, der perfekte Ort für einen Abendspaziergang.",
+            "hu": "Zárja a napot a Plage du Canadel történelmi strandján, amely híres naplementéiről, így tökéletes helyszínt biztosít egy esti tengerparti sétához.",
+            "ro": "Încheiați-vă ziua la Plage du Canadel, o plajă largă istorică renumită pentru apusuri, fiind locul perfect pentru o plimbare relaxantă de seară.",
+            "en": "Conclude your day at Plage du Canadel, a wide historical beach renowned for its sunset views, making it the perfect place for an evening promenade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie an der Crique du Layet und radeln Sie zum lebhaften Plage de Cavalière.\n\nFahren Sie hinauf zum Temple d'Hercule für eine faszinierende historische Pause bei den römischen Ruinen.\n\nRadeln Sie entspannt ostwärts zur ruhigen Chapelle Notre Dame du Rosaire.\n\nBeenden Sie Ihre Tour am Plage du Canadel und genießen Sie die abendliche Küstenatmosphäre.",
+        "hu": "Induljon a Crique du Layet-ből, majd tekerjen az élénk Plage de Cavalière felé.\n\nTekerjen fel a Temple d'Hercule római romjaihoz egy lenyűgöző történelmi pihenőre.\n\nFolytassa útját kelet felé a békés Chapelle Notre Dame du Rosaire kápolnához.\n\nZárja a kerékpározást a Plage du Canadel partján, és élvezze az aranyóra fényeit.",
+        "ro": "Începeți la Crique du Layet și pedalați către vibranta Plage de Cavalière.\n\nUrcați ușor pentru a descoperi istoria romană la Temple d'Hercule pentru o pauză fascinantă.\n\nPedalați spre est către senina Chapelle Notre Dame du Rosaire.\n\nÎncheiați cursa la Plage du Canadel, bucurându-vă de luminile blânde ale serii pe plajă.",
+        "en": "Kick off at Crique du Layet and ride over to the vibrant Plage de Cavalière to catch the early beachgoers.\n\nPedal up slightly to uncover the ancient Roman history at the Temple d'Hercule for a fascinating break.\n\nCycle eastward towards the serene Chapelle Notre Dame du Rosaire.\n\nEnd your ride at Plage du Canadel, taking a leisurely walk along the water’s edge."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:19",
+      "total_km": 8.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Biscarre",
+            "hu": "Biscarre",
+            "ro": "Biscarre",
+            "en": "Biscarre"
+          },
+          "coords": [
+            6.452564,
+            43.174262
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wandern Sie nach Biscarre hinauf, um ein atemberaubendes Panorama der Mittelmeerküste zu erleben, aber bringen Sie viel Wasser mit, da die Naturpfade sehr sonnig sind.",
+            "hu": "Túrázzon fel Biscarre magasságaiba, hogy megcsodálja a Földközi-tenger partvidékének panorámáját, de vigyen sok vizet, mivel a természetes ösvények nagyon naposak.",
+            "ro": "Urcați la Biscarre pentru a asista la o panoramă vastă a coastei mediteraneene, dar asigurați-vă că aduceți multă apă, deoarece traseele pot fi destul de expuse la soare.",
+            "en": "Hike up to Biscarre to witness a sweeping panorama of the Mediterranean coastline, but be sure to bring plenty of water as the natural trails can be quite sun-exposed."
+          }
+        },
+        {
+          "name": {
+            "de": "Temple d'Hercule",
+            "hu": "Temple d'Hercule",
+            "ro": "Temple d'Hercule",
+            "en": "Temple d'Hercule"
+          },
+          "coords": [
+            6.429925,
+            43.161519
+          ],
+          "category": "historical",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die eindrucksvollen Ruinen des Temple d'Hercule, die den römischen Einfluss in der Region zeigen, und lesen Sie die Infotafeln für den historischen Kontext.",
+            "hu": "Fedezze fel az egykori római hatást őrző Temple d'Hercule lenyűgöző romjait, és mindenképpen olvassa el az információs táblákat a történelmi kontextus megértéséhez.",
+            "ro": "Explorați ruinele evocatoare ale Temple d'Hercule, captând influența romană din regiune, și citiți plăcile informative pentru a înțelege pe deplin contextul său istoric.",
+            "en": "Explore the evocative ruins of the Temple d'Hercule, capturing the ancient Roman influence in the region, and read the informative plaques to fully grasp its historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Crique du Layet",
+            "hu": "Crique du Layet",
+            "ro": "Crique du Layet",
+            "en": "Crique du Layet"
+          },
+          "coords": [
+            6.419012,
+            43.147555
+          ],
+          "category": "recreational",
+          "arrive_at": "11:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die abgelegene Crique du Layet, eine felsige Bucht mit wilder Atmosphäre, und denken Sie an festes Schuhwerk für den etwas unebenen Zugang.",
+            "hu": "Fedezze fel az eldugott Crique du Layet sziklás öblöt, amely vad atmoszférájáról híres, de ne felejtsen el masszív cipőt húzni a kissé rögös megközelítéshez.",
+            "ro": "Descoperiți Crique du Layet, un golf stâncos retras apreciat pentru atmosfera sa sălbatică, așa că purtați încălțăminte robustă pentru accesul puțin accidentat.",
+            "en": "Discover the secluded Crique du Layet, a rocky inlet favored for its wild atmosphere, so remember to wear sturdy shoes for the slightly rugged approach."
+          }
+        },
+        {
+          "name": {
+            "de": "Château Faraghi",
+            "hu": "Château Faraghi",
+            "ro": "Château Faraghi",
+            "en": "Château Faraghi"
+          },
+          "coords": [
+            6.440514,
+            43.143909
+          ],
+          "category": "historical",
+          "arrive_at": "13:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur des Château Faraghi, eines geschichtsträchtigen Küstenanwesens, wobei die beste Aussicht von den äußeren Wegen aus besteht.",
+            "hu": "Csodálja meg a történelmi Château Faraghi elegáns építészetét, de vegye figyelembe, hogy az ikonikus partvidéki birtok leginkább a külső ösvényekről nyújt szép látványt.",
+            "ro": "Admirați arhitectura elegantă a Château Faraghi, un domeniu istoric iconic de pe coastă, dar rețineți că priveliștile sunt cel mai bine savurate de pe aleile exterioare.",
+            "en": "Admire the elegant architecture of Château Faraghi, an iconic coastal estate rich in history, though note that views are mostly best enjoyed from the exterior pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Cap Nègre",
+            "hu": "Plage du Cap Nègre",
+            "ro": "Plage du Cap Nègre",
+            "en": "Plage du Cap Nègre"
+          },
+          "coords": [
+            6.439553,
+            43.147497
+          ],
+          "category": "recreational",
+          "arrive_at": "14:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende Aussicht am Strand von Cap Nègre, berühmt für kristallklares Wasser und Klippen, also bringen Sie unbedingt Ihre Schnorchelausrüstung mit.",
+            "hu": "Élvezze a lenyűgöző kilátást a Cap Nègre strandon, amely kristálytiszta vizéről híres, így a sznorkelfelszerelés mindenképpen elengedhetetlen.",
+            "ro": "Bucurați-vă de priveliștile uimitoare de la plaja Cap Nègre, faimoasă pentru apele cristaline, așadar este esențial să aveți echipament de snorkeling la voi.",
+            "en": "Enjoy the stunning views from Cap Nègre beach, famous for its crystal-clear waters and surrounding cliffs, making it essential to bring snorkeling gear."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Pramousquier",
+            "hu": "Plage de Pramousquier",
+            "ro": "Plage de Pramousquier",
+            "en": "Plage de Pramousquier"
+          },
+          "coords": [
+            6.448736,
+            43.153351
+          ],
+          "category": "recreational",
+          "arrive_at": "15:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am feinen Sandstrand von Pramousquier, einer geschützten Bucht, ideal zum Schwimmen, aber kommen Sie früh, um einen guten Platz zu finden.",
+            "hu": "Pihenjen a Pramousquier finom homokos strandján, egy védett öbölben, amely ideális úszáshoz, de érkezzen korán a legjobb helyekért.",
+            "ro": "Relaxați-vă pe nisipul fin de la Pramousquier, un golf adăpostit perfect pentru înot, dar sosiți devreme pentru a prinde un loc excelent lângă apă.",
+            "en": "Relax on the fine sands of Pramousquier beach, a sheltered cove perfect for swimming, but arrive early to secure a prime spot near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre Dame du Rosaire",
+            "hu": "Chapelle Notre Dame du Rosaire",
+            "ro": "Chapelle Notre Dame du Rosaire",
+            "en": "Chapelle Notre Dame du Rosaire"
+          },
+          "coords": [
+            6.461703,
+            43.158359
+          ],
+          "category": "religious",
+          "arrive_at": "17:09",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Betreten Sie diese friedliche Kapelle, um ihre spirituelle Gelassenheit zu bewundern, und nehmen Sie sich einen Moment Zeit, um ruhig im schattigen Garten zu sitzen.",
+            "hu": "Lépjen be ebbe a békés kápolnába, hogy megcsodálja a spirituális nyugalmat, és szánjon egy percet arra, hogy csendben leüljön a kinti árnyékos kertben.",
+            "ro": "Pășiți în această capelă pașnică pentru a admira frumusețea și seninătatea sa spirituală, luându-vă un moment de liniște în grădina umbrită de afară.",
+            "en": "Step inside this peaceful chapel to admire its modest beauty and spiritual serenity, taking a moment to sit quietly in the shaded garden just outside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zum Aussichtspunkt Biscarre und dann hinab zu den antiken Ruinen des Temple d'Hercule.\n\nEine kurze Fahrt bringt Sie zur Crique du Layet und weiter zur großartigen Architektur des Château Faraghi.\n\nParken Sie am Plage du Cap Nègre und Pramousquier, um das Meer zu genießen.\n\nBeenden Sie den Tag mit einem ruhigen Besuch der Chapelle Notre Dame du Rosaire.",
+        "hu": "Vezessen fel a Biscarre kilátóhoz, majd ereszkedjen le a Temple d'Hercule ősi romjaihoz.\n\nEgy rövid autózás elviszi a Crique du Layet-hez, majd a lenyűgöző Château Faraghi birtokhoz.\n\nParkoljon a Cap Nègre és Pramousquier strandok közelében a frissítő tengervízért.\n\nZárja a napot a békés Chapelle Notre Dame du Rosaire kápolna meglátogatásával.",
+        "ro": "Conduceți până la Biscarre pentru priveliști, apoi coborâți la ruinele Temple d'Hercule.\n\nUn scurt drum vă duce la Crique du Layet, urmat de arhitectura grandioasă de la Château Faraghi.\n\nParcați lângă Plage du Cap Nègre și Pramousquier pentru a vă bucura de mare.\n\nÎncheiați ziua cu o vizită liniștită la Chapelle Notre Dame du Rosaire.",
+        "en": "Drive up to the elevated natural viewpoint of Biscarre to start your day. Descend to the Temple d'Hercule to explore ancient ruins.\n\nA short drive brings you to Crique du Layet, followed by the grand architecture of Château Faraghi.\n\nPark near Plage du Cap Nègre and Plage de Pramousquier to enjoy the warm waters.\n\nDrive to the Chapelle Notre Dame du Rosaire for a quiet late-afternoon visit."
+      }
+    }
+  }
+}

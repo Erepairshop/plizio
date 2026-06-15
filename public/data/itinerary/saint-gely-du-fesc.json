@@ -1,0 +1,451 @@
+{
+  "city_id": "saint-gely-du-fesc",
+  "anchor": {
+    "name": "Saint-Gély-du-Fesc",
+    "coords": [
+      3.8061,
+      43.6922
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:07",
+      "total_km": 4.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Salle des Arts",
+            "hu": "Salle des Arts",
+            "ro": "Salle des Arts",
+            "en": "Salle des Arts"
+          },
+          "coords": [
+            3.79915,
+            43.694731
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Ausstellungen in der Salle des Arts, wo die lokale Kultur erstrahlt, und prüfen Sie vorab den Wochenendplan, um an einem kostenlosen Workshop teilzunehmen.",
+            "hu": "Fedezze fel a helyi kultúrát a Salle des Arts kiállításain, és érdemes előre ellenőrizni a hétvégi programokat, hogy részt vehessen egy ingyenes kreatív workshopon.",
+            "ro": "Explorați expozițiile vibrante la Salle des Arts pentru a descoperi cultura locală și verificați programul de weekend pentru a prinde un atelier creativ complet gratuit.",
+            "en": "Explore the vibrant exhibitions at Salle des Arts, where local culture shines, and make sure to check the weekend event schedule beforehand to catch a free creative workshop."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Gilles",
+            "hu": "Saint-Gilles templom",
+            "ro": "Biserica Saint-Gilles",
+            "en": "Saint-Gilles Church"
+          },
+          "coords": [
+            3.804504,
+            43.692785
+          ],
+          "category": "religious",
+          "arrive_at": "10:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die friedliche Architektur der Kirche Saint-Gilles, ein wichtiges Stück lokaler Geschichte, und kommen Sie am frühen Morgen für das beste Licht im Inneren.",
+            "hu": "Csodálja meg a Saint-Gilles templom békés építészetét, a helyi vallástörténet fontos részét, és látogasson el kora reggel, hogy a legszebb fényekben láthassa a belső teret.",
+            "ro": "Admirați arhitectura liniștită a Bisericii Saint-Gilles, o piesă esențială a istoriei locale, și vizitați-o dimineața devreme pentru a vă bucura de cea mai bună lumină.",
+            "en": "Admire the tranquil architecture of Saint-Gilles Church, an essential piece of local religious history, and visit during the early morning hours for the best lighting inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Calvaire",
+            "hu": "Calvaire",
+            "ro": "Calvaire",
+            "en": "Calvaire"
+          },
+          "coords": [
+            3.817217,
+            43.688867
+          ],
+          "category": "landmark",
+          "arrive_at": "11:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Steigen Sie zum Calvaire-Denkmal hinauf, um den Panoramablick auf die Landschaft zu genießen, und tragen Sie feste Wanderschuhe, da der felsige Pfad recht anspruchsvoll ist.",
+            "hu": "Másszon fel a Calvaire emlékműhöz, ahonnan lenyűgöző panoráma nyílik a vidékre, és viseljen kényelmes túracipőt, mivel a köves ösvény helyenként meglehetősen meredek lehet.",
+            "ro": "Urcați la monumentul Calvaire pentru a admira priveliștile panoramice ale zonei rurale și purtați încălțăminte de drumeție rezistentă, deoarece poteca pietroasă este abruptă.",
+            "en": "Climb up to the Calvaire landmark to take in the panoramic views of the surrounding countryside, and wear sturdy walking shoes as the rocky path can be a bit challenging."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour de Lauzard",
+            "hu": "Tour de Lauzard",
+            "ro": "Tour de Lauzard",
+            "en": "Tour de Lauzard"
+          },
+          "coords": [
+            3.815151,
+            43.675752
+          ],
+          "category": "historical",
+          "arrive_at": "12:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die mittelalterlichen Geheimnisse der Tour de Lauzard, einem historischen Turm, und bringen Sie eine gute Kamera mit, um die steinernen Details festzuhalten.",
+            "hu": "Fedezze fel a Tour de Lauzard középkori titkait, ezt a lenyűgöző történelmi tornyot, és hozzon magával jó fényképezőgépet, hogy megörökítse a kőfaragások apró részleteit.",
+            "ro": "Descoperiți secretele medievale ale Tour de Lauzard, un turn istoric fascinant, și aduceți o cameră bună pentru a surprinde îndeaproape detaliile complicate din piatră.",
+            "en": "Uncover the medieval secrets of Tour de Lauzard, a fascinating historical tower, and bring a good camera with a zoom lens to capture the intricate stonework details up close."
+          }
+        },
+        {
+          "name": {
+            "de": "A la p'tite ferme",
+            "hu": "A la p'tite ferme",
+            "ro": "A la p'tite ferme",
+            "en": "A la p'tite ferme"
+          },
+          "coords": [
+            3.800268,
+            43.670909
+          ],
+          "category": "family",
+          "arrive_at": "14:22",
+          "stay_min": 105,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Genießen Sie einen herrlichen Nachmittag mit Tieren in A la p'tite ferme, ideal für Familien, und kaufen Sie Futter am Eingang, um mit den freundlichen Ziegen zu interagieren.",
+            "hu": "Töltsön egy kellemes délutánt az állatokkal az A la p'tite ferme farmon, és vegyen egy kis állateledelt a bejáratnál, hogy közvetlenül megetethesse a barátságos kecskéket.",
+            "ro": "Bucurați-vă de o după-amiază cu animalele la A la p'tite ferme, perfectă pentru familii, și cumpărați hrană de la intrare pentru a interacționa îndeaproape cu caprele prietenoase.",
+            "en": "Enjoy a delightful afternoon with animals at A la p'tite ferme, perfect for family bonding, and buy a bag of animal feed at the entrance to interact closely with the goats."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit einem kulturellen Erlebnis in der Salle des Arts.\n\nGegen Mittag besuchen Sie die Kirche Saint-Gilles und steigen zum Calvaire auf.\n\nAm Nachmittag tauchen Sie an der Tour de Lauzard in die mittelalterliche Geschichte ein.\n\nBeenden Sie den Abend in der Natur bei der charmanten Einrichtung A la p'tite ferme.",
+        "hu": "Kezdje a reggelt a Salle des Arts kulturális élményeivel.\n\nDélben látogasson el a békés Saint-Gilles templomba, majd másszon fel a Calvaire emlékműhöz.\n\nDélután merüljön el a történelemben a Tour de Lauzard középkori falai között.\n\nZárja a napot a természet és az állatok közelségében a bájos A la p'tite ferme farmon.",
+        "ro": "Începeți dimineața cu o imersiune culturală la Salle des Arts.\n\nLa prânz, vizitați senina Biserică Saint-Gilles și urcați la monumentul Calvaire.\n\nDupă-amiaza, pătrundeți în istorie la Tour de Lauzard și minunați-vă de zidărie.\n\nÎncheiați ziua conectându-vă cu natura și animalele la fermecătoarea A la p'tite ferme.",
+        "en": "Start your morning with a refreshing cultural immersion at Salle des Arts.\n\nMidday approaches as you visit the peaceful Saint-Gilles Church and hike up to the Calvaire.\n\nIn the afternoon, dive into history at the Tour de Lauzard and marvel at the medieval stonework.\n\nConclude your day connecting with nature and animals at the delightful A la p'tite ferme."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:09",
+      "total_km": 8.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cabane de Plagnol",
+            "hu": "Cabane de Plagnol",
+            "ro": "Cabane de Plagnol",
+            "en": "Cabane de Plagnol"
+          },
+          "coords": [
+            3.785459,
+            43.7038
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in der rustikalen Cabane de Plagnol, einem historischen Unterschlupf, und besuchen Sie diesen in der Trockenzeit, um die Wege bequem zu erkunden.",
+            "hu": "Lépjen vissza az időben a rusztikus Cabane de Plagnol történelmi menedékhelynél, és érdemes a száraz évszakban jönni, hogy kényelmesen bejárhassa a környező földutakat.",
+            "ro": "Pășiți înapoi în timp la rustica Cabane de Plagnol, un adăpost istoric intrigant, și încercați să vizitați în sezonul uscat pentru a explora confortabil traseele din jur.",
+            "en": "Step back in time at the rustic Cabane de Plagnol, an intriguing historical shelter, and try to visit during the dry season to comfortably explore the surrounding dirt trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Salle des Arts",
+            "hu": "Salle des Arts",
+            "ro": "Salle des Arts",
+            "en": "Salle des Arts"
+          },
+          "coords": [
+            3.79915,
+            43.694731
+          ],
+          "category": "cultural",
+          "arrive_at": "10:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Ausstellungen in der Salle des Arts, wo die lokale Kultur erstrahlt, und prüfen Sie vorab den Wochenendplan, um an einem kostenlosen Workshop teilzunehmen.",
+            "hu": "Fedezze fel a helyi kultúrát a Salle des Arts kiállításain, és érdemes előre ellenőrizni a hétvégi programokat, hogy részt vehessen egy ingyenes kreatív workshopon.",
+            "ro": "Explorați expozițiile vibrante la Salle des Arts pentru a descoperi cultura locală și verificați programul de weekend pentru a prinde un atelier creativ complet gratuit.",
+            "en": "Explore the vibrant exhibitions at Salle des Arts, where local culture shines, and make sure to check the weekend event schedule beforehand to catch a free creative workshop."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Gilles",
+            "hu": "Saint-Gilles templom",
+            "ro": "Biserica Saint-Gilles",
+            "en": "Saint-Gilles Church"
+          },
+          "coords": [
+            3.804504,
+            43.692785
+          ],
+          "category": "religious",
+          "arrive_at": "12:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die friedliche Architektur der Kirche Saint-Gilles, ein wichtiges Stück lokaler Geschichte, und kommen Sie am frühen Morgen für das beste Licht im Inneren.",
+            "hu": "Csodálja meg a Saint-Gilles templom békés építészetét, a helyi vallástörténet fontos részét, és látogasson el kora reggel, hogy a legszebb fényekben láthassa a belső teret.",
+            "ro": "Admirați arhitectura liniștită a Bisericii Saint-Gilles, o piesă esențială a istoriei locale, și vizitați-o dimineața devreme pentru a vă bucura de cea mai bună lumină.",
+            "en": "Admire the tranquil architecture of Saint-Gilles Church, an essential piece of local religious history, and visit during the early morning hours for the best lighting inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Calvaire",
+            "hu": "Calvaire",
+            "ro": "Calvaire",
+            "en": "Calvaire"
+          },
+          "coords": [
+            3.817217,
+            43.688867
+          ],
+          "category": "landmark",
+          "arrive_at": "13:07",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Steigen Sie zum Calvaire-Denkmal hinauf, um den Panoramablick auf die Landschaft zu genießen, und tragen Sie feste Wanderschuhe, da der felsige Pfad recht anspruchsvoll ist.",
+            "hu": "Másszon fel a Calvaire emlékműhöz, ahonnan lenyűgöző panoráma nyílik a vidékre, és viseljen kényelmes túracipőt, mivel a köves ösvény helyenként meglehetősen meredek lehet.",
+            "ro": "Urcați la monumentul Calvaire pentru a admira priveliștile panoramice ale zonei rurale și purtați încălțăminte de drumeție rezistentă, deoarece poteca pietroasă este abruptă.",
+            "en": "Climb up to the Calvaire landmark to take in the panoramic views of the surrounding countryside, and wear sturdy walking shoes as the rocky path can be a bit challenging."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour de Lauzard",
+            "hu": "Tour de Lauzard",
+            "ro": "Tour de Lauzard",
+            "en": "Tour de Lauzard"
+          },
+          "coords": [
+            3.815151,
+            43.675752
+          ],
+          "category": "historical",
+          "arrive_at": "13:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die mittelalterlichen Geheimnisse der Tour de Lauzard, einem historischen Turm, und bringen Sie eine gute Kamera mit, um die steinernen Details festzuhalten.",
+            "hu": "Fedezze fel a Tour de Lauzard középkori titkait, ezt a lenyűgöző történelmi tornyot, és hozzon magával jó fényképezőgépet, hogy megörökítse a kőfaragások apró részleteit.",
+            "ro": "Descoperiți secretele medievale ale Tour de Lauzard, un turn istoric fascinant, și aduceți o cameră bună pentru a surprinde îndeaproape detaliile complicate din piatră.",
+            "en": "Uncover the medieval secrets of Tour de Lauzard, a fascinating historical tower, and bring a good camera with a zoom lens to capture the intricate stonework details up close."
+          }
+        },
+        {
+          "name": {
+            "de": "Mazet du cheval (Ruine)",
+            "hu": "Mazet du cheval (rom)",
+            "ro": "Mazet du cheval (ruină)",
+            "en": "Mazet du cheval (ruin)"
+          },
+          "coords": [
+            3.829458,
+            43.706189
+          ],
+          "category": "historical",
+          "arrive_at": "15:19",
+          "stay_min": 110,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Wandern Sie um die stimmungsvollen Ruinen von Mazet du cheval, um die Geschichte aufzusaugen, und halten Sie Ausschau nach lokalen Vogelarten, die in den Steinmauern nisten.",
+            "hu": "Barangoljon a Mazet du cheval hangulatos romjai között, hogy átélje a vidék múltját, és figyeljen a helyi madárfajokra, amelyek gyakran fészkelnek az omladozó kőfalakban.",
+            "ro": "Plimbați-vă printre ruinele evocatoare de la Mazet du cheval pentru istoria pastorală și fiți cu ochii în patru la speciile de păsări locale care cuibăresc în zidurile de piatră.",
+            "en": "Wander around the evocative ruins of Mazet du cheval to soak in the area's pastoral history, and keep an eye out for local bird species that often nest in the stone walls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Brechen Sie früh auf und radeln Sie zur historischen Cabane de Plagnol im Grünen.\n\nAm Mittag erkunden Sie die Salle des Arts und die ruhige Kirche Saint-Gilles.\n\nDer Nachmittag bringt den Aufstieg zum Calvaire und einen Halt an der Tour de Lauzard.\n\nIhr Abenteuer endet mit der Erkundung der Ruinen des Mazet du cheval bei Sonnenuntergang.",
+        "hu": "Induljon korán, és tekerjen el a történelmi Cabane de Plagnolhoz egy rusztikus kezdésért.\n\nDélben fedezze fel a Salle des Arts kiállításait és a Saint-Gilles templomot.\n\nDélután egy emelkedő vár a Calvaire kilátóhoz és a Tour de Lauzard toronyhoz.\n\nA kerékpáros túra a Mazet du cheval festői romjainál ér véget a gyönyörű naplementekor.",
+        "ro": "Porniți devreme pedalând spre istorica Cabane de Plagnol pentru un început rustic.\n\nLa prânz, explorați Salle des Arts și senina Biserică Saint-Gilles din apropiere.\n\nDupă-amiaza aduce o urcare la Calvaire și o oprire fascinantă la Tour de Lauzard.\n\nAventura se încheie explorând ruinele evocatoare de la Mazet du cheval la apusul soarelui.",
+        "en": "Set out early by pedaling to the historic Cabane de Plagnol for a rustic start.\n\nBy midday, explore the art exhibits at Salle des Arts and the serene Saint-Gilles Church.\n\nThe afternoon brings a rewarding climb to Calvaire and a stop at Tour de Lauzard.\n\nYour cycling adventure winds down exploring the evocative ruins of Mazet du cheval at sunset."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:02",
+      "total_km": 10.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cabane de Plagnol",
+            "hu": "Cabane de Plagnol",
+            "ro": "Cabane de Plagnol",
+            "en": "Cabane de Plagnol"
+          },
+          "coords": [
+            3.785459,
+            43.7038
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in der rustikalen Cabane de Plagnol, einem historischen Unterschlupf, und besuchen Sie diesen in der Trockenzeit, um die Wege bequem zu erkunden.",
+            "hu": "Lépjen vissza az időben a rusztikus Cabane de Plagnol történelmi menedékhelynél, és érdemes a száraz évszakban jönni, hogy kényelmesen bejárhassa a környező földutakat.",
+            "ro": "Pășiți înapoi în timp la rustica Cabane de Plagnol, un adăpost istoric intrigant, și încercați să vizitați în sezonul uscat pentru a explora confortabil traseele din jur.",
+            "en": "Step back in time at the rustic Cabane de Plagnol, an intriguing historical shelter, and try to visit during the dry season to comfortably explore the surrounding dirt trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Salle des Arts",
+            "hu": "Salle des Arts",
+            "ro": "Salle des Arts",
+            "en": "Salle des Arts"
+          },
+          "coords": [
+            3.79915,
+            43.694731
+          ],
+          "category": "cultural",
+          "arrive_at": "10:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Ausstellungen in der Salle des Arts, wo die lokale Kultur erstrahlt, und prüfen Sie vorab den Wochenendplan, um an einem kostenlosen Workshop teilzunehmen.",
+            "hu": "Fedezze fel a helyi kultúrát a Salle des Arts kiállításain, és érdemes előre ellenőrizni a hétvégi programokat, hogy részt vehessen egy ingyenes kreatív workshopon.",
+            "ro": "Explorați expozițiile vibrante la Salle des Arts pentru a descoperi cultura locală și verificați programul de weekend pentru a prinde un atelier creativ complet gratuit.",
+            "en": "Explore the vibrant exhibitions at Salle des Arts, where local culture shines, and make sure to check the weekend event schedule beforehand to catch a free creative workshop."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Gilles",
+            "hu": "Saint-Gilles templom",
+            "ro": "Biserica Saint-Gilles",
+            "en": "Saint-Gilles Church"
+          },
+          "coords": [
+            3.804504,
+            43.692785
+          ],
+          "category": "religious",
+          "arrive_at": "12:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die friedliche Architektur der Kirche Saint-Gilles, ein wichtiges Stück lokaler Geschichte, und kommen Sie am frühen Morgen für das beste Licht im Inneren.",
+            "hu": "Csodálja meg a Saint-Gilles templom békés építészetét, a helyi vallástörténet fontos részét, és látogasson el kora reggel, hogy a legszebb fényekben láthassa a belső teret.",
+            "ro": "Admirați arhitectura liniștită a Bisericii Saint-Gilles, o piesă esențială a istoriei locale, și vizitați-o dimineața devreme pentru a vă bucura de cea mai bună lumină.",
+            "en": "Admire the tranquil architecture of Saint-Gilles Church, an essential piece of local religious history, and visit during the early morning hours for the best lighting inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour de Lauzard",
+            "hu": "Tour de Lauzard",
+            "ro": "Tour de Lauzard",
+            "en": "Tour de Lauzard"
+          },
+          "coords": [
+            3.815151,
+            43.675752
+          ],
+          "category": "historical",
+          "arrive_at": "12:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die mittelalterlichen Geheimnisse der Tour de Lauzard, einem historischen Turm, und bringen Sie eine gute Kamera mit, um die steinernen Details festzuhalten.",
+            "hu": "Fedezze fel a Tour de Lauzard középkori titkait, ezt a lenyűgöző történelmi tornyot, és hozzon magával jó fényképezőgépet, hogy megörökítse a kőfaragások apró részleteit.",
+            "ro": "Descoperiți secretele medievale ale Tour de Lauzard, un turn istoric fascinant, și aduceți o cameră bună pentru a surprinde îndeaproape detaliile complicate din piatră.",
+            "en": "Uncover the medieval secrets of Tour de Lauzard, a fascinating historical tower, and bring a good camera with a zoom lens to capture the intricate stonework details up close."
+          }
+        },
+        {
+          "name": {
+            "de": "Domaine de Saint-Clément",
+            "hu": "Domaine de Saint-Clément",
+            "ro": "Domaine de Saint-Clément",
+            "en": "Domaine de Saint-Clément"
+          },
+          "coords": [
+            3.855536,
+            43.684179
+          ],
+          "category": "culinary",
+          "arrive_at": "14:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.4,
+          "tip_5lang": {
+            "de": "Genießen Sie außergewöhnliche lokale Aromen in der Domaine de Saint-Clément, einem kulinarischen Highlight, und buchen Sie im Voraus eine Verkostung, um Ihren Platz zu sichern.",
+            "hu": "Élvezze a kivételes helyi ízeket a Domaine de Saint-Clément kulináris birtokán, és ne felejtsen el előre asztalt vagy kóstolót foglalni, hogy biztosan legyen szabad helyük.",
+            "ro": "Savurați aromele locale excepționale la Domaine de Saint-Clément, o destinație culinară de top, și asigurați-vă că rezervați o sesiune de degustare în avans pentru a prinde loc.",
+            "en": "Savor exceptional local flavors at Domaine de Saint-Clément, a must-visit culinary destination, and remember to book a tasting session in advance to secure your spot there."
+          }
+        },
+        {
+          "name": {
+            "de": "Mazet du cheval (Ruine)",
+            "hu": "Mazet du cheval (rom)",
+            "ro": "Mazet du cheval (ruină)",
+            "en": "Mazet du cheval (ruin)"
+          },
+          "coords": [
+            3.829458,
+            43.706189
+          ],
+          "category": "historical",
+          "arrive_at": "16:12",
+          "stay_min": 110,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Wandern Sie um die stimmungsvollen Ruinen von Mazet du cheval, um die Geschichte aufzusaugen, und halten Sie Ausschau nach lokalen Vogelarten, die in den Steinmauern nisten.",
+            "hu": "Barangoljon a Mazet du cheval hangulatos romjai között, hogy átélje a vidék múltját, és figyeljen a helyi madárfajokra, amelyek gyakran fészkelnek az omladozó kőfalakban.",
+            "ro": "Plimbați-vă printre ruinele evocatoare de la Mazet du cheval pentru istoria pastorală și fiți cu ochii în patru la speciile de păsări locale care cuibăresc în zidurile de piatră.",
+            "en": "Wander around the evocative ruins of Mazet du cheval to soak in the area's pastoral history, and keep an eye out for local bird species that often nest in the stone walls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Roadtrip an der abgelegenen Cabane de Plagnol im Umland.\n\nAm Mittag besuchen Sie die Salle des Arts und die historische Kirche Saint-Gilles.\n\nDer Nachmittag umfasst die Tour de Lauzard und kulinarische Genüsse in Saint-Clément.\n\nBeenden Sie den Tag mit einer malerischen Fahrt zu den Ruinen von Mazet du cheval.",
+        "hu": "Kezdje autós útját a távoli Cabane de Plagnolnál, majd térjen vissza a városba.\n\nDélben látogasson el a Salle des Arts kulturális központba és a Saint-Gilles templomba.\n\nA délután a Tour de Lauzard és a Domaine de Saint-Clément kulináris élvezeteié.\n\nZárja a napot egy hangulatos autózással a Mazet du cheval eldugott romjaihoz az esti fényben.",
+        "ro": "Începeți excursia la izolata Cabane de Plagnol înainte de a vă întoarce în oraș.\n\nLa prânz, vizitați centrul cultural Salle des Arts și istorica Biserică Saint-Gilles.\n\nDupă-amiaza include Tour de Lauzard și un răsfăț culinar la Domaine de Saint-Clément.\n\nÎncheiați ziua cu o plimbare pitorească spre ruinele Mazet du cheval pentru seară.",
+        "en": "Kick off your road trip at the remote Cabane de Plagnol before driving into town.\n\nAs midday settles, visit the cultural Salle des Arts and the historic Saint-Gilles Church.\n\nThe afternoon includes Tour de Lauzard and culinary indulgence at Domaine de Saint-Clément.\n\nFinish the day with a scenic drive to the Mazet du cheval ruins for the evening."
+      }
+    }
+  }
+}

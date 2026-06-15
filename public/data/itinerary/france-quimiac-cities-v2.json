@@ -1,0 +1,405 @@
+{
+  "city_id": "france-quimiac-cities-v2",
+  "anchor": {
+    "name": "Quimiac",
+    "coords": [
+      -2.48062,
+      47.40731
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:56",
+      "total_km": 2.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Saint-Louis",
+            "hu": "Chapelle Saint-Louis",
+            "ro": "Chapelle Saint-Louis",
+            "en": "Chapelle Saint-Louis"
+          },
+          "coords": [
+            -2.480129,
+            47.409163
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Eleganz dieser charmanten Kapelle in Quimiac und achten Sie auf die traditionelle bretonische Architektur, die besonders im morgendlichen Licht zur Geltung kommt.",
+            "hu": "Csodálja meg ennek a bájos quimiac-i kápolnának az egyszerű eleganciáját, és figyeljen a hagyományos breton építészetre, amely különösen a reggeli fényben mutat jól.",
+            "ro": "Admirați eleganța simplă a acestei capele fermecătoare din Quimiac și acordați atenție arhitecturii tradiționale bretone, care iese în evidență mai ales în lumina dimineții.",
+            "en": "Admire the simple elegance of this charming chapel in Quimiac, paying attention to the traditional Breton architecture that looks especially beautiful in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Lanséria",
+            "hu": "Plage de Lanséria",
+            "ro": "Plage de Lanséria",
+            "en": "Plage de Lanséria"
+          },
+          "coords": [
+            -2.491154,
+            47.406397
+          ],
+          "category": "recreational",
+          "arrive_at": "10:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie den weichen Sand dieses familienfreundlichen Strandes und nutzen Sie die ruhigen Wellen für ein erfrischendes Bad oder einen entspannten Spaziergang entlang der Küste.",
+            "hu": "Élvezze ennek a családbarát strandnak a puha homokját, és használja ki a nyugodt hullámokat egy frissítő úszáshoz vagy egy pihentető sétához a part mentén.",
+            "ro": "Bucurați-vă de nisipul fin al acestei plaje potrivite pentru familii și profitați de valurile liniștite pentru o baie răcoritoare sau o plimbare relaxantă pe coastă.",
+            "en": "Enjoy the soft sand of this family-friendly beach, taking advantage of the calm waves for a refreshing swim or a relaxing stroll along the coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Moulin",
+            "hu": "Plage du Moulin",
+            "ro": "Plage du Moulin",
+            "en": "Plage du Moulin"
+          },
+          "coords": [
+            -2.48632,
+            47.411614
+          ],
+          "category": "recreational",
+          "arrive_at": "11:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem malerischen Strandabschnitt, der für seine malerischen Felsformationen bekannt ist, und bringen Sie bequeme Schuhe mit, um die kleinen Gezeitenbecken zu erkunden.",
+            "hu": "Pihenjen ezen a festői strandszakaszon, amely festői sziklaképződményeiről ismert, és hozzon kényelmes cipőt, hogy felfedezze az apró árapály-medencéket.",
+            "ro": "Relaxați-vă pe această porțiune pitorească de plajă, cunoscută pentru formațiunile stâncoase, și aduceți încălțăminte confortabilă pentru a explora micile piscine naturale la reflux.",
+            "en": "Relax on this picturesque stretch of beach known for its scenic rock formations, and be sure to bring comfortable shoes to explore the small tidal pools."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Toul-ru",
+            "hu": "Plage du Toul-ru",
+            "ro": "Plage du Toul-ru",
+            "en": "Plage du Toul-ru"
+          },
+          "coords": [
+            -2.482406,
+            47.412594
+          ],
+          "category": "recreational",
+          "arrive_at": "12:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese intimere Bucht mit herrlichem Blick auf das offene Meer, ideal für ein ungestörtes Picknick am Nachmittag fernab der größeren Menschenmengen.",
+            "hu": "Fedezze fel ezt a meghittebb öblöt, ahonnan csodálatos kilátás nyílik a nyílt tengerre, amely ideális egy zavartalan délutáni piknikhez, távol a nagyobb tömegtől.",
+            "ro": "Descoperiți acest golf mai intim, cu o vedere superbă la marea deschisă, ideal pentru un picnic neîntrerupt după-amiaza, departe de aglomerația mai mare.",
+            "en": "Discover this more intimate cove offering stunning views of the open sea, which is ideal for an undisturbed afternoon picnic away from the larger crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Lannguy",
+            "hu": "Plage du Lannguy",
+            "ro": "Plage du Lannguy",
+            "en": "Plage du Lannguy"
+          },
+          "coords": [
+            -2.477256,
+            47.413598
+          ],
+          "category": "recreational",
+          "arrive_at": "14:11",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an diesem bezaubernden Strand ausklingen, wo Sie fantastische Sonnenuntergänge beobachten können, aber achten Sie auf die manchmal kräftige Meeresbrise.",
+            "hu": "Zárja a napot ezen a varázslatos strandon, ahol fantasztikus naplementéket figyelhet meg, de ügyeljen az olykor erős tengeri szellőre a part mentén.",
+            "ro": "Încheiați-vă ziua pe această plajă fermecătoare unde puteți urmări apusuri fantastice, dar fiți atenți la briza mării uneori puternică de-a lungul coastei.",
+            "en": "End your day at this enchanting beach where you can watch fantastic sunsets, but be mindful of the sometimes strong sea breeze along the coastline."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im malerischen Quimiac mit einem Besuch der ruhigen Chapelle Saint-Louis. Danach spazieren Sie gemütlich zum Plage de Lanséria, wo sanfte Wellen auf weichen Sand treffen. Am Nachmittag erkunden Sie weitere charmante Buchten wie Plage du Moulin und Plage du Toul-ru, die sich hervorragend zum Entspannen eignen. Der Tag endet am Plage du Lannguy mit einem herrlichen Blick.",
+        "hu": "Kezdje a napot a festői Quimiacban a békés Chapelle Saint-Louis meglátogatásával. Ezután sétáljon át kényelmesen a Plage de Lanséria strandra, ahol a lágy hullámok puha homokkal találkoznak. Délután fedezzen fel más bájos öblöket, mint például a Plage du Moulin és a Plage du Toul-ru, amelyek tökéletesek a kikapcsolódásra. A nap a Plage du Lannguy strandon ér véget, ahonnan csodás kilátás nyílik.",
+        "ro": "Începeți ziua în pitorescul Quimiac cu o vizită la liniștita Chapelle Saint-Louis. Apoi faceți o plimbare confortabilă până la Plage de Lanséria, unde valurile blânde întâlnesc nisipul fin. După-amiaza, explorați alte golfuri fermecătoare, cum ar fi Plage du Moulin și Plage du Toul-ru, perfecte pentru relaxare. Ziua se încheie la Plage du Lannguy cu o priveliște minunată asupra orizontului mării.",
+        "en": "Begin your day in picturesque Quimiac with a visit to the peaceful Chapelle Saint-Louis. Afterward, take a leisurely walk to Plage de Lanséria, where gentle waves meet soft sand. In the afternoon, explore other charming coves like Plage du Moulin and Plage du Toul-ru, which are excellent spots for unwinding. The day concludes at Plage du Lannguy, offering wonderful views of the coastline."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:05",
+      "total_km": 1.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Saint-Louis",
+            "hu": "Chapelle Saint-Louis",
+            "ro": "Chapelle Saint-Louis",
+            "en": "Chapelle Saint-Louis"
+          },
+          "coords": [
+            -2.480129,
+            47.409163
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Eleganz dieser charmanten Kapelle in Quimiac und achten Sie auf die traditionelle bretonische Architektur, die besonders im morgendlichen Licht zur Geltung kommt.",
+            "hu": "Csodálja meg ennek a bájos quimiac-i kápolnának az egyszerű eleganciáját, és figyeljen a hagyományos breton építészetre, amely különösen a reggeli fényben mutat jól.",
+            "ro": "Admirați eleganța simplă a acestei capele fermecătoare din Quimiac și acordați atenție arhitecturii tradiționale bretone, care iese în evidență mai ales în lumina dimineții.",
+            "en": "Admire the simple elegance of this charming chapel in Quimiac, paying attention to the traditional Breton architecture that looks especially beautiful in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Lannguy",
+            "hu": "Plage du Lannguy",
+            "ro": "Plage du Lannguy",
+            "en": "Plage du Lannguy"
+          },
+          "coords": [
+            -2.477256,
+            47.413598
+          ],
+          "category": "recreational",
+          "arrive_at": "09:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an diesem bezaubernden Strand ausklingen, wo Sie fantastische Sonnenuntergänge beobachten können, aber achten Sie auf die manchmal kräftige Meeresbrise.",
+            "hu": "Zárja a napot ezen a varázslatos strandon, ahol fantasztikus naplementéket figyelhet meg, de ügyeljen az olykor erős tengeri szellőre a part mentén.",
+            "ro": "Încheiați-vă ziua pe această plajă fermecătoare unde puteți urmări apusuri fantastice, dar fiți atenți la briza mării uneori puternică de-a lungul coastei.",
+            "en": "End your day at this enchanting beach where you can watch fantastic sunsets, but be mindful of the sometimes strong sea breeze along the coastline."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Sorlock",
+            "hu": "Plage de Sorlock",
+            "ro": "Plage de Sorlock",
+            "en": "Plage de Sorlock"
+          },
+          "coords": [
+            -2.470536,
+            47.417745
+          ],
+          "category": "recreational",
+          "arrive_at": "11:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen weitläufigen Strand für ausgedehnte Strandspaziergänge oder Wassersport, und nutzen Sie die gut gepflegten Fußwege in der unmittelbaren Umgebung.",
+            "hu": "Látogasson el erre a tágas strandra egy hosszú tengerparti sétához vagy vízisportokhoz, és használja ki a közvetlen közelében lévő, jól karbantartott gyalogutakat.",
+            "ro": "Vizitați această plajă extinsă pentru plimbări lungi pe țărm sau sporturi nautice și profitați de potecile pietonale bine întreținute din imediata vecinătate.",
+            "en": "Visit this expansive beach for long shoreline walks or water sports, making sure to take advantage of the well-maintained footpaths in the immediate vicinity."
+          }
+        },
+        {
+          "name": {
+            "de": "Pointe de Merquel",
+            "hu": "Pointe de Merquel",
+            "ro": "Pointe de Merquel",
+            "en": "Pointe de Merquel"
+          },
+          "coords": [
+            -2.467544,
+            47.420882
+          ],
+          "category": "natural",
+          "arrive_at": "12:29",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie das atemberaubende Panorama von dieser felsigen Landspitze, einem perfekten Ort zum Fotografieren, doch bleiben Sie wegen der Klippen auf den markierten Wegen.",
+            "hu": "Élvezze a lélegzetelállító panorámát erről a sziklás hegyfokról, amely tökéletes fotózási helyszín, de a sziklák miatt feltétlenül maradjon a kijelölt ösvényeken.",
+            "ro": "Bucurați-vă de panorama uluitoare de pe acest promontoriu stâncos, un loc perfect pentru fotografie, dar rămâneți pe potecile marcate din cauza stâncilor abrupte.",
+            "en": "Take in the breathtaking panorama from this rocky headland, a perfect spot for photography, but ensure you stay on the marked paths due to the cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame de Merquel",
+            "hu": "Chapelle Notre-Dame de Merquel",
+            "ro": "Chapelle Notre-Dame de Merquel",
+            "en": "Chapelle Notre-Dame de Merquel"
+          },
+          "coords": [
+            -2.467966,
+            47.419604
+          ],
+          "category": "religious",
+          "arrive_at": "12:55",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Diese historische kleine Kapelle nahe der Landspitze bietet einen Moment der Stille und beeindruckt durch ihr maritimes Erbe, also nehmen Sie sich Zeit für die liebevollen Details.",
+            "hu": "Ez a történelmi kis kápolna a hegyfok közelében egy pillanatnyi csendet kínál, és lenyűgöz tengerészeti örökségével, ezért szánjon időt a szeretetteljes részletekre.",
+            "ro": "Această mică capelă istorică de lângă promontoriu oferă un moment de liniște și impresionează prin moștenirea sa maritimă, așa că acordați timp detaliilor frumoase.",
+            "en": "This historic small chapel near the headland offers a moment of silence and impresses with its maritime heritage, so take your time to appreciate the lovely details."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Schwingen Sie sich auf Ihr Rad und starten Sie bei der historischen Chapelle Saint-Louis. Radeln Sie entlang der Küste zum wunderschönen Plage du Lannguy und weiter zum weitläufigen Plage de Sorlock. Die frische Meeresbrise begleitet Sie zur beeindruckenden Pointe de Merquel, von wo aus Sie einen weiten Blick über das Meer haben. Beenden Sie die Tour an der kleinen Chapelle Notre-Dame de Merquel.",
+        "hu": "Pattanjon kerékpárra, és induljon a történelmi Chapelle Saint-Louis kápolnától. Tekerjen a part mentén a gyönyörű Plage du Lannguy-ig, majd tovább a tágas Plage de Sorlock felé. A friss tengeri szellő elkíséri a lenyűgöző Pointe de Merquel-hez, ahonnan széles kilátás nyílik a tengerre. Fejezze be a túrát a kis Chapelle Notre-Dame de Merquel kápolnánál, átélve a tengerparti nyugalmat.",
+        "ro": "Urcați-vă pe bicicletă și începeți de la istorica Chapelle Saint-Louis. Pedalați de-a lungul coastei spre frumoasa Plage du Lannguy și apoi către întinsa Plage de Sorlock. Briza proaspătă a mării vă însoțește până la impresionanta Pointe de Merquel, de unde aveți o vedere largă asupra mării. Terminați turul la mica Chapelle Notre-Dame de Merquel, admirând liniștea absolută.",
+        "en": "Hop on your bike and start at the historic Chapelle Saint-Louis. Cycle along the coast to the beautiful Plage du Lannguy and continue to the expansive Plage de Sorlock. The fresh sea breeze will accompany you to the impressive Pointe de Merquel, where you can enjoy sweeping views over the ocean. Finish your tour at the small Chapelle Notre-Dame de Merquel, soaking in the tranquil vibe."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "13:03",
+      "total_km": 3.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Moulin du Bihélan",
+            "hu": "Moulin du Bihélan",
+            "ro": "Moulin du Bihélan",
+            "en": "Moulin du Bihélan"
+          },
+          "coords": [
+            -2.453938,
+            47.398215
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese traditionelle bretonische Windmühle, die von der landwirtschaftlichen Vergangenheit der Region zeugt, und machen Sie ein paar Fotos von der historischen Struktur.",
+            "hu": "Csodálja meg ezt a hagyományos breton szélmalmot, amely a régió mezőgazdasági múltjáról tanúskodik, és készítsen néhány fotót a történelmi szerkezetről.",
+            "ro": "Admirați această moară de vânt tradițională bretonă, care mărturisește trecutul agricol al regiunii, și asigurați-vă că faceți câteva fotografii cu structura istorică.",
+            "en": "Admire this traditional Breton windmill that testifies to the region's agricultural past, and make sure to capture some photos of the historical structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame de l'Assomption",
+            "hu": "Notre-Dame de l'Assomption",
+            "ro": "Notre-Dame de l'Assomption",
+            "en": "Notre-Dame de l'Assomption"
+          },
+          "coords": [
+            -2.458905,
+            47.399065
+          ],
+          "category": "religious",
+          "arrive_at": "09:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Treten Sie in diese ehrwürdige Kirche ein, um ihre kunstvollen Glasfenster zu bewundern, die an sonnigen Tagen ein wunderschönes Lichtspiel im ruhigen Innenraum erzeugen.",
+            "hu": "Lépjen be ebbe a tiszteletreméltó templomba, hogy megcsodálja díszes ólomüveg ablakait, amelyek napsütéses napokon gyönyörű fényjátékot varázsolnak a csendes belső térbe.",
+            "ro": "Pășiți în această biserică venerabilă pentru a admira vitraliile sale ornamentate, care creează un joc frumos de lumină în interiorul liniștit în zilele însorite.",
+            "en": "Step into this venerable church to admire its ornate stained-glass windows, which create a beautiful play of light in the quiet interior on sunny days."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison du patrimoine",
+            "hu": "Maison du patrimoine",
+            "ro": "Maison du patrimoine",
+            "en": "Maison du patrimoine"
+          },
+          "coords": [
+            -2.46098,
+            47.399372
+          ],
+          "category": "museum",
+          "arrive_at": "10:07",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem charmanten Museum die reiche lokale Geschichte und Kultur, wobei Sie sich besonders auf die liebevoll kuratierten Ausstellungen zum maritimen Leben konzentrieren sollten.",
+            "hu": "Fedezze fel a gazdag helyi történelmet és kultúrát ebben a bájos múzeumban, különös tekintettel a tengeri életről szóló, gondosan összeállított kiállításokra.",
+            "ro": "Descoperiți bogata istorie și cultură locală în acest muzeu fermecător, concentrându-vă în special pe expozițiile cu atenție organizate despre viața maritimă.",
+            "en": "Discover the rich local history and culture in this charming museum, paying special attention to the carefully curated exhibitions on maritime life."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin de Ker Gaillau",
+            "hu": "Moulin de Ker Gaillau",
+            "ro": "Moulin de Ker Gaillau",
+            "en": "Moulin de Ker Gaillau"
+          },
+          "coords": [
+            -2.46045,
+            47.405175
+          ],
+          "category": "landmark",
+          "arrive_at": "11:49",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses weitere Zeugnis der Mühlen-Tradition, das sich harmonisch in die ländliche Landschaft einfügt, ideal für einen kurzen und lehrreichen Zwischenstopp.",
+            "hu": "Tekintse meg a malomhagyomány ezen újabb bizonyítékát, amely harmonikusan illeszkedik a vidéki tájba, és amely ideális egy rövid és tanulságos megállóhoz.",
+            "ro": "Priviți această altă dovadă a tradiției morăritului, care se îmbină armonios cu peisajul rural, fiind ideală pentru o scurtă și educativă oprire pe traseu.",
+            "en": "View this further testament to the milling tradition, which blends harmoniously into the rural landscape, making it ideal for a short and educational stopover."
+          }
+        },
+        {
+          "name": {
+            "de": "Pointe de Merquel",
+            "hu": "Pointe de Merquel",
+            "ro": "Pointe de Merquel",
+            "en": "Pointe de Merquel"
+          },
+          "coords": [
+            -2.467544,
+            47.420882
+          ],
+          "category": "natural",
+          "arrive_at": "12:08",
+          "stay_min": 55,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Genießen Sie das atemberaubende Panorama von dieser felsigen Landspitze, einem perfekten Ort zum Fotografieren, doch bleiben Sie wegen der Klippen auf den markierten Wegen.",
+            "hu": "Élvezze a lélegzetelállító panorámát erről a sziklás hegyfokról, amely tökéletes fotózási helyszín, de a sziklák miatt feltétlenül maradjon a kijelölt ösvényeken.",
+            "ro": "Bucurați-vă de panorama uluitoare de pe acest promontoriu stâncos, un loc perfect pentru fotografie, dar rămâneți pe potecile marcate din cauza stâncilor abrupte.",
+            "en": "Take in the breathtaking panorama from this rocky headland, a perfect spot for photography, but ensure you stay on the marked paths due to the cliffs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Autotour im Inland am rustikalen Moulin du Bihélan, bevor Sie die prächtige Notre-Dame de l'Assomption besichtigen. Tauchen Sie in der Maison du patrimoine tief in die regionale Geschichte ein. Nach einem kurzen Stopp am malerischen Moulin de Ker Gaillau führt Sie die Fahrt an die Küste. Dort krönt die spektakuläre Aussicht von der Pointe de Merquel einen sehr gelungenen Ausflug.",
+        "hu": "Kezdje autós túráját a szárazföld belsejében, a rusztikus Moulin du Bihélan-nál, mielőtt meglátogatná a csodálatos Notre-Dame de l'Assomption templomot. Merüljön el a régió történelmében a Maison du patrimoine-ban. A festői Moulin de Ker Gaillau-nál tett rövid megálló után utazzon tovább a part felé. Ott a Pointe de Merquel látványos kilátása koronázza meg ezt a sikeres, nagyszerű napot.",
+        "ro": "Începeți turul cu mașina în interior, la rustica Moulin du Bihélan, înainte de a vizita magnifica Notre-Dame de l'Assomption. Cufundați-vă profund în istoria regională la Maison du patrimoine. După o scurtă oprire la pitoreasca Moulin de Ker Gaillau, drumul vă duce spre coastă. Acolo, priveliștea spectaculoasă de la Pointe de Merquel încoronează o excursie cu adevărat minunată și de succes.",
+        "en": "Start your car tour inland at the rustic Moulin du Bihélan before visiting the magnificent Notre-Dame de l'Assomption. Dive deep into regional history at the Maison du patrimoine. After a brief stop at the picturesque Moulin de Ker Gaillau, your drive takes you towards the coastline. There, the spectacular views from the Pointe de Merquel will crown a highly successful and scenic excursion."
+      }
+    }
+  }
+}

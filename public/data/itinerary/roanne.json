@@ -1,0 +1,543 @@
+{
+  "city_id": "roanne",
+  "anchor": {
+    "name": "Roanne",
+    "coords": [
+      4.0681,
+      46.0361
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:47",
+      "total_km": 3.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria (Hôtel de Ville)",
+            "en": "Hôtel de Ville (City Hall)"
+          },
+          "coords": [
+            4.072979,
+            46.033943
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Tour am majestätischen Rathaus und bewundern Sie dessen klassische Architektur, die den Platz prägt, bevor Sie drinnen nach aktuellen öffentlichen Ausstellungen fragen.",
+            "hu": "Kezdje útját a fenséges Városházánál, amelynek klasszikus építészete meghatározza a teret, majd térjen be, hogy érdeklődjön az aktuális és ingyenesen látogatható kiállítások felől.",
+            "ro": "Începeți călătoria la maiestuoasa Primărie, admirând arhitectura sa clasică ce domină piața, înainte de a intra pentru a vă interesa de expozițiile publice actuale disponibile.",
+            "en": "Begin your journey at the majestic City Hall, admiring its striking classical architecture that anchors the civic square, before popping inside to ask about current public exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadttheater",
+            "hu": "Városi Színház",
+            "ro": "Teatrul Municipal",
+            "en": "Municipal Theatre"
+          },
+          "coords": [
+            4.072979,
+            46.033943
+          ],
+          "category": "cultural",
+          "arrive_at": "09:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die verzierte Fassade des Theaters im italienischen Stil, das die künstlerische Seele der Stadt einfängt, und buchen Sie eine Abendvorstellung.",
+            "hu": "Csodálja meg az olasz stílusú színház díszes homlokzatát, amely tökéletesen megragadja a város művészi lelkét, és próbáljon meg esti előadásra jegyet foglalni.",
+            "ro": "Admirați fațada ornamentată a teatrului în stil italian, ce surprinde sufletul artistic al orașului, și încercați să rezervați bilete pentru un spectacol de seară.",
+            "en": "Just steps away, marvel at the Italian-style theatre's ornate facade, which perfectly captures the city's artistic soul, and try to book an evening performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Joseph-Déchelette-Museum",
+            "hu": "Joseph Déchelette Múzeum",
+            "ro": "Muzeul Joseph Déchelette",
+            "en": "Joseph Déchelette Museum"
+          },
+          "coords": [
+            4.06979,
+            46.035
+          ],
+          "category": "museum",
+          "arrive_at": "10:04",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erkunden Sie die umfangreichen Kunstsammlungen in diesem ehemaligen Herrenhaus und besuchen Sie unbedingt die renommierte Keramikabteilung für lokale Geschichte.",
+            "hu": "Fedezze fel a képzőművészeti és régiséggyűjteményeket ebben a volt kúriában, különös figyelmet fordítva a híres kerámiarészlegre a helyi történelem megismeréséhez.",
+            "ro": "Explorați vastele colecții de artă în acest fost conac, acordând o atenție deosebită secțiunii renumite de ceramică pentru a înțelege istoria locală unică.",
+            "en": "Explore vast collections of fine arts and antiquities in this former mansion, taking special care to visit the renowned ceramics section for unique local history."
+          }
+        },
+        {
+          "name": {
+            "de": "Burgfried von Roanne",
+            "hu": "Roanne-i Vártorony",
+            "ro": "Donjonul Castelului Roanne",
+            "en": "Roanne Castle Keep"
+          },
+          "coords": [
+            4.071942,
+            46.040148
+          ],
+          "category": "historical",
+          "arrive_at": "11:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Entdecken Sie den ältesten Teil der mittelalterlichen Burg aus dem elften Jahrhundert und erklimmen Sie die alten Steintreppen für eine erhabene historische Perspektive.",
+            "hu": "Fedezze fel a tizenegyedik századból származó középkori kastély legrégebbi fennmaradt részét, és mássza meg az ősi kőlépcsőket egy magasabb történelmi perspektíváért.",
+            "ro": "Descoperiți cea mai veche parte rămasă a castelului medieval din secolul al unsprezecelea, urcând scările sale de piatră pentru o perspectivă istorică la înălțime.",
+            "en": "Discover the oldest remaining part of the medieval castle dating back to the eleventh century, climbing its ancient stone stairs for an elevated historical perspective."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainte-Anne-Kirche",
+            "hu": "Sainte-Anne templom",
+            "ro": "Biserica Sainte-Anne",
+            "en": "Sainte-Anne Church"
+          },
+          "coords": [
+            4.059627,
+            46.039139
+          ],
+          "category": "religious",
+          "arrive_at": "13:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen ruhigen Moment in dieser herrlichen Kirche, um die Buntglasfenster zu betrachten, die das Nachmittagslicht einfangen, und sprechen Sie leise.",
+            "hu": "Töltsön el egy békés pillanatot ebben a gyönyörű templomban, figyelve a délutáni fényt megörökítő ólomüveg ablakokat, miközben ügyel a csendes viselkedésre.",
+            "ro": "Bucurați-vă de un moment de liniște în această biserică superbă pentru a observa vitraliile ce captează lumina după-amiezii, păstrând un ton scăzut al vocii.",
+            "en": "Take a peaceful moment inside this gorgeous church to observe the intricate stained glass windows that vividly capture the afternoon light, keeping your voice low."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc des Promenades",
+            "hu": "Parc des Promenades",
+            "ro": "Parc des Promenades",
+            "en": "Parc des Promenades"
+          },
+          "coords": [
+            4.06628,
+            46.035995
+          ],
+          "category": "natural",
+          "arrive_at": "14:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese schattigen Wege und gepflegten botanischen Gärten, die auf einer Bank den perfekten Ruheplatz vor Ihrem nächsten Ziel bieten.",
+            "hu": "Sétáljon végig ezeken az árnyékos ösvényeken és gondozott botanikus kerteken, amelyek egy padon tökéletes pihenőhelyet kínálnak a következő úti célja előtt.",
+            "ro": "Plimbați-vă pe aceste alei umbrite și grădini botanice îngrijite, care oferă un loc perfect de odihnă pe o bancă înainte de a porni spre următoarea destinație.",
+            "en": "Stroll through these peaceful shaded pathways and beautifully maintained botanical gardens, which offer a perfect resting spot on a bench before your next destination."
+          }
+        },
+        {
+          "name": {
+            "de": "Markthalle Halles Diderot",
+            "hu": "Halles Diderot Piac",
+            "ro": "Piața Halles Diderot",
+            "en": "Halles Diderot Market"
+          },
+          "coords": [
+            4.075645,
+            46.037946
+          ],
+          "category": "culinary",
+          "arrive_at": "15:41",
+          "stay_min": 50,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Verwöhnen Sie Ihre Sinne mit lokaler Gastronomie in dieser Markthalle, wo Sie unbedingt die berühmte Praluline-Brioche an einem Bäckerstand probieren sollten.",
+            "hu": "Kényeztesse érzékeit a helyi gasztronómiával ebben a nyüzsgő fedett piacon, ahol mindenképpen meg kell kóstolnia a híres Praluline brióst egy pékségi pultnál.",
+            "ro": "Răsfățați-vă simțurile cu gastronomia locală în această piață acoperită, unde trebuie neapărat să gustați faimoasa brioșă Praluline de la o patiserie.",
+            "en": "Treat your senses to authentic local gastronomy at this bustling covered market, where you absolutely must sample the famous Praluline brioche from a bakery stall."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Roanne",
+            "hu": "Roanne-i kikötő",
+            "ro": "Portul din Roanne",
+            "en": "Port of Roanne"
+          },
+          "coords": [
+            4.077845,
+            46.034243
+          ],
+          "category": "recreational",
+          "arrive_at": "16:37",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag am malerischen Yachthafen, beobachten Sie die sanft schaukelnden Kanalboote und sichern Sie sich frühzeitig einen Tisch in einem Bistro.",
+            "hu": "Zárja a napot a festői belvárosi kikötőben, figyelve a ringatózó csatornahajókat, miközben időben asztalt foglal egy közeli vízparti bisztróban a vacsorához.",
+            "ro": "Încheiați ziua la portul pitoresc, privind bărcile de pe canal cum se leagănă ușor, în timp ce vă asigurați din timp o masă la un bistro pe malul apei.",
+            "en": "Conclude your day by the scenic downtown marina, watching the canal boats gently bobbing in the water while securing a table early at a nearby waterfront bistro."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im lebhaften Zentrum am Rathaus und dem eleganten Stadttheater.\nMittags erkunden Sie das Joseph Déchelette Museum und den antiken Burgfried.\nDer Nachmittag bietet einen friedlichen Rückzugsort in der Kirche Sainte-Anne und im grünen Parc des Promenades.\nAm Abend genießen Sie lokale Köstlichkeiten im Halles Diderot und einen Spaziergang am Yachthafen.",
+        "hu": "A reggel a nyüzsgő központban, a Városháza és az elegáns Városi Színház felfedezésével indul.\nDélben látogassa meg a Joseph Déchelette Múzeumot és az ősi vártornyot.\nA délután békés menedéket kínál a Sainte-Anne templomban és a zöldellő Parc des Promenades területén.\nEste kóstolja meg a Halles Diderot finomságait, majd sétáljon egyet az alkonyati kikötőben.",
+        "ro": "Dimineața începe în centrul civic vibrant, lângă Primărie și elegantul Teatru Municipal.\nLa amiază, explorați renumitul Muzeu Joseph Déchelette și vechiul Donjon al castelului.\nDupă-amiaza oferă un refugiu liniștit la Biserica Sainte-Anne și în înverzitul Parc des Promenades.\nSeara aduce delicatese locale la piața Halles Diderot și o plimbare crepusculară pe faleză.",
+        "en": "Morning begins in the vibrant civic center by the City Hall and elegant Municipal Theatre.\nBy midday, explore the renowned Joseph Déchelette Museum and the ancient Castle Keep.\nThe afternoon offers a peaceful retreat at Sainte-Anne Church and the verdant Parc des Promenades.\nEvening brings local delicacies at Halles Diderot Market and a twilight walk along the marina."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:54",
+      "total_km": 5.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hafen von Roanne",
+            "hu": "Roanne-i kikötő",
+            "ro": "Portul din Roanne",
+            "en": "Port of Roanne"
+          },
+          "coords": [
+            4.077845,
+            46.034243
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihr Radabenteuer am Yachthafen, genießen Sie das ruhige Morgenwasser und fahren Sie dann bequem auf dem gut ausgebauten Weg am Kanal entlang.",
+            "hu": "Kezdje kerékpáros kalandját a nyüzsgő kikötőben, élvezve a nyugodt reggeli vizeket, mielőtt zökkenőmentesen végigtekerne a csatorna jól kiépített ösvényén.",
+            "ro": "Începeți aventura pe bicicletă la marina plină de viață, bucurându-vă de apele calme ale dimineții înainte de a pedala pe pista bine pavată de pe marginea canalului.",
+            "en": "Start your cycling adventure at the lively marina, enjoying the calm morning waters before smoothly riding along the well-paved and scenic canal side path."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-Nicolas du Port",
+            "hu": "Saint-Nicolas du Port kápolna",
+            "ro": "Capela Saint-Nicolas du Port",
+            "en": "Saint-Nicolas du Port Chapel"
+          },
+          "coords": [
+            4.077845,
+            46.034243
+          ],
+          "category": "religious",
+          "arrive_at": "09:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Pause an dieser hübschen Schifferkapelle direkt am Wasser, bewundern Sie das maritime Erbe und schließen Sie Ihr Fahrrad sicher ab.",
+            "hu": "Tartson egy rövid szünetet ennél a bájos, vízparti hajóskápolnánál, értékelve annak gazdag tengerészeti örökségét, mielőtt biztonságosan lezárná kerékpárját.",
+            "ro": "Faceți o scurtă pauză la această capelă pitorească a barcagiilor, apreciind moștenirea sa maritimă și interiorul simplu înainte de a vă bloca bicicleta în siguranță.",
+            "en": "Pause briefly at this quaint boatmen's chapel right by the water, appreciating its rich maritime heritage and simple interior before locking your bike securely."
+          }
+        },
+        {
+          "name": {
+            "de": "Markthalle Halles Diderot",
+            "hu": "Halles Diderot Piac",
+            "ro": "Piața Halles Diderot",
+            "en": "Halles Diderot Market"
+          },
+          "coords": [
+            4.075645,
+            46.037946
+          ],
+          "category": "culinary",
+          "arrive_at": "10:33",
+          "stay_min": 50,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Rad ab, um die Stände der Halles Diderot zu erkunden und frisches lokales Obst sowie Käse für einen schnellen, energiespendenden Snack zu holen.",
+            "hu": "Zárja le kerékpárját a kijelölt tárolóknál, hogy felfedezze a Halles Diderot nyüzsgő standjait, és friss helyi gyümölcsöket, valamint sajtokat vegyen tízóraira.",
+            "ro": "Legați bicicleta la rastelele desemnate pentru a explora tarabele pieței Halles Diderot, cumpărând fructe proaspete și brânzeturi locale pentru o gustare rapidă.",
+            "en": "Lock your bike at the designated racks to browse the bustling stalls of Halles Diderot, grabbing fresh local fruits and artisanal cheeses for a quick energizing snack."
+          }
+        },
+        {
+          "name": {
+            "de": "Burgfried von Roanne",
+            "hu": "Roanne-i Vártorony",
+            "ro": "Donjonul Castelului Roanne",
+            "en": "Roanne Castle Keep"
+          },
+          "coords": [
+            4.071942,
+            46.040148
+          ],
+          "category": "historical",
+          "arrive_at": "11:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Radeln Sie zum historischen Donjon aus dem elften Jahrhundert, um Roannes Mittelalter zu entdecken, und nutzen Sie die Fahrradparkplätze für die Besichtigung.",
+            "hu": "Tekerjen fel a tizenegyedik századi történelmi vártoronyhoz, hogy felfedezze Roanne középkori múltját, kihasználva a közeli kerékpártárolót a gyalogos bejáráshoz.",
+            "ro": "Pedalați până la Donjonul istoric din secolul unsprezece pentru a descoperi trecutul medieval, profitând de parcarea pentru biciclete din apropiere.",
+            "en": "Pedal up to the historic eleventh-century Donjon to uncover Roanne's medieval past, taking advantage of the nearby bicycle parking to explore the grounds on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Joseph-Déchelette-Museum",
+            "hu": "Joseph Déchelette Múzeum",
+            "ro": "Muzeul Joseph Déchelette",
+            "en": "Joseph Déchelette Museum"
+          },
+          "coords": [
+            4.06979,
+            46.035
+          ],
+          "category": "museum",
+          "arrive_at": "12:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem herrlichen Museum in Weltklasse-Kunst und Archäologie ein und planen Sie genug Zeit ein, um die große Treppe zu bewundern.",
+            "hu": "Merüljön el a világszínvonalú művészetben és régészetben ebben a pompás múzeumban, ügyelve arra, hogy elegendő időt szánjon a díszlépcső megcsodálására.",
+            "ro": "Cufundați-vă în arta și arheologia de talie mondială la acest muzeu splendid, asigurându-vă că alocați timp suficient pentru a admira scara sa grandioasă.",
+            "en": "Dive into world-class art and archaeology at this splendid museum, ensuring you allocate enough time to admire the grand staircase and store your helmet safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc des Promenades",
+            "hu": "Parc des Promenades",
+            "ro": "Parc des Promenades",
+            "en": "Parc des Promenades"
+          },
+          "coords": [
+            4.06628,
+            46.035995
+          ],
+          "category": "natural",
+          "arrive_at": "14:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Fahren Sie langsam durch das wunderschöne Grün dieses zentralen Parks und erholen Sie sich unter den alten Bäumen, während Sie die Fußgängerwege respektieren.",
+            "hu": "Kerékpározzon lassan e központi park gyönyörű zöld növényzete között, élvezve a pihenést az öreg fák alatt, miközben tiszteletben tartja a gyalogos ösvényeket.",
+            "ro": "Pedalați încet prin verdeața frumoasă a acestui parc central, bucurându-vă de odihnă sub copacii bătrâni în timp ce respectați aleile destinate doar pietonilor.",
+            "en": "Cycle slowly through the beautiful greenery of this central park, enjoying a much-needed rest under the old trees while respecting the pedestrian-only paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Neubourg",
+            "hu": "Neubourg kastély",
+            "ro": "Castelul de Neubourg",
+            "en": "Château de Neubourg"
+          },
+          "coords": [
+            4.021158,
+            46.035866
+          ],
+          "category": "castle",
+          "arrive_at": "16:04",
+          "stay_min": 110,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Route an diesem Landgut am Stadtrand, genießen Sie die architektonische Pracht vor Sonnenuntergang und prüfen Sie Ihre Fahrradlichter.",
+            "hu": "Fejezze be festői útját ezen a fenséges vidéki birtokon a város szélén, gyönyörködve az építészeti pompában naplemente előtt, és ellenőrizze a kerékpárlámpáit.",
+            "ro": "Încheiați traseul la această moșie rurală de la marginea orașului, absorbind grandoarea arhitecturală înainte de apus și asigurându-vă că luminile bicicletei merg.",
+            "en": "Finish your scenic route at this majestic rural estate on the city's edge, soaking in the architectural grandeur before sunset and ensuring your bike lights work."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am ruhigen Hafen von Roanne und der maritimen Kapelle für einen frischen Start.\nMittags besuchen Sie die Markthalle, bevor Sie in die Geschichte des Burgfrieds eintauchen.\nNachmittags geht es im Museum und auf den schattigen Wegen des örtlichen Parks weiter.\nDer Tag endet mit einer Radtour zum majestätischen Château de Neubourg in der Abenddämmerung.",
+        "hu": "A reggel a békés roanne-i kikötőben és a tengerészeti kápolnánál indul, frissítő hangulatot adva.\nDélben a nyüzsgő piacra teker, mielőtt elmerülne a vártorony lenyűgöző középkori történetében.\nDélután a nagy múzeumban és a helyi park árnyékos ösvényein folytatódik a kulturális kaland.\nA nap egy izgalmas kerékpározással zárul a fenséges Château de Neubourg kastély felé.",
+        "ro": "Dimineața începe la portul liniștit din Roanne și capela sa maritimă, oferind un aer proaspăt.\nLa amiază pedalați spre piața plină de viață, înainte de a descoperi istoria vechiului Donjon.\nDupă-amiaza continuă cu vizitarea grandiosului muzeu și a aleilor umbrite din parcul local.\nZiua se încheie cu o plimbare antrenantă pe bicicletă spre maiestuosul Château de Neubourg.",
+        "en": "Morning kicks off at the serene Port of Roanne and its maritime chapel, setting a breezy tone.\nMidday takes you to the bustling market stalls before diving into the history of the Castle Keep.\nAfternoon exploration continues at the grand museum and along the shaded paths of the local park.\nThe day concludes with an exhilarating cycle out to the majestic Château de Neubourg."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:49",
+      "total_km": 8.35,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Roanne",
+            "hu": "Roanne-i vasútállomás",
+            "ro": "Gara din Roanne",
+            "en": "Roanne Railway Station"
+          },
+          "coords": [
+            4.093114,
+            46.014187
+          ],
+          "category": "station",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Autotour am historisch bedeutsamen Bahnhof, bewundern Sie das klassische Design und finden Sie ganz einfach einen Parkplatz für den Start.",
+            "hu": "Kezdje autós túráját a történelmi jelentőségű vasútállomáson, megfigyelve annak klasszikus kialakítását, mielőtt könnyedén parkolót találna az út megkezdéséhez.",
+            "ro": "Începeți turul cu mașina la gara cu importanță istorică, remarcând designul clasic de tranzit înainte de a găsi cu ușurință parcare pentru a începe călătoria.",
+            "en": "Begin your driving tour at the historically significant railway station, noting its classic transit design before easily finding parking to start your journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Dschungelpark",
+            "hu": "Dzsungelpark",
+            "ro": "Jungle park",
+            "en": "Jungle park"
+          },
+          "coords": [
+            4.097587,
+            46.013403
+          ],
+          "category": "family",
+          "arrive_at": "09:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Lassen Sie die Familie in diesem riesigen Indoor-Spielplatz Energie abbauen, der ausreichend Parkplätze und lustige Hindernisparcours für jüngere Kinder bietet.",
+            "hu": "Hagyja, hogy a család levezesse energiáját ebben a hatalmas fedett játszóházban, amely bőséges parkolóval és szórakoztató akadálypályákkal várja a fiatalabbakat.",
+            "ro": "Lăsați familia să-și consume energia la acest loc de joacă interior masiv, care oferă parcare spațioasă și curse distractive cu obstacole pentru copiii mai mici.",
+            "en": "Let the family burn off some early energy at this massive indoor play area, which offers plenty of spacious parking and fun obstacle courses for younger children."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von Roanne",
+            "hu": "Roanne-i kikötő",
+            "ro": "Portul din Roanne",
+            "en": "Port of Roanne"
+          },
+          "coords": [
+            4.077845,
+            46.034243
+          ],
+          "category": "recreational",
+          "arrive_at": "10:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Fahren Sie zum malerischen Hafenbecken und genießen Sie einen kurzen, erfrischenden Spaziergang entlang des Yachthafens, um die bunten Kanalboote zu bewundern.",
+            "hu": "Hajtson le a festői csatornamedencéhez, és élvezze a rövid, frissítő sétát a nyüzsgő kikötő mentén, hogy megcsodálja a dokkoknál horgonyzó élénk színű hajókat.",
+            "ro": "Conduceți până la bazinul pitoresc al canalului, bucurându-vă de o scurtă plimbare pe marina vibrantă pentru a admira bărcile colorate ancorate la docuri.",
+            "en": "Drive down to the scenic canal basin, enjoying a brief refreshing stroll along the vibrant marina to admire the brightly colored narrowboats moored at the docks."
+          }
+        },
+        {
+          "name": {
+            "de": "Burgfried von Roanne",
+            "hu": "Roanne-i Vártorony",
+            "ro": "Donjonul Castelului Roanne",
+            "en": "Roanne Castle Keep"
+          },
+          "coords": [
+            4.071942,
+            46.040148
+          ],
+          "category": "historical",
+          "arrive_at": "11:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Parken Sie sicher in der Nähe des Stadtzentrums, um diesen antiken steinernen Burgfried zu besuchen und hervorragende Fotos des ältesten Gebäudes zu machen.",
+            "hu": "Parkoljon biztonságosan a városközpont közelében, hogy meglátogassa ezt az ősi kő vártornyot, és kiváló fotókat készítsen Roanne legrégebbi fennmaradt épületéről.",
+            "ro": "Parcați în siguranță lângă centrul orașului pentru a vizita acest donjon antic de piatră, surprinzând fotografii excelente ale celei mai vechi structuri din Roanne.",
+            "en": "Park securely near the city center to visit this ancient stone keep, capturing excellent architectural photos of Roanne's absolute oldest surviving structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Scarabée",
+            "hu": "Le Scarabée",
+            "ro": "Le Scarabée",
+            "en": "Le Scarabée"
+          },
+          "coords": [
+            4.039983,
+            46.030537
+          ],
+          "category": "cultural",
+          "arrive_at": "13:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem markanten, modernen Veranstaltungsort, der für seine futuristische Architektur bekannt ist, und nutzen Sie den riesigen Parkplatz vor Ort.",
+            "hu": "Vezessen ki ehhez a futurisztikus építészetéről ismert lenyűgöző, modern helyszínhez, ellenőrizve az aktuális programokat, miközben használja a hatalmas parkolót.",
+            "ro": "Conduceți spre această locație modernă și impresionantă, cunoscută pentru arhitectura futuristă, verificând programul evenimentelor și folosind parcarea imensă.",
+            "en": "Drive out to this striking modern venue known for its futuristic architecture, checking the local schedule for ongoing events while utilizing the massive car park."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Neubourg",
+            "hu": "Neubourg kastély",
+            "ro": "Castelul de Neubourg",
+            "en": "Château de Neubourg"
+          },
+          "coords": [
+            4.021158,
+            46.035866
+          ],
+          "category": "castle",
+          "arrive_at": "13:59",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Roadtrip an diesem herrlichen historischen Schloss und spazieren Sie umher, während die späte Nachmittagssonne das alte Gestein beleuchtet.",
+            "hu": "Fejezze be autós kirándulását ennél a pompás történelmi kastélynál, körbesétálva lenyűgöző külsejét, ahogy a késő délutáni nap tökéletesen megvilágítja a köveket.",
+            "ro": "Încheiați excursia cu mașina la acest splendid castel istoric, plimbându-vă în jurul exteriorului său impresionant pe măsură ce soarele de după-amiază îl luminează.",
+            "en": "Conclude your road trip at this splendid historic castle, walking around its impressive exterior as the late afternoon sun perfectly illuminates the aged stone."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am historischen Bahnhof, gefolgt von Familienspaß im Dschungelpark.\nMittags verlagert sich der Fokus auf den lebhaften Hafen und den faszinierenden antiken Burgfried.\nAm Nachmittag fahren Sie zum Scarabée, um dessen mutige, moderne Architektur zu bewundern.\nDer Abend klingt elegant am atemberaubenden Château de Neubourg im sanften Abendlicht aus.",
+        "hu": "A reggel a történelmi vasútállomáson kezdődik, majd a dzsungelpark kínál családi szórakozást.\nDélben a nyüzsgő kikötőre és a lenyűgöző ősi vártoronyra helyeződik a kirándulás fő fókusza.\nDélután autózzon el a Le Scarabée épületéhez, hogy megcsodálja merész, modern építészetét.\nAz este a lenyűgöző Château de Neubourg kastélynál ér véget, melyet a lemenő nap fénye fürdet.",
+        "ro": "Dimineața începe la gara istorică, urmată de o vizită plină de distracție la Jungle park.\nLa amiază, focusul se mută spre portul vibrant, urmat de o oprire la fascinantul Donjon antic.\nDupă-amiaza, conduceți spre Le Scarabée pentru a admira arhitectura sa modernă și curajoasă.\nSeara se încheie elegant la impresionantul Château de Neubourg, scăldat în lumina amurgului.",
+        "en": "Morning starts at the historic railway station before heading to Jungle park for family fun.\nMidday shifts focus towards the vibrant port, followed by a fascinating stop at the ancient Keep.\nDuring the afternoon, cruise out to Le Scarabée to admire its bold, modern architectural design.\nEvening wraps up gracefully at the stunning Château de Neubourg bathed in fading daylight."
+      }
+    }
+  }
+}

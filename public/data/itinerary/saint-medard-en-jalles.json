@@ -1,0 +1,405 @@
+{
+  "city_id": "saint-medard-en-jalles",
+  "anchor": {
+    "name": "Saint-Médard-en-Jalles",
+    "coords": [
+      -0.7175,
+      44.8956
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:02",
+      "total_km": 1.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Le Bourdieu",
+            "hu": "Le Bourdieu",
+            "ro": "Le Bourdieu",
+            "en": "Le Bourdieu"
+          },
+          "coords": [
+            -0.714173,
+            44.89587
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die beeindruckende Architektur und die weitläufigen Anlagen dieses Schlosses und denken Sie daran, bequeme Schuhe für Ihren Rundgang zu tragen.",
+            "hu": "Fedezze fel a helyi kastély lenyűgöző építészetét és kiterjedt birtokát, és ne felejtsen el kényelmes cipőt viselni a kiterjedt park bejárásához.",
+            "ro": "Explorați arhitectura impresionantă și terenurile întinse ale acestui castel local, amintindu-vă să purtați încălțăminte confortabilă pentru plimbare.",
+            "en": "Explore the impressive architecture and sprawling grounds of this local castle, and remember to wear comfortable shoes for walking around the estate."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Médard",
+            "hu": "Saint-Médard templom",
+            "ro": "Biserica Saint-Médard",
+            "en": "Saint-Médard Church"
+          },
+          "coords": [
+            -0.717076,
+            44.895889
+          ],
+          "category": "religious",
+          "arrive_at": "10:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Buntglasfenster und das friedliche Innere dieser historischen Kirche, die Sie am besten in den Morgenstunden besuchen sollten.",
+            "hu": "Csodálja meg a történelmi templom gyönyörű ólomüveg ablakait és békés belső terét, de mindenképpen a reggeli órákban érkezzen a legjobb fényviszonyokért.",
+            "ro": "Admirați vitraliile frumoase și interiorul liniștit al acestei biserici istorice, asigurându-vă că o vizitați dimineața pentru cea mai bună lumină naturală.",
+            "en": "Admire the beautiful stained glass and peaceful interior of this historic church, ensuring you visit during morning hours for the best natural light."
+          }
+        },
+        {
+          "name": {
+            "de": "Secteur Dupérier",
+            "hu": "Secteur Dupérier",
+            "ro": "Secteur Dupérier",
+            "en": "Secteur Dupérier"
+          },
+          "coords": [
+            -0.715278,
+            44.89177
+          ],
+          "category": "historical",
+          "arrive_at": "11:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche Erbe in diesem historischen Viertel, wo es sich lohnt, die Kamera griffbereit zu halten, um die alten Fassaden zu fotografieren.",
+            "hu": "Fedezze fel a történelmi negyedben őrzött gazdag helyi örökséget, ahol érdemes kéznél tartani a fényképezőgépet a bájos, régi világot idéző homlokzatokért.",
+            "ro": "Descoperiți moștenirea locală bogată din acest cartier istoric, unde având mereu aparatul foto la îndemână veți putea surprinde fațadele fermecătoare.",
+            "en": "Discover the rich local heritage preserved in this historical district, where keeping a camera handy will help you capture the charming old-world facades."
+          }
+        },
+        {
+          "name": {
+            "de": "La Fon",
+            "hu": "La Fon",
+            "ro": "La Fon",
+            "en": "La Fon"
+          },
+          "coords": [
+            -0.717417,
+            44.888892
+          ],
+          "category": "castle",
+          "arrive_at": "12:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie an den eleganten Strukturen dieses klassischen französischen Anwesens vorbei und genießen Sie die Symmetrie vom Haupttor aus, bevor Sie weitergehen.",
+            "hu": "Sétáljon el e klasszikus francia birtok elegáns épületei mellett, és szánjon egy percet a szimmetria megcsodálására a főkaputól, mielőtt folytatná útját.",
+            "ro": "Plimbați-vă pe lângă structurile elegante ale acestui domeniu clasic francez, luându-vă un moment pentru a aprecia simetria de la poarta principală.",
+            "en": "Stroll past the elegant structures of this classical French estate, taking a moment to appreciate the symmetry from the main gate before continuing your tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Castérà",
+            "hu": "Le Castérà",
+            "ro": "Le Castérà",
+            "en": "Le Castérà"
+          },
+          "coords": [
+            -0.721507,
+            44.887838
+          ],
+          "category": "castle",
+          "arrive_at": "14:12",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte dieser majestätischen Festung, indem Sie an den Anschlagtafeln nach spontanen Führungen oder saisonalen Ereignissen suchen.",
+            "hu": "Ismerje meg e fenséges erődítmény lenyűgöző történetét úgy, hogy ellenőrzi a helyi hirdetőtáblákat az esetlegesen induló tárlatvezetések vagy szezonális események miatt.",
+            "ro": "Descoperiți istoria fascinantă a acestei fortărețe maiestuoase verificând panourile informative locale pentru eventuale tururi ghidate sau evenimente sezoniere.",
+            "en": "Uncover the fascinating history of this majestic stronghold by checking the local noticeboards for any pop-up guided tours or seasonal events held on-site."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen am eleganten Le Bourdieu, bevor Sie die ruhige Atmosphäre der nahen historischen Kirche erleben. Mittags schlendern Sie durch die malerischen Straßen des Secteur Dupérier. Der Nachmittag ist der Architektur gewidmet, während Sie das wunderschöne Anwesen La Fon betrachten. Am Abend beenden Sie Ihren Spaziergang an der majestätischen Burg Le Castérà.",
+        "hu": "Kezdje a reggelt az elegáns Le Bourdieu megcsodálásával, majd élvezze a közeli történelmi templom békés hangulatát. Délben sétáljon végig a Secteur Dupérier festői utcáin, hogy átérezze a város régi báját. A délután a kastélyépítészetnek van szentelve, miközben megtekinti a gyönyörű La Fon birtokot. Az este közeledtével fejezze be sétáját a fenséges Le Castérànál.",
+        "ro": "Începeți dimineața admirând elegantul Le Bourdieu înainte de a experimenta atmosfera senină a bisericii istorice din apropiere. La prânz, plimbați-vă pe străzile pitorești din Secteur Dupérier pentru a simți farmecul vechi al orașului. După-amiaza este dedicată arhitecturii, în timp ce priviți frumosul domeniu La Fon. Spre seară, încheiați turul la maiestuosul Le Castérà.",
+        "en": "Begin your morning admiring the elegant Le Bourdieu before experiencing the serene atmosphere of the nearby historic church. By midday, wander through the quaint streets of Secteur Dupérier to feel the city's old-world charm. The afternoon is dedicated to castle architecture as you view the beautiful La Fon estate. As evening nears, finish your walking tour at the majestic Le Castérà."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:44",
+      "total_km": 8.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Médard",
+            "hu": "Saint-Médard templom",
+            "ro": "Biserica Saint-Médard",
+            "en": "Saint-Médard Church"
+          },
+          "coords": [
+            -0.717076,
+            44.895889
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Buntglasfenster und das friedliche Innere dieser historischen Kirche, die Sie am besten in den Morgenstunden besuchen sollten.",
+            "hu": "Csodálja meg a történelmi templom gyönyörű ólomüveg ablakait és békés belső terét, de mindenképpen a reggeli órákban érkezzen a legjobb fényviszonyokért.",
+            "ro": "Admirați vitraliile frumoase și interiorul liniștit al acestei biserici istorice, asigurându-vă că o vizitați dimineața pentru cea mai bună lumină naturală.",
+            "en": "Admire the beautiful stained glass and peaceful interior of this historic church, ensuring you visit during morning hours for the best natural light."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Bourdieu",
+            "hu": "Le Bourdieu",
+            "ro": "Le Bourdieu",
+            "en": "Le Bourdieu"
+          },
+          "coords": [
+            -0.714173,
+            44.89587
+          ],
+          "category": "castle",
+          "arrive_at": "09:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die beeindruckende Architektur und die weitläufigen Anlagen dieses Schlosses und denken Sie daran, bequeme Schuhe für Ihren Rundgang zu tragen.",
+            "hu": "Fedezze fel a helyi kastély lenyűgöző építészetét és kiterjedt birtokát, és ne felejtsen el kényelmes cipőt viselni a kiterjedt park bejárásához.",
+            "ro": "Explorați arhitectura impresionantă și terenurile întinse ale acestui castel local, amintindu-vă să purtați încălțăminte confortabilă pentru plimbare.",
+            "en": "Explore the impressive architecture and sprawling grounds of this local castle, and remember to wear comfortable shoes for walking around the estate."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin de Gajac",
+            "hu": "Moulin de Gajac",
+            "ro": "Moulin de Gajac",
+            "en": "Moulin de Gajac"
+          },
+          "coords": [
+            -0.705146,
+            44.888541
+          ],
+          "category": "landmark",
+          "arrive_at": "11:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Lauschen Sie dem beruhigenden Rauschen des Flusses an dieser historischen Mühle, die eine perfekte Kulisse für ein ruhiges Picknick mit eigenen Snacks bietet.",
+            "hu": "Hallgassa a folyó nyugtató hangját ennél a történelmi malomnál, amely tökéletes hátteret biztosít egy csendes déli piknikhez, ha hoz magával némi harapnivalót.",
+            "ro": "Ascultați sunetul liniștitor al râului la această moară istorică, care oferă un decor perfect pentru un picnic liniștit la prânz dacă vă aduceți propriile gustări.",
+            "en": "Listen to the soothing sound of the river at this historic mill site, which offers a perfect backdrop for a quiet midday picnic if you bring your own snacks."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Mothe-Gajac",
+            "hu": "Château de la Mothe-Gajac",
+            "ro": "Château de la Mothe-Gajac",
+            "en": "Château de la Mothe-Gajac"
+          },
+          "coords": [
+            -0.699633,
+            44.885306
+          ],
+          "category": "castle",
+          "arrive_at": "12:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die robusten Türme und den malerischen Wassergraben dieser mittelalterlichen Festung und umrunden Sie das gesamte Gelände, um die Ausmaße zu erfassen.",
+            "hu": "Csodálja meg e lenyűgöző középkori erődítmény robusztus tornyait és festői várárkát, és mindenképpen sétálja körbe a teljes peremet a védelmi lépték értékeléséhez.",
+            "ro": "Admirați turnurile robuste și șanțul pitoresc al acestei fortărețe medievale impresionante, asigurându-vă că mergeți pe întregul perimetru pentru a-i aprecia scara.",
+            "en": "Admire the robust towers and scenic moat of this impressive medieval fortress, making sure to walk the entire perimeter to appreciate its defensive scale."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Médard Pulvermühle",
+            "hu": "Saint-Médard Lőporgyár",
+            "ro": "Moara de Pulbere Saint-Médard",
+            "en": "Saint-Médard Powder Mill"
+          },
+          "coords": [
+            -0.779511,
+            44.894956
+          ],
+          "category": "historical",
+          "arrive_at": "13:54",
+          "stay_min": 110,
+          "hop_from_prev_min": 34,
+          "hop_from_prev_km": 6.3,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die industrielle Vergangenheit dieser ehemaligen Sprengstofffabrik, indem Sie den offiziellen Audioguide herunterladen, um die Abläufe zu verstehen.",
+            "hu": "Ismerje meg a volt robbanóanyag-gyár jelentős ipari múltját a hivatalos audioguide letöltésével, amiből megértheti az egykor alkalmazott szigorú biztonsági protokollokat.",
+            "ro": "Aflați despre trecutul industrial semnificativ al acestei foste fabrici de explozibili descărcând ghidul audio oficial pentru a înțelege protocoalele lor de siguranță.",
+            "en": "Learn about the significant industrial past of this former explosives factory by downloading the official audio guide to understand the safety protocols they used."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Fahrradabenteuer an der zentralen Kirche, bevor Sie gemütlich zum nahegelegenen Schloss Le Bourdieu rollen. Gegen Mittag radeln Sie zum malerischen Moulin de Gajac am Flussufer. Ihr Nachmittag bietet eine kurze Fahrt zum beeindruckenden Château de la Mothe-Gajac. Machen Sie schließlich eine längere, erfrischende Fahrt zur historischen Pulvermühle als krönenden Abschluss.",
+        "hu": "Kezdje kerékpáros kalandját a központi templomnál, majd guruljon át a közeli Le Bourdieu kastélyhoz. Dél közeledtével tekerjen a festői Moulin de Gajac felé, ahol a folyó gyönyörű hátteret biztosít. A délután egy rövid utat tartogat a lenyűgöző Château de la Mothe-Gajac kastélyhoz. Végül tegyen egy hosszabb utat a történelmi Lőporgyárhoz az esti befejezéshez.",
+        "ro": "Începeți aventura pe bicicletă la biserica centrală înainte de a merge ușor spre castelul Le Bourdieu din apropiere. La prânz, pedalați spre pitorescul Moulin de Gajac, pe malul râului. După-amiaza include o scurtă călătorie până la impresionantul Château de la Mothe-Gajac. În cele din urmă, faceți o plimbare mai lungă până la Moara istorică de pulbere pentru încheierea serii.",
+        "en": "Start your biking adventure at the central church before rolling easily to the nearby Le Bourdieu castle. As midday approaches, pedal towards the scenic Moulin de Gajac where the river provides a beautiful backdrop. Your afternoon features a short ride to the impressive Château de la Mothe-Gajac. Finally, take a longer, invigorating ride to the historic Powder Mill for your evening conclusion."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:09",
+      "total_km": 15.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Médard",
+            "hu": "Saint-Médard templom",
+            "ro": "Biserica Saint-Médard",
+            "en": "Saint-Médard Church"
+          },
+          "coords": [
+            -0.717076,
+            44.895889
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Buntglasfenster und das friedliche Innere dieser historischen Kirche, die Sie am besten in den Morgenstunden besuchen sollten.",
+            "hu": "Csodálja meg a történelmi templom gyönyörű ólomüveg ablakait és békés belső terét, de mindenképpen a reggeli órákban érkezzen a legjobb fényviszonyokért.",
+            "ro": "Admirați vitraliile frumoase și interiorul liniștit al acestei biserici istorice, asigurându-vă că o vizitați dimineața pentru cea mai bună lumină naturală.",
+            "en": "Admire the beautiful stained glass and peaceful interior of this historic church, ensuring you visit during morning hours for the best natural light."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Médard Pulvermühle",
+            "hu": "Saint-Médard Lőporgyár",
+            "ro": "Moara de Pulbere Saint-Médard",
+            "en": "Saint-Médard Powder Mill"
+          },
+          "coords": [
+            -0.779511,
+            44.894956
+          ],
+          "category": "historical",
+          "arrive_at": "10:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 4.9,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die industrielle Vergangenheit dieser ehemaligen Sprengstofffabrik, indem Sie den offiziellen Audioguide herunterladen, um die Abläufe zu verstehen.",
+            "hu": "Ismerje meg a volt robbanóanyag-gyár jelentős ipari múltját a hivatalos audioguide letöltésével, amiből megértheti az egykor alkalmazott szigorú biztonsági protokollokat.",
+            "ro": "Aflați despre trecutul industrial semnificativ al acestei foste fabrici de explozibili descărcând ghidul audio oficial pentru a înțelege protocoalele lor de siguranță.",
+            "en": "Learn about the significant industrial past of this former explosives factory by downloading the official audio guide to understand the safety protocols they used."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Castérà",
+            "hu": "Le Castérà",
+            "ro": "Le Castérà",
+            "en": "Le Castérà"
+          },
+          "coords": [
+            -0.721507,
+            44.887838
+          ],
+          "category": "castle",
+          "arrive_at": "11:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte dieser majestätischen Festung, indem Sie an den Anschlagtafeln nach spontanen Führungen oder saisonalen Ereignissen suchen.",
+            "hu": "Ismerje meg e fenséges erődítmény lenyűgöző történetét úgy, hogy ellenőrzi a helyi hirdetőtáblákat az esetlegesen induló tárlatvezetések vagy szezonális események miatt.",
+            "ro": "Descoperiți istoria fascinantă a acestei fortărețe maiestuoase verificând panourile informative locale pentru eventuale tururi ghidate sau evenimente sezoniere.",
+            "en": "Uncover the fascinating history of this majestic stronghold by checking the local noticeboards for any pop-up guided tours or seasonal events held on-site."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Mothe-Gajac",
+            "hu": "Château de la Mothe-Gajac",
+            "ro": "Château de la Mothe-Gajac",
+            "en": "Château de la Mothe-Gajac"
+          },
+          "coords": [
+            -0.699633,
+            44.885306
+          ],
+          "category": "castle",
+          "arrive_at": "12:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die robusten Türme und den malerischen Wassergraben dieser mittelalterlichen Festung und umrunden Sie das gesamte Gelände, um die Ausmaße zu erfassen.",
+            "hu": "Csodálja meg e lenyűgöző középkori erődítmény robusztus tornyait és festői várárkát, és mindenképpen sétálja körbe a teljes peremet a védelmi lépték értékeléséhez.",
+            "ro": "Admirați turnurile robuste și șanțul pitoresc al acestei fortărețe medievale impresionante, asigurându-vă că mergeți pe întregul perimetru pentru a-i aprecia scara.",
+            "en": "Admire the robust towers and scenic moat of this impressive medieval fortress, making sure to walk the entire perimeter to appreciate its defensive scale."
+          }
+        },
+        {
+          "name": {
+            "de": "Ingenand-Park",
+            "hu": "Ingenand Park",
+            "ro": "Parcul Ingenand",
+            "en": "Ingenand Park"
+          },
+          "coords": [
+            -0.673929,
+            44.853118
+          ],
+          "category": "recreational",
+          "arrive_at": "14:24",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in den üppigen Grünflächen dieses weitläufigen öffentlichen Parks, wo Sie sich mit einer mitgebrachten Decke bequem unter den großen Bäumen ausruhen können.",
+            "hu": "Pihenjen meg a tágas közpark buja zöldterületein, ahol egy magával hozott takaró segítségével kényelmesen leheveredhet a nagy árnyékot adó fák alá a felfedezés után.",
+            "ro": "Relaxați-vă în spațiile verzi luxuriante ale acestui parc public întins, unde aducerea unei pături vă va permite să vă odihniți confortabil sub copacii mari după explorare.",
+            "en": "Relax in the lush green spaces of this expansive public park, where bringing a blanket will allow you to comfortably rest under the large shade trees after exploring."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour mit einem morgendlichen Besuch der zentralen historischen Kirche. Mittags fahren Sie zur faszinierenden Pulvermühle, um mehr über das industrielle Erbe der Region zu erfahren. Am Nachmittag erkunden Sie die robuste Architektur von Le Castérà und dem Château de la Mothe-Gajac. Lassen Sie den Tag mit einem entspannenden Abendspaziergang im Ingenand-Park ausklingen.",
+        "hu": "Kezdje autós útját a központi történelmi templom reggeli meglátogatásával. A dél a lenyűgöző Lőporgyárhoz vezet, ahol megismerheti a környék ipari örökségét. Délután fedezze fel a Le Castérà és a Château de la Mothe-Gajac robusztus építészetét. A napot tökéletesen zárhatja egy pihentető esti sétával a kiterjedt Ingenand Park zöldterületein.",
+        "ro": "Începeți traseul auto cu o vizită de dimineață la biserica istorică centrală. Prânzul vă duce la fascinanta Moară de Pulbere pentru a afla despre moștenirea industrială a zonei. După-amiaza, explorați arhitectura robustă a Le Castérà și Château de la Mothe-Gajac. Încheiați ziua perfect cu o plimbare relaxantă de seară în aerul proaspăt al Parcului Ingenand.",
+        "en": "Kick off your driving route with a morning visit to the central historic church to admire its delicate features. Midday takes you to the fascinating Powder Mill site to learn about the area's industrial legacy. In the afternoon, explore the robust architecture of both Le Castérà and Château de la Mothe-Gajac. Wind down your day perfectly with a relaxing evening stroll at Ingenand Park."
+      }
+    }
+  }
+}

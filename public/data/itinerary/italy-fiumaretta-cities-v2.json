@@ -1,0 +1,405 @@
+{
+  "city_id": "italy-fiumaretta-cities-v2",
+  "anchor": {
+    "name": "Fiumaretta",
+    "coords": [
+      9.9873,
+      44.0527
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:56",
+      "total_km": 6.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Villa Romana di Bocca di Magra",
+            "hu": "Villa Romana di Bocca di Magra",
+            "ro": "Villa Romana di Bocca di Magra",
+            "en": "Villa Romana di Bocca di Magra"
+          },
+          "coords": [
+            9.984844,
+            44.045974
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese antiken römischen Ruinen am Fluss, um die Geschichte der Region zu verstehen, aber tragen Sie festes Schuhwerk auf den Wegen.",
+            "hu": "Fedezze fel ezeket az ősi római romokat a folyó közelében a helyi történelem megismeréséhez, de viseljen kényelmes és masszív túracipőt.",
+            "ro": "Explorați aceste ruine romane antice de lângă râu pentru a înțelege istoria locală, dar purtați încălțăminte robustă pe potecile arheologice.",
+            "en": "Explore these ancient Roman ruins near the river to understand local history, but wear sturdy shoes as the archaeological paths can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Monastero Santa Croce",
+            "hu": "Monastero Santa Croce",
+            "ro": "Monastero Santa Croce",
+            "en": "Monastero Santa Croce"
+          },
+          "coords": [
+            9.982075,
+            44.043505
+          ],
+          "category": "religious",
+          "arrive_at": "10:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses friedliche Kloster, um seine Architektur zu bewundern, und prüfen Sie vorher die lokalen Öffnungszeiten der Kirchengemeinde.",
+            "hu": "Látogasson el ebbe a békés kolostorba, hogy megcsodálja nyugodt építészetét, de előtte feltétlenül ellenőrizze a helyi plébánia nyitvatartását.",
+            "ro": "Vizitați acest mănăstire pașnică pentru a admira arhitectura sa senină și asigurați-vă că verificați programul parohiei locale pentru vizitare.",
+            "en": "Visit this peaceful historical monastery to admire its serene architecture, and be sure to check the local parish schedule for specific opening hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Montemarcello - Magra",
+            "hu": "Montemarcello - Magra",
+            "ro": "Montemarcello - Magra",
+            "en": "Montemarcello - Magra"
+          },
+          "coords": [
+            9.973128,
+            44.055505
+          ],
+          "category": "natural",
+          "arrive_at": "11:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 1.95,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses wunderschöne Naturschutzgebiet mit Panoramablick auf das Magratal und bringen Sie ausreichend Wasser für die Wege mit.",
+            "hu": "Túrázzon át ezen a gyönyörű természetvédelmi területen a Magra-völgy panorámájáért, és hozzon magával elegendő vizet a napsütötte ösvényekre.",
+            "ro": "Faceți o drumeție prin această rezervație naturală superbă pentru vederi panoramice ale văii Magra și aduceți multă apă pentru traseele însorite.",
+            "en": "Hike through this beautiful natural reserve to enjoy panoramic views of the Magra river valley, and bring plenty of water for the sunny trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Piti",
+            "hu": "Bagno Piti",
+            "ro": "Bagno Piti",
+            "en": "Bagno Piti"
+          },
+          "coords": [
+            10.006212,
+            44.050029
+          ],
+          "category": "recreational",
+          "arrive_at": "13:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 53,
+          "hop_from_prev_km": 3.51,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem klassischen italienischen Strandbad im Ligurischen Meer, wobei eine vorherige Reservierung der Sonnenliegen empfohlen wird.",
+            "hu": "Pihenjen meg ebben a klasszikus olasz strandfürdőben egy frissítő úszásra, bár a napágyak előzetes lefoglalása mindenképpen erősen ajánlott.",
+            "ro": "Relaxați-vă la această plajă clasică italiană pentru o baie răcoritoare, deși rezervarea anticipată a șezlongului este cu tărie recomandată.",
+            "en": "Relax at this classic Italian beach establishment for a refreshing swim in the Ligurian Sea, though reserving your sunbed in advance is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Circolo Federale",
+            "hu": "Circolo Federale",
+            "ro": "Circolo Federale",
+            "en": "Circolo Federale"
+          },
+          "coords": [
+            10.007225,
+            44.0499
+          ],
+          "category": "recreational",
+          "arrive_at": "15:11",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem lokalen Freizeitclub mit angenehmer Küstenbrise, dem perfekten Ort für einen Nachmittagskaffee beim Beobachten der Boote.",
+            "hu": "Kapcsolódjon ki ebben a helyi szabadidős klubban a kellemes parti szellőben, amely tökéletes helyszín egy délutáni kávéhoz a hajókat figyelve.",
+            "ro": "Relaxați-vă la acest club recreativ local ce oferă o briză plăcută, fiind locul perfect pentru o cafea după-amiaza în timp ce priviți bărcile.",
+            "en": "Unwind at this local recreational club offering pleasant coastal breezes, making it the perfect spot for an afternoon coffee while watching the boats."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag mit antiken römischen Ruinen am Ufer der Magra. Mittags erreichen Sie die weitläufigen Wege des Küstenparks. Der Nachmittag führt Sie an den lebhaften Strand und endet entspannt in einem lokalen Freizeitclub, während die Sonne langsam über dem glitzernden Ligurischen Meer untergeht.",
+        "hu": "Kezdje a napot az ókori római romok és a kolostori béke felfedezésével a Magra mentén. A dél a part menti park ösvényeire vezet. A délután kecsesen vált a pezsgő tengerpartra, végül egy helyi klub nyugodt hangulatával zárul, miközben a nap lassan lebukik a tenger felett.",
+        "ro": "Începeți ziua descoperind ruinele romane antice și pacea monastică de-a lungul râului Magra. Amiaza vă aduce pe traseele parcului de coastă. După-amiaza trece grațios către plaja vibrantă, încheindu-se cu o atmosferă relaxată la un club local în timp ce soarele apune peste mare.",
+        "en": "Start your day uncovering ancient Roman ruins and monastic peace along the Magra. Midday brings you to the sprawling coastal park trails. The afternoon shifts gracefully to the vibrant beachfront, concluding with a relaxed vibe at a local recreational club as the sun begins to set over the sea."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:46",
+      "total_km": 8.19,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Montemarcello - Magra",
+            "hu": "Montemarcello - Magra",
+            "ro": "Montemarcello - Magra",
+            "en": "Montemarcello - Magra"
+          },
+          "coords": [
+            9.973128,
+            44.055505
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses wunderschöne Naturschutzgebiet mit Panoramablick auf das Magratal und bringen Sie ausreichend Wasser für die Wege mit.",
+            "hu": "Túrázzon át ezen a gyönyörű természetvédelmi területen a Magra-völgy panorámájáért, és hozzon magával elegendő vizet a napsütötte ösvényekre.",
+            "ro": "Faceți o drumeție prin această rezervație naturală superbă pentru vederi panoramice ale văii Magra și aduceți multă apă pentru traseele însorite.",
+            "en": "Hike through this beautiful natural reserve to enjoy panoramic views of the Magra river valley, and bring plenty of water for the sunny trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Orto Botanico",
+            "hu": "Orto Botanico",
+            "ro": "Orto Botanico",
+            "en": "Orto Botanico"
+          },
+          "coords": [
+            9.957866,
+            44.054993
+          ],
+          "category": "natural",
+          "arrive_at": "10:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.56,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Vielfalt der mediterranen Flora in diesem ruhigen Garten und bringen Sie ein Makroobjektiv für die zarten Blüten mit.",
+            "hu": "Fedezze fel a mediterrán flóra gazdag választékát ebben a békés botanikus kertben, és hozzon makróobjektívet a finom tavaszi virágok megörökítéséhez.",
+            "ro": "Descoperiți o varietate bogată de floră mediteraneană în acest grădină botanică liniștită și aduceți o lentilă macro pentru a capta florile.",
+            "en": "Discover a rich variety of native Mediterranean flora in this tranquil botanical garden, and bring a macro lens to capture the delicate spring blossoms."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Regionale Montemarcello - Magra",
+            "hu": "Parco Regionale Montemarcello - Magra",
+            "ro": "Parco Regionale Montemarcello - Magra",
+            "en": "Parco Regionale Montemarcello - Magra"
+          },
+          "coords": [
+            9.96249,
+            44.045826
+          ],
+          "category": "natural",
+          "arrive_at": "11:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.43,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die üppigen Küstenkiefernwälder dieses Regionalparks ein und halten Sie Ausschau nach einheimischen Vogelarten in den Baumkronen.",
+            "hu": "Merüljön el a regionális park buja part menti fenyőerdeiben, miközben éberen figyeli a lombkoronában megbúvó őshonos helyi madárfajokat.",
+            "ro": "Cufundați-vă în pădurile luxuriante de pin și fauna diversă a parcului regional, ținând ochii deschiși pentru speciile de păsări autohtone.",
+            "en": "Immerse yourself in the lush coastal pine forests and diverse wildlife of the regional park, keeping a keen eye out for native bird species in the canopy."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Romana di Bocca di Magra",
+            "hu": "Villa Romana di Bocca di Magra",
+            "ro": "Villa Romana di Bocca di Magra",
+            "en": "Villa Romana di Bocca di Magra"
+          },
+          "coords": [
+            9.984844,
+            44.045974
+          ],
+          "category": "historical",
+          "arrive_at": "13:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.34,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese antiken römischen Ruinen am Fluss, um die Geschichte der Region zu verstehen, aber tragen Sie festes Schuhwerk auf den Wegen.",
+            "hu": "Fedezze fel ezeket az ősi római romokat a folyó közelében a helyi történelem megismeréséhez, de viseljen kényelmes és masszív túracipőt.",
+            "ro": "Explorați aceste ruine romane antice de lângă râu pentru a înțelege istoria locală, dar purtați încălțăminte robustă pe potecile arheologice.",
+            "en": "Explore these ancient Roman ruins near the river to understand local history, but wear sturdy shoes as the archaeological paths can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagno Roma",
+            "hu": "Bagno Roma",
+            "ro": "Bagno Roma",
+            "en": "Bagno Roma"
+          },
+          "coords": [
+            10.011887,
+            44.048126
+          ],
+          "category": "recreational",
+          "arrive_at": "15:01",
+          "stay_min": 105,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.86,
+          "tip_5lang": {
+            "de": "Genießen Sie einen sonnigen Nachmittag an diesem beliebten Strandbad, wo eine frühe Ankunft den besten Platz nahe der sanften Brandung garantiert.",
+            "hu": "Élvezze a napsütéses délutánt ebben a népszerű tengerparti üdülőhelyen, ahol a korai érkezés garantálja a legjobb helyet a finom hullámok közelében.",
+            "ro": "Bucurați-vă de o după-amiază însorită la această stațiune populară cu plaje excelente, unde sosirea devreme garantează cel mai bun loc la apă.",
+            "en": "Enjoy a sunny afternoon at this popular beach resort with excellent sandy shores, where arriving early guarantees the best spot near the gentle surf."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Das Radfahren durch Fiumaretta beginnt mit malerischen Naturpfaden zum botanischen Garten. Mittags fahren Sie durch den Küstenpark und halten an einer römischen Ausgrabungsstätte. Der Ausflug endet perfekt mit einer wohlverdienten, erfrischenden Pause am Strand am späten Nachmittag.",
+        "hu": "A kerékpározás festői természetjáró ösvényekkel indul a gazdag botanikus kert felé. Délben a part menti parkon át haladva egy római régészeti lelőhelyen is megáll. Az utazás tökéletesen zárul egy jól megérdemelt, frissítő tengerparti pihenővel a kellemes késő délutáni órákban.",
+        "ro": "Ciclismul prin Fiumaretta începe cu trasee naturale pitorești spre o grădină botanică. Amiaza implică o plimbare prin parcul de coastă și o oprire la un sit arheologic roman. Excursia se încheie perfect cu o odihnă revigorantă pe plajă în timp ce după-amiaza devine mai răcoroasă.",
+        "en": "Cycling through Fiumaretta begins with scenic nature trails leading to a rich botanical garden. Midday involves riding through the coastal park before stopping at a Roman archaeological site. The trip wraps up perfectly with a well-deserved, refreshing beachside rest as the afternoon cools."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:37",
+      "total_km": 5.39,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Orto Botanico",
+            "hu": "Orto Botanico",
+            "ro": "Orto Botanico",
+            "en": "Orto Botanico"
+          },
+          "coords": [
+            9.957866,
+            44.054993
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Vielfalt der mediterranen Flora in diesem ruhigen Garten und bringen Sie ein Makroobjektiv für die zarten Blüten mit.",
+            "hu": "Fedezze fel a mediterrán flóra gazdag választékát ebben a békés botanikus kertben, és hozzon makróobjektívet a finom tavaszi virágok megörökítéséhez.",
+            "ro": "Descoperiți o varietate bogată de floră mediteraneană în acest grădină botanică liniștită și aduceți o lentilă macro pentru a capta florile.",
+            "en": "Discover a rich variety of native Mediterranean flora in this tranquil botanical garden, and bring a macro lens to capture the delicate spring blossoms."
+          }
+        },
+        {
+          "name": {
+            "de": "Punta Corvo",
+            "hu": "Punta Corvo",
+            "ro": "Punta Corvo",
+            "en": "Punta Corvo"
+          },
+          "coords": [
+            9.963541,
+            44.041853
+          ],
+          "category": "natural",
+          "arrive_at": "10:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.95,
+          "tip_5lang": {
+            "de": "Steigen Sie die steilen Stufen zu dieser Bucht mit dunklem Sand hinab, aber denken Sie daran, dass der Aufstieg eine gute Kondition erfordert.",
+            "hu": "Ereszkedjen le a meredek lépcsőkön ebbe a sötét homokos öbölbe, de ne feledje, hogy a visszaút komoly fizikai erőnlétet és kitartást igényel.",
+            "ro": "Coborâți treptele abrupte pentru a ajunge la această golfuleț cu nisip închis, dar rețineți că urcarea înapoi necesită o bună formă fizică.",
+            "en": "Descend the steep steps to reach this spectacular dark sand cove with crystal waters, but remember that the climb back up requires good physical fitness."
+          }
+        },
+        {
+          "name": {
+            "de": "Punta Bianca",
+            "hu": "Punta Bianca",
+            "ro": "Punta Bianca",
+            "en": "Punta Bianca"
+          },
+          "coords": [
+            9.976863,
+            44.035746
+          ],
+          "category": "recreational",
+          "arrive_at": "11:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.69,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die weißen Kalksteinklippen, die im Kontrast zum blauen Meer stehen, und gehen Sie vorsichtig, da die Felsen rutschig sein können.",
+            "hu": "Csodálja meg a drámai fehér mészkősziklák és a kék tenger kontrasztját, de lépkedjen óvatosan, mert a sziklás part nedvesen nagyon csúszós lehet.",
+            "ro": "Admirați stâncile albe dramatice de calcar contrastând cu marea albastră și pășiți cu grijă deoarece țărmul stâncos poate fi alunecos când e ud.",
+            "en": "Marvel at the dramatic white limestone cliffs contrasting with the deep blue sea, and step carefully as the rocky shoreline can be quite slippery when wet."
+          }
+        },
+        {
+          "name": {
+            "de": "Monastero Santa Croce",
+            "hu": "Monastero Santa Croce",
+            "ro": "Monastero Santa Croce",
+            "en": "Monastero Santa Croce"
+          },
+          "coords": [
+            9.982075,
+            44.043505
+          ],
+          "category": "religious",
+          "arrive_at": "13:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses friedliche Kloster, um seine Architektur zu bewundern, und prüfen Sie vorher die lokalen Öffnungszeiten der Kirchengemeinde.",
+            "hu": "Látogasson el ebbe a békés kolostorba, hogy megcsodálja nyugodt építészetét, de előtte feltétlenül ellenőrizze a helyi plébánia nyitvatartását.",
+            "ro": "Vizitați acest mănăstire pașnică pentru a admira arhitectura sa senină și asigurați-vă că verificați programul parohiei locale pentru vizitare.",
+            "en": "Visit this peaceful historical monastery to admire its serene architecture, and be sure to check the local parish schedule for specific opening hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Romana di Bocca di Magra",
+            "hu": "Villa Romana di Bocca di Magra",
+            "ro": "Villa Romana di Bocca di Magra",
+            "en": "Villa Romana di Bocca di Magra"
+          },
+          "coords": [
+            9.984844,
+            44.045974
+          ],
+          "category": "historical",
+          "arrive_at": "13:47",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese antiken römischen Ruinen am Fluss, um die Geschichte der Region zu verstehen, aber tragen Sie festes Schuhwerk auf den Wegen.",
+            "hu": "Fedezze fel ezeket az ősi római romokat a folyó közelében a helyi történelem megismeréséhez, de viseljen kényelmes és masszív túracipőt.",
+            "ro": "Explorați aceste ruine romane antice de lângă râu pentru a înțelege istoria locală, dar purtați încălțăminte robustă pe potecile arheologice.",
+            "en": "Explore these ancient Roman ruins near the river to understand local history, but wear sturdy shoes as the archaeological paths can be quite uneven."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie schnell atemberaubende botanische Gärten und dramatische Buchten. Bis zum Mittag erkunden Sie spektakuläre felsige Landzungen. Der Nachmittag geht fließend in alte Geschichte und friedliche Klosteranlagen über, was eine perfekte Mischung aus Natur und Kultur bietet.",
+        "hu": "Az autózás gyors hozzáférést biztosít a lenyűgöző botanikus kertekhez és az öblökhöz. Délre már a part menti lélegzetelállító sziklás csúcsokat fedezheti fel. A délután zökkenőmentesen vált át az ókori történelemre és a kolostor békéjére, tökéletes harmóniát adva a természetnek és a kultúrának.",
+        "ro": "Condusul permite acces rapid la grădini botanice uimitoare și golfuri dramatice. Până la amiază veți explora puncte stâncoase spectaculoase. După-amiaza face o tranziție lină către istoria antică și incinte monastice liniștite, oferind un amestec perfect de natură uluitoare și cultură locală.",
+        "en": "Driving allows quick access to stunning botanical gardens and dramatic coves. By midday, you will be exploring breathtaking rocky points along the coast. The afternoon smoothly transitions into ancient history and peaceful monastic grounds, offering a perfect blend of nature and culture."
+      }
+    }
+  }
+}

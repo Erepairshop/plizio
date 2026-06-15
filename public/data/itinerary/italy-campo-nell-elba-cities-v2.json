@@ -1,0 +1,428 @@
+{
+  "city_id": "italy-campo-nell-elba-cities-v2",
+  "anchor": {
+    "name": "Campo nell'Elba",
+    "coords": [
+      10.19897,
+      42.75877
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:04",
+      "total_km": 2.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Fortezza Pisana e Chiesa di San Niccolò",
+            "hu": "Fortezza Pisana e Chiesa di San Niccolò",
+            "ro": "Fortezza Pisana e Chiesa di San Niccolò",
+            "en": "Fortezza Pisana e Chiesa di San Niccolò"
+          },
+          "coords": [
+            10.213019,
+            42.751865
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen historischen Festungskomplex, ein Zeugnis von Elbas Verteidigungsgeschichte, aber tragen Sie bequeme Schuhe für die unebenen Steinwege.",
+            "hu": "Fedezze fel ezt a történelmi erődöt és templomot, Elba védelmi múltjának tanúját, de feltétlenül viseljen kényelmes cipőt az egyenetlen kőutakon.",
+            "ro": "Explorați această fortăreață istorică și biserică, o dovadă a trecutului defensiv al Elbei, dar purtați încălțăminte confortabilă pentru cărările pietruite.",
+            "en": "Explore this historic fortress and church complex, a testament to Elba's defensive past, but be sure to wear comfortable shoes for the uneven stone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Sassi Ritti",
+            "hu": "Sassi Ritti",
+            "ro": "Sassi Ritti",
+            "en": "Sassi Ritti"
+          },
+          "coords": [
+            10.196536,
+            42.746959
+          ],
+          "category": "historical",
+          "arrive_at": "10:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese rätselhaften antiken Monolithen der frühen Inselbewohner und bringen Sie ein Weitwinkelobjektiv für Fotos vor der Macchia mit.",
+            "hu": "Csodálja meg ezeket a rejtélyes ősi monolitokat, amelyeket a korai szigetlakók állítottak, és hozzon nagylátószögű lencsét a környező tájjal való fotózáshoz.",
+            "ro": "Admirați acești monoliți antici enigmatici ridicați de primii locuitori ai insulei și aduceți un obiectiv superangular pentru a-i fotografia în macchia.",
+            "en": "Marvel at these enigmatic ancient monolithic stones erected by early islanders, and bring a wide-angle lens to capture them against the surrounding macchia."
+          }
+        },
+        {
+          "name": {
+            "de": "Macina",
+            "hu": "Macina",
+            "ro": "Macina",
+            "en": "Macina"
+          },
+          "coords": [
+            10.191521,
+            42.742823
+          ],
+          "category": "historical",
+          "arrive_at": "12:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diesen historischen Mühlsteinort, der das landwirtschaftliche Erbe der Insel offenbart, und ruhen Sie sich im Schatten der Mittelmeer-Kiefern aus.",
+            "hu": "Vizsgálja meg ezt a történelmi malomkő-lelőhelyet, amely feltárja a sziget mezőgazdasági örökségét, és pihenjen egy pillanatra a közeli mediterrán fenyők árnyékában.",
+            "ro": "Examinați acest sit istoric de pietre de moară care dezvăluie patrimoniul agricol, și odihniți-vă pentru o clipă la umbra pinilor mediteraneeni din apropiere.",
+            "en": "Examine this historic millstone site that reveals the island's agricultural heritage, and take a moment to rest in the shade of the nearby Mediterranean pines."
+          }
+        },
+        {
+          "name": {
+            "de": "colonne romane",
+            "hu": "colonne romane",
+            "ro": "colonne romane",
+            "en": "colonne romane"
+          },
+          "coords": [
+            10.187953,
+            42.743562
+          ],
+          "category": "historical",
+          "arrive_at": "13:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die verlassenen römischen Granitsäulen, die noch im Steinbruch liegen, und achten Sie auf die Meißelspuren, die von antiker Handwerkskunst zeugen.",
+            "hu": "Fedezze fel az elhagyatott római gránitoszlopokat, amelyek még mindig a kőbányában hevernek, és figyelje meg közelebbről az ősi kézművesség vésésnyomait.",
+            "ro": "Descoperiți coloanele romane de granit abandonate care zac încă în carieră și priviți îndeaproape urmele de daltă care mărturisesc măiestria antică.",
+            "en": "Discover the abandoned Roman granite columns still lying in the quarry, and look closely at the chisel marks that tell stories of ancient craftsmanship."
+          }
+        },
+        {
+          "name": {
+            "de": "Colonna pisana",
+            "hu": "Colonna pisana",
+            "ro": "Colonna pisana",
+            "en": "Colonna pisana"
+          },
+          "coords": [
+            10.184949,
+            42.739624
+          ],
+          "category": "historical",
+          "arrive_at": "15:14",
+          "stay_min": 110,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an dieser pisanischen Säule aus dem Mittelalter und planen Sie Ihren Besuch für den späten Nachmittag, um das goldene Licht zu genießen.",
+            "hu": "Fejezze be sétáját ennél a középkori kőbányászatot képviselő pisai oszlopnál, és időzítse látogatását késő délutánra, hogy élvezze a lágy aranyórai fényeket.",
+            "ro": "Încheiați-vă plimbarea la această coloană pisană reprezentând eforturile medievale de exploatare, și veniți după-amiaza târziu pentru a vă bucura de lumina aurie.",
+            "en": "End your walk at this Pisan column representing medieval quarrying efforts, and time your visit for late afternoon to enjoy the soft golden hour lighting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt in San Piero in Campo, wo Sie die imposante Fortezza Pisana und die Kirche San Niccolò in der Morgensonne erkunden.\nGegen Mittag führt Sie der Weg in die raue Granitlandschaft, um die rätselhaften Sassi Ritti Monolithen zu entdecken.\nDer Nachmittag ist eine Reise durch Elbas Steinbruchgeschichte, vorbei an antiken Mühlsteinen und riesigen römischen Säulen.\nAm Abend erreichen Sie die Colonna Pisana und reflektieren über Jahrhunderte der Steinmetzkunst, während die Sonne untergeht.",
+        "hu": "A nap San Piero in Campóban kezdődik, az impozáns Fortezza Pisana és a San Niccolò templom felfedezésével a friss reggeli napsütésben.\nDél közeledtével az ösvény a zord gránit tájba vezet, hogy felfedezze a rejtélyes Sassi Ritti monolitokat.\nA délután egy utazás Elba kőbányászati történelmében, elhaladva az ősi malomkövek és a hatalmas római oszlopok mellett.\nAhogy leszáll az este, eléri a Colonna Pisana-t, visszagondolva az évszázados kőfaragásra, miközben a nap lenyugszik.",
+        "ro": "Ziua începe în San Piero, explorând impunătoarea Fortezza Pisana și fermecătoarea Biserică San Niccolò sub soarele dimineții.\nSpre prânz, traseul vă duce în peisajul de granit accidentat pentru a descoperi enigmaticii monoliți Sassi Ritti.\nDupă-amiaza este o călătorie prin istoria carierelor, trecând pe lângă pietre de moară antice și admirând coloanele romane masive.\nOdată cu lăsarea serii, ajungeți la Colonna Pisana, reflectând asupra secolelor de pietrărie în timp ce soarele apune.",
+        "en": "Your day begins in San Piero in Campo, exploring the imposing Fortezza Pisana and the charming Church of San Niccolò under the fresh morning sun.\nAs midday approaches, the trail leads you into the rugged granite landscape to discover the enigmatic Sassi Ritti monoliths.\nThe afternoon is a journey through Elba's quarrying history, passing ancient millstones at the Macina and admiring the massive Roman columns still resting in the earth.\nAs evening falls, you reach the Colonna Pisana, reflecting on centuries of stonemasonry while the sun sets over the island."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:16",
+      "total_km": 2.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sassi Ritti",
+            "hu": "Sassi Ritti",
+            "ro": "Sassi Ritti",
+            "en": "Sassi Ritti"
+          },
+          "coords": [
+            10.196536,
+            42.746959
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese rätselhaften antiken Monolithen der Inselbewohner und schließen Sie Ihr Fahrrad in der Nähe sicher ab, um die engen Pfade zu Fuß zu erkunden.",
+            "hu": "Csodálja meg a szigetlakók által állított rejtélyes ősi monolitokat, és zárja le biztonságosan a kerékpárját a közelben, hogy gyalog fedezze fel az ösvényeket.",
+            "ro": "Admirați acești monoliți antici enigmatici și asigurați-vă bicicleta în apropiere cu un lacăt de calitate pentru a explora potecile înguste pe jos.",
+            "en": "Marvel at these enigmatic ancient monolithic stones erected by early islanders, and securely lock your bike nearby to explore the narrow trails on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Pietra Murata",
+            "hu": "Pietra Murata",
+            "ro": "Pietra Murata",
+            "en": "Pietra Murata"
+          },
+          "coords": [
+            10.182986,
+            42.75265
+          ],
+          "category": "natural",
+          "arrive_at": "10:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende Aussicht von diesem natürlichen Granitbalkon auf das Meer und bringen Sie viel Wasser mit, da der Aufstieg sehr sonnig ist.",
+            "hu": "Élvezze a lélegzetelállító kilátást a tengerre erről a természetes gránit erkélyről, és hozzon sok vizet, mivel a felfelé vezető út teljesen napos.",
+            "ro": "Bucurați-vă de priveliștile uluitoare de pe acest balcon natural de granit și aduceți multă apă, deoarece urcarea este complet expusă la soare.",
+            "en": "Take in the breathtaking views from this natural granite balcony over the sea, and bring plenty of water as the climb up here is completely exposed to the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Caprile di Pietra Murata V",
+            "hu": "Caprile di Pietra Murata V",
+            "ro": "Caprile di Pietra Murata V",
+            "en": "Caprile di Pietra Murata V"
+          },
+          "coords": [
+            10.183023,
+            42.754156
+          ],
+          "category": "historical",
+          "arrive_at": "11:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Inspizieren Sie diesen faszinierenden traditionellen Schafpferch aus Stein und beachten Sie die ausgeklügelte Trockenmauerarchitektur der alten Hirten.",
+            "hu": "Vizsgálja meg ezt a lenyűgöző hagyományos kőből épült juhaknát, és vegye észre az ősi pásztorok által használt zseniális száraz kőfal-építészetet.",
+            "ro": "Inspectați acest fascinant staul tradițional din piatră pentru oi și observați arhitectura ingenioasă din piatră uscată folosită de păstorii antici.",
+            "en": "Inspect this fascinating traditional stone sheepfold that showcases pastoral island life, and notice the ingenious dry-stone architecture used by ancient shepherds."
+          }
+        },
+        {
+          "name": {
+            "de": "Il Grottino",
+            "hu": "Il Grottino",
+            "ro": "Il Grottino",
+            "en": "Il Grottino"
+          },
+          "coords": [
+            10.185182,
+            42.760093
+          ],
+          "category": "natural",
+          "arrive_at": "12:38",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Pausieren Sie an dieser kleinen natürlichen Höhlenformation, um sich im Schatten abzukühlen, und verwenden Sie eine Stirnlampe für die tieferen Spalten.",
+            "hu": "Tartson egy kis szünetet ennél a kis természetes barlangképződménynél, hogy lehűljön az árnyékában, és használjon fejlámpát, ha be akar nézni a mélyebb résekbe.",
+            "ro": "Faceți o pauză la această mică peșteră naturală pentru a vă răcori la umbră și folosiți o lanternă frontală dacă intenționați să priviți în crevase.",
+            "en": "Pause at this small natural cave formation to cool down in its shadows, and use a headlamp if you plan to peer closely into its deeper crevices."
+          }
+        },
+        {
+          "name": {
+            "de": "La Quata",
+            "hu": "La Quata",
+            "ro": "La Quata",
+            "en": "La Quata"
+          },
+          "coords": [
+            10.185588,
+            42.761232
+          ],
+          "category": "natural",
+          "arrive_at": "13:04",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick von dieser markanten natürlichen Erhebung und halten Sie Ihre Kamera bereit, um lokale Greifvögel am Himmel zu fotografieren.",
+            "hu": "Élvezze a terep panorámáját erről a kiemelkedő természetes emelkedőről, és tartsa készenlétben a fényképezőgépét a felette szárnyaló helyi ragadozó madarak miatt.",
+            "ro": "Bucurați-vă de panorama terenului de pe această înălțime naturală proeminentă și țineți aparatul foto pregătit pentru posibile observații ale păsărilor de pradă.",
+            "en": "Enjoy the panoramic sweep of the terrain from this prominent natural rise, and keep your camera ready for potential sightings of local birds of prey soaring above."
+          }
+        },
+        {
+          "name": {
+            "de": "Monte Tiratoio",
+            "hu": "Monte Tiratoio",
+            "ro": "Monte Tiratoio",
+            "en": "Monte Tiratoio"
+          },
+          "coords": [
+            10.182285,
+            42.764048
+          ],
+          "category": "natural",
+          "arrive_at": "13:31",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erobern Sie diesen zerklüfteten Gipfel für die beste Aussicht auf Elbas Westküste und packen Sie eine Windjacke ein, da die Gipfelbrise recht kühl sein kann.",
+            "hu": "Hódítsa meg ezt a zord csúcsot az Elba nyugati partjára nyíló végső panorámáért, és csomagoljon be egy széldzsekit, mivel a csúcson fújó szél meglehetősen hűvös lehet.",
+            "ro": "Cuceriți acest vârf accidentat pentru priveliștile panoramice supreme asupra coastei vestice a Elbei și luați o jachetă, deoarece vântul poate fi destul de rece.",
+            "en": "Conquer this rugged peak for the ultimate sweeping views over Elba's western coast, and pack a windbreaker as the summit breezes can be quite chilly."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Mountainbike-Abenteuer bei den antiken Sassi Ritti und wärmen Sie sich auf den historischen Pfaden der unteren Hügel auf.\nGegen Mittag meistern Sie den Aufstieg zur Pietra Murata und belohnen sich mit weitem Meerblick und Einblicken in das Hirtenleben am Caprile.\nDer Nachmittag bietet eine raue Fahrt vorbei an Naturdenkmälern wie Il Grottino und La Quata.\nIhre Route gipfelt im anspruchsvollen Aufstieg zum Monte Tiratoio, wo das Abendlicht das Tyrrhenische Meer in spektakuläre Farben taucht.",
+        "hu": "Kezdje a hegyikerékpáros kalandot az ősi Sassi Ritti-nél, bemelegítve az alsó dombokon szétszórt történelmi ösvényeken.\nDélre küzdje le a Pietra Murata felé vezető emelkedőt, megjutalmazva magát a széles tengeri kilátással és a pásztorélet bepillantásával a Caprile-nál.\nA délután zord utazást kínál olyan természeti nevezetességek mellett, mint az Il Grottino és a La Quata.\nAz útvonal a Monte Tiratoio kihívást jelentő megmászásával csúcsosodik ki, ahol az esti fények látványos színekbe öltöztetik a tengert.",
+        "ro": "Începeți aventura de mountain bike la Sassi Ritti, încălzindu-vă pe traseele istorice presărate pe dealurile inferioare.\nSpre prânz, abordați ascensiunea spre Pietra Murata, recompensându-vă cu vederi ample la mare și o privire în viața pastorală de la Caprile.\nDupă-amiaza oferă o plimbare accidentată pe lângă repere naturale precum Il Grottino și La Quata.\nTraseul dumneavoastră culminează cu urcarea dificilă spre Monte Tiratoio, unde lumina serii pictează Marea Tireniană în culori spectaculoase.",
+        "en": "Kick off your mountain biking adventure at the ancient Sassi Ritti, warming up on the historic trails scattered across the lower hills.\nBy midday, tackle the ascent toward Pietra Murata, rewarding yourself with sweeping sea views and a glimpse into pastoral life at the Caprile.\nThe afternoon offers a rugged ride past natural landmarks like Il Grottino and La Quata, navigating the island's raw granite topography.\nYour route culminates with the challenging climb to Monte Tiratoio, where the evening light paints the vast Tyrrhenian Sea in spectacular colors."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:24",
+      "total_km": 8.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Fortezza Pisana e Chiesa di San Niccolò",
+            "hu": "Fortezza Pisana e Chiesa di San Niccolò",
+            "ro": "Fortezza Pisana e Chiesa di San Niccolò",
+            "en": "Fortezza Pisana e Chiesa di San Niccolò"
+          },
+          "coords": [
+            10.213019,
+            42.751865
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Autotour an diesem Festungskomplex, parken Sie auf den ausgewiesenen Flächen von San Piero, bevor Sie die mittelalterliche Architektur zu Fuß erkunden.",
+            "hu": "Kezdje autós túráját ennél a lenyűgöző erődkomplexumnál, parkoljon le San Piero kijelölt területein, mielőtt gyalogosan felfedezné a középkori építészetet.",
+            "ro": "Începeți turul cu mașina la acest complex de fortărețe impunător, parcând în zonele desemnate din San Piero înainte de a explora arhitectura medievală pe jos.",
+            "en": "Start your driving tour at this commanding fortress complex, parking in the designated areas of San Piero before exploring the medieval architecture on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Caprile delle Macinelle",
+            "hu": "Caprile delle Macinelle",
+            "ro": "Caprile delle Macinelle",
+            "en": "Caprile delle Macinelle"
+          },
+          "coords": [
+            10.176632,
+            42.759108
+          ],
+          "category": "historical",
+          "arrive_at": "10:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Wandern Sie ein kurzes Stück vom Parkplatz zu diesem spektakulär erhaltenen Hirtenunterstand und beachten Sie die Trockensteinkuppel, die mit der Natur verschmilzt.",
+            "hu": "Túrázzon egy rövid távolságot a parkolótól ehhez a látványosan megőrzött pásztormenedékhez, és vegye észre, hogy a száraz kőkupola zökkenőmentesen illeszkedik a természethez.",
+            "ro": "Faceți o scurtă drumeție de la parcare până la acest adăpost de păstori spectaculos conservat și observați cum cupola de piatră uscată se îmbină cu natura.",
+            "en": "Hike a short distance from your parking spot to this spectacularly preserved shepherds' shelter, and notice how the dry-stone dome seamlessly blends with nature."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Calanche",
+            "hu": "Le Calanche",
+            "ro": "Le Calanche",
+            "en": "Le Calanche"
+          },
+          "coords": [
+            10.179873,
+            42.767378
+          ],
+          "category": "natural",
+          "arrive_at": "12:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten, zerklüfteten Granitformationen dieses Naturdenkmals und gehen Sie vorsichtig auf den losen Schotterwegen, um die besten Aussichtspunkte zu erreichen.",
+            "hu": "Csodálja meg ennek a természeti emlékműnek a feltűnő, csipkézett gránitképződményeit, és óvatosan lépkedjen a laza kavicsos utakon a legjobb kilátópontok eléréséhez.",
+            "ro": "Admirați formațiunile de granit izbitoare și crestate care caracterizează acest monument natural și pășiți cu grijă pe cărările cu pietriș pentru a ajunge la cele mai bune puncte de belvedere.",
+            "en": "Admire the striking, jagged granite formations that characterize this natural monument, and tread carefully on the loose gravel paths to reach the best viewpoints."
+          }
+        },
+        {
+          "name": {
+            "de": "Monte Maolo",
+            "hu": "Monte Maolo",
+            "ro": "Monte Maolo",
+            "en": "Monte Maolo"
+          },
+          "coords": [
+            10.184887,
+            42.772214
+          ],
+          "category": "natural",
+          "arrive_at": "13:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Fahren Sie die kurvenreichen Bergstraßen zu diesem Gipfel hinauf, um Panoramablicke zu genießen, und nutzen Sie die Haltebuchten sicher für Fotos der Täler.",
+            "hu": "Vezessen fel a kanyargós hegyi utakon e felé a csúcs felé a nagy magasságú kilátásért, és használja biztonságosan az útmenti pihenőket a völgyek fotózásához.",
+            "ro": "Conduceți pe drumurile montane șerpuitoare spre acest vârf pentru vederi la mare altitudine și folosiți refugiile în siguranță pentru a fotografia văile.",
+            "en": "Drive up the winding mountain roads towards this peak for high-altitude vistas, and use the pull-outs safely to capture photographs of the sprawling valleys below."
+          }
+        },
+        {
+          "name": {
+            "de": "Pietra Murata",
+            "hu": "Pietra Murata",
+            "ro": "Pietra Murata",
+            "en": "Pietra Murata"
+          },
+          "coords": [
+            10.182986,
+            42.75265
+          ],
+          "category": "natural",
+          "arrive_at": "14:39",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise an diesem monumentalen Felsen über dem Meer und bringen Sie ein kleines Picknick mit, das Sie auf dem glatten Granit im Nachmittagswind genießen können.",
+            "hu": "Fejezze be utazását ennél a tenger fölé magasodó monumentális sziklánál, és hozzon magával egy kis pikniket, amelyet a sima grániton élvezhet a késő délutáni szellőben.",
+            "ro": "Încheiați călătoria la această stâncă monumentală cocoțată deasupra mării, aducând un mic picnic pe care să-l savurați pe granitul neted în briza de după-amiază.",
+            "en": "Conclude your trip at this monumental rock perched over the sea, bringing a small picnic to enjoy on the smooth granite as the late afternoon breeze rolls in."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt an der historischen Fortezza Pisana in San Piero, wo Elbas Verteidigungsgeschichte stolz gegen den Morgenhimmel steht.\nGegen Mittag navigieren Sie auf den malerischen Bergstraßen zum faszinierenden Caprile delle Macinelle und erkunden antike Hirtenarchitektur.\nAm Nachmittag führt Sie die Reise höher in das raue Gelände, wo Sie die dramatischen Gipfel von Le Calanche und die Panoramablicke vom Monte Maolo bewundern.\nDer Tag klingt mit einer kurzen Wanderung zur Pietra Murata aus, wo der massive Granitfels einen herrlichen Sonnenuntergang über dem Meer bietet.",
+        "hu": "Autós túrája a történelmi Fortezza Pisanánál kezdődik San Pieróban, ahol Elba védelmi múltja büszkén áll a reggeli égbolttal szemben.\nDél közeledtével a festői hegyi utakon navigál, hogy elérje a lenyűgöző Caprile delle Macinelle-t, felfedezve az ősi pásztorépítészetet.\nDélután az utazás magasabbra visz a zord terepen, megcsodálva a Le Calanche drámai csúcsait és a Monte Maolo panorámás kilátását.\nA nap a Pietra Muratához tett rövid túrával zárul, ahol a hatalmas gránitkiszögellés csodálatos naplementét kínál a csillogó tenger felett.",
+        "ro": "Turul cu mașina începe la istorica Fortezza Pisana din San Piero, unde trecutul defensiv al Elbei se profilează mândru pe cerul dimineții.\nSpre prânz, navigați pe drumurile pitorești de munte pentru a ajunge la fascinanta Caprile delle Macinelle, explorând arhitectura pastorală antică.\nDupă-amiaza, călătoria vă duce mai sus în terenul accidentat, admirând vârfurile dramatice ale Le Calanche și priveliștile panoramice de pe Monte Maolo.\nZiua se încheie cu o scurtă drumeție la Pietra Murata, unde aflorimentul masiv de granit oferă un apus magnific peste marea strălucitoare.",
+        "en": "Your driving tour begins at the historic Fortezza Pisana in San Piero, where Elba's defensive past stands proudly against the morning sky.\nAs midday sets in, you navigate the scenic mountain roads to reach the fascinating Caprile delle Macinelle, exploring ancient pastoral architecture.\nIn the afternoon, the journey takes you higher into the rugged terrain, admiring the dramatic peaks of Le Calanche and the panoramic vistas from Monte Maolo.\nThe day winds down with a short hike to Pietra Murata, where the massive granite outcropping offers a magnificent sunset over the shimmering sea."
+      }
+    }
+  }
+}

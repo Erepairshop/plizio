@@ -1,0 +1,520 @@
+{
+  "city_id": "sweden-huskvarna-cities-v2",
+  "anchor": {
+    "name": "Huskvarna",
+    "coords": [
+      14.275556,
+      57.791944
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:41",
+      "total_km": 3.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Equmeniakyrkan Huskvarna",
+            "hu": "Equmeniakyrkan Huskvarna",
+            "ro": "Equmeniakyrkan Huskvarna",
+            "en": "Equmeniakyrkan Huskvarna"
+          },
+          "coords": [
+            14.2765,
+            57.792861
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur dieser lebendigen Freikirche; kommen Sie am besten sonntags, um den wundervollen Gesang während des Gottesdienstes zu erleben.",
+            "hu": "Csodálja meg e modern szabadegyházi épület letisztult vonalait; érdemes vasárnap érkezni, hogy meghallgassa a közösség lenyűgöző kórusát és énekeit.",
+            "ro": "Admirați arhitectura modernă a acestei biserici libere vibrante; veniți într-o duminică pentru a vă bucura de corul impresionant în timpul slujbei.",
+            "en": "Admire the modern architecture of this vibrant free church; come on a Sunday morning to experience the wonderful choir singing during the local service."
+          }
+        },
+        {
+          "name": {
+            "de": "Mjölkafållan",
+            "hu": "Mjölkafållan",
+            "ro": "Mjölkafållan",
+            "en": "Mjölkafållan"
+          },
+          "coords": [
+            14.275677,
+            57.794854
+          ],
+          "category": "park",
+          "arrive_at": "09:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen idyllischen Park entlang des Flusses, der Ruhe pur bietet; packen Sie unbedingt ein kleines Picknick für die sonnigen Wiesen ein.",
+            "hu": "Sétáljon végig a folyóparti parkon, amely tökéletes nyugalmat áraszt; mindenképpen hozzon magával egy kis piknikkosarat a napos pázsiton való pihenéshez.",
+            "ro": "Plimbați-vă prin acest parc idilic de-a lungul râului pentru a găsi liniște; nu uitați să luați un mic picnic pentru a vă relaxa pe pajiștile însorite.",
+            "en": "Stroll through this idyllic riverside park that offers pure tranquility; be sure to pack a small picnic to enjoy on the sunny, well-kept green meadows."
+          }
+        },
+        {
+          "name": {
+            "de": "Huskvarna teater och kulturskola",
+            "hu": "Huskvarna színház és kultúriskola",
+            "ro": "Teatrul și școala de cultură Huskvarna",
+            "en": "Huskvarna theater and culture school"
+          },
+          "coords": [
+            14.273251,
+            57.789321
+          ],
+          "category": "monument",
+          "arrive_at": "11:17",
+          "stay_min": 15,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erleben Sie die kreative Energie dieser lokalen Kulturschule und werfen Sie einen Blick auf den Spielplan, um abends vielleicht eine charmante Aufführung zu sehen.",
+            "hu": "Tapasztalja meg a helyi művészeti iskola kreatív energiáját, és érdemes előre megnézni a műsort, hátha elcsíp egy esti színházi vagy zenei előadást.",
+            "ro": "Experimentați energia creativă a acestei școli de cultură și verificați programul în avans pentru a prinde o reprezentație teatrală fermecătoare seara.",
+            "en": "Experience the creative energy of this local cultural school, and make sure to check their schedule in advance to catch a charming evening performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Huskvarna kyrka",
+            "hu": "Huskvarna templom",
+            "ro": "Biserica Huskvarna",
+            "en": "Huskvarna church"
+          },
+          "coords": [
+            14.273896,
+            57.787741
+          ],
+          "category": "religious",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese klassische, wunderschöne Holzkirche für einen Moment der Besinnung; achten Sie besonders auf die detaillierten Holzschnitzereien im Altarraum.",
+            "hu": "Látogasson el ebbe a gyönyörű, klasszikus fatemplomba egy csendes pillanatra; figyelje meg a szentély lenyűgöző és részletgazdag fafaragásait odabent.",
+            "ro": "Vizitați această frumoasă biserică clasică din lemn pentru un moment de reflecție; acordați o atenție deosebită sculpturilor detaliate în lemn de la altar.",
+            "en": "Visit this classic, beautiful wooden church for a quiet moment of reflection; pay special attention to the intricately detailed wood carvings near the altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Husqvarna Fabriksmuseum",
+            "hu": "Husqvarna Gyármúzeum",
+            "ro": "Muzeul Fabricii Husqvarna",
+            "en": "Husqvarna Factory Museum"
+          },
+          "coords": [
+            14.285285,
+            57.787302
+          ],
+          "category": "museum",
+          "arrive_at": "12:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie über 300 Jahre spannende Industriegeschichte von Waffen bis Motorrädern; planen Sie mindestens zwei Stunden ein, um alle Ausstellungsstücke zu sehen.",
+            "hu": "Fedezze fel a több mint 300 éves ipartörténetet a fegyverektől a motorokig; szánjon legalább két órát a hatalmas és részletgazdag kiállítás megtekintésére.",
+            "ro": "Descoperiți peste 300 de ani de istorie industrială, de la arme la motociclete; planificați cel puțin două ore pentru a vedea toate exponatele fascinante.",
+            "en": "Discover over 300 years of fascinating industrial history from weapons to motorcycles; plan for at least two hours to properly explore all the detailed exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Smedbyn",
+            "hu": "Smedbyn",
+            "ro": "Smedbyn",
+            "en": "Smedbyn"
+          },
+          "coords": [
+            14.28299,
+            57.785276
+          ],
+          "category": "historical",
+          "arrive_at": "14:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die historischen, roten Schmiedehäuschen aus dem 18. Jahrhundert; bringen Sie Ihre Kamera mit, denn das Licht am späten Nachmittag ist fantastisch.",
+            "hu": "Sétáljon a 18. századi, vörösre festett egykori kovácsházak között; hozza magával a fényképezőgépét, mert a késő délutáni fények varázslatosak itt.",
+            "ro": "Plimbați-vă printre căsuțele roșii istorice ale fierarilor din secolul al XVIII-lea; luați-vă aparatul foto, deoarece lumina după-amiezii târzii este uimitoare.",
+            "en": "Stroll through the historic, red-painted blacksmith cottages from the 18th century; bring your camera as the late afternoon light here is absolutely fantastic."
+          }
+        },
+        {
+          "name": {
+            "de": "Utsikten",
+            "hu": "Utsikten",
+            "ro": "Utsikten",
+            "en": "Utsikten"
+          },
+          "coords": [
+            14.284497,
+            57.794151
+          ],
+          "category": "viewpoint",
+          "arrive_at": "15:46",
+          "stay_min": 55,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick über Huskvarna und den Vätternsee; der Aufstieg ist steil, also tragen Sie bequeme Schuhe für den kurzen Wanderweg.",
+            "hu": "Élvezze a lélegzetelállító panorámát Huskvarnára és a Vättern-tóra; az ösvény egy kissé meredek, ezért mindenképpen kényelmes túracipőben vágjon neki az útnak.",
+            "ro": "Bucurați-vă de priveliștea panoramică uluitoare asupra Huskvarnei și lacului Vättern; urcarea este abruptă, așa că purtați încălțăminte confortabilă pentru drumeție.",
+            "en": "Enjoy the breathtaking panoramic view over Huskvarna and Lake Vättern; the path is slightly steep, so be sure to wear comfortable shoes for the short hike up."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein wunderbarer Spaziergang durch Huskvarna beginnt mit der modernen Architektur der Equmeniakyrkan, gefolgt von der friedlichen Mjölkafållan. Mittags schlendern wir zur Kultur und der klassischen Huskvarna kyrka, ein Ort tiefer Ruhe. Am Nachmittag tauchen wir im Fabriksmuseum in die industrielle Geschichte ein. Der Abend endet charmant in Smedbyn und mit dem Panoramablick von Utsikten über die ganze Stadt.",
+        "hu": "Huskvarna felfedezése egy csodás sétával indul az Equmeniakyrkan-tól, majd a Mjölkafållan park nyugalmában folytatódik. Délben a kulturális színház és a történelmi Huskvarna templom nyújt lelki és szellemi feltöltődést. Délután a híres Husqvarna Gyármúzeum ipartörténeti csodáit járjuk végig. Az este Smedbyn hangulatos házai között és az Utsikten lenyűgöző panorámájával zárul, ami felejthetetlen élmény.",
+        "ro": "O plimbare minunată prin Huskvarna începe cu arhitectura modernă a Equmeniakyrkan și continuă în liniștea parcului Mjölkafållan. La prânz, explorăm teatrul și biserica clasică Huskvarna, o oază de spiritualitate. După-amiaza este dedicată faimosului Muzeu al Fabricii Husqvarna, plin de istorie industrială. Seara se încheie în cartierul pitoresc Smedbyn și cu panorama spectaculoasă de la Utsikten.",
+        "en": "A wonderful walk through Huskvarna begins with the modern architecture of the Equmeniakyrkan, followed by the peaceful Mjölkafållan park. At noon, we stroll to the cultural theater and the classic Huskvarna church, a place of deep tranquility. The afternoon is dedicated to exploring the rich industrial history at the Husqvarna Factory Museum. The evening ends charmingly in Smedbyn and with the panoramic view from Utsikten."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:54",
+      "total_km": 3.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rumlaborg",
+            "hu": "Rumlaborg",
+            "ro": "Rumlaborg",
+            "en": "Rumlaborg"
+          },
+          "coords": [
+            14.266899,
+            57.791691
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser mittelalterlichen Festung, die spannende Geschichten birgt; lesen Sie die Infotafeln am Eingang, um die historische Bedeutung zu verstehen.",
+            "hu": "Fedezze fel e középkori erődítmény maradványait, amely izgalmas történeteket rejt; olvassa el a bejáratnál lévő táblákat, hogy megértse a hely fontosságát.",
+            "ro": "Explorați rămășițele acestei fortărețe medievale pline de povești captivante; citiți panourile informative de la intrare pentru a înțelege semnificația sa istorică.",
+            "en": "Explore the remains of this medieval fortress that holds captivating stories; make sure to read the information boards at the entrance to grasp its historical impact."
+          }
+        },
+        {
+          "name": {
+            "de": "Equmeniakyrkan Huskvarna",
+            "hu": "Equmeniakyrkan Huskvarna",
+            "ro": "Equmeniakyrkan Huskvarna",
+            "en": "Equmeniakyrkan Huskvarna"
+          },
+          "coords": [
+            14.2765,
+            57.792861
+          ],
+          "category": "religious",
+          "arrive_at": "10:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur dieser lebendigen Freikirche; kommen Sie am besten sonntags, um den wundervollen Gesang während des Gottesdienstes zu erleben.",
+            "hu": "Csodálja meg e modern szabadegyházi épület letisztult vonalait; érdemes vasárnap érkezni, hogy meghallgassa a közösség lenyűgöző kórusát és énekeit.",
+            "ro": "Admirați arhitectura modernă a acestei biserici libere vibrante; veniți într-o duminică pentru a vă bucura de corul impresionant în timpul slujbei.",
+            "en": "Admire the modern architecture of this vibrant free church; come on a Sunday morning to experience the wonderful choir singing during the local service."
+          }
+        },
+        {
+          "name": {
+            "de": "Mjölkafållan",
+            "hu": "Mjölkafållan",
+            "ro": "Mjölkafållan",
+            "en": "Mjölkafållan"
+          },
+          "coords": [
+            14.275677,
+            57.794854
+          ],
+          "category": "park",
+          "arrive_at": "11:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen idyllischen Park entlang des Flusses, der Ruhe pur bietet; packen Sie unbedingt ein kleines Picknick für die sonnigen Wiesen ein.",
+            "hu": "Sétáljon végig a folyóparti parkon, amely tökéletes nyugalmat áraszt; mindenképpen hozzon magával egy kis piknikkosarat a napos pázsiton való pihenéshez.",
+            "ro": "Plimbați-vă prin acest parc idilic de-a lungul râului pentru a găsi liniște; nu uitați să luați un mic picnic pentru a vă relaxa pe pajiștile însorite.",
+            "en": "Stroll through this idyllic riverside park that offers pure tranquility; be sure to pack a small picnic to enjoy on the sunny, well-kept green meadows."
+          }
+        },
+        {
+          "name": {
+            "de": "Kruthuset",
+            "hu": "Kruthuset",
+            "ro": "Kruthuset",
+            "en": "Kruthuset"
+          },
+          "coords": [
+            14.2718,
+            57.800712
+          ],
+          "category": "museum",
+          "arrive_at": "12:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie das alte Pulverhaus, das heute lokale Geschichte und Artefakte präsentiert; fragen Sie das Personal nach den weniger bekannten Anekdoten der Stadt.",
+            "hu": "Látogasson el a régi lőporházba, amely ma helyi történeti kiállításoknak ad otthont; kérdezze a személyzetet a város kevésbé ismert, izgalmas anekdotáiról.",
+            "ro": "Vizitați vechea casă a pulberii, care prezintă acum istoria și artefactele locale; întrebați personalul despre anecdote mai puțin cunoscute ale orașului.",
+            "en": "Visit the old powder house, which today presents local history and unique artifacts; ask the friendly staff about the town's lesser-known, intriguing anecdotes."
+          }
+        },
+        {
+          "name": {
+            "de": "Husqvarna Fabriksmuseum",
+            "hu": "Husqvarna Gyármúzeum",
+            "ro": "Muzeul Fabricii Husqvarna",
+            "en": "Husqvarna Factory Museum"
+          },
+          "coords": [
+            14.285285,
+            57.787302
+          ],
+          "category": "museum",
+          "arrive_at": "14:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie über 300 Jahre spannende Industriegeschichte von Waffen bis Motorrädern; planen Sie mindestens zwei Stunden ein, um alle Ausstellungsstücke zu sehen.",
+            "hu": "Fedezze fel a több mint 300 éves ipartörténetet a fegyverektől a motorokig; szánjon legalább két órát a hatalmas és részletgazdag kiállítás megtekintésére.",
+            "ro": "Descoperiți peste 300 de ani de istorie industrială, de la arme la motociclete; planificați cel puțin două ore pentru a vedea toate exponatele fascinante.",
+            "en": "Discover over 300 years of fascinating industrial history from weapons to motorcycles; plan for at least two hours to properly explore all the detailed exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Smedbyn",
+            "hu": "Smedbyn",
+            "ro": "Smedbyn",
+            "en": "Smedbyn"
+          },
+          "coords": [
+            14.28299,
+            57.785276
+          ],
+          "category": "landmark",
+          "arrive_at": "16:04",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die historischen, roten Schmiedehäuschen aus dem 18. Jahrhundert; bringen Sie Ihre Kamera mit, denn das Licht am späten Nachmittag ist fantastisch.",
+            "hu": "Sétáljon a 18. századi, vörösre festett egykori kovácsházak között; hozza magával a fényképezőgépét, mert a késő délutáni fények varázslatosak itt.",
+            "ro": "Plimbați-vă printre căsuțele roșii istorice ale fierarilor din secolul al XVIII-lea; luați-vă aparatul foto, deoarece lumina după-amiezii târzii este uimitoare.",
+            "en": "Stroll through the historic, red-painted blacksmith cottages from the 18th century; bring your camera as the late afternoon light here is absolutely fantastic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad starten wir an der historischen Festung Rumlaborg und radeln dann entspannt zur zentralen Equmeniakyrkan. Mittags bietet die Mjölkafållan eine grüne Oase, bevor wir das faszinierende Kruthuset erkunden, das voller lokaler Geschichte steckt. Der Nachmittag gehört dem berühmten Husqvarna Fabriksmuseum, wo Technikgeschichte lebendig wird. Zum Abschluss rollen wir durch das idyllische Smedbyn.",
+        "hu": "Bringatúránkat a történelmi Rumlaborg erőd romjainál kezdjük, majd az Equmeniakyrkan felé pedálozunk a friss levegőn. Délben a Mjölkafållan park zöldjében pihenünk, mielőtt a helyi történelmet őrző Kruthuset múzeumot fedezzük fel. Délután a híres Husqvarna Gyármúzeum gépeit és innovációit csodáljuk meg egy alapos séta során. A napot a Smedbyn vörös faházai közötti hangulatos tekeréssel zárjuk.",
+        "ro": "Turul pe bicicletă începe la ruinele istorice Rumlaborg și continuă cu o oprire relaxantă la Equmeniakyrkan. La prânz, parcul Mjölkafållan oferă o oază verde, înainte de a explora fascinantul muzeu Kruthuset, plin de istorie locală. După-amiaza este rezervată celebrului Muzeu al Fabricii Husqvarna, unde tehnologia prinde viață. Turul se încheie cu o plimbare idilică prin pitorescul cartier Smedbyn.",
+        "en": "Our bike tour starts at the historic Rumlaborg ruins, before pedaling easily to the modern Equmeniakyrkan. At midday, the Mjölkafållan park offers a green oasis, followed by an exploration of the fascinating Kruthuset, which is full of local history. The afternoon belongs to the famous Husqvarna Factory Museum, where industrial innovation comes to life. We conclude the day by rolling through the idyllic red cottages of Smedbyn."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:13",
+      "total_km": 13.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Öxnehagakyrkan",
+            "hu": "Öxnehagakyrkan",
+            "ro": "Öxnehagakyrkan",
+            "en": "Öxnehagakyrkan"
+          },
+          "coords": [
+            14.264362,
+            57.774656
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erleben Sie das moderne Design und die einladende Atmosphäre dieser zeitgenössischen Kirche; besuchen Sie das kleine Café im Foyer für einen gemütlichen Morgenkaffee.",
+            "hu": "Tapasztalja meg e modern templom letisztult dizájnját és hívogató atmoszféráját; látogasson el az előcsarnokban lévő kis kávézóba egy finom reggeli kávéra.",
+            "ro": "Experimentați designul modern și atmosfera primitoare a acestei biserici contemporane; vizitați mica cafenea din foaier pentru o cafea relaxantă de dimineață.",
+            "en": "Experience the modern design and welcoming atmosphere of this contemporary church; visit the small café in the foyer to grab a relaxing and tasty morning coffee."
+          }
+        },
+        {
+          "name": {
+            "de": "Sannabadet",
+            "hu": "Sannabadet",
+            "ro": "Sannabadet",
+            "en": "Sannabadet"
+          },
+          "coords": [
+            14.243483,
+            57.793059
+          ],
+          "category": "landmark",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem beliebten Strandbereich, der perfekt für Familien ist; kommen Sie früh am Morgen, um sich den besten Platz am Wasser zu sichern.",
+            "hu": "Pihenjen ezen a népszerű, családok számára is tökéletes homokos strandon; érkezzen kora reggel, hogy biztosan a legjobb helyet szerezze meg a vízparton.",
+            "ro": "Relaxați-vă pe această plajă populară, perfectă pentru familii; veniți dimineața devreme pentru a vă asigura cel mai bun loc chiar lângă apa cristalină.",
+            "en": "Relax at this popular beach area, which is absolutely perfect for families; arrive early in the morning to secure the very best spot right by the clear water."
+          }
+        },
+        {
+          "name": {
+            "de": "Kruthuset",
+            "hu": "Kruthuset",
+            "ro": "Kruthuset",
+            "en": "Kruthuset"
+          },
+          "coords": [
+            14.2718,
+            57.800712
+          ],
+          "category": "museum",
+          "arrive_at": "11:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie das alte Pulverhaus, das heute lokale Geschichte und Artefakte präsentiert; fragen Sie das Personal nach den weniger bekannten Anekdoten der Stadt.",
+            "hu": "Látogasson el a régi lőporházba, amely ma helyi történeti kiállításoknak ad otthont; kérdezze a személyzetet a város kevésbé ismert, izgalmas anekdotáiról.",
+            "ro": "Vizitați vechea casă a pulberii, care prezintă acum istoria și artefactele locale; întrebați personalul despre anecdote mai puțin cunoscute ale orașului.",
+            "en": "Visit the old powder house, which today presents local history and unique artifacts; ask the friendly staff about the town's lesser-known, intriguing anecdotes."
+          }
+        },
+        {
+          "name": {
+            "de": "Strutsabacken",
+            "hu": "Strutsabacken",
+            "ro": "Strutsabacken",
+            "en": "Strutsabacken"
+          },
+          "coords": [
+            14.282931,
+            57.806087
+          ],
+          "category": "viewpoint",
+          "arrive_at": "12:43",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Wandern Sie auf diesen markanten Hügel für eine wunderbare Aussicht in der Natur; nehmen Sie etwas Wasser mit, da der Weg besonders im Sommer anstrengend sein kann.",
+            "hu": "Túrázzon fel erre a jellegzetes dombra a lenyűgöző természeti kilátásért; vigyen magával elegendő vizet, mert az ösvény különösen nyáron megizzaszthatja.",
+            "ro": "Faceți o drumeție pe acest deal proeminent pentru o priveliște minunată în natură; luați apă cu voi, deoarece traseul poate fi solicitant mai ales vara.",
+            "en": "Hike up this prominent hill for a wonderful nature-filled viewpoint; make sure to bring plenty of water, as the trail can be quite demanding, especially in summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Brunstorpsbadet",
+            "hu": "Brunstorpsbadet",
+            "ro": "Brunstorpsbadet",
+            "en": "Brunstorpsbadet"
+          },
+          "coords": [
+            14.268314,
+            57.821341
+          ],
+          "category": "park",
+          "arrive_at": "13:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich in den beheizten Pools dieser familienfreundlichen Anlage ab; nutzen Sie die großen Grünflächen für ein entspanntes Sonnenbad nach dem Schwimmen.",
+            "hu": "Hűtse le magát ennek a családbarát létesítménynek a fűtött medencéiben; használja ki a tágas zöldterületeket egy pihentető napozásra az úszás után.",
+            "ro": "Răcoriți-vă în piscinele încălzite ale acestei facilități prietenoase cu familiile; profitați de spațiile verzi mari pentru a face plajă după o repriză de înot.",
+            "en": "Cool off in the heated pools of this family-friendly aquatic facility; take full advantage of the large green spaces for a relaxing sunbath right after swimming."
+          }
+        },
+        {
+          "name": {
+            "de": "Husqvarna Fabriksmuseum",
+            "hu": "Husqvarna Gyármúzeum",
+            "ro": "Muzeul Fabricii Husqvarna",
+            "en": "Husqvarna Factory Museum"
+          },
+          "coords": [
+            14.285285,
+            57.787302
+          ],
+          "category": "museum",
+          "arrive_at": "14:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie über 300 Jahre spannende Industriegeschichte von Waffen bis Motorrädern; planen Sie mindestens zwei Stunden ein, um alle Ausstellungsstücke zu sehen.",
+            "hu": "Fedezze fel a több mint 300 éves ipartörténetet a fegyverektől a motorokig; szánjon legalább két órát a hatalmas és részletgazdag kiállítás megtekintésére.",
+            "ro": "Descoperiți peste 300 de ani de istorie industrială, de la arme la motociclete; planificați cel puțin două ore pentru a vedea toate exponatele fascinante.",
+            "en": "Discover over 300 years of fascinating industrial history from weapons to motorcycles; plan for at least two hours to properly explore all the detailed exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Utsikten",
+            "hu": "Utsikten",
+            "ro": "Utsikten",
+            "en": "Utsikten"
+          },
+          "coords": [
+            14.284497,
+            57.794151
+          ],
+          "category": "viewpoint",
+          "arrive_at": "16:18",
+          "stay_min": 55,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick über Huskvarna und den Vätternsee; der Aufstieg ist steil, also tragen Sie bequeme Schuhe für den kurzen Wanderweg.",
+            "hu": "Élvezze a lélegzetelállító panorámát Huskvarnára és a Vättern-tóra; az ösvény egy kissé meredek, ezért mindenképpen kényelmes túracipőben vágjon neki az útnak.",
+            "ro": "Bucurați-vă de priveliștea panoramică uluitoare asupra Huskvarnei și lacului Vättern; urcarea este abruptă, așa că purtați încălțăminte confortabilă pentru drumeție.",
+            "en": "Enjoy the breathtaking panoramic view over Huskvarna and Lake Vättern; the path is slightly steep, so be sure to wear comfortable shoes for the short hike up."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese Autotour zeigt die Vielseitigkeit Huskvarnas, beginnend an der Öxnehagakyrkan und dem beliebten Sannabadet für einen frischen Start. Mittags entdecken wir historische Waffen im Kruthuset und genießen die fantastische Aussicht von der Strutsabacken. Der Nachmittag bringt uns zum Brunstorpsbadet und weiter zur Industriegeschichte im Husqvarna Fabriksmuseum. Der perfekte Abschluss ist der weite Blick von der Utsikten in der Abenddämmerung.",
+        "hu": "Ez az autós útvonal Huskvarna sokoldalúságát mutatja be, az Öxnehagakyrkan-tól a népszerű Sannabadet fürdőig haladva. Délben a Kruthuset történelmi fegyvergyűjteményét és a Strutsabacken lenyűgöző kilátását élvezzük. Délután a Brunstorpsbadet mellett elhaladva a híres Husqvarna Gyármúzeumban mélyedünk el az ipartörténetben. A tökéletes befejezés az Utsikten kilátóból elénk táruló panoráma az alkonyatban.",
+        "ro": "Acest traseu auto arată diversitatea orașului Huskvarna, începând de la Öxnehagakyrkan și popularul Sannabadet. La prânz, descoperim armele istorice de la Kruthuset și ne bucurăm de priveliștile uimitoare de la Strutsabacken. După-amiaza ne duce la Brunstorpsbadet și apoi la istoria industrială captivantă din Muzeul Fabricii Husqvarna. Finalul perfect este priveliștea panoramică de la Utsikten în lumina amurgului.",
+        "en": "This driving tour showcases the versatility of Huskvarna, starting at the Öxnehagakyrkan and the popular Sannabadet for a fresh morning. At midday, we discover historical artifacts at the Kruthuset and enjoy the stunning views from Strutsabacken. The afternoon takes us past Brunstorpsbadet to the captivating industrial history at the Husqvarna Factory Museum. The perfect finale is the sweeping view from Utsikten at dusk."
+      }
+    }
+  }
+}

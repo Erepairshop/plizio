@@ -1,0 +1,520 @@
+{
+  "city_id": "greece-ormos-panagias-cities-v2",
+  "anchor": {
+    "name": "Ormos Panagias",
+    "coords": [
+      23.73109,
+      40.2346
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:23",
+      "total_km": 5.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ormos Panagias Strand",
+            "hu": "Ormos Panagias strand",
+            "ro": "Plaja Ormos Panagias",
+            "en": "Ormos Panagias Beach"
+          },
+          "coords": [
+            23.73193,
+            40.234251
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Hafenatmosphäre am Strand von Ormos Panagias, wo frischer Meeresfrüchtefang anlandet, also kommen Sie früh für einen Platz nahe den Tavernen.",
+            "hu": "Élvezze Ormos Panagias strandjának nyüzsgő kikötői hangulatát, ahol a friss tengeri fogások partot érnek, ezért érkezzen korán, hogy helyet kapjon a tavernák közelében.",
+            "ro": "Bucurați-vă de atmosfera vibrantă a portului de pe plaja Ormos Panagias, unde ajung capturile proaspete de fructe de mare, așa că veniți devreme pentru un loc bun la taverne.",
+            "en": "Enjoy the vibrant harbor atmosphere of Ormos Panagias Beach, where fresh seafood catches meet the shore, so arrive early to secure a prime spot near the lively tavernas."
+          }
+        },
+        {
+          "name": {
+            "de": "Trani Ammouda Strand",
+            "hu": "Trani Ammouda strand",
+            "ro": "Plaja Trani Ammouda",
+            "en": "Trani Ammouda Beach"
+          },
+          "coords": [
+            23.725743,
+            40.241954
+          ],
+          "category": "recreational",
+          "arrive_at": "10:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am endlosen goldenen Sand von Trani Ammouda, der für sein kristallklares Wasser bekannt ist, aber bringen Sie einen eigenen Schirm mit, da Schatten knapp ist.",
+            "hu": "Pihenjen Trani Ammouda végtelennek tűnő aranyhomokján, amely kristálytiszta vizéről híres, de hozzon magával saját napernyőt, mivel a természetes árnyék meglehetősen ritka.",
+            "ro": "Relaxați-vă pe nisipul auriu nesfârșit de la Trani Ammouda, celebră pentru apele sale turcoaz cristaline, dar aduceți-vă propria umbrelă, deoarece umbra este destul de limitată.",
+            "en": "Relax on the seemingly endless golden sands of Trani Ammouda Beach, celebrated for its crystal-clear turquoise waters, but bring your own umbrella as shade is quite limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Paleofournos Metochi Xenofontos Agios Nikolaos",
+            "hu": "Paleofournos Metochi Xenofontos Agios Nikolaos",
+            "ro": "Paleofournos Metochi Xenofontos Agios Nikolaos",
+            "en": "Paleofournos Metochi Xenofontos Agios Nikolaos"
+          },
+          "coords": [
+            23.718638,
+            40.236644
+          ],
+          "category": "historical",
+          "arrive_at": "12:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Ruinen von Paleofournos Metochi, die spannende Einblicke in die klösterliche Vergangenheit bieten, also tragen Sie festes Schuhwerk für das Gelände.",
+            "hu": "Fedezze fel Paleofournos Metochi történelmi romjait, amelyek lenyűgöző bepillantást nyújtanak a régió kolostori múltjába, ezért viseljen masszív cipőt az egyenetlen terepen.",
+            "ro": "Explorați ruinele istorice ale Paleofournos Metochi, oferind o privire fascinantă asupra trecutului monahal al regiunii, așa că purtați încălțăminte adecvată pentru terenul accidentat.",
+            "en": "Explore the historic ruins of Paleofournos Metochi, offering a fascinating glimpse into the region's monastic past, so wear sturdy walking shoes to navigate the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Latoura Strand",
+            "hu": "Latoura strand",
+            "ro": "Plaja Latoura",
+            "en": "Latoura Beach"
+          },
+          "coords": [
+            23.738068,
+            40.229826
+          ],
+          "category": "recreational",
+          "arrive_at": "14:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie am ruhigen Latoura-Strand, einer Bucht mit flachem Wasser, perfekt zum Planschen, aber packen Sie ein Picknick ein, da es hier weniger Einrichtungen gibt.",
+            "hu": "Töltődjön fel a békés Latoura strandon, amelynek sekély és nyugodt vize tökéletes a fürdőzéshez, de csomagoljon pikniket, mivel itt kevesebb a kényelmi szolgáltatás.",
+            "ro": "Relaxați-vă la plaja liniștită Latoura, un golf cu ape puțin adânci și calme, perfect pentru bălăceală, dar luați un picnic, deoarece facilitățile sunt mai puține aici.",
+            "en": "Unwind at the serene Latoura Beach, a tranquil cove with shallow and calm waters perfect for wading, but pack a picnic as there are fewer nearby facilities than other spots."
+          }
+        },
+        {
+          "name": {
+            "de": "Mega Tichos (Große Mauer)",
+            "hu": "Mega Tichos (Nagy Fal)",
+            "ro": "Mega Tichos (Marele Zid)",
+            "en": "Mega Tichos (Big Wall)"
+          },
+          "coords": [
+            23.74297,
+            40.231477
+          ],
+          "category": "historical",
+          "arrive_at": "15:33",
+          "stay_min": 110,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die beeindruckenden antiken Überreste des Mega Tichos, einer historischen Küstenmauer, und besuchen Sie den Ort am späten Nachmittag für das beste Fotolicht.",
+            "hu": "Csodálja meg a Mega Tichos lenyűgöző ősi maradványait, egy történelmi falat, amely a partvonalat őrzi, és látogasson el késő délután a legjobb fotózási fényviszonyokért.",
+            "ro": "Admirați rămășițele antice impresionante ale Mega Tichos, un zid istoric ce păzește coasta, și vizitați-l după-amiaza târziu pentru cea mai bună lumină pentru fotografii.",
+            "en": "Marvel at the impressive ancient remnants of Mega Tichos, a historical wall guarding the coastline, and visit during the late afternoon for the best lighting for photography."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen bringt die Meeresbrise am lebhaften Hafen von Ormos Panagias.\n\nAm Mittag tauchen Sie in den Sand von Trani Ammouda ein oder entdecken Küstenruinen.\n\nDer Nachmittag lädt zur Erkundung alter Mauern und klösterlicher Überreste ein.\n\nAm Abend finden Sie einen ruhigen Strand für den Sonnenuntergang in dieser friedlichen Oase.",
+        "hu": "A reggel elhozza a tengeri szellőt Ormos Panagias pezsgő kikötőjébe.\n\nDélben merüljön el Trani Ammouda homokjában, vagy fedezze fel a parti romokat.\n\nA délután a régi falak és kolostormaradványok mélyebb felfedezésére csábít.\n\nAhogy leszáll az este, keressen egy csendes strandot a csodás naplemente megtekintéséhez.",
+        "ro": "Dimineața aduce briza mării în portul vibrant Ormos Panagias.\n\nLa prânz, scufundați-vă în nisipul din Trani Ammouda sau descoperiți ruinele de coastă.\n\nDupă-amiaza invită la explorarea zidurilor antice și a vestigiilor monahale.\n\nOdată cu lăsarea serii, găsiți o plajă liniștită pentru a privi apusul în acest refugiu.",
+        "en": "Morning brings the sea breeze at the vibrant Ormos Panagias harbor.\n\nBy midday, immerse yourself in the golden sands of Trani Ammouda or discover coastal ruins.\n\nThe afternoon invites deeper exploration of ancient walls and monastic remnants.\n\nAs evening falls, find a quiet beach to watch the sunset over this Mediterranean haven."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:26",
+      "total_km": 8.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ormos Panagias Strand",
+            "hu": "Ormos Panagias strand",
+            "ro": "Plaja Ormos Panagias",
+            "en": "Ormos Panagias Beach"
+          },
+          "coords": [
+            23.73193,
+            40.234251
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Hafenatmosphäre am Strand von Ormos Panagias, wo frischer Meeresfrüchtefang anlandet, also kommen Sie früh für einen Platz nahe den Tavernen.",
+            "hu": "Élvezze Ormos Panagias strandjának nyüzsgő kikötői hangulatát, ahol a friss tengeri fogások partot érnek, ezért érkezzen korán, hogy helyet kapjon a tavernák közelében.",
+            "ro": "Bucurați-vă de atmosfera vibrantă a portului de pe plaja Ormos Panagias, unde ajung capturile proaspete de fructe de mare, așa că veniți devreme pentru un loc bun la taverne.",
+            "en": "Enjoy the vibrant harbor atmosphere of Ormos Panagias Beach, where fresh seafood catches meet the shore, so arrive early to secure a prime spot near the lively tavernas."
+          }
+        },
+        {
+          "name": {
+            "de": "Paleofournos Metochi Xenofontos Agios Nikolaos",
+            "hu": "Paleofournos Metochi Xenofontos Agios Nikolaos",
+            "ro": "Paleofournos Metochi Xenofontos Agios Nikolaos",
+            "en": "Paleofournos Metochi Xenofontos Agios Nikolaos"
+          },
+          "coords": [
+            23.718638,
+            40.236644
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Ruinen von Paleofournos Metochi, die spannende Einblicke in die klösterliche Vergangenheit bieten, also tragen Sie festes Schuhwerk für das Gelände.",
+            "hu": "Fedezze fel Paleofournos Metochi történelmi romjait, amelyek lenyűgöző bepillantást nyújtanak a régió kolostori múltjába, ezért viseljen masszív cipőt az egyenetlen terepen.",
+            "ro": "Explorați ruinele istorice ale Paleofournos Metochi, oferind o privire fascinantă asupra trecutului monahal al regiunii, așa că purtați încălțăminte adecvată pentru terenul accidentat.",
+            "en": "Explore the historic ruins of Paleofournos Metochi, offering a fascinating glimpse into the region's monastic past, so wear sturdy walking shoes to navigate the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Trani Ammouda Strand",
+            "hu": "Trani Ammouda strand",
+            "ro": "Plaja Trani Ammouda",
+            "en": "Trani Ammouda Beach"
+          },
+          "coords": [
+            23.725743,
+            40.241954
+          ],
+          "category": "recreational",
+          "arrive_at": "12:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie am endlosen goldenen Sand von Trani Ammouda, der für sein kristallklares Wasser bekannt ist, aber bringen Sie einen eigenen Schirm mit, da Schatten knapp ist.",
+            "hu": "Pihenjen Trani Ammouda végtelennek tűnő aranyhomokján, amely kristálytiszta vizéről híres, de hozzon magával saját napernyőt, mivel a természetes árnyék meglehetősen ritka.",
+            "ro": "Relaxați-vă pe nisipul auriu nesfârșit de la Trani Ammouda, celebră pentru apele sale turcoaz cristaline, dar aduceți-vă propria umbrelă, deoarece umbra este destul de limitată.",
+            "en": "Relax on the seemingly endless golden sands of Trani Ammouda Beach, celebrated for its crystal-clear turquoise waters, but bring your own umbrella as shade is quite limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Pyrgos Agios Nikolaos Sithonia",
+            "hu": "Pyrgos Agios Nikolaos Sithonia",
+            "ro": "Pyrgos Agios Nikolaos Sithonia",
+            "en": "Pyrgos Agios Nikolaos Sithonia"
+          },
+          "coords": [
+            23.721331,
+            40.251777
+          ],
+          "category": "historical",
+          "arrive_at": "13:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Ruinen von Pyrgos Agios Nikolaos, Teil des antiken Singos, also halten Sie Ausschau nach verstreutem Mauerwerk, das in der Vegetation versteckt ist.",
+            "hu": "Fedezze fel Pyrgos Agios Nikolaos lenyűgöző romjait, amelyek vélhetően az ősi Singos részei voltak, ezért figyelje a növényzet között megbúvó elszórt ősi falazatokat.",
+            "ro": "Descoperiți ruinele fascinante de la Pyrgos Agios Nikolaos, probabil parte din vechiul Singos, așa că fiți atenți la zidăria antică împrăștiată și ascunsă printre vegetație.",
+            "en": "Discover the fascinating ruins of Pyrgos Agios Nikolaos, believed to be part of Ancient Singos, so keep an eye out for scattered ancient masonry hidden among the vegetation."
+          }
+        },
+        {
+          "name": {
+            "de": "Turm von Chrysokamaro",
+            "hu": "Chrysokamaro tornya",
+            "ro": "Turnul Chrysokamaro",
+            "en": "Tower of Chrysokamaro"
+          },
+          "coords": [
+            23.72313,
+            40.252462
+          ],
+          "category": "castle",
+          "arrive_at": "14:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Steigen Sie zum mittelalterlichen Turm von Chrysokamaro hinauf, einer Burgruine mit Panoramablick aufs Meer, aber achten Sie auf lose Steine auf dem rauen Küstenweg.",
+            "hu": "másszon fel Chrysokamaro középkori tornyához, egy védelmi kastélyromhoz, amely panorámás tengeri kilátást nyújt, de vigyázzon a laza kövekkel a zord part menti megközelítésnél.",
+            "ro": "Urcați la Turnul medieval Chrysokamaro, o ruină defensivă ce oferă vederi panoramice la mare, dar aveți grijă la pietrele libere de-a lungul abordării pe coasta stâncoasă.",
+            "en": "Climb up to the medieval Tower of Chrysokamaro, a defensive castle ruin offering panoramic sea views, but be cautious of loose stones along the rugged coastal approach."
+          }
+        },
+        {
+          "name": {
+            "de": "Pyrgos Strand",
+            "hu": "Pyrgos strand",
+            "ro": "Plaja Pyrgos",
+            "en": "Pyrgos Beach"
+          },
+          "coords": [
+            23.717366,
+            40.25363
+          ],
+          "category": "recreational",
+          "arrive_at": "16:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie ein erfrischendes Bad am Pyrgos-Strand, einem abgelegenen Sandstreifen direkt unter den historischen Ruinen, ideal um Geschichte mit Schwimmen zu verbinden.",
+            "hu": "Vegyen egy frissítő fürdőt a Pyrgos strandon, amely a történelmi romok alatt elterülő eldugott homoksáv, így ideális hely a történelem és a fürdőzés összekapcsolására.",
+            "ro": "Faceți o baie răcoritoare la plaja Pyrgos, o fâșie de nisip retrasă direct sub ruinele istorice, ceea ce o face un loc ideal pentru a îmbina explorarea istorică cu înotul.",
+            "en": "Take a refreshing dip at Pyrgos Beach, a secluded strip of sand directly beneath the historical ruins, making it an ideal spot to combine historical exploration with a swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Lagonisi Strand",
+            "hu": "Lagonisi strand",
+            "ro": "Plaja Lagonisi",
+            "en": "Lagonisi Beach"
+          },
+          "coords": [
+            23.746351,
+            40.229726
+          ],
+          "category": "recreational",
+          "arrive_at": "17:41",
+          "stay_min": 105,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Schwimmen Sie in der idyllischen, inselartigen Umgebung von Lagonisi, berühmt für weichen Sand und flaches türkisfarbenes Wasser, und mieten Sie eine Sonnenliege zur Entspannung.",
+            "hu": "Ússzon a Lagonisi strand idilli, szigetszerű környezetében, amely sima homokjáról és sekély türkizkék vizéről híres, és fontolja meg egy napágy bérlését a maximális pihenéshez.",
+            "ro": "Înotați în decorul idilic, asemănător unei insule, al plajei Lagonisi, renumită pentru nisipul fin și apele turcoaz, deci luați în considerare închirierea unui șezlong pentru relaxare.",
+            "en": "Swim in the idyllic, island-like setting of Lagonisi Beach, famous for its smooth sands and shallow turquoise waters, so consider renting a sunbed for ultimate relaxation."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen bringt die Meeresbrise am lebhaften Hafen von Ormos Panagias.\n\nAm Mittag tauchen Sie in den Sand von Trani Ammouda ein oder entdecken Küstenruinen.\n\nDer Nachmittag lädt zur Erkundung alter Mauern und klösterlicher Überreste ein.\n\nAm Abend finden Sie einen ruhigen Strand für den Sonnenuntergang in dieser friedlichen Oase.",
+        "hu": "A reggel elhozza a tengeri szellőt Ormos Panagias pezsgő kikötőjébe.\n\nDélben merüljön el Trani Ammouda homokjában, vagy fedezze fel a parti romokat.\n\nA délután a régi falak és kolostormaradványok mélyebb felfedezésére csábít.\n\nAhogy leszáll az este, keressen egy csendes strandot a csodás naplemente megtekintéséhez.",
+        "ro": "Dimineața aduce briza mării în portul vibrant Ormos Panagias.\n\nLa prânz, scufundați-vă în nisipul din Trani Ammouda sau descoperiți ruinele de coastă.\n\nDupă-amiaza invită la explorarea zidurilor antice și a vestigiilor monahale.\n\nOdată cu lăsarea serii, găsiți o plajă liniștită pentru a privi apusul în acest refugiu.",
+        "en": "Morning brings the sea breeze at the vibrant Ormos Panagias harbor.\n\nBy midday, immerse yourself in the golden sands of Trani Ammouda or discover coastal ruins.\n\nThe afternoon invites deeper exploration of ancient walls and monastic remnants.\n\nAs evening falls, find a quiet beach to watch the sunset over this Mediterranean haven."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:14",
+      "total_km": 8.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Paleofournos Metochi Xenofontos Agios Nikolaos",
+            "hu": "Paleofournos Metochi Xenofontos Agios Nikolaos",
+            "ro": "Paleofournos Metochi Xenofontos Agios Nikolaos",
+            "en": "Paleofournos Metochi Xenofontos Agios Nikolaos"
+          },
+          "coords": [
+            23.718638,
+            40.236644
+          ],
+          "category": "historical",
+          "arrive_at": "09:02",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Ruinen von Paleofournos Metochi, die spannende Einblicke in die klösterliche Vergangenheit bieten, also tragen Sie festes Schuhwerk für das Gelände.",
+            "hu": "Fedezze fel Paleofournos Metochi történelmi romjait, amelyek lenyűgöző bepillantást nyújtanak a régió kolostori múltjába, ezért viseljen masszív cipőt az egyenetlen terepen.",
+            "ro": "Explorați ruinele istorice ale Paleofournos Metochi, oferind o privire fascinantă asupra trecutului monahal al regiunii, așa că purtați încălțăminte adecvată pentru terenul accidentat.",
+            "en": "Explore the historic ruins of Paleofournos Metochi, offering a fascinating glimpse into the region's monastic past, so wear sturdy walking shoes to navigate the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Pyrgos Agios Nikolaos Sithonia",
+            "hu": "Pyrgos Agios Nikolaos Sithonia",
+            "ro": "Pyrgos Agios Nikolaos Sithonia",
+            "en": "Pyrgos Agios Nikolaos Sithonia"
+          },
+          "coords": [
+            23.721331,
+            40.251777
+          ],
+          "category": "historical",
+          "arrive_at": "10:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Ruinen von Pyrgos Agios Nikolaos, Teil des antiken Singos, also halten Sie Ausschau nach verstreutem Mauerwerk, das in der Vegetation versteckt ist.",
+            "hu": "Fedezze fel Pyrgos Agios Nikolaos lenyűgöző romjait, amelyek vélhetően az ősi Singos részei voltak, ezért figyelje a növényzet között megbúvó elszórt ősi falazatokat.",
+            "ro": "Descoperiți ruinele fascinante de la Pyrgos Agios Nikolaos, probabil parte din vechiul Singos, așa că fiți atenți la zidăria antică împrăștiată și ascunsă printre vegetație.",
+            "en": "Discover the fascinating ruins of Pyrgos Agios Nikolaos, believed to be part of Ancient Singos, so keep an eye out for scattered ancient masonry hidden among the vegetation."
+          }
+        },
+        {
+          "name": {
+            "de": "Turm von Chrysokamaro",
+            "hu": "Chrysokamaro tornya",
+            "ro": "Turnul Chrysokamaro",
+            "en": "Tower of Chrysokamaro"
+          },
+          "coords": [
+            23.72313,
+            40.252462
+          ],
+          "category": "castle",
+          "arrive_at": "11:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Steigen Sie zum mittelalterlichen Turm von Chrysokamaro hinauf, einer Burgruine mit Panoramablick aufs Meer, aber achten Sie auf lose Steine auf dem rauen Küstenweg.",
+            "hu": "másszon fel Chrysokamaro középkori tornyához, egy védelmi kastélyromhoz, amely panorámás tengeri kilátást nyújt, de vigyázzon a laza kövekkel a zord part menti megközelítésnél.",
+            "ro": "Urcați la Turnul medieval Chrysokamaro, o ruină defensivă ce oferă vederi panoramice la mare, dar aveți grijă la pietrele libere de-a lungul abordării pe coasta stâncoasă.",
+            "en": "Climb up to the medieval Tower of Chrysokamaro, a defensive castle ruin offering panoramic sea views, but be cautious of loose stones along the rugged coastal approach."
+          }
+        },
+        {
+          "name": {
+            "de": "Pyrgos Strand",
+            "hu": "Pyrgos strand",
+            "ro": "Plaja Pyrgos",
+            "en": "Pyrgos Beach"
+          },
+          "coords": [
+            23.717366,
+            40.25363
+          ],
+          "category": "recreational",
+          "arrive_at": "13:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie ein erfrischendes Bad am Pyrgos-Strand, einem abgelegenen Sandstreifen direkt unter den historischen Ruinen, ideal um Geschichte mit Schwimmen zu verbinden.",
+            "hu": "Vegyen egy frissítő fürdőt a Pyrgos strandon, amely a történelmi romok alatt elterülő eldugott homoksáv, így ideális hely a történelem és a fürdőzés összekapcsolására.",
+            "ro": "Faceți o baie răcoritoare la plaja Pyrgos, o fâșie de nisip retrasă direct sub ruinele istorice, ceea ce o face un loc ideal pentru a îmbina explorarea istorică cu înotul.",
+            "en": "Take a refreshing dip at Pyrgos Beach, a secluded strip of sand directly beneath the historical ruins, making it an ideal spot to combine historical exploration with a swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Trani Ammouda Strand",
+            "hu": "Trani Ammouda strand",
+            "ro": "Plaja Trani Ammouda",
+            "en": "Trani Ammouda Beach"
+          },
+          "coords": [
+            23.725743,
+            40.241954
+          ],
+          "category": "recreational",
+          "arrive_at": "14:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie am endlosen goldenen Sand von Trani Ammouda, der für sein kristallklares Wasser bekannt ist, aber bringen Sie einen eigenen Schirm mit, da Schatten knapp ist.",
+            "hu": "Pihenjen Trani Ammouda végtelennek tűnő aranyhomokján, amely kristálytiszta vizéről híres, de hozzon magával saját napernyőt, mivel a természetes árnyék meglehetősen ritka.",
+            "ro": "Relaxați-vă pe nisipul auriu nesfârșit de la Trani Ammouda, celebră pentru apele sale turcoaz cristaline, dar aduceți-vă propria umbrelă, deoarece umbra este destul de limitată.",
+            "en": "Relax on the seemingly endless golden sands of Trani Ammouda Beach, celebrated for its crystal-clear turquoise waters, but bring your own umbrella as shade is quite limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Ormos Panagias Strand",
+            "hu": "Ormos Panagias strand",
+            "ro": "Plaja Ormos Panagias",
+            "en": "Ormos Panagias Beach"
+          },
+          "coords": [
+            23.73193,
+            40.234251
+          ],
+          "category": "recreational",
+          "arrive_at": "15:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Hafenatmosphäre am Strand von Ormos Panagias, wo frischer Meeresfrüchtefang anlandet, also kommen Sie früh für einen Platz nahe den Tavernen.",
+            "hu": "Élvezze Ormos Panagias strandjának nyüzsgő kikötői hangulatát, ahol a friss tengeri fogások partot érnek, ezért érkezzen korán, hogy helyet kapjon a tavernák közelében.",
+            "ro": "Bucurați-vă de atmosfera vibrantă a portului de pe plaja Ormos Panagias, unde ajung capturile proaspete de fructe de mare, așa că veniți devreme pentru un loc bun la taverne.",
+            "en": "Enjoy the vibrant harbor atmosphere of Ormos Panagias Beach, where fresh seafood catches meet the shore, so arrive early to secure a prime spot near the lively tavernas."
+          }
+        },
+        {
+          "name": {
+            "de": "Lagonisi Strand",
+            "hu": "Lagonisi strand",
+            "ro": "Plaja Lagonisi",
+            "en": "Lagonisi Beach"
+          },
+          "coords": [
+            23.746351,
+            40.229726
+          ],
+          "category": "recreational",
+          "arrive_at": "17:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schwimmen Sie in der idyllischen, inselartigen Umgebung von Lagonisi, berühmt für weichen Sand und flaches türkisfarbenes Wasser, und mieten Sie eine Sonnenliege zur Entspannung.",
+            "hu": "Ússzon a Lagonisi strand idilli, szigetszerű környezetében, amely sima homokjáról és sekély türkizkék vizéről híres, és fontolja meg egy napágy bérlését a maximális pihenéshez.",
+            "ro": "Înotați în decorul idilic, asemănător unei insule, al plajei Lagonisi, renumită pentru nisipul fin și apele turcoaz, deci luați în considerare închirierea unui șezlong pentru relaxare.",
+            "en": "Swim in the idyllic, island-like setting of Lagonisi Beach, famous for its smooth sands and shallow turquoise waters, so consider renting a sunbed for ultimate relaxation."
+          }
+        },
+        {
+          "name": {
+            "de": "Galini Strand",
+            "hu": "Galini strand",
+            "ro": "Plaja Galini",
+            "en": "Galini Beach"
+          },
+          "coords": [
+            23.757235,
+            40.226969
+          ],
+          "category": "recreational",
+          "arrive_at": "18:29",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Ziehen Sie sich an die friedlichen Ufer des Galini-Strandes zurück, eine Oase ohne Menschenmassen, perfekt für den Sonnenuntergang, also bleiben Sie bis zur Dämmerung für Fotos.",
+            "hu": "Vonuljon el a Galini strand békés partjaira, egy zsúfoltság nélküli menedékre, amely tökéletes a naplemente megtekintéséhez, ezért maradjon sötétedésig, hogy lenyűgöző fotókat készítsen.",
+            "ro": "Retrageți-vă pe țărmurile pașnice ale plajei Galini, un refugiu neaglomerat, perfect pentru a privi apusul, așa că rămâneți până la amurg pentru fotografii uimitoare ale orizontului.",
+            "en": "Retreat to the peaceful shores of Galini Beach, an uncrowded haven perfect for watching the sunset, so stay until dusk to capture stunning photos of the colorful horizon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen bringt die Meeresbrise am lebhaften Hafen von Ormos Panagias.\n\nAm Mittag tauchen Sie in den Sand von Trani Ammouda ein oder entdecken Küstenruinen.\n\nDer Nachmittag lädt zur Erkundung alter Mauern und klösterlicher Überreste ein.\n\nAm Abend finden Sie einen ruhigen Strand für den Sonnenuntergang in dieser friedlichen Oase.",
+        "hu": "A reggel elhozza a tengeri szellőt Ormos Panagias pezsgő kikötőjébe.\n\nDélben merüljön el Trani Ammouda homokjában, vagy fedezze fel a parti romokat.\n\nA délután a régi falak és kolostormaradványok mélyebb felfedezésére csábít.\n\nAhogy leszáll az este, keressen egy csendes strandot a csodás naplemente megtekintéséhez.",
+        "ro": "Dimineața aduce briza mării în portul vibrant Ormos Panagias.\n\nLa prânz, scufundați-vă în nisipul din Trani Ammouda sau descoperiți ruinele de coastă.\n\nDupă-amiaza invită la explorarea zidurilor antice și a vestigiilor monahale.\n\nOdată cu lăsarea serii, găsiți o plajă liniștită pentru a privi apusul în acest refugiu.",
+        "en": "Morning brings the sea breeze at the vibrant Ormos Panagias harbor.\n\nBy midday, immerse yourself in the golden sands of Trani Ammouda or discover coastal ruins.\n\nThe afternoon invites deeper exploration of ancient walls and monastic remnants.\n\nAs evening falls, find a quiet beach to watch the sunset over this Mediterranean haven."
+      }
+    }
+  }
+}

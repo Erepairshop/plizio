@@ -1,0 +1,428 @@
+{
+  "city_id": "frouard",
+  "anchor": {
+    "name": "Frouard",
+    "coords": [
+      6.1289,
+      48.7606
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:44",
+      "total_km": 1.59,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Epvre",
+            "hu": "Église Saint-Epvre",
+            "ro": "Église Saint-Epvre",
+            "en": "Église Saint-Epvre"
+          },
+          "coords": [
+            6.118552,
+            48.763288
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische religiöse Architektur dieser historischen Kirche, die als ruhiger Mittelpunkt dient, und kommen Sie früh am Morgen für das beste Licht.",
+            "hu": "Csodálja meg e történelmi templom klasszikus vallási építészetét, amely békés központként szolgál, és látogasson el kora reggel a legjobb fényviszonyokért.",
+            "ro": "Admirați arhitectura religioasă clasică a acestei biserici istorice, ce servește drept un punct de reper senin, și vizitați-o dimineața devreme pentru cea mai bună lumină.",
+            "en": "Admire the classic religious architecture of this historic church, which serves as a serene focal point, and visit in the early morning for the best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Jean-Baptiste",
+            "hu": "Église Saint-Jean-Baptiste",
+            "ro": "Église Saint-Jean-Baptiste",
+            "en": "Église Saint-Jean-Baptiste"
+          },
+          "coords": [
+            6.123441,
+            48.759651
+          ],
+          "category": "religious",
+          "arrive_at": "09:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.54,
+          "tip_5lang": {
+            "de": "Entdecken Sie die feinen Details und die friedliche Atmosphäre dieser wichtigen örtlichen Gemeinde und werfen Sie unbedingt einen Blick auf das Altarbild im Inneren.",
+            "hu": "Fedezze fel e fontos helyi plébánia bonyolult részleteit és békés hangulatát, és feltétlenül lépjen be, hogy megtekintse a megőrzött oltárképet.",
+            "ro": "Descoperiți detaliile complicate și atmosfera pașnică a acestei importante parohii locale, asigurându-vă că intrați pentru a vedea altarul său conservat.",
+            "en": "Discover the intricate details and peaceful atmosphere of this important local parish, making sure to step inside to view its preserved altarpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Forteresse des Rays",
+            "hu": "Forteresse des Rays",
+            "ro": "Forteresse des Rays",
+            "en": "Forteresse des Rays"
+          },
+          "coords": [
+            6.122933,
+            48.757262
+          ],
+          "category": "historical",
+          "arrive_at": "10:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Erkunden Sie die stimmungsvollen Ruinen dieser mittelalterlichen Festung, die von vergangenen Konflikten erzählen, und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel e középkori erőd sokatmondó romjait, amelyek múltbeli konfliktusokról mesélnek, és viseljen masszív cipőt az egyenetlen köveken való séta miatt.",
+            "ro": "Explorați ruinele evocatoare ale acestei fortărețe medievale care spun povești despre conflictele trecute și purtați încălțăminte robustă pentru a naviga pe pietrele antice inegale.",
+            "en": "Explore the evocative ruins of this medieval fortress that tell tales of past conflicts, and wear sturdy shoes for navigating the uneven ancient stonework."
+          }
+        },
+        {
+          "name": {
+            "de": "Théâtre Gérard Philipe",
+            "hu": "Théâtre Gérard Philipe",
+            "ro": "Théâtre Gérard Philipe",
+            "en": "Théâtre Gérard Philipe"
+          },
+          "coords": [
+            6.129409,
+            48.760282
+          ],
+          "category": "cultural",
+          "arrive_at": "12:11",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.57,
+          "tip_5lang": {
+            "de": "Erleben Sie den kulturellen Herzschlag von Frouard an diesem Veranstaltungsort und prüfen Sie den Spielplan im Voraus, um eine Probe oder Show zu sehen.",
+            "hu": "Tapasztalja meg Frouard kulturális szívverését ezen az előadóhelyen, és érdemes előre ellenőrizni a helyi műsort egy matiné előadás vagy próba kedvéért.",
+            "ro": "Experimentați pulsul cultural al orașului Frouard la acest spațiu de spectacole, verificând programul local în avans pentru a prinde o repetiție sau un spectacol.",
+            "en": "Experience the cultural heartbeat of Frouard at this dedicated performance space, checking the local schedule in advance to catch a matinee rehearsal or show."
+          }
+        },
+        {
+          "name": {
+            "de": "Espace 89",
+            "hu": "Espace 89",
+            "ro": "Espace 89",
+            "en": "Espace 89"
+          },
+          "coords": [
+            6.132135,
+            48.76078
+          ],
+          "category": "cultural",
+          "arrive_at": "13:14",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Entdecken Sie Kunst und Ausstellungen der Gemeinde an diesem modernen Kulturort und bringen Sie eine Kamera mit, um die oft gezeigten zeitgenössischen Werke festzuhalten.",
+            "hu": "Ismerkedjen meg a közösségi művészetekkel és kiállításokkal ezen a modern kulturális helyszínen, és hozzon magával fényképezőgépet a kortárs alkotások megörökítéséhez.",
+            "ro": "Interacționați cu artele și expozițiile comunitare la acest spațiu cultural modern, aducând o cameră foto pentru a surprinde exponatele artistice contemporane.",
+            "en": "Engage with community arts and exhibitions at this modern cultural venue, bringing along a camera to capture the contemporary artistic displays often featured here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt an der historischen Église Saint-Epvre, um die Architektur zu bewundern. Mittags entdecken wir die Église Saint-Jean-Baptiste und die Forteresse des Rays. Der Nachmittag steht im Théâtre Gérard Philipe ganz im Zeichen der Kultur. Der Abend endet entspannt in der Nähe des Espace 89 im belebten Zentrum.",
+        "hu": "A reggel a történelmi Église Saint-Epvre templománál kezdődik, megcsodálva vallási építészetét. Délben az Église Saint-Jean-Baptiste és a Forteresse des Rays romjai következnek. A délután a kultúráé a Théâtre Gérard Philipe-ben. Az este az Espace 89 közelében zárul, élvezve a városközpont nyüzsgését.",
+        "ro": "Dimineața începe la istorica Église Saint-Epvre, admirând arhitectura sa religioasă. La prânz explorăm Église Saint-Jean-Baptiste și ruinele Forteresse des Rays. După-amiaza este dedicată culturii la Théâtre Gérard Philipe. Seara se încheie relaxant lângă Espace 89, bucurându-ne de atmosfera centrală a orașului.",
+        "en": "Morning begins with the historic Église Saint-Epvre, tracing its religious architecture. Midday leads us to Église Saint-Jean-Baptiste and the evocative ruins of Forteresse des Rays. Afternoon shifts to culture at Théâtre Gérard Philipe. Evening concludes with a relaxing stroll near Espace 89, enjoying the town's central vibrancy."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:07",
+      "total_km": 4.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Epvre",
+            "hu": "Église Saint-Epvre",
+            "ro": "Église Saint-Epvre",
+            "en": "Église Saint-Epvre"
+          },
+          "coords": [
+            6.118552,
+            48.763288
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische religiöse Architektur dieser historischen Kirche, die als ruhiger Mittelpunkt dient, und kommen Sie früh am Morgen für das beste Licht.",
+            "hu": "Csodálja meg e történelmi templom klasszikus vallási építészetét, amely békés központként szolgál, és látogasson el kora reggel a legjobb fényviszonyokért.",
+            "ro": "Admirați arhitectura religioasă clasică a acestei biserici istorice, ce servește drept un punct de reper senin, și vizitați-o dimineața devreme pentru cea mai bună lumină.",
+            "en": "Admire the classic religious architecture of this historic church, which serves as a serene focal point, and visit in the early morning for the best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Forteresse des Rays",
+            "hu": "Forteresse des Rays",
+            "ro": "Forteresse des Rays",
+            "en": "Forteresse des Rays"
+          },
+          "coords": [
+            6.122933,
+            48.757262
+          ],
+          "category": "historical",
+          "arrive_at": "09:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.74,
+          "tip_5lang": {
+            "de": "Erkunden Sie die stimmungsvollen Ruinen dieser mittelalterlichen Festung, die von vergangenen Konflikten erzählen, und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel e középkori erőd sokatmondó romjait, amelyek múltbeli konfliktusokról mesélnek, és viseljen masszív cipőt az egyenetlen köveken való séta miatt.",
+            "ro": "Explorați ruinele evocatoare ale acestei fortărețe medievale care spun povești despre conflictele trecute și purtați încălțăminte robustă pentru a naviga pe pietrele antice inegale.",
+            "en": "Explore the evocative ruins of this medieval fortress that tell tales of past conflicts, and wear sturdy shoes for navigating the uneven ancient stonework."
+          }
+        },
+        {
+          "name": {
+            "de": "Port de Frouard",
+            "hu": "Port de Frouard",
+            "ro": "Port de Frouard",
+            "en": "Port de Frouard"
+          },
+          "coords": [
+            6.14804,
+            48.7542
+          ],
+          "category": "civic",
+          "arrive_at": "11:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.86,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Boote am Knotenpunkt der Wasserstraßen an diesem wichtigen Binnenhafen, ein perfekter Ort für ein Picknick, während Sie die Infrastruktur betrachten.",
+            "hu": "Figyelje a hajókat a vízi utak találkozásánál ebben a fontos belvízi kikötőben, amely tökéletes hely egy csomagolt ebéd elfogyasztására és a civil infrastruktúra megfigyelésére.",
+            "ro": "Urmăriți bărcile navigând prin joncțiunea căilor navigabile la acest port interior crucial, un loc perfect pentru a savura un prânz la pachet în timp ce observați infrastructura.",
+            "en": "Watch the boats navigate the junction of the waterways at this crucial inland port, a perfect spot to enjoy a packed lunch while observing the civic infrastructure."
+          }
+        },
+        {
+          "name": {
+            "de": "Batterie de l'Eperon",
+            "hu": "Batterie de l'Eperon",
+            "ro": "Batterie de l'Eperon",
+            "en": "Batterie de l'Eperon"
+          },
+          "coords": [
+            6.141121,
+            48.747447
+          ],
+          "category": "fortress",
+          "arrive_at": "12:09",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Steigen Sie zu dieser strategischen Militäranlage hinauf, die tiefen historischen Kontext bietet, und bringen Sie eine Taschenlampe mit, um in die Bunker zu schauen.",
+            "hu": "Másszon fel ehhez a mély történelmi kontextust kínáló, stratégiai katonai létesítményhez, és hozzon zseblámpát a sötétebb, megőrzött betonbunkerekbe való betekintéshez.",
+            "ro": "Urcați la această instalație militară strategică ce oferă un context istoric profund, aducând o lanternă pentru a privi în buncărele întunecate din beton.",
+            "en": "Climb up to this strategic military installation offering deep historical context, bringing a flashlight to peer into the darker, preserved concrete bunkers."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort de Frouard",
+            "hu": "Fort de Frouard",
+            "ro": "Fort de Frouard",
+            "en": "Fort de Frouard"
+          },
+          "coords": [
+            6.13297,
+            48.7359
+          ],
+          "category": "fortress",
+          "arrive_at": "13:17",
+          "stay_min": 110,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Ausmaße dieses dominanten Verteidigungsbaus, der das Tal bewacht, und bringen Sie eine leichte Jacke mit, da der Wind hier oben frisch sein kann.",
+            "hu": "Csodálja meg e völgyet őrző, domináns védelmi építmény hatalmas méreteit, ahová érdemes könnyű kabátot hozni, mivel a magaslati szél meglehetősen hűvös lehet.",
+            "ro": "Minunați-vă de scara masivă a acestei structuri defensive dominante care păzește valea, unde aducerea unei jachete ușoare este înțeleaptă, deoarece vânturile pot fi destul de aspre.",
+            "en": "Marvel at the massive scale of this dominant defensive structure guarding the valley, where bringing a light jacket is wise as the elevated winds can be quite brisk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie an der ruhigen Église Saint-Epvre, bevor Sie zur mittelalterlichen Forteresse des Rays radeln. Mittags bietet sich eine malerische Fahrt zum Port de Frouard an. Am Nachmittag erklimmen Sie die historische Batterie de l'Eperon. Der Abend belohnt Sie am Fort de Frouard mit einem weiten Blick über das Tal.",
+        "hu": "Kezdje a békés Église Saint-Epvre-nél, majd tekerjen a középkori Forteresse des Rays-hoz. Délben festői út vezet a víz mentén a Port de Frouard-hoz. Délután a történelmi Batterie de l'Eperon emelkedője várja. Az este a Fort de Frouard lenyűgöző völgypanorámájával jutalmazza meg fáradozásait.",
+        "ro": "Începeți la liniștita Église Saint-Epvre, apoi pedalați spre Forteresse des Rays. Prânzul aduce o plimbare pitorească spre Port de Frouard, de-a lungul apei. După-amiaza vă provoacă la o urcare spre istorica Batterie de l'Eperon. Seara vă răsplătește efortul la Fort de Frouard cu priveliști ample.",
+        "en": "Start with the tranquil Église Saint-Epvre before cycling to the medieval Forteresse des Rays. Midday brings a scenic ride to Port de Frouard along the water. Afternoon challenges you with a climb to the historic Batterie de l'Eperon. Evening rewards your effort at Fort de Frouard with expansive views over the valley."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:55",
+      "total_km": 9.37,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Les Berges de la Moselle",
+            "hu": "Les Berges de la Moselle",
+            "ro": "Les Berges de la Moselle",
+            "en": "Les Berges de la Moselle"
+          },
+          "coords": [
+            6.056791,
+            48.747146
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie eine erfrischende Flucht in die Natur an den malerischen Ufern der Mosel, ideal, um ein Fahrrad zu mieten oder einfach die gepflegten Wege zu spazieren.",
+            "hu": "Élvezze a természetbe való frissítő menekülést a Moselle folyó festői partján, amely ideális kerékpárbérlésre vagy egyszerűen csak a jól karbantartott parti utakon való sétára.",
+            "ro": "Bucurați-vă de o evadare revigorantă în natură de-a lungul malurilor pitorești ale râului Moselle, fiind ideal să închiriați o bicicletă sau să vă plimbați pe potecile bine întreținute.",
+            "en": "Enjoy a refreshing escape into nature along the scenic banks of the Moselle river, making it ideal to rent a bike or just walk the well-maintained riverfront paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Jean-Baptiste",
+            "hu": "Église Saint-Jean-Baptiste",
+            "ro": "Église Saint-Jean-Baptiste",
+            "en": "Église Saint-Jean-Baptiste"
+          },
+          "coords": [
+            6.123441,
+            48.759651
+          ],
+          "category": "religious",
+          "arrive_at": "10:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.05,
+          "tip_5lang": {
+            "de": "Entdecken Sie die feinen Details und die friedliche Atmosphäre dieser wichtigen örtlichen Gemeinde und werfen Sie unbedingt einen Blick auf das Altarbild im Inneren.",
+            "hu": "Fedezze fel e fontos helyi plébánia bonyolult részleteit és békés hangulatát, és feltétlenül lépjen be, hogy megtekintse a megőrzött oltárképet.",
+            "ro": "Descoperiți detaliile complicate și atmosfera pașnică a acestei importante parohii locale, asigurându-vă că intrați pentru a vedea altarul său conservat.",
+            "en": "Discover the intricate details and peaceful atmosphere of this important local parish, making sure to step inside to view its preserved altarpiece."
+          }
+        },
+        {
+          "name": {
+            "de": "Espace 89",
+            "hu": "Espace 89",
+            "ro": "Espace 89",
+            "en": "Espace 89"
+          },
+          "coords": [
+            6.132135,
+            48.76078
+          ],
+          "category": "cultural",
+          "arrive_at": "11:17",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Entdecken Sie Kunst und Ausstellungen der Gemeinde an diesem modernen Kulturort und bringen Sie eine Kamera mit, um die oft gezeigten zeitgenössischen Werke festzuhalten.",
+            "hu": "Ismerkedjen meg a közösségi művészetekkel és kiállításokkal ezen a modern kulturális helyszínen, és hozzon magával fényképezőgépet a kortárs alkotások megörökítéséhez.",
+            "ro": "Interacționați cu artele și expozițiile comunitare la acest spațiu cultural modern, aducând o cameră foto pentru a surprinde exponatele artistice contemporane.",
+            "en": "Engage with community arts and exhibitions at this modern cultural venue, bringing along a camera to capture the contemporary artistic displays often featured here."
+          }
+        },
+        {
+          "name": {
+            "de": "Port de Frouard",
+            "hu": "Port de Frouard",
+            "ro": "Port de Frouard",
+            "en": "Port de Frouard"
+          },
+          "coords": [
+            6.14804,
+            48.7542
+          ],
+          "category": "civic",
+          "arrive_at": "12:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.37,
+          "tip_5lang": {
+            "de": "Beobachten Sie die Boote am Knotenpunkt der Wasserstraßen an diesem wichtigen Binnenhafen, ein perfekter Ort für ein Picknick, während Sie die Infrastruktur betrachten.",
+            "hu": "Figyelje a hajókat a vízi utak találkozásánál ebben a fontos belvízi kikötőben, amely tökéletes hely egy csomagolt ebéd elfogyasztására és a civil infrastruktúra megfigyelésére.",
+            "ro": "Urmăriți bărcile navigând prin joncțiunea căilor navigabile la acest port interior crucial, un loc perfect pentru a savura un prânz la pachet în timp ce observați infrastructura.",
+            "en": "Watch the boats navigate the junction of the waterways at this crucial inland port, a perfect spot to enjoy a packed lunch while observing the civic infrastructure."
+          }
+        },
+        {
+          "name": {
+            "de": "Batterie de l'Eperon",
+            "hu": "Batterie de l'Eperon",
+            "ro": "Batterie de l'Eperon",
+            "en": "Batterie de l'Eperon"
+          },
+          "coords": [
+            6.141121,
+            48.747447
+          ],
+          "category": "fortress",
+          "arrive_at": "13:02",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Steigen Sie zu dieser strategischen Militäranlage hinauf, die tiefen historischen Kontext bietet, und bringen Sie eine Taschenlampe mit, um in die Bunker zu schauen.",
+            "hu": "Másszon fel ehhez a mély történelmi kontextust kínáló, stratégiai katonai létesítményhez, és hozzon zseblámpát a sötétebb, megőrzött betonbunkerekbe való betekintéshez.",
+            "ro": "Urcați la această instalație militară strategică ce oferă un context istoric profund, aducând o lanternă pentru a privi în buncărele întunecate din beton.",
+            "en": "Climb up to this strategic military installation offering deep historical context, bringing a flashlight to peer into the darker, preserved concrete bunkers."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort de Frouard",
+            "hu": "Fort de Frouard",
+            "ro": "Fort de Frouard",
+            "en": "Fort de Frouard"
+          },
+          "coords": [
+            6.13297,
+            48.7359
+          ],
+          "category": "fortress",
+          "arrive_at": "14:05",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Ausmaße dieses dominanten Verteidigungsbaus, der das Tal bewacht, und bringen Sie eine leichte Jacke mit, da der Wind hier oben frisch sein kann.",
+            "hu": "Csodálja meg e völgyet őrző, domináns védelmi építmény hatalmas méreteit, ahová érdemes könnyű kabátot hozni, mivel a magaslati szél meglehetősen hűvös lehet.",
+            "ro": "Minunați-vă de scara masivă a acestei structuri defensive dominante care păzește valea, unde aducerea unei jachete ușoare este înțeleaptă, deoarece vânturile pot fi destul de aspre.",
+            "en": "Marvel at the massive scale of this dominant defensive structure guarding the valley, where bringing a light jacket is wise as the elevated winds can be quite brisk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt entspannt an den Berges de la Moselle, bevor Sie zur Église Saint-Jean-Baptiste fahren. Mittags locken das Espace 89 und eine Pause am Port de Frouard. Nachmittags geht es hinauf zur Batterie de l'Eperon. Der Abend endet majestätisch am weitläufigen Fort de Frouard.",
+        "hu": "A reggel frissítő sétával indul a Les Berges de la Moselle partján, majd az Église Saint-Jean-Baptiste-hoz hajtunk. Délben az Espace 89 és a Port de Frouard nyújt pihenőt. Délután a dombok felé vesszük az irányt a Batterie de l'Eperon-hoz. Az estét a Fort de Frouard fenséges látványa zárja.",
+        "ro": "Dimineața începe cu o plimbare pe Les Berges de la Moselle, înainte de a conduce spre Église Saint-Jean-Baptiste. La prânz vizităm Espace 89 și facem o pauză la Port de Frouard. După-amiaza ne poartă pe dealuri pentru a explora Batterie de l'Eperon. Seara se încheie maiestuos la Fort de Frouard.",
+        "en": "Morning starts with a refreshing walk at Les Berges de la Moselle before driving to Église Saint-Jean-Baptiste. Midday shifts to cultural insights at Espace 89 and a break at Port de Frouard. Afternoon takes you up the hills to explore the Batterie de l'Eperon. Evening concludes majestically at Fort de Frouard."
+      }
+    }
+  }
+}

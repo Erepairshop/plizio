@@ -1,0 +1,451 @@
+{
+  "city_id": "ireland-skibbereen-cities-v2",
+  "anchor": {
+    "name": "Skibbereen",
+    "coords": [
+      -9.26,
+      51.54
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:35",
+      "total_km": 1.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Skibbereen Town Hall",
+            "hu": "Skibbereen Városháza",
+            "ro": "Primăria Skibbereen",
+            "en": "Skibbereen Town Hall"
+          },
+          "coords": [
+            -9.265804,
+            51.5493
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur dieses historischen Gebäudes, das als kulturelles Zentrum der Stadt dient, und achten Sie auf Veranstaltungsankündigungen an der Tür.",
+            "hu": "Csodálja meg e történelmi épület klasszikus építészetét, amely a város kulturális központjaként szolgál, és figyelje az ajtón lévő eseményhirdetéseket.",
+            "ro": "Admirați arhitectura clasică a acestei clădiri istorice, care servește drept centru cultural al orașului, și verificați anunțurile de evenimente de pe ușă.",
+            "en": "Admire the classic architecture of this historical building, which serves as the town's cultural hub, and check the door for local event announcements."
+          }
+        },
+        {
+          "name": {
+            "de": "West Cork Arts Centre",
+            "hu": "Nyugat-Cork Művészeti Központ",
+            "ro": "Centrul de Arte West Cork",
+            "en": "West Cork Arts Centre"
+          },
+          "coords": [
+            -9.267582,
+            51.54877
+          ],
+          "category": "cultural",
+          "arrive_at": "10:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie zeitgenössische Kunstwerke lokaler Talente in dieser pulsierenden Galerie, wobei Sie sich besonders viel Zeit für die wechselnden Ausstellungen im Hauptraum nehmen sollten.",
+            "hu": "Fedezze fel a helyi tehetségek kortárs műalkotásait ebben a nyüzsgő galériában, és szánjon különösen sok időt a főterem időszaki kiállításaira.",
+            "ro": "Descoperiți opere de artă contemporană ale talentelor locale în această galerie vibrantă, alocând mult timp pentru expozițiile rotative din camera principală.",
+            "en": "Discover contemporary artworks by local talents in this vibrant gallery, making sure to allocate plenty of time for the rotating exhibitions in the main room."
+          }
+        },
+        {
+          "name": {
+            "de": "Abbeystrewry Church of Ireland",
+            "hu": "Abbeystrewry Írországi Egyház Temploma",
+            "ro": "Biserica Irlandei Abbeystrewry",
+            "en": "Abbeystrewry Church of Ireland"
+          },
+          "coords": [
+            -9.270435,
+            51.549148
+          ],
+          "category": "religious",
+          "arrive_at": "11:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese friedliche Kirche, um ihre schönen Buntglasfenster und die ruhige Atmosphäre zu erleben, und kleiden Sie sich für das kühle Innere in Schichten.",
+            "hu": "Látogasson el ebbe a békés templomba, hogy megcsodálja gyönyörű ólomüveg ablakait és nyugodt légkörét, és öltözzön rétegesen a hűvös belső tér miatt.",
+            "ro": "Vizitați această biserică pașnică pentru a vedea vitraliile sale frumoase și atmosfera liniștită, îmbrăcându-vă în straturi pentru interiorul răcoros.",
+            "en": "Visit this peaceful church to experience its beautiful stained glass windows and serene atmosphere, remembering to dress in layers for the cool interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Heritage Centre",
+            "hu": "Örökségvédelmi Központ",
+            "ro": "Centrul de Patrimoniu",
+            "en": "Heritage Centre"
+          },
+          "coords": [
+            -9.272135,
+            51.550964
+          ],
+          "category": "museum",
+          "arrive_at": "12:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erfahren Sie in dieser ergreifenden Ausstellung alles über die Große Hungersnot und die Geschichte der Region, wobei Sie unbedingt den detaillierten Audioguide nutzen sollten.",
+            "hu": "Tudjon meg mindent a Nagy Éhínségről és a régió történelméről ebben a megrázó kiállításban, és mindenképpen használja a részletes audioguide-ot.",
+            "ro": "Aflați totul despre Marea Foamete și istoria regiunii în această expoziție emoționantă, asigurându-vă că utilizați ghidul audio detaliat.",
+            "en": "Learn all about the Great Famine and regional history in this poignant exhibition, making sure to utilize the highly informative detailed audio guide."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Patrick's Cathedral",
+            "hu": "Szent Patrik-katedrális",
+            "ro": "Catedrala Sf. Patrick",
+            "en": "St. Patrick's Cathedral"
+          },
+          "coords": [
+            -9.26373,
+            51.552054
+          ],
+          "category": "religious",
+          "arrive_at": "14:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die neoklassizistische Pracht dieser bedeutenden Kathedrale, die das Stadtbild prägt, und besuchen Sie sie am besten am späten Nachmittag für das schönste Licht.",
+            "hu": "Csodálja meg e jelentős, a városképet meghatározó katedrális neoklasszicista pompáját, és a legszebb fényekért lehetőleg késő délután látogasson el ide.",
+            "ro": "Minunați-vă de splendoarea neoclasică a acestei catedrale importante care domină orizontul și vizitați-o de preferință după-amiaza târziu pentru cea mai bună lumină.",
+            "en": "Marvel at the neoclassical grandeur of this important cathedral that dominates the skyline, ideally visiting in the late afternoon for the most beautiful light."
+          }
+        },
+        {
+          "name": {
+            "de": "Windmill",
+            "hu": "Szélmalom",
+            "ro": "Moara de Vânt",
+            "en": "Windmill"
+          },
+          "coords": [
+            -9.263035,
+            51.549611
+          ],
+          "category": "historical",
+          "arrive_at": "15:45",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser historischen Windmühle, die von der industriellen Vergangenheit der Stadt zeugt, und tragen Sie festes Schuhwerk für den unebenen Boden.",
+            "hu": "Fedezze fel e történelmi szélmalom maradványait, amely a város ipari múltjáról tanúskodik, és viseljen masszív lábbelit az egyenetlen talaj miatt.",
+            "ro": "Explorați rămășițele acestei mori de vânt istorice care mărturisește trecutul industrial al orașului și purtați încălțăminte rezistentă pentru terenul accidentat.",
+            "en": "Explore the remnants of this historical windmill that testifies to the town's industrial past, and be sure to wear sturdy footwear for the uneven ground."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit der Erkundung des Zentrums von Skibbereen und tauchen Sie im historischen Rathaus in die lokale Geschichte ein, bevor Sie das nahe gelegene Kunstzentrum besuchen.\n\nDie friedliche Abbeystrewry-Kirche bietet einen ruhigen Moment der Besinnung, bevor Sie in die bewegenden Ausstellungen des Heritage Centre eintauchen.\n\nSpazieren Sie zur St. Patrick's Cathedral, um deren beeindruckende Architektur zu bewundern, die ein markantes Merkmal der Skyline der Stadt ist.\n\nBeenden Sie Ihren Rundgang an der historischen Windmühle, genießen Sie das Abendlicht und denken Sie über Skibbereens reiche Vergangenheit nach.",
+        "hu": "Kezdje a napot Skibbereen központjának felfedezésével, elmélyedve a helyi történelemben a bájos Városházán, mielőtt a közeli Művészeti Központba indulna.\n\nA békés Abbeystrewry-templom nyugodt pillanatot kínál az elmélkedésre, mielőtt elmerülne a Heritage Centre megható kiállításaiban.\n\nSétáljon el a Szent Patrik-katedrálishoz, hogy megcsodálja lenyűgöző építészetét, amely a város látképének és vallási örökségének kiemelkedő eleme.\n\nFejezze be gyalogos túráját a történelmi Szélmalomnál, élvezve az esti fényeket és elgondolkodva Skibbereen gazdag múltján.",
+        "ro": "Începeți ziua explorând inima orașului Skibbereen, cufundându-vă în istoria locală la fermecătoarea Primărie înainte de a vizita Centrul de Arte.\n\nBiserica pașnică Abbeystrewry oferă un moment de reflecție înainte de a vă scufunda în expozițiile emoționante de la Centrul de Patrimoniu.\n\nPlimbați-vă spre Catedrala Sf. Patrick pentru a admira arhitectura sa impresionantă, o trăsătură proeminentă a orizontului orașului.\n\nÎncheiați-vă turul pietonal la istorica Moară de Vânt, bucurându-vă de lumina serii și reflectând la trecutul bogat al orașului Skibbereen.",
+        "en": "Start your day exploring the heart of Skibbereen, diving into its local history at the charming Town Hall before heading to the nearby Arts Centre.\n\nThe peaceful Abbeystrewry Church provides a quiet moment of reflection before you immerse yourself in the moving exhibits at the Heritage Centre.\n\nWalk towards St. Patrick's Cathedral to admire its impressive architecture, a prominent feature of the town's skyline and religious heritage.\n\nConclude your walking tour at the historic Windmill, enjoying the evening light and reflecting on the rich tapestry of Skibbereen's past."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:16",
+      "total_km": 7.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Skibbereen Town Hall",
+            "hu": "Skibbereen Városháza",
+            "ro": "Primăria Skibbereen",
+            "en": "Skibbereen Town Hall"
+          },
+          "coords": [
+            -9.265804,
+            51.5493
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur dieses historischen Gebäudes, das als kulturelles Zentrum der Stadt dient, und achten Sie auf Veranstaltungsankündigungen an der Tür.",
+            "hu": "Csodálja meg e történelmi épület klasszikus építészetét, amely a város kulturális központjaként szolgál, és figyelje az ajtón lévő eseményhirdetéseket.",
+            "ro": "Admirați arhitectura clasică a acestei clădiri istorice, care servește drept centru cultural al orașului, și verificați anunțurile de evenimente de pe ușă.",
+            "en": "Admire the classic architecture of this historical building, which serves as the town's cultural hub, and check the door for local event announcements."
+          }
+        },
+        {
+          "name": {
+            "de": "Heritage Centre",
+            "hu": "Örökségvédelmi Központ",
+            "ro": "Centrul de Patrimoniu",
+            "en": "Heritage Centre"
+          },
+          "coords": [
+            -9.272135,
+            51.550964
+          ],
+          "category": "museum",
+          "arrive_at": "10:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erfahren Sie in dieser ergreifenden Ausstellung alles über die Große Hungersnot und die Geschichte der Region, wobei Sie unbedingt den detaillierten Audioguide nutzen sollten.",
+            "hu": "Tudjon meg mindent a Nagy Éhínségről és a régió történelméről ebben a megrázó kiállításban, és mindenképpen használja a részletes audioguide-ot.",
+            "ro": "Aflați totul despre Marea Foamete și istoria regiunii în această expoziție emoționantă, asigurându-vă că utilizați ghidul audio detaliat.",
+            "en": "Learn all about the Great Famine and regional history in this poignant exhibition, making sure to utilize the highly informative detailed audio guide."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Patrick's Cathedral",
+            "hu": "Szent Patrik-katedrális",
+            "ro": "Catedrala Sf. Patrick",
+            "en": "St. Patrick's Cathedral"
+          },
+          "coords": [
+            -9.26373,
+            51.552054
+          ],
+          "category": "religious",
+          "arrive_at": "12:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die neoklassizistische Pracht dieser bedeutenden Kathedrale, die das Stadtbild prägt, und besuchen Sie sie am besten am späten Nachmittag für das schönste Licht.",
+            "hu": "Csodálja meg e jelentős, a városképet meghatározó katedrális neoklasszicista pompáját, és a legszebb fényekért lehetőleg késő délután látogasson el ide.",
+            "ro": "Minunați-vă de splendoarea neoclasică a acestei catedrale importante care domină orizontul și vizitați-o de preferință după-amiaza târziu pentru cea mai bună lumină.",
+            "en": "Marvel at the neoclassical grandeur of this important cathedral that dominates the skyline, ideally visiting in the late afternoon for the most beautiful light."
+          }
+        },
+        {
+          "name": {
+            "de": "Fairy Fort",
+            "hu": "Tündér Erőd",
+            "ro": "Fortul Zânelor",
+            "en": "Fairy Fort"
+          },
+          "coords": [
+            -9.253518,
+            51.549771
+          ],
+          "category": "historical",
+          "arrive_at": "13:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spüren Sie die Mystik dieses alten Ringforts, das tief in der irischen Mythologie verwurzelt ist, und betreten Sie das Gelände mit Respekt vor den lokalen Legenden.",
+            "hu": "Érezze át ezen ősi körkörös erőd misztikumát, amely mélyen gyökerezik az ír mitológiában, és lépjen a területre a helyi legendák iránti tisztelettel.",
+            "ro": "Simțiți mistica acestui vechi fort circular adânc înrădăcinat în mitologia irlandeză și pășiți pe teren cu respect pentru legendele locale.",
+            "en": "Feel the mystique of this ancient ringfort that is deeply rooted in Irish mythology, and step onto the grounds with respect for the local legends."
+          }
+        },
+        {
+          "name": {
+            "de": "Coolngrane Fairy Fort",
+            "hu": "Coolngrane Tündér Erőd",
+            "ro": "Fortul Zânelor Coolngrane",
+            "en": "Coolngrane Fairy Fort"
+          },
+          "coords": [
+            -9.251565,
+            51.563263
+          ],
+          "category": "fortress",
+          "arrive_at": "15:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese etwas abgelegenere, von Natur umgebene historische Stätte, und bringen Sie eine Kamera mit, um die wilde und unberührte Atmosphäre einzufangen.",
+            "hu": "Fedezze fel ezt a kissé távolabbi, természettel körülvett történelmi helyszínt, és hozzon magával fényképezőgépet, hogy megörökítse a vad és érintetlen hangulatot.",
+            "ro": "Descoperiți acest sit istoric ceva mai îndepărtat, înconjurat de natură, și aduceți o cameră foto pentru a surprinde atmosfera sălbatică și neatinsă.",
+            "en": "Discover this slightly more remote historical site surrounded by nature, and bring a camera to capture the beautifully wild and untouched atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Irish Sky Garden",
+            "hu": "Ír Égi Kert",
+            "ro": "Grădina Cerului Irlandez",
+            "en": "Irish Sky Garden"
+          },
+          "coords": [
+            -9.254733,
+            51.528428
+          ],
+          "category": "landmark",
+          "arrive_at": "16:46",
+          "stay_min": 90,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Erleben Sie James Turrells faszinierendes Krater-Kunstwerk, das den Himmel auf einzigartige Weise rahmt, und bringen Sie eine Picknickdecke mit, um sich auf den Rasen zu legen.",
+            "hu": "Tapasztalja meg James Turrell lenyűgöző kráter-műalkotását, amely egyedülálló módon keretezi az eget, és hozzon magával pikniktakarót, hogy lefekhessen a fűre.",
+            "ro": "Experimentați lucrarea fascinantă a craterului realizată de James Turrell care încadrează cerul într-un mod unic și aduceți o pătură de picnic pentru a vă întinde pe iarbă.",
+            "en": "Experience James Turrell's fascinating crater artwork that uniquely frames the sky, and bring a picnic blanket so you can lie back comfortably on the grass."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie durch das Stadtzentrum, genießen Sie die historische Atmosphäre des Rathauses, bevor Sie zum renommierten Heritage Centre fahren.\n\nNach dem Besuch der St. Patrick's Cathedral unternehmen Sie eine malerische Fahrt zum rätselhaften Fairy Fort und tauchen in die Folklore ein.\n\nFordern Sie sich mit einer Fahrt zum Coolngrane Fairy Fort etwas heraus und erkunden Sie weitere mystische Stätten im Westen Corks.\n\nBeenden Sie Ihr Radabenteuer im atemberaubenden Irish Sky Garden und entspannen Sie sich im einzigartig angelegten Krater bei Sonnenuntergang.",
+        "hu": "Kerekezzen át a városközponton, élvezve a Városháza történelmi hangulatát, mielőtt a híres Heritage Centre felé venné az irányt.\n\nA lenyűgöző Szent Patrik-katedrális meglátogatása után tegyen egy festői túrát a rejtélyes Fairy Fort felé, kapcsolódva a helyi folklórhoz.\n\nTegye próbára magát egy túrával a Coolngrane Fairy Forthoz, felfedezve Nyugat-Cork további misztikus ősi helyszíneit.\n\nFejezze be kerékpáros kalandját a lélegzetelállító Ír Égi Kertben, pihenve az egyedi kialakítású kráterben, ahogy a nap lemenni készül.",
+        "ro": "Pedalați prin centrul orașului, bucurându-vă de atmosfera istorică a Primăriei înainte de a merge spre renumitul Centru de Patrimoniu.\n\nDupă vizitarea uimitoarei Catedrale Sf. Patrick, faceți o plimbare pitorească până la enigmaticul Fairy Fort, conectându-vă cu folclorul local.\n\nProvocați-vă ușor cu o plimbare până la Coolngrane Fairy Fort, explorând mai multe dintre siturile antice mistice din West Cork.\n\nÎncheiați-vă aventura pe bicicletă la uluitoarea Irish Sky Garden, relaxându-vă în craterul amenajat unic pe măsură ce soarele apune.",
+        "en": "Pedal through the town center, taking in the historical atmosphere of the Town Hall before cycling towards the renowned Heritage Centre.\n\nAfter visiting the stunning St. Patrick's Cathedral, take a scenic ride to the enigmatic Fairy Fort, connecting with local folklore.\n\nChallenge yourself slightly with a ride out to the Coolngrane Fairy Fort, exploring more of West Cork's mystical ancient sites.\n\nEnd your cycling adventure at the breathtaking Irish Sky Garden, relaxing in the uniquely landscaped crater as the sun begins to set."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:36",
+      "total_km": 8.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Heritage Centre",
+            "hu": "Örökségvédelmi Központ",
+            "ro": "Centrul de Patrimoniu",
+            "en": "Heritage Centre"
+          },
+          "coords": [
+            -9.272135,
+            51.550964
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erfahren Sie in dieser ergreifenden Ausstellung alles über die Große Hungersnot und die Geschichte der Region, wobei Sie unbedingt den detaillierten Audioguide nutzen sollten.",
+            "hu": "Tudjon meg mindent a Nagy Éhínségről és a régió történelméről ebben a megrázó kiállításban, és mindenképpen használja a részletes audioguide-ot.",
+            "ro": "Aflați totul despre Marea Foamete și istoria regiunii în această expoziție emoționantă, asigurându-vă că utilizați ghidul audio detaliat.",
+            "en": "Learn all about the Great Famine and regional history in this poignant exhibition, making sure to utilize the highly informative detailed audio guide."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Patrick's Cathedral",
+            "hu": "Szent Patrik-katedrális",
+            "ro": "Catedrala Sf. Patrick",
+            "en": "St. Patrick's Cathedral"
+          },
+          "coords": [
+            -9.26373,
+            51.552054
+          ],
+          "category": "religious",
+          "arrive_at": "10:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die neoklassizistische Pracht dieser bedeutenden Kathedrale, die das Stadtbild prägt, und besuchen Sie sie am besten am späten Nachmittag für das schönste Licht.",
+            "hu": "Csodálja meg e jelentős, a városképet meghatározó katedrális neoklasszicista pompáját, és a legszebb fényekért lehetőleg késő délután látogasson el ide.",
+            "ro": "Minunați-vă de splendoarea neoclasică a acestei catedrale importante care domină orizontul și vizitați-o de preferință după-amiaza târziu pentru cea mai bună lumină.",
+            "en": "Marvel at the neoclassical grandeur of this important cathedral that dominates the skyline, ideally visiting in the late afternoon for the most beautiful light."
+          }
+        },
+        {
+          "name": {
+            "de": "Lettertinlish Castle (Ruins)",
+            "hu": "Lettertinlish Kastélyrom",
+            "ro": "Ruinele Castelului Lettertinlish",
+            "en": "Lettertinlish Castle (Ruins)"
+          },
+          "coords": [
+            -9.223674,
+            51.551938
+          ],
+          "category": "castle",
+          "arrive_at": "12:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die stimmungsvollen Ruinen dieser mittelalterlichen Festung, die von vergangenen Fehden zeugen, und seien Sie beim Herumklettern auf den losen Steinen vorsichtig.",
+            "hu": "Fedezze fel e középkori erőd hangulatos romjait, amelyek letűnt viszályokról tanúskodnak, és legyen óvatos a laza köveken való mászkáláskor.",
+            "ro": "Explorați ruinele atmosferice ale acestei fortărețe medievale care mărturisesc luptele din trecut și aveți grijă când vă cățărați printre pietrele libere.",
+            "en": "Explore the atmospheric ruins of this medieval fortress that bear witness to past feuds, and exercise caution when walking around the loose stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Rea Lios",
+            "hu": "Rea Lios",
+            "ro": "Rea Lios",
+            "en": "Rea Lios"
+          },
+          "coords": [
+            -9.222546,
+            51.53619
+          ],
+          "category": "historical",
+          "arrive_at": "13:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese versteckte historische Einfriedung auf dem Land, um in die Vergangenheit zu reisen, und parken Sie Ihr Auto rücksichtsvoll am Rand der schmalen Straße.",
+            "hu": "Látogasson el ebbe a rejtett vidéki történelmi körbezárt területre, hogy visszautazzon az időben, és parkoljon le autójával figyelmesen a keskeny út szélén.",
+            "ro": "Vizitați această incintă istorică ascunsă la țară pentru a călători înapoi în timp și parcați mașina cu atenție pe marginea drumului îngust.",
+            "en": "Visit this hidden rural historical enclosure to take a step back in time, making sure to park your car considerately on the edge of the narrow road."
+          }
+        },
+        {
+          "name": {
+            "de": "Irish Sky Garden",
+            "hu": "Ír Égi Kert",
+            "ro": "Grădina Cerului Irlandez",
+            "en": "Irish Sky Garden"
+          },
+          "coords": [
+            -9.254733,
+            51.528428
+          ],
+          "category": "landmark",
+          "arrive_at": "15:06",
+          "stay_min": 90,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Erleben Sie James Turrells faszinierendes Krater-Kunstwerk, das den Himmel auf einzigartige Weise rahmt, und bringen Sie eine Picknickdecke mit, um sich auf den Rasen zu legen.",
+            "hu": "Tapasztalja meg James Turrell lenyűgöző kráter-műalkotását, amely egyedülálló módon keretezi az eget, és hozzon magával pikniktakarót, hogy lefekhessen a fűre.",
+            "ro": "Experimentați lucrarea fascinantă a craterului realizată de James Turrell care încadrează cerul într-un mod unic și aduceți o pătură de picnic pentru a vă întinde pe iarbă.",
+            "en": "Experience James Turrell's fascinating crater artwork that uniquely frames the sky, and bring a picnic blanket so you can lie back comfortably on the grass."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt mit einem tiefen Einblick in die Geschichte der Region im Heritage Centre und der majestätischen Kathedrale.\n\nFahren Sie in die üppige Landschaft, um die romantischen, efeubewachsenen Überreste von Lettertinlish Castle aus dem Mittelalter zu entdecken.\n\nSetzen Sie Ihre ländliche Erkundung zum historischen Rea Lios fort und genießen Sie die Freiheit des Autos, um diese abgelegenen Orte zu erreichen.\n\nBeenden Sie den Tag mit einem ruhigen Besuch im Irish Sky Garden und erleben Sie die faszinierende Land Art, bevor Sie zurückfahren.",
+        "hu": "Kezdje autós túráját a régió megrázó történelmének elmélyült megismerésével a Heritage Centre-ben és a fenséges katedrálisban.\n\nVezessen ki a buja vidékre, hogy felfedezze a Lettertinlish kastély romantikus, borostyánnal benőtt középkori romjait.\n\nFolytassa vidéki felfedezőútját a történelmi Rea Lioshoz, élvezve az autó nyújtotta szabadságot ezen eldugott helyek eléréséhez.\n\nZárja a napot egy békés látogatással az Ír Égi Kertben, megtapasztalva a lenyűgöző tájművészetet, mielőtt visszavezetne a szállásra.",
+        "ro": "Începeți turul cu mașina cu o scufundare profundă în istoria regiunii la Centrul de Patrimoniu bine organizat și la măreața Catedrală.\n\nConduceți în peisajul rural luxuriant pentru a descoperi rămășițele romantice, acoperite de iederă, ale Castelului Lettertinlish.\n\nContinuați explorarea rurală spre istoricul Rea Lios, bucurându-vă de libertatea mașinii de a ajunge în aceste locații retrase.\n\nÎncheiați ziua cu o vizită senină la Irish Sky Garden, experimentând fascinanta artă peisagistică înainte de a vă întoarce la cazare.",
+        "en": "Begin your driving tour with a deep dive into the region's poignant history at the well-curated Heritage Centre and the grand Cathedral.\n\nDrive out into the lush countryside to discover the romantic, ivy-clad remains of Lettertinlish Castle, a testament to medieval times.\n\nContinue your rural exploration to the historical Rea Lios, enjoying the freedom of the car to reach these off-the-beaten-path locations.\n\nConclude the day with a serene visit to the Irish Sky Garden, experiencing the fascinating land art before driving back to your accommodation."
+      }
+    }
+  }
+}

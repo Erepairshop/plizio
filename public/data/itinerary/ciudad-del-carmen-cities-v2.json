@@ -1,0 +1,543 @@
+{
+  "city_id": "ciudad-del-carmen-cities-v2",
+  "anchor": {
+    "name": "Ciudad del Carmen",
+    "coords": [
+      -91.8317,
+      18.6369
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 3.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Centro cultural de la UNACAR",
+            "hu": "Centro cultural de la UNACAR",
+            "ro": "Centro cultural de la UNACAR",
+            "en": "Centro cultural de la UNACAR"
+          },
+          "coords": [
+            -91.834604,
+            18.638586
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie zeitgenössische regionale Kunst in diesem kulturellen Zentrum und halten Sie Ausschau nach kostenlosen abendlichen Workshops.",
+            "hu": "Fedezze fel a kortárs regionális művészetet ebben a kulturális központban, és figyeljen az esetleges ingyenes esti workshopokra vagy előadásokra.",
+            "ro": "Explorați arta regională contemporană la acest centru cultural, fiind cu ochii în patru după ateliere sau prelegeri serale gratuite.",
+            "en": "Explore contemporary regional art and academic exhibits at this cultural hub, keeping an eye out for free evening workshops or lectures."
+          }
+        },
+        {
+          "name": {
+            "de": "Letras CARMEN",
+            "hu": "Letras CARMEN",
+            "ro": "Letras CARMEN",
+            "en": "Letras CARMEN"
+          },
+          "coords": [
+            -91.837077,
+            18.637198
+          ],
+          "category": "landmark",
+          "arrive_at": "10:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Machen Sie ein Erinnerungsfoto mit diesen bunten Buchstaben, die den Geist der Insel verkörpern, am besten früh morgens ohne Menschenmassen.",
+            "hu": "Készítsen emlékezetes fotót ezekkel a színes betűkkel, amelyek a sziget élénk szellemét jelképezik; érkezzen korán a tömeg elkerülése végett.",
+            "ro": "Faceți o fotografie memorabilă cu aceste litere colorate care reprezintă spiritul insulei, venind devreme pentru a evita aglomerația.",
+            "en": "Snap a memorable photo with these colorful, life-sized letters that represent the island's vibrant spirit, ideally visiting early to avoid crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo",
+            "hu": "Museo",
+            "ro": "Museo",
+            "en": "Museo"
+          },
+          "coords": [
+            -91.839066,
+            18.642552
+          ],
+          "category": "museum",
+          "arrive_at": "11:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie hier in die reiche historische und ökologische Vielfalt der Region ein und planen Sie mindestens eine Stunde für die Artefakte ein.",
+            "hu": "Merüljön el a régió gazdag történelmi és ökológiai sokszínűségében, és szánjon legalább egy órát a kiállított tárgyak teljes megértésére.",
+            "ro": "Pătrundeți în bogata tapiserie istorică și ecologică a regiunii aici, alocând cel puțin o oră pentru a aprecia pe deplin artefactele.",
+            "en": "Delve into the rich historical and ecological tapestry of the region here, allocating at least an hour to fully appreciate the artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "El Barquito",
+            "hu": "El Barquito",
+            "ro": "El Barquito",
+            "en": "El Barquito"
+          },
+          "coords": [
+            -91.834269,
+            18.634366
+          ],
+          "category": "historical",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses charmante historische Bootsdenkmal, das das lokale Fischerbe in den Fokus rückt und besonders zur goldenen Stunde schön ist.",
+            "hu": "Csodálja meg ezt a bájos történelmi hajóemlékművet, amely a helyi halászati örökség előtt tiszteleg, és az aranyórában mutat a legszebben.",
+            "ro": "Admirați acest fermecător monument istoric în formă de barcă, care onorează moștenirea locală a pescuitului, fiind superb la ora de aur.",
+            "en": "Admire this charming historical boat monument that pays homage to the local fishing heritage, which looks especially beautiful during the golden hour."
+          }
+        },
+        {
+          "name": {
+            "de": "Glorieta Luis Donaldo Colosio",
+            "hu": "Glorieta Luis Donaldo Colosio",
+            "ro": "Glorieta Luis Donaldo Colosio",
+            "en": "Glorieta Luis Donaldo Colosio"
+          },
+          "coords": [
+            -91.824882,
+            18.63147
+          ],
+          "category": "historical",
+          "arrive_at": "14:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie diesen historischen Kreisverkehr, der einer wichtigen Figur der mexikanischen Politik gewidmet ist, bei einem lokalen Snack.",
+            "hu": "Tekintse meg ezt a mexikói politika egyik kulcsfigurájának szentelt történelmi körforgalmat, miközben elfogyaszt egy közeli helyi harapnivalót.",
+            "ro": "Observați acest sens giratoriu istoric dedicat unei figuri esențiale din politica mexicană, savurând totodată o gustare locală din apropiere.",
+            "en": "Observe this significant historical roundabout dedicated to a pivotal figure in Mexican politics, easily viewed while enjoying a nearby local snack."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Manigua",
+            "hu": "Playa Manigua",
+            "ro": "Playa Manigua",
+            "en": "Playa Manigua"
+          },
+          "coords": [
+            -91.819653,
+            18.629029
+          ],
+          "category": "landmark",
+          "arrive_at": "16:10",
+          "stay_min": 55,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Sandstrand dieses ikonischen Ortes mit sanften Wellen und authentischen Meeresfrüchte-Ständen für ein erfrischendes Bad.",
+            "hu": "Pihenjen ezen az ikonikus helyi strandon, amely szelíd hullámokat és autentikus tengerkentyűs standokat kínál egy frissítő délutáni úszáshoz.",
+            "ro": "Relaxați-vă pe nisipul acestei plaje iconice ce oferă valuri blânde și standuri cu fructe de mare, perfectă pentru o baie răcoritoare.",
+            "en": "Relax on the sands of this iconic local beach offering gentle waves and authentic seafood stalls, perfect for a refreshing afternoon swim."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Beginnen Sie mit kulturellen Eindrücken im Universitätszentrum und machen Sie ein schnelles Foto bei den bunten Buchstaben der Stadt. Mittags: Tauchen Sie im Hauptmuseum tief in die regionale Geschichte ein, bevor Sie gemütlich zum historischen Bootsdenkmal schlendern. Nachmittags: Gehen Sie weiter nach Süden, um am Colosio-Denkmal die lokale politische Geschichte zu ehren. Abends: Beenden Sie Ihren Rundgang entspannt am ruhigen Playa Manigua, wo Sie die Meeresbrise und eine verdiente Aussicht genießen.",
+        "hu": "Délelőtt: Kezdje a napot kulturális elmélyüléssel az egyetemi központban, majd készítsen egy gyors fotót a város színes betűinél. Délben: Merüljön el a régió történelmében a főmúzeumban, majd sétáljon le a történelmi hajóemlékműhöz. Délután: Folytassa útját dél felé, és tisztelegjen a helyi politikai történelem előtt a Colosio emlékműnél. Este: Zárja sétáját a nyugodt Playa Manigua strandon, élvezve a hűsítő tengeri szellőt és a jól megérdemelt parti kilátást.",
+        "ro": "Dimineața: Începeți cu o imersiune culturală la centrul universitar și faceți o fotografie rapidă cu literele colorate ale orașului. La prânz: Descoperiți istoria regională la muzeul principal, înainte de a vă plimba spre monumentul istoric în formă de barcă. După-amiaza: Continuați spre sud pentru a onora istoria politică locală la monumentul Colosio. Seara: Încheiați turul relaxându-vă la Playa Manigua, bucurându-vă de briza mării și de o priveliște de coastă bine meritată.",
+        "en": "Morning: Start with cultural immersion at the university center and grab a quick photo with the colorful city letters. Midday: Dive into regional history at the main museum before strolling down to the historical boat monument. Afternoon: Continue south to honor local political history at the Colosio monument as the heat of the day begins to fade. Evening: End your walking tour relaxing at Playa Manigua, enjoying the sea breeze and a well-deserved coastal view."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:41",
+      "total_km": 4.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Glorieta el Canon",
+            "hu": "Glorieta el Canon",
+            "ro": "Glorieta el Canon",
+            "en": "Glorieta el Canon"
+          },
+          "coords": [
+            -91.831095,
+            18.658515
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses bedeutende historische Kanonendenkmal, das einst die Insel bewachte, und fotografieren Sie es vom Fußgängerüberweg aus.",
+            "hu": "Fedezze fel ezt az évszázadokkal ezelőtt a szigetet őrző történelmi ágyúemlékművet, amelyet a gyalogátkelőhelyről érdemes lefotózni.",
+            "ro": "Descoperiți acest monument istoric cu tun ce a păzit insula cu secole în urmă, ideal de fotografiat de pe trecerea de pietoni din apropiere.",
+            "en": "Discover this notable historical cannon monument that guarded the island centuries ago, ideally captured on camera from the pedestrian crossing."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumentos Los Marinos",
+            "hu": "Monumentos Los Marinos",
+            "ro": "Monumentos Los Marinos",
+            "en": "Monumentos Los Marinos"
+          },
+          "coords": [
+            -91.832553,
+            18.661239
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erweisen Sie den mutigen Seeleuten der Region an diesen beeindruckenden Denkmälern die Ehre und achten Sie auf die aufwendigen Bronzedetails.",
+            "hu": "Tisztelegjen a régió bátor tengerészei előtt ezeknél a lenyűgöző emlékműveknél, és figyelje meg közelről a bonyolult bronz részleteket.",
+            "ro": "Prezentați-vă omagiile la aceste monumente impresionante dedicate marinarilor curajoși, observând de aproape detaliile complicate din bronz.",
+            "en": "Pay your respects at these impressive monuments honoring the brave sailors of the region, noting the intricate bronze details up close."
+          }
+        },
+        {
+          "name": {
+            "de": "Muelle Laguna Azul",
+            "hu": "Muelle Laguna Azul",
+            "ro": "Muelle Laguna Azul",
+            "en": "Muelle Laguna Azul"
+          },
+          "coords": [
+            -91.840676,
+            18.658074
+          ],
+          "category": "family",
+          "arrive_at": "11:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Machen Sie einen Spaziergang entlang des Laguna Azul-Piers, um den maritimen Ausblick zu genießen, und bringen Sie eine leichte Jacke mit.",
+            "hu": "Tegyen egy kényelmes sétát a Kék Lagúna mólóján, hogy élvezze a lenyűgöző tengeri kilátást; hozzon egy könnyű kabátot az erős tengeri szél miatt.",
+            "ro": "Plimbați-vă de-a lungul digului Laguna Albastră pentru a admira priveliștile maritime, aducând o jachetă subțire, deoarece briza mării este puternică.",
+            "en": "Take a leisurely stroll along the Blue Lagoon pier to enjoy stunning maritime views, bringing a light jacket as the sea breeze can be quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoologico",
+            "hu": "Zoologico",
+            "ro": "Zoologico",
+            "en": "Zoologico"
+          },
+          "coords": [
+            -91.838901,
+            18.65883
+          ],
+          "category": "family",
+          "arrive_at": "13:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie den örtlichen Zoo, um regionale Tierarten in einer schattigen Umgebung zu beobachten, und bringen Sie Mückenspray für den Spaziergang mit.",
+            "hu": "Látogasson el a helyi állatkertbe, hogy árnyas környezetben figyelhesse meg a regionális fajokat, és mindenképpen hozzon magával szúnyogriasztót.",
+            "ro": "Vizitați grădina zoologică locală pentru a observa speciile regionale într-un mediu umbrit, asigurându-vă că aduceți un spray împotriva țânțarilor.",
+            "en": "Visit the local zoo to observe regional species in a shaded environment, making sure to bring mosquito repellent for a comfortable walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo",
+            "hu": "Museo",
+            "ro": "Museo",
+            "en": "Museo"
+          },
+          "coords": [
+            -91.839066,
+            18.642552
+          ],
+          "category": "museum",
+          "arrive_at": "14:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie hier in die reiche historische und ökologische Vielfalt der Region ein und planen Sie mindestens eine Stunde für die Artefakte ein.",
+            "hu": "Merüljön el a régió gazdag történelmi és ökológiai sokszínűségében, és szánjon legalább egy órát a kiállított tárgyak teljes megértésére.",
+            "ro": "Pătrundeți în bogata tapiserie istorică și ecologică a regiunii aici, alocând cel puțin o oră pentru a aprecia pe deplin artefactele.",
+            "en": "Delve into the rich historical and ecological tapestry of the region here, allocating at least an hour to fully appreciate the artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Letras CARMEN",
+            "hu": "Letras CARMEN",
+            "ro": "Letras CARMEN",
+            "en": "Letras CARMEN"
+          },
+          "coords": [
+            -91.837077,
+            18.637198
+          ],
+          "category": "landmark",
+          "arrive_at": "16:23",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Machen Sie ein Erinnerungsfoto mit diesen bunten Buchstaben, die den Geist der Insel verkörpern, am besten früh morgens ohne Menschenmassen.",
+            "hu": "Készítsen emlékezetes fotót ezekkel a színes betűkkel, amelyek a sziget élénk szellemét jelképezik; érkezzen korán a tömeg elkerülése végett.",
+            "ro": "Faceți o fotografie memorabilă cu aceste litere colorate care reprezintă spiritul insulei, venind devreme pentru a evita aglomerația.",
+            "en": "Snap a memorable photo with these colorful, life-sized letters that represent the island's vibrant spirit, ideally visiting early to avoid crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "El Barquito",
+            "hu": "El Barquito",
+            "ro": "El Barquito",
+            "en": "El Barquito"
+          },
+          "coords": [
+            -91.834269,
+            18.634366
+          ],
+          "category": "historical",
+          "arrive_at": "16:51",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses charmante historische Bootsdenkmal, das das lokale Fischerbe in den Fokus rückt und besonders zur goldenen Stunde schön ist.",
+            "hu": "Csodálja meg ezt a bájos történelmi hajóemlékművet, amely a helyi halászati örökség előtt tiszteleg, és az aranyórában mutat a legszebben.",
+            "ro": "Admirați acest fermecător monument istoric în formă de barcă, care onorează moștenirea locală a pescuitului, fiind superb la ora de aur.",
+            "en": "Admire this charming historical boat monument that pays homage to the local fishing heritage, which looks especially beautiful during the golden hour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Radeln Sie an der Nordküste entlang, entdecken Sie historische Kanonen und ehren Sie an den majestätischen Denkmälern die Seeleute der Region. Mittags: Fahren Sie zum Laguna Azul-Pier, um eine familienfreundliche Atmosphäre zu genießen, und besuchen Sie den Zoo. Nachmittags: Fahren Sie in die Stadt hinunter zum Museum, um Ihr Wissen zu erweitern, und besuchen Sie schnell den kultigen CARMEN-Schriftzug. Abends: Beenden Sie Ihre Radtour bei El Barquito und bewundern Sie die Sonnenuntergangsfarben, die sich auf dem Boot spiegeln.",
+        "hu": "Délelőtt: Kerekezzen az északi parton, fedezze fel a történelmi ágyúkat, és rója le tiszteletét a régió tengerészei előtt a lenyűgöző emlékműveknél. Délben: Tekerjen a Kék Lagúna mólóhoz, ahol családias hangulat várja, majd látogasson el a helyi állatkertbe. Délután: Guruljon le a városi múzeumhoz, hogy gazdagítsa tudását, majd tegyen egy gyors kitérőt az ikonikus CARMEN felirathoz. Este: Fejezze be kerékpáros túráját az El Barquitónál, és csodálja meg a történelmi hajón megcsillanó naplemente színeit.",
+        "ro": "Dimineața: Pedați de-a lungul coastei de nord, descoperind tunuri istorice și omagiind marinarii la monumentele maiestuoase. La prânz: Mergeți la digul Laguna Albastră pentru o atmosferă de familie și vizitați grădina zoologică locală pentru a vedea fauna. După-amiaza: Coborâți spre muzeul orașului pentru a vă îmbogăți cunoștințele, apoi vizitați rapid iconicul semn CARMEN. Seara: Încheiați călătoria cu bicicleta la El Barquito, admirând culorile apusului reflectându-se pe structura bărcii istorice.",
+        "en": "Morning: Pedal along the northern shore, discovering historical cannons and paying respects to mariners at the majestic monuments. Midday: Ride to the Blue Lagoon pier for family-friendly vibes and visit the local zoo to see regional wildlife up close. Afternoon: Cruise down to the city museum to enrich your knowledge, then quickly visit the iconic CARMEN sign. Evening: Conclude your bike journey at El Barquito, admiring the sunset colors reflecting on the historical vessel structure."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:25",
+      "total_km": 6.1,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Zoologico",
+            "hu": "Zoologico",
+            "ro": "Zoologico",
+            "en": "Zoologico"
+          },
+          "coords": [
+            -91.838901,
+            18.65883
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie den örtlichen Zoo, um regionale Tierarten in einer schattigen Umgebung zu beobachten, und bringen Sie Mückenspray für den Spaziergang mit.",
+            "hu": "Látogasson el a helyi állatkertbe, hogy árnyas környezetben figyelhesse meg a regionális fajokat, és mindenképpen hozzon magával szúnyogriasztót.",
+            "ro": "Vizitați grădina zoologică locală pentru a observa speciile regionale într-un mediu umbrit, asigurându-vă că aduceți un spray împotriva țânțarilor.",
+            "en": "Visit the local zoo to observe regional species in a shaded environment, making sure to bring mosquito repellent for a comfortable walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Muelle Laguna Azul",
+            "hu": "Muelle Laguna Azul",
+            "ro": "Muelle Laguna Azul",
+            "en": "Muelle Laguna Azul"
+          },
+          "coords": [
+            -91.840676,
+            18.658074
+          ],
+          "category": "family",
+          "arrive_at": "10:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie einen Spaziergang entlang des Laguna Azul-Piers, um den maritimen Ausblick zu genießen, und bringen Sie eine leichte Jacke mit.",
+            "hu": "Tegyen egy kényelmes sétát a Kék Lagúna mólóján, hogy élvezze a lenyűgöző tengeri kilátást; hozzon egy könnyű kabátot az erős tengeri szél miatt.",
+            "ro": "Plimbați-vă de-a lungul digului Laguna Albastră pentru a admira priveliștile maritime, aducând o jachetă subțire, deoarece briza mării este puternică.",
+            "en": "Take a leisurely stroll along the Blue Lagoon pier to enjoy stunning maritime views, bringing a light jacket as the sea breeze can be quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumentos Los Marinos",
+            "hu": "Monumentos Los Marinos",
+            "ro": "Monumentos Los Marinos",
+            "en": "Monumentos Los Marinos"
+          },
+          "coords": [
+            -91.832553,
+            18.661239
+          ],
+          "category": "historical",
+          "arrive_at": "11:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erweisen Sie den mutigen Seeleuten der Region an diesen beeindruckenden Denkmälern die Ehre und achten Sie auf die aufwendigen Bronzedetails.",
+            "hu": "Tisztelegjen a régió bátor tengerészei előtt ezeknél a lenyűgöző emlékműveknél, és figyelje meg közelről a bonyolult bronz részleteket.",
+            "ro": "Prezentați-vă omagiile la aceste monumente impresionante dedicate marinarilor curajoși, observând de aproape detaliile complicate din bronz.",
+            "en": "Pay your respects at these impressive monuments honoring the brave sailors of the region, noting the intricate bronze details up close."
+          }
+        },
+        {
+          "name": {
+            "de": "Glorieta el Canon",
+            "hu": "Glorieta el Canon",
+            "ro": "Glorieta el Canon",
+            "en": "Glorieta el Canon"
+          },
+          "coords": [
+            -91.831095,
+            18.658515
+          ],
+          "category": "historical",
+          "arrive_at": "13:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses bedeutende historische Kanonendenkmal, das einst die Insel bewachte, und fotografieren Sie es vom Fußgängerüberweg aus.",
+            "hu": "Fedezze fel ezt az évszázadokkal ezelőtt a szigetet őrző történelmi ágyúemlékművet, amelyet a gyalogátkelőhelyről érdemes lefotózni.",
+            "ro": "Descoperiți acest monument istoric cu tun ce a păzit insula cu secole în urmă, ideal de fotografiat de pe trecerea de pietoni din apropiere.",
+            "en": "Discover this notable historical cannon monument that guarded the island centuries ago, ideally captured on camera from the pedestrian crossing."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo",
+            "hu": "Museo",
+            "ro": "Museo",
+            "en": "Museo"
+          },
+          "coords": [
+            -91.839066,
+            18.642552
+          ],
+          "category": "museum",
+          "arrive_at": "14:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie hier in die reiche historische und ökologische Vielfalt der Region ein und planen Sie mindestens eine Stunde für die Artefakte ein.",
+            "hu": "Merüljön el a régió gazdag történelmi és ökológiai sokszínűségében, és szánjon legalább egy órát a kiállított tárgyak teljes megértésére.",
+            "ro": "Pătrundeți în bogata tapiserie istorică și ecologică a regiunii aici, alocând cel puțin o oră pentru a aprecia pe deplin artefactele.",
+            "en": "Delve into the rich historical and ecological tapestry of the region here, allocating at least an hour to fully appreciate the artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro cultural de la UNACAR",
+            "hu": "Centro cultural de la UNACAR",
+            "ro": "Centro cultural de la UNACAR",
+            "en": "Centro cultural de la UNACAR"
+          },
+          "coords": [
+            -91.834604,
+            18.638586
+          ],
+          "category": "cultural",
+          "arrive_at": "16:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie zeitgenössische regionale Kunst in diesem kulturellen Zentrum und halten Sie Ausschau nach kostenlosen abendlichen Workshops.",
+            "hu": "Fedezze fel a kortárs regionális művészetet ebben a kulturális központban, és figyeljen az esetleges ingyenes esti workshopokra vagy előadásokra.",
+            "ro": "Explorați arta regională contemporană la acest centru cultural, fiind cu ochii în patru după ateliere sau prelegeri serale gratuite.",
+            "en": "Explore contemporary regional art and academic exhibits at this cultural hub, keeping an eye out for free evening workshops or lectures."
+          }
+        },
+        {
+          "name": {
+            "de": "El Barquito",
+            "hu": "El Barquito",
+            "ro": "El Barquito",
+            "en": "El Barquito"
+          },
+          "coords": [
+            -91.834269,
+            18.634366
+          ],
+          "category": "historical",
+          "arrive_at": "18:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses charmante historische Bootsdenkmal, das das lokale Fischerbe in den Fokus rückt und besonders zur goldenen Stunde schön ist.",
+            "hu": "Csodálja meg ezt a bájos történelmi hajóemlékművet, amely a helyi halászati örökség előtt tiszteleg, és az aranyórában mutat a legszebben.",
+            "ro": "Admirați acest fermecător monument istoric în formă de barcă, care onorează moștenirea locală a pescuitului, fiind superb la ora de aur.",
+            "en": "Admire this charming historical boat monument that pays homage to the local fishing heritage, which looks especially beautiful during the golden hour."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Manigua",
+            "hu": "Playa Manigua",
+            "ro": "Playa Manigua",
+            "en": "Playa Manigua"
+          },
+          "coords": [
+            -91.819653,
+            18.629029
+          ],
+          "category": "landmark",
+          "arrive_at": "19:30",
+          "stay_min": 55,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Sandstrand dieses ikonischen Ortes mit sanften Wellen und authentischen Meeresfrüchte-Ständen für ein erfrischendes Bad.",
+            "hu": "Pihenjen ezen az ikonikus helyi strandon, amely szelíd hullámokat és autentikus tengerkentyűs standokat kínál egy frissítő délutáni úszáshoz.",
+            "ro": "Relaxați-vă pe nisipul acestei plaje iconice ce oferă valuri blânde și standuri cu fructe de mare, perfectă pentru o baie răcoritoare.",
+            "en": "Relax on the sands of this iconic local beach offering gentle waves and authentic seafood stalls, perfect for a refreshing afternoon swim."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Fahren Sie zur Nordseite der Insel, erkunden Sie den lokalen Zoo und genießen Sie die malerische Uferpromenade am Laguna Azul Pier. Mittags: Besichtigen Sie die nahegelegenen militärischen Denkmäler, bevor Sie ins Zentrum fahren, um sich im Museum weiterzubilden. Nachmittags: Parken Sie in der Nähe der Universität für kulturelle Ausstellungen und unternehmen Sie eine kurze Fahrt zum historischen Barquito-Denkmal. Abends: Beenden Sie Ihre umfassende Inselfahrt mit einer Abendbrise am Playa Manigua, ideal zum Entspannen nach einem ereignisreichen Tag.",
+        "hu": "Délelőtt: Vezessen a sziget északi peremére, hogy felfedezze az állatkertet, és élvezze a festői vízpartot a Laguna Azul mólónál. Délben: Tekintse meg a közeli tengerészeti és katonai emlékműveket, mielőtt a városközpontba hajtana, hogy elmerüljön a múzeum kincseiben. Délután: Parkoljon le az egyetem közelében a kulturális kiállításokért, majd tegyen egy rövid utat a történelmi Barquito emlékműhöz. Este: Fejezze be a szigeti autózást a Playa Manigua esti szellőjével, amely tökéletes a pihenéshez egy sűrű nap után.",
+        "ro": "Dimineața: Conduceți spre marginea de nord a insulei pentru a explora grădina zoologică și a vă bucura de faleza pitorească de la digul Laguna Albastră. La prânz: Vizitați monumentele maritime din apropiere înainte de a merge în centrul orașului pentru a explora istoria la muzeu. După-amiaza: Parcați lângă universitate pentru expoziții culturale, apoi faceți o scurtă plimbare cu mașina până la monumentul istoric Barquito. Seara: Încheiați traseul cu mașina cu o briză de seară la Playa Manigua, perfectă pentru relaxare după o zi plină.",
+        "en": "Morning: Drive to the island's northern edge to explore the zoo and enjoy the scenic waterfront at the Laguna Azul pier. Midday: Check out the maritime and military monuments nearby before heading into the city center for a deep dive at the museum. Afternoon: Park near the university for cultural exhibitions and then take a short drive to the historical Barquito monument. Evening: Finish your comprehensive island drive with an evening breeze at Playa Manigua, perfect for unwinding after a busy day."
+      }
+    }
+  }
+}

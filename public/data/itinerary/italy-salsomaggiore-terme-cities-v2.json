@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-salsomaggiore-terme-cities-v2",
+  "anchor": {
+    "name": "Salsomaggiore Terme",
+    "coords": [
+      9.978306,
+      44.815639
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:04",
+      "total_km": 1.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di San Bartolomeo",
+            "hu": "Chiesa di San Bartolomeo",
+            "ro": "Chiesa di San Bartolomeo",
+            "en": "Chiesa di San Bartolomeo"
+          },
+          "coords": [
+            9.976987,
+            44.81579
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassischen Linien dieser zentralen Kirche, die eine Oase der Ruhe bietet, und achten Sie besonders auf die feinen Details des Hauptaltars.",
+            "hu": "Csodálja meg a központi templom klasszikus vonalait, amely a béke szigete, és figyeljen a főoltár finom részleteire a kora reggeli fényben.",
+            "ro": "Admirați liniile clasice ale acestei biserici centrale, o oază de liniște, și acordați o atenție deosebită detaliilor fine ale altarului principal.",
+            "en": "Admire the classic lines of this central church, which offers an oasis of peace, and pay special attention to the fine details of the main altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Vitale",
+            "hu": "Chiesa di San Vitale",
+            "ro": "Chiesa di San Vitale",
+            "en": "Chiesa di San Vitale"
+          },
+          "coords": [
+            9.977646,
+            44.816942
+          ],
+          "category": "religious",
+          "arrive_at": "09:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese charmante Kirche mit ihrer intimen Atmosphäre, die die lokale religiöse Geschichte widerspiegelt, und kommen Sie morgens, um die Stille zu genießen.",
+            "hu": "Fedezze fel ezt a meghitt hangulatú bájos templomot, amely a helyi vallástörténetet tükrözi, és érkezzen reggel, hogy élvezze a teljes csendet.",
+            "ro": "Descoperiți această biserică fermecătoare cu atmosfera sa intimă, care reflectă istoria religioasă locală, și veniți dimineața pentru a vă bucura de liniște.",
+            "en": "Discover this charming church with its intimate atmosphere reflecting local religious history, and arrive in the morning to enjoy the complete silence."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento al Fante",
+            "hu": "Monumento al Fante",
+            "ro": "Monumento al Fante",
+            "en": "Monumento al Fante"
+          },
+          "coords": [
+            9.978742,
+            44.816401
+          ],
+          "category": "historical",
+          "arrive_at": "10:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses historische Denkmal für die Infanterie, das an den Mut der Soldaten erinnert, und nutzen Sie das sanfte Licht für eindrucksvolle Fotos.",
+            "hu": "Tekintse meg a gyalogság hősei előtt tisztelgő történelmi emlékművet, és használja ki a lágy fényeket a tökéletes, tiszteletteljes fotók elkészítéséhez.",
+            "ro": "Contemplați acest monument istoric dedicat infanteriei, care comemorează curajul soldaților, și profitați de lumina blândă pentru fotografii impresionante.",
+            "en": "View this historical infantry monument honoring the courage of soldiers, and take advantage of the soft lighting to capture impressive, respectful photos."
+          }
+        },
+        {
+          "name": {
+            "de": "La grotta polare",
+            "hu": "La grotta polare",
+            "ro": "La grotta polare",
+            "en": "La grotta polare"
+          },
+          "coords": [
+            9.980021,
+            44.816249
+          ],
+          "category": "recreational",
+          "arrive_at": "11:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erleben Sie die kühle Erfrischung dieser einzigartigen Freizeitanlage, die besonders an warmen Tagen eine willkommene Pause bietet, und tragen Sie bequeme Schuhe.",
+            "hu": "Élvezze e különleges szabadidős létesítmény hűsítő frissességét, amely meleg napokon igazi felüdülést nyújt, és viseljen kényelmes cipőt a sétához.",
+            "ro": "Experimentați răcoarea acestei facilități de agrement unice, care oferă o pauză perfectă în zilele calde, și asigurați-vă că purtați încălțăminte comodă.",
+            "en": "Experience the cool refreshment of this unique recreational facility, offering a perfect break on warm days, and be sure to wear comfortable walking shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a Gian Domenico Romagnosi.",
+            "hu": "Monumento a Gian Domenico Romagnosi.",
+            "ro": "Monumento a Gian Domenico Romagnosi.",
+            "en": "Monumento a Gian Domenico Romagnosi."
+          },
+          "coords": [
+            9.984156,
+            44.81303
+          ],
+          "category": "historical",
+          "arrive_at": "13:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Würdigen Sie dieses Denkmal des berühmten Juristen, das intellektuelle Größe symbolisiert, und lesen Sie die Inschrift, um seine lokale Bedeutung zu verstehen.",
+            "hu": "Tisztelegjen a híres jogász emlékműve előtt, amely az intellektuális nagyságot szimbolizálja, és olvassa el a feliratot a helyi jelentőség megértéséhez.",
+            "ro": "Onorați acest monument al faimosului jurist, simbolizând măreția intelectuală, și citiți inscripția pentru a înțelege importanța sa pentru comunitatea locală.",
+            "en": "Honor this monument to the famous jurist, symbolizing intellectual greatness, and read the inscription to fully understand his importance to the local community."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Sant'Antonio",
+            "hu": "Chiesa di Sant'Antonio",
+            "ro": "Chiesa di Sant'Antonio",
+            "en": "Chiesa di Sant'Antonio"
+          },
+          "coords": [
+            9.988595,
+            44.821632
+          ],
+          "category": "religious",
+          "arrive_at": "14:54",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese ruhig gelegene Kirche, die für ihre schlichte architektonische Schönheit bekannt ist, und nehmen Sie sich Zeit für eine stille Reflexion.",
+            "hu": "Látogasson el ebbe a csendes környezetben fekvő, letisztult építészeti szépségéről ismert templomba, és szánjon időt egy rövid, elmélyült elmélkedésre.",
+            "ro": "Vizitați această biserică situată într-o zonă liniștită, cunoscută pentru frumusețea sa arhitecturală simplă, și alocați timp pentru o scurtă reflecție.",
+            "en": "Visit this quietly located church known for its clean architectural beauty, and set aside some time for a moment of peaceful, quiet reflection."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit der Erkundung des historischen Zentrums und seinen Sakralbauten. Zur Mittagszeit bewundern wir die Monumente, die die reiche Geschichte der Stadt prägen. Der Nachmittag bietet eine erfrischende Pause an der Grotta Polare und weitere kulturelle Entdeckungen. Am Abend lassen wir die Eindrücke bei einem Spaziergang zu einer ruhigen Kirche langsam ausklingen.",
+        "hu": "A reggel a történelmi központ és annak szakrális épületeinek felfedezésével indul. Délben megcsodáljuk a város gazdag történelmét formáló emlékműveket. A délután frissítő pihenőt kínál a Grotta Polare környékén és további kulturális felfedezéseket tartogat. Este a békés templomi sétával lassan lezárjuk a nap során szerzett élmények feldolgozását.",
+        "ro": "Dimineața începe cu explorarea centrului istoric și a clădirilor sale sacre. La prânz, admirăm monumentele care marchează istoria bogată a orașului. După-amiaza oferă o pauză revigorantă la Grotta Polare și alte descoperiri culturale. Seara, lăsăm impresiile să se așeze printr-o plimbare relaxantă către o biserică liniștită de la periferie.",
+        "en": "The morning begins with an exploration of the historic center and its sacred buildings. At midday, we admire the monuments that shape the city's rich history. The afternoon offers a refreshing break at the Grotta Polare along with further cultural discoveries. In the evening, we let the day's impressions settle with a gentle walk to a quiet, peaceful church."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:37",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Castello di Scipione",
+            "hu": "Castello di Scipione",
+            "ro": "Castello di Scipione",
+            "en": "Castello di Scipione"
+          },
+          "coords": [
+            9.963614,
+            44.827866
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Mauern dieser alten Burg, die von mittelalterlicher Macht zeugt, und buchen Sie im Voraus eine Führung durch die Prunkräume.",
+            "hu": "Fedezze fel ezen ősi kastély lenyűgöző falait, amelyek a középkori hatalomról tanúskodnak, és foglaljon előre vezetett túrát a díszes termek megtekintéséhez.",
+            "ro": "Explorați zidurile fascinante ale acestui castel antic, mărturie a puterii medievale, și rezervați în avans un tur ghidat pentru a vedea camerele somptuoase.",
+            "en": "Explore the fascinating walls of this ancient castle testifying to medieval power, and book a guided tour in advance to see the magnificent state rooms."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Vitale",
+            "hu": "Chiesa di San Vitale",
+            "ro": "Chiesa di San Vitale",
+            "en": "Chiesa di San Vitale"
+          },
+          "coords": [
+            9.977646,
+            44.816942
+          ],
+          "category": "religious",
+          "arrive_at": "10:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese charmante Kirche mit ihrer intimen Atmosphäre, die die lokale religiöse Geschichte widerspiegelt, und kommen Sie morgens, um die Stille zu genießen.",
+            "hu": "Fedezze fel ezt a meghitt hangulatú bájos templomot, amely a helyi vallástörténetet tükrözi, és érkezzen reggel, hogy élvezze a teljes csendet.",
+            "ro": "Descoperiți această biserică fermecătoare cu atmosfera sa intimă, care reflectă istoria religioasă locală, și veniți dimineața pentru a vă bucura de liniște.",
+            "en": "Discover this charming church with its intimate atmosphere reflecting local religious history, and arrive in the morning to enjoy the complete silence."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento al Fante",
+            "hu": "Monumento al Fante",
+            "ro": "Monumento al Fante",
+            "en": "Monumento al Fante"
+          },
+          "coords": [
+            9.978742,
+            44.816401
+          ],
+          "category": "historical",
+          "arrive_at": "11:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses historische Denkmal für die Infanterie, das an den Mut der Soldaten erinnert, und nutzen Sie das sanfte Licht für eindrucksvolle Fotos.",
+            "hu": "Tekintse meg a gyalogság hősei előtt tisztelgő történelmi emlékművet, és használja ki a lágy fényeket a tökéletes, tiszteletteljes fotók elkészítéséhez.",
+            "ro": "Contemplați acest monument istoric dedicat infanteriei, care comemorează curajul soldaților, și profitați de lumina blândă pentru fotografii impresionante.",
+            "en": "View this historical infantry monument honoring the courage of soldiers, and take advantage of the soft lighting to capture impressive, respectful photos."
+          }
+        },
+        {
+          "name": {
+            "de": "La grotta polare",
+            "hu": "La grotta polare",
+            "ro": "La grotta polare",
+            "en": "La grotta polare"
+          },
+          "coords": [
+            9.980021,
+            44.816249
+          ],
+          "category": "recreational",
+          "arrive_at": "12:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erleben Sie die kühle Erfrischung dieser einzigartigen Freizeitanlage, die besonders an warmen Tagen eine willkommene Pause bietet, und tragen Sie bequeme Schuhe.",
+            "hu": "Élvezze e különleges szabadidős létesítmény hűsítő frissességét, amely meleg napokon igazi felüdülést nyújt, és viseljen kényelmes cipőt a sétához.",
+            "ro": "Experimentați răcoarea acestei facilități de agrement unice, care oferă o pauză perfectă în zilele calde, și asigurați-vă că purtați încălțăminte comodă.",
+            "en": "Experience the cool refreshment of this unique recreational facility, offering a perfect break on warm days, and be sure to wear comfortable walking shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a Gian Domenico Romagnosi.",
+            "hu": "Monumento a Gian Domenico Romagnosi.",
+            "ro": "Monumento a Gian Domenico Romagnosi.",
+            "en": "Monumento a Gian Domenico Romagnosi."
+          },
+          "coords": [
+            9.984156,
+            44.81303
+          ],
+          "category": "historical",
+          "arrive_at": "14:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Würdigen Sie dieses Denkmal des berühmten Juristen, das intellektuelle Größe symbolisiert, und lesen Sie die Inschrift, um seine lokale Bedeutung zu verstehen.",
+            "hu": "Tisztelegjen a híres jogász emlékműve előtt, amely az intellektuális nagyságot szimbolizálja, és olvassa el a feliratot a helyi jelentőség megértéséhez.",
+            "ro": "Onorați acest monument al faimosului jurist, simbolizând măreția intelectuală, și citiți inscripția pentru a înțelege importanța sa pentru comunitatea locală.",
+            "en": "Honor this monument to the famous jurist, symbolizing intellectual greatness, and read the inscription to fully understand his importance to the local community."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santa Maria Ausiliatrice",
+            "hu": "Chiesa di Santa Maria Ausiliatrice",
+            "ro": "Chiesa di Santa Maria Ausiliatrice",
+            "en": "Chiesa di Santa Maria Ausiliatrice"
+          },
+          "coords": [
+            9.996301,
+            44.809547
+          ],
+          "category": "religious",
+          "arrive_at": "15:27",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihre Tour an dieser einladenden Kirche ab, deren friedliche Aura den Tag abrundet, und genießen Sie die spirituelle Ruhe in den Abendstunden.",
+            "hu": "Zárja a napot ennél a hívogató templomnál, amelynek békés aurája tökéletes befejezést nyújt, és élvezze a spirituális nyugalmat a késő délutáni órákban.",
+            "ro": "Încheiați turul la această biserică primitoare, a cărei aură pașnică completează ziua, și bucurați-vă de liniștea spirituală în orele târzii ale după-amiezii.",
+            "en": "Conclude your tour at this inviting church, whose peaceful aura provides a perfect end to the day, and enjoy the spiritual tranquility in the late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir starten schwungvoll mit einer Fahrt zur majestätischen Burg vor den Toren der Stadt. Mittags kehren wir ins Zentrum zurück, um Kirchen und historische Denkmäler zu besichtigen. Der Nachmittag bringt uns durch grüne Anlagen und zu den wichtigsten Plätzen der Stadtgeschichte. Am Abend radeln wir entspannt zur letzten Kirche und genießen die kühle Brise.",
+        "hu": "Lendületesen kezdünk egy kerékpározással a város kapui előtt álló fenséges kastélyhoz. Délben visszatérünk a központba, hogy templomokat és történelmi emlékműveket látogassunk meg. A délután zöld területeken és a várostörténet fontos terein vezet keresztül. Este lazán eltekerünk az utolsó templomig, élvezve az esti hűsítő szellőt.",
+        "ro": "Începem în forță cu o plimbare cu bicicleta spre castelul maiestuos aflat chiar la marginea orașului. La prânz, ne întoarcem în centru pentru a vizita biserici și monumente istorice. După-amiaza ne poartă prin zone verzi și piețe importante ale istoriei locale. Seara, pedalăm relaxați spre ultima biserică, bucurându-ne de briza răcoroasă.",
+        "en": "We start energetically with a ride to the majestic castle located just outside the city. At midday, we return to the center to visit charming churches and historical monuments. The afternoon takes us through green spaces and the important squares of the city's history. In the evening, we cycle reasonably to the final church, enjoying the cool evening breeze."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:29",
+      "total_km": 5.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Castello di Scipione",
+            "hu": "Castello di Scipione",
+            "ro": "Castello di Scipione",
+            "en": "Castello di Scipione"
+          },
+          "coords": [
+            9.963614,
+            44.827866
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Mauern dieser alten Burg, die von mittelalterlicher Macht zeugt, und buchen Sie im Voraus eine Führung durch die Prunkräume.",
+            "hu": "Fedezze fel ezen ősi kastély lenyűgöző falait, amelyek a középkori hatalomról tanúskodnak, és foglaljon előre vezetett túrát a díszes termek megtekintéséhez.",
+            "ro": "Explorați zidurile fascinante ale acestui castel antic, mărturie a puterii medievale, și rezervați în avans un tur ghidat pentru a vedea camerele somptuoase.",
+            "en": "Explore the fascinating walls of this ancient castle testifying to medieval power, and book a guided tour in advance to see the magnificent state rooms."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Sant'Antonio",
+            "hu": "Chiesa di Sant'Antonio",
+            "ro": "Chiesa di Sant'Antonio",
+            "en": "Chiesa di Sant'Antonio"
+          },
+          "coords": [
+            9.988595,
+            44.821632
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese ruhig gelegene Kirche, die für ihre schlichte architektonische Schönheit bekannt ist, und nehmen Sie sich Zeit für eine stille Reflexion.",
+            "hu": "Látogasson el ebbe a csendes környezetben fekvő, letisztult építészeti szépségéről ismert templomba, és szánjon időt egy rövid, elmélyült elmélkedésre.",
+            "ro": "Vizitați această biserică situată într-o zonă liniștită, cunoscută pentru frumusețea sa arhitecturală simplă, și alocați timp pentru o scurtă reflecție.",
+            "en": "Visit this quietly located church known for its clean architectural beauty, and set aside some time for a moment of peaceful, quiet reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento al Fante",
+            "hu": "Monumento al Fante",
+            "ro": "Monumento al Fante",
+            "en": "Monumento al Fante"
+          },
+          "coords": [
+            9.978742,
+            44.816401
+          ],
+          "category": "historical",
+          "arrive_at": "11:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses historische Denkmal für die Infanterie, das an den Mut der Soldaten erinnert, und nutzen Sie das sanfte Licht für eindrucksvolle Fotos.",
+            "hu": "Tekintse meg a gyalogság hősei előtt tisztelgő történelmi emlékművet, és használja ki a lágy fényeket a tökéletes, tiszteletteljes fotók elkészítéséhez.",
+            "ro": "Contemplați acest monument istoric dedicat infanteriei, care comemorează curajul soldaților, și profitați de lumina blândă pentru fotografii impresionante.",
+            "en": "View this historical infantry monument honoring the courage of soldiers, and take advantage of the soft lighting to capture impressive, respectful photos."
+          }
+        },
+        {
+          "name": {
+            "de": "La grotta polare",
+            "hu": "La grotta polare",
+            "ro": "La grotta polare",
+            "en": "La grotta polare"
+          },
+          "coords": [
+            9.980021,
+            44.816249
+          ],
+          "category": "recreational",
+          "arrive_at": "12:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erleben Sie die kühle Erfrischung dieser einzigartigen Freizeitanlage, die besonders an warmen Tagen eine willkommene Pause bietet, und tragen Sie bequeme Schuhe.",
+            "hu": "Élvezze e különleges szabadidős létesítmény hűsítő frissességét, amely meleg napokon igazi felüdülést nyújt, és viseljen kényelmes cipőt a sétához.",
+            "ro": "Experimentați răcoarea acestei facilități de agrement unice, care oferă o pauză perfectă în zilele calde, și asigurați-vă că purtați încălțăminte comodă.",
+            "en": "Experience the cool refreshment of this unique recreational facility, offering a perfect break on warm days, and be sure to wear comfortable walking shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a Gian Domenico Romagnosi.",
+            "hu": "Monumento a Gian Domenico Romagnosi.",
+            "ro": "Monumento a Gian Domenico Romagnosi.",
+            "en": "Monumento a Gian Domenico Romagnosi."
+          },
+          "coords": [
+            9.984156,
+            44.81303
+          ],
+          "category": "historical",
+          "arrive_at": "13:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Würdigen Sie dieses Denkmal des berühmten Juristen, das intellektuelle Größe symbolisiert, und lesen Sie die Inschrift, um seine lokale Bedeutung zu verstehen.",
+            "hu": "Tisztelegjen a híres jogász emlékműve előtt, amely az intellektuális nagyságot szimbolizálja, és olvassa el a feliratot a helyi jelentőség megértéséhez.",
+            "ro": "Onorați acest monument al faimosului jurist, simbolizând măreția intelectuală, și citiți inscripția pentru a înțelege importanța sa pentru comunitatea locală.",
+            "en": "Honor this monument to the famous jurist, symbolizing intellectual greatness, and read the inscription to fully understand his importance to the local community."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santa Maria Ausiliatrice",
+            "hu": "Chiesa di Santa Maria Ausiliatrice",
+            "ro": "Chiesa di Santa Maria Ausiliatrice",
+            "en": "Chiesa di Santa Maria Ausiliatrice"
+          },
+          "coords": [
+            9.996301,
+            44.809547
+          ],
+          "category": "religious",
+          "arrive_at": "15:19",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihre Tour an dieser einladenden Kirche ab, deren friedliche Aura den Tag abrundet, und genießen Sie die spirituelle Ruhe in den Abendstunden.",
+            "hu": "Zárja a napot ennél a hívogató templomnál, amelynek békés aurája tökéletes befejezést nyújt, és élvezze a spirituális nyugalmat a késő délutáni órákban.",
+            "ro": "Încheiați turul la această biserică primitoare, a cărei aură pașnică completează ziua, și bucurați-vă de liniștea spirituală în orele târzii ale după-amiezii.",
+            "en": "Conclude your tour at this inviting church, whose peaceful aura provides a perfect end to the day, and enjoy the spiritual tranquility in the late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die bequeme Autotour beginnt mit dem beeindruckenden Castello di Scipione in den Hügeln. Am Mittag erkunden wir die gut erreichbaren Denkmäler und Kirchen im Stadtgebiet. Der Nachmittag bietet eine entspannte Weiterfahrt zu den Erholungsgebieten und weiteren historischen Punkten. Den Abend beschließen wir mit einem ruhigen Halt an einer spirituellen Stätte.",
+        "hu": "A kényelmes autós túra a dombokon fekvő lenyűgöző Castello di Scipione megtekintésével kezdődik. Délben a város könnyen megközelíthető műemlékeit és templomait fedezzük fel. A délután pihentető utazást kínál a rekreációs területek és további történelmi pontok felé. Az estét egy spirituális helyszínen tett csendes, nyugodt megállóval zárjuk.",
+        "ro": "Turul confortabil cu mașina începe cu impresionantul Castello di Scipione de pe dealuri. La prânz, explorăm monumentele și bisericile ușor accesibile din zona urbană. După-amiaza oferă o călătorie relaxantă către zonele de recreere și alte puncte istorice importante. Încheiem seara cu o oprire liniștită la un loc spiritual și profund relaxant.",
+        "en": "The comfortable car tour begins with the impressive Castello di Scipione situated in the hills. At midday, we explore the easily accessible monuments and churches within the urban area. The afternoon offers a relaxing drive to the recreational areas and further historical landmarks. We conclude the evening with a quiet stop at a deeply spiritual site."
+      }
+    }
+  }
+}

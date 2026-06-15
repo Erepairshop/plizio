@@ -1,0 +1,428 @@
+{
+  "city_id": "terrasson-lavilledieu",
+  "anchor": {
+    "name": "Terrasson-Lavilledieu",
+    "coords": [
+      1.3014,
+      45.13
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:51",
+      "total_km": 0.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Abtei Saint-Sour",
+            "hu": "Saint-Sour Apátság",
+            "ro": "Abația Saint-Sour",
+            "en": "Saint Sour Abbey"
+          },
+          "coords": [
+            1.302886,
+            45.126208
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die kunstvoll geschnitzten Kapitelle, die biblische Geschichten erzählen, und nutzen Sie das Morgenlicht für schöne Innenaufnahmen.",
+            "hu": "Figyelje meg a bibliai történeteket elbeszélő, finoman faragott oszlopfőket, és használja ki a reggeli fényviszonyokat az épületfotózáshoz.",
+            "ro": "Admirați capitelurile sculptate complex cu povești biblice și profitați de lumina caldă a dimineții pentru fotografii reușite în interiorul abației.",
+            "en": "Admire the intricately carved capitals telling biblical stories, and take advantage of the beautiful morning light for the best indoor photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Sarkophage aus dem frühen Mittelalter",
+            "hu": "Kora középkori szarkofágok",
+            "ro": "Sarcofage din Evul Mediu timpuriu",
+            "en": "Sarcophages du haut Moyen-Age"
+          },
+          "coords": [
+            1.303866,
+            45.126822
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beachten Sie die bemerkenswert gut erhaltenen Steinmetzarbeiten dieser antiken Gräber, während Sie die historischen Klippenpfade entlang spazieren.",
+            "hu": "Vegye szemügyre ezeknek az ősi síroknak a figyelemre méltóan jó állapotban fennmaradt kőfaragásait a történelmi sziklaösvényeken sétálva.",
+            "ro": "Observați sculpturile în piatră remarcabil conservate ale acestor morminte antice în timp ce vă plimbați pe cărările istorice și pitorești de pe stânci.",
+            "en": "Notice the remarkably preserved stone carvings of these ancient tombs while walking along the historic and scenic cliffside paths above the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Sour",
+            "hu": "Saint-Sour-templom",
+            "ro": "Biserica Saint-Sour",
+            "en": "Église Saint-Sour"
+          },
+          "coords": [
+            1.30555,
+            45.127023
+          ],
+          "category": "religious",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die auffälligen Buntglasfenster der Kirche und respektieren Sie die ruhige Atmosphäre während der täglichen Gebetszeiten der Gläubigen.",
+            "hu": "Csodálja meg a lenyűgöző ólomüveg ablakokat, és ügyeljen a csendes légkör tiszteletben tartására a helyi közösség napi imádságai idején.",
+            "ro": "Admirați vitraliile izbitoare ale bisericii și asigurați-vă că respectați atmosfera liniștită a locului în timpul orelor de rugăciune zilnică.",
+            "en": "Admire the striking stained glass windows and make sure to respect the quiet, contemplative atmosphere during the local community's daily prayers."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Brücke",
+            "hu": "Öreg híd",
+            "ro": "Podul Vechi",
+            "en": "Ancien Pont"
+          },
+          "coords": [
+            1.305034,
+            45.12851
+          ],
+          "category": "landmark",
+          "arrive_at": "11:58",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Machen Sie in der Mitte dieser historischen Brücke ein atemberaubendes Panoramafoto des Flusses Vézère, bevor Sie weiter in die Altstadt hineingehen.",
+            "hu": "Készítsen lenyűgöző panorámaképet a Vézère folyóról a történelmi híd közepéről, mielőtt átkelne és folytatná útját a hangulatos óvárosba.",
+            "ro": "Realizați o fotografie panoramică uimitoare a râului Vézère de la mijlocul acestui pod istoric înainte de a trece mai departe în inima orașului vechi.",
+            "en": "Capture a stunning panoramic photo of the Vézère river from the exact middle of this historic bridge before safely crossing over into the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Gärten der Vorstellungskraft",
+            "hu": "A Képzelet Kertjei",
+            "ro": "Grădinile Imaginației",
+            "en": "Gardens of the Imagination"
+          },
+          "coords": [
+            1.303333,
+            45.124167
+          ],
+          "category": "natural",
+          "arrive_at": "12:21",
+          "stay_min": 90,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tragen Sie bequeme Wanderschuhe, um diese zeitgenössischen Terrassengärten zu erkunden, die moderne Landschaftsarchitektur mit alten Mythen verbinden.",
+            "hu": "Viseljen kényelmes cipőt a kortárs teraszos kertek felfedezéséhez, amelyek gyönyörűen ötvözik a modern tájépítészetet az ősi mítoszokkal.",
+            "ro": "Purtați încălțăminte confortabilă pentru a explora aceste grădini terasate contemporane care îmbină frumos arhitectura peisagistică cu miturile antice.",
+            "en": "Wear comfortable walking shoes to comfortably explore these contemporary terraced gardens that beautifully merge modern landscape architecture with ancient myths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie den Tag mit der Erkundung der historischen Abtei Saint-Sour und der Entdeckung antiker Sarkophage entlang der malerischen Klippenpfade.\nMittag: Setzen Sie Ihre Reise durch die Altstadt mit einem Besuch der Kirche Saint-Sour fort und tauchen Sie in die mittelalterliche Atmosphäre ein.\nNachmittag: Überqueren Sie den historischen Ancien Pont, um die Aussicht auf den Fluss zu genießen, bevor Sie zu den Gärten aufsteigen.\nAbend: Beenden Sie Ihren Spaziergang entspannt in den Gärten der Vorstellungskraft und genießen Sie den Panoramablick auf Terrasson.",
+        "hu": "Délelőtt: Kezdje a napot a történelmi Saint-Sour apátság felfedezésével és az ősi szarkofágok megtekintésével a festői sziklaösvények mentén.\nDélben: Folytassa útját az óvárosban a Saint-Sour templom meglátogatásával, és szívja magába az egyedülálló középkori hangulatot.\nDélután: Keljen át a történelmi Ancien Pont-on, hogy megcsodálja a folyóra nyíló kilátást, mielőtt felkapaszkodna a kertekhez.\nEste: Fejezze be sétáját a Képzelet Kertjeiben pihenve, és élvezze a Terrassonra nyíló panorámát a kora esti órákban.",
+        "ro": "Dimineața: Începeți ziua explorând Abația istorică Saint-Sour și descoperind sarcofage antice de-a lungul potecilor pitorești de pe stânci.\nPrânz: Continuați-vă călătoria prin orașul vechi cu o vizită la Biserica Saint-Sour, absorbind atmosfera medievală autentică.\nDupă-amiaza: Traversați istoricul Ancien Pont pentru a admira priveliștile râului înainte de a urca spre Grădinile Imaginației.\nSeara: Încheiați-vă plimbarea relaxându-vă în grădinile terasate, bucurându-vă de vederea panoramică asupra orașului Terrasson.",
+        "en": "Morning: Start the day exploring the historic Saint Sour Abbey and discovering beautifully preserved ancient sarcophagi along the scenic cliff paths.\nMidday: Continue your journey through the heart of the old town with a visit to the Saint-Sour Church, soaking in the medieval atmosphere.\nAfternoon: Cross the historic Ancien Pont to admire the sweeping river views before ascending to the remarkable Gardens of the Imagination.\nEvening: Conclude your walk by relaxing in the terraced gardens, enjoying the stunning panoramic views of Terrasson as the light softens."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:59",
+      "total_km": 4.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Gärten der Vorstellungskraft",
+            "hu": "A Képzelet Kertjei",
+            "ro": "Grădinile Imaginației",
+            "en": "Gardens of the Imagination"
+          },
+          "coords": [
+            1.303333,
+            45.124167
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad sicher ab und spazieren Sie durch diese faszinierende Grünanlage, die zeitgenössische Kunstwerke mit der lokalen Flora verbindet.",
+            "hu": "Zárja le kerékpárját biztonságosan, és sétáljon egyet ebben a lenyűgöző zöldövezetben, amely a kortárs műalkotásokat a helyi növényvilággal ötvözi.",
+            "ro": "Parcați bicicleta în siguranță și plimbați-vă prin acest spațiu verde fascinant, care combină lucrări de artă contemporană cu flora locală luxuriantă.",
+            "en": "Safely park your bike and take a leisurely walk through this fascinating green space that perfectly combines contemporary artworks with local flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Brücke",
+            "hu": "Öreg híd",
+            "ro": "Podul Vechi",
+            "en": "Ancien Pont"
+          },
+          "coords": [
+            1.305034,
+            45.12851
+          ],
+          "category": "landmark",
+          "arrive_at": "10:13",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schieben Sie Ihr Fahrrad kurz über diese historische Brücke und nutzen Sie den perfekten Aussichtspunkt für ein beeindruckendes Foto des Tals.",
+            "hu": "Tolja át kerékpárját ezen a történelmi hídon, és használja ki a tökéletes kilátópontot a völgy lenyűgöző szépségének megörökítésére.",
+            "ro": "Mergeți pe lângă bicicletă peste acest pod istoric și profitați de punctul de observație perfect pentru a face o fotografie impresionantă a văii.",
+            "en": "Walk your bike briefly across this historic bridge, taking full advantage of the perfect vantage point for a stunning photo of the river valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Fraysse",
+            "hu": "Fraysse-kastély",
+            "ro": "Castelul Fraysse",
+            "en": "Château du Fraysse"
+          },
+          "coords": [
+            1.312571,
+            45.127868
+          ],
+          "category": "castle",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Achten Sie auf die architektonischen Details der Renaissance an der Fassade, da der Zugang zum Innenraum je nach Saison eingeschränkt sein kann.",
+            "hu": "Figyelje meg a homlokzat reneszánsz építészeti részleteit, de vegye figyelembe, hogy a belső tér látogatása évszaktól függően korlátozott lehet.",
+            "ro": "Fiți atenți la detaliile arhitecturale renascentiste de pe fațadă, deși accesul în interior poate fi restricționat în funcție de sezonul turistic.",
+            "en": "Keep an eye out for the fine Renaissance architectural details on the facade, though note that interior access may be restricted depending on the season."
+          }
+        },
+        {
+          "name": {
+            "de": "Schokoladenmuseum Bovetti",
+            "hu": "Bovetti Csokoládémúzeum",
+            "ro": "Muzeul Ciocolatei Bovetti",
+            "en": "Musée du Chocolat Bovetti"
+          },
+          "coords": [
+            1.321964,
+            45.127108
+          ],
+          "category": "museum",
+          "arrive_at": "11:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die interaktive Demonstration der Schokoladenherstellung und probieren Sie unbedingt die würzigen Schokoladenmischungen im Souvenirladen.",
+            "hu": "Élvezze az interaktív csokoládékészítő bemutatót, és ne távozzon anélkül, hogy megkóstolná a fűszeres csokoládékeverékeket a nagyszerű ajándékboltban.",
+            "ro": "Bucurați-vă de demonstrația interactivă de preparare a ciocolatei și nu plecați fără să gustați amestecurile lor picante deosebite de la magazinul de suveniruri.",
+            "en": "Enjoy the interactive chocolate-making demonstration and don't leave without tasting their signature and unique spicy chocolate blends in the gift shop."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Barthélémy",
+            "hu": "Saint-Barthélémy-templom",
+            "ro": "Biserica Saint-Barthélémy",
+            "en": "Église Saint-Barthélémy"
+          },
+          "coords": [
+            1.306459,
+            45.144708
+          ],
+          "category": "religious",
+          "arrive_at": "13:49",
+          "stay_min": 70,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die friedliche ländliche Umgebung dieser charmanten Kirche, die sich perfekt für eine kurze Pause abseits des Stadtzentrums eignet.",
+            "hu": "Csodálja meg ennek a bájos templomnak a békés vidéki környezetét, amely tökéletes egy rövid pihenőre és csendes elmélkedésre a központtól távol.",
+            "ro": "Admirați cadrul rural liniștit al acestei biserici fermecătoare, perfectă pentru o scurtă odihnă și reflecție departe de agitația zgomotoasă a centrului.",
+            "en": "Marvel at the peaceful rural setting of this charming church, which is perfectly suited for a short scenic rest and quiet reflection away from the busy center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Radeln Sie zuerst zu den atemberaubenden Gärten der Vorstellungskraft und genießen Sie die frische Luft und die großartige Landschaftsarchitektur.\nMittag: Fahren Sie über den Ancien Pont und halten Sie am majestätischen Château du Fraysse, um seine historische Architektur ausgiebig zu bewundern.\nNachmittag: Gönnen Sie sich eine süße Pause im Schokoladenmuseum Bovetti und tanken Sie bei köstlichen lokalen Kreationen neue Energie für die Weiterfahrt.\nAbend: Beenden Sie Ihre Radtour mit einer malerischen Fahrt zur Kirche Saint-Barthélémy und genießen Sie den friedlichen ländlichen Sonnenuntergang.",
+        "hu": "Délelőtt: Kerekezzen el először a lenyűgöző Képzelet Kertjeibe, élvezve a friss levegőt és a lélegzetelállító, modern tájépítészeti megoldásokat.\nDélben: Hajtson át az Ancien Pont-on, és álljon meg a fenséges Fraysse-kastélynál, hogy megcsodálja a vidék kiemelkedő történelmi építészetét.\nDélután: Lepje meg magát egy édes pihenővel a Bovetti Csokoládémúzeumban, ahol finom helyi alkotásokkal nyerheti vissza energiáját a nap folytatásához.\nEste: Fejezze be kerékpártúráját egy festői utazással a Saint-Barthélémy templomhoz, élvezve a békés vidéki naplementét a fák ölelésében.",
+        "ro": "Dimineața: Pedalați mai întâi către uimitoarele Grădini ale Imaginației, bucurându-vă de aerul proaspăt și de arhitectura peisagistică care îți taie respirația.\nPrânz: Mergeți peste Ancien Pont și opriți-vă la maiestuosul Château du Fraysse pentru a admira în detaliu arhitectura sa istorică impresionantă.\nDupă-amiaza: Răsfățați-vă cu o oprire dulce la Muzeul Ciocolatei Bovetti, recuperându-vă energia cu creații locale delicioase și pline de savoare.\nSeara: Încheiați turul de ciclism cu o plimbare pitorească până la Biserica Saint-Barthélémy, bucurându-vă de apusul liniștit, în mijlocul naturii.",
+        "en": "Morning: Pedal out to the stunning Gardens of the Imagination first thing in the morning, enjoying the fresh air and breathtaking modern landscape architecture.\nMidday: Ride across the historic Ancien Pont and stop by the majestic Château du Fraysse to thoroughly admire its grand historic stone architecture.\nAfternoon: Treat yourself to a highly anticipated sweet stop at the Bovetti Chocolate Museum, recovering your cycling energy with delicious local creations.\nEvening: Finish your cycling tour with a wonderfully scenic ride out to the Église Saint-Barthélémy, enjoying the deeply peaceful countryside sunset."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:12",
+      "total_km": 6.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mariä-Himmelfahrt-Kirche",
+            "hu": "Nagyboldogasszony-templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Église Notre-Dame-de-l'Assomption"
+          },
+          "coords": [
+            1.273923,
+            45.13679
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit der romanischen Architektur dieser Dorfkirche und bringen Sie eine Kamera mit, um ihre rustikalen Details festzuhalten.",
+            "hu": "Kezdje a napot ennek a falusi templomnak a román kori építészetével, és hozzon magával fényképezőgépet a rusztikus külső részletek megörökítéséhez.",
+            "ro": "Începeți-vă ziua cu arhitectura romanică a acestei biserici de sat, aducând un aparat foto pentru a surprinde detaliile sale exterioare rustice unice.",
+            "en": "Start your day with the serene Romanesque architecture of this lovely village church, bringing a camera to gracefully capture its deeply rustic exterior details."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Barthélémy",
+            "hu": "Saint-Barthélémy-templom",
+            "ro": "Biserica Saint-Barthélémy",
+            "en": "Église Saint-Barthélémy"
+          },
+          "coords": [
+            1.306459,
+            45.144708
+          ],
+          "category": "religious",
+          "arrive_at": "09:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Parken Sie auf dem nahegelegenen Platz, um dieses versteckte religiöse Juwel bequem in der idyllischen und stillen französischen Landschaft zu besuchen.",
+            "hu": "Parkoljon le a közeli téren, hogy kényelmesen meglátogassa ezt a rejtett vallási gyöngyszemet a csendes és idilli francia vidéki környezetben.",
+            "ro": "Parcați în piața din apropiere pentru a vizita cu ușurință această bijuterie religioasă ascunsă în peisajul rural francez extrem de liniștit și pitoresc.",
+            "en": "Park comfortably in the nearby square to easily visit this beautifully hidden religious gem set within the quiet, idyllic, and green French countryside."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Brücke",
+            "hu": "Öreg híd",
+            "ro": "Podul Vechi",
+            "en": "Ancien Pont"
+          },
+          "coords": [
+            1.305034,
+            45.12851
+          ],
+          "category": "landmark",
+          "arrive_at": "10:40",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Parkplätze am Flussufer in der Nähe und spazieren Sie zu diesem historischen Wahrzeichen für einen fantastischen Blick auf das Wasser.",
+            "hu": "Használja a közeli folyóparti parkolókat, és sétáljon el ehhez a történelmi nevezetességhez, ahonnan fantasztikus kilátás nyílik az alant folyó vízre.",
+            "ro": "Folosiți parcarea de pe malul râului din apropiere și mergeți pe jos până la acest reper istoric pentru o vedere fantastică și directă asupra apei.",
+            "en": "Make use of the convenient riverside parking nearby and take a short, pleasant stroll to this historic landmark for a fantastic and direct view of the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Abtei Saint-Sour",
+            "hu": "Saint-Sour Apátság",
+            "ro": "Abația Saint-Sour",
+            "en": "Saint Sour Abbey"
+          },
+          "coords": [
+            1.302886,
+            45.126208
+          ],
+          "category": "religious",
+          "arrive_at": "10:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto stehen, da die engen Gassen zur Abtei am besten zu Fuß vom Brückenbereich aus erkundet und in vollen Zügen genossen werden können.",
+            "hu": "Hagyja az autót a lenti parkolóban, mivel az apátsághoz vezető szűk utcákat a híd környékéről gyalog a legérdemesebb megközelíteni és felfedezni.",
+            "ro": "Lăsați mașina jos, deoarece străzile înguste care duc spre abație sunt cel mai bine explorate și savurate pe jos, venind din zona podului vechi.",
+            "en": "Leave the car parked, as the narrow, atmospheric streets leading up to the abbey are best explored and truly appreciated on foot from the bridge area."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Fraysse",
+            "hu": "Fraysse-kastély",
+            "ro": "Castelul Fraysse",
+            "en": "Château du Fraysse"
+          },
+          "coords": [
+            1.312571,
+            45.127868
+          ],
+          "category": "castle",
+          "arrive_at": "11:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Fahren Sie ein kurzes Stück zum Schlossgelände und nutzen Sie das Gelände für einen angenehmen historischen Rundgang vor dem Mittagessen in der Region.",
+            "hu": "Vezessen egy rövid szakaszt a kastélyhoz, és használja ki a területeket egy kellemes történelmi sétára, mielőtt elfogyasztaná ebédjét a régióban.",
+            "ro": "Conduceți o distanță scurtă până la domeniul castelului și bucurați-vă de un tur istoric plăcut înainte de a lua prânzul în această regiune frumoasă.",
+            "en": "Drive a very short distance to the castle grounds, utilizing the expansive outdoor areas for a pleasant historical stroll before lunch in the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Schokoladenmuseum Bovetti",
+            "hu": "Bovetti Csokoládémúzeum",
+            "ro": "Muzeul Ciocolatei Bovetti",
+            "en": "Musée du Chocolat Bovetti"
+          },
+          "coords": [
+            1.321964,
+            45.127108
+          ],
+          "category": "museum",
+          "arrive_at": "13:02",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Dieses Museum bietet hervorragende Parkmöglichkeiten für Besucher und ist der ideale Ort, um sich am Nachmittag mit regionalen Leckereien einzudecken.",
+            "hu": "Ez a múzeum kiváló parkolási lehetőséget kínál a látogatóknak, és ideális helyszín arra, hogy délután bevásároljon a finom regionális édességekből.",
+            "ro": "Acest muzeu oferă un spațiu de parcare excelent pentru toți vizitatorii și este locul ideal pentru a face provizii de bunătăți regionale în timpul după-amiezii.",
+            "en": "This interactive museum provides excellent visitor parking right out front, making it the ideal spot to stock up on exquisite regional chocolate treats."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Fahren Sie zur charmanten Kirche Notre-Dame-de-l'Assomption und der Kirche Saint-Barthélémy, um das Erbe der weiteren Umgebung zu erkunden.\nMittag: Kehren Sie ins Zentrum zurück, parken Sie in der Nähe des Ancien Pont und spazieren Sie hinauf zur historischen Abtei Saint-Sour, um deren Architektur zu bewundern.\nNachmittag: Fahren Sie zum eleganten Château du Fraysse, bevor Sie in die faszinierende und köstliche Welt des Schokoladenmuseums Bovetti eintauchen.\nAbend: Beenden Sie Ihren Roadtrip mit einem entspannten Abend im Zentrum, vielleicht mit einigen kunsthandwerklichen Schokoladen für die Heimreise.",
+        "hu": "Délelőtt: Vezessen el a bájos Nagyboldogasszony-templomhoz és a Saint-Barthélémy templomhoz, hogy kényelmesen felfedezze a tágabb régió gazdag örökségét.\nDélben: Térjen vissza a központba, parkoljon le az Ancien Pont közelében, és sétáljon fel a történelmi Saint-Sour apátsághoz, megcsodálva annak építészetét.\nDélután: Látogasson el az elegáns Fraysse-kastélyhoz autójával, mielőtt elmerülne a Bovetti Csokoládémúzeum lenyűgöző és ízletes világában egy vezetésen.\nEste: Fejezze be autós utazását egy nyugodt estével az óvárosban sétálva, esetleg kézműves csokoládékat kóstolgatva, felkészülve a hazautazásra.",
+        "ro": "Dimineața: Conduceți spre fermecătoarea Biserică Adormirea Maicii Domnului și Biserica Saint-Barthélémy pentru a explora confortabil moștenirea regiunii mai largi.\nPrânz: Întoarceți-vă în centru, parcați lângă Ancien Pont și urcați pe jos până la Abația istorică Saint-Sour pentru a-i admira detaliile arhitecturale uimitoare.\nDupă-amiaza: Îndreptați-vă spre elegantul Château du Fraysse înainte de a vă scufunda în lumea fascinantă și delicioasă a Muzeului Ciocolatei Bovetti din apropiere.\nSeara: Încheiați călătoria cu mașina cu o seară relaxată plimbându-vă prin orașul vechi, luând cu dumneavoastră câteva ciocolate artizanale fine pentru drumul spre casă.",
+        "en": "Morning: Take a pleasant scenic drive out to the charming Église Notre-Dame-de-l'Assomption and the Église Saint-Barthélémy to explore the wider region's heritage.\nMidday: Return to the center, easily park near the Ancien Pont, and walk up the stone streets to the historic Saint Sour Abbey to admire its architecture.\nAfternoon: Head over to the remarkably elegant Château du Fraysse before fully diving into the fascinating, delicious world of the Bovetti Chocolate Museum.\nEvening: End your relaxing road trip with a quiet evening walking through the glowing old town, perhaps picking up some artisan chocolates for the ride home."
+      }
+    }
+  }
+}

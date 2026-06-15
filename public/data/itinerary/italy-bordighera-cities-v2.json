@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-bordighera-cities-v2",
+  "anchor": {
+    "name": "Bordighera",
+    "coords": [
+      7.66451,
+      43.78064
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:36",
+      "total_km": 2.65,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bagni Caranca",
+            "hu": "Bagni Caranca",
+            "ro": "Bagni Caranca",
+            "en": "Bagni Caranca"
+          },
+          "coords": [
+            7.67284,
+            43.77651
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Kieselstrand mit klarem Wasser und mieten Sie frühzeitig eine Sonnenliege, um die ligurische Sonne in Ruhe zu genießen.",
+            "hu": "Pihenjen ezen a festői, kristálytiszta vizű kavicsos strandon, és béreljen napágyat korán, hogy nyugodtan élvezhesse a csodás liguriai napsütést egész nap.",
+            "ro": "Relaxează-te pe această plajă pitorească cu pietriș și apă cristalină, închiriind un șezlong devreme pentru a te bucura liniștit de soarele liguric splendid.",
+            "en": "Relax on this picturesque pebble beach with crystal-clear water by renting a sunbed early to peacefully enjoy the beautiful Ligurian sunshine all day long."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Lido",
+            "hu": "Bagni Lido",
+            "ro": "Bagni Lido",
+            "en": "Bagni Lido"
+          },
+          "coords": [
+            7.670343,
+            43.776972
+          ],
+          "category": "recreational",
+          "arrive_at": "10:13",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die erstklassigen Annehmlichkeiten dieses eleganten Strandbads und probieren Sie unbedingt ein erfrischendes Getränk an der lokalen Strandbar.",
+            "hu": "Élvezze ennek az elegáns strandfürdőnek a prémium szolgáltatásait, és mindenképpen kóstoljon meg egy hűsítő italt a kiváló helyi tengerparti bárban nyáron.",
+            "ro": "Bucură-te de facilitățile premium ale acestei plaje elegante și nu uita să savurezi o băutură răcoritoare la barul excelent de pe malul mării în timpul zilei.",
+            "en": "Enjoy the premium amenities of this elegant beach club and be sure to try a refreshing cold drink at the excellent local seaside bar during the hot afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Bordilandia Park",
+            "hu": "Bordilandia Park",
+            "ro": "Bordilandia Park",
+            "en": "Bordilandia Park"
+          },
+          "coords": [
+            7.652555,
+            43.78079
+          ],
+          "category": "park",
+          "arrive_at": "11:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder in diesem familienfreundlichen Vergnügungspark toben und besuchen Sie ihn am besten vormittags, wenn es weniger überfüllt und heiß ist.",
+            "hu": "Hagyja, hogy a gyerekek kikapcsolódjanak ebben a családbarát vidámparkban, amelyet érdemes délelőtt meglátogatni, amikor még sokkal kevesebben vannak itt.",
+            "ro": "Lasă copiii să se distreze în acest parc de distracții prietenos cu familiile, pe care este ideal să-l vizitezi dimineața când este mult mai puțin aglomerat.",
+            "en": "Let the children run wild and have fun in this family-friendly amusement park, which is best visited during the early morning hours when it is less crowded."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni La Polena",
+            "hu": "Bagni La Polena",
+            "ro": "Bagni La Polena",
+            "en": "Bagni La Polena"
+          },
+          "coords": [
+            7.645681,
+            43.781979
+          ],
+          "category": "recreational",
+          "arrive_at": "13:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gepflegte Promenade bei diesem charmanten Küstenabschnitt und bringen Sie Wasserschuhe mit, um bequem über die Kieselsteine laufen zu können.",
+            "hu": "Csodálja meg a gondozott sétányt ennél a hangulatos partszakasznál, és hozzon magával vízicipőt, hogy kényelmesen sétálhasson a tengeri kavicsos mederben.",
+            "ro": "Admiră promenada bine îngrijită lângă această secțiune fermecătoare de coastă și adu-ți încălțăminte de apă pentru a păși confortabil pe pietrele netede.",
+            "en": "Admire the well-kept promenade near this charming coastal section and bring comfortable water shoes to easily walk over the smooth pebbles into the clear sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Corallo Beach",
+            "hu": "Corallo Beach",
+            "ro": "Corallo Beach",
+            "en": "Corallo Beach"
+          },
+          "coords": [
+            7.642839,
+            43.782419
+          ],
+          "category": "recreational",
+          "arrive_at": "14:04",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das azurblaue Meer dieses gepflegten Strandes ein und reservieren Sie Ihren Platz vorab online, um Enttäuschungen in der Hochsaison zu vermeiden.",
+            "hu": "Csobbanjon a tiszta vizű, gondozott strand azúrkék tengerében, és foglalja le a helyét előre online, hogy elkerülje a csalódást a rendkívül forgalmas főszezonban.",
+            "ro": "Scufundă-te în marea azurie a acestei plaje bine întreținute și rezervă-ți locul online în avans pentru a evita dezamăgirile în timpul sezonului turistic de vârf.",
+            "en": "Dive into the azure sea of this perfectly maintained beach area and reserve your spot online in advance to easily avoid disappointment during peak summer season."
+          }
+        },
+        {
+          "name": {
+            "de": "Grecale Beach Club",
+            "hu": "Grecale Beach Club",
+            "ro": "Grecale Beach Club",
+            "en": "Grecale Beach Club"
+          },
+          "coords": [
+            7.641735,
+            43.782638
+          ],
+          "category": "recreational",
+          "arrive_at": "15:06",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erleben Sie einen luxuriösen Nachmittag an diesem exklusiven Strandclub, wo Sie unbedingt die hervorragenden frischen Meeresfrüchte im Restaurant probieren müssen.",
+            "hu": "Töltsön el egy fényűző délutánt ebben az exkluzív strandklubban, ahol mindenképpen érdemes megkóstolni a kiváló és friss tengeri ételeket a helyi étteremben.",
+            "ro": "Petrece o după-amiază luxoasă la acest club de plajă exclusivist, unde trebuie neapărat să guști preparatele excelente din fructe de mare proaspete la restaurant.",
+            "en": "Spend a truly luxurious afternoon at this exclusive premium beach club, where you absolutely must try the excellent fresh seafood dishes at the seaside restaurant."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Osten von Bordighera an den charmanten Kieselstränden. Nach einem erholsamen Start spazieren Sie gemütlich die Küste entlang.\nZur Mittagszeit locken weitere gepflegte Strandbäder mit kühlen Getränken. Die sanfte Meeresbrise begleitet Ihren entspannten Fußmarsch.\nAm Nachmittag erreichen Sie den familiären Park und genießen die lockere Atmosphäre. Die Promenade lädt zum Flanieren ein.\nDer Tag endet im westlichen Teil, wo exklusive Strandclubs auf Sie warten. Ein perfekter Abschluss mit Blick auf das glitzernde ligurische Meer.",
+        "hu": "A reggel Bordighera keleti részén, a hangulatos kavicsos strandokon indul. Egy pihentető kezdés után kényelmesen sétálhat a gyönyörű tengerparton.\nDélben további gondozott strandfürdők csábítanak hűsítő italokkal és tengeri panorámával. A lágy tengeri szellő végigkíséri a sétát.\nDélután eléri a családbarát parkot, ahol átadhatja magát a könnyed szórakozásnak. A gondozott sétány hívogatóan hat.\nA nap a nyugati parton ér véget, ahol exkluzív strandklubok várják. Tökéletes befejezés a csillogó liguriai tenger lenyűgöző látványával.",
+        "ro": "Dimineața începe în estul Bordigherei pe plajele fermecătoare cu pietriș. După un început relaxant, te vei plimba pe coasta pitorească.\nLa prânz, alte băi de coastă bine îngrijite te atrag cu băuturi reci. Briza blândă a mării îți va însoți mersul relaxat pe promenadă.\nDupă-amiaza, ajungi în parcul familial și te bucuri de atmosfera sa prietenoasă. Promenada este absolut perfectă pentru plimbări.\nZiua se încheie în partea de vest, unde te așteaptă cluburi de plajă exclusiviste. Un final perfect cu vedere la marea ligurică strălucitoare.",
+        "en": "The morning begins in the east of Bordighera at the charming pebble beaches. After a deeply relaxing start, you stroll along the stunning coast.\nAt noon, more well-kept seaside baths attract you with ice-cold drinks. The gentle sea breeze gracefully accompanies your relaxed coastal walk.\nIn the afternoon, you reach the family-friendly park and truly enjoy the casual atmosphere. The promenade invites you to linger and explore.\nThe day gently ends in the western part, where exclusive beach clubs await you. A perfect finale overlooking the sparkling Ligurian sea."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 3.05,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bagni Oasi",
+            "hu": "Bagni Oasi",
+            "ro": "Bagni Oasi",
+            "en": "Bagni Oasi"
+          },
+          "coords": [
+            7.63749,
+            43.783237
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieser ruhigen Oase am Meer und vergessen Sie Ihre Sonnencreme nicht, da die wertvollen Schattenplätze hier oft sehr begrenzt sind.",
+            "hu": "Élvezze a békés hangulatot ebben a csendes tengerparti oázisban, és ne felejtse el a naptejet, mivel az árnyékos helyek itt gyakran nagyon korlátozottak a melegben.",
+            "ro": "Bucură-te de atmosfera pașnică a acestei oaze liniștite de la malul mării și nu uita crema de protecție solară, deoarece locurile cu umbră sunt destul de limitate aici.",
+            "en": "Enjoy the incredibly peaceful atmosphere of this quiet seaside oasis and do not forget your high-SPF sunscreen as naturally shaded spots can often be quite limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Mediterraneo Beach",
+            "hu": "Mediterraneo Beach",
+            "ro": "Mediterraneo Beach",
+            "en": "Mediterraneo Beach"
+          },
+          "coords": [
+            7.638867,
+            43.783049
+          ],
+          "category": "recreational",
+          "arrive_at": "10:11",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang dieses wunderschönen, weitläufigen Strandes und nutzen Sie die Morgenstunden für ein ungestörtes und herrlich erfrischendes Schwimmerlebnis.",
+            "hu": "Sétáljon végig ezen a gyönyörű, tágas strandon, és használja ki a csendes reggeli órákat egy zavartalan és igazán frissítő úszásélményhez a hűvös tengervízben.",
+            "ro": "Plimbă-te de-a lungul acestei plaje superbe și spațioase, profitând din plin de orele dimineții pentru o experiență de înot liniștită și cu adevărat revigorantă.",
+            "en": "Walk along this gorgeously spacious and relaxing beach setting, taking full advantage of the quiet morning hours for an undisturbed and remarkably refreshing swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Corallo Beach",
+            "hu": "Corallo Beach",
+            "ro": "Corallo Beach",
+            "en": "Corallo Beach"
+          },
+          "coords": [
+            7.642839,
+            43.782419
+          ],
+          "category": "recreational",
+          "arrive_at": "11:13",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das azurblaue Meer dieses gepflegten Strandes ein und reservieren Sie Ihren Platz vorab online, um Enttäuschungen in der Hochsaison zu vermeiden.",
+            "hu": "Csobbanjon a tiszta vizű, gondozott strand azúrkék tengerében, és foglalja le a helyét előre online, hogy elkerülje a csalódást a rendkívül forgalmas főszezonban.",
+            "ro": "Scufundă-te în marea azurie a acestei plaje bine întreținute și rezervă-ți locul online în avans pentru a evita dezamăgirile în timpul sezonului turistic de vârf.",
+            "en": "Dive into the azure sea of this perfectly maintained beach area and reserve your spot online in advance to easily avoid disappointment during peak summer season."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni La Polena",
+            "hu": "Bagni La Polena",
+            "ro": "Bagni La Polena",
+            "en": "Bagni La Polena"
+          },
+          "coords": [
+            7.645681,
+            43.781979
+          ],
+          "category": "recreational",
+          "arrive_at": "12:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gepflegte Promenade bei diesem charmanten Küstenabschnitt und bringen Sie Wasserschuhe mit, um bequem über die Kieselsteine laufen zu können.",
+            "hu": "Csodálja meg a gondozott sétányt ennél a hangulatos partszakasznál, és hozzon magával vízicipőt, hogy kényelmesen sétálhasson a tengeri kavicsos mederben.",
+            "ro": "Admiră promenada bine îngrijită lângă această secțiune fermecătoare de coastă și adu-ți încălțăminte de apă pentru a păși confortabil pe pietrele netede.",
+            "en": "Admire the well-kept promenade near this charming coastal section and bring comfortable water shoes to easily walk over the smooth pebbles into the clear sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Bordilandia Park",
+            "hu": "Bordilandia Park",
+            "ro": "Bordilandia Park",
+            "en": "Bordilandia Park"
+          },
+          "coords": [
+            7.652555,
+            43.78079
+          ],
+          "category": "park",
+          "arrive_at": "13:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder in diesem familienfreundlichen Vergnügungspark toben und besuchen Sie ihn am besten vormittags, wenn es weniger überfüllt und heiß ist.",
+            "hu": "Hagyja, hogy a gyerekek kikapcsolódjanak ebben a családbarát vidámparkban, amelyet érdemes délelőtt meglátogatni, amikor még sokkal kevesebben vannak itt.",
+            "ro": "Lasă copiii să se distreze în acest parc de distracții prietenos cu familiile, pe care este ideal să-l vizitezi dimineața când este mult mai puțin aglomerat.",
+            "en": "Let the children run wild and have fun in this family-friendly amusement park, which is best visited during the early morning hours when it is less crowded."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Lido",
+            "hu": "Bagni Lido",
+            "ro": "Bagni Lido",
+            "en": "Bagni Lido"
+          },
+          "coords": [
+            7.670343,
+            43.776972
+          ],
+          "category": "recreational",
+          "arrive_at": "14:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die erstklassigen Annehmlichkeiten dieses eleganten Strandbads und probieren Sie unbedingt ein erfrischendes Getränk an der lokalen Strandbar.",
+            "hu": "Élvezze ennek az elegáns strandfürdőnek a prémium szolgáltatásait, és mindenképpen kóstoljon meg egy hűsítő italt a kiváló helyi tengerparti bárban nyáron.",
+            "ro": "Bucură-te de facilitățile premium ale acestei plaje elegante și nu uita să savurezi o băutură răcoritoare la barul excelent de pe malul mării în timpul zilei.",
+            "en": "Enjoy the premium amenities of this elegant beach club and be sure to try a refreshing cold drink at the excellent local seaside bar during the hot afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Caranca",
+            "hu": "Bagni Caranca",
+            "ro": "Bagni Caranca",
+            "en": "Bagni Caranca"
+          },
+          "coords": [
+            7.67284,
+            43.77651
+          ],
+          "category": "recreational",
+          "arrive_at": "15:41",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Kieselstrand mit klarem Wasser und mieten Sie frühzeitig eine Sonnenliege, um die ligurische Sonne in Ruhe zu genießen.",
+            "hu": "Pihenjen ezen a festői, kristálytiszta vizű kavicsos strandon, és béreljen napágyat korán, hogy nyugodtan élvezhesse a csodás liguriai napsütést egész nap.",
+            "ro": "Relaxează-te pe această plajă pitorească cu pietriș și apă cristalină, închiriind un șezlong devreme pentru a te bucura liniștit de soarele liguric splendid.",
+            "en": "Relax on this picturesque pebble beach with crystal-clear water by renting a sunbed early to peacefully enjoy the beautiful Ligurian sunshine all day long."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet im Westen an ruhigen Küstenabschnitten. Die frische Meeresluft sorgt für einen perfekten Start in den aktiven Morgen.\nGegen Mittag radeln Sie entspannt von Strand zu Strand. Die gut ausgebauten Wege entlang der Küste machen die Fahrt zu einem reinen Vergnügen.\nAm Nachmittag passieren Sie grüne Parkanlagen und legen eine Pause ein. Die Aussicht auf die Weite des Ozeans ist hierbei ständiger Begleiter.\nDer Abend führt Sie zu den östlichen Buchten, wo das Rauschen der Wellen den Tag ausklingen lässt. Ein herrliches Erlebnis auf zwei Rädern.",
+        "hu": "A kerékpártúra a nyugati részen, csendes partszakaszokon indul. A friss tengeri levegő tökéletes és energikus kezdést biztosít a reggelnek.\nDélben kényelmesen tekerhet egyik strandról a másikra. A tengerparti kerékpárutak és sétányok igazán élvezetessé teszik a biztonságos utazást.\nDélután zöldellő parkok mellett halad el, ahol érdemes egy kicsit megpihenni. A tenger végtelen látványa folyamatos útitársa lesz.\nAz este a keleti öblökhöz vezeti, ahol a hullámok morajlása tökéletes lezárást nyújt. Felejthetetlen élmény a gyönyörű liguriai tengerparton.",
+        "ro": "Turul tău cu bicicleta începe în vest, pe secțiuni de coastă liniștite. Aerul proaspăt al mării asigură un start activ și plin de energie dimineața.\nSpre prânz, pedalezi relaxat de la o plajă la alta. Căile bine dezvoltate de-a lungul coastei transformă călătoria într-o adevărată plăcere.\nDupă-amiaza, treci prin parcuri verzi și faci o pauză binemeritată. Priveliștea oceanului vast este un companion constant pe drum.\nSeara te conduce către golfurile estice, unde sunetul valurilor încheie minunat ziua. O experiență magnifică trăită din plin pe două roți.",
+        "en": "Your cycling tour starts in the west on quiet coastal sections. The incredibly fresh sea air provides a perfect start to an active sunny morning.\nAround noon, you cycle completely relaxed from beach to beach. The brilliantly maintained paths along the coast make the ride a pure pleasure.\nIn the afternoon, you pass lush green parks and take a well-deserved break. The beautiful view of the vast ocean is a constant lovely companion.\nThe evening leads you to the eastern bays, where the soothing sound of waves ends the day. A genuinely magnificent experience on two wheels."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:08",
+      "total_km": 3.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bagni Oasi",
+            "hu": "Bagni Oasi",
+            "ro": "Bagni Oasi",
+            "en": "Bagni Oasi"
+          },
+          "coords": [
+            7.63749,
+            43.783237
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieser ruhigen Oase am Meer und vergessen Sie Ihre Sonnencreme nicht, da die wertvollen Schattenplätze hier oft sehr begrenzt sind.",
+            "hu": "Élvezze a békés hangulatot ebben a csendes tengerparti oázisban, és ne felejtse el a naptejet, mivel az árnyékos helyek itt gyakran nagyon korlátozottak a melegben.",
+            "ro": "Bucură-te de atmosfera pașnică a acestei oaze liniștite de la malul mării și nu uita crema de protecție solară, deoarece locurile cu umbră sunt destul de limitate aici.",
+            "en": "Enjoy the incredibly peaceful atmosphere of this quiet seaside oasis and do not forget your high-SPF sunscreen as naturally shaded spots can often be quite limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Grecale Beach Club",
+            "hu": "Grecale Beach Club",
+            "ro": "Grecale Beach Club",
+            "en": "Grecale Beach Club"
+          },
+          "coords": [
+            7.641735,
+            43.782638
+          ],
+          "category": "recreational",
+          "arrive_at": "10:13",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erleben Sie einen luxuriösen Nachmittag an diesem exklusiven Strandclub, wo Sie unbedingt die hervorragenden frischen Meeresfrüchte im Restaurant probieren müssen.",
+            "hu": "Töltsön el egy fényűző délutánt ebben az exkluzív strandklubban, ahol mindenképpen érdemes megkóstolni a kiváló és friss tengeri ételeket a helyi étteremben.",
+            "ro": "Petrece o după-amiază luxoasă la acest club de plajă exclusivist, unde trebuie neapărat să guști preparatele excelente din fructe de mare proaspete la restaurant.",
+            "en": "Spend a truly luxurious afternoon at this exclusive premium beach club, where you absolutely must try the excellent fresh seafood dishes at the seaside restaurant."
+          }
+        },
+        {
+          "name": {
+            "de": "Bordilandia Park",
+            "hu": "Bordilandia Park",
+            "ro": "Bordilandia Park",
+            "en": "Bordilandia Park"
+          },
+          "coords": [
+            7.652555,
+            43.78079
+          ],
+          "category": "park",
+          "arrive_at": "11:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder in diesem familienfreundlichen Vergnügungspark toben und besuchen Sie ihn am besten vormittags, wenn es weniger überfüllt und heiß ist.",
+            "hu": "Hagyja, hogy a gyerekek kikapcsolódjanak ebben a családbarát vidámparkban, amelyet érdemes délelőtt meglátogatni, amikor még sokkal kevesebben vannak itt.",
+            "ro": "Lasă copiii să se distreze în acest parc de distracții prietenos cu familiile, pe care este ideal să-l vizitezi dimineața când este mult mai puțin aglomerat.",
+            "en": "Let the children run wild and have fun in this family-friendly amusement park, which is best visited during the early morning hours when it is less crowded."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Lido",
+            "hu": "Bagni Lido",
+            "ro": "Bagni Lido",
+            "en": "Bagni Lido"
+          },
+          "coords": [
+            7.670343,
+            43.776972
+          ],
+          "category": "recreational",
+          "arrive_at": "12:37",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die erstklassigen Annehmlichkeiten dieses eleganten Strandbads und probieren Sie unbedingt ein erfrischendes Getränk an der lokalen Strandbar.",
+            "hu": "Élvezze ennek az elegáns strandfürdőnek a prémium szolgáltatásait, és mindenképpen kóstoljon meg egy hűsítő italt a kiváló helyi tengerparti bárban nyáron.",
+            "ro": "Bucură-te de facilitățile premium ale acestei plaje elegante și nu uita să savurezi o băutură răcoritoare la barul excelent de pe malul mării în timpul zilei.",
+            "en": "Enjoy the premium amenities of this elegant beach club and be sure to try a refreshing cold drink at the excellent local seaside bar during the hot afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Caranca",
+            "hu": "Bagni Caranca",
+            "ro": "Bagni Caranca",
+            "en": "Bagni Caranca"
+          },
+          "coords": [
+            7.67284,
+            43.77651
+          ],
+          "category": "recreational",
+          "arrive_at": "13:38",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Kieselstrand mit klarem Wasser und mieten Sie frühzeitig eine Sonnenliege, um die ligurische Sonne in Ruhe zu genießen.",
+            "hu": "Pihenjen ezen a festői, kristálytiszta vizű kavicsos strandon, és béreljen napágyat korán, hogy nyugodtan élvezhesse a csodás liguriai napsütést egész nap.",
+            "ro": "Relaxează-te pe această plajă pitorească cu pietriș și apă cristalină, închiriind un șezlong devreme pentru a te bucura liniștit de soarele liguric splendid.",
+            "en": "Relax on this picturesque pebble beach with crystal-clear water by renting a sunbed early to peacefully enjoy the beautiful Ligurian sunshine all day long."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Sie beginnen den Tag komfortabel mit dem Auto an der westlichen Riviera. So erreichen Sie die entlegensten und ruhigsten Strände ohne große Mühe.\nZur Mittagszeit fahren Sie bequem zu weiteren exklusiven Küstenclubs. Dank kurzer Fahrzeiten bleibt mehr Zeit für Erholung am azurblauen Wasser.\nNachmittags parken Sie in der Nähe des Vergnügungsparks. Die unkomplizierte Anreise ermöglicht spontane Wechsel zwischen den verschiedenen Zielen.\nAbends steuern Sie die lebhaften Strände im Osten an. Genießen Sie den Sonnenuntergang bequem von den besten Aussichtspunkten der Stadt.",
+        "hu": "A napot kényelmesen, autóval kezdi a nyugati Riviérán. Így minden különösebb erőfeszítés nélkül érheti el a legtávolabbi és legcsendesebb strandokat.\nDélben könnyedén elvezethet a többi exkluzív tengerparti klubhoz. A rövid menetidőnek köszönhetően több ideje marad az azúrkék víznél pihenni.\nDélután a helyi vidámpark közelében parkol le. Az egyszerű és gyors közlekedés lehetővé teszi a különböző célpontok közötti spontán váltásokat.\nEste a keleti, nyüzsgőbb strandok felé veszi az irányt. Élvezze a csodás naplementét a város legjobb tengerparti kilátópontjairól kényelmesen.",
+        "ro": "Începi ziua confortabil cu mașina pe Riviera vestică. Astfel, poți ajunge la cele mai retrase și liniștite plaje fără niciun fel de efort.\nLa prânz, conduci ușor către alte cluburi de coastă exclusiviste. Datorită timpilor scurți de condus, îți rămâne mai mult timp pentru relaxare.\nDupă-amiaza, parchezi confortabil foarte aproape de parcul de distracții. Călătoria ușoară permite schimbări rapide între diversele destinații.\nSeara te îndrepți spre plajele pline de viață din partea de est. Bucură-te de un apus de soare spectaculos din cele mai bune puncte de observație.",
+        "en": "You comfortably start the day by car strictly on the western Riviera. This way, you can reach the most remote and quiet beaches without any effort.\nAt noon, you easily drive to other exclusive and premium coastal clubs. Thanks to very short driving times, more time remains for complete relaxation.\nIn the afternoon, you park incredibly close to the fun amusement park. The uncomplicated journey allows for entirely spontaneous destination changes.\nIn the evening, you smoothly head for the lively beautiful eastern beaches. Enjoy the sunset comfortably from the very best viewpoints in the city."
+      }
+    }
+  }
+}

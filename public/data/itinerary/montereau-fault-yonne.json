@@ -1,0 +1,428 @@
+{
+  "city_id": "montereau-fault-yonne",
+  "anchor": {
+    "name": "Montereau-Fault-Yonne",
+    "coords": [
+      2.9481,
+      48.3831
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 3.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Aire de loisirs Christopher Nkunku",
+            "hu": "Aire de loisirs Christopher Nkunku",
+            "ro": "Aire de loisirs Christopher Nkunku",
+            "en": "Aire de loisirs Christopher Nkunku"
+          },
+          "coords": [
+            2.947292,
+            48.386673
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannten Morgenspaziergang durch dieses moderne, dem lokalen Sport gewidmete Erholungsgebiet und holen Sie sich vorher einen Kaffee.",
+            "hu": "Élvezze a pihentető reggeli sétát ezen a helyi sportoknak szentelt modern rekreációs területen, de előtte feltétlenül igyon egy finom kávét a közelben.",
+            "ro": "Bucurați-vă de o plimbare relaxantă de dimineață prin această zonă de recreere modernă dedicată sportului, asigurându-vă că beți o cafea rapidă în apropiere.",
+            "en": "Enjoy a relaxing morning stroll through this modern recreation area dedicated to local sports, making sure to grab a quick coffee nearby before heading out."
+          }
+        },
+        {
+          "name": {
+            "de": "Equestrian Statue of Napoleon I",
+            "hu": "Equestrian Statue of Napoleon I",
+            "ro": "Equestrian Statue of Napoleon I",
+            "en": "Equestrian Statue of Napoleon I"
+          },
+          "coords": [
+            2.951386,
+            48.397987
+          ],
+          "category": "historical",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposante Bronzestatue zum Gedenken an die berühmte Schlacht von Montereau und lesen Sie die Informationstafeln über diesen historischen Sieg.",
+            "hu": "Csodálja meg a híres montereau-i csatának emléket állító impozáns bronzszobrot, és szánjon időt a történelmi győzelmet részletező emléktáblák elolvasására.",
+            "ro": "Admirați statuia impunătoare din bronz care comemorează faimoasa Bătălie de la Montereau și luați-vă un moment pentru a citi plăcile despre această victorie.",
+            "en": "Admire the imposing bronze statue commemorating the famous Battle of Montereau, and take a moment to read the inscribed plaques detailing this historic victory."
+          }
+        },
+        {
+          "name": {
+            "de": "Collegiate Church of Notre-Dame-et-Saint-Loup",
+            "hu": "Collegiate Church of Notre-Dame-et-Saint-Loup",
+            "ro": "Collegiate Church of Notre-Dame-et-Saint-Loup",
+            "en": "Collegiate Church of Notre-Dame-et-Saint-Loup"
+          },
+          "coords": [
+            2.958207,
+            48.386659
+          ],
+          "category": "religious",
+          "arrive_at": "12:11",
+          "stay_min": 40,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die wunderschöne gotische Architektur und die beeindruckenden Buntglasfenster dieser historischen Kirche, wobei Sie auf Stille achten sollten.",
+            "hu": "Csodálja meg e történelmi templom gyönyörű gótikus építészetét és lenyűgöző ólomüveg ablakait, ügyelve arra, hogy a misék alatt csendben maradjon.",
+            "ro": "Minunați-vă de arhitectura gotică frumoasă și de vitraliile uimitoare ale acestei biserici istorice, amintindu-vă să păstrați liniștea în timpul slujbelor.",
+            "en": "Marvel at the beautiful Gothic architecture and the striking stained glass windows of this historic church, remembering to maintain silence during local services."
+          }
+        },
+        {
+          "name": {
+            "de": "Faïence Museum",
+            "hu": "Faïence Museum",
+            "ro": "Faïence Museum",
+            "en": "Faïence Museum"
+          },
+          "coords": [
+            2.957724,
+            48.386983
+          ],
+          "category": "museum",
+          "arrive_at": "12:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte der lokalen Keramik anhand einer umfangreichen Sammlung und suchen Sie im Geschenkeladen nach einzigartigen Souvenirs.",
+            "hu": "Fedezze fel a helyi kerámiagyártás gazdag történetét a gyönyörűen kidolgozott cserépedények gyűjteményén keresztül, és vásároljon ajándékokat a boltban.",
+            "ro": "Descoperiți istoria bogată a ceramicii locale printr-o colecție extinsă de faianță frumos lucrată și verificați magazinul de suveniruri pentru cadouri unice.",
+            "en": "Discover the rich history of local ceramics through an extensive collection of beautifully crafted earthenware, and check the gift shop for unique souvenirs."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc des Noues",
+            "hu": "Parc des Noues",
+            "ro": "Parc des Noues",
+            "en": "Parc des Noues"
+          },
+          "coords": [
+            2.956008,
+            48.379783
+          ],
+          "category": "recreational",
+          "arrive_at": "14:45",
+          "stay_min": 105,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang mit einer ruhigen Pause unter den alten Bäumen dieses hübschen Stadtparks und bringen Sie am besten eine Picknickdecke mit.",
+            "hu": "Zárja a sétát egy békés pihenővel ennek a szép városi parknak az öreg fái alatt, és hozzon magával egy takarót, ha kényelmesen szeretne a fűben ülni.",
+            "ro": "Încheiați-vă plimbarea cu o odihnă liniștită printre copacii bătrâni ai acestui frumos parc urban, aducând o pătură dacă doriți să stați confortabil pe iarbă.",
+            "en": "Conclude your walk with a peaceful rest among the mature trees of this lovely urban park, bringing along a blanket if you wish to sit comfortably on the grass."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einem leichten Spaziergang am modernen Erholungsgebiet, bevor wir nach Norden gehen, um Napoleons große Geschichte zu entdecken. Am Mittag richten wir den Fokus auf die atemberaubende mittelalterliche Architektur der Stiftskirche. Der Nachmittag bietet einen tiefen Einblick in die berühmte Keramik der Region im faszinierenden örtlichen Museum. Der Abend bricht an, während wir uns unter den Bäumen im Parc des Noues entspannen.",
+        "hu": "A reggel egy könnyed sétával kezdődik a modern rekreációs területen, mielőtt észak felé vennénk az irányt Napóleon történelmének felfedezésére. Délben Montereau lenyűgöző középkori építészetére és a káptalantemplomra fókuszálunk. A délután folyamán elmélyedünk a régió híres kerámiagyártásában a lenyűgöző helyi múzeumban. Az este közeledtével a Parc des Noues fái alatt pihenünk meg, egy kellemes gyalogos napra visszatekintve.",
+        "ro": "Dimineața începe cu o plimbare ușoară în zona modernă de recreere înainte de a merge spre nord pentru istoria lui Napoleon. La prânz, ne concentrăm pe uimitoarea arhitectură medievală de la Biserica Colegială. După-amiaza aduce o scufundare profundă în faimoasa ceramică a regiunii la fascinantul muzeu local. Seara se așterne în timp ce ne relaxăm sub bolta de copaci de la Parc des Noues, reflectând la o zi minunată pe jos.",
+        "en": "Morning begins with a light stroll at the modern recreation area before walking north to uncover the grand history of Napoleon. By midday, we shift focus to Montereau's stunning medieval architecture and religious heritage at the Collegiate Church. The afternoon brings a deep dive into the region's famous earthenware at the fascinating local museum. Evening sets in as we relax under the canopy of trees at Parc des Noues, reflecting on a lovely day on foot."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 4.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Aire de jeux de la Grande Garenne",
+            "hu": "Aire de jeux de la Grande Garenne",
+            "ro": "Aire de jeux de la Grande Garenne",
+            "en": "Aire de jeux de la Grande Garenne"
+          },
+          "coords": [
+            2.939119,
+            48.374682
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Radtour mit einer kurzen Dehnung in der Nähe dieses Familienbereichs und stellen Sie sicher, dass Ihre Reifen vor der Fahrt prall sind.",
+            "hu": "Kezdje a kerékpáros útvonalat egy gyors nyújtással e tágas családi terület közelében, és ellenőrizze a guminyomást, mielőtt a városközpont felé indulna.",
+            "ro": "Începeți traseul de ciclism cu o întindere rapidă lângă această zonă de familie spațioasă, asigurându-vă că anvelopele sunt umflate înainte de a pleca.",
+            "en": "Start your cycling route with a quick stretch near this spacious family area, ensuring your tires are fully pumped before heading toward the town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc des Noues",
+            "hu": "Parc des Noues",
+            "ro": "Parc des Noues",
+            "en": "Parc des Noues"
+          },
+          "coords": [
+            2.956008,
+            48.379783
+          ],
+          "category": "recreational",
+          "arrive_at": "10:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Fahren Sie auf den schattigen Wegen dieses klassischen französischen Parks, um die Flussatmosphäre zu genießen, aber gewähren Sie Fußgängern stets Vorrang.",
+            "hu": "Tekerjen végig ennek a klasszikus francia parknak az árnyékos ösvényein, élvezve a folyóparti hangulatot, de mindig adjon elsőbbséget a gyalogosoknak.",
+            "ro": "Mergeți pe cărările umbrite ale acestui parc clasic francez pentru a vă bucura de vibrațiile pitorești, dar acordați întotdeauna prioritate pietonilor.",
+            "en": "Ride along the shaded paths of this classic French park to enjoy the scenic river vibes, but always yield to pedestrians strolling along the main walkways."
+          }
+        },
+        {
+          "name": {
+            "de": "Faïence Museum",
+            "hu": "Faïence Museum",
+            "ro": "Faïence Museum",
+            "en": "Faïence Museum"
+          },
+          "coords": [
+            2.957724,
+            48.386983
+          ],
+          "category": "museum",
+          "arrive_at": "11:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad sicher draußen, um die komplizierten Keramiksammlungen zu erkunden, und fragen Sie das Personal nach einer gedruckten Broschüre.",
+            "hu": "Parkolja le kerékpárját biztonságosan kint, hogy felfedezze az évszázados helyi művészetet bemutató kerámiagyűjteményeket, és kérjen egy tájékoztatót.",
+            "ro": "Parcați bicicleta în siguranță afară pentru a explora colecțiile de ceramică reprezentând secole de măiestrie locală și cereți un pliant ghidat personalului.",
+            "en": "Park your bike securely outside to explore the intricate ceramic collections representing centuries of local artistry, and ask staff for a guided pamphlet."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Martin Priory",
+            "hu": "Saint-Martin Priory",
+            "ro": "Saint-Martin Priory",
+            "en": "Saint-Martin Priory"
+          },
+          "coords": [
+            2.96517,
+            48.395529
+          ],
+          "category": "historical",
+          "arrive_at": "13:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhigen Ruinen dieses alten Priorats, das sich friedlich in die Stadtlandschaft einfügt, und nutzen Sie das gute Licht für Ihre Fotos.",
+            "hu": "Fedezze fel ezen ősi perjelség békés romjait, amelyek csendesen bújnak meg a városi környezetben, és használja ki a kiváló természetes fényt a fotózáshoz.",
+            "ro": "Descoperiți ruinele senine ale acestei vechi mănăstiri amplasate liniștit în peisajul urban, profitând de iluminarea naturală excelentă pentru fotografie.",
+            "en": "Discover the serene ruins of this ancient priory nestled quietly in the urban landscape, taking advantage of the excellent natural lighting for photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Equestrian Statue of Napoleon I",
+            "hu": "Equestrian Statue of Napoleon I",
+            "ro": "Equestrian Statue of Napoleon I",
+            "en": "Equestrian Statue of Napoleon I"
+          },
+          "coords": [
+            2.951386,
+            48.397987
+          ],
+          "category": "historical",
+          "arrive_at": "14:50",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise an der Monumentalstatue am Zusammenfluss zweier Flüsse, die eine dramatische historische Kulisse für den Sonnenuntergang bietet.",
+            "hu": "Fejezze be útját a két folyó találkozásánál álló monumentális szobornál, amely drámai történelmi hátteret nyújt a víz feletti naplemente megtekintéséhez.",
+            "ro": "Încheiați călătoria la statuia monumentală unde se întâlnesc două râuri, oferind un fundal istoric dramatic, perfect pentru vizionarea apusului de soare.",
+            "en": "Conclude your trip at the monumental statue where two rivers meet, providing a dramatic historical backdrop perfect for sunset viewing across the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einer energiegeladenen Fahrt vom westlichen Rand in die grüne Oase des Parc des Noues. Am Mittag wechseln wir in den Kulturmodus und schließen die Fahrräder ab, um das spannende Keramikmuseum zu erkunden. Die Nachmittagsfahrt führt uns zum ruhigen Priorat Saint-Martin für einen Hauch mittelalterlicher Besinnung. Der Abend naht, während wir zur beeindruckenden Napoleon-Statue radeln und das Ende einer großartigen Tour feiern.",
+        "hu": "A reggel egy energikus pedálozással indul a nyugati peremről a Parc des Noues zöld oázisa felé. Délben kulturális üzemmódba kapcsolunk, és lezárjuk a kerékpárokat, hogy bejárjuk a lenyűgöző Kerámiamúzeumot. A délutáni tekerés a békés Saint-Martin perjelséghez vezet egy kis középkori elmélkedésre. Az este közeledtével a parancsnoki Napóleon-szoborhoz kerékpározunk, a történelmi összefolyásnál ünnepelve az út végét.",
+        "ro": "Dimineața începe cu o pedalare energică de la marginea vestică spre oaza verde a parcului Parc des Noues. La prânz trecem în modul cultural, blocând bicicletele pentru a rătăci prin captivantul Muzeu al Faianței. Plimbarea de după-amiază ne duce la liniștitul Prioriu Saint-Martin pentru o notă de reflecție medievală. Seara se apropie pe măsură ce pedalăm la statuia lui Napoleon, sărbătorind sfârșitul călătoriei la confluență.",
+        "en": "Morning kicks off with an energetic pedal from the western edge toward the green oasis of Parc des Noues. Midday sees us transitioning into cultural mode, locking up the bikes to wander through the captivating Faïence Museum. The afternoon ride takes us to the tranquil Saint-Martin Priory for a touch of medieval reflection. Evening approaches as we cycle to the commanding Napoleon Statue, celebrating the end of a great ride at the historic confluence."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:12",
+      "total_km": 6.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Base de loisirs de Varennes-sur-Seine",
+            "hu": "Base de loisirs de Varennes-sur-Seine",
+            "ro": "Base de loisirs de Varennes-sur-Seine",
+            "en": "Base de loisirs de Varennes-sur-Seine"
+          },
+          "coords": [
+            2.913585,
+            48.367676
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Blick auf den See und vielleicht einen kurzen Morgenspaziergang an dieser Freizeitbasis. Nutzen Sie die großen kostenlosen Parkplätze.",
+            "hu": "Élvezze a hatalmas tóra nyíló kilátást és egy gyors reggeli sétát e kiterjedt szabadidős bázis körül, kihasználva a bejárat melletti nagy ingyenes parkolókat.",
+            "ro": "Bucurați-vă de vederea la lac și poate de o scurtă plimbare de dimineață în jurul acestei baze de agrement, folosind parcările mari gratuite de la intrare.",
+            "en": "Enjoy the vast lake views and perhaps a quick morning walk around this extensive leisure base, utilizing the large free parking lots available near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc des Noues",
+            "hu": "Parc des Noues",
+            "ro": "Parc des Noues",
+            "en": "Parc des Noues"
+          },
+          "coords": [
+            2.956008,
+            48.379783
+          ],
+          "category": "recreational",
+          "arrive_at": "10:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.4,
+          "tip_5lang": {
+            "de": "Machen Sie eine Fahrpause, um sich in dieser zentralen Grünfläche die Beine zu vertreten. Beachten Sie, dass die Parkplätze an Sommerwochenenden schnell voll sind.",
+            "hu": "Tartson szünetet a vezetésben, hogy kinyújtsa a lábát ebben a központi zöldterületben, de vegye figyelembe, hogy a közeli utcai parkolás gyorsan megtelik.",
+            "ro": "Luați o pauză de la condus pentru a vă întinde picioarele în acest spațiu verde central, ținând cont că parcarea pe stradă se poate umple rapid în weekend.",
+            "en": "Take a break from driving to stretch your legs in this central green space, noting that street parking nearby can fill up fast during warm summer weekends."
+          }
+        },
+        {
+          "name": {
+            "de": "Faïence Museum",
+            "hu": "Faïence Museum",
+            "ro": "Faïence Museum",
+            "en": "Faïence Museum"
+          },
+          "coords": [
+            2.957724,
+            48.386983
+          ],
+          "category": "museum",
+          "arrive_at": "11:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die industrielle Vergangenheit der Gegend ein und denken Sie daran, dass Ihre Eintrittskarte manchmal Ermäßigungen in lokalen Cafés bietet.",
+            "hu": "Merüljön el a környék ipari múltjában a gyönyörű kerámiakiállításokon keresztül, és ne feledje, hogy a belépőjegy olykor kedvezményt ad a kávézókban.",
+            "ro": "Scufundați-vă în trecutul industrial al zonei prin expoziții de ceramică rafinate și amintiți-vă că biletul de intrare oferă uneori reduceri la cafenele.",
+            "en": "Dive into the area's industrial past through exquisite pottery displays, and remember that your admission ticket sometimes offers discounts at local cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Collegiate Church of Notre-Dame-et-Saint-Loup",
+            "hu": "Collegiate Church of Notre-Dame-et-Saint-Loup",
+            "ro": "Collegiate Church of Notre-Dame-et-Saint-Loup",
+            "en": "Collegiate Church of Notre-Dame-et-Saint-Loup"
+          },
+          "coords": [
+            2.958207,
+            48.386659
+          ],
+          "category": "religious",
+          "arrive_at": "13:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Gehen Sie nur wenige Schritte vom Museum entfernt, um die Gewölbe dieser Kirche zu bewundern, wo die Geschichte in jeder detaillierten Steinsäule lebendig wird.",
+            "hu": "Sétáljon csak néhány lépést a múzeumtól, hogy megcsodálja e templom szárnyaló boltozatait, ahol a történelem minden gondosan faragott kőoszlopban megelevenedik.",
+            "ro": "Mergeți la doar câțiva pași de muzeu pentru a admira bolțile înalte ale acestei biserici, unde istoria se simte vie în fiecare stâlp de piatră sculptat meticulos.",
+            "en": "Walk just a few steps from the museum to admire the soaring vaults of this church, where history feels alive in every meticulously carved stone pillar."
+          }
+        },
+        {
+          "name": {
+            "de": "Equestrian Statue of Napoleon I",
+            "hu": "Equestrian Statue of Napoleon I",
+            "ro": "Equestrian Statue of Napoleon I",
+            "en": "Equestrian Statue of Napoleon I"
+          },
+          "coords": [
+            2.951386,
+            48.397987
+          ],
+          "category": "historical",
+          "arrive_at": "13:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Fahren Sie zur ikonischen Brücke, um dieses der Schlacht von 1814 gewidmete Denkmal zu sehen, und machen Sie sicher Fotos vom Fußgängerweg aus.",
+            "hu": "Hajtson fel az ikonikus hídra, hogy megtekintse ezt az 1814-es csatának szentelt fenséges emlékművet, és biztonságosan fényképezzen a gyalogos járdáról.",
+            "ro": "Conduceți până la podul emblematic pentru a vedea acest monument maiestuos dedicat bătăliei din 1814, asigurându-vă că faceți fotografii în siguranță.",
+            "en": "Drive up to the iconic bridge to view this majestic monument dedicated to the 1814 battle, making sure to capture photos from the pedestrian walkway safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Martin Priory",
+            "hu": "Saint-Martin Priory",
+            "ro": "Saint-Martin Priory",
+            "en": "Saint-Martin Priory"
+          },
+          "coords": [
+            2.96517,
+            48.395529
+          ],
+          "category": "historical",
+          "arrive_at": "15:22",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Roadtrip mit der Erkundung der friedlichen Überreste dieser mittelalterlichen Stätte und genießen Sie einen ruhigen Moment vor der Heimreise.",
+            "hu": "Fejezze be autós utazását e középkori helyszín békés maradványainak felfedezésével, és szánjon egy csendes percet a mély történelem átélésére hazaindulás előtt.",
+            "ro": "Încheiați-vă călătoria explorând rămășițele pașnice ale acestui sit medieval, luând un moment de liniște pentru a vă absorbi istoria profundă înainte de a pleca.",
+            "en": "End your road trip exploring the peaceful remnants of this medieval site, taking a quiet moment to soak in the deep history before heading back home."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt an der weitläufigen Freizeitbasis, bevor uns eine kurze Fahrt direkt in das Herz des beliebtesten Parks der Stadt bringt. Mittags parken wir das Auto, um leicht zwischen den Ausstellungen des Keramikmuseums und der atemberaubenden Stiftskirche zu wechseln. Am Nachmittag fahren wir nach Norden, um das Napoleon-Denkmal zu bestaunen. Der Abend bricht herein, während wir das mittelalterliche Priorat Saint-Martin erkunden.",
+        "hu": "A reggel a hatalmas szabadidős bázisnál indul, mielőtt egy rövid autóút a város kedvenc parkjának szívébe visz minket. Délben leparkoljuk az autót, hogy könnyedén sétálhassunk a Kerámiamúzeum és a lélegzetelállító káptalantemplom között. A kora délután egy kicsit északabbra visz minket, hogy megcsodáljuk az impozáns Napóleon-emlékművet. Az este csendben leszáll, miközben felfedezzük a középkori Saint-Martin perjelséget.",
+        "ro": "Dimineața începe la baza de agrement înainte ca o scurtă călătorie să ne aducă în inima parcului preferat al orașului. La prânz, parcăm mașina pentru a merge între expozițiile Muzeului Faianței și biserica din apropiere. După-amiaza ne duce spre nord pentru a ne minuna de impresionantul monument al lui Napoleon. Seara cade ușor pe măsură ce explorăm Prioratul medieval Saint-Martin, încheind o zi perfectă.",
+        "en": "The morning starts out at the expansive leisure base before a short drive brings us right into the heart of the city's favorite park. By midday, we park the car to easily walk between the rich historical exhibits of the Faïence Museum and the breathtaking Collegiate Church nearby. Mid-afternoon takes us slightly north to marvel at the impressive monument to Napoleon. Evening gently falls as we explore the medieval Saint-Martin Priory, concluding a seamless day trip."
+      }
+    }
+  }
+}

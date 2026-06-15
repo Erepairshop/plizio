@@ -1,0 +1,497 @@
+{
+  "city_id": "spain-requena-cities-v2",
+  "anchor": {
+    "name": "Requena",
+    "coords": [
+      -1.102308,
+      39.488538
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:02",
+      "total_km": 1.38,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Arco del Ovejero",
+            "hu": "Arco del Ovejero",
+            "ro": "Arco del Ovejero",
+            "en": "Arco del Ovejero"
+          },
+          "coords": [
+            -1.101862,
+            39.485141
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die alten Steine des Arco del Ovejero, einem faszinierenden Tor zu Requenas mittelalterlicher Vergangenheit, aber tragen Sie festes Schuhwerk für das nahe Kopfsteinpflaster.",
+            "hu": "Csodálja meg az Arco del Ovejero ősi köveit, amely egy lenyűgöző kapu Requena középkori múltjához, de viseljen kényelmes cipőt a közeli macskaköves utakon.",
+            "ro": "Admirați pietrele antice de la Arco del Ovejero, o poartă fascinantă către trecutul medieval al Requenei, dar purtați încălțăminte comodă pentru aleile pietruite din apropiere.",
+            "en": "Admire the ancient stones of Arco del Ovejero, a fascinating gateway to Requena's medieval past, but wear sturdy shoes to navigate the cobblestone paths nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de Santa Teresa",
+            "hu": "Casa de Santa Teresa",
+            "ro": "Casa de Santa Teresa",
+            "en": "Casa de Santa Teresa"
+          },
+          "coords": [
+            -1.100778,
+            39.485273
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Räume der Casa de Santa Teresa, um das religiöse Erbe zu verstehen, und achten Sie bei Ihrem Besuch besonders auf die erhaltenen Holzdecken.",
+            "hu": "Fedezze fel a Casa de Santa Teresa történelmi szobáit, hogy megértse a helyi vallási örökséget, és figyelje meg alaposan a gyönyörűen megőrzött fa mennyezeteket.",
+            "ro": "Explorați camerele istorice de la Casa de Santa Teresa pentru a înțelege moștenirea religioasă locală și uitați-vă atent la tavanele de lemn frumos conservate în timpul vizitei.",
+            "en": "Explore the historic rooms of Casa de Santa Teresa to understand the local religious heritage, and look closely at the beautifully preserved wooden ceilings during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Capilla de San Julián",
+            "hu": "Capilla de San Julián",
+            "ro": "Capilla de San Julián",
+            "en": "Capilla de San Julián"
+          },
+          "coords": [
+            -1.099958,
+            39.486542
+          ],
+          "category": "historical",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Betreten Sie die Capilla de San Julián für einen ruhigen Moment der Besinnung inmitten gotischer Details und bringen Sie eine Kamera mit, um das Mauerwerk ohne Blitz zu fotografieren.",
+            "hu": "Lépjen be a Capilla de San Juliánba egy csendes pillanatra a lenyűgöző gótikus részletek között, és hozzon fényképezőgépet, hogy vaku nélkül örökítse meg a kőműves munkát.",
+            "ro": "Pășiți în Capilla de San Julián pentru un moment de liniște înconjurat de detalii gotice uimitoare, așa că aduceți un aparat foto pentru a surprinde zidăria fără bliț.",
+            "en": "Step inside Capilla de San Julián to experience a quiet moment of reflection surrounded by striking Gothic details, so bring a camera to capture the intricate masonry without flash."
+          }
+        },
+        {
+          "name": {
+            "de": "Sala exposiciones Antiguo Mercado",
+            "hu": "Sala exposiciones Antiguo Mercado",
+            "ro": "Sala exposiciones Antiguo Mercado",
+            "en": "Sala exposiciones Antiguo Mercado"
+          },
+          "coords": [
+            -1.10179,
+            39.487941
+          ],
+          "category": "museum",
+          "arrive_at": "13:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie wechselnde Kunstausstellungen in der Sala exposiciones Antiguo Mercado, einem lebendigen Kulturzentrum, und prüfen Sie den Zeitplan an der Tür für temporäre Events.",
+            "hu": "Fedezze fel az időszaki kiállításokat a Sala exposiciones Antiguo Mercado egykori piacának falai között, és ellenőrizze az ajtónál a különleges események aktuális programját.",
+            "ro": "Descoperiți expoziții de artă în Sala exposiciones Antiguo Mercado, un centru cultural vibrant într-o fostă piață, și verificați programul la intrare pentru evenimente temporare.",
+            "en": "Discover rotating art exhibits in the Sala exposiciones Antiguo Mercado, a vibrant cultural hub in a former market, and check the schedule at the door for temporary events."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Principal",
+            "hu": "Teatro Principal",
+            "ro": "Teatro Principal",
+            "en": "Teatro Principal"
+          },
+          "coords": [
+            -1.100293,
+            39.489973
+          ],
+          "category": "cultural",
+          "arrive_at": "15:02",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die große Fassade des Teatro Principal, dem Epizentrum von Requenas darstellenden Künsten, und buchen Sie im Voraus eine Tour, um den eleganten Saal zu sehen.",
+            "hu": "Csodálja meg a Teatro Principal lenyűgöző homlokzatát, a helyi előadóművészet központját, és próbáljon meg előre vezetett túrát foglalni a belső terek megtekintéséhez.",
+            "ro": "Admirați fațada grandioasă de la Teatro Principal, epicentrul artelor spectacolului din Requena, și încercați să rezervați un tur ghidat în avans pentru a vedea sala elegantă.",
+            "en": "Marvel at the grand façade of Teatro Principal, the epicenter of Requena's performing arts scene, and try to book a guided interior tour in advance to see the elegant auditorium."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento Universal a la Vendimia",
+            "hu": "Monumento Universal a la Vendimia",
+            "ro": "Monumento Universal a la Vendimia",
+            "en": "Monumento Universal a la Vendimia"
+          },
+          "coords": [
+            -1.107841,
+            39.488639
+          ],
+          "category": "historical",
+          "arrive_at": "16:12",
+          "stay_min": 110,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.66,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag am Monumento Universal a la Vendimia, einer monumentalen Hommage an die Weintradition der Region, die im Licht der goldenen Stunde am besten wirkt.",
+            "hu": "Zárja a napot a Monumento Universal a la Vendimiánál, amely a régió borkészítési hagyományainak állít emléket, és amelyet a naplemente aranyfényeiben a legjobb fotózni.",
+            "ro": "Încheiați-vă ziua la Monumento Universal a la Vendimia, un omagiu monumental adus tradiției viticole a regiunii, cel mai bine de fotografiat la apus în timpul orei de aur.",
+            "en": "End your day at the Monumento Universal a la Vendimia, a monumental tribute to the region's rich winemaking tradition, which is best photographed during the golden hour light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen auf den mittelalterlichen Spuren am Arco del Ovejero.\n Mittags tauchen Sie in das kulturelle Erbe der Kunstausstellungen im alten Markt ein.\n Lassen Sie sich am Nachmittag von der großen Fassade des Teatro Principal in eine vergangene Ära entführen.\n Der Abend bricht wunderbar am Monumento Universal an, das die berühmte Weintradition feiert.",
+        "hu": "Kezdje a reggelt az Arco del Ovejero középkori nyomainak követésével az ősi utcákon.\n Délben merüljön el a kulturális örökségben a régi piac művészeti kiállításain.\n Délután hagyja, hogy a Teatro Principal lenyűgöző homlokzata elrepítse az elegancia letűnt korszakába.\n Az este gyönyörűen ereszkedik le a régió híres borászati hagyományát ünneplő emlékműnél.",
+        "ro": "Începeți dimineața urmărind pașii medievali la Arco del Ovejero, prin străzile antice.\n La prânz vă regăsiți admirând moștenirea culturală a pieței vechi cu expozițiile de artă.\n După-amiaza, lăsați fațada Teatro Principal să vă transporte într-o epocă apusă a eleganței.\n Seara coboară frumos la monumentul care celebrează celebra tradiție viticolă a regiunii.",
+        "en": "Begin your morning tracing the medieval footsteps at Arco del Ovejero, moving through ancient streets.\n Midday finds you soaking in the cultural heritage at the old market's art displays.\n In the afternoon, let the grand facade of Teatro Principal transport you to a bygone era of elegance.\n Evening descends beautifully at the monument celebrating the region's famous viticulture tradition."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:51",
+      "total_km": 1.95,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Monumento Universal a la Vendimia",
+            "hu": "Monumento Universal a la Vendimia",
+            "ro": "Monumento Universal a la Vendimia",
+            "en": "Monumento Universal a la Vendimia"
+          },
+          "coords": [
+            -1.107841,
+            39.488639
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag am Monumento Universal a la Vendimia, einer monumentalen Hommage an die Weintradition der Region, die im Licht der goldenen Stunde am besten wirkt.",
+            "hu": "Zárja a napot a Monumento Universal a la Vendimiánál, amely a régió borkészítési hagyományainak állít emléket, és amelyet a naplemente aranyfényeiben a legjobb fotózni.",
+            "ro": "Încheiați-vă ziua la Monumento Universal a la Vendimia, un omagiu monumental adus tradiției viticole a regiunii, cel mai bine de fotografiat la apus în timpul orei de aur.",
+            "en": "End your day at the Monumento Universal a la Vendimia, a monumental tribute to the region's rich winemaking tradition, which is best photographed during the golden hour light."
+          }
+        },
+        {
+          "name": {
+            "de": "Convento de San Francisco",
+            "hu": "Convento de San Francisco",
+            "ro": "Convento de San Francisco",
+            "en": "Convento de San Francisco"
+          },
+          "coords": [
+            -1.102899,
+            39.492559
+          ],
+          "category": "museum",
+          "arrive_at": "10:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die historischen Kreuzgänge des Convento de San Francisco, um in jahrhundertelanges klösterliches Leben einzutauchen, und fragen Sie nach den versteckten Gärten.",
+            "hu": "Sétáljon végig a Convento de San Francisco történelmi kerengőin, hogy elmerüljön a szerzetesi életben, és kérdezze a kurátorokat a rejtett belső udvarokról és kertekről.",
+            "ro": "Plimbați-vă prin mănăstirea istorică Convento de San Francisco pentru a vă scufunda în viața monahală de secole și întrebați curatorii locali despre grădinile interioare ascunse.",
+            "en": "Walk through the historic cloisters of Convento de San Francisco to immerse yourself in centuries of monastic life, and ask the local curators about the hidden courtyard gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Principal",
+            "hu": "Teatro Principal",
+            "ro": "Teatro Principal",
+            "en": "Teatro Principal"
+          },
+          "coords": [
+            -1.100293,
+            39.489973
+          ],
+          "category": "cultural",
+          "arrive_at": "12:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die große Fassade des Teatro Principal, dem Epizentrum von Requenas darstellenden Künsten, und buchen Sie im Voraus eine Tour, um den eleganten Saal zu sehen.",
+            "hu": "Csodálja meg a Teatro Principal lenyűgöző homlokzatát, a helyi előadóművészet központját, és próbáljon meg előre vezetett túrát foglalni a belső terek megtekintéséhez.",
+            "ro": "Admirați fațada grandioasă de la Teatro Principal, epicentrul artelor spectacolului din Requena, și încercați să rezervați un tur ghidat în avans pentru a vedea sala elegantă.",
+            "en": "Marvel at the grand façade of Teatro Principal, the epicenter of Requena's performing arts scene, and try to book a guided interior tour in advance to see the elegant auditorium."
+          }
+        },
+        {
+          "name": {
+            "de": "Sala exposiciones Antiguo Mercado",
+            "hu": "Sala exposiciones Antiguo Mercado",
+            "ro": "Sala exposiciones Antiguo Mercado",
+            "en": "Sala exposiciones Antiguo Mercado"
+          },
+          "coords": [
+            -1.10179,
+            39.487941
+          ],
+          "category": "museum",
+          "arrive_at": "13:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie wechselnde Kunstausstellungen in der Sala exposiciones Antiguo Mercado, einem lebendigen Kulturzentrum, und prüfen Sie den Zeitplan an der Tür für temporäre Events.",
+            "hu": "Fedezze fel az időszaki kiállításokat a Sala exposiciones Antiguo Mercado egykori piacának falai között, és ellenőrizze az ajtónál a különleges események aktuális programját.",
+            "ro": "Descoperiți expoziții de artă în Sala exposiciones Antiguo Mercado, un centru cultural vibrant într-o fostă piață, și verificați programul la intrare pentru evenimente temporare.",
+            "en": "Discover rotating art exhibits in the Sala exposiciones Antiguo Mercado, a vibrant cultural hub in a former market, and check the schedule at the door for temporary events."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Municipal",
+            "hu": "Museo Municipal",
+            "ro": "Museo Municipal",
+            "en": "Museo Municipal"
+          },
+          "coords": [
+            -1.098171,
+            39.486698
+          ],
+          "category": "museum",
+          "arrive_at": "14:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entdecken Sie lokale Archäologie und Ethnografie im Museo Municipal, um die Wurzeln der Kulturen zu verfolgen, und beginnen Sie Ihren Besuch im obersten Stockwerk für die perfekte Zeitachse.",
+            "hu": "Fedezze fel a helyi régészetet és néprajzot a Museo Municipalban, hogy nyomon követhesse Requena kultúráit, és kezdje a látogatást a legfelső emeleten a tökéletes idővonalért.",
+            "ro": "Descoperiți arheologia și etnografia locală la Museo Municipal pentru a urmări rădăcinile culturilor, începând vizita la ultimul etaj pentru a urmări perfect linia temporală.",
+            "en": "Uncover local archaeology and ethnography at the Museo Municipal to trace the roots of Requena's diverse cultures, starting your visit on the top floor to follow the timeline perfectly."
+          }
+        },
+        {
+          "name": {
+            "de": "Capilla de San Julián",
+            "hu": "Capilla de San Julián",
+            "ro": "Capilla de San Julián",
+            "en": "Capilla de San Julián"
+          },
+          "coords": [
+            -1.099958,
+            39.486542
+          ],
+          "category": "historical",
+          "arrive_at": "16:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Betreten Sie die Capilla de San Julián für einen ruhigen Moment der Besinnung inmitten gotischer Details und bringen Sie eine Kamera mit, um das Mauerwerk ohne Blitz zu fotografieren.",
+            "hu": "Lépjen be a Capilla de San Juliánba egy csendes pillanatra a lenyűgöző gótikus részletek között, és hozzon fényképezőgépet, hogy vaku nélkül örökítse meg a kőműves munkát.",
+            "ro": "Pășiți în Capilla de San Julián pentru un moment de liniște înconjurat de detalii gotice uimitoare, așa că aduceți un aparat foto pentru a surprinde zidăria fără bliț.",
+            "en": "Step inside Capilla de San Julián to experience a quiet moment of reflection surrounded by striking Gothic details, so bring a camera to capture the intricate masonry without flash."
+          }
+        },
+        {
+          "name": {
+            "de": "Arco del Ovejero",
+            "hu": "Arco del Ovejero",
+            "ro": "Arco del Ovejero",
+            "en": "Arco del Ovejero"
+          },
+          "coords": [
+            -1.101862,
+            39.485141
+          ],
+          "category": "historical",
+          "arrive_at": "18:01",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie die alten Steine des Arco del Ovejero, einem faszinierenden Tor zu Requenas mittelalterlicher Vergangenheit, aber tragen Sie festes Schuhwerk für das nahe Kopfsteinpflaster.",
+            "hu": "Csodálja meg az Arco del Ovejero ősi köveit, amely egy lenyűgöző kapu Requena középkori múltjához, de viseljen kényelmes cipőt a közeli macskaköves utakon.",
+            "ro": "Admirați pietrele antice de la Arco del Ovejero, o poartă fascinantă către trecutul medieval al Requenei, dar purtați încălțăminte comodă pentru aleile pietruite din apropiere.",
+            "en": "Admire the ancient stones of Arco del Ovejero, a fascinating gateway to Requena's medieval past, but wear sturdy shoes to navigate the cobblestone paths nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour am großen Weinbaudenkmal, um die lokale Weingeschichte früh zu würdigen.\n Fahren Sie in Richtung der ruhigen Kreuzgänge des Convento de San Francisco.\n Verbringen Sie den Nachmittag damit, die künstlerischen Zentren vom alten Markt bis zum Museum zu erkunden.\n Beenden Sie den Tag und rollen Sie hinunter zum südlichen mittelalterlichen Tor.",
+        "hu": "Kezdje kerékpárútját a lenyűgöző borászati emlékműnél, hogy megcsodálja a helyi bortörténelmet.\n Tekerjen a Convento de San Francisco csendes kerengői felé a déli napsütésben.\n Töltse a délutánt a művészeti központok, a régi piac és a városi múzeum felfedezésével.\n Zárja a napot a déli középkori kapuhoz, az Arco del Ovejeróhoz ereszkedve.",
+        "ro": "Începeți călătoria cu bicicleta la monumentul viticol pentru a aprecia devreme istoria vinului local.\n Pedalați spre mănăstirea liniștită Convento de San Francisco la amiază.\n Petreceți după-amiaza navigând prin centrele artistice, de la piața veche la muzeul municipal.\n Încheiați ziua coborând spre poarta medievală de sud, Arco del Ovejero.",
+        "en": "Start your cycling journey at the grand viticulture monument to appreciate local wine history early.\n Ride towards the tranquil cloisters of Convento de San Francisco as the midday sun approaches.\n Spend the afternoon navigating the artistic hubs, from the old market to the municipal museum.\n Wrap up the day rolling down towards the southern medieval gate, the Arco del Ovejero."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:47",
+      "total_km": 2.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Convento de San Francisco",
+            "hu": "Convento de San Francisco",
+            "ro": "Convento de San Francisco",
+            "en": "Convento de San Francisco"
+          },
+          "coords": [
+            -1.102899,
+            39.492559
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die historischen Kreuzgänge des Convento de San Francisco, um in jahrhundertelanges klösterliches Leben einzutauchen, und fragen Sie nach den versteckten Gärten.",
+            "hu": "Sétáljon végig a Convento de San Francisco történelmi kerengőin, hogy elmerüljön a szerzetesi életben, és kérdezze a kurátorokat a rejtett belső udvarokról és kertekről.",
+            "ro": "Plimbați-vă prin mănăstirea istorică Convento de San Francisco pentru a vă scufunda în viața monahală de secole și întrebați curatorii locali despre grădinile interioare ascunse.",
+            "en": "Walk through the historic cloisters of Convento de San Francisco to immerse yourself in centuries of monastic life, and ask the local curators about the hidden courtyard gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Municipal",
+            "hu": "Museo Municipal",
+            "ro": "Museo Municipal",
+            "en": "Museo Municipal"
+          },
+          "coords": [
+            -1.098171,
+            39.486698
+          ],
+          "category": "museum",
+          "arrive_at": "10:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Entdecken Sie lokale Archäologie und Ethnografie im Museo Municipal, um die Wurzeln der Kulturen zu verfolgen, und beginnen Sie Ihren Besuch im obersten Stockwerk für die perfekte Zeitachse.",
+            "hu": "Fedezze fel a helyi régészetet és néprajzot a Museo Municipalban, hogy nyomon követhesse Requena kultúráit, és kezdje a látogatást a legfelső emeleten a tökéletes idővonalért.",
+            "ro": "Descoperiți arheologia și etnografia locală la Museo Municipal pentru a urmări rădăcinile culturilor, începând vizita la ultimul etaj pentru a urmări perfect linia temporală.",
+            "en": "Uncover local archaeology and ethnography at the Museo Municipal to trace the roots of Requena's diverse cultures, starting your visit on the top floor to follow the timeline perfectly."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de Santa Teresa",
+            "hu": "Casa de Santa Teresa",
+            "ro": "Casa de Santa Teresa",
+            "en": "Casa de Santa Teresa"
+          },
+          "coords": [
+            -1.100778,
+            39.485273
+          ],
+          "category": "historical",
+          "arrive_at": "12:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Räume der Casa de Santa Teresa, um das religiöse Erbe zu verstehen, und achten Sie bei Ihrem Besuch besonders auf die erhaltenen Holzdecken.",
+            "hu": "Fedezze fel a Casa de Santa Teresa történelmi szobáit, hogy megértse a helyi vallási örökséget, és figyelje meg alaposan a gyönyörűen megőrzött fa mennyezeteket.",
+            "ro": "Explorați camerele istorice de la Casa de Santa Teresa pentru a înțelege moștenirea religioasă locală și uitați-vă atent la tavanele de lemn frumos conservate în timpul vizitei.",
+            "en": "Explore the historic rooms of Casa de Santa Teresa to understand the local religious heritage, and look closely at the beautifully preserved wooden ceilings during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Arco del Ovejero",
+            "hu": "Arco del Ovejero",
+            "ro": "Arco del Ovejero",
+            "en": "Arco del Ovejero"
+          },
+          "coords": [
+            -1.101862,
+            39.485141
+          ],
+          "category": "historical",
+          "arrive_at": "13:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die alten Steine des Arco del Ovejero, einem faszinierenden Tor zu Requenas mittelalterlicher Vergangenheit, aber tragen Sie festes Schuhwerk für das nahe Kopfsteinpflaster.",
+            "hu": "Csodálja meg az Arco del Ovejero ősi köveit, amely egy lenyűgöző kapu Requena középkori múltjához, de viseljen kényelmes cipőt a közeli macskaköves utakon.",
+            "ro": "Admirați pietrele antice de la Arco del Ovejero, o poartă fascinantă către trecutul medieval al Requenei, dar purtați încălțăminte comodă pentru aleile pietruite din apropiere.",
+            "en": "Admire the ancient stones of Arco del Ovejero, a fascinating gateway to Requena's medieval past, but wear sturdy shoes to navigate the cobblestone paths nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Sala exposiciones Antiguo Mercado",
+            "hu": "Sala exposiciones Antiguo Mercado",
+            "ro": "Sala exposiciones Antiguo Mercado",
+            "en": "Sala exposiciones Antiguo Mercado"
+          },
+          "coords": [
+            -1.10179,
+            39.487941
+          ],
+          "category": "museum",
+          "arrive_at": "15:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie wechselnde Kunstausstellungen in der Sala exposiciones Antiguo Mercado, einem lebendigen Kulturzentrum, und prüfen Sie den Zeitplan an der Tür für temporäre Events.",
+            "hu": "Fedezze fel az időszaki kiállításokat a Sala exposiciones Antiguo Mercado egykori piacának falai között, és ellenőrizze az ajtónál a különleges események aktuális programját.",
+            "ro": "Descoperiți expoziții de artă în Sala exposiciones Antiguo Mercado, un centru cultural vibrant într-o fostă piață, și verificați programul la intrare pentru evenimente temporare.",
+            "en": "Discover rotating art exhibits in the Sala exposiciones Antiguo Mercado, a vibrant cultural hub in a former market, and check the schedule at the door for temporary events."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento Universal a la Vendimia",
+            "hu": "Monumento Universal a la Vendimia",
+            "ro": "Monumento Universal a la Vendimia",
+            "en": "Monumento Universal a la Vendimia"
+          },
+          "coords": [
+            -1.107841,
+            39.488639
+          ],
+          "category": "historical",
+          "arrive_at": "16:57",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag am Monumento Universal a la Vendimia, einer monumentalen Hommage an die Weintradition der Region, die im Licht der goldenen Stunde am besten wirkt.",
+            "hu": "Zárja a napot a Monumento Universal a la Vendimiánál, amely a régió borkészítési hagyományainak állít emléket, és amelyet a naplemente aranyfényeiben a legjobb fotózni.",
+            "ro": "Încheiați-vă ziua la Monumento Universal a la Vendimia, un omagiu monumental adus tradiției viticole a regiunii, cel mai bine de fotografiat la apus în timpul orei de aur.",
+            "en": "End your day at the Monumento Universal a la Vendimia, a monumental tribute to the region's rich winemaking tradition, which is best photographed during the golden hour light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zuerst an den ruhigen Nordrand, um die Geschichte im Convento de San Francisco zu erkunden.\n Gehen Sie zur Mittagszeit über, indem Sie die historischen Exponate im Museo Municipal ansehen.\n Verbringen Sie den Nachmittag im älteren Südviertel und genießen Sie das Flair des alten Marktes.\n Beenden Sie die Fahrt mit einem Blick auf das Denkmal des Weinerbes.",
+        "hu": "Először hajtson a csendes északi peremre, hogy felfedezze a Convento de San Francisco történetét.\n Térjen át a délre a Museo Municipal részletes történelmi kiállításainak megtekintésével.\n Töltse a délutánt a régebbi déli negyed és a régi piac művészi hangulatának felfedezésével.\n Zárja az utat naplemente nézéssel a város borászati öröksége előtt tisztelgő emlékműnél.",
+        "ro": "Conduceți mai întâi spre nordul liniștit pentru a explora istoria monahală la Convento de San Francisco.\n Treceți la prânz vizualizând exponatele istorice detaliate de la Museo Municipal.\n Petreceți după-amiaza scufundându-vă în cartierul sudic mai vechi și atracția artistică a pieței vechi.\n Încheiați plimbarea cu un apus la omagiul monumental adus patrimoniului viticol al orașului.",
+        "en": "Drive first to the quiet northern edge to explore the monastic history at Convento de San Francisco.\n Transition to midday by viewing the detailed historical exhibits at the Museo Municipal.\n Spend your afternoon diving into the older southern district and the old market's artistic flair.\n Conclude the drive with a sunset view at the monumental tribute to the town's wine heritage."
+      }
+    }
+  }
+}

@@ -1,0 +1,543 @@
+{
+  "city_id": "spain-caldes-de-montbui-cities-v2",
+  "anchor": {
+    "name": "Caldes de Montbui",
+    "coords": [
+      2.16667,
+      41.63333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:10",
+      "total_km": 1.25,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Font del Lleó",
+            "hu": "Font del Lleó",
+            "ro": "Font del Lleó",
+            "en": "Font del Lleó"
+          },
+          "coords": [
+            2.161982,
+            41.634401
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen berühmten Thermalbrunnen, dessen Wasser mit 74°C heraussprudelt, aber berühren Sie die Rohre nicht, um Verbrennungen zu vermeiden.",
+            "hu": "Csodálja meg ezt az ikonikus termálkutat, amelyből 74°C-os víz tör elő, de az égési sérülések elkerülése érdekében ne érjen közvetlenül a csövekhez.",
+            "ro": "Admirați această fântână termală emblematică cu apa la 74°C, dar fiți atenți să nu atingeți direct țevile pentru a evita arsurile neplăcute.",
+            "en": "Admire this iconic hot spring fountain where water emerges at a scorching 74°C, but be careful not to touch the spouts directly to avoid burns."
+          }
+        },
+        {
+          "name": {
+            "de": "Balneari Riu",
+            "hu": "Balneari Riu",
+            "ro": "Balneari Riu",
+            "en": "Balneari Riu"
+          },
+          "coords": [
+            2.161019,
+            41.634385
+          ],
+          "category": "historical",
+          "arrive_at": "09:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses elegante historische Heilbad, das die Badekultur der Stadt zeigt, und buchen Sie eine kurze Tour, um die alten Anlagen zu sehen.",
+            "hu": "Fedezze fel ezt az elegáns történelmi fürdőt, amely a város fürdőörökségét őrzi, és foglaljon egy rövid túrát a régi létesítmények megtekintéséhez.",
+            "ro": "Explorați acest spa istoric elegant care evidențiază patrimoniul balnear al orașului și rezervați un scurt tur ghidat pentru a vedea facilitățile de epocă.",
+            "en": "Explore this elegant historical spa that highlights the town's bathing heritage, and consider booking a short guided tour to see the vintage facilities."
+          }
+        },
+        {
+          "name": {
+            "de": "Can Mussenya",
+            "hu": "Can Mussenya",
+            "ro": "Can Mussenya",
+            "en": "Can Mussenya"
+          },
+          "coords": [
+            2.16228,
+            41.636017
+          ],
+          "category": "landmark",
+          "arrive_at": "11:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beachten Sie die reizvollen architektonischen Details dieses Wahrzeichens, das sich am besten im Morgenlicht von der gegenüberliegenden Straßenecke aus fotografieren lässt.",
+            "hu": "Figyelje meg ennek a klasszikus műemléképületnek a bájos építészeti részleteit, amelyet a szemközti utcasarokról a legjobb a reggeli fényben fotózni.",
+            "ro": "Observați detaliile arhitecturale fermecătoare ale acestei clădiri emblematice, care este cel mai bine fotografiată în lumina dimineții de la colțul străzii opuse.",
+            "en": "Notice the charming architectural details of this classic landmark building, which is best photographed in the morning light from the opposite street corner."
+          }
+        },
+        {
+          "name": {
+            "de": "Banys Termals El Safareig",
+            "hu": "Banys Termals El Safareig",
+            "ro": "Banys Termals El Safareig",
+            "en": "Banys Termals El Safareig"
+          },
+          "coords": [
+            2.162509,
+            41.631983
+          ],
+          "category": "recreational",
+          "arrive_at": "11:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesen authentischen Thermalbädern, um die heilenden Wasser aus erster Hand zu erleben, also packen Sie Badesachen und Handtuch ein.",
+            "hu": "Pihenjen ezekben az autentikus termálfürdőkben, hogy első kézből tapasztalja meg a gyógyvizeket, ezért ne felejtsen el fürdőruhát és törölközőt vinni.",
+            "ro": "Relaxați-vă în aceste băi termale autentice pentru a experimenta apele terapeutice, așa că nu uitați să vă împachetați costumul de baie și un prosop.",
+            "en": "Relax in these authentic thermal baths to experience the therapeutic waters firsthand, so remember to pack your swimsuit and a quick-drying towel."
+          }
+        },
+        {
+          "name": {
+            "de": "Antic Safareig",
+            "hu": "Antic Safareig",
+            "ro": "Antic Safareig",
+            "en": "Antic Safareig"
+          },
+          "coords": [
+            2.164134,
+            41.629499
+          ],
+          "category": "landmark",
+          "arrive_at": "12:42",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses traditionelle Gemeinschaftswaschhaus, um mehr über das historische Alltagsleben zu erfahren, und lesen Sie die informativen Tafeln.",
+            "hu": "Látogasson el ebbe a hagyományos közösségi mosóházba, hogy megismerje a történelmi mindennapokat, és olvassa el a mosási folyamatot bemutató táblákat.",
+            "ro": "Vizitați această spălătorie comunală tradițională pentru a învăța despre viața de zi cu zi istorică și citiți plăcile informative despre procesul de spălare.",
+            "en": "Visit this traditional communal washhouse to learn about historic daily life, and try reading the informational plaques detailing the washing process."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Sagales",
+            "hu": "Museu Sagales",
+            "ro": "Museu Sagales",
+            "en": "Museu Sagales"
+          },
+          "coords": [
+            2.166787,
+            41.629085
+          ],
+          "category": "museum",
+          "arrive_at": "13:00",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Entwicklung des öffentlichen Verkehrs anhand von Oldtimerbussen, und fragen Sie nach der Broschüre für Details.",
+            "hu": "Fedezze fel a tömegközlekedés lenyűgöző fejlődését a régi buszokon keresztül, és kérjen angol nyelvű brosúrát a kiállítások jobb megértéséhez.",
+            "ro": "Descoperiți evoluția fascinantă a transportului public prin autobuze de epocă și cereți personalului broșura pentru a înțelege mai bine exponatele.",
+            "en": "Discover the fascinating evolution of public transport through vintage buses, and ask the staff for the English brochure to better understand the exhibits."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen an der berühmten Font del Lleó und spüren Sie die Hitze des Thermalwassers. Nur einen Steinwurf entfernt, betreten Sie das elegante Balneari Riu, um die Spa-Geschichte zu entdecken.\n\nGegen Mittag bewundern Sie die Architektur von Can Mussenya, bevor Sie zu den Banys Termals El Safareig gehen. Hier können Sie im Wasser wie die Einheimischen entspannen.\n\nEntdecken Sie am Nachmittag das Antic Safareig, das Waschhaus, das das historische Alltagsleben zeigt. Es ist ein faszinierender Einblick in die Vergangenheit der Gemeinde.\n\nBeenden Sie Ihren Rundgang im Museu Sagales. Verbringen Sie den Abend damit, die Oldtimer-Busse zu bewundern und so einen perfekten Tag in Caldes de Montbui abzuschließen.",
+        "hu": "Kezdje a reggelt a híres Font del Lleó-nál, érezve a geotermikus vizek melegét. Csak egy kőhajításnyira lépjen be az elegáns Balneari Riu-ba, hogy felfedezze a fürdőtörténetet.\n\nDélben csodálja meg a Can Mussenya építészetét, mielőtt a Banys Termals El Safareig felé veszi az irányt. Itt a helyiekhez hasonlóan pihenhet a terápiás vizekben.\n\nDélután fedezze fel az Antic Safareig-et, a hagyományos mosóházat, amely a mindennapokat mutatja be. Lenyűgöző bepillantás a múltba a modern kényelem előtt.\n\nSétáját a Museu Sagales-ben fejezze be. Töltse az estét a régi buszok megcsodálásával, ezzel lezárva a Caldes de Montbui gazdag örökségének szentelt napot.",
+        "ro": "Începeți dimineața la celebra Font del Lleó, simțind căldura apelor geotermale. La o aruncătură de băț, intrați în elegantul Balneari Riu pentru a descoperi istoria balneară.\n\nLa prânz, admirați arhitectura Can Mussenya înainte de a vă îndrepta spre Banys Termals El Safareig. Aici, vă puteți relaxa în apele terapeutice la fel ca localnicii.\n\nDupă-amiaza, descoperiți Antic Safareig, spălătoria tradițională care evidențiază viața de zi cu zi. Este o privire fascinantă în trecutul comunității.\n\nÎncheiați turul la Museu Sagales. Petreceți seara admirând autobuzele de epocă, încheind o zi perfectă dedicată patrimoniului din Caldes de Montbui.",
+        "en": "Start your morning at the famous Font del Lleó, feeling the heat of the geothermal waters. Just a stone's throw away, step into the elegant Balneari Riu to uncover the spa history.\n\nBy midday, admire the classic architecture of Can Mussenya before heading to the Banys Termals El Safareig. Here, you can soak in the therapeutic waters and truly relax like the locals.\n\nIn the afternoon, discover the Antic Safareig, the traditional washhouse that highlights daily historic life. It’s a fascinating glimpse into the community's past before modern conveniences.\n\nConclude your walking tour at the Museu Sagales. Spend the evening marveling at the vintage buses, wrapping up a perfect day dedicated to the heritage of Caldes de Montbui."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:08",
+      "total_km": 3.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Museu Sagales",
+            "hu": "Museu Sagales",
+            "ro": "Museu Sagales",
+            "en": "Museu Sagales"
+          },
+          "coords": [
+            2.166787,
+            41.629085
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Entwicklung des öffentlichen Verkehrs anhand von Oldtimerbussen, und fragen Sie nach der Broschüre für Details.",
+            "hu": "Fedezze fel a tömegközlekedés lenyűgöző fejlődését a régi buszokon keresztül, és kérjen angol nyelvű brosúrát a kiállítások jobb megértéséhez.",
+            "ro": "Descoperiți evoluția fascinantă a transportului public prin autobuze de epocă și cereți personalului broșura pentru a înțelege mai bine exponatele.",
+            "en": "Discover the fascinating evolution of public transport through vintage buses, and ask the staff for the English brochure to better understand the exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Antic Safareig",
+            "hu": "Antic Safareig",
+            "ro": "Antic Safareig",
+            "en": "Antic Safareig"
+          },
+          "coords": [
+            2.164134,
+            41.629499
+          ],
+          "category": "landmark",
+          "arrive_at": "10:52",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses traditionelle Gemeinschaftswaschhaus, um mehr über das historische Alltagsleben zu erfahren, und lesen Sie die informativen Tafeln.",
+            "hu": "Látogasson el ebbe a hagyományos közösségi mosóházba, hogy megismerje a történelmi mindennapokat, és olvassa el a mosási folyamatot bemutató táblákat.",
+            "ro": "Vizitați această spălătorie comunală tradițională pentru a învăța despre viața de zi cu zi istorică și citiți plăcile informative despre procesul de spălare.",
+            "en": "Visit this traditional communal washhouse to learn about historic daily life, and try reading the informational plaques detailing the washing process."
+          }
+        },
+        {
+          "name": {
+            "de": "Font del Lleó",
+            "hu": "Font del Lleó",
+            "ro": "Font del Lleó",
+            "en": "Font del Lleó"
+          },
+          "coords": [
+            2.161982,
+            41.634401
+          ],
+          "category": "landmark",
+          "arrive_at": "11:11",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen berühmten Thermalbrunnen, dessen Wasser mit 74°C heraussprudelt, aber berühren Sie die Rohre nicht, um Verbrennungen zu vermeiden.",
+            "hu": "Csodálja meg ezt az ikonikus termálkutat, amelyből 74°C-os víz tör elő, de az égési sérülések elkerülése érdekében ne érjen közvetlenül a csövekhez.",
+            "ro": "Admirați această fântână termală emblematică cu apa la 74°C, dar fiți atenți să nu atingeți direct țevile pentru a evita arsurile neplăcute.",
+            "en": "Admire this iconic hot spring fountain where water emerges at a scorching 74°C, but be careful not to touch the spouts directly to avoid burns."
+          }
+        },
+        {
+          "name": {
+            "de": "Balneari Riu",
+            "hu": "Balneari Riu",
+            "ro": "Balneari Riu",
+            "en": "Balneari Riu"
+          },
+          "coords": [
+            2.161019,
+            41.634385
+          ],
+          "category": "historical",
+          "arrive_at": "11:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses elegante historische Heilbad, das die Badekultur der Stadt zeigt, und buchen Sie eine kurze Tour, um die alten Anlagen zu sehen.",
+            "hu": "Fedezze fel ezt az elegáns történelmi fürdőt, amely a város fürdőörökségét őrzi, és foglaljon egy rövid túrát a régi létesítmények megtekintéséhez.",
+            "ro": "Explorați acest spa istoric elegant care evidențiază patrimoniul balnear al orașului și rezervați un scurt tur ghidat pentru a vedea facilitățile de epocă.",
+            "en": "Explore this elegant historical spa that highlights the town's bathing heritage, and consider booking a short guided tour to see the vintage facilities."
+          }
+        },
+        {
+          "name": {
+            "de": "Jaciment arqueològic",
+            "hu": "Jaciment arqueològic",
+            "ro": "Jaciment arqueològic",
+            "en": "Jaciment arqueològic"
+          },
+          "coords": [
+            2.143448,
+            41.633213
+          ],
+          "category": "historical",
+          "arrive_at": "13:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie an dieser archäologischen Stätte die antiken Wurzeln der Region, aber tragen Sie feste Schuhe, da das Gelände uneben sein kann.",
+            "hu": "Fedezze fel a régió ősi gyökereit ezen a régészeti lelőhelyen, de viseljen masszív túracipőt, mivel a környező terep egyenetlen lehet.",
+            "ro": "Descoperiți rădăcinile antice ale regiunii în acest sit arheologic, dar purtați încălțăminte solidă, deoarece terenul poate fi accidentat.",
+            "en": "Uncover the region's ancient roots at this archaeological site, but wear sturdy walking shoes as the surrounding terrain can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Turó de la Torre Roja",
+            "hu": "Turó de la Torre Roja",
+            "ro": "Turó de la Torre Roja",
+            "en": "Turó de la Torre Roja"
+          },
+          "coords": [
+            2.141064,
+            41.633718
+          ],
+          "category": "natural",
+          "arrive_at": "14:28",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Wandern Sie auf diesen markanten Hügel, um den Panoramablick auf die Täler zu genießen, und bringen Sie Wasser mit, da es oben nichts gibt.",
+            "hu": "Másszon fel erre a kiemelkedő dombra, hogy élvezze a völgyekre nyíló panorámát, és vigyen magával egy üveg vizet, mert a csúcson nincs büfé.",
+            "ro": "Urcați pe acest deal proeminent pentru a vă bucura de vederi panoramice ale văilor, și aduceți o sticlă cu apă, deoarece sus nu există facilități.",
+            "en": "Hike up this prominent hill to enjoy panoramic views of the surrounding valleys, and bring a bottle of water as there are no facilities at the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Sant Martí de Pascol",
+            "hu": "Sant Martí de Pascol",
+            "ro": "Sant Martí de Pascol",
+            "en": "Sant Martí de Pascol"
+          },
+          "coords": [
+            2.140824,
+            41.641021
+          ],
+          "category": "religious",
+          "arrive_at": "14:58",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erleben Sie die ruhige Atmosphäre dieser alten religiösen Stätte und treten Sie respektvoll ein, um die schöne Steinarchitektur zu schätzen.",
+            "hu": "Tapasztalja meg ennek az ősi vallási helynek a nyugodt légkörét, és lépjen be tiszteletteljesen, hogy megcsodálja a gyönyörű kőépítészetet.",
+            "ro": "Experimentați atmosfera senină a acestui vechi sit religios și pășiți cu respect înăuntru pentru a aprecia arhitectura sa frumoasă din piatră.",
+            "en": "Experience the serene atmosphere of this ancient religious site, and step inside respectfully to appreciate its simple yet beautiful stone architecture."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag im Museu Sagales und erkunden Sie die Verkehrsgeschichte, dann radeln Sie zum Antic Safareig, um das Waschhaus zu sehen.\n\nGegen Mittag fahren Sie zur sprudelnden Font del Lleó und besuchen das Balneari Riu. Diese Stopps fangen die Essenz der Quellenkultur der Stadt ein.\n\nLassen Sie am Nachmittag das Zentrum hinter sich und radeln Sie nach Westen zum Jaciment arqueològic. Entdecken Sie antike Ruinen vor der Fahrt zum Turó de la Torre Roja.\n\nBeenden Sie Ihr Abenteuer, indem Sie zum ruhigen Sant Martí de Pascol radeln. Genießen Sie die friedliche Atmosphäre und die schöne Aussicht am Abend.",
+        "hu": "Kezdje a kerékpáros napot a Museu Sagales-ben a közlekedéstörténet felfedezésével, majd tekerjen a közeli Antic Safareig-hez a reggeli fényben.\n\nDél körül tekerjen a bugyogó Font del Lleó-hoz, és látogassa meg a Balneari Riu-t. Ezek a megállók megragadják a város termálforrás-kultúráját.\n\nDélután hagyja maga mögött a központot, és tekerjen nyugat felé a Jaciment arqueològic felé. Fedezze fel a romokat, majd célozza meg a Turó de la Torre Roja-t.\n\nFejezze be kalandját azzal, hogy felteker a Sant Martí de Pascol-hoz. Élvezze a békés légkört és a kilátást, ahogy az este leszáll a katalán tájra.",
+        "ro": "Începeți ziua de ciclism la Museu Sagales, explorând istoria transportului, apoi pedalați până la Antic Safareig pentru a vedea spălătoria istorică.\n\nÎn jurul prânzului, mergeți la Font del Lleó și vizitați luxosul Balneari Riu. Aceste opriri surprind perfect esența culturii izvoarelor termale.\n\nDupă-amiaza, lăsați centrul orașului și pedalați spre Jaciment arqueològic. Descoperiți ruine antice înainte de plimbarea spre Turó de la Torre Roja.\n\nÎncheiați aventura pedalând până la seninul Sant Martí de Pascol. Bucurați-vă de atmosfera liniștită și de vederile frumoase pe înserate.",
+        "en": "Kick off your cycling day at the Museu Sagales, exploring transportation history, then pedal to the nearby Antic Safareig to see the historic washhouse.\n\nAround noon, ride up to the bubbling Font del Lleó and visit the luxurious Balneari Riu. These stops perfectly capture the essence of the town's spring culture.\n\nIn the afternoon, leave the town center behind and cycle west towards the Jaciment arqueològic. Uncover ancient ruins before tackling the Turó de la Torre Roja.\n\nFinish your adventure by cycling up to the serene Sant Martí de Pascol. Enjoy the peaceful atmosphere and beautiful views as evening settles."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:12",
+      "total_km": 12.7,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Pinedes del Castellet",
+            "hu": "Pinedes del Castellet",
+            "ro": "Pinedes del Castellet",
+            "en": "Pinedes del Castellet"
+          },
+          "coords": [
+            2.217789,
+            41.635331
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Machen Sie einen erfrischenden Morgenspaziergang durch diesen ruhigen Kiefernwald, um sich mit der Natur zu verbinden und nach Vögeln Ausschau zu halten.",
+            "hu": "Tegyen egy frissítő reggeli sétát ebben a békés fenyőerdőben, hogy kapcsolódjon a természethez, és figyelje a helyi madárfajokat az ösvények mentén.",
+            "ro": "Faceți o plimbare matinală revigorantă prin această pădure de pini liniștită pentru a vă conecta cu natura, urmărind păsările locale pe trasee.",
+            "en": "Take a refreshing morning walk through this peaceful pine forest to connect with nature, keeping an eye out for local bird species along the main trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Turó Gros",
+            "hu": "Turó Gros",
+            "ro": "Turó Gros",
+            "en": "Turó Gros"
+          },
+          "coords": [
+            2.186082,
+            41.645963
+          ],
+          "category": "natural",
+          "arrive_at": "10:32",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Fordern Sie sich mit einer kurzen Wanderung zu diesem natürlichen Hochpunkt für hervorragende Landschaftsfotografie heraus, am besten frühmorgens.",
+            "hu": "Tegye próbára magát egy rövid túrával erre a természetes magaslatra a kiváló tájfotókhoz, lehetőleg korán érkezve, hogy elcsípje a reggeli ködöt.",
+            "ro": "Provocați-vă cu o scurtă drumeție până la acest punct înalt natural pentru fotografii de peisaj excelente, de preferat ajungând devreme.",
+            "en": "Challenge yourself with a short hike to this natural high point for excellent landscape photography, preferably arriving early to catch the morning mist."
+          }
+        },
+        {
+          "name": {
+            "de": "Font del Lleó",
+            "hu": "Font del Lleó",
+            "ro": "Font del Lleó",
+            "en": "Font del Lleó"
+          },
+          "coords": [
+            2.161982,
+            41.634401
+          ],
+          "category": "landmark",
+          "arrive_at": "11:03",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen berühmten Thermalbrunnen, dessen Wasser mit 74°C heraussprudelt, aber berühren Sie die Rohre nicht, um Verbrennungen zu vermeiden.",
+            "hu": "Csodálja meg ezt az ikonikus termálkutat, amelyből 74°C-os víz tör elő, de az égési sérülések elkerülése érdekében ne érjen közvetlenül a csövekhez.",
+            "ro": "Admirați această fântână termală emblematică cu apa la 74°C, dar fiți atenți să nu atingeți direct țevile pentru a evita arsurile neplăcute.",
+            "en": "Admire this iconic hot spring fountain where water emerges at a scorching 74°C, but be careful not to touch the spouts directly to avoid burns."
+          }
+        },
+        {
+          "name": {
+            "de": "Balneari Riu",
+            "hu": "Balneari Riu",
+            "ro": "Balneari Riu",
+            "en": "Balneari Riu"
+          },
+          "coords": [
+            2.161019,
+            41.634385
+          ],
+          "category": "historical",
+          "arrive_at": "11:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses elegante historische Heilbad, das die Badekultur der Stadt zeigt, und buchen Sie eine kurze Tour, um die alten Anlagen zu sehen.",
+            "hu": "Fedezze fel ezt az elegáns történelmi fürdőt, amely a város fürdőörökségét őrzi, és foglaljon egy rövid túrát a régi létesítmények megtekintéséhez.",
+            "ro": "Explorați acest spa istoric elegant care evidențiază patrimoniul balnear al orașului și rezervați un scurt tur ghidat pentru a vedea facilitățile de epocă.",
+            "en": "Explore this elegant historical spa that highlights the town's bathing heritage, and consider booking a short guided tour to see the vintage facilities."
+          }
+        },
+        {
+          "name": {
+            "de": "Banys Termals El Safareig",
+            "hu": "Banys Termals El Safareig",
+            "ro": "Banys Termals El Safareig",
+            "en": "Banys Termals El Safareig"
+          },
+          "coords": [
+            2.162509,
+            41.631983
+          ],
+          "category": "recreational",
+          "arrive_at": "12:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesen authentischen Thermalbädern, um die heilenden Wasser aus erster Hand zu erleben, also packen Sie Badesachen und Handtuch ein.",
+            "hu": "Pihenjen ezekben az autentikus termálfürdőkben, hogy első kézből tapasztalja meg a gyógyvizeket, ezért ne felejtsen el fürdőruhát és törölközőt vinni.",
+            "ro": "Relaxați-vă în aceste băi termale autentice pentru a experimenta apele terapeutice, așa că nu uitați să vă împachetați costumul de baie și un prosop.",
+            "en": "Relax in these authentic thermal baths to experience the therapeutic waters firsthand, so remember to pack your swimsuit and a quick-drying towel."
+          }
+        },
+        {
+          "name": {
+            "de": "Jaciment arqueològic",
+            "hu": "Jaciment arqueològic",
+            "ro": "Jaciment arqueològic",
+            "en": "Jaciment arqueològic"
+          },
+          "coords": [
+            2.143448,
+            41.633213
+          ],
+          "category": "historical",
+          "arrive_at": "14:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie an dieser archäologischen Stätte die antiken Wurzeln der Region, aber tragen Sie feste Schuhe, da das Gelände uneben sein kann.",
+            "hu": "Fedezze fel a régió ősi gyökereit ezen a régészeti lelőhelyen, de viseljen masszív túracipőt, mivel a környező terep egyenetlen lehet.",
+            "ro": "Descoperiți rădăcinile antice ale regiunii în acest sit arheologic, dar purtați încălțăminte solidă, deoarece terenul poate fi accidentat.",
+            "en": "Uncover the region's ancient roots at this archaeological site, but wear sturdy walking shoes as the surrounding terrain can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Sant Martí de Pascol",
+            "hu": "Sant Martí de Pascol",
+            "ro": "Sant Martí de Pascol",
+            "en": "Sant Martí de Pascol"
+          },
+          "coords": [
+            2.140824,
+            41.641021
+          ],
+          "category": "religious",
+          "arrive_at": "15:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die ruhige Atmosphäre dieser alten religiösen Stätte und treten Sie respektvoll ein, um die schöne Steinarchitektur zu schätzen.",
+            "hu": "Tapasztalja meg ennek az ősi vallási helynek a nyugodt légkörét, és lépjen be tiszteletteljesen, hogy megcsodálja a gyönyörű kőépítészetet.",
+            "ro": "Experimentați atmosfera senină a acestui vechi sit religios și pășiți cu respect înăuntru pentru a aprecia arhitectura sa frumoasă din piatră.",
+            "en": "Experience the serene atmosphere of this ancient religious site, and step inside respectfully to appreciate its simple yet beautiful stone architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscines",
+            "hu": "Piscines",
+            "ro": "Piscines",
+            "en": "Piscines"
+          },
+          "coords": [
+            2.13199,
+            41.607863
+          ],
+          "category": "recreational",
+          "arrive_at": "16:27",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich nach einem langen Sightseeing-Tag in diesen weitläufigen Freizeitbecken ab und kommen Sie früh, um einen guten Platz zu sichern.",
+            "hu": "Hűtse le magát ezekben a hatalmas medencékben egy hosszú városnézés után, és érkezzen kicsit korábban, hogy jó helyet biztosítson a füvön.",
+            "ro": "Răcoriți-vă în aceste piscine spațioase după o zi lungă de vizitare și ajungeți mai devreme pentru a vă asigura un loc bun pe iarbă.",
+            "en": "Cool off in these expansive recreational pools after a long day of sightseeing, and arrive a bit earlier to secure a good spot on the grassy areas."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt im Osten in den Pinedes del Castellet für einen erfrischenden Spaziergang. Fahren Sie kurz darauf zum Turó Gros für atemberaubende Morgenansichten über die Täler.\n\nFahren Sie bis Mittag ins Herz von Caldes de Montbui. Parken Sie Ihr Auto, um die ikonische Font del Lleó zu erkunden und betreten Sie das historische Balneari Riu.\n\nVerbringen Sie den frühen Nachmittag entspannt in den Banys Termals El Safareig. Später besuchen Sie mit dem Auto das Jaciment arqueològic und reisen in die Vergangenheit.\n\nWenn der Abend naht, fahren Sie zum ruhigen Sant Martí de Pascol. Lassen Sie Ihren perfekten Tag schließlich mit einem erfrischenden Bad in den Piscines ausklingen.",
+        "hu": "Kezdje autózást keleten a Pinedes del Castellet-ben egy frissítő sétával. Röviddel ezután vezessen a Turó Gros-hoz a lenyűgöző reggeli kilátásért a völgyek felett.\n\nDélre érkezzen meg Caldes de Montbui szívébe. Parkoljon le, hogy felfedezze a Font del Lleó-t, és lépjen be a történelmi Balneari Riu-ba, elmerülve a helyi fürdőörökségben.\n\nA kora délutánt töltse pihenéssel a Banys Termals El Safareig-ben. Később pattanjon autóba, hogy meglátogassa a Jaciment arqueològic-ot az ősi romok között.\n\nAhogy közeledik az este, vezessen fel a békés Sant Martí de Pascol-hoz. Végül zárja le a napot egy frissítő úszással a Piscines-ben, élvezve a nyüzsgő helyi hangulatot.",
+        "ro": "Începeți traseul spre est la Pinedes del Castellet pentru o plimbare revigorantă. La scurt timp, conduceți spre Turó Gros pentru a surprinde vederi uimitoare de dimineață.\n\nConduceți în inima orașului Caldes de Montbui până la prânz. Parcați mașina pentru a explora emblematica Font del Lleó și intrați în istoricul Balneari Riu.\n\nPetreceți prima parte a după-amiezii relaxându-vă la Banys Termals El Safareig. Mai târziu, urcați în mașină pentru a vizita Jaciment arqueològic, pășind înapoi în timp.\n\nPe măsură ce se apropie seara, conduceți până la seninul Sant Martí de Pascol. În cele din urmă, încheiați-vă ziua cu o baie revigorantă la Piscines.",
+        "en": "Start your scenic drive east at Pinedes del Castellet for a refreshing nature walk. Shortly after, drive to Turó Gros to capture stunning morning views over the sweeping valleys.\n\nDrive into the heart of Caldes de Montbui by midday. Park your car to explore the iconic Font del Lleó and step into the historic Balneari Riu, immersing yourself in the local spa legacy.\n\nSpend your early afternoon relaxing at the Banys Termals El Safareig. Later, hop back in the car to visit the Jaciment arqueològic, stepping back in time among the ancient ruins.\n\nAs evening approaches, drive up to the serene Sant Martí de Pascol. Finally, wind down your perfect day with a refreshing swim at the Piscines, enjoying the vibrant local atmosphere."
+      }
+    }
+  }
+}

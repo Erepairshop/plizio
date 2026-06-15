@@ -1,0 +1,474 @@
+{
+  "city_id": "hasparren",
+  "anchor": {
+    "name": "Hasparren",
+    "coords": [
+      -1.3047,
+      43.3844
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:33",
+      "total_km": 2.48,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Jean-Baptiste Church",
+            "hu": "Saint-Jean-Baptiste Church",
+            "ro": "Saint-Jean-Baptiste Church",
+            "en": "Saint-Jean-Baptiste Church"
+          },
+          "coords": [
+            -1.305006,
+            43.384155
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtige baskische Architektur dieser historischen Kirche im Herzen von Hasparren und achten Sie auf die traditionellen Holzgalerien im Innenraum.",
+            "hu": "Csodálja meg a történelmi templom lenyűgöző baszk építészetét Hasparren szívében, és figyeljen a belső térben található hagyományos, fából készült karzatokra.",
+            "ro": "Admirați arhitectura bască magnifică a acestei biserici istorice din inima orașului Hasparren și acordați atenție galeriilor tradiționale din lemn din interior.",
+            "en": "Admire the magnificent Basque architecture of this historic church in the heart of Hasparren and pay close attention to the traditional wooden galleries inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Francis Jammes House",
+            "hu": "Francis Jammes House",
+            "ro": "Francis Jammes House",
+            "en": "Francis Jammes House"
+          },
+          "coords": [
+            -1.305029,
+            43.385631
+          ],
+          "category": "cultural",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Entdecken Sie das charmante ehemalige Wohnhaus des berühmten Dichters Francis Jammes und nehmen Sie sich Zeit, die inspirierende, ruhige Umgebung auf sich wirken zu lassen.",
+            "hu": "Fedezze fel a híres költő, Francis Jammes egykori bájos otthonát, és szánjon időt arra, hogy elmerüljön az inspiráló, csendes környezet nyújtotta békében.",
+            "ro": "Descoperiți fosta casă fermecătoare a celebrului poet Francis Jammes și faceți-vă timp pentru a vă bucura de atmosfera liniștită și extrem de inspirațională.",
+            "en": "Discover the charming former home of the famous poet Francis Jammes, and take your time to fully absorb the inspiring, quiet surroundings of this cultural gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Centre culturel Eihartzea",
+            "hu": "Centre culturel Eihartzea",
+            "ro": "Centre culturel Eihartzea",
+            "en": "Centre culturel Eihartzea"
+          },
+          "coords": [
+            -1.303344,
+            43.388842
+          ],
+          "category": "cultural",
+          "arrive_at": "11:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem pulsierenden Zentrum tief in die baskische Kultur ein und prüfen Sie vorab den Veranstaltungsplan, um vielleicht eine lokale Ausstellung zu besuchen.",
+            "hu": "Merüljön el a baszk kultúrában ebben a pezsgő központban, és mindenképpen ellenőrizze az eseménynaptárt előre, hátha épp egy helyi kiállítást is megtekinthet.",
+            "ro": "Cufundați-vă în cultura bască în acest centru vibrant și asigurați-vă că verificați programul evenimentelor în avans pentru a vizita o expoziție locală fascinantă.",
+            "en": "Immerse yourself deeply in Basque culture at this vibrant cultural center, and check the event schedule in advance to possibly catch a fascinating local exhibition."
+          }
+        },
+        {
+          "name": {
+            "de": "Sacré-Cœur Chapel",
+            "hu": "Sacré-Cœur Chapel",
+            "ro": "Sacré-Cœur Chapel",
+            "en": "Sacré-Cœur Chapel"
+          },
+          "coords": [
+            -1.304936,
+            43.381356
+          ],
+          "category": "religious",
+          "arrive_at": "12:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.84,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese friedliche kleine Kapelle, die einen Moment der stillen Reflexion bietet, und fotografieren Sie die wunderschönen Details der historischen Fassade.",
+            "hu": "Látogasson el ebbe a békés kis kápolnába, amely tökéletes helyszínt nyújt a csendes elmélkedéshez, és fotózza le a történelmi homlokzat gyönyörű, apró részleteit.",
+            "ro": "Vizitați această mică capelă pașnică, care oferă un moment de reflecție liniștită, și asigurați-vă că fotografiați detaliile frumoase ale fațadei sale istorice.",
+            "en": "Visit this peaceful little chapel which offers a perfect moment of quiet reflection, and be sure to photograph the beautiful intricate details of its historic facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Istudianteko Hondartza Ttikia",
+            "hu": "Istudianteko Hondartza Ttikia",
+            "ro": "Istudianteko Hondartza Ttikia",
+            "en": "Istudianteko Hondartza Ttikia"
+          },
+          "coords": [
+            -1.318113,
+            43.378088
+          ],
+          "category": "recreational",
+          "arrive_at": "13:48",
+          "stay_min": 105,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen nostalgischen Ort, der einst ein beliebter Erholungsstrand war, und stellen Sie sich bei einem Spaziergang die lebhafte Atmosphäre vergangener Tage vor.",
+            "hu": "Látogasson el erre a nosztalgikus helyre, amely egykor kedvelt pihenőpart volt, és képzelje el a múlt nyüzsgő hangulatát egy kényelmes, délutáni séta közben.",
+            "ro": "Vizitați acest loc nostalgic care a fost odată o plajă de recreere populară și imaginați-vă atmosfera plină de viață a zilelor trecute în timp ce faceți o plimbare.",
+            "en": "Visit this nostalgic site that was once a popular recreational beach, and imagine the lively atmosphere of the past while enjoying a leisurely afternoon stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen in der beeindruckenden Saint-Jean-Baptiste Church, die einen historischen Rahmen für den Tag schafft.\n\nMachen Sie einen kurzen Spaziergang zum Francis Jammes House, um das literarische Erbe der Stadt zu würdigen, gefolgt von einer tiefen kulturellen Erfahrung im Centre culturel Eihartzea am Mittag.\n\nGenießen Sie am Nachmittag einen friedlichen Moment in der wunderschönen Sacré-Cœur Chapel, bevor Sie zum nostalgischen Ort Istudianteko Hondartza Ttikia weitergehen.\n\nBeenden Sie Ihren Rundgang mit einem gemütlichen abendlichen Spaziergang durch die charmanten, ruhigen zentralen Straßen von Hasparren.",
+        "hu": "Kezdje a reggelt a lenyűgöző Saint-Jean-Baptiste templomnál, amely megadja a nap történelmi alaphangulatát.\n\nTegyen egy rövid sétát a Francis Jammes házhoz, hogy értékelje a város irodalmi örökségét, majd délben látogasson el az Eihartzea kulturális központba.\n\nDélután élvezze a békés pillanatokat a Sacré-Cœur kápolnában, mielőtt a nosztalgikus Istudianteko Hondartza Ttikia felé venné az irányt.\n\nZárja gyalogtúráját egy kellemes esti sétával Hasparren bájos, központi utcáin, elmerülve a helyi atmoszférában.",
+        "ro": "Începeți dimineața la magnifica biserică Saint-Jean-Baptiste, stabilind un ton istoric perfect pentru restul zilei.\n\nFaceți o scurtă plimbare până la Casa Francis Jammes pentru a aprecia moștenirea literară a orașului, iar la prânz interacționați cu tradițiile locale la Centre culturel Eihartzea.\n\nDupă-amiaza, bucurați-vă de un moment de liniște la Capela Sacré-Cœur înainte de a vă îndrepta spre locul nostalgic Istudianteko Hondartza Ttikia.\n\nÎncheiați turul pietonal cu o plimbare relaxantă de seară înapoi prin străzile centrale fermecătoare și pitorești din Hasparren.",
+        "en": "Start your morning at the magnificent Saint-Jean-Baptiste Church, setting a rich historical tone for the rest of your day.\n\nTake a short stroll to the Francis Jammes House to appreciate the town's literary heritage, and by midday, engage with local traditions at the Centre culturel Eihartzea.\n\nIn the afternoon, enjoy a peaceful moment at the beautiful Sacré-Cœur Chapel before heading to the nostalgic recreational site of Istudianteko Hondartza Ttikia.\n\nConclude your walking tour with a leisurely evening stroll back through the charming, quiet central streets of Hasparren."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 5.41,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Jean-Baptiste Church",
+            "hu": "Saint-Jean-Baptiste Church",
+            "ro": "Saint-Jean-Baptiste Church",
+            "en": "Saint-Jean-Baptiste Church"
+          },
+          "coords": [
+            -1.305006,
+            43.384155
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtige baskische Architektur dieser historischen Kirche im Herzen von Hasparren und achten Sie auf die traditionellen Holzgalerien im Innenraum.",
+            "hu": "Csodálja meg a történelmi templom lenyűgöző baszk építészetét Hasparren szívében, és figyeljen a belső térben található hagyományos, fából készült karzatokra.",
+            "ro": "Admirați arhitectura bască magnifică a acestei biserici istorice din inima orașului Hasparren și acordați atenție galeriilor tradiționale din lemn din interior.",
+            "en": "Admire the magnificent Basque architecture of this historic church in the heart of Hasparren and pay close attention to the traditional wooden galleries inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Francis Jammes House",
+            "hu": "Francis Jammes House",
+            "ro": "Francis Jammes House",
+            "en": "Francis Jammes House"
+          },
+          "coords": [
+            -1.305029,
+            43.385631
+          ],
+          "category": "cultural",
+          "arrive_at": "09:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Entdecken Sie das charmante ehemalige Wohnhaus des berühmten Dichters Francis Jammes und nehmen Sie sich Zeit, die inspirierende, ruhige Umgebung auf sich wirken zu lassen.",
+            "hu": "Fedezze fel a híres költő, Francis Jammes egykori bájos otthonát, és szánjon időt arra, hogy elmerüljön az inspiráló, csendes környezet nyújtotta békében.",
+            "ro": "Descoperiți fosta casă fermecătoare a celebrului poet Francis Jammes și faceți-vă timp pentru a vă bucura de atmosfera liniștită și extrem de inspirațională.",
+            "en": "Discover the charming former home of the famous poet Francis Jammes, and take your time to fully absorb the inspiring, quiet surroundings of this cultural gem."
+          }
+        },
+        {
+          "name": {
+            "de": "Stèle",
+            "hu": "Stèle",
+            "ro": "Stèle",
+            "en": "Stèle"
+          },
+          "coords": [
+            -1.326996,
+            43.382432
+          ],
+          "category": "historical",
+          "arrive_at": "11:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Studieren Sie diese historische Stele, die ein wichtiges Zeugnis der lokalen Vergangenheit ist, und lesen Sie die Informationstafeln, um den kulturellen Kontext zu verstehen.",
+            "hu": "Tanulmányozza ezt a történelmi sztélét, amely a helyi múlt fontos emléke, és feltétlenül olvassa el a tájékoztató táblákat a kulturális kontextus megértéséhez.",
+            "ro": "Studiați această stela istorică care reprezintă o mărturie importantă a trecutului local și citiți panourile informative pentru a înțelege pe deplin contextul cultural.",
+            "en": "Study this historic stele which stands as an important testament to the local past, and be sure to read the informational plaques to fully understand its cultural context."
+          }
+        },
+        {
+          "name": {
+            "de": "Istudianteko Hondartza Ttikia",
+            "hu": "Istudianteko Hondartza Ttikia",
+            "ro": "Istudianteko Hondartza Ttikia",
+            "en": "Istudianteko Hondartza Ttikia"
+          },
+          "coords": [
+            -1.318113,
+            43.378088
+          ],
+          "category": "recreational",
+          "arrive_at": "12:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen nostalgischen Ort, der einst ein beliebter Erholungsstrand war, und stellen Sie sich bei einem Spaziergang die lebhafte Atmosphäre vergangener Tage vor.",
+            "hu": "Látogasson el erre a nosztalgikus helyre, amely egykor kedvelt pihenőpart volt, és képzelje el a múlt nyüzsgő hangulatát egy kényelmes, délutáni séta közben.",
+            "ro": "Vizitați acest loc nostalgic care a fost odată o plajă de recreere populară și imaginați-vă atmosfera plină de viață a zilelor trecute în timp ce faceți o plimbare.",
+            "en": "Visit this nostalgic site that was once a popular recreational beach, and imagine the lively atmosphere of the past while enjoying a leisurely afternoon stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Ferme lthurburu Jean-Antoine",
+            "hu": "Ferme lthurburu Jean-Antoine",
+            "ro": "Ferme lthurburu Jean-Antoine",
+            "en": "Ferme lthurburu Jean-Antoine"
+          },
+          "coords": [
+            -1.287202,
+            43.377568
+          ],
+          "category": "natural",
+          "arrive_at": "14:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Erleben Sie das authentische baskische Landleben auf diesem traditionellen Bauernhof und fragen Sie den Besitzer nach den lokalen landwirtschaftlichen Praktiken der Region.",
+            "hu": "Tapasztalja meg az autentikus baszk vidéki életet ezen a hagyományos farmon, és bátran kérdezze meg a tulajdonost a régió helyi mezőgazdasági gyakorlatairól és szokásairól.",
+            "ro": "Experimentați viața rurală bască autentică la această fermă tradițională și nu ezitați să întrebați proprietarul despre practicile agricole locale specifice acestei regiuni.",
+            "en": "Experience authentic Basque country life at this traditional working farm, and feel free to ask the friendly owner about the local agricultural practices of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Ferme Artayet François",
+            "hu": "Ferme Artayet François",
+            "ro": "Ferme Artayet François",
+            "en": "Ferme Artayet François"
+          },
+          "coords": [
+            -1.28591,
+            43.376635
+          ],
+          "category": "natural",
+          "arrive_at": "15:30",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche landwirtschaftliche Tradition dieses charmanten Anwesens und kaufen Sie nach Möglichkeit einige frische, lokal produzierte Waren direkt ab Hof.",
+            "hu": "Fedezze fel ennek a bájos birtoknak a gazdag mezőgazdasági hagyományait, és lehetőség szerint vásároljon friss, helyben termelt árukat közvetlenül a termelőtől.",
+            "ro": "Descoperiți bogata tradiție agricolă a acestei proprietăți fermecătoare și cumpărați câteva produse proaspete, fabricate local, direct de la fermă, dacă este posibil.",
+            "en": "Discover the rich agricultural tradition of this charming estate, and try to purchase some fresh, locally produced goods directly from the farm if they are available."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Fahrradabenteuer an der historischen Saint-Jean-Baptiste Church, gefolgt von einer kurzen Fahrt zum literarischen Erbe im Francis Jammes House.\n\nGegen Mittag radeln Sie in die westlichen Randgebiete, um die alte Stèle und den eindrucksvollen Erholungsort Istudianteko Hondartza Ttikia zu erkunden.\n\nIhr Nachmittag führt Sie auf einer malerischen Fahrt in Richtung Osten, wo Sie den rustikalen Charme der traditionellen Ferme lthurburu Jean-Antoine entdecken.\n\nLassen Sie den Tag auf der Ferme Artayet François ausklingen, wo Sie die authentischen landwirtschaftlichen Wurzeln der baskischen Region erleben, bevor Sie zurückfahren.",
+        "hu": "Kezdje kerékpáros kalandját a történelmi Saint-Jean-Baptiste templomnál, majd egy gyors tekeréssel látogasson el a Francis Jammes ház irodalmi emlékeihez.\n\nDél közeledtével pedálozzon a nyugati külvárosok felé, hogy felfedezze az ősi Sztélét és a hangulatos Istudianteko Hondartza Ttikia egykori strandját.\n\nA délután folyamán tegyen egy festői utazást kelet felé, hogy átélje a vidéki bájt a hagyományos Ferme lthurburu Jean-Antoine gazdaságban.\n\nFejezze be a napot a Ferme Artayet François-nál, megtapasztalva a baszk régió mezőgazdasági gyökereit, mielőtt kényelmesen visszatekerne a városba.",
+        "ro": "Începeți aventura cu bicicleta la biserica istorică Saint-Jean-Baptiste, urmată de o scurtă plimbare până la moștenirea literară a Casei Francis Jammes.\n\nPe măsură ce se apropie prânzul, pedalați spre periferia vestică pentru a descoperi vechea Stela și evocatorul sit de recreere Istudianteko Hondartza Ttikia.\n\nDupă-amiaza implică o plimbare pitorească spre est pentru a explora farmecul rural al tradiționalei Ferme lthurburu Jean-Antoine.\n\nÎncheiați-vă ziua la Ferme Artayet François, experimentând rădăcinile agricole autentice ale regiunii basce înainte de a vă întoarce liniștit în oraș.",
+        "en": "Begin your cycling adventure at the historic Saint-Jean-Baptiste Church, followed by a quick ride to appreciate literary history at the Francis Jammes House.\n\nAs midday approaches, pedal towards the western outskirts to discover the ancient Stèle and the evocative nostalgic site of Istudianteko Hondartza Ttikia.\n\nYour afternoon involves a scenic ride eastwards to explore the rural charm and natural beauty of the traditional Ferme lthurburu Jean-Antoine.\n\nFinish your day at Ferme Artayet François, experiencing the authentic agricultural roots of the Basque region before riding comfortably back into town."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:53",
+      "total_km": 13.75,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Jean-Baptiste Church",
+            "hu": "Saint-Jean-Baptiste Church",
+            "ro": "Saint-Jean-Baptiste Church",
+            "en": "Saint-Jean-Baptiste Church"
+          },
+          "coords": [
+            -1.305006,
+            43.384155
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtige baskische Architektur dieser historischen Kirche im Herzen von Hasparren und achten Sie auf die traditionellen Holzgalerien im Innenraum.",
+            "hu": "Csodálja meg a történelmi templom lenyűgöző baszk építészetét Hasparren szívében, és figyeljen a belső térben található hagyományos, fából készült karzatokra.",
+            "ro": "Admirați arhitectura bască magnifică a acestei biserici istorice din inima orașului Hasparren și acordați atenție galeriilor tradiționale din lemn din interior.",
+            "en": "Admire the magnificent Basque architecture of this historic church in the heart of Hasparren and pay close attention to the traditional wooden galleries inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Centre culturel Eihartzea",
+            "hu": "Centre culturel Eihartzea",
+            "ro": "Centre culturel Eihartzea",
+            "en": "Centre culturel Eihartzea"
+          },
+          "coords": [
+            -1.303344,
+            43.388842
+          ],
+          "category": "cultural",
+          "arrive_at": "09:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem pulsierenden Zentrum tief in die baskische Kultur ein und prüfen Sie vorab den Veranstaltungsplan, um vielleicht eine lokale Ausstellung zu besuchen.",
+            "hu": "Merüljön el a baszk kultúrában ebben a pezsgő központban, és mindenképpen ellenőrizze az eseménynaptárt előre, hátha épp egy helyi kiállítást is megtekinthet.",
+            "ro": "Cufundați-vă în cultura bască în acest centru vibrant și asigurați-vă că verificați programul evenimentelor în avans pentru a vizita o expoziție locală fascinantă.",
+            "en": "Immerse yourself deeply in Basque culture at this vibrant cultural center, and check the event schedule in advance to possibly catch a fascinating local exhibition."
+          }
+        },
+        {
+          "name": {
+            "de": "Stèle",
+            "hu": "Stèle",
+            "ro": "Stèle",
+            "en": "Stèle"
+          },
+          "coords": [
+            -1.326996,
+            43.382432
+          ],
+          "category": "historical",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Studieren Sie diese historische Stele, die ein wichtiges Zeugnis der lokalen Vergangenheit ist, und lesen Sie die Informationstafeln, um den kulturellen Kontext zu verstehen.",
+            "hu": "Tanulmányozza ezt a történelmi sztélét, amely a helyi múlt fontos emléke, és feltétlenül olvassa el a tájékoztató táblákat a kulturális kontextus megértéséhez.",
+            "ro": "Studiați această stela istorică care reprezintă o mărturie importantă a trecutului local și citiți panourile informative pentru a înțelege pe deplin contextul cultural.",
+            "en": "Study this historic stele which stands as an important testament to the local past, and be sure to read the informational plaques to fully understand its cultural context."
+          }
+        },
+        {
+          "name": {
+            "de": "Mont Ursuya",
+            "hu": "Mont Ursuya",
+            "ro": "Mont Ursuya",
+            "en": "Mont Ursuya"
+          },
+          "coords": [
+            -1.33321,
+            43.344106
+          ],
+          "category": "natural",
+          "arrive_at": "12:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende Aussicht von diesem wunderschönen Berg, und tragen Sie unbedingt festes Schuhwerk für die teils steilen und anspruchsvollen Wanderwege.",
+            "hu": "Élvezze a lélegzetelállító kilátást erről a gyönyörű hegyről, és mindenképpen viseljen túracipőt a meredek, néhol kihívást jelentő erdei ösvények biztonságos bejárásához.",
+            "ro": "Bucurați-vă de priveliștile uluitoare de pe acest munte frumos și asigurați-vă că purtați încălțăminte robustă pentru traseele de drumeție abrupte și uneori provocatoare.",
+            "en": "Enjoy the breathtaking panoramic views from this beautiful mountain, and make absolutely sure to wear sturdy hiking boots for the steep and challenging natural trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Ferme lthurburu Jean-Antoine",
+            "hu": "Ferme lthurburu Jean-Antoine",
+            "ro": "Ferme lthurburu Jean-Antoine",
+            "en": "Ferme lthurburu Jean-Antoine"
+          },
+          "coords": [
+            -1.287202,
+            43.377568
+          ],
+          "category": "natural",
+          "arrive_at": "14:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.2,
+          "tip_5lang": {
+            "de": "Erleben Sie das authentische baskische Landleben auf diesem traditionellen Bauernhof und fragen Sie den Besitzer nach den lokalen landwirtschaftlichen Praktiken der Region.",
+            "hu": "Tapasztalja meg az autentikus baszk vidéki életet ezen a hagyományos farmon, és bátran kérdezze meg a tulajdonost a régió helyi mezőgazdasági gyakorlatairól és szokásairól.",
+            "ro": "Experimentați viața rurală bască autentică la această fermă tradițională și nu ezitați să întrebați proprietarul despre practicile agricole locale specifice acestei regiuni.",
+            "en": "Experience authentic Basque country life at this traditional working farm, and feel free to ask the friendly owner about the local agricultural practices of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Ferme Artayet François",
+            "hu": "Ferme Artayet François",
+            "ro": "Ferme Artayet François",
+            "en": "Ferme Artayet François"
+          },
+          "coords": [
+            -1.28591,
+            43.376635
+          ],
+          "category": "natural",
+          "arrive_at": "15:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche landwirtschaftliche Tradition dieses charmanten Anwesens und kaufen Sie nach Möglichkeit einige frische, lokal produzierte Waren direkt ab Hof.",
+            "hu": "Fedezze fel ennek a bájos birtoknak a gazdag mezőgazdasági hagyományait, és lehetőség szerint vásároljon friss, helyben termelt árukat közvetlenül a termelőtől.",
+            "ro": "Descoperiți bogata tradiție agricolă a acestei proprietăți fermecătoare și cumpărați câteva produse proaspete, fabricate local, direct de la fermă, dacă este posibil.",
+            "en": "Discover the rich agricultural tradition of this charming estate, and try to purchase some fresh, locally produced goods directly from the farm if they are available."
+          }
+        },
+        {
+          "name": {
+            "de": "Sacré-Cœur Chapel",
+            "hu": "Sacré-Cœur Chapel",
+            "ro": "Sacré-Cœur Chapel",
+            "en": "Sacré-Cœur Chapel"
+          },
+          "coords": [
+            -1.304936,
+            43.381356
+          ],
+          "category": "religious",
+          "arrive_at": "16:43",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese friedliche kleine Kapelle, die einen Moment der stillen Reflexion bietet, und fotografieren Sie die wunderschönen Details der historischen Fassade.",
+            "hu": "Látogasson el ebbe a békés kis kápolnába, amely tökéletes helyszínt nyújt a csendes elmélkedéshez, és fotózza le a történelmi homlokzat gyönyörű, apró részleteit.",
+            "ro": "Vizitați această mică capelă pașnică, care oferă un moment de reflecție liniștită, și asigurați-vă că fotografiați detaliile frumoase ale fațadei sale istorice.",
+            "en": "Visit this peaceful little chapel which offers a perfect moment of quiet reflection, and be sure to photograph the beautiful intricate details of its historic facade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie in das Herz von Hasparren, um die beeindruckende Saint-Jean-Baptiste Church und das nahe gelegene Centre culturel Eihartzea zu besuchen.\n\nZur Mittagszeit fahren Sie stadtauswärts, um die historische Stèle zu besichtigen, bevor Sie zu den atemberaubenden Naturlandschaften des Mont Ursuya navigieren.\n\nVerbringen Sie Ihren Nachmittag damit, die Aussicht zu genießen und fahren Sie dann zu den traditionellen Bauernhöfen, um das echte Landleben zu kosten.\n\nAm späten Nachmittag kehren Sie bequem ins Zentrum zurück, um die friedliche Sacré-Cœur Chapel zu bewundern und Ihren Roadtrip abzuschließen.",
+        "hu": "Vezessen Hasparren szívébe, hogy meglátogassa a lenyűgöző Saint-Jean-Baptiste templomot és a közeli Eihartzea kulturális központot.\n\nDélben autózzon ki a városból a történelmi Sztélé megtekintésére, majd induljon el a Mont Ursuya lélegzetelállító természeti tájai felé.\n\nA délutánt a hegyi kilátás élvezetével töltse, majd látogasson el a helyi, hagyományos farmokra, hogy belekóstoljon a valódi vidéki életbe.\n\nKéső délután térjen vissza kényelmesen a városközpontba, és csodálja meg a békés Sacré-Cœur kápolnát, ezzel lezárva átfogó autós túráját.",
+        "ro": "Conduceți în inima orașului Hasparren pentru a vizita impresionanta Biserică Saint-Jean-Baptiste și Centre culturel Eihartzea din apropiere.\n\nLa prânz, conduceți pentru a inspecta Stela istorică înainte de a naviga spre peisajele naturale uluitoare ale maiestuosului Mont Ursuya.\n\nPetreceți-vă după-amiaza bucurându-vă de priveliștile montane și apoi conduceți la fermele tradiționale locale pentru a gusta viața rurală.\n\nDupă-amiaza târziu, întoarceți-vă confortabil în centrul orașului pentru a admira Capela Sacré-Cœur, încheind această călătorie rutieră cuprinzătoare.",
+        "en": "Drive to the heart of Hasparren to visit the impressive Saint-Jean-Baptiste Church and the nearby vibrant Centre culturel Eihartzea.\n\nFor midday, drive out to inspect the historical Stèle before navigating towards the breathtaking natural landscapes of Mont Ursuya.\n\nSpend your afternoon enjoying the mountain views and then drive to the traditional local farms to taste authentic rural Basque life.\n\nIn the late afternoon, return comfortably to the town center to admire the peaceful Sacré-Cœur Chapel, concluding your comprehensive road trip."
+      }
+    }
+  }
+}

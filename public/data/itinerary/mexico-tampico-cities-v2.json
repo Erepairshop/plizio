@@ -1,0 +1,474 @@
+{
+  "city_id": "mexico-tampico-cities-v2",
+  "anchor": {
+    "name": "Tampico",
+    "coords": [
+      -97.87,
+      22.2372
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:12",
+      "total_km": 6.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Teatro UniSan",
+            "hu": "Teatro UniSan",
+            "ro": "Teatro UniSan",
+            "en": "Teatro UniSan"
+          },
+          "coords": [
+            -97.872633,
+            22.237293
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erleben Sie fesselnde lokale Aufführungen im Teatro UniSan, einem wichtigen kulturellen Zentrum, also kommen Sie frühzeitig für die besten Sitzplätze.",
+            "hu": "Élvezze a lenyűgöző helyi előadásokat a Teatro UniSan kulturális központjában, és érkezzen korán, hogy a legjobb ülőhelyeket biztosítsa magának.",
+            "ro": "Bucurați-vă de spectacole locale captivante la Teatro UniSan, un centru cultural esențial, așa că ajungeți devreme pentru a vă asigura cele mai bune locuri.",
+            "en": "Experience captivating local performances at Teatro UniSan, an essential cultural hub, so arrive early to secure the best seating before the show starts."
+          }
+        },
+        {
+          "name": {
+            "de": "Piramide de Las Flores",
+            "hu": "Piramide de Las Flores",
+            "ro": "Piramide de Las Flores",
+            "en": "Piramide de Las Flores"
+          },
+          "coords": [
+            -97.877,
+            22.249537
+          ],
+          "category": "historical",
+          "arrive_at": "11:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie das alte huastekische Erbe an der seltenen runden Piramide de Las Flores und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel az ősi huastek örökséget a ritka, kör alakú Piramide de Las Flores-nél, és viseljen kényelmes cipőt az egyenetlen régészeti terület bejárásához.",
+            "ro": "Descoperiți moștenirea antică huastecă la Piramide de Las Flores, o rară piramidă circulară, și purtați încălțăminte solidă pentru terenul arheologic accidentat.",
+            "en": "Discover the ancient Huastec heritage at Piramide de Las Flores, a rare circular pyramid, and wear sturdy shoes for exploring the uneven archaeological grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Templo de Tampico, México",
+            "hu": "Templo de Tampico, México",
+            "ro": "Templo de Tampico, México",
+            "en": "Templo de Tampico, México"
+          },
+          "coords": [
+            -97.855959,
+            22.254264
+          ],
+          "category": "religious",
+          "arrive_at": "13:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur und ruhige Atmosphäre des Templo de Tampico und kleiden Sie sich dezent, um die makellosen Anlagen respektvoll zu betreten.",
+            "hu": "Csodálja meg a Templo de Tampico lenyűgöző modern építészetét és békés hangulatát, és ne feledjen szerény ruházatot viselni a tiszta udvarok tiszteletteljes bejárásához.",
+            "ro": "Admirați arhitectura modernă impresionantă și atmosfera liniștită a Templo de Tampico și amintiți-vă să vă îmbrăcați modest pentru a vizita respectuos curțile.",
+            "en": "Admire the striking modern architecture and serene atmosphere of the Templo de Tampico, and remember to dress modestly to respectfully walk through its pristine grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro de Convenciones Tampico",
+            "hu": "Centro de Convenciones Tampico",
+            "ro": "Centro de Convenciones Tampico",
+            "en": "Centro de Convenciones Tampico"
+          },
+          "coords": [
+            -97.853487,
+            22.233449
+          ],
+          "category": "cultural",
+          "arrive_at": "14:19",
+          "stay_min": 100,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Erleben Sie Tampicos lebendige Veranstaltungsszene im modernen Centro de Convenciones mit herrlichem Blick aufs Wasser, also prüfen Sie vorab das Programm.",
+            "hu": "Vegyen részt Tampico pezsgő rendezvényein a modern Centro de Convenciones-ben, amely gyönyörű vízparti kilátást nyújt, ezért előzetesen ellenőrizze a kiállítási naptárat.",
+            "ro": "Participați la scena vibrantă de evenimente din Tampico la modernul Centro de Convenciones, care oferă vederi superbe la apă, deci verificați programul expozițional.",
+            "en": "Engage with Tampico's bustling event scene at the modern Centro de Convenciones, offering beautiful waterfront views, so check the exhibition schedule in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Metropolitano de Tampico",
+            "hu": "Teatro Metropolitano de Tampico",
+            "ro": "Teatro Metropolitano de Tampico",
+            "en": "Teatro Metropolitano de Tampico"
+          },
+          "coords": [
+            -97.854058,
+            22.235119
+          ],
+          "category": "cultural",
+          "arrive_at": "16:02",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in großartige Theaterproduktionen im prächtigen Teatro Metropolitano ein, einem wahren architektonischen Juwel, und buchen Sie Ihre Tickets im Voraus.",
+            "hu": "Merüljön el a nagyszerű színházi produkciókban a csodálatos Teatro Metropolitano építészeti gyöngyszemében, és foglalja le jegyeit jóval a látogatása előtt.",
+            "ro": "Cufundați-vă în producții teatrale grandioase la magnificul Teatro Metropolitano, o adevărată bijuterie arhitecturală, și rezervați-vă biletele cu mult timp înainte.",
+            "en": "Immerse yourself in grand theatrical productions at the magnificent Teatro Metropolitano, a true architectural gem, and book your tickets well ahead of your visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit Kultur im Teatro UniSan, gefolgt von einem Spaziergang zu den alten Ruinen der Piramide de Las Flores. Mittags bietet der moderne Templo de Tampico eine friedliche Pause. Nachmittags verlagert sich der Fokus auf die Gegend um die Laguna del Carpintero mit dem großen Centro de Convenciones. Der Abend endet nebenan im prächtigen Teatro Metropolitano mit künstlerischer Brillanz.",
+        "hu": "A reggel kulturális elmélyüléssel kezdődik a Teatro UniSan-ban, majd séta a Piramide de Las Flores ősi romjaihoz. A dél a modern Templo de Tampico békés pihenőjét hozza el. Délután a Laguna del Carpintero térségére összpontosítunk, felfedezve a hatalmas Centro de Convenciones-t. Az este a szomszédos nagyszerű Teatro Metropolitano-ban zárul, művészi pompával fejezve be a napot.",
+        "ro": "Dimineața începe cu imersiune culturală la Teatro UniSan, urmată de o plimbare spre ruinele Piramide de Las Flores. Prânzul aduce o oprire senină la modernul Templo de Tampico. După-amiaza se concentrează pe zona Laguna del Carpintero, explorând vastul Centro de Convenciones. Seara se încheie alături, la grandiosul Teatro Metropolitano, terminând ziua cu strălucire artistică.",
+        "en": "Morning begins with cultural immersion at Teatro UniSan, followed by a walk to the ancient Huastec ruins of Piramide de Las Flores. Midday brings a serene stop at the modern Templo de Tampico, offering a peaceful respite. Afternoon shifts focus to the Laguna del Carpintero area, exploring the vast Centro de Convenciones. Evening concludes next door at the grand Teatro Metropolitano, ending the day with artistic brilliance."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:34",
+      "total_km": 7.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Teatro UniSan",
+            "hu": "Teatro UniSan",
+            "ro": "Teatro UniSan",
+            "en": "Teatro UniSan"
+          },
+          "coords": [
+            -97.872633,
+            22.237293
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erleben Sie fesselnde lokale Aufführungen im Teatro UniSan, einem wichtigen kulturellen Zentrum, also kommen Sie frühzeitig für die besten Sitzplätze.",
+            "hu": "Élvezze a lenyűgöző helyi előadásokat a Teatro UniSan kulturális központjában, és érkezzen korán, hogy a legjobb ülőhelyeket biztosítsa magának.",
+            "ro": "Bucurați-vă de spectacole locale captivante la Teatro UniSan, un centru cultural esențial, așa că ajungeți devreme pentru a vă asigura cele mai bune locuri.",
+            "en": "Experience captivating local performances at Teatro UniSan, an essential cultural hub, so arrive early to secure the best seating before the show starts."
+          }
+        },
+        {
+          "name": {
+            "de": "Piramide de Las Flores",
+            "hu": "Piramide de Las Flores",
+            "ro": "Piramide de Las Flores",
+            "en": "Piramide de Las Flores"
+          },
+          "coords": [
+            -97.877,
+            22.249537
+          ],
+          "category": "historical",
+          "arrive_at": "10:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie das alte huastekische Erbe an der seltenen runden Piramide de Las Flores und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel az ősi huastek örökséget a ritka, kör alakú Piramide de Las Flores-nél, és viseljen kényelmes cipőt az egyenetlen régészeti terület bejárásához.",
+            "ro": "Descoperiți moștenirea antică huastecă la Piramide de Las Flores, o rară piramidă circulară, și purtați încălțăminte solidă pentru terenul arheologic accidentat.",
+            "en": "Discover the ancient Huastec heritage at Piramide de Las Flores, a rare circular pyramid, and wear sturdy shoes for exploring the uneven archaeological grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Templo de Tampico, México",
+            "hu": "Templo de Tampico, México",
+            "ro": "Templo de Tampico, México",
+            "en": "Templo de Tampico, México"
+          },
+          "coords": [
+            -97.855959,
+            22.254264
+          ],
+          "category": "religious",
+          "arrive_at": "12:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur und ruhige Atmosphäre des Templo de Tampico und kleiden Sie sich dezent, um die makellosen Anlagen respektvoll zu betreten.",
+            "hu": "Csodálja meg a Templo de Tampico lenyűgöző modern építészetét és békés hangulatát, és ne feledjen szerény ruházatot viselni a tiszta udvarok tiszteletteljes bejárásához.",
+            "ro": "Admirați arhitectura modernă impresionantă și atmosfera liniștită a Templo de Tampico și amintiți-vă să vă îmbrăcați modest pentru a vizita respectuos curțile.",
+            "en": "Admire the striking modern architecture and serene atmosphere of the Templo de Tampico, and remember to dress modestly to respectfully walk through its pristine grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro de Convenciones Tampico",
+            "hu": "Centro de Convenciones Tampico",
+            "ro": "Centro de Convenciones Tampico",
+            "en": "Centro de Convenciones Tampico"
+          },
+          "coords": [
+            -97.853487,
+            22.233449
+          ],
+          "category": "cultural",
+          "arrive_at": "13:23",
+          "stay_min": 100,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Erleben Sie Tampicos lebendige Veranstaltungsszene im modernen Centro de Convenciones mit herrlichem Blick aufs Wasser, also prüfen Sie vorab das Programm.",
+            "hu": "Vegyen részt Tampico pezsgő rendezvényein a modern Centro de Convenciones-ben, amely gyönyörű vízparti kilátást nyújt, ezért előzetesen ellenőrizze a kiállítási naptárat.",
+            "ro": "Participați la scena vibrantă de evenimente din Tampico la modernul Centro de Convenciones, care oferă vederi superbe la apă, deci verificați programul expozițional.",
+            "en": "Engage with Tampico's bustling event scene at the modern Centro de Convenciones, offering beautiful waterfront views, so check the exhibition schedule in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Metropolitano de Tampico",
+            "hu": "Teatro Metropolitano de Tampico",
+            "ro": "Teatro Metropolitano de Tampico",
+            "en": "Teatro Metropolitano de Tampico"
+          },
+          "coords": [
+            -97.854058,
+            22.235119
+          ],
+          "category": "cultural",
+          "arrive_at": "15:04",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in großartige Theaterproduktionen im prächtigen Teatro Metropolitano ein, einem wahren architektonischen Juwel, und buchen Sie Ihre Tickets im Voraus.",
+            "hu": "Merüljön el a nagyszerű színházi produkciókban a csodálatos Teatro Metropolitano építészeti gyöngyszemében, és foglalja le jegyeit jóval a látogatása előtt.",
+            "ro": "Cufundați-vă în producții teatrale grandioase la magnificul Teatro Metropolitano, o adevărată bijuterie arhitecturală, și rezervați-vă biletele cu mult timp înainte.",
+            "en": "Immerse yourself in grand theatrical productions at the magnificent Teatro Metropolitano, a true architectural gem, and book your tickets well ahead of your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Alberca Olimpica",
+            "hu": "Alberca Olimpica",
+            "ro": "Alberca Olimpica",
+            "en": "Alberca Olimpica"
+          },
+          "coords": [
+            -97.849027,
+            22.226859
+          ],
+          "category": "recreational",
+          "arrive_at": "16:49",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erfrischen Sie sich mit einem belebenden Bad in der Alberca Olimpica, einem klassischen Erholungsort, und denken Sie daran, Ihr eigenes Handtuch mitzubringen.",
+            "hu": "Frissüljön fel egy élénkítő úszással az Alberca Olimpica klasszikus helyi rekreációs központjában, és ne felejtse el magával hozni a saját törölközőjét és úszósapkáját.",
+            "ro": "Răcoriți-vă cu o baie revigorantă la Alberca Olimpica, un loc clasic de recreere local, și nu uitați să aduceți propriul prosop și o cască de înot.",
+            "en": "Refresh yourself with an invigorating swim at the Alberca Olimpica, a classic local recreational spot, and remember to bring your own towel and swimming cap."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour mit Kunst im Teatro UniSan, bevor Sie zur historischen Piramide de Las Flores radeln. Mittags bringt Sie das Rad zum ruhigen Templo de Tampico. Nachmittags weht eine frische Brise auf der Fahrt zum Centro de Convenciones und dem Teatro Metropolitano. Der Abend klingt mit einem erfrischenden Bad oder Entspannung an der Alberca Olimpica aus.",
+        "hu": "Kezdje a kerékpártúrát a Teatro UniSan helyi művészetével, mielőtt a történelmi Piramide de Las Flores felé pedálozna. A déli tekerés a nyugodt Templo de Tampico-hoz visz egy csendes pihenőre. A délutáni szellő kíséri útját a nyüzsgő Centro de Convenciones és a Teatro Metropolitano felé. Az este egy frissítő úszással vagy tóparti pihenéssel zárul az Alberca Olimpica-ban.",
+        "ro": "Începeți turul cu bicicleta cu arta locală la Teatro UniSan înainte de a pedala spre istorica Piramide de Las Flores. Ciclismul de la prânz vă duce la liniștitul Templo de Tampico. Briza de după-amiază vă însoțește plimbarea spre plinul de viață Centro de Convenciones și Teatro Metropolitano. Seara se relaxează cu o baie răcoritoare la Alberca Olimpica.",
+        "en": "Kick off your cycling tour with local art at Teatro UniSan before pedaling to the historic Piramide de Las Flores. Midday cycling takes you to the tranquil Templo de Tampico for a quiet break. Afternoon breezes accompany your ride to the bustling Centro de Convenciones and the adjacent Teatro Metropolitano. Evening winds down with a refreshing swim or lakeside relaxation at the Alberca Olimpica."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:31",
+      "total_km": 9.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Teatro UniSan",
+            "hu": "Teatro UniSan",
+            "ro": "Teatro UniSan",
+            "en": "Teatro UniSan"
+          },
+          "coords": [
+            -97.872633,
+            22.237293
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erleben Sie fesselnde lokale Aufführungen im Teatro UniSan, einem wichtigen kulturellen Zentrum, also kommen Sie frühzeitig für die besten Sitzplätze.",
+            "hu": "Élvezze a lenyűgöző helyi előadásokat a Teatro UniSan kulturális központjában, és érkezzen korán, hogy a legjobb ülőhelyeket biztosítsa magának.",
+            "ro": "Bucurați-vă de spectacole locale captivante la Teatro UniSan, un centru cultural esențial, așa că ajungeți devreme pentru a vă asigura cele mai bune locuri.",
+            "en": "Experience captivating local performances at Teatro UniSan, an essential cultural hub, so arrive early to secure the best seating before the show starts."
+          }
+        },
+        {
+          "name": {
+            "de": "Piramide de Las Flores",
+            "hu": "Piramide de Las Flores",
+            "ro": "Piramide de Las Flores",
+            "en": "Piramide de Las Flores"
+          },
+          "coords": [
+            -97.877,
+            22.249537
+          ],
+          "category": "historical",
+          "arrive_at": "10:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie das alte huastekische Erbe an der seltenen runden Piramide de Las Flores und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Fedezze fel az ősi huastek örökséget a ritka, kör alakú Piramide de Las Flores-nél, és viseljen kényelmes cipőt az egyenetlen régészeti terület bejárásához.",
+            "ro": "Descoperiți moștenirea antică huastecă la Piramide de Las Flores, o rară piramidă circulară, și purtați încălțăminte solidă pentru terenul arheologic accidentat.",
+            "en": "Discover the ancient Huastec heritage at Piramide de Las Flores, a rare circular pyramid, and wear sturdy shoes for exploring the uneven archaeological grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Alberca Unidad Nacional",
+            "hu": "Alberca Unidad Nacional",
+            "ro": "Alberca Unidad Nacional",
+            "en": "Alberca Unidad Nacional"
+          },
+          "coords": [
+            -97.849355,
+            22.267474
+          ],
+          "category": "recreational",
+          "arrive_at": "12:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie in den weitläufigen Wasseranlagen der Alberca Unidad Nacional, ideal für eine Mittagspause, und tragen Sie reichlich Sonnencreme auf.",
+            "hu": "Pihenjen meg az Alberca Unidad Nacional tágas vízi létesítményeiben, amely tökéletes egy déli szünetre, és kenjen fel sok fényvédőt a szabadtéri medencék élvezete előtt.",
+            "ro": "Relaxați-vă în facilitățile acvatice spațioase de la Alberca Unidad Nacional, perfecte pentru o pauză la amiază, și aplicați cremă de soare înainte de a ieși la piscine.",
+            "en": "Unwind in the spacious aquatic facilities of Alberca Unidad Nacional, perfect for a midday break, and apply plenty of sunscreen before enjoying the outdoor pools."
+          }
+        },
+        {
+          "name": {
+            "de": "Templo de Tampico, México",
+            "hu": "Templo de Tampico, México",
+            "ro": "Templo de Tampico, México",
+            "en": "Templo de Tampico, México"
+          },
+          "coords": [
+            -97.855959,
+            22.254264
+          ],
+          "category": "religious",
+          "arrive_at": "13:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur und ruhige Atmosphäre des Templo de Tampico und kleiden Sie sich dezent, um die makellosen Anlagen respektvoll zu betreten.",
+            "hu": "Csodálja meg a Templo de Tampico lenyűgöző modern építészetét és békés hangulatát, és ne feledjen szerény ruházatot viselni a tiszta udvarok tiszteletteljes bejárásához.",
+            "ro": "Admirați arhitectura modernă impresionantă și atmosfera liniștită a Templo de Tampico și amintiți-vă să vă îmbrăcați modest pentru a vizita respectuos curțile.",
+            "en": "Admire the striking modern architecture and serene atmosphere of the Templo de Tampico, and remember to dress modestly to respectfully walk through its pristine grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro de Convenciones Tampico",
+            "hu": "Centro de Convenciones Tampico",
+            "ro": "Centro de Convenciones Tampico",
+            "en": "Centro de Convenciones Tampico"
+          },
+          "coords": [
+            -97.853487,
+            22.233449
+          ],
+          "category": "cultural",
+          "arrive_at": "14:23",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Erleben Sie Tampicos lebendige Veranstaltungsszene im modernen Centro de Convenciones mit herrlichem Blick aufs Wasser, also prüfen Sie vorab das Programm.",
+            "hu": "Vegyen részt Tampico pezsgő rendezvényein a modern Centro de Convenciones-ben, amely gyönyörű vízparti kilátást nyújt, ezért előzetesen ellenőrizze a kiállítási naptárat.",
+            "ro": "Participați la scena vibrantă de evenimente din Tampico la modernul Centro de Convenciones, care oferă vederi superbe la apă, deci verificați programul expozițional.",
+            "en": "Engage with Tampico's bustling event scene at the modern Centro de Convenciones, offering beautiful waterfront views, so check the exhibition schedule in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Metropolitano de Tampico",
+            "hu": "Teatro Metropolitano de Tampico",
+            "ro": "Teatro Metropolitano de Tampico",
+            "en": "Teatro Metropolitano de Tampico"
+          },
+          "coords": [
+            -97.854058,
+            22.235119
+          ],
+          "category": "cultural",
+          "arrive_at": "16:04",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in großartige Theaterproduktionen im prächtigen Teatro Metropolitano ein, einem wahren architektonischen Juwel, und buchen Sie Ihre Tickets im Voraus.",
+            "hu": "Merüljön el a nagyszerű színházi produkciókban a csodálatos Teatro Metropolitano építészeti gyöngyszemében, és foglalja le jegyeit jóval a látogatása előtt.",
+            "ro": "Cufundați-vă în producții teatrale grandioase la magnificul Teatro Metropolitano, o adevărată bijuterie arhitecturală, și rezervați-vă biletele cu mult timp înainte.",
+            "en": "Immerse yourself in grand theatrical productions at the magnificent Teatro Metropolitano, a true architectural gem, and book your tickets well ahead of your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Alberca Olimpica",
+            "hu": "Alberca Olimpica",
+            "ro": "Alberca Olimpica",
+            "en": "Alberca Olimpica"
+          },
+          "coords": [
+            -97.849027,
+            22.226859
+          ],
+          "category": "recreational",
+          "arrive_at": "17:46",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erfrischen Sie sich mit einem belebenden Bad in der Alberca Olimpica, einem klassischen Erholungsort, und denken Sie daran, Ihr eigenes Handtuch mitzubringen.",
+            "hu": "Frissüljön fel egy élénkítő úszással az Alberca Olimpica klasszikus helyi rekreációs központjában, és ne felejtse el magával hozni a saját törölközőjét és úszósapkáját.",
+            "ro": "Răcoriți-vă cu o baie revigorantă la Alberca Olimpica, un loc clasic de recreere local, și nu uitați să aduceți propriul prosop și o cască de înot.",
+            "en": "Refresh yourself with an invigorating swim at the Alberca Olimpica, a classic local recreational spot, and remember to bring your own towel and swimming cap."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt am Teatro UniSan, dann geht es zur faszinierenden archäologischen Stätte der Piramide de Las Flores. Mittags lockt ein Bad in der Alberca Unidad Nacional, gefolgt von einem Besuch im Templo de Tampico. Nachmittags fahren Sie zur Laguna del Carpintero für das Centro de Convenciones und das Teatro Metropolitano. Der Abend endet perfekt an der Alberca Olimpica.",
+        "hu": "Az utazás a Teatro UniSan kulturális központjában kezdődik, majd a Piramide de Las Flores régészeti lelőhelyére vezet. A dél egy frissítő csobbanásra csábít az Alberca Unidad Nacional-ban, majd a Templo de Tampico következik. Délután a Laguna del Carpintero-hoz hajtunk, ahol a Centro de Convenciones és a Teatro Metropolitano vár. Az este az Alberca Olimpica-nál ér véget.",
+        "ro": "Călătoria începe la Teatro UniSan, apoi se îndreaptă spre fascinantul sit arheologic Piramide de Las Flores. Amiaza invită la o baie revigorantă la Alberca Unidad Nacional, urmată de o vizită liniștită la Templo de Tampico. Conducerea de după-amiază vă duce la Laguna del Carpintero pentru Centro de Convenciones și Teatro Metropolitano. Seara se termină perfect la Alberca Olimpica.",
+        "en": "Your drive begins at the cultural hub of Teatro UniSan, then heads to the fascinating archaeological site of Piramide de Las Flores. Midday invites a refreshing dip at Alberca Unidad Nacional, followed by a peaceful visit to Templo de Tampico. Afternoon driving takes you to the Laguna del Carpintero for the Centro de Convenciones and Teatro Metropolitano. Evening ends perfectly at the classic Alberca Olimpica."
+      }
+    }
+  }
+}

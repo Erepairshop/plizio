@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-sauze-d-oulx-cities-v2",
+  "anchor": {
+    "name": "Sauze d'Oulx",
+    "coords": [
+      6.848072,
+      45.028857
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:23",
+      "total_km": 5.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cappella di Sant'Antonio abate",
+            "hu": "Cappella di Sant'Antonio abate",
+            "ro": "Cappella di Sant'Antonio abate",
+            "en": "Cappella di Sant'Antonio abate"
+          },
+          "coords": [
+            6.847602,
+            45.023287
+          ],
+          "category": "religious",
+          "arrive_at": "09:09",
+          "stay_min": 50,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte alpine Architektur dieser historischen Kapelle und bringen Sie eine Kamera für die herrliche Bergkulisse am frühen Morgen mit.",
+            "hu": "Csodálja meg ennek a történelmi kápolnának az egyszerű alpesi építészetét, és hozzon magával fényképezőgépet a lenyűgöző kora reggeli hegyi háttérhez.",
+            "ro": "Admirați arhitectura alpină simplă a acestei capele istorice și aduceți o cameră foto pentru fundalul montan uimitor de dimineață.",
+            "en": "Admire the simple alpine architecture of this historical chapel and bring a camera for the stunning mountain backdrop early in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "San Giovanni Battista",
+            "hu": "San Giovanni Battista",
+            "ro": "San Giovanni Battista",
+            "en": "San Giovanni Battista"
+          },
+          "coords": [
+            6.85661,
+            45.026796
+          ],
+          "category": "religious",
+          "arrive_at": "10:11",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die gut erhaltenen Fresken in dieser alten Pfarrkirche, aber denken Sie daran, sich aus Respekt vor der religiösen Stätte bescheiden zu kleiden.",
+            "hu": "Fedezze fel a jól megőrzött freskókat ebben az ősi plébániatemplomban, de ne feledjen szerényen öltözni a vallási helyszín tiszteletére.",
+            "ro": "Explorați frescele bine conservate din interiorul acestei biserici parohiale antice, dar nu uitați să vă îmbrăcați modest din respect pentru situl religios.",
+            "en": "Explore the well-preserved frescoes inside this ancient parish church, but remember to dress modestly out of respect for the religious site."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro d'Ou",
+            "hu": "Teatro d'Ou",
+            "ro": "Teatro d'Ou",
+            "en": "Teatro d'Ou"
+          },
+          "coords": [
+            6.858554,
+            45.028467
+          ],
+          "category": "cultural",
+          "arrive_at": "10:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Werfen Sie einen Blick auf das lokale Kulturleben in diesem charmanten Bergtheater und prüfen Sie die Anschlagtafel auf kommende Abendvorstellungen.",
+            "hu": "Pillantson be a helyi kulturális életbe ebben a hangulatos hegyi színházban, és nézze meg a kinti hirdetőtáblát a közelgő esti előadásokért.",
+            "ro": "Aruncați o privire asupra vieții culturale locale în acest teatru montan fermecător și verificați avizierul de afară pentru viitoarele spectacole de seară.",
+            "en": "Catch a glimpse of local cultural life in this charming mountain theatre, and check their notice board outside for upcoming evening performances."
+          }
+        },
+        {
+          "name": {
+            "de": "San Claudio",
+            "hu": "San Claudio",
+            "ro": "San Claudio",
+            "en": "San Claudio"
+          },
+          "coords": [
+            6.851704,
+            45.043039
+          ],
+          "category": "religious",
+          "arrive_at": "13:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 25,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre rund um dieses bescheidene Heiligtum und ruhen Sie sich einen Moment auf den Bänken aus, bevor Sie weitergehen.",
+            "hu": "Élvezze a békés légkört e szerény vallási szentély körül, és pihenjen meg egy pillanatra a közeli padokon, mielőtt folytatná a sétát.",
+            "ro": "Bucurați-vă de atmosfera pașnică din jurul acestui sanctuar religios modest și luați un moment pentru a vă odihni pe băncile din apropiere.",
+            "en": "Enjoy the peaceful atmosphere surrounding this modest religious sanctuary and take a moment to rest on the nearby benches before continuing your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "San Rocco",
+            "hu": "San Rocco",
+            "ro": "San Rocco",
+            "en": "San Rocco"
+          },
+          "coords": [
+            6.833293,
+            45.031094
+          ],
+          "category": "religious",
+          "arrive_at": "14:13",
+          "stay_min": 70,
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Rundgang an dieser malerischen Alpenkapelle, die besonders schön ist, wenn sie in das warme Licht der späten Nachmittagssonne getaucht wird.",
+            "hu": "Zárja gyalogtúráját ennél a festői alpesi kápolnánál, amely kivételesen szép, amikor a késő délutáni nap meleg fényében fürdik.",
+            "ro": "Încheiați-vă turul pietonal la această capelă alpină pitorească, deosebit de frumoasă atunci când este scăldată în lumina caldă a soarelui de după-amiază.",
+            "en": "Conclude your walking tour at this picturesque alpine chapel, which is exceptionally beautiful when bathed in the warm light of the late afternoon sun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einem erfrischenden Spaziergang zur charmanten Cappella di Sant'Antonio abate in der klaren Bergluft.\n\nMittags tauchen Sie bei San Giovanni Battista und im Kulturzentrum Teatro d'Ou in das lokale Erbe ein.\n\nVerbringen Sie einen entspannten Nachmittag auf dem Weg zum friedlichen Heiligtum San Claudio.\n\nGegen Abend beenden Sie Ihre alpine Wanderung am malerischen San Rocco.",
+        "hu": "Kezdje a reggelt egy frissítő sétával a bájos Cappella di Sant'Antonio abate kápolnához, élvezve a hegyi levegőt.\n\nDélben merüljön el a helyi örökségben a San Giovanni Battista és a Teatro d'Ou kulturális központjában.\n\nTöltsön egy pihentető délutánt a békés San Claudio szentély felé sétálva.\n\nVégül kora este fejezze be békés alpesi sétáját a festői San Rocco kápolnánál.",
+        "ro": "Începeți dimineața cu o plimbare revigorantă către fermecătoarea Cappella di Sant'Antonio abate, bucurându-vă de aerul de munte.\n\nLa prânz, pătrundeți în patrimoniul local la San Giovanni Battista și la Teatro d'Ou.\n\nPetreceți o după-amiază relaxantă plimbându-vă spre sanctuarul pașnic San Claudio.\n\nÎn cele din urmă, spre seară, încheiați-vă plimbarea alpină la pitorescul San Rocco.",
+        "en": "Start your morning with a refreshing stroll to the charming Cappella di Sant'Antonio abate, enjoying the crisp mountain air.\n\nBy midday, delve into local heritage at San Giovanni Battista and the cultural hub of Teatro d'Ou.\n\nSpend a relaxing afternoon walking towards the peaceful San Claudio sanctuary.\n\nFinally, as evening approaches, conclude your serene alpine walk at the picturesque San Rocco."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:40",
+      "total_km": 3.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Teatro d'Ou",
+            "hu": "Teatro d'Ou",
+            "ro": "Teatro d'Ou",
+            "en": "Teatro d'Ou"
+          },
+          "coords": [
+            6.858554,
+            45.028467
+          ],
+          "category": "cultural",
+          "arrive_at": "09:04",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Werfen Sie einen Blick auf das lokale Kulturleben in diesem charmanten Bergtheater und prüfen Sie die Anschlagtafel auf kommende Abendvorstellungen.",
+            "hu": "Pillantson be a helyi kulturális életbe ebben a hangulatos hegyi színházban, és nézze meg a kinti hirdetőtáblát a közelgő esti előadásokért.",
+            "ro": "Aruncați o privire asupra vieții culturale locale în acest teatru montan fermecător și verificați avizierul de afară pentru viitoarele spectacole de seară.",
+            "en": "Catch a glimpse of local cultural life in this charming mountain theatre, and check their notice board outside for upcoming evening performances."
+          }
+        },
+        {
+          "name": {
+            "de": "San Giovanni Battista",
+            "hu": "San Giovanni Battista",
+            "ro": "San Giovanni Battista",
+            "en": "San Giovanni Battista"
+          },
+          "coords": [
+            6.85661,
+            45.026796
+          ],
+          "category": "religious",
+          "arrive_at": "10:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die gut erhaltenen Fresken in dieser alten Pfarrkirche, aber denken Sie daran, sich aus Respekt vor der religiösen Stätte bescheiden zu kleiden.",
+            "hu": "Fedezze fel a jól megőrzött freskókat ebben az ősi plébániatemplomban, de ne feledjen szerényen öltözni a vallási helyszín tiszteletére.",
+            "ro": "Explorați frescele bine conservate din interiorul acestei biserici parohiale antice, dar nu uitați să vă îmbrăcați modest din respect pentru situl religios.",
+            "en": "Explore the well-preserved frescoes inside this ancient parish church, but remember to dress modestly out of respect for the religious site."
+          }
+        },
+        {
+          "name": {
+            "de": "Cappella di Sant'Antonio abate",
+            "hu": "Cappella di Sant'Antonio abate",
+            "ro": "Cappella di Sant'Antonio abate",
+            "en": "Cappella di Sant'Antonio abate"
+          },
+          "coords": [
+            6.847602,
+            45.023287
+          ],
+          "category": "religious",
+          "arrive_at": "11:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte alpine Architektur dieser historischen Kapelle und bringen Sie eine Kamera für die herrliche Bergkulisse am frühen Morgen mit.",
+            "hu": "Csodálja meg ennek a történelmi kápolnának az egyszerű alpesi építészetét, és hozzon magával fényképezőgépet a lenyűgöző kora reggeli hegyi háttérhez.",
+            "ro": "Admirați arhitectura alpină simplă a acestei capele istorice și aduceți o cameră foto pentru fundalul montan uimitor de dimineață.",
+            "en": "Admire the simple alpine architecture of this historical chapel and bring a camera for the stunning mountain backdrop early in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Maria Assunta",
+            "hu": "Santa Maria Assunta",
+            "ro": "Santa Maria Assunta",
+            "en": "Santa Maria Assunta"
+          },
+          "coords": [
+            6.831896,
+            45.027613
+          ],
+          "category": "religious",
+          "arrive_at": "12:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses bedeutende religiöse Denkmal, um seine kunstvollen Steinmetzarbeiten zu bewundern, und stellen Sie Ihr Fahrrad sicher an den vorgesehenen Ständern ab.",
+            "hu": "Látogassa meg ezt a jelentős vallási emlékművet, hogy megcsodálja bonyolult kőfaragványait, és parkolja le kerékpárját biztonságosan a bejárat melletti tárolóknál.",
+            "ro": "Vizitați acest monument religios semnificativ pentru a aprecia sculpturile sale complicate în piatră și parcați-vă bicicleta în siguranță la rastelele de lângă intrare.",
+            "en": "Visit this significant religious monument to appreciate its intricate stone carvings, and park your bike securely at the designated racks near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Municipio di Oulx",
+            "hu": "Municipio di Oulx",
+            "ro": "Municipio di Oulx",
+            "en": "Municipio di Oulx"
+          },
+          "coords": [
+            6.832232,
+            45.031308
+          ],
+          "category": "historical",
+          "arrive_at": "13:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie das administrative Herz der Stadt in diesem historischen Gebäude, wo Sie leicht lokale Karten und Touristeninformationen für Ihre Radtour finden können.",
+            "hu": "Fedezze fel a város közigazgatási központját ebben a történelmi épületben, ahol könnyen talál helyi térképeket és turisztikai információkat a kerékpáros útvonalához.",
+            "ro": "Descoperiți inima administrativă a orașului la această clădire istorică, unde puteți găsi cu ușurință hărți locale și informații turistice pentru traseul dumneavoastră.",
+            "en": "Discover the administrative heart of the town at this historical building, where you can easily find local maps and tourist information for your cycling route."
+          }
+        },
+        {
+          "name": {
+            "de": "San Rocco",
+            "hu": "San Rocco",
+            "ro": "San Rocco",
+            "en": "San Rocco"
+          },
+          "coords": [
+            6.833293,
+            45.031094
+          ],
+          "category": "religious",
+          "arrive_at": "14:30",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Rundgang an dieser malerischen Alpenkapelle, die besonders schön ist, wenn sie in das warme Licht der späten Nachmittagssonne getaucht wird.",
+            "hu": "Zárja gyalogtúráját ennél a festői alpesi kápolnánál, amely kivételesen szép, amikor a késő délutáni nap meleg fényében fürdik.",
+            "ro": "Încheiați-vă turul pietonal la această capelă alpină pitorească, deosebit de frumoasă atunci când este scăldată în lumina caldă a soarelui de după-amiază.",
+            "en": "Conclude your walking tour at this picturesque alpine chapel, which is exceptionally beautiful when bathed in the warm light of the late afternoon sun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radabenteuer beginnt am lebhaften Teatro d'Ou, gefolgt von einer kurzen Fahrt zum historischen San Giovanni Battista.\n\nMittags radeln Sie vorbei an der malerischen Cappella di Sant'Antonio abate zur Santa Maria Assunta.\n\nAm Nachmittag steuern Sie das historische Municipio di Oulx an, um lokale Verwaltungsgeschichte zu erleben.\n\nIhre Tour endet mit einem abendlichen Halt bei San Rocco.",
+        "hu": "Kerékpáros kalandja a nyüzsgő Teatro d'Ou-nál kezdődik, amelyet a történelmi San Giovanni Battista követ.\n\nDélben a festői Cappella di Sant'Antonio abate mellett elhaladva a Santa Maria Assunta templomhoz ér.\n\nDélután zökkenőmentesen tekerjen a történelmi Municipio di Oulx felé.\n\nAz utazás egy esti megállóval ér véget a békés San Rocco kápolnánál.",
+        "ro": "Aventura dvs. cu bicicleta începe la vibrantul Teatro d'Ou, urmată de o pedalare rapidă către istoricul San Giovanni Battista.\n\nLa prânz treceți pe lângă Cappella di Sant'Antonio abate spre Santa Maria Assunta.\n\nDupă-amiaza, navigați ușor către istoricul Municipio di Oulx.\n\nCălătoria se încheie cu o oprire de seară la San Rocco.",
+        "en": "Your cycling adventure kicks off at the vibrant Teatro d'Ou, followed by a quick pedal to the historic San Giovanni Battista.\n\nMidday brings you past the scenic Cappella di Sant'Antonio abate towards the intricate Santa Maria Assunta.\n\nIn the afternoon, smoothly navigate to the historical Municipio di Oulx for a dash of local administration history.\n\nYour ride finishes with an evening stop at San Rocco."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:28",
+      "total_km": 8.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Oasi xerotermica di Oulx - Amazas",
+            "hu": "Oasi xerotermica di Oulx - Amazas",
+            "ro": "Oasi xerotermica di Oulx - Amazas",
+            "en": "Oasi xerotermica di Oulx - Amazas"
+          },
+          "coords": [
+            6.82197,
+            45.0184
+          ],
+          "category": "natural",
+          "arrive_at": "09:05",
+          "stay_min": 85,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese einzigartige Naturoase voller vielfältiger lokaler Flora und tragen Sie unbedingt festes Schuhwerk, da das Gelände recht uneben sein kann.",
+            "hu": "Fedezze fel ezt a változatos helyi növényvilágban bővelkedő, egyedülálló természeti oázist, és mindenképpen viseljen erős túracipőt a meglehetősen egyenetlen terepen.",
+            "ro": "Explorați această oază naturală unică, plină de floră locală diversă, și asigurați-vă că purtați încălțăminte rezistentă, deoarece terenul poate fi destul de accidentat.",
+            "en": "Explore this unique natural oasis bursting with diverse local flora, and be sure to wear sturdy walking shoes as the terrain can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Cascata del Rio Barracan",
+            "hu": "Cascata del Rio Barracan",
+            "ro": "Cascata del Rio Barracan",
+            "en": "Cascata del Rio Barracan"
+          },
+          "coords": [
+            6.832258,
+            45.015372
+          ],
+          "category": "natural",
+          "arrive_at": "10:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie das herabfallende Wasser dieses versteckten alpinen Wasserfalls und halten Sie sicheren Abstand zu den rutschigen Felsen beim Fotografieren.",
+            "hu": "Csodálja meg ennek a rejtett alpesi vízesésnek a lezúduló vizét, és tartson biztonságos távolságot a csúszós szikláktól, miközben szuvenírfotókat készít.",
+            "ro": "Minunați-vă de apele în cascadă ale acestei cascade alpine ascunse și păstrați o distanță sigură față de stâncile alunecoase în timp ce faceți fotografii.",
+            "en": "Marvel at the cascading waters of this hidden alpine waterfall and keep a safe distance from the slippery rocks while taking your souvenir photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Marco",
+            "hu": "Chiesa di San Marco",
+            "ro": "Chiesa di San Marco",
+            "en": "Chiesa di San Marco"
+          },
+          "coords": [
+            6.838054,
+            45.022525
+          ],
+          "category": "religious",
+          "arrive_at": "11:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante Landkirche, die das traditionelle alpine Design wunderschön widerspiegelt, aber prüfen Sie die begrenzten Öffnungszeiten im Voraus.",
+            "hu": "Álljon meg ennél a bájos vidéki templomnál, amely gyönyörűen tükrözi a hagyományos alpesi dizájnt, de belső látogatás előtt ellenőrizze a korlátozott nyitvatartást.",
+            "ro": "Opriți-vă la această biserică fermecătoare de țară care reflectă frumos designul alpin tradițional, dar verificați programul de funcționare restricționat înainte.",
+            "en": "Stop by this charming countryside church that beautifully reflects traditional alpine design, but check the restricted opening hours before planning a visit inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Municipio di Oulx",
+            "hu": "Municipio di Oulx",
+            "ro": "Municipio di Oulx",
+            "en": "Municipio di Oulx"
+          },
+          "coords": [
+            6.832232,
+            45.031308
+          ],
+          "category": "historical",
+          "arrive_at": "12:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie das administrative Herz der Stadt in diesem historischen Gebäude, wo Sie leicht lokale Karten und Touristeninformationen für Ihre Radtour finden können.",
+            "hu": "Fedezze fel a város közigazgatási központját ebben a történelmi épületben, ahol könnyen talál helyi térképeket és turisztikai információkat a kerékpáros útvonalához.",
+            "ro": "Descoperiți inima administrativă a orașului la această clădire istorică, unde puteți găsi cu ușurință hărți locale și informații turistice pentru traseul dumneavoastră.",
+            "en": "Discover the administrative heart of the town at this historical building, where you can easily find local maps and tourist information for your cycling route."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Maria Assunta",
+            "hu": "Santa Maria Assunta",
+            "ro": "Santa Maria Assunta",
+            "en": "Santa Maria Assunta"
+          },
+          "coords": [
+            6.831896,
+            45.027613
+          ],
+          "category": "religious",
+          "arrive_at": "13:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses bedeutende religiöse Denkmal, um seine kunstvollen Steinmetzarbeiten zu bewundern, und stellen Sie Ihr Fahrrad sicher an den vorgesehenen Ständern ab.",
+            "hu": "Látogassa meg ezt a jelentős vallási emlékművet, hogy megcsodálja bonyolult kőfaragványait, és parkolja le kerékpárját biztonságosan a bejárat melletti tárolóknál.",
+            "ro": "Vizitați acest monument religios semnificativ pentru a aprecia sculpturile sale complicate în piatră și parcați-vă bicicleta în siguranță la rastelele de lângă intrare.",
+            "en": "Visit this significant religious monument to appreciate its intricate stone carvings, and park your bike securely at the designated racks near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "San Rocco",
+            "hu": "San Rocco",
+            "ro": "San Rocco",
+            "en": "San Rocco"
+          },
+          "coords": [
+            6.833293,
+            45.031094
+          ],
+          "category": "religious",
+          "arrive_at": "14:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Rundgang an dieser malerischen Alpenkapelle, die besonders schön ist, wenn sie in das warme Licht der späten Nachmittagssonne getaucht wird.",
+            "hu": "Zárja gyalogtúráját ennél a festői alpesi kápolnánál, amely kivételesen szép, amikor a késő délutáni nap meleg fényében fürdik.",
+            "ro": "Încheiați-vă turul pietonal la această capelă alpină pitorească, deosebit de frumoasă atunci când este scăldată în lumina caldă a soarelui de după-amiază.",
+            "en": "Conclude your walking tour at this picturesque alpine chapel, which is exceptionally beautiful when bathed in the warm light of the late afternoon sun."
+          }
+        },
+        {
+          "name": {
+            "de": "San Claudio",
+            "hu": "San Claudio",
+            "ro": "San Claudio",
+            "en": "San Claudio"
+          },
+          "coords": [
+            6.851704,
+            45.043039
+          ],
+          "category": "religious",
+          "arrive_at": "15:18",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre rund um dieses bescheidene Heiligtum und ruhen Sie sich einen Moment auf den Bänken aus, bevor Sie weitergehen.",
+            "hu": "Élvezze a békés légkört e szerény vallási szentély körül, és pihenjen meg egy pillanatra a közeli padokon, mielőtt folytatná a sétát.",
+            "ro": "Bucurați-vă de atmosfera pașnică din jurul acestui sanctuar religios modest și luați un moment pentru a vă odihni pe băncile din apropiere.",
+            "en": "Enjoy the peaceful atmosphere surrounding this modest religious sanctuary and take a moment to rest on the nearby benches before continuing your walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie heute Morgen in die Natur und besuchen Sie die Oasi xerotermica und die atemberaubende Cascata del Rio Barracan.\n\nMittags verlagert sich der Fokus auf die traditionelle Chiesa di San Marco und das Municipio di Oulx im Stadtzentrum.\n\nDer Nachmittag bietet spirituelle Besinnung in der Santa Maria Assunta und bei San Rocco.\n\nBeenden Sie Ihren Roadtrip am Abend im ruhigen Heiligtum von San Claudio.",
+        "hu": "Ezen a reggelen vezessen a természetbe, meglátogatva az Oasi xerotermica-t és a lenyűgöző Cascata del Rio Barracan-t.\n\nDélben a hangsúly a hagyományos Chiesa di San Marco-ra és a Municipio di Oulx-ra helyeződik a városközpontban.\n\nA délután spirituális elmélyülést kínál a Santa Maria Assunta és a San Rocco templomokban.\n\nZárja autós utazását este a békés San Claudio szentélynél.",
+        "ro": "Conduceți în natură în această dimineață vizitând Oasi xerotermica și uimitoarea Cascata del Rio Barracan.\n\nPrânzul mută accentul pe tradiționala Chiesa di San Marco și pe Municipio di Oulx din centrul orașului.\n\nDupă-amiaza oferă reflecție spirituală la Santa Maria Assunta și San Rocco.\n\nÎncheiați-vă excursia cu mașina seara la sanctuarul liniștit San Claudio.",
+        "en": "Drive into nature this morning with visits to the Oasi xerotermica and the stunning Cascata del Rio Barracan.\n\nMidday shifts focus to the traditional Chiesa di San Marco and the prominent Municipio di Oulx in the town center.\n\nThe afternoon offers spiritual reflection at Santa Maria Assunta and San Rocco.\n\nConclude your road trip as evening falls at the tranquil sanctuary of San Claudio."
+      }
+    }
+  }
+}

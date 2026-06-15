@@ -1,0 +1,451 @@
+{
+  "city_id": "digne-les-bains",
+  "anchor": {
+    "name": "Digne-les-Bains",
+    "coords": [
+      6.2356,
+      44.0925
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:32",
+      "total_km": 2.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kathedrale Saint-Jérôme",
+            "hu": "Saint-Jérôme Katedrális",
+            "ro": "Catedrala Saint-Jérôme",
+            "en": "Saint-Jérôme Cathedral"
+          },
+          "coords": [
+            6.235987,
+            44.092057
+          ],
+          "category": "religious",
+          "arrive_at": "09:02",
+          "stay_min": 85,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie den markanten gotischen Glockenturm dieser zentralen Kathedrale und prüfen Sie vorab die Gottesdienstzeiten für einen ruhigen Besuch.",
+            "hu": "Csodálja meg a központi katedrális gótikus harangtornyát, és a nyugodt látogatás érdekében előzetesen ellenőrizze a misék időpontját.",
+            "ro": "Admirați turnul gotic impresionant al acestei catedrale centrale și verificați programul slujbelor înainte de a intra pentru o vizită liniștită.",
+            "en": "Admire the striking Gothic bell tower of this central cathedral and remember to check the local mass schedule before entering to ensure a quiet visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Lavendelmuseum",
+            "hu": "Levendula Múzeum",
+            "ro": "Muzeul Lavandei",
+            "en": "Musee de la Lavande"
+          },
+          "coords": [
+            6.233733,
+            44.091995
+          ],
+          "category": "museum",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche Lavendel-Erbe der Region durch interaktive Ausstellungen und verpassen Sie nicht den Souvenirladen für authentische Öle.",
+            "hu": "Fedezze fel a régió gazdag levendula örökségét az interaktív kiállításokon, és ne hagyja ki az ajándékboltot az eredeti illóolajokért.",
+            "ro": "Descoperiți bogata moștenire a lavandei din regiune prin expoziții interactive și nu ratați magazinul de suveniruri pentru uleiuri esențiale autentice.",
+            "en": "Discover the region's rich lavender heritage through interactive exhibits, and don't miss the gift shop for authentic essential oils."
+          }
+        },
+        {
+          "name": {
+            "de": "Gassendi-Museum",
+            "hu": "Gassendi Múzeum",
+            "ro": "Muzeul Gassendi",
+            "en": "Gassendi Museum"
+          },
+          "coords": [
+            6.23823,
+            44.0939
+          ],
+          "category": "museum",
+          "arrive_at": "12:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierende Mischung aus zeitgenössischer Kunst und Naturgeschichte in diesem Museum, am besten früh, um Schulklassen zu meiden.",
+            "hu": "Fedezze fel a kortárs művészet és a természetrajz lenyűgöző keverékét ebben a múzeumban, és érkezzen korán, hogy elkerülje a diákcsoportokat.",
+            "ro": "Explorați amestecul fascinant de artă contemporană și istorie naturală din acest muzeu, ajungând devreme pentru a evita grupurile școlare.",
+            "en": "Explore the fascinating blend of contemporary art and natural history in this museum, arriving early to avoid the afternoon school groups."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin des Cordeliers",
+            "hu": "Jardin des Cordeliers",
+            "ro": "Grădina Cordeliers",
+            "en": "Jardin des Cordeliers"
+          },
+          "coords": [
+            6.237618,
+            44.094484
+          ],
+          "category": "natural",
+          "arrive_at": "13:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem wunderschön restaurierten mittelalterlichen botanischen Garten und holen Sie sich am Eingang einen kostenlosen Plan für die Heilpflanzen.",
+            "hu": "Pihenjen ebben a gyönyörűen felújított középkori botanikus kertben, és mindenképpen kérjen egy ingyenes térképet a bejáratnál a gyógynövények azonosításához.",
+            "ro": "Relaxați-vă în această grădină botanică medievală frumos restaurată, luând o hartă gratuită de la intrare pentru a identifica plantele medicinale.",
+            "en": "Relax in this beautifully restored medieval botanical garden, making sure to pick up a free map at the entrance to identify the medicinal plants."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Notre-Dame-du-Bourg",
+            "hu": "Notre-Dame-du-Bourg Katedrális",
+            "ro": "Catedrala Notre-Dame-du-Bourg",
+            "en": "Notre-Dame-du-Bourg Cathedral"
+          },
+          "coords": [
+            6.242757,
+            44.097237
+          ],
+          "category": "religious",
+          "arrive_at": "15:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Betreten Sie diese prächtige romanische Kathedrale, um ihre alten Krypten zu besichtigen, und bringen Sie eine leichte Jacke mit, da es kühl ist.",
+            "hu": "Lépjen be ebbe a csodálatos román stílusú katedrálisba, hogy megnézze az ősi kriptákat, és hozzon magával egy könnyű kabátot, mert bent hűvös van.",
+            "ro": "Pășiți în această magnifică catedrală romanică pentru a vedea criptele sale antice, aducând o jachetă ușoară deoarece interiorul rămâne destul de răcoros.",
+            "en": "Step into this magnificent Romanesque cathedral to view its ancient crypts, bringing a light jacket as the interior remains quite cool year-round."
+          }
+        },
+        {
+          "name": {
+            "de": "Thermes de Digne-les-Bains",
+            "hu": "Digne-les-Bains Termálfürdő",
+            "ro": "Băile Termale Digne-les-Bains",
+            "en": "Thermes de Digne-les-Bains"
+          },
+          "coords": [
+            6.246024,
+            44.091071
+          ],
+          "category": "recreational",
+          "arrive_at": "16:47",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Verjüngen Sie Ihren Körper in den berühmten Thermalwässern am Ende des Tages, aber buchen Sie Ihre Entspannungssitzung mindestens eine Woche im Voraus.",
+            "hu": "Frissítse fel testét a híres termálvizekben a nap végén, de ne felejtse el legalább egy héttel előre lefoglalni a pihentető kezelést.",
+            "ro": "Revigorați-vă corpul în faimoasele ape termale la sfârșitul zilei, dar asigurați-vă că rezervați sesiunea de relaxare cu cel puțin o săptămână înainte.",
+            "en": "Rejuvenate your body in the famous thermal waters at the end of your day, but make sure to book your relaxation session at least a week in advance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im historischen Herzen von Digne-les-Bains und bewundern Sie die große Kathedrale Saint-Jérôme.\n\nEntdecken Sie anschließend das aromatische und künstlerische Erbe der Region im Lavendelmuseum und im vielseitigen Gassendi-Museum.\n\nAm Nachmittag können Sie einen ruhigen Spaziergang durch den mittelalterlichen Jardin des Cordeliers machen und die beeindruckende romanische Notre-Dame-du-Bourg besuchen.\n\nBeenden Sie Ihren Rundgang mit einem wohlverdienten, tiefenentspannenden Bad in den berühmten Thermalbädern der Stadt.",
+        "hu": "Kezdje a reggelt Digne-les-Bains történelmi központjának felfedezésével, és csodálja meg a lenyűgöző Saint-Jérôme katedrálist.\n\nEzután ismerje meg a régió aromás és művészeti örökségét a Levendula Múzeumban és az eklektikus Gassendi Múzeumban.\n\nDélután tegyen egy békés sétát a középkori Jardin des Cordeliers-ben, és látogassa meg a lenyűgöző román stílusú Notre-Dame-du-Bourg-ot.\n\nZárja gyalogos túráját egy jól megérdemelt, mélyen pihentető fürdőzéssel a város híres termálfürdőjében.",
+        "ro": "Începeți dimineața explorând inima istorică a orașului Digne-les-Bains, admirând marea Catedrală Saint-Jérôme.\n\nApoi, descoperiți moștenirea aromatică și artistică a regiunii la Muzeul Lavandei și la Muzeul eclectic Gassendi.\n\nDupă-amiaza, bucurați-vă de o plimbare liniștită prin grădina medievală Jardin des Cordeliers și vizitați impresionanta Notre-Dame-du-Bourg.\n\nÎncheiați turul pietonal cu o baie binemeritată și profund relaxantă în renumitele băi termale ale orașului.",
+        "en": "Start your morning exploring the historic heart of Digne-les-Bains, admiring the grand Saint-Jérôme Cathedral.\n\nNext, uncover the region's aromatic and artistic heritage at the Lavender Museum and the eclectic Gassendi Museum.\n\nIn the afternoon, enjoy a peaceful stroll through the medieval Jardin des Cordeliers and visit the impressive Romanesque Notre-Dame-du-Bourg.\n\nConclude your walking tour with a well-deserved, deeply relaxing soak in the town's renowned thermal baths."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:22",
+      "total_km": 6.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kathedrale Saint-Jérôme",
+            "hu": "Saint-Jérôme Katedrális",
+            "ro": "Catedrala Saint-Jérôme",
+            "en": "Saint-Jérôme Cathedral"
+          },
+          "coords": [
+            6.235987,
+            44.092057
+          ],
+          "category": "religious",
+          "arrive_at": "09:01",
+          "stay_min": 85,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie den markanten gotischen Glockenturm dieser zentralen Kathedrale und prüfen Sie vorab die Gottesdienstzeiten für einen ruhigen Besuch.",
+            "hu": "Csodálja meg a központi katedrális gótikus harangtornyát, és a nyugodt látogatás érdekében előzetesen ellenőrizze a misék időpontját.",
+            "ro": "Admirați turnul gotic impresionant al acestei catedrale centrale și verificați programul slujbelor înainte de a intra pentru o vizită liniștită.",
+            "en": "Admire the striking Gothic bell tower of this central cathedral and remember to check the local mass schedule before entering to ensure a quiet visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Musee Promenade",
+            "hu": "Musee Promenade",
+            "ro": "Musee Promenade",
+            "en": "Musee Promenade"
+          },
+          "coords": [
+            6.228951,
+            44.109735
+          ],
+          "category": "museum",
+          "arrive_at": "10:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der Pfade, die Kunst und Geologie verbinden, und tragen Sie festes Schuhwerk für den etwas steilen Aufstieg zur Haupthalle.",
+            "hu": "Sétáljon a művészetet és a geológiát ötvöző kanyargós ösvényeken, és viseljen kényelmes cipőt a fő kiállítóteremhez vezető kissé meredek emelkedőhöz.",
+            "ro": "Plimbați-vă pe potecile care îmbină arta cu geologia și purtați încălțăminte comodă pentru urcarea ușor abruptă către sala principală de expoziții.",
+            "en": "Stroll along the winding paths that blend art with geology, and wear sturdy walking shoes for the slightly steep ascent to the main exhibition hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Les dinosaures 'vivants'",
+            "hu": "Élő Dinoszauruszok",
+            "ro": "Dinozaurii 'Vii'",
+            "en": "Les dinosaures 'vivants'"
+          },
+          "coords": [
+            6.225567,
+            44.10889
+          ],
+          "category": "family",
+          "arrive_at": "12:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie eine familienfreundliche Begegnung mit animatronischen Dinosauriern und planen Sie Ihren Besuch rund um die Fütterungsvorführungen.",
+            "hu": "Élvezze a családbarát találkozást az animatronikus dinoszauruszokkal, és időzítse látogatását a látványos etetési bemutatók köré a maximális szórakozásért.",
+            "ro": "Bucurați-vă de o întâlnire de familie cu dinozaurii animatronici, planificându-vă vizita în jurul demonstrațiilor de hrănire programate.",
+            "en": "Enjoy a family-friendly encounter with animatronic dinosaurs, planning your visit around the scheduled feeding demonstrations for maximum fun."
+          }
+        },
+        {
+          "name": {
+            "de": "Haus Alexandra David-Neel",
+            "hu": "Alexandra David-Neel Ház",
+            "ro": "Casa Alexandra David-Neel",
+            "en": "Maison Alexandra David Neel"
+          },
+          "coords": [
+            6.223936,
+            44.081249
+          ],
+          "category": "museum",
+          "arrive_at": "13:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das Leben der berühmten Entdeckerin in ihrem eigenen Haus ein und nehmen Sie an einer Führung teil, um ihre Artefakte zu würdigen.",
+            "hu": "Merüljön el a híres felfedező hihetetlen életében a saját otthonában, és csatlakozzon egy vezetett túrához, hogy megcsodálhassa tibeti tárgyait.",
+            "ro": "Descoperiți viața incredibilă a celebrei exploratoare în propria ei casă și alăturați-vă unui tur ghidat pentru a aprecia pe deplin artefactele tibetane.",
+            "en": "Dive into the incredible life of the famous explorer in her actual home, and join a guided tour to fully appreciate her Tibetan artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Freizeitsee Ferréols",
+            "hu": "Ferréols Szabadidőtó",
+            "ro": "Lacul de Agrement Ferréols",
+            "en": "Ferréols Leisure Lake"
+          },
+          "coords": [
+            6.2133,
+            44.07957
+          ],
+          "category": "recreational",
+          "arrive_at": "15:37",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Nehmen Sie ein erfrischendes Bad oder entspannen Sie an den Ufern dieses beliebten Sees und bringen Sie Ihr eigenes Picknick mit, da Kioske teuer sind.",
+            "hu": "Vegyen egy frissítő fürdőt, vagy csak heverésszen a népszerű tó füves partján, és hozzon magával piknikkosarat, mivel a helyi büfék drágák lehetnek.",
+            "ro": "Faceți o baie răcoritoare sau pur și simplu relaxați-vă pe malurile înierbate ale acestui lac popular, aducându-vă propriul picnic deoarece chioșcurile sunt scumpe.",
+            "en": "Take a refreshing dip or simply lounge on the grassy banks of this popular lake, bringing your own picnic supplies as local kiosks can be pricey."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Fahrradabenteuer mit einem Besuch der zentralen Kathedrale Saint-Jérôme, bevor Sie nach Norden radeln.\n\nErkunden Sie mittags die Verschmelzung von Kunst und Natur im Musee Promenade, gefolgt von einem Stopp im lebhaften Dinosaurierpark.\n\nAm Nachmittag fahren Sie in den Süden zur faszinierenden Maison Alexandra David Neel, um mehr über ihre epischen Reisen zu erfahren.\n\nBeenden Sie Ihren aktiven Tag entspannt am malerischen Freizeitsee Ferréols und genießen Sie das ruhige Wasser bei Sonnenuntergang.",
+        "hu": "Kezdje a kerékpáros kalandot a központi Saint-Jérôme katedrális meglátogatásával, mielőtt észak felé tekerne a folyó mentén.\n\nDélben fedezze fel a művészet és a természet fúzióját a Musee Promenade-ban, majd tegyen egy vidám kitérőt az élénk dinoszauruszparkban.\n\nA délután folyamán lovagoljon délre a lenyűgöző Maison Alexandra David Neel-hez, hogy megismerje az utazó epikus kalandjait.\n\nZárja aktív napját a festői Ferréols Szabadidőtó partján, élvezve a nyugodt vizeket és a gyönyörű naplementét.",
+        "ro": "Începeți aventura pe bicicletă vizitând Catedrala centrală Saint-Jérôme înainte de a pedala spre nord de-a lungul râului.\n\nLa amiază, explorați fuziunea dintre artă și natură la Musee Promenade, urmată de o oprire distractivă la parcul de dinozauri.\n\nPe măsură ce după-amiaza avansează, mergeți spre sud la fascinanta Casă Alexandra David Neel pentru a afla despre călătoriile ei epice.\n\nÎncheiați-vă ziua activă relaxându-vă lângă pitorescul Lac de Agrement Ferréols, bucurându-vă de apele calme și de un apus frumos.",
+        "en": "Kick off your cycling adventure by visiting the central Saint-Jérôme Cathedral before pedaling north along the river.\n\nMidday, explore the Musee Promenade's fusion of art and nature, followed by a fun stop at the lively dinosaur park.\n\nAs the afternoon progresses, ride south to the fascinating Maison Alexandra David Neel to learn about her epic journeys.\n\nFinish your active day relaxing by the picturesque Ferréols Leisure Lake, enjoying the calm waters and beautiful sunset."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:17",
+      "total_km": 18.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kathedrale Saint-Jérôme",
+            "hu": "Saint-Jérôme Katedrális",
+            "ro": "Catedrala Saint-Jérôme",
+            "en": "Saint-Jérôme Cathedral"
+          },
+          "coords": [
+            6.235987,
+            44.092057
+          ],
+          "category": "religious",
+          "arrive_at": "09:01",
+          "stay_min": 85,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie den markanten gotischen Glockenturm dieser zentralen Kathedrale und prüfen Sie vorab die Gottesdienstzeiten für einen ruhigen Besuch.",
+            "hu": "Csodálja meg a központi katedrális gótikus harangtornyát, és a nyugodt látogatás érdekében előzetesen ellenőrizze a misék időpontját.",
+            "ro": "Admirați turnul gotic impresionant al acestei catedrale centrale și verificați programul slujbelor înainte de a intra pentru o vizită liniștită.",
+            "en": "Admire the striking Gothic bell tower of this central cathedral and remember to check the local mass schedule before entering to ensure a quiet visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Notre-Dame-du-Bourg",
+            "hu": "Notre-Dame-du-Bourg Katedrális",
+            "ro": "Catedrala Notre-Dame-du-Bourg",
+            "en": "Notre-Dame-du-Bourg Cathedral"
+          },
+          "coords": [
+            6.242757,
+            44.097237
+          ],
+          "category": "religious",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Betreten Sie diese prächtige romanische Kathedrale, um ihre alten Krypten zu besichtigen, und bringen Sie eine leichte Jacke mit, da es kühl ist.",
+            "hu": "Lépjen be ebbe a csodálatos román stílusú katedrálisba, hogy megnézze az ősi kriptákat, és hozzon magával egy könnyű kabátot, mert bent hűvös van.",
+            "ro": "Pășiți în această magnifică catedrală romanică pentru a vedea criptele sale antice, aducând o jachetă ușoară deoarece interiorul rămâne destul de răcoros.",
+            "en": "Step into this magnificent Romanesque cathedral to view its ancient crypts, bringing a light jacket as the interior remains quite cool year-round."
+          }
+        },
+        {
+          "name": {
+            "de": "Geologisches Reservat Haute-Provence",
+            "hu": "Haute-Provence Földtani Rezervátum",
+            "ro": "Rezervația Geologică Haute-Provence",
+            "en": "Haute-Provence Geological Reserve"
+          },
+          "coords": [
+            6.261861,
+            44.042807
+          ],
+          "category": "natural",
+          "arrive_at": "11:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 6.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die riesigen Open-Air-Ausstellungen alter Fossilien und bringen Sie viel Wasser mit, da es auf den Wegen kaum Schatten gibt.",
+            "hu": "Csodálja meg az ősi kövületek hatalmas szabadtéri kiállításait, és vigyen magával elegendő vizet, mivel az ösvényeken alig van árnyék.",
+            "ro": "Minunați-vă de vastele expoziții în aer liber de fosile antice, aducând multă apă și protecție solară, deoarece există foarte puțină umbră pe trasee.",
+            "en": "Marvel at the vast open-air displays of ancient fossils, bringing plenty of water and sun protection as there is very little shade on the trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de Gaubert",
+            "hu": "Gaubert-tó",
+            "ro": "Lacul Gaubert",
+            "en": "Lac de Gaubert"
+          },
+          "coords": [
+            6.17623,
+            44.063682
+          ],
+          "category": "natural",
+          "arrive_at": "13:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 7.4,
+          "tip_5lang": {
+            "de": "Genießen Sie einen friedlichen Spaziergang um diesen ruhigen See, der für sein Angeln bekannt ist, und packen Sie ein Fernglas für die Vogelbeobachtung ein.",
+            "hu": "Élvezze a békés sétát e horgászatáról ismert csendes tó körül, és tegyen el egy távcsövet, ha érdekli a helyi madárvilág megfigyelése.",
+            "ro": "Bucurați-vă de o plimbare liniștită în jurul acestui lac faimos pentru pescuit și luați un binoclu dacă sunteți interesat de observarea păsărilor.",
+            "en": "Enjoy a peaceful walk around this tranquil lake known for its fishing, and pack a pair of binoculars if you are interested in local birdwatching."
+          }
+        },
+        {
+          "name": {
+            "de": "Freizeitsee Ferréols",
+            "hu": "Ferréols Szabadidőtó",
+            "ro": "Lacul de Agrement Ferréols",
+            "en": "Ferréols Leisure Lake"
+          },
+          "coords": [
+            6.2133,
+            44.07957
+          ],
+          "category": "recreational",
+          "arrive_at": "14:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Nehmen Sie ein erfrischendes Bad oder entspannen Sie an den Ufern dieses beliebten Sees und bringen Sie Ihr eigenes Picknick mit, da Kioske teuer sind.",
+            "hu": "Vegyen egy frissítő fürdőt, vagy csak heverésszen a népszerű tó füves partján, és hozzon magával piknikkosarat, mivel a helyi büfék drágák lehetnek.",
+            "ro": "Faceți o baie răcoritoare sau pur și simplu relaxați-vă pe malurile înierbate ale acestui lac popular, aducându-vă propriul picnic deoarece chioșcurile sunt scumpe.",
+            "en": "Take a refreshing dip or simply lounge on the grassy banks of this popular lake, bringing your own picnic supplies as local kiosks can be pricey."
+          }
+        },
+        {
+          "name": {
+            "de": "Ecole du Sous Sol - Studio 57",
+            "hu": "Ecole du Sous Sol - Studio 57",
+            "ro": "Ecole du Sous Sol - Studio 57",
+            "en": "Ecole du Sous Sol - Studio 57"
+          },
+          "coords": [
+            6.214729,
+            44.080088
+          ],
+          "category": "cultural",
+          "arrive_at": "16:07",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag und erleben Sie die lebendige lokale Kulturszene in diesem kreativen Studio; prüfen Sie vorab den Online-Kalender für Events.",
+            "hu": "Zárja a napot a pezsgő helyi kulturális élet megtapasztalásával ebben a kreatív stúdióban, és ellenőrizze online naptárukat a különleges eseményekért.",
+            "ro": "Încheiați-vă ziua experimentând scena culturală locală vibrantă la acest studio creativ, verificând în avans calendarul lor online pentru evenimente.",
+            "en": "End your day experiencing the vibrant local cultural scene at this creative studio, checking their online calendar in advance for special events."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt an der historischen Kathedrale Saint-Jérôme und den alten Krypten von Notre-Dame-du-Bourg.\n\nFahren Sie hinaus zum riesigen Geologischen Reservat Haute-Provence, um unglaubliche Fossilienbeete in der rauen Landschaft zu bestaunen.\n\nGenießen Sie am Nachmittag die friedliche Naturschönheit des Lac de Gaubert, bevor Sie zum beliebten Freizeitsee Ferréols aufbrechen.\n\nLassen Sie Ihren Abend mit einem Hauch lokaler, zeitgenössischer Kultur im lebendigen Ecole du Sous Sol - Studio 57 ausklingen.",
+        "hu": "Kezdje autós túráját a történelmi Saint-Jérôme katedrálisnál és a Notre-Dame-du-Bourg ősi kriptáinál.\n\nVezessen ki a hatalmas Haute-Provence Földtani Rezervátumba, és csodálja meg a zord tájban megőrzött hihetetlen kövületeket.\n\nDélután élvezze a Gaubert-tó nyugodt természeti szépségét, mielőtt a népszerű Ferréols Szabadidőtó felé venné az irányt.\n\nZárja az estét egy kis helyi kortárs kultúrával a pezsgő Ecole du Sous Sol - Studio 57-ben.",
+        "ro": "Începeți-vă turul cu mașina la istorica Catedrală Saint-Jérôme și la criptele antice de la Notre-Dame-du-Bourg.\n\nConduceți spre vasta Rezervație Geologică Haute-Provence pentru a vedea incredibilele paturi de fosile conservate în peisajul accidentat.\n\nDupă-amiaza, bucurați-vă de frumusețea naturală senină a Lacului Gaubert înainte de a vă îndrepta spre popularul Lac de Agrement Ferréols.\n\nÎncheiați-vă seara cu un strop de cultură contemporană locală la vibranta Ecole du Sous Sol - Studio 57.",
+        "en": "Begin your driving tour at the historic Saint-Jérôme Cathedral and the ancient crypts of Notre-Dame-du-Bourg.\n\nDrive out to the vast Haute-Provence Geological Reserve to witness incredible fossil beds preserved in the rugged landscape.\n\nIn the afternoon, enjoy the serene natural beauty of Lac de Gaubert before heading to the popular Ferréols Leisure Lake.\n\nWrap up your evening with a touch of local contemporary culture at the vibrant Ecole du Sous Sol - Studio 57."
+      }
+    }
+  }
+}

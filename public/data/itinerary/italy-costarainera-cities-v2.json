@@ -1,0 +1,451 @@
+{
+  "city_id": "italy-costarainera-cities-v2",
+  "anchor": {
+    "name": "Costarainera",
+    "coords": [
+      7.94757,
+      43.8558
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:30",
+      "total_km": 2.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Anfiteatro Torre Gallinara",
+            "hu": "Anfiteatro Torre Gallinara",
+            "ro": "Anfiteatro Torre Gallinara",
+            "en": "Anfiteatro Torre Gallinara"
+          },
+          "coords": [
+            7.928114,
+            43.85179
+          ],
+          "category": "cultural",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses malerische Amphitheater mit atemberaubendem Blick auf das Mittelmeer und bringen Sie eine Kamera für die im Morgenlicht sichtbaren Architekturdetails mit.",
+            "hu": "Csodálja meg ezt a festői amfiteátrumot, amely lélegzetelállító kilátást nyújt a Földközi-tengerre, és hozzon fényképezőgépet a reggeli fényben látható építészeti részletekhez.",
+            "ro": "Admirați acest amfiteatru pitoresc ce oferă vederi uluitoare la Marea Mediterană și aduceți o cameră foto pentru detaliile arhitecturale vizibile în lumina dimineții.",
+            "en": "Admire this scenic amphitheater offering breathtaking Mediterranean views, and bring a camera for the striking architectural details visible during the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Oratorio della Santissima Annunziata",
+            "hu": "Oratorio della Santissima Annunziata",
+            "ro": "Oratorio della Santissima Annunziata",
+            "en": "Oratorio della Santissima Annunziata"
+          },
+          "coords": [
+            7.931083,
+            43.851474
+          ],
+          "category": "religious",
+          "arrive_at": "10:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die intimen Fresken in diesem friedlichen Oratorium am Meer und achten Sie darauf, die ruhige Atmosphäre zu respektieren, während Sie der Küstenhitze entfliehen.",
+            "hu": "Fedezze fel e békés tengerparti kápolna meghitt freskóit, ügyelve arra, hogy tiszteletben tartsa a csendes légkört, miközben menedéket talál a parti hőség elől.",
+            "ro": "Descoperiți frescele intime din acest oratoriu pașnic de la malul mării, având grijă să respectați atmosfera liniștită în timp ce vă retrageți din căldura de coastă.",
+            "en": "Discover the intimate frescoes inside this peaceful seaside oratory, taking care to respect the quiet atmosphere while you step out of the coastal heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Sant'Antonio Abate",
+            "hu": "Chiesa di Sant'Antonio Abate",
+            "ro": "Chiesa di Sant'Antonio Abate",
+            "en": "Chiesa di Sant'Antonio Abate"
+          },
+          "coords": [
+            7.935522,
+            43.855998
+          ],
+          "category": "religious",
+          "arrive_at": "11:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die verzierten Altäre dieser zentralen Kirche, die die lokale Gemeinde verankert, und achten Sie auf die wunderschön geschnitzten Holzbänke in der Nähe des Haupteingangs.",
+            "hu": "Fedezze fel e központi templom díszes oltárait, amely a helyi közösség horgonyaként szolgál, és mindenképpen figyelje meg a főbejárat melletti gyönyörűen faragott fapadokat.",
+            "ro": "Explorați altarele ornamentate ale acestei biserici centrale care ancorează comunitatea locală, asigurându-vă că observați băncile din lemn frumos sculptate de lângă intrare.",
+            "en": "Explore the ornate altars of this central church that anchors the local community, making sure to notice the beautifully carved wooden pews near the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Oratorio di San Carlo Borromeo",
+            "hu": "Oratorio di San Carlo Borromeo",
+            "ro": "Oratorio di San Carlo Borromeo",
+            "en": "Oratorio di San Carlo Borromeo"
+          },
+          "coords": [
+            7.941099,
+            43.854794
+          ],
+          "category": "religious",
+          "arrive_at": "12:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Treten Sie in diesen historischen Raum ein, der dem Heiligen Karl gewidmet ist, um seine einzigartigen religiösen Artefakte zu beobachten und nach kleinen Informationstafeln Ausschau zu halten.",
+            "hu": "Lépjen be ebbe a Szent Károlynak szentelt történelmi térbe, hogy megfigyelje egyedülálló vallási tárgyait, figyelve a gazdag kontextust kínáló apró információs táblákra is.",
+            "ro": "Pășiți în acest spațiu istoric dedicat Sfântului Carol pentru a observa artefactele sale religioase unice, fiind atenți la micile plăci informative care oferă un context bogat.",
+            "en": "Step into this historical space dedicated to Saint Charles to observe its unique religious artifacts, keeping an eye out for the small informational plaques offering rich context."
+          }
+        },
+        {
+          "name": {
+            "de": "Nostra Signora degli Angeli",
+            "hu": "Nostra Signora degli Angeli",
+            "ro": "Nostra Signora degli Angeli",
+            "en": "Nostra Signora degli Angeli"
+          },
+          "coords": [
+            7.944915,
+            43.849765
+          ],
+          "category": "religious",
+          "arrive_at": "13:20",
+          "stay_min": 70,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an diesem ruhigen Heiligtum, das für seine beruhigende Atmosphäre bekannt ist, wo Sie friedlich auf den schattigen Bänken draußen sitzen können.",
+            "hu": "Fejezze be sétáját ebben a nyugodt légköréről ismert szentélyben, ahol csendben megpihenhet a kinti árnyékos padokon, hogy elgondolkodjon vibráló helyi utazásán.",
+            "ro": "Încheiați-vă plimbarea la acest sanctuar senin, cunoscut pentru ambianța sa calmantă, unde vă puteți așeza liniștit pe băncile umbrite de afară pentru a reflecta la călătorie.",
+            "en": "Finish your walk at this serene sanctuary known for its calming ambiance, where you can sit quietly on the shaded benches outside to reflect on your vibrant local journey."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang inmitten der antiken Echos des Anfiteatro Torre Gallinara, genießen Sie die Küstensonne und entdecken Sie die lokalen kulturellen Wurzeln.\nGehen Sie durch die engen Gassen, um das friedliche Oratorio della Santissima Annunziata zu finden, das einen kühlen Rückzugsort bietet, bevor Sie ins Zentrum gehen.\nDer Nachmittag offenbart das spirituelle Herz der Gemeinde, wenn Sie die markante Chiesa di Sant'Antonio Abate und das intime Oratorio di San Carlo besuchen.\nBeenden Sie diese Reise bei Nostra Signora degli Angeli, wo die heitere Dämmerungsatmosphäre einen Tag historischer und religiöser Erkundungen perfekt abrundet.",
+        "hu": "Kezdje gyalogtúráját az Anfiteatro Torre Gallinara ősi visszhangjai között, elmerülve a tengerparti napsütésben és felfedezve a helyi kulturális gyökereket.\nHaladjon át a szűk utcákon, hogy megtalálja a békés Oratorio della Santissima Annunziatát, amely hűvös menedéket kínál, mielőtt a nyüzsgő városközpont felé venné az irányt.\nA délután feltárja a közösség spirituális szívét, amikor meglátogatja a lenyűgöző Chiesa di Sant'Antonio Abatét és a meghitt Oratorio di San Carlo Borromeót.\nFejezze be ezt az utazást a Nostra Signora degli Angelinél, ahol a nyugodt alkonyati légkör tökéletesen megkoronázza a történelmi és vallási felfedezések napját.",
+        "ro": "Începeți turul pietonal printre ecourile antice ale Amfiteatrului Torre Gallinara, bucurându-vă de soarele coastei și descoperind rădăcinile culturale locale.\nTreceți pe străzile înguste pentru a găsi pașnicul Oratorio della Santissima Annunziata, oferind o retragere răcoroasă înainte de a vă îndrepta spre centrul vibrant.\nDupă-amiaza dezvăluie inima spirituală a comunității pe măsură ce vizitați impresionanta Chiesa di Sant'Antonio Abate și intimul Oratorio di San Carlo Borromeo.\nÎncheiați această călătorie captivantă la Nostra Signora degli Angeli, unde atmosfera senină a amurgului încununează perfect o zi de explorare istorică și religioasă.",
+        "en": "Morning: Start your walking tour amidst the ancient echoes of the Anfiteatro Torre Gallinara, soaking in the coastal sunshine and discovering local cultural roots.\nMidday: Transition through the narrow streets to find the peaceful Oratorio della Santissima Annunziata, offering a quiet, cool retreat before heading towards the vibrant town center.\nAfternoon: The afternoon reveals the spiritual heart of the community as you visit the striking Chiesa di Sant'Antonio Abate and the intimate Oratorio di San Carlo Borromeo.\nEvening: Conclude this immersive pedestrian journey at Nostra Signora degli Angeli, where the serene twilight atmosphere perfectly caps off a day of historical and religious exploration."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:36",
+      "total_km": 3.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Marina Aregai beach",
+            "hu": "Marina Aregai beach",
+            "ro": "Marina Aregai beach",
+            "en": "Marina Aregai beach"
+          },
+          "coords": [
+            7.914628,
+            43.840488
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Radtag mit einer erfrischenden Brise an diesem unberührten Strand, schließen Sie Ihr Fahrrad sicher ab, bevor Sie Ihre Zehen ins klare Wasser tauchen.",
+            "hu": "Kezdje kerékpáros napját egy frissítő szellővel ezen az érintetlen strandon, biztonságosan rögzítve kerékpárját a kijelölt tárolóknál, mielőtt belemártaná lábát a tiszta vízbe.",
+            "ro": "Începeți-vă ziua de ciclism cu o briză răcoroasă pe această plajă imaculată, blocând bicicleta în siguranță la rastelele desemnate înainte de a atinge apa limpede.",
+            "en": "Start your cycling day with a refreshing breeze at this pristine beach, locking your bike securely at the designated racks before dipping your toes in the clear water."
+          }
+        },
+        {
+          "name": {
+            "de": "Giardino di Villa Biener",
+            "hu": "Giardino di Villa Biener",
+            "ro": "Giardino di Villa Biener",
+            "en": "Giardino di Villa Biener"
+          },
+          "coords": [
+            7.93026,
+            43.848351
+          ],
+          "category": "landmark",
+          "arrive_at": "10:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen faszinierenden Garten für moderne Kunst voller farbenfroher Mosaike und tragen Sie bequeme Schuhe, um die kurvenreichen Wege sicher zu erkunden.",
+            "hu": "Barangoljon ebben a színes mozaikokkal teli, lenyűgöző modern művészeti kertben, kényelmes sétacipőt viselve, hogy biztonságosan navigálhasson a kanyargós művészeti ösvényeken.",
+            "ro": "Plimbați-vă prin acest grădină fascinantă de artă modernă plină de mozaicuri colorate, purtând încălțăminte confortabilă pentru a naviga în siguranță pe cărările artistice.",
+            "en": "Wander through this mesmerizing modern art garden filled with colorful mosaics, wearing comfortable walking shoes to safely navigate the winding, artistic pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Anfiteatro Torre Gallinara",
+            "hu": "Anfiteatro Torre Gallinara",
+            "ro": "Anfiteatro Torre Gallinara",
+            "en": "Anfiteatro Torre Gallinara"
+          },
+          "coords": [
+            7.928114,
+            43.85179
+          ],
+          "category": "cultural",
+          "arrive_at": "11:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem historischen Veranstaltungsort im Freien, um den Panoramablick zu genießen, und füllen Sie Ihre Wasserflasche am nahegelegenen öffentlichen Brunnen auf.",
+            "hu": "Kerékpározzon fel ehhez a történelmi szabadtéri helyszínhez, hogy élvezze a panorámát, és szánjon egy percet arra, hogy újratöltse vizespalackját a közeli közkútnál.",
+            "ro": "Pedalați până la această locație istorică în aer liber pentru a vă bucura de vederi panoramice, luându-vă un moment pentru a vă reumple sticla cu apă la fântâna publică.",
+            "en": "Cycle up to this historic open-air venue to enjoy sweeping panoramic sights, taking a moment to refill your water bottle at the nearby public fountain before continuing."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa-fortezza di San Pietro",
+            "hu": "Chiesa-fortezza di San Pietro",
+            "ro": "Chiesa-fortezza di San Pietro",
+            "en": "Chiesa-fortezza di San Pietro"
+          },
+          "coords": [
+            7.932199,
+            43.867842
+          ],
+          "category": "castle",
+          "arrive_at": "13:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die robuste Verteidigungsarchitektur dieser einzigartigen Wehrkirche und denken Sie daran, dass die dicken Steinmauern sie an heißen Nachmittagen angenehm kühl halten.",
+            "hu": "Vizsgálja meg ennek az egyedülálló erődtemplomnak a robusztus védelmi építészetét, szem előtt tartva, hogy a vastag kőfalak miatt kellemesen hűvös a forró délutánokon.",
+            "ro": "Investigați arhitectura defensivă robustă a acestei biserici fortificate unice, ținând cont că pereții groși de piatră o fac plăcut de răcoroasă în timpul după-amiezelor fierbinți.",
+            "en": "Investigate the robust defensive architecture of this unique fortified church, keeping in mind that the thick stone walls make it pleasantly cool during the hot afternoons."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruderi Castello",
+            "hu": "Ruderi Castello",
+            "ro": "Ruderi Castello",
+            "en": "Ruderi Castello"
+          },
+          "coords": [
+            7.930217,
+            43.867445
+          ],
+          "category": "castle",
+          "arrive_at": "14:46",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die schroffen Ruinen der alten Burg, um sich die mittelalterliche Vergangenheit der Region vorzustellen, und treten Sie vorsichtig über das unebene Gelände.",
+            "hu": "Fedezze fel az ősi kastély zord romjait, hogy vizualizálja a régió középkori múltját, óvatosan lépkedve az egyenetlen terepen, hogy megtalálja a legjobb fotós kilátópontot.",
+            "ro": "Explorați ruinele aspre ale vechiului castel pentru a vizualiza trecutul medieval al regiunii, pășind cu grijă pe terenul accidentat pentru a găsi cel mai bun punct pentru fotografii.",
+            "en": "Explore the rugged ruins of the ancient castle to visualize the region's medieval past, stepping carefully over the uneven terrain to find the best vantage point for photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie einen energiegeladenen Radtag am Strand Marina Aregai, spüren Sie die Meeresbrise und radeln Sie zur faszinierenden Kunst des Giardino di Villa Biener.\nWenn die Sonne höher steigt, navigieren Sie auf sanften Küstenwegen zum Anfiteatro Torre Gallinara, dessen weite Aussicht die perfekte Kulisse für eine Rast bietet.\nSchalten Sie einen Gang höher und bewältigen Sie die historischen Steigungen nach Lingueglietta, wo die beeindruckende Chiesa-fortezza di San Pietro majestätisch steht.\nIhr Zweirad-Abenteuer erreicht seinen Höhepunkt am stimmungsvollen Ruderi Castello, wo Sie den Sonnenuntergang über den alten Steinen und dem Ligurischen Meer beobachten können.",
+        "hu": "Kezdjen egy energikus kerékpáros napot a Marina Aregai strandon, érezze a tengeri szellőt, majd tekerjen a Giardino di Villa Biener lenyűgöző kortárs művészete felé.\nAhogy a nap egyre feljebb hág, navigáljon a parti ösvényeken az Anfiteatro Torre Gallinara felé, ahol a pazar kilátás tökéletes hátteret biztosít a déli pihenéshez.\nVáltson sebességet, és küzdjön meg a Linguegliettába vezető történelmi emelkedőkkel, ahol a félelmetes Chiesa-fortezza di San Pietro a középkori építészet bizonyítéka.\nKétkerekű kalandja a hangulatos Ruderi Castellónál éri el csúcspontját, ahol végignézheti, ahogy a naplemente megfesti az ősi köveket és a Ligur-tengert.",
+        "ro": "Începeți o zi energică de ciclism la plaja Marina Aregai, simțind briza mării înainte de a pedala spre arta contemporană fascinantă de la Giardino di Villa Biener.\nPe măsură ce soarele urcă, navigați pe cărările blânde de coastă până la Amfiteatrul Torre Gallinara, unde priveliștile vaste oferă fundalul perfect pentru odihnă.\nSchimbați viteza și abordați pantele istorice care duc la Lingueglietta, unde formidabila Chiesa-fortezza di San Pietro stă ca un testament al arhitecturii medievale.\nAventura pe două roți atinge apogeul la ruinele atmosferice Ruderi Castello, permițându-vă să priviți apusul care pictează pietrele antice și Marea Ligurică.",
+        "en": "Morning: Kick off an energetic cycling day at Marina Aregai beach, feeling the sea breeze before pedaling towards the mesmerizing contemporary art of Giardino di Villa Biener.\nMidday: As the sun rises higher, navigate the gentle coastal paths up to the Anfiteatro Torre Gallinara, where sweeping views provide the perfect backdrop for a midday rest.\nAfternoon: Shift gears and tackle the historic inclines leading to Lingueglietta, where the formidable Chiesa-fortezza di San Pietro stands as a testament to medieval defensive architecture.\nEvening: Your two-wheeled adventure reaches its peak at the atmospheric Ruderi Castello, allowing you to watch the sunset paint the ancient stones and the Ligurian Sea beyond."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:16",
+      "total_km": 9.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesetta di San Sebastiano",
+            "hu": "Chiesetta di San Sebastiano",
+            "ro": "Chiesetta di San Sebastiano",
+            "en": "Chiesetta di San Sebastiano"
+          },
+          "coords": [
+            7.954477,
+            43.877294
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Fahrt an dieser malerischen Kapelle auf einem Hügel, parken Sie auf dem kleinen Schotterplatz in der Nähe, um die schmalen Zufahrtsstraßen nicht zu blockieren.",
+            "hu": "Kezdje autózását ezen a festői dombtetőn lévő kápolnánál, és parkoljon le a közeli kis kavicsos területen, hogy elkerülje a keskeny bekötőutak elzárását.",
+            "ro": "Începeți-vă plimbarea la această capelă pitorească de pe deal, parcând în mica zonă de pietriș din apropiere pentru a evita blocarea drumurilor înguste de acces.",
+            "en": "Begin your drive at this quaint hilltop chapel to experience genuine local tranquility, parking in the small gravel area nearby to avoid blocking the narrow access roads."
+          }
+        },
+        {
+          "name": {
+            "de": "Cappella di San Salvatore",
+            "hu": "Cappella di San Salvatore",
+            "ro": "Cappella di San Salvatore",
+            "en": "Cappella di San Salvatore"
+          },
+          "coords": [
+            7.951956,
+            43.874801
+          ],
+          "category": "religious",
+          "arrive_at": "09:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Halt an diesem kleinen religiösen Juwel, um seinen rustikalen Charme zu bewundern, und verlassen Sie Ihr Fahrzeug nur kurz für diesen Sprung.",
+            "hu": "Tartson egy rövid pihenőt ezen a meghitt vallási gyöngyszemen, hogy megcsodálja rusztikus báját, röviden hátrahagyva járművét, mivel ez csak egy rövid ugrás az előző helytől.",
+            "ro": "Faceți o scurtă oprire la această bijuterie religioasă intimă pentru a-i admira farmecul rustic, lăsându-vă vehiculul scurt timp, deoarece este la o aruncătură de băț de locația anterioară.",
+            "en": "Take a brief stop at this intimately scaled religious gem to admire its rustic charm, leaving your vehicle briefly since it is just a short hop from your previous location."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa-fortezza di San Pietro",
+            "hu": "Chiesa-fortezza di San Pietro",
+            "ro": "Chiesa-fortezza di San Pietro",
+            "en": "Chiesa-fortezza di San Pietro"
+          },
+          "coords": [
+            7.932199,
+            43.867842
+          ],
+          "category": "castle",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die imposante Architektur dieser Festungskirche und achten Sie darauf, die Handbremse sicher anzuziehen, wenn Sie in den abschüssigen Straßen des historischen Dorfes parken.",
+            "hu": "Csodálja meg ennek az erődtemplomnak az impozáns kettős célú építészetét, ügyelve arra, hogy biztonságosan húzza be a kéziféket, amikor a történelmi falu lejtős utcáin parkol.",
+            "ro": "Minunați-vă de arhitectura impunătoare a acestei biserici-fortăreață, asigurându-vă că trageți frâna de mână ferm atunci când parcați pe străzile înclinate ale satului istoric.",
+            "en": "Marvel at the imposing dual-purpose architecture of this fortress-church, ensuring you engage the handbrake securely when parking on the sloping streets of the historical village."
+          }
+        },
+        {
+          "name": {
+            "de": "Oratorio di San Carlo Borromeo",
+            "hu": "Oratorio di San Carlo Borromeo",
+            "ro": "Oratorio di San Carlo Borromeo",
+            "en": "Oratorio di San Carlo Borromeo"
+          },
+          "coords": [
+            7.941099,
+            43.854794
+          ],
+          "category": "religious",
+          "arrive_at": "11:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem gut erhaltenen Oratorium im Stadtzentrum in das lokale spirituelle Erbe ein und halten Sie Ausschau nach ausgewiesenen öffentlichen Parkplätzen.",
+            "hu": "Merüljön el a helyi spirituális örökségben ebben a jól megőrzött városközponti kápolnában, figyelve a kijelölt nyilvános parkolóhelyekre, amelyek hétvégén ritkák lehetnek.",
+            "ro": "Pătrundeți în moștenirea spirituală locală la acest oratoriu bine conservat din centrul orașului, fiind atenți la locurile de parcare publică desemnate care pot fi limitate.",
+            "en": "Dive into local spiritual heritage at this well-preserved oratory in the town center, keeping an eye out for designated public parking spaces which can be scarce during weekends."
+          }
+        },
+        {
+          "name": {
+            "de": "Sala Teatro Samuel Beckett",
+            "hu": "Sala Teatro Samuel Beckett",
+            "ro": "Sala Teatro Samuel Beckett",
+            "en": "Sala Teatro Samuel Beckett"
+          },
+          "coords": [
+            7.963997,
+            43.853682
+          ],
+          "category": "cultural",
+          "arrive_at": "12:42",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Werfen Sie in diesem modernen Theater einen Blick auf die zeitgenössische lokale Kultur und überprüfen Sie den Spielplan draußen, um mögliche Abendvorstellungen zu sehen.",
+            "hu": "Vessen egy pillantást a kortárs helyi kultúrára ebben a modern színházban, ellenőrizve a kint kifüggesztett menetrendet, hogy lássa, vannak-e utazásához illeszkedő esti előadások.",
+            "ro": "Aruncați o privire la cultura locală contemporană la acest teatru modern vibrant, verificând programul afișat afară pentru a vedea dacă există spectacole de seară disponibile.",
+            "en": "Catch a glimpse of contemporary local culture at this vibrant modern theater, checking the schedule posted outside to see if any evening performances align with your travel plans."
+          }
+        },
+        {
+          "name": {
+            "de": "Giardino di Villa Biener",
+            "hu": "Giardino di Villa Biener",
+            "ro": "Giardino di Villa Biener",
+            "en": "Giardino di Villa Biener"
+          },
+          "coords": [
+            7.93026,
+            43.848351
+          ],
+          "category": "landmark",
+          "arrive_at": "14:28",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch eine Explosion farbenfroher zeitgenössischer Mosaike inmitten mediterraner Flora und tragen Sie Insektenschutzmittel auf, bevor Sie die schattigen Bereiche betreten.",
+            "hu": "Sétáljon át a színes kortárs mozaikok robbanásán a mediterrán növényvilág közepette, rovarriasztót használva, mielőtt belépne ennek a gyönyörű művészeti kertnek az árnyékos területeire.",
+            "ro": "Plimbați-vă printr-o explozie de mozaicuri contemporane colorate printre flora mediteraneană, aplicând un repelent de insecte înainte de a intra în zonele umbrite ale acestei grădini.",
+            "en": "Stroll through an explosion of colorful contemporary mosaics amidst Mediterranean flora, applying insect repellent before entering the shaded areas of this gorgeous artistic garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina Aregai beach",
+            "hu": "Marina Aregai beach",
+            "ro": "Marina Aregai beach",
+            "en": "Marina Aregai beach"
+          },
+          "coords": [
+            7.914628,
+            43.840488
+          ],
+          "category": "recreational",
+          "arrive_at": "15:31",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre malerische Fahrt mit einem entspannenden Abendspaziergang an den Sandstränden und planen Sie Ihren Besuch zum Sonnenuntergang, um magische Fotos der ligurischen Küste zu machen.",
+            "hu": "Fejezze be festői autózását egy pihentető esti sétával a homokos parton, időzítve látogatását naplementére, hogy igazán varázslatos fényképeket készítsen a liguriai tengerpartról.",
+            "ro": "Încheiați-vă traseul pitoresc cu o plimbare relaxantă de seară pe țărmurile de nisip, sincronizându-vă vizita cu apusul soarelui pentru a surprinde fotografii magice ale coastei ligurice.",
+            "en": "Conclude your scenic drive with a relaxing evening walk on the sandy shores, timing your visit for sunset to capture truly magical photographs of the Ligurian coastline."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt in den ruhigen nördlichen Hügeln an der Chiesetta di San Sebastiano und der Cappella di San Salvatore, wo Sie den ländlichen Charme genießen können.\nFahren Sie leicht bergab, um die imposante Architektur der Chiesa-fortezza di San Pietro zu bewundern, gefolgt von einem kulturellen Halt am Oratorio di San Carlo Borromeo.\nDie Reise geht weiter durch das pulsierende Herz der Gegend mit einem Blick auf die Sala Teatro Samuel Beckett, bevor Sie die bunten Wunder der Villa Biener erreichen.\nParken Sie Ihr Auto in der Abenddämmerung am malerischen Strand Marina Aregai und beenden Sie einen ausgiebigen Ausflug mit einem friedlichen Spaziergang am Ufer.",
+        "hu": "Autós túrája a nyugodt északi dombokon kezdődik a Chiesetta di San Sebastiano és a Cappella di San Salvatore kápolnáknál, magába szívva a felső falvak csendes vidéki báját.\nEreszkedjen lejjebb, hogy megcsodálja a Chiesa-fortezza di San Pietro impozáns építészetét, majd tegyen egy kulturális megállót az elegáns Oratorio di San Carlo Borromeónál.\nAz utazás a terület pezsgő szívében folytatódik, megtekintve a Sala Teatro Samuel Beckettet, mielőtt megérkezne a Giardino di Villa Biener színes csodáihoz.\nAlkonyatkor parkolja le autóját a festői Marina Aregai strandon, és fejezze be a kiterjedt egynapos kirándulást egy békés sétával a part mentén, a lágy hullámokat hallgatva.",
+        "ro": "Turul cu mașina începe în dealurile nordice senine la Chiesetta di San Sebastiano și Cappella di San Salvatore, bucurându-vă de farmecul rural liniștit al satelor superioare.\nCoborâți ușor pentru a asista la arhitectura impunătoare a Chiesa-fortezza di San Pietro, urmată de o oprire culturală la elegantul Oratorio di San Carlo Borromeo.\nCălătoria continuă prin inima vibrantă a zonei cu o scurtă privire la Sala Teatro Samuel Beckett înainte de a ajunge la minunile colorate de la Giardino di Villa Biener.\nParcați mașina la plaja pitorească Marina Aregai la lăsarea întunericului, încheind o excursie extinsă cu o plimbare pașnică pe țărm ascultând valurile blânde.",
+        "en": "Morning: Your driving tour begins in the serene northern hills at Chiesetta di San Sebastiano and Cappella di San Salvatore, soaking in the quiet rural charm of the upper villages.\nMidday: Descend slightly to witness the imposing dual-purpose architecture of the Chiesa-fortezza di San Pietro, followed by a cultural stop at the elegant Oratorio di San Carlo Borromeo.\nAfternoon: The journey continues through the vibrant heart of the area with a brief look at the Sala Teatro Samuel Beckett before arriving at the colorful marvels of Giardino di Villa Biener.\nEvening: Park your car at the scenic Marina Aregai beach as dusk approaches, ending an expansive day trip with a peaceful walk along the shoreline listening to the gentle waves."
+      }
+    }
+  }
+}

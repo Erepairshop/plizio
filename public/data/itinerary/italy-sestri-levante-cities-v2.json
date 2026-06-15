@@ -1,0 +1,428 @@
+{
+  "city_id": "italy-sestri-levante-cities-v2",
+  "anchor": {
+    "name": "Sestri Levante",
+    "coords": [
+      9.39683,
+      44.27317
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:37",
+      "total_km": 2.85,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bagni Liguria",
+            "hu": "Bagni Liguria",
+            "ro": "Bagni Liguria",
+            "en": "Bagni Liguria"
+          },
+          "coords": [
+            9.392547,
+            44.270525
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die entspannte Atmosphäre an diesem wunderschönen Strand, der perfekte Ort zum Schwimmen, und kommen Sie früh, um einen guten Liegestuhl zu sichern.",
+            "hu": "Élvezze a pihentető légkört ezen a gyönyörű strandon, amely tökéletes hely az úszáshoz, és érkezzen korán, hogy biztosítson magának egy jó napágyat.",
+            "ro": "Bucurați-vă de atmosfera relaxantă de pe această plajă superbă, locul perfect pentru înot, și ajungeți devreme pentru a vă asigura un șezlong bun.",
+            "en": "Enjoy the relaxing atmosphere at this beautiful beach, which is the perfect spot for swimming, and arrive early to secure a good sun lounger for the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Grande Albergo",
+            "hu": "Bagni Grande Albergo",
+            "ro": "Bagni Grande Albergo",
+            "en": "Bagni Grande Albergo"
+          },
+          "coords": [
+            9.393893,
+            44.273204
+          ],
+          "category": "recreational",
+          "arrive_at": "10:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem gepflegten Küstenabschnitt, der für sein klares Wasser bekannt ist, und bringen Sie unbedingt Sonnencreme für einen langen Tag mit.",
+            "hu": "Pihenjen ezen a jól karbantartott partszakaszon, amely kristálytiszta vizéről ismert, és feltétlenül hozzon magával naptejet egy hosszú, napos naphoz.",
+            "ro": "Relaxați-vă pe această porțiune de coastă bine întreținută, cunoscută pentru apa sa limpede, și asigurați-vă că aduceți cremă de protecție solară.",
+            "en": "Relax on this well-maintained stretch of coastline, known for its clear water, and be sure to bring plenty of sunscreen for a long sunny day by the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni La Lampara",
+            "hu": "Bagni La Lampara",
+            "ro": "Bagni La Lampara",
+            "en": "Bagni La Lampara"
+          },
+          "coords": [
+            9.394118,
+            44.274562
+          ],
+          "category": "recreational",
+          "arrive_at": "11:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Dieser malerische Strandabschnitt bietet fantastische Ausblicke und ruhiges Wasser zum Schwimmen, also mieten Sie einen Sonnenschirm für maximalen Komfort.",
+            "hu": "Ez a festői strandszakasz fantasztikus kilátást és nyugodt vizet kínál az úszáshoz, ezért béreljen napernyőt a maximális kényelem érdekében.",
+            "ro": "Această plajă pitorească oferă priveliști fantastice și ape calme pentru înot, așa că închiriați o umbrelă de soare pentru un confort maxim.",
+            "en": "This picturesque stretch of beach offers fantastic views and calm waters for swimming, so rent an umbrella for maximum comfort during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Cigno",
+            "hu": "Bagni Cigno",
+            "ro": "Bagni Cigno",
+            "en": "Bagni Cigno"
+          },
+          "coords": [
+            9.37945,
+            44.288857
+          ],
+          "category": "recreational",
+          "arrive_at": "13:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Ein fantastischer Ort zum Sonnenbaden und Beobachten der Wellen, der sich ideal für Familien eignet. Reservieren Sie Ihren Platz am besten im Voraus.",
+            "hu": "Fantasztikus hely napozásra és a hullámok megfigyelésére, amely ideális családok számára; érdemes előre lefoglalni a helyet a strandon.",
+            "ro": "Un loc fantastic pentru plajă și observarea valurilor, ideal pentru familii, așa că vă recomandăm să vă rezervați locul la plajă în avans.",
+            "en": "A fantastic spot for sunbathing and watching the waves that is ideal for families, so it is highly recommended to reserve your beach spot in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Giovanni",
+            "hu": "Bagni Giovanni",
+            "ro": "Bagni Giovanni",
+            "en": "Bagni Giovanni"
+          },
+          "coords": [
+            9.378287,
+            44.289875
+          ],
+          "category": "recreational",
+          "arrive_at": "14:52",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erleben Sie erstklassigen Strandservice mit komfortablen Einrichtungen direkt am Meer. Bringen Sie Ihr eigenes Handtuch mit, wenn Sie Geld sparen möchten.",
+            "hu": "Tapasztalja meg az első osztályú strandszolgáltatást a tengerparti kényelmi létesítményekkel; hozzon saját törölközőt, ha szeretne egy kis pénzt megspórolni.",
+            "ro": "Experimentați serviciile de plajă de primă clasă cu facilități confortabile pe malul mării și aduceți propriul prosop dacă doriți să economisiți bani.",
+            "en": "Experience first-class beach service with comfortable seaside facilities, and consider bringing your own towel if you want to save a little money."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im wunderschönen Bagni Liguria, wo Sie sich bei einer frischen Brise vom Meer entspannen können. Die Morgensonne taucht den feinen Sand in ein goldenes Licht.\nGegen Mittag erreichen Sie Bagni Grande Albergo und Bagni La Lampara. Hier haben Sie die Möglichkeit, die klassische italienische Strandkultur in vollen Zügen zu genießen.\nAm Nachmittag führt Sie Ihr Weg weiter zum Bagni Cigno, wo das ruhigere Ambiente und die sanften Wellen zu einer entspannten Pause vom Trubel einladen.\nBeenden Sie Ihren Strandspaziergang am Bagni Giovanni. Genießen Sie den späten Nachmittag, wenn sich die Schatten verlängern und der Tag am Meer langsam und friedlich ausklingt.",
+        "hu": "Kezdje a napot a gyönyörű Bagni Liguria strandon, ahol a friss tengeri szellő kíséretében pihenhet. A reggeli napfény aranyszínűre festi a finom homokot.\nDél körül elérkezik a Bagni Grande Albergo és a Bagni La Lampara partszakaszokhoz. Itt lehetősége nyílik arra, hogy a klasszikus olasz strandkultúrát teljes mértékben kiélvezze.\nDélután az útja a Bagni Cigno felé vezet tovább, ahol a nyugodtabb légkör és a lágy hullámok egy pihentető szünetre csábítják a nyüzsgés után.\nFejezze be tengerparti sétáját a Bagni Giovanni-nál. Élvezze a késő délutánt, amikor az árnyékok megnyúlnak, és a tengerparti nap lassan, békésen véget ér.",
+        "ro": "Începeți ziua la frumoasa plajă Bagni Liguria, unde vă puteți relaxa în briza proaspătă a mării. Soarele dimineții scaldă nisipul fin într-o lumină aurie strălucitoare.\nSpre prânz veți ajunge la Bagni Grande Albergo și Bagni La Lampara. Aici aveți ocazia să vă bucurați din plin de cultura clasică a plajelor italiene, plină de viață.\nDupă-amiaza, drumul vă duce mai departe la Bagni Cigno, unde atmosfera mai liniștită și valurile blânde vă invită la o pauză relaxantă departe de agitația cotidiană.\nÎncheiați plimbarea pe plajă la Bagni Giovanni. Bucurați-vă de sfârșitul după-amiezii, când umbrele se lungesc, iar ziua la mare se termină încet și foarte pașnic.",
+        "en": "Start your day at the beautiful Bagni Liguria, where you can relax in the fresh sea breeze. The bright morning sun bathes the fine sand in a brilliant and warm golden light.\nAround noon you will reach Bagni Grande Albergo and Bagni La Lampara. Here you have the perfect opportunity to fully enjoy the classic and lively Italian beach culture.\nIn the afternoon, your path leads you further to Bagni Cigno, where the quieter atmosphere and the gentle waves invite you to take a relaxing break from the busy crowds.\nEnd your wonderful beach walk at Bagni Giovanni. Enjoy the late afternoon when the shadows lengthen and your long day by the sea comes to a slow, peaceful close."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:34",
+      "total_km": 4.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bagni La Lampara",
+            "hu": "Bagni La Lampara",
+            "ro": "Bagni La Lampara",
+            "en": "Bagni La Lampara"
+          },
+          "coords": [
+            9.394118,
+            44.274562
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Dieser malerische Strandabschnitt bietet fantastische Ausblicke und ruhiges Wasser zum Schwimmen, also mieten Sie einen Sonnenschirm für maximalen Komfort.",
+            "hu": "Ez a festői strandszakasz fantasztikus kilátást és nyugodt vizet kínál az úszáshoz, ezért béreljen napernyőt a maximális kényelem érdekében.",
+            "ro": "Această plajă pitorească oferă priveliști fantastice și ape calme pentru înot, așa că închiriați o umbrelă de soare pentru un confort maxim.",
+            "en": "This picturesque stretch of beach offers fantastic views and calm waters for swimming, so rent an umbrella for maximum comfort during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Liguria",
+            "hu": "Bagni Liguria",
+            "ro": "Bagni Liguria",
+            "en": "Bagni Liguria"
+          },
+          "coords": [
+            9.392547,
+            44.270525
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die entspannte Atmosphäre an diesem wunderschönen Strand, der perfekte Ort zum Schwimmen, und kommen Sie früh, um einen guten Liegestuhl zu sichern.",
+            "hu": "Élvezze a pihentető légkört ezen a gyönyörű strandon, amely tökéletes hely az úszáshoz, és érkezzen korán, hogy biztosítson magának egy jó napágyat.",
+            "ro": "Bucurați-vă de atmosfera relaxantă de pe această plajă superbă, locul perfect pentru înot, și ajungeți devreme pentru a vă asigura un șezlong bun.",
+            "en": "Enjoy the relaxing atmosphere at this beautiful beach, which is the perfect spot for swimming, and arrive early to secure a good sun lounger for the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Mignon",
+            "hu": "Bagni Mignon",
+            "ro": "Bagni Mignon",
+            "en": "Bagni Mignon"
+          },
+          "coords": [
+            9.377219,
+            44.290532
+          ],
+          "category": "recreational",
+          "arrive_at": "11:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Ein charmanter Strandclub mit freundlichem Personal und entspannter Atmosphäre, ideal für einen ruhigen Nachmittag; probieren Sie die lokalen Snacks.",
+            "hu": "Bájos strandklub barátságos személyzettel és nyugodt légkörrel, ideális egy csendes délutánhoz; feltétlenül kóstolja meg a helyi snackeket.",
+            "ro": "Un club de plajă fermecător, cu personal prietenos și o atmosferă relaxată, ideal pentru o după-amiază liniștită, așa că încercați gustările locale.",
+            "en": "A charming beach club with friendly staff and a relaxed atmosphere that is ideal for a quiet afternoon, so be sure to try the local snacks available."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Marinella",
+            "hu": "Bagni Marinella",
+            "ro": "Bagni Marinella",
+            "en": "Bagni Marinella"
+          },
+          "coords": [
+            9.3753,
+            44.291582
+          ],
+          "category": "recreational",
+          "arrive_at": "13:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Diese friedliche Bucht bietet hervorragende Wasserqualität und feinen Sand, was sie perfekt für Kinder macht; packen Sie ein Picknick für den Mittag ein.",
+            "hu": "Ez a békés öböl kiváló vízminőséget és finom homokot kínál, így tökéletes gyerekeknek; csomagoljon egy finom pikniket a déli órákra.",
+            "ro": "Acest golf liniștit oferă o calitate excelentă a apei și nisip fin, făcându-l perfect pentru copii, așa că pregătiți un picnic pentru prânz.",
+            "en": "This peaceful bay offers excellent water quality and fine sand, making it perfect for children, so pack a nice picnic lunch to enjoy at midday."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Aurelia",
+            "hu": "Bagni Aurelia",
+            "ro": "Bagni Aurelia",
+            "en": "Bagni Aurelia"
+          },
+          "coords": [
+            9.371326,
+            44.293952
+          ],
+          "category": "recreational",
+          "arrive_at": "14:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die klassische italienische Strandkultur mit farbenfrohen Liegestühlen und ausgezeichnetem Service; buchen Sie für die beste Aussicht frühzeitig.",
+            "hu": "Élvezze a klasszikus olasz strandkultúrát színes napágyakkal és kiváló szolgáltatásokkal; foglaljon korán a legjobb kilátás érdekében.",
+            "ro": "Bucurați-vă de cultura clasică a plajei italiene cu șezlonguri colorate și servicii excelente; rezervați din timp pentru cele mai bune priveliști.",
+            "en": "Enjoy the classic Italian beach culture with colorful sun loungers and excellent service, and remember to book early for the best ocean views."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Aldebaran",
+            "hu": "Bagni Aldebaran",
+            "ro": "Bagni Aldebaran",
+            "en": "Bagni Aldebaran"
+          },
+          "coords": [
+            9.364127,
+            44.297586
+          ],
+          "category": "recreational",
+          "arrive_at": "15:49",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein lebhafter Abschnitt der Küste, der bei Einheimischen sehr beliebt ist, perfekt für abendliche Spaziergänge, wenn sich die Menschenmassen lichten.",
+            "hu": "A partvidék nyüzsgő, a helyiek körében nagyon népszerű szakasza, amely tökéletes esti sétákhoz, amikor a tömeg már lassan eloszlik.",
+            "ro": "O porțiune plină de viață a coastei, foarte populară printre localnici, perfectă pentru plimbările de seară, când aglomerația se diminuează.",
+            "en": "A lively section of the coastline that is very popular with locals, making it absolutely perfect for evening walks when the crowds finally begin to clear."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour bei Bagni La Lampara, um die ruhige Morgenatmosphäre an der ligurischen Küste zu erleben. Das frische Meerwasser weckt sofort Ihre Sinne.\nFahren Sie weiter in Richtung Bagni Mignon, wo das kristallklare Wasser und der einladende Sand perfekte Bedingungen für eine ausgiebige Mittagspause bieten.\nDer Nachmittag bringt Sie zu Bagni Marinella und Aurelia. Die entspannte Stimmung und die malerische Umgebung machen diesen Teil der Strecke besonders reizvoll.\nDen Abschluss bildet Bagni Aldebaran, wo Sie die Fahrräder abstellen und bei einem spektakulären Sonnenuntergang über dem Meer den abwechslungsreichen Tag ausklingen lassen können.",
+        "hu": "Kezdje kerékpártúráját a Bagni La Lampara-nál, hogy megtapasztalja a ligur partvidék nyugodt reggeli hangulatát. A friss tengervíz azonnal felébreszti minden érzékét.\nTekerjen tovább a Bagni Mignon felé, ahol a kristálytiszta víz és a hívogató homok tökéletes feltételeket biztosít egy bőséges és kényelmes déli pihenőhöz.\nA délután a Bagni Marinella és az Aurelia partjaihoz vezeti. A nyugodt hangulat és a festői környezet ezt a szakaszt különösen vonzóvá és emlékezetessé teszi.\nA napot a Bagni Aldebaran-nál zárja, ahol leállíthatja a kerékpárokat, és a tenger felett lenyugvó nap látványában gyönyörködve fejezheti be ezt az eseménydús napot.",
+        "ro": "Începeți turul cu bicicleta la Bagni La Lampara pentru a experimenta atmosfera liniștită a dimineții pe coasta ligurică. Apa proaspătă a mării vă va trezi imediat simțurile.\nMergeți mai departe spre Bagni Mignon, unde apa cristalină și nisipul primitor oferă condiții perfecte pentru o pauză de prânz prelungită și foarte confortabilă.\nDupă-amiaza vă duce la plajele Bagni Marinella și Aurelia. Atmosfera relaxată și împrejurimile pitorești fac ca această parte a traseului să fie deosebit de fermecătoare.\nÎncheiați ziua la Bagni Aldebaran, unde puteți parca bicicletele și vă puteți bucura de un apus de soare spectaculos deasupra mării după o zi plină de evenimente.",
+        "en": "Start your exciting bike tour at Bagni La Lampara to experience the quiet morning atmosphere on the Ligurian coast. The fresh sea water will immediately awaken all your senses.\nRide further towards Bagni Mignon, where the crystal clear water and the inviting sand offer the perfect conditions for a long, comfortable, and relaxing lunch break.\nThe beautiful afternoon takes you to Bagni Marinella and Aurelia. The wonderfully relaxed atmosphere and the picturesque surroundings make this part of the route especially charming.\nEnd the day at Bagni Aldebaran, where you can easily park your bikes and enjoy a truly spectacular sunset over the ocean after a fulfilling and eventful day out."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:15",
+      "total_km": 8.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Tigu Beach",
+            "hu": "Tigu Beach",
+            "ro": "Tigu Beach",
+            "en": "Tigu Beach"
+          },
+          "coords": [
+            9.423378,
+            44.258466
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entfliehen Sie dem Trubel an diesem etwas abgelegeneren Strandabschnitt, der Ruhe verspricht. Das Parken kann schwierig sein, also kommen Sie früh.",
+            "hu": "Meneküljön el a nyüzsgés elől erre a kissé félreesőbb, nyugalmat ígérő partszakaszra, de mivel a parkolás nehéz lehet, érdemes korán érkezni.",
+            "ro": "Scăpați de agitație pe această porțiune de plajă puțin mai izolată, care promite liniște, dar deoarece parcarea poate fi dificilă, ajungeți devreme.",
+            "en": "Escape the hustle and bustle at this slightly more secluded stretch of beach that promises tranquility, but since parking can be difficult, arrive early."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni La Lampara",
+            "hu": "Bagni La Lampara",
+            "ro": "Bagni La Lampara",
+            "en": "Bagni La Lampara"
+          },
+          "coords": [
+            9.394118,
+            44.274562
+          ],
+          "category": "recreational",
+          "arrive_at": "10:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Dieser malerische Strandabschnitt bietet fantastische Ausblicke und ruhiges Wasser zum Schwimmen, also mieten Sie einen Sonnenschirm für maximalen Komfort.",
+            "hu": "Ez a festői strandszakasz fantasztikus kilátást és nyugodt vizet kínál az úszáshoz, ezért béreljen napernyőt a maximális kényelem érdekében.",
+            "ro": "Această plajă pitorească oferă priveliști fantastice și ape calme pentru înot, așa că închiriați o umbrelă de soare pentru un confort maxim.",
+            "en": "This picturesque stretch of beach offers fantastic views and calm waters for swimming, so rent an umbrella for maximum comfort during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Cigno",
+            "hu": "Bagni Cigno",
+            "ro": "Bagni Cigno",
+            "en": "Bagni Cigno"
+          },
+          "coords": [
+            9.37945,
+            44.288857
+          ],
+          "category": "recreational",
+          "arrive_at": "11:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Ein fantastischer Ort zum Sonnenbaden und Beobachten der Wellen, der sich ideal für Familien eignet. Reservieren Sie Ihren Platz am besten im Voraus.",
+            "hu": "Fantasztikus hely napozásra és a hullámok megfigyelésére, amely ideális családok számára; érdemes előre lefoglalni a helyet a strandon.",
+            "ro": "Un loc fantastic pentru plajă și observarea valurilor, ideal pentru familii, așa că vă recomandăm să vă rezervați locul la plajă în avans.",
+            "en": "A fantastic spot for sunbathing and watching the waves that is ideal for families, so it is highly recommended to reserve your beach spot in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Sol Levante Beach Club",
+            "hu": "Sol Levante Beach Club",
+            "ro": "Sol Levante Beach Club",
+            "en": "Sol Levante Beach Club"
+          },
+          "coords": [
+            9.362666,
+            44.298271
+          ],
+          "category": "recreational",
+          "arrive_at": "13:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Ein moderner Beach Club mit toller Musik und erfrischenden Getränken, der sich abends in eine angesagte Location verwandelt; kommen Sie zum Sonnenuntergang.",
+            "hu": "Modern strandklub nagyszerű zenével és frissítő italokkal, amely esténként felkapott szórakozóhellyé alakul; érkezzen naplemente környékén.",
+            "ro": "Un club de plajă modern, cu muzică bună și băuturi răcoritoare, care se transformă într-o locație la modă seara, așa că veniți la apus.",
+            "en": "A modern beach club featuring great music and refreshing drinks that transforms into a trendy venue in the evening, so plan to arrive at sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscina Comunale Parco Tigullio",
+            "hu": "Piscina Comunale Parco Tigullio",
+            "ro": "Piscina Comunale Parco Tigullio",
+            "en": "Piscina Comunale Parco Tigullio"
+          },
+          "coords": [
+            9.352836,
+            44.303898
+          ],
+          "category": "recreational",
+          "arrive_at": "14:30",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Diese öffentliche Schwimmanlage ist eine fantastische Alternative zum Meer und bietet gut gepflegte Pools; Badekappen sind für alle Schwimmer obligatorisch.",
+            "hu": "Ez a nyilvános uszoda fantasztikus alternatívája a tengernek, és jól karbantartott medencéket kínál; az úszósapka minden úszó számára kötelező.",
+            "ro": "Această piscină publică este o alternativă fantastică la mare și oferă bazine bine întreținute, dar rețineți că purtarea căștii de înot este obligatorie.",
+            "en": "This public swimming facility is a fantastic alternative to the ocean and offers well-maintained pools, but remember that swim caps are strictly mandatory."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Roadtrip am idyllischen Tigu Beach, der in den frühen Morgenstunden besonders friedlich ist. Die frische Meeresluft ist ein großartiger Start in den Tag.\nZur Mittagszeit fahren Sie ins Zentrum zu Bagni La Lampara und Bagni Cigno. Genießen Sie hier das lebhafte Treiben und die vielen Annehmlichkeiten der gut besuchten Strände.\nAm Nachmittag erreichen Sie den stilvollen Sol Levante Beach Club, wo moderne Einrichtungen und erstklassiger Service zu einer luxuriösen Auszeit direkt am Meer einladen.\nIhre letzte Station ist die Piscina Comunale Parco Tigullio. Hier können Sie sich nach einem langen Strandtag im klaren Süßwasser abkühlen und den Tag gemütlich ausklingen lassen.",
+        "hu": "Kezdje autós túráját az idilli Tigu Beach-en, amely a kora reggeli órákban különösen békés. A friss tengeri levegő nagyszerű és frissítő kezdetet biztosít a napnak.\nDélben utazzon be a központba, a Bagni La Lampara és a Bagni Cigno felé. Élvezze itt a nyüzsgő életet és a jól látogatott strandok nyújtotta számos nagyszerű kényelmi szolgáltatást.\nDélután elérkezik a stílusos Sol Levante Beach Clubhoz, ahol a modern létesítmények és az első osztályú kiszolgálás luxus pihenésre hívogatnak közvetlenül a tengerparton.\nAz utolsó megálló a Piscina Comunale Parco Tigullio. Egy hosszú tengerparti nap után itt hűsölhet a tiszta édesvízben, és kellemesen, nyugodtan zárhatja le a fárasztó napot.",
+        "ro": "Începeți călătoria cu mașina la idilica plajă Tigu, care este deosebit de pașnică la primele ore ale dimineții. Aerul proaspăt al mării este un început minunat pentru o nouă zi.\nLa prânz, conduceți spre centru, către Bagni La Lampara și Bagni Cigno. Bucurați-vă de agitația plină de viață și de numeroasele facilități ale acestor plaje foarte populare.\nDupă-amiaza veți ajunge la elegantul Sol Levante Beach Club, unde facilitățile moderne și serviciile de primă clasă vă invită la o pauză de lux direct pe malul mării.\nUltima oprire este Piscina Comunale Parco Tigullio. După o zi lungă la plajă, vă puteți răcori în apa dulce și limpede, încheind ziua într-un mod confortabil.",
+        "en": "Begin your road trip at the idyllic Tigu Beach, which is especially peaceful in the early morning hours. The fresh sea air provides a wonderfully refreshing start to your day.\nAt noon, drive into the center towards Bagni La Lampara and Bagni Cigno. Enjoy the lively hustle and bustle along with the many excellent amenities of these highly popular beaches.\nIn the afternoon you will reach the stylish Sol Levante Beach Club, where modern facilities and first-class service invite you to take a luxurious break right by the beautiful sea.\nYour final stop is the Piscina Comunale Parco Tigullio. After a long beach day, you can quickly cool off in the clear fresh water and let the day slowly come to a comfortable end."
+      }
+    }
+  }
+}

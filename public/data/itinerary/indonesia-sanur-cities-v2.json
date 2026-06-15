@@ -1,0 +1,497 @@
+{
+  "city_id": "indonesia-sanur-cities-v2",
+  "anchor": {
+    "name": "Sanur",
+    "coords": [
+      115.258074,
+      -8.684388
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:26",
+      "total_km": 1.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sunrise beach",
+            "hu": "Sunrise beach",
+            "ro": "Sunrise beach",
+            "en": "Sunrise beach"
+          },
+          "coords": [
+            115.264398,
+            -8.683294
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die atemberaubenden Farben der Morgendämmerung an diesem ruhigen Küstenabschnitt, ideal für friedliche Reflexion, also kommen Sie früh.",
+            "hu": "Csodálja meg a lélegzetelállító hajnali színeket ezen a nyugodt partszakaszon, amely tökéletes a csendes elmélkedéshez, ezért érkezzen korán.",
+            "ro": "Admirați culorile uluitoare ale zorilor pe această porțiune de coastă senină, perfectă pentru reflecție liniștită, așa că ajungeți devreme.",
+            "en": "Admire the breathtaking dawn colors at this serene stretch of coastline, perfect for peaceful reflection, so arrive early with a light jacket."
+          }
+        },
+        {
+          "name": {
+            "de": "Sindu Dwarawati Turtle Conservation",
+            "hu": "Sindu Dwarawati Turtle Conservation",
+            "ro": "Sindu Dwarawati Turtle Conservation",
+            "en": "Sindu Dwarawati Turtle Conservation"
+          },
+          "coords": [
+            115.264486,
+            -8.684468
+          ],
+          "category": "landmark",
+          "arrive_at": "10:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie gerettete Meeresschildkröten in verschiedenen Phasen der Rehabilitation und erwägen Sie eine kleine Spende, um sie zu unterstützen.",
+            "hu": "Figyelje meg a kimentett tengeri teknősöket a rehabilitáció különböző szakaszaiban, és fontolja meg egy kisebb adomány felajánlását a támogatásukra.",
+            "ro": "Observați țestoasele marine salvate în diferite etape de reabilitare la acest sanctuar emoționant și luați în considerare să lăsați o donație.",
+            "en": "Observe rescued sea turtles in various stages of rehabilitation at this heartwarming sanctuary, and consider leaving a small donation to support them."
+          }
+        },
+        {
+          "name": {
+            "de": "Pura Patal",
+            "hu": "Pura Patal",
+            "ro": "Pura Patal",
+            "en": "Pura Patal"
+          },
+          "coords": [
+            115.264573,
+            -8.685608
+          ],
+          "category": "landmark",
+          "arrive_at": "10:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erleben Sie die spirituelle Ruhe dieses wunderschön geschnitzten Küstentempels, aber denken Sie daran, einen respektvollen Sarong zu tragen.",
+            "hu": "Élje át e gyönyörűen faragott parti templom spirituális nyugalmát, amely bepillantást enged a helyi hitbe, de ne felejtsen el szarongot viselni.",
+            "ro": "Experimentați calmul spiritual al acestui templu de coastă frumos sculptat, dar amintiți-vă să purtați un sarong respectuos la intrare.",
+            "en": "Experience the spiritual calm of this beautifully carved coastal temple offering insight into local faith, but remember to wear a respectful sarong."
+          }
+        },
+        {
+          "name": {
+            "de": "GBI ISCC (Icon Sanur City Church)",
+            "hu": "GBI ISCC (Icon Sanur City Church)",
+            "ro": "GBI ISCC (Icon Sanur City Church)",
+            "en": "GBI ISCC (Icon Sanur City Church)"
+          },
+          "coords": [
+            115.262868,
+            -8.686512
+          ],
+          "category": "landmark",
+          "arrive_at": "11:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Beachten Sie die markante moderne Architektur dieser Kirche, die im Kontrast zu traditionellen Tempeln steht, und prüfen Sie die Öffnungszeiten.",
+            "hu": "Figyelje meg ennek a kiemelkedő közösségi templomnak a lenyűgöző modern építészetét, és ellenőrizze helyben a nyitvatartási időt.",
+            "ro": "Observați arhitectura modernă izbitoare a acestei biserici comunitare proeminente și verificați la nivel local orele de deschidere pentru vizitatori.",
+            "en": "Note the striking modern architecture of this prominent community church, which contrasts with traditional temples, and check locally for open hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Griya Simpar Sindhu",
+            "hu": "Griya Simpar Sindhu",
+            "ro": "Griya Simpar Sindhu",
+            "en": "Griya Simpar Sindhu"
+          },
+          "coords": [
+            115.260213,
+            -8.684092
+          ],
+          "category": "landmark",
+          "arrive_at": "12:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Schlendern Sie an diesem authentischen Wohnkomplex vorbei, um das traditionelle balinesische Layout zu bewundern, das tagsüber gut sichtbar ist.",
+            "hu": "Sétáljon el ezen autentikus lakóépület mellett, hogy értékelje a hagyományos balinéz szerkezeti elrendezést, amely nappal könnyen megtekinthető.",
+            "ro": "Plimbați-vă pe lângă acest complex rezidențial autentic pentru a aprecia aspectul tradițional balinez, ușor de văzut de pe stradă în timpul zilei.",
+            "en": "Stroll past this authentic residential compound to appreciate traditional Balinese structural layout, easily viewed from the street during the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Sindhu Night Market",
+            "hu": "Sindhu Night Market",
+            "ro": "Sindhu Night Market",
+            "en": "Sindhu Night Market"
+          },
+          "coords": [
+            115.260166,
+            -8.685274
+          ],
+          "category": "landmark",
+          "arrive_at": "13:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Probieren Sie an diesem belebten Abendtreffpunkt eine unglaubliche Vielfalt an authentischem indonesischem Streetfood und bringen Sie Bargeld mit.",
+            "hu": "Kóstoljon meg hihetetlenül sokféle autentikus indonéz utcai ételt ezen a nyüzsgő esti piacon, és mindenképpen vigyen magával aprópénzt.",
+            "ro": "Gustați o varietate incredibilă de mâncare de stradă indoneziană la acest hub aglomerat de seară și asigurați-vă că aveți bani potriviți la voi.",
+            "en": "Taste an incredible variety of authentic Indonesian street food at this bustling evening hub, and be sure to carry small bills for easy transactions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen in der ruhigen Atmosphäre der Ostküste und atmen Sie die frische Meeresluft ein. Gegen Mittag wandern Sie etwas landeinwärts, um lokale Naturschutzprojekte und ruhige Tempel zu entdecken, die abseits der Hauptstraßen liegen. Der Nachmittag lädt dazu ein, einzigartige Wahrzeichen der Gemeinde und historische Anlagen zu bewundern. Lassen Sie den Abend inmitten der lebhaften Düfte und geschäftigen Stände des örtlichen Nachtmarktes ausklingen.",
+        "hu": "Kezdje a reggelt a keleti partvidék nyugodt légkörében, élvezve a friss tengeri levegőt. Ahogy közeledik a dél, sétáljon kissé beljebb a szárazföld felé, hogy felfedezze a helyi természetvédelmi törekvéseket és a rejtett, békés templomokat. A délután folyamán ismerje meg a közösség egyedi nevezetességeit és történelmi épületegyütteseit. Az estét a helyi éjszakai piac nyüzsgő standjainál zárja, ahol autentikus utcai ételeket kóstolhat.",
+        "ro": "Începeți dimineața absorbind atmosfera liniștită a coastei estice, respirând aerul proaspăt al mării. Pe măsură ce se apropie prânzul, plimbați-vă spre interior pentru a descoperi eforturile locale de conservare și templele ascunse departe de străzile principale. După-amiaza vă invită să apreciați reperele unice ale comunității și complexele istorice. Încheiați-vă seara cufundați în aromele vibrante și tarabele pline de viață ale pieței nocturne locale.",
+        "en": "Start your morning absorbing the tranquil atmosphere along the eastern coastline, breathing in the fresh sea air. As midday approaches, wander slightly inland to discover local conservation efforts and serene temples hidden away from the main streets. The afternoon invites you to appreciate unique community landmarks and historic compounds. Conclude your evening immersed in the vibrant aromas and bustling stalls of the local night market, perfect for tasting authentic street food."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 3.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Taman Kota",
+            "hu": "Taman Kota",
+            "ro": "Taman Kota",
+            "en": "Taman Kota"
+          },
+          "coords": [
+            115.258548,
+            -8.67192
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie im grünen Schatten dieses Stadtparks, wo sich Familien zur morgendlichen Erholung treffen, ein hervorragender Ort zum Beobachten.",
+            "hu": "Pihenjen meg ennek a helyi városi parknak a zöld árnyékában, ahol a családok reggelente kikapcsolódnak, így kiváló hely az emberek megfigyelésére.",
+            "ro": "Relaxați-vă în umbra verde a acestui parc al orașului unde familiile se adună pentru recreere matinală, fiind un loc excelent pentru a privi oamenii.",
+            "en": "Relax in the verdant shade of this local city park where families gather for morning recreation, making it an excellent spot for people-watching."
+          }
+        },
+        {
+          "name": {
+            "de": "musuem le mayeur",
+            "hu": "musuem le mayeur",
+            "ro": "musuem le mayeur",
+            "en": "musuem le mayeur"
+          },
+          "coords": [
+            115.263602,
+            -8.675111
+          ],
+          "category": "museum",
+          "arrive_at": "10:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Kunstwerke und die romantische Geschichte eines belgischen Malers in seinem ehemaligen Zuhause, Eintritt an der Tür.",
+            "hu": "Fedezze fel egy híres belga festő magával ragadó alkotásait és romantikus történetét egykori otthonában, a belépőjegy a bejáratnál fizetendő.",
+            "ro": "Explorați operele de artă captivante și istoria romantică a unui pictor belgian celebru conservate în fosta sa casă, cu o taxă la intrare.",
+            "en": "Explore the captivating artwork and romantic history of a famous Belgian painter preserved in his former home, with an entry fee payable at the door."
+          }
+        },
+        {
+          "name": {
+            "de": "Sunrise beach",
+            "hu": "Sunrise beach",
+            "ro": "Sunrise beach",
+            "en": "Sunrise beach"
+          },
+          "coords": [
+            115.264398,
+            -8.683294
+          ],
+          "category": "natural",
+          "arrive_at": "12:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die atemberaubenden Farben der Morgendämmerung an diesem ruhigen Küstenabschnitt, ideal für friedliche Reflexion, also kommen Sie früh.",
+            "hu": "Csodálja meg a lélegzetelállító hajnali színeket ezen a nyugodt partszakaszon, amely tökéletes a csendes elmélkedéshez, ezért érkezzen korán.",
+            "ro": "Admirați culorile uluitoare ale zorilor pe această porțiune de coastă senină, perfectă pentru reflecție liniștită, așa că ajungeți devreme.",
+            "en": "Admire the breathtaking dawn colors at this serene stretch of coastline, perfect for peaceful reflection, so arrive early with a light jacket."
+          }
+        },
+        {
+          "name": {
+            "de": "Sindu Dwarawati Turtle Conservation",
+            "hu": "Sindu Dwarawati Turtle Conservation",
+            "ro": "Sindu Dwarawati Turtle Conservation",
+            "en": "Sindu Dwarawati Turtle Conservation"
+          },
+          "coords": [
+            115.264486,
+            -8.684468
+          ],
+          "category": "landmark",
+          "arrive_at": "13:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Beobachten Sie gerettete Meeresschildkröten in verschiedenen Phasen der Rehabilitation und erwägen Sie eine kleine Spende, um sie zu unterstützen.",
+            "hu": "Figyelje meg a kimentett tengeri teknősöket a rehabilitáció különböző szakaszaiban, és fontolja meg egy kisebb adomány felajánlását a támogatásukra.",
+            "ro": "Observați țestoasele marine salvate în diferite etape de reabilitare la acest sanctuar emoționant și luați în considerare să lăsați o donație.",
+            "en": "Observe rescued sea turtles in various stages of rehabilitation at this heartwarming sanctuary, and consider leaving a small donation to support them."
+          }
+        },
+        {
+          "name": {
+            "de": "Pura Patal",
+            "hu": "Pura Patal",
+            "ro": "Pura Patal",
+            "en": "Pura Patal"
+          },
+          "coords": [
+            115.264573,
+            -8.685608
+          ],
+          "category": "landmark",
+          "arrive_at": "13:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erleben Sie die spirituelle Ruhe dieses wunderschön geschnitzten Küstentempels, aber denken Sie daran, einen respektvollen Sarong zu tragen.",
+            "hu": "Élje át e gyönyörűen faragott parti templom spirituális nyugalmát, amely bepillantást enged a helyi hitbe, de ne felejtsen el szarongot viselni.",
+            "ro": "Experimentați calmul spiritual al acestui templu de coastă frumos sculptat, dar amintiți-vă să purtați un sarong respectuos la intrare.",
+            "en": "Experience the spiritual calm of this beautifully carved coastal temple offering insight into local faith, but remember to wear a respectful sarong."
+          }
+        },
+        {
+          "name": {
+            "de": "Pura Agung Intaran",
+            "hu": "Pura Agung Intaran",
+            "ro": "Pura Agung Intaran",
+            "en": "Pura Agung Intaran"
+          },
+          "coords": [
+            115.254766,
+            -8.683798
+          ],
+          "category": "landmark",
+          "arrive_at": "14:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die aufwendigen Steinmetzarbeiten eines der bedeutendsten Staatstempel Sanurs, der am besten am späten Nachmittag besucht wird.",
+            "hu": "Csodálja meg Sanur egyik legjelentősebb állami templomának bonyolult kőfaragásait és hatalmas méreteit, amelyet a legjobb késő délután meglátogatni.",
+            "ro": "Minunați-vă de piatra complexă și amploarea unuia dintre cele mai semnificative temple de stat din Sanur, cel mai bine vizitat după-amiaza.",
+            "en": "Marvel at the intricate stonework and grand scale of one of Sanur’s most significant state temples, best visited during quieter late afternoon hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Sindhu Night Market",
+            "hu": "Sindhu Night Market",
+            "ro": "Sindhu Night Market",
+            "en": "Sindhu Night Market"
+          },
+          "coords": [
+            115.260166,
+            -8.685274
+          ],
+          "category": "landmark",
+          "arrive_at": "15:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Probieren Sie an diesem belebten Abendtreffpunkt eine unglaubliche Vielfalt an authentischem indonesischem Streetfood und bringen Sie Bargeld mit.",
+            "hu": "Kóstoljon meg hihetetlenül sokféle autentikus indonéz utcai ételt ezen a nyüzsgő esti piacon, és mindenképpen vigyen magával aprópénzt.",
+            "ro": "Gustați o varietate incredibilă de mâncare de stradă indoneziană la acest hub aglomerat de seară și asigurați-vă că aveți bani potriviți la voi.",
+            "en": "Taste an incredible variety of authentic Indonesian street food at this bustling evening hub, and be sure to carry small bills for easy transactions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Genießen Sie eine erfrischende morgendliche Radtour, beginnend in einem üppigen Stadtpark, bevor Sie zu einem inspirierenden Kunstmuseum am Strand radeln. Zur Mittagszeit erreichen Sie das Wasser und verbinden den herrlichen Meerblick mit einem Besuch in einer Schildkrötenstation. Radeln Sie am Nachmittag weiter, um kunstvolle, kulturell bedeutsame Hindu-Tempel zu erkunden. Wenn der Abend hereinbricht, stellen Sie Ihr Rad ab und gönnen Sie sich die kulinarischen Köstlichkeiten des Marktes.",
+        "hu": "Élvezze a frissítő reggeli kerékpározást egy buja városi parkból indulva, mielőtt a tengerparti művészeti múzeumhoz tekerne. A délidő a vízpartra csábítja, ahol a gyönyörű tengeri kilátás egy teknősmenhely meglátogatásával párosul. Délután tekerjen tovább, hogy felfedezze a közösség díszes, kulturálisan jelentős hindu templomait. Ahogy leszáll az est, tegye le a kerékpárt, és kényeztesse magát a helyi piac kulináris finomságaival.",
+        "ro": "Bucurați-vă de o plimbare matinală revigorantă începând dintr-un parc urban luxuriant înainte de a pedala spre un muzeu de artă pe plajă. Prânzul vă aduce chiar pe malul apei, echilibrând priveliștile frumoase cu o vizită la un sanctuar de țestoase. Continuați să pedalați după-amiaza pentru a explora templele hinduse ornamentate și pline de semnificație culturală. Când se lasă seara, odihniți-vă bicicleta și răsfățați-vă cu deliciile culinare ale pieței locale.",
+        "en": "Enjoy a refreshing morning ride starting from a lush city park before pedaling down to an inspiring beachfront art museum. Midday brings you right to the water's edge, balancing beautiful sea views with a visit to a noble turtle sanctuary. Continue cycling in the afternoon to explore ornate, culturally significant Hindu temples standing proudly in the community. As evening falls, rest your bike and treat yourself to the culinary delights of the bustling local market."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:37",
+      "total_km": 4.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "musuem le mayeur",
+            "hu": "musuem le mayeur",
+            "ro": "musuem le mayeur",
+            "en": "musuem le mayeur"
+          },
+          "coords": [
+            115.263602,
+            -8.675111
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Kunstwerke und die romantische Geschichte eines belgischen Malers in seinem ehemaligen Zuhause, Eintritt an der Tür.",
+            "hu": "Fedezze fel egy híres belga festő magával ragadó alkotásait és romantikus történetét egykori otthonában, a belépőjegy a bejáratnál fizetendő.",
+            "ro": "Explorați operele de artă captivante și istoria romantică a unui pictor belgian celebru conservate în fosta sa casă, cu o taxă la intrare.",
+            "en": "Explore the captivating artwork and romantic history of a famous Belgian painter preserved in his former home, with an entry fee payable at the door."
+          }
+        },
+        {
+          "name": {
+            "de": "Griya Gede Taman Sari Sanur",
+            "hu": "Griya Gede Taman Sari Sanur",
+            "ro": "Griya Gede Taman Sari Sanur",
+            "en": "Griya Gede Taman Sari Sanur"
+          },
+          "coords": [
+            115.25835,
+            -8.681978
+          ],
+          "category": "landmark",
+          "arrive_at": "10:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche Erbe dieser edlen Brahmanenresidenz, die historische Eleganz zeigt, perfekt für ein kurzes architektonisches Foto.",
+            "hu": "Fedezze fel e nemesi bráhmin rezidencia gazdag örökségét, amely történelmi eleganciát sugároz, és tökéletes egy rövid építészeti fotóhoz.",
+            "ro": "Descoperiți moștenirea bogată încapsulată în această reședință nobilă de brahmani care prezintă eleganță istorică, perfectă pentru o fotografie.",
+            "en": "Discover the rich heritage encapsulated within this noble Brahmin residence that showcases historical elegance, perfect for a brief architectural photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Pura Agung Intaran",
+            "hu": "Pura Agung Intaran",
+            "ro": "Pura Agung Intaran",
+            "en": "Pura Agung Intaran"
+          },
+          "coords": [
+            115.254766,
+            -8.683798
+          ],
+          "category": "landmark",
+          "arrive_at": "11:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Bewundern Sie die aufwendigen Steinmetzarbeiten eines der bedeutendsten Staatstempel Sanurs, der am besten am späten Nachmittag besucht wird.",
+            "hu": "Csodálja meg Sanur egyik legjelentősebb állami templomának bonyolult kőfaragásait és hatalmas méreteit, amelyet a legjobb késő délután meglátogatni.",
+            "ro": "Minunați-vă de piatra complexă și amploarea unuia dintre cele mai semnificative temple de stat din Sanur, cel mai bine vizitat după-amiaza.",
+            "en": "Marvel at the intricate stonework and grand scale of one of Sanur’s most significant state temples, best visited during quieter late afternoon hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Sindhu Night Market",
+            "hu": "Sindhu Night Market",
+            "ro": "Sindhu Night Market",
+            "en": "Sindhu Night Market"
+          },
+          "coords": [
+            115.260166,
+            -8.685274
+          ],
+          "category": "landmark",
+          "arrive_at": "12:15",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Probieren Sie an diesem belebten Abendtreffpunkt eine unglaubliche Vielfalt an authentischem indonesischem Streetfood und bringen Sie Bargeld mit.",
+            "hu": "Kóstoljon meg hihetetlenül sokféle autentikus indonéz utcai ételt ezen a nyüzsgő esti piacon, és mindenképpen vigyen magával aprópénzt.",
+            "ro": "Gustați o varietate incredibilă de mâncare de stradă indoneziană la acest hub aglomerat de seară și asigurați-vă că aveți bani potriviți la voi.",
+            "en": "Taste an incredible variety of authentic Indonesian street food at this bustling evening hub, and be sure to carry small bills for easy transactions."
+          }
+        },
+        {
+          "name": {
+            "de": "Dune Atlantis",
+            "hu": "Dune Atlantis",
+            "ro": "Dune Atlantis",
+            "en": "Dune Atlantis"
+          },
+          "coords": [
+            115.256997,
+            -8.704313
+          ],
+          "category": "landmark",
+          "arrive_at": "13:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Tauschen Sie sich mit professionellen Tauchlehrern aus, um mehr über Balis Wasserwelt zu erfahren, eine vorherige Buchung wird jedoch empfohlen.",
+            "hu": "Lépjen kapcsolatba a profi búvároktatókkal, hogy megismerje Bali vízi élővilágát, bár az előzetes foglalás kifejezetten ajánlott ezen a helyen.",
+            "ro": "Interacționați cu instructorii profesioniști de scufundări la acest centru renumit, deși rezervarea în avans este foarte recomandată aici.",
+            "en": "Engage with professional dive instructors at this renowned center to learn about Bali's aquatic life, though booking in advance is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Hyatt Reef",
+            "hu": "Hyatt Reef",
+            "ro": "Hyatt Reef",
+            "en": "Hyatt Reef"
+          },
+          "coords": [
+            115.264542,
+            -8.70402
+          ],
+          "category": "recreational",
+          "arrive_at": "13:52",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich bei den sanften Wellen mit Blick auf dieses geschützte Riffsystem, ideal für einen küstennahen Spaziergang bei Sonnenuntergang.",
+            "hu": "Kapcsolódjon ki a lágy hullámok mellett ezen a védett zátonyrendszeren, amely nyugodt fürdőzést biztosít, és ideális egy naplementés sétához.",
+            "ro": "Relaxați-vă la valurile blânde cu vedere la acest sistem protejat de recif în larg, ideal pentru o plimbare pe coastă la apusul soarelui.",
+            "en": "Unwind by the gentle waves overlooking this protected offshore reef system that creates a calm swimming environment, ideal for a sunset coastal stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie morgens mit einer bequemen Fahrt zu einem ikonischen Kunstmuseum und tauchen Sie in das kreative Erbe Balis ein. Gegen Mittag steuern Sie majestätische lokale Heiligtümer und großzügige Wohnanlagen an, die zeitlose architektonische Eleganz widerspiegeln. Ihr Nachmittag geht fließend in belebte Handelszentren über, bevor Sie in den Süden zu aufregenden Wassersportmöglichkeiten fahren. Lassen Sie den Tag entspannt an den Riffen im Süden ausklingen, während die Sonne untergeht.",
+        "hu": "Induljon reggel egy kényelmes autóúttal egy ikonikus művészeti múzeumhoz, elmerülve Bali kreatív örökségében. Délidőben navigáljon a fenséges helyi szentélyek és lenyűgöző lakóparkok felé, amelyek időtlen építészeti eleganciát tükröznek. A délután folyamán látogassa meg a nyüzsgő kereskedelmi központokat, majd hajtson délre izgalmas vízi szabadidős programokért. Zárja a napot a déli zátonyoknál pihenve, miközben a nap lenyugszik az óceán felett.",
+        "ro": "Porniți dimineața cu o plimbare confortabilă cu mașina către un muzeu de artă iconic, aprofundând moștenirea creativă a insulei Bali. În jurul prânzului, îndreptați-vă spre sanctuare locale maiestuoase și complexe rezidențiale grandioase care reflectă o eleganță arhitecturală atemporală. După-amiaza face trecerea ușor către centrele comerciale aglomerate, înainte de a conduce spre sud pentru opțiuni acvatice interesante. Încheiați ziua relaxându-vă lângă recifele uimitoare.",
+        "en": "Set out in the morning with a comfortable drive to an iconic art museum, delving deep into Bali’s creative heritage. Around midday, navigate toward majestic local sanctuaries and grand residential compounds that reflect timeless architectural elegance. Your afternoon transitions smoothly towards the bustling commercial centers before driving south for exciting aquatic leisure options. Cap off your day relaxing by the stunning southern reefs as the sun sets over the ocean."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-xeraco-cities-v2",
+  "anchor": {
+    "name": "Xeraco",
+    "coords": [
+      -0.2152,
+      39.03319
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:59",
+      "total_km": 1.55,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "La Cisterna",
+            "hu": "La Cisterna",
+            "ro": "La Cisterna",
+            "en": "La Cisterna"
+          },
+          "coords": [
+            -0.217603,
+            39.033288
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen alten unterirdischen Wasserspeicher, ein Zeugnis historischer Baukunst, aber achten Sie auf Ihren Kopf an den niedrigen Bögen.",
+            "hu": "Fedezze fel ezt a lenyűgöző, ősi földalatti víztározót, amely a történelmi mérnöki munka ékköve, de vigyázzon a fejére az alacsony bejárati boltíveknél.",
+            "ro": "Descoperiți acest rezervor subteran străvechi, o dovadă a ingineriei istorice, dar aveți grijă la cap când treceți pe sub arcadele joase de la intrare.",
+            "en": "Discover this fascinating ancient underground water reservoir, a testament to historical engineering, but watch your head on the low entrance arches."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de la Cultura de Xeraco",
+            "hu": "Casa de la Cultura de Xeraco",
+            "ro": "Casa de la Cultura de Xeraco",
+            "en": "Casa de la Cultura de Xeraco"
+          },
+          "coords": [
+            -0.216217,
+            39.033651
+          ],
+          "category": "cultural",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie lokale Kunst und Ausstellungen in diesem Kulturzentrum, wo ein Blick auf das Veranstaltungsprogramm oft kostenlose Vorführungen offenbart.",
+            "hu": "Fedezze fel a helyi művészetet és kiállításokat ebben a pezsgő kulturális központban, ahol az eseménynaptár gyakran ingyenes előadásokat is rejt.",
+            "ro": "Explorați arta locală și expozițiile în acest centru cultural vibrant, unde verificarea programului de weekend vă poate aduce spectacole gratuite.",
+            "en": "Explore local arts and regional exhibitions inside this vibrant cultural center, where checking the weekend event schedule can reveal free performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita del Crist de l'Agonia",
+            "hu": "Ermita del Crist de l'Agonia",
+            "ro": "Ermita del Crist de l'Agonia",
+            "en": "Ermita del Crist de l'Agonia"
+          },
+          "coords": [
+            -0.216737,
+            39.031736
+          ],
+          "category": "religious",
+          "arrive_at": "11:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie die friedliche Atmosphäre und die traditionelle Architektur dieser Einsiedelei, am besten früh am Morgen, wenn das Licht am schönsten ist.",
+            "hu": "Csodálja meg a kápolna békés hangulatát és hagyományos építészetét, és érkezzen kora reggel, hogy a legszebb fényben láthassa a lenyűgöző homlokzatot.",
+            "ro": "Admirați atmosfera pașnică și arhitectura tradițională a acestui schit local, vizitând dimineața devreme pentru cea mai blândă lumină pe fațada sa.",
+            "en": "Admire the peaceful atmosphere and traditional architecture of this local hermitage, visiting early in the morning for the softest light on its facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Agermanament amb Bruguières",
+            "hu": "Agermanament amb Bruguières",
+            "ro": "Agermanament amb Bruguières",
+            "en": "Agermanament amb Bruguières"
+          },
+          "coords": [
+            -0.214426,
+            39.035707
+          ],
+          "category": "historical",
+          "arrive_at": "12:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem symbolischen Denkmal, das die französische Städtepartnerschaft feiert, ein perfekter Ort für ein schnelles Foto auf Ihrem Spaziergang.",
+            "hu": "Álljon meg ennél a francia testvérvárosi kapcsolatot ünneplő emlékműnél, amely tökéletes helyszín egy gyors fotóhoz, mielőtt folytatná a sétát a városban.",
+            "ro": "Opriți-vă la acest monument simbolic care celebrează înfrățirea cu orașul francez, un loc perfect pentru o fotografie rapidă înainte de a continua plimbarea.",
+            "en": "Pause at this symbolic monument celebrating the town's French twinning, a perfect spot to take a quick photo before continuing your stroll through Xeraco."
+          }
+        },
+        {
+          "name": {
+            "de": "Observatori Ocells Marjal",
+            "hu": "Observatori Ocells Marjal",
+            "ro": "Observatori Ocells Marjal",
+            "en": "Observatori Ocells Marjal"
+          },
+          "coords": [
+            -0.207388,
+            39.035888
+          ],
+          "category": "natural",
+          "arrive_at": "14:14",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Beobachten Sie Zugvögel in diesen ruhigen Küstensümpfen vom hölzernen Aussichtsdeck aus und bringen Sie ein Fernglas für die beste Sicht auf die Reiher mit.",
+            "hu": "Figyeljen meg vándormadarakat ezekben a békés mocsarakban a fa kilátóról, és hozzon magával távcsövet, hogy jobban lássa a fészkelő gémeket és récéket.",
+            "ro": "Observați păsările migratoare în aceste mlaștini de coastă de pe platforma de lemn, aducând un binoclu pentru o vedere cât mai clară a stârcilor.",
+            "en": "Spot migratory species in these serene coastal marshlands from the wooden observation deck, bringing binoculars for the clearest view of nesting herons."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im historischen Zentrum von Xeraco. Wir starten an der La Cisterna und bewundern die alte Wasserbautechnik, bevor wir in der Casa de la Cultura lokale Kunst erleben.\n\nAm Mittag führt ein kurzer Spaziergang zur Ermita del Crist de l'Agonia. Ihre ruhige Fassade bietet einen perfekten Moment der Besinnung, bevor wir in einem Café Tapas genießen.\n\nAm Nachmittag besuchen wir das symbolische Denkmal Agermanament amb Bruguières, das die grenzüberschreitende Freundschaft feiert und die Vergangenheit mit der modernen Identität verbindet.\n\nWenn der Abend naht, gehen wir zum Observatori Ocells Marjal. Die untergehende Sonne taucht die Sümpfe in Gold und bietet ein atemberaubendes und friedliches Finale.",
+        "hu": "A reggel Xeraco történelmi szívében kezdődik. A La Cisternánál indulunk, megcsodálva a hagyományos vízmérnöki munkát, majd a Casa de la Cultura helyi művészetében gyönyörködünk.\n\nDélben egy rövid séta a békés Ermita del Crist de l'Agonia felé vezet, amely tökéletes pillanatot nyújt a kikapcsolódásra, mielőtt beülnénk egy helyi kávézóba tapasozni.\n\nDélután meglátogatjuk az Agermanament amb Bruguières szimbolikus emlékművét, amely a határokon átnyúló barátságot ünnepli, összekötve a város múltját európai identitásával.\n\nAz este közeledtével elsétálunk az Observatori Ocells Marjal felé. A lenyugvó nap aranyba öltözteti a mocsarat, lélegzetelállító és békés befejezést nyújtva a napnak.",
+        "ro": "Dimineața începe în inima istorică din Xeraco. Pornim de la La Cisterna, admirând ingineria tradițională a apei, înainte de a ne bucura de arta locală la Casa de la Cultura.\n\nLa prânz, o scurtă plimbare ne duce la Ermita del Crist de l'Agonia. Fațada sa liniștită oferă un moment perfect de reflecție înainte de a găsi o cafenea locală confortabilă pentru niște tapas.\n\nDupă-amiaza, vizităm monumentul simbolic Agermanament amb Bruguières, care celebrează prietenia transfrontalieră, conectând trecutul orașului cu identitatea sa europeană modernă.\n\nPe măsură ce se apropie seara, mergem spre Observatori Ocells Marjal. Soarele la apus pictează mlaștinile în auriu, oferind un final uluitor și pașnic.",
+        "en": "Morning begins in the historical heart of Xeraco. We start at La Cisterna, marveling at traditional water engineering, before soaking in local arts at the Casa de la Cultura.\n\nBy midday, a short stroll brings us to the Ermita del Crist de l'Agonia. Its quiet facade offers a perfect moment of reflection before finding a cozy local café nearby for some tapas.\n\nIn the afternoon, we visit the symbolic Agermanament amb Bruguières monument, celebrating cross-border friendship, connecting the town’s past to its modern European identity.\n\nAs evening approaches, we walk outwards to the Observatori Ocells Marjal. The setting sun paints the marshlands in gold, providing a breathtaking and peaceful finale as the local birds settle down."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:01",
+      "total_km": 3.75,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Casa de la Cultura de Xeraco",
+            "hu": "Casa de la Cultura de Xeraco",
+            "ro": "Casa de la Cultura de Xeraco",
+            "en": "Casa de la Cultura de Xeraco"
+          },
+          "coords": [
+            -0.216217,
+            39.033651
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie lokale Kunst und Ausstellungen in diesem Kulturzentrum, wo ein Blick auf das Veranstaltungsprogramm oft kostenlose Vorführungen offenbart.",
+            "hu": "Fedezze fel a helyi művészetet és kiállításokat ebben a pezsgő kulturális központban, ahol az eseménynaptár gyakran ingyenes előadásokat is rejt.",
+            "ro": "Explorați arta locală și expozițiile în acest centru cultural vibrant, unde verificarea programului de weekend vă poate aduce spectacole gratuite.",
+            "en": "Explore local arts and regional exhibitions inside this vibrant cultural center, where checking the weekend event schedule can reveal free performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Observatori Ocells Marjal",
+            "hu": "Observatori Ocells Marjal",
+            "ro": "Observatori Ocells Marjal",
+            "en": "Observatori Ocells Marjal"
+          },
+          "coords": [
+            -0.207388,
+            39.035888
+          ],
+          "category": "natural",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Beobachten Sie Zugvögel in diesen ruhigen Küstensümpfen vom hölzernen Aussichtsdeck aus und bringen Sie ein Fernglas für die beste Sicht auf die Reiher mit.",
+            "hu": "Figyeljen meg vándormadarakat ezekben a békés mocsarakban a fa kilátóról, és hozzon magával távcsövet, hogy jobban lássa a fészkelő gémeket és récéket.",
+            "ro": "Observați păsările migratoare în aceste mlaștini de coastă de pe platforma de lemn, aducând un binoclu pentru o vedere cât mai clară a stârcilor.",
+            "en": "Spot migratory species in these serene coastal marshlands from the wooden observation deck, bringing binoculars for the clearest view of nesting herons."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de guaita de Xeraco",
+            "hu": "Torre de guaita de Xeraco",
+            "ro": "Torre de guaita de Xeraco",
+            "en": "Torre de guaita de Xeraco"
+          },
+          "coords": [
+            -0.202882,
+            39.044467
+          ],
+          "category": "tower",
+          "arrive_at": "11:56",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.05,
+          "tip_5lang": {
+            "de": "Betrachten Sie diesen historischen Küstenwachturm gegen Piraten und achten Sie auf seine strategische Lage am Fluss und das robuste Mauerwerk.",
+            "hu": "Nézzen fel erre a történelmi, kalózok ellen épült parti őrtoronyra, és figyelje meg annak stratégiai, folyóparti elhelyezkedését és masszív falazatát.",
+            "ro": "Priviți acest turn de veghe istoric construit pentru a observa pirații, remarcând amplasarea sa strategică pe malul râului și zidăria sa robustă.",
+            "en": "Look up at this historic coastal watchtower built to spot pirates, noting its strategic riverside placement and sturdy masonry against coastal winds."
+          }
+        },
+        {
+          "name": {
+            "de": "Passeig dels Drets Humans",
+            "hu": "Passeig dels Drets Humans",
+            "ro": "Passeig dels Drets Humans",
+            "en": "Passeig dels Drets Humans"
+          },
+          "coords": [
+            -0.194857,
+            39.043871
+          ],
+          "category": "park",
+          "arrive_at": "12:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Spazieren Sie an dieser malerischen, den Menschenrechten gewidmeten Promenade entlang und genießen Sie die kühle Meeresbrise mit einem erfrischenden Eis.",
+            "hu": "Sétáljon végig ezen az emberi jogoknak szentelt, festői sétányon, és élvezze a hűs tengeri szellőt, miközben egy frissítő fagylaltot fogyaszt a közelben.",
+            "ro": "Plimbați-vă pe această promenadă pitorească dedicată drepturilor omului, bucurându-vă de briza mării în timp ce savurați o înghețată revigorantă.",
+            "en": "Walk along this scenic promenade dedicated to human rights, enjoying the cooling sea breeze while grabbing a refreshing gelato from a nearby vendor."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Cívico \"Quarter dels Carrabiners\"",
+            "hu": "Centro Cívico \"Quarter dels Carrabiners\"",
+            "ro": "Centro Cívico \"Quarter dels Carrabiners\"",
+            "en": "Centro Cívico \"Quarter dels Carrabiners\""
+          },
+          "coords": [
+            -0.192241,
+            39.042274
+          ],
+          "category": "historical",
+          "arrive_at": "13:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erfahren Sie in dieser restaurierten Karabinier-Kaserne mehr über die lokale Geschichte, wo kleine Tafeln tiefgehende Informationen zum Schmuggel bieten.",
+            "hu": "Ismerje meg a helyi tengerészeti történelmet ebben a felújított csendőrlaktanyában, ahol a kis információs táblák mélyebb betekintést nyújtanak a múltba.",
+            "ro": "Aflați despre istoria maritimă locală în această fostă cazarmă restaurată, unde micile plăcuțe informative oferă un context detaliat despre contrabandă.",
+            "en": "Learn about local maritime history inside this restored former carabineer barracks, where the small informational plaques offer deep context on smuggling."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador del Riu Vaca",
+            "hu": "Mirador del Riu Vaca",
+            "ro": "Mirador del Riu Vaca",
+            "en": "Mirador del Riu Vaca"
+          },
+          "coords": [
+            -0.187076,
+            39.036977
+          ],
+          "category": "natural",
+          "arrive_at": "15:06",
+          "stay_min": 55,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Blicken Sie von diesem ruhigen Aussichtspunkt auf den Fluss, der ins Meer mündet, und kommen Sie kurz vor Sonnenuntergang für lebhafte Reflexionen im Wasser.",
+            "hu": "Tekintsen le a Földközi-tengerbe ömlő szelíd folyóra erről a csendes kilátópontról, és érkezzen naplemente előtt, hogy megörökítse a ragyogó fényeket.",
+            "ro": "Priviți râul care se varsă în Marea Mediterană de la acest punct de belvedere liniștit, ajungând chiar înainte de apus pentru a surprinde reflexiile vii.",
+            "en": "Gaze over the gentle river meeting the Mediterranean Sea from this quiet viewpoint, arriving just before sunset to capture the sky's vivid reflections."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag in der Casa de la Cultura im Stadtzentrum, wo Sie lokales Erbe aufnehmen, bevor Sie in Richtung der ruhigen Küstenökosysteme radeln.\n\nAm Mittag fahren Sie zum Observatori Ocells Marjal, um nistende Vögel zu beobachten, und dann zum historischen Torre de guaita de Xeraco, wo einst Wächter die Küste vor Piraten schützten.\n\nNach dem Mittagessen radeln Sie entlang des Passeig dels Drets Humans. Der ebene Weg und die Meeresbrise sorgen für eine perfekte Fahrt bis zur alten Karabinier-Kaserne.\n\nBeenden Sie den Tag am Mirador del Riu Vaca. Das ruhige Wasser des Flusses, der ins Meer mündet, spiegelt die lebhaften Farben der Dämmerung wider und bietet einen ruhigen Abschluss.",
+        "hu": "Kezdje a kerékpáros napot a városközpontban található Casa de la Cultura-nál, és szívja magába a helyi örökséget, mielőtt a békés tengerparti ökoszisztémák felé venné az irányt.\n\nDélben tekerjen az Observatori Ocells Marjalhoz, hogy fészkelő madarakat figyeljen meg, majd a történelmi Torre de guaita de Xeraco őrtoronyhoz, ahonnan egykor a partokat védték.\n\nEgy gyors ebéd után guruljon végig a Passeig dels Drets Humans sétányon. A sima út és a tengeri szellő tökéletes délutáni utazást biztosít az egykori csendőrlaktanyáig.\n\nA napot a Mirador del Riu Vaca-nál zárjuk. A tengerbe ömlő folyó csendes vize visszatükrözi a vibráló alkonyati színeket, így nyugodt befejezést kínál az aktív napnak.",
+        "ro": "Începeți ziua de ciclism la Casa de la Cultura din centrul orașului, absorbind patrimoniul local înainte de a pedala spre ecosistemele de coastă senine.\n\nLa prânz, mergeți la Observatori Ocells Marjal pentru a vedea păsările care cuibăresc, apoi pedalați până la istoricul Torre de guaita de Xeraco, unde străjerii păzeau cândva țărmurile de pirați.\n\nDupă prânz, plimbați-vă de-a lungul Passeig dels Drets Humans. Calea netedă și briza mării asigură o plimbare perfectă înainte de a ajunge la cazarma istorică a carabinierilor.\n\nÎncheiați ziua pedalând la Mirador del Riu Vaca. Apele calme ale râului care se întâlnesc cu marea reflectă culorile vibrante ale crepusculului, oferind o concluzie liniștită.",
+        "en": "Kick off your cycling day at the Casa de la Cultura in the town center, absorbing some local heritage before pedaling out towards the serene coastal ecosystems.\n\nBy midday, ride to the Observatori Ocells Marjal to watch nesting birds, then pedal up to the historic Torre de guaita de Xeraco, where pirate watchmen once guarded the shores.\n\nAfter a quick lunch, cruise along the Passeig dels Drets Humans. The smooth path and sea breeze make for a perfect afternoon ride before reaching the historic carabineer barracks.\n\nFinish the day cycling to the Mirador del Riu Vaca. The calm waters of the river meeting the sea reflect the vibrant twilight colors, offering a tranquil conclusion to your active day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:35",
+      "total_km": 6.35,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "l'Esquellot",
+            "hu": "l'Esquellot",
+            "ro": "l'Esquellot",
+            "en": "l'Esquellot"
+          },
+          "coords": [
+            -0.238931,
+            39.039278
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Wandern Sie durch diese raue Naturlandschaft mit ihrer einzigartigen Flora und tragen Sie feste Schuhe, um das unebene Kalksteingelände sicher zu meistern.",
+            "hu": "Túrázzon ezen az egyedülálló növényzettel tarkított, zord természeti tájon, és viseljen erős túracipőt, hogy biztonságosan mozogjon az egyenetlen terepen.",
+            "ro": "Faceți drumeții prin acest peisaj natural accidentat, marcat de o floră unică, purtând pantofi de drumeție rezistenți pentru a naviga în siguranță pe teren.",
+            "en": "Hike through this rugged natural landscape marked by unique flora, wearing sturdy hiking shoes to safely navigate the uneven limestone terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "La Cisterna",
+            "hu": "La Cisterna",
+            "ro": "La Cisterna",
+            "en": "La Cisterna"
+          },
+          "coords": [
+            -0.217603,
+            39.033288
+          ],
+          "category": "historical",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen alten unterirdischen Wasserspeicher, ein Zeugnis historischer Baukunst, aber achten Sie auf Ihren Kopf an den niedrigen Bögen.",
+            "hu": "Fedezze fel ezt a lenyűgöző, ősi földalatti víztározót, amely a történelmi mérnöki munka ékköve, de vigyázzon a fejére az alacsony bejárati boltíveknél.",
+            "ro": "Descoperiți acest rezervor subteran străvechi, o dovadă a ingineriei istorice, dar aveți grijă la cap când treceți pe sub arcadele joase de la intrare.",
+            "en": "Discover this fascinating ancient underground water reservoir, a testament to historical engineering, but watch your head on the low entrance arches."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita del Crist de l'Agonia",
+            "hu": "Ermita del Crist de l'Agonia",
+            "ro": "Ermita del Crist de l'Agonia",
+            "en": "Ermita del Crist de l'Agonia"
+          },
+          "coords": [
+            -0.216737,
+            39.031736
+          ],
+          "category": "religious",
+          "arrive_at": "11:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die friedliche Atmosphäre und die traditionelle Architektur dieser Einsiedelei, am besten früh am Morgen, wenn das Licht am schönsten ist.",
+            "hu": "Csodálja meg a kápolna békés hangulatát és hagyományos építészetét, és érkezzen kora reggel, hogy a legszebb fényben láthassa a lenyűgöző homlokzatot.",
+            "ro": "Admirați atmosfera pașnică și arhitectura tradițională a acestui schit local, vizitând dimineața devreme pentru cea mai blândă lumină pe fațada sa.",
+            "en": "Admire the peaceful atmosphere and traditional architecture of this local hermitage, visiting early in the morning for the softest light on its facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de guaita de Xeraco",
+            "hu": "Torre de guaita de Xeraco",
+            "ro": "Torre de guaita de Xeraco",
+            "en": "Torre de guaita de Xeraco"
+          },
+          "coords": [
+            -0.202882,
+            39.044467
+          ],
+          "category": "tower",
+          "arrive_at": "12:36",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie diesen historischen Küstenwachturm gegen Piraten und achten Sie auf seine strategische Lage am Fluss und das robuste Mauerwerk.",
+            "hu": "Nézzen fel erre a történelmi, kalózok ellen épült parti őrtoronyra, és figyelje meg annak stratégiai, folyóparti elhelyezkedését és masszív falazatát.",
+            "ro": "Priviți acest turn de veghe istoric construit pentru a observa pirații, remarcând amplasarea sa strategică pe malul râului și zidăria sa robustă.",
+            "en": "Look up at this historic coastal watchtower built to spot pirates, noting its strategic riverside placement and sturdy masonry against coastal winds."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Cívico \"Quarter dels Carrabiners\"",
+            "hu": "Centro Cívico \"Quarter dels Carrabiners\"",
+            "ro": "Centro Cívico \"Quarter dels Carrabiners\"",
+            "en": "Centro Cívico \"Quarter dels Carrabiners\""
+          },
+          "coords": [
+            -0.192241,
+            39.042274
+          ],
+          "category": "historical",
+          "arrive_at": "13:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erfahren Sie in dieser restaurierten Karabinier-Kaserne mehr über die lokale Geschichte, wo kleine Tafeln tiefgehende Informationen zum Schmuggel bieten.",
+            "hu": "Ismerje meg a helyi tengerészeti történelmet ebben a felújított csendőrlaktanyában, ahol a kis információs táblák mélyebb betekintést nyújtanak a múltba.",
+            "ro": "Aflați despre istoria maritimă locală în această fostă cazarmă restaurată, unde micile plăcuțe informative oferă un context detaliat despre contrabandă.",
+            "en": "Learn about local maritime history inside this restored former carabineer barracks, where the small informational plaques offer deep context on smuggling."
+          }
+        },
+        {
+          "name": {
+            "de": "Desembocadura del Riu Xeraco",
+            "hu": "Desembocadura del Riu Xeraco",
+            "ro": "Desembocadura del Riu Xeraco",
+            "en": "Desembocadura del Riu Xeraco"
+          },
+          "coords": [
+            -0.193555,
+            39.038718
+          ],
+          "category": "natural",
+          "arrive_at": "14:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Beobachten Sie an dieser malerischen Flussmündung, wie sich Süß- und Salzwasser vermischen – ein fantastischer, ruhiger Ort für ein kleines Picknick.",
+            "hu": "Nézze, ahogy az édesvíz összeolvad a sós hullámokkal ezen a festői folyótorkolatnál, amely egy fantasztikus és nyugodt hely egy kis piknikezéshez.",
+            "ro": "Urmăriți cum apa dulce se contopește cu valurile sărate la această gură de râu pitorească, un loc fantastic și liniștit pentru a întinde o pătură de picnic.",
+            "en": "Watch the fresh water merge with the salty waves at this picturesque river mouth, a fantastic and tranquil spot to lay out a small picnic blanket."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador del Riu Vaca",
+            "hu": "Mirador del Riu Vaca",
+            "ro": "Mirador del Riu Vaca",
+            "en": "Mirador del Riu Vaca"
+          },
+          "coords": [
+            -0.187076,
+            39.036977
+          ],
+          "category": "natural",
+          "arrive_at": "15:40",
+          "stay_min": 55,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Blicken Sie von diesem ruhigen Aussichtspunkt auf den Fluss, der ins Meer mündet, und kommen Sie kurz vor Sonnenuntergang für lebhafte Reflexionen im Wasser.",
+            "hu": "Tekintsen le a Földközi-tengerbe ömlő szelíd folyóra erről a csendes kilátópontról, és érkezzen naplemente előtt, hogy megörökítse a ragyogó fényeket.",
+            "ro": "Priviți râul care se varsă în Marea Mediterană de la acest punct de belvedere liniștit, ajungând chiar înainte de apus pentru a surprinde reflexiile vii.",
+            "en": "Gaze over the gentle river meeting the Mediterranean Sea from this quiet viewpoint, arriving just before sunset to capture the sky's vivid reflections."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit einer erfrischenden Morgenwanderung am l'Esquellot, um Xeracos raue Schönheit zu genießen. Fahren Sie dann ins Zentrum, um die unterirdische La Cisterna zu entdecken.\n\nGegen Mittag halten Sie an der malerischen Ermita del Crist de l'Agonia. Nehmen Sie sich Zeit für ruhige Besinnung, bevor Sie an die Küste fahren, um ein herzhaftes valencianisches Mittagessen zu genießen.\n\nVerbringen Sie den Nachmittag mit maritimer Geschichte. Besuchen Sie den Torre de guaita de Xeraco und das Centro Cívico, um mehr über Küstenverteidigung und historische Schmuggelrouten zu erfahren.\n\nAm Ende des Tages fahren Sie zur Desembocadura del Riu Xeraco für einen kurzen Spaziergang und lassen den Tag am Mirador del Riu Vaca bei einem fantastischen Sonnenuntergang ausklingen.",
+        "hu": "Kezdje a napot egy frissítő reggeli túrával a l'Esquellot-nál, hogy értékelje Xeraco zord szépségét, majd hajtson be a városközpontba, és fedezze fel a földalatti La Cisternát.\n\nDélben álljon meg a festői Ermita del Crist de l'Agonia kápolnánál. Töltsön el néhány percet csendes elmélkedéssel, mielőtt a part felé venné az irányt egy kiadós valenciai ebédért a tengernél.\n\nA délutánt a tengerészeti történelem nyomában töltheti. Látogassa meg a Torre de guaita de Xeracót és a Centro Cívicót, hogy megismerje a partvédelem és a csempészútvonalak történetét.\n\nA nap végén vezessen a Desembocadura del Riu Xeraco felé egy rövid sétára, majd zárja a napot a Mirador del Riu Vaca-nál, figyelve, ahogy a naplemente megfesti a tengert és az eget.",
+        "ro": "Începeți cu o drumeție revigorantă de dimineață la l'Esquellot pentru a aprecia frumusețea interioară a orașului Xeraco, apoi conduceți spre centrul orașului pentru a descoperi La Cisterna.\n\nÎn jurul prânzului, opriți-vă la pitoreasca Ermita del Crist de l'Agonia. Luați-vă câteva momente de reflecție liniștită înainte de a merge spre coastă pentru a găsi un prânz valencian copios lângă mare.\n\nPetreceți după-amiaza descoperind istoria maritimă. Vizitați Torre de guaita de Xeraco și Centro Cívico pentru a afla despre apărarea de coastă și rutele istorice de contrabandă.\n\nPe măsură ce ziua se încheie, conduceți la Desembocadura del Riu Xeraco pentru o scurtă plimbare, terminând perfect la Mirador del Riu Vaca pentru a privi apusul soarelui pictând marea și cerul.",
+        "en": "Start with a refreshing morning hike at l'Esquellot to appreciate Xeraco's rugged inland beauty, then drive into the town center to discover the subterranean La Cisterna.\n\nAround midday, stop by the quaint Ermita del Crist de l'Agonia. Take a few moments of quiet reflection before driving out towards the coast to find a hearty Valencian lunch by the sea.\n\nSpend your afternoon tracing maritime history. Visit the Torre de guaita de Xeraco and the Centro Cívico 'Quarter dels Carrabiners' to learn about coastal defenses and historic smuggling routes.\n\nAs the day winds down, drive to the Desembocadura del Riu Xeraco for a short walk, ending perfectly at the Mirador del Riu Vaca to watch the sunset paint the sea and sky."
+      }
+    }
+  }
+}

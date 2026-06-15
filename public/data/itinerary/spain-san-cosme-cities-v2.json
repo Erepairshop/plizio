@@ -1,0 +1,497 @@
+{
+  "city_id": "spain-san-cosme-cities-v2",
+  "anchor": {
+    "name": "San Cosme",
+    "coords": [
+      -7.23285,
+      43.54163
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:57",
+      "total_km": 3.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Barreiros",
+            "hu": "Barreiros Városháza",
+            "ro": "Primăria Barreiros",
+            "en": "Barreiros Town Hall"
+          },
+          "coords": [
+            -7.233373,
+            43.540459
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Das historische Rathaus bildet das administrative Zentrum und besticht durch seine solide Architektur; achten Sie auf die Öffnungszeiten, wenn Sie das Innere besichtigen möchten.",
+            "hu": "A történelmi városháza a közigazgatási központ, amely szilárd építészetével nyűgöz le; figyeljen a nyitvatartási időre, ha be szeretne menni.",
+            "ro": "Primăria istorică formează centrul administrativ și impresionează prin arhitectura sa solidă; acordați atenție orelor de deschidere dacă doriți să vizitați interiorul.",
+            "en": "The historic town hall forms the administrative center and impresses with its solid architecture; check the opening hours if you wish to see the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Pedro de Barreiros",
+            "hu": "San Pedro de Barreiros templom",
+            "ro": "Biserica San Pedro de Barreiros",
+            "en": "Church of San Pedro de Barreiros"
+          },
+          "coords": [
+            -7.231294,
+            43.540716
+          ],
+          "category": "religious",
+          "arrive_at": "10:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Diese zentrale Kirche ist ein ruhiger Ort der Besinnung mit wunderschönen Details; bringen Sie eine Kamera für die kunstvollen Verzierungen an der Fassade mit.",
+            "hu": "Ez a központi templom a csendes elmélkedés helye gyönyörű részletekkel; hozzon magával fényképezőgépet a homlokzat díszítéséhez.",
+            "ro": "Această biserică centrală este un loc liniștit de reflecție cu detalii frumoase; aduceți un aparat foto pentru decorațiunile ornamentate de pe fațadă.",
+            "en": "This central church is a quiet place of reflection with beautiful details; bring a camera to capture the ornate decorations on the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Keltensiedlung Alto de Merille",
+            "hu": "Alto de Merille kelta erőd",
+            "ro": "Așezarea celtică Alto de Merille",
+            "en": "Alto de Merille Celtic Settlement"
+          },
+          "coords": [
+            -7.234586,
+            43.538315
+          ],
+          "category": "historical",
+          "arrive_at": "11:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Überreste dieser alten keltischen Siedlung, wo Sie bequeme Schuhe für das unebene Gelände benötigen.",
+            "hu": "Fedezze fel ennek az ősi kelta településnek a lenyűgöző maradványait, ahol kényelmes cipőre lesz szüksége az egyenetlen terep miatt.",
+            "ro": "Explorați rămășițele fascinante ale acestei vechi așezări celtice, unde veți avea nevoie de încălțăminte confortabilă pentru terenul accidentat.",
+            "en": "Explore the fascinating remains of this ancient Celtic settlement, where sturdy shoes are highly recommended for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von Áspera",
+            "hu": "Áspera temploma",
+            "ro": "Biserica din Áspera",
+            "en": "Church of Áspera"
+          },
+          "coords": [
+            -7.237826,
+            43.547421
+          ],
+          "category": "religious",
+          "arrive_at": "13:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Eine charmante kleine Kirche abseits des Trubels, die für ihre friedliche Atmosphäre bekannt ist; besuchen Sie sie am besten am späten Vormittag für das beste Licht.",
+            "hu": "Egy bájos kis templom a nyüzsgéstől távol, amely békés légköréről ismert; a legjobb fényviszonyok érdekében késő délelőtt látogasson el ide.",
+            "ro": "O biserică mică și fermecătoare, departe de agitație, cunoscută pentru atmosfera sa pașnică; vizitați-o dimineața târziu pentru cea mai bună lumină.",
+            "en": "A charming small church away from the hustle and bustle, known for its peaceful atmosphere; visit in the late morning for the best photographic light."
+          }
+        },
+        {
+          "name": {
+            "de": "Indiano-Haus von Manuel Maseda",
+            "hu": "Manuel Maseda Indiano-háza",
+            "ro": "Casa Indiano a lui Manuel Maseda",
+            "en": "Indiano House of Manuel Maseda"
+          },
+          "coords": [
+            -7.218833,
+            43.544449
+          ],
+          "category": "historical",
+          "arrive_at": "14:07",
+          "stay_min": 110,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese prächtige Villa, die von zurückgekehrten Auswanderern erbaut wurde, und achten Sie auf die exotischen Pflanzen im Vorgarten.",
+            "hu": "Csodálja meg ezt a csodálatos villát, amelyet a hazatért kivándorlók építettek, és figyeljen a trópusi növényekre az előkertben.",
+            "ro": "Admirați această vilă magnifică construită de emigranții întorși și căutați plantele exotice din grădina din față.",
+            "en": "Admire this magnificent villa built by returning emigrants from the Americas, and look out for the exotic plants in the front garden."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einem Spaziergang durch das historische Zentrum von San Cosme.\n\nZur Mittagszeit tauchen Sie in die faszinierenden Geheimnisse der alten Keltensiedlung ein.\n\nDer Nachmittag führt Sie zu versteckten religiösen Stätten in der malerischen Landschaft.\n\nDen Abend lassen Sie vor der eleganten Architektur der heimgekehrten Auswanderer ausklingen.",
+        "hu": "Kezdje a reggelt egy kellemes sétával San Cosme történelmi központjában.\n\nDélben merüljön el az ősi kelta település lenyűgöző titkaiban.\n\nA délután rejtett vallási helyszínekhez vezet a festői tájon.\n\nAz estét a hazatért kivándorlók elegáns építészetének megcsodálásával zárhatja.",
+        "ro": "Începeți dimineața cu o plimbare plăcută prin centrul istoric al orașului San Cosme.\n\nLa prânz, scufundați-vă în misterele fascinante ale vechii așezări celtice.\n\nDupă-amiaza vă duce la situri religioase ascunse din peisajul pitoresc.\n\nÎncheiați seara admirând arhitectura elegantă a emigranților întorși acasă.",
+        "en": "Start your morning with a pleasant walk through the historical heart of San Cosme.\n\nAt noon, delve into the fascinating mysteries of the ancient Celtic settlement.\n\nThe afternoon leads you to hidden religious sites set within the picturesque landscape.\n\nConclude your evening admiring the elegant architecture built by the returned emigrants."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:51",
+      "total_km": 6.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche San Pedro de Barreiros",
+            "hu": "San Pedro de Barreiros templom",
+            "ro": "Biserica San Pedro de Barreiros",
+            "en": "Church of San Pedro de Barreiros"
+          },
+          "coords": [
+            -7.231294,
+            43.540716
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Diese zentrale Kirche ist ein ruhiger Ort der Besinnung mit wunderschönen Details; bringen Sie eine Kamera für die kunstvollen Verzierungen an der Fassade mit.",
+            "hu": "Ez a központi templom a csendes elmélkedés helye gyönyörű részletekkel; hozzon magával fényképezőgépet a homlokzat díszítéséhez.",
+            "ro": "Această biserică centrală este un loc liniștit de reflecție cu detalii frumoase; aduceți un aparat foto pentru decorațiunile ornamentate de pe fațadă.",
+            "en": "This central church is a quiet place of reflection with beautiful details; bring a camera to capture the ornate decorations on the facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Keltensiedlung Alto de Merille",
+            "hu": "Alto de Merille kelta erőd",
+            "ro": "Așezarea celtică Alto de Merille",
+            "en": "Alto de Merille Celtic Settlement"
+          },
+          "coords": [
+            -7.234586,
+            43.538315
+          ],
+          "category": "historical",
+          "arrive_at": "10:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Überreste dieser alten keltischen Siedlung, wo Sie bequeme Schuhe für das unebene Gelände benötigen.",
+            "hu": "Fedezze fel ennek az ősi kelta településnek a lenyűgöző maradványait, ahol kényelmes cipőre lesz szüksége az egyenetlen terep miatt.",
+            "ro": "Explorați rămășițele fascinante ale acestei vechi așezări celtice, unde veți avea nevoie de încălțăminte confortabilă pentru terenul accidentat.",
+            "en": "Explore the fascinating remains of this ancient Celtic settlement, where sturdy shoes are highly recommended for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Penabor",
+            "hu": "Penabor kilátó",
+            "ro": "Punctul de belvedere Penabor",
+            "en": "Penabor Viewpoint"
+          },
+          "coords": [
+            -7.226948,
+            43.529385
+          ],
+          "category": "viewpoint",
+          "arrive_at": "11:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick über das Tal; bringen Sie ein Fernglas mit, um die ferne Küstenlinie zu erkennen.",
+            "hu": "Élvezze a lélegzetelállító panorámát a völgy felett; hozzon magával távcsövet a távoli partvidék megfigyeléséhez.",
+            "ro": "Bucurați-vă de vederea panoramică uluitoare asupra văii; aduceți binoclul pentru a distinge coasta îndepărtată.",
+            "en": "Enjoy the breathtaking panoramic view over the valley; bring binoculars to spot the distant coastline on a clear day."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Santo Estevo",
+            "hu": "Santo Estevo kápolna",
+            "ro": "Capela Santo Estevo",
+            "en": "Chapel of Santo Estevo"
+          },
+          "coords": [
+            -7.236946,
+            43.523136
+          ],
+          "category": "religious",
+          "arrive_at": "12:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Eine malerische ländliche Kapelle in der Nähe der Wasserfälle; der kleine Pfad dorthin kann nach Regen rutschig sein, seien Sie also vorsichtig.",
+            "hu": "Egy festői vidéki kápolna a vízesések közelében; az odavezető kis ösvény eső után csúszós lehet, ezért legyen óvatos.",
+            "ro": "O capelă rurală pitorească lângă cascade; poteca mică de acolo poate fi alunecoasă după ploaie, așa că aveți grijă.",
+            "en": "A picturesque rural chapel located near the waterfalls; the small path leading to it can be slippery after rain, so step carefully."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserfall Santo Estevo",
+            "hu": "Santo Estevo-vízesés",
+            "ro": "Cascada Santo Estevo",
+            "en": "Santo Estevo Waterfall"
+          },
+          "coords": [
+            -7.236462,
+            43.521388
+          ],
+          "category": "landmark",
+          "arrive_at": "12:42",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Dieser spektakuläre Wasserfall ist ein verstecktes Naturjuwel der Region; ein Picknick am nahegelegenen Rastplatz ist sehr zu empfehlen.",
+            "hu": "Ez a látványos vízesés a régió rejtett természeti gyöngyszeme; egy piknik a közeli pihenőhelyen nagyon ajánlott.",
+            "ro": "Această cascadă spectaculoasă este o bijuterie naturală ascunsă a regiunii; un picnic la zona de odihnă din apropiere este foarte recomandat.",
+            "en": "This spectacular waterfall is a hidden natural gem of the region; packing a picnic to enjoy at the nearby rest area is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Indiano-Haus von Manuel Maseda",
+            "hu": "Manuel Maseda Indiano-háza",
+            "ro": "Casa Indiano a lui Manuel Maseda",
+            "en": "Indiano House of Manuel Maseda"
+          },
+          "coords": [
+            -7.218833,
+            43.544449
+          ],
+          "category": "historical",
+          "arrive_at": "14:01",
+          "stay_min": 110,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese prächtige Villa, die von zurückgekehrten Auswanderern erbaut wurde, und achten Sie auf die exotischen Pflanzen im Vorgarten.",
+            "hu": "Csodálja meg ezt a csodálatos villát, amelyet a hazatért kivándorlók építettek, és figyeljen a trópusi növényekre az előkertben.",
+            "ro": "Admirați această vilă magnifică construită de emigranții întorși și căutați plantele exotice din grădina din față.",
+            "en": "Admire this magnificent villa built by returning emigrants from the Americas, and look out for the exotic plants in the front garden."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine erfrischende Radtour beginnt im religiösen Zentrum und führt Sie sanft in die grünen Hügel.\n\nMittags erklimmen Sie die Aussichtspunkte, um die herrliche Landschaft in vollen Zügen zu genießen.\n\nDer Nachmittag offenbart kühle Wasserfälle und rustikale Kapellen tief in den Wäldern.\n\nDie Tour endet am späten Nachmittag vor den prachtvollen Fassaden der historischen Indiano-Häuser.",
+        "hu": "A frissítő kerékpártúra a vallási központból indul, és szelíden vezet a zöldellő dombok felé.\n\nDélben másszon fel a kilátókhoz, hogy teljes mértékben élvezhesse a csodálatos tájat.\n\nA délután hűvös vízeséseket és rusztikus kápolnákat tár fel az erdők mélyén.\n\nA túra késő délután ér véget a történelmi Indiano-házak csodálatos homlokzata előtt.",
+        "ro": "Un tur revigorant cu bicicleta începe din centrul religios și vă duce ușor în dealurile verzi.\n\nLa prânz, urcați la punctele de belvedere pentru a vă bucura din plin de peisajul magnific.\n\nDupă-amiaza dezvăluie cascade răcoroase și capele rustice adânc în pădure.\n\nTurul se termină târziu în după-amiaza în fața fațadelor magnifice ale caselor istorice Indiano.",
+        "en": "A refreshing bike ride starts in the religious center and leads you gently into the green hills.\n\nAt noon, you will climb the viewpoints to fully enjoy the magnificent surrounding landscape.\n\nThe afternoon reveals cool waterfalls and rustic chapels hidden deep within the lush forests.\n\nThe tour concludes in the late afternoon before the magnificent facades of the historic Indiano houses."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:55",
+      "total_km": 8.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Barreiros",
+            "hu": "Barreiros Városháza",
+            "ro": "Primăria Barreiros",
+            "en": "Barreiros Town Hall"
+          },
+          "coords": [
+            -7.233373,
+            43.540459
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das historische Rathaus bildet das administrative Zentrum und besticht durch seine solide Architektur; achten Sie auf die Öffnungszeiten, wenn Sie das Innere besichtigen möchten.",
+            "hu": "A történelmi városháza a közigazgatási központ, amely szilárd építészetével nyűgöz le; figyeljen a nyitvatartási időre, ha be szeretne menni.",
+            "ro": "Primăria istorică formează centrul administrativ și impresionează prin arhitectura sa solidă; acordați atenție orelor de deschidere dacă doriți să vizitați interiorul.",
+            "en": "The historic town hall forms the administrative center and impresses with its solid architecture; check the opening hours if you wish to see the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Keltensiedlung Alto de Merille",
+            "hu": "Alto de Merille kelta erőd",
+            "ro": "Așezarea celtică Alto de Merille",
+            "en": "Alto de Merille Celtic Settlement"
+          },
+          "coords": [
+            -7.234586,
+            43.538315
+          ],
+          "category": "historical",
+          "arrive_at": "10:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Überreste dieser alten keltischen Siedlung, wo Sie bequeme Schuhe für das unebene Gelände benötigen.",
+            "hu": "Fedezze fel ennek az ősi kelta településnek a lenyűgöző maradványait, ahol kényelmes cipőre lesz szüksége az egyenetlen terep miatt.",
+            "ro": "Explorați rămășițele fascinante ale acestei vechi așezări celtice, unde veți avea nevoie de încălțăminte confortabilă pentru terenul accidentat.",
+            "en": "Explore the fascinating remains of this ancient Celtic settlement, where sturdy shoes are highly recommended for the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Santo Estevo",
+            "hu": "Santo Estevo kápolna",
+            "ro": "Capela Santo Estevo",
+            "en": "Chapel of Santo Estevo"
+          },
+          "coords": [
+            -7.236946,
+            43.523136
+          ],
+          "category": "religious",
+          "arrive_at": "12:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Eine malerische ländliche Kapelle in der Nähe der Wasserfälle; der kleine Pfad dorthin kann nach Regen rutschig sein, seien Sie also vorsichtig.",
+            "hu": "Egy festői vidéki kápolna a vízesések közelében; az odavezető kis ösvény eső után csúszós lehet, ezért legyen óvatos.",
+            "ro": "O capelă rurală pitorească lângă cascade; poteca mică de acolo poate fi alunecoasă după ploaie, așa că aveți grijă.",
+            "en": "A picturesque rural chapel located near the waterfalls; the small path leading to it can be slippery after rain, so step carefully."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasserfall Santo Estevo",
+            "hu": "Santo Estevo-vízesés",
+            "ro": "Cascada Santo Estevo",
+            "en": "Santo Estevo Waterfall"
+          },
+          "coords": [
+            -7.236462,
+            43.521388
+          ],
+          "category": "landmark",
+          "arrive_at": "12:46",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Dieser spektakuläre Wasserfall ist ein verstecktes Naturjuwel der Region; ein Picknick am nahegelegenen Rastplatz ist sehr zu empfehlen.",
+            "hu": "Ez a látványos vízesés a régió rejtett természeti gyöngyszeme; egy piknik a közeli pihenőhelyen nagyon ajánlott.",
+            "ro": "Această cascadă spectaculoasă este o bijuterie naturală ascunsă a regiunii; un picnic la zona de odihnă din apropiere este foarte recomandat.",
+            "en": "This spectacular waterfall is a hidden natural gem of the region; packing a picnic to enjoy at the nearby rest area is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Penabor",
+            "hu": "Penabor kilátó",
+            "ro": "Punctul de belvedere Penabor",
+            "en": "Penabor Viewpoint"
+          },
+          "coords": [
+            -7.226948,
+            43.529385
+          ],
+          "category": "viewpoint",
+          "arrive_at": "13:49",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick über das Tal; bringen Sie ein Fernglas mit, um die ferne Küstenlinie zu erkennen.",
+            "hu": "Élvezze a lélegzetelállító panorámát a völgy felett; hozzon magával távcsövet a távoli partvidék megfigyeléséhez.",
+            "ro": "Bucurați-vă de vederea panoramică uluitoare asupra văii; aduceți binoclul pentru a distinge coasta îndepărtată.",
+            "en": "Enjoy the breathtaking panoramic view over the valley; bring binoculars to spot the distant coastline on a clear day."
+          }
+        },
+        {
+          "name": {
+            "de": "Indiano-Haus von Manuel Maseda",
+            "hu": "Manuel Maseda Indiano-háza",
+            "ro": "Casa Indiano a lui Manuel Maseda",
+            "en": "Indiano House of Manuel Maseda"
+          },
+          "coords": [
+            -7.218833,
+            43.544449
+          ],
+          "category": "historical",
+          "arrive_at": "14:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese prächtige Villa, die von zurückgekehrten Auswanderern erbaut wurde, und achten Sie auf die exotischen Pflanzen im Vorgarten.",
+            "hu": "Csodálja meg ezt a csodálatos villát, amelyet a hazatért kivándorlók építettek, és figyeljen a trópusi növényekre az előkertben.",
+            "ro": "Admirați această vilă magnifică construită de emigranții întorși și căutați plantele exotice din grădina din față.",
+            "en": "Admire this magnificent villa built by returning emigrants from the Americas, and look out for the exotic plants in the front garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Indiano-Haus im Viertel Carreira",
+            "hu": "Carreira negyed Indiano-háza",
+            "ro": "Casa Indiano din cartierul Carreira",
+            "en": "Indiano House of Carreira Neighborhood"
+          },
+          "coords": [
+            -7.204504,
+            43.545345
+          ],
+          "category": "historical",
+          "arrive_at": "15:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Diese historische Residenz zeigt den Reichtum der Rückkehrer; betrachten Sie die feinen Schmiedearbeiten an den Balkonen und Toren.",
+            "hu": "Ez a történelmi rezidencia a hazatérők gazdagságát mutatja be; figyelje meg az erkélyek és kapuk finom kovácsoltvas munkáit.",
+            "ro": "Această reședință istorică arată bogăția celor întorși; priviți feroneria fină de pe balcoane și porți.",
+            "en": "This historic residence showcases the wealth of the returnees; take a moment to appreciate the fine wrought ironwork on the balconies and gates."
+          }
+        },
+        {
+          "name": {
+            "de": "Indiano-Haus do Pero",
+            "hu": "Do Pero Indiano-háza",
+            "ro": "Casa Indiano do Pero",
+            "en": "Indiano House do Pero"
+          },
+          "coords": [
+            -7.213048,
+            43.553771
+          ],
+          "category": "historical",
+          "arrive_at": "17:05",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Den Abschluss der Tour bildet dieses herrliche Anwesen, das die koloniale Architektur Galiciens perfekt repräsentiert; ideal für ein letztes Erinnerungsfoto.",
+            "hu": "A túra ezzel a csodálatos birtokkal zárul, amely tökéletesen képviseli Galícia gyarmati építészetét; ideális egy utolsó emlékfotóhoz.",
+            "ro": "Turul se încheie cu această moșie magnifică, care reprezintă perfect arhitectura colonială a Galiției; ideal pentru o ultimă fotografie suvenir.",
+            "en": "Conclude your tour at this magnificent estate perfectly representing the colonial architecture of Galicia; ideal for a final souvenir photo."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Diese bequeme Autotour beginnt im pulsierenden administrativen Herzen der Gemeinde.\n\nMittags erkunden Sie die abgelegenen Naturschönheiten und malerischen Wasserfälle im tiefen Süden.\n\nAm Nachmittag führt die Route Sie sanft zurück und bietet atemberaubende Ausblicke über die Küstenregion.\n\nDer frühe Abend ist ganz der Bewunderung der prachtvollen kolonialen Indiano-Häuser gewidmet.",
+        "hu": "Ez a kényelmes autós túra a közösség nyüzsgő adminisztratív központjában kezdődik.\n\nDélben fedezze fel a távoli természeti szépségeket és a festői vízeséseket a mély délen.\n\nDélután az útvonal finoman visszavezet, lenyűgöző kilátást nyújtva a tengerparti régióra.\n\nA kora estét teljes mértékben a csodálatos gyarmati Indiano-házak megcsodálásának szenteljük.",
+        "ro": "Acest tur confortabil cu mașina începe în inima administrativă vibrantă a comunității.\n\nLa prânz, explorați frumusețea naturală îndepărtată și cascadele pitorești din sudul îndepărtat.\n\nDupă-amiaza, traseul vă duce ușor înapoi, oferind vederi uluitoare asupra regiunii de coastă.\n\nSeara devreme este dedicată în întregime admirării magnificelor case coloniale Indiano.",
+        "en": "This comfortable driving tour begins in the vibrant administrative heart of the community.\n\nAt noon, you will explore the remote natural beauty and picturesque waterfalls in the deep south.\n\nIn the afternoon, the route gently guides you back, offering breathtaking views over the coastal region.\n\nThe early evening is entirely dedicated to admiring the magnificent colonial Indiano houses."
+      }
+    }
+  }
+}

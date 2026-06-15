@@ -1,0 +1,451 @@
+{
+  "city_id": "italy-avola-cities-v2",
+  "anchor": {
+    "name": "Avola",
+    "coords": [
+      15.135,
+      36.90952
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:34",
+      "total_km": 1.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di San Nicolò",
+            "hu": "Chiesa di San Nicolò",
+            "ro": "Chiesa di San Nicolò",
+            "en": "Chiesa di San Nicolò"
+          },
+          "coords": [
+            15.134258,
+            36.909924
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die barocke Fassade dieser zentralen Kirche, die den hexagonalen Grundriss der Stadt verankert, aber treten Sie leise ein, da hier täglich Gottesdienste stattfinden.",
+            "hu": "Csodálja meg ennek a központi templomnak az elegáns barokk homlokzatát, amely a város hatszögletű alaprajzát rögzíti, de lépjen be csendesen a mindennapi istentiszteletek miatt.",
+            "ro": "Admirați fațada barocă elegantă a acestei biserici centrale, piesa de rezistență a planului hexagonal, dar pășiți încet înăuntru, deoarece este un loc activ de cult zilnic.",
+            "en": "Admire the elegant baroque facade of this central church which anchors the city's unique hexagonal plan, but step inside quietly as it remains an active place of daily worship."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Giuseppe Garibaldi",
+            "hu": "Teatro Giuseppe Garibaldi",
+            "ro": "Teatro Giuseppe Garibaldi",
+            "en": "Teatro Giuseppe Garibaldi"
+          },
+          "coords": [
+            15.135589,
+            36.90824
+          ],
+          "category": "cultural",
+          "arrive_at": "09:53",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses wunderschön restaurierte Kulturzentrum aus dem 19. Jahrhundert und versuchen Sie, frühzeitig Tickets zu buchen, falls eine Abendvorstellung geplant ist.",
+            "hu": "Fedezze fel ezt a gyönyörűen felújított 19. századi kulturális központot, amely Avola művészeti lelkét mutatja be, és foglaljon jegyet előre az esti előadásokra.",
+            "ro": "Explorați acest centru cultural din secolul 19 frumos restaurat care prezintă sufletul artistic, și încercați să rezervați bilete din timp pentru spectacolele de seară.",
+            "en": "Explore this beautifully restored 19th-century cultural hub that showcases Avola's artistic soul, and try to book tickets early if there is an evening performance scheduled."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Giovanni Battista",
+            "hu": "Chiesa di San Giovanni Battista",
+            "ro": "Chiesa di San Giovanni Battista",
+            "en": "Chiesa di San Giovanni Battista"
+          },
+          "coords": [
+            15.137358,
+            36.909746
+          ],
+          "category": "religious",
+          "arrive_at": "10:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Entdecken Sie an dieser markanten Pfarrei neoklassizistische Elemente, die sich mit barocken Details mischen, und halten Sie Ihre Kamera für die verzierten Statuen bereit.",
+            "hu": "Fedezze fel a neoklasszikus elemek és a barokk stílusjegyek keveredését ebben a lenyűgöző plébániában, tartsa készenlétben fényképezőgépét a külső falak szobrai miatt.",
+            "ro": "Descoperiți elementele neoclasice distincte care se îmbină cu tușe baroce la această parohie, având aparatul foto pregătit pentru statuile ornamentate de pe pereții exteriori.",
+            "en": "Discover the distinct neoclassical elements blending with baroque touches at this striking parish, keeping your camera ready for the ornate statues flanking its exterior walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa della Santissima Annunziata",
+            "hu": "Chiesa della Santissima Annunziata",
+            "ro": "Chiesa della Santissima Annunziata",
+            "en": "Chiesa della Santissima Annunziata"
+          },
+          "coords": [
+            15.132885,
+            36.910749
+          ],
+          "category": "religious",
+          "arrive_at": "11:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.41,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die kunstvollen Steinmetzarbeiten an diesem friedlichen Heiligtum und bringen Sie ein kleines Fernglas mit, um die feinen Details am Glockenturm zu schätzen.",
+            "hu": "Csodálja meg a békés szentélyt díszítő bonyolult kőfaragványokat, és hozzon magával egy kis távcsövet, hogy jobban értékelhesse a felső harangtorony finom részleteit.",
+            "ro": "Minunați-vă de sculpturile complicate în piatră care împodobesc acest sanctuar pașnic, folosind un binoclu mic pentru a aprecia corect detaliile fine din apropierea clopotniței.",
+            "en": "Marvel at the intricate stone carvings that adorn this peaceful neighborhood sanctuary, bringing small binoculars to properly appreciate the fine details near the upper belfry."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Sant'Antonio Abate",
+            "hu": "Chiesa di Sant'Antonio Abate",
+            "ro": "Chiesa di Sant'Antonio Abate",
+            "en": "Chiesa di Sant'Antonio Abate"
+          },
+          "coords": [
+            15.133881,
+            36.911765
+          ],
+          "category": "religious",
+          "arrive_at": "12:24",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Erleben Sie die harmonischen architektonischen Proportionen dieser Kirche und besuchen Sie sie am späten Nachmittag, wenn die untergehende Sonne die pastellfarbenen Wände beleuchtet.",
+            "hu": "Figyelje meg a harmonikus építészeti arányokat, amelyek ezt a templomot a helyiek kedvencévé teszik, érdemes késő délután látogatni, amikor a lemenő nap megvilágítja a falakat.",
+            "ro": "Observați proporțiile arhitecturale armonioase care fac din această biserică o favorită locală, vizitând-o după-amiaza târziu când soarele apus iluminează pereții pastelati.",
+            "en": "Witness the harmonious architectural proportions that make this church a local favorite, visiting during late afternoon when the setting sun illuminates the pastel-colored walls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im historischen Zentrum von Avola mit einem Besuch der zentralen Chiesa di San Nicolò, bevor Sie das Garibaldi-Theater bewundern. Mittags spazieren Sie zur Kirche San Giovanni Battista und entdecken typisch sizilianische Barockelemente. Nachmittags geht es weiter zur ruhigen Santissima Annunziata, um die lokale Architektur zu genießen. Der Abend klingt entspannt bei Sant'Antonio Abate aus.",
+        "hu": "A reggel Avola történelmi szívében kezdődik, a központi Chiesa di San Nicolò megtekintésével, majd a közeli Garibaldi Színház csodálatával. A déli órákban egy kellemes sétát teszünk a San Giovanni Battista templomhoz, felfedezve a szicíliai barokk elemeket. Délután az északabbra fekvő Santissima Annunziata csendes építészetét élvezhetjük. Az este békésen zárul a Sant'Antonio Abate templomnál.",
+        "ro": "Dimineața începe în inima istorică a orașului Avola, vizitând centrala Chiesa di San Nicolò, înainte de a admira Teatrul Garibaldi. La prânz, faceți o plimbare plăcută spre biserica San Giovanni Battista, explorând elemente baroce siciliene. După-amiaza vă poartă spre liniștita Santissima Annunziata, pentru a aprecia arhitectura locală. Seara se încheie relaxant la Sant'Antonio Abate.",
+        "en": "Morning begins at the historic heart of Avola with a visit to the central Chiesa di San Nicolò before admiring the nearby Garibaldi Theatre. Midday features a pleasant stroll to the vibrant San Giovanni Battista church, exploring typical Sicilian baroque elements. Afternoon takes you slightly north to the tranquil Santissima Annunziata, enjoying local architecture. Evening concludes gracefully at Sant'Antonio Abate with a relaxing finish."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:35",
+      "total_km": 3.86,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di San Nicolò",
+            "hu": "Chiesa di San Nicolò",
+            "ro": "Chiesa di San Nicolò",
+            "en": "Chiesa di San Nicolò"
+          },
+          "coords": [
+            15.134258,
+            36.909924
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die barocke Fassade dieser zentralen Kirche, die den hexagonalen Grundriss der Stadt verankert, aber treten Sie leise ein, da hier täglich Gottesdienste stattfinden.",
+            "hu": "Csodálja meg ennek a központi templomnak az elegáns barokk homlokzatát, amely a város hatszögletű alaprajzát rögzíti, de lépjen be csendesen a mindennapi istentiszteletek miatt.",
+            "ro": "Admirați fațada barocă elegantă a acestei biserici centrale, piesa de rezistență a planului hexagonal, dar pășiți încet înăuntru, deoarece este un loc activ de cult zilnic.",
+            "en": "Admire the elegant baroque facade of this central church which anchors the city's unique hexagonal plan, but step inside quietly as it remains an active place of daily worship."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Giuseppe Garibaldi",
+            "hu": "Teatro Giuseppe Garibaldi",
+            "ro": "Teatro Giuseppe Garibaldi",
+            "en": "Teatro Giuseppe Garibaldi"
+          },
+          "coords": [
+            15.135589,
+            36.90824
+          ],
+          "category": "cultural",
+          "arrive_at": "09:51",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses wunderschön restaurierte Kulturzentrum aus dem 19. Jahrhundert und versuchen Sie, frühzeitig Tickets zu buchen, falls eine Abendvorstellung geplant ist.",
+            "hu": "Fedezze fel ezt a gyönyörűen felújított 19. századi kulturális központot, amely Avola művészeti lelkét mutatja be, és foglaljon jegyet előre az esti előadásokra.",
+            "ro": "Explorați acest centru cultural din secolul 19 frumos restaurat care prezintă sufletul artistic, și încercați să rezervați bilete din timp pentru spectacolele de seară.",
+            "en": "Explore this beautifully restored 19th-century cultural hub that showcases Avola's artistic soul, and try to book tickets early if there is an evening performance scheduled."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia Pantanello",
+            "hu": "Spiaggia Pantanello",
+            "ro": "Spiaggia Pantanello",
+            "en": "Spiaggia Pantanello"
+          },
+          "coords": [
+            15.148724,
+            36.90629
+          ],
+          "category": "recreational",
+          "arrive_at": "10:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.19,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem feinen goldenen Sand dieser hufeisenförmigen Bucht, perfekt für Familien, und denken Sie an Badeschuhe, um die felsigen Ränder zu erkunden.",
+            "hu": "Pihenjen ennek a családok számára tökéletes, patkó alakú öbölnek a finom aranyhomokján, és ne felejtsen el vízi cipőt csomagolni a gyönyörű part sziklás széleinek felfedezéséhez.",
+            "ro": "Relaxați-vă pe nisipul fin auriu al acestui golf accesibil perfect pentru familii, amintindu-vă să împachetați încălțăminte de apă pentru a explora marginile stâncoase.",
+            "en": "Relax on the fine golden sands of this accessible horseshoe-shaped bay perfect for families, remembering to pack water shoes for exploring the rocky edges of the beautiful shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Antica Tonnara di Avola",
+            "hu": "Antica Tonnara di Avola",
+            "ro": "Antica Tonnara di Avola",
+            "en": "Antica Tonnara di Avola"
+          },
+          "coords": [
+            15.145453,
+            36.89975
+          ],
+          "category": "historical",
+          "arrive_at": "12:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.78,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche maritime Geschichte Siziliens in den Ruinen dieser alten Thunfischfischerei und tragen Sie festes Schuhwerk, um die unebenen historischen Wege zu begehen.",
+            "hu": "Fedezze fel Szicília gazdag tengeri történelmét ennek az ősi tonhalhalászatnak a lenyűgöző romjainál, és viseljen zárt cipőt, hogy biztonságosan mozoghasson az egyenetlen utakon.",
+            "ro": "Descoperiți istoria maritimă bogată a Siciliei la ruinele acestei vechi pescării de ton, purtând încălțăminte rezistentă pentru a naviga în siguranță pe cărările istorice.",
+            "en": "Uncover Sicily's rich maritime history at the evocative ruins of this ancient tuna fishery, wearing sturdy closed-toe shoes to safely navigate the uneven historic pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa della Madonna del Carmine",
+            "hu": "Chiesa della Madonna del Carmine",
+            "ro": "Chiesa della Madonna del Carmine",
+            "en": "Chiesa della Madonna del Carmine"
+          },
+          "coords": [
+            15.133364,
+            36.901474
+          ],
+          "category": "religious",
+          "arrive_at": "13:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.09,
+          "tip_5lang": {
+            "de": "Treten Sie ein in dieses historisch bedeutsame Heiligtum mit seiner heiteren Atmosphäre und betrachten Sie den detaillierten Holzaltar, der die tiefe lokale Hingabe widerspiegelt.",
+            "hu": "Lépjen be ebbe a történelmileg jelentős, derűs belső térrel rendelkező szentélybe, és nézze meg közelebbről a részletes faoltárt, amely a helyiek mély odaadását tükrözi.",
+            "ro": "Pășiți în acest sanctuar istoric caracterizat prin atmosfera sa interioară senină, privind îndeaproape altarul detaliat din lemn care reflectă devotamentul local profund.",
+            "en": "Step into this historically significant sanctuary characterized by its serene interior atmosphere, looking closely at the detailed wooden altar which reflects deep local devotion."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa del Sacro Cuore",
+            "hu": "Chiesa del Sacro Cuore",
+            "ro": "Chiesa del Sacro Cuore",
+            "en": "Chiesa del Sacro Cuore"
+          },
+          "coords": [
+            15.130821,
+            36.906212
+          ],
+          "category": "religious",
+          "arrive_at": "14:25",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.58,
+          "tip_5lang": {
+            "de": "Schätzen Sie die moderne Einfachheit dieser einladenden Gemeindekirche im Wohngebiet und kommen Sie früh, um kurz mit den sehr freundlichen einheimischen Gemeindemitgliedern zu sprechen.",
+            "hu": "Értékelje ennek a lakóövezetben megbúvó, barátságos közösségi templomnak a modern egyszerűségét, látogasson el korán, hogy röviden válthasson pár szót a kedves helyiekkel.",
+            "ro": "Apreciați simplitatea modernă a acestei biserici comunitare din zona rezidențială, venind devreme pentru a interacționa scurt cu enoriașii locali extrem de prietenoși.",
+            "en": "Appreciate the modern simplicity of this welcoming community church nestled in the residential zone, visiting early to interact briefly with the very friendly local parishioners."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit einer erfrischenden morgendlichen Fahrt ins Zentrum von Avola zur Hauptkirche und zum Teatro Garibaldi. Mittags radeln Sie an die wunderschöne Küste, um am Spiaggia Pantanello eine erholsame Pause einzulegen. Der Nachmittag widmet sich dem maritimen Erbe in der historischen Antica Tonnara. Der Abend endet mit einer gemütlichen Fahrt landeinwärts zu den Kirchen Carmine und Sacro Cuore.",
+        "hu": "Kezdje a reggelt egy frissítő bringázással Avola központjában, megtekintve a főtemplomot és a Garibaldi Színházat. Délben tekerjen ki a gyönyörű partra, és pihenjen meg a Spiaggia Pantanello kék vizénél. A délután fénypontja a tengeri örökség felfedezése a történelmi Antica Tonnara épületénél. Az estét a szárazföld belsejében, a Carmine és a Sacro Cuore templomoknál zárjuk.",
+        "ro": "Începeți cu o plimbare matinală revigorantă spre centrul orașului Avola, pentru a vedea biserica principală și Teatrul Garibaldi. La prânz, pedalați spre coasta frumoasă pentru o pauză relaxantă la Spiaggia Pantanello. După-amiaza evidențiază patrimoniul maritim la istorica Antica Tonnara, o veche pescărie. Seara se încheie mergând spre interior spre bisericile Carmine și Sacro Cuore.",
+        "en": "Start with a crisp morning ride into Avola's center to see the main church and the iconic Teatro Garibaldi. Midday, pedal out to the beautiful coast for a refreshing pause at Spiaggia Pantanello and its blue waters. Afternoon highlights the maritime heritage at the historic Antica Tonnara, an old tuna fishery. Evening wraps up biking inland to the welcoming Carmine and Sacro Cuore churches."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:07",
+      "total_km": 6.63,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di San Nicolò",
+            "hu": "Chiesa di San Nicolò",
+            "ro": "Chiesa di San Nicolò",
+            "en": "Chiesa di San Nicolò"
+          },
+          "coords": [
+            15.134258,
+            36.909924
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die barocke Fassade dieser zentralen Kirche, die den hexagonalen Grundriss der Stadt verankert, aber treten Sie leise ein, da hier täglich Gottesdienste stattfinden.",
+            "hu": "Csodálja meg ennek a központi templomnak az elegáns barokk homlokzatát, amely a város hatszögletű alaprajzát rögzíti, de lépjen be csendesen a mindennapi istentiszteletek miatt.",
+            "ro": "Admirați fațada barocă elegantă a acestei biserici centrale, piesa de rezistență a planului hexagonal, dar pășiți încet înăuntru, deoarece este un loc activ de cult zilnic.",
+            "en": "Admire the elegant baroque facade of this central church which anchors the city's unique hexagonal plan, but step inside quietly as it remains an active place of daily worship."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Giuseppe Garibaldi",
+            "hu": "Teatro Giuseppe Garibaldi",
+            "ro": "Teatro Giuseppe Garibaldi",
+            "en": "Teatro Giuseppe Garibaldi"
+          },
+          "coords": [
+            15.135589,
+            36.90824
+          ],
+          "category": "cultural",
+          "arrive_at": "09:53",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses wunderschön restaurierte Kulturzentrum aus dem 19. Jahrhundert und versuchen Sie, frühzeitig Tickets zu buchen, falls eine Abendvorstellung geplant ist.",
+            "hu": "Fedezze fel ezt a gyönyörűen felújított 19. századi kulturális központot, amely Avola művészeti lelkét mutatja be, és foglaljon jegyet előre az esti előadásokra.",
+            "ro": "Explorați acest centru cultural din secolul 19 frumos restaurat care prezintă sufletul artistic, și încercați să rezervați bilete din timp pentru spectacolele de seară.",
+            "en": "Explore this beautifully restored 19th-century cultural hub that showcases Avola's artistic soul, and try to book tickets early if there is an evening performance scheduled."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Romana",
+            "hu": "Villa Romana",
+            "ro": "Villa Romana",
+            "en": "Villa Romana"
+          },
+          "coords": [
+            15.156122,
+            36.918135
+          ],
+          "category": "recreational",
+          "arrive_at": "10:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.14,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise zwischen den faszinierenden ausgegrabenen Fundamenten dieser alten römischen Küstenvilla und bringen Sie einen Hut mit, da es hier kaum Schatten gibt.",
+            "hu": "Lépjen vissza az időben ezen ősi római tengerparti villa lenyűgöző, feltárt alapjai között, és hozzon magával széles karimájú kalapot, mivel a terület kevés árnyékot kínál.",
+            "ro": "Întoarceți-vă în timp printre fundațiile excavate ale acestei vechi vile romane de coastă, aducând o pălărie cu boruri largi deoarece situl arheologic oferă foarte puțină umbră.",
+            "en": "Step back in time among the fascinating excavated foundations of this ancient coastal Roman villa, bringing a wide-brimmed hat as the archaeological site offers very little shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia Pantanello",
+            "hu": "Spiaggia Pantanello",
+            "ro": "Spiaggia Pantanello",
+            "en": "Spiaggia Pantanello"
+          },
+          "coords": [
+            15.148724,
+            36.90629
+          ],
+          "category": "recreational",
+          "arrive_at": "12:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.48,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem feinen goldenen Sand dieser hufeisenförmigen Bucht, perfekt für Familien, und denken Sie an Badeschuhe, um die felsigen Ränder zu erkunden.",
+            "hu": "Pihenjen ennek a családok számára tökéletes, patkó alakú öbölnek a finom aranyhomokján, és ne felejtsen el vízi cipőt csomagolni a gyönyörű part sziklás széleinek felfedezéséhez.",
+            "ro": "Relaxați-vă pe nisipul fin auriu al acestui golf accesibil perfect pentru familii, amintindu-vă să împachetați încălțăminte de apă pentru a explora marginile stâncoase.",
+            "en": "Relax on the fine golden sands of this accessible horseshoe-shaped bay perfect for families, remembering to pack water shoes for exploring the rocky edges of the beautiful shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Antica Tonnara di Avola",
+            "hu": "Antica Tonnara di Avola",
+            "ro": "Antica Tonnara di Avola",
+            "en": "Antica Tonnara di Avola"
+          },
+          "coords": [
+            15.145453,
+            36.89975
+          ],
+          "category": "historical",
+          "arrive_at": "13:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.78,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche maritime Geschichte Siziliens in den Ruinen dieser alten Thunfischfischerei und tragen Sie festes Schuhwerk, um die unebenen historischen Wege zu begehen.",
+            "hu": "Fedezze fel Szicília gazdag tengeri történelmét ennek az ősi tonhalhalászatnak a lenyűgöző romjainál, és viseljen zárt cipőt, hogy biztonságosan mozoghasson az egyenetlen utakon.",
+            "ro": "Descoperiți istoria maritimă bogată a Siciliei la ruinele acestei vechi pescării de ton, purtând încălțăminte rezistentă pentru a naviga în siguranță pe cărările istorice.",
+            "en": "Uncover Sicily's rich maritime history at the evocative ruins of this ancient tuna fishery, wearing sturdy closed-toe shoes to safely navigate the uneven historic pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santa Croce",
+            "hu": "Chiesa di Santa Croce",
+            "ro": "Chiesa di Santa Croce",
+            "en": "Chiesa di Santa Croce"
+          },
+          "coords": [
+            15.129042,
+            36.911933
+          ],
+          "category": "religious",
+          "arrive_at": "14:57",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.01,
+          "tip_5lang": {
+            "de": "Erleben Sie die ruhige Erhabenheit dieser etwas abgelegenen spirituellen Stätte mit markantem Mauerwerk und halten Sie vorher an der Bäckerei für einen traditionellen Snack.",
+            "hu": "Tapasztalja meg ennek a kissé távolabb eső, jellegzetes kőfalakkal rendelkező spirituális helynek a csendes nagyszerűségét, de előbb ugorjon be a közeli pékségbe egy falatért.",
+            "ro": "Experimentați măreția tăcută a acestui sit spiritual ușor îndepărtat cu o zidărie distinctă, oprindu-vă mai întâi la brutăria locală din apropiere pentru o gustare tradițională.",
+            "en": "Experience the quiet grandeur of this slightly removed spiritual site featuring distinct stonework, stopping by the nearby local bakery first to grab a traditional morning snack."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die morgendliche Fahrt bringt Sie in das geschäftige Zentrum von Avola zu seiner Hauptkirche und dem Theater. Mittags geht es an den Stadtrand, wo die Ruinen der römischen Villa einen faszinierenden historischen Abstecher bieten. Der Nachmittag bietet Entspannung an der Küste am Pantanello, gefolgt von der Antica Tonnara. Der Abend klingt mit einer kurzen Fahrt nach Westen zur historischen Santa Croce aus.",
+        "hu": "A reggeli autózás Avola nyüzsgő központjába visz, ahol a főtemplomot és a színházat könnyedén gyalogosan is bejárhatjuk. Délben a külváros felé vesszük az irányt, ahol a Római Villa romjai lenyűgöző történelmi kitérőt kínálnak. A délután a Pantanello partján nyújt pihenést, majd az Antica Tonnara következik. Az este egy rövid nyugati úttal zárul a történelmi Santa Croce felé.",
+        "ro": "Drumul de dimineață vă aduce în centrul animat al Avolei pentru biserica sa centrală și teatru, ușor de explorat pe jos. La prânz vă îndreptați spre periferie, unde ruinele Vilei Romane oferă un ocol istoric fascinant. După-amiaza vă relaxează pe coastă la Pantanello, urmată de fascinanta Antica Tonnara. Seara se încheie cu un scurt drum spre vest până la istorica Santa Croce.",
+        "en": "Morning drive brings you to the bustling heart of Avola for its central church and theatre, easily explored on foot. Midday shifts to the outskirts where the Roman Villa ruins offer a fascinating historical detour before hitting the beach. Afternoon offers coastal relaxation at Pantanello followed by the fascinating Antica Tonnara. Evening winds down with a short drive west to the historic Santa Croce."
+      }
+    }
+  }
+}

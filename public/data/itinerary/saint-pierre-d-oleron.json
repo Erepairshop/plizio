@@ -1,0 +1,428 @@
+{
+  "city_id": "saint-pierre-d-oleron",
+  "anchor": {
+    "name": "Saint-Pierre-d'Oléron",
+    "coords": [
+      -1.3058,
+      45.9436
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:11",
+      "total_km": 11.05,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Maison des Aïeules",
+            "hu": "Maison des Aïeules",
+            "ro": "Maison des Aïeules",
+            "en": "Maison des Aïeules"
+          },
+          "coords": [
+            -1.3039,
+            45.9439
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses erhaltene historische Haus, um das Erbe der Inseln zu verstehen, aber kommen Sie früh, um die mittäglichen Touristenströme zu vermeiden.",
+            "hu": "Fedezze fel ezt a megőrzött történelmi házat, hogy megértse a sziget ősi örökségét, de érkezzen korán, hogy elkerülje a déli turistatömeget.",
+            "ro": "Explorați această casă istorică conservată pentru a înțelege patrimoniul ancestral al insulei, dar veniți devreme pentru a evita aglomerația turiștilor la prânz.",
+            "en": "Explore this preserved historical house to understand the island's ancestral heritage, but come early to avoid the midday tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Pierre",
+            "hu": "Saint-Pierre templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            -1.305484,
+            45.943702
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die feinen Steinmetzarbeiten dieses zentralen Gotteshauses und vergessen Sie nicht, im Morgenlicht auf die faszinierenden Turmdetails zu achten.",
+            "hu": "Csodálja meg e központi imahely bonyolult kőfaragásait, és ne felejtse el megfigyelni a lenyűgöző toronyrészleteket a reggeli fényben.",
+            "ro": "Minunați-vă de pietrăria detaliată a acestui lăcaș central de cult și nu uitați să căutați detaliile fascinante ale turnului în lumina dimineții.",
+            "en": "Marvel at the intricate stonework of this central place of worship, and don't forget to look out for the fascinating tower details during the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Rutschenpark-Empfang",
+            "hu": "Szánkópark recepció",
+            "ro": "Recepție tobogane",
+            "en": "Reception toboggan"
+          },
+          "coords": [
+            -1.319086,
+            45.967678
+          ],
+          "category": "family",
+          "arrive_at": "11:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 42,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kinder in diesem aufregenden Wasser- und Rutschenpark Energie abbauen und packen Sie ein Handtuch sowie eine Wasserflasche für einen angenehmen Familienausflug ein.",
+            "hu": "Hagyja, hogy a gyerekek levezessék energiájukat ebben az izgalmas víz- és csúszdaparkban, és pakoljon be törölközőt, valamint vizespalackot a kényelmes családi kiránduláshoz.",
+            "ro": "Lăsați copiii să-și consume energia în acest parc captivant de apă și tobogane, luând cu voi un prosop și o sticlă de apă pentru o ieșire confortabilă în familie.",
+            "en": "Let the kids burn off energy at this exciting water and slide park, packing a towel and water bottle for a comfortable family outing."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Biroire",
+            "hu": "Biroire strand",
+            "ro": "Plaja Biroire",
+            "en": "Biroire Beach"
+          },
+          "coords": [
+            -1.363077,
+            45.936048
+          ],
+          "category": "recreational",
+          "arrive_at": "14:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 72,
+          "hop_from_prev_km": 4.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den Sandstränden dieses ruhigen Strandes, der perfekt zum Abschalten ist, aber überprüfen Sie unbedingt die Gezeitenpläne, bevor Sie sich niederlassen.",
+            "hu": "Pihenjen ezen a nyugodt tengerparton a homokos szakaszokon, de mindenképpen ellenőrizze az árapály-menetrendet, mielőtt letáborozna.",
+            "ro": "Relaxați-vă pe întinderile de nisip ale acestei plaje liniștite, perfectă pentru relaxare, dar asigurați-vă că verificați programul mareelor înainte de a vă așeza.",
+            "en": "Relax on the sandy stretches of this serene beach, perfect for unwinding, but be sure to check the tide schedules before setting up your spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von La Cotinière",
+            "hu": "La Cotinière kikötője",
+            "ro": "Portul La Cotinière",
+            "en": "Port of La Cotinière"
+          },
+          "coords": [
+            -1.330804,
+            45.917186
+          ],
+          "category": "recreational",
+          "arrive_at": "16:26",
+          "stay_min": 105,
+          "hop_from_prev_min": 50,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie um diesen aktiven Fischereihafen, um die maritime Atmosphäre aufzusaugen, und probieren Sie den Tagesfang in einem nahegelegenen Küstenbistro.",
+            "hu": "Barangoljon ebben az aktív halászkikötőben, hogy magába szívja a tengeri hangulatot, és kóstolja meg a napi fogást egy közeli parti bisztróban.",
+            "ro": "Plimbați-vă prin acest port de pescuit activ pentru a absorbi atmosfera maritimă și încercați o gustare din captura zilei la un bistro de coastă din apropiere.",
+            "en": "Wander around this active fishing port to soak in the maritime atmosphere, and try grabbing a bite of the daily catch at a nearby coastal bistro."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag mit einem Spaziergang durch den historischen Kern von Saint-Pierre und bewundern Sie das reiche Erbe. Mittags wandern Sie zum lebhaften Rutschenpark im Norden für Familienspaß. Am Nachmittag fahren Sie nach Westen zur ruhigen Plage de la Biroire, um die Meeresbrise zu spüren. Beenden Sie Ihren aktiven Tag im lebhaften Hafen von La Cotinière, wo Fischerboote unter dem Abendhimmel zurückkehren.",
+        "hu": "Kezdje a napot egy sétával Saint-Pierre történelmi központjában, megcsodálva annak gazdag örökségét. Délben túrázzon északra a nyüzsgő szánkóparkhoz egy kis családi szórakozásra. Délután menjen nyugatra a csendes Plage de la Biroire-hoz, és élvezze az óceáni szellőt. Zárja aktív napját a nyüzsgő La Cotinière kikötőjében, nézve, ahogy a halászhajók visszatérnek az esti égbolt alatt.",
+        "ro": "Începeți ziua cu o plimbare prin centrul istoric din Saint-Pierre, apreciind patrimoniul său bogat. La prânz, mergeți spre nord la parcul de tobogane pentru distracție în familie. După-amiaza, îndreptați-vă spre vest către liniștita Plage de la Biroire pentru a simți briza oceanului. Încheiați ziua activă la vibrantul Port La Cotinière, privind bărcile de pescuit întorcându-se sub cerul de seară.",
+        "en": "Start the day with a stroll through the historical heart of Saint-Pierre, appreciating its rich heritage. Midday, hike north to the lively toboggan park for some family fun. In the afternoon, head west to the tranquil Plage de la Biroire to feel the ocean breeze. Conclude your active day at the vibrant Port of La Cotinière, watching fishing boats return under the evening sky."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:08",
+      "total_km": 8.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Pierre",
+            "hu": "Saint-Pierre templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            -1.305484,
+            45.943702
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die feinen Steinmetzarbeiten dieses zentralen Gotteshauses und vergessen Sie nicht, im Morgenlicht auf die faszinierenden Turmdetails zu achten.",
+            "hu": "Csodálja meg e központi imahely bonyolult kőfaragásait, és ne felejtse el megfigyelni a lenyűgöző toronyrészleteket a reggeli fényben.",
+            "ro": "Minunați-vă de pietrăria detaliată a acestui lăcaș central de cult și nu uitați să căutați detaliile fascinante ale turnului în lumina dimineții.",
+            "en": "Marvel at the intricate stonework of this central place of worship, and don't forget to look out for the fascinating tower details during the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Vogelreservat Marais",
+            "hu": "Madárrezervátum",
+            "ro": "Sanctuarul de Păsări",
+            "en": "Bird Sanctuary"
+          },
+          "coords": [
+            -1.273395,
+            45.929465
+          ],
+          "category": "family",
+          "arrive_at": "10:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie eine große Vielfalt an Vogelarten in diesem natürlichen Sumpfgebiet-Schutzgebiet und bringen Sie ein Fernglas für die bestmögliche Sicht von den hölzernen Aussichtsplattformen mit.",
+            "hu": "Figyeljen meg egy hatalmas madárfaj-választékot ebben a természetes mocsárvidéki rezervátumban, és hozzon távcsövet a fából készült megfigyelő fedélzetekről nyíló legjobb kilátás érdekében.",
+            "ro": "Observați o varietate uriașă de specii de păsări în acest sanctuar natural mlăștinos și aduceți binoclul pentru cele mai bune vizualizări posibile de pe platformele de observație din lemn.",
+            "en": "Observe a huge variety of bird species in this natural marshland sanctuary, and bring binoculars for the best possible views from the wooden observation decks."
+          }
+        },
+        {
+          "name": {
+            "de": "Nutria-Park",
+            "hu": "Myocastors Park",
+            "ro": "Parcul Myocastors",
+            "en": "Myocastors Park"
+          },
+          "coords": [
+            -1.270894,
+            45.927135
+          ],
+          "category": "family",
+          "arrive_at": "11:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Treffen Sie die neugierigen Nutrias in diesem einzigartigen Tierpark aus nächster Nähe und denken Sie daran, Kleingeld mitzuführen, um zugelassene Leckereien für die sanften Tiere zu kaufen.",
+            "hu": "Találkozzon közelről a kíváncsi nutria rágcsálókkal ebben az egyedi állatparkban, és ne felejtsen el aprópénzt hozni, hogy engedélyezett csemegéket vásárolhasson a szelíd lényeknek.",
+            "ro": "Întâlniți nutrii curioase de aproape în acest parc de animale unic și amintiți-vă să aveți mărunt pentru a cumpăra bunătăți aprobate pentru aceste creaturi blânde.",
+            "en": "Meet the curious coypus up close in this unique animal park, and remember to carry small change to purchase approved treats for the gentle critters."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Matha",
+            "hu": "Matha strand",
+            "ro": "Plaja Matha",
+            "en": "Matha Beach"
+          },
+          "coords": [
+            -1.316198,
+            45.908689
+          ],
+          "category": "recreational",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die sanften Wellen und den weichen Sand dieses weniger überfüllten Strandes, was ihn ideal für ein ruhiges Nachmittagsbuch oder ein friedliches Schwimmen macht.",
+            "hu": "Élvezze e kevésbé zsúfolt strand finom hullámait és puha homokját, ami ideálissá teszi egy csendes délutáni olvasáshoz vagy békés úszáshoz.",
+            "ro": "Bucurați-vă de valurile blânde și nisipurile moi ale acestei plaje mai puțin aglomerate, fiind ideală pentru o lectură liniștită după-amiaza sau o înotare pașnică.",
+            "en": "Enjoy the gentle waves and soft sands of this less crowded beach, making it ideal for a quiet afternoon read or a peaceful swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von La Cotinière",
+            "hu": "La Cotinière kikötője",
+            "ro": "Portul La Cotinière",
+            "en": "Port of La Cotinière"
+          },
+          "coords": [
+            -1.330804,
+            45.917186
+          ],
+          "category": "recreational",
+          "arrive_at": "14:23",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie um diesen aktiven Fischereihafen, um die maritime Atmosphäre aufzusaugen, und probieren Sie den Tagesfang in einem nahegelegenen Küstenbistro.",
+            "hu": "Barangoljon ebben az aktív halászkikötőben, hogy magába szívja a tengeri hangulatot, és kóstolja meg a napi fogást egy közeli parti bisztróban.",
+            "ro": "Plimbați-vă prin acest port de pescuit activ pentru a absorbi atmosfera maritimă și încercați o gustare din captura zilei la un bistro de coastă din apropiere.",
+            "en": "Wander around this active fishing port to soak in the maritime atmosphere, and try grabbing a bite of the daily catch at a nearby coastal bistro."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie von der majestätischen Kirche Saint-Pierre los und genießen Sie die morgendliche Ruhe. Fahren Sie nach Osten, um um die Mittagszeit das Vogelschutzgebiet und den verspielten Myocastors-Park zu erkunden. Radeln Sie nach Süden zur Plage de Matha, wo die Nachmittagssonne den Sand wärmt. Ihre Radtour endet wunderbar im geschäftigen Hafen von La Cotinière, ideal für ein Abendessen mit frischen Meeresfrüchten.",
+        "hu": "Biciklizzen el a fenséges Saint-Pierre templomtól, élvezve a reggeli nyugalmat. Kerékpározzon keletre, hogy délben felfedezze a madárrezervátumot és a játékos Myocastors parkot. Pedálozzon délre, hogy a Plage de Matha-nál pihenjen, ahogy a délutáni nap felmelegíti a homokot. Kerékpártúrája a nyüzsgő La Cotinière kikötőjében csúcsosodik ki, amely tökéletes egy friss tenger gyümölcsei vacsorához.",
+        "ro": "Porniți pe bicicletă de la maiestuoasa biserică Saint-Pierre, bucurându-vă de calmul dimineții. Călătoriți spre est pentru a explora sanctuarul de păsări și parcul Myocastors la prânz. Pedalați spre sud pentru a vă relaxa la Plage de Matha, în timp ce soarele după-amiezii încălzește nisipul. Turul ciclist se încheie frumos în aglomeratul Port La Cotinière, perfect pentru o cină cu fructe de mare proaspete.",
+        "en": "Cycle out from the majestic Saint-Pierre Church, taking in the morning calm. Ride east to explore the bird sanctuary and the playful Myocastors park around midday. Pedal south to relax at Plage de Matha as the afternoon sun warms the sand. Your cycling tour culminates beautifully at the bustling Port of La Cotinière, perfect for a fresh seafood dinner."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:09",
+      "total_km": 25.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Maison des Aïeules",
+            "hu": "Maison des Aïeules",
+            "ro": "Maison des Aïeules",
+            "en": "Maison des Aïeules"
+          },
+          "coords": [
+            -1.3039,
+            45.9439
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses erhaltene historische Haus, um das Erbe der Inseln zu verstehen, aber kommen Sie früh, um die mittäglichen Touristenströme zu vermeiden.",
+            "hu": "Fedezze fel ezt a megőrzött történelmi házat, hogy megértse a sziget ősi örökségét, de érkezzen korán, hogy elkerülje a déli turistatömeget.",
+            "ro": "Explorați această casă istorică conservată pentru a înțelege patrimoniul ancestral al insulei, dar veniți devreme pentru a evita aglomerația turiștilor la prânz.",
+            "en": "Explore this preserved historical house to understand the island's ancestral heritage, but come early to avoid the midday tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Boyardville",
+            "hu": "Boyardville strand",
+            "ro": "Plaja Boyardville",
+            "en": "Boyardville Beach"
+          },
+          "coords": [
+            -1.234924,
+            45.973331
+          ],
+          "category": "recreational",
+          "arrive_at": "10:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.2,
+          "tip_5lang": {
+            "de": "Blicken Sie von den weiten Sandflächen hier auf das berühmte Fort Boyard und tragen Sie bequeme Wanderschuhe, um den schönen angrenzenden Kiefernwald zu erkunden.",
+            "hu": "Tekintsen ki a híres Fort Boyard felé a kiterjedt homokos partról, és viseljen kényelmes sétacipőt, hogy felfedezze a gyönyörű határos fenyőerdőt.",
+            "ro": "Priviți spre faimosul Fort Boyard de pe nisipurile întinse de aici și purtați pantofi confortabili de mers pentru a explora frumoasa pădure de pini de la graniță.",
+            "en": "Look out towards the famous Fort Boyard from the expansive sands here, and wear comfortable walking shoes to explore the beautiful bordering pine forest."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Écuissière",
+            "hu": "Écuissière strand",
+            "ro": "Plaja Écuissière",
+            "en": "Écuissière Beach"
+          },
+          "coords": [
+            -1.275523,
+            45.88493
+          ],
+          "category": "recreational",
+          "arrive_at": "12:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 10.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die raue Schönheit der Atlantikküste entlang dieses weitläufigen Strandes, obwohl Schwimmer stets auf die starken Meeresströmungen achten sollten.",
+            "hu": "Tapasztalja meg az atlanti partvidék nyers szépségét ezen a kiterjedt strandon, bár az úszóknak figyelniük kell az erős óceáni áramlatokra.",
+            "ro": "Experimentați frumusețea brută a coastei atlantice de-a lungul acestei plaje vaste, deși înotătorii ar trebui să rămână atenți la curenții puternici ai oceanului.",
+            "en": "Experience the raw beauty of the Atlantic coast along this sweeping beach, though swimmers should remain mindful of the strong ocean currents."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand La Perroche",
+            "hu": "La Perroche strand",
+            "ro": "Plaja La Perroche",
+            "en": "La Perroche Beach"
+          },
+          "coords": [
+            -1.294672,
+            45.899194
+          ],
+          "category": "recreational",
+          "arrive_at": "13:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine malerische Küstenbucht, die von Surfern und Wassersportlern geliebt wird, und suchen Sie sich einen Platz in den Dünen für fantastische Fotomotive.",
+            "hu": "Fedezzen fel egy festői parti öblöt, amelyet a szörfösök és a vízi sportok szerelmesei kedvelnek, és keressen egy helyet a dűnéken a fantasztikus fotózási lehetőségekért.",
+            "ro": "Descoperiți un golf pitoresc iubit de surferi și entuziaști ai sporturilor nautice și alegeți un loc pe dune pentru oportunități fantastice de fotografie.",
+            "en": "Discover a quaint coastal bay beloved by surfers and water sports enthusiasts, and grab a spot on the dunes for fantastic photo opportunities."
+          }
+        },
+        {
+          "name": {
+            "de": "Hafen von La Cotinière",
+            "hu": "La Cotinière kikötője",
+            "ro": "Portul La Cotinière",
+            "en": "Port of La Cotinière"
+          },
+          "coords": [
+            -1.330804,
+            45.917186
+          ],
+          "category": "recreational",
+          "arrive_at": "15:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.4,
+          "tip_5lang": {
+            "de": "Schlendern Sie um diesen aktiven Fischereihafen, um die maritime Atmosphäre aufzusaugen, und probieren Sie den Tagesfang in einem nahegelegenen Küstenbistro.",
+            "hu": "Barangoljon ebben az aktív halászkikötőben, hogy magába szívja a tengeri hangulatot, és kóstolja meg a napi fogást egy közeli parti bisztróban.",
+            "ro": "Plimbați-vă prin acest port de pescuit activ pentru a absorbi atmosfera maritimă și încercați o gustare din captura zilei la un bistro de coastă din apropiere.",
+            "en": "Wander around this active fishing port to soak in the maritime atmosphere, and try grabbing a bite of the daily catch at a nearby coastal bistro."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Biroire",
+            "hu": "Biroire strand",
+            "ro": "Plaja Biroire",
+            "en": "Biroire Beach"
+          },
+          "coords": [
+            -1.363077,
+            45.936048
+          ],
+          "category": "recreational",
+          "arrive_at": "16:24",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den Sandstränden dieses ruhigen Strandes, der perfekt zum Abschalten ist, aber überprüfen Sie unbedingt die Gezeitenpläne, bevor Sie sich niederlassen.",
+            "hu": "Pihenjen ezen a nyugodt tengerparton a homokos szakaszokon, de mindenképpen ellenőrizze az árapály-menetrendet, mielőtt letáborozna.",
+            "ro": "Relaxați-vă pe întinderile de nisip ale acestei plaje liniștite, perfectă pentru relaxare, dar asigurați-vă că verificați programul mareelor înainte de a vă așeza.",
+            "en": "Relax on the sandy stretches of this serene beach, perfect for unwinding, but be sure to check the tide schedules before setting up your spot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie vom historischen Maison des Aïeules ab und tauchen Sie in die lokale Geschichte ein. Fahren Sie über die Insel zu den weiten Küsten von Boyardville für einen herrlichen Strandspaziergang am Mittag. Später fahren Sie die Südküste hinunter über Écuissière und Perroche, um versteckte Buchten und sanfte Wellen zu entdecken. Beenden Sie Ihre malerische Fahrt durch La Cotinière und La Biroire und genießen Sie den brillanten Sonnenuntergang über dem Atlantik.",
+        "hu": "Induljon a történelmi Maison des Aïeules épületétől, elmerülve a helyi történelemben. Vezessen át a szigeten Boyardville kiterjedt partjaihoz egy lenyűgöző déli tengerparti sétára. Később ugorjon le a déli part mentén Écuissière és Perroche érintésével, hogy felfedezze a rejtett öblöket és finom hullámokat. Fejezze be festői útját La Cotinière és La Biroire kanyargós útjain, élvezve a ragyogó atlanti naplementét.",
+        "ro": "Plecați de la istorica Maison des Aïeules, cufundându-vă în istoria locală. Conduceți de-a lungul insulei către țărmurile întinse din Boyardville pentru o plimbare superbă pe plajă la prânz. Mai târziu, coborâți pe coasta de sud prin Écuissière și Perroche pentru a descoperi golfuri ascunse și valuri blânde. Încheiați-vă călătoria pitorească prin La Cotinière și La Biroire, admirând apusul strălucitor al Atlanticului.",
+        "en": "Depart from the historic Maison des Aïeules, diving into local history. Drive across the island to the expansive shores of Boyardville for a stunning midday beach walk. Later, hop down the southern coast via Écuissière and Perroche to discover hidden coves and gentle waves. Finish your scenic drive winding through La Cotinière and La Biroire, enjoying the brilliant Atlantic sunset."
+      }
+    }
+  }
+}

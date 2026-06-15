@@ -1,0 +1,428 @@
+{
+  "city_id": "italy-aeolian-salina-cities-v2",
+  "anchor": {
+    "name": "Aeolian Salina",
+    "coords": [
+      14.838889,
+      38.564722
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:40",
+      "total_km": 1.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Spiaggia di Rinella",
+            "hu": "Spiaggia di Rinella",
+            "ro": "Spiaggia di Rinella",
+            "en": "Spiaggia di Rinella"
+          },
+          "coords": [
+            14.829824,
+            38.547895
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie den schwarzen Vulkansand und die faszinierenden in den Fels gehauenen Höhlen, aber kommen Sie früh, um einen guten Platz am klaren Wasser zu sichern.",
+            "hu": "Fedezze fel a fekete vulkáni homokot és a sziklába vájt lenyűgöző barlangokat, de érkezzen korán, hogy jó helyet találjon a tiszta víz mellett.",
+            "ro": "Explorați nisipul vulcanic negru și peșterile fascinante săpate în stâncă, dar asigurați-vă că ajungeți devreme pentru a prinde un loc bun lângă apa limpede.",
+            "en": "Explore the black volcanic sand and the fascinating caves carved into the rock, but be sure to arrive early to secure a good spot near the clear water."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Gaetano",
+            "hu": "Chiesa di San Gaetano",
+            "ro": "Chiesa di San Gaetano",
+            "en": "Chiesa di San Gaetano"
+          },
+          "coords": [
+            14.827674,
+            38.548171
+          ],
+          "category": "religious",
+          "arrive_at": "10:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die einfache, aber elegante Pastellfassade dieser bezaubernden Inselkirche und denken Sie daran, sich bescheiden zu kleiden, wenn Sie morgens hineinschauen.",
+            "hu": "Csodálja meg ennek a bájos szigeti templomnak az egyszerű, de elegáns pasztell homlokzatát, és öltözzön szerényen, ha a délelőtti órákban szeretne bepillantani.",
+            "ro": "Admirați fațada pastelată simplă, dar elegantă a acestei biserici fermecătoare de pe insulă, și nu uitați să vă îmbrăcați decent dacă doriți să intrați dimineața.",
+            "en": "Admire the simple but elegant pastel facade of this charming island church, and remember to dress modestly if you plan to peek inside during the morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia della Nonna",
+            "hu": "Spiaggia della Nonna",
+            "ro": "Spiaggia della Nonna",
+            "en": "Spiaggia della Nonna"
+          },
+          "coords": [
+            14.823468,
+            38.547899
+          ],
+          "category": "recreational",
+          "arrive_at": "11:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem ruhigen, kieseligen Küstenstreifen, wo die Wellen sanft ans Ufer schlagen, und bringen Sie Wasserschuhe für einen bequemen Spaziergang mit.",
+            "hu": "Pihenjen ezen a csendes, kavicsos partszakaszon, ahol a hullámok lágyan mossák a partot, és hozzon magával vízicipőt a kényelmesebb séta érdekében.",
+            "ro": "Relaxați-vă pe această porțiune de coastă liniștită, plină de pietricele, și aduceți încălțăminte de apă pentru o plimbare mult mai confortabilă pe țărm.",
+            "en": "Relax at this quiet, pebble-strewn coastal stretch where the waves gently lap the shore, and bring water shoes for a much more comfortable walk along the shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "La Caveia",
+            "hu": "La Caveia",
+            "ro": "La Caveia",
+            "en": "La Caveia"
+          },
+          "coords": [
+            14.821317,
+            38.548173
+          ],
+          "category": "cultural",
+          "arrive_at": "12:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie das lokale Kulturerbe an diesem traditionellen Ort, der Salinas Geschichte feiert, also prüfen Sie vorab den Zeitplan für handwerkliche Vorführungen.",
+            "hu": "Fedezze fel a helyi kulturális örökséget ezen a hagyományos helyszínen, amely Salina történelmét ünnepli, ezért érdemes előre ellenőrizni a kézműves bemutatók időpontját.",
+            "ro": "Descoperiți moștenirea culturală locală la acest loc tradițional care celebrează istoria insulei Salina, așa că verificați din timp programul pentru demonstrații artizanale.",
+            "en": "Discover the local cultural heritage at this traditional venue which celebrates Salina's history, so check the schedule in advance for any artisan demonstrations."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Prà Venezia",
+            "hu": "Spiaggia di Prà Venezia",
+            "ro": "Spiaggia di Prà Venezia",
+            "en": "Spiaggia di Prà Venezia"
+          },
+          "coords": [
+            14.820392,
+            38.549483
+          ],
+          "category": "recreational",
+          "arrive_at": "13:55",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubenden Sonnenuntergänge an diesem schroffen Strand zwischen vulkanischen Klippen, aber packen Sie eigene Snacks ein, da es hier keine Anlagen gibt.",
+            "hu": "Élvezze a lenyűgöző naplementét erről a vulkáni sziklák között megbúvó, vadregényes strandról, de hozzon saját harapnivalót, mivel itt szinte nincsenek szolgáltatások.",
+            "ro": "Bucurați-vă de apusurile uimitoare de pe această plajă accidentată dintre stâncile vulcanice, dar aduceți propriile gustări deoarece facilitățile sunt practic inexistente.",
+            "en": "Enjoy the stunning sunset views from this rugged beach nestled between volcanic cliffs, but pack your own snacks and drinks as facilities are practically nonexistent here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am Meer auf dem einzigartigen Vulkansand der Spiaggia di Rinella. Mittags geht es durch das Dorf vorbei an der pastellfarbenen Chiesa di San Gaetano zur Spiaggia della Nonna. Der Nachmittag lädt zu kulturellen Entdeckungen in La Caveia ein. Der Abend endet an der Spiaggia di Prà Venezia mit einem unvergesslichen Sonnenuntergang.",
+        "hu": "A reggel a tengerparton, a Spiaggia di Rinella egyedi vulkáni homokjánál kezdődik. A dél az apró falun és a pasztellszínű Chiesa di San Gaetano-n át a csendes Spiaggia della Nonna felé vezet. A délután kulturális felfedezésre csábít a La Caveia-nál. Az este a Spiaggia di Prà Venezia szikláinál zárul egy felejthetetlen, vadregényes naplementével.",
+        "ro": "Dimineața începe la malul mării pe nisipul vulcanic unic de la Spiaggia di Rinella. Amiaza te poartă prin sat pe lângă pastelata Chiesa di San Gaetano spre liniștita Spiaggia della Nonna. După-amiaza te invită la descoperiri culturale la La Caveia. Seara se încheie la Spiaggia di Prà Venezia cu un apus de coastă stâncos, absolut de neuitat.",
+        "en": "Morning begins by the sea at the unique volcanic sands of Spiaggia di Rinella. Midday brings you through the local village past the pastel-colored Chiesa di San Gaetano towards the quiet Spiaggia della Nonna. Afternoon invites cultural discovery at La Caveia. Evening wraps up at Spiaggia di Prà Venezia for a rugged, unforgettable coastal sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:14",
+      "total_km": 3.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Spiaggia di Rinella",
+            "hu": "Spiaggia di Rinella",
+            "ro": "Spiaggia di Rinella",
+            "en": "Spiaggia di Rinella"
+          },
+          "coords": [
+            14.829824,
+            38.547895
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie den schwarzen Vulkansand und die faszinierenden in den Fels gehauenen Höhlen, aber kommen Sie früh, um einen guten Platz am klaren Wasser zu sichern.",
+            "hu": "Fedezze fel a fekete vulkáni homokot és a sziklába vájt lenyűgöző barlangokat, de érkezzen korán, hogy jó helyet találjon a tiszta víz mellett.",
+            "ro": "Explorați nisipul vulcanic negru și peșterile fascinante săpate în stâncă, dar asigurați-vă că ajungeți devreme pentru a prinde un loc bun lângă apa limpede.",
+            "en": "Explore the black volcanic sand and the fascinating caves carved into the rock, but be sure to arrive early to secure a good spot near the clear water."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Gaetano",
+            "hu": "Chiesa di San Gaetano",
+            "ro": "Chiesa di San Gaetano",
+            "en": "Chiesa di San Gaetano"
+          },
+          "coords": [
+            14.827674,
+            38.548171
+          ],
+          "category": "religious",
+          "arrive_at": "10:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die einfache, aber elegante Pastellfassade dieser bezaubernden Inselkirche und denken Sie daran, sich bescheiden zu kleiden, wenn Sie morgens hineinschauen.",
+            "hu": "Csodálja meg ennek a bájos szigeti templomnak az egyszerű, de elegáns pasztell homlokzatát, és öltözzön szerényen, ha a délelőtti órákban szeretne bepillantani.",
+            "ro": "Admirați fațada pastelată simplă, dar elegantă a acestei biserici fermecătoare de pe insulă, și nu uitați să vă îmbrăcați decent dacă doriți să intrați dimineața.",
+            "en": "Admire the simple but elegant pastel facade of this charming island church, and remember to dress modestly if you plan to peek inside during the morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Santuario Madonna del Terzito",
+            "hu": "Santuario Madonna del Terzito",
+            "ro": "Santuario Madonna del Terzito",
+            "en": "Santuario Madonna del Terzito"
+          },
+          "coords": [
+            14.83273,
+            38.563334
+          ],
+          "category": "religious",
+          "arrive_at": "11:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie das älteste Marienheiligtum der Inselgruppe wegen seiner ruhigen Atmosphäre und nutzen Sie den schattigen Innenhof, um sich nach der Fahrt auszuruhen.",
+            "hu": "Látogasson el a szigetcsoport legrégebbi Mária-kegyhelyére a békés hangulat miatt, és használja az árnyékos udvart pihenésre a biciklizés után.",
+            "ro": "Vizitați cel mai vechi sanctuar marian din arhipelag pentru atmosfera sa senină și folosiți curtea umbrită pentru a vă odihni și a reumple sticla cu apă după plimbare.",
+            "en": "Visit the oldest Marian sanctuary in the archipelago to admire its serene atmosphere, and use the shaded courtyard to rest and refill your water bottle after the ride."
+          }
+        },
+        {
+          "name": {
+            "de": "View of Monte del Porri",
+            "hu": "View of Monte del Porri",
+            "ro": "View of Monte del Porri",
+            "en": "View of Monte del Porri"
+          },
+          "coords": [
+            14.843474,
+            38.555622
+          ],
+          "category": "natural",
+          "arrive_at": "12:03",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie das dramatische, kegelförmige Profil des erloschenen Vulkans und schieben Sie Ihr Fahrrad sicher von der engen Straße, bevor Sie Ihre Panoramabilder machen.",
+            "hu": "Csodálja meg a tájat uraló, kialudt vulkán drámai, kúp alakú profilját, és húzódjon le biztonságosan a keskeny útról a kerékpárral, mielőtt elkészítené a panorámaképeket.",
+            "ro": "Admirați profilul dramatic în formă de con al vulcanului stins ce domină peisajul și trageți bicicleta în siguranță de pe drumul îngust înainte de a face poze.",
+            "en": "Marvel at the dramatic, cone-shaped profile of the extinct volcano dominating the landscape, and pull your bike safely off the narrow road before snapping your panoramic photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Monte Fossa delle Felci",
+            "hu": "Monte Fossa delle Felci",
+            "ro": "Monte Fossa delle Felci",
+            "en": "Monte Fossa delle Felci"
+          },
+          "coords": [
+            14.845703,
+            38.55683
+          ],
+          "category": "natural",
+          "arrive_at": "12:29",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Wandern Sie auf den höchsten Gipfel der Äolischen Inseln, um das üppige Naturschutzgebiet zu erkunden, aber tragen Sie unbedingt feste Schuhe und eine leichte Windjacke.",
+            "hu": "Túrázzon fel a Lipari-szigetek legmagasabb csúcsára, hogy felfedezze buja természetvédelmi területét, de mindenképpen viseljen masszív cipőt és hozzon könnyű széldzsekit.",
+            "ro": "Urcați pe cel mai înalt vârf din Insulele Eoliene pentru a explora rezervația sa naturală luxuriantă, dar asigurați-vă că purtați încălțăminte solidă și o jachetă ușoară.",
+            "en": "Hike up to the highest peak in the Aeolian Islands to explore its lush crater nature reserve, but make sure to wear sturdy shoes and carry a lightweight windbreaker."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt an der Südküste und genießt die vulkanische Schönheit der Spiaggia di Rinella. Mittags radeln Sie an der Chiesa di San Gaetano vorbei zum zentralen Heiligtum. Der Nachmittag belohnt Ihre Mühen mit markanten Panoramen beim Blick auf den Monte del Porri. Der Abend bricht an, während Sie die üppigen Wege des Monte Fossa delle Felci erobern.",
+        "hu": "A reggel a déli parton indul, a Spiaggia di Rinella vulkáni szépségét élvezve. Délben fokozatot vált, miközben a Chiesa di San Gaetano mellett a központi szentély felé pedáloz. A délután fáradalmait a Monte del Porri kilátójának panorámája jutalmazza. Az este a Monte Fossa delle Felci buja ösvényeinek meghódításával közeleg.",
+        "ro": "Dimineața începe de-a lungul coastei de sud, bucurându-te de frumusețea vulcanică de la Spiaggia di Rinella. La amiază schimbi ritmul pedalând pe lângă Chiesa di San Gaetano spre sanctuarul central. După-amiaza te răsplătește cu panorame de la View of Monte del Porri. Seara coboară în timp ce cucerești traseele luxuriante de pe Monte Fossa delle Felci.",
+        "en": "Morning starts along the southern coast enjoying the volcanic beauty of Spiaggia di Rinella. Midday shifts gears as you pedal past Chiesa di San Gaetano toward the central sanctuary. Afternoon rewards your efforts with striking panoramas from the View of Monte del Porri. Evening descends as you conquer the lush trails of Monte Fossa delle Felci."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:51",
+      "total_km": 7.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Spiaggia di Rinella",
+            "hu": "Spiaggia di Rinella",
+            "ro": "Spiaggia di Rinella",
+            "en": "Spiaggia di Rinella"
+          },
+          "coords": [
+            14.829824,
+            38.547895
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie den schwarzen Vulkansand und die faszinierenden in den Fels gehauenen Höhlen, aber kommen Sie früh, um einen guten Platz am klaren Wasser zu sichern.",
+            "hu": "Fedezze fel a fekete vulkáni homokot és a sziklába vájt lenyűgöző barlangokat, de érkezzen korán, hogy jó helyet találjon a tiszta víz mellett.",
+            "ro": "Explorați nisipul vulcanic negru și peșterile fascinante săpate în stâncă, dar asigurați-vă că ajungeți devreme pentru a prinde un loc bun lângă apa limpede.",
+            "en": "Explore the black volcanic sand and the fascinating caves carved into the rock, but be sure to arrive early to secure a good spot near the clear water."
+          }
+        },
+        {
+          "name": {
+            "de": "Santuario Madonna del Terzito",
+            "hu": "Santuario Madonna del Terzito",
+            "ro": "Santuario Madonna del Terzito",
+            "en": "Santuario Madonna del Terzito"
+          },
+          "coords": [
+            14.83273,
+            38.563334
+          ],
+          "category": "religious",
+          "arrive_at": "10:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie das älteste Marienheiligtum der Inselgruppe wegen seiner ruhigen Atmosphäre und nutzen Sie den schattigen Innenhof, um sich nach der Fahrt auszuruhen.",
+            "hu": "Látogasson el a szigetcsoport legrégebbi Mária-kegyhelyére a békés hangulat miatt, és használja az árnyékos udvart pihenésre a biciklizés után.",
+            "ro": "Vizitați cel mai vechi sanctuar marian din arhipelag pentru atmosfera sa senină și folosiți curtea umbrită pentru a vă odihni și a reumple sticla cu apă după plimbare.",
+            "en": "Visit the oldest Marian sanctuary in the archipelago to admire its serene atmosphere, and use the shaded courtyard to rest and refill your water bottle after the ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa dell’Immacolata",
+            "hu": "Chiesa dell’Immacolata",
+            "ro": "Chiesa dell’Immacolata",
+            "en": "Chiesa dell’Immacolata"
+          },
+          "coords": [
+            14.835666,
+            38.578819
+          ],
+          "category": "religious",
+          "arrive_at": "11:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit, um die markante gelbe Fassade dieser Hügelkirche zu schätzen, und parken Sie etwas weiter die Straße hinunter, um enge Kurven zu meiden.",
+            "hu": "Szánjon egy percet ennek a dombtetőn álló templomnak a feltűnő sárga homlokzatára, és parkoljon egy kicsit lejjebb az utcán, hogy elkerülje Malfa legszűkebb kanyarjait.",
+            "ro": "Alocați un moment pentru a aprecia fațada galbenă și interiorul pașnic al acestei biserici, și parcați puțin mai jos pe stradă pentru a evita cele mai strânse curbe din Malfa.",
+            "en": "Take a moment to appreciate the striking yellow facade and peaceful interior of this hilltop church, and park slightly down the street to avoid the tightest corners in Malfa."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo eoliano dell'emigrazione",
+            "hu": "Museo eoliano dell'emigrazione",
+            "ro": "Museo eoliano dell'emigrazione",
+            "en": "Museo eoliano dell'emigrazione"
+          },
+          "coords": [
+            14.835369,
+            38.575015
+          ],
+          "category": "museum",
+          "arrive_at": "11:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem faszinierenden Museum in die ergreifenden Geschichten der Inselbewohner ein, die nach Amerika auswanderten, und hinterlassen Sie eine kleine Spende.",
+            "hu": "Merüljön el az Amerikába kivándorolt helyi szigetlakók megható történeteiben ebben a lenyűgöző múzeumban, és hagyjon egy kis adományt a bejáratnál a fenntartás támogatására.",
+            "ro": "Aprofundați poveștile emoționante ale localnicilor care au plecat în America la acest muzeu fascinant, și lăsați o mică donație la intrare pentru a sprijini conservarea lui.",
+            "en": "Delve into the poignant stories of local islanders who left for the Americas at this fascinating museum, and leave a small donation at the entrance to support its preservation."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia dello Scarico",
+            "hu": "Spiaggia dello Scarico",
+            "ro": "Spiaggia dello Scarico",
+            "en": "Spiaggia dello Scarico"
+          },
+          "coords": [
+            14.834507,
+            38.5824
+          ],
+          "category": "recreational",
+          "arrive_at": "13:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem bezaubernden Felsstrand mit kristallklarem Wasser zum Schnorcheln, und tragen Sie Ihre Ausrüstung in einem Rucksack, da der Weg steil ist.",
+            "hu": "Kapcsolódjon ki ezen a kristálytiszta vizű, sziklás strandon, amely tökéletes sznorkelezéshez, és vigye felszerelését hátizsákban, mivel a lefelé vezető út kissé meredek.",
+            "ro": "Relaxați-vă pe această plajă stâncoasă cu ape cristaline perfecte pentru snorkeling, și cărați echipamentul într-un rucsac ușor deoarece poteca de coborâre este puțin abruptă.",
+            "en": "Unwind at this charming rocky beach known for its crystal-clear waters perfect for snorkeling, and carry your gear in a lightweight backpack as the path down is a bit steep."
+          }
+        },
+        {
+          "name": {
+            "de": "Pizzo Capo",
+            "hu": "Pizzo Capo",
+            "ro": "Pizzo Capo",
+            "en": "Pizzo Capo"
+          },
+          "coords": [
+            14.85948,
+            38.574929
+          ],
+          "category": "natural",
+          "arrive_at": "14:56",
+          "stay_min": 55,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Fahren Sie zu dieser schroffen östlichen Landzunge für weite Meerblicke bis zu den Nachbarinseln, und kommen Sie kurz vor Sonnenuntergang für die besten Lichtverhältnisse.",
+            "hu": "Vezessen ehhez a zord keleti hegyfokhoz a környező szigetekre nyíló elsöprő tengeri kilátásért, és érkezzen közvetlenül naplemente előtt a legdrámaibb fényviszonyokhoz.",
+            "ro": "Conduceți spre acest promontoriu estic pentru o vedere vastă spre mare până la insulele învecinate, și ajungeți chiar înainte de apus pentru a prinde cea mai dramatică lumină.",
+            "en": "Drive to this rugged eastern headland for sweeping sea vistas reaching across to the nearby islands, and arrive just before sunset to catch the most dramatic lighting conditions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen bietet einen ruhigen Start am schwarzen Sand der Spiaggia di Rinella vor einer malerischen Fahrt. Mittags verbindet sich das Inselzentrum mit dem Charme von Malfas Kirche. Der Nachmittag taucht im Auswanderungsmuseum in die bewegte Geschichte ein. Der Abend endet perfekt am Wasser an der Spiaggia dello Scarico und am Pizzo Capo.",
+        "hu": "A reggel békésen indul a Spiaggia di Rinella fekete homokjánál, mielőtt útnak indulna. A dél a sziget központjában lévő szentélyt köti össze a malfai templom történelmi bájával. A délután a kivándorlási múzeum megható helyi történeteibe merül. Az estét tökéletesen a víz mellett zárjuk a Spiaggia dello Scarico és a Pizzo Capo felfedezésével.",
+        "ro": "Dimineața oferă un început senin la nisipurile negre ale Spiaggia di Rinella înaintea unei plimbări pitorești. Amiaza leagă centrul insulei cu farmecul istoric al bisericii din Malfa. După-amiaza se scufundă în istoria emoționantă la muzeul emigrării. Seara se încheie perfect lângă apă la Spiaggia dello Scarico și la frumosul Pizzo Capo.",
+        "en": "Morning offers a serene start at the striking black sands of Spiaggia di Rinella before a scenic drive. Midday bridges the island's center at Madonna del Terzito with the historical charm of Malfa's church. Afternoon dives into moving local history at the emigration museum. Evening concludes perfectly by the water at Spiaggia dello Scarico and Pizzo Capo."
+      }
+    }
+  }
+}

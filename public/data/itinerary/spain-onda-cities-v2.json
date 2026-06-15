@@ -1,0 +1,451 @@
+{
+  "city_id": "spain-onda-cities-v2",
+  "anchor": {
+    "name": "Onda",
+    "coords": [
+      -0.263164,
+      39.964207
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:16",
+      "total_km": 1.33,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Església de la Sang",
+            "hu": "Església de la Sang",
+            "ro": "Església de la Sang",
+            "en": "Església de la Sang"
+          },
+          "coords": [
+            -0.261887,
+            39.963203
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Diese gotische Kirche mit ihrem beeindruckenden Portal aus dem 13. Jahrhundert ist ein historisches Juwel; kommen Sie früh, um das ruhige Licht im Inneren zu genießen.",
+            "hu": "Ez a 13. századi gótikus templom lenyűgöző portáljával igazi történelmi gyöngyszem; érkezzen korán, hogy megcsodálhassa a belső tér nyugodt, reggeli fényjátékát.",
+            "ro": "Această biserică gotică cu portalul său impresionant din secolul al XIII-lea este o bijuterie istorică; veniți devreme pentru a vă bucura de lumina matinală liniștită.",
+            "en": "This Gothic church with its striking 13th-century portal is a true historical gem; arrive early in the morning to fully appreciate the peaceful light inside the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Escaletes dels Gats",
+            "hu": "Escaletes dels Gats",
+            "ro": "Escaletes dels Gats",
+            "en": "Escaletes dels Gats"
+          },
+          "coords": [
+            -0.260883,
+            39.961908
+          ],
+          "category": "landmark",
+          "arrive_at": "09:53",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Diese malerische, traditionelle Katzentreppe bietet einen charmanten Aufstieg durch die Altstadt; tragen Sie bequeme Schuhe für die unebenen, historischen Steinstufen.",
+            "hu": "Ez a festői, hagyományos macskalépcső hangulatos emelkedőt kínál az óvárosban; viseljen kényelmes cipőt, mivel az egyenetlen történelmi kőlépcsők kissé csúszósak lehetnek.",
+            "ro": "Aceste scări pitorești, cunoscute drept treptele pisicilor, oferă o urcare fermecătoare; purtați încălțăminte comodă pentru a naviga în siguranță treptele vechi de piatră.",
+            "en": "These picturesque, traditional cat stairs offer a charming ascent through the old town; be sure to wear comfortable shoes for navigating the uneven, historical stone steps."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell d'Onda",
+            "hu": "Castell d'Onda",
+            "ro": "Castell d'Onda",
+            "en": "Castell d'Onda"
+          },
+          "coords": [
+            -0.259348,
+            39.962287
+          ],
+          "category": "historical",
+          "arrive_at": "10:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Die beeindruckende Burg der 300 Türme bietet einen Panoramablick über die Region; besuchen Sie das kleine Museum im Inneren, um die islamische Geschichte zu verstehen.",
+            "hu": "A 300 torony váraként ismert erődítmény lenyűgöző panorámát nyújt a vidékre; érdemes megnézni a kis belső múzeumot az iszlám történelem jobb megértése érdekében.",
+            "ro": "Cunoscut ca și castelul celor 300 de turnuri, acesta oferă o panoramă superbă; vizitați micul muzeu din interior pentru a explora fascinanta istorie islamică a regiunii.",
+            "en": "Known as the castle of 300 towers, this fortress offers sweeping panoramic views; make sure to check out the small inner museum to explore the region's Islamic history."
+          }
+        },
+        {
+          "name": {
+            "de": "Capella de Sant Vicent Ferrer",
+            "hu": "Capella de Sant Vicent Ferrer",
+            "ro": "Capella de Sant Vicent Ferrer",
+            "en": "Capella de Sant Vicent Ferrer"
+          },
+          "coords": [
+            -0.261772,
+            39.960807
+          ],
+          "category": "religious",
+          "arrive_at": "11:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Diese intime, wunderschön verzierte Kapelle ist ein friedlicher Ort der Reflexion; achten Sie auf die bunten Kacheln, die das traditionelle Handwerk von Onda zeigen.",
+            "hu": "Ez a meghitt, gazdagon díszített kápolna tökéletes hely a csendes elmélkedésre; figyelje meg a színes csempéket, amelyek Onda hagyományos kerámiaművészetét dicsérik.",
+            "ro": "Această capelă intimă și frumos decorată este un refugiu pașnic; acordați atenție plăcilor ceramice colorate care prezintă măiestria meșteșugărească locală din Onda.",
+            "en": "This intimate, beautifully decorated chapel provides a peaceful retreat for reflection; look closely at the colorful tiles that showcase Onda's traditional craftsmanship."
+          }
+        },
+        {
+          "name": {
+            "de": "El Musical",
+            "hu": "El Musical",
+            "ro": "El Musical",
+            "en": "El Musical"
+          },
+          "coords": [
+            -0.267086,
+            39.964217
+          ],
+          "category": "cultural",
+          "arrive_at": "12:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.59,
+          "tip_5lang": {
+            "de": "Dieses kulturelle Zentrum in einem historischen Gebäude ist das pulsierende Herz der Stadt; schauen Sie auf die Aushänge, um vielleicht eine lokale Probe mitzuerleben.",
+            "hu": "Ez a történelmi épületben működő kulturális központ a város lüktető szíve; érdemes vetni egy pillantást a hirdetőtáblára, hátha épp egy helyi próbába is belehallgathat.",
+            "ro": "Acest centru cultural situat într-o clădire istorică este inima vibrantă a orașului; verificați avizierul de la intrare pentru a vedea dacă puteți asista la o repetiție.",
+            "en": "This lively cultural hub housed in a historical building is the city's beating heart; check the notice board outside to see if you can catch a glimpse of a local rehearsal."
+          }
+        },
+        {
+          "name": {
+            "de": "Onda Natura",
+            "hu": "Onda Natura",
+            "ro": "Onda Natura",
+            "en": "Onda Natura"
+          },
+          "coords": [
+            -0.268508,
+            39.965265
+          ],
+          "category": "museum",
+          "arrive_at": "13:06",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Das interaktive Naturzentrum bringt Ihnen die lokale Flora und Fauna näher; nutzen Sie die interaktiven Displays, die besonders für Familien sehr empfehlenswert sind.",
+            "hu": "Ez az interaktív természeti központ bemutatja a helyi növény- és állatvilágot; próbálja ki a digitális kijelzőket, amelyek különösen családosok számára nyújtanak élményt.",
+            "ro": "Centrul interactiv al naturii vă apropie de flora și fauna locală; folosiți afișajele digitale moderne, care sunt deosebit de atractive și educative pentru familii.",
+            "en": "The interactive nature center brings the local flora and fauna to life; make sure to engage with the modern touch displays, which are highly recommended for families."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt im historischen Herzen von Onda, wo mittelalterliche Kirchen das Bild prägen. Gegen Mittag erklimmen wir die Stufen zur berühmten Burg mit ihren vielen Türmen. Der Nachmittag steht im Zeichen von Kultur und Handwerk in den alten Gassen. Am Abend lassen wir die Eindrücke bei einem Spaziergang zum Naturzentrum ausklingen.",
+        "hu": "A nap Onda történelmi központjában indul, ahol középkori templomok uralják a teret. Dél körül megmásszuk a híres, soktornyú vár felé vezető lépcsőket. A délután a kultúra és a helyi kézművesség jegyében telik az óváros kanyargós utcáin. Este egy kellemes sétával zárjuk a napot a modern természetvédelmi központ közelében.",
+        "ro": "Ziua începe în inima istorică a orașului Onda, dominată de biserici medievale. În jurul prânzului, urcăm treptele spre faimosul castel cu numeroasele sale turnuri. După-amiaza este dedicată culturii și meșteșugurilor pe străzile pitorești. Seara, ne relaxăm cu o plimbare spre centrul interactiv dedicat naturii locale.",
+        "en": "The day begins in the historical heart of Onda, where medieval churches dominate the scene. Around midday, we climb the charming steps up to the famous multi-towered castle. The afternoon is dedicated to culture and local craftsmanship in the old winding streets. In the evening, we wind down with a stroll towards the modern nature center."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:34",
+      "total_km": 2.53,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Onda Natura",
+            "hu": "Onda Natura",
+            "ro": "Onda Natura",
+            "en": "Onda Natura"
+          },
+          "coords": [
+            -0.268508,
+            39.965265
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Das interaktive Naturzentrum bringt Ihnen die lokale Flora und Fauna näher; nutzen Sie die interaktiven Displays, die besonders für Familien sehr empfehlenswert sind.",
+            "hu": "Ez az interaktív természeti központ bemutatja a helyi növény- és állatvilágot; próbálja ki a digitális kijelzőket, amelyek különösen családosok számára nyújtanak élményt.",
+            "ro": "Centrul interactiv al naturii vă apropie de flora și fauna locală; folosiți afișajele digitale moderne, care sunt deosebit de atractive și educative pentru familii.",
+            "en": "The interactive nature center brings the local flora and fauna to life; make sure to engage with the modern touch displays, which are highly recommended for families."
+          }
+        },
+        {
+          "name": {
+            "de": "El Musical",
+            "hu": "El Musical",
+            "ro": "El Musical",
+            "en": "El Musical"
+          },
+          "coords": [
+            -0.267086,
+            39.964217
+          ],
+          "category": "cultural",
+          "arrive_at": "10:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Dieses kulturelle Zentrum in einem historischen Gebäude ist das pulsierende Herz der Stadt; schauen Sie auf die Aushänge, um vielleicht eine lokale Probe mitzuerleben.",
+            "hu": "Ez a történelmi épületben működő kulturális központ a város lüktető szíve; érdemes vetni egy pillantást a hirdetőtáblára, hátha épp egy helyi próbába is belehallgathat.",
+            "ro": "Acest centru cultural situat într-o clădire istorică este inima vibrantă a orașului; verificați avizierul de la intrare pentru a vedea dacă puteți asista la o repetiție.",
+            "en": "This lively cultural hub housed in a historical building is the city's beating heart; check the notice board outside to see if you can catch a glimpse of a local rehearsal."
+          }
+        },
+        {
+          "name": {
+            "de": "Església de la Sang",
+            "hu": "Església de la Sang",
+            "ro": "Església de la Sang",
+            "en": "Església de la Sang"
+          },
+          "coords": [
+            -0.261887,
+            39.963203
+          ],
+          "category": "religious",
+          "arrive_at": "11:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Diese gotische Kirche mit ihrem beeindruckenden Portal aus dem 13. Jahrhundert ist ein historisches Juwel; kommen Sie früh, um das ruhige Licht im Inneren zu genießen.",
+            "hu": "Ez a 13. századi gótikus templom lenyűgöző portáljával igazi történelmi gyöngyszem; érkezzen korán, hogy megcsodálhassa a belső tér nyugodt, reggeli fényjátékát.",
+            "ro": "Această biserică gotică cu portalul său impresionant din secolul al XIII-lea este o bijuterie istorică; veniți devreme pentru a vă bucura de lumina matinală liniștită.",
+            "en": "This Gothic church with its striking 13th-century portal is a true historical gem; arrive early in the morning to fully appreciate the peaceful light inside the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell d'Onda",
+            "hu": "Castell d'Onda",
+            "ro": "Castell d'Onda",
+            "en": "Castell d'Onda"
+          },
+          "coords": [
+            -0.259348,
+            39.962287
+          ],
+          "category": "historical",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Die beeindruckende Burg der 300 Türme bietet einen Panoramablick über die Region; besuchen Sie das kleine Museum im Inneren, um die islamische Geschichte zu verstehen.",
+            "hu": "A 300 torony váraként ismert erődítmény lenyűgöző panorámát nyújt a vidékre; érdemes megnézni a kis belső múzeumot az iszlám történelem jobb megértése érdekében.",
+            "ro": "Cunoscut ca și castelul celor 300 de turnuri, acesta oferă o panoramă superbă; vizitați micul muzeu din interior pentru a explora fascinanta istorie islamică a regiunii.",
+            "en": "Known as the castle of 300 towers, this fortress offers sweeping panoramic views; make sure to check out the small inner museum to explore the region's Islamic history."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu del Taulell Manolo Safont",
+            "hu": "Museu del Taulell Manolo Safont",
+            "ro": "Museu del Taulell Manolo Safont",
+            "en": "Museu del Taulell Manolo Safont"
+          },
+          "coords": [
+            -0.273689,
+            39.961864
+          ],
+          "category": "museum",
+          "arrive_at": "13:42",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.23,
+          "tip_5lang": {
+            "de": "Dieses Museum feiert Ondas berühmte Keramik- und Fliesenindustrie; nehmen Sie sich Zeit für die riesige Sammlung moderner und historischer Fliesen im Erdgeschoss.",
+            "hu": "Ez a múzeum Onda híres kerámia- és csempeiparát ünnepli; szánjon elegendő időt a földszinten található, modern és történelmi csempékből álló hatalmas gyűjteményre.",
+            "ro": "Acest muzeu celebrează faimoasa industrie a ceramicii din Onda; alocați-vă timp suficient pentru a admira colecția masivă de plăci istorice și moderne de la parter.",
+            "en": "This fascinating museum celebrates Onda's famous ceramic and tile industry; take your time to admire the massive collection of modern and historical tiles on the ground floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Convent del Carme",
+            "hu": "Convent del Carme",
+            "ro": "Convent del Carme",
+            "en": "Convent del Carme"
+          },
+          "coords": [
+            -0.27821,
+            39.960121
+          ],
+          "category": "religious",
+          "arrive_at": "15:24",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Das ruhige Klostergelände lädt zu einem friedlichen Spaziergang ein; bewundern Sie die architektonischen Details des Kreuzgangs, der eine meditative Atmosphäre schafft.",
+            "hu": "A csendes kolostor területe békés sétára csábít; csodálja meg a kerengő finom építészeti részleteit, amelyek igazán meditatív és megnyugtató légkört teremtenek.",
+            "ro": "Terenul liniștit al mănăstirii invită la o plimbare pașnică; admirați detaliile arhitecturale fine ale curții interioare, care creează o atmosferă profund meditativă.",
+            "en": "The tranquil convent grounds invite you for a truly peaceful stroll; admire the fine architectural details of the inner cloister which creates a deeply meditative atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir starten schwungvoll am Naturzentrum und radeln durch das pulsierende kulturelle Zentrum. Mittags erkunden wir das Herz der Altstadt und die majestätische Burganlage. Am Nachmittag fahren wir gemütlich zum berühmten Fliesenmuseum der Stadt. Der Tag endet entspannt an den friedlichen Mauern des alten Karmeliterklosters im Westen.",
+        "hu": "Lendületesen indulunk a természeti központtól, majd áttekerünk a város kulturális negyedén. Délben az óváros szívét és a fenséges várkomplexumot fedezzük fel. Délután kényelmesen elkarikázunk a híres csempemúzeumhoz. A nap egy pihentető látogatással zárul a nyugati részen található, békés karmelita kolostor falai között.",
+        "ro": "Începem energic la centrul naturii și pedalăm prin inima culturală a orașului. La prânz, explorăm centrul vechi și fortăreața impunătoare a castelului. După-amiaza, mergem cu bicicleta spre faimosul muzeu de ceramică și faianță. Ziua se încheie liniștit lângă zidurile pașnice ale vechii mănăstiri carmelite din vestul orașului.",
+        "en": "We kick off with an energetic start at the nature center and pedal through the cultural hub. Midday sees us exploring the old town's heart and the majestic castle complex. In the afternoon, we take a leisurely ride down to the famous local tile museum. The day ends peacefully by the walls of the old Carmelite convent in the west."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:29",
+      "total_km": 2.89,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Convent de Santa Caterina",
+            "hu": "Convent de Santa Caterina",
+            "ro": "Convent de Santa Caterina",
+            "en": "Convent de Santa Caterina"
+          },
+          "coords": [
+            -0.253609,
+            39.9528
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Die beeindruckenden Ruinen dieses alten Klosters sind fotografisch reizvoll; besuchen Sie den Ort am späten Nachmittag, wenn das warme Licht die alten Steine erhellt.",
+            "hu": "Ennek a régi kolostornak a lenyűgöző romjai kiváló fotós témát kínálnak; látogasson el ide késő délután, amikor a meleg napfény gyönyörűen megvilágítja a köveket.",
+            "ro": "Ruinele impresionante ale acestei vechi mănăstiri sunt un subiect fotografic excelent; vizitați locația după-amiaza târziu când lumina caldă îmbrățișează pietrele vechi.",
+            "en": "The striking ruins of this ancient convent provide an excellent photographic subject; visit the site in the late afternoon when the warm sunlight beautifully illuminates the stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Castell d'Onda",
+            "hu": "Castell d'Onda",
+            "ro": "Castell d'Onda",
+            "en": "Castell d'Onda"
+          },
+          "coords": [
+            -0.259348,
+            39.962287
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.16,
+          "tip_5lang": {
+            "de": "Die beeindruckende Burg der 300 Türme bietet einen Panoramablick über die Region; besuchen Sie das kleine Museum im Inneren, um die islamische Geschichte zu verstehen.",
+            "hu": "A 300 torony váraként ismert erődítmény lenyűgöző panorámát nyújt a vidékre; érdemes megnézni a kis belső múzeumot az iszlám történelem jobb megértése érdekében.",
+            "ro": "Cunoscut ca și castelul celor 300 de turnuri, acesta oferă o panoramă superbă; vizitați micul muzeu din interior pentru a explora fascinanta istorie islamică a regiunii.",
+            "en": "Known as the castle of 300 towers, this fortress offers sweeping panoramic views; make sure to check out the small inner museum to explore the region's Islamic history."
+          }
+        },
+        {
+          "name": {
+            "de": "Església de la Sang",
+            "hu": "Església de la Sang",
+            "ro": "Església de la Sang",
+            "en": "Església de la Sang"
+          },
+          "coords": [
+            -0.261887,
+            39.963203
+          ],
+          "category": "religious",
+          "arrive_at": "11:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Diese gotische Kirche mit ihrem beeindruckenden Portal aus dem 13. Jahrhundert ist ein historisches Juwel; kommen Sie früh, um das ruhige Licht im Inneren zu genießen.",
+            "hu": "Ez a 13. századi gótikus templom lenyűgöző portáljával igazi történelmi gyöngyszem; érkezzen korán, hogy megcsodálhassa a belső tér nyugodt, reggeli fényjátékát.",
+            "ro": "Această biserică gotică cu portalul său impresionant din secolul al XIII-lea este o bijuterie istorică; veniți devreme pentru a vă bucura de lumina matinală liniștită.",
+            "en": "This Gothic church with its striking 13th-century portal is a true historical gem; arrive early in the morning to fully appreciate the peaceful light inside the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu del Taulell Manolo Safont",
+            "hu": "Museu del Taulell Manolo Safont",
+            "ro": "Museu del Taulell Manolo Safont",
+            "en": "Museu del Taulell Manolo Safont"
+          },
+          "coords": [
+            -0.273689,
+            39.961864
+          ],
+          "category": "museum",
+          "arrive_at": "12:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.01,
+          "tip_5lang": {
+            "de": "Dieses Museum feiert Ondas berühmte Keramik- und Fliesenindustrie; nehmen Sie sich Zeit für die riesige Sammlung moderner und historischer Fliesen im Erdgeschoss.",
+            "hu": "Ez a múzeum Onda híres kerámia- és csempeiparát ünnepli; szánjon elegendő időt a földszinten található, modern és történelmi csempékből álló hatalmas gyűjteményre.",
+            "ro": "Acest muzeu celebrează faimoasa industrie a ceramicii din Onda; alocați-vă timp suficient pentru a admira colecția masivă de plăci istorice și moderne de la parter.",
+            "en": "This fascinating museum celebrates Onda's famous ceramic and tile industry; take your time to admire the massive collection of modern and historical tiles on the ground floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Carmen",
+            "hu": "Museo del Carmen",
+            "ro": "Museo del Carmen",
+            "en": "Museo del Carmen"
+          },
+          "coords": [
+            -0.279132,
+            39.960733
+          ],
+          "category": "museum",
+          "arrive_at": "14:19",
+          "stay_min": 130,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Ein faszinierendes naturhistorisches Museum in historischen Mauern; die Ausstellung seltener Fossilien ist ein Highlight, also planen Sie etwas mehr Zeit dafür ein.",
+            "hu": "Lenyűgöző természettudományi múzeum történelmi falak között; a ritka kövületek kiállítása igazi fénypont, ezért érdemes kicsit több időt rászánni a megtekintésére.",
+            "ro": "Un muzeu fascinant de istorie naturală între ziduri istorice; expoziția de fosile rare este atracția principală, așa că planificați mai mult timp pentru a o explora.",
+            "en": "A fascinating natural history museum set within historical walls; the exhibition of rare fossils is a major highlight, so be sure to allocate a little extra time for it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen wir morgens bequem das etwas abgelegene Katharinenkloster. Danach parken wir in der Nähe der Burg, um das Zentrum und die historische Kirche zu besichtigen. Der Nachmittag ist ganz der weltbekannten Keramik- und Fliesenkunst im großen Museum gewidmet. Den Abschluss bildet das Naturkundemuseum im Klosterkomplex.",
+        "hu": "Autóval kényelmesen elérjük a kissé távolabb fekvő Katalin-kolostort a reggeli órákban. Ezután a vár közelében parkolunk le, hogy felfedezzük a központot és a történelmi templomot. A délutánt teljesen a világhírű kerámia- és csempeművészetnek szenteljük a múzeumban. A napot a kolostorkomplexumban lévő természettudományi múzeum zárja.",
+        "ro": "Cu mașina, ajungem confortabil dimineața la mănăstirea Sfânta Ecaterina, aflată mai la periferie. Apoi parcăm lângă castel pentru a explora centrul și biserica istorică. După-amiaza este dedicată în întregime artei ceramice de renume mondial la muzeul mare. Turul se încheie la muzeul de istorie naturală din complexul monastic.",
+        "en": "By car, we easily reach the slightly out-of-the-way Saint Catherine's convent in the morning. We then park near the castle to explore the town center and the historic church. The afternoon is entirely devoted to the world-renowned ceramic and tile art at the large museum. We conclude our tour at the natural history museum in the monastic complex."
+      }
+    }
+  }
+}

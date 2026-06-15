@@ -1,0 +1,520 @@
+{
+  "city_id": "pierrelatte",
+  "anchor": {
+    "name": "Pierrelatte",
+    "coords": [
+      4.6961,
+      44.3775
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:33",
+      "total_km": 0.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Tour de l'Horloge",
+            "hu": "Tour de l'Horloge",
+            "ro": "Tour de l'Horloge",
+            "en": "Tour de l'Horloge"
+          },
+          "coords": [
+            4.696697,
+            44.377158
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den historischen Uhrturm, das Wahrzeichen der Stadt, und achten Sie auf die kunstvollen Details der Uhr, ideal für ein schnelles Foto am Morgen.",
+            "hu": "Csodálja meg a történelmi óratornyot, a város szimbólumát, és figyelje meg az óra művészi részleteit, ami ideális egy gyors reggeli fotó elkészítéséhez.",
+            "ro": "Admirați turnul istoric cu ceas, simbolul orașului, și observați detaliile artistice ale cadranului, fiind locul ideal pentru o fotografie rapidă dimineața.",
+            "en": "Admire the historic clock tower, the defining symbol of the city, and note the ornate details of its dial, making it ideal for a quick morning photograph."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Jean-Baptiste",
+            "hu": "Église Saint-Jean-Baptiste",
+            "ro": "Église Saint-Jean-Baptiste",
+            "en": "Église Saint-Jean-Baptiste"
+          },
+          "coords": [
+            4.697753,
+            44.376887
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese friedliche Kirche, die für ihre schlichte, aber elegante Architektur bekannt ist, und nehmen Sie sich Zeit für einen Moment der Stille.",
+            "hu": "Látogassa meg ezt a békés templomot, amely egyszerű, mégis elegáns építészetéről ismert, és szánjon egy kis időt a csendes elmélkedésre a hűvös belső térben.",
+            "ro": "Vizitați această biserică liniștită, recunoscută pentru arhitectura sa simplă, dar elegantă, și acordați-vă un moment de reflecție în interiorul răcoros.",
+            "en": "Visit this peaceful church, widely known for its simple yet highly elegant architecture, and take a moment to reflect quietly inside its cooling interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle des Pénitents",
+            "hu": "Chapelle des Pénitents",
+            "ro": "Chapelle des Pénitents",
+            "en": "Chapelle des Pénitents"
+          },
+          "coords": [
+            4.698482,
+            44.377358
+          ],
+          "category": "religious",
+          "arrive_at": "11:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die kleine Kapelle der Büßer mit ihrer faszinierenden lokalen Geschichte und besuchen Sie sie am späten Vormittag, wenn das Licht am besten einfällt.",
+            "hu": "Fedezze fel a bűnbánók kis kápolnáját és annak lenyűgöző helyi történelmét, amelyet a legjobb késő délelőtt meglátogatni, amikor a legszebbek a fényviszonyok.",
+            "ro": "Descoperiți mica capelă a penitenților cu istoria sa locală fascinantă și vizitați-o dimineața târziu, când lumina soarelui pătrunde cel mai frumos înăuntru.",
+            "en": "Discover the small chapel of the penitents with its fascinating local history, and visit late in the morning when the natural light penetrates most beautifully."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Rocher de Pierrelatte",
+            "hu": "Le Rocher de Pierrelatte",
+            "ro": "Le Rocher de Pierrelatte",
+            "en": "Le Rocher de Pierrelatte"
+          },
+          "coords": [
+            4.697587,
+            44.37801
+          ],
+          "category": "natural",
+          "arrive_at": "11:56",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diesen markanten Felsen für einen Panoramablick über die Stadt und tragen Sie festes Schuhwerk, da der kurze Aufstieg an einigen Stellen steil ist.",
+            "hu": "Mássza meg ezt a jellegzetes sziklát a városra nyíló panorámáért, és viseljen zárt cipőt, mivel a rövid kaptató néhány helyen meglehetősen meredek lehet.",
+            "ro": "Urcați pe această stâncă proeminentă pentru o vedere panoramică asupra orașului și purtați încălțăminte solidă, deoarece scurta ascensiune este abruptă pe alocuri.",
+            "en": "Climb this prominent rock formation for a stunning panoramic view of the town, and wear sturdy shoes as the short ascent can be surprisingly steep in some places."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Municipal Yvon Guéret",
+            "hu": "Musée Municipal Yvon Guéret",
+            "ro": "Musée Municipal Yvon Guéret",
+            "en": "Musée Municipal Yvon Guéret"
+          },
+          "coords": [
+            4.697267,
+            44.377676
+          ],
+          "category": "museum",
+          "arrive_at": "12:23",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem lokalen Museum tief in die Kultur von Pierrelatte ein und fragen Sie am Empfang unbedingt nach dem kostenlosen Audioguide für mehr Details.",
+            "hu": "Merüljön el Pierrelatte kultúrájában ebben a helyi múzeumban, és mindenképpen kérje a recepción az ingyenes audioguide-ot a további érdekességek megismeréséhez.",
+            "ro": "Pătrundeți în cultura din Pierrelatte la acest muzeu local și asigurați-vă că solicitați ghidul audio gratuit la recepție pentru detalii suplimentare fascinante.",
+            "en": "Delve deep into the local culture of Pierrelatte at this municipal museum, and be sure to ask at the reception desk for the free audio guide to learn more details."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens starten Sie am markanten Uhrturm im Herzen von Pierrelatte, gefolgt von einem Besuch der friedlichen Église Saint-Jean-Baptiste.\nGegen Mittag erkunden Sie die historische Chapelle des Pénitents und genießen die ruhige Atmosphäre der Altstadtgassen.\nNachmittags erklimmen Sie den markanten Rocher de Pierrelatte für einen großartigen Ausblick auf das umliegende Rhonetal.\nDen Tag lassen Sie entspannt im Musée Municipal Yvon Guéret ausklingen, wo Sie tief in die Kultur und Geschichte der Region eintauchen.",
+        "hu": "A napot Pierrelatte szívében, a jellegzetes óratoronynál kezdi, majd ellátogat a békés Église Saint-Jean-Baptiste templomba.\nDél körül felfedezi a történelmi Chapelle des Pénitents kápolnát, és élvezi az óváros szűk, hangulatos utcáinak nyugalmát.\nDélután megmássza a híres Rocher de Pierrelatte sziklát, ahonnan csodálatos kilátás nyílik a környező Rhône-völgyre és a városra.\nAz estét a helyi Musée Municipal Yvon Guéret felfedezésével zárja, ahol elmélyülhet a régió gazdag kulturális örökségében és történelmében.",
+        "ro": "Dimineața începe la turnul cu ceas distinctiv din inima orașului Pierrelatte, urmat de o vizită la liniștita biserică Saint-Jean-Baptiste.\nLa prânz explorați istorica Chapelle des Pénitents și vă bucurați de atmosfera pașnică de pe străduțele fermecătoare ale orașului vechi.\nDupă-amiaza urcați pe faimoasa stâncă Rocher de Pierrelatte pentru a admira o priveliște panoramică superbă asupra văii Rhône-ului.\nSeara se încheie la Muzeul Municipal Yvon Guéret, unde veți descoperi istoria bogată și patrimoniul cultural fascinant al regiunii.",
+        "en": "Your morning begins at the distinctive clock tower in the heart of Pierrelatte, followed by a visit to the peaceful Saint-Jean-Baptiste church.\nAround midday, explore the historic Chapelle des Pénitents while enjoying the calming atmosphere of the old town's charming narrow streets.\nIn the afternoon, climb the famous Rocher de Pierrelatte to enjoy a breathtaking panoramic view of the town and the surrounding Rhône valley.\nYou conclude your walk at the Municipal Museum Yvon Guéret, diving deeply into the rich regional heritage and fascinating local history."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:36",
+      "total_km": 7.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Tour de l'Horloge",
+            "hu": "Tour de l'Horloge",
+            "ro": "Tour de l'Horloge",
+            "en": "Tour de l'Horloge"
+          },
+          "coords": [
+            4.696697,
+            44.377158
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den historischen Uhrturm, das Wahrzeichen der Stadt, und achten Sie auf die kunstvollen Details der Uhr, ideal für ein schnelles Foto am Morgen.",
+            "hu": "Csodálja meg a történelmi óratornyot, a város szimbólumát, és figyelje meg az óra művészi részleteit, ami ideális egy gyors reggeli fotó elkészítéséhez.",
+            "ro": "Admirați turnul istoric cu ceas, simbolul orașului, și observați detaliile artistice ale cadranului, fiind locul ideal pentru o fotografie rapidă dimineața.",
+            "en": "Admire the historic clock tower, the defining symbol of the city, and note the ornate details of its dial, making it ideal for a quick morning photograph."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Rocher de Pierrelatte",
+            "hu": "Le Rocher de Pierrelatte",
+            "ro": "Le Rocher de Pierrelatte",
+            "en": "Le Rocher de Pierrelatte"
+          },
+          "coords": [
+            4.697587,
+            44.37801
+          ],
+          "category": "natural",
+          "arrive_at": "10:31",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diesen markanten Felsen für einen Panoramablick über die Stadt und tragen Sie festes Schuhwerk, da der kurze Aufstieg an einigen Stellen steil ist.",
+            "hu": "Mássza meg ezt a jellegzetes sziklát a városra nyíló panorámáért, és viseljen zárt cipőt, mivel a rövid kaptató néhány helyen meglehetősen meredek lehet.",
+            "ro": "Urcați pe această stâncă proeminentă pentru o vedere panoramică asupra orașului și purtați încălțăminte solidă, deoarece scurta ascensiune este abruptă pe alocuri.",
+            "en": "Climb this prominent rock formation for a stunning panoramic view of the town, and wear sturdy shoes as the short ascent can be surprisingly steep in some places."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Municipal Yvon Guéret",
+            "hu": "Musée Municipal Yvon Guéret",
+            "ro": "Musée Municipal Yvon Guéret",
+            "en": "Musée Municipal Yvon Guéret"
+          },
+          "coords": [
+            4.697267,
+            44.377676
+          ],
+          "category": "museum",
+          "arrive_at": "10:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem lokalen Museum tief in die Kultur von Pierrelatte ein und fragen Sie am Empfang unbedingt nach dem kostenlosen Audioguide für mehr Details.",
+            "hu": "Merüljön el Pierrelatte kultúrájában ebben a helyi múzeumban, és mindenképpen kérje a recepción az ingyenes audioguide-ot a további érdekességek megismeréséhez.",
+            "ro": "Pătrundeți în cultura din Pierrelatte la acest muzeu local și asigurați-vă că solicitați ghidul audio gratuit la recepție pentru detalii suplimentare fascinante.",
+            "en": "Delve deep into the local culture of Pierrelatte at this municipal museum, and be sure to ask at the reception desk for the free audio guide to learn more details."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de Pignedoré",
+            "hu": "Lac de Pignedoré",
+            "ro": "Lac de Pignedoré",
+            "en": "Lac de Pignedoré"
+          },
+          "coords": [
+            4.67933,
+            44.36526
+          ],
+          "category": "recreational",
+          "arrive_at": "12:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am ruhigen See, der ideal für Wassersport oder Spaziergänge ist, und bringen Sie ein kleines Picknick mit, um die malerische Uferlandschaft zu genießen.",
+            "hu": "Pihenjen a nyugodt tóparton, amely ideális vízi sportokhoz vagy sétákhoz, és vigyen magával egy kis pikniket, hogy igazán élvezhesse a festői vízparti tájat.",
+            "ro": "Relaxați-vă pe malul lacului liniștit, ideal pentru sporturi acvatice sau plimbări, și aduceți un mic picnic pentru a vă bucura de peisajul pitoresc pe îndelete.",
+            "en": "Relax by the tranquil lake which is ideal for water sports or leisurely walks, and bring a small picnic to fully enjoy the highly picturesque waterfront scenery."
+          }
+        },
+        {
+          "name": {
+            "de": "La Ferme aux Crocodiles",
+            "hu": "La Ferme aux Crocodiles",
+            "ro": "La Ferme aux Crocodiles",
+            "en": "La Ferme aux Crocodiles"
+          },
+          "coords": [
+            4.704444,
+            44.356944
+          ],
+          "category": "natural",
+          "arrive_at": "14:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Erleben Sie Hunderte von Krokodilen in diesem riesigen Tropenhaus und versuchen Sie, pünktlich zu den Fütterungszeiten da zu sein, um viel Action zu sehen.",
+            "hu": "Csodáljon meg több száz krokodilt ebben a hatalmas trópusi házban, és próbáljon meg etetési időben érkezni, hogy igazán látványos és akciódús élményben legyen része.",
+            "ro": "Observați sute de crocodili în această seră tropicală imensă și încercați să ajungeți exact la orele de hrănire pentru a asista la un spectacol plin de acțiune.",
+            "en": "Observe hundreds of crocodiles inside this massive tropical greenhouse, and try to arrive exactly during feeding times for a highly action-packed viewing experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Espace touristique des Crocodiles",
+            "hu": "Espace touristique des Crocodiles",
+            "ro": "Espace touristique des Crocodiles",
+            "en": "Espace touristique des Crocodiles"
+          },
+          "coords": [
+            4.706111,
+            44.353658
+          ],
+          "category": "family",
+          "arrive_at": "15:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die familienfreundlichen Ausstellungen rund um Reptilien und nutzen Sie die interaktiven Stationen, die besonders für Kinder sehr lehrreich sind.",
+            "hu": "Élvezze a hüllőkkel kapcsolatos családbarát kiállításokat, és használja ki az interaktív állomásokat, amelyek különösen a gyerekek számára nagyon tanulságosak.",
+            "ro": "Bucurați-vă de expozițiile atractive pentru familii despre reptile și folosiți stațiile interactive, care sunt deosebit de educative și distractive pentru copii.",
+            "en": "Enjoy the family-friendly exhibitions focused on reptiles, and make full use of the interactive stations which are exceptionally educational for younger children."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Jean-Baptiste",
+            "hu": "Église Saint-Jean-Baptiste",
+            "ro": "Église Saint-Jean-Baptiste",
+            "en": "Église Saint-Jean-Baptiste"
+          },
+          "coords": [
+            4.697753,
+            44.376887
+          ],
+          "category": "religious",
+          "arrive_at": "17:26",
+          "stay_min": 70,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese friedliche Kirche, die für ihre schlichte, aber elegante Architektur bekannt ist, und nehmen Sie sich Zeit für einen Moment der Stille.",
+            "hu": "Látogassa meg ezt a békés templomot, amely egyszerű, mégis elegáns építészetéről ismert, és szánjon egy kis időt a csendes elmélkedésre a hűvös belső térben.",
+            "ro": "Vizitați această biserică liniștită, recunoscută pentru arhitectura sa simplă, dar elegantă, și acordați-vă un moment de reflecție în interiorul răcoros.",
+            "en": "Visit this peaceful church, widely known for its simple yet highly elegant architecture, and take a moment to reflect quietly inside its cooling interior."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Sie beginnen Ihre Radtour am historischen Uhrturm und fahren dann zügig zum Rocher, um den morgendlichen Panoramablick zu genießen.\nMittags besuchen Sie das städtische Museum, bevor Sie entspannt mit dem Fahrrad hinaus zum malerischen Lac de Pignedoré radeln.\nAm Nachmittag erwartet Sie das Highlight der Tour: die riesige Krokodilfarm und der angrenzende touristische Reptilienbereich.\nGegen Abend radeln Sie zurück ins Zentrum und beenden Ihre erlebnisreiche Tour an der Église Saint-Jean-Baptiste im weichen Abendlicht.",
+        "hu": "Kerékpártúráját a történelmi óratoronynál kezdi, majd gyorsan elteker a sziklához, hogy élvezze a csodálatos reggeli panorámát.\nDélben meglátogatja a városi múzeumot, majd kényelmesen kikerékpározik a festői szépségű Pignedoré-tó partjára egy kis pihenésre.\nDélután a túra fénypontja következik: a hatalmas krokodilfarm és a szomszédos turisztikai hüllőközpont lenyűgöző felfedezése.\nKora este visszateker a központba, és a mozgalmas napot az Église Saint-Jean-Baptiste templomnál zárja a lágy esti fényben.",
+        "ro": "Turul cu bicicleta începe la turnul istoric cu ceas, după care pedalați spre stâncă pentru a savura panorama superbă de dimineață.\nLa prânz vizitați muzeul municipal, apoi pedalați relaxat spre pitorescul lac Pignedoré pentru o pauză binemeritată în natură.\nDupă-amiaza vă așteaptă atracția principală a zilei: ferma uriașă de crocodili și zona turistică adiacentă dedicată reptilelor.\nSpre seară, vă întoarceți în centrul orașului și încheiați acest tur plin de evenimente la biserica Saint-Jean-Baptiste în lumina apusului.",
+        "en": "Your cycling tour starts at the historic clock tower, followed by a quick ride to the prominent rock for a fantastic morning panorama.\nAt midday, visit the municipal museum before enjoying a relaxing bike ride out to the highly picturesque Pignedoré lake for a break.\nThe afternoon brings the highlight of the trip: exploring the massive crocodile farm and the adjacent tourist reptile exhibition area.\nIn the evening, you cycle back to the historic center, ending your eventful day at the Saint-Jean-Baptiste church in the soft dusk light."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:54",
+      "total_km": 5.6,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Le Rocher de Pierrelatte",
+            "hu": "Le Rocher de Pierrelatte",
+            "ro": "Le Rocher de Pierrelatte",
+            "en": "Le Rocher de Pierrelatte"
+          },
+          "coords": [
+            4.697587,
+            44.37801
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diesen markanten Felsen für einen Panoramablick über die Stadt und tragen Sie festes Schuhwerk, da der kurze Aufstieg an einigen Stellen steil ist.",
+            "hu": "Mássza meg ezt a jellegzetes sziklát a városra nyíló panorámáért, és viseljen zárt cipőt, mivel a rövid kaptató néhány helyen meglehetősen meredek lehet.",
+            "ro": "Urcați pe această stâncă proeminentă pentru o vedere panoramică asupra orașului și purtați încălțăminte solidă, deoarece scurta ascensiune este abruptă pe alocuri.",
+            "en": "Climb this prominent rock formation for a stunning panoramic view of the town, and wear sturdy shoes as the short ascent can be surprisingly steep in some places."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Municipal Yvon Guéret",
+            "hu": "Musée Municipal Yvon Guéret",
+            "ro": "Musée Municipal Yvon Guéret",
+            "en": "Musée Municipal Yvon Guéret"
+          },
+          "coords": [
+            4.697267,
+            44.377676
+          ],
+          "category": "museum",
+          "arrive_at": "09:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem lokalen Museum tief in die Kultur von Pierrelatte ein und fragen Sie am Empfang unbedingt nach dem kostenlosen Audioguide für mehr Details.",
+            "hu": "Merüljön el Pierrelatte kultúrájában ebben a helyi múzeumban, és mindenképpen kérje a recepción az ingyenes audioguide-ot a további érdekességek megismeréséhez.",
+            "ro": "Pătrundeți în cultura din Pierrelatte la acest muzeu local și asigurați-vă că solicitați ghidul audio gratuit la recepție pentru detalii suplimentare fascinante.",
+            "en": "Delve deep into the local culture of Pierrelatte at this municipal museum, and be sure to ask at the reception desk for the free audio guide to learn more details."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour de l'Horloge",
+            "hu": "Tour de l'Horloge",
+            "ro": "Tour de l'Horloge",
+            "en": "Tour de l'Horloge"
+          },
+          "coords": [
+            4.696697,
+            44.377158
+          ],
+          "category": "historical",
+          "arrive_at": "11:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie den historischen Uhrturm, das Wahrzeichen der Stadt, und achten Sie auf die kunstvollen Details der Uhr, ideal für ein schnelles Foto am Morgen.",
+            "hu": "Csodálja meg a történelmi óratornyot, a város szimbólumát, és figyelje meg az óra művészi részleteit, ami ideális egy gyors reggeli fotó elkészítéséhez.",
+            "ro": "Admirați turnul istoric cu ceas, simbolul orașului, și observați detaliile artistice ale cadranului, fiind locul ideal pentru o fotografie rapidă dimineața.",
+            "en": "Admire the historic clock tower, the defining symbol of the city, and note the ornate details of its dial, making it ideal for a quick morning photograph."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle des Pénitents",
+            "hu": "Chapelle des Pénitents",
+            "ro": "Chapelle des Pénitents",
+            "en": "Chapelle des Pénitents"
+          },
+          "coords": [
+            4.698482,
+            44.377358
+          ],
+          "category": "religious",
+          "arrive_at": "12:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die kleine Kapelle der Büßer mit ihrer faszinierenden lokalen Geschichte und besuchen Sie sie am späten Vormittag, wenn das Licht am besten einfällt.",
+            "hu": "Fedezze fel a bűnbánók kis kápolnáját és annak lenyűgöző helyi történelmét, amelyet a legjobb késő délelőtt meglátogatni, amikor a legszebbek a fényviszonyok.",
+            "ro": "Descoperiți mica capelă a penitenților cu istoria sa locală fascinantă și vizitați-o dimineața târziu, când lumina soarelui pătrunde cel mai frumos înăuntru.",
+            "en": "Discover the small chapel of the penitents with its fascinating local history, and visit late in the morning when the natural light penetrates most beautifully."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Jean-Baptiste",
+            "hu": "Église Saint-Jean-Baptiste",
+            "ro": "Église Saint-Jean-Baptiste",
+            "en": "Église Saint-Jean-Baptiste"
+          },
+          "coords": [
+            4.697753,
+            44.376887
+          ],
+          "category": "religious",
+          "arrive_at": "13:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese friedliche Kirche, die für ihre schlichte, aber elegante Architektur bekannt ist, und nehmen Sie sich Zeit für einen Moment der Stille.",
+            "hu": "Látogassa meg ezt a békés templomot, amely egyszerű, mégis elegáns építészetéről ismert, és szánjon egy kis időt a csendes elmélkedésre a hűvös belső térben.",
+            "ro": "Vizitați această biserică liniștită, recunoscută pentru arhitectura sa simplă, dar elegantă, și acordați-vă un moment de reflecție în interiorul răcoros.",
+            "en": "Visit this peaceful church, widely known for its simple yet highly elegant architecture, and take a moment to reflect quietly inside its cooling interior."
+          }
+        },
+        {
+          "name": {
+            "de": "La Ferme aux Crocodiles",
+            "hu": "La Ferme aux Crocodiles",
+            "ro": "La Ferme aux Crocodiles",
+            "en": "La Ferme aux Crocodiles"
+          },
+          "coords": [
+            4.704444,
+            44.356944
+          ],
+          "category": "natural",
+          "arrive_at": "14:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Erleben Sie Hunderte von Krokodilen in diesem riesigen Tropenhaus und versuchen Sie, pünktlich zu den Fütterungszeiten da zu sein, um viel Action zu sehen.",
+            "hu": "Csodáljon meg több száz krokodilt ebben a hatalmas trópusi házban, és próbáljon meg etetési időben érkezni, hogy igazán látványos és akciódús élményben legyen része.",
+            "ro": "Observați sute de crocodili în această seră tropicală imensă și încercați să ajungeți exact la orele de hrănire pentru a asista la un spectacol plin de acțiune.",
+            "en": "Observe hundreds of crocodiles inside this massive tropical greenhouse, and try to arrive exactly during feeding times for a highly action-packed viewing experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Espace touristique des Crocodiles",
+            "hu": "Espace touristique des Crocodiles",
+            "ro": "Espace touristique des Crocodiles",
+            "en": "Espace touristique des Crocodiles"
+          },
+          "coords": [
+            4.706111,
+            44.353658
+          ],
+          "category": "family",
+          "arrive_at": "15:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die familienfreundlichen Ausstellungen rund um Reptilien und nutzen Sie die interaktiven Stationen, die besonders für Kinder sehr lehrreich sind.",
+            "hu": "Élvezze a hüllőkkel kapcsolatos családbarát kiállításokat, és használja ki az interaktív állomásokat, amelyek különösen a gyerekek számára nagyon tanulságosak.",
+            "ro": "Bucurați-vă de expozițiile atractive pentru familii despre reptile și folosiți stațiile interactive, care sunt deosebit de educative și distractive pentru copii.",
+            "en": "Enjoy the family-friendly exhibitions focused on reptiles, and make full use of the interactive stations which are exceptionally educational for younger children."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de Pignedoré",
+            "hu": "Lac de Pignedoré",
+            "ro": "Lac de Pignedoré",
+            "en": "Lac de Pignedoré"
+          },
+          "coords": [
+            4.67933,
+            44.36526
+          ],
+          "category": "recreational",
+          "arrive_at": "17:09",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie am ruhigen See, der ideal für Wassersport oder Spaziergänge ist, und bringen Sie ein kleines Picknick mit, um die malerische Uferlandschaft zu genießen.",
+            "hu": "Pihenjen a nyugodt tóparton, amely ideális vízi sportokhoz vagy sétákhoz, és vigyen magával egy kis pikniket, hogy igazán élvezhesse a festői vízparti tájat.",
+            "ro": "Relaxați-vă pe malul lacului liniștit, ideal pentru sporturi acvatice sau plimbări, și aduceți un mic picnic pentru a vă bucura de peisajul pitoresc pe îndelete.",
+            "en": "Relax by the tranquil lake which is ideal for water sports or leisurely walks, and bring a small picnic to fully enjoy the highly picturesque waterfront scenery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt mit einem Halt am markanten Felsen von Pierrelatte, gefolgt von einem inspirierenden Besuch im örtlichen Museum.\nMittags parken Sie im Zentrum, um den historischen Uhrturm und die friedlichen Kapellen und Kirchen der Altstadt zu Fuß zu erkunden.\nAm Nachmittag fahren Sie zur berühmten Krokodilfarm, wo Sie faszinierende Reptilien in einem riesigen, tropischen Umfeld erleben.\nDen Tag lassen Sie nach einer kurzen Fahrt entspannt am Lac de Pignedoré ausklingen, ideal für einen friedlichen Abendspaziergang.",
+        "hu": "Autós túrája Pierrelatte jellegzetes sziklájának megtekintésével indul, amelyet a helyi múzeum inspiráló kiállításainak meglátogatása követ.\nDélben leparkol a központban, hogy gyalogosan fedezze fel a történelmi óratornyot és az óváros békés kápolnáit és templomait.\nDélután a híres krokodilfarmhoz hajt, ahol lenyűgöző hüllőket figyelhet meg egy hatalmas, szépen kialakított trópusi környezetben.\nA napot egy rövid autózás után a Pignedoré-tó partján zárja, amely tökéletes helyszínt biztosít egy békés és pihentető esti sétához.",
+        "ro": "Excursia cu mașina începe cu o oprire la faimoasa stâncă din Pierrelatte, urmată de o vizită inspirată la muzeul local de istorie.\nLa prânz parcați în centru pentru a explora pe jos turnul istoric cu ceas și bisericile și capelele pașnice ale orașului vechi.\nDupă-amiaza conduceți spre celebra fermă de crocodili, unde veți vedea reptile fascinante într-un mediu tropical absolut uriaș.\nZiua se încheie după o scurtă deplasare cu o oprire relaxantă la lacul Pignedoré, locul ideal pentru o plimbare pașnică de seară.",
+        "en": "Your driving tour begins at the prominent rock of Pierrelatte, followed seamlessly by an inspiring visit to the local municipal museum.\nAt midday, park in the center to explore the historic clock tower and the peaceful chapels and churches of the old town on foot.\nIn the afternoon, drive out to the famous crocodile farm where you can observe fascinating reptiles in a massive tropical environment.\nYou conclude the day after a short drive with a relaxing stop at Pignedoré lake, the perfect location for a peaceful evening stroll."
+      }
+    }
+  }
+}

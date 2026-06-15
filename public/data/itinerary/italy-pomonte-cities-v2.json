@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-pomonte-cities-v2",
+  "anchor": {
+    "name": "Pomonte",
+    "coords": [
+      10.12187,
+      42.74901
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:59",
+      "total_km": 3.25,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di Santa Lucia Vergine e Martire",
+            "hu": "Chiesa di Santa Lucia Vergine e Martire",
+            "ro": "Chiesa di Santa Lucia Vergine e Martire",
+            "en": "Chiesa di Santa Lucia Vergine e Martire"
+          },
+          "coords": [
+            10.121312,
+            42.748571
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Schönheit dieser zentralen Pfarrkirche, das Herzstück des lokalen Lebens, und genießen Sie die friedliche Atmosphäre vor Ihrer Tour.",
+            "hu": "Csodálja meg a központi plébániatemplom egyszerű szépségét, amely a helyi élet szíve, és élvezze a békés légkört, mielőtt elkezdené az egész napos túrát.",
+            "ro": "Admirați frumusețea simplă a acestei biserici parohiale centrale, inima vieții locale, și bucurați-vă de atmosfera liniștită înainte de a începe aventura.",
+            "en": "Admire the simple beauty of this central parish church, the heart of local life, and take a moment to enjoy the peaceful atmosphere before starting your adventure."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Bartolomeo",
+            "hu": "Chiesa di San Bartolomeo",
+            "ro": "Chiesa di San Bartolomeo",
+            "en": "Chiesa di San Bartolomeo"
+          },
+          "coords": [
+            10.125946,
+            42.756789
+          ],
+          "category": "historical",
+          "arrive_at": "10:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesen faszinierenden mittelalterlichen Ruinen im Tal, um Pomontes antike Ursprünge zu verstehen, aber tragen Sie unbedingt festes Schuhwerk.",
+            "hu": "Túrázzon el a völgyben megbúvó lenyűgöző középkori romokhoz, hogy megismerje Pomonte ősi eredetét, de mindenképpen viseljen erős cipőt a sziklás ösvényhez.",
+            "ro": "Urcați la aceste ruine medievale fascinante din vale pentru a înțelege originile antice ale localității, dar purtați neapărat încălțăminte robustă pe traseu.",
+            "en": "Hike up to these fascinating medieval ruins nestled in the valley to understand Pomonte's ancient origins, but be sure to wear sturdy shoes for the rocky path."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Pomonte",
+            "hu": "Spiaggia di Pomonte",
+            "ro": "Spiaggia di Pomonte",
+            "en": "Spiaggia di Pomonte"
+          },
+          "coords": [
+            10.118797,
+            42.746673
+          ],
+          "category": "recreational",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf den glatten Kieseln dieses malerischen Dorfstrandes, wo das Tal auf das Meer trifft, und bringen Sie eine bequeme Matte zum Liegen mit.",
+            "hu": "Pihenjen meg a völgy és a tenger találkozásánál fekvő festői falu strandjának sima kavicsain, és hozzon magával egy kényelmes polifoamot a napozáshoz.",
+            "ro": "Relaxați-vă pe pietricelele netede ale acestei plaje pitorești din sat, unde valea întâlnește marea, și aduceți o saltea confortabilă pentru a sta la soare.",
+            "en": "Relax on the smooth pebbles of this picturesque village beach where the valley meets the sea, and bring a comfortable mat to lie on during the sunny afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia del Relitto",
+            "hu": "Spiaggia del Relitto",
+            "ro": "Spiaggia del Relitto",
+            "en": "Spiaggia del Relitto"
+          },
+          "coords": [
+            10.119545,
+            42.745678
+          ],
+          "category": "recreational",
+          "arrive_at": "13:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Schnorcheln Sie um das berühmte Elviscot-Schiffswrack im flachen Wasser vor der Küste, aber seien Sie früh dort, um einen guten Platz am kleinen Strand zu sichern.",
+            "hu": "Sznorkelezzen a part menti sekély vizekben nyugvó híres Elviscot hajóroncs körül, de érkezzen korán, hogy jó helyet találjon az apró kavicsos strandon.",
+            "ro": "Faceți snorkeling în jurul faimoasei epave Elviscot din apele puțin adânci, dar ajungeți devreme pentru a prinde un loc bun pe mica plajă cu pietriș.",
+            "en": "Snorkel around the famous Elviscot shipwreck resting in shallow waters just off the coast, but arrive early to secure a good spot on the tiny pebble beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Monte Schiappone",
+            "hu": "Monte Schiappone",
+            "ro": "Monte Schiappone",
+            "en": "Monte Schiappone"
+          },
+          "coords": [
+            10.1295,
+            42.745533
+          ],
+          "category": "natural",
+          "arrive_at": "14:29",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diesen markanten Küstenhügel für einen weiten Panoramablick auf das Tyrrhenische Meer, und bringen Sie viel Wasser mit, da es kaum Schatten gibt.",
+            "hu": "Másszon meg ezt a kiemelkedő tengerparti dombot a Tirrén-tengerre nyíló panorámáért, és vigyen magával sok vizet, mivel az ösvényen szinte egyáltalán nincs árnyék.",
+            "ro": "Urcați pe acest deal de coastă pentru vederi panoramice superbe asupra Mării Tireniene, aducând multă apă deoarece traseul oferă foarte puțină umbră.",
+            "en": "Climb this prominent coastal hill for sweeping panoramic views of the Tyrrhenian Sea and Corsica, bringing plenty of water as the trail offers very little shade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie im friedlichen Herzen von Pomonte an der Kirche, bevor Sie das Tal hinauf zu den historischen Ruinen von San Bartolomeo wandern.\nMittag: Kehren Sie zur Küste zurück, um sich auf den glatten Kieseln der Spiaggia di Pomonte zu entspannen und sich im kristallklaren Wasser zu erfrischen.\nNachmittag: Schlendern Sie an der Küste entlang zur Spiaggia del Relitto, wo das Schnorcheln über dem Elviscot-Wrack ein unvergessliches Erlebnis bietet.\nAbend: Beenden Sie das Abenteuer mit einer Wanderung auf den Monte Schiappone für ein spektakuläres Sonnenuntergangspanorama über dem Meer.",
+        "hu": "Reggel: Kezdje a napot Pomonte békés szívében a templomnál, mielőtt felsétálna a festői völgyben San Bartolomeo történelmi romjaihoz.\nDél: Térjen vissza a partvonalra, pihenjen meg a Spiaggia di Pomonte sima kavicsain, és frissítse fel magát a kristálytiszta tengerben.\nDélután: Sétáljon végig a parton a Spiaggia del Relitto-hoz, ahol az elsüllyedt Elviscot roncs feletti sznorkelezés felejthetetlen élményt nyújt.\nEste: Zárja a kalandot a Monte Schiappone megmászásával, ahonnan látványos naplementés panoráma nyílik a tengerre és a szigetvilágra.",
+        "ro": "Dimineața: Începeți ziua în inima liniștită a localității Pomonte la biserică, înainte de a urca pe valea pitorească pentru a descoperi ruinele San Bartolomeo.\nPrânz: Întoarceți-vă spre coastă pentru a vă relaxa pe pietricelele de la Spiaggia di Pomonte, luându-vă timp pentru o baie revigorantă în apele clare.\nDupă-amiaza: Plimbați-vă pe coastă până la Spiaggia del Relitto, unde snorkelingul deasupra epavei Elviscot oferă o experiență subacvatică de neuitat.\nSeara: Încheiați aventura cu o drumeție pe Monte Schiappone pentru o panoramă spectaculoasă la apus de soare deasupra mării.",
+        "en": "Morning: Start your day in the peaceful heart of Pomonte at the central church before heading up the scenic valley to discover the historic ruins of San Bartolomeo.\nMidday: Return towards the coastline to relax on the smooth pebbles of Spiaggia di Pomonte, taking time to refresh yourself in the crystal-clear waters.\nAfternoon: Stroll along the coastal edge to Spiaggia del Relitto, where snorkeling over the sunken Elviscot wreck provides an unforgettable underwater experience.\nEvening: Conclude the adventure by hiking up Monte Schiappone for a spectacular sunset panorama over the sea, bringing your memorable coastal walking tour to a perfect close."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:57",
+      "total_km": 6.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di Santa Lucia Vergine e Martire",
+            "hu": "Chiesa di Santa Lucia Vergine e Martire",
+            "ro": "Chiesa di Santa Lucia Vergine e Martire",
+            "en": "Chiesa di Santa Lucia Vergine e Martire"
+          },
+          "coords": [
+            10.121312,
+            42.748571
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Schönheit dieser zentralen Pfarrkirche, das Herzstück des lokalen Lebens, und genießen Sie die friedliche Atmosphäre vor Ihrer Tour.",
+            "hu": "Csodálja meg a központi plébániatemplom egyszerű szépségét, amely a helyi élet szíve, és élvezze a békés légkört, mielőtt elkezdené az egész napos túrát.",
+            "ro": "Admirați frumusețea simplă a acestei biserici parohiale centrale, inima vieții locale, și bucurați-vă de atmosfera liniștită înainte de a începe aventura.",
+            "en": "Admire the simple beauty of this central parish church, the heart of local life, and take a moment to enjoy the peaceful atmosphere before starting your adventure."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Bartolomeo",
+            "hu": "Chiesa di San Bartolomeo",
+            "ro": "Chiesa di San Bartolomeo",
+            "en": "Chiesa di San Bartolomeo"
+          },
+          "coords": [
+            10.125946,
+            42.756789
+          ],
+          "category": "historical",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesen faszinierenden mittelalterlichen Ruinen im Tal, um Pomontes antike Ursprünge zu verstehen, aber tragen Sie unbedingt festes Schuhwerk.",
+            "hu": "Túrázzon el a völgyben megbúvó lenyűgöző középkori romokhoz, hogy megismerje Pomonte ősi eredetét, de mindenképpen viseljen erős cipőt a sziklás ösvényhez.",
+            "ro": "Urcați la aceste ruine medievale fascinante din vale pentru a înțelege originile antice ale localității, dar purtați neapărat încălțăminte robustă pe traseu.",
+            "en": "Hike up to these fascinating medieval ruins nestled in the valley to understand Pomonte's ancient origins, but be sure to wear sturdy shoes for the rocky path."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Pomonte",
+            "hu": "Spiaggia di Pomonte",
+            "ro": "Spiaggia di Pomonte",
+            "en": "Spiaggia di Pomonte"
+          },
+          "coords": [
+            10.118797,
+            42.746673
+          ],
+          "category": "recreational",
+          "arrive_at": "11:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf den glatten Kieseln dieses malerischen Dorfstrandes, wo das Tal auf das Meer trifft, und bringen Sie eine bequeme Matte zum Liegen mit.",
+            "hu": "Pihenjen meg a völgy és a tenger találkozásánál fekvő festői falu strandjának sima kavicsain, és hozzon magával egy kényelmes polifoamot a napozáshoz.",
+            "ro": "Relaxați-vă pe pietricelele netede ale acestei plaje pitorești din sat, unde valea întâlnește marea, și aduceți o saltea confortabilă pentru a sta la soare.",
+            "en": "Relax on the smooth pebbles of this picturesque village beach where the valley meets the sea, and bring a comfortable mat to lie on during the sunny afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturist beach Le Tombe",
+            "hu": "Naturist beach Le Tombe",
+            "ro": "Naturist beach Le Tombe",
+            "en": "Naturist beach Le Tombe"
+          },
+          "coords": [
+            10.133266,
+            42.735545
+          ],
+          "category": "recreational",
+          "arrive_at": "12:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen abgelegenen, dunklen Kiesstrand, der für seine FKK-freundliche Atmosphäre bekannt ist, erreichbar über einen steilen, unbefestigten Abstieg.",
+            "hu": "Fedezze fel ezt az eldugott, naturista-barát légköréről ismert, sötét kavicsos strandot, amelyet egy meredek, burkolatlan és óvatosságot igénylő lejtőn érhet el.",
+            "ro": "Descoperiți această plajă retrasă cu pietriș închis, cunoscută pentru atmosfera naturistă, accesibilă printr-o coborâre abruptă care necesită multă prudență.",
+            "en": "Discover this secluded, unspoiled dark-pebble beach known for its naturist-friendly vibe, accessed via a steep, unpaved descent that requires careful footing."
+          }
+        },
+        {
+          "name": {
+            "de": "Monte Schiappone",
+            "hu": "Monte Schiappone",
+            "ro": "Monte Schiappone",
+            "en": "Monte Schiappone"
+          },
+          "coords": [
+            10.1295,
+            42.745533
+          ],
+          "category": "natural",
+          "arrive_at": "14:08",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diesen markanten Küstenhügel für einen weiten Panoramablick auf das Tyrrhenische Meer, und bringen Sie viel Wasser mit, da es kaum Schatten gibt.",
+            "hu": "Másszon meg ezt a kiemelkedő tengerparti dombot a Tirrén-tengerre nyíló panorámáért, és vigyen magával sok vizet, mivel az ösvényen szinte egyáltalán nincs árnyék.",
+            "ro": "Urcați pe acest deal de coastă pentru vederi panoramice superbe asupra Mării Tireniene, aducând multă apă deoarece traseul oferă foarte puțină umbră.",
+            "en": "Climb this prominent coastal hill for sweeping panoramic views of the Tyrrhenian Sea and Corsica, bringing plenty of water as the trail offers very little shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia del Relitto",
+            "hu": "Spiaggia del Relitto",
+            "ro": "Spiaggia del Relitto",
+            "en": "Spiaggia del Relitto"
+          },
+          "coords": [
+            10.119545,
+            42.745678
+          ],
+          "category": "recreational",
+          "arrive_at": "15:12",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Schnorcheln Sie um das berühmte Elviscot-Schiffswrack im flachen Wasser vor der Küste, aber seien Sie früh dort, um einen guten Platz am kleinen Strand zu sichern.",
+            "hu": "Sznorkelezzen a part menti sekély vizekben nyugvó híres Elviscot hajóroncs körül, de érkezzen korán, hogy jó helyet találjon az apró kavicsos strandon.",
+            "ro": "Faceți snorkeling în jurul faimoasei epave Elviscot din apele puțin adânci, dar ajungeți devreme pentru a prinde un loc bun pe mica plajă cu pietriș.",
+            "en": "Snorkel around the famous Elviscot shipwreck resting in shallow waters just off the coast, but arrive early to secure a good spot on the tiny pebble beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Radeln Sie vom charmanten Dorfzentrum zu den antiken Ruinen von San Bartolomeo und genießen Sie die frische Brise und die Atmosphäre.\nMittag: Fahren Sie hinab zur Küste zum Hauptstrand von Pomonte und radeln Sie dann nach Süden zum abgelegenen Naturstrand Le Tombe.\nNachmittag: Stellen Sie das Rad kurz ab, um die rauen Hänge des Monte Schiappone zu erkunden, die weite Ausblicke auf die felsige Tyrrhenische Küste bieten.\nAbend: Beenden Sie Ihren Radtag an der Spiaggia del Relitto, wo ein abendlicher Schnorchelgang rund um das Wrack von einem schönen Sonnenuntergang gekrönt wird.",
+        "hu": "Reggel: Kerékpározzon a falu hangulatos központjából a völgy felé, hogy felfedezze San Bartolomeo ősi romjait a friss szellő kíséretében.\nDél: Guruljon vissza a parthoz, nézze meg Pomonte fő strandját, majd tekerjen délre, hogy felfedezze a Le Tombe eldugott szépségét.\nDélután: Tegye le a kerékpárt, és fedezze fel a Monte Schiappone zord lejtőit, ahonnan lenyűgöző kilátás nyílik a Tirrén-tenger meredek partjára.\nEste: Fejezze be kerékpáros napját a Spiaggia del Relitto-nál, ahol az esti sznorkelezést a híres hajóroncs körül egy gyönyörű naplemente koronázza meg.",
+        "ro": "Dimineața: Bicicliți din centrul fermecător al satului spre ruinele antice din San Bartolomeo, bucurându-vă de briza proaspătă a văii și de istorie.\nPrânz: Coborâți spre coastă la plaja principală din Pomonte, apoi pedalați spre sud pentru a descoperi plaja retrasă și naturală Le Tombe.\nDupă-amiaza: Lăsați bicicleta pentru a explora pantele accidentate ale muntelui Schiappone, oferind priveliști ample asupra coastei stâncoase.\nSeara: Încheiați ziua de ciclism la Spiaggia del Relitto, unde snorkelingul seara în jurul epavei este urmat de un apus de soare superb pe insulă.",
+        "en": "Morning: Cycle from the charming village center up towards the ancient ruins of San Bartolomeo, enjoying the fresh valley breeze and historical atmosphere.\nMidday: Roll back down to the coast to experience the main Pomonte beach, then pedal south to discover the secluded, natural beauty of Le Tombe beach.\nAfternoon: Leave the bike briefly to explore the rugged slopes of Monte Schiappone, offering sweeping views of the dramatic Tyrrhenian coastline.\nEvening: End your cycling day at Spiaggia del Relitto, where an evening snorkel around the famous shipwreck is followed by a beautiful island sunset."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 6.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di Santa Lucia Vergine e Martire",
+            "hu": "Chiesa di Santa Lucia Vergine e Martire",
+            "ro": "Chiesa di Santa Lucia Vergine e Martire",
+            "en": "Chiesa di Santa Lucia Vergine e Martire"
+          },
+          "coords": [
+            10.121312,
+            42.748571
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Schönheit dieser zentralen Pfarrkirche, das Herzstück des lokalen Lebens, und genießen Sie die friedliche Atmosphäre vor Ihrer Tour.",
+            "hu": "Csodálja meg a központi plébániatemplom egyszerű szépségét, amely a helyi élet szíve, és élvezze a békés légkört, mielőtt elkezdené az egész napos túrát.",
+            "ro": "Admirați frumusețea simplă a acestei biserici parohiale centrale, inima vieții locale, și bucurați-vă de atmosfera liniștită înainte de a începe aventura.",
+            "en": "Admire the simple beauty of this central parish church, the heart of local life, and take a moment to enjoy the peaceful atmosphere before starting your adventure."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Pomonte",
+            "hu": "Spiaggia di Pomonte",
+            "ro": "Spiaggia di Pomonte",
+            "en": "Spiaggia di Pomonte"
+          },
+          "coords": [
+            10.118797,
+            42.746673
+          ],
+          "category": "recreational",
+          "arrive_at": "09:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf den glatten Kieseln dieses malerischen Dorfstrandes, wo das Tal auf das Meer trifft, und bringen Sie eine bequeme Matte zum Liegen mit.",
+            "hu": "Pihenjen meg a völgy és a tenger találkozásánál fekvő festői falu strandjának sima kavicsain, és hozzon magával egy kényelmes polifoamot a napozáshoz.",
+            "ro": "Relaxați-vă pe pietricelele netede ale acestei plaje pitorești din sat, unde valea întâlnește marea, și aduceți o saltea confortabilă pentru a sta la soare.",
+            "en": "Relax on the smooth pebbles of this picturesque village beach where the valley meets the sea, and bring a comfortable mat to lie on during the sunny afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Caprile della Collìca",
+            "hu": "Caprile della Collìca",
+            "ro": "Caprile della Collìca",
+            "en": "Caprile della Collìca"
+          },
+          "coords": [
+            10.140022,
+            42.745881
+          ],
+          "category": "historical",
+          "arrive_at": "11:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diese traditionellen steinernen Hirtenunterkünfte, die Elbas landwirtschaftliche Geschichte zeigen, idealerweise mit einer lokalen Wanderkarte.",
+            "hu": "Vizsgálja meg ezeket a hagyományos kőből épült pásztorszállásokat, amelyek Elba ősi mezőgazdasági történetét mutatják be, térképpel navigálva a vidéki terepen.",
+            "ro": "Examinați aceste adăposturi pastorale tradiționale din piatră care prezintă istoria agricolă a Elbei, cel mai bine vizitate cu o hartă pentru a naviga pe teren.",
+            "en": "Examine these traditional stone pastoral shelters that showcase Elba's ancient agricultural history, best visited with a local map to navigate the rural terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Caprile di Canoso",
+            "hu": "Caprile di Canoso",
+            "ro": "Caprile di Canoso",
+            "en": "Caprile di Canoso"
+          },
+          "coords": [
+            10.143074,
+            42.744121
+          ],
+          "category": "historical",
+          "arrive_at": "12:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie ein weiteres bemerkenswert gut erhaltenes Beispiel der lokalen Caprili-Architektur im Buschland, das hervorragende Fotomöglichkeiten im Morgenlicht bietet.",
+            "hu": "Fedezzen fel egy másik figyelemre méltóan jól megőrzött példányt a bozótosban megbúvó helyi caprili építészetből, amely kiváló fotózási lehetőségeket kínál.",
+            "ro": "Explorați un alt exemplu remarcabil de arhitectură caprili locală ascuns în tufișuri, care oferă oportunități excelente de fotografie în lumina blândă a dimineții.",
+            "en": "Explore another remarkably well-preserved example of local caprili architecture hidden in the scrubland, offering great photography opportunities in morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Monte Orlano",
+            "hu": "Monte Orlano",
+            "ro": "Monte Orlano",
+            "en": "Monte Orlano"
+          },
+          "coords": [
+            10.145665,
+            42.74638
+          ],
+          "category": "natural",
+          "arrive_at": "13:52",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Wandern Sie entlang der Granitkämme dieses rauen Gipfels, um die wildere Seite der Insellandschaft zu erleben, und nehmen Sie immer eine Windjacke mit.",
+            "hu": "Túrázzon e zord csúcs gránitgerincein, hogy megtapasztalja a sziget tájának vadabb oldalát, és még meleg nyári napokon is vigyen magával széldzsekit.",
+            "ro": "Faceți o drumeție pe crestele de granit ale acestui vârf accidentat pentru a experimenta latura sălbatică a insulei, având o geacă de vânt chiar și vara.",
+            "en": "Trek along the granite ridges of this rugged peak to experience the wilder side of the island's landscape, carrying a windbreaker even on warm summer days."
+          }
+        },
+        {
+          "name": {
+            "de": "Monte Cenno",
+            "hu": "Monte Cenno",
+            "ro": "Monte Cenno",
+            "en": "Monte Cenno"
+          },
+          "coords": [
+            10.152198,
+            42.749534
+          ],
+          "category": "natural",
+          "arrive_at": "14:54",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erreichen Sie den Gipfel für atemberaubende Ausblicke über den westlichen Archipel und achten Sie genau auf Ihren Weg, da die Pfade im Frühling zuwuchern können.",
+            "hu": "Érjen fel a csúcsra, ahonnan lélegzetelállító kilátás nyílik a nyugati szigetcsoportra, de gondosan kövesse az ösvényt, mivel az tavasszal gyakran benő.",
+            "ro": "Ajungeți în vârf pentru vederi uluitoare asupra arhipelagului vestic, având grijă să urmăriți cu atenție traseul, deoarece cărările se pot acoperi de vegetație.",
+            "en": "Reach the summit for breathtaking vistas over the western archipelago, making sure to track your trail carefully as the paths can become overgrown in spring."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia del Relitto",
+            "hu": "Spiaggia del Relitto",
+            "ro": "Spiaggia del Relitto",
+            "en": "Spiaggia del Relitto"
+          },
+          "coords": [
+            10.119545,
+            42.745678
+          ],
+          "category": "recreational",
+          "arrive_at": "16:00",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Schnorcheln Sie um das berühmte Elviscot-Schiffswrack im flachen Wasser vor der Küste, aber seien Sie früh dort, um einen guten Platz am kleinen Strand zu sichern.",
+            "hu": "Sznorkelezzen a part menti sekély vizekben nyugvó híres Elviscot hajóroncs körül, de érkezzen korán, hogy jó helyet találjon az apró kavicsos strandon.",
+            "ro": "Faceți snorkeling în jurul faimoasei epave Elviscot din apele puțin adânci, dar ajungeți devreme pentru a prinde un loc bun pe mica plajă cu pietriș.",
+            "en": "Snorkel around the famous Elviscot shipwreck resting in shallow waters just off the coast, but arrive early to secure a good spot on the tiny pebble beach."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Nach einem Halt an der Dorfkirche und dem Strand fahren Sie ins Landesinnere zum Caprile della Collìca und reisen in die Vergangenheit.\nMittag: Setzen Sie die historische Erkundung am Caprile di Canoso fort und bewundern Sie die traditionelle Architektur vor den Bergen.\nNachmittag: Parken Sie und wandern Sie auf den Monte Orlano und den Monte Cenno, um dramatische Granitlandschaften und Hochgebirgspanoramen zu erleben.\nAbend: Kehren Sie zur Küste zurück für ein entspanntes Finale an der Spiaggia del Relitto und beobachten Sie den Sonnenuntergang über dem berühmten Schiffswrack.",
+        "hu": "Reggel: A falu templomának és strandjának megtekintése után vezessen a sziget belseje felé a Caprile della Collìca-hoz, visszalépve az időben.\nDél: Folytassa a történelmi felfedezést a Caprile di Canoso-nál, megcsodálva a hagyományos kőépítészetet, mielőtt a hegyekbe menne.\nDélután: Parkoljon le, és túrázzon fel a Monte Orlano és Monte Cenno hegyekre, hogy megtapasztalja a drámai gránit tájakat és panorámákat.\nEste: Térjen vissza a partra egy pihentető fináléra a Spiaggia del Relitto-nál, nézve, ahogy a naplemente színei visszatükröződnek a roncs felett.",
+        "ro": "Dimineața: După o scurtă oprire la biserică și plajă, conduceți în interior pentru a explora Caprile della Collìca, întorcându-vă în timp.\nPrânz: Continuați explorarea istorică la Caprile di Canoso, minunându-vă de arhitectura tradițională din piatră înainte de a urca în munți.\nDupă-amiaza: Parcați și urcați pe Monte Orlano și Monte Cenno pentru a experimenta peisajele dramatice de granit și panoramele de mare altitudine.\nSeara: Întoarceți-vă pe coastă pentru un final relaxant la Spiaggia del Relitto, urmărind culorile apusului reflectându-se deasupra epavei.",
+        "en": "Morning: After a brief stop at the village church and the local beach, drive inland to explore the fascinating Caprile della Collìca, stepping back in time.\nMidday: Continue your historical exploration at Caprile di Canoso, marveling at the traditional stone architecture before heading deeper into the island's mountains.\nAfternoon: Park and hike up both Monte Orlano and Monte Cenno to experience the dramatic granite landscapes and breathtaking high-altitude panoramas.\nEvening: Return to the coast for a relaxing finale at Spiaggia del Relitto, watching the sunset colors reflect off the sea right above the famous sunken ship."
+      }
+    }
+  }
+}

@@ -1,0 +1,497 @@
+{
+  "city_id": "italy-monfalcone-cities-v2",
+  "anchor": {
+    "name": "Monfalcone",
+    "coords": [
+      13.53306,
+      45.80494
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:09",
+      "total_km": 1.91,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Duomo di Sant'Ambrogio",
+            "hu": "Duomo di Sant'Ambrogio",
+            "ro": "Duomo di Sant'Ambrogio",
+            "en": "Duomo di Sant'Ambrogio"
+          },
+          "coords": [
+            13.533725,
+            45.808467
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur dieser nach dem Krieg wiederaufgebauten Kathedrale und betrachten Sie die Mosaiken vor Beginn der Morgenmesse.",
+            "hu": "Csodálja meg ennek a háború után újjáépült modern katedrálisnak az építészetét, és nézze meg a mozaikos belső teret még a reggeli mise kezdete előtt.",
+            "ro": "Admirați arhitectura modernă a acestei catedrale reconstruite după război și priviți interioarele cu mozaic înainte să înceapă slujba de dimineață.",
+            "en": "Admire the striking modern architecture of this postwar cathedral rebuilt after WWII, and check the mosaic interior before mass begins in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa della Beata Vergine del Rosario",
+            "hu": "Chiesa della Beata Vergine del Rosario",
+            "ro": "Chiesa della Beata Vergine del Rosario",
+            "en": "Chiesa della Beata Vergine del Rosario"
+          },
+          "coords": [
+            13.530404,
+            45.808659
+          ],
+          "category": "religious",
+          "arrive_at": "09:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Betreten Sie diese ruhige Kirche, um ihre intime Atmosphäre und historischen Gemälde zu schätzen; achten Sie auf bescheidene Kleidung beim Rundgang.",
+            "hu": "Lépjen be ebbe a csendes templomba, hogy értékelje meghitt hangulatát és történelmi festményeit, de öltözzön szerényen a melléköltárok felfedezésekor.",
+            "ro": "Pășiți în această biserică liniștită pentru a-i aprecia atmosfera intimă și picturile istorice, purtând haine modeste când explorați altarele laterale.",
+            "en": "Step into this quiet church to appreciate its intimate atmosphere and historic paintings, making sure to dress modestly when exploring the side altars."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Comunale",
+            "hu": "Teatro Comunale",
+            "ro": "Teatro Comunale",
+            "en": "Teatro Comunale"
+          },
+          "coords": [
+            13.534283,
+            45.809582
+          ],
+          "category": "cultural",
+          "arrive_at": "10:39",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Betrachten Sie die elegante Fassade von Monfalcones wichtigstem Kulturzentrum und trinken Sie einen schnellen Espresso im nahegelegenen Theatercafé.",
+            "hu": "Tekintse meg Monfalcone fő kulturális központjának elegáns homlokzatát, és igyon egy gyors eszpresszót a közeli elegáns színházi kávézó teraszán.",
+            "ro": "Vizionați fațada elegantă a principalului centru cultural din Monfalcone și savurați un espresso rapid la cafeneaua teatrului aflată în apropiere.",
+            "en": "View the elegant facade of Monfalcone's main cultural hub, which hosts regional performances, and grab a quick espresso at the nearby theater cafe."
+          }
+        },
+        {
+          "name": {
+            "de": "Galleria Comunale d`Arte Contemporanea",
+            "hu": "Galleria Comunale d`Arte Contemporanea",
+            "ro": "Galleria Comunale d`Arte Contemporanea",
+            "en": "Galleria Comunale d`Arte Contemporanea"
+          },
+          "coords": [
+            13.531965,
+            45.810327
+          ],
+          "category": "museum",
+          "arrive_at": "11:42",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende zeitgenössische Kunstausstellungen lokaler Talente, aber vergessen Sie nicht, die saisonalen Öffnungszeiten zu überprüfen.",
+            "hu": "Fedezze fel a helyi és nemzetközi tehetségeket bemutató kortárs művészeti kiállításokat, de előzetesen mindig ellenőrizze a szezonális nyitvatartást.",
+            "ro": "Descoperiți expoziții de artă contemporană cu talente locale și internaționale, însă nu uitați să verificați online programul sezonier de vizitare.",
+            "en": "Discover intriguing contemporary art exhibitions showcasing local and international talent, but remember to verify the seasonal opening hours online."
+          }
+        },
+        {
+          "name": {
+            "de": "Rocca di Monfalcone",
+            "hu": "Rocca di Monfalcone",
+            "ro": "Rocca di Monfalcone",
+            "en": "Rocca di Monfalcone"
+          },
+          "coords": [
+            13.537529,
+            45.812232
+          ],
+          "category": "castle",
+          "arrive_at": "13:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Steigen Sie zu dieser mittelalterlichen Festung hinauf, um einen Panoramablick auf die Stadt zu genießen; tragen Sie feste Schuhe für den Aufstieg.",
+            "hu": "Másszon fel ehhez az ikonikus középkori erődhöz a városra nyíló panorámáért, és viseljen nagyon kényelmes, masszív cipőt a meredek emelkedő miatt.",
+            "ro": "Urcați la această fortăreață medievală pentru vederi panoramice superbe asupra orașului și Golfului Adriatic, purtând încălțăminte comodă pentru urcuș.",
+            "en": "Climb up to this iconic medieval fortress for sweeping panoramic views of the city and the Adriatic Gulf, wearing sturdy shoes for the steep ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Trincea Joffre e Grotta Vergine",
+            "hu": "Trincea Joffre e Grotta Vergine",
+            "ro": "Trincea Joffre e Grotta Vergine",
+            "en": "Trincea Joffre e Grotta Vergine"
+          },
+          "coords": [
+            13.543702,
+            45.808094
+          ],
+          "category": "museum",
+          "arrive_at": "14:59",
+          "stay_min": 130,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.66,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese tiefgreifenden Schützengräben aus dem Ersten Weltkrieg und bringen Sie eine leichte Jacke mit, da die Höhlen ziemlich kühl bleiben.",
+            "hu": "Fedezze fel ezeket az I. világháborús lövészárkokat és barlangokat a történelem megismeréséhez; hozzon kabátot, mert a barlangok meglehetősen hűvösek.",
+            "ro": "Explorați aceste tranșee și peșteri din Primul Război Mondial pentru o lecție de istorie, aducând o jachetă ușoară deoarece grotele sunt răcoroase.",
+            "en": "Explore these profound WWI trenches and caves that offer a sobering look at military history, bringing a light jacket as the caverns remain quite cool."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung des spirituellen und historischen Herzens von Monfalcone am Dom. Der Mittag bringt kulturelle Entdeckungen im Theater und der Kunstgalerie. Verbringen Sie den Nachmittag mit dem Aufstieg zur mittelalterlichen Rocca für einen Panoramablick. Beenden Sie den Spaziergang mit der Geschichte des Ersten Weltkriegs.",
+        "hu": "Kezdje a reggelt Monfalcone spirituális és történelmi szívének felfedezésével a Dómnál. A dél beálltával kulturális felfedezések várják a színházban és a kortárs művészeti galériában. Délután másszon fel az ikonikus középkori Roccához a hihetetlen panorámáért. Zárja a sétát az első világháború történelmében a Trincea Joffre lövészárkoknál.",
+        "ro": "Începeți dimineața explorând inima spirituală și istorică a orașului Monfalcone la Dom și bisericile din apropiere. La prânz veți descoperi teatrul și galeria de artă. Petreceți după-amiaza urcând la fortăreața medievală Rocca pentru vederi panoramice incredibile. Încheiați plimbarea cu o lecție de istorie la tranșeele Trincea Joffre.",
+        "en": "Start your morning exploring the spiritual and historical heart of Monfalcone at the Duomo and nearby churches. Midday brings cultural discoveries at the theater and the contemporary art gallery. Spend your afternoon hiking up to the iconic medieval Rocca for incredible panoramic views. Conclude your walk diving into WWI history at the Trincea Joffre trenches."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:20",
+      "total_km": 3.44,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Santuario Beata Vergine Marcelliana",
+            "hu": "Santuario Beata Vergine Marcelliana",
+            "ro": "Santuario Beata Vergine Marcelliana",
+            "en": "Santuario Beata Vergine Marcelliana"
+          },
+          "coords": [
+            13.529484,
+            45.799002
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses Marienheiligtum, das für sein spirituelles Erbe bekannt ist, und nehmen Sie sich einen Moment der Ruhe im angrenzenden Innenhof.",
+            "hu": "Látogasson el ebbe a jelentős Mária-kegyhelybe, amely mély spirituális örökségéről ismert, és töltsön el egy percet a csendes szomszédos udvaron.",
+            "ro": "Vizitați acest sanctuar marian semnificativ, recunoscut pentru moștenirea sa spirituală, și relaxați-vă preț de câteva clipe în curtea sa liniștită.",
+            "en": "Visit this significant Marian sanctuary known for its deep spiritual heritage, and take a moment of quiet reflection in the peaceful adjacent courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "MuCa - Museo della Cantieristica",
+            "hu": "MuCa - Museo della Cantieristica",
+            "ro": "MuCa - Museo della Cantieristica",
+            "en": "MuCa - Museo della Cantieristica"
+          },
+          "coords": [
+            13.536896,
+            45.794958
+          ],
+          "category": "museum",
+          "arrive_at": "09:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem interaktiven Museum in Monfalcones Schiffbautradition ein und beginnen Sie Ihren Besuch im Erdgeschoss entlang der Zeitachse.",
+            "hu": "Merüljön el Monfalcone hajóépítő örökségében ebben az interaktív múzeumban, és kezdje a látogatást a földszinten, hogy kövesse az idővonalat.",
+            "ro": "Pătrundeți în moștenirea navală a orașului la acest muzeu interactiv și începeți vizita la parter pentru a urmări cu atenție linia cronologică.",
+            "en": "Delve into Monfalcone's shipbuilding legacy at this interactive and fascinating museum, starting your visit on the ground floor to follow the timeline."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento ai dipendenti di Fincantieri caduti della Resistenza",
+            "hu": "Monumento ai dipendenti di Fincantieri caduti della Resistenza",
+            "ro": "Monumento ai dipendenti di Fincantieri caduti della Resistenza",
+            "en": "Monumento ai dipendenti di Fincantieri caduti della Resistenza"
+          },
+          "coords": [
+            13.536401,
+            45.796971
+          ],
+          "category": "historical",
+          "arrive_at": "11:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Erweisen Sie an diesem ergreifenden Denkmal für die Werftarbeiter der Résistance Ihren Respekt und verbinden Sie den Stopp mit dem Museumsbesuch.",
+            "hu": "Rója le tiszteletét az ellenállás hajógyári munkásainak szentelt emlékműnél, összekötve ezt a rövid megállót a múzeum izgalmas megtekintésével.",
+            "ro": "Prezentați-vă omagiile la acest memorial emoționant dedicat muncitorilor navali din Rezistență, combinând această oprire cu vizitarea muzeului.",
+            "en": "Pay your respects at this poignant memorial dedicated to shipyard workers of the Resistance, combining this quick stop with your visit to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Duomo di Sant'Ambrogio",
+            "hu": "Duomo di Sant'Ambrogio",
+            "ro": "Duomo di Sant'Ambrogio",
+            "en": "Duomo di Sant'Ambrogio"
+          },
+          "coords": [
+            13.533725,
+            45.808467
+          ],
+          "category": "religious",
+          "arrive_at": "13:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur dieser nach dem Krieg wiederaufgebauten Kathedrale und betrachten Sie die Mosaiken vor Beginn der Morgenmesse.",
+            "hu": "Csodálja meg ennek a háború után újjáépült modern katedrálisnak az építészetét, és nézze meg a mozaikos belső teret még a reggeli mise kezdete előtt.",
+            "ro": "Admirați arhitectura modernă a acestei catedrale reconstruite după război și priviți interioarele cu mozaic înainte să înceapă slujba de dimineață.",
+            "en": "Admire the striking modern architecture of this postwar cathedral rebuilt after WWII, and check the mosaic interior before mass begins in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Rocca di Monfalcone",
+            "hu": "Rocca di Monfalcone",
+            "ro": "Rocca di Monfalcone",
+            "en": "Rocca di Monfalcone"
+          },
+          "coords": [
+            13.537529,
+            45.812232
+          ],
+          "category": "castle",
+          "arrive_at": "13:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Steigen Sie zu dieser mittelalterlichen Festung hinauf, um einen Panoramablick auf die Stadt zu genießen; tragen Sie feste Schuhe für den Aufstieg.",
+            "hu": "Másszon fel ehhez az ikonikus középkori erődhöz a városra nyíló panorámáért, és viseljen nagyon kényelmes, masszív cipőt a meredek emelkedő miatt.",
+            "ro": "Urcați la această fortăreață medievală pentru vederi panoramice superbe asupra orașului și Golfului Adriatic, purtând încălțăminte comodă pentru urcuș.",
+            "en": "Climb up to this iconic medieval fortress for sweeping panoramic views of the city and the Adriatic Gulf, wearing sturdy shoes for the steep ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Trincea Joffre e Grotta Vergine",
+            "hu": "Trincea Joffre e Grotta Vergine",
+            "ro": "Trincea Joffre e Grotta Vergine",
+            "en": "Trincea Joffre e Grotta Vergine"
+          },
+          "coords": [
+            13.543702,
+            45.808094
+          ],
+          "category": "museum",
+          "arrive_at": "15:10",
+          "stay_min": 130,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.66,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese tiefgreifenden Schützengräben aus dem Ersten Weltkrieg und bringen Sie eine leichte Jacke mit, da die Höhlen ziemlich kühl bleiben.",
+            "hu": "Fedezze fel ezeket az I. világháborús lövészárkokat és barlangokat a történelem megismeréséhez; hozzon kabátot, mert a barlangok meglehetősen hűvösek.",
+            "ro": "Explorați aceste tranșee și peșteri din Primul Război Mondial pentru o lecție de istorie, aducând o jachetă ușoară deoarece grotele sunt răcoroase.",
+            "en": "Explore these profound WWI trenches and caves that offer a sobering look at military history, bringing a light jacket as the caverns remain quite cool."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie vom ruhigen Heiligtum Marcelliana zum berühmten Schiffbaumuseum. Gegen Mittag erreichen Sie das Stadtzentrum, um den Dom zu besichtigen. Am Nachmittag treten Sie bergauf in die Pedale, um die großartige Festung Rocca zu erreichen. Ihr Abend endet mit einem tiefen Einblick in die faszinierenden Schützengräben des Ersten Weltkriegs.",
+        "hu": "Tekerjen el a békés Marcelliana kegyhelytől a híres hajóépítő múzeum felé. Délre eléri a városközpontot, hogy megnézze a Dómot és a környező nevezetességeket. Délután pedálozzon felfelé, hogy elérje a régiót uraló nagyszerű Rocca erődöt. Az este a közeli lenyűgöző I. világháborús lövészárkok felfedezésével zárul egy tartalmas nap után.",
+        "ro": "Porniți pe bicicletă de la pașnicul Sanctuar Marcelliana spre muzeul naval. La prânz veți ajunge în centrul orașului pentru a vedea Domul. După-amiaza, pedalați la deal pentru a ajunge la grandioasa fortăreață Rocca ce domină întreaga regiune. Seara se încheie cu o vizită la tranșeele fascinante din Primul Război Mondial aflate chiar în apropiere.",
+        "en": "Pedal off from the peaceful Marcelliana Sanctuary toward the famous shipbuilding museum. By midday, you'll reach the city center to see the Duomo and its surrounding landmarks. In the afternoon, push those pedals uphill to reach the grand Rocca fortress overlooking the region. Your evening concludes with a deep dive into the fascinating WWI trenches nearby."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:33",
+      "total_km": 6.67,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parco Intercomunale delle Risorgive di Schiavetti",
+            "hu": "Parco Intercomunale delle Risorgive di Schiavetti",
+            "ro": "Parco Intercomunale delle Risorgive di Schiavetti",
+            "en": "Parco Intercomunale delle Risorgive di Schiavetti"
+          },
+          "coords": [
+            13.519927,
+            45.786323
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen erfrischenden Morgenspaziergang durch dieses Naturschutzgebiet und bringen Sie in den Sommermonaten ein gutes Mückenschutzmittel mit.",
+            "hu": "Élvezze a frissítő reggeli sétát ebben a helyi biodiverzitásban gazdag gyönyörű természetvédelmi területen, és hozzon magával szúnyogriasztót nyáron.",
+            "ro": "Bucurați-vă de o plimbare revigorantă prin această rezervație naturală superbă, aducând un spray împotriva țânțarilor pe parcursul lunilor de vară.",
+            "en": "Enjoy a refreshing morning walk through this beautiful natural reserve rich in local biodiversity, bringing some mosquito repellent during summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "MuCa - Museo della Cantieristica",
+            "hu": "MuCa - Museo della Cantieristica",
+            "ro": "MuCa - Museo della Cantieristica",
+            "en": "MuCa - Museo della Cantieristica"
+          },
+          "coords": [
+            13.536896,
+            45.794958
+          ],
+          "category": "museum",
+          "arrive_at": "10:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem interaktiven Museum in Monfalcones Schiffbautradition ein und beginnen Sie Ihren Besuch im Erdgeschoss entlang der Zeitachse.",
+            "hu": "Merüljön el Monfalcone hajóépítő örökségében ebben az interaktív múzeumban, és kezdje a látogatást a földszinten, hogy kövesse az idővonalat.",
+            "ro": "Pătrundeți în moștenirea navală a orașului la acest muzeu interactiv și începeți vizita la parter pentru a urmări cu atenție linia cronologică.",
+            "en": "Delve into Monfalcone's shipbuilding legacy at this interactive and fascinating museum, starting your visit on the ground floor to follow the timeline."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento ai dipendenti di Fincantieri caduti della Resistenza",
+            "hu": "Monumento ai dipendenti di Fincantieri caduti della Resistenza",
+            "ro": "Monumento ai dipendenti di Fincantieri caduti della Resistenza",
+            "en": "Monumento ai dipendenti di Fincantieri caduti della Resistenza"
+          },
+          "coords": [
+            13.536401,
+            45.796971
+          ],
+          "category": "historical",
+          "arrive_at": "12:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Erweisen Sie an diesem ergreifenden Denkmal für die Werftarbeiter der Résistance Ihren Respekt und verbinden Sie den Stopp mit dem Museumsbesuch.",
+            "hu": "Rója le tiszteletét az ellenállás hajógyári munkásainak szentelt emlékműnél, összekötve ezt a rövid megállót a múzeum izgalmas megtekintésével.",
+            "ro": "Prezentați-vă omagiile la acest memorial emoționant dedicat muncitorilor navali din Rezistență, combinând această oprire cu vizitarea muzeului.",
+            "en": "Pay your respects at this poignant memorial dedicated to shipyard workers of the Resistance, combining this quick stop with your visit to the museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Santuario Beata Vergine Marcelliana",
+            "hu": "Santuario Beata Vergine Marcelliana",
+            "ro": "Santuario Beata Vergine Marcelliana",
+            "en": "Santuario Beata Vergine Marcelliana"
+          },
+          "coords": [
+            13.529484,
+            45.799002
+          ],
+          "category": "religious",
+          "arrive_at": "13:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.58,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses Marienheiligtum, das für sein spirituelles Erbe bekannt ist, und nehmen Sie sich einen Moment der Ruhe im angrenzenden Innenhof.",
+            "hu": "Látogasson el ebbe a jelentős Mária-kegyhelybe, amely mély spirituális örökségéről ismert, és töltsön el egy percet a csendes szomszédos udvaron.",
+            "ro": "Vizitați acest sanctuar marian semnificativ, recunoscut pentru moștenirea sa spirituală, și relaxați-vă preț de câteva clipe în curtea sa liniștită.",
+            "en": "Visit this significant Marian sanctuary known for its deep spiritual heritage, and take a moment of quiet reflection in the peaceful adjacent courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Parrocchia Santi Nicolò e Paolo",
+            "hu": "Parrocchia Santi Nicolò e Paolo",
+            "ro": "Parrocchia Santi Nicolò e Paolo",
+            "en": "Parrocchia Santi Nicolò e Paolo"
+          },
+          "coords": [
+            13.515757,
+            45.813495
+          ],
+          "category": "religious",
+          "arrive_at": "14:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ruhige Gestaltung dieser örtlichen Pfarrkirche und nehmen Sie sich Zeit, um die wunderschönen Buntglasdetails genau zu betrachten.",
+            "hu": "Csodálja meg a helyi plébánia nyugodt elrendezését, amely a közösségi szellemet tükrözi, és szánjon időt a gyönyörű ólomüveg részletek megfigyelésére.",
+            "ro": "Admirați amenajarea senină a acestei parohii locale care reflectă spiritul comunitar și rezervați-vă timp pentru a observa detaliile vitraliilor.",
+            "en": "Admire the serene layout of this local parish which reflects the tight-knit community spirit, taking time to notice the beautiful stained-glass details."
+          }
+        },
+        {
+          "name": {
+            "de": "Rocca di Monfalcone",
+            "hu": "Rocca di Monfalcone",
+            "ro": "Rocca di Monfalcone",
+            "en": "Rocca di Monfalcone"
+          },
+          "coords": [
+            13.537529,
+            45.812232
+          ],
+          "category": "castle",
+          "arrive_at": "15:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Steigen Sie zu dieser mittelalterlichen Festung hinauf, um einen Panoramablick auf die Stadt zu genießen; tragen Sie feste Schuhe für den Aufstieg.",
+            "hu": "Másszon fel ehhez az ikonikus középkori erődhöz a városra nyíló panorámáért, és viseljen nagyon kényelmes, masszív cipőt a meredek emelkedő miatt.",
+            "ro": "Urcați la această fortăreață medievală pentru vederi panoramice superbe asupra orașului și Golfului Adriatic, purtând încălțăminte comodă pentru urcuș.",
+            "en": "Climb up to this iconic medieval fortress for sweeping panoramic views of the city and the Adriatic Gulf, wearing sturdy shoes for the steep ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Trincea Joffre e Grotta Vergine",
+            "hu": "Trincea Joffre e Grotta Vergine",
+            "ro": "Trincea Joffre e Grotta Vergine",
+            "en": "Trincea Joffre e Grotta Vergine"
+          },
+          "coords": [
+            13.543702,
+            45.808094
+          ],
+          "category": "museum",
+          "arrive_at": "16:23",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.66,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese tiefgreifenden Schützengräben aus dem Ersten Weltkrieg und bringen Sie eine leichte Jacke mit, da die Höhlen ziemlich kühl bleiben.",
+            "hu": "Fedezze fel ezeket az I. világháborús lövészárkokat és barlangokat a történelem megismeréséhez; hozzon kabátot, mert a barlangok meglehetősen hűvösek.",
+            "ro": "Explorați aceste tranșee și peșteri din Primul Război Mondial pentru o lecție de istorie, aducând o jachetă ușoară deoarece grotele sunt răcoroase.",
+            "en": "Explore these profound WWI trenches and caves that offer a sobering look at military history, bringing a light jacket as the caverns remain quite cool."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie am frühen Morgen für einen erfrischenden Naturspaziergang zum schönen Risorgive-Park. Besuchen Sie anschließend das Schiffbaumuseum. Nach dem Mittagessen verbinden Sie die wichtigsten Pfarreien der Stadt bequem mit dem Auto. Beenden Sie Ihre umfassende Tagestour mit der Erkundung der Schützengräben des Ersten Weltkriegs.",
+        "hu": "Kora reggel vezessen a gyönyörű Risorgive parkba egy frissítő természeti sétára. Ezután látogasson el a hajóépítő múzeumba és az emlékműhöz. Ebéd után autóval könnyedén összekapcsolhatja a város legfontosabb plébániáit. Fejezze be ezt az átfogó napot az ünnepélyes I. világháborús lövészárkok felfedezésével a járművével.",
+        "ro": "Conduceți dis-de-dimineață la parcul Risorgive pentru o plimbare revigorantă. După aceea, vizitați muzeul naval și monumentul rezistenței. După prânz, vizitați parohiile cheie ale orașului înainte de a vă îndrepta spre fortăreața Rocca. Încheiați turul explorând tranșeele din Primul Război Mondial, utilizând mașina pentru distanțe.",
+        "en": "Drive to the beautiful Risorgive park early on for a refreshing nature walk. Afterward, visit the shipbuilding museum and resistance monument. Post-lunch, connect the town's key parishes easily by car before heading to the historic Rocca. End your comprehensive day tour exploring the solemn WWI trenches, fully utilizing your vehicle to cover the wider city area."
+      }
+    }
+  }
+}

@@ -1,0 +1,451 @@
+{
+  "city_id": "greece-alonissos-patitiri-cities-v2",
+  "anchor": {
+    "name": "Alonissos (Patitiri)",
+    "coords": [
+      23.85,
+      39.15
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:59",
+      "total_km": 4.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Patitiri Stadtstrand",
+            "hu": "Patitiri városi strand",
+            "ro": "Plaja orașului Patitiri",
+            "en": "Patitiri town beach"
+          },
+          "coords": [
+            23.863608,
+            39.143388
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie ein erfrischendes morgendliches Bad an diesem erstaunlich klaren Hafenstrand, aber kommen Sie früh, bevor die Fährpassagiere eintreffen.",
+            "hu": "Élvezze a frissítő reggeli úszást ezen a meglepően tiszta kikötői strandon, de érkezzen korán, hogy jó helyet találjon a komppal érkezők előtt.",
+            "ro": "Bucurați-vă de o baie matinală la această plajă portuară surprinzător de curată, dar ajungeți devreme pentru a prinde un loc bun înaintea aglomerației.",
+            "en": "Enjoy a refreshing morning swim at this surprisingly clear port-side beach, but arrive early to secure a good spot before the ferry crowds roll in."
+          }
+        },
+        {
+          "name": {
+            "de": "Rousoum Gualos",
+            "hu": "Rousoum Gualos",
+            "ro": "Rousoum Gualos",
+            "en": "Rousoum Gualos"
+          },
+          "coords": [
+            23.869713,
+            39.148167
+          ],
+          "category": "recreational",
+          "arrive_at": "10:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an dieser malerischen Kieselbucht mit ausgezeichneten Tavernen, die sich perfekt eignet, um Schwimmen mit einem Mittagessen zu verbinden.",
+            "hu": "Pihenjen ezen a festői, kiváló helyi tavernákkal szegélyezett kavicsos öbölben, amely tökéletes helyszín a fürdőzés és egy hagyományos tengeri ebéd ötvözésére.",
+            "ro": "Relaxați-vă în acest golf pitoresc cu pietriș și taverne locale excelente, locul perfect pentru a combina înotul cu un prânz tradițional cu fructe de mare.",
+            "en": "Relax at this scenic pebble cove lined with excellent local tavernas, making it the perfect spot to combine swimming with a traditional seafood lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Paraglia Votsi",
+            "hu": "Paraglia Votsi",
+            "ro": "Paraglia Votsi",
+            "en": "Paraglia Votsi"
+          },
+          "coords": [
+            23.875543,
+            39.150162
+          ],
+          "category": "recreational",
+          "arrive_at": "12:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie einen ruhigen, von Pinien gesäumten Hafen mit smaragdgrünem Wasser, der ein ruhiges Schwimmerlebnis bietet, und vergessen Sie Ihre Schnorchelausrüstung nicht.",
+            "hu": "Fedezzen fel egy nyugodt, fenyőkkel övezett kikötőt smaragdzöld vízzel, amely hihetetlenül békés úszásélményt kínál, és ne hagyja otthon a búvárfelszerelését.",
+            "ro": "Descoperiți un port liniștit, înconjurat de pini, cu ape de smarald care oferă o experiență de înot incredibil de calmă, și nu uitați echipamentul de snorkeling.",
+            "en": "Discover a tranquil, pine-fringed harbor with emerald waters that offer an incredibly calm swimming experience, and don't forget your snorkeling gear."
+          }
+        },
+        {
+          "name": {
+            "de": "Spartines",
+            "hu": "Spartines",
+            "ro": "Spartines",
+            "en": "Spartines"
+          },
+          "coords": [
+            23.877798,
+            39.154219
+          ],
+          "category": "recreational",
+          "arrive_at": "13:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen an diesem abgelegenen und fkk-freundlichen Strand, aber bringen Sie unbedingt Wasser und einen Sonnenschirm mit, da es keine Einrichtungen gibt.",
+            "hu": "Meneküljön el a tömeg elől ezen a gyönyörűen eldugott, naturista barát strandon, de feltétlenül hozzon magával vizet és napernyőt, mivel nincsenek szolgáltatások.",
+            "ro": "Scăpați de aglomerație la această plajă retrasă și prietenoasă cu nudiștii, dar asigurați-vă că aduceți apă și o umbrelă, deoarece nu există facilități.",
+            "en": "Escape the crowds at this beautifully secluded and naturist-friendly beach, but be sure to bring plenty of water and an umbrella since there are no facilities."
+          }
+        },
+        {
+          "name": {
+            "de": "Yialia",
+            "hu": "Yialia",
+            "ro": "Yialia",
+            "en": "Yialia"
+          },
+          "coords": [
+            23.851325,
+            39.156146
+          ],
+          "category": "recreational",
+          "arrive_at": "15:14",
+          "stay_min": 105,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die zerklüftete Küste und die faszinierenden Überreste einer alten Windmühle in dieser felsigen Bucht, die fantastische Bedingungen für Unterwasserfotografie bietet.",
+            "hu": "Fedezze fel a zord partvonalat és egy régi szélmalom lenyűgöző maradványait ebben a sziklás öbölben, amely fantasztikus feltételeket biztosít a víz alatti fotózáshoz.",
+            "ro": "Explorați coasta accidentată și rămășițele fascinante ale unei vechi mori de vânt din acest golf stâncos, care oferă condiții fantastice pentru fotografia subacvatică.",
+            "en": "Explore the rugged coastline and the fascinating remnants of an old windmill at this rocky bay, which provides fantastic conditions for underwater photography."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie den Tag mit einem erfrischenden Bad am Stadtstrand von Patitiri, bevor der Hafen belebt wird.\nMidday: Schlendern Sie auf dem Küstenweg nach Rousoum Gualos für ein Sonnenbad und ein köstliches Mittagessen mit Meeresfrüchten.\nAfternoon: Setzen Sie Ihre Reise nach Osten zur Paraglia Votsi und den einsamen Ufern von Spartines fort und genießen Sie den Pinienduft.\nEvening: Beenden Sie Ihren Spaziergang in der felsigen Bucht von Yialia und bewundern Sie die Ruinen der Windmühle im späten Nachmittagslicht.",
+        "hu": "Morning: Kezdje a napot egy frissítő úszással a kényelmes patitiri városi strandon, mielőtt a kikötő megtelne élettel.\nMidday: Sétáljon végig a parti ösvényen a Rousoum Gualoshoz, ahol napozhat és ízletes tengeri ebédet fogyaszthat a víz közvetlen közelében.\nAfternoon: Folytassa útját kelet felé a Paraglia Votsi és a Spartines eldugott partjai felé, élvezve a fenyőfák illatát.\nEvening: Fejezze be sétáját a Yialia sziklás öblében, és csodálja meg a parti szélmalom romjait a késő délutáni lágyuló fényben.",
+        "ro": "Morning: Începeți ziua cu o baie revigorantă la plaja convenabilă din orașul Patitiri, înainte ca portul să devină aglomerat.\nMidday: Plimbați-vă pe poteca de coastă până la Rousoum Gualos pentru plajă și un prânz delicios cu fructe de mare chiar lângă apă.\nAfternoon: Continuați călătoria spre est, către Paraglia Votsi și țărmurile retrase de la Spartines, bucurându-vă de parfumul pinilor.\nEvening: Încheiați plimbarea în golful stâncos Yialia, admirând ruinele morii de vânt de pe coastă pe măsură ce lumina după-amiezii se atenuează.",
+        "en": "Morning: Start your day with a refreshing swim at the convenient Patitiri town beach before the port gets busy.\nMidday: Stroll along the coastal path to Rousoum Gualos for more sunbathing and a delicious seafood lunch right by the water.\nAfternoon: Continue your journey eastwards to Paraglia Votsi and the secluded shores of Spartines, enjoying the scent of pine trees.\nEvening: Conclude your walk at the rocky bay of Yialia, admiring the coastal windmill ruins as the late afternoon light softens."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:17",
+      "total_km": 4.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Patitiri Stadtstrand",
+            "hu": "Patitiri városi strand",
+            "ro": "Plaja orașului Patitiri",
+            "en": "Patitiri town beach"
+          },
+          "coords": [
+            23.863608,
+            39.143388
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie ein erfrischendes morgendliches Bad an diesem erstaunlich klaren Hafenstrand, aber kommen Sie früh, bevor die Fährpassagiere eintreffen.",
+            "hu": "Élvezze a frissítő reggeli úszást ezen a meglepően tiszta kikötői strandon, de érkezzen korán, hogy jó helyet találjon a komppal érkezők előtt.",
+            "ro": "Bucurați-vă de o baie matinală la această plajă portuară surprinzător de curată, dar ajungeți devreme pentru a prinde un loc bun înaintea aglomerației.",
+            "en": "Enjoy a refreshing morning swim at this surprisingly clear port-side beach, but arrive early to secure a good spot before the ferry crowds roll in."
+          }
+        },
+        {
+          "name": {
+            "de": "Megalos Mourtias",
+            "hu": "Megalos Mourtias",
+            "ro": "Megalos Mourtias",
+            "en": "Megalos Mourtias"
+          },
+          "coords": [
+            23.844864,
+            39.140502
+          ],
+          "category": "recreational",
+          "arrive_at": "10:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem organisierten Kieselstrand im Schatten alter Olivenbäume, der ruhiges, flaches Wasser bietet, das außergewöhnlich sicher und ideal für Familien ist.",
+            "hu": "Kapcsolódjon ki ezen az ősi olajfák árnyékában fekvő, kiépített kavicsos strandon, amely nyugodt, sekély vizével kivételesen biztonságos és ideális családok számára.",
+            "ro": "Relaxați-vă pe această plajă organizată cu pietriș, umbrită de măslini seculari, oferind ape calme și puțin adânci, excepțional de sigure și ideale pentru familii.",
+            "en": "Unwind on this organized pebble beach shaded by ancient olive trees, offering calm, shallow waters that are exceptionally safe and ideal for young families."
+          }
+        },
+        {
+          "name": {
+            "de": "Mikros Mourtias Strand",
+            "hu": "Mikros Mourtias strand",
+            "ro": "Plaja Mikros Mourtias",
+            "en": "Mikros Mourtias Beach"
+          },
+          "coords": [
+            23.838056,
+            39.1434
+          ],
+          "category": "recreational",
+          "arrive_at": "11:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erleben Sie vollkommene Ruhe an diesem völlig unorganisierten Sand- und Kieselstrand, der über einen malerischen Feldweg erreichbar ist, der festes Schuhwerk erfordert.",
+            "hu": "Tapasztalja meg a teljes nyugalmat ezen a teljesen kiépítetlen homokos és kavicsos partszakaszon, amely egy festői földúton közelíthető meg, túracipőt igényelve.",
+            "ro": "Experimentați serenitatea la această porțiune neorganizată de nisip și pietriș, accesibilă printr-o potecă pitorească de pământ care necesită încălțăminte de mers robustă.",
+            "en": "Experience complete serenity at this completely unorganized stretch of sand and pebbles, reachable via a scenic dirt path that requires sturdy walking shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "BRUSITSA",
+            "hu": "BRUSITSA",
+            "ro": "BRUSITSA",
+            "en": "BRUSITSA"
+          },
+          "coords": [
+            23.847432,
+            39.155669
+          ],
+          "category": "recreational",
+          "arrive_at": "13:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie an dieser versteckten Bucht in die unberührte mediterrane Natur ein und denken Sie daran, dass Sie alle Ihre Snacks und Vorräte selbst mitbringen müssen.",
+            "hu": "Merüljön el az érintetlen mediterrán természetben ennél a rejtett öbölnél, és tartsa szem előtt, hogy minden harapnivalót és felszerelést magának kell magával hoznia.",
+            "ro": "Cufundați-vă în natura mediteraneană virgină la acest golf ascuns, ținând cont că trebuie să vă aduceți propriile gustări și provizii pentru o zi perfectă.",
+            "en": "Immerse yourself in pristine, untouched Mediterranean nature at this hidden cove, keeping in mind that you must carry in all your own snacks and supplies."
+          }
+        },
+        {
+          "name": {
+            "de": "Yialia",
+            "hu": "Yialia",
+            "ro": "Yialia",
+            "en": "Yialia"
+          },
+          "coords": [
+            23.851325,
+            39.156146
+          ],
+          "category": "recreational",
+          "arrive_at": "14:32",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die zerklüftete Küste und die faszinierenden Überreste einer alten Windmühle in dieser felsigen Bucht, die fantastische Bedingungen für Unterwasserfotografie bietet.",
+            "hu": "Fedezze fel a zord partvonalat és egy régi szélmalom lenyűgöző maradványait ebben a sziklás öbölben, amely fantasztikus feltételeket biztosít a víz alatti fotózáshoz.",
+            "ro": "Explorați coasta accidentată și rămășițele fascinante ale unei vechi mori de vânt din acest golf stâncos, care oferă condiții fantastice pentru fotografia subacvatică.",
+            "en": "Explore the rugged coastline and the fascinating remnants of an old windmill at this rocky bay, which provides fantastic conditions for underwater photography."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Radeln Sie direkt zum Strand von Patitiri, um das ruhige morgendliche Meer im Herzen der Hafenstadt zu genießen.\nMidday: Fahren Sie nach Südwesten durch Olivenhaine nach Megalos Mourtias, einem perfekten Ort zum Schwimmen und für ein Essen am Meer.\nAfternoon: Machen Sie einen Abstecher zum nahe gelegenen, unberührten Strand Mikros Mourtias und genießen Sie die unberührte Landschaft.\nEvening: Beenden Sie Ihre Radtour, indem Sie die rauen Buchten von Brusitsa und Yialia erkunden und die späte Nachmittagssonne auf dem Wasser einfangen.",
+        "hu": "Morning: Tekerjen egyenesen a patitiri városi strandra, hogy élvezze a nyugodt reggeli tengert a nyüzsgő kikötőváros szívében.\nMidday: Lovagoljon délnyugat felé az olajfaligeteken át a Megalos Mourtias-hoz, amely tökéletes hely úszáshoz és egy tengerparti étkezéshez.\nAfternoon: Ugorjon át a közeli, gyönyörűen kiépítetlen Mikros Mourtias strandra, és gyönyörködjön az érintetlen környező tájban.\nEvening: Fejezze be a kerékpározást Brusitsa és Yialia zord öbleinek felfedezésével, elkapva a késő délutáni napfényt a vízen.",
+        "ro": "Morning: Pedați direct către plaja din orașul Patitiri pentru a vă bucura de marea calmă a dimineții chiar în inima orașului-port.\nMidday: Mergeți cu bicicleta spre sud-vest prin plantațiile de măslini până la Megalos Mourtias, un loc perfect pentru înot și masă.\nAfternoon: Faceți o scurtă oprire la plaja învecinată, frumos de neorganizată, Mikros Mourtias, admirând peisajele naturale intacte.\nEvening: Terminați-vă traseul cu bicicleta explorând golfurile accidentate de la Brusitsa și Yialia, surprinzând soarele târziu al după-amiezii.",
+        "en": "Morning: Pedal straight to Patitiri town beach to enjoy the calm morning sea right in the heart of the bustling port town.\nMidday: Ride southwest through the olive groves to Megalos Mourtias, a perfect spot for swimming and a relaxed seaside meal.\nAfternoon: Hop over to the nearby, beautifully unorganized Mikros Mourtias Beach, taking in the untouched surrounding landscapes.\nEvening: Finish your cycling loop exploring the rugged coves of Brusitsa and Yialia, catching the late afternoon sun on the water."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:39",
+      "total_km": 5.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Paraglia Votsi",
+            "hu": "Paraglia Votsi",
+            "ro": "Paraglia Votsi",
+            "en": "Paraglia Votsi"
+          },
+          "coords": [
+            23.875543,
+            39.150162
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie einen ruhigen, von Pinien gesäumten Hafen mit smaragdgrünem Wasser, der ein ruhiges Schwimmerlebnis bietet, und vergessen Sie Ihre Schnorchelausrüstung nicht.",
+            "hu": "Fedezzen fel egy nyugodt, fenyőkkel övezett kikötőt smaragdzöld vízzel, amely hihetetlenül békés úszásélményt kínál, és ne hagyja otthon a búvárfelszerelését.",
+            "ro": "Descoperiți un port liniștit, înconjurat de pini, cu ape de smarald care oferă o experiență de înot incredibil de calmă, și nu uitați echipamentul de snorkeling.",
+            "en": "Discover a tranquil, pine-fringed harbor with emerald waters that offer an incredibly calm swimming experience, and don't forget your snorkeling gear."
+          }
+        },
+        {
+          "name": {
+            "de": "Rousoum Gualos",
+            "hu": "Rousoum Gualos",
+            "ro": "Rousoum Gualos",
+            "en": "Rousoum Gualos"
+          },
+          "coords": [
+            23.869713,
+            39.148167
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an dieser malerischen Kieselbucht mit ausgezeichneten Tavernen, die sich perfekt eignet, um Schwimmen mit einem Mittagessen zu verbinden.",
+            "hu": "Pihenjen ezen a festői, kiváló helyi tavernákkal szegélyezett kavicsos öbölben, amely tökéletes helyszín a fürdőzés és egy hagyományos tengeri ebéd ötvözésére.",
+            "ro": "Relaxați-vă în acest golf pitoresc cu pietriș și taverne locale excelente, locul perfect pentru a combina înotul cu un prânz tradițional cu fructe de mare.",
+            "en": "Relax at this scenic pebble cove lined with excellent local tavernas, making it the perfect spot to combine swimming with a traditional seafood lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Patitiri Stadtstrand",
+            "hu": "Patitiri városi strand",
+            "ro": "Plaja orașului Patitiri",
+            "en": "Patitiri town beach"
+          },
+          "coords": [
+            23.863608,
+            39.143388
+          ],
+          "category": "recreational",
+          "arrive_at": "11:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie ein erfrischendes morgendliches Bad an diesem erstaunlich klaren Hafenstrand, aber kommen Sie früh, bevor die Fährpassagiere eintreffen.",
+            "hu": "Élvezze a frissítő reggeli úszást ezen a meglepően tiszta kikötői strandon, de érkezzen korán, hogy jó helyet találjon a komppal érkezők előtt.",
+            "ro": "Bucurați-vă de o baie matinală la această plajă portuară surprinzător de curată, dar ajungeți devreme pentru a prinde un loc bun înaintea aglomerației.",
+            "en": "Enjoy a refreshing morning swim at this surprisingly clear port-side beach, but arrive early to secure a good spot before the ferry crowds roll in."
+          }
+        },
+        {
+          "name": {
+            "de": "Megalos Mourtias",
+            "hu": "Megalos Mourtias",
+            "ro": "Megalos Mourtias",
+            "en": "Megalos Mourtias"
+          },
+          "coords": [
+            23.844864,
+            39.140502
+          ],
+          "category": "recreational",
+          "arrive_at": "13:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem organisierten Kieselstrand im Schatten alter Olivenbäume, der ruhiges, flaches Wasser bietet, das außergewöhnlich sicher und ideal für Familien ist.",
+            "hu": "Kapcsolódjon ki ezen az ősi olajfák árnyékában fekvő, kiépített kavicsos strandon, amely nyugodt, sekély vizével kivételesen biztonságos és ideális családok számára.",
+            "ro": "Relaxați-vă pe această plajă organizată cu pietriș, umbrită de măslini seculari, oferind ape calme și puțin adânci, excepțional de sigure și ideale pentru familii.",
+            "en": "Unwind on this organized pebble beach shaded by ancient olive trees, offering calm, shallow waters that are exceptionally safe and ideal for young families."
+          }
+        },
+        {
+          "name": {
+            "de": "Mikros Mourtias Strand",
+            "hu": "Mikros Mourtias strand",
+            "ro": "Plaja Mikros Mourtias",
+            "en": "Mikros Mourtias Beach"
+          },
+          "coords": [
+            23.838056,
+            39.1434
+          ],
+          "category": "recreational",
+          "arrive_at": "14:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erleben Sie vollkommene Ruhe an diesem völlig unorganisierten Sand- und Kieselstrand, der über einen malerischen Feldweg erreichbar ist, der festes Schuhwerk erfordert.",
+            "hu": "Tapasztalja meg a teljes nyugalmat ezen a teljesen kiépítetlen homokos és kavicsos partszakaszon, amely egy festői földúton közelíthető meg, túracipőt igényelve.",
+            "ro": "Experimentați serenitatea la această porțiune neorganizată de nisip și pietriș, accesibilă printr-o potecă pitorească de pământ care necesită încălțăminte de mers robustă.",
+            "en": "Experience complete serenity at this completely unorganized stretch of sand and pebbles, reachable via a scenic dirt path that requires sturdy walking shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "BRUSITSA",
+            "hu": "BRUSITSA",
+            "ro": "BRUSITSA",
+            "en": "BRUSITSA"
+          },
+          "coords": [
+            23.847432,
+            39.155669
+          ],
+          "category": "recreational",
+          "arrive_at": "15:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie an dieser versteckten Bucht in die unberührte mediterrane Natur ein und denken Sie daran, dass Sie alle Ihre Snacks und Vorräte selbst mitbringen müssen.",
+            "hu": "Merüljön el az érintetlen mediterrán természetben ennél a rejtett öbölnél, és tartsa szem előtt, hogy minden harapnivalót és felszerelést magának kell magával hoznia.",
+            "ro": "Cufundați-vă în natura mediteraneană virgină la acest golf ascuns, ținând cont că trebuie să vă aduceți propriile gustări și provizii pentru o zi perfectă.",
+            "en": "Immerse yourself in pristine, untouched Mediterranean nature at this hidden cove, keeping in mind that you must carry in all your own snacks and supplies."
+          }
+        },
+        {
+          "name": {
+            "de": "Yialia",
+            "hu": "Yialia",
+            "ro": "Yialia",
+            "en": "Yialia"
+          },
+          "coords": [
+            23.851325,
+            39.156146
+          ],
+          "category": "recreational",
+          "arrive_at": "16:54",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die zerklüftete Küste und die faszinierenden Überreste einer alten Windmühle in dieser felsigen Bucht, die fantastische Bedingungen für Unterwasserfotografie bietet.",
+            "hu": "Fedezze fel a zord partvonalat és egy régi szélmalom lenyűgöző maradványait ebben a sziklás öbölben, amely fantasztikus feltételeket biztosít a víz alatti fotózáshoz.",
+            "ro": "Explorați coasta accidentată și rămășițele fascinante ale unei vechi mori de vânt din acest golf stâncos, care oferă condiții fantastice pentru fotografia subacvatică.",
+            "en": "Explore the rugged coastline and the fascinating remnants of an old windmill at this rocky bay, which provides fantastic conditions for underwater photography."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Fahren Sie hinunter zur Paraglia Votsi, um das smaragdgrüne Wasser des malerischen Hafens in völliger Ruhe zu erleben.\nMidday: Fahren Sie weiter zum Rousoum Gualos und zum Strand von Patitiri, um schwimmen zu gehen und Zugang zu lokalen Tavernen zu haben.\nAfternoon: Fahren Sie an die Südwestküste, um die olivengeschützten Ufer von Megalos Mourtias und das abgelegene Mikros Mourtias zu besuchen.\nEvening: Beenden Sie Ihre malerische Fahrt an den rauen nördlichen Buchten von Brusitsa und Yialia und genießen Sie die Meereslandschaften.",
+        "hu": "Morning: Vezessen le Paraglia Votsiba, hogy teljes békében tapasztalja meg a festői, fenyőkkel övezett kikötő smaragdzöld vizét.\nMidday: Ugorjon át Rousoum Gualosba és a patitiri városi strandra, ahol változatos úszási lehetőségek és helyi tavernák várják.\nAfternoon: Cirkáljon át a délnyugati partra, hogy meglátogassa a Megalos Mourtias és az eldugott Mikros Mourtias olajfákkal árnyékolt partjait.\nEvening: Fejezze be festői autózását Brusitsa és Yialia zord északi öbleinél, élvezve a lélegzetelállító sziklás tengeri tájakat.",
+        "ro": "Morning: Conduceți până la Paraglia Votsi pentru a experimenta apele de smarald ale portului său pitoresc în deplină liniște.\nMidday: Faceți o oprire la Rousoum Gualos și la plaja din Patitiri pentru opțiuni variate de înot și acces la tavernele locale excelente.\nAfternoon: Călătoriți spre coasta de sud-vest pentru a vizita țărmurile umbrite de măslini de la Megalos Mourtias și retrasul Mikros Mourtias.\nEvening: Încheiați-vă plimbarea cu mașina la golfurile accidentate din nord de la Brusitsa și Yialia, bucurându-vă de peisajele stâncoase.",
+        "en": "Morning: Drive down to Paraglia Votsi to experience the emerald waters of its picturesque, pine-fringed harbor in complete peace.\nMidday: Hop over to Rousoum Gualos and Patitiri town beach for varied swimming options and excellent access to local tavernas.\nAfternoon: Cruise over to the southwestern coast to visit the olive-shaded shores of Megalos Mourtias and the secluded Mikros Mourtias.\nEvening: End your scenic drive at the rugged northern coves of Brusitsa and Yialia, enjoying the breathtaking rocky seascapes."
+      }
+    }
+  }
+}

@@ -1,0 +1,520 @@
+{
+  "city_id": "greece-kardamyli-cities-v2",
+  "anchor": {
+    "name": "Kardamyli",
+    "coords": [
+      22.232222,
+      36.886667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:08",
+      "total_km": 2.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Mourtzinos-Turm",
+            "hu": "Mourtzinos-torony",
+            "ro": "Turnul Mourtzinos",
+            "en": "Mourtzinos Tower"
+          },
+          "coords": [
+            22.234681,
+            36.891237
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen imposanten Turmkomplex der Manioten-Häuptlinge, um die raue Geschichte zu verstehen, und klettern Sie vorsichtig für tolle Ausblicke.",
+            "hu": "Fedezze fel a manióta vezetők lenyűgöző toronykomplexumát, hogy megértse a zord történelmet, és óvatosan másszon fel a csodás tengerparti kilátásért.",
+            "ro": "Explorați acest complex impunător de turnuri al căpeteniilor maniote pentru a înțelege istoria zbuciumată și urcați cu grijă pentru o priveliște uimitoare.",
+            "en": "Explore this imposing tower complex of the Maniot chieftains to understand the region's fierce history, and climb carefully for stunning coastal views."
+          }
+        },
+        {
+          "name": {
+            "de": "Taphoi Dioskouron",
+            "hu": "Taphoi Dioskouron",
+            "ro": "Taphoi Dioskouron",
+            "en": "Taphoi Dioskouron"
+          },
+          "coords": [
+            22.235823,
+            36.891727
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese legendären Felsengräber von Castor und Pollux; bringen Sie ein Weitwinkelobjektiv mit, um die mystische Atmosphäre im Olivenhain einzufangen.",
+            "hu": "Csodálja meg a Kasztórhoz és Polluxhoz kötődő legendás sziklasírokat, és hozzon nagylátószögű objektívet, hogy megörökítse a misztikus atmoszférát.",
+            "ro": "Admirați aceste morminte legendare tăiate în stâncă legate de Castor și Polux și aduceți un obiectiv grandangular pentru a le surprinde atmosfera mistică.",
+            "en": "Admire these legendary rock-cut tombs linked to Castor and Pollux by bringing a wide-angle lens to capture their mystical atmosphere amidst olive groves."
+          }
+        },
+        {
+          "name": {
+            "de": "Salio Strand",
+            "hu": "Salio strand",
+            "ro": "Plaja Salio",
+            "en": "Salio Beach"
+          },
+          "coords": [
+            22.230883,
+            36.888128
+          ],
+          "category": "recreational",
+          "arrive_at": "12:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Kieselstrand, wo kristallklares Wasser zum Schwimmen einlädt; packen Sie unbedingt Badeschuhe für den Einstieg ein.",
+            "hu": "Pihenjen ezen a festői kavicsos strandon, ahol a kristálytiszta víz frissítő úszásra csábít, ezért mindenképpen hozzon magával vizicipőt a kényelemért.",
+            "ro": "Relaxați-vă pe această plajă pitorească cu pietriș unde apele cristaline vă invită la o baie și nu uitați să luați încălțăminte de apă pentru a intra ușor.",
+            "en": "Relax on this picturesque pebble beach where crystal-clear waters invite you for a refreshing swim, so be sure to pack water shoes for a comfortable entry."
+          }
+        },
+        {
+          "name": {
+            "de": "Befestigung von Meropi",
+            "hu": "Meropi erődítménye",
+            "ro": "Fortificația Meropi",
+            "en": "Fortification of Meropi"
+          },
+          "coords": [
+            22.233096,
+            36.881062
+          ],
+          "category": "castle",
+          "arrive_at": "13:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Ruinen dieser befestigten Insel vor der Küste, indem Sie durch das flache Wasser waten; tragen Sie unbedingt nasse Sandalen.",
+            "hu": "Fedezze fel ennek az erődített szigetnek a lenyűgöző romjait a sekély vízen átkelve, így mindenképpen olyan szandált viseljen, amely könnyen vizes lehet.",
+            "ro": "Descoperiți ruinele fascinante ale acestei insulițe fortificate trecând prin apele puțin adânci, așa că purtați sandale care se pot uda fără nicio problemă.",
+            "en": "Discover the fascinating ruins of this fortified islet right off the coast by walking across the shallow waters, so wear sandals that can easily get wet."
+          }
+        },
+        {
+          "name": {
+            "de": "Patrick Leigh Fermor Museum",
+            "hu": "Patrick Leigh Fermor",
+            "ro": "Patrick Leigh Fermor",
+            "en": "Patrick Leigh Fermor"
+          },
+          "coords": [
+            22.240232,
+            36.878591
+          ],
+          "category": "museum",
+          "arrive_at": "14:58",
+          "stay_min": 130,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Betreten Sie das wunderschön erhaltene Haus des berühmten britischen Schriftstellers und buchen Sie Ihre Führung im Sommer unbedingt weit im Voraus.",
+            "hu": "Lépjen be a híres brit író gyönyörűen megőrzött otthonába, és nyáron mindenképpen jó előre foglalja le a vezetett túrát, hogy megcsodálhassa az épületet.",
+            "ro": "Pășiți în casa frumos conservată a faimosului scriitor britanic pentru a-i admira arhitectura și rezervați-vă turul ghidat cu mult timp înainte vara.",
+            "en": "Step into the beautifully preserved home of the famous British writer to admire its architecture, and book your guided tour well in advance during summer."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im historischen Zentrum von Kardamyli, wo Sie am Mourtzinos-Turm das raue Erbe der Mani entdecken, bevor Sie bei den legendären Felsengräbern noch weiter in die Vergangenheit eintauchen. Der Morgen geht perfekt von der Kultur zur entspannenden Küste über.\n\nWenn die Mittagssonne die Küste erwärmt, ziehen Sie sich an die erfrischenden Kieselsteine des Salio-Strands zurück. Das kristallklare Wasser bietet eine perfekte Pause, um sich zu entspannen und die majestätische Aussicht auf das Taygetos-Gebirge zu genießen.\n\nNach dem Strand lädt der Nachmittag dazu ein, durch das flache Wasser zur Inselbefestigung von Meropi zu waten. Die Erkundung dieser faszinierenden Küstenruinen bietet ein Gefühl von maritimem Abenteuer, bevor Sie zu einem berühmten literarischen Versteck weiterziehen.\n\nGegen Abend erreichen Sie das ikonische Zuhause von Patrick Leigh Fermor, ein architektonisches Meisterwerk inmitten von Olivenhainen. Der Tag endet mit einem inspirierenden Spaziergang durch die herrlichen mediterranen Gärten im goldenen Licht der untergehenden Sonne.",
+        "hu": "A napja Kardamyli történelmi szívében kezdődik, ahol feltárja a Mani zord örökségét a Mourtzinos-toronynál, majd még messzebbre utazik az időben a legendás sziklasíroknál. A délelőtt tökéletes átmenetet képez a kulturális felfedezésből a tenger megnyugtató közelségébe.\n\nAhogy a déli nap felmelegíti a partot, visszavonulhat a Salio strand frissítő kavicsos partjaira. A kristálytiszta víz tökéletes pihenést nyújt, lehetővé téve, hogy ússzon és élvezze a Messzéniai-öbölbe ereszkedő Tajgetosz-hegység fenséges látványát.\n\nA tengerparti felfrissülés után a délután arra csábít, hogy a sekély vízen átkeljen Meropi erődített szigetére. E lenyűgöző parti romok felfedezése igazi tengeri kalandot kínál, mielőtt dél felé venné az irányt Görögország egyik leghíresebb irodalmi menedékéhez.\n\nAhogy közeledik az este, eléri Patrick Leigh Fermor ikonikus otthonát, egy olajfaligetek között megbúvó építészeti remekművet. A nap egy inspiráló sétával zárul a gyönyörű mediterrán kertekben, amelyet a lemenő görög nap meleg, aranyló fénye fürdet.",
+        "ro": "Ziua dumneavoastră începe în inima istorică din Kardamyli, descoperind moștenirea dură a regiunii Mani la Turnul Mourtzinos, înainte de a păși și mai departe în timp la mormintele legendare. Dimineața oferă o tranziție perfectă de la cultură la sunetul mării.\n\nPe măsură ce soarele amiezii încălzește coasta, vă veți retrage pe malurile răcoroase ale plajei Salio. Apele cristaline oferă un răgaz perfect, permițându-vă să vă relaxați, să înotați și să absorbiți priveliștea munților Taygetos care coboară dramatic în golf.\n\nRevigorați după plajă, după-amiaza vă invită să traversați apele puțin adânci către insulița fortificată Meropi. Explorarea acestor ruine fascinante oferă un sentiment de aventură maritimă înainte de a continua spre sud, către un faimos refugiu literar.\n\nOdată cu lăsarea serii, veți ajunge la casa emblematică a lui Patrick Leigh Fermor, o capodoperă ascunsă printre măslini. Ziua se încheie cu o plimbare inspirată prin grădinile sale mediteraneene superbe, scăldate în lumina caldă a asfințitului grecesc.",
+        "en": "Your day begins in the historic heart of Kardamyli, uncovering the fierce heritage of the Mani at Mourtzinos Tower before stepping back further in time at the legendary rock-cut tombs. The morning transitions perfectly from cultural exploration to the soothing sounds of the sea.\n\nAs the midday sun warms the Peloponnese coastline, you'll retreat to the refreshing pebble shores of Salio Beach. The crystal-clear waters provide a perfect respite, allowing you to relax, swim, and soak in the majestic views of the Taygetos mountains plunging into the Messenian Gulf.\n\nRefreshed from the beach, the afternoon invites you to wade across the shallow waters to the island Fortification of Meropi. Exploring these fascinating coastal ruins offers a sense of maritime adventure before continuing south toward one of Greece's most famous literary hideaways.\n\nAs evening approaches, you'll reach the iconic home of Patrick Leigh Fermor, an architectural masterpiece hidden amidst olive groves. The day concludes with an inspiring stroll through its beautiful Mediterranean gardens, bathed in the warm, golden light of the setting Greek sun."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:20",
+      "total_km": 2.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Mourtzinos-Turm",
+            "hu": "Mourtzinos-torony",
+            "ro": "Turnul Mourtzinos",
+            "en": "Mourtzinos Tower"
+          },
+          "coords": [
+            22.234681,
+            36.891237
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen imposanten Turmkomplex der Manioten-Häuptlinge, um die raue Geschichte zu verstehen, und klettern Sie vorsichtig für tolle Ausblicke.",
+            "hu": "Fedezze fel a manióta vezetők lenyűgöző toronykomplexumát, hogy megértse a zord történelmet, és óvatosan másszon fel a csodás tengerparti kilátásért.",
+            "ro": "Explorați acest complex impunător de turnuri al căpeteniilor maniote pentru a înțelege istoria zbuciumată și urcați cu grijă pentru o priveliște uimitoare.",
+            "en": "Explore this imposing tower complex of the Maniot chieftains to understand the region's fierce history, and climb carefully for stunning coastal views."
+          }
+        },
+        {
+          "name": {
+            "de": "Taphoi Dioskouron",
+            "hu": "Taphoi Dioskouron",
+            "ro": "Taphoi Dioskouron",
+            "en": "Taphoi Dioskouron"
+          },
+          "coords": [
+            22.235823,
+            36.891727
+          ],
+          "category": "historical",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese legendären Felsengräber von Castor und Pollux; bringen Sie ein Weitwinkelobjektiv mit, um die mystische Atmosphäre im Olivenhain einzufangen.",
+            "hu": "Csodálja meg a Kasztórhoz és Polluxhoz kötődő legendás sziklasírokat, és hozzon nagylátószögű objektívet, hogy megörökítse a misztikus atmoszférát.",
+            "ro": "Admirați aceste morminte legendare tăiate în stâncă legate de Castor și Polux și aduceți un obiectiv grandangular pentru a le surprinde atmosfera mistică.",
+            "en": "Admire these legendary rock-cut tombs linked to Castor and Pollux by bringing a wide-angle lens to capture their mystical atmosphere amidst olive groves."
+          }
+        },
+        {
+          "name": {
+            "de": "Paralia Ritsa 3e",
+            "hu": "Paralia Ritsa 3e",
+            "ro": "Paralia Ritsa 3e",
+            "en": "Paralia Ritsa 3e"
+          },
+          "coords": [
+            22.229211,
+            36.890758
+          ],
+          "category": "recreational",
+          "arrive_at": "11:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Strecken Sie sich auf dem langen weißen Kieselstrand aus und kommen Sie früh am Morgen an, um sich einen erstklassigen Platz mit natürlichem Schatten zu sichern.",
+            "hu": "Nyújtózzon el ezen a népszerű strand hosszú, fehér kavicsos partszakaszán, és érkezzen kora reggel, hogy biztosítson magának egy természetes árnyékos helyet.",
+            "ro": "Întindeți-vă pe plaja lungă de pietriș alb și ajungeți dimineața devreme pentru a vă asigura un loc excelent cu umbră naturală oferită de copaci superbi.",
+            "en": "Stretch out on the long expanse of white pebbles at this popular beach, and arrive early in the morning to secure a prime spot with natural tree shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Salio Strand",
+            "hu": "Salio strand",
+            "ro": "Plaja Salio",
+            "en": "Salio Beach"
+          },
+          "coords": [
+            22.230883,
+            36.888128
+          ],
+          "category": "recreational",
+          "arrive_at": "13:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Kieselstrand, wo kristallklares Wasser zum Schwimmen einlädt; packen Sie unbedingt Badeschuhe für den Einstieg ein.",
+            "hu": "Pihenjen ezen a festői kavicsos strandon, ahol a kristálytiszta víz frissítő úszásra csábít, ezért mindenképpen hozzon magával vizicipőt a kényelemért.",
+            "ro": "Relaxați-vă pe această plajă pitorească cu pietriș unde apele cristaline vă invită la o baie și nu uitați să luați încălțăminte de apă pentru a intra ușor.",
+            "en": "Relax on this picturesque pebble beach where crystal-clear waters invite you for a refreshing swim, so be sure to pack water shoes for a comfortable entry."
+          }
+        },
+        {
+          "name": {
+            "de": "Befestigung von Meropi",
+            "hu": "Meropi erődítménye",
+            "ro": "Fortificația Meropi",
+            "en": "Fortification of Meropi"
+          },
+          "coords": [
+            22.233096,
+            36.881062
+          ],
+          "category": "castle",
+          "arrive_at": "14:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Ruinen dieser befestigten Insel vor der Küste, indem Sie durch das flache Wasser waten; tragen Sie unbedingt nasse Sandalen.",
+            "hu": "Fedezze fel ennek az erődített szigetnek a lenyűgöző romjait a sekély vízen átkelve, így mindenképpen olyan szandált viseljen, amely könnyen vizes lehet.",
+            "ro": "Descoperiți ruinele fascinante ale acestei insulițe fortificate trecând prin apele puțin adânci, așa că purtați sandale care se pot uda fără nicio problemă.",
+            "en": "Discover the fascinating ruins of this fortified islet right off the coast by walking across the shallow waters, so wear sandals that can easily get wet."
+          }
+        },
+        {
+          "name": {
+            "de": "Patrick Leigh Fermor Museum",
+            "hu": "Patrick Leigh Fermor",
+            "ro": "Patrick Leigh Fermor",
+            "en": "Patrick Leigh Fermor"
+          },
+          "coords": [
+            22.240232,
+            36.878591
+          ],
+          "category": "museum",
+          "arrive_at": "15:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Betreten Sie das wunderschön erhaltene Haus des berühmten britischen Schriftstellers und buchen Sie Ihre Führung im Sommer unbedingt weit im Voraus.",
+            "hu": "Lépjen be a híres brit író gyönyörűen megőrzött otthonába, és nyáron mindenképpen jó előre foglalja le a vezetett túrát, hogy megcsodálhassa az épületet.",
+            "ro": "Pășiți în casa frumos conservată a faimosului scriitor britanic pentru a-i admira arhitectura și rezervați-vă turul ghidat cu mult timp înainte vara.",
+            "en": "Step into the beautifully preserved home of the famous British writer to admire its architecture, and book your guided tour well in advance during summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalamitsi Strand",
+            "hu": "Kalamitsi strand",
+            "ro": "Plaja Kalamitsi",
+            "en": "Kalamitsi Beach"
+          },
+          "coords": [
+            22.23997,
+            36.877579
+          ],
+          "category": "recreational",
+          "arrive_at": "17:35",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre und das flache smaragdgrüne Wasser dieser Bucht; ideal für Familien, obwohl die Parkplätze in der Nähe sehr begrenzt sind.",
+            "hu": "Élvezze e védett öböl nyugodt hangulatát és sekély smaragd vizét, amely tökéletes a családok számára, bár a közeli parkolóhelyek rendkívül korlátozottak.",
+            "ro": "Bucurați-vă de atmosfera liniștită și de apele de smarald puțin adânci ale acestui golf ferit, perfect pentru familii, deși parcarea poate fi limitată.",
+            "en": "Enjoy the tranquil vibe and shallow emerald waters of this sheltered bay, making it perfect for families, though parking nearby can be extremely limited."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer am Mourtzinos-Turm und erkunden Sie die steinernen Festungen. Ein kurzes Treten bringt Sie zum antiken Taphoi Dioskouron, wo die Geschichte durch die Olivenbäume hallt und den tiefgründigen Ton für Ihre Reise an die Küste angibt.\n\nFahren Sie hinunter zu den Kieselstränden von Paralia Ritsa und dann weiter zum Salio Beach. Die Mittagssonne ist perfekt, um zwischen dem Sattel und dem azurblauen Wasser zu wechseln und die spektakuläre Küstenlandschaft der Mani-Halbinsel voll in sich aufzunehmen.\n\nNachmittags erreichen Sie die beeindruckende Festung Meropi, wo Sie das Rad stehen lassen können. Weiter südlich entdecken Sie das Anwesen von Patrick Leigh Fermor, ein Beweis für die Anziehungskraft dieser Region auf Künstler und Schriftsteller der Welt.\n\nDie Radtour endet sanft am Strand von Kalamitsi. Das ruhige, smaragdgrüne Wasser dieser geschützten Bucht bietet die ultimative abendliche Entspannung. Ruhen Sie Ihre Beine auf den warmen Kieselsteinen aus und beobachten Sie, wie sich der Himmel über dem Golf verfärbt.",
+        "hu": "Kezdje kerékpáros kalandját a Mourtzinos-toronynál, felfedezve a helyi vezetők masszív kőépítményeit. Egy rövid tekerés a Taphoi Dioskouronhoz vezet, ahol a történelem visszhangzik az olajfák között, megadva a tengerparti utazás mély és kulturális alaphangját.\n\nTekerjen le Paralia Ritsa kavicsos partjaira, majd guruljon át a Salio strandra. A déli napsütés tökéletes arra, hogy felváltva élvezze a nyerget és a csillogó azúrkék vizet, miközben teljesen magába szívja a Mani-félsziget látványos, hegyekkel övezett tengerparti táját.\n\nA délutáni pedálozás Meropi lenyűgöző erődjéhez visz, ahol hátrahagyva a bringát átkelhet a sekély vízen. Tovább délre felfedezheti a szeretett Patrick Leigh Fermor birtokot, amely bizonyítja a régió művészekre és írókra gyakorolt varázslatos és tartós vonzerejét.\n\nA kerékpáros utazás lágyan ér véget a Kalamitsi strandon. E védett öböl nyugodt, smaragd vize a tökéletes esti kikapcsolódást nyújtja. Pihentesse meg lábait a meleg kavicsokon, és figyelje, ahogy az ég színei megváltoznak a békés Messzéniai-öböl felett naplementekor.",
+        "ro": "Începeți aventura pe bicicletă la Turnul Mourtzinos, explorând structurile de piatră. O scurtă pedalare vă duce la anticele morminte Taphoi Dioskouron, unde istoria răsună printre măslini, stabilind un ton profund și cultural pentru călătoria dumneavoastră pe coastă.\n\nCoborâți spre malurile cu pietriș de la Paralia Ritsa și apoi mergeți agale spre Plaja Salio. Soarele amiezii este perfect pentru a alterna între șa și apele azurii, permițându-vă să absorbiți peisajul spectaculos de coastă al faimoasei peninsule grecești Mani.\n\nPedalarea de după-amiază vă aduce la impresionanta fortificație Meropi, unde lăsați bicicleta pentru a traversa prin apă. Mai la sud, veți descoperi domeniul lui Patrick Leigh Fermor, o dovadă a atracției magice pe care regiunea a exercitat-o mereu asupra artiștilor.\n\nCălătoria se încheie liniștit la Plaja Kalamitsi. Apele de smarald ale acestui golf ferit oferă relaxarea supremă de seară. Vă puteți odihni picioarele pe pietrișul cald și puteți privi cum cerul își schimbă culorile deasupra golfului Messenian pe măsură ce ziua se încheie.",
+        "en": "Start your cycling adventure at the Mourtzinos Tower, exploring the sturdy stonework of local chieftains. A short pedal takes you to the ancient Taphoi Dioskouron, where history echoes through the olive trees, setting a profound tone for your coastal journey.\n\nRide down to the expansive pebble shores of Paralia Ritsa and then gently cruise to Salio Beach. The midday sun is perfect for alternating between the saddle and the sparkling azure waters, letting you fully absorb the spectacular coastal scenery of the Mani peninsula.\n\nYour afternoon pedals bring you to the impressive Fortification of Meropi, where you can leave the bike and cross the shallows. Continuing south, you'll discover the beloved Patrick Leigh Fermor estate, a testament to the region's enchanting pull on artists and writers.\n\nThe bike journey concludes smoothly at Kalamitsi Beach. The calm, emerald waters of this sheltered cove provide the ultimate evening relaxation. You can rest your legs on the warm pebbles and watch the sky change colors over the tranquil Messenian Gulf as the day ends."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:58",
+      "total_km": 5.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "M. Likaki",
+            "hu": "M. Likaki",
+            "ro": "M. Likaki",
+            "en": "M. Likaki"
+          },
+          "coords": [
+            22.248241,
+            36.900526
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese kleine, abgelegene religiöse Stätte in den Hügeln, um ihre traditionelle Steinmetzarbeit zu bewundern und absolute Ruhe zu finden.",
+            "hu": "Látogasson el ebbe a dombok között megbúvó, kis elszigetelt vallási helyszínre, hogy megcsodálja a hagyományos kőfalakat és teljes békére leljen.",
+            "ro": "Vizitați acest mic lăcaș de cult retras, ascuns în dealuri, pentru a admira zidăria sa tradițională din piatră și pentru a găsi un moment de pace absolută.",
+            "en": "Visit this small, beautifully secluded religious site tucked into the hills to admire its traditional stone masonry and find a moment of absolute peace."
+          }
+        },
+        {
+          "name": {
+            "de": "Mourtzinos-Turm",
+            "hu": "Mourtzinos-torony",
+            "ro": "Turnul Mourtzinos",
+            "en": "Mourtzinos Tower"
+          },
+          "coords": [
+            22.234681,
+            36.891237
+          ],
+          "category": "castle",
+          "arrive_at": "09:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen imposanten Turmkomplex der Manioten-Häuptlinge, um die raue Geschichte zu verstehen, und klettern Sie vorsichtig für tolle Ausblicke.",
+            "hu": "Fedezze fel a manióta vezetők lenyűgöző toronykomplexumát, hogy megértse a zord történelmet, és óvatosan másszon fel a csodás tengerparti kilátásért.",
+            "ro": "Explorați acest complex impunător de turnuri al căpeteniilor maniote pentru a înțelege istoria zbuciumată și urcați cu grijă pentru o priveliște uimitoare.",
+            "en": "Explore this imposing tower complex of the Maniot chieftains to understand the region's fierce history, and climb carefully for stunning coastal views."
+          }
+        },
+        {
+          "name": {
+            "de": "Taphoi Dioskouron",
+            "hu": "Taphoi Dioskouron",
+            "ro": "Taphoi Dioskouron",
+            "en": "Taphoi Dioskouron"
+          },
+          "coords": [
+            22.235823,
+            36.891727
+          ],
+          "category": "historical",
+          "arrive_at": "11:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese legendären Felsengräber von Castor und Pollux; bringen Sie ein Weitwinkelobjektiv mit, um die mystische Atmosphäre im Olivenhain einzufangen.",
+            "hu": "Csodálja meg a Kasztórhoz és Polluxhoz kötődő legendás sziklasírokat, és hozzon nagylátószögű objektívet, hogy megörökítse a misztikus atmoszférát.",
+            "ro": "Admirați aceste morminte legendare tăiate în stâncă legate de Castor și Polux și aduceți un obiectiv grandangular pentru a le surprinde atmosfera mistică.",
+            "en": "Admire these legendary rock-cut tombs linked to Castor and Pollux by bringing a wide-angle lens to capture their mystical atmosphere amidst olive groves."
+          }
+        },
+        {
+          "name": {
+            "de": "Paralia Ritsa",
+            "hu": "Paralia Ritsa",
+            "ro": "Paralia Ritsa",
+            "en": "Paralia Ritsa"
+          },
+          "coords": [
+            22.224699,
+            36.894613
+          ],
+          "category": "recreational",
+          "arrive_at": "12:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Strecken Sie sich auf dem langen weißen Kieselstrand aus und kommen Sie früh am Morgen an, um sich einen erstklassigen Platz mit natürlichem Schatten zu sichern.",
+            "hu": "Nyújtózzon el ezen a népszerű strand hosszú, fehér kavicsos partszakaszán, és érkezzen kora reggel, hogy biztosítson magának egy természetes árnyékos helyet.",
+            "ro": "Întindeți-vă pe plaja lungă de pietriș alb și ajungeți dimineața devreme pentru a vă asigura un loc excelent cu umbră naturală oferită de copaci superbi.",
+            "en": "Stretch out on the long expanse of white pebbles at this popular beach, and arrive early in the morning to secure a prime spot with natural tree shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Paralia Ritsa 2e",
+            "hu": "Paralia Ritsa 2e",
+            "ro": "Paralia Ritsa 2e",
+            "en": "Paralia Ritsa 2e"
+          },
+          "coords": [
+            22.227248,
+            36.892623
+          ],
+          "category": "recreational",
+          "arrive_at": "13:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Strecken Sie sich auf dem langen weißen Kieselstrand aus und kommen Sie früh am Morgen an, um sich einen erstklassigen Platz mit natürlichem Schatten zu sichern.",
+            "hu": "Nyújtózzon el ezen a népszerű strand hosszú, fehér kavicsos partszakaszán, és érkezzen kora reggel, hogy biztosítson magának egy természetes árnyékos helyet.",
+            "ro": "Întindeți-vă pe plaja lungă de pietriș alb și ajungeți dimineața devreme pentru a vă asigura un loc excelent cu umbră naturală oferită de copaci superbi.",
+            "en": "Stretch out on the long expanse of white pebbles at this popular beach, and arrive early in the morning to secure a prime spot with natural tree shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Befestigung von Meropi",
+            "hu": "Meropi erődítménye",
+            "ro": "Fortificația Meropi",
+            "en": "Fortification of Meropi"
+          },
+          "coords": [
+            22.233096,
+            36.881062
+          ],
+          "category": "castle",
+          "arrive_at": "15:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Ruinen dieser befestigten Insel vor der Küste, indem Sie durch das flache Wasser waten; tragen Sie unbedingt nasse Sandalen.",
+            "hu": "Fedezze fel ennek az erődített szigetnek a lenyűgöző romjait a sekély vízen átkelve, így mindenképpen olyan szandált viseljen, amely könnyen vizes lehet.",
+            "ro": "Descoperiți ruinele fascinante ale acestei insulițe fortificate trecând prin apele puțin adânci, așa că purtați sandale care se pot uda fără nicio problemă.",
+            "en": "Discover the fascinating ruins of this fortified islet right off the coast by walking across the shallow waters, so wear sandals that can easily get wet."
+          }
+        },
+        {
+          "name": {
+            "de": "Patrick Leigh Fermor Museum",
+            "hu": "Patrick Leigh Fermor",
+            "ro": "Patrick Leigh Fermor",
+            "en": "Patrick Leigh Fermor"
+          },
+          "coords": [
+            22.240232,
+            36.878591
+          ],
+          "category": "museum",
+          "arrive_at": "16:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Betreten Sie das wunderschön erhaltene Haus des berühmten britischen Schriftstellers und buchen Sie Ihre Führung im Sommer unbedingt weit im Voraus.",
+            "hu": "Lépjen be a híres brit író gyönyörűen megőrzött otthonába, és nyáron mindenképpen jó előre foglalja le a vezetett túrát, hogy megcsodálhassa az épületet.",
+            "ro": "Pășiți în casa frumos conservată a faimosului scriitor britanic pentru a-i admira arhitectura și rezervați-vă turul ghidat cu mult timp înainte vara.",
+            "en": "Step into the beautifully preserved home of the famous British writer to admire its architecture, and book your guided tour well in advance during summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalamitsi Strand",
+            "hu": "Kalamitsi strand",
+            "ro": "Plaja Kalamitsi",
+            "en": "Kalamitsi Beach"
+          },
+          "coords": [
+            22.23997,
+            36.877579
+          ],
+          "category": "recreational",
+          "arrive_at": "18:13",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre und das flache smaragdgrüne Wasser dieser Bucht; ideal für Familien, obwohl die Parkplätze in der Nähe sehr begrenzt sind.",
+            "hu": "Élvezze e védett öböl nyugodt hangulatát és sekély smaragd vizét, amely tökéletes a családok számára, bár a közeli parkolóhelyek rendkívül korlátozottak.",
+            "ro": "Bucurați-vă de atmosfera liniștită și de apele de smarald puțin adânci ale acestui golf ferit, perfect pentru familii, deși parcarea poate fi limitată.",
+            "en": "Enjoy the tranquil vibe and shallow emerald waters of this sheltered bay, making it perfect for families, though parking nearby can be extremely limited."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto erreichen Sie zuerst die erhöhte Ruhe von M. Likaki, bevor Sie zum imposanten Mourtzinos-Turm hinabfahren. Der Morgen endet mit einem kurzen Spaziergang zu den mythischen, in den Fels gehauenen Strukturen von Taphoi Dioskouron.\n\nFahren Sie mühelos zu den weiten Stränden von Paralia Ritsa. Mit einem Auto ist es einfach, Ihre Ausrüstung zu verstauen, während Sie eine ausgedehnte Badepause einlegen und sich auf den weißen Kieselsteinen vor der dramatischen Bergkulisse in der Sonne entspannen.\n\nEine kurze Fahrt bringt Sie zu den Untiefen von Meropi, wo alte Ruinen zur Erkundung einladen. Danach parken Sie in der Nähe des Patrick-Leigh-Fermor-Hauses und tauchen tief in die literarische Eleganz ein, die Kardamyli weltweit so unglaublich beliebt gemacht hat.\n\nFahren Sie als letztes zum nahegelegenen Strand von Kalamitsi. Es ist die perfekte geschützte Bucht, um einen langen Tag ausklingen zu lassen. Genießen Sie den Sonnenuntergang auf dem kristallklaren Wasser, während Sie die wilde Schönheit der Mani in sich aufnehmen.",
+        "hu": "Az autóval elsőként elérheti M. Likaki magaslati nyugalmát, majd leereszkedhet az impozáns Mourtzinos-toronyhoz. A délelőtt egy rövid sétával zárul a Taphoi Dioskouron mitikus, sziklába vájt struktúráihoz, ahol elmerülhet a hely történelmi és legendás atmoszférájában.\n\nGuruljon el kényelmesen Paralia Ritsa tágas partvidékére és a szomszédos öblökhöz. Az autó megkönnyíti a felszerelés tárolását, miközben egy kiadós déli úszást élvez, és a drámai hegyek árnyékában, a tiszta fehér kavicsokon sütkérezik a ragyogó mediterrán napsütésben.\n\nEgy rövid dél felé tartó út Meropi sekély vizéhez vezet, ahol ősi romok várják. Ezután parkoljon le a Patrick Leigh Fermor ház közelében, és merüljön el abban az irodalmi és építészeti eleganciában, amely Kardamylit világszerte oly népszerű és szeretett hellyé tette.\n\nAz utolsó állomáshoz vezessen a rövid távolságra lévő Kalamitsi strandra. Ez a tökéletes védett öböl egy hosszú kirándulós nap lezárására. Élvezze a naplementét a kristálytiszta vizen, mielőtt visszaindulna, magával víve a csodás Mani-félsziget vad, érintetlen szépségét.",
+        "ro": "Cu mașina ajungeți mai întâi la liniștea înălțimilor de la M. Likaki, oferind contemplare înainte de a coborî la impozantul Turn Mourtzinos. Dimineața se încheie cu o scurtă plimbare către structurile mitice tăiate în stâncă ale monumentului antic Taphoi Dioskouron.\n\nConduceți fără efort spre întinderea Plajei Ritsa. Având mașină, este ușor să vă depozitați lucrurile în timp ce vă bucurați de o sesiune prelungită de înot la prânz, stând la soare pe pietricelele albe, cu munții dramatici profilându-se maiestuos în fundal.\n\nO scurtă călătorie spre sud vă duce la apele liniștite de la Meropi, unde ruinele fortificate invită la explorare. Apoi parcați lângă casa lui Patrick Leigh Fermor, scufundându-vă în eleganța literară și arhitecturală care a făcut Kardamyli atât de faimos în toată lumea.\n\nPentru ultima oprire, conduceți spre Plaja Kalamitsi. Este golful perfect protejat pentru a încheia o zi plină. Bucurați-vă de apusul reflectat pe apele cristaline înainte de a vă întoarce, luând cu dumneavoastră toată această frumusețe sălbatică a peninsulei Mani.",
+        "en": "Driving allows you to reach the elevated serenity of M. Likaki first, offering quiet contemplation before descending to the imposing Mourtzinos Tower. The morning wraps up with a short walk to the mythical rock-cut structures of Taphoi Dioskouron.\n\nCruise effortlessly to the expansive stretch of Paralia Ritsa and its neighboring coves. Having a car makes it easy to stow your gear while you enjoy an extended midday swimming session, basking on the pristine white pebbles with the dramatic mountains looming behind.\n\nA short drive south brings you to the shallows of Meropi, where ancient fortified ruins invite coastal exploration. Afterwards, park near the Patrick Leigh Fermor house, diving deep into the literary and architectural elegance that has made Kardamyli globally beloved.\n\nFor the final stop, drive the short distance to Kalamitsi Beach. It is the perfect sheltered bay to end an extensive day of touring. Enjoy the sunset reflecting off the tranquil, crystal-clear water before heading back, carrying the wild beauty of the Mani with you."
+      }
+    }
+  }
+}

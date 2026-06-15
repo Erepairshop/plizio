@@ -1,0 +1,405 @@
+{
+  "city_id": "italy-talamone-cities-v2",
+  "anchor": {
+    "name": "Talamone",
+    "coords": [
+      11.13349,
+      42.55495
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:13",
+      "total_km": 0.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo della Pesca e delle Tradizioni Lagunari",
+            "hu": "Museo della Pesca e delle Tradizioni Lagunari",
+            "ro": "Museo della Pesca e delle Tradizioni Lagunari",
+            "en": "Museo della Pesca e delle Tradizioni Lagunari"
+          },
+          "coords": [
+            11.132188,
+            42.554723
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier die alten Fischereitraditionen der Lagune, aber prüfen Sie die saisonalen Öffnungszeiten, bevor Sie dieses kleine Museum besuchen.",
+            "hu": "Fedezze fel az ősi lagúnai halászati hagyományokat itt, de mindenképpen ellenőrizze a szezonális nyitvatartást, mielőtt ellátogat ebbe a múzeumba.",
+            "ro": "Descoperiți aici vechile tradiții de pescuit în lagună, dar asigurați-vă că verificați programul sezonier înainte de a vizita acest mic muzeu local.",
+            "en": "Discover the ancient lagoon fishing traditions here, but make sure to check the seasonal opening hours before you plan your visit to this small museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santa Maria Assunta",
+            "hu": "Chiesa di Santa Maria Assunta",
+            "ro": "Chiesa di Santa Maria Assunta",
+            "en": "Chiesa di Santa Maria Assunta"
+          },
+          "coords": [
+            11.134928,
+            42.55308
+          ],
+          "category": "religious",
+          "arrive_at": "10:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Fresken in dieser ruhigen Kirche und denken Sie daran, sich beim Betreten des heiligen Raumes bescheiden zu kleiden.",
+            "hu": "Csodálja meg a békés templom gyönyörű freskóit, és ne feledjen szerény öltözetben, fedett vállakkal belépni ebbe a csendes, szent és történelmi térbe.",
+            "ro": "Admirați frescele frumoase din această biserică pașnică și amintiți-vă să vă îmbrăcați modest, cu umerii acoperiți, atunci când intrați în lăcaș.",
+            "en": "Admire the beautiful frescoes inside this peaceful church, and remember to dress modestly with covered shoulders when entering the sacred space."
+          }
+        },
+        {
+          "name": {
+            "de": "Rocca Aldobrandesca",
+            "hu": "Rocca Aldobrandesca",
+            "ro": "Rocca Aldobrandesca",
+            "en": "Rocca Aldobrandesca"
+          },
+          "coords": [
+            11.13352,
+            42.552722
+          ],
+          "category": "landmark",
+          "arrive_at": "11:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese mittelalterliche Festung für einen atemberaubenden Blick auf die Küste und tragen Sie feste Schuhe für die unebenen Steinstufen.",
+            "hu": "Fedezze fel ezt az impozáns középkori erődöt a lélegzetelállító parti kilátásért, és viseljen kényelmes cipőt az egyenetlen ősi kőlépcsők megmászásához.",
+            "ro": "Explorați această fortăreață medievală pentru vederi de coastă uluitoare și purtați pantofi rezistenți pentru a urca în siguranță treptele de piatră.",
+            "en": "Explore this imposing medieval fortress for breathtaking coastal views, and wear sturdy shoes for climbing the uneven ancient stone steps safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro di Talamone",
+            "hu": "Faro di Talamone",
+            "ro": "Faro di Talamone",
+            "en": "Faro di Talamone"
+          },
+          "coords": [
+            11.133885,
+            42.551767
+          ],
+          "category": "landmark",
+          "arrive_at": "12:59",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Machen Sie atemberaubende Fotos vom Meer von diesem historischen Leuchtturm, der besonders bei Sonnenuntergang magisch leuchtet und das Wasser färbt.",
+            "hu": "Készítsen lenyűgöző fotókat a tengerről ebből a történelmi világítótoronyból, amely különösen varázslatos naplementekor, amikor a fény lágyul.",
+            "ro": "Captați fotografii uimitoare cu marea de la acest far istoric, care este deosebit de magic la apusul soarelui, când lumina se înmoaie pe apă.",
+            "en": "Capture stunning photos of the sea from this historic lighthouse, which is especially magical at sunset when the light softens across the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Stabilmento balneare Bagno delle Donne",
+            "hu": "Stabilmento balneare Bagno delle Donne",
+            "ro": "Stabilmento balneare Bagno delle Donne",
+            "en": "Stabilmento balneare Bagno delle Donne"
+          },
+          "coords": [
+            11.131769,
+            42.553379
+          ],
+          "category": "recreational",
+          "arrive_at": "13:28",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am kristallklaren Wasser in dieser charmanten Badeanstalt und mieten Sie in der geschäftigen Sommersaison frühzeitig eine Liege.",
+            "hu": "Pihenjen a kristálytiszta víz mellett ebben a hangulatos fürdőhelyben, és nyáron érdemes kora reggel napágyat bérelni, hogy biztosan legyen helye.",
+            "ro": "Relaxați-vă la apa cristalină de la acest complex fermecător și luați în considerare închirierea unui șezlong devreme în timpul sezonului estival.",
+            "en": "Relax by the crystal-clear water at this charming bathing establishment, and consider renting a sunbed early in the day during the busy summer season."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit dem maritimen Erbe im Fischereimuseum, bevor Sie in Richtung Zentrum schlendern. Mittags erreichen Sie die schöne Kirche Santa Maria Assunta und die imposante Aldobrandesca-Festung. Am Nachmittag können Sie vom historischen Leuchtturm aus den Blick auf das Meer genießen. Lassen Sie den Abend entspannt am Wasser im Bagno delle Donne ausklingen.",
+        "hu": "Kezdje a reggelt a tengeri örökség megismerésével a halászati múzeumban, majd sétáljon a városközpont felé. Délben látogasson el a gyönyörű Santa Maria Assunta templomba és az impozáns Aldobrandesca erődbe. Délután gyönyörködjön a kilátásban a történelmi világítótoronyból. A kellemes estét pedig a Bagno delle Donne tengerparti nyugalma mellett pihenve zárhatja le.",
+        "ro": "Începeți dimineața explorând moștenirea maritimă locală la muzeul pescuitului, înainte de a vă plimba spre centru. La prânz vizitați frumoasa biserică Santa Maria Assunta și impunătoarea fortăreață Aldobrandesca. După-amiaza, priviți marea de la farul istoric în timp ce briza vă răcorește. Încheiați seara relaxantă lângă apele cristaline de la Bagno delle Donne.",
+        "en": "Start your morning delving into local maritime heritage at the fishing museum before strolling toward the town center. Midday brings you to the lovely Santa Maria Assunta and the imposing Aldobrandesca fortress. In the afternoon, gaze out from the historic lighthouse as the sea breeze cools you down. Finish your leisurely evening relaxing by the water at Bagno delle Donne."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:05",
+      "total_km": 2.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo della Pesca e delle Tradizioni Lagunari",
+            "hu": "Museo della Pesca e delle Tradizioni Lagunari",
+            "ro": "Museo della Pesca e delle Tradizioni Lagunari",
+            "en": "Museo della Pesca e delle Tradizioni Lagunari"
+          },
+          "coords": [
+            11.132188,
+            42.554723
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier die alten Fischereitraditionen der Lagune, aber prüfen Sie die saisonalen Öffnungszeiten, bevor Sie dieses kleine Museum besuchen.",
+            "hu": "Fedezze fel az ősi lagúnai halászati hagyományokat itt, de mindenképpen ellenőrizze a szezonális nyitvatartást, mielőtt ellátogat ebbe a múzeumba.",
+            "ro": "Descoperiți aici vechile tradiții de pescuit în lagună, dar asigurați-vă că verificați programul sezonier înainte de a vizita acest mic muzeu local.",
+            "en": "Discover the ancient lagoon fishing traditions here, but make sure to check the seasonal opening hours before you plan your visit to this small museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Rocca Aldobrandesca",
+            "hu": "Rocca Aldobrandesca",
+            "ro": "Rocca Aldobrandesca",
+            "en": "Rocca Aldobrandesca"
+          },
+          "coords": [
+            11.13352,
+            42.552722
+          ],
+          "category": "landmark",
+          "arrive_at": "10:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese mittelalterliche Festung für einen atemberaubenden Blick auf die Küste und tragen Sie feste Schuhe für die unebenen Steinstufen.",
+            "hu": "Fedezze fel ezt az impozáns középkori erődöt a lélegzetelállító parti kilátásért, és viseljen kényelmes cipőt az egyenetlen ősi kőlépcsők megmászásához.",
+            "ro": "Explorați această fortăreață medievală pentru vederi de coastă uluitoare și purtați pantofi rezistenți pentru a urca în siguranță treptele de piatră.",
+            "en": "Explore this imposing medieval fortress for breathtaking coastal views, and wear sturdy shoes for climbing the uneven ancient stone steps safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro di Talamone",
+            "hu": "Faro di Talamone",
+            "ro": "Faro di Talamone",
+            "en": "Faro di Talamone"
+          },
+          "coords": [
+            11.133885,
+            42.551767
+          ],
+          "category": "landmark",
+          "arrive_at": "12:13",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Machen Sie atemberaubende Fotos vom Meer von diesem historischen Leuchtturm, der besonders bei Sonnenuntergang magisch leuchtet und das Wasser färbt.",
+            "hu": "Készítsen lenyűgöző fotókat a tengerről ebből a történelmi világítótoronyból, amely különösen varázslatos naplementekor, amikor a fény lágyul.",
+            "ro": "Captați fotografii uimitoare cu marea de la acest far istoric, care este deosebit de magic la apusul soarelui, când lumina se înmoaie pe apă.",
+            "en": "Capture stunning photos of the sea from this historic lighthouse, which is especially magical at sunset when the light softens across the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre di Capo d'Uomo",
+            "hu": "Torre di Capo d'Uomo",
+            "ro": "Torre di Capo d'Uomo",
+            "en": "Torre di Capo d'Uomo"
+          },
+          "coords": [
+            11.124686,
+            42.55812
+          ],
+          "category": "tower",
+          "arrive_at": "12:43",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesem alten Küstenwachturm, um einen Panoramablick auf das Meer zu genießen, aber bringen Sie viel Wasser für den schattenlosen Weg mit.",
+            "hu": "Túrázzon fel ehhez az ősi parti őrtoronyhoz a tengerre nyíló panorámáért, de hozzon magával sok vizet, mivel az ösvényen szinte egyáltalán nincs árnyék.",
+            "ro": "Urcați la acest vechi turn de coastă pentru vederi panoramice ale mării, dar aduceți multă apă, deoarece nu există umbră de-a lungul cărării înguste.",
+            "en": "Hike up to this ancient coastal watchtower for panoramic views of the Tyrrhenian Sea, but bring plenty of water since there is no shade along the path."
+          }
+        },
+        {
+          "name": {
+            "de": "Cisterna romana Di Talamone",
+            "hu": "Cisterna romana Di Talamone",
+            "ro": "Cisterna romana Di Talamone",
+            "en": "Cisterna romana Di Talamone"
+          },
+          "coords": [
+            11.133591,
+            42.563877
+          ],
+          "category": "historical",
+          "arrive_at": "13:15",
+          "stay_min": 110,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die beeindruckende Technik dieser antiken römischen Zisterne und gehen Sie vorsichtig um die nicht vollständig ausgegrabenen Ruinen herum.",
+            "hu": "Csodálja meg ezen ősi római ciszterna lenyűgöző mérnöki munkáját, és óvatosan lépkedjen a még fel nem tárt romok és az egyenetlen kövek körül.",
+            "ro": "Minunați-vă de ingineria acestei cisterne romane antice și pășiți cu grijă în jurul ruinelor neexcavate complet pentru a evita accidentările.",
+            "en": "Marvel at the impressive engineering of this ancient Roman cistern, hidden amid the landscape, and tread carefully around the unexcavated ruins."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens vom Fischereimuseum los und erreichen Sie schnell die historische Festung über der Stadt. Mittags fahren Sie am Wahrzeichen, dem Leuchtturm, vorbei und weiter zum malerischen Turm Capo d'Uomo. Der Nachmittag bietet eine angenehme Fahrt zu den alten römischen Zisternenruinen. Gegen Abend gleiten Sie sicher ins Zentrum zurück und blicken auf den Tag zurück.",
+        "hu": "Induljon kerékpárral a halászati múzeumtól, majd hamarosan elérheti a város fölé magasodó történelmi erődöt. Délben haladjon el az ikonikus világítótorony mellett, majd tekerjen a festői Capo d'Uomo torony felé. Délután kellemes utazás vár az ősi római ciszterna romjainak felfedezéséhez. Ahogy leszáll az est, térjen vissza a központba egy élményekkel teli nap után.",
+        "ro": "Porniți cu bicicleta dimineața de la muzeul pescuitului, înainte de a ajunge rapid la fortăreața istorică. La prânz, treceți pe lângă farul emblematic și mergeți spre turnul pitoresc Capo d'Uomo. După-amiaza oferă o plimbare lină pentru a explora vechile ruine ale cisternei romane. Pe măsură ce se lasă seara, întoarceți-vă în siguranță în centru, reflectând la ziua minunată.",
+        "en": "Pedal into the morning starting at the fishing museum before swiftly reaching the historic fortress overlooking the town. Midday takes you past the iconic lighthouse and out toward the scenic Capo d'Uomo tower. The afternoon offers a smooth ride to explore the ancient Roman cistern ruins. As evening falls, safely glide back to the center and reflect on a rich day of exploration."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "13:57",
+      "total_km": 2.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Cisterna romana Di Talamone",
+            "hu": "Cisterna romana Di Talamone",
+            "ro": "Cisterna romana Di Talamone",
+            "en": "Cisterna romana Di Talamone"
+          },
+          "coords": [
+            11.133591,
+            42.563877
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die beeindruckende Technik dieser antiken römischen Zisterne und gehen Sie vorsichtig um die nicht vollständig ausgegrabenen Ruinen herum.",
+            "hu": "Csodálja meg ezen ősi római ciszterna lenyűgöző mérnöki munkáját, és óvatosan lépkedjen a még fel nem tárt romok és az egyenetlen kövek körül.",
+            "ro": "Minunați-vă de ingineria acestei cisterne romane antice și pășiți cu grijă în jurul ruinelor neexcavate complet pentru a evita accidentările.",
+            "en": "Marvel at the impressive engineering of this ancient Roman cistern, hidden amid the landscape, and tread carefully around the unexcavated ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Francesca di Talamone - Villa le Terme",
+            "hu": "Santa Francesca di Talamone - Villa le Terme",
+            "ro": "Santa Francesca di Talamone - Villa le Terme",
+            "en": "Santa Francesca di Talamone - Villa le Terme"
+          },
+          "coords": [
+            11.135411,
+            42.564351
+          ],
+          "category": "historical",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in dieser historischen Villa mit römischen Thermalbadresten und nehmen Sie sich einen Moment Zeit für die Informationstafeln.",
+            "hu": "Lépjen vissza az időben ebben a római fürdőmaradványokat bemutató történelmi villában, és szánjon egy percet az információs táblák elolvasására.",
+            "ro": "Întoarceți-vă în timp la această vilă istorică ce prezintă rămășițe termale romane și faceți-vă timp să citiți plăcile informative din exterior.",
+            "en": "Step back in time at this historic villa displaying fascinating Roman thermal bath remains, and take a moment to read the informational plaques outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa della Madonna delle Grazie",
+            "hu": "Chiesa della Madonna delle Grazie",
+            "ro": "Chiesa della Madonna delle Grazie",
+            "en": "Chiesa della Madonna delle Grazie"
+          },
+          "coords": [
+            11.136811,
+            42.563947
+          ],
+          "category": "religious",
+          "arrive_at": "11:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Moment der stillen Reflexion in diesem malerischen Heiligtum und bringen Sie eine kleine Spende mit, um eine Kerze anzuzünden.",
+            "hu": "Élvezze a csendes elmélkedés pillanatait ebben a festői szentélyben, és hozzon magával némi aprópénzt, ha szeretne gyertyát gyújtani a kápolnában.",
+            "ro": "Bucurați-vă de o clipă de liniște la acest sanctuar pitoresc de pe deal și aduceți o mică donație dacă doriți să aprindeți o lumânare în capelă.",
+            "en": "Enjoy a moment of quiet reflection at this quaint hilltop sanctuary, and bring a small donation if you wish to light a votive candle inside the chapel."
+          }
+        },
+        {
+          "name": {
+            "de": "Semaforo",
+            "hu": "Semaforo",
+            "ro": "Semaforo",
+            "en": "Semaforo"
+          },
+          "coords": [
+            11.123493,
+            42.563902
+          ],
+          "category": "natural",
+          "arrive_at": "12:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Blick auf das Meer von dieser alten Semaphorstation, wo Sie mit einem Fernglas entfernte Inseln am Horizont sehen können.",
+            "hu": "Élvezze a tengerre nyíló kilátást ebből a régi szemafor állomásból, ahol egy távcsővel még a távoli szigeteket is könnyedén és tisztán láthatja.",
+            "ro": "Admirați priveliștile maritime din această veche stație de semafor, unde aducerea unui binoclu vă va răsplăti cu observarea clară a insulelor.",
+            "en": "Take in the sweeping maritime vistas from this old semaphore station, where bringing a pair of binoculars will reward you with clear island sightings."
+          }
+        },
+        {
+          "name": {
+            "de": "Punta del Corvo",
+            "hu": "Punta del Corvo",
+            "ro": "Punta del Corvo",
+            "en": "Punta del Corvo"
+          },
+          "coords": [
+            11.12186,
+            42.568184
+          ],
+          "category": "natural",
+          "arrive_at": "13:02",
+          "stay_min": 55,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihr Abenteuer an diesem rauen natürlichen Aussichtspunkt über den Klippen und halten Sie beim Fotografieren einen sicheren Abstand zum Rand.",
+            "hu": "Zárja a kalandot ennél a drámai sziklákra néző természetes kilátónál, biztonságos távolságot tartva a peremtől, miközben fotózza a partvidéket.",
+            "ro": "Încheiați-vă aventura la acest punct de belvedere natural peste stânci, păstrând o distanță sigură de margine în timp ce fotografiați coasta.",
+            "en": "End your adventure at this rugged natural viewpoint over the dramatic cliffs, keeping a safe distance from the edge while photographing the coastline."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens los, um alte Geheimnisse an der römischen Zisterne und den faszinierenden Thermen der Villa le Terme zu entdecken. Gegen Mittag bringt Sie eine kurze Fahrt zur ruhigen Madonna delle Grazie. Verbringen Sie Ihren Nachmittag mit unglaublichen Ausblicken von der alten Semaphorstation. Lassen Sie den Abend mit einer unvergesslichen Fahrt zur Punta del Corvo ausklingen.",
+        "hu": "Autózzon el reggel az ősi római ciszternához és a Villa le Terme lenyűgöző fürdőmaradványaihoz. Délben egy rövid úttal elérheti a csendes Madonna delle Grazie templomot egy kis elvonulásra. Töltse a délutánt azzal, hogy hihetetlen kilátást élvez a régi szemafor állomásról. Zárja az estét egy felejthetetlen naplementés autózással a Punta del Corvo felé.",
+        "ro": "Conduceți dimineața pentru a descoperi secrete la cisterna romană și rămășițele termale de la Villa le Terme. La prânz, un scurt drum vă aduce la liniștita Madonna delle Grazie pentru retragere pașnică. Petreceți-vă după-amiaza admirând priveliștile incredibile de la vechea stație de semafor. Încheiați seara cu o plimbare de neuitat la apus către Punta del Corvo.",
+        "en": "Drive off in the morning to uncover ancient secrets at the Roman cistern and the fascinating thermal remnants of Villa le Terme. By midday, a short drive brings you to the quiet Madonna delle Grazie for a peaceful retreat. Spend your afternoon catching incredible views from the old Semaphore station. Conclude the evening with an unforgettable sunset drive to Punta del Corvo."
+      }
+    }
+  }
+}

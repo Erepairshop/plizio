@@ -1,0 +1,474 @@
+{
+  "city_id": "solo-surakarta-cities-v2",
+  "anchor": {
+    "name": "Surakarta (Solo)",
+    "coords": [
+      110.826,
+      -7.575
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 1.67,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Keraton Surakarta Hadiningrat",
+            "hu": "Keraton Surakarta Hadiningrat",
+            "ro": "Keraton Surakarta Hadiningrat",
+            "en": "Keraton Surakarta Hadiningrat"
+          },
+          "coords": [
+            110.82728,
+            -7.578
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die königlichen Höfe, die Javas Kultur prägen, und buchen Sie am Eingang einen Guide für tiefere historische Einblicke.",
+            "hu": "Fedezze fel a jávai kultúrát meghatározó királyi udvarokat, és a bejáratnál mindenképpen fogadjon helyi idegenvezetőt a részletesebb történelemért.",
+            "ro": "Explorați curțile regale grandioase care definesc cultura javaneză, având grijă să angajați un ghid local la intrare pentru context istoric.",
+            "en": "Explore the grand royal courts that define Javanese culture, making sure to hire a local guide at the entrance for deeper historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Große Moschee von Surakarta",
+            "hu": "Surakarta Nagy Mecsetje",
+            "ro": "Marea Moschee din Surakarta",
+            "en": "Great Mosque of Surakarta"
+          },
+          "coords": [
+            110.826721,
+            -7.574405
+          ],
+          "category": "religious",
+          "arrive_at": "10:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Mischung aus javanischer und islamischer Architektur, aber denken Sie an angemessene Kleidung für den Hauptgebetsraum.",
+            "hu": "Csodálja meg a jávai és iszlám építészet ötvözetét ebben a történelmi mecsetben, de ne feledjen szerény öltözéket viselni a belépéshez.",
+            "ro": "Admirați amestecul de arhitectură javaneză și islamică în această moschee istorică, dar asigurați-vă că vă îmbrăcați decent pentru a intra.",
+            "en": "Admire the blend of Javanese and Islamic architecture in this historic mosque, but remember to dress modestly to enter the main prayer hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Klewer Markt",
+            "hu": "Klewer Piac",
+            "ro": "Piața Klewer",
+            "en": "Klewer Market"
+          },
+          "coords": [
+            110.826537,
+            -7.575475
+          ],
+          "category": "cultural",
+          "arrive_at": "11:38",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Verlieren Sie sich in den Gassen dieses Textilmarktes, um authentische Batik zu finden, und verhandeln Sie respektvoll für den besten Preis.",
+            "hu": "Vesszen el ennek a legendás textilpiacnak a nyüzsgő sikátoraiban autentikus batikokért, és bátran, de tisztelettel alkudjon a legjobb árért.",
+            "ro": "Pierdeți-vă pe aleile vibrante ale acestei piețe textile pentru a găsi batik autentic și nu ezitați să negociați politicos pentru cel mai bun preț.",
+            "en": "Get lost in the vibrant alleys of this legendary textile market to find authentic batik, and don't hesitate to bargain respectfully for the best price."
+          }
+        },
+        {
+          "name": {
+            "de": "Pasar Triwindu",
+            "hu": "Pasar Triwindu",
+            "ro": "Pasar Triwindu",
+            "en": "Pasar Triwindu"
+          },
+          "coords": [
+            110.822553,
+            -7.569183
+          ],
+          "category": "cultural",
+          "arrive_at": "12:40",
+          "stay_min": 50,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Stöbern Sie in diesem Markt nach faszinierenden javanischen Antiquitäten und bringen Sie Bargeld mit, da die meisten Händler keine Karten akzeptieren.",
+            "hu": "Böngésszen lenyűgöző jávai régiségek között ebben a kétszintes piacban, és hozzon készpénzt, mivel a legtöbb árus nem fogad el kártyát.",
+            "ro": "Căutați antichități javaneze fascinante în această piață cu două etaje și aduceți numerar, deoarece majoritatea vânzătorilor nu acceptă carduri.",
+            "en": "Browse fascinating Javanese antiques and vintage curiosities in this two-story market, bringing cash since most vendors do not accept cards."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Pura Mangkunegaran",
+            "hu": "Pura Mangkunegaran Múzeum",
+            "ro": "Muzeul Pura Mangkunegaran",
+            "en": "Museum Pura Mangkunegaran"
+          },
+          "coords": [
+            110.823095,
+            -7.566001
+          ],
+          "category": "museum",
+          "arrive_at": "13:35",
+          "stay_min": 130,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die kunstvollen Pavillons dieser Fürstenresidenz und beenden Sie Ihren Besuch mit einem entspannenden Tee im Palastcafé.",
+            "hu": "Csodálja meg az aprólékos pavilonokat és a hatalmas gyűjteményeket, majd zárja látogatását egy nyugtató teával a palota kávézójában.",
+            "ro": "Minunați-vă de pavilioanele complicate și colecțiile vaste ale acestui palat, încheind vizita cu un ceai relaxant la cafeneaua complexului.",
+            "en": "Marvel at the intricate pavilions and vast collections of this lesser principality, ending your visit with a relaxing tea at the palace café."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Die Erkundung des königlichen Herzens von Surakarta beginnt am großen Keraton, gefolgt von der spirituellen Großen Moschee.\nMidday: Die Mittagsstunden tauchen in den lokalen Handel ein und suchen nach Batik-Schätzen auf dem geschäftigen Klewer-Markt.\nAfternoon: Der Nachmittag ist für den Triwindu-Antikmarkt reserviert, bevor man zu den Pavillons von Mangkunegaran schlendert.\nEvening: Der Tag endet anmutig mit den Reflexionen des Sonnenuntergangs an den eleganten Palastpavillons von Mangkunegaran.",
+        "hu": "Morning: Surakarta királyi szívének felfedezése a hatalmas Keratonban kezdődik, majd egy kis spirituális szünet következik a Nagy Mecsetben.\nMidday: A déli órák a helyi kereskedelembe vezetnek minket, ahol batikolt kincsekre vadászhatunk a nyüzsgő Klewer piacon.\nAfternoon: A délután a Triwindu régiségpiac varázsáról szól, mielőtt a Mangkunegaran palota felé vennénk az irányt.\nEvening: A nap kecsesen zárul a naplemente fényeiben az elegáns Mangkunegaran palota lenyűgöző pavilonjai között.",
+        "ro": "Morning: Explorarea inimii regale a Surakartei începe la mărețul Keraton, urmată de o pauză spirituală la Marea Moschee.\nMidday: Orele amiezii plonjează în comerțul local, căutând comori din material batik la piața plină de viață Klewer.\nAfternoon: După-amiaza este rezervată farmecului de epocă de la piața Triwindu și plimbării spre curțile Mangkunegaran.\nEvening: Ziua se încheie grațios cu reflexiile apusului la pavilioanele elegante ale palatului Mangkunegaran.",
+        "en": "Morning: Exploring the royal heart of Surakarta begins at the grand Keraton, followed by a spiritual pause at the Great Mosque.\nMidday: The midday hours dive into local commerce, hunting for batik treasures at the bustling Klewer Market.\nAfternoon: The afternoon is reserved for vintage charms at the Triwindu antique market and strolling toward the Mangkunegaran courts.\nEvening: The day gracefully concludes with sunset reflections at the elegant Mangkunegaran palace pavilions."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:54",
+      "total_km": 2.59,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum Keris Nusantara",
+            "hu": "Keris Nusantara Múzeum",
+            "ro": "Muzeul Keris Nusantara",
+            "en": "Museum Keris Nusantara"
+          },
+          "coords": [
+            110.810938,
+            -7.568982
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die spirituelle Bedeutung der traditionellen indonesischen Dolche und schauen Sie sich das Schmiede-Video im Erdgeschoss an.",
+            "hu": "Fedezze fel a hagyományos indonéz tőrök mély spirituális jelentését, és szánjon időt a földszinti kovácsolást bemutató videó megtekintésére.",
+            "ro": "Descoperiți semnificația spirituală profundă a pumnalelor indoneziene expuse, făcându-vă timp pentru a viziona videoclipul forjării la parter.",
+            "en": "Discover the deep spiritual meaning of traditional Indonesian daggers on display, taking time to watch the insightful forging video on the first floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Radya Pustaka",
+            "hu": "Radya Pustaka Múzeum",
+            "ro": "Muzeul Radya Pustaka",
+            "en": "Museum Radya Pustaka"
+          },
+          "coords": [
+            110.814412,
+            -7.568691
+          ],
+          "category": "museum",
+          "arrive_at": "10:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Tauchen Sie in eines der ältesten Museen Indonesiens ein, um alte Gamelan-Instrumente zu sehen, besonders die seltene Rajamala-Figur.",
+            "hu": "Merüljön el Indonézia egyik legrégebbi múzeumában az ősi gamelán hangszerekért, különös tekintettel a ritka Rajamala figurára a terem végében.",
+            "ro": "Pătrundeți în cel mai vechi muzeu indonezian pentru a vedea instrumente gamelan antice, căutând figurina rară Rajamala spre partea din spate.",
+            "en": "Delve into one of Indonesia's oldest museums to see ancient gamelan instruments, keeping an eye out for the rare Rajamala figure near the back."
+          }
+        },
+        {
+          "name": {
+            "de": "House of Danar Hadi",
+            "hu": "Danar Hadi Ház",
+            "ro": "Casa Danar Hadi",
+            "en": "House of Danar Hadi"
+          },
+          "coords": [
+            110.81637,
+            -7.56876
+          ],
+          "category": "museum",
+          "arrive_at": "12:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die weltweit umfangreichste Batiksammlung mit regionalen Mustern und genießen Sie die obligatorische Führung zu den Techniken.",
+            "hu": "Tekintse meg a világ legátfogóbb batikgyűjteményét, és vegyen részt a kötelező vezetett túrán, hogy megértse a bonyolult készítési technikákat.",
+            "ro": "Admirați cea mai completă colecție de batik din lume cu modele regionale și bucurați-vă de turul ghidat obligatoriu pentru a învăța tehnicile.",
+            "en": "Witness the world's most comprehensive batik collection showcasing distinct regional patterns, and enjoy the mandatory guided tour to learn the techniques."
+          }
+        },
+        {
+          "name": {
+            "de": "Pasar Triwindu",
+            "hu": "Pasar Triwindu",
+            "ro": "Pasar Triwindu",
+            "en": "Pasar Triwindu"
+          },
+          "coords": [
+            110.822553,
+            -7.569183
+          ],
+          "category": "cultural",
+          "arrive_at": "14:17",
+          "stay_min": 50,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.66,
+          "tip_5lang": {
+            "de": "Stöbern Sie in diesem Markt nach faszinierenden javanischen Antiquitäten und bringen Sie Bargeld mit, da die meisten Händler keine Karten akzeptieren.",
+            "hu": "Böngésszen lenyűgöző jávai régiségek között ebben a kétszintes piacban, és hozzon készpénzt, mivel a legtöbb árus nem fogad el kártyát.",
+            "ro": "Căutați antichități javaneze fascinante în această piață cu două etaje și aduceți numerar, deoarece majoritatea vânzătorilor nu acceptă carduri.",
+            "en": "Browse fascinating Javanese antiques and vintage curiosities in this two-story market, bringing cash since most vendors do not accept cards."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort Vastenburg",
+            "hu": "Vastenburg Erőd",
+            "ro": "Fortul Vastenburg",
+            "en": "Vastenburg Fort"
+          },
+          "coords": [
+            110.831236,
+            -7.572122
+          ],
+          "category": "fortress",
+          "arrive_at": "15:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie um die Mauern dieser holländischen Kolonialfestung und machen Sie im späten Nachmittagslicht tolle Fotos von den monumentalen Toren.",
+            "hu": "Sétáljon a 18. századi holland gyarmati erőd lenyűgöző falai körül, és készítsen remek fotókat a monumentális kapukról a késő délutáni napfényben.",
+            "ro": "Plimbați-vă în jurul zidurilor acestei fortărețe coloniale olandeze, surprinzând fotografii grozave ale porților în lumina târzie a după-amiezii.",
+            "en": "Walk around the imposing walls of this 18th-century Dutch colonial fortress, capturing great photos of the monumental gates in the late afternoon sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Pasar Gede Harjonagoro",
+            "hu": "Pasar Gede Harjonagoro",
+            "ro": "Pasar Gede Harjonagoro",
+            "en": "Pasar Gede Harjonagoro"
+          },
+          "coords": [
+            110.831692,
+            -7.569083
+          ],
+          "category": "cultural",
+          "arrive_at": "16:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erleben Sie die Energie des wichtigsten traditionellen Marktes von Solo und probieren Sie das lokale Dessert Dawet Selasih in der Haupthalle.",
+            "hu": "Tapasztalja meg Solo fő hagyományos piacának pezsgő energiáját, és kóstolja meg a helyi dawet selasih desszertet a központi csarnok árusainál.",
+            "ro": "Experimentați energia vibrantă a pieței tradiționale din Solo, gustând desertul local dawet selasih vândut de comercianți în hala centrală.",
+            "en": "Experience the bustling energy of Solo's main traditional market, tasting the local dawet selasih dessert sold by vendors in the central hall."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Eine erfrischende Fahrt führt zum Keris-Museum und anschließend zum historischen Radya Pustaka.\nMidday: Die kulturelle Reise erreicht um die Mittagszeit ihren Höhepunkt bei der Danar Hadi Batik-Sammlung.\nAfternoon: Die Nachmittagstour führt durch die Stände von Triwindu, bevor die imposanten Mauern des Forts Vastenburg erreicht werden.\nEvening: In der Dämmerung bietet die lebhafte Atmosphäre von Pasar Gede den perfekten Rahmen, um javanische Köstlichkeiten zu probieren.",
+        "hu": "Morning: Egy frissítő reggeli tekerés elvisz a Keris Múzeumhoz, majd a történelmi Radya Pustaka intézményéhez.\nMidday: A kulturális utazás délben éri el csúcspontját egy lenyűgöző túrával a hatalmas Danar Hadi batikgyűjteményben.\nAfternoon: A délutáni pedálozás a Triwindu régiségein keresztül vezet a Vastenburg erőd lenyűgöző falaihoz.\nEvening: Ahogy leszáll az est, a Pasar Gede nyüzsgő hangulata tökéletes hátteret kínál a helyi jávai finomságok megkóstolásához.",
+        "ro": "Morning: O plimbare răcoritoare de dimineață vă duce la Muzeul Keris, urmată de istoricul Radya Pustaka.\nMidday: Călătoria culturală atinge apogeul în jurul prânzului cu un tur fascinant prin colecțiile de batik Danar Hadi.\nAfternoon: Pedalarea de după-amiază vă ghidează prin tarabele antice din Triwindu înainte de a ajunge la Fortul Vastenburg.\nEvening: Odată cu lăsarea serii, atmosfera vibrantă a pieței Pasar Gede oferă cadrul perfect pentru a gusta deliciile locale.",
+        "en": "Morning: A refreshing morning ride takes you to the Keris Museum to appreciate dagger making, followed by the historic Radya Pustaka.\nMidday: The cultural journey peaks around midday with a mesmerizing tour through the extensive Danar Hadi batik collections.\nAfternoon: Afternoon pedals lead you through the antique stalls of Triwindu before reaching the imposing walls of Vastenburg Fort.\nEvening: As dusk settles, the bustling atmosphere of Pasar Gede offers the perfect setting to sample local Javanese culinary delights."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:11",
+      "total_km": 4.85,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum Keris Nusantara",
+            "hu": "Keris Nusantara Múzeum",
+            "ro": "Muzeul Keris Nusantara",
+            "en": "Museum Keris Nusantara"
+          },
+          "coords": [
+            110.810938,
+            -7.568982
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die spirituelle Bedeutung der traditionellen indonesischen Dolche und schauen Sie sich das Schmiede-Video im Erdgeschoss an.",
+            "hu": "Fedezze fel a hagyományos indonéz tőrök mély spirituális jelentését, és szánjon időt a földszinti kovácsolást bemutató videó megtekintésére.",
+            "ro": "Descoperiți semnificația spirituală profundă a pumnalelor indoneziene expuse, făcându-vă timp pentru a viziona videoclipul forjării la parter.",
+            "en": "Discover the deep spiritual meaning of traditional Indonesian daggers on display, taking time to watch the insightful forging video on the first floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumen Pers Nasional",
+            "hu": "Nemzeti Sajtó Emlékmű",
+            "ro": "Monumentul Presei Naționale",
+            "en": "Monumen Pers Nasional"
+          },
+          "coords": [
+            110.818046,
+            -7.565063
+          ],
+          "category": "museum",
+          "arrive_at": "10:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Verfolgen Sie die Geschichte des indonesischen Journalismus durch alte Schreibmaschinen und sehen Sie sich die Originalzeitungen im Untergeschoss an.",
+            "hu": "Kövesse nyomon az indonéz újságírás lenyűgöző történetét régi írógépeken keresztül, és nézze meg az eredeti újságokat az alagsori archívumban.",
+            "ro": "Urmăriți istoria fascinantă a jurnalismului indonezian prin mașini de scris de epocă, verificând ziarele originale din arhiva de la subsol.",
+            "en": "Trace the fascinating history of Indonesian journalism through vintage typewriters and archives, checking out the original newspapers in the basement."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Pura Mangkunegaran",
+            "hu": "Pura Mangkunegaran Múzeum",
+            "ro": "Muzeul Pura Mangkunegaran",
+            "en": "Museum Pura Mangkunegaran"
+          },
+          "coords": [
+            110.823095,
+            -7.566001
+          ],
+          "category": "museum",
+          "arrive_at": "12:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die kunstvollen Pavillons dieser Fürstenresidenz und beenden Sie Ihren Besuch mit einem entspannenden Tee im Palastcafé.",
+            "hu": "Csodálja meg az aprólékos pavilonokat és a hatalmas gyűjteményeket, majd zárja látogatását egy nyugtató teával a palota kávézójában.",
+            "ro": "Minunați-vă de pavilioanele complicate și colecțiile vaste ale acestui palat, încheind vizita cu un ceai relaxant la cafeneaua complexului.",
+            "en": "Marvel at the intricate pavilions and vast collections of this lesser principality, ending your visit with a relaxing tea at the palace café."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort Vastenburg",
+            "hu": "Vastenburg Erőd",
+            "ro": "Fortul Vastenburg",
+            "en": "Vastenburg Fort"
+          },
+          "coords": [
+            110.831236,
+            -7.572122
+          ],
+          "category": "fortress",
+          "arrive_at": "14:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Spazieren Sie um die Mauern dieser holländischen Kolonialfestung und machen Sie im späten Nachmittagslicht tolle Fotos von den monumentalen Toren.",
+            "hu": "Sétáljon a 18. századi holland gyarmati erőd lenyűgöző falai körül, és készítsen remek fotókat a monumentális kapukról a késő délutáni napfényben.",
+            "ro": "Plimbați-vă în jurul zidurilor acestei fortărețe coloniale olandeze, surprinzând fotografii grozave ale porților în lumina târzie a după-amiezii.",
+            "en": "Walk around the imposing walls of this 18th-century Dutch colonial fortress, capturing great photos of the monumental gates in the late afternoon sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Keraton Surakarta Hadiningrat",
+            "hu": "Keraton Surakarta Hadiningrat",
+            "ro": "Keraton Surakarta Hadiningrat",
+            "en": "Keraton Surakarta Hadiningrat"
+          },
+          "coords": [
+            110.82728,
+            -7.578
+          ],
+          "category": "museum",
+          "arrive_at": "15:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die königlichen Höfe, die Javas Kultur prägen, und buchen Sie am Eingang einen Guide für tiefere historische Einblicke.",
+            "hu": "Fedezze fel a jávai kultúrát meghatározó királyi udvarokat, és a bejáratnál mindenképpen fogadjon helyi idegenvezetőt a részletesebb történelemért.",
+            "ro": "Explorați curțile regale grandioase care definesc cultura javaneză, având grijă să angajați un ghid local la intrare pentru context istoric.",
+            "en": "Explore the grand royal courts that define Javanese culture, making sure to hire a local guide at the entrance for deeper historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Große Moschee von Surakarta",
+            "hu": "Surakarta Nagy Mecsetje",
+            "ro": "Marea Moschee din Surakarta",
+            "en": "Great Mosque of Surakarta"
+          },
+          "coords": [
+            110.826721,
+            -7.574405
+          ],
+          "category": "religious",
+          "arrive_at": "17:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Mischung aus javanischer und islamischer Architektur, aber denken Sie an angemessene Kleidung für den Hauptgebetsraum.",
+            "hu": "Csodálja meg a jávai és iszlám építészet ötvözetét ebben a történelmi mecsetben, de ne feledjen szerény öltözéket viselni a belépéshez.",
+            "ro": "Admirați amestecul de arhitectură javaneză și islamică în această moschee istorică, dar asigurați-vă că vă îmbrăcați decent pentru a intra.",
+            "en": "Admire the blend of Javanese and Islamic architecture in this historic mosque, but remember to dress modestly to enter the main prayer hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Privatmuseum Tumurun",
+            "hu": "Tumurun Magánmúzeum",
+            "ro": "Muzeul Privat Tumurun",
+            "en": "Tumurun Private Museum"
+          },
+          "coords": [
+            110.816222,
+            -7.570344
+          ],
+          "category": "museum",
+          "arrive_at": "18:01",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von zeitgenössischer Kunst und Oldtimern begeistern, aber denken Sie daran, Ihre kostenlosen Tickets weit im Voraus zu reservieren.",
+            "hu": "Ámuljon el a lenyűgöző kortárs indonéz művészeten és a klasszikus autókon, de ne felejtse el jó előre lefoglalni az ingyenes belépőjegyeket.",
+            "ro": "Lăsați-vă uimit de arta contemporană indoneziană și de mașinile clasice, dar nu uitați să vă rezervați biletele gratuite cu mult timp înainte.",
+            "en": "Be amazed by the stunning contemporary Indonesian art alongside classic cars, but remember that you must reserve your free entry tickets well in advance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihre komfortable Fahrt mit dem einzigartigen Erbe im Keris-Museum und dem nationalen Pressedenkmal.\nMidday: Genießen Sie die Pracht des Pura Mangkunegaran Palastes vor einer kurzen Fahrt zum kolonialen Fort Vastenburg.\nAfternoon: Das königliche Erbe geht weiter, während Sie den majestätischen Keraton und die angrenzende Große Moschee erkunden.\nEvening: Beenden Sie Ihre Tour mit einem exklusiven Abend, an dem Sie die zeitgenössische Kunst im Tumurun Museum entdecken.",
+        "hu": "Morning: Kezdje a kényelmes utazást az egyedülálló indonéz örökséggel a Keris Múzeumban, majd a nemzeti sajtóemlékműnél.\nMidday: Élvezze a Pura Mangkunegaran palota pompáját, majd tegyen egy rövid utat a gyarmati Vastenburg erőd megcsodálásához.\nAfternoon: A királyi örökség felfedezése a fenséges Keraton és a szomszédos Nagy Mecset megtekintésével folytatódik a központban.\nEvening: Zárja a városnézést egy exkluzív estével, ahol a Tumurun Magánmúzeum vibráló kortárs művészeti alkotásait csodálhatja meg.",
+        "ro": "Morning: Începeți traseul confortabil cu moștenirea unică din Indonezia la Muzeul Keris, urmat de monumentul presei naționale.\nMidday: Bucurați-vă de măreția palatului Pura Mangkunegaran înainte de a admira arhitectura colonială a Fortului Vastenburg.\nAfternoon: Moștenirea regală continuă pe măsură ce explorați maiestuosul Keraton și Marea Moschee adiacentă din inima orașului.\nEvening: Încheiați turul orașului cu o seară exclusivistă explorând piesele vibrante de artă contemporană de la Muzeul Tumurun.",
+        "en": "Morning: Start your comfortable drive with Indonesia's unique heritage at the Keris Museum, followed by the national press monument.\nMidday: Enjoy the grandeur of the Pura Mangkunegaran palace before a quick drive to marvel at the colonial Vastenburg Fort.\nAfternoon: The royal heritage continues as you explore the majestic Keraton and its adjacent Great Mosque in the heart of the city.\nEvening: Wrap up your city tour with an exclusive evening exploring the vibrant contemporary art pieces at the Tumurun Private Museum."
+      }
+    }
+  }
+}

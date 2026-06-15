@@ -1,0 +1,534 @@
+{
+  "city_id": "cergy",
+  "anchor": {
+    "name": "Cergy",
+    "coords": [
+      2.0361,
+      49.0522
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:57",
+      "total_km": 2.42,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Belvédère Tower",
+            "hu": "Belvédère Tower",
+            "ro": "Belvédère Tower",
+            "en": "Belvédère Tower"
+          },
+          "coords": [
+            2.0328,
+            49.0459
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besteigen Sie dieses moderne Architekturwunder für einen weiten Blick über die Axe Majeur und die Oise, aber prüfen Sie vorher die Öffnungszeiten, um Enttäuschungen zu vermeiden.",
+            "hu": "Mássza meg ezt a modern építészeti csodát, ahonnan pazar kilátás nyílik az Axe Majeur-re, de előtte feltétlenül ellenőrizze a nyitvatartást, hogy elkerülje a zárt ajtókat.",
+            "ro": "Urcați în această minunăție arhitecturală pentru o priveliște superbă asupra Axe Majeur, însă verificați programul de funcționare înainte pentru a nu găsi ușile închise.",
+            "en": "Climb this modern architectural marvel for sweeping views over the Axe Majeur and the winding Oise river, but check opening hours beforehand to avoid a closed door."
+          }
+        },
+        {
+          "name": {
+            "de": "Axe Majeur",
+            "hu": "Axe Majeur",
+            "ro": "Axe Majeur",
+            "en": "Axe Majeur"
+          },
+          "coords": [
+            2.035766,
+            49.048818
+          ],
+          "category": "cultural",
+          "arrive_at": "10:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang dieser monumentalen roten Achse von Dani Karavan, die urbanes Design perfekt mit der Natur verbindet, und nehmen Sie ein Weitwinkelobjektiv für Fotos mit.",
+            "hu": "Sétáljon végig Dani Karavan monumentális piros tengelyén, amely tökéletesen ötvözi a modern dizájnt a természettel, és mindenképpen hozzon magával széles látószögű objektívet.",
+            "ro": "Plimbați-vă pe această axă monumentală a lui Dani Karavan, care îmbină perfect designul urban cu natura, și luați un obiectiv superangular pentru a surprinde cele mai bune cadre.",
+            "en": "Stroll along this monumental red paved axis by Dani Karavan, which perfectly aligns modern urban design with nature, taking a wide-angle lens for the best perspectives."
+          }
+        },
+        {
+          "name": {
+            "de": "The Twelve Columns",
+            "hu": "The Twelve Columns",
+            "ro": "The Twelve Columns",
+            "en": "The Twelve Columns"
+          },
+          "coords": [
+            2.03783,
+            49.042205
+          ],
+          "category": "cultural",
+          "arrive_at": "12:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Stehen Sie unter diesen weißen Säulen, die an klaren Tagen die Pariser Skyline umrahmen, und kommen Sie zur goldenen Stunde, wenn sich die Schatten dramatisch verlängern.",
+            "hu": "Álljon be ezek alá a tornyosuló fehér oszlopok alá, amelyek tiszta időben a párizsi sziluettet keretezik, és próbáljon meg az aranyórában érkezni a drámai árnyékokért.",
+            "ro": "Stați sub acești stâlpi albi impunători care încadrează orizontul parizian în zilele senine și vizitați în timpul orei de aur pentru a admira umbrele spectaculoase și prelungite.",
+            "en": "Stand beneath these towering white pillars that gracefully frame the Parisian skyline on clear days, and visit during golden hour when the shadows stretch dramatically."
+          }
+        },
+        {
+          "name": {
+            "de": "Axe Majeur Footbridge",
+            "hu": "Axe Majeur Footbridge",
+            "ro": "Axe Majeur Footbridge",
+            "en": "Axe Majeur Footbridge"
+          },
+          "coords": [
+            2.042645,
+            49.038002
+          ],
+          "category": "civic",
+          "arrive_at": "13:33",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.58,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese auffällige rote Brücke, die die Teiche mit geometrischer Präzision überspannt, und tragen Sie bequeme Schuhe, da die umliegenden Wege sehr weitläufig sind.",
+            "hu": "Keljen át ezen a lenyűgöző piros hídon, amely geometriai pontossággal ível át a folyón, és viseljen kényelmes cipőt, mivel a környező sétányok meglehetősen hosszúak.",
+            "ro": "Traversați această impresionantă punte roșie care se întinde cu precizie geometrică peste râu și purtați încălțăminte confortabilă, deoarece potecile din jur sunt destul de lungi.",
+            "en": "Cross this striking red bridge that spans the ponds and river with geometric precision, wearing comfortable walking shoes as the surrounding paths are quite extensive."
+          }
+        },
+        {
+          "name": {
+            "de": "Cergy-Pontoise Leisure Island",
+            "hu": "Cergy-Pontoise Leisure Island",
+            "ro": "Cergy-Pontoise Leisure Island",
+            "en": "Cergy-Pontoise Leisure Island"
+          },
+          "coords": [
+            2.0486,
+            49.0308
+          ],
+          "category": "recreational",
+          "arrive_at": "14:12",
+          "stay_min": 105,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.91,
+          "tip_5lang": {
+            "de": "Entspannen Sie in dieser weitläufigen Freizeitanlage, die Wassersport und Sandstrände direkt in der Stadt bietet, und bringen Sie Handtücher mit, um den Strandbereich zu genießen.",
+            "hu": "Pihenjen ebben a hatalmas szabadtéri paradicsomban, amely vízi sportokat és homokos partokat kínál, és hozzon magával törölközőt, ha szeretné élvezni a napos strandolást.",
+            "ro": "Relaxați-vă în acest refugiu în aer liber care oferă sporturi nautice și țărmuri nisipoase chiar în oraș, aducându-vă prosoape și loțiune de soare dacă plănuiți să faceți plajă.",
+            "en": "Relax at this vast outdoor haven offering water sports and sandy shores right in the city, bringing your own towels and sunscreen if you plan to enjoy the sunny beach area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": {
+          "Morning": "Ihr Tag beginnt hoch über der Stadt am Belvédère-Turm, wo weite Ausblicke in das Design von Cergy einführen. Nachdem Sie das Panorama genossen haben, steigen Sie langsam zur Axe Majeur hinab.",
+          "Midday": "Während Sie die monumentale Achse weiter hinuntergehen, erreichen Sie die Zwölf Säulen. Dieses architektonische Meisterwerk bietet einen perfekten Ort, um die Skyline zu fotografieren.",
+          "Afternoon": "Das Überqueren der Axe-Majeur-Fußgängerbrücke fühlt sich an wie ein Spaziergang über dem Wasser. Sie gelangen schließlich zur Freizeitinsel, gerade rechtzeitig, um die Sonne zu genießen.",
+          "Evening": "Der späte Nachmittag wird komplett auf der Freizeitinsel verbracht, wo Sie Ihre Wandertour mit ruhigen Seeblicken, Sandstränden und einer wohlverdienten, entspannenden Pause am Wasser ausklingen lassen."
+        },
+        "hu": {
+          "Morning": "A nap magasan a város felett, a Belvédère-toronynál kezdődik, ahol a lenyűgöző kilátás bemutatja Cergy nagyszerű terveit. A panoráma után lassan leereszkedik az ikonikus Axe Majeur piros sétányára.",
+          "Midday": "A monumentális tengelyen továbbhaladva eléri a Tizenkét Oszlopot. Ez az építészeti alkotás tökéletes helyszínt biztosít a párizsi sziluett fotózásához, mielőtt a piros gyaloghíd felé venné az irányt.",
+          "Afternoon": "Az Axe Majeur gyaloghídján átkelve olyan érzés, mintha a víz felett sétálna. A szerkezeti csodákról a természeti környezetre váltva pont időben érkezik a Szabadidőszigetre, hogy élvezze a napsütést.",
+          "Evening": "A késő délutánt a Szabadidőszigeten tölti, ahol a gyalogos túrát nyugodt tavi kilátással, homokos partokkal és egy jól megérdemelt, pihentető vízparti kikapcsolódással zárja le."
+        },
+        "ro": {
+          "Morning": "Ziua începe deasupra orașului la Turnul Belvédère, unde priveliștile ample prezintă designul măreț al orașului. După ce admirați panorama, coborâți ușor spre faimoasa Axe Majeur, pe pavajul roșu.",
+          "Midday": "Continuând pe axa monumentală, veți ajunge la Cele Douăsprezece Coloane. Această structură impresionantă oferă un loc perfect pentru a fotografia orizontul înainte de a vă îndrepta spre podul roșu.",
+          "Afternoon": "Traversarea punții pietonale Axe Majeur este ca o plimbare pe deasupra apei. Veți trece de la minunile structurale la mediul natural, ajungând la Insula de Agrement pentru a vă bucura de soare.",
+          "Evening": "După-amiaza târzie este petrecută în întregime la Insula de Agrement, încheind turul pietonal cu priveliști liniștite ale lacului, țărmuri nisipoase și o pauză binemeritată pe malul apei."
+        },
+        "en": {
+          "Morning": "Your day starts high above the city at the Belvédère Tower, where sweeping views introduce Cergy's grand design. After taking in the panorama, you will gently descend to the iconic Axe Majeur, walking along the red pavement that defines the area.",
+          "Midday": "As you continue down the monumental axis, you will reach The Twelve Columns. This impressive architectural statement offers a perfect spot to pause and photograph the skyline before making your way towards the striking red footbridge.",
+          "Afternoon": "Crossing the Axe Majeur Footbridge feels like walking on air above the water. You will transition from structural wonders to the natural environment, arriving at the Leisure Island just in time to soak up the sun.",
+          "Evening": "The late afternoon and early evening are spent entirely at the Leisure Island, wrapping up your walking tour with serene lake views, sandy shores, and a well-deserved, relaxing lakeside break."
+        }
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:51",
+      "total_km": 5.72,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Place des Trois Tourelles",
+            "hu": "Place des Trois Tourelles",
+            "ro": "Place des Trois Tourelles",
+            "en": "Place des Trois Tourelles"
+          },
+          "coords": [
+            2.011124,
+            49.048631
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Erkundungstour an diesem ruhigen Platz, der eine sanfte Einführung in Cergy bietet, und holen Sie sich noch einen Espresso, bevor Sie sich auf den Weg machen.",
+            "hu": "Kezdje felfedezőútját ezen a csendes helyi téren, amely kellemes bevezetést nyújt Cergy elrendezésébe, és igyon egy gyors eszpresszót egy közeli kávézóban indulás előtt.",
+            "ro": "Începeți explorarea din această piață locală liniștită, care oferă o introducere plăcută în structura orașului Cergy, și savurați un espresso rapid la o cafenea din apropiere.",
+            "en": "Begin your exploration at this quiet local square that offers a gentle introduction to Cergy's layout, grabbing a quick espresso at a nearby café before hitting the road."
+          }
+        },
+        {
+          "name": {
+            "de": "Axe Majeur",
+            "hu": "Axe Majeur",
+            "ro": "Axe Majeur",
+            "en": "Axe Majeur"
+          },
+          "coords": [
+            2.035766,
+            49.048818
+          ],
+          "category": "cultural",
+          "arrive_at": "09:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang dieser monumentalen roten Achse von Dani Karavan, die urbanes Design perfekt mit der Natur verbindet, und nehmen Sie ein Weitwinkelobjektiv für Fotos mit.",
+            "hu": "Sétáljon végig Dani Karavan monumentális piros tengelyén, amely tökéletesen ötvözi a modern dizájnt a természettel, és mindenképpen hozzon magával széles látószögű objektívet.",
+            "ro": "Plimbați-vă pe această axă monumentală a lui Dani Karavan, care îmbină perfect designul urban cu natura, și luați un obiectiv superangular pentru a surprinde cele mai bune cadre.",
+            "en": "Stroll along this monumental red paved axis by Dani Karavan, which perfectly aligns modern urban design with nature, taking a wide-angle lens for the best perspectives."
+          }
+        },
+        {
+          "name": {
+            "de": "The Twelve Columns",
+            "hu": "The Twelve Columns",
+            "ro": "The Twelve Columns",
+            "en": "The Twelve Columns"
+          },
+          "coords": [
+            2.03783,
+            49.042205
+          ],
+          "category": "cultural",
+          "arrive_at": "11:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Stehen Sie unter diesen weißen Säulen, die an klaren Tagen die Pariser Skyline umrahmen, und kommen Sie zur goldenen Stunde, wenn sich die Schatten dramatisch verlängern.",
+            "hu": "Álljon be ezek alá a tornyosuló fehér oszlopok alá, amelyek tiszta időben a párizsi sziluettet keretezik, és próbáljon meg az aranyórában érkezni a drámai árnyékokért.",
+            "ro": "Stați sub acești stâlpi albi impunători care încadrează orizontul parizian în zilele senine și vizitați în timpul orei de aur pentru a admira umbrele spectaculoase și prelungite.",
+            "en": "Stand beneath these towering white pillars that gracefully frame the Parisian skyline on clear days, and visit during golden hour when the shadows stretch dramatically."
+          }
+        },
+        {
+          "name": {
+            "de": "Axe Majeur Footbridge",
+            "hu": "Axe Majeur Footbridge",
+            "ro": "Axe Majeur Footbridge",
+            "en": "Axe Majeur Footbridge"
+          },
+          "coords": [
+            2.042645,
+            49.038002
+          ],
+          "category": "civic",
+          "arrive_at": "12:31",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.58,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese auffällige rote Brücke, die die Teiche mit geometrischer Präzision überspannt, und tragen Sie bequeme Schuhe, da die umliegenden Wege sehr weitläufig sind.",
+            "hu": "Keljen át ezen a lenyűgöző piros hídon, amely geometriai pontossággal ível át a folyón, és viseljen kényelmes cipőt, mivel a környező sétányok meglehetősen hosszúak.",
+            "ro": "Traversați această impresionantă punte roșie care se întinde cu precizie geometrică peste râu și purtați încălțăminte confortabilă, deoarece potecile din jur sunt destul de lungi.",
+            "en": "Cross this striking red bridge that spans the ponds and river with geometric precision, wearing comfortable walking shoes as the surrounding paths are quite extensive."
+          }
+        },
+        {
+          "name": {
+            "de": "Port Cergy",
+            "hu": "Port Cergy",
+            "ro": "Port Cergy",
+            "en": "Port Cergy"
+          },
+          "coords": [
+            2.06025,
+            49.03091
+          ],
+          "category": "recreational",
+          "arrive_at": "13:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen modernen Yachthafen mit seinen Booten und lebhaften Restaurants am Wasser und reservieren Sie im Voraus, wenn Sie hier bei Sonnenuntergang speisen möchten.",
+            "hu": "Sétáljon egyet ebben a hangulatos modern jachtkikötőben, amely tele van ringatózó hajókkal, és feltétlenül foglaljon asztalt előre, ha egy festői naplementés vacsorára vágyik.",
+            "ro": "Plimbați-vă prin acest port modern plin de bărci și restaurante vibrante pe malul apei, făcând o rezervare din timp dacă doriți să savurați o cină scenică la apusul soarelui.",
+            "en": "Wander around this charming modern marina filled with bobbing boats and vibrant waterfront dining, making a reservation in advance if you wish to enjoy a scenic sunset dinner."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Christophe Church",
+            "hu": "Saint-Christophe Church",
+            "ro": "Saint-Christophe Church",
+            "en": "Saint-Christophe Church"
+          },
+          "coords": [
+            2.06172,
+            49.03342
+          ],
+          "category": "religious",
+          "arrive_at": "14:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.29,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Architektur dieser Kirche, die einen Kontrast zur modernen Achse bildet, und treten Sie leise ein, um die friedliche Atmosphäre zu genießen.",
+            "hu": "Csodálja meg ennek a nyugodt helyi templomnak a történelmi építészetét, amely éles kontrasztot alkot a modern várossal, és lépjen be halkan, hogy átélje a békés hangulatot.",
+            "ro": "Admirați arhitectura istorică a acestei biserici liniștite care oferă un contrast puternic cu Axa modernă, pășind înăuntru în liniște pentru a aprecia atmosfera sa cu adevărat pașnică.",
+            "en": "Admire the historical architecture of this serene local church that provides a stark contrast to the modern Axe, stepping inside quietly to appreciate its peaceful atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de la Préfecture",
+            "hu": "Parc de la Préfecture",
+            "ro": "Parc de la Préfecture",
+            "en": "Parc de la Préfecture"
+          },
+          "coords": [
+            2.074892,
+            49.034928
+          ],
+          "category": "natural",
+          "arrive_at": "15:06",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in dieser zentralen Grünanlage, die von zeitgenössischer Architektur umgeben ist, und breiten Sie eine Picknickdecke aus, um die urbane Landschaft zu genießen.",
+            "hu": "Kapcsolódjon ki ebben a kiterjedt zöldövezetben, amelyet lenyűgöző kortárs épületek vesznek körül, és terítsen le egy pikniktakarót a különleges városi tájrendezés élvezetéhez.",
+            "ro": "Relaxați-vă în acest spațiu verde central înconjurat de o arhitectură contemporană uimitoare, întinzând o pătură de picnic pentru a vă bucura de peisagistica urbană unică.",
+            "en": "Unwind in this expansive central green space surrounded by striking contemporary architecture, laying out a small picnic blanket to truly soak in the unique urban landscaping."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": {
+          "Morning": "Starten Sie Ihr Fahrradabenteuer am Place des Trois Tourelles und radeln Sie zur grandiosen Axe Majeur. Die Morgenluft passt perfekt zu den weiten offenen Flächen von Cergys architektonischem Zentrum.",
+          "Midday": "Wenn Sie an den Zwölf Säulen vorbeiradeln, genießen Sie eine majestätische Kulisse, bevor Sie über die Fußgängerbrücke gleiten. Die glatten Wege hier sind unglaublich fahrradfreundlich.",
+          "Afternoon": "Am Port Cergy angekommen, schließen Sie Ihr Fahrrad ab und erkunden die Restaurants am Wasser. Eine kurze Fahrt bringt Sie dann zur Kirche Saint-Christophe, die Ihrer Tour Geschichte verleiht.",
+          "Evening": "Beenden Sie Ihren dynamischen Radtag im Parc de la Préfecture. Hier können Sie absteigen und sich auf den weitläufigen Rasenflächen entspannen, während das Abendlicht auf den Gebäuden spielt."
+        },
+        "hu": {
+          "Morning": "Kezdje a kerékpáros kalandot a Place des Trois Tourelles-nél, és tekerjen el a grandiózus Axe Majeur felé. A reggeli levegő tökéletesen kiegészíti Cergy építészeti magjának hatalmas nyitott tereit.",
+          "Midday": "A Tizenkét Oszlop mellett elhaladva fenséges hátteret élvezhet, mielőtt átgurulna a piros gyaloghídon. Az itteni sima utak hihetetlenül kerékpárosbarátok, és egyenesen a kikötőbe vezetnek.",
+          "Afternoon": "A Port Cergyhez érve zárja le a kerékpárját, és fedezze fel a vízparti éttermeket. Egy rövid út után a Saint-Christophe templomhoz ér, amely egy csipetnyi történelmet ad a modern túrához.",
+          "Evening": "Zárja a dinamikus kerékpáros napot a Parc de la Préfecture-ben. Itt leszállhat a nyeregből, és pihenhet a tágas pázsiton, figyelve, ahogy az esti fény játszik a környező középületeken."
+        },
+        "ro": {
+          "Morning": "Începeți aventura pe bicicletă la Place des Trois Tourelles, pedalând spre grandioasa Axe Majeur. Aerul dimineții completează perfect spațiile deschise ale nucleului arhitectural din Cergy.",
+          "Midday": "Pedalând pe lângă Cele Douăsprezece Coloane, vă veți bucura de un decor maiestuos înainte de a traversa pasarela roșie. Aleile netede de aici sunt incredibil de prietenoase cu bicicliștii.",
+          "Afternoon": "Ajungând la Port Cergy, legați bicicleta și explorați restaurantele. O scurtă plimbare vă duce apoi la Biserica Saint-Christophe, adăugând o notă de istorie clasică turului dumneavoastră modern.",
+          "Evening": "Încheiați ziua de ciclism la Parc de la Préfecture. Aici puteți să vă relaxați pe peluzele întinse, urmărind cum lumina serii se joacă pe clădirile civice din jur înainte de a pleca spre casă."
+        },
+        "en": {
+          "Morning": "Kick off your biking adventure at Place des Trois Tourelles, pedaling your way to the grand Axe Majeur. The morning air perfectly complements the vast open spaces of Cergy's architectural core.",
+          "Midday": "Cycling past The Twelve Columns, you will enjoy a majestic backdrop before gliding across the red Footbridge. The smooth paths here are incredibly bike-friendly, leading you directly into the marina.",
+          "Afternoon": "Arriving at Port Cergy, lock your bike and explore the waterfront restaurants. A short ride then brings you to the Saint-Christophe Church, adding a touch of classic history to your modern tour.",
+          "Evening": "End your dynamic cycling day at Parc de la Préfecture. Here, you can dismount and relax on the expansive lawns, watching the evening light play on the surrounding civic buildings before heading home."
+        }
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:39",
+      "total_km": 4.13,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parc de la Préfecture",
+            "hu": "Parc de la Préfecture",
+            "ro": "Parc de la Préfecture",
+            "en": "Parc de la Préfecture"
+          },
+          "coords": [
+            2.074892,
+            49.034928
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in dieser zentralen Grünanlage, die von zeitgenössischer Architektur umgeben ist, und breiten Sie eine Picknickdecke aus, um die urbane Landschaft zu genießen.",
+            "hu": "Kapcsolódjon ki ebben a kiterjedt zöldövezetben, amelyet lenyűgöző kortárs épületek vesznek körül, és terítsen le egy pikniktakarót a különleges városi tájrendezés élvezetéhez.",
+            "ro": "Relaxați-vă în acest spațiu verde central înconjurat de o arhitectură contemporană uimitoare, întinzând o pătură de picnic pentru a vă bucura de peisagistica urbană unică.",
+            "en": "Unwind in this expansive central green space surrounded by striking contemporary architecture, laying out a small picnic blanket to truly soak in the unique urban landscaping."
+          }
+        },
+        {
+          "name": {
+            "de": "Cergy City Hall",
+            "hu": "Cergy City Hall",
+            "ro": "Cergy City Hall",
+            "en": "Cergy City Hall"
+          },
+          "coords": [
+            2.06208,
+            49.03572
+          ],
+          "category": "civic",
+          "arrive_at": "10:27",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.93,
+          "tip_5lang": {
+            "de": "Beobachten Sie das bürgerliche Zentrum von Cergy in diesem modernen Gebäude, das den Charakter der Stadt widerspiegelt, und achten Sie auf die geometrischen Fassaden vom Platz aus.",
+            "hu": "Figyelje meg Cergy polgári központját ezen a modern épületen, amely a város tervezett jellegét tükrözi, és vegye szemügyre az egyedi geometriai homlokzatokat a szomszédos térről.",
+            "ro": "Observați inima civică a orașului Cergy la această clădire modernă, care reflectă natura planificată a urbei, remarcând fațadele geometrice unice din piațeta alăturată clădirii.",
+            "en": "Observe the civic heart of Cergy at this distinctive modern building that reflects the city's planned nature, taking note of the unique geometric facades from the adjacent plaza."
+          }
+        },
+        {
+          "name": {
+            "de": "Port Cergy",
+            "hu": "Port Cergy",
+            "ro": "Port Cergy",
+            "en": "Port Cergy"
+          },
+          "coords": [
+            2.06025,
+            49.03091
+          ],
+          "category": "recreational",
+          "arrive_at": "10:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen modernen Yachthafen mit seinen Booten und lebhaften Restaurants am Wasser und reservieren Sie im Voraus, wenn Sie hier bei Sonnenuntergang speisen möchten.",
+            "hu": "Sétáljon egyet ebben a hangulatos modern jachtkikötőben, amely tele van ringatózó hajókkal, és feltétlenül foglaljon asztalt előre, ha egy festői naplementés vacsorára vágyik.",
+            "ro": "Plimbați-vă prin acest port modern plin de bărci și restaurante vibrante pe malul apei, făcând o rezervare din timp dacă doriți să savurați o cină scenică la apusul soarelui.",
+            "en": "Wander around this charming modern marina filled with bobbing boats and vibrant waterfront dining, making a reservation in advance if you wish to enjoy a scenic sunset dinner."
+          }
+        },
+        {
+          "name": {
+            "de": "Cergy-Pontoise Leisure Island",
+            "hu": "Cergy-Pontoise Leisure Island",
+            "ro": "Cergy-Pontoise Leisure Island",
+            "en": "Cergy-Pontoise Leisure Island"
+          },
+          "coords": [
+            2.0486,
+            49.0308
+          ],
+          "category": "recreational",
+          "arrive_at": "12:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Entspannen Sie in dieser weitläufigen Freizeitanlage, die Wassersport und Sandstrände direkt in der Stadt bietet, und bringen Sie Handtücher mit, um den Strandbereich zu genießen.",
+            "hu": "Pihenjen ebben a hatalmas szabadtéri paradicsomban, amely vízi sportokat és homokos partokat kínál, és hozzon magával törölközőt, ha szeretné élvezni a napos strandolást.",
+            "ro": "Relaxați-vă în acest refugiu în aer liber care oferă sporturi nautice și țărmuri nisipoase chiar în oraș, aducându-vă prosoape și loțiune de soare dacă plănuiți să faceți plajă.",
+            "en": "Relax at this vast outdoor haven offering water sports and sandy shores right in the city, bringing your own towels and sunscreen if you plan to enjoy the sunny beach area."
+          }
+        },
+        {
+          "name": {
+            "de": "The Twelve Columns",
+            "hu": "The Twelve Columns",
+            "ro": "The Twelve Columns",
+            "en": "The Twelve Columns"
+          },
+          "coords": [
+            2.03783,
+            49.042205
+          ],
+          "category": "cultural",
+          "arrive_at": "13:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Stehen Sie unter diesen weißen Säulen, die an klaren Tagen die Pariser Skyline umrahmen, und kommen Sie zur goldenen Stunde, wenn sich die Schatten dramatisch verlängern.",
+            "hu": "Álljon be ezek alá a tornyosuló fehér oszlopok alá, amelyek tiszta időben a párizsi sziluettet keretezik, és próbáljon meg az aranyórában érkezni a drámai árnyékokért.",
+            "ro": "Stați sub acești stâlpi albi impunători care încadrează orizontul parizian în zilele senine și vizitați în timpul orei de aur pentru a admira umbrele spectaculoase și prelungite.",
+            "en": "Stand beneath these towering white pillars that gracefully frame the Parisian skyline on clear days, and visit during golden hour when the shadows stretch dramatically."
+          }
+        },
+        {
+          "name": {
+            "de": "Axe Majeur",
+            "hu": "Axe Majeur",
+            "ro": "Axe Majeur",
+            "en": "Axe Majeur"
+          },
+          "coords": [
+            2.035766,
+            49.048818
+          ],
+          "category": "cultural",
+          "arrive_at": "14:49",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang dieser monumentalen roten Achse von Dani Karavan, die urbanes Design perfekt mit der Natur verbindet, und nehmen Sie ein Weitwinkelobjektiv für Fotos mit.",
+            "hu": "Sétáljon végig Dani Karavan monumentális piros tengelyén, amely tökéletesen ötvözi a modern dizájnt a természettel, és mindenképpen hozzon magával széles látószögű objektívet.",
+            "ro": "Plimbați-vă pe această axă monumentală a lui Dani Karavan, care îmbină perfect designul urban cu natura, și luați un obiectiv superangular pentru a surprinde cele mai bune cadre.",
+            "en": "Stroll along this monumental red paved axis by Dani Karavan, which perfectly aligns modern urban design with nature, taking a wide-angle lens for the best perspectives."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": {
+          "Morning": "Ihre Autotour beginnt entspannt im Parc de la Préfecture, wo Sie die moderne Stadtplanung bewundern, bevor Sie nach einer kurzen Fahrt zum Rathaus von Cergy die Architektur würdigen.",
+          "Midday": "Fahren Sie hinunter zum Port Cergy, wo Sie parken und den Yachthafen erkunden können. Ein weiterer kurzer Sprung bringt Sie dann zur weitläufigen Freizeitinsel für etwas Ruhe am See.",
+          "Afternoon": "Nach einer Erfrischung am Wasser fahren Sie hinauf zum Plateau, um die Zwölf Säulen zu bestaunen. Die Bequemlichkeit Ihres Autos ermöglicht es, die Monumente mühelos zu verbinden.",
+          "Evening": "Beenden Sie Ihren Tag geparkt in der Nähe der Axe Majeur. Wenn die Sonne untergeht, werfen die langen Schatten auf dem roten Pflaster ein atemberaubendes Finale für Ihren Cergy-Roadtrip."
+        },
+        "hu": {
+          "Morning": "Az autós túra a Parc de la Préfecture-nél indul, ahol megcsodálhatja a modern várostervezést, majd egy rövid út után a Cergy-i Városháza lenyűgöző építészetét veheti szemügyre.",
+          "Midday": "Hajtson le a Port Cergyhez, ahol leparkolhat és sétálhat egyet a jachtkikötőben. Innen egy újabb rövid ugrás a Szabadidőszigetre vezet, ahol egy kis tóparti nyugalmat és csendet élvezhet.",
+          "Afternoon": "A vízparti felfrissülés után hajtson fel a fennsíkra, és csodálja meg a Tizenkét Oszlopot. Az autó nyújtotta kényelem révén könnyedén áthidalhatja az alsó vízpart és a felső műemlékek távolságát.",
+          "Evening": "Zárja a napot az Axe Majeur közelében parkolva. Ahogy a nap lenyugszik, a piros kövezeten végignyúló hosszú árnyékok lenyűgöző, fotogén befejezést kínálnak az átfogó autós túrának."
+        },
+        "ro": {
+          "Morning": "Turul cu mașina începe lin la Parc de la Préfecture, admirând planificarea civică modernă, înainte de o scurtă oprire la Primăria din Cergy pentru a aprecia arhitectura administrației locale.",
+          "Midday": "Conduceți spre Port Cergy, unde puteți parca și explora portul. De acolo, un alt salt scurt vă aduce la întinsa Insulă de Agrement pentru o doză de liniște și de relaxare absolută pe malul lacului.",
+          "Afternoon": "După o pauză la apă, urcați cu mașina pe platou pentru a admira Cele Douăsprezece Coloane. Confortul mașinii vă permite să conectați fără efort zonele joase de peisaj cu monumentele înalte.",
+          "Evening": "Încheiați ziua parcați lângă Axe Majeur. Pe măsură ce soarele apune, umbrele lungi lăsate de-a lungul pavajului roșu oferă un final uimitor și fotogenic pentru călătoria dumneavoastră din Cergy."
+        },
+        "en": {
+          "Morning": "Your driving tour begins smoothly at Parc de la Préfecture, admiring the modern civic planning before a very brief drive over to Cergy City Hall to appreciate the local administration's architecture.",
+          "Midday": "Drive down to Port Cergy, where you can park and spend ample time walking the marina. From there, another short hop brings you to the sprawling Leisure Island for a dose of lakeside tranquility.",
+          "Afternoon": "After refreshing by the water, drive up to the plateau to marvel at The Twelve Columns. The convenience of your car allows you to effortlessly bridge the lower waterfront and the upper monuments.",
+          "Evening": "Conclude your day parked near the Axe Majeur. As the sun begins to set, the long shadows cast along the red pavement provide a stunning, photogenic finale to your comprehensive Cergy road trip."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "city_id": "le-quesnoy",
+  "anchor": {
+    "name": "Le Quesnoy",
+    "coords": [
+      3.6375,
+      50.2489
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:55",
+      "total_km": 1.09,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Porte de Valenciennes",
+            "hu": "Valenciennes-kapu",
+            "ro": "Poarta Valenciennes",
+            "en": "Valenciennes Gate"
+          },
+          "coords": [
+            3.636268,
+            50.250525
+          ],
+          "category": "fortress",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die mächtigen Festungsmauern aus dem 17. Jahrhundert, die die Stadt umgeben, und tragen Sie bequeme Schuhe für einen Spaziergang auf den Wällen.",
+            "hu": "Csodálja meg a várost körülvevő lenyűgöző 17. századi erődítményeket, és mindenképpen viseljen kényelmes cipőt a történelmi falakon tett sétához.",
+            "ro": "Admirați fortificațiile masive din secolul al XVII-lea care înconjoară orașul și purtați încălțăminte comodă pentru a vă plimba pe zidurile istorice.",
+            "en": "Admire the massive 17th-century fortifications surrounding the city, and make sure to wear comfortable shoes for a scenic walk along the historic ramparts."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Le Quesnoy",
+            "hu": "Le Quesnoy Városháza",
+            "ro": "Primăria din Le Quesnoy",
+            "en": "Le Quesnoy Town Hall"
+          },
+          "coords": [
+            3.63873,
+            50.24722
+          ],
+          "category": "civic",
+          "arrive_at": "10:34",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Betrachten Sie die elegante Architektur des Rathauses mit seinem markanten Turm und werfen Sie einen kurzen Blick auf den malerischen Vorplatz, bevor Sie weitergehen.",
+            "hu": "Szemlélje meg a városháza elegáns építészetét és jellegzetes tornyát, és szánjon egy percet a festői előtér megtekintésére, mielőtt tovább indulna.",
+            "ro": "Observați arhitectura elegantă a primăriei și turnul său distinctiv, și aruncați o privire rapidă asupra pieței pitorești din față înainte de a pleca.",
+            "en": "Notice the elegant architecture of the town hall with its distinctive tower, and take a quick look at the picturesque square in front before moving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaserne Cernay",
+            "hu": "Cernay laktanya",
+            "ro": "Cazarma Cernay",
+            "en": "Caserne Cernay"
+          },
+          "coords": [
+            3.636336,
+            50.2456
+          ],
+          "category": "castle",
+          "arrive_at": "11:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierende Geschichte dieser ehemaligen Kaserne, die militärische Strenge ausstrahlt, und achten Sie auf die gut erhaltenen architektonischen Details.",
+            "hu": "Fedezze fel ennek az egykori laktanyának a lenyűgöző történetét, amely katonai szigort sugároz, és figyelje meg a jól megőrzött építészeti részleteket.",
+            "ro": "Explorați istoria fascinantă a acestei foste cazarme care emană rigoare militară și acordați atenție detaliilor arhitecturale excelent conservate din curte.",
+            "en": "Explore the fascinating history of this former military barracks, and pay close attention to the well-preserved architectural details in the main courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Teich Pont Rouge",
+            "hu": "Vörös Híd-tó",
+            "ro": "Iazul Pont Rouge",
+            "en": "Étang du Pont Rouge"
+          },
+          "coords": [
+            3.641938,
+            50.242913
+          ],
+          "category": "natural",
+          "arrive_at": "12:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.44,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre an diesem idyllischen See und bringen Sie ein paar Snacks mit, um sich bei einer kleinen Pause in der Natur zu stärken.",
+            "hu": "Élvezze a békés hangulatot ennél az idilli tónál, és hozzon magával néhány falatot, hogy felfrissüljön egy rövid, természetközeli pihenő során.",
+            "ro": "Bucurați-vă de atmosfera pașnică de la acest iaz idilic și aduceți câteva gustări pentru a vă revigora în timpul unei scurte pauze în mijlocul naturii.",
+            "en": "Enjoy the peaceful atmosphere at this idyllic pond, and bring along a few snacks to recharge your energy during a short, nature-filled resting break."
+          }
+        },
+        {
+          "name": {
+            "de": "La Cité Déchaînée",
+            "hu": "La Cité Déchaînée Kalandpark",
+            "ro": "La Cité Déchaînée",
+            "en": "La Cité Déchaînée"
+          },
+          "coords": [
+            3.639792,
+            50.241893
+          ],
+          "category": "family",
+          "arrive_at": "13:45",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in diesen lebhaften Abenteuerpark für die ganze Familie und sichern Sie sich Ihre Tickets am besten im Voraus, um lange Warteschlangen zu vermeiden.",
+            "hu": "Merüljön el ebben a nyüzsgő, családoknak szóló kalandparkban, és a hosszú sorban állás elkerülése érdekében érdemes előre megváltani a belépőjegyeket.",
+            "ro": "Scufundați-vă în acest parc de aventură plin de viață pentru întreaga familie și cumpărați biletele în avans pentru a evita cozile lungi de la intrare.",
+            "en": "Dive into this lively adventure park designed for the whole family, and be sure to book your tickets in advance to easily skip the long entrance lines."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag an den historischen Festungsmauern und dem beeindruckenden Stadttor.\n\nMittags schlendern Sie durch die Gassen und bewundern das elegante Rathaus sowie die alte Kaserne.\n\nNachmittags erwartet Sie eine grüne Oase am Teich, die perfekt für einen entspannten Spaziergang ist.\n\nDer Abend lässt den Tag mit familienfreundlichen Abenteuern oder besinnlichen Momenten ausklingen.",
+        "hu": "Kezdje a napot a történelmi erődítményeknél és a lenyűgöző városkapunál.\n\nDélben sétáljon végig a hangulatos utcákon, megcsodálva az elegáns városházát és a régi laktanyát.\n\nDélután a tónál egy zöld oázis várja, amely tökéletes egy pihentető sétához.\n\nAz estét vidám, családbarát kalandok vagy csendes, elmélyült pillanatok teszik felejthetetlenné.",
+        "ro": "Începeți ziua explorând fortificațiile istorice și impresionanta poartă a orașului.\n\nLa prânz, plimbați-vă pe străduțele fermecătoare, admirând primăria elegantă și fosta cazarmă militară.\n\nDupă-amiaza vă așteaptă o oază verde lângă iaz, locul perfect pentru o scurtă relaxare.\n\nSeara se încheie fie cu aventuri în familie, fie cu momente de liniște spirituală.",
+        "en": "Start the day exploring the historic fortifications and the impressive city gate.\n\nAt noon, stroll through the charming streets, admiring the elegant town hall and the former military barracks.\n\nIn the afternoon, a green oasis awaits by the pond, offering the perfect spot for a relaxing walk.\n\nThe evening concludes with either fun family adventures or quiet, contemplative moments."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:54",
+      "total_km": 2.22,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Porte de Valenciennes",
+            "hu": "Valenciennes-kapu",
+            "ro": "Poarta Valenciennes",
+            "en": "Valenciennes Gate"
+          },
+          "coords": [
+            3.636268,
+            50.250525
+          ],
+          "category": "fortress",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die mächtigen Festungsmauern aus dem 17. Jahrhundert, die die Stadt umgeben, und tragen Sie bequeme Schuhe für einen Spaziergang auf den Wällen.",
+            "hu": "Csodálja meg a várost körülvevő lenyűgöző 17. századi erődítményeket, és mindenképpen viseljen kényelmes cipőt a történelmi falakon tett sétához.",
+            "ro": "Admirați fortificațiile masive din secolul al XVII-lea care înconjoară orașul și purtați încălțăminte comodă pentru a vă plimba pe zidurile istorice.",
+            "en": "Admire the massive 17th-century fortifications surrounding the city, and make sure to wear comfortable shoes for a scenic walk along the historic ramparts."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Le Quesnoy",
+            "hu": "Le Quesnoy Városháza",
+            "ro": "Primăria din Le Quesnoy",
+            "en": "Le Quesnoy Town Hall"
+          },
+          "coords": [
+            3.63873,
+            50.24722
+          ],
+          "category": "civic",
+          "arrive_at": "10:32",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Betrachten Sie die elegante Architektur des Rathauses mit seinem markanten Turm und werfen Sie einen kurzen Blick auf den malerischen Vorplatz, bevor Sie weitergehen.",
+            "hu": "Szemlélje meg a városháza elegáns építészetét és jellegzetes tornyát, és szánjon egy percet a festői előtér megtekintésére, mielőtt tovább indulna.",
+            "ro": "Observați arhitectura elegantă a primăriei și turnul său distinctiv, și aruncați o privire rapidă asupra pieței pitorești din față înainte de a pleca.",
+            "en": "Notice the elegant architecture of the town hall with its distinctive tower, and take a quick look at the picturesque square in front before moving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaserne Cernay",
+            "hu": "Cernay laktanya",
+            "ro": "Cazarma Cernay",
+            "en": "Caserne Cernay"
+          },
+          "coords": [
+            3.636336,
+            50.2456
+          ],
+          "category": "castle",
+          "arrive_at": "10:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierende Geschichte dieser ehemaligen Kaserne, die militärische Strenge ausstrahlt, und achten Sie auf die gut erhaltenen architektonischen Details.",
+            "hu": "Fedezze fel ennek az egykori laktanyának a lenyűgöző történetét, amely katonai szigort sugároz, és figyelje meg a jól megőrzött építészeti részleteket.",
+            "ro": "Explorați istoria fascinantă a acestei foste cazarme care emană rigoare militară și acordați atenție detaliilor arhitecturale excelent conservate din curte.",
+            "en": "Explore the fascinating history of this former military barracks, and pay close attention to the well-preserved architectural details in the main courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Teich Pont Rouge",
+            "hu": "Vörös Híd-tó",
+            "ro": "Iazul Pont Rouge",
+            "en": "Étang du Pont Rouge"
+          },
+          "coords": [
+            3.641938,
+            50.242913
+          ],
+          "category": "natural",
+          "arrive_at": "12:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.44,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre an diesem idyllischen See und bringen Sie ein paar Snacks mit, um sich bei einer kleinen Pause in der Natur zu stärken.",
+            "hu": "Élvezze a békés hangulatot ennél az idilli tónál, és hozzon magával néhány falatot, hogy felfrissüljön egy rövid, természetközeli pihenő során.",
+            "ro": "Bucurați-vă de atmosfera pașnică de la acest iaz idilic și aduceți câteva gustări pentru a vă revigora în timpul unei scurte pauze în mijlocul naturii.",
+            "en": "Enjoy the peaceful atmosphere at this idyllic pond, and bring along a few snacks to recharge your energy during a short, nature-filled resting break."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Éloi",
+            "hu": "Szent Elígiusz-templom",
+            "ro": "Biserica Saint-Éloi",
+            "en": "Église Saint-Éloi"
+          },
+          "coords": [
+            3.638776,
+            50.224726
+          ],
+          "category": "religious",
+          "arrive_at": "13:44",
+          "stay_min": 70,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese charmante Kirche mit ihrer schlichten, aber beruhigenden Innenausstattung, und achten Sie besonders auf die schönen Buntglasfenster.",
+            "hu": "Látogasson el ebbe a bájos templomba, amelynek egyszerű, de nyugtató belső tere van, és fordítson különös figyelmet a gyönyörű ólomüveg ablakokra.",
+            "ro": "Vizitați această biserică fermecătoare cu interiorul său simplu și liniștitor, și acordați o atenție deosebită ferestrelor frumoase din sticlă colorată.",
+            "en": "Visit this charming church featuring a simple yet soothing interior, and pay special attention to the beautifully crafted stained glass windows."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag an den historischen Festungsmauern und dem beeindruckenden Stadttor.\n\nMittags schlendern Sie durch die Gassen und bewundern das elegante Rathaus sowie die alte Kaserne.\n\nNachmittags erwartet Sie eine grüne Oase am Teich, die perfekt für einen entspannten Spaziergang ist.\n\nDer Abend lässt den Tag mit familienfreundlichen Abenteuern oder besinnlichen Momenten ausklingen.",
+        "hu": "Kezdje a napot a történelmi erődítményeknél és a lenyűgöző városkapunál.\n\nDélben sétáljon végig a hangulatos utcákon, megcsodálva az elegáns városházát és a régi laktanyát.\n\nDélután a tónál egy zöld oázis várja, amely tökéletes egy pihentető sétához.\n\nAz estét vidám, családbarát kalandok vagy csendes, elmélyült pillanatok teszik felejthetetlenné.",
+        "ro": "Începeți ziua explorând fortificațiile istorice și impresionanta poartă a orașului.\n\nLa prânz, plimbați-vă pe străduțele fermecătoare, admirând primăria elegantă și fosta cazarmă militară.\n\nDupă-amiaza vă așteaptă o oază verde lângă iaz, locul perfect pentru o scurtă relaxare.\n\nSeara se încheie fie cu aventuri în familie, fie cu momente de liniște spirituală.",
+        "en": "Start the day exploring the historic fortifications and the impressive city gate.\n\nAt noon, stroll through the charming streets, admiring the elegant town hall and the former military barracks.\n\nIn the afternoon, a green oasis awaits by the pond, offering the perfect spot for a relaxing walk.\n\nThe evening concludes with either fun family adventures or quiet, contemplative moments."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:17",
+      "total_km": 4.78,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Nicolas",
+            "hu": "Szent Miklós-templom",
+            "ro": "Biserica Saint-Nicolas",
+            "en": "Église Saint-Nicolas"
+          },
+          "coords": [
+            3.628531,
+            50.272478
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihre Tour an diesem historischen Gotteshaus, das eine ruhige Aura ausstrahlt, und werfen Sie einen Blick auf die traditionellen sakralen Kunstwerke.",
+            "hu": "Kezdje a túrát ennél a történelmi imaháznál, amely békés aurát sugároz, és vessen egy pillantást a hagyományos szakrális művészeti alkotásokra.",
+            "ro": "Începeți turul la acest lăcaș de cult istoric, care emană o aură pașnică, și admirați colecția de opere de artă sacră tradițională din interior.",
+            "en": "Start your tour at this historic house of worship, which exudes a peaceful aura, and take a moment to admire the traditional sacred artworks inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Porte de Valenciennes",
+            "hu": "Valenciennes-kapu",
+            "ro": "Poarta Valenciennes",
+            "en": "Valenciennes Gate"
+          },
+          "coords": [
+            3.636268,
+            50.250525
+          ],
+          "category": "fortress",
+          "arrive_at": "09:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die mächtigen Festungsmauern aus dem 17. Jahrhundert, die die Stadt umgeben, und tragen Sie bequeme Schuhe für einen Spaziergang auf den Wällen.",
+            "hu": "Csodálja meg a várost körülvevő lenyűgöző 17. századi erődítményeket, és mindenképpen viseljen kényelmes cipőt a történelmi falakon tett sétához.",
+            "ro": "Admirați fortificațiile masive din secolul al XVII-lea care înconjoară orașul și purtați încălțăminte comodă pentru a vă plimba pe zidurile istorice.",
+            "en": "Admire the massive 17th-century fortifications surrounding the city, and make sure to wear comfortable shoes for a scenic walk along the historic ramparts."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Le Quesnoy",
+            "hu": "Le Quesnoy Városháza",
+            "ro": "Primăria din Le Quesnoy",
+            "en": "Le Quesnoy Town Hall"
+          },
+          "coords": [
+            3.63873,
+            50.24722
+          ],
+          "category": "civic",
+          "arrive_at": "11:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Betrachten Sie die elegante Architektur des Rathauses mit seinem markanten Turm und werfen Sie einen kurzen Blick auf den malerischen Vorplatz, bevor Sie weitergehen.",
+            "hu": "Szemlélje meg a városháza elegáns építészetét és jellegzetes tornyát, és szánjon egy percet a festői előtér megtekintésére, mielőtt tovább indulna.",
+            "ro": "Observați arhitectura elegantă a primăriei și turnul său distinctiv, și aruncați o privire rapidă asupra pieței pitorești din față înainte de a pleca.",
+            "en": "Notice the elegant architecture of the town hall with its distinctive tower, and take a quick look at the picturesque square in front before moving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Potelle",
+            "hu": "Potelle kastély",
+            "ro": "Castelul Potelle",
+            "en": "Château de Potelle"
+          },
+          "coords": [
+            3.669915,
+            50.247017
+          ],
+          "category": "castle",
+          "arrive_at": "11:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von den romantischen Mauern dieses Schlosses verzaubern und prüfen Sie vorab die Öffnungszeiten, da der Zugang oft auf die Außenanlagen beschränkt ist.",
+            "hu": "Hagyja, hogy elvarázsolják ennek a kastélynak a romantikus falai, de előzetesen ellenőrizze a nyitvatartást, mivel a belépés gyakran csak a külső területekre korlátozódik.",
+            "ro": "Lăsați-vă fermecați de zidurile romantice ale acestui castel și verificați programul în prealabil, deoarece accesul este adesea limitat la zonele exterioare.",
+            "en": "Let yourself be enchanted by the romantic walls of this medieval castle, but check the opening hours beforehand as access is often limited to the grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Géry",
+            "hu": "Szent Gaugericus-templom",
+            "ro": "Biserica Saint-Géry",
+            "en": "Église Saint-Géry"
+          },
+          "coords": [
+            3.664607,
+            50.255539
+          ],
+          "category": "religious",
+          "arrive_at": "13:07",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Ausflug an dieser beeindruckenden Kirche, die eine faszinierende Architektur bietet, und genießen Sie die spirituelle Ruhe des Ortes.",
+            "hu": "Zárja kirándulását ennél a lenyűgöző templomnál, amely különleges építészettel büszkélkedhet, és élvezze a hely mély, spirituális nyugalmát.",
+            "ro": "Încheiați-vă excursia la această biserică impresionantă, care oferă o arhitectură fascinantă, și bucurați-vă de liniștea spirituală profundă a locului.",
+            "en": "Conclude your excursion at this impressive church, which features fascinating architecture, and enjoy the profound spiritual tranquility of the location."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag an den historischen Festungsmauern und dem beeindruckenden Stadttor.\n\nMittags schlendern Sie durch die Gassen und bewundern das elegante Rathaus sowie die alte Kaserne.\n\nNachmittags erwartet Sie eine grüne Oase am Teich, die perfekt für einen entspannten Spaziergang ist.\n\nDer Abend lässt den Tag mit familienfreundlichen Abenteuern oder besinnlichen Momenten ausklingen.",
+        "hu": "Kezdje a napot a történelmi erődítményeknél és a lenyűgöző városkapunál.\n\nDélben sétáljon végig a hangulatos utcákon, megcsodálva az elegáns városházát és a régi laktanyát.\n\nDélután a tónál egy zöld oázis várja, amely tökéletes egy pihentető sétához.\n\nAz estét vidám, családbarát kalandok vagy csendes, elmélyült pillanatok teszik felejthetetlenné.",
+        "ro": "Începeți ziua explorând fortificațiile istorice și impresionanta poartă a orașului.\n\nLa prânz, plimbați-vă pe străduțele fermecătoare, admirând primăria elegantă și fosta cazarmă militară.\n\nDupă-amiaza vă așteaptă o oază verde lângă iaz, locul perfect pentru o scurtă relaxare.\n\nSeara se încheie fie cu aventuri în familie, fie cu momente de liniște spirituală.",
+        "en": "Start the day exploring the historic fortifications and the impressive city gate.\n\nAt noon, stroll through the charming streets, admiring the elegant town hall and the former military barracks.\n\nIn the afternoon, a green oasis awaits by the pond, offering the perfect spot for a relaxing walk.\n\nThe evening concludes with either fun family adventures or quiet, contemplative moments."
+      }
+    }
+  }
+}

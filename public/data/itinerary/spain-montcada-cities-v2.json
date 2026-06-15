@@ -1,0 +1,451 @@
+{
+  "city_id": "spain-montcada-cities-v2",
+  "anchor": {
+    "name": "Moncada",
+    "coords": [
+      -0.39551,
+      39.54555
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:52",
+      "total_km": 2.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museu de la Seda",
+            "hu": "Selyemmúzeum",
+            "ro": "Muzeul Mătăsii",
+            "en": "Silk Museum"
+          },
+          "coords": [
+            -0.394101,
+            39.548038
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Tradition der valencianischen Seidenherstellung in diesem faszinierenden Museum, und buchen Sie Ihre Tickets am besten vorab online.",
+            "hu": "Fedezze fel a valenciai selyemkészítés gazdag hagyományait ebben a lenyűgöző múzeumban, és érdemes előre, online megváltani a belépőjegyeket.",
+            "ro": "Descoperiți bogata tradiție a fabricării mătăsii valenciene în acest muzeu fascinant și asigurați-vă că rezervați biletele online în avans.",
+            "en": "Discover the rich tradition of Valencian silk manufacturing in this fascinating museum, and make sure to book your tickets online in advance to avoid queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatret d'Alfara",
+            "hu": "Alfara Kisszínház",
+            "ro": "Teatrul din Alfara",
+            "en": "Alfara Theater"
+          },
+          "coords": [
+            -0.386392,
+            39.544847
+          ],
+          "category": "cultural",
+          "arrive_at": "11:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die charmante Architektur dieses kleinen, historischen Theaters, bei dem es sich lohnt, rechtzeitig für eine Aufführung nach Karten zu fragen.",
+            "hu": "Csodálja meg e bájos, történelmi kisszínház építészetét, de ne felejtse el előre ellenőrizni a helyi előadások időpontjait és jegyárait.",
+            "ro": "Admirați arhitectura fermecătoare a acestui mic teatru istoric și verificați din timp programul spectacolelor locale pentru o seară de neuitat.",
+            "en": "Admire the charming architecture of this small, historical theater, and remember to check the local performance schedule ahead of your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Església de Sant Bertomeu",
+            "hu": "Szent Bertalan-templom",
+            "ro": "Biserica Sfântul Bartolomeu",
+            "en": "Church of Saint Bartholomew"
+          },
+          "coords": [
+            -0.384853,
+            39.543972
+          ],
+          "category": "religious",
+          "arrive_at": "12:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betrachten Sie die kunstvollen Details dieser wunderschönen Pfarrkirche, die man am besten in den ruhigen Morgenstunden ungestört besichtigen kann.",
+            "hu": "Tekintse meg ennek a gyönyörű plébániatemplomnak a művészi részleteit, amelyet a legérdemesebb a kora reggeli, csendes órákban meglátogatni.",
+            "ro": "Observați detaliile artistice ale acestei frumoase biserici parohiale, ideal de vizitat în orele liniștite ale dimineții pentru a evita aglomerația.",
+            "en": "Observe the artistic details of this beautiful parish church, which is ideally visited during the quiet morning hours to fully appreciate its serene atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "el Paretó",
+            "hu": "el Paretó",
+            "ro": "el Paretó",
+            "en": "el Paretó"
+          },
+          "coords": [
+            -0.380572,
+            39.544912
+          ],
+          "category": "historical",
+          "arrive_at": "13:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese bedeutende historische Struktur der Region und tragen Sie bequeme Schuhe, da der Untergrund hier oft uneben ist.",
+            "hu": "Fedezze fel a régió e jelentős történelmi építményét, és viseljen kényelmes cipőt, mivel a talaj a környéken sok helyen egyenetlen lehet.",
+            "ro": "Explorați această structură istorică semnificativă a regiunii și purtați încălțăminte confortabilă, deoarece terenul din jur poate fi adesea denivelat.",
+            "en": "Explore this significant historical structure of the region, and make sure to wear comfortable walking shoes as the surrounding ground can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Convent de les Oblates",
+            "hu": "Oblata Nővérek Kolostora",
+            "ro": "Mănăstirea Oblatelor",
+            "en": "Convent of the Oblates"
+          },
+          "coords": [
+            -0.38394,
+            39.551007
+          ],
+          "category": "religious",
+          "arrive_at": "14:42",
+          "stay_min": 70,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieses majestätischen Klosters, wo Sie aus Respekt vor den Bewohnern auf angemessene Kleidung achten sollten.",
+            "hu": "Élvezze e fenséges kolostor békés légkörét, ahol a lakók iránti tiszteletből mindenképpen érdemes a megfelelő, visszafogott öltözékre figyelni.",
+            "ro": "Bucurați-vă de atmosfera pașnică a acestei mănăstiri maiestuoase, unde ar trebui să acordați atenție îmbrăcămintei adecvate din respect pentru rezidenți.",
+            "en": "Enjoy the peaceful atmosphere of this majestic convent, making sure to dress modestly out of respect for the religious community residing there."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einem tiefen Einblick in die reiche Seidengeschichte von Moncada. Anschließend erkunden Sie das kulturelle Erbe im charmanten kleinen Theater von Alfara. Der Mittag steht im Zeichen der Stille bei der nahegelegenen historischen Kirche. Nachmittags spazieren Sie zum faszinierenden Bauwerk el Paretó. Den Tag beschließen Sie friedlich im majestätischen Kloster der Oblaten.",
+        "hu": "A reggel Moncada selyemkészítésének gazdag történetével indul, mielőtt felfedezné a bájos alfara-i kisszínházat. A delet a közeli történelmi templom csendes falai között töltheti. Délután egy kellemes séta vezet el Paretó lenyűgöző építményéhez. A nap békés befejezéseként látogasson el az Oblata nővérek fenséges és nyugalmat árasztó kolostorába, amely varázslatos atmoszférával várja.",
+        "ro": "Dimineața începe cu o incursiune în istoria bogată a mătăsii din Moncada, urmată de o vizită la fermecătorul teatru din Alfara. La amiază, bucurați-vă de liniștea bisericii istorice din apropiere. După-amiaza vă poartă la impresionanta structură el Paretó. Încheiați ziua într-o notă pașnică, admirând arhitectura și atmosfera serenă de la maiestuoasa mănăstire a surorilor Oblate.",
+        "en": "Your morning starts with a deep dive into the rich silk-making history of Moncada, followed by a visit to Alfara's charming theater. Midday brings moments of quiet reflection at the nearby historic church. The afternoon invites you to a pleasant walk towards the fascinating el Paretó structure. Conclude your inspiring day with the peaceful, majestic ambiance of the Oblates convent."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:48",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museu de la Seda",
+            "hu": "Selyemmúzeum",
+            "ro": "Muzeul Mătăsii",
+            "en": "Silk Museum"
+          },
+          "coords": [
+            -0.394101,
+            39.548038
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Tradition der valencianischen Seidenherstellung in diesem faszinierenden Museum, und buchen Sie Ihre Tickets am besten vorab online.",
+            "hu": "Fedezze fel a valenciai selyemkészítés gazdag hagyományait ebben a lenyűgöző múzeumban, és érdemes előre, online megváltani a belépőjegyeket.",
+            "ro": "Descoperiți bogata tradiție a fabricării mătăsii valenciene în acest muzeu fascinant și asigurați-vă că rezervați biletele online în avans.",
+            "en": "Discover the rich tradition of Valencian silk manufacturing in this fascinating museum, and make sure to book your tickets online in advance to avoid queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de la Sirena",
+            "hu": "A Szirén Háza",
+            "ro": "Casa Sirenei",
+            "en": "House of the Mermaid"
+          },
+          "coords": [
+            -0.385092,
+            39.530899
+          ],
+          "category": "historical",
+          "arrive_at": "11:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von der beeindruckenden Fassade dieses historischen Herrenhauses verzaubern, das bei Sonnenuntergang besonders schöne Fotomotive bietet.",
+            "hu": "Hagyja, hogy elvarázsolja e történelmi kúria lenyűgöző homlokzata, amely naplemente idején különösen szép fotótémát kínál a látogatóknak.",
+            "ro": "Lăsați-vă fermecați de fațada impresionantă a acestui conac istoric, care oferă oportunități fotografice deosebit de frumoase la apusul soarelui.",
+            "en": "Be enchanted by the impressive facade of this historic mansion, which offers particularly beautiful photography opportunities as the sun begins to set."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de Antonio Machado",
+            "hu": "Antonio Machado Háza",
+            "ro": "Casa lui Antonio Machado",
+            "en": "Antonio Machado's House"
+          },
+          "coords": [
+            -0.408751,
+            39.529853
+          ],
+          "category": "museum",
+          "arrive_at": "12:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das Leben des berühmten Dichters ein, der hier residierte, und nehmen Sie sich Zeit für die informative Führung durch das Haus.",
+            "hu": "Merüljön el a híres költő életében, aki egykor itt élt, és feltétlenül szánjon időt a házban tartott informatív és részletes idegenvezetésre.",
+            "ro": "Pătrundeți în viața faimosului poet care a locuit aici și asigurați-vă că vă faceți timp pentru turul informativ detaliat prin interiorul casei.",
+            "en": "Delve into the life of the famous poet who resided here, and make sure to allow enough time to take the highly informative guided tour of the house."
+          }
+        },
+        {
+          "name": {
+            "de": "Xalet del Molí",
+            "hu": "Malom Villa",
+            "ro": "Vila Morii",
+            "en": "Mill Chalet"
+          },
+          "coords": [
+            -0.411371,
+            39.531415
+          ],
+          "category": "historical",
+          "arrive_at": "14:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betrachten Sie die einzigartige Architektur dieser historischen Villa und verbinden Sie den Besuch mit einem Spaziergang durch die angrenzenden Gassen.",
+            "hu": "Csodálja meg e történelmi villa egyedi építészetét, és kösse össze a látogatást egy kellemes sétával a környező, hangulatos kis utcákban.",
+            "ro": "Admirați arhitectura unică a acestei vile istorice și combinați vizita cu o plimbare relaxantă pe străduțele fermecătoare din imediata apropiere.",
+            "en": "Admire the unique architecture of this historic villa, and perfectly combine your visit with a relaxing stroll through the charming adjacent streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Vil·la Contat",
+            "hu": "Contat Villa",
+            "ro": "Vila Contat",
+            "en": "Contat Villa"
+          },
+          "coords": [
+            -0.412375,
+            39.533562
+          ],
+          "category": "historical",
+          "arrive_at": "15:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die eleganten Linien dieses prächtigen Anwesens und informieren Sie sich vorab über die genauen, oft wechselnden Öffnungszeiten.",
+            "hu": "Csodálja meg e csodálatos birtok elegáns vonalait, de érkezés előtt mindenképpen tájékozódjon az esetlegesen változó nyitvatartási időkről.",
+            "ro": "Admirați liniile elegante ale acestei proprietăți magnifice și asigurați-vă că verificați în prealabil orele de deschidere, care se pot schimba frecvent.",
+            "en": "Admire the elegant lines of this magnificent estate, but make sure to check the exact opening hours in advance as they can frequently change."
+          }
+        },
+        {
+          "name": {
+            "de": "Xalet Dinnbier",
+            "hu": "Dinnbier Villa",
+            "ro": "Vila Dinnbier",
+            "en": "Dinnbier Chalet"
+          },
+          "coords": [
+            -0.411784,
+            39.536775
+          ],
+          "category": "historical",
+          "arrive_at": "16:58",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Studieren Sie die bemerkenswerten architektonischen Details dieses historischen Chalets, dessen Gärten an einem sonnigen Nachmittag besonders reizvoll sind.",
+            "hu": "Tanulmányozza e történelmi faház figyelemre méltó építészeti részleteit, melynek kertjei egy napsütéses délutánon különösen vonzóak a látogatók számára.",
+            "ro": "Studiați detaliile arhitecturale remarcabile ale acestui caban istoric, ale cărui grădini sunt deosebit de atractive pentru relaxare într-o după-amiază însorită.",
+            "en": "Study the remarkable architectural details of this historic chalet, whose beautifully maintained gardens are particularly appealing on a sunny afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet beim faszinierenden Seidenmuseum, bevor Sie zur prächtigen Casa de la Sirena weiterradeln. Mittags tauchen Sie im Haus von Antonio Machado in die Poesie ein. Der Nachmittag bietet eine malerische Fahrt zu den eleganten historischen Villen, darunter das Xalet del Molí. Beenden Sie diesen aktiven Tag bei den beeindruckenden Gärten des Xalet Dinnbier in der Abenddämmerung.",
+        "hu": "Kerékpártúrája a lenyűgöző selyemmúzeumnál kezdődik, majd a pompás Casa de la Sirena felé veszi az irányt. Délben Antonio Machado egykori házában merülhet el a költészet világában. A délután festői utazást kínál az elegáns történelmi villákhoz, köztük a Xalet del Molí épületéhez. Zárja ezt az aktív napot a Xalet Dinnbier csodálatos kertjeiben, miközben a nap lassan nyugovóra tér.",
+        "ro": "Turul cu bicicleta începe la fascinantul muzeu al mătăsii, înainte de a pedala spre magnifica Casa de la Sirena. La prânz, pătrundeți în poezie la casa lui Antonio Machado. După-amiaza oferă o plimbare pitorească pe la vilele istorice elegante, inclusiv Xalet del Molí. Încheiați această zi activă admirând grădinile impresionante de la Xalet Dinnbier la lăsarea serii.",
+        "en": "Your bike tour kicks off at the fascinating silk museum before pedaling towards the magnificent Casa de la Sirena. Midday is spent delving into poetry at the former home of Antonio Machado. The afternoon offers a scenic ride past elegant historical villas, including the charming Xalet del Molí. Wrap up this active day at the impressive gardens of Xalet Dinnbier as dusk approaches."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 6.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Charca de Santa Bárbara",
+            "hu": "Santa Bárbara Tó",
+            "ro": "Balta Santa Bárbara",
+            "en": "Santa Bárbara Pond"
+          },
+          "coords": [
+            -0.420458,
+            39.547032
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem ruhigen Gewässer inmitten der Natur, das sich hervorragend für ein kleines Picknick abseits des Stadttrubels eignet.",
+            "hu": "Pihenjen meg e csendes vizű tó partján a természet lágy ölén, amely kiválóan alkalmas egy kis piknikezésre, távol a város zajától és forgatagától.",
+            "ro": "Relaxați-vă lângă acest corp de apă liniștit în mijlocul naturii, care este locul perfect pentru un mic picnic de neuitat departe de agitația orașului.",
+            "en": "Relax by this quiet body of water surrounded by nature, which is an excellent and serene spot for a small picnic far away from the city's hustle."
+          }
+        },
+        {
+          "name": {
+            "de": "Xalet Dinnbier",
+            "hu": "Dinnbier Villa",
+            "ro": "Vila Dinnbier",
+            "en": "Dinnbier Chalet"
+          },
+          "coords": [
+            -0.411784,
+            39.536775
+          ],
+          "category": "historical",
+          "arrive_at": "10:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Studieren Sie die bemerkenswerten architektonischen Details dieses historischen Chalets, dessen Gärten an einem sonnigen Nachmittag besonders reizvoll sind.",
+            "hu": "Tanulmányozza e történelmi faház figyelemre méltó építészeti részleteit, melynek kertjei egy napsütéses délutánon különösen vonzóak a látogatók számára.",
+            "ro": "Studiați detaliile arhitecturale remarcabile ale acestui caban istoric, ale cărui grădini sunt deosebit de atractive pentru relaxare într-o după-amiază însorită.",
+            "en": "Study the remarkable architectural details of this historic chalet, whose beautifully maintained gardens are particularly appealing on a sunny afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Bou",
+            "hu": "Bou Ház",
+            "ro": "Casa Bou",
+            "en": "Bou House"
+          },
+          "coords": [
+            -0.409458,
+            39.528917
+          ],
+          "category": "historical",
+          "arrive_at": "11:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie den ländlichen Charme dieses historischen Hauses, und achten Sie dabei besonders auf die liebevoll restaurierten Holzelemente der Fassade.",
+            "hu": "Fedezze fel e történelmi ház jellegzetes vidéki báját, és szenteljen különös figyelmet a homlokzat gondosan felújított, eredeti faelemeinek.",
+            "ro": "Descoperiți farmecul rural al acestei case istorice și acordați o atenție deosebită elementelor din lemn restaurate cu dragoste de pe fațada principală.",
+            "en": "Discover the rural charm of this historic house, paying special attention to the lovingly restored original wooden elements found on the main facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de la Sirena",
+            "hu": "A Szirén Háza",
+            "ro": "Casa Sirenei",
+            "en": "House of the Mermaid"
+          },
+          "coords": [
+            -0.385092,
+            39.530899
+          ],
+          "category": "historical",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von der beeindruckenden Fassade dieses historischen Herrenhauses verzaubern, das bei Sonnenuntergang besonders schöne Fotomotive bietet.",
+            "hu": "Hagyja, hogy elvarázsolja e történelmi kúria lenyűgöző homlokzata, amely naplemente idején különösen szép fotótémát kínál a látogatóknak.",
+            "ro": "Lăsați-vă fermecați de fațada impresionantă a acestui conac istoric, care oferă oportunități fotografice deosebit de frumoase la apusul soarelui.",
+            "en": "Be enchanted by the impressive facade of this historic mansion, which offers particularly beautiful photography opportunities as the sun begins to set."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatret d'Alfara",
+            "hu": "Alfara Kisszínház",
+            "ro": "Teatrul din Alfara",
+            "en": "Alfara Theater"
+          },
+          "coords": [
+            -0.386392,
+            39.544847
+          ],
+          "category": "cultural",
+          "arrive_at": "14:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die charmante Architektur dieses kleinen, historischen Theaters, bei dem es sich lohnt, rechtzeitig für eine Aufführung nach Karten zu fragen.",
+            "hu": "Csodálja meg e bájos, történelmi kisszínház építészetét, de ne felejtse el előre ellenőrizni a helyi előadások időpontjait és jegyárait.",
+            "ro": "Admirați arhitectura fermecătoare a acestui mic teatru istoric și verificați din timp programul spectacolelor locale pentru o seară de neuitat.",
+            "en": "Admire the charming architecture of this small, historical theater, and remember to check the local performance schedule ahead of your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Convent de les Oblates",
+            "hu": "Oblata Nővérek Kolostora",
+            "ro": "Mănăstirea Oblatelor",
+            "en": "Convent of the Oblates"
+          },
+          "coords": [
+            -0.38394,
+            39.551007
+          ],
+          "category": "religious",
+          "arrive_at": "16:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieses majestätischen Klosters, wo Sie aus Respekt vor den Bewohnern auf angemessene Kleidung achten sollten.",
+            "hu": "Élvezze e fenséges kolostor békés légkörét, ahol a lakók iránti tiszteletből mindenképpen érdemes a megfelelő, visszafogott öltözékre figyelni.",
+            "ro": "Bucurați-vă de atmosfera pașnică a acestei mănăstiri maiestuoase, unde ar trebui să acordați atenție îmbrăcămintei adecvate din respect pentru rezidenți.",
+            "en": "Enjoy the peaceful atmosphere of this majestic convent, making sure to dress modestly out of respect for the religious community residing there."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt entspannt in der Natur an der Charca de Santa Bárbara. Kurz darauf bewundern Sie die Architektur des Xalet Dinnbier. Mittags führt die Fahrt zur Casa Bou und weiter zur prächtigen Casa de la Sirena. Am Nachmittag entdecken Sie das kulturelle Flair am Teatret d'Alfara. Der erlebnisreiche Roadtrip endet besinnlich am beeindruckenden Kloster der Oblaten.",
+        "hu": "A nap a természetben, a Charca de Santa Bárbara nyugalmában indul. Röviddel ezután a Xalet Dinnbier építészetét csodálhatja meg. Délben a Casa Bou és a pompás Casa de la Sirena felé vezet az út. Délután fedezze fel az alfara-i kisszínház kulturális atmoszféráját. Ez a tartalmas autós kirándulás a fenséges Oblata kolostor békés és csendes falai között ér véget a kora esti órákban.",
+        "ro": "Ziua începe relaxant în natură, la Charca de Santa Bárbara, urmată de o vizită la Xalet Dinnbier. La prânz, drumul vă duce la Casa Bou și apoi la magnifica Casa de la Sirena. După-amiaza este dedicată atmosferei culturale de la Teatret d'Alfara. Această excursie plină de evenimente se încheie liniștit la impresionanta mănăstire a surorilor Oblate, odată cu apropierea serii.",
+        "en": "The day starts relaxing in nature at the Charca de Santa Bárbara, soon followed by admiring the Xalet Dinnbier. Midday drives take you to Casa Bou and the magnificent Casa de la Sirena. The afternoon is reserved for absorbing the cultural flair at the Teatret d'Alfara. This eventful and scenic road trip concludes reflectively at the impressive Oblates convent as evening sets in."
+      }
+    }
+  }
+}

@@ -1,0 +1,451 @@
+{
+  "city_id": "canet-en-roussillon-saint-nazaire",
+  "anchor": {
+    "name": "Canet-en-Roussillon-Saint-Nazaire",
+    "coords": [
+      3.0078,
+      42.7067
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:43",
+      "total_km": 1.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Aquarium Oniria",
+            "hu": "Aquarium Oniria",
+            "ro": "Aquarium Oniria",
+            "en": "Aquarium Oniria"
+          },
+          "coords": [
+            3.035708,
+            42.701888
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende aquatische Ökosysteme im Aquarium Oniria und planen Sie Ihren Besuch früh am Tag, um ein ruhigeres Erlebnis zu genießen.",
+            "hu": "Fedezze fel a lenyűgöző vízi ökoszisztémákat az Aquarium Oniria kiállításain, és érkezzen korán, hogy elkerülje a legnagyobb tömeget.",
+            "ro": "Descoperiți ecosisteme acvatice fascinante la Aquarium Oniria și planificați-vă vizita devreme pentru a vă bucura de o experiență mai liniștită.",
+            "en": "Discover fascinating aquatic ecosystems and interactive exhibits at Aquarium Oniria, and plan your visit early in the day to enjoy a quieter experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la jetée",
+            "hu": "Plage de la jetée",
+            "ro": "Plage de la jetée",
+            "en": "Plage de la jetée"
+          },
+          "coords": [
+            3.038837,
+            42.700578
+          ],
+          "category": "recreational",
+          "arrive_at": "10:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am malerischen Pier, wo der Sandstrand einen perfekten Ort zum Sonnenbaden bietet, also bringen Sie ein gutes Buch und Sonnencreme mit.",
+            "hu": "Pihenjen a festői móló mellett, ahol a homokos part tökéletes hely a napozáshoz, ezért ne felejtsen el egy jó könyvet és bőséges naptejet hozni.",
+            "ro": "Relaxați-vă lângă digul pitoresc unde țărmul nisipos oferă un loc perfect pentru plajă, așa că aduceți o carte bună și multă cremă de protecție solară.",
+            "en": "Relax by the picturesque pier where the sandy shore offers a perfect spot for sunbathing, so bring a good book and plenty of sunscreen."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Roussillon",
+            "hu": "Plage du Roussillon",
+            "ro": "Plage du Roussillon",
+            "en": "Plage du Roussillon"
+          },
+          "coords": [
+            3.03694,
+            42.69749
+          ],
+          "category": "recreational",
+          "arrive_at": "12:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die sanften Wellen und die lebhafte Atmosphäre dieses beliebten Strandabschnitts, aber denken Sie daran, sich nachmittags gut zu hydrieren.",
+            "hu": "Élvezze a lágy hullámokat és e népszerű strandszakasz nyüzsgő hangulatát, de ügyeljen a folyadékpótlásra a meleg mediterrán délutánokon.",
+            "ro": "Bucurați-vă de valurile blânde și de atmosfera vibrantă a acestui segment popular de plajă, dar nu uitați să vă hidratați în timpul după-amiezii calde.",
+            "en": "Enjoy the gentle waves and vibrant atmosphere of this popular beach segment, but remember to stay hydrated during the warm Mediterranean afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage centrale",
+            "hu": "Plage centrale",
+            "ro": "Plage centrale",
+            "en": "Plage centrale"
+          },
+          "coords": [
+            3.036358,
+            42.693776
+          ],
+          "category": "recreational",
+          "arrive_at": "13:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schlendern Sie den zentralen Strandbereich mit seinen lebhaften Cafés entlang und gönnen Sie sich ein erfrischendes Gelato, bevor Sie weitergehen.",
+            "hu": "Sétáljon végig a nyüzsgő központi strandszakaszon, amelyet kávézók szegélyeznek, és egyen egy frissítő fagylaltot a séta folytatása előtt.",
+            "ro": "Plimbați-vă de-a lungul zonei centrale pline de viață, străjuită de cafenele animate, luând o pauză pentru o înghețată răcoritoare înainte de a continua.",
+            "en": "Stroll along the bustling central beach area lined with lively cafes, taking a moment to grab a refreshing gelato before continuing your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du grand large",
+            "hu": "Plage du grand large",
+            "ro": "Plage du grand large",
+            "en": "Plage du grand large"
+          },
+          "coords": [
+            3.036002,
+            42.690039
+          ],
+          "category": "recreational",
+          "arrive_at": "14:58",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang mit einem friedlichen Sonnenuntergang an diesem weitläufigen Strand, der sich ideal für ein abendliches Picknick eignet.",
+            "hu": "Zárja sétáját egy békés naplementével ezen a tágas strandon, amely ideális egy nyugodt esti piknikhez a nyílt vizek mellett.",
+            "ro": "Încheiați plimbarea cu o priveliște pașnică la apus peste apele deschise pe această plajă extinsă, ideală pentru un picnic de seară liniștit.",
+            "en": "End your walk with a peaceful sunset view over the open waters at this expansive beach, making it ideal for a tranquil evening picnic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt mit einem Eintauchen in die aquatischen Wunder des Aquarium Oniria. Mittags genießen Sie die frische Meeresbrise an der Plage de la jetée und der Plage du Roussillon. Am Nachmittag bietet die lebhafte Atmosphäre der Plage centrale die perfekte Mischung aus Sonne und lokalem Charme. Der Abend endet stilvoll an der Plage du grand large, wo sich die Sonnenuntergangsfarben auf dem Mittelmeer spiegeln.",
+        "hu": "A reggel az Aquarium Oniria vízi csodáinak lenyűgöző felfedezésével indul. A déli órákban a friss tengeri szellő élvezhető a Plage de la jetée és a Plage du Roussillon partjain. Délután a Plage centrale nyüzsgő hangulata a napsütés és a helyi varázs tökéletes keverékét nyújtja. Az estét a Plage du grand large tágas partján zárhatja, ahol a naplemente színei tükröződnek a Földközi-tenger vizén.",
+        "ro": "Dimineața începe cu o explorare captivantă a minunilor acvatice de la Aquarium Oniria. La prânz, briza mării vă întâmpină la Plage de la jetée și Plage du Roussillon. După-amiaza, atmosfera plină de viață a Plage centrale oferă un amestec perfect de soare și farmec local. Seara se încheie frumos la Plage du grand large, admirând culorile apusului reflectate pe Marea Mediterană.",
+        "en": "Your morning starts with an immersive dive into the aquatic wonders of Aquarium Oniria. Midday brings you out to the fresh sea breeze at Plage de la jetée and Plage du Roussillon. In the afternoon, the lively atmosphere of Plage centrale offers the perfect blend of sun and local charm. The evening concludes gracefully at Plage du grand large, watching the sunset colors reflect off the Mediterranean Sea."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:28",
+      "total_km": 6.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Canet",
+            "hu": "Canet",
+            "ro": "Canet",
+            "en": "Canet"
+          },
+          "coords": [
+            3.039335,
+            42.712936
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Radtour am nördlichen Ende von Canet, wo der Küstenweg beginnt und atemberaubende morgendliche Meerblicke bietet.",
+            "hu": "Kezdje a kerékpártúrát Canet északi részén, ahol a kényelmes parti út kezdődik, és lenyűgöző kora reggeli tengeri kilátást nyújt.",
+            "ro": "Începeți-vă călătoria cu bicicleta la capătul nordic din Canet, unde începe poteca de coastă netedă, oferind priveliști uimitoare la mare dimineața.",
+            "en": "Start your cycling journey at the northern end of Canet where the coastal path begins, offering smooth riding terrain and stunning early morning sea views."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Sardinal",
+            "hu": "Plage du Sardinal",
+            "ro": "Plage du Sardinal",
+            "en": "Plage du Sardinal"
+          },
+          "coords": [
+            3.038925,
+            42.711157
+          ],
+          "category": "recreational",
+          "arrive_at": "10:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Pause an diesem ruhigen nördlichen Abschnitt, um die ungestörte Küste zu bewundern, ein großartiger Ort für Panoramafotos.",
+            "hu": "Tartson egy rövid szünetet ezen a csendes északi szakaszon, hogy megcsodálja a zavartalan partvonalat, amely kiváló hely panorámaképek készítésére.",
+            "ro": "Luați o scurtă pauză pe această porțiune nordică liniștită pentru a aprecia coasta nederanjată, acesta fiind un loc excelent pentru fotografii panoramice.",
+            "en": "Take a quick break at this quiet northern stretch to appreciate the undisturbed coastline, making it a great spot for taking panoramic photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquarium Oniria",
+            "hu": "Aquarium Oniria",
+            "ro": "Aquarium Oniria",
+            "en": "Aquarium Oniria"
+          },
+          "coords": [
+            3.035708,
+            42.701888
+          ],
+          "category": "recreational",
+          "arrive_at": "11:47",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad am Eingang und erkunden Sie die interaktiven Ausstellungen, die die vielfältige aquatische Tierwelt perfekt präsentieren.",
+            "hu": "Parkolja le kerékpárját biztonságosan a bejárat közelében, és fedezze fel a régió változatos vízi élővilágát bemutató lenyűgöző kiállításokat.",
+            "ro": "Parcați-vă bicicleta în siguranță lângă intrare și explorați expozițiile marine interactive care prezintă perfect viața acvatică diversă a regiunii.",
+            "en": "Park your bike securely near the entrance and explore the interactive marine displays that perfectly showcase the region's diverse aquatic life."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage centrale",
+            "hu": "Plage centrale",
+            "ro": "Plage centrale",
+            "en": "Plage centrale"
+          },
+          "coords": [
+            3.036358,
+            42.693776
+          ],
+          "category": "recreational",
+          "arrive_at": "13:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad an der Promenade ab und genießen Sie den Strand oder holen Sie sich einen Snack an einem der lebhaften Strandkioske.",
+            "hu": "Zárja le kerékpárját a sétánynál, és élvezze a homokos partot, vagy kapjon be egy gyors falatot a sok nyüzsgő tengerparti pavilon egyikében.",
+            "ro": "Legați-vă bicicleta pe promenadă și bucurați-vă de țărmul nisipos sau luați o gustare rapidă de la unul dintre chioșcurile pline de viață de pe plajă.",
+            "en": "Lock your bike by the promenade and enjoy a walk along the sandy shore or grab a quick bite from one of the many lively beachfront kiosks."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de l'Esparrou",
+            "hu": "Château de l'Esparrou",
+            "ro": "Château de l'Esparrou",
+            "en": "Château de l'Esparrou"
+          },
+          "coords": [
+            3.02621,
+            42.6888
+          ],
+          "category": "historical",
+          "arrive_at": "14:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahren Sie ins Landesinnere, um dieses versteckte historische Juwel zu entdecken, dessen Weinberge einen herrlich schattigen Rastplatz bieten.",
+            "hu": "Kerékpározzon kissé beljebb, hogy felfedezze ezt a rejtett történelmi gyöngyszemet, amelynek szőlőültetvényei gyönyörű, árnyékos pihenőhelyet nyújtanak.",
+            "ro": "Mergeți ușor spre interior pentru a descoperi această bijuterie istorică ascunsă, unde podgoriile înconjurătoare oferă un loc de odihnă frumos umbrit.",
+            "en": "Cycle inland slightly to discover this hidden 19th-century historical gem, where the surrounding vineyards provide a beautifully shaded resting spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Marenda",
+            "hu": "Plage de la Marenda",
+            "ro": "Plage de la Marenda",
+            "en": "Plage de la Marenda"
+          },
+          "coords": [
+            3.035433,
+            42.684092
+          ],
+          "category": "recreational",
+          "arrive_at": "16:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Kehren Sie an diesem naturbelassenen Strandabschnitt zur Küstenbrise zurück, wo die Dünen eine wilde Kulisse für ein Nachmittagsschwimmen bieten.",
+            "hu": "Térjen vissza a tengerparti szellőhöz ezen a természetes szakaszon, ahol a megőrzött dűnék egyedülállóan vad hátteret biztosítanak az úszáshoz.",
+            "ro": "Întoarceți-vă la briza mării pe acest segment natural de plajă, unde dunele conservate oferă un fundal sălbatic pentru o baie de după-amiază.",
+            "en": "Return to the coastal breeze at this natural beach segment, where the preserved dunes offer a uniquely wild backdrop for an afternoon swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Lido",
+            "hu": "Plage du Lido",
+            "ro": "Plage du Lido",
+            "en": "Plage du Lido"
+          },
+          "coords": [
+            3.034642,
+            42.665209
+          ],
+          "category": "recreational",
+          "arrive_at": "17:43",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt an diesem breiten südlichen Strand, der nahtlos in Naturschutzgebiete übergeht und perfekt ist für die Abenddämmerung.",
+            "hu": "Fejezze be a túrát ezen a széles déli strandon, amely zökkenőmentesen csatlakozik a természetvédelmi területekhez a lagúna feletti alkonyat megfigyelésére.",
+            "ro": "Încheiați-vă cursa pe această plajă largă din sud, care se conectează la rezervațiile naturale, perfectă pentru a privi amurgul lăsându-se peste lagună.",
+            "en": "Conclude your ride at this wide southern beach that seamlessly connects to natural reserves, perfect for watching the twilight settle over the lagoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt mit einer erfrischenden Fahrt vom nördlichen Ende von Canet hinunter zur Plage du Sardinal. Gegen Mittag bieten die Ausstellungen des Aquarium Oniria eine willkommene Pause von der Sonne. Am Nachmittag machen Sie einen eleganten Abstecher ins Landesinnere zum historischen Château de l'Esparrou inmitten der Weinberge. Der Abend lädt zu einer gemütlichen Radtour zur Plage du Lido ein.",
+        "hu": "A nap egy frissítő reggeli kerékpározással indul Canet északi részétől egészen a Plage du Sardinal partjáig. Ahogy közeledik a dél, az Aquarium Oniria lenyűgöző kiállításai kellemes menedéket nyújtanak. A délután egy elegáns kitérőt tartogat a történelmi Château de l'Esparrou felé a szőlőbirtokok között. Az este egy kényelmes tekerésre hív a Plage du Lido felé, a homokdűnék mentén.",
+        "ro": "Ziua începe cu o plimbare răcoroasă pe bicicletă de la capătul nordic din Canet până la Plage du Sardinal. Pe măsură ce se apropie prânzul, expozițiile de la Aquarium Oniria oferă o pauză binevenită de la soare. După-amiaza ia o întorsătură elegantă spre interior, vizitând istoricul Château de l'Esparrou, cuibărit printre podgorii. Seara invită la o pedalare relaxantă până la Plage du Lido.",
+        "en": "The day kicks off with a refreshing morning ride from the northern reaches of Canet down to Plage du Sardinal. As midday approaches, the fascinating exhibits of Aquarium Oniria provide a welcome break from the sun. The afternoon takes an elegant turn inland towards the historic Château de l'Esparrou, nestled amongst the vineyards. Evening invites a leisurely pedal down to Plage du Lido, where the natural dunes meet the darkening sea."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:46",
+      "total_km": 9.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Plage de Canet",
+            "hu": "Plage de Canet",
+            "ro": "Plage de Canet",
+            "en": "Plage de Canet"
+          },
+          "coords": [
+            2.952926,
+            42.706206
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag mit der Erkundung des weiteren Binnenlandes nahe der traditionellen Dorfgrenzen und finden Sie entspannt Parkplätze am Morgen.",
+            "hu": "Kezdje a napot a faluhatárokhoz közeli tágasabb terület felfedezésével, ahol bőséges parkolóhelyet talál egy rövid reggeli séta előtt.",
+            "ro": "Începeți-vă ziua explorând zona mai largă, aproape de limitele satului tradițional, găsind parcări ample înainte de o scurtă plimbare matinală.",
+            "en": "Begin your day exploring the wider inland area near the traditional village bounds, finding ample parking before taking a short morning stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquarium Oniria",
+            "hu": "Aquarium Oniria",
+            "ro": "Aquarium Oniria",
+            "en": "Aquarium Oniria"
+          },
+          "coords": [
+            3.035708,
+            42.701888
+          ],
+          "category": "recreational",
+          "arrive_at": "10:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 6.7,
+          "tip_5lang": {
+            "de": "Fahren Sie in das belebte Hafengebiet, um dieses spektakuläre Aquarium zu besuchen, und nutzen Sie die nahegelegenen städtischen Parkplätze.",
+            "hu": "Hajtson a nyüzsgő kikötő negyedbe, hogy meglátogassa ezt a látványos akváriumot, és használja a közeli városi parkolókat az egyszerűbb megállásért.",
+            "ro": "Conduceți către zona aglomerată a portului pentru a vizita acest acvariu spectaculos și folosiți parcările municipale din apropiere pentru a economisi timp.",
+            "en": "Drive to the bustling harbor area to visit this spectacular aquarium, and use the nearby municipal parking lots to save time searching for a spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la jetée",
+            "hu": "Plage de la jetée",
+            "ro": "Plage de la jetée",
+            "en": "Plage de la jetée"
+          },
+          "coords": [
+            3.038837,
+            42.700578
+          ],
+          "category": "recreational",
+          "arrive_at": "12:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Gehen Sie hinüber zum nahegelegenen Pier-Strand für eine Mittagspause, wo Sie feinen Sand und durch Wellenbrecher geschütztes Wasser genießen.",
+            "hu": "Sétáljon át a közeli mólóhoz egy déli pihenőre, kihasználva a finom homokot és a hullámtörő által jól védett, nyugodt vizet.",
+            "ro": "Mergeți la plaja din apropierea digului pentru o pauză de prânz, profitând de nisipul fin și de apele calme protejate de valuri.",
+            "en": "Park once and walk over to the nearby pier beach for a midday break, taking advantage of the fine sand and calm waters protected by the breakwater."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de l'Esparrou",
+            "hu": "Château de l'Esparrou",
+            "ro": "Château de l'Esparrou",
+            "en": "Château de l'Esparrou"
+          },
+          "coords": [
+            3.02621,
+            42.6888
+          ],
+          "category": "historical",
+          "arrive_at": "13:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Fahrt ins Landesinnere, um dieses bezaubernde Anwesen aus dem 19. Jahrhundert und seine malerischen Wege zu bewundern.",
+            "hu": "Tegyen egy rövid utat a szárazföld belseje felé, hogy megcsodálja ezt a varázslatos 19. századi birtokot és festői szőlőskerti ösvényeit.",
+            "ro": "Faceți o scurtă plimbare cu mașina spre interior pentru a vă minuna de această moșie din secolul al XIX-lea și a vă plimba prin via sa pitorească.",
+            "en": "Take a short drive slightly inland to marvel at this enchanting 19th-century estate, making sure to walk around its picturesque vineyard pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage Sud",
+            "hu": "Plage Sud",
+            "ro": "Plage Sud",
+            "en": "Plage Sud"
+          },
+          "coords": [
+            3.034976,
+            42.678748
+          ],
+          "category": "recreational",
+          "arrive_at": "15:01",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Autotour an den südlichen Stränden, wo das Parken am späten Nachmittag einfacher ist, um einen ruhigen Sonnenuntergang zu genießen.",
+            "hu": "Zárja autós túráját a déli strandokon, ahol a késő délutáni órákban könnyebb a parkolás, így kényelmesen élvezheti a nyugodt naplementét.",
+            "ro": "Încheiați-vă turul cu mașina la plajele din sud, unde parcarea este mai ușoară după-amiaza târziu, pentru a vă bucura de un apus liniștit peste valuri.",
+            "en": "Finish your driving tour at the southern beaches where parking is easier in the late afternoon, allowing you to enjoy a serene sunset over the waves."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Reise beginnt mit einer entspannten Fahrt durch die Region Canet, um die morgendliche Atmosphäre aufzunehmen. Der Mittag ist dem Meeresleben im Aquarium Oniria und einem Spaziergang am benachbarten Pier gewidmet. Am Nachmittag fahren Sie leicht ins Landesinnere, um die Schönheit des Château de l'Esparrou zu entdecken. Der Tag endet an der Plage Sud mit weiten Ausblicken.",
+        "hu": "Utazása egy kényelmes autózással kezdődik a tágabb Canet régióban, magába szívva a kora reggeli hangulatot. A dél a látványos tengeri élőlényeknek szentelődik az Aquarium Oniria-ban és a mólónál. Délután egy rövid autózással a szárazföld belseje felé fedezheti fel a Château de l'Esparrou szépségét. A nap csodálatosan zárul a Plage Sud tágas partjánál.",
+        "ro": "Călătoria dvs. începe cu o plimbare lină prin regiunea mai largă Canet, absorbind atmosfera matinală. Prânzul este dedicat spectaculoasei vieți marine de la Aquarium Oniria și unei scurte plimbări pe dig. După-amiaza, vă veți îndrepta ușor spre interior pentru a descoperi frumusețea arhitecturală a Château de l'Esparrou. Ziua se încheie frumos la Plage Sud.",
+        "en": "Your journey begins with a smooth drive around the broader Canet region, soaking in the morning Mediterranean atmosphere. Midday is dedicated to the spectacular marine life at Aquarium Oniria and a relaxing stroll by the adjacent pier. In the afternoon, you will head slightly inland to uncover the architectural beauty of Château de l'Esparrou. The day wraps up beautifully at Plage Sud, offering expansive views and a relaxing evening atmosphere by the sea."
+      }
+    }
+  }
+}

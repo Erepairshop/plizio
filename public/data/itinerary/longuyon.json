@@ -1,0 +1,474 @@
+{
+  "city_id": "longuyon",
+  "anchor": {
+    "name": "Longuyon",
+    "coords": [
+      5.6006,
+      49.4469
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:23",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Sainte-Agathe",
+            "hu": "Église Sainte-Agathe",
+            "ro": "Église Sainte-Agathe",
+            "en": "Église Sainte-Agathe"
+          },
+          "coords": [
+            5.601298,
+            49.450296
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wehrhafte mittelalterliche Architektur dieser bemerkenswerten Kirche und spazieren Sie unbedingt einmal um das Gebäude herum, um die Türme zu erfassen.",
+            "hu": "Csodálja meg ennek az erődtemplomnak a lenyűgöző középkori építészetét, és mindenképpen tegyen egy sétát a külseje körül, hogy teljesen értékelni tudja hatalmas tornyait.",
+            "ro": "Admirați arhitectura medievală și elementele defensive ale acestei biserici fortificate, asigurându-vă că faceți o plimbare prin exterior pentru a-i aprecia turnurile impunătoare.",
+            "en": "Admire the striking medieval architecture and defensive elements of this fortified church, making sure to walk around the exterior to fully appreciate its imposing towers."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Jean-Baptiste de La Salle",
+            "hu": "Chapelle Saint-Jean-Baptiste de La Salle",
+            "ro": "Chapelle Saint-Jean-Baptiste de La Salle",
+            "en": "Chapelle Saint-Jean-Baptiste de La Salle"
+          },
+          "coords": [
+            5.605297,
+            49.440011
+          ],
+          "category": "religious",
+          "arrive_at": "10:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Atmosphäre dieser historischen Kapelle und nehmen Sie sich einen Moment Zeit, um die feinen Steinmetzarbeiten am Haupteingang genauer zu betrachten.",
+            "hu": "Fedezze fel e történelmi kápolna nyugodt atmoszféráját, és szánjon egy pillanatot a főbejárat közelében található finom kőfaragványok részletesebb megfigyelésére.",
+            "ro": "Descoperiți atmosfera liniștită a acestei capele istorice și acordați-vă un moment pentru a observa detaliile fine ale pietrei sculptate din apropierea intrării principale.",
+            "en": "Discover the tranquil atmosphere of this historical chapel dedicated to Saint John Baptist, and take a moment to observe the fine stonework details near the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruines du Château de Mussy-les-Longuyon",
+            "hu": "Ruines du Château de Mussy-les-Longuyon",
+            "ro": "Ruines du Château de Mussy-les-Longuyon",
+            "en": "Ruines du Château de Mussy-les-Longuyon"
+          },
+          "coords": [
+            5.579137,
+            49.439121
+          ],
+          "category": "castle",
+          "arrive_at": "11:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die stimmungsvollen Ruinen dieser alten Burg über dem Tal und tragen Sie festes Schuhwerk, um sicher auf den unebenen Graswegen entlang der Mauern zu gehen.",
+            "hu": "Fedezze fel a völgyre néző ősi középkori vár hangulatos romjait, és viseljen masszív cipőt, hogy biztonságosan közlekedhessen a falak körüli egyenetlen, füves utakon.",
+            "ro": "Explorați ruinele pline de atmosferă ale acestui castel medieval care domină valea și purtați încălțăminte robustă pentru a naviga în siguranță pe potecile sale denivelate.",
+            "en": "Explore the atmospheric ruins of this ancient medieval castle that overlooks the valley, and wear sturdy shoes to safely navigate the uneven grassy paths around the walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Église de la Sainte-Vierge",
+            "hu": "Église de la Sainte-Vierge",
+            "ro": "Église de la Sainte-Vierge",
+            "en": "Église de la Sainte-Vierge"
+          },
+          "coords": [
+            5.581059,
+            49.43348
+          ],
+          "category": "religious",
+          "arrive_at": "12:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Schönheit dieser Pfarrkirche mit ihrem klassischen Interieur und achten Sie an sonnigen Tagen besonders auf die wunderschönen Buntglasfenster.",
+            "hu": "Élje át e klasszikus belső térrel rendelkező helyi plébániatemplom békés szépségét, és napsütéses napokon szenteljen különös figyelmet a gyönyörű ólomüveg ablakoknak.",
+            "ro": "Bucurați-vă de frumusețea senină a acestei biserici locale cu interiorul său clasic și acordați o atenție deosebită vitraliilor frumos lucrate în zilele însorite.",
+            "en": "Take in the serene beauty of this local parish church with its classical interior, and pay special attention to the beautifully crafted stained glass windows on sunny days."
+          }
+        },
+        {
+          "name": {
+            "de": "Monument 1914-1918",
+            "hu": "Monument 1914-1918",
+            "ro": "Monument 1914-1918",
+            "en": "Monument 1914-1918"
+          },
+          "coords": [
+            5.582927,
+            49.428508
+          ],
+          "category": "historical",
+          "arrive_at": "13:38",
+          "stay_min": 45,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erweisen Sie an diesem feierlichen Denkmal für die Helden des Ersten Weltkriegs Ihren Respekt und bringen Sie Ihre Kamera mit, um die detaillierten Bronzereliefs festzuhalten.",
+            "hu": "Rójja le tiszteletét ezen az első világháborús emlékművön, amelyet a helyi hősöknek szenteltek, és hozza magával fényképezőgépét a bonyolult bronz domborművek megörökítéséhez.",
+            "ro": "Prezentați-vă omagiile la acest monument solemn dedicat eroilor locali din Primul Război Mondial și aduceți aparatul foto pentru a surprinde reliefurile din bronz.",
+            "en": "Pay your respects at this solemn World War I memorial dedicated to local heroes, and bring your camera to capture the intricate bronze relief work honoring their sacrifice."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen an der Wehrkirche Sainte-Agathe und spazieren Sie dann zur Kapelle Saint-Jean-Baptiste. Mittags erkunden Sie die stimmungsvollen Burgruinen in Mussy-les-Longuyon und genießen ein Picknick. Am Nachmittag besuchen Sie die elegante Église de la Sainte-Vierge. Beenden Sie Ihren Tag mit einer stillen Gedenkminute am Monument 1914-1918, wenn der Abend langsam hereinbricht.",
+        "hu": "Kezdje a reggelt a Sainte-Agathe templom erődített építészetének megcsodálásával, majd sétáljon át a történelmi kápolnához. Délben fedezze fel a Mussy-les-Longuyon-i vár romjait, és élvezzen egy könnyű ebédet. Délután látogasson el az elegáns Église de la Sainte-Vierge templomba. A sétát az első világháborús emlékműnél tett látogatással zárja, ahogy közeledik a nyugodt kora este.",
+        "ro": "Începeți dimineața admirând biserica fortificată Sainte-Agathe, apoi plimbați-vă spre capela istorică. La amiază, explorați ruinele castelului din Mussy-les-Longuyon și bucurați-vă de un prânz ușor. După-amiaza, vizitați eleganta Église de la Sainte-Vierge. Încheiați-vă plimbarea cu un omagiu la Monumentul Primului Război Mondial, în timp ce seara se lasă ușor peste oraș.",
+        "en": "Start your morning admiring the fortified architecture of Église Sainte-Agathe before walking to the historic Chapelle Saint-Jean-Baptiste. At midday, head towards Mussy-les-Longuyon to explore the atmospheric castle ruins and enjoy a light packed lunch. In the afternoon, visit the elegant Église de la Sainte-Vierge. Conclude your walk by paying respects at the WWI Monument as evening approaches."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:43",
+      "total_km": 8.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Sainte-Agathe",
+            "hu": "Église Sainte-Agathe",
+            "ro": "Église Sainte-Agathe",
+            "en": "Église Sainte-Agathe"
+          },
+          "coords": [
+            5.601298,
+            49.450296
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wehrhafte mittelalterliche Architektur dieser bemerkenswerten Kirche und spazieren Sie unbedingt einmal um das Gebäude herum, um die Türme zu erfassen.",
+            "hu": "Csodálja meg ennek az erődtemplomnak a lenyűgöző középkori építészetét, és mindenképpen tegyen egy sétát a külseje körül, hogy teljesen értékelni tudja hatalmas tornyait.",
+            "ro": "Admirați arhitectura medievală și elementele defensive ale acestei biserici fortificate, asigurându-vă că faceți o plimbare prin exterior pentru a-i aprecia turnurile impunătoare.",
+            "en": "Admire the striking medieval architecture and defensive elements of this fortified church, making sure to walk around the exterior to fully appreciate its imposing towers."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame-de-Bon-Secours",
+            "hu": "Chapelle Notre-Dame-de-Bon-Secours",
+            "ro": "Chapelle Notre-Dame-de-Bon-Secours",
+            "en": "Chapelle Notre-Dame-de-Bon-Secours"
+          },
+          "coords": [
+            5.633597,
+            49.460128
+          ],
+          "category": "religious",
+          "arrive_at": "10:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante, von Natur umgebene Wallfahrtskapelle für einen Moment der Besinnung und betrachten Sie die kleinen Votivgaben der Besucher aus den letzten Jahrhunderten.",
+            "hu": "Látogasson el ebbe a természettel körülvett bájos zarándokkápolnába egy pillanatnyi elmélkedésre, és nézze meg az elmúlt évszázadok látogatói által hátrahagyott fogadalmi ajándékokat.",
+            "ro": "Vizitați această fermecătoare capelă de pelerinaj înconjurată de natură pentru un moment de reflecție și priviți ofrandele lăsate de vizitatori de-a lungul secolelor.",
+            "en": "Visit this charming pilgrimage chapel surrounded by nature for a moment of reflection, and check out the small votive offerings left by visitors over the past centuries."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Jean-Baptiste de La Salle",
+            "hu": "Chapelle Saint-Jean-Baptiste de La Salle",
+            "ro": "Chapelle Saint-Jean-Baptiste de La Salle",
+            "en": "Chapelle Saint-Jean-Baptiste de La Salle"
+          },
+          "coords": [
+            5.605297,
+            49.440011
+          ],
+          "category": "religious",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Atmosphäre dieser historischen Kapelle und nehmen Sie sich einen Moment Zeit, um die feinen Steinmetzarbeiten am Haupteingang genauer zu betrachten.",
+            "hu": "Fedezze fel e történelmi kápolna nyugodt atmoszféráját, és szánjon egy pillanatot a főbejárat közelében található finom kőfaragványok részletesebb megfigyelésére.",
+            "ro": "Descoperiți atmosfera liniștită a acestei capele istorice și acordați-vă un moment pentru a observa detaliile fine ale pietrei sculptate din apropierea intrării principale.",
+            "en": "Discover the tranquil atmosphere of this historical chapel dedicated to Saint John Baptist, and take a moment to observe the fine stonework details near the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruines du Château de Mussy-les-Longuyon",
+            "hu": "Ruines du Château de Mussy-les-Longuyon",
+            "ro": "Ruines du Château de Mussy-les-Longuyon",
+            "en": "Ruines du Château de Mussy-les-Longuyon"
+          },
+          "coords": [
+            5.579137,
+            49.439121
+          ],
+          "category": "castle",
+          "arrive_at": "11:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die stimmungsvollen Ruinen dieser alten Burg über dem Tal und tragen Sie festes Schuhwerk, um sicher auf den unebenen Graswegen entlang der Mauern zu gehen.",
+            "hu": "Fedezze fel a völgyre néző ősi középkori vár hangulatos romjait, és viseljen masszív cipőt, hogy biztonságosan közlekedhessen a falak körüli egyenetlen, füves utakon.",
+            "ro": "Explorați ruinele pline de atmosferă ale acestui castel medieval care domină valea și purtați încălțăminte robustă pentru a naviga în siguranță pe potecile sale denivelate.",
+            "en": "Explore the atmospheric ruins of this ancient medieval castle that overlooks the valley, and wear sturdy shoes to safely navigate the uneven grassy paths around the walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Église de la Sainte-Vierge",
+            "hu": "Église de la Sainte-Vierge",
+            "ro": "Église de la Sainte-Vierge",
+            "en": "Église de la Sainte-Vierge"
+          },
+          "coords": [
+            5.581059,
+            49.43348
+          ],
+          "category": "religious",
+          "arrive_at": "13:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Schönheit dieser Pfarrkirche mit ihrem klassischen Interieur und achten Sie an sonnigen Tagen besonders auf die wunderschönen Buntglasfenster.",
+            "hu": "Élje át e klasszikus belső térrel rendelkező helyi plébániatemplom békés szépségét, és napsütéses napokon szenteljen különös figyelmet a gyönyörű ólomüveg ablakoknak.",
+            "ro": "Bucurați-vă de frumusețea senină a acestei biserici locale cu interiorul său clasic și acordați o atenție deosebită vitraliilor frumos lucrate în zilele însorite.",
+            "en": "Take in the serene beauty of this local parish church with its classical interior, and pay special attention to the beautifully crafted stained glass windows on sunny days."
+          }
+        },
+        {
+          "name": {
+            "de": "Monument 1914-1918",
+            "hu": "Monument 1914-1918",
+            "ro": "Monument 1914-1918",
+            "en": "Monument 1914-1918"
+          },
+          "coords": [
+            5.582927,
+            49.428508
+          ],
+          "category": "historical",
+          "arrive_at": "13:58",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erweisen Sie an diesem feierlichen Denkmal für die Helden des Ersten Weltkriegs Ihren Respekt und bringen Sie Ihre Kamera mit, um die detaillierten Bronzereliefs festzuhalten.",
+            "hu": "Rójja le tiszteletét ezen az első világháborús emlékművön, amelyet a helyi hősöknek szenteltek, és hozza magával fényképezőgépét a bonyolult bronz domborművek megörökítéséhez.",
+            "ro": "Prezentați-vă omagiile la acest monument solemn dedicat eroilor locali din Primul Război Mondial și aduceți aparatul foto pentru a surprinde reliefurile din bronz.",
+            "en": "Pay your respects at this solemn World War I memorial dedicated to local heroes, and bring your camera to capture the intricate bronze relief work honoring their sacrifice."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour an der majestätischen Église Sainte-Agathe und fahren Sie zur friedlichen Kapelle Notre-Dame. Mittags besichtigen Sie die historische Kapelle Saint-Jean-Baptiste und die faszinierenden Burgruinen. Am Nachmittag radeln Sie gemütlich zur Église de la Sainte-Vierge. Lassen Sie den Tag am Denkmal 1914-1918 ausklingen, bevor Sie Ihr Fahrrad für den Abend abstellen.",
+        "hu": "Kezdje kerékpártúráját a fenséges Sainte-Agathe templomnál, mielőtt felteker a Notre-Dame kápolnához. Délben látogasson el a történelmi Saint-Jean-Baptiste kápolnába és a lenyűgöző várromokhoz. Délután tekerjen át a gyönyörű Église de la Sainte-Vierge templomhoz. Végül emlékezzen meg a helyi hősökről az 1914-1918-as emlékműnél, mielőtt befejezné ezt az aktív és tartalmas napot.",
+        "ro": "Începeți turul cu bicicleta la biserica Sainte-Agathe, înainte de a pedala spre liniștita capelă Notre-Dame. Amiaza vă aduce la capela Saint-Jean-Baptiste și la fascinantele ruine ale castelului. După-amiaza, mergeți pe bicicletă spre Église de la Sainte-Vierge. În cele din urmă, reflectați la Monumentul 1914-1918 înainte de a încheia o zi activă și relaxantă pe două roți.",
+        "en": "Kick off your cycling tour at the majestic Église Sainte-Agathe before riding up to the serene Chapelle Notre-Dame-de-Bon-Secours. Midday brings you to the historic Chapelle Saint-Jean-Baptiste and the fascinating castle ruins in Mussy-les-Longuyon. In the afternoon, pedal over to the Église de la Sainte-Vierge. Finally, reflect at the 1914-1918 Monument before wrapping up your cycling day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 20.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Sainte-Agathe",
+            "hu": "Église Sainte-Agathe",
+            "ro": "Église Sainte-Agathe",
+            "en": "Église Sainte-Agathe"
+          },
+          "coords": [
+            5.601298,
+            49.450296
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wehrhafte mittelalterliche Architektur dieser bemerkenswerten Kirche und spazieren Sie unbedingt einmal um das Gebäude herum, um die Türme zu erfassen.",
+            "hu": "Csodálja meg ennek az erődtemplomnak a lenyűgöző középkori építészetét, és mindenképpen tegyen egy sétát a külseje körül, hogy teljesen értékelni tudja hatalmas tornyait.",
+            "ro": "Admirați arhitectura medievală și elementele defensive ale acestei biserici fortificate, asigurându-vă că faceți o plimbare prin exterior pentru a-i aprecia turnurile impunătoare.",
+            "en": "Admire the striking medieval architecture and defensive elements of this fortified church, making sure to walk around the exterior to fully appreciate its imposing towers."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Jean-Baptiste de La Salle",
+            "hu": "Chapelle Saint-Jean-Baptiste de La Salle",
+            "ro": "Chapelle Saint-Jean-Baptiste de La Salle",
+            "en": "Chapelle Saint-Jean-Baptiste de La Salle"
+          },
+          "coords": [
+            5.605297,
+            49.440011
+          ],
+          "category": "religious",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Atmosphäre dieser historischen Kapelle und nehmen Sie sich einen Moment Zeit, um die feinen Steinmetzarbeiten am Haupteingang genauer zu betrachten.",
+            "hu": "Fedezze fel e történelmi kápolna nyugodt atmoszféráját, és szánjon egy pillanatot a főbejárat közelében található finom kőfaragványok részletesebb megfigyelésére.",
+            "ro": "Descoperiți atmosfera liniștită a acestei capele istorice și acordați-vă un moment pentru a observa detaliile fine ale pietrei sculptate din apropierea intrării principale.",
+            "en": "Discover the tranquil atmosphere of this historical chapel dedicated to Saint John Baptist, and take a moment to observe the fine stonework details near the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruines du Château de Mussy-les-Longuyon",
+            "hu": "Ruines du Château de Mussy-les-Longuyon",
+            "ro": "Ruines du Château de Mussy-les-Longuyon",
+            "en": "Ruines du Château de Mussy-les-Longuyon"
+          },
+          "coords": [
+            5.579137,
+            49.439121
+          ],
+          "category": "castle",
+          "arrive_at": "10:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die stimmungsvollen Ruinen dieser alten Burg über dem Tal und tragen Sie festes Schuhwerk, um sicher auf den unebenen Graswegen entlang der Mauern zu gehen.",
+            "hu": "Fedezze fel a völgyre néző ősi középkori vár hangulatos romjait, és viseljen masszív cipőt, hogy biztonságosan közlekedhessen a falak körüli egyenetlen, füves utakon.",
+            "ro": "Explorați ruinele pline de atmosferă ale acestui castel medieval care domină valea și purtați încălțăminte robustă pentru a naviga în siguranță pe potecile sale denivelate.",
+            "en": "Explore the atmospheric ruins of this ancient medieval castle that overlooks the valley, and wear sturdy shoes to safely navigate the uneven grassy paths around the walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Monument 1914-1918",
+            "hu": "Monument 1914-1918",
+            "ro": "Monument 1914-1918",
+            "en": "Monument 1914-1918"
+          },
+          "coords": [
+            5.582927,
+            49.428508
+          ],
+          "category": "historical",
+          "arrive_at": "12:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erweisen Sie an diesem feierlichen Denkmal für die Helden des Ersten Weltkriegs Ihren Respekt und bringen Sie Ihre Kamera mit, um die detaillierten Bronzereliefs festzuhalten.",
+            "hu": "Rójja le tiszteletét ezen az első világháborús emlékművön, amelyet a helyi hősöknek szenteltek, és hozza magával fényképezőgépét a bonyolult bronz domborművek megörökítéséhez.",
+            "ro": "Prezentați-vă omagiile la acest monument solemn dedicat eroilor locali din Primul Război Mondial și aduceți aparatul foto pentru a surprinde reliefurile din bronz.",
+            "en": "Pay your respects at this solemn World War I memorial dedicated to local heroes, and bring your camera to capture the intricate bronze relief work honoring their sacrifice."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort de Fermont",
+            "hu": "Fort de Fermont",
+            "ro": "Fort de Fermont",
+            "en": "Fort de Fermont"
+          },
+          "coords": [
+            5.664587,
+            49.449816
+          ],
+          "category": "fortress",
+          "arrive_at": "12:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Militärgeschichte ein und erkunden Sie dieses gewaltige Festungswerk der Maginot-Linie, aber bringen Sie unbedingt eine warme Jacke für die kühlen Tunnel mit.",
+            "hu": "Merüljön el a hadtörténetben a Maginot-vonal e hatalmas földalatti erődjének felfedezésével, de mindenképpen hozzon meleg kabátot, mivel az alagutak meglehetősen hidegek.",
+            "ro": "Pătrundeți în istoria militară explorând această fortăreață subterană masivă a Liniei Maginot, dar aduceți o jachetă călduroasă deoarece tunelurile rămân destul de reci.",
+            "en": "Dive into military history by exploring this massive subterranean Maginot Line fortress, but make sure to bring a warm jacket since the underground tunnels remain quite cold."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame-de-Bon-Secours",
+            "hu": "Chapelle Notre-Dame-de-Bon-Secours",
+            "ro": "Chapelle Notre-Dame-de-Bon-Secours",
+            "en": "Chapelle Notre-Dame-de-Bon-Secours"
+          },
+          "coords": [
+            5.633597,
+            49.460128
+          ],
+          "category": "religious",
+          "arrive_at": "14:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante, von Natur umgebene Wallfahrtskapelle für einen Moment der Besinnung und betrachten Sie die kleinen Votivgaben der Besucher aus den letzten Jahrhunderten.",
+            "hu": "Látogasson el ebbe a természettel körülvett bájos zarándokkápolnába egy pillanatnyi elmélkedésre, és nézze meg az elmúlt évszázadok látogatói által hátrahagyott fogadalmi ajándékokat.",
+            "ro": "Vizitați această fermecătoare capelă de pelerinaj înconjurată de natură pentru un moment de reflecție și priviți ofrandele lăsate de vizitatori de-a lungul secolelor.",
+            "en": "Visit this charming pilgrimage chapel surrounded by nature for a moment of reflection, and check out the small votive offerings left by visitors over the past centuries."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de la Forge",
+            "hu": "Étang de la Forge",
+            "ro": "Étang de la Forge",
+            "en": "Étang de la Forge"
+          },
+          "coords": [
+            5.553113,
+            49.494657
+          ],
+          "category": "natural",
+          "arrive_at": "15:10",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am friedlichen Wasser dieses historischen, von Wäldern umgebenen Weihers, der der perfekte Ort für ein nachmittägliches Picknick mit lokalen Delikatessen ist.",
+            "hu": "Pihenjen meg a buja erdővel körülvett történelmi kovácsműhely tavának békés vizeinél, amely tökéletes helyszín egy késő délutáni piknikhez a helyi finomságokkal.",
+            "ro": "Relaxați-vă pe malurile apelor liniștite ale acestui iaz istoric înconjurat de păduri luxuriante, fiind locul perfect pentru a savura un picnic după-amiaza cu delicatese locale.",
+            "en": "Unwind by the peaceful waters of this historic forge pond surrounded by lush forest, making it the perfect spot to enjoy a late afternoon picnic with local delicacies."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zuerst zur Wehrkirche Sainte-Agathe und dann kurz zur Kapelle Saint-Jean-Baptiste. Verbringen Sie die Mittagszeit bei den Burgruinen und am Weltkriegsdenkmal. Am Nachmittag verlassen Sie das Zentrum, um das riesige unterirdische Fort de Fermont und die nahegelegene Kapelle zu besichtigen. Beenden Sie Ihren Roadtrip mit einem entspannenden Spaziergang am Étang de la Forge im Sonnenuntergang.",
+        "hu": "Először hajtson a Sainte-Agathe templomhoz, majd ugorjon át a Saint-Jean-Baptiste kápolnához. A delet a várromok és a világháborús emlékmű felfedezésével töltse. Délután hagyja el a központot, és látogasson el a hatalmas földalatti Fort de Fermont-ba és a közeli kápolnába. Fejezze be autós kirándulását egy pihentető naplementés sétával a csodálatos Étang de la Forge partján.",
+        "ro": "Conduceți mai întâi la biserica Sainte-Agathe, apoi treceți rapid pe la capela Saint-Jean-Baptiste. Petreceți amiaza explorând ruinele castelului și monumentul din război. După-amiaza, ieșiți din centru pentru a vizita masivul Fort de Fermont subteran și capela Notre-Dame din apropiere. Încheiați excursia cu o plimbare relaxantă la apus de soare pe malul lacului Étang de la Forge.",
+        "en": "Drive first to the fortified Église Sainte-Agathe, then quickly hop to the Chapelle Saint-Jean-Baptiste. Spend midday exploring the castle ruins of Mussy-les-Longuyon and viewing the WWI Monument. In the afternoon, head out of the center to tour the massive underground Fort de Fermont and the nearby Notre-Dame chapel. End your road trip with a relaxing sunset stroll at the Étang de la Forge."
+      }
+    }
+  }
+}

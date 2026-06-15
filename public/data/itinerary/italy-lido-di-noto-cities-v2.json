@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-lido-di-noto-cities-v2",
+  "anchor": {
+    "name": "Lido di Noto",
+    "coords": [
+      15.11308,
+      36.85503
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 1.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Latomie di Eloro",
+            "hu": "Latomie di Eloro",
+            "ro": "Latomie di Eloro",
+            "en": "Latomie di Eloro"
+          },
+          "coords": [
+            15.111071,
+            36.847117
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Steinbrüche, die die Stadt erbauten, achten Sie auf tiefe Felsenschnitte und tragen Sie unbedingt festes Schuhwerk.",
+            "hu": "Fedezze fel az ősi kőbányákat, amelyekből a város épült, figyelve a mély vágatokra, és viseljen stabil cipőt az egyenetlen talaj miatt.",
+            "ro": "Explorați carierele antice de piatră care au construit orașul, observând tăieturile adânci din stâncă, și purtați încălțăminte rezistentă.",
+            "en": "Explore the ancient stone quarries that built the city, noticing the deep cuts in the rock, and wear sturdy shoes for the uneven ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Porta Nord",
+            "hu": "Porta Nord",
+            "ro": "Porta Nord",
+            "en": "Porta Nord"
+          },
+          "coords": [
+            15.106959,
+            36.843787
+          ],
+          "category": "historical",
+          "arrive_at": "09:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie den großen Nordeingang des antiken Eloro, stellen Sie sich den regen Handel vor und kommen Sie früh für störungsfreie Fotos.",
+            "hu": "Csodálja meg az ókori Eloro lenyűgöző északi bejáratát, képzelje el a nyüzsgő görög kereskedelmet, és érkezzen korán a legjobb fotókért.",
+            "ro": "Admirați marea intrare nordică a anticului Eloro, imaginându-vă comerțul grecesc aglomerat, și sosiți devreme pentru fotografii fără mulțimi.",
+            "en": "Admire the grand northern entrance of ancient Eloro, picturing the bustling Greek trade, and arrive early to photograph the ruins without crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Città di Eloro",
+            "hu": "Città di Eloro",
+            "ro": "Città di Eloro",
+            "en": "Città di Eloro"
+          },
+          "coords": [
+            15.106585,
+            36.842342
+          ],
+          "category": "historical",
+          "arrive_at": "11:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die weitläufigen Überreste dieser griechischen Siedlung, um den Grundriss zu verstehen, aber bringen Sie viel Wasser mit.",
+            "hu": "Sétáljon végig e görög település kiterjedt romjain, hogy megértse a történelmi elrendezést, de vigyen sok vizet, mert nagyon kevés az árnyék.",
+            "ro": "Plimbați-vă prin rămășițele întinse ale acestei așezări grecești pentru a-i înțelege planul, dar aduceți multă apă, deoarece umbra este rară.",
+            "en": "Wander through the sprawling remains of this Greek settlement to grasp its historical layout, but bring plenty of water as shade is extremely scarce."
+          }
+        },
+        {
+          "name": {
+            "de": "Agorà",
+            "hu": "Agorà",
+            "ro": "Agorà",
+            "en": "Agorà"
+          },
+          "coords": [
+            15.107949,
+            36.842267
+          ],
+          "category": "historical",
+          "arrive_at": "12:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Stehen Sie auf dem zentralen Platz, wo das antike öffentliche Leben blühte, betrachten Sie die Steine und genießen Sie die kühle Meeresbrise.",
+            "hu": "Álljon a központi téren, ahol az ókori közélet zajlott, figyelje meg az alapköveket, és szánjon egy percet a hűsítő tengeri szellő élvezetére.",
+            "ro": "Stați în piața civică centrală unde a înflorit viața publică antică, observând pietrele de fundație, și bucurați-vă de briza mării.",
+            "en": "Stand in the central civic square where ancient public life thrived, observing the foundation stones, and take a moment to enjoy the sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Tempio di Demetra",
+            "hu": "Tempio di Demetra",
+            "ro": "Tempio di Demetra",
+            "en": "Tempio di Demetra"
+          },
+          "coords": [
+            15.10639,
+            36.841264
+          ],
+          "category": "historical",
+          "arrive_at": "13:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Heiligtum der Göttin der Landwirtschaft, beachten Sie die heilige Architektur und besuchen Sie es im goldenen Nachmittagslicht.",
+            "hu": "Fedezze fel a földművelés istennőjének szentelt szentélyt, figyelve a szakrális építészetre, és látogassa meg késő délután a csodás fényekért.",
+            "ro": "Descoperiți sanctuarul zeiței agriculturii, remarcând arhitectura sacră distinctă, și vizitați-l după-amiaza târziu pentru o lumină aurie.",
+            "en": "Discover the sanctuary dedicated to the goddess of agriculture, noting its distinct sacred architecture, and visit in late afternoon for golden light."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Eloro",
+            "hu": "Spiaggia di Eloro",
+            "ro": "Spiaggia di Eloro",
+            "en": "Spiaggia di Eloro"
+          },
+          "coords": [
+            15.106327,
+            36.838785
+          ],
+          "category": "recreational",
+          "arrive_at": "15:16",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem unberührten Strand unterhalb der archäologischen Stätte und vergessen Sie nicht, Ihren eigenen Sonnenschirm mitzubringen.",
+            "hu": "Pihenjen ezen a lenyűgöző aranyhomokos strandon közvetlenül a régészeti lelőhely alatt, és ne felejtsen el saját napernyőt hozni a védelemhez.",
+            "ro": "Relaxați-vă pe această plajă aurie imaculată chiar sub situl arheologic, bucurându-vă de apele clare, și nu uitați propria umbrelă de soare.",
+            "en": "Relax on this pristine golden beach right below the archaeological site, enjoying the clear waters, and don't forget your own umbrella for sun protection."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Untersuchung der faszinierenden antiken Steinbrüche von Latomie. Gegen Mittag tauchen Sie in den historischen Kern des antiken Eloro ein. Am späten Nachmittag verbinden Sie sich mit den antiken religiösen Praktiken am Demetertempel. Lassen Sie Ihren Tag entspannt am Meer am unberührten Strand Spiaggia di Eloro ausklingen und genießen Sie die sanfte Meeresbrise.",
+        "hu": "Kezdje a reggelt a Latomie lenyűgöző ősi kőbányáinak felfedezésével. Ahogy közeledik a dél, merüljön el az ókori Eloro történelmi magjában, áthaladva az Északi kapun és felfedezve az Agorát. Késő délután ismerje meg az ősi vallási gyakorlatokat a Demeter-templomnál. Zárja a napot a tengerparton pihenve a lenyűgöző Spiaggia di Eloro strandon, élvezve az esti nyugalmat.",
+        "ro": "Începeți dimineața examinând fascinantele cariere antice din Latomie. Pe măsură ce se apropie prânzul, cufundați-vă în nucleul istoric al anticului Eloro, trecând prin Poarta de Nord. După-amiaza târziu, conectați-vă cu practicile religioase antice la Templul lui Demeter. Încheiați-vă ziua relaxându-vă la malul mării pe plaja imaculată Spiaggia di Eloro sub razele soarelui.",
+        "en": "Begin your morning by examining the fascinating ancient quarries of Latomie. As midday approaches, immerse yourself in the historical core of ancient Eloro, passing through the North Gate and exploring the city layout and the bustling Agorà. In the late afternoon, connect with ancient religious practices at the Temple of Demeter. Conclude your day relaxing by the sea at the pristine Spiaggia di Eloro."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:58",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Scogliera Bianca",
+            "hu": "Scogliera Bianca",
+            "ro": "Scogliera Bianca",
+            "en": "Scogliera Bianca"
+          },
+          "coords": [
+            15.120247,
+            36.861061
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die weißen Klippen im Kontrast zum blauen Meer und gehen Sie vorsichtig am Rand entlang, da der Kalkstein recht rutschig sein kann.",
+            "hu": "Csodálja meg a mélykék Jón-tengerrel kontrasztos drámai fehér sziklákat, és sétáljon óvatosan a szélén, mert a mészkő meglehetősen csúszós.",
+            "ro": "Admirați stâncile albe dramatice care contrastează cu marea albastră, și mergeți cu grijă pe margine deoarece calcarul poate fi alunecos.",
+            "en": "Take in the dramatic white cliffs contrasting with the deep blue Ionian Sea, and walk carefully along the edge as the limestone can be quite slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Colonna Pizzuta",
+            "hu": "Colonna Pizzuta",
+            "ro": "Colonna Pizzuta",
+            "en": "Colonna Pizzuta"
+          },
+          "coords": [
+            15.102461,
+            36.848496
+          ],
+          "category": "landmark",
+          "arrive_at": "10:36",
+          "stay_min": 25,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses mysteriöse hellenistische Grabdenkmal in der Landschaft und lesen Sie die Tafel in der Nähe, um den Kontext zu verstehen.",
+            "hu": "Csodálja meg ezt a tájból kiemelkedő, titokzatos hellenisztikus síremléket, és olvassa el a közeli táblát a történelmi kontextus megértéséhez.",
+            "ro": "Minunați-vă de acest misterios monument funerar elenistic care se înalță în peisaj, și citiți placa din apropiere pentru contextul istoric.",
+            "en": "Marvel at this mysterious Hellenistic funerary monument standing tall in the landscape, and read the nearby plaque to understand its historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Porta Nord",
+            "hu": "Porta Nord",
+            "ro": "Porta Nord",
+            "en": "Porta Nord"
+          },
+          "coords": [
+            15.106959,
+            36.843787
+          ],
+          "category": "historical",
+          "arrive_at": "11:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie den großen Nordeingang des antiken Eloro, stellen Sie sich den regen Handel vor und kommen Sie früh für störungsfreie Fotos.",
+            "hu": "Csodálja meg az ókori Eloro lenyűgöző északi bejáratát, képzelje el a nyüzsgő görög kereskedelmet, és érkezzen korán a legjobb fotókért.",
+            "ro": "Admirați marea intrare nordică a anticului Eloro, imaginându-vă comerțul grecesc aglomerat, și sosiți devreme pentru fotografii fără mulțimi.",
+            "en": "Admire the grand northern entrance of ancient Eloro, picturing the bustling Greek trade, and arrive early to photograph the ruins without crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Città di Eloro",
+            "hu": "Città di Eloro",
+            "ro": "Città di Eloro",
+            "en": "Città di Eloro"
+          },
+          "coords": [
+            15.106585,
+            36.842342
+          ],
+          "category": "historical",
+          "arrive_at": "12:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die weitläufigen Überreste dieser griechischen Siedlung, um den Grundriss zu verstehen, aber bringen Sie viel Wasser mit.",
+            "hu": "Sétáljon végig e görög település kiterjedt romjain, hogy megértse a történelmi elrendezést, de vigyen sok vizet, mert nagyon kevés az árnyék.",
+            "ro": "Plimbați-vă prin rămășițele întinse ale acestei așezări grecești pentru a-i înțelege planul, dar aduceți multă apă, deoarece umbra este rară.",
+            "en": "Wander through the sprawling remains of this Greek settlement to grasp its historical layout, but bring plenty of water as shade is extremely scarce."
+          }
+        },
+        {
+          "name": {
+            "de": "Porta Sud",
+            "hu": "Porta Sud",
+            "ro": "Porta Sud",
+            "en": "Porta Sud"
+          },
+          "coords": [
+            15.107347,
+            36.840817
+          ],
+          "category": "historical",
+          "arrive_at": "13:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Passieren Sie die Überreste des südlichen Stadttores, beachten Sie die massiven Steinblöcke und folgen Sie dem Weg hinunter zum glitzernden Meer.",
+            "hu": "Haladjon át az Elorót egykor védő déli városkapu maradványain, figyelje meg a hatalmas kőtömböket, és kövesse az utat lefelé a tengerparthoz.",
+            "ro": "Treceți prin rămășițele porții sudice a orașului, observând blocurile masive de piatră, și urmați cărarea pitorească în jos spre Marea Ionică.",
+            "en": "Pass through the remnants of the southern city gate that once defended Eloro, noting the massive stone blocks, and follow the path down to the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Marianelli",
+            "hu": "Spiaggia di Marianelli",
+            "ro": "Spiaggia di Marianelli",
+            "en": "Spiaggia di Marianelli"
+          },
+          "coords": [
+            15.105525,
+            36.83406
+          ],
+          "category": "recreational",
+          "arrive_at": "15:13",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem abgelegenen Strand im Naturschutzgebiet, und packen Sie Snacks ein, da es hier absolut keine Einrichtungen gibt.",
+            "hu": "Pihenjen ezen az eldugott, vad szépségéről és nyugalmáról ismert természetvédelmi strandon, és csomagoljon rágcsálnivalót, mert nincsenek büfék.",
+            "ro": "Relaxați-vă pe această plajă retrasă, cunoscută pentru frumusețea sa sălbatică, și împachetați gustări deoarece nu există facilități disponibile.",
+            "en": "Unwind at this secluded, natural reserve beach known for its wild beauty and tranquility, packing snacks since there are no facilities available here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie früh zu den dramatischen weißen Klippen der Scogliera Bianca, bevor Sie zur mysteriösen Colonna Pizzuta fahren. Mittags erreichen Sie die weitläufigen Ruinen von Eloro. Am Nachmittag erkunden Sie die robusten Verteidigungsanlagen des Südtores. Ihr Abend belohnt Sie mit der wilden, unberührten Schönheit der Spiaggia di Marianelli bei einem herrlichen Sonnenuntergang.",
+        "hu": "Kerékpározzon ki korán a Scogliera Bianca drámai fehér szikláihoz, majd tekerjen be a titokzatos Colonna Pizzutához. Délben érkezik Eloro kiterjedt romjaihoz, ahol az Északi kapu környékén kerekezhet. Délután fedezze fel a robusztus Déli kapu védműveit. Az estéje a Spiaggia di Marianelli vad, eldugott szépségével jutalmazza meg, ahol csodás naplementében gyönyörködhet.",
+        "ro": "Pedalați devreme către stâncile albe dramatice de la Scogliera Bianca înainte de a merge spre misterioasa Colonna Pizzuta. La prânz ajungeți la ruinele extinse din Eloro, vizitând Poarta de Nord. După-amiaza, explorați apărarea robustă a Porții de Sud. Seara vă răsplătește efortul cu frumusețea sălbatică și retrasă a plajei Spiaggia di Marianelli în lumina apusului de soare.",
+        "en": "Pedal out early to the dramatic white cliffs of Scogliera Bianca before rolling inland to the mysterious Colonna Pizzuta. Midday brings you to the extensive ruins of Eloro, where you can cycle between the North Gate and the ancient city paths. In the afternoon, explore the robust Southern Gate defenses. Your evening rewards you with the wild, secluded beauty of Spiaggia di Marianelli."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:49",
+      "total_km": 3.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Scogliera Bianca",
+            "hu": "Scogliera Bianca",
+            "ro": "Scogliera Bianca",
+            "en": "Scogliera Bianca"
+          },
+          "coords": [
+            15.120247,
+            36.861061
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die weißen Klippen im Kontrast zum blauen Meer und gehen Sie vorsichtig am Rand entlang, da der Kalkstein recht rutschig sein kann.",
+            "hu": "Csodálja meg a mélykék Jón-tengerrel kontrasztos drámai fehér sziklákat, és sétáljon óvatosan a szélén, mert a mészkő meglehetősen csúszós.",
+            "ro": "Admirați stâncile albe dramatice care contrastează cu marea albastră, și mergeți cu grijă pe margine deoarece calcarul poate fi alunecos.",
+            "en": "Take in the dramatic white cliffs contrasting with the deep blue Ionian Sea, and walk carefully along the edge as the limestone can be quite slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Colonna Pizzuta",
+            "hu": "Colonna Pizzuta",
+            "ro": "Colonna Pizzuta",
+            "en": "Colonna Pizzuta"
+          },
+          "coords": [
+            15.102461,
+            36.848496
+          ],
+          "category": "landmark",
+          "arrive_at": "10:30",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses mysteriöse hellenistische Grabdenkmal in der Landschaft und lesen Sie die Tafel in der Nähe, um den Kontext zu verstehen.",
+            "hu": "Csodálja meg ezt a tájból kiemelkedő, titokzatos hellenisztikus síremléket, és olvassa el a közeli táblát a történelmi kontextus megértéséhez.",
+            "ro": "Minunați-vă de acest misterios monument funerar elenistic care se înalță în peisaj, și citiți placa din apropiere pentru contextul istoric.",
+            "en": "Marvel at this mysterious Hellenistic funerary monument standing tall in the landscape, and read the nearby plaque to understand its historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Necropoli A di Eloro",
+            "hu": "Necropoli A di Eloro",
+            "ro": "Necropoli A di Eloro",
+            "en": "Necropoli A di Eloro"
+          },
+          "coords": [
+            15.102121,
+            36.843652
+          ],
+          "category": "historical",
+          "arrive_at": "10:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Grabstätten, um mehr über griechische Bestattungspraktiken zu erfahren, und gehen Sie respektvoll zwischen den Gräbern.",
+            "hu": "Fedezze fel az ősi temetkezési helyeket, hogy megismerje a görög hagyományokat, és lépkedjen tisztelettel a növényzetben megbúvó sírok között.",
+            "ro": "Explorați vechile cimitire pentru a afla despre practicile funerare grecești, pășind cu respect printre mormintele ascunse în vegetație.",
+            "en": "Explore the ancient burial grounds to learn about Greek funerary practices, treading respectfully among the rock-cut tombs hidden in the vegetation."
+          }
+        },
+        {
+          "name": {
+            "de": "Città di Eloro",
+            "hu": "Città di Eloro",
+            "ro": "Città di Eloro",
+            "en": "Città di Eloro"
+          },
+          "coords": [
+            15.106585,
+            36.842342
+          ],
+          "category": "historical",
+          "arrive_at": "12:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die weitläufigen Überreste dieser griechischen Siedlung, um den Grundriss zu verstehen, aber bringen Sie viel Wasser mit.",
+            "hu": "Sétáljon végig e görög település kiterjedt romjain, hogy megértse a történelmi elrendezést, de vigyen sok vizet, mert nagyon kevés az árnyék.",
+            "ro": "Plimbați-vă prin rămășițele întinse ale acestei așezări grecești pentru a-i înțelege planul, dar aduceți multă apă, deoarece umbra este rară.",
+            "en": "Wander through the sprawling remains of this Greek settlement to grasp its historical layout, but bring plenty of water as shade is extremely scarce."
+          }
+        },
+        {
+          "name": {
+            "de": "Tempio di Demetra",
+            "hu": "Tempio di Demetra",
+            "ro": "Tempio di Demetra",
+            "en": "Tempio di Demetra"
+          },
+          "coords": [
+            15.10639,
+            36.841264
+          ],
+          "category": "historical",
+          "arrive_at": "13:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Heiligtum der Göttin der Landwirtschaft, beachten Sie die heilige Architektur und besuchen Sie es im goldenen Nachmittagslicht.",
+            "hu": "Fedezze fel a földművelés istennőjének szentelt szentélyt, figyelve a szakrális építészetre, és látogassa meg késő délután a csodás fényekért.",
+            "ro": "Descoperiți sanctuarul zeiței agriculturii, remarcând arhitectura sacră distinctă, și vizitați-l după-amiaza târziu pentru o lumină aurie.",
+            "en": "Discover the sanctuary dedicated to the goddess of agriculture, noting its distinct sacred architecture, and visit in late afternoon for golden light."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Marianelli",
+            "hu": "Spiaggia di Marianelli",
+            "ro": "Spiaggia di Marianelli",
+            "en": "Spiaggia di Marianelli"
+          },
+          "coords": [
+            15.105525,
+            36.83406
+          ],
+          "category": "recreational",
+          "arrive_at": "15:04",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem abgelegenen Strand im Naturschutzgebiet, und packen Sie Snacks ein, da es hier absolut keine Einrichtungen gibt.",
+            "hu": "Pihenjen ezen az eldugott, vad szépségéről és nyugalmáról ismert természetvédelmi strandon, és csomagoljon rágcsálnivalót, mert nincsenek büfék.",
+            "ro": "Relaxați-vă pe această plajă retrasă, cunoscută pentru frumusețea sa sălbatică, și împachetați gustări deoarece nu există facilități disponibile.",
+            "en": "Unwind at this secluded, natural reserve beach known for its wild beauty and tranquility, packing snacks since there are no facilities available here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zuerst zur atemberaubenden Scogliera Bianca für majestätische Küstenblicke und dann zur Colonna Pizzuta. Mittags parken Sie in der Nähe des archäologischen Parks, um die Nekropole und die Ruinen der Città di Eloro zu erkunden. Der Nachmittag lädt zu einem Spaziergang durch den Demetertempel ein. Beenden Sie den Tag mit einer Fahrt zur ruhigen Spiaggia di Marianelli.",
+        "hu": "Vezessen először a lenyűgöző Scogliera Biancához, majd induljon beljebb a Colonna Pizzuta emlékműhöz. Délben parkoljon le a régészeti park közelében, hogy felfedezze a nekropoliszt és a Città di Eloro romjait. A délután egy elgondolkodtató sétára csábít a Demeter-templomon keresztül. Zárja a napot egy rövid autózással a csendes Spiaggia di Marianelli partjához.",
+        "ro": "Conduceți mai întâi la uimitoarea Scogliera Bianca pentru vederi de coastă, apoi mergeți spre monumentul Colonna Pizzuta. La prânz, parcați lângă parcul arheologic pentru a explora necropola antică și ruinele din Città di Eloro. După-amiaza vă invită la o plimbare prin Templul lui Demeter. Încheiați ziua conducând spre liniștita plajă Spiaggia di Marianelli.",
+        "en": "Drive first to the stunning Scogliera Bianca for majestic coastal views, then head slightly inland to view the Colonna Pizzuta monument. At midday, park near the archaeological park to explore the ancient necropolis and the expansive central ruins of Città di Eloro. Afternoon invites a thoughtful stroll through the Temple of Demeter. End the day driving down to the quiet Spiaggia di Marianelli."
+      }
+    }
+  }
+}

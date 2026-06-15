@@ -1,0 +1,474 @@
+{
+  "city_id": "france-l-ile-rousse-cities-v2",
+  "anchor": {
+    "name": "L'Île-Rousse",
+    "coords": [
+      8.9375,
+      42.635
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:59",
+      "total_km": 2.87,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Markthalle",
+            "hu": "Fedett piac",
+            "ro": "Piața acoperită",
+            "en": "Covered Market"
+          },
+          "coords": [
+            8.938315,
+            42.63491
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese lebhafte Markthalle mit ihren griechischen Säulen, um authentischen korsischen Käse zu probieren, aber kommen Sie früh für die beste Auswahl.",
+            "hu": "Fedezze fel ezt a görög oszlopos, élettel teli fedett piacot, ahol megkóstolhatja a korzikai sajtokat, de érkezzen korán a legjobb friss árukért.",
+            "ro": "Explorați această piață acoperită plină de viață cu coloane grecești pentru a gusta brânzeturi corsicane, dar ajungeți devreme pentru cele mai bune produse proaspete.",
+            "en": "Explore this lively covered market with its Greek-style columns to sample authentic Corsican cheeses, but arrive early to get the best fresh local produce."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Unbefleckten Empfängnis",
+            "hu": "Szeplőtelen Fogantatás temploma",
+            "ro": "Biserica Imaculata Concepție",
+            "en": "Church of the Immaculate Conception"
+          },
+          "coords": [
+            8.937026,
+            42.634163
+          ],
+          "category": "religious",
+          "arrive_at": "10:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Fassade dieser Kirche aus dem 19. Jahrhundert, die das Erbe der Stadt symbolisiert; respektieren Sie die Stille und bedecken Sie die Schultern.",
+            "hu": "Csodálja meg ennek a 19. századi templomnak az elegáns homlokzatát, amely a város örökségét szimbolizálja; tartsa tiszteletben a csendet és takarja el vállait.",
+            "ro": "Admirați fațada elegantă a acestei biserici din secolul al XIX-lea, simbol al moștenirii orașului; respectați liniștea și aduceți o eșarfă pentru a vă acoperi umerii.",
+            "en": "Admire the elegant facade of this 19th-century church, which stands as a symbol of the town's heritage; respect the silence and bring a light scarf to cover shoulders."
+          }
+        },
+        {
+          "name": {
+            "de": "Barmherzigkeitskirche",
+            "hu": "Irgalmasság temploma",
+            "ro": "Biserica Milostivirii",
+            "en": "Church of Mercy"
+          },
+          "coords": [
+            8.935855,
+            42.63434
+          ],
+          "category": "religious",
+          "arrive_at": "10:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese kleinere, historisch bedeutsame religiöse Stätte mit wunderschönen Details, aber prüfen Sie die lokalen Aushänge, da die Öffnungszeiten variieren.",
+            "hu": "Fedezze fel ezt a kisebb, történelmileg jelentős vallási helyszínt, de érdemes előre ellenőrizni a helyi hirdetőtáblákat, mivel a nyitvatartás elég változó lehet.",
+            "ro": "Descoperiți acest lăcaș religios mai mic, cu detalii interioare frumoase, dar verificați panourile locale deoarece orele de vizitare pot fi destul de imprevizibile.",
+            "en": "Discover this smaller, historically significant religious site with beautiful internal details, but check local notice boards as visiting hours can be quite unpredictable."
+          }
+        },
+        {
+          "name": {
+            "de": "Überreste der Festungsmauer",
+            "hu": "Erődítmény romjai",
+            "ro": "Vestigiile Zidului Fortificat",
+            "en": "Remains of the Fortified Wall"
+          },
+          "coords": [
+            8.937337,
+            42.637132
+          ],
+          "category": "historical",
+          "arrive_at": "11:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang dieser alten Festungsmauern, die die Stadt einst vor Invasionen schützten; tragen Sie festes Schuhwerk, da der Boden hier uneben sein kann.",
+            "hu": "Sétáljon végig ezeken az ősi falakon, amelyek egykor a várost védték az invázióktól; viseljen kényelmes cipőt, mivel a történelmi romok körüli talaj egyenetlen.",
+            "ro": "Plimbați-vă de-a lungul acestor ziduri fortificate antice care protejau orașul de invazii; purtați încălțăminte solidă, deoarece terenul din jurul ruinelor este denivelat.",
+            "en": "Walk along these ancient fortified walls that once protected the city from invasions; wear sturdy shoes as the ground around the historical ruins can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Segway-Tour Ile Rousse",
+            "hu": "Segway-túra Ile Rousse",
+            "ro": "Tur cu Segway Ile Rousse",
+            "en": "Segway Tour Ile Rousse"
+          },
+          "coords": [
+            8.935436,
+            42.638027
+          ],
+          "category": "landmark",
+          "arrive_at": "12:52",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Gleiten Sie auf einer geführten Segway-Tour mühelos durch die charmanten Straßen, aber buchen Sie Ihren Platz in den geschäftigen Sommermonaten unbedingt im Voraus.",
+            "hu": "Guruljon könnyedén a hangulatos utcákon egy vezetett Segway-túrán, de a forgalmas nyári hónapokban mindenképpen foglalja le előre a helyét az interneten.",
+            "ro": "Alunecați fără efort pe străzile fermecătoare într-un tur ghidat cu Segway-ul, dar asigurați-vă că rezervați locul în avans în timpul lunilor aglomerate de vară.",
+            "en": "Glide effortlessly through the charming streets on a guided Segway tour to cover more ground, but be sure to book your slot in advance during the busy summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm von Pietra",
+            "hu": "Pietra világítótorony",
+            "ro": "Farul Pietra",
+            "en": "Pietra Lighthouse"
+          },
+          "coords": [
+            8.932084,
+            42.64456
+          ],
+          "category": "landmark",
+          "arrive_at": "13:29",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.77,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesem ikonischen Leuchtturm, um einen Panoramablick auf die roten Granitinseln zu genießen; besuchen Sie ihn am späten Nachmittag für die besten Fotos.",
+            "hu": "Túrázzon fel ehhez az ikonikus világítótoronyhoz, ahonnan lenyűgöző panoráma nyílik a vörös gránitszigetekre; látogasson el késő délután a legjobb fényképekhez.",
+            "ro": "Urcați la acest far emblematic pentru vederi panoramice spectaculoase asupra insulelor de granit roșu; vizitați-l după-amiaza târziu pentru cele mai bune fotografii.",
+            "en": "Hike up to this iconic lighthouse for spectacular panoramic views over the red granite islands; visit during the late afternoon for the most stunning golden hour photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Napoléon",
+            "hu": "Napoléon strand",
+            "ro": "Plaja Napoléon",
+            "en": "Napoléon Beach"
+          },
+          "coords": [
+            8.941385,
+            42.634364
+          ],
+          "category": "recreational",
+          "arrive_at": "14:14",
+          "stay_min": 105,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.36,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem gut zugänglichen Stadtstrand mit weichem, weißem Sand; mieten Sie einen Sonnenschirm, da es an der Küste kaum natürlichen Schatten gibt.",
+            "hu": "Pihenjen ezen a könnyen megközelíthető városközponti strandon, ahol puha fehér homok várja; béreljen napernyőt a közelben, mivel a parton nagyon kevés az árnyék.",
+            "ro": "Relaxați-vă pe această plajă accesibilă din centru, cu nisip alb și ape cristaline; închiriați o umbrelă, deoarece umbra naturală este extrem de limitată pe țărm.",
+            "en": "Relax on this easily accessible downtown beach with soft white sand and crystal-clear waters; rent a parasol nearby as natural shade is extremely limited along the shore."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen in der belebten Markthalle und genießen Sie authentische Aromen, bevor Sie die majestätischen Kirchen besuchen. Mittags wandern Sie durch die historischen Festungsruinen und machen eine Segway-Tour. Der Nachmittag belohnt Sie mit atemberaubenden Küstenpanoramen vom Leuchtturm Pietra. Lassen Sie den Tag entspannt am Plage Napoléon ausklingen.",
+        "hu": "Kezdje a reggelt a nyüzsgő fedett piacon a helyi ízek élvezetével, mielőtt meglátogatná a fenséges templomokat. Délben sétáljon végig a történelmi romokon és vegyen részt egy szórakoztató Segway-túrán. A délután lélegzetelállító tengerparti panorámával jutalmazza a világítótoronyból. Zárja a napot a Plage Napoléon lágy hullámai mellett pihenve az este közeledtével.",
+        "ro": "Începeți dimineața la piața acoperită plină de viață, bucurându-vă de arome locale, înainte de a vizita bisericile. La prânz, plimbați-vă prin ruinele fortificate și experimentați un tur distractiv cu Segway. După-amiaza vă răsplătește cu panorame de coastă uluitoare de la farul Pietra. Încheiați ziua relaxându-vă lângă valurile blânde de la Plage Napoléon odată cu lăsarea serii.",
+        "en": "Start your morning at the bustling covered market, enjoying the authentic local flavors, before visiting the majestic churches. By midday, wander through the historic fortified ruins and experience a fun Segway tour. The afternoon rewards you with breathtaking coastal panoramas from the Pietra lighthouse. Conclude your day relaxing by the gentle waves at Plage Napoléon as evening approaches."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:15",
+      "total_km": 5.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Markthalle",
+            "hu": "Fedett piac",
+            "ro": "Piața acoperită",
+            "en": "Covered Market"
+          },
+          "coords": [
+            8.938315,
+            42.63491
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese lebhafte Markthalle mit ihren griechischen Säulen, um authentischen korsischen Käse zu probieren, aber kommen Sie früh für die beste Auswahl.",
+            "hu": "Fedezze fel ezt a görög oszlopos, élettel teli fedett piacot, ahol megkóstolhatja a korzikai sajtokat, de érkezzen korán a legjobb friss árukért.",
+            "ro": "Explorați această piață acoperită plină de viață cu coloane grecești pentru a gusta brânzeturi corsicane, dar ajungeți devreme pentru cele mai bune produse proaspete.",
+            "en": "Explore this lively covered market with its Greek-style columns to sample authentic Corsican cheeses, but arrive early to get the best fresh local produce."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Getreidemühle",
+            "hu": "Régi búzamalom",
+            "ro": "Vechea moară de grâu",
+            "en": "Old Wheat Mill"
+          },
+          "coords": [
+            8.938774,
+            42.630232
+          ],
+          "category": "historical",
+          "arrive_at": "10:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in dieser historischen Getreidemühle; das Gelände ist teilweise von Pflanzen überwuchert, daher werden lange Hosen für die Erkundung empfohlen.",
+            "hu": "Lépjen vissza az időben ennél a történelmi búzamalomnál; a terület részben benőtt, ezért hosszú nadrág viselése erősen ajánlott a környék alapos felfedezéséhez.",
+            "ro": "Întoarceți-vă în timp la această moară istorică de grâu; situl este parțial acoperit de vegetație, așa că pantalonii lungi sunt recomandați pentru explorare.",
+            "en": "Step back in time at this historic wheat mill that highlights Corsica's agricultural past; the site is partially overgrown, so long trousers are recommended for exploring."
+          }
+        },
+        {
+          "name": {
+            "de": "Semaphor von Ile Rousse",
+            "hu": "Ile Rousse-i jelzőállomás",
+            "ro": "Semaforul din Ile Rousse",
+            "en": "Ile Rousse Semaphore"
+          },
+          "coords": [
+            8.922685,
+            42.633112
+          ],
+          "category": "landmark",
+          "arrive_at": "11:31",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Spaziergang zu dieser maritimen Signalstation mit weitem Blick auf die Küste; vergessen Sie nicht Ihr Fernglas, um die Fähren zu beobachten.",
+            "hu": "Élvezze a békés sétát ehhez a tengerészeti jelzőállomáshoz, ahonnan csodálatos kilátás nyílik; ne felejtse el a távcsövét, hogy megfigyelhesse a távoli kompokat.",
+            "ro": "Bucurați-vă de o plimbare liniștită până la această stație de semnalizare maritimă; nu uitați binoclul pentru a observa feriboturile care trec în depărtare.",
+            "en": "Enjoy a peaceful walk up to this maritime signal station offering sweeping views of the coastline; don't forget your binoculars to spot passing ferries in the distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Bodri",
+            "hu": "Bodri strand",
+            "ro": "Plaja Bodri",
+            "en": "Bodri Beach"
+          },
+          "coords": [
+            8.914334,
+            42.63117
+          ],
+          "category": "recreational",
+          "arrive_at": "12:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entfliehen Sie an diesen unberührten Strand, der für seinen feinen Sand bekannt ist; der Weg vom Parkplatz ist etwas steil, packen Sie also leicht für den Abstieg.",
+            "hu": "Meneküljön el erre az érintetlen strandra, amely finom homokjáról híres; a parkolóból vezető út kissé meredek, ezért érdemes könnyű csomaggal elindulni lefelé.",
+            "ro": "Evadați pe această plajă curată, cunoscută pentru nisipul fin și apa turcoaz; drumul de la parcare este oarecum abrupt, deci faceți bagaje ușoare pentru coborâre.",
+            "en": "Escape to this pristine beach known for its fine sand and vibrant turquoise water; the walk from the parking area is somewhat steep, so pack light for the journey down."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Caruchettu",
+            "hu": "Caruchettu strand",
+            "ro": "Plaja Caruchettu",
+            "en": "Caruchettu Beach"
+          },
+          "coords": [
+            8.947139,
+            42.633577
+          ],
+          "category": "recreational",
+          "arrive_at": "13:30",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem schönen, leicht felsigen Strand, der sich hervorragend zum Schnorcheln eignet; bringen Sie Wasserschuhe mit, um bequem ins Wasser zu gehen.",
+            "hu": "Kapcsolódjon ki ezen a sziklásabb strandon, amely kiváló sznorkelezési lehetőségeket kínál; mindenképpen hozzon magával vízicipőt a kavicsos részek kényelmes átlépéséhez.",
+            "ro": "Relaxați-vă pe această plajă minunată, ușor stâncoasă, excelentă pentru snorkeling; asigurați-vă că aduceți pantofi de apă pentru a naviga confortabil secțiunile cu pietriș.",
+            "en": "Unwind at this lovely, slightly rocky beach that offers excellent snorkeling opportunities; be sure to bring water shoes to comfortably navigate the pebbly sections."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radtag beginnt am bunten Markt, bevor Sie in die Geschichte der alten Getreidemühle eintauchen. Mittags erreichen Sie den maritimen Semaphor für herrliche Küstenausblicke. Verbringen Sie den warmen Nachmittag mit Schwimmen im kristallklaren Wasser des Plage de Bodri. Radeln Sie gegen Abend zum Plage Caruchettu für einen ruhigen Abschluss Ihres schönen Abenteuers.",
+        "hu": "A kerékpáros nap a színes piacon kezdődik, majd a régi búzamalom érdekes történetének felfedezésével folytatódik. Délben a tengerészeti jelzőállomáshoz ér, ahonnan csodás parti kilátás nyílik. Töltse a meleg délutánt a Plage de Bodri kristálytiszta vizében úszva. Estefelé tekerjen át a Plage Caruchettuhoz, hogy békésen fejezze be ezt a gyönyörű kalandot a szigeten.",
+        "ro": "Ziua de ciclism începe la piața colorată înainte de a pedala pentru a descoperi istoria vechii mori de grâu. Prânzul vă aduce la semaforul maritim pentru vederi splendide de coastă. Petreceți după-amiaza caldă înotând în apele cristaline de la Plage de Bodri. Seara, pedalați spre Plage Caruchettu pentru un final senin al frumoasei dumneavoastră aventuri.",
+        "en": "Your cycling day starts at the colorful market before pedaling to uncover the intriguing history of the old wheat mill. Midday brings you to the maritime semaphore for splendid coastal views. Spend the warm afternoon swimming in the crystalline waters of Plage de Bodri. As evening draws near, cycle over to Plage Caruchettu for a serene end to your beautiful adventure."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:57",
+      "total_km": 7.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Leuchtturm von Pietra",
+            "hu": "Pietra világítótorony",
+            "ro": "Farul Pietra",
+            "en": "Pietra Lighthouse"
+          },
+          "coords": [
+            8.932084,
+            42.64456
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesem ikonischen Leuchtturm, um einen Panoramablick auf die roten Granitinseln zu genießen; besuchen Sie ihn am späten Nachmittag für die besten Fotos.",
+            "hu": "Túrázzon fel ehhez az ikonikus világítótoronyhoz, ahonnan lenyűgöző panoráma nyílik a vörös gránitszigetekre; látogasson el késő délután a legjobb fényképekhez.",
+            "ro": "Urcați la acest far emblematic pentru vederi panoramice spectaculoase asupra insulelor de granit roșu; vizitați-l după-amiaza târziu pentru cele mai bune fotografii.",
+            "en": "Hike up to this iconic lighthouse for spectacular panoramic views over the red granite islands; visit during the late afternoon for the most stunning golden hour photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Überreste der Festungsmauer",
+            "hu": "Erődítmény romjai",
+            "ro": "Vestigiile Zidului Fortificat",
+            "en": "Remains of the Fortified Wall"
+          },
+          "coords": [
+            8.937337,
+            42.637132
+          ],
+          "category": "historical",
+          "arrive_at": "09:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang dieser alten Festungsmauern, die die Stadt einst vor Invasionen schützten; tragen Sie festes Schuhwerk, da der Boden hier uneben sein kann.",
+            "hu": "Sétáljon végig ezeken az ősi falakon, amelyek egykor a várost védték az invázióktól; viseljen kényelmes cipőt, mivel a történelmi romok körüli talaj egyenetlen.",
+            "ro": "Plimbați-vă de-a lungul acestor ziduri fortificate antice care protejau orașul de invazii; purtați încălțăminte solidă, deoarece terenul din jurul ruinelor este denivelat.",
+            "en": "Walk along these ancient fortified walls that once protected the city from invasions; wear sturdy shoes as the ground around the historical ruins can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Getreidemühle",
+            "hu": "Régi búzamalom",
+            "ro": "Vechea moară de grâu",
+            "en": "Old Wheat Mill"
+          },
+          "coords": [
+            8.938774,
+            42.630232
+          ],
+          "category": "historical",
+          "arrive_at": "10:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in dieser historischen Getreidemühle; das Gelände ist teilweise von Pflanzen überwuchert, daher werden lange Hosen für die Erkundung empfohlen.",
+            "hu": "Lépjen vissza az időben ennél a történelmi búzamalomnál; a terület részben benőtt, ezért hosszú nadrág viselése erősen ajánlott a környék alapos felfedezéséhez.",
+            "ro": "Întoarceți-vă în timp la această moară istorică de grâu; situl este parțial acoperit de vegetație, așa că pantalonii lungi sunt recomandați pentru explorare.",
+            "en": "Step back in time at this historic wheat mill that highlights Corsica's agricultural past; the site is partially overgrown, so long trousers are recommended for exploring."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinen von Urcica",
+            "hu": "Urcica romjai",
+            "ro": "Ruinele Urcica",
+            "en": "Ruins of Urcica"
+          },
+          "coords": [
+            8.948979,
+            42.615405
+          ],
+          "category": "historical",
+          "arrive_at": "12:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierenden antiken Ruinen, um die lokale Geschichte zu verstehen; der Weg ist schlecht markiert, daher ist das Herunterladen einer Offline-Karte hilfreich.",
+            "hu": "Fedezze fel ezeket a lenyűgöző, tájba simuló ősi romokat; az ösvény rosszul van jelezve, így egy offline térkép letöltése rendkívül hasznos lehet a tájékozódásban.",
+            "ro": "Explorați aceste ruine antice fascinante ascunse în peisaj pentru a înțelege istoria; traseul este slab marcat, deci descărcarea unei hărți offline este foarte utilă.",
+            "en": "Explore these fascinating ancient ruins nestled in the landscape to understand local history; the path is poorly marked, so downloading an offline map is very helpful."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Kirche San Quilico",
+            "hu": "Régi San Quilico templom",
+            "ro": "Vechea biserică San Quilico",
+            "en": "Old San Quilico Church"
+          },
+          "coords": [
+            8.95349,
+            42.616448
+          ],
+          "category": "historical",
+          "arrive_at": "13:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie die stimmungsvollen Überreste dieser alten Kirche; parken Sie am Fuße des Hügels, da der letzte Zugang nur zu Fuß über einen schmalen Pfad erreichbar ist.",
+            "hu": "Látogasson el ennek a régi templomnak a hangulatos romjaihoz; parkoljon le a domb lábánál, mivel az utolsó szakasz kizárólag gyalogosan közelíthető meg biztonságosan.",
+            "ro": "Vizitați rămășițele pline de atmosferă ale acestei biserici vechi; parcați la baza dealului, deoarece ultima parte a drumului este accesibilă doar pe jos.",
+            "en": "Visit the atmospheric remains of this old church offering a quiet, contemplative atmosphere; park at the base of the hill as the final approach is accessible only on foot."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Bodri",
+            "hu": "Bodri strand",
+            "ro": "Plaja Bodri",
+            "en": "Bodri Beach"
+          },
+          "coords": [
+            8.914334,
+            42.63117
+          ],
+          "category": "recreational",
+          "arrive_at": "15:12",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Entfliehen Sie an diesen unberührten Strand, der für seinen feinen Sand bekannt ist; der Weg vom Parkplatz ist etwas steil, packen Sie also leicht für den Abstieg.",
+            "hu": "Meneküljön el erre az érintetlen strandra, amely finom homokjáról híres; a parkolóból vezető út kissé meredek, ezért érdemes könnyű csomaggal elindulni lefelé.",
+            "ro": "Evadați pe această plajă curată, cunoscută pentru nisipul fin și apa turcoaz; drumul de la parcare este oarecum abrupt, deci faceți bagaje ușoare pentru coborâre.",
+            "en": "Escape to this pristine beach known for its fine sand and vibrant turquoise water; the walk from the parking area is somewhat steep, so pack light for the journey down."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Roadtrip mit weiten Ausblicken vom Leuchtturm Pietra, bevor Sie die Festungsruinen entdecken. Fahren Sie gegen Mittag hinaus, um die historische Getreidemühle zu besichtigen. Erkunden Sie nachmittags die faszinierenden archäologischen Ruinen und die versteckte Kirche San Quilico. Beenden Sie den Tag mit einem wohlverdienten, entspannenden Sonnenuntergang am Plage de Bodri.",
+        "hu": "Indítsa autós túráját a Pietra világítótorony lenyűgöző kilátásával, mielőtt felfedezné az erődítmény romjait. Dél felé vezessen ki a történelmi búzamalom megtekintésére. Délután fedezze fel a lenyűgöző régészeti romokat és a dombok között megbúvó régi San Quilico templomot. Fejezze be a napot egy jól megérdemelt, pihentető naplemente-nézéssel a Plage de Bodri finom homokján.",
+        "ro": "Începeți excursia cu mașina cu vederi ample de la farul Pietra înainte de a descoperi ruinele fortificate. Spre prânz, conduceți pentru a inspecta vechea moară istorică de grâu. După-amiaza, explorați ruinele arheologice fascinante și vechea biserică San Quilico ascunsă în dealuri. Terminați ziua cu o vizită relaxantă binemeritată la apus pe Plage de Bodri.",
+        "en": "Kick off your road trip with sweeping views from the Pietra lighthouse before discovering the town's fortified ruins. Towards midday, drive out to inspect the historical wheat mill. In the afternoon, explore the fascinating archaeological ruins and the old San Quilico church hidden in the hills. Finish the day with a well-deserved, relaxing sunset visit to Plage de Bodri."
+      }
+    }
+  }
+}

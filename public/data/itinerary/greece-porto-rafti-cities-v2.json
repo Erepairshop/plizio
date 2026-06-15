@@ -1,0 +1,543 @@
+{
+  "city_id": "greece-porto-rafti-cities-v2",
+  "anchor": {
+    "name": "Porto Rafti",
+    "coords": [
+      24.0125,
+      37.884444
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:05",
+      "total_km": 2.35,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Paralia Kalos Gialos",
+            "hu": "Paralia Kalos Gialos",
+            "ro": "Paralia Kalos Gialos",
+            "en": "Paralia Kalos Gialos"
+          },
+          "coords": [
+            24.014456,
+            37.883546
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Morgen an diesem malerischen Strand, dessen klares Wasser zu einem kurzen Bad einlädt; packen Sie unbedingt Ihre Badesachen ein.",
+            "hu": "Kezdje a reggelt ezen a festői strandon, ahol a kristálytiszta víz egy gyors csobbanásra hívogat, ezért feltétlenül hozzon magával fürdőruhát.",
+            "ro": "Începeți dimineața la această plajă pitorească unde apele limpezi vă invită la o baie scurtă, așa că nu uitați să luați costumul de baie cu voi.",
+            "en": "Start your morning at this calm, scenic beach where the clear waters invite a quick dip, so remember to pack your swimwear for a refreshing start."
+          }
+        },
+        {
+          "name": {
+            "de": "Pharos Porto Raphte",
+            "hu": "Pharos Porto Raphte",
+            "ro": "Pharos Porto Raphte",
+            "en": "Pharos Porto Raphte"
+          },
+          "coords": [
+            24.021686,
+            37.884442
+          ],
+          "category": "landmark",
+          "arrive_at": "09:44",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie den historischen Leuchtturm, der seit Generationen Seeleute leitet, und halten Sie Ihre Kamera für das perfekte Panoramabild bereit.",
+            "hu": "Csodálja meg a történelmi világítótornyot, amely tengerészek generációit vezette, és tartsa készenlétben fényképezőgépét a tökéletes panorámához.",
+            "ro": "Admirați farul istoric care a ghidat marinarii de generații întregi și asigurați-vă că aveți camera pregătită pentru o fotografie panoramică perfectă.",
+            "en": "Admire the historic lighthouse that has guided sailors for generations, and make sure to have your camera ready for the perfect panoramic coastal shot."
+          }
+        },
+        {
+          "name": {
+            "de": "Paralia Agiou Spuridona",
+            "hu": "Paralia Agiou Spuridona",
+            "ro": "Paralia Agiou Spuridona",
+            "en": "Paralia Agiou Spuridona"
+          },
+          "coords": [
+            24.024676,
+            37.891484
+          ],
+          "category": "recreational",
+          "arrive_at": "10:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem ruhigen Ort, der dem Heiligen Spyridon gewidmet ist, und kommen Sie am besten früh, bevor die großen Menschenmengen eintreffen.",
+            "hu": "Pihenjen ezen a Szent Szpiridonnak szentelt nyugodt helyen, amely ötvözi a természetes szépséget a lelki békével, és érdemes még a tömeg előtt érkezni.",
+            "ro": "Relaxați-vă în acest loc liniștit dedicat Sfântului Spiridon, combinând frumusețea naturală cu pacea, ideal de vizitat devreme, înainte de aglomerație.",
+            "en": "Relax at this tranquil spot dedicated to Saint Spyridon, blending natural beauty with spiritual calm, ideally visited early before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "To Spitaki tes Daskalas",
+            "hu": "To Spitaki tes Daskalas",
+            "ro": "To Spitaki tes Daskalas",
+            "en": "To Spitaki tes Daskalas"
+          },
+          "coords": [
+            24.016029,
+            37.89341
+          ],
+          "category": "landmark",
+          "arrive_at": "11:47",
+          "stay_min": 25,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Erkunden Sie das malerische kleine Lehrerhaus, um einen Einblick in die lokale Folklore zu erhalten, und achten Sie auf die besondere Architektur.",
+            "hu": "Fedezze fel a Tanítónő Kiskunyhóját, amely bepillantást enged a helyi folklórba, miközben érdemes megfigyelni az épület aprólékos részleteit is.",
+            "ro": "Explorați pitoreasca Căsuță a Învățătoarei pentru a înțelege folclorul local fermecător, acordând atenție deosebită arhitecturii tradiționale.",
+            "en": "Explore the quaint Teacher's Little House to get a glimpse into the region's charming local folklore, paying attention to the intricate architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Palaiokhristianike Basilike Porto Raphte",
+            "hu": "Palaiokhristianike Basilike Porto Raphte",
+            "ro": "Palaiokhristianike Basilike Porto Raphte",
+            "en": "Palaiokhristianike Basilike Porto Raphte"
+          },
+          "coords": [
+            24.014085,
+            37.894597
+          ],
+          "category": "historical",
+          "arrive_at": "12:15",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in den Ruinen dieser frühchristlichen Basilika und achten Sie beim Spaziergang um die alten Fundamente auf den Denkmalschutz.",
+            "hu": "Lépjen vissza az időben az ókeresztény bazilika romjainál, és óvatosan sétáljon az ősi alapok körül, hogy tiszteletben tartsa a történelmi helyszínt.",
+            "ro": "Întoarceți-vă în timp la ruinele acestei bazilici paleocreștine, având grijă la pași în jurul fundațiilor antice pentru a respecta acest sit istoric.",
+            "en": "Step back in time at the ruins of this early Christian basilica, taking care as you walk around the ancient foundations to respect the historical site."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang an den erfrischenden Ufern von Kalos Gialos und atmen Sie die morgendliche Meeresbrise ein. Mittags passieren Sie den Leuchtturm und den Strand von Saint Spyridon. Nachmittags erkunden Sie die lokale Folklore im Lehrerhaus und die Geschichte der frühchristlichen Basilika. Genießen Sie einen friedlichen Abend und die antiken Ruinen.",
+        "hu": "Kezdje sétáját a Kalos Gialos frissítő partjainál, és élvezze a reggeli tengeri szellőt. Délben haladjon el az ikonikus világítótorony és a nyugodt Szent Szpiridon strand mellett. Délután fedezze fel a helyi folklórt a Tanítónő Házában, majd az ókeresztény bazilika történelmét. Töltsön el egy békés estét az ősi romok történelmi atmoszférájának elmélkedésével.",
+        "ro": "Începeți turul de-a lungul coastelor revigorante de la Kalos Gialos, respirând briza mării. La prânz veți trece pe lângă farul emblematic și plaja liniștită a Sfântului Spiridon. După-amiaza, explorați folclorul local la Căsuța Învățătoarei și istoria la Bazilica Paleocreștină. Bucurați-vă de o seară pașnică contemplând ruinele antice la lumina apusului.",
+        "en": "Start your walking tour along the refreshing shores of Kalos Gialos, breathing in the fresh morning sea breeze. Midday brings you past the iconic lighthouse and the tranquil beach of Saint Spyridon. By afternoon, explore local folklore at the Teacher's House and delve into ancient history at the Early Christian Basilica. Enjoy a peaceful evening contemplating the ruins."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:42",
+      "total_km": 5.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Porto Raphte Paralia Aulaki",
+            "hu": "Porto Raphte Paralia Aulaki",
+            "ro": "Porto Raphte Paralia Aulaki",
+            "en": "Porto Raphte Paralia Aulaki"
+          },
+          "coords": [
+            24.020713,
+            37.872707
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die weiten Sandstrände von Aulaki, ein perfekter Ort zum Sonnenbaden; bringen Sie also ausreichend Sonnencreme und ein gutes Buch mit.",
+            "hu": "Élvezze az Aulaki strand homokos partját, amely tökéletes napozáshoz és fürdőzéshez, ezért hozzon magával bőséges naptejet és egy jó könyvet.",
+            "ro": "Bucurați-vă de țărmurile nisipoase de la Aulaki, un loc perfect pentru plajă și înot, așa că aduceți multă cremă de protecție solară și o carte.",
+            "en": "Enjoy the expansive sandy shores of Aulaki beach, a perfect spot for sunbathing and swimming, so bring plenty of sunscreen and a good vacation book."
+          }
+        },
+        {
+          "name": {
+            "de": "Paralia Kalos Gialos",
+            "hu": "Paralia Kalos Gialos",
+            "ro": "Paralia Kalos Gialos",
+            "en": "Paralia Kalos Gialos"
+          },
+          "coords": [
+            24.014456,
+            37.883546
+          ],
+          "category": "landmark",
+          "arrive_at": "09:42",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Morgen an diesem malerischen Strand, dessen klares Wasser zu einem kurzen Bad einlädt; packen Sie unbedingt Ihre Badesachen ein.",
+            "hu": "Kezdje a reggelt ezen a festői strandon, ahol a kristálytiszta víz egy gyors csobbanásra hívogat, ezért feltétlenül hozzon magával fürdőruhát.",
+            "ro": "Începeți dimineața la această plajă pitorească unde apele limpezi vă invită la o baie scurtă, așa că nu uitați să luați costumul de baie cu voi.",
+            "en": "Start your morning at this calm, scenic beach where the clear waters invite a quick dip, so remember to pack your swimwear for a refreshing start."
+          }
+        },
+        {
+          "name": {
+            "de": "Pharos Porto Raphte",
+            "hu": "Pharos Porto Raphte",
+            "ro": "Pharos Porto Raphte",
+            "en": "Pharos Porto Raphte"
+          },
+          "coords": [
+            24.021686,
+            37.884442
+          ],
+          "category": "landmark",
+          "arrive_at": "10:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie den historischen Leuchtturm, der seit Generationen Seeleute leitet, und halten Sie Ihre Kamera für das perfekte Panoramabild bereit.",
+            "hu": "Csodálja meg a történelmi világítótornyot, amely tengerészek generációit vezette, és tartsa készenlétben fényképezőgépét a tökéletes panorámához.",
+            "ro": "Admirați farul istoric care a ghidat marinarii de generații întregi și asigurați-vă că aveți camera pregătită pentru o fotografie panoramică perfectă.",
+            "en": "Admire the historic lighthouse that has guided sailors for generations, and make sure to have your camera ready for the perfect panoramic coastal shot."
+          }
+        },
+        {
+          "name": {
+            "de": "To Spitaki tes Daskalas",
+            "hu": "To Spitaki tes Daskalas",
+            "ro": "To Spitaki tes Daskalas",
+            "en": "To Spitaki tes Daskalas"
+          },
+          "coords": [
+            24.016029,
+            37.89341
+          ],
+          "category": "landmark",
+          "arrive_at": "10:41",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie das malerische kleine Lehrerhaus, um einen Einblick in die lokale Folklore zu erhalten, und achten Sie auf die besondere Architektur.",
+            "hu": "Fedezze fel a Tanítónő Kiskunyhóját, amely bepillantást enged a helyi folklórba, miközben érdemes megfigyelni az épület aprólékos részleteit is.",
+            "ro": "Explorați pitoreasca Căsuță a Învățătoarei pentru a înțelege folclorul local fermecător, acordând atenție deosebită arhitecturii tradiționale.",
+            "en": "Explore the quaint Teacher's Little House to get a glimpse into the region's charming local folklore, paying attention to the intricate architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Palaiokhristianike Basilike Porto Raphte",
+            "hu": "Palaiokhristianike Basilike Porto Raphte",
+            "ro": "Palaiokhristianike Basilike Porto Raphte",
+            "en": "Palaiokhristianike Basilike Porto Raphte"
+          },
+          "coords": [
+            24.014085,
+            37.894597
+          ],
+          "category": "historical",
+          "arrive_at": "11:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in den Ruinen dieser frühchristlichen Basilika und achten Sie beim Spaziergang um die alten Fundamente auf den Denkmalschutz.",
+            "hu": "Lépjen vissza az időben az ókeresztény bazilika romjainál, és óvatosan sétáljon az ősi alapok körül, hogy tiszteletben tartsa a történelmi helyszínt.",
+            "ro": "Întoarceți-vă în timp la ruinele acestei bazilici paleocreștine, având grijă la pași în jurul fundațiilor antice pentru a respecta acest sit istoric.",
+            "en": "Step back in time at the ruins of this early Christian basilica, taking care as you walk around the ancient foundations to respect the historical site."
+          }
+        },
+        {
+          "name": {
+            "de": "Usteromukenaiko Nekrotapheio Perates Porto Raphte",
+            "hu": "Usteromukenaiko Nekrotapheio Perates Porto Raphte",
+            "ro": "Usteromukenaiko Nekrotapheio Perates Porto Raphte",
+            "en": "Usteromukenaiko Nekrotapheio Perates Porto Raphte"
+          },
+          "coords": [
+            24.031402,
+            37.896039
+          ],
+          "category": "historical",
+          "arrive_at": "12:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie den spätmykenischen Friedhof von Perati, ein archäologischer Schatz, bei dem festes Schuhwerk hilft, das unebene Gelände zu meistern.",
+            "hu": "Fedezze fel Perati késő mükénéi temetőjét, ezt a figyelemre méltó régészeti kincset, ahol az erős cipő viselése segít a durva terepen való mozgásban.",
+            "ro": "Descoperiți cimitirul micenian târziu de la Perati, o comoară arheologică unde pantofii rezistenți vă vor ajuta să navigați pe terenul accidentat.",
+            "en": "Discover the Late Mycenaean cemetery of Perati, a remarkable archaeological treasure where wearing sturdy shoes will help you navigate the rough ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Erotospelia",
+            "hu": "Erotospelia",
+            "ro": "Erotospelia",
+            "en": "Erotospelia"
+          },
+          "coords": [
+            24.033027,
+            37.893366
+          ],
+          "category": "recreational",
+          "arrive_at": "13:57",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Ausflug in der „Höhle der Liebe“, einer einsamen Bucht, die sich perfekt für einen romantischen Spaziergang in der Dämmerung eignet.",
+            "hu": "Zárja a napot a Szerelem Barlangjánál, egy eldugott öbölnél, amely ideális egy romantikus alkonyati sétához, de nyáron érkezzen korán a jó helyért.",
+            "ro": "Încheiați-vă călătoria la Peștera Dragostei, un golf izolat ideal pentru o plimbare romantică, dar ajungeți devreme vara pentru a prinde un loc.",
+            "en": "Conclude your trip at the 'Cave of Love', a secluded bay ideal for a romantic twilight stroll, but arrive early in summer to secure a good spot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radabenteuer beginnt am weitläufigen Strand von Aulaki, ideal für eine morgendliche Fahrt entlang der Küste. Fahren Sie nach Norden zum Leuchtturm und genießen Sie die Mittagssonne auf dem Wasser. Der Nachmittag führt Sie zu historischen Orten wie dem Lehrerhaus und den Basiliken. Beenden Sie Ihre Tour in Erotospelia und entspannen Sie in der „Höhle der Liebe“.",
+        "hu": "Kerékpáros kalandja a tágas Aulaki strandon kezdődik, amely tökéletes egy reggeli tengerparti tekeréshez. Haladjon északra a Kalos Gialos és a világítótorony felé a déli napsütésben. Délután történelmi helyszínek, például a Tanítónő Háza és az ősi bazilikák várják. Zárja a kerékpározást az Erotospelia nevű öbölnél, pihenve a Szerelem Barlangjának nyugodt partjainál.",
+        "ro": "Aventura cu bicicleta începe la plaja spațioasă Aulaki, perfectă pentru o pedalare matinală. Mergeți spre nord spre Kalos Gialos și far, bucurându-vă de soarele de la prânz reflectat pe apă. După-amiaza vă poartă prin locuri istorice precum Căsuța Învățătoarei și Bazilici antice. Încheiați cursa la Erotospelia, relaxându-vă seara la Peștera Dragostei.",
+        "en": "Your cycling adventure begins at the spacious Aulaki beach, perfect for a quick morning pedal along the coast. Ride northwards towards Kalos Gialos and the lighthouse, enjoying the vibrant midday sun reflecting off the water. The afternoon takes you through historical spots like the Teacher's House and ancient Basilicas. Finish your ride at Erotospelia, relaxing at the 'Cave of Love'."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:02",
+      "total_km": 7.35,
+      "stop_count": 9,
+      "stops": [
+        {
+          "name": {
+            "de": "Porto Raphte Paralia Aulaki",
+            "hu": "Porto Raphte Paralia Aulaki",
+            "ro": "Porto Raphte Paralia Aulaki",
+            "en": "Porto Raphte Paralia Aulaki"
+          },
+          "coords": [
+            24.020713,
+            37.872707
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die weiten Sandstrände von Aulaki, ein perfekter Ort zum Sonnenbaden; bringen Sie also ausreichend Sonnencreme und ein gutes Buch mit.",
+            "hu": "Élvezze az Aulaki strand homokos partját, amely tökéletes napozáshoz és fürdőzéshez, ezért hozzon magával bőséges naptejet és egy jó könyvet.",
+            "ro": "Bucurați-vă de țărmurile nisipoase de la Aulaki, un loc perfect pentru plajă și înot, așa că aduceți multă cremă de protecție solară și o carte.",
+            "en": "Enjoy the expansive sandy shores of Aulaki beach, a perfect spot for sunbathing and swimming, so bring plenty of sunscreen and a good vacation book."
+          }
+        },
+        {
+          "name": {
+            "de": "Nesida Kekropoula",
+            "hu": "Nesida Kekropoula",
+            "ro": "Nesida Kekropoula",
+            "en": "Nesida Kekropoula"
+          },
+          "coords": [
+            24.034321,
+            37.873343
+          ],
+          "category": "recreational",
+          "arrive_at": "09:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Blicken Sie auf diese kleine, mythische Felseninsel und nutzen Sie ein Fernglas, um die vielen lokalen Seevögel zu beobachten, die hier nisten.",
+            "hu": "Vessen egy pillantást erre a helyi mitológiával átszőtt apró szigetre, és használjon távcsövet a környéken fészkelő tengeri madarak megfigyeléséhez.",
+            "ro": "Priviți spre această mică insulă stâncoasă plină de mitologie și folosiți binoclul dacă îl aveți pentru a observa păsările marine care cuibăresc.",
+            "en": "Look out towards this small, rocky islet steeped in local mythology, and use binoculars if you have them to spot local seabirds nesting in the area."
+          }
+        },
+        {
+          "name": {
+            "de": "Paralia Kalos Gialos",
+            "hu": "Paralia Kalos Gialos",
+            "ro": "Paralia Kalos Gialos",
+            "en": "Paralia Kalos Gialos"
+          },
+          "coords": [
+            24.014456,
+            37.883546
+          ],
+          "category": "landmark",
+          "arrive_at": "10:57",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Morgen an diesem malerischen Strand, dessen klares Wasser zu einem kurzen Bad einlädt; packen Sie unbedingt Ihre Badesachen ein.",
+            "hu": "Kezdje a reggelt ezen a festői strandon, ahol a kristálytiszta víz egy gyors csobbanásra hívogat, ezért feltétlenül hozzon magával fürdőruhát.",
+            "ro": "Începeți dimineața la această plajă pitorească unde apele limpezi vă invită la o baie scurtă, așa că nu uitați să luați costumul de baie cu voi.",
+            "en": "Start your morning at this calm, scenic beach where the clear waters invite a quick dip, so remember to pack your swimwear for a refreshing start."
+          }
+        },
+        {
+          "name": {
+            "de": "Pharos Porto Raphte",
+            "hu": "Pharos Porto Raphte",
+            "ro": "Pharos Porto Raphte",
+            "en": "Pharos Porto Raphte"
+          },
+          "coords": [
+            24.021686,
+            37.884442
+          ],
+          "category": "landmark",
+          "arrive_at": "11:23",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie den historischen Leuchtturm, der seit Generationen Seeleute leitet, und halten Sie Ihre Kamera für das perfekte Panoramabild bereit.",
+            "hu": "Csodálja meg a történelmi világítótornyot, amely tengerészek generációit vezette, és tartsa készenlétben fényképezőgépét a tökéletes panorámához.",
+            "ro": "Admirați farul istoric care a ghidat marinarii de generații întregi și asigurați-vă că aveți camera pregătită pentru o fotografie panoramică perfectă.",
+            "en": "Admire the historic lighthouse that has guided sailors for generations, and make sure to have your camera ready for the perfect panoramic coastal shot."
+          }
+        },
+        {
+          "name": {
+            "de": "Paralia Agiou Spuridona",
+            "hu": "Paralia Agiou Spuridona",
+            "ro": "Paralia Agiou Spuridona",
+            "en": "Paralia Agiou Spuridona"
+          },
+          "coords": [
+            24.024676,
+            37.891484
+          ],
+          "category": "recreational",
+          "arrive_at": "11:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem ruhigen Ort, der dem Heiligen Spyridon gewidmet ist, und kommen Sie am besten früh, bevor die großen Menschenmengen eintreffen.",
+            "hu": "Pihenjen ezen a Szent Szpiridonnak szentelt nyugodt helyen, amely ötvözi a természetes szépséget a lelki békével, és érdemes még a tömeg előtt érkezni.",
+            "ro": "Relaxați-vă în acest loc liniștit dedicat Sfântului Spiridon, combinând frumusețea naturală cu pacea, ideal de vizitat devreme, înainte de aglomerație.",
+            "en": "Relax at this tranquil spot dedicated to Saint Spyridon, blending natural beauty with spiritual calm, ideally visited early before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "To Spitaki tes Daskalas",
+            "hu": "To Spitaki tes Daskalas",
+            "ro": "To Spitaki tes Daskalas",
+            "en": "To Spitaki tes Daskalas"
+          },
+          "coords": [
+            24.016029,
+            37.89341
+          ],
+          "category": "landmark",
+          "arrive_at": "13:07",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Erkunden Sie das malerische kleine Lehrerhaus, um einen Einblick in die lokale Folklore zu erhalten, und achten Sie auf die besondere Architektur.",
+            "hu": "Fedezze fel a Tanítónő Kiskunyhóját, amely bepillantást enged a helyi folklórba, miközben érdemes megfigyelni az épület aprólékos részleteit is.",
+            "ro": "Explorați pitoreasca Căsuță a Învățătoarei pentru a înțelege folclorul local fermecător, acordând atenție deosebită arhitecturii tradiționale.",
+            "en": "Explore the quaint Teacher's Little House to get a glimpse into the region's charming local folklore, paying attention to the intricate architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Palaiokhristianike Basilike Porto Raphte",
+            "hu": "Palaiokhristianike Basilike Porto Raphte",
+            "ro": "Palaiokhristianike Basilike Porto Raphte",
+            "en": "Palaiokhristianike Basilike Porto Raphte"
+          },
+          "coords": [
+            24.014085,
+            37.894597
+          ],
+          "category": "historical",
+          "arrive_at": "13:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in den Ruinen dieser frühchristlichen Basilika und achten Sie beim Spaziergang um die alten Fundamente auf den Denkmalschutz.",
+            "hu": "Lépjen vissza az időben az ókeresztény bazilika romjainál, és óvatosan sétáljon az ősi alapok körül, hogy tiszteletben tartsa a történelmi helyszínt.",
+            "ro": "Întoarceți-vă în timp la ruinele acestei bazilici paleocreștine, având grijă la pași în jurul fundațiilor antice pentru a respecta acest sit istoric.",
+            "en": "Step back in time at the ruins of this early Christian basilica, taking care as you walk around the ancient foundations to respect the historical site."
+          }
+        },
+        {
+          "name": {
+            "de": "Usteromukenaiko Nekrotapheio Perates Porto Raphte",
+            "hu": "Usteromukenaiko Nekrotapheio Perates Porto Raphte",
+            "ro": "Usteromukenaiko Nekrotapheio Perates Porto Raphte",
+            "en": "Usteromukenaiko Nekrotapheio Perates Porto Raphte"
+          },
+          "coords": [
+            24.031402,
+            37.896039
+          ],
+          "category": "historical",
+          "arrive_at": "14:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie den spätmykenischen Friedhof von Perati, ein archäologischer Schatz, bei dem festes Schuhwerk hilft, das unebene Gelände zu meistern.",
+            "hu": "Fedezze fel Perati késő mükénéi temetőjét, ezt a figyelemre méltó régészeti kincset, ahol az erős cipő viselése segít a durva terepen való mozgásban.",
+            "ro": "Descoperiți cimitirul micenian târziu de la Perati, o comoară arheologică unde pantofii rezistenți vă vor ajuta să navigați pe terenul accidentat.",
+            "en": "Discover the Late Mycenaean cemetery of Perati, a remarkable archaeological treasure where wearing sturdy shoes will help you navigate the rough ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Erotospelia",
+            "hu": "Erotospelia",
+            "ro": "Erotospelia",
+            "en": "Erotospelia"
+          },
+          "coords": [
+            24.033027,
+            37.893366
+          ],
+          "category": "recreational",
+          "arrive_at": "16:17",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Ausflug in der „Höhle der Liebe“, einer einsamen Bucht, die sich perfekt für einen romantischen Spaziergang in der Dämmerung eignet.",
+            "hu": "Zárja a napot a Szerelem Barlangjánál, egy eldugott öbölnél, amely ideális egy romantikus alkonyati sétához, de nyáron érkezzen korán a jó helyért.",
+            "ro": "Încheiați-vă călătoria la Peștera Dragostei, un golf izolat ideal pentru o plimbare romantică, dar ajungeți devreme vara pentru a prinde un loc.",
+            "en": "Conclude your trip at the 'Cave of Love', a secluded bay ideal for a romantic twilight stroll, but arrive early in summer to secure a good spot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Fahrt durch Porto Rafti beginnt mit einem angenehmen Morgen am Aulaki-Strand und einem Blick auf die Insel Kekropoula. Mittags cruisen Sie zum Leuchtturm und zu den belebten nördlichen Stränden. Verbringen Sie den Nachmittag damit, die tiefgründige Geschichte der frühchristlichen und mykenischen Stätten zu entdecken. Ein romantischer Abend in Erotospelia rundet ab.",
+        "hu": "A Porto Rafti-i autózás egy kellemes reggellel indul az Aulaki strandon és a Kekropoula sziget látványával. Délben kocsikázzon a világítótoronyhoz és a nyüzsgő északi strandokhoz. Töltse a délutánt az ókeresztény és mükénéi történelmi emlékek felfedezésével a régió szívében. Zárja a napot egy romantikus estével az eldugott Erotospelia öböl festői környezetében.",
+        "ro": "Condusul prin Porto Rafti începe cu o dimineață plăcută la plaja Aulaki și o priveliște pitorească a insulei Kekropoula. La prânz, conduceți către far și plajele nordice. Petreceți după-amiaza descoperind istoria profundă la siturile paleocreștine și miceniene. Încheiați cu o seară romantică la golful izolat Erotospelia, bucurându-vă de peisajul litoralului grecesc.",
+        "en": "Driving through Porto Rafti starts with a pleasant morning at Aulaki beach and a scenic view of Kekropoula island. By midday, cruise to the lighthouse and the lively northern beaches to grab a quick bite. Spend your afternoon uncovering deep history at the early Christian and Mycenaean sites. Conclude with a romantic evening at the secluded Erotospelia bay."
+      }
+    }
+  }
+}

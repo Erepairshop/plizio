@@ -1,0 +1,428 @@
+{
+  "city_id": "port-saint-louis-du-rhone",
+  "anchor": {
+    "name": "Port-Saint-Louis-du-Rhône",
+    "coords": [
+      4.8044,
+      43.3875
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:07",
+      "total_km": 3.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Dimitri",
+            "hu": "Saint-Dimitri templom",
+            "ro": "Biserica Saint-Dimitri",
+            "en": "Église Saint-Dimitri"
+          },
+          "coords": [
+            4.804061,
+            43.38778
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die orthodoxe Architektur dieser charmanten Kirche, ein Zeugnis der griechischen Gemeinschaft der Stadt, und kommen Sie morgens, wenn das Licht am schönsten ist.",
+            "hu": "Csodálja meg a görög közösség örökségét őrző elbűvölő ortodox templom építészetét, és érdemes a reggeli órákban érkezni a legszebb fényekért.",
+            "ro": "Admirați arhitectura ortodoxă a acestei biserici fermecătoare, simbol al comunității elene locale, și vizitați-o dimineața pentru a beneficia de cea mai bună lumină.",
+            "en": "Admire the orthodox architecture of this charming church, a testament to the town's Greek heritage, and visit in the morning when the light is most beautiful."
+          }
+        },
+        {
+          "name": {
+            "de": "Salle Gérard Philippe",
+            "hu": "Salle Gérard Philippe",
+            "ro": "Salle Gérard Philippe",
+            "en": "Salle Gérard Philippe"
+          },
+          "coords": [
+            4.799394,
+            43.390666
+          ],
+          "category": "cultural",
+          "arrive_at": "09:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie zeitgenössische Aufführungen in diesem lebendigen Kulturzentrum, das Herz der lokalen Kunstszene, aber prüfen Sie das Programm im Voraus online, um keine Shows zu verpassen.",
+            "hu": "Fedezze fel a kortárs előadásokat ebben a pezsgő kulturális központban, a helyi művészeti élet szívében, de előzetesen ellenőrizze a műsort online a jegyekért.",
+            "ro": "Descoperiți spectacole contemporane în acest centru cultural vibrant, inima scenei artistice locale, dar verificați programul online în avans pentru a nu rata evenimentele.",
+            "en": "Discover contemporary performances in this vibrant cultural center, the heart of the local arts scene, but make sure to check the schedule online in advance to catch a show."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Citron Jaune",
+            "hu": "Le Citron Jaune",
+            "ro": "Le Citron Jaune",
+            "en": "Le Citron Jaune"
+          },
+          "coords": [
+            4.813362,
+            43.391332
+          ],
+          "category": "cultural",
+          "arrive_at": "11:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem nationalen Zentrum für Straßenkunst in kreative Innovationen ein, bewundern Sie originelle Installationen und informieren Sie sich über die kostenlosen Workshops im Freien.",
+            "hu": "Merüljön el a kreatív innovációban ebben a nemzeti utcai művészeti központban, csodálja meg az eredeti installációkat, és érdeklődjön az ingyenes szabadtéri workshopokról.",
+            "ro": "Explorați inovațiile creative la acest centru național de arte stradale, admirați instalații originale și interesați-vă de atelierele gratuite în aer liber disponibile.",
+            "en": "Immerse yourself in creative innovation at this national center for street arts, admire original installations, and inquire about their free outdoor workshops."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Louis Turm",
+            "hu": "Saint-Louis Torony",
+            "ro": "Turnul Saint-Louis",
+            "en": "Saint-Louis Tower"
+          },
+          "coords": [
+            4.80523,
+            43.3844
+          ],
+          "category": "historical",
+          "arrive_at": "13:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie vom Dach dieses historischen Wehrturms aus dem 18. Jahrhundert einen Panoramablick über die Camargue und bringen Sie ein Fernglas für die Vogelbeobachtung mit.",
+            "hu": "Élvezze a Camargue-ra nyíló panorámát a 18. századi történelmi védőtorony tetejéről, és hozzon magával távcsövet a madármegfigyeléshez.",
+            "ro": "Bucurați-vă de panorama asupra regiunii Camargue de pe acoperișul acestui turn de apărare din secolul al XVIII-lea și aduceți binoclul pentru observarea păsărilor.",
+            "en": "Enjoy panoramic views of the Camargue from the roof of this historic 18th-century defense tower, and make sure to bring binoculars for birdwatching."
+          }
+        },
+        {
+          "name": {
+            "de": "La Tour (Naturpark)",
+            "hu": "La Tour (Természetvédelmi terület)",
+            "ro": "La Tour (Parc natural)",
+            "en": "La Tour"
+          },
+          "coords": [
+            4.805444,
+            43.379511
+          ],
+          "category": "natural",
+          "arrive_at": "15:22",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch dieses geschützte Naturgebiet in der Nähe der Turmanlagen, wo sich die Flussmündung mit der Tierwelt trifft, und tragen Sie festes Schuhwerk für unebene Pfade.",
+            "hu": "Sétáljon ezen a védett természeti területen a torony közelében, ahol a folyótorkolat találkozik az élővilággal, és viseljen kényelmes túracipőt az egyenetlen ösvényeken.",
+            "ro": "Plimbați-vă prin această arie naturală protejată din apropierea turnului, unde estuarul se întâlnește cu fauna sălbatică, și purtați încălțăminte robustă pentru potecile denivelate.",
+            "en": "Stroll through this protected natural area near the tower where the estuary meets local wildlife, and wear sturdy walking shoes for the uneven pathways."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihren Tag mit einer Erkundung des kulturellen Herzens von Port-Saint-Louis, beginnend mit der byzantinischen Eleganz der Église Saint-Dimitri, gefolgt von der Salle Gérard Philippe.\nMidday: Nach einem Vormittag voller Kultur und Kunst können Sie das kreative Treiben im Le Citron Jaune genießen, wo lokale Straßenkunst das Stadtbild prägt.\nAfternoon: Spazieren Sie in Richtung des imposanten Saint-Louis-Turms, erklimmen Sie ihn für einen großartigen Blick über das weite Rhônedelta und atmen Sie die salzige Luft.\nEvening: Beenden Sie Ihre Tour in den umliegenden Naturgebieten von La Tour, wo der Sonnenuntergang das wilde Sumpfland in ein magisches goldenes Licht taucht.",
+        "hu": "Morning: Kezdje a napot Port-Saint-Louis kulturális központjának felfedezésével, elsőként a Saint-Dimitri templom bizánci eleganciájával, majd a Salle Gérard Philippe meglátogatásával.\nMidday: A délelőtti művészeti barangolások után élvezze a Le Citron Jaune kreatív nyüzsgését, ahol a helyi utcai művészet lenyűgözően formálja a városképet.\nAfternoon: Sétáljon az impozáns Saint-Louis torony felé, másszon fel a csodálatos kilátásért, és szívja magába a Rhône deltájának friss sós levegőjét.\nEvening: Fejezze be túráját a La Tour körüli természetvédelmi területeken, ahol a naplemente varázslatos aranyfénybe öltözteti a vad mocsárvidéket.",
+        "ro": "Morning: Începeți ziua explorând inima culturală a orașului Port-Saint-Louis, de la eleganța bizantină a Bisericii Saint-Dimitri la vibrația centrului Salle Gérard Philippe.\nMidday: După o dimineață plină de artă, lăsați-vă inspirați de inovațiile de la Le Citron Jaune, un pol al artelor stradale care redefinește spațiul urban local.\nAfternoon: Mergeți pe jos spre impunătorul Turn Saint-Louis, urcați pe acoperiș pentru o priveliște grandioasă asupra deltei Rhône-ului și respirați briza sărată.\nEvening: Încheiați-vă turul relaxant în zona naturală La Tour, unde apusul de soare transformă peisajul sălbatic într-un spectacol magic de lumini și umbre.",
+        "en": "Morning: Start your day exploring the cultural heart of Port-Saint-Louis, beginning with the Byzantine elegance of Église Saint-Dimitri and moving to Salle Gérard Philippe.\nMidday: After a morning filled with local arts, soak up the creative energy at Le Citron Jaune, a street art hub that dynamically redefines the town's urban landscape.\nAfternoon: Stroll towards the imposing Saint-Louis Tower, climb to its roof for magnificent views over the expansive Rhône delta, and breathe in the salty sea breeze.\nEvening: Conclude your gentle walk in the natural areas surrounding La Tour, where the glowing sunset casts a magical light over the wild marshlands of the Camargue."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 9.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Dimitri",
+            "hu": "Saint-Dimitri templom",
+            "ro": "Biserica Saint-Dimitri",
+            "en": "Église Saint-Dimitri"
+          },
+          "coords": [
+            4.804061,
+            43.38778
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die orthodoxe Architektur dieser charmanten Kirche, ein Zeugnis der griechischen Gemeinschaft der Stadt, und kommen Sie morgens, wenn das Licht am schönsten ist.",
+            "hu": "Csodálja meg a görög közösség örökségét őrző elbűvölő ortodox templom építészetét, és érdemes a reggeli órákban érkezni a legszebb fényekért.",
+            "ro": "Admirați arhitectura ortodoxă a acestei biserici fermecătoare, simbol al comunității elene locale, și vizitați-o dimineața pentru a beneficia de cea mai bună lumină.",
+            "en": "Admire the orthodox architecture of this charming church, a testament to the town's Greek heritage, and visit in the morning when the light is most beautiful."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Louis Turm",
+            "hu": "Saint-Louis Torony",
+            "ro": "Turnul Saint-Louis",
+            "en": "Saint-Louis Tower"
+          },
+          "coords": [
+            4.80523,
+            43.3844
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie vom Dach dieses historischen Wehrturms aus dem 18. Jahrhundert einen Panoramablick über die Camargue und bringen Sie ein Fernglas für die Vogelbeobachtung mit.",
+            "hu": "Élvezze a Camargue-ra nyíló panorámát a 18. századi történelmi védőtorony tetejéről, és hozzon magával távcsövet a madármegfigyeléshez.",
+            "ro": "Bucurați-vă de panorama asupra regiunii Camargue de pe acoperișul acestui turn de apărare din secolul al XVIII-lea și aduceți binoclul pentru observarea păsărilor.",
+            "en": "Enjoy panoramic views of the Camargue from the roof of this historic 18th-century defense tower, and make sure to bring binoculars for birdwatching."
+          }
+        },
+        {
+          "name": {
+            "de": "Domaine de la Palissade",
+            "hu": "Domaine de la Palissade",
+            "ro": "Domaine de la Palissade",
+            "en": "Domaine de la Palissade"
+          },
+          "coords": [
+            4.810513,
+            43.375881
+          ],
+          "category": "landmark",
+          "arrive_at": "11:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses außergewöhnliche Naturschutzgebiet auf dem Pferderücken oder zu Fuß, um die unberührte Flora der Camargue zu sehen, und vergessen Sie das Mückenspray nicht.",
+            "hu": "Fedezze fel ezt a kivételes természetvédelmi területet lóháton vagy gyalogosan, hogy megismerje a Camargue érintetlen flóráját, és ne felejtse el a szúnyogriasztót.",
+            "ro": "Explorați această rezervație naturală de excepție călare sau pe jos pentru a vedea flora neatinsă din Camargue și nu uitați spray-ul împotriva țânțarilor.",
+            "en": "Explore this exceptional nature reserve on horseback or on foot to experience the pristine Camargue flora, and absolutely do not forget your mosquito repellent."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Citron Jaune",
+            "hu": "Le Citron Jaune",
+            "ro": "Le Citron Jaune",
+            "en": "Le Citron Jaune"
+          },
+          "coords": [
+            4.813362,
+            43.391332
+          ],
+          "category": "cultural",
+          "arrive_at": "12:42",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem nationalen Zentrum für Straßenkunst in kreative Innovationen ein, bewundern Sie originelle Installationen und informieren Sie sich über die kostenlosen Workshops im Freien.",
+            "hu": "Merüljön el a kreatív innovációban ebben a nemzeti utcai művészeti központban, csodálja meg az eredeti installációkat, és érdeklődjön az ingyenes szabadtéri workshopokról.",
+            "ro": "Explorați inovațiile creative la acest centru național de arte stradale, admirați instalații originale și interesați-vă de atelierele gratuite în aer liber disponibile.",
+            "en": "Immerse yourself in creative innovation at this national center for street arts, admire original installations, and inquire about their free outdoor workshops."
+          }
+        },
+        {
+          "name": {
+            "de": "PLage Olga",
+            "hu": "PLage Olga",
+            "ro": "PLage Olga",
+            "en": "PLage Olga"
+          },
+          "coords": [
+            4.852775,
+            43.391993
+          ],
+          "category": "recreational",
+          "arrive_at": "14:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem ruhigen und abgelegenen Strand, ideal zum Kitesurfen oder für ein friedliches Picknick am Meer, aber bringen Sie Ihr eigenes Wasser und Snacks mit, da es keine Geschäfte gibt.",
+            "hu": "Pihenjen ezen a csendes, félreeső strandon, amely ideális kiteszörfözéshez vagy egy békés tengerparti piknikhez, de hozzon magával vizet és nasit, mert nincsenek boltok.",
+            "ro": "Relaxați-vă pe această plajă liniștită și izolată, perfectă pentru kitesurfing sau un picnic pașnic, dar aduceți-vă propria apă și gustări deoarece nu există magazine.",
+            "en": "Relax on this quiet and secluded beach, perfect for kitesurfing or a peaceful seaside picnic, but be sure to bring your own water and snacks as there are no shops."
+          }
+        },
+        {
+          "name": {
+            "de": "Wasseraufbereitungsanlage (Naturraum)",
+            "hu": "Víztisztító és vizes élőhely",
+            "ro": "Stația de tratare a apei (Zonă umedă)",
+            "en": "Traitement de l'eau"
+          },
+          "coords": [
+            4.853825,
+            43.41614
+          ],
+          "category": "natural",
+          "arrive_at": "16:10",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie, wie industrielle Wasserwirtschaft hier mit der Natur koexistiert, um Lebensräume für Vögel zu schaffen, und folgen Sie den markierten Wegen, um Störungen zu vermeiden.",
+            "hu": "Fedezze fel, hogyan él együtt az ipari vízgazdálkodás a természettel, madárélőhelyeket teremtve, és szigorúan kövesse a kijelölt ösvényeket a zavarás elkerülése érdekében.",
+            "ro": "Descoperiți modul în care gestionarea apei industriale coexistă cu natura creând habitate pentru păsări și urmați doar traseele marcate pentru a evita deranjarea animalelor.",
+            "en": "Discover how industrial water management coexists with nature to create thriving bird habitats, and be sure to stick strictly to the marked trails to avoid disturbances."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Schwingen Sie sich aufs Rad und entdecken Sie zuerst die Église Saint-Dimitri, bevor Sie zum historischen Saint-Louis-Turm weiterradeln, dem Wahrzeichen der Stadt.\nMidday: Setzen Sie Ihre Fahrt fort und erleben Sie die unberührte Natur auf dem Weg zum Domaine de la Palissade und den kreativen Geist von Le Citron Jaune im Zentrum.\nAfternoon: Verlassen Sie die Stadt in Richtung der Küste und genießen Sie die flache Fahrt zur Plage Olga, wo Sie vom Fahrrad absteigen und die frische Seeluft atmen können.\nEvening: Radeln Sie gemütlich durch die Feuchtgebiete beim Traitement de l'eau, ein überraschendes Paradies für Wasservögel, während die Sonne langsam am Horizont untergeht.",
+        "hu": "Morning: Pattanjon kerékpárra, és fedezze fel a Saint-Dimitri templomot, majd kerekezzen tovább a város ikonikus jelképéhez, a történelmi Saint-Louis toronyhoz.\nMidday: Folytassa útját a lenyűgöző Domaine de la Palissade érintetlen természetében, majd térjen vissza a városba a Le Citron Jaune művészeti élményeiért.\nAfternoon: Hagyja maga mögött a várost a tengerpart felé tartva, és élvezze a sík utat az Olga strandig, ahol leparkolhatja a biciklit és élvezheti a tengert.\nEvening: Kerékpározzon kényelmesen a víztisztító telep körüli vizes élőhelyeken, amely meglepő madárparadicsomként szolgál a naplemente csodálatos fényei alatt.",
+        "ro": "Morning: Urcați pe bicicletă și descoperiți Biserica Saint-Dimitri, înainte de a pedala către Turnul istoric Saint-Louis, cel mai cunoscut punct de reper al orașului.\nMidday: Continuați-vă cursa printre peisajele naturale de la Domaine de la Palissade, urmate de o oprire culturală fascinantă la centrul artistic Le Citron Jaune.\nAfternoon: Părăsiți centrul urban îndreptându-vă spre estuar și bucurați-vă de o plimbare plăcută pe plat către Plaja Olga, simțind briza proaspătă a mării.\nEvening: Pedalați relaxat prin zonele umede din jurul stației de tratare a apei, un paradis surprinzător pentru păsări acvatice la lumina blândă a apusului.",
+        "en": "Morning: Hop on your bike and discover the heritage of Église Saint-Dimitri before pedaling over to the historic Saint-Louis Tower, the town's most prominent landmark.\nMidday: Ride through the pristine natural landscapes of the Domaine de la Palissade, then loop back to soak in the contemporary street art at Le Citron Jaune.\nAfternoon: Leave the town center behind as you head towards the estuary, enjoying a flat and breezy ride to Plage Olga where you can rest by the water's edge.\nEvening: Enjoy a leisurely pedal through the wetlands near the water treatment area, an unexpected haven for aquatic birds, as the sun slowly sets over the marsh."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:49",
+      "total_km": 11.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Salle Gérard Philippe",
+            "hu": "Salle Gérard Philippe",
+            "ro": "Salle Gérard Philippe",
+            "en": "Salle Gérard Philippe"
+          },
+          "coords": [
+            4.799394,
+            43.390666
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie zeitgenössische Aufführungen in diesem lebendigen Kulturzentrum, das Herz der lokalen Kunstszene, aber prüfen Sie das Programm im Voraus online, um keine Shows zu verpassen.",
+            "hu": "Fedezze fel a kortárs előadásokat ebben a pezsgő kulturális központban, a helyi művészeti élet szívében, de előzetesen ellenőrizze a műsort online a jegyekért.",
+            "ro": "Descoperiți spectacole contemporane în acest centru cultural vibrant, inima scenei artistice locale, dar verificați programul online în avans pentru a nu rata evenimentele.",
+            "en": "Discover contemporary performances in this vibrant cultural center, the heart of the local arts scene, but make sure to check the schedule online in advance to catch a show."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Louis Turm",
+            "hu": "Saint-Louis Torony",
+            "ro": "Turnul Saint-Louis",
+            "en": "Saint-Louis Tower"
+          },
+          "coords": [
+            4.80523,
+            43.3844
+          ],
+          "category": "historical",
+          "arrive_at": "10:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie vom Dach dieses historischen Wehrturms aus dem 18. Jahrhundert einen Panoramablick über die Camargue und bringen Sie ein Fernglas für Vogelbeobachtungen mit.",
+            "hu": "Élvezze a Camargue-ra nyíló panorámát a 18. századi történelmi védőtorony tetejéről, és hozzon magával távcsövet a madármegfigyeléshez.",
+            "ro": "Bucurați-vă de panorama asupra regiunii Camargue de pe acoperișul acestui turn de apărare din secolul al XVIII-lea și aduceți binoclul pentru observarea păsărilor.",
+            "en": "Enjoy panoramic views of the Camargue from the roof of this historic 18th-century defense tower, and make sure to bring binoculars for birdwatching."
+          }
+        },
+        {
+          "name": {
+            "de": "Domaine de la Palissade",
+            "hu": "Domaine de la Palissade",
+            "ro": "Domaine de la Palissade",
+            "en": "Domaine de la Palissade"
+          },
+          "coords": [
+            4.810513,
+            43.375881
+          ],
+          "category": "landmark",
+          "arrive_at": "12:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses außergewöhnliche Naturschutzgebiet auf dem Pferderücken oder zu Fuß, um die unberührte Flora der Camargue zu sehen, und vergessen Sie das Mückenspray nicht.",
+            "hu": "Fedezze fel ezt a kivételes természetvédelmi területet lóháton vagy gyalogosan, hogy megismerje a Camargue érintetlen flóráját, és ne felejtse el a szúnyogriasztót.",
+            "ro": "Explorați această rezervație naturală de excepție călare sau pe jos pentru a vedea flora neatinsă din Camargue și nu uitați spray-ul împotriva țânțarilor.",
+            "en": "Explore this exceptional nature reserve on horseback or on foot to experience the pristine Camargue flora, and absolutely do not forget your mosquito repellent."
+          }
+        },
+        {
+          "name": {
+            "de": "PLage Olga",
+            "hu": "PLage Olga",
+            "ro": "PLage Olga",
+            "en": "PLage Olga"
+          },
+          "coords": [
+            4.852775,
+            43.391993
+          ],
+          "category": "recreational",
+          "arrive_at": "13:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem ruhigen und abgelegenen Strand, ideal zum Kitesurfen oder für ein friedliches Picknick am Meer, aber bringen Sie Ihr eigenes Wasser und Snacks mit, da es keine Geschäfte gibt.",
+            "hu": "Pihenjen ezen a csendes, félreeső strandon, amely ideális kiteszörfözéshez vagy egy békés tengerparti piknikhez, de hozzon magával vizet és nasit, mert nincsenek boltok.",
+            "ro": "Relaxați-vă pe această plajă liniștită și izolată, perfectă pentru kitesurfing sau un picnic pașnic, dar aduceți-vă propria apă și gustări deoarece nu există magazine.",
+            "en": "Relax on this quiet and secluded beach, perfect for kitesurfing or a peaceful seaside picnic, but be sure to bring your own water and snacks as there are no shops."
+          }
+        },
+        {
+          "name": {
+            "de": "Napoleon Beach",
+            "hu": "Napoleon Strand",
+            "ro": "Plaja Napoleon",
+            "en": "Napoleon Beach"
+          },
+          "coords": [
+            4.886358,
+            43.356414
+          ],
+          "category": "natural",
+          "arrive_at": "15:04",
+          "stay_min": 105,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende Weite dieses zehn Kilometer langen Sandstrandes, an dem man wunderbar schwimmen kann, und parken Sie am Rand, um nicht im tiefen Sand stecken zu bleiben.",
+            "hu": "Élvezze ennek a tíz kilométer hosszú homokos strandnak a lenyűgöző tágasságát, amely kiváló fürdőzésre, és parkoljon a szélén, nehogy elakadjon a mély homokban.",
+            "ro": "Bucurați-vă de vastitatea uluitoare a acestei plaje de nisip lungă de zece kilometri, excelentă pentru înot, și parcați pe margine pentru a nu vă bloca în nisipul adânc.",
+            "en": "Enjoy the breathtaking vastness of this ten-kilometer sandy beach, which is excellent for swimming, and park near the edge to avoid getting stuck in the deep sand."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Nutzen Sie Ihr Auto, um die lokalen Highlights zu erkunden, angefangen bei der Salle Gérard Philippe und einer kurzen Fahrt zum historischen Turm Saint-Louis.\nMidday: Fahren Sie weiter in die wilde Natur des Domaine de la Palissade, ein riesiges Gebiet, das am besten mit dem Auto zu erreichen ist, um viel Zeit für Spaziergänge zu haben.\nAfternoon: Eine kurze Fahrt nach Osten bringt Sie zur Plage Olga, einem malerischen Küstenabschnitt, der perfekt ist, um den rauen Charme der Strände der Camargue zu erleben.\nEvening: Beenden Sie Ihren Roadtrip mit einer Fahrt zum weitläufigen Napoleon Beach, wo Sie direkt am endlosen Sand parken und den friedlichen Sonnenuntergang genießen können.",
+        "hu": "Morning: Használja ki az autót a helyi látnivalók kényelmes felfedezéséhez, a Salle Gérard Philippe-től egy rövid utazással a történelmi Saint-Louis toronyhoz érkezve.\nMidday: Vezessen tovább a Domaine de la Palissade vadregényes tájaira, amelyhez a legjobb autóval érkezni, így rengeteg idő marad a békés természetjárásra.\nAfternoon: Egy rövid keleti autózás eljuttatja a festői Olga strandra, amely tökéletes helyszín arra, hogy átélje a Camargue partvidékének nyers varázsát.\nEvening: Fejezze be autós kirándulását a hatalmas Napoleon strandnál, ahol közvetlenül a végtelen homoknál parkolhat, és gyönyörködhet az esti tenger nyugalmában.",
+        "ro": "Morning: Folosiți mașina pentru a explora atracțiile locale cu ușurință, de la spectacolele de la Salle Gérard Philippe la o scurtă oprire la istoricul Turn Saint-Louis.\nMidday: Conduceți spre natura sălbatică de la Domaine de la Palissade, o zonă imensă unde mașina vă oferă confortul de a petrece mai mult timp explorând rezervația pe jos.\nAfternoon: O scurtă cursă spre est vă va duce la Plaja Olga, o porțiune de coastă pitorească, ideală pentru a simți farmecul brut și neîmblânzit al regiunii Camargue.\nEvening: Încheiați excursia conducând spre imensa Plajă Napoleon, unde puteți parca direct lângă nisipul nesfârșit pentru a admira un apus de soare grandios.",
+        "en": "Morning: Use your car to easily navigate the local highlights, starting at Salle Gérard Philippe before making a quick drive over to the historic Saint-Louis Tower.\nMidday: Drive further out into the wild nature of the Domaine de la Palissade, a vast area where having a car allows you maximum time for peaceful nature walks.\nAfternoon: A short drive east brings you to Plage Olga, a picturesque coastal stretch that is perfect for experiencing the raw and untamed charm of the Camargue.\nEvening: Conclude your road trip by cruising down to the expansive Napoleon Beach, parking right by the endless sands to watch a truly majestic and peaceful sunset."
+      }
+    }
+  }
+}

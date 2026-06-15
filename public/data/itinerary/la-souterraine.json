@@ -1,0 +1,451 @@
+{
+  "city_id": "la-souterraine",
+  "anchor": {
+    "name": "La Souterraine",
+    "coords": [
+      1.4856,
+      46.2381
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:59",
+      "total_km": 4.25,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Notre-Dame Kirche",
+            "hu": "Notre-Dame templom",
+            "ro": "Biserica Notre-Dame",
+            "en": "Notre-Dame Church"
+          },
+          "coords": [
+            1.486256,
+            46.23749
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Mischung aus romanischer und gotischer Architektur in dieser Kirche und prüfen Sie vorab die Öffnungszeiten der Krypta.",
+            "hu": "Csodálja meg e történelmi templom lenyűgöző román és gótikus építészeti jegyeit, és látogatás előtt mindenképpen ellenőrizze a kripta nyitvatartását.",
+            "ro": "Admirați amestecul impresionant de arhitectură romanică și gotică din această biserică istorică și verificați programul criptei înainte de vizită.",
+            "en": "Admire the striking mix of Romanesque and Gothic architecture in this historic church, and be sure to check the crypt opening times before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Micro Folie",
+            "hu": "Micro Folie",
+            "ro": "Micro Folie",
+            "en": "Micro Folie"
+          },
+          "coords": [
+            1.48987,
+            46.237366
+          ],
+          "category": "museum",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem innovativen virtuellen Museum eine Fülle digitaler Kunstwerke und nutzen Sie die kostenlosen Tablets, die am Eingang bereitliegen.",
+            "hu": "Fedezze fel a digitális művészeti remekművek sokaságát ebben az innovatív virtuális múzeumban, kihasználva a bejáratnál ingyenesen biztosított táblagépeket.",
+            "ro": "Descoperiți o multitudine de capodopere de artă digitală în acest muzeu virtual inovator, profitând de tabletele gratuite oferite la intrare.",
+            "en": "Discover a wealth of digital art masterpieces in this innovative virtual museum, taking advantage of the free digital tablets provided at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Hamac",
+            "hu": "Hamac",
+            "ro": "Hamac",
+            "en": "Hamac"
+          },
+          "coords": [
+            1.484797,
+            46.24107
+          ],
+          "category": "family",
+          "arrive_at": "11:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Genießen Sie eine erholsame Familienpause an diesem einladenden Ort, aber denken Sie daran, eigene Wasserflaschen und Snacks für den Nachmittag mitzubringen.",
+            "hu": "Élvezze a pihentető családi szünetet ezen a barátságos rekreációs helyen, de ne felejtsen el saját vizespalackot és rágcsálnivalót hozni a kényelem érdekében.",
+            "ro": "Bucurați-vă de o pauză relaxantă în familie în acest spațiu primitor, dar nu uitați să aduceți propriile sticle cu apă și gustări pentru a vă simți bine.",
+            "en": "Enjoy a relaxing family break in this welcoming recreational spot, but remember to bring your own water bottles and snacks for a comfortable afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittelalterlicher Grenzstein von Jéraphie",
+            "hu": "Jéraphie középkori határkő",
+            "ro": "Borna medievală de la Jéraphie",
+            "en": "Medieval Boundary Stone of Jéraphie"
+          },
+          "coords": [
+            1.487568,
+            46.226531
+          ],
+          "category": "historical",
+          "arrive_at": "13:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diesen echten mittelalterlichen Grenzstein, der einst alte Gebiete markierte, und tragen Sie festes Schuhwerk, da der Weg uneben sein kann.",
+            "hu": "Vizsgálja meg ezt az eredeti középkori határkövet, amely egykor ősi területeket jelölt, és viseljen túracipőt, mivel az ide vezető ösvény meglehetősen egyenetlen.",
+            "ro": "Examinați această bornă medievală autentică ce marca odinioară teritoriile antice și purtați încălțăminte de drumeție, deoarece poteca poate fi denivelată.",
+            "en": "Examine this authentic medieval boundary stone that once marked ancient territories, and wear sturdy walking shoes as the surrounding path can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Clairière",
+            "hu": "Château de la Clairière",
+            "ro": "Château de la Clairière",
+            "en": "Château de la Clairière"
+          },
+          "coords": [
+            1.46466,
+            46.220584
+          ],
+          "category": "castle",
+          "arrive_at": "15:09",
+          "stay_min": 110,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Fassade dieses bezaubernden Landschlosses und kommen Sie früh oder am späten Nachmittag, um das beste Fotolicht einzufangen.",
+            "hu": "Csodálja meg e hangulatos vidéki kastély elegáns homlokzatát, és érkezzen kora reggel vagy késő délután, hogy a legjobb fényviszonyok között fotózhasson.",
+            "ro": "Admirați fațada elegantă a acestui castel fermecător și ajungeți dimineața devreme sau după-amiaza târziu pentru a prinde cea mai bună lumină pentru fotografii.",
+            "en": "Marvel at the elegant facade of this charming countryside castle, and arrive early in the morning or late afternoon to capture the best lighting for photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der architektonischen Schönheit der Kirche Notre-Dame, bevor Sie die digitalen Wunder der Micro Folie erkunden. Mittags entspannen Sie sich im familienfreundlichen Hamac-Bereich. Der Nachmittag ist der Entdeckung der Borne médiévale de la Jéraphie gewidmet, einem echten Stück Lokalgeschichte. Beenden Sie Ihre Wanderung mit einem Spaziergang zum charmanten Château de la Clairière, wenn der Abend naht.",
+        "hu": "Kezdje a reggelt a Notre-Dame templom építészeti szépségeinek felfedezésével, majd irány a Micro Folie digitális világa. A délben a családbarát Hamac területén pihenhet egyet. A délután a Borne médiévale de la Jéraphie felfedezésének van szentelve, amely a helyi történelem hiteles darabja. Sétáljon el az esti órák közeledtével a bájos Château de la Clairière kastélyhoz, amivel tökéletesen zárhatja a napot.",
+        "ro": "Începeți dimineața aprofundând frumusețea arhitecturală a bisericii Notre-Dame înainte de a explora minunile digitale de la Micro Folie. La amiază, relaxați-vă în zona prietenoasă Hamac. După-amiaza este dedicată descoperirii bornei medievale de la Jéraphie, o bucată autentică de istorie locală. Încheiați-vă plimbarea cu o vizită la fermecătorul Château de la Clairière odată cu lăsarea serii.",
+        "en": "Start your morning delving into the architectural beauty of Notre-Dame Church before exploring the digital wonders at Micro Folie. Midday brings you to the family-friendly Hamac area for a relaxing break and a quick lunch. The afternoon is dedicated to discovering the Borne médiévale de la Jéraphie, an authentic piece of local history. Conclude your walking journey with a pleasant stroll to the charming Château de la Clairière as evening approaches."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:46",
+      "total_km": 5.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bridiers Turm",
+            "hu": "Bridiers torony",
+            "ro": "Turnul Bridiers",
+            "en": "Bridiers Tower"
+          },
+          "coords": [
+            1.512642,
+            46.241077
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Steigen Sie auf diesen imposanten mittelalterlichen Turm für einen Panoramablick, aber seien Sie auf eine steile und recht enge Wendeltreppe vorbereitet.",
+            "hu": "Másszon fel ezen impozáns középkori öregtorony tetejére a panorámás kilátásért, de készüljön fel a meredek és szűk csigalépcsőn való felfelé vezető útra.",
+            "ro": "Urcați în vârful acestui turn medieval impunător pentru vederi panoramice, dar pregătiți-vă pentru o ascensiune pe o scară în spirală abruptă și îngustă.",
+            "en": "Climb to the top of this imposing medieval keep for panoramic views of the countryside, but be prepared for a steep and narrow spiral staircase ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Bridiers",
+            "hu": "Château de Bridiers",
+            "ro": "Château de Bridiers",
+            "en": "Château de Bridiers"
+          },
+          "coords": [
+            1.513924,
+            46.242194
+          ],
+          "category": "landmark",
+          "arrive_at": "10:31",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die faszinierenden Ruinen dieses historischen Wahrzeichens und lesen Sie in Ruhe die informativen Tafeln über sein feudales Erbe.",
+            "hu": "Sétáljon e történelmi komplexum lenyűgöző romjai között, és szánjon időt a feudális örökséget részletesen bemutató információs táblák elolvasására.",
+            "ro": "Plimbați-vă printre ruinele fascinante ale acestui complex istoric, făcându-vă timp să citiți plăcuțele informative ce detaliază bogata sa moștenire feudală.",
+            "en": "Walk among the fascinating ruins of this historical landmark complex, taking your time to read the informative plaques detailing its feudal heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame Kirche",
+            "hu": "Notre-Dame templom",
+            "ro": "Biserica Notre-Dame",
+            "en": "Notre-Dame Church"
+          },
+          "coords": [
+            1.486256,
+            46.23749
+          ],
+          "category": "religious",
+          "arrive_at": "10:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Mischung aus romanischer und gotischer Architektur in dieser Kirche und prüfen Sie vorab die Öffnungszeiten der Krypta.",
+            "hu": "Csodálja meg e történelmi templom lenyűgöző román és gótikus építészeti jegyeit, és látogatás előtt mindenképpen ellenőrizze a kripta nyitvatartását.",
+            "ro": "Admirați amestecul impresionant de arhitectură romanică și gotică din această biserică istorică și verificați programul criptei înainte de vizită.",
+            "en": "Admire the striking mix of Romanesque and Gothic architecture in this historic church, and be sure to check the crypt opening times before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Micro Folie",
+            "hu": "Micro Folie",
+            "ro": "Micro Folie",
+            "en": "Micro Folie"
+          },
+          "coords": [
+            1.48987,
+            46.237366
+          ],
+          "category": "museum",
+          "arrive_at": "11:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem innovativen virtuellen Museum eine Fülle digitaler Kunstwerke und nutzen Sie die kostenlosen Tablets, die am Eingang bereitliegen.",
+            "hu": "Fedezze fel a digitális művészeti remekművek sokaságát ebben az innovatív virtuális múzeumban, kihasználva a bejáratnál ingyenesen biztosított táblagépeket.",
+            "ro": "Descoperiți o multitudine de capodopere de artă digitală în acest muzeu virtual inovator, profitând de tabletele gratuite oferite la intrare.",
+            "en": "Discover a wealth of digital art masterpieces in this innovative virtual museum, taking advantage of the free digital tablets provided at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittelalterlicher Grenzstein von Jéraphie",
+            "hu": "Jéraphie középkori határkő",
+            "ro": "Borna medievală de la Jéraphie",
+            "en": "Medieval Boundary Stone of Jéraphie"
+          },
+          "coords": [
+            1.487568,
+            46.226531
+          ],
+          "category": "historical",
+          "arrive_at": "13:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diesen echten mittelalterlichen Grenzstein, der einst alte Gebiete markierte, und tragen Sie festes Schuhwerk, da der Weg uneben sein kann.",
+            "hu": "Vizsgálja meg ezt az eredeti középkori határkövet, amely egykor ősi területeket jelölt, és viseljen túracipőt, mivel az ide vezető ösvény meglehetősen egyenetlen.",
+            "ro": "Examinați această bornă medievală autentică ce marca odinioară teritoriile antice și purtați încălțăminte de drumeție, deoarece poteca poate fi denivelată.",
+            "en": "Examine this authentic medieval boundary stone that once marked ancient territories, and wear sturdy walking shoes as the surrounding path can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Clairière",
+            "hu": "Château de la Clairière",
+            "ro": "Château de la Clairière",
+            "en": "Château de la Clairière"
+          },
+          "coords": [
+            1.46466,
+            46.220584
+          ],
+          "category": "castle",
+          "arrive_at": "14:56",
+          "stay_min": 110,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Fassade dieses bezaubernden Landschlosses und kommen Sie früh oder am späten Nachmittag, um das beste Fotolicht einzufangen.",
+            "hu": "Csodálja meg e hangulatos vidéki kastély elegáns homlokzatát, és érkezzen kora reggel vagy késő délután, hogy a legjobb fényviszonyok között fotózhasson.",
+            "ro": "Admirați fațada elegantă a acestui castel fermecător și ajungeți dimineața devreme sau după-amiaza târziu pentru a prinde cea mai bună lumină pentru fotografii.",
+            "en": "Marvel at the elegant facade of this charming countryside castle, and arrive early in the morning or late afternoon to capture the best lighting for photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Fahrradabenteuer beginnt am majestätischen Bridiers-Turm mit seiner morgendlichen Aussicht, gefolgt von den benachbarten Schlossruinen. Fahren Sie mittags ins Zentrum, um die Kirche Notre-Dame und die Micro Folie zu besuchen. Am Nachmittag radeln Sie zur historischen Borne médiévale de la Jéraphie. Ihr abendliches Ziel auf dieser Tour ist schließlich das elegant wirkende Château de la Clairière im Grünen.",
+        "hu": "Kerékpáros kalandja a fenséges Bridiers-toronynál kezdődik, ahonnan remek kilátás nyílik, majd a szomszédos kastélyromokat tekintheti meg. Délben tekerjen a központba, hogy megcsodálja a Notre-Dame templomot és a Micro Folie kiállításait. Délután látogasson el az ősi Borne médiévale de la Jéraphie határkőhöz. Az esti célpont ezen az izgalmas útvonalon az elegáns Château de la Clairière lesz.",
+        "ro": "Aventura dumneavoastră pe bicicletă începe la maiestuosul Turn Bridiers, urmat de o scurtă privire asupra ruinelor castelului adiacent. La prânz, mergeți spre centru pentru a admira Biserica Notre-Dame și a vizita Micro Folie. După-amiaza, pedalați către străvechea bornă medievală de la Jéraphie. Destinația finală a serii este elegantul Château de la Clairière, perfect pentru a încheia ziua cu stil.",
+        "en": "Your cycling adventure begins at the majestic Bridiers Tower, offering a commanding morning view, followed by a quick look at the adjacent Château ruins. Ride into the center midday to admire the historic Notre-Dame Church and enjoy the interactive exhibits at Micro Folie. In the afternoon, pedal your way to the ancient Borne médiévale de la Jéraphie. Your final evening destination is the elegant Château de la Clairière."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:27",
+      "total_km": 16.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Château de la Clairière",
+            "hu": "Château de la Clairière",
+            "ro": "Château de la Clairière",
+            "en": "Château de la Clairière"
+          },
+          "coords": [
+            1.46466,
+            46.220584
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Fassade dieses bezaubernden Landschlosses und kommen Sie früh oder am späten Nachmittag, um das beste Fotolicht einzufangen.",
+            "hu": "Csodálja meg e hangulatos vidéki kastély elegáns homlokzatát, és érkezzen kora reggel vagy késő délután, hogy a legjobb fényviszonyok között fotózhasson.",
+            "ro": "Admirați fațada elegantă a acestui castel fermecător și ajungeți dimineața devreme sau după-amiaza târziu pentru a prinde cea mai bună lumină pentru fotografii.",
+            "en": "Marvel at the elegant facade of this charming countryside castle, and arrive early in the morning or late afternoon to capture the best lighting for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de Chabannes",
+            "hu": "Étang de Chabannes",
+            "ro": "Étang de Chabannes",
+            "en": "Étang de Chabannes"
+          },
+          "coords": [
+            1.480899,
+            46.166125
+          ],
+          "category": "natural",
+          "arrive_at": "10:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.1,
+          "tip_5lang": {
+            "de": "Machen Sie einen ruhigen Spaziergang um diesen friedlichen Naturteich, der sich zur Vogelbeobachtung eignet, und packen Sie ein Picknick für die Pause ein.",
+            "hu": "Tegyen egy békés sétát e nyugodt, madármegfigyelésre is kiváló természetes tó körül, és vigyen magával egy könnyű pikniket, amit a vízparton elfogyaszthat.",
+            "ro": "Faceți o plimbare liniștită în jurul acestui iaz natural, perfect pentru observarea păsărilor, și aduceți un mic picnic pentru a vă relaxa lângă apă.",
+            "en": "Take a peaceful stroll around this tranquil natural pond perfect for birdwatching, and pack a light picnic to enjoy by the water during the warmer hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Mittelalterlicher Grenzstein von Jéraphie",
+            "hu": "Jéraphie középkori határkő",
+            "ro": "Borna medievală de la Jéraphie",
+            "en": "Medieval Boundary Stone of Jéraphie"
+          },
+          "coords": [
+            1.487568,
+            46.226531
+          ],
+          "category": "historical",
+          "arrive_at": "12:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 6.7,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diesen echten mittelalterlichen Grenzstein, der einst alte Gebiete markierte, und tragen Sie festes Schuhwerk, da der Weg uneben sein kann.",
+            "hu": "Vizsgálja meg ezt az eredeti középkori határkövet, amely egykor ősi területeket jelölt, és viseljen túracipőt, mivel az ide vezető ösvény meglehetősen egyenetlen.",
+            "ro": "Examinați această bornă medievală autentică ce marca odinioară teritoriile antice și purtați încălțăminte de drumeție, deoarece poteca poate fi denivelată.",
+            "en": "Examine this authentic medieval boundary stone that once marked ancient territories, and wear sturdy walking shoes as the surrounding path can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame Kirche",
+            "hu": "Notre-Dame templom",
+            "ro": "Biserica Notre-Dame",
+            "en": "Notre-Dame Church"
+          },
+          "coords": [
+            1.486256,
+            46.23749
+          ],
+          "category": "religious",
+          "arrive_at": "13:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Mischung aus romanischer und gotischer Architektur in dieser Kirche und prüfen Sie vorab die Öffnungszeiten der Krypta.",
+            "hu": "Csodálja meg e történelmi templom lenyűgöző román és gótikus építészeti jegyeit, és látogatás előtt mindenképpen ellenőrizze a kripta nyitvatartását.",
+            "ro": "Admirați amestecul impresionant de arhitectură romanică și gotică din această biserică istorică și verificați programul criptei înainte de vizită.",
+            "en": "Admire the striking mix of Romanesque and Gothic architecture in this historic church, and be sure to check the crypt opening times before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Bridiers Turm",
+            "hu": "Bridiers torony",
+            "ro": "Turnul Bridiers",
+            "en": "Bridiers Tower"
+          },
+          "coords": [
+            1.512642,
+            46.241077
+          ],
+          "category": "historical",
+          "arrive_at": "14:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Steigen Sie auf diesen imposanten mittelalterlichen Turm für einen Panoramablick, aber seien Sie auf eine steile und recht enge Wendeltreppe vorbereitet.",
+            "hu": "Másszon fel ezen impozáns középkori öregtorony tetejére a panorámás kilátásért, de készüljön fel a meredek és szűk csigalépcsőn való felfelé vezető útra.",
+            "ro": "Urcați în vârful acestui turn medieval impunător pentru vederi panoramice, dar pregătiți-vă pentru o ascensiune pe o scară în spirală abruptă și îngustă.",
+            "en": "Climb to the top of this imposing medieval keep for panoramic views of the countryside, but be prepared for a steep and narrow spiral staircase ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Bridiers",
+            "hu": "Château de Bridiers",
+            "ro": "Château de Bridiers",
+            "en": "Château de Bridiers"
+          },
+          "coords": [
+            1.513924,
+            46.242194
+          ],
+          "category": "landmark",
+          "arrive_at": "15:42",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die faszinierenden Ruinen dieses historischen Wahrzeichens und lesen Sie in Ruhe die informativen Tafeln über sein feudales Erbe.",
+            "hu": "Sétáljon e történelmi komplexum lenyűgöző romjai között, és szánjon időt a feudális örökséget részletesen bemutató információs táblák elolvasására.",
+            "ro": "Plimbați-vă printre ruinele fascinante ale acestui complex istoric, făcându-vă timp să citiți plăcuțele informative ce detaliază bogata sa moștenire feudală.",
+            "en": "Walk among the fascinating ruins of this historical landmark complex, taking your time to read the informative plaques detailing its feudal heritage."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Roadtrip am malerischen Château de la Clairière und fahren Sie dann nach Süden zum Étang de Chabannes. Gegen Mittag erreichen Sie die Borne médiévale de la Jéraphie, bevor Sie im Stadtzentrum die Kirche Notre-Dame besichtigen. Verbringen Sie den späten Nachmittag damit, den beeindruckenden Bridiers-Turm zu erkunden und bei Sonnenuntergang durch die historischen Ruinen des Château de Bridiers zu schlendern.",
+        "hu": "Kezdje autós utazását a festői Château de la Clairière-nél, majd vezessen délre, az Étang de Chabannes természetes nyugalmához. Délben látogasson el a Borne médiévale de la Jéraphie-hez, mielőtt a városközpontban megnézné a Notre-Dame templomot. A késő délutánt a lenyűgöző Bridiers-torony felfedezésével és a Château de Bridiers történelmi romjai közötti sétával töltheti.",
+        "ro": "Începeți excursia cu mașina la pitorescul Château de la Clairière, apoi conduceți spre sud până la liniștitul Étang de Chabannes. La amiază, îndreptați-vă spre borna medievală de la Jéraphie înainte de a vizita Biserica Notre-Dame din centru. Petreceți-vă după-amiaza explorând impresionantul Turn Bridiers și rătăcind printre ruinele istorice ale Château de Bridiers la apus.",
+        "en": "Kick off your road trip at the picturesque Château de la Clairière, then drive south to immerse yourself in the natural tranquility of Étang de Chabannes. By midday, make your way to the Borne médiévale de la Jéraphie before heading to the town center to visit Notre-Dame Church. Spend your late afternoon exploring the impressive Bridiers Tower and wandering through the historic ruins of Château de Bridiers as the sun sets."
+      }
+    }
+  }
+}

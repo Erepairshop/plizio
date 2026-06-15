@@ -1,0 +1,543 @@
+{
+  "city_id": "samarinda-cities-v2",
+  "anchor": {
+    "name": "Samarinda",
+    "coords": [
+      117.153,
+      -0.472
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:31",
+      "total_km": 3.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Gereja GPMII",
+            "hu": "Gereja GPMII",
+            "ro": "Gereja GPMII",
+            "en": "Gereja GPMII"
+          },
+          "coords": [
+            117.155719,
+            -0.505402
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, aber elegante Architektur dieser protestantischen Kirche und werfen Sie einen Blick auf das Gemeindebrett für aktuelle lokale Ereignisse.",
+            "hu": "Csodálja meg ennek a helyi protestáns templomnak az egyszerű, mégis elegáns építészetét, és nézze meg a közösségi hirdetőtáblát a helyi eseményekért.",
+            "ro": "Admirați arhitectura simplă, dar elegantă a acestei biserici protestante locale și verificați avizierul comunitar pentru a înțelege viața vibrantă a cartierului.",
+            "en": "Admire the simple yet elegant architecture of this local Protestant church, where you should check the community board to understand the neighborhood's vibrant life."
+          }
+        },
+        {
+          "name": {
+            "de": "Klenteng Thien Ie Kong",
+            "hu": "Klenteng Thien Ie Kong",
+            "ro": "Klenteng Thien Ie Kong",
+            "en": "Klenteng Thien Ie Kong"
+          },
+          "coords": [
+            117.156393,
+            -0.507785
+          ],
+          "category": "religious",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie das reiche Kulturerbe in diesem reich verzierten chinesischen Tempel und bewundern Sie die filigranen Holzschnitzereien sowie die leuchtend roten Laternen.",
+            "hu": "Fedezze fel a gazdag kulturális örökséget ebben a díszes kínai templomban, és szánjon időt a bonyolult fafaragások és az élénk piros lámpások megcsodálására fotózás előtt.",
+            "ro": "Experimentați bogatul patrimoniu cultural la acest templu chinezesc bogat ornat, alocând un moment pentru a aprecia sculpturile complicate în lemn și felinarele roșii.",
+            "en": "Experience the rich cultural heritage at this ornate Chinese temple, taking a moment to appreciate the intricate wood carvings and vibrant red lanterns before taking photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Pusat Kerajinan Tenun Sarung Samarinda",
+            "hu": "Pusat Kerajinan Tenun Sarung Samarinda",
+            "ro": "Pusat Kerajinan Tenun Sarung Samarinda",
+            "en": "Pusat Kerajinan Tenun Sarung Samarinda"
+          },
+          "coords": [
+            117.151245,
+            -0.514504
+          ],
+          "category": "cultural",
+          "arrive_at": "10:49",
+          "stay_min": 60,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie die minutiöse Kunst des traditionellen Webens in diesem Kulturzentrum und kaufen Sie am besten einen handgewebten Sarong direkt von den lokalen Kunsthandwerkern.",
+            "hu": "Fedezze fel a hagyományos szövés aprólékos művészetét ebben a kulturális központban, ahol érdemes egy kézzel szőtt sarongot vásárolni közvetlenül a helyi kézművesektől.",
+            "ro": "Descoperiți arta meticuloasă a țesutului tradițional la acest centru cultural vibrant, de unde ar trebui să cumpărați un sarong țesut manual direct de la artizani.",
+            "en": "Discover the meticulous art of traditional weaving at this vibrant cultural center, where you should purchase a handwoven sarong directly from the local artisans."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Sirathal Mustaqiem",
+            "hu": "Masjid Sirathal Mustaqiem",
+            "ro": "Masjid Sirathal Mustaqiem",
+            "en": "Masjid Sirathal Mustaqiem"
+          },
+          "coords": [
+            117.152134,
+            -0.515627
+          ],
+          "category": "religious",
+          "arrive_at": "11:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie die älteste Moschee Samarindas mit ihrer einzigartigen Holzarchitektur, aber denken Sie an bescheidene Kleidung und respektieren Sie die örtlichen Gebetszeiten.",
+            "hu": "Látogasson el Samarinda legrégebbi mecsetjébe, hogy megcsodálja egyedi faépítészetét, de ne felejtsen el szerényen öltözni és tiszteletben tartani a helyi imaidőket.",
+            "ro": "Vizitați cea mai veche moschee din Samarinda pentru a vedea arhitectura sa din lemn, dar amintiți-vă să vă îmbrăcați modest și să respectați orele de rugăciune locale.",
+            "en": "Visit the oldest mosque in Samarinda to witness its unique wooden architecture, but remember to dress modestly and respect the prayer times when exploring the interiors."
+          }
+        },
+        {
+          "name": {
+            "de": "Gereja Toraja",
+            "hu": "Gereja Toraja",
+            "ro": "Gereja Toraja",
+            "en": "Gereja Toraja"
+          },
+          "coords": [
+            117.1591,
+            -0.519843
+          ],
+          "category": "religious",
+          "arrive_at": "12:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Beobachten Sie die faszinierende Mischung aus christlichem Glauben und traditioneller Toraja-Architektur an dieser Kirche und achten Sie besonders auf die spezielle Dachform.",
+            "hu": "Figyelje meg a keresztény hit és a hagyományos toraja építészeti elemek lenyűgöző keverékét ennél a templomnál, különös figyelmet fordítva a tető egyedi szerkezetére.",
+            "ro": "Observați amestecul fascinant dintre credința creștină și elementele arhitecturale tradiționale Toraja la această biserică, acordând atenție structurii unice a acoperișului.",
+            "en": "Observe the fascinating blend of Christian faith and traditional Torajan architectural elements at this church, paying close attention to the uniquely shaped roof structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Jembatan Mahkota 2",
+            "hu": "Jembatan Mahkota 2",
+            "ro": "Jembatan Mahkota 2",
+            "en": "Jembatan Mahkota 2"
+          },
+          "coords": [
+            117.166307,
+            -0.525799
+          ],
+          "category": "historical",
+          "arrive_at": "13:41",
+          "stay_min": 110,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie über diese historische Brücke, um einen weiten Panoramablick auf den Mahakam-Fluss zu genießen, und planen Sie Ihren Besuch am besten für den späten Nachmittag.",
+            "hu": "Sétáljon végig ezen a történelmi hídon, hogy élvezze a Mahakam folyó panorámáját, és időzítse látogatását a késő délutáni órákra, hogy elcsípje a lenyűgöző naplementét.",
+            "ro": "Plimbați-vă pe acest pod istoric pentru a vă bucura de vederi panoramice ale râului Mahakam, asigurându-vă că vizitați după-amiaza târziu pentru un apus de soare spectaculos.",
+            "en": "Walk along this historic bridge to enjoy sweeping panoramic views of the Mahakam River, making sure to time your visit for the late afternoon to catch the spectacular sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen unsere Wanderung im spirituellen Herzen der Stadt an der Gereja GPMII und erkunden das lebendige Viertel, bevor wir zum reich verzierten Klenteng Thien Ie Kong gehen.\n\nZur Mittagszeit widmen wir uns der lokalen Handwerkskunst. Das traditionelle Webzentrum bietet die perfekte Gelegenheit, erfahrene Kunsthandwerker bei der Arbeit zu beobachten.\n\nAm Nachmittag zeigen die historische Masjid Sirathal Mustaqiem und die Gereja Toraja die bemerkenswerte architektonische Vielfalt und religiöse Harmonie der lokalen Kultur.\n\nUnser Rundgang endet, während wir zur Jembatan Mahkota 2 schlendern. Der weite Blick über den Mahakam-Fluss bietet hier eine malerische Kulisse für den Ausklang des Tages.",
+        "hu": "Gyalogos utunkat a város spirituális szívében, a Gereja GPMII templomnál kezdjük, majd a nyüzsgő környék felfedezése után a díszes Klenteng Thien Ie Kong felé vesszük az irányt.\n\nAhogy közeledik a dél, a helyi kézművesség felé fordulunk. A hagyományos szövőközpont tökéletes lehetőséget nyújt a mesterek bonyolult Sarong szöveteken végzett munkájának megfigyelésére.\n\nDélután a történelmi Masjid Sirathal Mustaqiem és a Gereja Toraja bizonyítja azt a figyelemre méltó építészeti sokszínűséget és vallási harmóniát, amely a helyi kultúrát jellemzi.\n\nSétánk a Jembatan Mahkota 2 felé közeledve ér véget. Itt a Mahakam folyóra nyíló panoráma festői hátteret biztosít a felfedezéssel teli, tartalmas nap lezárásához és átgondolásához.",
+        "ro": "Ne începem călătoria pe jos în inima spirituală a orașului la Gereja GPMII, explorând cartierul vibrant înainte de a ne muta la Klenteng Thien Ie Kong, bogat ornamentat.\n\nPe măsură ce se apropie prânzul, ne îndreptăm spre măiestria locală. Centrul tradițional de țesut oferă o oportunitate perfectă de a vedea artizanii pricepuți la lucru.\n\nDupă-amiaza, istorica Masjid Sirathal Mustaqiem și Gereja Toraja demonstrează remarcabila diversitate arhitecturală și armonia religioasă care caracterizează cultura locală.\n\nTurul nostru se încheie în timp ce ne plimbăm spre Jembatan Mahkota 2. Aici, priveliștile panoramice asupra râului Mahakam oferă un fundal pitoresc pentru a reflecta asupra zilei.",
+        "en": "We start our walking journey in the spiritual heart of the city at Gereja GPMII, exploring the vibrant neighborhood before moving to the vividly ornate Klenteng Thien Ie Kong.\n\nAs mid-day approaches, we transition towards local craftsmanship. The traditional weaving center provides a perfect opportunity to see skilled artisans working on complex Sarong fabrics.\n\nIn the afternoon, the historical Masjid Sirathal Mustaqiem and Gereja Toraja demonstrate the remarkable architectural diversity and religious harmony that characterize the local culture.\n\nOur walking tour concludes as we stroll toward Jembatan Mahkota 2. Here, the sweeping views over the Mahakam River offer a picturesque backdrop to reflect on a rewarding day of exploration."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 10.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Samarinda Museum",
+            "hu": "Samarinda Múzeum",
+            "ro": "Muzeul Samarinda",
+            "en": "Samarinda Museum"
+          },
+          "coords": [
+            117.144388,
+            -0.495886
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Geschichte der Stadt ein und beginnen Sie Ihren Rundgang am besten im Erdgeschoss, um den chronologischen Ausstellungen optimal zu folgen.",
+            "hu": "Merüljön el a város lenyűgöző történelmében a jól megőrzött tárgyakon keresztül, és kezdje a túrát a földszinten, hogy zökkenőmentesen kövesse a kronológiai kiállításokat.",
+            "ro": "Pătrundeți în istoria fascinantă a orașului prin artefacte bine conservate și începeți turul la parter pentru a urmări fără probleme expozițiile așezate cronologic.",
+            "en": "Delve into the fascinating history of the city through well-preserved artifacts, and start your tour on the ground floor to follow the chronological exhibits seamlessly."
+          }
+        },
+        {
+          "name": {
+            "de": "Tambangan Monument",
+            "hu": "Tambangan Emlékmű",
+            "ro": "Monumentul Tambangan",
+            "en": "Tambangan Monument"
+          },
+          "coords": [
+            117.133766,
+            -0.501493
+          ],
+          "category": "historical",
+          "arrive_at": "10:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Verweilen Sie an diesem Denkmal der lokalen Flussschifffahrt und lesen Sie die Tafeln, um die Bedeutung der historischen Wasserwege in dieser Region vollständig zu erfassen.",
+            "hu": "Álljon meg ennél a történelmi emlékműnél, amely a helyi folyami hajózás örökségének állít emléket, és olvassa el a részletes táblákat a vízi utak fontosságának megértéséhez.",
+            "ro": "Opriți-vă la acest monument istoric care comemorează moștenirea ambarcațiunilor fluviale și citiți plăcile detaliate pentru a înțelege importanța căilor navigabile locale.",
+            "en": "Pause at this poignant historical monument that commemorates local riverboat heritage, reading the detailed plaques to fully grasp the importance of the waterways here."
+          }
+        },
+        {
+          "name": {
+            "de": "Muarasuara",
+            "hu": "Muarasuara",
+            "ro": "Muarasuara",
+            "en": "Muarasuara"
+          },
+          "coords": [
+            117.122517,
+            -0.494185
+          ],
+          "category": "cultural",
+          "arrive_at": "12:25",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die lebendige Kulturlandschaft dieser lokalen Siedlung ein und halten Sie Ausschau nach versteckten Wandmalereien, die das traditionelle Alltagsleben darstellen.",
+            "hu": "Merüljön el ennek a helyi településnek az élénk kulturális tájában, és figyeljen a rejtett utcai falfestményekre, amelyek gyönyörűen ábrázolják a hagyományos mindennapi életet.",
+            "ro": "Cufundați-vă în peisajul cultural vibrant al acestei așezări locale, căutând picturile murale ascunse care descriu frumos viața de zi cu zi tradițională a locuitorilor.",
+            "en": "Immerse yourself in the vibrant cultural landscape of this local settlement, keeping an eye out for hidden street murals that beautifully depict traditional daily life."
+          }
+        },
+        {
+          "name": {
+            "de": "Pusat Kerajinan Tenun Sarung Samarinda",
+            "hu": "Pusat Kerajinan Tenun Sarung Samarinda",
+            "ro": "Pusat Kerajinan Tenun Sarung Samarinda",
+            "en": "Pusat Kerajinan Tenun Sarung Samarinda"
+          },
+          "coords": [
+            117.151245,
+            -0.514504
+          ],
+          "category": "cultural",
+          "arrive_at": "13:46",
+          "stay_min": 60,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie die minutiöse Kunst des traditionellen Webens in diesem Kulturzentrum und kaufen Sie am besten einen handgewebten Sarong direkt von den lokalen Kunsthandwerkern.",
+            "hu": "Fedezze fel a hagyományos szövés aprólékos művészetét ebben a kulturális központban, ahol érdemes egy kézzel szőtt sarongot vásárolni közvetlenül a helyi kézművesektől.",
+            "ro": "Descoperiți arta meticuloasă a țesutului tradițional la acest centru cultural vibrant, de unde ar trebui să cumpărați un sarong țesut manual direct de la artizani.",
+            "en": "Discover the meticulous art of traditional weaving at this vibrant cultural center, where you should purchase a handwoven sarong directly from the local artisans."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Sirathal Mustaqiem",
+            "hu": "Masjid Sirathal Mustaqiem",
+            "ro": "Masjid Sirathal Mustaqiem",
+            "en": "Masjid Sirathal Mustaqiem"
+          },
+          "coords": [
+            117.152134,
+            -0.515627
+          ],
+          "category": "religious",
+          "arrive_at": "14:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie die älteste Moschee Samarindas mit ihrer einzigartigen Holzarchitektur, aber denken Sie an bescheidene Kleidung und respektieren Sie die örtlichen Gebetszeiten.",
+            "hu": "Látogasson el Samarinda legrégebbi mecsetjébe, hogy megcsodálja egyedi faépítészetét, de ne felejtsen el szerényen öltözni és tiszteletben tartani a helyi imaidőket.",
+            "ro": "Vizitați cea mai veche moschee din Samarinda pentru a vedea arhitectura sa din lemn, dar amintiți-vă să vă îmbrăcați modest și să respectați orele de rugăciune locale.",
+            "en": "Visit the oldest mosque in Samarinda to witness its unique wooden architecture, but remember to dress modestly and respect the prayer times when exploring the interiors."
+          }
+        },
+        {
+          "name": {
+            "de": "Jembatan Mahkota 2",
+            "hu": "Jembatan Mahkota 2",
+            "ro": "Jembatan Mahkota 2",
+            "en": "Jembatan Mahkota 2"
+          },
+          "coords": [
+            117.166307,
+            -0.525799
+          ],
+          "category": "historical",
+          "arrive_at": "15:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Spazieren Sie über diese historische Brücke, um einen weiten Panoramablick auf den Mahakam-Fluss zu genießen, und planen Sie Ihren Besuch am besten für den späten Nachmittag.",
+            "hu": "Sétáljon végig ezen a történelmi hídon, hogy élvezze a Mahakam folyó panorámáját, és időzítse látogatását a késő délutáni órákra, hogy elcsípje a lenyűgöző naplementét.",
+            "ro": "Plimbați-vă pe acest pod istoric pentru a vă bucura de vederi panoramice ale râului Mahakam, asigurându-vă că vizitați după-amiaza târziu pentru un apus de soare spectaculos.",
+            "en": "Walk along this historic bridge to enjoy sweeping panoramic views of the Mahakam River, making sure to time your visit for the late afternoon to catch the spectacular sunset."
+          }
+        },
+        {
+          "name": {
+            "de": "Achmad Amins Bridge",
+            "hu": "Achmad Amins híd",
+            "ro": "Podul Achmad Amins",
+            "en": "Achmad Amins Bridge"
+          },
+          "coords": [
+            117.157845,
+            -0.533642
+          ],
+          "category": "landmark",
+          "arrive_at": "17:04",
+          "stay_min": 45,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Machen Sie atemberaubende Fotos von diesem Wahrzeichen, das die Stadt über den Fluss verbindet, und bringen Sie ein Stativ mit, wenn Sie die beleuchtete Struktur fotografieren.",
+            "hu": "Készítsen lenyűgöző fotókat erről az ikonikus nevezetességről, amely összeköti a várost, és hozzon magával állványt, ha sötétedés után tervezi fotózni a kivilágított hidat.",
+            "ro": "Faceți fotografii uimitoare de pe acest pod iconic peste râu și asigurați-vă că aduceți un trepied pentru a surprinde structura frumos iluminată după lăsarea întunericului.",
+            "en": "Capture stunning photographs from this iconic landmark bridging the city over the river, bringing a sturdy tripod if you plan to shoot the illuminated structure after dark."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unser Fahrradabenteuer beginnt am Samarinda Museum, wo wir tief in die Regionalgeschichte eintauchen, bevor wir zum ikonischen Tambangan-Denkmal am ruhigen Fluss radeln.\n\nDie Fahrt am Mittag führt uns durch die lebendige Siedlung Muarasuara, wo wir die Kultur in uns aufsaugen, bevor wir die Reise zum renommierten traditionellen Webzentrum fortsetzen.\n\nDie Nachmittagssonne begleitet uns zur atemberaubenden Holzarchitektur der Masjid Sirathal Mustaqiem und führt uns weiter zur beeindruckenden Jembatan Mahkota 2 Brücke.\n\nGegen Abend radeln wir zur prächtigen Achmad-Amins-Brücke hinunter. Die glitzernden Spiegelungen auf dem Wasser schaffen eine ruhige Atmosphäre, um unsere Tour abzuschließen.",
+        "hu": "Kerékpáros kalandunk a Samarinda Múzeumban kezdődik, ahol elmélyedünk a regionális történelemben, majd eltekerünk a csendes folyóparton található ikonikus Tambangan Emlékműhöz.\n\nA déli túra a nyüzsgő Muarasuara településen keresztül vezet, ahol magunkba szívjuk a dinamikus helyi kultúrát, mielőtt folytatjuk utunkat a híres hagyományos szövőközpont felé.\n\nA délutáni napsütés végigkísér minket a Masjid Sirathal Mustaqiem lenyűgöző faépítészetéhez, majd zökkenőmentesen haladunk a lenyűgöző Jembatan Mahkota 2 felé történelmi felismerésekért.\n\nAhogy közeledik az este, a csodálatos Achmad Amins hídhoz tekerünk. A folyón megcsillanó fények tökéletes, békés légkört teremtenek energikus kerékpártúránk méltó lezárásához.",
+        "ro": "Aventura noastră pe bicicletă începe la Muzeul Samarinda, unde ne scufundăm în istoria regională înainte de a pedala către iconicul Monument Tambangan de lângă râul liniștit.\n\nPlimbarea de prânz ne poartă prin așezarea vibrantă Muarasuara, asimilând cultura locală dinamică înainte de a continua călătoria către renumitul centru tradițional de țesut.\n\nSoarele după-amiezii ne însoțește până la uimitoarea arhitectură din lemn a Masjid Sirathal Mustaqiem, îndreptându-ne apoi spre impresionantul Jembatan Mahkota 2 pentru istorie.\n\nOdată cu lăsarea serii, pedalăm spre magnificul pod Achmad Amins. Reflexiile strălucitoare de pe apă creează o atmosferă perfectă și senină pentru a încheia turul nostru.",
+        "en": "Our cycling adventure begins at the informative Samarinda Museum, where we dive deep into regional history before pedaling over to the iconic Tambangan Monument by the tranquil river.\n\nThe midday ride takes us through the vibrant settlement of Muarasuara, soaking in the dynamic local culture before continuing the journey towards the renowned traditional weaving center.\n\nThe afternoon sun accompanies our ride to the stunning wooden architecture of Masjid Sirathal Mustaqiem, moving smoothly toward the impressive Jembatan Mahkota 2 for historical insights.\n\nAs evening nears, we cycle down to the magnificent Achmad Amins Bridge. The sparkling reflections on the river create a perfect, serene atmosphere to conclude our energetic bicycle tour."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:10",
+      "total_km": 16.2,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Museum Kayu",
+            "hu": "Museum Kayu",
+            "ro": "Muzeul Kayu",
+            "en": "Museum Kayu"
+          },
+          "coords": [
+            117.208145,
+            -0.450413
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die umfassenden Sammlungen zur reichen Geschichte der Holzindustrie und verpassen Sie nicht die kunstvoll gefertigten Holzartefakte im zweiten Stockwerk.",
+            "hu": "Fedezze fel a faipar gazdag történelmét bemutató átfogó gyűjteményeket, és ne hagyja ki a második emeleten kiállított, aprólékosan kidolgozott fa műtárgyakat sem.",
+            "ro": "Explorați colecțiile cuprinzătoare care detaliază istoria bogată a industriei lemnului și nu ratați artefactele din lemn lucrate complex, expuse la etajul al doilea.",
+            "en": "Explore the comprehensive collections detailing the timber industry's rich history, and do not miss the intricately crafted wooden artifacts displayed on the second floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumen Patung Kuda",
+            "hu": "Monumen Patung Kuda",
+            "ro": "Monumen Patung Kuda",
+            "en": "Monumen Patung Kuda"
+          },
+          "coords": [
+            117.186091,
+            -0.458619
+          ],
+          "category": "historical",
+          "arrive_at": "10:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Stehen Sie vor dieser beeindruckenden Reiterstatue der lokalen Geschichte und lesen Sie den Sockel, um die heroische Vergangenheit dieser faszinierenden Region zu würdigen.",
+            "hu": "Álljon meg e lenyűgöző lovas szobor előtt, amely a helyi történelmet tiszteli, és szánjon egy percet a feliratos talapzat elolvasására a régió hősies múltjának megismeréséhez.",
+            "ro": "Admirați această statuie ecvestră impresionantă care onorează istoria locală, alocând un moment pentru a citi soclul inscripționat și a aprecia trecutul eroic al regiunii.",
+            "en": "Stand before this impressive equestrian statue that honors local history, taking a moment to read the inscribed pedestal to fully appreciate the region's heroic past."
+          }
+        },
+        {
+          "name": {
+            "de": "masjid As'led",
+            "hu": "masjid As'led",
+            "ro": "masjid As'led",
+            "en": "masjid As'led"
+          },
+          "coords": [
+            117.153392,
+            -0.464054
+          ],
+          "category": "religious",
+          "arrive_at": "12:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.7,
+          "tip_5lang": {
+            "de": "Erleben Sie die spirituelle Atmosphäre dieser modernen lokalen Moschee, wobei Sie Besuche während der Freitagsgebete vermeiden sollten, sofern Sie nicht selbst teilnehmen.",
+            "hu": "Tapasztalja meg ennek a modern helyi mecsetnek a békés spirituális légkörét, és ügyeljen arra, hogy elkerülje a pénteki közösségi imák idejét, hacsak nem kíván részt venni.",
+            "ro": "Experimentați atmosfera spirituală a acestei moschei locale moderne, având grijă să evitați vizitele în timpul rugăciunilor de vineri dacă nu intenționați să participați.",
+            "en": "Experience the serene spiritual atmosphere of this modern local mosque, making sure to avoid visiting during Friday congregation prayers unless you intend to participate."
+          }
+        },
+        {
+          "name": {
+            "de": "Taman Budaya Samarinda",
+            "hu": "Taman Budaya Samarinda",
+            "ro": "Taman Budaya Samarinda",
+            "en": "Taman Budaya Samarinda"
+          },
+          "coords": [
+            117.163937,
+            -0.478285
+          ],
+          "category": "cultural",
+          "arrive_at": "13:08",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen belebten Kulturpark mit authentischen Kunstaufführungen und prüfen Sie den Tagesplan am Eingang, um die besten traditionellen Tanzshows zu sehen.",
+            "hu": "Sétáljon végig ezen a nyüzsgő kulturális parkon, hogy hiteles helyi művészeti előadásokat lásson, és ellenőrizze a napi beosztást a legjobb hagyományos táncműsorokért.",
+            "ro": "Plimbați-vă prin acest parc cultural pentru a vedea spectacole de artă locale, verificând programul la intrare pentru a surprinde cele mai bune show-uri de dans tradițional.",
+            "en": "Stroll through this bustling cultural park to see authentic local art performances, checking the daily schedule at the entrance to catch the best traditional dance shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Samarinda Museum",
+            "hu": "Samarinda Múzeum",
+            "ro": "Muzeul Samarinda",
+            "en": "Samarinda Museum"
+          },
+          "coords": [
+            117.144388,
+            -0.495886
+          ],
+          "category": "museum",
+          "arrive_at": "14:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Geschichte der Stadt ein und beginnen Sie Ihren Rundgang am besten im Erdgeschoss, um den chronologischen Ausstellungen optimal zu folgen.",
+            "hu": "Merüljön el a város lenyűgöző történelmében a jól megőrzött tárgyakon keresztül, és kezdje a túrát a földszinten, hogy zökkenőmentesen kövesse a kronológiai kiállításokat.",
+            "ro": "Pătrundeți în istoria fascinantă a orașului prin artefacte bine conservate și începeți turul la parter pentru a urmări fără probleme expozițiile așezate cronologic.",
+            "en": "Delve into the fascinating history of the city through well-preserved artifacts, and start your tour on the ground floor to follow the chronological exhibits seamlessly."
+          }
+        },
+        {
+          "name": {
+            "de": "Klenteng Thien Ie Kong",
+            "hu": "Klenteng Thien Ie Kong",
+            "ro": "Klenteng Thien Ie Kong",
+            "en": "Klenteng Thien Ie Kong"
+          },
+          "coords": [
+            117.156393,
+            -0.507785
+          ],
+          "category": "religious",
+          "arrive_at": "15:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Erleben Sie das reiche Kulturerbe in diesem reich verzierten chinesischen Tempel und bewundern Sie die filigranen Holzschnitzereien sowie die leuchtend roten Laternen.",
+            "hu": "Fedezze fel a gazdag kulturális örökséget ebben a díszes kínai templomban, és szánjon időt a bonyolult fafaragások és az élénk piros lámpások megcsodálására fotózás előtt.",
+            "ro": "Experimentați bogatul patrimoniu cultural la acest templu chinezesc bogat ornat, alocând un moment pentru a aprecia sculpturile complicate în lemn și felinarele roșii.",
+            "en": "Experience the rich cultural heritage at this ornate Chinese temple, taking a moment to appreciate the intricate wood carvings and vibrant red lanterns before taking photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Sirathal Mustaqiem",
+            "hu": "Masjid Sirathal Mustaqiem",
+            "ro": "Masjid Sirathal Mustaqiem",
+            "en": "Masjid Sirathal Mustaqiem"
+          },
+          "coords": [
+            117.152134,
+            -0.515627
+          ],
+          "category": "religious",
+          "arrive_at": "16:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie die älteste Moschee Samarindas mit ihrer einzigartigen Holzarchitektur, aber denken Sie an bescheidene Kleidung und respektieren Sie die örtlichen Gebetszeiten.",
+            "hu": "Látogasson el Samarinda legrégebbi mecsetjébe, hogy megcsodálja egyedi faépítészetét, de ne felejtsen el szerényen öltözni és tiszteletben tartani a helyi imaidőket.",
+            "ro": "Vizitați cea mai veche moschee din Samarinda pentru a vedea arhitectura sa din lemn, dar amintiți-vă să vă îmbrăcați modest și să respectați orele de rugăciune locale.",
+            "en": "Visit the oldest mosque in Samarinda to witness its unique wooden architecture, but remember to dress modestly and respect the prayer times when exploring the interiors."
+          }
+        },
+        {
+          "name": {
+            "de": "Achmad Amins Bridge",
+            "hu": "Achmad Amins híd",
+            "ro": "Podul Achmad Amins",
+            "en": "Achmad Amins Bridge"
+          },
+          "coords": [
+            117.157845,
+            -0.533642
+          ],
+          "category": "landmark",
+          "arrive_at": "17:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Machen Sie atemberaubende Fotos von diesem Wahrzeichen, das die Stadt über den Fluss verbindet, und bringen Sie ein Stativ mit, wenn Sie die beleuchtete Struktur fotografieren.",
+            "hu": "Készítsen lenyűgöző fotókat erről az ikonikus nevezetességről, amely összeköti a várost, és hozzon magával állványt, ha sötétedés után tervezi fotózni a kivilágított hidat.",
+            "ro": "Faceți fotografii uimitoare de pe acest pod iconic peste râu și asigurați-vă că aduceți un trepied pentru a surprinde structura frumos iluminată după lăsarea întunericului.",
+            "en": "Capture stunning photographs from this iconic landmark bridging the city over the river, bringing a sturdy tripod if you plan to shoot the illuminated structure after dark."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen unsere umfassende Autotour am Museum Kayu, um in das Erbe der Holzindustrie einzutauchen, bevor wir die beeindruckende Präsenz des Monumen Patung Kuda bewundern.\n\nWir navigieren durch die Stadt zur ruhigen masjid As'led und zum faszinierenden Taman Budaya Samarinda, um die künstlerischen Darbietungen und die spirituelle Ruhe der Gegend aufzusaugen.\n\nNach dem Mittagessen führt uns die bequeme Fahrt zum Samarinda Museum für tiefere historische Einblicke, gefolgt von der Klenteng Thien Ie Kong und der Masjid Sirathal.\n\nDer Tag endet reibungslos mit einer malerischen Fahrt zur massiven Achmad-Amins-Brücke. Der Blick in die Abenddämmerung fasst die vielfältige Schönheit dieser lebendigen Stadt zusammen.",
+        "hu": "Átfogó autós túránkat a Museum Kayu-nál kezdjük, elmerülve a faipar örökségében, majd továbbhajtunk, hogy megcsodáljuk a Monumen Patung Kuda tekintélyt parancsoló jelenlétét.\n\nA városban navigálva meglátogatjuk a békés masjid As'led mecsetet és a magával ragadó Taman Budaya Samarinda parkot, magunkba szívva a terület gazdag művészeti előadásait.\n\nEbéd után a kényelmes út a Samarinda Múzeum mellett visz el minket a mélyebb történelmi kontextusért, amelyet a gyönyörűen kidolgozott Klenteng Thien Ie Kong és a Masjid Sirathal követ.\n\nA nap simán zárul egy festői autózással a hatalmas Achmad Amins hídhoz. A járművünkből élvezett alkonyati kilátás tökéletesen összefoglalja ennek a nyüzsgő városnak a sokszínűségét.",
+        "ro": "Începem turul nostru cuprinzător cu mașina la Muzeul Kayu, cufundându-ne în moștenirea lemnului înainte de a conduce pentru a admira prezența impunătoare a Monumen Patung Kuda.\n\nNavigând prin oraș, vizităm liniștita masjid As'led și captivantul Taman Budaya Samarinda, absorbind spectacolele artistice bogate și calmul spiritual al zonei pe parcurs.\n\nDupă prânz, drumul nostru confortabil ne duce pe lângă Muzeul Samarinda pentru un context istoric mai profund, urmat de Klenteng Thien Ie Kong și istorica Masjid Sirathal.\n\nZiua se încheie lin cu o plimbare pitorească până la masivul pod Achmad Amins. Bucurându-ne de priveliștea crepusculului din mașină, reflectăm la frumusețea diversă a orașului.",
+        "en": "We kick off our comprehensive driving tour at the Museum Kayu, immersing ourselves in the timber heritage before driving to admire the commanding presence of Monumen Patung Kuda.\n\nNavigating through the city, we visit the serene masjid As'led and the engaging Taman Budaya Samarinda, absorbing the rich artistic performances and spiritual calmness of the area.\n\nPost-lunch, our comfortable drive takes us past the Samarinda Museum for deeper historical context, followed by the beautifully intricate Klenteng Thien Ie Kong and Masjid Sirathal.\n\nThe day concludes smoothly with a scenic drive to the massive Achmad Amins Bridge. Enjoying the twilight views from our vehicle encapsulates the diverse beauty of this vibrant city."
+      }
+    }
+  }
+}

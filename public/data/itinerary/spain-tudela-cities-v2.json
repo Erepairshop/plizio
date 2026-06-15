@@ -1,0 +1,543 @@
+{
+  "city_id": "spain-tudela-cities-v2",
+  "anchor": {
+    "name": "Tudela",
+    "coords": [
+      -1.606667,
+      42.065278
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 1.19,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ayuntamiento de Tudela",
+            "hu": "Ayuntamiento de Tudela",
+            "ro": "Ayuntamiento de Tudela",
+            "en": "Ayuntamiento de Tudela"
+          },
+          "coords": [
+            -1.605862,
+            42.063749
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante historische Fassade dieses zentralen Rathauses, die von Tudelas Vergangenheit zeugt, und fotografieren Sie es am besten im weichen Morgenlicht.",
+            "hu": "Csodálja meg a központi városháza lenyűgöző történelmi homlokzatát, amely Tudela gazdag múltjáról tanúskodik, és készítsen nagyszerű fotókat a lágy reggeli fényekben.",
+            "ro": "Admirați fațada istorică impresionantă a acestei primării centrale, o mărturie a trecutului bogat al Tudelei, și faceți fotografii excelente în lumina blândă a dimineții.",
+            "en": "Admire the striking historical façade of this central civic building, a testament to Tudela's rich administrative past, and capture photos in the soft morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de San Nicolás de Bari",
+            "hu": "Iglesia de San Nicolás de Bari",
+            "ro": "Iglesia de San Nicolás de Bari",
+            "en": "Iglesia de San Nicolás de Bari"
+          },
+          "coords": [
+            -1.607012,
+            42.064602
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses ruhige religiöse Wahrzeichen, um seine detaillierten Steinmetzarbeiten zu bewundern, aber respektieren Sie bei der Besichtigung die stillen Gebetszeiten.",
+            "hu": "Fedezze fel ezt a békés vallási műemléket, csodálja meg a részletes kőfaragásokat, de ne felejtse el tiszteletben tartani a csendes imaidőket a belső tér látogatásakor.",
+            "ro": "Explorați acest lăcaș de cult liniștit pentru a aprecia detaliile sculpturilor în piatră, dar nu uitați să respectați orele de rugăciune atunci când vizitați interiorul.",
+            "en": "Explore this serene religious landmark to appreciate its detailed stonework and quiet ambiance, but remember to respect the silent prayer hours when visiting the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio de Marqués de Huarte",
+            "hu": "Palacio de Marqués de Huarte",
+            "ro": "Palacio de Marqués de Huarte",
+            "en": "Palacio de Marqués de Huarte"
+          },
+          "coords": [
+            -1.607278,
+            42.06281
+          ],
+          "category": "castle",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Versetzen Sie sich in die Vergangenheit in den kunstvollen Sälen dieses Adelspalastes, wo sich ein Weitwinkelobjektiv für das Fotografieren der Prunktreppe besonders lohnt.",
+            "hu": "Utazzon vissza az időben ennek az arisztokrata palotának a díszes termeiben, ahová érdemes nagylátószögű objektívet hozni a csodálatos főlépcső megörökítéséhez.",
+            "ro": "Întoarceți-vă în timp admirând sălile ornamentate ale acestui palat aristocratic, unde vă recomandăm să folosiți un obiectiv grandangular pentru a surprinde scara principală.",
+            "en": "Step back in time as you wander the ornate halls of this stunning aristocratic palace, where bringing a wide-angle lens is highly recommended for the grand staircase."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia y convento del Carmen",
+            "hu": "Iglesia y convento del Carmen",
+            "ro": "Iglesia y convento del Carmen",
+            "en": "Iglesia y convento del Carmen"
+          },
+          "coords": [
+            -1.608249,
+            42.062714
+          ],
+          "category": "religious",
+          "arrive_at": "12:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.08,
+          "tip_5lang": {
+            "de": "Entdecken Sie die tiefe Ruhe und die exquisiten barocken Details dieses historischen Klosters und achten Sie darauf, in der hallenden Hauptkapelle leise zu sprechen.",
+            "hu": "Fedezze fel e történelmi kolostor mély nyugalmát és lenyűgöző barokk részleteit, ügyelve arra, hogy halkan lépkedjen és csendesen beszéljen a visszhangzó főpolcon.",
+            "ro": "Descoperiți liniștea profundă și detaliile baroce rafinate ale acestei mănăstiri istorice, având grijă să pășiți ușor și să vorbiți încet în capela principală cu ecou.",
+            "en": "Discover the profound tranquility and exquisite baroque details of this historic convent, making sure to step lightly and speak softly in the reverberant main chapel."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de la Compañía de María",
+            "hu": "Iglesia de la Compañía de María",
+            "ro": "Iglesia de la Compañía de María",
+            "en": "Iglesia de la Compañía de María"
+          },
+          "coords": [
+            -1.609173,
+            42.063437
+          ],
+          "category": "religious",
+          "arrive_at": "13:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die architektonischen Linien dieser eleganten, Maria geweihten Kirche, und besuchen Sie sie am späten Vormittag, wenn die Sonne die Glasmalereien beleuchtet.",
+            "hu": "Csodálja meg ennek az elegáns, Máriának szentelt templomnak a bonyolult építészeti vonalait, és próbálja meg a késő délelőtti órákban látogatni a gyönyörű fények miatt.",
+            "ro": "Admirați liniile arhitecturale complexe ale acestei biserici elegante închinate Fecioarei Maria și vizitați-o dimineața târziu, când soarele luminează superb vitraliile.",
+            "en": "Marvel at the intricate architectural lines of this elegant church dedicated to Mary, and try to visit during late morning when the sun beautifully illuminates the stained glass."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de Santa María de Gracia",
+            "hu": "Iglesia de Santa María de Gracia",
+            "ro": "Iglesia de Santa María de Gracia",
+            "en": "Iglesia de Santa María de Gracia"
+          },
+          "coords": [
+            -1.605337,
+            42.061363
+          ],
+          "category": "religious",
+          "arrive_at": "14:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Lassen Sie die spirituelle Atmosphäre dieser anmutigen historischen Pfarrei auf sich wirken, wo die zarten Schnitzereien am Hauptaltar ein Muss für Kunstliebhaber sind.",
+            "hu": "Szánjon egy percet e kecses történelmi plébánia spirituális atmoszférájának befogadására, ahol a főoltár finom faragásainak megfigyelése kötelező a művészetkedvelőknek.",
+            "ro": "Acordați-vă un moment pentru a simți atmosfera spirituală a acestei parohii istorice, unde sculpturile delicate ale altarului principal sunt de neratat pentru iubitorii de artă.",
+            "en": "Take a moment to absorb the spiritual atmosphere of this graceful historic parish, where noting the delicate carvings on the main altar is an absolute must for art lovers."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Monreal",
+            "hu": "Torre Monreal",
+            "ro": "Torre Monreal",
+            "en": "Torre Monreal"
+          },
+          "coords": [
+            -1.60627,
+            42.058853
+          ],
+          "category": "castle",
+          "arrive_at": "14:50",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.29,
+          "tip_5lang": {
+            "de": "Besteigen Sie den Bereich in der Nähe dieses mittelalterlichen Turms, um Tudelas Verteidigungsgeschichte zu verstehen, und bringen Sie Wasser für den nachmittäglichen Spaziergang mit.",
+            "hu": "Másszon fel ezen impozáns középkori torony környékére, hogy megértse Tudela stratégiai védelmi múltját, és hozzon magával vizet a meleg délutáni séta idejére.",
+            "ro": "Urcați în apropierea acestui turn medieval impunător pentru a înțelege istoria defensivă a Tudelei și aduceți apă, deoarece soarele poate fi intens după-amiaza.",
+            "en": "Climb the area near this commanding medieval tower to grasp Tudela’s strategic defense history, and bring water as the sun can be quite intense during the afternoon walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie den Tag, indem Sie die Atmosphäre am historischen Rathaus, dem administrativen Herzen der Stadt, auf sich wirken lassen.\nMidday: Schlendern Sie durch die mittelalterlichen Gassen und besuchen Sie wichtige religiöse Heiligtümer mit gotischen und barocken Stilelementen.\nAfternoon: Tauchen Sie in die aristokratische Geschichte der lokalen Paläste ein und bewundern Sie die kunstvollen Treppen und großen Innenhöfe.\nEvening: Beenden Sie Ihren Spaziergang am beeindruckenden Torre Monreal und genießen Sie das schwindende Licht über den alten Stadtbefestigungen.",
+        "hu": "Morning: Kezdje a napot a város adminisztratív szívének, a történelmi városházának és a környező terek hangulatának befogadásával.\nMidday: Sétáljon végig a kanyargós középkori utcákon, és látogasson el a gótikus és barokk stílusú, lenyűgöző vallási szentélyekbe.\nAfternoon: Merüljön el a helyi paloták arisztokratikus történelmében, csodálja meg Tudela elitjének díszes lépcsőházait és grandiózus udvarait.\nEvening: Zárja a gyalogtúrát a félelmetes Torre Monrealnál, élvezve az óváros ősi erődítményeire vetülő halványuló esti fényeket.",
+        "ro": "Morning: Începeți ziua absorbind atmosfera primăriei istorice, inima administrativă a orașului, plină de viață și arhitectură deosebită.\nMidday: Plimbați-vă pe străzile medievale șerpuite, oprindu-vă la sanctuare religioase cheie care expun stiluri gotice și baroce complexe.\nAfternoon: Pătrundeți adânc în istoria aristocratică la palatele locale, admirând scările ornamentate și curțile mărețe ale elitei din Tudela.\nEvening: Încheiați turul pietonal la formidabilul Torre Monreal, bucurându-vă de lumina apusului peste fortificațiile antice ale orașului vechi.",
+        "en": "Morning: Start the day by soaking in the administrative heart of the city at the historic town hall.\nMidday: Wander through the winding medieval streets, stopping at key religious sanctuaries that showcase intricate Gothic and Baroque styles.\nAfternoon: Dive deep into aristocratic history at the local palaces, marveling at the ornate stairs and grand courtyards of Tudela’s elite.\nEvening: Conclude your walking tour at the formidable Torre Monreal, enjoying the fading light over the old town's ancient fortifications."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:36",
+      "total_km": 2.53,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Monumento al Corazón de Jesús",
+            "hu": "Monumento al Corazón de Jesús",
+            "ro": "Monumento al Corazón de Jesús",
+            "en": "Monumento al Corazón de Jesús"
+          },
+          "coords": [
+            -1.606858,
+            42.06713
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick über die Stadt von diesem hoch aufragenden Denkmal, wo bequeme Wanderschuhe den etwas steilen Aufstieg auf den Hügel deutlich erleichtern.",
+            "hu": "Élvezze a városra nyíló panorámát ebből a magaslati emlékműből, ahová a kényelmes sétacipő viselése sokkal kellemesebbé teszi a kissé meredek domboldali kapaszkodót.",
+            "ro": "Bucurați-vă de vederea panoramică asupra orașului de la acest monument impunător de pe deal, unde încălțămintea confortabilă vă va face urcușul mult mai plăcut.",
+            "en": "Enjoy panoramic views of the city from this towering hilltop monument, where wearing comfortable walking shoes will make the slightly steep ascent much more pleasant."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinas de la ermita de San Miguel de Afuera",
+            "hu": "Ruinas de la ermita de San Miguel de Afuera",
+            "ro": "Ruinas de la ermita de San Miguel de Afuera",
+            "en": "Ruinas de la ermita de San Miguel de Afuera"
+          },
+          "coords": [
+            -1.610225,
+            42.068945
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.34,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die faszinierenden alten Steine dieser eindrucksvollen Ruinen am Stadtrand, aber achten Sie bei der Erkundung der unbefestigten Wege auf unebenen Boden.",
+            "hu": "Vizsgálja meg ezen büszkén álló romok lenyűgöző ősi köveit a város szélén, de ügyeljen az egyenetlen talajra a kiépítetlen ösvények és történelmi maradványok felfedezésekor.",
+            "ro": "Examinați pietrele antice fascinante ale acestor ruine evocatoare de la marginea orașului, dar aveți grijă la terenul denivelat în timp ce explorați cărările nepavate.",
+            "en": "Examine the fascinating ancient stones of these evocative ruins standing proudly on the city's edge, but be mindful of uneven ground while exploring the unpaved paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Ayuntamiento de Tudela",
+            "hu": "Ayuntamiento de Tudela",
+            "ro": "Ayuntamiento de Tudela",
+            "en": "Ayuntamiento de Tudela"
+          },
+          "coords": [
+            -1.605862,
+            42.063749
+          ],
+          "category": "historical",
+          "arrive_at": "11:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.68,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante historische Fassade dieses zentralen Rathauses, die von Tudelas Vergangenheit zeugt, und fotografieren Sie es am besten im weichen Morgenlicht.",
+            "hu": "Csodálja meg a központi városháza lenyűgöző történelmi homlokzatát, amely Tudela gazdag múltjáról tanúskodik, és készítsen nagyszerű fotókat a lágy reggeli fényekben.",
+            "ro": "Admirați fațada istorică impresionantă a acestei primării centrale, o mărturie a trecutului bogat al Tudelei, și faceți fotografii excelente în lumina blândă a dimineții.",
+            "en": "Admire the striking historical façade of this central civic building, a testament to Tudela's rich administrative past, and capture photos in the soft morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de San Nicolás de Bari",
+            "hu": "Iglesia de San Nicolás de Bari",
+            "ro": "Iglesia de San Nicolás de Bari",
+            "en": "Iglesia de San Nicolás de Bari"
+          },
+          "coords": [
+            -1.607012,
+            42.064602
+          ],
+          "category": "religious",
+          "arrive_at": "13:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses ruhige religiöse Wahrzeichen, um seine detaillierten Steinmetzarbeiten zu bewundern, aber respektieren Sie bei der Besichtigung die stillen Gebetszeiten.",
+            "hu": "Fedezze fel ezt a békés vallási műemléket, csodálja meg a részletes kőfaragásokat, de ne felejtse el tiszteletben tartani a csendes imaidőket a belső tér látogatásakor.",
+            "ro": "Explorați acest lăcaș de cult liniștit pentru a aprecia detaliile sculpturilor în piatră, dar nu uitați să respectați orele de rugăciune atunci când vizitați interiorul.",
+            "en": "Explore this serene religious landmark to appreciate its detailed stonework and quiet ambiance, but remember to respect the silent prayer hours when visiting the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio de Marqués de Huarte",
+            "hu": "Palacio de Marqués de Huarte",
+            "ro": "Palacio de Marqués de Huarte",
+            "en": "Palacio de Marqués de Huarte"
+          },
+          "coords": [
+            -1.607278,
+            42.06281
+          ],
+          "category": "castle",
+          "arrive_at": "13:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Versetzen Sie sich in die Vergangenheit in den kunstvollen Sälen dieses Adelspalastes, wo sich ein Weitwinkelobjektiv für das Fotografieren der Prunktreppe besonders lohnt.",
+            "hu": "Utazzon vissza az időben ennek az arisztokrata palotának a díszes termeiben, ahová érdemes nagylátószögű objektívet hozni a csodálatos főlépcső megörökítéséhez.",
+            "ro": "Întoarceți-vă în timp admirând sălile ornamentate ale acestui palat aristocratic, unde vă recomandăm să folosiți un obiectiv grandangular pentru a surprinde scara principală.",
+            "en": "Step back in time as you wander the ornate halls of this stunning aristocratic palace, where bringing a wide-angle lens is highly recommended for the grand staircase."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Monreal",
+            "hu": "Torre Monreal",
+            "ro": "Torre Monreal",
+            "en": "Torre Monreal"
+          },
+          "coords": [
+            -1.60627,
+            42.058853
+          ],
+          "category": "castle",
+          "arrive_at": "15:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Besteigen Sie den Bereich in der Nähe dieses mittelalterlichen Turms, um Tudelas Verteidigungsgeschichte zu verstehen, und bringen Sie Wasser für den nachmittäglichen Spaziergang mit.",
+            "hu": "Másszon fel ezen impozáns középkori torony környékére, hogy megértse Tudela stratégiai védelmi múltját, és hozzon magával vizet a meleg délutáni séta idejére.",
+            "ro": "Urcați în apropierea acestui turn medieval impunător pentru a înțelege istoria defensivă a Tudelei și aduceți apă, deoarece soarele poate fi intens după-amiaza.",
+            "en": "Climb the area near this commanding medieval tower to grasp Tudela’s strategic defense history, and bring water as the sun can be quite intense during the afternoon walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Restos de la Torre San Julián",
+            "hu": "Restos de la Torre San Julián",
+            "ro": "Restos de la Torre San Julián",
+            "en": "Restos de la Torre San Julián"
+          },
+          "coords": [
+            -1.614854,
+            42.057157
+          ],
+          "category": "historical",
+          "arrive_at": "16:46",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.73,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Überreste dieser alten Festung, die die unteren Flanken der Stadt schützte, und betrachten Sie sie am besten zur goldenen Stunde für tolle Texturen.",
+            "hu": "Fedezze fel ezen ősi erődítmény maradványait, amely a város alsó peremét védte, és amelyet a legjobb az aranyórában megtekinteni a kövek textúrájának kiemelése végett.",
+            "ro": "Descoperiți rămășițele acestei vechi fortificații care proteja flancurile inferioare ale orașului, cel mai bine de admirat în timpul orei de aur pentru a vedea texturile pietrei.",
+            "en": "Discover the remnants of this ancient fortification that protected the lower flanks of the town, best viewed during golden hour when the shadows bring out the stone textures."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Radeln Sie zu den markanten Denkmälern auf den Hügeln, um Tudela und die weite landwirtschaftliche Umgebung panoramisch zu begrüßen.\nMidday: Fahren Sie hinunter in die Altstadt und besuchen Sie auf Ihrer luftigen Route historische Ruinen sowie das ikonische Rathaus.\nAfternoon: Gleiten Sie zwischen eleganten Palästen und Kirchen hindurch und legen Sie mehr Wegstrecke zurück, um die verschiedenen Epochen zu sehen.\nEvening: Folgen Sie mit dem Fahrrad den alten Stadtgrenzen und beenden Sie Ihren Tag an den historischen Überresten des Torre San Julián.",
+        "hu": "Morning: Tekerjen fel a dombtetőn álló emlékművekhez, hogy látványos panorámával köszöntse Tudelát és a hatalmas mezőgazdasági környezetet.\nMidday: Guruljon vissza a nyüzsgő óváros központjába, útba ejtve a történelmi romokat és az ikonikus városházát a kellemes kerékpárúton.\nAfternoon: Haladjon végig az elegáns paloták és bonyolult templomok között, nagyobb területet bejárva a különböző építészeti korszakok megismeréséért.\nEvening: Kövesse kerékpárral az ősi város határait, és a naplementében a Torre San Julián történelmi maradványainál fejezze be a napot.",
+        "ro": "Morning: Pedați până la monumentele de pe deal pentru a vă bucura de o priveliște panoramică spectaculoasă asupra orașului Tudela și a împrejurimilor sale.\nMidday: Coborâți spre centrul vechi plin de viață, vizitând ruine istorice și emblematica primărie de-a lungul traseului dvs. relaxant.\nAfternoon: Alunecați printre palate elegante și biserici complexe, acoperind mai mult teren pentru a aprecia diversele epoci arhitecturale.\nEvening: Urmați vechile limite ale orașului pe bicicletă, încheindu-vă ziua la rămășițele istorice ale Turnului San Julián în timpul apusului.",
+        "en": "Morning: Pedal up to the prominent hilltop monuments for a spectacular panoramic greeting of Tudela and its vast agricultural surroundings.\nMidday: Coast back down toward the bustling old town center, visiting historic ruins and the iconic city hall along your breezy route.\nAfternoon: Glide between elegant palaces and intricate churches, covering more ground to appreciate the diverse architectural eras.\nEvening: Follow the ancient city limits on your bike, wrapping up your day at the historic remnants of Torre San Julián as the sun sets."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:44",
+      "total_km": 2.86,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ermita de Santa Cruz - El Cristo",
+            "hu": "Ermita de Santa Cruz - El Cristo",
+            "ro": "Ermita de Santa Cruz - El Cristo",
+            "en": "Ermita de Santa Cruz - El Cristo"
+          },
+          "coords": [
+            -1.607758,
+            42.07263
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Morgen in der ruhigen Frömmigkeit dieser charmanten Einsiedelei am Stadtrand, wo das Parken in der Nähe für früh eintreffende Besucher recht einfach ist.",
+            "hu": "Kezdje a reggelt ennek a bájos külvárosi remetelaknak a békés légkörében, ahol a korán érkező látogatók számára a közeli parkolás viszonylag egyszerűen megoldható.",
+            "ro": "Începeți dimineața scufundat în pietatea senină a acestui schit fermecător de la periferia orașului, unde parcarea este relativ ușoară pentru vizitatorii care sosesc devreme.",
+            "en": "Begin your morning immersed in the serene piety of this charming hermitage on the city outskirts, where parking nearby is relatively easy for early-arriving visitors."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento al Corazón de Jesús",
+            "hu": "Monumento al Corazón de Jesús",
+            "ro": "Monumento al Corazón de Jesús",
+            "en": "Monumento al Corazón de Jesús"
+          },
+          "coords": [
+            -1.606858,
+            42.06713
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick über die Stadt von diesem hoch aufragenden Denkmal, wo bequeme Wanderschuhe den etwas steilen Aufstieg auf den Hügel deutlich erleichtern.",
+            "hu": "Élvezze a városra nyíló panorámát ebből a magaslati emlékműből, ahová a kényelmes sétacipő viselése sokkal kellemesebbé teszi a kissé meredek domboldali kapaszkodót.",
+            "ro": "Bucurați-vă de vederea panoramică asupra orașului de la acest monument impunător de pe deal, unde încălțămintea confortabilă vă va face urcușul mult mai plăcut.",
+            "en": "Enjoy panoramic views of the city from this towering hilltop monument, where wearing comfortable walking shoes will make the slightly steep ascent much more pleasant."
+          }
+        },
+        {
+          "name": {
+            "de": "Parroquia de Inmaculada Concepción y Convento de las Capuchinas",
+            "hu": "Parroquia de Inmaculada Concepción y Convento de las Capuchinas",
+            "ro": "Parroquia de Inmaculada Concepción y Convento de las Capuchinas",
+            "en": "Parroquia de Inmaculada Concepción y Convento de las Capuchinas"
+          },
+          "coords": [
+            -1.611907,
+            42.062641
+          ],
+          "category": "religious",
+          "arrive_at": "11:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Erfreuen Sie sich an der strengen Schönheit dieses klassischen Kapuzinerkomplexes und nehmen Sie sich Zeit für die subtilen historischen Tafeln nahe dem Haupteingang.",
+            "hu": "Gyönyörködjön e klasszikus kapucinus komplexum szigorú szépségében és történelmi jelentőségében, és szánjon időt a főbejárat közelében található információs táblákra.",
+            "ro": "Bucurați-vă de frumusețea austeră și importanța istorică a acestui complex clasic capucin, făcându-vă timp să citiți plăcile istorice subtile din apropierea intrării principale.",
+            "en": "Delight in the austere beauty and historical significance of this classic Capuchin complex, taking time to read the subtle historical plaques located near the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio de Marqués de Huarte",
+            "hu": "Palacio de Marqués de Huarte",
+            "ro": "Palacio de Marqués de Huarte",
+            "en": "Palacio de Marqués de Huarte"
+          },
+          "coords": [
+            -1.607278,
+            42.06281
+          ],
+          "category": "castle",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Versetzen Sie sich in die Vergangenheit in den kunstvollen Sälen dieses Adelspalastes, wo sich ein Weitwinkelobjektiv für das Fotografieren der Prunktreppe besonders lohnt.",
+            "hu": "Utazzon vissza az időben ennek az arisztokrata palotának a díszes termeiben, ahová érdemes nagylátószögű objektívet hozni a csodálatos főlépcső megörökítéséhez.",
+            "ro": "Întoarceți-vă în timp admirând sălile ornamentate ale acestui palat aristocratic, unde vă recomandăm să folosiți un obiectiv grandangular pentru a surprinde scara principală.",
+            "en": "Step back in time as you wander the ornate halls of this stunning aristocratic palace, where bringing a wide-angle lens is highly recommended for the grand staircase."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Monreal",
+            "hu": "Torre Monreal",
+            "ro": "Torre Monreal",
+            "en": "Torre Monreal"
+          },
+          "coords": [
+            -1.60627,
+            42.058853
+          ],
+          "category": "castle",
+          "arrive_at": "13:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Besteigen Sie den Bereich in der Nähe dieses mittelalterlichen Turms, um Tudelas Verteidigungsgeschichte zu verstehen, und bringen Sie Wasser für den nachmittäglichen Spaziergang mit.",
+            "hu": "Másszon fel ezen impozáns középkori torony környékére, hogy megértse Tudela stratégiai védelmi múltját, és hozzon magával vizet a meleg délutáni séta idejére.",
+            "ro": "Urcați în apropierea acestui turn medieval impunător pentru a înțelege istoria defensivă a Tudelei și aduceți apă, deoarece soarele poate fi intens după-amiaza.",
+            "en": "Climb the area near this commanding medieval tower to grasp Tudela’s strategic defense history, and bring water as the sun can be quite intense during the afternoon walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento al Corazón de María",
+            "hu": "Monumento al Corazón de María",
+            "ro": "Monumento al Corazón de María",
+            "en": "Monumento al Corazón de María"
+          },
+          "coords": [
+            -1.604745,
+            42.058511
+          ],
+          "category": "historical",
+          "arrive_at": "14:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser bedeutenden Statue, die dem Herzen Mariens gewidmet ist, einem idealen Ort für eine ruhige Reflexion vor Ihrer weiteren Reise durch die engen Gassen.",
+            "hu": "Álljon meg egy pillanatra ennél a Mária Szívének szentelt kiemelkedő szobornál, amely ideális hely egy kis csendes elmélkedésre, mielőtt folytatná útját a kanyargós utcákon.",
+            "ro": "Faceți o pauză la această statuie proeminentă dedicată Inimii Mariei, un loc ideal pentru o reflecție liniștită înainte de a continua călătoria pe străzile vechi ale orașului.",
+            "en": "Pause at this prominent statue dedicated to the Heart of Mary, an ideal spot for a quiet reflection before continuing your journey through Tudela’s winding ancient streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscina Urbanización Los Robles",
+            "hu": "Piscina Urbanización Los Robles",
+            "ro": "Piscina Urbanización Los Robles",
+            "en": "Piscina Urbanización Los Robles"
+          },
+          "coords": [
+            -1.599034,
+            42.054798
+          ],
+          "category": "recreational",
+          "arrive_at": "15:59",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich am Ende des Tages in dieser hervorragenden städtischen Freizeiteinrichtung ab, aber vergessen Sie nicht, ein Handtuch mitzubringen und die Öffnungszeiten zu prüfen.",
+            "hu": "Hűtse le magát és pihenjen meg ezekben a kiváló városi szabadidős létesítményekben a nap zárásaként, de ne felejtsen el törölközőt hozni és előzetesen ellenőrizni a nyitvatartást.",
+            "ro": "Răcoriți-vă și relaxați-vă la aceste excelente facilități de recreere urbană la finalul zilei, dar nu uitați să aduceți un prosop ușor și să verificați programul de vară.",
+            "en": "Cool off and unwind at these excellent urban recreational facilities to cap off your day, but remember to bring a light towel and confirm the seasonal opening hours beforehand."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Fahren Sie zu den ruhigen nördlichen Einsiedeleien und beginnen Sie Ihren Ausflug mit spirituellem Frieden abseits des städtischen Trubels.\nMidday: Parken Sie Ihr Fahrzeug näher am Stadtzentrum, um die großen Denkmäler und den imposanten Adelspalast mühelos zu erreichen.\nAfternoon: Genießen Sie den Komfort, zwischen historischen und religiösen Stätten zu fahren, um Tudelas Highlights ohne Ermüdung zu sehen.\nEvening: Beenden Sie Ihre Autotour mit einer Fahrt zu den städtischen Freizeitbädern, die einen erfrischenden Abschluss eines langen Tages bieten.",
+        "hu": "Morning: Autózzon el a csendes északi remetelakokhoz, és kezdje kirándulását spirituális békével, távol a városi reggeli nyüzsgéstől.\nMidday: Vigye közelebb járművét a városközponthoz, hogy könnyedén megközelíthesse a nagyszerű műemlékeket és az impozáns arisztokrata palotát.\nAfternoon: Élvezze a történelmi és vallási helyszínek közötti vezetés kényelmét, biztosítva, hogy fáradtság nélkül lássa Tudela legfőbb látnivalóit.\nEvening: Zárja autós túráját a városi szabadidős medencéknél, amely frissítő és pihentető lezárást kínál egy hosszú városnéző nap után.",
+        "ro": "Morning: Conduceți către schiturile liniștite din nord, începându-vă excursia cu o pace spirituală departe de agitația urbană de dimineață.\nMidday: Mutați-vă mașina mai aproape de centrul orașului pentru a accesa fără efort marile monumente și palatul aristocratic impunător.\nAfternoon: Bucurați-vă de confortul de a conduce între site-urile istorice și religioase, asigurându-vă că vedeți punctele cheie fără oboseală.\nEvening: Terminați turul auto îndreptându-vă spre piscinele de recreere urbane, oferind un final revigorant și relaxant al unei zile lungi.",
+        "en": "Morning: Drive out to the tranquil northern hermitages, starting your excursion with spiritual peace away from the urban morning hustle.\nMidday: Relocate your vehicle closer to the city center to effortlessly access the grand monuments and the imposing aristocratic palace.\nAfternoon: Enjoy the comfort of driving between distinct historic and religious sites, ensuring you see Tudela’s key highlights without fatigue.\nEvening: Finish your driving tour by heading to the urban recreational pools, offering a refreshing and relaxing end to a long day of sightseeing."
+      }
+    }
+  }
+}

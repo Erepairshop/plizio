@@ -1,0 +1,543 @@
+{
+  "city_id": "barth",
+  "anchor": {
+    "name": "Barth",
+    "coords": [
+      12.7266,
+      54.3687
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "19:27",
+      "total_km": 1.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Dammtor",
+            "hu": "Dammtor városkapu",
+            "ro": "Poarta Orașului Dammtor",
+            "en": "Dammtor City Gate"
+          },
+          "coords": [
+            12.7219,
+            54.3686
+          ],
+          "category": "architecture",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die mittelalterliche Architektur des Dammtors, eines imposanten Überrests der alten Stadtbefestigung, und achten Sie auf die historischen Tafeln.",
+            "hu": "Csodálja meg a Dammtor középkori építészetét, amely a régi városi erődítmények impozáns maradványa, és feltétlenül olvassa el a történetét bemutató táblákat.",
+            "ro": "Admirați arhitectura medievală a Porții Dammtor, o rămășiță impunătoare a vechilor fortificații din Barth, și nu ratați plăcile care detaliază istoria sa fascinantă.",
+            "en": "Admire the medieval architecture of the Dammtor City Gate, an imposing remnant of Barth's old fortifications, and be sure to check the plaques detailing its history."
+          }
+        },
+        {
+          "name": {
+            "de": "Papenhof Barth",
+            "hu": "Papenhof Barth",
+            "ro": "Papenhof Barth",
+            "en": "Papenhof Barth"
+          },
+          "coords": [
+            12.723145,
+            54.369274
+          ],
+          "category": "museum",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie den Papenhof, eines der ältesten Profangebäude Pommerns, um in die Regionalgeschichte einzutauchen; tragen Sie bequeme Schuhe für die unebenen Holzböden.",
+            "hu": "Fedezze fel a Papenhofot, Pomeránia egyik legrégebbi világi épületét, ahol elmerülhet a régió történelmében; viseljen kényelmes cipőt az egyenetlen fapadlók miatt.",
+            "ro": "Explorați Papenhof, una dintre cele mai vechi clădiri seculare din Pomerania, unde puteți aprofunda istoria regională; purtați încălțăminte comodă pentru podelele din lemn.",
+            "en": "Explore the Papenhof, one of the oldest secular buildings in Pomerania, where you can delve into regional history; wear comfortable shoes for the uneven wooden floors."
+          }
+        },
+        {
+          "name": {
+            "de": "Vineta-Museum",
+            "hu": "Vineta Múzeum",
+            "ro": "Muzeul Vineta",
+            "en": "Vineta Museum"
+          },
+          "coords": [
+            12.72515,
+            54.368189
+          ],
+          "category": "museum",
+          "arrive_at": "12:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Legende der versunkenen Stadt Vineta durch faszinierende Ausstellungen in diesem Museum, und nehmen Sie am Eingang eine Broschüre zur Orientierung mit.",
+            "hu": "Fedezze fel az elsüllyedt Vineta városának legendáját e lenyűgöző múzeum kiállításain keresztül, és kérjen egy tájékoztató füzetet a bejáratnál a felfedezéshez.",
+            "ro": "Descoperiți legenda orașului scufundat Vineta prin expozițiile fascinante de la acest muzeu și luați o broșură de la intrare pentru a vă ghida explorarea.",
+            "en": "Discover the legend of the sunken city of Vineta through fascinating exhibits at this engaging museum, and grab a brochure at the entrance to guide your exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Fangelturm",
+            "hu": "Fangelturm",
+            "ro": "Fangelturm",
+            "en": "Fangelturm"
+          },
+          "coords": [
+            12.727687,
+            54.366706
+          ],
+          "category": "history",
+          "arrive_at": "14:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Stehen Sie vor dem historischen Fangelturm, einem ehemaligen Gefängnisturm, der von außen tolle Fotomotive bietet, also bringen Sie ein Weitwinkelobjektiv mit.",
+            "hu": "Álljon meg a történelmi Fangelturm, az egykori börtöntorony előtt, amely kívülről remek fotótémát nyújt, ezért érdemes nagylátószögű objektívet hoznia a magassága miatt.",
+            "ro": "Opriți-vă în fața istoricului Fangelturm, un fost turn-închisoare care oferă oportunități excelente de fotografiere din exterior, așa că aduceți un obiectiv cu unghi larg.",
+            "en": "Stand before the historic Fangelturm, a former prison tower that offers great photo opportunities from the outside, so bring a wide-angle lens to capture its height."
+          }
+        },
+        {
+          "name": {
+            "de": "Adliges Damenstift",
+            "hu": "Nemes Hölgyek Alapítványa",
+            "ro": "Fundația Doamnelor Nobile",
+            "en": "Noble Ladies' Foundation"
+          },
+          "coords": [
+            12.728684,
+            54.369109
+          ],
+          "category": "history",
+          "arrive_at": "15:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Adlige Damenstift, um die aristokratische Sozialgeschichte der Region zu verstehen, und betrachten Sie die sorgfältig restaurierten Fassaden im Innenhof.",
+            "hu": "Látogasson el a Nemes Hölgyek Alapítványához, hogy megértse a régió arisztokratikus társadalomtörténetét, és nézze meg alaposan az udvarra néző, felújított homlokzatokat.",
+            "ro": "Vizitați Fundația Doamnelor Nobile pentru a înțelege istoria socială aristocratică a regiunii și priviți cu atenție fațadele meticulos restaurate cu fața spre curte.",
+            "en": "Visit the Noble Ladies' Foundation to understand the aristocratic social history of the region, and look closely at the meticulously restored facades facing the courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Barther Hafen",
+            "hu": "Barth kikötő",
+            "ro": "Portul Barth",
+            "en": "Barth Port"
+          },
+          "coords": [
+            12.727597,
+            54.370851
+          ],
+          "category": "landmark",
+          "arrive_at": "16:48",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie am belebten Barther Hafen entlang, um die traditionellen Segelschiffe zu beobachten, und gönnen Sie sich ein frisches Fischbrötchen an einem der Stände.",
+            "hu": "Sétáljon végig a nyüzsgő barthi kikötőben, hogy megfigyelje a vízen ringatózó hagyományos vitorlásokat, és kóstoljon meg egy friss halas szendvicset a helyi standoknál.",
+            "ro": "Plimbați-vă de-a lungul portului plin de viață Barth pentru a urmări corăbiile tradiționale pe apă și savurați un sandviș cu pește proaspăt de la una dintre tarabele locale.",
+            "en": "Stroll along the bustling Barth Port to watch the traditional sailing ships bobbing in the water, and treat yourself to a fresh fish sandwich from one of the local stalls."
+          }
+        },
+        {
+          "name": {
+            "de": "Windjammer-Museum",
+            "hu": "Windjammer Múzeum",
+            "ro": "Muzeul Windjammer",
+            "en": "Windjammer-Museum"
+          },
+          "coords": [
+            12.724055,
+            54.370468
+          ],
+          "category": "museum",
+          "arrive_at": "17:17",
+          "stay_min": 130,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie die umfangreiche Sammlung maritimer Artefakte im Windjammer-Museum, um das Seefahrtserbe zu verstehen, und fragen Sie das Personal nach Führungen.",
+            "hu": "Csodálja meg a Windjammer-Múzeum kiterjedt tengerészeti gyűjteményét, hogy megértse a város tengerészhagyatékát, és kérdezze a barátságos személyzetet a tárlatvezetésekről.",
+            "ro": "Minunați-vă de colecția de artefacte maritime de la Windjammer-Museum pentru a înțelege moștenirea maritimă și întrebați personalul prietenos despre tururile ghidate.",
+            "en": "Marvel at the extensive collection of maritime artifacts at the Windjammer-Museum to grasp the city's seafaring legacy, and ask the friendly staff about guided tours."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im mittelalterlichen Herzen von Barth und bewundern Sie gut erhaltene Befestigungsanlagen und bedeutende regionale Gebäude. Die Atmosphäre versetzt Sie sofort in die Vergangenheit zurück.\n\nTauchen Sie in die lokale Kultur ein durch faszinierende Museumsausstellungen, die Geschichten von versunkenen Städten und alten Traditionen enthüllen. Genießen Sie ein herzhaftes Mittagessen in der Nähe.\n\nVerbringen Sie den Nachmittag damit, aristokratische Hinterlassenschaften aufzuspüren und historische Wahrzeichen zu bestaunen. Der Spaziergang verbindet Sie tief mit dem architektonischen Erbe Pommerns.\n\nLassen Sie den Tag am belebten Hafen ausklingen, beobachten Sie das maritime Leben und tauchen Sie im Museum in die Seefahrtsgeschichte ein. Der Sonnenuntergang über dem Wasser ist unvergesslich.",
+        "hu": "Kezdje a napot Barth középkori szívében, csodálja meg a jól megőrzött erődítményeket és a jelentős regionális épületeket. A történelmi hangulat azonnal visszarepíti az időben.\n\nAhogy a nap feljebb hág, merüljön el a helyi kultúrában az elsüllyedt városok és ősi hagyományok történeteit bemutató múzeumi kiállításokon. Élvezzen egy kiadós helyi ebédet a közelben.\n\nTöltse a délutánt az arisztokratikus örökségek felfedezésével és a város történelmi nevezetességeinek megcsodálásával. A séta mélyen összeköti Önt Pomeránia építészeti örökségével.\n\nZárja a napot a nyüzsgő kikötőben, figyelje a tengeri életet, majd merüljön el a tengerészeti történelemben a hajózási múzeumban. A víz felett lenyugvó nap látványa felejthetetlen.",
+        "ro": "Începeți ziua explorând inima medievală a orașului Barth, admirând fortificațiile bine conservate și clădirile regionale semnificative. Atmosfera istorică vă transpune imediat înapoi în timp.\n\nPe măsură ce soarele urcă, scufundați-vă în cultura locală prin expoziții muzeale fascinante care descoperă povești despre orașe scufundate. Bucurați-vă de un prânz local copios în apropiere.\n\nPetreceți-vă după-amiaza urmărind moștenirile aristocratice și minunându-vă de reperele istorice ale orașului. Plimbarea vă conectează profund cu patrimoniul arhitectural al Pomeraniei.\n\nÎncheiați ziua în portul plin de viață, urmărind viața maritimă înainte de a pătrunde în istoria navigației la un muzeu nautic. Apusul de soare deasupra apei este pur și simplu de neuitat.",
+        "en": "Begin your day delving into the medieval heart of Barth, marveling at well-preserved fortifications and significant regional buildings. The historical atmosphere immediately transports you back in time.\n\nAs the sun climbs, immerse yourself in local culture through fascinating museum exhibits that uncover tales of sunken cities and ancient traditions. Enjoy a hearty local lunch nearby.\n\nSpend your afternoon tracing aristocratic legacies and marveling at the town's historical landmarks. The walk connects you deeply with the architectural heritage of Pomerania.\n\nConclude your day at the bustling port, watching maritime life unfold before diving into the seafaring history at a nautical museum. The sunset over the water is unforgettable."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:36",
+      "total_km": 5.55,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Marienkirche",
+            "hu": "Szent Mária-templom",
+            "ro": "Biserica Sf. Maria",
+            "en": "St. Mary's Church"
+          },
+          "coords": [
+            12.735994,
+            54.326423
+          ],
+          "category": "religion",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Betreten Sie die Marienkirche, um ihr atemberaubendes backsteingotisches Inneres und die Orgel zu bewundern, und versuchen Sie, während einer Probezeit hier zu sein.",
+            "hu": "Lépjen be a Szent Mária-templomba, hogy megcsodálja a lenyűgöző tégla gótikus belső teret és az orgonát, és próbálja úgy időzíteni a látogatást, hogy halljon egy próbát.",
+            "ro": "Pășiți în Biserica Sf. Maria pentru a admira interiorul său impresionant din cărămidă gotică și orga istorică, încercând să vă sincronizați vizita pentru a prinde o repetiție.",
+            "en": "Step into St. Mary's Church to witness its stunning brick gothic interior and the impressive historic organ, trying to time your visit to hear a practice session if possible."
+          }
+        },
+        {
+          "name": {
+            "de": "Bibelzentrum Barth",
+            "hu": "Bibelzentrum Barth",
+            "ro": "Bibelzentrum Barth",
+            "en": "Bibelzentrum Barth"
+          },
+          "coords": [
+            12.730442,
+            54.36212
+          ],
+          "category": "museum",
+          "arrive_at": "10:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie im Bibelzentrum Barth mit interaktiven Ausstellungen in die Geschichte der niederdeutschen Bibel ein und genießen Sie einen ruhigen Moment im gepflegten Garten.",
+            "hu": "Merüljön el az alnémet biblia történetében a Bibelzentrum Barth interaktív kiállításain, és élvezzen egy csendes pillanatot a gyönyörűen gondozott templomkertben.",
+            "ro": "Cufundați-vă în istoria Bibliei în germana de jos la Bibelzentrum Barth, care oferă expoziții interactive, și bucurați-vă de un moment de liniște în grădina frumos îngrijită.",
+            "en": "Immerse yourself in the history of the Low German Bible at the Bibelzentrum Barth, featuring interactive exhibits, and enjoy a quiet moment in the beautifully kept garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Fangelturm",
+            "hu": "Fangelturm",
+            "ro": "Fangelturm",
+            "en": "Fangelturm"
+          },
+          "coords": [
+            12.727687,
+            54.366706
+          ],
+          "category": "history",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Stehen Sie vor dem historischen Fangelturm, einem ehemaligen Gefängnisturm, der von außen tolle Fotomotive bietet, also bringen Sie ein Weitwinkelobjektiv mit.",
+            "hu": "Álljon meg a történelmi Fangelturm, az egykori börtöntorony előtt, amely kívülről remek fotótémát nyújt, ezért érdemes nagylátószögű objektívet hoznia a magassága miatt.",
+            "ro": "Opriți-vă în fața istoricului Fangelturm, un fost turn-închisoare care oferă oportunități excelente de fotografiere din exterior, așa că aduceți un obiectiv cu unghi larg.",
+            "en": "Stand before the historic Fangelturm, a former prison tower that offers great photo opportunities from the outside, so bring a wide-angle lens to capture its height."
+          }
+        },
+        {
+          "name": {
+            "de": "Adliges Damenstift",
+            "hu": "Nemes Hölgyek Alapítványa",
+            "ro": "Fundația Doamnelor Nobile",
+            "en": "Noble Ladies' Foundation"
+          },
+          "coords": [
+            12.728684,
+            54.369109
+          ],
+          "category": "history",
+          "arrive_at": "13:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Adlige Damenstift, um die aristokratische Sozialgeschichte der Region zu verstehen, und betrachten Sie die sorgfältig restaurierten Fassaden im Innenhof.",
+            "hu": "Látogasson el a Nemes Hölgyek Alapítványához, hogy megértse a régió arisztokratikus társadalomtörténetét, és nézze meg alaposan az udvarra néző, felújított homlokzatokat.",
+            "ro": "Vizitați Fundația Doamnelor Nobile pentru a înțelege istoria socială aristocratică a regiunii și priviți cu atenție fațadele meticulos restaurate cu fața spre curte.",
+            "en": "Visit the Noble Ladies' Foundation to understand the aristocratic social history of the region, and look closely at the meticulously restored facades facing the courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Barther Hafen",
+            "hu": "Barth kikötő",
+            "ro": "Portul Barth",
+            "en": "Barth Port"
+          },
+          "coords": [
+            12.727597,
+            54.370851
+          ],
+          "category": "landmark",
+          "arrive_at": "14:38",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie am belebten Barther Hafen entlang, um die traditionellen Segelschiffe zu beobachten, und gönnen Sie sich ein frisches Fischbrötchen an einem der Stände.",
+            "hu": "Sétáljon végig a nyüzsgő barthi kikötőben, hogy megfigyelje a vízen ringatózó hagyományos vitorlásokat, és kóstoljon meg egy friss halas szendvicset a helyi standoknál.",
+            "ro": "Plimbați-vă de-a lungul portului plin de viață Barth pentru a urmări corăbiile tradiționale pe apă și savurați un sandviș cu pește proaspăt de la una dintre tarabele locale.",
+            "en": "Stroll along the bustling Barth Port to watch the traditional sailing ships bobbing in the water, and treat yourself to a fresh fish sandwich from one of the local stalls."
+          }
+        },
+        {
+          "name": {
+            "de": "Windjammer-Museum",
+            "hu": "Windjammer Múzeum",
+            "ro": "Muzeul Windjammer",
+            "en": "Windjammer-Museum"
+          },
+          "coords": [
+            12.724055,
+            54.370468
+          ],
+          "category": "museum",
+          "arrive_at": "15:04",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie die umfangreiche Sammlung maritimer Artefakte im Windjammer-Museum, um das Seefahrtserbe zu verstehen, und fragen Sie das Personal nach Führungen.",
+            "hu": "Csodálja meg a Windjammer-Múzeum kiterjedt tengerészeti gyűjteményét, hogy megértse a város tengerészhagyatékát, és kérdezze a barátságos személyzetet a tárlatvezetésekről.",
+            "ro": "Minunați-vă de colecția de artefacte maritime de la Windjammer-Museum pentru a înțelege moștenirea maritimă și întrebați personalul prietenos despre tururile ghidate.",
+            "en": "Marvel at the extensive collection of maritime artifacts at the Windjammer-Museum to grasp the city's seafaring legacy, and ask the friendly staff about guided tours."
+          }
+        },
+        {
+          "name": {
+            "de": "Dammtor",
+            "hu": "Dammtor városkapu",
+            "ro": "Poarta Orașului Dammtor",
+            "en": "Dammtor City Gate"
+          },
+          "coords": [
+            12.7219,
+            54.3686
+          ],
+          "category": "architecture",
+          "arrive_at": "16:46",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die mittelalterliche Architektur des Dammtors, eines imposanten Überrests der alten Stadtbefestigung, und achten Sie auf die historischen Tafeln.",
+            "hu": "Csodálja meg a Dammtor középkori építészetét, amely a régi városi erődítmények impozáns maradványa, és feltétlenül olvassa el a történetét bemutató táblákat.",
+            "ro": "Admirați arhitectura medievală a Porții Dammtor, o rămășiță impunătoare a vechilor fortificații din Barth, și nu ratați plăcile care detaliază istoria sa fascinantă.",
+            "en": "Admire the medieval architecture of the Dammtor City Gate, an imposing remnant of Barth's old fortifications, and be sure to check the plaques detailing its history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im mittelalterlichen Herzen von Barth und bewundern Sie gut erhaltene Befestigungsanlagen und bedeutende regionale Gebäude. Die Atmosphäre versetzt Sie sofort in die Vergangenheit zurück.\n\nTauchen Sie in die lokale Kultur ein durch faszinierende Museumsausstellungen, die Geschichten von versunkenen Städten und alten Traditionen enthüllen. Genießen Sie ein herzhaftes Mittagessen in der Nähe.\n\nVerbringen Sie den Nachmittag damit, aristokratische Hinterlassenschaften aufzuspüren und historische Wahrzeichen zu bestaunen. Der Spaziergang verbindet Sie tief mit dem architektonischen Erbe Pommerns.\n\nLassen Sie den Tag am belebten Hafen ausklingen, beobachten Sie das maritime Leben und tauchen Sie im Museum in die Seefahrtsgeschichte ein. Der Sonnenuntergang über dem Wasser ist unvergesslich.",
+        "hu": "Kezdje a napot Barth középkori szívében, csodálja meg a jól megőrzött erődítményeket és a jelentős regionális épületeket. A történelmi hangulat azonnal visszarepíti az időben.\n\nAhogy a nap feljebb hág, merüljön el a helyi kultúrában az elsüllyedt városok és ősi hagyományok történeteit bemutató múzeumi kiállításokon. Élvezzen egy kiadós helyi ebédet a közelben.\n\nTöltse a délutánt az arisztokratikus örökségek felfedezésével és a város történelmi nevezetességeinek megcsodálásával. A séta mélyen összeköti Önt Pomeránia építészeti örökségével.\n\nZárja a napot a nyüzsgő kikötőben, figyelje a tengeri életet, majd merüljön el a tengerészeti történelemben a hajózási múzeumban. A víz felett lenyugvó nap látványa felejthetetlen.",
+        "ro": "Începeți ziua explorând inima medievală a orașului Barth, admirând fortificațiile bine conservate și clădirile regionale semnificative. Atmosfera istorică vă transpune imediat înapoi în timp.\n\nPe măsură ce soarele urcă, scufundați-vă în cultura locală prin expoziții muzeale fascinante care descoperă povești despre orașe scufundate. Bucurați-vă de un prânz local copios în apropiere.\n\nPetreceți-vă după-amiaza urmărind moștenirile aristocratice și minunându-vă de reperele istorice ale orașului. Plimbarea vă conectează profund cu patrimoniul arhitectural al Pomeraniei.\n\nÎncheiați ziua în portul plin de viață, urmărind viața maritimă înainte de a pătrunde în istoria navigației la un muzeu nautic. Apusul de soare deasupra apei este pur și simplu de neuitat.",
+        "en": "Begin your day delving into the medieval heart of Barth, marveling at well-preserved fortifications and significant regional buildings. The historical atmosphere immediately transports you back in time.\n\nAs the sun climbs, immerse yourself in local culture through fascinating museum exhibits that uncover tales of sunken cities and ancient traditions. Enjoy a hearty local lunch nearby.\n\nSpend your afternoon tracing aristocratic legacies and marveling at the town's historical landmarks. The walk connects you deeply with the architectural heritage of Pomerania.\n\nConclude your day at the bustling port, watching maritime life unfold before diving into the seafaring history at a nautical museum. The sunset over the water is unforgettable."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:19",
+      "total_km": 9.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bibelzentrum Barth",
+            "hu": "Bibelzentrum Barth",
+            "ro": "Bibelzentrum Barth",
+            "en": "Bibelzentrum Barth"
+          },
+          "coords": [
+            12.730442,
+            54.36212
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Tauchen Sie im Bibelzentrum Barth mit interaktiven Ausstellungen in die Geschichte der niederdeutschen Bibel ein und genießen Sie einen ruhigen Moment im gepflegten Garten.",
+            "hu": "Merüljön el az alnémet biblia történetében a Bibelzentrum Barth interaktív kiállításain, és élvezzen egy csendes pillanatot a gyönyörűen gondozott templomkertben.",
+            "ro": "Cufundați-vă în istoria Bibliei în germana de jos la Bibelzentrum Barth, care oferă expoziții interactive, și bucurați-vă de un moment de liniște în grădina frumos îngrijită.",
+            "en": "Immerse yourself in the history of the Low German Bible at the Bibelzentrum Barth, featuring interactive exhibits, and enjoy a quiet moment in the beautifully kept garden."
+          }
+        },
+        {
+          "name": {
+            "de": "Marienkirche",
+            "hu": "Szent Mária-templom",
+            "ro": "Biserica Sf. Maria",
+            "en": "St. Mary's Church"
+          },
+          "coords": [
+            12.735994,
+            54.326423
+          ],
+          "category": "religion",
+          "arrive_at": "10:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Betreten Sie die Marienkirche, um ihr atemberaubendes backsteingotisches Inneres und die Orgel zu bewundern, und versuchen Sie, während einer Probezeit hier zu sein.",
+            "hu": "Lépjen be a Szent Mária-templomba, hogy megcsodálja a lenyűgöző tégla gótikus belső teret és az orgonát, és próbálja úgy időzíteni a látogatást, hogy halljon egy próbát.",
+            "ro": "Pășiți în Biserica Sf. Maria pentru a admira interiorul său impresionant din cărămidă gotică și orga istorică, încercând să vă sincronizați vizita pentru a prinde o repetiție.",
+            "en": "Step into St. Mary's Church to witness its stunning brick gothic interior and the impressive historic organ, trying to time your visit to hear a practice session if possible."
+          }
+        },
+        {
+          "name": {
+            "de": "Barther Hafen",
+            "hu": "Barth kikötő",
+            "ro": "Portul Barth",
+            "en": "Barth Port"
+          },
+          "coords": [
+            12.727597,
+            54.370851
+          ],
+          "category": "landmark",
+          "arrive_at": "11:49",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie am belebten Barther Hafen entlang, um die traditionellen Segelschiffe zu beobachten, und gönnen Sie sich ein frisches Fischbrötchen an einem der Stände.",
+            "hu": "Sétáljon végig a nyüzsgő barthi kikötőben, hogy megfigyelje a vízen ringatózó hagyományos vitorlásokat, és kóstoljon meg egy friss halas szendvicset a helyi standoknál.",
+            "ro": "Plimbați-vă de-a lungul portului plin de viață Barth pentru a urmări corăbiile tradiționale pe apă și savurați un sandviș cu pește proaspăt de la una dintre tarabele locale.",
+            "en": "Stroll along the bustling Barth Port to watch the traditional sailing ships bobbing in the water, and treat yourself to a fresh fish sandwich from one of the local stalls."
+          }
+        },
+        {
+          "name": {
+            "de": "Windjammer-Museum",
+            "hu": "Windjammer Múzeum",
+            "ro": "Muzeul Windjammer",
+            "en": "Windjammer-Museum"
+          },
+          "coords": [
+            12.724055,
+            54.370468
+          ],
+          "category": "museum",
+          "arrive_at": "12:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie die umfangreiche Sammlung maritimer Artefakte im Windjammer-Museum, um das Seefahrtserbe zu verstehen, und fragen Sie das Personal nach Führungen.",
+            "hu": "Csodálja meg a Windjammer-Múzeum kiterjedt tengerészeti gyűjteményét, hogy megértse a város tengerészhagyatékát, és kérdezze a barátságos személyzetet a tárlatvezetésekről.",
+            "ro": "Minunați-vă de colecția de artefacte maritime de la Windjammer-Museum pentru a înțelege moștenirea maritimă și întrebați personalul prietenos despre tururile ghidate.",
+            "en": "Marvel at the extensive collection of maritime artifacts at the Windjammer-Museum to grasp the city's seafaring legacy, and ask the friendly staff about guided tours."
+          }
+        },
+        {
+          "name": {
+            "de": "Vineta-Museum",
+            "hu": "Vineta Múzeum",
+            "ro": "Muzeul Vineta",
+            "en": "Vineta Museum"
+          },
+          "coords": [
+            12.72515,
+            54.368189
+          ],
+          "category": "museum",
+          "arrive_at": "14:04",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Legende der versunkenen Stadt Vineta durch faszinierende Ausstellungen in diesem Museum, und nehmen Sie am Eingang eine Broschüre zur Orientierung mit.",
+            "hu": "Fedezze fel az elsüllyedt Vineta városának legendáját e lenyűgöző múzeum kiállításain keresztül, és kérjen egy tájékoztató füzetet a bejáratnál a felfedezéshez.",
+            "ro": "Descoperiți legenda orașului scufundat Vineta prin expozițiile fascinante de la acest muzeu și luați o broșură de la intrare pentru a vă ghida explorarea.",
+            "en": "Discover the legend of the sunken city of Vineta through fascinating exhibits at this engaging museum, and grab a brochure at the entrance to guide your exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Papenhof Barth",
+            "hu": "Papenhof Barth",
+            "ro": "Papenhof Barth",
+            "en": "Papenhof Barth"
+          },
+          "coords": [
+            12.723145,
+            54.369274
+          ],
+          "category": "museum",
+          "arrive_at": "15:47",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie den Papenhof, eines der ältesten Profangebäude Pommerns, um in die Regionalgeschichte einzutauchen; tragen Sie bequeme Schuhe für die unebenen Holzböden.",
+            "hu": "Fedezze fel a Papenhofot, Pomeránia egyik legrégebbi világi épületét, ahol elmerülhet a régió történelmében; viseljen kényelmes cipőt az egyenetlen fapadlók miatt.",
+            "ro": "Explorați Papenhof, una dintre cele mai vechi clădiri seculare din Pomerania, unde puteți aprofunda istoria regională; purtați încălțăminte comodă pentru podelele din lemn.",
+            "en": "Explore the Papenhof, one of the oldest secular buildings in Pomerania, where you can delve into regional history; wear comfortable shoes for the uneven wooden floors."
+          }
+        },
+        {
+          "name": {
+            "de": "Dammtor",
+            "hu": "Dammtor városkapu",
+            "ro": "Poarta Orașului Dammtor",
+            "en": "Dammtor City Gate"
+          },
+          "coords": [
+            12.7219,
+            54.3686
+          ],
+          "category": "architecture",
+          "arrive_at": "17:29",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die mittelalterliche Architektur des Dammtors, eines imposanten Überrests der alten Stadtbefestigung, und achten Sie auf die historischen Tafeln.",
+            "hu": "Csodálja meg a Dammtor középkori építészetét, amely a régi városi erődítmények impozáns maradványa, és feltétlenül olvassa el a történetét bemutató táblákat.",
+            "ro": "Admirați arhitectura medievală a Porții Dammtor, o rămășiță impunătoare a vechilor fortificații din Barth, și nu ratați plăcile care detaliază istoria sa fascinantă.",
+            "en": "Admire the medieval architecture of the Dammtor City Gate, an imposing remnant of Barth's old fortifications, and be sure to check the plaques detailing its history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im mittelalterlichen Herzen von Barth und bewundern Sie gut erhaltene Befestigungsanlagen und bedeutende regionale Gebäude. Die Atmosphäre versetzt Sie sofort in die Vergangenheit zurück.\n\nTauchen Sie in die lokale Kultur ein durch faszinierende Museumsausstellungen, die Geschichten von versunkenen Städten und alten Traditionen enthüllen. Genießen Sie ein herzhaftes Mittagessen in der Nähe.\n\nVerbringen Sie den Nachmittag damit, aristokratische Hinterlassenschaften aufzuspüren und historische Wahrzeichen zu bestaunen. Der Spaziergang verbindet Sie tief mit dem architektonischen Erbe Pommerns.\n\nLassen Sie den Tag am belebten Hafen ausklingen, beobachten Sie das maritime Leben und tauchen Sie im Museum in die Seefahrtsgeschichte ein. Der Sonnenuntergang über dem Wasser ist unvergesslich.",
+        "hu": "Kezdje a napot Barth középkori szívében, csodálja meg a jól megőrzött erődítményeket és a jelentős regionális épületeket. A történelmi hangulat azonnal visszarepíti az időben.\n\nAhogy a nap feljebb hág, merüljön el a helyi kultúrában az elsüllyedt városok és ősi hagyományok történeteit bemutató múzeumi kiállításokon. Élvezzen egy kiadós helyi ebédet a közelben.\n\nTöltse a délutánt az arisztokratikus örökségek felfedezésével és a város történelmi nevezetességeinek megcsodálásával. A séta mélyen összeköti Önt Pomeránia építészeti örökségével.\n\nZárja a napot a nyüzsgő kikötőben, figyelje a tengeri életet, majd merüljön el a tengerészeti történelemben a hajózási múzeumban. A víz felett lenyugvó nap látványa felejthetetlen.",
+        "ro": "Începeți ziua explorând inima medievală a orașului Barth, admirând fortificațiile bine conservate și clădirile regionale semnificative. Atmosfera istorică vă transpune imediat înapoi în timp.\n\nPe măsură ce soarele urcă, scufundați-vă în cultura locală prin expoziții muzeale fascinante care descoperă povești despre orașe scufundate. Bucurați-vă de un prânz local copios în apropiere.\n\nPetreceți-vă după-amiaza urmărind moștenirile aristocratice și minunându-vă de reperele istorice ale orașului. Plimbarea vă conectează profund cu patrimoniul arhitectural al Pomeraniei.\n\nÎncheiați ziua în portul plin de viață, urmărind viața maritimă înainte de a pătrunde în istoria navigației la un muzeu nautic. Apusul de soare deasupra apei este pur și simplu de neuitat.",
+        "en": "Begin your day delving into the medieval heart of Barth, marveling at well-preserved fortifications and significant regional buildings. The historical atmosphere immediately transports you back in time.\n\nAs the sun climbs, immerse yourself in local culture through fascinating museum exhibits that uncover tales of sunken cities and ancient traditions. Enjoy a hearty local lunch nearby.\n\nSpend your afternoon tracing aristocratic legacies and marveling at the town's historical landmarks. The walk connects you deeply with the architectural heritage of Pomerania.\n\nConclude your day at the bustling port, watching maritime life unfold before diving into the seafaring history at a nautical museum. The sunset over the water is unforgettable."
+      }
+    }
+  }
+}

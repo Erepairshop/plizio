@@ -1,0 +1,520 @@
+{
+  "city_id": "ireland-annascaul-cities-v2",
+  "anchor": {
+    "name": "Annascaul",
+    "coords": [
+      -10.05548,
+      52.15109
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Statue of Our Lady",
+            "hu": "Statue of Our Lady",
+            "ro": "Statue of Our Lady",
+            "en": "Statue of Our Lady"
+          },
+          "coords": [
+            -10.056892,
+            52.151149
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses ruhige Wahrzeichen, das das Herz der Gemeinde markiert und als idealer Treffpunkt dient, also ruhen Sie sich auf den Bänken aus, bevor Sie losgehen.",
+            "hu": "Csodálja meg ezt a békés tájékozódási pontot, amely a közösség szívét jelzi és tökéletes találkozóhely, így pihenjen meg a közeli padokon, mielőtt elkezdené a sétáját.",
+            "ro": "Admirați acest punct de reper senin care marchează inima comunității, fiind un loc de întâlnire perfect, așa că odihniți-vă pe băncile din apropiere înainte de plimbare.",
+            "en": "Admire this serene landmark that marks the heart of the community, serving as a perfect meeting spot, so take a moment to rest on the nearby benches before starting your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Parcalassa",
+            "hu": "Parcalassa",
+            "ro": "Parcalassa",
+            "en": "Parcalassa"
+          },
+          "coords": [
+            -10.055238,
+            52.147047
+          ],
+          "category": "historical",
+          "arrive_at": "09:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Erkunden Sie die antiken Überreste, die frühe Siedlungsmuster im üppigen Tal offenbaren, und tragen Sie feste wasserdichte Schuhe, da das Gras hier ziemlich feucht sein kann.",
+            "hu": "Fedezze fel az ősi történelmi maradványokat, amelyek a korai települési mintákat mutatják a buja völgyben, és viseljen vízálló cipőt, mivel a fű meglehetősen nedves lehet.",
+            "ro": "Explorați rămășițele istorice antice care dezvăluie modele de așezare timpurie în valea luxuriantă și purtați încălțăminte impermeabilă, deoarece iarba poate fi foarte umedă.",
+            "en": "Explore the ancient historical remnants that reveal early settlement patterns in the lush valley, and be sure to wear sturdy waterproof shoes as the grass can be quite damp."
+          }
+        },
+        {
+          "name": {
+            "de": "Lisracreeveen",
+            "hu": "Lisracreeveen",
+            "ro": "Lisracreeveen",
+            "en": "Lisracreeveen"
+          },
+          "coords": [
+            -10.064774,
+            52.153016
+          ],
+          "category": "historical",
+          "arrive_at": "11:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.92,
+          "tip_5lang": {
+            "de": "Entdecken Sie die subtilen Erdwälle, die diese historische Verteidigungsanlage umreißen, und nähern Sie sich langsam, um die in den Hecken nistenden Vögel zu beobachten.",
+            "hu": "Fedezze fel a finom földműveket, amelyek ezt a történelmi védművet vázolják fel nyomokat kínálva a múltról, és lassan közeledjen, hogy megfigyelhesse a fészkelő madarakat.",
+            "ro": "Descoperiți lucrările de pământ subtile care conturează această structură defensivă istorică și apropiați-vă încet pentru a observa păsările locale care cuibăresc în garduri.",
+            "en": "Discover the subtle earthworks that outline this historic defensive structure offering clues to the past, and approach slowly to spot local birdlife nesting in the hedgerows."
+          }
+        },
+        {
+          "name": {
+            "de": "Lismore",
+            "hu": "Lismore",
+            "ro": "Lismore",
+            "en": "Lismore"
+          },
+          "coords": [
+            -10.05058,
+            52.163602
+          ],
+          "category": "historical",
+          "arrive_at": "12:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.46,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die stimmungsvollen Ruinen dieser einst bedeutenden historischen Stätte und bringen Sie ein Weitwinkelobjektiv mit, um die weite Landschaft einzufangen.",
+            "hu": "Sétáljon végig ezen az egykor jelentős történelmi helyszín hangulatos romjain, és hozzon magával nagylátószögű objektívet, hogy megörökíthesse a lenyűgöző tájat és a romokat.",
+            "ro": "Plimbați-vă prin ruinele evocatoare ale acestui sit istoric cândva semnificativ și aduceți un obiectiv cu unghi larg pentru a surprinde peisajul amplu ce înconjoară zona.",
+            "en": "Wander through the evocative ruins of this once-significant historical site to feel the weight of centuries, and bring a wide-angle lens to capture the sweeping landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Lios na gCraobh Ringfort",
+            "hu": "Lios na gCraobh Ringfort",
+            "ro": "Lios na gCraobh Ringfort",
+            "en": "Lios na gCraobh Ringfort"
+          },
+          "coords": [
+            -10.038157,
+            52.153636
+          ],
+          "category": "historical",
+          "arrive_at": "14:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.36,
+          "tip_5lang": {
+            "de": "Treten Sie ein in dieses bemerkenswert erhaltene kreisförmige Ringfort, das antike Baukunst zeigt, und stellen Sie sich genau in die Mitte, um die einzigartige Akustik zu testen.",
+            "hu": "Lépjen be ebbe a figyelemreméltóan megőrzött kör alakú gyűrűvárba, amely az ősi építészeti zsenialitást mutatja, és álljon pontosan a közepére az egyedi akusztika teszteléséhez.",
+            "ro": "Pășiți în interiorul acestui fort inelar perfect conservat, care prezintă ingeniozitatea arhitecturală antică, și stați exact în centru pentru a testa ecourile acustice unice.",
+            "en": "Step inside this remarkably preserved circular ringfort that showcases ancient architectural ingenuity, and stand exactly in the center to test the unique acoustic echoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Jerome Connor Monument",
+            "hu": "Jerome Connor Monument",
+            "ro": "Jerome Connor Monument",
+            "en": "Jerome Connor Monument"
+          },
+          "coords": [
+            -10.031169,
+            52.160316
+          ],
+          "category": "historical",
+          "arrive_at": "16:00",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.82,
+          "tip_5lang": {
+            "de": "Ehren Sie das Erbe des berühmten Bildhauers, indem Sie diese markante Bronze-Tribut bewundern, und besuchen Sie sie am späten Nachmittag, wenn die Sonne die Details beleuchtet.",
+            "hu": "Tisztelegjen a híres szobrász öröksége előtt ennek a lenyűgöző bronz alkotásnak a megtekintésével, és látogasson el késő délután, amikor a lemenő nap kiemeli a részleteket.",
+            "ro": "Onorați moștenirea celebrului sculptor admirând acest tribut izbitor din bronz și vizitați-l după-amiaza târziu, când soarele apune și luminează minunat toate detaliile.",
+            "en": "Honor the legacy of the famous sculptor by admiring this striking bronze tribute to his creative genius, and visit in the late afternoon when the setting sun illuminates it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt im charmanten Herzen der Stadt am Wahrzeichen der Statue of Our Lady. Sie spazieren sanft zu den antiken Überresten von Parcalassa.\nZur Mittagszeit tauchen Sie bei Lisracreeveen tiefer in die faszinierende Vergangenheit der Region ein.\nAm Nachmittag erkunden Sie die beeindruckenden historischen Stätten von Lismore und das meisterhaft erbaute Ringfort von Lios na gCraobh.\nIhr Abend klingt entspannt am Jerome Connor Monument aus, wo Sie die lokale Kunstgeschichte bei untergehender Sonne auf sich wirken lassen können.",
+        "hu": "A reggel a város bájos szívében indul, a Statue of Our Lady nevezetességnél, ahonnan Parcalassa ősi romjaihoz sétál.\nDélben egyre mélyebbre merül a régió múltjában Lisracreeveen rejtett földműveinél.\nDélután Lismore történelmi helyszínét és a Lios na gCraobh zseniális gyűrűvárát fedezi fel.\nAz estét a Jerome Connor Monumentnél zárja, ahol a lemenő nap fényében elmélkedhet a helyi művészet kiemelkedő alkotásán.",
+        "ro": "Dimineața începe în inima fermecătoare a orașului la Statue of Our Lady, urmată de o plimbare spre ruinele antice din Parcalassa.\nLa prânz, aprofundați trecutul fascinant al regiunii explorând lucrările de pământ de la Lisracreeveen.\nDupă-amiaza este dedicată siturilor istorice impresionante din Lismore și ingeniosului fort inelar Lios na gCraobh.\nSeara se încheie liniștit la Monumentul Jerome Connor, admirând moștenirea artistică locală în lumina blândă a apusului.",
+        "en": "Your morning starts in the charming heart of town at the Statue of Our Lady before a gentle stroll to the ancient remnants of Parcalassa.\nAt midday, you will delve deeper into the region's fascinating past at the subtle earthworks of Lisracreeveen.\nThe afternoon is spent exploring the impressive historic sites of Lismore and the masterful ringfort of Lios na gCraobh.\nYour evening concludes at the Jerome Connor Monument, reflecting on local artistic heritage as the sun begins to gently set."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:31",
+      "total_km": 8.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Statue of Our Lady",
+            "hu": "Statue of Our Lady",
+            "ro": "Statue of Our Lady",
+            "en": "Statue of Our Lady"
+          },
+          "coords": [
+            -10.056892,
+            52.151149
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses ruhige Wahrzeichen, das das Herz der Gemeinde markiert und als idealer Treffpunkt dient, also ruhen Sie sich auf den Bänken aus, bevor Sie losgehen.",
+            "hu": "Csodálja meg ezt a békés tájékozódási pontot, amely a közösség szívét jelzi és tökéletes találkozóhely, így pihenjen meg a közeli padokon, mielőtt elkezdené a sétáját.",
+            "ro": "Admirați acest punct de reper senin care marchează inima comunității, fiind un loc de întâlnire perfect, așa că odihniți-vă pe băncile din apropiere înainte de plimbare.",
+            "en": "Admire this serene landmark that marks the heart of the community, serving as a perfect meeting spot, so take a moment to rest on the nearby benches before starting your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Lios na gCraobh Ringfort",
+            "hu": "Lios na gCraobh Ringfort",
+            "ro": "Lios na gCraobh Ringfort",
+            "en": "Lios na gCraobh Ringfort"
+          },
+          "coords": [
+            -10.038157,
+            52.153636
+          ],
+          "category": "historical",
+          "arrive_at": "09:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Treten Sie ein in dieses bemerkenswert erhaltene kreisförmige Ringfort, das antike Baukunst zeigt, und stellen Sie sich genau in die Mitte, um die einzigartige Akustik zu testen.",
+            "hu": "Lépjen be ebbe a figyelemreméltóan megőrzött kör alakú gyűrűvárba, amely az ősi építészeti zsenialitást mutatja, és álljon pontosan a közepére az egyedi akusztika teszteléséhez.",
+            "ro": "Pășiți în interiorul acestui fort inelar perfect conservat, care prezintă ingeniozitatea arhitecturală antică, și stați exact în centru pentru a testa ecourile acustice unice.",
+            "en": "Step inside this remarkably preserved circular ringfort that showcases ancient architectural ingenuity, and stand exactly in the center to test the unique acoustic echoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Jerome Connor Monument",
+            "hu": "Jerome Connor Monument",
+            "ro": "Jerome Connor Monument",
+            "en": "Jerome Connor Monument"
+          },
+          "coords": [
+            -10.031169,
+            52.160316
+          ],
+          "category": "historical",
+          "arrive_at": "10:56",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ehren Sie das Erbe des berühmten Bildhauers, indem Sie diese markante Bronze-Tribut bewundern, und besuchen Sie sie am späten Nachmittag, wenn die Sonne die Details beleuchtet.",
+            "hu": "Tisztelegjen a híres szobrász öröksége előtt ennek a lenyűgöző bronz alkotásnak a megtekintésével, és látogasson el késő délután, amikor a lemenő nap kiemeli a részleteket.",
+            "ro": "Onorați moștenirea celebrului sculptor admirând acest tribut izbitor din bronz și vizitați-l după-amiaza târziu, când soarele apune și luminează minunat toate detaliile.",
+            "en": "Honor the legacy of the famous sculptor by admiring this striking bronze tribute to his creative genius, and visit in the late afternoon when the setting sun illuminates it."
+          }
+        },
+        {
+          "name": {
+            "de": "Lismore",
+            "hu": "Lismore",
+            "ro": "Lismore",
+            "en": "Lismore"
+          },
+          "coords": [
+            -10.05058,
+            52.163602
+          ],
+          "category": "historical",
+          "arrive_at": "11:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die stimmungsvollen Ruinen dieser einst bedeutenden historischen Stätte und bringen Sie ein Weitwinkelobjektiv mit, um die weite Landschaft einzufangen.",
+            "hu": "Sétáljon végig ezen az egykor jelentős történelmi helyszín hangulatos romjain, és hozzon magával nagylátószögű objektívet, hogy megörökíthesse a lenyűgöző tájat és a romokat.",
+            "ro": "Plimbați-vă prin ruinele evocatoare ale acestui sit istoric cândva semnificativ și aduceți un obiectiv cu unghi larg pentru a surprinde peisajul amplu ce înconjoară zona.",
+            "en": "Wander through the evocative ruins of this once-significant historical site to feel the weight of centuries, and bring a wide-angle lens to capture the sweeping landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Carrigcreender",
+            "hu": "Carrigcreender",
+            "ro": "Carrigcreender",
+            "en": "Carrigcreender"
+          },
+          "coords": [
+            -10.063026,
+            52.163661
+          ],
+          "category": "historical",
+          "arrive_at": "12:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die felsigen Vorsprünge und verstreuten Steine dieser rätselhaften historischen Stätte und schließen Sie Ihr Fahrrad sicher am Holztor ab, bevor Sie erkunden.",
+            "hu": "Vizsgálja meg e titokzatos örökségi helyszín szikláit és elszórt köveit, amelyek elfeledett történeteket mesélnek el, és zárja le biztonságosan a kerékpárját a fa kapunál.",
+            "ro": "Investigați aflorimentele stâncoase și pietrele împrăștiate ale acestui sit de patrimoniu enigmatic și asigurați-vă că legați bicicleta la poarta de lemn înainte de a explora.",
+            "en": "Investigate the rocky outcrops and scattered stones of this enigmatic heritage site that tells forgotten stories, and lock your bike securely at the wooden gate before exploring."
+          }
+        },
+        {
+          "name": {
+            "de": "Lisheenatullamush",
+            "hu": "Lisheenatullamush",
+            "ro": "Lisheenatullamush",
+            "en": "Lisheenatullamush"
+          },
+          "coords": [
+            -10.082609,
+            52.156107
+          ],
+          "category": "historical",
+          "arrive_at": "14:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Navigieren Sie durch das mystische Gelände dieser abgelegenen archäologischen Stätte und verwenden Sie eine detaillierte topografische Karte, da die Wegmarkierungen spärlich sind.",
+            "hu": "Navigáljon ennek a távoli régészeti lelőhelynek a misztikus terepén, amely érintetlennek tűnik a modern kor számára, és használjon részletes térképet a ritka jelzések miatt.",
+            "ro": "Navigați pe terenul mistic al acestui sit arheologic îndepărtat care pare neatins de timpurile moderne și utilizați o hartă topografică detaliată, deoarece marcajele sunt rare.",
+            "en": "Navigate the mystical terrain of this remote archaeological site that feels untouched by modern times, and use a detailed topographic map as the trail markers can be very sparse."
+          }
+        },
+        {
+          "name": {
+            "de": "Bunaneer Strand",
+            "hu": "Bunaneer Strand",
+            "ro": "Bunaneer Strand",
+            "en": "Bunaneer Strand"
+          },
+          "coords": [
+            -10.050561,
+            52.136591
+          ],
+          "category": "recreational",
+          "arrive_at": "15:46",
+          "stay_min": 105,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den ruhigen Ufern dieses weiten Strandes mit atemberaubendem Blick auf die raue Küste und packen Sie eine Windjacke ein, da die Meeresbrise abends auffrischt.",
+            "hu": "Pihenjen ezen a nyugodt, tágas tengerparton, amely lélegzetelállító kilátást nyújt a zord partvonalra, és csomagoljon széldzsekit, mert a parti szellő estére megerősödhet.",
+            "ro": "Relaxați-vă pe țărmurile liniștite ale acestei plaje întinse care oferă vederi uluitoare ale coastei stâncoase și luați o jachetă de vânt, deoarece briza se întețește seara.",
+            "en": "Relax on the tranquil shores of this sweeping beach that offers breathtaking views of the rugged coastline, and pack a windbreaker because the coastal breeze picks up in the evening."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein frischer Start erwartet Sie an der Statue of Our Lady, bevor Sie zum beeindruckenden Lios na gCraobh Ringfort radeln.\nMittags machen Sie Halt am Jerome Connor Monument und fahren weiter zu den geschichtsträchtigen Ruinen von Lismore.\nAm Nachmittag fordern Sie die mystischen Landschaften von Carrigcreender und Lisheenatullamush auf zwei Rädern heraus.\nDen Tag lassen Sie schließlich entspannt am Bunaneer Strand ausklingen, während die frische Meeresbrise Ihre Sinne belebt.",
+        "hu": "Frissítő kezdés várja a Statue of Our Lady szobornál, mielőtt eltekerne a lenyűgöző Lios na gCraobh gyűrűvárhoz.\nDélben megáll a Jerome Connor Monumentnél, majd tovább kerekezik Lismore történelmi romjaihoz.\nDélután Carrigcreender és Lisheenatullamush misztikus tájait hódítja meg két keréken, élvezve a kihívást.\nA napot végül a nyugodt Bunaneer Strand partjainál zárja, ahol a tengerparti szellő felfrissíti az esti órákban.",
+        "ro": "Un început proaspăt vă așteaptă la Statue of Our Lady, înainte de a pedala spre impresionantul fort inelar Lios na gCraobh.\nLa prânz, opriți la Monumentul Jerome Connor și continuați spre ruinele încărcate de istorie de la Lismore.\nDupă-amiaza vă provoacă să navigați peisajele mistice de la Carrigcreender și îndepărtatul Lisheenatullamush.\nZiua se încheie relaxant pe țărmul liniștit de la Bunaneer Strand, în timp ce briza mării vă revigorează simțurile.",
+        "en": "A crisp start awaits at the Statue of Our Lady before pedaling towards the impressive architectural marvel of Lios na gCraobh Ringfort.\nBy midday, you pause at the Jerome Connor Monument and cycle onwards to the storied historic ruins of Lismore.\nThe afternoon challenges you with the mystical landscapes of Carrigcreender and the remote archaeological site of Lisheenatullamush.\nEnd your day relaxing on the tranquil shores of Bunaneer Strand, letting the evening coastal breeze refresh you entirely."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:07",
+      "total_km": 7.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parcalassa",
+            "hu": "Parcalassa",
+            "ro": "Parcalassa",
+            "en": "Parcalassa"
+          },
+          "coords": [
+            -10.055238,
+            52.147047
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die antiken Überreste, die frühe Siedlungsmuster im üppigen Tal offenbaren, und tragen Sie feste wasserdichte Schuhe, da das Gras hier ziemlich feucht sein kann.",
+            "hu": "Fedezze fel az ősi történelmi maradványokat, amelyek a korai települési mintákat mutatják a buja völgyben, és viseljen vízálló cipőt, mivel a fű meglehetősen nedves lehet.",
+            "ro": "Explorați rămășițele istorice antice care dezvăluie modele de așezare timpurie în valea luxuriantă și purtați încălțăminte impermeabilă, deoarece iarba poate fi foarte umedă.",
+            "en": "Explore the ancient historical remnants that reveal early settlement patterns in the lush valley, and be sure to wear sturdy waterproof shoes as the grass can be quite damp."
+          }
+        },
+        {
+          "name": {
+            "de": "Bunaneer Strand",
+            "hu": "Bunaneer Strand",
+            "ro": "Bunaneer Strand",
+            "en": "Bunaneer Strand"
+          },
+          "coords": [
+            -10.050561,
+            52.136591
+          ],
+          "category": "recreational",
+          "arrive_at": "10:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den ruhigen Ufern dieses weiten Strandes mit atemberaubendem Blick auf die raue Küste und packen Sie eine Windjacke ein, da die Meeresbrise abends auffrischt.",
+            "hu": "Pihenjen ezen a nyugodt, tágas tengerparton, amely lélegzetelállító kilátást nyújt a zord partvonalra, és csomagoljon széldzsekit, mert a parti szellő estére megerősödhet.",
+            "ro": "Relaxați-vă pe țărmurile liniștite ale acestei plaje întinse care oferă vederi uluitoare ale coastei stâncoase și luați o jachetă de vânt, deoarece briza se întețește seara.",
+            "en": "Relax on the tranquil shores of this sweeping beach that offers breathtaking views of the rugged coastline, and pack a windbreaker because the coastal breeze picks up in the evening."
+          }
+        },
+        {
+          "name": {
+            "de": "Doonclaur",
+            "hu": "Doonclaur",
+            "ro": "Doonclaur",
+            "en": "Doonclaur"
+          },
+          "coords": [
+            -10.081602,
+            52.147664
+          ],
+          "category": "historical",
+          "arrive_at": "11:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die rauen Fundamente dieser historischen Festung, die einst das ganze Tal überblickte, und nutzen Sie den kleinen Schotterparkplatz sicher für Ihr Fahrzeug.",
+            "hu": "Vizsgálja meg ennek a történelmi erődítménynek a zord alapjait, amely egykor az egész völgyet uralta, és használja a kis kavicsos kiállót biztonságosan a járműve parkolásához.",
+            "ro": "Examinați fundațiile aspre ale acestei fortărețe istorice care odată domina întreaga priveliște a văii și folosiți mica zonă de pietriș pentru a vă parca vehiculul în siguranță.",
+            "en": "Examine the rugged foundations of this historic stronghold that once commanded the entire valley view, and utilize the small gravel pull-off area safely to park your vehicle."
+          }
+        },
+        {
+          "name": {
+            "de": "Lisraturraun",
+            "hu": "Lisraturraun",
+            "ro": "Lisraturraun",
+            "en": "Lisraturraun"
+          },
+          "coords": [
+            -10.082189,
+            52.149869
+          ],
+          "category": "historical",
+          "arrive_at": "13:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Wandern Sie um die alten Steinreihen, die jahrhundertelange keltische Geheimnisse bergen, und achten Sie beim Gehen sorgfältig auf den unebenen, moosbedeckten und rutschigen Boden.",
+            "hu": "Sétáljon az ősi kősorok körül, amelyek évszázados kelta rejtélyeket és csendes bájt őriznek, és ügyeljen a lépéseire az egyenetlen, mohával borított talajon séta közben.",
+            "ro": "Plimbați-vă în jurul aliniamentelor antice de piatră care dețin secole de mister celtic și aveți mare grijă la pași pe solul denivelat și acoperit de mușchi atunci când mergeți.",
+            "en": "Wander around the ancient stone alignments that hold centuries of Celtic mystery and quiet charm, and watch your step carefully on the uneven, moss-covered ground as you walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Lisheenatullamush",
+            "hu": "Lisheenatullamush",
+            "ro": "Lisheenatullamush",
+            "en": "Lisheenatullamush"
+          },
+          "coords": [
+            -10.082609,
+            52.156107
+          ],
+          "category": "historical",
+          "arrive_at": "14:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Navigieren Sie durch das mystische Gelände dieser abgelegenen archäologischen Stätte und verwenden Sie eine detaillierte topografische Karte, da die Wegmarkierungen spärlich sind.",
+            "hu": "Navigáljon ennek a távoli régészeti lelőhelynek a misztikus terepén, amely érintetlennek tűnik a modern kor számára, és használjon részletes térképet a ritka jelzések miatt.",
+            "ro": "Navigați pe terenul mistic al acestui sit arheologic îndepărtat care pare neatins de timpurile moderne și utilizați o hartă topografică detaliată, deoarece marcajele sunt rare.",
+            "en": "Navigate the mystical terrain of this remote archaeological site that feels untouched by modern times, and use a detailed topographic map as the trail markers can be very sparse."
+          }
+        },
+        {
+          "name": {
+            "de": "Carrigcreender",
+            "hu": "Carrigcreender",
+            "ro": "Carrigcreender",
+            "en": "Carrigcreender"
+          },
+          "coords": [
+            -10.063026,
+            52.163661
+          ],
+          "category": "historical",
+          "arrive_at": "15:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die felsigen Vorsprünge und verstreuten Steine dieser rätselhaften historischen Stätte und schließen Sie Ihr Fahrrad sicher am Holztor ab, bevor Sie erkunden.",
+            "hu": "Vizsgálja meg e titokzatos örökségi helyszín szikláit és elszórt köveit, amelyek elfeledett történeteket mesélnek el, és zárja le biztonságosan a kerékpárját a fa kapunál.",
+            "ro": "Investigați aflorimentele stâncoase și pietrele împrăștiate ale acestui sit de patrimoniu enigmatic și asigurați-vă că legați bicicleta la poarta de lemn înainte de a explora.",
+            "en": "Investigate the rocky outcrops and scattered stones of this enigmatic heritage site that tells forgotten stories, and lock your bike securely at the wooden gate before exploring."
+          }
+        },
+        {
+          "name": {
+            "de": "Jerome Connor Monument",
+            "hu": "Jerome Connor Monument",
+            "ro": "Jerome Connor Monument",
+            "en": "Jerome Connor Monument"
+          },
+          "coords": [
+            -10.031169,
+            52.160316
+          ],
+          "category": "historical",
+          "arrive_at": "17:22",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Ehren Sie das Erbe des berühmten Bildhauers, indem Sie diese markante Bronze-Tribut bewundern, und besuchen Sie sie am späten Nachmittag, wenn die Sonne die Details beleuchtet.",
+            "hu": "Tisztelegjen a híres szobrász öröksége előtt ennek a lenyűgöző bronz alkotásnak a megtekintésével, és látogasson el késő délután, amikor a lemenő nap kiemeli a részleteket.",
+            "ro": "Onorați moștenirea celebrului sculptor admirând acest tribut izbitor din bronz și vizitați-l după-amiaza târziu, când soarele apune și luminează minunat toate detaliile.",
+            "en": "Honor the legacy of the famous sculptor by admiring this striking bronze tribute to his creative genius, and visit in the late afternoon when the setting sun illuminates it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre malerische Fahrt beginnt am Morgen in Parcalassa, gefolgt von einer ruhigen Pause am weiten Bunaneer Strand.\nMittags fahren Sie ins Landesinnere, um die rauen Fundamente und den weiten Blick von Doonclaur zu bewundern.\nAm Nachmittag erkunden Sie die geheimnisvollen antiken Steinreihen von Lisraturraun, Lisheenatullamush und das historische Carrigcreender.\nDer Tag endet mit einem Besuch des Jerome Connor Monument, wo Sie die lokale Geschichte im Abendlicht reflektieren können.",
+        "hu": "Festői autózása reggel Parcalassa romjainál kezdődik, majd egy nyugodt pihenő következik a tágas Bunaneer Strand partján.\nDélben a szárazföld belseje felé veszi az irányt, hogy megcsodálja Doonclaur zord alapjait és a völgyre nyíló kilátást.\nDélután Lisraturraun, Lisheenatullamush és Carrigcreender rejtélyes ősi köveit és történelmi emlékeit térképezi fel.\nA nap a Jerome Connor Monument felkeresésével ér véget, ahol az esti fényben elmélkedhet a helyi művészeten.",
+        "ro": "Călătoria scenică începe dimineața la Parcalassa, urmată de o pauză liniștită pe plaja întinsă de la Bunaneer Strand.\nLa prânz, conduceți spre interior pentru a admira fundațiile aspre și priveliștile vaste oferite de fortăreața Doonclaur.\nDupă-amiaza explorați pietrele misterioase antice de la Lisraturraun, situl Lisheenatullamush și istoricul Carrigcreender.\nZiua se încheie cu o vizită la Monumentul Jerome Connor, reflectând asupra istoriei locale în lumina caldă a serii.",
+        "en": "Your scenic drive begins in the morning at Parcalassa, followed by a tranquil pause at the expansive shores of Bunaneer Strand.\nMidday takes you inland to admire the rugged foundations and sweeping valley views from the historic stronghold of Doonclaur.\nIn the afternoon, you explore the mysterious ancient stones of Lisraturraun, Lisheenatullamush, and historic Carrigcreender.\nThe day concludes with a peaceful visit to the Jerome Connor Monument, reflecting on local history in the fading evening light."
+      }
+    }
+  }
+}

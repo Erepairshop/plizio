@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-scopello-cities-v2",
+  "anchor": {
+    "name": "Scopello",
+    "coords": [
+      12.818056,
+      38.070278
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:36",
+      "total_km": 2.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Best viewpoint of Faraglioni and tower from the village",
+            "hu": "Best viewpoint of Faraglioni and tower from the village",
+            "ro": "Best viewpoint of Faraglioni and tower from the village",
+            "en": "Best viewpoint of Faraglioni and tower from the village"
+          },
+          "coords": [
+            12.818561,
+            38.071106
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten Felsen und die historische Thunfischfangstation von diesem erhöhten Dorfplatz, und kommen Sie früh für das beste Licht.",
+            "hu": "Csodálja meg a falu magaslatáról az ikonikus sziklaalakzatokat és a történelmi tonhalfeldolgozót, és érkezzen korán, hogy a legjobb fényben fotózhasson.",
+            "ro": "Admirați stâncile iconice și istorica pescărie de ton din acest punct de belvedere, sosind devreme pentru a prinde cea mai bună lumină a dimineții.",
+            "en": "Admire the iconic sea stacks and the historic tuna fishery from this elevated village spot, arriving early to capture the best morning light without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Bennistra",
+            "hu": "Torre Bennistra",
+            "ro": "Torre Bennistra",
+            "en": "Torre Bennistra"
+          },
+          "coords": [
+            12.814774,
+            38.06916
+          ],
+          "category": "natural",
+          "arrive_at": "09:41",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesem Küstenwachturm aus dem 16. Jahrhundert für einen Panoramablick auf den Golf, und tragen Sie unbedingt festes Schuhwerk für den Weg.",
+            "hu": "Túrázzon fel a 16. századi őrtoronyhoz a Castellammare-öbölre nyíló panorámáért, és mindenképpen viseljen masszív cipőt a sziklás, egyenetlen ösvényen.",
+            "ro": "Urcați la acest turn de veghe din secolul al XVI-lea pentru o vedere panoramică asupra Golfului Castellammare, asigurându-vă că purtați încălțăminte solidă.",
+            "en": "Hike up to this 16th-century coastal watchtower for a sweeping panoramic view of the Gulf of Castellammare, making sure to wear sturdy shoes for the rocky path."
+          }
+        },
+        {
+          "name": {
+            "de": "Tonnara di Scopello",
+            "hu": "Tonnara di Scopello",
+            "ro": "Tonnara di Scopello",
+            "en": "Tonnara di Scopello"
+          },
+          "coords": [
+            12.821619,
+            38.071537
+          ],
+          "category": "landmark",
+          "arrive_at": "10:49",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie eine der ältesten Thunfischfangstationen Siziliens, die heute ein Freilichtmuseum ist, und bringen Sie Bargeld für den Eintritt zum Privatstrand mit.",
+            "hu": "Fedezze fel Szicília egyik legrégebbi tonhalfeldolgozóját, amely ma szabadtéri múzeumként működik, és hozzon magával készpénzt a privát strand belépőjéhez.",
+            "ro": "Explorați una dintre cele mai vechi pescării de ton din Sicilia, acum un muzeu în aer liber, și aduceți numerar pentru taxa de intrare la plaja privată.",
+            "en": "Explore one of Sicily's oldest and most evocative tuna fisheries, now an open-air museum, and bring some cash for the entrance fee to access the private beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Faraglioni di Scopello",
+            "hu": "Faraglioni di Scopello",
+            "ro": "Faraglioni di Scopello",
+            "en": "Faraglioni di Scopello"
+          },
+          "coords": [
+            12.821067,
+            38.070189
+          ],
+          "category": "natural",
+          "arrive_at": "11:36",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Schwimmen Sie im kristallklaren Wasser rund um diese dramatischen Felsnadeln, aber seien Sie mit Badeschuhen auf die felsige Küstenlinie vorbereitet.",
+            "hu": "Ússzon a kristálytiszta vízben e drámai sziklaalakzatok körül, de készüljön fel a sziklás partra, és hozzon magával vízi cipőt a kényelmes vízbe jutáshoz.",
+            "ro": "Înotați în apele cristaline din jurul acestor stânci dramatice, dar pregătiți-vă pentru un țărm stâncos aducând încălțăminte de apă pentru a intra ușor.",
+            "en": "Swim in the crystal-clear waters surrounding these dramatic sea stacks, but be prepared for a rocky shoreline by packing water shoes for a comfortable entry."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia Calamazzo",
+            "hu": "Spiaggia Calamazzo",
+            "ro": "Spiaggia Calamazzo",
+            "en": "Spiaggia Calamazzo"
+          },
+          "coords": [
+            12.812904,
+            38.079102
+          ],
+          "category": "recreational",
+          "arrive_at": "12:51",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem wunderschönen, leicht versteckten Kieselstrand direkt vor dem Reservat und kommen Sie vor dem Mittag, um sich einen Platz zu sichern.",
+            "hu": "Pihenjen ezen a gyönyörű, kissé eldugott kavicsos strandon közvetlenül a rezervátum mellett, és érkezzen dél előtt, hogy jó helyet találjon a keskeny parton.",
+            "ro": "Relaxați-vă pe această plajă frumoasă cu pietriș chiar în afara rezervației, ajungând înainte de prânz pentru a vă asigura un loc bun pe coasta îngustă.",
+            "en": "Relax at this beautiful, slightly hidden pebble beach just outside the main reserve, arriving before midday to secure a good spot along the narrow coastline."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Herzen von Scopello mit Blick auf die historischen Sehenswürdigkeiten, bevor Sie zu einem Küstenwachturm aufsteigen. \nGegen Mittag steigen Sie zum Meer hinab, um die Reste der alten Thunfischfangstation und die Meeresfelsen zu erkunden. \nAm Nachmittag setzen Sie Ihren Spaziergang zu einem ruhigeren Kieselstrand fort, um zu schwimmen. \nDer Abend endet mit einem gemütlichen Rückweg ins Zentrum, wo Sie den schwindenden Sonnenuntergang über der Küste genießen.",
+        "hu": "A reggel Scopello szívében indul, élvezve a falu történelmi látnivalóira nyíló kilátást, mielőtt felmászna a part menti őrtoronyhoz. \nDélben a tenger felé veszi az irányt, hogy felfedezze az ősi tonhalfeldolgozót és az ikonikus tengeri sziklákat. \nDélután folytassa sétáját egy csendesebb kavicsos strand felé, ahol megmártózhat a kristálytiszta vízben. \nAz este egy kényelmes sétával zárul vissza a falu központjába, megcsodálva a tengerparti naplementét.",
+        "ro": "Dimineața începe în inima orașului Scopello, cu o priveliște superbă asupra satului, înainte de a urca la un vechi turn de veghe. \nLa prânz, coborâți spre mare pentru a explora rămășițele vechii pescării de ton și stâncile iconice. \nDupă-amiaza, continuați plimbarea spre o plajă mai liniștită cu pietriș pentru a înota. \nSeara se încheie cu o întoarcere relaxantă în centrul satului pentru a admira apusul peste coastă.",
+        "en": "Morning begins in the heart of Scopello, taking in the sweeping views of the village's historic sights before ascending to a coastal watchtower. \nBy midday, you descend towards the sea to explore the fascinating remnants of an old tuna fishery and its adjacent iconic sea stacks. \nIn the afternoon, continue your coastal stroll towards a quieter, pebbled beach nearby to relax and swim. \nEvening concludes with a leisurely walk back to the village center to enjoy the fading sunset over the spectacular coastline."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:20",
+      "total_km": 6.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Torre di Guidaloca",
+            "hu": "Torre di Guidaloca",
+            "ro": "Torre di Guidaloca",
+            "en": "Torre di Guidaloca"
+          },
+          "coords": [
+            12.837621,
+            38.057964
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 55,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen alten Verteidigungsturm, der die malerische Bucht bewacht, und verbinden Sie die historische Erkundung mit einem Sprung ins angrenzende Wasser.",
+            "hu": "Látogassa meg ezt az ősi védőtornyot, amely a festői öblöt őrzi, és kombinálja a történelmi felfedezést egy gyors csobbanással a szomszédos sekély vizekben.",
+            "ro": "Vizitați acest vechi turn de apărare care păzește golful pitoresc, combinând explorarea istorică cu o scurtă baie în apele adiacente foarte limpezi.",
+            "en": "Visit this ancient cylindrical defense tower guarding the picturesque bay below, combining your historical exploration with a quick dip in the adjacent waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Best viewpoint of Faraglioni and tower from the village",
+            "hu": "Best viewpoint of Faraglioni and tower from the village",
+            "ro": "Best viewpoint of Faraglioni and tower from the village",
+            "en": "Best viewpoint of Faraglioni and tower from the village"
+          },
+          "coords": [
+            12.818561,
+            38.071106
+          ],
+          "category": "natural",
+          "arrive_at": "10:07",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten Felsen und die historische Thunfischfangstation von diesem erhöhten Dorfplatz, und kommen Sie früh für das beste Licht.",
+            "hu": "Csodálja meg a falu magaslatáról az ikonikus sziklaalakzatokat és a történelmi tonhalfeldolgozót, és érkezzen korán, hogy a legjobb fényben fotózhasson.",
+            "ro": "Admirați stâncile iconice și istorica pescărie de ton din acest punct de belvedere, sosind devreme pentru a prinde cea mai bună lumină a dimineții.",
+            "en": "Admire the iconic sea stacks and the historic tuna fishery from this elevated village spot, arriving early to capture the best morning light without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Tonnara di Scopello",
+            "hu": "Tonnara di Scopello",
+            "ro": "Tonnara di Scopello",
+            "en": "Tonnara di Scopello"
+          },
+          "coords": [
+            12.821619,
+            38.071537
+          ],
+          "category": "landmark",
+          "arrive_at": "10:34",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie eine der ältesten Thunfischfangstationen Siziliens, die heute ein Freilichtmuseum ist, und bringen Sie Bargeld für den Eintritt zum Privatstrand mit.",
+            "hu": "Fedezze fel Szicília egyik legrégebbi tonhalfeldolgozóját, amely ma szabadtéri múzeumként működik, és hozzon magával készpénzt a privát strand belépőjéhez.",
+            "ro": "Explorați una dintre cele mai vechi pescării de ton din Sicilia, acum un muzeu în aer liber, și aduceți numerar pentru taxa de intrare la plaja privată.",
+            "en": "Explore one of Sicily's oldest and most evocative tuna fisheries, now an open-air museum, and bring some cash for the entrance fee to access the private beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Faraglioni di Scopello",
+            "hu": "Faraglioni di Scopello",
+            "ro": "Faraglioni di Scopello",
+            "en": "Faraglioni di Scopello"
+          },
+          "coords": [
+            12.821067,
+            38.070189
+          ],
+          "category": "natural",
+          "arrive_at": "11:20",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Schwimmen Sie im kristallklaren Wasser rund um diese dramatischen Felsnadeln, aber seien Sie mit Badeschuhen auf die felsige Küstenlinie vorbereitet.",
+            "hu": "Ússzon a kristálytiszta vízben e drámai sziklaalakzatok körül, de készüljön fel a sziklás partra, és hozzon magával vízi cipőt a kényelmes vízbe jutáshoz.",
+            "ro": "Înotați în apele cristaline din jurul acestor stânci dramatice, dar pregătiți-vă pentru un țărm stâncos aducând încălțăminte de apă pentru a intra ușor.",
+            "en": "Swim in the crystal-clear waters surrounding these dramatic sea stacks, but be prepared for a rocky shoreline by packing water shoes for a comfortable entry."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Naturalistico",
+            "hu": "Museo Naturalistico",
+            "ro": "Museo Naturalistico",
+            "en": "Museo Naturalistico"
+          },
+          "coords": [
+            12.807082,
+            38.086398
+          ],
+          "category": "museum",
+          "arrive_at": "12:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die vielfältige Flora und Fauna des Zingaro-Reservats in diesem Besucherzentrum, das ein hervorragender Ausgangspunkt für Ihre Wanderung ist.",
+            "hu": "Ismerje meg a Zingaro Természetvédelmi Terület változatos növény- és állatvilágát ebben a látogatóközpontban, amely kiváló kiindulópont a túrázáshoz.",
+            "ro": "Descoperiți flora și fauna diversă a Rezervației Naturale Zingaro la acest centru de vizitatori, un excelent punct de plecare pentru drumeția dumneavoastră.",
+            "en": "Discover the diverse flora and fauna of the Zingaro Nature Reserve at this informative visitor center, which serves as an excellent starting point for your hike."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Capreria",
+            "hu": "Cala Capreria",
+            "ro": "Cala Capreria",
+            "en": "Cala Capreria"
+          },
+          "coords": [
+            12.804795,
+            38.087647
+          ],
+          "category": "recreational",
+          "arrive_at": "14:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie das unberührte türkisfarbene Wasser der ersten Bucht im Zingaro-Reservat und bringen Sie Schnorchelausrüstung mit, um die Unterwasserwelt zu sehen.",
+            "hu": "Élvezze a Zingaro rezervátum első öblének érintetlen, türkizkék vizét, és hozzon magával búvárfelszerelést a lenyűgöző víz alatti élővilág megfigyeléséhez.",
+            "ro": "Bucurați-vă de apele turcoaz din prima golfuleț al Rezervației Zingaro, aducând echipament de snorkeling pentru a observa viața marină subacvatică vibrantă.",
+            "en": "Enjoy the pristine turquoise waters of the first cove inside the Zingaro Reserve, bringing snorkeling gear to observe the vibrant underwater marine life."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala della Disa",
+            "hu": "Cala della Disa",
+            "ro": "Cala della Disa",
+            "en": "Cala della Disa"
+          },
+          "coords": [
+            12.79812,
+            38.099571
+          ],
+          "category": "recreational",
+          "arrive_at": "15:35",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Wandern Sie weiter in das Reservat zu diesem sichelförmigen Strand, der von Klippen eingerahmt wird, und bringen Sie ausreichend Trinkwasser mit.",
+            "hu": "Túrázzon mélyebbre a rezervátumban, hogy elérje ezt a lenyűgöző, sziklákkal övezett öblöt, de feltétlenül vigyen magával bőséges ivóvizet, mert nincsenek büfék.",
+            "ro": "Mergeți mai departe în rezervație pentru a ajunge la această plajă superbă în formă de semilună, asigurându-vă că aduceți multă apă de băut.",
+            "en": "Trek further into the reserve to reach this stunning crescent-shaped beach framed by cliffs, ensuring you bring plenty of drinking water as there are no facilities."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einer Fahrt zu einem mittelalterlichen Verteidigungsturm und radeln Sie zurück zum Dorf für einen Panoramablick. \nMittags fahren Sie zur Küste hinab, um die historische Thunfischfangstation und die markanten Felsformationen zu bewundern. \nDer Nachmittag ist den Naturwundern des Zingaro-Reservats gewidmet, mit einem Besuch im Museum und einer Abkühlung in der Bucht. \nAm Abend fahren Sie auf malerischen Pfaden zu einer weiteren atemberaubenden Bucht.",
+        "hu": "Indítsa a reggelt egy élénk kerékpározással a középkori védőtoronyhoz, majd tekerjen vissza a faluba az ikonikus sziklák panorámájáért. \nDélben a partra érve bejárhatja a történelmi tonhalfeldolgozót és közelről is megcsodálhatja a sziklaalakzatokat. \nDélután a Zingaro rezervátum természeti csodáit fedezi fel, meglátogatva a múzeumot, majd lehűlve egy érintetlen öbölben. \nEste tekerjen tovább a festői ösvényeken egy másik gyönyörű öböl felé, élvezve a békés szürkületet.",
+        "ro": "Începeți dimineața cu o plimbare spre un turn de apărare medieval, apoi întoarceți-vă spre sat pentru o vedere panoramică. \nLa prânz, coborâți pe coastă pentru a vizita pescăria istorică de ton și pentru a admira formațiunile stâncoase. \nDupă-amiaza este dedicată minunilor Rezervației Zingaro, explorând muzeul și răcorindu-vă într-un golf curat. \nSeara vă invită să mergeți mai departe pe traseele pitorești spre o altă plajă superbă la apus.",
+        "en": "Start your morning with a brisk ride to a medieval defense tower, then cycle back towards the village for an iconic overview of the dramatic sea stacks. \nMidday brings you down to the coast to walk through the historic tuna fishery and admire the striking rock formations up close. \nAfternoon shifts to the natural wonders of the Zingaro Reserve, visiting the museum before cooling off in a pristine cove. \nEvening invites you to ride further along the scenic trails to another stunning bay, capturing the peaceful coastal twilight."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:07",
+      "total_km": 7.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Casa Sottile",
+            "hu": "Casa Sottile",
+            "ro": "Casa Sottile",
+            "en": "Casa Sottile"
+          },
+          "coords": [
+            12.823352,
+            38.058498
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Betrachten Sie die traditionelle ländliche Architektur dieses historischen Wohnhauses, das einen ruhigen Einblick in das landwirtschaftliche Erbe der Region bietet.",
+            "hu": "Figyelje meg ennek a tájba simuló történelmi lakóépületnek a hagyományos vidéki építészetét, amely csendes bepillantást enged a régió mezőgazdasági örökségébe.",
+            "ro": "Observați arhitectura rurală tradițională a acestei locuințe istorice, care oferă o privire liniștită asupra moștenirii agricole a frumoasei regiuni.",
+            "en": "Observe the traditional rural architecture of this historic dwelling nestled in the landscape, offering a quiet glimpse into the region's agricultural heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre di Guidaloca",
+            "hu": "Torre di Guidaloca",
+            "ro": "Torre di Guidaloca",
+            "en": "Torre di Guidaloca"
+          },
+          "coords": [
+            12.837621,
+            38.057964
+          ],
+          "category": "landmark",
+          "arrive_at": "10:33",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen alten Verteidigungsturm, der die malerische Bucht bewacht, und verbinden Sie die historische Erkundung mit einem Sprung ins angrenzende Wasser.",
+            "hu": "Látogassa meg ezt az ősi védőtornyot, amely a festői öblöt őrzi, és kombinálja a történelmi felfedezést egy gyors csobbanással a szomszédos sekély vizekben.",
+            "ro": "Vizitați acest vechi turn de apărare care păzește golful pitoresc, combinând explorarea istorică cu o scurtă baie în apele adiacente foarte limpezi.",
+            "en": "Visit this ancient cylindrical defense tower guarding the picturesque bay below, combining your historical exploration with a quick dip in the adjacent waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Best viewpoint of Faraglioni and tower from the village",
+            "hu": "Best viewpoint of Faraglioni and tower from the village",
+            "ro": "Best viewpoint of Faraglioni and tower from the village",
+            "en": "Best viewpoint of Faraglioni and tower from the village"
+          },
+          "coords": [
+            12.818561,
+            38.071106
+          ],
+          "category": "natural",
+          "arrive_at": "11:23",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten Felsen und die historische Thunfischfangstation von diesem erhöhten Dorfplatz, und kommen Sie früh für das beste Licht.",
+            "hu": "Csodálja meg a falu magaslatáról az ikonikus sziklaalakzatokat és a történelmi tonhalfeldolgozót, és érkezzen korán, hogy a legjobb fényben fotózhasson.",
+            "ro": "Admirați stâncile iconice și istorica pescărie de ton din acest punct de belvedere, sosind devreme pentru a prinde cea mai bună lumină a dimineții.",
+            "en": "Admire the iconic sea stacks and the historic tuna fishery from this elevated village spot, arriving early to capture the best morning light without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Tonnara di Scopello",
+            "hu": "Tonnara di Scopello",
+            "ro": "Tonnara di Scopello",
+            "en": "Tonnara di Scopello"
+          },
+          "coords": [
+            12.821619,
+            38.071537
+          ],
+          "category": "landmark",
+          "arrive_at": "11:49",
+          "stay_min": 45,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie eine der ältesten Thunfischfangstationen Siziliens, die heute ein Freilichtmuseum ist, und bringen Sie Bargeld für den Eintritt zum Privatstrand mit.",
+            "hu": "Fedezze fel Szicília egyik legrégebbi tonhalfeldolgozóját, amely ma szabadtéri múzeumként működik, és hozzon magával készpénzt a privát strand belépőjéhez.",
+            "ro": "Explorați una dintre cele mai vechi pescării de ton din Sicilia, acum un muzeu în aer liber, și aduceți numerar pentru taxa de intrare la plaja privată.",
+            "en": "Explore one of Sicily's oldest and most evocative tuna fisheries, now an open-air museum, and bring some cash for the entrance fee to access the private beach."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Naturalistico",
+            "hu": "Museo Naturalistico",
+            "ro": "Museo Naturalistico",
+            "en": "Museo Naturalistico"
+          },
+          "coords": [
+            12.807082,
+            38.086398
+          ],
+          "category": "museum",
+          "arrive_at": "12:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die vielfältige Flora und Fauna des Zingaro-Reservats in diesem Besucherzentrum, das ein hervorragender Ausgangspunkt für Ihre Wanderung ist.",
+            "hu": "Ismerje meg a Zingaro Természetvédelmi Terület változatos növény- és állatvilágát ebben a látogatóközpontban, amely kiváló kiindulópont a túrázáshoz.",
+            "ro": "Descoperiți flora și fauna diversă a Rezervației Naturale Zingaro la acest centru de vizitatori, un excelent punct de plecare pentru drumeția dumneavoastră.",
+            "en": "Discover the diverse flora and fauna of the Zingaro Nature Reserve at this informative visitor center, which serves as an excellent starting point for your hike."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala della Disa",
+            "hu": "Cala della Disa",
+            "ro": "Cala della Disa",
+            "en": "Cala della Disa"
+          },
+          "coords": [
+            12.79812,
+            38.099571
+          ],
+          "category": "recreational",
+          "arrive_at": "14:22",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Wandern Sie weiter in das Reservat zu diesem sichelförmigen Strand, der von Klippen eingerahmt wird, und bringen Sie ausreichend Trinkwasser mit.",
+            "hu": "Túrázzon mélyebbre a rezervátumban, hogy elérje ezt a lenyűgöző, sziklákkal övezett öblöt, de feltétlenül vigyen magával bőséges ivóvizet, mert nincsenek büfék.",
+            "ro": "Mergeți mai departe în rezervație pentru a ajunge la această plajă superbă în formă de semilună, asigurându-vă că aduceți multă apă de băut.",
+            "en": "Trek further into the reserve to reach this stunning crescent-shaped beach framed by cliffs, ensuring you bring plenty of drinking water as there are no facilities."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einer Fahrt zu einem historischen Landhaus, gefolgt von einem alten Küstenwachturm mit Blick auf die Bucht. \nGegen Mittag fahren Sie zurück in Richtung Scopello, um die klassischen Meeresfelsen zu sehen und zur alten Fischerei hinabzusteigen. \nVerbringen Sie den Nachmittag im Naturmuseum nahe dem Eingang des Reservats, um die reiche Artenvielfalt kennenzulernen. \nGegen Abend fahren Sie zu einem Ausgangspunkt für eine versteckte Bucht, perfekt für ein spätes Bad.",
+        "hu": "A reggel egy festői autózással indul egy történelmi vidéki házhoz, majd egy ősi part menti őrtorony következik, kilátással az öbölre. \nDélben autózzon vissza Scopello központjába, hogy megcsodálja a tengeri sziklák klasszikus látványát és az egykori halászatot. \nDélután merüljön el a terület gazdag biodiverzitásában a természetrajzi múzeumban, a rezervátum bejáratánál. \nEste induljon el egy ösvényen egy látványos, rejtett öböl felé, amely tökéletes egy naplemente utáni úszáshoz.",
+        "ro": "Dimineața începe cu un drum pitoresc către o locuință rurală istorică, urmată de un vechi turn de veghe de coastă. \nLa prânz, conduceți înapoi spre Scopello pentru a prinde vederea clasică a stâncilor înainte de a coborî la pescărie. \nPetreceți după-amiaza la muzeul naturalist de lângă intrarea în rezervație pentru a descoperi biodiversitatea bogată. \nSpre seară, conduceți către un traseu ce duce la un golf spectaculos, perfect pentru o baie la apus.",
+        "en": "Your morning starts with a scenic drive to a historic rural dwelling, followed by a visit to an ancient coastal watchtower overlooking the bay. \nBy midday, drive back towards the heart of Scopello to catch the classic view of the sea stacks before descending to the old fishery. \nSpend the afternoon immersing yourself in the area's rich biodiversity at the naturalistic museum located near the reserve entrance. \nAs evening nears, drive to a trailhead and hike down to a spectacular hidden cove, perfect for an evening swim as the sun sets."
+      }
+    }
+  }
+}

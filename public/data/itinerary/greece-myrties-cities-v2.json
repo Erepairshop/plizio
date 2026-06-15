@@ -1,0 +1,428 @@
+{
+  "city_id": "greece-myrties-cities-v2",
+  "anchor": {
+    "name": "Myrties",
+    "coords": [
+      26.93308,
+      36.99135
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:10",
+      "total_km": 2.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Frühchristliche Basilika Agios Ioannis",
+            "hu": "Agios Ioannis Ókeresztény Bazilika",
+            "ro": "Bazilica Paleocreștină Agios Ioannis",
+            "en": "Agios Ioannis - Early Christian Basilica"
+          },
+          "coords": [
+            26.931204,
+            36.986075
+          ],
+          "category": "historical",
+          "arrive_at": "09:09",
+          "stay_min": 90,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende frühchristliche Basilika, um in die antike Geschichte einzutauchen, und tragen Sie feste Schuhe für das unebene Gelände.",
+            "hu": "Fedezze fel ezt a lenyűgöző ókeresztény bazilikát az ősi történelem nyomában, és viseljen stabil, kényelmes cipőt az egyenetlen terepen való navigáláshoz.",
+            "ro": "Explorați această bazilică paleocreștină fascinantă pentru a asista la istoria antică și purtați încălțăminte robustă pentru a naviga pe terenul denivelat.",
+            "en": "Explore this fascinating early Christian basilica to witness ancient history, and make sure to wear sturdy shoes for navigating the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Platys Gialos",
+            "hu": "Platys Gialos strand",
+            "ro": "Plaja Platys Gialos",
+            "en": "Platys Gialos beach"
+          },
+          "coords": [
+            26.928322,
+            36.974962
+          ],
+          "category": "recreational",
+          "arrive_at": "10:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie am breiten, dunklen Sandstrand von Platys Gialos, der einen schönen Kontrast zum blauen Wasser bildet, und kommen Sie früh für einen guten Platz.",
+            "hu": "Pihenjen a Platys Gialos széles, sötét homokján, amely gyönyörű kontrasztot alkot a kék vízzel, és érkezzen korán, hogy jó helyet biztosítson a parton.",
+            "ro": "Relaxați-vă pe nisipul închis la culoare de la Platys Gialos care contrastează cu apa albastră și ajungeți devreme pentru a prinde un loc bun pe țărm.",
+            "en": "Relax on the wide, dark sands of Platys Gialos which contrasts beautifully with the blue water, and arrive early to secure a good spot near the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Linaria-Strand",
+            "hu": "Linaria strand",
+            "ro": "Plaja Linaria",
+            "en": "Linaria Beach"
+          },
+          "coords": [
+            26.933292,
+            36.972322
+          ],
+          "category": "recreational",
+          "arrive_at": "12:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den ruhigen Charme des Linaria-Strandes mit seinem flachen Wasser, und bringen Sie einen Schnorchel mit, um die Felsen unter Wasser zu erkunden.",
+            "hu": "Élvezze a Linaria strand csendes báját és sekély vizét, amely tökéletes a gázoláshoz, és hozzon magával búvárszemüveget a víz alatti sziklákhoz.",
+            "ro": "Bucurați-vă de farmecul liniștit al plajei Linaria, cu apele sale puțin adânci, și aduceți un tub de snorkeling pentru a explora stâncile subacvatice.",
+            "en": "Enjoy the quiet charm of Linaria Beach with its shallow waters perfect for wading, and bring a snorkel to explore the lively underwater rocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Kantouni-Strand",
+            "hu": "Kantouni strand",
+            "ro": "Plaja Kantouni",
+            "en": "Kantouni Beach"
+          },
+          "coords": [
+            26.934322,
+            36.97003
+          ],
+          "category": "recreational",
+          "arrive_at": "13:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spüren Sie die jugendliche Energie am Strand von Kantouni bei goldenem Sand, und holen Sie sich einen kalten Frappé aus einem nahegelegenen Café.",
+            "hu": "Érezze a fiatalos energiát a Kantouni strandon, ahol az arany homok találkozik a hullámokkal, és igyon egy hideg frappét egy közeli tengerparti kávézóban.",
+            "ro": "Simțiți energia tinerească la plaja Kantouni, unde nisipul auriu întâlnește valurile, și luați un frappe rece de la o cafenea din apropiere.",
+            "en": "Feel the youthful energy at Kantouni Beach where golden sand meets rolling waves, and grab a cold frappe from a nearby seaside cafe."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Georgios",
+            "hu": "Agios Georgios",
+            "ro": "Agios Georgios",
+            "en": "Agios Georgios"
+          },
+          "coords": [
+            26.935702,
+            36.971511
+          ],
+          "category": "religious",
+          "arrive_at": "15:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese malerische Kapelle in Weiß und Blau, um authentische Architektur zu bewundern, und kommen Sie zum Sonnenuntergang für tolle Fotos.",
+            "hu": "Látogasson el ehhez a festői kék-fehér kápolnához az autentikus szigeti építészetért, és időzítse a látogatást naplemente idejére a lenyűgöző fotókért.",
+            "ro": "Vizitați această capelă pitorească alb-albastră pentru a admira arhitectura autentică a insulei și programați-vă vizita la apus pentru fotografii uimitoare.",
+            "en": "Visit this picturesque white-and-blue chapel to admire authentic Greek island architecture, and time your visit for sunset to capture stunning photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie den Tag mit einem Spaziergang von Myrties nach Süden zu den friedlichen Ruinen von Agios Ioannis. Genießen Sie die historische Atmosphäre, bevor Sie zur Küste aufbrechen.\n\nMittag: Erreichen Sie Platys Gialos für ein erfrischendes Bad. Danach bringt Sie ein kurzer Spaziergang zu den Sandstränden von Linaria Beach.\n\nNachmittag: Entspannen Sie unter der Sonne am Strand von Kantouni, genießen Sie das entspannte lokale Flair und beobachten Sie die sanften Wellen.\n\nAbend: Beenden Sie Ihren Spaziergang an der malerischen Kapelle von Agios Georgios, bewundern Sie den Sonnenuntergang und lassen Sie den Tag ausklingen.",
+        "hu": "Reggel: Kezdje a napot egy sétával Myrties-ből délre az Agios Ioannis békés romjaihoz. Élvezze a történelmi atmoszférát, mielőtt a part felé indulna.\n\nDélben: Érkezzen a Platys Gialos strandhoz egy frissítő úszásra, majd egy rövid sétával elérheti a Linaria strand kellemes homokos partjait.\n\nDélután: Pihenjen a nap alatt a Kantouni strandon, élvezze a helyi nyugodt hangulatot, és figyelje a lágyan gördülő tengeri hullámokat.\n\nEste: Fejezze be a sétát az Agios Georgios festői kápolnájánál, csodálja meg a tengerparti naplementét, és gondoljon vissza erre a csodás napra.",
+        "ro": "Dimineața: Începeți ziua mergând spre sud de la Myrties către ruinele de la Agios Ioannis. Bucurați-vă de atmosfera istorică înainte de a continua spre coastă.\n\nPrânz: Ajungeți la Platys Gialos pentru o baie răcoritoare în apele sale limpezi. Apoi, o scurtă plimbare vă duce pe malurile de nisip ale plajei Linaria.\n\nDupă-amiaza: Relaxați-vă sub soare la plaja Kantouni, absorbind atmosfera locală relaxată și privind valurile blânde care se rostogolesc ușor.\n\nSeara: Încheiați-vă plimbarea la capela pitorească Agios Georgios, admirând apusul de pe coastă și reflectând la o zi petrecută perfect.",
+        "en": "Morning: Start the day walking south from Myrties to the peaceful ruins of Agios Ioannis. Enjoy the historic atmosphere before continuing to the coast.\n\nMidday: Arrive at Platys Gialos for a refreshing swim in its clear waters. Afterwards, a short stroll takes you to the sandy shores of Linaria Beach.\n\nAfternoon: Relax under the sun at Kantouni Beach, soaking up the relaxed local vibe and watching the gentle waves roll in.\n\nEvening: Conclude your walk at the quaint chapel of Agios Georgios, admiring the coastal sunset and reflecting on a day well spent."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:23",
+      "total_km": 2.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Basilika von Palaiopanayia",
+            "hu": "Palaiopanayia Bazilika",
+            "ro": "Bazilica Palaiopanayia",
+            "en": "Basilika of Palaiopanayia"
+          },
+          "coords": [
+            26.921922,
+            36.999244
+          ],
+          "category": "historical",
+          "arrive_at": "09:07",
+          "stay_min": 90,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Versetzen Sie sich in diesen prächtigen byzantinischen Ruinen in die Vergangenheit zurück, und packen Sie einen Sonnenhut ein, da es kaum Schatten gibt.",
+            "hu": "Lépjen vissza az időben e csodálatos bizánci romoknál, amelyek a sziget korai történetét mesélik el, és csomagoljon széles karimájú kalapot az árnyék hiánya miatt.",
+            "ro": "Întoarceți-vă în timp la aceste magnifice ruine bizantine care spun istoria antică a insulei și luați o pălărie de soare, deoarece umbra este rară.",
+            "en": "Step back in time at these magnificent Byzantine ruins that tell the island's early history, and pack a wide-brimmed hat as shade is scarce."
+          }
+        },
+        {
+          "name": {
+            "de": "Hohlakas-Strand",
+            "hu": "Hohlakas strand",
+            "ro": "Plaja Hohlakas",
+            "en": "Hohlakas Beach"
+          },
+          "coords": [
+            26.918504,
+            36.998088
+          ],
+          "category": "recreational",
+          "arrive_at": "10:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Lauschen Sie dem einzigartigen Klang der glatten Kieselsteine am Strand von Hohlakas, und bringen Sie Wasserschuhe für einen bequemen Spaziergang mit.",
+            "hu": "Hallgassa meg a sima kavicsok egyedi hangját a Hohlakas strandon, amikor a hullámok visszahúzódnak, és hozzon vizicipőt a sokkal kényelmesebb séta érdekében.",
+            "ro": "Ascultați sunetul unic al pietricelelor netede la plaja Hohlakas când valurile se retrag și aduceți pantofi de apă pentru o plimbare confortabilă.",
+            "en": "Listen to the unique sound of smooth pebbles at Hohlakas Beach when the waves retreat, and bring water shoes for a much more comfortable walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Papa Beach",
+            "hu": "Papa Beach",
+            "ro": "Plaja Papa",
+            "en": "Papa Beach"
+          },
+          "coords": [
+            26.918609,
+            36.996515
+          ],
+          "category": "recreational",
+          "arrive_at": "11:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen in dieser kleinen, abgelegenen Bucht mit dramatischen Klippen, und denken Sie daran, eigenes Wasser und Snacks einzupacken.",
+            "hu": "Meneküljön el a tömeg elől ezen a drámai sziklákkal körülvett, eldugott kis öbölben, és ne felejtsen el saját vizet és rágcsálnivalót csomagolni.",
+            "ro": "Scăpați de aglomerație în acest mic golf izolat înconjurat de stânci dramatice și nu uitați să vă pachetati propria apă și gustări pentru ziua respectivă.",
+            "en": "Escape the crowds at this small, secluded cove surrounded by dramatic cliffs, and remember to pack your own water and snacks for the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Pnigmenos-Strand",
+            "hu": "Pnigmenos strand",
+            "ro": "Plaja Pnigmenos",
+            "en": "Pnigmenos Beach"
+          },
+          "coords": [
+            26.918149,
+            36.993243
+          ],
+          "category": "recreational",
+          "arrive_at": "13:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die raue Schönheit des Pnigmenos-Strandes mit seiner wilden Landschaft, und bleiben Sie in Ufernähe, da die Strömungen stark sein können.",
+            "hu": "Fedezze fel a Pnigmenos strand zord szépségét és vadregényes táját, de maradjon a part közelében, mivel a tengeri áramlatok meglehetősen erősek lehetnek.",
+            "ro": "Descoperiți frumusețea accidentată a plajei Pnigmenos cu peisajul său sălbatic și rămâneți aproape de țărm, deoarece curenții pot fi destul de puternici.",
+            "en": "Discover the rugged beauty of Pnigmenos Beach with its wild, unspoiled landscape, and stay close to the shore as the currents can be quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Tholaria",
+            "hu": "Tholaria",
+            "ro": "Tholaria",
+            "en": "Tholaria"
+          },
+          "coords": [
+            26.919552,
+            36.994155
+          ],
+          "category": "landmark",
+          "arrive_at": "14:28",
+          "stay_min": 55,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beobachten Sie die faszinierenden alten Felsformationen bei Tholaria, welche die Geologie zeigen, und gehen Sie vorsichtig auf den unbefestigten Pfaden.",
+            "hu": "Figyelje meg a Tholaria lenyűgöző ősi sziklaalakzatait, amelyek bemutatják a sziget geológiáját, és óvatosan lépkedjen a burkolatlan parti ösvényeken.",
+            "ro": "Observați formațiunile stâncoase antice fascinante de la Tholaria care prezintă geologia insulei și pășiți cu grijă pe cărările de coastă neasfaltate.",
+            "en": "Observe the fascinating ancient rock formations at Tholaria which showcase the island's geology, and tread carefully along the unpaved coastal paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Radeln Sie zur faszinierenden Basilika von Palaiopanayia und erkunden Sie alte Steine, bevor Sie die raue Küste des Hohlakas-Strandes erreichen.\n\nMittag: Machen Sie eine Pause am Papa Beach, einem abgelegenen Ort, der sich perfekt zum Ausruhen eignet. Genießen Sie die ruhige Umgebung abseits der Massen.\n\nNachmittag: Fahren Sie weiter zum Pnigmenos-Strand für ein weiteres kurzes Bad im azurblauen Wasser und genießen Sie die dramatische Felslandschaft.\n\nAbend: Beenden Sie Ihre Radtour in der Nähe des einzigartigen Wahrzeichens von Tholaria, das Panoramablicke bietet, während die Sonne langsam untergeht.",
+        "hu": "Reggel: Tekerjen a Palaiopanayia lenyűgöző bazilikája felé, felfedezve az ősi köveket, mielőtt elérné a Hohlakas strand sziklás, drámai tengerpartját.\n\nDélben: Tartson pihenőt a Papa Beach eldugott partszakaszán, amely tökéletes a lábak pihentetésére. Élvezze a csendes környezetet, távol a tömegtől.\n\nDélután: Folytassa útját a Pnigmenos strandhoz egy újabb gyors mártózásra az azúrkék vízben, megcsodálva a környező drámai sziklás tájat.\n\nEste: Fejezze be a kerékpáros utazást a különleges Tholaria nevezetesség közelében, amely panorámás kilátást nyújt, ahogy a nap lassan lebukik a horizonton.",
+        "ro": "Dimineața: Pedați spre fascinanta Bazilică Palaiopanayia, explorând pietrele antice înainte de a ajunge pe coasta stâncoasă a plajei Hohlakas.\n\nPrânz: Luați o pauză la plaja Papa, un loc retras perfect pentru a vă odihni picioarele. Bucurați-vă de mediul senin, departe de aglomerație.\n\nDupă-amiaza: Continuați plimbarea spre plaja Pnigmenos pentru o altă baie rapidă în apele azurii, admirând peisajul stâncos și dramatic din jurul vostru.\n\nSeara: Încheiați-vă călătoria cu bicicleta lângă reperul unic Tholaria, oferind vederi panoramice în timp ce soarele coboară încet sub orizontul marin.",
+        "en": "Morning: Pedal towards the fascinating Basilika of Palaiopanayia, exploring ancient stones before reaching the rugged coastline of Hohlakas Beach.\n\nMidday: Take a break at Papa Beach, a secluded spot perfect for resting your legs. Enjoy the serene environment away from the crowds.\n\nAfternoon: Continue riding to Pnigmenos Beach for another quick dip in the azure waters, taking in the dramatic rocky scenery around you.\n\nEvening: End your cycling journey near the unique Tholaria landmark, offering panoramic views as the sun slowly dips below the horizon."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 6.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Heiliger Charalambos",
+            "hu": "Szent Charalambos",
+            "ro": "Sfântul Charalambos",
+            "en": "Saint Charalambos"
+          },
+          "coords": [
+            26.923541,
+            37.001091
+          ],
+          "category": "historical",
+          "arrive_at": "09:03",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Erweisen Sie dieser historischen Stätte zu Ehren des Schutzheiligen Ihren Respekt, und bewundern Sie leise die traditionellen Ikonen im Inneren.",
+            "hu": "Rója le tiszteletét ezen a védőszent előtt tisztelgő történelmi helyen, és csendben csodálja meg a hagyományos ikonokat a tisztes távolság megtartásával.",
+            "ro": "Prezentați-vă respectul la acest sit istoric care onorează sfântul patron și admirați în liniște icoanele tradiționale păstrând o distanță respectuoasă.",
+            "en": "Pay your respects at this historical site honoring the patron saint, and quietly admire the traditional icons inside while maintaining a respectful distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Paralia Potha",
+            "hu": "Paralia Potha",
+            "ro": "Paralia Potha",
+            "en": "Paralia Potha"
+          },
+          "coords": [
+            26.924123,
+            37.004702
+          ],
+          "category": "recreational",
+          "arrive_at": "10:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre von Paralia Potha in einer wunderschönen Umgebung, und mieten Sie frühzeitig eine Sonnenliege für maximale Entspannung.",
+            "hu": "Szívja magába a Paralia Potha élénk hangulatát és gyönyörű környezetét, és béreljen korán napágyat, hogy garantálja a maximális pihenést.",
+            "ro": "Bucurați-vă de atmosfera plină de viață de la Paralia Potha, cu un cadru frumos, și închiriați un șezlong devreme pentru o relaxare maximă.",
+            "en": "Soak in the lively atmosphere of Paralia Potha with its beautiful setting, and rent a sunbed early in the day to guarantee maximum relaxation."
+          }
+        },
+        {
+          "name": {
+            "de": "Paradise Beach",
+            "hu": "Paradise strand",
+            "ro": "Plaja Paradise",
+            "en": "Paradise Beach"
+          },
+          "coords": [
+            26.923941,
+            37.006355
+          ],
+          "category": "recreational",
+          "arrive_at": "11:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich vollkommen im weichen Sand des Paradise Beach bei glasklarem Wasser, und vergessen Sie nicht, sich nach dem Schwimmen einzucremen.",
+            "hu": "Kapcsolódjon ki teljesen a Paradise Beach puha homokján, ahol a víz hihetetlenül tiszta, és egy hosszú úszás után ne felejtse el újra bekenni magát.",
+            "ro": "Relaxați-vă complet pe nisipul moale al plajei Paradise, unde apele sunt incredibil de limpezi, și nu uitați să aplicați din nou protecție solară.",
+            "en": "Unwind completely on the soft sands of Paradise Beach where the waters are incredibly clear, and don't forget to reapply sunscreen after a long swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Frühchristliche Basilika Agios Ioannis",
+            "hu": "Agios Ioannis Ókeresztény Bazilika",
+            "ro": "Bazilica Paleocreștină Agios Ioannis",
+            "en": "Agios Ioannis - Early Christian Basilica"
+          },
+          "coords": [
+            26.931204,
+            36.986075
+          ],
+          "category": "historical",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende frühchristliche Basilika, um in die antike Geschichte einzutauchen, und tragen Sie feste Schuhe für das unebene Gelände.",
+            "hu": "Fedezze fel ezt a lenyűgöző ókeresztény bazilikát az ősi történelem nyomában, és viseljen stabil, kényelmes cipőt az egyenetlen terepen való navigáláshoz.",
+            "ro": "Explorați această bazilică paleocreștină fascinantă pentru a asista la istoria antică și purtați încălțăminte robustă pentru a naviga pe terenul denivelat.",
+            "en": "Explore this fascinating early Christian basilica to witness ancient history, and make sure to wear sturdy shoes for navigating the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Platys Gialos",
+            "hu": "Platys Gialos strand",
+            "ro": "Plaja Platys Gialos",
+            "en": "Platys Gialos beach"
+          },
+          "coords": [
+            26.928322,
+            36.974962
+          ],
+          "category": "recreational",
+          "arrive_at": "14:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie am breiten, dunklen Sandstrand von Platys Gialos, der einen schönen Kontrast zum blauen Wasser bildet, und kommen Sie früh für einen guten Platz.",
+            "hu": "Pihenjen a Platys Gialos széles, sötét homokján, amely gyönyörű kontrasztot alkot a kék vízzel, és érkezzen korán, hogy jó helyet biztosítson a parton.",
+            "ro": "Relaxați-vă pe nisipul închis la culoare de la Platys Gialos care contrastează cu apa albastră și ajungeți devreme pentru a prinde un loc bun pe țărm.",
+            "en": "Relax on the wide, dark sands of Platys Gialos which contrasts beautifully with the blue water, and arrive early to secure a good spot near the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Georgios",
+            "hu": "Agios Georgios",
+            "ro": "Agios Georgios",
+            "en": "Agios Georgios"
+          },
+          "coords": [
+            26.935702,
+            36.971511
+          ],
+          "category": "religious",
+          "arrive_at": "15:50",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese malerische Kapelle in Weiß und Blau, um authentische Architektur zu bewundern, und kommen Sie zum Sonnenuntergang für tolle Fotos.",
+            "hu": "Látogasson el ehhez a festői kék-fehér kápolnához az autentikus szigeti építészetért, és időzítse a látogatást naplemente idejére a lenyűgöző fotókért.",
+            "ro": "Vizitați această capelă pitorească alb-albastră pentru a admira arhitectura autentică a insulei și programați-vă vizita la apus pentru fotografii uimitoare.",
+            "en": "Visit this picturesque white-and-blue chapel to admire authentic Greek island architecture, and time your visit for sunset to capture stunning photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Fahren Sie nach Norden zum historischen Saint Charalambos für einen inspirierenden Start und dann etwas weiter zur lebhaften Paralia Potha.\n\nMittag: Genießen Sie den unberührten Sand des Paradise Beach und machen Sie dann eine malerische Fahrt nach Süden zur Basilika von Agios Ioannis.\n\nNachmittag: Verbringen Sie Ihren Nachmittag am Strand von Platys Gialos, wo Sie bequem parken und direkt ins erfrischende Ägäische Meer eintauchen können.\n\nAbend: Beenden Sie Ihre Autotour am ruhigen Agios Georgios und fotografieren Sie die perfekte mediterrane Dämmerung, bevor Sie sich auf den Rückweg machen.",
+        "hu": "Reggel: Vezessen északra a történelmi Saint Charalamboshoz egy inspiráló kezdésért, majd haladjon egy kicsit tovább a mindig élénk Paralia Potha felé.\n\nDélben: Élvezze a Paradise Beach érintetlen homokját, majd tegyen egy festői utazást délre az Agios Ioannis különleges ókeresztény bazilikájához.\n\nDélután: Töltse a délutánt a Platys Gialos strandon, ahol könnyen parkolhat, és azonnal fejest is ugorhat a hűsítő és frissítő Égei-tengerbe.\n\nEste: Fejezze be az autós túrát a nyugodt Agios Georgiosnál, és örökítsen meg egy tökéletes mediterrán alkonyatot, mielőtt visszaindulna a szállásra.",
+        "ro": "Dimineața: Conduceți spre nord până la istoricul Saint Charalambos pentru un început inspirat, apoi mergeți puțin mai departe către animata Paralia Potha.\n\nPrânz: Bucurați-vă de nisipurile imaculate de la Paradise Beach, apoi faceți o plimbare pitorească spre sud până la bazilica Agios Ioannis.\n\nDupă-amiaza: Petreceți-vă după-amiaza la plaja Platys Gialos, unde puteți parca cu ușurință și vă puteți scufunda direct în răcoroasa Marea Egee.\n\nSeara: Terminați-vă turul cu mașina la liniștitul Agios Georgios, surprinzând un amurg mediteranean perfect înainte de a vă întoarce la cazare.",
+        "en": "Morning: Drive north to the historical Saint Charalambos for an inspiring start, then head slightly further to the lively Paralia Potha.\n\nMidday: Enjoy the pristine sands of Paradise Beach, then take a scenic drive south to the remarkable early Christian basilica of Agios Ioannis.\n\nAfternoon: Spend your afternoon at Platys Gialos beach, where you can easily park and dive straight into the refreshing Aegean Sea.\n\nEvening: Finish your driving tour at the tranquil Agios Georgios, capturing a perfect Mediterranean twilight before heading back."
+      }
+    }
+  }
+}

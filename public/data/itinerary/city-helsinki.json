@@ -1,0 +1,451 @@
+{
+  "city_id": "city-helsinki",
+  "anchor": {
+    "name": "Helsinki",
+    "coords": [
+      24.9414,
+      60.1699
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:36",
+      "total_km": 2.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Amos Rex",
+            "hu": "Amos Rex",
+            "ro": "Amos Rex",
+            "en": "Amos Rex"
+          },
+          "coords": [
+            24.936445,
+            60.170687
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Amos Rex mit seiner unterirdischen Architektur und modernen Kunst, aber buchen Sie Ihre Tickets unbedingt im Voraus online.",
+            "hu": "Fedezze fel az Amos Rex lenyűgöző földalatti építészetét és kortárs művészetét, de mindenképpen foglaljon jegyet előre a sorban állás elkerülése érdekében.",
+            "ro": "Descoperiți arhitectura subterană și arta contemporană la Amos Rex, dar rezervați-vă biletele în avans pentru a evita cozile lungi de la intrarea principală.",
+            "en": "Discover Amos Rex for its striking underground modern architecture and contemporary art, but make sure to book your tickets in advance to skip the long lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Helsingin taidemuseo HAM",
+            "hu": "Helsingin taidemuseo HAM",
+            "ro": "Muzeul de Artă HAM din Helsinki",
+            "en": "Helsingin taidemuseo HAM"
+          },
+          "coords": [
+            24.930226,
+            60.169781
+          ],
+          "category": "museum",
+          "arrive_at": "10:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die vielfältigen zeitgenössischen Ausstellungen im HAM, um die moderne finnische Kultur zu verstehen, und prüfen Sie freie Eintrittstage.",
+            "hu": "Ismerje meg a modern finn kultúrát a HAM változatos kortárs kiállításain keresztül, és indulás előtt ellenőrizze az ingyenes belépési napokat a weboldalon.",
+            "ro": "Explorați expozițiile contemporane diverse de la HAM pentru a înțelege cultura finlandeză modernă și verificați site-ul pentru zilele cu intrare gratuită.",
+            "en": "Explore the diverse contemporary exhibitions at HAM to understand modern Finnish culture, and check their website for free entry days before visiting."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturhistorisches Museum",
+            "hu": "Természettudományi Múzeum",
+            "ro": "Muzeul de Istorie Naturală",
+            "en": "Naturhistorisches Museum"
+          },
+          "coords": [
+            24.931224,
+            60.171445
+          ],
+          "category": "museum",
+          "arrive_at": "12:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie faszinierende Dinosaurierskelette und Tierexponate und kommen Sie am Wochenende früh, um einen Platz im beliebten Café zu ergattern.",
+            "hu": "Csodálja meg a lenyűgöző dinoszaurusz csontvázakat és az élővilág kiállításait, és érkezzen korán, hogy biztosítson helyet a népszerű múzeumi kávézóban.",
+            "ro": "Admirați scheletele fascinante de dinozauri și exponatele despre viața sălbatică și sosiți devreme în weekend pentru a prinde loc la cafeneaua populară.",
+            "en": "Marvel at the fascinating dinosaur skeletons and diverse wildlife exhibits here, and arrive early on weekends to secure a spot in the popular museum cafe."
+          }
+        },
+        {
+          "name": {
+            "de": "Arkkitehtuuri- ja designmuseo",
+            "hu": "Építészeti és Dizájnmúzeum",
+            "ro": "Muzeul de Arhitectură și Design",
+            "en": "Arkkitehtuuri- ja designmuseo"
+          },
+          "coords": [
+            24.946615,
+            60.163087
+          ],
+          "category": "museum",
+          "arrive_at": "14:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Museum in Finnlands reiches Erbe an funktionalem Design ein und kaufen Sie ein Kombiticket, um bei beiden Ausstellungen zu sparen.",
+            "hu": "Merüljön el a finn funkcionális dizájn gazdag örökségében ebben a múzeumban, és vásároljon kombinált jegyet, hogy spóroljon mindkét kiállítás megtekintésén.",
+            "ro": "Descoperiți patrimoniul bogat al designului și arhitecturii funcționale finlandeze și cumpărați un bilet combinat pentru a economisi bani la ambele vizite.",
+            "en": "Dive into Finland's rich heritage of functional design and architecture at this joint museum, and buy a combined ticket to save money on both exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Helsingin kaupunginmuseo",
+            "hu": "Helsinki Városi Múzeum",
+            "ro": "Muzeul Orașului Helsinki",
+            "en": "Helsingin kaupunginmuseo"
+          },
+          "coords": [
+            24.954026,
+            60.168758
+          ],
+          "category": "museum",
+          "arrive_at": "16:26",
+          "stay_min": 130,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise und erkunden Sie die Geschichte Helsinkis durch interaktive Ausstellungen, und nutzen Sie den täglich kostenlosen Eintritt.",
+            "hu": "Lépjen vissza az időben, és fedezze fel Helsinki történelmét interaktív kiállításokon keresztül, és használja ki a minden nap ingyenes belépés lehetőségét.",
+            "ro": "Întoarceți-vă în timp pentru a explora istoria orașului Helsinki prin ecrane interactive captivante și profitați de intrarea complet gratuită în fiecare zi.",
+            "en": "Step back in time to explore Helsinki's history through engaging interactive displays, and take advantage of the free admission offered here every single day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Stadtrundgang voller Kreativität im modernen Amos Rex, bevor Sie zum HAM schlendern. Zur Mittagszeit können Sie im Naturhistorischen Museum die unglaubliche Artenvielfalt bestaunen. Verbringen Sie den Nachmittag damit, Finnlands weltberühmte funktionale Ästhetik im Architektur- und Designmuseum zu entdecken. Beenden Sie den Tag im Stadtmuseum von Helsinki.",
+        "hu": "Kezdje a gyalogtúrát a modern Amos Rex kreatív terében, mielőtt átsétálna a HAM Művészeti Múzeumba. Délidőben csodálja meg a hihetetlen biológiai sokféleséget a Természettudományi Múzeumban. Délután merüljön el Finnország világhírű funkcionális esztétikájában az Építészeti és Dizájnmúzeumban. Zárja a napot a Helsinki Városi Múzeumban, elmélyülve a helyi történelemben.",
+        "ro": "Începeți turul pietonal plin de creativitate la modernul Amos Rex, înainte de a merge la HAM. La prânz, admirați biodiversitatea incredibilă la Muzeul de Istorie Naturală. Petreceți după-amiaza descoperind estetica funcțională finlandeză la Muzeul de Arhitectură și Design. Încheiați ziua la Muzeul Orașului Helsinki, absorbind istoria locală profundă a capitalei.",
+        "en": "Start your Helsinki walking tour immersed in creativity at the modern Amos Rex, before strolling over to the HAM Helsinki Art Museum. As midday approaches, marvel at the incredible biodiversity at the Naturhistorisches Museum. Spend your afternoon delving into Finland's world-renowned functional aesthetics at the Architecture and Design Museum. Conclude your day at the Helsinki City Museum."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "20:15",
+      "total_km": 6.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hotelli- und Restaurantmuseum",
+            "hu": "Szálloda- és Étteremmúzeum",
+            "ro": "Muzeul Hotelurilor și Restaurantelor",
+            "en": "Hotelli- ja ravintolamuseo"
+          },
+          "coords": [
+            24.905758,
+            60.161854
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Geschichte der finnischen Esskultur ein und nehmen Sie an einer geführten Verkostungstour teil, um ein besonderes Erlebnis zu haben.",
+            "hu": "Ismerje meg a finn gasztronómia és vendéglátás történetét ezen a különleges helyen, és vegyen részt egy vezetett kóstolótúrán az igazi élményért.",
+            "ro": "Descoperiți istoria culturii culinare și a ospitalității finlandeze și alăturați-vă unui tur ghidat cu degustare pentru o experiență senzorială inedită.",
+            "en": "Delve into the history of Finnish culinary and hospitality culture in this unique space, and join a guided tasting tour for an immersive sensory experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Ratikkamuseo",
+            "hu": "Villamosmúzeum",
+            "ro": "Muzeul Tramvaielor",
+            "en": "Ratikkamuseo"
+          },
+          "coords": [
+            24.920509,
+            60.184046
+          ],
+          "category": "museum",
+          "arrive_at": "11:04",
+          "stay_min": 100,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Steigen Sie im Straßenbahnmuseum in historische Trams und sehen Sie die Entwicklung des Nahverkehrs, ein idealer kurzer Halt für Familien mit Kindern.",
+            "hu": "Szálljon fel a régi villamosokra, hogy lássa a helyi tömegközlekedés fejlődését a Villamosmúzeumban, amely tökéletes és gyors program a kisgyermekeseknek.",
+            "ro": "Urcați-vă în tramvaiele de epocă la Muzeul Tramvaielor pentru a vedea evoluția transportului public, fiind o oprire perfectă pentru familiile cu copii.",
+            "en": "Climb aboard vintage trams at the Tram Museum to see the evolution of local public transport, making it a perfect quick stop for families with small kids."
+          }
+        },
+        {
+          "name": {
+            "de": "Urheilun ja liikunnan kulttuurikeskus TAHTO",
+            "hu": "TAHTO Sport- és Mozgáskultúra Központ",
+            "ro": "Centrul Cultural Sportiv TAHTO",
+            "en": "Urheilun ja liikunnan kulttuurikeskus TAHTO"
+          },
+          "coords": [
+            24.925288,
+            60.187365
+          ],
+          "category": "museum",
+          "arrive_at": "12:47",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Feiern Sie finnische Sporterfolge in diesem dynamischen Zentrum und probieren Sie unbedingt die interaktiven Sportsimulatoren in der Haupthalle aus.",
+            "hu": "Ünnepelje a finn sporteredményeket és sporttörténelmet ebben a központban, és próbálja ki a főcsarnokban található interaktív sportszimulátorokat.",
+            "ro": "Sărbătoriți realizările sportive și istoria atletismului finlandez și testați simulatoarele sportive interactive situate în holul principal al centrului.",
+            "en": "Celebrate Finnish sports achievements and athletic history in this dynamic center, and try the interactive sports simulators located in the main hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Naturhistorisches Museum",
+            "hu": "Természettudományi Múzeum",
+            "ro": "Muzeul de Istorie Naturală",
+            "en": "Naturhistorisches Museum"
+          },
+          "coords": [
+            24.931224,
+            60.171445
+          ],
+          "category": "museum",
+          "arrive_at": "14:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie faszinierende Dinosaurierskelette und Tierexponate und kommen Sie am Wochenende früh, um einen Platz im beliebten Café zu ergattern.",
+            "hu": "Csodálja meg a lenyűgöző dinoszaurusz csontvázakat és az élővilág kiállításait, és érkezzen korán, hogy biztosítson helyet a népszerű múzeumi kávézóban.",
+            "ro": "Admirați scheletele fascinante de dinozauri și exponatele despre viața sălbatică și sosiți devreme în weekend pentru a prinde loc la cafeneaua populară.",
+            "en": "Marvel at the fascinating dinosaur skeletons and diverse wildlife exhibits here, and arrive early on weekends to secure a spot in the popular museum cafe."
+          }
+        },
+        {
+          "name": {
+            "de": "Tiedemuseo Liekki",
+            "hu": "Liekki Tudománymúzeum",
+            "ro": "Muzeul de Știință Liekki",
+            "en": "Tiedemuseo Liekki"
+          },
+          "coords": [
+            24.949547,
+            60.169726
+          ],
+          "category": "museum",
+          "arrive_at": "16:23",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die wissenschaftlichen Wunder und das universitäre Erbe im Liekki und schauen Sie sich die seltenen astronomischen Instrumente genau an.",
+            "hu": "Fedezze fel a tudományos felfedezések csodáit a Liekki egyetemi örökséget bemutató tereiben, és vegye szemügyre a ritka csillagászati műszereket.",
+            "ro": "Descoperiți minunile științifice și moștenirea universitară la Liekki și priviți cu atenție instrumentele astronomice rare expuse în galeria principală.",
+            "en": "Uncover the fascinating wonders of scientific discovery and university heritage at Liekki, and look closely at the rare astronomical instruments on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Helsingin kaupunginmuseo",
+            "hu": "Helsinki Városi Múzeum",
+            "ro": "Muzeul Orașului Helsinki",
+            "en": "Helsingin kaupunginmuseo"
+          },
+          "coords": [
+            24.954026,
+            60.168758
+          ],
+          "category": "museum",
+          "arrive_at": "18:05",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise und erkunden Sie die Geschichte Helsinkis durch interaktive Ausstellungen, und nutzen Sie den täglich kostenlosen Eintritt.",
+            "hu": "Lépjen vissza az időben, és fedezze fel Helsinki történelmét interaktív kiállításokon keresztül, és használja ki a minden nap ingyenes belépés lehetőségét.",
+            "ro": "Întoarceți-vă în timp pentru a explora istoria orașului Helsinki prin ecrane interactive captivante și profitați de intrarea complet gratuită în fiecare zi.",
+            "en": "Step back in time to explore Helsinki's history through engaging interactive displays, and take advantage of the free admission offered here every single day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer im Hotel- und Restaurantmuseum und fahren Sie dann nach Norden, um historische Straßenbahnen im Ratikkamuseo zu sehen. Setzen Sie Ihre Fahrt zum TAHTO-Zentrum fort und tauchen Sie anschließend im Naturhistorischen Museum ein. Radeln Sie zurück ins Zentrum, um das wissenschaftliche Erbe im Liekki zu entdecken. Beenden Sie Ihre Radtour am Stadtmuseum von Helsinki.",
+        "hu": "Kezdje a kerékpáros kalandot a Szálloda- és Étteremmúzeumban, majd tekerjen északra a régi villamosokhoz. Folytassa útját a TAHTO központba, majd merüljön el a Természettudományi Múzeum kiállításaiban. Tekerjen vissza a belvárosba, hogy felfedezze a tudományos örökséget a Liekki Múzeumban. Fejezze be a kerékpártúrát a Helsinki Városi Múzeumnál, élvezve a partmenti főváros hangulatát.",
+        "ro": "Începeți aventura pe bicicletă la Muzeul Hotelurilor, explorând istoria culinară înainte de a pedala spre Muzeul Tramvaielor. Continuați plimbarea spre centrul TAHTO, urmată de o scufundare în istoria naturală. Pedalați înapoi spre inima orașului Helsinki pentru a descoperi patrimoniul științific la Liekki. Terminați turul cu bicicleta la Muzeul Orașului Helsinki.",
+        "en": "Kick off your cycling adventure at the Hotel and Restaurant Museum before riding north to see vintage trams at the Tram Museum. Continue your ride to the TAHTO center to celebrate athletics, followed by a dive into natural history. Pedal back towards the heart of Helsinki to uncover scientific heritage at Tiedemuseo Liekki. Finish your bike tour at the brilliant Helsinki City Museum."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:56",
+      "total_km": 7.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mannerheim-museo",
+            "hu": "Mannerheim Múzeum",
+            "ro": "Muzeul Mannerheim",
+            "en": "Mannerheim-museo"
+          },
+          "coords": [
+            24.96047,
+            60.158873
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie das authentische ehemalige Zuhause von Marschall Mannerheim, aber beachten Sie, dass Besuche nur im Rahmen von Führungen möglich sind.",
+            "hu": "Járja be Mannerheim marsall egykori otthonát, hogy megértse Finnország háborús történelmét, de ne feledje, hogy a látogatás csak vezetett túrával lehetséges.",
+            "ro": "Vizitați fosta casă autentică a mareșalului Mannerheim pentru a înțelege istoria războiului, dar rețineți că accesul se face doar prin tururi ghidate.",
+            "en": "Tour the authentic former home of Marshal Mannerheim to understand Finland's wartime history, but be aware that visits are by guided tour only."
+          }
+        },
+        {
+          "name": {
+            "de": "Päivikki ja Sakari Sohlbergin kotimuseo",
+            "hu": "Päivikki és Sakari Sohlberg Otthonmúzeum",
+            "ro": "Muzeul Memorial Päivikki și Sakari Sohlberg",
+            "en": "Päivikki ja Sakari Sohlbergin kotimuseo"
+          },
+          "coords": [
+            24.96731,
+            60.167243
+          ],
+          "category": "museum",
+          "arrive_at": "10:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erleben Sie ein sorgfältig erhaltenes Haus der Oberschicht aus dem frühen 20. Jahrhundert und prüfen Sie vorab die sehr begrenzten Öffnungszeiten.",
+            "hu": "Tapasztalja meg a 20. század eleji helsinki felsőosztály gondosan megőrzött otthonát, de indulás előtt ellenőrizze a meglehetősen korlátozott nyitvatartást.",
+            "ro": "Explorați o casă a clasei superioare din Helsinki de la începutul secolului XX, perfect conservată, și verificați din timp programul limitat de vizitare.",
+            "en": "Experience a meticulously preserved upper-class Helsinki home from the early 20th century, and check their limited opening hours before you plan a visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Merkki",
+            "hu": "Merkki Múzeum",
+            "ro": "Muzeul Merkki",
+            "en": "Merkki"
+          },
+          "coords": [
+            24.94534,
+            60.165705
+          ],
+          "category": "museum",
+          "arrive_at": "12:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Beschäftigen Sie sich im Merkki Museum mit der Geschichte der Massenmedien und probieren Sie die Retro-Druckmaschinen in der interaktiven Zone aus.",
+            "hu": "Ismerkedjen meg a tömegmédia és a kommunikáció történetével a Merkki múzeumban, és próbálja ki a retro nyomdagépeket az interaktív kommunikációs zónában.",
+            "ro": "Interacționați cu istoria mass-media și a comunicării la muzeul Merkki și încercați presele tipografice retro din zona de comunicare interactivă.",
+            "en": "Engage with the history of mass media and communication at the Merkki museum, and try the retro printing presses in the interactive communication zone."
+          }
+        },
+        {
+          "name": {
+            "de": "Väestönsuojelumuseo",
+            "hu": "Polgári Védelmi Múzeum",
+            "ro": "Muzeul de Apărare Civilă",
+            "en": "Väestönsuojelumuseo"
+          },
+          "coords": [
+            24.954071,
+            60.176442
+          ],
+          "category": "museum",
+          "arrive_at": "14:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie einen echten unterirdischen Bunker und lernen Sie über den finnischen Zivilschutz, aber ziehen Sie sich warm an, da es dort sehr kühl ist.",
+            "hu": "Fedezzen fel egy igazi földalatti óvóhelyet, hogy megismerje a finn polgári védelmet, és öltözzön melegen, mert a bunker még nyáron is nagyon hűvös lehet.",
+            "ro": "Explorați un adăpost subteran real pentru a afla despre apărarea civilă a Finlandei și îmbrăcați-vă gros, deoarece buncărul este răcoros chiar și vara.",
+            "en": "Explore an actual underground bomb shelter to learn about Finland's civil defense network, and dress warmly as the bunker can be chilly even during summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Lastentarhamuseo",
+            "hu": "Óvodamúzeum",
+            "ro": "Muzeul Grădiniței",
+            "en": "Lastentarhamuseo"
+          },
+          "coords": [
+            24.958222,
+            60.187708
+          ],
+          "category": "museum",
+          "arrive_at": "16:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die Entwicklung der frühkindlichen Bildung in diesem Museum und lassen Sie Kinder mit historischen Holzspielzeugen im Spielzimmer spielen.",
+            "hu": "Ismerje meg a kora gyermekkori oktatás fejlődését ebben a bájos múzeumban, és hagyja, hogy a gyerekek kipróbálják a történelmi fajátékokat a játszószobában.",
+            "ro": "Aflați despre evoluția educației timpurii în acest muzeu pedagogic fermecător și lăsați copiii să se bucure de jucăriile istorice din lemn în camera de joacă.",
+            "en": "Learn about the evolution of early childhood education in this charming pedagogical museum, and let kids enjoy the historical wooden toys in the playroom."
+          }
+        },
+        {
+          "name": {
+            "de": "Ratikkamuseo",
+            "hu": "Villamosmúzeum",
+            "ro": "Muzeul Tramvaielor",
+            "en": "Ratikkamuseo"
+          },
+          "coords": [
+            24.920509,
+            60.184046
+          ],
+          "category": "museum",
+          "arrive_at": "17:46",
+          "stay_min": 130,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Steigen Sie im Straßenbahnmuseum in historische Trams und sehen Sie die Entwicklung des Nahverkehrs, ein idealer kurzer Halt für Familien mit Kindern.",
+            "hu": "Szálljon fel a régi villamosokra, hogy lássa a helyi tömegközlekedés fejlődését a Villamosmúzeumban, amely tökéletes és gyors program a kisgyermekeseknek.",
+            "ro": "Urcați-vă în tramvaiele de epocă la Muzeul Tramvaielor pentru a vedea evoluția transportului public, fiind o oprire perfectă pentru familiile cu copii.",
+            "en": "Climb aboard vintage trams at the Tram Museum to see the evolution of local public transport, making it a perfect quick stop for families with small kids."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour zur Militärgeschichte im Mannerheim-Museum und fahren Sie dann zum gut erhaltenen Haus der Familie Sohlberg. Navigieren Sie in Richtung Stadtzentrum, um die Medienentwicklung im Merkki zu erkunden, bevor Sie die Realität des Zivilschutzes im Bunkermuseum erleben. Fahren Sie zum Kindergartenmuseum und beenden Sie Ihren Roadtrip am Abend im Straßenbahnmuseum.",
+        "hu": "Kezdje az autós túrát a Mannerheim Múzeumban, majd vezessen a gyönyörűen megőrzött Sohlberg otthonba. Navigáljon a városközpont felé a Merkki Múzeumhoz, majd tapasztalja meg a polgári védelem valóságát a földalatti bunkermúzeumban. Vezessen el az Óvodamúzeumba, hogy megismerje a finn pedagógiai történelmet, és zárja autós útját a történelmi járműveket bemutató Villamosmúzeumban.",
+        "ro": "Începeți turul cu mașina descoperind istoria militară la Muzeul Mannerheim, apoi conduceți până la casa perfect conservată Sohlberg. Navigați spre centru pentru a explora evoluția media la Merkki, înainte de a experimenta realitatea apărării civile la muzeul buncărului. Conduceți la Muzeul Grădiniței și încheiați excursia auto la Muzeul Tramvaielor pentru a vedea vehicule istorice.",
+        "en": "Begin your driving tour discovering military history at the Mannerheim Museum, then drive a short distance to the beautifully preserved Sohlberg Home. Navigate towards the city center to explore media evolution at Merkki, before experiencing civil defense reality at the underground Bunker Museum. Drive over to the Kindergarten Museum and end your road trip viewing vehicles at the Tram Museum."
+      }
+    }
+  }
+}

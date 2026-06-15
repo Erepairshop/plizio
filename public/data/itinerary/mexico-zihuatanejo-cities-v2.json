@@ -1,0 +1,451 @@
+{
+  "city_id": "mexico-zihuatanejo-cities-v2",
+  "anchor": {
+    "name": "Zihuatanejo",
+    "coords": [
+      -101.55212,
+      17.64344
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 1.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo de Arqueológico",
+            "hu": "Museo de Arqueológico",
+            "ro": "Museo de Arqueológico",
+            "en": "Museo de Arqueológico"
+          },
+          "coords": [
+            -101.55612,
+            17.638753
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die antiken Wurzeln der Region in diesem Museum; achten Sie auf die indigene Keramik und kommen Sie früh, um der Hitze zu entgehen.",
+            "hu": "Fedezze fel a régió ősi gyökereit ebben a múzeumban; érdemes megnézni az őslakos kerámiákat, és korán érkezni a délutáni hőség elkerülése végett.",
+            "ro": "Explorați rădăcinile antice ale regiunii la acest muzeu fascinant; admirați ceramica indigenă și veniți devreme pentru a evita căldura de după-amiază.",
+            "en": "Explore the region's ancient roots at this insightful museum, and check out the indigenous pottery; arrive early to avoid the afternoon heat inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Principal",
+            "hu": "Playa Principal",
+            "ro": "Playa Principal",
+            "en": "Playa Principal"
+          },
+          "coords": [
+            -101.557292,
+            17.63801
+          ],
+          "category": "recreational",
+          "arrive_at": "10:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem belebten Strand, um das lokale Leben zu spüren; wegen des Bootsverkehrs eignet er sich besser zum Beobachten als zum Schwimmen.",
+            "hu": "Sétáljon végig ezen a nyüzsgő központi strandon a helyi élet megfigyeléséhez; a csónakforgalom miatt inkább nézelődésre, mint úszásra ajánlott.",
+            "ro": "Plimbați-vă pe această plajă centrală aglomerată pentru a simți viața locală; e mai potrivită pentru relaxare decât pentru înot din cauza bărcilor.",
+            "en": "Stroll along this bustling central beach to experience local life, but keep in mind it's better for people-watching than swimming due to boat traffic."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa la Madera",
+            "hu": "Playa la Madera",
+            "ro": "Playa la Madera",
+            "en": "Playa la Madera"
+          },
+          "coords": [
+            -101.551953,
+            17.638728
+          ],
+          "category": "recreational",
+          "arrive_at": "12:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem ruhigen Strand mit dunklem Sand und sanften Wellen; mieten Sie sich für mehr Komfort eine Liege in einem der kleinen Cafés.",
+            "hu": "Pihenjen ezen a sötét homokjáról és lágy hullámairól ismert nyugodt strandon; a kényelem érdekében béreljen napágyat a tengerparti kávézók egyikében.",
+            "ro": "Relaxați-vă pe această plajă liniștită, faimoasă pentru nisipul închis și valurile blânde; închiriați un șezlong la o cafenea pentru confort maxim.",
+            "en": "Relax at this tranquil beach known for its dark sand and gentle waves, and consider renting a lounger from one of the small seaside cafes for comfort."
+          }
+        },
+        {
+          "name": {
+            "de": "Partenón de Zihuatanejo",
+            "hu": "Partenón de Zihuatanejo",
+            "ro": "Partenón de Zihuatanejo",
+            "en": "Partenón de Zihuatanejo"
+          },
+          "coords": [
+            -101.549265,
+            17.635915
+          ],
+          "category": "landmark",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Steigen Sie zu diesen berüchtigten Ruinen hinauf, die einen tollen Panoramablick bieten; tragen Sie festes Schuhwerk für den steilen, unbefestigten Weg.",
+            "hu": "Másszon fel ezekhez a hírhedt romokhoz, ahonnan elképesztő panoráma nyílik az öbölre; viseljen kényelmes cipőt a meredek, burkolatlan ösvény miatt.",
+            "ro": "Urcați pentru a vedea aceste ruine notorii care oferă o panoramă incredibilă a golfului; purtați încălțăminte solidă pentru poteca abruptă și neasfaltată.",
+            "en": "Climb up to see these notorious unfinished ruins that offer incredible panoramic bay views, and wear sturdy shoes for the steep, unpaved pathway."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa la Ropa",
+            "hu": "Playa la Ropa",
+            "ro": "Playa la Ropa",
+            "en": "Playa la Ropa"
+          },
+          "coords": [
+            -101.546779,
+            17.629994
+          ],
+          "category": "recreational",
+          "arrive_at": "15:20",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem goldenen Sand dieses beliebten Strandes; bringen Sie Schnorchelausrüstung mit, um die felsigen Ränder der Küste zu erkunden.",
+            "hu": "Kapcsolódjon ki ennek a népszerű, finom homokos strandnak a partján; hozzon magával búvárfelszerelést, hogy felfedezze a part menti sziklás részeket.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje populare, perfectă pentru înot; aduceți echipament de snorkeling pentru a explora marginile stâncoase.",
+            "en": "Unwind on the expansive, golden sands of this popular beach, perfect for swimming; bring snorkeling gear to explore the rocky edges near the shoreline."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie den Tag mit einer Entdeckungsreise der Geschichte im lokalen Museum.\n\nMidday: Genießen Sie die lebhafte Atmosphäre der zentralen Strände, wo weicher Sand zur Entspannung einlädt.\n\nAfternoon: Entdecken Sie die Ruinen des Parthenon über der Bucht mit Einblicken in die Vergangenheit.\n\nEvening: Beenden Sie den Tag mit einem ruhigen Sonnenuntergang an den südlichen Stränden.",
+        "hu": "Morning: Kezdje a napot a helyi régészeti múzeumban, felfedezve a régió gazdag történelmét.\n\nMidday: Élvezze a központi strandok nyüzsgő hangulatát, ahol a finom homok pihenésre csábít.\n\nAfternoon: Fedezze fel a tengeröbölre néző Parthenon romjait, amelyek bepillantást engednek a múltba.\n\nEvening: Zárja a napot egy békés naplementével a déli strandokon, egy nyugodt séta kíséretében.",
+        "ro": "Morning: Începeți ziua explorând istoria și cultura de coastă la muzeul arheologic local.\n\nMidday: Bucurați-vă de atmosfera plajelor centrale, unde nisipul fin vă invită la relaxare.\n\nAfternoon: Descoperiți ruinele intrigante ale Partenonului care domină golful magnific.\n\nEvening: Încheiați cu un apus de soare liniștit pe plajele sudice, perfect pentru o baie răcoritoare.",
+        "en": "Morning: Explore the rich history and coastal culture at the local archaeological museum.\n\nMidday: Enjoy the vibrant atmosphere of the central beaches, where soft sand invites relaxation.\n\nAfternoon: Discover the intriguing ruins of the Parthenon overlooking the bay, revealing a colorful past.\n\nEvening: Conclude with a serene sunset at the southern beaches, perfect for a refreshing evening swim."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:07",
+      "total_km": 4.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parque Estatal El Limón",
+            "hu": "Parque Estatal El Limón",
+            "ro": "Parque Estatal El Limón",
+            "en": "Parque Estatal El Limón"
+          },
+          "coords": [
+            -101.565014,
+            17.654451
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses Naturschutzgebiet, um exotische Vögel zu sehen; bringen Sie unbedingt ausreichend Wasser mit, da es keine Einrichtungen gibt.",
+            "hu": "Túrázzon ebben a védett természeti rezervátumban, ahol egzotikus madarakat láthat; feltétlenül hozzon magával elegendő vizet, mert nincsenek üzletek.",
+            "ro": "Faceți drumeții prin această rezervație naturală pentru a vedea păsări exotice; asigurați-vă că aduceți multă apă, deoarece nu există facilități aici.",
+            "en": "Hike through this protected natural reserve to spot exotic birds and native flora, and be sure to bring plenty of water as there are no facilities."
+          }
+        },
+        {
+          "name": {
+            "de": "Alberca Olimpica municipal",
+            "hu": "Alberca Olimpica municipal",
+            "ro": "Alberca Olimpica municipal",
+            "en": "Alberca Olimpica municipal"
+          },
+          "coords": [
+            -101.550971,
+            17.648843
+          ],
+          "category": "recreational",
+          "arrive_at": "10:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Nehmen Sie ein erfrischendes Bad oder machen Sie Wassergymnastik im städtischen Pool; denken Sie daran, ein eigenes Handtuch und eine Badekappe mitzubringen.",
+            "hu": "Ússzon egy frissítőt vagy csatlakozzon a helyiekhez a városi medencében; ne felejtsen el saját törölközőt és úszósapkát hozni a belépéshez.",
+            "ro": "Faceți o baie răcoritoare sau alăturați-vă localnicilor la piscina municipală; nu uitați să vă aduceți propriul prosop și o cască de înot pentru intrare.",
+            "en": "Take a refreshing swim or join locals for aquatic exercises at this community pool, and remember to pack your own towel and a swimming cap for entry."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Arqueológico",
+            "hu": "Museo de Arqueológico",
+            "ro": "Museo de Arqueológico",
+            "en": "Museo de Arqueológico"
+          },
+          "coords": [
+            -101.55612,
+            17.638753
+          ],
+          "category": "museum",
+          "arrive_at": "11:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die antiken Wurzeln der Region in diesem Museum; achten Sie auf die indigene Keramik und kommen Sie früh, um der Hitze zu entgehen.",
+            "hu": "Fedezze fel a régió ősi gyökereit ebben a múzeumban; érdemes megnézni az őslakos kerámiákat, és korán érkezni a délutáni hőség elkerülése végett.",
+            "ro": "Explorați rădăcinile antice ale regiunii la acest muzeu fascinant; admirați ceramica indigenă și veniți devreme pentru a evita căldura de după-amiază.",
+            "en": "Explore the region's ancient roots at this insightful museum, and check out the indigenous pottery; arrive early to avoid the afternoon heat inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Principal",
+            "hu": "Playa Principal",
+            "ro": "Playa Principal",
+            "en": "Playa Principal"
+          },
+          "coords": [
+            -101.557292,
+            17.63801
+          ],
+          "category": "recreational",
+          "arrive_at": "13:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem belebten Strand, um das lokale Leben zu spüren; wegen des Bootsverkehrs eignet er sich besser zum Beobachten als zum Schwimmen.",
+            "hu": "Sétáljon végig ezen a nyüzsgő központi strandon a helyi élet megfigyeléséhez; a csónakforgalom miatt inkább nézelődésre, mint úszásra ajánlott.",
+            "ro": "Plimbați-vă pe această plajă centrală aglomerată pentru a simți viața locală; e mai potrivită pentru relaxare decât pentru înot din cauza bărcilor.",
+            "en": "Stroll along this bustling central beach to experience local life, but keep in mind it's better for people-watching than swimming due to boat traffic."
+          }
+        },
+        {
+          "name": {
+            "de": "Partenón de Zihuatanejo",
+            "hu": "Partenón de Zihuatanejo",
+            "ro": "Partenón de Zihuatanejo",
+            "en": "Partenón de Zihuatanejo"
+          },
+          "coords": [
+            -101.549265,
+            17.635915
+          ],
+          "category": "landmark",
+          "arrive_at": "14:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Steigen Sie zu diesen berüchtigten Ruinen hinauf, die einen tollen Panoramablick bieten; tragen Sie festes Schuhwerk für den steilen, unbefestigten Weg.",
+            "hu": "Másszon fel ezekhez a hírhedt romokhoz, ahonnan elképesztő panoráma nyílik az öbölre; viseljen kényelmes cipőt a meredek, burkolatlan ösvény miatt.",
+            "ro": "Urcați pentru a vedea aceste ruine notorii care oferă o panoramă incredibilă a golfului; purtați încălțăminte solidă pentru poteca abruptă și neasfaltată.",
+            "en": "Climb up to see these notorious unfinished ruins that offer incredible panoramic bay views, and wear sturdy shoes for the steep, unpaved pathway."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa la Ropa",
+            "hu": "Playa la Ropa",
+            "ro": "Playa la Ropa",
+            "en": "Playa la Ropa"
+          },
+          "coords": [
+            -101.546779,
+            17.629994
+          ],
+          "category": "recreational",
+          "arrive_at": "16:22",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem goldenen Sand dieses beliebten Strandes; bringen Sie Schnorchelausrüstung mit, um die felsigen Ränder der Küste zu erkunden.",
+            "hu": "Kapcsolódjon ki ennek a népszerű, finom homokos strandnak a partján; hozzon magával búvárfelszerelést, hogy felfedezze a part menti sziklás részeket.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje populare, perfectă pentru înot; aduceți echipament de snorkeling pentru a explora marginile stâncoase.",
+            "en": "Unwind on the expansive, golden sands of this popular beach, perfect for swimming; bring snorkeling gear to explore the rocky edges near the shoreline."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie den Tag mit einer Entdeckungsreise der Geschichte im lokalen Museum.\n\nMidday: Genießen Sie die lebhafte Atmosphäre der zentralen Strände, wo weicher Sand zur Entspannung einlädt.\n\nAfternoon: Entdecken Sie die Ruinen des Parthenon über der Bucht mit Einblicken in die Vergangenheit.\n\nEvening: Beenden Sie den Tag mit einem ruhigen Sonnenuntergang an den südlichen Stränden.",
+        "hu": "Morning: Kezdje a napot a helyi régészeti múzeumban, felfedezve a régió gazdag történelmét.\n\nMidday: Élvezze a központi strandok nyüzsgő hangulatát, ahol a finom homok pihenésre csábít.\n\nAfternoon: Fedezze fel a tengeröbölre néző Parthenon romjait, amelyek bepillantást engednek a múltba.\n\nEvening: Zárja a napot egy békés naplementével a déli strandokon, egy nyugodt séta kíséretében.",
+        "ro": "Morning: Începeți ziua explorând istoria și cultura de coastă la muzeul arheologic local.\n\nMidday: Bucurați-vă de atmosfera plajelor centrale, unde nisipul fin vă invită la relaxare.\n\nAfternoon: Descoperiți ruinele intrigante ale Partenonului care domină golful magnific.\n\nEvening: Încheiați cu un apus de soare liniștit pe plajele sudice, perfect pentru o baie răcoritoare.",
+        "en": "Morning: Explore the rich history and coastal culture at the local archaeological museum.\n\nMidday: Enjoy the vibrant atmosphere of the central beaches, where soft sand invites relaxation.\n\nAfternoon: Discover the intriguing ruins of the Parthenon overlooking the bay, revealing a colorful past.\n\nEvening: Conclude with a serene sunset at the southern beaches, perfect for a refreshing evening swim."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 7.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Playa Majahua",
+            "hu": "Playa Majahua",
+            "ro": "Playa Majahua",
+            "en": "Playa Majahua"
+          },
+          "coords": [
+            -101.577165,
+            17.63674
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen an diesem abgelegenen Strand; die Wellen können stark sein, seien Sie also vorsichtig, wenn Sie ins Wasser gehen möchten.",
+            "hu": "Meneküljön el a tömeg elől erre az eldugott strandra; a hullámok erősek lehetnek, ezért legyen óvatos, ha úgy dönt, hogy bemerészkedik a vízbe.",
+            "ro": "Scăpați de aglomerație pe această plajă izolată, ideală pentru relaxare; valurile pot fi puternice, așa că fiți prudenți dacă decideți să intrați în apă.",
+            "en": "Escape the crowds at this secluded beach, ideal for peaceful reflection; the waves can be strong, so be cautious if you decide to wade into the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Estatal El Limón",
+            "hu": "Parque Estatal El Limón",
+            "ro": "Parque Estatal El Limón",
+            "en": "Parque Estatal El Limón"
+          },
+          "coords": [
+            -101.565014,
+            17.654451
+          ],
+          "category": "natural",
+          "arrive_at": "10:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses Naturschutzgebiet, um exotische Vögel zu sehen; bringen Sie unbedingt ausreichend Wasser mit, da es keine Einrichtungen gibt.",
+            "hu": "Túrázzon ebben a védett természeti rezervátumban, ahol egzotikus madarakat láthat; feltétlenül hozzon magával elegendő vizet, mert nincsenek üzletek.",
+            "ro": "Faceți drumeții prin această rezervație naturală pentru a vedea păsări exotice; asigurați-vă că aduceți multă apă, deoarece nu există facilități aici.",
+            "en": "Hike through this protected natural reserve to spot exotic birds and native flora, and be sure to bring plenty of water as there are no facilities."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Arqueológico",
+            "hu": "Museo de Arqueológico",
+            "ro": "Museo de Arqueológico",
+            "en": "Museo de Arqueológico"
+          },
+          "coords": [
+            -101.55612,
+            17.638753
+          ],
+          "category": "museum",
+          "arrive_at": "11:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die antiken Wurzeln der Region in diesem Museum; achten Sie auf die indigene Keramik und kommen Sie früh, um der Hitze zu entgehen.",
+            "hu": "Fedezze fel a régió ősi gyökereit ebben a múzeumban; érdemes megnézni az őslakos kerámiákat, és korán érkezni a délutáni hőség elkerülése végett.",
+            "ro": "Explorați rădăcinile antice ale regiunii la acest muzeu fascinant; admirați ceramica indigenă și veniți devreme pentru a evita căldura de după-amiază.",
+            "en": "Explore the region's ancient roots at this insightful museum, and check out the indigenous pottery; arrive early to avoid the afternoon heat inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Partenón de Zihuatanejo",
+            "hu": "Partenón de Zihuatanejo",
+            "ro": "Partenón de Zihuatanejo",
+            "en": "Partenón de Zihuatanejo"
+          },
+          "coords": [
+            -101.549265,
+            17.635915
+          ],
+          "category": "landmark",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Steigen Sie zu diesen berüchtigten Ruinen hinauf, die einen tollen Panoramablick bieten; tragen Sie festes Schuhwerk für den steilen, unbefestigten Weg.",
+            "hu": "Másszon fel ezekhez a hírhedt romokhoz, ahonnan elképesztő panoráma nyílik az öbölre; viseljen kényelmes cipőt a meredek, burkolatlan ösvény miatt.",
+            "ro": "Urcați pentru a vedea aceste ruine notorii care oferă o panoramă incredibilă a golfului; purtați încălțăminte solidă pentru poteca abruptă și neasfaltată.",
+            "en": "Climb up to see these notorious unfinished ruins that offer incredible panoramic bay views, and wear sturdy shoes for the steep, unpaved pathway."
+          }
+        },
+        {
+          "name": {
+            "de": "Turtle pen",
+            "hu": "Turtle pen",
+            "ro": "Turtle pen",
+            "en": "Turtle pen"
+          },
+          "coords": [
+            -101.545812,
+            17.629329
+          ],
+          "category": "landmark",
+          "arrive_at": "15:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beobachten Sie die lokalen Meeresschutzmaßnahmen in dieser kleinen Anlage; hinterlassen Sie eine Spende, um den Schutz der Meeresschildkröten zu unterstützen.",
+            "hu": "Figyelje meg a helyi tengeri természetvédelmi erőfeszítéseket ebben a kis létesítményben; hagyjon egy kis adományt a tengeri teknősök védelmének támogatására.",
+            "ro": "Observați eforturile locale de conservare marină la această mică unitate; lăsați o mică donație pentru a ajuta la susținerea protecției broaștelor țestoase.",
+            "en": "Observe the ongoing local marine conservation efforts at this small facility, and leave a small donation to help support the protection of sea turtles."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa las Gatas",
+            "hu": "Playa las Gatas",
+            "ro": "Playa las Gatas",
+            "en": "Playa las Gatas"
+          },
+          "coords": [
+            -101.552216,
+            17.620711
+          ],
+          "category": "recreational",
+          "arrive_at": "15:30",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Schnorcheln Sie im klaren, riffgeschützten Wasser dieses schönen Strandes; der Zugang ist am einfachsten per Wassertaxi vom Hauptpier, um Zeit zu sparen.",
+            "hu": "Sznorzelezzen a strand kristálytiszta, zátony által védett vizeiben; a legkönnyebben és leggyorsabban a fő mólóról induló vízitaxival juthat el ide.",
+            "ro": "Faceți snorkeling în apele limpezi, protejate de recif, ale acestei plaje frumoase; accesul este cel mai ușor prin taxi pe apă de la digul principal.",
+            "en": "Snorkel in the incredibly clear, reef-protected waters of this lovely beach; access is easiest via water taxi from the main pier to save time and effort."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie den Tag mit einer Entdeckungsreise der Geschichte im lokalen Museum.\n\nMidday: Genießen Sie die lebhafte Atmosphäre der zentralen Strände, wo weicher Sand zur Entspannung einlädt.\n\nAfternoon: Entdecken Sie die Ruinen des Parthenon über der Bucht mit Einblicken in die Vergangenheit.\n\nEvening: Beenden Sie den Tag mit einem ruhigen Sonnenuntergang an den südlichen Stränden.",
+        "hu": "Morning: Kezdje a napot a helyi régészeti múzeumban, felfedezve a régió gazdag történelmét.\n\nMidday: Élvezze a központi strandok nyüzsgő hangulatát, ahol a finom homok pihenésre csábít.\n\nAfternoon: Fedezze fel a tengeröbölre néző Parthenon romjait, amelyek bepillantást engednek a múltba.\n\nEvening: Zárja a napot egy békés naplementével a déli strandokon, egy nyugodt séta kíséretében.",
+        "ro": "Morning: Începeți ziua explorând istoria și cultura de coastă la muzeul arheologic local.\n\nMidday: Bucurați-vă de atmosfera plajelor centrale, unde nisipul fin vă invită la relaxare.\n\nAfternoon: Descoperiți ruinele intrigante ale Partenonului care domină golful magnific.\n\nEvening: Încheiați cu un apus de soare liniștit pe plajele sudice, perfect pentru o baie răcoritoare.",
+        "en": "Morning: Explore the rich history and coastal culture at the local archaeological museum.\n\nMidday: Enjoy the vibrant atmosphere of the central beaches, where soft sand invites relaxation.\n\nAfternoon: Discover the intriguing ruins of the Parthenon overlooking the bay, revealing a colorful past.\n\nEvening: Conclude with a serene sunset at the southern beaches, perfect for a refreshing evening swim."
+      }
+    }
+  }
+}

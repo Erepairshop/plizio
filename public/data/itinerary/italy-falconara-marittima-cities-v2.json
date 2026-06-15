@@ -1,0 +1,451 @@
+{
+  "city_id": "italy-falconara-marittima-cities-v2",
+  "anchor": {
+    "name": "Falconara Marittima",
+    "coords": [
+      13.39668,
+      43.6294
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:06",
+      "total_km": 1.66,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di Sant'Antonio da Padova",
+            "hu": "Chiesa di Sant'Antonio da Padova",
+            "ro": "Chiesa di Sant'Antonio da Padova",
+            "en": "Chiesa di Sant'Antonio da Padova"
+          },
+          "coords": [
+            13.392438,
+            43.629107
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur dieses Heiligtums und kommen Sie früh am Morgen, um die ruhige Atmosphäre ungestört zu genießen.",
+            "hu": "Csodálja meg a szentély elegáns építészetét, és érkezzen kora reggel, hogy zavartalanul élvezhesse a hely csendes és békés atmoszféráját.",
+            "ro": "Admirați arhitectura elegantă a acestui sanctuar și sosiți dimineața devreme pentru a vă bucura în liniște de atmosfera sa profund pașnică.",
+            "en": "Admire the elegant architecture and serene atmosphere of this religious sanctuary, making sure to visit early morning for quiet reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo della Resistenza Capitano Ispettore Goffredo Baldelli",
+            "hu": "Museo della Resistenza Capitano Ispettore Goffredo Baldelli",
+            "ro": "Museo della Resistenza Capitano Ispettore Goffredo Baldelli",
+            "en": "Museo della Resistenza Capitano Ispettore Goffredo Baldelli"
+          },
+          "coords": [
+            13.394689,
+            43.626865
+          ],
+          "category": "museum",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier die reiche Geschichte des Widerstands und nehmen Sie sich Zeit für die ausgestellten persönlichen Briefe in der Hauptgalerie.",
+            "hu": "Fedezze fel az ellenállás gazdag történelmét ezen a helyen, és szánjon időt a főgalériában kiállított személyes levelek alapos elolvasására.",
+            "ro": "Descoperiți istoria bogată a rezistenței păstrată aici și alocați-vă timp pentru a citi scrisorile personale detaliate expuse în galeria principală.",
+            "en": "Explore the rich history of the local resistance preserved here, and take time to read the detailed personal letters in the main gallery."
+          }
+        },
+        {
+          "name": {
+            "de": "Municipio",
+            "hu": "Municipio",
+            "ro": "Municipio",
+            "en": "Municipio"
+          },
+          "coords": [
+            13.393968,
+            43.62326
+          ],
+          "category": "castle",
+          "arrive_at": "11:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Schloss, das heute als Rathaus dient, und umrunden Sie das Gebäude, um seine robuste klassische Architektur zu fotografieren.",
+            "hu": "Járja be a városházaként működő történelmi kastélyt, és sétálja körbe az épületet, hogy lefotózhassa annak robusztus, klasszikus építészetét.",
+            "ro": "Explorați castelul istoric care servește acum drept primărie și faceți o plimbare în jurul clădirii pentru a fotografia arhitectura sa clasică robustă.",
+            "en": "Discover the grand historical castle now serving as the town hall, and walk around the perimeter to photograph its robust civic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Ragazze",
+            "hu": "Le Ragazze",
+            "ro": "Le Ragazze",
+            "en": "Le Ragazze"
+          },
+          "coords": [
+            13.400066,
+            43.629669
+          ],
+          "category": "recreational",
+          "arrive_at": "12:34",
+          "stay_min": 60,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem lebhaften Sandstrand, aber mieten Sie sich frühzeitig einen Sonnenschirm, da die besten Plätze schnell belegt sind.",
+            "hu": "Pihenjen ezen a nyüzsgő homokos strandon, de béreljen napernyőt minél korábban, mert a legjobb helyek a nyári szezonban gyorsan elkelnek.",
+            "ro": "Relaxați-vă pe nisipul fin al acestei plaje pline de viață, dar închiriați o umbrelă devreme deoarece cele mai bune locuri se ocupă foarte repede.",
+            "en": "Relax on the sandy shores of this lively beach, but don't forget to rent a parasol early as the best seaside spots fill up quickly."
+          }
+        },
+        {
+          "name": {
+            "de": "Abbronzatissima",
+            "hu": "Abbronzatissima",
+            "ro": "Abbronzatissima",
+            "en": "Abbronzatissima"
+          },
+          "coords": [
+            13.401245,
+            43.628997
+          ],
+          "category": "recreational",
+          "arrive_at": "13:36",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Genießen Sie ein erfrischendes Bad an diesem charmanten Strandclub und bestellen Sie einen frischen Espresso am Kiosk, um den Nachmittag zu beleben.",
+            "hu": "Élvezze a frissítő fürdőzést ebben a bájos strandklubban, és kérjen egy friss eszpresszót a közeli kioszkban a délutáni felfrissüléshez.",
+            "ro": "Bucurați-vă de o baie răcoritoare la acest club de plajă fermecător și comandați un espresso proaspăt la chioșcul din apropiere pentru energie.",
+            "en": "Enjoy a refreshing swim at this charming beach club, and consider ordering a fresh espresso at the nearby kiosk to energize your afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen unseren Morgen in der ruhigen Kirche Sant'Antonio, bevor wir uns im Widerstandsmuseum mit der lokalen Geschichte des Zweiten Weltkriegs befassen. Mittags erreichen wir das beeindruckende historische Schloss, das heute das Rathaus beherbergt. Am Nachmittag schlendern wir zur Adriaküste, um uns am Strand Le Ragazze zu entspannen. Wir beenden unseren Tag an den Stränden von Abbronzatissima.",
+        "hu": "A reggelt a békés Sant'Antonio templom felfedezésével kezdjük, majd elmélyedünk a helyi második világháborús történelemben az Ellenállás Múzeumában. Délben megcsodáljuk az impozáns történelmi kastélyt, amely ma a városháza. Délután lesétálunk az Adriai-tenger partjára, hogy megpihenjünk a nyüzsgő Le Ragazze strandon. A napot a tengeri szellőt és a lenyűgöző naplementét élvezve zárjuk az Abbronzatissima homokján.",
+        "ro": "Ne începem dimineața explorând liniștita biserică Sant'Antonio înainte de a aprofunda istoria locală a celui de-al Doilea Război Mondial la Muzeul Rezistenței. La prânz ajungem la impresionantul castel istoric care găzduiește acum primăria. După-amiaza, ne plimbăm spre coasta Mării Adriatice pentru a ne relaxa pe plaja plină de viață Le Ragazze. Ne încheiem ziua bucurându-ne de briza mării de la Abbronzatissima.",
+        "en": "We start our morning exploring the serene Sant'Antonio church before delving into local WWII history at the Resistance Museum. Midday brings us to the impressive historical castle that now houses the town hall. In the afternoon, we stroll down to the Adriatic coast to relax at the vibrant Le Ragazze beach. We end our day enjoying the sea breeze and stunning sunset views from the welcoming sands of Abbronzatissima."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:38",
+      "total_km": 2.83,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di Sant'Antonio da Padova",
+            "hu": "Chiesa di Sant'Antonio da Padova",
+            "ro": "Chiesa di Sant'Antonio da Padova",
+            "en": "Chiesa di Sant'Antonio da Padova"
+          },
+          "coords": [
+            13.392438,
+            43.629107
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Architektur dieses Heiligtums und kommen Sie früh am Morgen, um die ruhige Atmosphäre ungestört zu genießen.",
+            "hu": "Csodálja meg a szentély elegáns építészetét, és érkezzen kora reggel, hogy zavartalanul élvezhesse a hely csendes és békés atmoszféráját.",
+            "ro": "Admirați arhitectura elegantă a acestui sanctuar și sosiți dimineața devreme pentru a vă bucura în liniște de atmosfera sa profund pașnică.",
+            "en": "Admire the elegant architecture and serene atmosphere of this religious sanctuary, making sure to visit early morning for quiet reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo della Resistenza Capitano Ispettore Goffredo Baldelli",
+            "hu": "Museo della Resistenza Capitano Ispettore Goffredo Baldelli",
+            "ro": "Museo della Resistenza Capitano Ispettore Goffredo Baldelli",
+            "en": "Museo della Resistenza Capitano Ispettore Goffredo Baldelli"
+          },
+          "coords": [
+            13.394689,
+            43.626865
+          ],
+          "category": "museum",
+          "arrive_at": "09:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier die reiche Geschichte des Widerstands und nehmen Sie sich Zeit für die ausgestellten persönlichen Briefe in der Hauptgalerie.",
+            "hu": "Fedezze fel az ellenállás gazdag történelmét ezen a helyen, és szánjon időt a főgalériában kiállított személyes levelek alapos elolvasására.",
+            "ro": "Descoperiți istoria bogată a rezistenței păstrată aici și alocați-vă timp pentru a citi scrisorile personale detaliate expuse în galeria principală.",
+            "en": "Explore the rich history of the local resistance preserved here, and take time to read the detailed personal letters in the main gallery."
+          }
+        },
+        {
+          "name": {
+            "de": "Municipio",
+            "hu": "Municipio",
+            "ro": "Municipio",
+            "en": "Municipio"
+          },
+          "coords": [
+            13.393968,
+            43.62326
+          ],
+          "category": "castle",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Schloss, das heute als Rathaus dient, und umrunden Sie das Gebäude, um seine robuste klassische Architektur zu fotografieren.",
+            "hu": "Járja be a városházaként működő történelmi kastélyt, és sétálja körbe az épületet, hogy lefotózhassa annak robusztus, klasszikus építészetét.",
+            "ro": "Explorați castelul istoric care servește acum drept primărie și faceți o plimbare în jurul clădirii pentru a fotografia arhitectura sa clasică robustă.",
+            "en": "Discover the grand historical castle now serving as the town hall, and walk around the perimeter to photograph its robust civic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Giuseppe",
+            "hu": "Chiesa di San Giuseppe",
+            "ro": "Chiesa di San Giuseppe",
+            "en": "Chiesa di San Giuseppe"
+          },
+          "coords": [
+            13.410209,
+            43.623695
+          ],
+          "category": "religious",
+          "arrive_at": "12:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese einladende lokale Kirche wegen ihrer modernen Glasfenster, wobei Sie auf angemessene und bescheidene Kleidung achten sollten.",
+            "hu": "Látogasson el ebbe a barátságos helyi templomba a modern üvegablakokért, de ne feledje, hogy a belépéshez visszafogott öltözet szükséges.",
+            "ro": "Vizitați această biserică locală primitoare pentru vitraliile sale moderne, având grijă să purtați o ținută decentă înainte de a intra.",
+            "en": "Visit this welcoming local church to appreciate its modern stained glass windows, keeping in mind that modest attire is expected before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Fanesi 11",
+            "hu": "Bagni Fanesi 11",
+            "ro": "Bagni Fanesi 11",
+            "en": "Bagni Fanesi 11"
+          },
+          "coords": [
+            13.404319,
+            43.627401
+          ],
+          "category": "recreational",
+          "arrive_at": "13:06",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.63,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in dieser gepflegten Küstenanlage mit hervorragenden Annehmlichkeiten und schauen Sie sich ein entspanntes Beachvolleyballspiel an.",
+            "hu": "Kapcsolódjon ki ebben a kiváló szolgáltatásokat nyújtó tengerparti létesítményben, és nézzen meg egy barátságos strandröplabda-mérkőzést.",
+            "ro": "Destindeți-vă la această locație de coastă cu facilități excelente și urmăriți un meci amical de volei pe plajă pentru un plus de divertisment.",
+            "en": "Unwind at this pristine coastal establishment offering excellent amenities, and check out the local beach volleyball courts to watch a friendly match."
+          }
+        },
+        {
+          "name": {
+            "de": "Picchiobeach 8",
+            "hu": "Picchiobeach 8",
+            "ro": "Picchiobeach 8",
+            "en": "Picchiobeach 8"
+          },
+          "coords": [
+            13.402343,
+            43.62844
+          ],
+          "category": "recreational",
+          "arrive_at": "14:08",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tanken Sie die Sonne der Adria an diesem familienfreundlichen Strand und bringen Sie ein gutes Buch mit, um die entspannte Atmosphäre zu genießen.",
+            "hu": "Szívja magába az adriai napsütést ezen a családbarát partszakaszon, és hozzon magával egy jó könyvet a tengerparti hangulat maximális élvezetéhez.",
+            "ro": "Bucurați-vă de soarele Mării Adriatice pe această plajă prietenoasă cu familiile, aducând cu dumneavoastră o carte bună pentru relaxare totală.",
+            "en": "Soak up the Adriatic sun at this family-friendly beach area, bringing along your favorite book to fully embrace the relaxed coastal Italian vibe."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an der wunderschönen Kirche Sant'Antonio, gefolgt von einem Besuch im örtlichen Widerstandsmuseum. Gegen Mittag radeln Sie am großen historischen Rathaus-Schloss vorbei zur charmanten Kirche San Giuseppe. Ihr Nachmittag ist der sonnigen Adriaküste gewidmet, mit einem Bad im Bagni Fanesi 11. Entspannen Sie sich schließlich bei der herrlichen Meeresatmosphäre am Picchiobeach 8.",
+        "hu": "Indítsa kerékpártúráját a gyönyörű Sant'Antonio templomnál, majd látogasson el a helyi Ellenállás Múzeumába. Délben tekerjen el az impozáns városháza kastélya mellett a hangulatos San Giuseppe templom felé. A délutánt a napfényes adriai partvidéknek szenteljük, ahol megmártózhat a Bagni Fanesi 11 vizében. Végül lazítson a tengerparti hangulatot élvezve a Picchiobeach 8 finom homokján.",
+        "ro": "Începeți turul cu bicicleta la frumoasa biserică Sant'Antonio, urmată de o vizită educativă la Muzeul local al Rezistenței. Până la prânz, pedalați pe lângă grandiosul castel istoric al primăriei spre fermecătoarea biserică San Giuseppe. După-amiaza este dedicată coastei însorite a Mării Adriatice, oprindu-vă la Bagni Fanesi 11. În cele din urmă, relaxați-vă complet la malul mării la Picchiobeach 8.",
+        "en": "Kick off your cycling tour at the beautiful Sant'Antonio church, followed by an educational visit to the local Resistance Museum. By midday, pedal past the grand historic town hall castle towards the charming San Giuseppe church. Your afternoon is dedicated to the sunny Adriatic coast, stopping for a swim at Bagni Fanesi 11. Finally, unwind completely with the relaxing seaside atmosphere at Picchiobeach 8."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:53",
+      "total_km": 5.05,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parco Zoo",
+            "hu": "Parco Zoo",
+            "ro": "Parco Zoo",
+            "en": "Parco Zoo"
+          },
+          "coords": [
+            13.404383,
+            43.608236
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beobachten Sie die vielfältigen Tierarten in diesem gepflegten Wildpark und kommen Sie direkt zur Eröffnung, um der Mittagshitze zu entgehen.",
+            "hu": "Figyelje meg a változatos állatfajokat ebben a gondozott vadasparkban, és érkezzen rögtön a nyitásra, hogy elkerülje a legnagyobb déli hőséget.",
+            "ro": "Observați diversele specii de animale în acest parc sălbatic bine întreținut, ajungând chiar la ora deschiderii pentru a evita căldura amiezii.",
+            "en": "Observe a diverse array of animal species in this well-maintained wildlife park, arriving right at opening time to avoid the harsh midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Cisterna Romana",
+            "hu": "Cisterna Romana",
+            "ro": "Cisterna Romana",
+            "en": "Cisterna Romana"
+          },
+          "coords": [
+            13.387813,
+            43.611573
+          ],
+          "category": "historical",
+          "arrive_at": "10:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.35,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesem faszinierenden antiken römischen Wasserreservoir und tragen Sie feste Schuhe für das unebene historische Gelände.",
+            "hu": "Utazzon vissza az időben ezen a lenyűgöző ókori római víztározónál, és viseljen kényelmes cipőt, mivel a történelmi talaj kissé egyenetlen lehet.",
+            "ro": "Călătoriți înapoi în timp la acest fascinant rezervor de apă roman antic, purtând încălțăminte comodă deoarece terenul poate fi neregulat.",
+            "en": "Step back in time at this fascinating ancient Roman water reservoir, wearing sturdy walking shoes as the surrounding historical grounds can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Municipio",
+            "hu": "Municipio",
+            "ro": "Municipio",
+            "en": "Municipio"
+          },
+          "coords": [
+            13.393968,
+            43.62326
+          ],
+          "category": "castle",
+          "arrive_at": "11:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Schloss, das heute als Rathaus dient, und umrunden Sie das Gebäude, um seine robuste klassische Architektur zu fotografieren.",
+            "hu": "Járja be a városházaként működő történelmi kastélyt, és sétálja körbe az épületet, hogy lefotózhassa annak robusztus, klasszikus építészetét.",
+            "ro": "Explorați castelul istoric care servește acum drept primărie și faceți o plimbare în jurul clădirii pentru a fotografia arhitectura sa clasică robustă.",
+            "en": "Discover the grand historical castle now serving as the town hall, and walk around the perimeter to photograph its robust civic architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo della Resistenza Capitano Ispettore Goffredo Baldelli",
+            "hu": "Museo della Resistenza Capitano Ispettore Goffredo Baldelli",
+            "ro": "Museo della Resistenza Capitano Ispettore Goffredo Baldelli",
+            "en": "Museo della Resistenza Capitano Ispettore Goffredo Baldelli"
+          },
+          "coords": [
+            13.394689,
+            43.626865
+          ],
+          "category": "museum",
+          "arrive_at": "12:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie hier die reiche Geschichte des Widerstands und nehmen Sie sich Zeit für die ausgestellten persönlichen Briefe in der Hauptgalerie.",
+            "hu": "Fedezze fel az ellenállás gazdag történelmét ezen a helyen, és szánjon időt a főgalériában kiállított személyes levelek alapos elolvasására.",
+            "ro": "Descoperiți istoria bogată a rezistenței păstrată aici și alocați-vă timp pentru a citi scrisorile personale detaliate expuse în galeria principală.",
+            "en": "Explore the rich history of the local resistance preserved here, and take time to read the detailed personal letters in the main gallery."
+          }
+        },
+        {
+          "name": {
+            "de": "Windsurf",
+            "hu": "Windsurf",
+            "ro": "Windsurf",
+            "en": "Windsurf"
+          },
+          "coords": [
+            13.41792,
+            43.62191
+          ],
+          "category": "recreational",
+          "arrive_at": "14:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Genießen Sie die Nachmittagsbrise an diesem beliebten Ort für Wassersport und fragen Sie die freundlichen Lehrer nach schnellen Anfängertipps.",
+            "hu": "Élvezze a délutáni szellőt ezen a vízi sportokról híres partszakaszon, és kérjen néhány hasznos egyensúlyozási tippet a barátságos oktatóktól.",
+            "ro": "Prindeți briza după-amiezii în acest loc excelent pentru sporturi nautice și cereți instructorilor locali câteva sfaturi rapide pentru începători.",
+            "en": "Catch the afternoon breeze at this exciting coastal spot famous for water sports, and ask the friendly local instructors for a quick beginner's tip."
+          }
+        },
+        {
+          "name": {
+            "de": "Dani",
+            "hu": "Dani",
+            "ro": "Dani",
+            "en": "Dani"
+          },
+          "coords": [
+            13.416902,
+            43.622268
+          ],
+          "category": "recreational",
+          "arrive_at": "15:23",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihren sonnigen Tag an diesem lebhaften Strandlokal ausklingen und holen Sie sich ein Gelato, während Sie den bunten Sonnenuntergang beobachten.",
+            "hu": "Zárja a napot ebben a pezsgő hangulatú tengerparti létesítményben, és egy finom fagylalt kíséretében gyönyörködjön a színes naplementében.",
+            "ro": "Încheiați-vă ziua însorită la acest local vibrant de pe plajă, savurând o înghețată delicioasă în timp ce priviți apusul spectaculos.",
+            "en": "End your sunny day at this vibrant beachside establishment with a spectacular view, grabbing a gelato while watching the colorful evening sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie an den Stadtrand, um Ihren Tag zwischen der Tierwelt im Parco Zoo zu beginnen, bevor Sie zur antiken römischen Zisterne aufbrechen. Erkunden Sie um die Mittagszeit das majestätische Rathaus und das aufschlussreiche Widerstandsmuseum. Am Nachmittag geht es an die Küste, wo Sie beim Windsurf Wassersport betreiben können. Lassen Sie diesen perfekten Küstentag mit einem Leckerbissen im lebhaften Dani Beach Club ausklingen.",
+        "hu": "Autózzon a város szélére, hogy a Parco Zoo lenyűgöző vadvilága között kezdje a napot, mielőtt az ókori római ciszternához indulna. Dél körül fedezze fel a fenséges városháza kastélyát és a közeli Ellenállás Múzeumát. A délután a partra csábítja, ahol izgalmas vízi sportokat próbálhat ki a Windsurf-nél. Zárja ezt a tökéletes olasz tengerparti napot egy finom falattal a nyüzsgő Dani strandklubban.",
+        "ro": "Conduceți la marginea orașului pentru a începe ziua la Parco Zoo, înainte de a vă îndrepta spre vechea Cisternă Romană. În jurul prânzului, explorați maiestuosul castel al primăriei și captivantul Muzeu al Rezistenței din apropiere. După-amiaza vă poartă pe coastă pentru câteva sporturi nautice captivante la Windsurf. Încheiați această zi perfectă pe coasta italiană cu un răsfăț la clubul plin de viață Dani.",
+        "en": "Drive to the edge of town to begin your day among the fascinating wildlife at Parco Zoo before heading to the ancient Roman Cistern. Around midday, explore the majestic town hall castle and the insightful Resistance Museum nearby. The afternoon takes you to the coast for some exciting water sports action at Windsurf. Wrap up this perfect Italian coastal day with a delicious treat at the lively Dani beach club."
+      }
+    }
+  }
+}

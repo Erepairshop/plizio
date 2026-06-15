@@ -1,0 +1,497 @@
+{
+  "city_id": "saint-rambert-d-albon",
+  "anchor": {
+    "name": "Saint-Rambert-d'Albon",
+    "coords": [
+      4.8169,
+      45.2939
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:29",
+      "total_km": 9.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Rambert",
+            "hu": "Église Saint-Rambert",
+            "ro": "Église Saint-Rambert",
+            "en": "Église Saint-Rambert"
+          },
+          "coords": [
+            4.815223,
+            45.290597
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne Architektur dieser zentralen Kirche für einen Moment der Besinnung und kommen Sie früh, um der Mittagssonne zu entgehen.",
+            "hu": "Csodálja meg a központi templom gyönyörű építészetét, és élvezze a csendes elmélkedést, érdemes korán érkezni a déli hőség elkerülése végett.",
+            "ro": "Admirați arhitectura frumoasă a acestei biserici centrale și bucurați-vă de liniște, vizitând-o devreme pentru a evita soarele de amiază.",
+            "en": "Admire the beautiful architecture of this central church and take a moment of quiet reflection, visiting early to avoid the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Monument aux morts",
+            "hu": "Monument aux morts",
+            "ro": "Monument aux morts",
+            "en": "Monument aux morts"
+          },
+          "coords": [
+            4.812401,
+            45.295649
+          ],
+          "category": "historical",
+          "arrive_at": "09:59",
+          "stay_min": 15,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.59,
+          "tip_5lang": {
+            "de": "Dieses historische Denkmal ehrt die gefallenen Helden der Region; bringen Sie eine Kamera mit, um die ergreifenden Details im Morgenlicht festzuhalten.",
+            "hu": "Ez a történelmi emlékmű a régió elesett hősei előtt tiszteleg, így hozzon magával fényképezőgépet, hogy megörökítse a részleteket a reggeli fényben.",
+            "ro": "Acest monument istoric onorează eroii căzuți ai regiunii, așa că aduceți un aparat foto pentru a surprinde detaliile în lumina dimineții.",
+            "en": "This historical monument honors the fallen heroes of the region, so bring a camera to capture its poignant details in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Saint-Rambert",
+            "hu": "Château de Saint-Rambert",
+            "ro": "Château de Saint-Rambert",
+            "en": "Château de Saint-Rambert"
+          },
+          "coords": [
+            4.825233,
+            45.294796
+          ],
+          "category": "historical",
+          "arrive_at": "10:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser historischen Burg, um die feudale Vergangenheit der Stadt zu verstehen, und tragen Sie festes Schuhwerk für unebenes Gelände.",
+            "hu": "Fedezze fel a történelmi kastély romjait, hogy megértse a város feudális múltját, és viseljen kényelmes cipőt az egyenetlen talaj miatt.",
+            "ro": "Explorați rămășițele acestui castel istoric pentru a înțelege trecutul feudal, purtând încălțăminte solidă pentru mersul pe teren accidentat.",
+            "en": "Explore the remains of this historical castle to grasp the town's feudal past, and wear sturdy shoes for walking around the uneven ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Laurent",
+            "hu": "Église Saint-Laurent",
+            "ro": "Église Saint-Laurent",
+            "en": "Église Saint-Laurent"
+          },
+          "coords": [
+            4.818966,
+            45.318855
+          ],
+          "category": "religious",
+          "arrive_at": "12:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 41,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Diese charmante Kirche zeugt von exzellenter lokaler Handwerkskunst; lesen Sie die kleine Informationstafel, bevor Sie hineingehen.",
+            "hu": "Ez a bájos vallási helyszín a kiváló helyi kézművességet dicséri, így érdemes elolvasni a kinti kis információs táblát, mielőtt belépne.",
+            "ro": "Acest loc religios fermecător prezintă o meșteșugărie locală excelentă, așa că citiți mica placă informativă de afară înainte de a intra.",
+            "en": "This charming religious site showcases excellent local craftsmanship, so check the small informational plaque outside before stepping indoors."
+          }
+        },
+        {
+          "name": {
+            "de": "Pile du Bac à Traille",
+            "hu": "Pile du Bac à Traille",
+            "ro": "Pile du Bac à Traille",
+            "en": "Pile du Bac à Traille"
+          },
+          "coords": [
+            4.808548,
+            45.269109
+          ],
+          "category": "landmark",
+          "arrive_at": "14:34",
+          "stay_min": 55,
+          "hop_from_prev_min": 84,
+          "hop_from_prev_km": 5.57,
+          "tip_5lang": {
+            "de": "Bestaunen Sie dieses faszinierende Wahrzeichen, das einst alte Fähren leitete, und stellen Sie sich für die beste historische Perspektive ans Ufer.",
+            "hu": "Tekintse meg ezt a lenyűgöző folyóparti nevezetességet, amely egykor a régi kompokat irányította, és álljon közel a vízhez a legjobb kilátásért.",
+            "ro": "Descoperiți acest reper fluvial fascinant care ghida vechile feriboturi și apropiați-vă de marginea apei pentru cea mai bună perspectivă.",
+            "en": "Witness this fascinating river landmark that once guided old ferries, and stand near the water's edge for the best historical perspective."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Herzen von Saint-Rambert-d'Albon, wo Sie die zentralen Denkmäler und die Geschichte entdecken. Mittags wandern Sie zur alten Burg, um die mittelalterliche Bedeutung der Region zu spüren. Am Nachmittag machen Sie einen malerischen Spaziergang nach Norden zur Kirche Saint-Laurent. Der Abend klingt mit einem ruhigen Spaziergang zur alten Fährsäule am Flussufer aus.",
+        "hu": "A reggel Saint-Rambert-d'Albon szívében indul, felfedezve a központi emlékműveket és a történelmi rétegeket. Délben a régi kastélyhoz sétálhat, ahol megelevenedik a régió középkori jelentősége. Délután egy festői séta vár a bájos Saint-Laurent templomhoz északra. Az estét egy pihentető séta zárja a régi komppillér felé, amely a Rhône folyó történelmét idézi.",
+        "ro": "Dimineața începe în inima orașului Saint-Rambert-d'Albon, explorând monumentele centrale și istoria locală. La amiază vă îndreptați spre vechiul castel, unde puteți simți importanța medievală a regiunii. După-amiaza implică o plimbare pitorească spre nord către frumoasa biserică Saint-Laurent. Seara se încheie cu o plimbare relaxantă spre vechiul stâlp de feribot de pe malul râului.",
+        "en": "Morning starts in the heart of Saint-Rambert-d'Albon, exploring its central monuments and historical layers. Midday takes you towards the old castle ruins, where you can imagine the region's medieval importance. Afternoon involves a scenic stroll north to the charming Saint-Laurent church. Evening brings a relaxed walk south towards the old ferry pillar, a nod to Rhone river history."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:48",
+      "total_km": 13.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Rambert",
+            "hu": "Église Saint-Rambert",
+            "ro": "Église Saint-Rambert",
+            "en": "Église Saint-Rambert"
+          },
+          "coords": [
+            4.815223,
+            45.290597
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne Architektur dieser zentralen Kirche für einen Moment der Besinnung und kommen Sie früh, um der Mittagssonne zu entgehen.",
+            "hu": "Csodálja meg a központi templom gyönyörű építészetét, és élvezze a csendes elmélkedést, érdemes korán érkezni a déli hőség elkerülése végett.",
+            "ro": "Admirați arhitectura frumoasă a acestei biserici centrale și bucurați-vă de liniște, vizitând-o devreme pentru a evita soarele de amiază.",
+            "en": "Admire the beautiful architecture of this central church and take a moment of quiet reflection, visiting early to avoid the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Saint-Rambert",
+            "hu": "Château de Saint-Rambert",
+            "ro": "Château de Saint-Rambert",
+            "en": "Château de Saint-Rambert"
+          },
+          "coords": [
+            4.825233,
+            45.294796
+          ],
+          "category": "historical",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser historischen Burg, um die feudale Vergangenheit der Stadt zu verstehen, und tragen Sie festes Schuhwerk für unebenes Gelände.",
+            "hu": "Fedezze fel a történelmi kastély romjait, hogy megértse a város feudális múltját, és viseljen kényelmes cipőt az egyenetlen talaj miatt.",
+            "ro": "Explorați rămășițele acestui castel istoric pentru a înțelege trecutul feudal, purtând încălțăminte solidă pentru mersul pe teren accidentat.",
+            "en": "Explore the remains of this historical castle to grasp the town's feudal past, and wear sturdy shoes for walking around the uneven ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Laurent",
+            "hu": "Église Saint-Laurent",
+            "ro": "Église Saint-Laurent",
+            "en": "Église Saint-Laurent"
+          },
+          "coords": [
+            4.818966,
+            45.318855
+          ],
+          "category": "religious",
+          "arrive_at": "11:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Diese charmante Kirche zeugt von exzellenter lokaler Handwerkskunst; lesen Sie die kleine Informationstafel, bevor Sie hineingehen.",
+            "hu": "Ez a bájos vallási helyszín a kiváló helyi kézművességet dicséri, így érdemes elolvasni a kinti kis információs táblát, mielőtt belépne.",
+            "ro": "Acest loc religios fermecător prezintă o meșteșugărie locală excelentă, așa că citiți mica placă informativă de afară înainte de a intra.",
+            "en": "This charming religious site showcases excellent local craftsmanship, so check the small informational plaque outside before stepping indoors."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Peyraud",
+            "hu": "Château de Peyraud",
+            "ro": "Château de Peyraud",
+            "en": "Château de Peyraud"
+          },
+          "coords": [
+            4.785029,
+            45.305134
+          ],
+          "category": "castle",
+          "arrive_at": "12:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.05,
+          "tip_5lang": {
+            "de": "Treten Sie ein in die Pracht dieses beeindruckenden Schlosses auf der anderen Flussseite und bringen Sie ein Weitwinkelobjektiv für die Mauern mit.",
+            "hu": "Lépjen be ennek a lenyűgöző kastélynak a nagyszerűségébe a folyó túlpartján, és hozzon nagylátószögű objektívet a védőfalak megörökítéséhez.",
+            "ro": "Pășiți în măreția acestui impresionant castel de peste râu, aducând un obiectiv cu unghi larg pentru a surprinde zidurile sale de apărare.",
+            "en": "Step into the grandeur of this impressive castle across the river, bringing a wide-angle lens to capture its magnificent defensive walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Église Saint-Martin",
+            "ro": "Église Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            4.787222,
+            45.302071
+          ],
+          "category": "religious",
+          "arrive_at": "13:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Eine wunderschön schlichte Kirche in der Nähe des Schlosses; nehmen Sie sich Zeit, um die klassischen Buntglasfenster in Ruhe zu bewundern.",
+            "hu": "Egy gyönyörűen visszafogott templom a kastély közelében, ahol békére lelhet, így szánjon időt a klasszikus ólomüveg ablakok megcsodálására.",
+            "ro": "O biserică frumos subevaluată lângă castel, oferind o retragere pașnică, așa că luați-vă timp pentru a admira vitraliile sale clasice.",
+            "en": "A beautifully understated church near the castle, offering a peaceful retreat, so take your time to admire its classic stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Aérodrome de Saint-Rambert",
+            "hu": "Aérodrome de Saint-Rambert",
+            "ro": "Aérodrome de Saint-Rambert",
+            "en": "Aérodrome de Saint-Rambert"
+          },
+          "coords": [
+            4.8262,
+            45.2522
+          ],
+          "category": "recreational",
+          "arrive_at": "15:03",
+          "stay_min": 105,
+          "hop_from_prev_min": 34,
+          "hop_from_prev_km": 6.32,
+          "tip_5lang": {
+            "de": "Genießen Sie einen lebhaften Nachmittag am Flugplatz bei Freizeitflügen und suchen Sie sich einen Platz am Zaun für eine freie Sicht.",
+            "hu": "Élvezze a vidám délutánt a helyi repülőtéren a sportrepülők megfigyelésével, és keressen helyet a kerítésnél a legjobb kilátásért.",
+            "ro": "Bucurați-vă de o după-amiază plină de viață la aerodromul local și găsiți un loc lângă gard pentru o vedere clară a pistei.",
+            "en": "Enjoy a lively afternoon at the local aerodrome watching recreational flights, and grab a spot near the fence for clear views of the runway."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag an der Hauptkirche, bevor Sie zum historischen Schlossgelände radeln. Die Mittagszeit bietet eine malerische Fahrt durch die Außenbezirke zur ruhigen Kirche Saint-Laurent. Der Nachmittag eignet sich perfekt für eine Flussüberquerung zum Schloss von Peyraud. Der Abend endet mit einer spannenden Fahrt zum Flugplatz, wo Sie Flugzeuge im Sonnenuntergang beobachten können.",
+        "hu": "Kezdje a kerékpáros napot a főtemplomnál, mielőtt eltekerne a történelmi kastélyhoz. A délidő egy festői utazást kínál a külvárosokon át a csendes Saint-Laurent templomhoz. A délután tökéletes a folyón való átkelésre és a peyraud-i kastély felfedezésére. Az este egy izgalmas utazással zárul a helyi repülőtérre, ahol a lemenő nap fényében figyelheti a kisrepülőket.",
+        "ro": "Începeți ziua de ciclism la biserica principală înainte de a pedala spre situl istoric al castelului. Amiaza vă oferă o plimbare pitorească pe la periferie către liniștita biserică Saint-Laurent. După-amiaza este perfectă pentru a traversa râul spre superbul castel Peyraud. Seara se încheie cu o plimbare captivantă până la aerodromul local, admirând avioanele la apus.",
+        "en": "Kick off your cycling day at the main church before pedaling over to the historical castle site. Midday offers a scenic ride through the outskirts to the serene Saint-Laurent church. Afternoon is perfect for crossing the river to explore Peyraud's stunning castle and nearby church. Evening wraps up with a thrilling ride to the local aerodrome, watching small planes against the setting sun."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:48",
+      "total_km": 14.1,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Monument aux morts",
+            "hu": "Monument aux morts",
+            "ro": "Monument aux morts",
+            "en": "Monument aux morts"
+          },
+          "coords": [
+            4.812401,
+            45.295649
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Dieses historische Denkmal ehrt die gefallenen Helden der Region; bringen Sie eine Kamera mit, um die ergreifenden Details im Morgenlicht festzuhalten.",
+            "hu": "Ez a történelmi emlékmű a régió elesett hősei előtt tiszteleg, így hozzon magával fényképezőgépet, hogy megörökítse a részleteket a reggeli fényben.",
+            "ro": "Acest monument istoric onorează eroii căzuți ai regiunii, așa că aduceți un aparat foto pentru a surprinde detaliile în lumina dimineții.",
+            "en": "This historical monument honors the fallen heroes of the region, so bring a camera to capture its poignant details in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Rambert",
+            "hu": "Église Saint-Rambert",
+            "ro": "Église Saint-Rambert",
+            "en": "Église Saint-Rambert"
+          },
+          "coords": [
+            4.815223,
+            45.290597
+          ],
+          "category": "religious",
+          "arrive_at": "09:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.59,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne Architektur dieser zentralen Kirche für einen Moment der Besinnung und kommen Sie früh, um der Mittagssonne zu entgehen.",
+            "hu": "Csodálja meg a központi templom gyönyörű építészetét, és élvezze a csendes elmélkedést, érdemes korán érkezni a déli hőség elkerülése végett.",
+            "ro": "Admirați arhitectura frumoasă a acestei biserici centrale și bucurați-vă de liniște, vizitând-o devreme pentru a evita soarele de amiază.",
+            "en": "Admire the beautiful architecture of this central church and take a moment of quiet reflection, visiting early to avoid the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Saint-Rambert",
+            "hu": "Château de Saint-Rambert",
+            "ro": "Château de Saint-Rambert",
+            "en": "Château de Saint-Rambert"
+          },
+          "coords": [
+            4.825233,
+            45.294796
+          ],
+          "category": "historical",
+          "arrive_at": "10:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser historischen Burg, um die feudale Vergangenheit der Stadt zu verstehen, und tragen Sie festes Schuhwerk für unebenes Gelände.",
+            "hu": "Fedezze fel a történelmi kastély romjait, hogy megértse a város feudális múltját, és viseljen kényelmes cipőt az egyenetlen talaj miatt.",
+            "ro": "Explorați rămășițele acestui castel istoric pentru a înțelege trecutul feudal, purtând încălțăminte solidă pentru mersul pe teren accidentat.",
+            "en": "Explore the remains of this historical castle to grasp the town's feudal past, and wear sturdy shoes for walking around the uneven ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Laurent",
+            "hu": "Église Saint-Laurent",
+            "ro": "Église Saint-Laurent",
+            "en": "Église Saint-Laurent"
+          },
+          "coords": [
+            4.818966,
+            45.318855
+          ],
+          "category": "religious",
+          "arrive_at": "11:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Diese charmante Kirche zeugt von exzellenter lokaler Handwerkskunst; lesen Sie die kleine Informationstafel, bevor Sie hineingehen.",
+            "hu": "Ez a bájos vallási helyszín a kiváló helyi kézművességet dicséri, így érdemes elolvasni a kinti kis információs táblát, mielőtt belépne.",
+            "ro": "Acest loc religios fermecător prezintă o meșteșugărie locală excelentă, așa că citiți mica placă informativă de afară înainte de a intra.",
+            "en": "This charming religious site showcases excellent local craftsmanship, so check the small informational plaque outside before stepping indoors."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Peyraud",
+            "hu": "Château de Peyraud",
+            "ro": "Château de Peyraud",
+            "en": "Château de Peyraud"
+          },
+          "coords": [
+            4.785029,
+            45.305134
+          ],
+          "category": "castle",
+          "arrive_at": "12:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.05,
+          "tip_5lang": {
+            "de": "Treten Sie ein in die Pracht dieses beeindruckenden Schlosses auf der anderen Flussseite und bringen Sie ein Weitwinkelobjektiv für die Mauern mit.",
+            "hu": "Lépjen be ennek a lenyűgöző kastélynak a nagyszerűségébe a folyó túlpartján, és hozzon nagylátószögű objektívet a védőfalak megörökítéséhez.",
+            "ro": "Pășiți în măreția acestui impresionant castel de peste râu, aducând un obiectiv cu unghi larg pentru a surprinde zidurile sale de apărare.",
+            "en": "Step into the grandeur of this impressive castle across the river, bringing a wide-angle lens to capture its magnificent defensive walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Église Saint-Martin",
+            "ro": "Église Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            4.787222,
+            45.302071
+          ],
+          "category": "religious",
+          "arrive_at": "13:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Eine wunderschön schlichte Kirche in der Nähe des Schlosses; nehmen Sie sich Zeit, um die klassischen Buntglasfenster in Ruhe zu bewundern.",
+            "hu": "Egy gyönyörűen visszafogott templom a kastély közelében, ahol békére lelhet, így szánjon időt a klasszikus ólomüveg ablakok megcsodálására.",
+            "ro": "O biserică frumos subevaluată lângă castel, oferind o retragere pașnică, așa că luați-vă timp pentru a admira vitraliile sale clasice.",
+            "en": "A beautifully understated church near the castle, offering a peaceful retreat, so take your time to admire its classic stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Église Saint-Pierre",
+            "ro": "Église Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            4.800356,
+            45.273515
+          ],
+          "category": "landmark",
+          "arrive_at": "14:31",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.33,
+          "tip_5lang": {
+            "de": "Dieses malerische Wahrzeichen am Flussufer ist reich an lokaler Pfarrgeschichte und ein perfekter kurzer Halt auf Ihrer Reise nach Süden.",
+            "hu": "Ez a festői folyóparti nevezetesség gazdag a helyi egyházközség történetében, így tökéletes rövid megálló a dél felé vezető úton.",
+            "ro": "Acest reper pitoresc de pe malul râului este plin de istoria parohiei locale, fiind o oprire rapidă perfectă înainte de a merge spre sud.",
+            "en": "This quaint riverside landmark is steeped in local parish history, making it a perfect quick stop before continuing your journey south."
+          }
+        },
+        {
+          "name": {
+            "de": "Aérodrome de Saint-Rambert",
+            "hu": "Aérodrome de Saint-Rambert",
+            "ro": "Aérodrome de Saint-Rambert",
+            "en": "Aérodrome de Saint-Rambert"
+          },
+          "coords": [
+            4.8262,
+            45.2522
+          ],
+          "category": "recreational",
+          "arrive_at": "15:03",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Genießen Sie einen lebhaften Nachmittag am Flugplatz bei Freizeitflügen und suchen Sie sich einen Platz am Zaun für eine freie Sicht.",
+            "hu": "Élvezze a vidám délutánt a helyi repülőtéren a sportrepülők megfigyelésével, és keressen helyet a kerítésnél a legjobb kilátásért.",
+            "ro": "Bucurați-vă de o după-amiază plină de viață la aerodromul local și găsiți un loc lângă gard pentru o vedere clară a pistei.",
+            "en": "Enjoy a lively afternoon at the local aerodrome watching recreational flights, and grab a spot near the fence for clear views of the runway."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie bequem vom Zentrum zur Hauptkirche und genießen Sie die morgendliche Atmosphäre. Mittags geht es weiter zur örtlichen Burg und zur nördlichen Kirche Saint-Laurent. Am Nachmittag überqueren Sie den Fluss zum herrlichen Schloss Peyraud und den historischen Nachbarkirchen. Der Abend gipfelt in einer kurzen Fahrt zum Flugplatz, um den weiten Himmel und den Sonnenuntergang zu genießen.",
+        "hu": "Vezessen kényelmesen a városközponti emlékműtől a főtemplomig, magába szívva a reggeli hangulatot. Délben gyorsan eljuthat a helyi kastélyhoz és az északi Saint-Laurent templomhoz. A délután folyamán keljen át a folyón a csodálatos peyraud-i kastélyhoz és a környező történelmi templomokhoz. Az est fénypontja egy rövid út a repülőtérre, ahol élvezheti a nyitott eget.",
+        "ro": "Conduceți confortabil de la monumentul central spre biserica principală, bucurându-vă de dimineață. La amiază faceți opriri rapide la castelul local și biserica nordică Saint-Laurent. După-amiaza treceți râul către magnificul castel Peyraud și bisericile istorice învecinate. Seara culminează cu o scurtă plimbare spre aerodrom pentru a vă bucura de cerul deschis și de apus.",
+        "en": "Drive comfortably from the town center's monument and main church, soaking in the morning atmosphere. Midday involves quick hops to the local castle and the northern Saint-Laurent church. Afternoon brings you across the river to the magnificent Peyraud castle and its historical neighboring churches. Evening culminates with a short drive to the aerodrome to enjoy the open skies and sunset."
+      }
+    }
+  }
+}

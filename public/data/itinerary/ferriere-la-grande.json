@@ -1,0 +1,520 @@
+{
+  "city_id": "ferriere-la-grande",
+  "anchor": {
+    "name": "Ferrière-la-Grande",
+    "coords": [
+      3.9928,
+      50.255
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:19",
+      "total_km": 4.65,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kapelle Notre-Dame de Bon Vouloir",
+            "hu": "Notre-Dame de Bon Vouloir Kápolna",
+            "ro": "Capela Notre-Dame de Bon Vouloir",
+            "en": "Notre-Dame de Bon Vouloir Chapel"
+          },
+          "coords": [
+            3.989946,
+            50.254409
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die malerische Architektur dieser lokalen Kapelle, um den historischen Charme des Dorfes zu spüren, und treten Sie leise ein.",
+            "hu": "Csodálja meg e helyi kápolna festői építészetét, hogy átérezze a falu történelmi báját, és lépjen be halkan, mivel ez ma is az elmélkedés helye.",
+            "ro": "Admirați arhitectura pitorească a acestei capele pentru a simți farmecul istoric al satului și pășiți înăuntru în liniște, fiind un loc de reflecție.",
+            "en": "Admire the quaint architecture of this local chapel to feel the village's historic charm, and step inside quietly as it remains a place of reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint Amand",
+            "hu": "Szent Amand templom",
+            "ro": "Biserica Saint Amand",
+            "en": "Saint Amand Church"
+          },
+          "coords": [
+            3.993158,
+            50.254421
+          ],
+          "category": "religious",
+          "arrive_at": "09:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses atemberaubende religiöse Bauwerk, das für sein Mauerwerk bekannt ist, aber denken Sie daran, sich vor dem Betreten bescheiden zu kleiden.",
+            "hu": "Fedezze fel ezt a lenyűgöző vallási központot, amely robusztus téglafaláról ismert, de ne feledjen szerényen felöltözni, mielőtt belép az épületbe.",
+            "ro": "Explorați această uimitoare capodoperă religioasă remarcată pentru zidăria sa robustă, dar amintiți-vă să vă îmbrăcați modest înainte de a intra.",
+            "en": "Explore this stunning religious centerpiece noted for its robust brickwork and serene atmosphere, but remember to dress modestly before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Voie Verte de l'Avesnois",
+            "hu": "Voie Verte de l'Avesnois",
+            "ro": "Voie Verte de l'Avesnois",
+            "en": "Voie Verte de l'Avesnois"
+          },
+          "coords": [
+            3.9999,
+            50.254935
+          ],
+          "category": "recreational",
+          "arrive_at": "10:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang dieser ehemaligen Bahntrasse, die in einen grünen Weg umgewandelt wurde, und tragen Sie bequeme Wanderschuhe für diese Reise.",
+            "hu": "Sétáljon végig ezen az egykori vasútvonalon, amelyet buja zöld úttá alakítottak át, és viseljen kényelmes sétacipőt a természetfotózáshoz ideális úton.",
+            "ro": "Plimbați-vă de-a lungul acestei foste linii de cale ferată transformată într-o alee verde, perfectă pentru fotografii, deci purtați pantofi comozi.",
+            "en": "Stroll along this former railway line converted into a lush greenway, perfect for nature photography, so wear comfortable walking shoes for the journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Waast",
+            "hu": "Saint-Waast templom",
+            "ro": "Biserica Saint-Waast",
+            "en": "Saint-Waast Church"
+          },
+          "coords": [
+            4.00521,
+            50.271348
+          ],
+          "category": "religious",
+          "arrive_at": "11:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante historische Kirche mit ihren aufwendigen Buntglasfenstern und versuchen Sie, in den Morgenstunden zu kommen.",
+            "hu": "Látogassa meg ezt a bájos történelmi templomot, amely bonyolult ólomüveg ablakokkal büszkélkedhet, és jöjjön délelőtt a legjobb belső fényekért.",
+            "ro": "Vizitați această biserică istorică fermecătoare, cu vitralii complicate, și încercați să mergeți dimineața pentru a prinde cea mai bună lumină.",
+            "en": "Visit this charming historic church featuring intricate stained glass windows, and try visiting during morning hours to catch the best interior lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Pierre",
+            "hu": "Saint-Pierre templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            4.027789,
+            50.26093
+          ],
+          "category": "religious",
+          "arrive_at": "13:09",
+          "stay_min": 70,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche regionale Erbe, das in dieser wunderschönen Steinkirche präsentiert wird, und prüfen Sie die Anschlagtafel auf Konzerte.",
+            "hu": "Fedezze fel a régió gazdag örökségét, amelyet ez a gyönyörű kőtemplom mutat be, és ellenőrizze a kinti hirdetőtáblán a közelgő helyi koncerteket.",
+            "ro": "Descoperiți bogata moștenire regională prezentată în această frumoasă biserică de piatră și verificați panoul exterior pentru concerte viitoare.",
+            "en": "Discover the rich regional heritage showcased in this beautiful stone church, and check the local board outside for any upcoming community concerts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Herzen des Dorfes an der Kapelle und führt zum robusten Mauerwerk von Saint Amand. Mittags begeben Sie sich auf den entspannenden grünen Weg in die Natur. Am Nachmittag fahren Sie nach Norden, um die Glasfenster von Saint-Waast zu entdecken. Der Abend rückt näher, während Sie Saint-Pierre bewundern und Ihren Spaziergang abschließen.",
+        "hu": "A reggel a falu szívében, a hangulatos kápolnánál kezdődik, majd a Saint Amand templom téglafalaihoz vezet. Délben a pihentető zöld úton sétálhat, amely tökéletes menekülés a természetbe. Délután északra indul, hogy felfedezze a Saint-Waast bájos ólomüvegét. Az este közeledtével a Saint-Pierre épületét csodálhatja meg, amivel le is zárul e túra.",
+        "ro": "Dimineața începe în inima satului la capela pitorească, ducând la zidăria robustă a Bisericii Saint Amand. La amiază ajungeți pe aleea verde relaxantă. După-amiaza, vă veți îndrepta spre nord pentru a descoperi vitraliile fermecătoare de la Saint-Waast. Seara se apropie în timp ce admirați biserica Saint-Pierre la final de tur.",
+        "en": "Morning starts in the heart of the village at the quaint chapel, leading to the robust brickwork of Saint Amand Church. Midday takes you onto the relaxing greenway, a perfect escape into nature. In the afternoon, you will head north to discover the charming stained glass of Saint-Waast. Evening approaches as you admire Saint-Pierre, concluding your walking tour."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:52",
+      "total_km": 7.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint Amand",
+            "hu": "Szent Amand templom",
+            "ro": "Biserica Saint Amand",
+            "en": "Saint Amand Church"
+          },
+          "coords": [
+            3.993158,
+            50.254421
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses atemberaubende religiöse Bauwerk, das für sein Mauerwerk bekannt ist, aber denken Sie daran, sich vor dem Betreten bescheiden zu kleiden.",
+            "hu": "Fedezze fel ezt a lenyűgöző vallási központot, amely robusztus téglafaláról ismert, de ne feledjen szerényen felöltözni, mielőtt belép az épületbe.",
+            "ro": "Explorați această uimitoare capodoperă religioasă remarcată pentru zidăria sa robustă, dar amintiți-vă să vă îmbrăcați modest înainte de a intra.",
+            "en": "Explore this stunning religious centerpiece noted for its robust brickwork and serene atmosphere, but remember to dress modestly before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Voie Verte de l'Avesnois",
+            "hu": "Voie Verte de l'Avesnois",
+            "ro": "Voie Verte de l'Avesnois",
+            "en": "Voie Verte de l'Avesnois"
+          },
+          "coords": [
+            3.9999,
+            50.254935
+          ],
+          "category": "recreational",
+          "arrive_at": "09:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang dieser ehemaligen Bahntrasse, die in einen grünen Weg umgewandelt wurde, und tragen Sie bequeme Wanderschuhe für diese Reise.",
+            "hu": "Sétáljon végig ezen az egykori vasútvonalon, amelyet buja zöld úttá alakítottak át, és viseljen kényelmes sétacipőt a természetfotózáshoz ideális úton.",
+            "ro": "Plimbați-vă de-a lungul acestei foste linii de cale ferată transformată într-o alee verde, perfectă pentru fotografii, deci purtați pantofi comozi.",
+            "en": "Stroll along this former railway line converted into a lush greenway, perfect for nature photography, so wear comfortable walking shoes for the journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Waast",
+            "hu": "Saint-Waast templom",
+            "ro": "Biserica Saint-Waast",
+            "en": "Saint-Waast Church"
+          },
+          "coords": [
+            4.00521,
+            50.271348
+          ],
+          "category": "religious",
+          "arrive_at": "11:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante historische Kirche mit ihren aufwendigen Buntglasfenstern und versuchen Sie, in den Morgenstunden zu kommen.",
+            "hu": "Látogassa meg ezt a bájos történelmi templomot, amely bonyolult ólomüveg ablakokkal büszkélkedhet, és jöjjön délelőtt a legjobb belső fényekért.",
+            "ro": "Vizitați această biserică istorică fermecătoare, cu vitralii complicate, și încercați să mergeți dimineața pentru a prinde cea mai bună lumină.",
+            "en": "Visit this charming historic church featuring intricate stained glass windows, and try visiting during morning hours to catch the best interior lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Pierre",
+            "hu": "Saint-Pierre templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            4.027789,
+            50.26093
+          ],
+          "category": "religious",
+          "arrive_at": "12:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche regionale Erbe, das in dieser wunderschönen Steinkirche präsentiert wird, und prüfen Sie die Anschlagtafel auf Konzerte.",
+            "hu": "Fedezze fel a régió gazdag örökségét, amelyet ez a gyönyörű kőtemplom mutat be, és ellenőrizze a kinti hirdetőtáblán a közelgő helyi koncerteket.",
+            "ro": "Descoperiți bogata moștenire regională prezentată în această frumoasă biserică de piatră și verificați panoul exterior pentru concerte viitoare.",
+            "en": "Discover the rich regional heritage showcased in this beautiful stone church, and check the local board outside for any upcoming community concerts."
+          }
+        },
+        {
+          "name": {
+            "de": "Festungswerk Ferrière",
+            "hu": "Ferrière-i erőd",
+            "ro": "Fortificația Ferrière",
+            "en": "Ouvrage de Ferrière"
+          },
+          "coords": [
+            4.029654,
+            50.247493
+          ],
+          "category": "fortress",
+          "arrive_at": "12:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Festungswerk der Maginot-Linie in die Geschichte ein und bringen Sie eine leichte Jacke mit, da die unterirdischen Tunnel kühl sind.",
+            "hu": "Lépjen vissza az időben ezen a félelmetes Maginot-vonalbeli erődítményen, és hozzon magával könnyű kabátot, mivel a föld alatti alagutak hűvösek.",
+            "ro": "Întoarceți-vă în timp la această formidabilă fortificație a Liniei Maginot și aduceți o jachetă subțire, deoarece tunelurile subterane sunt reci.",
+            "en": "Step back in time at this formidable Maginot Line fortification offering deep historical insights, and bring a light jacket as underground tunnels are chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Cour des Potiers",
+            "hu": "Fazekasok Udvara Múzeum",
+            "ro": "Muzeul Curtea Olarilor",
+            "en": "Cour des Potiers Museum"
+          },
+          "coords": [
+            4.020679,
+            50.237543
+          ],
+          "category": "museum",
+          "arrive_at": "14:24",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem einzigartigen Museum in die lokale Industriegeschichte der Töpferei ein und verpassen Sie nicht die interaktive Tonwerkstatt.",
+            "hu": "Merüljön el a helyi fazekasipar történetében ebben az egyedülálló múzeumban, és ne hagyja ki az interaktív agyagműhelyt a túra végén.",
+            "ro": "Cufundați-vă în istoria industrială locală a olăritului în acest muzeu unic și nu ratați atelierul interactiv de lut de la sfârșitul turului.",
+            "en": "Immerse yourself in the local industrial history of pottery making in this unique museum, and don't miss the interactive clay workshop at the tour's end."
+          }
+        },
+        {
+          "name": {
+            "de": "Au Ptit-Cro Magnon",
+            "hu": "Au Ptit-Cro Magnon",
+            "ro": "Au Ptit-Cro Magnon",
+            "en": "Au Ptit-Cro Magnon"
+          },
+          "coords": [
+            4.016206,
+            50.240839
+          ],
+          "category": "family",
+          "arrive_at": "16:07",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bringen Sie die ganze Familie an diesen ansprechenden Erholungsort mit verspielten Ausstellungen und kommen Sie früh, um einen Picknicktisch zu sichern.",
+            "hu": "Hozza el az egész családot erre a játékos kiállításokat kínáló vonzó pihenőhelyre, és érkezzen korán, hogy árnyékos piknikasztalt találjon.",
+            "ro": "Aduceți toată familia în acest loc de recreere captivant, cu exponate jucăușe, și sosiți devreme pentru a prinde o masă de picnic la umbră.",
+            "en": "Bring the whole family to this engaging recreational spot featuring playful exhibits, and arrive early on weekends to secure a good shaded picnic table."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre morgendliche Radtour beginnt an der Kirche Saint Amand, bevor Sie über den Weg Voie Verte gleiten. Mittags radeln Sie zwischen den historischen Pfarreien Saint-Waast und Saint-Pierre. Der Nachmittag rückt die beeindruckenden Verteidigungsanlagen der Maginot-Linie ins Rampenlicht. Am Abend erreichen Sie das Töpfermuseum, um sich auszuruhen.",
+        "hu": "A reggeli kerékpározás a Saint Amand templomnál kezdődik, mielőtt végigsiklana a zöldellő Voie Verte ösvényen. Délben a Saint-Waast és Saint-Pierre történelmi egyházközségek között pedálozhat. A délután a Maginot-vonal lenyűgöző védelmi építményeire fókuszál. Estére eléri a fazekasmúzeumot és egy nagyszerű családi pihenőhelyet.",
+        "ro": "Ciclismul de dimineață începe la Biserica Saint Amand, înainte de a aluneca de-a lungul potecii verzi. La amiază pedalați între parohiile istorice Saint-Waast și Saint-Pierre. După-amiaza mută accentul pe structurile defensive impresionante ale Liniei Maginot. Seara ajungeți la muzeul de olărit și la un loc de familie.",
+        "en": "Your morning cycling begins at the grand Saint Amand Church before gliding effortlessly along the verdant Voie Verte path. Midday sees you pedaling between the distinct historical parishes of Saint-Waast and Saint-Pierre. The afternoon shifts focus to the impressive defensive structures of the Maginot Line. By evening, you reach the pottery museum."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:51",
+      "total_km": 9.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Fort du Bourdiau",
+            "hu": "Bourdiau Erőd",
+            "ro": "Fortul Bourdiau",
+            "en": "Fort du Bourdiau"
+          },
+          "coords": [
+            3.975216,
+            50.241661
+          ],
+          "category": "fortress",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Ruinen dieses historischen Verteidigungsbauwerks in der Landschaft und bleiben Sie auf den markierten Wegen.",
+            "hu": "Fedezze fel e történelmi védelmi építmény lenyűgöző, tájban megbúvó romjait, és maradjon a kijelölt utakon, hogy elkerülje az egyenetlen talajt.",
+            "ro": "Explorați ruinele fascinante ale acestei structuri defensive istorice ascunse în peisaj și rămâneți pe potecile marcate pentru a evita terenul accidentat.",
+            "en": "Explore the fascinating ruins of this historic defensive structure hidden in the landscape, and stick to the marked paths to avoid uneven, rocky ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Notre-Dame de Bon Vouloir",
+            "hu": "Notre-Dame de Bon Vouloir Kápolna",
+            "ro": "Capela Notre-Dame de Bon Vouloir",
+            "en": "Notre-Dame de Bon Vouloir Chapel"
+          },
+          "coords": [
+            3.989946,
+            50.254409
+          ],
+          "category": "landmark",
+          "arrive_at": "10:34",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die malerische Architektur dieser lokalen Kapelle, um den historischen Charme des Dorfes zu spüren, und treten Sie leise ein.",
+            "hu": "Csodálja meg e helyi kápolna festői építészetét, hogy átérezze a falu történelmi báját, és lépjen be halkan, mivel ez ma is az elmélkedés helye.",
+            "ro": "Admirați arhitectura pitorească a acestei capele pentru a simți farmecul istoric al satului și pășiți înăuntru în liniște, fiind un loc de reflecție.",
+            "en": "Admire the quaint architecture of this local chapel to feel the village's historic charm, and step inside quietly as it remains a place of reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint Amand",
+            "hu": "Szent Amand templom",
+            "ro": "Biserica Saint Amand",
+            "en": "Saint Amand Church"
+          },
+          "coords": [
+            3.993158,
+            50.254421
+          ],
+          "category": "religious",
+          "arrive_at": "10:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses atemberaubende religiöse Bauwerk, das für sein Mauerwerk bekannt ist, aber denken Sie daran, sich vor dem Betreten bescheiden zu kleiden.",
+            "hu": "Fedezze fel ezt a lenyűgöző vallási központot, amely robusztus téglafaláról ismert, de ne feledjen szerényen felöltözni, mielőtt belép az épületbe.",
+            "ro": "Explorați această uimitoare capodoperă religioasă remarcată pentru zidăria sa robustă, dar amintiți-vă să vă îmbrăcați modest înainte de a intra.",
+            "en": "Explore this stunning religious centerpiece noted for its robust brickwork and serene atmosphere, but remember to dress modestly before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Waast",
+            "hu": "Saint-Waast templom",
+            "ro": "Biserica Saint-Waast",
+            "en": "Saint-Waast Church"
+          },
+          "coords": [
+            4.00521,
+            50.271348
+          ],
+          "category": "religious",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante historische Kirche mit ihren aufwendigen Buntglasfenstern und versuchen Sie, in den Morgenstunden zu kommen.",
+            "hu": "Látogassa meg ezt a bájos történelmi templomot, amely bonyolult ólomüveg ablakokkal büszkélkedhet, és jöjjön délelőtt a legjobb belső fényekért.",
+            "ro": "Vizitați această biserică istorică fermecătoare, cu vitralii complicate, și încercați să mergeți dimineața pentru a prinde cea mai bună lumină.",
+            "en": "Visit this charming historic church featuring intricate stained glass windows, and try visiting during morning hours to catch the best interior lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Pierre",
+            "hu": "Saint-Pierre templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            4.027789,
+            50.26093
+          ],
+          "category": "religious",
+          "arrive_at": "12:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche regionale Erbe, das in dieser wunderschönen Steinkirche präsentiert wird, und prüfen Sie die Anschlagtafel auf Konzerte.",
+            "hu": "Fedezze fel a régió gazdag örökségét, amelyet ez a gyönyörű kőtemplom mutat be, és ellenőrizze a kinti hirdetőtáblán a közelgő helyi koncerteket.",
+            "ro": "Descoperiți bogata moștenire regională prezentată în această frumoasă biserică de piatră și verificați panoul exterior pentru concerte viitoare.",
+            "en": "Discover the rich regional heritage showcased in this beautiful stone church, and check the local board outside for any upcoming community concerts."
+          }
+        },
+        {
+          "name": {
+            "de": "Festungswerk Ferrière",
+            "hu": "Ferrière-i erőd",
+            "ro": "Fortificația Ferrière",
+            "en": "Ouvrage de Ferrière"
+          },
+          "coords": [
+            4.029654,
+            50.247493
+          ],
+          "category": "fortress",
+          "arrive_at": "13:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Festungswerk der Maginot-Linie in die Geschichte ein und bringen Sie eine leichte Jacke mit, da die unterirdischen Tunnel kühl sind.",
+            "hu": "Lépjen vissza az időben ezen a félelmetes Maginot-vonalbeli erődítményen, és hozzon magával könnyű kabátot, mivel a föld alatti alagutak hűvösek.",
+            "ro": "Întoarceți-vă în timp la această formidabilă fortificație a Liniei Maginot și aduceți o jachetă subțire, deoarece tunelurile subterane sunt reci.",
+            "en": "Step back in time at this formidable Maginot Line fortification offering deep historical insights, and bring a light jacket as underground tunnels are chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Cour des Potiers",
+            "hu": "Fazekasok Udvara Múzeum",
+            "ro": "Muzeul Curtea Olarilor",
+            "en": "Cour des Potiers Museum"
+          },
+          "coords": [
+            4.020679,
+            50.237543
+          ],
+          "category": "museum",
+          "arrive_at": "14:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem einzigartigen Museum in die lokale Industriegeschichte der Töpferei ein und verpassen Sie nicht die interaktive Tonwerkstatt.",
+            "hu": "Merüljön el a helyi fazekasipar történetében ebben az egyedülálló múzeumban, és ne hagyja ki az interaktív agyagműhelyt a túra végén.",
+            "ro": "Cufundați-vă în istoria industrială locală a olăritului în acest muzeu unic și nu ratați atelierul interactiv de lut de la sfârșitul turului.",
+            "en": "Immerse yourself in the local industrial history of pottery making in this unique museum, and don't miss the interactive clay workshop at the tour's end."
+          }
+        },
+        {
+          "name": {
+            "de": "Au Ptit-Cro Magnon",
+            "hu": "Au Ptit-Cro Magnon",
+            "ro": "Au Ptit-Cro Magnon",
+            "en": "Au Ptit-Cro Magnon"
+          },
+          "coords": [
+            4.016206,
+            50.240839
+          ],
+          "category": "family",
+          "arrive_at": "16:06",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bringen Sie die ganze Familie an diesen ansprechenden Erholungsort mit verspielten Ausstellungen und kommen Sie früh, um einen Picknicktisch zu sichern.",
+            "hu": "Hozza el az egész családot erre a játékos kiállításokat kínáló vonzó pihenőhelyre, és érkezzen korán, hogy árnyékos piknikasztalt találjon.",
+            "ro": "Aduceți toată familia în acest loc de recreere captivant, cu exponate jucăușe, și sosiți devreme pentru a prinde o masă de picnic la umbră.",
+            "en": "Bring the whole family to this engaging recreational spot featuring playful exhibits, and arrive early on weekends to secure a good shaded picnic table."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung der Ruinen des Fort du Bourdiau im Westen, bevor Sie zu den zentralen Kapellen fahren. Die Mittagszeit ist ideal, um die kurzen Wege zwischen den Pfarreien zu bewältigen. Am Nachmittag entdecken Sie Militärgeschichte im Bunker der Maginot-Linie. Beenden Sie die Tour im Töpfermuseum und Park.",
+        "hu": "Kezdje a reggelt a Fort du Bourdiau nyugati romjainak felfedezésével, mielőtt a központi kápolnákhoz és templomokhoz hajtana. A dél tökéletes a város fenséges plébániái közötti rövid távolságok megtételére. Délután fedezze fel a hadtörténetet a Maginot-vonal lenyűgöző bunkerében. Zárja a túrát a fazekasmúzeumban és a parkban.",
+        "ro": "Începeți dimineața explorând ruinele vestice ale Fort du Bourdiau, înainte de a conduce spre capelele centrale. Amiaza este perfectă pentru a parcurge distanțele scurte dintre parohiile orașului. După-amiaza, descoperiți istoria militară la buncărul Liniei Maginot. Încheiați-vă turul la muzeul de olărit și în parcul relaxant.",
+        "en": "Start your morning exploring the fascinating western ruins of Fort du Bourdiau before driving to the central chapels and churches. Midday is perfect for navigating the short distances between the town's majestic parishes. During the afternoon, uncover military history at the formidable Maginot Line bunker. Conclude your driving tour at the engaging pottery museum."
+      }
+    }
+  }
+}

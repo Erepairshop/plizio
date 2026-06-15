@@ -1,0 +1,520 @@
+{
+  "city_id": "marignane",
+  "anchor": {
+    "name": "Marignane",
+    "coords": [
+      5.2147,
+      43.4169
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:28",
+      "total_km": 1.95,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Nicolas",
+            "hu": "Saint-Nicolas templom",
+            "ro": "Biserica Saint-Nicolas",
+            "en": "Église Saint-Nicolas"
+          },
+          "coords": [
+            5.214331,
+            43.416319
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Treten Sie in diese historische Pfarrkirche ein, um das kunstvolle Altarbild zu bewundern, und genießen Sie einen Moment der Stille vor der Erkundung des Platzes.",
+            "hu": "Lépjen be ebbe a történelmi plébániatemplomba, csodálja meg a díszes oltárképet, és tartson egy csendes pihenőt, mielőtt felfedezné a nyüzsgő szomszédos teret.",
+            "ro": "Pășiți în această biserică parohială istorică pentru a-i aprecia altarul ornamentat și bucurați-vă de un moment de liniște înainte de a explora piața adiacentă.",
+            "en": "Step inside this historic parish church to appreciate its ornate altarpiece, and take a moment of quiet reflection before exploring the bustling adjacent town square."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Covet",
+            "hu": "Covet-kastély",
+            "ro": "Castelul Covet",
+            "en": "Covet Castle"
+          },
+          "coords": [
+            5.215701,
+            43.417169
+          ],
+          "category": "historical",
+          "arrive_at": "10:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie die elegante Architektur dieses ehemaligen Herrschaftssitzes, der heute das Rathaus beherbergt, und achten Sie auf Veranstaltungen im Innenhof.",
+            "hu": "Fedezze fel az egykori uradalmi rezidencia elegáns építészetét, amely ma a városházának ad otthont, és nézze meg a belső udvarban zajló helyi eseményeket.",
+            "ro": "Explorați arhitectura elegantă a acestei foste reședințe senioriale, care găzduiește acum primăria, și verificați curtea principală pentru evenimente locale.",
+            "en": "Explore the elegant architecture of this former seigneurial residence, now housing the town hall, and check the main courtyard for seasonal local events."
+          }
+        },
+        {
+          "name": {
+            "de": "Raimu-Museum",
+            "hu": "Raimu Múzeum",
+            "ro": "Muzeul Raimu",
+            "en": "Raimu Museum"
+          },
+          "coords": [
+            5.216755,
+            43.416384
+          ],
+          "category": "cultural",
+          "arrive_at": "11:24",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Leben des berühmten französischen Schauspielers Raimu anhand persönlicher Gegenstände und fragen Sie den Kurator nach seiner Verbundenheit zur Provence.",
+            "hu": "Ismerje meg a híres francia színész, Raimu életét személyes tárgyain keresztül, és kérdezze a kurátort a Provence-hoz fűződő mély kapcsolatáról.",
+            "ro": "Descoperiți viața faimosului actor francez Raimu prin artefacte personale și întrebați curatorul despre legătura sa profundă cu pitoreasca regiune Provence.",
+            "en": "Discover the life and career of the famous French actor Raimu through personal artifacts, and ask the knowledgeable curator about his deep connection to Provence."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Nicolas",
+            "hu": "Saint-Nicolas kápolna",
+            "ro": "Capela Saint-Nicolas",
+            "en": "Chapelle Saint-Nicolas"
+          },
+          "coords": [
+            5.214833,
+            43.423014
+          ],
+          "category": "landmark",
+          "arrive_at": "13:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Untersuchen Sie den rustikalen Charme dieser kleinen historischen Kapelle nahe dem alten Krankenhaus und beachten Sie das erhaltene Mauerwerk des mittelalterlichen Lebens.",
+            "hu": "Vizsgálja meg ennek az ősi kórház közelében található kis történelmi kápolnának a rusztikus báját, és figyelje meg a középkori provence-i életet tükröző kőművesmunkát.",
+            "ro": "Examinați farmecul rustic al acestei mici capele istorice de lângă vechiul spital și observați zidăria conservată care reflectă viața medievală provensală.",
+            "en": "Examine the rustic charm of this small historic chapel located near the ancient hospital, and note the preserved stonework that reflects medieval Provençal life."
+          }
+        },
+        {
+          "name": {
+            "de": "Sumpfgebiet Le Bolmon",
+            "hu": "Le Bolmon mocsár",
+            "ro": "Mlaștina Le Bolmon",
+            "en": "Le Bolmon Marsh"
+          },
+          "coords": [
+            5.211801,
+            43.415136
+          ],
+          "category": "natural",
+          "arrive_at": "13:43",
+          "stay_min": 105,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang der friedlichen Pfade dieser Küstenlagune, um verschiedene Vogelarten zu beobachten, und packen Sie ein Fernglas für die rosa Flamingos ein.",
+            "hu": "Sétáljon végig a tengerparti lagúna békés ösvényein, figyelje meg a változatos madárfajokat, és vigyen magával távcsövet a rózsaszín flamingók megleséséhez.",
+            "ro": "Plimbați-vă pe traseele pașnice ale acestei lagune de coastă pentru a observa diverse specii de păsări și aduceți binoclul pentru a vedea flamingo roz eleganți.",
+            "en": "Stroll along the peaceful trails of this coastal lagoon to spot diverse bird species, and pack binoculars to catch a perfect glimpse of the elegant pink flamingos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit der stillen Ausstrahlung der Église Saint-Nicolas und einer faszinierenden architektonischen Tour durch das imposante Schloss Covet.\n\nMittags besuchen Sie das Raimu-Museum, wo sich die reiche Filmgeschichte Frankreichs entfaltet.\n\nDer Nachmittag ist dem rustikalen Charme der Chapelle Saint-Nicolas und einem gemütlichen Stadtspaziergang gewidmet.\n\nDer Abend lockt Sie zum Sumpf Le Bolmon, um den Tag inmitten der Natur ausklingen zu lassen.",
+        "hu": "A reggel az Église Saint-Nicolas csendes nyugalmával indul, majd egy lenyűgöző építészeti séta következik a pompás Covet-kastélyban.\n\nDélben a Raimu Múzeumba látogatunk, ahol Franciaország gazdag filmtörténete tárul elénk.\n\nA délutánt a Chapelle Saint-Nicolas rusztikus bája és egy kellemes városi séta tölti ki.\n\nAz este a Le Bolmon mocsárhoz csábít, ahol a napot a természet lágy ölén és gyönyörű vízparti naplemente kíséretében zárhatja.",
+        "ro": "Dimineața începe cu seninătatea liniștită a Bisericii Saint-Nicolas, urmată de un tur arhitectural fascinant al mărețului Castel Covet.\n\nLa prânz, vizitați Muzeul Raimu, unde se desfășoară bogata istorie cinematografică a Franței.\n\nDupă-amiaza este rezervată farmecului rustic al Capelei Saint-Nicolas și unei plimbări relaxante prin oraș.\n\nSeara vă atrage spre Mlaștina Le Bolmon, încheind ziua înconjurat de natură și apusuri spectaculoase.",
+        "en": "Morning begins with the quiet serenity of Église Saint-Nicolas, followed by a fascinating architectural tour of the grand Covet Castle.\n\nMidday brings you to the Raimu Museum, where the rich cinematic history of France unfolds.\n\nAfternoon is reserved for the rustic charm of Chapelle Saint-Nicolas and a leisurely walk through town.\n\nEvening draws you to Le Bolmon Marsh, ending the day surrounded by nature and spectacular waterfront sunset views."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:46",
+      "total_km": 5.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Saint-Nicolas",
+            "hu": "Saint-Nicolas kápolna",
+            "ro": "Capela Saint-Nicolas",
+            "en": "Chapelle Saint-Nicolas"
+          },
+          "coords": [
+            5.214833,
+            43.423014
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Untersuchen Sie den rustikalen Charme dieser kleinen historischen Kapelle nahe dem alten Krankenhaus und beachten Sie das erhaltene Mauerwerk des mittelalterlichen Lebens.",
+            "hu": "Vizsgálja meg ennek az ősi kórház közelében található kis történelmi kápolnának a rusztikus báját, és figyelje meg a középkori provence-i életet tükröző kőművesmunkát.",
+            "ro": "Examinați farmecul rustic al acestei mici capele istorice de lângă vechiul spital și observați zidăria conservată care reflectă viața medievală provensală.",
+            "en": "Examine the rustic charm of this small historic chapel located near the ancient hospital, and note the preserved stonework that reflects medieval Provençal life."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Covet",
+            "hu": "Covet-kastély",
+            "ro": "Castelul Covet",
+            "en": "Covet Castle"
+          },
+          "coords": [
+            5.215701,
+            43.417169
+          ],
+          "category": "historical",
+          "arrive_at": "09:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Erkunden Sie die elegante Architektur dieses ehemaligen Herrschaftssitzes, der heute das Rathaus beherbergt, und achten Sie auf Veranstaltungen im Innenhof.",
+            "hu": "Fedezze fel az egykori uradalmi rezidencia elegáns építészetét, amely ma a városházának ad otthont, és nézze meg a belső udvarban zajló helyi eseményeket.",
+            "ro": "Explorați arhitectura elegantă a acestei foste reședințe senioriale, care găzduiește acum primăria, și verificați curtea principală pentru evenimente locale.",
+            "en": "Explore the elegant architecture of this former seigneurial residence, now housing the town hall, and check the main courtyard for seasonal local events."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Nicolas",
+            "hu": "Saint-Nicolas templom",
+            "ro": "Biserica Saint-Nicolas",
+            "en": "Église Saint-Nicolas"
+          },
+          "coords": [
+            5.214331,
+            43.416319
+          ],
+          "category": "religious",
+          "arrive_at": "10:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Treten Sie in diese historische Pfarrkirche ein, um das kunstvolle Altarbild zu bewundern, und genießen Sie einen Moment der Stille vor der Erkundung des Platzes.",
+            "hu": "Lépjen be ebbe a történelmi plébániatemplomba, csodálja meg a díszes oltárképet, és tartson egy csendes pihenőt, mielőtt felfedezné a nyüzsgő szomszédos teret.",
+            "ro": "Pășiți în această biserică parohială istorică pentru a-i aprecia altarul ornamentat și bucurați-vă de un moment de liniște înainte de a explora piața adiacentă.",
+            "en": "Step inside this historic parish church to appreciate its ornate altarpiece, and take a moment of quiet reflection before exploring the bustling adjacent town square."
+          }
+        },
+        {
+          "name": {
+            "de": "Raimu-Museum",
+            "hu": "Raimu Múzeum",
+            "ro": "Muzeul Raimu",
+            "en": "Raimu Museum"
+          },
+          "coords": [
+            5.216755,
+            43.416384
+          ],
+          "category": "cultural",
+          "arrive_at": "11:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Leben des berühmten französischen Schauspielers Raimu anhand persönlicher Gegenstände und fragen Sie den Kurator nach seiner Verbundenheit zur Provence.",
+            "hu": "Ismerje meg a híres francia színész, Raimu életét személyes tárgyain keresztül, és kérdezze a kurátort a Provence-hoz fűződő mély kapcsolatáról.",
+            "ro": "Descoperiți viața faimosului actor francez Raimu prin artefacte personale și întrebați curatorul despre legătura sa profundă cu pitoreasca regiune Provence.",
+            "en": "Discover the life and career of the famous French actor Raimu through personal artifacts, and ask the knowledgeable curator about his deep connection to Provence."
+          }
+        },
+        {
+          "name": {
+            "de": "Sumpfgebiet Le Bolmon",
+            "hu": "Le Bolmon mocsár",
+            "ro": "Mlaștina Le Bolmon",
+            "en": "Le Bolmon Marsh"
+          },
+          "coords": [
+            5.211801,
+            43.415136
+          ],
+          "category": "natural",
+          "arrive_at": "13:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang der friedlichen Pfade dieser Küstenlagune, um verschiedene Vogelarten zu beobachten, und packen Sie ein Fernglas für die rosa Flamingos ein.",
+            "hu": "Sétáljon végig a tengerparti lagúna békés ösvényein, figyelje meg a változatos madárfajokat, és vigyen magával távcsövet a rózsaszín flamingók megleséséhez.",
+            "ro": "Plimbați-vă pe traseele pașnice ale acestei lagune de coastă pentru a observa diverse specii de păsări și aduceți binoclul pentru a vedea flamingo roz eleganți.",
+            "en": "Stroll along the peaceful trails of this coastal lagoon to spot diverse bird species, and pack binoculars to catch a perfect glimpse of the elegant pink flamingos."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Laurent Imbert",
+            "hu": "Saint-Laurent Imbert templom",
+            "ro": "Biserica Saint-Laurent Imbert",
+            "en": "Église Saint-Laurent Imbert"
+          },
+          "coords": [
+            5.202772,
+            43.417133
+          ],
+          "category": "religious",
+          "arrive_at": "14:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Bewundern Sie die auffälligen Buntglasfenster dieser modernen Kirche, die einem lokalen Missionar gewidmet ist, und besuchen Sie sie morgens für das beste Licht.",
+            "hu": "Csodálja meg ennek a helyi misszionáriusnak szentelt modern templomnak a lenyűgöző ólomüveg ablakait, és látogasson el ide a reggeli órákban a legjobb fényviszonyokért.",
+            "ro": "Admirați vitraliile izbitoare ale acestei biserici contemporane dedicate unui misionar local și vizitați-o dimineața pentru cea mai bună iluminare interioară.",
+            "en": "Admire the striking stained glass windows of this contemporary church dedicated to a local missionary, and plan your visit during the morning for the best interior lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Notre-Dame de Pitié",
+            "hu": "Notre-Dame de Pitié kápolna",
+            "ro": "Capela Notre-Dame de Pitié",
+            "en": "Notre-Dame de Pitié Chapel"
+          },
+          "coords": [
+            5.23405,
+            43.4057
+          ],
+          "category": "religious",
+          "arrive_at": "15:36",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Erklimmen Sie den Hügel, um diese schöne Kapelle aus dem 17. Jahrhundert mit Panoramablick auf den Étang de Berre zu bewundern, und bringen Sie eine Kamera mit.",
+            "hu": "Másszon fel a dombra, hogy megcsodálja ezt a gyönyörű 17. századi kápolnát, amely panorámás kilátást nyújt a Berre-tóra, és feltétlenül hozzon magával fényképezőgépet.",
+            "ro": "Urcați pe deal pentru a admira această frumoasă capelă din secolul al XVII-lea cu vedere panoramică asupra lacului Berre și aduceți o cameră pentru lumina uimitoare.",
+            "en": "Climb the gentle hill to admire this beautiful 17th-century chapel, offering panoramic views over the Etang de Berre, and bring a camera for the stunning light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit einer Radtour zur Chapelle Saint-Nicolas und erkunden Sie die stattlichen Hallen von Schloss Covet.\n\nDie Mittagszeit ist ideal für die Église Saint-Nicolas und das kulturelle Erbe im Raimu-Museum.\n\nAm Nachmittag radeln Sie entlang der malerischen Pfade des Le Bolmon Sumpfes zur modernen Église Saint-Laurent Imbert.\n\nDer Abend endet mit einer lohnenden Fahrt zur Kapelle Notre-Dame de Pitié für atemberaubende Dämmerungspanoramen.",
+        "hu": "Kezdje a reggelt kerékpározással a Chapelle Saint-Nicolas-hoz, és fedezze fel a Covet-kastély impozáns termeit.\n\nA dél tökéletes az Église Saint-Nicolas meglátogatására és a Raimu Múzeum kulturális örökségének megismerésére.\n\nA délutáni tekerés a Le Bolmon mocsár festői ösvényein visz végig a modern Église Saint-Laurent Imbert-ig.\n\nAz este a Notre-Dame de Pitié kápolnához vezető jutalmazó úttal zárul, ahonnan lélegzetelállító alkonyati panoráma nyílik.",
+        "ro": "Începeți dimineața pedalând spre Capela Saint-Nicolas și explorând sălile impunătoare ale Castelului Covet.\n\nAmiaza este perfectă pentru a vizita Biserica Saint-Nicolas și Muzeul Raimu.\n\nPlimbarea de după-amiază vă poartă pe cărările pitorești ale Mlaștinii Le Bolmon înainte de a ajunge la moderna Biserică Saint-Laurent Imbert.\n\nSeara se încheie cu o urcare plină de satisfacții la Capela Notre-Dame de Pitié pentru o panoramă de neuitat la amurg.",
+        "en": "Start the morning cycling to Chapelle Saint-Nicolas and exploring the stately halls of Covet Castle.\n\nMidday is perfect for visiting Église Saint-Nicolas and diving into cultural heritage at the Raimu Museum.\n\nAfternoon riding takes you along the scenic paths of Le Bolmon Marsh before reaching the modern Église Saint-Laurent Imbert.\n\nEvening concludes with a rewarding ride up to Notre-Dame de Pitié Chapel for breathtaking dusk panoramas over the lagoon."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:56",
+      "total_km": 6.7,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Kapelle Notre-Dame de Pitié",
+            "hu": "Notre-Dame de Pitié kápolna",
+            "ro": "Capela Notre-Dame de Pitié",
+            "en": "Notre-Dame de Pitié Chapel"
+          },
+          "coords": [
+            5.23405,
+            43.4057
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erklimmen Sie den Hügel, um diese schöne Kapelle aus dem 17. Jahrhundert mit Panoramablick auf den Étang de Berre zu bewundern, und bringen Sie eine Kamera mit.",
+            "hu": "Másszon fel a dombra, hogy megcsodálja ezt a gyönyörű 17. századi kápolnát, amely panorámás kilátást nyújt a Berre-tóra, és feltétlenül hozzon magával fényképezőgépet.",
+            "ro": "Urcați pe deal pentru a admira această frumoasă capelă din secolul al XVII-lea cu vedere panoramică asupra lacului Berre și aduceți o cameră pentru lumina uimitoare.",
+            "en": "Climb the gentle hill to admire this beautiful 17th-century chapel, offering panoramic views over the Etang de Berre, and bring a camera for the stunning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Portail",
+            "hu": "Portail (Ősi kapu)",
+            "ro": "Portail",
+            "en": "Portail"
+          },
+          "coords": [
+            5.204001,
+            43.405044
+          ],
+          "category": "historical",
+          "arrive_at": "10:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Durchqueren Sie dieses alte befestigte Tor, das einst das mittelalterliche Dorf schützte, und betrachten Sie die verwitterten Steine mit den Spuren jahrhundertelanger Geschichte.",
+            "hu": "Haladjon át ezen az ősi erődített kapun, amely egykor a középkori falut védte, és nézze meg közelebbről az évszázados történelem nyomait őrző, viharvert köveket.",
+            "ro": "Treceți prin această veche poartă fortificată care proteja odată satul medieval și priviți îndeaproape pietrele degradate pentru a vedea urmele secolelor de istorie.",
+            "en": "Pass through this ancient fortified gate that once protected the medieval village, and look closely at the weathered stones to see marks from centuries of vibrant history."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Laurent Imbert",
+            "hu": "Saint-Laurent Imbert templom",
+            "ro": "Biserica Saint-Laurent Imbert",
+            "en": "Église Saint-Laurent Imbert"
+          },
+          "coords": [
+            5.202772,
+            43.417133
+          ],
+          "category": "religious",
+          "arrive_at": "11:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die auffälligen Buntglasfenster dieser modernen Kirche, die einem lokalen Missionar gewidmet ist, und besuchen Sie sie morgens für das beste Licht.",
+            "hu": "Csodálja meg ennek a helyi misszionáriusnak szentelt modern templomnak a lenyűgöző ólomüveg ablakait, és látogasson el ide a reggeli órákban a legjobb fényviszonyokért.",
+            "ro": "Admirați vitraliile izbitoare ale acestei biserici contemporane dedicate unui misionar local și vizitați-o dimineața pentru cea mai bună iluminare interioară.",
+            "en": "Admire the striking stained glass windows of this contemporary church dedicated to a local missionary, and plan your visit during the morning for the best interior lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Covet",
+            "hu": "Covet-kastély",
+            "ro": "Castelul Covet",
+            "en": "Covet Castle"
+          },
+          "coords": [
+            5.215701,
+            43.417169
+          ],
+          "category": "historical",
+          "arrive_at": "12:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die elegante Architektur dieses ehemaligen Herrschaftssitzes, der heute das Rathaus beherbergt, und achten Sie auf Veranstaltungen im Innenhof.",
+            "hu": "Fedezze fel az egykori uradalmi rezidencia elegáns építészetét, amely ma a városházának ad otthont, és nézze meg a belső udvarban zajló helyi eseményeket.",
+            "ro": "Explorați arhitectura elegantă a acestei foste reședințe senioriale, care găzduiește acum primăria, și verificați curtea principală pentru evenimente locale.",
+            "en": "Explore the elegant architecture of this former seigneurial residence, now housing the town hall, and check the main courtyard for seasonal local events."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Nicolas",
+            "hu": "Saint-Nicolas templom",
+            "ro": "Biserica Saint-Nicolas",
+            "en": "Église Saint-Nicolas"
+          },
+          "coords": [
+            5.214331,
+            43.416319
+          ],
+          "category": "religious",
+          "arrive_at": "13:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Treten Sie in diese historische Pfarrkirche ein, um das kunstvolle Altarbild zu bewundern, und genießen Sie einen Moment der Stille vor der Erkundung des Platzes.",
+            "hu": "Lépjen be ebbe a történelmi plébániatemplomba, csodálja meg a díszes oltárképet, és tartson egy csendes pihenőt, mielőtt felfedezné a nyüzsgő szomszédos teret.",
+            "ro": "Pășiți în această biserică parohială istorică pentru a-i aprecia altarul ornamentat și bucurați-vă de un moment de liniște înainte de a explora piața adiacentă.",
+            "en": "Step inside this historic parish church to appreciate its ornate altarpiece, and take a moment of quiet reflection before exploring the bustling adjacent town square."
+          }
+        },
+        {
+          "name": {
+            "de": "Raimu-Museum",
+            "hu": "Raimu Múzeum",
+            "ro": "Muzeul Raimu",
+            "en": "Raimu Museum"
+          },
+          "coords": [
+            5.216755,
+            43.416384
+          ],
+          "category": "cultural",
+          "arrive_at": "14:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Leben des berühmten französischen Schauspielers Raimu anhand persönlicher Gegenstände und fragen Sie den Kurator nach seiner Verbundenheit zur Provence.",
+            "hu": "Ismerje meg a híres francia színész, Raimu életét személyes tárgyain keresztül, és kérdezze a kurátort a Provence-hoz fűződő mély kapcsolatáról.",
+            "ro": "Descoperiți viața faimosului actor francez Raimu prin artefacte personale și întrebați curatorul despre legătura sa profundă cu pitoreasca regiune Provence.",
+            "en": "Discover the life and career of the famous French actor Raimu through personal artifacts, and ask the knowledgeable curator about his deep connection to Provence."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Nicolas",
+            "hu": "Saint-Nicolas kápolna",
+            "ro": "Capela Saint-Nicolas",
+            "en": "Chapelle Saint-Nicolas"
+          },
+          "coords": [
+            5.214833,
+            43.423014
+          ],
+          "category": "landmark",
+          "arrive_at": "15:54",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Untersuchen Sie den rustikalen Charme dieser kleinen historischen Kapelle nahe dem alten Krankenhaus und beachten Sie das erhaltene Mauerwerk des mittelalterlichen Lebens.",
+            "hu": "Vizsgálja meg ennek az ősi kórház közelében található kis történelmi kápolnának a rusztikus báját, és figyelje meg a középkori provence-i életet tükröző kőművesmunkát.",
+            "ro": "Examinați farmecul rustic al acestei mici capele istorice de lângă vechiul spital și observați zidăria conservată care reflectă viața medievală provensală.",
+            "en": "Examine the rustic charm of this small historic chapel located near the ancient hospital, and note the preserved stonework that reflects medieval Provençal life."
+          }
+        },
+        {
+          "name": {
+            "de": "Sumpfgebiet Le Bolmon",
+            "hu": "Le Bolmon mocsár",
+            "ro": "Mlaștina Le Bolmon",
+            "en": "Le Bolmon Marsh"
+          },
+          "coords": [
+            5.211801,
+            43.415136
+          ],
+          "category": "natural",
+          "arrive_at": "16:11",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang der friedlichen Pfade dieser Küstenlagune, um verschiedene Vogelarten zu beobachten, und packen Sie ein Fernglas für die rosa Flamingos ein.",
+            "hu": "Sétáljon végig a tengerparti lagúna békés ösvényein, figyelje meg a változatos madárfajokat, és vigyen magával távcsövet a rózsaszín flamingók megleséséhez.",
+            "ro": "Plimbați-vă pe traseele pașnice ale acestei lagune de coastă pentru a observa diverse specii de păsări și aduceți binoclul pentru a vedea flamingo roz eleganți.",
+            "en": "Stroll along the peaceful trails of this coastal lagoon to spot diverse bird species, and pack binoculars to catch a perfect glimpse of the elegant pink flamingos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen lädt zu einer Fahrt zur Kapelle Notre-Dame de Pitié mit inspirierender Aussicht ein, gefolgt von einem Spaziergang durch das alte Portail.\n\nMittags verbinden Sie die moderne Église Saint-Laurent Imbert mit der königlichen Geschichte von Schloss Covet und der Église Saint-Nicolas.\n\nDen Nachmittag verbringen Sie im Raimu-Museum und bei der Chapelle Saint-Nicolas.\n\nAbends fahren Sie bequem zum Sumpf Le Bolmon für einen ruhigen Spaziergang bei Sonnenuntergang.",
+        "hu": "A reggel egy autózásra hív a Notre-Dame de Pitié kápolnához, ahonnan csodás kilátás nyílik, majd az ősi Portail megtekintése következik.\n\nDélben a modern Église Saint-Laurent Imbert templomot és a Covet-kastély királyi történelmét, valamint az Église Saint-Nicolas-t kötjük össze.\n\nA délutánt a Raimu Múzeum művészeti örökségének felfedezése és a Chapelle Saint-Nicolas meglátogatása tölti ki.\n\nEste egy rövid út vezet a Le Bolmon mocsárhoz egy békés naplemente-nézős sétára.",
+        "ro": "Dimineața vă invită să conduceți până la Capela Notre-Dame de Pitié pentru o priveliște inspirată, urmată de o plimbare prin anticul Portail.\n\nAmiaza conectează Biserica Saint-Laurent Imbert cu istoria regală a Castelului Covet și a Bisericii Saint-Nicolas.\n\nDupă-amiaza este bine petrecută descoperind moștenirea artistică la Muzeul Raimu și Capela Saint-Nicolas.\n\nSeara permite o coborâre ușoară spre Mlaștina Le Bolmon pentru o plimbare liniștită la apus.",
+        "en": "Morning invites you to drive up to Notre-Dame de Pitié Chapel for an inspiring view, followed by a walk through the ancient Portail.\n\nMidday connects the modern Église Saint-Laurent Imbert with the regal history of Covet Castle and Église Saint-Nicolas.\n\nAfternoon is well spent uncovering artistic legacy at the Raimu Museum and visiting Chapelle Saint-Nicolas.\n\nEvening allows for an easy drive down to Le Bolmon Marsh for a tranquil sunset stroll by the water."
+      }
+    }
+  }
+}

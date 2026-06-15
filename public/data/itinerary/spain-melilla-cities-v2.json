@@ -1,0 +1,497 @@
+{
+  "city_id": "spain-melilla-cities-v2",
+  "anchor": {
+    "name": "Melilla",
+    "coords": [
+      -2.9475,
+      35.2825
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:38",
+      "total_km": 1.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de España",
+            "hu": "Plaza de España",
+            "ro": "Plaza de España",
+            "en": "Plaza de España"
+          },
+          "coords": [
+            -2.937919,
+            35.292183
+          ],
+          "category": "park",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf der Plaza de España, um die modernistische Architektur zu bewundern, und fotografieren Sie die Brunnen am frühen Morgen.",
+            "hu": "Pihenjen meg a Plaza de España téren, csodálja meg a modernista építészetet, és fotózza le a gyönyörű szökőkutakat még a kora reggeli órákban.",
+            "ro": "Relaxați-vă în Plaza de España pentru a admira arhitectura modernistă și profitați de dimineață pentru a fotografia frumoasele fântâni arteziene.",
+            "en": "Relax at the Plaza de España to admire the Modernist architecture, taking a moment to photograph the beautiful fountains early in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio de la Asamblea",
+            "hu": "Palacio de la Asamblea",
+            "ro": "Palacio de la Asamblea",
+            "en": "Palacio de la Asamblea"
+          },
+          "coords": [
+            -2.936861,
+            35.292259
+          ],
+          "category": "historical",
+          "arrive_at": "10:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie den Palacio de la Asamblea, ein Meisterwerk von Enrique Nieto, und achten Sie auf die aufwendigen Details der atemberaubenden Fassade.",
+            "hu": "Fedezze fel az Asamblea Palotát, Enrique Nieto remekművét, és mindenképpen figyelje meg a lenyűgöző homlokzat aprólékos, részletgazdag kidolgozását.",
+            "ro": "Explorați Palacio de la Asamblea, o capodoperă a lui Enrique Nieto, și asigurați-vă că observați detaliile complicate de pe fațada sa uimitoare.",
+            "en": "Explore the Palacio de la Asamblea to appreciate Enrique Nieto's masterpiece, making sure to notice the intricate details on its stunning façade."
+          }
+        },
+        {
+          "name": {
+            "de": "Hospital del Rey",
+            "hu": "Hospital del Rey",
+            "ro": "Hospital del Rey",
+            "en": "Hospital del Rey"
+          },
+          "coords": [
+            -2.932639,
+            35.294008
+          ],
+          "category": "museum",
+          "arrive_at": "11:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Hospital del Rey, um Melillas reiche Geschichte zu entdecken, und nehmen Sie sich Zeit für die Ausstellungen in den oberen Etagen.",
+            "hu": "Látogasson el a Hospital del Rey múzeumba Melilla történelmének megismeréséhez, és szánjon időt a felső szintek informatív kiállításaira is.",
+            "ro": "Vizitați Hospital del Rey pentru a descoperi istoria bogată a Melillei, lăsând timp pentru a explora expozițiile informative de la etajele superioare.",
+            "en": "Visit the Hospital del Rey to uncover the rich history of Melilla, leaving some time to browse the informative exhibits on the upper floors."
+          }
+        },
+        {
+          "name": {
+            "de": "Baluarte de San Pedro Alto",
+            "hu": "Baluarte de San Pedro Alto",
+            "ro": "Baluarte de San Pedro Alto",
+            "en": "Baluarte de San Pedro Alto"
+          },
+          "coords": [
+            -2.935476,
+            35.294524
+          ],
+          "category": "castle",
+          "arrive_at": "13:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Baluarte de San Pedro Alto für einen Panoramablick auf das Mittelmeer und bringen Sie ein Weitwinkelobjektiv für tolle Fotos mit.",
+            "hu": "Mássza meg a Baluarte de San Pedro Alto bástyát a Földközi-tengerre nyíló panorámáért, és hozzon magával nagylátószögű objektívet a fotózáshoz.",
+            "ro": "Urcați pe Baluarte de San Pedro Alto pentru vederi panoramice la Marea Mediterană, aducând un obiectiv cu unghi larg pentru a surprinde marea.",
+            "en": "Climb the Baluarte de San Pedro Alto for panoramic views of the Mediterranean, bringing a wide-angle lens to capture the vast expanse of the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Fuerte de Victoria Chica",
+            "hu": "Fuerte de Victoria Chica",
+            "ro": "Fuerte de Victoria Chica",
+            "en": "Fuerte de Victoria Chica"
+          },
+          "coords": [
+            -2.937094,
+            35.296069
+          ],
+          "category": "castle",
+          "arrive_at": "15:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Fuerte de Victoria Chica mit seinen restaurierten Mauern, und tragen Sie bequeme Schuhe, da die Wege dorthin recht uneben sind.",
+            "hu": "Fedezze fel a Fuerte de Victoria Chica erődöt és felújított falait; viseljen kényelmes cipőt, mivel az oda vezető utak meglehetősen egyenetlenek.",
+            "ro": "Descoperiți Fuerte de Victoria Chica pentru a vedea zidurile sale restaurate, purtând încălțăminte comodă deoarece potecile pot fi denivelate.",
+            "en": "Discover the Fuerte de Victoria Chica to see its restored walls, wearing comfortable shoes as the paths leading up to the fort can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Sinagoga de Or Zaruah",
+            "hu": "Sinagoga de Or Zaruah",
+            "ro": "Sinagoga de Or Zaruah",
+            "en": "Sinagoga de Or Zaruah"
+          },
+          "coords": [
+            -2.940893,
+            35.294692
+          ],
+          "category": "religious",
+          "arrive_at": "16:28",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Betreten Sie die Sinagoga de Or Zaruah, um die friedliche Atmosphäre zu genießen; achten Sie auf angemessene Kleidung in diesem religiösen Heiligtum.",
+            "hu": "Lépjen be a Sinagoga de Or Zaruah zsinagógába a békés légkörért, és ügyeljen a szerény öltözködésre ebben a gyönyörű vallási szentélyben.",
+            "ro": "Intrați în Sinagoga de Or Zaruah pentru a simți atmosfera sa pașnică, asigurându-vă că vă îmbrăcați modest pentru a respecta acest sanctuar religios.",
+            "en": "Enter the Sinagoga de Or Zaruah to experience its peaceful atmosphere, ensuring you dress modestly to respect this beautiful religious sanctuary."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt an der Plaza de España, wo Sie in Melillas modernistischen Charme eintauchen. Von hier aus ist es ein kurzer Spaziergang zum beeindruckenden Palacio de la Asamblea.\n\nGegen Mittag betreten Sie die Altstadt, um die reichen Ausstellungen im Hospital del Rey zu erkunden. Danach wandern Sie zur Baluarte de San Pedro Alto für atemberaubende Ausblicke.\n\nDer Nachmittag lädt zu einem Besuch des robusten Fuerte de Victoria Chica ein. Nehmen Sie sich Zeit, um auf den historischen, aber teils unebenen Pfaden in die Geschichte einzutauchen.\n\nIhr Tag endet in der Sinagoga de Or Zaruah. Die friedliche Atmosphäre dieses heiligen Ortes bietet einen perfekten, besinnlichen Abschluss Ihrer bereichernden Wanderung durch Melilla.",
+        "hu": "A reggel a Plaza de España téren indul, elmerülve Melilla modernista bájában. Innen egy rövid sétával elérheti az Asamblea Palotát, amely lenyűgöző építészeti részleteket rejt.\n\nDélben lépjen be az óvárosba, és fedezze fel a Hospital del Rey gazdag kiállításait. A történelem megismerése után sétáljon át a Baluarte de San Pedro Alto bástyához a parti panorámáért.\n\nA délután a masszív Fuerte de Victoria Chica erőd felfedezésére csábít, amely a város múltját őrzi. Szánjon időt a történelmileg jelentős, kissé egyenetlen ösvények bejárására.\n\nA nap a Sinagoga de Or Zaruah zsinagógánál ér véget. E szent hely békés légköre tökéletes, elmélyült befejezést kínál Melilla gazdagító gyalogos felfedezéséhez.",
+        "ro": "Dimineața începe în Plaza de España, cufundându-vă în farmecul modernist al Melillei. De aici, o scurtă plimbare vă duce la Palacio de la Asamblea, cu detaliile sale arhitecturale.\n\nLa prânz, pășiți în orașul vechi pentru a explora expozițiile bogate de la Hospital del Rey. După aceea, îndreptați-vă spre Baluarte de San Pedro Alto pentru o vedere de coastă impresionantă.\n\nDupă-amiaza invită la o vizită la robustul Fuerte de Victoria Chica, o dovadă a trecutului orașului. Luați-vă timp pentru a traversa căile istorice, dar ușor denivelate.\n\nZiua se încheie la Sinagoga de Or Zaruah. Atmosfera pașnică a acestui sanctuar sacru oferă un final perfect și reflexiv al unui tur pietonal plin de satisfacții prin Melilla.",
+        "en": "Morning begins at Plaza de España, immersing you in Melilla's Modernist charm. From here, a short walk brings you to the Palacio de la Asamblea, showcasing intricate details.\n\nBy midday, step into the old town to explore the rich exhibits at Hospital del Rey. After soaking up history, wander over to the Baluarte de San Pedro Alto for stunning coastal views.\n\nThe afternoon invites a visit to the robust Fuerte de Victoria Chica, a testament to the city's past. Take your time traversing the slightly uneven but historically significant pathways.\n\nYour day concludes at the Sinagoga de Or Zaruah. The peaceful atmosphere of this sacred sanctuary offers a perfect, reflective end to an enriching walking tour of Melilla."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:23",
+      "total_km": 3.56,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de España",
+            "hu": "Plaza de España",
+            "ro": "Plaza de España",
+            "en": "Plaza de España"
+          },
+          "coords": [
+            -2.937919,
+            35.292183
+          ],
+          "category": "park",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf der Plaza de España, um die modernistische Architektur zu bewundern, und fotografieren Sie die Brunnen am frühen Morgen.",
+            "hu": "Pihenjen meg a Plaza de España téren, csodálja meg a modernista építészetet, és fotózza le a gyönyörű szökőkutakat még a kora reggeli órákban.",
+            "ro": "Relaxați-vă în Plaza de España pentru a admira arhitectura modernistă și profitați de dimineață pentru a fotografia frumoasele fântâni arteziene.",
+            "en": "Relax at the Plaza de España to admire the Modernist architecture, taking a moment to photograph the beautiful fountains early in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Hospital del Rey",
+            "hu": "Hospital del Rey",
+            "ro": "Hospital del Rey",
+            "en": "Hospital del Rey"
+          },
+          "coords": [
+            -2.932639,
+            35.294008
+          ],
+          "category": "museum",
+          "arrive_at": "10:28",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Hospital del Rey, um Melillas reiche Geschichte zu entdecken, und nehmen Sie sich Zeit für die Ausstellungen in den oberen Etagen.",
+            "hu": "Látogasson el a Hospital del Rey múzeumba Melilla történelmének megismeréséhez, és szánjon időt a felső szintek informatív kiállításaira is.",
+            "ro": "Vizitați Hospital del Rey pentru a descoperi istoria bogată a Melillei, lăsând timp pentru a explora expozițiile informative de la etajele superioare.",
+            "en": "Visit the Hospital del Rey to uncover the rich history of Melilla, leaving some time to browse the informative exhibits on the upper floors."
+          }
+        },
+        {
+          "name": {
+            "de": "Baluarte de San Pedro Alto",
+            "hu": "Baluarte de San Pedro Alto",
+            "ro": "Baluarte de San Pedro Alto",
+            "en": "Baluarte de San Pedro Alto"
+          },
+          "coords": [
+            -2.935476,
+            35.294524
+          ],
+          "category": "castle",
+          "arrive_at": "12:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Baluarte de San Pedro Alto für einen Panoramablick auf das Mittelmeer und bringen Sie ein Weitwinkelobjektiv für tolle Fotos mit.",
+            "hu": "Mássza meg a Baluarte de San Pedro Alto bástyát a Földközi-tengerre nyíló panorámáért, és hozzon magával nagylátószögű objektívet a fotózáshoz.",
+            "ro": "Urcați pe Baluarte de San Pedro Alto pentru vederi panoramice la Marea Mediterană, aducând un obiectiv cu unghi larg pentru a surprinde marea.",
+            "en": "Climb the Baluarte de San Pedro Alto for panoramic views of the Mediterranean, bringing a wide-angle lens to capture the vast expanse of the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Fuerte del Rosarío",
+            "hu": "Fuerte del Rosarío",
+            "ro": "Fuerte del Rosarío",
+            "en": "Fuerte del Rosarío"
+          },
+          "coords": [
+            -2.936967,
+            35.29725
+          ],
+          "category": "castle",
+          "arrive_at": "13:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang des Fuerte del Rosarío, um in die Militärgeschichte einzutauchen, und achten Sie auf die Tafeln zur strategischen Bedeutung.",
+            "hu": "Sétáljon végig a Fuerte del Rosarío erődön a hadtörténet felfedezéséhez, és figyelje a stratégiai fontosságát részletező tájékoztató táblákat.",
+            "ro": "Plimbați-vă de-a lungul Fuerte del Rosarío pentru a pătrunde în istoria militară, căutând plăcile explicative care detaliază importanța sa strategică.",
+            "en": "Walk along the Fuerte del Rosarío to delve into military history, keeping an eye out for the explanatory plaques detailing its strategic importance."
+          }
+        },
+        {
+          "name": {
+            "de": "Mezquita Central",
+            "hu": "Mezquita Central",
+            "ro": "Mezquita Central",
+            "en": "Mezquita Central"
+          },
+          "coords": [
+            -2.945102,
+            35.295795
+          ],
+          "category": "landmark",
+          "arrive_at": "14:57",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Halten Sie an der Mezquita Central, um das elegante Minarett zu bewundern; kommen Sie außerhalb der Gebetszeiten, um die Architektur zu genießen.",
+            "hu": "Álljon meg a Mezquita Centralnál, hogy megcsodálja elegáns minaretjét; látogasson imaidőn kívül, hogy kívülről is értékelje az építészeti szépséget.",
+            "ro": "Opriți-vă la Mezquita Central pentru a-i admira minaretul elegant, vizitând-o în afara orelor de rugăciune pentru a aprecia arhitectura din exterior.",
+            "en": "Stop by the Mezquita Central to admire its elegant minaret, visiting during non-prayer times to appreciate the architectural beauty from the outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de toros de Melilla",
+            "hu": "Plaza de toros de Melilla",
+            "ro": "Plaza de toros de Melilla",
+            "en": "Plaza de toros de Melilla"
+          },
+          "coords": [
+            -2.942304,
+            35.289212
+          ],
+          "category": "landmark",
+          "arrive_at": "15:17",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.77,
+          "tip_5lang": {
+            "de": "Betrachten Sie die Plaza de toros de Melilla, eine der wenigen aktiven Stierkampfarenen Afrikas, und prüfen Sie den Zeitplan für Führungen im Inneren.",
+            "hu": "Tekintse meg a melillai bikaviadal-arénát, Afrika kevés aktív arénájának egyikét, és ellenőrizze a helyi menetrendet a belső vezetett túrákhoz.",
+            "ro": "Vedeți Plaza de toros de Melilla, una dintre puținele arene active din Africa, și verificați programul local pentru un tur ghidat al interiorului istoric.",
+            "en": "View the Plaza de toros de Melilla, one of the few active bullrings in Africa, and check the local schedule for guided tours of its historic interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Basílica del Cristo Rey",
+            "hu": "Basílica del Cristo Rey",
+            "ro": "Basílica del Cristo Rey",
+            "en": "Basílica del Cristo Rey"
+          },
+          "coords": [
+            -2.942714,
+            35.280536
+          ],
+          "category": "landmark",
+          "arrive_at": "15:38",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Basílica del Cristo Rey, um den beeindruckenden Altar zu sehen, und finden Sie einen ruhigen Moment, bevor Sie das Viertel erkunden.",
+            "hu": "Látogasson el a Basílica del Cristo Rey bazilikába a lenyűgöző oltárért, és töltsön el egy csendes percet a környék nyüzsgő utcáinak felfedezése előtt.",
+            "ro": "Vizitați Basílica del Cristo Rey pentru a vedea altarul său impresionant, găsind un moment de liniște înainte de a explora cartierele pline de viață.",
+            "en": "Visit the Basílica del Cristo Rey to see its impressive altar, finding a quiet moment to reflect before exploring the surrounding lively neighborhoods."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an der Plaza de España und genießen Sie die Morgenbrise. Vom modernen Zentrum radeln Sie zum historischen Hospital del Rey, um in die Geschichte einzutauchen.\n\nMittags erreichen Sie die Baluarte de San Pedro Alto und das Fuerte del Rosarío. Die Fahrt zwischen diesen alten Festungen bietet eine einzigartige Perspektive auf die Architektur.\n\nAm Nachmittag gleiten Sie an der eleganten Mezquita Central vorbei und bewundern ihr markantes Minarett. Kurz darauf erreichen Sie die Plaza de toros, einen seltenen Anblick hier.\n\nIhre Fahrt endet an der Basílica del Cristo Rey. Der beeindruckende Altar und die ruhige Umgebung bieten einen friedlichen Moment, um sich nach einem aktiven Tag auszuruhen.",
+        "hu": "Kezdje kerékpártúráját a Plaza de España téren, élvezve a reggeli szellőt. A modern központból pedálozzon a történelmi Hospital del Rey felé, hogy elmerüljön a helyi történelemben.\n\nDélben elérkezik a Baluarte de San Pedro Alto és a Fuerte del Rosarío erődökhöz. Az ősi erődítmények közötti kerékpározás egyedülálló perspektívát nyújt a védelmi építészetről.\n\nDélután guruljon el az elegáns Mezquita Central mellett, megcsodálva annak feltűnő minaretjét. Nem sokkal ezután eléri a Plaza de toros arénát, amely ritka látványosság itt.\n\nAz utazás a Basílica del Cristo Rey bazilikánál ér véget. A lenyűgöző oltár és a csendes környezet nyugodt pillanatot kínál a lábak pihentetésére az aktív nap után.",
+        "ro": "Începeți turul cu bicicleta în Plaza de España, bucurându-vă de briza dimineții. Din centrul modern, pedalați spre istoricul Hospital del Rey pentru a aprofunda istoria locală.\n\nPrânzul vă aduce la Baluarte de San Pedro Alto și la Fuerte del Rosarío. Mersul cu bicicleta între aceste cetăți vechi oferă o perspectivă unică asupra arhitecturii defensive.\n\nDupă-amiaza, treceți pe lângă eleganta Mezquita Central, admirând minaretul ei impresionant. La scurt timp după, veți ajunge la Plaza de toros, o priveliște destul de rară aici.\n\nCălătoria se încheie la Basílica del Cristo Rey. Altarul impresionant și împrejurimile liniștite oferă un moment de relaxare pentru a vă odihni după o zi activă de explorare.",
+        "en": "Kick off your cycling tour at Plaza de España, enjoying the morning breeze. From the modern center, pedal towards the historic Hospital del Rey to delve into local history.\n\nMidday brings you to the Baluarte de San Pedro Alto and the Fuerte del Rosarío. Cycling between these ancient fortresses offers a unique perspective on Melilla's formidable defensive architecture.\n\nIn the afternoon, glide past the elegant Mezquita Central, taking in its striking minaret. Shortly after, you will reach the Plaza de toros, a rare sight in this part of the world.\n\nYour ride wraps up at the Basílica del Cristo Rey. The impressive altar and quiet surroundings provide a tranquil moment to rest your legs after an active day of exploration."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:13",
+      "total_km": 4.65,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de España",
+            "hu": "Plaza de España",
+            "ro": "Plaza de España",
+            "en": "Plaza de España"
+          },
+          "coords": [
+            -2.937919,
+            35.292183
+          ],
+          "category": "park",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf der Plaza de España, um die modernistische Architektur zu bewundern, und fotografieren Sie die Brunnen am frühen Morgen.",
+            "hu": "Pihenjen meg a Plaza de España téren, csodálja meg a modernista építészetet, és fotózza le a gyönyörű szökőkutakat még a kora reggeli órákban.",
+            "ro": "Relaxați-vă în Plaza de España pentru a admira arhitectura modernistă și profitați de dimineață pentru a fotografia frumoasele fântâni arteziene.",
+            "en": "Relax at the Plaza de España to admire the Modernist architecture, taking a moment to photograph the beautiful fountains early in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Hospital del Rey",
+            "hu": "Hospital del Rey",
+            "ro": "Hospital del Rey",
+            "en": "Hospital del Rey"
+          },
+          "coords": [
+            -2.932639,
+            35.294008
+          ],
+          "category": "museum",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Hospital del Rey, um Melillas reiche Geschichte zu entdecken, und nehmen Sie sich Zeit für die Ausstellungen in den oberen Etagen.",
+            "hu": "Látogasson el a Hospital del Rey múzeumba Melilla történelmének megismeréséhez, és szánjon időt a felső szintek informatív kiállításaira is.",
+            "ro": "Vizitați Hospital del Rey pentru a descoperi istoria bogată a Melillei, lăsând timp pentru a explora expozițiile informative de la etajele superioare.",
+            "en": "Visit the Hospital del Rey to uncover the rich history of Melilla, leaving some time to browse the informative exhibits on the upper floors."
+          }
+        },
+        {
+          "name": {
+            "de": "Mezquita Central",
+            "hu": "Mezquita Central",
+            "ro": "Mezquita Central",
+            "en": "Mezquita Central"
+          },
+          "coords": [
+            -2.945102,
+            35.295795
+          ],
+          "category": "landmark",
+          "arrive_at": "12:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Halten Sie an der Mezquita Central, um das elegante Minarett zu bewundern; kommen Sie außerhalb der Gebetszeiten, um die Architektur zu genießen.",
+            "hu": "Álljon meg a Mezquita Centralnál, hogy megcsodálja elegáns minaretjét; látogasson imaidőn kívül, hogy kívülről is értékelje az építészeti szépséget.",
+            "ro": "Opriți-vă la Mezquita Central pentru a-i admira minaretul elegant, vizitând-o în afara orelor de rugăciune pentru a aprecia arhitectura din exterior.",
+            "en": "Stop by the Mezquita Central to admire its elegant minaret, visiting during non-prayer times to appreciate the architectural beauty from the outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Fortín de San Francisco",
+            "hu": "Fortín de San Francisco",
+            "ro": "Fortín de San Francisco",
+            "en": "Fortín de San Francisco"
+          },
+          "coords": [
+            -2.94648,
+            35.295883
+          ],
+          "category": "fortress",
+          "arrive_at": "12:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie das Fortín de San Francisco für einen Einblick in die kolonialen Verteidigungsanlagen; bringen Sie Wasser mit, da es kaum Schatten gibt.",
+            "hu": "Fedezze fel a Fortín de San Francisco erődöt, és hozzon magával vizet, mivel a környéken és a gyarmati védművek között kevés az árnyékos terület.",
+            "ro": "Explorați Fortín de San Francisco pentru a vedea apărările coloniale, aducând apă, deoarece există puține zone umbrite în jurul acestei fortărețe.",
+            "en": "Explore the Fortín de San Francisco for a glimpse into the colonial defenses, bringing a bottle of water as there are few shaded areas around it."
+          }
+        },
+        {
+          "name": {
+            "de": "Fortín de Reina Regente",
+            "hu": "Fortín de Reina Regente",
+            "ro": "Fortín de Reina Regente",
+            "en": "Fortín de Reina Regente"
+          },
+          "coords": [
+            -2.957814,
+            35.29842
+          ],
+          "category": "castle",
+          "arrive_at": "13:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Besichtigen Sie das Fortín de Reina Regente, um mehr über seine Ursprünge im 19. Jahrhundert zu erfahren, ideal kombiniert mit einer landschaftlichen Fahrt.",
+            "hu": "Járja be a Fortín de Reina Regente erődöt a 19. századi eredet megismeréséhez, és kösse össze ezt a látogatást egy festői autózással a város peremén.",
+            "ro": "Vizitați Fortín de Reina Regente pentru a afla despre originile sale din secolul al XIX-lea, combinând această vizită cu o plimbare pitorească cu mașina.",
+            "en": "Tour the Fortín de Reina Regente to learn about its 19th-century origins, pairing this visit with a scenic drive around the outskirts of the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Fuerte de la Purísima Concepción",
+            "hu": "Fuerte de la Purísima Concepción",
+            "ro": "Fuerte de la Purísima Concepción",
+            "en": "Fuerte de la Purísima Concepción"
+          },
+          "coords": [
+            -2.965349,
+            35.283241
+          ],
+          "category": "castle",
+          "arrive_at": "15:23",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag im Fuerte de la Purísima Concepción und nutzen Sie das goldene Licht des späten Nachmittags für atemberaubende Fotografien.",
+            "hu": "Fejezze be a napját a Fuerte de la Purísima Concepción erődnél, kihasználva a késő délutáni aranyfényt, hogy lenyűgöző fotókat készítsen a falakról.",
+            "ro": "Încheiați ziua la Fuerte de la Purísima Concepción, profitând de lumina aurie a după-amiezii târzii pentru a face fotografii uimitoare ale zidurilor.",
+            "en": "End your day at the Fuerte de la Purísima Concepción, taking advantage of the late afternoon golden light to capture stunning photographs of the walls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt an der ikonischen Plaza de España. Nach einem Morgenkaffee fahren Sie zum Hospital del Rey, um in den reichen Teppich von Melillas Vergangenheit einzutauchen.\n\nMittags machen Sie eine kurze Fahrt zur Mezquita Central, bevor es weiter zum Fortín de San Francisco geht, um die Überreste der kolonialen Verteidigungsanlagen zu erkunden.\n\nIm Laufe des Nachmittags steuern Sie das Fortín de Reina Regente an. Die Fahrt dorthin bietet malerische Ausblicke auf die Außenbezirke und bereitet auf die Geschichte vor.\n\nIhr Tag gipfelt im Fuerte de la Purísima Concepción. Wenn Sie am späten Nachmittag ankommen, können Sie das goldene Licht an den alten, imposanten Steinmauern perfekt einfangen.",
+        "hu": "Kezdje autós túráját az ikonikus Plaza de España téren. Egy gyors reggeli kávé után hajtson a Hospital del Rey múzeumhoz, hogy elmerüljön Melilla múltjának gazdag szövevényében.\n\nDélben tegyen egy rövid utat a Mezquita Central megtekintéséhez, majd folytassa útját a Fortín de San Francisco felé, hogy felfedezze a város gyarmati védműveinek maradványait.\n\nA délután folyamán navigáljon a Fortín de Reina Regente felé. Maga az út is festői bepillantást enged a peremkerületekre, tökéletesen előkészítve a történelmi felfedezést.\n\nA nap a Fuerte de la Purísima Concepción erődnél csúcsosodik ki. A késő délutáni érkezés lehetővé teszi, hogy megörökítse az ősi kőfalakat az aranyóra csodás fényeiben.",
+        "ro": "Începeți itinerariul auto la emblematica Plaza de España. După o cafea, conduceți până la Hospital del Rey pentru a vă cufunda în bogata tapiserie a trecutului orașului Melilla.\n\nLa prânz, faceți o scurtă plimbare pentru a vedea Mezquita Central, apoi continuați spre Fortín de San Francisco pentru a explora rămășițele apărărilor coloniale ale orașului.\n\nPe măsură ce după-amiaza avansează, navigați către Fortín de Reina Regente. Călătoria în sine oferă imagini pitorești ale periferiei, pregătind perfect explorarea istorică.\n\nZiua culminează la Fuerte de la Purísima Concepción. Ajungând la sfârșitul după-amiezii vă permite să surprindeți lumina orei de aur pe zidurile antice și impunătoare.",
+        "en": "Start your driving itinerary at the iconic Plaza de España. After a quick morning coffee, drive to the Hospital del Rey to immerse yourself in the rich tapestry of Melilla's past.\n\nFor midday, take a short drive to see the exterior of the Mezquita Central, then continue to Fortín de San Francisco to explore the remnants of the city's colonial defenses under the sun.\n\nAs the afternoon progresses, navigate towards the Fortín de Reina Regente. The drive itself offers scenic glimpses of the outskirts, perfectly setting up the historical exploration.\n\nYour day culminates at the Fuerte de la Purísima Concepción. Arriving in the late afternoon allows you to capture the golden hour light against the ancient, imposing stone walls."
+      }
+    }
+  }
+}

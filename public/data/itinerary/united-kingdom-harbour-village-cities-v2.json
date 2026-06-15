@@ -1,0 +1,497 @@
+{
+  "city_id": "united-kingdom-harbour-village-cities-v2",
+  "anchor": {
+    "name": "Harbour Village",
+    "coords": [
+      -4.99016,
+      52.01256
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:54",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ocean Lab",
+            "hu": "Ocean Lab",
+            "ro": "Ocean Lab",
+            "en": "Ocean Lab"
+          },
+          "coords": [
+            -4.991222,
+            52.002026
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 55,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie im Ocean Lab die faszinierende Meereswelt der örtlichen Küste, wobei Sie Ihren Besuch passend zu den interaktiven Fütterungen planen sollten.",
+            "hu": "Fedezze fel a helyi partvidék lenyűgöző tengeri élővilágát az Ocean Labban, és mindenképpen időzítse látogatását az interaktív etetések egyikére.",
+            "ro": "Descoperiți fascinanta viață marină a coastei locale la Ocean Lab, planificându-vă vizita pentru a prinde una dintre sesiunile interactive de hrănire.",
+            "en": "Discover the fascinating marine life of the local coast at Ocean Lab, where you should time your visit to catch one of the interactive feeding sessions."
+          }
+        },
+        {
+          "name": {
+            "de": "St Peters",
+            "hu": "St Peters",
+            "ro": "St Peters",
+            "en": "St Peters"
+          },
+          "coords": [
+            -4.999034,
+            52.002124
+          ],
+          "category": "religious",
+          "arrive_at": "10:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne Architektur und friedliche Atmosphäre von St Peters und nehmen Sie sich Zeit für die Gedenktafeln zur maritimen Geschichte des Dorfes.",
+            "hu": "Csodálja meg a St Peters gyönyörű építészetét és békés hangulatát, majd szánjon időt a falu tengerészeti történelmét bemutató emléktáblák elolvasására.",
+            "ro": "Admirați arhitectura frumoasă și atmosfera pașnică de la St Peters, luându-vă un moment pentru a citi plăcile comemorative despre istoria maritimă a satului.",
+            "en": "Admire the beautiful architecture and peaceful atmosphere of St Peters, and take a moment to read the memorial plaques that detail the village's maritime history."
+          }
+        },
+        {
+          "name": {
+            "de": "Bethel English Baptist Church",
+            "hu": "Bethel English Baptist Church",
+            "ro": "Biserica Baptistă Engleză Bethel",
+            "en": "Bethel English Baptist Church"
+          },
+          "coords": [
+            -4.978753,
+            51.995387
+          ],
+          "category": "religious",
+          "arrive_at": "11:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erleben Sie die stille Ehrfurcht der Bethel English Baptist Church und achten Sie auf die wunderschön gefertigten Holzbänke sowie das einfallende natürliche Licht.",
+            "hu": "Tapasztalja meg a Bethel English Baptist Church csendes áhítatát, különös figyelmet fordítva a gyönyörűen megmunkált fapadokra és a beáradó természetes fényre.",
+            "ro": "Experimentați reverența tăcută a Bisericii Baptiste Engleze Bethel, remarcând băncile din lemn frumos lucrate și lumina naturală care pătrunde prin ferestre.",
+            "en": "Experience the quiet reverence of the Bethel English Baptist Church, taking note of the beautifully crafted wooden pews and the natural light streaming through the windows."
+          }
+        },
+        {
+          "name": {
+            "de": "London House Gallery",
+            "hu": "London House Gallery",
+            "ro": "London House Gallery",
+            "en": "London House Gallery"
+          },
+          "coords": [
+            -4.97654,
+            51.993808
+          ],
+          "category": "museum",
+          "arrive_at": "11:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die hervorragende Sammlung regionaler Kunstwerke in der London House Gallery und fragen Sie das Personal nach den Inspirationen der lokalen Künstler.",
+            "hu": "Fedezze fel a regionális művészeti alkotások kiváló gyűjteményét a London House Galleryben, és bátran kérdezze meg a barátságos személyzetet a helyi művészekről.",
+            "ro": "Explorați o colecție superbă de opere de artă regionale la London House Gallery și asigurați-vă că întrebați personalul prietenos despre inspirațiile artiștilor locali.",
+            "en": "Explore a superb collection of regional artworks at the London House Gallery, and be sure to ask the friendly staff about the inspirations behind the featured local artists."
+          }
+        },
+        {
+          "name": {
+            "de": "Gorsedd Circle",
+            "hu": "Gorsedd Circle",
+            "ro": "Gorsedd Circle",
+            "en": "Gorsedd Circle"
+          },
+          "coords": [
+            -4.974905,
+            51.99646
+          ],
+          "category": "historical",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Reisen Sie am mystischen Gorsedd Circle in die Vergangenheit, wobei festes Schuhwerk empfohlen wird, um das unebene Gelände rund um die Steine bequem zu erkunden.",
+            "hu": "Lépjen vissza az időben a misztikus Gorsedd Circlenél, ahol érdemes kényelmes túracipőt viselni, hogy könnyedén bejárhassa a köveket körülvevő füves, egyenetlen terepet.",
+            "ro": "Întoarceți-vă în timp la misticul Gorsedd Circle, unde se recomandă purtarea de încălțăminte robustă pentru a explora confortabil terenul cu iarbă din jurul pietrelor.",
+            "en": "Step back in time at the mystical Gorsedd Circle, where wearing sturdy walking shoes is recommended to comfortably explore the uneven grassy terrain surrounding the stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Fishguard Fort",
+            "hu": "Fishguard Fort",
+            "ro": "Fishguard Fort",
+            "en": "Fishguard Fort"
+          },
+          "coords": [
+            -4.970176,
+            52.001157
+          ],
+          "category": "castle",
+          "arrive_at": "15:04",
+          "stay_min": 110,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie atemberaubende Küstenpanoramen von den historischen Ruinen des Fishguard Fort, und bringen Sie eine leichte Jacke mit, da die Meeresbrise hier frisch sein kann.",
+            "hu": "Gyönyörködjön a lélegzetelállító tengerparti panorámában a Fishguard Fort történelmi romjaitól, és hozzon magával egy könnyű kabátot, mert a tengeri szellő élénk lehet.",
+            "ro": "Bucurați-vă de panoramele de coastă uluitoare de la ruinele istorice ale Fishguard Fort, aducând o jachetă ușoară deoarece briza mării poate fi destul de puternică aici.",
+            "en": "Take in the breathtaking coastal panoramas from the historic ruins of Fishguard Fort, bringing a light jacket as the sea breeze here can be quite brisk even in summer."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit einem entspannten Spaziergang zum Ocean Lab, bevor Sie das historische St Peters besuchen. Am Mittag können Sie die ruhige Atmosphäre der Bethel English Baptist Church genießen und lokale Kunst in der London House Gallery bewundern. Am Nachmittag begeben Sie sich am Gorsedd Circle auf historische Spuren, bevor der Tag am Fishguard Fort mit spektakulärem Blick endet.",
+        "hu": "Kezdje a reggelt egy sétával az Ocean Labhoz, majd látogasson el a történelmi St Peters templomba. Délben élvezze a Bethel English Baptist Church csendjét és a London House Gallery művészetét. Délután fedezze fel a Gorsedd Circle ősi történetét. A napot a Fishguard Fortnál zárja, ahol lenyűgöző esti kilátás nyílik a festői tengerpartra és a kikötőre.",
+        "ro": "Începeți dimineața cu o plimbare relaxantă la Ocean Lab, înainte de a vizita istoricul St Peters. La prânz, bucurați-vă de liniștea Bisericii Bethel și de arta locală de la London House Gallery. După-amiaza, descoperiți istoria antică la Gorsedd Circle. Ziua se încheie la Fishguard Fort, admirând vederile spectaculoase de seară asupra coastei.",
+        "en": "Start your morning with a relaxed stroll to the Ocean Lab, discovering local marine life, before visiting the historic St Peters. By midday, embrace the quiet ambiance of the Bethel English Baptist Church and enjoy local art at the London House Gallery. In the afternoon, trace ancient history at the Gorsedd Circle. Your day concludes at Fishguard Fort, taking in the spectacular evening coastal views."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:06",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "St Gwyndaf",
+            "hu": "St Gwyndaf",
+            "ro": "St Gwyndaf",
+            "en": "St Gwyndaf"
+          },
+          "coords": [
+            -5.014884,
+            52.016056
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie das charmante St Gwyndaf, um sein tief verwurzeltes Erbe zu würdigen, und schlendern Sie über den Kirchhof, um faszinierende alte Grabsteine zu entdecken.",
+            "hu": "Látogasson el a bájos St Gwyndafba, hogy értékelje a mélyen gyökerező helyi örökséget, és sétáljon végig a kis templomkerten, hogy ősi sírköveket fedezzen fel.",
+            "ro": "Vizitați fermecătorul St Gwyndaf pentru a-i aprecia moștenirea locală și plimbați-vă prin curtea bisericii pentru a găsi pietre funerare antice cu detalii fascinante.",
+            "en": "Visit the charming St Gwyndaf to appreciate its deeply rooted local heritage, and walk around the small churchyard to find ancient headstones etched with fascinating details."
+          }
+        },
+        {
+          "name": {
+            "de": "Carreg Samson",
+            "hu": "Carreg Samson",
+            "ro": "Carreg Samson",
+            "en": "Carreg Samson"
+          },
+          "coords": [
+            -5.013216,
+            52.012871
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die beeindruckende megalithische Struktur von Carreg Samson und kommen Sie am frühen Morgen, um die besten Fotos ohne die grelle Mittagssonne zu machen.",
+            "hu": "Csodálja meg a Carreg Samson lenyűgöző megalitikus szerkezetét, és érkezzen kora reggel, hogy a legjobb fotókat készíthesse el a déli nap erős fénye nélkül.",
+            "ro": "Minunați-vă de impresionanta structură megalitică Carreg Samson și vizitați-o dimineața devreme pentru a face cele mai bune fotografii fără strălucirea soarelui de amiază.",
+            "en": "Marvel at the impressive megalithic structure of Carreg Samson, and visit during the early morning hours to capture the best photographs without the glare of the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Garnwnda Burial Chamber",
+            "hu": "Garnwnda Burial Chamber",
+            "ro": "Garnwnda Burial Chamber",
+            "en": "Garnwnda Burial Chamber"
+          },
+          "coords": [
+            -5.011176,
+            52.011441
+          ],
+          "category": "historical",
+          "arrive_at": "11:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die antiken Geheimnisse der Garnwnda Burial Chamber und achten Sie bei nassem Wetter auf die schlammigen Zugangswege, um einen sicheren Besuch zu gewährleisten.",
+            "hu": "Fedezze fel a Garnwnda Burial Chamber ősi rejtélyeit, és nedves időben ügyeljen a saras megközelítési utakra a biztonságos és élvezetes látogatás érdekében.",
+            "ro": "Explorați misterele antice de la Garnwnda Burial Chamber, fiind atenți la potecile noroioase pe vreme umedă pentru a vă asigura o vizită sigură și plăcută.",
+            "en": "Explore the ancient mysteries of the Garnwnda Burial Chamber, being mindful of the muddy approach paths during wet weather to ensure a safe and enjoyable visit."
+          }
+        },
+        {
+          "name": {
+            "de": "St Peters",
+            "hu": "St Peters",
+            "ro": "St Peters",
+            "en": "St Peters"
+          },
+          "coords": [
+            -4.999034,
+            52.002124
+          ],
+          "category": "religious",
+          "arrive_at": "12:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne Architektur und friedliche Atmosphäre von St Peters und nehmen Sie sich Zeit für die Gedenktafeln zur maritimen Geschichte des Dorfes.",
+            "hu": "Csodálja meg a St Peters gyönyörű építészetét és békés hangulatát, majd szánjon időt a falu tengerészeti történelmét bemutató emléktáblák elolvasására.",
+            "ro": "Admirați arhitectura frumoasă și atmosfera pașnică de la St Peters, luându-vă un moment pentru a citi plăcile comemorative despre istoria maritimă a satului.",
+            "en": "Admire the beautiful architecture and peaceful atmosphere of St Peters, and take a moment to read the memorial plaques that detail the village's maritime history."
+          }
+        },
+        {
+          "name": {
+            "de": "Ocean Lab",
+            "hu": "Ocean Lab",
+            "ro": "Ocean Lab",
+            "en": "Ocean Lab"
+          },
+          "coords": [
+            -4.991222,
+            52.002026
+          ],
+          "category": "landmark",
+          "arrive_at": "13:23",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie im Ocean Lab die faszinierende Meereswelt der örtlichen Küste, wobei Sie Ihren Besuch passend zu den interaktiven Fütterungen planen sollten.",
+            "hu": "Fedezze fel a helyi partvidék lenyűgöző tengeri élővilágát az Ocean Labban, és mindenképpen időzítse látogatását az interaktív etetések egyikére.",
+            "ro": "Descoperiți fascinanta viață marină a coastei locale la Ocean Lab, planificându-vă vizita pentru a prinde una dintre sesiunile interactive de hrănire.",
+            "en": "Discover the fascinating marine life of the local coast at Ocean Lab, where you should time your visit to catch one of the interactive feeding sessions."
+          }
+        },
+        {
+          "name": {
+            "de": "Fishguard Fort",
+            "hu": "Fishguard Fort",
+            "ro": "Fishguard Fort",
+            "en": "Fishguard Fort"
+          },
+          "coords": [
+            -4.970176,
+            52.001157
+          ],
+          "category": "castle",
+          "arrive_at": "14:16",
+          "stay_min": 110,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Genießen Sie atemberaubende Küstenpanoramen von den historischen Ruinen des Fishguard Fort, und bringen Sie eine leichte Jacke mit, da die Meeresbrise hier frisch sein kann.",
+            "hu": "Gyönyörködjön a lélegzetelállító tengerparti panorámában a Fishguard Fort történelmi romjaitól, és hozzon magával egy könnyű kabátot, mert a tengeri szellő élénk lehet.",
+            "ro": "Bucurați-vă de panoramele de coastă uluitoare de la ruinele istorice ale Fishguard Fort, aducând o jachetă ușoară deoarece briza mării poate fi destul de puternică aici.",
+            "en": "Take in the breathtaking coastal panoramas from the historic ruins of Fishguard Fort, bringing a light jacket as the sea breeze here can be quite brisk even in summer."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie früh zum friedlichen St Gwyndaf und dann weiter zum majestätischen Carreg Samson. Gegen Mittag erkunden Sie die Garnwnda Burial Chamber und besuchen St Peters im Dorfzentrum. Verbringen Sie den Nachmittag damit, im Ocean Lab mehr über Meereslebensräume zu erfahren. Beenden Sie die Tour am Fishguard Fort mit dramatischen Ausblicken.",
+        "hu": "Kerékpározzon ki kora reggel a békés St Gwyndafhoz, majd tekerjen a fenséges Carreg Samson felé. Dél körül fedezze fel a Garnwnda Burial Chambert, majd térjen be a központban a St Petershez. Délután ismerkedjen a tengeri élőhelyekkel az Ocean Labban. Fejezze be az utat egy frissítő tekeréssel a Fishguard Forthoz, csodás alkonyati kilátással.",
+        "ro": "Ciclism devreme către liniștitul St Gwyndaf, apoi pedalați spre maiestuosul Carreg Samson. La prânz, explorați Garnwnda Burial Chamber și vizitați St Peters în centrul satului. Petreceți după-amiaza învățând despre habitatele marine la Ocean Lab. Finalizați traseul cu o plimbare revigorantă până la Fishguard Fort pentru priveliști de amurg.",
+        "en": "Cycle out early to the peaceful St Gwyndaf, then pedal toward the majestic Carreg Samson. As midday approaches, explore the Garnwnda Burial Chamber and head into the village center for a stop at St Peters. Spend your afternoon learning about marine habitats at the Ocean Lab. Finish the route with a refreshing ride to Fishguard Fort for dramatic twilight views over the bay."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:12",
+      "total_km": 5.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Carreg Samson",
+            "hu": "Carreg Samson",
+            "ro": "Carreg Samson",
+            "en": "Carreg Samson"
+          },
+          "coords": [
+            -5.013216,
+            52.012871
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die beeindruckende megalithische Struktur von Carreg Samson und kommen Sie am frühen Morgen, um die besten Fotos ohne die grelle Mittagssonne zu machen.",
+            "hu": "Csodálja meg a Carreg Samson lenyűgöző megalitikus szerkezetét, és érkezzen kora reggel, hogy a legjobb fotókat készíthesse el a déli nap erős fénye nélkül.",
+            "ro": "Minunați-vă de impresionanta structură megalitică Carreg Samson și vizitați-o dimineața devreme pentru a face cele mai bune fotografii fără strălucirea soarelui de amiază.",
+            "en": "Marvel at the impressive megalithic structure of Carreg Samson, and visit during the early morning hours to capture the best photographs without the glare of the midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Garnwnda Burial Chamber",
+            "hu": "Garnwnda Burial Chamber",
+            "ro": "Garnwnda Burial Chamber",
+            "en": "Garnwnda Burial Chamber"
+          },
+          "coords": [
+            -5.011176,
+            52.011441
+          ],
+          "category": "historical",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die antiken Geheimnisse der Garnwnda Burial Chamber und achten Sie bei nassem Wetter auf die schlammigen Zugangswege, um einen sicheren Besuch zu gewährleisten.",
+            "hu": "Fedezze fel a Garnwnda Burial Chamber ősi rejtélyeit, és nedves időben ügyeljen a saras megközelítési utakra a biztonságos és élvezetes látogatás érdekében.",
+            "ro": "Explorați misterele antice de la Garnwnda Burial Chamber, fiind atenți la potecile noroioase pe vreme umedă pentru a vă asigura o vizită sigură și plăcută.",
+            "en": "Explore the ancient mysteries of the Garnwnda Burial Chamber, being mindful of the muddy approach paths during wet weather to ensure a safe and enjoyable visit."
+          }
+        },
+        {
+          "name": {
+            "de": "St Peters",
+            "hu": "St Peters",
+            "ro": "St Peters",
+            "en": "St Peters"
+          },
+          "coords": [
+            -4.999034,
+            52.002124
+          ],
+          "category": "religious",
+          "arrive_at": "11:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne Architektur und friedliche Atmosphäre von St Peters und nehmen Sie sich Zeit für die Gedenktafeln zur maritimen Geschichte des Dorfes.",
+            "hu": "Csodálja meg a St Peters gyönyörű építészetét és békés hangulatát, majd szánjon időt a falu tengerészeti történelmét bemutató emléktáblák elolvasására.",
+            "ro": "Admirați arhitectura frumoasă și atmosfera pașnică de la St Peters, luându-vă un moment pentru a citi plăcile comemorative despre istoria maritimă a satului.",
+            "en": "Admire the beautiful architecture and peaceful atmosphere of St Peters, and take a moment to read the memorial plaques that detail the village's maritime history."
+          }
+        },
+        {
+          "name": {
+            "de": "London House Gallery",
+            "hu": "London House Gallery",
+            "ro": "London House Gallery",
+            "en": "London House Gallery"
+          },
+          "coords": [
+            -4.97654,
+            51.993808
+          ],
+          "category": "museum",
+          "arrive_at": "12:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die hervorragende Sammlung regionaler Kunstwerke in der London House Gallery und fragen Sie das Personal nach den Inspirationen der lokalen Künstler.",
+            "hu": "Fedezze fel a regionális művészeti alkotások kiváló gyűjteményét a London House Galleryben, és bátran kérdezze meg a barátságos személyzetet a helyi művészekről.",
+            "ro": "Explorați o colecție superbă de opere de artă regionale la London House Gallery și asigurați-vă că întrebați personalul prietenos despre inspirațiile artiștilor locali.",
+            "en": "Explore a superb collection of regional artworks at the London House Gallery, and be sure to ask the friendly staff about the inspirations behind the featured local artists."
+          }
+        },
+        {
+          "name": {
+            "de": "Kingdom Hall of Jehovah's Witnesses",
+            "hu": "Kingdom Hall of Jehovah's Witnesses",
+            "ro": "Kingdom Hall of Jehovah's Witnesses",
+            "en": "Kingdom Hall of Jehovah's Witnesses"
+          },
+          "coords": [
+            -4.980744,
+            51.990951
+          ],
+          "category": "religious",
+          "arrive_at": "14:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betrachten Sie das moderne, funktionale Design des lokalen Kingdom Hall, das eine friedliche Umgebung und Einblicke in zeitgenössische religiöse Praktiken bietet.",
+            "hu": "Figyelje meg a helyi Kingdom Hall modern és funkcionális kialakítását, amely békés környezetet és világos betekintést nyújt a közösség kortárs vallási gyakorlatába.",
+            "ro": "Observați designul modern și funcțional al Kingdom Hall local, care oferă un mediu pașnic și perspective clare asupra practicilor religioase contemporane ale comunității.",
+            "en": "Observe the modern, functional design of the local Kingdom Hall, which offers a peaceful environment and clear insights into the community's contemporary religious practices."
+          }
+        },
+        {
+          "name": {
+            "de": "Gorsedd Circle",
+            "hu": "Gorsedd Circle",
+            "ro": "Gorsedd Circle",
+            "en": "Gorsedd Circle"
+          },
+          "coords": [
+            -4.974905,
+            51.99646
+          ],
+          "category": "historical",
+          "arrive_at": "15:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Reisen Sie am mystischen Gorsedd Circle in die Vergangenheit, wobei festes Schuhwerk empfohlen wird, um das unebene Gelände rund um die Steine bequem zu erkunden.",
+            "hu": "Lépjen vissza az időben a misztikus Gorsedd Circlenél, ahol érdemes kényelmes túracipőt viselni, hogy könnyedén bejárhassa a köveket körülvevő füves, egyenetlen terepet.",
+            "ro": "Întoarceți-vă în timp la misticul Gorsedd Circle, unde se recomandă purtarea de încălțăminte robustă pentru a explora confortabil terenul cu iarbă din jurul pietrelor.",
+            "en": "Step back in time at the mystical Gorsedd Circle, where wearing sturdy walking shoes is recommended to comfortably explore the uneven grassy terrain surrounding the stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Fishguard Fort",
+            "hu": "Fishguard Fort",
+            "ro": "Fishguard Fort",
+            "en": "Fishguard Fort"
+          },
+          "coords": [
+            -4.970176,
+            52.001157
+          ],
+          "category": "castle",
+          "arrive_at": "16:22",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie atemberaubende Küstenpanoramen von den historischen Ruinen des Fishguard Fort, und bringen Sie eine leichte Jacke mit, da die Meeresbrise hier frisch sein kann.",
+            "hu": "Gyönyörködjön a lélegzetelállító tengerparti panorámában a Fishguard Fort történelmi romjaitól, és hozzon magával egy könnyű kabátot, mert a tengeri szellő élénk lehet.",
+            "ro": "Bucurați-vă de panoramele de coastă uluitoare de la ruinele istorice ale Fishguard Fort, aducând o jachetă ușoară deoarece briza mării poate fi destul de puternică aici.",
+            "en": "Take in the breathtaking coastal panoramas from the historic ruins of Fishguard Fort, bringing a light jacket as the sea breeze here can be quite brisk even in summer."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt am antiken Carreg Samson und der Garnwnda Burial Chamber. Mittags fahren Sie ins Dorfzentrum zu St Peters und den faszinierenden Ausstellungen der London House Gallery. Am Nachmittag halten Sie kurz an der Kingdom Hall und am Gorsedd Circle. Die Fahrt endet perfekt am malerischen Fishguard Fort in der Abenddämmerung.",
+        "hu": "Kezdje autós túráját az ősi Carreg Samsonnál és a Garnwnda Burial Chambernél. Délben a falu szívébe érkezik, ahol megtekintheti a St Peterst és a London House Gallery kiállításait. Délután álljon meg egy pillanatra a Kingdom Hallnál, majd mélyedjen el a múltban a Gorsedd Circlenél. Az út tökéletesen zárul a festői Fishguard Fortnál.",
+        "ro": "Începeți turul cu mașina la anticul Carreg Samson și la Garnwnda Burial Chamber. Prânzul vă aduce în centrul satului pentru St Peters și expozițiile fascinante de la London House Gallery. După-amiaza, opriți scurt la Kingdom Hall și scufundați-vă în trecut la Gorsedd Circle. Traseul se termină perfect la pitorescul Fishguard Fort.",
+        "en": "Begin your driving tour at the ancient Carreg Samson and the nearby Garnwnda Burial Chamber. Midday takes you to the heart of the village for St Peters and the fascinating regional exhibits at the London House Gallery. In the afternoon, stop briefly at the Kingdom Hall and immerse yourself in the past at Gorsedd Circle. The drive finishes perfectly at the scenic Fishguard Fort."
+      }
+    }
+  }
+}

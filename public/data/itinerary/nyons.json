@@ -1,0 +1,543 @@
+{
+  "city_id": "nyons",
+  "anchor": {
+    "name": "Nyons",
+    "coords": [
+      5.1406,
+      44.3608
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "19:17",
+      "total_km": 2.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Place des Arcades",
+            "hu": "Place des Arcades",
+            "ro": "Place des Arcades",
+            "en": "Place des Arcades"
+          },
+          "coords": [
+            5.140486,
+            44.360679
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die mittelalterliche Architektur dieses historischen Platzes im Herzen der Stadt und genießen Sie einen Morgenkaffee unter den Steinbögen.",
+            "hu": "Csodálja meg ennek a történelmi térnek a középkori építészetét, amely a város hagyományos központja, és igyon meg egy reggeli kávét a kőárkádok alatt.",
+            "ro": "Admirați arhitectura medievală frumoasă a acestei piețe istorice, inima tradițională a orașului, și savurați o cafea de dimineață sub arcadele de piatră.",
+            "en": "Admire the beautiful medieval architecture of this historic square, the traditional heart of the town, and enjoy a morning coffee under the shaded stone arches."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Vincent",
+            "hu": "Saint-Vincent templom",
+            "ro": "Biserica Saint-Vincent",
+            "en": "Saint-Vincent Church"
+          },
+          "coords": [
+            5.141669,
+            44.360832
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte dieser alten Kirche mit ihrem markanten Glockenturm, aber denken Sie daran, die ruhige Atmosphäre während der Gottesdienste zu respektieren.",
+            "hu": "Fedezze fel ennek a feltűnő harangtornyú, ősi templomnak a gazdag történelmét, de ne felejtse el tiszteletben tartani a csendes légkört a helyi istentiszteletek idején.",
+            "ro": "Descoperiți istoria bogată a acestei biserici antice cu clopotnița sa impresionantă, dar asigurați-vă că respectați atmosfera liniștită în timpul slujbelor locale.",
+            "en": "Discover the rich history of this ancient church with its striking bell tower, an important religious site, but remember to respect the quiet atmosphere during local services."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour Randonne",
+            "hu": "Tour Randonne",
+            "ro": "Turnul Randonne",
+            "en": "Tour Randonne"
+          },
+          "coords": [
+            5.141078,
+            44.362251
+          ],
+          "category": "religious",
+          "arrive_at": "11:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Steigen Sie auf diesen ikonischen Turm, der spektakuläre Panoramablicke bietet, und stellen Sie sicher, dass Sie für die steilen mittelalterlichen Wege feste Schuhe tragen.",
+            "hu": "Másszon fel erre az ikonikus toronyra, amely látványos panorámát nyújt a völgyre, és ügyeljen arra, hogy erős cipőt viseljen a meredek középkori ösvényeken való sétához.",
+            "ro": "Urcați în acest turn iconic care oferă vederi panoramice spectaculoase asupra văii, asigurându-vă că purtați încălțăminte rezistentă pentru cărările medievale abrupte.",
+            "en": "Climb up to this iconic religious tower offering spectacular panoramic views over the town and valley, making sure to wear sturdy shoes for the steep medieval pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Römerbrücke",
+            "hu": "Római híd",
+            "ro": "Podul Roman",
+            "en": "Roman Bridge"
+          },
+          "coords": [
+            5.144078,
+            44.35991
+          ],
+          "category": "historical",
+          "arrive_at": "12:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie über diese gut erhaltene römische Brücke über den Fluss und machen Sie im Nachmittagslicht Ihre besten Fotos vom Ufer aus, um das Bauwerk festzuhalten.",
+            "hu": "Sétáljon át a folyón átívelő, tökéletesen megőrzött római hídon, amely igazi mérnöki csoda, és készítse el legjobb fotóit a lenti folyópartról a délutáni fényekben.",
+            "ro": "Plimbați-vă peste acest pod roman perfect conservat, o adevărată minune inginerească, și faceți cele mai bune fotografii de pe malul râului în lumina caldă a după-amiezii.",
+            "en": "Walk across this perfectly preserved Roman bridge spanning the river, a true engineering marvel, and take your best photos from the riverbank below in the afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "Scourtinerie",
+            "hu": "Scourtinerie",
+            "ro": "Scourtinerie",
+            "en": "Scourtinerie"
+          },
+          "coords": [
+            5.147215,
+            44.36134
+          ],
+          "category": "museum",
+          "arrive_at": "13:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die letzte verbliebene Fabrik, die traditionelle Olivenölfilter webt, und erwägen Sie den Kauf einer authentischen gewebten Matte als lokales Andenken.",
+            "hu": "Fedezze fel az utolsó fennmaradt gyárat, amely hagyományos olívaolaj-szűrőket sző, és fontolja meg egy autentikus szőtt szőnyeg vásárlását egyedi helyi ajándékként.",
+            "ro": "Explorați ultima fabrică rămasă care țese filtre tradiționale pentru ulei de măsline și luați în considerare achiziționarea unui covoraș autentic ca suvenir local inedit.",
+            "en": "Explore the last remaining factory weaving traditional olive oil filters, a unique piece of industrial heritage, and consider buying an authentic woven mat as a local souvenir."
+          }
+        },
+        {
+          "name": {
+            "de": "Distillerie Bleu Provence",
+            "hu": "Distillerie Bleu Provence",
+            "ro": "Distillerie Bleu Provence",
+            "en": "Distillerie Bleu Provence"
+          },
+          "coords": [
+            5.141494,
+            44.359249
+          ],
+          "category": "cultural",
+          "arrive_at": "15:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die duftende Welt der Lavendeldestillation in dieser historischen Anlage ein und besuchen Sie den hauseigenen Laden, um reine ätherische Öle zu erwerben.",
+            "hu": "Merüljön el a levendula lepárlás illatos világában ebben a történelmi létesítményben, amely egy igazi provence-i élmény, és látogasson el a boltba tiszta illóolajokért.",
+            "ro": "Cufundați-vă în lumea parfumată a distilării lavandei la această facilitate istorică, o experiență tipic provensală, și vizitați magazinul pentru uleiuri esențiale pure.",
+            "en": "Immerse yourself in the fragrant world of lavender distillation at this historic facility, a quintessential Provence experience, and visit the shop for pure essential oils."
+          }
+        },
+        {
+          "name": {
+            "de": "Olivenmuseum",
+            "hu": "Olívamúzeum",
+            "ro": "Muzeul Măslinului",
+            "en": "Musée de l'Olivier"
+          },
+          "coords": [
+            5.132732,
+            44.360828
+          ],
+          "category": "museum",
+          "arrive_at": "17:07",
+          "stay_min": 130,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem Museum alles über den Anbau der berühmten schwarzen Nyons-Oliven und verpassen Sie am Ende nicht die Verkostung der köstlichen lokalen Produkte.",
+            "hu": "Tudjon meg mindent a híres fekete olajbogyó termesztéséről ebben a dedikált múzeumban, amely egy lenyűgöző utazás, és semmiképp se hagyja ki a végén a kóstolót.",
+            "ro": "Aflați totul despre cultivarea celebrelor măsline negre în acest muzeu dedicat, o călătorie agricolă fascinantă, și nu ratați sesiunea de degustare de la sfârșitul vizitei.",
+            "en": "Learn everything about the cultivation of the famous Nyons black olives in this dedicated museum, a fascinating agricultural journey, and don't miss the tasting session at the end."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im historischen Herzen von Nyons rund um die Arkaden und die nahegelegene Kirche. Mittags steigen Sie zum markanten Turm hinauf, bevor Sie die römische Brücke überqueren. Nachmittags entdecken Sie lokales Erbe in der alten Filterfabrik und der Lavendeldestillerie. Der Abend endet mit einem Erlebnis im Olivenmuseum.",
+        "hu": "Kezdje a reggelt Nyons történelmi központjának felfedezésével az árkádok és a közeli templom körül. Délben feljut az ikonikus toronyhoz, majd átkel a lenyűgöző római hídon. Délután fedezze fel a helyi örökséget a szűrőgyárban és a levendulalepárlóban. Az estét egy izgalmas olívamúzeumi élmény zárja.",
+        "ro": "Începeți dimineața explorând centrul istoric al orașului Nyons, în jurul arcadelor tradiționale și al bisericii din apropiere. La prânz, urcați spre turnul iconic înainte de a traversa remarcabilul pod roman. După-amiaza, descoperiți patrimoniul local la vechea fabrică de filtre și la distileria de lavandă. Seara se încheie cu o experiență la muzeul măslinului.",
+        "en": "Start your morning exploring the historic heart of Nyons around the traditional arcades and the nearby church. Midday brings you up to the iconic tower before crossing the remarkable Roman bridge. In the afternoon, discover local heritage at the ancient filter factory and the lavender distillery. The evening concludes with an immersive olive museum experience."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:20",
+      "total_km": 2.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Tour Randonne",
+            "hu": "Tour Randonne",
+            "ro": "Turnul Randonne",
+            "en": "Tour Randonne"
+          },
+          "coords": [
+            5.141078,
+            44.362251
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Steigen Sie auf diesen ikonischen Turm, der spektakuläre Panoramablicke bietet, und stellen Sie sicher, dass Sie für die steilen mittelalterlichen Wege feste Schuhe tragen.",
+            "hu": "Másszon fel erre az ikonikus toronyra, amely látványos panorámát nyújt a völgyre, és ügyeljen arra, hogy erős cipőt viseljen a meredek középkori ösvényeken való sétához.",
+            "ro": "Urcați în acest turn iconic care oferă vederi panoramice spectaculoase asupra văii, asigurându-vă că purtați încălțăminte rezistentă pentru cărările medievale abrupte.",
+            "en": "Climb up to this iconic religious tower offering spectacular panoramic views over the town and valley, making sure to wear sturdy shoes for the steep medieval pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Place des Arcades",
+            "hu": "Place des Arcades",
+            "ro": "Place des Arcades",
+            "en": "Place des Arcades"
+          },
+          "coords": [
+            5.140486,
+            44.360679
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die mittelalterliche Architektur dieses historischen Platzes im Herzen der Stadt und genießen Sie einen Morgenkaffee unter den Steinbögen.",
+            "hu": "Csodálja meg ennek a történelmi térnek a középkori építészetét, amely a város hagyományos központja, és igyon meg egy reggeli kávét a kőárkádok alatt.",
+            "ro": "Admirați arhitectura medievală frumoasă a acestei piețe istorice, inima tradițională a orașului, și savurați o cafea de dimineață sub arcadele de piatră.",
+            "en": "Admire the beautiful medieval architecture of this historic square, the traditional heart of the town, and enjoy a morning coffee under the shaded stone arches."
+          }
+        },
+        {
+          "name": {
+            "de": "Römerbrücke",
+            "hu": "Római híd",
+            "ro": "Podul Roman",
+            "en": "Roman Bridge"
+          },
+          "coords": [
+            5.144078,
+            44.35991
+          ],
+          "category": "historical",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie über diese gut erhaltene römische Brücke über den Fluss und machen Sie im Nachmittagslicht Ihre besten Fotos vom Ufer aus, um das Bauwerk festzuhalten.",
+            "hu": "Sétáljon át a folyón átívelő, tökéletesen megőrzött római hídon, amely igazi mérnöki csoda, és készítse el legjobb fotóit a lenti folyópartról a délutáni fényekben.",
+            "ro": "Plimbați-vă peste acest pod roman perfect conservat, o adevărată minune inginerească, și faceți cele mai bune fotografii de pe malul râului în lumina caldă a după-amiezii.",
+            "en": "Walk across this perfectly preserved Roman bridge spanning the river, a true engineering marvel, and take your best photos from the riverbank below in the afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "Scourtinerie",
+            "hu": "Scourtinerie",
+            "ro": "Scourtinerie",
+            "en": "Scourtinerie"
+          },
+          "coords": [
+            5.147215,
+            44.36134
+          ],
+          "category": "museum",
+          "arrive_at": "12:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die letzte verbliebene Fabrik, die traditionelle Olivenölfilter webt, und erwägen Sie den Kauf einer authentischen gewebten Matte als lokales Andenken.",
+            "hu": "Fedezze fel az utolsó fennmaradt gyárat, amely hagyományos olívaolaj-szűrőket sző, és fontolja meg egy autentikus szőtt szőnyeg vásárlását egyedi helyi ajándékként.",
+            "ro": "Explorați ultima fabrică rămasă care țese filtre tradiționale pentru ulei de măsline și luați în considerare achiziționarea unui covoraș autentic ca suvenir local inedit.",
+            "en": "Explore the last remaining factory weaving traditional olive oil filters, a unique piece of industrial heritage, and consider buying an authentic woven mat as a local souvenir."
+          }
+        },
+        {
+          "name": {
+            "de": "Distillerie Bleu Provence",
+            "hu": "Distillerie Bleu Provence",
+            "ro": "Distillerie Bleu Provence",
+            "en": "Distillerie Bleu Provence"
+          },
+          "coords": [
+            5.141494,
+            44.359249
+          ],
+          "category": "cultural",
+          "arrive_at": "14:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die duftende Welt der Lavendeldestillation in dieser historischen Anlage ein und besuchen Sie den hauseigenen Laden, um reine ätherische Öle zu erwerben.",
+            "hu": "Merüljön el a levendula lepárlás illatos világában ebben a történelmi létesítményben, amely egy igazi provence-i élmény, és látogasson el a boltba tiszta illóolajokért.",
+            "ro": "Cufundați-vă în lumea parfumată a distilării lavandei la această facilitate istorică, o experiență tipic provensală, și vizitați magazinul pentru uleiuri esențiale pure.",
+            "en": "Immerse yourself in the fragrant world of lavender distillation at this historic facility, a quintessential Provence experience, and visit the shop for pure essential oils."
+          }
+        },
+        {
+          "name": {
+            "de": "Olivenmuseum",
+            "hu": "Olívamúzeum",
+            "ro": "Muzeul Măslinului",
+            "en": "Musée de l'Olivier"
+          },
+          "coords": [
+            5.132732,
+            44.360828
+          ],
+          "category": "museum",
+          "arrive_at": "16:06",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem Museum alles über den Anbau der berühmten schwarzen Nyons-Oliven und verpassen Sie am Ende nicht die Verkostung der köstlichen lokalen Produkte.",
+            "hu": "Tudjon meg mindent a híres fekete olajbogyó termesztéséről ebben a dedikált múzeumban, amely egy lenyűgöző utazás, és semmiképp se hagyja ki a végén a kóstolót.",
+            "ro": "Aflați totul despre cultivarea celebrelor măsline negre în acest muzeu dedicat, o călătorie agricolă fascinantă, și nu ratați sesiunea de degustare de la sfârșitul vizitei.",
+            "en": "Learn everything about the cultivation of the famous Nyons black olives in this dedicated museum, a fascinating agricultural journey, and don't miss the tasting session at the end."
+          }
+        },
+        {
+          "name": {
+            "de": "Garten der Aromen",
+            "hu": "Aromák kertje",
+            "ro": "Grădina Aromelor",
+            "en": "Jardin des Arômes"
+          },
+          "coords": [
+            5.1343,
+            44.3555
+          ],
+          "category": "natural",
+          "arrive_at": "17:50",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen bezaubernden Garten voller aromatischer Kräuter und Heilpflanzen und lesen Sie die informativen Tafeln, um jede duftende Art zu identifizieren.",
+            "hu": "Sétáljon végig ezen az aromás fűszernövényekkel teli elragadó kerten, amely igazi érzékszervi élvezet, és olvassa el az információs táblákat minden fajta azonosításához.",
+            "ro": "Plimbați-vă prin această grădină încântătoare plină de ierburi aromatice, o adevărată bucurie senzorială, și citiți plăcuțele informative pentru a identifica fiecare specie.",
+            "en": "Wander through this delightful garden filled with aromatic herbs and medicinal plants, a sensory delight, and read the informative plaques to identify each fragrant species."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie in den Morgen, beginnend am malerischen Turm, und rollen Sie dann zum historischen Hauptplatz. Mittags erwartet Sie eine Fahrt zur römischen Brücke, bevor Sie in der Weberei in die industrielle Vergangenheit eintauchen. Nachmittags genießen Sie die Düfte der Destillerie und des Olivenmuseums. Beenden Sie den Tag entspannt in den aromatischen Gärten.",
+        "hu": "Induljon a reggel a festői toronynál, majd guruljon le a történelmi főtérre. Délben egy látványos kerékpározás következik a római hídhoz, mielőtt elmerülne a szövőgyár ipari múltjában. Délután élvezze a levendulalepárló és az olívamúzeum illatait. Zárja a napot egy pihentető sétával az aromás kertekben.",
+        "ro": "Pedalați dimineața începând de la turnul pitoresc și coborâți apoi spre piața principală istorică. La prânz, bucurați-vă de o plimbare spre podul roman înainte de a explora fabrica de țesături. Petreceți după-amiaza bucurându-vă de parfumurile distileriei de lavandă și ale muzeului măslinului. Încheiați-vă ziua relaxându-vă în grădinile aromatice pline de farmec.",
+        "en": "Pedal into the morning starting at the scenic tower and then coast down to the historic main square. Midday features a spectacular ride to the Roman bridge before diving into the town's industrial past at the weaving factory. Spend your afternoon enjoying the scents of the lavender distillery and the olive museum. Conclude your day relaxing in the aromatic gardens."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:12",
+      "total_km": 2.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Garten der Aromen",
+            "hu": "Aromák kertje",
+            "ro": "Grădina Aromelor",
+            "en": "Jardin des Arômes"
+          },
+          "coords": [
+            5.1343,
+            44.3555
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen bezaubernden Garten voller aromatischer Kräuter und Heilpflanzen und lesen Sie die informativen Tafeln, um jede duftende Art zu identifizieren.",
+            "hu": "Sétáljon végig ezen az aromás fűszernövényekkel teli elragadó kerten, amely igazi érzékszervi élvezet, és olvassa el az információs táblákat minden fajta azonosításához.",
+            "ro": "Plimbați-vă prin această grădină încântătoare plină de ierburi aromatice, o adevărată bucurie senzorială, și citiți plăcuțele informative pentru a identifica fiecare specie.",
+            "en": "Wander through this delightful garden filled with aromatic herbs and medicinal plants, a sensory delight, and read the informative plaques to identify each fragrant species."
+          }
+        },
+        {
+          "name": {
+            "de": "Olivenmuseum",
+            "hu": "Olívamúzeum",
+            "ro": "Muzeul Măslinului",
+            "en": "Musée de l'Olivier"
+          },
+          "coords": [
+            5.132732,
+            44.360828
+          ],
+          "category": "museum",
+          "arrive_at": "10:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem Museum alles über den Anbau der berühmten schwarzen Nyons-Oliven und verpassen Sie am Ende nicht die Verkostung der köstlichen lokalen Produkte.",
+            "hu": "Tudjon meg mindent a híres fekete olajbogyó termesztéséről ebben a dedikált múzeumban, amely egy lenyűgöző utazás, és semmiképp se hagyja ki a végén a kóstolót.",
+            "ro": "Aflați totul despre cultivarea celebrelor măsline negre în acest muzeu dedicat, o călătorie agricolă fascinantă, și nu ratați sesiunea de degustare de la sfârșitul vizitei.",
+            "en": "Learn everything about the cultivation of the famous Nyons black olives in this dedicated museum, a fascinating agricultural journey, and don't miss the tasting session at the end."
+          }
+        },
+        {
+          "name": {
+            "de": "Place des Arcades",
+            "hu": "Place des Arcades",
+            "ro": "Place des Arcades",
+            "en": "Place des Arcades"
+          },
+          "coords": [
+            5.140486,
+            44.360679
+          ],
+          "category": "historical",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die mittelalterliche Architektur dieses historischen Platzes im Herzen der Stadt und genießen Sie einen Morgenkaffee unter den Steinbögen.",
+            "hu": "Csodálja meg ennek a történelmi térnek a középkori építészetét, amely a város hagyományos központja, és igyon meg egy reggeli kávét a kőárkádok alatt.",
+            "ro": "Admirați arhitectura medievală frumoasă a acestei piețe istorice, inima tradițională a orașului, și savurați o cafea de dimineață sub arcadele de piatră.",
+            "en": "Admire the beautiful medieval architecture of this historic square, the traditional heart of the town, and enjoy a morning coffee under the shaded stone arches."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour Randonne",
+            "hu": "Tour Randonne",
+            "ro": "Turnul Randonne",
+            "en": "Tour Randonne"
+          },
+          "coords": [
+            5.141078,
+            44.362251
+          ],
+          "category": "religious",
+          "arrive_at": "13:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Steigen Sie auf diesen ikonischen Turm, der spektakuläre Panoramablicke bietet, und stellen Sie sicher, dass Sie für die steilen mittelalterlichen Wege feste Schuhe tragen.",
+            "hu": "Másszon fel erre az ikonikus toronyra, amely látványos panorámát nyújt a völgyre, és ügyeljen arra, hogy erős cipőt viseljen a meredek középkori ösvényeken való sétához.",
+            "ro": "Urcați în acest turn iconic care oferă vederi panoramice spectaculoase asupra văii, asigurându-vă că purtați încălțăminte rezistentă pentru cărările medievale abrupte.",
+            "en": "Climb up to this iconic religious tower offering spectacular panoramic views over the town and valley, making sure to wear sturdy shoes for the steep medieval pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Römerbrücke",
+            "hu": "Római híd",
+            "ro": "Podul Roman",
+            "en": "Roman Bridge"
+          },
+          "coords": [
+            5.144078,
+            44.35991
+          ],
+          "category": "historical",
+          "arrive_at": "13:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie über diese gut erhaltene römische Brücke über den Fluss und machen Sie im Nachmittagslicht Ihre besten Fotos vom Ufer aus, um das Bauwerk festzuhalten.",
+            "hu": "Sétáljon át a folyón átívelő, tökéletesen megőrzött római hídon, amely igazi mérnöki csoda, és készítse el legjobb fotóit a lenti folyópartról a délutáni fényekben.",
+            "ro": "Plimbați-vă peste acest pod roman perfect conservat, o adevărată minune inginerească, și faceți cele mai bune fotografii de pe malul râului în lumina caldă a după-amiezii.",
+            "en": "Walk across this perfectly preserved Roman bridge spanning the river, a true engineering marvel, and take your best photos from the riverbank below in the afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "Scourtinerie",
+            "hu": "Scourtinerie",
+            "ro": "Scourtinerie",
+            "en": "Scourtinerie"
+          },
+          "coords": [
+            5.147215,
+            44.36134
+          ],
+          "category": "museum",
+          "arrive_at": "15:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die letzte verbliebene Fabrik, die traditionelle Olivenölfilter webt, und erwägen Sie den Kauf einer authentischen gewebten Matte als lokales Andenken.",
+            "hu": "Fedezze fel az utolsó fennmaradt gyárat, amely hagyományos olívaolaj-szűrőket sző, és fontolja meg egy autentikus szőtt szőnyeg vásárlását egyedi helyi ajándékként.",
+            "ro": "Explorați ultima fabrică rămasă care țese filtre tradiționale pentru ulei de măsline și luați în considerare achiziționarea unui covoraș autentic ca suvenir local inedit.",
+            "en": "Explore the last remaining factory weaving traditional olive oil filters, a unique piece of industrial heritage, and consider buying an authentic woven mat as a local souvenir."
+          }
+        },
+        {
+          "name": {
+            "de": "Distillerie Bleu Provence",
+            "hu": "Distillerie Bleu Provence",
+            "ro": "Distillerie Bleu Provence",
+            "en": "Distillerie Bleu Provence"
+          },
+          "coords": [
+            5.141494,
+            44.359249
+          ],
+          "category": "cultural",
+          "arrive_at": "17:02",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die duftende Welt der Lavendeldestillation in dieser historischen Anlage ein und besuchen Sie den hauseigenen Laden, um reine ätherische Öle zu erwerben.",
+            "hu": "Merüljön el a levendula lepárlás illatos világában ebben a történelmi létesítményben, amely egy igazi provence-i élmény, és látogasson el a boltba tiszta illóolajokért.",
+            "ro": "Cufundați-vă în lumea parfumată a distilării lavandei la această facilitate istorică, o experiență tipic provensală, și vizitați magazinul pentru uleiuri esențiale pure.",
+            "en": "Immerse yourself in the fragrant world of lavender distillation at this historic facility, a quintessential Provence experience, and visit the shop for pure essential oils."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre morgendliche Fahrt beginnt an den aromatischen Gärten, gefolgt von einem Besuch im berühmten Olivenmuseum. Mittags erkunden Sie die mittelalterlichen Arkaden im Zentrum und den hochgelegenen Turm. Nachmittags können Sie die antike römische Brücke bewundern, bevor Sie die traditionelle Filterfabrik besuchen. Lassen Sie den Abend in der Lavendeldestillerie ausklingen.",
+        "hu": "A reggeli autózás az illatos kerteknél kezdődik, amelyet a híres olívamúzeum alapos megtekintése követ. Délben a központ középkori árkádjai és a dombtetőn álló vallási torony felfedezése vár. Délután csodálja meg az ősi római hidat, mielőtt ellátogatna a hagyományos szűrőgyárba. Zárja az estét a levendulalepárló lenyűgöző látványával és illataival.",
+        "ro": "Plimbarea de dimineață începe la grădinile aromatice, urmată de o vizită cuprinzătoare la faimosul muzeu al măslinului. La prânz sunteți invitat să explorați arcadele medievale și turnul religios de pe deal. După-amiaza, minunați-vă de vechiul pod roman înainte de a explora fabrica tradițională de filtre. Încheiați seara liniștit la distileria de lavandă.",
+        "en": "Your morning drive begins at the fragrant aromatic gardens followed by a comprehensive visit to the famous olive museum. Midday invites you to explore the town center's medieval arcades and the hilltop religious tower. In the afternoon, marvel at the ancient Roman bridge before exploring the traditional filter factory. Wrap up the evening at the lavender distillery."
+      }
+    }
+  }
+}

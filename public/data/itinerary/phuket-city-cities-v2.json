@@ -1,0 +1,497 @@
+{
+  "city_id": "phuket-city-cities-v2",
+  "anchor": {
+    "name": "Phuket City",
+    "coords": [
+      98.3922,
+      7.8804
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:15",
+      "total_km": 1.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Surin Kreisverkehr",
+            "hu": "Surin körforgalom",
+            "ro": "Sensul giratoriu Surin",
+            "en": "Surin Roundabout"
+          },
+          "coords": [
+            98.392218,
+            7.880413
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den historischen Uhrturm als perfekten Startpunkt und achten Sie wegen des starken Verkehrs beim Fotografieren genau auf die Autos.",
+            "hu": "Csodálja meg a történelmi óratornyot, mint tökéletes kiindulópontot, és a nagy forgalom miatt nagyon ügyeljen az autókra fényképezés közben.",
+            "ro": "Admirați turnul cu ceas istoric ca un punct de plecare perfect și fiți foarte atenți la mașini când faceți poze din cauza traficului intens.",
+            "en": "Admire the historic clock tower as a perfect starting point, and pay close attention to the cars when taking pictures due to the heavy traffic."
+          }
+        },
+        {
+          "name": {
+            "de": "Chartered Bank Kreuzung",
+            "hu": "Chartered Bank kereszteződés",
+            "ro": "Intersecția Băncii Chartered",
+            "en": "Chartered Bank Intersection"
+          },
+          "coords": [
+            98.39085,
+            7.883601
+          ],
+          "category": "landmark",
+          "arrive_at": "09:41",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erleben Sie die Sino-Portugiesische Architektur an dieser ikonischen Kreuzung und kommen Sie früh, um die besten Winkel ohne große Touristenmassen zu finden.",
+            "hu": "Tapasztalja meg a kínai-portugál építészetet ezen az ikonikus kereszteződésen, és érkezzen korán, hogy elkerülje a legnagyobb turistatömegeket.",
+            "ro": "Experimentați arhitectura sino-portugheză la această intersecție iconică și ajungeți devreme pentru a prinde cele mai bune unghiuri fără aglomerație.",
+            "en": "Experience the Sino-Portuguese architecture at this iconic intersection, and arrive early to catch the best angles without the large tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Phuket Altstadt",
+            "hu": "Phuket óváros",
+            "ro": "Orașul vechi Phuket",
+            "en": "Phuket Old Town"
+          },
+          "coords": [
+            98.389221,
+            7.884777
+          ],
+          "category": "landmark",
+          "arrive_at": "10:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die bunten Straßen voller Straßenkunst und Boutiquen und probieren Sie unbedingt lokale Snacks in den kleinen versteckten Cafés.",
+            "hu": "Sétáljon a színes, utcai művészettel és butikokkal teli utcákon, és mindenképpen kóstolja meg a helyi harapnivalókat az eldugott kis kávézókban.",
+            "ro": "Plimbați-vă pe străzile colorate pline de artă stradală și buticuri și asigurați-vă că gustați gustări locale în micile cafenele ascunse la colț.",
+            "en": "Stroll through the colorful streets full of street art and boutiques, and make sure to taste local snacks in the small, hidden corner cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Mongkol Nimit Tempel",
+            "hu": "Wat Mongkol Nimit templom",
+            "ro": "Templul Wat Mongkol Nimit",
+            "en": "Wat Mongkol Nimit"
+          },
+          "coords": [
+            98.389094,
+            7.886334
+          ],
+          "category": "religious",
+          "arrive_at": "11:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diesen prächtigen goldenen Tempel im Herzen der Stadt und tragen Sie respektvolle Kleidung, die Ihre Schultern und Knie vollständig bedeckt.",
+            "hu": "Látogassa meg ezt a csodálatos arany templomot a város szívében, és viseljen tiszteletteljes ruházatot, amely teljesen eltakarja a vállát és a térdét.",
+            "ro": "Vizitați acest magnific templu auriu din inima orașului și purtați haine respectuoase care să vă acopere complet umerii și genunchii pe tot parcursul.",
+            "en": "Visit this magnificent golden temple in the heart of the city, and wear respectful clothing that completely covers your shoulders and knees at all times."
+          }
+        },
+        {
+          "name": {
+            "de": "Thai Hua Schule Museum",
+            "hu": "Thai Hua Iskola Múzeum",
+            "ro": "Muzeul Școlii Thai Hua",
+            "en": "Phuket Thai Hua School"
+          },
+          "coords": [
+            98.386867,
+            7.885605
+          ],
+          "category": "museum",
+          "arrive_at": "12:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte der chinesischen Einwanderer in diesem faszinierenden Museum und nehmen Sie sich Zeit für den schönen Innenhof.",
+            "hu": "Fedezze fel a kínai bevándorlók gazdag történelmét ebben a lenyűgöző múzeumban, és szánjon egy kis időt a gyönyörű, csendes belső udvar felfedezésére.",
+            "ro": "Descoperiți istoria bogată a imigranților chinezi în acest muzeu fascinant și acordați-vă timp pentru a explora frumoasa curte interioară liniștită.",
+            "en": "Discover the rich history of Chinese immigrants in this fascinating museum, and take some time to explore the beautiful, quiet inner courtyard space."
+          }
+        },
+        {
+          "name": {
+            "de": "Jui Tui Schrein",
+            "hu": "Jui Tui szentély",
+            "ro": "Altarul Jui Tui",
+            "en": "Jui Tui Shrine"
+          },
+          "coords": [
+            98.383384,
+            7.883184
+          ],
+          "category": "religious",
+          "arrive_at": "14:05",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die spirituelle Atmosphäre dieses taoistischen Schreins ein und kaufen Sie einige Räucherstäbchen bei den freundlichen lokalen Händlern.",
+            "hu": "Merüljön el ennek a taoista szentélynek a spirituális atmoszférájában, és vásároljon néhány füstölőt a barátságos helyi árusoktól a bejárat mellett.",
+            "ro": "Cufundați-vă în atmosfera spirituală a acestui altar taoist și cumpărați câteva bețe parfumate de la vânzătorii locali prietenoși de la intrare.",
+            "en": "Immerse yourself in the spiritual atmosphere of this Taoist shrine, and buy some incense sticks from the friendly local vendors right by the entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie am Wahrzeichen Surin Kreisverkehr und schlendern Sie zur historischen Chartered Bank. Erleben Sie mittags das bunte Treiben der Phuket Altstadt. Bewundern Sie nachmittags den herrlichen Wat Mongkol Nimit Tempel. Beenden Sie die kulturelle Tour am prächtigen Jui Tui Schrein.",
+        "hu": "Kezdje a túrát a híres Surin körforgalomnál, és sétáljon a történelmi Chartered Bankhoz. Délben tapasztalja meg a nyüzsgő Phuket óvárosának színes életét. Délután csodálja meg a csodálatos Wat Mongkol Nimit templomot. Fejezze be ezt a kulturális sétát a Jui Tui szentélynél.",
+        "ro": "Începeți la faimosul sens giratoriu Surin și plimbați-vă spre intersecția istorică Chartered Bank. La prânz, experimentați agitația colorată din orașul vechi Phuket. După-amiaza, admirați frumosul templu Wat Mongkol Nimit. Încheiați turul cultural la magnificul Altar Jui Tui.",
+        "en": "Start at the iconic Surin Roundabout and stroll towards the historic Chartered Bank Intersection. At midday, experience the colorful hustle and bustle of Phuket Old Town. In the afternoon, admire the stunning Wat Mongkol Nimit temple. Conclude the cultural tour at the magnificent Jui Tui Shrine."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:31",
+      "total_km": 3.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Surin Kreisverkehr",
+            "hu": "Surin körforgalom",
+            "ro": "Sensul giratoriu Surin",
+            "en": "Surin Roundabout"
+          },
+          "coords": [
+            98.392218,
+            7.880413
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den historischen Uhrturm als perfekten Startpunkt und achten Sie wegen des starken Verkehrs beim Fotografieren genau auf die Autos.",
+            "hu": "Csodálja meg a történelmi óratornyot, mint tökéletes kiindulópontot, és a nagy forgalom miatt nagyon ügyeljen az autókra fényképezés közben.",
+            "ro": "Admirați turnul cu ceas istoric ca un punct de plecare perfect și fiți foarte atenți la mașini când faceți poze din cauza traficului intens.",
+            "en": "Admire the historic clock tower as a perfect starting point, and pay close attention to the cars when taking pictures due to the heavy traffic."
+          }
+        },
+        {
+          "name": {
+            "de": "Phuket Altstadt",
+            "hu": "Phuket óváros",
+            "ro": "Orașul vechi Phuket",
+            "en": "Phuket Old Town"
+          },
+          "coords": [
+            98.389221,
+            7.884777
+          ],
+          "category": "landmark",
+          "arrive_at": "09:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die bunten Straßen voller Straßenkunst und Boutiquen und probieren Sie unbedingt lokale Snacks in den kleinen versteckten Cafés.",
+            "hu": "Sétáljon a színes, utcai művészettel és butikokkal teli utcákon, és mindenképpen kóstolja meg a helyi harapnivalókat az eldugott kis kávézókban.",
+            "ro": "Plimbați-vă pe străzile colorate pline de artă stradală și buticuri și asigurați-vă că gustați gustări locale în micile cafenele ascunse la colț.",
+            "en": "Stroll through the colorful streets full of street art and boutiques, and make sure to taste local snacks in the small, hidden corner cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Baan Chinpracha Herrenhaus",
+            "hu": "Baan Chinpracha kúria",
+            "ro": "Conacul Baan Chinpracha",
+            "en": "Baan Chinpracha"
+          },
+          "coords": [
+            98.38394,
+            7.885778
+          ],
+          "category": "museum",
+          "arrive_at": "11:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die originalen Fliesenböden und Möbel in diesem erhaltenen Herrenhaus und fragen Sie das Personal nach der Geschichte der Familie.",
+            "hu": "Csodálja meg az eredeti csempéket és bútorokat ebben a megőrzött kúriában, és kérdezze meg a kedves személyzetet az alapító család gazdag történetéről.",
+            "ro": "Admirați gresia și mobilierul original în acest conac conservat și întrebați personalul prietenos despre istoria fascinantă a familiei fondatoare.",
+            "en": "Admire the original tile floors and furniture in this preserved mansion, and ask the friendly staff about the fascinating history of the founding family."
+          }
+        },
+        {
+          "name": {
+            "de": "Jui Tui Schrein",
+            "hu": "Jui Tui szentély",
+            "ro": "Altarul Jui Tui",
+            "en": "Jui Tui Shrine"
+          },
+          "coords": [
+            98.383384,
+            7.883184
+          ],
+          "category": "religious",
+          "arrive_at": "12:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die spirituelle Atmosphäre dieses taoistischen Schreins ein und kaufen Sie einige Räucherstäbchen bei den freundlichen lokalen Händlern.",
+            "hu": "Merüljön el ennek a taoista szentélynek a spirituális atmoszférájában, és vásároljon néhány füstölőt a barátságos helyi árusoktól a bejárat mellett.",
+            "ro": "Cufundați-vă în atmosfera spirituală a acestui altar taoist și cumpărați câteva bețe parfumate de la vânzătorii locali prietenoși de la intrare.",
+            "en": "Immerse yourself in the spiritual atmosphere of this Taoist shrine, and buy some incense sticks from the friendly local vendors right by the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Khao Rang Aussichtspunkt",
+            "hu": "Khao Rang kilátó",
+            "ro": "Punctul de belvedere Khao Rang",
+            "en": "Khao Rang Viewpoint"
+          },
+          "coords": [
+            98.380192,
+            7.892383
+          ],
+          "category": "natural",
+          "arrive_at": "13:29",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick über die gesamte Stadt bis zum Meer und besuchen Sie das nahegelegene Café für eine dringend benötigte kalte Erfrischung.",
+            "hu": "Élvezze a panorámás kilátást az egész városra egészen a tengerig, és látogasson el a közeli kávézóba egy nagyon is szükséges hideg frissítő italért.",
+            "ro": "Bucurați-vă de vederea panoramică asupra întregului oraș până la mare și vizitați cafeneaua din apropiere pentru o băutură rece și răcoritoare necesară.",
+            "en": "Enjoy the panoramic view over the entire city down to the sea, and visit the nearby cafe for a much-needed cold and refreshing afternoon beverage."
+          }
+        },
+        {
+          "name": {
+            "de": "Affenfütterung am Hügel",
+            "hu": "Majom etetés a dombon",
+            "ro": "Hrănirea maimuțelor",
+            "en": "Monkey feeding"
+          },
+          "coords": [
+            98.379509,
+            7.893805
+          ],
+          "category": "landmark",
+          "arrive_at": "13:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie die verspielten Makaken in ihrer natürlichen Umgebung, aber halten Sie Ihre Wertsachen sicher verstaut und füttern Sie sie nur mit Bedacht.",
+            "hu": "Figyelje meg a játékos makákókat természetes környezetükben, de tartsa biztonságban értékeit, és csak nagyon óvatosan, távolságtartással etesse őket.",
+            "ro": "Observați macacii jucăuși în mediul lor natural, dar păstrați-vă obiectele de valoare în siguranță și hrăniți-i doar cu mare precauție și de la distanță.",
+            "en": "Observe the playful macaques in their natural environment, but keep your valuables secure and only feed them with great caution from a safe distance."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Khao Rang Tempel",
+            "hu": "Wat Khao Rang templom",
+            "ro": "Templul Wat Khao Rang",
+            "en": "Wat Khao Rang"
+          },
+          "coords": [
+            98.38169,
+            7.893845
+          ],
+          "category": "landmark",
+          "arrive_at": "14:21",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die beeindruckende goldene sitzende Buddha-Statue auf dem Hügel und genießen Sie die absolute Ruhe abseits des städtischen Trubels.",
+            "hu": "Csodálja meg a lenyűgöző arany ülő Buddha-szobrot a dombon, és élvezze az abszolút nyugalmat távol a zajos városi nyüzsgéstől és a turista tömegektől.",
+            "ro": "Minunați-vă de impresionanta statuie de aur a lui Buddha așezat pe deal și bucurați-vă de liniștea absolută departe de agitația orașului zgomotos.",
+            "en": "Marvel at the impressive golden seated Buddha statue on the hill, and enjoy the absolute peace away from the noisy urban hustle and the tourist crowds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie vom lebhaften Surin Kreisverkehr tief in die Gassen der Phuket Altstadt. Besichtigen Sie mittags das wunderschöne Baan Chinpracha. Erklimmen Sie nachmittags den Khao Rang Hügel für fantastische Ausblicke. Genießen Sie den Abend bei den Affen und im friedlichen Wat Khao Rang.",
+        "hu": "Kerékpározzon a nyüzsgő Surin körforgalomtól egyenesen a Phuket óvárosának varázslatos utcáiba. Délben látogassa meg a gyönyörű Baan Chinpracha kúriát. Délután tekerjen fel a Khao Rang hegyre, majd élvezze az estét a majmok és a békés Wat Khao Rang társaságában a naplementében.",
+        "ro": "Pedalați de la sensul giratoriu animat Surin direct în străzile magice ale orașului vechi Phuket. La prânz, vizitați frumosul conac Baan Chinpracha. După-amiaza, urcați dealul Khao Rang pentru vederi fantastice. Bucurați-vă de seară hrănind maimuțele și la pașnicul templu Wat Khao Rang.",
+        "en": "Cycle from the bustling Surin Roundabout straight into the magical streets of Phuket Old Town. At midday, visit the beautifully preserved Baan Chinpracha mansion. In the afternoon, ride up Khao Rang hill for fantastic views. Enjoy the evening with the monkeys and the peaceful Wat Khao Rang."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:03",
+      "total_km": 6.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Wat Kosit Wihan Halle",
+            "hu": "Wat Kosit Wihan csarnok",
+            "ro": "Sala Wat Kosit Wihan",
+            "en": "Wat Kosit Wihan Hall"
+          },
+          "coords": [
+            98.390143,
+            7.899804
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckende Architektur dieses ruhigen, weniger bekannten Tempels und achten Sie auf die aufwendigen Details an den Säulen und Wänden.",
+            "hu": "Fedezze fel ennek a csendes, kevésbé ismert templomnak a lenyűgöző építészetét, és figyelje meg az oszlopokon és a falakon lévő bonyolult, szép részleteket.",
+            "ro": "Descoperiți arhitectura impresionantă a acestui templu liniștit, mai puțin cunoscut și observați detaliile complicate de pe coloanele și pereții săi frumosi.",
+            "en": "Discover the impressive architecture of this quiet, lesser-known temple, and pay attention to the intricate details on its beautiful columns and walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Phuket Altstadt",
+            "hu": "Phuket óváros",
+            "ro": "Orașul vechi Phuket",
+            "en": "Phuket Old Town"
+          },
+          "coords": [
+            98.389221,
+            7.884777
+          ],
+          "category": "landmark",
+          "arrive_at": "09:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die bunten Straßen voller Straßenkunst und Boutiquen und probieren Sie unbedingt lokale Snacks in den kleinen versteckten Cafés.",
+            "hu": "Sétáljon a színes, utcai művészettel és butikokkal teli utcákon, és mindenképpen kóstolja meg a helyi harapnivalókat az eldugott kis kávézókban.",
+            "ro": "Plimbați-vă pe străzile colorate pline de artă stradală și buticuri și asigurați-vă că gustați gustări locale în micile cafenele ascunse la colț.",
+            "en": "Stroll through the colorful streets full of street art and boutiques, and make sure to taste local snacks in the small, hidden corner cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Baan Chinpracha Herrenhaus",
+            "hu": "Baan Chinpracha kúria",
+            "ro": "Conacul Baan Chinpracha",
+            "en": "Baan Chinpracha"
+          },
+          "coords": [
+            98.38394,
+            7.885778
+          ],
+          "category": "museum",
+          "arrive_at": "11:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die originalen Fliesenböden und Möbel in diesem erhaltenen Herrenhaus und fragen Sie das Personal nach der Geschichte der Familie.",
+            "hu": "Csodálja meg az eredeti csempéket és bútorokat ebben a megőrzött kúriában, és kérdezze meg a kedves személyzetet az alapító család gazdag történetéről.",
+            "ro": "Admirați gresia și mobilierul original în acest conac conservat și întrebați personalul prietenos despre istoria fascinantă a familiei fondatoare.",
+            "en": "Admire the original tile floors and furniture in this preserved mansion, and ask the friendly staff about the fascinating history of the founding family."
+          }
+        },
+        {
+          "name": {
+            "de": "Khao Rang Aussichtspunkt",
+            "hu": "Khao Rang kilátó",
+            "ro": "Punctul de belvedere Khao Rang",
+            "en": "Khao Rang Viewpoint"
+          },
+          "coords": [
+            98.380192,
+            7.892383
+          ],
+          "category": "natural",
+          "arrive_at": "12:57",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick über die gesamte Stadt bis zum Meer und besuchen Sie das nahegelegene Café für eine dringend benötigte kalte Erfrischung.",
+            "hu": "Élvezze a panorámás kilátást az egész városra egészen a tengerig, és látogasson el a közeli kávézóba egy nagyon is szükséges hideg frissítő italért.",
+            "ro": "Bucurați-vă de vederea panoramică asupra întregului oraș până la mare și vizitați cafeneaua din apropiere pentru o băutură rece și răcoritoare necesară.",
+            "en": "Enjoy the panoramic view over the entire city down to the sea, and visit the nearby cafe for a much-needed cold and refreshing afternoon beverage."
+          }
+        },
+        {
+          "name": {
+            "de": "Chaloem Phrakiat Park",
+            "hu": "Chaloem Phrakiat park",
+            "ro": "Parcul Chaloem Phrakiat",
+            "en": "Chaloem Phrakiat Park"
+          },
+          "coords": [
+            98.375388,
+            7.875244
+          ],
+          "category": "landmark",
+          "arrive_at": "13:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den friedlichen Seen dieses weitläufigen Parks und mieten Sie ein Tretboot, um die Natur mitten in der geschäftigen Stadt zu genießen.",
+            "hu": "Pihenjen e tágas park békés tavai mellett, és béreljen vízibiciklit, hogy élvezze a természetet közvetlenül a forgalmas város kellős közepén sétálva.",
+            "ro": "Relaxați-vă lângă lacurile pașnice ale acestui parc spațios și închiriați o hidrobicicletă pentru a vă bucura de natură chiar în mijlocul orașului aglomerat.",
+            "en": "Relax by the peaceful lakes of this spacious park, and rent a pedal boat to fully enjoy the nature right in the middle of the busy and vibrant city."
+          }
+        },
+        {
+          "name": {
+            "de": "Naka Streetfood-Markt",
+            "hu": "Naka utcai ételpiac",
+            "ro": "Piața de street food Naka",
+            "en": "Naka Street food"
+          },
+          "coords": [
+            98.366318,
+            7.880438
+          ],
+          "category": "landmark",
+          "arrive_at": "14:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Probieren Sie sich durch unzählige exotische thailändische Gerichte auf diesem lebhaften Markt und verhandeln Sie freundlich für Souvenirs und Kleidung.",
+            "hu": "Kóstolja meg a számtalan egzotikus thai ételt ezen a nyüzsgő piacon, és barátságosan alkudjon ajándéktárgyakra és ruhákra a helyi meleg hangulatban.",
+            "ro": "Gustați nenumărate preparate exotice thailandeze în această piață plină de viață și negociați prietenos pentru suveniruri și haine în atmosfera locală.",
+            "en": "Taste your way through countless exotic Thai dishes at this bustling market, and negotiate amiably for souvenirs and clothes in the warm local vibe."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie entspannt am eleganten Wat Kosit Wihan und fahren Sie zur berühmten Phuket Altstadt. Mittags lockt die beeindruckende Architektur des Baan Chinpracha. Erleben Sie am Nachmittag die malerischen Ausblicke vom Khao Rang. Schließen Sie den Tag mit köstlichem Streetfood auf dem Naka Markt ab.",
+        "hu": "Kezdje a napot lazán az elegáns Wat Kosit Wihan templomnál, majd vezessen a híres óvárosba. Délben a Baan Chinpracha kúria lenyűgöző építészete várja. Délután élvezze a festői kilátást a Khao Rang hegyről. Zárja a napot egy ízletes vacsorával a Naka utcai ételpiac forgatagában.",
+        "ro": "Începeți relaxat la elegantul templu Wat Kosit Wihan și conduceți spre faimosul oraș vechi Phuket. La prânz, arhitectura impresionantă a conacului Baan Chinpracha vă așteaptă. După-amiaza, bucurați-vă de vederile pitorești de la Khao Rang. Încheiați ziua cu mâncare delicioasă la piața Naka.",
+        "en": "Start in a relaxed manner at the elegant Wat Kosit Wihan and drive to the famous Phuket Old Town. At midday, the impressive architecture of Baan Chinpracha awaits. In the afternoon, enjoy the picturesque views from Khao Rang. Conclude the day with delicious food at the lively Naka market."
+      }
+    }
+  }
+}

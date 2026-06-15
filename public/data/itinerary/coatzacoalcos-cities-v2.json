@@ -1,0 +1,405 @@
+{
+  "city_id": "coatzacoalcos-cities-v2",
+  "anchor": {
+    "name": "Coatzacoalcos",
+    "coords": [
+      -94.4333,
+      18.15
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:17",
+      "total_km": 3.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaza de la PAX",
+            "hu": "Plaza de la PAX",
+            "ro": "Plaza de la PAX",
+            "en": "Plaza de la PAX"
+          },
+          "coords": [
+            -94.426564,
+            18.155364
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre der geschichtsträchtigen Plaza de la PAX, wo eine Pause auf einer schattigen Bank vor dem Mittagessen beste Beobachtungen bietet.",
+            "hu": "Élvezze a történelmi jelentőségű Plaza de la PAX békés hangulatát, ahol egy árnyékos padon megpihenve dél előtt kiválóan megfigyelheti a helyiek mindennapjait.",
+            "ro": "Admirați atmosfera liniștită de la Plaza de la PAX, un loc istoric important de întâlnire, unde o pauză pe o bancă umbrită înainte de prânz oferă o priveliște excelentă.",
+            "en": "Admire the peaceful atmosphere of Plaza de the PAX, a key historical gathering spot, where resting on a shaded bench before noon offers the best local people-watching."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Arqueología Olmeca",
+            "hu": "Olmék Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie Olmeca",
+            "en": "Olmeca Archaeology Museum"
+          },
+          "coords": [
+            -94.437899,
+            18.153485
+          ],
+          "category": "museum",
+          "arrive_at": "10:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie im Museo de Arqueología Olmeca die faszinierenden kolossalen Köpfe, und lesen Sie die zweisprachigen Tafeln in Ruhe, um die Kultur besser zu verstehen.",
+            "hu": "Fedezze fel az olmék kultúra lenyűgöző kolosszális fejeit a múzeumban, és mindenképpen olvassa el lassan a kétnyelvű táblákat a mélyebb történelmi megértés érdekében.",
+            "ro": "Explorați Muzeul de Arheologie Olmeca pentru a vedea capetele colosale antice și asigurați-vă că citiți încet plăcuțele bilingve pentru un context cultural mai profund.",
+            "en": "Explore the fascinating Museo de Arqueología Olmeca to see ancient colossal heads, and make sure to read the bilingual plaques slowly for deeper cultural context."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento A La Armada De Mexico",
+            "hu": "Monumento A La Armada De Mexico",
+            "ro": "Monumento A La Armada De Mexico",
+            "en": "Monumento A La Armada De Mexico"
+          },
+          "coords": [
+            -94.444572,
+            18.152501
+          ],
+          "category": "landmark",
+          "arrive_at": "12:38",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Halten Sie am Monumento A La Armada De Mexico, um die Marinegeschichte zu ehren, und machen Sie ein schnelles Foto von der Mauerseite für den perfekten Meereshintergrund.",
+            "hu": "Tartsunk egy kis szünetet a haditengerészeti emlékműnél, amely a tengerészettörténetet idézi, és fotózzunk a gát felől, hogy a tenger kékje legyen a tökéletes háttér.",
+            "ro": "Opriți-vă la Monumentul Marinei Mexicane pentru a onora istoria navală și faceți o fotografie rapidă dinspre faleză pentru a prinde oceanul în fundalul perfect.",
+            "en": "Pause at the Monumento A La Armada De Mexico to honor the region's naval history, snapping a quick photo from the seawall side to capture the ocean background perfectly."
+          }
+        },
+        {
+          "name": {
+            "de": "Benito Juárez",
+            "hu": "Benito Juárez",
+            "ro": "Benito Juárez",
+            "en": "Benito Juárez"
+          },
+          "coords": [
+            -94.453559,
+            18.151376
+          ],
+          "category": "historical",
+          "arrive_at": "13:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Besuchen Sie die historische Stätte Benito Juárez, um Mexikos politisches Erbe zu bewundern, und nutzen Sie das weiche Morgenlicht für die architektonischen Details.",
+            "hu": "Látogasson el a történelmi Benito Juárez emlékhelyre, hogy elmélyedjen Mexikó politikai örökségében, miközben a kora délutáni fények kiemelik a gyönyörű építészeti részleteket.",
+            "ro": "Vizitați situl istoric Benito Juárez pentru a reflecta asupra moștenirii politice mexicane, profitând de lumina blândă a zilei pentru a admira detaliile arhitecturale.",
+            "en": "Visit the Benito Juárez historical site to reflect on Mexico's rich political heritage, taking advantage of the natural daylight to fully appreciate its architectural details."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Coatza",
+            "hu": "Playa Coatza",
+            "ro": "Playa Coatza",
+            "en": "Playa Coatza"
+          },
+          "coords": [
+            -94.456631,
+            18.153654
+          ],
+          "category": "recreational",
+          "arrive_at": "14:32",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie am weiten Strand Playa Coatza entlang, um die warme Golfbrise zu spüren, und holen Sie sich eine frische Kokosnuss von einem nahegelegenen Verkäufer.",
+            "hu": "Sétáljon végig a Playa Coatza széles homokos partján, érezze a Mexikói-öböl meleg szellőjét, és feltétlenül vegyen egy friss kókuszt a közeli árusok egyikétől.",
+            "ro": "Plimbați-vă pe nisipurile întinse de la Playa Coatza pentru a simți briza caldă a Golfului și cumpărați neapărat o nucă de cocos proaspătă de la un vânzător local.",
+            "en": "Stroll along the expansive sands of Playa Coatza to feel the warm Gulf breeze, and be sure to grab a fresh coconut from a nearby vendor while watching the gentle waves."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Rundgang beginnt mit der ruhigen Atmosphäre der Plaza de la PAX und sorgt für historische Einstimmung. Am Vormittag tauchen Sie im faszinierenden Museo de Arqueología Olmeca in die Geschichte ein. Der Nachmittagsspaziergang an der Uferpromenade führt vorbei an Marinedenkmälern zum historischen Ort Benito Juárez. Abschließend entspannen Sie an der windigen Playa Coatza.",
+        "hu": "A gyalogos túra a Plaza de la PAX nyugodt hangulatával indul, megalapozva a történelmi élményt. Késő délelőtt az olmék régészeti múzeum lenyűgöző ősi történetébe merülhetünk el. A kora délutáni séta a part mentén tengerészeti emlékművek és a Benito Juárez történelmi emlékhely mellett halad el. A nap végén a szellős Playa Coatza tengerpartján pihenheti ki a fáradalmakat.",
+        "ro": "Turul pietonal începe cu ambianța liniștită de la Plaza de la PAX, creând o atmosferă istorică relaxată. Spre prânz, vă veți scufunda în istoria antică locală la uimitorul Muzeu Olmeca. Plimbarea de după-amiază de-a lungul falezei vă poartă pe lângă monumente navale până la situl istoric Benito Juárez. În cele din urmă, relaxați-vă la valurile răcoroase de la Playa Coatza.",
+        "en": "Your walking tour begins with the tranquil ambiance of Plaza de la PAX, setting a relaxed historical tone. By mid-morning, you will dive into ancient local history at the stunning Museo de Arqueología Olmeca. The afternoon stroll along the waterfront brings you past naval monuments to the Benito Juárez historical site. Finally, relax by the waves at the breezy Playa Coatza."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:04",
+      "total_km": 7.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Faro de Coatzacoalcos",
+            "hu": "Coatzacoalcos Világítótorony",
+            "ro": "Farul din Coatzacoalcos",
+            "en": "Faro de Coatzacoalcos"
+          },
+          "coords": [
+            -94.415679,
+            18.166081
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den hoch aufragenden Leuchtturm, der seit Jahrzehnten Schiffe leitet, und achten Sie auf die kleinen maritimen Markierungen für das Navigationssystem.",
+            "hu": "Csodálja meg a tornyosuló világítótornyot, amely évtizedek óta vezeti a hajókat, és figyelje meg a közeli tengeri jelzéseket, hogy megértse a kikötői rendszert.",
+            "ro": "Admirați Farul impunător care ghidează navele de decenii și căutați micile marcaje maritime din apropiere pentru a înțelege sistemul de navigație al portului modern.",
+            "en": "Marvel at the towering Faro de Coatzacoalcos that has guided ships for decades, and look for the small maritime markers nearby to understand the port's navigation system."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaza de la PAX",
+            "hu": "Plaza de la PAX",
+            "ro": "Plaza de la PAX",
+            "en": "Plaza de la PAX"
+          },
+          "coords": [
+            -94.426564,
+            18.155364
+          ],
+          "category": "historical",
+          "arrive_at": "09:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre der geschichtsträchtigen Plaza de la PAX, wo eine Pause auf einer schattigen Bank vor dem Mittagessen beste Beobachtungen bietet.",
+            "hu": "Élvezze a történelmi jelentőségű Plaza de la PAX békés hangulatát, ahol egy árnyékos padon megpihenve dél előtt kiválóan megfigyelheti a helyiek mindennapjait.",
+            "ro": "Admirați atmosfera liniștită de la Plaza de la PAX, un loc istoric important de întâlnire, unde o pauză pe o bancă umbrită înainte de prânz oferă o priveliște excelentă.",
+            "en": "Admire the peaceful atmosphere of Plaza de the PAX, a key historical gathering spot, where resting on a shaded bench before noon offers the best local people-watching."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Arqueología Olmeca",
+            "hu": "Olmék Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie Olmeca",
+            "en": "Olmeca Archaeology Museum"
+          },
+          "coords": [
+            -94.437899,
+            18.153485
+          ],
+          "category": "museum",
+          "arrive_at": "11:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie im Museo de Arqueología Olmeca die faszinierenden kolossalen Köpfe, und lesen Sie die zweisprachigen Tafeln in Ruhe, um die Kultur besser zu verstehen.",
+            "hu": "Fedezze fel az olmék kultúra lenyűgöző kolosszális fejeit a múzeumban, és mindenképpen olvassa el lassan a kétnyelvű táblákat a mélyebb történelmi megértés érdekében.",
+            "ro": "Explorați Muzeul de Arheologie Olmeca pentru a vedea capetele colosale antice și asigurați-vă că citiți încet plăcuțele bilingve pentru un context cultural mai profund.",
+            "en": "Explore the fascinating Museo de Arqueología Olmeca to see ancient colossal heads, and make sure to read the bilingual plaques slowly for deeper cultural context."
+          }
+        },
+        {
+          "name": {
+            "de": "Reloj de la Ford",
+            "hu": "Reloj de la Ford",
+            "ro": "Reloj de la Ford",
+            "en": "Reloj de la Ford"
+          },
+          "coords": [
+            -94.43516,
+            18.132655
+          ],
+          "category": "landmark",
+          "arrive_at": "12:54",
+          "stay_min": 15,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Halten Sie kurz am ikonischen Reloj de la Ford, einem skurrilen lokalen Wahrzeichen, und nutzen Sie sein Vintage-Zifferblatt als malerischen Treffpunkt für Ihre Tour.",
+            "hu": "Álljon meg egy pillanatra a jellegzetes Reloj de la Ford óránál, és használja ezt a különleges, vintage stílusú helyi nevezetességet találkozási pontként a túra során.",
+            "ro": "Opriți-vă scurt la emblematicul Ceas Ford, un reper local inedit, și folosiți cadranul său vintage ca punct de întâlnire pitoresc înainte de a continua explorarea.",
+            "en": "Stop briefly at the iconic Reloj de la Ford, a quirky local landmark, and use its vintage face as a picturesque meeting point before continuing your exploration south."
+          }
+        },
+        {
+          "name": {
+            "de": "La Granja Del Abuelo",
+            "hu": "La Granja Del Abuelo",
+            "ro": "La Granja Del Abuelo",
+            "en": "La Granja Del Abuelo"
+          },
+          "coords": [
+            -94.44504,
+            18.117794
+          ],
+          "category": "wildlife",
+          "arrive_at": "13:19",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie die geretteten Tiere auf der Granja Del Abuelo, einem lehrreichen Ausflugsziel, und vergessen Sie nicht, am Eingang das spezielle Tierfutter zu kaufen.",
+            "hu": "Fedezze fel a megmentett állatokat a La Granja Del Abuelo nevű oktató családi farmon, és ne felejtse el rögtön a bejáratnál megvenni a speciális állateledelt.",
+            "ro": "Descoperiți animalele salvate la La Granja Del Abuelo, un loc educativ pentru familii, și nu uitați să cumpărați hrana specială de la intrare pentru a le hrăni.",
+            "en": "Discover the delightful wildlife rescues at La Granja Del Abuelo, an educational family spot, and remember to buy the specialized feed at the entrance for the animals."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer am hoch aufragenden Leuchtturm und genießen Sie die frühe Küstenansicht. Fahren Sie gemütlich zur Plaza de la PAX, bevor Sie das berühmte Olmeca-Museum besuchen. Die mittägliche Fahrt führt Sie nach Süden zum skurrilen Wahrzeichen Reloj de la Ford. Beenden Sie Ihre Tour bei den freundlichen, geretteten Tieren auf der Granja Del Abuelo.",
+        "hu": "Kezdje kerékpáros kalandját a hatalmas világítótoronynál, élvezve a kora reggeli tengerparti kilátást. Tekerjen el a központi Plaza de la PAX térre, mielőtt meglátogatná a híres olmék múzeumot. A déli kerékpározás dél felé, a különleges Reloj de la Ford órához vezet. A túrát a La Granja Del Abuelo farm megmentett, barátságos állatainak társaságában zárhatja.",
+        "ro": "Începeți aventura pe bicicletă la impunătorul Far, bucurându-vă de priveliștile matinale ale coastei. Pedalați ușor spre Plaza de la PAX centrală înainte de a vizita renumitul muzeu Olmeca. Traseul de prânz vă îndreaptă spre sud, la ineditul reper Reloj de la Ford. Încheiați cursa interacționând cu animalele salvate și prietenoase de la La Granja Del Abuelo.",
+        "en": "Start your cycling adventure at the towering Faro de Coatzacoalcos, enjoying early coastal views. Ride smoothly to the central Plaza de la PAX before visiting the renowned Olmeca archaeology museum. Midday pedaling leads you southwards to the quirky Reloj de la Ford landmark. Conclude your ride by interacting with the friendly rescued animals at La Granja Del Abuelo."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:46",
+      "total_km": 11.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Faro de Coatzacoalcos",
+            "hu": "Coatzacoalcos Világítótorony",
+            "ro": "Farul din Coatzacoalcos",
+            "en": "Faro de Coatzacoalcos"
+          },
+          "coords": [
+            -94.415679,
+            18.166081
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den hoch aufragenden Leuchtturm, der seit Jahrzehnten Schiffe leitet, und achten Sie auf die kleinen maritimen Markierungen für das Navigationssystem.",
+            "hu": "Csodálja meg a tornyosuló világítótornyot, amely évtizedek óta vezeti a hajókat, és figyelje meg a közeli tengeri jelzéseket, hogy megértse a kikötői rendszert.",
+            "ro": "Admirați Farul impunător care ghidează navele de decenii și căutați micile marcaje maritime din apropiere pentru a înțelege sistemul de navigație al portului modern.",
+            "en": "Marvel at the towering Faro de Coatzacoalcos that has guided ships for decades, and look for the small maritime markers nearby to understand the port's navigation system."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de Arqueología Olmeca",
+            "hu": "Olmék Régészeti Múzeum",
+            "ro": "Muzeul de Arheologie Olmeca",
+            "en": "Olmeca Archaeology Museum"
+          },
+          "coords": [
+            -94.437899,
+            18.153485
+          ],
+          "category": "museum",
+          "arrive_at": "09:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie im Museo de Arqueología Olmeca die faszinierenden kolossalen Köpfe, und lesen Sie die zweisprachigen Tafeln in Ruhe, um die Kultur besser zu verstehen.",
+            "hu": "Fedezze fel az olmék kultúra lenyűgöző kolosszális fejeit a múzeumban, és mindenképpen olvassa el lassan a kétnyelvű táblákat a mélyebb történelmi megértés érdekében.",
+            "ro": "Explorați Muzeul de Arheologie Olmeca pentru a vedea capetele colosale antice și asigurați-vă că citiți încet plăcuțele bilingve pentru un context cultural mai profund.",
+            "en": "Explore the fascinating Museo de Arqueología Olmeca to see ancient colossal heads, and make sure to read the bilingual plaques slowly for deeper cultural context."
+          }
+        },
+        {
+          "name": {
+            "de": "Reloj de la Ford",
+            "hu": "Reloj de la Ford",
+            "ro": "Reloj de la Ford",
+            "en": "Reloj de la Ford"
+          },
+          "coords": [
+            -94.43516,
+            18.132655
+          ],
+          "category": "landmark",
+          "arrive_at": "11:16",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Halten Sie kurz am ikonischen Reloj de la Ford, einem skurrilen lokalen Wahrzeichen, und nutzen Sie sein Vintage-Zifferblatt als malerischen Treffpunkt für Ihre Tour.",
+            "hu": "Álljon meg egy pillanatra a jellegzetes Reloj de la Ford óránál, és használja ezt a különleges, vintage stílusú helyi nevezetességet találkozási pontként a túra során.",
+            "ro": "Opriți-vă scurt la emblematicul Ceas Ford, un reper local inedit, și folosiți cadranul său vintage ca punct de întâlnire pitoresc înainte de a continua explorarea.",
+            "en": "Stop briefly at the iconic Reloj de la Ford, a quirky local landmark, and use its vintage face as a picturesque meeting point before continuing your exploration south."
+          }
+        },
+        {
+          "name": {
+            "de": "Explanada de la Expoferia",
+            "hu": "Explanada de la Expoferia",
+            "ro": "Explanada de la Expoferia",
+            "en": "Explanada de la Expoferia"
+          },
+          "coords": [
+            -94.482506,
+            18.13731
+          ],
+          "category": "recreational",
+          "arrive_at": "11:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie über die riesige Explanada de la Expoferia, das Zentrum lokaler Feste, und prüfen Sie die Veranstaltungstafeln, ob heute kulturelle Shows stattfinden.",
+            "hu": "Sétáljon át az Expoferia hatalmas terén, a helyi fesztiválok központján, és érdemes megnézni az eseménytáblákat, hátha éppen ma tartanak egy esti kulturális műsort.",
+            "ro": "Plimbați-vă prin uriașa Explanada de la Expoferia, inima festivalurilor locale, și verificați panourile informative pentru a vedea dacă sunt programate spectacole de seară.",
+            "en": "Walk through the massive Explanada de la Expoferia, the heart of local festivals, and check out the event boards to see if any evening cultural shows are scheduled today."
+          }
+        },
+        {
+          "name": {
+            "de": "Coatza Jurásico",
+            "hu": "Coatza Jurásico",
+            "ro": "Coatza Jurásico",
+            "en": "Coatza Jurásico"
+          },
+          "coords": [
+            -94.499979,
+            18.141645
+          ],
+          "category": "recreational",
+          "arrive_at": "13:01",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Machen Sie im Coatza Jurásico zwischen animatronischen Dinosauriern eine Zeitreise, wobei Sie vor der Mittagssonne ankommen sollten, um die Freiflächen zu genießen.",
+            "hu": "Lépjen vissza az időben a Coatza Jurásico animatronikus dinoszauruszai között, de érkezzen a kora délutáni hőség előtt, hogy kényelmesen bejárhassa a nyílt területeket.",
+            "ro": "Întoarceți-vă în timp la Coatza Jurásico printre dinozaurii animatronici și asigurați-vă că ajungeți înainte de soarele puternic de amiază pentru o vizită plăcută.",
+            "en": "Step back in time at Coatza Jurásico among the animatronic dinosaurs, making it essential to arrive before the afternoon sun peaks to comfortably enjoy the open spaces."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Autotour am historischen Faro de Coatzacoalcos mit weitem Blick auf die Bucht. Eine kurze Fahrt bringt Sie für einen Vormittag voller Entdeckungen zum Museo de Arqueología Olmeca. Nach einem Blick auf das Reloj de la Ford fahren Sie zur riesigen Explanada de la Expoferia. Beenden Sie Ihren Tag zwischen animatronischen Wundern im faszinierenden Coatza Jurásico.",
+        "hu": "Kezdje autós túráját a történelmi világítótoronynál, ahonnan lenyűgöző kilátás nyílik az öbölre. Egy rövid út az olmék múzeumhoz vezet, ahol egy délelőttnyi kulturális felfedezés vár Önre. A Reloj de la Ford óra rövid megtekintése után induljon nyugatra a hatalmas Expoferia térre. Zárja a napot az animatronikus csodák között sétálva a lenyűgöző Coatza Jurásico parkban.",
+        "ro": "Începeți turul cu mașina la istoricul Far, admirând vederea panoramică a golfului. O scurtă cursă vă aduce la Muzeul Olmeca pentru o dimineață plină de descoperiri culturale. După ce vedeți pe scurt Reloj de la Ford, mergeți spre vest către vasta Explanada de la Expoferia. Încheiați ziua plimbându-vă printre minunile animatronice de la fascinantul Coatza Jurásico.",
+        "en": "Kick off your driving tour at the historic Faro de Coatzacoalcos with its sweeping bay views. A short drive brings you to the culturally rich Museo de Arqueología Olmeca for a morning of discovery. After briefly spotting the Reloj de la Ford, head west to the expansive Explanada de la Expoferia. Wrap up your day walking among animatronic wonders at the fascinating Coatza Jurásico."
+      }
+    }
+  }
+}

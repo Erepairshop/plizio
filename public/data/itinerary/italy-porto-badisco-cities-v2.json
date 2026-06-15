@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-porto-badisco-cities-v2",
+  "anchor": {
+    "name": "Porto Badisco",
+    "coords": [
+      18.48337,
+      40.08012
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:49",
+      "total_km": 2.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Geosito delle Rodoliti",
+            "hu": "Geosito delle Rodoliti",
+            "ro": "Geosito delle Rodoliti",
+            "en": "Geosito delle Rodoliti"
+          },
+          "coords": [
+            18.483549,
+            40.081655
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die faszinierenden versteinerten Algenformationen entlang der Felsenküste, für deren unebenes Gelände Sie gute Wanderschuhe benötigen.",
+            "hu": "Figyelje meg a lenyűgöző megkövesedett algaformációkat a sziklás tengerparton, és viseljen kényelmes túracipőt az egyenetlen terep miatt.",
+            "ro": "Observați fascinantele formațiuni de alge fosilizate de-a lungul coastei stâncoase, asigurându-vă că purtați încălțăminte adecvată pentru terenul accidentat.",
+            "en": "Observe the fascinating fossilized algae formations along the rocky coast, bringing good walking shoes to navigate the uneven terrain safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Porto Badisco",
+            "hu": "Spiaggia di Porto Badisco",
+            "ro": "Spiaggia di Porto Badisco",
+            "en": "Spiaggia di Porto Badisco"
+          },
+          "coords": [
+            18.4825,
+            40.081478
+          ],
+          "category": "recreational",
+          "arrive_at": "09:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem malerischen Strand, wo angeblich Äneas landete, und kommen Sie früh am Morgen, um sich einen guten Platz zu sichern.",
+            "hu": "Pihenjen ezen a festői strandon, ahol a legenda szerint Aeneas partra szállt, de érkezzen korán reggel, hogy elkerülje a nyári tömeget.",
+            "ro": "Relaxați-vă pe această plajă pitorească unde s-ar fi oprit Enea, sosind devreme dimineața pentru a prinde un loc bun înainte de aglomerația estivală.",
+            "en": "Relax on this picturesque beach where Aeneas supposedly landed, arriving early in the morning to secure a good spot before the summer crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotta dei Cervi",
+            "hu": "Grotta dei Cervi",
+            "ro": "Grotta dei Cervi",
+            "en": "Grotta dei Cervi"
+          },
+          "coords": [
+            18.484947,
+            40.082818
+          ],
+          "category": "natural",
+          "arrive_at": "10:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die prähistorische Höhlenkunst dieses legendären Ortes, aber prüfen Sie vorher, da der Zugang zu den inneren Kammern oft eingeschränkt ist.",
+            "hu": "Fedezze fel a helyet legendássá tevő őskori barlangrajzokat, de indulás előtt tájékozódjon, mivel a belső termek látogatása gyakran korlátozott.",
+            "ro": "Descoperiți arta rupestră preistorică ce face acest loc legendar, dar verificați în prealabil deoarece accesul în camerele interioare este adesea restricționat.",
+            "en": "Discover the prehistoric cave art that makes this site legendary, though check ahead as access to the inner chambers is often restricted for preservation."
+          }
+        },
+        {
+          "name": {
+            "de": "Caletta Porto Russo",
+            "hu": "Caletta Porto Russo",
+            "ro": "Caletta Porto Russo",
+            "en": "Caletta Porto Russo"
+          },
+          "coords": [
+            18.482692,
+            40.077362
+          ],
+          "category": "recreational",
+          "arrive_at": "12:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie das kristallklare Wasser dieser versteckten Bucht und bringen Sie Ihre Schnorchelausrüstung mit, um die lebendige Unterwasserwelt zu bewundern.",
+            "hu": "Élvezze ennek az eldugott öbölnek a kristálytiszta vizét, és hozzon magával búvárfelszerelést, hogy teljes mértékben értékelhesse a tengeri élővilágot.",
+            "ro": "Bucurați-vă de apele cristaline ale acestui golf ascuns, aducându-vă propriul echipament de snorkeling pentru a aprecia pe deplin viața marină vibrantă.",
+            "en": "Enjoy the crystal-clear waters of this hidden cove, bringing your own snorkeling gear to fully appreciate the vibrant marine life beneath the surface."
+          }
+        },
+        {
+          "name": {
+            "de": "La Marmitta dei Giganti",
+            "hu": "La Marmitta dei Giganti",
+            "ro": "La Marmitta dei Giganti",
+            "en": "La Marmitta dei Giganti"
+          },
+          "coords": [
+            18.493511,
+            40.087256
+          ],
+          "category": "landmark",
+          "arrive_at": "13:54",
+          "stay_min": 55,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese beeindruckende, von alten Gewässern in den Fels gewaschene geologische Formation, aber seien Sie an den ungesicherten Klippenrändern vorsichtig.",
+            "hu": "Csodálja meg ezt a lenyűgöző, ősi vizek által kivájt geológiai formációt, de vigyázzon a sziklák pereménél, mivel nincsenek védőkorlátok kialakítva.",
+            "ro": "Admirați această impresionantă formațiune geologică sculptată de apele antice, având mare grijă la marginile stâncilor naturale unde nu există balustrade.",
+            "en": "Marvel at this striking geological pothole carved by ancient waters, taking care near the edges as there are no guardrails along the natural cliffs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie am Geosito delle Rodoliti und spazieren Sie zur Spiaggia di Porto Badisco.\n\nMittags erkunden Sie die historische Grotta dei Cervi, bevor Sie zur Caletta Porto Russo gehen.\n\nAm Nachmittag bestaunen Sie die dramatische Küste an der Marmitta dei Giganti.\n\nBeenden Sie Ihre Tour mit unvergesslichen Panoramablicken auf die Adria.",
+        "hu": "Kezdje a napot a Geosito delle Rodoliti-nél, majd sétáljon át a Spiaggia di Porto Badisco-hoz.\n\nDélben fedezze fel a Grotta dei Cervi-t, mielőtt a Caletta Porto Russo felé veszi az irányt.\n\nDélután csodálja meg a La Marmitta dei Giganti drámai tengerparti kilátását.\n\nZárja a túrát az Adriai-tenger felejthetetlen panorámájának élvezetével.",
+        "ro": "Începeți dimineața la Geosito delle Rodoliti, apoi mergeți la Spiaggia di Porto Badisco.\n\nLa prânz, explorați Grotta dei Cervi înainte de a merge la Caletta Porto Russo.\n\nDupă-amiaza, admirați priveliștile de coastă dramatice de la La Marmitta dei Giganti.\n\nÎncheiați turul bucurându-vă de panoramele adriatice de neuitat de-a lungul coastei.",
+        "en": "Start your morning at the Geosito delle Rodoliti, then walk to Spiaggia di Porto Badisco.\n\nMidday, explore the historic Grotta dei Cervi before moving to Caletta Porto Russo.\n\nIn the afternoon, marvel at the dramatic coastal views of La Marmitta dei Giganti.\n\nEnd your tour by taking in the unforgettable Adriatic panoramas along the coast."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:51",
+      "total_km": 2.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Spiaggia di Porto Badisco",
+            "hu": "Spiaggia di Porto Badisco",
+            "ro": "Spiaggia di Porto Badisco",
+            "en": "Spiaggia di Porto Badisco"
+          },
+          "coords": [
+            18.4825,
+            40.081478
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem malerischen Strand, wo angeblich Äneas landete, und kommen Sie früh am Morgen, um sich einen guten Platz zu sichern.",
+            "hu": "Pihenjen ezen a festői strandon, ahol a legenda szerint Aeneas partra szállt, de érkezzen korán reggel, hogy elkerülje a nyári tömeget.",
+            "ro": "Relaxați-vă pe această plajă pitorească unde s-ar fi oprit Enea, sosind devreme dimineața pentru a prinde un loc bun înainte de aglomerația estivală.",
+            "en": "Relax on this picturesque beach where Aeneas supposedly landed, arriving early in the morning to secure a good spot before the summer crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Geosito delle Rodoliti",
+            "hu": "Geosito delle Rodoliti",
+            "ro": "Geosito delle Rodoliti",
+            "en": "Geosito delle Rodoliti"
+          },
+          "coords": [
+            18.483549,
+            40.081655
+          ],
+          "category": "landmark",
+          "arrive_at": "10:26",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die faszinierenden versteinerten Algenformationen entlang der Felsenküste, für deren unebenes Gelände Sie gute Wanderschuhe benötigen.",
+            "hu": "Figyelje meg a lenyűgöző megkövesedett algaformációkat a sziklás tengerparton, és viseljen kényelmes túracipőt az egyenetlen terep miatt.",
+            "ro": "Observați fascinantele formațiuni de alge fosilizate de-a lungul coastei stâncoase, asigurându-vă că purtați încălțăminte adecvată pentru terenul accidentat.",
+            "en": "Observe the fascinating fossilized algae formations along the rocky coast, bringing good walking shoes to navigate the uneven terrain safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotta dei Cervi",
+            "hu": "Grotta dei Cervi",
+            "ro": "Grotta dei Cervi",
+            "en": "Grotta dei Cervi"
+          },
+          "coords": [
+            18.484947,
+            40.082818
+          ],
+          "category": "natural",
+          "arrive_at": "10:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die prähistorische Höhlenkunst dieses legendären Ortes, aber prüfen Sie vorher, da der Zugang zu den inneren Kammern oft eingeschränkt ist.",
+            "hu": "Fedezze fel a helyet legendássá tevő őskori barlangrajzokat, de indulás előtt tájékozódjon, mivel a belső termek látogatása gyakran korlátozott.",
+            "ro": "Descoperiți arta rupestră preistorică ce face acest loc legendar, dar verificați în prealabil deoarece accesul în camerele interioare este adesea restricționat.",
+            "en": "Discover the prehistoric cave art that makes this site legendary, though check ahead as access to the inner chambers is often restricted for preservation."
+          }
+        },
+        {
+          "name": {
+            "de": "La Marmitta dei Giganti",
+            "hu": "La Marmitta dei Giganti",
+            "ro": "La Marmitta dei Giganti",
+            "en": "La Marmitta dei Giganti"
+          },
+          "coords": [
+            18.493511,
+            40.087256
+          ],
+          "category": "landmark",
+          "arrive_at": "12:13",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese beeindruckende, von alten Gewässern in den Fels gewaschene geologische Formation, aber seien Sie an den ungesicherten Klippenrändern vorsichtig.",
+            "hu": "Csodálja meg ezt a lenyűgöző, ősi vizek által kivájt geológiai formációt, de vigyázzon a sziklák pereménél, mivel nincsenek védőkorlátok kialakítva.",
+            "ro": "Admirați această impresionantă formațiune geologică sculptată de apele antice, având mare grijă la marginile stâncilor naturale unde nu există balustrade.",
+            "en": "Marvel at this striking geological pothole carved by ancient waters, taking care near the edges as there are no guardrails along the natural cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Rota te Trappitu",
+            "hu": "Rota te Trappitu",
+            "ro": "Rota te Trappitu",
+            "en": "Rota te Trappitu"
+          },
+          "coords": [
+            18.496533,
+            40.089768
+          ],
+          "category": "historical",
+          "arrive_at": "12:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser in den Fels gehauenen alten Olivenmühle, die einen faszinierenden Einblick in die landwirtschaftliche Geschichte der Region bietet.",
+            "hu": "Fedezze fel ennek a sziklába vájt ősi olívaolaj-malomnak a maradványait, amely lenyűgöző bepillantást nyújt a régió hagyományos mezőgazdasági történelmébe.",
+            "ro": "Explorați rămășițele acestei vechi mori de ulei de măsline săpate în stâncă, care oferă o privire fascinantă asupra istoriei agricole tradiționale a regiunii.",
+            "en": "Explore the remains of this ancient olive oil mill carved into the rock, which offers a fascinating glimpse into the traditional agricultural history of the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Sant'Emiliano",
+            "hu": "Torre Sant'Emiliano",
+            "ro": "Torre Sant'Emiliano",
+            "en": "Torre Sant'Emiliano"
+          },
+          "coords": [
+            18.496449,
+            40.090681
+          ],
+          "category": "historical",
+          "arrive_at": "14:01",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesem ikonischen Küstenwachturm, um den atemberaubenden Panoramablick auf die Adria zu genießen, am besten während der goldenen Stunde für tolle Fotos.",
+            "hu": "Túrázzon fel ehhez az ikonikus tengerparti őrtoronyhoz, ahonnan lélegzetelállító panoráma nyílik az Adriai-tengerre, különösen a naplemente aranyórájában.",
+            "ro": "Urcați la acest turn de veghe de coastă pentru vederi panoramice uluitoare asupra Mării Adriatice, programându-vă vizita la ora de aur pentru fotografii uimitoare.",
+            "en": "Hike up to this iconic coastal watchtower for breathtaking panoramic views of the Adriatic Sea, timing your visit for the golden hour to capture stunning photographs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag an der Spiaggia di Porto Badisco und stoppen Sie am Geosito delle Rodoliti.\n\nMittags radeln Sie zur Grotta dei Cervi und weiter entlang der spektakulären Küste nach Norden.\n\nAm Nachmittag erreichen Sie La Marmitta dei Giganti und die alte Mühle Rota te Trappitu.\n\nBeenden Sie den Tag am Torre Sant'Emiliano mit einem herrlichen Sonnenuntergang am Meer.",
+        "hu": "Kezdje a kerékpározást a Spiaggia di Porto Badisco-nál, majd tartson egy rövid pihenőt a Geosito delle Rodoliti-nél.\n\nDélben tekerjen a Grotta dei Cervi-hez, majd haladjon észak felé a parton.\n\nDélután érje el a La Marmitta dei Giganti-t és fedezze fel a Rota te Trappitu malmot.\n\nZárja a napot a Torre Sant'Emiliano lenyűgöző tengeri naplementéjével.",
+        "ro": "Începeți ziua de ciclism la Spiaggia di Porto Badisco, urmată de o oprire la Geosito delle Rodoliti.\n\nLa prânz, pedalați spre Grotta dei Cervi, apoi mergeți spre nord de-a lungul coastei spectaculoase.\n\nDupă-amiaza, ajungeți la La Marmitta dei Giganti și descoperiți vechea moară Rota te Trappitu.\n\nÎncheiați ziua la Torre Sant'Emiliano pentru un apus uimitor pe mare.",
+        "en": "Begin your cycling day at the Spiaggia di Porto Badisco, followed by a quick stop at Geosito delle Rodoliti.\n\nMidday, pedal to the prehistoric Grotta dei Cervi, then ride northward along the spectacular coast.\n\nIn the afternoon, reach La Marmitta dei Giganti and discover the ancient Rota te Trappitu mill.\n\nEnd the day at Torre Sant'Emiliano for a stunning sunset over the sea."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:22",
+      "total_km": 5.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa della Madonna della Serra",
+            "hu": "Chiesa della Madonna della Serra",
+            "ro": "Chiesa della Madonna della Serra",
+            "en": "Chiesa della Madonna della Serra"
+          },
+          "coords": [
+            18.455982,
+            40.082934
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betreten Sie diese reizvolle ländliche Kirche, um die lokalen spirituellen Traditionen zu erleben, und beachten Sie die schlichte, aber elegante Architektur.",
+            "hu": "Lépjen be ebbe a bájos vidéki templomba, hogy megtapasztalja a helyi vallási hagyományokat, megfigyelve annak egyszerű, de elegáns építészeti stílusát.",
+            "ro": "Pășiți în această biserică rurală fermecătoare pentru a experimenta tradițiile spirituale locale, observând arhitectura sa simplă, dar elegantă, specifică regiunii.",
+            "en": "Step into this charming rural church to experience local spiritual traditions, noting its simple yet elegant architecture that reflects the region's heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Masseria Consalvi",
+            "hu": "Masseria Consalvi",
+            "ro": "Masseria Consalvi",
+            "en": "Masseria Consalvi"
+          },
+          "coords": [
+            18.466053,
+            40.078012
+          ],
+          "category": "historical",
+          "arrive_at": "09:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie um dieses historische befestigte Bauernhaus, um die ländliche Vergangenheit des Salento zu verstehen und die typischen Verteidigungsmauern zu sehen.",
+            "hu": "Sétáljon körbe ezen a történelmi erődített tanyán, hogy megértse Salento vidéki múltját, és figyelje meg a kalóztámadások ellen épült jellegzetes védőfalakat.",
+            "ro": "Plimbați-vă în jurul acestei ferme fortificate istorice pentru a înțelege trecutul rural din Salento, observând zidurile de apărare construite împotriva piraților.",
+            "en": "Wander around this historic fortified farmhouse to understand Salento's rural past, looking out for the characteristic defensive walls built to deter pirate raids."
+          }
+        },
+        {
+          "name": {
+            "de": "Caletta Porto Russo",
+            "hu": "Caletta Porto Russo",
+            "ro": "Caletta Porto Russo",
+            "en": "Caletta Porto Russo"
+          },
+          "coords": [
+            18.482692,
+            40.077362
+          ],
+          "category": "recreational",
+          "arrive_at": "11:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Genießen Sie das kristallklare Wasser dieser versteckten Bucht und bringen Sie Ihre Schnorchelausrüstung mit, um die lebendige Unterwasserwelt zu bewundern.",
+            "hu": "Élvezze ennek az eldugott öbölnek a kristálytiszta vizét, és hozzon magával búvárfelszerelést, hogy teljes mértékben értékelhesse a tengeri élővilágot.",
+            "ro": "Bucurați-vă de apele cristaline ale acestui golf ascuns, aducându-vă propriul echipament de snorkeling pentru a aprecia pe deplin viața marină vibrantă.",
+            "en": "Enjoy the crystal-clear waters of this hidden cove, bringing your own snorkeling gear to fully appreciate the vibrant marine life beneath the surface."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Porto Badisco",
+            "hu": "Spiaggia di Porto Badisco",
+            "ro": "Spiaggia di Porto Badisco",
+            "en": "Spiaggia di Porto Badisco"
+          },
+          "coords": [
+            18.4825,
+            40.081478
+          ],
+          "category": "recreational",
+          "arrive_at": "12:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem malerischen Strand, wo angeblich Äneas landete, und kommen Sie früh am Morgen, um sich einen guten Platz zu sichern.",
+            "hu": "Pihenjen ezen a festői strandon, ahol a legenda szerint Aeneas partra szállt, de érkezzen korán reggel, hogy elkerülje a nyári tömeget.",
+            "ro": "Relaxați-vă pe această plajă pitorească unde s-ar fi oprit Enea, sosind devreme dimineața pentru a prinde un loc bun înainte de aglomerația estivală.",
+            "en": "Relax on this picturesque beach where Aeneas supposedly landed, arriving early in the morning to secure a good spot before the summer crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotta dei Cervi",
+            "hu": "Grotta dei Cervi",
+            "ro": "Grotta dei Cervi",
+            "en": "Grotta dei Cervi"
+          },
+          "coords": [
+            18.484947,
+            40.082818
+          ],
+          "category": "natural",
+          "arrive_at": "13:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die prähistorische Höhlenkunst dieses legendären Ortes, aber prüfen Sie vorher, da der Zugang zu den inneren Kammern oft eingeschränkt ist.",
+            "hu": "Fedezze fel a helyet legendássá tevő őskori barlangrajzokat, de indulás előtt tájékozódjon, mivel a belső termek látogatása gyakran korlátozott.",
+            "ro": "Descoperiți arta rupestră preistorică ce face acest loc legendar, dar verificați în prealabil deoarece accesul în camerele interioare este adesea restricționat.",
+            "en": "Discover the prehistoric cave art that makes this site legendary, though check ahead as access to the inner chambers is often restricted for preservation."
+          }
+        },
+        {
+          "name": {
+            "de": "La Marmitta dei Giganti",
+            "hu": "La Marmitta dei Giganti",
+            "ro": "La Marmitta dei Giganti",
+            "en": "La Marmitta dei Giganti"
+          },
+          "coords": [
+            18.493511,
+            40.087256
+          ],
+          "category": "landmark",
+          "arrive_at": "15:06",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese beeindruckende, von alten Gewässern in den Fels gewaschene geologische Formation, aber seien Sie an den ungesicherten Klippenrändern vorsichtig.",
+            "hu": "Csodálja meg ezt a lenyűgöző, ősi vizek által kivájt geológiai formációt, de vigyázzon a sziklák pereménél, mivel nincsenek védőkorlátok kialakítva.",
+            "ro": "Admirați această impresionantă formațiune geologică sculptată de apele antice, având mare grijă la marginile stâncilor naturale unde nu există balustrade.",
+            "en": "Marvel at this striking geological pothole carved by ancient waters, taking care near the edges as there are no guardrails along the natural cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Sant'Emiliano",
+            "hu": "Torre Sant'Emiliano",
+            "ro": "Torre Sant'Emiliano",
+            "en": "Torre Sant'Emiliano"
+          },
+          "coords": [
+            18.496449,
+            40.090681
+          ],
+          "category": "historical",
+          "arrive_at": "15:32",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesem ikonischen Küstenwachturm, um den atemberaubenden Panoramablick auf die Adria zu genießen, am besten während der goldenen Stunde für tolle Fotos.",
+            "hu": "Túrázzon fel ehhez az ikonikus tengerparti őrtoronyhoz, ahonnan lélegzetelállító panoráma nyílik az Adriai-tengerre, különösen a naplemente aranyórájában.",
+            "ro": "Urcați la acest turn de veghe de coastă pentru vederi panoramice uluitoare asupra Mării Adriatice, programându-vă vizita la ora de aur pentru fotografii uimitoare.",
+            "en": "Hike up to this iconic coastal watchtower for breathtaking panoramic views of the Adriatic Sea, timing your visit for the golden hour to capture stunning photographs."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt mit der Ruhe der Chiesa della Madonna della Serra und der Masseria Consalvi.\n\nMittags entspannen Sie an der Caletta Porto Russo, besuchen die Spiaggia di Porto Badisco und die Grotta dei Cervi.\n\nAm Nachmittag folgen Sie der Küstenstraße nach Norden zur Marmitta dei Giganti.\n\nBeenden Sie den Ausflug mit herrlichen Ausblicken vom Torre Sant'Emiliano.",
+        "hu": "Indítsa útját a Chiesa della Madonna della Serra és az erődített Masseria Consalvi meglátogatásával.\n\nDélben pihenjen a Caletta Porto Russo-nál, majd nézze meg a Spiaggia di Porto Badisco-t és a Grotta dei Cervi-t.\n\nDélután kövesse a festői parti utat észak felé a La Marmitta dei Giganti-hoz.\n\nZárja az autós túrát a Torre Sant'Emiliano lélegzetelállító panorámájával.",
+        "ro": "Începeți călătoria cu liniștea de la Chiesa della Madonna della Serra și fortificata Masseria Consalvi.\n\nLa prânz, relaxați-vă la Caletta Porto Russo, vizitați Spiaggia di Porto Badisco și Grotta dei Cervi.\n\nDupă-amiaza, urmați drumul de coastă spre nord până la La Marmitta dei Giganti.\n\nÎncheiați excursia auto cu vederi panoramice uluitoare de la Torre Sant'Emiliano.",
+        "en": "Kick off your drive with the tranquility of Chiesa della Madonna della Serra and the fortified Masseria Consalvi.\n\nMidday, relax at Caletta Porto Russo, visit Spiaggia di Porto Badisco and Grotta dei Cervi.\n\nIn the afternoon, follow the scenic coastal road north to La Marmitta dei Giganti.\n\nConclude your road trip with breathtaking panoramic views from Torre Sant'Emiliano."
+      }
+    }
+  }
+}

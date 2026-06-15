@@ -1,0 +1,520 @@
+{
+  "city_id": "spain-loja-cities-v2",
+  "anchor": {
+    "name": "Loja",
+    "coords": [
+      -4.149957,
+      37.166389
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:57",
+      "total_km": 1.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ayuntamiento de Loja",
+            "hu": "Ayuntamiento de Loja",
+            "ro": "Ayuntamiento de Loja",
+            "en": "Ayuntamiento de Loja"
+          },
+          "coords": [
+            -4.149892,
+            37.166483
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur des Rathauses, ein Symbol der lokalen Geschichte, und schauen Sie sich die Informationstafeln für aktuelle Veranstaltungen an.",
+            "hu": "Csodálja meg a városháza lenyűgöző építészetét, a helyi történelem szimbólumát, és indulás előtt mindenképpen ellenőrizze a hirdetőtáblákon a közelgő kulturális eseményeket.",
+            "ro": "Admirați arhitectura impresionantă a primăriei, un simbol istoric, și verificați neapărat panourile informative pentru evenimente culturale locale înainte de a pleca mai departe.",
+            "en": "Admire the impressive architecture of Loja's town hall, a symbol of local history, and be sure to check the notice boards for upcoming cultural events before you leave."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia Santa Catalina",
+            "hu": "Iglesia Santa Catalina",
+            "ro": "Iglesia Santa Catalina",
+            "en": "Iglesia Santa Catalina"
+          },
+          "coords": [
+            -4.149063,
+            37.165206
+          ],
+          "category": "religious",
+          "arrive_at": "10:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses atemberaubende religiöse Gebäude, um das spirituelle Erbe von Loja zu verstehen, und kommen Sie früh, um das Licht der Buntglasfenster zu genießen.",
+            "hu": "Fedezze fel ezt a lenyűgöző vallási épületet, hogy megértse Loja spirituális örökségét, és látogasson el kora reggel, hogy megtapasztalja a csodás ólomüveg fényét.",
+            "ro": "Explorați această clădire religioasă uimitoare pentru a înțelege moștenirea spirituală a Lojei și vizitați-o dimineața devreme pentru a vă bucura de lumina vitraliilor.",
+            "en": "Explore this stunning religious building to understand the spiritual heritage of Loja, and visit during the early morning hours to experience the beautiful stained glass light."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Imperial",
+            "hu": "Teatro Imperial",
+            "ro": "Teatro Imperial",
+            "en": "Teatro Imperial"
+          },
+          "coords": [
+            -4.152905,
+            37.166541
+          ],
+          "category": "cultural",
+          "arrive_at": "11:19",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Entdecken Sie das lebendige kulturelle Zentrum in diesem historischen Theater und buchen Sie Tickets für eine lokale Aufführung im Voraus für einen unvergesslichen Abend.",
+            "hu": "Fedezze fel a város vibráló kulturális szívét ebben a történelmi színházban, és próbáljon előre jegyet foglalni egy helyi előadásra, hogy garantálja a felejthetetlen estét.",
+            "ro": "Descoperiți inima culturală vibrantă a orașului în acest teatru istoric și încercați să rezervați bilete la o reprezentație locală din timp pentru o seară memorabilă.",
+            "en": "Discover the vibrant cultural heart of the city within this historic theater, and try to book tickets for a local performance in advance to guarantee an unforgettable evening."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador Arqueológico",
+            "hu": "Mirador Arqueológico",
+            "ro": "Mirador Arqueológico",
+            "en": "Mirador Arqueológico"
+          },
+          "coords": [
+            -4.1516,
+            37.167346
+          ],
+          "category": "natural",
+          "arrive_at": "13:02",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Panoramablick über die antiken Ruinen, die Lojas Vergangenheit prägen, und bringen Sie ein Fernglas mit, um versteckte Details am Hang zu erkennen.",
+            "hu": "Élvezze a Loja múltját meghatározó ősi romokra nyíló panorámát, és hozzon magával távcsövet vagy zoom objektívet a zord hegyoldal rejtett részleteinek felfedezéséhez.",
+            "ro": "Bucurați-vă de vederile panoramice asupra ruinelor antice care definesc trecutul Lojei și aduceți un binoclu pentru a observa detaliile ascunse de-a lungul dealului abrupt.",
+            "en": "Take in sweeping panoramic views over the ancient ruins that define Loja’s past, and bring a zoom lens or binoculars to spot hidden details along the rugged hillside."
+          }
+        },
+        {
+          "name": {
+            "de": "Puente del Barrancón",
+            "hu": "Puente del Barrancón",
+            "ro": "Puente del Barrancón",
+            "en": "Puente del Barrancón"
+          },
+          "coords": [
+            -4.151548,
+            37.169548
+          ],
+          "category": "landmark",
+          "arrive_at": "13:31",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese historische Brücke, die die modernen und historischen Viertel wunderschön verbindet, und bleiben Sie für die besten Fotos auf dem Fußgängerweg.",
+            "hu": "Sétáljon át ezen a történelmi hídon, amely gyönyörűen összeköti a modern és történelmi negyedeket, de a legjobb fotók érdekében maradjon a kijelölt gyalogos ösvényen.",
+            "ro": "Traversați acest pod istoric ce conectează minunat cartierele orașului și asigurați-vă că rămâneți pe aleea pietonală desemnată pentru a surprinde cele mai bune fotografii.",
+            "en": "Cross this historic bridge that beautifully connects the city's modern and historic districts, taking care to stay on the designated pedestrian path for the best photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardines Narváez",
+            "hu": "Jardines Narváez",
+            "ro": "Jardines Narváez",
+            "en": "Jardines Narváez"
+          },
+          "coords": [
+            -4.151059,
+            37.17051
+          ],
+          "category": "park",
+          "arrive_at": "13:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Entspannen Sie im üppigen Grün dieser gepflegten Gärten zu Ehren lokaler Legenden und holen Sie sich einen Kaffee, um ihn auf einer der schattigen Bänke zu genießen.",
+            "hu": "Pihenjen a helyi legendák előtt tisztelgő, gondozott kertek buja növényzete között, és igyon meg egy kávét egy árnyékos padon a délutáni meleg elől menekülve.",
+            "ro": "Relaxați-vă în verdeața luxuriantă a acestor grădini îngrijite care onorează legendele locale și luați o cafea pentru a o savura pe o bancă umbrită în timpul după-amiezii.",
+            "en": "Relax in the lush greenery of these manicured gardens honoring local legends, and grab a coffee nearby to enjoy on one of the shaded benches during the heat of the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Claustro del Convento de San Francisco",
+            "hu": "Claustro del Convento de San Francisco",
+            "ro": "Claustro del Convento de San Francisco",
+            "en": "Claustro del Convento de San Francisco"
+          },
+          "coords": [
+            -4.151492,
+            37.172696
+          ],
+          "category": "historical",
+          "arrive_at": "15:07",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die friedlichen Kreuzgänge dieses alten Klosters, um seine Architektur zu bewundern, und sprechen Sie leise, da es ein Ort der ruhigen Besinnung ist.",
+            "hu": "Sétáljon végig az ősi kolostor békés kerengőin, hogy megcsodálja nyugodt építészetét, és ne feledjen halkan beszélni, mivel ez még mindig a csendes elmélkedés helye.",
+            "ro": "Plimbați-vă prin claustrul pașnic al acestei mănăstiri vechi pentru a-i admira arhitectura senină și amintiți-vă să vorbiți încet, fiind încă un loc de reflecție liniștită.",
+            "en": "Wander through the peaceful cloisters of this ancient convent to admire its serene architecture, and remember to speak softly as it remains a place of quiet reflection."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Wandertour beginnt im historischen Herzen von Loja mit dem markanten Ayuntamiento und der wunderschönen Iglesia Santa Catalina.\nMittags gibt es eine kulturelle Pause im Teatro Imperial, gefolgt von atemberaubenden Ausblicken am Mirador Arqueológico und der Brücke.\nVerbringen Sie Ihren Nachmittag entspannt auf den schattigen Wegen der Jardines Narváez, um der andalusischen Hitze in Ruhe zu entfliehen.\nDer Abend ist dem ruhigen Kreuzgang des Convento de San Francisco gewidmet, ein friedlicher Abschluss eines wundervollen Erkundungstages.",
+        "hu": "Sétája Loja történelmi szívében kezdődik a lenyűgöző városháza megtekintésével, majd a gyönyörű Santa Catalina templom következik.\nA délidő kulturális kikapcsolódást hoz a Teatro Imperialban, melyet a Mirador Arqueológico lenyűgöző kilátása és a Puente del Barrancón követ.\nTöltse a délutánt pihenéssel a Jardines Narváez árnyas ösvényein, nyugodt környezetben menekülve a jellegzetes andalúziai hőség elől.\nAz estét a San Francisco-i kolostor békés kerengőjének szenteljük, amely méltó, nyugodt lezárása az építészeti felfedezésekkel teli napnak.",
+        "ro": "Turul pietonal începe în inima istorică din Loja, cu impresionanta Primărie, urmată de frumoasa biserică Santa Catalina de pe traseu.\nMiezul zilei aduce un interludiu cultural la Teatro Imperial, urmat de priveliștile uimitoare de la Mirador Arqueológico și podul istoric.\nPetreceți după-amiaza relaxându-vă pe aleile umbrite ale grădinilor Narváez, scăpând de căldura andaluză într-un cadru deosebit de liniștit.\nSeara este dedicată claustrului senin al mănăstirii San Francisco, oferind o concluzie pașnică unei zile de descoperiri arhitecturale.",
+        "en": "Your walking tour begins at the historical heart of Loja. We start at the striking Ayuntamiento, followed by the beautiful Iglesia Santa Catalina.\nMidday brings a cultural interlude at Teatro Imperial, followed by stunning vistas at Mirador Arqueológico and a walk across Puente del Barrancón.\nSpend your afternoon relaxing in the shaded paths of Jardines Narváez, escaping the Andalusian heat in a tranquil setting.\nThe evening is devoted to the serene Claustro del Convento de San Francisco, offering a peaceful conclusion to a day of architectural discovery."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:16",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ayuntamiento de Loja",
+            "hu": "Ayuntamiento de Loja",
+            "ro": "Ayuntamiento de Loja",
+            "en": "Ayuntamiento de Loja"
+          },
+          "coords": [
+            -4.149892,
+            37.166483
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur des Rathauses, ein Symbol der lokalen Geschichte, und schauen Sie sich die Informationstafeln für aktuelle Veranstaltungen an.",
+            "hu": "Csodálja meg a városháza lenyűgöző építészetét, a helyi történelem szimbólumát, és indulás előtt mindenképpen ellenőrizze a hirdetőtáblákon a közelgő kulturális eseményeket.",
+            "ro": "Admirați arhitectura impresionantă a primăriei, un simbol istoric, și verificați neapărat panourile informative pentru evenimente culturale locale înainte de a pleca mai departe.",
+            "en": "Admire the impressive architecture of Loja's town hall, a symbol of local history, and be sure to check the notice boards for upcoming cultural events before you leave."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de Isabel de Castilla",
+            "hu": "Mirador de Isabel de Castilla",
+            "ro": "Mirador de Isabel de Castilla",
+            "en": "Mirador de Isabel de Castilla"
+          },
+          "coords": [
+            -4.154012,
+            37.165579
+          ],
+          "category": "natural",
+          "arrive_at": "10:33",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Blicken Sie von diesem königlichen Aussichtspunkt zu Ehren von Königin Isabella auf die dramatische Landschaft und kommen Sie zum Sonnenuntergang für das beste Licht.",
+            "hu": "Tekintsen le a drámai tájra az Izabella királynő előtt tisztelgő királyi kilátóból, és próbáljon naplementekor érkezni, amikor az aranyóra gyönyörűen megvilágítja a völgyet.",
+            "ro": "Priviți peisajul dramatic de la acest punct de belvedere regal dedicat reginei Isabela și vizitați-l la apus, când ora de aur luminează absolut minunat întreaga vale.",
+            "en": "Gaze across the dramatic landscape from this royal viewpoint honoring Queen Isabella, and try to visit right at sunset when the golden hour beautifully illuminates the valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador Sylvania",
+            "hu": "Mirador Sylvania",
+            "ro": "Mirador Sylvania",
+            "en": "Mirador Sylvania"
+          },
+          "coords": [
+            -4.159152,
+            37.168464
+          ],
+          "category": "natural",
+          "arrive_at": "11:02",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Moment an diesem malerischen Aussichtspunkt mit Blick auf die Hügel, und tragen Sie feste Schuhe, da der Weg nach oben leicht uneben sein kann.",
+            "hu": "Élvezze a nyugodt pillanatot ezen a festői kilátón, amely friss perspektívát kínál az andalúz dombokra, és viseljen masszív cipőt, mivel az odavezető út kissé egyenetlen.",
+            "ro": "Bucurați-vă de un moment liniștit la acest punct de belvedere ce oferă perspective noi asupra dealurilor andaluze și purtați încălțăminte robustă pentru traseul accidentat.",
+            "en": "Enjoy a tranquil moment at this scenic overlook offering fresh perspectives of the Andalusian hills, and wear sturdy shoes as the path leading up can be slightly uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardines Narváez",
+            "hu": "Jardines Narváez",
+            "ro": "Jardines Narváez",
+            "en": "Jardines Narváez"
+          },
+          "coords": [
+            -4.151059,
+            37.17051
+          ],
+          "category": "park",
+          "arrive_at": "11:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Entspannen Sie im üppigen Grün dieser gepflegten Gärten zu Ehren lokaler Legenden und holen Sie sich einen Kaffee, um ihn auf einer der schattigen Bänke zu genießen.",
+            "hu": "Pihenjen a helyi legendák előtt tisztelgő, gondozott kertek buja növényzete között, és igyon meg egy kávét egy árnyékos padon a délutáni meleg elől menekülve.",
+            "ro": "Relaxați-vă în verdeața luxuriantă a acestor grădini îngrijite care onorează legendele locale și luați o cafea pentru a o savura pe o bancă umbrită în timpul după-amiezii.",
+            "en": "Relax in the lush greenery of these manicured gardens honoring local legends, and grab a coffee nearby to enjoy on one of the shaded benches during the heat of the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Claustro del Convento de San Francisco",
+            "hu": "Claustro del Convento de San Francisco",
+            "ro": "Claustro del Convento de San Francisco",
+            "en": "Claustro del Convento de San Francisco"
+          },
+          "coords": [
+            -4.151492,
+            37.172696
+          ],
+          "category": "historical",
+          "arrive_at": "12:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die friedlichen Kreuzgänge dieses alten Klosters, um seine Architektur zu bewundern, und sprechen Sie leise, da es ein Ort der ruhigen Besinnung ist.",
+            "hu": "Sétáljon végig az ősi kolostor békés kerengőin, hogy megcsodálja nyugodt építészetét, és ne feledjen halkan beszélni, mivel ez még mindig a csendes elmélkedés helye.",
+            "ro": "Plimbați-vă prin claustrul pașnic al acestei mănăstiri vechi pentru a-i admira arhitectura senină și amintiți-vă să vorbiți încet, fiind încă un loc de reflecție liniștită.",
+            "en": "Wander through the peaceful cloisters of this ancient convent to admire its serene architecture, and remember to speak softly as it remains a place of quiet reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador Infiernos de Loja",
+            "hu": "Mirador Infiernos de Loja",
+            "ro": "Mirador Infiernos de Loja",
+            "en": "Mirador Infiernos de Loja"
+          },
+          "coords": [
+            -4.127392,
+            37.170884
+          ],
+          "category": "natural",
+          "arrive_at": "14:21",
+          "stay_min": 55,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.15,
+          "tip_5lang": {
+            "de": "Erleben Sie die rohe Kraft der Natur an diesen spektakulären Wasserfällen und bringen Sie eine wasserdichte Jacke mit, da der Nebel des fallenden Wassers recht kühl wird.",
+            "hu": "Legyen szemtanúja a természet nyers erejének ezeknél a látványos vízeséseknél, és hozzon magával vízálló kabátot, mert a lezúduló víz párája meglehetősen hűvös lehet.",
+            "ro": "Fii martor la puterea brută a naturii la aceste cascade spectaculoase și adu o jachetă impermeabilă, deoarece ceața apei învolburate te poate stropi destul de serios.",
+            "en": "Witness the raw power of nature at these spectacular cascading waterfalls, and bring a waterproof jacket because the mist from the plunging water can get quite chilly."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt am majestätischen Ayuntamiento, bevor Sie gen Westen radeln, um das Morgenlicht am Mirador de Isabel einzufangen.\nTreten Sie in die Pedale zum Mirador Sylvania für eine weitere Aussicht und gleiten Sie dann hinab zu den Jardines Narváez für eine Pause.\nAm Nachmittag erkunden Sie die ruhige Majestät des Convento de San Francisco und nehmen sich Zeit für die architektonischen Details.\nBeenden Sie Ihr Fahrradabenteuer mit einer Fahrt nach Osten zum spektakulären Mirador Infiernos, um den Wasserfällen in der Dämmerung zuzuhören.",
+        "hu": "Kezdje kerékpáros túráját a fenséges városházánál, mielőtt kissé nyugat felé tekerne, hogy megcsodálja a reggeli fényeket a Mirador de Isabelről.\nTekerjen a Mirador Sylvania felé egy újabb fantasztikus kilátóhoz, majd ereszkedjen le a Jardines Narváezbe egy frissítő, zöld szünetre.\nDélután fedezze fel a San Francisco kolostor nyugodt fenségét, időt szánva a finom és különleges építészeti részletek értékelésére.\nFejezze be kalandját egy keleti úttal a látványos Mirador Infiernos de Loja felé, hallgatva az üvöltő vízeséseket a békés alkonyatban.",
+        "ro": "Începeți plimbarea cu bicicleta la maiestuoasa Primărie înainte de a pedala ușor spre vest pentru a prinde lumina dimineții la Mirador de Isabel.\nPedalați spre Mirador Sylvania pentru un alt punct de belvedere, apoi coborâți către Jardines Narváez pentru o pauză verde revigorantă.\nDupă-amiaza, explorați măreția liniștită a claustrului mănăstirii San Francisco, făcându-vă timp să-i apreciați detaliile arhitecturale.\nÎncheiați aventura cu o plimbare spre est la spectaculosul Mirador Infiernos de Loja, ascultând cascadele zgomotoase direct la amurg.",
+        "en": "Start your ride at the majestic Ayuntamiento de Loja before cycling slightly west to catch the morning light over the Mirador de Isabel.\nPedal towards the Mirador Sylvania for another fantastic viewpoint, then glide down to the Jardines Narváez for a refreshing green break.\nIn the afternoon, explore the quiet majesty of the Claustro del Convento de San Francisco, taking time to appreciate its fine details.\nFinish your biking adventure with a ride east to the spectacular Mirador Infiernos de Loja, listening to the roaring waterfalls at dusk."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:32",
+      "total_km": 7.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ayuntamiento de Loja",
+            "hu": "Ayuntamiento de Loja",
+            "ro": "Ayuntamiento de Loja",
+            "en": "Ayuntamiento de Loja"
+          },
+          "coords": [
+            -4.149892,
+            37.166483
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur des Rathauses, ein Symbol der lokalen Geschichte, und schauen Sie sich die Informationstafeln für aktuelle Veranstaltungen an.",
+            "hu": "Csodálja meg a városháza lenyűgöző építészetét, a helyi történelem szimbólumát, és indulás előtt mindenképpen ellenőrizze a hirdetőtáblákon a közelgő kulturális eseményeket.",
+            "ro": "Admirați arhitectura impresionantă a primăriei, un simbol istoric, și verificați neapărat panourile informative pentru evenimente culturale locale înainte de a pleca mai departe.",
+            "en": "Admire the impressive architecture of Loja's town hall, a symbol of local history, and be sure to check the notice boards for upcoming cultural events before you leave."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de Isabel de Castilla",
+            "hu": "Mirador de Isabel de Castilla",
+            "ro": "Mirador de Isabel de Castilla",
+            "en": "Mirador de Isabel de Castilla"
+          },
+          "coords": [
+            -4.154012,
+            37.165579
+          ],
+          "category": "natural",
+          "arrive_at": "10:32",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Blicken Sie von diesem königlichen Aussichtspunkt zu Ehren von Königin Isabella auf die dramatische Landschaft und kommen Sie zum Sonnenuntergang für das beste Licht.",
+            "hu": "Tekintsen le a drámai tájra az Izabella királynő előtt tisztelgő királyi kilátóból, és próbáljon naplementekor érkezni, amikor az aranyóra gyönyörűen megvilágítja a völgyet.",
+            "ro": "Priviți peisajul dramatic de la acest punct de belvedere regal dedicat reginei Isabela și vizitați-l la apus, când ora de aur luminează absolut minunat întreaga vale.",
+            "en": "Gaze across the dramatic landscape from this royal viewpoint honoring Queen Isabella, and try to visit right at sunset when the golden hour beautifully illuminates the valley."
+          }
+        },
+        {
+          "name": {
+            "de": "Villae de Fuente Santa",
+            "hu": "Villae de Fuente Santa",
+            "ro": "Villae de Fuente Santa",
+            "en": "Villae de Fuente Santa"
+          },
+          "coords": [
+            -4.173649,
+            37.172145
+          ],
+          "category": "historical",
+          "arrive_at": "11:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Römerzeit ein, indem Sie die Ruinen dieser antiken Villa erkunden, und lesen Sie die Informationstafeln, um ihre volle historische Bedeutung zu erfassen.",
+            "hu": "Lépjen vissza a római korba ezen ősi villa lenyűgöző romjainak felfedezésével, és feltétlenül olvassa el a tájékoztató táblákat, hogy megértse teljes történelmi jelentőségét.",
+            "ro": "Întoarceți-vă în timpurile romane explorând ruinele fascinante ale acestei vile antice și asigurați-vă că citiți plăcile informative pentru a-i înțelege scopul istoric.",
+            "en": "Step back into Roman times by exploring the fascinating ruins of this ancient villa, and be sure to read the informational plaques thoroughly to grasp its full historical scope."
+          }
+        },
+        {
+          "name": {
+            "de": "Casería de la Peña",
+            "hu": "Casería de la Peña",
+            "ro": "Casería de la Peña",
+            "en": "Casería de la Peña"
+          },
+          "coords": [
+            -4.131595,
+            37.175495
+          ],
+          "category": "historical",
+          "arrive_at": "12:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 3.75,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle ländliche Architektur dieses historischen Anwesens und bringen Sie Ihre Kamera mit, um die charmanten rustikalen Innenhöfe einzufangen.",
+            "hu": "Csodálja meg ennek a történelmi birtoknak a hagyományos vidéki építészetét, amely bemutatja az andalúz mezőgazdasági életet, és hozza magával fényképezőgépét a fotózáshoz.",
+            "ro": "Admirați arhitectura rurală tradițională a acestei moșii istorice ce prezintă viața agricolă andaluză și aduceți camera pentru a surprinde curțile rustice fermecătoare.",
+            "en": "Admire the traditional rural architecture of this historical estate that showcases Andalusian farming life, and bring your camera to capture the charming rustic courtyards."
+          }
+        },
+        {
+          "name": {
+            "de": "La Esperanza",
+            "hu": "La Esperanza",
+            "ro": "La Esperanza",
+            "en": "La Esperanza"
+          },
+          "coords": [
+            -4.128809,
+            37.170792
+          ],
+          "category": "historical",
+          "arrive_at": "13:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.58,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese bedeutende historische Stätte, um tiefer in die regionalen Traditionen einzutauchen, und fragen Sie die lokalen Führer nach den Folklore-Legenden.",
+            "hu": "Látogassa meg ezt a jelentős történelmi helyszínt, hogy mélyebben elmerüljön Loja regionális hagyományaiban, és kérdezze a helyi idegenvezetőket az alapításhoz fűződő legendákról.",
+            "ro": "Vizitați acest sit istoric semnificativ pentru a aprofunda tradițiile regionale ale Lojei și întrebați ghizii locali despre legendele folclorice asociate fundațiilor sale.",
+            "en": "Visit this significant historical site to delve deeper into the regional traditions of Loja, and ask the local guides about the folklore legends associated with its foundations."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador Infiernos de Loja",
+            "hu": "Mirador Infiernos de Loja",
+            "ro": "Mirador Infiernos de Loja",
+            "en": "Mirador Infiernos de Loja"
+          },
+          "coords": [
+            -4.127392,
+            37.170884
+          ],
+          "category": "natural",
+          "arrive_at": "15:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erleben Sie die rohe Kraft der Natur an diesen spektakulären Wasserfällen und bringen Sie eine wasserdichte Jacke mit, da der Nebel des fallenden Wassers recht kühl wird.",
+            "hu": "Legyen szemtanúja a természet nyers erejének ezeknél a látványos vízeséseknél, és hozzon magával vízálló kabátot, mert a lezúduló víz párája meglehetősen hűvös lehet.",
+            "ro": "Fii martor la puterea brută a naturii la aceste cascade spectaculoase și adu o jachetă impermeabilă, deoarece ceața apei învolburate te poate stropi destul de serios.",
+            "en": "Witness the raw power of nature at these spectacular cascading waterfalls, and bring a waterproof jacket because the mist from the plunging water can get quite chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "El Manzanil",
+            "hu": "El Manzanil",
+            "ro": "El Manzanil",
+            "en": "El Manzanil"
+          },
+          "coords": [
+            -4.128266,
+            37.165037
+          ],
+          "category": "historical",
+          "arrive_at": "15:42",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise an diesem historischen Wahrzeichen, das die reiche maurische und christliche Vergangenheit widerspiegelt, und machen Sie einen Spaziergang um das Gelände.",
+            "hu": "Zárja utazását ennél a történelmi nevezetességnél, amely a gazdag mór és keresztény múltat idézi, és szánjon időt a kerületének bejárására a teljes építészeti értékeléshez.",
+            "ro": "Încheiați călătoria la acest reper istoric ce reflectă trecutul bogat maur și creștin, făcându-vă timp să vă plimbați pe perimetrul său pentru o apreciere arhitecturală.",
+            "en": "Conclude your journey at this historic landmark that echoes the rich Moorish and Christian past, taking time to stroll its perimeter for a complete architectural appreciation."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour startet am zentralen Rathaus, bevor ein kurzer Sprung zum Mirador de Isabel de Castilla atemberaubende Panoramablicke bietet.\nFahren Sie nach Westen zur Villae de Fuente Santa und machen Sie eine Schleife nach Nordosten zur traditionellen Casería de la Peña.\nDer Nachmittag führt Sie nach Osten zur historischen Stätte La Esperanza, gefolgt von einem Besuch des tosenden Mirador Infiernos de Loja.\nBeenden Sie Ihren Roadtrip zurück in Richtung Stadtzentrum bei El Manzanil und erkunden Sie diese wichtige Stätte bei Sonnenuntergang.",
+        "hu": "Autós túrája a központi városházáról indul, mielőtt egy gyors ugrással a Mirador de Isabel de Castilla panorámás kilátásához érne.\nVezessen nyugatra, hogy felfedezze a Villae de Fuente Santa római örökségét, majd kanyarodjon északkelet felé a hagyományos Casería de la Peñához.\nA délután kelet felé viszi a történelmi jelentőségű La Esperanza irányába, majd a zúgó Mirador Infiernos de Loja vízesés meglátogatása következik.\nZárja autós utazását a városközpont felé haladva az El Manzanilnál, felfedezve ezt a kulcsfontosságú történelmi helyszínt a naplemente fényében.",
+        "ro": "Turul auto pornește de la Primăria centrală, înainte de un scurt salt la Mirador de Isabel de Castilla pentru vederi panoramice spectaculoase.\nConduceți spre vest pentru a explora moștenirea romană de la Villae de Fuente Santa, apoi la Casería de la Peña în partea de nord-est.\nDupă-amiaza vă duce spre est, către importanța istorică a sitului La Esperanza, urmat de o vizită la zgomotosul Mirador Infiernos de Loja.\nÎncheiați excursia rutieră înapoi spre centrul orașului la El Manzanil, explorând acest sit istoric cheie în timp ce soarele apune peste Loja.",
+        "en": "Your driving tour sets off from the central Ayuntamiento, before a quick hop to the Mirador de Isabel de Castilla for panoramic views.\nDrive out west to explore the Roman heritage at Villae de Fuente Santa, then loop northeast to see the traditional Casería de la Peña.\nThe afternoon takes you east towards the historical significance of La Esperanza, followed by a visit to the roaring Mirador Infiernos de Loja.\nConclude your road trip back towards the city center at El Manzanil, exploring this key historical site as the sun sets over Loja."
+      }
+    }
+  }
+}

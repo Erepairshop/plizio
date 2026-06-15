@@ -1,0 +1,497 @@
+{
+  "city_id": "cabries",
+  "anchor": {
+    "name": "Cabriès",
+    "coords": [
+      5.3797,
+      43.4411
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:13",
+      "total_km": 0.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt von Cabriès",
+            "hu": "Cabriès óvárosa",
+            "ro": "Satul Vechi din Cabriès",
+            "en": "Old Village of Cabriès"
+          },
+          "coords": [
+            5.379888,
+            43.441196
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schlendern Sie früh am Tag durch die charmanten mittelalterlichen Gassen dieses Hügeldorfes, um die zeitlose Architektur und die friedliche, provenzalische Atmosphäre zu genießen.",
+            "hu": "Sétáljon kora reggel a dombtetőn fekvő falu középkori sikátoraiban, hogy igazán értékelni tudja annak időtlen építészetét és békés, autentikus provence-i hangulatát.",
+            "ro": "Plimbați-vă dimineața pe străduțele medievale ale acestui sat de pe colină pentru a aprecia pe deplin arhitectura atemporală și atmosfera sa autentică provensală.",
+            "en": "Wander the charming medieval alleys of this hilltop village early in the day to fully appreciate its timeless architecture and peaceful, authentic Provençal atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Cabriès",
+            "hu": "Cabriès kastélya",
+            "ro": "Castelul Cabriès",
+            "en": "Cabriès Castle"
+          },
+          "coords": [
+            5.379029,
+            43.441139
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historische Festung, die das Dorf krönt, und tragen Sie bequeme Schuhe, da die gepflasterten Wege zum Eingang uneben sein können.",
+            "hu": "Fedezze fel a falut koronázó történelmi erődöt, de mindenképpen kényelmes cipőt viseljen, mivel a bejárathoz vezető köves utak meglehetősen egyenetlenek lehetnek.",
+            "ro": "Explorați fortăreața istorică ce încununează satul și purtați încălțăminte confortabilă, deoarece căile pietruite spre intrare pot fi destul de denivelate.",
+            "en": "Explore the historic fortress that perfectly crowns the village, and make sure to wear comfortable walking shoes as the stone pathways leading to the entrance can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Edgar Mélik Museum",
+            "hu": "Edgar Mélik Múzeum",
+            "ro": "Muzeul Edgar Mélik",
+            "en": "Edgar Mélik Museum"
+          },
+          "coords": [
+            5.378863,
+            43.441201
+          ],
+          "category": "cultural",
+          "arrive_at": "11:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die zeitgenössischen Kunstwerke in den alten Burgmauern und holen Sie sich einen Audioguide, um die spannenden Geschichten hinter Méliks Stil zu entdecken.",
+            "hu": "Csodálja meg a történelmi várfalak között kiállított kortárs műveket, és kérjen egy audioguide-ot a recepción, hogy megismerje Mélik egyedi stílusának történetét.",
+            "ro": "Admirați arta contemporană din incinta vechilor ziduri ale castelului și solicitați un ghid audio pentru a descoperi poveștile din spatele stilului unic al lui Mélik.",
+            "en": "Admire the vibrant contemporary artworks housed within the historic castle walls, and grab an audio guide at the reception to uncover the fascinating stories behind Mélik's unique style."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Sainte-Marie-de-la-Nativité",
+            "hu": "Sainte-Marie-de-la-Nativité templom",
+            "ro": "Biserica Sainte-Marie-de-la-Nativité",
+            "en": "Church of Sainte-Marie-de-la-Nativité"
+          },
+          "coords": [
+            5.378605,
+            43.440769
+          ],
+          "category": "religious",
+          "arrive_at": "13:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Treten Sie ein in dieses wunderschöne Gotteshaus, genießen Sie die friedliche Atmosphäre und bewundern Sie die kunstvoll geschnitzten Holzdetails am Hauptaltar.",
+            "hu": "Lépjen be ebbe a gyönyörű templomba, élvezze a békés hangulatot, és szánjon egy percet a főoltár közelében lévő bonyolultan faragott fadarabok megfigyelésére.",
+            "ro": "Pășiți în acest lăcaș frumos pentru a experimenta ambianța senină și acordați-vă un moment pentru a examina detaliile din lemn sculptat complex de lângă altarul principal.",
+            "en": "Step inside this beautiful religious site to experience its serene ambiance, and take a moment to closely examine the intricately carved wooden details near the main altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Piton de Cabriès",
+            "hu": "Piton de Cabriès",
+            "ro": "Piton de Cabriès",
+            "en": "Piton de Cabriès"
+          },
+          "coords": [
+            5.379388,
+            43.441531
+          ],
+          "category": "natural",
+          "arrive_at": "14:18",
+          "stay_min": 55,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Steigen Sie auf diesen markanten Felsvorsprung, um einen spektakulären Panoramablick über die Landschaft zu genießen und unvergessliche Nachmittagsfotos zu machen.",
+            "hu": "Másszon fel erre a lenyűgöző sziklás kiemelkedésre a környező tájra nyíló panorámáért, és mindenképpen hozzon fényképezőgépet a délutáni fotókhoz.",
+            "ro": "Urcați pe acest promontoriu stâncos impresionant pentru o vedere panoramică spectaculoasă a peisajului și aduceți aparatul foto pentru cadre de neuitat după-amiaza.",
+            "en": "Climb to this impressive natural rocky outcrop to enjoy spectacular panoramic views over the surrounding landscape, and bring your camera for unforgettable afternoon shots."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen in den zeitlosen Steingassen des alten Dorfes und genießen Sie den mittelalterlichen Charme der Provence.\n\nAm Mittag begeben Sie sich zur majestätischen Burg und tauchen tief in das reiche historische Erbe der Region ein.\n\nVerbringen Sie den Nachmittag mit zeitgenössischer Kunst im Museum Edgar Mélik, bevor Sie in der Kirche Sainte-Marie Ruhe finden.\n\nBeenden Sie den Tag am Piton de Cabriès und genießen Sie den atemberaubenden Blick bei Sonnenuntergang.",
+        "hu": "Kezdje a reggelt az óváros időtlen kőutcáinak felfedezésével, magába szívva a középkori provence-i bájt.\n\nKora délután induljon a magasodó kastély felé, és merüljön el a régió gazdag történelmi örökségében.\n\nDélután csodálja meg a kortárs művészetet az Edgar Mélik Múzeumban, majd találjon lelki békére a Sainte-Marie templomban.\n\nZárja a napot egy rövid sétával a Piton de Cabriès sziklájához, ahonnan lenyűgöző naplementés kilátás nyílik a völgyre.",
+        "ro": "Începeți dimineața explorând străzile atemporale de piatră din Satul Vechi, absorbind farmecul medieval provensal.\n\nLa prânz, îndreptați-vă spre castelul falnic și minunile sale istorice, scufundându-vă în patrimoniul bogat al regiunii.\n\nPetreceți după-amiaza admirând arta contemporană la Muzeul Edgar Mélik, înainte de a găsi liniștea în biserica Sainte-Marie.\n\nÎncheiați ziua cu o scurtă plimbare către Piton de Cabriès, bucurându-vă de o panoramă uimitoare la apus.",
+        "en": "Start your morning exploring the timeless stone streets of the Old Village, soaking in the medieval Provençal charm.\n\nBy midday, transition to the towering Castle and its surrounding historical marvels, diving deep into the region's rich heritage.\n\nSpend your afternoon admiring contemporary art at the Edgar Mélik Museum before finding peace in the Sainte-Marie-de-la-Nativité Church.\n\nConclude your day with a short walk to the Piton de Cabriès, enjoying breathtaking sunset views over the serene valley."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:25",
+      "total_km": 2.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Altstadt von Cabriès",
+            "hu": "Cabriès óvárosa",
+            "ro": "Satul Vechi din Cabriès",
+            "en": "Old Village of Cabriès"
+          },
+          "coords": [
+            5.379888,
+            43.441196
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Schlendern Sie früh am Tag durch die charmanten mittelalterlichen Gassen dieses Hügeldorfes, um die zeitlose Architektur und die friedliche, provenzalische Atmosphäre zu genießen.",
+            "hu": "Sétáljon kora reggel a dombtetőn fekvő falu középkori sikátoraiban, hogy igazán értékelni tudja annak időtlen építészetét és békés, autentikus provence-i hangulatát.",
+            "ro": "Plimbați-vă dimineața pe străduțele medievale ale acestui sat de pe colină pentru a aprecia pe deplin arhitectura atemporală și atmosfera sa autentică provensală.",
+            "en": "Wander the charming medieval alleys of this hilltop village early in the day to fully appreciate its timeless architecture and peaceful, authentic Provençal atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Cabriès",
+            "hu": "Cabriès kastélya",
+            "ro": "Castelul Cabriès",
+            "en": "Cabriès Castle"
+          },
+          "coords": [
+            5.379029,
+            43.441139
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historische Festung, die das Dorf krönt, und tragen Sie bequeme Schuhe, da die gepflasterten Wege zum Eingang uneben sein können.",
+            "hu": "Fedezze fel a falut koronázó történelmi erődöt, de mindenképpen kényelmes cipőt viseljen, mivel a bejárathoz vezető köves utak meglehetősen egyenetlenek lehetnek.",
+            "ro": "Explorați fortăreața istorică ce încununează satul și purtați încălțăminte confortabilă, deoarece căile pietruite spre intrare pot fi destul de denivelate.",
+            "en": "Explore the historic fortress that perfectly crowns the village, and make sure to wear comfortable walking shoes as the stone pathways leading to the entrance can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Edgar Mélik Museum",
+            "hu": "Edgar Mélik Múzeum",
+            "ro": "Muzeul Edgar Mélik",
+            "en": "Edgar Mélik Museum"
+          },
+          "coords": [
+            5.378863,
+            43.441201
+          ],
+          "category": "cultural",
+          "arrive_at": "11:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die zeitgenössischen Kunstwerke in den alten Burgmauern und holen Sie sich einen Audioguide, um die spannenden Geschichten hinter Méliks Stil zu entdecken.",
+            "hu": "Csodálja meg a történelmi várfalak között kiállított kortárs műveket, és kérjen egy audioguide-ot a recepción, hogy megismerje Mélik egyedi stílusának történetét.",
+            "ro": "Admirați arta contemporană din incinta vechilor ziduri ale castelului și solicitați un ghid audio pentru a descoperi poveștile din spatele stilului unic al lui Mélik.",
+            "en": "Admire the vibrant contemporary artworks housed within the historic castle walls, and grab an audio guide at the reception to uncover the fascinating stories behind Mélik's unique style."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Sainte-Marie-de-la-Nativité",
+            "hu": "Sainte-Marie-de-la-Nativité templom",
+            "ro": "Biserica Sainte-Marie-de-la-Nativité",
+            "en": "Church of Sainte-Marie-de-la-Nativité"
+          },
+          "coords": [
+            5.378605,
+            43.440769
+          ],
+          "category": "religious",
+          "arrive_at": "13:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Treten Sie ein in dieses wunderschöne Gotteshaus, genießen Sie die friedliche Atmosphäre und bewundern Sie die kunstvoll geschnitzten Holzdetails am Hauptaltar.",
+            "hu": "Lépjen be ebbe a gyönyörű templomba, élvezze a békés hangulatot, és szánjon egy percet a főoltár közelében lévő bonyolultan faragott fadarabok megfigyelésére.",
+            "ro": "Pășiți în acest lăcaș frumos pentru a experimenta ambianța senină și acordați-vă un moment pentru a examina detaliile din lemn sculptat complex de lângă altarul principal.",
+            "en": "Step inside this beautiful religious site to experience its serene ambiance, and take a moment to closely examine the intricately carved wooden details near the main altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Piton de Cabriès",
+            "hu": "Piton de Cabriès",
+            "ro": "Piton de Cabriès",
+            "en": "Piton de Cabriès"
+          },
+          "coords": [
+            5.379388,
+            43.441531
+          ],
+          "category": "natural",
+          "arrive_at": "14:18",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Steigen Sie auf diesen markanten Felsvorsprung, um einen spektakulären Panoramablick über die Landschaft zu genießen und unvergessliche Nachmittagsfotos zu machen.",
+            "hu": "Másszon fel erre a lenyűgöző sziklás kiemelkedésre a környező tájra nyíló panorámáért, és mindenképpen hozzon fényképezőgépet a délutáni fotókhoz.",
+            "ro": "Urcați pe acest promontoriu stâncos impresionant pentru o vedere panoramică spectaculoasă a peisajului și aduceți aparatul foto pentru cadre de neuitat după-amiaza.",
+            "en": "Climb to this impressive natural rocky outcrop to enjoy spectacular panoramic views over the surrounding landscape, and bring your camera for unforgettable afternoon shots."
+          }
+        },
+        {
+          "name": {
+            "de": "Minigardengolf",
+            "hu": "Minigardengolf",
+            "ro": "Minigardengolf",
+            "en": "Minigardengolf"
+          },
+          "coords": [
+            5.399286,
+            43.433598
+          ],
+          "category": "family",
+          "arrive_at": "14:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einer lustigen Runde Minigolf in den wunderschön angelegten Gärten, und vergessen Sie nicht, am Wochenende Ihre Abschlagszeit im Voraus zu reservieren.",
+            "hu": "Zárja aktív napját egy vidám minigolfjátékkal a gyönyörűen parkosított kertekben, de hétvégén mindenképpen foglaljon időpontot előre az elkerülhető várakozás érdekében.",
+            "ro": "Încheiați ziua activă cu o partidă distractivă de minigolf în mijlocul grădinilor frumos amenajate, asigurându-vă că rezervați din timp la sfârșit de săptămână.",
+            "en": "Conclude your active day with a fun and lighthearted round of miniature golf among beautifully landscaped gardens, making sure to reserve your tee time in advance during weekends."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie am Morgen ins Zentrum von Cabriès, erkunden Sie die Gassen der Altstadt und genießen Sie die ruhige Atmosphäre.\n\nGegen Mittag besichtigen Sie die beeindruckende Architektur der Burg und bewundern die mittelalterlichen Festungsanlagen.\n\nDer Nachmittag ist perfekt für das Museum Edgar Mélik und die lokale Kirche, um in die Kultur einzutauchen.\n\nGenießen Sie den Blick vom Piton und radeln Sie dann zum Minigolfplatz für einen entspannten Abend.",
+        "hu": "Reggel kerékpározzon Cabriès szívébe, fedezze fel az óváros utcáit, és élvezze a dombtető békés hangulatát.\n\nDélben fedezze fel a lenyűgöző kastély építészetét, és szánjon időt a középkori erődítmények megcsodálására.\n\nA délután tökéletes az Edgar Mélik Múzeum és a helyi templom meglátogatására, teljessé téve a kulturális élményt.\n\nZárásként élvezze a kilátást a Pitonról, majd tekerjen le a minigolfpályára egy vidám és pihentető estéért.",
+        "ro": "Pedalați în inima orașului Cabriès în această dimineață, explorând străzile Satului Vechi și atmosfera liniștită a colinei.\n\nÎn jurul prânzului, explorați arhitectura impresionantă a castelului, apreciind fortificațiile sale medievale.\n\nDupă-amiaza este perfectă pentru Muzeul Edgar Mélik și biserica locală senină, completând imersiunea culturală.\n\nFinalizați cu o priveliște de pe Piton, apoi coborâți la Minigardengolf pentru o seară plină de joacă.",
+        "en": "Pedal into the heart of Cabriès this morning, wandering the Old Village streets and absorbing the peaceful hilltop atmosphere.\n\nAround noon, explore the impressive Castle architecture, taking your time to appreciate the medieval fortifications.\n\nThe afternoon is perfect for the Edgar Mélik Museum and the serene local church, rounding out your cultural immersion.\n\nFinish with a breathtaking view from the Piton, then cycle down to Minigardengolf for a playful and relaxing twilight evening."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:02",
+      "total_km": 8.6,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Lac Bleu",
+            "hu": "Lac Bleu",
+            "ro": "Lac Bleu",
+            "en": "Lac Bleu"
+          },
+          "coords": [
+            5.330991,
+            43.45532
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Morgen mit einem Spaziergang um diesen blauen See und denken Sie an Mückenspray, wenn Sie die leicht zugewachsenen Uferwege erkunden.",
+            "hu": "Kezdje a reggelt egy frissítő sétával e nyugodt kék tó körül, de ne felejtsen el szúnyogriasztót hozni, ha a vízparti, kissé benőtt ösvényeket is felfedezi.",
+            "ro": "Începeți dimineața cu o plimbare revigorantă în jurul acestui lac albastru, dar nu uitați spray-ul împotriva țânțarilor dacă explorați cărările de lângă mal.",
+            "en": "Start your morning with a refreshing walk around this tranquil blue lake, but remember to bring mosquito repellent if you plan to explore the slightly overgrown paths near the water edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Barquieu",
+            "hu": "Le Barquieu",
+            "ro": "Le Barquieu",
+            "en": "Le Barquieu"
+          },
+          "coords": [
+            5.355825,
+            43.46161
+          ],
+          "category": "natural",
+          "arrive_at": "10:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannten Spaziergang durch dieses grüne Naturgebiet, um die lokale Flora zu entdecken, und packen Sie einen Snack für ein Picknick im Schatten ein.",
+            "hu": "Élvezze a pihentető sétát ebben a buja természeti környezetben, fedezze fel a helyi növényvilágot, és hozzon magával egy könnyű harapnivalót az egyik árnyékos tisztásra.",
+            "ro": "Bucurați-vă de o plimbare relaxantă prin această zonă naturală pentru a descoperi flora locală și aduceți o gustare pentru a o savura într-un luminiș umbrit.",
+            "en": "Enjoy a relaxing stroll through this lush natural area to discover its rich local flora, and consider packing a light snack to enjoy at one of the shaded scenic clearings."
+          }
+        },
+        {
+          "name": {
+            "de": "Altstadt von Cabriès",
+            "hu": "Cabriès óvárosa",
+            "ro": "Satul Vechi din Cabriès",
+            "en": "Old Village of Cabriès"
+          },
+          "coords": [
+            5.379888,
+            43.441196
+          ],
+          "category": "historical",
+          "arrive_at": "11:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie früh am Tag durch die charmanten mittelalterlichen Gassen dieses Hügeldorfes, um die zeitlose Architektur und die friedliche, provenzalische Atmosphäre zu genießen.",
+            "hu": "Sétáljon kora reggel a dombtetőn fekvő falu középkori sikátoraiban, hogy igazán értékelni tudja annak időtlen építészetét és békés, autentikus provence-i hangulatát.",
+            "ro": "Plimbați-vă dimineața pe străduțele medievale ale acestui sat de pe colină pentru a aprecia pe deplin arhitectura atemporală și atmosfera sa autentică provensală.",
+            "en": "Wander the charming medieval alleys of this hilltop village early in the day to fully appreciate its timeless architecture and peaceful, authentic Provençal atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Cabriès",
+            "hu": "Cabriès kastélya",
+            "ro": "Castelul Cabriès",
+            "en": "Cabriès Castle"
+          },
+          "coords": [
+            5.379029,
+            43.441139
+          ],
+          "category": "historical",
+          "arrive_at": "13:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historische Festung, die das Dorf krönt, und tragen Sie bequeme Schuhe, da die gepflasterten Wege zum Eingang uneben sein können.",
+            "hu": "Fedezze fel a falut koronázó történelmi erődöt, de mindenképpen kényelmes cipőt viseljen, mivel a bejárathoz vezető köves utak meglehetősen egyenetlenek lehetnek.",
+            "ro": "Explorați fortăreața istorică ce încununează satul și purtați încălțăminte confortabilă, deoarece căile pietruite spre intrare pot fi destul de denivelate.",
+            "en": "Explore the historic fortress that perfectly crowns the village, and make sure to wear comfortable walking shoes as the stone pathways leading to the entrance can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Edgar Mélik Museum",
+            "hu": "Edgar Mélik Múzeum",
+            "ro": "Muzeul Edgar Mélik",
+            "en": "Edgar Mélik Museum"
+          },
+          "coords": [
+            5.378863,
+            43.441201
+          ],
+          "category": "cultural",
+          "arrive_at": "14:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die zeitgenössischen Kunstwerke in den alten Burgmauern und holen Sie sich einen Audioguide, um die spannenden Geschichten hinter Méliks Stil zu entdecken.",
+            "hu": "Csodálja meg a történelmi várfalak között kiállított kortárs műveket, és kérjen egy audioguide-ot a recepción, hogy megismerje Mélik egyedi stílusának történetét.",
+            "ro": "Admirați arta contemporană din incinta vechilor ziduri ale castelului și solicitați un ghid audio pentru a descoperi poveștile din spatele stilului unic al lui Mélik.",
+            "en": "Admire the vibrant contemporary artworks housed within the historic castle walls, and grab an audio guide at the reception to uncover the fascinating stories behind Mélik's unique style."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Sainte-Marie-de-la-Nativité",
+            "hu": "Sainte-Marie-de-la-Nativité templom",
+            "ro": "Biserica Sainte-Marie-de-la-Nativité",
+            "en": "Church of Sainte-Marie-de-la-Nativité"
+          },
+          "coords": [
+            5.378605,
+            43.440769
+          ],
+          "category": "religious",
+          "arrive_at": "16:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Treten Sie ein in dieses wunderschöne Gotteshaus, genießen Sie die friedliche Atmosphäre und bewundern Sie die kunstvoll geschnitzten Holzdetails am Hauptaltar.",
+            "hu": "Lépjen be ebbe a gyönyörű templomba, élvezze a békés hangulatot, és szánjon egy percet a főoltár közelében lévő bonyolultan faragott fadarabok megfigyelésére.",
+            "ro": "Pășiți în acest lăcaș frumos pentru a experimenta ambianța senină și acordați-vă un moment pentru a examina detaliile din lemn sculptat complex de lângă altarul principal.",
+            "en": "Step inside this beautiful religious site to experience its serene ambiance, and take a moment to closely examine the intricately carved wooden details near the main altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Piton de Cabriès",
+            "hu": "Piton de Cabriès",
+            "ro": "Piton de Cabriès",
+            "en": "Piton de Cabriès"
+          },
+          "coords": [
+            5.379388,
+            43.441531
+          ],
+          "category": "natural",
+          "arrive_at": "17:02",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Steigen Sie auf diesen markanten Felsvorsprung, um einen spektakulären Panoramablick über die Landschaft zu genießen und unvergessliche Nachmittagsfotos zu machen.",
+            "hu": "Másszon fel erre a lenyűgöző sziklás kiemelkedésre a környező tájra nyíló panorámáért, és mindenképpen hozzon fényképezőgépet a délutáni fotókhoz.",
+            "ro": "Urcați pe acest promontoriu stâncos impresionant pentru o vedere panoramică spectaculoasă a peisajului și aduceți aparatul foto pentru cadre de neuitat după-amiaza.",
+            "en": "Climb to this impressive natural rocky outcrop to enjoy spectacular panoramic views over the surrounding landscape, and bring your camera for unforgettable afternoon shots."
+          }
+        },
+        {
+          "name": {
+            "de": "Minigardengolf",
+            "hu": "Minigardengolf",
+            "ro": "Minigardengolf",
+            "en": "Minigardengolf"
+          },
+          "coords": [
+            5.399286,
+            43.433598
+          ],
+          "category": "family",
+          "arrive_at": "17:32",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag mit einer lustigen Runde Minigolf in den wunderschön angelegten Gärten, und vergessen Sie nicht, am Wochenende Ihre Abschlagszeit im Voraus zu reservieren.",
+            "hu": "Zárja aktív napját egy vidám minigolfjátékkal a gyönyörűen parkosított kertekben, de hétvégén mindenképpen foglaljon időpontot előre az elkerülhető várakozás érdekében.",
+            "ro": "Încheiați ziua activă cu o partidă distractivă de minigolf în mijlocul grădinilor frumos amenajate, asigurându-vă că rezervați din timp la sfârșit de săptămână.",
+            "en": "Conclude your active day with a fun and lighthearted round of miniature golf among beautifully landscaped gardens, making sure to reserve your tee time in advance during weekends."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie früh zu den ruhigen Ufern des Lac Bleu und beginnen Sie den Tag inmitten unberührter Natur und frischer Luft.\n\nMittags geht es weiter nach Le Barquieu, bevor Sie zum historischen Dorf Cabriès und seiner Burg hinauffahren.\n\nVerbringen Sie den Nachmittag mit Kunst im Museum Edgar Mélik und bewundern Sie die Architektur der örtlichen Kirche.\n\nAm Abend genießen Sie den Sonnenuntergang vom Piton und fahren dann für etwas familiären Spaß zum Minigolf.",
+        "hu": "Vezessen kora reggel a Lac Bleu nyugodt partjaira, és kezdje a napot az érintetlen természet és a friss levegő ölelésében.\n\nDélben a Le Barquieu felé veszi az irányt a természeti szépségek miatt, mielőtt felhajtana Cabriès történelmi óvárosába és kastélyához.\n\nA délutánt az Edgar Mélik Múzeum művészeti kincseinek és a helyi templom építészetének szentelje.\n\nEste csodálja meg a naplementét a Pitonról, majd vezessen a minigolfpályára egy kis családbarát szórakozásért.",
+        "ro": "Conduceți devreme spre țărmurile liniștite ale Lac Bleu, începând ziua înconjurat de natură virgină și aer proaspăt.\n\nLa prânz ajungeți la Le Barquieu pentru natură, înainte de a urca în Satul Vechi din Cabriès și la castelul său.\n\nPetreceți după-amiaza la Muzeul Edgar Mélik și admirând arhitectura bisericii locale, plină de istorie.\n\nSpre seară, prindeți apusul de pe Piton, apoi conduceți la Minigardengolf pentru a încheia ziua cu distracție.",
+        "en": "Drive out early to the tranquil shores of Lac Bleu, starting your day surrounded by pristine nature and fresh morning air.\n\nMidday takes you to Le Barquieu for more natural beauty before heading up to the historic Old Village and its towering Castle.\n\nSpend your afternoon immersing yourself in art at the Edgar Mélik Museum and admiring the architecture of the local church.\n\nAs evening approaches, catch the sunset from the Piton, then drive to Minigardengolf to end your day with some family-friendly fun."
+      }
+    }
+  }
+}

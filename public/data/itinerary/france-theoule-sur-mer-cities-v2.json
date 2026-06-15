@@ -1,0 +1,474 @@
+{
+  "city_id": "france-theoule-sur-mer-cities-v2",
+  "anchor": {
+    "name": "Théoule-sur-Mer",
+    "coords": [
+      6.93992,
+      43.50609
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:10",
+      "total_km": 1.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Sainte-Germaine de Pibrac",
+            "hu": "Église Sainte-Germaine de Pibrac",
+            "ro": "Église Sainte-Germaine de Pibrac",
+            "en": "Église Sainte-Germaine de Pibrac"
+          },
+          "coords": [
+            6.938751,
+            43.507836
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese charmante Kirche, ein Meisterwerk der mediterranen Architektur; kommen Sie früh, um die friedlichen Morgenschatten zu fotografieren.",
+            "hu": "Csodálja meg ezt a bájos templomot, a mediterrán vallási építészet remekművét; érkezzen korán, hogy lefotózza a békés reggeli árnyékokat.",
+            "ro": "Admirați această biserică fermecătoare, o capodoperă a arhitecturii religioase mediteraneene; ajungeți devreme pentru a fotografia umbrele dimineții.",
+            "en": "Admire this charming church showcasing quintessential Mediterranean religious architecture; arrive early to photograph the peaceful morning shadows."
+          }
+        },
+        {
+          "name": {
+            "de": "Espace Culturel",
+            "hu": "Espace Culturel",
+            "ro": "Espace Culturel",
+            "en": "Espace Culturel"
+          },
+          "coords": [
+            6.941387,
+            43.506953
+          ],
+          "category": "cultural",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende Kunstausstellungen in diesem Zentrum; überprüfen Sie vorab den Zeitplan, da die Ausstellungen hier sehr häufig wechseln.",
+            "hu": "Fedezze fel a lenyűgöző helyi művészeti kiállításokat ebben a központban; előzetesen ellenőrizze a programot, mivel a tárlatok gyakran cserélődnek.",
+            "ro": "Explorați expozițiile fascinante de artă în acest centru cultural; verificați programul în prealabil, deoarece colecțiile se schimbă destul de frecvent.",
+            "en": "Explore fascinating local art exhibitions inside this vibrant cultural center; check their schedule beforehand as temporary displays rotate frequently."
+          }
+        },
+        {
+          "name": {
+            "de": "Rose des vents",
+            "hu": "Rose des vents",
+            "ro": "Rose des vents",
+            "en": "Rose des vents"
+          },
+          "coords": [
+            6.941388,
+            43.508791
+          ],
+          "category": "landmark",
+          "arrive_at": "11:18",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betrachten Sie das ikonische Kompassrosen-Monument; stellen Sie sich genau in die Mitte, um sich perfekt in Richtung der Lérins-Inseln zu orientieren.",
+            "hu": "Nézze meg a tengerparti utat jelző ikonikus iránytű-emlékművet; álljon pontosan a közepére, hogy tökéletesen tájékozódjon a Lérins-szigetek felé.",
+            "ro": "Vedeți monumentul iconic al rozei vânturilor de pe coastă; stați exact în centru pentru a vă orienta perfect vizual spre insulele Lérins.",
+            "en": "See the iconic compass rose monument marking your coastal path; stand exactly in the center to orient yourself perfectly towards the Lerins Islands."
+          }
+        },
+        {
+          "name": {
+            "de": "La Plage Blanche",
+            "hu": "La Plage Blanche",
+            "ro": "La Plage Blanche",
+            "en": "La Plage Blanche"
+          },
+          "coords": [
+            6.940417,
+            43.508512
+          ],
+          "category": "recreational",
+          "arrive_at": "11:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem weichen weißen Sand dieses Strandes; bringen Sie ein dickes Handtuch mit, da die Felsen am Wasser recht uneben sein können.",
+            "hu": "Pihenjen ennek a tiszta strandnak a puha fehér homokján; hozzon magával vastag törölközőt, mivel a víz közeli sziklás kiemelkedések egyenetlenek.",
+            "ro": "Relaxați-vă pe nisipul alb și moale al acestei plaje imaculate; aduceți un prosop gros, deoarece stâncile naturale de lângă apă pot fi neregulate.",
+            "en": "Relax on the soft white sands of this pristine recreational beach; bring a thick towel as the natural rocky outcrops can be uneven near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Suveret",
+            "hu": "Plage du Suveret",
+            "ro": "Plage du Suveret",
+            "en": "Plage du Suveret"
+          },
+          "coords": [
+            6.937643,
+            43.509779
+          ],
+          "category": "recreational",
+          "arrive_at": "12:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie das ruhige, geschützte Wasser für ein Schwimmen; packen Sie Schnorchelausrüstung ein, um die bunte Unterwasserwelt am Riff zu erkunden.",
+            "hu": "Élvezze a nyugodt, védett vizeket, amelyek tökéletesek az úszáshoz; hozzon magával búvárfelszerelést, hogy felfedezze a színes tengeri élővilágot.",
+            "ro": "Bucurați-vă de apele calme și adăpostite, perfecte pentru înot; luați un echipament de snorkeling pentru a explora viața marină colorată de pe recif.",
+            "en": "Enjoy the calm, sheltered waters perfect for a midday swim; pack some snorkeling gear to explore the colorful marine life swimming along the reef."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de La Rague",
+            "hu": "Plage de La Rague",
+            "ro": "Plage de La Rague",
+            "en": "Plage de La Rague"
+          },
+          "coords": [
+            6.940637,
+            43.518833
+          ],
+          "category": "recreational",
+          "arrive_at": "14:25",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an diesem Strand mit herrlichem Blick; holen Sie sich ein erfrischendes Getränk in einem nahegelegenen Hafencafé.",
+            "hu": "Fejezze be a sétát ezen a festői tengerparton, ahonnan csodás kilátás nyílik; igyon egy frissítő italt egy közeli kikötői kávézóban a délután folyamán.",
+            "ro": "Încheiați plimbarea pe această plajă pitorească cu vedere la castel; luați o băutură răcoritoare la o cafenea din port pe măsură ce după-amiaza se răcește.",
+            "en": "Finish your walk at this scenic harbor beach with stunning castle views; grab a refreshing drink at a nearby port side café as the afternoon cools."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Beginnen Sie Ihren Tag im Herzen von Théoule-sur-Mer. Die Kirche Sainte-Germaine de Pibrac bietet eine friedliche Atmosphäre, gefolgt von einer inspirierenden Kunstausstellung im Espace Culturel, die den künstlerischen Geist der Riviera einfängt.\nMittags: Schlendern Sie gemütlich zur Küste. Das Denkmal Rose des vents bietet einen malerischen Moment, bevor Sie an den feinen weißen Sandstränden der Plage Blanche ein entspanntes Picknick und sanftes Rauschen der Wellen genießen.\nNachmittags: Der Spaziergang führt Sie weiter nördlich entlang der atemberaubenden Uferpromenade. An der Plage du Suveret können Sie sich im kühlen Wasser erfrischen und die herrliche Aussicht auf die rote Felsküste auf sich wirken lassen.\nAbends: Beenden Sie diesen wunderbaren Tag an der ruhigen Plage de La Rague. Das sanfte Licht des späten Nachmittags hüllt den Hafen in goldene Töne und lädt zu einem letzten, erfrischenden Spaziergang am Mittelmeer ein.",
+        "hu": "Reggel: Kezdje a napot Théoule-sur-Mer szívében. A Sainte-Germaine de Pibrac templom békés légkört biztosít, mielőtt felfedezné a lenyűgöző helyi művészeti kiállításokat a nyüzsgő Espace Culturel kulturális központban.\nDélben: Sétáljon kényelmesen a csillogó tengerpart felé. A Rose des vents emlékmű festői fotózási lehetőséget kínál, mielőtt letelepedne a La Plage Blanche puha homokjára egy pihentető tengerparti ebédre.\nDélután: Folytassa tengerparti sétáját észak felé a festői sétányon. A Plage du Suveret tökéletes hely egy frissítő csobbanásra és a partvidéket egyedivé tevő lenyűgöző vörös sziklák megcsodálására.\nEste: Fejezze be a sétát a békés Plage de La Rague strandon. A lemenő nap gyönyörű aranyfénybe öltözteti a kikötőt, varázslatos hangulatot teremtve a Földközi-tenger partján töltött utolsó pillanatokhoz.",
+        "ro": "Dimineața: Începeți-vă ziua în centrul localității Théoule-sur-Mer. Biserica Sainte-Germaine de Pibrac oferă o atmosferă liniștită, urmată de o expoziție de artă captivantă la centrul Espace Culturel, care surprinde spiritul Rivierei.\nLa prânz: Plimbați-vă încet spre coasta strălucitoare. Monumentul Rose des vents oferă un moment pitoresc înainte de a vă relaxa pe nisipul fin al Plage Blanche pentru un prânz relaxant pe malul mării.\nDupă-amiaza: Plimbarea de-a lungul coastei continuă spre nord pe promenada spectaculoasă. Plage du Suveret este locul perfect pentru o baie răcoritoare, admirând stâncile roșii care fac acest țărm unic.\nSeara: Încheiați această zi minunată la liniștita Plage de La Rague. Lumina târzie a după-amiezii învăluie portul în nuanțe aurii, invitând la o ultimă plimbare relaxantă pe țărmul Mării Mediterane.",
+        "en": "Morning: Start your day in the center of Théoule-sur-Mer. The Church of Sainte-Germaine de Pibrac provides a peaceful atmosphere before exploring the inspiring local art exhibitions at the vibrant Espace Culturel.\nMidday: Stroll gently towards the sparkling coast. The Rose des vents monument offers a picturesque photo opportunity before you settle onto the soft sands of La Plage Blanche for a relaxing lunch by the sea.\nAfternoon: Continue your coastal walk northward along the scenic promenade. The Plage du Suveret is the perfect spot to take a refreshing dip and admire the stunning red rocks that make this coastline so unique.\nEvening: Conclude your walking tour at the serene Plage de La Rague. The fading light casts a beautiful golden glow over the harbor, creating a magical setting for your final moments by the Mediterranean Sea."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:11",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parc départemental du San Peyre",
+            "hu": "Parc départemental du San Peyre",
+            "ro": "Parc départemental du San Peyre",
+            "en": "Parc départemental du San Peyre"
+          },
+          "coords": [
+            6.935772,
+            43.525027
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Radeln Sie auf diesen Vulkanhügel mit Panoramablick auf die Bucht; schließen Sie Ihr Rad am unteren Tor an, um die letzten felsigen Stufen zu wandern.",
+            "hu": "Kerékpározzon fel erre a vulkanikus dombra, ahonnan panorámás kilátás nyílik az öbölre; zárja le a kerékpárt az alsó kapunál, és másszon fel gyalog.",
+            "ro": "Pedalați pe acest deal vulcanic oferind vederi panoramice asupra golfului; legați bicicleta la poarta inferioară pentru a urca treptele finale.",
+            "en": "Cycle up to this volcanic hill offering panoramic views of the entire bay; lock your bike at the lower gate to hike the final rocky steps safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-de-l'Assomption",
+            "hu": "Église Notre-Dame-de-l'Assomption",
+            "ro": "Église Notre-Dame-de-l'Assomption",
+            "en": "Église Notre-Dame-de-l'Assomption"
+          },
+          "coords": [
+            6.942003,
+            43.523479
+          ],
+          "category": "religious",
+          "arrive_at": "10:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Pause an dieser Kirche mit malerischer Fassade; denken Sie daran, drinnen leise zu sprechen, da sie oft zum Beten genutzt wird.",
+            "hu": "Tartson egy rövid szünetet ennél a festői homlokzatú templomnál; ne felejtsen el halkan beszélni bent, mivel a helyiek gyakran használják imádkozásra.",
+            "ro": "Faceți o scurtă pauză la această biserică celebră pentru fațada ei pitorească; amintiți-vă să vorbiți încet, deoarece localnicii o folosesc pentru rugăciune.",
+            "en": "Take a brief pause at this serene church famous for its picturesque facade; remember to speak softly inside as locals frequently use it for prayer."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Château",
+            "hu": "Plage du Château",
+            "ro": "Plage du Château",
+            "en": "Plage du Château"
+          },
+          "coords": [
+            6.943353,
+            43.523987
+          ],
+          "category": "recreational",
+          "arrive_at": "11:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ruhen Sie Ihre Beine an diesem roten Felsstrand aus; der Einstieg ins Wasser ist kiesig, daher sind Wasserschuhe hier sehr empfehlenswert.",
+            "hu": "Pihentesse lábait ezen a történelmi kastély által beárnyékolt vörös sziklás strandon; a vízbe jutás kavicsos, így vízicipő viselete erősen ajánlott.",
+            "ro": "Odihniți-vă picioarele pe această plajă cu stânci roșii umbrită de un castel; intrarea în apă are pietriș, așa că pantofii de apă sunt foarte recomandați.",
+            "en": "Rest your legs at this iconic red-rock beach shaded by a historic castle; the water entry is pebbly, so water shoes are highly recommended here."
+          }
+        },
+        {
+          "name": {
+            "de": "Rose des vents",
+            "hu": "Rose des vents",
+            "ro": "Rose des vents",
+            "en": "Rose des vents"
+          },
+          "coords": [
+            6.941388,
+            43.508791
+          ],
+          "category": "landmark",
+          "arrive_at": "12:34",
+          "stay_min": 15,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Halten Sie kurz an diesem Küstenmonument, das die Winde aufzeigt; es ist eine hervorragende Kulisse für einen schnellen Schnappschuss mit dem Rad.",
+            "hu": "Álljon meg röviden ennél a szeleket és irányokat jelző tengerparti emlékműnél; kiváló hátteret nyújt egy gyors fotóhoz a kerékpárral.",
+            "ro": "Opriți-vă scurt la acest monument de coastă care cartografiază vânturile; este un fundal excelent pentru o fotografie rapidă cu bicicleta dumneavoastră.",
+            "en": "Stop briefly at this coastal monument mapping out the winds and directions; it is an excellent backdrop for a quick snapshot with your bicycle."
+          }
+        },
+        {
+          "name": {
+            "de": "Espace Culturel",
+            "hu": "Espace Culturel",
+            "ro": "Espace Culturel",
+            "en": "Espace Culturel"
+          },
+          "coords": [
+            6.941387,
+            43.506953
+          ],
+          "category": "cultural",
+          "arrive_at": "12:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie zeitgenössische Kunstwerke im Geist der französischen Riviera; beachten Sie die sicheren Fahrradständer in der Nähe des Eingangs.",
+            "hu": "Fedezze fel a francia Riviéra szellemét tükröző kortárs műalkotásokat; a bejárat közelében kényelmesen elhelyezett, biztonságos kerékpártárolók vannak.",
+            "ro": "Explorați opere de artă contemporană reflectând spiritul Rivierei Franceze; rețineți că există rastele sigure pentru biciclete chiar lângă intrare.",
+            "en": "Explore contemporary artworks reflecting the spirit of the French Riviera; note that there are secure bicycle racks conveniently located near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Amphitheater",
+            "hu": "Amphitheater",
+            "ro": "Amphitheater",
+            "en": "Amphitheater"
+          },
+          "coords": [
+            6.943468,
+            43.488275
+          ],
+          "category": "cultural",
+          "arrive_at": "14:21",
+          "stay_min": 110,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen markanten Veranstaltungsort im Freien; prüfen Sie online, ob Vorstellungen bei Sonnenuntergang stattfinden, bevor Sie planen.",
+            "hu": "Csodálja meg ezt a tengerparti sziklákba vájt lenyűgöző szabadtéri helyszínt; ellenőrizze az online programokat a naplemente idején tartott előadásokhoz.",
+            "ro": "Admirați această locație culturală în aer liber sculptată în stâncile coastei; verificați online spectacolele la apus înainte de a vă planifica vizita.",
+            "en": "Admire this striking outdoor cultural venue carved into the coastal rocks; check online for sunset performances before planning your late afternoon visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Ihre Radtour beginnt sportlich mit der Erkundung des Parc départemental du San Peyre. Die frische Morgenluft und der fantastische Panoramablick auf die Bucht von Cannes wecken die Lebensgeister perfekt.\nMittags: Gleiten Sie hinab zur Küste zur malerischen Église Notre-Dame-de-l'Assomption und entspannen Sie sich anschließend an der herrlichen Plage du Château, wo die roten Felsen direkt auf das azurblaue Meer treffen.\nNachmittags: Fahren Sie entlang der Küstenstraße zur Rose des vents und besuchen Sie das Espace Culturel. Die sanfte Meeresbrise begleitet Sie auf Schritt und Tritt und macht das Radfahren hier zu einem wahren Genuss.\nAbends: Zum Abschluss radeln Sie zum spektakulären Amphitheater am Meer. Die warme Abendsonne taucht die steinernen Stufen in ein magisches Licht – ein wunderbarer Ort, um den erlebnisreichen Tag ausklingen zu lassen.",
+        "hu": "Reggel: Kerékpáros kalandja sportosan kezdődik a Parc départemental du San Peyre felfedezésével. A friss reggeli levegő és a Cannes-i öbölre nyíló lenyűgöző panoráma tökéletes indítást ad a napnak.\nDélben: Guruljon le a tengerparthoz, hogy meglátogassa a bájos Église Notre-Dame-de-l'Assomption templomot, majd pihenjen a csodálatos Plage du Château strandon, ahol a vörös sziklák találkoznak a kék tengerrel.\nDélután: Tekerjen végig a festői tengerparti úton, álljon meg a Rose des vents emlékműnél, és látogasson el az Espace Culturel központba. A lágy mediterrán szellő minden pillanatot élvezetessé tesz.\nEste: Utazását a látványos tengerparti amfiteátrumnál fejezze be. A meleg esti napsütés varázslatos fénybe öltözteti a kőlépcsőket, lélegzetelállító hangulatot teremtve a nap tökéletes lezárásához.",
+        "ro": "Dimineața: Aventura dumneavoastră cu bicicleta începe activ la Parc départemental du San Peyre. Aerul proaspăt al dimineții și vederile panoramice asupra Golfului Cannes oferă un început de zi cu adevărat revigorant.\nLa prânz: Coborâți spre coastă pentru a vizita fermecătoarea biserică Notre-Dame-de-l'Assomption, apoi relaxați-vă la superba Plage du Château, unde stâncile roșii spectaculoase se întâlnesc cu marea azurie.\nDupă-amiaza: Pedalați de-a lungul drumului de coastă, oprindu-vă la Rose des vents înainte de a explora Espace Culturel. Briza blândă a Mării Mediterane face ca fiecare moment al plimbării să fie o plăcere.\nSeara: Încheiați călătoria mergând cu bicicleta spre spectaculosul Amfiteatru de coastă. Soarele cald al serii scaldă treptele de piatră într-o lumină magică, creând o atmosferă de neuitat la finalul zilei.",
+        "en": "Morning: Your cycling adventure begins actively at the Parc départemental du San Peyre. The crisp morning air and sweeping panoramic views over the Bay of Cannes provide a truly invigorating start to the day.\nMidday: Glide down to the coastline to visit the charming Église Notre-Dame-de-l'Assomption, then relax at the stunning Plage du Château, where dramatic red rocks meet the azure waters of the sea.\nAfternoon: Pedal along the scenic coastal road, pausing at the Rose des vents before exploring the Espace Culturel. The gentle Mediterranean breeze makes every moment of your ride absolute perfection.\nEvening: Conclude your journey by biking down to the spectacular coastal Amphitheater. The warm evening sun bathes the stone steps in magical light, creating a breathtaking atmosphere as the day slowly ends."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:50",
+      "total_km": 6.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Col du Trayas",
+            "hu": "Col du Trayas",
+            "ro": "Col du Trayas",
+            "en": "Col du Trayas"
+          },
+          "coords": [
+            6.917555,
+            43.496459
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fahren Sie für atemberaubende Ausblicke über die zerklüftete rote Küste hinauf; nutzen Sie die Haltebuchten, um sicher und ohne Stau zu fotografieren.",
+            "hu": "Vezessen fel a lélegzetelállító kilátásért a sziklás vörös Estérel partra; használja a kijelölt pihenőhelyeket, hogy biztonságosan fotózhasson a forgalom zavarása nélkül.",
+            "ro": "Conduceți pentru vederi uluitoare asupra coastei roșii crestate Estérel; folosiți zonele de oprire desemnate pentru a fotografia în siguranță fără trafic.",
+            "en": "Drive up for breathtaking elevated views over the jagged red Estérel coast; use the designated pull-off areas to take photographs safely without blocking traffic."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc de l'Estérel",
+            "hu": "Parc de l'Estérel",
+            "ro": "Parc de l'Estérel",
+            "en": "Parc de l'Estérel"
+          },
+          "coords": [
+            6.916013,
+            43.502952
+          ],
+          "category": "natural",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie Naturpfade inmitten markanter roter vulkanischer Gesteine; feste Wanderschuhe sind hier auch für kurze Spaziergänge unerlässlich.",
+            "hu": "Fedezze fel az élénk természeti ösvényeket a lenyűgöző vörös vulkáni sziklák között; az erős túrabakancs itt még a rövid sétákhoz is elengedhetetlen.",
+            "ro": "Descoperiți traseele naturale printre stâncile vulcanice roșii; bocancii de drumeție rezistenți sunt esențiali aici chiar și pentru plimbări scurte.",
+            "en": "Discover vibrant natural trails amidst striking red volcanic porphyry rocks; sturdy hiking boots are essential here even for short scenic walks."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sainte-Germaine de Pibrac",
+            "hu": "Église Sainte-Germaine de Pibrac",
+            "ro": "Église Sainte-Germaine de Pibrac",
+            "en": "Église Sainte-Germaine de Pibrac"
+          },
+          "coords": [
+            6.938751,
+            43.507836
+          ],
+          "category": "religious",
+          "arrive_at": "11:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese elegante Kirche, das stille spirituelle Herz der Stadt; Parkplätze sind in der Nähe vorhanden, erfordern jedoch eine Parkscheibe.",
+            "hu": "Látogasson el ebbe az elegáns templomba, és élvezze a város csendes, spirituális szívét; a közelben van parkoló, de parkolótárcsa használata kötelező.",
+            "ro": "Vizitați această biserică elegantă pentru a aprecia inima spirituală a orașului; parcarea este disponibilă, dar necesită un disc standard de afișare.",
+            "en": "Visit this elegant church to appreciate the quiet spiritual heart of the town; parking is available nearby, but it requires a standard display disc."
+          }
+        },
+        {
+          "name": {
+            "de": "La Plage Blanche",
+            "hu": "La Plage Blanche",
+            "ro": "La Plage Blanche",
+            "en": "La Plage Blanche"
+          },
+          "coords": [
+            6.940417,
+            43.508512
+          ],
+          "category": "recreational",
+          "arrive_at": "12:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie ein anspruchsvolles Stranderlebnis an der azurblauen Küste; reservieren Sie Ihre Sonnenliege in den geschäftigen Sommermonaten im Voraus.",
+            "hu": "Élvezze a kifinomult tengerparti élményt közvetlenül a tiszta azúrkék parton; fontolja meg a napágyak előzetes lefoglalását a forgalmas nyári hónapokban.",
+            "ro": "Bucurați-vă de o experiență sofisticată pe plajă direct pe țărmul azuriu; luați în considerare rezervarea șezlongului în avans în lunile aglomerate de vară.",
+            "en": "Enjoy a sophisticated beach experience directly on the pristine azure shore; consider reserving your sunbed in advance during the busy summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc départemental du San Peyre",
+            "hu": "Parc départemental du San Peyre",
+            "ro": "Parc départemental du San Peyre",
+            "en": "Parc départemental du San Peyre"
+          },
+          "coords": [
+            6.935772,
+            43.525027
+          ],
+          "category": "natural",
+          "arrive_at": "13:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Wandern Sie auf den schattigen Pfaden dieses kleinen Berges; lassen Sie Ihr Auto auf dem unteren Parkplatz stehen und nehmen Sie ausreichend Wasser mit.",
+            "hu": "Túrázzon az árnyékos ösvényeken a hegyen a Riviéra kivételes kilátásáért; hagyja autóját az alsó parkolóban, és vigyen magával bőségesen ivóvizet.",
+            "ro": "Urcați pe traseele umbrite ale acestui munte pentru vederi remarcabile; lăsați mașina în parcarea inferioară desemnată și luați multă apă cu voi.",
+            "en": "Hike the shaded trails up this small mountain for remarkable Riviera vistas; leave your car in the designated lower lot and pack plenty of water."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Château",
+            "hu": "Plage du Château",
+            "ro": "Plage du Château",
+            "en": "Plage du Château"
+          },
+          "coords": [
+            6.943353,
+            43.523987
+          ],
+          "category": "recreational",
+          "arrive_at": "15:05",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt an dieser bezaubernden Bucht mit einer Festung im Hintergrund; kommen Sie am späten Nachmittag, um den Massen zu entgehen.",
+            "hu": "Zárja autózását ezen a drámai erőd által határolt varázslatos öbölben; érkezzen késő délután, hogy elkerülje a tömeget és jó helyet találjon.",
+            "ro": "Încheiați-vă călătoria la acest golf încântător susținut de o fortăreață; ajungeți târziu după-amiaza pentru a evita aglomerația și a prinde un loc bun.",
+            "en": "Conclude your drive at this enchanting cove backed by a dramatic fortress; arrive late in the afternoon to avoid the crowds and secure a great spot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Fahren Sie hoch zum Col du Trayas und erleben Sie einen unvergesslichen Panoramablick auf die zerklüftete Estérel-Küste. Tauchen Sie anschließend in die Naturvielfalt des Parc de l'Estérel mit seinen faszinierenden roten Vulkanfelsen ein.\nMittags: Kehren Sie zurück ins charmante Zentrum, um die Ruhe der Église Sainte-Germaine de Pibrac zu genießen. Danach erwartet Sie eine exklusive Auszeit an der Plage Blanche, wo das sanfte Meerwasser zur puren Erholung einlädt.\nNachmittags: Steuern Sie Ihr Auto gemütlich in Richtung Norden und entdecken Sie den Parc départemental du San Peyre. Ein kurzer Spaziergang vom Parkplatz aus belohnt Sie mit einer herrlichen Aussicht über die gesamte malerische Küstenlinie.\nAbends: Zum Abschluss parken Sie in der Nähe der Plage du Château. Die Kulisse der alten Mauern vor dem sich verdunkelnden Mittelmeer bietet einen dramatischen und romantischen Abschluss Ihres wunderbaren Tagesausflugs.",
+        "hu": "Reggel: Vezessen fel a Col du Trayas-hoz a zord Estérel-part felejthetetlen panorámájáért. Ezután merüljön el a Parc de l'Estérel lenyűgöző természeti szépségében és élénk vörös vulkáni sziklaalakzataiban.\nDélben: Térjen vissza a bájos városközpontba, és tapasztalja meg a Église Sainte-Germaine de Pibrac templom nyugalmát. Ezután engedélyezzen magának egy kis pihenést a La Plage Blanche strandon a frissítő vízben.\nDélután: Vezessen kényelmesen észak felé, és fedezze fel a Parc départemental du San Peyre területét. A parkolótól induló rövid séta csodálatos, széles kilátással jutalmazza a teljes festői Riviéra partszakaszára.\nEste: Utazása lezárásaként parkoljon le a Plage du Château közelében. A sötétedő Földközi-tenger és a történelmi falak drámai háttere rendkívül romantikus befejezést kínál ennek a fantasztikus autós kirándulásnak.",
+        "ro": "Dimineața: Conduceți până la Col du Trayas pentru vederi panoramice de neuitat asupra coastei stâncoase Estérel. Apoi, scufundați-vă în frumusețea naturală din Parc de l'Estérel cu formațiunile sale impresionante din rocă vulcanică.\nLa prânz: Întoarceți-vă în centrul fermecător al orașului pentru a experimenta liniștea de la Église Sainte-Germaine de Pibrac. Apoi, oferiți-vă o pauză exclusivă la La Plage Blanche, unde apele blânde oferă relaxare pură.\nDupă-amiaza: Conduceți încet spre nord pentru a descoperi Parc départemental du San Peyre. O scurtă drumeție de la parcare vă recompensează cu vederi magnifice și ample asupra întregii coaste pitorești a Rivierei.\nSeara: Încheiați-vă călătoria parcând lângă Plage du Château. Fundalul dramatic al zidurilor istorice pe fundalul Mării Mediterane care se întunecă oferă un final extrem de romantic acestei fantastice excursii auto.",
+        "en": "Morning: Drive up to the Col du Trayas for unforgettable panoramic views of the rugged Estérel coastline. Afterward, immerse yourself in the natural beauty of the Parc de l'Estérel and its striking red volcanic rock formations.\nMidday: Return to the charming town center to experience the tranquility of the Église Sainte-Germaine de Pibrac. Then, treat yourself to an exclusive break at La Plage Blanche, where gentle waters offer pure relaxation.\nAfternoon: Steer your car leisurely northward to discover the Parc départemental du San Peyre. A short hike from the parking area rewards you with magnificent sweeping views over the entire picturesque Riviera coastline.\nEvening: Conclude your drive by parking near the Plage du Château. The dramatic backdrop of the historic walls against the darkening Mediterranean Sea provides a highly romantic end to your fantastic road trip."
+      }
+    }
+  }
+}

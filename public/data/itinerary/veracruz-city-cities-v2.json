@@ -1,0 +1,474 @@
+{
+  "city_id": "veracruz-city-cities-v2",
+  "anchor": {
+    "name": "Veracruz",
+    "coords": [
+      -96.1342,
+      19.1738
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:22",
+      "total_km": 3.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Zoologischer Park Miguel Ángel de Quevedo",
+            "hu": "Miguel Ángel de Quevedo Állatkert",
+            "ro": "Parcul Zoologic Miguel Ángel de Quevedo",
+            "en": "Miguel Ángel de Quevedo Zoological Park"
+          },
+          "coords": [
+            -96.13731,
+            19.173481
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die vielfältige lokale Tierwelt und die botanischen Gärten dieses historischen Parks, aber kommen Sie früh, um die Mittagshitze zu meiden.",
+            "hu": "Fedezze fel a különféle helyi vadvilágot és botanikus kerteket ebben a történelmi parkban, de érkezzen korán, hogy elkerülje az állatetetés közbeni déli hőséget.",
+            "ro": "Explorați fauna locală diversă și grădinile botanice în acest parc istoric, dar veniți devreme pentru a evita căldura amiezii când hrăniți animalele.",
+            "en": "Explore diverse local wildlife and botanical gardens in this historic park, but arrive early to avoid the midday heat while feeding the animals."
+          }
+        },
+        {
+          "name": {
+            "de": "Nachbildung des Burgtors",
+            "hu": "Óriás várkapu másolat",
+            "ro": "Replica Porții Castelului",
+            "en": "Replica Gate with Giant"
+          },
+          "coords": [
+            -96.133982,
+            19.167454
+          ],
+          "category": "monument",
+          "arrive_at": "10:36",
+          "stay_min": 15,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten architektonischen Details dieses beeindruckenden Burgtors und fotografieren Sie von der Ostseite für bestes natürliches Licht.",
+            "hu": "Csodálja meg e lenyűgöző várkapu másolat figyelemre méltó építészeti részleteit, és a legjobb természetes megvilágítás érdekében fotózzon a keleti oldalról.",
+            "ro": "Admirați detaliile arhitecturale izbitoare ale acestei porți impunătoare de castel, făcând fotografii din partea de est pentru cea mai bună lumină naturală.",
+            "en": "Admire the striking architectural details of this impressive castle replica gate, taking photos from the eastern side for the best natural lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquarium Tecnomarine",
+            "hu": "Tecnomarine Akvárium",
+            "ro": "Acvariul Tecnomarine",
+            "en": "Acuario Tecnomarine"
+          },
+          "coords": [
+            -96.125451,
+            19.175349
+          ],
+          "category": "family",
+          "arrive_at": "11:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende Meereslebewesen in diesem familienfreundlichen Aquarium und prüfen Sie unbedingt vorab die täglichen Fütterungszeiten der Tiere.",
+            "hu": "Fedezzen fel lenyűgöző tengeri élőlényeket ebben a családbarát akváriumban, és mindenképpen ellenőrizze a napi etetési ütemtervet a túra megtervezése előtt.",
+            "ro": "Descoperiți expoziții fascinante cu viață marină la acest acvariu ideal pentru familii, asigurându-vă că verificați programul zilnic de hrănire a peștilor.",
+            "en": "Discover fascinating marine life exhibits at this family-friendly aquarium, making sure to check the daily feeding schedules before planning your route."
+          }
+        },
+        {
+          "name": {
+            "de": "Zentraler Ticketverkauf",
+            "hu": "Központi jegyiroda",
+            "ro": "Vânzare Bilete Centrală",
+            "en": "Venta de tiquetes"
+          },
+          "coords": [
+            -96.12357,
+            19.18637
+          ],
+          "category": "landmark",
+          "arrive_at": "12:44",
+          "stay_min": 25,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Sichern Sie sich an diesem zentralen Wahrzeichen Ihre Eintrittskarten, um die langen Nachmittagsschlangen an den wichtigsten Touristenattraktionen zu umgehen.",
+            "hu": "Szerezze be a belépőket ezen a kényelmes központi tájékozódási ponton, hogy elkerülje a hosszú délutáni sorban állást a legfőbb turisztikai látványosságoknál.",
+            "ro": "Asigurați-vă biletele de intrare la acest punct de reper central și convenabil, evitând astfel cozile lungi de după-amiază la principalele atracții turistice.",
+            "en": "Secure your admissions and local transit passes at this convenient central landmark to skip the long afternoon queues at the main tourist attractions."
+          }
+        },
+        {
+          "name": {
+            "de": "Ripley's Museum der Kuriositäten",
+            "hu": "Ripley's Különlegességek Múzeuma",
+            "ro": "Muzeul Ripley's",
+            "en": "Ripley's Believe it or not"
+          },
+          "coords": [
+            -96.122306,
+            19.187878
+          ],
+          "category": "museum",
+          "arrive_at": "13:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in eine bizarre Sammlung von Kuriositäten und optischen Täuschungen ein und reservieren Sie mindestens zwei Stunden für die interaktiven Displays.",
+            "hu": "Merüljön el a furcsaságok és optikai illúziók bizarr gyűjteményében, és szánjon legalább két órát az interaktív kiállítási tárgyak alapos megtekintésére.",
+            "ro": "Cufundați-vă într-o colecție bizară de curiozități și iluzii optice, alocând cel puțin două ore pentru a interacționa pe deplin cu exponatele practice.",
+            "en": "Immerse yourself in a bizarre collection of oddities and optical illusions, reserving at least two hours to fully interact with the hands-on displays."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit einem ruhigen Spaziergang durch den üppigen Parque Zoológico, bevor Sie das majestätische Burgtor bewundern. Mittags geht es in das lebhafte Acuario Tecnomarine, wo Sie die faszinierende Meereswelt des Golfs erkunden können. Der Nachmittag bietet Ihnen eine bequeme Ticketbeschaffung am Landmark, gefolgt von bizarren Wundern im Ripley's. Der Abend klingt mit unvergesslichen Eindrücken im Zentrum von Veracruz aus.",
+        "hu": "Kezdje a reggelt egy békés sétával a buja Parque Zoológico-ban, majd csodálja meg a fenséges várkapu másolatát. Délben irány a nyüzsgő Acuario Tecnomarine, ahol az öböl lenyűgöző tengeri élővilágát fedezheti fel. A délután folyamán kényelmesen beszerezheti a jegyeket, majd a Ripley's bizarr csodái várják a látogatókat. Az este felejthetetlen vizuális élményekkel zárul Veracruz pezsgő szívében.",
+        "ro": "Începeți dimineața cu o plimbare liniștită prin luxuriantul Parque Zoológico, înainte de a admira replica maiestuoasă a porții castelului. La amiază, îndreptați-vă spre animatul Acuario Tecnomarine pentru a explora fascinanta viață marină a Golfului. După-amiaza vă oferă o oportunitate convenabilă de a lua bilete, urmată de minunile bizare de la Ripley's. Seara se încheie cu impresii de neuitat în centrul orașului Veracruz.",
+        "en": "Start your morning with a peaceful stroll through the lush Parque Zoológico before admiring the majestic castle replica gate nearby. Midday brings you to the lively Acuario Tecnomarine, where you can explore the fascinating marine life of the Gulf. The afternoon offers a convenient stop for tickets at the central landmark, followed by the bizarre wonders of Ripley's. The evening concludes with unforgettable impressions in the heart of Veracruz."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:34",
+      "total_km": 6.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Schutzgebiet Archipel der Lagunen",
+            "hu": "Lagúnák Szigetvilága Természetvédelmi Terület",
+            "ro": "Aria Protejată Arhipelagul Lagunelor",
+            "en": "Área Natural Protegida Archipiélago de Lagunas Interdunarias"
+          },
+          "coords": [
+            -96.137562,
+            19.161479
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses geschützte Dünenökosystem, um die einzigartige Küstenvegetation zu beobachten, und tragen Sie feste Schuhe für die sandigen Wege.",
+            "hu": "Sétáljon végig ezen a védett dűne-ökoszisztémán a part menti növényzet megfigyeléséhez, de viseljen erős túracipőt a homokos és egyenetlen ösvények miatt.",
+            "ro": "Plimbați-vă prin acest ecosistem protejat de dune pentru a observa vegetația de coastă unică, purtând încălțăminte rezistentă pentru traseele naturale cu nisip.",
+            "en": "Wander through this protected dune ecosystem to observe unique coastal vegetation, wearing sturdy walking shoes for the sandy and uneven natural trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoologischer Park Miguel Ángel de Quevedo",
+            "hu": "Miguel Ángel de Quevedo Állatkert",
+            "ro": "Parcul Zoologic Miguel Ángel de Quevedo",
+            "en": "Miguel Ángel de Quevedo Zoological Park"
+          },
+          "coords": [
+            -96.13731,
+            19.173481
+          ],
+          "category": "family",
+          "arrive_at": "10:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die vielfältige lokale Tierwelt und die botanischen Gärten dieses historischen Parks, aber kommen Sie früh, um die Mittagshitze zu meiden.",
+            "hu": "Fedezze fel a különféle helyi vadvilágot és botanikus kerteket ebben a történelmi parkban, de érkezzen korán, hogy elkerülje az állatetetés közbeni déli hőséget.",
+            "ro": "Explorați fauna locală diversă și grădinile botanice în acest parc istoric, dar veniți devreme pentru a evita căldura amiezii când hrăniți animalele.",
+            "en": "Explore diverse local wildlife and botanical gardens in this historic park, but arrive early to avoid the midday heat while feeding the animals."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquarium Tecnomarine",
+            "hu": "Tecnomarine Akvárium",
+            "ro": "Acvariul Tecnomarine",
+            "en": "Acuario Tecnomarine"
+          },
+          "coords": [
+            -96.125451,
+            19.175349
+          ],
+          "category": "family",
+          "arrive_at": "11:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende Meereslebewesen in diesem familienfreundlichen Aquarium und prüfen Sie unbedingt vorab die täglichen Fütterungszeiten der Tiere.",
+            "hu": "Fedezzen fel lenyűgöző tengeri élőlényeket ebben a családbarát akváriumban, és mindenképpen ellenőrizze a napi etetési ütemtervet a túra megtervezése előtt.",
+            "ro": "Descoperiți expoziții fascinante cu viață marină la acest acvariu ideal pentru familii, asigurându-vă că verificați programul zilnic de hrănire a peștilor.",
+            "en": "Discover fascinating marine life exhibits at this family-friendly aquarium, making sure to check the daily feeding schedules before planning your route."
+          }
+        },
+        {
+          "name": {
+            "de": "Ripley's Museum der Kuriositäten",
+            "hu": "Ripley's Különlegességek Múzeuma",
+            "ro": "Muzeul Ripley's",
+            "en": "Ripley's Believe it or not"
+          },
+          "coords": [
+            -96.122306,
+            19.187878
+          ],
+          "category": "museum",
+          "arrive_at": "13:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie in eine bizarre Sammlung von Kuriositäten und optischen Täuschungen ein und reservieren Sie mindestens zwei Stunden für die interaktiven Displays.",
+            "hu": "Merüljön el a furcsaságok és optikai illúziók bizarr gyűjteményében, és szánjon legalább két órát az interaktív kiállítási tárgyak alapos megtekintésére.",
+            "ro": "Cufundați-vă într-o colecție bizară de curiozități și iluzii optice, alocând cel puțin două ore pentru a interacționa pe deplin cu exponatele practice.",
+            "en": "Immerse yourself in a bizarre collection of oddities and optical illusions, reserving at least two hours to fully interact with the hands-on displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Regatas",
+            "hu": "Regatas Strand",
+            "ro": "Plaja Regatas",
+            "en": "Playa Regatas"
+          },
+          "coords": [
+            -96.125047,
+            19.194418
+          ],
+          "category": "recreational",
+          "arrive_at": "15:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Sandstrand dieses lebhaften Erholungsgebiets und nutzen Sie die nahegelegenen Kioske für erfrischendes lokales Kokoswasser nach dem Schwimmen.",
+            "hu": "Pihenjen e nyüzsgő strand homokos partján, és úszás után használja ki a közeli bódék kínálatát egy frissítő, helyi és jéghideg kókuszvíz elfogyasztásához.",
+            "ro": "Relaxați-vă pe malurile nisipoase ale acestei plaje animate, profitând de chioșcurile din apropiere pentru o apă de cocos locală revigorantă după înot.",
+            "en": "Relax on the sandy shores of this lively recreational beach, taking advantage of the nearby kiosks for refreshing local coconut water after a swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Fototeca von Veracruz",
+            "hu": "Veracruz Fotótéka",
+            "ro": "Fototeca din Veracruz",
+            "en": "Fototeca de Veracruz"
+          },
+          "coords": [
+            -96.137524,
+            19.200257
+          ],
+          "category": "museum",
+          "arrive_at": "16:24",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie reiche Fotoarchive, die die bunte Geschichte von Veracruz dokumentieren, und besuchen Sie unbedingt die temporäre Ausstellungshalle im Obergeschoss.",
+            "hu": "Fedezze fel Veracruz színes történelmét dokumentáló gazdag fotóarchívumot, és semmiképp se hagyja ki a második emeleten található időszakos kiállítótermet.",
+            "ro": "Explorați arhivele fotografice bogate care documentează istoria colorată a Veracruzului și asigurați-vă că verificați sala de expoziții temporare de la etaj.",
+            "en": "Explore rich photographic archives documenting Veracruz's colorful history, and be sure to check the temporary exhibition hall on the second floor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie am Morgen durch das geschützte Archipel der Lagunen und genießen Sie die unberührte Natur, bevor Sie den zoologischen Park besuchen. Gegen Mittag erreichen Sie das Acuario Tecnomarine, ein idealer Ort für eine familienfreundliche Pause. Am Nachmittag entdecken Sie die skurrilen Illusionen im Ripley's, gefolgt von einer entspannten Fahrt zum Playa Regatas. Den Abend verbringen Sie mit historischer Fotografie in der eleganten Fototeca.",
+        "hu": "Kerékpározzon reggel a védett lagúnák szigetvilágában, élvezve az érintetlen természetet, mielőtt meglátogatná a helyi állatkertet. Dél körül érkezik az Acuario Tecnomarine-hoz, amely tökéletes helyszín egy családbarát pihenőre. Délután felfedezheti a Ripley's furcsa illúzióit, majd egy pihentető tekerés következik a Playa Regatas strandra. Az estét a történelmi fotózásnak szentelheti az elegáns Fototeca épületében.",
+        "ro": "Pedalați dimineața prin arhipelagul protejat de lagune, bucurându-vă de natura virgină, înainte de a vizita parcul zoologic local. În jurul prânzului ajungeți la Acuario Tecnomarine, un loc perfect pentru o pauză relaxantă în familie. După-amiaza descoperiți iluziile ciudate de la Ripley's, urmată de o plimbare liniștită spre Playa Regatas. Seara este dedicată fotografiei istorice în clădirea elegantă Fototeca de Veracruz.",
+        "en": "Cycle through the protected lagoon archipelago in the morning, enjoying the untouched nature before visiting the local zoological park. Around midday, you will arrive at the Acuario Tecnomarine, providing a perfect spot for a family-friendly break. The afternoon invites you to discover the quirky illusions at Ripley's, followed by a relaxing ride to Playa Regatas. Spend your evening exploring historic photography at the elegant Fototeca."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:44",
+      "total_km": 10.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ökologisches Reservat Tembladeras-Laguna Olmeca",
+            "hu": "Tembladeras-Laguna Olmeca Ökológiai Rezervátum",
+            "ro": "Rezervația Ecologică Tembladeras-Laguna Olmeca",
+            "en": "Reserva Ecológica Tembladeras-Laguna Olmeca"
+          },
+          "coords": [
+            -96.150686,
+            19.147084
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Artenvielfalt dieses ökologischen Reservats und packen Sie Insektenschutz sowie ein Fernglas ein, um Zugvögel gut beobachten zu können.",
+            "hu": "Fedezze fel ezen ökológiai rezervátum gazdag vizes élőhelyeit, de hozzon magával bőségesen rovarriasztót és távcsövet a változatos vándormadarak megfigyeléséhez.",
+            "ro": "Descoperiți biodiversitatea zonelor umede în această rezervație ecologică, luând suficient repelent pentru insecte și binoclu pentru a observa păsările migratoare.",
+            "en": "Discover rich wetland biodiversity in this ecological reserve, packing plenty of insect repellent and binoculars to spot the diverse migratory bird species."
+          }
+        },
+        {
+          "name": {
+            "de": "Theater Tamsa",
+            "hu": "Tamsa Színház",
+            "ro": "Teatrul Tamsa",
+            "en": "Teatro Tamsa"
+          },
+          "coords": [
+            -96.122965,
+            19.150386
+          ],
+          "category": "cultural",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die großartige Architektur dieses kulturellen Veranstaltungsortes und prüfen Sie vorab das Programm, um vielleicht eine Live-Vorstellung zu sehen.",
+            "hu": "Csodálja meg ennek a kiemelkedő kulturális helyszínnek a lenyűgöző építészeti kialakítását, és előzetesen ellenőrizze a műsort egy esetleges élő előadásért.",
+            "ro": "Apreciați designul arhitectural grandios al acestui loc cultural proeminent, verificând programul online în avans pentru a prinde o eventuală reprezentație live.",
+            "en": "Appreciate the grand architectural design of this prominent cultural venue, checking their online schedule in advance to possibly catch a live performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Agustín Lara",
+            "hu": "Agustín Lara Múzeum",
+            "ro": "Casa lui Agustín Lara",
+            "en": "Casa de Agustín Lara"
+          },
+          "coords": [
+            -96.116841,
+            19.169307
+          ],
+          "category": "museum",
+          "arrive_at": "11:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem Museum in das Leben von Mexikos berühmtem Komponisten ein und nehmen Sie sich Zeit für die originalen Audioaufnahmen im Arbeitszimmer.",
+            "hu": "Lépjen be Mexikó híres zeneszerzőjének életébe ebben az emlékmúzeumban, és szánjon időt a dolgozószobában bemutatott eredeti hangfelvételek meghallgatására.",
+            "ro": "Pășiți în viața faimosului compozitor mexican la acest muzeu dedicat, făcându-vă timp să ascultați înregistrările audio originale expuse în sala de studiu.",
+            "en": "Step into the life of Mexico's famous composer at this dedicated museum, taking time to listen to the original audio recordings displayed in the study room."
+          }
+        },
+        {
+          "name": {
+            "de": "Nachbildung des Burgtors",
+            "hu": "Óriás várkapu másolat",
+            "ro": "Replica Porții Castelului",
+            "en": "Replica gate with giant"
+          },
+          "coords": [
+            -96.133982,
+            19.167454
+          ],
+          "category": "castle",
+          "arrive_at": "13:40",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten architektonischen Details dieses beeindruckenden Burgtors und fotografieren Sie von der Ostseite für bestes natürliches Licht.",
+            "hu": "Csodálja meg e lenyűgöző várkapu másolat figyelemre méltó építészeti részleteit, és a legjobb természetes megvilágítás érdekében fotózzon a keleti oldalról.",
+            "ro": "Admirați detaliile arhitecturale izbitoare ale acestei porți impunătoare de castel, făcând fotografii din partea de est pentru cea mai bună lumină naturală.",
+            "en": "Admire the striking architectural details of this impressive castle replica gate, taking photos from the eastern side for the best natural lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoologischer Park Miguel Ángel de Quevedo",
+            "hu": "Miguel Ángel de Quevedo Állatkert",
+            "ro": "Parcul Zoologic Miguel Ángel de Quevedo",
+            "en": "Parque Zoológico Miguel Ángel de Quevedo"
+          },
+          "coords": [
+            -96.13731,
+            19.173481
+          ],
+          "category": "family",
+          "arrive_at": "13:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die vielfältige lokale Tierwelt und die botanischen Gärten dieses historischen Parks, aber kommen Sie früh, um die Mittagshitze zu meiden.",
+            "hu": "Fedezze fel a különféle helyi vadvilágot és botanikus kerteket ebben a történelmi parkban, de érkezzen korán, hogy elkerülje az állatetetés közbeni déli hőséget.",
+            "ro": "Explorați fauna locală diversă și grădinile botanice în acest parc istoric, dar veniți devreme pentru a evita căldura amiezii când hrăniți animalele.",
+            "en": "Explore diverse local wildlife and botanical gardens in this historic park, but arrive early to avoid the midday heat while feeding the animals."
+          }
+        },
+        {
+          "name": {
+            "de": "Ripley's Museum der Kuriositäten",
+            "hu": "Ripley's Különlegességek Múzeuma",
+            "ro": "Muzeul Ripley's",
+            "en": "Ripley's Believe it or not"
+          },
+          "coords": [
+            -96.122306,
+            19.187878
+          ],
+          "category": "museum",
+          "arrive_at": "15:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in eine bizarre Sammlung von Kuriositäten und optischen Täuschungen ein und reservieren Sie mindestens zwei Stunden für die interaktiven Displays.",
+            "hu": "Merüljön el a furcsaságok és optikai illúziók bizarr gyűjteményében, és szánjon legalább két órát az interaktív kiállítási tárgyak alapos megtekintésére.",
+            "ro": "Cufundați-vă într-o colecție bizară de curiozități și iluzii optice, alocând cel puțin două ore pentru a interacționa pe deplin cu exponatele practice.",
+            "en": "Immerse yourself in a bizarre collection of oddities and optical illusions, reserving at least two hours to fully interact with the hands-on displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Regatas",
+            "hu": "Regatas Strand",
+            "ro": "Plaja Regatas",
+            "en": "Playa Regatas"
+          },
+          "coords": [
+            -96.125047,
+            19.194418
+          ],
+          "category": "recreational",
+          "arrive_at": "16:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie am Sandstrand dieses lebhaften Erholungsgebiets und nutzen Sie die nahegelegenen Kioske für erfrischendes lokales Kokoswasser nach dem Schwimmen.",
+            "hu": "Pihenjen e nyüzsgő strand homokos partján, és úszás után használja ki a közeli bódék kínálatát egy frissítő, helyi és jéghideg kókuszvíz elfogyasztásához.",
+            "ro": "Relaxați-vă pe malurile nisipoase ale acestei plaje animate, profitând de chioșcurile din apropiere pentru o apă de cocos locală revigorantă după înot.",
+            "en": "Relax on the sandy shores of this lively recreational beach, taking advantage of the nearby kiosks for refreshing local coconut water after a swim."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie am frühen Morgen zur ökologischen Reserva Tembladeras, wo Sie die reiche Artenvielfalt der Feuchtgebiete hautnah erleben können. Mittags bewundern Sie das Teatro Tamsa und tauchen in der Casa de Agustín Lara tief in die mexikanische Musikgeschichte ein. Am Nachmittag besuchen Sie das monumentale Burgtor und den Zoo, bevor Sie die Kuriositäten im Ripley's erkunden. Lassen Sie den Abend bei einem entspannten Spaziergang am Playa Regatas ausklingen.",
+        "hu": "Kora reggel vezessen a Tembladeras ökológiai rezervátumhoz, ahol testközelből tapasztalhatja meg a vizes élőhelyek gazdag biológiai sokféleségét. Délben megcsodálhatja a Teatro Tamsa-t, és elmerülhet a mexikói zenetörténetben a Casa de Agustín Lara múzeumban. Délután meglátogatja a monumentális várkaput és az állatkertet, mielőtt felfedezné a Ripley's furcsaságait. Az estét egy pihentető tengerparti sétával zárhatja a Playa Regatas partján.",
+        "ro": "Conduceți dimineața devreme spre rezervația ecologică Tembladeras, unde puteți experimenta îndeaproape biodiversitatea bogată a zonelor umede. La prânz admirați Teatro Tamsa și pătrundeți în istoria muzicii mexicane la Casa de Agustín Lara. După-amiaza vizitați poarta monumentală a castelului și grădina zoologică, înainte de a explora curiozitățile de la Ripley's. Încheiați seara cu o plimbare relaxantă pe plaja plină de viață Playa Regatas.",
+        "en": "Drive early morning to the Tembladeras ecological reserve, where you can experience the rich biodiversity of the wetlands up close. At midday, admire the grand Teatro Tamsa and delve into Mexican music history at the Casa de Agustín Lara. In the afternoon, visit the monumental castle gate and the local zoo before exploring the intriguing oddities at Ripley's. Conclude your vibrant evening with a relaxing sunset stroll along the lively Playa Regatas."
+      }
+    }
+  }
+}

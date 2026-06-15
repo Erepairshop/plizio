@@ -1,0 +1,497 @@
+{
+  "city_id": "greece-ntomata-cities-v2",
+  "anchor": {
+    "name": "Ntomata",
+    "coords": [
+      20.53166,
+      38.11427
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:57",
+      "total_km": 6.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Vergotis-Kulturzentrum",
+            "hu": "Vergotis Kulturális Központ",
+            "ro": "Centrul Cultural Vergotis",
+            "en": "Vergotis Cultural Centre"
+          },
+          "coords": [
+            20.534065,
+            38.120852
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale Kunst in diesem eleganten Veranstaltungsort, der den Geist der Insel widerspiegelt, aber prüfen Sie vorher das aktuelle Programm.",
+            "hu": "Fedezze fel a helyi művészetet ebben az elegáns, a sziget szellemét tükröző kulturális központban, és mindenképpen ellenőrizze előre az aktuális programokat.",
+            "ro": "Descoperiți arta și moștenirea locală în acest spațiu elegant ce reflectă spiritul insulei, dar nu uitați să verificați programul expozițiilor în prealabil.",
+            "en": "Discover the local arts and heritage hosted in this elegant modern venue, where cultural exhibitions reflect the island's spirit, so check the schedule beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Büste von Lord Byron",
+            "hu": "Lord Byron mellszobra",
+            "ro": "Bustul lui Lord Byron",
+            "en": "Bust of Lord Byron"
+          },
+          "coords": [
+            20.538789,
+            38.119702
+          ],
+          "category": "historical",
+          "arrive_at": "10:56",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erweisen Sie dem berühmten Dichter die Ehre, der sich in Kefalonias Schönheit verliebte, was diese Bronzebüste ehrt; fotografieren Sie sie am besten im Morgenlicht.",
+            "hu": "Tisztelegjen a híres költő előtt, aki beleszeretett Kefalónia szépségébe, és akinek bronzmellszobrát a lágy reggeli fényekben a legjobb lencsevégre kapni.",
+            "ro": "Omagiați faimosul poet care s-a îndrăgostit de frumusețea Cefaloniei, reprezentat în acest bust de bronz, cel mai bine de fotografiat în lumina blândă a dimineții.",
+            "en": "Pay homage to the famous poet who fell in love with Kefalonia's beauty, captured perfectly in this bronze bust, best photographed during the soft morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Lugia",
+            "hu": "Lugia",
+            "ro": "Lugia",
+            "en": "Lugia"
+          },
+          "coords": [
+            20.533416,
+            38.103472
+          ],
+          "category": "recreational",
+          "arrive_at": "11:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 29,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Genießen Sie eine ruhige Pause an diesem malerischen Erholungsort, wo die sanfte Landschaft ideal für Spaziergänge ist, also bringen Sie bequeme Schuhe mit.",
+            "hu": "Élvezze a nyugodt pihenést ezen a festői rekreációs helyen, ahol a szelíd táj tökéletes hátteret nyújt egy sétához, ezért hozzon magával kényelmes cipőt.",
+            "ro": "Bucurați-vă de o pauză liniștită în acest loc pitoresc, unde peisajul blând oferă un cadru perfect pentru o plimbare, așa că purtați încălțăminte confortabilă.",
+            "en": "Enjoy a tranquil break at this scenic recreational spot, where the gentle landscape provides a perfect backdrop for a relaxing stroll, so bring comfortable walking shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Avithos Strand",
+            "hu": "Avithos strand",
+            "ro": "Plaja Avithos",
+            "en": "Avithos Beach"
+          },
+          "coords": [
+            20.539683,
+            38.101286
+          ],
+          "category": "recreational",
+          "arrive_at": "13:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem goldenen Sand dieses unberührten Strandes, der für sein flaches Wasser bekannt ist; ideal zum Schwimmen, also vergessen Sie Ihre Sonnencreme nicht.",
+            "hu": "Pihenjen meg ezen az érintetlen, aranohomokos tengerparton, amely kristálytiszta, sekély vizéről ismert, így ideális úszáshoz, ezért ne felejtse el a naptejet.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje imaculate, renumită pentru apele sale limpezi și puțin adânci, perfecte pentru înot, așa că nu uitați crema de soare.",
+            "en": "Unwind on the golden sands of this pristine beach, known for its crystal-clear shallow waters, making it ideal for families and swimming, so don't forget your sunscreen."
+          }
+        },
+        {
+          "name": {
+            "de": "Mykenischer Friedhof von Mazarakata",
+            "hu": "Mazarakata mükénéi temetője",
+            "ro": "Cimitirul Micenian din Mazarakata",
+            "en": "Mycenean Cemetery of Mazarakata"
+          },
+          "coords": [
+            20.544537,
+            38.130119
+          ],
+          "category": "historical",
+          "arrive_at": "15:07",
+          "stay_min": 110,
+          "hop_from_prev_min": 48,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden antiken Felsengräber dieser bedeutenden Ausgrabungsstätte zur frühen griechischen Geschichte; nehmen Sie am besten einen Reiseführer mit.",
+            "hu": "Fedezze fel a korai görög temetkezési szokásokat bemutató jelentős régészeti lelőhely lenyűgöző sziklasírjait, amelyeket a legérdemesebb egy jó útikönyvvel bejárni.",
+            "ro": "Explorați mormintele antice tăiate în stâncă ale acestui sit arheologic important ce dezvăluie obiceiurile funerare elene; luați neapărat un ghid tipărit.",
+            "en": "Explore the fascinating ancient rock-cut tombs of this significant archaeological site that reveal early Greek burial customs, best visited with a guided guidebook."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit lokaler Kultur im Vergotis-Zentrum, gefolgt von einer Hommage an Lord Byron. Mittags führt ein Spaziergang nach Süden ins friedliche Lugia. Den Nachmittag verbringen Sie in der Sonne am Avithos Beach. Der Abend endet faszinierend auf dem antiken mykenischen Friedhof.",
+        "hu": "A reggel a helyi kultúrával indul a Vergotis Központban, majd Lord Byron emléke következik. Délben egy festői sétával délre tartunk Lugia békés vidékére. A délutánt az Avithos strand napsütésében töltjük. Az este az ősi mükénéi temető lenyűgöző felfedezésével zárul.",
+        "ro": "Dimineața începe cu o incursiune în cultura locală la Centrul Vergotis, urmată de un omagiu adus lui Byron. La prânz, o plimbare spre sud vă duce la liniștea din Lugia. După-amiaza vă relaxați la soare pe plaja Avithos. Seara se încheie cu explorarea fascinantului cimitir antic micenian.",
+        "en": "Morning starts with a deep dive into local culture at the Vergotis Centre, followed by a tribute to Lord Byron. Midday leads you south on a scenic walk to Lugia for a peaceful retreat. Afternoon is spent basking in the sun at Avithos Beach. Evening concludes with an intriguing exploration of the ancient Mycenean Cemetery."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:53",
+      "total_km": 7.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Freiluft-Amphitheater Kallithea",
+            "hu": "Kallithea szabadtéri amfiteátrum",
+            "ro": "Amfiteatrul în aer liber Kallithea",
+            "en": "Kallithea Open-Air Amphitheater"
+          },
+          "coords": [
+            20.513316,
+            38.126024
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die Akustik dieses Freiluft-Amphitheaters, das die umliegende Landschaft wunderschön einrahmt; ideal für einen ruhigen Moment auf den oberen Rängen.",
+            "hu": "Tapasztalja meg ennek a szabadtéri amfiteátrumnak a csodás akusztikáját, amely festői keretbe foglalja a tájat; a felső sorok kiválók egy csendes pihenőhöz.",
+            "ro": "Experimentați minunățiile acustice ale acestui amfiteatru în aer liber ce încadrează superb peisajul, un loc perfect pentru un moment de liniște pe treptele superioare.",
+            "en": "Experience the acoustic marvels of this open-air amphitheater that beautifully frames the surrounding scenery, perfect for enjoying a quiet moment of reflection on the upper tiers."
+          }
+        },
+        {
+          "name": {
+            "de": "Byrons Felsen",
+            "hu": "Byron sziklája",
+            "ro": "Stânca lui Byron",
+            "en": "Byron's Rock"
+          },
+          "coords": [
+            20.516288,
+            38.124627
+          ],
+          "category": "landmark",
+          "arrive_at": "10:52",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Stehen Sie an dem historischen Aussichtspunkt, an dem Lord Byron angeblich Inspiration fand, und genießen Sie den Panoramablick, der förmlich nach einem Weitwinkelobjektiv verlangt.",
+            "hu": "Álljon meg azon a történelmi kilátóponton, ahol Lord Byron állítólag ihletet merített a Jón-tengerből, és élvezze a lélegzetelállító panorámát, amihez nagylátószögű lencse kell.",
+            "ro": "Opriți-vă la punctul de belvedere istoric unde Lord Byron și-ar fi găsit inspirația, oferind o vedere panoramică absolut uluitoare, ideală pentru un obiectiv super-angular.",
+            "en": "Stand at the historic vantage point where Lord Byron supposedly drew inspiration from the Ionian Sea, offering breathtaking panoramic views that demand a wide-angle lens."
+          }
+        },
+        {
+          "name": {
+            "de": "Ammes Strand",
+            "hu": "Ammes strand",
+            "ro": "Plaja Ammes",
+            "en": "Ammes Beach"
+          },
+          "coords": [
+            20.509951,
+            38.109149
+          ],
+          "category": "recreational",
+          "arrive_at": "11:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Beobachten Sie dramatisch landende Flugzeuge nahe dieses charmanten Küstenstreifens, während Sie Ihre Füße ins Wasser tauchen; genießen Sie dies mit einem kühlen Getränk.",
+            "hu": "Figyelje a drámaian ereszkedő repülőket ezen a bájos partszakaszon, miközben belemártja lábát a hűsítő vízbe; ehhez az egyedi látványhoz vegyen egy hideg italt a közeli büfében.",
+            "ro": "Urmăriți avioanele coborând dramatic aproape de această coastă fermecătoare, în timp ce vă răcoriți picioarele în apă, o priveliște unică de savurat cu o băutură rece.",
+            "en": "Watch airplanes dramatically descend near this charming coastal stretch while you dip your toes in the refreshing waters, a unique sight to pair with a cold drink from a nearby kiosk."
+          }
+        },
+        {
+          "name": {
+            "de": "Ai Helis Strand",
+            "hu": "Ai Helis strand",
+            "ro": "Plaja Ai Helis",
+            "en": "Ai helis beach"
+          },
+          "coords": [
+            20.522988,
+            38.103747
+          ],
+          "category": "recreational",
+          "arrive_at": "12:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in den dunkleren Vulkansand dieser geschützten Bucht, einem großartigen Ort für Schnorchler, die unbedingt ihre eigene Unterwasserausrüstung mitbringen sollten.",
+            "hu": "Merüljön el e védett öböl sötétebb vulkáni homokjában és csendes hullámaiban, amely kiváló hely a sznorkelezés szerelmeseinek, így mindenképp hozzon saját felszerelést.",
+            "ro": "Scufundați-vă în nisipul vulcanic mai închis și apele calme ale acestui golf protejat, un loc excelent pentru pasionații de snorkeling, care ar trebui să-și aducă echipamentul propriu.",
+            "en": "Dive into the slightly darker volcanic sands and calm waves of this sheltered bay, a great spot for snorkeling enthusiasts who should definitely pack their own underwater gear."
+          }
+        },
+        {
+          "name": {
+            "de": "Vergotis-Kulturzentrum",
+            "hu": "Vergotis Kulturális Központ",
+            "ro": "Centrul Cultural Vergotis",
+            "en": "Vergotis Cultural Centre"
+          },
+          "coords": [
+            20.534065,
+            38.120852
+          ],
+          "category": "cultural",
+          "arrive_at": "14:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale Kunst in diesem eleganten Veranstaltungsort, der den Geist der Insel widerspiegelt, aber prüfen Sie vorher das aktuelle Programm.",
+            "hu": "Fedezze fel a helyi művészetet ebben az elegáns, a sziget szellemét tükröző kulturális központban, és mindenképpen ellenőrizze előre az aktuális programokat.",
+            "ro": "Descoperiți arta și moștenirea locală în acest spațiu elegant ce reflectă spiritul insulei, dar nu uitați să verificați programul expozițiilor în prealabil.",
+            "en": "Discover the local arts and heritage hosted in this elegant modern venue, where cultural exhibitions reflect the island's spirit, so check the schedule beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Mykenischer Friedhof von Mazarakata",
+            "hu": "Mazarakata mükénéi temetője",
+            "ro": "Cimitirul Micenian din Mazarakata",
+            "en": "Mycenean Cemetery of Mazarakata"
+          },
+          "coords": [
+            20.544537,
+            38.130119
+          ],
+          "category": "historical",
+          "arrive_at": "16:03",
+          "stay_min": 110,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden antiken Felsengräber dieser bedeutenden Ausgrabungsstätte zur frühen griechischen Geschichte; nehmen Sie am besten einen Reiseführer mit.",
+            "hu": "Fedezze fel a korai görög temetkezési szokásokat bemutató jelentős régészeti lelőhely lenyűgöző sziklasírjait, amelyeket a legérdemesebb egy jó útikönyvvel bejárni.",
+            "ro": "Explorați mormintele antice tăiate în stâncă ale acestui sit arheologic important ce dezvăluie obiceiurile funerare elene; luați neapărat un ghid tipărit.",
+            "en": "Explore the fascinating ancient rock-cut tombs of this significant archaeological site that reveal early Greek burial customs, best visited with a guided guidebook."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie zum atemberaubenden Freiluft-Amphitheater und weiter zu Byrons Felsen für großartige Küstenblicke. Mittags erreichen Sie den lebhaften Ammes Beach für eine Pause. Nachmittags geht es zum dunklen Sand von Ai Helis und zum Vergotis-Zentrum. Der Abend klingt bei den historischen Mazarakata-Gräbern aus.",
+        "hu": "Tekerjen a lenyűgöző szabadtéri amfiteátrumhoz a reggel folyamán, majd a Byron-sziklához a parti panorámáért. Délben a nyüzsgő Ammes strandon tarthat frissítő pihenőt. A délutáni kerékpározás Ai Helis sötétebb homokjához és a Vergotis Központhoz vezet. Az este a történelmi Mazarakata síroknál ér véget.",
+        "ro": "Pedalați spre uimitorul amfiteatru în aer liber, apoi spre Stânca lui Byron pentru panorame costiere superbe. La prânz ajungeți la plaja plină de viață Ammes pentru o pauză. După-amiaza vă duce spre nisipurile de la Ai Helis și Centrul Vergotis. Seara se încheie la mormintele istorice Mazarakata.",
+        "en": "Cycle towards the stunning open-air amphitheater to kick off your morning, then head to Byron's Rock for breathtaking coastal vistas. Midday brings you to the lively Ammes Beach for a refreshing break. Afternoon cycling takes you to the darker sands of Ai Helis and the cultural Vergotis Centre. Evening wraps up at the historic Mazarakata tombs."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:04",
+      "total_km": 8.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Mykenischer Friedhof von Mazarakata",
+            "hu": "Mazarakata mükénéi temetője",
+            "ro": "Cimitirul Micenian din Mazarakata",
+            "en": "Mycenean Cemetery of Mazarakata"
+          },
+          "coords": [
+            20.544537,
+            38.130119
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden antiken Felsengräber dieser bedeutenden Ausgrabungsstätte zur frühen griechischen Geschichte; nehmen Sie am besten einen Reiseführer mit.",
+            "hu": "Fedezze fel a korai görög temetkezési szokásokat bemutató jelentős régészeti lelőhely lenyűgöző sziklasírjait, amelyeket a legérdemesebb egy jó útikönyvvel bejárni.",
+            "ro": "Explorați mormintele antice tăiate în stâncă ale acestui sit arheologic important ce dezvăluie obiceiurile funerare elene; luați neapărat un ghid tipărit.",
+            "en": "Explore the fascinating ancient rock-cut tombs of this significant archaeological site that reveal early Greek burial customs, best visited with a guided guidebook."
+          }
+        },
+        {
+          "name": {
+            "de": "Büste von Lord Byron",
+            "hu": "Lord Byron mellszobra",
+            "ro": "Bustul lui Lord Byron",
+            "en": "Bust of Lord Byron"
+          },
+          "coords": [
+            20.538789,
+            38.119702
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erweisen Sie dem berühmten Dichter die Ehre, der sich in Kefalonias Schönheit verliebte, was diese Bronzebüste ehrt; fotografieren Sie sie am besten im Morgenlicht.",
+            "hu": "Tisztelegjen a híres költő előtt, aki beleszeretett Kefalónia szépségébe, és akinek bronzmellszobrát a lágy reggeli fényekben a legjobb lencsevégre kapni.",
+            "ro": "Omagiați faimosul poet care s-a îndrăgostit de frumusețea Cefaloniei, reprezentat în acest bust de bronz, cel mai bine de fotografiat în lumina blândă a dimineții.",
+            "en": "Pay homage to the famous poet who fell in love with Kefalonia's beauty, captured perfectly in this bronze bust, best photographed during the soft morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Vergotis-Kulturzentrum",
+            "hu": "Vergotis Kulturális Központ",
+            "ro": "Centrul Cultural Vergotis",
+            "en": "Vergotis Cultural Centre"
+          },
+          "coords": [
+            20.534065,
+            38.120852
+          ],
+          "category": "cultural",
+          "arrive_at": "10:49",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale Kunst in diesem eleganten Veranstaltungsort, der den Geist der Insel widerspiegelt, aber prüfen Sie vorher das aktuelle Programm.",
+            "hu": "Fedezze fel a helyi művészetet ebben az elegáns, a sziget szellemét tükröző kulturális központban, és mindenképpen ellenőrizze előre az aktuális programokat.",
+            "ro": "Descoperiți arta și moștenirea locală în acest spațiu elegant ce reflectă spiritul insulei, dar nu uitați să verificați programul expozițiilor în prealabil.",
+            "en": "Discover the local arts and heritage hosted in this elegant modern venue, where cultural exhibitions reflect the island's spirit, so check the schedule beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Freiluft-Amphitheater Kallithea",
+            "hu": "Kallithea szabadtéri amfiteátrum",
+            "ro": "Amfiteatrul în aer liber Kallithea",
+            "en": "Anoikhto Amphitheatro <<Kallitheas>>"
+          },
+          "coords": [
+            20.513316,
+            38.126024
+          ],
+          "category": "cultural",
+          "arrive_at": "12:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Erleben Sie die Akustik dieses Freiluft-Amphitheaters, das die umliegende Landschaft wunderschön einrahmt; ideal für einen ruhigen Moment auf den oberen Rängen.",
+            "hu": "Tapasztalja meg ennek a szabadtéri amfiteátrumnak a csodás akusztikáját, amely festői keretbe foglalja a tájat; a felső sorok kiválók egy csendes pihenőhöz.",
+            "ro": "Experimentați minunățiile acustice ale acestui amfiteatru în aer liber ce încadrează superb peisajul, un loc perfect pentru un moment de liniște pe treptele superioare.",
+            "en": "Experience the acoustic marvels of this open-air amphitheater that beautifully frames the surrounding scenery, perfect for enjoying a quiet moment of reflection on the upper tiers."
+          }
+        },
+        {
+          "name": {
+            "de": "Byrons Felsen",
+            "hu": "Byron sziklája",
+            "ro": "Stânca lui Byron",
+            "en": "Byron's Rock"
+          },
+          "coords": [
+            20.516288,
+            38.124627
+          ],
+          "category": "landmark",
+          "arrive_at": "14:14",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Stehen Sie an dem historischen Aussichtspunkt, an dem Lord Byron angeblich Inspiration fand, und genießen Sie den Panoramablick, der förmlich nach einem Weitwinkelobjektiv verlangt.",
+            "hu": "Álljon meg azon a történelmi kilátóponton, ahol Lord Byron állítólag ihletet merített a Jón-tengerből, és élvezze a lélegzetelállító panorámát, amihez nagylátószögű lencse kell.",
+            "ro": "Opriți-vă la punctul de belvedere istoric unde Lord Byron și-ar fi găsit inspirația, oferind o vedere panoramică absolut uluitoare, ideală pentru un obiectiv super-angular.",
+            "en": "Stand at the historic vantage point where Lord Byron supposedly drew inspiration from the Ionian Sea, offering breathtaking panoramic views that demand a wide-angle lens."
+          }
+        },
+        {
+          "name": {
+            "de": "Ai Helis Strand",
+            "hu": "Ai Helis strand",
+            "ro": "Plaja Ai Helis",
+            "en": "Ai helis beach"
+          },
+          "coords": [
+            20.522988,
+            38.103747
+          ],
+          "category": "recreational",
+          "arrive_at": "14:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in den dunkleren Vulkansand dieser geschützten Bucht, einem großartigen Ort für Schnorchler, die unbedingt ihre eigene Unterwasserausrüstung mitbringen sollten.",
+            "hu": "Merüljön el e védett öböl sötétebb vulkáni homokjában és csendes hullámaiban, amely kiváló hely a sznorkelezés szerelmeseinek, így mindenképp hozzon saját felszerelést.",
+            "ro": "Scufundați-vă în nisipul vulcanic mai închis și apele calme ale acestui golf protejat, un loc excelent pentru pasionații de snorkeling, care ar trebui să-și aducă echipamentul propriu.",
+            "en": "Dive into the slightly darker volcanic sands and calm waves of this sheltered bay, a great spot for snorkeling enthusiasts who should definitely pack their own underwater gear."
+          }
+        },
+        {
+          "name": {
+            "de": "Avithos Strand",
+            "hu": "Avithos strand",
+            "ro": "Plaja Avithos",
+            "en": "Avithos Beach"
+          },
+          "coords": [
+            20.539683,
+            38.101286
+          ],
+          "category": "recreational",
+          "arrive_at": "16:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem goldenen Sand dieses unberührten Strandes, der für sein flaches Wasser bekannt ist; ideal zum Schwimmen, also vergessen Sie Ihre Sonnencreme nicht.",
+            "hu": "Pihenjen meg ezen az érintetlen, aranohomokos tengerparton, amely kristálytiszta, sekély vizéről ismert, így ideális úszáshoz, ezért ne felejtse el a naptejet.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei plaje imaculate, renumită pentru apele sale limpezi și puțin adânci, perfecte pentru înot, așa că nu uitați crema de soare.",
+            "en": "Unwind on the golden sands of this pristine beach, known for its crystal-clear shallow waters, making it ideal for families and swimming, so don't forget your sunscreen."
+          }
+        },
+        {
+          "name": {
+            "de": "Paliolinos Strand",
+            "hu": "Paliolinos strand",
+            "ro": "Plaja Paliolinos",
+            "en": "Paliolinos beach"
+          },
+          "coords": [
+            20.54619,
+            38.096788
+          ],
+          "category": "recreational",
+          "arrive_at": "17:19",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen an diesem rauen, versteckten Küstenjuwel, wo dramatische Felsformationen abenteuerlustige Entdecker einladen; navigieren Sie vorsichtig für die besten Fotos.",
+            "hu": "Meneküljön el a tömeg elől ennél a rejtett, vadregényes tengerparti gyöngyszemnél, ahol a sziklák kalandra hívnak, de a legjobb fotókért óvatosan mozogjon a parton.",
+            "ro": "Evadați de mulțimi la această bijuterie de coastă ascunsă, unde formațiunile stâncoase dramatice invită exploratorii să navigheze cu prudență pentru cele mai bune fotografii.",
+            "en": "Escape the crowds at this rugged and hidden coastal gem, where dramatic rock formations invite adventurous explorers to cautiously navigate the shoreline for the best photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt mit den Geheimnissen der Mazarakata-Gräber und bewundern Sie Byrons Büste. Mittags verbinden Sie Kultur im Vergotis-Zentrum mit der Pracht des Kallitheas-Amphitheaters. Nachmittags springen Sie zwischen Küstenaussichten und dem klaren Wasser von Avithos hin und her. Der Abend lockt zum einsamen Sonnenuntergang am Paliolinos Beach.",
+        "hu": "Kezdje az autózást a Mazarakata sírok titkainak felfedezésével és Byron mellszobrának megcsodálásával. Délben a modern kultúra és a Kallitheas amfiteátrum fensége várja. Délután a parti kilátópontok és az Avithos békés vizei között ingázhat. Az este a Paliolinos strand eldugott naplementéjével csábít.",
+        "ro": "Începeți plimbarea cu mașina explorând misterele mormintelor Mazarakata și admirând bustul lui Byron. Prânzul combină cultura la Centrul Vergotis cu grandoarea Amfiteatrului Kallitheas. După-amiaza săriți între punctele de belvedere de pe coastă și apele calme din Avithos. Seara vă invită la un apus retras pe plaja Paliolinos.",
+        "en": "Start your drive exploring the mysteries of the Mazarakata tombs and admiring the Bust of Lord Byron. Midday combines modern culture at the Vergotis Centre with the grandeur of the Kallitheas Amphitheater. Afternoon sees you hopping between coastal viewpoints and the serene waters of Avithos. Evening invites you to a secluded sunset at Paliolinos beach."
+      }
+    }
+  }
+}

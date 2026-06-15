@@ -1,0 +1,520 @@
+{
+  "city_id": "faulquemont",
+  "anchor": {
+    "name": "Faulquemont",
+    "coords": [
+      6.5992,
+      49.0411
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:30",
+      "total_km": 4.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "St. Vinzenz Kirche",
+            "hu": "Szent Vince-templom",
+            "ro": "Biserica Sf. Vincențiu",
+            "en": "Saint-Vincent Church"
+          },
+          "coords": [
+            6.598832,
+            49.040047
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser historischen Kirche im Herzen von Faulquemont und kommen Sie früh, um ihr friedliches Inneres ohne Menschenmassen zu genießen.",
+            "hu": "Csodálja meg e történelmi templom lenyűgöző építészetét Faulquemont szívében, és érkezzen korán, hogy tömeg nélkül élvezhesse a békés belső teret.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici istorice din inima orașului Faulquemont și ajungeți devreme pentru a vă bucura de interiorul său pașnic fără aglomerație.",
+            "en": "Admire the striking architecture of this historic church in the heart of Faulquemont, and arrive early to appreciate its peaceful interior without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle St. Vinzenz",
+            "hu": "Szent Vince-kápolna",
+            "ro": "Capela Sf. Vincențiu",
+            "en": "Chapelle Saint-Vincent"
+          },
+          "coords": [
+            6.591856,
+            49.035208
+          ],
+          "category": "religious",
+          "arrive_at": "10:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Diese bezaubernde, jahrhundertealte Kapelle bietet einen ruhigen Rückzugsort und Einblicke in das lokale Erbe, also bringen Sie eine Kamera mit, um die rustikale Steinfassade im Morgenlicht einzufangen.",
+            "hu": "Ez a bájos, évszázados kápolna csendes menedéket és bepillantást nyújt a helyi örökségbe, ezért hozzon fényképezőgépet, hogy megörökítse a rusztikus kőhomlokzatot a reggeli fényben.",
+            "ro": "Această capelă fermecătoare, veche de secole, oferă un refugiu liniștit și o privire în patrimoniul local, așa că aduceți un aparat foto pentru a surprinde fațada sa rustică de piatră în lumina dimineții.",
+            "en": "This charming, centuries-old chapel offers a quiet retreat and a glimpse into local heritage, so bring a camera to capture its rustic stone facade in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Faulquemont",
+            "hu": "Faulquemont-i erőd",
+            "ro": "Fortăreața Faulquemont",
+            "en": "Ouvrage de Faulquemont"
+          },
+          "coords": [
+            6.60376,
+            49.045489
+          ],
+          "category": "fortress",
+          "arrive_at": "11:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende Festung der Maginot-Linie, die einst die Grenze verteidigte, aber tragen Sie unbedingt festes Schuhwerk und bringen Sie eine leichte Jacke mit, da die unterirdischen Tunnel recht kühl sind.",
+            "hu": "Fedezze fel ezt a lenyűgöző Maginot-vonalbeli erődöt, amely egykor a határt védte, de mindenképpen viseljen masszív cipőt és hozzon magával egy könnyű kabátot, mivel a földalatti alagutak meglehetősen hűvösek.",
+            "ro": "Explorați această fascinantă fortăreață a Liniei Maginot care odată a apărat granița, dar asigurați-vă că purtați pantofi rezistenți și luați o jachetă ușoară, deoarece tunelurile subterane sunt destul de răcoroase.",
+            "en": "Explore this fascinating Maginot Line fortress that once defended the border, but be sure to wear sturdy shoes and bring a light jacket as the underground tunnels get quite chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Gräfliche Burg Créhange",
+            "hu": "Créhange-i grófi kastély",
+            "ro": "Castelul comital din Créhange",
+            "en": "Château comtal de Créhange"
+          },
+          "coords": [
+            6.573898,
+            49.048843
+          ],
+          "category": "castle",
+          "arrive_at": "12:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie über das Gelände dieser historischen gräflichen Burg, um die aristokratische Vergangenheit der Region zu entdecken, und achten Sie auf die wunderschön erhaltenen architektonischen Details in der Nähe des Haupteingangs.",
+            "hu": "Sétáljon végig ennek a történelmi megyei kastélynak a területén, hogy felfedezze a régió arisztokratikus múltját, és keresse meg a főbejárat közelében a gyönyörűen megőrzött építészeti részleteket.",
+            "ro": "Plimbați-vă pe domeniul acestui castel comital istoric pentru a descoperi trecutul aristocratic al regiunii și căutați detaliile arhitecturale frumos conservate din apropierea intrării principale.",
+            "en": "Wander the grounds of this historic county castle to discover the aristocratic past of the region, and look for the beautifully preserved architectural details near the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Michaelskirche",
+            "hu": "Szent Mihály-templom",
+            "ro": "Biserica Sf. Mihail",
+            "en": "Église Saint-Michel"
+          },
+          "coords": [
+            6.575226,
+            49.048985
+          ],
+          "category": "religious",
+          "arrive_at": "14:20",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre historische Tour an dieser feierlichen Kirche, die dem Heiligen Michael gewidmet ist, wo die späte Nachmittagssonne wunderschöne Reflexionen durch die Buntglasfenster erzeugt.",
+            "hu": "Fejezze be történelmi túráját ebben a Szent Mihálynak szentelt ünnepélyes templomban, ahol a késő délutáni nap gyönyörű tükröződéseket hoz létre az ólomüveg ablakokon keresztül.",
+            "ro": "Încheiați-vă turul istoric la această biserică solemnă dedicată Sfântului Mihail, unde soarele de după-amiază târzie creează reflexii frumoase prin vitralii.",
+            "en": "Conclude your historical tour at this solemn church dedicated to Saint Michael, where the late afternoon sun creates beautiful reflections through the stained glass windows."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie den Tag mit dem reichen spirituellen Erbe von Faulquemont, indem Sie zwischen zentralen Kapellen spazieren und das frühe Morgenlicht auf alten Steinen bewundern.\nMittag: Mit zunehmender Wärme wandern Sie zum robusten historischen Erbe der Stadt. Die Festung der Maginot-Linie erwartet Sie mit faszinierenden unterirdischen Geheimnissen.\nNachmittag: Nach den militärischen Tiefen geht es nach Westen ins charmante Créhange, um die aristokratischen Spuren der historischen Burg und benachbarter Denkmäler zu bewundern.\nAbend: Beenden Sie Ihre Reise in entspannter Atmosphäre an einer wunderschön beleuchteten lokalen Kirche oder einem ruhigen Teich und denken Sie über die vielschichtige Geschichte nach.",
+        "hu": "Reggel: Kezdje a napot Faulquemont gazdag spirituális örökségének felfedezésével, sétáljon a központi kápolnák között, és csodálja meg a kora reggeli fényt az ősi köveken.\nDél: Ahogy az idő melegszik, térjen át a város robusztus történelmi hagyatékára. A Maginot-vonal erődje lenyűgöző földalatti titkokat és háborús történelmet tár fel ön előtt.\nDélután: A katonai mélységek után haladjon nyugat felé Créhange bájos területére, hogy megcsodálja a történelmi kastély és a szomszédos műemlékek által hagyott arisztokratikus nyomokat.\nEste: Zárja utazását békés légkörben egy gyönyörűen kivilágított helyi templomnál vagy egy nyugodt tó partján, elmélkedve e kis lotaringiai városka sokrétű történelmén.",
+        "ro": "Dimineață: Începeți-vă ziua cufundându-vă în bogata moștenire spirituală din Faulquemont, plimbându-vă printre capelele centrale și admirând lumina dimineții pe pietrele antice.\nPrânz: Pe măsură ce ziua se încălzește, tranziția către moștenirea istorică a orașului. Fortăreața Liniei Maginot vă așteaptă, dezvăluind secrete subterane fascinante și istorie de război.\nDupă-amiază: După explorarea adâncurilor militare, mergeți spre vest în zona fermecătoare Créhange pentru a vă minuna de urmele aristocratice lăsate de castelul istoric.\nSeară: Încheiați-vă călătoria într-o atmosferă senină la o biserică frumos iluminată sau pe malul unui iaz, reflectând la istoria multifațetată a acestui oraș pitoresc din Lorena.",
+        "en": "Morning: Start your day by immersing yourself in the rich spiritual heritage of Faulquemont, wandering between central chapels and admiring early morning light on ancient stones.\nMidday: As the day warms up, transition towards the town’s robust historical legacy. The imposing Maginot Line fortress awaits, revealing fascinating subterranean secrets and wartime history.\nAfternoon: After exploring the military depths, head west towards the charming area of Créhange to marvel at the aristocratic traces left by the historic county castle and neighboring monuments.\nEvening: Conclude your journey in a serene atmosphere at a beautifully illuminated local church or a tranquil pond side, reflecting on the multifaceted history of this quaint Lorraine town."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:13",
+      "total_km": 6.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kapelle St. Vinzenz",
+            "hu": "Szent Vince-kápolna",
+            "ro": "Capela Sf. Vincențiu",
+            "en": "Chapelle Saint-Vincent"
+          },
+          "coords": [
+            6.591856,
+            49.035208
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Diese bezaubernde, jahrhundertealte Kapelle bietet einen ruhigen Rückzugsort und Einblicke in das lokale Erbe, also bringen Sie eine Kamera mit, um die rustikale Steinfassade im Morgenlicht einzufangen.",
+            "hu": "Ez a bájos, évszázados kápolna csendes menedéket és bepillantást nyújt a helyi örökségbe, ezért hozzon fényképezőgépet, hogy megörökítse a rusztikus kőhomlokzatot a reggeli fényben.",
+            "ro": "Această capelă fermecătoare, veche de secole, oferă un refugiu liniștit și o privire în patrimoniul local, așa că aduceți un aparat foto pentru a surprinde fațada sa rustică de piatră în lumina dimineții.",
+            "en": "This charming, centuries-old chapel offers a quiet retreat and a glimpse into local heritage, so bring a camera to capture its rustic stone facade in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Vinzenz Kirche",
+            "hu": "Szent Vince-templom",
+            "ro": "Biserica Sf. Vincențiu",
+            "en": "Saint-Vincent Church"
+          },
+          "coords": [
+            6.598832,
+            49.040047
+          ],
+          "category": "religious",
+          "arrive_at": "09:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser historischen Kirche im Herzen von Faulquemont und kommen Sie früh, um ihr friedliches Inneres ohne Menschenmassen zu genießen.",
+            "hu": "Csodálja meg e történelmi templom lenyűgöző építészetét Faulquemont szívében, és érkezzen korán, hogy tömeg nélkül élvezhesse a békés belső teret.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici istorice din inima orașului Faulquemont și ajungeți devreme pentru a vă bucura de interiorul său pașnic fără aglomerație.",
+            "en": "Admire the striking architecture of this historic church in the heart of Faulquemont, and arrive early to appreciate its peaceful interior without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Faulquemont",
+            "hu": "Faulquemont-i erőd",
+            "ro": "Fortăreața Faulquemont",
+            "en": "Ouvrage de Faulquemont"
+          },
+          "coords": [
+            6.60376,
+            49.045489
+          ],
+          "category": "fortress",
+          "arrive_at": "10:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende Festung der Maginot-Linie, die einst die Grenze verteidigte, aber tragen Sie unbedingt festes Schuhwerk und bringen Sie eine leichte Jacke mit, da die unterirdischen Tunnel recht kühl sind.",
+            "hu": "Fedezze fel ezt a lenyűgöző Maginot-vonalbeli erődöt, amely egykor a határt védte, de mindenképpen viseljen masszív cipőt és hozzon magával egy könnyű kabátot, mivel a földalatti alagutak meglehetősen hűvösek.",
+            "ro": "Explorați această fascinantă fortăreață a Liniei Maginot care odată a apărat granița, dar asigurați-vă că purtați pantofi rezistenți și luați o jachetă ușoară, deoarece tunelurile subterane sunt destul de răcoroase.",
+            "en": "Explore this fascinating Maginot Line fortress that once defended the border, but be sure to wear sturdy shoes and bring a light jacket as the underground tunnels get quite chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Maria Königin",
+            "hu": "Szűz Mária Királynő-templom",
+            "ro": "Biserica Sf. Maria Regină",
+            "en": "Église Sainte-Marie-Reine"
+          },
+          "coords": [
+            6.591785,
+            49.062581
+          ],
+          "category": "religious",
+          "arrive_at": "12:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese elegante lokale Kirche, die für ihre ausgeprägten modernistischen Einflüsse bekannt ist, und nehmen Sie sich einen Moment Zeit, um die einzigartigen Altardekorationen zu bewundern, bevor Sie weiterfahren.",
+            "hu": "Fedezze fel ezt az elegáns helyi templomot, amely jellegzetes modernista vonásairól ismert, és szánjon egy percet az egyedi oltárdíszek megcsodálására, mielőtt folytatná útját.",
+            "ro": "Descoperiți această biserică locală elegantă, cunoscută pentru accentele sale moderniste distincte, și alocați-vă un moment pentru a admira decorațiunile unice ale altarului înainte de a vă continua drumul.",
+            "en": "Discover this elegant local church known for its distinct modernist touches, and take a moment to admire the unique altar decorations before continuing your ride."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Josefskirche",
+            "hu": "Szent József-templom",
+            "ro": "Biserica Sf. Iosif",
+            "en": "Église Saint-Joseph"
+          },
+          "coords": [
+            6.58027,
+            49.063566
+          ],
+          "category": "religious",
+          "arrive_at": "12:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese dem Heiligen Josef gewidmete Pfarrkirche, um ihre ruhige Gemeindeatmosphäre zu schätzen, was sie zu einem perfekten Ort für eine kurze erholsame Pause macht.",
+            "hu": "Látogasson el ebbe a Szent Józsefnek szentelt plébániatemplomba, hogy értékelje annak nyugodt közösségi légkörét, amely tökéletes hellyé teszi egy rövid regeneráló szünethez.",
+            "ro": "Opriți-vă la această biserică parohială dedicată Sfântului Iosif pentru a aprecia atmosfera sa comunitară senină, făcând-o un loc perfect pentru o scurtă pauză de refacere.",
+            "en": "Stop by this parish church dedicated to Saint Joseph to appreciate its serene community atmosphere, making it a perfect spot for a brief restorative pause."
+          }
+        },
+        {
+          "name": {
+            "de": "Gräfliche Burg Créhange",
+            "hu": "Créhange-i grófi kastély",
+            "ro": "Castelul comital din Créhange",
+            "en": "Château comtal de Créhange"
+          },
+          "coords": [
+            6.573898,
+            49.048843
+          ],
+          "category": "castle",
+          "arrive_at": "13:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Schlendern Sie über das Gelände dieser historischen gräflichen Burg, um die aristokratische Vergangenheit der Region zu entdecken, und achten Sie auf die wunderschön erhaltenen architektonischen Details in der Nähe des Haupteingangs.",
+            "hu": "Sétáljon végig ennek a történelmi megyei kastélynak a területén, hogy felfedezze a régió arisztokratikus múltját, és keresse meg a főbejárat közelében a gyönyörűen megőrzött építészeti részleteket.",
+            "ro": "Plimbați-vă pe domeniul acestui castel comital istoric pentru a descoperi trecutul aristocratic al regiunii și căutați detaliile arhitecturale frumos conservate din apropierea intrării principale.",
+            "en": "Wander the grounds of this historic county castle to discover the aristocratic past of the region, and look for the beautifully preserved architectural details near the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Michaelskirche",
+            "hu": "Szent Mihály-templom",
+            "ro": "Biserica Sf. Mihail",
+            "en": "Église Saint-Michel"
+          },
+          "coords": [
+            6.575226,
+            49.048985
+          ],
+          "category": "religious",
+          "arrive_at": "15:03",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre historische Tour an dieser feierlichen Kirche, die dem Heiligen Michael gewidmet ist, wo die späte Nachmittagssonne wunderschöne Reflexionen durch die Buntglasfenster erzeugt.",
+            "hu": "Fejezze be történelmi túráját ebben a Szent Mihálynak szentelt ünnepélyes templomban, ahol a késő délutáni nap gyönyörű tükröződéseket hoz létre az ólomüveg ablakokon keresztül.",
+            "ro": "Încheiați-vă turul istoric la această biserică solemnă dedicată Sfântului Mihail, unde soarele de după-amiază târzie creează reflexii frumoase prin vitralii.",
+            "en": "Conclude your historical tour at this solemn church dedicated to Saint Michael, where the late afternoon sun creates beautiful reflections through the stained glass windows."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie den Tag mit dem reichen spirituellen Erbe von Faulquemont, indem Sie zwischen zentralen Kapellen spazieren und das frühe Morgenlicht auf alten Steinen bewundern.\nMittag: Mit zunehmender Wärme wandern Sie zum robusten historischen Erbe der Stadt. Die Festung der Maginot-Linie erwartet Sie mit faszinierenden unterirdischen Geheimnissen.\nNachmittag: Nach den militärischen Tiefen geht es nach Westen ins charmante Créhange, um die aristokratischen Spuren der historischen Burg und benachbarter Denkmäler zu bewundern.\nAbend: Beenden Sie Ihre Reise in entspannter Atmosphäre an einer wunderschön beleuchteten lokalen Kirche oder einem ruhigen Teich und denken Sie über die vielschichtige Geschichte nach.",
+        "hu": "Reggel: Kezdje a napot Faulquemont gazdag spirituális örökségének felfedezésével, sétáljon a központi kápolnák között, és csodálja meg a kora reggeli fényt az ősi köveken.\nDél: Ahogy az idő melegszik, térjen át a város robusztus történelmi hagyatékára. A Maginot-vonal erődje lenyűgöző földalatti titkokat és háborús történelmet tár fel ön előtt.\nDélután: A katonai mélységek után haladjon nyugat felé Créhange bájos területére, hogy megcsodálja a történelmi kastély és a szomszédos műemlékek által hagyott arisztokratikus nyomokat.\nEste: Zárja utazását békés légkörben egy gyönyörűen kivilágított helyi templomnál vagy egy nyugodt tó partján, elmélkedve e kis lotaringiai városka sokrétű történelmén.",
+        "ro": "Dimineață: Începeți-vă ziua cufundându-vă în bogata moștenire spirituală din Faulquemont, plimbându-vă printre capelele centrale și admirând lumina dimineții pe pietrele antice.\nPrânz: Pe măsură ce ziua se încălzește, tranziția către moștenirea istorică a orașului. Fortăreața Liniei Maginot vă așteaptă, dezvăluind secrete subterane fascinante și istorie de război.\nDupă-amiază: După explorarea adâncurilor militare, mergeți spre vest în zona fermecătoare Créhange pentru a vă minuna de urmele aristocratice lăsate de castelul istoric.\nSeară: Încheiați-vă călătoria într-o atmosferă senină la o biserică frumos iluminată sau pe malul unui iaz, reflectând la istoria multifațetată a acestui oraș pitoresc din Lorena.",
+        "en": "Morning: Start your day by immersing yourself in the rich spiritual heritage of Faulquemont, wandering between central chapels and admiring early morning light on ancient stones.\nMidday: As the day warms up, transition towards the town’s robust historical legacy. The imposing Maginot Line fortress awaits, revealing fascinating subterranean secrets and wartime history.\nAfternoon: After exploring the military depths, head west towards the charming area of Créhange to marvel at the aristocratic traces left by the historic county castle and neighboring monuments.\nEvening: Conclude your journey in a serene atmosphere at a beautifully illuminated local church or a tranquil pond side, reflecting on the multifaceted history of this quaint Lorraine town."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:13",
+      "total_km": 19.6,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Bouligny-Teich",
+            "hu": "Bouligny-tó",
+            "ro": "Iazul Bouligny",
+            "en": "Étang de Bouligny"
+          },
+          "coords": [
+            6.521319,
+            48.990118
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen inmitten der Natur, indem Sie um diesen malerischen Teich spazieren, und halten Sie Ausschau nach lokalen Wasservögeln, während Sie die ruhige Umgebung genießen.",
+            "hu": "Kezdje a reggelt a természetben elmerülve, sétáljon körbe e festői tó körül, és tartsa nyitva a szemét a helyi vízimadarakra, miközben élvezi a nyugodt környezetet.",
+            "ro": "Începeți-vă dimineața scufundat în natură plimbându-vă în jurul acestui iaz pitoresc și fiți atenți la păsările de apă locale în timp ce vă bucurați de mediul liniștit.",
+            "en": "Start your morning immersed in nature by walking around this scenic pond, and keep an eye out for local waterfowl while enjoying the tranquil environment."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle St. Vinzenz",
+            "hu": "Szent Vince-kápolna",
+            "ro": "Capela Sf. Vincențiu",
+            "en": "Chapelle Saint-Vincent"
+          },
+          "coords": [
+            6.591856,
+            49.035208
+          ],
+          "category": "religious",
+          "arrive_at": "10:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 7.3,
+          "tip_5lang": {
+            "de": "Diese bezaubernde, jahrhundertealte Kapelle bietet einen ruhigen Rückzugsort und Einblicke in das lokale Erbe, also bringen Sie eine Kamera mit, um die rustikale Steinfassade im Morgenlicht einzufangen.",
+            "hu": "Ez a bájos, évszázados kápolna csendes menedéket és bepillantást nyújt a helyi örökségbe, ezért hozzon fényképezőgépet, hogy megörökítse a rusztikus kőhomlokzatot a reggeli fényben.",
+            "ro": "Această capelă fermecătoare, veche de secole, oferă un refugiu liniștit și o privire în patrimoniul local, așa că aduceți un aparat foto pentru a surprinde fațada sa rustică de piatră în lumina dimineții.",
+            "en": "This charming, centuries-old chapel offers a quiet retreat and a glimpse into local heritage, so bring a camera to capture its rustic stone facade in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Vinzenz Kirche",
+            "hu": "Szent Vince-templom",
+            "ro": "Biserica Sf. Vincențiu",
+            "en": "Saint-Vincent Church"
+          },
+          "coords": [
+            6.598832,
+            49.040047
+          ],
+          "category": "religious",
+          "arrive_at": "11:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieser historischen Kirche im Herzen von Faulquemont und kommen Sie früh, um ihr friedliches Inneres ohne Menschenmassen zu genießen.",
+            "hu": "Csodálja meg e történelmi templom lenyűgöző építészetét Faulquemont szívében, és érkezzen korán, hogy tömeg nélkül élvezhesse a békés belső teret.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici istorice din inima orașului Faulquemont și ajungeți devreme pentru a vă bucura de interiorul său pașnic fără aglomerație.",
+            "en": "Admire the striking architecture of this historic church in the heart of Faulquemont, and arrive early to appreciate its peaceful interior without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Faulquemont",
+            "hu": "Faulquemont-i erőd",
+            "ro": "Fortăreața Faulquemont",
+            "en": "Ouvrage de Faulquemont"
+          },
+          "coords": [
+            6.60376,
+            49.045489
+          ],
+          "category": "fortress",
+          "arrive_at": "12:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende Festung der Maginot-Linie, die einst die Grenze verteidigte, aber tragen Sie unbedingt festes Schuhwerk und bringen Sie eine leichte Jacke mit, da die unterirdischen Tunnel recht kühl sind.",
+            "hu": "Fedezze fel ezt a lenyűgöző Maginot-vonalbeli erődöt, amely egykor a határt védte, de mindenképpen viseljen masszív cipőt és hozzon magával egy könnyű kabátot, mivel a földalatti alagutak meglehetősen hűvösek.",
+            "ro": "Explorați această fascinantă fortăreață a Liniei Maginot care odată a apărat granița, dar asigurați-vă că purtați pantofi rezistenți și luați o jachetă ușoară, deoarece tunelurile subterane sunt destul de răcoroase.",
+            "en": "Explore this fascinating Maginot Line fortress that once defended the border, but be sure to wear sturdy shoes and bring a light jacket as the underground tunnels get quite chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Gräfliche Burg Créhange",
+            "hu": "Créhange-i grófi kastély",
+            "ro": "Castelul comital din Créhange",
+            "en": "Château comtal de Créhange"
+          },
+          "coords": [
+            6.573898,
+            49.048843
+          ],
+          "category": "castle",
+          "arrive_at": "13:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie über das Gelände dieser historischen gräflichen Burg, um die aristokratische Vergangenheit der Region zu entdecken, und achten Sie auf die wunderschön erhaltenen architektonischen Details in der Nähe des Haupteingangs.",
+            "hu": "Sétáljon végig ennek a történelmi megyei kastélynak a területén, hogy felfedezze a régió arisztokratikus múltját, és keresse meg a főbejárat közelében a gyönyörűen megőrzött építészeti részleteket.",
+            "ro": "Plimbați-vă pe domeniul acestui castel comital istoric pentru a descoperi trecutul aristocratic al regiunii și căutați detaliile arhitecturale frumos conservate din apropierea intrării principale.",
+            "en": "Wander the grounds of this historic county castle to discover the aristocratic past of the region, and look for the beautifully preserved architectural details near the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche St. Maria Königin",
+            "hu": "Szűz Mária Királynő-templom",
+            "ro": "Biserica Sf. Maria Regină",
+            "en": "Église Sainte-Marie-Reine"
+          },
+          "coords": [
+            6.591785,
+            49.062581
+          ],
+          "category": "religious",
+          "arrive_at": "14:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese elegante lokale Kirche, die für ihre ausgeprägten modernistischen Einflüsse bekannt ist, und nehmen Sie sich einen Moment Zeit, um die einzigartigen Altardekorationen zu bewundern, bevor Sie weiterfahren.",
+            "hu": "Fedezze fel ezt az elegáns helyi templomot, amely jellegzetes modernista vonásairól ismert, és szánjon egy percet az egyedi oltárdíszek megcsodálására, mielőtt folytatná útját.",
+            "ro": "Descoperiți această biserică locală elegantă, cunoscută pentru accentele sale moderniste distincte, și alocați-vă un moment pentru a admira decorațiunile unice ale altarului înainte de a vă continua drumul.",
+            "en": "Discover this elegant local church known for its distinct modernist touches, and take a moment to admire the unique altar decorations before continuing your ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Golfclub Faulquemont-Pontpierre",
+            "hu": "Faulquemont-Pontpierre Golfklub",
+            "ro": "Clubul de Golf Faulquemont-Pontpierre",
+            "en": "Faulquemont-Pontpierre Golf Club"
+          },
+          "coords": [
+            6.631485,
+            49.058821
+          ],
+          "category": "recreational",
+          "arrive_at": "15:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Machen Sie einen gemütlichen Spaziergang in der Nähe der wunderschön gepflegten Grüns dieses örtlichen Golfclubs und überlegen Sie sich, eine Erfrischung im Clubhaus zu genießen, um die lokale Sportkultur kennenzulernen.",
+            "hu": "Tegyen egy kényelmes sétát a helyi golfklub gyönyörűen ápolt zöldjei közelében, és fontolja meg egy frissítő elfogyasztását a klubházban, hogy megtapasztalja a helyi sportkultúrát.",
+            "ro": "Faceți o plimbare liniștită lângă terenurile de golf frumos îngrijite ale acestui club local de golf și luați în considerare să vă bucurați de o băutură răcoritoare la clubhouse pentru a experimenta cultura sportivă locală.",
+            "en": "Take a leisurely stroll near the beautifully manicured greens of this local golf club, and consider enjoying a refreshment at the clubhouse to experience the local sporting culture."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Leopoldkirche",
+            "hu": "Szent Lipót-templom",
+            "ro": "Biserica Sf. Leopold",
+            "en": "Église Saint-Léopold"
+          },
+          "coords": [
+            6.625354,
+            49.026214
+          ],
+          "category": "religious",
+          "arrive_at": "17:03",
+          "stay_min": 70,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihren Tag an dieser schönen Kirche am Stadtrand ausklingen, wo Sie in Ruhe über Ihre Reise nachdenken können, bevor Sie zu Ihrer Unterkunft zurückkehren.",
+            "hu": "Zárja a napot ebben a gyönyörű templomban, a város szélén, ahol csendben elgondolkodhat az utazásán, mielőtt visszatérne a szállására.",
+            "ro": "Încheiați-vă ziua la această frumoasă biserică de la marginea orașului, unde puteți reflecta în liniște asupra călătoriei dumneavoastră înainte de a vă întoarce la cazare.",
+            "en": "Wrap up your day at this beautiful church on the outskirts of the town, where you can quietly reflect on your journey before heading back to your accommodation."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie den Tag mit dem reichen spirituellen Erbe von Faulquemont, indem Sie zwischen zentralen Kapellen spazieren und das frühe Morgenlicht auf alten Steinen bewundern.\nMittag: Mit zunehmender Wärme wandern Sie zum robusten historischen Erbe der Stadt. Die Festung der Maginot-Linie erwartet Sie mit faszinierenden unterirdischen Geheimnissen.\nNachmittag: Nach den militärischen Tiefen geht es nach Westen ins charmante Créhange, um die aristokratischen Spuren der historischen Burg und benachbarter Denkmäler zu bewundern.\nAbend: Beenden Sie Ihre Reise in entspannter Atmosphäre an einer wunderschön beleuchteten lokalen Kirche oder einem ruhigen Teich und denken Sie über die vielschichtige Geschichte nach.",
+        "hu": "Reggel: Kezdje a napot Faulquemont gazdag spirituális örökségének felfedezésével, sétáljon a központi kápolnák között, és csodálja meg a kora reggeli fényt az ősi köveken.\nDél: Ahogy az idő melegszik, térjen át a város robusztus történelmi hagyatékára. A Maginot-vonal erődje lenyűgöző földalatti titkokat és háborús történelmet tár fel ön előtt.\nDélután: A katonai mélységek után haladjon nyugat felé Créhange bájos területére, hogy megcsodálja a történelmi kastély és a szomszédos műemlékek által hagyott arisztokratikus nyomokat.\nEste: Zárja utazását békés légkörben egy gyönyörűen kivilágított helyi templomnál vagy egy nyugodt tó partján, elmélkedve e kis lotaringiai városka sokrétű történelmén.",
+        "ro": "Dimineață: Începeți-vă ziua cufundându-vă în bogata moștenire spirituală din Faulquemont, plimbându-vă printre capelele centrale și admirând lumina dimineții pe pietrele antice.\nPrânz: Pe măsură ce ziua se încălzește, tranziția către moștenirea istorică a orașului. Fortăreața Liniei Maginot vă așteaptă, dezvăluind secrete subterane fascinante și istorie de război.\nDupă-amiază: După explorarea adâncurilor militare, mergeți spre vest în zona fermecătoare Créhange pentru a vă minuna de urmele aristocratice lăsate de castelul istoric.\nSeară: Încheiați-vă călătoria într-o atmosferă senină la o biserică frumos iluminată sau pe malul unui iaz, reflectând la istoria multifațetată a acestui oraș pitoresc din Lorena.",
+        "en": "Morning: Start your day by immersing yourself in the rich spiritual heritage of Faulquemont, wandering between central chapels and admiring early morning light on ancient stones.\nMidday: As the day warms up, transition towards the town’s robust historical legacy. The imposing Maginot Line fortress awaits, revealing fascinating subterranean secrets and wartime history.\nAfternoon: After exploring the military depths, head west towards the charming area of Créhange to marvel at the aristocratic traces left by the historic county castle and neighboring monuments.\nEvening: Conclude your journey in a serene atmosphere at a beautifully illuminated local church or a tranquil pond side, reflecting on the multifaceted history of this quaint Lorraine town."
+      }
+    }
+  }
+}

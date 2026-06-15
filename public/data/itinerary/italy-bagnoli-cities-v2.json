@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-bagnoli-cities-v2",
+  "anchor": {
+    "name": "Bagnoli",
+    "coords": [
+      14.16704,
+      40.81732
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:14",
+      "total_km": 2.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Porta del Parco",
+            "hu": "Porta del Parco",
+            "ro": "Porta del Parco",
+            "en": "Porta del Parco"
+          },
+          "coords": [
+            14.176643,
+            40.816634
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende moderne Architektur der Porta del Parco, die den Eingang zum revitalisierten Industriegebiet markiert, und besuchen Sie sie früh für das beste Fotolicht.",
+            "hu": "Csodálja meg a megújult iparterület bejáratát jelző Porta del Parco lenyűgöző, modern építészetét, és érkezzen kora reggel, hogy a legjobb fényekben fotózhasson.",
+            "ro": "Admirați arhitectura modernă impresionantă a Porții del Parco, care marchează intrarea în zona industrială revitalizată, și vizitați devreme pentru a vă bucura de lumina dimineții la fotografii.",
+            "en": "Admire the impressive modern architecture of Porta del Parco, which marks the entrance to the revitalized industrial area, and visit early to enjoy the morning light for photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Terme Romane di Agnano",
+            "hu": "Terme Romane di Agnano",
+            "ro": "Terme Romane di Agnano",
+            "en": "Terme Romane di Agnano"
+          },
+          "coords": [
+            14.169445,
+            40.825765
+          ],
+          "category": "historical",
+          "arrive_at": "10:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die antiken römischen Bäder von Agnano, ein Zeugnis der reichen Thermalgeschichte der Region, und tragen Sie bequeme Schuhe, um die Ruinen sicher zu begehen.",
+            "hu": "Fedezze fel Agnano ősi római fürdőit, amelyek a régió gazdag termál-történelmének bizonyítékai, és viseljen kényelmes cipőt a régészeti romok biztonságos bejárásához.",
+            "ro": "Explorați vechile băi romane din Agnano, o mărturie a bogatei istorii termale a regiunii, și purtați pantofi confortabili pentru a naviga în siguranță printre ruinele arheologice.",
+            "en": "Explore the ancient Roman baths of Agnano, a testament to the region's rich thermal history, and wear comfortable walking shoes to navigate the archaeological ruins safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Porta delle Terme",
+            "hu": "Porta delle Terme",
+            "ro": "Porta delle Terme",
+            "en": "Porta delle Terme"
+          },
+          "coords": [
+            14.171018,
+            40.826091
+          ],
+          "category": "historical",
+          "arrive_at": "12:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Betrachten Sie die historische Porta delle Terme, die einst als monumentales Tor zum Badekomplex diente, und achten Sie besonders auf die feinen Ziegeldetails an den alten Bögen.",
+            "hu": "Vizsgálja meg a történelmi Porta delle Terme-t, amely egykor a fürdőkomplexum monumentális kapujaként szolgált, és szánjon egy percet az ívek bonyolult téglafalainak megfigyelésére.",
+            "ro": "Examinați istorica Porta delle Terme, care servea odinioară drept poartă monumentală spre complexul balnear, și acordați-vă un moment pentru a observa detaliile complexe din cărămidă.",
+            "en": "Examine the historical Porta delle Terme, which once served as a grand monumental gateway to the bathing complex, and take a moment to notice the intricate brickwork details on the arches."
+          }
+        },
+        {
+          "name": {
+            "de": "Sorgente termale e mura greche",
+            "hu": "Sorgente termale e mura greche",
+            "ro": "Sorgente termale e mura greche",
+            "en": "Sorgente termale e mura greche"
+          },
+          "coords": [
+            14.172503,
+            40.827923
+          ],
+          "category": "historical",
+          "arrive_at": "13:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie die natürlichen Thermalquellen, die neben antiken griechischen Mauern sprudeln, und bringen Sie eine kleine Flasche Wasser mit, um bei der Besichtigung der Ausgrabungen hydriert zu bleiben.",
+            "hu": "Fedezze fel az ősi görög falak mellett feltörő természetes termálforrásokat, amelyek a történelem rétegeit mutatják be, és vigyen magával egy kis üveg vizet a nyitott terület bejárásához.",
+            "ro": "Descoperiți izvoarele termale naturale care clocotesc alături de zidurile grecești antice, arătând straturile istoriei, și aduceți o sticlă cu apă pentru a vă hidrata în timpul turului.",
+            "en": "Discover the natural thermal springs bubbling alongside ancient Greek walls, showcasing layers of history, and bring a small bottle of water to stay hydrated while touring the exposed site."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa dell'Immacolata San Raffaele Arcangelo",
+            "hu": "Chiesa dell'Immacolata San Raffaele Arcangelo",
+            "ro": "Chiesa dell'Immacolata San Raffaele Arcangelo",
+            "en": "Chiesa dell'Immacolata San Raffaele Arcangelo"
+          },
+          "coords": [
+            14.16967,
+            40.837215
+          ],
+          "category": "religious",
+          "arrive_at": "15:04",
+          "stay_min": 70,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Rundgang an dieser wunderschönen, der unbefleckten Empfängnis geweihten Kirche, und treten Sie leise ein, um das friedliche Innere abseits des Stadtlärms zu genießen.",
+            "hu": "Fejezze be sétáját ennél a Szeplőtelen Fogantatásnak és Szent Rafaelnek szentelt gyönyörű templomnál, és lépjen be csendesen, hogy élvezze a város zajától távoli békés belső teret.",
+            "ro": "Încheiați-vă plimbarea la această biserică frumoasă dedicată Imaculatei Concepții și Sfântului Rafael, și pășiți înăuntru în liniște pentru a aprecia interiorul său liniștit.",
+            "en": "Conclude your walking tour at this beautiful church dedicated to the Immaculate Conception and St. Raphael, and step inside quietly to appreciate its peaceful interior away from the city noise."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der Erkundung der modernen Wiederbelebung von Bagnoli an der Porta del Parco. Mittags tauchen Sie in den faszinierenden Terme Romane di Agnano tief in die Geschichte ein. Entdecken Sie am Nachmittag antike griechische Mauern. Beenden Sie Ihren Rundgang mit einem friedlichen Abendbesuch der wunderschönen Chiesa dell'Immacolata.",
+        "hu": "Kezdje a reggelt Bagnoli modern megújulásának felfedezésével a Porta del Parco-nál. Délben mélyedjen el a történelemben a lenyűgöző Terme Romane di Agnano-val. Délután fedezze fel a közeli ősi görög falakat és termálforrásokat. Sétáját a gyönyörű Chiesa dell'Immacolata békés esti látogatásával fejezze be.",
+        "ro": "Începeți dimineața explorând revitalizarea modernă a cartierului Bagnoli la Porta del Parco. Amiaza vă aduce adânc în istorie cu fascinantele Terme Romane di Agnano. După-amiaza, descoperiți zidurile grecești antice. Încheiați-vă plimbarea cu o vizită de seară liniștită la frumoasa Chiesa dell'Immacolata.",
+        "en": "Start your morning exploring the modern revitalization of Bagnoli at Porta del Parco. Midday brings you deep into history with the fascinating Terme Romane di Agnano. In the afternoon, discover the ancient Greek walls and thermal springs nearby. End your walking tour with a peaceful evening visit to the beautiful Chiesa dell'Immacolata."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 3.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Porta del Parco",
+            "hu": "Porta del Parco",
+            "ro": "Porta del Parco",
+            "en": "Porta del Parco"
+          },
+          "coords": [
+            14.176643,
+            40.816634
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende moderne Architektur der Porta del Parco, die den Eingang zum revitalisierten Industriegebiet markiert, und besuchen Sie sie früh für das beste Fotolicht.",
+            "hu": "Csodálja meg a megújult iparterület bejáratát jelző Porta del Parco lenyűgöző, modern építészetét, és érkezzen kora reggel, hogy a legjobb fényekben fotózhasson.",
+            "ro": "Admirați arhitectura modernă impresionantă a Porții del Parco, care marchează intrarea în zona industrială revitalizată, și vizitați devreme pentru a vă bucura de lumina dimineții la fotografii.",
+            "en": "Admire the impressive modern architecture of Porta del Parco, which marks the entrance to the revitalized industrial area, and visit early to enjoy the morning light for photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Terme Romane di Agnano",
+            "hu": "Terme Romane di Agnano",
+            "ro": "Terme Romane di Agnano",
+            "en": "Terme Romane di Agnano"
+          },
+          "coords": [
+            14.169445,
+            40.825765
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die antiken römischen Bäder von Agnano, ein Zeugnis der reichen Thermalgeschichte der Region, und tragen Sie bequeme Schuhe, um die Ruinen sicher zu begehen.",
+            "hu": "Fedezze fel Agnano ősi római fürdőit, amelyek a régió gazdag termál-történelmének bizonyítékai, és viseljen kényelmes cipőt a régészeti romok biztonságos bejárásához.",
+            "ro": "Explorați vechile băi romane din Agnano, o mărturie a bogatei istorii termale a regiunii, și purtați pantofi confortabili pentru a naviga în siguranță printre ruinele arheologice.",
+            "en": "Explore the ancient Roman baths of Agnano, a testament to the region's rich thermal history, and wear comfortable walking shoes to navigate the archaeological ruins safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro dei Piccoli",
+            "hu": "Teatro dei Piccoli",
+            "ro": "Teatro dei Piccoli",
+            "en": "Teatro dei Piccoli"
+          },
+          "coords": [
+            14.182403,
+            40.824707
+          ],
+          "category": "cultural",
+          "arrive_at": "11:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Teatro dei Piccoli, einen bezaubernden Kulturort für darstellende Künste für Kinder, und schauen Sie auf dem schwarzen Brett draußen nach bevorstehenden lokalen Veranstaltungen.",
+            "hu": "Álljon meg a Teatro dei Piccoli-nál, a gyermekek előadóművészetének szentelt bájos kulturális helyszínnél, és nézze meg a kinti hirdetőtáblát a közelgő helyi közösségi eseményekért.",
+            "ro": "Opriți-vă la Teatro dei Piccoli, un loc cultural fermecător dedicat artelor spectacolului pentru copii, și verificați avizierul de afară pentru evenimentele comunitare locale viitoare.",
+            "en": "Stop by the Teatro dei Piccoli, a charming cultural venue dedicated to children's performing arts, and check their notice board outside for upcoming local community events and shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Gran Teatro Edenlandia",
+            "hu": "Gran Teatro Edenlandia",
+            "ro": "Gran Teatro Edenlandia",
+            "en": "Gran Teatro Edenlandia"
+          },
+          "coords": [
+            14.182516,
+            40.822719
+          ],
+          "category": "cultural",
+          "arrive_at": "13:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die großartige Fassade des historischen Theaters von Edenlandia, einem beliebten Unterhaltungszentrum, und parken Sie Ihr Fahrrad sicher an den vorgesehenen Ständern am Haupteingang.",
+            "hu": "Csodálja meg az Edenlandia történelmi színházának grandiózus homlokzatát, amely generációk óta kedvelt szórakoztatóközpont, és parkolja le kerékpárját biztonságosan a főbejárat melletti tárolóknál.",
+            "ro": "Admirați fațada grandioasă a teatrului istoric Edenlandia, un centru de divertisment îndrăgit de generații, și parcați-vă bicicleta în siguranță la rastelele special amenajate de lângă intrare.",
+            "en": "Marvel at the grand facade of Edenlandia's historic theater, a beloved entertainment hub for generations, and park your bike securely at the designated racks near the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Arena Flegrea",
+            "hu": "Arena Flegrea",
+            "ro": "Arena Flegrea",
+            "en": "Arena Flegrea"
+          },
+          "coords": [
+            14.18579,
+            40.825944
+          ],
+          "category": "cultural",
+          "arrive_at": "14:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Radeln Sie vorbei an der monumentalen Arena Flegrea, Italiens erstem permanenten modernen Stadion, und machen Sie unbedingt ein Panoramafoto von der erhöhten Piazza davor.",
+            "hu": "Tekerjen el a monumentális Arena Flegrea, Olaszország első állandó modern stadionja mellett, és mindenképpen készítsen egy panorámaképet az előtte lévő megemelt térről.",
+            "ro": "Treceți cu bicicleta pe lângă monumentala Arena Flegrea, primul stadion modern permanent din Italia, și asigurați-vă că surprindeți o fotografie panoramică din piațeta ridicată din față.",
+            "en": "Cycle past the monumental Arena Flegrea, Italy's first permanent modern stadium and an architectural icon, making sure to capture a panoramic photo from the elevated plaza out front."
+          }
+        },
+        {
+          "name": {
+            "de": "Terme Suburbane",
+            "hu": "Terme Suburbane",
+            "ro": "Terme Suburbane",
+            "en": "Terme Suburbane"
+          },
+          "coords": [
+            14.189014,
+            40.830178
+          ],
+          "category": "historical",
+          "arrive_at": "15:49",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour an den Terme Suburbane, um diese faszinierenden Thermalruinen aus der Römerzeit zu erkunden, und nutzen Sie den späten Nachmittagsschatten für einen kühleren Besuch.",
+            "hu": "Fejezze be a kerékpártúrát a Terme Suburbane-nál, fedezze fel a római korból származó lenyűgöző termálromokat, és használja ki a késő délutáni árnyékot egy hűvösebb látogatáshoz.",
+            "ro": "Încheiați traseul de ciclism la Terme Suburbane pentru a explora aceste ruine termale din epoca romană, profitând de umbra după-amiezii târzii pentru o vizită mai răcoroasă.",
+            "en": "Finish your cycling route at the Terme Suburbane to explore these fascinating thermal ruins from the Roman era, taking advantage of the late afternoon shade for a cooler visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Fahrradabenteuer beginnt an der modernen Porta del Parco an der frischen Morgenluft. Bis zum Mittag entdecken Sie die römischen Bäder, bevor Sie zu den lebhaften Kulturstätten fahren. Den Nachmittag verbringen Sie damit, die großartige Architektur der Arena Flegrea zu bewundern. Gegen Abend erkunden Sie die Ruinen der Terme Suburbane im goldenen Licht.",
+        "hu": "Kerékpáros kalandja a modern Porta del Parco-nál kezdődik, beszívva a friss reggeli levegőt. Délre felfedezi a római fürdőket, mielőtt a kulturális helyszínek felé venné az irányt. A délutánt az Arena Flegrea grandiózus építészetének megcsodálásával tölti. Ahogy közeledik az este, fedezze fel a Terme Suburbane romjait az aranyló fényben.",
+        "ro": "Aventura cu bicicleta începe la moderna Porta del Parco, respirând aerul proaspăt al dimineții. Până la prânz, veți descoperi băile romane înainte de a pedala spre locațiile culturale. După-amiaza este petrecută admirând arhitectura Arenei Flegrea. Pe măsură ce se apropie seara, explorați ruinele de la Terme Suburbane în lumina aurie.",
+        "en": "Your cycling adventure begins at the modern Porta del Parco, breathing in the fresh morning air. By midday, you'll uncover the Roman baths before riding towards the vibrant cultural venues. The afternoon is spent admiring the grand architecture of Arena Flegrea. As evening approaches, explore the sprawling ruins of Terme Suburbane in the golden light."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:01",
+      "total_km": 4.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di Sacro Cuore di Gesù allo Scassone",
+            "hu": "Chiesa di Sacro Cuore di Gesù allo Scassone",
+            "ro": "Chiesa di Sacro Cuore di Gesù allo Scassone",
+            "en": "Chiesa di Sacro Cuore di Gesù allo Scassone"
+          },
+          "coords": [
+            14.161648,
+            40.834164
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag mit einer Fahrt zu dieser eleganten, dem Heiligen Herzen geweihten Kirche, und finden Sie am frühen Morgen ganz einfach kostenlose Parkplätze an den angrenzenden Straßen.",
+            "hu": "Kezdje a napot egy autózással ehhez a Szent Szívnek szentelt elegáns templomhoz, és kora reggel könnyen találhat ingyenes parkolóhelyet a szomszédos utcákon.",
+            "ro": "Începeți-vă ziua conducând spre această biserică elegantă dedicată Sfintei Inimi, și găsiți cu ușurință parcare gratuită pe stradă dis-de-dimineață, pe drumurile adiacente.",
+            "en": "Start your day driving to this elegant church dedicated to the Sacred Heart, known for its spiritual ambiance, and easily find free street parking early in the morning on the adjacent roads."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa dell'Immacolata San Raffaele Arcangelo",
+            "hu": "Chiesa dell'Immacolata San Raffaele Arcangelo",
+            "ro": "Chiesa dell'Immacolata San Raffaele Arcangelo",
+            "en": "Chiesa dell'Immacolata San Raffaele Arcangelo"
+          },
+          "coords": [
+            14.16967,
+            40.837215
+          ],
+          "category": "religious",
+          "arrive_at": "09:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses charmante religiöse Heiligtum, das für die Gemeinschaft in Bagnoli wichtig ist, und machen Sie einen kurzen Spaziergang in der Umgebung, um einen frischen Espresso zu trinken.",
+            "hu": "Látogasson el ehhez a bájos vallási szentélyhez, amely közösségi fontosságáról ismert Bagnoliban, és tegyen egy gyors sétát a nyüzsgő környéken egy friss helyi eszpresszóért.",
+            "ro": "Vizitați acest sanctuar religios fermecător, cunoscut pentru importanța sa comunitară în Bagnoli, și faceți o scurtă plimbare prin cartierul plin de viață pentru a bea un espresso local.",
+            "en": "Visit this charming religious sanctuary known for its community importance in Bagnoli, and take a quick walk around the lively surrounding neighborhood to grab a fresh local espresso."
+          }
+        },
+        {
+          "name": {
+            "de": "Sorgente termale e mura greche",
+            "hu": "Sorgente termale e mura greche",
+            "ro": "Sorgente termale e mura greche",
+            "en": "Sorgente termale e mura greche"
+          },
+          "coords": [
+            14.172503,
+            40.827923
+          ],
+          "category": "historical",
+          "arrive_at": "10:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahren Sie hinunter, um die faszinierenden Thermalquellen und antiken griechischen Mauern zu erkunden, und nutzen Sie den nahegelegenen städtischen Parkplatz, da die Straßenplätze hier sehr begrenzt sind.",
+            "hu": "Autózzon le a lenyűgöző természetes termálforrások és az ősi görög falak közös felfedezéséhez, és használja a közeli önkormányzati parkolót, mivel az utcai helyek nagyon korlátozottak.",
+            "ro": "Conduceți pentru a explora izvoarele termale fascinante și zidurile antice grecești și folosiți parcarea municipală din apropiere, deoarece locurile de pe stradă sunt extrem de limitate.",
+            "en": "Drive down to explore the fascinating natural thermal springs and ancient Greek walls together, and use the nearby municipal parking lot since street spaces here are extremely limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Terme Suburbane",
+            "hu": "Terme Suburbane",
+            "ro": "Terme Suburbane",
+            "en": "Terme Suburbane"
+          },
+          "coords": [
+            14.189014,
+            40.830178
+          ],
+          "category": "historical",
+          "arrive_at": "11:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die weitläufigen Überreste der Terme Suburbane, die den Luxus der antiken römischen Freizeitgestaltung hervorheben, und halten Sie Ausschau nach noch sichtbaren Mosaikbodenfragmenten.",
+            "hu": "Fedezze fel a Terme Suburbane kiterjedt maradványait, amelyek az ókori római szabadidő luxusát hangsúlyozzák, és figyeljen a még mindig látható részletgazdag mozaikpadló-töredékekre.",
+            "ro": "Descoperiți rămășițele extinse ale Termelor Suburbane, care subliniază luxul timpului liber din Roma antică, căutând cu atenție fragmentele de mozaic care sunt încă vizibile.",
+            "en": "Discover the extensive remains of the Terme Suburbane that highlight the luxury of ancient Roman leisure, keeping an eye out for detailed mosaic floor fragments that are still visible."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Sant'Ignazio Confessore",
+            "hu": "Chiesa di Sant'Ignazio Confessore",
+            "ro": "Chiesa di Sant'Ignazio Confessore",
+            "en": "Chiesa di Sant'Ignazio Confessore"
+          },
+          "coords": [
+            14.187697,
+            40.831598
+          ],
+          "category": "religious",
+          "arrive_at": "13:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Halten Sie an der wunderschön gepflegten Kirche des Heiligen Ignatius für einen Moment der Besinnung und überprüfen Sie das schwarze Brett auf die Zeiten der abendlichen Chorauftritte.",
+            "hu": "Tartson szünetet a gyönyörűen karbantartott Hitvalló Szent Ignác-templomnál egy pillanatnyi elmélkedésre, és nézze meg a hirdetőtáblán az esti helyi kóruselőadások időpontjait.",
+            "ro": "Faceți o pauză la biserica frumos întreținută a Sfântului Ignațiu Mărturisitorul pentru un moment de reflecție și verificați avizierul pentru orele spectacolelor corale locale de seară.",
+            "en": "Pause at the beautifully maintained Church of Saint Ignatius the Confessor for a moment of reflection, and check the notice board for the timings of the evening local choir performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento Italia 90'",
+            "hu": "Monumento Italia 90'",
+            "ro": "Monumento Italia 90'",
+            "en": "Monumento Italia 90'"
+          },
+          "coords": [
+            14.19248,
+            40.82536
+          ],
+          "category": "historical",
+          "arrive_at": "14:00",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Fahren Sie am ikonischen Italia 90'-Monument vorbei, das an die historische Weltmeisterschaft erinnert, und halten Sie sicher in der ausgewiesenen Zone, um schnell Fotos zu machen.",
+            "hu": "Autózzon el a történelmi világbajnokságnak emléket állító ikonikus Italia 90' emlékmű mellett, és húzódjon félre biztonságosan a kijelölt zónában, hogy gyorsan fotózhasson anélkül, hogy akadályozná a forgalmat.",
+            "ro": "Treceți pe lângă monumentul emblematic Italia 90', care comemorează Cupa Mondială istorică, oprind în siguranță în zona de debarcare pentru a face câteva fotografii fără a bloca traficul.",
+            "en": "Drive by the iconic Italia 90' Monument commemorating the historic World Cup, pulling over safely in the designated drop-off zone to capture some quick photos without blocking traffic."
+          }
+        },
+        {
+          "name": {
+            "de": "Il Piccolo",
+            "hu": "Il Piccolo",
+            "ro": "Il Piccolo",
+            "en": "Il Piccolo"
+          },
+          "coords": [
+            14.19544,
+            40.823001
+          ],
+          "category": "cultural",
+          "arrive_at": "14:16",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag im Kulturzentrum Il Piccolo mit authentischem regionalem Theater, und buchen Sie Ihre Tickets im Voraus online, da die Abendvorstellungen schnell ausverkauft sind.",
+            "hu": "Fejezze be a napot az Il Piccolo kulturális központban, ahol autentikus regionális színházat tapasztalhat meg, és foglalja le jegyeit előre online, mivel az esti előadások hamar elfogynak.",
+            "ro": "Încheiați ziua la centrul cultural Il Piccolo, unde puteți experimenta un teatru regional autentic, și rezervați-vă biletele online în avans, deoarece spectacolele de seară se vând rapid.",
+            "en": "End your day at Il Piccolo cultural center where you can experience authentic regional theater, and book your tickets online in advance as evening performances tend to sell out quickly."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zur friedlichen Sacro Cuore Kirche für einen ruhigen Start, besuchen Sie dann das San Raffaele Heiligtum. Der Mittag bietet eine unglaubliche Reise in die Vergangenheit an den antiken griechischen Mauern und römischen Bädern. Verbringen Sie den Nachmittag an der Sant'Ignazio Kirche und dem Italia 90' Monument. Beenden Sie den Tag im Il Piccolo.",
+        "hu": "Autózzon a békés Sacro Cuore templomhoz egy nyugodt kezdéshez, majd látogassa meg a San Raffaele szentélyt. A dél elképesztő utazást kínál a múltba az ősi görög falaknál és római fürdőknél. Töltse a délutánt a Sant'Ignazio templom és az Italia 90' emlékmű megcsodálásával. Zárja a napot egy kulturális előadással az Il Piccolo-ban.",
+        "ro": "Conduceți la liniștita biserică Sacro Cuore pentru un început calm, apoi vizitați sanctuarul San Raffaele. Amiaza oferă o călătorie incredibilă în trecut la zidurile grecești antice. Petreceți-vă după-amiaza admirând biserica Sant'Ignazio și monumentul Italia 90'. Încheiați ziua cu un spectacol cultural captivant la Il Piccolo.",
+        "en": "Drive to the peaceful Sacro Cuore church for a calm morning start, then visit the vibrant San Raffaele sanctuary. Midday offers an incredible journey into the past at the ancient Greek walls and Roman baths. Spend your afternoon admiring the Sant'Ignazio church and the iconic Italia 90' monument. Finish the day with an engaging cultural show at Il Piccolo."
+      }
+    }
+  }
+}

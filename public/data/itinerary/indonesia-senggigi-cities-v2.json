@@ -1,0 +1,428 @@
+{
+  "city_id": "indonesia-senggigi-cities-v2",
+  "anchor": {
+    "name": "Senggigi",
+    "coords": [
+      116.049894,
+      -8.496718
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:16",
+      "total_km": 2.31,
+      "stop_count": 4,
+      "stops": [
+        {
+          "name": {
+            "de": "Surau Baiturohman",
+            "hu": "Surau Baiturohman",
+            "ro": "Surau Baiturohman",
+            "en": "Surau Baiturohman"
+          },
+          "coords": [
+            116.044116,
+            -8.494003
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Diese charmante Moschee bietet einen ruhigen Rückzugsort zur Besinnung; achten Sie auf angemessene Kleidung und ziehen Sie Ihre Schuhe vor dem Eintritt aus.",
+            "hu": "Ez a bájos helyi mecset békés menedéket nyújt az elmélyülésre; ne felejtsen el szerényen öltözködni és levenni a cipőjét a belépés előtt.",
+            "ro": "Această moschee fermecătoare oferă un refugiu pașnic pentru reflecție; amintiți-vă să vă îmbrăcați modest și să vă scoateți încălțămintea înainte de a intra.",
+            "en": "This charming local mosque offers a peaceful retreat for reflection; remember to dress modestly and remove your shoes before entering the prayer hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Pantai Senggigi",
+            "hu": "Pantai Senggigi",
+            "ro": "Pantai Senggigi",
+            "en": "Pantai Senggigi"
+          },
+          "coords": [
+            116.044586,
+            -8.498062
+          ],
+          "category": "recreational",
+          "arrive_at": "09:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Der ikonische Strand besticht durch weißen Sand und klares Wasser, ideal zum Schwimmen oder Entspannen unter einem Sonnenschirm, den Sie hier mieten können.",
+            "hu": "Az ikonikus tengerpart lenyűgöző fehér homokkal és tiszta vízzel büszkélkedhet, így tökéletes hely az úszásra vagy a bérelt napernyő alatti pihenésre.",
+            "ro": "Plaja emblematică Senggigi se mândrește cu nisip alb și ape limpezi, fiind locul perfect pentru înot sau pentru relaxare sub o umbrelă de soare închiriată.",
+            "en": "The iconic Senggigi Beach boasts stunning white sands and clear waters, making it the perfect spot for swimming or relaxing under a rented umbrella."
+          }
+        },
+        {
+          "name": {
+            "de": "Sunset Point",
+            "hu": "Sunset Point",
+            "ro": "Sunset Point",
+            "en": "Sunset Point"
+          },
+          "coords": [
+            116.044719,
+            -8.503159
+          ],
+          "category": "natural",
+          "arrive_at": "11:21",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.56,
+          "tip_5lang": {
+            "de": "Genießen Sie atemberaubende Panoramablicke auf die Küste im Sonnenuntergang und kommen Sie rechtzeitig, um sich den besten Aussichtspunkt zu sichern.",
+            "hu": "Élvezze a lélegzetelállító panorámás tengerparti kilátást naplementekor, és érkezzen legalább egy órával korábban, hogy biztosítsa a legjobb helyet.",
+            "ro": "Bucurați-vă de vederi panoramice uluitoare la apus și ajungeți cu cel puțin o oră mai devreme pentru a vă asigura cel mai bun punct de observație.",
+            "en": "Experience breathtaking panoramic coastal views as the sun dips below the horizon, and arrive at least an hour early to secure the best vantage point."
+          }
+        },
+        {
+          "name": {
+            "de": "Pura Batu Bolong",
+            "hu": "Pura Batu Bolong",
+            "ro": "Pura Batu Bolong",
+            "en": "Pura Batu Bolong"
+          },
+          "coords": [
+            116.056493,
+            -8.510371
+          ],
+          "category": "natural",
+          "arrive_at": "12:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Dieser markante Hindu-Tempel auf einem Felsen im Meer erfordert eine kleine Spende und eine farbige Schärpe, um seine heiligen Anlagen betreten zu dürfen.",
+            "hu": "A tenger fölötti sziklaíven álló lenyűgöző hindu templom felfedezéséhez kis adományra és egy kötelezően viselendő színes deréksálra lesz szüksége.",
+            "ro": "Situat pe un arc de stâncă deasupra mării, acest templu hindus izbitor necesită o mică donație și o eșarfă colorată pentru a-i explora incinta sacră.",
+            "en": "Perched on a rock arch over the sea, this striking Hindu temple requires a small donation and a colorful waist sash to enter and explore its grounds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit spiritueller Besinnung im charmanten Surau Baiturohman. Am Mittag spazieren Sie entlang der makellosen Küste von Pantai Senggigi. Der Nachmittag bringt Sie zum Sunset Point für atemberaubende Küstenpanoramen. Der Tag endet am markanten Pura Batu Bolong mit dem Rauschen der Wellen.",
+        "hu": "A reggel a bájos Surau Baiturohman spirituális légkörével kezdődik. Délben a Pantai Senggigi makulátlan partjainál sétálhat. A délután a Sunset Point lélegzetelállító tengerparti panorámájához vezeti. Az út a lenyűgöző Pura Batu Bolongnál ér véget, miközben hallgatja a hullámok morajlását.",
+        "ro": "Dimineața începe cu o reflecție spirituală la fermecătoarea Surau Baiturohman. La amiază, vă veți plimba pe țărmul curat al plajei Pantai Senggigi. După-amiaza vă aduce la Sunset Point pentru panorame de coastă uluitoare. Călătoria se încheie la izbitorul Pura Batu Bolong, ascultând valurile.",
+        "en": "Morning starts with spiritual reflection at the charming Surau Baiturohman. By midday, you'll be strolling along the pristine shores of Pantai Senggigi. The afternoon brings you to Sunset Point for breathtaking coastal panoramas. The journey concludes at the striking Pura Batu Bolong, listening to the crashing waves."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:34",
+      "total_km": 3.98,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pantai Mangsit",
+            "hu": "Pantai Mangsit",
+            "ro": "Pantai Mangsit",
+            "en": "Pantai Mangsit"
+          },
+          "coords": [
+            116.037499,
+            -8.476651
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Als ruhigere Alternative bietet Mangsit makellosen Sand und exzellentes Schnorcheln; bringen Sie Ihre eigene Ausrüstung mit, da die Verleihe begrenzt sind.",
+            "hu": "A főbb strandok nyugodtabb alternatívájaként a Mangsit kiváló sznorkelezést kínál; hozza magával a saját felszerelését, mivel a bérlési lehetőségek korlátozottak.",
+            "ro": "O alternativă mai liniștită, Mangsit oferă nisip curat și snorkeling excelent; aduceți-vă propriul echipament, deoarece opțiunile de închiriere sunt limitate.",
+            "en": "A quieter alternative to the main beaches, Mangsit offers pristine sands and excellent snorkeling; bring your own gear as rentals here are quite limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Pantai Indah Kerandangan",
+            "hu": "Pantai Indah Kerandangan",
+            "ro": "Pantai Indah Kerandangan",
+            "en": "Pantai Indah Kerandangan"
+          },
+          "coords": [
+            116.036848,
+            -8.488995
+          ],
+          "category": "recreational",
+          "arrive_at": "10:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.37,
+          "tip_5lang": {
+            "de": "Umgeben von üppigen Palmen ist dieser Strand ideal für ein Picknick, obwohl beim Schwimmen aufgrund starker Strömungen absolute Vorsicht geboten ist.",
+            "hu": "A buja pálmafákkal körülvett gyönyörű strand ideális egy nyugodt délutáni piknikhez, de az úszás során óvatosnak kell lenni az erős áramlatok miatt.",
+            "ro": "Înconjurată de palmieri luxurianți, această plajă frumoasă este ideală pentru un picnic, deși înotul necesită precauție din cauza curenților puternici.",
+            "en": "Surrounded by lush palm trees, this beautiful beach is ideal for a tranquil afternoon picnic, though swimming here requires caution due to strong currents."
+          }
+        },
+        {
+          "name": {
+            "de": "Pura Pemaksan Banjar Tegeh",
+            "hu": "Pura Pemaksan Banjar Tegeh",
+            "ro": "Pura Pemaksan Banjar Tegeh",
+            "en": "Pura Pemaksan Banjar Tegeh"
+          },
+          "coords": [
+            116.043832,
+            -8.486828
+          ],
+          "category": "landmark",
+          "arrive_at": "11:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Dieser ruhige Tempel im balinesischen Stil zeigt wunderschöne Steinmetzarbeiten; bewahren Sie bei Ihrem Besuch stets respektvolle Stille für die Gläubigen.",
+            "hu": "Ez a békés balinéz stílusú templom gyönyörű kőfaragványokat mutat be; kérjük, mindig őrizze meg a tiszteletteljes csendet a helyi hagyományok tiszteletben tartásával.",
+            "ro": "Acest templu liniștit în stil balinez prezintă sculpturi frumoase în piatră; păstrați întotdeauna o liniște respectuoasă pentru a onora tradițiile hinduse.",
+            "en": "This serene Balinese-style temple showcases beautiful stone carvings and offers insight into local Hindu traditions; always maintain a respectful silence."
+          }
+        },
+        {
+          "name": {
+            "de": "Surau Baiturohman",
+            "hu": "Surau Baiturohman",
+            "ro": "Surau Baiturohman",
+            "en": "Surau Baiturohman"
+          },
+          "coords": [
+            116.044116,
+            -8.494003
+          ],
+          "category": "landmark",
+          "arrive_at": "12:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Diese charmante Moschee bietet einen ruhigen Rückzugsort zur Besinnung; achten Sie auf angemessene Kleidung und ziehen Sie Ihre Schuhe vor dem Eintritt aus.",
+            "hu": "Ez a bájos helyi mecset békés menedéket nyújt az elmélyülésre; ne felejtsen el szerényen öltözködni és levenni a cipőjét a belépés előtt.",
+            "ro": "Această moschee fermecătoare oferă un refugiu pașnic pentru reflecție; amintiți-vă să vă îmbrăcați modest și să vă scoateți încălțămintea înainte de a intra.",
+            "en": "This charming local mosque offers a peaceful retreat for reflection; remember to dress modestly and remove your shoes before entering the prayer hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Pantai Senggigi",
+            "hu": "Pantai Senggigi",
+            "ro": "Pantai Senggigi",
+            "en": "Pantai Senggigi"
+          },
+          "coords": [
+            116.044586,
+            -8.498062
+          ],
+          "category": "recreational",
+          "arrive_at": "13:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Der ikonische Strand besticht durch weißen Sand und klares Wasser, ideal zum Schwimmen oder Entspannen unter einem Sonnenschirm, den Sie hier mieten können.",
+            "hu": "Az ikonikus tengerpart lenyűgöző fehér homokkal és tiszta vízzel büszkélkedhet, így tökéletes hely az úszásra vagy a bérelt napernyő alatti pihenésre.",
+            "ro": "Plaja emblematică Senggigi se mândrește cu nisip alb și ape limpezi, fiind locul perfect pentru înot sau pentru relaxare sub o umbrelă de soare închiriată.",
+            "en": "The iconic Senggigi Beach boasts stunning white sands and clear waters, making it the perfect spot for swimming or relaxing under a rented umbrella."
+          }
+        },
+        {
+          "name": {
+            "de": "Sunset Point",
+            "hu": "Sunset Point",
+            "ro": "Sunset Point",
+            "en": "Sunset Point"
+          },
+          "coords": [
+            116.044719,
+            -8.503159
+          ],
+          "category": "natural",
+          "arrive_at": "14:39",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.56,
+          "tip_5lang": {
+            "de": "Genießen Sie atemberaubende Panoramablicke auf die Küste im Sonnenuntergang und kommen Sie rechtzeitig, um sich den besten Aussichtspunkt zu sichern.",
+            "hu": "Élvezze a lélegzetelállító panorámás tengerparti kilátást naplementekor, és érkezzen legalább egy órával korábban, hogy biztosítsa a legjobb helyet.",
+            "ro": "Bucurați-vă de vederi panoramice uluitoare la apus și ajungeți cu cel puțin o oră mai devreme pentru a vă asigura cel mai bun punct de observație.",
+            "en": "Experience breathtaking panoramic coastal views as the sun dips below the horizon, and arrive at least an hour early to secure the best vantage point."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour am ruhigen und wunderschönen Pantai Mangsit. Der Mittag lädt dazu ein, Pantai Indah Kerandangan und den Pura Pemaksan Banjar Tegeh zu erkunden. Die Nachmittagsfahrt führt zum Surau Baiturohman und dem lebhaften Pantai Senggigi. Beenden Sie den Tag unter dem bunten Himmel am Sunset Point.",
+        "hu": "Kezdje kerékpáros túráját a csendes és gyönyörű Pantai Mangsit strandon. A dél hívogat a Pantai Indah Kerandangan és a békés Pura Pemaksan Banjar Tegeh felfedezésére. A délutáni tekerés a Surau Baiturohmanhoz és az élénk Pantai Senggigihez vezet. Zárja a napot a Sunset Point vibráló egének megcsodálásával.",
+        "ro": "Începeți turul cu bicicleta la liniștita și frumoasa Pantai Mangsit. Amiaza vă invită să explorați împrejurimile plajei Pantai Indah Kerandangan și senina Pura Pemaksan Banjar Tegeh. După-amiaza vă duce la Surau Baiturohman și plaja animată Senggigi. Încheiați ziua admirând cerul vibrant de la Sunset Point.",
+        "en": "Kick off your cycling tour at the quiet and beautiful Pantai Mangsit. Midday invites you to explore the lush surroundings of Pantai Indah Kerandangan and the serene Pura Pemaksan Banjar Tegeh. Afternoon pedals lead to Surau Baiturohman and the lively Pantai Senggigi. Conclude your day enjoying the vibrant skies at Sunset Point."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 8.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kerandangan Nature Recreation Park",
+            "hu": "Kerandangan Nature Recreation Park",
+            "ro": "Kerandangan Nature Recreation Park",
+            "en": "Kerandangan Nature Recreation Park"
+          },
+          "coords": [
+            116.059596,
+            -8.471753
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Durchqueren Sie malerische Dschungelpfade zu versteckten Wasserfällen; tragen Sie feste Wanderschuhe und nehmen Sie unbedingt ausreichend Mückenspray mit.",
+            "hu": "Keresztülvágva a festői dzsungelösvényeken rejtett vízeséseket fedezhet fel; viseljen erős túracipőt, és vigyen magával bőségesen szúnyogriasztót.",
+            "ro": "Traversați trasee pitorești din junglă pentru a descoperi cascade ascunse; purtați pantofi de drumeție rezistenți și folosiți mult repelent pentru țânțari.",
+            "en": "Traverse scenic jungle trails to discover hidden waterfalls and playful macaques, but remember to wear sturdy hiking shoes and carry plenty of mosquito repellent."
+          }
+        },
+        {
+          "name": {
+            "de": "Turtle Rescue/Release Station",
+            "hu": "Turtle Rescue/Release Station",
+            "ro": "Turtle Rescue/Release Station",
+            "en": "Turtle Rescue/Release Station"
+          },
+          "coords": [
+            116.03725,
+            -8.473795
+          ],
+          "category": "landmark",
+          "arrive_at": "10:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Diese Station schützt das lokale Meeresleben und lässt Besucher Schildkrötenbabys hautnah erleben; Ihre Eintrittsgebühr finanziert die Auswilderungsprogramme.",
+            "hu": "A helyi tengeri élővilág védelmének szentelt állomás testközelből mutatja be a kisteknősöket, belépőjegyével pedig a szabadon engedésüket is támogatja.",
+            "ro": "Dedicată protejării vieții marine locale, stația vă permite să vedeți puii de țestoasă de aproape; taxa de intrare ajută la finanțarea eliberării lor.",
+            "en": "Dedicated to protecting local marine life, this station allows visitors to see baby turtles up close, and your small entrance fee helps fund their release efforts."
+          }
+        },
+        {
+          "name": {
+            "de": "Locals Hangout and Surf Spot",
+            "hu": "Locals Hangout and Surf Spot",
+            "ro": "Locals Hangout and Surf Spot",
+            "en": "Locals Hangout and Surf Spot"
+          },
+          "coords": [
+            116.035294,
+            -8.483509
+          ],
+          "category": "natural",
+          "arrive_at": "11:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erleben Sie die spannende Action, wenn einheimische Surfer beeindruckende Wellen bezwingen; dieser Ort ist fantastisch, um günstiges Streetfood zu genießen.",
+            "hu": "Nézze meg az izgalmas akciókat, ahogy a helyi szörfösök megküzdenek a lenyűgöző hullámokkal; ez egyúttal remek hely az olcsó utcai ételek megkóstolására is.",
+            "ro": "Urmăriți acțiunea captivantă a surferilor locali care abordează valuri impresionante; este, de asemenea, un loc fantastic pentru a savura mâncare stradală.",
+            "en": "Catch the thrilling action as local surfers tackle impressive waves in this laid-back coastal area, which is also a fantastic place to enjoy cheap street food."
+          }
+        },
+        {
+          "name": {
+            "de": "Pura Dalem",
+            "hu": "Pura Dalem",
+            "ro": "Pura Dalem",
+            "en": "Pura Dalem"
+          },
+          "coords": [
+            116.047513,
+            -8.481721
+          ],
+          "category": "landmark",
+          "arrive_at": "12:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Dieser dem Gott Shiva geweihte Tempel bietet eine tief spirituelle Atmosphäre; stellen Sie sicher, dass Ihre Schultern und Knie vollständig bedeckt sind.",
+            "hu": "A Siva istenségnek szentelt, történelmi jelentőségű templom mélyen spirituális légkört biztosít; ügyeljen arra, hogy a válla és a térde teljesen fedve legyen.",
+            "ro": "Dedicat zeității Shiva, acest templu cu o istorie bogată oferă o atmosferă profund spirituală; asigurați-vă că aveți umerii și genunchii acoperiți.",
+            "en": "Dedicated to the deity Shiva, this historically significant temple provides a deeply spiritual atmosphere, so ensure your shoulders and knees are fully covered."
+          }
+        },
+        {
+          "name": {
+            "de": "Pantai Senggigi",
+            "hu": "Pantai Senggigi",
+            "ro": "Pantai Senggigi",
+            "en": "Pantai Senggigi"
+          },
+          "coords": [
+            116.044586,
+            -8.498062
+          ],
+          "category": "recreational",
+          "arrive_at": "13:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Der ikonische Strand besticht durch weißen Sand und klares Wasser, ideal zum Schwimmen oder Entspannen unter einem Sonnenschirm, den Sie hier mieten können.",
+            "hu": "Az ikonikus tengerpart lenyűgöző fehér homokkal és tiszta vízzel büszkélkedhet, így tökéletes hely az úszásra vagy a bérelt napernyő alatti pihenésre.",
+            "ro": "Plaja emblematică Senggigi se mândrește cu nisip alb și ape limpezi, fiind locul perfect pentru înot sau pentru relaxare sub o umbrelă de soare închiriată.",
+            "en": "The iconic Senggigi Beach boasts stunning white sands and clear waters, making it the perfect spot for swimming or relaxing under a rented umbrella."
+          }
+        },
+        {
+          "name": {
+            "de": "Pura Batu Bolong",
+            "hu": "Pura Batu Bolong",
+            "ro": "Pura Batu Bolong",
+            "en": "Pura Batu Bolong"
+          },
+          "coords": [
+            116.056493,
+            -8.510371
+          ],
+          "category": "natural",
+          "arrive_at": "14:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Dieser markante Hindu-Tempel auf einem Felsen im Meer erfordert eine kleine Spende und eine farbige Schärpe, um seine heiligen Anlagen betreten zu dürfen.",
+            "hu": "A tenger fölötti sziklaíven álló lenyűgöző hindu templom felfedezéséhez kis adományra és egy kötelezően viselendő színes deréksálra lesz szüksége.",
+            "ro": "Situat pe un arc de stâncă deasupra mării, acest templu hindus izbitor necesită o mică donație și o eșarfă colorată pentru a-i explora incinta sacră.",
+            "en": "Perched on a rock arch over the sea, this striking Hindu temple requires a small donation and a colorful waist sash to enter and explore its grounds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Roadtrip auf den üppigen Pfaden des Kerandangan Nature Recreation Park. Mittags besuchen Sie die Schildkrötenstation und den Surf Spot. Am Nachmittag entdecken Sie die spirituelle Tiefe des Pura Dalem, bevor Sie sich am Pantai Senggigi entspannen. Der Abend klingt wunderschön am Pura Batu Bolong aus.",
+        "hu": "Kezdje autós utazását a Kerandangan Természeti Park buja ösvényeinek felfedezésével. Délben a teknősmentő állomás és az élénk helyi szörfös helyszín várja. Délután fedezze fel a Pura Dalem spirituális mélységeit, mielőtt megpihenne a Pantai Senggigin. Az este gyönyörűen zárul a Pura Batu Bolongnál.",
+        "ro": "Începeți excursia cu mașina explorând traseele luxuriante din Kerandangan Nature Recreation Park. Amiaza vă duce la stația de salvare a țestoaselor și la locul de surf. După-amiaza, descoperiți adâncimile spirituale ale Pura Dalem înainte de a vă relaxa la Pantai Senggigi. Seara se încheie frumos la Pura Batu Bolong.",
+        "en": "Start your road trip by exploring the lush trails of Kerandangan Nature Recreation Park. Midday takes you to the Turtle Rescue Station and the lively Locals Hangout and Surf Spot. In the afternoon, discover the spiritual depths of Pura Dalem before relaxing at Pantai Senggigi. The evening closes beautifully at Pura Batu Bolong."
+      }
+    }
+  }
+}

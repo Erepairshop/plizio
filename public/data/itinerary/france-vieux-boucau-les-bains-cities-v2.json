@@ -1,0 +1,451 @@
+{
+  "city_id": "france-vieux-boucau-les-bains-cities-v2",
+  "anchor": {
+    "name": "Vieux-Boucau-les-Bains",
+    "coords": [
+      -1.4044,
+      43.7854
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:16",
+      "total_km": 1.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Clément",
+            "hu": "Szent Kelemen-templom",
+            "ro": "Biserica Saint-Clément",
+            "en": "Saint-Clément Church"
+          },
+          "coords": [
+            -1.398843,
+            43.785473
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das schöne Gewölbe dieser historischen Kirche, die die Stadt verankert, und versuchen Sie morgens zu kommen, wenn das Licht perfekt einfällt.",
+            "hu": "Csodálja meg e történelmi templom gyönyörű boltozatát, és próbáljon meg reggel jönni, amikor a fény tökéletesen megvilágítja az ólomüveg ablakokat.",
+            "ro": "Admirați bolta frumoasă a acestei biserici istorice care ancorează orașul și încercați să vizitați dimineața când lumina cade perfect pe vitralii.",
+            "en": "Admire the beautiful vault of this historic church that anchors the town, and try to visit in the morning when the light hits the stained glass perfectly."
+          }
+        },
+        {
+          "name": {
+            "de": "Galerie du Moisan",
+            "hu": "Moisan Galéria",
+            "ro": "Galeria du Moisan",
+            "en": "Moisan Gallery"
+          },
+          "coords": [
+            -1.40104,
+            43.786544
+          ],
+          "category": "museum",
+          "arrive_at": "09:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie zeitgenössische lokale Kunstausstellungen, und fragen Sie den Kurator nach Einblicken in aufstrebende Künstler, bevor Sie etwas kaufen.",
+            "hu": "Fedezze fel a kortárs helyi művészeti kiállításokat, és vásárlás előtt kérjen tájékoztatást a kurátortól a feltörekvő művészekről.",
+            "ro": "Descoperiți expozițiile de artă contemporană locală și întrebați curatorul despre artiștii emergenți înainte de a face vreo achiziție.",
+            "en": "Discover contemporary local art exhibits that capture the region's soul, and ask the curator for insights on upcoming artists before making any purchases."
+          }
+        },
+        {
+          "name": {
+            "de": "Albret-Bühne",
+            "hu": "Albret Színpad",
+            "ro": "Scena d'Albret",
+            "en": "Albret Stage"
+          },
+          "coords": [
+            -1.401904,
+            43.785545
+          ],
+          "category": "cultural",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen wichtigen kulturellen Ort, an dem lokale Aufführungen stattfinden, und prüfen Sie das Schwarze Brett auf kostenlose Freiluftveranstaltungen.",
+            "hu": "Fedezze fel ezt a fontos kulturális helyszínt, ahol helyi előadások kelnek életre, és ellenőrizze a faliújságot az ingyenes szabadtéri eseményekért.",
+            "ro": "Explorați această scenă culturală unde prind viață spectacolele locale și verificați avizierul pentru evenimente gratuite în aer liber în timpul șederii.",
+            "en": "Explore this vital cultural venue where local performances come alive, and check the daily bulletin board for free outdoor events happening during your stay."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand am See",
+            "hu": "Tóparti strand",
+            "ro": "Plaja Lacului",
+            "en": "Lake Beach"
+          },
+          "coords": [
+            -1.403477,
+            43.782518
+          ],
+          "category": "recreational",
+          "arrive_at": "12:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den ruhigen, familienfreundlichen Gewässern des Meeressees und mieten Sie ein Paddleboard, um die winzige Insel in der Mitte zu erkunden.",
+            "hu": "Pihenjen a tengeri tó nyugodt, családbarát vizeinél, és béreljen evezős deszkát a közeli pavilonok egyikéből a középen lévő kis sziget felfedezéséhez.",
+            "ro": "Relaxați-vă pe malul liniștit al lacului marin și închiriați o placă cu vâsle de la chioșcurile din apropiere pentru a explora mica insulă din centru.",
+            "en": "Relax by the calm, family-friendly waters of the marine lake, and rent a paddleboard from one of the nearby kiosks to explore the tiny island in the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Pinassen-Schutzraum",
+            "hu": "Pinasse Menedékház",
+            "ro": "Adăpostul Pinasse",
+            "en": "Pinasse Shelter"
+          },
+          "coords": [
+            -1.410941,
+            43.785025
+          ],
+          "category": "museum",
+          "arrive_at": "13:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erfahren Sie in diesem kleinen Museum mehr über die traditionellen Holzboote der lokalen Fischer und lesen Sie die Informationstafeln draußen, falls geschlossen ist.",
+            "hu": "Ismerje meg a helyi halászok által használt hagyományos fahajókat ebben a kis múzeumban, és olvassa el a kinti információs táblákat akkor is, ha zárva van.",
+            "ro": "Aflați despre bărcile tradiționale din lemn folosite de pescarii locali și citiți panourile informative de afară chiar dacă ușa este încuiată.",
+            "en": "Learn about the traditional wooden boats used by local fishermen in this small museum, and read the informative panels outside even if the door is locked."
+          }
+        },
+        {
+          "name": {
+            "de": "Großer Strand",
+            "hu": "Nagy Strand",
+            "ro": "Plaja Mare",
+            "en": "Grand Beach"
+          },
+          "coords": [
+            -1.413953,
+            43.787942
+          ],
+          "category": "recreational",
+          "arrive_at": "15:31",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag und beobachten Sie die rollenden Atlantikwellen an diesem weitläufigen Sandstrand, aber bleiben Sie beim späten Schwimmen zwischen den blauen Flaggen.",
+            "hu": "Zárja a napot az atlanti hullámok megfigyelésével ezen a hatalmas homokos strandon, de maradjon a kék zászlók között, ha késő délutáni fürdőzésre vágyik.",
+            "ro": "Încheiați ziua privind valurile atlantice pe această plajă imensă de nisip, dar rămâneți între steagurile albastre dacă decideți să faceți o baie târzie.",
+            "en": "Finish your day watching the rolling Atlantic waves on this expansive sandy beach, but stay between the blue flags if you decide to take a late-afternoon dip."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im charmanten Stadtzentrum, wo Sie das lokale Erbe und die schöne Kirche erkunden. Mittags erreichen Sie das kulturelle Herz und den ruhigen Rand des Sees. Den Nachmittag verbringen Sie damit, die maritime Geschichte im Pinasse-Schutzraum zu entdecken. Der Abend endet mit einem entspannenden Spaziergang am riesigen Sandstrand der Grand'Plage, während die Sonne untergeht.",
+        "hu": "A reggel a bájos városközpontban kezdődik, felfedezve a helyi örökséget és a gyönyörű templomot. Délben elérkezik a kulturális szívbe és a tó csendes partjára. A délutánt a helyi tengeri történelem megismerésével tölti a Pinasse menedékháznál. Az este egy pihentető sétával zárul a Grand'Plage hatalmas homokos partján, miközben a nap lassan lenyugszik.",
+        "ro": "Dimineața începe în centrul fermecător al orașului, explorând patrimoniul local și frumoasa biserică. La amiază ajungeți în inima culturală și pe malul liniștit al lacului. După-amiaza este dedicată descoperirii istoriei maritime locale la adăpostul Pinasse. Seara se încheie cu o plimbare relaxantă pe întinderea vastă de nisip de la Grand'Plage, în timp ce soarele apune.",
+        "en": "Morning starts in the charming town center, exploring local heritage and the beautiful church. Midday brings you to the cultural heart and the tranquil edge of the lake. Afternoon is spent uncovering local maritime history at the Pinasse shelter. Evening concludes with a relaxing stroll along the vast sandy expanse of the Grand'Plage as the sun begins to set."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:24",
+      "total_km": 4.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Albret-Bühne",
+            "hu": "Albret Színpad",
+            "ro": "Scena d'Albret",
+            "en": "Albret Stage"
+          },
+          "coords": [
+            -1.401904,
+            43.785545
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Route mit einem schnellen Foto an diesem Kulturzentrum und stellen Sie Ihren Fahrradsitz ein, bevor Sie auf die malerischen Wege zum See fahren.",
+            "hu": "Kezdje az útvonalat egy gyors fotóval e modern kulturális központnál, és állítsa be a kerékpárülését, mielőtt a tó felé vezető festői utakra lépne.",
+            "ro": "Începeți traseul făcând o fotografie la acest centru cultural și ajustați-vă scaunul bicicletei înainte de a porni pe potecile pitorești spre lac.",
+            "en": "Start your cycling route by taking a quick photo at this modern cultural hub, and adjust your bike seat before hitting the scenic paths towards the lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Meeressee Port d'Albret",
+            "hu": "Port d'Albret Tengeri Tó",
+            "ro": "Lacul Marin Port d'Albret",
+            "en": "Port d'Albret Marine Lake"
+          },
+          "coords": [
+            -1.410419,
+            43.782769
+          ],
+          "category": "natural",
+          "arrive_at": "09:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Fahren Sie um diesen atemberaubenden Salzwassersee, der mit dem Ozean verbunden ist, und halten Sie an der östlichen Holzbrücke für das beste Panoramabild.",
+            "hu": "Tekerjen körbe ezen a lenyűgöző, óceánnal összekötött sós vizű tavon, és álljon meg a keleti hídnál a legjobb panorámás fotózási lehetőségért.",
+            "ro": "Plimbați-vă în jurul acestui uimitor lac cu apă sărată conectat la ocean și opriți-vă la podul de lemn din est pentru cel mai bun loc de fotografie panoramică.",
+            "en": "Ride around the perimeter of this stunning saltwater lake connecting to the ocean, and stop at the eastern wooden bridge for the best panoramic photography spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Soustons",
+            "hu": "Soustons-i Strand",
+            "ro": "Plaja Soustons",
+            "en": "Soustons Beach"
+          },
+          "coords": [
+            -1.418282,
+            43.775509
+          ],
+          "category": "recreational",
+          "arrive_at": "11:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die wildere, weniger überlaufene Atmosphäre dieses südlichen Sandstreifens, und bringen Sie viel Trinkwasser mit, da es hier kaum Einrichtungen gibt.",
+            "hu": "Élvezze e déli homoksáv vadabb, kevésbé zsúfolt hangulatát, és hozzon magával bőséges ivóvizet, mivel ebben a természetes övezetben ritkák a szolgáltatások.",
+            "ro": "Bucurați-vă de atmosfera mai sălbatică a acestei întinderi sudice de nisip și aduceți multă apă de băut, deoarece facilitățile sunt rare în această zonă.",
+            "en": "Enjoy the wilder, less crowded atmosphere of this southern stretch of sand, and bring plenty of drinking water as amenities are sparse in this natural zone."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand am Meeressee",
+            "hu": "Tengeri Tó Strandja",
+            "ro": "Plaja Lacului Marin",
+            "en": "Marine Lake Beach"
+          },
+          "coords": [
+            -1.409962,
+            43.776073
+          ],
+          "category": "recreational",
+          "arrive_at": "12:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause im weichen Sand direkt neben den ruhigen Binnengewässern des Sees, ein idealer Ort, um das Fahrrad abzustellen und ein Picknick zu genießen.",
+            "hu": "Tartson szünetet a puha homokban közvetlenül a tó nyugodt vizei mellett, ami ideális hely a kerékpár leparkolására és egy csomagolt piknikebéd elfogyasztására.",
+            "ro": "Faceți o pauză pe nisipul moale chiar lângă apele liniștite ale lacului, făcându-l un loc ideal pentru a parca bicicleta și a savura un prânz la pachet.",
+            "en": "Take a break on the soft sands right beside the lake's calm interior waters, making it an ideal spot to park your bike and enjoy a packed picnic lunch safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Nordstrand",
+            "hu": "Északi Strand",
+            "ro": "Plaja de Nord",
+            "en": "North Beach"
+          },
+          "coords": [
+            -1.401757,
+            43.777511
+          ],
+          "category": "recreational",
+          "arrive_at": "13:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Surfkultur an diesem beliebten nördlichen Strandzugang und schließen Sie Ihr Fahrrad sicher an den vorgesehenen Ständern ab.",
+            "hu": "Tapasztalja meg az élénk szörfkultúrát ezen a népszerű északi strandlejárónál, és zárja le biztonságosan kerékpárját a fő sétány bejáratánál lévő tárolóknál.",
+            "ro": "Experimentați cultura vibrantă a surfului la acest popular punct de acces la plaja din nord și blocați-vă bicicleta în siguranță la rafturile special amenajate.",
+            "en": "Experience the lively surf culture at this popular northern beach access point, and lock your bike securely at the designated racks near the main promenade entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Clément",
+            "hu": "Szent Kelemen-templom",
+            "ro": "Biserica Saint-Clément",
+            "en": "Saint-Clément Church"
+          },
+          "coords": [
+            -1.398843,
+            43.785473
+          ],
+          "category": "religious",
+          "arrive_at": "15:14",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit einer Fahrt ins Dorfzentrum, um dieses historische Gebäude zu bewundern, und holen Sie sich als Belohnung ein Eis am nahegelegenen Platz.",
+            "hu": "Zárja a túrát a faluközpontba való visszatekeréssel, hogy megcsodálja ezt a történelmi épületet, és egyen egy fagylaltot a közeli téren jól megérdemelt jutalomként.",
+            "ro": "Încheiați-vă excursia pedalând înapoi în centrul satului pentru a admira această clădire istorică și luați o înghețată în piața din apropiere ca recompensă.",
+            "en": "Conclude your trip cycling back to the village center to admire this historic building, and grab an ice cream at the nearby square as a well-earned reward."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an der lokalen Kulturbühne, bevor Sie zum atemberaubenden Meeressee radeln. Mittags fahren Sie entlang der südlichen Strände und genießen die frische Meeresbrise und malerische Küstenwege. Der Nachmittag bietet einen erfrischenden Halt an den ruhigen Seeufern. Der Abend bringt eine sanfte Fahrt zurück ins historische Stadtzentrum, um die Architektur zu bewundern.",
+        "hu": "Kezdje kerékpártúráját a helyi kulturális színpadnál, mielőtt a lenyűgöző tengeri tó felé pedálozna. Délben a déli strandok mentén cirkál, élvezve a friss óceáni szellőt és a festői parti utakat. A délután frissítő megállót kínál a csendes tópartokon, hogy megpihentesse a lábait. Az este kellemes utat tartogat a történelmi városközpontba az ősi építészet megcsodálására.",
+        "ro": "Începeți turul cu bicicleta la scena culturală locală înainte de a pedala spre uimitorul lac marin. La amiază vă veți plimba de-a lungul plajelor sudice, bucurându-vă de briza oceanului și de potecile pitorești de coastă. După-amiaza oferă o oprire revigorantă pe malurile liniștite ale lacului. Seara aduce o cursă ușoară înapoi în centrul istoric pentru a admira arhitectura veche.",
+        "en": "Kick off your cycling tour at the local cultural stage before pedaling towards the stunning marine lake. Midday finds you cruising along the southern beaches, enjoying the fresh ocean breeze and scenic coastal paths. Afternoon offers a refreshing stop at the serene lake shores to relax your legs. Evening brings a gentle ride back to the historic town center to admire the ancient architecture."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:53",
+      "total_km": 3.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Vergnügungspark Messanges Süd",
+            "hu": "Messanges Dél Vidámpark",
+            "ro": "Parcul de Distracții Messanges Sud",
+            "en": "Messanges South Amusement Park"
+          },
+          "coords": [
+            -1.396041,
+            43.797614
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie mit familienfreundlichem Nervenkitzel in diesem kompakten Park, und kommen Sie direkt zur Eröffnung, um leicht einen Parkplatz zu finden.",
+            "hu": "Kezdjen családbarát izgalmakkal ebben a kompakt parkban, és érkezzen pontosan nyitásra, hogy könnyen találjon parkolóhelyet a bejárati kapuk közelében.",
+            "ro": "Începeți cu emoții pentru toată familia în acest parc compact, dar captivant, și ajungeți fix la deschidere pentru a găsi cu ușurință un loc de parcare.",
+            "en": "Kick off with family-friendly thrills at this compact but exciting park, and arrive right at opening time to easily find a parking spot near the entrance gates."
+          }
+        },
+        {
+          "name": {
+            "de": "Nördlicher Strand",
+            "hu": "Északi Part",
+            "ro": "Plaja Nordului",
+            "en": "Northern Beach"
+          },
+          "coords": [
+            -1.412803,
+            43.79502
+          ],
+          "category": "recreational",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem schönen, bei Surfern beliebten Küstenabschnitt hinunter und überprüfen Sie die Gezeiten online, bevor Sie die Holztreppe hinabsteigen.",
+            "hu": "Vezessen le ehhez a szörfösök körében népszerű gyönyörű atlanti partszakaszhoz, és ellenőrizze az árapály idejét online, mielőtt lemenne a falépcsőkön.",
+            "ro": "Conduceți pentru a accesa această întindere frumoasă populară printre surferi și verificați orele mareelor online înainte de a coborî pe treptele de lemn.",
+            "en": "Drive down to access this beautiful stretch of the Atlantic coast popular with surfers, and check the tide times online before heading down the wooden steps."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Sablères",
+            "hu": "Sablères Strand",
+            "ro": "Plaja Sablères",
+            "en": "Sablères Beach"
+          },
+          "coords": [
+            -1.413583,
+            43.792983
+          ],
+          "category": "recreational",
+          "arrive_at": "11:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die raue Schönheit der Dünen an diesem etwas abgelegenen Rückzugsort, bringen Sie aber einen Regenschirm mit, da natürlicher Schatten fehlt.",
+            "hu": "Élvezze a dűnék nyers szépségét ezen a kissé eldugott homokos menedékhelyen, és mindenképpen hozzon napernyőt, mivel a természetes árnyék teljesen hiányzik itt.",
+            "ro": "Bucurați-vă de frumusețea brută a dunelor la acest refugiu nisipos ușor retras, asigurându-vă că aduceți o umbrelă, deoarece umbra naturală lipsește cu desăvârșire.",
+            "en": "Enjoy the raw beauty of the dunes at this slightly secluded sandy retreat, making sure to bring an umbrella since natural shade is entirely absent here."
+          }
+        },
+        {
+          "name": {
+            "de": "Pinassen-Schutzraum",
+            "hu": "Pinasse Menedékház",
+            "ro": "Adăpostul Pinasse",
+            "en": "Pinasse Shelter"
+          },
+          "coords": [
+            -1.410941,
+            43.785025
+          ],
+          "category": "museum",
+          "arrive_at": "13:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Sees, um diesen charmanten Holzunterstand zu erkunden, der Ihnen einen wunderbaren Einblick in die maritimen Wurzeln der Stadt gibt.",
+            "hu": "Parkoljon a tó közelében, hogy felfedezze ezt a bájos famenedéket, amely a helyi csónakázás történetének szentelődik, csodálatos bepillantást nyújtva a város tengeri gyökereibe.",
+            "ro": "Parcați lângă lac pentru a explora acest fermecător adăpost din lemn dedicat istoriei ambarcațiunilor, oferindu-vă o privire minunată în rădăcinile maritime.",
+            "en": "Park near the lake to explore this charming wooden shelter dedicated to local boating history, giving you a wonderful glimpse into the town's maritime roots."
+          }
+        },
+        {
+          "name": {
+            "de": "Galerie du Moisan",
+            "hu": "Moisan Galéria",
+            "ro": "Galeria du Moisan",
+            "en": "Moisan Gallery"
+          },
+          "coords": [
+            -1.40104,
+            43.786544
+          ],
+          "category": "museum",
+          "arrive_at": "14:43",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Fahrt mit regionalen Kunstwerken und parken Sie auf dem nahegelegenen städtischen Parkplatz, da das Parken direkt auf der Straße schwierig ist.",
+            "hu": "Zárja a parti kocsikázást a regionális művészeti alkotásokban való elmerüléssel, és parkoljon a közeli önkormányzati parkolóban, mivel az utcai parkolás nehézkes.",
+            "ro": "Încheiați călătoria scufundându-vă în operele de artă regionale și parcați în lotul municipal din apropiere, deoarece parcarea pe stradă chiar afară poate fi dificilă.",
+            "en": "Wrap up your coastal drive by immersing yourself in regional artworks, and park in the nearby municipal lot as street parking right outside can be quite tricky."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Roadtrip beginnt mit morgendlichem Nervenkitzel im lokalen Vergnügungspark im Norden. Mittags fahren Sie die malerische Küste hinunter und hüpfen zwischen wunderschönen nördlichen Sandstränden hin und her. Der Nachmittag geht in eine kulturelle Erkundung über, während Sie einen maritimen Schutzraum besuchen. Der Abend endet mit einem Besuch in der lokalen Kunstgalerie vor dem Abendessen.",
+        "hu": "Autós kirándulása reggeli izgalmakkal kezdődik az északi vidámparkban. Délben a festői part mentén halad, gyönyörű északi homokos strandok között ugrálva egy napsütötte élményért. A délután kulturális felfedezésbe megy át egy egyedi tengeri menedékház meglátogatásával. Az este egy elgondolkodtató látogatással zárul a helyi művészeti galériában vacsora előtt.",
+        "ro": "Călătoria cu mașina începe cu emoții de dimineață la parcul de distracții din nord. Amiaza vă poartă pe coasta pitorească, oprindu-vă între plajele superbe de nisip din nord pentru o experiență însorită. După-amiaza face tranziția spre explorare culturală, vizitând un adăpost maritim unic. Seara se încheie cu o vizită la galeria de artă locală înainte de a merge la cină.",
+        "en": "Your road trip starts with morning thrills at the local amusement park in the north. Midday takes you down the scenic coast, hopping between beautiful northern sandy beaches for a sun-kissed experience. Afternoon transitions into cultural exploration as you visit a unique maritime shelter. Evening wraps up with a thoughtful visit to the local art gallery before heading to dinner."
+      }
+    }
+  }
+}

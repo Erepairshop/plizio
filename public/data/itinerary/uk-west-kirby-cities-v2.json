@@ -1,0 +1,497 @@
+{
+  "city_id": "uk-west-kirby-cities-v2",
+  "anchor": {
+    "name": "West Kirby",
+    "coords": [
+      -3.184,
+      53.373
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:26",
+      "total_km": 3.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "West Kirby Concourse",
+            "hu": "West Kirby Concourse",
+            "ro": "West Kirby Concourse",
+            "en": "West Kirby Concourse"
+          },
+          "coords": [
+            -3.182788,
+            53.373555
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem belebten Knotenpunkt, der sich perfekt zur Orientierung eignet, und holen Sie sich in einem nahegelegenen Café einen Kaffee.",
+            "hu": "Kezdje a napot ezen a nyüzsgő csomóponton, amely tökéletes a tájékozódáshoz, és indulás előtt igyon egy kávét egy közeli kávézóban.",
+            "ro": "Începeți ziua în această intersecție animată, locul perfect pentru a vă orienta, și luați o cafea de la o cafenea din apropiere înainte de a porni.",
+            "en": "Start your day at the bustling concourse, a central hub perfect for getting your bearings, and grab a coffee at a nearby café before setting off."
+          }
+        },
+        {
+          "name": {
+            "de": "West Kirby Arts Centre",
+            "hu": "West Kirby Művészeti Központ",
+            "ro": "Centrul de Arte West Kirby",
+            "en": "West Kirby Arts Centre"
+          },
+          "coords": [
+            -3.178997,
+            53.372624
+          ],
+          "category": "cultural",
+          "arrive_at": "09:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie lokale Kunst in diesem historischen Gebäude mit vielfältigen Ausstellungen, aber prüfen Sie vorher die genauen Öffnungszeiten online.",
+            "hu": "Fedezze fel a helyi kreativitást ebben a különféle kiállításoknak otthont adó történelmi épületben, de előtte feltétlenül ellenőrizze az online nyitvatartást.",
+            "ro": "Descoperiți creativitatea locală în această clădire istorică cu expoziții diverse, dar verificați programul online pentru orele de vizitare de astăzi.",
+            "en": "Discover local creativity inside this historic building hosting diverse exhibitions, but be sure to check their online schedule for today's specific gallery hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Ashton Park",
+            "hu": "Ashton Park",
+            "ro": "Parcul Ashton",
+            "en": "Ashton Park"
+          },
+          "coords": [
+            -3.1811,
+            53.3709
+          ],
+          "category": "recreational",
+          "arrive_at": "10:43",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen wunderschönen viktorianischen Park mit seinen farbenfrohen Blumenbeeten und ruhen Sie sich auf einer Bank am Bowling Green aus.",
+            "hu": "Sétáljon végig ezen a gyönyörű viktoriánus parkon, csodálja meg a színes virágágyásokat, és pihenjen meg egy padon a klasszikus tekepálya közelében.",
+            "ro": "Plimbați-vă prin acest parc victorian frumos amenajat pentru a admira rondurile colorate și odihniți-vă pe o bancă lângă terenul de bowling clasic.",
+            "en": "Stroll through this beautifully landscaped Victorian park to admire its vibrant flowerbeds, and take a moment to rest on a bench near the classic bowling green."
+          }
+        },
+        {
+          "name": {
+            "de": "Coronation Gardens",
+            "hu": "Koronázási Kertek",
+            "ro": "Grădinile Încoronării",
+            "en": "Coronation Gardens"
+          },
+          "coords": [
+            -3.18268,
+            53.36649
+          ],
+          "category": "recreational",
+          "arrive_at": "11:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesen ruhigen, makellos gepflegten Gärten abseits der geschäftigen Promenade, die der ideale Ort für ein kleines, mitgebrachtes Mittagessen sind.",
+            "hu": "Pihenjen ezekben a csendes, kifogástalanul gondozott kertekben, amelyek nyugodt menedéket nyújtanak a sétánytól, így ideálisak egy gyors piknikebédhez.",
+            "ro": "Relaxați-vă în aceste grădini liniștite și impecabil îngrijite, o oază de calm lângă promenadă, fiind locul ideal pentru a savura un prânz la pachet.",
+            "en": "Relax in these tranquil, impeccably manicured gardens offering a quiet retreat from the busy promenade, making it the ideal spot to eat a quick packed lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Marine Lake",
+            "hu": "Tengeri Tó",
+            "ro": "Lacul Marin",
+            "en": "Marine Lake"
+          },
+          "coords": [
+            -3.186,
+            53.3674
+          ],
+          "category": "recreational",
+          "arrive_at": "12:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Umrunden Sie den gesamten gepflasterten Rand dieses riesigen Salzwassersees für atemberaubende Küstenpanoramen, aber bringen Sie unbedingt eine Windjacke mit.",
+            "hu": "Sétálja körbe ennek a hatalmas sós vizű tónak a kikövezett partját a lenyűgöző parti panorámáért, de hozzon magával széldzsekit az erős tengeri szél miatt.",
+            "ro": "Parcurgeți întregul perimetru pavat al acestui vast lac cu apă sărată pentru panorame de coastă uimitoare, dar luați o jachetă de vânt deoarece briza este puternică.",
+            "en": "Walk the entire paved perimeter of this vast saltwater lake for stunning coastal panoramas, but bring a windbreaker as the sea breeze can be remarkably strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Hilbre Islands",
+            "hu": "Hilbre-szigetek",
+            "ro": "Insulele Hilbre",
+            "en": "Hilbre Islands"
+          },
+          "coords": [
+            -3.21751,
+            53.3754
+          ],
+          "category": "natural",
+          "arrive_at": "14:26",
+          "stay_min": 120,
+          "hop_from_prev_min": 35,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Wandern Sie über den feuchten Sand zu diesem einzigartigen Naturschutzgebiet mit Kegelrobben, aber passen Sie Ihre Tour unbedingt genau den Gezeiten an.",
+            "hu": "Sétáljon át az árapály-homokon, hogy felfedezze ezt az egyedülálló, fókák lakta lakatlan természetvédelmi területet, szigorúan apályhoz igazítva az indulást.",
+            "ro": "Mergeți pe nisipul mării la reflux pentru a explora această rezervație naturală unică populată de foci, sincronizând strict drumeția cu nivelul scăzut al apelor.",
+            "en": "Hike across the tidal sands to explore this unique uninhabited nature reserve populated by grey seals, strictly timing your two-mile walk with the low tide."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Tour im Stadtzentrum und entdecken Sie den lokalen Kulturknotenpunkt. Entspannen Sie mittags in den atemberaubenden Parks und makellosen viktorianischen Gärten der Stadt. Der Nachmittag bringt Sie zum berühmten Salzwassersee mit Panoramablick und frischer Meeresbrise. Beenden Sie den Tag mit einer unvergesslichen Wanderung zu den Gezeiteninseln im sanften Abendlicht.",
+        "hu": "Kezdje gyalogtúráját a városközpontban, majd fedezze fel a bájos kulturális központot. Délben pihenjen meg a lenyűgöző parkokban és az eredeti viktoriánus kertekben. A délután a hatalmas sós vizű tóhoz vezet, ahol panorámás kilátás és friss tengeri levegő várja. A napot az árapály-szigetekre tett felejthetetlen, vadregényes sétával zárhatja le.",
+        "ro": "Începeți turul de mers pe jos în centrul orașului, explorând clădirile civice și un centru cultural fermecător. La prânz, relaxați-vă în parcurile uimitoare și grădinile victoriene imaculate. După-amiaza vă aduce la lacul cu apă sărată pentru vederi panoramice și aer proaspăt de mare. Încheiați cu o drumeție de neuitat către insulele de reflux înainte de apus.",
+        "en": "Start your walking tour in the town center, checking out local civic spots before wandering into a charming cultural hub. By midday, relax in the stunning local parks and immaculate Victorian gardens offering a perfect pause. The afternoon brings you to the iconic saltwater lake, delivering panoramic views and fresh sea air. Conclude with an unforgettable trek out to the tidal islands before the sun sets."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:43",
+      "total_km": 3.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Grange Hill",
+            "hu": "Grange Hill",
+            "ro": "Dealul Grange",
+            "en": "Grange Hill"
+          },
+          "coords": [
+            -3.175825,
+            53.375436
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diesen Aussichtspunkt für weite Blicke über das Dee-Ästuar bis nach Wales, und parken Sie Ihr Fahrrad sicher unten am Fuß des Kriegerdenkmals.",
+            "hu": "Mássza meg ezt a kilátópontot, ahonnan lenyűgöző kilátás nyílik a Dee-tölcsértorkolattól egészen Walesig, és biztonságosan rögzítse kerékpárját a hegy lábánál.",
+            "ro": "Urcați pe acest punct de belvedere pentru panorame vaste peste Estuarul Dee până în Țara Galilor și asigurați-vă bicicleta la baza monumentului eroilor.",
+            "en": "Climb this prominent viewpoint for sweeping vistas over the Dee Estuary to Wales, and park your bike securely at the base before walking up to the war memorial."
+          }
+        },
+        {
+          "name": {
+            "de": "West Kirby Arts Centre",
+            "hu": "West Kirby Művészeti Központ",
+            "ro": "Centrul de Arte West Kirby",
+            "en": "West Kirby Arts Centre"
+          },
+          "coords": [
+            -3.178997,
+            53.372624
+          ],
+          "category": "cultural",
+          "arrive_at": "09:57",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche lokale Kunst in diesem historischen Gebäude und schließen Sie Ihr Fahrrad sicher vor dem Eingang an, bevor Sie eintreten.",
+            "hu": "Fedezze fel a gazdag helyi művészetet ebben a történelmi épületben, és biztonságosan lakatolja le kerékpárját a bejárat előtt, mielőtt belépne.",
+            "ro": "Descoperiți arta locală bogată în această clădire istorică și asigurați-vă bicicleta în fața intrării înainte de a intra pentru a vizita expozițiile.",
+            "en": "Discover rich local art inside this historical building, making sure to securely lock your bicycle directly outside the entrance before you head inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Ashton Park Lake",
+            "hu": "Ashton Park-i tó",
+            "ro": "Lacul din Parcul Ashton",
+            "en": "Ashton Park Lake"
+          },
+          "coords": [
+            -3.179169,
+            53.370134
+          ],
+          "category": "natural",
+          "arrive_at": "10:59",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Radeln Sie langsam um diesen malerischen See mit seiner berühmten Wasservogelwelt und bringen Sie ein paar Körner mit, um die freundlichen Enten zu füttern.",
+            "hu": "Kerekezzen lassan e festői vadvízi tó körül, amely a helyi vízimadarakról híres, és hozzon magával néhány magot a barátságos kacsák etetéséhez.",
+            "ro": "Pedalați încet în jurul acestui lac pitoresc faimos pentru păsările sale acvatice și aduceți câteva semințe pentru a hrăni rațele prietenoase de aici.",
+            "en": "Cycle slowly around this scenic wildlife lake famous for its local waterfowl, keeping an eye out for swans and bringing a few seeds to feed the friendly ducks."
+          }
+        },
+        {
+          "name": {
+            "de": "St Bridget's Church",
+            "hu": "Szent Brigitta templom",
+            "ro": "Biserica Sfânta Bridget",
+            "en": "St Bridget's Church"
+          },
+          "coords": [
+            -3.176867,
+            53.368032
+          ],
+          "category": "religious",
+          "arrive_at": "11:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die alte Architektur und den erhaltenen Wikinger-Grabstein in dieser historischen Pfarrkirche und schließen Sie Ihr Fahrrad am steinernen Haupttor an.",
+            "hu": "Csodálja meg az ősi építészetet és a történelmi plébániatemplomban őrzött viking sírkövet, de belépés előtt lakatolja a biciklijét a fő kőkapuhoz.",
+            "ro": "Admirați arhitectura străveche și piatra funerară vikingă păstrată în această biserică parohială istorică, legându-vă bicicleta de poarta principală din piatră.",
+            "en": "Admire the ancient architecture and Viking hogback stone preserved within this historical parish church, locking your bike by the main stone gate before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Marine Lake",
+            "hu": "Tengeri Tó",
+            "ro": "Lacul Marin",
+            "en": "Marine Lake"
+          },
+          "coords": [
+            -3.186,
+            53.3674
+          ],
+          "category": "recreational",
+          "arrive_at": "12:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie den fantastischen Ausblick bei einer Fahrt entlang der langen Seepromenade, aber achten Sie an windigen Tagen auf plötzlich entgegenkommende Fußgänger.",
+            "hu": "Élvezze a fantasztikus kilátást a hosszú tavi sétányon haladva, de szeles napokon ügyeljen a hirtelen felbukkanó, szemből érkező gyalogosokra.",
+            "ro": "Bucurați-vă de priveliștile fantastice mergând de-a lungul lungii promenade a lacului, dar fiți atenți la pietonii care apar brusc în zilele cu vânt puternic.",
+            "en": "Take in the fantastic views with a ride along the long lake promenade, but pay close attention to suddenly appearing oncoming pedestrians on windy days."
+          }
+        },
+        {
+          "name": {
+            "de": "Wirral Way",
+            "hu": "Wirral Way",
+            "ro": "Traseul Wirral",
+            "en": "Wirral Way"
+          },
+          "coords": [
+            -3.173985,
+            53.360258
+          ],
+          "category": "recreational",
+          "arrive_at": "13:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Radeln Sie auf dieser ehemaligen Bahntrasse, die in einen wunderschönen autofreien Küstenweg umgewandelt wurde, und genießen Sie die entspannte Fahrt.",
+            "hu": "Tekerjen végig ezen a korábbi vasútvonalon, amely ma gyönyörű, forgalommentes tengerparti út, és használja ki a sima felületet egy erőfeszítés nélküli túrához.",
+            "ro": "Pedalați pe această fostă linie de cale ferată transformată într-un frumos drum de coastă fără trafic, profitând de suprafața netedă pentru o plimbare relaxantă.",
+            "en": "Pedal down this former railway line now transformed into a beautiful traffic-free coastal path, utilizing the smooth surface for an effortless, relaxing ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Lower Cage",
+            "hu": "Lower Cage",
+            "ro": "Lower Cage",
+            "en": "Lower Cage"
+          },
+          "coords": [
+            -3.161861,
+            53.367398
+          ],
+          "category": "family",
+          "arrive_at": "15:13",
+          "stay_min": 90,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem kuriosen lokalen Wahrzeichen, das faszinierende historische Einblicke in das frühe Siedlungsleben bietet, und lesen Sie die Informationstafel.",
+            "hu": "Álljon meg ennél a furcsa helyi nevezetességnél, amely érdekes történelmi hátteret ad a korai települések életéhez, és olvassa el a közeli tájékoztató táblát.",
+            "ro": "Opriți-vă la acest punct de reper local ciudat care oferă context istoric fascinant despre viața primilor coloniști, citind placa informativă din apropiere.",
+            "en": "Pause at this quirky local landmark offering intriguing historical context about early settlement life, reading the nearby plaque to fully understand its origins."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt mit einem Anstieg zu einem weiten Aussichtspunkt, gefolgt von einer Abfahrt ins kulturelle Herz der Stadt. Mittags radeln Sie an ruhigen Parkseen vorbei und entdecken historische Schätze an einer alten Kirche. Später fahren Sie am riesigen Meeressee vorbei und genießen die maritime Atmosphäre. Der Tag endet mit einer entspannten Fahrt auf dem flachen Küstenweg.",
+        "hu": "Kerékpártúrája egy tágas kilátópont megmászásával kezdődik, majd leereszkedik a város kulturális szívébe. Délben békés parki tavak mellett teker, és történelmi kincseket fedez fel egy régi templomnál. Később a hatalmas tengeri tó mellett elsuhanva élvezheti a tengeri hangulatot. Az est közeledtével a lapos, festői parti ösvényen haladva fejezheti be ezt az aktív napot.",
+        "ro": "Plimbarea începe cu o urcare spre un punct de belvedere, urmată de o coborâre rapidă în inima culturală a orașului. La prânz pedalați pe lângă lacuri liniștite și descoperiți comori istorice la o biserică străveche. Mai târziu, treceți pe lângă vastul lac marin, savurând atmosfera maritimă pe două roți. Spre seară, o croazieră pe traseul de coastă plat și pitoresc vă încheie ziua activă.",
+        "en": "Your ride begins with a climb to an expansive viewpoint, followed by a quick descent into the cultural heart of the town. Midday finds you pedaling past serene park lakes and uncovering historical treasures at a Viking-era church. Later, breeze past the vast marine lake, taking in the maritime atmosphere on two wheels. As evening nears, cruise down the flat, scenic coastal trail to finish your active day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:42",
+      "total_km": 11.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "East Hoyle Bank",
+            "hu": "East Hoyle homokpad",
+            "ro": "Bancul de nisip East Hoyle",
+            "en": "East Hoyle Bank"
+          },
+          "coords": [
+            -3.19251,
+            53.398911
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen mit der Erkundung dieser riesigen Sandbänke, parken Sie jedoch immer in den ausgewiesenen Bereichen, um nicht von der Flut überrascht zu werden.",
+            "hu": "Kezdje a reggelt az Ír-tengerbe nyúló hatalmas homokpadok felfedezésével, de mindig a kijelölt területeken parkoljon, hogy elkerülje a gyorsan emelkedő dagályt.",
+            "ro": "Începeți dimineața explorând aceste bancuri vaste de nisip, dar parcați întotdeauna în zonele desemnate pentru a nu fi surprinși de fluxul care crește rapid.",
+            "en": "Start your morning exploring these vast sandbanks extending into the Irish Sea, but always park in designated areas to avoid getting caught by the rising tide."
+          }
+        },
+        {
+          "name": {
+            "de": "Grange Hill",
+            "hu": "Grange Hill",
+            "ro": "Dealul Grange",
+            "en": "Grange Hill"
+          },
+          "coords": [
+            -3.175825,
+            53.375436
+          ],
+          "category": "natural",
+          "arrive_at": "10:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem schönen Aussichtspunkt mit Blick über das Ästuar und nutzen Sie den kostenfreien Parkplatz in der Nähe des Kriegerdenkmals.",
+            "hu": "Vezessen el ehhez a gyönyörű, a torkolatra néző kilátóhoz, és használja a háborús emlékmű közelében található ingyenes parkolót.",
+            "ro": "Conduceți spre acest frumos punct de belvedere cu vedere la estuar și folosiți parcarea gratuită situată în apropierea monumentului eroilor.",
+            "en": "Drive over to this elevated natural vantage point offering estuary views, conveniently utilizing the nearby free parking next to the war memorial."
+          }
+        },
+        {
+          "name": {
+            "de": "St Bridget's Church",
+            "hu": "Szent Brigitta templom",
+            "ro": "Biserica Sfânta Bridget",
+            "en": "St Bridget's Church"
+          },
+          "coords": [
+            -3.176867,
+            53.368032
+          ],
+          "category": "religious",
+          "arrive_at": "10:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die atemberaubende Architektur dieses sakralen Ortes und parken Sie Ihr Auto rücksichtsvoll auf den ausgewiesenen Straßenplätzen direkt vor der Tür.",
+            "hu": "Csodálja meg e szent hely lenyűgöző építészetét, és parkoljon le figyelmesen a kijelölt utcai helyeken, közvetlenül az épület előtt.",
+            "ro": "Admirați arhitectura uimitoare a acestui lăcaș de cult sacru și parcați-vă mașina cu atenție pe locurile stradale desemnate chiar afară.",
+            "en": "Admire the stunning architecture of this sacred historical site, parking your car considerately in the designated street bays located directly outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Caldy Hill",
+            "hu": "Caldy Hill",
+            "ro": "Dealul Caldy",
+            "en": "Caldy Hill"
+          },
+          "coords": [
+            -3.16682,
+            53.3667
+          ],
+          "category": "natural",
+          "arrive_at": "11:26",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Fahren Sie hinauf zu diesem von Heidekraut bewachsenen Hochmoor mit malerischen Wanderwegen und nutzen Sie den kostenlosen Parkplatz direkt an der Zufahrtsstraße.",
+            "hu": "Hajtson fel erre a hangás magaslatra, ahol kilométernyi festői ösvény várja, és használja a kanyargós bekötőút melletti dedikált ingyenes parkolót.",
+            "ro": "Conduceți până la această colină acoperită de erica pentru trasee pitorești, folosind parcarea gratuită dedicată situată chiar lângă drumul principal de acces.",
+            "en": "Drive up to access miles of scenic heather-clad trails on this elevated heathland, using the dedicated free parking area just off the main winding approach road."
+          }
+        },
+        {
+          "name": {
+            "de": "Marine Lake",
+            "hu": "Tengeri Tó",
+            "ro": "Lacul Marin",
+            "en": "Marine Lake"
+          },
+          "coords": [
+            -3.186,
+            53.3674
+          ],
+          "category": "recreational",
+          "arrive_at": "12:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto auf dem großen gebührenpflichtigen Parkplatz am Wasser stehen und genießen Sie einen herrlichen Spaziergang entlang des riesigen Salzwassersees.",
+            "hu": "Hagyja az autót a tágas, fizetős vízparti parkolóban, és élvezze a csodálatos sétát a hatalmas sós vizű tó mentén.",
+            "ro": "Lăsați mașina în parcarea spațioasă cu plată de pe malul apei și bucurați-vă de o plimbare minunată de-a lungul vastului lac marin cu apă sărată.",
+            "en": "Leave the car in the spacious pay-and-display waterfront parking lot, then step out to enjoy a magnificent stroll alongside the massive saltwater lake."
+          }
+        },
+        {
+          "name": {
+            "de": "Red Rocks Nature Reserve",
+            "hu": "Vörös Sziklák Természetvédelmi Terület",
+            "ro": "Rezervația Naturală Red Rocks",
+            "en": "Red Rocks Nature Reserve"
+          },
+          "coords": [
+            -3.115542,
+            53.331709
+          ],
+          "category": "natural",
+          "arrive_at": "13:57",
+          "stay_min": 105,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Ausflug in diesem dramatischen Küstensumpfgebiet, das für spektakuläre Sonnenuntergänge bekannt ist, und parken Sie am Golfplatz.",
+            "hu": "Fejezze be útját ezen a drámai tengerparti mocsárvidéken, amely látványos naplementéiről ismert, és parkoljon le a golfpálya közelében a dűnék bejárása előtt.",
+            "ro": "Încheiați călătoria la această mlaștină de coastă dramatică, renumită pentru apusuri spectaculoase, parcând lângă terenul de golf înainte de a merge pe dune.",
+            "en": "Finish your trip at this dramatic coastal marshland known for rare natterjack toads and spectacular sunsets, parking near the golf course before walking the dunes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie früh zu den weiten Sandbänken und dann ins Landesinnere zu einem Hügel mit unübertroffenem Blick über die Mündung. Mittags verbinden Sie alte Geschichte mit einem weiteren atemberaubenden Heidegipfel für einen kurzen Spaziergang. Am Nachmittag parken Sie am großen Meeressee, dem pulsierenden Freizeitzentrum der Stadt. Beenden Sie Ihre Fahrt rechtzeitig zum Sonnenuntergang am Naturschutzgebiet.",
+        "hu": "Autózzon ki korán a part menti homokpadokhoz, majd vegye az irányt egy domb felé, ahonnan páratlan kilátás nyílik a torkolatra. Délben az ősi helyi történelem és egy újabb lenyűgöző hangás csúcs várja egy rövid sétára. Délután parkoljon le a nagy tengeri tónál, hogy megtapasztalja a város nyüzsgő szabadidős szívét. Autós útját egy látványos természetvédelmi területen fejezze be, épp naplemente előtt.",
+        "ro": "Conduceți devreme spre bancurile de nisip, apoi îndreptați-vă spre un deal care oferă vederi de neegalat asupra estuarului. Prânzul vă conectează cu istoria antică și cu un alt vârf acoperit de erica pentru o scurtă plimbare. După-amiaza, parcați lângă marele lac marin pentru a experimenta inima recreativă vibrantă a orașului. Încheiați la o rezervație naturală spectaculoasă chiar la timp pentru apus.",
+        "en": "Drive out early to the expansive coastal sandbanks, then head inland to a prominent hill offering unmatched sweeping views over the estuary. Midday connects you with ancient local history and another stunning heathland peak for a short scenic walk. During the afternoon, park by the great marine lake to experience the town's vibrant recreational heart. Wrap up your drive at a spectacular nature reserve just in time for sunset."
+      }
+    }
+  }
+}

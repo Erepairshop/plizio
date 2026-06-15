@@ -1,0 +1,474 @@
+{
+  "city_id": "montigny-le-bretonneux",
+  "anchor": {
+    "name": "Montigny-le-Bretonneux",
+    "coords": [
+      2.0325,
+      48.7706
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:43",
+      "total_km": 3.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Église Saint-Martin",
+            "ro": "Église Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            2.028558,
+            48.77071
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historische Kirche, die den ursprünglichen Dorfkern darstellt, bewundern Sie die traditionelle Architektur und kommen Sie früh hierher.",
+            "hu": "Fedezze fel ezt a bájos történelmi templomot, amely az eredeti faluközpontot képviseli, csodálja meg építészetét, és érkezzen kora reggel a nyugalomért.",
+            "ro": "Explorați această biserică istorică ce reprezintă nucleul satului original, admirând arhitectura tradițională, și vizitați-o devreme pentru mai multă liniște.",
+            "en": "Explore this charming historic church representing the original village core, noting its traditional architecture, and visit early to avoid afternoon heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre-du-Lac",
+            "hu": "Église Saint-Pierre-du-Lac",
+            "ro": "Église Saint-Pierre-du-Lac",
+            "en": "Église Saint-Pierre-du-Lac"
+          },
+          "coords": [
+            2.046554,
+            48.77031
+          ],
+          "category": "religious",
+          "arrive_at": "10:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie das markante moderne Design dieser Kirche am See, ein Symbol für die Entwicklung der neuen Stadt, und machen Sie Fotos von der Uferpromenade.",
+            "hu": "Csodálja meg ennek a tóparti templomnak a lenyűgöző modern dizájnját, amely az újváros fejlődésének szimbóluma, és készítsen nagyszerű fotókat a vízpartról.",
+            "ro": "Admirați designul modern impresionant al acestei biserici de pe malul lacului, un simbol al dezvoltării noului oraș, și faceți fotografii de pe faleză.",
+            "en": "Admire the striking modern design of this lakeside church, an iconic symbol of the new town's development, and capture photos from the nearby waterfront."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc des Sources de la Bièvre",
+            "hu": "Parc des Sources de la Bièvre",
+            "ro": "Parc des Sources de la Bièvre",
+            "en": "Parc des Sources de la Bièvre"
+          },
+          "coords": [
+            2.04745,
+            48.781247
+          ],
+          "category": "park",
+          "arrive_at": "11:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese riesige Grünfläche, wo der Fluss Bièvre entspringt, genießen Sie die Atmosphäre und packen Sie ein leichtes Picknick für die Quellen ein.",
+            "hu": "Sétáljon végig ezen a hatalmas zöldterületen, ahol a Bièvre folyó ered, élvezze a békés légkört, és hozzon magával egy könnyű pikniket a források mellé.",
+            "ro": "Plimbați-vă prin acest spațiu verde vast unde izvorăște râul Bièvre, bucurându-vă de atmosfera pașnică, și aduceți un picnic ușor pentru a mânca lângă izvoare.",
+            "en": "Stroll through this vast green space where the Bièvre river originates, enjoying its peaceful atmosphere, and pack a light picnic to eat near the springs."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Quentin-les-Sources",
+            "hu": "Église Saint-Quentin-les-Sources",
+            "ro": "Église Saint-Quentin-les-Sources",
+            "en": "Église Saint-Quentin-les-Sources"
+          },
+          "coords": [
+            2.04461,
+            48.781674
+          ],
+          "category": "religious",
+          "arrive_at": "12:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese zeitgenössische religiöse Stätte, die der Gemeinde gewidmet ist, schätzen Sie ihr helles Inneres und prüfen Sie das lokale Veranstaltungsbrett.",
+            "hu": "Látogassa meg ezt a helyi közösségnek szentelt kortárs vallási helyszínt, értékelje világos belső terét, és nézze meg a hirdetőtáblát a közelgő eseményekért.",
+            "ro": "Vizitați acest lăcaș religios contemporan dedicat comunității locale, apreciind interiorul său luminos, și verificați panoul pentru evenimentele în curs.",
+            "en": "Visit this contemporary religious site dedicated to the local community, appreciating its bright interior, and check the notice board for ongoing events."
+          }
+        },
+        {
+          "name": {
+            "de": "Théâtre de Saint-Quentin-en-Yvelines",
+            "hu": "Théâtre de Saint-Quentin-en-Yvelines",
+            "ro": "Théâtre de Saint-Quentin-en-Yvelines",
+            "en": "Théâtre de Saint-Quentin-en-Yvelines"
+          },
+          "coords": [
+            2.042001,
+            48.783323
+          ],
+          "category": "cultural",
+          "arrive_at": "13:13",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur dieses Kulturzentrums, das für seine Aufführungen bekannt ist, und trinken Sie danach einen Kaffee auf dem Platz.",
+            "hu": "Csodálja meg ennek a kiemelkedő kulturális központnak az építészetét, amely előadásairól ismert, és igyon egy kávét a közeli téren a látogatás után.",
+            "ro": "Admirați arhitectura impresionantă a acestui centru cultural proeminent, cunoscut pentru spectacolele sale, și savurați o cafea în piața din apropiere după aceea.",
+            "en": "Take in the impressive architecture of this prominent cultural center, known for its vibrant performances, and grab a coffee at the nearby plaza afterwards."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang im historischen Herzen von Montigny-le-Bretonneux und entdecken Sie den ruhigen Charme der Kirche Saint-Martin. Wenn Sie weiter nach Osten gehen, erreichen Sie die von der Kirche Saint-Pierre-du-Lac geprägte Neustadt. Am Mittag erreichen Sie den weitläufigen Parc des Sources de la Bièvre, der eine erfrischende Naturpause bietet. Am Nachmittag Kultur und Architektur.",
+        "hu": "Kezdje gyalogos túráját Montigny-le-Bretonneux történelmi szívében, felfedezve az Église Saint-Martin csendes varázsát. Kelet felé haladva átér az újvárosba, amelyet az Église Saint-Pierre-du-Lac jellemez. Délben a hatalmas Parc des Sources de la Bièvre parkba ér, amely frissítő pihenést kínál a természetben. A délutánt a helyi kulturális és vallási építészet felfedezésével zárhatja.",
+        "ro": "Începeți turul pe jos în inima istorică a Montigny-le-Bretonneux, descoperind farmecul liniștit al Bisericii Saint-Martin. Mergând spre est, treceți în orașul modern caracterizat de Biserica Saint-Pierre-du-Lac. La prânz ajungeți în vastul Parc des Sources de la Bièvre, care oferă o pauză răcoritoare în natură. Încheiați după-amiaza explorând arhitectura culturală și religioasă locală.",
+        "en": "Begin your walking tour in the historic heart of Montigny-le-Bretonneux, discovering the quiet charm of Église Saint-Martin. Proceeding east, you transition to the modern town characterized by Église Saint-Pierre-du-Lac. Midday brings you to the sprawling Parc des Sources de la Bièvre, offering a refreshing nature break. End the afternoon exploring local cultural and religious architecture."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:58",
+      "total_km": 4.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Église Saint-Martin",
+            "ro": "Église Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            2.028558,
+            48.77071
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historische Kirche, die den ursprünglichen Dorfkern darstellt, bewundern Sie die traditionelle Architektur und kommen Sie früh hierher.",
+            "hu": "Fedezze fel ezt a bájos történelmi templomot, amely az eredeti faluközpontot képviseli, csodálja meg építészetét, és érkezzen kora reggel a nyugalomért.",
+            "ro": "Explorați această biserică istorică ce reprezintă nucleul satului original, admirând arhitectura tradițională, și vizitați-o devreme pentru mai multă liniște.",
+            "en": "Explore this charming historic church representing the original village core, noting its traditional architecture, and visit early to avoid afternoon heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre-du-Lac",
+            "hu": "Église Saint-Pierre-du-Lac",
+            "ro": "Église Saint-Pierre-du-Lac",
+            "en": "Église Saint-Pierre-du-Lac"
+          },
+          "coords": [
+            2.046554,
+            48.77031
+          ],
+          "category": "religious",
+          "arrive_at": "09:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie das markante moderne Design dieser Kirche am See, ein Symbol für die Entwicklung der neuen Stadt, und machen Sie Fotos von der Uferpromenade.",
+            "hu": "Csodálja meg ennek a tóparti templomnak a lenyűgöző modern dizájnját, amely az újváros fejlődésének szimbóluma, és készítsen nagyszerű fotókat a vízpartról.",
+            "ro": "Admirați designul modern impresionant al acestei biserici de pe malul lacului, un simbol al dezvoltării noului oraș, și faceți fotografii de pe faleză.",
+            "en": "Admire the striking modern design of this lakeside church, an iconic symbol of the new town's development, and capture photos from the nearby waterfront."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc des Sources de la Bièvre",
+            "hu": "Parc des Sources de la Bièvre",
+            "ro": "Parc des Sources de la Bièvre",
+            "en": "Parc des Sources de la Bièvre"
+          },
+          "coords": [
+            2.04745,
+            48.781247
+          ],
+          "category": "park",
+          "arrive_at": "10:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese riesige Grünfläche, wo der Fluss Bièvre entspringt, genießen Sie die Atmosphäre und packen Sie ein leichtes Picknick für die Quellen ein.",
+            "hu": "Sétáljon végig ezen a hatalmas zöldterületen, ahol a Bièvre folyó ered, élvezze a békés légkört, és hozzon magával egy könnyű pikniket a források mellé.",
+            "ro": "Plimbați-vă prin acest spațiu verde vast unde izvorăște râul Bièvre, bucurându-vă de atmosfera pașnică, și aduceți un picnic ușor pentru a mânca lângă izvoare.",
+            "en": "Stroll through this vast green space where the Bièvre river originates, enjoying its peaceful atmosphere, and pack a light picnic to eat near the springs."
+          }
+        },
+        {
+          "name": {
+            "de": "Théâtre de Saint-Quentin-en-Yvelines",
+            "hu": "Théâtre de Saint-Quentin-en-Yvelines",
+            "ro": "Théâtre de Saint-Quentin-en-Yvelines",
+            "en": "Théâtre de Saint-Quentin-en-Yvelines"
+          },
+          "coords": [
+            2.042001,
+            48.783323
+          ],
+          "category": "cultural",
+          "arrive_at": "12:01",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur dieses Kulturzentrums, das für seine Aufführungen bekannt ist, und trinken Sie danach einen Kaffee auf dem Platz.",
+            "hu": "Csodálja meg ennek a kiemelkedő kulturális központnak az építészetét, amely előadásairól ismert, és igyon egy kávét a közeli téren a látogatás után.",
+            "ro": "Admirați arhitectura impresionantă a acestui centru cultural proeminent, cunoscut pentru spectacolele sale, și savurați o cafea în piața din apropiere după aceea.",
+            "en": "Take in the impressive architecture of this prominent cultural center, known for its vibrant performances, and grab a coffee at the nearby plaza afterwards."
+          }
+        },
+        {
+          "name": {
+            "de": "National Velodrome",
+            "hu": "National Velodrome",
+            "ro": "National Velodrome",
+            "en": "National Velodrome"
+          },
+          "coords": [
+            2.03587,
+            48.7893
+          ],
+          "category": "recreational",
+          "arrive_at": "13:05",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese erstklassige Freizeiteinrichtung für internationalen Bahnradsport, erleben Sie ihre schiere Größe und prüfen Sie offene Trainingseinheiten.",
+            "hu": "Fedezze fel ezt a nemzetközi pályakerékpározásra tervezett, világszínvonalú létesítményt, érezze át a méreteit, és ellenőrizze a nyílt edzéseket.",
+            "ro": "Descoperiți această facilitate recreativă de clasă mondială pentru ciclism pe pistă, simțiți amploarea ei, și verificați dacă sesiunile sunt deschise publicului.",
+            "en": "Discover this world-class recreational facility designed for international track cycling, experiencing its sheer scale, and check if track sessions are open."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort of Saint-Cyr",
+            "hu": "Fort of Saint-Cyr",
+            "ro": "Fort of Saint-Cyr",
+            "en": "Fort of Saint-Cyr"
+          },
+          "coords": [
+            2.03124,
+            48.79284
+          ],
+          "category": "historical",
+          "arrive_at": "14:08",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in dieser massiven Militärbefestigung aus dem 19. Jahrhundert, die das Erbe bewahrt, und tragen Sie bequeme Schuhe für das Gelände.",
+            "hu": "Lépjen vissza az időben ezen a hatalmas 19. századi katonai erődítményen, amely őrzi a francia örökséget, és viseljen kényelmes cipőt a terület bejárásához.",
+            "ro": "Întoarceți-vă în timp la această fortificație militară masivă din secolul 19, și purtați încălțăminte confortabilă pentru a explora terenurile sale extinse.",
+            "en": "Step back in time at this massive 19th-century military fortification preserving French heritage, and wear comfortable shoes for exploring its extensive grounds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie durch die Straßen, beginnend am ursprünglichen Dorfkern, und gleiten Sie in Richtung der modernen Seen. Die Mittagszeit bietet eine Fahrt durch den weitläufigen Parc des Sources de la Bièvre. Ihr Nachmittag ist auf beeindruckende Sehenswürdigkeiten ausgerichtet, Sie halten am Theater, bevor Sie das National Velodrome erreichen. Beenden Sie Ihre Fahrt am historischen Fort.",
+        "hu": "Tekerjen a hangulatos utcákon az eredeti faluközponttól, majd haladjon a modern tavak felé. A dél körüli órákban egy kellemes utazást élvezhet a Parc des Sources de la Bièvre kiterjedt területén. A délután folyamán lenyűgöző nevezetességek felé veszi az irányt, megállva a színháznál, mielőtt elérné a félelmetes Nemzeti Velodromot. Fejezze be kerékpártúráját a történelmi Erődnél.",
+        "ro": "Pedalați pe străzile fermecătoare pornind din centrul original al satului, apoi alunecați spre lacurile moderne. Prânzul vă aduce o plimbare plăcută prin vastul Parc des Sources de la Bièvre. După-amiaza se îndreaptă spre repere impresionante, oprindu-vă la teatru înainte de a ajunge la impresionantul Velodrom Național. Încheiați-vă plimbarea cu bicicleta la Fortul istoric din zonă.",
+        "en": "Pedal through the charming streets starting from the original village center at Église Saint-Martin, then glide towards the modern lakes. Midday features a pleasant ride through the expansive Parc des Sources de la Bièvre. Your afternoon gears up towards impressive landmarks, stopping by the theater before reaching the awe-inspiring National Velodrome. Conclude your ride at the historic Fort."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:33",
+      "total_km": 7.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Musée National de Port Royal des Champs",
+            "hu": "Musée National de Port Royal des Champs",
+            "ro": "Musée National de Port Royal des Champs",
+            "en": "Musée National de Port Royal des Champs"
+          },
+          "coords": [
+            2.015251,
+            48.747994
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in den Ruinen und im Museum in die intellektuelle Geschichte des Jansenismus ein und nehmen Sie sich viel Zeit, um das ruhige Waldgut zu erkunden.",
+            "hu": "Merüljön el a janzenizmus szellemi történelmében ezen az apátsági romon és múzeumban, és hagyjon elegendő időt a nyugodt erdős birtok felfedezésére.",
+            "ro": "Cufundați-vă în istoria intelectuală a jansenismului la aceste ruine de abație și muzeu, lăsând mult timp pentru a vă plimba prin proprietatea împădurită liniștită.",
+            "en": "Immerse yourself in the intellectual history of Jansenism at these serene abbey ruins and museum, leaving plenty of time to wander the tranquil wooded estate."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Martin",
+            "hu": "Église Saint-Martin",
+            "ro": "Église Saint-Martin",
+            "en": "Église Saint-Martin"
+          },
+          "coords": [
+            2.028558,
+            48.77071
+          ],
+          "category": "religious",
+          "arrive_at": "10:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historische Kirche, die den ursprünglichen Dorfkern darstellt, bewundern Sie die traditionelle Architektur und kommen Sie früh hierher.",
+            "hu": "Fedezze fel ezt a bájos történelmi templomot, amely az eredeti faluközpontot képviseli, csodálja meg építészetét, és érkezzen kora reggel a nyugalomért.",
+            "ro": "Explorați această biserică istorică ce reprezintă nucleul satului original, admirând arhitectura tradițională, și vizitați-o devreme pentru mai multă liniște.",
+            "en": "Explore this charming historic church representing the original village core, noting its traditional architecture, and visit early to avoid afternoon heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Pierre-du-Lac",
+            "hu": "Église Saint-Pierre-du-Lac",
+            "ro": "Église Saint-Pierre-du-Lac",
+            "en": "Église Saint-Pierre-du-Lac"
+          },
+          "coords": [
+            2.046554,
+            48.77031
+          ],
+          "category": "religious",
+          "arrive_at": "11:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie das markante moderne Design dieser Kirche am See, ein Symbol für die Entwicklung der neuen Stadt, und machen Sie Fotos von der Uferpromenade.",
+            "hu": "Csodálja meg ennek a tóparti templomnak a lenyűgöző modern dizájnját, amely az újváros fejlődésének szimbóluma, és készítsen nagyszerű fotókat a vízpartról.",
+            "ro": "Admirați designul modern impresionant al acestei biserici de pe malul lacului, un simbol al dezvoltării noului oraș, și faceți fotografii de pe faleză.",
+            "en": "Admire the striking modern design of this lakeside church, an iconic symbol of the new town's development, and capture photos from the nearby waterfront."
+          }
+        },
+        {
+          "name": {
+            "de": "Parc des Sources de la Bièvre",
+            "hu": "Parc des Sources de la Bièvre",
+            "ro": "Parc des Sources de la Bièvre",
+            "en": "Parc des Sources de la Bièvre"
+          },
+          "coords": [
+            2.04745,
+            48.781247
+          ],
+          "category": "park",
+          "arrive_at": "12:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diese riesige Grünfläche, wo der Fluss Bièvre entspringt, genießen Sie die Atmosphäre und packen Sie ein leichtes Picknick für die Quellen ein.",
+            "hu": "Sétáljon végig ezen a hatalmas zöldterületen, ahol a Bièvre folyó ered, élvezze a békés légkört, és hozzon magával egy könnyű pikniket a források mellé.",
+            "ro": "Plimbați-vă prin acest spațiu verde vast unde izvorăște râul Bièvre, bucurându-vă de atmosfera pașnică, și aduceți un picnic ușor pentru a mânca lângă izvoare.",
+            "en": "Stroll through this vast green space where the Bièvre river originates, enjoying its peaceful atmosphere, and pack a light picnic to eat near the springs."
+          }
+        },
+        {
+          "name": {
+            "de": "Théâtre de Saint-Quentin-en-Yvelines",
+            "hu": "Théâtre de Saint-Quentin-en-Yvelines",
+            "ro": "Théâtre de Saint-Quentin-en-Yvelines",
+            "en": "Théâtre de Saint-Quentin-en-Yvelines"
+          },
+          "coords": [
+            2.042001,
+            48.783323
+          ],
+          "category": "cultural",
+          "arrive_at": "13:39",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur dieses Kulturzentrums, das für seine Aufführungen bekannt ist, und trinken Sie danach einen Kaffee auf dem Platz.",
+            "hu": "Csodálja meg ennek a kiemelkedő kulturális központnak az építészetét, amely előadásairól ismert, és igyon egy kávét a közeli téren a látogatás után.",
+            "ro": "Admirați arhitectura impresionantă a acestui centru cultural proeminent, cunoscut pentru spectacolele sale, și savurați o cafea în piața din apropiere după aceea.",
+            "en": "Take in the impressive architecture of this prominent cultural center, known for its vibrant performances, and grab a coffee at the nearby plaza afterwards."
+          }
+        },
+        {
+          "name": {
+            "de": "National Velodrome",
+            "hu": "National Velodrome",
+            "ro": "National Velodrome",
+            "en": "National Velodrome"
+          },
+          "coords": [
+            2.03587,
+            48.7893
+          ],
+          "category": "recreational",
+          "arrive_at": "14:41",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese erstklassige Freizeiteinrichtung für internationalen Bahnradsport, erleben Sie ihre schiere Größe und prüfen Sie offene Trainingseinheiten.",
+            "hu": "Fedezze fel ezt a nemzetközi pályakerékpározásra tervezett, világszínvonalú létesítményt, érezze át a méreteit, és ellenőrizze a nyílt edzéseket.",
+            "ro": "Descoperiți această facilitate recreativă de clasă mondială pentru ciclism pe pistă, simțiți amploarea ei, și verificați dacă sesiunile sunt deschise publicului.",
+            "en": "Discover this world-class recreational facility designed for international track cycling, experiencing its sheer scale, and check if track sessions are open."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort of Saint-Cyr",
+            "hu": "Fort of Saint-Cyr",
+            "ro": "Fort of Saint-Cyr",
+            "en": "Fort of Saint-Cyr"
+          },
+          "coords": [
+            2.03124,
+            48.79284
+          ],
+          "category": "historical",
+          "arrive_at": "15:43",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in dieser massiven Militärbefestigung aus dem 19. Jahrhundert, die das Erbe bewahrt, und tragen Sie bequeme Schuhe für das Gelände.",
+            "hu": "Lépjen vissza az időben ezen a hatalmas 19. századi katonai erődítményen, amely őrzi a francia örökséget, és viseljen kényelmes cipőt a terület bejárásához.",
+            "ro": "Întoarceți-vă în timp la această fortificație militară masivă din secolul 19, și purtați încălțăminte confortabilă pentru a explora terenurile sale extinse.",
+            "en": "Step back in time at this massive 19th-century military fortification preserving French heritage, and wear comfortable shoes for exploring its extensive grounds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Route weit im Süden beim Musée National de Port Royal des Champs und tauchen Sie in die Geschichte ein. Fahren Sie nach Norden, um die Entwicklung von Montigny zu verfolgen, von der alten Kirche bis zur markanten Saint-Pierre-du-Lac. Nach einem Spaziergang im Park nutzen Sie den Nachmittag, um monumentale Bauwerke zu bestaunen, und enden grandios am Fort de Saint-Cyr.",
+        "hu": "Kezdje autós útját messze délen, a lenyűgöző Musée National de Port Royal des Champs-ban, és merüljön el a történelemben. Vezessen vissza északra, hogy nyomon kövesse Montigny fejlődését a régi templomtól a feltűnő Saint-Pierre-du-Lac-ig. A parkban tett séta után a délutánt a monumentális építmények megcsodálására fordítsa, majd fejezze be útját nagyszerűen a Saint-Cyr erődnél.",
+        "ro": "Începeți itinerarul auto în sud la fascinantul Musée National de Port Royal des Champs. Conduceți spre nord pentru a urmări evoluția orașului Montigny, de la vechea biserică la impresionanta Saint-Pierre-du-Lac. După o plimbare prin parc, folosiți după-amiaza pentru a vă minuna de structurile monumentale de mari dimensiuni, terminând spectaculos la Fortul militar Saint-Cyr.",
+        "en": "Start your driving itinerary far south at the evocative Musée National de Port Royal des Champs, delving into deep regional history. Drive back north to trace Montigny's evolution from the old Église Saint-Martin to the striking Saint-Pierre-du-Lac. After a serene stroll in the Bièvre springs park, use the afternoon to marvel at monumental structures, ending grandly at the Fort of Saint-Cyr."
+      }
+    }
+  }
+}

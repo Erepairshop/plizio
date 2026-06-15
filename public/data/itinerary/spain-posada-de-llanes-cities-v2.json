@@ -1,0 +1,612 @@
+{
+  "city_id": "spain-posada-de-llanes-cities-v2",
+  "anchor": {
+    "name": "Posada de Llanes",
+    "coords": [
+      -4.86305,
+      43.42413
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:38",
+      "total_km": 5.4,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Monasterio San Antolín de Bedón",
+            "hu": "Monasterio San Antolín de Bedón",
+            "ro": "Monasterio San Antolín de Bedón",
+            "en": "Monasterio San Antolín de Bedón"
+          },
+          "coords": [
+            -4.869372,
+            43.437862
+          ],
+          "category": "historical",
+          "arrive_at": "09:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante romanische Architektur dieser mittelalterlichen Klosterruine inmitten üppiger Natur, aber tragen Sie festes Schuhwerk für die unebenen Wege.",
+            "hu": "Csodálja meg a buja természettel körülvett romos középkori kolostor lenyűgöző román kori építészetét, de viseljen masszív cipőt az egyenetlen talaj miatt.",
+            "ro": "Admirați arhitectura romanică impresionantă a acestei mănăstiri medievale în ruină, înconjurată de natură, dar purtați încălțăminte robustă pentru terenul denivelat.",
+            "en": "Admire the striking Romanesque architecture of this ruined medieval monastery surrounded by lush nature, but wear sturdy shoes as the surrounding grounds can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de San Antolín",
+            "hu": "Mirador de San Antolín",
+            "ro": "Mirador de San Antolín",
+            "en": "Mirador de San Antolín"
+          },
+          "coords": [
+            -4.86614,
+            43.436234
+          ],
+          "category": "natural",
+          "arrive_at": "10:59",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem erhöhten Aussichtspunkt den weiten Panoramablick auf die schroffe asturische Küste und bringen Sie ein Fernglas mit, um Seevögel zu beobachten.",
+            "hu": "Élvezze a zord asztúriai partvidékre nyíló lenyűgöző panorámát ebből a magaslati kilátóból, és hozzon távcsövet a hullámokba merülő tengeri madarak megfigyeléséhez.",
+            "ro": "Bucurați-vă de priveliștile panoramice vaste asupra coastei asturiene accidentate de la acest punct de belvedere și aduceți binoclul pentru a observa păsările marine.",
+            "en": "Enjoy sweeping panoramic views of the rugged Asturian coastline from this elevated viewpoint, and bring binoculars to spot seabirds diving into the crashing waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador Playa San Antolín",
+            "hu": "Mirador Playa San Antolín",
+            "ro": "Mirador Playa San Antolín",
+            "en": "Mirador Playa San Antolín"
+          },
+          "coords": [
+            -4.874615,
+            43.441374
+          ],
+          "category": "natural",
+          "arrive_at": "11:38",
+          "stay_min": 25,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Blicken Sie von dieser Klippe auf den weitläufigen Strand San Antolín und kommen Sie früh am Morgen, um das perfekte weiche Licht für Ihre Fotos einzufangen.",
+            "hu": "Tekintsen le a hatalmas San Antolín strandra erről a lenyűgöző tengerparti szikláról, és érkezzen kora reggel, hogy megörökítse a tökéletes lágy fényeket a fotóin.",
+            "ro": "Priviți deasupra întinsei plaje San Antolín de pe această stâncă spectaculoasă, ajungând dimineața devreme pentru a capta lumina perfectă pentru fotografiile dvs.",
+            "en": "Gaze out over the expansive San Antolín beach from this stunning coastal cliff, arriving early in the morning to capture the perfect soft light for your photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de San Antolín de Bedón",
+            "hu": "Playa de San Antolín de Bedón",
+            "ro": "Playa de San Antolín de Bedón",
+            "en": "Playa de San Antolín de Bedón"
+          },
+          "coords": [
+            -4.869541,
+            43.442571
+          ],
+          "category": "recreational",
+          "arrive_at": "12:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie am längsten Sandstrand der Region Llanes entlang, um die mächtige Atlantikbrandung zu spüren, aber seien Sie wegen der starken Strömungen vorsichtig.",
+            "hu": "Sétáljon végig a Llanes régió leghosszabb homokos strandján, hogy érezze az óceán hullámait, de úszásnál legyen óvatos a kifejezetten erős áramlatok miatt.",
+            "ro": "Plimbați-vă pe cea mai lungă plajă din regiunea Llanes pentru a simți forța valurilor atlantice, dar fiți precauți la înot, deoarece curenții sunt foarte puternici.",
+            "en": "Walk along the longest sand beach in the Llanes region to feel the powerful Atlantic surf, but be cautious with swimming as the undercurrents here are notably strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Pestaña",
+            "hu": "Playa de Pestaña",
+            "ro": "Playa de Pestaña",
+            "en": "Playa de Pestaña"
+          },
+          "coords": [
+            -4.860404,
+            43.444444
+          ],
+          "category": "recreational",
+          "arrive_at": "13:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese versteckte, ruhige Bucht mit steilen Klippen für einen perfekten Moment der Entspannung und packen Sie Snacks ein, da es keine Einrichtungen gibt.",
+            "hu": "Fedezze fel ezt a meredek sziklák mögött megbúvó, nyugodt öblöt a tökéletes kikapcsolódásért, és hozzon saját nasit, mivel a közelben nincsenek szolgáltatások.",
+            "ro": "Descoperiți acest golf ascuns și liniștit, mărginit de stânci abrupte pentru relaxare totală, și aduceți propriile gustări deoarece nu există facilități în apropiere.",
+            "en": "Discover this hidden, tranquil cove backed by steep cliffs for a perfect moment of relaxation, and pack your own snacks as there are no tourist facilities nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Portacos",
+            "hu": "Portacos",
+            "ro": "Portacos",
+            "en": "Portacos"
+          },
+          "coords": [
+            -4.855102,
+            43.443725
+          ],
+          "category": "recreational",
+          "arrive_at": "15:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Felsvorsprünge und natürlichen Becken von Portacos bei Ebbe und tragen Sie Badeschuhe, um Ihre Füße vor Seepocken zu schützen.",
+            "hu": "Fedezze fel Portacos lenyűgöző sziklás kiemelkedéseit és medencéit apálykor, és viseljen vízicipőt, hogy megvédje lábát az éles tengeri makkoktól.",
+            "ro": "Explorați aflorimentele stâncoase fascinante și piscinele naturale din Portacos în timpul refluxului, purtând încălțăminte de apă pentru a vă proteja de scoici.",
+            "en": "Explore the fascinating rocky outcrops and natural pools of Portacos during low tide, wearing water shoes to protect your feet from the sharp coastal barnacles."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de Torimbia",
+            "hu": "Mirador de Torimbia",
+            "ro": "Mirador de Torimbia",
+            "en": "Mirador de Torimbia"
+          },
+          "coords": [
+            -4.849643,
+            43.440232
+          ],
+          "category": "natural",
+          "arrive_at": "16:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die atemberaubende, muschelförmige Schönheit des Strandes von Torimbia von oben und parken Sie auf dem oberen Parkplatz für einen leichten Zugang.",
+            "hu": "Gyönyörködjön fentről a Torimbia strand lélegzetelállító, kagyló alakú szépségében, és parkoljon a felső parkolóban, hogy könnyen elérje ezt a látványos fotópontot.",
+            "ro": "Admirați de sus frumusețea uluitoare în formă de scoică a plajei Torimbia, parcând în lotul superior desemnat pentru a accesa ușor acest punct fotografic.",
+            "en": "Take in the breathtaking, shell-shaped beauty of Torimbia beach from above, parking at the designated upper lot to easily access this spectacular photographic vantage point."
+          }
+        },
+        {
+          "name": {
+            "de": "Torimbia",
+            "hu": "Torimbia",
+            "ro": "Torimbia",
+            "en": "Torimbia"
+          },
+          "coords": [
+            -4.847855,
+            43.441833
+          ],
+          "category": "natural",
+          "arrive_at": "16:53",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie auf dem goldenen Sand dieses berühmten unberührten Strandes und denken Sie daran, dass er naturistenfreundlich ist und einen steilen Abstieg erfordert.",
+            "hu": "Pihenjen a híres érintetlen strand tiszta aranyhomokján, szem előtt tartva, hogy hagyományosan naturista barát, és meredek túra vezet le a főútról.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei celebre plaje virgine, având în vedere că este frecventată de naturiști și necesită o coborâre abruptă de la drum.",
+            "en": "Relax on the pristine golden sands of this famous unspoiled beach, keeping in mind that it is traditionally naturist-friendly and requires a steep hike down from the road."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am Kloster San Antolín und führt zu den ersten Meeresblicken am Mirador de San Antolín.\nMittags spazieren Sie über den weiten Sand der Playa de San Antolín und finden dann Ruhe an der versteckten Playa de Pestaña.\nNachmittags geht es über die rauen Gezeitentümpel von Portacos hinauf zum atemberaubenden Mirador de Torimbia.\nDer Abend endet an den goldenen Stränden der Torimbia, wo Sie einen herrlichen Sonnenuntergang an der Küste genießen können.",
+        "hu": "A reggel a San Antolín kolostor romjainál indul, majd a Mirador de San Antolín lenyűgöző óceáni panorámája következik.\nDélben sétáljon a Playa de San Antolín homokján, majd találjon nyugalmat a rejtett Playa de Pestaña öblében.\nDélután a Portacos sziklás medencéin át a Mirador de Torimbia kilátóhoz érkezik.\nAz este a Torimbia strand aranyhomokján ér véget a fenséges naplementével.",
+        "ro": "Dimineața începe la ruinele Mănăstirii San Antolín, urmate de primele priveliști oceanice de la Mirador de San Antolín.\nLa prânz, plimbați-vă pe nisipurile de la Playa de San Antolín, apoi găsiți liniștea la Playa de Pestaña.\nDupă-amiaza vă poartă prin bazinele stâncoase din Portacos și sus la Mirador de Torimbia.\nSeara se încheie coborând pe plaja aurie Torimbia la apus.",
+        "en": "Morning begins with a walk to the ruins of Monasterio San Antolín, followed by the first sweeping ocean vistas at Mirador de San Antolín.\nBy midday, stroll along the expansive sands of Playa de San Antolín, then find tranquility at the hidden Playa de Pestaña.\nAfternoon leads you across the rugged tide pools of Portacos and up to the breathtaking Mirador de Torimbia.\nEvening concludes as you descend onto the golden sands of Torimbia beach, enjoying a magnificent coastal sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:10",
+      "total_km": 7.3,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Iglesia de Nuestra Señora de los Dolores",
+            "hu": "Iglesia de Nuestra Señora de los Dolores",
+            "ro": "Iglesia de Nuestra Señora de los Dolores",
+            "en": "Iglesia de Nuestra Señora de los Dolores"
+          },
+          "coords": [
+            -4.835946,
+            43.434304
+          ],
+          "category": "religious",
+          "arrive_at": "09:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Fotografieren Sie diese neoklassizistische Kirche an der Bucht Ría de Barro bei Flut, um ihre makellose Spiegelung auf der ruhigen Wasseroberfläche einzufangen.",
+            "hu": "Fényképezze le ezt a Ría de Barro öböl partján álló lenyűgöző neoklasszicista templomot dagálykor, hogy megörökítse hibátlan tükröződését a nyugodt vizen.",
+            "ro": "Fotografiați această biserică neoclasică uimitoare situată lângă golful Ría de Barro la maree înaltă, pentru a capta reflexia sa perfectă pe suprafața apei.",
+            "en": "Photograph this stunning neoclassical church poised beautifully by the Ría de Barro inlet at high tide to capture its flawless reflection on the calm water surface."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de Torimbia",
+            "hu": "Mirador de Torimbia",
+            "ro": "Mirador de Torimbia",
+            "en": "Mirador de Torimbia"
+          },
+          "coords": [
+            -4.849643,
+            43.440232
+          ],
+          "category": "natural",
+          "arrive_at": "10:12",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die atemberaubende, muschelförmige Schönheit des Strandes von Torimbia von oben und parken Sie auf dem oberen Parkplatz für einen leichten Zugang.",
+            "hu": "Gyönyörködjön fentről a Torimbia strand lélegzetelállító, kagyló alakú szépségében, és parkoljon a felső parkolóban, hogy könnyen elérje ezt a látványos fotópontot.",
+            "ro": "Admirați de sus frumusețea uluitoare în formă de scoică a plajei Torimbia, parcând în lotul superior desemnat pentru a accesa ușor acest punct fotografic.",
+            "en": "Take in the breathtaking, shell-shaped beauty of Torimbia beach from above, parking at the designated upper lot to easily access this spectacular photographic vantage point."
+          }
+        },
+        {
+          "name": {
+            "de": "Torimbia",
+            "hu": "Torimbia",
+            "ro": "Torimbia",
+            "en": "Torimbia"
+          },
+          "coords": [
+            -4.847855,
+            43.441833
+          ],
+          "category": "natural",
+          "arrive_at": "10:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie auf dem goldenen Sand dieses berühmten unberührten Strandes und denken Sie daran, dass er naturistenfreundlich ist und einen steilen Abstieg erfordert.",
+            "hu": "Pihenjen a híres érintetlen strand tiszta aranyhomokján, szem előtt tartva, hogy hagyományosan naturista barát, és meredek túra vezet le a főútról.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei celebre plaje virgine, având în vedere că este frecventată de naturiști și necesită o coborâre abruptă de la drum.",
+            "en": "Relax on the pristine golden sands of this famous unspoiled beach, keeping in mind that it is traditionally naturist-friendly and requires a steep hike down from the road."
+          }
+        },
+        {
+          "name": {
+            "de": "Portacos",
+            "hu": "Portacos",
+            "ro": "Portacos",
+            "en": "Portacos"
+          },
+          "coords": [
+            -4.855102,
+            43.443725
+          ],
+          "category": "recreational",
+          "arrive_at": "11:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Felsvorsprünge und natürlichen Becken von Portacos bei Ebbe und tragen Sie Badeschuhe, um Ihre Füße vor Seepocken zu schützen.",
+            "hu": "Fedezze fel Portacos lenyűgöző sziklás kiemelkedéseit és medencéit apálykor, és viseljen vízicipőt, hogy megvédje lábát az éles tengeri makkoktól.",
+            "ro": "Explorați aflorimentele stâncoase fascinante și piscinele naturale din Portacos în timpul refluxului, purtând încălțăminte de apă pentru a vă proteja de scoici.",
+            "en": "Explore the fascinating rocky outcrops and natural pools of Portacos during low tide, wearing water shoes to protect your feet from the sharp coastal barnacles."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Pestaña",
+            "hu": "Playa de Pestaña",
+            "ro": "Playa de Pestaña",
+            "en": "Playa de Pestaña"
+          },
+          "coords": [
+            -4.860404,
+            43.444444
+          ],
+          "category": "recreational",
+          "arrive_at": "13:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese versteckte, ruhige Bucht mit steilen Klippen für einen perfekten Moment der Entspannung und packen Sie Snacks ein, da es keine Einrichtungen gibt.",
+            "hu": "Fedezze fel ezt a meredek sziklák mögött megbúvó, nyugodt öblöt a tökéletes kikapcsolódásért, és hozzon saját nasit, mivel a közelben nincsenek szolgáltatások.",
+            "ro": "Descoperiți acest golf ascuns și liniștit, mărginit de stânci abrupte pentru relaxare totală, și aduceți propriile gustări deoarece nu există facilități în apropiere.",
+            "en": "Discover this hidden, tranquil cove backed by steep cliffs for a perfect moment of relaxation, and pack your own snacks as there are no tourist facilities nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de San Antolín de Bedón",
+            "hu": "Playa de San Antolín de Bedón",
+            "ro": "Playa de San Antolín de Bedón",
+            "en": "Playa de San Antolín de Bedón"
+          },
+          "coords": [
+            -4.869541,
+            43.442571
+          ],
+          "category": "recreational",
+          "arrive_at": "14:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie am längsten Sandstrand der Region Llanes entlang, um die mächtige Atlantikbrandung zu spüren, aber seien Sie wegen der starken Strömungen vorsichtig.",
+            "hu": "Sétáljon végig a Llanes régió leghosszabb homokos strandján, hogy érezze az óceán hullámait, de úszásnál legyen óvatos a kifejezetten erős áramlatok miatt.",
+            "ro": "Plimbați-vă pe cea mai lungă plajă din regiunea Llanes pentru a simți forța valurilor atlantice, dar fiți precauți la înot, deoarece curenții sunt foarte puternici.",
+            "en": "Walk along the longest sand beach in the Llanes region to feel the powerful Atlantic surf, but be cautious with swimming as the undercurrents here are notably strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador Playa San Antolín",
+            "hu": "Mirador Playa San Antolín",
+            "ro": "Mirador Playa San Antolín",
+            "en": "Mirador Playa San Antolín"
+          },
+          "coords": [
+            -4.874615,
+            43.441374
+          ],
+          "category": "natural",
+          "arrive_at": "15:52",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Blicken Sie von dieser Klippe auf den weitläufigen Strand San Antolín und kommen Sie früh am Morgen, um das perfekte weiche Licht für Ihre Fotos einzufangen.",
+            "hu": "Tekintsen le a hatalmas San Antolín strandra erről a lenyűgöző tengerparti szikláról, és érkezzen kora reggel, hogy megörökítse a tökéletes lágy fényeket a fotóin.",
+            "ro": "Priviți deasupra întinsei plaje San Antolín de pe această stâncă spectaculoasă, ajungând dimineața devreme pentru a capta lumina perfectă pentru fotografiile dvs.",
+            "en": "Gaze out over the expansive San Antolín beach from this stunning coastal cliff, arriving early in the morning to capture the perfect soft light for your photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Monasterio San Antolín de Bedón",
+            "hu": "Monasterio San Antolín de Bedón",
+            "ro": "Monasterio San Antolín de Bedón",
+            "en": "Monasterio San Antolín de Bedón"
+          },
+          "coords": [
+            -4.869372,
+            43.437862
+          ],
+          "category": "historical",
+          "arrive_at": "16:20",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante romanische Architektur dieser mittelalterlichen Klosterruine inmitten üppiger Natur, aber tragen Sie festes Schuhwerk für die unebenen Wege.",
+            "hu": "Csodálja meg a buja természettel körülvett romos középkori kolostor lenyűgöző román kori építészetét, de viseljen masszív cipőt az egyenetlen talaj miatt.",
+            "ro": "Admirați arhitectura romanică impresionantă a acestei mănăstiri medievale în ruină, înconjurată de natură, dar purtați încălțăminte robustă pentru terenul denivelat.",
+            "en": "Admire the striking Romanesque architecture of this ruined medieval monastery surrounded by lush nature, but wear sturdy shoes as the surrounding grounds can be uneven."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einer Fahrt zur Iglesia de Dolores und atemberaubenden Ausblicken am Mirador de Torimbia.\nMittags erreichen Sie den muschelförmigen Strand von Torimbia und radeln zu den faszinierenden Felsbuchten von Portacos.\nNachmittags fahren Sie vorbei an der Playa de Pestaña zu den weiten, wellengepeitschten Ufern der Playa de San Antolín.\nDer Abend endet mit Sonnenuntergang am Mirador San Antolín und einem Stopp an den Klosterruinen.",
+        "hu": "A reggel az Iglesia de Dolores felé indul, majd a tengerpartra tekerve a Mirador de Torimbia kilátása fogadja.\nDélben a kagyló alakú Torimbia strandon pihen, majd a Portacos lenyűgöző sziklás öbleihez teker.\nDélután a Playa de Pestaña csendes partja és a Playa de San Antolín hatalmas homokos partszakasza várja.\nAz este a Mirador San Antolín naplementéjével és a kolostorromokkal zárul.",
+        "ro": "Dimineața începe pedalând spre Iglesia de Dolores, apoi spre coastă pentru priveliștile uimitoare de la Mirador de Torimbia.\nLa prânz ajungeți la plaja Torimbia, urmată de o plimbare spre golfurile stâncoase fascinante din Portacos.\nDupă-amiaza treceți de Playa de Pestaña spre țărmurile vaste ale Playa de San Antolín.\nSeara se încheie cu un apus la Mirador San Antolín și o oprire la ruinele mănăstirii.",
+        "en": "Morning starts by pedaling to the picturesque Iglesia de Dolores, then riding to the coast for stunning views at Mirador de Torimbia.\nMidday brings you down to the shell-shaped Torimbia beach, followed by a ride to the fascinating rocky coves of Portacos.\nAfternoon takes you past the quiet Playa de Pestaña to the expansive, wave-swept shores of Playa de San Antolín.\nEvening concludes with sunset colors at Mirador Playa San Antolín and a final stop at the ancient Monasterio ruins."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:45",
+      "total_km": 6.9,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Monasterio San Antolín de Bedón",
+            "hu": "Monasterio San Antolín de Bedón",
+            "ro": "Monasterio San Antolín de Bedón",
+            "en": "Monasterio San Antolín de Bedón"
+          },
+          "coords": [
+            -4.869372,
+            43.437862
+          ],
+          "category": "historical",
+          "arrive_at": "09:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante romanische Architektur dieser mittelalterlichen Klosterruine inmitten üppiger Natur, aber tragen Sie festes Schuhwerk für die unebenen Wege.",
+            "hu": "Csodálja meg a buja természettel körülvett romos középkori kolostor lenyűgöző román kori építészetét, de viseljen masszív cipőt az egyenetlen talaj miatt.",
+            "ro": "Admirați arhitectura romanică impresionantă a acestei mănăstiri medievale în ruină, înconjurată de natură, dar purtați încălțăminte robustă pentru terenul denivelat.",
+            "en": "Admire the striking Romanesque architecture of this ruined medieval monastery surrounded by lush nature, but wear sturdy shoes as the surrounding grounds can be uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de San Antolín",
+            "hu": "Mirador de San Antolín",
+            "ro": "Mirador de San Antolín",
+            "en": "Mirador de San Antolín"
+          },
+          "coords": [
+            -4.86614,
+            43.436234
+          ],
+          "category": "natural",
+          "arrive_at": "10:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem erhöhten Aussichtspunkt den weiten Panoramablick auf die schroffe asturische Küste und bringen Sie ein Fernglas mit, um Seevögel zu beobachten.",
+            "hu": "Élvezze a zord asztúriai partvidékre nyíló lenyűgöző panorámát ebből a magaslati kilátóból, és hozzon távcsövet a hullámokba merülő tengeri madarak megfigyeléséhez.",
+            "ro": "Bucurați-vă de priveliștile panoramice vaste asupra coastei asturiene accidentate de la acest punct de belvedere și aduceți binoclul pentru a observa păsările marine.",
+            "en": "Enjoy sweeping panoramic views of the rugged Asturian coastline from this elevated viewpoint, and bring binoculars to spot seabirds diving into the crashing waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de San Antolín de Bedón",
+            "hu": "Playa de San Antolín de Bedón",
+            "ro": "Playa de San Antolín de Bedón",
+            "en": "Playa de San Antolín de Bedón"
+          },
+          "coords": [
+            -4.869541,
+            43.442571
+          ],
+          "category": "recreational",
+          "arrive_at": "11:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie am längsten Sandstrand der Region Llanes entlang, um die mächtige Atlantikbrandung zu spüren, aber seien Sie wegen der starken Strömungen vorsichtig.",
+            "hu": "Sétáljon végig a Llanes régió leghosszabb homokos strandján, hogy érezze az óceán hullámait, de úszásnál legyen óvatos a kifejezetten erős áramlatok miatt.",
+            "ro": "Plimbați-vă pe cea mai lungă plajă din regiunea Llanes pentru a simți forța valurilor atlantice, dar fiți precauți la înot, deoarece curenții sunt foarte puternici.",
+            "en": "Walk along the longest sand beach in the Llanes region to feel the powerful Atlantic surf, but be cautious with swimming as the undercurrents here are notably strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Pestaña",
+            "hu": "Playa de Pestaña",
+            "ro": "Playa de Pestaña",
+            "en": "Playa de Pestaña"
+          },
+          "coords": [
+            -4.860404,
+            43.444444
+          ],
+          "category": "recreational",
+          "arrive_at": "12:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese versteckte, ruhige Bucht mit steilen Klippen für einen perfekten Moment der Entspannung und packen Sie Snacks ein, da es keine Einrichtungen gibt.",
+            "hu": "Fedezze fel ezt a meredek sziklák mögött megbúvó, nyugodt öblöt a tökéletes kikapcsolódásért, és hozzon saját nasit, mivel a közelben nincsenek szolgáltatások.",
+            "ro": "Descoperiți acest golf ascuns și liniștit, mărginit de stânci abrupte pentru relaxare totală, și aduceți propriile gustări deoarece nu există facilități în apropiere.",
+            "en": "Discover this hidden, tranquil cove backed by steep cliffs for a perfect moment of relaxation, and pack your own snacks as there are no tourist facilities nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Portacos",
+            "hu": "Portacos",
+            "ro": "Portacos",
+            "en": "Portacos"
+          },
+          "coords": [
+            -4.855102,
+            43.443725
+          ],
+          "category": "recreational",
+          "arrive_at": "13:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Felsvorsprünge und natürlichen Becken von Portacos bei Ebbe und tragen Sie Badeschuhe, um Ihre Füße vor Seepocken zu schützen.",
+            "hu": "Fedezze fel Portacos lenyűgöző sziklás kiemelkedéseit és medencéit apálykor, és viseljen vízicipőt, hogy megvédje lábát az éles tengeri makkoktól.",
+            "ro": "Explorați aflorimentele stâncoase fascinante și piscinele naturale din Portacos în timpul refluxului, purtând încălțăminte de apă pentru a vă proteja de scoici.",
+            "en": "Explore the fascinating rocky outcrops and natural pools of Portacos during low tide, wearing water shoes to protect your feet from the sharp coastal barnacles."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de Torimbia",
+            "hu": "Mirador de Torimbia",
+            "ro": "Mirador de Torimbia",
+            "en": "Mirador de Torimbia"
+          },
+          "coords": [
+            -4.849643,
+            43.440232
+          ],
+          "category": "natural",
+          "arrive_at": "14:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die atemberaubende, muschelförmige Schönheit des Strandes von Torimbia von oben und parken Sie auf dem oberen Parkplatz für einen leichten Zugang.",
+            "hu": "Gyönyörködjön fentről a Torimbia strand lélegzetelállító, kagyló alakú szépségében, és parkoljon a felső parkolóban, hogy könnyen elérje ezt a látványos fotópontot.",
+            "ro": "Admirați de sus frumusețea uluitoare în formă de scoică a plajei Torimbia, parcând în lotul superior desemnat pentru a accesa ușor acest punct fotografic.",
+            "en": "Take in the breathtaking, shell-shaped beauty of Torimbia beach from above, parking at the designated upper lot to easily access this spectacular photographic vantage point."
+          }
+        },
+        {
+          "name": {
+            "de": "Torimbia",
+            "hu": "Torimbia",
+            "ro": "Torimbia",
+            "en": "Torimbia"
+          },
+          "coords": [
+            -4.847855,
+            43.441833
+          ],
+          "category": "natural",
+          "arrive_at": "15:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie auf dem goldenen Sand dieses berühmten unberührten Strandes und denken Sie daran, dass er naturistenfreundlich ist und einen steilen Abstieg erfordert.",
+            "hu": "Pihenjen a híres érintetlen strand tiszta aranyhomokján, szem előtt tartva, hogy hagyományosan naturista barát, és meredek túra vezet le a főútról.",
+            "ro": "Relaxați-vă pe nisipul auriu al acestei celebre plaje virgine, având în vedere că este frecventată de naturiști și necesită o coborâre abruptă de la drum.",
+            "en": "Relax on the pristine golden sands of this famous unspoiled beach, keeping in mind that it is traditionally naturist-friendly and requires a steep hike down from the road."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de Nuestra Señora de los Dolores",
+            "hu": "Iglesia de Nuestra Señora de los Dolores",
+            "ro": "Iglesia de Nuestra Señora de los Dolores",
+            "en": "Iglesia de Nuestra Señora de los Dolores"
+          },
+          "coords": [
+            -4.835946,
+            43.434304
+          ],
+          "category": "religious",
+          "arrive_at": "16:35",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fotografieren Sie diese neoklassizistische Kirche an der Bucht Ría de Barro bei Flut, um ihre makellose Spiegelung auf der ruhigen Wasseroberfläche einzufangen.",
+            "hu": "Fényképezze le ezt a Ría de Barro öböl partján álló lenyűgöző neoklasszicista templomot dagálykor, hogy megörökítse hibátlan tükröződését a nyugodt vizen.",
+            "ro": "Fotografiați această biserică neoclasică uimitoare situată lângă golful Ría de Barro la maree înaltă, pentru a capta reflexia sa perfectă pe suprafața apei.",
+            "en": "Photograph this stunning neoclassical church poised beautifully by the Ría de Barro inlet at high tide to capture its flawless reflection on the calm water surface."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am alten Kloster und den spektakulären Küstenpanoramen am Mirador de San Antolín.\nMittags spazieren Sie über den langen Sand der Playa de San Antolín und entspannen an der geschützten Playa de Pestaña.\nNachmittags folgen kurze Stopps an den Felsen von Portacos und dem Aussichtspunkt Mirador de Torimbia.\nDer Abend endet am unberührten Torimbia-Strand und führt im Zwielicht zur Iglesia de Dolores.",
+        "hu": "A reggel a kolostorromokhoz és a Mirador de San Antolín lenyűgöző parti panorámáihoz vezet.\nDélben a Playa de San Antolín hosszú homokján sétál, és a védett Playa de Pestaña öblében pihen.\nDélután gyors megállók következnek Portacos szikláinál és a magas Mirador de Torimbia kilátónál.\nAz este a Torimbia érintetlen partján zárul, mielőtt szürkületkor elhajtana az Iglesia de Dolores felé.",
+        "ro": "Dimineața începe cu un drum spre ruinele mănăstirii, urmate de panorame de coastă spectaculoase la Mirador de San Antolín.\nPrânzul este petrecut pe nisipurile de la Playa de San Antolín și relaxându-vă la plaja adăpostită Pestaña.\nDupă-amiaza aduce opriri rapide la formațiunile din Portacos și la punctul de belvedere Torimbia.\nSeara se termină pe plaja Torimbia, înainte de un drum la amurg spre Iglesia de Dolores.",
+        "en": "Morning kicks off with a short drive to the ancient Monasterio ruins, followed by spectacular coastal panoramas at Mirador de San Antolín.\nMidday is spent walking the long sands of Playa de San Antolín and relaxing at the perfectly sheltered Playa de Pestaña.\nAfternoon brings quick scenic stops at the rocky formations of Portacos and the towering viewpoint of Mirador de Torimbia.\nEvening ends down on the pristine Torimbia beach, before a twilight drive to the beautiful Iglesia de Dolores."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-gardone-riviera-cities-v2",
+  "anchor": {
+    "name": "Gardone Riviera",
+    "coords": [
+      10.567562,
+      45.620684
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:41",
+      "total_km": 1.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Torre San Marco",
+            "hu": "Torre San Marco",
+            "ro": "Torre San Marco",
+            "en": "Torre San Marco"
+          },
+          "coords": [
+            10.567562,
+            45.620684
+          ],
+          "category": "tower",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag an diesem historischen Seeturm mit seinem kleinen Hafen und genießen Sie die herrliche Aussicht auf den Gardasee.",
+            "hu": "Kezdje a napot ennél a történelmi tóparti toronynál és kis kikötőnél, élvezve a Garda-tóra nyíló lenyűgöző kilátást a városnézés előtt.",
+            "ro": "Începeți ziua la acest turn istoric de pe malul lacului cu micul său port, bucurându-vă de priveliștile uimitoare asupra lacului Garda.",
+            "en": "Start your day at this historic lakeside tower with its small harbor, taking in the stunning Garda views before venturing further into the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco di Villa Alba",
+            "hu": "Parco di Villa Alba",
+            "ro": "Parco di Villa Alba",
+            "en": "Parco di Villa Alba"
+          },
+          "coords": [
+            10.565789,
+            45.621371
+          ],
+          "category": "park",
+          "arrive_at": "09:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen eleganten öffentlichen Park mit seiner neoklassizistischen Villa und bringen Sie etwas Wasser für einen erfrischenden Morgenrundgang mit.",
+            "hu": "Sétáljon végig ezen az elegáns közparkon, megcsodálva neoklasszikus villáját, és hozzon magával egy kis üveg vizet a frissítő reggeli sétához.",
+            "ro": "Plimbați-vă prin acest parc public elegant admirând vila sa neoclasică și aduceți o sticlă de apă pentru o plimbare răcoroasă de dimineață.",
+            "en": "Stroll through this elegant public park admiring its neoclassical villa, and bring a small bottle of water for a refreshing morning walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Municipio di Gardone Riviera",
+            "hu": "Municipio di Gardone Riviera",
+            "ro": "Municipio di Gardone Riviera",
+            "en": "Municipio di Gardone Riviera"
+          },
+          "coords": [
+            10.561866,
+            45.622045
+          ],
+          "category": "historical",
+          "arrive_at": "10:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betrachten Sie die lokale Architektur am Rathaus, die den eleganten Stil der Riviera perfekt einfängt; achten Sie auf Aushänge für lokale Veranstaltungen.",
+            "hu": "Figyelje meg a helyi építészetet a városházán, amely tökéletesen megragadja a Riviéra elegáns stílusát; nézze meg a hirdetőtáblát a helyi eseményekért.",
+            "ro": "Observați arhitectura locală la primărie, care surprinde perfect stilul elegant al Rivierei; verificați panoul informativ pentru evenimente locale.",
+            "en": "Observe the local architecture at the town hall, which perfectly captures the Riviera's elegant style; check the notice board for local events."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanical Garden André Heller",
+            "hu": "Botanical Garden André Heller",
+            "ro": "Botanical Garden André Heller",
+            "en": "Botanical Garden André Heller"
+          },
+          "coords": [
+            10.561959,
+            45.620236
+          ],
+          "category": "museum",
+          "arrive_at": "12:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen atemberaubenden Garten mit Pflanzen aus aller Welt und moderner Kunst; tragen Sie bequeme Schuhe für die unebenen Wege.",
+            "hu": "Fedezze fel ezt a lenyűgöző kertet, ahol a világ minden tájáról származó növények modern művészeti alkotásokkal keverednek; viseljen kényelmes cipőt.",
+            "ro": "Explorați această grădină uimitoare cu plante din întreaga lume împletite cu piese de artă modernă; purtați pantofi confortabili pentru poteci.",
+            "en": "Explore this stunning garden featuring plants from around the world interwoven with modern art pieces; wear comfortable shoes for the uneven paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Il Vittoriale degli Italiani",
+            "hu": "Il Vittoriale degli Italiani",
+            "ro": "Il Vittoriale degli Italiani",
+            "en": "Il Vittoriale degli Italiani"
+          },
+          "coords": [
+            10.564262,
+            45.623593
+          ],
+          "category": "museum",
+          "arrive_at": "14:07",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie das exzentrische Anwesen des Dichters Gabriele D'Annunzio mit seinen bizarren Artefakten; buchen Sie Ihre Tickets vorab online.",
+            "hu": "Fedezze fel Gabriele D'Annunzio költő különc birtokát, amely tele van bizarr műtárgyakkal; foglalja le a jegyeket előre az interneten.",
+            "ro": "Descoperiți moșia excentrică a poetului Gabriele D'Annunzio, plină de artefacte bizare și un amfiteatru; rezervați biletele online în avans.",
+            "en": "Discover the eccentric estate of poet Gabriele D'Annunzio, filled with bizarre artifacts and an amphitheater; book your tickets online in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Mausoleo degli Eroi",
+            "hu": "Mausoleo degli Eroi",
+            "ro": "Mausoleo degli Eroi",
+            "en": "Mausoleo degli Eroi"
+          },
+          "coords": [
+            10.565862,
+            45.625917
+          ],
+          "category": "historical",
+          "arrive_at": "15:51",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Steigen Sie zum höchsten Punkt des Vittoriale-Anwesens, um D'Annunzios imposantes Rundgrab zu sehen und den Panoramablick auf den See zu genießen.",
+            "hu": "Másszon fel a Vittoriale birtok legmagasabb pontjára, hogy megnézze D'Annunzio impozáns kör alakú sírját és gyönyörködjön a tóra nyíló panorámában.",
+            "ro": "Urcați în cel mai înalt punct al moșiei Vittoriale pentru a vedea mormântul impunător al lui D'Annunzio și bucurați-vă de panorama lacului.",
+            "en": "Climb to the highest point of the Vittoriale estate to see D'Annunzio's imposing circular tomb and take in the panoramic views of the entire lake."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am Seeufer am Torre San Marco, bevor Sie durch das Grün des Parco di Villa Alba schlendern. Die Mittagssonne lädt ein, das Rathaus und die botanische Vielfalt des André Heller Gartens zu erkunden. Tauchen Sie am Nachmittag in die exzentrische Welt des Vittoriale ein. Der Abend bricht herein, wenn Sie das Mausoleo degli Eroi erreichen und den stillen Seeblick genießen.",
+        "hu": "A reggel a tóparton indul a Torre San Marco-nál, majd a Parco di Villa Alba zöldjében sétálhat. A déli napfény a városháza és az André Heller Botanikus Kert felfedezésére csábít. Délután merüljön el az Il Vittoriale különc világában és fedezze fel bizarr kincseit. Az este közeledtével érkezik meg a Mausoleo degli Eroihoz, ahonnan békés, tavi panorámában gyönyörködhet.",
+        "ro": "Dimineața începe pe malul lacului la Torre San Marco, înainte de o plimbare prin Parco di Villa Alba. Soarele amiezii vă invită să explorați primăria și diversitatea grădinii André Heller. După-amiaza, plonjați în lumea excentrică a Il Vittoriale, descoperindu-i comorile bizare. Seara se lasă pe măsură ce ajungeți la Mausoleo degli Eroi, bucurându-vă de o priveliște liniștită a lacului.",
+        "en": "Your morning starts by the lakeshore at Torre San Marco, setting a relaxed pace before strolling through the greenery of Parco di Villa Alba. The midday sun invites you to explore the elegant town hall and the magical botanical diversity of the André Heller Garden. In the afternoon, dive into the eccentric world of Il Vittoriale, discovering its bizarre treasures. Evening falls as you reach the Mausoleo degli Eroi, enjoying a quiet lake view."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:14",
+      "total_km": 2.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Torre San Marco",
+            "hu": "Torre San Marco",
+            "ro": "Torre San Marco",
+            "en": "Torre San Marco"
+          },
+          "coords": [
+            10.567562,
+            45.620684
+          ],
+          "category": "tower",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag an diesem historischen Seeturm mit seinem kleinen Hafen und genießen Sie die herrliche Aussicht auf den Gardasee.",
+            "hu": "Kezdje a napot ennél a történelmi tóparti toronynál és kis kikötőnél, élvezve a Garda-tóra nyíló lenyűgöző kilátást a városnézés előtt.",
+            "ro": "Începeți ziua la acest turn istoric de pe malul lacului cu micul său port, bucurându-vă de priveliștile uimitoare asupra lacului Garda.",
+            "en": "Start your day at this historic lakeside tower with its small harbor, taking in the stunning Garda views before venturing further into the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco di Villa Alba",
+            "hu": "Parco di Villa Alba",
+            "ro": "Parco di Villa Alba",
+            "en": "Parco di Villa Alba"
+          },
+          "coords": [
+            10.565789,
+            45.621371
+          ],
+          "category": "park",
+          "arrive_at": "09:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen eleganten öffentlichen Park mit seiner neoklassizistischen Villa und bringen Sie etwas Wasser für einen erfrischenden Morgenrundgang mit.",
+            "hu": "Sétáljon végig ezen az elegáns közparkon, megcsodálva neoklasszikus villáját, és hozzon magával egy kis üveg vizet a frissítő reggeli sétához.",
+            "ro": "Plimbați-vă prin acest parc public elegant admirând vila sa neoclasică și aduceți o sticlă de apă pentru o plimbare răcoroasă de dimineață.",
+            "en": "Stroll through this elegant public park admiring its neoclassical villa, and bring a small bottle of water for a refreshing morning walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanical Garden André Heller",
+            "hu": "Botanical Garden André Heller",
+            "ro": "Botanical Garden André Heller",
+            "en": "Botanical Garden André Heller"
+          },
+          "coords": [
+            10.561959,
+            45.620236
+          ],
+          "category": "museum",
+          "arrive_at": "10:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen atemberaubenden Garten mit Pflanzen aus aller Welt und moderner Kunst; tragen Sie bequeme Schuhe für die unebenen Wege.",
+            "hu": "Fedezze fel ezt a lenyűgöző kertet, ahol a világ minden tájáról származó növények modern művészeti alkotásokkal keverednek; viseljen kényelmes cipőt.",
+            "ro": "Explorați această grădină uimitoare cu plante din întreaga lume împletite cu piese de artă modernă; purtați pantofi confortabili pentru poteci.",
+            "en": "Explore this stunning garden featuring plants from around the world interwoven with modern art pieces; wear comfortable shoes for the uneven paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Sant'Antonio Abate",
+            "hu": "Chiesa di Sant'Antonio Abate",
+            "ro": "Chiesa di Sant'Antonio Abate",
+            "en": "Chiesa di Sant'Antonio Abate"
+          },
+          "coords": [
+            10.553379,
+            45.620111
+          ],
+          "category": "religious",
+          "arrive_at": "12:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Treten Sie in diese ruhige und historische Kirche ein, um die wunderschönen Altäre zu bewundern; ein idealer Ort für einen Moment der Besinnung.",
+            "hu": "Lépjen be ebbe a csendes történelmi templomba, csodálja meg gyönyörű oltárait, és élvezze a békés légkört, amely ideális egy kis elmélkedésre.",
+            "ro": "Pășiți în această biserică istorică și liniștită pentru a-i admira altarele frumoase, fiind un loc ideal pentru un moment de reflecție.",
+            "en": "Step inside this quiet and historic local church to admire its beautiful altars and peaceful atmosphere, an ideal spot for a moment of quiet reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Il Vittoriale degli Italiani",
+            "hu": "Il Vittoriale degli Italiani",
+            "ro": "Il Vittoriale degli Italiani",
+            "en": "Il Vittoriale degli Italiani"
+          },
+          "coords": [
+            10.564262,
+            45.623593
+          ],
+          "category": "museum",
+          "arrive_at": "13:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie das exzentrische Anwesen des Dichters Gabriele D'Annunzio mit seinen bizarren Artefakten; buchen Sie Ihre Tickets vorab online.",
+            "hu": "Fedezze fel Gabriele D'Annunzio költő különc birtokát, amely tele van bizarr műtárgyakkal; foglalja le a jegyeket előre az interneten.",
+            "ro": "Descoperiți moșia excentrică a poetului Gabriele D'Annunzio, plină de artefacte bizare și un amfiteatru; rezervați biletele online în avans.",
+            "en": "Discover the eccentric estate of poet Gabriele D'Annunzio, filled with bizarre artifacts and an amphitheater; book your tickets online in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Il Divino Infante",
+            "hu": "Il Divino Infante",
+            "ro": "Il Divino Infante",
+            "en": "Il Divino Infante"
+          },
+          "coords": [
+            10.570034,
+            45.62361
+          ],
+          "category": "museum",
+          "arrive_at": "15:04",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie eine einzigartige Sammlung von Skulpturen des Jesuskindes in diesem Spezialmuseum; besuchen Sie es am späten Nachmittag.",
+            "hu": "Tekintse meg a gyermek Jézust ábrázoló szobrok egyedülálló gyűjteményét ebben a múzeumban; látogasson el késő délután, amikor kevesebben vannak.",
+            "ro": "Vizionați o colecție unică de sculpturi care îl înfățișează pe pruncul Isus în acest muzeu specializat; vizitați după-amiaza pentru a evita aglomerația.",
+            "en": "View a unique and fascinating collection of sculptures depicting the infant Jesus in this specialized museum; visit in the late afternoon for smaller crowds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie am Seeufer vom Torre San Marco los und genießen Sie den Morgen im Parco di Villa Alba. Mittags erwartet Sie der André Heller Garten und eine kurze Fahrt zur Kirche Sant'Antonio Abate. Der Nachmittag ist dem weitläufigen, exzentrischen Vittoriale gewidmet. Beenden Sie den Tag und bewundern Sie die einzigartigen Skulpturen im Il Divino Infante in der Abenddämmerung.",
+        "hu": "Tekerjen a tóparton a Torre San Marco-tól indulva, majd pihenjen meg a nyugodt Parco di Villa Alba parkban. A dél egy botanikus utazást tartogat az André Heller Kertben és egy gurulást a Sant'Antonio Abate templomhoz. A délutánt a lenyűgöző Vittoriale komplexumnak szentelheti. Zárja a napot az Il Divino Infante egyedülálló szobrainak megcsodálásával a lemenő nap fényében.",
+        "ro": "Pedalați de-a lungul lacului începând de la Torre San Marco, bucurându-vă de dimineață la Parco di Villa Alba. Amiaza vă aduce în Grădina André Heller și la biserica istorică Sant'Antonio Abate. După-amiaza este dedicată complexului excentric Vittoriale. Încheiați ziua admirând sculpturile unice de la Il Divino Infante odată cu lăsarea serii.",
+        "en": "Pedal along the lakeside starting from Torre San Marco, taking in the morning breeze before a stop at the tranquil Parco di Villa Alba. Midday features a botanical journey through the André Heller Garden and a short ride to the historic Chiesa di Sant'Antonio Abate. Your afternoon is dedicated to the sprawling, eccentric Vittoriale complex. Conclude the day marveling at the unique sculptures at Il Divino Infante as dusk sets in."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:00",
+      "total_km": 9.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Palazzo Terzi Martinengo",
+            "hu": "Palazzo Terzi Martinengo",
+            "ro": "Palazzo Terzi Martinengo",
+            "en": "Palazzo Terzi Martinengo"
+          },
+          "coords": [
+            10.545755,
+            45.61323
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtige Architektur dieses historischen Adelspalastes von außen und stellen Sie sich das luxuriöse Leben vergangener Jahrhunderte vor.",
+            "hu": "Csodálja meg ennek a történelmi nemesi palotának a csodálatos építészetét kívülről, elképzelve az elmúlt évszázadok fényűző tóparti életmódját.",
+            "ro": "Admirați arhitectura magnifică a acestui palat nobil istoric din exterior, imaginându-vă stilul de viață luxos al secolelor trecute.",
+            "en": "Admire the magnificent architecture of this historic noble palace from the outside, imagining the luxurious lakeside lifestyle of past centuries."
+          }
+        },
+        {
+          "name": {
+            "de": "Baia del Vento",
+            "hu": "Baia del Vento",
+            "ro": "Baia del Vento",
+            "en": "Baia del Vento"
+          },
+          "coords": [
+            10.569875,
+            45.590629
+          ],
+          "category": "recreational",
+          "arrive_at": "10:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie an dieser malerischen Bucht und am Kieselstrand, ein hervorragender Ort zum Sonnenbaden oder Schwimmen; vergessen Sie Ihre Badesachen nicht.",
+            "hu": "Pihenjen ezen a festői öbölben és kavicsos strandon, amely kiváló hely a napozásra vagy egy frissítő fürdőzésre, így ne hagyja otthon a fürdőruháját.",
+            "ro": "Relaxați-vă în acest golf pitoresc și pe plaja cu pietriș, o locație excelentă pentru a face plajă sau o baie răcoritoare, așa că aduceți costumul de baie.",
+            "en": "Relax at this scenic bay and pebble beach, an excellent location to soak in the sun or take a refreshing dip, so don't forget your swimwear."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre San Marco",
+            "hu": "Torre San Marco",
+            "ro": "Torre San Marco",
+            "en": "Torre San Marco"
+          },
+          "coords": [
+            10.567562,
+            45.620684
+          ],
+          "category": "tower",
+          "arrive_at": "11:59",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag an diesem historischen Seeturm mit seinem kleinen Hafen und genießen Sie die herrliche Aussicht auf den Gardasee.",
+            "hu": "Kezdje a napot ennél a történelmi tóparti toronynál és kis kikötőnél, élvezve a Garda-tóra nyíló lenyűgöző kilátást a városnézés előtt.",
+            "ro": "Începeți ziua la acest turn istoric de pe malul lacului cu micul său port, bucurându-vă de priveliștile uimitoare asupra lacului Garda.",
+            "en": "Start your day at this historic lakeside tower with its small harbor, taking in the stunning Garda views before venturing further into the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanical Garden André Heller",
+            "hu": "Botanical Garden André Heller",
+            "ro": "Botanical Garden André Heller",
+            "en": "Botanical Garden André Heller"
+          },
+          "coords": [
+            10.561959,
+            45.620236
+          ],
+          "category": "museum",
+          "arrive_at": "12:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen atemberaubenden Garten mit Pflanzen aus aller Welt und moderner Kunst; tragen Sie bequeme Schuhe für die unebenen Wege.",
+            "hu": "Fedezze fel ezt a lenyűgöző kertet, ahol a világ minden tájáról származó növények modern művészeti alkotásokkal keverednek; viseljen kényelmes cipőt.",
+            "ro": "Explorați această grădină uimitoare cu plante din întreaga lume împletite cu piese de artă modernă; purtați pantofi confortabili pentru poteci.",
+            "en": "Explore this stunning garden featuring plants from around the world interwoven with modern art pieces; wear comfortable shoes for the uneven paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Il Vittoriale degli Italiani",
+            "hu": "Il Vittoriale degli Italiani",
+            "ro": "Il Vittoriale degli Italiani",
+            "en": "Il Vittoriale degli Italiani"
+          },
+          "coords": [
+            10.564262,
+            45.623593
+          ],
+          "category": "museum",
+          "arrive_at": "14:06",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie das exzentrische Anwesen des Dichters Gabriele D'Annunzio mit seinen bizarren Artefakten; buchen Sie Ihre Tickets vorab online.",
+            "hu": "Fedezze fel Gabriele D'Annunzio költő különc birtokát, amely tele van bizarr műtárgyakkal; foglalja le a jegyeket előre az interneten.",
+            "ro": "Descoperiți moșia excentrică a poetului Gabriele D'Annunzio, plină de artefacte bizare și un amfiteatru; rezervați biletele online în avans.",
+            "en": "Discover the eccentric estate of poet Gabriele D'Annunzio, filled with bizarre artifacts and an amphitheater; book your tickets online in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Bernardo",
+            "hu": "Chiesa di San Bernardo",
+            "ro": "Chiesa di San Bernardo",
+            "en": "Chiesa di San Bernardo"
+          },
+          "coords": [
+            10.54084,
+            45.62889
+          ],
+          "category": "religious",
+          "arrive_at": "15:50",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante, von Natur umgebene Kirche auf dem Hügel, um ein Stück lokales Erbe zu erleben und den ruhigen Aufstieg zu genießen.",
+            "hu": "Látogasson el ehhez a bájos, domboldalon álló, természettel körülvett templomhoz, hogy megismerje a helyi örökséget és élvezze a békés sétát.",
+            "ro": "Vizitați această biserică fermecătoare de pe deal înconjurată de natură pentru a experimenta moștenirea locală și bucurați-vă de plimbarea liniștită.",
+            "en": "Visit this charming hillside church surrounded by nature to experience a piece of local heritage, and enjoy the tranquil walk leading up to it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zum prächtigen Palazzo Terzi Martinengo, gefolgt von einer Fahrt zur Küste an der Baia del Vento. Genießen Sie den Mittag am Torre San Marco und spazieren Sie durch den üppigen André Heller Garten. Widmen Sie den ganzen Nachmittag dem weitläufigen Vittoriale-Anwesen mit seiner dramatischen Geschichte. Der Abend lädt zu einer ruhigen Fahrt zur Chiesa di San Bernardo ein.",
+        "hu": "Autózzon el a csodálatos Palazzo Terzi Martinengo-hoz a reggeli elegáns induláshoz, majd tegyen egy parti utat a Baia del Vento-hoz. A delet a központi Torre San Marco és a buja André Heller Kert felfedezésével töltheti. A teljes délutánt a hatalmas Vittoriale birtok izgalmas történelmének szentelje. Az este egy békés autózásra csábít a domboldalon álló San Bernardo templomhoz.",
+        "ro": "Conduceți către magnificul Palazzo Terzi Martinengo pentru a începe dimineața cu eleganță, urmat de o cursă de coastă la Baia del Vento. Bucurați-vă de amiază întorcându-vă la Torre San Marco și Grădina André Heller. Dedicați întreaga după-amiază vastei moșii Vittoriale și istoriei sale dramatice. Seara se încheie cu un drum liniștit spre biserica de pe deal San Bernardo.",
+        "en": "Drive down to the magnificent Palazzo Terzi Martinengo to start your morning in noble elegance, followed by a scenic coastal ride to Baia del Vento. Enjoy midday by returning to the central Torre San Marco and wandering through the lush André Heller Garden. Dedicate a full afternoon to the vast Vittoriale estate, experiencing its dramatic history. The evening calls for a serene drive to the hillside Chiesa di San Bernardo."
+      }
+    }
+  }
+}

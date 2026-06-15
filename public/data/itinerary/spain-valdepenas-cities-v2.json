@@ -1,0 +1,497 @@
+{
+  "city_id": "spain-valdepenas-cities-v2",
+  "anchor": {
+    "name": "Valdepeñas",
+    "coords": [
+      -3.385127,
+      38.760255
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:08",
+      "total_km": 1.27,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Puerta mudéjar",
+            "hu": "Mudéjar kapu",
+            "ro": "Poarta mudejară",
+            "en": "Mudejar Gate"
+          },
+          "coords": [
+            -3.384288,
+            38.760418
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das feine Mauerwerk dieses Mudéjar-Tors, das von der maurischen Vergangenheit zeugt, und kommen Sie morgens für das beste Licht.",
+            "hu": "Csodálja meg e lenyűgöző mudéjar kapu aprólékos téglafalazatát, amely a mór múltat idézi, és érkezzen reggel a legjobb fényviszonyokért.",
+            "ro": "Admirați zidăria detaliată a acestei porți mudejare care amintește de trecutul maur al regiunii și veniți dimineața pentru cea mai bună lumină.",
+            "en": "Admire the intricate brickwork of this striking Mudejar gate, a testament to the region's Moorish past, and visit in the morning for the best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de la Veracruz",
+            "hu": "Veracruz templom",
+            "ro": "Biserica Veracruz",
+            "en": "Veracruz Church"
+          },
+          "coords": [
+            -3.383387,
+            38.762031
+          ],
+          "category": "landmark",
+          "arrive_at": "09:38",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende Kirche, die vermutlich einst eine Synagoge war, und achten Sie auf die architektonischen Spuren beider Religionen.",
+            "hu": "Fedezze fel ezt a lenyűgöző, egykori zsinagógának tartott templomot, és figyelje meg a két vallás építészeti jegyeinek finom keveredését.",
+            "ro": "Explorați această biserică fascinantă, despre care se crede că a fost o sinagogă, și observați indiciile arhitecturale ce îmbină două credințe.",
+            "en": "Explore this fascinating church, believed to be a former synagogue, and take a moment to observe the subtle architectural clues blending two faiths."
+          }
+        },
+        {
+          "name": {
+            "de": "Armas de Don Quijote",
+            "hu": "Don Quijote fegyverei",
+            "ro": "Armele lui Don Quijote",
+            "en": "Weapons of Don Quixote"
+          },
+          "coords": [
+            -3.384303,
+            38.757774
+          ],
+          "category": "historical",
+          "arrive_at": "10:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses monumentale Denkmal für die Waffen von Don Quijote, das den Geist von Cervantes einfängt, und bringen Sie ein Weitwinkelobjektiv mit.",
+            "hu": "Fedezze fel a Don Quijote fegyvereinek emléket állító monumentális alkotást, és hozzon magával nagylátószögű objektívet a tökéletes fotókhoz.",
+            "ro": "Descoperiți acest tribut monumental adus armelor lui Don Quijote, care surprinde spiritul operei lui Cervantes, și folosiți o lentilă cu unghi larg.",
+            "en": "Discover this monumental tribute to the weapons of Don Quixote, capturing the spirit of Cervantes' epic tale, so bring a wide-angle lens for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Manteo a Sancho Panza",
+            "hu": "Sancho Panza megdobálása",
+            "ro": "Aruncarea lui Sancho Panza",
+            "en": "Tossing of Sancho Panza"
+          },
+          "coords": [
+            -3.38251,
+            38.758257
+          ],
+          "category": "historical",
+          "arrive_at": "11:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Schmunzeln Sie über die Skulptur, die zeigt, wie Sancho Panza in einer Decke in die Luft geworfen wird, und achten Sie auf die lebendigen Details.",
+            "hu": "Mosolyogjon a Sancho Panza megdobálását ábrázoló játékos szobron, és szánjon időt a figurák élénk és aprólékos részleteinek megfigyelésére.",
+            "ro": "Zâmbiți la această sculptură jucăușă în care Sancho Panza este aruncat dintr-o pătură și acordați timp pentru a aprecia detaliile vii ale figurilor.",
+            "en": "Smile at this playful sculptural depiction of Sancho Panza being tossed in a blanket, and take time to appreciate the lively details of the figures."
+          }
+        },
+        {
+          "name": {
+            "de": "Busto DULCINEA",
+            "hu": "Dulcinea mellszobra",
+            "ro": "Bustul Dulcineei",
+            "en": "Bust of Dulcinea"
+          },
+          "coords": [
+            -3.380632,
+            38.758494
+          ],
+          "category": "historical",
+          "arrive_at": "12:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Erweisen Sie der Büste von Dulcinea, der idealisierten Muse von Don Quijote, die Ehre und lesen Sie die Inschriften über ihr literarisches Erbe.",
+            "hu": "Tisztelegjen Dulcinea, Don Quijote idealizált múzsájának mellszobra előtt, és olvassa el a közeli feliratokat, amelyek irodalmi örökségét méltatják.",
+            "ro": "Admirați bustul Dulcineei, muza idealizată a lui Don Quijote, și citiți inscripțiile din apropiere care subliniază moștenirea ei literară.",
+            "en": "Pay your respects at the bust of Dulcinea, the idealized muse of Don Quixote, and read the nearby inscriptions that highlight her literary legacy."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro-Auditorio Municipal Francisco Nieva",
+            "hu": "Francisco Nieva Színház",
+            "ro": "Teatrul Francisco Nieva",
+            "en": "Francisco Nieva Theater"
+          },
+          "coords": [
+            -3.377688,
+            38.759498
+          ],
+          "category": "cultural",
+          "arrive_at": "14:18",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Prüfen Sie den Spielplan dieses eleganten Stadttheaters, das dem berühmten Dramatiker gewidmet ist, oder bewundern Sie einfach seine moderne Fassade.",
+            "hu": "Nézze meg az előadások műsorát ebben a híres drámaíróról elnevezett elegáns színházban, vagy csak csodálja meg az épület modern homlokzatát.",
+            "ro": "Verificați programul spectacolelor la acest teatru municipal elegant dedicat faimosului dramaturg, sau admirați pur și simplu fațada sa modernă.",
+            "en": "Check the local schedule for performances at this elegant municipal theater, dedicated to the famed playwright, or simply admire its modern facade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen an den architektonischen Wurzeln von Valdepeñas am Mudéjar-Tor und der Veracruz-Kirche. Tauchen Sie mittags in die Welt von Cervantes ein und besuchen Sie die Statuen von Don Quijote. Am Nachmittag runden Sie Ihre literarische Reise an der Dulcinea-Büste ab. Wenn der Abend hereinbricht, können Sie entspannt in der Nähe des eleganten Francisco-Nieva-Theaters verweilen.",
+        "hu": "Kezdje a reggelt Valdepeñas építészeti gyökereinél, a Mudéjar kapunál és a történelmi Veracruz templomnál. Délben merüljön el Cervantes világában a Don Quijoténak és társainak szentelt szobrok soraival. Délután zárja irodalmi utazását a Dulcinea mellszobornál. Ahogy leszáll az est, pihenjen meg az elegáns Francisco Nieva Színház modern épülete közelében.",
+        "ro": "Începeți dimineața descoperind rădăcinile arhitecturale din Valdepeñas la Poarta Mudejară și Biserica Veracruz. La prânz, pătrundeți în lumea lui Cervantes vizitând statuile dedicate lui Don Quijote și însoțitorilor săi. După-amiaza, încheiați călătoria literară la bustul Dulcineei. Pe măsură ce se lasă seara, relaxați-vă lângă elegantul Teatru Francisco Nieva.",
+        "en": "Begin your morning tracing Valdepeñas' architectural roots at the stunning Mudejar Gate and the historic Veracruz Church. By midday, immerse yourself in the world of Cervantes by visiting a series of statues dedicated to Don Quixote and his companions. In the afternoon, wrap up your literary journey at the Dulcinea bust. As evening falls, relax near the elegant Francisco Nieva Theater."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:42",
+      "total_km": 2.23,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Banderas de comunidades de España",
+            "hu": "Spanyol közösségek zászlói",
+            "ro": "Steagurile comunităților Spaniei",
+            "en": "Flags of Spanish Communities"
+          },
+          "coords": [
+            -3.386812,
+            38.771075
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie zwischen den stolz wehenden Flaggen der autonomen Gemeinschaften Spaniens, die an sonnigen Tagen ein farbenfrohes Fotomotiv bieten.",
+            "hu": "Sétáljon Spanyolország autonóm közösségeinek büszkén lobogó zászlói között, amelyek ragyogó napsütéses napokon színes fotótémát kínálnak.",
+            "ro": "Plimbați-vă printre steagurile expuse cu mândrie ce reprezintă comunitățile autonome ale Spaniei, o oportunitate foto colorată într-o zi însorită.",
+            "en": "Walk among the proudly displayed flags representing Spain's autonomous communities, offering a colorful photo opportunity on a bright sunny day."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo-Molino de Gregorio Prieto",
+            "hu": "Gregorio Prieto Múzeum-Malom",
+            "ro": "Muzeul-Moară Gregorio Prieto",
+            "en": "Gregorio Prieto Museum-Windmill"
+          },
+          "coords": [
+            -3.387722,
+            38.769179
+          ],
+          "category": "museum",
+          "arrive_at": "10:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Betreten Sie diese als Museum dienende Windmühle zu Ehren von Gregorio Prieto und werfen Sie einen Blick auf die faszinierende Zeichnungssammlung.",
+            "hu": "Lépjen be ebbe a Gregorio Prieto tiszteletére múzeummá alakított ikonikus szélmalomba, és mindenképp tekintse meg lenyűgöző rajzgyűjteményét.",
+            "ro": "Pășiți în această moară de vânt emblematică transformată în muzeu în onoarea lui Gregorio Prieto și vizitați colecția fascinantă de desene.",
+            "en": "Step inside this iconic windmill turned museum honoring Gregorio Prieto, and be sure to check out the fascinating collection of his personal drawings."
+          }
+        },
+        {
+          "name": {
+            "de": "Puerta mudéjar",
+            "hu": "Mudéjar kapu",
+            "ro": "Poarta mudejară",
+            "en": "Mudejar Gate"
+          },
+          "coords": [
+            -3.384288,
+            38.760418
+          ],
+          "category": "landmark",
+          "arrive_at": "12:16",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das feine Mauerwerk dieses Mudéjar-Tors, das von der maurischen Vergangenheit zeugt, und kommen Sie morgens für das beste Licht.",
+            "hu": "Csodálja meg e lenyűgöző mudéjar kapu aprólékos téglafalazatát, amely a mór múltat idézi, és érkezzen reggel a legjobb fényviszonyokért.",
+            "ro": "Admirați zidăria detaliată a acestei porți mudejare care amintește de trecutul maur al regiunii și veniți dimineața pentru cea mai bună lumină.",
+            "en": "Admire the intricate brickwork of this striking Mudejar gate, a testament to the region's Moorish past, and visit in the morning for the best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Don Quijote (dedicado a Alberto Ramírez)",
+            "hu": "Don Quijote szobra",
+            "ro": "Statuia Don Quijote",
+            "en": "Don Quixote Statue"
+          },
+          "coords": [
+            -3.385455,
+            38.757903
+          ],
+          "category": "historical",
+          "arrive_at": "12:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.29,
+          "tip_5lang": {
+            "de": "Stehen Sie vor dieser Statue von Don Quijote, die Alberto Ramírez gewidmet ist, und beachten Sie die ausdrucksstarke Haltung des Ritters.",
+            "hu": "Álljon meg a Don Quijotét ábrázoló, Alberto Ramíreznek ajánlott szobor előtt, és figyelje meg a lovag elszántságát tükröző kifejező testtartást.",
+            "ro": "Priviți această statuie evocatoare a lui Don Quijote dedicată lui Alberto Ramírez și observați postura expresivă ce surprinde determinarea cavalerului.",
+            "en": "Stand before this evocative statue of Don Quixote dedicated to Alberto Ramírez, and notice the expressive posture capturing the knight's determination."
+          }
+        },
+        {
+          "name": {
+            "de": "Puerta del Vino",
+            "hu": "Borkapu",
+            "ro": "Poarta Vinului",
+            "en": "Wine Gate"
+          },
+          "coords": [
+            -3.38798,
+            38.758672
+          ],
+          "category": "landmark",
+          "arrive_at": "14:04",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Passieren Sie das Weintor, das den Weinbau von Valdepeñas feiert, und halten Sie inne, um die künstlerischen Reliefs der Weinlese zu bewundern.",
+            "hu": "Haladjon át a Valdepeñas borászatát ünneplő látványos Borkapun, és álljon meg egy pillanatra megcsodálni a szüretet ábrázoló művészi domborműveket.",
+            "ro": "Treceți prin spectaculoasa Poartă a Vinului ce celebrează viticultura din Valdepeñas și admirați reliefurile artistice care înfățișează culesul strugurilor.",
+            "en": "Pass through the striking Wine Gate that celebrates Valdepeñas' rich viticulture, and pause to admire the artistic reliefs depicting grape harvesting."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Vino",
+            "hu": "Bormúzeum",
+            "ro": "Muzeul Vinului",
+            "en": "Wine Museum"
+          },
+          "coords": [
+            -3.393125,
+            38.760524
+          ],
+          "category": "museum",
+          "arrive_at": "14:32",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.49,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem umfassenden Museum in das lokale Weinerbe ein und verpassen Sie nicht die interaktiven Ausstellungen und den Verkostungsraum.",
+            "hu": "Mélyedjen el a helyi borászati örökségben ebben az átfogó múzeumban, és a kóstolóterem felkeresése előtt ne hagyja ki az interaktív kiállításokat.",
+            "ro": "Explorați moștenirea viticolă locală în acest muzeu cuprinzător și nu ratați expozițiile interactive înainte de a vizita sala de degustare.",
+            "en": "Dive deep into the local wine heritage at this comprehensive museum, and don't miss the interactive exhibits before heading to the tasting room."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am Flaggen-Denkmal, bevor Sie das berühmte Windmühlen-Museum besuchen. Mittags radeln Sie durch das historische Zentrum, vorbei am Mudéjar-Tor bis zu den Don-Quijote-Statuen. Am Nachmittag fahren Sie in Richtung Weintor, das die regionalen Weinberge feiert. Verbringen Sie den Abend damit, die reichen Ausstellungen des Weinmuseums von Valdepeñas zu erkunden.",
+        "hu": "Kezdje a túrát a színes zászlók emlékművénél, majd látogasson el a Gregorio Prietonak szentelt ikonikus szélmalom-múzeumba. A délidő a történelmi központba visz, elhaladva a Mudéjar kapu és a Don Quijote szobrok mellett. Délután tekerjen a Borkapu felé, amely a régió szőlőültetvényeit dicséri. Az estét a Bormúzeum gazdag kiállításainak felfedezésével töltheti el.",
+        "ro": "Începeți traseul la monumentul steagurilor înainte de a vizita faimoasa moară de vânt muzeu. La prânz pedalați prin centrul istoric, trecând pe lângă Poarta Mudejară și statuile Don Quijote. După-amiaza, îndreptați-vă spre Poarta Vinului, care celebrează podgoriile locale. Petreceți seara explorând expozițiile bogate ale Muzeului Vinului.",
+        "en": "Start your ride at the colorful flags monument before visiting the iconic windmill museum dedicated to Gregorio Prieto. Midday brings you through the historic center, passing the Mudejar Gate and arriving at the evocative Don Quixote statues. In the afternoon, pedal toward the Wine Gate, celebrating the region's famous vineyards. Spend your evening exploring the rich exhibits of the Wine Museum."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:18",
+      "total_km": 3.55,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Auditorio al aire libre",
+            "hu": "Szabadtéri amfiteátrum",
+            "ro": "Amfiteatru în aer liber",
+            "en": "Outdoor Amphitheater"
+          },
+          "coords": [
+            -3.398205,
+            38.773122
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Weitläufigkeit dieses Freiluft-Amphitheaters, das auch ohne Veranstaltungen einen ruhigen Ort zum Ausruhen und Verweilen bietet.",
+            "hu": "Élvezze a szabadtéri amfiteátrum tágas tereit, amely nyári koncerteknek ad otthont, és rendezvények híján is csendes pihenőhelyet biztosít.",
+            "ro": "Bucurați-vă de spațiile deschise ale acestui amfiteatru în aer liber conceput pentru concerte de vară, un loc liniștit chiar și fără evenimente.",
+            "en": "Enjoy the open spaces of this outdoor amphitheater designed for summer concerts, offering a quiet spot to rest even when no events are scheduled."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo-Molino de Gregorio Prieto",
+            "hu": "Gregorio Prieto Múzeum-Malom",
+            "ro": "Muzeul-Moară Gregorio Prieto",
+            "en": "Gregorio Prieto Museum-Windmill"
+          },
+          "coords": [
+            -3.387722,
+            38.769179
+          ],
+          "category": "museum",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Betreten Sie diese als Museum dienende Windmühle zu Ehren von Gregorio Prieto und werfen Sie einen Blick auf die faszinierende Zeichnungssammlung.",
+            "hu": "Lépjen be ebbe a Gregorio Prieto tiszteletére múzeummá alakított ikonikus szélmalomba, és mindenképp tekintse meg lenyűgöző rajzgyűjteményét.",
+            "ro": "Pășiți în această moară de vânt emblematică transformată în muzeu în onoarea lui Gregorio Prieto și vizitați colecția fascinantă de desene.",
+            "en": "Step inside this iconic windmill turned museum honoring Gregorio Prieto, and be sure to check out the fascinating collection of his personal drawings."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de la Veracruz",
+            "hu": "Veracruz templom",
+            "ro": "Biserica Veracruz",
+            "en": "Veracruz Church"
+          },
+          "coords": [
+            -3.383387,
+            38.762031
+          ],
+          "category": "landmark",
+          "arrive_at": "12:14",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.88,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende Kirche, die vermutlich einst eine Synagoge war, und achten Sie auf die architektonischen Spuren beider Religionen.",
+            "hu": "Fedezze fel ezt a lenyűgöző, egykori zsinagógának tartott templomot, és figyelje meg a két vallás építészeti jegyeinek finom keveredését.",
+            "ro": "Explorați această biserică fascinantă, despre care se crede că a fost o sinagogă, și observați indiciile arhitecturale ce îmbină două credințe.",
+            "en": "Explore this fascinating church, believed to be a former synagogue, and take a moment to observe the subtle architectural clues blending two faiths."
+          }
+        },
+        {
+          "name": {
+            "de": "Parroquia del Santo Cristo de la Misericordia",
+            "hu": "Misericordia plébánia",
+            "ro": "Parohia Misericordia",
+            "en": "Misericordia Parish"
+          },
+          "coords": [
+            -3.390399,
+            38.75941
+          ],
+          "category": "religious",
+          "arrive_at": "12:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.68,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese ruhige Pfarrkirche, um ihr wunderschönes Altarbild zu sehen, und verhalten Sie sich leise, da es ein aktiver Gottesdienstort ist.",
+            "hu": "Lépjen be ebbe a békés plébániába, hogy megtekintse gyönyörű oltárképét, de ne feledje, hogy ez egy aktív imahely, így illik halkan beszélni.",
+            "ro": "Pășiți în această parohie liniștită pentru a vedea altarul ei frumos și amintiți-vă să păstrați liniștea, fiind un loc de cult activ pentru localnici.",
+            "en": "Step into this serene parish to view its beautiful altarpiece, and remember to keep your voice down as it remains an active place of local worship."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Vino",
+            "hu": "Bormúzeum",
+            "ro": "Muzeul Vinului",
+            "en": "Wine Museum"
+          },
+          "coords": [
+            -3.393125,
+            38.760524
+          ],
+          "category": "museum",
+          "arrive_at": "13:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem umfassenden Museum in das lokale Weinerbe ein und verpassen Sie nicht die interaktiven Ausstellungen und den Verkostungsraum.",
+            "hu": "Mélyedjen el a helyi borászati örökségben ebben az átfogó múzeumban, és a kóstolóterem felkeresése előtt ne hagyja ki az interaktív kiállításokat.",
+            "ro": "Explorați moștenirea viticolă locală în acest muzeu cuprinzător și nu ratați expozițiile interactive înainte de a vizita sala de degustare.",
+            "en": "Dive deep into the local wine heritage at this comprehensive museum, and don't miss the interactive exhibits before heading to the tasting room."
+          }
+        },
+        {
+          "name": {
+            "de": "Puerta del Vino",
+            "hu": "Borkapu",
+            "ro": "Poarta Vinului",
+            "en": "Wine Gate"
+          },
+          "coords": [
+            -3.38798,
+            38.758672
+          ],
+          "category": "landmark",
+          "arrive_at": "15:02",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.49,
+          "tip_5lang": {
+            "de": "Passieren Sie das Weintor, das den Weinbau von Valdepeñas feiert, und halten Sie inne, um die künstlerischen Reliefs der Weinlese zu bewundern.",
+            "hu": "Haladjon át a Valdepeñas borászatát ünneplő látványos Borkapun, és álljon meg egy pillanatra megcsodálni a szüretet ábrázoló művészi domborműveket.",
+            "ro": "Treceți prin spectaculoasa Poartă a Vinului ce celebrează viticultura din Valdepeñas și admirați reliefurile artistice care înfățișează culesul strugurilor.",
+            "en": "Pass through the striking Wine Gate that celebrates Valdepeñas' rich viticulture, and pause to admire the artistic reliefs depicting grape harvesting."
+          }
+        },
+        {
+          "name": {
+            "de": "Don Quijote (dedicado a Alberto Ramírez)",
+            "hu": "Don Quijote szobra",
+            "ro": "Statuia Don Quijote",
+            "en": "Don Quixote Statue"
+          },
+          "coords": [
+            -3.385455,
+            38.757903
+          ],
+          "category": "historical",
+          "arrive_at": "15:28",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Stehen Sie vor dieser Statue von Don Quijote, die Alberto Ramírez gewidmet ist, und beachten Sie die ausdrucksstarke Haltung des Ritters.",
+            "hu": "Álljon meg a Don Quijotét ábrázoló, Alberto Ramíreznek ajánlott szobor előtt, és figyelje meg a lovag elszántságát tükröző kifejező testtartást.",
+            "ro": "Priviți această statuie evocatoare a lui Don Quijote dedicată lui Alberto Ramírez și observați postura expresivă ce surprinde determinarea cavalerului.",
+            "en": "Stand before this evocative statue of Don Quixote dedicated to Alberto Ramírez, and notice the expressive posture capturing the knight's determination."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt am Amphitheater und fahren Sie dann zum Gregorio-Prieto-Windmühlenmuseum. Gegen Mittag tauchen Sie in die religiöse Geschichte der Stadt in den Kirchen Veracruz und Misericordia ein. Der Nachmittag ist der berühmten Weinkultur im Weinmuseum und am Weintor gewidmet. Beenden Sie den Tag entspannt, indem Sie die legendären Don-Quijote-Statuen bewundern.",
+        "hu": "Kezdje az utat a hatalmas szabadtéri amfiteátrumnál, majd irány a Gregorio Prieto szélmalom-múzeum. Délben mélyedjen el a város vallástörténetében a Veracruz és a Misericordia templomoknál. A délután a híres borkultúráé a Bormúzeumban és az azt kísérő Borkapunál. A napot a lovagrendű Don Quijote legendás szobrainak megcsodálásával és lefotózásával zárhatja.",
+        "ro": "Începeți la grandiosul amfiteatru în aer liber, apoi vizitați Muzeul Moara de Vânt Gregorio Prieto. În jurul prânzului, explorați istoria religioasă a orașului la bisericile Veracruz și Misericordia. După-amiaza este rezervată culturii vinului la Muzeul Vinului și spectaculoasa Poartă a Vinului. Încheiați ziua admirând statuile iconice ale lui Don Quijote.",
+        "en": "Begin your drive at the grand outdoor amphitheater, then head to the Gregorio Prieto Windmill Museum to explore its artistic treasures. Around midday, delve into the city's religious history at the Veracruz and Misericordia churches. The afternoon is reserved for Valdepeñas' celebrated wine culture at the Wine Museum and the adjacent Wine Gate. Conclude your day admiring the statues of Don Quixote."
+      }
+    }
+  }
+}

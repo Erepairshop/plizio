@@ -1,0 +1,497 @@
+{
+  "city_id": "sharm-el-sheikh-cities-v2",
+  "anchor": {
+    "name": "Sharm El Sheikh",
+    "coords": [
+      34.3299,
+      27.9158
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:15",
+      "total_km": 4.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sharm",
+            "hu": "Sharm",
+            "ro": "Sharm",
+            "en": "Sharm"
+          },
+          "coords": [
+            34.32448,
+            27.908208
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das belebte Zentrum von Sharm für die lokale Atmosphäre und kommen Sie früh, bevor die Hitze einsetzt.",
+            "hu": "Fedezze fel Sharm nyüzsgő központját a helyi hangulatért, és érkezzen korán, mielőtt a déli hőség beállna.",
+            "ro": "Explorați zona centrală din Sharm pentru a simți vibrația locală și încercați să ajungeți înainte de căldura amiezii.",
+            "en": "Explore the bustling central area of Sharm to feel the local vibe, and try to arrive early before the midday heat sets in."
+          }
+        },
+        {
+          "name": {
+            "de": "Fun Town",
+            "hu": "Fun Town",
+            "ro": "Fun Town",
+            "en": "Fun Town"
+          },
+          "coords": [
+            34.317696,
+            27.91055
+          ],
+          "category": "family",
+          "arrive_at": "10:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bringen Sie die Familie für unterhaltsame Fahrgeschäfte mit und prüfen Sie vorher die Öffnungszeiten für Ihren Besuch.",
+            "hu": "Hozza el a családot a szórakoztató játékokhoz, de előtte ellenőrizze a nyitvatartási időt a tervezéshez.",
+            "ro": "Aduceți familia pentru o experiență plină de distracție cu jocuri și verificați programul de funcționare în prealabil.",
+            "en": "Bring the family for a fun-filled experience with rides and games, but check the opening hours beforehand to plan efficiently."
+          }
+        },
+        {
+          "name": {
+            "de": "King Tut Museum",
+            "hu": "King Tut Múzeum",
+            "ro": "Muzeul King Tut",
+            "en": "King Tut Museum"
+          },
+          "coords": [
+            34.318814,
+            27.907478
+          ],
+          "category": "museum",
+          "arrive_at": "11:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die detaillierten Nachbildungen der Schätze von Tutanchamun und lesen Sie die Tafeln für historischen Kontext.",
+            "hu": "Csodálja meg Tutanhamon kincseinek másolatait, és szánjon időt az informatív táblák elolvasására a történelmi kontextusért.",
+            "ro": "Admirați replicile detaliate ale comorilor lui Tutankhamon și acordați-vă timp pentru a citi plăcuțele informative.",
+            "en": "Admire the meticulously crafted replicas of Tutankhamun's treasures, and take time reading the informative plaques."
+          }
+        },
+        {
+          "name": {
+            "de": "Öffentlicher Strand",
+            "hu": "Nyilvános Strand",
+            "ro": "Plaja Publică",
+            "en": "Public Beach"
+          },
+          "coords": [
+            34.328,
+            27.912454
+          ],
+          "category": "recreational",
+          "arrive_at": "13:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den Sandstränden und bringen Sie Ihre eigene Schnorchelausrüstung mit, um bunte Fische zu sehen.",
+            "hu": "Pihenjen a homokos parton, és mindenképpen hozzon magával saját sznorkelfelszerelést a színes halak megfigyeléséhez.",
+            "ro": "Relaxați-vă pe țărmurile nisipoase și asigurați-vă că aduceți propriul echipament de snorkeling pentru a vedea peștii.",
+            "en": "Relax on the sandy shores and make sure to bring your own snorkeling gear to spot the vibrant fish in the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Cleo Park",
+            "hu": "Cleo Park",
+            "ro": "Cleo Park",
+            "en": "Cleo Park"
+          },
+          "coords": [
+            34.322468,
+            27.91753
+          ],
+          "category": "family",
+          "arrive_at": "15:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich in diesem Wasserpark im Pharaonen-Stil ab und mieten Sie ein Schließfach für Ihre Wertsachen am Eingang.",
+            "hu": "Hűsöljön ebben a fáraó témájú víziparkban, és ne felejtsen el értékmegőrzőt bérelni az értékei számára a bejáratnál.",
+            "ro": "Răcoriți-vă în acest parc acvatic cu tematică faraonică și închiriați un dulap pentru obiectele de valoare la intrare.",
+            "en": "Cool down at this Pharaonic-themed water park and remember to rent a locker for your valuables near the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Sinai Grand Casino",
+            "hu": "Sinai Grand Kaszinó",
+            "ro": "Sinai Grand Casino",
+            "en": "Sinai Grand Casino"
+          },
+          "coords": [
+            34.340312,
+            27.918536
+          ],
+          "category": "landmark",
+          "arrive_at": "16:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Erleben Sie den Glamour dieses bekannten Unterhaltungsortes, aber beachten Sie den Dresscode für den Einlass.",
+            "hu": "Tapasztalja meg a szórakozóhely csillogását, de vegye figyelembe, hogy a belépéshez általában elegáns ruházat szükséges.",
+            "ro": "Experimentați farmecul acestui loc de divertisment, dar rețineți că pentru intrare este necesară o ținută elegantă.",
+            "en": "Experience the glamour of this prominent entertainment venue, but note that a smart casual dress code is required for entry."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Zentrum von Sharm und spazieren Sie zum Fun Town für unbeschwerte Morgenunterhaltung.\n\nMittags erwartet Sie ein kultureller Wechsel mit faszinierenden Ausstellungen im King Tut Museum, gefolgt von einer Pause am Strand.\n\nGenießen Sie am Nachmittag die lebhafte Atmosphäre und die Wasserspiele im Cleo Park, um sich angenehm abzukühlen.\n\nBeenden Sie Ihre Tour mit einem abendlichen Besuch im Sinai Grand Casino und bewundern Sie die funkelnde Architektur.",
+        "hu": "Kezdje a napot Sharm nyüzsgő központjában, majd tegyen egy rövid sétát a Fun Town felé egy kis reggeli szórakozásért.\n\nDélben a King Tut Múzeum lenyűgöző leleteinek felfedezése várja, majd egy pihentető szünet a nyilvános strandon.\n\nDélután élvezze a Cleo Park élénk hangulatát és hűsítő medencéit az igazi felfrissülés érdekében a melegben.\n\nZárja a túrát egy látogatással a Sinai Grand Kaszinóban, megcsodálva annak lenyűgöző építészetét és fényeit.",
+        "ro": "Începeți ziua în centrul din Sharm, apoi faceți o plimbare către Fun Town pentru o dimineață relaxantă și plină de jocuri.\n\nLa prânz, explorați artefactele fascinante de la Muzeul King Tut, urmate de o pauză liniștită la plaja publică.\n\nDupă-amiaza, bucurați-vă de atmosfera plină de energie și atracțiile acvatice din Cleo Park pentru a vă răcori.\n\nÎncheiați turul cu o vizită de seară la Sinai Grand Casino, admirând arhitectura sa grandioasă și luminile vibrante.",
+        "en": "Begin your day in the heart of Sharm, then take a short stroll to Fun Town for some lighthearted morning entertainment.\n\nMidday brings a cultural shift as you explore the artifacts at the King Tut Museum, followed by a pause at the Public Beach.\n\nIn the afternoon, enjoy the lively atmosphere and refreshing water features at Cleo Park to cool down from the sun.\n\nConclude your walking tour with an evening visit to the Sinai Grand Casino, admiring its grand architecture and vibrant lights."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "King Tut Museum",
+            "hu": "King Tut Múzeum",
+            "ro": "Muzeul King Tut",
+            "en": "King Tut Museum"
+          },
+          "coords": [
+            34.318814,
+            27.907478
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihren Tag früh hier, um die kunstvollen Nachbildungen in Ruhe und ohne großen Andrang zu betrachten.",
+            "hu": "Kezdje a napot korán itt, hogy a művészi másolatokat nyugalomban és nagy tömeg nélkül csodálhassa meg.",
+            "ro": "Începeți ziua devreme aici pentru a admira replicile artistice în liniște și fără aglomerație majoră.",
+            "en": "Start your day early here to admire the artistic replicas in peace and without facing large crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Öffentlicher Strand",
+            "hu": "Nyilvános Strand",
+            "ro": "Plaja Publică",
+            "en": "Public Beach"
+          },
+          "coords": [
+            34.328,
+            27.912454
+          ],
+          "category": "recreational",
+          "arrive_at": "10:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Sichern Sie sich Ihr Fahrrad am Strandzugang und genießen Sie eine erfrischende Pause am klaren Wasser des Meeres.",
+            "hu": "Zárja le kerékpárját a strand bejáratánál, és élvezze a frissítő pihenőt a tenger kristálytiszta vize mellett.",
+            "ro": "Asigurați-vă bicicleta la intrarea pe plajă și bucurați-vă de o pauză revigorantă la apa cristalină a mării.",
+            "en": "Secure your bike near the beach entrance and enjoy a refreshing break by the crystal clear waters of the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Sinai Grand Casino",
+            "hu": "Sinai Grand Kaszinó",
+            "ro": "Sinai Grand Casino",
+            "en": "Sinai Grand Casino"
+          },
+          "coords": [
+            34.340312,
+            27.918536
+          ],
+          "category": "landmark",
+          "arrive_at": "12:19",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Machen Sie einen Fotostopp an diesem markanten Gebäude, das auch tagsüber mit seiner Architektur beeindruckt.",
+            "hu": "Tartson fotószünetet ennél a feltűnő épületnél, amely nappal is lenyűgöz egyedi és nagyszerű építészetével.",
+            "ro": "Faceți o oprire pentru fotografii la această clădire impresionantă care atrage atenția prin arhitectura sa deosebită.",
+            "en": "Make a quick photo stop at this prominent building, which impresses with its grand architecture even during the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Near Garden",
+            "hu": "Near Garden",
+            "ro": "Near Garden",
+            "en": "Near Garden"
+          },
+          "coords": [
+            34.346712,
+            27.908104
+          ],
+          "category": "landmark",
+          "arrive_at": "13:26",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie zugängliches Schnorcheln mit wunderschönen Korallen, aber tragen Sie Wasserschuhe zum Schutz.",
+            "hu": "Fedezze fel a könnyen megközelíthető sznorkelezést gyönyörű korallokkal, de viseljen vizicipőt a védelem érdekében.",
+            "ro": "Descoperiți snorkeling-ul accesibil cu corali frumoși, dar purtați încălțăminte de apă pentru a vă proteja picioarele.",
+            "en": "Discover accessible snorkeling with beautiful coral formations, but wear water shoes to protect your feet."
+          }
+        },
+        {
+          "name": {
+            "de": "Middle Garden",
+            "hu": "Middle Garden",
+            "ro": "Middle Garden",
+            "en": "Middle Garden"
+          },
+          "coords": [
+            34.351121,
+            27.91296
+          ],
+          "category": "landmark",
+          "arrive_at": "14:30",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie die farbenfrohe Unterwasserwelt bei Flut, um sicher über das flache Riff schnorcheln zu können.",
+            "hu": "Fedezze fel a színes víz alatti világot dagálykor, hogy biztonságosan úszhasson a sekély zátony felett.",
+            "ro": "Explorați lumea subacvatică colorată în timpul fluxului pentru a înota în siguranță deasupra recifului superficial.",
+            "en": "Explore the colorful underwater world during high tide to safely glide over the shallow and delicate reef."
+          }
+        },
+        {
+          "name": {
+            "de": "Far Garden",
+            "hu": "Far Garden",
+            "ro": "Far Garden",
+            "en": "Far Garden"
+          },
+          "coords": [
+            34.358875,
+            27.915005
+          ],
+          "category": "landmark",
+          "arrive_at": "15:35",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Tauchen Sie ab an diesem spektakulären Riff und halten Sie Ausschau nach majestätischen Meeresschildkröten.",
+            "hu": "Merüljön el ennél a látványos zátonynál, és tartsa nyitva a szemét a fenséges tengeri teknősökért.",
+            "ro": "Scufundați-vă la acest recif spectaculos și fiți cu ochii în patru pentru țestoasele marine maiestuoase.",
+            "en": "Dive into this spectacular reef known for its deep drop-offs and keep a close eye out for majestic sea turtles."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt mit einem lehrreichen Morgen im King Tut Museum, ideal für die frühen, kühlen Stunden.\n\nAnschließend radeln Sie gemütlich zum öffentlichen Strand und weiter zum Sinai Grand Casino für erste architektonische Eindrücke.\n\nDer Nachmittag steht ganz im Zeichen der Korallenriffe: Sie besuchen den Near Garden und den Middle Garden für exzellente Unterwassererlebnisse.\n\nDie Tour endet am Far Garden, wo Sie in der späten Nachmittagssonne die beeindruckendste Artenvielfalt der Region bewundern.",
+        "hu": "Kerékpártúrája egy tanulságos délelőttel indul a King Tut Múzeumban, amely ideális a hűvösebb korai órákban.\n\nEzt követően kényelmesen elteker a strandra, majd a Sinai Grand Kaszinó felé, lenyűgöző építészeti látványokért.\n\nA délután a korallzátonyoké: meglátogatja a Near Gardent és a Middle Gardent, amelyek kiváló búvárkodást kínálnak.\n\nA túra a Far Gardennél ér véget, ahol a késő délutáni napsütésben csodálhatja meg a régió legszebb élővilágát.",
+        "ro": "Turul cu bicicleta începe cu o dimineață educativă la Muzeul King Tut, ideal pentru orele răcoroase ale dimineții.\n\nApoi pedalați liniștit către plaja publică și spre Sinai Grand Casino pentru primele impresii arhitecturale.\n\nDupă-amiaza este dedicată recifelor de corali: veți vizita Near Garden și Middle Garden pentru experiențe subacvatice excelente.\n\nTurul se încheie la Far Garden, unde veți admira cea mai impresionantă biodiversitate marină în soarele după-amiezii.",
+        "en": "Your cycling tour begins with an educational morning at the King Tut Museum, perfect for the cooler early hours.\n\nYou'll then enjoy a leisurely ride to the Public Beach and onto the Sinai Grand Casino for grand architectural views.\n\nThe afternoon is dedicated to the coral reefs, visiting Near Garden and Middle Garden for excellent snorkeling sessions.\n\nThe journey concludes at Far Garden, where you can admire the region's most impressive marine life in the late afternoon sun."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:07",
+      "total_km": 6.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Fun Town",
+            "hu": "Fun Town",
+            "ro": "Fun Town",
+            "en": "Fun Town"
+          },
+          "coords": [
+            34.317696,
+            27.91055
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie den bequemen Parkplatz und starten Sie den Tag mit kurzweiligen Spielen und Attraktionen für die Familie.",
+            "hu": "Használja ki a kényelmes parkolót, és kezdje a napot szórakoztató játékokkal és attrakciókkal a család számára.",
+            "ro": "Folosiți parcarea convenabilă și începeți ziua cu jocuri distractive și atracții perfecte pentru întreaga familie.",
+            "en": "Make use of the convenient parking and start the day with entertaining games and attractions for the whole family."
+          }
+        },
+        {
+          "name": {
+            "de": "King Tut Museum",
+            "hu": "King Tut Múzeum",
+            "ro": "Muzeul King Tut",
+            "en": "King Tut Museum"
+          },
+          "coords": [
+            34.318814,
+            27.907478
+          ],
+          "category": "museum",
+          "arrive_at": "10:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Ein kurzer Fahrweg bringt Sie zu diesen beeindruckenden Artefakten; ideal für eine kulturelle Pause vor dem Mittag.",
+            "hu": "Egy rövid autóút elviszi ezekhez a lenyűgöző leletekhez; ideális egy kulturális szünethez dél előtt.",
+            "ro": "Un scurt drum cu mașina vă aduce la aceste artefacte impresionante, ideal pentru o pauză culturală înainte de prânz.",
+            "en": "A short drive brings you to these impressive artifacts, making it an ideal cultural pause before the midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Cleo Park",
+            "hu": "Cleo Park",
+            "ro": "Cleo Park",
+            "en": "Cleo Park"
+          },
+          "coords": [
+            34.322468,
+            27.91753
+          ],
+          "category": "family",
+          "arrive_at": "12:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Parken Sie direkt am Eingang und kühlen Sie sich in den aufregenden Becken dieses ägyptisch thematisierten Parks ab.",
+            "hu": "Parkoljon közvetlenül a bejáratnál, és hűsöljön ennek az egyiptomi témájú parknak az izgalmas medencéiben.",
+            "ro": "Parcați chiar la intrare și răcoriți-vă în piscinele captivante ale acestui parc cu tematică egipteană antică.",
+            "en": "Park right at the entrance and cool off in the exciting pools of this distinctively Egyptian-themed water park."
+          }
+        },
+        {
+          "name": {
+            "de": "Sinai Grand Casino",
+            "hu": "Sinai Grand Kaszinó",
+            "ro": "Sinai Grand Casino",
+            "en": "Sinai Grand Casino"
+          },
+          "coords": [
+            34.340312,
+            27.918536
+          ],
+          "category": "landmark",
+          "arrive_at": "13:29",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Betrachten Sie die opulente Architektur am Tag, bevor Sie sich zu den entspannteren Natur-Highlights aufmachen.",
+            "hu": "Tekintse meg az épület lenyűgöző építészetét nappal, mielőtt elindulna a pihentetőbb természeti látványosságok felé.",
+            "ro": "Priviți arhitectura opulentă pe timpul zilei, înainte de a vă îndrepta spre atracțiile naturale mai relaxante.",
+            "en": "Take a look at the opulent architecture during the day before you drive off to the more relaxing natural highlights."
+          }
+        },
+        {
+          "name": {
+            "de": "Near Garden",
+            "hu": "Near Garden",
+            "ro": "Near Garden",
+            "en": "Near Garden"
+          },
+          "coords": [
+            34.346712,
+            27.908104
+          ],
+          "category": "landmark",
+          "arrive_at": "14:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Lassen Sie die Ausrüstung im Kofferraum und holen Sie sie hier bequem heraus, um die flachen Korallen zu erkunden.",
+            "hu": "Hagyja a felszerelést a csomagtartóban, és itt kényelmesen előveheti a sekély korallok felfedezéséhez.",
+            "ro": "Lăsați echipamentul în portbagaj și scoateți-l convenabil aici pentru a explora coralii din zonele mai puțin adânci.",
+            "en": "Keep your gear in the trunk and easily grab it here to explore the shallow and accessible coral formations."
+          }
+        },
+        {
+          "name": {
+            "de": "Middle Garden",
+            "hu": "Middle Garden",
+            "ro": "Middle Garden",
+            "en": "Middle Garden"
+          },
+          "coords": [
+            34.351121,
+            27.91296
+          ],
+          "category": "landmark",
+          "arrive_at": "15:34",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Fahren Sie weiter an der Küste entlang zu diesem ruhigen Spot, ideal für fortgeschrittene Schnorchler ohne lange Wege.",
+            "hu": "Vezessen tovább a parton ehhez a csendes helyhez, amely ideális haladó sznorkelezőknek hosszú gyaloglás nélkül.",
+            "ro": "Conduceți de-a lungul coastei către acest loc liniștit, ideal pentru iubitorii de snorkeling cu experiență medie.",
+            "en": "Drive slightly further along the coast to this quiet spot, perfect for intermediate snorkelers without long walks."
+          }
+        },
+        {
+          "name": {
+            "de": "Far Garden",
+            "hu": "Far Garden",
+            "ro": "Far Garden",
+            "en": "Far Garden"
+          },
+          "coords": [
+            34.358875,
+            27.915005
+          ],
+          "category": "landmark",
+          "arrive_at": "17:37",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Der perfekte Abschluss mit dem Auto: Tauchen Sie in tiefere Gewässer ein und beobachten Sie das reichhaltige Meeresleben.",
+            "hu": "Tökéletes autós lezárás: merüljön el a mélyebb vizekben, és figyelje meg a gazdag és lenyűgöző tengeri élővilágot.",
+            "ro": "O încheiere perfectă cu mașina: scufundați-vă în ape mai adânci și observați bogata diversitate marină a regiunii.",
+            "en": "The perfect finale accessible by car: dive into the deeper waters here and observe the rich marine biodiversity."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto startet der Tag komfortabel im Fun Town, gefolgt von einer schnellen Fahrt zum faszinierenden King Tut Museum.\n\nZur Mittagshitze erreichen Sie bequem den Cleo Park für eine nasse Erfrischung und halten danach am Sinai Grand Casino.\n\nDer Nachmittag wird nautisch: Sie steuern mühelos die Küstenpunkte Near Garden und Middle Garden an.\n\nZum krönenden Abschluss führt die Route zum Far Garden, wo Sie bis in den Abend hinein eine unvergleichliche Unterwasserwelt bewundern.",
+        "hu": "Az autóval a nap kényelmesen indul a Fun Townban, majd gyorsan átgurulhat a lenyűgöző King Tut Múzeumhoz.\n\nA déli hőségben kényelmesen elérheti a Cleo Parkot egy vizes frissítőért, majd megáll a Sinai Grand Kaszinónál.\n\nA délután tengeri kalandokat ígér: könnyedén eléri a part menti Near Garden és Middle Garden látványos zátonyait.\n\nA nap fénypontjaként az út a Far Gardenhez vezet, ahol kora estig csodálhatja a páratlan víz alatti élővilágot.",
+        "ro": "Cu mașina, ziua începe confortabil la Fun Town, urmată de o scurtă călătorie spre fascinantul Muzeu King Tut.\n\nLa căldura amiezii ajungeți rapid la Cleo Park pentru a vă răcori, apoi faceți o oprire la Sinai Grand Casino.\n\nDupă-amiaza devine nautică: vă îndreptați fără efort spre punctele de coastă Near Garden și Middle Garden.\n\nCa punct culminant, traseul vă poartă la Far Garden, unde veți admira o lume subacvatică de neegalat până seara.",
+        "en": "By car, the day starts comfortably at Fun Town, followed by a quick drive to the fascinating exhibits of the King Tut Museum.\n\nDuring the midday heat, you easily reach Cleo Park for aquatic refreshment before stopping by the Sinai Grand Casino.\n\nThe afternoon turns nautical as you effortlessly navigate to the coastal snorkeling spots of Near Garden and Middle Garden.\n\nFor a grand finale, the route takes you to Far Garden, where you can admire an unparalleled underwater world well into the evening."
+      }
+    }
+  }
+}

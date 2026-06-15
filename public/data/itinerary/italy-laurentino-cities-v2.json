@@ -1,0 +1,451 @@
+{
+  "city_id": "italy-laurentino-cities-v2",
+  "anchor": {
+    "name": "Laurentino",
+    "coords": [
+      12.472981,
+      41.809786
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:48",
+      "total_km": 4.16,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Centro culturale Elsa Morante",
+            "hu": "Centro culturale Elsa Morante",
+            "ro": "Centro culturale Elsa Morante",
+            "en": "Centro culturale Elsa Morante"
+          },
+          "coords": [
+            12.469161,
+            41.812346
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses moderne Zentrum, das der berühmten Schriftstellerin gewidmet ist, und prüfen Sie vorab das Programm für aktuelle Ausstellungen.",
+            "hu": "Látogasson el a híres írónőnek szentelt modern központba, és előzetesen ellenőrizze az aktuális kiállítások és programok részletes menetrendjét.",
+            "ro": "Vizitați acest centru modern dedicat celebrei scriitoare și verificați programul în prealabil pentru a prinde expozițiile și evenimentele actuale.",
+            "en": "Visit this modern center dedicated to the famous writer, and check the schedule in advance to catch contemporary exhibitions or local cultural events."
+          }
+        },
+        {
+          "name": {
+            "de": "La Vaccheria",
+            "hu": "La Vaccheria",
+            "ro": "La Vaccheria",
+            "en": "La Vaccheria"
+          },
+          "coords": [
+            12.458024,
+            41.813482
+          ],
+          "category": "museum",
+          "arrive_at": "10:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.94,
+          "tip_5lang": {
+            "de": "Entdecken Sie archäologische und moderne Kunst in diesem restaurierten Bauernhaus, wobei der Vormittag für ein ruhiges Erlebnis besonders ideal ist.",
+            "hu": "Fedezze fel a régészeti és modern művészetet ebben a felújított parasztházban, ahol a délelőtti órák ideálisak egy igazán nyugodt élményhez.",
+            "ro": "Descoperiți arta arheologică și modernă în această fermă restaurată, unde dimineața este momentul ideal pentru o experiență de vizitare liniștită.",
+            "en": "Discover archaeological finds and modern art in this restored farmhouse, where arriving in the morning guarantees a wonderfully peaceful experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Atlantico Live!",
+            "hu": "Atlantico Live!",
+            "ro": "Atlantico Live!",
+            "en": "Atlantico Live!"
+          },
+          "coords": [
+            12.462348,
+            41.815144
+          ],
+          "category": "cultural",
+          "arrive_at": "12:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erleben Sie die Energie dieser bekannten Veranstaltungshalle für Konzerte, am besten schauen Sie sich die Architektur nachmittags in Ruhe an.",
+            "hu": "Tapasztalja meg ennek a híres koncertteremnek az energiáját, de az egyedi építészeti megoldásokat a csendesebb délutáni órákban érdemes megnézni.",
+            "ro": "Simțiți energia acestei celebre săli de concerte; pentru a admira arhitectura în liniște, planificați o scurtă vizită în timpul zilei.",
+            "en": "Experience the dynamic energy of this popular concert venue; viewing its architecture during the day allows for a much quieter appreciation."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa dello Spirito Santo alla Ferratella",
+            "hu": "Chiesa dello Spirito Santo alla Ferratella",
+            "ro": "Chiesa dello Spirito Santo alla Ferratella",
+            "en": "Chiesa dello Spirito Santo alla Ferratella"
+          },
+          "coords": [
+            12.473434,
+            41.817722
+          ],
+          "category": "religious",
+          "arrive_at": "13:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.97,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante moderne Architektur dieser Kirche und achten Sie besonders auf die einzigartige Lichtführung im ruhigen Innenraum.",
+            "hu": "Csodálja meg a templom feltűnő modern építészetét, és figyelje meg a természetes fény lenyűgöző játékát a csendes, meditatív belső térben.",
+            "ro": "Admirați arhitectura modernă impresionantă a acestei biserici și observați jocul unic de lumină naturală în interiorul extrem de liniștit.",
+            "en": "Admire the striking modern architecture of this contemporary church, paying special attention to the unique natural lighting in the quiet interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Anfiteatro",
+            "hu": "Anfiteatro",
+            "ro": "Anfiteatro",
+            "en": "Anfiteatro"
+          },
+          "coords": [
+            12.473576,
+            41.801092
+          ],
+          "category": "cultural",
+          "arrive_at": "15:03",
+          "stay_min": 105,
+          "hop_from_prev_min": 28,
+          "hop_from_prev_km": 1.85,
+          "tip_5lang": {
+            "de": "Genießen Sie die Weitläufigkeit dieses modernen Amphitheaters im Freien; bringen Sie Wasser mit, da es nachmittags kaum Schattenplätze gibt.",
+            "hu": "Élvezze a tágas, modern szabadtéri amfiteátrum hangulatát; hozzon magával elegendő vizet, mivel a délutáni órákban szinte egyáltalán nincs árnyék.",
+            "ro": "Bucurați-vă de spațiul acestui amfiteatru modern în aer liber; aduceți neapărat apă, deoarece după-amiaza nu există aproape deloc zone cu umbră.",
+            "en": "Enjoy the open space of this modern outdoor amphitheater, but make sure to bring water as there is very little shade available in the afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen in Laurentino mit einer ruhigen Erkundung lokaler Kulturzentren und moderner Architektur. Mittags genießen Sie die Atmosphäre rund um die innovativen Museumskonzepte und Ausstellungsräume der Gegend. Der Nachmittag bietet spannende Einblicke in spirituelle und offene Räume. Lassen Sie den Tag entspannt in den weitläufigen architektonischen Arenen ausklingen.",
+        "hu": "Kezdje a reggelt Laurentinóban a helyi kulturális központok és a modern építészet nyugodt felfedezésével. Délben élvezze az innovatív múzeumi koncepciók és kiállítóterek inspiráló hangulatát. A délután izgalmas bepillantást nyújt a spirituális és nyitott terek világába. Zárja a napot lazítva a lenyűgöző tágas építészeti arénák egyikében.",
+        "ro": "Începeți dimineața în Laurentino cu o explorare liniștită a centrelor culturale locale și a arhitecturii moderne. La prânz, bucurați-vă de atmosfera plină de inspirație din jurul conceptelor muzeale inovatoare. După-amiaza oferă o privire captivantă asupra spațiilor spirituale și deschise. Încheiați ziua relaxându-vă în arenele arhitecturale uimitoare.",
+        "en": "Start your morning in Laurentino with a peaceful exploration of local cultural hubs and striking modern architecture. At midday, immerse yourself in the inspiring atmosphere of innovative museum concepts and dynamic exhibition spaces. The afternoon offers a captivating look at spiritual sanctuaries. End your day relaxing in the open spaces of grand architectural arenas."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:57",
+      "total_km": 5.16,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Anfiteatro",
+            "hu": "Anfiteatro",
+            "ro": "Anfiteatro",
+            "en": "Anfiteatro"
+          },
+          "coords": [
+            12.473576,
+            41.801092
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die Weitläufigkeit dieses modernen Amphitheaters im Freien; bringen Sie Wasser mit, da es nachmittags kaum Schattenplätze gibt.",
+            "hu": "Élvezze a tágas, modern szabadtéri amfiteátrum hangulatát; hozzon magával elegendő vizet, mivel a délutáni órákban szinte egyáltalán nincs árnyék.",
+            "ro": "Bucurați-vă de spațiul acestui amfiteatru modern în aer liber; aduceți neapărat apă, deoarece după-amiaza nu există aproape deloc zone cu umbră.",
+            "en": "Enjoy the open space of this modern outdoor amphitheater, but make sure to bring water as there is very little shade available in the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro culturale Elsa Morante",
+            "hu": "Centro culturale Elsa Morante",
+            "ro": "Centro culturale Elsa Morante",
+            "en": "Centro culturale Elsa Morante"
+          },
+          "coords": [
+            12.469161,
+            41.812346
+          ],
+          "category": "cultural",
+          "arrive_at": "10:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses moderne Zentrum, das der berühmten Schriftstellerin gewidmet ist, und prüfen Sie vorab das Programm für aktuelle Ausstellungen.",
+            "hu": "Látogasson el a híres írónőnek szentelt modern központba, és előzetesen ellenőrizze az aktuális kiállítások és programok részletes menetrendjét.",
+            "ro": "Vizitați acest centru modern dedicat celebrei scriitoare și verificați programul în prealabil pentru a prinde expozițiile și evenimentele actuale.",
+            "en": "Visit this modern center dedicated to the famous writer, and check the schedule in advance to catch contemporary exhibitions or local cultural events."
+          }
+        },
+        {
+          "name": {
+            "de": "La Vaccheria",
+            "hu": "La Vaccheria",
+            "ro": "La Vaccheria",
+            "en": "La Vaccheria"
+          },
+          "coords": [
+            12.458024,
+            41.813482
+          ],
+          "category": "museum",
+          "arrive_at": "11:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.94,
+          "tip_5lang": {
+            "de": "Entdecken Sie archäologische und moderne Kunst in diesem restaurierten Bauernhaus, wobei der Vormittag für ein ruhiges Erlebnis besonders ideal ist.",
+            "hu": "Fedezze fel a régészeti és modern művészetet ebben a felújított parasztházban, ahol a délelőtti órák ideálisak egy igazán nyugodt élményhez.",
+            "ro": "Descoperiți arta arheologică și modernă în această fermă restaurată, unde dimineața este momentul ideal pentru o experiență de vizitare liniștită.",
+            "en": "Discover archaeological finds and modern art in this restored farmhouse, where arriving in the morning guarantees a wonderfully peaceful experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa dello Spirito Santo alla Ferratella",
+            "hu": "Chiesa dello Spirito Santo alla Ferratella",
+            "ro": "Chiesa dello Spirito Santo alla Ferratella",
+            "en": "Chiesa dello Spirito Santo alla Ferratella"
+          },
+          "coords": [
+            12.473434,
+            41.817722
+          ],
+          "category": "religious",
+          "arrive_at": "13:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.36,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante moderne Architektur dieser Kirche und achten Sie besonders auf die einzigartige Lichtführung im ruhigen Innenraum.",
+            "hu": "Csodálja meg a templom feltűnő modern építészetét, és figyelje meg a természetes fény lenyűgöző játékát a csendes, meditatív belső térben.",
+            "ro": "Admirați arhitectura modernă impresionantă a acestei biserici și observați jocul unic de lumină naturală în interiorul extrem de liniștit.",
+            "en": "Admire the striking modern architecture of this contemporary church, paying special attention to the unique natural lighting in the quiet interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Archivio museo storico di Fiume",
+            "hu": "Archivio museo storico di Fiume",
+            "ro": "Archivio museo storico di Fiume",
+            "en": "Archivio museo storico di Fiume"
+          },
+          "coords": [
+            12.481676,
+            41.820889
+          ],
+          "category": "museum",
+          "arrive_at": "14:23",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.77,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Geschichte von Fiume ein, nehmen Sie sich Zeit für die detaillierten Dokumente, die viele Aspekte beleuchten.",
+            "hu": "Merüljön el Fiume lenyűgöző történelmében, és szánjon elegendő időt a részletes dokumentumokra, amelyek rengeteg érdekes korszakot világítanak meg.",
+            "ro": "Aprofundați istoria fascinantă a orașului Fiume și alocați timp documentelor detaliate care aruncă lumină asupra multor aspecte importante.",
+            "en": "Dive into the fascinating history of Fiume, and take your time reading the detailed documents that shed light on numerous compelling historical aspects."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento alle vittime delle foibe istriane",
+            "hu": "Monumento alle vittime delle foibe istriane",
+            "ro": "Monumento alle vittime delle foibe istriane",
+            "en": "Monumento alle vittime delle foibe istriane"
+          },
+          "coords": [
+            12.479191,
+            41.827793
+          ],
+          "category": "historical",
+          "arrive_at": "16:07",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.79,
+          "tip_5lang": {
+            "de": "Gedenken Sie an diesem schlichten historischen Denkmal der Opfer; die ruhige Umgebung lädt besonders am späten Nachmittag zur Reflexion ein.",
+            "hu": "Emlékezzen az áldozatokra ennél az egyszerű történelmi emlékműnél; a nyugodt környezet különösen késő délután hív elmélyült elmélkedésre.",
+            "ro": "Aduceți un omagiu victimelor la acest monument istoric simplu; mediul liniștit invită la reflecție profundă, mai ales în orele târzii ale după-amiezii.",
+            "en": "Pay your respects to the victims at this solemn historical monument; the tranquil surroundings invite deep reflection, especially in the late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radfahren durch Laurentino bietet eine wunderbare Mischung aus modernen Arenen und Kulturzentren am Morgen. Zur Mittagszeit können Sie Ausstellungen in historischen Kontexten genießen. Der Nachmittag wird besinnlich mit Besuchen von modernen Kirchen und tiefgründigen Gedenkstätten. Beenden Sie die Tour an einem historischen Ort der Stille, um die Eindrücke des Tages zu reflektieren.",
+        "hu": "A Laurentinóban tett kerékpártúra a modern arénák és kulturális központok csodás keverékét kínálja reggel. Délben élvezheti a történelmi kontextusba helyezett kiállításokat. A délután elmélyültebb lesz, modern templomok és emlékművek meglátogatásával. Zárja a napot egy történelmi, csendes helyen, ahol nyugodtan átgondolhatja a nap élményeit.",
+        "ro": "Ciclismul prin Laurentino oferă un amestec minunat de arene moderne și centre culturale dimineața. La prânz, vă puteți bucura de expoziții în contexte istorice. După-amiaza devine contemplativă, cu vizite la biserici moderne și memoriale profunde. Încheiați turul într-un loc istoric liniștit pentru a reflecta asupra impresiilor din timpul zilei.",
+        "en": "Cycling through Laurentino provides a wonderful mix of modern arenas and cultural hubs in the morning. At lunchtime, enjoy captivating exhibitions set in historic contexts. The afternoon becomes contemplative with visits to contemporary churches and profound memorials. End your ride at a quiet historical monument to reflect on the day's meaningful impressions."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:23",
+      "total_km": 7.33,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di Santa Maria del Carmelo",
+            "hu": "Chiesa di Santa Maria del Carmelo",
+            "ro": "Chiesa di Santa Maria del Carmelo",
+            "en": "Chiesa di Santa Maria del Carmelo"
+          },
+          "coords": [
+            12.444373,
+            41.809157
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie hier mit einem Moment der Stille und bewundern Sie die moderne Sakralarchitektur, die im sanften Morgenlicht besonders gut wirkt.",
+            "hu": "Kezdje a napot egy csendes pillanattal, és csodálja meg a modern szakrális építészetet, amely a lágy reggeli fényben érvényesül a legjobban.",
+            "ro": "Începeți aici cu un moment de liniște și admirați arhitectura sacră modernă, care arată deosebit de impresionant în lumina blândă a dimineții.",
+            "en": "Start your day with a moment of silence here, admiring the modern sacred architecture that looks particularly striking in the soft morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "La Vaccheria",
+            "hu": "La Vaccheria",
+            "ro": "La Vaccheria",
+            "en": "La Vaccheria"
+          },
+          "coords": [
+            12.458024,
+            41.813482
+          ],
+          "category": "museum",
+          "arrive_at": "09:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.23,
+          "tip_5lang": {
+            "de": "Entdecken Sie archäologische und moderne Kunst in diesem restaurierten Bauernhaus, wobei der Vormittag für ein ruhiges Erlebnis besonders ideal ist.",
+            "hu": "Fedezze fel a régészeti és modern művészetet ebben a felújított parasztházban, ahol a délelőtti órák ideálisak egy igazán nyugodt élményhez.",
+            "ro": "Descoperiți arta arheologică și modernă în această fermă restaurată, unde dimineața este momentul ideal pentru o experiență de vizitare liniștită.",
+            "en": "Discover archaeological finds and modern art in this restored farmhouse, where arriving in the morning guarantees a wonderfully peaceful experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Telecom Italia",
+            "hu": "Torre Telecom Italia",
+            "ro": "Torre Telecom Italia",
+            "en": "Torre Telecom Italia"
+          },
+          "coords": [
+            12.488292,
+            41.800565
+          ],
+          "category": "tower",
+          "arrive_at": "11:39",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.88,
+          "tip_5lang": {
+            "de": "Blicken Sie zu diesem markanten Telekommunikationsturm hinauf, der als ein ungewöhnliches, aber faszinierendes architektonisches Fotomotiv dient.",
+            "hu": "Nézzen fel erre a jellegzetes telekommunikációs toronyra, amely bár szokatlan, de annál lenyűgözőbb építészeti fotótémaként szolgál a környéken.",
+            "ro": "Priviți acest turn de telecomunicații proeminent, care servește drept un subiect fotografic arhitectural neobișnuit, dar extrem de fascinant.",
+            "en": "Look up at this prominent telecommunications tower, which serves as an unusual yet highly fascinating architectural photo opportunity in the area."
+          }
+        },
+        {
+          "name": {
+            "de": "San Marco Evangelista in Agro Laurentino",
+            "hu": "San Marco Evangelista in Agro Laurentino",
+            "ro": "San Marco Evangelista in Agro Laurentino",
+            "en": "San Marco Evangelista in Agro Laurentino"
+          },
+          "coords": [
+            12.483655,
+            41.820664
+          ],
+          "category": "religious",
+          "arrive_at": "12:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.27,
+          "tip_5lang": {
+            "de": "Erkunden Sie die klare Linienführung dieser Kirche, ein perfektes Beispiel zeitgenössischer Kunst, und genießen Sie die spirituelle Ruhe im Inneren.",
+            "hu": "Fedezze fel a templom letisztult vonalvezetését, amely a kortárs művészet tökéletes példája, és élvezze a belső tér mély spirituális nyugalmát.",
+            "ro": "Explorați liniile clare ale acestei biserici, un exemplu perfect de artă contemporană, și bucurați-vă de liniștea spirituală profundă din interior.",
+            "en": "Explore the clean lines of this church, a perfect example of contemporary art, and enjoy the profound spiritual tranquility waiting inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Archivio museo storico di Fiume",
+            "hu": "Archivio museo storico di Fiume",
+            "ro": "Archivio museo storico di Fiume",
+            "en": "Archivio museo storico di Fiume"
+          },
+          "coords": [
+            12.481676,
+            41.820889
+          ],
+          "category": "museum",
+          "arrive_at": "12:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die faszinierende Geschichte von Fiume ein, nehmen Sie sich Zeit für die detaillierten Dokumente, die viele Aspekte beleuchten.",
+            "hu": "Merüljön el Fiume lenyűgöző történelmében, és szánjon elegendő időt a részletes dokumentumokra, amelyek rengeteg érdekes korszakot világítanak meg.",
+            "ro": "Aprofundați istoria fascinantă a orașului Fiume și alocați timp documentelor detaliate care aruncă lumină asupra multor aspecte importante.",
+            "en": "Dive into the fascinating history of Fiume, and take your time reading the detailed documents that shed light on numerous compelling historical aspects."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento alle vittime delle foibe istriane",
+            "hu": "Monumento alle vittime delle foibe istriane",
+            "ro": "Monumento alle vittime delle foibe istriane",
+            "en": "Monumento alle vittime delle foibe istriane"
+          },
+          "coords": [
+            12.479191,
+            41.827793
+          ],
+          "category": "historical",
+          "arrive_at": "14:33",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.79,
+          "tip_5lang": {
+            "de": "Gedenken Sie an diesem schlichten historischen Denkmal der Opfer; die ruhige Umgebung lädt besonders am späten Nachmittag zur Reflexion ein.",
+            "hu": "Emlékezzen az áldozatokra ennél az egyszerű történelmi emlékműnél; a nyugodt környezet különösen késő délután hív elmélyült elmélkedésre.",
+            "ro": "Aduceți un omagiu victimelor la acest monument istoric simplu; mediul liniștit invită la reflecție profundă, mai ales în orele târzii ale după-amiezii.",
+            "en": "Pay your respects to the victims at this solemn historical monument; the tranquil surroundings invite deep reflection, especially in the late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autofahrt beginnt mit faszinierender Sakralarchitektur und dem Besuch spannender, restaurierter Museumsflächen am Morgen. Gegen Mittag fahren Sie zu einem unerwarteten architektonischen Turm, der tolle Fotomotive bietet. Der Nachmittag steht im Zeichen von Spiritualität und tiefgründiger Geschichte in bedeutenden Archiven. Beenden Sie den Tag an einem ergreifenden Denkmal der Erinnerung.",
+        "hu": "Az autós túra izgalmas szakrális építészettel és lenyűgöző múzeumi kiállítások megtekintésével indul. Dél körül ellátogathat egy különleges telekommunikációs toronyhoz, amely remek fotótéma. A délután a spiritualitás és a mélyebb történelmi események jegyében telik a levéltárakban. Zárja a napot a visszaemlékezés egyik megható emlékművénél.",
+        "ro": "Călătoria cu mașina începe dimineața cu arhitectură sacră fascinantă și vizitarea unor muzee restaurate captivante. În jurul prânzului veți conduce către un turn arhitectural neașteptat, excelent pentru fotografii. După-amiaza este dedicată spiritualității și istoriei aprofundate în arhive importante. Încheiați ziua la un monument emoționant al amintirii.",
+        "en": "Your driving tour begins with fascinating sacred architecture and engaging, restored museum spaces in the morning. Around noon, drive to an unexpected architectural tower that offers great photo opportunities. The afternoon focuses on spirituality and deep historical insights inside significant archives. End your day reflecting at a moving monument of remembrance."
+      }
+    }
+  }
+}

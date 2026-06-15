@@ -1,0 +1,474 @@
+{
+  "city_id": "portugal-sao-martinho-do-porto-cities-v2",
+  "anchor": {
+    "name": "São Martinho do Porto",
+    "coords": [
+      -9.13359,
+      39.51353
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:53",
+      "total_km": 2.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Igreja Paroquial de São Martinho do Porto",
+            "hu": "Igreja Paroquial de São Martinho do Porto",
+            "ro": "Igreja Paroquial de São Martinho do Porto",
+            "en": "Igreja Paroquial de São Martinho do Porto"
+          },
+          "coords": [
+            -9.13327,
+            39.514739
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Azulejo-Fliesen im Inneren dieser zentralen Kirche, die das maritime Erbe widerspiegelt, und kleiden Sie sich für den Besuch respektvoll.",
+            "hu": "Csodálja meg a központi templom gyönyörű azulejo csempéit, amelyek a város tengerészeti örökségét tükrözik, és öltözzön tisztelettudóan a reggeli ingyenes látogatáshoz.",
+            "ro": "Admirați plăcile frumoase de azulejo din interiorul acestei biserici centrale care reflectă moștenirea maritimă și îmbrăcați-vă respectuos pentru a intra liber dimineața.",
+            "en": "Admire the beautiful azulejo tiles inside this central church that reflects the town's maritime heritage, and dress respectfully to enter freely during morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro de Santo António",
+            "hu": "Miradouro de Santo António",
+            "ro": "Miradouro de Santo António",
+            "en": "Miradouro de Santo António"
+          },
+          "coords": [
+            -9.138754,
+            39.514886
+          ],
+          "category": "natural",
+          "arrive_at": "09:58",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die muschelförmige Bucht von diesem spektakulären Aussichtspunkt und bringen Sie Ihre Kamera für beste Fotos im frühen Morgenlicht mit.",
+            "hu": "Élvezze a kagyló alakú öbölre nyíló panorámát erről a látványos kilátóból, és hozza magával fényképezőgépét a kora reggeli fényekhez, elkerülve a nagyobb tömeget.",
+            "ro": "Bucurați-vă de vederi panoramice ale golfului în formă de scoică de pe acest punct de belvedere și aduceți aparatul foto pentru cele mai bune poze în lumina dimineții.",
+            "en": "Enjoy panoramic views of the shell-shaped bay from this spectacular vantage point, and bring your camera for the best photos in the early morning light to avoid the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de São Martinho do Porto",
+            "hu": "Praia de São Martinho do Porto",
+            "ro": "Praia de São Martinho do Porto",
+            "en": "Praia de São Martinho do Porto"
+          },
+          "coords": [
+            -9.139081,
+            39.506358
+          ],
+          "category": "recreational",
+          "arrive_at": "10:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie an den ruhigen Gewässern dieser einzigartigen, perfekt geschwungenen Bucht entlang und mieten Sie früh am Tag eine Sonnenliege, um einen Platz zu sichern.",
+            "hu": "Sétáljon a nyugodt vizű, tökéletesen ívelt öböl partján, amely ideális családok számára, és béreljen napágyat korán a nap folyamán, hogy kényelmes helyet találjon.",
+            "ro": "Plimbați-vă de-a lungul apelor calme ale acestui golf curbat, ideal pentru familii, și închiriați un șezlong devreme pentru a vă asigura un loc confortabil lângă cafenele.",
+            "en": "Walk along the calm waters of this unique, perfectly curved bay which is ideal for families, and rent a sunbed early in the day to secure a comfortable spot near the cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Capela de Santa Ana",
+            "hu": "Capela de Santa Ana",
+            "ro": "Capela de Santa Ana",
+            "en": "Capela de Santa Ana"
+          },
+          "coords": [
+            -9.145977,
+            39.508688
+          ],
+          "category": "religious",
+          "arrive_at": "12:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese kleine, historische Kapelle auf einem Hügel mit herrlichem Blick auf die Meeresmündung und tragen Sie festes Schuhwerk für den unebenen, felsigen Pfad.",
+            "hu": "Fedezze fel ezt a dombtetőn álló kis történelmi kápolnát, amely kiváló kilátást nyújt az óceán bejáratára, és viseljen masszív cipőt, mivel az oda vezető út eléggé egyenetlen.",
+            "ro": "Descoperiți această mică capelă istorică așezată pe un deal care oferă vederi excelente la ocean și purtați încălțăminte rezistentă, deoarece cărarea este destul de accidentată.",
+            "en": "Discover this small, historic chapel perched on a hill offering excellent views of the ocean inlet, and wear sturdy shoes as the path leading up to it is quite uneven and rocky."
+          }
+        },
+        {
+          "name": {
+            "de": "Farolim de São Martinho do Porto",
+            "hu": "Farolim de São Martinho do Porto",
+            "ro": "Farolim de São Martinho do Porto",
+            "en": "Farolim de São Martinho do Porto"
+          },
+          "coords": [
+            -9.143091,
+            39.510653
+          ],
+          "category": "landmark",
+          "arrive_at": "12:47",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beobachten Sie den kleinen Leuchtturm, der die schmale Passage zum offenen Meer markiert, und bleiben Sie hinter den Sicherheitsgeländern, da die Wellen sehr stark sein können.",
+            "hu": "Figyelje meg a nyílt tengerre vezető szűk átjárót jelző kis világítótornyot, és maradjon a biztonsági korlátok mögött, mivel a szikláknak csapódó hullámok erősek lehetnek.",
+            "ro": "Observați micul far care marchează trecerea îngustă către marea deschisă și rămâneți în spatele balustradelor de siguranță, deoarece valurile pot fi neașteptat de puternice.",
+            "en": "Observe the small lighthouse that marks the narrow passage to the open sea, and stay behind the safety rails as the waves crashing against the cliffs can be unexpectedly strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Pocinha",
+            "hu": "Pocinha",
+            "ro": "Pocinha",
+            "en": "Pocinha"
+          },
+          "coords": [
+            -9.146789,
+            39.506938
+          ],
+          "category": "landmark",
+          "arrive_at": "13:08",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an dieser versteckten Felsbucht mit natürlichen Gezeitentümpeln und besuchen Sie sie bei Ebbe, um die faszinierende Meeresfauna sicher zu erkunden.",
+            "hu": "Pihenjen ennél a természetes árapály-medencéiről ismert rejtett sziklás öbölnél, és látogasson el apálykor, hogy biztonságosan felfedezhesse a lenyűgöző tengeri élővilágot.",
+            "ro": "Relaxați-vă la acest golf stâncos ascuns, cunoscut pentru bazinele sale de maree, și vizitați-l la reflux pentru a explora în siguranță viața marină din apele puțin adânci.",
+            "en": "Relax at this hidden rocky inlet known for its natural tidal pools, and visit during low tide to safely explore the fascinating marine life trapped in the shallow rock formations."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ein gemütlicher Morgenspaziergang führt Sie durch das historische Zentrum von São Martinho do Porto zur charmanten Pfarrkirche und bietet erste Einblicke in die maritime Kultur. Gegen Mittag genießen Sie vom Miradouro de Santo António den Ausblick auf die perfekt geschwungene, muschelförmige Bucht. Am Nachmittag lockt der goldene Strand, gefolgt von einem malerischen Spaziergang zur historischen Capela de Santa Ana auf den Klippen. Der Abend klingt an den natürlichen Gezeitentümpeln von Pocinha und dem schmalen Farolim aus, wo die Wellen eindrucksvoll brechen.",
+        "hu": "Egy kényelmes reggeli séta elvezeti Önt São Martinho do Porto történelmi központjába és hangulatos plébániatemplomához, betekintést nyújtva a városba. Délben a Miradouro de Santo António kilátóból megcsodálhatja a tökéletesen ívelt, kagyló alakú öblöt. A délutáni órákban a tengerpart aranyhomokja várja, majd egy festői séta a sziklákon magasodó Capela de Santa Ana kápolnához. Az estét a Pocinha természetes medencéinél és a Farolim világítótoronynál zárhatja, hallgatva az óceán hullámait.",
+        "ro": "O plimbare liniștită de dimineață vă poartă prin centrul istoric al orașului São Martinho do Porto, explorând biserica parohială și cultura maritimă. La prânz, vizitați Miradouro de Santo António pentru a vă bucura de o vedere impresionantă asupra golfului în formă de scoică. După-amiaza vă invită pe plaja aurie, urmată de o drumeție pitorească spre Capela de Santa Ana situată pe stânci. Seara se încheie lângă bazinele naturale de la Pocinha și micul far, unde valurile oceanului oferă un spectacol.",
+        "en": "A leisurely morning walk takes you through the historic center of São Martinho do Porto, exploring the charming parish church and local maritime culture. By midday, you'll reach the Miradouro de Santo António, offering stunning panoramic views of the perfectly curved, shell-shaped bay. The afternoon is spent relaxing on the golden sands of the main beach, followed by a scenic stroll up to the cliffside Capela de Santa Ana. Your evening concludes by the natural tidal pools of Pocinha and the narrow passage of the Farolim."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:17",
+      "total_km": 6.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Igreja Paroquial de São Martinho do Porto",
+            "hu": "Igreja Paroquial de São Martinho do Porto",
+            "ro": "Igreja Paroquial de São Martinho do Porto",
+            "en": "Igreja Paroquial de São Martinho do Porto"
+          },
+          "coords": [
+            -9.13327,
+            39.514739
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Azulejo-Fliesen im Inneren dieser zentralen Kirche, die das maritime Erbe widerspiegelt, und kleiden Sie sich für den Besuch respektvoll.",
+            "hu": "Csodálja meg a központi templom gyönyörű azulejo csempéit, amelyek a város tengerészeti örökségét tükrözik, és öltözzön tisztelettudóan a reggeli ingyenes látogatáshoz.",
+            "ro": "Admirați plăcile frumoase de azulejo din interiorul acestei biserici centrale care reflectă moștenirea maritimă și îmbrăcați-vă respectuos pentru a intra liber dimineața.",
+            "en": "Admire the beautiful azulejo tiles inside this central church that reflects the town's maritime heritage, and dress respectfully to enter freely during morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Gralha",
+            "hu": "Praia da Gralha",
+            "ro": "Praia da Gralha",
+            "en": "Praia da Gralha"
+          },
+          "coords": [
+            -9.131871,
+            39.525334
+          ],
+          "category": "recreational",
+          "arrive_at": "09:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen an diesem wunderschönen wilden Strand, der von atemberaubenden Klippen umgeben ist, und bringen Sie Ihr eigenes Wasser mit, da es hier keine Einrichtungen gibt.",
+            "hu": "Meneküljön el a tömeg elől ezen a lenyűgöző sziklákkal körülvett, gyönyörű vad strandon, és hozzon magával saját vizet, mivel itt egyáltalán nincsenek létesítmények vagy kávézók.",
+            "ro": "Evadați de aglomerație la această plajă sălbatică frumoasă înconjurată de stânci și aduceți-vă propria apă și gustări, deoarece nu există absolut deloc facilități aici.",
+            "en": "Escape the crowds at this beautiful wild beach surrounded by stunning cliffs, and bring your own water and snacks as there are absolutely no facilities or cafes available here."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro de Santo António",
+            "hu": "Miradouro de Santo António",
+            "ro": "Miradouro de Santo António",
+            "en": "Miradouro de Santo António"
+          },
+          "coords": [
+            -9.138754,
+            39.514886
+          ],
+          "category": "natural",
+          "arrive_at": "11:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die muschelförmige Bucht von diesem spektakulären Aussichtspunkt und bringen Sie Ihre Kamera für beste Fotos im frühen Morgenlicht mit.",
+            "hu": "Élvezze a kagyló alakú öbölre nyíló panorámát erről a látványos kilátóból, és hozza magával fényképezőgépét a kora reggeli fényekhez, elkerülve a nagyobb tömeget.",
+            "ro": "Bucurați-vă de vederi panoramice ale golfului în formă de scoică de pe acest punct de belvedere și aduceți aparatul foto pentru cele mai bune poze în lumina dimineții.",
+            "en": "Enjoy panoramic views of the shell-shaped bay from this spectacular vantage point, and bring your camera for the best photos in the early morning light to avoid the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia de São Martinho do Porto",
+            "hu": "Praia de São Martinho do Porto",
+            "ro": "Praia de São Martinho do Porto",
+            "en": "Praia de São Martinho do Porto"
+          },
+          "coords": [
+            -9.139081,
+            39.506358
+          ],
+          "category": "recreational",
+          "arrive_at": "11:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie an den ruhigen Gewässern dieser einzigartigen, perfekt geschwungenen Bucht entlang und mieten Sie früh am Tag eine Sonnenliege, um einen Platz zu sichern.",
+            "hu": "Sétáljon a nyugodt vizű, tökéletesen ívelt öböl partján, amely ideális családok számára, és béreljen napágyat korán a nap folyamán, hogy kényelmes helyet találjon.",
+            "ro": "Plimbați-vă de-a lungul apelor calme ale acestui golf curbat, ideal pentru familii, și închiriați un șezlong devreme pentru a vă asigura un loc confortabil lângă cafenele.",
+            "en": "Walk along the calm waters of this unique, perfectly curved bay which is ideal for families, and rent a sunbed early in the day to secure a comfortable spot near the cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Duna de Salir do Porto",
+            "hu": "Duna de Salir do Porto",
+            "ro": "Duna de Salir do Porto",
+            "en": "Duna de Salir do Porto"
+          },
+          "coords": [
+            -9.150605,
+            39.503023
+          ],
+          "category": "recreational",
+          "arrive_at": "13:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erklimmen Sie Portugals höchste Sanddüne für einen unglaublichen Panoramablick und laufen Sie den weichen Sand hinunter für ein lustiges Erlebnis, das alle lieben werden.",
+            "hu": "Mássza meg Portugália legmagasabb homokdűnéjét a hihetetlen panorámáért, és próbáljon meg lefutni a puha homokon, amely szórakoztató élményt nyújt kicsiknek és nagyoknak.",
+            "ro": "Urcați pe cea mai înaltă dună de nisip din Portugalia pentru o priveliște incredibilă și încercați să alergați la vale pe nisipul moale pentru o experiență foarte distractivă.",
+            "en": "Climb Portugal's highest sand dune for an incredible panoramic view, and try running down the soft sand for a fun experience that children and active adults will truly love."
+          }
+        },
+        {
+          "name": {
+            "de": "Farol de São Martinho",
+            "hu": "Farol de São Martinho",
+            "ro": "Farol de São Martinho",
+            "en": "Farol de São Martinho"
+          },
+          "coords": [
+            -9.138458,
+            39.501426
+          ],
+          "category": "landmark",
+          "arrive_at": "14:32",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses historische Leuchtfeuer, das lokale Seeleute seit Generationen leitet, und kommen Sie zur goldenen Stunde, um atemberaubende Silhouetten vor dem Sonnenuntergang zu fotografieren.",
+            "hu": "Látogasson el ehhez a történelmi világítótoronyhoz, amely generációk óta vezeti a tengerészeket, és érkezzen az aranyórában, hogy lenyűgöző sziluetteket fotózzon a naplementében.",
+            "ro": "Vizitați acest far istoric care a ghidat marinarii locali de generații și veniți la ora de aur pentru a surprinde siluete uimitoare ale turnului la apusul soarelui.",
+            "en": "Visit this historic beacon that has guided local sailors for generations, and come during the golden hour to capture stunning silhouettes of the tower against the ocean sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrradtour an der zentralen Pfarrkirche und radeln Sie dann nordwärts zur unberührten Praia da Gralha, wo die Klippen majestätisch aufragen. Mittags kehren Sie zurück, um vom Miradouro de Santo António die atemberaubende Aussicht auf das azurblaue Wasser zu genießen. Der Nachmittag bietet eine entspannte Fahrt entlang der Promenade der Hauptbucht bis zur imposanten Sanddüne von Salir do Porto. Der Ausflug endet am historischen Farol de São Martinho, wo der Sonnenuntergang über dem Ozean für magische Momente sorgt.",
+        "hu": "Kezdje kerékpáros túráját a központi templomnál, majd tekerjen észak felé az érintetlen Praia da Gralha strandhoz, ahol a sziklák fenségesen magasodnak. Délben térjen vissza a Miradouro de Santo António kilátóhoz, hogy megcsodálja az azúrkék vizet. A délután folyamán kényelmesen tekerhet a fő öböl sétányán egészen a Salir do Porto impozáns homokdűnéjéig. A kirándulás a történelmi Farol de São Martinho világítótoronynál ér véget, ahol a naplemente varázslatos pillanatokat kínál az óceán felett.",
+        "ro": "Începeți turul cu bicicleta la biserica parohială centrală, apoi pedalați spre nord până la plaja sălbatică Praia da Gralha, cu stâncile sale mărețe. La prânz, întoarceți-vă la Miradouro de Santo António pentru a admira priveliștea spectaculoasă a apei azurii. După-amiaza oferă o plimbare relaxantă de-a lungul promenadei din golful principal până la impresionanta dună de nisip din Salir do Porto. Excursia se termină la istoricul Farol de São Martinho, unde apusul de soare creează momente cu adevărat magice.",
+        "en": "Start your cycling adventure at the central parish church, then pedal north to the pristine Praia da Gralha where dramatic cliffs rise above the shore. By midday, cycle back to the Miradouro de Santo António to take in the breathtaking views over the azure bay. The afternoon features a relaxed ride along the main bay's promenade, eventually reaching the impressive sand dune of Salir do Porto. Your journey wraps up at the historic Farol de São Martinho, offering a magical sunset view across the open Atlantic."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:14",
+      "total_km": 11.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Castelo de Alfeizerão",
+            "hu": "Castelo de Alfeizerão",
+            "ro": "Castelo de Alfeizerão",
+            "en": "Castelo de Alfeizerão"
+          },
+          "coords": [
+            -9.110742,
+            39.500138
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Ruinen dieser mittelalterlichen Burg mit maurischen Wurzeln und betreten Sie die zerbrechlichen Steinmauern vorsichtig, um die Stätte gut zu erhalten.",
+            "hu": "Fedezze fel e mór gyökerű középkori kastély ősi romjait, és óvatosan járjon a törékeny kőfalak körül, hogy megőrizze a helyszínt, miközben felfedezi gazdag történelmét.",
+            "ro": "Explorați ruinele antice ale acestui castel medieval cu rădăcini maure și pășiți cu grijă în jurul zidurilor de piatră fragile pentru a conserva situl în timpul vizitei.",
+            "en": "Explore the ancient ruins of this medieval castle with deep Moorish roots, and tread carefully around the fragile stone walls to preserve the site while discovering its rich history."
+          }
+        },
+        {
+          "name": {
+            "de": "Pegadas de dinossáurio na Serra dos Mangues",
+            "hu": "Pegadas de dinossáurio na Serra dos Mangues",
+            "ro": "Pegadas de dinossáurio na Serra dos Mangues",
+            "en": "Pegadas de dinossáurio na Serra dos Mangues"
+          },
+          "coords": [
+            -9.123394,
+            39.534402
+          ],
+          "category": "landmark",
+          "arrive_at": "10:41",
+          "stay_min": 15,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende fossile Dinosaurierspuren auf den Felsen und tragen Sie bequeme Wanderschuhe, um das raue Gelände zu diesem abgelegenen Küstenort zu meistern.",
+            "hu": "Fedezze fel a sziklákon megőrzött lenyűgöző fosszilizálódott dinoszaurusz lábnyomokat, és viseljen kényelmes túracipőt az ehhez a távoli tengerparti ponthoz vezető zord terepen.",
+            "ro": "Descoperiți fascinantele amprente fosilizate de dinozauri de pe stânci și purtați bocanci de drumeție confortabili pentru a naviga pe terenul accidentat către acest loc.",
+            "en": "Discover fascinating fossilized dinosaur footprints preserved directly on the rocks, and wear comfortable hiking boots to navigate the rugged terrain leading to this remote coastal spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Gralha",
+            "hu": "Praia da Gralha",
+            "ro": "Praia da Gralha",
+            "en": "Praia da Gralha"
+          },
+          "coords": [
+            -9.131871,
+            39.525334
+          ],
+          "category": "recreational",
+          "arrive_at": "10:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen an diesem wunderschönen wilden Strand, der von atemberaubenden Klippen umgeben ist, und bringen Sie Ihr eigenes Wasser mit, da es hier keine Einrichtungen gibt.",
+            "hu": "Meneküljön el a tömeg elől ezen a lenyűgöző sziklákkal körülvett, gyönyörű vad strandon, és hozzon magával saját vizet, mivel itt egyáltalán nincsenek létesítmények vagy kávézók.",
+            "ro": "Evadați de aglomerație la această plajă sălbatică frumoasă înconjurată de stânci și aduceți-vă propria apă și gustări, deoarece nu există absolut deloc facilități aici.",
+            "en": "Escape the crowds at this beautiful wild beach surrounded by stunning cliffs, and bring your own water and snacks as there are absolutely no facilities or cafes available here."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja Paroquial de São Martinho do Porto",
+            "hu": "Igreja Paroquial de São Martinho do Porto",
+            "ro": "Igreja Paroquial de São Martinho do Porto",
+            "en": "Igreja Paroquial de São Martinho do Porto"
+          },
+          "coords": [
+            -9.13327,
+            39.514739
+          ],
+          "category": "religious",
+          "arrive_at": "12:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Azulejo-Fliesen im Inneren dieser zentralen Kirche, die das maritime Erbe widerspiegelt, und kleiden Sie sich für den Besuch respektvoll.",
+            "hu": "Csodálja meg a központi templom gyönyörű azulejo csempéit, amelyek a város tengerészeti örökségét tükrözik, és öltözzön tisztelettudóan a reggeli ingyenes látogatáshoz.",
+            "ro": "Admirați plăcile frumoase de azulejo din interiorul acestei biserici centrale care reflectă moștenirea maritimă și îmbrăcați-vă respectuos pentru a intra liber dimineața.",
+            "en": "Admire the beautiful azulejo tiles inside this central church that reflects the town's maritime heritage, and dress respectfully to enter freely during morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro de Santo António",
+            "hu": "Miradouro de Santo António",
+            "ro": "Miradouro de Santo António",
+            "en": "Miradouro de Santo António"
+          },
+          "coords": [
+            -9.138754,
+            39.514886
+          ],
+          "category": "natural",
+          "arrive_at": "12:59",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die muschelförmige Bucht von diesem spektakulären Aussichtspunkt und bringen Sie Ihre Kamera für beste Fotos im frühen Morgenlicht mit.",
+            "hu": "Élvezze a kagyló alakú öbölre nyíló panorámát erről a látványos kilátóból, és hozza magával fényképezőgépét a kora reggeli fényekhez, elkerülve a nagyobb tömeget.",
+            "ro": "Bucurați-vă de vederi panoramice ale golfului în formă de scoică de pe acest punct de belvedere și aduceți aparatul foto pentru cele mai bune poze în lumina dimineții.",
+            "en": "Enjoy panoramic views of the shell-shaped bay from this spectacular vantage point, and bring your camera for the best photos in the early morning light to avoid the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Duna de Salir do Porto",
+            "hu": "Duna de Salir do Porto",
+            "ro": "Duna de Salir do Porto",
+            "en": "Duna de Salir do Porto"
+          },
+          "coords": [
+            -9.150605,
+            39.503023
+          ],
+          "category": "recreational",
+          "arrive_at": "13:29",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Erklimmen Sie Portugals höchste Sanddüne für einen unglaublichen Panoramablick und laufen Sie den weichen Sand hinunter für ein lustiges Erlebnis, das alle lieben werden.",
+            "hu": "Mássza meg Portugália legmagasabb homokdűnéjét a hihetetlen panorámáért, és próbáljon meg lefutni a puha homokon, amely szórakoztató élményt nyújt kicsiknek és nagyoknak.",
+            "ro": "Urcați pe cea mai înaltă dună de nisip din Portugalia pentru o priveliște incredibilă și încercați să alergați la vale pe nisipul moale pentru o experiență foarte distractivă.",
+            "en": "Climb Portugal's highest sand dune for an incredible panoramic view, and try running down the soft sand for a fun experience that children and active adults will truly love."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Roadtrip startet mit einer Erkundung der alten maurischen Ruinen des Castelo de Alfeizerão im Landesinneren, umgeben von Geschichte. Gegen Mittag fahren Sie gen Norden zu den faszinierenden Dinosaurierspuren in den Serra dos Mangues und der nahegelegenen Praia da Gralha. Am Nachmittag bringt Sie Ihr Auto ins Herz von São Martinho do Porto, wo Sie die Kirche besichtigen und den Blick vom Miradouro genießen können. Am Abend fahren Sie zur südlichen Bucht, um die beeindruckende Sanddüne von Salir do Porto zu besteigen.",
+        "hu": "Autós kirándulása a belföldi Castelo de Alfeizerão ősi mór romjainak felfedezésével kezdődik, amelyeket gazdag történelem övez. Délben észak felé veszi az irányt, hogy megnézze a Serra dos Mangues dinoszaurusz lábnyomait és a közeli Praia da Gralha-t. Délután az autóval São Martinho do Porto szívébe érkezik, ahol megtekintheti a templomot és a Miradouro kilátóját. Este a déli öbölbe utazik, hogy megmássza Salir do Porto lenyűgöző homokdűnéjét és élvezze a naplementét a tengerparton.",
+        "ro": "Călătoria cu mașina începe cu o explorare a ruinelor maure ale Castelo de Alfeizerão din interiorul țării, pline de istorie. La prânz, conduceți spre nord către fascinantele amprente de dinozauri din Serra dos Mangues și plaja din apropiere, Praia da Gralha. După-amiaza, mașina vă aduce în inima orașului São Martinho do Porto, unde vizitați biserica și vă bucurați de priveliștea de la Miradouro. Seara, mergeți spre sud pentru a urca pe duna de nisip din Salir do Porto la apusul soarelui.",
+        "en": "Your road trip kicks off by exploring the inland ruins of Castelo de Alfeizerão, diving deep into the region's Moorish history. Around midday, drive north to discover the fascinating dinosaur footprints at Serra dos Mangues and the wild shores of Praia da Gralha. The afternoon brings you into the heart of São Martinho do Porto to visit the local church and enjoy the elevated views from the Miradouro. As evening sets in, drive down to the southern bay to climb the massive sand dune of Salir do Porto."
+      }
+    }
+  }
+}

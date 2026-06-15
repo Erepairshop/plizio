@@ -1,0 +1,474 @@
+{
+  "city_id": "siena",
+  "anchor": {
+    "name": "Siena",
+    "coords": [
+      11.3308,
+      43.3188
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:42",
+      "total_km": 1.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Basilica di San Domenico",
+            "hu": "Basilica di San Domenico",
+            "ro": "Basilica di San Domenico",
+            "en": "Basilica di San Domenico"
+          },
+          "coords": [
+            11.326694,
+            43.319861
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die massige Backsteinarchitektur der Basilika, in der sich die Reliquie der Heiligen Katharina befindet, und kommen Sie früh, um den Touristenmassen zu entgehen.",
+            "hu": "Csodálja meg a hatalmas téglaépítésű bazilikát, amely Sziénai Szent Katalin ereklyéjét őrzi, és érkezzen korán a tömeg elkerülése végett.",
+            "ro": "Admirați arhitectura masivă din cărămidă a bazilicii ce adăpostește relicva Sfintei Ecaterina și sosiți devreme pentru a evita aglomerația turistică.",
+            "en": "Marvel at the massive brick architecture of this basilica which houses the relic of Saint Catherine, and arrive early in the morning to avoid the tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom von Siena",
+            "hu": "Sziénai dóm",
+            "ro": "Domul din Siena",
+            "en": "Siena Cathedral"
+          },
+          "coords": [
+            11.328694,
+            43.317583
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "09:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von der atemberaubenden schwarz-weißen Marmorfassade der Kathedrale faszinieren und buchen Sie Tickets im Voraus, um auch den spektakulären Boden zu sehen.",
+            "hu": "Hagyja, hogy lenyűgözze a katedrális lélegzetelállító fekete-fehér márványhomlokzata, és foglaljon jegyet előre, hogy a látványos padlózatot is megcsodálhassa.",
+            "ro": "Lăsați-vă fascinați de uimitoarea fațadă din marmură alb-neagră a catedralei și rezervați biletele în avans pentru a putea admira și podeaua spectaculoasă.",
+            "en": "Be fascinated by the breathtaking black and white marble facade of the cathedral and book tickets in advance to ensure you can admire the spectacular mosaic floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Baptisterium",
+            "hu": "Keresztelőkápolna",
+            "ro": "Baptisteriu",
+            "en": "Baptistery"
+          },
+          "coords": [
+            11.329281,
+            43.318123
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie das Taufbecken mit Bronzereliefs von Donatello im faszinierenden Baptisterium und achten Sie auf die kunstvollen Fresken an den gewölbten Decken.",
+            "hu": "Fedezze fel a lenyűgöző keresztelőkápolnában található, Donatello bronzdomborműveivel díszített keresztelőmedencét, és figyelje meg a boltozatos mennyezet freskóit.",
+            "ro": "Descoperiți cristelnița cu reliefuri din bronz de Donatello în fascinantul baptisteriu și acordați atenție frescelor artistice de pe tavanele boltite.",
+            "en": "Discover the baptismal font featuring bronze reliefs by Donatello in this fascinating baptistery, and pay close attention to the artistic frescoes on the vaulted ceilings."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza del Campo",
+            "hu": "Piazza del Campo",
+            "ro": "Piazza del Campo",
+            "en": "Piazza del Campo"
+          },
+          "coords": [
+            11.33145,
+            43.3184
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "11:58",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die einzigartige muschelförmige Architektur dieses weltberühmten Platzes, auf dem das Palio-Rennen stattfindet, und trinken Sie einen Espresso in einem der Randcafés.",
+            "hu": "Élvezze a világhírű, kagyló alakú tér egyedi építészetét, ahol a Palio lovasversenyt rendezik, és igyon meg egy eszpresszót a peremén található kávézók egyikében.",
+            "ro": "Bucurați-vă de arhitectura unică în formă de scoică a pieței unde se desfășoară cursa Palio și savurați un espresso la una dintre cafenelele de pe margine.",
+            "en": "Enjoy the unique shell-shaped architecture of this world-famous square where the Palio horse race takes place, and sip an espresso at one of the perimeter cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Pubblico",
+            "hu": "Palazzo Pubblico",
+            "ro": "Palazzo Pubblico",
+            "en": "Palazzo Pubblico"
+          },
+          "coords": [
+            11.331942,
+            43.318007
+          ],
+          "category": "famous residences",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besichtigen Sie das historische Rathaus mit seinen beeindruckenden Fresken der guten und schlechten Regierung und nehmen Sie sich Zeit für die reich verzierten Ratssäle.",
+            "hu": "Látogassa meg a történelmi városházát a jó és rossz kormányzást ábrázoló lenyűgöző freskóival, és szánjon elegendő időt a gazdagon díszített tanácstermekre.",
+            "ro": "Vizitați primăria istorică cu frescele sale impresionante ce reprezintă buna și reaua guvernare și alocați-vă timp pentru sălile de consiliu bogat decorate.",
+            "en": "Visit the historic town hall featuring impressive frescoes depicting good and bad government, and allow ample time to explore the richly decorated council chambers."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre del Mangia",
+            "hu": "Torre del Mangia",
+            "ro": "Torre del Mangia",
+            "en": "Torre del Mangia"
+          },
+          "coords": [
+            11.332118,
+            43.318188
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "13:47",
+          "stay_min": 55,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Steigen Sie die steilen Stufen dieses mittelalterlichen Turms hinauf, um einen Panoramablick über Siena zu genießen, aber bringen Sie Wasser mit und tragen Sie bequeme Schuhe.",
+            "hu": "Mássza meg ennek a középkori toronynak a meredek lépcsőit a sziénai panorámáért, de feltétlenül vigyen magával vizet és viseljen kényelmes cipőt.",
+            "ro": "Urcați treptele abrupte ale acestui turn medieval pentru a vă bucura de o vedere panoramică asupra Sienei, dar aduceți cu voi apă și purtați încălțăminte comodă.",
+            "en": "Climb the steep steps of this medieval tower to enjoy a panoramic view over Siena, but make sure to bring water and wear very comfortable walking shoes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "1: Der Tag beginnt mit spiritueller Ruhe in der beeindruckenden Basilica di San Domenico, bevor wir uns dem prächtigen Duomo di Siena nähern.\n2: Um die Mittagszeit bewundern wir das faszinierende Baptisterium und spazieren entspannt durch die Gassen zur Piazza del Campo.\n3: Am Nachmittag tauchen wir im Palazzo Pubblico tief in die Geschichte und Kunst der sienesischen Republik ein.\n4: Der Ausflug gipfelt in einem spektakulären Sonnenuntergang vom Torre del Mangia, der ganz Siena in warmes Licht taucht.",
+        "hu": "1: A nap lelki nyugalommal indul a lenyűgöző San Domenico bazilikában, mielőtt megközelítenénk a fenséges sziénai dómot.\n2: Délben megcsodáljuk a varázslatos keresztelőkápolnát, majd kényelmesen átsétálunk a világhírű Piazza del Campo térre.\n3: Délután a Palazzo Pubblico falai között elmélyedünk a sziénai köztársaság gazdag történelmében és művészetében.\n4: A kirándulás a Torre del Mangia toronyból nyíló látványos naplementével zárul, amely meleg fénybe öltözteti Sziénát.",
+        "ro": "1: Ziua începe cu liniște spirituală la impresionanta Basilica di San Domenico, înainte de a ne apropia de magnificul Duomo di Siena.\n2: La prânz admirăm fascinantul baptisteriu și ne plimbăm relaxat pe străduțe către celebra Piazza del Campo.\n3: După-amiaza ne scufundăm în istoria și arta Republicii Sieneze în sălile monumentale ale Palazzo Pubblico.\n4: Excursia culminează cu un apus spectaculos de pe Torre del Mangia, care scaldă întreaga Siena într-o lumină caldă.",
+        "en": "1: The day begins with spiritual tranquility at the impressive Basilica di San Domenico before approaching the magnificent Duomo di Siena.\n2: At midday, we admire the fascinating Baptistery and take a relaxed stroll through the alleys to the Piazza del Campo.\n3: In the afternoon, we dive deep into the history and art of the Sienese Republic within the halls of the Palazzo Pubblico.\n4: The excursion culminates with a spectacular sunset from the Torre del Mangia, bathing all of Siena in a warm, golden light."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:24",
+      "total_km": 1.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Festung Medicea",
+            "hu": "Fortezza Medicea",
+            "ro": "Fortăreața Medicea",
+            "en": "Fortezza Medicea"
+          },
+          "coords": [
+            11.323578,
+            43.322283
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der massiven Backsteinmauern dieser alten Medici-Festung für großartige Ausblicke und nutzen Sie den Park für ein entspanntes Picknick im Schatten.",
+            "hu": "Sétáljon végig a régi Medici-erőd masszív téglafalain a nagyszerű kilátásért, és használja ki a parkot egy pihentető árnyékos piknikhez.",
+            "ro": "Plimbați-vă de-a lungul zidurilor masive din cărămidă ale acestei vechi fortărețe Medici pentru priveliști mărețe și folosiți parcul pentru un picnic relaxant la umbră.",
+            "en": "Stroll along the massive brick walls of this old Medici fortress for great views of the city, and use the surrounding park for a relaxing picnic in the shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilica di San Domenico",
+            "hu": "Basilica di San Domenico",
+            "ro": "Basilica di San Domenico",
+            "en": "Basilica di San Domenico"
+          },
+          "coords": [
+            11.326694,
+            43.319861
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "10:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die massige Backsteinarchitektur der Basilika, in der sich die Reliquie der Heiligen Katharina befindet, und kommen Sie früh, um den Touristenmassen zu entgehen.",
+            "hu": "Csodálja meg a hatalmas téglaépítésű bazilikát, amely Sziénai Szent Katalin ereklyéjét őrzi, és érkezzen korán a tömeg elkerülése végett.",
+            "ro": "Admirați arhitectura masivă din cărămidă a bazilicii ce adăpostește relicva Sfintei Ecaterina și sosiți devreme pentru a evita aglomerația turistică.",
+            "en": "Marvel at the massive brick architecture of this basilica which houses the relic of Saint Catherine, and arrive early in the morning to avoid the tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom von Siena",
+            "hu": "Sziénai dóm",
+            "ro": "Domul din Siena",
+            "en": "Siena Cathedral"
+          },
+          "coords": [
+            11.328694,
+            43.317583
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "11:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von der atemberaubenden schwarz-weißen Marmorfassade der Kathedrale faszinieren und buchen Sie Tickets im Voraus, um auch den spektakulären Boden zu sehen.",
+            "hu": "Hagyja, hogy lenyűgözze a katedrális lélegzetelállító fekete-fehér márványhomlokzata, és foglaljon jegyet előre, hogy a látványos padlózatot is megcsodálhassa.",
+            "ro": "Lăsați-vă fascinați de uimitoarea fațadă din marmură alb-neagră a catedralei și rezervați biletele în avans pentru a putea admira și podeaua spectaculoasă.",
+            "en": "Be fascinated by the breathtaking black and white marble facade of the cathedral and book tickets in advance to ensure you can admire the spectacular mosaic floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza del Campo",
+            "hu": "Piazza del Campo",
+            "ro": "Piazza del Campo",
+            "en": "Piazza del Campo"
+          },
+          "coords": [
+            11.33145,
+            43.3184
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "12:26",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die einzigartige muschelförmige Architektur dieses weltberühmten Platzes, auf dem das Palio-Rennen stattfindet, und trinken Sie einen Espresso in einem der Randcafés.",
+            "hu": "Élvezze a világhírű, kagyló alakú tér egyedi építészetét, ahol a Palio lovasversenyt rendezik, és igyon meg egy eszpresszót a peremén található kávézók egyikében.",
+            "ro": "Bucurați-vă de arhitectura unică în formă de scoică a pieței unde se desfășoară cursa Palio și savurați un espresso la una dintre cafenelele de pe margine.",
+            "en": "Enjoy the unique shell-shaped architecture of this world-famous square where the Palio horse race takes place, and sip an espresso at one of the perimeter cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Fonte Gaia",
+            "hu": "Fonte Gaia",
+            "ro": "Fonte Gaia",
+            "en": "Fonte Gaia"
+          },
+          "coords": [
+            11.331392,
+            43.318723
+          ],
+          "category": "monuments/statues",
+          "arrive_at": "12:52",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die detailreichen Reliefs dieses monumentalen Brunnens am oberen Rand der Piazza und werfen Sie eine Münze hinein, um sich eine baldige Rückkehr zu wünschen.",
+            "hu": "Csodálja meg ennek a monumentális kútnak a részletgazdag domborműveit a tér felső részén, és dobjon be egy érmét, hogy mielőbb visszatérhessen ide.",
+            "ro": "Admirați reliefurile detaliate ale acestei fântâni monumentale din partea de sus a pieței și aruncați o monedă pentru a vă pune o dorință de întoarcere rapidă.",
+            "en": "Admire the detailed reliefs of this monumental fountain at the upper edge of the piazza, and toss a coin into the water to make a wish for a swift return."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Pubblico",
+            "hu": "Palazzo Pubblico",
+            "ro": "Palazzo Pubblico",
+            "en": "Palazzo Pubblico"
+          },
+          "coords": [
+            11.331942,
+            43.318007
+          ],
+          "category": "famous residences",
+          "arrive_at": "13:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besichtigen Sie das historische Rathaus mit seinen beeindruckenden Fresken der guten und schlechten Regierung und nehmen Sie sich Zeit für die reich verzierten Ratssäle.",
+            "hu": "Látogassa meg a történelmi városházát a jó és rossz kormányzást ábrázoló lenyűgöző freskóival, és szánjon elegendő időt a gazdagon díszített tanácstermekre.",
+            "ro": "Vizitați primăria istorică cu frescele sale impresionante ce reprezintă buna și reaua guvernare și alocați-vă timp pentru sălile de consiliu bogat decorate.",
+            "en": "Visit the historic town hall featuring impressive frescoes depicting good and bad government, and allow ample time to explore the richly decorated council chambers."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre del Mangia",
+            "hu": "Torre del Mangia",
+            "ro": "Torre del Mangia",
+            "en": "Torre del Mangia"
+          },
+          "coords": [
+            11.332118,
+            43.318188
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "14:29",
+          "stay_min": 55,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Steigen Sie die steilen Stufen dieses mittelalterlichen Turms hinauf, um einen Panoramablick über Siena zu genießen, aber bringen Sie Wasser mit und tragen Sie bequeme Schuhe.",
+            "hu": "Mássza meg ennek a középkori toronynak a meredek lépcsőit a sziénai panorámáért, de feltétlenül vigyen magával vizet és viseljen kényelmes cipőt.",
+            "ro": "Urcați treptele abrupte ale acestui turn medieval pentru a vă bucura de o vedere panoramică asupra Sienei, dar aduceți cu voi apă și purtați încălțăminte comodă.",
+            "en": "Climb the steep steps of this medieval tower to enjoy a panoramic view over Siena, but make sure to bring water and wear very comfortable walking shoes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "1: Wir starten mit einer frischen Morgenbrise an der Fortezza Medicea und radeln zur ehrwürdigen Basilica di San Domenico.\n2: Die Mittagsstunden verbringen wir rund um den atemberaubenden Dom und erreichen bald das lebhafte Zentrum der Stadt.\n3: Nachmittags parken wir die Räder an der Piazza del Campo, um die Fonte Gaia und den historischen Palazzo Pubblico zu erkunden.\n4: Am Abend belohnt uns der steile Aufstieg auf den Torre del Mangia mit einem unvergesslichen Blick über die Terrakotta-Dächer.",
+        "hu": "1: A napot friss reggeli szellővel kezdjük a Fortezza Medicea erődítményénél, majd a tiszteletre méltó San Domenico felé kerekezünk.\n2: A déli órákat a lenyűgöző Dóm körül töltjük, majd hamarosan elérjük a város nyüzsgő, élettel teli szívét.\n3: Délután leparkoljuk a kerékpárokat a Piazza del Campo téren, hogy felfedezzük a Fonte Gaiát és a Palazzo Pubblicót.\n4: Este a Torre del Mangia megmászása felejthetetlen kilátással jutalmaz meg minket a sziénai terrakotta tetők felett.",
+        "ro": "1: Începem cu o briză proaspătă de dimineață la Fortezza Medicea și pedalăm spre venerabila Basilica di San Domenico.\n2: Petrecem orele prânzului în jurul uimitorului Dom și ajungem curând în centrul plin de viață al orașului.\n3: După-amiaza parcăm bicicletele în Piazza del Campo pentru a explora fântâna Fonte Gaia și istoricul Palazzo Pubblico.\n4: Seara, urcarea pe Torre del Mangia ne răsplătește cu o priveliște de neuitat peste acoperișurile din teracotă ale Sienei.",
+        "en": "1: We start with a fresh morning breeze at the Fortezza Medicea and cycle to the venerable Basilica di San Domenico.\n2: The midday hours are spent around the breathtaking Duomo before reaching the lively heart of the historic center.\n3: In the afternoon, we park the bikes at Piazza del Campo to explore the beautiful Fonte Gaia and Palazzo Pubblico.\n4: In the evening, the steep climb up the Torre del Mangia rewards us with an unforgettable view over the terracotta roofs."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:52",
+      "total_km": 8.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Lago di Monaciano",
+            "hu": "Lago di Monaciano",
+            "ro": "Lago di Monaciano",
+            "en": "Lago di Monaciano"
+          },
+          "coords": [
+            11.361634,
+            43.355815
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entfliehen Sie dem Trubel der Stadt an diesem ruhigen See inmitten der toskanischen Landschaft und bringen Sie Ihre Kamera für atemberaubende Naturaufnahmen mit.",
+            "hu": "Meneküljön el a város zajától ehhez a csendes, toszkán tájba simuló tóhoz, és mindenképpen vigye magával fényképezőgépét a lélegzetelállító természetfotókhoz.",
+            "ro": "Evadați din agitația orașului la acest lac liniștit în mijlocul peisajului toscan și aduceți camera foto pentru a surprinde imagini uluitoare din natură.",
+            "en": "Escape the hustle and bustle of the city at this tranquil lake surrounded by Tuscan scenery, and be sure to bring your camera for breathtaking nature photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Kinderhaus Ludoteca Siena",
+            "hu": "Gyermekház Ludoteca Siena",
+            "ro": "Casa Copiilor Ludoteca Siena",
+            "en": "Children's House Ludoteca Siena"
+          },
+          "coords": [
+            11.314148,
+            43.330753
+          ],
+          "category": "family",
+          "arrive_at": "10:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses interaktive Zentrum mit spannenden Aktivitäten für die ganze Familie und informieren Sie sich vorab online über spezielle Kinder-Workshops.",
+            "hu": "Látogasson el ebbe az interaktív központba, amely izgalmas programokat kínál az egész családnak, és tájékozódjon előre online a speciális gyermekfoglalkozásokról.",
+            "ro": "Vizitați acest centru interactiv cu activități captivante pentru întreaga familie și informați-vă online în prealabil despre atelierele speciale pentru copii.",
+            "en": "Visit this interactive center featuring engaging activities for the whole family, and check online beforehand for any special workshops scheduled for children."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Medicea",
+            "hu": "Fortezza Medicea",
+            "ro": "Fortăreața Medicea",
+            "en": "Fortezza Medicea"
+          },
+          "coords": [
+            11.323578,
+            43.322283
+          ],
+          "category": "castles/fortresses/towers",
+          "arrive_at": "12:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der massiven Backsteinmauern dieser alten Medici-Festung für großartige Ausblicke und nutzen Sie den Park für ein entspanntes Picknick im Schatten.",
+            "hu": "Sétáljon végig a régi Medici-erőd masszív téglafalain a nagyszerű kilátásért, és használja ki a parkot egy pihentető árnyékos piknikhez.",
+            "ro": "Plimbați-vă de-a lungul zidurilor masive din cărămidă ale acestei vechi fortărețe Medici pentru priveliști mărețe și folosiți parcul pentru un picnic relaxant la umbră.",
+            "en": "Stroll along the massive brick walls of this old Medici fortress for great views of the city, and use the surrounding park for a relaxing picnic in the shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Dom von Siena",
+            "hu": "Sziénai dóm",
+            "ro": "Domul din Siena",
+            "en": "Siena Cathedral"
+          },
+          "coords": [
+            11.328694,
+            43.317583
+          ],
+          "category": "churches/cathedrals",
+          "arrive_at": "13:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von der atemberaubenden schwarz-weißen Marmorfassade der Kathedrale faszinieren und buchen Sie Tickets im Voraus, um auch den spektakulären Boden zu sehen.",
+            "hu": "Hagyja, hogy lenyűgözze a katedrális lélegzetelállító fekete-fehér márványhomlokzata, és foglaljon jegyet előre, hogy a látványos padlózatot is megcsodálhassa.",
+            "ro": "Lăsați-vă fascinați de uimitoarea fațadă din marmură alb-neagră a catedralei și rezervați biletele în avans pentru a putea admira și podeaua spectaculoasă.",
+            "en": "Be fascinated by the breathtaking black and white marble facade of the cathedral and book tickets in advance to ensure you can admire the spectacular mosaic floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Piazza del Campo",
+            "hu": "Piazza del Campo",
+            "ro": "Piazza del Campo",
+            "en": "Piazza del Campo"
+          },
+          "coords": [
+            11.33145,
+            43.3184
+          ],
+          "category": "squares/old-town",
+          "arrive_at": "14:57",
+          "stay_min": 55,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die einzigartige muschelförmige Architektur dieses weltberühmten Platzes, auf dem das Palio-Rennen stattfindet, und trinken Sie einen Espresso in einem der Randcafés.",
+            "hu": "Élvezze a világhírű, kagyló alakú tér egyedi építészetét, ahol a Palio lovasversenyt rendezik, és igyon meg egy eszpresszót a peremén található kávézók egyikében.",
+            "ro": "Bucurați-vă de arhitectura unică în formă de scoică a pieței unde se desfășoară cursa Palio și savurați un espresso la una dintre cafenelele de pe margine.",
+            "en": "Enjoy the unique shell-shaped architecture of this world-famous square where the Palio horse race takes place, and sip an espresso at one of the perimeter cafes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "1: Der Roadtrip beginnt entspannt am malerischen Lago di Monaciano, der uns einen friedlichen Start in der Natur bietet.\n2: Gegen Mittag steuern wir die familienfreundliche Ludoteca an, bevor wir uns den imposanten Mauern der Fortezza nähern.\n3: Nachmittags führt uns der Weg ins historische Herz zum Duomo di Siena, wo gotische Architektur uns ins Staunen versetzt.\n4: Der Tag endet am legendären Piazza del Campo, wo wir das Flair der Stadt bei einem Abendessen ausklingen lassen.",
+        "hu": "1: Az autós kirándulás a festői Lago di Monaciano tónál indul, amely békés, természetközeli kezdést biztosít számunkra.\n2: Délben a családbarát Ludoteca felé vesszük az irányt, mielőtt megközelítenénk az erődítmény impozáns téglafalait.\n3: Délután az út a történelmi szívbe, a sziénai dómhoz vezet, ahol a gótikus építészet mindenkit ámulatba ejt.\n4: A nap a legendás Piazza del Campo téren ér véget, ahol egy kellemes vacsora mellett élvezhetjük a város hangulatát.",
+        "ro": "1: Excursia cu mașina începe relaxant la pitorescul Lago di Monaciano, oferindu-ne un start pașnic în mijlocul naturii.\n2: La prânz ne îndreptăm spre Ludoteca, un loc ideal pentru familii, înainte de a explora zidurile impunătoare ale fortăreței.\n3: După-amiaza, drumul ne poartă în inima istorică la Duomo di Siena, unde arhitectura gotică ne lasă fără cuvinte.\n4: Ziua se încheie în legendara Piazza del Campo, unde ne bucurăm de farmecul orașului la o cină liniștită.",
+        "en": "1: The road trip begins in a relaxed manner at the picturesque Lago di Monaciano, offering a peaceful start in nature.\n2: Around midday, we head to the family-friendly Ludoteca before approaching the imposing walls of the Medici fortress.\n3: In the afternoon, our route takes us into the historic heart to the Duomo di Siena, where Gothic architecture amazes us.\n4: The day ends at the legendary Piazza del Campo, where we soak up the city's unique flair over a delightful dinner."
+      }
+    }
+  }
+}

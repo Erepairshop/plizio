@@ -1,0 +1,474 @@
+{
+  "city_id": "indonesia-wonosobo-cities-v2",
+  "anchor": {
+    "name": "Wonosobo",
+    "coords": [
+      109.902778,
+      -7.363889
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:21",
+      "total_km": 1.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Masjid Besar Jami",
+            "hu": "Masjid Besar Jami",
+            "ro": "Masjid Besar Jami",
+            "en": "Masjid Besar Jami"
+          },
+          "coords": [
+            109.900926,
+            -7.359254
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese große Zentralmoschee, die für ihre friedliche Atmosphäre bekannt ist, aber denken Sie daran, sich vor dem Betreten respektvoll zu kleiden.",
+            "hu": "Fedezze fel ezt a békés hangulatáról ismert nagy központi mecsetet, de belépés előtt ügyeljen a szerény és tisztelettudó öltözködésre a helyiek miatt.",
+            "ro": "Explorați această mare moschee centrală, renumită pentru atmosfera sa pașnică, dar asigurați-vă că vă îmbrăcați modest și respectuos înainte de a intra.",
+            "en": "Explore this grand central mosque renowned for its peaceful ambiance and vast central courtyard, but remember to dress modestly and respectfully before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Gereja PIUS",
+            "hu": "Gereja PIUS",
+            "ro": "Gereja PIUS",
+            "en": "Gereja PIUS"
+          },
+          "coords": [
+            109.90331,
+            -7.356393
+          ],
+          "category": "landmark",
+          "arrive_at": "09:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne Architektur dieser katholischen Kirche, die die Vielfalt der Stadt widerspiegelt, und kommen Sie morgens für das allerbeste Licht.",
+            "hu": "Csodálja meg a város sokszínűségét tükröző katolikus templom gyönyörű építészetét, és a legjobb fényviszonyok érdekében látogasson el a reggeli órákban.",
+            "ro": "Admirați arhitectura frumoasă a acestei biserici catolice care reflectă diversitatea orașului și vizitați în timpul dimineții pentru cea mai bună lumină.",
+            "en": "Admire the beautiful architecture of this Catholic church that brilliantly reflects the city's diversity, and visit during morning hours for the very best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Shalahuddin Sabuk Alu",
+            "hu": "Masjid Shalahuddin Sabuk Alu",
+            "ro": "Masjid Shalahuddin Sabuk Alu",
+            "en": "Masjid Shalahuddin Sabuk Alu"
+          },
+          "coords": [
+            109.906497,
+            -7.358643
+          ],
+          "category": "landmark",
+          "arrive_at": "10:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen ruhigen Moment, um die feinen Details dieser lokalen Moschee zu bewundern, wobei freitags mit vielen Gläubigen zu rechnen ist.",
+            "hu": "Szánjon egy csendes percet a helyi mecset bonyolult részleteinek megcsodálására, de vegye figyelembe, hogy a pénteki napokon kivételesen nagy a tömeg.",
+            "ro": "Luați-vă un moment liniștit pentru a aprecia detaliile complexe ale acestei moschei locale, având în vedere că vinerea este extrem de aglomerată cu credincioși.",
+            "en": "Take a quiet moment to appreciate the intricate details of this local neighborhood mosque, noting that Fridays are exceptionally busy with many congregants."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Sariagung",
+            "hu": "Masjid Sariagung",
+            "ro": "Masjid Sariagung",
+            "en": "Masjid Sariagung"
+          },
+          "coords": [
+            109.905301,
+            -7.362326
+          ],
+          "category": "landmark",
+          "arrive_at": "11:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Umgebung dieses historischen Gotteshauses und denken Sie daran, Ihre Schuhe an den vorgesehenen Eingängen rechtzeitig auszuziehen.",
+            "hu": "Élvezze ennek a történelmi istentiszteleti helynek a nyugodt környezetét, és ne felejtse el levenni a cipőjét a kijelölt bejárati területeken a belépés előtt.",
+            "ro": "Bucurați-vă de mediul senin al acestui lăcaș de cult istoric, amintindu-vă să vă descălțați în zonele de intrare desemnate înainte de a merge înăuntru.",
+            "en": "Enjoy the serene environment of this historic place of worship, keeping in mind to remove your shoes at the designated entrance areas before going inside."
+          }
+        },
+        {
+          "name": {
+            "de": "An Nur",
+            "hu": "An Nur",
+            "ro": "An Nur",
+            "en": "An Nur"
+          },
+          "coords": [
+            109.90352,
+            -7.362279
+          ],
+          "category": "landmark",
+          "arrive_at": "12:11",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an dieser gepflegten Gemeindemoschee, die einen absolut ruhigen Ort zum Nachdenken bietet, wenn Sie außerhalb der Gebetszeiten kommen.",
+            "hu": "Zárja sétáját ebben a gyönyörűen karbantartott közösségi mecsetben, amely tökéletesen csendes teret kínál az elmélkedésre, ha az imaidőn kívül érkezik.",
+            "ro": "Încheiați plimbarea la această moschee comunitară frumos întreținută, care oferă un spațiu perfect liniștit pentru reflecție dacă vizitați în afara orelor de rugăciune.",
+            "en": "Conclude your walk at this beautifully maintained community mosque, which offers a perfectly quiet space for reflection if you visit outside regular prayer times."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen und genießen Sie die ruhige Atmosphäre der großen Zentralmoschee. Mittags kommen Sie an wunderschönen Kirchen und historischer islamischer Architektur vorbei. Am Nachmittag erkunden Sie religiöse Stätten in den Vierteln, die die Gemeinde fest verankern. Wenn der Abend naht, bietet ein ruhiger letzter Halt den perfekten Moment für eine stille Reflexion.",
+        "hu": "Kezdje a reggelt a nagy központi mecset nyugodt légkörének magába szívásával. A dél gyönyörű templomok és történelmi iszlám építészet mellett visz el. Délután olyan vallási helyszíneket fedezhet fel, amelyek a helyi közösség alapját jelentik. Az este közeledtével egy csendes utolsó megálló tökéletes pillanatot kínál a nyugodt és békés elmélkedésre.",
+        "ro": "Începeți dimineața absorbind atmosfera senină a marii moschei centrale. La amiază treceți pe lângă biserici frumoase și arhitectură islamică istorică. După-amiaza, veți explora situri religioase de cartier care ancorează comunitatea. Pe măsură ce se apropie seara, o ultimă oprire liniștită oferă momentul perfect pentru o reflecție calmă și relaxantă.",
+        "en": "Start your morning absorbing the serene atmosphere of the grand central mosque. Midday brings you past beautiful churches and historical Islamic architecture. In the afternoon, you will explore neighborhood religious sites that anchor the community. As evening approaches, a quiet final stop offers the perfect moment for calm reflection."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "13:56",
+      "total_km": 2.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Masjid Al Arqom",
+            "hu": "Masjid Al Arqom",
+            "ro": "Masjid Al Arqom",
+            "en": "Masjid Al Arqom"
+          },
+          "coords": [
+            109.897244,
+            -7.365476
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Radtour an dieser einladenden religiösen Stätte, die als lebhaftes Zentrum dient, und parken Sie Ihr Fahrrad sicher in der Nähe des Haupttors.",
+            "hu": "Kezdje kerékpártúráját ezen a barátságos vallási helyszínen, amely nyüzsgő központként is szolgál, és parkolja le biztonságosan kerékpárját a főkapu közelében.",
+            "ro": "Începeți turul cu bicicleta la acest loc religios primitor care servește drept centru comunitar vibrant și asigurați-vă că parcați bicicleta lângă poarta principală.",
+            "en": "Start your bike tour at this welcoming religious site that serves as a vibrant community hub, and be sure to park your bicycle securely near the main gate."
+          }
+        },
+        {
+          "name": {
+            "de": "GKJ Wonosobo",
+            "hu": "GKJ Wonosobo",
+            "ro": "GKJ Wonosobo",
+            "en": "GKJ Wonosobo"
+          },
+          "coords": [
+            109.899754,
+            -7.364423
+          ],
+          "category": "landmark",
+          "arrive_at": "09:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beachten Sie den besonderen architektonischen Stil dieser christlichen Kirche mit lokalen Elementen, den Sie am besten von der Straße aus vor dem Gottesdienst bewundern.",
+            "hu": "Figyelje meg a helyi elemekkel ötvözött keresztény templom jellegzetes stílusát, amelyet leginkább az utcáról érdemes megcsodálni az istentiszteletek megkezdése előtt.",
+            "ro": "Observați stilul arhitectural distinct al acestei biserici creștine cu elemente locale, care este cel mai bine apreciat de pe stradă înainte de începerea slujbelor.",
+            "en": "Notice the distinct architectural style of this Christian church blending with local elements, which is best appreciated from the street before services begin."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Besar Jami",
+            "hu": "Masjid Besar Jami",
+            "ro": "Masjid Besar Jami",
+            "en": "Masjid Besar Jami"
+          },
+          "coords": [
+            109.900926,
+            -7.359254
+          ],
+          "category": "landmark",
+          "arrive_at": "10:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese große Zentralmoschee, die für ihre friedliche Atmosphäre bekannt ist, aber denken Sie daran, sich vor dem Betreten angemessen und diskret zu kleiden.",
+            "hu": "Fedezze fel ezt a békés hangulatáról ismert nagy központi mecsetet, de belépés előtt ügyeljen a szerény és a helyi normákat tiszteletben tartó öltözködésre.",
+            "ro": "Explorați această mare moschee centrală, renumită pentru atmosfera sa pașnică, dar asigurați-vă că vă îmbrăcați modest și respectuos înainte de a intra în clădire.",
+            "en": "Explore this grand central mosque renowned for its peaceful ambiance and vast central courtyard, but remember to dress modestly and respectfully before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Kliwonan",
+            "hu": "Masjid Kliwonan",
+            "ro": "Masjid Kliwonan",
+            "en": "Masjid Kliwonan"
+          },
+          "coords": [
+            109.901612,
+            -7.360929
+          ],
+          "category": "landmark",
+          "arrive_at": "11:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie den authentischen Rhythmus von Wonosobo in dieser aktiven Moschee, aber fragen Sie immer respektvoll um Erlaubnis, bevor Sie drinnen Fotos machen.",
+            "hu": "Tapasztalja meg Wonosobo hiteles napi ritmusát ebben az aktív helyi mecsetben, de fényképezés előtt mindig tisztelettudóan kérjen engedélyt az ott tartózkodóktól.",
+            "ro": "Experimentați ritmul zilnic autentic din Wonosobo la această moschee locală activă, dar cereți întotdeauna permisiunea cu respect înainte de a face fotografii înăuntru.",
+            "en": "Experience the authentic daily rhythm of Wonosobo at this active local mosque, but always ask for permission respectfully before taking any photographs inside."
+          }
+        },
+        {
+          "name": {
+            "de": "An Nur",
+            "hu": "An Nur",
+            "ro": "An Nur",
+            "en": "An Nur"
+          },
+          "coords": [
+            109.90352,
+            -7.362279
+          ],
+          "category": "landmark",
+          "arrive_at": "11:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Legen Sie an dieser gepflegten Gemeindemoschee eine Pause ein, die einen absolut ruhigen Ort zum Nachdenken bietet, wenn Sie außerhalb der Gebetszeiten ankommen.",
+            "hu": "Tartson egy kis szünetet ebben a gyönyörűen karbantartott közösségi mecsetben, amely csendes teret kínál az elmélkedésre, ha az imaidőn kívül érkezik ide.",
+            "ro": "Faceți o pauză la această moschee comunitară frumos întreținută, care oferă un spațiu perfect liniștit pentru reflecție dacă vizitați în afara orelor de rugăciune.",
+            "en": "Take a short break at this beautifully maintained community mosque, which offers a perfectly quiet space for reflection if you visit outside regular prayer times."
+          }
+        },
+        {
+          "name": {
+            "de": "Klenteng Hok Hoo Bio",
+            "hu": "Klenteng Hok Hoo Bio",
+            "ro": "Klenteng Hok Hoo Bio",
+            "en": "Klenteng Hok Hoo Bio"
+          },
+          "coords": [
+            109.900567,
+            -7.372209
+          ],
+          "category": "religious",
+          "arrive_at": "12:46",
+          "stay_min": 70,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die leuchtenden Farben und detaillierten Schnitzereien dieses chinesischen Tempels und respektieren Sie die traditionellen Räucheropfer der Gläubigen.",
+            "hu": "Csodálja meg ennek a hagyományos kínai templomnak az élénk színeit és részletes faragásait, és tartsa tiszteletben a helyi hívők hagyományos füstölőáldozatait.",
+            "ro": "Minunați-vă de culorile vibrante și sculpturile acestui templu chinezesc tradițional și respectați ofrandele de tămâie făcute de credincioșii locali dedicați.",
+            "en": "Marvel at the vibrant colors and detailed carvings of this traditional Chinese temple, and respect the incense offerings made by the dedicated local devotees."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt an einer einladenden lokalen Moschee, bevor die Straßen zu voll werden. Navigieren Sie mittags durch das Zentrum und erleben Sie eine schöne Mischung der Religionen. Ihre Nachmittagsfahrt führt Sie etwas weiter nach Süden zu historischen chinesischen Tempeln. Der Abend beendet Ihre Reise mit einer lebendigen, aber friedlichen architektonischen Vielfalt.",
+        "hu": "Kezdje az utazást egy barátságos helyi mecsetnél, mielőtt az utcák túl forgalmassá válnának. Délben navigáljon a városközpontban, a különféle hitek gyönyörű keverékét látva. A délutáni tekerés kissé délre, történelmi kínai templomokhoz viszi Önt. Az este utazását a változatos hagyományok élénk, de rendkívül békés építészeti bemutatójával zárja le végül.",
+        "ro": "Începeți plimbarea la o moschee locală primitoare înainte ca străzile să devină aglomerate. Navigați prin centrul orașului la amiază, asistând la un amestec frumos de credințe. Pedalele de după-amiază vă duc ușor spre sud către temple chinezești istorice. Seara vă încheie călătoria cu o prezentare arhitecturală vibrantă, dar pașnică, a diverselor tradiții locale.",
+        "en": "Kick off your ride at a welcoming local mosque before the streets get too busy. Navigate through the city center by midday, witnessing a beautiful blend of faiths. Your afternoon pedals take you slightly south to historic Chinese temples. Evening concludes your journey with a vibrant yet peaceful architectural showcase of diverse traditions."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:34",
+      "total_km": 5.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Masjid Perumahan Argopeni",
+            "hu": "Masjid Perumahan Argopeni",
+            "ro": "Masjid Perumahan Argopeni",
+            "en": "Masjid Perumahan Argopeni"
+          },
+          "coords": [
+            109.906066,
+            -7.344292
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Fahrt an dieser ruhigen Wohnmoschee, die das lokale Vorstadtleben zeigt, und achten Sie darauf, in den engen Straßen rücksichtsvoll zu parken.",
+            "hu": "Kezdje autós útvonalát ennél a csendes lakóövezeti mecsetnél, amely bemutatja a külvárosi életet, és ügyeljen a szűk utcákon való szabályos és figyelmes parkolásra.",
+            "ro": "Începeți traseul cu mașina la această moschee rezidențială liniștită, care evidențiază viața suburbană, asigurându-vă că parcați atent pe străzile înguste din cartier.",
+            "en": "Begin your driving route at this quiet residential mosque that highlights local suburban life, ensuring you park considerately on the narrow neighborhood streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Musholla AL Gufron",
+            "hu": "Musholla AL Gufron",
+            "ro": "Musholla AL Gufron",
+            "en": "Musholla AL Gufron"
+          },
+          "coords": [
+            109.910967,
+            -7.343195
+          ],
+          "category": "landmark",
+          "arrive_at": "09:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen bescheidenen, aber wichtigen Gebetsraum in der Nachbarschaft, ein perfekter kurzer Stopp, um die authentische Hingabe der Einheimischen zu erleben.",
+            "hu": "Fedezze fel ezt a szerény, de lelkileg jelentős imatermet a környéken, amely tökéletes rövid megálló a helyiek hiteles áhítatának és kultúrájának megtapasztalására.",
+            "ro": "Descoperiți această sală de rugăciune modestă, dar semnificativă, ascunsă în cartier, o oprire scurtă perfectă pentru a asista la devotamentul autentic al localnicilor.",
+            "en": "Discover this modest but spiritually significant prayer room tucked away in the neighborhood, a perfect brief stop to witness the authentic devotion of locals."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Jlegong",
+            "hu": "Masjid Jlegong",
+            "ro": "Masjid Jlegong",
+            "en": "Masjid Jlegong"
+          },
+          "coords": [
+            109.910982,
+            -7.351743
+          ],
+          "category": "landmark",
+          "arrive_at": "10:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie das schlichte Design dieses Gemeindezentrums und nehmen Sie Wasser mit, da Geschäfte in dieser speziellen Gegend eher spärlich gesät sind.",
+            "hu": "Csodálja meg ennek a központnak az egyszerű, de mélyreható kialakítását, és vigyen magával vizet, mivel a közelben viszonylag kevés a nyitva tartó kisbolt.",
+            "ro": "Admirați designul simplu, dar profund al acestui centru comunitar, asigurându-vă că aduceți o sticlă cu apă, deoarece magazinele de proximitate sunt destul de rare aici.",
+            "en": "Admire the simple yet profound design of this community center, making sure to bring a bottle of water as nearby convenience stores are quite sparse in this area."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Al-Mansyur",
+            "hu": "Masjid Al-Mansyur",
+            "ro": "Masjid Al-Mansyur",
+            "en": "Masjid Al-Mansyur"
+          },
+          "coords": [
+            109.903652,
+            -7.353941
+          ],
+          "category": "landmark",
+          "arrive_at": "11:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Halten Sie an diesem schön proportionierten religiösen Wahrzeichen an, um sein elegantes Minarett zu schätzen, das von der Hauptstraße aus gut sichtbar ist.",
+            "hu": "Álljon meg ennél a gyönyörű arányokkal rendelkező vallási nevezetességnél, hogy értékelje elegáns minaretjét, amely a főútról áthaladva is nagyon jól látható.",
+            "ro": "Opriți-vă la acest punct de reper religios frumos proporționat pentru a aprecia minaretul său elegant, ușor vizibil de pe drumul principal în timp ce conduceți.",
+            "en": "Stop by this beautifully proportioned religious landmark to appreciate its elegant minaret, which is easily visible from the main road as you drive through town."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Besar Jami",
+            "hu": "Masjid Besar Jami",
+            "ro": "Masjid Besar Jami",
+            "en": "Masjid Besar Jami"
+          },
+          "coords": [
+            109.900926,
+            -7.359254
+          ],
+          "category": "landmark",
+          "arrive_at": "11:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese große Zentralmoschee, die für ihre friedliche Atmosphäre bekannt ist, aber denken Sie daran, sich vor dem Betreten angemessen und respektvoll zu kleiden.",
+            "hu": "Fedezze fel ezt a békés hangulatáról ismert nagy központi mecsetet, de belépés előtt ügyeljen a szerény és a hagyományokat tiszteletben tartó megfelelő öltözködésre.",
+            "ro": "Explorați această mare moschee centrală, renumită pentru atmosfera sa pașnică, dar asigurați-vă că vă îmbrăcați modest și extrem de respectuos înainte de a intra.",
+            "en": "Explore this grand central mosque renowned for its peaceful ambiance and vast central courtyard, but remember to dress modestly and respectfully before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "GKJ Wonosobo",
+            "hu": "GKJ Wonosobo",
+            "ro": "GKJ Wonosobo",
+            "en": "GKJ Wonosobo"
+          },
+          "coords": [
+            109.899754,
+            -7.364423
+          ],
+          "category": "landmark",
+          "arrive_at": "12:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beachten Sie den unverwechselbaren architektonischen Stil dieser christlichen Kirche, den Sie am besten vor Beginn der Gottesdienste bequem von der Straße aus bewundern.",
+            "hu": "Figyelje meg a helyi elemekkel ötvözött keresztény templom jellegzetes stílusát, amelyet a leginkább az utcáról érdemes megcsodálni az istentiszteletek megkezdése előtt.",
+            "ro": "Observați stilul arhitectural distinct al acestei biserici creștine cu elemente locale, care este cel mai bine apreciat din stradă înainte de începerea slujbelor.",
+            "en": "Notice the distinct architectural style of this Christian church blending with local elements, which is best appreciated from the street before services begin."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Abu Daldiri",
+            "hu": "Masjid Abu Daldiri",
+            "ro": "Masjid Abu Daldiri",
+            "en": "Masjid Abu Daldiri"
+          },
+          "coords": [
+            109.898045,
+            -7.377958
+          ],
+          "category": "landmark",
+          "arrive_at": "13:24",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag in dieser friedlichen südlichen Moschee, wo Sie beobachten können, wie der Sonnenuntergang ein warmes Leuchten auf die klassischen Dächer wirft.",
+            "hu": "Zárja a napot ebben a békés déli mecsetben, ahol nyugodtan végignézheti, ahogy a naplemente csodálatos aranyló fényt vet a klasszikus indonéz tetőszerkezetekre.",
+            "ro": "Încheiați ziua la această moschee pașnică din sud, unde puteți privi apusul frumos aruncând o strălucire caldă peste structurile clasice ale acoperișurilor indoneziene.",
+            "en": "End your day at this peaceful southern mosque, where you can watch the beautiful sunset casting a warm golden glow over the classic Indonesian roof structures."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie durch die nördlichen Wohngebiete, um die lokale Hingabe hautnah zu erleben. Die Mittagsroute führt zurück zum belebten Stadtzentrum zu den größeren Sehenswürdigkeiten. Verbringen Sie den Nachmittag damit, eine Mischung aus majestätischen Moscheen und Kirchen zu erkunden. Die letzte Fahrt nach Süden am Abend ermöglicht einen äußerst ruhigen Abschluss.",
+        "hu": "Kezdjen el vezetni az északi lakóövezetekben, hogy testközelből lássa a helyi áhítatot. A déli útvonal visszatér a nyüzsgő városközpontba a főbb látnivalókhoz. Töltse a délutánt a nagy mecsetek és keresztény templomok változatos keverékének felfedezésével. Az esti utolsó délre vezető út nyugodt, békés és hosszas elmélkedő befejezést tesz lehetővé a nap végén.",
+        "ro": "Începeți să conduceți prin zonele rezidențiale nordice pentru a vedea devotamentul local. Traseul de amiază se întoarce spre centrul plin de viață al orașului pentru repere mai mari. Petreceți după-amiaza explorând un amestec de moschei mari și biserici creștine. Ultima ta călătorie spre sud seara permite un final absolut senin și contemplativ al zilei petrecute aici.",
+        "en": "Begin driving through the northern residential areas to see local devotion up close. The midday route sweeps back towards the bustling city center for larger landmarks. Spend the afternoon exploring a diverse mix of grand mosques and Christian churches. Your final drive south in the evening allows for a serene and contemplative end to the day."
+      }
+    }
+  }
+}

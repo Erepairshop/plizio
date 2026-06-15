@@ -1,0 +1,451 @@
+{
+  "city_id": "besseges",
+  "anchor": {
+    "name": "Bessèges",
+    "coords": [
+      4.1006,
+      44.2917
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:42",
+      "total_km": 8.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Tempel",
+            "hu": "Templom",
+            "ro": "Templul",
+            "en": "Temple"
+          },
+          "coords": [
+            4.103949,
+            44.290782
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die schlichte Schönheit dieses historischen protestantischen Tempels, der das religiöse Erbe der Region widerspiegelt, und achten Sie auf Choraufführungen.",
+            "hu": "Fedezze fel ennek a történelmi protestáns templomnak a zord szépségét, amely a régió vallási örökségét tükrözi, és nézze meg a helyi kórusok fellépéseiről szóló hirdetőtáblát.",
+            "ro": "Descoperiți frumusețea austeră a acestui templu protestant istoric ce reflectă moștenirea religioasă a regiunii și verificați panoul cu anunțuri pentru concertele corale locale.",
+            "en": "Discover the austere beauty of this historical Protestant temple that reflects the region's religious heritage, and check the notice board for local choir performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Unbefleckten Empfängnis",
+            "hu": "Szeplőtelen Fogantatás temploma",
+            "ro": "Biserica Imaculatei Concepții",
+            "en": "Church of the Immaculate Conception"
+          },
+          "coords": [
+            4.096351,
+            44.292607
+          ],
+          "category": "religious",
+          "arrive_at": "09:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten architektonischen Details dieser der Unbefleckten Empfängnis gewidmeten katholischen Kirche, und genießen Sie das Licht der bunten Glasfenster.",
+            "hu": "Csodálja meg a Szeplőtelen Fogantatásnak szentelt katolikus templom lenyűgöző építészeti részleteit, és élvezze az élénk ólomüveg ablakokon átszűrődő varázslatos napfényt.",
+            "ro": "Admirați detaliile arhitecturale remarcabile ale acestei biserici catolice închinate Imaculatei Concepții, prețuind lumina soarelui ce pătrunde prin vitraliile sale vibrante.",
+            "en": "Admire the striking architectural details of this Catholic church dedicated to the Immaculate Conception, taking a moment to appreciate the sunlight filtering through its vibrant stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle der Côte",
+            "hu": "Côte-kápolna",
+            "ro": "Capela de la Côte",
+            "en": "Chapelle de la Côte"
+          },
+          "coords": [
+            4.093674,
+            44.303855
+          ],
+          "category": "religious",
+          "arrive_at": "10:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Steigen Sie zu dieser reizvollen Kapelle am Hang hinauf, um tiefe Ruhe zu erleben und den weiten Panoramablick über das gesamte Tal von Bessèges aus einem ruhigen Blickwinkel zu genießen.",
+            "hu": "Másszon fel ehhez a bájos domboldali kápolnához, hogy megtapasztalja a mélységes nyugalmat, és élvezze a Bessèges-völgyre nyíló lenyűgöző, panorámás kilátást ebből a békés, magaslati pontból.",
+            "ro": "Urcați la această fermecătoare capelă de pe deal pentru a experimenta o liniște profundă și a vă bucura de priveliștile panoramice ample asupra întregii văi Bessèges dintr-un punct de observație liniștit.",
+            "en": "Climb up to this charming hillside chapel to experience profound tranquility and enjoy sweeping panoramic views of the entire Bessèges valley from its serene, elevated vantage point."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergbaumuseum",
+            "hu": "Bányászati Múzeum",
+            "ro": "Muzeul Mineritului",
+            "en": "Mining Museum"
+          },
+          "coords": [
+            4.126223,
+            44.309193
+          ],
+          "category": "museum",
+          "arrive_at": "12:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 40,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reiche industrielle Vergangenheit der Cevennen ein, indem Sie faszinierende Exponate zum Kohleabbau erkunden, und tragen Sie bequeme Schuhe wegen der unebenen Böden.",
+            "hu": "Merüljön el a Cévennes régió gazdag ipari múltjában a szénbányászatról szóló lenyűgöző kiállítások felfedezésével, és viseljen kényelmes cipőt, mivel a padló néhol meglehetősen egyenetlen.",
+            "ro": "Pătrundeți în bogatul trecut industrial al regiunii Cévennes explorând exponate fascinante despre extracția cărbunelui și purtați încălțăminte confortabilă, deoarece podelele pot fi denivelate.",
+            "en": "Delve into the rich industrial past of the Cévennes region by exploring fascinating exhibits on coal extraction, and wear comfortable walking shoes as the floors can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Öffentliches Schwimmbad",
+            "hu": "Nyilvános uszoda",
+            "ro": "Piscina publică",
+            "en": "Public Swimming Pool"
+          },
+          "coords": [
+            4.100717,
+            44.279864
+          ],
+          "category": "family",
+          "arrive_at": "14:57",
+          "stay_min": 105,
+          "hop_from_prev_min": 59,
+          "hop_from_prev_km": 3.9,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich mit Ihrer Familie in diesem einladenden öffentlichen Schwimmbad im Tal ab und denken Sie daran, ausreichend Sonnencreme und Wasser für einen entspannten Nachmittag in der Sonne einzupacken.",
+            "hu": "Hűtse le magát családjával ebben a völgyben megbúvó, barátságos nyilvános uszodában, és ne felejtsen el sok naptejet és vizet csomagolni egy pihentető, napsütéses délutánhoz.",
+            "ro": "Răcoriți-vă împreună cu familia la această piscină publică primitoare ascunsă în vale și nu uitați să împachetați multă cremă de protecție solară și apă pentru o după-amiază relaxantă.",
+            "en": "Cool off with your family at this welcoming public swimming pool nestled in the valley, and remember to pack plenty of sunscreen and water for a relaxing afternoon in the sun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen in der ruhigen Atmosphäre des Tempels, bevor Sie zur wunderschönen Kirche der Unbefleckten Empfängnis weitergehen.\n\nSteigen Sie mittags zur Chapelle de la Côte hinauf, wo weite Talblicke die perfekte Kulisse für eine ruhige Pause bilden.\n\nTauchen Sie am Nachmittag im weitläufigen Bergbaumuseum in das industrielle Erbe der Region ein.\n\nBeenden Sie Ihre Wanderung mit einer erfrischenden Pause im öffentlichen Schwimmbad und entspannen Sie sich bei Sonnenuntergang.",
+        "hu": "Kezdje a reggelt a Templom nyugodt légkörének befogadásával, majd látogasson el a gyönyörű Szeplőtelen Fogantatás templomába.\n\nDélben másszon fel a domboldalon a Chapelle de la Côte-hoz, ahol a völgyre nyíló pazar kilátás tökéletes hátteret biztosít a csendes pihenéshez.\n\nDélután merüljön el a régió ipari örökségében a kiterjedt Bányászati Múzeumban.\n\nZárja gyalogtúráját egy frissítő pihenővel a nyilvános uszodában, és lazítson, ahogy a nap lemenni készül a Cévennes felett.",
+        "ro": "Începeți dimineața absorbind atmosfera liniștită a Templului înainte de a vizita frumoasa Biserică a Imaculatei Concepții.\n\nLa amiază, urcați dealul până la Chapelle de la Côte, unde priveliștile ample ale văii oferă fundalul perfect pentru o pauză.\n\nDupă-amiaza, scufundați-vă în patrimoniul industrial al regiunii la impresionantul Muzeu al Mineritului.\n\nÎncheiați-vă plimbarea cu o pauză răcoritoare la Piscina Publică, relaxându-vă în timp ce soarele apune peste Cévennes.",
+        "en": "Start your morning absorbing the tranquil atmosphere of the Temple before moving on to the beautiful Church of the Immaculate Conception.\n\nBy midday, ascend the hillside to the Chapelle de la Côte, where sweeping valley views make the perfect backdrop for a quiet pause.\n\nIn the afternoon, dive into the region's industrial heritage at the expansive Mining Museum.\n\nConclude your walking tour with a refreshing break at the Public Swimming Pool, unwinding as the sun begins to set over the Cévennes."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:58",
+      "total_km": 7.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Andéol",
+            "hu": "Saint-Andéol templom",
+            "ro": "Biserica Saint-Andéol",
+            "en": "Saint-Andéol Church"
+          },
+          "coords": [
+            4.126138,
+            44.273523
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historische Pfarrkirche, die als stiller Zeuge jahrhundertelangen lokalen Glaubens steht, und verbringen Sie einen ruhigen Moment im schattigen Innenhof.",
+            "hu": "Fedezze fel ezt a történelmi plébániatemplomot, amely az évszázados helyi hit csendes tanújaként áll, és töltsön el egy csendes pillanatot az árnyékos udvaron utazása folytatása előtt.",
+            "ro": "Explorați această biserică parohială istorică, martor tăcut al secolelor de credință locală, și luați-vă un moment de liniște în curtea umbrită înainte de a vă continua călătoria.",
+            "en": "Explore this historic parish church that stands as a silent witness to centuries of local faith, and take a quiet moment in the shaded courtyard before continuing your journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Öffentliches Schwimmbad",
+            "hu": "Nyilvános uszoda",
+            "ro": "Piscina publică",
+            "en": "Public Swimming Pool"
+          },
+          "coords": [
+            4.100717,
+            44.279864
+          ],
+          "category": "family",
+          "arrive_at": "10:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich mit Ihrer Familie in diesem einladenden öffentlichen Schwimmbad im Tal ab und denken Sie daran, ausreichend Sonnencreme und Wasser für einen entspannten Nachmittag in der Sonne einzupacken.",
+            "hu": "Hűtse le magát családjával ebben a völgyben megbúvó, barátságos nyilvános uszodában, és ne felejtsen el sok naptejet és vizet csomagolni egy pihentető, napsütéses délutánhoz.",
+            "ro": "Răcoriți-vă împreună cu familia la această piscină publică primitoare ascunsă în vale și nu uitați să împachetați multă cremă de protecție solară și apă pentru o după-amiază relaxantă.",
+            "en": "Cool off with your family at this welcoming public swimming pool nestled in the valley, and remember to pack plenty of sunscreen and water for a relaxing afternoon in the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Tempel",
+            "hu": "Templom",
+            "ro": "Templul",
+            "en": "Temple"
+          },
+          "coords": [
+            4.103949,
+            44.290782
+          ],
+          "category": "religious",
+          "arrive_at": "11:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die schlichte Schönheit dieses historischen protestantischen Tempels, der das religiöse Erbe der Region widerspiegelt, und achten Sie auf Choraufführungen.",
+            "hu": "Fedezze fel ennek a történelmi protestáns templomnak a zord szépségét, amely a régió vallási örökségét tükrözi, és nézze meg a helyi kórusok fellépéseiről szóló hirdetőtáblát.",
+            "ro": "Descoperiți frumusețea austeră a acestui templu protestant istoric ce reflectă moștenirea religioasă a regiunii și verificați panoul cu anunțuri pentru concertele corale locale.",
+            "en": "Discover the austere beauty of this historical Protestant temple that reflects the region's religious heritage, and check the notice board for local choir performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Unbefleckten Empfängnis",
+            "hu": "Szeplőtelen Fogantatás temploma",
+            "ro": "Biserica Imaculatei Concepții",
+            "en": "Church of the Immaculate Conception"
+          },
+          "coords": [
+            4.096351,
+            44.292607
+          ],
+          "category": "religious",
+          "arrive_at": "12:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten architektonischen Details dieser der Unbefleckten Empfängnis gewidmeten katholischen Kirche, und genießen Sie das Licht der bunten Glasfenster.",
+            "hu": "Csodálja meg a Szeplőtelen Fogantatásnak szentelt katolikus templom lenyűgöző építészeti részleteit, és élvezze az élénk ólomüveg ablakokon átszűrődő varázslatos napfényt.",
+            "ro": "Admirați detaliile arhitecturale remarcabile ale acestei biserici catolice închinate Imaculatei Concepții, prețuind lumina soarelui ce pătrunde prin vitraliile sale vibrante.",
+            "en": "Admire the striking architectural details of this Catholic church dedicated to the Immaculate Conception, taking a moment to appreciate the sunlight filtering through its vibrant stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle der Côte",
+            "hu": "Côte-kápolna",
+            "ro": "Capela de la Côte",
+            "en": "Chapelle de la Côte"
+          },
+          "coords": [
+            4.093674,
+            44.303855
+          ],
+          "category": "religious",
+          "arrive_at": "12:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Steigen Sie zu dieser reizvollen Kapelle am Hang hinauf, um tiefe Ruhe zu erleben und den weiten Panoramablick über das gesamte Tal von Bessèges aus einem ruhigen Blickwinkel zu genießen.",
+            "hu": "Másszon fel ehhez a bájos domboldali kápolnához, hogy megtapasztalja a mélységes nyugalmat, és élvezze a Bessèges-völgyre nyíló lenyűgöző, panorámás kilátást ebből a békés, magaslati pontból.",
+            "ro": "Urcați la această fermecătoare capelă de pe deal pentru a experimenta o liniște profundă și a vă bucura de priveliștile panoramice ample asupra întregii văi Bessèges dintr-un punct de observație liniștit.",
+            "en": "Climb up to this charming hillside chapel to experience profound tranquility and enjoy sweeping panoramic views of the entire Bessèges valley from its serene, elevated vantage point."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergbaumuseum",
+            "hu": "Bányászati Múzeum",
+            "ro": "Muzeul Mineritului",
+            "en": "Mining Museum"
+          },
+          "coords": [
+            4.126223,
+            44.309193
+          ],
+          "category": "museum",
+          "arrive_at": "13:48",
+          "stay_min": 130,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reiche industrielle Vergangenheit der Cevennen ein, indem Sie faszinierende Exponate zum Kohleabbau erkunden, und tragen Sie bequeme Schuhe wegen der unebenen Böden.",
+            "hu": "Merüljön el a Cévennes régió gazdag ipari múltjában a szénbányászatról szóló lenyűgöző kiállítások felfedezésével, és viseljen kényelmes cipőt, mivel a padló néhol meglehetősen egyenetlen.",
+            "ro": "Pătrundeți în bogatul trecut industrial al regiunii Cévennes explorând exponate fascinante despre extracția cărbunelui și purtați încălțăminte confortabilă, deoarece podelele pot fi denivelate.",
+            "en": "Delve into the rich industrial past of the Cévennes region by exploring fascinating exhibits on coal extraction, and wear comfortable walking shoes as the floors can be quite uneven."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Fahrradabenteuer beginnt an der historischen Église Saint-Andéol, bevor Sie gemütlich zum örtlichen Schwimmbad hinuntergleiten.\n\nRadeln Sie zur Mittagszeit zurück ins Stadtzentrum, um die würdevolle Architektur des Tempels und der katholischen Hauptkirche zu bewundern.\n\nMeistern Sie am Nachmittag die leichte Steigung zur Chapelle de la Côte, um atemberaubende Panoramen zu genießen.\n\nRollen Sie schließlich zum Bergbaumuseum und lassen Sie den Tag inmitten faszinierender lokaler Geschichte ausklingen.",
+        "hu": "Kerékpáros kalandja a történelmi Église Saint-Andéolnál kezdődik, megadva a nap békés alaphangját, mielőtt leereszkedne a helyi uszodához.\n\nEbédidőre tekerjen vissza a városközpont felé, hogy megcsodálhassa a Templom és a fő katolikus templom méltóságteljes építészetét.\n\nA délután folyamán győzze le az enyhe emelkedőt a Chapelle de la Côte-hoz, hogy lélegzetelállító panorámákban gyönyörködhessen.\n\nVégül guruljon el a Bányászati Múzeumhoz, lenyűgöző helytörténeti emlékekkel körülvéve zárva a napot.",
+        "ro": "Aventura pe bicicletă începe la istorica Biserică Saint-Andéol, oferind un ton pașnic zilei înainte de a coborî spre piscina locală.\n\nLa ora prânzului, pedalați înapoi spre centrul orașului pentru a admira arhitectura demnă a Templului și a bisericii catolice principale.\n\nPe măsură ce după-amiaza avansează, cuceriți panta ușoară către Chapelle de la Côte pentru a vă bucura de panorame uluitoare.\n\nÎn cele din urmă, mergeți spre Muzeul Mineritului, încheind ziua înconjurați de o istorie locală fascinantă.",
+        "en": "Your cycling adventure starts at the historic Saint-Andéol Church, setting a peaceful tone for the day before gliding down to the local public pool.\n\nBy lunchtime, pedal your way back towards the town center to admire the dignified architecture of the Temple and the main Catholic church.\n\nAs the afternoon progresses, conquer the slight incline to the Chapelle de la Côte to enjoy breathtaking panoramas.\n\nFinally, wheel your way to the Mining Museum, wrapping up the day surrounded by fascinating local history."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:53",
+      "total_km": 10.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche von Peyremale",
+            "hu": "Peyremale-templom",
+            "ro": "Biserica Peyremale",
+            "en": "Church of Peyremale"
+          },
+          "coords": [
+            4.066911,
+            44.302744
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die robuste Steinarchitektur dieses markanten lokalen Wahrzeichens und bringen Sie eine Kamera mit, um das dramatische Spiel von Licht und Schatten an der alten Fassade einzufangen.",
+            "hu": "Csodálja meg ennek a kiemelkedő helyi nevezetességnek a robusztus kőépítészetét, és hozzon magával fényképezőgépet, hogy megörökítse a fény és árnyék drámai játékát az ősi homlokzaton.",
+            "ro": "Minunați-vă de arhitectura robustă din piatră a acestui punct de reper local proeminent și aduceți un aparat foto pentru a surprinde jocul dramatic de lumini și umbre pe fațada sa antică.",
+            "en": "Marvel at the robust stone architecture of this prominent local landmark, and consider bringing a camera to capture the dramatic interplay of light and shadow on its ancient facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle der Côte",
+            "hu": "Côte-kápolna",
+            "ro": "Capela de la Côte",
+            "en": "Chapelle de la Côte"
+          },
+          "coords": [
+            4.093674,
+            44.303855
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Steigen Sie zu dieser reizvollen Kapelle am Hang hinauf, um tiefe Ruhe zu erleben und den weiten Panoramablick über das gesamte Tal von Bessèges aus einem ruhigen Blickwinkel zu genießen.",
+            "hu": "Másszon fel ehhez a bájos domboldali kápolnához, hogy megtapasztalja a mélységes nyugalmat, és élvezze a Bessèges-völgyre nyíló lenyűgöző, panorámás kilátást ebből a békés, magaslati pontból.",
+            "ro": "Urcați la această fermecătoare capelă de pe deal pentru a experimenta o liniște profundă și a vă bucura de priveliștile panoramice ample asupra întregii văi Bessèges dintr-un punct de observație liniștit.",
+            "en": "Climb up to this charming hillside chapel to experience profound tranquility and enjoy sweeping panoramic views of the entire Bessèges valley from its serene, elevated vantage point."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Unbefleckten Empfängnis",
+            "hu": "Szeplőtelen Fogantatás temploma",
+            "ro": "Biserica Imaculatei Concepții",
+            "en": "Church of the Immaculate Conception"
+          },
+          "coords": [
+            4.096351,
+            44.292607
+          ],
+          "category": "religious",
+          "arrive_at": "11:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten architektonischen Details dieser der Unbefleckten Empfängnis gewidmeten katholischen Kirche, und genießen Sie das Licht der bunten Glasfenster.",
+            "hu": "Csodálja meg a Szeplőtelen Fogantatásnak szentelt katolikus templom lenyűgöző építészeti részleteit, és élvezze az élénk ólomüveg ablakokon átszűrődő varázslatos napfényt.",
+            "ro": "Admirați detaliile arhitecturale remarcabile ale acestei biserici catolice închinate Imaculatei Concepții, prețuind lumina soarelui ce pătrunde prin vitraliile sale vibrante.",
+            "en": "Admire the striking architectural details of this Catholic church dedicated to the Immaculate Conception, taking a moment to appreciate the sunlight filtering through its vibrant stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Bergbaumuseum",
+            "hu": "Bányászati Múzeum",
+            "ro": "Muzeul Mineritului",
+            "en": "Mining Museum"
+          },
+          "coords": [
+            4.126223,
+            44.309193
+          ],
+          "category": "museum",
+          "arrive_at": "12:04",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die reiche industrielle Vergangenheit der Cevennen ein, indem Sie faszinierende Exponate zum Kohleabbau erkunden, und tragen Sie bequeme Schuhe wegen der unebenen Böden.",
+            "hu": "Merüljön el a Cévennes régió gazdag ipari múltjában a szénbányászatról szóló lenyűgöző kiállítások felfedezésével, és viseljen kényelmes cipőt, mivel a padló néhol meglehetősen egyenetlen.",
+            "ro": "Pătrundeți în bogatul trecut industrial al regiunii Cévennes explorând exponate fascinante despre extracția cărbunelui și purtați încălțăminte confortabilă, deoarece podelele pot fi denivelate.",
+            "en": "Delve into the rich industrial past of the Cévennes region by exploring fascinating exhibits on coal extraction, and wear comfortable walking shoes as the floors can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Tomple",
+            "hu": "Le Tomple",
+            "ro": "Le Tomple",
+            "en": "Le Tomple"
+          },
+          "coords": [
+            4.147803,
+            44.338887
+          ],
+          "category": "natural",
+          "arrive_at": "13:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.7,
+          "tip_5lang": {
+            "de": "Wandern Sie durch dieses wunderschöne Naturschutzgebiet mit üppigem Grün und frischer Bergluft, wobei Sie auf den markierten Wegen bleiben sollten, um das empfindliche Ökosystem zu schützen.",
+            "hu": "Sétáljon végig ezen a gyönyörű, buja növényzetet és friss hegyi levegőt kínáló természeti területen, és feltétlenül maradjon a kijelölt ösvényeken az érzékeny helyi ökoszisztéma védelme érdekében.",
+            "ro": "Plimbați-vă prin acest frumos sit natural care oferă verdeață luxuriantă și aer proaspăt de munte, asigurându-vă că rămâneți pe traseele marcate pentru a proteja ecosistemul local delicat.",
+            "en": "Wander through this beautiful natural site offering lush greenery and fresh mountain air, making sure to stay on the marked trails to protect the delicate local ecosystem."
+          }
+        },
+        {
+          "name": {
+            "de": "Waschhaus Sagnes",
+            "hu": "Sagnes mosóház",
+            "ro": "Spălătoria Sagnes",
+            "en": "Sagnes Washhouse"
+          },
+          "coords": [
+            4.144242,
+            44.340899
+          ],
+          "category": "natural",
+          "arrive_at": "15:08",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise an diesem historischen, von Natur umgebenen gemeinschaftlichen Waschhaus, an dem sich Generationen von Einheimischen versammelten, und lauschen Sie dem beruhigenden Fließen des Wassers.",
+            "hu": "Lépjen vissza az időben ebben a természet lágy ölén található történelmi közösségi mosóházban, ahol a helyiek generációi gyűltek össze, és hallgassa figyelmesen az áramló víz nyugtató hangját.",
+            "ro": "Întoarceți-vă în timp la această spălătorie comunală istorică înconjurată de natură, unde s-au adunat generații de localnici, și ascultați cu atenție sunetul liniștitor al apei curgătoare.",
+            "en": "Step back in time at this historic communal washhouse surrounded by nature, where generations of locals gathered, and listen carefully to the soothing sound of flowing water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Gehen Sie früh auf die Straße und bestaunen Sie die majestätische Église de Peyremale, die den historischen Ton Ihrer motorisierten Erkundung angibt.\n\nMittags besuchen Sie die hochgelegene Chapelle de la Côte und die zentrale Église de l'Immaculée Conception mit ihrer abwechslungsreichen Architektur.\n\nAm Nachmittag führt Sie Ihre Fahrt zum weitläufigen Bergbaumuseum, um die stolzen industriellen Wurzeln von Bessèges zu entdecken.\n\nBeenden Sie Ihren Roadtrip, indem Sie zu den ruhigen Naturstätten Le Tomple und Lavoir des Sagnes fahren und die Natur genießen.",
+        "hu": "Induljon útnak korán, és csodálja meg a fenséges Église de Peyremale-t, amely inspiráló történelmi alaphangot ad autós felfedezésének.\n\nA dél elhozza Önt a magasan fekvő Chapelle de la Côte-hoz és a központi Szeplőtelen Fogantatás templomához, bemutatva a változatos helyi építészetet.\n\nDélutáni útja a kiterjedt Bányászati Múzeumhoz vezet, hogy felfedezze Bessèges kemény, de büszke ipari gyökereit.\n\nZárja autós kirándulását azzal, hogy elhajt a Le Tomple és a Lavoir des Sagnes nyugodt természeti helyeihez, átölelve a természet báját.",
+        "ro": "Porniți la drum devreme și minunați-vă de maiestuoasa Biserică Peyremale, stabilind un ton istoric inspirator pentru explorarea dumneavoastră motorizată.\n\nAmiaza vă duce la Chapelle de la Côte și la centrala Biserică a Imaculatei Concepții, prezentând arhitectura locală variată.\n\nDupă-amiaza, drumul vă duce la imensul Muzeu al Mineritului pentru a descoperi rădăcinile industriale dure, dar mândre ale orașului.\n\nÎncheiați-vă excursia conducând spre locurile naturale liniștite Le Tomple și Lavoir des Sagnes, îmbrățișând farmecul naturii.",
+        "en": "Hit the road early and marvel at the majestic Church of Peyremale, setting an inspiring historical tone for your motorized exploration.\n\nMidday brings you to the elevated Chapelle de la Côte and the central Church of the Immaculate Conception, showcasing varied local architecture.\n\nIn the afternoon, your drive takes you to the sprawling Mining Museum to uncover the tough but proud industrial roots of Bessèges.\n\nConclude your road trip by driving out to the serene natural spots of Le Tomple and Lavoir des Sagnes, embracing nature's quiet charm."
+      }
+    }
+  }
+}

@@ -1,0 +1,428 @@
+{
+  "city_id": "embrun",
+  "anchor": {
+    "name": "Embrun",
+    "coords": [
+      6.4953,
+      44.565
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:46",
+      "total_km": 0.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Place Barthelon",
+            "hu": "Place Barthelon",
+            "ro": "Place Barthelon",
+            "en": "Place Barthelon"
+          },
+          "coords": [
+            6.49613,
+            44.564369
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im lebendigen Herzen der Stadt, um die farbenfrohen Fassaden zu bewundern, und trinken Sie einen frischen Espresso in einem lokalen Café.",
+            "hu": "Kezdje a napot a város élénk szívében, hogy megcsodálja a színes homlokzatokat, és igyon egy friss eszpresszót egy helyi kávézóban a reggeli sétához.",
+            "ro": "Începeți ziua în inima vibrantă a orașului pentru a admira fațadele colorate și savurați un espresso proaspăt la o cafenea locală pentru a vă încărca cu energie.",
+            "en": "Start your day at the vibrant heart of the city to admire the colorful facades, and grab a fresh espresso at a local café to fuel your morning stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison des Chanonges",
+            "hu": "Maison des Chanonges",
+            "ro": "Maison des Chanonges",
+            "en": "Maison des Chanonges"
+          },
+          "coords": [
+            6.4946,
+            44.5627
+          ],
+          "category": "museum",
+          "arrive_at": "09:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie Embruns reiche Vergangenheit in diesem gut erhaltenen Kanonikerhaus aus dem 13. Jahrhundert und achten Sie auf die komplexen romanischen Steinmetzarbeiten.",
+            "hu": "Fedezze fel Embrun gazdag múltját ebben a gyönyörűen megőrzött 13. századi kanonokházban, és mindenképpen nézze meg alaposan a külső falak román stílusú kőfaragásait.",
+            "ro": "Descoperiți trecutul bogat al orașului Embrun în această casă a canonicilor din secolul al XIII-lea și asigurați-vă că priviți cu atenție sculpturile romanice în piatră.",
+            "en": "Discover Embrun's rich past in this beautifully preserved 13th-century canon's house, and make sure to look closely at the intricate Romanesque stone carvings on the outer walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Notre-Dame-du-Réal",
+            "hu": "Notre-Dame-du-Réal katedrális",
+            "ro": "Catedrala Notre-Dame-du-Réal",
+            "en": "Notre-Dame-du-Réal Cathedral"
+          },
+          "coords": [
+            6.495075,
+            44.562329
+          ],
+          "category": "religious",
+          "arrive_at": "11:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.05,
+          "tip_5lang": {
+            "de": "Bewundern Sie die atemberaubende schwarz-weiße Marmorveranda dieses mittelalterlichen Meisterwerks und verpassen Sie nicht die Gelegenheit, die historische Orgel zu hören.",
+            "hu": "Csodálja meg e középkori remekmű lenyűgöző fekete-fehér márvány tornácát, és ne hagyja ki a lehetőséget, hogy meghallgassa a történelmi orgonát a késő délelőtti mise során.",
+            "ro": "Admirați superbul pridvor din marmură alb-negru al acestei capodopere medievale și nu ratați șansa de a asculta orga istorică cântând în timpul slujbei de dimineață.",
+            "en": "Marvel at the stunning black and white marble porch of this medieval masterpiece, and don't miss the chance to hear the historic organ playing during the late morning mass."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour Brune",
+            "hu": "Tour Brune",
+            "ro": "Tour Brune",
+            "en": "Tour Brune"
+          },
+          "coords": [
+            6.495698,
+            44.563075
+          ],
+          "category": "historical",
+          "arrive_at": "12:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besteigen Sie diesen imposanten Verteidigungsturm aus dem 12. Jahrhundert für einen unvergleichlichen Panoramablick auf das Durance-Tal, aber tragen Sie dabei feste Schuhe.",
+            "hu": "Mássza meg ezt az impozáns 12. századi védőtornyot a Durance völgyére nyíló páratlan panorámáért, de viseljen masszív cipőt, mivel az ősi kőlépcsők meglehetősen egyenetlenek.",
+            "ro": "Urcați în acest impunător turn defensiv din secolul al XII-lea pentru o vedere panoramică inegalabilă asupra văii Durance, dar purtați încălțăminte solidă pentru treptele de piatră.",
+            "en": "Climb this imposing 12th-century defensive tower for an unparalleled panoramic view of the Durance valley, but wear sturdy shoes as the ancient stone steps can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin du Roc",
+            "hu": "Jardin du Roc",
+            "ro": "Jardin du Roc",
+            "en": "Jardin du Roc"
+          },
+          "coords": [
+            6.499312,
+            44.563107
+          ],
+          "category": "recreational",
+          "arrive_at": "14:01",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem bezaubernden Klippengarten mit spektakulärer Aussicht auf die Alpen und bringen Sie ein kleines Picknick mit, das Sie auf einer Bank genießen können.",
+            "hu": "Pihenjen ebben a bájos sziklaparti kertben, amely látványos kilátást nyújt a környező Alpokra, és hozzon magával egy kis pikniket, amelyet egy árnyékos padon fogyaszthat el.",
+            "ro": "Relaxați-vă în această fermecătoare grădină pe stâncă, care oferă o priveliște spectaculoasă asupra Alpilor, și aduceți un mic picnic pentru a-l savura pe o bancă umbrită.",
+            "en": "Relax in this charming cliffside garden offering spectacular sights of the surrounding Alps, and bring a small picnic to enjoy on one of the shaded benches overlooking the river."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen in der Place Barthelon und genießen Sie einen Kaffee, um wach zu werden. Tauchen Sie anschließend bei einem ruhigen Besuch der Maison des Chanonges in die Geschichte ein und bewundern Sie ihre zeitlose Architektur.\n\nGegen Mittag begeben Sie sich zur prächtigen Notre-Dame-du-Réal-Kathedrale und lassen sich von ihrer schönen Marmorveranda verzaubern. Nehmen Sie sich drinnen Zeit, um die mittelalterlichen Ecken zu erkunden.\n\nAm frühen Nachmittag machen Sie den lohnenden Aufstieg auf den Tour Brune, um die weiten Ausblicke über das Tal zu genießen. Der Blick auf die Durance, die sich durch die Alpen schlängelt, ist unvergesslich.\n\nBeenden Sie Ihre Wanderung mit Entspannung im Jardin du Roc. Dieses Klippenheiligtum bietet den perfekten Ort, um sich auszuruhen, während die späte Nachmittagssonne lange Schatten auf die Berggipfel wirft.",
+        "hu": "Kezdje a reggelt a helyi hangulat magába szívásával a Place Barthelonon, és igyon egy gyors kávét, hogy felébressze érzékeit. Ezután merüljön el Embrun történetében a Maison des Chanonges nyugodt meglátogatásával.\n\nDélben váltson át a csodálatos Notre-Dame-du-Réal katedrális felé, hagyva, hogy a fekete-fehér márvány tornác lenyűgözze. Szánjon rá időt odabent, felfedezve a csendes középkori sarkokat.\n\nKora délután tegye meg a rövid, de kifizetődő mászást a Tour Brune-ra a völgyre nyíló elsöprő kilátásért. Az Alpokon kanyargó Durance folyó látványa teljesen felejthetetlen.\n\nVégül fejezze be sétáját a Jardin du Roc-ban. Ez a sziklaoldali szentély tökéletes hely a pihenésre, miközben nézi, ahogy a késő délutáni nap hosszú árnyékokat vet a fenséges hegycsúcsokra.",
+        "ro": "Începeți dimineața absorbind atmosfera locală din Piața Barthelon, luând o cafea rapidă pentru a vă trezi. Apoi, pătrundeți în istoria orașului printr-o vizită relaxantă la Maison des Chanonges, apreciind arhitectura sa.\n\nLa prânz, îndreptați-vă spre magnifica Catedrală Notre-Dame-du-Réal, lăsând superbul pridvor de marmură alb-negru să vă uimească. Explorați în liniște colțurile sale medievale pline de mister.\n\nLa începutul după-amiezii, faceți o urcare scurtă, dar plină de satisfacții, pe Tour Brune pentru o priveliște panoramică a văii. Vederea râului Durance șerpuind prin Alpi este cu adevărat de neuitat.\n\nÎn cele din urmă, încheiați turul de plimbare relaxându-vă la Jardin du Roc. Acest sanctuar pe stâncă oferă locul perfect pentru odihnă, în timp ce soarele după-amiezii aruncă umbre lungi pe creste.",
+        "en": "Start your morning absorbing the local atmosphere at Place Barthelon, grabbing a quick coffee to awaken your senses. Then, delve into Embrun's history with an unhurried visit to the Maison des Chanonges, appreciating its timeless architecture.\n\nBy midday, transition towards the magnificent Notre-Dame-du-Réal Cathedral, letting the black and white marble porch awe you. Take your time inside, exploring the silent medieval corners.\n\nIn the early afternoon, make the short but rewarding climb up Tour Brune for sweeping valley vistas. The views of the Durance river winding through the Alps are completely unforgettable.\n\nFinally, end your walking tour unwinding at Jardin du Roc. This cliffside sanctuary offers the perfect spot to rest your feet while watching the late afternoon sun cast long shadows over the majestic mountain peaks."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 7.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place Barthelon",
+            "hu": "Place Barthelon",
+            "ro": "Place Barthelon",
+            "en": "Place Barthelon"
+          },
+          "coords": [
+            6.49613,
+            44.564369
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag im lebendigen Herzen der Stadt, um die farbenfrohen Fassaden zu bewundern, und trinken Sie einen frischen Espresso in einem lokalen Café.",
+            "hu": "Kezdje a napot a város élénk szívében, hogy megcsodálja a színes homlokzatokat, és igyon egy friss eszpresszót egy helyi kávézóban a reggeli sétához.",
+            "ro": "Începeți ziua în inima vibrantă a orașului pentru a admira fațadele colorate și savurați un espresso proaspăt la o cafenea locală pentru a vă încărca cu energie.",
+            "en": "Start your day at the vibrant heart of the city to admire the colorful facades, and grab a fresh espresso at a local café to fuel your morning stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Notre-Dame-du-Réal",
+            "hu": "Notre-Dame-du-Réal katedrális",
+            "ro": "Catedrala Notre-Dame-du-Réal",
+            "en": "Notre-Dame-du-Réal Cathedral"
+          },
+          "coords": [
+            6.495075,
+            44.562329
+          ],
+          "category": "religious",
+          "arrive_at": "09:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie die atemberaubende schwarz-weiße Marmorveranda dieses mittelalterlichen Meisterwerks und verpassen Sie nicht die Gelegenheit, die historische Orgel zu hören.",
+            "hu": "Csodálja meg e középkori remekmű lenyűgöző fekete-fehér márvány tornácát, és ne hagyja ki a lehetőséget, hogy meghallgassa a történelmi orgonát a késő délelőtti mise során.",
+            "ro": "Admirați superbul pridvor din marmură alb-negru al acestei capodopere medievale și nu ratați șansa de a asculta orga istorică cântând în timpul slujbei de dimineață.",
+            "en": "Marvel at the stunning black and white marble porch of this medieval masterpiece, and don't miss the chance to hear the historic organ playing during the late morning mass."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardin du Roc",
+            "hu": "Jardin du Roc",
+            "ro": "Jardin du Roc",
+            "en": "Jardin du Roc"
+          },
+          "coords": [
+            6.499312,
+            44.563107
+          ],
+          "category": "recreational",
+          "arrive_at": "10:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem bezaubernden Klippengarten mit spektakulärer Aussicht auf die Alpen und bringen Sie ein kleines Picknick mit, das Sie auf einer Bank genießen können.",
+            "hu": "Pihenjen ebben a bájos sziklaparti kertben, amely látványos kilátást nyújt a környező Alpokra, és hozzon magával egy kis pikniket, amelyet egy árnyékos padon fogyaszthat el.",
+            "ro": "Relaxați-vă în această fermecătoare grădină pe stâncă, care oferă o priveliște spectaculoasă asupra Alpilor, și aduceți un mic picnic pentru a-l savura pe o bancă umbrită.",
+            "en": "Relax in this charming cliffside garden offering spectacular sights of the surrounding Alps, and bring a small picnic to enjoy on one of the shaded benches overlooking the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Plan d'Eau d'Embrun",
+            "hu": "Plan d'Eau d'Embrun",
+            "ro": "Plan d'Eau d'Embrun",
+            "en": "Plan d'Eau d'Embrun"
+          },
+          "coords": [
+            6.473014,
+            44.548842
+          ],
+          "category": "natural",
+          "arrive_at": "12:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie ein erfrischendes Bad oder mieten Sie ein Paddleboard an diesem See, und kommen Sie vor dem Mittag, um sich einen guten Platz am grasbewachsenen Ufer zu sichern.",
+            "hu": "Élvezze a frissítő úszást vagy béreljen paddleboardot ebben az érintetlen tóban, és érkezzen dél előtt, hogy jó helyet biztosítson magának a füves parton az alpesi nap alatt.",
+            "ro": "Bucurați-vă de o baie revigorantă sau închiriați o placă cu vâsle în acest lac de agrement și ajungeți înainte de prânz pentru a vă asigura un loc bun pe malurile înierbate.",
+            "en": "Enjoy a refreshing swim or rent a paddleboard in this pristine recreational lake, and arrive before noon to secure a prime spot on the grassy banks under the warm Alpine sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Minigolf d'Embrun",
+            "hu": "Embrun Minigolf",
+            "ro": "Mini-golf d'Embrun",
+            "en": "Mini-golf d'Embrun"
+          },
+          "coords": [
+            6.478604,
+            44.550916
+          ],
+          "category": "family",
+          "arrive_at": "13:41",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fordern Sie Ihre Familie zu einer lustigen Partie auf diesem wunderschön angelegten Minigolfplatz heraus und nutzen Sie die nahe gelegene Snackbar für eine süße Nachmittagsleckerei.",
+            "hu": "Hívja ki családját egy vidám játékra ezen a gyönyörűen parkosított minigolfpályán, és használja ki a közeli büfé kínálatát egy gyors és ízletes délutáni csemegéhez.",
+            "ro": "Provocați-vă familia la un joc distractiv pe acest teren de mini-golf frumos amenajat și profitați de snack barul din apropiere pentru o gustare rapidă și delicioasă de după-amiază.",
+            "en": "Challenge your friends or family to a fun game at this beautifully landscaped mini-golf course, and take advantage of the nearby snack bar for a quick and tasty afternoon treat."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de Serre-Ponçon",
+            "hu": "Serre-Ponçon tó",
+            "ro": "Lacul Serre-Ponçon",
+            "en": "Lake Serre-Ponçon"
+          },
+          "coords": [
+            6.448445,
+            44.573061
+          ],
+          "category": "natural",
+          "arrive_at": "15:00",
+          "stay_min": 105,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an einem der größten künstlichen Seen Europas, um das türkisfarbene Wasser zu bestaunen, und buchen Sie eine Bootstour, um die Bergkulisse zu genießen.",
+            "hu": "Fejezze be a napját Európa egyik legnagyobb mesterséges tavánál, hogy megcsodálja a türkizkék vizet, és foglaljon egy késő délutáni hajótúrát a hegyi háttér teljes élvezetéhez.",
+            "ro": "Încheiați-vă ziua la unul dintre cele mai mari lacuri artificiale din Europa pentru a admira apele turcoaz și rezervați un tur cu barca pentru a aprecia peisajul montan spectaculos.",
+            "en": "End your day at one of Europe's largest artificial lakes to marvel at the turquoise waters, and book a late afternoon boat tour to fully appreciate the dramatic mountain backdrop."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour im historischen Zentrum an der Place Barthelon. Eine kurze Fahrt bringt Sie zur imposanten Kathedrale, die einen majestätischen Auftakt für Ihren aktiven Tag bietet.\n\nRadeln Sie vor dem Mittagessen zum Rand des Plateaus, um den Jardin du Roc zu erkunden. Die Panoramablicke aus dem Garten bieten einen perfekten Übergang vor der Abfahrt ans Wasser.\n\nGleiten Sie hinunter zum Plan d'Eau d'Embrun, um die Atmosphäre am Seeufer zu genießen, und springen Sie vielleicht ins Wasser. Danach radeln Sie zum Minigolfplatz für eine kleine Partie.\n\nBeenden Sie Ihre Fahrt an den weiten Ufern des Lac de Serre-Ponçon. Das schimmernde türkisfarbene Wasser, eingerahmt von alpinen Gipfeln, bildet eine atemberaubende Kulisse für diesen Tag.",
+        "hu": "Kezdje kerékpáros túráját a történelmi központban, és szívja magába a friss reggeli levegőt a Place Barthelonon. Egy gyors utazás az impozáns katedrálishoz viszi, megadva az alaphangot aktív napjának.\n\nEbéd előtt kerékpározzon el a fennsík szélére, hogy felfedezze a Jardin du Roc-ot. A sziklaparti kertből nyíló panoráma tökéletes átmenetet biztosít, mielőtt elindulna lefelé a vízpart felé.\n\nGuruljon le a Plan d'Eau d'Embrun-hez, hogy elmerüljön a tóparti hangulatban, és talán ugorjon be egy úszásra. Ezután tekerjen át a minigolfpályára egy kis könnyed délutáni versenyre.\n\nFejezze be utazását a Serre-Ponçon tó hatalmas partjainál. Az alpesi csúcsok által keretezett csillogó türkizkék vizek lenyűgöző hátteret teremtenek a kétkeréken töltött gyönyörű nap zárásához.",
+        "ro": "Începeți călătoria cu bicicleta în centrul istoric, inspirând aerul proaspăt de dimineață în Piața Barthelon. O scurtă plimbare vă aduce la impunătoarea Catedrală, stabilind un ton măreț pentru ziua activă.\n\nÎnainte de prânz, pedalați până la marginea platoului pentru a explora Jardin du Roc. Priveliștea panoramică de pe stâncă oferă o tranziție perfectă înainte de a coborî spre malul apei.\n\nCoborâți la Plan d'Eau d'Embrun pentru a vă bucura de atmosfera lacului, poate chiar pentru a înota. Apoi, mergeți cu bicicleta spre terenul de minigolf pentru o competiție relaxantă de după-amiază.\n\nÎncheiați-vă plimbarea pe țărmurile întinse ale Lacului Serre-Ponçon. Apele turcoaz strălucitoare, încadrate de vârfurile alpine, creează un fundal uimitor pentru a încheia o zi frumoasă pe două roți.",
+        "en": "Kick off your cycling journey in the historic center, breathing in the fresh morning air at Place Barthelon. A swift ride brings you to the imposing Cathedral, setting a majestic tone for the rest of your active day.\n\nBefore lunch, cycle out to the edge of the plateau to explore Jardin du Roc. The panoramic views from the cliffside garden provide a perfect transition before heading downhill toward the waterfront.\n\nGlide down to the Plan d'Eau d'Embrun to soak in the lakeside ambiance, perhaps jumping in for a swim. Afterward, pedal over to the mini-golf course for some lighthearted afternoon competition.\n\nConclude your ride along the expansive shores of Lake Serre-Ponçon. The shimmering turquoise waters framed by alpine peaks create a stunning backdrop to end a beautiful day on two wheels."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:39",
+      "total_km": 19.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kathedrale Notre-Dame-du-Réal",
+            "hu": "Notre-Dame-du-Réal katedrális",
+            "ro": "Catedrala Notre-Dame-du-Réal",
+            "en": "Notre-Dame-du-Réal Cathedral"
+          },
+          "coords": [
+            6.495075,
+            44.562329
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die atemberaubende schwarz-weiße Marmorveranda dieses mittelalterlichen Meisterwerks und verpassen Sie nicht die Gelegenheit, die historische Orgel zu hören.",
+            "hu": "Csodálja meg e középkori remekmű lenyűgöző fekete-fehér márvány tornácát, és ne hagyja ki a lehetőséget, hogy meghallgassa a történelmi orgonát a késő délelőtti mise során.",
+            "ro": "Admirați superbul pridvor din marmură alb-negru al acestei capodopere medievale și nu ratați șansa de a asculta orga istorică cântând în timpul slujbei de dimineață.",
+            "en": "Marvel at the stunning black and white marble porch of this medieval masterpiece, and don't miss the chance to hear the historic organ playing during the late morning mass."
+          }
+        },
+        {
+          "name": {
+            "de": "Plan d'Eau d'Embrun",
+            "hu": "Plan d'Eau d'Embrun",
+            "ro": "Plan d'Eau d'Embrun",
+            "en": "Plan d'Eau d'Embrun"
+          },
+          "coords": [
+            6.473014,
+            44.548842
+          ],
+          "category": "natural",
+          "arrive_at": "10:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Genießen Sie ein erfrischendes Bad oder mieten Sie ein Paddleboard an diesem See, und kommen Sie vor dem Mittag, um sich einen guten Platz am grasbewachsenen Ufer zu sichern.",
+            "hu": "Élvezze a frissítő úszást vagy béreljen paddleboardot ebben az érintetlen tóban, és érkezzen dél előtt, hogy jó helyet biztosítson magának a füves parton az alpesi nap alatt.",
+            "ro": "Bucurați-vă de o baie revigorantă sau închiriați o placă cu vâsle în acest lac de agrement și ajungeți înainte de prânz pentru a vă asigura un loc bun pe malurile înierbate.",
+            "en": "Enjoy a refreshing swim or rent a paddleboard in this pristine recreational lake, and arrive before noon to secure a prime spot on the grassy banks under the warm Alpine sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de Serre-Ponçon",
+            "hu": "Serre-Ponçon tó",
+            "ro": "Lacul Serre-Ponçon",
+            "en": "Lake Serre-Ponçon"
+          },
+          "coords": [
+            6.448445,
+            44.573061
+          ],
+          "category": "natural",
+          "arrive_at": "11:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an einem der größten künstlichen Seen Europas, um das türkisfarbene Wasser zu bestaunen, und buchen Sie eine Bootstour, um die Bergkulisse zu genießen.",
+            "hu": "Fejezze be a napját Európa egyik legnagyobb mesterséges tavánál, hogy megcsodálja a türkizkék vizet, és foglaljon egy késő délutáni hajótúrát a hegyi háttér teljes élvezetéhez.",
+            "ro": "Încheiați-vă ziua la unul dintre cele mai mari lacuri artificiale din Europa pentru a admira apele turcoaz și rezervați un tur cu barca pentru a aprecia peisajul montan spectaculos.",
+            "en": "End your day at one of Europe's largest artificial lakes to marvel at the turquoise waters, and book a late afternoon boat tour to fully appreciate the dramatic mountain backdrop."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac Brun",
+            "hu": "Lac Brun",
+            "ro": "Lacul Brun",
+            "en": "Lac Brun"
+          },
+          "coords": [
+            6.426809,
+            44.602696
+          ],
+          "category": "natural",
+          "arrive_at": "13:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Erleben Sie die Ruhe dieses versteckten alpinen Juwels, umgeben von üppigen Wäldern, und bleiben Sie auf den markierten Wegen, um das raue Gelände leicht zu bewältigen.",
+            "hu": "Tapasztalja meg a buja erdőkkel körülvett, rejtett alpesi gyöngyszem nyugalmát, és maradjon a jelzett ösvényeken, hogy könnyedén navigálhasson a part menti zord terepen.",
+            "ro": "Experimentați liniștea acestei bijuterii alpine ascunse înconjurată de păduri luxuriante și rămâneți pe traseele marcate pentru a naviga ușor pe terenul accidentat de lângă țărm.",
+            "en": "Experience the tranquility of this hidden Alpine gem surrounded by lush forests, and stick to the marked trails to easily navigate the slightly rugged terrain around the shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de Siguret",
+            "hu": "Lac de Siguret",
+            "ro": "Lacul Siguret",
+            "en": "Lac de Siguret"
+          },
+          "coords": [
+            6.556915,
+            44.61412
+          ],
+          "category": "natural",
+          "arrive_at": "14:54",
+          "stay_min": 105,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 10.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige natürliche Schönheit dieses unberührten hochgelegenen Sees, während die Sonne untergeht, und bringen Sie eine warme Jacke für die kühle Bergluft mit.",
+            "hu": "Gyönyörködjön ennek az érintetlen, magasan fekvő tónak a nyugodt természeti szépségében naplementekor, és hozzon magával meleg kabátot, mivel a hegyi levegő estére lehűl.",
+            "ro": "Admirați frumusețea naturală senină a acestui lac de mare altitudine când soarele apune și aduceți o jachetă caldă, deoarece aerul de munte se răcește semnificativ seara.",
+            "en": "Take in the serene natural beauty of this pristine high-altitude lake as the sun begins to set, and bring a warm jacket since the mountain air cools down significantly by evening."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Roadtrip tief in der Geschichte verwurzelt in der prächtigen Kathedrale Notre-Dame-du-Réal. Hier Zeit zu verbringen, schafft eine kulturell reiche Basis für den heutigen Tag.\n\nFahren Sie für eine malerische Mittagspause zum Plan d'Eau d'Embrun. Das ruhige Wasser und die gut gepflegten Ufer machen es zu einem idealen Ort für ein gemütliches Mittagessen am Seeufer.\n\nSetzen Sie Ihre Reise zum riesigen Lac de Serre-Ponçon fort und finden Sie einen Aussichtspunkt. Später fahren Sie weiter, um den abgelegenen und ruhigen Lac Brun inmitten der Bäume zu entdecken.\n\nLassen Sie das Abenteuer des Tages am Lac de Siguret ausklingen, wenn der Abend naht. Die friedliche alpine Umgebung bietet einen ruhigen, atemberaubenden Moment zum Nachdenken.",
+        "hu": "Kezdje autós utazását a történelemben mélyen gyökerező csodálatos Notre-Dame-du-Réal katedrálisnál. Az itteni elidőzés kulturálisan gazdag alapot teremt, mielőtt elhagyná a várost a természet kedvéért.\n\nHajtson le a Plan d'Eau d'Embrun-hez egy festői déli pihenőre. A sima vizek és a jól karbantartott partok ideális megállóvá teszik a láb kinyújtóztatásához és a tóparti ebéd elfogyasztásához.\n\nFolytassa utazását a hatalmas Serre-Ponçon tóhoz, találva egy kilátópontot, hogy megcsodálja a mélykék árnyalatát. Később merészkedjen tovább, hogy felfedezze a fák között megbúvó elzárt Lac Brun-t.\n\nZárja a nap kalandját a Lac de Siguret-nél, ahogy közeledik az este. A békés alpesi környezet csendes, lélegzetelállító pillanatot kínál, hogy elgondolkodjon utazásán, mielőtt visszavezetne.",
+        "ro": "Începeți excursia cu mașina ancorat în istorie la magnifica Catedrală Notre-Dame-du-Réal. A petrece timp aici stabilește o bază culturală bogată înainte de a părăsi orașul pentru a explora natura.\n\nConduceți spre Plan d'Eau d'Embrun pentru o pauză pitorească la prânz. Apele liniștite și malurile bine întreținute îl fac o oprire ideală pentru a vă întinde picioarele și a savura prânzul la malul lacului.\n\nContinuați călătoria spre uriașul Lac Serre-Ponçon, găsind un punct de observație pentru apele sale albastre. Mai târziu, aventurați-vă mai departe pentru a descoperi izolatul și liniștitul Lac Brun.\n\nÎncheiați aventura la Lac de Siguret pe măsură ce se apropie seara. Cadrul alpin pașnic oferă un moment liniștit, care îți taie respirația, pentru a reflecta asupra călătoriei înainte de a conduce înapoi.",
+        "en": "Start your road trip deeply rooted in history at the magnificent Notre-Dame-du-Réal Cathedral. Taking your time here sets a culturally rich foundation before you leave the town limits for nature's playground.\n\nDrive down to the Plan d'Eau d'Embrun for a scenic midday break. The smooth waters and well-maintained shores make it an ideal stop to stretch your legs and enjoy a lakeside lunch.\n\nContinue your journey to the massive Lake Serre-Ponçon, finding a viewpoint to admire its deep blue hue. Later, venture further out to discover the secluded and tranquil Lac Brun nestled among the trees.\n\nWrap up the day's adventure at Lac de Siguret as the evening approaches. The peaceful alpine setting offers a quiet, breathtaking moment to reflect on your journey before driving back."
+      }
+    }
+  }
+}

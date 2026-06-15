@@ -1,0 +1,428 @@
+{
+  "city_id": "casteljaloux",
+  "anchor": {
+    "name": "Casteljaloux",
+    "coords": [
+      0.0881,
+      44.3144
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:14",
+      "total_km": 1.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Maison du Roy",
+            "hu": "Maison du Roy",
+            "ro": "Maison du Roy",
+            "en": "Maison du Roy"
+          },
+          "coords": [
+            0.08957,
+            44.3147
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Fachwerkarchitektur der Maison du Roy aus dem 16. Jahrhundert und holen Sie sich im örtlichen Tourismusbüro im Erdgeschoss einen Stadtplan.",
+            "hu": "Csodálja meg az egykori királyi rezidencia, a Maison du Roy 16. századi favázas építészetét, és térjen be a földszinten található turisztikai irodába ingyenes térképért.",
+            "ro": "Admirați arhitectura cu structură de lemn a Maison du Roy din secolul al XVI-lea, folosită de regalitate, și luați o hartă de la biroul de turism situat la parter.",
+            "en": "Admire the striking 16th-century half-timbered architecture of the Maison du Roy, once used by royalty, and remember to check the local tourist office inside for maps."
+          }
+        },
+        {
+          "name": {
+            "de": "Couvent des Cordeliers",
+            "hu": "Couvent des Cordeliers",
+            "ro": "Couvent des Cordeliers",
+            "en": "Couvent des Cordeliers"
+          },
+          "coords": [
+            0.090036,
+            44.314815
+          ],
+          "category": "monastic",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie die ruhigen Überreste dieses alten Franziskanerklosters, um die religiöse Geschichte der Stadt zu verstehen, aber betrachten Sie private Bereiche nur von außen.",
+            "hu": "Fedezze fel ennek az ősi ferences kolostornak a nyugodt maradványait a város vallási múltjának megismeréséhez, de tartsa tiszteletben a magánterületeket és kívülről fotózzon.",
+            "ro": "Explorați rămășițele senine ale acestei vechi mănăstiri franciscane pentru a înțelege istoria religioasă a orașului, dar respectați zonele private privind mai mult de afară.",
+            "en": "Explore the serene remnants of this ancient Franciscan convent to understand the town's religious history, but respect the private areas by viewing mainly from the exterior."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame",
+            "hu": "Notre-Dame Templom",
+            "ro": "Biserica Notre-Dame",
+            "en": "Église Notre-Dame"
+          },
+          "coords": [
+            0.090421,
+            44.313854
+          ],
+          "category": "religious",
+          "arrive_at": "11:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Betreten Sie diese wunderschöne Stiftskirche, um ihre beeindruckenden Buntglasfenster und Gewölbedecken zu bewundern, und planen Sie Ihren Besuch außerhalb der Messe.",
+            "hu": "Lépjen be ebbe a gyönyörű társaskáptalani templomba, hogy megcsodálja lenyűgöző ólomüveg ablakait és boltozatait, a fotózást pedig érdemes a misék idején kívülre időzíteni.",
+            "ro": "Pășiți în această biserică colegială pentru a vedea vitraliile și tavanele boltite, planificând vizita în afara orelor de slujbă pentru a putea fotografia în liniște.",
+            "en": "Step inside this beautiful collegiate church to view its impressive stained glass and vaulted ceilings, planning your visit outside of mass times for quiet photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Remparts de Casteljaloux",
+            "hu": "Casteljaloux Várfalai",
+            "ro": "Meterezele din Casteljaloux",
+            "en": "Remparts de Casteljaloux"
+          },
+          "coords": [
+            0.085463,
+            44.317495
+          ],
+          "category": "fortress",
+          "arrive_at": "12:03",
+          "stay_min": 15,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Verfolgen Sie die robusten Überreste der mittelalterlichen Befestigungsanlagen, die die Stadt einst schützten, und tragen Sie bequeme Schuhe für die unebenen historischen Wege.",
+            "hu": "Kövesse végig a várost egykor védelmező középkori erődítmények robusztus maradványait, és viseljen kényelmes cipőt az egyenetlen történelmi macskaköveken való sétához.",
+            "ro": "Urmăriți rămășițele robuste ale fortificațiilor medievale care păzeau cândva orașul și purtați încălțăminte comodă pentru a vă plimba pe potecile istorice inegale.",
+            "en": "Trace the robust remains of the medieval fortifications that once guarded the city from invaders, wearing comfortable shoes to walk along the uneven historical pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Thermes de Casteljaloux",
+            "hu": "Casteljaloux Termálfürdő",
+            "ro": "Băile Termale Casteljaloux",
+            "en": "Thermes de Casteljaloux"
+          },
+          "coords": [
+            0.086181,
+            44.311236
+          ],
+          "category": "recreational",
+          "arrive_at": "12:29",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie in den Thermalbädern, die für ihre heilenden Mineralien bekannt sind, bringen Sie ein eigenes Handtuch mit und buchen Sie Ihre Wasseranwendungen im Voraus.",
+            "hu": "Pihenjen a gyógyhatású ásványi anyagairól híres, megnyugtató termálfürdőben, ahová érdemes saját törölközőt vinni és a vizes kezeléseket jó előre lefoglalni az interneten.",
+            "ro": "Relaxați-vă în băile termale liniștitoare, renumite pentru proprietățile lor minerale vindecătoare, aducând un prosop propriu și rezervând sesiunea acvatică în avans.",
+            "en": "Relax in the soothing thermal baths renowned for their healing mineral properties, making sure to bring your own towel and book your aquatic session well in advance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihren Tag im historischen Herzen von Casteljaloux. Bewundern Sie das Fachwerk der Maison du Roy, bevor Sie das friedliche Couvent des Cordeliers und die Église Notre-Dame erkunden.\n\nMidday: Folgen Sie den Überresten der mittelalterlichen Stadtmauern und reflektieren Sie über die befestigte Vergangenheit der Stadt. Gönnen Sie sich ein herzhaftes gaskognisches Mittagessen.\n\nAfternoon: Lassen Sie das Stadtzentrum hinter sich und genießen Sie die Natur der Region. Ob Entspannung in den Thermalbädern oder am Ufer des Lac de Clarens, hier erwartet Sie pure Erholung.\n\nEvening: Beenden Sie Ihren Ausflug mit einem gemütlichen Spaziergang am Wasser, während die Sonne über den Kiefernwäldern untergeht. Genießen Sie ein entspanntes Abendessen mit regionalen Weinen.",
+        "hu": "Morning: Kezdje a napot Casteljaloux történelmi szívében. Csodálja meg a fagerendás Maison du Roy épületét, mielőtt felfedezné a békés Couvent des Cordeliers-t és a Notre-Dame templomot.\n\nMidday: Kövesse a középkori várfalak maradványait, és merüljön el a város erődített múltjában. Kényeztesse magát egy kiadós gascogne-i ebéddel a főtér közeli bisztrók egyikében.\n\nAfternoon: Hagyja maga mögött a városközpontot, és élvezze a régió természeti szépségeit. Akár a termálfürdőben pihen, akár a Lac de Clarens homokos partjait fedezi fel, nyugalom várja.\n\nEvening: Zárja a kirándulást egy kellemes vízparti sétával, miközben a nap lenyugszik a fenyvesek felett. Fogyasszon el egy nyugodt vacsorát helyi borokkal és regionális finomságokkal.",
+        "ro": "Morning: Începeți ziua în inima istorică a orașului Casteljaloux. Admirați Maison du Roy cu structura sa de lemn, înainte de a explora liniștitul Couvent des Cordeliers și Église Notre-Dame.\n\nMidday: Urmați rămășițele meterezelor medievale reflectând la trecutul fortificat. Răsfățați-vă cu un prânz gascon copios într-unul dintre bistrourile locale din apropierea pieței centrale.\n\nAfternoon: Lăsați centrul orașului în urmă și îmbrățișați frumusețea naturală a regiunii. Fie că vă relaxați în băile termale sau explorați malurile lacului Clarens, liniștea vă așteaptă.\n\nEvening: Încheiați excursia cu o plimbare pe malul apei în timp ce soarele apune peste pădurile de pini. Bucurați-vă de o cină relaxată, savurând vinuri locale și delicatese regionale.",
+        "en": "Morning: Start your day in the historic heart of Casteljaloux. Admire the half-timbered Maison du Roy before exploring the peaceful Couvent des Cordeliers and the striking Église Notre-Dame.\n\nMidday: Follow the remnants of the medieval ramparts as you reflect on the town's fortified past. Treat yourself to a hearty Gascon lunch in one of the local bistros near the town square.\n\nAfternoon: Leave the town center behind and embrace the natural beauty of the region. Whether relaxing in the famous thermal baths or exploring the sandy shores of Lac de Clarens, tranquility awaits.\n\nEvening: Conclude your excursion with a leisurely stroll by the water as the sun sets over the pine forests. Enjoy a relaxed dinner, savoring local wines and regional delicacies."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:06",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Maison du Roy",
+            "hu": "Maison du Roy",
+            "ro": "Maison du Roy",
+            "en": "Maison du Roy"
+          },
+          "coords": [
+            0.08957,
+            44.3147
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Fachwerkarchitektur der Maison du Roy aus dem 16. Jahrhundert und holen Sie sich im örtlichen Tourismusbüro im Erdgeschoss einen Stadtplan.",
+            "hu": "Csodálja meg az egykori királyi rezidencia, a Maison du Roy 16. századi favázas építészetét, és térjen be a földszinten található turisztikai irodába ingyenes térképért.",
+            "ro": "Admirați arhitectura cu structură de lemn a Maison du Roy din secolul al XVI-lea, folosită de regalitate, și luați o hartă de la biroul de turism situat la parter.",
+            "en": "Admire the striking 16th-century half-timbered architecture of the Maison du Roy, once used by royalty, and remember to check the local tourist office inside for maps."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame",
+            "hu": "Notre-Dame Templom",
+            "ro": "Biserica Notre-Dame",
+            "en": "Église Notre-Dame"
+          },
+          "coords": [
+            0.090421,
+            44.313854
+          ],
+          "category": "religious",
+          "arrive_at": "10:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betreten Sie diese wunderschöne Stiftskirche, um ihre beeindruckenden Buntglasfenster und Gewölbedecken zu bewundern, und planen Sie Ihren Besuch außerhalb der Messe.",
+            "hu": "Lépjen be ebbe a gyönyörű társaskáptalani templomba, hogy megcsodálja lenyűgöző ólomüveg ablakait és boltozatait, a fotózást pedig érdemes a misék idején kívülre időzíteni.",
+            "ro": "Pășiți în această biserică colegială pentru a vedea vitraliile și tavanele boltite, planificând vizita în afara orelor de slujbă pentru a putea fotografia în liniște.",
+            "en": "Step inside this beautiful collegiate church to view its impressive stained glass and vaulted ceilings, planning your visit outside of mass times for quiet photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Remparts de Casteljaloux",
+            "hu": "Casteljaloux Várfalai",
+            "ro": "Meterezele din Casteljaloux",
+            "en": "Remparts de Casteljaloux"
+          },
+          "coords": [
+            0.085463,
+            44.317495
+          ],
+          "category": "fortress",
+          "arrive_at": "11:14",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Verfolgen Sie die robusten Überreste der mittelalterlichen Befestigungsanlagen, die die Stadt einst schützten, und tragen Sie bequeme Schuhe für die unebenen historischen Wege.",
+            "hu": "Kövesse végig a várost egykor védelmező középkori erődítmények robusztus maradványait, és viseljen kényelmes cipőt az egyenetlen történelmi macskaköveken való sétához.",
+            "ro": "Urmăriți rămășițele robuste ale fortificațiilor medievale care păzeau cândva orașul și purtați încălțăminte comodă pentru a vă plimba pe potecile istorice inegale.",
+            "en": "Trace the robust remains of the medieval fortifications that once guarded the city from invaders, wearing comfortable shoes to walk along the uneven historical pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Thermes de Casteljaloux",
+            "hu": "Casteljaloux Termálfürdő",
+            "ro": "Băile Termale Casteljaloux",
+            "en": "Thermes de Casteljaloux"
+          },
+          "coords": [
+            0.086181,
+            44.311236
+          ],
+          "category": "recreational",
+          "arrive_at": "11:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie in den Thermalbädern, die für ihre heilenden Mineralien bekannt sind, bringen Sie ein eigenes Handtuch mit und buchen Sie Ihre Wasseranwendungen im Voraus.",
+            "hu": "Pihenjen a gyógyhatású ásványi anyagairól híres, megnyugtató termálfürdőben, ahová érdemes saját törölközőt vinni és a vizes kezeléseket jó előre lefoglalni az interneten.",
+            "ro": "Relaxați-vă în băile termale liniștitoare, renumite pentru proprietățile lor minerale vindecătoare, aducând un prosop propriu și rezervând sesiunea acvatică în avans.",
+            "en": "Relax in the soothing thermal baths renowned for their healing mineral properties, making sure to bring your own towel and book your aquatic session well in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de Clarens",
+            "hu": "Lac de Clarens",
+            "ro": "Lacul Clarens",
+            "en": "Lac de Clarens"
+          },
+          "coords": [
+            0.071068,
+            44.293029
+          ],
+          "category": "recreational",
+          "arrive_at": "13:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang oder ein erfrischendes Bad an diesem weitläufigen, von Kiefern gesäumten See, und kommen Sie im Sommer früh, um einen schattigen Platz zu ergattern.",
+            "hu": "Élvezze a békés sétát vagy a frissítő úszást ennél a kiterjedt, fenyvesekkel övezett tónál, nyáron pedig érkezzen korán, hogy jó árnyékos helyet találjon a homokos strandon.",
+            "ro": "Bucurați-vă de o plimbare sau o baie răcoroasă la acest lac vast înconjurat de pini, sosind devreme vara pentru a asigura un loc bun la umbră pe plaja cu nisip.",
+            "en": "Enjoy a peaceful stroll or a refreshing swim at this expansive pine-fringed lake, arriving early in the summer to secure a good shaded spot on the sandy beach."
+          }
+        },
+        {
+          "name": {
+            "de": "AquaFun' Park Clarens",
+            "hu": "AquaFun' Park Clarens",
+            "ro": "AquaFun' Park Clarens",
+            "en": "AquaFun' Park Clarens"
+          },
+          "coords": [
+            0.072615,
+            44.294642
+          ],
+          "category": "family",
+          "arrive_at": "14:21",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Stürzen Sie sich in aufregende Wasserabenteuer mit aufblasbaren Hindernisparcours auf dem See, ideal für Familien, die wasserfeste Sonnencreme mit hohem Lichtschutzfaktor einpacken.",
+            "hu": "Vesse bele magát az izgalmas vízi kalandokba a felfújható akadálypályákon, amely ideális választás a családoknak, ha nem felejtenek el vízálló naptejet hozni a meleg napokra.",
+            "ro": "Scufundați-vă în aventuri acvatice palpitante cu trasee cu obstacole gonflabile pe apă, ideal pentru familiile care nu uită să folosească o cremă de soare rezistentă la apă.",
+            "en": "Dive into thrilling aquatic adventures with inflatable obstacle courses on the water, ideal for families who remember to pack high-factor waterproof sunscreen."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihren Tag im historischen Herzen von Casteljaloux. Bewundern Sie das Fachwerk der Maison du Roy, bevor Sie das friedliche Couvent des Cordeliers und die Église Notre-Dame erkunden.\n\nMidday: Folgen Sie den Überresten der mittelalterlichen Stadtmauern und reflektieren Sie über die befestigte Vergangenheit der Stadt. Gönnen Sie sich ein herzhaftes gaskognisches Mittagessen.\n\nAfternoon: Lassen Sie das Stadtzentrum hinter sich und genießen Sie die Natur der Region. Ob Entspannung in den Thermalbädern oder am Ufer des Lac de Clarens, hier erwartet Sie pure Erholung.\n\nEvening: Beenden Sie Ihren Ausflug mit einem gemütlichen Spaziergang am Wasser, während die Sonne über den Kiefernwäldern untergeht. Genießen Sie ein entspanntes Abendessen mit regionalen Weinen.",
+        "hu": "Morning: Kezdje a napot Casteljaloux történelmi szívében. Csodálja meg a fagerendás Maison du Roy épületét, mielőtt felfedezné a békés Couvent des Cordeliers-t és a Notre-Dame templomot.\n\nMidday: Kövesse a középkori várfalak maradványait, és merüljön el a város erődített múltjában. Kényeztesse magát egy kiadós gascogne-i ebéddel a főtér közeli bisztrók egyikében.\n\nAfternoon: Hagyja maga mögött a városközpontot, és élvezze a régió természeti szépségeit. Akár a termálfürdőben pihen, akár a Lac de Clarens homokos partjait fedezi fel, nyugalom várja.\n\nEvening: Zárja a kirándulást egy kellemes vízparti sétával, miközben a nap lenyugszik a fenyvesek felett. Fogyasszon el egy nyugodt vacsorát helyi borokkal és regionális finomságokkal.",
+        "ro": "Morning: Începeți ziua în inima istorică a orașului Casteljaloux. Admirați Maison du Roy cu structura sa de lemn, înainte de a explora liniștitul Couvent des Cordeliers și Église Notre-Dame.\n\nMidday: Urmați rămășițele meterezelor medievale reflectând la trecutul fortificat. Răsfățați-vă cu un prânz gascon copios într-unul dintre bistrourile locale din apropierea pieței centrale.\n\nAfternoon: Lăsați centrul orașului în urmă și îmbrățișați frumusețea naturală a regiunii. Fie că vă relaxați în băile termale sau explorați malurile lacului Clarens, liniștea vă așteaptă.\n\nEvening: Încheiați excursia cu o plimbare pe malul apei în timp ce soarele apune peste pădurile de pini. Bucurați-vă de o cină relaxată, savurând vinuri locale și delicatese regionale.",
+        "en": "Morning: Start your day in the historic heart of Casteljaloux. Admire the half-timbered Maison du Roy before exploring the peaceful Couvent des Cordeliers and the striking Église Notre-Dame.\n\nMidday: Follow the remnants of the medieval ramparts as you reflect on the town's fortified past. Treat yourself to a hearty Gascon lunch in one of the local bistros near the town square.\n\nAfternoon: Leave the town center behind and embrace the natural beauty of the region. Whether relaxing in the famous thermal baths or exploring the sandy shores of Lac de Clarens, tranquility awaits.\n\nEvening: Conclude your excursion with a leisurely stroll by the water as the sun sets over the pine forests. Enjoy a relaxed dinner, savoring local wines and regional delicacies."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:24",
+      "total_km": 10.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Maison du Roy",
+            "hu": "Maison du Roy",
+            "ro": "Maison du Roy",
+            "en": "Maison du Roy"
+          },
+          "coords": [
+            0.08957,
+            44.3147
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Fachwerkarchitektur der Maison du Roy aus dem 16. Jahrhundert und holen Sie sich im örtlichen Tourismusbüro im Erdgeschoss einen Stadtplan.",
+            "hu": "Csodálja meg az egykori királyi rezidencia, a Maison du Roy 16. századi favázas építészetét, és térjen be a földszinten található turisztikai irodába ingyenes térképért.",
+            "ro": "Admirați arhitectura cu structură de lemn a Maison du Roy din secolul al XVI-lea, folosită de regalitate, și luați o hartă de la biroul de turism situat la parter.",
+            "en": "Admire the striking 16th-century half-timbered architecture of the Maison du Roy, once used by royalty, and remember to check the local tourist office inside for maps."
+          }
+        },
+        {
+          "name": {
+            "de": "Remparts de Casteljaloux",
+            "hu": "Casteljaloux Várfalai",
+            "ro": "Meterezele din Casteljaloux",
+            "en": "Remparts de Casteljaloux"
+          },
+          "coords": [
+            0.085463,
+            44.317495
+          ],
+          "category": "fortress",
+          "arrive_at": "10:32",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Verfolgen Sie die robusten Überreste der mittelalterlichen Befestigungsanlagen, die die Stadt einst schützten, und tragen Sie bequeme Schuhe für die unebenen historischen Wege.",
+            "hu": "Kövesse végig a várost egykor védelmező középkori erődítmények robusztus maradványait, és viseljen kényelmes cipőt az egyenetlen történelmi macskaköveken való sétához.",
+            "ro": "Urmăriți rămășițele robuste ale fortificațiilor medievale care păzeau cândva orașul și purtați încălțăminte comodă pentru a vă plimba pe potecile istorice inegale.",
+            "en": "Trace the robust remains of the medieval fortifications that once guarded the city from invaders, wearing comfortable shoes to walk along the uneven historical pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Thermes de Casteljaloux",
+            "hu": "Casteljaloux Termálfürdő",
+            "ro": "Băile Termale Casteljaloux",
+            "en": "Thermes de Casteljaloux"
+          },
+          "coords": [
+            0.086181,
+            44.311236
+          ],
+          "category": "recreational",
+          "arrive_at": "10:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie in den Thermalbädern, die für ihre heilenden Mineralien bekannt sind, bringen Sie ein eigenes Handtuch mit und buchen Sie Ihre Wasseranwendungen im Voraus.",
+            "hu": "Pihenjen a gyógyhatású ásványi anyagairól híres, megnyugtató termálfürdőben, ahová érdemes saját törölközőt vinni és a vizes kezeléseket jó előre lefoglalni az interneten.",
+            "ro": "Relaxați-vă în băile termale liniștitoare, renumite pentru proprietățile lor minerale vindecătoare, aducând un prosop propriu și rezervând sesiunea acvatică în avans.",
+            "en": "Relax in the soothing thermal baths renowned for their healing mineral properties, making sure to bring your own towel and book your aquatic session well in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Base de Loisirs du Lac de Clarens",
+            "hu": "Lac de Clarens Szabadidőpark",
+            "ro": "Parcul de Agrement Lac de Clarens",
+            "en": "Base de Loisirs du Lac de Clarens"
+          },
+          "coords": [
+            0.070749,
+            44.294392
+          ],
+          "category": "family",
+          "arrive_at": "12:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Nehmen Sie an Outdoor-Aktivitäten von Stand-Up-Paddling bis hin zu Hochseilgärten teil, und bringen Sie an aktiven Nachmittagen unbedingt ausreichend Trinkwasser mit.",
+            "hu": "Vegyen részt a szabadtéri tevékenységekben az evezéstől a lombkorona-kalandparkig ebben a szabadidőparkban, és hozzon magával bőséges ivóvizet az aktív délutánhoz.",
+            "ro": "Participați la activități în aer liber, de la paddleboard la trasee printre copaci, aducând cu voi multă apă potabilă pentru o după-amiază plină de energie.",
+            "en": "Engage in outdoor activities ranging from paddleboarding to treetop rope courses in this leisure park, bringing plenty of drinking water for an active afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Étang de la Pindérèse",
+            "hu": "Étang de la Pindérèse",
+            "ro": "Iazul Pindérèse",
+            "en": "Étang de la Pindérèse"
+          },
+          "coords": [
+            0.02302,
+            44.264656
+          ],
+          "category": "natural",
+          "arrive_at": "13:39",
+          "stay_min": 105,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie unberührte Natur und lokale Vogelarten an diesem ruhigen Wildnisteich, bringen Sie ein Fernglas und Insektenschutzmittel für die rustikalen Wege mit.",
+            "hu": "Fedezze fel az érintetlen természetet és a helyi madárvilágot ennél a nyugodt erdei tónál, ahová érdemes távcsövet és rovarriasztót is magával hoznia a túrázáshoz.",
+            "ro": "Descoperiți natura virgină și păsările locale la acest iaz liniștit, aducând binoclul și un spray împotriva insectelor pentru a vă bucura de traseele rustice din jur.",
+            "en": "Discover unspoiled nature and local birdlife at this tranquil wilderness pond, bringing binoculars and insect repellent to fully enjoy the rustic surrounding trails."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihren Tag im historischen Herzen von Casteljaloux. Bewundern Sie das Fachwerk der Maison du Roy, bevor Sie das friedliche Couvent des Cordeliers und die Église Notre-Dame erkunden.\n\nMidday: Folgen Sie den Überresten der mittelalterlichen Stadtmauern und reflektieren Sie über die befestigte Vergangenheit der Stadt. Gönnen Sie sich ein herzhaftes gaskognisches Mittagessen.\n\nAfternoon: Lassen Sie das Stadtzentrum hinter sich und genießen Sie die Natur der Region. Ob Entspannung in den Thermalbädern oder am Ufer des Lac de Clarens, hier erwartet Sie pure Erholung.\n\nEvening: Beenden Sie Ihren Ausflug mit einem gemütlichen Spaziergang am Wasser, während die Sonne über den Kiefernwäldern untergeht. Genießen Sie ein entspanntes Abendessen mit regionalen Weinen.",
+        "hu": "Morning: Kezdje a napot Casteljaloux történelmi szívében. Csodálja meg a fagerendás Maison du Roy épületét, mielőtt felfedezné a békés Couvent des Cordeliers-t és a Notre-Dame templomot.\n\nMidday: Kövesse a középkori várfalak maradványait, és merüljön el a város erődített múltjában. Kényeztesse magát egy kiadós gascogne-i ebéddel a főtér közeli bisztrók egyikében.\n\nAfternoon: Hagyja maga mögött a városközpontot, és élvezze a régió természeti szépségeit. Akár a termálfürdőben pihen, akár a Lac de Clarens homokos partjait fedezi fel, nyugalom várja.\n\nEvening: Zárja a kirándulást egy kellemes vízparti sétával, miközben a nap lenyugszik a fenyvesek felett. Fogyasszon el egy nyugodt vacsorát helyi borokkal és regionális finomságokkal.",
+        "ro": "Morning: Începeți ziua în inima istorică a orașului Casteljaloux. Admirați Maison du Roy cu structura sa de lemn, înainte de a explora liniștitul Couvent des Cordeliers și Église Notre-Dame.\n\nMidday: Urmați rămășițele meterezelor medievale reflectând la trecutul fortificat. Răsfățați-vă cu un prânz gascon copios într-unul dintre bistrourile locale din apropierea pieței centrale.\n\nAfternoon: Lăsați centrul orașului în urmă și îmbrățișați frumusețea naturală a regiunii. Fie că vă relaxați în băile termale sau explorați malurile lacului Clarens, liniștea vă așteaptă.\n\nEvening: Încheiați excursia cu o plimbare pe malul apei în timp ce soarele apune peste pădurile de pini. Bucurați-vă de o cină relaxată, savurând vinuri locale și delicatese regionale.",
+        "en": "Morning: Start your day in the historic heart of Casteljaloux. Admire the half-timbered Maison du Roy before exploring the peaceful Couvent des Cordeliers and the striking Église Notre-Dame.\n\nMidday: Follow the remnants of the medieval ramparts as you reflect on the town's fortified past. Treat yourself to a hearty Gascon lunch in one of the local bistros near the town square.\n\nAfternoon: Leave the town center behind and embrace the natural beauty of the region. Whether relaxing in the famous thermal baths or exploring the sandy shores of Lac de Clarens, tranquility awaits.\n\nEvening: Conclude your excursion with a leisurely stroll by the water as the sun sets over the pine forests. Enjoy a relaxed dinner, savoring local wines and regional delicacies."
+      }
+    }
+  }
+}

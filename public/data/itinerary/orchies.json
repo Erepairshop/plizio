@@ -1,0 +1,497 @@
+{
+  "city_id": "orchies",
+  "anchor": {
+    "name": "Orchies",
+    "coords": [
+      3.2442,
+      50.4747
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:06",
+      "total_km": 2.05,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Orchies",
+            "hu": "Orchies Vasútállomás",
+            "ro": "Gara Orchies",
+            "en": "Orchies Railway Station"
+          },
+          "coords": [
+            3.248629,
+            50.477371
+          ],
+          "category": "station",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Architektur dieses charmanten Bahnhofs und nutzen Sie die Schließfächer, bevor Sie losgehen.",
+            "hu": "Csodálja meg a bájos vasútállomás történelmi építészetét, és indulás előtt használja a praktikus csomagmegőrzőket.",
+            "ro": "Admirați arhitectura istorică a acestei gări fermecătoare și folosiți dulapurile de bagaje înainte de a explora.",
+            "en": "Admire the historic architecture of this charming railway station and use the convenient lockers before you start exploring."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame",
+            "hu": "Notre-Dame Templom",
+            "ro": "Biserica Notre-Dame",
+            "en": "Notre-Dame Church"
+          },
+          "coords": [
+            3.24432,
+            50.475538
+          ],
+          "category": "religious",
+          "arrive_at": "09:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Betrachten Sie die beeindruckenden Buntglasfenster dieser zentralen Kirche, aber prüfen Sie vorab die aktuellen Messezeiten.",
+            "hu": "Figyelje meg a központi templom lenyűgöző ólomüveg ablakait, de látogatás előtt érdemes ellenőrizni a misék időpontjait.",
+            "ro": "Observați vitraliile impresionante ale acestei biserici centrale, dar verificați programul slujbelor înainte de vizită.",
+            "en": "Observe the impressive stained glass windows of this central church, but be sure to check mass times before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Place du Général de Gaulle",
+            "hu": "General de Gaulle Tér",
+            "ro": "Piața General de Gaulle",
+            "en": "General de Gaulle Square"
+          },
+          "coords": [
+            3.241908,
+            50.474548
+          ],
+          "category": "civic",
+          "arrive_at": "10:13",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie das lebhafte Treiben auf diesem zentralen Platz und probieren Sie einen Kaffee im nahegelegenen Bistro.",
+            "hu": "Élvezze a nyüzsgő hangulatot ezen a központi téren, és kóstoljon meg egy kávét egy közeli, hangulatos bisztróban.",
+            "ro": "Bucurați-vă de atmosfera plină de viață din această piață centrală și savurați o cafea la un bistro din apropiere.",
+            "en": "Enjoy the lively atmosphere of this central square and take a moment to savor a coffee at a nearby cozy bistro."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour à diables",
+            "hu": "Tour à diables",
+            "ro": "Tour à diables",
+            "en": "Tour à diables"
+          },
+          "coords": [
+            3.239439,
+            50.473889
+          ],
+          "category": "historical",
+          "arrive_at": "10:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Legenden dieses historischen Turms am besten bei einer geführten Tour am Vormittag.",
+            "hu": "Fedezze fel a történelmi toronyhoz fűződő lenyűgöző legendákat, ideálisan egy délelőtti vezetett túra keretében.",
+            "ro": "Descoperiți legendele fascinante ale acestui turn istoric, ideal în cadrul unui tur ghidat organizat în timpul dimineții.",
+            "en": "Discover the fascinating legends surrounding this historic tower, ideally during a guided tour early in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Mühle (privat)",
+            "hu": "Öreg Malom (magán)",
+            "ro": "Vechea moară (privată)",
+            "en": "Old Mill (private)"
+          },
+          "coords": [
+            3.25416,
+            50.466631
+          ],
+          "category": "landmark",
+          "arrive_at": "12:21",
+          "stay_min": 45,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Werfen Sie einen Blick auf diese alte, private Mühle von der Straße aus und respektieren Sie dabei die Privatsphäre.",
+            "hu": "Vessen egy pillantást erre a régi, magántulajdonban lévő malomra az utcáról, miközben tiszteletben tartja a magánszférát.",
+            "ro": "Aruncați o privire la această veche moară privată de pe stradă, având grijă să respectați mereu intimitatea proprietarilor.",
+            "en": "Catch a glimpse of this old private mill from the street, always making sure to fully respect the owners' privacy."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag am charmanten Bahnhof und spazieren Sie ins Zentrum. Bewundern Sie die Église Notre-Dame und das Treiben auf dem General de Gaulle Square. Der historische Tour à diables bietet spannende Einblicke in die Vergangenheit. Beenden Sie die Tour am alten privaten Mühlengebäude im Süden.",
+        "hu": "Kezdje a napot a bájos vasútállomáson, majd sétáljon a központba. Csodálja meg az Église Notre-Dame-ot és a General de Gaulle tér nyüzsgését. A történelmi Tour à diables izgalmas bepillantást nyújt a múltba. Zárja sétáját a déli régi magánmalomnál.",
+        "ro": "Începeți ziua la gara fermecătoare și plimbați-vă spre centru. Admirați Église Notre-Dame și agitația din Piața General de Gaulle. Istoricul Tour à diables oferă o incursiune fascinantă în trecut. Încheiați turul la vechea moară privată din sud.",
+        "en": "Start your day at the charming railway station and stroll into the center. Admire the Église Notre-Dame and the lively General de Gaulle Square. The historic Tour à diables offers fascinating insights into the past. End your walking tour at the old private mill down south."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "13:10",
+      "total_km": 3.61,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bahnhof Orchies",
+            "hu": "Orchies Vasútállomás",
+            "ro": "Gara Orchies",
+            "en": "Orchies Railway Station"
+          },
+          "coords": [
+            3.248629,
+            50.477371
+          ],
+          "category": "station",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Architektur dieses charmanten Bahnhofs und nutzen Sie die Schließfächer, bevor Sie losgehen.",
+            "hu": "Csodálja meg a bájos vasútállomás történelmi építészetét, és indulás előtt használja a praktikus csomagmegőrzőket.",
+            "ro": "Admirați arhitectura istorică a acestei gări fermecătoare și folosiți dulapurile de bagaje înainte de a explora.",
+            "en": "Admire the historic architecture of this charming railway station and use the convenient lockers before you start exploring."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame",
+            "hu": "Notre-Dame Templom",
+            "ro": "Biserica Notre-Dame",
+            "en": "Notre-Dame Church"
+          },
+          "coords": [
+            3.24432,
+            50.475538
+          ],
+          "category": "religious",
+          "arrive_at": "09:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Betrachten Sie die beeindruckenden Buntglasfenster dieser zentralen Kirche, aber prüfen Sie vorab die aktuellen Messezeiten.",
+            "hu": "Figyelje meg a központi templom lenyűgöző ólomüveg ablakait, de látogatás előtt érdemes ellenőrizni a misék időpontjait.",
+            "ro": "Observați vitraliile impresionante ale acestei biserici centrale, dar verificați programul slujbelor înainte de vizită.",
+            "en": "Observe the impressive stained glass windows of this central church, but be sure to check mass times before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Place du Général de Gaulle",
+            "hu": "General de Gaulle Tér",
+            "ro": "Piața General de Gaulle",
+            "en": "General de Gaulle Square"
+          },
+          "coords": [
+            3.241908,
+            50.474548
+          ],
+          "category": "civic",
+          "arrive_at": "10:08",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie das lebhafte Treiben auf diesem zentralen Platz und probieren Sie einen Kaffee im nahegelegenen Bistro.",
+            "hu": "Élvezze a nyüzsgő hangulatot ezen a központi téren, és kóstoljon meg egy kávét egy közeli, hangulatos bisztróban.",
+            "ro": "Bucurați-vă de atmosfera plină de viață din această piață centrală și savurați o cafea la un bistro din apropiere.",
+            "en": "Enjoy the lively atmosphere of this central square and take a moment to savor a coffee at a nearby cozy bistro."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour à diables",
+            "hu": "Tour à diables",
+            "ro": "Tour à diables",
+            "en": "Tour à diables"
+          },
+          "coords": [
+            3.239439,
+            50.473889
+          ],
+          "category": "historical",
+          "arrive_at": "10:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Legenden dieses historischen Turms am besten bei einer geführten Tour am Vormittag.",
+            "hu": "Fedezze fel a történelmi toronyhoz fűződő lenyűgöző legendákat, ideálisan egy délelőtti vezetett túra keretében.",
+            "ro": "Descoperiți legendele fascinante ale acestui turn istoric, ideal în cadrul unui tur ghidat organizat în timpul dimineții.",
+            "en": "Discover the fascinating legends surrounding this historic tower, ideally during a guided tour early in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Mühle (privat)",
+            "hu": "Öreg Malom (magán)",
+            "ro": "Vechea moară (privată)",
+            "en": "Old Mill (private)"
+          },
+          "coords": [
+            3.25416,
+            50.466631
+          ],
+          "category": "landmark",
+          "arrive_at": "12:01",
+          "stay_min": 15,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Werfen Sie einen Blick auf diese alte, private Mühle von der Straße aus und respektieren Sie dabei die Privatsphäre.",
+            "hu": "Vessen egy pillantást erre a régi, magántulajdonban lévő malomra az utcáról, miközben tiszteletben tartja a magánszférát.",
+            "ro": "Aruncați o privire la această veche moară privată de pe stradă, având grijă să respectați mereu intimitatea proprietarilor.",
+            "en": "Catch a glimpse of this old private mill from the street, always making sure to fully respect the owners' privacy."
+          }
+        },
+        {
+          "name": {
+            "de": "Mühle Buret",
+            "hu": "Buret Malom",
+            "ro": "Moara Buret",
+            "en": "Moulin Buret"
+          },
+          "coords": [
+            3.270845,
+            50.457169
+          ],
+          "category": "landmark",
+          "arrive_at": "12:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.56,
+          "tip_5lang": {
+            "de": "Fotografieren Sie dieses malerische Wahrzeichen im weichen Nachmittagslicht für die besten und stimmungsvollsten Bilder.",
+            "hu": "Fényképezze le ezt a festői nevezetességet a lágy délutáni fényben, hogy a legszebb és leghangulatosabb képeket készítse.",
+            "ro": "Fotografiați acest punct de reper pitoresc în lumina blândă a după-amiezii pentru cele mai reușite și atmosferice imagini.",
+            "en": "Photograph this picturesque landmark in the soft afternoon light to capture the most beautiful and atmospheric images."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie vom Bahnhof zügig ins Herz von Orchies. Entdecken Sie sakrale Kunst in der Église Notre-Dame und genießen Sie eine Pause am Hauptplatz. Nach dem beeindruckenden Tour à diables führt die Route weiter in den ländlichen Süden zu den beiden historischen Mühlen.",
+        "hu": "Tekerjen a vasútállomástól Orchies szívébe. Fedezze fel az Église Notre-Dame szakrális művészetét, és pihenjen egyet a főtéren. A lenyűgöző Tour à diables után az útvonal a vidékies dél felé vezet a két történelmi malomhoz.",
+        "ro": "Bicicliți de la gară direct în inima orașului Orchies. Descoperiți arta sacră de la Église Notre-Dame și bucurați-vă de o pauză în piața principală. După impresionantul Tour à diables, traseul continuă spre sudul rural către cele două mori istorice.",
+        "en": "Cycle from the station straight into the heart of Orchies. Discover sacred art at the Église Notre-Dame and enjoy a break at the main square. After exploring the impressive Tour à diables, your route heads to the rural south to visit the two historic mills."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:04",
+      "total_km": 13.3,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Sainte-Berthe",
+            "hu": "Sainte-Berthe Templom",
+            "ro": "Biserica Sainte-Berthe",
+            "en": "Sainte-Berthe Church"
+          },
+          "coords": [
+            3.205234,
+            50.478437
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses ruhige Heiligtum etwas außerhalb des Zentrums und achten Sie auf die kunstvollen, historischen Details.",
+            "hu": "Látogasson el ebbe a csendes, központon kívüli szentélybe, és figyelje meg a művészi, történelmi részleteket.",
+            "ro": "Vizitați acest sanctuar liniștit situat puțin în afara centrului și acordați atenție detaliilor artistice istorice.",
+            "en": "Visit this quiet sanctuary situated slightly outside the center and pay close attention to the intricate historical details."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour à diables",
+            "hu": "Tour à diables",
+            "ro": "Tour à diables",
+            "en": "Tour à diables"
+          },
+          "coords": [
+            3.239439,
+            50.473889
+          ],
+          "category": "historical",
+          "arrive_at": "09:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Legenden dieses historischen Turms am besten bei einer geführten Tour am Vormittag.",
+            "hu": "Fedezze fel a történelmi toronyhoz fűződő lenyűgöző legendákat, ideálisan egy délelőtti vezetett túra keretében.",
+            "ro": "Descoperiți legendele fascinante ale acestui turn istoric, ideal în cadrul unui tur ghidat organizat în timpul dimineții.",
+            "en": "Discover the fascinating legends surrounding this historic tower, ideally during a guided tour early in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Place du Général de Gaulle",
+            "hu": "General de Gaulle Tér",
+            "ro": "Piața General de Gaulle",
+            "en": "General de Gaulle Square"
+          },
+          "coords": [
+            3.241908,
+            50.474548
+          ],
+          "category": "civic",
+          "arrive_at": "11:16",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie das lebhafte Treiben auf diesem zentralen Platz und probieren Sie einen Kaffee im nahegelegenen Bistro.",
+            "hu": "Élvezze a nyüzsgő hangulatot ezen a központi téren, és kóstoljon meg egy kávét egy közeli, hangulatos bisztróban.",
+            "ro": "Bucurați-vă de atmosfera plină de viață din această piață centrală și savurați o cafea la un bistro din apropiere.",
+            "en": "Enjoy the lively atmosphere of this central square and take a moment to savor a coffee at a nearby cozy bistro."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Notre-Dame",
+            "hu": "Notre-Dame Templom",
+            "ro": "Biserica Notre-Dame",
+            "en": "Notre-Dame Church"
+          },
+          "coords": [
+            3.24432,
+            50.475538
+          ],
+          "category": "religious",
+          "arrive_at": "11:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betrachten Sie die beeindruckenden Buntglasfenster dieser zentralen Kirche, aber prüfen Sie vorab die aktuellen Messezeiten.",
+            "hu": "Figyelje meg a központi templom lenyűgöző ólomüveg ablakait, de látogatás előtt érdemes ellenőrizni a misék időpontjait.",
+            "ro": "Observați vitraliile impresionante ale acestei biserici centrale, dar verificați programul slujbelor înainte de vizită.",
+            "en": "Observe the impressive stained glass windows of this central church, but be sure to check mass times before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Martin",
+            "hu": "Saint-Martin Templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            3.251021,
+            50.49814
+          ],
+          "category": "religious",
+          "arrive_at": "12:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Erforschen Sie die nördliche Kirche mit ihrer schlichten Eleganz und verbinden Sie den Besuch mit einem kleinen Spaziergang.",
+            "hu": "Fedezze fel az északi templom egyszerű eleganciáját, és kösse össze a látogatást egy kellemes, rövid sétával a környéken.",
+            "ro": "Explorați biserica nordică cu eleganța sa simplă și combinați vizita cu o scurtă și plăcută plimbare prin împrejurimi.",
+            "en": "Explore the northern church with its simple elegance and combine your visit with a pleasant, short stroll around the area."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Mühle (privat)",
+            "hu": "Öreg Malom (magán)",
+            "ro": "Vechea moară (privată)",
+            "en": "Old Mill (private)"
+          },
+          "coords": [
+            3.25416,
+            50.466631
+          ],
+          "category": "landmark",
+          "arrive_at": "13:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Werfen Sie einen Blick auf diese alte, private Mühle von der Straße aus und respektieren Sie dabei die Privatsphäre.",
+            "hu": "Vessen egy pillantást erre a régi, magántulajdonban lévő malomra az utcáról, miközben tiszteletben tartja a magánszférát.",
+            "ro": "Aruncați o privire la această veche moară privată de pe stradă, având grijă să respectați mereu intimitatea proprietarilor.",
+            "en": "Catch a glimpse of this old private mill from the street, always making sure to fully respect the owners' privacy."
+          }
+        },
+        {
+          "name": {
+            "de": "Mühle Buret",
+            "hu": "Buret Malom",
+            "ro": "Moara Buret",
+            "en": "Moulin Buret"
+          },
+          "coords": [
+            3.270845,
+            50.457169
+          ],
+          "category": "landmark",
+          "arrive_at": "13:33",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Fotografieren Sie dieses malerische Wahrzeichen im weichen Nachmittagslicht für die besten und stimmungsvollsten Bilder.",
+            "hu": "Fényképezze le ezt a festői nevezetességet a lágy délutáni fényben, hogy a legszebb és leghangulatosabb képeket készítse.",
+            "ro": "Fotografiați acest punct de reper pitoresc în lumina blândă a după-amiezii pentru cele mai reușite și atmosferice imagini.",
+            "en": "Photograph this picturesque landmark in the soft afternoon light to capture the most beautiful and atmospheric images."
+          }
+        },
+        {
+          "name": {
+            "de": "Mariä-Himmelfahrt-Kirche",
+            "hu": "Nagyboldogasszony Templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Notre-Dame-de-l'Assomption Church"
+          },
+          "coords": [
+            3.298475,
+            50.474768
+          ],
+          "category": "religious",
+          "arrive_at": "13:54",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihre Tour an dieser östlichen Kirche ab und bewundern Sie die friedliche Atmosphäre der ländlichen Umgebung.",
+            "hu": "Zárja túráját ennél a keleti templomnál, és csodálja meg a vidéki környezet békés, nyugodt hangulatát a nap végén.",
+            "ro": "Încheiați turul la această biserică estică și admirați atmosfera pașnică a împrejurimilor rurale la sfârșitul zilei.",
+            "en": "Conclude your tour at this eastern church and take time to admire the peaceful atmosphere of the rural surroundings."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine bequeme Autotour ermöglicht es, das gesamte Umland von Orchies zu erkunden. Starten Sie im Westen an der Église Sainte-Berthe, bevor Sie die zentralen Monumente wie den Tour à diables besuchen. Fahren Sie weiter zu den nördlichen und südlichen Sehenswürdigkeiten und enden Sie entspannt im Osten.",
+        "hu": "Egy kényelmes autós túra lehetővé teszi Orchies teljes környékének felfedezését. Kezdjen nyugaton az Église Sainte-Berthe-nél, majd látogassa meg a központi műemlékeket. Vezessen tovább az északi és déli látnivalókhoz, és zárja a napot lazán a keleti részen.",
+        "ro": "Un tur confortabil cu mașina vă permite să explorați toate împrejurimile orașului Orchies. Începeți în vest, la Église Sainte-Berthe, înainte de a vizita monumentele centrale. Continuați spre obiectivele nordice și sudice și încheiați relaxant în est.",
+        "en": "A comfortable driving tour allows you to explore the entire surroundings of Orchies. Start in the west at Église Sainte-Berthe before visiting central monuments like Tour à diables. Continue to the northern and southern sights, ending your day with a relaxing stop in the east."
+      }
+    }
+  }
+}

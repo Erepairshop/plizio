@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-mutxamel-cities-v2",
+  "anchor": {
+    "name": "Mutxamel",
+    "coords": [
+      -0.445223,
+      38.413684
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:43",
+      "total_km": 2.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Centro Polivalente",
+            "hu": "Centro Polivalente",
+            "ro": "Centro Polivalente",
+            "en": "Centro Polivalente"
+          },
+          "coords": [
+            -0.444751,
+            38.415512
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die modernen Ausstellungen in diesem vielseitigen Kulturzentrum der lokalen Kreativität, aber prüfen Sie vorab unbedingt den Veranstaltungsplan.",
+            "hu": "Fedezze fel a modern kiállításokat ebben a sokoldalú kulturális központban, amely a helyi kreativitás központja, de előzetesen ellenőrizze az eseménynaptárt.",
+            "ro": "Explorați expozițiile moderne de la acest centru cultural versatil, un nucleu al creativității locale, dar asigurați-vă că verificați programul în prealabil.",
+            "en": "Explore the modern exhibitions at this versatile cultural center, a hub of local creativity, but be sure to check the schedule beforehand for special events."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Ferraz",
+            "hu": "Torre Ferraz",
+            "ro": "Torre Ferraz",
+            "en": "Torre Ferraz"
+          },
+          "coords": [
+            -0.446375,
+            38.416237
+          ],
+          "category": "historical",
+          "arrive_at": "10:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die robuste Architektur dieses historischen Wehrturms gegen Piraten, und besuchen Sie ihn früh am Tag, um die besten Lichtverhältnisse zu genießen.",
+            "hu": "Csodálja meg a történelmi védőtorony robusztus építészetét, amely egykor a kalózoktól védett, és érkezzen korán, hogy a legjobb fényekben gyönyörködhessen.",
+            "ro": "Admirați arhitectura robustă a acestui turn de apărare istoric împotriva piraților și vizitați-l devreme pentru a vă bucura de cele mai bune condiții de lumină.",
+            "en": "Admire the robust architecture of this historic defense tower, which once protected against pirates, and visit early in the day to enjoy the best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de Cultura de Mutxamel",
+            "hu": "Casa de Cultura de Mutxamel",
+            "ro": "Casa de Cultura de Mutxamel",
+            "en": "Casa de Cultura de Mutxamel"
+          },
+          "coords": [
+            -0.441457,
+            38.417862
+          ],
+          "category": "cultural",
+          "arrive_at": "12:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem lebendigen Kulturhaus in die lokale Geschichte ein, ein Muss für Kulturliebhaber, und nehmen Sie sich Zeit für die Ausstellungen im Innenhof.",
+            "hu": "Merüljön el a helyi történelemben ebben a vibráló kultúrházban, amely elengedhetetlen az örökség kedvelőinek, és szánjon időt az udvari kiállítások megtekintésére.",
+            "ro": "Cufundați-vă în istoria locală la această casă de cultură vibrantă, o oprire esențială pentru pasionați, și alocați timp pentru a vizita expozițiile din curte.",
+            "en": "Immerse yourself in local history and arts at this vibrant cultural house, an essential stop for heritage lovers, and take time to browse the courtyard displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre d'Ansaldo",
+            "hu": "Torre d'Ansaldo",
+            "ro": "Torre d'Ansaldo",
+            "en": "Torre d'Ansaldo"
+          },
+          "coords": [
+            -0.434428,
+            38.41109
+          ],
+          "category": "tower",
+          "arrive_at": "14:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Anlage dieses gut erhaltenen Wachturmanwesens aus der Landwirtschaft, und tragen Sie bequeme Schuhe für das unebene Gelände.",
+            "hu": "Fedezze fel ennek a jól megőrzött őrtorony-birtoknak az elrendezését, amely a vidéki történelmet tükrözi, és viseljen kényelmes cipőt az egyenetlen terep miatt.",
+            "ro": "Descoperiți aspectul intrigant al acestui domeniu cu turn de veghe bine conservat, care reflectă istoria rurală, și purtați încălțăminte confortabilă pentru teren.",
+            "en": "Discover the intriguing layout of this well-preserved watchtower estate, reflecting centuries of rural history, and wear comfortable shoes for the uneven grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Salafranca",
+            "hu": "Torre Salafranca",
+            "ro": "Torre Salafranca",
+            "en": "Torre Salafranca"
+          },
+          "coords": [
+            -0.444661,
+            38.403268
+          ],
+          "category": "historical",
+          "arrive_at": "15:53",
+          "stay_min": 110,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise bei diesem bemerkenswerten historischen Turm inmitten malerischer Felder, der tolle Fotomotive bietet, also vergessen Sie Ihre Kamera nicht.",
+            "hu": "Lépjen vissza az időben ennél a festői mezőkön álló történelmi toronynál, amely nagyszerű fotózási lehetőségeket kínál, ezért ne felejtse el magával vinni a fényképezőgépét.",
+            "ro": "Întoarceți-vă în timp la acest remarcabil turn istoric situat printre câmpuri pitorești, care oferă oportunități excelente de fotografiere, așa că aduceți camera.",
+            "en": "Step back in time at this remarkable historical tower standing amid scenic fields, offering great photo opportunities, so remember to bring your camera along."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Wir beginnen unseren Rundgang im Zentrum von Mutxamel und erkunden das moderne Centro Polivalente, bevor wir an der Torre Ferraz in die Vergangenheit eintauchen.\nMittags: Gegen Mittag tauchen wir in der Casa de Cultura, dem wahren kulturellen Zentrum der Gemeinde, in die lokale Kunst und das kulturelle Erbe ein.\nNachmittags: Der Spaziergang führt uns in die Außenbezirke zur Torre d'Ansaldo, einem faszinierenden Wachturmanwesen, das Einblicke in die ländliche Geschichte bietet.\nAbends: Wir beenden unsere Fußgängerzone an der Torre Salafranca, wo die malerischen Felder eine friedliche Kulisse für den Ausklang des Tages bieten.",
+        "hu": "Délelőtt: Sétánkat Mutxamel szívében kezdjük a modern Centro Polivalente felfedezésével, majd a robusztus Torre Ferraznál visszalépünk az időben.\nDélben: A dél közeledtével elmerülünk a helyi művészetekben és örökségben a vibráló kultúrházban, amely az önkormányzat igazi kulturális központja.\nDélután: A séta a külváros felé folytatódik a Torre d'Ansaldo felfedezésével, amely egy lenyűgöző őrtorony-birtok, bepillantást engedve a vidéki történelembe.\nEste: Gyalogos utunkat a Torre Salafrancánál fejezzük be, ahol a festői mezők nyugodt és festői hátteret biztosítanak a nap végéhez.",
+        "ro": "Dimineața: Începem turul nostru pietonal în inima orașului Mutxamel, explorând modernul Centro Polivalente înainte de a face un pas înapoi în timp la robustul Torre Ferraz.\nLa prânz: Pe măsură ce se apropie amiaza, ne cufundăm în artele locale la vibranta Casă de Cultură, un adevărat centru cultural al municipalității.\nDupă-amiaza: Plimbarea continuă spre periferie pentru a descoperi Torre d'Ansaldo, un domeniu fascinant care oferă perspective asupra istoriei rurale.\nSeara: Încheiem călătoria noastră la Torre Salafranca, unde câmpurile pitorești oferă un fundal senin și pitoresc pe măsură ce ziua se încheie.",
+        "en": "Morning: We begin our walking tour in the heart of Mutxamel, exploring the modern Centro Polivalente before stepping back in time at the robust Torre Ferraz.\nMidday: As noon approaches, we immerse ourselves in local arts and heritage at the vibrant Casa de Cultura, a true cultural hub of the municipality.\nAfternoon: The walk continues towards the outskirts to discover Torre d'Ansaldo, a fascinating watchtower estate offering glimpses into rural history.\nEvening: We conclude our pedestrian journey at Torre Salafranca, where the scenic fields provide a serene and picturesque backdrop as the day winds down."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 5.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Assut del Campello",
+            "hu": "Assut del Campello",
+            "ro": "Assut del Campello",
+            "en": "Assut del Campello"
+          },
+          "coords": [
+            -0.436695,
+            38.431383
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen beeindruckenden historischen Staudamm, eine Meisterleistung für die Bewässerung, und gehen Sie vorsichtig auf den alten Steinpfaden.",
+            "hu": "Csodálja meg ezt a lenyűgöző történelmi gátat, amely a regionális öntözés kulcsfontosságú mérnöki alkotása, és sétáljon óvatosan a környező régi ösvényeken.",
+            "ro": "Minunați-vă de acest baraj istoric impresionant, o capodoperă inginerească crucială pentru irigații, și mergeți cu grijă pe cărările de piatră care îl înconjoară.",
+            "en": "Marvel at this impressive historical dam, an engineering feat crucial for regional irrigation, and walk carefully along the ancient stone paths surrounding it."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de Cultura de Mutxamel",
+            "hu": "Casa de Cultura de Mutxamel",
+            "ro": "Casa de Cultura de Mutxamel",
+            "en": "Casa de Cultura de Mutxamel"
+          },
+          "coords": [
+            -0.441457,
+            38.417862
+          ],
+          "category": "cultural",
+          "arrive_at": "10:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem lebendigen Kulturhaus in die lokale Geschichte ein, ein Muss für Kulturliebhaber, und nehmen Sie sich Zeit für die Ausstellungen im Innenhof.",
+            "hu": "Merüljön el a helyi történelemben ebben a vibráló kultúrházban, amely elengedhetetlen az örökség kedvelőinek, és szánjon időt az udvari kiállítások megtekintésére.",
+            "ro": "Cufundați-vă în istoria locală la această casă de cultură vibrantă, o oprire esențială pentru pasionați, și alocați timp pentru a vizita expozițiile din curte.",
+            "en": "Immerse yourself in local history and arts at this vibrant cultural house, an essential stop for heritage lovers, and take time to browse the courtyard displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre d'Ansaldo",
+            "hu": "Torre d'Ansaldo",
+            "ro": "Torre d'Ansaldo",
+            "en": "Torre d'Ansaldo"
+          },
+          "coords": [
+            -0.434428,
+            38.41109
+          ],
+          "category": "tower",
+          "arrive_at": "12:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Anlage dieses gut erhaltenen Wachturmanwesens aus der Landwirtschaft, und tragen Sie bequeme Schuhe für das unebene Gelände.",
+            "hu": "Fedezze fel ennek a jól megőrzött őrtorony-birtoknak az elrendezését, amely a vidéki történelmet tükrözi, és viseljen kényelmes cipőt az egyenetlen terep miatt.",
+            "ro": "Descoperiți aspectul intrigant al acestui domeniu cu turn de veghe bine conservat, care reflectă istoria rurală, și purtați încălțăminte confortabilă pentru teren.",
+            "en": "Discover the intriguing layout of this well-preserved watchtower estate, reflecting centuries of rural history, and wear comfortable shoes for the uneven grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Salafranca",
+            "hu": "Torre Salafranca",
+            "ro": "Torre Salafranca",
+            "en": "Torre Salafranca"
+          },
+          "coords": [
+            -0.444661,
+            38.403268
+          ],
+          "category": "historical",
+          "arrive_at": "13:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise bei diesem bemerkenswerten historischen Turm inmitten malerischer Felder, der tolle Fotomotive bietet, also vergessen Sie Ihre Kamera nicht.",
+            "hu": "Lépjen vissza az időben ennél a festői mezőkön álló történelmi toronynál, amely nagyszerű fotózási lehetőségeket kínál, ezért ne felejtse el magával vinni a fényképezőgépét.",
+            "ro": "Întoarceți-vă în timp la acest remarcabil turn istoric situat printre câmpuri pitorești, care oferă oportunități excelente de fotografiere, așa că aduceți camera.",
+            "en": "Step back in time at this remarkable historical tower standing amid scenic fields, offering great photo opportunities, so remember to bring your camera along."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita del Calvari",
+            "hu": "Ermita del Calvari",
+            "ro": "Ermita del Calvari",
+            "en": "Ermita del Calvari"
+          },
+          "coords": [
+            -0.44739,
+            38.402063
+          ],
+          "category": "religious",
+          "arrive_at": "15:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die ruhige Atmosphäre dieser bezaubernden religiösen Einsiedelei, die perfekt zur Besinnung ist, und besuchen Sie sie am späten Nachmittag.",
+            "hu": "Tapasztalja meg ennek a bájos vallási remeteségnek a nyugodt légkörét, amely tökéletes az elmélyülésre, és látogasson el ide késő délután a békés hangulatért.",
+            "ro": "Experimentați atmosfera senină a acestui schit religios fermecător, perfect pentru o reflecție liniștită, și vizitați-l la sfârșitul după-amiezii pentru pace.",
+            "en": "Experience the serene atmosphere of this charming religious hermitage, perfect for quiet reflection, and visit during late afternoon for a peaceful ambiance."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Les Paulines",
+            "hu": "Torre Les Paulines",
+            "ro": "Torre Les Paulines",
+            "en": "Torre Les Paulines"
+          },
+          "coords": [
+            -0.459499,
+            38.39749
+          ],
+          "category": "historical",
+          "arrive_at": "15:59",
+          "stay_min": 110,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise an dieser majestätischen historischen Stätte mit atemberaubenden architektonischen Details und prüfen Sie die Zeit für den Sonnenuntergang.",
+            "hu": "Zárja utazását ezen a fenséges történelmi helyszínen, amely lenyűgöző építészeti részletekkel büszkélkedhet, és ellenőrizze a naplemente idejét a varázslatos befejezéshez.",
+            "ro": "Încheiați-vă călătoria la acest sit istoric maiestuos, care se mândrește cu detalii arhitecturale uimitoare, și verificați ora apusului pentru un final magic.",
+            "en": "Conclude your trip at this majestic historical site, boasting stunning architectural details, and check the sunset time to enjoy a magical end to your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Beginnen Sie Ihr Radabenteuer mit einer Fahrt zum beeindruckenden Assut del Campello, bevor Sie in Richtung Stadtzentrum weiterfahren.\nMittags: Radeln Sie zurück, um die Atmosphäre der Casa de Cultura zu genießen, gefolgt von einer kurzen Fahrt zur historischen Torre d'Ansaldo.\nNachmittags: Die Radroute führt durch landwirtschaftliche Landschaften zur Torre Salafranca und bietet einen Moment der Ruhe in der Ermita del Calvari.\nAbends: Beenden Sie Ihre dynamische Radtour an der majestätischen Torre Les Paulines und genießen Sie das schwindende Licht über der historischen Architektur.",
+        "hu": "Délelőtt: Kezdje kerékpáros kalandját a lenyűgöző Assut del Campello felé tartva, és csodálja meg ezt az ősi mérnöki alkotást, mielőtt a városba indulna.\nDélben: Tekerjen vissza a központba, hogy magába szívja a kultúrház nyüzsgő légkörét, majd egy gyors utazással látogasson el a történelmi Torre d'Ansaldohoz.\nDélután: A kerékpáros útvonal mezőgazdasági tájakon keresztül vezet a Torre Salafranca felé, majd a nyugalom pillanatát kínálja az Ermita del Calvarinál.\nEste: Fejezze be dinamikus kerékpártúráját a fenséges Torre Les Paulines-nél, élvezve a lenyűgöző történelmi építészet felett halványuló fényt.",
+        "ro": "Dimineața: Începeți aventura pe bicicletă îndreptându-vă spre impresionantul Assut del Campello, admirând această capodoperă înainte de a merge în oraș.\nLa prânz: Pedați înapoi spre centru pentru a vă bucura de atmosfera vibrantă de la Casa de Cultură, urmată de o scurtă plimbare la istoricul Torre d'Ansaldo.\nDupă-amiaza: Traseul pe bicicletă șerpuiește prin peisaje agricole spre Torre Salafranca, oferind apoi un moment de liniște la Ermita del Calvari.\nSeara: Încheiați turul dinamic cu bicicleta la maiestuosul Torre Les Paulines, bucurându-vă de lumina slabă a serii peste arhitectura sa uimitoare.",
+        "en": "Morning: Kick off your cycling adventure by riding out to the impressive Assut del Campello, marveling at this ancient engineering feat before heading into town.\nMidday: Pedal back to the center to soak in the vibrant atmosphere of the Casa de Cultura, followed by a quick ride to the historic Torre d'Ansaldo.\nAfternoon: The cycling route weaves through agricultural landscapes towards Torre Salafranca, then offers a moment of quiet reflection at Ermita del Calvari.\nEvening: End your dynamic bike tour at the majestic Torre Les Paulines, enjoying the fading light over its stunning historical architecture."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:08",
+      "total_km": 7.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Assut del Campello",
+            "hu": "Assut del Campello",
+            "ro": "Assut del Campello",
+            "en": "Assut del Campello"
+          },
+          "coords": [
+            -0.436695,
+            38.431383
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen beeindruckenden historischen Staudamm, eine Meisterleistung für die Bewässerung, und gehen Sie vorsichtig auf den alten Steinpfaden.",
+            "hu": "Csodálja meg ezt a lenyűgöző történelmi gátat, amely a regionális öntözés kulcsfontosságú mérnöki alkotása, és sétáljon óvatosan a környező régi ösvényeken.",
+            "ro": "Minunați-vă de acest baraj istoric impresionant, o capodoperă inginerească crucială pentru irigații, și mergeți cu grijă pe cărările de piatră care îl înconjoară.",
+            "en": "Marvel at this impressive historical dam, an engineering feat crucial for regional irrigation, and walk carefully along the ancient stone paths surrounding it."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Polivalente",
+            "hu": "Centro Polivalente",
+            "ro": "Centro Polivalente",
+            "en": "Centro Polivalente"
+          },
+          "coords": [
+            -0.444751,
+            38.415512
+          ],
+          "category": "cultural",
+          "arrive_at": "10:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die modernen Ausstellungen in diesem vielseitigen Kulturzentrum der lokalen Kreativität, aber prüfen Sie vorab unbedingt den Veranstaltungsplan.",
+            "hu": "Fedezze fel a modern kiállításokat ebben a sokoldalú kulturális központban, amely a helyi kreativitás központja, de előzetesen ellenőrizze az eseménynaptárt.",
+            "ro": "Explorați expozițiile moderne de la acest centru cultural versatil, un nucleu al creativității locale, dar asigurați-vă că verificați programul în prealabil.",
+            "en": "Explore the modern exhibitions at this versatile cultural center, a hub of local creativity, but be sure to check the schedule beforehand for special events."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Ferraz",
+            "hu": "Torre Ferraz",
+            "ro": "Torre Ferraz",
+            "en": "Torre Ferraz"
+          },
+          "coords": [
+            -0.446375,
+            38.416237
+          ],
+          "category": "historical",
+          "arrive_at": "12:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die robuste Architektur dieses historischen Wehrturms gegen Piraten, und besuchen Sie ihn früh am Tag, um die besten Lichtverhältnisse zu genießen.",
+            "hu": "Csodálja meg a történelmi védőtorony robusztus építészetét, amely egykor a kalózoktól védett, és érkezzen korán, hogy a legjobb fényekben gyönyörködhessen.",
+            "ro": "Admirați arhitectura robustă a acestui turn de apărare istoric împotriva piraților și vizitați-l devreme pentru a vă bucura de cele mai bune condiții de lumină.",
+            "en": "Admire the robust architecture of this historic defense tower, which once protected against pirates, and visit early in the day to enjoy the best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre d'Ansaldo",
+            "hu": "Torre d'Ansaldo",
+            "ro": "Torre d'Ansaldo",
+            "en": "Torre d'Ansaldo"
+          },
+          "coords": [
+            -0.434428,
+            38.41109
+          ],
+          "category": "tower",
+          "arrive_at": "13:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Anlage dieses gut erhaltenen Wachturmanwesens aus der Landwirtschaft, und tragen Sie bequeme Schuhe für das unebene Gelände.",
+            "hu": "Fedezze fel ennek a jól megőrzött őrtorony-birtoknak az elrendezését, amely a vidéki történelmet tükrözi, és viseljen kényelmes cipőt az egyenetlen terep miatt.",
+            "ro": "Descoperiți aspectul intrigant al acestui domeniu cu turn de veghe bine conservat, care reflectă istoria rurală, și purtați încălțăminte confortabilă pentru teren.",
+            "en": "Discover the intriguing layout of this well-preserved watchtower estate, reflecting centuries of rural history, and wear comfortable shoes for the uneven grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Samstagsmarkt (Mercadillo)",
+            "hu": "Szombati piac (Mercadillo)",
+            "ro": "Piața de sâmbătă (Mercadillo)",
+            "en": "Saturday Market (Mercadillo)"
+          },
+          "coords": [
+            -0.433119,
+            38.399792
+          ],
+          "category": "landmark",
+          "arrive_at": "15:03",
+          "stay_min": 50,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die Stände dieses traditionellen Samstagsmarktes, wo Sie lokales Handwerk kaufen können, aber kommen Sie früh, um das Beste zu sichern.",
+            "hu": "Sétáljon végig a hagyományos szombati piac nyüzsgő standjain, amely tökéletes hely a helyi kézműves termékek vásárlására, de érkezzen korán a legfrissebb árukért.",
+            "ro": "Plimbați-vă printre tarabele pline de viață ale pieței tradiționale de sâmbătă, un loc perfect pentru meșteșuguri, dar ajungeți devreme pentru cele mai proaspete produse.",
+            "en": "Wander through the bustling stalls of this traditional Saturday market, a perfect place to buy local crafts, but arrive early to secure the freshest produce."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Bonanza",
+            "hu": "Torre Bonanza",
+            "ro": "Torre Bonanza",
+            "en": "Torre Bonanza"
+          },
+          "coords": [
+            -0.443034,
+            38.399993
+          ],
+          "category": "tower",
+          "arrive_at": "15:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wehrhafte Pracht dieses alten Turms, ein Zeugnis der turbulenten Vergangenheit, und schauen Sie sich das Mauerwerk genau an, um Spuren zu finden.",
+            "hu": "Csodálja meg ennek az ősi toronynak a védelmi pompáját, amely a régió viharos múltjának bizonyítéka, és vizsgálja meg a kőfalakat a történelmi jelzésekért.",
+            "ro": "Admirați grandoarea defensivă a acestui turn antic, o mărturie a trecutului turbulent, și priviți cu atenție zidăria pentru a observa marcajele istorice.",
+            "en": "Admire the defensive grandeur of this ancient tower, a testament to the region's turbulent past, and look closely at the stonework to spot historical markings."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Les Paulines",
+            "hu": "Torre Les Paulines",
+            "ro": "Torre Les Paulines",
+            "en": "Torre Les Paulines"
+          },
+          "coords": [
+            -0.459499,
+            38.39749
+          ],
+          "category": "historical",
+          "arrive_at": "17:18",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise an dieser majestätischen historischen Stätte mit atemberaubenden architektonischen Details und prüfen Sie die Zeit für den Sonnenuntergang.",
+            "hu": "Zárja utazását ezen a fenséges történelmi helyszínen, amely lenyűgöző építészeti részletekkel büszkélkedhet, és ellenőrizze a naplemente idejét a varázslatos befejezéshez.",
+            "ro": "Încheiați-vă călătoria la acest sit istoric maiestuos, care se mândrește cu detalii arhitecturale uimitoare, și verificați ora apusului pentru un final magic.",
+            "en": "Conclude your trip at this majestic historical site, boasting stunning architectural details, and check the sunset time to enjoy a magical end to your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Starten Sie Ihre Fahrt am historischen Staudamm Assut del Campello und fahren Sie dann ins Zentrum, um das Centro Polivalente und die Torre Ferraz zu besuchen.\nMittags: Fahren Sie bequem zur Torre d'Ansaldo, um das Anwesen zu erkunden, gefolgt von einem lebhaften Halt auf dem samstäglichen Markt.\nNachmittags: Setzen Sie Ihren Roadtrip zur imposanten Torre Bonanza fort, einem bedeutenden Wehrturm, der als stolzes Zeugnis der Vergangenheit dient.\nAbends: Die Autotour endet an der herrlichen Torre Les Paulines, die perfekt gelegen ist, um einen malerischen und entspannten Abschluss zu bieten.",
+        "hu": "Délelőtt: Kezdje útját a történelmi Assut del Campello gátnál, majd hajtson be a városközpontba a Centro Polivalente és a közeli Torre Ferraz meglátogatásához.\nDélben: Vezessen kényelmesen a Torre d'Ansaldohoz a birtok felfedezéséhez, majd álljon meg a nyüzsgő szombati piacon a helyi ízekért.\nDélután: Folytassa útját az impozáns Torre Bonanzához, amely a régió múltjának büszke bizonyítékaként álló jelentős védőtorony.\nEste: Az autós túra a csodálatos Torre Les Paulines-nél zárul, amely tökéletes helyen fekszik ahhoz, hogy festői és pihentető lezárást kínáljon.",
+        "ro": "Dimineața: Începeți călătoria cu mașina la barajul istoric Assut del Campello, apoi mergeți spre centrul orașului pentru a vizita Centro Polivalente și Torre Ferraz.\nLa prânz: Conduceți confortabil până la Torre d'Ansaldo pentru a explora domeniul, urmat de o oprire plină de viață la piața tradițională de sâmbătă.\nDupă-amiaza: Continuați călătoria către impunătorul Torre Bonanza, un turn de apărare semnificativ care stă drept mărturie mândră a trecutului regiunii.\nSeara: Turul cu mașina se încheie la magnificul Torre Les Paulines, perfect situat pentru a oferi o concluzie pitorească și relaxantă a itinerariului de astăzi.",
+        "en": "Morning: Start your drive at the historic Assut del Campello dam, then cruise into the town center to visit the Centro Polivalente and nearby Torre Ferraz.\nMidday: Drive comfortably to Torre d'Ansaldo to explore the estate, followed by a lively stop at the bustling Saturday Market for local flavors and crafts.\nAfternoon: Continue your road trip to the imposing Torre Bonanza, a significant defense tower that stands as a proud testament to the region's past.\nEvening: The driving tour wraps up at the magnificent Torre Les Paulines, perfectly situated to offer a picturesque and relaxing conclusion to the day's itinerary."
+      }
+    }
+  }
+}

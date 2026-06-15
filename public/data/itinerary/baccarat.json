@@ -1,0 +1,428 @@
+{
+  "city_id": "baccarat",
+  "anchor": {
+    "name": "Baccarat",
+    "coords": [
+      6.7381,
+      48.4486
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:58",
+      "total_km": 0.86,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Hôtel de Ville de Baccarat",
+            "hu": "Hôtel de Ville de Baccarat",
+            "ro": "Hôtel de Ville de Baccarat",
+            "en": "Hôtel de Ville de Baccarat"
+          },
+          "coords": [
+            6.737949,
+            48.449082
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Fassade des Rathauses, die den bürgerlichen Stolz von Baccarat perfekt einfängt, und machen Sie ein schnelles Foto der eleganten Architektur, bevor Sie die lokalen Hinweise lesen.",
+            "hu": "Csodálja meg a városháza lenyűgöző homlokzatát, amely tökéletesen tükrözi Baccarat polgári büszkeségét, és készítsen egy gyors fotót az elegáns építészetről, mielőtt elolvassa a helyi hirdetményeket a bejáratnál.",
+            "ro": "Admirați fațada impresionantă a primăriei, care surprinde perfect mândria civică din Baccarat, și faceți o fotografie rapidă a arhitecturii sale elegante înainte de a verifica avizele locale la intrare.",
+            "en": "Admire the impressive facade of the town hall, which perfectly captures the civic pride of Baccarat, and take a quick photo of its elegant architecture before checking the local notices at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Rémy",
+            "hu": "Église Saint-Rémy",
+            "ro": "Église Saint-Rémy",
+            "en": "Église Saint-Rémy"
+          },
+          "coords": [
+            6.738816,
+            48.448186
+          ],
+          "category": "religious",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die spektakulären Buntglasfenster dieser modernen Kirche, die das Innere in ein magisches Licht tauchen, und besuchen Sie sie an einem sonnigen Morgen, um die lebendigen Reflexionen im Kirchenschiff zu erleben.",
+            "hu": "Csodálja meg ennek a modern templomnak a látványos ólomüveg ablakait, amelyek varázslatos fényben fürdetik a belső teret, és próbáljon meg egy napsütéses reggelen ellátogatni ide, hogy átélje a hajóban táncoló élénk tükröződéseket.",
+            "ro": "Minunați-vă de vitraliile spectaculoase ale acestei biserici moderne care scaldă interiorul într-o lumină magică și încercați să o vizitați într-o dimineață însorită pentru a experimenta reflexiile vii din naos.",
+            "en": "Marvel at the spectacular stained glass windows of this modern church that bathe the interior in magical light, and try to visit on a sunny morning to experience the vivid reflections across the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Baccarat",
+            "hu": "Musée Baccarat",
+            "ro": "Musée Baccarat",
+            "en": "Musée Baccarat"
+          },
+          "coords": [
+            6.74111,
+            48.4492
+          ],
+          "category": "museum",
+          "arrive_at": "10:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte der Kristallherstellung durch exquisite historische Stücke in diesem Hauptmuseum und vergessen Sie nicht, im Souvenirladen nach kleinen, erschwinglichen Andenken für zu Hause zu suchen.",
+            "hu": "Fedezze fel a kristálykészítés lenyűgöző történetét ezen a fő múzeum kiváló történelmi darabjain keresztül, és ne felejtsen el benézni az ajándékboltba, hogy kisebb, megfizethető ajándéktárgyakat vigyen haza.",
+            "ro": "Explorați istoria fascinantă a fabricării cristalului prin piese istorice rafinate în acest muzeu principal și nu uitați să verificați magazinul de suveniruri pentru amintiri mai mici, la prețuri accesibile, pe care să le luați acasă.",
+            "en": "Explore the fascinating history of crystal making through exquisite historical pieces in this primary museum, and remember to check the gift shop for smaller, affordable souvenirs to take home."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Baccarat Collection",
+            "hu": "Musée Baccarat Collection",
+            "ro": "Musée Baccarat Collection",
+            "en": "Musée Baccarat Collection"
+          },
+          "coords": [
+            6.74008,
+            48.448178
+          ],
+          "category": "museum",
+          "arrive_at": "12:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Tauchen Sie mit dieser atemberaubenden Sammlung renommierter Kristallwerke tiefer in die Kunstfertigkeit der Marke ein und verwenden Sie vorsichtig die Taschenlampe Ihres Telefons, um die komplexen Schliffe auf den Glasoberflächen hervorzuheben.",
+            "hu": "Merüljön el mélyebben a márka művészetében ezzel a tekintélyes kristályműveket bemutató lenyűgöző gyűjteménnyel, és óvatosan használja telefonja zseblámpáját, hogy kiemelje az üvegfelületek bonyolult vágásait.",
+            "ro": "Pătrundeți mai adânc în măiestria mărcii cu această colecție uimitoare de lucrări de cristal de prestigiu și folosiți cu precauție lanterna telefonului pentru a evidenția tăieturile complicate de pe suprafețele de sticlă.",
+            "en": "Dive deeper into the artistry of the brand with this stunning collection of prestigious crystal works, and use your phone's flashlight cautiously to highlight the intricate cuts on the glass surfaces."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Rémy de Deneuvre",
+            "hu": "Église Saint-Rémy de Deneuvre",
+            "ro": "Église Saint-Rémy de Deneuvre",
+            "en": "Église Saint-Rémy de Deneuvre"
+          },
+          "coords": [
+            6.734846,
+            48.446798
+          ],
+          "category": "religious",
+          "arrive_at": "13:48",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.41,
+          "tip_5lang": {
+            "de": "Betreten Sie diese friedliche historische Kirche, um ihre ruhige Atmosphäre und die bezaubernden architektonischen Details zu genießen, und achten Sie darauf, leise aufzutreten, da dies ein stiller Ort der lokalen Andacht ist.",
+            "hu": "Lépjen be ebbe a békés történelmi templomba, hogy értékelje annak nyugodt légkörét és bájos építészeti részleteit, és ügyeljen arra, hogy halkan lépkedjen, mivel ez a folyamatos helyi istentiszteletek csendes helyszíne.",
+            "ro": "Intrați în această biserică istorică pașnică pentru a aprecia atmosfera sa liniștită și detaliile arhitecturale fermecătoare, asigurându-vă că pășiți încet, deoarece acesta este un loc liniștit de închinare locală continuă.",
+            "en": "Step inside this peaceful historic church to appreciate its tranquil atmosphere and charming architectural details, making sure to step softly as this is a quiet place of ongoing local worship."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am Hôtel de Ville, bevor Sie das magische Licht der Église Saint-Rémy bewundern. Der Mittag ist dem weltberühmten Kristallerbe von Baccarat im Hauptmuseum gewidmet. Verbringen Sie den Nachmittag damit, weitere exquisite Werke im Museum der Sammlung zu bestaunen. Schließen Sie Ihren Abend mit einem Spaziergang zur historischen Église Saint-Rémy de Deneuvre ab.",
+        "hu": "Kezdje a reggelt a városházánál, majd lépjen be az Église Saint-Rémy varázslatos fényébe. A délidőt Baccarat világhírű kristályörökségének szenteljük a fő múzeumban. A délutánt a Gyűjtemény múzeum további lenyűgöző alkotásainak megcsodálásával töltheti. Zárja az estét egy békés sétával a történelmi Église Saint-Rémy de Deneuvre felé.",
+        "ro": "Începeți dimineața la Hôtel de Ville înainte de a păși în lumina magică de la Église Saint-Rémy. Prânzul este dedicat faimoasei moșteniri a cristalului Baccarat la muzeul principal. Petreceți după-amiaza admirând mai multe lucrări rafinate la muzeul Colecției. Încheiați seara cu o plimbare liniștită către istorica Église Saint-Rémy de Deneuvre.",
+        "en": "Start your morning exploring the central civic pride at the Hôtel de Ville before stepping into the magical light of Église Saint-Rémy. Midday is dedicated to Baccarat's world-famous crystal heritage at the main museum. Spend the afternoon marveling at more exquisite works in the Collection museum. Conclude your evening with a peaceful stroll to the historic Église Saint-Rémy de Deneuvre."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:14",
+      "total_km": 1.52,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Hôtel de Ville de Baccarat",
+            "hu": "Hôtel de Ville de Baccarat",
+            "ro": "Hôtel de Ville de Baccarat",
+            "en": "Hôtel de Ville de Baccarat"
+          },
+          "coords": [
+            6.737949,
+            48.449082
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Fassade des Rathauses, die den bürgerlichen Stolz von Baccarat perfekt einfängt, und machen Sie ein schnelles Foto der eleganten Architektur, bevor Sie die lokalen Hinweise lesen.",
+            "hu": "Csodálja meg a városháza lenyűgöző homlokzatát, amely tökéletesen tükrözi Baccarat polgári büszkeségét, és készítsen egy gyors fotót az elegáns építészetről, mielőtt elolvassa a helyi hirdetményeket a bejáratnál.",
+            "ro": "Admirați fațada impresionantă a primăriei, care surprinde perfect mândria civică din Baccarat, și faceți o fotografie rapidă a arhitecturii sale elegante înainte de a verifica avizele locale la intrare.",
+            "en": "Admire the impressive facade of the town hall, which perfectly captures the civic pride of Baccarat, and take a quick photo of its elegant architecture before checking the local notices at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Baccarat",
+            "hu": "Musée Baccarat",
+            "ro": "Musée Baccarat",
+            "en": "Musée Baccarat"
+          },
+          "coords": [
+            6.74111,
+            48.4492
+          ],
+          "category": "museum",
+          "arrive_at": "09:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte der Kristallherstellung durch exquisite historische Stücke in diesem Hauptmuseum und vergessen Sie nicht, im Souvenirladen nach kleinen, erschwinglichen Andenken für zu Hause zu suchen.",
+            "hu": "Fedezze fel a kristálykészítés lenyűgöző történetét ezen a fő múzeum kiváló történelmi darabjain keresztül, és ne felejtsen el benézni az ajándékboltba, hogy kisebb, megfizethető ajándéktárgyakat vigyen haza.",
+            "ro": "Explorați istoria fascinantă a fabricării cristalului prin piese istorice rafinate în acest muzeu principal și nu uitați să verificați magazinul de suveniruri pentru amintiri mai mici, la prețuri accesibile, pe care să le luați acasă.",
+            "en": "Explore the fascinating history of crystal making through exquisite historical pieces in this primary museum, and remember to check the gift shop for smaller, affordable souvenirs to take home."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Baccarat Collection",
+            "hu": "Musée Baccarat Collection",
+            "ro": "Musée Baccarat Collection",
+            "en": "Musée Baccarat Collection"
+          },
+          "coords": [
+            6.74008,
+            48.448178
+          ],
+          "category": "museum",
+          "arrive_at": "11:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Tauchen Sie mit dieser atemberaubenden Sammlung renommierter Kristallwerke tiefer in die Kunstfertigkeit der Marke ein und verwenden Sie vorsichtig die Taschenlampe Ihres Telefons, um die komplexen Schliffe auf den Glasoberflächen hervorzuheben.",
+            "hu": "Merüljön el mélyebben a márka művészetében ezzel a tekintélyes kristályműveket bemutató lenyűgöző gyűjteménnyel, és óvatosan használja telefonja zseblámpáját, hogy kiemelje az üvegfelületek bonyolult vágásait.",
+            "ro": "Pătrundeți mai adânc în măiestria mărcii cu această colecție uimitoare de lucrări de cristal de prestigiu și folosiți cu precauție lanterna telefonului pentru a evidenția tăieturile complicate de pe suprafețele de sticlă.",
+            "en": "Dive deeper into the artistry of the brand with this stunning collection of prestigious crystal works, and use your phone's flashlight cautiously to highlight the intricate cuts on the glass surfaces."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Rémy de Deneuvre",
+            "hu": "Église Saint-Rémy de Deneuvre",
+            "ro": "Église Saint-Rémy de Deneuvre",
+            "en": "Église Saint-Rémy de Deneuvre"
+          },
+          "coords": [
+            6.734846,
+            48.446798
+          ],
+          "category": "religious",
+          "arrive_at": "13:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.41,
+          "tip_5lang": {
+            "de": "Betreten Sie diese friedliche historische Kirche, um ihre ruhige Atmosphäre und die bezaubernden architektonischen Details zu genießen, und achten Sie darauf, leise aufzutreten, da dies ein stiller Ort der lokalen Andacht ist.",
+            "hu": "Lépjen be ebbe a békés történelmi templomba, hogy értékelje annak nyugodt légkörét és bájos építészeti részleteit, és ügyeljen arra, hogy halkan lépkedjen, mivel ez a folyamatos helyi istentiszteletek csendes helyszíne.",
+            "ro": "Intrați în această biserică istorică pașnică pentru a aprecia atmosfera sa liniștită și detaliile arhitecturale fermecătoare, asigurându-vă că pășiți încet, deoarece acesta este un loc liniștit de închinare locală continuă.",
+            "en": "Step inside this peaceful historic church to appreciate its tranquil atmosphere and charming architectural details, making sure to step softly as this is a quiet place of ongoing local worship."
+          }
+        },
+        {
+          "name": {
+            "de": "Site archéologique du sanctuaire antique du Premier Silorit",
+            "hu": "Site archéologique du sanctuaire antique du Premier Silorit",
+            "ro": "Site archéologique du sanctuaire antique du Premier Silorit",
+            "en": "Site archéologique du sanctuaire antique du Premier Silorit"
+          },
+          "coords": [
+            6.733904,
+            48.442248
+          ],
+          "category": "historical",
+          "arrive_at": "13:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die faszinierenden antiken Ruinen dieses archäologischen Heiligtums, die die tiefen historischen Wurzeln der Region offenbaren, und tragen Sie festes Schuhwerk, da das Gelände um die Ausgrabungen sehr uneben sein kann.",
+            "hu": "Sétáljon e régészeti szentély lenyűgöző ősi romjai között, amelyek feltárják a régió mély történelmi gyökereit, és viseljen masszív sétálócipőt, mivel az ásatások körüli terep meglehetősen egyenetlen lehet.",
+            "ro": "Plimbați-vă printre ruinele antice fascinante ale acestui sanctuar arheologic care dezvăluie rădăcinile istorice profunde ale regiunii și purtați încălțăminte de mers robustă, deoarece terenul din jurul săpăturilor poate fi destul de accidentat.",
+            "en": "Wander among the fascinating ancient ruins of this archaeological sanctuary that reveal the region's deep historical roots, and wear sturdy walking shoes as the terrain around the excavations can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Collégiale Sainte-Geneviève",
+            "hu": "Collégiale Sainte-Geneviève",
+            "ro": "Collégiale Sainte-Geneviève",
+            "en": "Collégiale Sainte-Geneviève"
+          },
+          "coords": [
+            6.736259,
+            48.441598
+          ],
+          "category": "religious",
+          "arrive_at": "15:04",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Entdecken Sie die majestätische Architektur und das reiche Erbe dieser Stiftskirche und nehmen Sie sich einen Moment Zeit, um ruhig in den Bänken zu sitzen und die spirituelle Atmosphäre vor der Weiterreise voll in sich aufzunehmen.",
+            "hu": "Fedezze fel ennek a kollégiumi templomnak a fenséges építészetét és gazdag örökségét, és szánjon egy percet arra, hogy csendben üljön a padokban, hogy teljesen magába szívja a spirituális hangulatot az utazás folytatása előtt.",
+            "ro": "Descoperiți arhitectura maiestuoasă și moștenirea bogată a acestei biserici colegiale, luându-vă un moment pentru a sta liniștit în bănci și a absorbi complet ambianța spirituală înainte de a vă continua călătoria.",
+            "en": "Discover the majestic architecture and rich heritage of this collegiate church, taking a moment to sit quietly in the pews to fully absorb the spiritual ambiance before continuing your journey."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour am Rathaus und fahren Sie dann zum faszinierenden Musée Baccarat. Mittags geht es weiter zum Sammlungsmuseum für tiefere Einblicke. Der Nachmittag führt Sie in den Süden zu den antiken Ruinen des Heiligtums Premier Silorit. Beenden Sie den Tag mit einer ruhigen Fahrt zur atemberaubenden Collégiale Sainte-Geneviève im Sonnenuntergang.",
+        "hu": "Kezdje kerékpártúráját a városházánál, majd tekerjen át a Musée Baccarat-ba. Délben folytassa a Gyűjtemény múzeumával a mélyebb ismeretekért. A délután délre viszi az ősi Premier Silorit szentély romjaihoz. Zárja a napot egy nyugodt kerékpározással a lenyűgöző Collégiale Sainte-Geneviève felé naplementekor.",
+        "ro": "Începeți turul cu bicicleta la primărie, apoi pedalați spre fascinantul Musée Baccarat. La prânz, continuați spre muzeul Colecției pentru perspective mai profunde. După-amiaza vă duce în sud la ruinele antice ale sanctuarului Premier Silorit. Încheiați ziua cu o plimbare calmă către superba Collégiale Sainte-Geneviève la apus.",
+        "en": "Kick off your cycling tour at the town hall, then ride over to the fascinating Musée Baccarat for a morning of glass art. At noon, continue to the Collection museum for deeper insights. The afternoon takes you south to the ancient ruins of the Premier Silorit sanctuary. Wrap up your day with a calm ride to the stunning Collégiale Sainte-Geneviève as the sun begins to set."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:35",
+      "total_km": 3.43,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Hôtel de Ville de Baccarat",
+            "hu": "Hôtel de Ville de Baccarat",
+            "ro": "Hôtel de Ville de Baccarat",
+            "en": "Hôtel de Ville de Baccarat"
+          },
+          "coords": [
+            6.737949,
+            48.449082
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Fassade des Rathauses, die den bürgerlichen Stolz von Baccarat perfekt einfängt, und machen Sie ein schnelles Foto der eleganten Architektur, bevor Sie die lokalen Hinweise lesen.",
+            "hu": "Csodálja meg a városháza lenyűgöző homlokzatát, amely tökéletesen tükrözi Baccarat polgári büszkeségét, és készítsen egy gyors fotót az elegáns építészetről, mielőtt elolvassa a helyi hirdetményeket a bejáratnál.",
+            "ro": "Admirați fațada impresionantă a primăriei, care surprinde perfect mândria civică din Baccarat, și faceți o fotografie rapidă a arhitecturii sale elegante înainte de a verifica avizele locale la intrare.",
+            "en": "Admire the impressive facade of the town hall, which perfectly captures the civic pride of Baccarat, and take a quick photo of its elegant architecture before checking the local notices at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Baccarat",
+            "hu": "Musée Baccarat",
+            "ro": "Musée Baccarat",
+            "en": "Musée Baccarat"
+          },
+          "coords": [
+            6.74111,
+            48.4492
+          ],
+          "category": "museum",
+          "arrive_at": "09:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte der Kristallherstellung durch exquisite historische Stücke in diesem Hauptmuseum und vergessen Sie nicht, im Souvenirladen nach kleinen, erschwinglichen Andenken für zu Hause zu suchen.",
+            "hu": "Fedezze fel a kristálykészítés lenyűgöző történetét ezen a fő múzeum kiváló történelmi darabjain keresztül, és ne felejtsen el benézni az ajándékboltba, hogy kisebb, megfizethető ajándéktárgyakat vigyen haza.",
+            "ro": "Explorați istoria fascinantă a fabricării cristalului prin piese istorice rafinate în acest muzeu principal și nu uitați să verificați magazinul de suveniruri pentru amintiri mai mici, la prețuri accesibile, pe care să le luați acasă.",
+            "en": "Explore the fascinating history of crystal making through exquisite historical pieces in this primary museum, and remember to check the gift shop for smaller, affordable souvenirs to take home."
+          }
+        },
+        {
+          "name": {
+            "de": "Site archéologique du sanctuaire antique du Premier Silorit",
+            "hu": "Site archéologique du sanctuaire antique du Premier Silorit",
+            "ro": "Site archéologique du sanctuaire antique du Premier Silorit",
+            "en": "Site archéologique du sanctuaire antique du Premier Silorit"
+          },
+          "coords": [
+            6.733904,
+            48.442248
+          ],
+          "category": "historical",
+          "arrive_at": "11:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die faszinierenden antiken Ruinen dieses archäologischen Heiligtums, die die tiefen historischen Wurzeln der Region offenbaren, und tragen Sie festes Schuhwerk, da das Gelände um die Ausgrabungen sehr uneben sein kann.",
+            "hu": "Sétáljon e régészeti szentély lenyűgöző ősi romjai között, amelyek feltárják a régió mély történelmi gyökereit, és viseljen masszív sétálócipőt, mivel az ásatások körüli terep meglehetősen egyenetlen lehet.",
+            "ro": "Plimbați-vă printre ruinele antice fascinante ale acestui sanctuar arheologic care dezvăluie rădăcinile istorice profunde ale regiunii și purtați încălțăminte de mers robustă, deoarece terenul din jurul săpăturilor poate fi destul de accidentat.",
+            "en": "Wander among the fascinating ancient ruins of this archaeological sanctuary that reveal the region's deep historical roots, and wear sturdy walking shoes as the terrain around the excavations can be quite uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Collégiale Sainte-Geneviève",
+            "hu": "Collégiale Sainte-Geneviève",
+            "ro": "Collégiale Sainte-Geneviève",
+            "en": "Collégiale Sainte-Geneviève"
+          },
+          "coords": [
+            6.736259,
+            48.441598
+          ],
+          "category": "religious",
+          "arrive_at": "12:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Entdecken Sie die majestätische Architektur und das reiche Erbe dieser Stiftskirche und nehmen Sie sich einen Moment Zeit, um ruhig in den Bänken zu sitzen und die spirituelle Atmosphäre vor der Weiterreise voll in sich aufzunehmen.",
+            "hu": "Fedezze fel ennek a kollégiumi templomnak a fenséges építészetét és gazdag örökségét, és szánjon egy percet arra, hogy csendben üljön a padokban, hogy teljesen magába szívja a spirituális hangulatot az utazás folytatása előtt.",
+            "ro": "Descoperiți arhitectura maiestuoasă și moștenirea bogată a acestei biserici colegiale, luându-vă un moment pentru a sta liniștit în bănci și a absorbi complet ambianța spirituală înainte de a vă continua călătoria.",
+            "en": "Discover the majestic architecture and rich heritage of this collegiate church, taking a moment to sit quietly in the pews to fully absorb the spiritual ambiance before continuing your journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Joseph",
+            "hu": "Église Saint-Joseph",
+            "ro": "Église Saint-Joseph",
+            "en": "Église Saint-Joseph"
+          },
+          "coords": [
+            6.71331,
+            48.450484
+          ],
+          "category": "religious",
+          "arrive_at": "13:25",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.95,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses etwas versteckte religiöse Juwel, um ein abgeschiedeneres und intimeres historisches Erlebnis zu genießen, und prüfen Sie die Anschlagtafel draußen nach gelegentlichen Gemeindeereignissen oder Chorauftritten, die möglicherweise geplant sind.",
+            "hu": "Látogasson el erre a kissé eldugott vallási gyöngyszemre, hogy egy elszigeteltebb és intimebb történelmi élményben legyen része, és ellenőrizze a kinti hirdetőtáblát az esetlegesen betervezett közösségi eseményekről vagy kóruselőadásokról.",
+            "ro": "Vizitați această bijuterie religioasă oarecum ascunsă pentru a vă bucura de o experiență istorică mai retrasă și mai intimă și verificați avizierul din afară pentru evenimentele comunitare ocazionale sau spectacolele corale care ar putea fi programate.",
+            "en": "Visit this somewhat hidden religious gem to enjoy a more secluded and intimate historical experience, and check the notice board outside for occasional community events or choir performances that might be scheduled."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Fahrtag am Hôtel de Ville und parken Sie nahe dem spektakulären Musée Baccarat. Mittags fahren Sie nach Süden, um die antike Geschichte im archäologischen Heiligtum zu entdecken. Verbringen Sie den Nachmittag damit, die großartige Architektur der Collégiale Sainte-Geneviève zu bewundern. Fahren Sie für einen ruhigen Abend zur Église Saint-Joseph.",
+        "hu": "Kezdje az autós napot a központi Városházánál, majd parkoljon le a lenyűgöző Musée Baccarat közelében. Délben vezessen délre, hogy felfedezze az ősi történelmet a régészeti szentélynél. Töltse a délutánt a Collégiale Sainte-Geneviève lenyűgöző építészetének csodálatával. Vezessen ki az eldugott Église Saint-Joseph-hez egy csendes estéért.",
+        "ro": "Începeți ziua de condus la Hôtel de Ville, apoi parcați aproape de spectaculosul Musée Baccarat. La prânz, conduceți spre sud pentru a descoperi istoria antică la sanctuarul arheologic. Petreceți după-amiaza admirând arhitectura grandioasă a Collégiale Sainte-Geneviève. Conduceți la izolată Église Saint-Joseph pentru o seară liniștită.",
+        "en": "Begin your driving day at the central Hôtel de Ville, then easily park near the spectacular Musée Baccarat to marvel at crystal artistry. By midday, drive south to uncover the ancient history at the archaeological sanctuary. Spend your afternoon admiring the grand architecture of Collégiale Sainte-Geneviève. Drive out to the secluded Église Saint-Joseph for a quiet, reflective evening."
+      }
+    }
+  }
+}

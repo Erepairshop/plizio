@@ -1,0 +1,520 @@
+{
+  "city_id": "turkey-sedd-el-bahr-cities-v2",
+  "anchor": {
+    "name": "Sedd el Bahr",
+    "coords": [
+      26.18892,
+      40.04467
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:42",
+      "total_km": 3.05,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "1915 Seddülbahir Ahmet Uslu Museum",
+            "hu": "1915 Seddülbahir Ahmet Uslu Múzeum",
+            "ro": "Muzeul 1915 Seddülbahir Ahmet Uslu",
+            "en": "1915 Seddülbahir Ahmet Uslu Museum"
+          },
+          "coords": [
+            26.18864,
+            40.04548
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Dieses Museum zeigt persönliche Artefakte aus dem Gallipoli-Krieg; besuchen Sie es früh, um den Besuchergruppen zu entgehen und die Exponate in Ruhe zu betrachten.",
+            "hu": "A múzeum a gallipoli csata személyes tárgyait mutatja be; érkezzen korán, hogy elkerülje a csoportokat és nyugodtan megnézhesse a ritka kiállítási tárgyakat.",
+            "ro": "Muzeul expune artefacte personale din Războiul Gallipoli; vizitați-l devreme pentru a evita grupurile și a vedea liniștit aceste relicve istorice emoționante.",
+            "en": "This museum displays personal artifacts from the Gallipoli War; visit early to avoid the tour groups and quietly take in the deeply moving historical exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Seddülbahir",
+            "hu": "Seddülbahir-erőd",
+            "ro": "Fortăreața Seddülbahir",
+            "en": "Seddülbahir Castle"
+          },
+          "coords": [
+            26.187565,
+            40.042316
+          ],
+          "category": "castle",
+          "arrive_at": "10:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Die Festung war der erste Verteidigungspunkt der Dardanellen; tragen Sie festes Schuhwerk, da die historischen Wege zwischen den Mauern uneben und steinig sind.",
+            "hu": "Az erőd volt a Dardanellák első védelmi vonala; viseljen kényelmes, zárt cipőt, mivel a történelmi falak közötti ösvények meglehetősen egyenetlenek és kövesek.",
+            "ro": "Această fortăreață a fost prima linie de apărare a strâmtorii; purtați încălțăminte solidă, deoarece potecile dintre vechile ziduri sunt denivelate și pietroase.",
+            "en": "This historic castle was the first line of defense for the Dardanelles; wear sturdy walking shoes as the paths among the ruined walls are uneven and quite stony."
+          }
+        },
+        {
+          "name": {
+            "de": "Denkmal der ersten Märtyrer",
+            "hu": "Első Mártírok Emlékműve",
+            "ro": "Monumentul Primilor Martiri",
+            "en": "First Martyrs' Monument"
+          },
+          "coords": [
+            26.188838,
+            40.042369
+          ],
+          "category": "landmark",
+          "arrive_at": "12:17",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Dieses Denkmal ehrt die ersten Opfer der Schlachten; legen Sie eine kurze Schweigeminute ein und achten Sie auf die Inschriften, die die tapferen Taten würdigen.",
+            "hu": "Ez az emlékmű az ütközetek első áldozatai előtt tiszteleg; töltsön el itt egy néma percet, és figyelje meg a hősies tetteket megörökítő részletes feliratokat.",
+            "ro": "Acest monument onorează primele victime ale luptelor; păstrați un moment de reculegere și observați inscripțiile care comemorează actele incredibile de curaj.",
+            "en": "This monument honors the very first casualties of the battles; pause for a moment of silence and observe the inscriptions commemorating their brave sacrifices."
+          }
+        },
+        {
+          "name": {
+            "de": "V Beach",
+            "hu": "V Beach",
+            "ro": "Plaja V",
+            "en": "V Beach"
+          },
+          "coords": [
+            26.183953,
+            40.044048
+          ],
+          "category": "landmark",
+          "arrive_at": "12:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Dieser Strand war Schauplatz einer blutigen Landung; nehmen Sie sich Zeit für die Gedenktafeln und packen Sie eine Wasserflasche für den sonnigen Spaziergang ein.",
+            "hu": "Ez a part egy véres partraszállás helyszíne volt; szánjon időt az emléktáblákra, és hozzon magával vizet a napos, árnyék nélküli tengerparti sétához a parton.",
+            "ro": "Această plajă a fost locul unei debarcări sângeroase; acordați timp plăcilor comemorative și luați cu dumneavoastră o sticlă cu apă pentru plimbarea însorită.",
+            "en": "This beach was the dramatic site of a bloody landing; take time to read the memorial plaques and bring a water bottle for your sunny, unshaded coastal stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm am Kap Helles",
+            "hu": "Helles-foki világítótorony",
+            "ro": "Farul Cape Helles",
+            "en": "Cape Helles Lighthouse"
+          },
+          "coords": [
+            26.17453,
+            40.044119
+          ],
+          "category": "landmark",
+          "arrive_at": "14:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Der Leuchtturm markiert die strategische Spitze der Halbinsel; bringen Sie eine Kamera für die fantastische Aussicht mit, aber achten Sie auf den starken Wind.",
+            "hu": "A világítótorony a félsziget stratégiai csücskét jelöli; hozzon fényképezőgépet a fantasztikus kilátásért, de készüljön fel a gyakran erős, hűvös tengeri szélre.",
+            "ro": "Farul marchează punctul strategic extrem al peninsulei; aduceți o cameră pentru priveliștile fantastice, dar aveți grijă la vântul puternic de pe coastă.",
+            "en": "The lighthouse marks the strategic tip of the peninsula; bring a good camera for the fantastic sweeping views, but be prepared for strong, gusty coastal winds."
+          }
+        },
+        {
+          "name": {
+            "de": "Lancashire Landing Cemetery",
+            "hu": "Lancashire Landing temető",
+            "ro": "Cimitirul Lancashire Landing",
+            "en": "Lancashire Landing Cemetery"
+          },
+          "coords": [
+            26.173674,
+            40.053721
+          ],
+          "category": "landmark",
+          "arrive_at": "14:52",
+          "stay_min": 110,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Der Friedhof bietet einen Ort der Stille über dem Meer; respektieren Sie die Grabsteine und bleiben Sie auf den markierten Wegen, um die Ruhe zu bewahren.",
+            "hu": "A tenger feletti temető a béke szigete; mutasson tiszteletet a sírkövek iránt, és maradjon a kijelölt ösvényeken, hogy megőrizze a hely csendes méltóságát.",
+            "ro": "Cimitirul oferă un loc de liniște deasupra mării; respectați pietrele funerare și rămâneți pe potecile marcate pentru a menține pacea acestui sit istoric.",
+            "en": "This cemetery provides a deeply peaceful resting place above the sea; respect the headstones and always stay on marked paths to maintain the site's quiet dignity."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren historischen Rundgang im Museum, um die tragische Geschichte der Halbinsel Gallipoli zu erfassen. Spazieren Sie zur Festung Seddülbahir und dem nahegelegenen Denkmal der Ersten Märtyrer. Nach einer Pause am V Beach erreichen Sie den imposanten Leuchtturm am Kap Helles. Der Tag endet besinnlich auf dem Lancashire Landing Cemetery mit weitem Blick.",
+        "hu": "Kezdje a történelmi sétát a múzeumban, hogy megértse a Gallipoli-félsziget tragikus múltját. Sétáljon el a Seddülbahir-erődhöz és az Első Mártírok Emlékművéhez. A V Beach-i pihenő után elérheti a lenyűgöző Helles-foki világítótornyot. A nap egy csendes emlékezéssel zárul a Lancashire Landing temetőben, ahonnan csodás kilátás nyílik a tengerre.",
+        "ro": "Începeți turul istoric la muzeu pentru a înțelege trecutul tragic al Peninsulei Gallipoli. Plimbați-vă spre fortăreața Seddülbahir și Monumentul Primilor Martiri din apropiere. După o pauză la plaja V Beach, veți ajunge la impresionantul Far Cape Helles. Ziua se încheie cu un moment de reculegere la cimitirul Lancashire Landing, cu vedere la mare.",
+        "en": "Begin your historical walking tour at the museum to grasp the tragic history of the Gallipoli Peninsula. Stroll to Seddülbahir Castle and the nearby First Martyrs' Monument. After resting at V Beach, you will reach the imposing Cape Helles Lighthouse. The day concludes with a moment of reflection at the Lancashire Landing Cemetery overlooking the sea."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:48",
+      "total_km": 6.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Französisches Ehrenmal",
+            "hu": "Francia Emlékmű",
+            "ro": "Memorialul Francez",
+            "en": "French Memorial"
+          },
+          "coords": [
+            26.211112,
+            40.057757
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Das französische Ehrenmal gipfelt in einem imposanten Obelisken; kommen Sie am Vormittag hierher, um das beste Fotolicht über der weiten Meerenge zu nutzen.",
+            "hu": "A francia emlékmű egy lenyűgöző obeliszkben csúcsosodik ki; délelőtt érkezzen, hogy a legjobb fényviszonyok mellett fényképezhesse le a széles tengerszorost.",
+            "ro": "Memorialul francez culminează cu un obelisc impunător; vizitați-l dimineața pentru a beneficia de cea mai bună lumină pentru fotografii asupra vastei strâmtori.",
+            "en": "The French Memorial culminates in a highly imposing obelisk; visit in the late morning to get the absolute best photography light across the expansive strait."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Seddülbahir",
+            "hu": "Seddülbahir-erőd",
+            "ro": "Fortăreața Seddülbahir",
+            "en": "Seddülbahir Castle"
+          },
+          "coords": [
+            26.187565,
+            40.042316
+          ],
+          "category": "castle",
+          "arrive_at": "10:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Die Festung war der erste Verteidigungspunkt der Dardanellen; tragen Sie festes Schuhwerk, da die historischen Wege zwischen den Mauern uneben und steinig sind.",
+            "hu": "Az erőd volt a Dardanellák első védelmi vonala; viseljen kényelmes, zárt cipőt, mivel a történelmi falak közötti ösvények meglehetősen egyenetlenek és kövesek.",
+            "ro": "Această fortăreață a fost prima linie de apărare a strâmtorii; purtați încălțăminte solidă, deoarece potecile dintre vechile ziduri sunt denivelate și pietroase.",
+            "en": "This historic castle was the first line of defense for the Dardanelles; wear sturdy walking shoes as the paths among the ruined walls are uneven and quite stony."
+          }
+        },
+        {
+          "name": {
+            "de": "1915 Seddülbahir Ahmet Uslu Museum",
+            "hu": "1915 Seddülbahir Ahmet Uslu Múzeum",
+            "ro": "Muzeul 1915 Seddülbahir Ahmet Uslu",
+            "en": "1915 Seddülbahir Ahmet Uslu Museum"
+          },
+          "coords": [
+            26.18864,
+            40.04548
+          ],
+          "category": "museum",
+          "arrive_at": "12:06",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Dieses Museum zeigt persönliche Artefakte aus dem Gallipoli-Krieg; besuchen Sie es früh, um den Besuchergruppen zu entgehen und die Exponate in Ruhe zu betrachten.",
+            "hu": "A múzeum a gallipoli csata személyes tárgyait mutatja be; érkezzen korán, hogy elkerülje a csoportokat és nyugodtan megnézhesse a ritka kiállítási tárgyakat.",
+            "ro": "Muzeul expune artefacte personale din Războiul Gallipoli; vizitați-l devreme pentru a evita grupurile și a vedea liniștit aceste relicve istorice emoționante.",
+            "en": "This museum displays personal artifacts from the Gallipoli War; visit early to avoid the tour groups and quietly take in the deeply moving historical exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "V Beach",
+            "hu": "V Beach",
+            "ro": "Plaja V",
+            "en": "V Beach"
+          },
+          "coords": [
+            26.183953,
+            40.044048
+          ],
+          "category": "landmark",
+          "arrive_at": "13:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Dieser Strand war Schauplatz einer blutigen Landung; nehmen Sie sich Zeit für die Gedenktafeln und packen Sie eine Wasserflasche für den sonnigen Spaziergang ein.",
+            "hu": "Ez a part egy véres partraszállás helyszíne volt; szánjon időt az emléktáblákra, és hozzon magával vizet a napos, árnyék nélküli tengerparti sétához a parton.",
+            "ro": "Această plajă a fost locul unei debarcări sângeroase; acordați timp plăcilor comemorative și luați cu dumneavoastră o sticlă cu apă pentru plimbarea însorită.",
+            "en": "This beach was the dramatic site of a bloody landing; take time to read the memorial plaques and bring a water bottle for your sunny, unshaded coastal stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm am Kap Helles",
+            "hu": "Helles-foki világítótorony",
+            "ro": "Farul Cape Helles",
+            "en": "Cape Helles Lighthouse"
+          },
+          "coords": [
+            26.17453,
+            40.044119
+          ],
+          "category": "landmark",
+          "arrive_at": "15:09",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Der Leuchtturm markiert die strategische Spitze der Halbinsel; bringen Sie eine Kamera für die fantastische Aussicht mit, aber achten Sie auf den starken Wind.",
+            "hu": "A világítótorony a félsziget stratégiai csücskét jelöli; hozzon fényképezőgépet a fantasztikus kilátásért, de készüljön fel a gyakran erős, hűvös tengeri szélre.",
+            "ro": "Farul marchează punctul strategic extrem al peninsulei; aduceți o cameră pentru priveliștile fantastice, dar aveți grijă la vântul puternic de pe coastă.",
+            "en": "The lighthouse marks the strategic tip of the peninsula; bring a good camera for the fantastic sweeping views, but be prepared for strong, gusty coastal winds."
+          }
+        },
+        {
+          "name": {
+            "de": "Lancashire Landing Cemetery",
+            "hu": "Lancashire Landing temető",
+            "ro": "Cimitirul Lancashire Landing",
+            "en": "Lancashire Landing Cemetery"
+          },
+          "coords": [
+            26.173674,
+            40.053721
+          ],
+          "category": "landmark",
+          "arrive_at": "15:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Der Friedhof bietet einen Ort der Stille über dem Meer; respektieren Sie die Grabsteine und bleiben Sie auf den markierten Wegen, um die Ruhe zu bewahren.",
+            "hu": "A tenger feletti temető a béke szigete; mutasson tiszteletet a sírkövek iránt, és maradjon a kijelölt ösvényeken, hogy megőrizze a hely csendes méltóságát.",
+            "ro": "Cimitirul oferă un loc de liniște deasupra mării; respectați pietrele funerare și rămâneți pe potecile marcate pentru a menține pacea acestui sit istoric.",
+            "en": "This cemetery provides a deeply peaceful resting place above the sea; respect the headstones and always stay on marked paths to maintain the site's quiet dignity."
+          }
+        },
+        {
+          "name": {
+            "de": "Beach X",
+            "hu": "Beach X",
+            "ro": "Plaja X",
+            "en": "Beach X"
+          },
+          "coords": [
+            26.171419,
+            40.057688
+          ],
+          "category": "recreational",
+          "arrive_at": "17:03",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Dieser ruhige Strandabschnitt ist ideal zum Entspannen nach einem langen Tag; bringen Sie eigene Snacks mit, da es hier keine Geschäfte oder Cafés in der Nähe gibt.",
+            "hu": "Ez a csendes partszakasz tökéletes a pihenésre egy hosszú nap után; hozzon magával saját rágcsálnivalót, mivel a közelben nincsenek boltok vagy kávézók.",
+            "ro": "Această porțiune liniștită de plajă este ideală pentru relaxare după o zi lungă; aduceți propriile gustări, deoarece nu există magazine sau cafenele în apropiere.",
+            "en": "This quiet stretch of beach is perfect for relaxing after a long day of touring; bring your own snacks and drinks as there are no shops or cafes located nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet am Französischen Ehrenmal mit weitem Blick über die Dardanellen. Fahren Sie gemütlich zur Festung Seddülbahir und besuchen Sie das örtliche Museum. Entlang der Küste radeln Sie zum V Beach und weiter zum Leuchtturm am Kap Helles. Der Nachmittag bietet Zeit für Erinnerungen am Friedhof und entspannte Momente am abgelegenen Beach X.",
+        "hu": "A biciklitúra a Francia Emlékműnél indul, pazar kilátással a Dardanellákra. Tekerjen el a Seddülbahir-erődhöz és látogassa meg a helyi múzeumot. A part mentén haladva elérheti a V Beach-et és a Helles-foki világítótornyot. A délután folyamán ideális az idő a csendes emlékezésre a temetőben, majd a napot a nyugodt Beach X partján zárhatja.",
+        "ro": "Turul pe bicicletă începe la Memorialul Francez, cu vederi ample asupra strâmtorii Dardanele. Pedalați spre fortăreața Seddülbahir și vizitați muzeul local. Mergând de-a lungul coastei, veți descoperi plaja V Beach și farul Cape Helles. După-amiaza oferă timp pentru reflecție la cimitir și relaxare la plaja retrasă Beach X, încheind o zi activă.",
+        "en": "Your cycling tour starts at the French Memorial with sweeping views over the Dardanelles. Ride gently to Seddülbahir Castle and visit the local museum. Cycling along the coastline, you'll reach V Beach and the Cape Helles Lighthouse. The afternoon offers time for reflection at the cemetery and a relaxing end to the day at the secluded Beach X."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 6.45,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Beach S",
+            "hu": "Beach S",
+            "ro": "Plaja S",
+            "en": "Beach S"
+          },
+          "coords": [
+            26.213963,
+            40.051649
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beach S ist ein wunderbarer Startpunkt mit weichem Sand; schnüren Sie hier Ihre Wanderschuhe richtig, bevor Sie die nahegelegenen Klippenwege in Angriff nehmen.",
+            "hu": "A Beach S egy csodás, finom homokos kiindulópont; kösse meg jól a túracipőjét, mielőtt nekivágna a közeli, enyhén meredekebb sziklaösvények felfedezésének.",
+            "ro": "Beach S este un punct de plecare minunat cu nisip fin; legați-vă bine bocancii de drumeție înainte de a aborda potecile de pe stâncile din imediata apropiere.",
+            "en": "Beach S is a wonderful sandy starting point for your daily tour; make sure to lace up your hiking boots properly before tackling the nearby rugged cliff paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Französisches Ehrenmal",
+            "hu": "Francia Emlékmű",
+            "ro": "Memorialul Francez",
+            "en": "French Memorial"
+          },
+          "coords": [
+            26.211112,
+            40.057757
+          ],
+          "category": "landmark",
+          "arrive_at": "10:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Das französische Ehrenmal gipfelt in einem imposanten Obelisken; kommen Sie am Vormittag hierher, um das beste Fotolicht über der weiten Meerenge zu nutzen.",
+            "hu": "A francia emlékmű egy lenyűgöző obeliszkben csúcsosodik ki; délelőtt érkezzen, hogy a legjobb fényviszonyok mellett fényképezhesse le a széles tengerszorost.",
+            "ro": "Memorialul francez culminează cu un obelisc impunător; vizitați-l dimineața pentru a beneficia de cea mai bună lumină pentru fotografii asupra vastei strâmtori.",
+            "en": "The French Memorial culminates in a highly imposing obelisk; visit in the late morning to get the absolute best photography light across the expansive strait."
+          }
+        },
+        {
+          "name": {
+            "de": "1915 Seddülbahir Ahmet Uslu Museum",
+            "hu": "1915 Seddülbahir Ahmet Uslu Múzeum",
+            "ro": "Muzeul 1915 Seddülbahir Ahmet Uslu",
+            "en": "1915 Seddülbahir Ahmet Uslu Museum"
+          },
+          "coords": [
+            26.18864,
+            40.04548
+          ],
+          "category": "museum",
+          "arrive_at": "11:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Dieses Museum zeigt persönliche Artefakte aus dem Gallipoli-Krieg; besuchen Sie es früh, um den Besuchergruppen zu entgehen und die Exponate in Ruhe zu betrachten.",
+            "hu": "A múzeum a gallipoli csata személyes tárgyait mutatja be; érkezzen korán, hogy elkerülje a csoportokat és nyugodtan megnézhesse a ritka kiállítási tárgyakat.",
+            "ro": "Muzeul expune artefacte personale din Războiul Gallipoli; vizitați-l devreme pentru a evita grupurile și a vedea liniștit aceste relicve istorice emoționante.",
+            "en": "This museum displays personal artifacts from the Gallipoli War; visit early to avoid the tour groups and quietly take in the deeply moving historical exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Festung Seddülbahir",
+            "hu": "Seddülbahir-erőd",
+            "ro": "Fortăreața Seddülbahir",
+            "en": "Seddülbahir Castle"
+          },
+          "coords": [
+            26.187565,
+            40.042316
+          ],
+          "category": "castle",
+          "arrive_at": "13:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Die Festung war der erste Verteidigungspunkt der Dardanellen; tragen Sie festes Schuhwerk, da die historischen Wege zwischen den Mauern uneben und steinig sind.",
+            "hu": "Az erőd volt a Dardanellák első védelmi vonala; viseljen kényelmes, zárt cipőt, mivel a történelmi falak közötti ösvények meglehetősen egyenetlenek és kövesek.",
+            "ro": "Această fortăreață a fost prima linie de apărare a strâmtorii; purtați încălțăminte solidă, deoarece potecile dintre vechile ziduri sunt denivelate și pietroase.",
+            "en": "This historic castle was the first line of defense for the Dardanelles; wear sturdy walking shoes as the paths among the ruined walls are uneven and quite stony."
+          }
+        },
+        {
+          "name": {
+            "de": "Leuchtturm am Kap Helles",
+            "hu": "Helles-foki világítótorony",
+            "ro": "Farul Cape Helles",
+            "en": "Cape Helles Lighthouse"
+          },
+          "coords": [
+            26.17453,
+            40.044119
+          ],
+          "category": "landmark",
+          "arrive_at": "14:56",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Der Leuchtturm markiert die strategische Spitze der Halbinsel; bringen Sie eine Kamera für die fantastische Aussicht mit, aber achten Sie auf den starken Wind.",
+            "hu": "A világítótorony a félsziget stratégiai csücskét jelöli; hozzon fényképezőgépet a fantasztikus kilátásért, de készüljön fel a gyakran erős, hűvös tengeri szélre.",
+            "ro": "Farul marchează punctul strategic extrem al peninsulei; aduceți o cameră pentru priveliștile fantastice, dar aveți grijă la vântul puternic de pe coastă.",
+            "en": "The lighthouse marks the strategic tip of the peninsula; bring a good camera for the fantastic sweeping views, but be prepared for strong, gusty coastal winds."
+          }
+        },
+        {
+          "name": {
+            "de": "Beach W",
+            "hu": "Beach W",
+            "ro": "Plaja W",
+            "en": "Beach W"
+          },
+          "coords": [
+            26.168633,
+            40.04997
+          ],
+          "category": "recreational",
+          "arrive_at": "15:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Der geschichtsträchtige W Beach lädt zu einem ruhigen Spaziergang ein; sammeln Sie Muscheln, aber hinterlassen Sie keine Abfälle an diesem abgelegenen Ort.",
+            "hu": "A történelmi W Beach egy csendes sétára hív; gyűjthet kagylókat a parton, de ügyeljen arra, hogy ne hagyjon hátra szemetet ezen a viszonylag elszigetelt helyen.",
+            "ro": "Plaja W, încărcată de istorie, invită la o plimbare liniștită; căutați scoici, dar asigurați-vă că nu lăsați gunoi în această locație frumoasă și izolată.",
+            "en": "The historic W Beach invites you for a deeply peaceful coastal stroll; feel free to look for shells but make absolutely sure to leave no trash at this remote spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Beach X",
+            "hu": "Beach X",
+            "ro": "Plaja X",
+            "en": "Beach X"
+          },
+          "coords": [
+            26.171419,
+            40.057688
+          ],
+          "category": "recreational",
+          "arrive_at": "16:40",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Dieser ruhige Strandabschnitt ist ideal zum Entspannen nach einem langen Tag; bringen Sie eigene Snacks mit, da es hier keine Geschäfte oder Cafés in der Nähe gibt.",
+            "hu": "Ez a csendes partszakasz tökéletes a pihenésre egy hosszú nap után; hozzon magával saját rágcsálnivalót, mivel a közelben nincsenek boltok vagy kávézók.",
+            "ro": "Această porțiune liniștită de plajă este ideală pentru relaxare după o zi lungă; aduceți propriile gustări, deoarece nu există magazine sau cafenele în apropiere.",
+            "en": "This quiet stretch of beach is perfect for relaxing after a long day of touring; bring your own snacks and drinks as there are no shops or cafes located nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie bequem am Beach S, bevor Sie das majestätische Französische Ehrenmal besichtigen. Fahren Sie ins Zentrum von Seddülbahir, um das Museum und die historischen Festungsanlagen zu erkunden. Am Nachmittag steuern Sie den markanten Leuchtturm am Kap Helles an. Beenden Sie den Tag entspannt an den malerischen Küstenabschnitten Beach W und Beach X.",
+        "hu": "Kezdje a napot a Beach S partján, mielőtt meglátogatná a lenyűgöző Francia Emlékművet. Vezessen be Seddülbahir központjába, hogy felfedezze a múzeumot és a történelmi erődítményt. Délután vegye az irányt a híres Helles-foki világítótorony felé. A napot kényelmesen, a festői Beach W és Beach X nyugalmat árasztó partszakaszain zárhatja le.",
+        "ro": "Începeți confortabil la Beach S, înainte de a vizita maiestuosul Memorial Francez. Conduceți spre centrul Seddülbahir pentru a explora muzeul și fortificațiile istorice. După-amiaza, îndreptați-vă spre farul marcant de la Cape Helles. Încheiați-vă ziua de explorare relaxându-vă pe porțiunile pitorești de coastă ale plajelor Beach W și Beach X.",
+        "en": "Start comfortably at Beach S before visiting the majestic French Memorial overlooking the strait. Drive into the center of Seddülbahir to explore the museum and the historic castle ruins. In the afternoon, head towards the prominent Cape Helles Lighthouse. Conclude your day relaxing by the picturesque coastal stretches of Beach W and Beach X."
+      }
+    }
+  }
+}

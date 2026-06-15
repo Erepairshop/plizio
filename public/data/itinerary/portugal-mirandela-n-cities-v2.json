@@ -1,0 +1,451 @@
+{
+  "city_id": "portugal-mirandela-n-cities-v2",
+  "anchor": {
+    "name": "Miranda do Douro",
+    "coords": [
+      -6.2667,
+      41.4833
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:49",
+      "total_km": 1.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museu de la Tierra de Miranda",
+            "hu": "Museu de la Tierra de Miranda",
+            "ro": "Museu de la Tierra de Miranda",
+            "en": "Museu de la Tierra de Miranda"
+          },
+          "coords": [
+            -6.273522,
+            41.492382
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche kulturelle Erbe der Region Trás-os-Montes anhand traditioneller Trachten, also überprüfen Sie vorab die Öffnungszeiten.",
+            "hu": "Fedezze fel a Trás-os-Montes régió gazdag kulturális örökségét a hagyományos népviseleteken keresztül, de érkezés előtt ellenőrizze a nyitvatartást.",
+            "ro": "Descoperiți bogata moștenire culturală a regiunii Trás-os-Montes prin costumele tradiționale, așa că verificați programul de funcționare în prealabil.",
+            "en": "Discover the rich cultural heritage of the Trás-os-Montes region through traditional costumes, so be sure to check the opening hours beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa da Cultura Mirandesa",
+            "hu": "Casa da Cultura Mirandesa",
+            "ro": "Casa da Cultura Mirandesa",
+            "en": "Casa da Cultura Mirandesa"
+          },
+          "coords": [
+            -6.274033,
+            41.494747
+          ],
+          "category": "museum",
+          "arrive_at": "10:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie zeitgenössische und historische lokale Kunst in diesem kulturellen Zentrum und holen Sie sich an der Rezeption einen kostenlosen Veranstaltungsplan.",
+            "hu": "Ismerje meg a kortárs és történelmi helyi művészetet ebben a kulturális központban, és ne felejtsen el kérni egy ingyenes programfüzetet a recepción.",
+            "ro": "Explorați arta locală contemporană și istorică în acest centru cultural și nu uitați să luați un program gratuit de evenimente de la recepție.",
+            "en": "Explore contemporary and historical local arts in this cultural hub, and remember to pick up a free event schedule at the main reception desk."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelo de Miranda do Douro",
+            "hu": "Castelo de Miranda do Douro",
+            "ro": "Castelo de Miranda do Douro",
+            "en": "Castelo de Miranda do Douro"
+          },
+          "coords": [
+            -6.275102,
+            41.496535
+          ],
+          "category": "castle",
+          "arrive_at": "12:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die mittelalterlichen Ruinen dieser einst mächtigen Festung über der Schlucht und tragen Sie festes Schuhwerk für die unebenen Steinwege.",
+            "hu": "Sétáljon a szurdokra néző egykor hatalmas erődítmény középkori romjai között, és viseljen masszív cipőt az egyenetlen kőutakon való biztonságos közlekedéshez.",
+            "ro": "Plimbați-vă printre ruinele medievale ale acestei fortărețe odinioară puternice cu vedere la defileu și purtați pantofi rezistenți pentru potecile de piatră.",
+            "en": "Walk among the medieval ruins of this once-mighty fortress overlooking the gorge, and wear sturdy shoes for safely navigating the uneven stone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Estação Biológica internacional Douro",
+            "hu": "Estação Biológica internacional Douro",
+            "ro": "Estação Biológica internacional Douro",
+            "en": "Estação Biológica internacional Douro"
+          },
+          "coords": [
+            -6.269764,
+            41.494245
+          ],
+          "category": "landmark",
+          "arrive_at": "14:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erfahren Sie in dieser biologischen Station mehr über das einzigartige Flussökosystem und die Naturschutzbemühungen, idealerweise in den ruhigen Morgenstunden.",
+            "hu": "Ismerje meg a folyó egyedülálló ökoszisztémáját és a természetvédelmi törekvéseket ezen a biológiai állomáson, amelyet a csendesebb délelőtti órákban érdemes felkeresni.",
+            "ro": "Aflați despre ecosistemul fluvial unic și eforturile de conservare la această stație biologică, pe care este cel mai bine să o vizitați în orele liniștite ale dimineții.",
+            "en": "Learn about the unique river ecosystem and conservation efforts at this biological station, which is best visited during the quieter morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro do Centro de Interpretação Turistico e Ambiental",
+            "hu": "Miradouro do Centro de Interpretação Turistico e Ambiental",
+            "ro": "Miradouro do Centro de Interpretação Turistico e Ambiental",
+            "en": "Miradouro do Centro de Interpretação Turistico e Ambiental"
+          },
+          "coords": [
+            -6.267552,
+            41.489791
+          ],
+          "category": "natural",
+          "arrive_at": "14:54",
+          "stay_min": 55,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem Aussichtspunkt einen atemberaubenden Panoramablick auf die spektakuläre Douro-Schlucht und bringen Sie ein Weitwinkelobjektiv für die besten Fotos mit.",
+            "hu": "Élvezze a lélegzetelállító panorámát a látványos Douro-kanyonra erről a kilátóról, és hozzon magával nagylátószögű objektívet a legjobb tájképek elkészítéséhez.",
+            "ro": "Bucurați-vă de vederi panoramice uluitoare ale spectaculosului canion Douro de la acest punct de belvedere, aducând un obiectiv cu unghi larg pentru fotografii optime.",
+            "en": "Enjoy breathtaking panoramic views of the spectacular Douro canyon from this scenic viewpoint, bringing your wide-angle lens for the best landscape shots."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie den Tag in den kulturellen Museen, um die einzigartigen Traditionen von Miranda do Douro zu entdecken.\nMittag: Erkunden Sie die Überreste der mittelalterlichen Burg und spazieren Sie durch das historische Zentrum.\nNachmittag: Lernen Sie in der internationalen biologischen Station die vielfältige Natur des Flusses kennen.\nAbend: Genießen Sie den atemberaubenden Blick über die Schlucht, während sich das Zwielicht im Wasser spiegelt.",
+        "hu": "Délelőtt: Kezdje a napot a helyi hagyományok felfedezésével a kulturális múzeumokban, és ismerje meg Miranda egyedülálló örökségét.\nDél: Fedezze fel a középkori vár romjait, miközben végigsétál a város történelmi központján.\nDélután: Ismerkedjen meg a helyi biodiverzitással a folyó környezetének szentelt nemzetközi állomáson.\nEste: Zárja a napot egy lenyűgöző kilátással a szurdokra, figyelve a szürkületi árnyalatokat a vízen.",
+        "ro": "Dimineața: Începeți ziua scufundându-vă în tradițiile locale la muzeele culturale, învățând despre moștenirea distinctă a orașului Miranda.\nPrânz: Descoperiți rămășițele castelului medieval în timp ce explorați centrul istoric al orașului.\nDupă-amiaza: Interacționați cu biodiversitatea locală la stația internațională dedicată mediului fluvial.\nSeara: Încheiați cu o vedere uimitoare asupra defileului, privind nuanțele amurgului reflectându-se pe ape.",
+        "en": "Morning: Start the day immersing yourself in local traditions at the cultural museums, learning about the distinct heritage of Miranda.\nMidday: Discover the remnants of the medieval castle as you explore the town's historical center.\nAfternoon: Engage with the local biodiversity at the international station dedicated to the river environment.\nEvening: Conclude with a stunning view over the gorge, watching the twilight hues reflect on the river waters."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:59",
+      "total_km": 2.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museu de la Tierra de Miranda",
+            "hu": "Museu de la Tierra de Miranda",
+            "ro": "Museu de la Tierra de Miranda",
+            "en": "Museu de la Tierra de Miranda"
+          },
+          "coords": [
+            -6.273522,
+            41.492382
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche kulturelle Erbe der Region Trás-os-Montes anhand traditioneller Trachten, also überprüfen Sie vorab die Öffnungszeiten.",
+            "hu": "Fedezze fel a Trás-os-Montes régió gazdag kulturális örökségét a hagyományos népviseleteken keresztül, de érkezés előtt ellenőrizze a nyitvatartást.",
+            "ro": "Descoperiți bogata moștenire culturală a regiunii Trás-os-Montes prin costumele tradiționale, așa că verificați programul de funcționare în prealabil.",
+            "en": "Discover the rich cultural heritage of the Trás-os-Montes region through traditional costumes, so be sure to check the opening hours beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa da Cultura Mirandesa",
+            "hu": "Casa da Cultura Mirandesa",
+            "ro": "Casa da Cultura Mirandesa",
+            "en": "Casa da Cultura Mirandesa"
+          },
+          "coords": [
+            -6.274033,
+            41.494747
+          ],
+          "category": "museum",
+          "arrive_at": "10:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie zeitgenössische und historische lokale Kunst in diesem kulturellen Zentrum und holen Sie sich an der Rezeption einen kostenlosen Veranstaltungsplan.",
+            "hu": "Ismerje meg a kortárs és történelmi helyi művészetet ebben a kulturális központban, és ne felejtsen el kérni egy ingyenes programfüzetet a recepción.",
+            "ro": "Explorați arta locală contemporană și istorică în acest centru cultural și nu uitați să luați un program gratuit de evenimente de la recepție.",
+            "en": "Explore contemporary and historical local arts in this cultural hub, and remember to pick up a free event schedule at the main reception desk."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelo de Miranda do Douro",
+            "hu": "Castelo de Miranda do Douro",
+            "ro": "Castelo de Miranda do Douro",
+            "en": "Castelo de Miranda do Douro"
+          },
+          "coords": [
+            -6.275102,
+            41.496535
+          ],
+          "category": "castle",
+          "arrive_at": "12:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die mittelalterlichen Ruinen dieser einst mächtigen Festung über der Schlucht und tragen Sie festes Schuhwerk für die unebenen Steinwege.",
+            "hu": "Sétáljon a szurdokra néző egykor hatalmas erődítmény középkori romjai között, és viseljen masszív cipőt az egyenetlen kőutakon való biztonságos közlekedéshez.",
+            "ro": "Plimbați-vă printre ruinele medievale ale acestei fortărețe odinioară puternice cu vedere la defileu și purtați pantofi rezistenți pentru potecile de piatră.",
+            "en": "Walk among the medieval ruins of this once-mighty fortress overlooking the gorge, and wear sturdy shoes for safely navigating the uneven stone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Estação Biológica internacional Douro",
+            "hu": "Estação Biológica internacional Douro",
+            "ro": "Estação Biológica internacional Douro",
+            "en": "Estação Biológica internacional Douro"
+          },
+          "coords": [
+            -6.269764,
+            41.494245
+          ],
+          "category": "landmark",
+          "arrive_at": "13:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erfahren Sie in dieser biologischen Station mehr über das einzigartige Flussökosystem und die Naturschutzbemühungen, idealerweise in den ruhigen Morgenstunden.",
+            "hu": "Ismerje meg a folyó egyedülálló ökoszisztémáját és a természetvédelmi törekvéseket ezen a biológiai állomáson, amelyet a csendesebb délelőtti órákban érdemes felkeresni.",
+            "ro": "Aflați despre ecosistemul fluvial unic și eforturile de conservare la această stație biologică, pe care este cel mai bine să o vizitați în orele liniștite ale dimineții.",
+            "en": "Learn about the unique river ecosystem and conservation efforts at this biological station, which is best visited during the quieter morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort Torregamones",
+            "hu": "Fort Torregamones",
+            "ro": "Fort Torregamones",
+            "en": "Fort Torregamones"
+          },
+          "coords": [
+            -6.261877,
+            41.494576
+          ],
+          "category": "fortress",
+          "arrive_at": "14:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in dieser historischen Grenzbefestigung mit weiten Landschaftsblick, aber seien Sie mit einer leichten Jacke auf starken Wind vorbereitet.",
+            "hu": "Lépjen vissza az időben ezen a történelmi határőrizeti erődítményen, amely hatalmas tájképi kilátást kínál, de készüljön fel az erős szélre egy könnyű kabáttal.",
+            "ro": "Întoarceți-vă în timp la această fortificație istorică de graniță care oferă vederi vaste, dar fiți pregătit pentru vânturi puternice aducând o jachetă ușoară.",
+            "en": "Step back in time at this historic border fortification offering vast landscape vistas, but be prepared for strong winds by bringing a light jacket."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro do Centro de Interpretação Turistico e Ambiental",
+            "hu": "Miradouro do Centro de Interpretação Turistico e Ambiental",
+            "ro": "Miradouro do Centro de Interpretação Turistico e Ambiental",
+            "en": "Miradouro do Centro de Interpretação Turistico e Ambiental"
+          },
+          "coords": [
+            -6.267552,
+            41.489791
+          ],
+          "category": "natural",
+          "arrive_at": "16:04",
+          "stay_min": 55,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem Aussichtspunkt einen atemberaubenden Panoramablick auf die spektakuläre Douro-Schlucht und bringen Sie ein Weitwinkelobjektiv für die besten Fotos mit.",
+            "hu": "Élvezze a lélegzetelállító panorámát a látványos Douro-kanyonra erről a kilátóról, és hozzon magával nagylátószögű objektívet a legjobb tájképek elkészítéséhez.",
+            "ro": "Bucurați-vă de vederi panoramice uluitoare ale spectaculosului canion Douro de la acest punct de belvedere, aducând un obiectiv cu unghi larg pentru fotografii optime.",
+            "en": "Enjoy breathtaking panoramic views of the spectacular Douro canyon from this scenic viewpoint, bringing your wide-angle lens for the best landscape shots."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Radeln Sie durch die charmanten Straßen von Miranda und beginnen Sie Ihre Reise mit den reichhaltigen kulturellen Ausstellungen.\nMittag: Fahren Sie zu den alten Burgruinen und genießen Sie die frische Luft der Region Trás-os-Montes.\nNachmittag: Begeben Sie sich zu den Grenzbefestigungen und zur biologischen Forschungsstation in der wilden Natur.\nAbend: Beenden Sie Ihre Fahrt am Aussichtspunkt und fangen Sie den herrlichen Sonnenuntergang über der Schlucht ein.",
+        "hu": "Délelőtt: Kerekezzen végig Miranda hangulatos utcáin, és kezdje útját a gazdag kulturális és történelmi kiállításokkal.\nDél: Tekerjen fel az ősi várromokhoz, és élvezze a Trás-os-Montes régió friss levegőjét.\nDélután: Merészkedjen el a határ menti erődítményekhez és a biológiai kutatóállomáshoz, megcsodálva a zord természetet.\nEste: Fejezze be túráját a kilátóponton, és örökítse meg a lenyűgöző naplementét a kanyon felett.",
+        "ro": "Dimineața: Pedalați prin străzile fermecătoare din Miranda, începându-vă călătoria cu expozițiile sale culturale și istorice bogate.\nPrânz: Urcați până la ruinele castelului antic și bucurați-vă de aerul proaspăt al regiunii Trás-os-Montes.\nDupă-amiaza: Aventură-te spre fortificațiile de graniță și stația de cercetare biologică, admirând frumusețea naturală.\nSeara: Încheiați-vă plimbarea la punctul de belvedere, surprinzând apusul magnific peste canion.",
+        "en": "Morning: Pedal through the charming streets of Miranda, starting your journey with its rich cultural and historical exhibits.\nMidday: Ride up to the ancient castle ruins and enjoy the crisp air of the Trás-os-Montes region.\nAfternoon: Venture out to the border fortifications and biological research station, taking in the rugged natural beauty.\nEvening: End your ride at the interpretation center viewpoint, capturing the magnificent sunset over the canyon."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:46",
+      "total_km": 15.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Albufeira de Miranda",
+            "hu": "Albufeira de Miranda",
+            "ro": "Albufeira de Miranda",
+            "en": "Albufeira de Miranda"
+          },
+          "coords": [
+            -6.228615,
+            41.532294
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die beeindruckende Staudamminfrastruktur und das ruhige Wasser des Stausees und erwägen Sie in den Sommermonaten eine kurze Bootstour.",
+            "hu": "Csodálja meg a lenyűgöző gátinfrastruktúrát és a nyugodt víztározót, és érdemes részt venni egy rövid hajótúrán, ha elérhető a nyári hónapokban.",
+            "ro": "Minunați-vă de impresionanta infrastructură a barajului și de apele liniștite ale lacului de acumulare și luați în considerare un scurt tur cu barca pe timpul verii.",
+            "en": "Marvel at the impressive dam infrastructure and the serene reservoir waters, and consider taking a short boat tour if available during the summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Castelo de Miranda do Douro",
+            "hu": "Castelo de Miranda do Douro",
+            "ro": "Castelo de Miranda do Douro",
+            "en": "Castelo de Miranda do Douro"
+          },
+          "coords": [
+            -6.275102,
+            41.496535
+          ],
+          "category": "castle",
+          "arrive_at": "10:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die mittelalterlichen Ruinen dieser einst mächtigen Festung über der Schlucht und tragen Sie festes Schuhwerk für die unebenen Steinwege.",
+            "hu": "Sétáljon a szurdokra néző egykor hatalmas erődítmény középkori romjai között, és viseljen masszív cipőt az egyenetlen kőutakon való biztonságos közlekedéshez.",
+            "ro": "Plimbați-vă printre ruinele medievale ale acestei fortărețe odinioară puternice cu vedere la defileu și purtați pantofi rezistenți pentru potecile de piatră.",
+            "en": "Walk among the medieval ruins of this once-mighty fortress overlooking the gorge, and wear sturdy shoes for safely navigating the uneven stone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu de la Tierra de Miranda",
+            "hu": "Museu de la Tierra de Miranda",
+            "ro": "Museu de la Tierra de Miranda",
+            "en": "Museu de la Tierra de Miranda"
+          },
+          "coords": [
+            -6.273522,
+            41.492382
+          ],
+          "category": "museum",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche kulturelle Erbe der Region Trás-os-Montes anhand traditioneller Trachten, also überprüfen Sie vorab die Öffnungszeiten.",
+            "hu": "Fedezze fel a Trás-os-Montes régió gazdag kulturális örökségét a hagyományos népviseleteken keresztül, de érkezés előtt ellenőrizze a nyitvatartást.",
+            "ro": "Descoperiți bogata moștenire culturală a regiunii Trás-os-Montes prin costumele tradiționale, așa că verificați programul de funcționare în prealabil.",
+            "en": "Discover the rich cultural heritage of the Trás-os-Montes region through traditional costumes, so be sure to check the opening hours beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Estação Biológica internacional Douro",
+            "hu": "Estação Biológica internacional Douro",
+            "ro": "Estação Biológica internacional Douro",
+            "en": "Estação Biológica internacional Douro"
+          },
+          "coords": [
+            -6.269764,
+            41.494245
+          ],
+          "category": "landmark",
+          "arrive_at": "13:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erfahren Sie in dieser biologischen Station mehr über das einzigartige Flussökosystem und die Naturschutzbemühungen, idealerweise in den ruhigen Morgenstunden.",
+            "hu": "Ismerje meg a folyó egyedülálló ökoszisztémáját és a természetvédelmi törekvéseket ezen a biológiai állomáson, amelyet a csendesebb délelőtti órákban érdemes felkeresni.",
+            "ro": "Aflați despre ecosistemul fluvial unic și eforturile de conservare la această stație biologică, pe care este cel mai bine să o vizitați în orele liniștite ale dimineții.",
+            "en": "Learn about the unique river ecosystem and conservation efforts at this biological station, which is best visited during the quieter morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort Torregamones",
+            "hu": "Fort Torregamones",
+            "ro": "Fort Torregamones",
+            "en": "Fort Torregamones"
+          },
+          "coords": [
+            -6.261877,
+            41.494576
+          ],
+          "category": "fortress",
+          "arrive_at": "14:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in dieser historischen Grenzbefestigung mit weiten Landschaftsblick, aber seien Sie mit einer leichten Jacke auf starken Wind vorbereitet.",
+            "hu": "Lépjen vissza az időben ezen a történelmi határőrizeti erődítményen, amely hatalmas tájképi kilátást kínál, de készüljön fel az erős szélre egy könnyű kabáttal.",
+            "ro": "Întoarceți-vă în timp la această fortificație istorică de graniță care oferă vederi vaste, dar fiți pregătit pentru vânturi puternice aducând o jachetă ușoară.",
+            "en": "Step back in time at this historic border fortification offering vast landscape vistas, but be prepared for strong winds by bringing a light jacket."
+          }
+        },
+        {
+          "name": {
+            "de": "Albufeira de Picote",
+            "hu": "Albufeira de Picote",
+            "ro": "Albufeira de Picote",
+            "en": "Albufeira de Picote"
+          },
+          "coords": [
+            -6.306479,
+            41.43325
+          ],
+          "category": "natural",
+          "arrive_at": "16:01",
+          "stay_min": 105,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 8.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den ruhigen Gewässern dieses atemberaubenden Stausees, der von steilen Klippen umgeben ist, und suchen Sie sich ein ruhiges Plätzchen für ein Picknick.",
+            "hu": "Pihenjen a meredek sziklákkal körülvett, lenyűgöző víztározó nyugodt vizeinél, és keressen egy csendes helyet a déli perem közelében egy tökéletes piknikhez.",
+            "ro": "Relaxați-vă la apele calme ale acestui lac uluitor înconjurat de stânci abrupte, găsind un loc liniștit lângă marginea sudică pentru un picnic perfect.",
+            "en": "Relax by the calm waters of this stunning reservoir surrounded by sheer cliffs, finding a quiet spot near the southern edge for a perfect picnic break."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Fahren Sie zur beeindruckenden Albufeira de Miranda, um die enormen Ausmaße des nördlichen Staudamms zu bestaunen.\nMittag: Kehren Sie in das historische Stadtzentrum zurück, um die mittelalterliche Burg und das lokale Museum zu erkunden.\nNachmittag: Überqueren Sie die Grenze zu den Festungen und Umweltzentren, die mit dem Auto leicht erreichbar sind.\nAbend: Fahren Sie nach Süden zur friedlichen Albufeira de Picote für einen spektakulären Abschluss umgeben von Klippen.",
+        "hu": "Délelőtt: Vezessen az impozáns Albufeira de Miranda víztározóhoz, hogy megcsodálja az északi gát hatalmas méreteit.\nDél: Térjen vissza a történelmi városközpontba, hogy felfedezze a középkori várat és a hagyományos helyi múzeumot.\nDélután: Látogasson el a határ menti erődhöz és a környezetvédelmi központokhoz, kényelmesen utazva a fennsíkon.\nEste: Utazzon délre a békés Albufeira de Picote-hoz, ahol egy látványos, sziklákkal körülvett alkonyati élmény várja.",
+        "ro": "Dimineața: Conduceți la impresionanta Albufeira de Miranda pentru a aprecia scara vastă a barajului din nord.\nPrânz: Întoarceți-vă în centrul istoric al orașului pentru a explora castelul medieval și muzeul local tradițional.\nDupă-amiaza: Traversați spre fortul de graniță și centrele de mediu, navigând ușor platoul cu mașina.\nSeara: Călătoriți spre sud către serena Albufeira de Picote pentru un final spectaculos înconjurat de stânci abrupte.",
+        "en": "Morning: Drive to the impressive Albufeira de Miranda to appreciate the vast scale of the northern dam and reservoir.\nMidday: Return to the historic town center to explore the medieval castle and the traditional local museum.\nAfternoon: Cross towards the border fort and environmental centers, easily navigating the plateau by car.\nEvening: Journey south to the serene Albufeira de Picote for a spectacular twilight finish surrounded by towering cliffs."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "cysoing",
+  "anchor": {
+    "name": "Cysoing",
+    "coords": [
+      3.215,
+      50.5683
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:53",
+      "total_km": 1.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Calixte-Saint-Évrard",
+            "hu": "Saint-Calixte-Saint-Évrard templom",
+            "ro": "Biserica Saint-Calixte-Saint-Évrard",
+            "en": "Saint-Calixte-Saint-Évrard Church"
+          },
+          "coords": [
+            3.215828,
+            50.568524
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese bedeutende Pfarrkirche zu Ehren zweier Heiliger, ein Eckpfeiler des lokalen Glaubens, und bewundern Sie die wunderschönen Buntglasfenster.",
+            "hu": "Fedezze fel ezt a két szentnek szentelt fontos plébániatemplomot, a helyi hit sarokkövét, és szánjon egy percet a gyönyörű ólomüveg ablakok megcsodálására.",
+            "ro": "Explorați această biserică parohială importantă care onorează doi sfinți, o piatră de temelie a credinței locale, și apreciați frumoasele vitralii colorate.",
+            "en": "Explore this significant parish church honoring two saints, a cornerstone of local faith, and take a moment to appreciate the beautiful stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Cysoing",
+            "hu": "Cysoing Városháza",
+            "ro": "Primăria Cysoing",
+            "en": "Cysoing Town Hall"
+          },
+          "coords": [
+            3.215127,
+            50.564832
+          ],
+          "category": "civic",
+          "arrive_at": "09:56",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betrachten Sie die klassische bürgerliche Architektur des Rathauses, dem Zentrum von Cysoing, wo Sie an der Rezeption Broschüren zu Veranstaltungen finden.",
+            "hu": "Figyelje meg a városháza klasszikus polgári építészetét, Cysoing központját, ahol a recepción helyi eseményekről szóló prospektusokat is kérhet ingyenesen.",
+            "ro": "Observați arhitectura civică clasică a primăriei, inima administrativă din Cysoing, de unde puteți lua broșuri despre evenimentele locale de la recepție.",
+            "en": "Observe the classic civic architecture of the town hall, the administrative heart of Cysoing where you can pick up local event brochures at the front desk."
+          }
+        },
+        {
+          "name": {
+            "de": "Pyramide von Fontenoy",
+            "hu": "Fontenoy-piramis",
+            "ro": "Piramida de la Fontenoy",
+            "en": "Fontenoy Pyramid"
+          },
+          "coords": [
+            3.21873,
+            50.5647
+          ],
+          "category": "historical",
+          "arrive_at": "10:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen markanten Obelisken, der an die Schlacht von Fontenoy erinnert, ein Wahrzeichen, dessen einzigartige Basis absolut tolle Fotos bietet.",
+            "hu": "Csodálja meg ezt a fontenoyi csatának emléket állító obeliszket, egy fontos történelmi nevezetességet, amelynek egyedi talapzatát érdemes lefotózni közelről.",
+            "ro": "Admirați acest obelisc impresionant care comemorează Bătălia de la Fontenoy, un reper istoric esențial unde trebuie să fotografiați baza sa unică din piatră.",
+            "en": "Admire this striking obelisk commemorating the Battle of Fontenoy, an essential historical landmark where you should capture photos of its unique stone base."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Calixte",
+            "hu": "Saint-Calixte templom",
+            "ro": "Biserica Saint-Calixte",
+            "en": "Saint-Calixte Church"
+          },
+          "coords": [
+            3.21938,
+            50.564883
+          ],
+          "category": "religious",
+          "arrive_at": "11:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese friedliche Kultstätte, die dem Heiligen Calixtus gewidmet ist, und werfen Sie einen Blick auf das Schild für kommende Chorauftritte.",
+            "hu": "Látogasson el erre a Szent Kallixtusnak szentelt békés vallási helyre, és ellenőrizze a kinti hirdetőtáblát a közelgő helyi kórusfellépések időpontjaiért.",
+            "ro": "Vizitați acest loc religios pașnic dedicat Sfântului Calixte pentru a-i înțelege ambianța, verificând panoul exterior pentru viitoare spectacole de cor.",
+            "en": "Visit this peaceful religious site dedicated to Saint Calixte to understand its ambiance, checking the notice board outside for upcoming local choir dates."
+          }
+        },
+        {
+          "name": {
+            "de": "Herz-Jesu-Kirche",
+            "hu": "Szent Szív templom",
+            "ro": "Biserica Sacré-Cœur",
+            "en": "Sacré-Cœur Church"
+          },
+          "coords": [
+            3.234661,
+            50.561938
+          ],
+          "category": "religious",
+          "arrive_at": "12:43",
+          "stay_min": 70,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die klaren architektonischen Linien dieser Herz-Jesu-Kirche, einer ruhigen spirituellen Oase, die sich perfekt für einige Minuten Stille eignet.",
+            "hu": "Fedezze fel ennek a Szent Szív templomnak a különleges építészeti vonalait, amely egy csendes spirituális menedék, tökéletes egy kis belső elmélkedéshez.",
+            "ro": "Descoperiți liniile arhitecturale distincte ale acestei biserici, un refugiu spiritual liniștit, perfect adaptat pentru câteva minute de reflecție tăcută.",
+            "en": "Discover the distinct architectural lines of this sacred heart church, a quiet spiritual haven perfectly suited for a few minutes of silent reflection inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie in Cysoing an der beeindruckenden Église Saint-Calixte-Saint-Évrard und dem örtlichen Rathaus. \n\n Mittags besuchen Sie die ikonische Fontenoy-Pyramide und die ruhige Kirche Saint-Calixte. \n\n Verbringen Sie den Nachmittag mit einem Spaziergang zur Église Sacré-Cœur durch friedliche Straßen. \n\n Beenden Sie Ihre Tour mit Gedanken an die heutigen historischen Stätten.",
+        "hu": "Kezdje Cysoing központjában, megcsodálva a lenyűgöző Saint-Calixte-Saint-Évrard templomot és a Városházát. \n\n Délben látogassa meg az ikonikus Fontenoy-piramist és a csendes Saint-Calixte templomot. \n\n Töltse a délutánt egy kényelmes sétával a Sacré-Cœur templom felé a békés utcákon. \n\n Zárja sétáját a ma felfedezett történelmi és vallási helyszíneken való elmélkedéssel.",
+        "ro": "Începeți în centrul din Cysoing, admirând impresionanta Biserică Saint-Calixte-Saint-Évrard și Primăria. \n\n La amiază, vizitați emblematica Piramidă Fontenoy și liniștita Biserică Saint-Calixte. \n\n Petreceți după-amiaza plimbându-vă spre Église Sacré-Cœur pe străzile pașnice. \n\n Încheiați turul reflectând asupra siturilor istorice și religioase descoperite astăzi.",
+        "en": "Begin in the historic heart of Cysoing, taking in the impressive Église Saint-Calixte-Saint-Évrard and the civic Town Hall. \n\n Continue at midday by visiting the iconic Fontenoy Pyramid and the quiet Saint-Calixte Church nearby. \n\n Spend your afternoon leisurely strolling towards the Église Sacré-Cœur, enjoying peaceful streets. \n\n Conclude your tour reflecting on the religious sites."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:32",
+      "total_km": 4.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Calixte-Saint-Évrard",
+            "hu": "Saint-Calixte-Saint-Évrard templom",
+            "ro": "Biserica Saint-Calixte-Saint-Évrard",
+            "en": "Saint-Calixte-Saint-Évrard Church"
+          },
+          "coords": [
+            3.215828,
+            50.568524
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese bedeutende Pfarrkirche zu Ehren zweier Heiliger, ein Eckpfeiler des lokalen Glaubens, und bewundern Sie die wunderschönen Buntglasfenster.",
+            "hu": "Fedezze fel ezt a két szentnek szentelt fontos plébániatemplomot, a helyi hit sarokkövét, és szánjon egy percet a gyönyörű ólomüveg ablakok megcsodálására.",
+            "ro": "Explorați această biserică parohială importantă care onorează doi sfinți, o piatră de temelie a credinței locale, și apreciați frumoasele vitralii colorate.",
+            "en": "Explore this significant parish church honoring two saints, a cornerstone of local faith, and take a moment to appreciate the beautiful stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Cysoing",
+            "hu": "Cysoing Városháza",
+            "ro": "Primăria Cysoing",
+            "en": "Cysoing Town Hall"
+          },
+          "coords": [
+            3.215127,
+            50.564832
+          ],
+          "category": "civic",
+          "arrive_at": "09:52",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betrachten Sie die klassische bürgerliche Architektur des Rathauses, dem Zentrum von Cysoing, wo Sie an der Rezeption Broschüren zu Veranstaltungen finden.",
+            "hu": "Figyelje meg a városháza klasszikus polgári építészetét, Cysoing központját, ahol a recepción helyi eseményekről szóló prospektusokat is kérhet ingyenesen.",
+            "ro": "Observați arhitectura civică clasică a primăriei, inima administrativă din Cysoing, de unde puteți lua broșuri despre evenimentele locale de la recepție.",
+            "en": "Observe the classic civic architecture of the town hall, the administrative heart of Cysoing where you can pick up local event brochures at the front desk."
+          }
+        },
+        {
+          "name": {
+            "de": "Pyramide von Fontenoy",
+            "hu": "Fontenoy-piramis",
+            "ro": "Piramida de la Fontenoy",
+            "en": "Fontenoy Pyramid"
+          },
+          "coords": [
+            3.21873,
+            50.5647
+          ],
+          "category": "historical",
+          "arrive_at": "10:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen markanten Obelisken, der an die Schlacht von Fontenoy erinnert, ein Wahrzeichen, dessen einzigartige Basis absolut tolle Fotos bietet.",
+            "hu": "Csodálja meg ezt a fontenoyi csatának emléket állító obeliszket, egy fontos történelmi nevezetességet, amelynek egyedi talapzatát érdemes lefotózni közelről.",
+            "ro": "Admirați acest obelisc impresionant care comemorează Bătălia de la Fontenoy, un reper istoric esențial unde trebuie să fotografiați baza sa unică din piatră.",
+            "en": "Admire this striking obelisk commemorating the Battle of Fontenoy, an essential historical landmark where you should capture photos of its unique stone base."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Calixte",
+            "hu": "Saint-Calixte templom",
+            "ro": "Biserica Saint-Calixte",
+            "en": "Saint-Calixte Church"
+          },
+          "coords": [
+            3.21938,
+            50.564883
+          ],
+          "category": "religious",
+          "arrive_at": "11:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese friedliche Kultstätte, die dem Heiligen Calixtus gewidmet ist, und werfen Sie einen Blick auf das Schild für kommende Chorauftritte.",
+            "hu": "Látogasson el erre a Szent Kallixtusnak szentelt békés vallási helyre, és ellenőrizze a kinti hirdetőtáblát a közelgő helyi kórusfellépések időpontjaiért.",
+            "ro": "Vizitați acest loc religios pașnic dedicat Sfântului Calixte pentru a-i înțelege ambianța, verificând panoul exterior pentru viitoare spectacole de cor.",
+            "en": "Visit this peaceful religious site dedicated to Saint Calixte to understand its ambiance, checking the notice board outside for upcoming local choir dates."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle in den Bäumen",
+            "hu": "Fák Kápolnája",
+            "ro": "Capela Copacilor",
+            "en": "Chapel of the Trees"
+          },
+          "coords": [
+            3.219962,
+            50.579554
+          ],
+          "category": "religious",
+          "arrive_at": "12:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Betreten Sie diese charmante, zwischen alten Bäumen gelegene Kapelle, ein malerisches ländliches Heiligtum, wo das Licht die beste Fotoatmosphäre schafft.",
+            "hu": "Lépjen be ebbe az ősi fák között megbúvó bájos kápolnába, egy festői vidéki szentélybe, ahol a beszűrődő fények a legjobb hangulatot teremtik a fotózáshoz.",
+            "ro": "Pășiți în această capelă fermecătoare cuibărită printre copaci seculari, un sanctuar rural pitoresc unde lumina soarelui creează cea mai bună atmosferă.",
+            "en": "Step into this charming chapel nestled among ancient trees, a picturesque rural sanctuary where sunlight creates the best atmosphere for lovely photography."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Peter Kirche",
+            "hu": "Szent Péter templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            3.187292,
+            50.579044
+          ],
+          "category": "religious",
+          "arrive_at": "13:22",
+          "stay_min": 70,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Betrachten Sie das massive Mauerwerk der Peterskirche, ein beständiges Symbol der nahen Gemeinde, und gehen Sie umher, um die historische Apsis zu sehen.",
+            "hu": "Tekintse meg a Szent Péter templom masszív kőfalait, a közeli közösség tartós szimbólumát, és sétálja körbe az épületet, hogy lássa a történelmi apszist.",
+            "ro": "Priviți zidăria solidă a bisericii Sfântului Petru, un simbol durabil al comunității din apropiere, și plimbați-vă pe perimetru pentru a vedea absida istorică.",
+            "en": "Gaze upon the solid stonework of Saint Peter's church, an enduring symbol of the nearby community, and walk around the perimeter to view its historic apse."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour an der großen Église Saint-Calixte-Saint-Évrard und bewundern Sie die Fassade. \n\n Mittags radeln Sie zur Fontenoy-Pyramide und der nahegelegenen Saint-Calixte Kirche, um die historischen Wurzeln zu entdecken. \n\n Fahren Sie nachmittags nach Norden zur ruhigen Chapelle-aux-Arbres, umgeben von Bäumen. \n\n Beenden Sie die Tour an der Église Saint-Pierre im Grünen.",
+        "hu": "Kezdje a kerékpározást a nagy Saint-Calixte-Saint-Évrard templomnál, megcsodálva annak homlokzatát. \n\n Délben tekerjen el a Fontenoy-piramishoz és a közeli Saint-Calixte templomhoz. \n\n Délután biciklizzen északra a fák között megbúvó, békés Chapelle-aux-Arbres kápolnához. \n\n Fejezze be útját a Szent Péter templomnál, élvezve a kellemes túrát a festői vidéki környezetben.",
+        "ro": "Începeți traseul pe bicicletă la marea Biserică Saint-Calixte-Saint-Évrard, admirând fațada sa. \n\n La amiază, pedalați spre Piramida Fontenoy și Biserica Saint-Calixte din apropiere. \n\n După-amiaza, mergeți spre nord la senina Chapelle-aux-Arbres, înconjurată de copaci seculari. \n\n Încheiați la Église Saint-Pierre, bucurându-vă de o plimbare plăcută prin periferia rurală.",
+        "en": "Start cycling at the grand Église Saint-Calixte-Saint-Évrard, admiring its historic facade. \n\n By midday, ride to the Fontenoy Pyramid and the nearby Saint-Calixte Church to uncover the town's roots. \n\n In the afternoon, cycle north to the serene Chapelle-aux-Arbres, surrounded by ancient trees. \n\n Finish at Église Saint-Pierre, enjoying a pleasant ride through the rural outskirts."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:19",
+      "total_km": 5.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Pyramide von Fontenoy",
+            "hu": "Fontenoy-piramis",
+            "ro": "Piramida de la Fontenoy",
+            "en": "Fontenoy Pyramid"
+          },
+          "coords": [
+            3.21873,
+            50.5647
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen markanten Obelisken, der an die Schlacht von Fontenoy erinnert, ein Wahrzeichen, dessen einzigartige Basis absolut tolle Fotos bietet.",
+            "hu": "Csodálja meg ezt a fontenoyi csatának emléket állító obeliszket, egy fontos történelmi nevezetességet, amelynek egyedi talapzatát érdemes lefotózni közelről.",
+            "ro": "Admirați acest obelisc impresionant care comemorează Bătălia de la Fontenoy, un reper istoric esențial unde trebuie să fotografiați baza sa unică din piatră.",
+            "en": "Admire this striking obelisk commemorating the Battle of Fontenoy, an essential historical landmark where you should capture photos of its unique stone base."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Cysoing",
+            "hu": "Cysoing Városháza",
+            "ro": "Primăria Cysoing",
+            "en": "Cysoing Town Hall"
+          },
+          "coords": [
+            3.215127,
+            50.564832
+          ],
+          "category": "civic",
+          "arrive_at": "10:36",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Betrachten Sie die klassische bürgerliche Architektur des Rathauses, dem Zentrum von Cysoing, wo Sie an der Rezeption Broschüren zu Veranstaltungen finden.",
+            "hu": "Figyelje meg a városháza klasszikus polgári építészetét, Cysoing központját, ahol a recepción helyi eseményekről szóló prospektusokat is kérhet ingyenesen.",
+            "ro": "Observați arhitectura civică clasică a primăriei, inima administrativă din Cysoing, de unde puteți lua broșuri despre evenimentele locale de la recepție.",
+            "en": "Observe the classic civic architecture of the town hall, the administrative heart of Cysoing where you can pick up local event brochures at the front desk."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Calixte-Saint-Évrard",
+            "hu": "Saint-Calixte-Saint-Évrard templom",
+            "ro": "Biserica Saint-Calixte-Saint-Évrard",
+            "en": "Saint-Calixte-Saint-Évrard Church"
+          },
+          "coords": [
+            3.215828,
+            50.568524
+          ],
+          "category": "religious",
+          "arrive_at": "11:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese bedeutende Pfarrkirche zu Ehren zweier Heiliger, ein Eckpfeiler des lokalen Glaubens, und bewundern Sie die wunderschönen Buntglasfenster.",
+            "hu": "Fedezze fel ezt a két szentnek szentelt fontos plébániatemplomot, a helyi hit sarokkövét, és szánjon egy percet a gyönyörű ólomüveg ablakok megcsodálására.",
+            "ro": "Explorați această biserică parohială importantă care onorează doi sfinți, o piatră de temelie a credinței locale, și apreciați frumoasele vitralii colorate.",
+            "en": "Explore this significant parish church honoring two saints, a cornerstone of local faith, and take a moment to appreciate the beautiful stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle in den Bäumen",
+            "hu": "Fák Kápolnája",
+            "ro": "Capela Copacilor",
+            "en": "Chapel of the Trees"
+          },
+          "coords": [
+            3.219962,
+            50.579554
+          ],
+          "category": "religious",
+          "arrive_at": "11:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Betreten Sie diese charmante, zwischen alten Bäumen gelegene Kapelle, ein malerisches ländliches Heiligtum, wo das Licht die beste Fotoatmosphäre schafft.",
+            "hu": "Lépjen be ebbe az ősi fák között megbúvó bájos kápolnába, egy festői vidéki szentélybe, ahol a beszűrődő fények a legjobb hangulatot teremtik a fotózáshoz.",
+            "ro": "Pășiți în această capelă fermecătoare cuibărită printre copaci seculari, un sanctuar rural pitoresc unde lumina soarelui creează cea mai bună atmosferă.",
+            "en": "Step into this charming chapel nestled among ancient trees, a picturesque rural sanctuary where sunlight creates the best atmosphere for lovely photography."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Peter Kirche",
+            "hu": "Szent Péter templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            3.187292,
+            50.579044
+          ],
+          "category": "religious",
+          "arrive_at": "12:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Betrachten Sie das massive Mauerwerk der Peterskirche, ein beständiges Symbol der nahen Gemeinde, und gehen Sie umher, um die historische Apsis zu sehen.",
+            "hu": "Tekintse meg a Szent Péter templom masszív kőfalait, a közeli közösség tartós szimbólumát, és sétálja körbe az épületet, hogy lássa a történelmi apszist.",
+            "ro": "Priviți zidăria solidă a bisericii Sfântului Petru, un simbol durabil al comunității din apropiere, și plimbați-vă pe perimetru pentru a vedea absida istorică.",
+            "en": "Gaze upon the solid stonework of Saint Peter's church, an enduring symbol of the nearby community, and walk around the perimeter to view its historic apse."
+          }
+        },
+        {
+          "name": {
+            "de": "Hubertuskapelle",
+            "hu": "Szent Hubertusz-kápolna",
+            "ro": "Capela Saint-Hubert",
+            "en": "Saint-Hubert Chapel"
+          },
+          "coords": [
+            3.189295,
+            50.577623
+          ],
+          "category": "religious",
+          "arrive_at": "13:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Pausieren Sie an dieser kleinen, dem Schutzpatron der Jäger gewidmeten Straßenkapelle, die Einblicke in traditionelle ländliche Frömmigkeit bietet.",
+            "hu": "Álljon meg ennél a vadászok védőszentjének szentelt apró úti kápolnánál, amely bepillantást enged a hagyományos vidéki vallásosságba egy pihenő során.",
+            "ro": "Opriți-vă la această mică capelă de pe marginea drumului dedicată patronului vânătorilor, oferind o privire asupra pietății rurale tradiționale autentice.",
+            "en": "Pause at this tiny roadside chapel devoted to the patron saint of hunters, offering a glimpse into traditional rural piety, ideal for a short break."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle St. Leonhard",
+            "hu": "Szent Lénárd-kápolna",
+            "ro": "Capela Saint-Léonard",
+            "en": "Saint-Léonard Chapel"
+          },
+          "coords": [
+            3.190157,
+            50.574052
+          ],
+          "category": "religious",
+          "arrive_at": "14:09",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Finden Sie Ruhe in der Kapelle Saint-Léonard, einem bescheidenen, aber kulturell bedeutenden Landdenkmal, bei dem Sie auf die Außendetails achten sollten.",
+            "hu": "Találjon nyugalmat a Saint-Léonard kápolnában, egy szerény, mégis kulturálisan jelentős vidéki műemléknél, ahol érdemes megfigyelni a külső részleteket.",
+            "ro": "Găsiți liniște la capela Saint-Léonard, un monument rural modest dar semnificativ cultural unde ar trebui să acordați atenție detaliilor exterioare.",
+            "en": "Find serenity at the Saint-Léonard chapel, a modest yet culturally significant countryside monument where you should pay attention to the exterior details."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zuerst zur historischen Fontenoy-Pyramide, gefolgt vom Rathaus und der großen Kirche Saint-Calixte-Saint-Évrard in der Innenstadt. \n\n Mittags fahren Sie nach Norden, um die malerische Chapelle-aux-Arbres in der Natur zu entdecken. \n\n Am Nachmittag fahren Sie zur Église Saint-Pierre, einer schönen ländlichen Kirche. \n\n Beenden Sie Ihren Roadtrip an den winzigen Kapellen im Westen.",
+        "hu": "Vezessen először a Fontenoy-piramishoz, majd a központi Városházához és a hatalmas Saint-Calixte-Saint-Évrard templomhoz. \n\n Délben hajtson északra, hogy felfedezze a természetben megbúvó festői Chapelle-aux-Arbres-t. \n\n Délután vegye az irányt az Église Saint-Pierre felé, egy szép vidéki templomhoz. \n\n Fejezze be autós túráját a nyugati apró Hubertusz és Lénárd kápolnák felfedezésével.",
+        "ro": "Conduceți spre Piramida Fontenoy, urmată de Primăria centrală și de marea Biserică Saint-Calixte-Saint-Évrard. \n\n La amiază, conduceți spre nord pentru a descoperi pitoresca Chapelle-aux-Arbres în natură. \n\n După-amiaza, îndreptați-vă spre Église Saint-Pierre, o biserică rurală minunată. \n\n Încheiați-vă călătoria explorând micuțele capele Saint-Hubert și Saint-Léonard la periferie.",
+        "en": "Drive first to the historic Fontenoy Pyramid, followed by the central Cysoing Town Hall and the grand Église Saint-Calixte-Saint-Évrard. \n\n At midday, drive north to discover the picturesque Chapelle-aux-Arbres nestled in nature. \n\n In the afternoon, head towards Église Saint-Pierre, a lovely rural church. \n\n Finish your road trip exploring the tiny Saint-Hubert and Saint-Léonard chapels."
+      }
+    }
+  }
+}

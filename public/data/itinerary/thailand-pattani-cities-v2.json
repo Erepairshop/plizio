@@ -1,0 +1,520 @@
+{
+  "city_id": "thailand-pattani-cities-v2",
+  "anchor": {
+    "name": "Pattani",
+    "coords": [
+      101.25,
+      6.867778
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:37",
+      "total_km": 1.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pattani Zentralmoschee",
+            "hu": "Pattani Központi Mecset",
+            "ro": "Moscheea Centrală Pattani",
+            "en": "Pattani Central Mosque"
+          },
+          "coords": [
+            101.255503,
+            6.862014
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisite Kuppel, die westliche und islamische Architektur verbindet, aber denken Sie daran, sich bescheiden zu kleiden und die Schuhe auszuziehen.",
+            "hu": "Csodálja meg a nyugati és iszlám építészetet ötvöző lenyűgöző kupolát, de ne feledjen szerényen öltözni és levenni a cipőjét az imatermekbe való belépés előtt.",
+            "ro": "Admirați superba cupolă care îmbină arhitectura occidentală cu cea islamică, dar amintiți-vă să vă îmbrăcați decent și să vă scoateți pantofii înainte de a intra.",
+            "en": "Admire the exquisite grand dome blending Western and Islamic architecture, but remember to dress modestly and remove your shoes before entering the prayer halls."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Tani Narasamoson",
+            "hu": "Wat Tani Narasamoson",
+            "ro": "Wat Tani Narasamoson",
+            "en": "Wat Tani Narasamoson"
+          },
+          "coords": [
+            101.25375,
+            6.866934
+          ],
+          "category": "religious",
+          "arrive_at": "09:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die detaillierten buddhistischen Wandmalereien in diesem friedlichen Tempel, den Sie am besten früh am Tag besuchen, wenn die Mönche leise singen.",
+            "hu": "Fedezze fel a helyi történelmet bemutató buddhista falfestményeket ebben a békés templomban, amelyet a legjobb kora reggel meglátogatni a szerzetesek kántálása közben.",
+            "ro": "Descoperiți picturile murale budiste detaliate din acest templu pașnic, cel mai bine vizitat dimineața devreme când călugării își recită rugăciunile în liniște.",
+            "en": "Discover the intricate Buddhist murals detailing local history inside this peaceful temple, best visited early in the day when the monks are chanting softly."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Pakistani Moschee",
+            "hu": "Masjid Pakistani Mecset",
+            "ro": "Moscheea Pakistani",
+            "en": "Masjid Pakistani Mosque"
+          },
+          "coords": [
+            101.253633,
+            6.868452
+          ],
+          "category": "landmark",
+          "arrive_at": "10:41",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beachten Sie das lebendige kulturelle Erbe der pakistanischen Händler in diesem malerischen Gebäude und besuchen Sie es respektvoll außerhalb der Hauptgebetszeiten.",
+            "hu": "Figyelje meg a pakisztáni kereskedők kulturális örökségét ebben a festői épületben, és ügyeljen arra, hogy a fő imaidőkön kívül, tiszteletteljesen látogassa meg.",
+            "ro": "Observați moștenirea culturală a comercianților pakistanezi reflectată în această clădire pitorească și vizitați-o cu respect în afara orelor principale de rugăciune.",
+            "en": "Notice the vibrant cultural heritage of the Pakistani trading community reflected in this quaint building, and visit respectfully outside of main prayer times."
+          }
+        },
+        {
+          "name": {
+            "de": "Pattani City Pillar Schrein",
+            "hu": "Pattani Városi Oszlopszentély",
+            "ro": "Altarul Stâlpului Orașului Pattani",
+            "en": "Pattani City Pillar Shrine"
+          },
+          "coords": [
+            101.252522,
+            6.868777
+          ],
+          "category": "religious",
+          "arrive_at": "11:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem spirituellen Zentrum der Stadt die Ehre, wo Einheimische Blumen opfern, und kaufen Sie eine kleine Girlande, um an der Tradition teilzunehmen.",
+            "hu": "Tisztelegjen a város spirituális központjában, ahol a helyiek virágokat áldoznak, és vásároljon egy kis füzért a közeli árusoktól, hogy részt vegyen a hagyományban.",
+            "ro": "Aduceți un omagiu în acest centru spiritual unde localnicii oferă flori și cumpărați o mică ghirlandă de la vânzătorii din apropiere pentru a participa la tradiție.",
+            "en": "Pay your respects at this spiritual heart of the city where locals offer flowers, and purchase a small garland from nearby vendors to participate in the tradition."
+          }
+        },
+        {
+          "name": {
+            "de": "Chao Mae Lim Ko Niao Schrein",
+            "hu": "Chao Mae Lim Ko Niao Szentély",
+            "ro": "Altarul Chao Mae Lim Ko Niao",
+            "en": "Chao Mae Lim Ko Niao Shrine"
+          },
+          "coords": [
+            101.258203,
+            6.871533
+          ],
+          "category": "religious",
+          "arrive_at": "11:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen historischen chinesischen Schrein, der für seine bunte Göttinnenstatue bekannt ist, und besuchen Sie das lebhafte Festival in den ersten Monaten.",
+            "hu": "Fedezze fel ezt a történelmi kínai szentélyt, amely színes istennőszobráról ismert, és ha év elején érkezik, ne hagyja ki az élénk és látványos éves fesztivált.",
+            "ro": "Explorați acest altar chinezesc istoric renumit pentru statuia sa colorată a zeiței și încercați să prindeți festivalul anual vibrant dacă vizitați la începutul anului.",
+            "en": "Explore this historic Chinese shrine known for its colorful goddess statue, and try to catch the vibrant annual festival if you visit during the early months of the year."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Nikorn Chanaram",
+            "hu": "Wat Nikorn Chanaram",
+            "ro": "Wat Nikorn Chanaram",
+            "en": "Wat Nikorn Chanaram"
+          },
+          "coords": [
+            101.260184,
+            6.871104
+          ],
+          "category": "landmark",
+          "arrive_at": "12:42",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre dieses gepflegten lokalen Tempelkomplexes und nehmen Sie sich Zeit, um unter den schattigen Bäumen im Innenhof zu entspannen.",
+            "hu": "Élvezze a gyönyörűen karbantartott helyi templomkomplexum nyugodt hangulatát, és üljön le egy pillanatra csendben a központi udvar árnyékos fái alá pihenni.",
+            "ro": "Bucurați-vă de ambianța senină a acestui complex de temple locale frumos întreținut, stând o clipă în liniște sub copacii umbroși din curtea sa centrală.",
+            "en": "Enjoy the serene ambiance of this beautifully maintained local temple complex, taking a moment to sit quietly under the shaded trees in the central courtyard."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen bringt ein sanftes Erwachen in Pattanis Zentrum, beginnend mit der Pracht der Zentralmoschee. Danach erkunden wir ruhige buddhistische Tempel. Mittags zieht es uns zum City Pillar Shrine, dem spirituellen Kreuzungspunkt der Kulturen. Der Nachmittag ist dem chinesischen Erbe von Chao Mae Lim Ko Niao gewidmet. Der Abend endet mit friedlichen Reflexionen in den lokalen Wats.",
+        "hu": "A reggel lágy ébredést hoz Pattani központjában, a Központi Mecset nagyszerűségével kezdve. Ezután a közeli békés buddhista templomokat fedezzük fel. Délben a kultúrák spirituális találkozásánál, a Városi Oszlopszentélynél időzünk. A délutánt Chao Mae Lim Ko Niao élénk kínai örökségének szenteljük. Az estét a helyi templomok békés és csendes hangulata zárja.",
+        "ro": "Dimineața aduce o trezire blândă în centrul orașului Pattani, începând cu măreția Moscheii Centrale. Apoi explorăm temple budiste liniștite aflate la câțiva pași. La amiază ne îndreptăm spre intersecția spirituală a culturilor de la Altarul Stâlpului Orașului. După-amiaza este dedicată moștenirii chinezești a lui Chao Mae Lim Ko Niao. Seara se încheie cu reflecții la templele locale.",
+        "en": "Morning brings a gentle awakening to Pattani's core, starting with the grandeur of the Central Mosque. We then explore serene Buddhist temples just a short walk away. Midday draws us into the spiritual intersection of cultures at the City Pillar Shrine. Afternoon is dedicated to the vibrant Chinese heritage of Chao Mae Lim Ko Niao. The evening concludes with peaceful reflections at local wats."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:31",
+      "total_km": 5.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Wat Lak Mueang",
+            "hu": "Wat Lak Mueang",
+            "ro": "Wat Lak Mueang",
+            "en": "Wat Lak Mueang"
+          },
+          "coords": [
+            101.24399,
+            6.876791
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionellen thailändischen Architekturelemente, die die spirituellen Grenzen bewachen, und beobachten Sie respektvoll die Blattgoldopfer der Gläubigen.",
+            "hu": "Csodálja meg a spirituális határokat őrző hagyományos thai építészeti elemeket, és tisztelettel figyelje meg a hívők által elhelyezett finom aranyfüst áldozatokat.",
+            "ro": "Admirați elementele tradiționale thailandeze care păzesc granițele spirituale și observați cu respect ofrandele delicate din foiță de aur aduse de credincioși.",
+            "en": "Marvel at the traditional Thai architectural elements guarding the spiritual boundaries, and respectfully observe the delicate gold leaf offerings applied by devotees."
+          }
+        },
+        {
+          "name": {
+            "de": "Pattani City Pillar Schrein",
+            "hu": "Pattani Városi Oszlopszentély",
+            "ro": "Altarul Stâlpului Orașului Pattani",
+            "en": "Pattani City Pillar Shrine"
+          },
+          "coords": [
+            101.252522,
+            6.868777
+          ],
+          "category": "religious",
+          "arrive_at": "09:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem spirituellen Zentrum der Stadt die Ehre, wo Einheimische Blumen opfern, und kaufen Sie eine kleine Girlande, um an der Tradition teilzunehmen.",
+            "hu": "Tisztelegjen a város spirituális központjában, ahol a helyiek virágokat áldoznak, és vásároljon egy kis füzért a közeli árusoktól, hogy részt vegyen a hagyományban.",
+            "ro": "Aduceți un omagiu în acest centru spiritual unde localnicii oferă flori și cumpărați o mică ghirlandă de la vânzătorii din apropiere pentru a participa la tradiție.",
+            "en": "Pay your respects at this spiritual heart of the city where locals offer flowers, and purchase a small garland from nearby vendors to participate in the tradition."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Tani Narasamoson",
+            "hu": "Wat Tani Narasamoson",
+            "ro": "Wat Tani Narasamoson",
+            "en": "Wat Tani Narasamoson"
+          },
+          "coords": [
+            101.25375,
+            6.866934
+          ],
+          "category": "religious",
+          "arrive_at": "10:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die detaillierten buddhistischen Wandmalereien in diesem friedlichen Tempel, den Sie am besten früh am Tag besuchen, wenn die Mönche leise singen.",
+            "hu": "Fedezze fel a helyi történelmet bemutató buddhista falfestményeket ebben a békés templomban, amelyet a legjobb kora reggel meglátogatni a szerzetesek kántálása közben.",
+            "ro": "Descoperiți picturile murale budiste detaliate din acest templu pașnic, cel mai bine vizitat dimineața devreme când călugării își recită rugăciunile în liniște.",
+            "en": "Discover the intricate Buddhist murals detailing local history inside this peaceful temple, best visited early in the day when the monks are chanting softly."
+          }
+        },
+        {
+          "name": {
+            "de": "Pattani Zentralmoschee",
+            "hu": "Pattani Központi Mecset",
+            "ro": "Moscheea Centrală Pattani",
+            "en": "Pattani Central Mosque"
+          },
+          "coords": [
+            101.255503,
+            6.862014
+          ],
+          "category": "religious",
+          "arrive_at": "11:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisite Kuppel, die westliche und islamische Architektur verbindet, aber denken Sie daran, sich bescheiden zu kleiden und die Schuhe auszuziehen.",
+            "hu": "Csodálja meg a nyugati és iszlám építészetet ötvöző lenyűgöző kupolát, de ne feledjen szerényen öltözni és levenni a cipőjét az imatermekbe való belépés előtt.",
+            "ro": "Admirați superba cupolă care îmbină arhitectura occidentală cu cea islamică, dar amintiți-vă să vă îmbrăcați decent și să vă scoateți pantofii înainte de a intra.",
+            "en": "Admire the exquisite grand dome blending Western and Islamic architecture, but remember to dress modestly and remove your shoes before entering the prayer halls."
+          }
+        },
+        {
+          "name": {
+            "de": "Chao Mae Lim Ko Niao Schrein",
+            "hu": "Chao Mae Lim Ko Niao Szentély",
+            "ro": "Altarul Chao Mae Lim Ko Niao",
+            "en": "Chao Mae Lim Ko Niao Shrine"
+          },
+          "coords": [
+            101.258203,
+            6.871533
+          ],
+          "category": "religious",
+          "arrive_at": "11:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen historischen chinesischen Schrein, der für seine bunte Göttinnenstatue bekannt ist, und besuchen Sie das lebhafte Festival in den ersten Monaten.",
+            "hu": "Fedezze fel ezt a történelmi kínai szentélyt, amely színes istennőszobráról ismert, és ha év elején érkezik, ne hagyja ki az élénk és látványos éves fesztivált.",
+            "ro": "Explorați acest altar chinezesc istoric renumit pentru statuia sa colorată a zeiței și încercați să prindeți festivalul anual vibrant dacă vizitați la începutul anului.",
+            "en": "Explore this historic Chinese shrine known for its colorful goddess statue, and try to catch the vibrant annual festival if you visit during the early months of the year."
+          }
+        },
+        {
+          "name": {
+            "de": "Pattani Jaya Moschee",
+            "hu": "Pattani Jaya Mecset",
+            "ro": "Moscheea Pattani Jaya",
+            "en": "Pattani Jaya Mosque"
+          },
+          "coords": [
+            101.275901,
+            6.865417
+          ],
+          "category": "landmark",
+          "arrive_at": "12:44",
+          "stay_min": 25,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Machen Sie beeindruckende Fotos der modernen Minarette, die in den Himmel ragen, und nutzen Sie das späte Nachmittagslicht für den besten Kontrast zur weißen Fassade.",
+            "hu": "Készítsen lenyűgöző fotókat az ég felé nyúló modern minaretekről, és időzítse a fotózást késő délutánra, hogy megörökítse a ragyogó kontrasztot a fehér homlokzaton.",
+            "ro": "Faceți fotografii impresionante ale minaretelor moderne care se înalță spre cer, alegând lumina de după-amiază târziu pentru un contrast strălucitor cu fațada albă.",
+            "en": "Take impressive photos of the modern minarets stretching toward the sky, aiming for late afternoon lighting to capture the glowing contrast against the white facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Phayatani Nachtmarkt",
+            "hu": "Phayatani Éjszakai Piac",
+            "ro": "Piața de Noapte Phayatani",
+            "en": "Phayatani Night Market"
+          },
+          "coords": [
+            101.274517,
+            6.868626
+          ],
+          "category": "cultural",
+          "arrive_at": "13:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie authentisches südthailändisches Streetfood wie scharfe Currys an den belebten Ständen, aber bringen Sie kleine Scheine für einfache Transaktionen mit.",
+            "hu": "Kóstolja meg az autentikus dél-thai utcai ételeket, például a fűszeres curryket a nyüzsgő standoknál, de vigyen magával aprópénzt a zökkenőmentes vásárlás érdekében.",
+            "ro": "Gustați mâncăruri stradale autentice din sudul Thailandei, precum curry picant de la tarabele aglomerate, dar aduceți bancnote mici pentru cumpărături ușoare.",
+            "en": "Sample authentic Southern Thai street food like spicy curries from the bustling stalls, but bring small bills for easy transactions with the local market vendors."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen unsere Radtour am historischen Wat Lak Mueang und rollen zum kunstvollen City Pillar Shrine. Die morgendliche Fahrt offenbart Schichten lokaler Hingabe. Mittags verbinden wir die architektonischen Wunder der buddhistischen Tempel und der Zentralmoschee. Nachmittags fahren wir ostwärts zur modernen Pattani Jaya Moschee. Der Abend gipfelt im lebhaften Nachtmarkt.",
+        "hu": "Kerékpártúránkat a történelmi Wat Lak Mueangnál kezdjük, majd a részletgazdag Városi Oszlopszentély felé tekerünk. A délelőtt a helyi vallásosság mély rétegeit tárja fel. Délben a buddhista templomok és a lenyűgöző Központi Mecset építészeti csodáit kötjük össze. Délután keletre, a modern Pattani Jaya Mecset felé tekerünk. Az estét a nyüzsgő éjszakai piacon koronázzuk meg.",
+        "ro": "Începem turul cu bicicleta la istoricul Wat Lak Mueang, pedalând lin spre complexul Altarului Stâlpului Orașului. Dimineața dezvăluie straturile profunde ale devotamentului local. La amiază legăm minunile arhitecturale ale templelor budiste și ale Moscheii Centrale. După-amiaza, mergem spre est către moderna Moschee Pattani Jaya. Seara culminează la animata Piață de Noapte.",
+        "en": "We begin our cycling tour at the historic Wat Lak Mueang, rolling smoothly toward the intricate City Pillar Shrine. The morning pedal reveals rich layers of local devotion. Midday finds us bridging the architectural marvels of Buddhist temples and the majestic Central Mosque. In the afternoon, we ride east to the modern Pattani Jaya Mosque. Evening culminates in the lively Night Market."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:55",
+      "total_km": 9.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Somdet Phra Sinagarin Park",
+            "hu": "Somdet Phra Sinagarin Park",
+            "ro": "Parcul Somdet Phra Sinagarin",
+            "en": "Somdet Phra Sinagarin Park"
+          },
+          "coords": [
+            101.244552,
+            6.892296
+          ],
+          "category": "park",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die üppigen botanischen Gärten, die ideal für einen morgendlichen Spaziergang sind, und packen Sie Mückenschutzmittel für die Nähe der Gewässer ein.",
+            "hu": "Sétáljon végig a buja botanikus kerten, amely ideális egy pihentető reggeli sétához, és csomagoljon szúnyogriasztót, hogy kényelmesen érezze magát a vizek közelében.",
+            "ro": "Plimbați-vă prin grădinile botanice luxuriante ideale pentru o plimbare matinală și aduceți repelent de țânțari pentru a sta confortabil lângă fântânile decorative.",
+            "en": "Stroll through the lush botanical gardens ideal for a relaxing morning walk, and pack some mosquito repellent to stay comfortable near the decorative water features."
+          }
+        },
+        {
+          "name": {
+            "de": "Vogelbeobachtungszentrum Pattani",
+            "hu": "Pattani Madármegfigyelő Központ",
+            "ro": "Centrul de Observare a Păsărilor Pattani",
+            "en": "Bird Watching Center, Pattani"
+          },
+          "coords": [
+            101.230579,
+            6.882663
+          ],
+          "category": "landmark",
+          "arrive_at": "10:29",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Bringen Sie ein Fernglas mit, um heimische Zugvögel in diesem Küstennaturschutzgebiet zu beobachten, und kommen Sie früh, wenn die Vogelwelt am aktivsten ist.",
+            "hu": "Hozzon magával távcsövet, hogy megfigyelhesse a vándormadarakat ebben a tengerparti rezervátumban, és érkezzen korán, amikor a madárvilág a legaktívabb.",
+            "ro": "Aduceți binoclul pentru a observa păsările migratoare în această rezervație naturală de coastă și sosiți devreme când fauna aviară este cea mai activă în mangrove.",
+            "en": "Bring binoculars to spot native migratory birds in this quiet coastal nature reserve, and arrive early when the avian wildlife is most active among the mangroves."
+          }
+        },
+        {
+          "name": {
+            "de": "Pattani City Pillar Schrein",
+            "hu": "Pattani Városi Oszlopszentély",
+            "ro": "Altarul Stâlpului Orașului Pattani",
+            "en": "Pattani City Pillar Shrine"
+          },
+          "coords": [
+            101.252522,
+            6.868777
+          ],
+          "category": "religious",
+          "arrive_at": "11:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Erweisen Sie diesem spirituellen Zentrum der Stadt die Ehre, wo Einheimische Blumen opfern, und kaufen Sie eine kleine Girlande, um an der Tradition teilzunehmen.",
+            "hu": "Tisztelegjen a város spirituális központjában, ahol a helyiek virágokat áldoznak, és vásároljon egy kis füzért a közeli árusoktól, hogy részt vegyen a hagyományban.",
+            "ro": "Aduceți un omagiu în acest centru spiritual unde localnicii oferă flori și cumpărați o mică ghirlandă de la vânzătorii din apropiere pentru a participa la tradiție.",
+            "en": "Pay your respects at this spiritual heart of the city where locals offer flowers, and purchase a small garland from nearby vendors to participate in the tradition."
+          }
+        },
+        {
+          "name": {
+            "de": "Chao Mae Lim Ko Niao Schrein",
+            "hu": "Chao Mae Lim Ko Niao Szentély",
+            "ro": "Altarul Chao Mae Lim Ko Niao",
+            "en": "Chao Mae Lim Ko Niao Shrine"
+          },
+          "coords": [
+            101.258203,
+            6.871533
+          ],
+          "category": "religious",
+          "arrive_at": "11:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen historischen chinesischen Schrein, der für seine bunte Göttinnenstatue bekannt ist, und besuchen Sie das lebhafte Festival in den ersten Monaten.",
+            "hu": "Fedezze fel ezt a történelmi kínai szentélyt, amely színes istennőszobráról ismert, és ha év elején érkezik, ne hagyja ki az élénk és látványos éves fesztivált.",
+            "ro": "Explorați acest altar chinezesc istoric renumit pentru statuia sa colorată a zeiței și încercați să prindeți festivalul anual vibrant dacă vizitați la începutul anului.",
+            "en": "Explore this historic Chinese shrine known for its colorful goddess statue, and try to catch the vibrant annual festival if you visit during the early months of the year."
+          }
+        },
+        {
+          "name": {
+            "de": "Pattani Zentralmoschee",
+            "hu": "Pattani Központi Mecset",
+            "ro": "Moscheea Centrală Pattani",
+            "en": "Pattani Central Mosque"
+          },
+          "coords": [
+            101.255503,
+            6.862014
+          ],
+          "category": "religious",
+          "arrive_at": "12:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisite Kuppel, die westliche und islamische Architektur verbindet, aber denken Sie daran, sich bescheiden zu kleiden und die Schuhe auszuziehen.",
+            "hu": "Csodálja meg a nyugati és iszlám építészetet ötvöző lenyűgöző kupolát, de ne feledjen szerényen öltözni és levenni a cipőjét az imatermekbe való belépés előtt.",
+            "ro": "Admirați superba cupolă care îmbină arhitectura occidentală cu cea islamică, dar amintiți-vă să vă îmbrăcați decent și să vă scoateți pantofii înainte de a intra.",
+            "en": "Admire the exquisite grand dome blending Western and Islamic architecture, but remember to dress modestly and remove your shoes before entering the prayer halls."
+          }
+        },
+        {
+          "name": {
+            "de": "Pattani Jaya Moschee",
+            "hu": "Pattani Jaya Mecset",
+            "ro": "Moscheea Pattani Jaya",
+            "en": "Pattani Jaya Mosque"
+          },
+          "coords": [
+            101.275901,
+            6.865417
+          ],
+          "category": "landmark",
+          "arrive_at": "13:09",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Machen Sie beeindruckende Fotos der modernen Minarette, die in den Himmel ragen, und nutzen Sie das späte Nachmittagslicht für den besten Kontrast zur weißen Fassade.",
+            "hu": "Készítsen lenyűgöző fotókat az ég felé nyúló modern minaretekről, és időzítse a fotózást késő délutánra, hogy megörökítse a ragyogó kontrasztot a fehér homlokzaton.",
+            "ro": "Faceți fotografii impresionante ale minaretelor moderne care se înalță spre cer, alegând lumina de după-amiază târziu pentru un contrast strălucitor cu fațada albă.",
+            "en": "Take impressive photos of the modern minarets stretching toward the sky, aiming for late afternoon lighting to capture the glowing contrast against the white facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Phayatani Nachtmarkt",
+            "hu": "Phayatani Éjszakai Piac",
+            "ro": "Piața de Noapte Phayatani",
+            "en": "Phayatani Night Market"
+          },
+          "coords": [
+            101.274517,
+            6.868626
+          ],
+          "category": "cultural",
+          "arrive_at": "13:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Probieren Sie authentisches südthailändisches Streetfood wie scharfe Currys an den belebten Ständen, aber bringen Sie kleine Scheine für einfache Transaktionen mit.",
+            "hu": "Kóstolja meg az autentikus dél-thai utcai ételeket, például a fűszeres curryket a nyüzsgő standoknál, de vigyen magával aprópénzt a zökkenőmentes vásárlás érdekében.",
+            "ro": "Gustați mâncăruri stradale autentice din sudul Thailandei, precum curry picant de la tarabele aglomerate, dar aduceți bancnote mici pentru cumpărături ușoare.",
+            "en": "Sample authentic Southern Thai street food like spicy curries from the bustling stalls, but bring small bills for easy transactions with the local market vendors."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine malerische Fahrt beginnt unseren Tag in der üppigen Weite des Somdet Phra Sinagarin Parks, einer wahren urbanen Oase. Kurz darauf navigieren wir zur Küste, um in ruhiger Natur Vögel zu beobachten. Die Mittagspause eignet sich perfekt für das Zentrum um die ikonischen Moscheen. Der Nachmittag führt zum reichen chinesischen Schrein. Der Abend endet am bunten Phayatani Nachtmarkt.",
+        "hu": "A festői autózás a Somdet Phra Sinagarin Park buja zöldjében, egy igazi városi oázisban indítja a napot. Nem sokkal ezután a part felé vesszük az irányt, hogy a csendes természetben madarakat figyeljünk. A dél tökéletes a Városi Oszlop és az ikonikus mecsetek körüli központ felfedezésére. Délután a kulturálisan gazdag kínai szentély következik. Az este a nyüzsgő Phayatani Éjszakai Piacon ér véget.",
+        "ro": "O plimbare pitorească ne începe ziua în întinderea luxuriantă a Parcului Somdet Phra Sinagarin, o adevărată oază urbană. La scurt timp, ne îndreptăm spre coastă pentru a observa păsări în natura liniștită. Amiaza este perfectă pentru a explora centrul aglomerat din jurul moscheilor iconice. După-amiaza se mută la altarul chinezesc bogat cultural. Seara se încheie la vibranta Piață Phayatani.",
+        "en": "A scenic drive starts our day in the lush expanse of Somdet Phra Sinagarin Park, a true urban oasis. Soon after, we navigate to the coast for bird watching amidst tranquil nature. Midday is perfect for exploring the bustling center around the City Pillar and iconic mosques. Afternoon shifts to the culturally rich Chinese shrine. Evening arrives at the vibrant Phayatani Night Market."
+      }
+    }
+  }
+}

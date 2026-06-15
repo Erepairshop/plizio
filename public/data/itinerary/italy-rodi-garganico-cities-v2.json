@@ -1,0 +1,497 @@
+{
+  "city_id": "italy-rodi-garganico-cities-v2",
+  "anchor": {
+    "name": "Rodi Garganico",
+    "coords": [
+      15.88105,
+      41.92874
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:26",
+      "total_km": 1.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Comune di Rodi Garganico",
+            "hu": "Comune di Rodi Garganico",
+            "ro": "Comune di Rodi Garganico",
+            "en": "Comune di Rodi Garganico"
+          },
+          "coords": [
+            15.881241,
+            41.928026
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die charmante Architektur des historischen Rathauses, das die lokale Verwaltung verankert, und kommen Sie früh, um den Verwaltungsrummel zu meiden.",
+            "hu": "Csodálja meg a történelmi városháza bájos építészetét, amely a helyi közigazgatás központja, és érkezzen korán, hogy elkerülje a déli hivatali nyüzsgést.",
+            "ro": "Admirați arhitectura fermecătoare a primăriei istorice, centrul administrației locale, și veniți dimineața devreme pentru a evita aglomerația orelor de vârf.",
+            "en": "Admire the historic town hall's charming architecture that anchors the local governance, and try to visit early to avoid the bustling midday administrative crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Statua di Padre Pio",
+            "hu": "Statua di Padre Pio",
+            "ro": "Statua di Padre Pio",
+            "en": "Statua di Padre Pio"
+          },
+          "coords": [
+            15.882596,
+            41.928097
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser verehrten Bronzestatue des beliebten Heiligen für einen Moment der stillen Reflexion und beachten Sie die feinen Details der Skulptur.",
+            "hu": "Álljon meg egy csendes pillanatra ennél a szeretett szentnek szentelt, tisztelt bronzszobornál, és figyelje meg a szobor aprólékos, finom részleteit sétája során.",
+            "ro": "Opriți-vă la această statuie venerată de bronz dedicată sfântului iubit, luând un moment de reflecție și observând detaliile complicate ale sculpturii stradale.",
+            "en": "Pause at this revered bronze statue dedicated to the beloved saint, taking a moment for quiet reflection while noting the intricate details of the sculpture."
+          }
+        },
+        {
+          "name": {
+            "de": "Arena Via Varano",
+            "hu": "Arena Via Varano",
+            "ro": "Arena Via Varano",
+            "en": "Arena Via Varano"
+          },
+          "coords": [
+            15.879883,
+            41.929203
+          ],
+          "category": "cultural",
+          "arrive_at": "10:51",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Erleben Sie den kulturellen Herzschlag von Rodi Garganico an diesem Open-Air-Veranstaltungsort und prüfen Sie den lokalen Kalender für Abendvorstellungen.",
+            "hu": "Tapasztalja meg Rodi Garganico vibráló kulturális lüktetését ezen a szabadtéri helyszínen, de előzetesen mindenképp ellenőrizze az esti előadások menetrendjét.",
+            "ro": "Simțiți pulsul cultural vibrant al orașului în acest spațiu în aer liber, având grijă să verificați programul local de evenimente pentru spectacole de seară.",
+            "en": "Experience the vibrant cultural heartbeat of Rodi Garganico in this open-air venue, making sure to check the local event schedule for evening performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Ponente Rodi",
+            "hu": "Lido Ponente Rodi",
+            "ro": "Lido Ponente Rodi",
+            "en": "Lido Ponente Rodi"
+          },
+          "coords": [
+            15.877267,
+            41.928902
+          ],
+          "category": "recreational",
+          "arrive_at": "11:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Entspannen Sie am feinen goldenen Sand dieses beliebten Weststrandes und mieten Sie eine bequeme Sonnenliege in Wassernähe für die frische Meeresbrise.",
+            "hu": "Pihenjen ennek a népszerű nyugati strandnak a finom aranyhomokján, és béreljen egy kényelmes napágyat a víz közelében, hogy élvezze a frissítő tengeri szellőt.",
+            "ro": "Relaxați-vă pe nisipul fin și auriu al acestei plaje populare și închiriați un șezlong confortabil lângă apă pentru a vă bucura de briza proaspătă a mării.",
+            "en": "Relax on the fine golden sands of this popular western beach, and rent a comfortable sunbed near the water to enjoy the refreshing coastal Mediterranean breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Ancora",
+            "hu": "Ancora",
+            "ro": "Ancora",
+            "en": "Ancora"
+          },
+          "coords": [
+            15.888117,
+            41.929625
+          ],
+          "category": "historical",
+          "arrive_at": "13:24",
+          "stay_min": 15,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.91,
+          "tip_5lang": {
+            "de": "Betrachten Sie diesen massiven historischen Anker als maritimes Denkmal, der ein hervorragendes Fotomotiv für die tiefe Verbindung der Stadt zum Meer bietet.",
+            "hu": "Vizsgálja meg ezt a tengerészeti emlékműként kiállított, hatalmas történelmi horgonyt, amely kiváló fotóhelyszín a város tengerhez fűződő mély kapcsolatának megörökítésére.",
+            "ro": "Examinați această ancoră istorică masivă, un monument maritim ce servește drept loc excelent pentru fotografii care surprind legătura profundă a orașului cu marea.",
+            "en": "Inspect this massive historic anchor displayed as a maritime monument, which serves as an excellent photo spot capturing the town's deep connection to the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Nautilus",
+            "hu": "Lido Nautilus",
+            "ro": "Lido Nautilus",
+            "en": "Lido Nautilus"
+          },
+          "coords": [
+            15.889592,
+            41.929612
+          ],
+          "category": "recreational",
+          "arrive_at": "13:41",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Genießen Sie die Sonne in diesem lebhaften Resort mit hervorragenden Annehmlichkeiten, wo ein schneller Espresso an der Strandbar Ihren Tag perfekt belebt.",
+            "hu": "Élvezze a napsütést ezen a kiváló szolgáltatásairól ismert, nyüzsgő strandon, ahol egy gyors eszpresszó a parti bárban tökéletesen feldobja a nap hátralévő részét.",
+            "ro": "Bucurați-vă de soare la această plajă plină de viață, cu facilități excelente, unde un espresso rapid la barul de pe plajă vă va energiza perfect ziua.",
+            "en": "Soak up the sun at this lively resort area known for its excellent amenities, where grabbing a quick espresso at the beach bar will perfectly energize your day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im historischen Zentrum, um die klassische Architektur zu bewundern und lokale Traditionen zu ehren. Mittags erreichen Sie die lebhafte Kulturarena, bevor Sie an die Sandstrände des Westens gehen. Den Nachmittag verbringen Sie in der entspannenden Atmosphäre der Küste mit frischer Meeresbrise. Der Abend endet mit einem malerischen maritimen Spaziergang.",
+        "hu": "A reggel a történelmi központban kezdődik, megcsodálva a klasszikus építészetet és tisztelegve a hagyományok előtt. A dél a vibráló kulturális arénához vezet, mielőtt a nyugati homokos partok felé venné az irányt. A délutánt a tengerpart pihentető légkörének és a tengeri szellőnek szentelheti. Az estét egy festői parti séta zárja az ősi horgony és a kényelmes strandok mentén.",
+        "ro": "Dimineața începe în centrul istoric, admirând arhitectura clasică și onorând tradițiile locale. La prânz ajungeți la arena culturală vibrantă, înainte de a vă îndrepta spre plajele vestice de nisip. După-amiaza este dedicată atmosferei relaxante a coastei, simțind briza proaspătă. Seara se încheie cu o plimbare maritimă pitorească pe lângă ancora antică și stațiunile de pe coastă.",
+        "en": "Morning starts in the historic center, admiring the classical architecture and honoring local traditions. Midday brings you to the vibrant cultural arena before heading to the sandy shores of the west. The afternoon is spent enjoying the relaxing atmosphere of the coast, feeling the fresh sea breeze. Evening concludes with a picturesque maritime stroll by the ancient anchor and coastal resorts."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:39",
+      "total_km": 4.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Comune di Rodi Garganico",
+            "hu": "Comune di Rodi Garganico",
+            "ro": "Comune di Rodi Garganico",
+            "en": "Comune di Rodi Garganico"
+          },
+          "coords": [
+            15.881241,
+            41.928026
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die charmante Architektur des historischen Rathauses, das die lokale Verwaltung verankert, und kommen Sie früh, um den Verwaltungsrummel zu meiden.",
+            "hu": "Csodálja meg a történelmi városháza bájos építészetét, amely a helyi közigazgatás központja, és érkezzen korán, hogy elkerülje a déli hivatali nyüzsgést.",
+            "ro": "Admirați arhitectura fermecătoare a primăriei istorice, centrul administrației locale, și veniți dimineața devreme pentru a evita aglomerația orelor de vârf.",
+            "en": "Admire the historic town hall's charming architecture that anchors the local governance, and try to visit early to avoid the bustling midday administrative crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Statua di Padre Pio",
+            "hu": "Statua di Padre Pio",
+            "ro": "Statua di Padre Pio",
+            "en": "Statua di Padre Pio"
+          },
+          "coords": [
+            15.882596,
+            41.928097
+          ],
+          "category": "historical",
+          "arrive_at": "10:31",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser verehrten Bronzestatue des beliebten Heiligen für einen Moment der stillen Reflexion und beachten Sie die feinen Details der Skulptur.",
+            "hu": "Álljon meg egy csendes pillanatra ennél a szeretett szentnek szentelt, tisztelt bronzszobornál, és figyelje meg a szobor aprólékos, finom részleteit sétája során.",
+            "ro": "Opriți-vă la această statuie venerată de bronz dedicată sfântului iubit, luând un moment de reflecție și observând detaliile complicate ale sculpturii stradale.",
+            "en": "Pause at this revered bronze statue dedicated to the beloved saint, taking a moment for quiet reflection while noting the intricate details of the sculpture."
+          }
+        },
+        {
+          "name": {
+            "de": "Arena Via Varano",
+            "hu": "Arena Via Varano",
+            "ro": "Arena Via Varano",
+            "en": "Arena Via Varano"
+          },
+          "coords": [
+            15.879883,
+            41.929203
+          ],
+          "category": "cultural",
+          "arrive_at": "10:48",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Erleben Sie den kulturellen Herzschlag von Rodi Garganico an diesem Open-Air-Veranstaltungsort und prüfen Sie den lokalen Kalender für Abendvorstellungen.",
+            "hu": "Tapasztalja meg Rodi Garganico vibráló kulturális lüktetését ezen a szabadtéri helyszínen, de előzetesen mindenképp ellenőrizze az esti előadások menetrendjét.",
+            "ro": "Simțiți pulsul cultural vibrant al orașului în acest spațiu în aer liber, având grijă să verificați programul local de evenimente pentru spectacole de seară.",
+            "en": "Experience the vibrant cultural heartbeat of Rodi Garganico in this open-air venue, making sure to check the local event schedule for evening performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Ponente Rodi",
+            "hu": "Lido Ponente Rodi",
+            "ro": "Lido Ponente Rodi",
+            "en": "Lido Ponente Rodi"
+          },
+          "coords": [
+            15.877267,
+            41.928902
+          ],
+          "category": "recreational",
+          "arrive_at": "11:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Entspannen Sie am feinen goldenen Sand dieses beliebten Weststrandes und mieten Sie eine bequeme Sonnenliege in Wassernähe für die frische Meeresbrise.",
+            "hu": "Pihenjen ennek a népszerű nyugati strandnak a finom aranyhomokján, és béreljen egy kényelmes napágyat a víz közelében, hogy élvezze a frissítő tengeri szellőt.",
+            "ro": "Relaxați-vă pe nisipul fin și auriu al acestei plaje populare și închiriați un șezlong confortabil lângă apă pentru a vă bucura de briza proaspătă a mării.",
+            "en": "Relax on the fine golden sands of this popular western beach, and rent a comfortable sunbed near the water to enjoy the refreshing coastal Mediterranean breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia Due Pini",
+            "hu": "Spiaggia Due Pini",
+            "ro": "Spiaggia Due Pini",
+            "en": "Spiaggia Due Pini"
+          },
+          "coords": [
+            15.866654,
+            41.927406
+          ],
+          "category": "recreational",
+          "arrive_at": "13:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.89,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese malerische, von Kiefern gesäumte Küste, die eine ruhigere Atmosphäre bietet, perfekt für einen Spaziergang vor der Nachmittagshitze.",
+            "hu": "Fedezze fel ezt a festői, fenyőfákkal övezett partot, amely nyugodtabb légkört kínál, és tökéletes egy reggeli sétához, ha még a délutáni hőség előtt érkezik.",
+            "ro": "Descoperiți această coastă pitorească încadrată de pini, oferind o atmosferă liniștită, perfectă pentru o plimbare matinală înainte de căldura după-amiezii.",
+            "en": "Discover this scenic shoreline framed by iconic pine trees, offering a quieter atmosphere perfect for a morning stroll if you arrive before the afternoon heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Ancora",
+            "hu": "Ancora",
+            "ro": "Ancora",
+            "en": "Ancora"
+          },
+          "coords": [
+            15.888117,
+            41.929625
+          ],
+          "category": "historical",
+          "arrive_at": "14:34",
+          "stay_min": 15,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.81,
+          "tip_5lang": {
+            "de": "Betrachten Sie diesen massiven historischen Anker als maritimes Denkmal, der ein hervorragendes Fotomotiv für die tiefe Verbindung der Stadt zum Meer bietet.",
+            "hu": "Vizsgálja meg ezt a tengerészeti emlékműként kiállított, hatalmas történelmi horgonyt, amely kiváló fotóhelyszín a város tengerhez fűződő mély kapcsolatának megörökítésére.",
+            "ro": "Examinați această ancoră istorică masivă, un monument maritim ce servește drept loc excelent pentru fotografii care surprind legătura profundă a orașului cu marea.",
+            "en": "Inspect this massive historic anchor displayed as a maritime monument, which serves as an excellent photo spot capturing the town's deep connection to the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Levante",
+            "hu": "Spiaggia di Levante",
+            "ro": "Spiaggia di Levante",
+            "en": "Spiaggia di Levante"
+          },
+          "coords": [
+            15.899401,
+            41.930727
+          ],
+          "category": "recreational",
+          "arrive_at": "14:54",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise an diesem weitläufigen Oststrand mit sanften Wellen und beobachten Sie den Horizont für spektakuläre Farben, wenn die Sonne untergeht.",
+            "hu": "Zárja utazását ezen a szelíd hullámairól ismert, tágas keleti strandon, és tartsa a szemét a horizonton, ahogy a naplemente csodálatos színekbe öltözteti a tájat.",
+            "ro": "Încheiați-vă călătoria pe această plajă estică vastă, cu valuri blânde, privind orizontul pentru nuanțe spectaculoase și colorate odată cu apusul soarelui.",
+            "en": "End your journey on this expansive eastern beach known for gentle waves, keeping an eye on the horizon for spectacular colorful hues as the sun starts to set."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens durch das charmante Gemeindezentrum und nehmen Sie die historische Atmosphäre in sich auf, bevor Sie an der heiligen Bronzestatue halten. Mittags führt Sie die Fahrt zu den weiten Weststränden für etwas Entspannung am Meer. Nachmittags radeln Sie weiter entlang der Küste zu den kieferngesäumten Ufern. Der Abend klingt bei den maritimen Denkmälern der Stadt gemütlich aus.",
+        "hu": "Tekerjen át a reggelen a bájos központból indulva, magába szívva a történelmi hangulatot, mielőtt megáll a szent bronzszobornál. Délre a kerékpározás a tágas nyugati strandokhoz vezet egy kis tengerparti pihenésre. A délutáni túra tovább visz a partvonal mentén a fenyőfákkal szegélyezett ikonikus partszakaszokhoz. Az este a város tengerészeti emlékművei mellett lassan a nyugalomba hajlik.",
+        "ro": "Pedalați dimineața pornind din centrul municipal fermecător, absorbind atmosfera istorică înainte de o scurtă oprire la statuia de bronz. La prânz, plimbarea vă duce la vastele plaje vestice pentru o relaxare binemeritată la malul mării. Ciclismul de după-amiază vă conduce de-a lungul coastei spre țărmurile mărginite de pini. Seara se încheie trecând pe lângă monumentele maritime.",
+        "en": "Pedal through the morning starting at the charming municipal center, taking in the historical vibe before a quick stop at the sacred bronze statue. By midday, your ride takes you to the expansive western beaches for some serious seaside relaxation. Afternoon cycling leads you further along the coastline to the iconic pine-fringed shores. Evening winds down past the town's maritime monuments."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:22",
+      "total_km": 2.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Spiaggia Due Pini",
+            "hu": "Spiaggia Due Pini",
+            "ro": "Spiaggia Due Pini",
+            "en": "Spiaggia Due Pini"
+          },
+          "coords": [
+            15.866654,
+            41.927406
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese malerische, von Kiefern gesäumte Küste, die eine ruhigere Atmosphäre bietet, perfekt für einen Spaziergang vor der Nachmittagshitze.",
+            "hu": "Fedezze fel ezt a festői, fenyőfákkal övezett partot, amely nyugodtabb légkört kínál, és tökéletes egy reggeli sétához, ha még a délutáni hőség előtt érkezik.",
+            "ro": "Descoperiți această coastă pitorească încadrată de pini, oferind o atmosferă liniștită, perfectă pentru o plimbare matinală înainte de căldura după-amiezii.",
+            "en": "Discover this scenic shoreline framed by iconic pine trees, offering a quieter atmosphere perfect for a morning stroll if you arrive before the afternoon heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Ponente Rodi",
+            "hu": "Lido Ponente Rodi",
+            "ro": "Lido Ponente Rodi",
+            "en": "Lido Ponente Rodi"
+          },
+          "coords": [
+            15.877267,
+            41.928902
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.89,
+          "tip_5lang": {
+            "de": "Entspannen Sie am feinen goldenen Sand dieses beliebten Weststrandes und mieten Sie eine bequeme Sonnenliege in Wassernähe für die frische Meeresbrise.",
+            "hu": "Pihenjen ennek a népszerű nyugati strandnak a finom aranyhomokján, és béreljen egy kényelmes napágyat a víz közelében, hogy élvezze a frissítő tengeri szellőt.",
+            "ro": "Relaxați-vă pe nisipul fin și auriu al acestei plaje populare și închiriați un șezlong confortabil lângă apă pentru a vă bucura de briza proaspătă a mării.",
+            "en": "Relax on the fine golden sands of this popular western beach, and rent a comfortable sunbed near the water to enjoy the refreshing coastal Mediterranean breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Comune di Rodi Garganico",
+            "hu": "Comune di Rodi Garganico",
+            "ro": "Comune di Rodi Garganico",
+            "en": "Comune di Rodi Garganico"
+          },
+          "coords": [
+            15.881241,
+            41.928026
+          ],
+          "category": "historical",
+          "arrive_at": "11:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Bewundern Sie die charmante Architektur des historischen Rathauses, das die lokale Verwaltung verankert, und kommen Sie früh, um den Verwaltungsrummel zu meiden.",
+            "hu": "Csodálja meg a történelmi városháza bájos építészetét, amely a helyi közigazgatás központja, és érkezzen korán, hogy elkerülje a déli hivatali nyüzsgést.",
+            "ro": "Admirați arhitectura fermecătoare a primăriei istorice, centrul administrației locale, și veniți dimineața devreme pentru a evita aglomerația orelor de vârf.",
+            "en": "Admire the historic town hall's charming architecture that anchors the local governance, and try to visit early to avoid the bustling midday administrative crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Statua di Padre Pio",
+            "hu": "Statua di Padre Pio",
+            "ro": "Statua di Padre Pio",
+            "en": "Statua di Padre Pio"
+          },
+          "coords": [
+            15.882596,
+            41.928097
+          ],
+          "category": "historical",
+          "arrive_at": "13:04",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser verehrten Bronzestatue des beliebten Heiligen für einen Moment der stillen Reflexion und beachten Sie die feinen Details der Skulptur.",
+            "hu": "Álljon meg egy csendes pillanatra ennél a szeretett szentnek szentelt, tisztelt bronzszobornál, és figyelje meg a szobor aprólékos, finom részleteit sétája során.",
+            "ro": "Opriți-vă la această statuie venerată de bronz dedicată sfântului iubit, luând un moment de reflecție și observând detaliile complicate ale sculpturii stradale.",
+            "en": "Pause at this revered bronze statue dedicated to the beloved saint, taking a moment for quiet reflection while noting the intricate details of the sculpture."
+          }
+        },
+        {
+          "name": {
+            "de": "Ancora",
+            "hu": "Ancora",
+            "ro": "Ancora",
+            "en": "Ancora"
+          },
+          "coords": [
+            15.888117,
+            41.929625
+          ],
+          "category": "historical",
+          "arrive_at": "13:20",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Betrachten Sie diesen massiven historischen Anker als maritimes Denkmal, der ein hervorragendes Fotomotiv für die tiefe Verbindung der Stadt zum Meer bietet.",
+            "hu": "Vizsgálja meg ezt a tengerészeti emlékműként kiállított, hatalmas történelmi horgonyt, amely kiváló fotóhelyszín a város tengerhez fűződő mély kapcsolatának megörökítésére.",
+            "ro": "Examinați această ancoră istorică masivă, un monument maritim ce servește drept loc excelent pentru fotografii care surprind legătura profundă a orașului cu marea.",
+            "en": "Inspect this massive historic anchor displayed as a maritime monument, which serves as an excellent photo spot capturing the town's deep connection to the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Levante",
+            "hu": "Spiaggia di Levante",
+            "ro": "Spiaggia di Levante",
+            "en": "Spiaggia di Levante"
+          },
+          "coords": [
+            15.899401,
+            41.930727
+          ],
+          "category": "recreational",
+          "arrive_at": "13:37",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise an diesem weitläufigen Oststrand mit sanften Wellen und beobachten Sie den Horizont für spektakuläre Farben, wenn die Sonne untergeht.",
+            "hu": "Zárja utazását ezen a szelíd hullámairól ismert, tágas keleti strandon, és tartsa a szemét a horizonton, ahogy a naplemente csodálatos színekbe öltözteti a tájat.",
+            "ro": "Încheiați-vă călătoria pe această plajă estică vastă, cu valuri blânde, privind orizontul pentru nuanțe spectaculoase și colorate odată cu apusul soarelui.",
+            "en": "End your journey on this expansive eastern beach known for gentle waves, keeping an eye on the horizon for spectacular colorful hues as the sun starts to set."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre malerische Fahrt beginnt bei den westlichen Kiefern und bietet einen ruhigen Start in den Tag am glitzernden Wasser. Mittags fahren Sie ins Herz der Stadt, um ihre Geschichte und lebhaften kulturellen Freiräume zu erkunden. Am Nachmittag navigieren Sie leicht zwischen bedeutenden lokalen Statuen und majestätischen Ankern. Der Abend endet an den Oststränden mit Blick auf die goldene Stunde.",
+        "hu": "A festői autózás a nyugati fenyőknél kezdődik, nyugodt napkezdést kínálva a csillogó víz mellett. A dél a város szívébe visz, hogy felfedezze annak történelmét és vibráló kulturális tereit. Délután könnyedén navigálhat a jelentős helyi szobrok és fenséges horgonyok között. Az este a keleti strandokon ér véget, gyönyörködve az arany óra varázslatos és színpompás kilátásában.",
+        "ro": "Plimbarea scenică cu mașina începe la pinii din vest, oferind un start liniștit al zilei lângă apele sclipitoare. Prânzul vă aduce în inima orașului pentru a explora istoria sa și spațiile culturale deschise. După-amiaza, navigați ușor între statuile locale semnificative și ancorele maiestuoase. Seara se termină pe plajele estice, cu vederi absolut minunate în timpul orei de aur.",
+        "en": "Your scenic drive begins by the western pines, offering a tranquil start to the day by the sparkling waters. Midday brings you into the heart of town to explore its administrative history and vibrant cultural open spaces. In the afternoon, you easily navigate between significant local statues and majestic anchors. The evening finishes on the eastern beaches with golden hour views."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "france-ile-d-ouessant-cities-v2",
+  "anchor": {
+    "name": "Île d'Ouessant",
+    "coords": [
+      -5.0975,
+      48.455278
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:29",
+      "total_km": 2.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Pol-Aurélien",
+            "hu": "Église Saint-Pol-Aurélien",
+            "ro": "Église Saint-Pol-Aurélien",
+            "en": "Église Saint-Pol-Aurélien"
+          },
+          "coords": [
+            -5.09594,
+            48.45739
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den markanten Turm dieser Inselkirche, der Seeleuten als Leuchtfeuer dient, und achten Sie im Inneren auf das einzigartige Holzgewölbe.",
+            "hu": "Csodálja meg e szigeti templom jellegzetes tornyát, amely egykor világítótoronyként szolgált a tengerészeknek, és figyelje meg a belső tér egyedi faboltozatát.",
+            "ro": "Admirați turnul impresionant al acestei biserici insulare care servește drept reper pentru marinari și observați bolta unică de lemn din interior.",
+            "en": "Admire the striking tower of this island church that stands as a beacon for sailors, and take a moment to notice the unique wooden vaulting inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Shingle Beach of Goubars",
+            "hu": "Shingle Beach of Goubars",
+            "ro": "Shingle Beach of Goubars",
+            "en": "Shingle Beach of Goubars"
+          },
+          "coords": [
+            -5.095581,
+            48.454361
+          ],
+          "category": "recreational",
+          "arrive_at": "09:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.34,
+          "tip_5lang": {
+            "de": "Genießen Sie die raue Küstenschönheit an diesem vom Atlantik geformten Kieselstrand, aber tragen Sie festes Schuhwerk, wenn Sie an der unebenen Küste entlang spazieren.",
+            "hu": "Élvezze a nyers tengerparti szépséget ezen az atlanti viharok által formált kavicsos strandon, de viseljen erős cipőt az egyenetlen parton való sétához.",
+            "ro": "Bucurați-vă de frumusețea brută a coastei pe această plajă cu pietriș modelată de furtuni, dar purtați încălțăminte solidă pentru a vă plimba pe țărmul denivelat.",
+            "en": "Enjoy the raw coastal beauty at this pebble beach shaped by Atlantic storms, but wear sturdy shoes if you plan to walk along the uneven shingle shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Korz",
+            "hu": "Plage de Korz",
+            "ro": "Plage de Korz",
+            "en": "Plage de Korz"
+          },
+          "coords": [
+            -5.092345,
+            48.45207
+          ],
+          "category": "recreational",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem feinen Sand dieser geschützten Bucht mit relativ ruhigem Wasser, die bei Ebbe ein idealer Ort für ein erfrischendes Bad ist.",
+            "hu": "Pihenjen meg ennek a védett öbölnek a finom homokján, amely viszonylag nyugodt vizet kínál, így ideális helyszín egy gyors frissítő fürdőzésre apálykor.",
+            "ro": "Relaxați-vă pe nisipul fin al acestui golf adăpostit cu ape relativ calme, fiind un loc ideal pentru o baie scurtă și revigorantă în timpul refluxului.",
+            "en": "Relax on the fine sand of this sheltered cove which offers relatively calm waters, making it an ideal spot for a quick refreshing dip during low tide."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin de Poulféas",
+            "hu": "Moulin de Poulféas",
+            "ro": "Moulin de Poulféas",
+            "en": "Moulin de Poulféas"
+          },
+          "coords": [
+            -5.107378,
+            48.459146
+          ],
+          "category": "landmark",
+          "arrive_at": "12:50",
+          "stay_min": 25,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.35,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Ruinen dieser traditionellen Windmühle, die die landwirtschaftliche Vergangenheit der Insel unterstreicht, und bringen Sie eine Kamera für den Panoramablick auf die Heidelandschaft mit.",
+            "hu": "Fedezze fel e hagyományos szélmalom romjait, amely a sziget mezőgazdasági múltját idézi, és hozzon magával fényképezőgépet a pusztai panorámához.",
+            "ro": "Descoperiți ruinele acestei mori de vânt tradiționale care evidențiază trecutul agricol al insulei și aduceți o cameră pentru vederi panoramice ale ținutului sălbatic.",
+            "en": "Discover the ruins of this traditional windmill that highlights the island's agricultural past, and bring a camera for panoramic views of the heathland."
+          }
+        },
+        {
+          "name": {
+            "de": "Écomusée d’Ouessant",
+            "hu": "Écomusée d’Ouessant",
+            "ro": "Écomusée d’Ouessant",
+            "en": "Écomusée d’Ouessant"
+          },
+          "coords": [
+            -5.110431,
+            48.46005
+          ],
+          "category": "museum",
+          "arrive_at": "13:19",
+          "stay_min": 130,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Machen Sie in diesen traditionellen Niou-Häusern eine Zeitreise, um den rauen Insellebensstil zu verstehen, und stöbern Sie im kleinen Laden nach lokalem Kunsthandwerk.",
+            "hu": "Lépjen vissza az időben ezekben a hagyományos Niou házakban, hogy megértse a zord szigeti életmódot, és nézzen be a kis boltba autentikus helyi kézműves termékekért.",
+            "ro": "Întoarceți-vă în timp în aceste case tradiționale Niou pentru a înțelege stilul de viață aspru al insulei și verificați micul magazin pentru meșteșuguri locale autentice.",
+            "en": "Step back in time within these traditional Niou houses to understand the harsh island lifestyle, and check the small shop for authentic local crafts."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt im charmanten Zentrum von Lampaul, wo die Hauptkirche eine friedliche Atmosphäre schafft. Ein Spaziergang nach Süden führt Sie schnell zur rauen Küste. \n Mittags bewundern Sie den Kontrast zwischen dem Kieselstrand von Goubars und den weiten Sandflächen des Plage de Korz. Die Meeresbrise ist der perfekte Soundtrack. \n Am Nachmittag wendet sich der Weg leicht landeinwärts und gibt die steinernen Überreste einer alten Windmühle preis, ein Symbol der einstigen Selbstversorgung. \n Sie beenden den Tag mit einem tiefen Einblick in das lokale Erbe im Écomusée. Dieses authentische Stück Inselleben bietet den perfekten Abschluss Ihrer Reise.",
+        "hu": "A reggel Lampaul bájos szívében indul, ahol a sziget főtemploma békés alaphangot ad a napnak. Dél felé sétálva hamarosan eléri a zord partszakaszt. \n A delet a Goubars kavicsos strandja és a Plage de Korz homokos területei közötti kontraszt csodálásával töltheti. Az óceáni szellő tökéletes természetes hangsávot biztosít. \n Délután az ösvény enyhén a szárazföld belseje felé kanyarodik, felfedve egy régi szélmalom kőmaradványait, amely a sziget önellátó múltjának szimbóluma. \n A napot az Écomusée gazdag helyi örökségének megismerésével zárja. A szigeti élet ezen hiteles szelete tökéletes befejezése a tengerparti utazásnak.",
+        "ro": "Dimineața începe în inima fermecătoare a orașului Lampaul, unde biserica principală a insulei stabilește un ton pașnic. Plimbându-vă spre sud, veți ajunge curând pe coasta accidentată. \n La prânz veți admira contrastul dintre plaja cu pietriș Goubars și întinderile de nisip de la Plage de Korz. Briza oceanului oferă coloana sonoră naturală perfectă. \n După-amiaza, poteca se întoarce ușor spre interior pentru a dezvălui rămășițele de piatră ale unei vechi mori de vânt, un simbol al trecutului independent al insulei. \n Încheiați ziua explorând moștenirea locală bogată la Écomusée. Această felie autentică a vieții insulare oferă o reflecție finală perfectă.",
+        "en": "Your morning begins in the charming heart of Lampaul, where the island's main church sets a peaceful tone. Strolling south, you will soon hit the rugged shoreline. \n Midday is spent admiring the contrast between the pebble beach of Goubars and the sandy expanses of Plage de Korz. The ocean breeze provides the perfect natural soundtrack. \n In the afternoon, the path gently turns inland to reveal the stone remnants of an old windmill, a symbol of the island’s self-sufficient past. \n You conclude the day by delving into the rich local heritage at the Écomusée. This authentic slice of island life offers a perfect final reflection on your coastal journey."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:41",
+      "total_km": 7.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Pol-Aurélien",
+            "hu": "Église Saint-Pol-Aurélien",
+            "ro": "Église Saint-Pol-Aurélien",
+            "en": "Église Saint-Pol-Aurélien"
+          },
+          "coords": [
+            -5.09594,
+            48.45739
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den markanten Turm dieser Inselkirche, der Seeleuten als Leuchtfeuer dient, und achten Sie im Inneren auf das einzigartige Holzgewölbe.",
+            "hu": "Csodálja meg e szigeti templom jellegzetes tornyát, amely egykor világítótoronyként szolgált a tengerészeknek, és figyelje meg a belső tér egyedi faboltozatát.",
+            "ro": "Admirați turnul impresionant al acestei biserici insulare care servește drept reper pentru marinari și observați bolta unică de lemn din interior.",
+            "en": "Admire the striking tower of this island church that stands as a beacon for sailors, and take a moment to notice the unique wooden vaulting inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Écomusée d’Ouessant",
+            "hu": "Écomusée d’Ouessant",
+            "ro": "Écomusée d’Ouessant",
+            "en": "Écomusée d’Ouessant"
+          },
+          "coords": [
+            -5.110431,
+            48.46005
+          ],
+          "category": "museum",
+          "arrive_at": "09:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.11,
+          "tip_5lang": {
+            "de": "Machen Sie in diesen traditionellen Niou-Häusern eine Zeitreise, um den rauen Insellebensstil zu verstehen, und stöbern Sie im kleinen Laden nach lokalem Kunsthandwerk.",
+            "hu": "Lépjen vissza az időben ezekben a hagyományos Niou házakban, hogy megértse a zord szigeti életmódot, és nézzen be a kis boltba autentikus helyi kézműves termékekért.",
+            "ro": "Întoarceți-vă în timp în aceste case tradiționale Niou pentru a înțelege stilul de viață aspru al insulei și verificați micul magazin pentru meșteșuguri locale autentice.",
+            "en": "Step back in time within these traditional Niou houses to understand the harsh island lifestyle, and check the small shop for authentic local crafts."
+          }
+        },
+        {
+          "name": {
+            "de": "Moulin de Karaes",
+            "hu": "Moulin de Karaes",
+            "ro": "Moulin de Karaes",
+            "en": "Moulin de Karaes"
+          },
+          "coords": [
+            -5.120876,
+            48.457543
+          ],
+          "category": "landmark",
+          "arrive_at": "11:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.82,
+          "tip_5lang": {
+            "de": "Betrachten Sie ein weiteres schönes Beispiel für das Windmühlenerbe von Ouessant, das den Küstenwinden trotzt und am besten zur goldenen Stunde fotografiert wird.",
+            "hu": "Figyelje meg Ouessant szélmalom-örökségének egy másik szép példáját, amely büszkén áll a parti szelekkel szemben, és amelyet a legjobb az aranyórában fotózni.",
+            "ro": "Observați un alt exemplu frumos al patrimoniului morilor de vânt din Ouessant, care rezistă vânturilor de coastă, ideal de vizitat și fotografiat la ora de aur.",
+            "en": "Observe another fine example of Ouessant's windmill heritage standing proudly against the coastal winds, best visited during the golden hour for photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée des Phares et Balises",
+            "hu": "Musée des Phares et Balises",
+            "ro": "Musée des Phares et Balises",
+            "en": "Musée des Phares et Balises"
+          },
+          "coords": [
+            -5.129406,
+            48.459449
+          ],
+          "category": "museum",
+          "arrive_at": "12:09",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.66,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierende Geschichte der maritimen Signalgebung am Fuße des legendären Créac'h-Leuchtturms und nehmen Sie sich Zeit, um über die mutigen Wärter zu lesen.",
+            "hu": "Fedezze fel a tengeri jelzések lenyűgöző történetét az ikonikus Créac'h világítótorony lábánál, és szánjon időt a bátor toronyőrök történeteinek megismerésére.",
+            "ro": "Explorați istoria fascinantă a semnalizării maritime la baza iconicului far Créac'h și alocați-vă timp pentru a citi despre curajoșii paznici ai farurilor.",
+            "en": "Explore the fascinating history of maritime signaling at the foot of the iconic Créac'h lighthouse, and take time to read about the brave lighthouse keepers."
+          }
+        },
+        {
+          "name": {
+            "de": "Batterie de Locqueltas",
+            "hu": "Batterie de Locqueltas",
+            "ro": "Batterie de Locqueltas",
+            "en": "Batterie de Locqueltas"
+          },
+          "coords": [
+            -5.129316,
+            48.45011
+          ],
+          "category": "fortress",
+          "arrive_at": "13:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.04,
+          "tip_5lang": {
+            "de": "Streifen Sie durch diese historischen militärischen Befestigungen, die einst die raue Küste verteidigten, und achten Sie auf die steilen, ungeschützten Klippenkanten.",
+            "hu": "Barangoljon ezekben a történelmi katonai erődítményekben, amelyek egykor a zord partvonalat védték, és ügyeljen a közeli meredek, védtelen sziklaszélekre.",
+            "ro": "Plimbați-vă printre aceste fortificații militare istorice care apărau odată coasta accidentată, având grijă la marginile abrupte și neprotejate ale stâncilor.",
+            "en": "Roam around these historic military fortifications that once defended the rugged coastline, being careful of the steep unprotected cliff edges nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Four à goëmon",
+            "hu": "Four à goëmon",
+            "ro": "Four à goëmon",
+            "en": "Four à goëmon"
+          },
+          "coords": [
+            -5.115932,
+            48.438732
+          ],
+          "category": "historical",
+          "arrive_at": "15:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Untersuchen Sie diese traditionellen Kelp-Öfen, in denen einst Algen für Jod verbrannt wurden, und erhalten Sie einen tiefen Einblick in eine einzigartige historische Inselindustrie.",
+            "hu": "Vizsgálja meg ezeket a hagyományos hínárkemencéket, ahol egykor algát égettek jód kinyerésére, mélyebb bepillantást nyerve egy egyedülálló szigeti iparágba.",
+            "ro": "Examinați aceste cuptoare tradiționale unde algele erau odată arse pentru iod, oferind o perspectivă profundă asupra unei industrii insulare istorice unice.",
+            "en": "Examine these traditional kelp kilns where seaweed was once burned for iodine, providing a deep insight into a unique historical island industry."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Korz",
+            "hu": "Plage de Korz",
+            "ro": "Plage de Korz",
+            "en": "Plage de Korz"
+          },
+          "coords": [
+            -5.092345,
+            48.45207
+          ],
+          "category": "recreational",
+          "arrive_at": "16:56",
+          "stay_min": 105,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.28,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem feinen Sand dieser geschützten Bucht mit relativ ruhigem Wasser, die bei Ebbe ein idealer Ort für ein erfrischendes Bad ist.",
+            "hu": "Pihenjen meg ennek a védett öbölnek a finom homokján, amely viszonylag nyugodt vizet kínál, így ideális helyszín egy gyors frissítő fürdőzésre apálykor.",
+            "ro": "Relaxați-vă pe nisipul fin al acestui golf adăpostit cu ape relativ calme, fiind un loc ideal pentru o baie scurtă și revigorantă în timpul refluxului.",
+            "en": "Relax on the fine sand of this sheltered cove which offers relatively calm waters, making it an ideal spot for a quick refreshing dip during low tide."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer in Lampaul und radeln Sie dann zum faszinierenden Dorf Niou. Die frische Morgenluft belebt Sie für die kommenden Küstenkilometer. \n Mittags radeln Sie vorbei an einsamen Windmühlen zum legendären Créac'h-Leuchtturm. Hier enthüllt das Schifffahrtsmuseum die dramatische Geschichte der Seezeichen. \n Der Nachmittag bietet dramatische Klippenblicke, während Sie an militärischen Batterien und alten Kelp-Öfen, Symbolen menschlicher Ausdauer, vorbeifahren. \n Am Abend erreichen Sie den geschützten Sandstrand von Plage de Korz. Ein idealer Ort, um die Beine auszuruhen und das schwindende Licht über dem Atlantik zu beobachten.",
+        "hu": "Kezdje kerékpáros kalandját Lampaulban, mielőtt a lenyűgöző Niou faluba tekerne. A friss reggeli levegő felélénkíti az elkövetkező tengerparti kilométerekre. \n A dél elhagyatott szélmalmok mellett vezet a legendás Créac'h világítótoronyhoz. Itt a tengerészeti múzeum feltárja a hajók biztonságos irányításának drámai történetét. \n A délután drámai sziklás kilátásokat kínál, miközben katonai ütegek és ősi hínárkemencék mellett halad el, amelyek az emberi kitartás szimbólumai. \n Az este a Plage de Korz védett homokjához viszi. Ideális hely a lábak pihentetésére, figyelve, ahogy a lágy fény elhalványul az Atlanti-óceán felett.",
+        "ro": "Începeți aventura cu bicicleta în Lampaul înainte de a pedala spre fascinantul sat Niou. Aerul proaspăt al dimineții vă înviorează pentru kilometrii de coastă care urmează. \n La prânz veți trece pe lângă mori de vânt solitare până la legendarul far Créac'h. Aici, muzeul maritim dezvăluie istoria dramatică a ghidării navelor. \n După-amiaza oferă priveliști dramatice ale stâncilor în timp ce pedalați pe lângă baterii militare și cuptoare antice de alge, simboluri ale rezistenței umane. \n Seara vă aduce pe nisipurile adăpostite de la Plage de Korz. Este locul ideal pentru a vă odihni picioarele și a privi lumina blândă deasupra Atlanticului.",
+        "en": "Start your cycling adventure in Lampaul before pedaling out to the fascinating Niou village. The fresh morning air invigorates you for the coastal miles ahead. \n Midday takes you past solitary windmills to the legendary Créac'h lighthouse. Here, the maritime museum reveals the dramatic history of guiding ships safely. \n The afternoon features dramatic cliff-side views as you cycle past military batteries and ancient kelp kilns, symbols of human endurance. \n Evening brings you to the sheltered sands of Plage de Korz. It is an ideal spot to rest your legs and watch the soft light fade over the Atlantic."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:17",
+      "total_km": 5.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Pol-Aurélien",
+            "hu": "Église Saint-Pol-Aurélien",
+            "ro": "Église Saint-Pol-Aurélien",
+            "en": "Église Saint-Pol-Aurélien"
+          },
+          "coords": [
+            -5.09594,
+            48.45739
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den markanten Turm dieser Inselkirche, der Seeleuten als Leuchtfeuer dient, und achten Sie im Inneren auf das einzigartige Holzgewölbe.",
+            "hu": "Csodálja meg e szigeti templom jellegzetes tornyát, amely egykor világítótoronyként szolgált a tengerészeknek, és figyelje meg a belső tér egyedi faboltozatát.",
+            "ro": "Admirați turnul impresionant al acestei biserici insulare care servește drept reper pentru marinari și observați bolta unică de lemn din interior.",
+            "en": "Admire the striking tower of this island church that stands as a beacon for sailors, and take a moment to notice the unique wooden vaulting inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Écomusée d’Ouessant",
+            "hu": "Écomusée d’Ouessant",
+            "ro": "Écomusée d’Ouessant",
+            "en": "Écomusée d’Ouessant"
+          },
+          "coords": [
+            -5.110431,
+            48.46005
+          ],
+          "category": "museum",
+          "arrive_at": "09:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.11,
+          "tip_5lang": {
+            "de": "Machen Sie in diesen traditionellen Niou-Häusern eine Zeitreise, um den rauen Insellebensstil zu verstehen, und stöbern Sie im kleinen Laden nach lokalem Kunsthandwerk.",
+            "hu": "Lépjen vissza az időben ezekben a hagyományos Niou házakban, hogy megértse a zord szigeti életmódot, és nézzen be a kis boltba autentikus helyi kézműves termékekért.",
+            "ro": "Întoarceți-vă în timp în aceste case tradiționale Niou pentru a înțelege stilul de viață aspru al insulei și verificați micul magazin pentru meșteșuguri locale autentice.",
+            "en": "Step back in time within these traditional Niou houses to understand the harsh island lifestyle, and check the small shop for authentic local crafts."
+          }
+        },
+        {
+          "name": {
+            "de": "Fontaine de Porz Gueguen",
+            "hu": "Fontaine de Porz Gueguen",
+            "ro": "Fontaine de Porz Gueguen",
+            "en": "Fontaine de Porz Gueguen"
+          },
+          "coords": [
+            -5.120527,
+            48.461106
+          ],
+          "category": "landmark",
+          "arrive_at": "11:34",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese historische, für die Inselbewohner lebenswichtige Süßwasserquelle in der Landschaft und genießen Sie die ruhige Atmosphäre abseits der Massen.",
+            "hu": "Álljon meg ennél a szigetlakók számára egykor létfontosságú édesvíz-forrásnál a tájban, és értékelje a tömegektől távoli, nyugodt atmoszférát.",
+            "ro": "Opriți-vă la această sursă istorică de apă dulce vitală pentru insulari, cuibărită în peisaj, și apreciați atmosfera liniștită departe de mulțimi.",
+            "en": "Stop by this historic fresh water source vital to the islanders, nestled quietly in the landscape, and appreciate the serene atmosphere away from the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée des Phares et Balises",
+            "hu": "Musée des Phares et Balises",
+            "ro": "Musée des Phares et Balises",
+            "en": "Musée des Phares et Balises"
+          },
+          "coords": [
+            -5.129406,
+            48.459449
+          ],
+          "category": "museum",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.67,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierende Geschichte der maritimen Signalgebung am Fuße des legendären Créac'h-Leuchtturms und nehmen Sie sich Zeit, um über die mutigen Wärter zu lesen.",
+            "hu": "Fedezze fel a tengeri jelzések lenyűgöző történetét az ikonikus Créac'h világítótorony lábánál, és szánjon időt a bátor toronyőrök történeteinek megismerésére.",
+            "ro": "Explorați istoria fascinantă a semnalizării maritime la baza iconicului far Créac'h și alocați-vă timp pentru a citi despre curajoșii paznici ai farurilor.",
+            "en": "Explore the fascinating history of maritime signaling at the foot of the iconic Créac'h lighthouse, and take time to read about the brave lighthouse keepers."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame de Bon Voyage",
+            "hu": "Chapelle Notre-Dame de Bon Voyage",
+            "ro": "Chapelle Notre-Dame de Bon Voyage",
+            "en": "Chapelle Notre-Dame de Bon Voyage"
+          },
+          "coords": [
+            -5.127175,
+            48.454366
+          ],
+          "category": "religious",
+          "arrive_at": "13:41",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.58,
+          "tip_5lang": {
+            "de": "Finden Sie Ruhe in dieser kleinen Kapelle, die dem Schutz von Seeleuten auf ihren gefährlichen Reisen gewidmet ist, und beachten Sie die maritimen Votivgaben der Einheimischen.",
+            "hu": "Találjon békét ebben a kis kápolnában, amelyet a tengerészek védelmére szenteltek, és figyelje meg a helyi közösség által hagyott bájos tengeri fogadalmi ajándékokat.",
+            "ro": "Găsiți liniște în această mică capelă dedicată protejării marinarilor în călătoriile lor periculoase, observând ofrandele maritime fermecătoare lăsate de comunitatea locală.",
+            "en": "Find peace in this small chapel dedicated to protecting sailors on their perilous journeys, noting the charming maritime ex-votos left by the local community."
+          }
+        },
+        {
+          "name": {
+            "de": "La Pierre aux Signes",
+            "hu": "La Pierre aux Signes",
+            "ro": "La Pierre aux Signes",
+            "en": "La Pierre aux Signes"
+          },
+          "coords": [
+            -5.10026,
+            48.439548
+          ],
+          "category": "historical",
+          "arrive_at": "14:27",
+          "stay_min": 110,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.57,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen rätselhaften historischen Stein, der von lokalen Legenden umrankt ist, und verbinden Sie ihn mit einer Wanderung entlang der atemberaubend rauen Südküste.",
+            "hu": "Fedezze fel ezt a helyi legendákkal övezett, rejtélyes történelmi követ, és kösse össze egy túrával a lélegzetelállítóan zord déli partvonal mentén.",
+            "ro": "Descoperiți această piatră istorică enigmatică, învăluită în legende locale, și combinați vizita cu o drumeție de-a lungul coastei de sud uluitor de accidentate.",
+            "en": "Discover this enigmatic historical stone marker steeped in local legends, and combine it with a hike along the breathtakingly rugged southern coast."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Inselfahrt beginnt im Herzen von Lampaul und führt Sie zum faszinierenden Écomusée. Der frühe Morgen ist die beste Zeit, um die traditionelle Architektur ohne Menschenmassen zu genießen. \n Gegen Mittag entdecken Sie historische Wasserquellen und besuchen das majestätische Leuchtturmmuseum, umgeben von weiten Ozeanpanoramen. \n Der Nachmittag wird mit einer Pause in einer Seemannskapelle fortgesetzt, bevor Sie in Richtung der Südspitze fahren, einem Gebiet voller Legenden. \n Beenden Sie Ihre Reise am rätselhaften Pierre aux Signes. Wenn die Sonne untergeht, hinterlässt das alte Wahrzeichen an den Klippen einen bleibenden Eindruck.",
+        "hu": "Szigeti autózása Lampaul szívében kezdődik, mielőtt a lenyűgöző Écomusée felé venné az irányt. A kora reggel a legjobb idő a hagyományos építészet nyugodt élvezetére. \n Dél körül rejtett történelmi vízforrásokat fedezhet fel, és meglátogathatja a fenséges világítótorony-múzeumot, amelyet végtelen óceáni panoráma vesz körül. \n A délután egy békés pihenővel folytatódik egy tengerészkápolnánál, mielőtt a déli csücsök felé haladna, amely tele van tengeri legendákkal. \n Fejezze be utazását a rejtélyes Pierre aux Signes-nél. Ahogy a nap lenyugszik, a drámai sziklák előtti ősi jelzőkő maradandó benyomást hagy.",
+        "ro": "Călătoria auto pe insulă începe în inima orașului Lampaul înainte de a vă îndrepta spre fascinantul Écomusée. Dimineața devreme este perfectă pentru a aprecia arhitectura tradițională fără aglomerație. \n În jurul prânzului veți descoperi surse istorice de apă și veți vizita maiestuosul muzeu al farului, înconjurat de panorame oceanice impresionante. \n După-amiaza continuă cu o pauză liniștită la o capelă a marinarilor înainte de a conduce spre extremitatea sudică, o zonă plină de legende locale. \n Încheiați călătoria lângă enigmatica Pierre aux Signes. La apus, acest marcaj antic așezat pe stâncile dramatice lasă o impresie de neuitat.",
+        "en": "Your island drive starts in the heart of Lampaul before heading to the fascinating Écomusée. Early morning is the best time to appreciate the traditional architecture without crowds. \n Around midday, you will discover hidden historical water sources and visit the majestic lighthouse museum, surrounded by sweeping ocean panoramas. \n The afternoon continues with a peaceful pause at a sailor’s chapel before driving towards the southern tip, an area steeped in local maritime legends. \n End your journey by the enigmatic Pierre aux Signes. As the sun begins to set, the ancient marker against the dramatic cliffs leaves a lasting impression."
+      }
+    }
+  }
+}

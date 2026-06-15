@@ -1,0 +1,520 @@
+{
+  "city_id": "italy-lampetia-cities-v2",
+  "anchor": {
+    "name": "Lampetia",
+    "coords": [
+      15.91221,
+      39.53269
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:27",
+      "total_km": 1.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Oasi delle Sirene",
+            "hu": "Oasi delle Sirene",
+            "ro": "Oasi delle Sirene",
+            "en": "Oasi delle Sirene"
+          },
+          "coords": [
+            15.909523,
+            39.534247
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in dieser wunderschönen Oase, wo das sanfte Rauschen der Wellen für Ruhe sorgt, und bringen Sie bequeme Strandschuhe für die felsigen Abschnitte mit.",
+            "hu": "Pihenjen meg ebben a gyönyörű oázisban, ahol a hullámok lágy zúgása nyugalmat áraszt, és mindenképpen hozzon magával kényelmes strandcipőt a sziklás részekhez.",
+            "ro": "Relaxați-vă în această frumoasă oază unde murmurul blând al valurilor aduce liniște și asigurați-vă că aduceți încălțăminte confortabilă pentru secțiunile stâncoase.",
+            "en": "Unwind in this beautiful oasis where the gentle sound of the waves brings tranquility, and be sure to bring comfortable beach shoes for the rocky sections along the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Sunset",
+            "hu": "Sunset",
+            "ro": "Sunset",
+            "en": "Sunset"
+          },
+          "coords": [
+            15.907955,
+            39.535879
+          ],
+          "category": "recreational",
+          "arrive_at": "10:13",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubende Aussicht von diesem malerischen Aussichtspunkt, der für seine spektakulären Sonnenuntergänge bekannt ist, und kommen Sie früh, um den besten Platz zu ergattern.",
+            "hu": "Élvezze a lélegzetelállító kilátást ebből a festői nézőpontból, amely látványos naplementéiről ismert, és érkezzen korán, hogy a legjobb helyről csodálhassa meg a színeket.",
+            "ro": "Bucurați-vă de priveliștile uluitoare de la acest punct de belvedere pitoresc, renumit pentru apusurile sale spectaculoase, și ajungeți devreme pentru a vă asigura cel mai bun loc.",
+            "en": "Take in the breathtaking views from this picturesque vantage point known for its spectacular sunsets, and arrive a bit early to secure the absolute best spot for photography."
+          }
+        },
+        {
+          "name": {
+            "de": "La Capannina",
+            "hu": "La Capannina",
+            "ro": "La Capannina",
+            "en": "La Capannina"
+          },
+          "coords": [
+            15.912044,
+            39.531578
+          ],
+          "category": "recreational",
+          "arrive_at": "11:22",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Atmosphäre an diesem beliebten Treffpunkt direkt an der Küste und probieren Sie unbedingt ein erfrischendes lokales Getränk in einem der nahegelegenen Kioske.",
+            "hu": "Tapasztalja meg a nyüzsgő hangulatot ezen a népszerű tengerparti találkozóhelyen, és mindenképpen kóstoljon meg egy frissítő helyi italt a közeli büfék egyikében.",
+            "ro": "Experimentați atmosfera plină de viață în acest loc de întâlnire popular chiar pe coastă și asigurați-vă că încercați o băutură locală răcoritoare la unul dintre chioșcurile din apropiere.",
+            "en": "Experience the lively atmosphere at this popular coastal gathering spot, and be sure to treat yourself to a refreshing local beverage from one of the nearby seaside kiosks."
+          }
+        },
+        {
+          "name": {
+            "de": "Mari Giù",
+            "hu": "Mari Giù",
+            "ro": "Mari Giù",
+            "en": "Mari Giù"
+          },
+          "coords": [
+            15.914024,
+            39.529339
+          ],
+          "category": "recreational",
+          "arrive_at": "12:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Verbringen Sie eine entspannte Zeit in diesem charmanten Küstenbereich, der ideal für Familien ist, und vergessen Sie nicht, ein leichtes Handtuch für das Picknicken am Strand mitzubringen.",
+            "hu": "Töltsön el egy pihentető időt ezen a bájos, családok számára is ideális partszakaszon, és ne felejtsen el magával hozni egy könnyű törölközőt a tengerparti piknikezéshez.",
+            "ro": "Petreceți un timp relaxant în această zonă de coastă fermecătoare, ideală pentru familii, și nu uitați să aduceți un prosop ușor pentru a vă bucura de un picnic pe plajă.",
+            "en": "Spend a relaxing time at this charming coastal stretch that is absolutely perfect for families, and do not forget to bring a light towel for a casual beachside picnic in the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Ancora",
+            "hu": "Ancora",
+            "ro": "Ancora",
+            "en": "Ancora"
+          },
+          "coords": [
+            15.921738,
+            39.529319
+          ],
+          "category": "historical",
+          "arrive_at": "13:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses historische Wahrzeichen, das an das maritime Erbe der Region erinnert, und lesen Sie die kleinen Informationstafeln, um mehr über die lokale Seefahrtsgeschichte zu erfahren.",
+            "hu": "Csodálja meg ezt a történelmi nevezetességet, amely a régió tengeri örökségének állít emléket, és olvassa el az információs táblákat, hogy többet megtudjon a helyi hajózásról.",
+            "ro": "Admirați acest reper istoric care comemorează moștenirea maritimă a regiunii și faceți-vă timp să citiți panourile informative pentru a afla mai multe despre istoria locală.",
+            "en": "Admire this historical landmark that beautifully commemorates the region's rich maritime heritage, and take time to read the nearby plaques to learn about the local seafaring history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "M: Beginnen Sie Ihren Tag mit einem entspannten Spaziergang zur Oasi delle Sirene, wo das Meer Sie begrüßt. Die frische Luft sorgt für einen perfekten Start in den Vormittag.\n\nN: Setzen Sie Ihren Weg fort zum spektakulären Sunset-Aussichtspunkt, bevor Sie die lebhafte Atmosphäre der La Capannina bei einem leichten Mittagessen genießen.\n\nA: Am Nachmittag schlendern Sie gemütlich zu Mari Giù. Hier können Sie die sanfte Meeresbrise spüren und sich an der malerischen Küstenlinie völlig entspannen.\n\nE: Der Tag endet am historischen Ankerdenkmal Ancora. Lassen Sie hier die Eindrücke des Tages Revue passieren, während die Sonne langsam am Horizont verschwindet.",
+        "hu": "M: Kezdje a napot egy pihentető sétával az Oasi delle Sirene felé, ahol a tenger lágy zúgása fogadja. A friss tengerparti levegő tökéletes és frissítő indulást biztosít.\n\nN: Folytassa útját a lenyűgöző Sunset kilátóponthoz, majd élvezze a La Capannina nyüzsgő, vidám hangulatát egy könnyű, tengerparti ebéd kíséretében.\n\nA: Délután tegyen egy kényelmes sétát a Mari Giù partszakaszhoz. Itt átadhatja magát a tengeri szellő simogatásának, és élvezheti a partszakasz végtelen nyugalmát.\n\nE: A nap a történelmi Ancora emlékműnél ér véget. Itt nyugodtan visszagondolhat a nap eseményeire, miközben a nap lassan eltűnik a horizonton.",
+        "ro": "M: Începeți-vă ziua cu o plimbare relaxantă către Oasi delle Sirene, unde marea vă întâmpină cu valurile sale. Aerul proaspăt oferă un început perfect pentru dimineață.\n\nN: Continuați-vă drumul spre spectaculosul punct de belvedere Sunset, înainte de a vă bucura de atmosfera plină de viață de la La Capannina, alături de un prânz ușor.\n\nA: După-amiaza, plimbați-vă pe îndelete până la Mari Giù. Aici puteți simți briza blândă a mării și vă puteți relaxa complet pe coasta absolut pitorească.\n\nE: Ziua se încheie la monumentul istoric Ancora. Permiteți-vă să reflectați la experiențele minunate ale zilei în timp ce soarele dispare încet la orizont.",
+        "en": "M: Start your day with a relaxing stroll down to Oasi delle Sirene, where the inviting sea warmly welcomes you. The fresh coastal air guarantees a perfect morning start.\n\nN: Continue your journey along the shore to the spectacular Sunset viewpoint, before thoroughly enjoying the lively atmosphere at La Capannina with a light, delicious lunch.\n\nA: In the afternoon, take a leisurely and peaceful walk towards Mari Giù. Here you can feel the gentle sea breeze and completely unwind along the highly picturesque coastline.\n\nE: The day perfectly concludes at the historical Ancora monument. Take a moment to reflect on your wonderful experiences as the sun slowly disappears over the horizon."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:59",
+      "total_km": 2.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "San Michele",
+            "hu": "San Michele",
+            "ro": "San Michele",
+            "en": "San Michele"
+          },
+          "coords": [
+            15.902453,
+            39.537705
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese friedliche Oase, die sich perfekt für einen ruhigen Spaziergang eignet, und tragen Sie bequeme Wanderschuhe, um die sanften Wege sicher und angenehm zu erkunden.",
+            "hu": "Fedezze fel ezt a békés menedéket, amely tökéletes egy csendes sétához, és viseljen kényelmes túracipőt, hogy biztonságosan és élvezetesen járhassa be az enyhén emelkedő ösvényeket.",
+            "ro": "Descoperiți acest refugiu pașnic, perfect pentru o plimbare liniștită, și purtați pantofi de mers confortabili pentru a explora în siguranță și cu plăcere potecile blânde ale zonei.",
+            "en": "Discover this peaceful haven which is absolutely perfect for a quiet stroll away from the crowds, and wear comfortable walking shoes to fully enjoy exploring the gentle pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Cascata dell'Acqua Perropata",
+            "hu": "Cascata dell'Acqua Perropata",
+            "ro": "Cascata dell'Acqua Perropata",
+            "en": "Cascata dell'Acqua Perropata"
+          },
+          "coords": [
+            15.906606,
+            39.537759
+          ],
+          "category": "landmark",
+          "arrive_at": "10:12",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von diesem versteckten Wasserfall verzaubern, der eine willkommene Abkühlung bietet, und achten Sie auf die rutschigen Steine entlang des kurzen, aber lohnenden Pfades.",
+            "hu": "Hagyja magát elvarázsolni ettől a rejtett vízeséstől, amely kellemes felfrissülést nyújt, és ügyeljen a csúszós kövekre a rövid, de annál látványosabb túraútvonal mentén.",
+            "ro": "Lăsați-vă fermecați de această cascadă ascunsă care oferă o răcorire binevenită și aveți mare grijă la pietrele alunecoase de-a lungul traseului scurt, dar foarte plin de satisfacții.",
+            "en": "Be enchanted by this hidden waterfall that provides a wonderful sense of refreshing coolness, and pay close attention to the slippery stones along the short but rewarding nature trail."
+          }
+        },
+        {
+          "name": {
+            "de": "Oasi delle Sirene",
+            "hu": "Oasi delle Sirene",
+            "ro": "Oasi delle Sirene",
+            "en": "Oasi delle Sirene"
+          },
+          "coords": [
+            15.909523,
+            39.534247
+          ],
+          "category": "recreational",
+          "arrive_at": "11:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in dieser wunderschönen Oase, wo das sanfte Rauschen der Wellen für Ruhe sorgt, und bringen Sie bequeme Strandschuhe für die felsigen Abschnitte mit.",
+            "hu": "Pihenjen meg ebben a gyönyörű oázisban, ahol a hullámok lágy zúgása nyugalmat áraszt, és mindenképpen hozzon magával kényelmes strandcipőt a sziklás részekhez.",
+            "ro": "Relaxați-vă în această frumoasă oază unde murmurul blând al valurilor aduce liniște și asigurați-vă că aduceți încălțăminte confortabilă pentru secțiunile stâncoase.",
+            "en": "Unwind in this beautiful oasis where the gentle sound of the waves brings tranquility, and be sure to bring comfortable beach shoes for the rocky sections along the water."
+          }
+        },
+        {
+          "name": {
+            "de": "La Capannina",
+            "hu": "La Capannina",
+            "ro": "La Capannina",
+            "en": "La Capannina"
+          },
+          "coords": [
+            15.912044,
+            39.531578
+          ],
+          "category": "recreational",
+          "arrive_at": "12:02",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Atmosphäre an diesem beliebten Treffpunkt direkt an der Küste und probieren Sie unbedingt ein erfrischendes lokales Getränk in einem der nahegelegenen Kioske.",
+            "hu": "Tapasztalja meg a nyüzsgő hangulatot ezen a népszerű tengerparti találkozóhelyen, és mindenképpen kóstoljon meg egy frissítő helyi italt a közeli büfék egyikében.",
+            "ro": "Experimentați atmosfera plină de viață în acest loc de întâlnire popular chiar pe coastă și asigurați-vă că încercați o băutură locală răcoritoare la unul dintre chioșcurile din apropiere.",
+            "en": "Experience the lively atmosphere at this popular coastal gathering spot, and be sure to treat yourself to a refreshing local beverage from one of the nearby seaside kiosks."
+          }
+        },
+        {
+          "name": {
+            "de": "Mari Giù",
+            "hu": "Mari Giù",
+            "ro": "Mari Giù",
+            "en": "Mari Giù"
+          },
+          "coords": [
+            15.914024,
+            39.529339
+          ],
+          "category": "recreational",
+          "arrive_at": "13:04",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Verbringen Sie eine entspannte Zeit in diesem charmanten Küstenbereich, der ideal für Familien ist, und vergessen Sie nicht, ein leichtes Handtuch für das Picknicken am Strand mitzubringen.",
+            "hu": "Töltsön el egy pihentető időt ezen a bájos, családok számára is ideális partszakaszon, és ne felejtsen el magával hozni egy könnyű törölközőt a tengerparti piknikezéshez.",
+            "ro": "Petreceți un timp relaxant în această zonă de coastă fermecătoare, ideală pentru familii, și nu uitați să aduceți un prosop ușor pentru a vă bucura de un picnic pe plajă.",
+            "en": "Spend a relaxing time at this charming coastal stretch that is absolutely perfect for families, and do not forget to bring a light towel for a casual beachside picnic in the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Ancora",
+            "hu": "Ancora",
+            "ro": "Ancora",
+            "en": "Ancora"
+          },
+          "coords": [
+            15.921738,
+            39.529319
+          ],
+          "category": "historical",
+          "arrive_at": "14:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses historische Wahrzeichen, das an das maritime Erbe der Region erinnert, und lesen Sie die kleinen Informationstafeln, um mehr über die lokale Seefahrtsgeschichte zu erfahren.",
+            "hu": "Csodálja meg ezt a történelmi nevezetességet, amely a régió tengeri örökségének állít emléket, és olvassa el az információs táblákat, hogy többet megtudjon a helyi hajózásról.",
+            "ro": "Admirați acest reper istoric care comemorează moștenirea maritimă a regiunii și faceți-vă timp să citiți panourile informative pentru a afla mai multe despre istoria locală.",
+            "en": "Admire this historical landmark that beautifully commemorates the region's rich maritime heritage, and take time to read the nearby plaques to learn about the local seafaring history."
+          }
+        },
+        {
+          "name": {
+            "de": "Hemingway",
+            "hu": "Hemingway",
+            "ro": "Hemingway",
+            "en": "Hemingway"
+          },
+          "coords": [
+            15.923883,
+            39.527387
+          ],
+          "category": "recreational",
+          "arrive_at": "15:29",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die literarische Atmosphäre an diesem charmanten Ort, der zum Verweilen einlädt, und bestellen Sie einen klassischen Kaffee, während Sie die Aussicht auf das Meer aufsaugen.",
+            "hu": "Élvezze az irodalmi hangulatot ezen a bájos, elidőzésre csábító helyen, és rendeljen egy klasszikus kávét, miközben magába szívja a tenger lenyűgöző látványát és nyugalmát.",
+            "ro": "Bucurați-vă de atmosfera literară în acest loc fermecător, care vă invită să zăboviți, și comandați o cafea clasică în timp ce admirați priveliștea minunată și liniștitoare a mării.",
+            "en": "Soak up the lovely literary atmosphere at this charming spot that perfectly invites you to linger, and order a classic coffee while deeply enjoying the magnificent seaside views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "M: Schwingen Sie sich aufs Rad und starten Sie bei San Michele, einer friedlichen Oase. Die morgendliche Ruhe ist ideal für eine erste, entspannte Etappe entlang der Küste.\n\nN: Entdecken Sie den versteckten Wasserfall und radeln Sie zur Oasi delle Sirene, bevor Sie bei La Capannina eine wohlverdiente und erfrischende Mittagspause einlegen.\n\nA: Der Nachmittag führt Sie weiter zu Mari Giù und dem historischen Ancora-Denkmal. Genießen Sie die Fahrt auf den flachen Wegen, die sich perfekt zum Radfahren eignen.\n\nE: Beenden Sie Ihre Radtour im gemütlichen Hemingway-Bereich. Bei einem kalten Getränk können Sie die Beine hochlegen und den malerischen Abendhimmel beobachten.",
+        "hu": "M: Pattanjon kerékpárra, és induljon a San Michele békés oázisából. A kora reggeli csend és nyugalom tökéletes egy laza, tengerparti tekerés megkezdéséhez.\n\nN: Fedezze fel a rejtett vízesést, majd tekerjen az Oasi delle Sirene felé, mielőtt egy jól megérdemelt, frissítő ebédszünetet tartana a hangulatos La Capanninában.\n\nA: A délutáni túra a Mari Giù partszakaszhoz és a történelmi Ancora emlékműhöz vezet. Élvezze a sík utakat, amelyek kifejezetten ideálisak a gondtalan kerékpározáshoz.\n\nE: Fejezze be a kerékpártúrát a kellemes Hemingway pihenőhelynél. Egy hideg ital kíséretében kinyújthatja a lábát, és gyönyörködhet a festői, színes esti égboltban.",
+        "ro": "M: Urcați-vă pe bicicletă și începeți la San Michele, o oază de pace. Liniștea dimineții este ideală pentru o primă etapă relaxantă de-a lungul coastei minunate.\n\nN: Descoperiți cascada ascunsă și pedalați către Oasi delle Sirene, înainte de a face o pauză de prânz bine meritată și răcoritoare la populara La Capannina.\n\nA: După-amiaza vă duce mai departe la Mari Giù și la monumentul istoric Ancora. Bucurați-vă de plimbarea pe potecile plate, perfecte pentru mersul pe bicicletă.\n\nE: Încheiați-vă turul cu bicicleta în zona confortabilă Hemingway. Cu o băutură rece, vă puteți odihni picioarele și puteți admira frumosul cer de seară.",
+        "en": "M: Hop on your bike and start your lovely journey at the peaceful haven of San Michele. The morning tranquility is absolutely ideal for a relaxed first stage along the coast.\n\nN: Discover the hidden waterfall and seamlessly cycle towards Oasi delle Sirene, before finally taking a well-deserved, refreshing lunch break at the lively La Capannina.\n\nA: The afternoon takes you further south to Mari Giù and the impressive historical Ancora monument. Enjoy the smooth ride on flat coastal paths perfect for easy cycling.\n\nE: Finish your fantastic bike tour at the highly comfortable Hemingway spot. With a cold beverage in hand, you can rest your legs and beautifully admire the evening sky."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:08",
+      "total_km": 3.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Grotte di Cavinia",
+            "hu": "Grotte di Cavinia",
+            "ro": "Grotte di Cavinia",
+            "en": "Grotte di Cavinia"
+          },
+          "coords": [
+            15.892179,
+            39.539028
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erforschen Sie diese faszinierenden Meereshöhlen, die durch jahrhundertelange Erosion geformt wurden, und mieten Sie ein kleines Boot, um die beeindruckenden Felsformationen aus der Nähe zu sehen.",
+            "hu": "Fedezze fel ezeket a lenyűgöző tengeri barlangokat, amelyeket évszázados erózió formált, és béreljen egy kis csónakot, hogy testközelből is megcsodálhassa a sziklaalakzatokat.",
+            "ro": "Explorați aceste fascinante peșteri marine modelate de secole de eroziune și luați în considerare închirierea unei bărci mici pentru a vedea de aproape impresionantele formațiuni stâncoase.",
+            "en": "Explore these fascinating sea caves beautifully shaped by centuries of natural coastal erosion, and consider renting a small boat to view the impressive rock formations up close."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre di Rienzo",
+            "hu": "Torre di Rienzo",
+            "ro": "Torre di Rienzo",
+            "en": "Torre di Rienzo"
+          },
+          "coords": [
+            15.896683,
+            39.538841
+          ],
+          "category": "landmark",
+          "arrive_at": "09:56",
+          "stay_min": 45,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen alten Wachturm, der einst die Küste vor Piraten schützte, und erklimmen Sie den nahegelegenen Hügel für das beste Panoramafoto der gesamten zerklüfteten Küstenlinie.",
+            "hu": "Csodálja meg ezt az ősi őrtornyot, amely egykor a partot védte a kalózoktól, és másszon fel a közeli dombra, hogy elkészítse a legjobb panorámaképet a csipkézett partvonalról.",
+            "ro": "Admirați acest vechi turn de veghe care odinioară proteja coasta de pirați și urcați pe dealul din apropiere pentru a face cea mai bună fotografie panoramică a întregii coaste accidentate.",
+            "en": "Marvel at this ancient watchtower that historically protected the coastline from invading pirates, and climb the nearby small hill to capture the absolute best panoramic coastline photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Scoglio della Leonessa",
+            "hu": "Scoglio della Leonessa",
+            "ro": "Scoglio della Leonessa",
+            "en": "Scoglio della Leonessa"
+          },
+          "coords": [
+            15.900748,
+            39.537451
+          ],
+          "category": "landmark",
+          "arrive_at": "10:42",
+          "stay_min": 45,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fotografieren Sie diese markante Felsformation, die wie eine ruhende Löwin aussieht, und nutzen Sie das weiche Licht des Vormittags für die schärfsten und kontrastreichsten Aufnahmen.",
+            "hu": "Fényképezze le ezt a jellegzetes sziklaképződményt, amely egy pihenő nőstényoroszlánra hasonlít, és használja ki a kora délelőtti lágy fényeket a legélesebb és legszebb kontrasztú fotókhoz.",
+            "ro": "Fotografiați această formațiune stâncoasă impresionantă, care seamănă cu o leoaică la odihnă, și profitați de lumina blândă a dimineții pentru a obține cele mai clare și contrastante imagini.",
+            "en": "Photograph this striking natural rock formation that wonderfully resembles a resting lioness, and take advantage of the soft mid-morning light for the sharpest and most vibrant pictures."
+          }
+        },
+        {
+          "name": {
+            "de": "Cascata dell'Acqua Perropata",
+            "hu": "Cascata dell'Acqua Perropata",
+            "ro": "Cascata dell'Acqua Perropata",
+            "en": "Cascata dell'Acqua Perropata"
+          },
+          "coords": [
+            15.906606,
+            39.537759
+          ],
+          "category": "landmark",
+          "arrive_at": "11:28",
+          "stay_min": 45,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von diesem versteckten Wasserfall verzaubern, der eine willkommene Abkühlung bietet, und achten Sie auf die rutschigen Steine entlang des kurzen, aber lohnenden Pfades.",
+            "hu": "Hagyja magát elvarázsolni ettől a rejtett vízeséstől, amely kellemes felfrissülést nyújt, és ügyeljen a csúszós kövekre a rövid, de annál látványosabb túraútvonal mentén.",
+            "ro": "Lăsați-vă fermecați de această cascadă ascunsă care oferă o răcorire binevenită și aveți mare grijă la pietrele alunecoase de-a lungul traseului scurt, dar foarte plin de satisfacții.",
+            "en": "Be enchanted by this hidden waterfall that provides a wonderful sense of refreshing coolness, and pay close attention to the slippery stones along the short but rewarding nature trail."
+          }
+        },
+        {
+          "name": {
+            "de": "Oasi delle Sirene",
+            "hu": "Oasi delle Sirene",
+            "ro": "Oasi delle Sirene",
+            "en": "Oasi delle Sirene"
+          },
+          "coords": [
+            15.909523,
+            39.534247
+          ],
+          "category": "recreational",
+          "arrive_at": "12:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in dieser wunderschönen Oase, wo das sanfte Rauschen der Wellen für Ruhe sorgt, und bringen Sie bequeme Strandschuhe für die felsigen Abschnitte mit.",
+            "hu": "Pihenjen meg ebben a gyönyörű oázisban, ahol a hullámok lágy zúgása nyugalmat áraszt, és mindenképpen hozzon magával kényelmes strandcipőt a sziklás részekhez.",
+            "ro": "Relaxați-vă în această frumoasă oază unde murmurul blând al valurilor aduce liniște și asigurați-vă că aduceți încălțăminte confortabilă pentru secțiunile stâncoase.",
+            "en": "Unwind in this beautiful oasis where the gentle sound of the waves brings tranquility, and be sure to bring comfortable beach shoes for the rocky sections along the water."
+          }
+        },
+        {
+          "name": {
+            "de": "La Capannina",
+            "hu": "La Capannina",
+            "ro": "La Capannina",
+            "en": "La Capannina"
+          },
+          "coords": [
+            15.912044,
+            39.531578
+          ],
+          "category": "recreational",
+          "arrive_at": "13:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Atmosphäre an diesem beliebten Treffpunkt direkt an der Küste und probieren Sie unbedingt ein erfrischendes lokales Getränk in einem der nahegelegenen Kioske.",
+            "hu": "Tapasztalja meg a nyüzsgő hangulatot ezen a népszerű tengerparti találkozóhelyen, és mindenképpen kóstoljon meg egy frissítő helyi italt a közeli büfék egyikében.",
+            "ro": "Experimentați atmosfera plină de viață în acest loc de întâlnire popular chiar pe coastă și asigurați-vă că încercați o băutură locală răcoritoare la unul dintre chioșcurile din apropiere.",
+            "en": "Experience the lively atmosphere at this popular coastal gathering spot, and be sure to treat yourself to a refreshing local beverage from one of the nearby seaside kiosks."
+          }
+        },
+        {
+          "name": {
+            "de": "Ancora",
+            "hu": "Ancora",
+            "ro": "Ancora",
+            "en": "Ancora"
+          },
+          "coords": [
+            15.921738,
+            39.529319
+          ],
+          "category": "historical",
+          "arrive_at": "14:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses historische Wahrzeichen, das an das maritime Erbe der Region erinnert, und lesen Sie die kleinen Informationstafeln, um mehr über die lokale Seefahrtsgeschichte zu erfahren.",
+            "hu": "Csodálja meg ezt a történelmi nevezetességet, amely a régió tengeri örökségének állít emléket, és olvassa el az információs táblákat, hogy többet megtudjon a helyi hajózásról.",
+            "ro": "Admirați acest reper istoric care comemorează moștenirea maritimă a regiunii și faceți-vă timp să citiți panourile informative pentru a afla mai multe despre istoria locală.",
+            "en": "Admire this historical landmark that beautifully commemorates the region's rich maritime heritage, and take time to read the nearby plaques to learn about the local seafaring history."
+          }
+        },
+        {
+          "name": {
+            "de": "Zoo Art",
+            "hu": "Zoo Art",
+            "ro": "Zoo Art",
+            "en": "Zoo Art"
+          },
+          "coords": [
+            15.926835,
+            39.528335
+          ],
+          "category": "recreational",
+          "arrive_at": "15:38",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von den kreativen Kunstwerken inspirieren, die Natur und Skulptur vereinen, und nehmen Sie sich Zeit, um die versteckten Details der verschiedenen Installationen zu entdecken.",
+            "hu": "Merítsen ihletet a kreatív művészeti alkotásokból, amelyek ötvözik a természetet és a szobrászatot, és szánjon időt a különböző installációk apró, elrejtett részleteinek felfedezésére.",
+            "ro": "Lăsați-vă inspirați de operele de artă creative care combină minunat natura și sculptura și faceți-vă timp pentru a descoperi detaliile ascunse ale diferitelor instalații artistice.",
+            "en": "Be inspired by the creative artworks that beautifully seamlessly combine nature and modern sculpture, and take plenty of time to thoughtfully discover the hidden details of each installation."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "M: Ihre Fahrt beginnt bei den faszinierenden Grotte di Cavinia und führt zum Torre di Rienzo. Die Flexibilität des Autos lässt Sie die morgendliche Küste voll auskosten.\n\nN: Bewundern Sie den markanten Scoglio della Leonessa und den Wasserfall, bevor Sie zur Oasi delle Sirene und La Capannina für ein ausgiebiges Mittagessen fahren.\n\nA: Am Nachmittag fahren Sie gemütlich in Richtung Süden. Das Auto ermöglicht es Ihnen, das historische Ancora-Denkmal ohne große Anstrengung bequem zu erreichen.\n\nE: Der Tag findet seinen kreativen Abschluss im Zoo Art. Parken Sie in der Nähe und spazieren Sie durch die Skulpturen, während der Abend die Küste in Gold taucht.",
+        "hu": "M: Autós utazása a lenyűgöző Grotte di Cavinia barlangoknál kezdődik, majd a Torre di Rienzohoz vezet. Az autó rugalmassága révén maximálisan kiélvezheti a kora reggelt.\n\nN: Csodálja meg a jellegzetes Scoglio della Leonessa sziklát és a vízesést, mielőtt az Oasi delle Sirene és a La Capannina felé venné az irányt egy kiadós tengerparti ebédre.\n\nA: Délután kényelmesen autózhat tovább dél felé. A jármű kényelme lehetővé teszi, hogy a történelmi Ancora emlékművet gyorsan, minden megerőltetés nélkül elérje.\n\nE: A nap kreatív befejezéseként látogasson el a Zoo Art parkba. Parkoljon le a közelben, és sétáljon a szobrok között, miközben az este aranyba öltözteti a tájat.",
+        "ro": "M: Călătoria dvs. cu mașina începe la fascinantele Grotte di Cavinia și duce la Torre di Rienzo. Flexibilitatea mașinii vă permite să vă bucurați pe deplin de dimineață.\n\nN: Admirați impresionanta Scoglio della Leonessa și cascada înainte de a conduce la Oasi delle Sirene și La Capannina pentru un prânz relaxant și foarte delicios.\n\nA: După-amiaza, conduceți confortabil spre sud. Mașina vă permite să ajungeți la impresionantul monument istoric Ancora destul de repede, complet fără efort.\n\nE: Ziua se încheie creativ la impresionantul Zoo Art. Parcați în apropiere și plimbați-vă printre sculpturi în timp ce seara scaldă coasta în nuanțe aurii.",
+        "en": "M: Your scenic drive brilliantly begins at the fascinating Grotte di Cavinia and leads to Torre di Rienzo. The car's total flexibility lets you fully maximize the coastal morning.\n\nN: Admire the striking Scoglio della Leonessa and the beautiful waterfall, before smoothly driving down to Oasi delle Sirene and La Capannina for a satisfying lunch.\n\nA: In the afternoon, you can comfortably cruise further south along the shore. Having a vehicle wonderfully allows you to reach the historical Ancora monument effortlessly.\n\nE: The day creatively concludes at the unique Zoo Art installation. Park nearby and gently stroll among the sculptures as the lovely evening bathes the coast in warm golden hues."
+      }
+    }
+  }
+}

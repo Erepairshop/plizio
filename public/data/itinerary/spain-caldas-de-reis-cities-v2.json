@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-caldas-de-reis-cities-v2",
+  "anchor": {
+    "name": "Caldas de Reis",
+    "coords": [
+      -8.64302,
+      42.60481
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:51",
+      "total_km": 1.42,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Capela de San Roque",
+            "hu": "Capela de San Roque",
+            "ro": "Capela de San Roque",
+            "en": "Capela de San Roque"
+          },
+          "coords": [
+            -8.645429,
+            42.608387
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese charmante Steinkapelle mit ihrer engen Verbindung zu lokalen Pilgertraditionen, die man am besten früh morgens in Ruhe genießt.",
+            "hu": "Csodálja meg ezt a bájos, a helyi zarándokhagyományokhoz szorosan kötődő kőkápolnát, amelyet érdemes korán reggel, a tömeg elkerülésével meglátogatni.",
+            "ro": "Admirați această capelă fermecătoare de piatră legată de tradițiile pelerinilor, cel mai bine de vizitat devreme pentru a vă bucura de o piață liniștită.",
+            "en": "Admire this charming stone chapel deeply tied to local pilgrim traditions, and best visited early to enjoy the peaceful square without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Ponte de Bermaña",
+            "hu": "Ponte de Bermaña",
+            "ro": "Ponte de Bermaña",
+            "en": "Ponte de Bermaña"
+          },
+          "coords": [
+            -8.645074,
+            42.605859
+          ],
+          "category": "landmark",
+          "arrive_at": "09:54",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese historische romanische Brücke für Pilger und machen Sie unbedingt ein Foto vom Südufer aus, um das beste Tageslicht einzufangen.",
+            "hu": "Keljen át ezen a történelmi román kori hídon, amely számtalan zarándokot vezetett, és fotózzon a déli partról a legjobb fényviszonyok érdekében.",
+            "ro": "Traversați acest pod romanic istoric pe care au pășit nenumărați pelerini și nu uitați să faceți o fotografie de pe malul sudic pentru cea mai bună lumină.",
+            "en": "Cross this historic Romanesque bridge that guided countless pilgrims over the river, and be sure to snap a photo from the southern bank for the best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de San Tomé de Caldas de Reis",
+            "hu": "Igrexa de San Tomé de Caldas de Reis",
+            "ro": "Igrexa de San Tomé de Caldas de Reis",
+            "en": "Igrexa de San Tomé de Caldas de Reis"
+          },
+          "coords": [
+            -8.642573,
+            42.604352
+          ],
+          "category": "religious",
+          "arrive_at": "10:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende romanische Kirche mit ihren bedeutenden historischen Details und achten Sie auf die aufwendigen Kragsteine am Eingang.",
+            "hu": "Fedezze fel ezt a lenyűgöző román stílusú templomot, és alaposan figyelje meg a bejáratnál található, részletesen kidolgozott, díszes kőkonzolokat.",
+            "ro": "Explorați această biserică romanică fascinantă cu detalii istorice semnificative și priviți cu atenție consolele complicate înainte de a intra în naos.",
+            "en": "Explore this fascinating Romanesque church containing significant historical details, and look closely at the intricate corbels before entering the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque-Xardín Botánico e Carballeira de Caldas de Reis",
+            "hu": "Parque-Xardín Botánico e Carballeira de Caldas de Reis",
+            "ro": "Parque-Xardín Botánico e Carballeira de Caldas de Reis",
+            "en": "Parque-Xardín Botánico e Carballeira de Caldas de Reis"
+          },
+          "coords": [
+            -8.639475,
+            42.603276
+          ],
+          "category": "park",
+          "arrive_at": "10:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem üppigen botanischen Garten, der als Kulturerbe gilt, und ruhen Sie sich unbedingt unter den Schatten spendenden alten Eichen aus.",
+            "hu": "Pihenjen ebben a kulturális örökségként elismert buja botanikus kertben, ahol mindenképpen érdemes egy pillanatra megpihenni az ősi tölgyfák árnyékában.",
+            "ro": "Relaxați-vă în această grădină botanică luxuriantă recunoscută ca patrimoniu cultural, unde ar trebui să vă odihniți un moment sub stejarii antici.",
+            "en": "Relax in this lush botanical garden recognized as a cultural heritage site, where you should take a moment to rest under the ancient oak trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Concello de Caldas de Reis",
+            "hu": "Concello de Caldas de Reis",
+            "ro": "Concello de Caldas de Reis",
+            "en": "Concello de Caldas de Reis"
+          },
+          "coords": [
+            -8.642178,
+            42.602572
+          ],
+          "category": "historical",
+          "arrive_at": "12:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Sehen Sie das administrative Herz der Stadt in einem schönen Gebäude und prüfen Sie das lokale schwarze Brett auf unerwartete abendliche Kulturveranstaltungen.",
+            "hu": "Tekintse meg a város közigazgatási központját egy gyönyörű épületben, és vessen egy pillantást a hirdetőtáblára a váratlan esti kulturális eseményekért.",
+            "ro": "Vedeți inima administrativă a orașului găzduită într-o clădire frumoasă și verificați avizierul pentru orice evenimente culturale surpriză de seară.",
+            "en": "See the administrative heart of the city housed in a beautiful building, and check the notice board for any unexpected evening cultural events."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de Santa María de Caldas de Reis",
+            "hu": "Igrexa de Santa María de Caldas de Reis",
+            "ro": "Igrexa de Santa María de Caldas de Reis",
+            "en": "Igrexa de Santa María de Caldas de Reis"
+          },
+          "coords": [
+            -8.643053,
+            42.600166
+          ],
+          "category": "religious",
+          "arrive_at": "13:41",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese wunderschöne Kirche mit Elementen aus verschiedenen Architekturepochen und besuchen Sie sie am späten Nachmittag für perfektes Licht.",
+            "hu": "Fedezze fel ezt a gyönyörű templomot, amely különböző építészeti korszakok elemeit ötvözi, és látogasson el késő délután, amikor a fény átsüt az ablakokon.",
+            "ro": "Descoperiți această biserică frumoasă cu elemente din diverse epoci arhitecturale și vizitați-o spre seară pentru a vedea lumina pe vitralii.",
+            "en": "Discover this beautiful church featuring elements from various architectural eras, and visit during late afternoon to see the sunlight hit the stained glass."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung der sakralen Atmosphäre der zentralen Kapellen und der berühmten romanischen Brücke. Suchen Sie mittags Schatten und Erholung unter den prächtigen Eichen des historischen botanischen Gartens. Machen Sie sich am Nachmittag auf den Weg zu den großen Herrenhäusern oder bewundern Sie die beeindruckenden natürlichen Wasserfälle. Lassen Sie den Abend bei einer ruhigen Landkirche oder einem gemütlichen Abendessen in der galicischen Landschaft ausklingen.",
+        "hu": "Kezdje a reggelt a város központi kápolnáinak szent atmoszférájának és az ikonikus román kori hídnak a felfedezésével. Délben keressen árnyékot és pihenést a történelmi botanikus kert csodálatos tölgyfái alatt. Délután látogasson el a hatalmas udvarházakhoz, vagy gyönyörködjön a lenyűgöző természetes vízesésekben. Az estét egy csendes vidéki templom meglátogatásával vagy egy kényelmes vacsorával zárhatja, ahogy a nap lenyugszik a galíciai táj felett.",
+        "ro": "Începeți dimineața explorând atmosfera sacră a capelelor centrale și podul romanic iconic din oraș. La amiază, găsiți umbră și relaxare sub stejarii magnifici din grădina botanică istorică. După-amiaza, aventurați-vă spre conacele grandioase sau admirați cascadele naturale impresionante din apropiere. Încheiați-vă seara vizitând o biserică rurală liniștită sau bucurându-vă de o cină relaxantă în timp ce soarele apune peste peisajul galician.",
+        "en": "Start your morning exploring the sacred atmosphere and ancient stones of the town's central chapels and the iconic Romanesque bridge. By midday, find shade and relaxation under the magnificent oak trees of the historic botanical garden. In the afternoon, venture out to the grand manor houses or take in the impressive natural waterfalls nearby. End your evening by visiting a tranquil rural church or enjoying a leisurely dinner as the sun sets over the Galician landscape."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "13:57",
+      "total_km": 4.01,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Igrexa de Santa María de Bemil",
+            "hu": "Igrexa de Santa María de Bemil",
+            "ro": "Igrexa de Santa María de Bemil",
+            "en": "Igrexa de Santa María de Bemil"
+          },
+          "coords": [
+            -8.648414,
+            42.618747
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieser in die grüne Landschaft eingebetteten Pfarrkirche als idealen und ruhigen Ausgangspunkt für Ihre Radtour.",
+            "hu": "Élvezze a zöld tájba simuló plébániatemplom békés hangulatát, amely tökéletes és nyugodt kiindulópontot kínál egy festői kerékpáros túrához.",
+            "ro": "Apreciați ambianța pașnică a acestei biserici parohiale cuibărite în peisajul verde, fiind un punct de plecare liniștit ideal pentru o plimbare cu bicicleta.",
+            "en": "Appreciate the peaceful ambiance of this parish church nestled in the green landscape, making it an ideal tranquil starting point for a scenic bicycle ride."
+          }
+        },
+        {
+          "name": {
+            "de": "Capela de San Roque",
+            "hu": "Capela de San Roque",
+            "ro": "Capela de San Roque",
+            "en": "Capela de San Roque"
+          },
+          "coords": [
+            -8.645429,
+            42.608387
+          ],
+          "category": "religious",
+          "arrive_at": "09:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.18,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese charmante Steinkapelle mit ihrer engen Verbindung zu lokalen Pilgertraditionen, die man am besten früh morgens in Ruhe genießt.",
+            "hu": "Csodálja meg ezt a bájos, a helyi zarándokhagyományokhoz szorosan kötődő kőkápolnát, amelyet érdemes korán reggel, a tömeg elkerülésével meglátogatni.",
+            "ro": "Admirați această capelă fermecătoare de piatră legată de tradițiile pelerinilor, cel mai bine de vizitat devreme pentru a vă bucura de o piață liniștită.",
+            "en": "Admire this charming stone chapel deeply tied to local pilgrim traditions, and best visited early to enjoy the peaceful square without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Ponte de Bermaña",
+            "hu": "Ponte de Bermaña",
+            "ro": "Ponte de Bermaña",
+            "en": "Ponte de Bermaña"
+          },
+          "coords": [
+            -8.645074,
+            42.605859
+          ],
+          "category": "landmark",
+          "arrive_at": "10:38",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese historische romanische Brücke für Pilger und machen Sie unbedingt ein Foto vom Südufer aus, um das beste Tageslicht einzufangen.",
+            "hu": "Keljen át ezen a történelmi román kori hídon, amely számtalan zarándokot vezetett, és fotózzon a déli partról a legjobb fényviszonyok érdekében.",
+            "ro": "Traversați acest pod romanic istoric pe care au pășit nenumărați pelerini și nu uitați să faceți o fotografie de pe malul sudic pentru cea mai bună lumină.",
+            "en": "Cross this historic Romanesque bridge that guided countless pilgrims over the river, and be sure to snap a photo from the southern bank for the best lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque-Xardín Botánico e Carballeira de Caldas de Reis",
+            "hu": "Parque-Xardín Botánico e Carballeira de Caldas de Reis",
+            "ro": "Parque-Xardín Botánico e Carballeira de Caldas de Reis",
+            "en": "Parque-Xardín Botánico e Carballeira de Caldas de Reis"
+          },
+          "coords": [
+            -8.639475,
+            42.603276
+          ],
+          "category": "park",
+          "arrive_at": "10:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem üppigen botanischen Garten, der als Kulturerbe gilt, und ruhen Sie sich unbedingt unter den Schatten spendenden alten Eichen aus.",
+            "hu": "Pihenjen ebben a kulturális örökségként elismert buja botanikus kertben, ahol mindenképpen érdemes egy pillanatra megpihenni az ősi tölgyfák árnyékában.",
+            "ro": "Relaxați-vă în această grădină botanică luxuriantă recunoscută ca patrimoniu cultural, unde ar trebui să vă odihniți un moment sub stejarii antici.",
+            "en": "Relax in this lush botanical garden recognized as a cultural heritage site, where you should take a moment to rest under the ancient oak trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradoiro da Fervenza de Segade",
+            "hu": "Miradoiro da Fervenza de Segade",
+            "ro": "Miradoiro da Fervenza de Segade",
+            "en": "Miradoiro da Fervenza de Segade"
+          },
+          "coords": [
+            -8.622911,
+            42.606084
+          ],
+          "category": "viewpoint",
+          "arrive_at": "12:19",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen spektakulären natürlichen Wasserfall mit Aussichtspunkt, aber tragen Sie unbedingt rutschfeste Schuhe, da die Felsen oft feucht sind.",
+            "hu": "Ámuljon el ezen a látványos természetes vízesésen és kilátóponton, de viseljen csúszásmentes cipőt, mert az ösvények és a sziklák meglehetősen nedvesek lehetnek.",
+            "ro": "Admirați această cascadă naturală spectaculoasă și punctul de belvedere, dar purtați încălțăminte antiderapantă, deoarece stâncile pot deveni alunecoase.",
+            "en": "Stand in awe at this spectacular natural waterfall and viewpoint, but wear sturdy non-slip shoes as the paths and rocky outcrops can get quite slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de Santo André de Cesar",
+            "hu": "Igrexa de Santo André de Cesar",
+            "ro": "Igrexa de Santo André de Cesar",
+            "en": "Igrexa de Santo André de Cesar"
+          },
+          "coords": [
+            -8.626832,
+            42.610513
+          ],
+          "category": "religious",
+          "arrive_at": "12:47",
+          "stay_min": 70,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Ausflug an dieser idyllischen Landkirche mit ihrer exquisiten traditionellen Steinmetzkunst als ruhigen Ort der Besinnung.",
+            "hu": "Zárja túráját ezen a nyugodt vidéki templomon, amely gyönyörű hagyományos kőfaragásokat mutat be, ideális helyszínt biztosítva a csendes elmélkedéshez.",
+            "ro": "Încheiați călătoria la această biserică rurală senină, cu o lucrătură rafinată în piatră, care oferă un loc liniștit pentru reflecție înainte de a pleca.",
+            "en": "Conclude your trip at this serene rural church showcasing exquisite traditional stonework, providing a quiet place for reflection before heading back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung der sakralen Atmosphäre der zentralen Kapellen und der berühmten romanischen Brücke. Suchen Sie mittags Schatten und Erholung unter den prächtigen Eichen des historischen botanischen Gartens. Machen Sie sich am Nachmittag auf den Weg zu den großen Herrenhäusern oder bewundern Sie die beeindruckenden natürlichen Wasserfälle. Lassen Sie den Abend bei einer ruhigen Landkirche oder einem gemütlichen Abendessen in der galicischen Landschaft ausklingen.",
+        "hu": "Kezdje a reggelt a város központi kápolnáinak szent atmoszférájának és az ikonikus román kori hídnak a felfedezésével. Délben keressen árnyékot és pihenést a történelmi botanikus kert csodálatos tölgyfái alatt. Délután látogasson el a hatalmas udvarházakhoz, vagy gyönyörködjön a lenyűgöző természetes vízesésekben. Az estét egy csendes vidéki templom meglátogatásával vagy egy kényelmes vacsorával zárhatja, ahogy a nap lenyugszik a galíciai táj felett.",
+        "ro": "Începeți dimineața explorând atmosfera sacră a capelelor centrale și podul romanic iconic din oraș. La amiază, găsiți umbră și relaxare sub stejarii magnifici din grădina botanică istorică. După-amiaza, aventurați-vă spre conacele grandioase sau admirați cascadele naturale impresionante din apropiere. Încheiați-vă seara vizitând o biserică rurală liniștită sau bucurându-vă de o cină relaxantă în timp ce soarele apune peste peisajul galician.",
+        "en": "Start your morning exploring the sacred atmosphere and ancient stones of the town's central chapels and the iconic Romanesque bridge. By midday, find shade and relaxation under the magnificent oak trees of the historic botanical garden. In the afternoon, venture out to the grand manor houses or take in the impressive natural waterfalls nearby. End your evening by visiting a tranquil rural church or enjoying a leisurely dinner as the sun sets over the Galician landscape."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:32",
+      "total_km": 4.95,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Fábrica Azucarera de Portas",
+            "hu": "Fábrica Azucarera de Portas",
+            "ro": "Fábrica Azucarera de Portas",
+            "en": "Fábrica Azucarera de Portas"
+          },
+          "coords": [
+            -8.655757,
+            42.590347
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betreten Sie die Überreste dieser großen industriellen Zuckerfabrik, die heute als Kulturort dient, und bewundern Sie den hoch aufragenden Schornstein.",
+            "hu": "Lépjen be ennek a nagyszabású ipari cukorgyárnak a maradványaiba, amely ma egyedülálló kulturális helyszín, és csodálja meg a hatalmas történelmi kéményt.",
+            "ro": "Pășiți în rămășițele acestei mari fabrici industriale de zahăr, acum un loc cultural unic, și admirați coșul de fum istoric care se înalță impunător.",
+            "en": "Step inside the remnants of this grand industrial sugar factory now acting as a unique cultural venue, and look up at the towering historical chimney."
+          }
+        },
+        {
+          "name": {
+            "de": "Pazo do Curuxal",
+            "hu": "Pazo do Curuxal",
+            "ro": "Pazo do Curuxal",
+            "en": "Pazo do Curuxal"
+          },
+          "coords": [
+            -8.641545,
+            42.592175
+          ],
+          "category": "historical",
+          "arrive_at": "10:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Betrachten Sie die eleganten Linien dieses historischen Herrenhauses des galicischen Adels und fotografieren Sie das prächtige Eingangstor von der Straße aus.",
+            "hu": "Vizsgálja meg ennek a hagyományos galíciai nemességet tükröző történelmi udvarháznak az elegáns vonalait, és fényképezze le a lenyűgöző bejárati kaput.",
+            "ro": "Examinați liniile elegante ale acestui conac istoric care reflectă nobilimea tradițională galiciană și fotografiați poarta sa grandioasă de la nivelul străzii.",
+            "en": "Examine the elegant lines of this historic manor house reflecting traditional Galician nobility, and capture its grand entrance gate from the street level."
+          }
+        },
+        {
+          "name": {
+            "de": "Pazo de Casal Novo",
+            "hu": "Pazo de Casal Novo",
+            "ro": "Pazo de Casal Novo",
+            "en": "Pazo de Casal Novo"
+          },
+          "coords": [
+            -8.637963,
+            42.590605
+          ],
+          "category": "historical",
+          "arrive_at": "12:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Spazieren Sie um diesen herrlichen traditionellen Pazo, der voller lokaler Geschichte steckt, und achten Sie auf das klassische Wappen in der Steinfassade.",
+            "hu": "Sétáljon körbe ezen a helyi legendákkal teli, csodálatos hagyományos pazón, és alaposan figyelje meg a kőhomlokzatba faragott klasszikus nemesi címert.",
+            "ro": "Plimbați-vă în jurul acestui pazo tradițional magnific, plin de istorie locală, și observați cu atenție stema clasică sculptată în fațada de piatră.",
+            "en": "Wander around the perimeter of this magnificent traditional pazo steeped in local lore, taking careful note of the classic crest carved into the stone facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque-Xardín Botánico e Carballeira de Caldas de Reis",
+            "hu": "Parque-Xardín Botánico e Carballeira de Caldas de Reis",
+            "ro": "Parque-Xardín Botánico e Carballeira de Caldas de Reis",
+            "en": "Parque-Xardín Botánico e Carballeira de Caldas de Reis"
+          },
+          "coords": [
+            -8.639475,
+            42.603276
+          ],
+          "category": "park",
+          "arrive_at": "13:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem üppigen botanischen Garten, der als Kulturerbe gilt, und ruhen Sie sich unbedingt unter den Schatten spendenden alten Eichen aus.",
+            "hu": "Pihenjen ebben a kulturális örökségként elismert buja botanikus kertben, ahol mindenképpen érdemes egy pillanatra megpihenni az ősi tölgyfák árnyékában.",
+            "ro": "Relaxați-vă în această grădină botanică luxuriantă recunoscută ca patrimoniu cultural, unde ar trebui să vă odihniți un moment sub stejarii antici.",
+            "en": "Relax in this lush botanical garden recognized as a cultural heritage site, where you should take a moment to rest under the ancient oak trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradoiro da Fervenza de Segade",
+            "hu": "Miradoiro da Fervenza de Segade",
+            "ro": "Miradoiro da Fervenza de Segade",
+            "en": "Miradoiro da Fervenza de Segade"
+          },
+          "coords": [
+            -8.622911,
+            42.606084
+          ],
+          "category": "viewpoint",
+          "arrive_at": "14:55",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen spektakulären natürlichen Wasserfall mit Aussichtspunkt, aber tragen Sie unbedingt rutschfeste Schuhe, da die Felsen oft feucht sind.",
+            "hu": "Ámuljon el ezen a látványos természetes vízesésen és kilátóponton, de viseljen csúszásmentes cipőt, mert az ösvények és a sziklák meglehetősen nedvesek lehetnek.",
+            "ro": "Admirați această cascadă naturală spectaculoasă și punctul de belvedere, dar purtați încălțăminte antiderapantă, deoarece stâncile pot deveni alunecoase.",
+            "en": "Stand in awe at this spectacular natural waterfall and viewpoint, but wear sturdy non-slip shoes as the paths and rocky outcrops can get quite slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de Santo André de Cesar",
+            "hu": "Igrexa de Santo André de Cesar",
+            "ro": "Igrexa de Santo André de Cesar",
+            "en": "Igrexa de Santo André de Cesar"
+          },
+          "coords": [
+            -8.626832,
+            42.610513
+          ],
+          "category": "religious",
+          "arrive_at": "15:22",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Ausflug an dieser idyllischen Landkirche mit ihrer exquisiten traditionellen Steinmetzkunst als ruhigen Ort der Besinnung.",
+            "hu": "Zárja túráját ezen a nyugodt vidéki templomon, amely gyönyörű hagyományos kőfaragásokat mutat be, ideális helyszínt biztosítva a csendes elmélkedéshez.",
+            "ro": "Încheiați călătoria la această biserică rurală senină, cu o lucrătură rafinată în piatră, care oferă un loc liniștit pentru reflecție înainte de a pleca.",
+            "en": "Conclude your trip at this serene rural church showcasing exquisite traditional stonework, providing a quiet place for reflection before heading back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung der sakralen Atmosphäre der zentralen Kapellen und der berühmten romanischen Brücke. Suchen Sie mittags Schatten und Erholung unter den prächtigen Eichen des historischen botanischen Gartens. Machen Sie sich am Nachmittag auf den Weg zu den großen Herrenhäusern oder bewundern Sie die beeindruckenden natürlichen Wasserfälle. Lassen Sie den Abend bei einer ruhigen Landkirche oder einem gemütlichen Abendessen in der galicischen Landschaft ausklingen.",
+        "hu": "Kezdje a reggelt a város központi kápolnáinak szent atmoszférájának és az ikonikus román kori hídnak a felfedezésével. Délben keressen árnyékot és pihenést a történelmi botanikus kert csodálatos tölgyfái alatt. Délután látogasson el a hatalmas udvarházakhoz, vagy gyönyörködjön a lenyűgöző természetes vízesésekben. Az estét egy csendes vidéki templom meglátogatásával vagy egy kényelmes vacsorával zárhatja, ahogy a nap lenyugszik a galíciai táj felett.",
+        "ro": "Începeți dimineața explorând atmosfera sacră a capelelor centrale și podul romanic iconic din oraș. La amiază, găsiți umbră și relaxare sub stejarii magnifici din grădina botanică istorică. După-amiaza, aventurați-vă spre conacele grandioase sau admirați cascadele naturale impresionante din apropiere. Încheiați-vă seara vizitând o biserică rurală liniștită sau bucurându-vă de o cină relaxantă în timp ce soarele apune peste peisajul galician.",
+        "en": "Start your morning exploring the sacred atmosphere and ancient stones of the town's central chapels and the iconic Romanesque bridge. By midday, find shade and relaxation under the magnificent oak trees of the historic botanical garden. In the afternoon, venture out to the grand manor houses or take in the impressive natural waterfalls nearby. End your evening by visiting a tranquil rural church or enjoying a leisurely dinner as the sun sets over the Galician landscape."
+      }
+    }
+  }
+}

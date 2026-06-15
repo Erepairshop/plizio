@@ -1,0 +1,520 @@
+{
+  "city_id": "thailand-ko-pha-ngan-cities-v2",
+  "anchor": {
+    "name": "Ko Pha-ngan",
+    "coords": [
+      100.03,
+      9.74
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:51",
+      "total_km": 4.77,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Slip N Fly",
+            "hu": "Slip N Fly",
+            "ro": "Slip N Fly",
+            "en": "Slip N Fly"
+          },
+          "coords": [
+            100.006371,
+            9.752371
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie aufregende Wasserrutschen in diesem tropischen Park an einem sonnigen Tag, aber denken Sie an starken Sonnenschutz und zusätzliche Handtücher.",
+            "hu": "Élvezze az izgalmas csúszdákat és vízi játékokat ebben a trópusi parkban, de mindenképpen vigyen magával erős naptejet és extra törölközőt.",
+            "ro": "Experimentați topogane cu apă și activități palpitante în acest parc tropical perfect pentru o zi însorită, dar nu uitați crema de soare și prosoapele.",
+            "en": "Experience thrilling slides and water activities at this tropical park, perfect for a sunny day, but bring strong sunscreen and extra towels."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruined building",
+            "hu": "Ruined building",
+            "ro": "Ruined building",
+            "en": "Ruined building"
+          },
+          "coords": [
+            100.014544,
+            9.751742
+          ],
+          "category": "historical",
+          "arrive_at": "10:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.88,
+          "tip_5lang": {
+            "de": "Erkunden Sie die stimmungsvolle Atmosphäre dieser überwucherten Ruinen für einzigartige Fotos, idealerweise am frühen Morgen bei weichem Licht.",
+            "hu": "Fedezze fel ezen elhagyatott, benőtt romok hangulatos atmoszféráját, amely egyedi fotótémákat kínál, de érdemes kora reggel érkezni a lágy fények miatt.",
+            "ro": "Explorați atmosfera evocatoare a acestor ruine abandonate, ideale pentru fotografii unice, mai ales dimineața devreme când lumina este blândă.",
+            "en": "Explore the evocative atmosphere of these abandoned, overgrown ruins that offer unique photo opportunities, best visited early when the light is soft."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Ma Due Wan",
+            "hu": "Wat Ma Due Wan",
+            "ro": "Wat Ma Due Wan",
+            "en": "Wat Ma Due Wan"
+          },
+          "coords": [
+            100.007692,
+            9.738498
+          ],
+          "category": "religious",
+          "arrive_at": "12:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.63,
+          "tip_5lang": {
+            "de": "Bewundern Sie die friedliche Architektur dieses weniger bekannten, von Natur umgebenen Tempels, und denken Sie daran, Schultern und Knie zu bedecken.",
+            "hu": "Csodálja meg ennek a kevésbé ismert, természettel övezett templomnak a békés építészetét, és ügyeljen arra, hogy visszafogott ruházatot viseljen.",
+            "ro": "Admirați arhitectura pașnică a acestui templu mai puțin cunoscut, înconjurat de natură, amintindu-vă să vă acoperiți umerii și genunchii.",
+            "en": "Admire the peaceful architecture of this lesser-known temple surrounded by nature, remembering to dress modestly by covering your shoulders and knees."
+          }
+        },
+        {
+          "name": {
+            "de": "Phaeng Yai Waterfall",
+            "hu": "Phaeng Yai Waterfall",
+            "ro": "Phaeng Yai Waterfall",
+            "en": "Phaeng Yai Waterfall"
+          },
+          "coords": [
+            100.015591,
+            9.734669
+          ],
+          "category": "landmark",
+          "arrive_at": "13:02",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.98,
+          "tip_5lang": {
+            "de": "Wandern Sie durch üppige Dschungelpfade zu diesem mehrstufigen Wasserfall, wofür festes Schuhwerk auf den rutschigen Felsen unerlässlich ist.",
+            "hu": "Túrázzon végig a buja dzsungel ösvényein ehhez a többlépcsős vízeséshez, és mindenképpen viseljen stabil cipőt a csúszós sziklák miatt.",
+            "ro": "Faceți o drumeție prin jungla luxuriantă până la această cascadă în trepte, asigurându-vă că purtați încălțăminte adecvată pentru pietrele alunecoase.",
+            "en": "Hike through lush jungle trails to reach this multi-tiered cascading waterfall, making sure you wear sturdy shoes suitable for slippery, uneven rocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Khao Mai Ngam",
+            "hu": "Khao Mai Ngam",
+            "ro": "Khao Mai Ngam",
+            "en": "Khao Mai Ngam"
+          },
+          "coords": [
+            100.02627,
+            9.730836
+          ],
+          "category": "natural",
+          "arrive_at": "14:21",
+          "stay_min": 90,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 1.28,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem wunderschönen Aussichtspunkt mit weitem Blick über die Küste der Insel und bringen Sie ausreichend Wasser mit.",
+            "hu": "Pihenjen meg ezen a gyönyörű természetes kilátóponton, amely lenyűgöző panorámát nyújt a szigetre, de vigyen magával elég ivóvizet az útra.",
+            "ro": "Relaxați-vă la acest punct de belvedere natural care oferă o panoramă superbă a coastei și aduceți multă apă, deoarece există puține facilități.",
+            "en": "Relax at this beautiful natural viewpoint offering sweeping views of the island's coastline, and bring plenty of water as there are few facilities nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit Wasserspaß im Slip N Fly und an geheimnisvollen Ruinen. Mittags finden Sie Ruhe im Wat Ma Due Wan. Der Nachmittag bietet eine Wanderung zum Phaeng Yai Wasserfall. Der Abend endet am malerischen Khao Mai Ngam.",
+        "hu": "A reggel vízi szórakozással indul a Slip N Fly-nál és a romoknál. A dél a Wat Ma Due Wan nyugalmát hozza. Délután a Phaeng Yai vízeséshez túrázunk. Az estét a Khao Mai Ngam festői kilátása zárja.",
+        "ro": "Dimineața începe cu distracție la Slip N Fly și ruine misterioase. Prânzul aduce liniște la Wat Ma Due Wan. După-amiaza oferă o drumeție la Cascada Phaeng Yai. Seara se încheie cu priveliștile de la Khao Mai Ngam.",
+        "en": "Morning starts with water fun at Slip N Fly and mysterious ruins. Midday brings serenity at Wat Ma Due Wan. Afternoon features a trek to Phaeng Yai Waterfall. Evening concludes with scenic views at Khao Mai Ngam."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:38",
+      "total_km": 7.79,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ruined building",
+            "hu": "Ruined building",
+            "ro": "Ruined building",
+            "en": "Ruined building"
+          },
+          "coords": [
+            100.014544,
+            9.751742
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die stimmungsvolle Atmosphäre dieser überwucherten Ruinen für einzigartige Fotos, idealerweise am frühen Morgen bei weichem Licht.",
+            "hu": "Fedezze fel ezen elhagyatott, benőtt romok hangulatos atmoszféráját, amely egyedi fotótémákat kínál, de érdemes kora reggel érkezni a lágy fények miatt.",
+            "ro": "Explorați atmosfera evocatoare a acestor ruine abandonate, ideale pentru fotografii unice, mai ales dimineața devreme când lumina este blândă.",
+            "en": "Explore the evocative atmosphere of these abandoned, overgrown ruins that offer unique photo opportunities, best visited early when the light is soft."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Ma Due Wan",
+            "hu": "Wat Ma Due Wan",
+            "ro": "Wat Ma Due Wan",
+            "en": "Wat Ma Due Wan"
+          },
+          "coords": [
+            100.007692,
+            9.738498
+          ],
+          "category": "religious",
+          "arrive_at": "10:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.63,
+          "tip_5lang": {
+            "de": "Bewundern Sie die friedliche Architektur dieses weniger bekannten, von Natur umgebenen Tempels, und denken Sie daran, Schultern und Knie zu bedecken.",
+            "hu": "Csodálja meg ennek a kevésbé ismert, természettel övezett templomnak a békés építészetét, és ügyeljen arra, hogy visszafogott ruházatot viseljen.",
+            "ro": "Admirați arhitectura pașnică a acestui templu mai puțin cunoscut, înconjurat de natură, amintindu-vă să vă acoperiți umerii și genunchii.",
+            "en": "Admire the peaceful architecture of this lesser-known temple surrounded by nature, remembering to dress modestly by covering your shoulders and knees."
+          }
+        },
+        {
+          "name": {
+            "de": "Phangan Elephant Sanctuary",
+            "hu": "Phangan Elephant Sanctuary",
+            "ro": "Phangan Elephant Sanctuary",
+            "en": "Phangan Elephant Sanctuary"
+          },
+          "coords": [
+            100.008631,
+            9.73294
+          ],
+          "category": "recreational",
+          "arrive_at": "11:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.68,
+          "tip_5lang": {
+            "de": "Begegnen Sie geretteten Elefanten in diesem ethischen Schutzgebiet auf respektvolle Weise, aber buchen Sie im Voraus, da die Besucherzahlen begrenzt sind.",
+            "hu": "Találkozzon etikus körülmények között megmentett elefántokkal ebben a békés menedékben, és foglaljon előre, mivel a napi látogatói létszám korlátozott.",
+            "ro": "Interacționați etic cu elefanții salvați în acest sanctuar pașnic și rezervați-vă vizita în avans, deoarece capacitatea zilnică este strict limitată.",
+            "en": "Interact ethically with rescued giants at this peaceful sanctuary, and book your visit in advance since daily guest capacity is strictly limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Khao Mai Ngam",
+            "hu": "Khao Mai Ngam",
+            "ro": "Khao Mai Ngam",
+            "en": "Khao Mai Ngam"
+          },
+          "coords": [
+            100.02627,
+            9.730836
+          ],
+          "category": "natural",
+          "arrive_at": "12:49",
+          "stay_min": 60,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.97,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem wunderschönen Aussichtspunkt mit weitem Blick über die Küste der Insel und bringen Sie ausreichend Wasser mit.",
+            "hu": "Pihenjen meg ezen a gyönyörű természetes kilátóponton, amely lenyűgöző panorámát nyújt a szigetre, de vigyen magával elég ivóvizet az útra.",
+            "ro": "Relaxați-vă la acest punct de belvedere natural care oferă o panoramă superbă a coastei și aduceți multă apă, deoarece există puține facilități.",
+            "en": "Relax at this beautiful natural viewpoint offering sweeping views of the island's coastline, and bring plenty of water as there are few facilities nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Just For Fun Ziplining",
+            "hu": "Just For Fun Ziplining",
+            "ro": "Just For Fun Ziplining",
+            "en": "Just For Fun Ziplining"
+          },
+          "coords": [
+            100.038329,
+            9.728609
+          ],
+          "category": "landmark",
+          "arrive_at": "13:56",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.33,
+          "tip_5lang": {
+            "de": "Gleiten Sie auf aufregenden Seilrutschen über das atemberaubende tropische Blätterdach, tragen Sie jedoch eng anliegende Kleidung und geschlossene Schuhe.",
+            "hu": "Sikoljon át a lélegzetelállító trópusi lombok felett ezen az izgalmas drótkötélpályán, és a biztonság érdekében viseljen zárt cipőt és szoros ruházatot.",
+            "ro": "Alunecați deasupra coronamentului tropical pe tiroliene palpitante, asigurându-vă că purtați haine mulate și încălțăminte închisă pentru siguranță.",
+            "en": "Glide over the breathtaking tropical canopy on thrilling zipline courses, but wear tight-fitting clothes and closed-toe shoes for safety and comfort."
+          }
+        },
+        {
+          "name": {
+            "de": "Jungle Flight Adventure Park",
+            "hu": "Jungle Flight Adventure Park",
+            "ro": "Jungle Flight Adventure Park",
+            "en": "Jungle Flight Adventure Park"
+          },
+          "coords": [
+            100.040533,
+            9.726923
+          ],
+          "category": "landmark",
+          "arrive_at": "14:58",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.31,
+          "tip_5lang": {
+            "de": "Gehen Sie auf Hängebrücken und Hindernisparcours im dichten Wald an Ihre Grenzen und halten Sie Insektenschutzmittel gegen Mücken bereit.",
+            "hu": "Tegye próbára magát a sűrű erdő lombkoronasétányain és akadálypályáin, de tartson magánál szúnyogriasztót a túra során jelentkező rovarok ellen.",
+            "ro": "Depășiți-vă limitele pe podurile suspendate și traseele cu obstacole din pădurea deasă, având la îndemână un repelent pentru insecte.",
+            "en": "Push your limits on canopy walkways and obstacle courses in the dense forest, and keep bug repellent handy to ward off mosquitoes during the trek."
+          }
+        },
+        {
+          "name": {
+            "de": "Halfmoon Festival",
+            "hu": "Halfmoon Festival",
+            "ro": "Halfmoon Festival",
+            "en": "Halfmoon Festival"
+          },
+          "coords": [
+            100.028142,
+            9.714535
+          ],
+          "category": "landmark",
+          "arrive_at": "16:08",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.87,
+          "tip_5lang": {
+            "de": "Tanzen Sie die ganze Nacht in einer spektakulären Dschungelkulisse unter den Sternen, aber organisieren Sie Ihr Taxi für den Rückweg im Voraus.",
+            "hu": "Táncolja át az éjszakát egy látványos dzsungeles helyszínen a csillagok alatt, de a hosszas várakozás elkerülése érdekében előre szervezze le a fuvart.",
+            "ro": "Dansați toată noaptea într-un decor spectaculos din junglă, dar aranjați-vă din timp transportul cu taxiul înapoi pentru a evita așteptările lungi.",
+            "en": "Dance the night away in a spectacular jungle setting under the stars, but arrange your taxi transport back to the hotel beforehand to avoid long waits."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen erkundet alte Ruinen und den friedlichen Wat Ma Due Wan. Mittags besuchen Sie gerettete Elefanten und das Khao Mai Ngam. Nachmittags erwartet Sie Adrenalin im Zipline-Park. Der Abend führt Sie zum legendären Halfmoon Festival.",
+        "hu": "A reggel ősi romokat és a békés Wat Ma Due Wan templomot tárja fel. Délben a megmentett elefántok és a Khao Mai Ngam következik. A délután az adrenaliné a drótkötélpályákon. Az estét a híres Halfmoon Fesztiválon töltheti.",
+        "ro": "Dimineața explorează ruinele istorice și Wat Ma Due Wan. Prânzul implică vizitarea elefanților și Khao Mai Ngam. După-amiaza aduce adrenalină în parcurile de tiroliană. Seara te lasă la celebrul Festival Halfmoon.",
+        "en": "Morning explores the historic ruined building and peaceful Wat Ma Due Wan. Midday involves rescuing elephants and reaching Khao Mai Ngam. Afternoon is pure adrenaline at the zipline parks. Evening drops you into the famous Halfmoon Festival."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:36",
+      "total_km": 9.74,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Slip N Fly",
+            "hu": "Slip N Fly",
+            "ro": "Slip N Fly",
+            "en": "Slip N Fly"
+          },
+          "coords": [
+            100.006371,
+            9.752371
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie aufregende Wasserrutschen in diesem tropischen Park an einem sonnigen Tag, aber denken Sie an starken Sonnenschutz und zusätzliche Handtücher.",
+            "hu": "Élvezze az izgalmas csúszdákat és vízi játékokat ebben a trópusi parkban, de mindenképpen vigyen magával erős naptejet és extra törölközőt.",
+            "ro": "Experimentați topogane cu apă și activități palpitante în acest parc tropical perfect pentru o zi însorită, dar nu uitați crema de soare și prosoapele.",
+            "en": "Experience thrilling slides and water activities at this tropical park, perfect for a sunny day, but bring strong sunscreen and extra towels."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruined building",
+            "hu": "Ruined building",
+            "ro": "Ruined building",
+            "en": "Ruined building"
+          },
+          "coords": [
+            100.014544,
+            9.751742
+          ],
+          "category": "historical",
+          "arrive_at": "10:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.88,
+          "tip_5lang": {
+            "de": "Erkunden Sie die stimmungsvolle Atmosphäre dieser überwucherten Ruinen für einzigartige Fotos, idealerweise am frühen Morgen bei weichem Licht.",
+            "hu": "Fedezze fel ezen elhagyatott, benőtt romok hangulatos atmoszféráját, amely egyedi fotótémákat kínál, de érdemes kora reggel érkezni a lágy fények miatt.",
+            "ro": "Explorați atmosfera evocatoare a acestor ruine abandonate, ideale pentru fotografii unice, mai ales dimineața devreme când lumina este blândă.",
+            "en": "Explore the evocative atmosphere of these abandoned, overgrown ruins that offer unique photo opportunities, best visited early when the light is soft."
+          }
+        },
+        {
+          "name": {
+            "de": "Phaeng Yai Waterfall",
+            "hu": "Phaeng Yai Waterfall",
+            "ro": "Phaeng Yai Waterfall",
+            "en": "Phaeng Yai Waterfall"
+          },
+          "coords": [
+            100.015591,
+            9.734669
+          ],
+          "category": "landmark",
+          "arrive_at": "11:36",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.89,
+          "tip_5lang": {
+            "de": "Wandern Sie durch üppige Dschungelpfade zu diesem mehrstufigen Wasserfall, wofür festes Schuhwerk auf den rutschigen Felsen unerlässlich ist.",
+            "hu": "Túrázzon végig a buja dzsungel ösvényein ehhez a többlépcsős vízeséshez, és mindenképpen viseljen stabil cipőt a csúszós sziklák miatt.",
+            "ro": "Faceți o drumeție prin jungla luxuriantă până la această cascadă în trepte, asigurându-vă că purtați încălțăminte adecvată pentru pietrele alunecoase.",
+            "en": "Hike through lush jungle trails to reach this multi-tiered cascading waterfall, making sure you wear sturdy shoes suitable for slippery, uneven rocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Phangan Elephant Sanctuary",
+            "hu": "Phangan Elephant Sanctuary",
+            "ro": "Phangan Elephant Sanctuary",
+            "en": "Phangan Elephant Sanctuary"
+          },
+          "coords": [
+            100.008631,
+            9.73294
+          ],
+          "category": "recreational",
+          "arrive_at": "12:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Begegnen Sie geretteten Elefanten in diesem ethischen Schutzgebiet auf respektvolle Weise, aber buchen Sie im Voraus, da die Besucherzahlen begrenzt sind.",
+            "hu": "Találkozzon etikus körülmények között megmentett elefántokkal ebben a békés menedékben, és foglaljon előre, mivel a napi látogatói létszám korlátozott.",
+            "ro": "Interacționați etic cu elefanții salvați în acest sanctuar pașnic și rezervați-vă vizita în avans, deoarece capacitatea zilnică este strict limitată.",
+            "en": "Interact ethically with rescued giants at this peaceful sanctuary, and book your visit in advance since daily guest capacity is strictly limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Khao Mai Ngam",
+            "hu": "Khao Mai Ngam",
+            "ro": "Khao Mai Ngam",
+            "en": "Khao Mai Ngam"
+          },
+          "coords": [
+            100.02627,
+            9.730836
+          ],
+          "category": "natural",
+          "arrive_at": "13:57",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.97,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem wunderschönen Aussichtspunkt mit weitem Blick über die Küste der Insel und bringen Sie ausreichend Wasser mit.",
+            "hu": "Pihenjen meg ezen a gyönyörű természetes kilátóponton, amely lenyűgöző panorámát nyújt a szigetre, de vigyen magával elég ivóvizet az útra.",
+            "ro": "Relaxați-vă la acest punct de belvedere natural care oferă o panoramă superbă a coastei și aduceți multă apă, deoarece există puține facilități.",
+            "en": "Relax at this beautiful natural viewpoint offering sweeping views of the island's coastline, and bring plenty of water as there are few facilities nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "ATV Speed Koh Phangan Extreme Attractions",
+            "hu": "ATV Speed Koh Phangan Extreme Attractions",
+            "ro": "ATV Speed Koh Phangan Extreme Attractions",
+            "en": "ATV Speed Koh Phangan Extreme Attractions"
+          },
+          "coords": [
+            100.043096,
+            9.729667
+          ],
+          "category": "landmark",
+          "arrive_at": "15:01",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.86,
+          "tip_5lang": {
+            "de": "Düsen Sie auf einer geführten ATV-Tour durch schlammige Pfade und raues Gelände, und verzichten Sie auf helle Kleidung, da es sehr schmutzig werden kann.",
+            "hu": "Száguldjon végig a földutakon és a zord terepen egy vezetett quad túrán, de számítson a sárra, így semmiképp se viseljen világos ruhákat.",
+            "ro": "Explorați traseele de pământ și terenul accidentat într-o aventură cu ATV-ul, fiind pregătiți să vă murdăriți, așa că evitați hainele deschise la culoare.",
+            "en": "Roar through dirt trails and rugged terrain on a guided ATV adventure, but be prepared to get muddy so avoid wearing any light-colored clothing."
+          }
+        },
+        {
+          "name": {
+            "de": "Baan Tai Elephant Trekking",
+            "hu": "Baan Tai Elephant Trekking",
+            "ro": "Baan Tai Elephant Trekking",
+            "en": "Baan Tai Elephant Trekking"
+          },
+          "coords": [
+            100.037795,
+            9.722318
+          ],
+          "category": "landmark",
+          "arrive_at": "16:03",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.01,
+          "tip_5lang": {
+            "de": "Verbinden Sie sich in diesem Camp durch nachhaltige Begegnungen mit Elefanten mit dem Dschungel und vergessen Sie Ihre Kamera für tolle Landschaftsbilder nicht.",
+            "hu": "Kerüljön összhangba a dzsungellel a fenntartható elefántos programok során, és ne hagyja otthon a fényképezőgépét a lenyűgöző táj megörökítéséhez.",
+            "ro": "Conectați-vă cu mediul junglei prin interacțiuni sustenabile cu elefanții din această tabără și nu uitați aparatul foto pentru a surprinde peisajele.",
+            "en": "Connect with the jungle surroundings through sustainable elephant interactions at this camp, and don't forget your camera to capture the lush scenery."
+          }
+        },
+        {
+          "name": {
+            "de": "Halfmoon Festival",
+            "hu": "Halfmoon Festival",
+            "ro": "Halfmoon Festival",
+            "en": "Halfmoon Festival"
+          },
+          "coords": [
+            100.028142,
+            9.714535
+          ],
+          "category": "landmark",
+          "arrive_at": "17:06",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.33,
+          "tip_5lang": {
+            "de": "Tanzen Sie die ganze Nacht in einer spektakulären Dschungelkulisse unter den Sternen, aber organisieren Sie Ihr Taxi für den Rückweg im Voraus.",
+            "hu": "Táncolja át az éjszakát egy látványos dzsungeles helyszínen a csillagok alatt, de a hosszas várakozás elkerülése érdekében előre szervezze le a fuvart.",
+            "ro": "Dansați toată noaptea într-un decor spectaculos din junglă, dar aranjați-vă din timp transportul cu taxiul înapoi pentru a evita așteptările lungi.",
+            "en": "Dance the night away in a spectacular jungle setting under the stars, but arrange your taxi transport back to the hotel beforehand to avoid long waits."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen kombiniert Wasserspaß im Slip N Fly mit verlassenen Ruinen. Mittags locken Wasserfälle und sanfte Elefanten. Der Nachmittag bietet ATV-Action und Küstenblicke. Am Abend wird auf dem Halfmoon Festival getanzt.",
+        "hu": "A reggel a Slip N Fly izgalmait és elhagyatott romokat ötvöz. A dél dzsungelbéli vízeséseket és szelíd elefántokat tartogat. A délután tele van quad kalandokkal. Az estét a Halfmoon Fesztivál fergeteges bulija koronázza meg.",
+        "ro": "Dimineața combină topoganele de la Slip N Fly cu ruinele abandonate. Prânzul amestecă cascade cu elefanți blânzi. După-amiaza este plină de acțiune cu ATV-uri. Seara este pregătită pentru dans la Festivalul Halfmoon.",
+        "en": "Morning combines exciting slides at Slip N Fly with abandoned ruins. Midday mixes jungle waterfalls with gentle elephants. Afternoon is packed with ATV action and coastal views. Evening is set for dancing at the Halfmoon Festival."
+      }
+    }
+  }
+}

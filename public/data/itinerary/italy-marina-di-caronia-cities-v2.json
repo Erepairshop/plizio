@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-marina-di-caronia-cities-v2",
+  "anchor": {
+    "name": "Marina di Caronia",
+    "coords": [
+      14.44634,
+      38.0343
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:06",
+      "total_km": 2.66,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Historische Residenz Francesca Mirabile Mancusio",
+            "hu": "Francesca Mirabile Mancusio Történelmi Rezidencia",
+            "ro": "Reședința Istorică Francesca Mirabile Mancusio",
+            "en": "Historic Residence Francesca Mirabile Mancusio"
+          },
+          "coords": [
+            14.449341,
+            38.033629
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Spaziergang an dieser historischen Residenz und bewundern Sie die klassische Architektur, bevor Sie das Dorf erkunden.",
+            "hu": "Kezdje a sétát ennél a történelmi rezidenciánál, megcsodálva annak klasszikus építészetét, mielőtt beljebb merülne a faluban.",
+            "ro": "Începeți plimbarea la această reședință istorică, admirând arhitectura sa clasică înainte de a explora mai departe satul.",
+            "en": "Start your walk at this historic residence, taking time to admire its classic architecture before heading deeper into the village."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Zisterne",
+            "hu": "Római Ciszterna",
+            "ro": "Cisterna Romană",
+            "en": "Roman Cistern"
+          },
+          "coords": [
+            14.445147,
+            38.032519
+          ],
+          "category": "historical",
+          "arrive_at": "09:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende römische Zisterne, die die antike Wasserwirtschaft zeigt, aber tragen Sie unbedingt festes Schuhwerk.",
+            "hu": "Fedezze fel ezt a lenyűgöző római ciszternát, amely bemutatja az ókori vízgazdálkodást, de mindenképpen viseljen kényelmes, zárt cipőt.",
+            "ro": "Explorați această fascinantă cisternă romană care evidențiază gestionarea antică a apei, dar asigurați-vă că purtați încălțăminte adecvată pentru teren.",
+            "en": "Explore this fascinating Roman cistern that highlights the area's ancient water management, but be sure to wear sturdy shoes for the uneven ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von San Francesco",
+            "hu": "San Francesco Templom",
+            "ro": "Biserica San Francesco",
+            "en": "Church of San Francesco"
+          },
+          "coords": [
+            14.44044,
+            38.027423
+          ],
+          "category": "religious",
+          "arrive_at": "11:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Betreten Sie diese friedliche Kirche, um die religiöse Kunst zu bewundern, ein perfekter Ort für einen Moment der ruhigen Besinnung.",
+            "hu": "Lépjen be ebbe a békés templomba, hogy megcsodálja vallási művészetét és csendes légkörét, amely tökéletes egy kis megnyugvásra a túra során.",
+            "ro": "Pășiți în această biserică pașnică pentru a admira arta religioasă și atmosfera liniștită, un loc perfect pentru un moment de reflecție.",
+            "en": "Step into this peaceful church to admire its religious art and quiet atmosphere, a perfect place for a moment of quiet reflection during your tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvedere Cinquegrani",
+            "hu": "Belvedere Cinquegrani",
+            "ro": "Belvedere Cinquegrani",
+            "en": "Belvedere Cinquegrani"
+          },
+          "coords": [
+            14.444349,
+            38.028328
+          ],
+          "category": "natural",
+          "arrive_at": "12:12",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Panoramablick auf die Küste von diesem natürlichen Aussichtspunkt und halten Sie Ihre Kamera für das blaue Meer bereit.",
+            "hu": "Élvezze a tengerpartra nyíló pazar panorámát erről a természetes kilátópontról, és tartsa készenlétben fényképezőgépét a tenger kék árnyalataihoz.",
+            "ro": "Bucurați-vă de vederea panoramică a coastei de la acest punct de belvedere natural și pregătiți aparatul foto pentru nuanțele albastre ale mării.",
+            "en": "Take in the sweeping panoramic views of the coastline from this natural viewpoint, and keep your camera ready for the stunning blue hues of the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvedere Santuzza",
+            "hu": "Belvedere Santuzza",
+            "ro": "Belvedere Santuzza",
+            "en": "Belvedere Santuzza"
+          },
+          "coords": [
+            14.450702,
+            38.030177
+          ],
+          "category": "natural",
+          "arrive_at": "12:46",
+          "stay_min": 25,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.59,
+          "tip_5lang": {
+            "de": "Genießen Sie einen weiteren spektakulären Blick auf Marina di Caronia von dieser Terrasse, die in der hellen Mittagssonne besonders fotogen ist.",
+            "hu": "Élvezze Marina di Caronia egy másik látványos szögét erről a magaslati teraszról, amely a ragyogó déli napsütésben különösen fotogén.",
+            "ro": "Bucurați-vă de un alt unghi spectaculos al Marinei di Caronia de pe această terasă înaltă, care este deosebit de fotogenică în soarele amiezii.",
+            "en": "Enjoy another spectacular angle of Marina di Caronia from this elevated terrace, which is especially photogenic in the bright midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Little Paradise",
+            "hu": "Lido Little Paradise",
+            "ro": "Lido Little Paradise",
+            "en": "Lido Little Paradise"
+          },
+          "coords": [
+            14.445824,
+            38.034447
+          ],
+          "category": "recreational",
+          "arrive_at": "13:21",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.64,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem einladenden Strand, mieten Sie eine Sonnenliege und genießen Sie ein erfrischendes Bad im klaren Tyrrhenischen Meer.",
+            "hu": "Pihenjen meg ezen a hívogató helyi strandon, ahol napozóágyat bérelhet, és a hosszú séta után élvezheti a Tirrén-tenger frissítő vizét.",
+            "ro": "Relaxați-vă la această plajă locală primitoare unde puteți închiria un șezlong și vă puteți bucura de o baie răcoroasă în apele tireniene.",
+            "en": "Relax at this welcoming local beach where you can rent a sunbed and enjoy a refreshing swim in the clear Tyrrhenian waters after a long walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung des reichen Erbes des Dorfes in der eleganten historischen Residenz. Ein kurzer Spaziergang führt Sie danach zur faszinierenden römischen Zisterne.\n\nDer Mittag ist spiritueller Ruhe und malerischen Aussichten gewidmet. Nach der friedlichen Kirche San Francesco spazieren Sie zum Belvedere Cinquegrani.\n\nAm Nachmittag genießen Sie noch mehr atemberaubende Panoramen vom Belvedere Santuzza, während Sie sich auf den Weg zum Meer machen.\n\nBeenden Sie Ihren Tag mit einer wohlverdienten Pause im Lido Little Paradise, wo Sie am Strand entspannen können.",
+        "hu": "Kezdje a reggelt a falu gazdag örökségének felfedezésével az elegáns Történelmi Rezidenciánál. Innen egy rövid séta vezet a lenyűgöző Római Ciszternához.\n\nA dél a csendé és a festői kilátásoké. A békés San Francesco templom után sétáljon fel a Belvedere Cinquegranihoz.\n\nDélután élvezze az újabb lélegzetelállító panorámát a Belvedere Santuzzáról, miközben a tenger felé veszi az irányt.\n\nZárja a napot egy jól megérdemelt pihenéssel a Lido Little Paradise strandon, ahol megpihenhet és hallgathatja a lágy hullámokat.",
+        "ro": "Începeți dimineața explorând patrimoniul bogat al satului la eleganta Reședință Istorică. De acolo, o scurtă plimbare duce la fascinanta Cisternă Romană.\n\nAmiaza este dedicată calmului spiritual și priveliștilor pitorești. După ce vizitați biserica liniștită San Francesco, vă veți îndrepta spre Belvedere Cinquegrani.\n\nDupă-amiaza, bucurați-vă de și mai multe panorame uluitoare de la Belvedere Santuzza în timp ce vă îndreptați spre mare.\n\nÎncheiați-vă ziua cu o odihnă bine meritată la Lido Little Paradise, unde vă puteți relaxa pe plajă ascultând valurile.",
+        "en": "Start your morning exploring the village's rich heritage, beginning at the elegant Dimora storica. From there, a short stroll leads to the fascinating Cisterna Romana.\n\nMidday is dedicated to spiritual calm and scenic views. After visiting the peaceful Chiesa di San Francesco, you'll walk up to Belvedere Cinquegrani.\n\nIn the afternoon, enjoy even more breathtaking panoramas from Belvedere Santuzza as you make your way towards the sea.\n\nConclude your day with a well-deserved rest at Lido Little Paradise, where you can relax on the beach and listen to the gentle waves."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:33",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Belvedere Biagio Frugarello",
+            "hu": "Belvedere Biagio Frugarello",
+            "ro": "Belvedere Biagio Frugarello",
+            "en": "Belvedere Biagio Frugarello"
+          },
+          "coords": [
+            14.440854,
+            38.021631
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Reise an diesem südlichen Aussichtspunkt mit atemberaubenden, üppigen Landschaften, ideal für das weiche Morgenlicht.",
+            "hu": "Kezdje utazását ezen a déli kilátóponton, amely lélegzetelállító zöld tájakat kínál, és tökéletes a lágy reggeli fények megörökítésére.",
+            "ro": "Începeți călătoria la acest punct de belvedere sudic care oferă peisaje luxuriante, perfect pentru a prinde lumina blândă a dimineții.",
+            "en": "Start your journey at this southern viewpoint offering breathtaking lush landscapes, perfect for catching the soft morning light over the hills."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche von San Francesco",
+            "hu": "San Francesco Templom",
+            "ro": "Biserica San Francesco",
+            "en": "Church of San Francesco"
+          },
+          "coords": [
+            14.44044,
+            38.027423
+          ],
+          "category": "religious",
+          "arrive_at": "09:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.64,
+          "tip_5lang": {
+            "de": "Betreten Sie diese friedliche Kirche, um die religiöse Kunst zu bewundern, ein perfekter Ort für einen Moment der ruhigen Besinnung.",
+            "hu": "Lépjen be ebbe a békés templomba, hogy megcsodálja vallási művészetét és csendes légkörét, amely tökéletes egy kis megnyugvásra a túra során.",
+            "ro": "Pășiți în această biserică pașnică pentru a admira arta religioasă și atmosfera liniștită, un loc perfect pentru un moment de reflecție.",
+            "en": "Step into this peaceful church to admire its religious art and quiet atmosphere, a perfect place for a moment of quiet reflection during your tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Zisterne",
+            "hu": "Római Ciszterna",
+            "ro": "Cisterna Romană",
+            "en": "Roman Cistern"
+          },
+          "coords": [
+            14.445147,
+            38.032519
+          ],
+          "category": "historical",
+          "arrive_at": "10:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende römische Zisterne, die die antike Wasserwirtschaft zeigt, aber tragen Sie unbedingt festes Schuhwerk.",
+            "hu": "Fedezze fel ezt a lenyűgöző római ciszternát, amely bemutatja az ókori vízgazdálkodást, de mindenképpen viseljen kényelmes, zárt cipőt.",
+            "ro": "Explorați această fascinantă cisternă romană care evidențiază gestionarea antică a apei, dar asigurați-vă că purtați încălțăminte adecvată pentru teren.",
+            "en": "Explore this fascinating Roman cistern that highlights the area's ancient water management, but be sure to wear sturdy shoes for the uneven ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Historische Residenz Francesca Mirabile Mancusio",
+            "hu": "Francesca Mirabile Mancusio Történelmi Rezidencia",
+            "ro": "Reședința Istorică Francesca Mirabile Mancusio",
+            "en": "Historic Residence Francesca Mirabile Mancusio"
+          },
+          "coords": [
+            14.449341,
+            38.033629
+          ],
+          "category": "landmark",
+          "arrive_at": "11:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Bewundern Sie bei Ihrem Zwischenstopp diese historische Residenz und lassen Sie die klassische Architektur auf sich wirken.",
+            "hu": "Álljon meg egy pillanatra ennél a történelmi rezidenciánál, megcsodálva annak klasszikus építészetét, mielőtt tovább kerekezne.",
+            "ro": "Admirați această reședință istorică și arhitectura sa clasică înainte de a continua explorarea pe bicicletă a satului.",
+            "en": "Make a stop at this historic residence, taking time to admire its classic architecture before continuing your cycling tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Little Paradise",
+            "hu": "Lido Little Paradise",
+            "ro": "Lido Little Paradise",
+            "en": "Lido Little Paradise"
+          },
+          "coords": [
+            14.445824,
+            38.034447
+          ],
+          "category": "recreational",
+          "arrive_at": "12:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem einladenden Strand, mieten Sie eine Sonnenliege und genießen Sie ein erfrischendes Bad im klaren Tyrrhenischen Meer.",
+            "hu": "Pihenjen meg ezen a hívogató helyi strandon, ahol napozóágyat bérelhet, és a hosszú séta után élvezheti a Tirrén-tenger frissítő vizét.",
+            "ro": "Relaxați-vă la această plajă locală primitoare unde puteți închiria un șezlong și vă puteți bucura de o baie răcoroasă în apele tireniene.",
+            "en": "Relax at this welcoming local beach where you can rent a sunbed and enjoy a refreshing swim in the clear Tyrrhenian waters after a long walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Petrarossa",
+            "hu": "Petrarossa Strand",
+            "ro": "Plaja Petrarossa",
+            "en": "Petrarossa Beach"
+          },
+          "coords": [
+            14.459028,
+            38.032959
+          ],
+          "category": "recreational",
+          "arrive_at": "13:48",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.16,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen malerischen Strandabschnitt mit roten Kieseln, ein idealer Ort für einen ruhigen Nachmittagsspaziergang am Ufer.",
+            "hu": "Fedezze fel ezt a festői, vörös kavicsos strandszakaszt, amely ideális hely egy békés délutáni sétához a parton, távol a tömegtől.",
+            "ro": "Descoperiți această plajă pitorească cu pietriș roșu, un loc ideal pentru o plimbare liniștită pe țărm, departe de aglomerația principală.",
+            "en": "Discover this picturesque stretch of red-pebbled beach, an ideal spot for a peaceful afternoon walk along the shore away from the main crowds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer mit der atemberaubenden Aussicht am Belvedere Biagio Frugarello, bevor Sie ins Zentrum hinunterfahren.\n\nMittags erkunden Sie den Kern des Dorfes und halten an der historischen Kirche San Francesco und der antiken römischen Zisterne.\n\nAm Nachmittag fahren Sie an der wunderschönen historischen Residenz vorbei, bevor Sie am Lido Little Paradise eine Pause einlegen.\n\nSchließlich radeln Sie zum Strand Petrarossa, wo Sie perfekt beobachten können, wie sich die abendlichen Farben über dem Tyrrhenischen Meer entfalten.",
+        "hu": "Kezdje kerékpáros kalandját a Belvedere Biagio Frugarello lélegzetelállító kilátásával, mielőtt legurulna a központba.\n\nDélben a falu szívét fedezheti fel, megállva a történelmi San Francesco templomnál és az ősi Római Ciszternánál.\n\nDélután tekerjen el a gyönyörű Történelmi Rezidencia mellett, majd tartson egy gyors szünetet a Lido Little Paradise vízpartján.\n\nVégül pedálozzon el a Petrarossa strandig, amely egy csendesebb partszakasz, tökéletes az esti fények megcsodálásához a tenger felett.",
+        "ro": "Începeți-vă aventura pe bicicletă cu o priveliște uluitoare la Belvedere Biagio Frugarello înainte de a coborî spre centru.\n\nLa amiază veți explora inima satului, oprindu-vă la istorica Biserică San Francesco și la antica Cisternă Romană.\n\nDupă-amiaza, pedalați pe lângă frumoasa Reședință Istorică înainte de a vă îndrepta spre Lido Little Paradise pentru o pauză.\n\nÎn cele din urmă, pedalați până la Praia Petrarossa, o plajă mai liniștită perfectă pentru a privi culorile serii peste Marea Tireniană.",
+        "en": "Begin your cycling adventure with a breathtaking view at Belvedere Biagio Frugarello before coasting down towards the center.\n\nMidday finds you exploring the village's core, stopping at the historic Chiesa di San Francesco and the ancient Cisterna Romana.\n\nIn the afternoon, ride past the beautiful Dimora storica before heading to Lido Little Paradise for a quick break by the water.\n\nFinally, peddle your way to Praia Petrarossa, a quieter beach perfect for watching the evening colors unfold over the Tyrrhenian Sea."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:57",
+      "total_km": 4.33,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Belvedere Biagio Frugarello",
+            "hu": "Belvedere Biagio Frugarello",
+            "ro": "Belvedere Biagio Frugarello",
+            "en": "Belvedere Biagio Frugarello"
+          },
+          "coords": [
+            14.440854,
+            38.021631
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Reise an diesem südlichen Aussichtspunkt mit atemberaubenden, üppigen Landschaften, ideal für das weiche Morgenlicht.",
+            "hu": "Kezdje utazását ezen a déli kilátóponton, amely lélegzetelállító zöld tájakat kínál, és tökéletes a lágy reggeli fények megörökítésére.",
+            "ro": "Începeți călătoria la acest punct de belvedere sudic care oferă peisaje luxuriante, perfect pentru a prinde lumina blândă a dimineții.",
+            "en": "Start your journey at this southern viewpoint offering breathtaking lush landscapes, perfect for catching the soft morning light over the hills."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvedere Cinquegrani",
+            "hu": "Belvedere Cinquegrani",
+            "ro": "Belvedere Cinquegrani",
+            "en": "Belvedere Cinquegrani"
+          },
+          "coords": [
+            14.444349,
+            38.028328
+          ],
+          "category": "natural",
+          "arrive_at": "09:37",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Panoramablick auf die Küste von diesem natürlichen Aussichtspunkt und halten Sie Ihre Kamera für das blaue Meer bereit.",
+            "hu": "Élvezze a tengerpartra nyíló pazar panorámát erről a természetes kilátópontról, és tartsa készenlétben fényképezőgépét a tenger kék árnyalataihoz.",
+            "ro": "Bucurați-vă de vederea panoramică a coastei de la acest punct de belvedere natural și pregătiți aparatul foto pentru nuanțele albastre ale mării.",
+            "en": "Take in the sweeping panoramic views of the coastline from this natural viewpoint, and keep your camera ready for the stunning blue hues of the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvedere Santuzza",
+            "hu": "Belvedere Santuzza",
+            "ro": "Belvedere Santuzza",
+            "en": "Belvedere Santuzza"
+          },
+          "coords": [
+            14.450702,
+            38.030177
+          ],
+          "category": "natural",
+          "arrive_at": "10:04",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.59,
+          "tip_5lang": {
+            "de": "Genießen Sie einen weiteren spektakulären Blick auf Marina di Caronia von dieser Terrasse, die in der hellen Mittagssonne besonders fotogen ist.",
+            "hu": "Élvezze Marina di Caronia egy másik látványos szögét erről a magaslati teraszról, amely a ragyogó déli napsütésben különösen fotogén.",
+            "ro": "Bucurați-vă de un alt unghi spectaculos al Marinei di Caronia de pe această terasă înaltă, care este deosebit de fotogenică în soarele amiezii.",
+            "en": "Enjoy another spectacular angle of Marina di Caronia from this elevated terrace, which is especially photogenic in the bright midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Römische Zisterne",
+            "hu": "Római Ciszterna",
+            "ro": "Cisterna Romană",
+            "en": "Roman Cistern"
+          },
+          "coords": [
+            14.445147,
+            38.032519
+          ],
+          "category": "historical",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende römische Zisterne, die die antike Wasserwirtschaft zeigt, aber tragen Sie unbedingt festes Schuhwerk.",
+            "hu": "Fedezze fel ezt a lenyűgöző római ciszternát, amely bemutatja az ókori vízgazdálkodást, de mindenképpen viseljen kényelmes, zárt cipőt.",
+            "ro": "Explorați această fascinantă cisternă romană care evidențiază gestionarea antică a apei, dar asigurați-vă că purtați încălțăminte adecvată pentru teren.",
+            "en": "Explore this fascinating Roman cistern that highlights the area's ancient water management, but be sure to wear sturdy shoes for the uneven ground."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Petrarossa",
+            "hu": "Petrarossa Strand",
+            "ro": "Plaja Petrarossa",
+            "en": "Petrarossa Beach"
+          },
+          "coords": [
+            14.459028,
+            38.032959
+          ],
+          "category": "recreational",
+          "arrive_at": "11:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.21,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen malerischen Strandabschnitt mit roten Kieseln, ein idealer Ort für einen ruhigen Nachmittagsspaziergang am Ufer.",
+            "hu": "Fedezze fel ezt a festői, vörös kavicsos strandszakaszt, amely ideális hely egy békés délutáni sétához a parton, távol a tömegtől.",
+            "ro": "Descoperiți această plajă pitorească cu pietriș roșu, un loc ideal pentru o plimbare liniștită pe țărm, departe de aglomerația principală.",
+            "en": "Discover this picturesque stretch of red-pebbled beach, an ideal spot for a peaceful afternoon walk along the shore away from the main crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "FKK-Strand Chiappe",
+            "hu": "Chiappe Naturista Strand",
+            "ro": "Plaja Naturistă Chiappe",
+            "en": "Chiappe Naturist Beach"
+          },
+          "coords": [
+            14.472536,
+            38.033309
+          ],
+          "category": "recreational",
+          "arrive_at": "13:12",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.18,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem abgelegenen FKK-Strand, wo Sie sich mit der Natur verbinden können, und respektieren Sie die ruhige Atmosphäre.",
+            "hu": "Zárja a napot ezen az eldugott naturista strandon, ahol kapcsolódhat a természethez, szem előtt tartva a csendes és privát légkör tiszteletben tartását.",
+            "ro": "Încheiați-vă ziua la această plajă naturistă izolată, unde vă puteți conecta cu natura, respectând atmosfera liniștită și privată.",
+            "en": "End your day at this secluded naturist beach where you can connect with nature, remembering to respect the tranquil and private atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt mit den spektakulären Panoramen vom Belvedere Biagio Frugarello, die einen wunderschönen Ton für den Tag angeben.\n\nMittags bietet sich eine malerische Fahrt zwischen den atemberaubenden Aussichtspunkten Cinquegrani und Santuzza, gefolgt von der römischen Zisterne.\n\nAm Nachmittag fahren Sie hinunter an die Ostküste, um die ruhige Atmosphäre des Strandes Petrarossa zu genießen.\n\nAm Ende des Tages bringt Sie eine kurze Fahrt zum FKK-Strand Chiappe, wo Sie die unberührte Natur und einen wunderschönen Sonnenuntergang genießen können.",
+        "hu": "Autós utazása a Belvedere Biagio Frugarello látványos panorámájával indul, amely csodálatos alaphangot ad a napnak.\n\nDélben egy festői autózás várja a Cinquegrani és a Santuzza kilátópontok között, majd egy megálló a Római Ciszternánál.\n\nDélután guruljon le a keleti partra, hogy élvezze a Petrarossa strand nyugodt légkörét.\n\nA nap végén egy rövid út a Chiappe naturista strandra vezet, ahol élvezheti az érintetlen természetet és egy gyönyörű naplementét.",
+        "ro": "Călătoria începe cu panoramele spectaculoase de la Belvedere Biagio Frugarello, stabilind un ton minunat pentru ziua respectivă.\n\nAmiaza oferă o plimbare pitorească între punctele de belvedere Cinquegrani și Santuzza, urmată de o oprire la Cisterna Romană.\n\nDupă-amiaza, coborâți cu mașina spre țărmurile estice pentru a vă bucura de atmosfera liniștită a plajei Petrarossa.\n\nPe măsură ce ziua se încheie, o scurtă călătorie vă aduce la Praia naturistă Chiappe, unde vă puteți bucura de apus.",
+        "en": "Your drive begins by taking in the spectacular elevated panoramas from Belvedere Biagio Frugarello, setting a beautiful tone for the day.\n\nMidday offers a scenic drive between the breathtaking viewpoints of Cinquegrani and Santuzza, followed by a fascinating stop at Cisterna Romana.\n\nIn the afternoon, cruise down to the eastern shores to enjoy the tranquil atmosphere of Praia Petrarossa.\n\nAs the day ends, a short drive brings you to Praia naturista Chiappe, where you can enjoy the pristine natural surroundings and a beautiful sunset."
+      }
+    }
+  }
+}

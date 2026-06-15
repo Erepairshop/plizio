@@ -1,0 +1,428 @@
+{
+  "city_id": "spain-torre-de-la-horadada-cities-v2",
+  "anchor": {
+    "name": "Torre de la Horadada",
+    "coords": [
+      -0.75901,
+      37.86853
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:48",
+      "total_km": 1.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Iglesia de la Asunción",
+            "hu": "Iglesia de la Asunción",
+            "ro": "Iglesia de la Asunción",
+            "en": "Iglesia de la Asunción"
+          },
+          "coords": [
+            -0.760304,
+            37.868909
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante Küstenkirche wegen ihrer friedlichen Atmosphäre und kommen Sie am frühen Vormittag, um die schönen Lichtspiele in den Glasfenstern zu bewundern.",
+            "hu": "Látogassa meg ezt a bájos tengerparti templomot a békés légköre miatt, és érkezzen kora délelőtt, hogy megcsodálhassa a festett üvegablakok gyönyörű fényjátékát.",
+            "ro": "Vizitați această biserică fermecătoare de coastă pentru atmosfera ei pașnică și ajungeți dimineața devreme pentru a admira jocul frumos de lumini prin vitralii.",
+            "en": "Visit this charming coastal church for its peaceful atmosphere, and arrive early in the morning to admire the beautiful play of light through the stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa del Puerto",
+            "hu": "Playa del Puerto",
+            "ro": "Playa del Puerto",
+            "en": "Playa del Puerto"
+          },
+          "coords": [
+            -0.760156,
+            37.866634
+          ],
+          "category": "recreational",
+          "arrive_at": "09:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem familienfreundlichen Strand direkt neben dem Jachthafen und bringen Sie Wasserschuhe mit, da der Einstieg ins Meer an einigen Stellen leicht steinig sein kann.",
+            "hu": "Pihenjen ezen a családbarát strandon, közvetlenül a jachtkikötő mellett, és hozzon magával vízicipőt, mivel a tengerbe jutás néhány helyen enyhén köves lehet.",
+            "ro": "Relaxați-vă pe această plajă potrivită pentru familii chiar lângă portul de agrement și aduceți încălțăminte de apă, deoarece intrarea în mare poate fi ușor pietroasă în anumite locuri.",
+            "en": "Relax on this family-friendly beach right next to the marina, and bring water shoes as the entry into the sea can be slightly rocky in some places."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa del Conde",
+            "hu": "Playa del Conde",
+            "ro": "Playa del Conde",
+            "en": "Playa del Conde"
+          },
+          "coords": [
+            -0.756145,
+            37.868146
+          ],
+          "category": "recreational",
+          "arrive_at": "11:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie den feinen Sand und den Blick auf den markanten Wachturm, während Sie sich früh einen Platz sichern, um den besten Schatten unter den wenigen Palmen zu finden.",
+            "hu": "Élvezze a finom homokot és a jellegzetes őrtoronyra nyíló kilátást, miközben korán biztosít magának helyet, hogy a legjobb árnyékot találja a kevés pálmafa alatt.",
+            "ro": "Bucurați-vă de nisipul fin și de vederea către turnul de veghe distinctiv, asigurându-vă un loc devreme pentru a găsi cea mai bună umbră sub puținii palmieri.",
+            "en": "Enjoy the fine sand and the view of the distinctive watchtower while securing a spot early to find the best shade under the few palm trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de los Jesuitas",
+            "hu": "Playa de los Jesuitas",
+            "ro": "Playa de los Jesuitas",
+            "en": "Playa de los Jesuitas"
+          },
+          "coords": [
+            -0.755833,
+            37.870949
+          ],
+          "category": "recreational",
+          "arrive_at": "12:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese weite, offene Bucht, die sich perfekt für einen langen Spaziergang eignet, und packen Sie eine Windjacke ein, da die Meeresbrise hier am Nachmittag auffrischen kann.",
+            "hu": "Fedezze fel ezt a széles, nyitott öblöt, amely tökéletes egy hosszú sétához, és csomagoljon be egy széldzsekit, mivel a tengeri szellő itt délutánra felerősödhet.",
+            "ro": "Descoperiți acest golf larg și deschis, perfect pentru o plimbare lungă, și împachetați o jachetă de vânt, deoarece briza mării se poate intensifica aici după-amiaza.",
+            "en": "Discover this wide, open bay that is perfect for a long walk, and pack a windbreaker as the sea breeze can pick up here in the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala de Rocamar",
+            "hu": "Cala de Rocamar",
+            "ro": "Cala de Rocamar",
+            "en": "Cala de Rocamar"
+          },
+          "coords": [
+            -0.75419,
+            37.873976
+          ],
+          "category": "recreational",
+          "arrive_at": "13:53",
+          "stay_min": 55,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Verweilen Sie in dieser malerischen, felsigen Bucht für fantastische Fotomotive, aber tragen Sie feste Schuhe, um die unebenen Wege sicher hinabzusteigen.",
+            "hu": "Időzzön el ebben a festői, sziklás öbölben a fantasztikus fotótémákért, de viseljen masszív cipőt, hogy biztonságosan leereszkedhessen az egyenetlen ösvényeken.",
+            "ro": "Zăboviți în acest golf pitoresc și stâncos pentru oportunități fantastice de fotografie, dar purtați încălțăminte solidă pentru a coborî în siguranță pe potecile inegale.",
+            "en": "Linger in this picturesque, rocky cove for fantastic photo opportunities, but wear sturdy shoes to safely descend the uneven paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen unsere Wanderung im Herzen der Stadt an der reizvollen Iglesia de la Asunción. Die friedliche Morgenatmosphäre stimmt uns perfekt auf den Tag ein. Anschließend geht es hinunter zum Playa del Puerto, um das ruhige Wasser in der Nähe des Jachthafens zu genießen.\nMittags erreichen wir den Playa del Conde, wo der historische Wachturm über die Küste wacht. Dies ist die perfekte Zeit, um den weichen Sand zu spüren und in das erfrischende Mittelmeer einzutauchen.\nAm Nachmittag führt uns unser Weg zum weitläufigen Playa de los Jesuitas. Die sanfte Meeresbrise und die weite Aussicht machen ihn zu einem idealen Ort für einen gemütlichen Spaziergang am Ufer.\nGegen Abend erreichen wir die felsige Cala de Rocamar. Die wechselnden Farben des Himmels spiegeln sich wunderschön auf dem Wasser und bilden einen ruhigen und malerischen Abschluss unserer Küstenwanderung.",
+        "hu": "Sétánkat a város szívében, a bájos Iglesia de la Asunción templomnál kezdjük. A békés reggeli hangulat tökéletesen megadja a nap alaphangját. Ezután leereszkedünk a Playa del Puerto-hoz, hogy élvezzük a jachtkikötő melletti csendes vizet.\nDélben a Playa del Conde-hoz érkezünk, ahol a történelmi őrtorony őrködik a part felett. Kiváló alkalom ez arra, hogy érezzük a puha homokot, és megmártózzunk a frissítő Földközi-tengerben.\nDélután utunk a kiterjedt Playa de los Jesuitas-hoz vezet. A lágy tengeri szellő és a tágas kilátás ideális hellyé teszi egy kényelmes sétához a part mentén.\nAz este közeledtével megérkezünk a sziklás Cala de Rocamarhoz. Az égbolt változó színei gyönyörűen tükröződnek a vízen, nyugodt és festői befejezést nyújtva tengerparti sétánknak.",
+        "ro": "Ne începem turul pe jos în inima orașului, la fermecătoarea Iglesia de la Asunción. Atmosfera pașnică a dimineții stabilește tonul perfect. Apoi, coborâm la Playa del Puerto pentru a ne bucura de apele calme de lângă portul de agrement.\nLa amiază ajungem la Playa del Conde, unde turnul istoric de veghe străjuiește coasta. Este un moment excelent pentru a simți nisipul moale și a face o baie în Marea Mediterană răcoroasă.\nDupă-amiaza, drumul nostru ne duce la extinsa Playa de los Jesuitas. Briza blândă a mării și vederile largi deschise fac din acest loc unul ideal pentru o plimbare de-a lungul țărmului.\nOdată cu lăsarea serii, ajungem la stâncoasa Cala de Rocamar. Culorile schimbătoare ale cerului se reflectă frumos pe apă, oferind un final senin și pitoresc plimbării noastre pe coastă.",
+        "en": "We start our walking tour in the heart of the town at the lovely Iglesia de la Asunción. The peaceful morning atmosphere sets a perfect tone for the day. Then, we head down to Playa del Puerto to enjoy the calm waters near the marina.\nMidday brings us to Playa del Conde, where the historical watchtower watches over the coast. This is a great time to feel the soft sand and dip into the refreshing Mediterranean Sea.\nIn the afternoon, our path takes us to the expansive Playa de los Jesuitas. The gentle sea breeze and wide open views make it an ideal spot for a leisurely stroll along the shoreline.\nAs evening approaches, we arrive at the rocky Cala de Rocamar. The changing colors of the sky reflect beautifully on the water, providing a serene and picturesque end to our coastal walk."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:13",
+      "total_km": 4.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Playa del Mojón",
+            "hu": "Playa del Mojón",
+            "ro": "Playa del Mojón",
+            "en": "Playa del Mojón"
+          },
+          "coords": [
+            -0.762488,
+            37.847544
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag an diesem ruhigen Strandabschnitt an der Grenze zu Murcia und nutzen Sie die frühen Morgenstunden für ein ungestörtes Bad im klaren Wasser.",
+            "hu": "Kezdje a napot ezen a csendes partszakaszon, Murcia határánál, és használja ki a kora reggeli órákat egy zavartalan fürdőzésre a tiszta vízben.",
+            "ro": "Începeți ziua pe această porțiune liniștită de plajă la granița cu Murcia și profitați de orele dimineții devreme pentru o baie netulburată în apele limpezi.",
+            "en": "Start the day on this quiet stretch of beach on the border with Murcia, and take advantage of the early morning hours for an undisturbed swim in the clear water."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de las Higuericas",
+            "hu": "Playa de las Higuericas",
+            "ro": "Playa de las Higuericas",
+            "en": "Playa de las Higuericas"
+          },
+          "coords": [
+            -0.762795,
+            37.853593
+          ],
+          "category": "recreational",
+          "arrive_at": "10:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Atmosphäre und die modernen Holzstege an diesem beliebten Strand, wo Sie sich an den Chiringuitos leicht mit kalten Getränken erfrischen können.",
+            "hu": "Tapasztalja meg a nyüzsgő légkört és a modern fapallókat ezen a népszerű strandon, ahol a chiringuitóknál könnyedén felfrissítheti magát hideg italokkal.",
+            "ro": "Experimentați atmosfera plină de viață și pasarelele moderne din lemn pe această plajă populară, unde vă puteți răcori cu ușurință cu băuturi reci la chiringuitos.",
+            "en": "Experience the lively atmosphere and the modern wooden boardwalks on this popular beach, where you can easily refresh yourself with cold drinks at the chiringuitos."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de la Asunción",
+            "hu": "Iglesia de la Asunción",
+            "ro": "Iglesia de la Asunción",
+            "en": "Iglesia de la Asunción"
+          },
+          "coords": [
+            -0.760304,
+            37.868909
+          ],
+          "category": "religious",
+          "arrive_at": "11:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante Küstenkirche wegen ihrer friedlichen Atmosphäre und kommen Sie am frühen Vormittag, um die schönen Lichtspiele in den Glasfenstern zu bewundern.",
+            "hu": "Látogassa meg ezt a bájos tengerparti templomot a békés légköre miatt, és érkezzen kora délelőtt, hogy megcsodálhassa a festett üvegablakok gyönyörű fényjátékát.",
+            "ro": "Vizitați această biserică fermecătoare de coastă pentru atmosfera ei pașnică și ajungeți dimineața devreme pentru a admira jocul frumos de lumini prin vitralii.",
+            "en": "Visit this charming coastal church for its peaceful atmosphere, and arrive early in the morning to admire the beautiful play of light through the stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala de la Lombriz",
+            "hu": "Cala de la Lombriz",
+            "ro": "Cala de la Lombriz",
+            "en": "Cala de la Lombriz"
+          },
+          "coords": [
+            -0.753781,
+            37.876651
+          ],
+          "category": "recreational",
+          "arrive_at": "12:39",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Suchen Sie diese versteckte kleine Bucht für etwas Ruhe abseits der großen Strände auf und bringen Sie eine Schnorchelausrüstung mit, um die kleinen Fische entlang der Felsen zu beobachten.",
+            "hu": "Keresse fel ezt az eldugott kis öblöt egy kis nyugalomért a nagy strandoktól távol, és hozzon magával búvárfelszerelést, hogy megfigyelhesse a kis halakat a sziklák mentén.",
+            "ro": "Căutați acest mic golf ascuns pentru puțină liniște departe de plajele mari și aduceți echipament de snorkeling pentru a observa peștii mici de-a lungul stâncilor.",
+            "en": "Seek out this hidden little cove for some peace away from the large beaches, and bring snorkeling gear to observe the small fish along the rocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Mil Palmeras Roman Quarry",
+            "hu": "Mil Palmeras Roman Quarry",
+            "ro": "Mil Palmeras Roman Quarry",
+            "en": "Mil Palmeras Roman Quarry"
+          },
+          "coords": [
+            -0.752907,
+            37.878262
+          ],
+          "category": "historical",
+          "arrive_at": "13:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die antiken Überreste dieses römischen Steinbruchs direkt an der Küste und lesen Sie die Informationstafeln, um zu verstehen, wie hier einst Bausteine aus dem Meer gewonnen wurden.",
+            "hu": "Csodálja meg ennek a közvetlenül a tengerparton fekvő római kőbányának az ókori maradványait, és olvassa el az információs táblákat, hogy megértse, hogyan bányásztak itt egykor építőköveket a tengerből.",
+            "ro": "Admirați rămășițele antice ale acestei cariere romane situate chiar pe coastă și citiți panourile informative pentru a înțelege cum se extrăgeau odată pietrele de construcție din mare.",
+            "en": "Admire the ancient remains of this Roman quarry located right on the coast, and read the information boards to understand how building stones were once extracted from the sea here."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de las Mil Palmeras",
+            "hu": "Playa de las Mil Palmeras",
+            "ro": "Playa de las Mil Palmeras",
+            "en": "Playa de las Mil Palmeras"
+          },
+          "coords": [
+            -0.753365,
+            37.883219
+          ],
+          "category": "recreational",
+          "arrive_at": "14:28",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie den feinen weißen Sand an einem der längsten Strände der Region und mieten Sie sich bequeme Liegen, um den Tag entspannt ausklingen zu lassen.",
+            "hu": "Élvezze a finom fehér homokot a régió egyik leghosszabb strandján, és béreljen kényelmes napozóágyakat, hogy a napot pihentetően fejezhesse be.",
+            "ro": "Bucurați-vă de nisipul alb fin de pe una dintre cele mai lungi plaje din regiune și închiriați șezlonguri confortabile pentru a vă încheia ziua într-un mod relaxant.",
+            "en": "Enjoy the fine white sand on one of the longest beaches in the region, and rent comfortable sun loungers to end the day in a relaxing way."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unser Fahrradabenteuer beginnt am Playa del Mojón, einem ruhigen Strand an der Grenze zu Murcia. Die frische Morgenluft ist belebend, während wir an der Küste entlang zum lebhaften und beliebten Playa de las Higuericas radeln.\nMittags verlassen wir den Strand kurz, um die friedliche Iglesia de la Asunción im Stadtzentrum zu besuchen. Nach einem Moment der Besinnung radeln wir weiter die Küste hinauf zur versteckten Cala de la Lombriz.\nDer Nachmittag ist der Geschichte gewidmet, wenn wir den faszinierenden römischen Steinbruch Mil Palmeras erkunden. Hier kann man sehen, wie antike Baumeister vor Jahrhunderten Steine aus dem Ufer brachen.\nWir beenden unseren Tag am weitläufigen Playa de las Mil Palmeras. Es ist der perfekte Ort, um die Beine auszuruhen und die goldene Stunde zu genießen, wenn die Sonne über dem Mittelmeer untergeht.",
+        "hu": "Kerékpáros kalandunk a Playa del Mojónnál, egy csendes strandon kezdődik, közvetlenül Murcia határán. A friss reggeli levegő élénkítő, miközben a part mentén a nyüzsgő és népszerű Playa de las Higuericas felé tekerünk.\nDélben rövid időre elhagyjuk a strandot, hogy meglátogassuk a városközpontban található békés Iglesia de la Asunción templomot. Egy kis elmélkedés után tovább tekerünk, hogy felfedezzük a Cala de la Lombriz rejtett varázsát.\nA délutánt a történelemnek szenteljük, amikor felfedezzük a lenyűgöző Mil Palmeras római kőbányát. Itt látható, hogyan bányásztak kőzetet az ókori építők évszázadokkal ezelőtt.\nNapunkat a kiterjedt Playa de las Mil Palmeras-nál fejezzük be. Ez a tökéletes hely a lábak pihentetésére és az aranyóra élvezetére, miközben a nap lenyugszik a Földközi-tenger felett.",
+        "ro": "Aventura noastră cu bicicleta începe la Playa del Mojón, o plajă liniștită chiar la granița cu Murcia. Aerul proaspăt este revigorant în timp ce pedalăm spre plina de viață și populara Playa de las Higuericas.\nLa amiază, lăsăm scurt plaja pentru a vizita pașnica Iglesia de la Asunción. După un moment de reflecție, pedalăm mai departe pe coastă pentru a descoperi farmecul ascuns al Cala de la Lombriz.\nDupă-amiaza este dedicată istoriei, explorând fascinanta Carieră Romană Mil Palmeras. Aici puteți vedea cum constructorii antici extrăgeau piatra direct din țărmul stâncos cu secole în urmă.\nNe încheiem ziua la extinsa Playa de las Mil Palmeras. Este locul perfect pentru a vă odihni picioarele și a vă bucura de ora de aur, în timp ce soarele apune peste Marea Mediterană.",
+        "en": "Our cycling adventure begins at Playa del Mojón, a peaceful beach right on the border with Murcia. The fresh morning air is invigorating as we pedal along the coast to the lively and popular Playa de las Higuericas.\nBy midday, we leave the beach briefly to visit the peaceful Iglesia de la Asunción in the town center. After a moment of reflection, we cycle further up the coast to discover the hidden charm of Cala de la Lombriz.\nThe afternoon is dedicated to history as we explore the fascinating Mil Palmeras Roman Quarry. Here, you can see how ancient builders extracted stone directly from the rocky shoreline centuries ago.\nWe conclude our day at the expansive Playa de las Mil Palmeras. It is the perfect spot to rest your legs, return the bikes, and enjoy the golden hour as the sun sets over the Mediterranean."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:34",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Playa de las Mil Palmeras",
+            "hu": "Playa de las Mil Palmeras",
+            "ro": "Playa de las Mil Palmeras",
+            "en": "Playa de las Mil Palmeras"
+          },
+          "coords": [
+            -0.753365,
+            37.883219
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den feinen weißen Sand an einem der längsten Strände der Region und mieten Sie sich bequeme Liegen, um den Tag entspannt ausklingen zu lassen.",
+            "hu": "Élvezze a finom fehér homokot a régió egyik leghosszabb strandján, és béreljen kényelmes napozóágyakat, hogy a napot pihentetően fejezhesse be.",
+            "ro": "Bucurați-vă de nisipul alb fin de pe una dintre cele mai lungi plaje din regiune și închiriați șezlonguri confortabile pentru a vă încheia ziua într-un mod relaxant.",
+            "en": "Enjoy the fine white sand on one of the longest beaches in the region, and rent comfortable sun loungers to end the day in a relaxing way."
+          }
+        },
+        {
+          "name": {
+            "de": "Mil Palmeras Roman Quarry",
+            "hu": "Mil Palmeras Roman Quarry",
+            "ro": "Mil Palmeras Roman Quarry",
+            "en": "Mil Palmeras Roman Quarry"
+          },
+          "coords": [
+            -0.752907,
+            37.878262
+          ],
+          "category": "historical",
+          "arrive_at": "10:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die antiken Überreste dieses römischen Steinbruchs direkt an der Küste und lesen Sie die Informationstafeln, um zu verstehen, wie hier einst Bausteine aus dem Meer gewonnen wurden.",
+            "hu": "Csodálja meg ennek a közvetlenül a tengerparton fekvő római kőbányának az ókori maradványait, és olvassa el az információs táblákat, hogy megértse, hogyan bányásztak itt egykor építőköveket a tengerből.",
+            "ro": "Admirați rămășițele antice ale acestei cariere romane situate chiar pe coastă și citiți panourile informative pentru a înțelege cum se extrăgeau odată pietrele de construcție din mare.",
+            "en": "Admire the ancient remains of this Roman quarry located right on the coast, and read the information boards to understand how building stones were once extracted from the sea here."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de la Asunción",
+            "hu": "Iglesia de la Asunción",
+            "ro": "Iglesia de la Asunción",
+            "en": "Iglesia de la Asunción"
+          },
+          "coords": [
+            -0.760304,
+            37.868909
+          ],
+          "category": "religious",
+          "arrive_at": "11:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante Küstenkirche wegen ihrer friedlichen Atmosphäre und kommen Sie am frühen Vormittag, um die schönen Lichtspiele in den Glasfenstern zu bewundern.",
+            "hu": "Látogassa meg ezt a bájos tengerparti templomot a békés légköre miatt, és érkezzen kora délelőtt, hogy megcsodálhassa a festett üvegablakok gyönyörű fényjátékát.",
+            "ro": "Vizitați această biserică fermecătoare de coastă pentru atmosfera ei pașnică și ajungeți dimineața devreme pentru a admira jocul frumos de lumini prin vitralii.",
+            "en": "Visit this charming coastal church for its peaceful atmosphere, and arrive early in the morning to admire the beautiful play of light through the stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de las Villas",
+            "hu": "Playa de las Villas",
+            "ro": "Playa de las Villas",
+            "en": "Playa de las Villas"
+          },
+          "coords": [
+            -0.762542,
+            37.859498
+          ],
+          "category": "recreational",
+          "arrive_at": "12:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Strandabschnitt, der oft etwas ruhiger ist, und machen Sie einen Spaziergang entlang der kleinen Villen, die dieser Küste ihren Namen geben.",
+            "hu": "Pihenjen ezen a festői partszakaszon, amely gyakran kissé csendesebb, és tegyen egy sétát a kis villák mentén, amelyek nevét ez a part adja.",
+            "ro": "Relaxați-vă pe această porțiune pitorească de plajă, care este adesea puțin mai liniștită, și faceți o plimbare de-a lungul micilor vile care dau numele acestei coaste.",
+            "en": "Relax on this picturesque stretch of beach, which is often a bit quieter, and take a walk along the small villas that give this coast its name."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa del Mojón",
+            "hu": "Playa del Mojón",
+            "ro": "Playa del Mojón",
+            "en": "Playa del Mojón"
+          },
+          "coords": [
+            -0.762488,
+            37.847544
+          ],
+          "category": "recreational",
+          "arrive_at": "13:49",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag an diesem ruhigen Strandabschnitt an der Grenze zu Murcia und nutzen Sie die frühen Morgenstunden für ein ungestörtes Bad im klaren Wasser.",
+            "hu": "Kezdje a napot ezen a csendes partszakaszon, Murcia határánál, és használja ki a kora reggeli órákat egy zavartalan fürdőzésre a tiszta vízben.",
+            "ro": "Începeți ziua pe această porțiune liniștită de plajă la granița cu Murcia și profitați de orele dimineții devreme pentru o baie netulburată în apele limpezi.",
+            "en": "Start the day on this quiet stretch of beach on the border with Murcia, and take advantage of the early morning hours for an undisturbed swim in the clear water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir beginnen unseren Roadtrip am wunderschönen Playa de las Mil Palmeras und genießen einen entspannten Morgen am langen weißen Sandstrand. Eine kurze Fahrt bringt uns dann zum nahegelegenen römischen Steinbruch Mil Palmeras.\nGegen Mittag fahren wir in das Zentrum von Torre de la Horadada, um die Iglesia de la Asunción zu besuchen. Ihre charmante Architektur bietet eine schöne kulturelle Pause von Sonne und Sand.\nAm Nachmittag fahren wir nach Süden zum Playa de las Villas. Die Fahrt ist kurz und landschaftlich reizvoll und führt zu einem Strand, der von charmanten lokalen Häusern gesäumt ist.\nUnser letzter Halt am Abend ist der Playa del Mojón am südlichen Rand der Stadt. Hier können wir einen friedlichen Strandspaziergang bei Sonnenuntergang genießen und unsere Reise perfekt ausklingen lassen.",
+        "hu": "Autós utunkat a gyönyörű Playa de las Mil Palmeras-nál kezdjük, élvezve a pihentető reggelt a hosszú fehér homokos parton. Egy gyors vezetés után a közeli Mil Palmeras római kőbányához érünk.\nDél körül Torre de la Horadada központjába hajtunk, hogy meglátogassuk az Iglesia de la Asunción templomot. Bájos építészete kellemes kulturális szünetet biztosít a napsütés és a homok után.\nDélután dél felé, a Playa de las Villas felé vesszük az irányt. Az út rövid és festői, egy olyan strandhoz vezet, amelyet a nevét adó bájos helyi házak szegélyeznek.\nUtolsó állomásunk az este közeledtével a Playa del Mojón, a város déli szélén. Itt élvezhetjük a békés naplementés sétát a parton, tökéletesen lezárva változatos tengerparti utazásunkat.",
+        "ro": "Ne începem călătoria cu mașina la frumoasa Playa de las Mil Palmeras, bucurându-ne de o dimineață relaxantă pe plajă. Un scurt drum ne duce apoi la Cariera Romană Mil Palmeras pentru a descoperi istoria locală.\nÎn jurul prânzului, conducem spre centrul orașului Torre de la Horadada pentru a vizita Iglesia de la Asunción. Arhitectura sa fermecătoare oferă o pauză culturală plăcută de la soare și nisip.\nDupă-amiaza, ne îndreptăm spre sud către Playa de las Villas. Drumul este scurt și pitoresc, ducându-ne la o plajă mărginită de casele locale fermecătoare care îi dau numele.\nUltima noastră oprire, odată cu lăsarea serii, este Playa del Mojón. Aici ne putem bucura de o plimbare pașnică la apus de soare de-a lungul țărmului, încheind perfect călătoria noastră de coastă.",
+        "en": "We start our road trip at the beautiful Playa de las Mil Palmeras, enjoying a relaxing morning by the long stretch of white sand. A quick drive then takes us to the nearby Mil Palmeras Roman Quarry to uncover local history.\nAround midday, we drive into the center of Torre de la Horadada to visit the Iglesia de la Asunción. Its charming architecture provides a nice cultural break from the sun and sand.\nIn the afternoon, we cruise south to Playa de las Villas. The drive is short and scenic, leading us to a picturesque beach bordered by the charming local houses that give it its name.\nOur final stop as evening falls is Playa del Mojón at the southern edge of town. Here, we can enjoy a peaceful sunset walk along the shore, ending our varied coastal journey perfectly."
+      }
+    }
+  }
+}

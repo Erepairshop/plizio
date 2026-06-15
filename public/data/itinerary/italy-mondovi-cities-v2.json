@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-mondovi-cities-v2",
+  "anchor": {
+    "name": "Mondovì",
+    "coords": [
+      7.816667,
+      44.383333
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:46",
+      "total_km": 3.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di Santa Maria Maggiore",
+            "hu": "Chiesa di Santa Maria Maggiore",
+            "ro": "Chiesa di Santa Maria Maggiore",
+            "en": "Chiesa di Santa Maria Maggiore"
+          },
+          "coords": [
+            7.811568,
+            44.383906
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser zentralen Kirche, die lokale Frömmigkeit zeigt, aber achten Sie darauf, laufende Messen nicht zu stören.",
+            "hu": "Csodálja meg e központi templom lenyűgöző építészetét, amely a helyi hitéletet tükrözi, de ügyeljen a folyamatban lévő misék tiszteletben tartására.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici centrale ce reflectă devotamentul local, dar respectați slujbele aflate în desfășurare.",
+            "en": "Admire the impressive architecture of this central church, offering a glimpse into local devotion, but remember to respect ongoing mass times."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa Maria Vergine Assunta",
+            "hu": "Chiesa Maria Vergine Assunta",
+            "ro": "Chiesa Maria Vergine Assunta",
+            "en": "Chiesa Maria Vergine Assunta"
+          },
+          "coords": [
+            7.818633,
+            44.383295
+          ],
+          "category": "religious",
+          "arrive_at": "10:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die filigranen Innendetails dieser schönen Pfarrkirche, um ihre Kunst zu schätzen, und kommen Sie früh, um die Mittagspause zu meiden.",
+            "hu": "Fedezze fel a gyönyörű plébániatemplom bonyolult belső részleteit, és érkezzen korán, hogy elkerülje a déli bezárást.",
+            "ro": "Explorați detaliile interioare complexe ale acestei frumoase biserici parohiale, și vizitați-o devreme pentru a evita pauza de prânz.",
+            "en": "Explore the intricate interior details of this beautiful parish church to appreciate its artistry, and visit early to avoid the midday closures."
+          }
+        },
+        {
+          "name": {
+            "de": "Mondovì",
+            "hu": "Mondovì",
+            "ro": "Mondovì",
+            "en": "Mondovì"
+          },
+          "coords": [
+            7.81984,
+            44.387252
+          ],
+          "category": "historical",
+          "arrive_at": "10:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch das historische Zentrum von Mondovì, um den mittelalterlichen Charme zu spüren, und tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+            "hu": "Sétáljon végig Mondovì történelmi központján, hogy átérezze középkori varázsát, és mindenképpen viseljen kényelmes cipőt az egyenetlen macskaköveken.",
+            "ro": "Plimbați-vă prin centrul istoric din Mondovì pentru a-i simți farmecul medieval și purtați încălțăminte confortabilă pentru pietrele cubice.",
+            "en": "Wander through the historic center of Mondovì to feel its medieval charm, and make sure to wear comfortable shoes for the uneven cobblestones."
+          }
+        },
+        {
+          "name": {
+            "de": "Sale del Vescovado",
+            "hu": "Sale del Vescovado",
+            "ro": "Sale del Vescovado",
+            "en": "Sale del Vescovado"
+          },
+          "coords": [
+            7.828872,
+            44.389517
+          ],
+          "category": "historical",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die elegant mit Fresken verzierten Säle des Bischofspalastes, die regionale Geschichte zeigen, und bringen Sie eine Kamera ohne Blitz mit.",
+            "hu": "Fedezze fel a Püspöki Palota elegánsan freskózott termeit, amelyek a régió történelmét mutatják be, így érdemes vaku nélküli fényképezőgépet hozni.",
+            "ro": "Descoperiți sălile cu fresce elegante ale Palatului Episcopal ce prezintă istoria regională, așadar aduceți un aparat foto fără bliț.",
+            "en": "Discover the elegantly frescoed halls of the Bishop's Palace which showcase regional history, so bring a camera without a flash for the best photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo della Stampa",
+            "hu": "Museo della Stampa",
+            "ro": "Museo della Stampa",
+            "en": "Museo della Stampa"
+          },
+          "coords": [
+            7.8316,
+            44.386406
+          ],
+          "category": "museum",
+          "arrive_at": "13:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die antiken Druckerpressen in diesem Museum, das die Typografie feiert, und bitten Sie die Führer um eine kurze Demonstration.",
+            "hu": "Csodálja meg az antik nyomdagépeket ebben a kiterjedt tipográfiai múzeumban, és kérje meg az idegenvezetőket egy gyors mechanikai bemutatóra.",
+            "ro": "Admirați presele de tipar antice în acest muzeu care celebrează tipografia și cereți ghizilor o scurtă demonstrație mecanică.",
+            "en": "Marvel at the antique printing presses in this extensive museum that celebrates typography, and ask the guides for a quick mechanical demonstration."
+          }
+        },
+        {
+          "name": {
+            "de": "QUI - lo spazio di mogg",
+            "hu": "QUI - lo spazio di mogg",
+            "ro": "QUI - lo spazio di mogg",
+            "en": "QUI - lo spazio di mogg"
+          },
+          "coords": [
+            7.830638,
+            44.388077
+          ],
+          "category": "museum",
+          "arrive_at": "15:36",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie zeitgenössische Kunst und Design in diesem innovativen Ausstellungsraum und prüfen Sie den Zeitplan online, da Installationen oft wechseln.",
+            "hu": "Tapasztalja meg a kortárs művészetet és designt ebben az innovatív kiállítótérben, és ellenőrizze az online menetrendet az időszaki kiállítások miatt.",
+            "ro": "Experimentați arta și designul contemporan în acest spațiu expozițional inovator și verificați programul online, deoarece instalațiile se schimbă des.",
+            "en": "Experience contemporary art and design in this innovative exhibition space, and check their schedule online as temporary installations change often."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit dem religiösen Erbe in der Unterstadt.\n\nAm Mittag steigen Sie in das historische Herz von Mondovì auf.\n\nVerbringen Sie den Nachmittag damit, faszinierende Museen im oberen Viertel Piazza zu entdecken.\n\nBeenden Sie den Tag mit einem gemütlichen Spaziergang durch charmante Gassen.",
+        "hu": "Kezdje a reggelt az alsóváros vallási örökségének felfedezésével.\n\nDélben sétáljon fel Mondovì történelmi központjába.\n\nA délutánt a felső Piazza negyed lenyűgöző múzeumainak megismerésével töltheti.\n\nZárja a napot egy kényelmes sétával a hangulatos utcákon naplemente előtt.",
+        "ro": "Începeți dimineața explorând moștenirea religioasă din orașul de jos.\n\nLa prânz, urcați spre inima istorică a orașului Mondovì.\n\nPetreceți după-amiaza descoperind muzee fascinante în cartierul superior Piazza.\n\nÎncheiați ziua cu o plimbare relaxantă pe străzile fermecătoare înainte de apus.",
+        "en": "Start your morning exploring the religious heritage in the lower town.\n\nBy midday, climb towards the historical heart of Mondovì.\n\nSpend your afternoon discovering fascinating museums in the upper Piazza district.\n\nEnd the day with a leisurely stroll through the charming streets before sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parco Europa",
+            "hu": "Parco Europa",
+            "ro": "Parco Europa",
+            "en": "Parco Europa"
+          },
+          "coords": [
+            7.814143,
+            44.388056
+          ],
+          "category": "park",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem weitläufigen Stadtpark mit viel Grün und toller Aussicht, der der perfekte Ort für einen kleinen morgendlichen Picknicksnack ist.",
+            "hu": "Pihenjen meg ebben a hatalmas városi parkban, amely frissítő zöldövezetet és nagyszerű kilátást kínál, így tökéletes hely egy könnyű piknikhez.",
+            "ro": "Relaxați-vă în acest vast parc urban care oferă verdeață revigorantă și priveliști minunate, fiind locul perfect pentru o gustare ușoară la picnic.",
+            "en": "Relax in this expansive urban park offering refreshing greenery and great views, making it the perfect spot to bring a light morning picnic snack."
+          }
+        },
+        {
+          "name": {
+            "de": "Mondovì",
+            "hu": "Mondovì",
+            "ro": "Mondovì",
+            "en": "Mondovì"
+          },
+          "coords": [
+            7.81984,
+            44.387252
+          ],
+          "category": "historical",
+          "arrive_at": "10:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch das historische Zentrum von Mondovì, um den mittelalterlichen Charme zu spüren, und tragen Sie bequeme Schuhe für das Kopfsteinpflaster.",
+            "hu": "Sétáljon végig Mondovì történelmi központján, hogy átérezze középkori varázsát, és mindenképpen viseljen kényelmes cipőt az egyenetlen macskaköveken.",
+            "ro": "Plimbați-vă prin centrul istoric din Mondovì pentru a-i simți farmecul medieval și purtați încălțăminte confortabilă pentru pietrele cubice.",
+            "en": "Wander through the historic center of Mondovì to feel its medieval charm, and make sure to wear comfortable shoes for the uneven cobblestones."
+          }
+        },
+        {
+          "name": {
+            "de": "Musei dei Licei",
+            "hu": "Musei dei Licei",
+            "ro": "Musei dei Licei",
+            "en": "Musei dei Licei"
+          },
+          "coords": [
+            7.827693,
+            44.391065
+          ],
+          "category": "museum",
+          "arrive_at": "11:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die wissenschaftlichen Sammlungen in diesem Bildungsmuseum, um frühe Physik zu verstehen, aber überprüfen Sie die Öffnungszeiten am Wochenende.",
+            "hu": "Fedezze fel a múzeumban őrzött tudományos gyűjteményeket a korai fizika megértéséhez, de hétvégén mindenképpen ellenőrizze a nyitvatartási időt.",
+            "ro": "Explorați colecțiile științifice din acest muzeu educațional pentru a înțelege fizica timpurie, dar verificați programul de weekend.",
+            "en": "Explore the scientific collections housed within this educational museum to understand early physics, but double-check opening hours on weekends."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo dei Bressani",
+            "hu": "Palazzo dei Bressani",
+            "ro": "Palazzo dei Bressani",
+            "en": "Palazzo dei Bressani"
+          },
+          "coords": [
+            7.830016,
+            44.389066
+          ],
+          "category": "historical",
+          "arrive_at": "13:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beobachten Sie die markanten architektonischen Details dieses aristokratischen Palastes am Oberstadtplatz, der am besten im warmen Nachmittagslicht fotografiert wird.",
+            "hu": "Figyelje meg ennek az arisztokrata palotának a feltűnő építészeti részleteit, amelyet a meleg délutáni fényben a legjobb fotózni.",
+            "ro": "Observați detaliile arhitecturale izbitoare ale acestui palat aristocratic, care se fotografiază cel mai bine în lumina caldă a după-amiezii.",
+            "en": "Observe the striking architectural details of this aristocratic palace that dominates the upper town square, best photographed in the warm afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo della Stampa",
+            "hu": "Museo della Stampa",
+            "ro": "Museo della Stampa",
+            "en": "Museo della Stampa"
+          },
+          "coords": [
+            7.8316,
+            44.386406
+          ],
+          "category": "museum",
+          "arrive_at": "14:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die antiken Druckerpressen in diesem Museum, das die Typografie feiert, und bitten Sie die Führer um eine kurze Demonstration.",
+            "hu": "Csodálja meg az antik nyomdagépeket ebben a kiterjedt tipográfiai múzeumban, és kérje meg az idegenvezetőket egy gyors mechanikai bemutatóra.",
+            "ro": "Admirați presele de tipar antice în acest muzeu care celebrează tipografia și cereți ghizilor o scurtă demonstrație mecanică.",
+            "en": "Marvel at the antique printing presses in this extensive museum that celebrates typography, and ask the guides for a quick mechanical demonstration."
+          }
+        },
+        {
+          "name": {
+            "de": "Cappella dell'Annunziata",
+            "hu": "Cappella dell'Annunziata",
+            "ro": "Cappella dell'Annunziata",
+            "en": "Cappella dell'Annunziata"
+          },
+          "coords": [
+            7.819282,
+            44.380922
+          ],
+          "category": "religious",
+          "arrive_at": "16:45",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese versteckte Kapelle, um ihre bescheidene religiöse Kunst zu bewundern, und ruhen Sie sich einen Moment auf den schattigen Bänken aus.",
+            "hu": "Látogassa meg ezt a csendes, eldugott kápolnát, hogy megcsodálja visszafogott vallási művészetét, és pihenjen egy pillanatot az árnyékos padokon.",
+            "ro": "Vizitați această capelă retrasă și senină pentru a-i admira arta religioasă discretă și odihniți-vă un moment pe băncile umbrite din apropiere.",
+            "en": "Visit this serene, tucked-away chapel to admire its quiet, understated religious art, and take a moment to rest on the nearby shaded benches."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Genießen Sie eine morgendliche Fahrt durch den Parco Europa zum Zentrum.\n\nAm Mittag radeln Sie hinauf zu den faszinierenden Museen der Oberstadt.\n\nIhr Nachmittag ist der Erkundung des reichen kulturellen Erbes gewidmet.\n\nBeenden Sie Ihre Radtour in der Nähe der ruhigen südlichen Kapellen.",
+        "hu": "Élvezze a reggeli kerékpározást a Parco Europában, majd irány a központ.\n\nDélben tekerjen fel a felsőváros lenyűgöző múzeumai felé.\n\nA délutánt a gazdag nyomda- és kultúrtörténeti örökség felfedezésének szentelheti.\n\nFejezze be a túrát a csendes déli kápolnák közelében.",
+        "ro": "Bucurați-vă de o plimbare matinală prin Parco Europa spre centru.\n\nLa prânz, pedalați spre muzeele fascinante din orașul de sus.\n\nDupă-amiaza este dedicată explorării bogatei moșteniri culturale și tipografice.\n\nÎncheiați turul cu bicicleta lângă capelele liniștite din sud.",
+        "en": "Enjoy a morning ride through Parco Europa before heading to the historic center.\n\nAt midday, pedal up towards the fascinating upper town museums.\n\nYour afternoon is dedicated to exploring the rich cultural and print heritage.\n\nFinish your biking tour near the quiet southern chapels."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:47",
+      "total_km": 3.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cappella di San Mambotto",
+            "hu": "Cappella di San Mambotto",
+            "ro": "Cappella di San Mambotto",
+            "en": "Cappella di San Mambotto"
+          },
+          "coords": [
+            7.805878,
+            44.383789
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Treten Sie in diese kleine, historische Kapelle am Stadtrand ein, um charmante Fresken zu entdecken, und parken Sie vorsichtig in der engen Nachbarstraße.",
+            "hu": "Lépjen be ebbe a kis, történelmi külvárosi kápolnába, hogy felfedezze szerény, de bájos freskóit, és parkoljon óvatosan a szűk szomszédos utcán.",
+            "ro": "Pășiți în această mică capelă istorică de la periferie pentru a descoperi fresce fermecătoare și parcați cu atenție pe strada adiacentă îngustă.",
+            "en": "Step inside this small, historical chapel on the outskirts to discover modest yet charming frescoes, and park carefully on the narrow adjacent street."
+          }
+        },
+        {
+          "name": {
+            "de": "Cappella di San Bernardo delle Forche",
+            "hu": "Cappella di San Bernardo delle Forche",
+            "ro": "Cappella di San Bernardo delle Forche",
+            "en": "Cappella di San Bernardo delle Forche"
+          },
+          "coords": [
+            7.807341,
+            44.388546
+          ],
+          "category": "religious",
+          "arrive_at": "09:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Sehen Sie sich die makabren, aber faszinierenden Fresken dieser einsamen Kapelle an und stellen Sie sicher, dass Sie Offline-Karten heruntergeladen haben.",
+            "hu": "Tekintse meg e magányos kápolna hátborzongató, mégis lenyűgöző történelmi freskóit, és győződjön meg róla, hogy van offline térképe, mert a térerő gyenge.",
+            "ro": "Priviți frescele istorice macabre, dar fascinante ale acestei capele solitare și asigurați-vă că aveți hărți offline, deoarece semnalul este slab.",
+            "en": "View the macabre yet fascinating historical frescoes of this solitary chapel, and ensure you have offline maps downloaded as reception here is patchy."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Europa",
+            "hu": "Parco Europa",
+            "ro": "Parco Europa",
+            "en": "Parco Europa"
+          },
+          "coords": [
+            7.814143,
+            44.388056
+          ],
+          "category": "park",
+          "arrive_at": "10:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem weitläufigen Stadtpark mit viel Grün und toller Aussicht, der der perfekte Ort für einen kleinen morgendlichen Picknicksnack ist.",
+            "hu": "Pihenjen meg ebben a hatalmas városi parkban, amely frissítő zöldövezetet és nagyszerű kilátást kínál, így tökéletes hely egy könnyű piknikhez.",
+            "ro": "Relaxați-vă în acest vast parc urban care oferă verdeață revigorantă și priveliști minunate, fiind locul perfect pentru o gustare ușoară la picnic.",
+            "en": "Relax in this expansive urban park offering refreshing greenery and great views, making it the perfect spot to bring a light morning picnic snack."
+          }
+        },
+        {
+          "name": {
+            "de": "Sale del Vescovado",
+            "hu": "Sale del Vescovado",
+            "ro": "Sale del Vescovado",
+            "en": "Sale del Vescovado"
+          },
+          "coords": [
+            7.828872,
+            44.389517
+          ],
+          "category": "historical",
+          "arrive_at": "11:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die elegant mit Fresken verzierten Säle des Bischofspalastes, die regionale Geschichte zeigen, und bringen Sie eine Kamera ohne Blitz mit.",
+            "hu": "Fedezze fel a Püspöki Palota elegánsan freskózott termeit, amelyek a régió történelmét mutatják be, így érdemes vaku nélküli fényképezőgépet hozni.",
+            "ro": "Descoperiți sălile cu fresce elegante ale Palatului Episcopal ce prezintă istoria regională, așadar aduceți un aparat foto fără bliț.",
+            "en": "Discover the elegantly frescoed halls of the Bishop's Palace which showcase regional history, so bring a camera without a flash for the best photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo dei Bressani",
+            "hu": "Palazzo dei Bressani",
+            "ro": "Palazzo dei Bressani",
+            "en": "Palazzo dei Bressani"
+          },
+          "coords": [
+            7.830016,
+            44.389066
+          ],
+          "category": "historical",
+          "arrive_at": "13:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beobachten Sie die markanten architektonischen Details dieses aristokratischen Palastes am Oberstadtplatz, der am besten im warmen Nachmittagslicht fotografiert wird.",
+            "hu": "Figyelje meg ennek az arisztokrata palotának a feltűnő építészeti részleteit, amelyet a meleg délutáni fényben a legjobb fotózni.",
+            "ro": "Observați detaliile arhitecturale izbitoare ale acestui palat aristocratic, care se fotografiază cel mai bine în lumina caldă a după-amiezii.",
+            "en": "Observe the striking architectural details of this aristocratic palace that dominates the upper town square, best photographed in the warm afternoon light."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo della Stampa",
+            "hu": "Museo della Stampa",
+            "ro": "Museo della Stampa",
+            "en": "Museo della Stampa"
+          },
+          "coords": [
+            7.8316,
+            44.386406
+          ],
+          "category": "museum",
+          "arrive_at": "14:37",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die antiken Druckerpressen in diesem Museum, das die Typografie feiert, und bitten Sie die Führer um eine kurze Demonstration.",
+            "hu": "Csodálja meg az antik nyomdagépeket ebben a kiterjedt tipográfiai múzeumban, és kérje meg az idegenvezetőket egy gyors mechanikai bemutatóra.",
+            "ro": "Admirați presele de tipar antice în acest muzeu care celebrează tipografia și cereți ghizilor o scurtă demonstrație mecanică.",
+            "en": "Marvel at the antique printing presses in this extensive museum that celebrates typography, and ask the guides for a quick mechanical demonstration."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zu den abgelegenen Kapellen für einen ruhigen Start.\n\nHalten Sie am Parco Europa, bevor Sie mittags in die Oberstadt fahren.\n\nVerbringen Sie einen entspannten Nachmittag in den historischen Palästen.\n\nBeenden Sie den Tag, indem Sie die umfangreichen Sammlungen des Druckmuseums bestaunen.",
+        "hu": "Reggel vezessen el a külső kápolnákhoz egy csendes történelmi induláshoz.\n\nÁlljon meg a Parco Europánál, mielőtt délben a felsővárosba indul.\n\nTöltsön el egy nyugodt délutánt a történelmi paloták meglátogatásával.\n\nZárja a napot a nyomdamúzeum hatalmas gyűjteményeinek megcsodálásával.",
+        "ro": "Conduceți dimineața spre capelele periferice pentru un început liniștit.\n\nOpriți-vă la Parco Europa înainte de a urca în orașul de sus la prânz.\n\nPetreceți o după-amiază relaxantă vizitând palatele istorice impresionante.\n\nÎncheiați ziua admirând colecțiile vaste ale muzeului tipografiei.",
+        "en": "Drive to the peripheral chapels in the morning for a quiet historical start.\n\nStop by Parco Europa before heading to the upper town by midday.\n\nSpend a relaxed afternoon visiting historic palaces without tiring yourself out.\n\nConclude the day marveling at the print museum's vast collections."
+      }
+    }
+  }
+}

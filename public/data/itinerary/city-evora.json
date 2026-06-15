@@ -1,0 +1,474 @@
+{
+  "city_id": "city-evora",
+  "anchor": {
+    "name": "Évora",
+    "coords": [
+      -7.9069,
+      38.5717
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:50",
+      "total_km": 1.31,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Knochenkapelle",
+            "hu": "Csontkápolna",
+            "ro": "Capela Oaselor",
+            "en": "Chapel of Bones"
+          },
+          "coords": [
+            -7.908371,
+            38.568753
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Diese unheimliche, aber faszinierende Kapelle ist mit menschlichen Knochen verziert, um an die Vergänglichkeit zu erinnern; kommen Sie früh, um den großen Menschenmassen auszuweichen.",
+            "hu": "Ez hátborzongató, de lenyűgöző kápolna emberi csontokkal díszített, emlékeztetve a mulandóságra; érdemes korán érkezni a turistatömegek elkerülése végett.",
+            "ro": "Această capelă stranie, împodobită cu oase umane, amintește de natura trecătoare a vieții; vizitați-o dis-de-dimineață pentru a evita grupurile mari de turiști.",
+            "en": "This eerie yet fascinating chapel is adorned with human bones to remind us of life's transience; arrive early in the morning to avoid the largest tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Palácio de Dom Manuel",
+            "hu": "Dom Manuel Palota",
+            "ro": "Palatul Dom Manuel",
+            "en": "Palácio de Dom Manuel"
+          },
+          "coords": [
+            -7.909244,
+            38.567793
+          ],
+          "category": "museum",
+          "arrive_at": "10:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Bewundern Sie die manuelinische Architektur dieses einstigen Königspalastes in einem ruhigen Park; spazieren Sie unbedingt durch die Gärten für die besten Fotomotive.",
+            "hu": "Csodálja meg a Mánuel-stílusú építészetet ebben a nyugodt parkban fekvő egykori királyi palotában; a legjobb fotótémákért tegyen egy sétát a gyönyörű kertekben.",
+            "ro": "Admirați arhitectura manuelină a acestui fost palat regal aflat într-un parc liniștit; plimbați-vă prin grădini pentru a surprinde cele mai frumoase fotografii.",
+            "en": "Admire the striking Manueline architecture of this former royal palace set in a tranquil park; take a stroll through the gardens for the best photography spots."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de Sisebuto",
+            "hu": "Sisebuto torony",
+            "ro": "Turnul Sisebuto",
+            "en": "Torre de Sisebuto"
+          },
+          "coords": [
+            -7.90936,
+            38.571673
+          ],
+          "category": "tower",
+          "arrive_at": "12:38",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Dieser historische Turm ist ein wichtiges Zeugnis der römisch-westgotischen Vergangenheit von Évora; betrachten Sie ihn am besten bei gutem Licht von der Südseite.",
+            "hu": "Ez a történelmi torony Évora római és vizigót múltjának fontos tanúja; a legszebb látványt a déli oldalról nyújtja a kora délutáni természetes fényben.",
+            "ro": "Acest turn istoric este o mărturie importantă a trecutului roman și vizigot al Évorei; priviți-l din partea de sud pentru a beneficia de cea mai bună lumină naturală.",
+            "en": "This historical tower stands as an important testament to Évora's Roman and Visigothic past; view it from the southern side to catch the best natural lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Palácio do Vimioso",
+            "hu": "Vimioso Palota",
+            "ro": "Palatul Vimioso",
+            "en": "Palácio do Vimioso"
+          },
+          "coords": [
+            -7.90707,
+            38.57132
+          ],
+          "category": "castle",
+          "arrive_at": "12:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Die beeindruckende Festungsarchitektur dieses Schlosses spiegelt die mittelalterliche Macht wider; achten Sie auf die aufwendigen Details der historischen Steinfassade.",
+            "hu": "A kastély lenyűgöző erődítmény-építészete a középkori hatalmat tükrözi; mindenképpen figyeljen a történelmi kőhomlokzat aprólékos, gondosan kidolgozott részleteire.",
+            "ro": "Arhitectura impresionantă a acestui palat fortificat reflectă puterea medievală; acordați atenție detaliilor elaborate ale fațadei istorice din piatră.",
+            "en": "The impressive fortified architecture of this castle reflects medieval power dynamics; pay close attention to the intricate details of the historical stone facade."
+          }
+        },
+        {
+          "name": {
+            "de": "São João Evangelista",
+            "hu": "São João Evangelista templom",
+            "ro": "São João Evangelista",
+            "en": "São João Evangelista"
+          },
+          "coords": [
+            -7.906925,
+            38.572946
+          ],
+          "category": "religious",
+          "arrive_at": "14:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Die Kirche birgt bemerkenswerte Azulejos, die zu den schönsten in Portugal gehören; treten Sie ruhig ein, um die blau-weißen Kacheln aus der Nähe zu bewundern.",
+            "hu": "A templom lenyűgöző azulejo csempéiről híres, amelyek a legszebbek közé tartoznak Portugáliában; lépjen be bátran, hogy testközelből csodálja meg a motívumokat.",
+            "ro": "Biserica ascunde azulejos remarcabile, considerate printre cele mai frumoase din Portugalia; intrați în tihnă pentru a admira detaliile plăcilor ceramice alb-albastre.",
+            "en": "The church holds remarkable azulejo tiles that are among the most beautiful in Portugal; step inside quietly to admire the blue and white patterns up close."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquädukt der Silberwasser",
+            "hu": "Ezüstvíz vízvezeték",
+            "ro": "Apeductul Apei de Argint",
+            "en": "Aqueduto da Água de Prata"
+          },
+          "coords": [
+            -7.911064,
+            38.574587
+          ],
+          "category": "landmark",
+          "arrive_at": "15:05",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Dieses imposante Aquädukt aus dem 16. Jahrhundert prägt das Stadtbild Évoras; folgen Sie den Bögen in die Altstadt, wo Häuser direkt hineingebaut wurden.",
+            "hu": "Ez az impozáns, 16. századi vízvezeték uralja Évora városképét; kövesse az íveket az óváros felé, ahol a házakat közvetlenül az építménybe integrálták.",
+            "ro": "Acest apeduct impunător din secolul al XVI-lea domină peisajul Évorei; urmați arcadele spre orașul vechi, unde casele au fost construite direct în structură.",
+            "en": "This imposing 16th-century aqueduct defines the cityscape of Évora; follow its arches into the old town where local houses are built directly into the structure."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt an der berühmten Knochenkapelle, die zum Nachdenken anregt, gefolgt von einem Spaziergang im königlichen Park. Mittags erkunden Sie die historischen Türme und Festungen von Évora. Am Nachmittag bewundern Sie die Azulejos in der São João Kirche. Der Tag endet am beeindruckenden Aquädukt der Stadt.",
+        "hu": "A reggel a híres, elgondolkodtató Csontkápolnánál kezdődik, majd egy séta következik a királyi parkban. Délben Évora történelmi tornyait és erődítményeit fedezzük fel. Délután a São João templom lenyűgöző azulejo csempéit csodálhatjuk meg. A nap a város lenyűgöző, római kori vízvezetékénél ér véget.",
+        "ro": "Dimineața începe la faimoasa Capelă a Oaselor, urmată de o plimbare în parcul regal. La prânz, veți explora turnurile și palatele istorice ale Évorei. După-amiaza este rezervată admirării ceramicii din biserica São João. Ziua se încheie la apeductul impresionant, o dovadă a ingineriei secolului al XVI-lea.",
+        "en": "The morning begins at the famous Chapel of Bones, sparking deep reflection, followed by a royal park stroll. Midday brings you to Évora's historical towers and fortresses. In the afternoon, marvel at the azulejos inside the São João Church. The day concludes wonderfully at the city's impressive ancient aqueduct."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:56",
+      "total_km": 1.85,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Porta do Raimundo",
+            "hu": "Raimundo kapu",
+            "ro": "Poarta Raimundo",
+            "en": "Porta do Raimundo"
+          },
+          "coords": [
+            -7.912996,
+            38.567547
+          ],
+          "category": "fortress",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Dieses historische Stadttor war einst ein wichtiger Zugang zur befestigten Stadt; nutzen Sie den Ort für einen kurzen Orientierungsstopp vor der Altstadt.",
+            "hu": "Ez a történelmi városkapu egykor a megerősített város fontos bejárata volt; használja a helyszínt egy gyors tájékozódási megállóra, mielőtt beveti magát az óvárosba.",
+            "ro": "Această poartă istorică era odată un punct vital de acces în orașul fortificat; profitați de acest loc pentru o scurtă pauză de orientare înaintea explorării.",
+            "en": "This historical city gate was once a vital access point to the fortified city; use this spot for a quick orientation break before heading deep into the old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Palácio de Dom Manuel",
+            "hu": "Dom Manuel Palota",
+            "ro": "Palatul Dom Manuel",
+            "en": "Palácio de Dom Manuel"
+          },
+          "coords": [
+            -7.909244,
+            38.567793
+          ],
+          "category": "museum",
+          "arrive_at": "09:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Bewundern Sie die manuelinische Architektur dieses einstigen Königspalastes in einem ruhigen Park; spazieren Sie unbedingt durch die Gärten für die besten Fotomotive.",
+            "hu": "Csodálja meg a Mánuel-stílusú építészetet ebben a nyugodt parkban fekvő egykori királyi palotában; a legjobb fotótémákért tegyen egy sétát a gyönyörű kertekben.",
+            "ro": "Admirați arhitectura manuelină a acestui fost palat regal aflat într-un parc liniștit; plimbați-vă prin grădini pentru a surprinde cele mai frumoase fotografii.",
+            "en": "Admire the striking Manueline architecture of this former royal palace set in a tranquil park; take a stroll through the gardens for the best photography spots."
+          }
+        },
+        {
+          "name": {
+            "de": "Salão Central Eborense",
+            "hu": "Salão Central Eborense",
+            "ro": "Salão Central Eborense",
+            "en": "Salão Central Eborense"
+          },
+          "coords": [
+            -7.907545,
+            38.570408
+          ],
+          "category": "cultural",
+          "arrive_at": "11:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.32,
+          "tip_5lang": {
+            "de": "Als kulturelles Zentrum bietet dieses Gebäude tiefe Einblicke in das moderne Évora; prüfen Sie vorab, ob am Tag Ihres Besuchs öffentliche Ausstellungen stattfinden.",
+            "hu": "Kulturális központként ez az épület mély bepillantást enged a modern Évora életébe; látogatás előtt érdemes ellenőrizni, vannak-e éppen nyilvános kiállítások.",
+            "ro": "Ca centru cultural, clădirea oferă o perspectivă profundă asupra Évorei moderne; verificați în prealabil dacă există expoziții publice în ziua vizitei dumneavoastră.",
+            "en": "As a cultural hub, this building offers deep insights into modern Évora; check the schedule in advance to see if any public exhibitions align with your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja do Espírito Santo",
+            "hu": "Szentlélek templom",
+            "ro": "Biserica Sfântului Duh",
+            "en": "Igreja do Espírito Santo"
+          },
+          "coords": [
+            -7.90464,
+            38.572789
+          ],
+          "category": "religious",
+          "arrive_at": "12:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Diese prächtige Kirche ist ein Meisterwerk der Jesuitenarchitektur mit einer reichen Innenausstattung; achten Sie besonders auf den kunstvollen Hauptaltar.",
+            "hu": "Ez a pompás templom a jezsuita építészet remekműve, gazdag belső díszítéssel; fordítson különös figyelmet a művészien kidolgozott, lenyűgöző főoltárra.",
+            "ro": "Această biserică magnifică este o capodoperă a arhitecturii iezuite cu un interior bogat; acordați o atenție deosebită altarului principal sculptat cu mare măiestrie.",
+            "en": "This magnificent church is a masterpiece of Jesuit architecture featuring a rich interior; pay special attention to the intricately carved and ornate main altar."
+          }
+        },
+        {
+          "name": {
+            "de": "Palácio dos Condes de Basto",
+            "hu": "Basto grófjainak palotája",
+            "ro": "Palatul Conților de Basto",
+            "en": "Palácio dos Condes de Basto"
+          },
+          "coords": [
+            -7.905727,
+            38.572889
+          ],
+          "category": "museum",
+          "arrive_at": "13:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Die gut erhaltenen Fresken dieses alten Palastes machen ihn zu einem versteckten Juwel; fragen Sie das Personal nach den Hintergründen der geheimnisvollen Wandmalereien.",
+            "hu": "Az ősi palota jól karbantartott freskói miatt igazi rejtett gyöngyszemnek számít; kérdezze meg a személyzetet a titokzatos falfestmények történelmi hátteréről.",
+            "ro": "Frescele bine conservate ale acestui palat vechi îl transformă într-o bijuterie ascunsă; întrebați personalul despre istoria din spatele picturilor murale misterioase.",
+            "en": "The well-preserved frescoes of this ancient palace make it a true hidden gem; ask the staff about the historical context behind the mysterious wall paintings."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquädukt der Silberwasser",
+            "hu": "Ezüstvíz vízvezeték",
+            "ro": "Apeductul Apei de Argint",
+            "en": "Aqueduto da Água de Prata"
+          },
+          "coords": [
+            -7.911064,
+            38.574587
+          ],
+          "category": "landmark",
+          "arrive_at": "14:55",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Dieses imposante Aquädukt aus dem 16. Jahrhundert prägt das Stadtbild Évoras; folgen Sie den Bögen in die Altstadt, wo Häuser direkt hineingebaut wurden.",
+            "hu": "Ez az impozáns, 16. századi vízvezeték uralja Évora városképét; kövesse az íveket az óváros felé, ahol a házakat közvetlenül az építménybe integrálták.",
+            "ro": "Acest apeduct impunător din secolul al XVI-lea domină peisajul Évorei; urmați arcadele spre orașul vechi, unde casele au fost construite direct în structură.",
+            "en": "This imposing 16th-century aqueduct defines the cityscape of Évora; follow its arches into the old town where local houses are built directly into the structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Porta de Aviz",
+            "hu": "Aviz kapu",
+            "ro": "Poarta Aviz",
+            "en": "Porta de Aviz"
+          },
+          "coords": [
+            -7.910341,
+            38.576704
+          ],
+          "category": "fortress",
+          "arrive_at": "15:11",
+          "stay_min": 45,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Ein weiteres markantes Tor der mittelalterlichen Stadtmauer, das viel Geschichte atmet; die angrenzenden Straßen eignen sich hervorragend für eine kleine Kaffeepause.",
+            "hu": "A középkori városfal egy másik kiemelkedő kapuja, amelyből árad a történelem; a szomszédos utcák hangulatos kávézói tökéletesek egy rövid pihenőhöz.",
+            "ro": "O altă poartă proeminentă a zidului medieval care respiră multă istorie; străduțele adiacente sunt excelente pentru o scurtă pauză de cafea relaxantă.",
+            "en": "Another prominent gate of the medieval city wall that breathes centuries of history; the adjacent streets are perfectly suited for a short, relaxing coffee break."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie am historischen Raimundo-Tor und radeln Sie zum Palácio de Dom Manuel im Park. Gegen Mittag tauchen Sie im Salão Central in die moderne Kultur ein. Am Nachmittag entdecken Sie die prächtige Espírito Santo Kirche. Die Tour endet entspannt an den malerischen Bögen des Aquädukts und dem Aviz-Tor.",
+        "hu": "Induljon a történelmi Raimundo kaputól, majd kerékpározzon a parkban lévő Dom Manuel palotához. Délben merüljön el a modern kultúrában a Salão Centralban. Délután fedezze fel a pompás Espírito Santo templomot. A túra nyugodt tempóban zárul a vízvezeték festői íveinél és az Aviz kapunál.",
+        "ro": "Începeți la poarta istorică Raimundo și pedalați spre Palatul Dom Manuel din parc. La prânz, pătrundeți în cultura modernă la Salão Central. După-amiaza veți descoperi superba Biserică Espírito Santo. Turul se încheie relaxant la arcadele pitorești ale apeductului și la poarta de nord Aviz.",
+        "en": "Start at the historical Raimundo gate and cycle to the Dom Manuel Palace in the park. By midday, immerse yourself in modern culture at the Salão Central. The afternoon is spent discovering the magnificent Espírito Santo Church. Your tour ends leisurely by the aqueduct's picturesque arches and the Aviz gate."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:41",
+      "total_km": 1.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Forte de Santo António da Piedade",
+            "hu": "Santo António da Piedade erőd",
+            "ro": "Fortul Santo António da Piedade",
+            "en": "Forte de Santo António da Piedade"
+          },
+          "coords": [
+            -7.915648,
+            38.578449
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Diese sternförmige Festung bot einst Schutz und bietet heute fantastische Ausblicke; ein Spaziergang auf den Wällen ist ideal für weitreichende Panoramafotos.",
+            "hu": "Ez a csillag alakú erőd egykor védelmet nyújtott, ma pedig fantasztikus kilátást kínál; a sáncokon tett séta ideális a szélesvásznú panorámafotók készítéséhez.",
+            "ro": "Această fortăreață în formă de stea oferea protecție, iar azi oferă priveliști fantastice; o plimbare pe metereze este ideală pentru fotografii panoramice largi.",
+            "en": "This star-shaped fortress once provided crucial protection and now offers fantastic views; a walk along the ramparts is ideal for taking wide panoramic photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Porta de Aviz",
+            "hu": "Aviz kapu",
+            "ro": "Poarta Aviz",
+            "en": "Porta de Aviz"
+          },
+          "coords": [
+            -7.910341,
+            38.576704
+          ],
+          "category": "fortress",
+          "arrive_at": "10:32",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein weiteres markantes Tor der mittelalterlichen Stadtmauer, das viel Geschichte atmet; die angrenzenden Straßen eignen sich hervorragend für eine kleine Kaffeepause.",
+            "hu": "A középkori városfal egy másik kiemelkedő kapuja, amelyből árad a történelem; a szomszédos utcák hangulatos kávézói tökéletesek egy rövid pihenőhöz.",
+            "ro": "O altă poartă proeminentă a zidului medieval care respiră multă istorie; străduțele adiacente sunt excelente pentru o scurtă pauză de cafea relaxantă.",
+            "en": "Another prominent gate of the medieval city wall that breathes centuries of history; the adjacent streets are perfectly suited for a short, relaxing coffee break."
+          }
+        },
+        {
+          "name": {
+            "de": "Junta de Freguesia de São Mamede",
+            "hu": "São Mamede plébánia",
+            "ro": "Junta de Freguesia de São Mamede",
+            "en": "Junta de Freguesia de São Mamede"
+          },
+          "coords": [
+            -7.909425,
+            38.574975
+          ],
+          "category": "historical",
+          "arrive_at": "10:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Dieses Gebäude ist tief in der lokalen Verwaltungstradition verwurzelt und architektonisch reizvoll; betrachten Sie die traditionelle portugiesische Fassadengestaltung.",
+            "hu": "Az épület mélyen gyökerezik a helyi közigazgatási hagyományokban és építészetileg is vonzó; figyelje meg a hagyományos portugál homlokzattervezés elemeit.",
+            "ro": "Această clădire este adânc înrădăcinată în tradiția administrativă locală, fiind fermecătoare; observați cu atenție designul tradițional al fațadei portugheze.",
+            "en": "This building is deeply rooted in local administrative tradition and architecturally charming; observe the traditional Portuguese facade design and its elegant details."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Garcia de Resende",
+            "hu": "Garcia de Resende Színház",
+            "ro": "Teatrul Garcia de Resende",
+            "en": "Teatro Garcia de Resende"
+          },
+          "coords": [
+            -7.913304,
+            38.572758
+          ],
+          "category": "cultural",
+          "arrive_at": "12:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Das prachtvolle Theater aus dem 19. Jahrhundert ist der Stolz der Stadt; prüfen Sie, ob eine Führung angeboten wird, um den eleganten Zuschauerraum zu sehen.",
+            "hu": "A 19. századi pompás színház a város büszkesége; érdeklődjön az esetleges vezetett túrákról, hogy megcsodálhassa az elegáns, történelmi nézőteret.",
+            "ro": "Teatrul magnific din secolul al XIX-lea reprezintă mândria orașului; verificați dacă există tururi ghidate pentru a putea vedea sala de spectacole elegantă.",
+            "en": "This magnificent 19th-century theater is the pride of the city; check if there is a guided tour available to fully appreciate the elegant auditorium interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Knochenkapelle",
+            "hu": "Csontkápolna",
+            "ro": "Capela Oaselor",
+            "en": "Chapel of Bones"
+          },
+          "coords": [
+            -7.908371,
+            38.568753
+          ],
+          "category": "museum",
+          "arrive_at": "13:31",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Diese unheimliche, aber faszinierende Kapelle ist mit menschlichen Knochen verziert, um an die Vergänglichkeit zu erinnern; kommen Sie früh, um den großen Menschenmassen auszuweichen.",
+            "hu": "Ez hátborzongató, de lenyűgöző kápolna emberi csontokkal díszített, emlékeztetve a mulandóságra; érdemes korán érkezni a turistatömegek elkerülése végett.",
+            "ro": "Această capelă stranie, împodobită cu oase umane, amintește de natura trecătoare a vieții; vizitați-o dis-de-dimineață pentru a evita grupurile mari de turiști.",
+            "en": "This eerie yet fascinating chapel is adorned with human bones to remind us of life's transience; arrive early in the morning to avoid the largest tourist crowds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Fahrt beginnt an der wehrhaften Festung Santo António im Norden der Stadt. Danach steuern Sie das Aviz-Tor und historische Verwaltungsgebäude an. Nachmittags erwartet Sie die kulturelle Pracht des historischen Theaters der Stadt. Der Ausflug findet seinen epischen Abschluss an der berühmten Knochenkapelle.",
+        "hu": "Az autós túra a város északi részén található Santo António erődítménytől indul. Ezután az Aviz kapu és a történelmi közigazgatási épületek következnek. Délután a történelmi színház kulturális pompája várja. A kirándulás epikus befejezése a világhírű és elgondolkodtató Csontkápolna felfedezése lesz.",
+        "ro": "Călătoria cu mașina începe la impunătoarea fortăreață Santo António din nordul orașului. Ulterior, vă veți îndrepta spre poarta Aviz și clădirile administrative. După-amiaza vă așteaptă splendoarea culturală a teatrului istoric. Excursia se încheie cu o vizită memorabilă la celebra și fascinanta Capelă a Oaselor.",
+        "en": "The drive begins at the formidable Santo António fortress in the north of the city. Afterwards, you will head towards the Aviz gate and historical administrative buildings. The afternoon reveals the cultural splendor of the historical theater. Your trip reaches its epic conclusion at the world-famous Chapel of Bones."
+      }
+    }
+  }
+}

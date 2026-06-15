@@ -1,0 +1,474 @@
+{
+  "city_id": "tuxtla-gutierrez-cities-v2",
+  "anchor": {
+    "name": "Tuxtla Gutiérrez",
+    "coords": [
+      -93.1156,
+      16.7538
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:41",
+      "total_km": 2.99,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Monumento Parque Bicentenario",
+            "hu": "Monumento Parque Bicentenario",
+            "ro": "Monumento Parque Bicentenario",
+            "en": "Monumento Parque Bicentenario"
+          },
+          "coords": [
+            -93.127902,
+            16.752921
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses hohe Denkmal, das die Geschichte feiert, bevor Sie sich eine Bank im Schatten suchen, um Ihre Route zu planen.",
+            "hu": "Csodálja meg ezt a történelmet ünneplő hatalmas emlékművet, mielőtt egy árnyékos padon megtervezné a mai városi sétáját.",
+            "ro": "Admirați acest monument impunător care celebrează istoria înainte de a găsi o bancă la umbră pentru a vă planifica traseul.",
+            "en": "Admire this towering monument celebrating history before finding a nearby bench to plan your walking route in the welcome shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo De La Marimba",
+            "hu": "Museo De La Marimba",
+            "ro": "Museo De La Marimba",
+            "en": "Museo De La Marimba"
+          },
+          "coords": [
+            -93.12398,
+            16.755005
+          ],
+          "category": "museum",
+          "arrive_at": "10:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das musikalische Erbe der Region ein und versuchen Sie, eine der abendlichen Live-Marimba-Aufführungen zu besuchen.",
+            "hu": "Merüljön el a régió zenei örökségében ebben a múzeumban, és próbáljon elcsípni egy esti élő marimba előadást a közeli parkban.",
+            "ro": "Cufundați-vă în moștenirea muzicală regională la acest muzeu unic și încercați să prindeți o reprezentație live de marimba seara.",
+            "en": "Immerse yourself in the regional musical heritage at this unique museum, and try to catch one of the live marimba performances held in the evenings."
+          }
+        },
+        {
+          "name": {
+            "de": "La Piedra Sabia",
+            "hu": "La Piedra Sabia",
+            "ro": "La Piedra Sabia",
+            "en": "La Piedra Sabia"
+          },
+          "coords": [
+            -93.118306,
+            16.761884
+          ],
+          "category": "historical",
+          "arrive_at": "12:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historische Wahrzeichen von lokaler kultureller Bedeutung und tragen Sie bequeme Schuhe für das leicht unebene Gelände.",
+            "hu": "Fedezze fel ezt a helyi kulturális jelentőséggel bíró történelmi nevezetességet, de viseljen kényelmes cipőt az egyenetlen terep miatt.",
+            "ro": "Explorați acest reper istoric cu o deosebită semnificație culturală, asigurându-vă că purtați încălțăminte confortabilă pentru terenul neregulat.",
+            "en": "Explore this historical landmark that holds local cultural significance, making sure to wear comfortable shoes for the slightly uneven surrounding terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Regional de Chiapas",
+            "hu": "Museo Regional de Chiapas",
+            "ro": "Museo Regional de Chiapas",
+            "en": "Museo Regional de Chiapas"
+          },
+          "coords": [
+            -93.106783,
+            16.75994
+          ],
+          "category": "museum",
+          "arrive_at": "14:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.23,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche präkolumbianische Geschichte des Staates und kommen Sie früh, um den größten Touristenströmen in den Sälen auszuweichen.",
+            "hu": "Fedezze fel az állam gazdag prekolumbián történelmét, és érkezzen korán, hogy elkerülje a legnagyobb tömeget a kiállítótermekben.",
+            "ro": "Descoperiți istoria precolumbiană și colonială a statului, ajungând devreme pentru a evita cele mai mari aglomerații din sălile principale.",
+            "en": "Discover the rich pre-Columbian artifacts and colonial history of the state, arriving early to avoid the largest tourist crowds in the main exhibition halls."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro de la Ciudad \"Emilio Rabasa\"",
+            "hu": "Teatro de la Ciudad \"Emilio Rabasa\"",
+            "ro": "Teatro de la Ciudad \"Emilio Rabasa\"",
+            "en": "Teatro de la Ciudad \"Emilio Rabasa\""
+          },
+          "coords": [
+            -93.10557,
+            16.760182
+          ],
+          "category": "cultural",
+          "arrive_at": "15:52",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit für die moderne Architektur dieses Zentrums und prüfen Sie an der Kasse, ob während Ihres Aufenthalts Vorstellungen stattfinden.",
+            "hu": "Szánjon egy percet e kulturális központ lenyűgöző modern építészetének megcsodálására, és érdeklődjön a jegypénztárban a közelgő előadásokról.",
+            "ro": "Faceți-vă timp pentru a aprecia arhitectura modernă a acestui centru cultural și verificați la casa de bilete dacă există spectacole în timpul șederii.",
+            "en": "Take a moment to appreciate the striking modern architecture of this cultural hub, and check the box office for any upcoming performances during your stay."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque convivencia infantil",
+            "hu": "Parque convivencia infantil",
+            "ro": "Parque convivencia infantil",
+            "en": "Parque convivencia infantil"
+          },
+          "coords": [
+            -93.104155,
+            16.75866
+          ],
+          "category": "landmark",
+          "arrive_at": "16:56",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem familienfreundlichen Park, der Einblicke in das lokale Leben bietet, und bringen Sie Kleingeld für Snacks mit.",
+            "hu": "Pihenjen ebben a családbarát parkban, és hozzon magával némi aprót, hogy frissítő helyi finomságokat vásárolhasson az utcai árusoktól.",
+            "ro": "Relaxați-vă în acest parc plin de viață care oferă o perspectivă asupra vieții locale și aduceți mărunt pentru a cumpăra gustări de la vânzători.",
+            "en": "Relax in this lively family-friendly park offering a glimpse into local daily life, bringing some small change to buy refreshing snacks from vendors."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt im pulsierenden Herzen der Stadt, wo Sie historische Monumente erkunden, die den lokalen Stolz feiern. Ein kurzer Spaziergang führt Sie dann zum berühmten Marimba-Museum, wo die musikalische Seele der Region lebendig wird.\n\nGegen Mittag entdecken Sie die präkolumbianischen Artefakte, die im regionalen Museum aufbewahrt werden. Die schattigen Wege bieten eine willkommene Pause von der tropischen Hitze.\n\nDer Nachmittag lädt Sie ein, die elegante Architektur des Stadttheaters zu schätzen. Bei Ihrem gemütlichen Spaziergang können Sie die lebhafte Atmosphäre der Einheimischen genießen.\n\nIhr Tag endet in einem familienfreundlichen Park, wo das Lachen der Kinder und lebhafte Stände eine fröhliche Szene schaffen. Es ist der perfekte Ort, um sich zu entspannen und den Tag ausklingen zu lassen.",
+        "hu": "A reggel a város lüktető szívében indul, ahol a helyi büszkeséget hirdető, lenyűgöző történelmi emlékműveket fedezheti fel. Egy rövid séta után elérkezik az ikonikus Marimba Múzeumhoz, ahol a régió zenei lelke igazán életre kel.\n\nDél közeledtével felfedezheti az impresszív regionális múzeumban őrzött prekolumbián leleteket. A nevezetességek közötti árnyékos ösvények kellemes felüdülést nyújtanak a trópusi melegben.\n\nA délután folyamán megcsodálhatja a városi színház letisztult, modern építészetét. Kényelmes sétáját folytatva elmerülhet a helyiek mindennapi életének nyüzsgő, mégis békés atmoszférájában.\n\nA nap egy családbarát parkban zárul, ahol a gyermekek nevetése és a színes árusok standjai vidám hangulatot teremtenek. Tökéletes helyszín a pihenésre és egy tartalmas városi séta lezárására.",
+        "ro": "Dimineața dumneavoastră începe în inima vibrantă a orașului, explorând monumente istorice grandioase care celebrează mândria locală. O scurtă plimbare vă conduce apoi la emblematicul Muzeu Marimba, unde sufletul muzical prinde viață.\n\nSpre prânz, veți descoperi artefactele coloniale și precolumbiene păstrate în impresionantul muzeu regional. Aleile umbrite dintre atracții oferă un răgaz binevenit de la căldura tropicală.\n\nDupă-amiaza vă invită să apreciați arhitectura elegantă a teatrului orașului, un far al culturii moderne. Continuându-vă plimbarea relaxantă, vă veți bucura de atmosfera plină de viață a localnicilor.\n\nZiua dumneavoastră se încheie frumos într-un parc plin de viață, unde râsetele copiilor și tarabele vânzătorilor creează o scenă veselă. Este locul perfect pentru a vă relaxa după o explorare urbană.",
+        "en": "Your morning begins in the vibrant heart of the city, exploring grand historical monuments that celebrate local pride. A short stroll then leads you to the iconic Marimba Museum, where the region's musical soul truly comes alive.\n\nAs midday approaches, you will discover the intricate colonial and pre-Columbian artifacts safely preserved inside the impressive regional museum. The shaded pathways between landmarks offer a welcome respite from the tropical warmth.\n\nThe afternoon invites you to appreciate the sleek architecture of the city theater, a beacon of modern culture. Continuing your leisurely walk, you will soak in the lively atmosphere as locals go about their daily routines.\n\nYour day concludes beautifully in a family-friendly park where the laughter of children and vibrant vendor stalls create a joyful scene. It is the perfect spot to sit back, relax, and reflect on a fulfilling day of urban exploration."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:51",
+      "total_km": 9.26,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Antorcha de la Solidaridad",
+            "hu": "Antorcha de la Solidaridad",
+            "ro": "Antorcha de la Solidaridad",
+            "en": "Antorcha de la Solidaridad"
+          },
+          "coords": [
+            -93.141245,
+            16.746753
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Radtour an diesem markanten Denkmal, das für Einheit steht, und nutzen Sie den weiten Platz, um sich vor der Fahrt zu dehnen.",
+            "hu": "Kezdje kerékpártúráját ennél az egységet jelképező emlékműnél, és használja ki a tágas teret egy alapos nyújtásra az indulás előtt.",
+            "ro": "Începeți traseul de ciclism la acest monument reprezentând unitatea și folosiți piața spațioasă din jur pentru a vă încălzi înainte de a pleca.",
+            "en": "Start your cycling route at this prominent monument representing unity, and use the wide surrounding plaza to stretch before heading towards the city center."
+          }
+        },
+        {
+          "name": {
+            "de": "Bandera Monumental",
+            "hu": "Bandera Monumental",
+            "ro": "Bandera Monumental",
+            "en": "Bandera Monumental"
+          },
+          "coords": [
+            -93.131027,
+            16.773344
+          ],
+          "category": "historical",
+          "arrive_at": "10:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Halten Sie an, um die riesige mexikanische Flagge majestätisch wehen zu sehen, und halten Sie beim Fotografieren Abstand zum Kreisverkehr.",
+            "hu": "Álljon meg egy pillanatra, hogy megnézze a hatalmas, égbe nyúló mexikói zászlót, de fotózás közben tartson biztonságos távolságot a körforgalomtól.",
+            "ro": "Opriți-vă pentru a vedea steagul mexican masiv fluturând grațios pe cer, păstrând o distanță sigură de sensul giratoriu atunci când faceți fotografii.",
+            "en": "Pause to see the massive Mexican flag waving gracefully against the sky, keeping a safe distance from the traffic circle when taking photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento Parque Bicentenario",
+            "hu": "Monumento Parque Bicentenario",
+            "ro": "Monumento Parque Bicentenario",
+            "en": "Monumento Parque Bicentenario"
+          },
+          "coords": [
+            -93.127902,
+            16.752921
+          ],
+          "category": "historical",
+          "arrive_at": "12:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad sicher in der Nähe dieses imposanten Denkmals und nehmen Sie sich Zeit, um die historische Bedeutung des Ortes zu erfassen.",
+            "hu": "Parkolja le kerékpárját biztonságosan a hatalmas emlékmű közelében, és szánjon időt a hely történelmi jelentőségének megértésére.",
+            "ro": "Parcați-vă bicicleta în siguranță lângă acest monument impunător și faceți-vă timp pentru a înțelege semnificația istorică a locului.",
+            "en": "Park your bike safely near this imposing monument and take your time to appreciate the historical significance embedded in its modern design."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo De La Marimba",
+            "hu": "Museo De La Marimba",
+            "ro": "Museo De La Marimba",
+            "en": "Museo De La Marimba"
+          },
+          "coords": [
+            -93.12398,
+            16.755005
+          ],
+          "category": "museum",
+          "arrive_at": "13:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Machen Sie eine kulturelle Pause in diesem faszinierenden Musikmuseum und lauschen Sie den melodischen Klängen der regionalen Holzinstrumente.",
+            "hu": "Tartson egy kulturális szünetet ebben a lenyűgöző zenei múzeumban, és hallgassa meg a regionális fahangszerek dallamos hangjait.",
+            "ro": "Faceți o pauză culturală în acest muzeu fascinant al muzicii și ascultați sunetele melodioase ale instrumentelor regionale din lemn.",
+            "en": "Take a cultural break in this fascinating music museum and listen to the melodic, rhythmic sounds of the region's traditional wooden instruments."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Regional de Chiapas",
+            "hu": "Museo Regional de Chiapas",
+            "ro": "Museo Regional de Chiapas",
+            "en": "Museo Regional de Chiapas"
+          },
+          "coords": [
+            -93.106783,
+            16.75994
+          ],
+          "category": "museum",
+          "arrive_at": "15:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Rad ab und tauchen Sie in die tiefen präkolumbianischen Ausstellungen ein, die die reiche Geschichte von Chiapas erzählen.",
+            "hu": "Zárja le kerékpárját, és merüljön el a Chiapas gazdag történelmét bemutató mélyreható prekolumbián kiállítások lenyűgöző világában.",
+            "ro": "Securizați-vă bicicleta și pătrundeți în expozițiile precolumbiene profunde care spun povestea bogată a istoriei statului Chiapas.",
+            "en": "Lock up your bike and delve into the deep pre-Columbian exhibitions that masterfully tell the rich, complex history of the state of Chiapas."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditorio del Colegio de Bachilleres",
+            "hu": "Auditorio del Colegio de Bachilleres",
+            "ro": "Auditorio del Colegio de Bachilleres",
+            "en": "Auditorio del Colegio de Bachilleres"
+          },
+          "coords": [
+            -93.089353,
+            16.758429
+          ],
+          "category": "cultural",
+          "arrive_at": "17:21",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour an diesem kulturellen Veranstaltungsort und nutzen Sie die Cafés in der Nähe, um nach dem aktiven Tag etwas zu trinken.",
+            "hu": "Fejezze be túráját ennél a kulturális helyszínnél, és használja ki a közeli kávézókat, hogy rehidratálja magát egy aktív nap után.",
+            "ro": "Încheiați-vă turul cu bicicleta la această locație culturală și educațională, profitând de cafenelele din apropiere pentru a vă hidrata.",
+            "en": "Finish your bike tour at this significant educational and cultural venue, taking advantage of the nearby cafes to rehydrate after an active day of cycling."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt an einer monumentalen Skulptur, die Solidarität symbolisiert, bevor Sie über die breiten Alleen in Richtung Stadtzentrum radeln. Die morgendliche Energie von Tuxtla lässt sich perfekt vom Sattel eines Fahrrads aus erleben.\n\nGegen Mittag radeln Sie an riesigen Flaggen und historischen Plätzen vorbei, die die bürgerliche Identität des Staates verankern. Ihre Route verbindet mühelos die monumentale Größe der Stadt mit zugänglichen kulturellen Stopps.\n\nAm Nachmittag unterbrechen Sie Ihre Fahrt, um in die faszinierenden Ausstellungen der wichtigsten Museen einzutauchen. Dieses kulturelle Eintauchen lockert die körperliche Aktivität auf und bereichert Ihr Verständnis für Chiapas.\n\nDie Radtour endet in der Nähe eines prominenten Auditoriums am Rande des zentralen Bezirks. Hier können Sie die kühlende Abendbrise und ein erfrischendes lokales Getränk nach einem wirklich aktiven Tag genießen.",
+        "hu": "Kezdje a tekerést a szolidaritást jelképező monumentális szobornál, mielőtt a széles sugárutakon a városközpont felé venné az irányt. Tuxtla reggeli energiája a kerékpár nyergéből tapasztalható meg a legjobban.\n\nDél körül hatalmas zászlók és történelmi terek mellett halad el, amelyek az állam polgári identitásának alapjai. Az útvonal zökkenőmentesen ötvözi a város monumentális léptékét a könnyen megközelíthető kulturális megállókkal.\n\nDélután tartson szünetet, hogy elmerüljön a főbb múzeumok lenyűgöző kiállításaiban. Ez a jól időzített kulturális feltöltődés megtöri a fizikai aktivitást, miközben gazdagítja Chiapasról szerzett ismereteit.\n\nA kerékpáros utazás egy kiemelkedő oktatási központ közelében ér véget, a központi kerület szélén. Itt élvezheti a hűsítő esti szellőt és egy frissítő helyi italt egy igazán aktív és inspiráló nap után.",
+        "ro": "Începeți cursa la o sculptură monumentală care simbolizează solidaritatea, înainte de a pedala de-a lungul bulevardelor largi spre centrul orașului. Energia matinală a orașului Tuxtla este experimentată perfect din șaua unei biciclete.\n\nPână la prânz, veți pedala pe lângă steaguri uriașe și piețe istorice care ancorează identitatea civică a statului. Traseul dumneavoastră îmbină perfect scara monumentală a orașului cu opriri culturale ușor accesibile.\n\nDupă-amiaza, faceți o pauză pentru a vă adânci în expozițiile fascinante ale principalelor muzee. Această imersiune culturală bine ritmată întrerupe activitatea fizică, îmbogățindu-vă în același timp înțelegerea statului Chiapas.\n\nCălătoria cu bicicleta se încheie în apropierea unui auditorium proeminent la marginea districtului central. Aici, vă puteți bucura de briza răcoroasă a serii și de o băutură locală răcoritoare după o zi cu adevărat activă.",
+        "en": "Start your ride at a monumental sculpture symbolizing solidarity before cruising along the wide avenues towards the city center. The morning energy of Tuxtla is perfectly experienced from the saddle of a bicycle.\n\nBy midday, you will pedal past soaring flags and historic plazas that anchor the civic identity of the state. Your route seamlessly blends the city's monumental scale with easily accessible, bike-friendly cultural stops.\n\nIn the afternoon, pause your ride to delve into the fascinating exhibitions of the main museums. This well-paced cultural immersion breaks up the physical activity while enriching your understanding of Chiapas.\n\nThe cycling journey winds down near a prominent educational auditorium on the edge of the central district. Here, you can enjoy the cooling evening breeze and a refreshing local drink after a truly active and inspiring day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:04",
+      "total_km": 16.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Mirador La Coyota",
+            "hu": "Mirador La Coyota",
+            "ro": "Mirador La Coyota",
+            "en": "Mirador La Coyota"
+          },
+          "coords": [
+            -93.069117,
+            16.818366
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Panoramablick auf die Stadt von diesem Aussichtspunkt und bringen Sie eine Jacke mit, da die Morgenbrise kühl sein kann.",
+            "hu": "Élvezze a városra nyíló pazar panorámát erről a kilátópontról, és ne felejtsen el egy kabátot hozni, mert a reggeli szellő meglepően hűvös lehet.",
+            "ro": "Bucurați-vă de vederea panoramică asupra orașului de la acest punct de belvedere, amintindu-vă să aduceți o jachetă pentru briza rece a dimineții.",
+            "en": "Take in the sweeping panoramic views of the city from this elevated vantage point, remembering to bring a jacket as the morning breeze can be surprisingly cool."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador Ceiba",
+            "hu": "Mirador Ceiba",
+            "ro": "Mirador Ceiba",
+            "en": "Mirador Ceiba"
+          },
+          "coords": [
+            -93.07749,
+            16.792897
+          ],
+          "category": "natural",
+          "arrive_at": "09:41",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Genießen Sie an diesem ruhigen Aussichtspunkt einen weiteren atemberaubenden Blick auf das Tal und stellen Sie sicher, dass Ihr Kamera-Akku geladen ist.",
+            "hu": "Élvezze a Tuxtla-völgy újabb lenyűgöző látványát erről a csendes kilátóról, és gondoskodjon róla, hogy a fényképezőgép akkumulátora fel legyen töltve.",
+            "ro": "Bucurați-vă de un alt unghi uimitor al văii Tuxtla la acest punct de observare liniștit, asigurându-vă că bateria camerei este complet încărcată.",
+            "en": "Enjoy another stunning angle of the Tuxtla valley at this quiet overlook, making sure your camera battery is fully charged for the spectacular landscape shots."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Regional de Chiapas",
+            "hu": "Museo Regional de Chiapas",
+            "ro": "Museo Regional de Chiapas",
+            "en": "Museo Regional de Chiapas"
+          },
+          "coords": [
+            -93.106783,
+            16.75994
+          ],
+          "category": "museum",
+          "arrive_at": "10:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.7,
+          "tip_5lang": {
+            "de": "Parken Sie in der Nähe des Museums und nehmen Sie sich Zeit, um die präkolumbianischen Artefakte in den klimatisierten Räumen ausgiebig zu bewundern.",
+            "hu": "Parkoljon le a múzeum közelében, és szánjon elegendő időt arra, hogy megcsodálja a légkondicionált termekben kiállított prekolumbián leleteket.",
+            "ro": "Parcați în apropierea muzeului și acordați-vă timp pentru a admira pe larg artefactele precolumbiene în sălile expoziționale cu aer condiționat.",
+            "en": "Park conveniently near the museum and take your time to thoroughly admire the pre-Columbian artifacts displayed in the air-conditioned exhibition halls."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo De La Marimba",
+            "hu": "Museo De La Marimba",
+            "ro": "Museo De La Marimba",
+            "en": "Museo De La Marimba"
+          },
+          "coords": [
+            -93.12398,
+            16.755005
+          ],
+          "category": "museum",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Erleben Sie die musikalische Seele der Region und nutzen Sie die Gelegenheit, an interaktiven Ausstellungen die traditionellen Rhythmen selbst auszuprobieren.",
+            "hu": "Tapasztalja meg a régió zenei lelkét, és használja ki a lehetőséget, hogy az interaktív kiállításokon kipróbálja a hagyományos ritmusokat.",
+            "ro": "Experimentați sufletul muzical al regiunii și profitați de ocazie pentru a încerca singur ritmurile tradiționale la expozițiile interactive.",
+            "en": "Experience the musical soul of the region and take the opportunity to try out traditional rhythms yourself at the interactive museum exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Cristo de Copoya",
+            "hu": "Cristo de Copoya",
+            "ro": "Cristo de Copoya",
+            "en": "Cristo de Copoya"
+          },
+          "coords": [
+            -93.119379,
+            16.719459
+          ],
+          "category": "natural",
+          "arrive_at": "13:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die kolossale Christusstatue, die über der Landschaft thront, und besuchen Sie die Basis, um die künstlerischen Details zu betrachten.",
+            "hu": "Csodálja meg a táj fölé magasodó hatalmas Krisztus-szobrot, és látogasson el az alsó bázishoz, hogy megvizsgálja a művészi részleteit.",
+            "ro": "Admirați statuia colosală a lui Hristos care se înalță deasupra peisajului și vizitați baza pentru a observa detaliile artistice ale structurii.",
+            "en": "Marvel at the colossal statue of Christ that towers above the landscape, and visit the lower base to admire the intricate artistic details of the structure."
+          }
+        },
+        {
+          "name": {
+            "de": "ZooMat",
+            "hu": "ZooMat",
+            "ro": "ZooMat",
+            "en": "ZooMat"
+          },
+          "coords": [
+            -93.094421,
+            16.725469
+          ],
+          "category": "recreational",
+          "arrive_at": "14:34",
+          "stay_min": 150,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen Zoo, der dem regionalen Tierschutz gewidmet ist, und nehmen Sie Insektenschutz und Wasser für die feuchten Dschungelpfade mit.",
+            "hu": "Fedezze fel ezt a regionális vadvilág védelmének szentelt állatkertet, és vigyen magával rovarriasztót, valamint sok vizet a dzsungel ösvényeire.",
+            "ro": "Explorați această grădină zoologică dedicată conservării faunei sălbatice regionale, luând repelent de insecte și apă pentru potecile din junglă.",
+            "en": "Explore this exceptional zoo dedicated entirely to regional wildlife conservation, carrying insect repellent and plenty of water for the humid jungle pathways."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre malerische Fahrt beginnt an hochgelegenen Aussichtspunkten, die atemberaubende Panoramen über das weitläufige Tuxtla-Tal bieten. Die frische Morgenluft und die weiten Ausblicke bieten eine unvergessliche Einführung in die lokale Geografie.\n\nBeim Abstieg in den Stadtkern ist der Mittag der Entdeckung der tief verwurzelten Geschichte und der melodiösen Traditionen in den führenden Museen gewidmet. Mit dem Auto gelingt der Wechsel von natürlichen Höhen zu kulturellen Tiefen reibungslos.\n\nAm Nachmittag bringt Sie Ihr Fahrzeug nach Süden, um das hoch aufragende Denkmal des Christus von Copoya zu bewundern. Die malerische Fahrt überbrückt perfekt die geschäftige städtische Umgebung und die ruhige, hochgelegene spirituelle Stätte.\n\nDas Abenteuer gipfelt in einem ausgedehnten Besuch des weltberühmten regionalen Zoos, der in einem üppigen Naturschutzgebiet liegt. Sie werden den Tag umgeben von exotischen Tieren beenden, nachdem Sie die gesamte Stadt mühelos erkundet haben.",
+        "hu": "A festői autózás a magasan fekvő kilátópontoknál kezdődik, ahonnan lélegzetelállító panoráma nyílik a kiterjedt Tuxtla-völgyre. A friss reggeli levegő és a tágas kilátás felejthetetlen bevezetést nyújt a helyi földrajzba.\n\nA városmagba ereszkedve a délidőt a mélyen gyökerező történelem és a dallamos hagyományok felfedezésének szenteljük a kiemelkedő múzeumokban. Az autó lehetővé teszi a zökkenőmentes átmenetet a természetből a kultúrába.\n\nA délután beköszöntével járműve dél felé viszi Önt, hogy megcsodálja Copoya Krisztusának hatalmas emlékművét. Az utazás tökéletesen összeköti a nyüzsgő városi környezetet a békés, magasan fekvő spirituális hellyel.\n\nA kaland egy kiterjedt látogatással éri el csúcspontját a világhírű regionális állatkertben, amely egy buja természetvédelmi területen fekszik. A napot egzotikus vadon élő állatokkal körülvéve zárja, miután könnyedén bejárta a várost.",
+        "ro": "Călătoria dumneavoastră pitorească începe la punctele de belvedere aflate la mare altitudine, care oferă panorame uluitoare asupra vastei văi Tuxtla. Aerul proaspăt al dimineții oferă o introducere de neuitat în geografia locală.\n\nCoborând în centrul orașului, miezul zilei este dedicat descoperirii istoriei profund înrădăcinate și a tradițiilor melodioase în cadrul principalelor muzee. Având o mașină, tranziția de la înălțimile naturale la profunzimile culturale se face lin.\n\nOdată cu lăsarea după-amiezii, vehiculul vă duce spre sud pentru a vă minuna de impunătorul monument al lui Hristos din Copoya. Drumul pitoresc face legătura perfectă între mediul urban aglomerat și situl spiritual liniștit.\n\nAventura atinge apogeul cu o vizită prelungită la renumita grădină zoologică regională, situată într-o rezervație nativă luxuriantă. Veți încheia ziua înconjurați de animale exotice, după ce ați navigat cu ușurință prin tot orașul.",
+        "en": "Your scenic drive kicks off at high-altitude viewpoints offering breathtaking panoramas over the sprawling Tuxtla valley. The crisp morning air and sweeping vistas provide an unforgettable introduction to the local geography.\n\nDescending into the city's core, midday is dedicated to uncovering the deep-rooted history and melodious traditions within the premier museums. Having a car allows for a smooth transition from natural heights to cultural depths.\n\nAs the afternoon sets in, your vehicle takes you southward to marvel at the towering Christ of Copoya monument. The scenic drive perfectly bridges the bustling urban environment and the serene, elevated spiritual site.\n\nThe adventure peaks with an extended visit to the world-renowned regional zoo, set within a lush native reserve. You will end the day surrounded by exotic wildlife, having effortlessly navigated the entire span of the city."
+      }
+    }
+  }
+}

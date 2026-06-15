@@ -1,0 +1,451 @@
+{
+  "city_id": "albania-golem-cities-v2",
+  "anchor": {
+    "name": "Golem",
+    "coords": [
+      19.521,
+      41.25
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:07",
+      "total_km": 4.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Plazhi i Golemit",
+            "hu": "Plazhi i Golemit",
+            "ro": "Plazhi i Golemit",
+            "en": "Plazhi i Golemit"
+          },
+          "coords": [
+            19.514761,
+            41.258011
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag am zentralen Strand von Golem, dessen feiner goldener Sand zum Schwimmen einlädt, also bringen Sie Ihr Handtuch mit und sichern sich früh eine Liege.",
+            "hu": "Kezdje a napot Golem központi strandjánál, ahol az aranyhomokos part kiváló kora reggeli úszásra, ezért hozzon törölközőt és foglaljon le egy nyugágyat még a tömeg előtt.",
+            "ro": "Începeți ziua la plaja centrală din Golem, o întindere de nisip auriu ideală pentru înotul de dimineață, așa că aduceți prosopul și ocupați un șezlong înainte de aglomerație.",
+            "en": "Start your day at Golem's central beach, an expansive stretch of golden sand perfect for an early swim, so bring your towel and grab a front-row lounger before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Pishina",
+            "hu": "Pishina",
+            "ro": "Pishina",
+            "en": "Pishina"
+          },
+          "coords": [
+            19.520391,
+            41.26214
+          ],
+          "category": "recreational",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Wechseln Sie ins klare Wasser dieses beliebten lokalen Pools, an dem sich Familien erfrischen, und denken Sie an Bargeld für den kleinen Eintrittspreis am Haupteingang.",
+            "hu": "Váltson e népszerű helyi medence és pihenőövezet kristálytiszta vizére, ahol a családok hűsölnek, de ne felejtsen el készpénzt hozni az itteni szerény belépődíj kifizetésére.",
+            "ro": "Treceți la apele limpezi ale acestei piscine locale populare unde familiile se adună pentru o baie răcoritoare, și nu uitați să aveți numerar pentru taxa mică de intrare.",
+            "en": "Switch to the clear waters of this popular local pool and recreation area where families gather for a refreshing dip, and remember to carry cash for the small entrance fee."
+          }
+        },
+        {
+          "name": {
+            "de": "Golems Beach",
+            "hu": "Golems Beach",
+            "ro": "Golems Beach",
+            "en": "Golems Beach"
+          },
+          "coords": [
+            19.518471,
+            41.266998
+          ],
+          "category": "recreational",
+          "arrive_at": "11:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.56,
+          "tip_5lang": {
+            "de": "Setzen Sie Ihren Weg zum Golems Beach fort, der eine etwas ruhigere Atmosphäre mit fantastischem Meerblick bietet und somit der ideale Ort für Ihr mitgebrachtes Mittagessen ist.",
+            "hu": "Folytassa útját észak felé a Golems Beach-hez, amely csendesebb légkört és fantasztikus tengeri kilátást kínál, ami tökéletes helyszínt biztosít az otthonról hozott ebédhez.",
+            "ro": "Continuați spre nord la Golems Beach, care oferă o atmosferă puțin mai liniștită și vederi fantastice la mare, fiind locul perfect pentru a savura pachetul cu prânz adus cu voi.",
+            "en": "Continue along the northern coastline to Golems Beach, which offers a slightly quieter atmosphere with fantastic sea views, making it the perfect spot to enjoy a packed lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Lapidar",
+            "hu": "Lapidar",
+            "ro": "Lapidar",
+            "en": "Lapidar"
+          },
+          "coords": [
+            19.530871,
+            41.245644
+          ],
+          "category": "historical",
+          "arrive_at": "13:52",
+          "stay_min": 15,
+          "hop_from_prev_min": 39,
+          "hop_from_prev_km": 2.58,
+          "tip_5lang": {
+            "de": "Spazieren Sie ins Landesinnere zum Lapidar-Denkmal, einer markanten historischen Säule aus Albaniens Vergangenheit, wo ein Rundgang die beste Beleuchtung für Fotos bietet.",
+            "hu": "Sétáljon a szárazföld belseje felé a Lapidar emlékműhöz, Albánia történelmi múltjának e zord oszlopához, ahol a legjobb fényképek a talapzat körbesétálása közben készíthetők.",
+            "ro": "Plimbați-vă spre interior pentru a descoperi Lapidar, un pilon istoric auster reflectând trecutul complex, unde plimbarea în jurul bazei oferă cea mai bună lumină pentru poze.",
+            "en": "Stroll inland to discover the Lapidar monument, a stark historical pillar reflecting Albania's complex past, where walking around its base provides the best lighting for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Public Beach",
+            "hu": "Public Beach",
+            "ro": "Public Beach",
+            "en": "Public Beach"
+          },
+          "coords": [
+            19.51856,
+            41.244742
+          ],
+          "category": "recreational",
+          "arrive_at": "14:22",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.03,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang am lebhaften öffentlichen Strand, wo abendliche Energie auf beruhigende Adria-Wellen trifft, also ziehen Sie die Schuhe aus und genießen den Sonnenuntergang.",
+            "hu": "Fejezze be a sétát a nyüzsgő Public Beach-en, ahol az esti energia és az Adriai-tenger hullámai találkoznak, tehát vegye le a cipőjét és élvezze a mezítlábas naplementés sétát.",
+            "ro": "Încheiați-vă plimbarea la plaja publică animată, unde energia serii întâlnește valurile liniștitoare ale Adriaticii, deci descălțați-vă și bucurați-vă de un apus relaxant.",
+            "en": "Conclude your walk at the bustling Public Beach, where vibrant evening energy meets the calming Adriatic waves, so take off your shoes and enjoy a relaxing sunset barefoot stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt mit dem sanften Rauschen der Adria am Plazhi i Golemit, wo goldener Sand zu einem frühen Schwimmen einlädt. Wenn die Sonne höher steigt, führt Sie ein kurzer Spaziergang zu den lebhaften Gewässern von Pishina und Golems Beach, um die lokale Küstenkultur zu erleben.\n\nMittags lassen Sie die Küste hinter sich für einen historischen Abstecher zum Lapidar-Denkmal. Der Spaziergang ins Landesinnere bietet einen ruhigen Kontrast zu den belebten Stränden und gibt Ihnen Zeit, im Schatten der Säule über Albaniens vielschichtige Geschichte nachzudenken.\n\nWenn die Nachmittagshitze einsetzt, schlendern Sie zurück zur sanften Meeresbrise am Public Beach. Hier können Sie die Zehen in den warmen Sand graben, einen Snack von einem Verkäufer holen und sich einfach entspannen, während Sie die Boote am Horizont beobachten.\n\nDer Abend bringt eine magische Verwandlung der Küste. Die untergehende Sonne taucht den Himmel in leuchtende Orange- und Rosatöne und macht Ihre letzten Momente am Strand zu einem perfekten, romantischen Abschluss eines entspannten Tages in Golem zu Fuß.",
+        "hu": "A reggel az Adriai-tenger lágy hullámainak hangjával indul a Plazhi i Golemit strandján, ahol az aranyhomok frissítő úszásra csábít. Később egy rövid sétával eljut a Pishina és a Golems Beach nyüzsgő vizeihez, hogy belekóstoljon a helyi tengerparti kultúrába.\n\nDélben hagyja maga mögött a partot egy rövid történelmi kitérő erejéig a Lapidar emlékműhöz. A befelé vezető séta csendes kontrasztot kínál a strandokhoz képest, és lehetőséget ad arra, hogy a magasló betonoszlop békés árnyékában elgondolkodjon Albánia rétegzett történelmén.\n\nAhogy beköszönt a délutáni hőség, sétáljon vissza a Public Beach lágy tengeri szellője felé. Itt beáshatja lábujjait a meleg homokba, ehet egy gyors falatot egy közeli árusnál, és egyszerűen csak pihenhet, miközben figyeli a horizonton ringatózó hajókat.\n\nAz este varázslatos átalakulást hoz a partvonalon. A lemenő nap ragyogó narancs és rózsaszín árnyalatokra festi az eget, így az utolsó pillanatok a strandon tökéletes és romantikus lezárást adnak egy olyan napnak, amikor Golemet teljesen gyalogosan fedezte fel.",
+        "ro": "Dimineața începe cu sunetele blânde ale Adriaticii la Plazhi i Golemit, unde nisipul auriu vă invită la o baie matinală. Odată ce soarele urcă, o scurtă plimbare vă duce la apele animate de la Pishina și Golems Beach, captând vibranta cultură locală de coastă.\n\nLa prânz, lăsați coasta în urmă pentru un scurt ocol istoric la monumentul Lapidar. Plimbarea spre interior oferă un contrast liniștit față de plajele aglomerate și vă oferă un moment de reflecție asupra istoriei stratificate a Albaniei la umbra pilonului de beton.\n\nPe măsură ce căldura după-amiezii se instalează, plimbați-vă înapoi spre briza mării la Public Beach. Aici, vă puteți scufunda degetele în nisipul cald, puteți lua o gustare rapidă și vă puteți relaxa privind bărcile legănându-se ușor la orizont.\n\nSeara aduce o transformare magică a coastei. Soarele care apune pictează cerul în nuanțe strălucitoare de portocaliu și roz, transformând ultimele momente la plajă într-un final perfect și romantic al unei zile relaxante explorând Golem exclusiv pe jos.",
+        "en": "Your morning starts with the gentle sounds of the Adriatic at Plazhi i Golemit, where golden sands invite a refreshing early swim. As the sun rises higher, a short stroll brings you to the lively waters of Pishina and Golems Beach, capturing the vibrant local seaside culture.\n\nBy midday, leave the coastline behind for a brief historical detour to the Lapidar monument. Walking inland offers a quiet contrast to the bustling beaches and gives you a moment to reflect on Albania's layered history in the peaceful shade of the towering concrete pillar.\n\nAs the afternoon heat sets in, meander back toward the gentle sea breezes of the Public Beach. Here, you can sink your toes into the warm sand, grab a quick bite from a nearby vendor, and simply relax as you watch boats bobbing gently on the horizon.\n\nEvening brings a magical transformation to the shoreline. The setting sun paints the sky in brilliant hues of orange and pink, making your final moments at the beach a perfect, romantic close to an easy-going day exploring Golem entirely on foot."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:39",
+      "total_km": 5.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pishina",
+            "hu": "Pishina",
+            "ro": "Pishina",
+            "en": "Pishina"
+          },
+          "coords": [
+            19.520391,
+            41.26214
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Stellen Sie Ihr Fahrrad an diesem beliebten Pool ab, um das saubere Wasser zu genießen, und bringen Sie Badeschuhe mit, da die umliegenden Fliesen sehr heiß werden können.",
+            "hu": "Parkolja le a kerékpárját e népszerű medencénél, és élvezze a tiszta vizet; mindenképpen hozzon papucsot, mert a medence körüli csempék a napsütésben nagyon felforrósodhatnak.",
+            "ro": "Parcați bicicleta la această piscină populară pentru a vă bucura de apa curată, asigurându-vă că aduceți șlapi deoarece plăcile din jur se pot încinge destul de tare la soare.",
+            "en": "Park your bike by this popular recreation pool to enjoy its pristine waters and family-friendly vibe, ensuring you bring flip-flops as the surrounding tiles can get quite hot."
+          }
+        },
+        {
+          "name": {
+            "de": "Plazhi i Golemit",
+            "hu": "Plazhi i Golemit",
+            "ro": "Plazhi i Golemit",
+            "en": "Plazhi i Golemit"
+          },
+          "coords": [
+            19.514761,
+            41.258011
+          ],
+          "category": "recreational",
+          "arrive_at": "10:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Fahren Sie zum weitläufigen zentralen Strand, um die weichen Sandkörner und die lebhafte Atmosphäre zu spüren, und schließen Sie Ihr Fahrrad sicher an den Promenade-Ständern ab.",
+            "hu": "Tekerjen le a hatalmas központi strandhoz, hogy lábujjait a puha homokba fúrja, de ne felejtse el biztonságosan lezárni a kerékpárját a közeli sétányon található tárolóknál.",
+            "ro": "Mergeți pe bicicletă la plaja centrală extinsă pentru a simți nisipul fin și atmosfera de coastă, păstrând bicicleta încuiată în siguranță la rafturile de pe promenada din apropiere.",
+            "en": "Ride down to the sprawling central beach to sink your toes into the soft sand and absorb the lively coastal atmosphere, keeping your bike securely locked at the nearby promenade racks."
+          }
+        },
+        {
+          "name": {
+            "de": "Lapidar",
+            "hu": "Lapidar",
+            "ro": "Lapidar",
+            "en": "Lapidar"
+          },
+          "coords": [
+            19.530871,
+            41.245644
+          ],
+          "category": "historical",
+          "arrive_at": "11:55",
+          "stay_min": 15,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.93,
+          "tip_5lang": {
+            "de": "Machen Sie einen kurzen Abstecher ins Landesinnere, um diese faszinierende Denkmalsäule aus der kommunistischen Ära zu sehen und die schattigen Plätze für eine Pause zu nutzen.",
+            "hu": "Tegyen egy rövid kitérőt a szárazföld felé, hogy megtekintse ezt a kommunista korszakból származó emlékművet, és használja ki a közeli árnyékos területeket egy gyors ivószünetre.",
+            "ro": "Faceți un scurt ocol în interior pentru a observa acest pilon monumental fascinant din era comunistă, profitând de zonele umbrite din apropiere pentru o pauză rapidă de hidratare.",
+            "en": "Take a short detour inland to observe this fascinating monumental pillar from the communist era, taking advantage of the quiet shaded areas nearby for a quick water break."
+          }
+        },
+        {
+          "name": {
+            "de": "Fafa Beach",
+            "hu": "Fafa Beach",
+            "ro": "Fafa Beach",
+            "en": "Fafa Beach"
+          },
+          "coords": [
+            19.515193,
+            41.236302
+          ],
+          "category": "recreational",
+          "arrive_at": "12:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.66,
+          "tip_5lang": {
+            "de": "Radeln Sie zurück ans Ufer zum Fafa Beach, der für seine gepflegten Liegen bekannt ist, wo das Mieten eines Sonnenschirms den perfekten Schatten für einen Mittagsschlaf bietet.",
+            "hu": "Kerékpározzon vissza a partra, és pihenjen meg a jól karbantartott Fafa Beach nyugágyain, ahol egy napernyő bérlése tökéletes árnyékot biztosít egy délutáni szunyókáláshoz.",
+            "ro": "Întoarceți-vă pe coastă pentru a vă relaxa la Fafa Beach, faimoasă pentru șezlongurile sale bine întreținute, unde închirierea unei umbrele oferă umbra perfectă la prânz.",
+            "en": "Cycle back to the shore to relax at Fafa Beach, known for its well-maintained loungers and upscale amenities, where renting an umbrella provides perfect shade for a midday nap."
+          }
+        },
+        {
+          "name": {
+            "de": "AQUAPARK",
+            "hu": "AQUAPARK",
+            "ro": "AQUAPARK",
+            "en": "AQUAPARK"
+          },
+          "coords": [
+            19.517739,
+            41.231887
+          ],
+          "category": "family",
+          "arrive_at": "13:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.52,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Rad ab und tauchen Sie in die aufregenden Rutschen des Wasserparks ein; probieren Sie zuerst den Strömungskanal, um Ihre Beinmuskeln vom Radfahren zu entspannen.",
+            "hu": "Zárja le a kerékpárt, és csobbanjon a helyi vízipark izgalmas medencéibe; mindenképp próbálja ki a lassan folyó medencét először, hogy a lábizmai pihenhessenek a tekerés után.",
+            "ro": "Lăsați bicicleta și plonjați în toboganele palpitante ale parcului acvatic local, asigurându-vă că încercați prima dată râul leneș pentru a vă relaxa mușchii picioarelor.",
+            "en": "Lock up your bike and dive into the thrilling slides and pools of the local water park, making sure to try the lazy river first to let your leg muscles recover from cycling."
+          }
+        },
+        {
+          "name": {
+            "de": "Prestige Beach",
+            "hu": "Prestige Beach",
+            "ro": "Prestige Beach",
+            "en": "Prestige Beach"
+          },
+          "coords": [
+            19.513773,
+            41.232615
+          ],
+          "category": "recreational",
+          "arrive_at": "14:54",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihr Radabenteuer an diesem mondänen Küstenort, um den Sonnenuntergang zu beobachten und bestellen Sie einen erfrischenden Mocktail an der Bar zur Feier des Tages.",
+            "hu": "Fejezze be a kerékpáros kalandot ezen az elegáns tengerparti szakaszon, és miközben nézi a naplementét, rendeljen egy frissítő koktélt a tengerparti bárban a nap méltó lezárásaként.",
+            "ro": "Încheiați aventura pe bicicletă la acest loc de coastă sofisticat pentru a privi apusul, comandând un mocktail revigorant de la barul de pe plajă pentru a sărbători ziua.",
+            "en": "End your cycling adventure at this sophisticated coastal spot to watch the sun dip below the horizon, ordering a refreshing mocktail from the beach bar to celebrate a great day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour mit der lebhaften Energie von Pishina und Plazhi i Golemit, wo Morgenschwimmen und frische Meeresluft die Sinne beleben. Die gepflasterten Küstenwege sorgen für eine einfache und sehr angenehme Fahrt direkt neben der glitzernden Adria.\n\nSchalten Sie mittags in Richtung Geschichte um mit einer kurzen Fahrt zum Lapidar-Denkmal. Eine Pause von der intensiven Sonne im Schatten bietet eine entspannende Auszeit, bevor Sie zu den einladenden Sonnenliegen am Fafa Beach zurückkehren.\n\nDer Nachmittag verspricht Nervenkitzel, wenn Sie Ihr Rad am AQUAPARK abstellen. Lassen Sie Ihre Beine beim Treiben auf dem Fluss oder auf den Wasserrutschen erholen und lockern Sie den Tag mit unbeschwerter, familienfreundlicher Unterhaltung auf.\n\nIn der Dämmerung fahren Sie gemütlich zum Prestige Beach. Die kühleren Temperaturen und der spektakuläre Sonnenuntergang bieten eine phänomenale Kulisse, die Ihre körperlichen Anstrengungen mit einem atemberaubenden Finale und Entspannung belohnt.",
+        "hu": "Kezdje kerékpáros útvonalát a Pishina és a Plazhi i Golemit élénk energiájával, ahol a reggeli úszás és a friss tengeri levegő felpezsdíti az érzékeket. A burkolt tengerparti utak könnyű és élvezetes tekerést biztosítanak a csillogó Adriai-tenger vize mellett.\n\nDélben váltson történelmi fokozatra, és tekerjen el a Lapidar emlékműhöz. Az intenzív napsütés elől a közeli árnyékba menekülve pihentető szünetet tarthat, mielőtt visszakerekezne a Fafa Beach hívogató napozóágyaihoz.\n\nA délután közepén izgalmak várják, amikor leparkolja kerékpárját az AQUAPARK-nál. Hagyja, hogy a lábai pihenjenek a lassú folyón lebegve vagy a vízi csúszdákon, tökéletesen megszakítva a napot egy kis vidám, családbarát szórakozással.\n\nAhogy közeledik az alkonyat, guruljon le a Prestige Beach felé. A hűsülő levegő és a látványos naplemente lenyűgöző hátteret biztosít, és a fizikai erőfeszítéseket egy lenyűgöző vizuális fináléval és egy jól megérdemelt esti tengerparti pihenéssel jutalmazza.",
+        "ro": "Începeți traseul pe bicicletă cu energia de la Pishina și Plazhi i Golemit, unde înotul matinal și aerul proaspăt vă revigorează simțurile. Căile de coastă pavate fac o plimbare ușoară și plăcută chiar lângă apele strălucitoare ale Adriaticii.\n\nSchimbați ritmul spre istorie la prânz cu o scurtă pedalare către monumentul Lapidar. O pauză de la soarele intens în umbra din apropiere oferă un moment de relaxare înainte de a vă întoarce pe bicicletă spre șezlongurile primitoare de la Fafa Beach.\n\nMijlocul după-amiezii promite senzații tari când parcați bicicleta la AQUAPARK. Lăsați-vă picioarele să se recupereze plutind pe râul leneș sau înfruntând toboganele cu apă, rupând perfect ziua cu un divertisment vesel pentru întreaga familie.\n\nPe măsură ce amurgul se apropie, coborâți lin spre Prestige Beach. Temperaturile în scădere și apusul spectaculos oferă un fundal fenomenal, recompensând eforturile fizice cu un final vizual uimitor și o seară binemeritată de relaxare pe plajă.",
+        "en": "Start your cycling route with the lively energy of Pishina and Plazhi i Golemit, where morning swims and fresh sea air invigorate your senses. The paved coastal paths make for an easy and highly enjoyable ride right beside the glittering Adriatic waters.\n\nShift gears toward history around midday with a quick pedal to the Lapidar monument. Taking a break from the intense sun in the nearby shade offers a relaxing pause before you cycle back toward the inviting sunbeds of Fafa Beach.\n\nMid-afternoon promises thrills as you park your bike at the AQUAPARK. Let your legs recover from cycling by floating down the lazy river or braving the water slides, perfectly breaking up the day with some lighthearted family-friendly entertainment.\n\nAs dusk approaches, cruise smoothly down to Prestige Beach. The cooling temperatures and spectacular sunset provide a phenomenal backdrop, rewarding your physical efforts with a stunning visual finale and a well-deserved evening of beachside relaxation."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 18.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Golems Beach",
+            "hu": "Golems Beach",
+            "ro": "Golems Beach",
+            "en": "Golems Beach"
+          },
+          "coords": [
+            19.518471,
+            41.266998
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Parken Sie früh, um einen erstklassigen Platz an diesem weiten Nordstrand zu sichern, der morgens makelloses Wasser bietet, also bringen Sie ein leichtes Strandzelt für Schatten mit.",
+            "hu": "Parkoljon le korán, hogy jó helyet kapjon ezen az északi strandon, amely érintetlen reggeli vizet kínál, ezért érdemes egy könnyű strandsátrat hozni az azonnali árnyék érdekében.",
+            "ro": "Parcați devreme pentru a prinde un loc excelent la această plajă nordică întinsă, care oferă ape cristaline dimineața, așa că aduceți un cort ușor de plajă pentru umbră imediată.",
+            "en": "Park up early to secure a prime spot at this sweeping northern beach, which offers pristine morning waters and soft sand, so carry a lightweight beach tent for immediate shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Lapidar",
+            "hu": "Lapidar",
+            "ro": "Lapidar",
+            "en": "Lapidar"
+          },
+          "coords": [
+            19.530871,
+            41.245644
+          ],
+          "category": "historical",
+          "arrive_at": "10:31",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.58,
+          "tip_5lang": {
+            "de": "Fahren Sie zu diesem stoischen Stück Architektur der kommunistischen Ära, das als historisches Zeichen dient, und halten Sie kurz an, um ein Weitwinkelfoto vor dem blauen Himmel zu machen.",
+            "hu": "Vezessen le ehhez a sztoikus kommunista kori emlékműhöz, amely markáns történelmi jelzőként szolgál, és álljon meg egy pillanatra, hogy széles látószögű fotót készítsen róla.",
+            "ro": "Conduceți pentru a examina această arhitectură stoică din era comunistă care servește ca un reper istoric auster, oprind scurt pentru a face o fotografie cu unghi larg.",
+            "en": "Drive down to examine this stoic piece of communist-era architecture that stands as a stark historical marker, pulling over briefly to snap a wide-angle photo against the blue sky."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalaja e Zigxhafajt",
+            "hu": "Kalaja e Zigxhafajt",
+            "ro": "Kalaja e Zigxhafajt",
+            "en": "Kalaja e Zigxhafajt"
+          },
+          "coords": [
+            19.564992,
+            41.199567
+          ],
+          "category": "historical",
+          "arrive_at": "10:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 5.84,
+          "tip_5lang": {
+            "de": "Fahren Sie ins Landesinnere, um die Ruinen dieser alten Festung zu erkunden, die weite Panoramablicke bietet, wobei festes Schuhwerk für das felsige Gelände unerlässlich ist.",
+            "hu": "Utazzon a szárazföld belsejébe, és fedezze fel ennek az ősi erődnek a lenyűgöző romjait; a sziklás terep miatt mindenképpen ajánlott strapabíró és kényelmes túracipőt viselni.",
+            "ro": "Călătoriți spre interior pentru a explora ruinele evocatoare ale acestei cetăți antice cu vederi panoramice, fiind esențial să purtați încălțăminte robustă pentru terenul stâncos.",
+            "en": "Journey inland to explore the evocative ruins of this ancient fortress that offers sweeping panoramic views, making it essential to wear sturdy shoes for navigating the rocky terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Del Este",
+            "hu": "Playa Del Este",
+            "ro": "Playa Del Este",
+            "en": "Playa Del Este"
+          },
+          "coords": [
+            19.495886,
+            41.208414
+          ],
+          "category": "recreational",
+          "arrive_at": "12:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 5.88,
+          "tip_5lang": {
+            "de": "Fahren Sie nach Süden zu diesem lebhaften Beachclub-Viertel, wo Musik und Meereswellen verschmelzen, und buchen Sie eine Cabana im Voraus, wenn Sie im Hochsommer hier sind.",
+            "hu": "Cirkáljon délre ehhez a nyüzsgő tengerparti klubhoz, ahol a zene és az óceán tökéletesen egybeolvad; a nyári főszezonban feltétlenül érdemes előre lefoglalni egy privát sátrat.",
+            "ro": "Mergeți spre sud către acest club de plajă vibrant unde muzica și valurile oceanului se îmbină perfect, și asigurați-vă că rezervați o cabină în avans în timpul verii.",
+            "en": "Cruise south to this vibrant and trendy beach club area where the music and ocean waves blend perfectly, and be sure to book a cabana in advance if you visit during peak summer."
+          }
+        },
+        {
+          "name": {
+            "de": "AQUAPARK",
+            "hu": "AQUAPARK",
+            "ro": "AQUAPARK",
+            "en": "AQUAPARK"
+          },
+          "coords": [
+            19.517739,
+            41.231887
+          ],
+          "category": "family",
+          "arrive_at": "13:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.17,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich von der Mittagshitze ab, indem Sie die Rutschen im lokalen Wasserpark ausprobieren, und mieten Sie unbedingt ein Schließfach für Ihre Autoschlüssel und Brieftasche.",
+            "hu": "Hűsöljön a déli hőség után a helyi vízipark csúszdáin, amely minden korosztály számára remek szórakozást nyújt, de mindenképp béreljen egy szekrényt a kocsikulcsnak és a tárcának.",
+            "ro": "Răcoriți-vă de căldura amiezii încercând toboganele parcului acvatic local, care are facilități excelente pentru toate vârstele, dar închiriați un dulap pentru cheile mașinii.",
+            "en": "Cool off from the midday heat by hitting the slides at the local water park, which boasts great facilities for all ages, though you should rent a locker for your car keys and wallet."
+          }
+        },
+        {
+          "name": {
+            "de": "Klajdi Resort",
+            "hu": "Klajdi Resort",
+            "ro": "Klajdi Resort",
+            "en": "Klajdi Resort"
+          },
+          "coords": [
+            19.515468,
+            41.237228
+          ],
+          "category": "recreational",
+          "arrive_at": "15:10",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Parken Sie an diesem luxuriösen Resort, um den Tag mit einem spektakulären Adria-Sonnenuntergang zu beenden, und spazieren Sie die wunderschönen Strandwege entlang vor dem Abendessen.",
+            "hu": "Parkoljon le ebben a luxus üdülőövezetben, hogy a napot egy lenyűgöző adriai naplementével zárja, és sétáljon a gyönyörűen parkosított tengerparti ösvényeken a tengerparti vacsora előtt.",
+            "ro": "Parcați la acest complex luxos pentru a încheia ziua cu un apus spectaculos la Marea Adriatică, plimbându-vă pe aleile frumos amenajate înainte de a lua o cină la malul mării.",
+            "en": "Park at this luxurious resort area to end your day with a spectacular Adriatic sunset, strolling the beautifully landscaped beachfront pathways before settling in for a seaside dinner."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit einem Auto können Sie Ihren Morgen maximieren, indem Sie direkt zum weiten Golems Beach im Norden fahren, gefolgt von einem Fotostopp am hoch aufragenden Lapidar-Denkmal, wodurch Entspannung leicht mit albanischer Geschichte kombiniert wird.\n\nDie Fahrt am Mittag führt Sie tiefer ins Landesinnere zur bemerkenswerten Kalaja e Zigxhafajt. Die Erkundung der historischen Ruinen erfordert etwas Mühe, aber der Panoramablick von oben ist außergewöhnlich und bietet einen Kontrast zu den weichen Sandstränden.\n\nFahren Sie nach Süden für einen aufregenden Nachmittag an der Playa Del Este und im lokalen AQUAPARK. Der mühelose Wechsel zwischen angesagtem Beachclub und rasanten Wasserrutschen sorgt dafür, dass Ihr Nachmittag actionreich und erfrischend bleibt.\n\nBeenden Sie Ihre große Tour durch Golem, indem Sie am eleganten Klajdi Resort parken. Genießen Sie am Abend die erstklassigen Annehmlichkeiten am Meer und dinieren Sie stilvoll, während Sie einen Sonnenuntergang über der Adria beobachten.",
+        "hu": "Az autó lehetővé teszi, hogy maximalizálja a reggelt: vezessen egyenesen az északi Golems Beach kiterjedt partjára, majd tartson egy gyors fotószünetet a magasodó Lapidar emlékműnél, könnyedén ötvözve a pihenést egy csipetnyi zord albán történelemmel.\n\nA déli kocsikázás mélyebbre viszi a szárazföld belsejébe a figyelemre méltó Kalaja e Zigxhafajt-hoz. A történelmi romok felfedezése némi erőfeszítést igényel, de a fentről nyíló panoráma kivételes, ami zord kontrasztot nyújt a puha homokos strandoknak.\n\nVezessen dél felé egy izgalmas délutánért a Playa Del Este és a helyi AQUAPARK területére. A divatos strandklub és az izgalmas vízi csúszdák közötti ugrándozás kényelme biztosítja, hogy a délután akciódús és frissítő maradjon a ragyogó albán nap alatt.\n\nZárja le Golem nagy körútját, és parkoljon le az elegáns Klajdi Resortnál. Ahogy leszáll az este, élvezze a prémium tengerparti szolgáltatásokat, és vacsorázzon stílusosan, miközben nézi a ragyogó naplementét az Adrián: tökéletes befejezése egy kényelmes utazásnak.",
+        "ro": "Având o mașină vă permite să maximizați dimineața conducând direct spre vasta Golems Beach în nord, urmată de o scurtă oprire foto la monumentul înalt Lapidar, combinând ușor relaxarea cu o notă de istorie albaneză.\n\nCondusul de la prânz vă duce mai adânc în interior la remarcabila Kalaja e Zigxhafajt. Explorarea acestor ruine necesită efort, dar vederile panoramice de sus sunt excepționale, oferind un contrast accidentat cu plajele cu nisip fin de pe coastă.\n\nConduceți spre sud pentru o după-amiază interesantă la Playa Del Este și AQUAPARK. Ușurința trecerii între atmosfera la modă a clubului de plajă și toboganele palpitante vă asigură că după-amiaza rămâne plină de acțiune și răcoritoare sub soarele albanez.\n\nÎncheiați marele tur al Golemului parcând la elegantul Klajdi Resort. La căderea serii, bucurați-vă de facilitățile premium și luați cina cu stil, în timp ce priviți un apus vibrant peste Marea Adriatică, finalul perfect al unei călătorii confortabile.",
+        "en": "Having a car allows you to maximize your morning by driving straight to the expansive Golems Beach in the north, followed by a quick photo stop at the towering Lapidar monument, easily combining relaxation with a touch of stark Albanian history.\n\nThe midday drive takes you deeper inland to the remarkable Kalaja e Zigxhafajt. Exploring these historic ruins requires some effort, but the panoramic views from the top are exceptional, providing a rugged contrast to the soft sandy beaches of the coast.\n\nDrive south for an exciting afternoon at Playa Del Este and the local AQUAPARK. The ease of hopping between a trendy beach club vibe and thrilling water slides ensures that your afternoon remains action-packed and refreshing under the bright Albanian sun.\n\nConclude your grand tour of Golem by parking at the elegant Klajdi Resort. As evening falls, enjoy the premium seaside amenities and dine in style while watching a vibrant sunset over the Adriatic, the perfect ending to a comfortable and far-reaching road trip."
+      }
+    }
+  }
+}

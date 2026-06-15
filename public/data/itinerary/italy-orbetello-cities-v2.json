@@ -1,0 +1,543 @@
+{
+  "city_id": "italy-orbetello-cities-v2",
+  "anchor": {
+    "name": "Orbetello",
+    "coords": [
+      11.21074,
+      42.43809
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 2.2,
+      "stop_count": 9,
+      "stops": [
+        {
+          "name": {
+            "de": "Palazzo del Governatore",
+            "hu": "Palazzo del Governatore",
+            "ro": "Palazzo del Governatore",
+            "en": "Palazzo del Governatore"
+          },
+          "coords": [
+            11.210552,
+            42.438052
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die spanische Architektur dieses historischen Palastes am lebhaften Hauptplatz und achten Sie auf die aufwendigen Steindetails der Fassade, bevor Sie weitergehen.",
+            "hu": "Csodálja meg a spanyol korszakból származó történelmi palota építészetét a nyüzsgő főtéren, és figyelje meg a homlokzat bonyolult kőfaragásait a továbbhaladás előtt.",
+            "ro": "Admirați arhitectura din epoca spaniolă a acestui palat istoric situat în piața centrală plină de viață și căutați detaliile complicate din piatră de pe fațadă înainte de a merge mai departe.",
+            "en": "Admire the Spanish-era architecture of this historic palace located in the lively central square, and look for the intricate stone details on the facade before heading further."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Francesco da Paola",
+            "hu": "Chiesa di San Francesco da Paola",
+            "ro": "Chiesa di San Francesco da Paola",
+            "en": "Chiesa di San Francesco da Paola"
+          },
+          "coords": [
+            11.209714,
+            42.436828
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Treten Sie in diese ruhige Kirche ein, um ihr bescheidenes, aber schönes Inneres zu würdigen, aber stellen Sie sicher, dass Ihre Schultern aus Respekt vor lokalen Bräuchen bedeckt sind.",
+            "hu": "Lépjen be ebbe a békés templomba, hogy megcsodálja szerény, de gyönyörű belső terét, de ügyeljen arra, hogy a helyi szokások tiszteletben tartása végett a vállai fedve legyenek.",
+            "ro": "Pășiți în această biserică liniștită pentru a aprecia interiorul său modest, dar frumos, având însă grijă ca umerii să vă fie acoperiți din respect pentru obiceiurile locale.",
+            "en": "Step inside this serene church to appreciate its modest yet beautiful interior, but make sure your shoulders are covered out of respect for local customs."
+          }
+        },
+        {
+          "name": {
+            "de": "Antico Mulino Spagnolo",
+            "hu": "Antico Mulino Spagnolo",
+            "ro": "Antico Mulino Spagnolo",
+            "en": "Antico Mulino Spagnolo"
+          },
+          "coords": [
+            11.204898,
+            42.435831
+          ],
+          "category": "landmark",
+          "arrive_at": "11:18",
+          "stay_min": 15,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Machen Sie atemberaubende Fotos von dieser ikonischen spanischen Windmühle, die sich anmutig aus dem Lagunenwasser erhebt, besonders zur goldenen Stunde, wenn das Licht magisch ist.",
+            "hu": "Készítsen lenyűgöző fotókat az ikonikus spanyol szélmalomról, amely kecsesen emelkedik ki a lagúna vizéből, különösen az aranyórában, amikor a fények egyszerűen varázslatosak.",
+            "ro": "Faceți fotografii uimitoare cu această moară de vânt spaniolă emblematică, care se înalță grațios din apele lagunei, în special în timpul orei de aur, când lumina este magică.",
+            "en": "Capture stunning photos of this iconic Spanish windmill rising gracefully from the lagoon waters, especially during the golden hour when the light is simply magical."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Giuseppe",
+            "hu": "Chiesa di San Giuseppe",
+            "ro": "Chiesa di San Giuseppe",
+            "en": "Chiesa di San Giuseppe"
+          },
+          "coords": [
+            11.211664,
+            42.437415
+          ],
+          "category": "religious",
+          "arrive_at": "11:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.58,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese charmante kleinere Kirche, die für ihre friedliche Atmosphäre und historischen Kunstwerke bekannt ist und einen ruhigen Rückzugsort von den belebten Straßen Orbetellos bietet.",
+            "hu": "Fedezze fel ezt a bájos, kisebb templomot, amely békés légköréről és történelmi műalkotásairól ismert, így csendes menedéket nyújt Orbetello nyüzsgő utcái elől.",
+            "ro": "Explorați această biserică mai mică fermecătoare, cunoscută pentru atmosfera sa pașnică și operele de artă istorice, oferind o retragere liniștită de pe străzile pline de viață.",
+            "en": "Explore this charming smaller church known for its peaceful atmosphere and historic artworks, providing a quiet retreat from the bustling streets of Orbetello."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo archeologico di Orbetello",
+            "hu": "Museo archeologico di Orbetello",
+            "ro": "Museo archeologico di Orbetello",
+            "en": "Museo archeologico di Orbetello"
+          },
+          "coords": [
+            11.213876,
+            42.437206
+          ],
+          "category": "museum",
+          "arrive_at": "12:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende etruskische und römische Artefakte, die in der Umgebung ausgegraben wurden, und ziehen Sie ein Kombiticket in Betracht, wenn Sie andere historische Stätten besuchen.",
+            "hu": "Fedezzen fel lenyűgöző etruszk és római leleteket a környékbeli ásatásokból, és fontolja meg egy kombinált jegy vásárlását, ha más helyi történelmi helyszíneket is meglátogatna.",
+            "ro": "Descoperiți artefacte etrusce și romane fascinante excavate din zona înconjurătoare și luați în considerare achiziționarea unui bilet combinat dacă vizitați alte situri istorice locale.",
+            "en": "Discover fascinating Etruscan and Roman artifacts excavated from the surrounding area, and consider buying a combined ticket if you plan to visit other local historical sites."
+          }
+        },
+        {
+          "name": {
+            "de": "Bastione Santa Maria",
+            "hu": "Bastione Santa Maria",
+            "ro": "Bastione Santa Maria",
+            "en": "Bastione Santa Maria"
+          },
+          "coords": [
+            11.214773,
+            42.438638
+          ],
+          "category": "fortress",
+          "arrive_at": "14:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang dieser gut erhaltenen Verteidigungsbastion, um die militärische Vergangenheit der Stadt zu verstehen und einen weiten Panoramablick über das ruhige Lagunenwasser zu genießen.",
+            "hu": "Sétáljon végig ezen a jól megőrzött védőbástyán, hogy megértse a város katonai múltját, és élvezze a lenyűgöző panorámát a nyugodt lagúna vizére.",
+            "ro": "Plimbați-vă de-a lungul acestui bastion defensiv bine conservat pentru a înțelege trecutul militar al orașului și bucurați-vă de vederi panoramice ample peste apele calme ale lagunei.",
+            "en": "Walk along this well-preserved defensive bastion to understand the town's military past and enjoy sweeping panoramic views across the calm lagoon waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Sant'Antonio",
+            "hu": "Chiesa di Sant'Antonio",
+            "ro": "Chiesa di Sant'Antonio",
+            "en": "Chiesa di Sant'Antonio"
+          },
+          "coords": [
+            11.211491,
+            42.439114
+          ],
+          "category": "religious",
+          "arrive_at": "15:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen kurzen Moment Zeit, um diese reizvolle Kirche zu besuchen, die wunderschöne lokale Handwerkskunst zeigt und sie zu einem versteckten Juwel für Architekturliebhaber macht.",
+            "hu": "Szánjon egy rövid pillanatot ennek az elragadó templomnak a meglátogatására, amely gyönyörű helyi kézműves munkákat vonultat fel, így a városban sétáló építészetkedvelők rejtett gyöngyszeme.",
+            "ro": "Alocați-vă un scurt moment pentru a vizita această biserică încântătoare care prezintă meșteșugul local frumos, făcând-o o bijuterie ascunsă pentru pasionații de arhitectură.",
+            "en": "Take a brief moment to visit this delightful church which showcases beautiful local craftsmanship, making it a hidden gem for architecture enthusiasts wandering the town."
+          }
+        },
+        {
+          "name": {
+            "de": "Bastione della Rocca",
+            "hu": "Bastione della Rocca",
+            "ro": "Bastione della Rocca",
+            "en": "Bastione della Rocca"
+          },
+          "coords": [
+            11.214544,
+            42.44013
+          ],
+          "category": "castle",
+          "arrive_at": "16:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Steigen Sie hinauf zu den Überresten dieser historischen Burgbefestigung, wo Sie Jahrhunderte der Geschichte aufnehmen und den perfekten Aussichtspunkt für ein Sonnenuntergangsfoto finden können.",
+            "hu": "Másszon fel e történelmi vár erődítményének maradványaihoz, ahol évszázadok történelmét szívhatja magába, és tökéletes kilátópontot találhat egy naplemente-fotóhoz.",
+            "ro": "Urcați la rămășițele acestei fortificații istorice a castelului unde puteți absorbi secole de istorie și găsiți punctul de observație perfect pentru o fotografie la apus.",
+            "en": "Climb up to the remnants of this historic castle fortification where you can absorb centuries of history and find the perfect vantage point for a sunset photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Porta Esterna di Terra",
+            "hu": "Porta Esterna di Terra",
+            "ro": "Porta Esterna di Terra",
+            "en": "Porta Esterna di Terra"
+          },
+          "coords": [
+            11.213911,
+            42.441126
+          ],
+          "category": "fortress",
+          "arrive_at": "17:40",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise an diesem monumentalen landseitigen Tor, dem historischen Eingang nach Orbetello, und bewundern Sie seine massive Verteidigungsstruktur unter den Abendlichtern.",
+            "hu": "Fejezze be az utat ennél a monumentális szárazföldi kapunál, Orbetello történelmi bejáratánál, és szánjon egy percet hatalmas védőszerkezetének megcsodálására az esti fények alatt.",
+            "ro": "Încheiați-vă călătoria la această poartă monumentală dinspre uscat, intrarea istorică în Orbetello, și acordați-vă un moment pentru a admira structura sa defensivă masivă sub luminile de seară.",
+            "en": "End your journey at this monumental landward gate, the historic entrance to Orbetello, and take a moment to admire its massive defensive structure under the evening lights."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im historischen Herzen von Orbetello, wo Sie den Palazzo del Governatore und nahe gelegene Kirchen erkunden. Mittags geht es in Richtung der ruhigen Lagune, um die ikonische Antico Mulino Spagnolo zu bewundern. Der Nachmittag ist der reichen Vergangenheit der Stadt gewidmet, indem Sie das archäologische Museum besuchen und am beeindruckenden Bastione Santa Maria spazieren gehen. Wenn der Abend naht, entdecken Sie weitere Verteidigungsanlagen und beenden Ihre Tour am majestätischen landseitigen Tor unter einem Dämmerungshimmel.",
+        "hu": "A nap Orbetello történelmi szívében kezdődik, felfedezve a Palazzo del Governatore-t és a közeli templomokat. Délben a csendes lagúna felé veszi az irányt, hogy megcsodálja az ikonikus Antico Mulino Spagnolo-t. A délutánt a város gazdag múltjának szenteli, elmélyedve a régészeti múzeumban és sétálva a lenyűgöző Bastione Santa Maria mentén. Az este közeledtével további védműveket fedez fel, és a sétát a fenséges szárazföldi kapunál fejezi be az alkonyati égbolt alatt.",
+        "ro": "Ziua începe în inima istorică a orașului Orbetello, explorând Palazzo del Governatore și bisericile din apropiere. La prânz vă îndreptați spre laguna liniștită pentru a admira emblematica Antico Mulino Spagnolo. După-amiaza este dedicată trecutului bogat al orașului, vizitând muzeul arheologic și plimbându-vă de-a lungul impresionantului Bastione Santa Maria. Odată cu lăsarea serii, veți descoperi mai multe structuri defensive, încheind turul pietonal la maiestuoasa poartă dinspre uscat sub cerul crepuscular.",
+        "en": "Your day begins in the historic heart of Orbetello, exploring the grand Palazzo del Governatore and nearby churches. Midday takes you towards the tranquil lagoon to marvel at the iconic Antico Mulino Spagnolo and the surrounding religious heritage. The afternoon is dedicated to the town's rich past, delving into the archaeological museum and strolling along the impressive Bastione Santa Maria. As evening approaches, you will discover more defensive structures, concluding your walking tour at the majestic landward gate under a twilight sky."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:14",
+      "total_km": 4.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Palazzo del Governatore",
+            "hu": "Palazzo del Governatore",
+            "ro": "Palazzo del Governatore",
+            "en": "Palazzo del Governatore"
+          },
+          "coords": [
+            11.210552,
+            42.438052
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die spanische Architektur dieses historischen Palastes am lebhaften Hauptplatz und achten Sie auf die aufwendigen Steindetails der Fassade, bevor Sie weitergehen.",
+            "hu": "Csodálja meg a spanyol korszakból származó történelmi palota építészetét a nyüzsgő főtéren, és figyelje meg a homlokzat bonyolult kőfaragásait a továbbhaladás előtt.",
+            "ro": "Admirați arhitectura din epoca spaniolă a acestui palat istoric situat în piața centrală plină de viață și căutați detaliile complicate din piatră de pe fațadă înainte de a merge mai departe.",
+            "en": "Admire the Spanish-era architecture of this historic palace located in the lively central square, and look for the intricate stone details on the facade before heading further."
+          }
+        },
+        {
+          "name": {
+            "de": "Porta Esterna di Terra",
+            "hu": "Porta Esterna di Terra",
+            "ro": "Porta Esterna di Terra",
+            "en": "Porta Esterna di Terra"
+          },
+          "coords": [
+            11.213911,
+            42.441126
+          ],
+          "category": "fortress",
+          "arrive_at": "10:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Radeln Sie zu diesem beeindruckenden Haupttor, das einst den landseitigen Zugang bewachte, und beachten Sie die Wappen, die seine robuste Steinoberfläche schmücken.",
+            "hu": "Tekerjen fel ehhez a lenyűgöző főkapuhoz, amely egykor a szárazföldi megközelítést őrizte, és figyelje meg a robusztus kőfelületét díszítő címereket.",
+            "ro": "Pedalați până la această poartă principală impresionantă care a păzit odată abordarea pe uscat și observați plăcile și stemele care decorează suprafața sa robustă.",
+            "en": "Cycle up to this impressive main gate that once guarded the landward approach, and notice the plaques and coats of arms adorning its robust stone surface."
+          }
+        },
+        {
+          "name": {
+            "de": "Bastione d'Arcos",
+            "hu": "Bastione d'Arcos",
+            "ro": "Bastione d'Arcos",
+            "en": "Bastione d'Arcos"
+          },
+          "coords": [
+            11.212868,
+            42.44107
+          ],
+          "category": "fortress",
+          "arrive_at": "11:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Fahrrad für einen Moment, um die Ruinen dieser alten Befestigungsanlage zu erkunden, die faszinierende Einblicke in die spanische Militärtechnik der Epoche bietet.",
+            "hu": "Parkolja le kerékpárját egy pillanatra, hogy felfedezze e régi erődítmény romjait, amely lenyűgöző bepillantást enged a korszak spanyol katonai mérnöki munkájába.",
+            "ro": "Parcați bicicleta pentru un moment pentru a explora ruinele acestei vechi fortificații, care oferă informații fascinante despre ingineria militară spaniolă a epocii.",
+            "en": "Park your bike for a moment to explore the ruins of this old fortification, which offers fascinating insights into the Spanish military engineering of the era."
+          }
+        },
+        {
+          "name": {
+            "de": "Bastione della Rocca",
+            "hu": "Bastione della Rocca",
+            "ro": "Bastione della Rocca",
+            "en": "Bastione della Rocca"
+          },
+          "coords": [
+            11.214544,
+            42.44013
+          ],
+          "category": "castle",
+          "arrive_at": "11:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Steigen Sie hinauf zu den Überresten dieser historischen Burgbefestigung, wo Sie Jahrhunderte der Geschichte aufnehmen und den perfekten Aussichtspunkt für ein Sonnenuntergangsfoto finden können.",
+            "hu": "Másszon fel e történelmi vár erődítményének maradványaihoz, ahol évszázadok történelmét szívhatja magába, és tökéletes kilátópontot találhat egy naplemente-fotóhoz.",
+            "ro": "Urcați la rămășițele acestei fortificații istorice a castelului unde puteți absorbi secole de istorie și găsiți punctul de observație perfect pentru o fotografie la apus.",
+            "en": "Climb up to the remnants of this historic castle fortification where you can absorb centuries of history and find the perfect vantage point for a sunset photo."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo archeologico di Orbetello",
+            "hu": "Museo archeologico di Orbetello",
+            "ro": "Museo archeologico di Orbetello",
+            "en": "Museo archeologico di Orbetello"
+          },
+          "coords": [
+            11.213876,
+            42.437206
+          ],
+          "category": "museum",
+          "arrive_at": "13:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende etruskische und römische Artefakte, die in der Umgebung ausgegraben wurden, und ziehen Sie ein Kombiticket in Betracht, wenn Sie andere historische Stätten besuchen.",
+            "hu": "Fedezzen fel lenyűgöző etruszk és római leleteket a környékbeli ásatásokból, és fontolja meg egy kombinált jegy vásárlását, ha más helyi történelmi helyszíneket is meglátogatna.",
+            "ro": "Descoperiți artefacte etrusce și romane fascinante excavate din zona înconjurătoare și luați în considerare achiziționarea unui bilet combinat dacă vizitați alte situri istorice locale.",
+            "en": "Discover fascinating Etruscan and Roman artifacts excavated from the surrounding area, and consider buying a combined ticket if you plan to visit other local historical sites."
+          }
+        },
+        {
+          "name": {
+            "de": "Antico Mulino Spagnolo",
+            "hu": "Antico Mulino Spagnolo",
+            "ro": "Antico Mulino Spagnolo",
+            "en": "Antico Mulino Spagnolo"
+          },
+          "coords": [
+            11.204898,
+            42.435831
+          ],
+          "category": "landmark",
+          "arrive_at": "15:01",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Machen Sie atemberaubende Fotos von dieser ikonischen spanischen Windmühle, die sich anmutig aus dem Lagunenwasser erhebt, besonders zur goldenen Stunde, wenn das Licht magisch ist.",
+            "hu": "Készítsen lenyűgöző fotókat az ikonikus spanyol szélmalomról, amely kecsesen emelkedik ki a lagúna vizéből, különösen az aranyórában, amikor a fények egyszerűen varázslatosak.",
+            "ro": "Faceți fotografii uimitoare cu această moară de vânt spaniolă emblematică, care se înalță grațios din apele lagunei, în special în timpul orei de aur, când lumina este magică.",
+            "en": "Capture stunning photos of this iconic Spanish windmill rising gracefully from the lagoon waters, especially during the golden hour when the light is simply magical."
+          }
+        },
+        {
+          "name": {
+            "de": "bird watching",
+            "hu": "bird watching",
+            "ro": "bird watching",
+            "en": "bird watching"
+          },
+          "coords": [
+            11.229038,
+            42.423803
+          ],
+          "category": "natural",
+          "arrive_at": "15:29",
+          "stay_min": 105,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Bringen Sie ein Fernglas mit, um die spektakuläre Vogelwelt in diesem Naturschutzgebiet in vollen Zügen zu genießen, das einen friedlichen Abschluss Ihres Radabenteuers bietet.",
+            "hu": "Hozzon magával távcsövet, hogy teljes mértékben élvezhesse a természetvédelmi területen virágzó látványos madárvilágot, békés lezárást adva a lagúna menti kalandnak.",
+            "ro": "Aduceți binoclu pentru a vă bucura pe deplin de viața aviară spectaculoasă care prosperă în această rezervație, oferind un sfârșit liniștit și plin de satisfacții aventurii dumneavoastră.",
+            "en": "Bring binoculars to fully enjoy the spectacular avian life thriving in this nature reserve, offering a peaceful and rewarding end to your cycling adventure along the lagoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour im Stadtzentrum und erfahren Sie am großen Palazzo mehr über die Verwaltungsgeschichte, bevor Sie zu den nördlichen Befestigungsanlagen radeln. Mittags folgen Sie der Linie der alten Mauern vom Tor zur Bastion und tauchen im Museum in die lokale Antike ein. Der Nachmittag ist eine malerische Fahrt entlang der Lagune mit einem Stopp an der ikonischen spanischen Windmühle. Ihr Tag endet in der Natur mit einer entspannenden Vogelbeobachtung an der Lagune von Orbetello.",
+        "hu": "Kezdje kerékpártúráját a városközpontban a közigazgatási történelem megismerésével a nagy palotánál, mielőtt az északi erődítményekhez tekerne. Délben követheti az ősi falak vonalát a kaputól a bástyáig, végül pedig elmerülhet a helyi ókorban a régészeti múzeumban. A délután festői utazás a lagúna mentén, megállva az ikonikus spanyol szélmalomnál. A nap a természetben zárul, a lagúna gazdag madárvilágának pihentető megfigyelésével.",
+        "ro": "Începeți turul cu bicicleta în centrul orașului învățând despre istoria sa administrativă la palatul grandios înainte de a merge la fortificațiile nordice impresionante. La prânz urmăriți linia zidurilor antice de la poartă până la bastion, scufundându-vă apoi în antichitatea locală la muzeul arheologic. După-amiaza este o plimbare pitorească de-a lungul lagunei, făcând o oprire pitorească la emblematica moară de vânt spaniolă. Ziua se încheie în natură observând păsările de pe lagună.",
+        "en": "Start your cycling tour in the town center by learning about its administrative history at the grand palazzo before moving to the impressive northern fortifications. Midday allows you to trace the line of the ancient walls from gate to bastion, eventually diving deep into local antiquity at the archaeological museum. The afternoon is a scenic ride along the lagoon, making a picturesque stop at the iconic Spanish windmill. Your day concludes in nature with a relaxing session observing the rich birdlife that calls the Orbetello lagoon home."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:01",
+      "total_km": 4.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Porta Esterna di Terra",
+            "hu": "Porta Esterna di Terra",
+            "ro": "Porta Esterna di Terra",
+            "en": "Porta Esterna di Terra"
+          },
+          "coords": [
+            11.213911,
+            42.441126
+          ],
+          "category": "fortress",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise an diesem monumentalen landseitigen Tor, dem historischen Eingang nach Orbetello, und bewundern Sie seine massive Verteidigungsstruktur unter den Abendlichtern.",
+            "hu": "Fejezze be az utat ennél a monumentális szárazföldi kapunál, Orbetello történelmi bejáratánál, és szánjon egy percet hatalmas védőszerkezetének megcsodálására az esti fények alatt.",
+            "ro": "Încheiați-vă călătoria la această poartă monumentală dinspre uscat, intrarea istorică în Orbetello, și acordați-vă un moment pentru a admira structura sa defensivă masivă sub luminile de seară.",
+            "en": "End your journey at this monumental landward gate, the historic entrance to Orbetello, and take a moment to admire its massive defensive structure under the evening lights."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo del Governatore",
+            "hu": "Palazzo del Governatore",
+            "ro": "Palazzo del Governatore",
+            "en": "Palazzo del Governatore"
+          },
+          "coords": [
+            11.210552,
+            42.438052
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die spanische Architektur dieses historischen Palastes am lebhaften Hauptplatz und achten Sie auf die aufwendigen Steindetails der Fassade, bevor Sie weitergehen.",
+            "hu": "Csodálja meg a spanyol korszakból származó történelmi palota építészetét a nyüzsgő főtéren, és figyelje meg a homlokzat bonyolult kőfaragásait a továbbhaladás előtt.",
+            "ro": "Admirați arhitectura din epoca spaniolă a acestui palat istoric situat în piața centrală plină de viață și căutați detaliile complicate din piatră de pe fațadă înainte de a merge mai departe.",
+            "en": "Admire the Spanish-era architecture of this historic palace located in the lively central square, and look for the intricate stone details on the facade before heading further."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo archeologico di Orbetello",
+            "hu": "Museo archeologico di Orbetello",
+            "ro": "Museo archeologico di Orbetello",
+            "en": "Museo archeologico di Orbetello"
+          },
+          "coords": [
+            11.213876,
+            42.437206
+          ],
+          "category": "museum",
+          "arrive_at": "11:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende etruskische und römische Artefakte, die in der Umgebung ausgegraben wurden, und ziehen Sie ein Kombiticket in Betracht, wenn Sie andere historische Stätten besuchen.",
+            "hu": "Fedezzen fel lenyűgöző etruszk és római leleteket a környékbeli ásatásokból, és fontolja meg egy kombinált jegy vásárlását, ha más helyi történelmi helyszíneket is meglátogatna.",
+            "ro": "Descoperiți artefacte etrusce și romane fascinante excavate din zona înconjurătoare și luați în considerare achiziționarea unui bilet combinat dacă vizitați alte situri istorice locale.",
+            "en": "Discover fascinating Etruscan and Roman artifacts excavated from the surrounding area, and consider buying a combined ticket if you plan to visit other local historical sites."
+          }
+        },
+        {
+          "name": {
+            "de": "Antico Mulino Spagnolo",
+            "hu": "Antico Mulino Spagnolo",
+            "ro": "Antico Mulino Spagnolo",
+            "en": "Antico Mulino Spagnolo"
+          },
+          "coords": [
+            11.204898,
+            42.435831
+          ],
+          "category": "landmark",
+          "arrive_at": "12:55",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Machen Sie atemberaubende Fotos von dieser ikonischen spanischen Windmühle, die sich anmutig aus dem Lagunenwasser erhebt, besonders zur goldenen Stunde, wenn das Licht magisch ist.",
+            "hu": "Készítsen lenyűgöző fotókat az ikonikus spanyol szélmalomról, amely kecsesen emelkedik ki a lagúna vizéből, különösen az aranyórában, amikor a fények egyszerűen varázslatosak.",
+            "ro": "Faceți fotografii uimitoare cu această moară de vânt spaniolă emblematică, care se înalță grațios din apele lagunei, în special în timpul orei de aur, când lumina este magică.",
+            "en": "Capture stunning photos of this iconic Spanish windmill rising gracefully from the lagoon waters, especially during the golden hour when the light is simply magical."
+          }
+        },
+        {
+          "name": {
+            "de": "bird watching",
+            "hu": "bird watching",
+            "ro": "bird watching",
+            "en": "bird watching"
+          },
+          "coords": [
+            11.229038,
+            42.423803
+          ],
+          "category": "natural",
+          "arrive_at": "13:16",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Bringen Sie ein Fernglas mit, um die spektakuläre Vogelwelt in diesem Naturschutzgebiet in vollen Zügen zu genießen, das einen friedlichen Abschluss Ihres Radabenteuers bietet.",
+            "hu": "Hozzon magával távcsövet, hogy teljes mértékben élvezhesse a természetvédelmi területen virágzó látványos madárvilágot, békés lezárást adva a lagúna menti kalandnak.",
+            "ro": "Aduceți binoclu pentru a vă bucura pe deplin de viața aviară spectaculoasă care prosperă în această rezervație, oferind un sfârșit liniștit și plin de satisfacții aventurii dumneavoastră.",
+            "en": "Bring binoculars to fully enjoy the spectacular avian life thriving in this nature reserve, offering a peaceful and rewarding end to your cycling adventure along the lagoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Eine Fahrt um Orbetello beginnt an den monumentalen landseitigen Toren und gibt den historischen Ton für den Tag an, bevor Sie zum belebten zentralen Platz fahren. Den Mittag verbringen Sie damit, den großen Palazzo zu bewundern und im archäologischen Museum tief in die etruskische Vergangenheit einzutauchen. Nach dem Aufsaugen des Erbes der Stadt bringt Sie eine kurze Fahrt zum Rand der Lagune, um die berühmte spanische Windmühle zu fotografieren. Der Nachmittag ist der Natur gewidmet, mit einer Fahrt zu einem ruhigen Reservat für eine unvergessliche Vogelbeobachtung, während der Tag anmutig ausklingt.",
+        "hu": "Az Orbetello körüli autózás a monumentális szárazföldi kapuknál kezdődik, megadva a nap történelmi alaphangját, mielőtt a nyüzsgő központi tér felé venné az irányt. A délidőt a lenyűgöző Palazzo megcsodálásával és az etruszk múlt felfedezésével tölti a közeli régészeti múzeumban. A város örökségének magába szívása után egy rövid út a lagúna szélére viszi, hogy lefotózza a híres spanyol szélmalmot. A délután a természeté, elautózva egy csendes rezervátumba egy felejthetetlen madármegfigyelési élményre, miközben a nap lassan véget ér.",
+        "ro": "Plimbarea cu mașina în jurul Orbetello începe la porțile monumentale dinspre uscat, dând un ton istoric zilei înainte de a vă îndrepta spre piața centrală plină de viață. Prânzul este petrecut admirând grandiosul Palazzo și aprofundând trecutul etrusc la muzeul arheologic. După ce v-ați îmbibat de moștenirea orașului, o scurtă călătorie vă duce la marginea lagunei pentru a fotografia faimoasa moară de vânt spaniolă. După-amiaza este dedicată naturii, conducând spre o rezervație liniștită pentru o experiență de neuitat de observare a păsărilor, în timp ce ziua se încheie cu grație.",
+        "en": "Your drive around Orbetello begins at the monumental landward gates, setting a historical tone for the day before you head to the bustling central square. Midday is spent admiring the grand Palazzo and delving deep into the Etruscan past at the nearby archaeological museum. After soaking in the town's heritage, a short drive takes you to the lagoon's edge to photograph the famous Spanish windmill. The afternoon is dedicated to nature, driving out to a tranquil reserve for an unforgettable bird watching experience as the day gracefully winds down."
+      }
+    }
+  }
+}

@@ -1,0 +1,543 @@
+{
+  "city_id": "beynost",
+  "anchor": {
+    "name": "Beynost",
+    "coords": [
+      5.0014,
+      45.8403
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "19:12",
+      "total_km": 6.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "La Sereine Stream",
+            "hu": "La Sereine Stream",
+            "ro": "La Sereine Stream",
+            "en": "La Sereine Stream"
+          },
+          "coords": [
+            4.999692,
+            45.83494
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Morgenspaziergang entlang dieses malerischen Wasserlaufs, aber tragen Sie wasserfeste Schuhe, da die Ufer feucht sein können.",
+            "hu": "Élvezze a békés reggeli sétát e festői víziút mentén, de feltétlenül viseljen vízálló cipőt, mivel a partok gyakran nedvesek és sarasak.",
+            "ro": "Bucurați-vă de o plimbare matinală liniștită de-a lungul acestui curs de apă pitoresc, dar purtați încălțăminte impermeabilă, deoarece malurile pot fi noroioase.",
+            "en": "Enjoy a peaceful morning stroll along this picturesque waterway, but be sure to wear waterproof shoes as the banks can be damp and muddy."
+          }
+        },
+        {
+          "name": {
+            "de": "Ze Complex",
+            "hu": "Ze Complex",
+            "ro": "Ze Complex",
+            "en": "Ze Complex"
+          },
+          "coords": [
+            4.991599,
+            45.823183
+          ],
+          "category": "family",
+          "arrive_at": "10:47",
+          "stay_min": 100,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bringen Sie die ganze Familie in dieses weitläufige Unterhaltungszentrum und besuchen Sie es früh am Tag, um den nachmittäglichen Andrang zu vermeiden.",
+            "hu": "Hozza el az egész családot ebbe a hatalmas szórakoztatóközpontba, és próbáljon meg korán érkezni, hogy elkerülje a délutáni tömeget a mászófalaknál.",
+            "ro": "Aduceți întreaga familie în acest centru de divertisment vast și încercați să-l vizitați devreme pentru a evita aglomerația de după-amiază la pereții de escaladă.",
+            "en": "Bring the whole family to this expansive entertainment center, and try to visit early in the day to beat the afternoon crowds at the climbing walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de la Forestière",
+            "hu": "Lac de la Forestière",
+            "ro": "Lac de la Forestière",
+            "en": "Lac de la Forestière"
+          },
+          "coords": [
+            5.00495,
+            45.805983
+          ],
+          "category": "natural",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Genießen Sie den erfrischenden Schatten der Bäume an diesem Waldsee, einem idealen Ort für Fotobegeisterte, die natürliche Spiegelungen einfangen möchten.",
+            "hu": "Élvezze a környező fák frissítő árnyékát ennél az erdei tónál, amely ideális hely a természetes tükröződéseket megörökíteni vágyó fotózás szerelmeseinek.",
+            "ro": "Bucurați-vă de umbra răcoroasă a copacilor din jur la acest lac de pădure, un loc ideal pentru pasionații de fotografie care speră să surprindă reflexii naturale.",
+            "en": "Enjoy the refreshing shade of the surrounding trees at this woodland lake, an ideal spot for photography enthusiasts hoping to capture natural reflections."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de l'Île Paul",
+            "hu": "Lac de l'Île Paul",
+            "ro": "Lac de l'Île Paul",
+            "en": "Lac de l'Île Paul"
+          },
+          "coords": [
+            4.984404,
+            45.806699
+          ],
+          "category": "natural",
+          "arrive_at": "14:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die malerischen Ufer dieses einzigartig benannten Sees und bleiben Sie auf den markierten Wegen, um die empfindliche lokale Flora zu schützen.",
+            "hu": "Fedezze fel e különleges nevű tó festői partjait, és ügyeljen arra, hogy a hivatalosan kijelölt ösvényeken maradjon az érzékeny helyi növényvilág védelme érdekében.",
+            "ro": "Explorați țărmurile pitorești ale acestui lac cu nume unic, asigurându-vă că rămâneți pe traseele marcate oficial pentru a proteja flora și fauna locală delicată.",
+            "en": "Explore the scenic shores of this uniquely named lake, making sure to stick to the officially marked trails to protect the delicate local flora and fauna."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac du Drapeau",
+            "hu": "Lac du Drapeau",
+            "ro": "Lac du Drapeau",
+            "en": "Lac du Drapeau"
+          },
+          "coords": [
+            4.977415,
+            45.806956
+          ],
+          "category": "natural",
+          "arrive_at": "16:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Landschaft rund um diesen idyllischen See und halten Sie mit einem guten Fernglas Ausschau nach verschiedenen einheimischen Vogelarten.",
+            "hu": "Gyönyörködjön az idilli tavat körülvevő békés tájban, és tartsa nyitva a szemét a változatos helyi madárfajokra, amihez érdemes egy jó távcsövet is hozni.",
+            "ro": "Admirați peisajul senin care înconjoară acest lac idilic și fiți cu ochii în patru după diversele specii de păsări locale, aducând o pereche bună de binocluri.",
+            "en": "Take in the serene landscape surrounding this idyllic lake, and keep an eye out for diverse local bird species by bringing along a good pair of binoculars."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac des Pêcheurs",
+            "hu": "Lac des Pêcheurs",
+            "ro": "Lac des Pêcheurs",
+            "en": "Lac des Pêcheurs"
+          },
+          "coords": [
+            4.969688,
+            45.809903
+          ],
+          "category": "natural",
+          "arrive_at": "17:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Beobachten Sie die einheimischen Fischer an diesem ruhigen Naturort und denken Sie daran, im Sommer Insektenschutzmittel einzupacken, um Stiche zu vermeiden.",
+            "hu": "Figyelje meg a helyi horgászokat ezen a nyugodt természeti helyen, és ne felejtsen el rovarriasztót csomagolni a nyári hónapokban a vízparti kényelemért.",
+            "ro": "Urmăriți pescarii locali în acest loc natural liniștit și nu uitați să împachetați un repelent de insecte în lunile de vară pentru a sta confortabil lângă apă.",
+            "en": "Watch the local fishermen at this tranquil natural spot, and remember to pack insect repellent during the summer months to stay comfortable near the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihren Tag mit einem Spaziergang am plätschernden La Sereine Bach, bevor Sie sich zum lebhaften Ze Complex aufmachen, um dort am späten Vormittag etwas Indoor-Unterhaltung zu genießen.\nMidday: Wenn die Sonne höher steht, wechseln Sie von der lebhaften Energie des Familienkomplexes zu den ruhigen Naturschutzgebieten und erreichen den Lac de la Forestière für eine schattige Waldpause.\nAfternoon: Der Nachmittag ist einem malerischen See-Hopping-Abenteuer gewidmet, bei dem Sie an den wunderschön erhaltenen Ufern des Lac de l'Île Paul und der ruhigen Weite des Lac du Drapeau vorbeiwandern.\nEvening: Beenden Sie Ihre Wanderung am Lac des Pêcheurs, wo die goldene Stunde lange Schatten wirft und einheimische Fischer ruhig ihre Leinen einholen, was einen friedlichen Abschluss Ihres Tages bietet.",
+        "hu": "Morning: Kezdje a napot egy békés sétával a La Sereine patak csörgedező vize mentén, amely megadja a nyugodt alaphangot, mielőtt a nyüzsgő Ze Complex felé venné az irányt egy kis élénk beltéri szórakozásra.\nMidday: Ahogy a nap magasabbra hág, váltson a családi komplexum élénk energiájáról a csendes természetvédelmi területekre, és érje el a Lac de la Forestière-t egy árnyékos, erdei menedékért.\nAfternoon: A délutánt egy festői tó-ugráló kalandnak szenteljük, ahol a Lac de l'Île Paul gyönyörűen megőrzött partjai és a Lac du Drapeau csendes kiterjedése mellett sétálhat el a friss levegőn.\nEvening: Fejezze be gyalogos utazását a Lac des Pêcheurs-nél, ahol az aranyóra hosszú árnyékokat vet, és a helyi horgászok csendben tekerik fel zsinórjaikat, békés befejezést kínálva aktív napjának.",
+        "ro": "Morning: Începeți-vă ziua cu o plimbare pașnică de-a lungul apelor pârâului La Sereine, stabilind un ton relaxant înainte de a vă îndrepta spre complexul plin de viață Ze pentru divertisment în interior.\nMidday: Pe măsură ce soarele urcă, faceți tranziția de la energia vibrantă a complexului familial spre rezervațiile naturale liniștite, ajungând la Lac de la Forestière pentru o retragere umbrită în pădure.\nAfternoon: După-amiaza este dedicată unei aventuri pitorești din lac în lac, unde vă veți plimba pe lângă țărmurile frumos conservate ale Lacului de l'Île Paul și întinderea liniștită a Lacului du Drapeau.\nEvening: Încheiați-vă călătoria pe jos la Lac des Pêcheurs, unde ora de aur aruncă umbre lungi și pescarii locali își trag liniștiți undițele, oferind un final senin pentru ziua dumneavoastră activă în aer liber.",
+        "en": "Morning: Start your day with a peaceful walk along the trickling waters of La Sereine Stream, setting a relaxing tone before heading towards the bustling Ze Complex for some lively indoor entertainment.\nMidday: As the sun climbs, transition from the vibrant energy of the family complex towards the tranquil nature reserves, reaching Lac de la Forestière for a shaded, woodland retreat.\nAfternoon: The afternoon is dedicated to a scenic lake-hopping adventure, where you will wander past the beautifully preserved shores of Lac de l'Île Paul and the quiet expanse of Lac du Drapeau.\nEvening: Conclude your walking journey at Lac des Pêcheurs, where the golden hour casts long shadows and local fishermen quietly reel in their lines, offering a serene end to your active day out."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "20:57",
+      "total_km": 8.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "La Sereine Stream",
+            "hu": "La Sereine Stream",
+            "ro": "La Sereine Stream",
+            "en": "La Sereine Stream"
+          },
+          "coords": [
+            4.999692,
+            45.83494
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Morgenspaziergang entlang dieses malerischen Wasserlaufs, aber tragen Sie wasserfeste Schuhe, da die Ufer feucht sein können.",
+            "hu": "Élvezze a békés reggeli sétát e festői víziút mentén, de feltétlenül viseljen vízálló cipőt, mivel a partok gyakran nedvesek és sarasak.",
+            "ro": "Bucurați-vă de o plimbare matinală liniștită de-a lungul acestui curs de apă pitoresc, dar purtați încălțăminte impermeabilă, deoarece malurile pot fi noroioase.",
+            "en": "Enjoy a peaceful morning stroll along this picturesque waterway, but be sure to wear waterproof shoes as the banks can be damp and muddy."
+          }
+        },
+        {
+          "name": {
+            "de": "Ze Complex",
+            "hu": "Ze Complex",
+            "ro": "Ze Complex",
+            "en": "Ze Complex"
+          },
+          "coords": [
+            4.991599,
+            45.823183
+          ],
+          "category": "family",
+          "arrive_at": "10:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bringen Sie die ganze Familie in dieses weitläufige Unterhaltungszentrum und besuchen Sie es früh am Tag, um den nachmittäglichen Andrang zu vermeiden.",
+            "hu": "Hozza el az egész családot ebbe a hatalmas szórakoztatóközpontba, és próbáljon meg korán érkezni, hogy elkerülje a délutáni tömeget a mászófalaknál.",
+            "ro": "Aduceți întreaga familie în acest centru de divertisment vast și încercați să-l vizitați devreme pentru a evita aglomerația de după-amiază la pereții de escaladă.",
+            "en": "Bring the whole family to this expansive entertainment center, and try to visit early in the day to beat the afternoon crowds at the climbing walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de la Droite",
+            "hu": "Lac de la Droite",
+            "ro": "Lac de la Droite",
+            "en": "Lac de la Droite"
+          },
+          "coords": [
+            4.969576,
+            45.813173
+          ],
+          "category": "natural",
+          "arrive_at": "12:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den ruhigen Gewässern dieses wunderschönen Sees, der sich perfekt für ein schnelles Picknick eignet, wenn Sie eigenen Proviant mitbringen.",
+            "hu": "Pihenjen meg e gyönyörű tó nyugodt vizénél, amely tökéletes egy gyors piknikhez, ha nem felejt el saját elemózsiát hozni a városközpontból.",
+            "ro": "Relaxați-vă pe malul apelor calme ale acestui lac frumos, care este perfect pentru un picnic rapid dacă vă aduceți propriile provizii din centrul orașului.",
+            "en": "Relax by the calm waters of this beautiful lake, which is perfect for a quick picnic if you remember to bring your own provisions from the town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac des Pêcheurs",
+            "hu": "Lac des Pêcheurs",
+            "ro": "Lac des Pêcheurs",
+            "en": "Lac des Pêcheurs"
+          },
+          "coords": [
+            4.969688,
+            45.809903
+          ],
+          "category": "natural",
+          "arrive_at": "13:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Beobachten Sie die einheimischen Fischer an diesem ruhigen Naturort und denken Sie daran, im Sommer Insektenschutzmittel einzupacken, um Stiche zu vermeiden.",
+            "hu": "Figyelje meg a helyi horgászokat ezen a nyugodt természeti helyen, és ne felejtsen el rovarriasztót csomagolni a nyári hónapokban a vízparti kényelemért.",
+            "ro": "Urmăriți pescarii locali în acest loc natural liniștit și nu uitați să împachetați un repelent de insecte în lunile de vară pentru a sta confortabil lângă apă.",
+            "en": "Watch the local fishermen at this tranquil natural spot, and remember to pack insect repellent during the summer months to stay comfortable near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac du Drapeau",
+            "hu": "Lac du Drapeau",
+            "ro": "Lac du Drapeau",
+            "en": "Lac du Drapeau"
+          },
+          "coords": [
+            4.977415,
+            45.806956
+          ],
+          "category": "natural",
+          "arrive_at": "15:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Landschaft rund um diesen idyllischen See und halten Sie mit einem guten Fernglas Ausschau nach verschiedenen einheimischen Vogelarten.",
+            "hu": "Gyönyörködjön az idilli tavat körülvevő békés tájban, és tartsa nyitva a szemét a változatos helyi madárfajokra, amihez érdemes egy jó távcsövet is hozni.",
+            "ro": "Admirați peisajul senin care înconjoară acest lac idilic și fiți cu ochii în patru după diversele specii de păsări locale, aducând o pereche bună de binocluri.",
+            "en": "Take in the serene landscape surrounding this idyllic lake, and keep an eye out for diverse local bird species by bringing along a good pair of binoculars."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de l'Île Paul",
+            "hu": "Lac de l'Île Paul",
+            "ro": "Lac de l'Île Paul",
+            "en": "Lac de l'Île Paul"
+          },
+          "coords": [
+            4.984404,
+            45.806699
+          ],
+          "category": "natural",
+          "arrive_at": "16:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die malerischen Ufer dieses einzigartig benannten Sees und bleiben Sie auf den markierten Wegen, um die empfindliche lokale Flora zu schützen.",
+            "hu": "Fedezze fel e különleges nevű tó festői partjait, és ügyeljen arra, hogy a hivatalosan kijelölt ösvényeken maradjon az érzékeny helyi növényvilág védelme érdekében.",
+            "ro": "Explorați țărmurile pitorești ale acestui lac cu nume unic, asigurându-vă că rămâneți pe traseele marcate oficial pentru a proteja flora și fauna locală delicată.",
+            "en": "Explore the scenic shores of this uniquely named lake, making sure to stick to the officially marked trails to protect the delicate local flora and fauna."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de la Forestière",
+            "hu": "Lac de la Forestière",
+            "ro": "Lac de la Forestière",
+            "en": "Lac de la Forestière"
+          },
+          "coords": [
+            5.00495,
+            45.805983
+          ],
+          "category": "natural",
+          "arrive_at": "17:42",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Genießen Sie den erfrischenden Schatten der Bäume an diesem Waldsee, einem idealen Ort für Fotobegeisterte, die natürliche Spiegelungen einfangen möchten.",
+            "hu": "Élvezze a környező fák frissítő árnyékát ennél az erdei tónál, amely ideális hely a természetes tükröződéseket megörökíteni vágyó fotózás szerelmeseinek.",
+            "ro": "Bucurați-vă de umbra răcoroasă a copacilor din jur la acest lac de pădure, un loc ideal pentru pasionații de fotografie care speră să surprindă reflexii naturale.",
+            "en": "Enjoy the refreshing shade of the surrounding trees at this woodland lake, an ideal spot for photography enthusiasts hoping to capture natural reflections."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Le Clos",
+            "hu": "Villa Le Clos",
+            "ro": "Villa Le Clos",
+            "en": "Villa Le Clos"
+          },
+          "coords": [
+            5.025109,
+            45.814315
+          ],
+          "category": "civic",
+          "arrive_at": "19:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieses beeindruckenden bürgerlichen Wahrzeichens, aber prüfen Sie vorab die Öffnungszeiten, da der Zugang begrenzt ist.",
+            "hu": "Csodálja meg e lenyűgöző polgári nevezetesség feltűnő építészetét, de előzetesen ellenőrizze az önkormányzati menetrendet, mivel a belső térbe korlátozott a bejutás.",
+            "ro": "Admirați arhitectura remarcabilă a acestui impresionant punct de reper civic, dar verificați în prealabil programul municipal, deoarece accesul public este limitat.",
+            "en": "Admire the striking architecture of this impressive civic landmark, but check the municipal schedule in advance as public access to the interior is quite limited."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Radeln Sie von den sanften Strömungen des La Sereine Bachs weg und machen Sie einen flotten Halt am Ze Complex, der ein dynamisches Tempo für Ihre umfassende Zweirad-Tour durch Beynost vorgibt.\nMidday: Radeln Sie in Richtung des riesigen Parks Miribel-Jonage und erreichen Sie den abgelegenen Lac de la Droite für eine kurze Pause, bevor Sie Ihre malerische Fahrt um die Naturschutzgebiete fortsetzen.\nAfternoon: Verbringen Sie Ihren Nachmittag damit, mühelos zwischen dem Lac des Pêcheurs, dem Lac du Drapeau und dem Lac de l'Île Paul zu gleiten und die kühle Brise des Wassers auf den flachen Wegen zu genießen.\nEvening: Beenden Sie Ihre lange Radrunde, indem Sie die Seen hinter sich lassen und zur beeindruckenden Villa Le Clos fahren, wo Sie das architektonische Erbe bewundern, während die Sonne sanft untergeht.",
+        "hu": "Morning: Tekerjen el a La Sereine patak szelíd áramlataitól, és tegyen egy gyors, energikus megállót a Ze Complexnél, dinamikus tempót diktálva a Beynost-i átfogó kétkerekű túrához.\nMidday: Kerékpározzon a hatalmas Miribel-Jonage park felé, és érje el a távoli Lac de la Droite-ot egy rövid pihenőre, mielőtt folytatná festői útját az egymáshoz közeli természetvédelmi területek körül.\nAfternoon: Töltse a délutánt azzal, hogy könnyedén siklik a Lac des Pêcheurs, a Lac du Drapeau és a Lac de l'Île Paul között, élvezve a víz felől érkező hűvös szellőt, miközben a sík ösvényeken halad.\nEvening: Fejezze be a hosszú kerékpáros kört úgy, hogy maga mögött hagyja a tavakat, és elteker a lenyűgöző Villa Le Clos-hoz, megcsodálva az építészeti örökséget, miközben a nap lágyan lenyugszik a táj felett.",
+        "ro": "Morning: Porniți cu bicicleta de la curenții blânzi ai pârâului La Sereine și faceți o oprire rapidă și energică la Complexul Ze, stabilind un ritm dinamic pentru turul dumneavoastră complet pe două roți.\nMidday: Ciclati spre vastul parc Miribel-Jonage, ajungând la îndepărtatul Lac de la Droite pentru o scurtă pauză, înainte de a continua plimbarea pitorească în jurul rezervațiilor naturale strâns grupate.\nAfternoon: Petreceți-vă după-amiaza alunecând fără efort între Lac des Pêcheurs, Lac du Drapeau și Lac de l'Île Paul, bucurându-vă de briza răcoroasă a apei în timp ce traversați traseele plate și bine întreținute.\nEvening: Terminați-vă bucla lungă de ciclism lăsând lacurile în urmă și mergând până la impresionanta Villa Le Clos, admirând moștenirea arhitecturală în timp ce soarele apune ușor peste comuna franceză.",
+        "en": "Morning: Pedal away from the gentle currents of La Sereine Stream and make a quick, energetic stop at the Ze Complex, setting a dynamic pace for your comprehensive two-wheeled tour of Beynost.\nMidday: Cycle towards the vast Miribel-Jonage park, reaching the remote Lac de la Droite for a quick break before continuing your scenic ride around the closely clustered nature reserves and lakes.\nAfternoon: Spend your afternoon gliding effortlessly between Lac des Pêcheurs, Lac du Drapeau, and Lac de l'Île Paul, enjoying the cool breeze coming off the water as you traverse the flat, well-kept trails.\nEvening: Finish your long cycling loop by leaving the lakes behind and riding up to the impressive Villa Le Clos, admiring the architectural heritage as the sun sets gently over the tranquil French commune."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:14",
+      "total_km": 8.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Villa Le Clos",
+            "hu": "Villa Le Clos",
+            "ro": "Villa Le Clos",
+            "en": "Villa Le Clos"
+          },
+          "coords": [
+            5.025109,
+            45.814315
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieses beeindruckenden bürgerlichen Wahrzeichens, aber prüfen Sie vorab die Öffnungszeiten, da der Zugang begrenzt ist.",
+            "hu": "Csodálja meg e lenyűgöző polgári nevezetesség feltűnő építészetét, de előzetesen ellenőrizze az önkormányzati menetrendet, mivel a belső térbe korlátozott a bejutás.",
+            "ro": "Admirați arhitectura remarcabilă a acestui impresionant punct de reper civic, dar verificați în prealabil programul municipal, deoarece accesul public este limitat.",
+            "en": "Admire the striking architecture of this impressive civic landmark, but check the municipal schedule in advance as public access to the interior is quite limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de la Forestière",
+            "hu": "Lac de la Forestière",
+            "ro": "Lac de la Forestière",
+            "en": "Lac de la Forestière"
+          },
+          "coords": [
+            5.00495,
+            45.805983
+          ],
+          "category": "natural",
+          "arrive_at": "10:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Genießen Sie den erfrischenden Schatten der Bäume an diesem Waldsee, einem idealen Ort für Fotobegeisterte, die natürliche Spiegelungen einfangen möchten.",
+            "hu": "Élvezze a környező fák frissítő árnyékát ennél az erdei tónál, amely ideális hely a természetes tükröződéseket megörökíteni vágyó fotózás szerelmeseinek.",
+            "ro": "Bucurați-vă de umbra răcoroasă a copacilor din jur la acest lac de pădure, un loc ideal pentru pasionații de fotografie care speră să surprindă reflexii naturale.",
+            "en": "Enjoy the refreshing shade of the surrounding trees at this woodland lake, an ideal spot for photography enthusiasts hoping to capture natural reflections."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de l'Île Paul",
+            "hu": "Lac de l'Île Paul",
+            "ro": "Lac de l'Île Paul",
+            "en": "Lac de l'Île Paul"
+          },
+          "coords": [
+            4.984404,
+            45.806699
+          ],
+          "category": "natural",
+          "arrive_at": "11:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die malerischen Ufer dieses einzigartig benannten Sees und bleiben Sie auf den markierten Wegen, um die empfindliche lokale Flora zu schützen.",
+            "hu": "Fedezze fel e különleges nevű tó festői partjait, és ügyeljen arra, hogy a hivatalosan kijelölt ösvényeken maradjon az érzékeny helyi növényvilág védelme érdekében.",
+            "ro": "Explorați țărmurile pitorești ale acestui lac cu nume unic, asigurându-vă că rămâneți pe traseele marcate oficial pentru a proteja flora și fauna locală delicată.",
+            "en": "Explore the scenic shores of this uniquely named lake, making sure to stick to the officially marked trails to protect the delicate local flora and fauna."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac du Drapeau",
+            "hu": "Lac du Drapeau",
+            "ro": "Lac du Drapeau",
+            "en": "Lac du Drapeau"
+          },
+          "coords": [
+            4.977415,
+            45.806956
+          ],
+          "category": "natural",
+          "arrive_at": "13:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Landschaft rund um diesen idyllischen See und halten Sie mit einem guten Fernglas Ausschau nach verschiedenen einheimischen Vogelarten.",
+            "hu": "Gyönyörködjön az idilli tavat körülvevő békés tájban, és tartsa nyitva a szemét a változatos helyi madárfajokra, amihez érdemes egy jó távcsövet is hozni.",
+            "ro": "Admirați peisajul senin care înconjoară acest lac idilic și fiți cu ochii în patru după diversele specii de păsări locale, aducând o pereche bună de binocluri.",
+            "en": "Take in the serene landscape surrounding this idyllic lake, and keep an eye out for diverse local bird species by bringing along a good pair of binoculars."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac des Pêcheurs",
+            "hu": "Lac des Pêcheurs",
+            "ro": "Lac des Pêcheurs",
+            "en": "Lac des Pêcheurs"
+          },
+          "coords": [
+            4.969688,
+            45.809903
+          ],
+          "category": "natural",
+          "arrive_at": "14:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Beobachten Sie die einheimischen Fischer an diesem ruhigen Naturort und denken Sie daran, im Sommer Insektenschutzmittel einzupacken, um Stiche zu vermeiden.",
+            "hu": "Figyelje meg a helyi horgászokat ezen a nyugodt természeti helyen, és ne felejtsen el rovarriasztót csomagolni a nyári hónapokban a vízparti kényelemért.",
+            "ro": "Urmăriți pescarii locali în acest loc natural liniștit și nu uitați să împachetați un repelent de insecte în lunile de vară pentru a sta confortabil lângă apă.",
+            "en": "Watch the local fishermen at this tranquil natural spot, and remember to pack insect repellent during the summer months to stay comfortable near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Ze Complex",
+            "hu": "Ze Complex",
+            "ro": "Ze Complex",
+            "en": "Ze Complex"
+          },
+          "coords": [
+            4.991599,
+            45.823183
+          ],
+          "category": "family",
+          "arrive_at": "15:46",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Bringen Sie die ganze Familie in dieses weitläufige Unterhaltungszentrum und besuchen Sie es früh am Tag, um den nachmittäglichen Andrang zu vermeiden.",
+            "hu": "Hozza el az egész családot ebbe a hatalmas szórakoztatóközpontba, és próbáljon meg korán érkezni, hogy elkerülje a délutáni tömeget a mászófalaknál.",
+            "ro": "Aduceți întreaga familie în acest centru de divertisment vast și încercați să-l vizitați devreme pentru a evita aglomerația de după-amiază la pereții de escaladă.",
+            "en": "Bring the whole family to this expansive entertainment center, and try to visit early in the day to beat the afternoon crowds at the climbing walls."
+          }
+        },
+        {
+          "name": {
+            "de": "La Sereine Stream",
+            "hu": "La Sereine Stream",
+            "ro": "La Sereine Stream",
+            "en": "La Sereine Stream"
+          },
+          "coords": [
+            4.999692,
+            45.83494
+          ],
+          "category": "natural",
+          "arrive_at": "17:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Morgenspaziergang entlang dieses malerischen Wasserlaufs, aber tragen Sie wasserfeste Schuhe, da die Ufer feucht sein können.",
+            "hu": "Élvezze a békés reggeli sétát e festői víziút mentén, de feltétlenül viseljen vízálló cipőt, mivel a partok gyakran nedvesek és sarasak.",
+            "ro": "Bucurați-vă de o plimbare matinală liniștită de-a lungul acestui curs de apă pitoresc, dar purtați încălțăminte impermeabilă, deoarece malurile pot fi noroioase.",
+            "en": "Enjoy a peaceful morning stroll along this picturesque waterway, but be sure to wear waterproof shoes as the banks can be damp and muddy."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Fahren Sie direkt zum beeindruckenden Gelände der Villa Le Clos und bewundern Sie die großartige bürgerliche Architektur im weichen Morgenlicht, bevor Sie zu den üppigen Naturlandschaften aufbrechen.\nMidday: Fahren Sie hinunter in das weitläufige Parkgebiet von Miribel-Jonage, beginnend mit einem ruhigen, schattigen Spaziergang um den Lac de la Forestière, gefolgt vom ebenso friedlichen Lac de l'Île Paul.\nAfternoon: Der Nachmittag ermöglicht einfache Sprünge zwischen dem Lac du Drapeau und dem Lac des Pêcheurs, wo Sie dank Ihres Fahrzeugs mehr Zeit an den malerischen Aussichtspunkten verbringen können.\nEvening: Fahren Sie zurück in Richtung Stadtzentrum für einen spaßigen letzten Halt am Ze Complex und beenden Sie Ihre Route mit einem kurzen Besuch des La Sereine Bachs, während die Abenddämmerung hereinbricht.",
+        "hu": "Morning: Vezessen egyenesen a Villa Le Clos lenyűgöző területére, és szánjon időt a nagyszerű polgári építészet megcsodálására a lágy reggeli fényben, mielőtt a régió buja természeti tájai felé venné az irányt.\nMidday: Navigáljon le a kiterjedt Miribel-Jonage park területére, egy békés, árnyékos sétával kezdve a Lac de la Forestière körül, majd közvetlenül az egyformán nyugodt Lac de l'Île Paul partjainál folytatva.\nAfternoon: A délután könnyű ugrásokat tesz lehetővé a Lac du Drapeau és a Lac des Pêcheurs között, ahol a jármű kényelme azt jelenti, hogy a séta helyett maximalizálhatja a festői kilátók élvezetére szánt időt.\nEvening: Hajtson vissza a városközpont felé egy szórakoztató utolsó megállóra a Ze Complexnél, és zárja le változatos útitervét a La Sereine patak rövid meglátogatásával, miközben leszáll az alkonyat Beynost felett.",
+        "ro": "Morning: Conduceți direct către impresionanta Villa Le Clos, făcându-vă timp pentru a-i admira marea arhitectură civică în lumina blândă a dimineții înainte de a vă îndrepta spre peisajele naturale luxuriante.\nMidday: Navigați în jos spre zona vastă a parcului Miribel-Jonage, începând cu o plimbare senină și umbrită în jurul Lacului de la Forestière, urmată îndeaproape de țărmurile la fel de liniștite ale Lacului de l'Île Paul.\nAfternoon: După-amiaza permite sărituri ușoare între Lac du Drapeau și Lac des Pêcheurs, unde confortul unui vehicul înseamnă că vă puteți maximiza timpul bucurându-vă de punctele de vedere pitorești.\nEvening: Conduceți înapoi spre centrul orașului pentru o ultimă oprire distractivă la Complexul Ze, încheindu-vă itinerariul variat cu o scurtă vizită la pârâul La Sereine în timp ce se lasă seara peste Beynost.",
+        "en": "Morning: Drive straight to the impressive grounds of Villa Le Clos, taking time to admire its grand civic architecture in the soft morning light before shifting gears toward the region's lush natural landscapes.\nMidday: Navigate down to the expansive Miribel-Jonage park area, starting with a serene, shaded walk around Lac de la Forestière, followed closely by the equally tranquil shores of Lac de l'Île Paul.\nAfternoon: The afternoon allows for easy hops between Lac du Drapeau and Lac des Pêcheurs, where the convenience of a vehicle means you can maximize your time enjoying the scenic viewpoints rather than walking.\nEvening: Drive back towards the town center for a fun final stop at the Ze Complex, capping off your varied itinerary with a brief visit to the La Sereine Stream as dusk falls over the charming streets of Beynost."
+      }
+    }
+  }
+}

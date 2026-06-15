@@ -1,0 +1,520 @@
+{
+  "city_id": "italy-tremiti-islands-cities-v2",
+  "anchor": {
+    "name": "Tremiti Islands",
+    "coords": [
+      15.5,
+      42.116667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:01",
+      "total_km": 1.95,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Comune Isole Tremiti",
+            "hu": "Comune Isole Tremiti",
+            "ro": "Comune Isole Tremiti",
+            "en": "Comune Isole Tremiti"
+          },
+          "coords": [
+            15.491402,
+            42.116454
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Zentrum, um das administrative Herz des Archipels zu verstehen, und tragen Sie bequeme Schuhe für die unebenen Steinwege.",
+            "hu": "Fedezze fel a történelmi központot, hogy megértse a szigetcsoport közigazgatási szívét, és hozzon kényelmes cipőt a kissé egyenetlen kőutakhoz.",
+            "ro": "Explorați centrul istoric pentru a înțelege inima administrativă a arhipelagului, aducând încălțăminte comodă pentru cărările pietruite ușor denivelate.",
+            "en": "Explore the historic center to understand the archipelago's administrative heart, bringing comfortable walking shoes for the slightly uneven stone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Spido",
+            "hu": "Cala Spido",
+            "ro": "Cala Spido",
+            "en": "Cala Spido"
+          },
+          "coords": [
+            15.494793,
+            42.11671
+          ],
+          "category": "landmark",
+          "arrive_at": "10:35",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie an dieser malerischen Bucht mit kristallklarem Wasser und üppigen Pinien, aber kommen Sie früh, um einen guten Platz am kleinen Strand zu sichern.",
+            "hu": "Pihenjen ezen a festői öbölben, amely kristálytiszta vizéről és fenyveseiről ismert, de érkezzen korán, hogy jó helyet kapjon a kis strandon.",
+            "ro": "Relaxați-vă la acest golf pitoresc cunoscut pentru apele sale cristaline și pinii luxurianți, dar ajungeți devreme pentru a prinde un loc bun pe plaja mică.",
+            "en": "Relax at this picturesque cove known for its crystal-clear waters and lush pine surroundings, but arrive early to secure a good spot on the small beach."
+          }
+        },
+        {
+          "name": {
+            "de": "cala Matano",
+            "hu": "cala Matano",
+            "ro": "cala Matano",
+            "en": "cala Matano"
+          },
+          "coords": [
+            15.49328,
+            42.115433
+          ],
+          "category": "landmark",
+          "arrive_at": "11:23",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die natürlichen Kalksteinklippen dieser ikonischen Bucht, und vergessen Sie Ihre Schnorchelausrüstung nicht, um die Unterwasserwelt zu erkunden.",
+            "hu": "Csodálja meg az ikonikus öblöt övező mészkősziklákat, amelyeket olasz zenészek tettek híressé, és ne felejtse el a búvárfelszerelését a tengeri élőlényekhez.",
+            "ro": "Admirați stâncile naturale de calcar care îmbrățișează acest golf iconic făcut faimos de muzicieni italieni, fără a uita echipamentul de snorkeling.",
+            "en": "Admire the natural limestone cliffs embracing this iconic bay made famous by Italian musicians, and don't forget your snorkeling gear to explore the marine life."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Tramontana",
+            "hu": "Cala Tramontana",
+            "ro": "Cala Tramontana",
+            "en": "Cala Tramontana"
+          },
+          "coords": [
+            15.485938,
+            42.119837
+          ],
+          "category": "landmark",
+          "arrive_at": "12:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erleben Sie atemberaubende Ausblicke auf die Nordküste, wo raue Felsen auf tiefblaues Meer treffen, und halten Sie eine Windjacke gegen die frische Brise bereit.",
+            "hu": "Élvezze az északi partvidék lélegzetelállító kilátását, ahol a zord sziklák találkoznak a kék tengerrel, és tartson kéznél egy széldzsekit a szél miatt.",
+            "ro": "Experimentați vederi uluitoare ale coastei de nord, unde stâncile aspre întâlnesc marea albastră, păstrând la îndemână o jachetă de vânt pentru briza puternică.",
+            "en": "Experience breathtaking views of the northern coastline where rugged rocks meet deep blue sea, keeping a windbreaker handy as it can get quite breezy here."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala degli Inglesi",
+            "hu": "Cala degli Inglesi",
+            "ro": "Cala degli Inglesi",
+            "en": "Cala degli Inglesi"
+          },
+          "coords": [
+            15.484537,
+            42.117598
+          ],
+          "category": "landmark",
+          "arrive_at": "13:10",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese abgelegene Bucht, die nach einem Schiffswrack benannt ist, und bringen Sie Badeschuhe für den felsigen Meeresboden mit.",
+            "hu": "Fedezze fel ezt az eldugott öblöt, amelyet egy történelmi hajóroncsról neveztek el, de mindenképpen hozzon magával vízicipőt a sziklás tengerfenék miatt.",
+            "ro": "Descoperiți acest golf retras numit după o epavă istorică, oferind condiții excelente de înot, deși încălțămintea de apă este recomandată pentru fundul stâncos.",
+            "en": "Discover this secluded inlet named after a historic shipwreck, offering pristine swimming conditions, though bringing water shoes is highly recommended for the rocky seabed."
+          }
+        },
+        {
+          "name": {
+            "de": "Punta del Vapore",
+            "hu": "Punta del Vapore",
+            "ro": "Punta del Vapore",
+            "en": "Punta del Vapore"
+          },
+          "coords": [
+            15.483049,
+            42.117622
+          ],
+          "category": "landmark",
+          "arrive_at": "13:58",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf die Adria von diesem dramatischen Vorgebirge aus, ein perfekter Ort zum Fotografieren, besonders im goldenen Abendlicht.",
+            "hu": "Gyönyörködjön az Adriai-tenger panorámájában erről a drámai hegyfokról, amely tökéletes hely fotózásra, különösen a lenyűgöző aranyóra fényében.",
+            "ro": "Admirați panorama Adriaticii de pe acest promontoriu dramatic, un loc perfect pentru fotografie, în special în timpul luminii uimitoare de la ora de aur.",
+            "en": "Take in the panoramic sweep of the Adriatic from this dramatic promontory, a perfect spot for photography, especially during the stunning golden hour light."
+          }
+        },
+        {
+          "name": {
+            "de": "Punta del Vuccolo",
+            "hu": "Punta del Vuccolo",
+            "ro": "Punta del Vuccolo",
+            "en": "Punta del Vuccolo"
+          },
+          "coords": [
+            15.482492,
+            42.119315
+          ],
+          "category": "landmark",
+          "arrive_at": "14:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie den faszinierenden Sonnenuntergang von diesem Aussichtspunkt am Rande der Insel und bringen Sie eine leichte Jacke für den kühlen Abend mit.",
+            "hu": "Nézze meg a lenyűgöző naplementét erről a magaslati kilátóról a sziget szélén, és hozzon egy könnyű kabátot, mivel este lehűl a levegő a víz közelében.",
+            "ro": "Priviți apusul fascinant de la acest punct de belvedere de la marginea insulei, aducând o jachetă ușoară pe măsură ce temperaturile de seară scad lângă apă.",
+            "en": "Watch the mesmerizing sunset from this elevated viewpoint at the island's edge, bringing a light jacket as evening temperatures drop near the open water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag beginnt im historischen Zentrum der Tremiti-Inseln. Genießen Sie die Atmosphäre des kleinen Ortes, bevor Sie zur Küste hinabsteigen, um das ruhige Morgenwasser der Cala Spido zu begrüßen.\n\nMit steigender Sonne wandern Sie entlang der atemberaubenden Buchten. Sie legen eine Pause an der Cala Matano ein, einem berühmten Rückzugsort, bevor Sie die windigen Ufer der Cala Tramontana erreichen.\n\nDer Nachmittag lockt mit einem Spaziergang zu den rauen westlichen Buchten. Die geschichtsträchtige Cala degli Inglesi ist der perfekte Ort für eine Abkühlung im kristallklaren Wasser der Adria.\n\nDie Reise endet mit magischen Ausblicken zur goldenen Stunde an den nördlichen Landspitzen. Punta del Vapore und Punta del Vuccolo bieten eine dramatische Kulisse für einen unvergesslichen Sonnenuntergang.",
+        "hu": "A nap a Tremiti-szigetek történelmi szívében kezdődik, magába szívva az adminisztratív központ báját. Hamarosan leereszkedik a part felé, hogy élvezze a Cala Spido nyugodt reggeli vizeit.\n\nAhogy a nap egyre magasabbra hág, a túra a lenyűgöző keleti öblök mentén folytatódik. Megpihen a Cala Matano híres parti menedékénél, mielőtt elérné a szeles Cala Tramontana partjait.\n\nA délután a zord nyugati öblök felé tett sétával telik. A történelemmel átitatott Cala degli Inglesi tökéletes pihenőhely, ahol a kristálytiszta Adriai-tenger hűsítő csobbanásra csábít.\n\nAz utazás az északi csúcsok mentén a varázslatos aranyóra látványával zárul. A Punta del Vapore és a Punta del Vuccolo drámai díszletet biztosít, ahogy a nap lemegy a végtelen horizonton.",
+        "ro": "Ziua începe în inima istorică a Insulelor Tremiti. Bucurați-vă de atmosfera centrului administrativ pitoresc, înainte de a coborî spre coastă pentru a admira apele liniștite de dimineață la Cala Spido.\n\nPe măsură ce soarele urcă, drumeția continuă de-a lungul golfurilor uluitoare. Vă veți opri la Cala Matano, un refugiu celebru de coastă, înainte de a ajunge pe țărmurile brizei de la Cala Tramontana.\n\nDupă-amiaza se desfășoară cu o plimbare spre golfurile stâncoase din vest. Cala degli Inglesi oferă un loc de odihnă perfect, plin de istorie, unde Marea Adriatică cristalină vă invită la o baie răcoroasă.\n\nCălătoria se încheie cu priveliști magice la ora de aur, de-a lungul vârfurilor nordice. Punta del Vapore și Punta del Vuccolo oferă un peisaj dramatic suprem pe măsură ce soarele apune la orizont.",
+        "en": "Your day begins in the historic heart of the Tremiti Islands, soaking in the quaint administrative center. Soon, you will descend towards the coast to embrace the calm morning waters of Cala Spido.\n\nAs the sun climbs higher, the trek continues along the stunning eastern coves. You will pause at Cala Matano, a famous coastal retreat, before reaching the breezy shores of Cala Tramontana.\n\nThe afternoon unfolds with a walk toward the rugged western coves. Cala degli Inglesi offers a perfect resting spot, steeped in history, where the crystal-clear Adriatic invites you for a cooling dip.\n\nThe journey concludes with magical golden hour views along the northern tips. Punta del Vapore and Punta del Vuccolo provide the ultimate dramatic scenery as the sun sets over the endless horizon."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:08",
+      "total_km": 3.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Comune Isole Tremiti",
+            "hu": "Comune Isole Tremiti",
+            "ro": "Comune Isole Tremiti",
+            "en": "Comune Isole Tremiti"
+          },
+          "coords": [
+            15.491402,
+            42.116454
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Zentrum, um das administrative Herz des Archipels zu verstehen, und tragen Sie bequeme Schuhe für die unebenen Steinwege.",
+            "hu": "Fedezze fel a történelmi központot, hogy megértse a szigetcsoport közigazgatási szívét, és hozzon kényelmes cipőt a kissé egyenetlen kőutakhoz.",
+            "ro": "Explorați centrul istoric pentru a înțelege inima administrativă a arhipelagului, aducând încălțăminte comodă pentru cărările pietruite ușor denivelate.",
+            "en": "Explore the historic center to understand the archipelago's administrative heart, bringing comfortable walking shoes for the slightly uneven stone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Punta del Diamante",
+            "hu": "Punta del Diamante",
+            "ro": "Punta del Diamante",
+            "en": "Punta del Diamante"
+          },
+          "coords": [
+            15.491045,
+            42.12592
+          ],
+          "category": "landmark",
+          "arrive_at": "10:36",
+          "stay_min": 45,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Stehen Sie an dieser nördlichsten Spitze, um die ungezähmte Kraft des Meeres zu spüren, und halten Sie sicheren Abstand zu den zerbrechlichen Klippenrändern.",
+            "hu": "Álljon ezen a legészakibb csúcson, hogy érezze a szikláknak csapódó tenger megszelídíthetetlen erejét, de tartson biztonságos távolságot a sziklaszélektől.",
+            "ro": "Stați pe acest vârf nordic pentru a simți puterea nestăvilită a mării izbindu-se de stânci, păstrând o distanță sigură de marginile fragile ale falezei.",
+            "en": "Stand atop this northernmost tip to feel the untamed power of the sea crashing against the rocks, keeping a safe distance from the fragile cliff edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Tramontana",
+            "hu": "Cala Tramontana",
+            "ro": "Cala Tramontana",
+            "en": "Cala Tramontana"
+          },
+          "coords": [
+            15.485938,
+            42.119837
+          ],
+          "category": "landmark",
+          "arrive_at": "11:26",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erleben Sie atemberaubende Ausblicke auf die Nordküste, wo raue Felsen auf tiefblaues Meer treffen, und halten Sie eine Windjacke gegen die frische Brise bereit.",
+            "hu": "Élvezze az északi partvidék lélegzetelállító kilátását, ahol a zord sziklák találkoznak a kék tengerrel, és tartson kéznél egy széldzsekit a szél miatt.",
+            "ro": "Experimentați vederi uluitoare ale coastei de nord, unde stâncile aspre întâlnesc marea albastră, păstrând la îndemână o jachetă de vânt pentru briza puternică.",
+            "en": "Experience breathtaking views of the northern coastline where rugged rocks meet deep blue sea, keeping a windbreaker handy as it can get quite breezy here."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotta delle Rondinelle",
+            "hu": "Grotta delle Rondinelle",
+            "ro": "Grotta delle Rondinelle",
+            "en": "Grotta delle Rondinelle"
+          },
+          "coords": [
+            15.480022,
+            42.113734
+          ],
+          "category": "landmark",
+          "arrive_at": "12:16",
+          "stay_min": 45,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Schwalbennester in dieser faszinierenden Meereshöhle und achten Sie darauf, die nistenden Vögel nicht durch laute Geräusche zu stören.",
+            "hu": "Csodálja meg a fecskefészkeket ebben a lenyűgöző tengeri barlangban, és ügyeljen arra, hogy ne zavarja a fészkelő madarakat hangos zajokkal.",
+            "ro": "Minunați-vă de cuiburile de rândunele din această peșteră marină captivantă, având grijă să nu deranjați păsările cu zgomote puternice.",
+            "en": "Marvel at the swallow nests inside this captivating sea cave accessible from the cliff top, taking care not to disturb the nesting birds with loud noises."
+          }
+        },
+        {
+          "name": {
+            "de": "L'Architiello",
+            "hu": "L'Architiello",
+            "ro": "L'Architiello",
+            "en": "L'Architiello"
+          },
+          "coords": [
+            15.47723,
+            42.111406
+          ],
+          "category": "landmark",
+          "arrive_at": "13:04",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Fotografieren Sie diesen majestätischen natürlichen Kalksteinbogen, und tragen Sie eine polarisierende Sonnenbrille, um das türkisfarbene Wasser darunter zu schätzen.",
+            "hu": "Fényképezze le ezt a fenséges természetes mészkőívet, és mindenképpen legyen önnél polárszűrős napszemüveg, hogy élvezhesse az alatta lévő türkizkék vizet.",
+            "ro": "Fotografiați acest arc natural de calcar maiestuos sculptat de valuri, asigurându-vă că aveți ochelari de soare polarizați pentru a aprecia apele turcoaz de dedesubt.",
+            "en": "Photograph this majestic natural limestone arch sculpted by centuries of waves, ensuring you have polarizing sunglasses to fully appreciate the turquoise waters beneath it."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro di San Domino",
+            "hu": "Faro di San Domino",
+            "ro": "Faro di San Domino",
+            "en": "Faro di San Domino"
+          },
+          "coords": [
+            15.477421,
+            42.106497
+          ],
+          "category": "landmark",
+          "arrive_at": "13:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie den historischen Leuchtturm am Westrand der Tremiti-Inseln und nutzen Sie ein Teleobjektiv, um den weißen Turm vor dem blauen Himmel einzufangen.",
+            "hu": "Látogassa meg a Tremiti-szigetcsoport nyugati szélét őrző történelmi világítótornyot, és használjon teleobjektívet, hogy megörökítse a fehér tornyot a kék ég előtt.",
+            "ro": "Vizitați farul istoric care veghează asupra marginii de vest a arhipelagului Tremiti, folosind un teleobiectiv pentru a surprinde turnul său alb pe cerul albastru.",
+            "en": "Visit the historic lighthouse watching over the western edge of the Tremiti archipelago, using a telephoto lens to capture its stark white tower against the blue sky."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihr Radabenteuer in der charmanten Hauptsiedlung der Insel, bevor Sie zum äußersten Nordrand an der Punta del Diamante radeln, wo ungezähmte Wellen an majestätische Klippen schlagen.\n\nDie Route führt sanft an der Küste entlang und bringt Sie zur erfrischenden Brise der Cala Tramontana. Von dort aus radeln Sie weiter zur faszinierenden Grotta delle Rondinelle.\n\nDie Fahrt geht weiter mit einer spektakulären Abfahrt zum L'Architiello. Dieser natürliche Kalksteinbogen bietet ein atemberaubendes Fotomotiv am Nachmittag vor dem makellosen türkisfarbenen Meer.\n\nIhre malerische Fahrt endet am Faro di San Domino. Am historischen Leuchtturm können Sie in absoluter Ruhe den Tag Revue passieren lassen und den atemberaubenden mediterranen Sonnenuntergang beobachten.",
+        "hu": "Kezdje kerékpáros kalandját a sziget hangulatos fő településén, mielőtt a legészakibb peremre, a Punta del Diamante-hoz tekerne, ahol a tenger hullámai fenséges szikláknak csapódnak.\n\nAz útvonal zökkenőmentesen halad a part mentén, elvezetve a Cala Tramontana frissítő szellőjéhez. Innen a lenyűgöző Fecske-barlang (Grotta delle Rondinelle) felé folytatja útját.\n\nAz utazás egy látványos ereszkedéssel folytatódik a L'Architiello felé. Ez a lenyűgöző természetes mészkőív lélegzetelállító délutáni fotómegállót kínál a türkizkék tenger közepén.\n\nA festői utazás a Faro di San Domino világítótoronynál ér véget. A történelmi épületnél a békés csendben, a gyönyörű mediterrán naplementét figyelve emlékezhet vissza a szigeti kalandokra.",
+        "ro": "Începeți-vă aventura cu bicicleta în așezarea principală fermecătoare a insulei, înainte de a pedala spre marginea extremă nordică la Punta del Diamante, unde valurile se izbesc de stâncile maiestuoase.\n\nTraseul continuă ușor de-a lungul coastei, conducându-vă către briza răcoroasă a Cala Tramontana. De acolo, veți pedala spre fascinanta peșteră marină Grotta delle Rondinelle.\n\nPlimbarea continuă cu o coborâre spectaculoasă la L'Architiello. Acest incredibil arc natural de calcar constituie un popas fotografic uluitor de după-amiază, în mijlocul mării turcoaz imaculate.\n\nCălătoria pitorească se termină la Faro di San Domino. La farul istoric, puteți reflecta la explorarea insulei din acea zi în timp ce urmăriți un apus mediteranean uluitor în liniște absolută.",
+        "en": "Kickstart your cycling adventure in the island's charming main settlement before pedaling to the extreme northern edge at Punta del Diamante, where untamed waves crash against majestic cliffs.\n\nThe route smoothly transitions along the coastline, leading you to the refreshing breeze of Cala Tramontana. From there, you will cycle towards the fascinating Grotta delle Rondinelle.\n\nThe ride continues with a spectacular descent to L'Architiello. This incredible natural arch of limestone makes for a breathtaking afternoon photo stop amidst the pristine turquoise sea.\n\nYour scenic ride finishes at the Faro di San Domino. At the historic lighthouse, you can reflect on the day's island exploration while watching the stunning Mediterranean sunset in absolute peace."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:43",
+      "total_km": 4.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Comune Isole Tremiti",
+            "hu": "Comune Isole Tremiti",
+            "ro": "Comune Isole Tremiti",
+            "en": "Comune Isole Tremiti"
+          },
+          "coords": [
+            15.491402,
+            42.116454
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Zentrum, um das administrative Herz des Archipels zu verstehen, und tragen Sie bequeme Schuhe für die unebenen Steinwege.",
+            "hu": "Fedezze fel a történelmi központot, hogy megértse a szigetcsoport közigazgatási szívét, és hozzon kényelmes cipőt a kissé egyenetlen kőutakhoz.",
+            "ro": "Explorați centrul istoric pentru a înțelege inima administrativă a arhipelagului, aducând încălțăminte comodă pentru cărările pietruite ușor denivelate.",
+            "en": "Explore the historic center to understand the archipelago's administrative heart, bringing comfortable walking shoes for the slightly uneven stone paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotta del Sale",
+            "hu": "Grotta del Sale",
+            "ro": "Grotta del Sale",
+            "en": "Grotta del Sale"
+          },
+          "coords": [
+            15.491262,
+            42.109686
+          ],
+          "category": "landmark",
+          "arrive_at": "10:32",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierende Küstenhöhle, in der sich alte Salzablagerungen gebildet haben, und bringen Sie eine Taschenlampe mit, um die Ecken sicher zu beleuchten.",
+            "hu": "Fedezze fel ezt a lenyűgöző tengerparti barlangot, ahol ősi sólerakódások képződtek, és hozzon egy megbízható zseblámpát a sötétebb részek biztonságos megvilágításához.",
+            "ro": "Explorați această cavernă fascinantă unde s-au format natural depozite de sare, aducând o lanternă fiabilă pentru a ilumina în siguranță adânciturile sale întunecate.",
+            "en": "Explore this fascinating coastal cavern where ancient salt deposits naturally formed on the rock walls, bringing a reliable flashlight to illuminate its darker recesses safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Punta di Zio Cesare",
+            "hu": "Punta di Zio Cesare",
+            "ro": "Punta di Zio Cesare",
+            "en": "Punta di Zio Cesare"
+          },
+          "coords": [
+            15.482653,
+            42.103846
+          ],
+          "category": "landmark",
+          "arrive_at": "11:20",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erreichen Sie die äußerste Südspitze der Insel San Domino für ein wildes und einsames Erlebnis, und nehmen Sie ausreichend Trinkwasser mit, da es keine Einrichtungen gibt.",
+            "hu": "Érje el a San Domino sziget legdélebbi csücskét egy vad és magányos élményért, és vigyen magával elegendő ivóvizet, mivel a közelben nincsenek létesítmények.",
+            "ro": "Ajungeți la capătul extrem sudic al insulei San Domino pentru o experiență sălbatică și solitară, asigurându-vă că aveți suficientă apă, deoarece nu există facilități.",
+            "en": "Reach the extreme southern tip of San Domino island for a wild and solitary experience, making sure to carry enough drinking water as there are no facilities nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro di San Domino",
+            "hu": "Faro di San Domino",
+            "ro": "Faro di San Domino",
+            "en": "Faro di San Domino"
+          },
+          "coords": [
+            15.477421,
+            42.106497
+          ],
+          "category": "landmark",
+          "arrive_at": "12:07",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie den historischen Leuchtturm am Westrand der Tremiti-Inseln und nutzen Sie ein Teleobjektiv, um den weißen Turm vor dem blauen Himmel einzufangen.",
+            "hu": "Látogassa meg a Tremiti-szigetcsoport nyugati szélét őrző történelmi világítótornyot, és használjon teleobjektívet, hogy megörökítse a fehér tornyot a kék ég előtt.",
+            "ro": "Vizitați farul istoric care veghează asupra marginii de vest a arhipelagului Tremiti, folosind un teleobiectiv pentru a surprinde turnul său alb pe cerul albastru.",
+            "en": "Visit the historic lighthouse watching over the western edge of the Tremiti archipelago, using a telephoto lens to capture its stark white tower against the blue sky."
+          }
+        },
+        {
+          "name": {
+            "de": "Colle dell'Eremita",
+            "hu": "Colle dell'Eremita",
+            "ro": "Colle dell'Eremita",
+            "en": "Colle dell'Eremita"
+          },
+          "coords": [
+            15.482994,
+            42.110216
+          ],
+          "category": "landmark",
+          "arrive_at": "12:54",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Besteigen Sie die sanften Hänge des Einsiedlerhügels, um weite Ausblicke durch Aleppo-Kiefern zu genießen, und nutzen Sie die schattigen Bereiche für ein kurzes Picknick.",
+            "hu": "Mássza meg a Remete-domb szelíd lejtőit, hogy élvezze az aleppói fenyők által keretezett belvízi kilátást, és használja ki az árnyékos területeket egy rövid piknikre.",
+            "ro": "Urcați pe pantele blânde ale Dealului Eremitului pentru a vă bucura de priveliști interioare încadrate de pini, profitând de zonele umbrite pentru un scurt picnic.",
+            "en": "Climb the gentle slopes of Hermit's Hill to enjoy sweeping inland views framed by Aleppo pines, taking advantage of the shaded areas for a brief and peaceful picnic rest."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotta delle Rondinelle",
+            "hu": "Grotta delle Rondinelle",
+            "ro": "Grotta delle Rondinelle",
+            "en": "Grotta delle Rondinelle"
+          },
+          "coords": [
+            15.480022,
+            42.113734
+          ],
+          "category": "landmark",
+          "arrive_at": "13:41",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Schwalbennester in dieser faszinierenden Meereshöhle und achten Sie darauf, die nistenden Vögel nicht durch laute Geräusche zu stören.",
+            "hu": "Csodálja meg a fecskefészkeket ebben a lenyűgöző tengeri barlangban, és ügyeljen arra, hogy ne zavarja a fészkelő madarakat hangos zajokkal.",
+            "ro": "Minunați-vă de cuiburile de rândunele din această peșteră marină captivantă, având grijă să nu deranjați păsările cu zgomote puternice.",
+            "en": "Marvel at the swallow nests inside this captivating sea cave accessible from the cliff top, taking care not to disturb the nesting birds with loud noises."
+          }
+        },
+        {
+          "name": {
+            "de": "Punta del Vuccolo",
+            "hu": "Punta del Vuccolo",
+            "ro": "Punta del Vuccolo",
+            "en": "Punta del Vuccolo"
+          },
+          "coords": [
+            15.482492,
+            42.119315
+          ],
+          "category": "landmark",
+          "arrive_at": "14:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Beobachten Sie den faszinierenden Sonnenuntergang von diesem Aussichtspunkt am Rande der Insel und bringen Sie eine leichte Jacke für den kühlen Abend mit.",
+            "hu": "Nézze meg a lenyűgöző naplementét erről a magaslati kilátóról a sziget szélén, és hozzon egy könnyű kabátot, mivel este lehűl a levegő a víz közelében.",
+            "ro": "Priviți apusul fascinant de la acest punct de belvedere de la marginea insulei, aducând o jachetă ușoară pe măsură ce temperaturile de seară scad lângă apă.",
+            "en": "Watch the mesmerizing sunset from this elevated viewpoint at the island's edge, bringing a light jacket as evening temperatures drop near the open water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt am zentralen Punkt der Insel, bevor Sie nach Süden aufbrechen. Das erste Naturwunder auf Ihrer Route ist die Grotta del Sale, eine faszinierende Höhle im frühen Morgenlicht.\n\nDie malerische Route bringt Sie zur absolut ruhigen Südspitze an der Punta di Zio Cesare. Anschließend führt eine kurze Fahrt zum ikonischen Leuchtturm Faro di San Domino.\n\nAm Nachmittag bringt Sie Ihr Fahrzeug ein wenig ins Landesinnere zum ruhigen Colle dell'Eremita. Nach einer Rast im Schatten wird die Küstenfahrt an der spektakulären Grotta delle Rondinelle fortgesetzt.\n\nDie Expedition endet nahe der malerischen Nordwestküste. An der Punta del Vuccolo werden Sie mit einem weiten Panorama-Sonnenuntergang belohnt, der ein unvergessliches Tremiti-Abenteuer abschließt.",
+        "hu": "Kezdje autós útját a központi csomópontban, mielőtt dél felé venné az irányt. Az első természeti csoda az útvonalán a Grotta del Sale, egy lenyűgöző tengerparti barlang a kora reggeli fényben.\n\nA festői útvonal a legdélibb peremre, a Punta di Zio Cesare-hoz viszi a teljes nyugalomért. Ezután egy rövid autózás az ikonikus világítótoronyhoz, a Faro di San Domino-hoz vezet.\n\nAhogy beköszönt a délután, járműve kissé a szárazföld belsejébe, a csendes Colle dell'Eremita hegyre viszi. Egy árnyékos pihenő után a part menti utazás a látványos Grotta delle Rondinelle-nél folytatódik.\n\nAz expedíció a sziget északnyugati partja közelében ér véget. A Punta del Vuccolo-hoz érve hatalmas panorámás naplementével lesz megjutalmazva, ami megkoronázza a felejthetetlen kalandot.",
+        "ro": "Începeți plimbarea de la punctul central al insulei, înainte de a naviga spre sud. Prima minune naturală de pe traseul dvs. este Grotta del Sale, o peșteră de coastă fascinantă în lumina dimineții.\n\nTraseul pitoresc vă aduce la marginea sudică extremă la Punta di Zio Cesare pentru liniște absolută. Ulterior, o scurtă călătorie duce la farul iconic, Faro di San Domino.\n\nDupă-amiaza, vehiculul vă duce ușor spre interior, la liniștitul Colle dell'Eremita. După o odihnă la umbră, plimbarea pe coastă se reia la spectaculoasa Grotta delle Rondinelle.\n\nExpediția se încheie lângă coasta pitorească de nord-vest a insulei. Ajungând la Punta del Vuccolo, veți fi răsplătiți cu un apus panoramic vast, încheind o aventură de neuitat în Tremiti.",
+        "en": "Begin your island drive at the central hub before navigating southwards. The first natural wonder on your route is Grotta del Sale, a fascinating coastal cave framed by the early morning light.\n\nThe scenic route brings you to the southernmost edge at Punta di Zio Cesare for absolute tranquility. Afterward, a short drive leads to the iconic lighthouse, Faro di San Domino.\n\nAs the afternoon sets in, your vehicle takes you slightly inland to the tranquil Colle dell'Eremita. Following a shaded rest, the coastal drive resumes at the spectacular Grotta delle Rondinelle.\n\nThe expedition wraps up near the island's scenic northwestern coast. Reaching Punta del Vuccolo, you will be rewarded with a sweeping panoramic sunset, capping off an unforgettable Tremiti adventure."
+      }
+    }
+  }
+}

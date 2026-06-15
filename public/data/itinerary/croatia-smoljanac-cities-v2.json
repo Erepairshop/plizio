@@ -1,0 +1,474 @@
+{
+  "city_id": "croatia-smoljanac-cities-v2",
+  "anchor": {
+    "name": "Smoljanac",
+    "coords": [
+      15.6501,
+      44.9433
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:46",
+      "total_km": 6.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Mlin",
+            "hu": "Mlin",
+            "ro": "Mlin",
+            "en": "Mlin Watermill"
+          },
+          "coords": [
+            15.652062,
+            44.947009
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle Mühle am Fluss, die die historische Lebensweise zeigt, und kommen Sie früh, um die friedliche Morgenstimmung am Wasser zu genießen.",
+            "hu": "Csodálja meg a folyóparti hagyományos vízimalmot, amely a történelmi életmódot mutatja be, és érkezzen korán, hogy élvezze a víz csendes reggeli hangulatát.",
+            "ro": "Admirați moara tradițională de pe râu, care ilustrează modul de viață istoric, și ajungeți devreme pentru a vă bucura de atmosfera liniștită a dimineții.",
+            "en": "Admire the traditional river mill showcasing the historical way of life, and arrive early to fully enjoy the peaceful morning atmosphere by the rushing water."
+          }
+        },
+        {
+          "name": {
+            "de": "Korana-Blick",
+            "hu": "Korana-kilátó",
+            "ro": "Priveliștea Korana",
+            "en": "Korana View"
+          },
+          "coords": [
+            15.661083,
+            44.948824
+          ],
+          "category": "natural",
+          "arrive_at": "09:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie das atemberaubende Panorama der tiefen Korana-Schlucht, die für ihre smaragdgrüne Farbe bekannt ist, und bringen Sie ein Weitwinkelobjektiv für Fotos mit.",
+            "hu": "Élvezze a mély, smaragdzöld színéről híres Korana-szurdok lélegzetelállító panorámáját, és hozzon magával nagylátószögű objektívet a tökéletes tájképekhez.",
+            "ro": "Bucurați-vă de panorama uluitoare a defileului adânc Korana, faimos pentru culoarea sa de smarald, și aduceți un obiectiv superangular pentru cele mai bune poze.",
+            "en": "Enjoy the breathtaking panorama of the deep Korana gorge, famous for its emerald green color, and bring a wide-angle lens to capture the best landscape photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Drežnik",
+            "hu": "Drežnik vára",
+            "ro": "Cetatea Drežnik",
+            "en": "Drežnik Old Town"
+          },
+          "coords": [
+            15.668926,
+            44.943144
+          ],
+          "category": "historical",
+          "arrive_at": "11:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Ruinen dieser mittelalterlichen Festung, die einst die Region verteidigte, und tragen Sie feste Schuhe für das unebene Gelände.",
+            "hu": "Fedezze fel e középkori erődítmény lenyűgöző romjait, amely egykor a régiót védte, és viseljen masszív cipőt az egyenetlen, kavicsos terep miatt.",
+            "ro": "Explorați ruinele fascinante ale acestei cetăți medievale, care apăra odinioară regiunea, și purtați încălțăminte robustă pentru terenul accidentat.",
+            "en": "Explore the fascinating ruins of this medieval fortress that once defended the region, and wear sturdy shoes to safely navigate the uneven, rocky terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Hirschtal",
+            "hu": "Szarvas-völgy",
+            "ro": "Valea Cerbilor",
+            "en": "Deer Valley"
+          },
+          "coords": [
+            15.677739,
+            44.938656
+          ],
+          "category": "recreational",
+          "arrive_at": "12:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erleben Sie majestätische Hirsche in ihrem natürlichen Lebensraum hautnah, was besonders für Familien toll ist, und halten Sie sich ruhig, um sie nicht zu stören.",
+            "hu": "Tapasztalja meg a fenséges szarvasok közelségét természetes élőhelyükön, ami kiváló családi program, és maradjon csendben, hogy ne ijessze el az állatokat.",
+            "ro": "Experimentați proximitatea cu cerbii maiestuoși în habitatul lor natural, o activitate excelentă pentru familii, și păstrați liniștea pentru a nu-i speria.",
+            "en": "Experience majestic deer up close in their natural habitat, which is an excellent family activity, and remember to stay very quiet so you do not startle them."
+          }
+        },
+        {
+          "name": {
+            "de": "Hrastovi vrh",
+            "hu": "Hrastovi vrh",
+            "ro": "Hrastovi vrh",
+            "en": "Hrastovi vrh"
+          },
+          "coords": [
+            15.631911,
+            44.924349
+          ],
+          "category": "natural",
+          "arrive_at": "15:01",
+          "stay_min": 105,
+          "hop_from_prev_min": 59,
+          "hop_from_prev_km": 3.9,
+          "tip_5lang": {
+            "de": "Wandern Sie auf diesen bewaldeten Gipfel für unberührte Natur und einen tollen Ausblick, und nehmen Sie ausreichend Wasser mit, da es hier keine Geschäfte gibt.",
+            "hu": "Túrázzon fel erre az erdős csúcsra az érintetlen természetért és a remek kilátásért, és vigyen magával elegendő vizet, mivel a környéken nincsenek boltok.",
+            "ro": "Urcați pe acest vârf împădurit pentru o natură neatinsă și o priveliște minunată, și luați cu voi suficientă apă, deoarece nu există magazine în apropiere.",
+            "en": "Hike up to this forested peak for untouched nature and a magnificent viewpoint, and be sure to carry plenty of water since there are no facilities around."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unser Morgen beginnt entspannt bei einer traditionellen Mühle, wo das Rauschen des Wassers den perfekten Soundtrack liefert. Danach spazieren wir zu einem spektakulären Aussichtspunkt über den Fluss. / Mittags erreichen wir die historische Festung Drežnik, wo wir die mittelalterliche Architektur erkunden und die strategische Lage über dem Tal bewundern. / Der Nachmittag führt uns in das friedliche Hirschtal, ein Naturerlebnis der besonderen Art. Von hier wandern wir weiter durch die sanften Landschaften. / Zum Abend hin erreichen wir den bewaldeten Hrastovi vrh. Hier lassen wir den Tag bei einem herrlichen Ausblick und völliger Ruhe in der Natur ausklingen.",
+        "hu": "A reggelt egy hagyományos vízimalomnál kezdjük, ahol a víz csobogása tökéletes alaphangot ad. Ezt követően egy látványos, folyóra néző kilátóhoz sétálunk. / Délben elérjük a történelmi Drežnik várát, ahol felfedezzük a középkori építészetet és megcsodáljuk a völgy feletti lenyűgöző, stratégiai elhelyezkedését. / A délután a békés Szarvas-völgybe vezet minket, amely különleges természetközeli élményt nyújt. Innen továbbsétálunk a szelíd, zöldellő tájakon keresztül. / Estefelé felérünk az erdős Hrastovi vrh csúcsára. Itt a lenyűgöző kilátás és a természet teljes nyugalma mellett pihenjük ki az egész napos séta fáradalmait.",
+        "ro": "Dimineața începe relaxant la o moară tradițională, unde sunetul apei ne oferă fundalul perfect. Apoi ne plimbăm spre un punct de belvedere spectaculos. / La prânz ajungem la cetatea istorică Drežnik, unde explorăm arhitectura medievală și admirăm locația strategică deasupra văii înverzite. / După-amiaza ne duce în pașnica Vale a Cerbilor, o experiență deosebită în mijlocul naturii. De aici continuăm drumeția prin peisajele blânde. / Spre seară ajungem pe vârful împădurit Hrastovi vrh. Aici încheiem ziua bucurându-ne de o priveliște minunată și de liniștea deplină a naturii.",
+        "en": "Our morning begins smoothly at a traditional watermill, where the rushing river provides the perfect soundtrack. From there, we stroll to a spectacular riverside viewpoint. / By midday, we reach the historical Drežnik fortress. We explore the imposing medieval architecture and admire its strategic, commanding position above the canyon. / The afternoon leads us to the peaceful Deer Valley, offering a unique chance to connect with local wildlife. We continue our scenic hike through the gentle, green landscapes. / As evening approaches, we conquer the forested peak of Hrastovi vrh. We wrap up our long day of walking with a magnificent view and the profound silence of untouched nature."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 7.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Korana-Blick",
+            "hu": "Korana-kilátó",
+            "ro": "Priveliștea Korana",
+            "en": "Korana View"
+          },
+          "coords": [
+            15.661083,
+            44.948824
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie das atemberaubende Panorama der tiefen Korana-Schlucht, die für ihre smaragdgrüne Farbe bekannt ist, und bringen Sie ein Weitwinkelobjektiv für Fotos mit.",
+            "hu": "Élvezze a mély, smaragdzöld színéről híres Korana-szurdok lélegzetelállító panorámáját, és hozzon magával nagylátószögű objektívet a tökéletes tájképekhez.",
+            "ro": "Bucurați-vă de panorama uluitoare a defileului adânc Korana, faimos pentru culoarea sa de smarald, și aduceți un obiectiv superangular pentru cele mai bune poze.",
+            "en": "Enjoy the breathtaking panorama of the deep Korana gorge, famous for its emerald green color, and bring a wide-angle lens to capture the best landscape photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Drežnik",
+            "hu": "Drežnik vára",
+            "ro": "Cetatea Drežnik",
+            "en": "Drežnik Old Town"
+          },
+          "coords": [
+            15.668926,
+            44.943144
+          ],
+          "category": "historical",
+          "arrive_at": "10:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Ruinen dieser mittelalterlichen Festung, die einst die Region verteidigte, und tragen Sie feste Schuhe für das unebene Gelände.",
+            "hu": "Fedezze fel e középkori erődítmény lenyűgöző romjait, amely egykor a régiót védte, és viseljen masszív cipőt az egyenetlen, kavicsos terep miatt.",
+            "ro": "Explorați ruinele fascinante ale acestei cetăți medievale, care apăra odinioară regiunea, și purtați încălțăminte robustă pentru terenul accidentat.",
+            "en": "Explore the fascinating ruins of this medieval fortress that once defended the region, and wear sturdy shoes to safely navigate the uneven, rocky terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Hrastovi vrh",
+            "hu": "Hrastovi vrh",
+            "ro": "Hrastovi vrh",
+            "en": "Hrastovi vrh"
+          },
+          "coords": [
+            15.631911,
+            44.924349
+          ],
+          "category": "natural",
+          "arrive_at": "12:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Wandern Sie auf diesen bewaldeten Gipfel für unberührte Natur und einen tollen Ausblick, und nehmen Sie ausreichend Wasser mit, da es hier keine Geschäfte gibt.",
+            "hu": "Túrázzon fel erre az erdős csúcsra az érintetlen természetért és a remek kilátásért, és vigyen magával elegendő vizet, mivel a környéken nincsenek boltok.",
+            "ro": "Urcați pe acest vârf împădurit pentru o natură neatinsă și o priveliște minunată, și luați cu voi suficientă apă, deoarece nu există magazine în apropiere.",
+            "en": "Hike up to this forested peak for untouched nature and a magnificent viewpoint, and be sure to carry plenty of water since there are no facilities around."
+          }
+        },
+        {
+          "name": {
+            "de": "Novakovića brod",
+            "hu": "Novakovića brod",
+            "ro": "Novakovića brod",
+            "en": "Novakovića brod"
+          },
+          "coords": [
+            15.609901,
+            44.902212
+          ],
+          "category": "natural",
+          "arrive_at": "13:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen unteren See der Plitvicer Seen mit seinem klaren Wasser, und nutzen Sie den Holzsteg am Rand, um die besten Winkel ohne nasse Füße zu finden.",
+            "hu": "Csodálja meg a Plitvicei-tavak alsó részének kristálytiszta vizét, és használja a szélén lévő fa sétányokat, hogy száraz lábbal találja meg a legjobb fotószögeket.",
+            "ro": "Admirați acest lac inferior al lacurilor Plitvice, cu apa sa cristalină, și folosiți pasarelele de lemn pentru a găsi cele mai bune unghiuri fără să vă udați.",
+            "en": "Admire this lower lake of the Plitvice Lakes system with its crystal-clear water, and use the wooden boardwalks to find the best viewing angles while staying dry."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaluđerovac-See",
+            "hu": "Kaluđerovac-tó",
+            "ro": "Lacul Kaluđerovac",
+            "en": "Lake Kaluđerovac"
+          },
+          "coords": [
+            15.610764,
+            44.901159
+          ],
+          "category": "natural",
+          "arrive_at": "14:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die unglaublichen Blautöne dieses malerischen Sees inmitten steiler Klippen, und bleiben Sie auf den markierten Wegen, um das empfindliche Ökosystem zu schützen.",
+            "hu": "Fedezze fel ennek a meredek sziklák között fekvő festői tónak a hihetetlen kék árnyalatait, és maradjon a kijelölt ösvényeken az érzékeny ökoszisztéma védelme érdekében.",
+            "ro": "Descoperiți nuanțele incredibile de albastru ale acestui lac pitoresc înconjurat de stânci abrupte, și rămâneți pe potecile marcate pentru a proteja ecosistemul fragil.",
+            "en": "Discover the incredible blue hues of this picturesque lake surrounded by steep cliffs, and stay firmly on the marked paths to protect the fragile local ecosystem."
+          }
+        },
+        {
+          "name": {
+            "de": "Milanovac-See",
+            "hu": "Milanovac-tó",
+            "ro": "Lacul Milanovac",
+            "en": "Lake Milanovac"
+          },
+          "coords": [
+            15.609751,
+            44.896303
+          ],
+          "category": "natural",
+          "arrive_at": "16:14",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Staunen Sie über den größten See der unteren Gruppe, der von üppigem Grün umrahmt wird, und machen Sie hier eine kurze Pause, um dem Rauschen der Wasserfälle zuzuhören.",
+            "hu": "Ámuljon el az alsó tócsoport legnagyobb taván, amelyet buja zöld növényzet keretez, és tartson itt egy rövid pihenőt, hogy hallgassa a vízesések nyugtató zúgását.",
+            "ro": "Minunați-vă de cel mai mare lac din grupul inferior, înconjurat de verdeață luxuriantă, și faceți o scurtă pauză aici pentru a asculta sunetul liniștitor al cascadelor.",
+            "en": "Marvel at the largest lake of the lower group framed by lush, vibrant greenery, and take a short rest here to just listen to the soothing sound of nearby waterfalls."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir radeln am Morgen entspannt los und erreichen schnell einen atemberaubenden Aussichtspunkt über die smaragdgrüne Korana, der sofort begeistert. / Bis zum Mittag erreichen wir die Ruinen der Burg Drežnik. Nach einer historischen Erkundung fahren wir weiter durch hügelige Landschaften Richtung Süden. / Der Nachmittag bringt uns zum Hrastovi vrh und dann rasant hinab zu den ersten Seen, wo das kristallklare Wasser von Novakovića brod wartet. / Den Abend verbringen wir damit, entlang der unteren Plitvicer Seen zu radeln. Die magische Stimmung an den Kaskaden von Kaluđerovac und Milanovac ist unvergesslich.",
+        "hu": "Kényelmes tempóban kezdjük a reggeli kerékpározást, és hamarosan elérjük a smaragdzöld Korana folyó feletti lélegzetelállító kilátót, amely azonnal elvarázsol. / Délre megérkezünk Drežnik várának romjaihoz. A történelmi felfedezőút után dombos tájakon keresztül tekerünk tovább dél felé. / A délután elvisz minket a Hrastovi vrh csúcsához, majd onnan legurulunk az első tavakhoz, ahol Novakovića brod kristálytiszta vize vár ránk. / Az estét a Plitvicei-tavak alsó szakaszánál töltjük. A Kaluđerovac és a Milanovac vízeséseinél uralkodó varázslatos hangulat egy életre szóló élmény marad.",
+        "ro": "Începem dimineața pedalând relaxat și ajungem rapid la un punct de belvedere uimitor deasupra râului de smarald Korana, care impresionează instantaneu. / Până la prânz ajungem la ruinele Cetății Drežnik. După o incursiune în istorie, continuăm să mergem pe bicicletă spre sud, prin peisajele deluroase. / După-amiaza ne aduce la Hrastovi vrh și apoi coborâm rapid spre primele lacuri, unde ne așteaptă apele cristaline de la Novakovića brod. / Ne petrecem seara mergând pe lângă lacurile inferioare Plitvice. Atmosfera magică de la cascadele Kaluđerovac și Milanovac este absolut de neuitat.",
+        "en": "We start our ride at a relaxed pace, quickly reaching a breathtaking viewpoint over the emerald green Korana river that will instantly captivate you. / By midday, we arrive at the ruins of Drežnik Fortress. After uncovering its medieval history, we pedal further south through beautiful rolling countryside. / The afternoon brings us to Hrastovi vrh, followed by an exhilarating descent toward the first lakes, where the crystal-clear waters of Novakovića brod await. / We spend the evening cycling smoothly past the lower Plitvice Lakes. The magical twilight atmosphere around Kaluđerovac and Milanovac is truly unforgettable."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:53",
+      "total_km": 9.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Hirschtal",
+            "hu": "Szarvas-völgy",
+            "ro": "Valea Cerbilor",
+            "en": "Deer Valley"
+          },
+          "coords": [
+            15.677739,
+            44.938656
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erleben Sie majestätische Hirsche in ihrem natürlichen Lebensraum hautnah, was besonders für Familien toll ist, und halten Sie sich ruhig, um sie nicht zu stören.",
+            "hu": "Tapasztalja meg a fenséges szarvasok közelségét természetes élőhelyükön, ami kiváló családi program, és maradjon csendben, hogy ne ijessze el az állatokat.",
+            "ro": "Experimentați proximitatea cu cerbii maiestuoși în habitatul lor natural, o activitate excelentă pentru familii, și păstrați liniștea pentru a nu-i speria.",
+            "en": "Experience majestic deer up close in their natural habitat, which is an excellent family activity, and remember to stay very quiet so you do not startle them."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg Drežnik",
+            "hu": "Drežnik vára",
+            "ro": "Cetatea Drežnik",
+            "en": "Drežnik Old Town"
+          },
+          "coords": [
+            15.668926,
+            44.943144
+          ],
+          "category": "historical",
+          "arrive_at": "10:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Ruinen dieser mittelalterlichen Festung, die einst die Region verteidigte, und tragen Sie feste Schuhe für das unebene Gelände.",
+            "hu": "Fedezze fel e középkori erődítmény lenyűgöző romjait, amely egykor a régiót védte, és viseljen masszív cipőt az egyenetlen, kavicsos terep miatt.",
+            "ro": "Explorați ruinele fascinante ale acestei cetăți medievale, care apăra odinioară regiunea, și purtați încălțăminte robustă pentru terenul accidentat.",
+            "en": "Explore the fascinating ruins of this medieval fortress that once defended the region, and wear sturdy shoes to safely navigate the uneven, rocky terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Novakovića brod",
+            "hu": "Novakovića brod",
+            "ro": "Novakovića brod",
+            "en": "Novakovića brod"
+          },
+          "coords": [
+            15.609901,
+            44.902212
+          ],
+          "category": "natural",
+          "arrive_at": "12:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 6.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen unteren See der Plitvicer Seen mit seinem klaren Wasser, und nutzen Sie den Holzsteg am Rand, um die besten Winkel ohne nasse Füße zu finden.",
+            "hu": "Csodálja meg a Plitvicei-tavak alsó részének kristálytiszta vizét, és használja a szélén lévő fa sétányokat, hogy száraz lábbal találja meg a legjobb fotószögeket.",
+            "ro": "Admirați acest lac inferior al lacurilor Plitvice, cu apa sa cristalină, și folosiți pasarelele de lemn pentru a găsi cele mai bune unghiuri fără să vă udați.",
+            "en": "Admire this lower lake of the Plitvice Lakes system with its crystal-clear water, and use the wooden boardwalks to find the best viewing angles while staying dry."
+          }
+        },
+        {
+          "name": {
+            "de": "Gavanovac-See",
+            "hu": "Gavanovac-tó",
+            "ro": "Lacul Gavanovac",
+            "en": "Lake Gavanovac"
+          },
+          "coords": [
+            15.61111,
+            44.899046
+          ],
+          "category": "natural",
+          "arrive_at": "13:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beobachten Sie die faszinierenden Fischschwärme im glasklaren Wasser dieses kleineren Sees, und nutzen Sie eine polarisierende Sonnenbrille, um Reflexionen zu minimieren.",
+            "hu": "Figyelje meg a lenyűgöző halrajokat ennek a kisebb tónak a kristálytiszta vizében, és használjon polarizált napszemüveget a víz felszíni tükröződésének csökkentésére.",
+            "ro": "Observați bancurile fascinante de pești în apa cristalină a acestui lac mai mic, și purtați ochelari de soare polarizați pentru a vedea mai bine prin reflexiile apei.",
+            "en": "Watch the fascinating schools of fish in the crystal-clear waters of this smaller lake, and wear polarized sunglasses to cut through the water's surface reflections."
+          }
+        },
+        {
+          "name": {
+            "de": "Kozjak-See",
+            "hu": "Kozjak-tó",
+            "ro": "Lacul Kozjak",
+            "en": "Lake Kozjak"
+          },
+          "coords": [
+            15.609557,
+            44.884667
+          ],
+          "category": "natural",
+          "arrive_at": "14:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Genießen Sie eine Bootsfahrt auf dem größten der Plitvicer Seen mit seiner kleinen Insel, und kaufen Sie Ihr Ticket im Voraus, um lange Warteschlangen am Ufer zu vermeiden.",
+            "hu": "Élvezze a hajókázást a Plitvicei-tavak legnagyobbikán, melynek saját kis szigete is van, és vegye meg a jegyet előre, hogy elkerülje a hosszú sorban állást a parton.",
+            "ro": "Bucurați-vă de o plimbare cu barca pe cel mai mare lac din Plitvice, care are o mică insulă, și cumpărați biletul în avans pentru a evita cozile lungi de la mal.",
+            "en": "Enjoy a peaceful boat ride across the largest of the Plitvice Lakes featuring a small island, and buy your ticket well in advance to avoid long queues at the dock."
+          }
+        },
+        {
+          "name": {
+            "de": "Gradinsko-See",
+            "hu": "Gradinsko-tó",
+            "ro": "Lacul Gradinsko",
+            "en": "Lake Gradinsko"
+          },
+          "coords": [
+            15.611278,
+            44.878235
+          ],
+          "category": "natural",
+          "arrive_at": "15:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von den herrlichen Travertin-Barrieren und den kleinen Kaskaden verzaubern, und versuchen Sie, diesen Ort am späten Nachmittag für weiches, magisches Licht zu besuchen.",
+            "hu": "Engedje, hogy elvarázsolják a lenyűgöző mésztufa gátak és az apró vízesések, és próbálja meg késő délután felkeresni ezt a helyet a lágy, varázslatos fényviszonyokért.",
+            "ro": "Lăsați-vă fermecați de barierele de travertin magnifice și de cascadele mici, și încercați să vizitați acest loc după-amiaza târziu pentru o lumină moale, magică.",
+            "en": "Be enchanted by the magnificent travertine barriers and countless small cascades, and try to time your visit for the late afternoon to experience soft, magical lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Burget-Seen",
+            "hu": "Burget-tavak",
+            "ro": "Lacurile Burget",
+            "en": "Burget Lakes"
+          },
+          "coords": [
+            15.614494,
+            44.879143
+          ],
+          "category": "natural",
+          "arrive_at": "17:08",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese kleine, ruhige Seenplatte, die oft weniger überlaufen ist, und nehmen Sie sich Zeit, die vielfältige Vogelwelt in den flachen Gewässern zu beobachten.",
+            "hu": "Fedezze fel ezt a kicsi, csendes tóvidéket, amely gyakran kevésbé zsúfolt, és szánjon időt a sekély vizekben élő változatos madárvilág nyugodt megfigyelésére.",
+            "ro": "Explorați această zonă mică și liniștită de lacuri, care este adesea mai puțin aglomerată, și faceți-vă timp pentru a observa avifauna diversă din apele puțin adânci.",
+            "en": "Explore this small, quiet string of lakes that is often much less crowded, and take your time to patiently observe the diverse birdlife wading in the shallow waters."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Roadtrip startet mit einem Besuch im Hirschtal, wo wir die friedlichen Tiere am Morgen beobachten. Danach geht es zur nahegelegenen Burg Drežnik. / Zur Mittagszeit fahren wir in den Nationalparkbereich und bestaunen die ersten klaren Seen wie Novakovića brod und Gavanovac mit ihren vielen Fischen. / Der Nachmittag gehört dem gigantischen Kozjak-See. Wir wechseln von der Straße auf ein Boot und genießen die atemberaubende Natur vom Wasser aus. / Am Abend fahren wir zu den letzten Seegruppen, Gradinsko und Burget. Das sanfte Licht auf den Travertin-Barrieren bildet den perfekten Abschluss.",
+        "hu": "Az autós túránk a Szarvas-völgyben indul, ahol a reggeli órákban békésen legelésző állatokat figyelhetjük meg. Ezután a közeli Drežnik várához hajtunk. / Délben belépünk a nemzeti park területére, és megcsodáljuk az olyan kristálytiszta tavakat, mint a Novakovića brod és a halakban gazdag Gavanovac. / A délután a hatalmas Kozjak-tóé. Kiszállunk az autóból, és egy hajókázás során a vízről élvezzük a lélegzetelállító környezetet. / Este az utolsó tócsoportokhoz, a Gradinsko és a Burget felé vesszük az irányt. A mésztufa gátakon megcsillanó lágy fény tökéletes befejezése a napnak.",
+        "ro": "Excursia noastră cu mașina începe cu o vizită în Valea Cerbilor, unde observăm animalele pașnice de dimineață. Apoi mergem la Cetatea Drežnik din apropiere. / La prânz intrăm în zona parcului național și admirăm primele lacuri limpezi, precum Novakovića brod și Gavanovac, pline de pești. / După-amiaza este dedicată uriașului lac Kozjak. Părăsim mașina pentru o plimbare cu barca și ne bucurăm de natura uluitoare de pe apă. / Seara conducem spre ultimele grupuri de lacuri, Gradinsko și Burget. Lumina moale a asfințitului reflectată pe barierele de travertin încheie perfect ziua.",
+        "en": "Our road trip kicks off with a morning visit to Deer Valley, quietly observing the peaceful animals before making a short drive over to Drežnik Fortress. / Around midday, we drive down into the national park area. We marvel at the pristine lower lakes like Novakovića brod and the fish-filled waters of Gavanovac. / The afternoon is dedicated to the massive Lake Kozjak. We leave the car behind to enjoy a scenic boat ride, taking in the breathtaking views from the water. / In the evening, we cruise toward the final lake clusters, Gradinsko and Burget. The soft twilight reflecting off the travertine barriers makes a perfect finale."
+      }
+    }
+  }
+}

@@ -1,0 +1,428 @@
+{
+  "city_id": "cuautla-cities-v2",
+  "anchor": {
+    "name": "Cuautla",
+    "coords": [
+      -98.9567,
+      18.8094
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 2.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo del Oriente de Morelos \"Casa de Morelos\"",
+            "hu": "Museo del Oriente de Morelos \"Casa de Morelos\"",
+            "ro": "Museo del Oriente de Morelos \"Casa de Morelos\"",
+            "en": "Museo del Oriente de Morelos \"Casa de Morelos\""
+          },
+          "coords": [
+            -98.955432,
+            18.812023
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte des mexikanischen Unabhängigkeitskrieges in diesem gut erhaltenen Kolonialhaus und kommen Sie früh wegen der Hitze.",
+            "hu": "Fedezze fel a mexikói függetlenségi háború történetét ebben a jól karbantartott gyarmati házban, de érkezzen korán a déli hőség elkerülése végett.",
+            "ro": "Descoperiți istoria războiului de independență al Mexicului în această casă colonială bine conservată, dar ajungeți devreme pentru a evita căldura.",
+            "en": "Discover the rich history of the Mexican War of Independence in this well-preserved colonial house, but arrive early to avoid the midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo vivencia ferrocarril 279",
+            "hu": "Museo vivencia ferrocarril 279",
+            "ro": "Museo vivencia ferrocarril 279",
+            "en": "Museo vivencia ferrocarril 279"
+          },
+          "coords": [
+            -98.954205,
+            18.816943
+          ],
+          "category": "museum",
+          "arrive_at": "10:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Dampflokomotive 279 in diesem Freilicht-Eisenbahnmuseum, wo bequeme Schuhe für die alten Gleise sehr empfehlenswert sind.",
+            "hu": "Csodálja meg a 279-es gőzmozdonyt ebben a szabadtéri vasúti múzeumban, ahol kényelmes cipő ajánlott a régi síneken való sétáláshoz és felfedezéshez.",
+            "ro": "Admirați locomotiva cu abur istorică 279 în acest muzeu feroviar în aer liber, unde se recomandă încălțăminte comodă pentru a merge pe șinele vechi.",
+            "en": "Admire the historic steam locomotive number 279 in this open-air railway museum, where comfortable shoes are recommended for walking on the old tracks."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a la Bandera",
+            "hu": "Monumento a la Bandera",
+            "ro": "Monumento a la Bandera",
+            "en": "Monumento a la Bandera"
+          },
+          "coords": [
+            -98.952914,
+            18.81896
+          ],
+          "category": "historical",
+          "arrive_at": "12:44",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Machen Sie ein schnelles Foto an diesem markanten Denkmal für die mexikanische Flagge, das als hervorragender Orientierungspunkt in der Stadt dient.",
+            "hu": "Készítsen egy gyors fotót a mexikói zászlónak szentelt emlékműnél, amely kiváló tájékozódási pontként szolgál a nyüzsgő belvárosban való séta során.",
+            "ro": "Faceți o fotografie rapidă la acest monument dedicat steagului mexican, care servește drept punct central de orientare excelent în orașul aglomerat.",
+            "en": "Take a quick photo at this prominent monument dedicated to the Mexican flag, which serves as an excellent central orientation point in the bustling city."
+          }
+        },
+        {
+          "name": {
+            "de": "Balneario Los limones",
+            "hu": "Balneario Los limones",
+            "ro": "Balneario Los limones",
+            "en": "Balneario Los limones"
+          },
+          "coords": [
+            -98.9485,
+            18.814232
+          ],
+          "category": "recreational",
+          "arrive_at": "13:09",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in den erfrischenden Becken dieses beliebten Wasserparks und denken Sie daran, eigenes Handtuch und Sonnencreme mitzubringen.",
+            "hu": "Pihenjen ennek a népszerű helyi víziparknak a hűsítő medencéiben, és ne felejtsen el saját törölközőt és naptejet hozni a kényelmes látogatáshoz.",
+            "ro": "Relaxați-vă în piscinele răcoritoare ale acestui parc acvatic popular și nu uitați să aduceți propriul prosop și cremă de soare pentru o vizită plăcută.",
+            "en": "Relax in the clear, refreshing pools of this popular local aquatic park, and remember to pack your own towel and sunscreen for a comfortable visit."
+          }
+        },
+        {
+          "name": {
+            "de": "AGUA LINDA",
+            "hu": "AGUA LINDA",
+            "ro": "AGUA LINDA",
+            "en": "AGUA LINDA"
+          },
+          "coords": [
+            -98.949707,
+            18.807089
+          ],
+          "category": "family",
+          "arrive_at": "15:01",
+          "stay_min": 130,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour mit familiärem Spaß in diesem einladenden Quellwasser, wo Sie kurz vor Sonnenuntergang die entspannteste Atmosphäre vorfinden.",
+            "hu": "Zárja a gyalogtúrát családi szórakozással ezekben a barátságos forrásvizekben, ahol a naplemente előtti érkezés nyújtja a legkellemesebb hangulatot.",
+            "ro": "Încheiați-vă turul cu o distracție în familie în aceste ape de izvor primitoare, unde sosirea înainte de apus oferă cea mai relaxantă atmosferă.",
+            "en": "End your walking tour with family fun in these welcoming spring waters, where arriving slightly before sunset offers the most relaxing atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unsere Wanderung durch Cuautla beginnt im historischen Casa de Morelos.\n\nWir gehen weiter zum lebhaften Eisenbahnmuseum und passieren das symbolträchtige Flaggenmonument.\n\nDer Nachmittag bringt Erfrischung im Balneario Los limones, wo wir uns in den Pools abkühlen können.\n\nWir lassen den Tag im Agua Linda in einer entspannten, familienfreundlichen Atmosphäre ausklingen.",
+        "hu": "Cuautlai gyalogtúránk a történelmi Casa de Morelosnál kezdődik, ahol elmerülhetünk a forradalmi múltban.\n\nTovábbsétálunk a nyüzsgő vasúti múzeum felé, és útba ejtjük a szimbolikus Zászló Emlékművet is.\n\nA délután felfrissülést hoz, amikor meglátogatjuk a Balneario Los limones medencéit, hogy lehűljünk.\n\nA napot az Agua Linda nyugodt, családbarát környezetében zárjuk, ahogy a nap lemegy a forrásvizek felett.",
+        "ro": "Turul nostru pietonal prin Cuautla începe la istorica Casa de Morelos.\n\nContinuăm către vibrantul muzeu feroviar și trecem pe lângă simbolicul Monument al Steagului.\n\nDupă-amiaza aduce o ușurare răcoroasă pe măsură ce vizităm Balneario Los limones pentru a ne răcori.\n\nÎncheiem ziua la Agua Linda, bucurându-ne de o atmosferă relaxată și prietenoasă, odată cu apusul soarelui.",
+        "en": "Our walking tour of Cuautla begins at the historic Casa de Morelos, where we dive into the city's rich revolutionary past.\n\nWe continue to the vibrant railway museum and pass by the symbolic Flag Monument for a quick photo opportunity in the bustling center.\n\nThe afternoon brings refreshing relief as we visit Balneario Los limones to cool off in the local aquatic pools.\n\nWe conclude the day at Agua Linda, enjoying a relaxed family-friendly atmosphere as the sun sets over the spring waters."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:46",
+      "total_km": 5.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ex Hacienda Coauixtla",
+            "hu": "Ex Hacienda Coauixtla",
+            "ro": "Ex Hacienda Coauixtla",
+            "en": "Ex Hacienda Coauixtla"
+          },
+          "coords": [
+            -98.966015,
+            18.792484
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die stimmungsvollen Ruinen dieser historischen Zuckerhacienda, aber bleiben Sie auf den Hauptwegen, da einige alte Strukturen instabil sind.",
+            "hu": "Fedezze fel ennek a 16. századi cukorhaciendának a hangulatos romjait, de maradjon a főutakon, mivel a régebbi épületek egy része már kissé omladozik.",
+            "ro": "Explorați ruinele atmosferice ale acestei haciende istorice de zahăr, dar rămâneți pe cărările principale, deoarece unele structuri vechi sunt instabile.",
+            "en": "Explore the atmospheric ruins of this historic 16th-century sugar hacienda, but stick to the main paths as some of the older structures are unstable."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Oriente de Morelos \"Casa de Morelos\"",
+            "hu": "Museo del Oriente de Morelos \"Casa de Morelos\"",
+            "ro": "Museo del Oriente de Morelos \"Casa de Morelos\"",
+            "en": "Museo del Oriente de Morelos \"Casa de Morelos\""
+          },
+          "coords": [
+            -98.955432,
+            18.812023
+          ],
+          "category": "museum",
+          "arrive_at": "10:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte des mexikanischen Unabhängigkeitskrieges in diesem gut erhaltenen Kolonialhaus und kommen Sie früh wegen der Hitze.",
+            "hu": "Fedezze fel a mexikói függetlenségi háború történetét ebben a jól karbantartott gyarmati házban, de érkezzen korán a déli hőség elkerülése végett.",
+            "ro": "Descoperiți istoria războiului de independență al Mexicului în această casă colonială bine conservată, dar ajungeți devreme pentru a evita căldura.",
+            "en": "Discover the rich history of the Mexican War of Independence in this well-preserved colonial house, but arrive early to avoid the midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo vivencia ferrocarril 279",
+            "hu": "Museo vivencia ferrocarril 279",
+            "ro": "Museo vivencia ferrocarril 279",
+            "en": "Museo vivencia ferrocarril 279"
+          },
+          "coords": [
+            -98.954205,
+            18.816943
+          ],
+          "category": "museum",
+          "arrive_at": "12:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Dampflokomotive 279 in diesem Freilicht-Eisenbahnmuseum, wo bequeme Schuhe für die alten Gleise sehr empfehlenswert sind.",
+            "hu": "Csodálja meg a 279-es gőzmozdonyt ebben a szabadtéri vasúti múzeumban, ahol kényelmes cipő ajánlott a régi síneken való sétáláshoz és felfedezéshez.",
+            "ro": "Admirați locomotiva cu abur istorică 279 în acest muzeu feroviar în aer liber, unde se recomandă încălțăminte comodă pentru a merge pe șinele vechi.",
+            "en": "Admire the historic steam locomotive number 279 in this open-air railway museum, where comfortable shoes are recommended for walking on the old tracks."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a la Bandera",
+            "hu": "Monumento a la Bandera",
+            "ro": "Monumento a la Bandera",
+            "en": "Monumento a la Bandera"
+          },
+          "coords": [
+            -98.952914,
+            18.81896
+          ],
+          "category": "historical",
+          "arrive_at": "14:08",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Machen Sie ein schnelles Foto an diesem markanten Denkmal für die mexikanische Flagge, das als hervorragender Orientierungspunkt in der Stadt dient.",
+            "hu": "Készítsen egy gyors fotót a mexikói zászlónak szentelt emlékműnél, amely kiváló tájékozódási pontként szolgál a nyüzsgő belvárosban való séta során.",
+            "ro": "Faceți o fotografie rapidă la acest monument dedicat steagului mexican, care servește drept punct central de orientare excelent în orașul aglomerat.",
+            "en": "Take a quick photo at this prominent monument dedicated to the Mexican flag, which serves as an excellent central orientation point in the bustling city."
+          }
+        },
+        {
+          "name": {
+            "de": "BALNEARIO AGUA HEDIONDA",
+            "hu": "BALNEARIO AGUA HEDIONDA",
+            "ro": "BALNEARIO AGUA HEDIONDA",
+            "en": "BALNEARIO AGUA HEDIONDA"
+          },
+          "coords": [
+            -98.930083,
+            18.815649
+          ],
+          "category": "family",
+          "arrive_at": "14:36",
+          "stay_min": 130,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Baden Sie in dem berühmten schwefelhaltigen Thermalwasser mit heilender Wirkung, auch wenn Sie sich erst an den natürlichen Geruch gewöhnen müssen.",
+            "hu": "Mártózzon meg a gyógyhatású, híres kénes termálvizekben, bár az erős természetes illatot néhány percbe telhet megszokni a fürdőzés megkezdésekor.",
+            "ro": "Scăldați-vă în faimoasele ape termale sulfuroase cunoscute pentru vindecare, deși s-ar putea să aveți nevoie de timp pentru a vă obișnui cu mirosul.",
+            "en": "Soak in the famous sulfurous thermal waters known for their healing properties, though the strong natural scent may take a few minutes to get used to."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Fahrradroute beginnt im Süden bei den faszinierenden Ruinen der Ex Hacienda Coauixtla.\n\nZurück im Zentrum erkunden wir das Casa de Morelos und die alten Dampflokomotiven im Eisenbahnmuseum.\n\nNach einem kurzen Halt am Flaggenmonument radeln wir in Richtung Osten zu den berühmten Thermalquellen.\n\nWir verbringen einen entspannten Abend in den heißen, schwefelhaltigen Quellen von Balneario Agua Hedionda.",
+        "hu": "A kerékpáros útvonal délen kezdődik az Ex Hacienda Coauixtla lenyűgöző romjainál, bepillantást nyújtva a gyarmati korszakba.\n\nVisszatekerve a központba, felfedezzük a Casa de Morelos-t és az izgalmas gőzmozdonyokat a vasúti múzeumban.\n\nEgy rövid megálló után a Zászló Emlékműnél kelet felé tekerünk a híres termálvizek felé.\n\nA kellemes estét a Balneario Agua Hedionda gyógyító, kénes meleg forrásaiban fürdőzve töltjük el.",
+        "ro": "Traseul de biciclete începe la ruinele captivante ale Ex Hacienda Coauixtla.\n\nÎntorcându-ne în centru, explorăm Casa de Morelos și vechile locomotive cu abur la muzeul feroviar.\n\nDupă o scurtă oprire la Monumento a la Bandera, mergem spre est spre faimoasele ape termale.\n\nNe petrecem o seară relaxantă scăldându-ne în izvoarele termale vindecătoare de la Balneario Agua Hedionda.",
+        "en": "The bike route starts south at the captivating ruins of Ex Hacienda Coauixtla, offering a glimpse into Mexico's grand colonial era.\n\nCycling back to the city center, we explore the Casa de Morelos and the intriguing old steam engines at the railway museum.\n\nAfter a brief stop at the Monumento a la Bandera, we ride east toward the famous thermal waters.\n\nWe spend a relaxing evening soaking in the healing, sulfurous hot springs of Balneario Agua Hedionda."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:36",
+      "total_km": 17.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Six Flags Hurricane Harbor Oaxtepec",
+            "hu": "Six Flags Hurricane Harbor Oaxtepec",
+            "ro": "Six Flags Hurricane Harbor Oaxtepec",
+            "en": "Six Flags Hurricane Harbor Oaxtepec"
+          },
+          "coords": [
+            -98.976133,
+            18.896906
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Morgen mit aufregenden Wasserrutschen in diesem riesigen Park und kaufen Sie Ihre Tickets vorab online, um die langen Schlangen zu umgehen.",
+            "hu": "Kezdje a reggelt izgalmas vízicsúszdákkal ebben a hatalmas parkban, és vegye meg a belépőt előre online, hogy elkerülje a hosszú sorban állást a kapunál.",
+            "ro": "Începeți dimineața cu tobogane de apă captivante în acest parc masiv și cumpărați-vă biletele online în avans pentru a evita cozile lungi de la intrare.",
+            "en": "Start your morning with thrilling water slides in this massive park, and purchase your entry tickets online in advance to skip the long waiting lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a la Bandera",
+            "hu": "Monumento a la Bandera",
+            "ro": "Monumento a la Bandera",
+            "en": "Monumento a la Bandera"
+          },
+          "coords": [
+            -98.952914,
+            18.81896
+          ],
+          "category": "historical",
+          "arrive_at": "11:09",
+          "stay_min": 15,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 8.9,
+          "tip_5lang": {
+            "de": "Machen Sie ein schnelles Foto an diesem markanten Denkmal für die mexikanische Flagge, das als hervorragender Orientierungspunkt in der Stadt dient.",
+            "hu": "Készítsen egy gyors fotót a mexikói zászlónak szentelt emlékműnél, amely kiváló tájékozódási pontként szolgál a nyüzsgő belvárosban való séta során.",
+            "ro": "Faceți o fotografie rapidă la acest monument dedicat steagului mexican, care servește drept punct central de orientare excelent în orașul aglomerat.",
+            "en": "Take a quick photo at this prominent monument dedicated to the Mexican flag, which serves as an excellent central orientation point in the bustling city."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo vivencia ferrocarril 279",
+            "hu": "Museo vivencia ferrocarril 279",
+            "ro": "Museo vivencia ferrocarril 279",
+            "en": "Museo vivencia ferrocarril 279"
+          },
+          "coords": [
+            -98.954205,
+            18.816943
+          ],
+          "category": "museum",
+          "arrive_at": "11:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Dampflokomotive 279 in diesem Freilicht-Eisenbahnmuseum, wo bequeme Schuhe für die alten Gleise sehr empfehlenswert sind.",
+            "hu": "Csodálja meg a 279-es gőzmozdonyt ebben a szabadtéri vasúti múzeumban, ahol kényelmes cipő ajánlott a régi síneken való sétáláshoz és felfedezéshez.",
+            "ro": "Admirați locomotiva cu abur istorică 279 în acest muzeu feroviar în aer liber, unde se recomandă încălțăminte comodă pentru a merge pe șinele vechi.",
+            "en": "Admire the historic steam locomotive number 279 in this open-air railway museum, where comfortable shoes are recommended for walking on the old tracks."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Oriente de Morelos \"Casa de Morelos\"",
+            "hu": "Museo del Oriente de Morelos \"Casa de Morelos\"",
+            "ro": "Museo del Oriente de Morelos \"Casa de Morelos\"",
+            "en": "Museo del Oriente de Morelos \"Casa de Morelos\""
+          },
+          "coords": [
+            -98.955432,
+            18.812023
+          ],
+          "category": "museum",
+          "arrive_at": "13:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte des mexikanischen Unabhängigkeitskrieges in diesem gut erhaltenen Kolonialhaus und kommen Sie früh wegen der Hitze.",
+            "hu": "Fedezze fel a mexikói függetlenségi háború történetét ebben a jól karbantartott gyarmati házban, de érkezzen korán a déli hőség elkerülése végett.",
+            "ro": "Descoperiți istoria războiului de independență al Mexicului în această casă colonială bine conservată, dar ajungeți devreme pentru a evita căldura.",
+            "en": "Discover the rich history of the Mexican War of Independence in this well-preserved colonial house, but arrive early to avoid the midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "BALNEARIO AGUA HEDIONDA",
+            "hu": "BALNEARIO AGUA HEDIONDA",
+            "ro": "BALNEARIO AGUA HEDIONDA",
+            "en": "BALNEARIO AGUA HEDIONDA"
+          },
+          "coords": [
+            -98.930083,
+            18.815649
+          ],
+          "category": "family",
+          "arrive_at": "14:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Baden Sie in dem berühmten schwefelhaltigen Thermalwasser mit heilender Wirkung, auch wenn Sie sich erst an den natürlichen Geruch gewöhnen müssen.",
+            "hu": "Mártózzon meg a gyógyhatású, híres kénes termálvizekben, bár az erős természetes illatot néhány percbe telhet megszokni a fürdőzés megkezdésekor.",
+            "ro": "Scăldați-vă în faimoasele ape termale sulfuroase cunoscute pentru vindecare, deși s-ar putea să aveți nevoie de timp pentru a vă obișnui cu mirosul.",
+            "en": "Soak in the famous sulfurous thermal waters known for their healing properties, though the strong natural scent may take a few minutes to get used to."
+          }
+        },
+        {
+          "name": {
+            "de": "Ex Hacienda Coauixtla",
+            "hu": "Ex Hacienda Coauixtla",
+            "ro": "Ex Hacienda Coauixtla",
+            "en": "Ex Hacienda Coauixtla"
+          },
+          "coords": [
+            -98.966015,
+            18.792484
+          ],
+          "category": "historical",
+          "arrive_at": "16:46",
+          "stay_min": 110,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die stimmungsvollen Ruinen dieser historischen Zuckerhacienda, aber bleiben Sie auf den Hauptwegen, da einige alte Strukturen instabil sind.",
+            "hu": "Fedezze fel ennek a 16. századi cukorhaciendának a hangulatos romjait, de maradjon a főutakon, mivel a régebbi épületek egy része már kissé omladozik.",
+            "ro": "Explorați ruinele atmosferice ale acestei haciende istorice de zahăr, dar rămâneți pe cărările principale, deoarece unele structuri vechi sunt instabile.",
+            "en": "Explore the atmospheric ruins of this historic 16th-century sugar hacienda, but stick to the main paths as some of the older structures are unstable."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir starten mit viel Spaß im Hurricane Harbor Oaxtepec und nutzen die frühen Stunden für die besten Wasserrutschen.\n\nWir fahren ins Zentrum von Cuautla, fotografieren das Flaggenmonument und erkunden die historischen Züge.\n\nDie kulture Reise geht im Casa de Morelos weiter, gefolgt von einer kurzen Fahrt zum Wasserfall Agua Hedionda.\n\nWir beenden unseren Roadtrip und erkunden in der Dämmerung die unheimlichen Ruinen der Ex Hacienda Coauixtla.",
+        "hu": "A napot a Hurricane Harbor Oaxtepec víziparkjában kezdjük, kihasználva a korai órákat a legjobb csúszdákhoz.\n\nBeparkolva Cuautla központjába lencsevégre kapjuk a Zászló Emlékművet és felfedezzük a történelmi vonatokat.\n\nA kulturális utazás a Casa de Morelosban folytatódik, majd egy rövid utazás következik az Agua Hedionda gyógyvizeihez.\n\nAutós kirándulásunkat az Ex Hacienda Coauixtla lenyűgöző és kissé kísérteties romjainak felfedezésével zárjuk.",
+        "ro": "Începem cu o bălăceală la Hurricane Harbor Oaxtepec, profitând de orele dimineții pentru cele mai bune tobogane.\n\nConducând spre centrul Cuautla, surprindem Monumento a la Bandera și explorăm exponatele istorice de tren.\n\nCălătoria culturală continuă la Casa de Morelos, urmată de o scurtă plimbare către apele vindecătoare de la Agua Hedionda.\n\nNe încheiem excursia explorând ruinele magnifice și oarecum stranii ale Ex Hacienda Coauixtla la lăsarea serii.",
+        "en": "We start with a splash at Hurricane Harbor Oaxtepec, taking advantage of the early hours for the best water slides.\n\nDriving into central Cuautla, we capture the Monumento a la Bandera and explore the historic train exhibits nearby.\n\nThe cultural journey continues at Casa de Morelos, followed by a short drive to the healing waters of Agua Hedionda.\n\nWe finish our road trip exploring the magnificent and somewhat eerie ruins of Ex Hacienda Coauixtla as dusk approaches."
+      }
+    }
+  }
+}

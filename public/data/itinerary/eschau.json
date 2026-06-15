@@ -1,0 +1,451 @@
+{
+  "city_id": "eschau",
+  "anchor": {
+    "name": "Eschau",
+    "coords": [
+      7.7158,
+      48.4881
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 10.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ballastière",
+            "hu": "Ballastière",
+            "ro": "Ballastière",
+            "en": "Ballastière"
+          },
+          "coords": [
+            7.721359,
+            48.498823
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Spaziergang um diesen Baggersee, ein Paradies für Wasservögel, und bringen Sie unbedingt ein Fernglas mit.",
+            "hu": "Tegyen egy békés sétát a helyi bányató körül, amely a vízimadarak paradicsoma, és feltétlenül hozzon magával távcsövet a reggeli madármegfigyeléshez.",
+            "ro": "Bucurați-vă de o plimbare liniștită în jurul acestui lac de pietriș, un refugiu pentru păsări, și asigurați-vă că aduceți un binoclu.",
+            "en": "Enjoy a tranquil stroll around this local gravel pit lake, a haven for wildfowl, and be sure to bring your binoculars for early morning birdwatching."
+          }
+        },
+        {
+          "name": {
+            "de": "Forêt d'Eschau",
+            "hu": "Forêt d'Eschau",
+            "ro": "Forêt d'Eschau",
+            "en": "Forêt d'Eschau"
+          },
+          "coords": [
+            7.704836,
+            48.476439
+          ],
+          "category": "natural",
+          "arrive_at": "11:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 42,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die schattigen Wege dieses friedlichen Gemeindewaldes, um sich mit der Natur zu verbinden, also tragen Sie feste Schuhe.",
+            "hu": "Barangoljon a békés községi erdő árnyékos ösvényein, amely tökéletes hely a természettel való kapcsolatteremtésre, ezért viseljen túracipőt.",
+            "ro": "Rătăciți pe potecile umbrite ale acestei păduri comunale pașnice, un loc perfect pentru relaxare, așa că purtați încălțăminte robustă pentru trasee.",
+            "en": "Wander through the shaded paths of this peaceful communal forest, a perfect spot for connecting with nature, so wear sturdy shoes for the unpaved trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Ancienne Gravière du Langensand",
+            "hu": "Ancienne Gravière du Langensand",
+            "ro": "Ancienne Gravière du Langensand",
+            "en": "Ancienne Gravière du Langensand"
+          },
+          "coords": [
+            7.742791,
+            48.478052
+          ],
+          "category": "natural",
+          "arrive_at": "13:04",
+          "stay_min": 75,
+          "hop_from_prev_min": 42,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die raue Schönheit dieser renaturierten Kiesgrube mit ihrer vielfältigen Flora, wobei Sie am besten auf den markierten Wegen bleiben.",
+            "hu": "Fedezze fel ennek az újrahasznosított, változatos növényvilágú kavicsbányának a zord szépségét, ahol a legjobb a kijelölt ösvényeken maradni.",
+            "ro": "Descoperiți frumusețea aspră a acestei foste cariere de pietriș cu o floră diversă, unde este cel mai bine să rămâneți pe potecile marcate.",
+            "en": "Discover the rugged beauty of this reclaimed gravel pit now flourishing with diverse flora, where it is best to stay on marked paths to protect the ecosystem."
+          }
+        },
+        {
+          "name": {
+            "de": "Plan d'eau de Plobsheim",
+            "hu": "Plan d'eau de Plobsheim",
+            "ro": "Plan d'eau de Plobsheim",
+            "en": "Plan d'eau de Plobsheim"
+          },
+          "coords": [
+            7.737366,
+            48.457607
+          ],
+          "category": "natural",
+          "arrive_at": "14:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 34,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die weite Aussicht über diesen riesigen künstlichen See, der zum Segeln beliebt ist, und erwägen Sie, ein kleines Boot zu mieten.",
+            "hu": "Gyönyörködjön a hatalmas mesterséges tóra nyíló kilátásban, amely a vitorlázók kedvence, és béreljen egy kis csónakot a csendes vizek felfedezéséhez.",
+            "ro": "Admirați priveliștile vaste peste acest lac artificial masiv, popular pentru navigație, și luați în considerare închirierea unei bărci mici.",
+            "en": "Take in the expansive views across this massive artificial lake, popular for sailing and fishing, and consider renting a small boat to explore the calm waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Ancienne Gravière",
+            "hu": "Ancienne Gravière",
+            "ro": "Ancienne Gravière",
+            "en": "Ancienne Gravière"
+          },
+          "coords": [
+            7.711749,
+            48.448309
+          ],
+          "category": "natural",
+          "arrive_at": "16:40",
+          "stay_min": 105,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Erkunden Sie eine weitere ruhige, von der Natur zurückeroberte ehemalige Kiesabbaufläche, die ideale Ecken für ein entspanntes Picknick bietet.",
+            "hu": "Fedezzen fel egy másik nyugodt, a természet által visszahódított egykori kavicsbánya-területet, amely csendes sarkokat kínál egy délutáni piknikhez.",
+            "ro": "Explorați un alt sit liniștit de extracție a pietrișului pe care natura l-a recuperat, oferind colțuri liniștite ideale pentru un picnic relaxant.",
+            "en": "Explore another serene abandoned gravel extraction site that nature has reclaimed, offering quiet corners ideal for a relaxing afternoon picnic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt in der ruhigen Umgebung der Ballastière, wo das sanfte Plätschern des Wassers einen beruhigenden Ton für den Tag setzt. Ein Spaziergang führt Sie dann in den Forêt d'Eschau. Mittags entdecken Sie die raue Schönheit der Ancienne Gravière du Langensand. Der Nachmittag bietet die weiten Ausblicke auf den Plan d'eau de Plobsheim, ideal zum Entspannen. Der Tag endet schließlich am Ufer der stillen Ancienne Gravière.",
+        "hu": "A reggel a Ballastière békés környezetében indul, ahol a víz halk csobogása nyugodt alaphangot ad a napnak. Egy hosszú séta után a Forêt d'Eschau ősfáinak árnyékában pihenhet. Délben felfedezheti a Langensand egykori kavicsbányájának újjászületett vad szépségét. A délután a Plobsheim-tó hatalmas víztükrének látványával várja. Végül a nap az Ancienne Gravière nyugodt környezetében zárul.",
+        "ro": "Dimineața începe în decorul liniștit de la Ballastière, unde susurul apei dă tonul zilei. O plimbare lungă vă poartă apoi în inima pădurii Forêt d'Eschau. La prânz, veți descoperi frumusețea sălbatică a fostei cariere Langensand. După-amiaza oferă priveliștile vaste ale lacului Plan d'eau de Plobsheim, perfecte pentru relaxare. În cele din urmă, ziua se încheie la senina Ancienne Gravière.",
+        "en": "Your morning starts in the tranquil setting of Ballastière, where the gentle lapping of water sets a calming tone for the day. A long walk then brings you into the heart of Forêt d'Eschau, shaded by ancient trees. By midday, you'll uncover the rugged beauty of Ancienne Gravière du Langensand, a former industrial site reborn. The afternoon offers the expansive vistas of Plan d'eau de Plobsheim, perfect for unwinding. Finally, the day concludes at the serene Ancienne Gravière."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:19",
+      "total_km": 12.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Forêt d'Eschau",
+            "hu": "Forêt d'Eschau",
+            "ro": "Forêt d'Eschau",
+            "en": "Forêt d'Eschau"
+          },
+          "coords": [
+            7.704836,
+            48.476439
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die schattigen Wege dieses friedlichen Gemeindewaldes, um sich mit der Natur zu verbinden, also tragen Sie feste Schuhe.",
+            "hu": "Barangoljon a békés községi erdő árnyékos ösvényein, amely tökéletes hely a természettel való kapcsolatteremtésre, ezért viseljen túracipőt.",
+            "ro": "Rătăciți pe potecile umbrite ale acestei păduri comunale pașnice, un loc perfect pentru relaxare, așa că purtați încălțăminte robustă pentru trasee.",
+            "en": "Wander through the shaded paths of this peaceful communal forest, a perfect spot for connecting with nature, so wear sturdy shoes for the unpaved trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Ballastière",
+            "hu": "Ballastière",
+            "ro": "Ballastière",
+            "en": "Ballastière"
+          },
+          "coords": [
+            7.721359,
+            48.498823
+          ],
+          "category": "natural",
+          "arrive_at": "10:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Spaziergang um diesen Baggersee, ein Paradies für Wasservögel, und bringen Sie unbedingt ein Fernglas mit.",
+            "hu": "Tegyen egy békés sétát a helyi bányató körül, amely a vízimadarak paradicsoma, és feltétlenül hozzon magával távcsövet a reggeli madármegfigyeléshez.",
+            "ro": "Bucurați-vă de o plimbare liniștită în jurul acestui lac de pietriș, un refugiu pentru păsări, și asigurați-vă că aduceți un binoclu.",
+            "en": "Enjoy a tranquil stroll around this local gravel pit lake, a haven for wildfowl, and be sure to bring your binoculars for early morning birdwatching."
+          }
+        },
+        {
+          "name": {
+            "de": "Ancienne Gravière du Langensand",
+            "hu": "Ancienne Gravière du Langensand",
+            "ro": "Ancienne Gravière du Langensand",
+            "en": "Ancienne Gravière du Langensand"
+          },
+          "coords": [
+            7.742791,
+            48.478052
+          ],
+          "category": "natural",
+          "arrive_at": "12:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die raue Schönheit dieser renaturierten Kiesgrube mit ihrer vielfältigen Flora, wobei Sie am besten auf den markierten Wegen bleiben.",
+            "hu": "Fedezze fel ennek az újrahasznosított, változatos növényvilágú kavicsbányának a zord szépségét, ahol a legjobb a kijelölt ösvényeken maradni.",
+            "ro": "Descoperiți frumusețea aspră a acestei foste cariere de pietriș cu o floră diversă, unde este cel mai bine să rămâneți pe potecile marcate.",
+            "en": "Discover the rugged beauty of this reclaimed gravel pit now flourishing with diverse flora, where it is best to stay on marked paths to protect the ecosystem."
+          }
+        },
+        {
+          "name": {
+            "de": "Plan d'eau de Plobsheim",
+            "hu": "Plan d'eau de Plobsheim",
+            "ro": "Plan d'eau de Plobsheim",
+            "en": "Plan d'eau de Plobsheim"
+          },
+          "coords": [
+            7.737366,
+            48.457607
+          ],
+          "category": "natural",
+          "arrive_at": "13:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die weite Aussicht über diesen riesigen künstlichen See, der zum Segeln beliebt ist, und erwägen Sie, ein kleines Boot zu mieten.",
+            "hu": "Gyönyörködjön a hatalmas mesterséges tóra nyíló kilátásban, amely a vitorlázók kedvence, és béreljen egy kis csónakot a csendes vizek felfedezéséhez.",
+            "ro": "Admirați priveliștile vaste peste acest lac artificial masiv, popular pentru navigație, și luați în considerare închirierea unei bărci mici.",
+            "en": "Take in the expansive views across this massive artificial lake, popular for sailing and fishing, and consider renting a small boat to explore the calm waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhlenloch",
+            "hu": "Uhlenloch",
+            "ro": "Uhlenloch",
+            "en": "Uhlenloch"
+          },
+          "coords": [
+            7.782575,
+            48.480547
+          ],
+          "category": "natural",
+          "arrive_at": "15:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Betreten Sie das dichte Laub dieses verborgenen Waldreservats, das für seine reiche Artenvielfalt bekannt ist, aber vergessen Sie nicht das Mückenspray.",
+            "hu": "Lépjen be e rejtett erdei rezervátum sűrű lombozatába, amely gazdag biológiai sokféleségéről ismert, de a melegebb hónapokban ne felejtse el a szúnyogriasztót.",
+            "ro": "Pășiți în frunzișul dens al acestei rezervații forestiere ascunse, cunoscută pentru biodiversitatea sa bogată, dar nu uitați spray-ul împotriva țânțarilor.",
+            "en": "Step into the dense foliage of this hidden woodland reserve, known for its rich biodiversity, but remember to bring mosquito repellent in the warmer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Wacholderrain",
+            "hu": "Wacholderrain",
+            "ro": "Wacholderrain",
+            "en": "Wacholderrain"
+          },
+          "coords": [
+            7.791855,
+            48.481582
+          ],
+          "category": "natural",
+          "arrive_at": "16:34",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die einzigartige Landschaft in dieser Schutzzone, in der das frühe Morgenlicht hervorragende Fotomotive schafft.",
+            "hu": "Csodálja meg a gondos földgazdálkodás által formált egyedi tájat ezen a védett övezetben, ahol a kora reggeli fény kiváló fotózási lehetőségeket teremt.",
+            "ro": "Admirați peisajul unic modelat de secole de gestionare atentă a terenurilor în această zonă protejată, ideal pentru fotografii în lumina dimineții.",
+            "en": "Admire the unique landscape shaped by centuries of careful land management in this protected zone, where early morning light creates excellent photo opportunities."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour im kühlen Schatten des Forêt d'Eschau, bevor Sie zur Ballastière gleiten. Mittags radeln Sie zu den renaturierten Landschaften der Ancienne Gravière du Langensand und zum riesigen Plan d'eau de Plobsheim. Am Nachmittag überqueren Sie die Wege zu den versteckten Pfaden von Uhlenloch. Die Reise endet im Wacholderrain, wo die Abenddämmerung die Wiesen in ein goldenes Licht taucht.",
+        "hu": "Indítsa kerékpártúráját a Forêt d'Eschau hűvös árnyékában, mielőtt a Ballastière békés vizeihez tekerne. Délben a Langensand kavicsbánya és a Plobsheim-tó felé veszi az irányt. Délután az Uhlenloch buja, rejtett ösvényein halad keresztül. Az utazás a Wacholderrain egyedülálló, gondozott terepén ér véget, ahol a szürkület arany árnyalatba öltözteti a tájat.",
+        "ro": "Începeți turul cu bicicleta în umbra răcoroasă a Forêt d'Eschau înainte de a aluneca spre apele pașnice de la Ballastière. La prânz, pedalați spre peisajele reabilitate de la Langensand și întinderea masivă a Plan d'eau de Plobsheim. După-amiaza, veți traversa spre traseele ascunse din Uhlenloch. Călătoria se încheie cu terenurile unice din Wacholderrain, la lumina aurie a amurgului.",
+        "en": "Kick off your cycling tour in the cool shade of Forêt d'Eschau before gliding over to the peaceful waters of Ballastière. By midday, pedal towards the rehabilitated landscapes of Ancienne Gravière du Langensand and the massive expanse of Plan d'eau de Plobsheim. In the afternoon, you'll cross towards the lush, hidden trails of Uhlenloch. The journey wraps up with the uniquely managed terrains of Wacholderrain, where twilight bathes the meadows in a golden hue."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:38",
+      "total_km": 12.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ballastière",
+            "hu": "Ballastière",
+            "ro": "Ballastière",
+            "en": "Ballastière"
+          },
+          "coords": [
+            7.721359,
+            48.498823
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Spaziergang um diesen Baggersee, ein Paradies für Wasservögel, und bringen Sie unbedingt ein Fernglas mit.",
+            "hu": "Tegyen egy békés sétát a helyi bányató körül, amely a vízimadarak paradicsoma, és feltétlenül hozzon magával távcsövet a reggeli madármegfigyeléshez.",
+            "ro": "Bucurați-vă de o plimbare liniștită în jurul acestui lac de pietriș, un refugiu pentru păsări, și asigurați-vă că aduceți un binoclu.",
+            "en": "Enjoy a tranquil stroll around this local gravel pit lake, a haven for wildfowl, and be sure to bring your binoculars for early morning birdwatching."
+          }
+        },
+        {
+          "name": {
+            "de": "Forêt d'Eschau",
+            "hu": "Forêt d'Eschau",
+            "ro": "Forêt d'Eschau",
+            "en": "Forêt d'Eschau"
+          },
+          "coords": [
+            7.704836,
+            48.476439
+          ],
+          "category": "natural",
+          "arrive_at": "10:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die schattigen Wege dieses friedlichen Gemeindewaldes, um sich mit der Natur zu verbinden, also tragen Sie feste Schuhe.",
+            "hu": "Barangoljon a békés községi erdő árnyékos ösvényein, amely tökéletes hely a természettel való kapcsolatteremtésre, ezért viseljen túracipőt.",
+            "ro": "Rătăciți pe potecile umbrite ale acestei păduri comunale pașnice, un loc perfect pentru relaxare, așa că purtați încălțăminte robustă pentru trasee.",
+            "en": "Wander through the shaded paths of this peaceful communal forest, a perfect spot for connecting with nature, so wear sturdy shoes for the unpaved trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Plan d'eau de Plobsheim",
+            "hu": "Plan d'eau de Plobsheim",
+            "ro": "Plan d'eau de Plobsheim",
+            "en": "Plan d'eau de Plobsheim"
+          },
+          "coords": [
+            7.737366,
+            48.457607
+          ],
+          "category": "natural",
+          "arrive_at": "11:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die weite Aussicht über diesen riesigen künstlichen See, der zum Segeln beliebt ist, und erwägen Sie, ein kleines Boot zu mieten.",
+            "hu": "Gyönyörködjön a hatalmas mesterséges tóra nyíló kilátásban, amely a vitorlázók kedvence, és béreljen egy kis csónakot a csendes vizek felfedezéséhez.",
+            "ro": "Admirați priveliștile vaste peste acest lac artificial masiv, popular pentru navigație, și luați în considerare închirierea unei bărci mici.",
+            "en": "Take in the expansive views across this massive artificial lake, popular for sailing and fishing, and consider renting a small boat to explore the calm waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Uhlenloch",
+            "hu": "Uhlenloch",
+            "ro": "Uhlenloch",
+            "en": "Uhlenloch"
+          },
+          "coords": [
+            7.782575,
+            48.480547
+          ],
+          "category": "natural",
+          "arrive_at": "13:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Betreten Sie das dichte Laub dieses verborgenen Waldreservats, das für seine reiche Artenvielfalt bekannt ist, aber vergessen Sie nicht das Mückenspray.",
+            "hu": "Lépjen be e rejtett erdei rezervátum sűrű lombozatába, amely gazdag biológiai sokféleségéről ismert, de a melegebb hónapokban ne felejtse el a szúnyogriasztót.",
+            "ro": "Pășiți în frunzișul dens al acestei rezervații forestiere ascunse, cunoscută pentru biodiversitatea sa bogată, dar nu uitați spray-ul împotriva țânțarilor.",
+            "en": "Step into the dense foliage of this hidden woodland reserve, known for its rich biodiversity, but remember to bring mosquito repellent in the warmer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Dreibauerngrund",
+            "hu": "Dreibauerngrund",
+            "ro": "Dreibauerngrund",
+            "en": "Dreibauerngrund"
+          },
+          "coords": [
+            7.782451,
+            48.491981
+          ],
+          "category": "natural",
+          "arrive_at": "14:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Atmen Sie tief durch, während Sie diese weiten Wiesen überqueren, ein Zeugnis des landwirtschaftlichen Erbes der Region, und bleiben Sie am Rand der Felder.",
+            "hu": "Szívja be a friss levegőt ezen a tágas réten, amely a régió mezőgazdasági örökségét dicséri, és maradjon a széleken, hogy elkerülje a termés letaposását.",
+            "ro": "Respirați aer curat în timp ce traversați aceste pajiști întinse, o dovadă a moștenirii agricole a regiunii, și rămâneți pe margini pentru a proteja culturile.",
+            "en": "Take a deep breath of fresh air as you traverse these expansive meadows, a testament to the region's agricultural heritage, and stick to the edges to avoid trampling crops."
+          }
+        },
+        {
+          "name": {
+            "de": "Goldscheuerer Baggersee",
+            "hu": "Goldscheuerer Baggersee",
+            "ro": "Goldscheuerer Baggersee",
+            "en": "Goldscheuerer Baggersee"
+          },
+          "coords": [
+            7.800685,
+            48.49966
+          ],
+          "category": "natural",
+          "arrive_at": "15:53",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem beliebten grenzüberschreitenden See mit klarem Badewasser und malerischen Ufern, perfekt für ein erfrischendes Bad.",
+            "hu": "Zárja a napot ezen a népszerű, határon átnyúló tavon, amely tiszta fürdővízzel és festői partokkal várja, tökéletes egy frissítő csobbanásra.",
+            "ro": "Încheiați ziua la acest popular lac transfrontalier, care oferă ape clare pentru înot și țărmuri pitorești, perfect pentru o baie răcoroasă.",
+            "en": "End your day at this popular cross-border lake, offering clear swimming waters and scenic shores, perfect for a refreshing dip before the sun sets."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt an der malerischen Ballastière und hüpfen Sie dann schnell zum tiefen Grün des Forêt d'Eschau. Die Mittagsroute führt zum beeindruckenden Ufer des Plan d'eau de Plobsheim, gefolgt von den dichten Wäldern von Uhlenloch. Am Nachmittag fahren Sie an den offenen landwirtschaftlichen Flächen des Dreibauerngrunds vorbei. Ihr Roadtrip endet am Goldscheuerer Baggersee, ideal für den Sonnenuntergang.",
+        "hu": "Kezdje az autózást a festői Ballastière-nél, majd hamarosan merüljön el a Forêt d'Eschau mélyzöldjében. A déli útvonal a Plobsheim-tó lenyűgöző partjaihoz, majd az Uhlenloch sűrű erdejébe vezet. Kora délután haladjon el a Dreibauerngrund nyílt mezőgazdasági területei mellett. Az utazás a határon túli Goldscheuerer Baggersee-nél ér véget, amely tökéletes naplemente-visszaverődést kínál.",
+        "ro": "Începeți traseul la pitorescul Ballastière, apoi treceți rapid la verdeața profundă din Forêt d'Eschau. Traseul de prânz duce la malurile impresionante ale Plan d'eau de Plobsheim, urmat de pădurile dense din Uhlenloch. După-amiaza, treceți pe lângă întinderile agricole deschise din Dreibauerngrund. Excursia se încheie peste graniță, la Goldscheuerer Baggersee, perfect pentru un apus de soare.",
+        "en": "Begin your drive at the scenic Ballastière, taking in the morning stillness, then quickly hop over to the deep greenery of Forêt d'Eschau. Your midday route leads to the impressive shores of Plan d'eau de Plobsheim, followed by the dense, mysterious woods of Uhlenloch. As afternoon sets in, cruise past the open agricultural stretches of Dreibauerngrund. Your road trip concludes across the border at Goldscheuerer Baggersee, offering a perfect sunset reflection."
+      }
+    }
+  }
+}

@@ -1,0 +1,543 @@
+{
+  "city_id": "spain-sueca-cities-v2",
+  "anchor": {
+    "name": "Sueca",
+    "coords": [
+      -0.315524,
+      39.202428
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "19:03",
+      "total_km": 1.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museu Joan Fuster",
+            "hu": "Museu Joan Fuster",
+            "ro": "Muzeul Joan Fuster",
+            "en": "Museu Joan Fuster"
+          },
+          "coords": [
+            -0.31281,
+            39.201715
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden literarischen Archive des berühmten lokalen Essayisten und schauen Sie sich die interaktiven Displays im Erdgeschoss an.",
+            "hu": "Fedezze fel a híres helyi esszéíró lenyűgöző irodalmi archívumát, és mindenképpen próbálja ki a földszinten található interaktív kiállításokat.",
+            "ro": "Explorați arhivele literare fascinante ale renumitului eseist local și asigurați-vă că verificați expozițiile interactive situate la parterul clădirii.",
+            "en": "Explore the fascinating literary and historical archives of the renowned local essayist, and check out the interactive displays on the ground floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Maduixa teatre",
+            "hu": "Maduixa teatre",
+            "ro": "Teatrul Maduixa",
+            "en": "Maduixa teatre"
+          },
+          "coords": [
+            -0.312736,
+            39.199449
+          ],
+          "category": "cultural",
+          "arrive_at": "10:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie die lebendigen zeitgenössischen Aufführungen in diesem Zentrum, wo es dringend empfohlen wird, Tickets für Abendvorstellungen im Voraus zu buchen.",
+            "hu": "Csodálja meg a kortárs előadásokat ebben a kulturális központban, ahol az esti műsorokra erősen ajánlott előzetesen online jegyet foglalni.",
+            "ro": "Admirați spectacolele contemporane vibrante din acest centru cultural important, unde rezervarea online în avans a biletelor este foarte recomandată.",
+            "en": "Admire the vibrant contemporary performances at this prominent cultural hub, where booking tickets online in advance is highly recommended for evening shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Sala Municipal d'Exposicions dels Porxets",
+            "hu": "Porxets Városi Kiállítóterem",
+            "ro": "Sala Municipală de Expoziții Porxets",
+            "en": "Sala Municipal d'Exposicions dels Porxets"
+          },
+          "coords": [
+            -0.310705,
+            39.20284
+          ],
+          "category": "museum",
+          "arrive_at": "12:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betrachten Sie wechselnde städtische Kunstausstellungen unter den charakteristischen Bögen dieses historischen Gebäudes und achten Sie auf die Architektur.",
+            "hu": "Tekintse meg az önkormányzati művészeti kiállításokat e történelmi épület jellegzetes boltívei alatt, időt szánva a megőrzött építészet megfigyelésére.",
+            "ro": "Vizionați expozițiile de artă municipală sub arcadele caracteristice ale acestei clădiri istorice, făcându-vă timp pentru a observa arhitectura conservată.",
+            "en": "View stunning rotating municipal art exhibitions under the characteristic arches of this historic building, taking time to notice the preserved architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Departamento del arroz",
+            "hu": "Rizs Tanszék / Múzeum",
+            "ro": "Departamentul Orezului",
+            "en": "Departamento del arroz"
+          },
+          "coords": [
+            -0.308836,
+            39.200482
+          ],
+          "category": "museum",
+          "arrive_at": "14:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das reiche landwirtschaftliche Erbe der Region ein, lernen Sie den Reisanbau kennen und fragen Sie die Führer nach traditionellen Erntemethoden.",
+            "hu": "Merüljön el a régió gazdag mezőgazdasági örökségében, ismerje meg a rizstermesztést, és bátran kérdezze az idegenvezetőket a hagyományos betakarításról.",
+            "ro": "Pătrundeți în patrimoniul agricol bogat al regiunii învățând despre cultivarea orezului și întrebați ghizii despre tehnicile tradiționale de recoltare.",
+            "en": "Dive into the rich agricultural heritage of the region by learning about rice cultivation, and ask the guides about the traditional harvesting techniques."
+          }
+        },
+        {
+          "name": {
+            "de": "Societat Unió Musical",
+            "hu": "Zenei Unió Társasága",
+            "ro": "Societatea Unirea Muzicală",
+            "en": "Societat Unió Musical"
+          },
+          "coords": [
+            -0.309178,
+            39.203558
+          ],
+          "category": "cultural",
+          "arrive_at": "15:50",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die lokale musikalische Tradition dieser historischen Gesellschaft ein und kommen Sie früh, um die talentierten Musiker bei Proben zu sehen.",
+            "hu": "Merüljön el a helyi zenei hagyományokban ebben a történelmi társaságban, és érkezzen korán, hogy bepillantást nyerjen a tehetséges zenészek próbáiba.",
+            "ro": "Cufundați-vă în tradiția muzicală locală la această societate istorică, ajungând devreme pentru a-i vedea pe muzicienii talentați în timpul repetițiilor lor.",
+            "en": "Immerse yourself in the local musical tradition at this historic society, arriving early to catch a glimpse of the talented musicians during their rehearsals."
+          }
+        },
+        {
+          "name": {
+            "de": "Ateneu Musical de Sueca",
+            "hu": "Sueca Zenei Athenaeum",
+            "ro": "Ateneul Muzical din Sueca",
+            "en": "Ateneu Musical de Sueca"
+          },
+          "coords": [
+            -0.3083,
+            39.205154
+          ],
+          "category": "cultural",
+          "arrive_at": "17:13",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die leidenschaftliche Akustik und Geschichte des legendären musikalischen Athenäums der Stadt und besichtigen Sie die historischen Instrumente.",
+            "hu": "Tapasztalja meg a város legendás zenei athenaeumának lenyűgöző akusztikáját, és mindenképpen tekintse meg a benne található régi hangszerek kiállítását.",
+            "ro": "Experimentați acustica pasională a legendarului ateneu muzical al orașului, asigurându-vă că vedeți și expoziția de instrumente muzicale de epocă din interior.",
+            "en": "Experience the passionate acoustics and rich history of the town's legendary musical athenaeum, making sure to view the display of vintage instruments inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit dem Leben von Joan Fuster, bevor Sie modernes Theater erleben. Mittags geht es zu den städtischen Galerien, um das reiche Erbe von Sueca aufzunehmen. Der Nachmittag bringt einen tiefen Einblick in die lokale Reiskultur. Lassen Sie den Abend bei den historischen Musikgesellschaften der Stadt ausklingen.",
+        "hu": "Kezdje a reggelt Joan Fuster életének felfedezésével, mielőtt bepillantást nyerne a modern színházba. Délben a helyi galériák felé vegye az irányt. A délután a helyi gazdaságot meghatározó rizskultúra mélyreható megismerését hozza. Zárja az estét a város történelmi zenei társaságainak csodálatos dallamaival.",
+        "ro": "Începeți dimineața explorând viața lui Joan Fuster, înainte de a vedea teatrul modern. La prânz, mergeți spre galeriile municipale, absorbind patrimoniul bogat al orașului Sueca. După-amiaza aduce o scufundare în cultura orezului. Încheiați seara lăsându-vă fermecați de societățile muzicale istorice.",
+        "en": "Start your morning exploring the life of Joan Fuster before catching a glimpse of modern theatre. Midday, transition towards the municipal archives and galleries, absorbing Sueca’s rich heritage. Afternoon brings a deep dive into the rice culture that shapes the local economy. Conclude the evening by letting the historic musical societies serenade you."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "20:32",
+      "total_km": 5.65,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Ajuntament de Riola",
+            "hu": "Riola Városháza",
+            "ro": "Primăria din Riola",
+            "en": "Ajuntament de Riola"
+          },
+          "coords": [
+            -0.334534,
+            39.195218
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die klassische bürgerliche Architektur dieses historischen Rathauses, die in den ruhigeren Morgenstunden am besten für Fotos geeignet ist.",
+            "hu": "Csodálja meg a szomszédos terület történelmi városházájának klasszikus polgári építészetét, amelyet a csendesebb reggeli órákban a legjobb fotózni.",
+            "ro": "Minunați-vă de arhitectura civică clasică a acestei primării istorice, cel mai bine apreciată în timpul orelor mai liniștite ale dimineții pentru fotografii.",
+            "en": "Marvel at the classical civic architecture of this historic town hall in the neighboring area, best appreciated during the quieter morning hours for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Ajuntament de Fortaleny",
+            "hu": "Fortaleny Városháza",
+            "ro": "Primăria din Fortaleny",
+            "en": "Ajuntament de Fortaleny"
+          },
+          "coords": [
+            -0.313653,
+            39.183928
+          ],
+          "category": "historical",
+          "arrive_at": "10:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie den malerischen Charme dieses Verwaltungsgebäudes und halten Sie inne, um die informativen Tafeln direkt neben dem Eingang zu lesen.",
+            "hu": "Fedezze fel ennek az adminisztratív épületnek a különleges varázsát, és álljon meg, hogy elolvassa a közvetlenül a bejáratnál található információs táblákat.",
+            "ro": "Descoperiți farmecul pitoresc și semnificația clădirii administrative, făcând o pauză pentru a citi plăcile informative situate chiar la intrarea sa.",
+            "en": "Discover the quaint charm and historical significance of this administrative building, pausing to read the informative plaques located right by the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Joan Fuster",
+            "hu": "Museu Joan Fuster",
+            "ro": "Muzeul Joan Fuster",
+            "en": "Museu Joan Fuster"
+          },
+          "coords": [
+            -0.31281,
+            39.201715
+          ],
+          "category": "museum",
+          "arrive_at": "12:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden literarischen Archive des berühmten lokalen Essayisten und schauen Sie sich die interaktiven Displays im Erdgeschoss an.",
+            "hu": "Fedezze fel a híres helyi esszéíró lenyűgöző irodalmi archívumát, és mindenképpen próbálja ki a földszinten található interaktív kiállításokat.",
+            "ro": "Explorați arhivele literare fascinante ale renumitului eseist local și asigurați-vă că verificați expozițiile interactive situate la parterul clădirii.",
+            "en": "Explore the fascinating literary and historical archives of the renowned local essayist, and check out the interactive displays on the ground floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Maduixa teatre",
+            "hu": "Maduixa teatre",
+            "ro": "Teatrul Maduixa",
+            "en": "Maduixa teatre"
+          },
+          "coords": [
+            -0.312736,
+            39.199449
+          ],
+          "category": "cultural",
+          "arrive_at": "13:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie die lebendigen zeitgenössischen Aufführungen in diesem Zentrum, wo es dringend empfohlen wird, Tickets für Abendvorstellungen im Voraus zu buchen.",
+            "hu": "Csodálja meg a kortárs előadásokat ebben a kulturális központban, ahol az esti műsorokra erősen ajánlott előzetesen online jegyet foglalni.",
+            "ro": "Admirați spectacolele contemporane vibrante din acest centru cultural important, unde rezervarea online în avans a biletelor este foarte recomandată.",
+            "en": "Admire the vibrant contemporary performances at this prominent cultural hub, where booking tickets online in advance is highly recommended for evening shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Sala Municipal d'Exposicions dels Porxets",
+            "hu": "Porxets Városi Kiállítóterem",
+            "ro": "Sala Municipală de Expoziții Porxets",
+            "en": "Sala Municipal d'Exposicions dels Porxets"
+          },
+          "coords": [
+            -0.310705,
+            39.20284
+          ],
+          "category": "museum",
+          "arrive_at": "15:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betrachten Sie wechselnde städtische Kunstausstellungen unter den charakteristischen Bögen dieses historischen Gebäudes und achten Sie auf die Architektur.",
+            "hu": "Tekintse meg az önkormányzati művészeti kiállításokat e történelmi épület jellegzetes boltívei alatt, időt szánva a megőrzött építészet megfigyelésére.",
+            "ro": "Vizionați expozițiile de artă municipală sub arcadele caracteristice ale acestei clădiri istorice, făcându-vă timp pentru a observa arhitectura conservată.",
+            "en": "View stunning rotating municipal art exhibitions under the characteristic arches of this historic building, taking time to notice the preserved architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Departamento del arroz",
+            "hu": "Rizs Tanszék / Múzeum",
+            "ro": "Departamentul Orezului",
+            "en": "Departamento del arroz"
+          },
+          "coords": [
+            -0.308836,
+            39.200482
+          ],
+          "category": "museum",
+          "arrive_at": "16:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das reiche landwirtschaftliche Erbe der Region ein, lernen Sie den Reisanbau kennen und fragen Sie die Führer nach traditionellen Erntemethoden.",
+            "hu": "Merüljön el a régió gazdag mezőgazdasági örökségében, ismerje meg a rizstermesztést, és bátran kérdezze az idegenvezetőket a hagyományos betakarításról.",
+            "ro": "Pătrundeți în patrimoniul agricol bogat al regiunii învățând despre cultivarea orezului și întrebați ghizii despre tehnicile tradiționale de recoltare.",
+            "en": "Dive into the rich agricultural heritage of the region by learning about rice cultivation, and ask the guides about the traditional harvesting techniques."
+          }
+        },
+        {
+          "name": {
+            "de": "Ateneu Musical de Sueca",
+            "hu": "Sueca Zenei Athenaeum",
+            "ro": "Ateneul Muzical din Sueca",
+            "en": "Ateneu Musical de Sueca"
+          },
+          "coords": [
+            -0.3083,
+            39.205154
+          ],
+          "category": "cultural",
+          "arrive_at": "18:42",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erleben Sie die leidenschaftliche Akustik und Geschichte des legendären musikalischen Athenäums der Stadt und besichtigen Sie die historischen Instrumente.",
+            "hu": "Tapasztalja meg a város legendás zenei athenaeumának lenyűgöző akusztikáját, és mindenképpen tekintse meg a benne található régi hangszerek kiállítását.",
+            "ro": "Experimentați acustica pasională a legendarului ateneu muzical al orașului, asigurându-vă că vedeți și expoziția de instrumente muzicale de epocă din interior.",
+            "en": "Experience the passionate acoustics and rich history of the town's legendary musical athenaeum, making sure to view the display of vintage instruments inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens zum historischen Zentrum von Riola. Mittags überqueren Sie die Felder zu Fortalenys Rathaus, bevor Sie zur Literaturgeschichte nach Sueca zurückkehren. Die Nachmittagsfahrt führt Sie an den städtischen Ausstellungen und der einzigartigen Reisabteilung vorbei. Am Abend radeln Sie zum renommierten musikalischen Athenäum.",
+        "hu": "Reggel tekerjen ki Riola történelmi központjába, élvezve a friss levegőt. Délben haladjon át a földeken Fortaleny bájos csarnokáig, mielőtt visszatérne Suecába. A délutáni kerékpározás az önkormányzati kiállítások és a rizsrészleg mellett visz el. Az este a neves zenei athenaeumban éri, kulturális elmélyüléssel.",
+        "ro": "Pedalați până la centrul istoric din Riola pentru a vă bucura de aerul dimineții. La prânz, traversați câmpurile spre primăria din Fortaleny, înainte de a reveni în Sueca. Plimbarea de după-amiază vă poartă pe la expozițiile municipale și departamentul orezului. Seara coboară în timp ce pedalați spre renumitul ateneu muzical.",
+        "en": "Pedal out to the historic civic center of Riola first thing, enjoying the morning air. Midday, cross the fields to Fortaleny's charming hall before returning to Sueca for literary history. Afternoon riding takes you past the municipal exhibitions and the unique rice department. Evening falls as you cycle to the renowned musical athenaeum for cultural reflection."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "21:53",
+      "total_km": 5.7,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Ajuntament de Fortaleny",
+            "hu": "Fortaleny Városháza",
+            "ro": "Primăria din Fortaleny",
+            "en": "Ajuntament de Fortaleny"
+          },
+          "coords": [
+            -0.313653,
+            39.183928
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie den malerischen Charme dieses Verwaltungsgebäudes und halten Sie inne, um die informativen Tafeln direkt neben dem Eingang zu lesen.",
+            "hu": "Fedezze fel ennek az adminisztratív épületnek a különleges varázsát, és álljon meg, hogy elolvassa a közvetlenül a bejáratnál található információs táblákat.",
+            "ro": "Descoperiți farmecul pitoresc și semnificația clădirii administrative, făcând o pauză pentru a citi plăcile informative situate chiar la intrarea sa.",
+            "en": "Discover the quaint charm and historical significance of this administrative building, pausing to read the informative plaques located right by the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Ajuntament de Riola",
+            "hu": "Riola Városháza",
+            "ro": "Primăria din Riola",
+            "en": "Ajuntament de Riola"
+          },
+          "coords": [
+            -0.334534,
+            39.195218
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die klassische bürgerliche Architektur dieses historischen Rathauses, die in den ruhigeren Morgenstunden am besten für Fotos geeignet ist.",
+            "hu": "Csodálja meg a szomszédos terület történelmi városházájának klasszikus polgári építészetét, amelyet a csendesebb reggeli órákban a legjobb fotózni.",
+            "ro": "Minunați-vă de arhitectura civică clasică a acestei primării istorice, cel mai bine apreciată în timpul orelor mai liniștite ale dimineții pentru fotografii.",
+            "en": "Marvel at the classical civic architecture of this historic town hall in the neighboring area, best appreciated during the quieter morning hours for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Joan Fuster",
+            "hu": "Museu Joan Fuster",
+            "ro": "Muzeul Joan Fuster",
+            "en": "Museu Joan Fuster"
+          },
+          "coords": [
+            -0.31281,
+            39.201715
+          ],
+          "category": "museum",
+          "arrive_at": "12:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden literarischen Archive des berühmten lokalen Essayisten und schauen Sie sich die interaktiven Displays im Erdgeschoss an.",
+            "hu": "Fedezze fel a híres helyi esszéíró lenyűgöző irodalmi archívumát, és mindenképpen próbálja ki a földszinten található interaktív kiállításokat.",
+            "ro": "Explorați arhivele literare fascinante ale renumitului eseist local și asigurați-vă că verificați expozițiile interactive situate la parterul clădirii.",
+            "en": "Explore the fascinating literary and historical archives of the renowned local essayist, and check out the interactive displays on the ground floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Maduixa teatre",
+            "hu": "Maduixa teatre",
+            "ro": "Teatrul Maduixa",
+            "en": "Maduixa teatre"
+          },
+          "coords": [
+            -0.312736,
+            39.199449
+          ],
+          "category": "cultural",
+          "arrive_at": "13:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie die lebendigen zeitgenössischen Aufführungen in diesem Zentrum, wo es dringend empfohlen wird, Tickets für Abendvorstellungen im Voraus zu buchen.",
+            "hu": "Csodálja meg a kortárs előadásokat ebben a kulturális központban, ahol az esti műsorokra erősen ajánlott előzetesen online jegyet foglalni.",
+            "ro": "Admirați spectacolele contemporane vibrante din acest centru cultural important, unde rezervarea online în avans a biletelor este foarte recomandată.",
+            "en": "Admire the vibrant contemporary performances at this prominent cultural hub, where booking tickets online in advance is highly recommended for evening shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Sala Municipal d'Exposicions dels Porxets",
+            "hu": "Porxets Városi Kiállítóterem",
+            "ro": "Sala Municipală de Expoziții Porxets",
+            "en": "Sala Municipal d'Exposicions dels Porxets"
+          },
+          "coords": [
+            -0.310705,
+            39.20284
+          ],
+          "category": "museum",
+          "arrive_at": "15:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betrachten Sie wechselnde städtische Kunstausstellungen unter den charakteristischen Bögen dieses historischen Gebäudes und achten Sie auf die Architektur.",
+            "hu": "Tekintse meg az önkormányzati művészeti kiállításokat e történelmi épület jellegzetes boltívei alatt, időt szánva a megőrzött építészet megfigyelésére.",
+            "ro": "Vizionați expozițiile de artă municipală sub arcadele caracteristice ale acestei clădiri istorice, făcându-vă timp pentru a observa arhitectura conservată.",
+            "en": "View stunning rotating municipal art exhibitions under the characteristic arches of this historic building, taking time to notice the preserved architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Departamento del arroz",
+            "hu": "Rizs Tanszék / Múzeum",
+            "ro": "Departamentul Orezului",
+            "en": "Departamento del arroz"
+          },
+          "coords": [
+            -0.308836,
+            39.200482
+          ],
+          "category": "museum",
+          "arrive_at": "16:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das reiche landwirtschaftliche Erbe der Region ein, lernen Sie den Reisanbau kennen und fragen Sie die Führer nach traditionellen Erntemethoden.",
+            "hu": "Merüljön el a régió gazdag mezőgazdasági örökségében, ismerje meg a rizstermesztést, és bátran kérdezze az idegenvezetőket a hagyományos betakarításról.",
+            "ro": "Pătrundeți în patrimoniul agricol bogat al regiunii învățând despre cultivarea orezului și întrebați ghizii despre tehnicile tradiționale de recoltare.",
+            "en": "Dive into the rich agricultural heritage of the region by learning about rice cultivation, and ask the guides about the traditional harvesting techniques."
+          }
+        },
+        {
+          "name": {
+            "de": "Societat Unió Musical",
+            "hu": "Zenei Unió Társasága",
+            "ro": "Societatea Unirea Muzicală",
+            "en": "Societat Unió Musical"
+          },
+          "coords": [
+            -0.309178,
+            39.203558
+          ],
+          "category": "cultural",
+          "arrive_at": "18:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die lokale musikalische Tradition dieser historischen Gesellschaft ein und kommen Sie früh, um die talentierten Musiker bei Proben zu sehen.",
+            "hu": "Merüljön el a helyi zenei hagyományokban ebben a történelmi társaságban, és érkezzen korán, hogy bepillantást nyerjen a tehetséges zenészek próbáiba.",
+            "ro": "Cufundați-vă în tradiția muzicală locală la această societate istorică, ajungând devreme pentru a-i vedea pe muzicienii talentați în timpul repetițiilor lor.",
+            "en": "Immerse yourself in the local musical tradition at this historic society, arriving early to catch a glimpse of the talented musicians during their rehearsals."
+          }
+        },
+        {
+          "name": {
+            "de": "Ateneu Musical de Sueca",
+            "hu": "Sueca Zenei Athenaeum",
+            "ro": "Ateneul Muzical din Sueca",
+            "en": "Ateneu Musical de Sueca"
+          },
+          "coords": [
+            -0.3083,
+            39.205154
+          ],
+          "category": "cultural",
+          "arrive_at": "20:03",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die leidenschaftliche Akustik und Geschichte des legendären musikalischen Athenäums der Stadt und besichtigen Sie die historischen Instrumente.",
+            "hu": "Tapasztalja meg a város legendás zenei athenaeumának lenyűgöző akusztikáját, és mindenképpen tekintse meg a benne található régi hangszerek kiállítását.",
+            "ro": "Experimentați acustica pasională a legendarului ateneu muzical al orașului, asigurându-vă că vedeți și expoziția de instrumente muzicale de epocă din interior.",
+            "en": "Experience the passionate acoustics and rich history of the town's legendary musical athenaeum, making sure to view the display of vintage instruments inside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie nach Fortaleny, um den Tag zu beginnen und die regionale Geschichte zu würdigen. Mittags geht es zum Rathaus von Riola, bevor Sie nach Sueca zurückkehren. Der Nachmittag wird zu Fuß zwischen dem Joan Fuster Museum und den Reisarchiven verbracht. Beenden Sie den Abend, indem Sie die pulsierenden musikalischen Zentren besuchen.",
+        "hu": "Vezessen Fortalenybe a nap indításaként, és ismerje meg a regionális történelmet. Délben utazzon át Riola városházájához, mielőtt visszatérne Suecába. A délutánt gyalogosan töltheti a Joan Fuster múzeum és a rizsarchívumok között. Zárja az estét a nyüzsgő helyi zenei központok meglátogatásával.",
+        "ro": "Conduceți spre Fortaleny pentru a vă începe ziua, apreciind istoria regională. La prânz, mergeți la primăria din Riola, înainte de a vă întoarce în Sueca. După-amiaza este petrecută pe jos, navigând între muzeul Joan Fuster și arhivele orezului. Terminați seara vizitând centrele muzicale vibrante din oraș.",
+        "en": "Drive out to Fortaleny to start your day, appreciating the regional administrative history. Midday, cruise over to Riola's town hall before heading back into Sueca to walk the dense central cluster. The afternoon is spent on foot navigating between the Joan Fuster museum and the rice archives. Finish the evening by hopping between the vibrant musical hubs."
+      }
+    }
+  }
+}

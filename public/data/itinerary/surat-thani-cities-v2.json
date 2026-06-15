@@ -1,0 +1,497 @@
+{
+  "city_id": "surat-thani-cities-v2",
+  "anchor": {
+    "name": "Surat Thani",
+    "coords": [
+      99.333,
+      9.133
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "12:56",
+      "total_km": 1.09,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "City Pillar Schrein",
+            "hu": "Városi Oszlopszentély",
+            "ro": "Altarul Principal al Orașului",
+            "en": "City Pillar Shrine"
+          },
+          "coords": [
+            99.321706,
+            9.139188
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisite thailändische Architektur des City Pillar Shrine, dem spirituellen Zentrum der Einheimischen, aber vergessen Sie nicht, sich respektvoll zu kleiden.",
+            "hu": "Csodálja meg a helyiek spirituális központjának számító szentély lenyűgöző thai építészetét, de belépés előtt ne felejtse el levenni a cipőjét és szerényen öltözködni.",
+            "ro": "Admirați arhitectura thailandeză rafinată a altarului principal, un centru spiritual local, dar amintiți-vă să vă scoateți încălțămintea și să vă îmbrăcați decent.",
+            "en": "Admire the exquisite Thai architecture of the City Pillar Shrine, a spiritual center for locals, but remember to remove your shoes and dress modestly before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Dai Dhammaram",
+            "hu": "Wat Dai Dhammaram",
+            "ro": "Wat Dai Dhammaram",
+            "en": "Wat Dai Dhammaram"
+          },
+          "coords": [
+            99.323074,
+            9.140578
+          ],
+          "category": "religious",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen ruhigen Tempel am Flussufer, der für seine kunstvollen Details bekannt ist, und besuchen Sie ihn am besten früh, um der Nachmittagshitze zu entgehen.",
+            "hu": "Fedezze fel ezt a díszes részleteiről ismert, békés folyóparti templomot, amely tökéletes a meditációra, és érkezzen kora reggel, hogy elkerülje a délutáni hőséget.",
+            "ro": "Explorați acest templu pașnic de pe malul râului, cunoscut pentru detaliile sale ornamentate, și vizitați-l devreme pentru a evita căldura de după-amiază.",
+            "en": "Explore this peaceful riverside temple known for its ornate details and quiet atmosphere, making it ideal for meditation; just visit early to avoid the afternoon heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt zur Brücke",
+            "hu": "Híd kilátópont",
+            "ro": "Punct de belvedere spre pod",
+            "en": "Viewpoint to Bridge"
+          },
+          "coords": [
+            99.322686,
+            9.142987
+          ],
+          "category": "natural",
+          "arrive_at": "10:22",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Machen Sie atemberaubende Fotos von der modernen Brücke über den Tapee River, ein perfekter Ort, um die Stadtentwicklung besonders im goldenen Abendlicht zu genießen.",
+            "hu": "Készítsen lenyűgöző fotókat a Tapee folyón átívelő modern hídról, amely kiváló helyszín a város fejlődésének megfigyelésére, különösen a lenyugvó nap fényében.",
+            "ro": "Surprindeți fotografii uimitoare cu podul modern de peste râul Tapee, un loc perfect pentru a aprecia dezvoltarea orașului, mai ales în lumina caldă a apusului.",
+            "en": "Capture stunning photos of the modern bridge stretching over the Tapee River, a perfect spot to appreciate the city's growth, especially during the golden hour light."
+          }
+        },
+        {
+          "name": {
+            "de": "Tapee River Aussichtspunkt",
+            "hu": "Tapee folyó kilátó",
+            "ro": "Punct de belvedere pe râul Tapee",
+            "en": "Tapee River Viewpoint"
+          },
+          "coords": [
+            99.323684,
+            9.145164
+          ],
+          "category": "natural",
+          "arrive_at": "10:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Machen Sie eine entspannte Pause am sanft fließenden Fluss, beobachten Sie die lokalen Longtail-Boote und holen Sie sich zur Erfrischung eine Kokosnuss bei einem Straßenhändler.",
+            "hu": "Tartsan egy pihentető szünetet a lágyan csörgedező folyó partján, figyelje meg a helyi csónakokat, és frissítőként vegyen egy kókuszdiót valamelyik közeli utcai árustól.",
+            "ro": "Luați o pauză relaxantă lângă râul lin pentru a privi bărcile locale tradiționale trecând și luați o nucă de cocos proaspătă de la un vânzător stradal pentru a vă răcori.",
+            "en": "Take a relaxing pause by the gently flowing river to watch local longtail boats drift by, and consider grabbing a fresh coconut from a nearby street vendor to cool down."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Sai",
+            "hu": "Wat Sai",
+            "ro": "Wat Sai",
+            "en": "Wat Sai"
+          },
+          "coords": [
+            99.325654,
+            9.145274
+          ],
+          "category": "religious",
+          "arrive_at": "11:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Betreten Sie diesen historischen religiösen Komplex, um die wunderschönen Holzschnitzereien zu sehen, die man am besten genießt, wenn die Mönche am Morgen leise singen.",
+            "hu": "Lépjen be ebbe a történelmi vallási komplexumba, hogy megcsodálja a gyönyörű fafaragásokat, amelyeket a reggeli szerzetesi énekek tesznek igazán felejthetetlenné.",
+            "ro": "Pășiți în acest complex religios istoric pentru a vedea sculpturile sale din lemn și structurile tradiționale, cel mai bine de apreciat în timpul incantațiilor matinale.",
+            "en": "Step into this historical religious complex to see its beautiful wooden carvings and traditional structures, best appreciated when the morning monks are quietly chanting."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Klang",
+            "hu": "Wat Klang",
+            "ro": "Wat Klang",
+            "en": "Wat Klang"
+          },
+          "coords": [
+            99.324831,
+            9.146499
+          ],
+          "category": "landmark",
+          "arrive_at": "12:01",
+          "stay_min": 55,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche Erbe von Surat Thani an diesem zentralen Wahrzeichen, das Kulturgeschichte mit dem Alltag verbindet, ein toller Ausgangspunkt für Ihre Tour.",
+            "hu": "Fedezze fel Surat Thani gazdag örökségét ennél a központi nevezetességnél, amely ötvözi a történelmet a mindennapi élettel, és kiváló kiindulópontja a városnézésnek.",
+            "ro": "Descoperiți moștenirea bogată din Surat Thani la acest reper central care îmbină istoria culturală cu viața locală de zi cu zi, un punct de plecare excelent pentru tur.",
+            "en": "Discover the rich heritage of Surat Thani at this central landmark that blends cultural history with daily local life, making it a great place to start your city tour."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am pulsierenden City Pillar Shrine, bevor Sie zum ruhigen Wat Dai Dhammaram spazieren, wo Sie erste spirituelle Eindrücke sammeln. Die Mittagszeit führt Sie ans Ufer, wo der Aussichtspunkt zur Brücke fantastische Panoramabilder des Tapee River bietet. Genießen Sie am Nachmittag eine ruhige Pause am Tapee River Viewpoint und beobachten Sie traditionelle Boote, die sanft vorbeigleiten. Beenden Sie Ihren Spaziergang mit der Erkundung des historischen Wat Sai und des Wat Klang, während die Abendlichter die belebten Straßen der Stadt sanft erhellen.",
+        "hu": "Kezdje a reggelt a nyüzsgő Városi Oszlopszentélynél, magába szívva Surat Thani spirituális lüktetését, majd sétáljon át a békés Wat Dai Dhammaramhoz. A dél már a folyóparton éri, ahol a Hídhoz vezető kilátópont fantasztikus panorámaképeket kínál a Tapee folyóról. Délután tartson egy csendes pihenőt a Tapee folyó kilátójánál, figyelve a hagyományos csónakokat a vízen. Gyalogos túráját a történelmi Wat Sai és a kulturálisan gazdag Wat Klang felfedezésével zárhatja, miközben az esti fények lassan megvilágítják a várost.",
+        "ro": "Începeți dimineața la vibrantul Altar Principal, absorbind bătăile inimii spirituale ale orașului, înainte de o scurtă plimbare la Wat Dai Dhammaram. Amiaza vă aduce pe malul râului, unde punctul de belvedere spre pod oferă imagini panoramice fantastice ale râului Tapee. După-amiaza, bucurați-vă de o pauză liniștită la Punctul de Belvedere Tapee, privind bărcile tradiționale care alunecă grațios pe apă. Încheiați turul pietonal explorând istoria de la Wat Sai și bogăția culturală a Wat Klang, pe măsură ce luminile serii luminează străzile.",
+        "en": "Start your morning at the vibrant City Pillar Shrine, absorbing the spiritual heartbeat of Surat Thani before taking a short walk to the serene Wat Dai Dhammaram. Midday brings you to the riverside, where the Viewpoint to the Bridge offers fantastic panoramic shots of the flowing Tapee River. In the afternoon, enjoy a quiet break at the Tapee River Viewpoint, watching traditional boats glide gracefully against the current. Conclude your walking tour by exploring the historical Wat Sai and the culturally rich Wat Klang as the evening lights begin to illuminate the bustling streets."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:55",
+      "total_km": 3.81,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ko Lamphu Park",
+            "hu": "Ko Lamphu Park",
+            "ro": "Parcul Ko Lamphu",
+            "en": "Ko Lamphu Park"
+          },
+          "coords": [
+            99.315661,
+            9.137464
+          ],
+          "category": "park",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entfliehen Sie dem Trubel in diesem autofreien Inselpark mitten im Fluss, der sich perfekt für einen gemütlichen Spaziergang oder ein Picknick unter alten Bäumen eignet.",
+            "hu": "Szabaduljon meg a városi nyüzsgéstől ebben a buja, autómentes szigeti parkban, amely tökéletes egy kellemes sétához vagy egy árnyas fák alatti pihentető piknikhez.",
+            "ro": "Scăpați de agitația urbană în acest parc insular luxuriant, fără mașini, perfect pentru o plimbare pe îndelete sau un picnic la umbra copacilor bătrâni și masivi.",
+            "en": "Escape the urban bustle in this lush, car-free island park in the middle of the river, perfect for a leisurely stroll or a picnic under the shade of massive old trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Phothawat",
+            "hu": "Wat Phothawat",
+            "ro": "Wat Phothawat",
+            "en": "Wat Phothawat"
+          },
+          "coords": [
+            99.317632,
+            9.130594
+          ],
+          "category": "religious",
+          "arrive_at": "10:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.79,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die goldenen Stupas und ruhigen Buddhastatuen dieses weniger besuchten Tempels, der ein tief authentisches Erlebnis abseits der Touristenmassen bietet.",
+            "hu": "Csodálja meg ennek a kevésbé látogatott templomnak az arany sztúpáit és békés Buddha-szobrait, amelyek hiteles élményt nyújtanak távol a zajos turistatömegektől.",
+            "ro": "Minunați-vă de stupele aurii și statuile senine ale lui Buddha din acest templu mai puțin vizitat, oferind o experiență autentică departe de principalele mulțimi de turiști.",
+            "en": "Marvel at the intricate golden stupas and serene Buddha statues of this lesser-visited temple, offering a deeply authentic experience away from the main tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "City Pillar Schrein",
+            "hu": "Városi Oszlopszentély",
+            "ro": "Altarul Principal al Orașului",
+            "en": "City Pillar Shrine"
+          },
+          "coords": [
+            99.321706,
+            9.139188
+          ],
+          "category": "landmark",
+          "arrive_at": "11:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.05,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisite thailändische Architektur des City Pillar Shrine, dem spirituellen Zentrum der Einheimischen, aber vergessen Sie nicht, sich respektvoll zu kleiden.",
+            "hu": "Csodálja meg a helyiek spirituális központjának számító szentély lenyűgöző thai építészetét, de belépés előtt ne felejtse el levenni a cipőjét és szerényen öltözködni.",
+            "ro": "Admirați arhitectura thailandeză rafinată a altarului principal, un centru spiritual local, dar amintiți-vă să vă scoateți încălțămintea și să vă îmbrăcați decent.",
+            "en": "Admire the exquisite Thai architecture of the City Pillar Shrine, a spiritual center for locals, but remember to remove your shoes and dress modestly before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Thamma Bucha",
+            "hu": "Wat Thamma Bucha",
+            "ro": "Wat Thamma Bucha",
+            "en": "Wat Thamma Bucha"
+          },
+          "coords": [
+            99.327127,
+            9.143514
+          ],
+          "category": "religious",
+          "arrive_at": "11:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.76,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen verehrten Tempelkomplex, um die täglichen Rituale lokaler Buddhisten zu beobachten, und achten Sie darauf, dass Schultern und Knie bedeckt sind.",
+            "hu": "Látogasson el ebbe a nagyra becsült templomkomplexumba, figyelje meg a helyiek mindennapi rituáléit, és a tisztelet jeléül feltétlenül takarja el a vállát és a térdét.",
+            "ro": "Vizitați acest complex de temple venerat pentru a observa ritualurile zilnice ale budiștilor locali și asigurați-vă că aveți umerii și genunchii acoperiți din respect.",
+            "en": "Visit this highly revered temple complex to observe the daily rituals of local Buddhists, and make sure your shoulders and knees are covered as a sign of deep respect."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Phathanaram",
+            "hu": "Wat Phathanaram",
+            "ro": "Wat Phathanaram",
+            "en": "Wat Phathanaram"
+          },
+          "coords": [
+            99.328459,
+            9.148473
+          ],
+          "category": "religious",
+          "arrive_at": "12:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.57,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die Ruhe dieses historischen Tempels mit einzigartigen architektonischen Details, ideal, um in der pulsierenden Stadt einen Moment der Stille zu finden.",
+            "hu": "Merüljön el ennek a különleges építészeti részletekkel és buja kertekkel rendelkező templomnak a nyugalmában, amely ideális a csend megtalálására a nyüzsgő városban.",
+            "ro": "Cufundați-vă în liniștea acestui templu istoric, cu detalii arhitecturale unice și grădini luxuriante, ideal pentru a găsi un moment de pace în orașul vibrant.",
+            "en": "Immerse yourself in the tranquility of this historic temple featuring unique architectural details and lush gardens, ideal for finding a moment of peace in the vibrant city."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Raphael Kathedrale",
+            "hu": "Szent Rafael Katedrális",
+            "ro": "Catedrala Sf. Rafael",
+            "en": "St. Raphael Cathedral"
+          },
+          "coords": [
+            99.334255,
+            9.149573
+          ],
+          "category": "religious",
+          "arrive_at": "13:10",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.64,
+          "tip_5lang": {
+            "de": "Erleben Sie einen markanten Kontrast im Architekturstil in dieser schönen katholischen Kathedrale am Flussufer, wo Sie in Ruhe die bunten Buntglasfenster bewundern können.",
+            "hu": "Tapasztalja meg az építészeti stílusok feltűnő kontrasztját ebben a gyönyörű folyóparti katolikus katedrálisban, ahol nyugodtan megcsodálhatja az élénk ólomüveg ablakokat.",
+            "ro": "Experimentați un contrast uimitor în stilul arhitectural la această frumoasă catedrală catolică de pe malul râului, unde puteți admira vitraliile viu colorate.",
+            "en": "Experience a striking contrast in architectural style at this beautiful riverside Catholic cathedral, where you can quietly admire the vibrant stained glass windows."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer in der üppigen Oase des Ko Lamphu Parks und genießen Sie die frische Morgenluft auf dieser autofreien Flussinsel. Mittags radeln Sie in Richtung Wat Phothawat und dem City Pillar Shrine, um den historischen und spirituellen Kern der Stadt zu erkunden. Der Nachmittag bietet Besuche des kunstvoll gestalteten Wat Thamma Bucha und Wat Phathanaram, die ruhige Orte zur Besinnung bieten. Beenden Sie Ihren Tag an der atemberaubenden St. Raphael Kathedrale und bewundern Sie die Architektur in der sanften Nachmittagssonne.",
+        "hu": "Kezdje kerékpáros kalandját a Ko Lamphu Park buja oázisában, élvezve a friss reggeli levegőt ezen a békés, autómentes folyami szigeten. Délben tekerjen a Wat Phothawat és a Városi Oszlopszentély felé, felfedezve a város szívének történelmi és spirituális vonalát. A délután folyamán a bonyolult tervezésű Wat Thamma Bucha és a Wat Phathanaram látogatásai következnek, nyugodt teret biztosítva a pihenéshez. Kerékpáros napját a lenyűgöző Szent Rafael katedrálisnál fejezheti be, megcsodálva annak egyedi építészetét a késő délutáni napsütésben.",
+        "ro": "Începeți aventura pe bicicletă în oaza luxuriantă a parcului Ko Lamphu, bucurându-vă de aerul proaspăt al dimineții pe această insulă liniștită. Până la prânz, pedalați spre Wat Phothawat și Altarul Principal, urmărind linia istorică și spirituală a inimii orașului. După-amiaza se desfășoară cu vizite la Wat Thamma Bucha și Wat Phathanaram, locuri ce oferă spații liniștite pentru reflecție. Încheiați ziua de ciclism la uimitoarea Catedrală Sf. Rafael, admirând arhitectura sa unică pe măsură ce soarele de după-amiază aruncă umbre lungi.",
+        "en": "Kick off your cycling adventure in the lush oasis of Ko Lamphu Park, enjoying the crisp morning air on this peaceful, car-free river island. By midday, pedal towards Wat Phothawat and the City Pillar Shrine, tracing the historical and spiritual lineage of the city’s heart. Your afternoon unfolds with visits to the intricately designed Wat Thamma Bucha and Wat Phathanaram, offering quiet spaces for reflection amid your active ride. Finish your cycling day at the stunning St. Raphael cathedral, taking in its unique architecture as the late afternoon sun casts long, beautiful shadows."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:57",
+      "total_km": 3.78,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "St. Raphael Kathedrale",
+            "hu": "Szent Rafael Katedrális",
+            "ro": "Catedrala Sf. Rafael",
+            "en": "St. Raphael Cathedral"
+          },
+          "coords": [
+            99.334255,
+            9.149573
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie einen markanten Kontrast im Architekturstil in dieser schönen katholischen Kathedrale am Flussufer, wo Sie in Ruhe die bunten Buntglasfenster bewundern können.",
+            "hu": "Tapasztalja meg az építészeti stílusok feltűnő kontrasztját ebben a gyönyörű folyóparti katolikus katedrálisban, ahol nyugodtan megcsodálhatja az élénk ólomüveg ablakokat.",
+            "ro": "Experimentați un contrast uimitor în stilul arhitectural la această frumoasă catedrală catolică de pe malul râului, unde puteți admira vitraliile viu colorate.",
+            "en": "Experience a striking contrast in architectural style at this beautiful riverside Catholic cathedral, where you can quietly admire the vibrant stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Phathanaram",
+            "hu": "Wat Phathanaram",
+            "ro": "Wat Phathanaram",
+            "en": "Wat Phathanaram"
+          },
+          "coords": [
+            99.328459,
+            9.148473
+          ],
+          "category": "religious",
+          "arrive_at": "10:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.64,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die Ruhe dieses historischen Tempels mit einzigartigen architektonischen Details, ideal, um in der pulsierenden Stadt einen Moment der Stille zu finden.",
+            "hu": "Merüljön el ennek a különleges építészeti részletekkel és buja kertekkel rendelkező templomnak a nyugalmában, amely ideális a csend megtalálására a nyüzsgő városban.",
+            "ro": "Cufundați-vă în liniștea acestui templu istoric, cu detalii arhitecturale unice și grădini luxuriante, ideal pentru a găsi un moment de pace în orașul vibrant.",
+            "en": "Immerse yourself in the tranquility of this historic temple featuring unique architectural details and lush gardens, ideal for finding a moment of peace in the vibrant city."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Klang",
+            "hu": "Wat Klang",
+            "ro": "Wat Klang",
+            "en": "Wat Klang"
+          },
+          "coords": [
+            99.324831,
+            9.146499
+          ],
+          "category": "landmark",
+          "arrive_at": "11:09",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche Erbe von Surat Thani an diesem zentralen Wahrzeichen, das Kulturgeschichte mit dem Alltag verbindet, ein toller Ausgangspunkt für Ihre Tour.",
+            "hu": "Fedezze fel Surat Thani gazdag örökségét ennél a központi nevezetességnél, amely ötvözi a történelmet a mindennapi élettel, és kiváló kiindulópontja a városnézésnek.",
+            "ro": "Descoperiți moștenirea bogată din Surat Thani la acest reper central care îmbină istoria culturală cu viața locală de zi cu zi, un punct de plecare excelent pentru tur.",
+            "en": "Discover the rich heritage of Surat Thani at this central landmark that blends cultural history with daily local life, making it a great place to start your city tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Tapee River Aussichtspunkt",
+            "hu": "Tapee folyó kilátó",
+            "ro": "Punct de belvedere pe râul Tapee",
+            "en": "Tapee River Viewpoint"
+          },
+          "coords": [
+            99.323684,
+            9.145164
+          ],
+          "category": "natural",
+          "arrive_at": "11:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Machen Sie eine entspannte Pause am sanft fließenden Fluss, beobachten Sie die lokalen Longtail-Boote und holen Sie sich zur Erfrischung eine Kokosnuss bei einem Straßenhändler.",
+            "hu": "Tartsan egy pihentető szünetet a lágyan csörgedező folyó partján, figyelje meg a helyi csónakokat, és frissítőként vegyen egy kókuszdiót valamelyik közeli utcai árustól.",
+            "ro": "Luați o pauză relaxantă lângă râul lin pentru a privi bărcile locale tradiționale trecând și luați o nucă de cocos proaspătă de la un vânzător stradal pentru a vă răcori.",
+            "en": "Take a relaxing pause by the gently flowing river to watch local longtail boats drift by, and consider grabbing a fresh coconut from a nearby street vendor to cool down."
+          }
+        },
+        {
+          "name": {
+            "de": "City Pillar Schrein",
+            "hu": "Városi Oszlopszentély",
+            "ro": "Altarul Principal al Orașului",
+            "en": "City Pillar Shrine"
+          },
+          "coords": [
+            99.321706,
+            9.139188
+          ],
+          "category": "landmark",
+          "arrive_at": "12:02",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.68,
+          "tip_5lang": {
+            "de": "Bewundern Sie die exquisite thailändische Architektur des City Pillar Shrine, dem spirituellen Zentrum der Einheimischen, aber vergessen Sie nicht, sich respektvoll zu kleiden.",
+            "hu": "Csodálja meg a helyiek spirituális központjának számító szentély lenyűgöző thai építészetét, de belépés előtt ne felejtse el levenni a cipőjét és szerényen öltözködni.",
+            "ro": "Admirați arhitectura thailandeză rafinată a altarului principal, un centru spiritual local, dar amintiți-vă să vă scoateți încălțămintea și să vă îmbrăcați decent.",
+            "en": "Admire the exquisite Thai architecture of the City Pillar Shrine, a spiritual center for locals, but remember to remove your shoes and dress modestly before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Phothawat",
+            "hu": "Wat Phothawat",
+            "ro": "Wat Phothawat",
+            "en": "Wat Phothawat"
+          },
+          "coords": [
+            99.317632,
+            9.130594
+          ],
+          "category": "religious",
+          "arrive_at": "12:30",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.05,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die goldenen Stupas und ruhigen Buddhastatuen dieses weniger besuchten Tempels, der ein tief authentisches Erlebnis abseits der Touristenmassen bietet.",
+            "hu": "Csodálja meg ennek a kevésbé látogatott templomnak az arany sztúpáit és békés Buddha-szobrait, amelyek hiteles élményt nyújtanak távol a zajos turistatömegektől.",
+            "ro": "Minunați-vă de stupele aurii și statuile senine ale lui Buddha din acest templu mai puțin vizitat, oferind o experiență autentică departe de principalele mulțimi de turiști.",
+            "en": "Marvel at the intricate golden stupas and serene Buddha statues of this lesser-visited temple, offering a deeply authentic experience away from the main tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Ko Lamphu Park",
+            "hu": "Ko Lamphu Park",
+            "ro": "Parcul Ko Lamphu",
+            "en": "Ko Lamphu Park"
+          },
+          "coords": [
+            99.315661,
+            9.137464
+          ],
+          "category": "park",
+          "arrive_at": "13:12",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.78,
+          "tip_5lang": {
+            "de": "Entfliehen Sie dem Trubel in diesem autofreien Inselpark mitten im Fluss, der sich perfekt für einen gemütlichen Spaziergang oder ein Picknick unter alten Bäumen eignet.",
+            "hu": "Szabaduljon meg a városi nyüzsgéstől ebben a buja, autómentes szigeti parkban, amely tökéletes egy kellemes sétához vagy egy árnyas fák alatti pihentető piknikhez.",
+            "ro": "Scăpați de agitația urbană în acest parc insular luxuriant, fără mașini, perfect pentru o plimbare pe îndelete sau un picnic la umbra copacilor bătrâni și masivi.",
+            "en": "Escape the urban bustle in this lush, car-free island park in the middle of the river, perfect for a leisurely stroll or a picnic under the shade of massive old trees."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Autotour an der prächtigen St. Raphael Kathedrale und entgehen Sie den Menschenmassen, um ihre Schönheit am Flussufer in Ruhe zu genießen. Fahren Sie in die Mittagsstunden mit Besuchen im Wat Phathanaram und Wat Klang, um deren markante architektonische Elemente zu bewundern. Im Laufe des Nachmittags halten Sie am Tapee River Viewpoint und dem ikonischen City Pillar Shrine, die Wasserwege und Stadtgeschichte verbinden. Ihre Route endet am Wat Phothawat, bevor Sie zum Ko Lamphu Park für einen entspannten Abendspaziergang hinüberfahren.",
+        "hu": "Autós túráját a csodálatos Szent Rafael katedrálisnál kezdje, elkerülve a tömeget, hogy teljes mértékben értékelni tudja folyóparti szépségét. A déli órákban vezessen a Wat Phathanaram és a Wat Klang felé, időt szakítva lenyűgöző építészeti elemeik és kulturális jelentőségük megcsodálására. A délután folyamán álljon meg a Tapee folyó kilátójánál és az ikonikus Városi Oszlopszentélynél, összekötve a természetes vízi utakat a város történetével. Útvonala a Wat Phothawatnál ér véget, mielőtt átkelne a Ko Lamphu Parkba egy kellemes esti sétára.",
+        "ro": "Începeți turul cu mașina la magnifica Catedrală Sf. Rafael, evitând aglomerația pentru a aprecia pe deplin frumusețea sa pe malul râului. Conduceți lin în orele amiezii vizitând Wat Phathanaram și Wat Klang, admirând elementele lor arhitecturale și semnificația culturală. Pe măsură ce după-amiaza progresează, opriți-vă la Punctul de Belvedere Tapee și la Altarul Principal, conectând căile navigabile naturale cu istoria orașului. Traseul se încheie cu o vizită la Wat Phothawat, înainte de a trece spre Parcul Ko Lamphu pentru o seară de relaxare.",
+        "en": "Start your driving tour at the magnificent St. Raphael cathedral, beating the crowds to fully appreciate its riverside beauty and tranquil atmosphere. Drive smoothly into the midday hours by visiting Wat Phathanaram and Wat Klang, taking time to admire their striking architectural elements and cultural significance. As the afternoon progresses, stop by the Tapee River Viewpoint and the iconic City Pillar Shrine, connecting the natural waterways with the city's foundational history. Your route concludes with a visit to Wat Phothawat before crossing over to Ko Lamphu Park for a wonderfully relaxing evening stroll."
+      }
+    }
+  }
+}

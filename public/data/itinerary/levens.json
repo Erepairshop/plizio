@@ -1,0 +1,497 @@
+{
+  "city_id": "levens",
+  "anchor": {
+    "name": "Levens",
+    "coords": [
+      7.2244,
+      43.8608
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:20",
+      "total_km": 7.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Place de la République",
+            "hu": "Köztársaság tér",
+            "ro": "Piața Republicii",
+            "en": "Place de la République"
+          },
+          "coords": [
+            7.22623,
+            43.858795
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen, indem Sie die lokale Atmosphäre auf diesem zentralen Platz aufsaugen, und vergessen Sie nicht, sich ein frisches Gebäck zu holen.",
+            "hu": "Kezdje a reggelt a központi tér helyi hangulatának elnyelésével, és ne felejtsen el friss péksüteményt venni a közeli pékségből a felfedezés előtt.",
+            "ro": "Începeți dimineața absorbind atmosfera locală în această piață centrală și nu uitați să luați un produs de patiserie proaspăt de la o brutărie din apropiere.",
+            "en": "Start your morning absorbing the local atmosphere in this central square, and don't forget to grab a fresh pastry from a nearby bakery before exploring."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Antonin",
+            "hu": "Saint-Antonin templom",
+            "ro": "Biserica Saint-Antonin",
+            "en": "Saint-Antonin Church"
+          },
+          "coords": [
+            7.22552,
+            43.86032
+          ],
+          "category": "religious",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieses historischen religiösen Zentrums und achten Sie bei Ihrem friedlichen Besuch besonders auf die erhaltenen Altarbilder.",
+            "hu": "Csodálja meg e történelmi vallási központ lenyűgöző építészetét, különös figyelmet fordítva a gyönyörűen megőrzött oltárképekre a békés látogatás során.",
+            "ro": "Admirați arhitectura impresionantă a acestui centru religios istoric, acordând o atenție deosebită altarelor frumos conservate în timpul vizitei dumneavoastră liniștite.",
+            "en": "Admire the striking architecture of this historic religious center, paying special attention to the beautifully preserved altarpieces during your peaceful visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Abtei der Madone-des-Prés",
+            "hu": "Madone-des-Prés ősi apátsága",
+            "ro": "Vechea abație Madone-des-Prés",
+            "en": "Ancienne abbaye de la Madone-des-Prés"
+          },
+          "coords": [
+            7.238065,
+            43.851921
+          ],
+          "category": "religious",
+          "arrive_at": "10:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhigen Ruinen und verbliebenen Strukturen dieser alten Abtei und tragen Sie festes Schuhwerk, um bequem über das unebene Gelände zu laufen.",
+            "hu": "Fedezze fel ennek az ősi apátságnak a csendes romjait és fennmaradt építményeit, erős cipőt viselve, hogy kényelmesen sétálhasson az egyenetlen történelmi területen.",
+            "ro": "Descoperiți ruinele liniștite și structurile rămase ale acestei vechi abații, purtând încălțăminte robustă pentru a vă plimba confortabil pe terenul istoric denivelat.",
+            "en": "Discover the tranquil ruins and remaining structures of this ancient abbey, wearing sturdy shoes to comfortably walk around the slightly uneven historical grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Sainte Barbe",
+            "hu": "Sainte Barbe kápolna",
+            "ro": "Capela Sainte Barbe",
+            "en": "Chapelle Sainte Barbe"
+          },
+          "coords": [
+            7.219405,
+            43.884002
+          ],
+          "category": "historical",
+          "arrive_at": "12:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 57,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese malerische historische Kapelle, die der Heiligen Barbara gewidmet ist, und nehmen Sie sich Zeit für den Panoramablick auf die umliegenden Täler.",
+            "hu": "Fedezze fel ezt a Szent Borbálának szentelt, festői történelmi kápolnát, időt szánva arra, hogy magasan fekvő helyzetéből élvezze a környező völgyekre nyíló panorámát.",
+            "ro": "Explorați această capelă istorică pitorească dedicată Sfintei Barbara, făcându-vă timp să vă bucurați de priveliștile panoramice ample asupra văilor din jur.",
+            "en": "Explore this quaint historical chapel dedicated to Saint Barbara, taking time to enjoy the sweeping panoramic views of the surrounding valleys from its elevated position."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Heimsuchung und der Heiligen Philomena",
+            "hu": "A Látogatás és Szent Filoména temploma",
+            "ro": "Biserica Vizitației și Sfintei Filomena",
+            "en": "Église de la Visitation-et-Sainte-Philomène"
+          },
+          "coords": [
+            7.197746,
+            43.871262
+          ],
+          "category": "religious",
+          "arrive_at": "14:10",
+          "stay_min": 70,
+          "hop_from_prev_min": 34,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die zarte Fassade und das Innere dieser schönen Kirche und planen Sie Ihren Besuch so, dass das warme Nachmittagslicht durch die bunten Fenster fällt.",
+            "hu": "Csodálja meg e gyönyörű templom finom homlokzatát és belső művészetét, látogatását úgy időzítve, hogy elkapja a színes ablakokon átszűrődő meleg délutáni fényt.",
+            "ro": "Minunați-vă de fațada delicată și măiestria interioară a acestei biserici frumoase, programându-vă vizita pentru a prinde lumina caldă a după-amiezii prin ferestre.",
+            "en": "Marvel at the delicate facade and interior artistry of this beautiful church, timing your visit to catch the warm afternoon light filtering through the colorful windows."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im Herzen von Levens an der lebhaften Place de la République und saugen Sie die dörfliche Atmosphäre auf.\n\nAm Mittag tauchen Sie tiefer in die Geschichte ein, wenn Sie die Kirche Saint-Antonin und die ruhige alte Abtei besichtigen.\n\nAm Nachmittag belohnt Sie eine stetige Wanderung mit weiten Ausblicken von der Chapelle Sainte Barbe.\n\nWenn der Abend naht, beenden Sie Ihren Spaziergang an der eleganten Kirche der Heimsuchung und lassen den schönen Tag der Erkundung Revue passieren.",
+        "hu": "Kezdje a reggelt Levens szívében, a nyüzsgő Köztársaság téren, elmerülve a falu hamisítatlan hangulatában.\n\nA dél tartogat történelmi elmélyülést, amikor meglátogatja a Saint-Antonin templomot és a központ melletti csendes ősi apátságot.\n\nDélután egy kitartó séta jutalma a Chapelle Sainte Barbe-ról nyíló lenyűgöző panoráma lesz.\n\nAz este közeledtével zárja gyalogtúráját az elegáns Église de la Visitation templomnál, időt szánva a lassú felfedezéssel teli nap átgondolására.",
+        "ro": "Începeți-vă dimineața în inima orașului Levens la vibranta Place de la République, bucurându-vă de atmosfera autentică a satului.\n\nLa prânz pătrundeți mai adânc în istorie vizitând Biserica Saint-Antonin și liniștita abație antică situată chiar în afara centrului.\n\nDupă-amiaza, o plimbare constantă vă răsplătește cu priveliști ample de la Chapelle Sainte Barbe.\n\nPe măsură ce se apropie seara, încheiați-vă turul pietonal la eleganta biserică, reflectând la o zi frumoasă de explorare pe îndelete.",
+        "en": "Start your morning in the heart of Levens at the vibrant Place de la République, soaking in the genuine village atmosphere.\n\nMidday takes you deeper into history as you visit Saint-Antonin Church and the tranquil Ancienne abbaye de la Madone-des-Prés just outside the center.\n\nIn the afternoon, a steady walk rewards you with sweeping sights from Chapelle Sainte Barbe.\n\nAs evening approaches, conclude your walking tour at the elegant Église de la Visitation-et-Sainte-Philomène, taking time to reflect on a beautiful day of slow exploration."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:31",
+      "total_km": 15.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place de la République",
+            "hu": "Köztársaság tér",
+            "ro": "Piața Republicii",
+            "en": "Place de la République"
+          },
+          "coords": [
+            7.22623,
+            43.858795
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen, indem Sie die lokale Atmosphäre auf diesem zentralen Platz aufsaugen, und vergessen Sie nicht, sich ein frisches Gebäck zu holen.",
+            "hu": "Kezdje a reggelt a központi tér helyi hangulatának elnyelésével, és ne felejtsen el friss péksüteményt venni a közeli pékségből a felfedezés előtt.",
+            "ro": "Începeți dimineața absorbind atmosfera locală în această piață centrală și nu uitați să luați un produs de patiserie proaspăt de la o brutărie din apropiere.",
+            "en": "Start your morning absorbing the local atmosphere in this central square, and don't forget to grab a fresh pastry from a nearby bakery before exploring."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Antonin",
+            "hu": "Saint-Antonin templom",
+            "ro": "Biserica Saint-Antonin",
+            "en": "Saint-Antonin Church"
+          },
+          "coords": [
+            7.22552,
+            43.86032
+          ],
+          "category": "religious",
+          "arrive_at": "09:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieses historischen religiösen Zentrums und achten Sie bei Ihrem friedlichen Besuch besonders auf die erhaltenen Altarbilder.",
+            "hu": "Csodálja meg e történelmi vallási központ lenyűgöző építészetét, különös figyelmet fordítva a gyönyörűen megőrzött oltárképekre a békés látogatás során.",
+            "ro": "Admirați arhitectura impresionantă a acestui centru religios istoric, acordând o atenție deosebită altarelor frumos conservate în timpul vizitei dumneavoastră liniștite.",
+            "en": "Admire the striking architecture of this historic religious center, paying special attention to the beautifully preserved altarpieces during your peaceful visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Abtei der Madone-des-Prés",
+            "hu": "Madone-des-Prés ősi apátsága",
+            "ro": "Vechea abație Madone-des-Prés",
+            "en": "Ancienne abbaye de la Madone-des-Prés"
+          },
+          "coords": [
+            7.238065,
+            43.851921
+          ],
+          "category": "religious",
+          "arrive_at": "10:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhigen Ruinen und verbliebenen Strukturen dieser alten Abtei und tragen Sie festes Schuhwerk, um bequem über das unebene Gelände zu laufen.",
+            "hu": "Fedezze fel ennek az ősi apátságnak a csendes romjait és fennmaradt építményeit, erős cipőt viselve, hogy kényelmesen sétálhasson az egyenetlen történelmi területen.",
+            "ro": "Descoperiți ruinele liniștite și structurile rămase ale acestei vechi abații, purtând încălțăminte robustă pentru a vă plimba confortabil pe terenul istoric denivelat.",
+            "en": "Discover the tranquil ruins and remaining structures of this ancient abbey, wearing sturdy shoes to comfortably walk around the slightly uneven historical grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Sainte Barbe",
+            "hu": "Sainte Barbe kápolna",
+            "ro": "Capela Sainte Barbe",
+            "en": "Chapelle Sainte Barbe"
+          },
+          "coords": [
+            7.219405,
+            43.884002
+          ],
+          "category": "historical",
+          "arrive_at": "11:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese malerische historische Kapelle, die der Heiligen Barbara gewidmet ist, und nehmen Sie sich Zeit für den Panoramablick auf die umliegenden Täler.",
+            "hu": "Fedezze fel ezt a Szent Borbálának szentelt, festői történelmi kápolnát, időt szánva arra, hogy magasan fekvő helyzetéből élvezze a környező völgyekre nyíló panorámát.",
+            "ro": "Explorați această capelă istorică pitorească dedicată Sfintei Barbara, făcându-vă timp să vă bucurați de priveliștile panoramice ample asupra văilor din jur.",
+            "en": "Explore this quaint historical chapel dedicated to Saint Barbara, taking time to enjoy the sweeping panoramic views of the surrounding valleys from its elevated position."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle der Weißen Büßer",
+            "hu": "Fehér Bűnbánók kápolnája",
+            "ro": "Capela Penitenților Albi",
+            "en": "Chapel of the White Penitents"
+          },
+          "coords": [
+            7.247235,
+            43.916488
+          ],
+          "category": "religious",
+          "arrive_at": "13:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 4.1,
+          "tip_5lang": {
+            "de": "Treten Sie in dieser Kapelle in die Welt der lokalen Büßerbruderschaften ein und beobachten Sie die religiösen Artefakte, während Sie das ruhige Ambiente respektieren.",
+            "hu": "Lépjen be a helyi bűnbánó testvériségek lenyűgöző világába ebben a kápolnában, megfigyelve az egyedi vallási műtárgyakat, miközben tiszteletben tartja a csendes hangulatot.",
+            "ro": "Pășiți în lumea fascinantă a frățiilor locale de penitenți la această capelă, observând artefactele religioase unice și respectând ambianța tăcută a locului.",
+            "en": "Step into the fascinating world of the local penitent brotherhoods at this chapel, observing the unique religious artifacts while remaining respectful of the quiet ambiance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Heimsuchung und der Heiligen Philomena",
+            "hu": "A Látogatás és Szent Filoména temploma",
+            "ro": "Biserica Vizitației și Sfintei Filomena",
+            "en": "Église de la Visitation-et-Sainte-Philomène"
+          },
+          "coords": [
+            7.197746,
+            43.871262
+          ],
+          "category": "religious",
+          "arrive_at": "14:21",
+          "stay_min": 70,
+          "hop_from_prev_min": 34,
+          "hop_from_prev_km": 6.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die zarte Fassade und das Innere dieser schönen Kirche und planen Sie Ihren Besuch so, dass das warme Nachmittagslicht durch die bunten Fenster fällt.",
+            "hu": "Csodálja meg e gyönyörű templom finom homlokzatát és belső művészetét, látogatását úgy időzítve, hogy elkapja a színes ablakokon átszűrődő meleg délutáni fényt.",
+            "ro": "Minunați-vă de fațada delicată și măiestria interioară a acestei biserici frumoase, programându-vă vizita pentru a prinde lumina caldă a după-amiezii prin ferestre.",
+            "en": "Marvel at the delicate facade and interior artistry of this beautiful church, timing your visit to catch the warm afternoon light filtering through the colorful windows."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag entspannt an der Place de la République, bevor Sie zur nahe gelegenen historischen Kirche Saint-Antonin radeln.\n\nFahren Sie gemütlich zur alten Abtei und bewältigen Sie die sanfte Steigung zur Chapelle Sainte Barbe für eine tolle Aussicht.\n\nVerbringen Sie Ihren Nachmittag damit, auf malerischen Routen nach Norden zur faszinierenden Kapelle der Weißen Büßer zu navigieren.\n\nSchließlich radeln Sie in Richtung der leuchtenden Église de la Visitation, um Ihre energiegeladene Reise durch die Hügel abzuschließen.",
+        "hu": "Kezdje kerékpáros napját zökkenőmentesen a Köztársaság téren, majd tekerjen a közeli történelmi Saint-Antonin templomhoz.\n\nAhogy a nap magasabbra hág, guruljon el kényelmesen az ősi apátsághoz, majd küzdje le a Chapelle Sainte Barbe felé vezető emelkedőt a panorámáért.\n\nDélutánját az északra, a Fehér Bűnbánók kápolnájához vezető festői útvonalakon navigálva töltse, amely igazi rejtett kincs.\n\nVégül tekerjen a ragyogó Église de la Visitation felé, hogy befejezze lendületes utazását a dombokon keresztül.",
+        "ro": "Începeți ziua de ciclism la Place de la République, reglându-vă bicicletele înainte de a pedala spre istorica biserică Saint-Antonin din apropiere.\n\nPe măsură ce soarele urcă, mergeți confortabil spre vechea abație și abordați panta ușoară spre Chapelle Sainte Barbe pentru panorame.\n\nPetreceți-vă după-amiaza navigând pe traseele pitorești spre nord către Capela Penitenților Albi, o adevărată bijuterie ascunsă.\n\nÎn cele din urmă, pedalați spre strălucitoarea Biserică a Vizitației pentru a vă încheia călătoria energică prin dealuri.",
+        "en": "Kick off your cycling day smoothly at Place de la République, adjusting your gears before pedaling to the nearby historic Saint-Antonin Church.\n\nAs the sun rises higher, cruise comfortably to the Ancienne abbaye and then tackle the gentle incline to Chapelle Sainte Barbe for panoramic rewards.\n\nSpend your afternoon navigating the scenic routes northward to the Chapel of the White Penitents, a true hidden gem.\n\nFinally, pedal your way towards the glowing Église de la Visitation to wrap up your energetic journey through the hills."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:54",
+      "total_km": 24,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Place de la République",
+            "hu": "Köztársaság tér",
+            "ro": "Piața Republicii",
+            "en": "Place de la République"
+          },
+          "coords": [
+            7.22623,
+            43.858795
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen, indem Sie die lokale Atmosphäre auf diesem zentralen Platz aufsaugen, und vergessen Sie nicht, sich ein frisches Gebäck zu holen.",
+            "hu": "Kezdje a reggelt a központi tér helyi hangulatának elnyelésével, és ne felejtsen el friss péksüteményt venni a közeli pékségből a felfedezés előtt.",
+            "ro": "Începeți dimineața absorbind atmosfera locală în această piață centrală și nu uitați să luați un produs de patiserie proaspăt de la o brutărie din apropiere.",
+            "en": "Start your morning absorbing the local atmosphere in this central square, and don't forget to grab a fresh pastry from a nearby bakery before exploring."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Antonin",
+            "hu": "Saint-Antonin templom",
+            "ro": "Biserica Saint-Antonin",
+            "en": "Saint-Antonin Church"
+          },
+          "coords": [
+            7.22552,
+            43.86032
+          ],
+          "category": "religious",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Architektur dieses historischen religiösen Zentrums und achten Sie bei Ihrem friedlichen Besuch besonders auf die erhaltenen Altarbilder.",
+            "hu": "Csodálja meg e történelmi vallási központ lenyűgöző építészetét, különös figyelmet fordítva a gyönyörűen megőrzött oltárképekre a békés látogatás során.",
+            "ro": "Admirați arhitectura impresionantă a acestui centru religios istoric, acordând o atenție deosebită altarelor frumos conservate în timpul vizitei dumneavoastră liniștite.",
+            "en": "Admire the striking architecture of this historic religious center, paying special attention to the beautifully preserved altarpieces during your peaceful visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Abtei der Madone-des-Prés",
+            "hu": "Madone-des-Prés ősi apátsága",
+            "ro": "Vechea abație Madone-des-Prés",
+            "en": "Ancienne abbaye de la Madone-des-Prés"
+          },
+          "coords": [
+            7.238065,
+            43.851921
+          ],
+          "category": "religious",
+          "arrive_at": "10:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhigen Ruinen und verbliebenen Strukturen dieser alten Abtei und tragen Sie festes Schuhwerk, um bequem über das unebene Gelände zu laufen.",
+            "hu": "Fedezze fel ennek az ősi apátságnak a csendes romjait és fennmaradt építményeit, erős cipőt viselve, hogy kényelmesen sétálhasson az egyenetlen történelmi területen.",
+            "ro": "Descoperiți ruinele liniștite și structurile rămase ale acestei vechi abații, purtând încălțăminte robustă pentru a vă plimba confortabil pe terenul istoric denivelat.",
+            "en": "Discover the tranquil ruins and remaining structures of this ancient abbey, wearing sturdy shoes to comfortably walk around the slightly uneven historical grounds."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Sainte Barbe",
+            "hu": "Sainte Barbe kápolna",
+            "ro": "Capela Sainte Barbe",
+            "en": "Chapelle Sainte Barbe"
+          },
+          "coords": [
+            7.219405,
+            43.884002
+          ],
+          "category": "historical",
+          "arrive_at": "11:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese malerische historische Kapelle, die der Heiligen Barbara gewidmet ist, und nehmen Sie sich Zeit für den Panoramablick auf die umliegenden Täler.",
+            "hu": "Fedezze fel ezt a Szent Borbálának szentelt, festői történelmi kápolnát, időt szánva arra, hogy magasan fekvő helyzetéből élvezze a környező völgyekre nyíló panorámát.",
+            "ro": "Explorați această capelă istorică pitorească dedicată Sfintei Barbara, făcându-vă timp să vă bucurați de priveliștile panoramice ample asupra văilor din jur.",
+            "en": "Explore this quaint historical chapel dedicated to Saint Barbara, taking time to enjoy the sweeping panoramic views of the surrounding valleys from its elevated position."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle der Weißen Büßer",
+            "hu": "Fehér Bűnbánók kápolnája",
+            "ro": "Capela Penitenților Albi",
+            "en": "Chapel of the White Penitents"
+          },
+          "coords": [
+            7.247235,
+            43.916488
+          ],
+          "category": "religious",
+          "arrive_at": "12:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.1,
+          "tip_5lang": {
+            "de": "Treten Sie in dieser Kapelle in die Welt der lokalen Büßerbruderschaften ein und beobachten Sie die religiösen Artefakte, während Sie das ruhige Ambiente respektieren.",
+            "hu": "Lépjen be a helyi bűnbánó testvériségek lenyűgöző világába ebben a kápolnában, megfigyelve az egyedi vallási műtárgyakat, miközben tiszteletben tartja a csendes hangulatot.",
+            "ro": "Pășiți în lumea fascinantă a frățiilor locale de penitenți la această capelă, observând artefactele religioase unice și respectând ambianța tăcută a locului.",
+            "en": "Step into the fascinating world of the local penitent brotherhoods at this chapel, observing the unique religious artifacts while remaining respectful of the quiet ambiance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-Antoine",
+            "hu": "Saint-Antoine kápolna",
+            "ro": "Capela Saint-Antoine",
+            "en": "Chapelle Saint-Antoine"
+          },
+          "coords": [
+            7.189118,
+            43.862929
+          ],
+          "category": "religious",
+          "arrive_at": "13:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit zum Nachdenken in dieser kleinen ländlichen Kapelle, deren ruhige Umgebung sie zu einem idealen Ort für eine schnelle Nachmittagspause macht.",
+            "hu": "Szánjon egy pillanatot az elmélkedésre ebben a bájos vidéki kápolnában, ahol a nyugodt környezet ideális hellyé teszi egy gyors, késő délutáni pihenéshez.",
+            "ro": "Luați-vă un moment de reflecție la această capelă rurală mică și fermecătoare, unde mediul senin o face un loc ideal pentru o scurtă odihnă după-amiaza.",
+            "en": "Take a moment for reflection at this small but charming rural chapel, where the serene environment makes it an ideal spot for a quick mid-afternoon rest."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche der Heimsuchung und der Heiligen Philomena",
+            "hu": "A Látogatás és Szent Filoména temploma",
+            "ro": "Biserica Vizitației și Sfintei Filomena",
+            "en": "Église de la Visitation-et-Sainte-Philomène"
+          },
+          "coords": [
+            7.197746,
+            43.871262
+          ],
+          "category": "religious",
+          "arrive_at": "14:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die zarte Fassade und das Innere dieser schönen Kirche und planen Sie Ihren Besuch so, dass das warme Nachmittagslicht durch die bunten Fenster fällt.",
+            "hu": "Csodálja meg e gyönyörű templom finom homlokzatát és belső művészetét, látogatását úgy időzítve, hogy elkapja a színes ablakokon átszűrődő meleg délutáni fényt.",
+            "ro": "Minunați-vă de fațada delicată și măiestria interioară a acestei biserici frumoase, programându-vă vizita pentru a prinde lumina caldă a după-amiezii prin ferestre.",
+            "en": "Marvel at the delicate facade and interior artistry of this beautiful church, timing your visit to catch the warm afternoon light filtering through the colorful windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac du Broc",
+            "hu": "Lac du Broc",
+            "ro": "Lac du Broc",
+            "en": "Lac du Broc"
+          },
+          "coords": [
+            7.180611,
+            43.818701
+          ],
+          "category": "natural",
+          "arrive_at": "15:09",
+          "stay_min": 105,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 6.5,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihren Tag mit einem ruhigen Spaziergang um diesen wunderschönen See ausklingen und bringen Sie eine leichte Jacke mit, da die Brise kühl sein kann.",
+            "hu": "Zárja a napot egy békés sétával e gyönyörű természetes tó körül, hozzon magával egy könnyű kabátot, mivel az esti szellő a víz felől meglepően hűvös lehet.",
+            "ro": "Încheiați-vă ziua cu o plimbare liniștită în jurul acestui lac natural frumos, aducând o jachetă ușoară deoarece briza serii de pe apă poate deveni surprinzător de răcoroasă.",
+            "en": "Conclude your day with a peaceful stroll around this beautiful natural lake, bringing a light jacket as the evening breeze off the water can get surprisingly cool."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie nach Levens und trinken Sie einen schnellen Morgenkaffee nahe der Place de la République, gefolgt von der schönen Kirche Saint-Antonin nebenan.\n\nDer späte Vormittag bietet das perfekte Fenster, um zur alten Abtei und dann hinauf zur Chapelle Sainte Barbe zu fahren und die Flexibilität zu genießen.\n\nDer Nachmittag lädt zu einer größeren Runde ein, bei der Sie die Kapelle der Weißen Büßer und die malerische Chapelle Saint-Antoine besuchen.\n\nIhre große Autotour endet wunderschön an der Église de la Visitation, bevor Sie die Sonnenuntergangsreflexionen am Lac du Broc beobachten.",
+        "hu": "Vezessen Levensbe, igyon egy gyors reggeli kávét a Köztársaság tér közelében, majd pipálja ki a közvetlenül mellette lévő gyönyörű Saint-Antonin templomot.\n\nA késő délelőtt tökéletes alkalmat kínál arra, hogy lehajtson az ősi apátsághoz, majd fel a Chapelle Sainte Barbe-hoz az autó nyújtotta kényelemmel.\n\nA délután egy szélesebb hurokra hívja, meglátogatva a Fehér Bűnbánók kápolnáját és a festői Chapelle Saint-Antoine-t.\n\nNagy autós körútja gyönyörűen zárul a Látogatás templománál, mielőtt megnézné a naplemente tükröződését a hatalmas Lac du Broc-on.",
+        "ro": "Conduceți în Levens și savurați o cafea de dimineață lângă Place de la République, vizitând apoi frumoasa Biserică Saint-Antonin chiar alături.\n\nDimineața târzie oferă fereastra perfectă pentru a conduce spre vechea abație și apoi sus la Chapelle Sainte Barbe, bucurându-vă de mașină.\n\nDupă-amiaza vă invită la o buclă mai largă, vizitând Capela Penitenților Albi și pitoreasca Chapelle Saint-Antoine.\n\nMarele dumneavoastră tur cu mașina se încheie frumos cu o oprire la Biserica Vizitației înainte de a privi apusul la vastul Lac du Broc.",
+        "en": "Drive into Levens and grab a quick morning coffee near Place de la République, easily checking off the beautiful Saint-Antonin Church right next door.\n\nLate morning provides the perfect window to drive down to the Ancienne abbaye and then up to Chapelle Sainte Barbe, enjoying the flexibility of your car.\n\nThe afternoon invites you on a wider loop, visiting the fascinating Chapel of the White Penitents and the quaint Chapelle Saint-Antoine.\n\nYour grand driving tour concludes beautifully with a stop at Église de la Visitation before watching the sunset reflections at the vast Lac du Broc."
+      }
+    }
+  }
+}

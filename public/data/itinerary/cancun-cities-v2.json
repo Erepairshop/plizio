@@ -1,0 +1,497 @@
+{
+  "city_id": "cancun-cities-v2",
+  "anchor": {
+    "name": "Cancún",
+    "coords": [
+      -86.8515,
+      21.1619
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:53",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Teatro 8 de octubre",
+            "hu": "Teatro 8 de octubre",
+            "ro": "Teatro 8 de octombrie",
+            "en": "Teatro 8 de octubre"
+          },
+          "coords": [
+            -86.827093,
+            21.169586
+          ],
+          "category": "cultural",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie lokale Kunst in diesem historischen Theater, das regionale Stücke zeigt, also prüfen Sie den Spielplan am Morgen.",
+            "hu": "Fedezze fel a helyi művészeteket ebben a történelmi színházban, és érdemes már reggel megnézni az aznapi előadások pontos műsorrendjét.",
+            "ro": "Descoperiți artele locale la acest teatru istoric care găzduiește piese regionale, așa că verificați programul de dimineață pentru repetiții.",
+            "en": "Discover local arts at this historic cultural theater, which hosts regional plays, so check the morning schedule to catch an afternoon rehearsal."
+          }
+        },
+        {
+          "name": {
+            "de": "clips",
+            "hu": "clips",
+            "ro": "clips",
+            "en": "clips"
+          },
+          "coords": [
+            -86.832153,
+            21.162086
+          ],
+          "category": "landmark",
+          "arrive_at": "10:44",
+          "stay_min": 20,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto von diesem markanten städtischen Wahrzeichen der modernen Stadt, aber kommen Sie früh, um den Menschenmassen auszuweichen.",
+            "hu": "Készítsen egy fotót ennél a modern városi nevezetességnél, de érkezzen korán, hogy elkerülje a déli órákban jellemző hatalmas tömeget.",
+            "ro": "Fotografiați acest reper urban emblematic care surprinde latura modernă a orașului, dar ajungeți devreme pentru a evita aglomerația de la prânz.",
+            "en": "Snap a photo by this iconic urban landmark that captures the modern side of the city, but arrive early to avoid the bustling midday crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a la Madre",
+            "hu": "Monumento a la Madre",
+            "ro": "Monumento a la Madre",
+            "en": "Monumento a la Madre"
+          },
+          "coords": [
+            -86.829074,
+            21.158166
+          ],
+          "category": "historical",
+          "arrive_at": "11:12",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses berührende historische Denkmal für die Mutterschaft, ein perfekter ruhiger Ort, um sich kurz vor der Weiterreise auszuruhen.",
+            "hu": "Csodálja meg az anyaságnak szentelt megható történelmi emlékművet, amely tökéletes, csendes hely egy rövid pihenőre a belvárosi séta során.",
+            "ro": "Admirați acest emoționant monument istoric dedicat maternității, un loc liniștit perfect pentru a vă odihni scurt în timpul explorării.",
+            "en": "Admire this touching historical monument dedicated to motherhood, a perfect quiet spot to rest briefly before continuing your downtown exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Caracoles y Estrellas de Mar",
+            "hu": "Caracoles y Estrellas de Mar",
+            "ro": "Caracoles y Estrellas de Mar",
+            "en": "Caracoles y Estrellas de Mar"
+          },
+          "coords": [
+            -86.825296,
+            21.156963
+          ],
+          "category": "landmark",
+          "arrive_at": "11:33",
+          "stay_min": 20,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie den berühmten Seesternbrunnen an diesem belebten Kreisverkehr und halten Sie beim Fotografieren sicheren Abstand zum Verkehr.",
+            "hu": "Csodálja meg a híres tengericsillag- és kagylószökőkutat ezen a forgalmas körforgalmon, miközben biztonságos távolságot tart a járművektől.",
+            "ro": "Admirați celebra fântână cu stele de mare de la acest sens giratoriu aglomerat, păstrând o distanță sigură de trafic în timpul pozelor.",
+            "en": "Admire the famous starfish and conch fountain located at this busy roundabout, keeping a safe distance from traffic while taking your photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Ecológico Kabah",
+            "hu": "Parque Ecológico Kabah",
+            "ro": "Parque Ecológico Kabah",
+            "en": "Parque Ecológico Kabah"
+          },
+          "coords": [
+            -86.839095,
+            21.144669
+          ],
+          "category": "natural",
+          "arrive_at": "12:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie Nasenbären und üppige Flora in diesem riesigen städtischen Naturreservat, aber denken Sie unbedingt an Mückenschutz und Wasser.",
+            "hu": "Találkozzon ormányosmedvékkel és buja növényzettel ebben a hatalmas városi parkban, de ne felejtsen el szúnyogriasztót és vizet hozni.",
+            "ro": "Întâlniți coati și floră nativă luxuriantă în această vastă rezervație naturală urbană, dar nu uitați să aduceți repelent de țânțari și apă.",
+            "en": "Encounter coaties and lush native flora in this vast urban natural reserve, but remember to bring mosquito repellent and your own water bottle."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Lima Museo Parque",
+            "hu": "Casa Lima Museo Parque",
+            "ro": "Casa Lima Museo Parque",
+            "en": "Casa Lima Museo Parque"
+          },
+          "coords": [
+            -86.836964,
+            21.142204
+          ],
+          "category": "museum",
+          "arrive_at": "13:43",
+          "stay_min": 130,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie das lokale Erbe in diesem charmanten Museum im Park, wo eine Führung Ihnen viel tiefere historische Zusammenhänge vermittelt.",
+            "hu": "Fedezze fel a helyi örökséget ebben a parkkal körülvett bájos múzeumban, ahol az idegenvezetés sokkal mélyebb történelmi kontextust kínál.",
+            "ro": "Explorați patrimoniul local în acest muzeu fermecător înconjurat de parcuri, unde turul ghidat oferă un context istoric mult mai profund.",
+            "en": "Explore local heritage inside this charming museum surrounded by parklands, where taking the guided tour offers much deeper historical context."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im kulturellen Herzen von Cancún am Teatro 8 de octubre und dem modernen Wahrzeichen clips. Mittags besuchen Sie das Monumento a la Madre und den berühmten El Ceviche Brunnen. Entfliehen Sie am Nachmittag der Hektik bei einem Spaziergang in den üppigen Parque Ecológico Kabah. Beenden Sie den Tag mit regionaler Geschichte im herrlichen Casa Lima Museo.",
+        "hu": "Kezdje a reggelt Cancún kulturális szívében, a Teatro 8 de octubre és a modern clips nevezetesség felfedezésével. Délben olyan történelmi helyszínek várják, mint a Monumento a la Madre és az ikonikus El Ceviche. Délután meneküljön el a városi nyüzsgés elől a buja Parque Ecológico Kabah vadonjába. Zárja a napot a régió történelmének megismerésével a Casa Lima múzeumban.",
+        "ro": "Începeți dimineața explorând inima culturală a orașului Cancún la Teatro 8 de octombrie și modernul reper clips. La prânz, vizitați Monumento a la Madre și emblematica fântână El Ceviche. După-amiaza, evadați din agitația urbană plimbându-vă prin luxuriantul Parque Ecológico Kabah. Încheiați ziua descoperind istoria regională fascinantă la Casa Lima Museo Parque.",
+        "en": "Start your morning exploring the cultural heart of Cancún at Teatro 8 de octubre and the modern clips landmark. Midday brings you to historical spots like Monumento a la Madre and the iconic El Ceviche fountain. In the afternoon, escape the urban rush by walking into the lush Parque Ecológico Kabah to see local wildlife. Conclude your day discovering regional history at Casa Lima Museo."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:02",
+      "total_km": 5.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Teatro 8 de octubre",
+            "hu": "Teatro 8 de octubre",
+            "ro": "Teatro 8 de octombrie",
+            "en": "Teatro 8 de octubre"
+          },
+          "coords": [
+            -86.827093,
+            21.169586
+          ],
+          "category": "cultural",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie lokale Kunst in diesem historischen Theater, das regionale Stücke zeigt, also prüfen Sie den Spielplan am Morgen.",
+            "hu": "Fedezze fel a helyi művészeteket ebben a történelmi színházban, és érdemes már reggel megnézni az aznapi előadások pontos műsorrendjét.",
+            "ro": "Descoperiți artele locale la acest teatru istoric care găzduiește piese regionale, așa că verificați programul de dimineață pentru repetiții.",
+            "en": "Discover local arts at this historic cultural theater, which hosts regional plays, so check the morning schedule to catch an afternoon rehearsal."
+          }
+        },
+        {
+          "name": {
+            "de": "clips",
+            "hu": "clips",
+            "ro": "clips",
+            "en": "clips"
+          },
+          "coords": [
+            -86.832153,
+            21.162086
+          ],
+          "category": "landmark",
+          "arrive_at": "10:35",
+          "stay_min": 20,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto von diesem markanten städtischen Wahrzeichen der modernen Stadt, aber kommen Sie früh, um den Menschenmassen auszuweichen.",
+            "hu": "Készítsen egy fotót ennél a modern városi nevezetességnél, de érkezzen korán, hogy elkerülje a déli órákban jellemző hatalmas tömeget.",
+            "ro": "Fotografiați acest reper urban emblematic care surprinde latura modernă a orașului, dar ajungeți devreme pentru a evita aglomerația de la prânz.",
+            "en": "Snap a photo by this iconic urban landmark that captures the modern side of the city, but arrive early to avoid the bustling midday crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a la Madre",
+            "hu": "Monumento a la Madre",
+            "ro": "Monumento a la Madre",
+            "en": "Monumento a la Madre"
+          },
+          "coords": [
+            -86.829074,
+            21.158166
+          ],
+          "category": "historical",
+          "arrive_at": "10:58",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses berührende historische Denkmal für die Mutterschaft, ein perfekter ruhiger Ort, um sich kurz vor der Weiterreise auszuruhen.",
+            "hu": "Csodálja meg az anyaságnak szentelt megható történelmi emlékművet, amely tökéletes, csendes hely egy rövid pihenőre a belvárosi séta során.",
+            "ro": "Admirați acest emoționant monument istoric dedicat maternității, un loc liniștit perfect pentru a vă odihni scurt în timpul explorării.",
+            "en": "Admire this touching historical monument dedicated to motherhood, a perfect quiet spot to rest briefly before continuing your downtown exploration."
+          }
+        },
+        {
+          "name": {
+            "de": "Caracoles y Estrellas de Mar",
+            "hu": "Caracoles y Estrellas de Mar",
+            "ro": "Caracoles y Estrellas de Mar",
+            "en": "Caracoles y Estrellas de Mar"
+          },
+          "coords": [
+            -86.825296,
+            21.156963
+          ],
+          "category": "landmark",
+          "arrive_at": "11:15",
+          "stay_min": 20,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie den berühmten Seesternbrunnen an diesem belebten Kreisverkehr und halten Sie beim Fotografieren sicheren Abstand zum Verkehr.",
+            "hu": "Csodálja meg a híres tengericsillag- és kagylószökőkutat ezen a forgalmas körforgalmon, miközben biztonságos távolságot tart a járművektől.",
+            "ro": "Admirați celebra fântână cu stele de mare de la acest sens giratoriu aglomerat, păstrând o distanță sigură de trafic în timpul pozelor.",
+            "en": "Admire the famous starfish and conch fountain located at this busy roundabout, keeping a safe distance from traffic while taking your photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Villalta Condominio",
+            "hu": "Villalta Condominio",
+            "ro": "Villalta Condominio",
+            "en": "Villalta Condominio"
+          },
+          "coords": [
+            -86.815931,
+            21.149703
+          ],
+          "category": "recreational",
+          "arrive_at": "11:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in der Nähe dieses modernen Wohngebiets, um das lokale Leben zu beobachten, und respektieren Sie dabei die Privatsphäre.",
+            "hu": "Pihenjen e modern lakónegyed közelében, hogy megfigyelje a helyiek mindennapjait, miközben tiszteletben tartja a magánterületek határait.",
+            "ro": "Relaxați-vă lângă această zonă rezidențială pentru a observa viața locală, respectând în același timp limitele cartierului privat din jur.",
+            "en": "Relax near this modern residential recreation area to observe everyday local life, remaining respectful of the private neighborhood boundaries."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Lima Museo Parque",
+            "hu": "Casa Lima Museo Parque",
+            "ro": "Casa Lima Museo Parque",
+            "en": "Casa Lima Museo Parque"
+          },
+          "coords": [
+            -86.836964,
+            21.142204
+          ],
+          "category": "museum",
+          "arrive_at": "12:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie das lokale Erbe in diesem charmanten Museum im Park, wo eine Führung Ihnen viel tiefere historische Zusammenhänge vermittelt.",
+            "hu": "Fedezze fel a helyi örökséget ebben a parkkal körülvett bájos múzeumban, ahol az idegenvezetés sokkal mélyebb történelmi kontextust kínál.",
+            "ro": "Explorați patrimoniul local în acest muzeu fermecător înconjurat de parcuri, unde turul ghidat oferă un context istoric mult mai profund.",
+            "en": "Explore local heritage inside this charming museum surrounded by parklands, where taking the guided tour offers much deeper historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Ecológico Kabah",
+            "hu": "Parque Ecológico Kabah",
+            "ro": "Parque Ecológico Kabah",
+            "en": "Parque Ecológico Kabah"
+          },
+          "coords": [
+            -86.839095,
+            21.144669
+          ],
+          "category": "natural",
+          "arrive_at": "14:17",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie Nasenbären und üppige Flora in diesem riesigen städtischen Naturreservat, aber denken Sie unbedingt an Mückenschutz und Wasser.",
+            "hu": "Találkozzon ormányosmedvékkel és buja növényzettel ebben a hatalmas városi parkban, de ne felejtsen el szúnyogriasztót és vizet hozni.",
+            "ro": "Întâlniți coati și floră nativă luxuriantă în această vastă rezervație naturală urbană, dar nu uitați să aduceți repelent de țânțari și apă.",
+            "en": "Encounter coaties and lush native flora in this vast urban natural reserve, but remember to bring mosquito repellent and your own water bottle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie heute Morgen durch das Zentrum von Cancún und besuchen Sie das Teatro 8 de octubre sowie das Monumento a la Madre. Mittags fahren Sie am berühmten El Ceviche-Brunnen vorbei zum Villalta Condominio. Genießen Sie eine entspannte Nachmittagsfahrt zum Casa Lima Museo Parque für Kultur. Beenden Sie Ihre Radtour umgeben von der Natur des ökologischen Kabah-Parks.",
+        "hu": "Tekerjen át Cancún belvárosán ma reggel, meglátogatva a Teatro 8 de octubre-t és a Monumento a la Madre-t. Délben a híres El Ceviche szökőkút mellett halad el a Villalta Condominio felé egy rövid pihenőre. Élvezze a kényelmes délutáni utat a Casa Lima múzeumba egy kis kulturális elmélyülésért. Fejezze be kerékpártúráját a Kabah park természetével körülvéve.",
+        "ro": "Pedalați prin centrul orașului Cancún în această dimineață, vizitând Teatro 8 de octombrie și Monumento a la Madre. La prânz treceți de fântâna El Ceviche spre Villalta Condominio pentru o pauză. Bucurați-vă de o plimbare după-amiază spre Casa Lima Museo Parque pentru cultură. Încheiați turul cu bicicleta înconjurați de natura superbă din Parcul Ecologic Kabah.",
+        "en": "Pedal through downtown Cancún this morning, visiting the Teatro 8 de octubre and iconic urban statues like the Monumento a la Madre. Midday takes you past the famous El Ceviche fountain toward the Villalta Condominio area for a quick break. Enjoy a smooth afternoon ride to Casa Lima Museo Parque for some cultural immersion. Finish your biking tour surrounded by the nature of Kabah Park."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:37",
+      "total_km": 9.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Teatro 8 de octubre",
+            "hu": "Teatro 8 de octubre",
+            "ro": "Teatro 8 de octombrie",
+            "en": "Teatro 8 de octubre"
+          },
+          "coords": [
+            -86.827093,
+            21.169586
+          ],
+          "category": "cultural",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie lokale Kunst in diesem historischen Theater, das regionale Stücke zeigt, also prüfen Sie den Spielplan am Morgen.",
+            "hu": "Fedezze fel a helyi művészeteket ebben a történelmi színházban, és érdemes már reggel megnézni az aznapi előadások pontos műsorrendjét.",
+            "ro": "Descoperiți artele locale la acest teatru istoric care găzduiește piese regionale, așa că verificați programul de dimineață pentru repetiții.",
+            "en": "Discover local arts at this historic cultural theater, which hosts regional plays, so check the morning schedule to catch an afternoon rehearsal."
+          }
+        },
+        {
+          "name": {
+            "de": "Caracoles y Estrellas de Mar",
+            "hu": "Caracoles y Estrellas de Mar",
+            "ro": "Caracoles y Estrellas de Mar",
+            "en": "Caracoles y Estrellas de Mar"
+          },
+          "coords": [
+            -86.825296,
+            21.156963
+          ],
+          "category": "landmark",
+          "arrive_at": "10:33",
+          "stay_min": 20,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie den berühmten Seesternbrunnen an diesem belebten Kreisverkehr und halten Sie beim Fotografieren sicheren Abstand zum Verkehr.",
+            "hu": "Csodálja meg a híres tengericsillag- és kagylószökőkutat ezen a forgalmas körforgalmon, miközben biztonságos távolságot tart a járművektől.",
+            "ro": "Admirați celebra fântână cu stele de mare de la acest sens giratoriu aglomerat, păstrând o distanță sigură de trafic în timpul pozelor.",
+            "en": "Admire the famous starfish and conch fountain located at this busy roundabout, keeping a safe distance from traffic while taking your photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Lima Museo Parque",
+            "hu": "Casa Lima Museo Parque",
+            "ro": "Casa Lima Museo Parque",
+            "en": "Casa Lima Museo Parque"
+          },
+          "coords": [
+            -86.836964,
+            21.142204
+          ],
+          "category": "museum",
+          "arrive_at": "10:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das lokale Erbe in diesem charmanten Museum im Park, wo eine Führung Ihnen viel tiefere historische Zusammenhänge vermittelt.",
+            "hu": "Fedezze fel a helyi örökséget ebben a parkkal körülvett bájos múzeumban, ahol az idegenvezetés sokkal mélyebb történelmi kontextust kínál.",
+            "ro": "Explorați patrimoniul local în acest muzeu fermecător înconjurat de parcuri, unde turul ghidat oferă un context istoric mult mai profund.",
+            "en": "Explore local heritage inside this charming museum surrounded by parklands, where taking the guided tour offers much deeper historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Ecológico Kabah",
+            "hu": "Parque Ecológico Kabah",
+            "ro": "Parque Ecológico Kabah",
+            "en": "Parque Ecológico Kabah"
+          },
+          "coords": [
+            -86.839095,
+            21.144669
+          ],
+          "category": "natural",
+          "arrive_at": "12:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie Nasenbären und üppige Flora in diesem riesigen städtischen Naturreservat, aber denken Sie unbedingt an Mückenschutz und Wasser.",
+            "hu": "Találkozzon ormányosmedvékkel és buja növényzettel ebben a hatalmas városi parkban, de ne felejtsen el szúnyogriasztót és vizet hozni.",
+            "ro": "Întâlniți coati și floră nativă luxuriantă în această vastă rezervație naturală urbană, dar nu uitați să aduceți repelent de țânțari și apă.",
+            "en": "Encounter coaties and lush native flora in this vast urban natural reserve, but remember to bring mosquito repellent and your own water bottle."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscina Abedul",
+            "hu": "Piscina Abedul",
+            "ro": "Piscina Abedul",
+            "en": "Piscina Abedul"
+          },
+          "coords": [
+            -86.888653,
+            21.113057
+          ],
+          "category": "recreational",
+          "arrive_at": "14:06",
+          "stay_min": 60,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 6.0,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich in diesem lebhaften Schwimmbad im südlichen Bezirk ab und denken Sie daran, Ihr eigenes Handtuch und Schwimmsachen mitzubringen.",
+            "hu": "Hűtse le magát ebben a déli kerületben található nyüzsgő környéki medencében, és mindenképpen hozzon magával saját törölközőt és fürdőruhát.",
+            "ro": "Răcoriți-vă la această piscină vibrantă de cartier situată în districtul sudic, asigurându-vă că aduceți propriul prosop și echipament.",
+            "en": "Cool off at this vibrant neighborhood pool complex located in the southern district, making sure to bring your own towel and swimming gear."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscina Palma Real",
+            "hu": "Piscina Palma Real",
+            "ro": "Piscina Palma Real",
+            "en": "Piscina Palma Real"
+          },
+          "coords": [
+            -86.888949,
+            21.111318
+          ],
+          "category": "recreational",
+          "arrive_at": "15:07",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie ein erfrischendes Bad unter den Palmen an diesem beliebten Erholungsort, wo es sich empfiehlt, frühzeitig einen Liegestuhl zu sichern.",
+            "hu": "Élvezze a frissítő délutáni csobbanást a pálmafák alatt ezen a népszerű helyen, ahol érdemes minél hamarabb lefoglalni egy kényelmes napozóágyat.",
+            "ro": "Bucurați-vă de o baie răcoritoare sub palmieri la acest loc popular, unde asigurarea unui șezlong din timp este foarte recomandată pentru toți.",
+            "en": "Enjoy a refreshing afternoon dip under the palm trees at this popular recreational site, where securing a lounge chair early is highly recommended."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am Teatro 8 de octubre und sehen Sie den El Ceviche. Tauchen Sie mittags im Casa Lima Museo in die reiche Vergangenheit der Stadt ein. Ihr Nachmittag verlagert sich in die Natur des Parque Ecológico Kabah, um die Flora zu beobachten. Abends fahren Sie in den Süden, um sich in den bekannten Pools Abedul und Palma Real zu entspannen und abzukühlen.",
+        "hu": "Kezdje a reggelt a Teatro 8 de octubre-nél, majd nézze meg az El Ceviche-t. Délben merüljön el a város múltjában a Casa Lima múzeumban, élvezve a nyugalmat. A délután a Parque Ecológico Kabah természetébe vezet, ahol megfigyelheti a növényvilágot. Este induljon délre, hogy pihenjen és hűsöljön a népszerű Abedul és Palma Real szabadtéri medencéknél.",
+        "ro": "Începeți la istoricul Teatro 8 de octombrie înainte de a vedea rondul El Ceviche. La prânz, pătrundeți în trecutul orașului la Casa Lima Museo, bucurându-vă de liniște. După-amiaza se mută în natură la Parque Ecológico Kabah pentru a observa flora. Seara, mergeți spre sud pentru a vă relaxa și a vă răcori la faimoasele piscine Abedul și Palma Real.",
+        "en": "Start your morning at the historic Teatro 8 de octubre before viewing the grand El Ceviche roundabout. Midday, delve into the city's rich past at Casa Lima Museo Parque, enjoying its serene grounds. Your afternoon shifts to nature at Parque Ecológico Kabah to observe local flora. In the evening, head south to relax and cool off at the popular Abedul and Palma Real pools."
+      }
+    }
+  }
+}

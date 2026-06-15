@@ -1,0 +1,543 @@
+{
+  "city_id": "tekirdag-cities-v2",
+  "anchor": {
+    "name": "Tekirdağ",
+    "coords": [
+      27.5167,
+      40.9833
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 1.15,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rakoczi Müzesi",
+            "hu": "Rakoczi Müzesi",
+            "ro": "Rakoczi Müzesi",
+            "en": "Rakoczi Müzesi"
+          },
+          "coords": [
+            27.50995,
+            40.974119
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Haus des ungarischen Fürsten im Exil mit seinen authentischen Artefakten und kommen Sie früh, um Gruppen zu meiden.",
+            "hu": "Fedezze fel a száműzött magyar fejedelem történelmi házát és hiteles emléktárgyait, és érkezzen korán, hogy elkerülje a nagyobb turistacsoportokat.",
+            "ro": "Explorați casa istorică a principelui maghiar aflat în exil, observând artefactele autentice, și veniți devreme pentru a evita grupurile mari.",
+            "en": "Explore the historic house where the Hungarian prince lived in exile, noting the authentic artifacts, and come early to avoid large tour groups."
+          }
+        },
+        {
+          "name": {
+            "de": "Tekirdağ Arkeoloji ve Etnografya Müzesi",
+            "hu": "Tekirdağ Arkeoloji ve Etnografya Müzesi",
+            "ro": "Tekirdağ Arkeoloji ve Etnografya Müzesi",
+            "en": "Tekirdağ Arkeoloji ve Etnografya Müzesi"
+          },
+          "coords": [
+            27.512678,
+            40.975802
+          ],
+          "category": "museum",
+          "arrive_at": "10:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die reiche Sammlung thrakischer Artefakte von der Vorgeschichte bis zur osmanischen Zeit und verpassen Sie nicht die Gartenausstellung.",
+            "hu": "Csodálja meg a trák leletek gazdag gyűjteményét az őskortól az oszmán korig, és ne hagyja ki a gyönyörű szabadtéri kerti kiállításokat sem.",
+            "ro": "Admirați bogata colecție de artefacte tracice de la preistorie până în epoca otomană și nu ratați expozițiile frumoase din grădina muzeului.",
+            "en": "Admire the rich collection of Thracian artifacts spanning from prehistoric times to the Ottoman era, and don't miss the beautiful garden displays."
+          }
+        },
+        {
+          "name": {
+            "de": "İbrahim Balaban Müzesi",
+            "hu": "İbrahim Balaban Müzesi",
+            "ro": "İbrahim Balaban Müzesi",
+            "en": "İbrahim Balaban Müzesi"
+          },
+          "coords": [
+            27.511166,
+            40.976401
+          ],
+          "category": "museum",
+          "arrive_at": "12:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lebhaften Werke dieses lokalen Malers über das anatolische Landleben und fragen Sie den Kurator nach den versteckten Geschichten.",
+            "hu": "Fedezze fel a híres helyi festő anatóliai vidéki életet bemutató élénk műveit, és kérdezze a kurátort a festmények mögött rejlő rejtett történetekről.",
+            "ro": "Descoperiți lucrările vibrante ale acestui pictor local celebru despre viața rurală anatoliană și întrebați curatorul despre poveștile ascunse.",
+            "en": "Discover the vibrant works of this famous local painter reflecting Anatolian rural life, and ask the curator about the hidden stories behind the art."
+          }
+        },
+        {
+          "name": {
+            "de": "Eski Mosque",
+            "hu": "Eski Mosque",
+            "ro": "Eski Mosque",
+            "en": "Eski Mosque"
+          },
+          "coords": [
+            27.513272,
+            40.977874
+          ],
+          "category": "religious",
+          "arrive_at": "14:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Betrachten Sie die elegante osmanische Architektur dieser historischen Moschee im Zentrum und denken Sie an angemessene Kleidung für den Eintritt.",
+            "hu": "Figyelje meg ennek a történelmi belvárosi mecsetnek az elegáns oszmán építészetét, és ne feledkezzen meg a szerény öltözékről a belépés előtt.",
+            "ro": "Observați arhitectura otomană elegantă a acestei moschei istorice din centrul orașului și amintiți-vă să purtați o ținută decentă la intrare.",
+            "en": "Observe the elegant Ottoman architecture of this historic mosque right in the city center, and remember to dress modestly before entering inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Rüstem Paşa Mosque",
+            "hu": "Rüstem Paşa Mosque",
+            "ro": "Rüstem Paşa Mosque",
+            "en": "Rüstem Paşa Mosque"
+          },
+          "coords": [
+            27.516269,
+            40.977807
+          ],
+          "category": "religious",
+          "arrive_at": "15:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese atemberaubende, von Mimar Sinan entworfene Moschee und nehmen Sie sich einen Moment Zeit für das friedliche Hofambiente.",
+            "hu": "Csodálja meg a legendás Mimar Szinán által tervezett lenyűgöző mecsetkomplexumot, és élvezze a békés belső udvar nyújtotta csendes hangulatot.",
+            "ro": "Admirați acest complex uimitor de moschei proiectat de legendarul Mimar Sinan și luați-vă un moment pentru a vă bucura de ambianța pașnică.",
+            "en": "Marvel at this stunning mosque complex designed by the legendary architect Mimar Sinan, and take a moment to enjoy the peaceful courtyard ambiance."
+          }
+        },
+        {
+          "name": {
+            "de": "Namık Kemal Evi",
+            "hu": "Namık Kemal Evi",
+            "ro": "Namık Kemal Evi",
+            "en": "Namık Kemal Evi"
+          },
+          "coords": [
+            27.516718,
+            40.979025
+          ],
+          "category": "museum",
+          "arrive_at": "15:50",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Besuchen Sie das rekonstruierte Geburtshaus des berühmten türkischen Dichters, um sein patriotisches Erbe und die traditionelle Holzbauweise zu sehen.",
+            "hu": "Látogasson el a híres török költő újjáépített szülőházába, ismerje meg hazafias örökségét, és csodálja meg a hagyományos faház kialakítását.",
+            "ro": "Vizitați casa natală reconstruită a celebrului poet turc pentru a-i înțelege moștenirea patriotică și admirați designul tradițional din lemn.",
+            "en": "Visit the reconstructed birthplace of the famous Turkish poet to understand his patriotic legacy, and check out the traditional wooden house design."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Rundgang beginnt mit einem tiefen Einblick in die Geschichte im Rakoczi-Museum, gefolgt vom Ethnografischen Museum. Der Mittag eignet sich perfekt, um die lokale Kunst im Balaban-Museum und den klassischen Charme der Eski-Moschee zu erkunden. Am Nachmittag werden Sie die majestätische Rüstem-Paşa-Moschee, ein Meisterwerk von Mimar Sinan, bewundern. Die Reise endet im Namık-Kemal-Haus.",
+        "hu": "Gyalogos túrája a történelemben való elmélyüléssel kezdődik a Rákóczi Múzeumban, majd az Etnográfiai Múzeumban. A dél tökéletes a Balaban Múzeum és az Eski Mecset varázsának felfedezésére. Délután megcsodálhatja a fenséges Rüstem Pasa Mecsetet, Mimar Szinán egyik mesterművét. Kulturális utazása a híres török költő, Namık Kemal hagyományos emlékházában zárul a kora esti órákban.",
+        "ro": "Turul dumneavoastră pietonal începe cu istoria de la Muzeul Rakoczi, urmat de colecțiile antice de la Muzeul de Etnografie. Prânzul este perfect pentru a explora arta locală la Muzeul Balaban și farmecul Moscheii Eski. După-amiaza, veți admira maiestuoasa Moschee Rüstem Pașa, o capodoperă a lui Mimar Sinan. Călătoria se încheie la Casa Namık Kemal, sărbătorind un mare poet turc.",
+        "en": "Your walking tour begins with a deep dive into history at the Rakoczi Museum, followed by the diverse ancient collections of the Ethnography Museum. Midday is perfect for exploring the vivid local art at the Balaban Museum and the classic charm of the Eski Mosque. In the afternoon, you will marvel at the majestic Rüstem Paşa Mosque, an architectural masterpiece by Mimar Sinan. Your cultural journey concludes at the traditional Namık Kemal House, celebrating a great Turkish poet."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:49",
+      "total_km": 6.65,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Namık Kemal Evi",
+            "hu": "Namık Kemal Evi",
+            "ro": "Namık Kemal Evi",
+            "en": "Namık Kemal Evi"
+          },
+          "coords": [
+            27.516718,
+            40.979025
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie das rekonstruierte Geburtshaus des berühmten türkischen Dichters, um sein patriotisches Erbe und die traditionelle Holzbauweise zu sehen.",
+            "hu": "Látogasson el a híres török költő újjáépített szülőházába, ismerje meg hazafias örökségét, és csodálja meg a hagyományos faház kialakítását.",
+            "ro": "Vizitați casa natală reconstruită a celebrului poet turc pentru a-i înțelege moștenirea patriotică și admirați designul tradițional din lemn.",
+            "en": "Visit the reconstructed birthplace of the famous Turkish poet to understand his patriotic legacy, and check out the traditional wooden house design."
+          }
+        },
+        {
+          "name": {
+            "de": "Rüstem Paşa Mosque",
+            "hu": "Rüstem Paşa Mosque",
+            "ro": "Rüstem Paşa Mosque",
+            "en": "Rüstem Paşa Mosque"
+          },
+          "coords": [
+            27.516269,
+            40.977807
+          ],
+          "category": "religious",
+          "arrive_at": "10:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese atemberaubende, von Mimar Sinan entworfene Moschee und nehmen Sie sich einen Moment Zeit für das friedliche Hofambiente.",
+            "hu": "Csodálja meg a legendás Mimar Szinán által tervezett lenyűgöző mecsetkomplexumot, és élvezze a békés belső udvar nyújtotta csendes hangulatot.",
+            "ro": "Admirați acest complex uimitor de moschei proiectat de legendarul Mimar Sinan și luați-vă un moment pentru a vă bucura de ambianța pașnică.",
+            "en": "Marvel at this stunning mosque complex designed by the legendary architect Mimar Sinan, and take a moment to enjoy the peaceful courtyard ambiance."
+          }
+        },
+        {
+          "name": {
+            "de": "Tekirdağ Arkeoloji ve Etnografya Müzesi",
+            "hu": "Tekirdağ Arkeoloji ve Etnografya Müzesi",
+            "ro": "Tekirdağ Arkeoloji ve Etnografya Müzesi",
+            "en": "Tekirdağ Arkeoloji ve Etnografya Müzesi"
+          },
+          "coords": [
+            27.512678,
+            40.975802
+          ],
+          "category": "museum",
+          "arrive_at": "11:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die reiche Sammlung thrakischer Artefakte von der Vorgeschichte bis zur osmanischen Zeit und verpassen Sie nicht die Gartenausstellung.",
+            "hu": "Csodálja meg a trák leletek gazdag gyűjteményét az őskortól az oszmán korig, és ne hagyja ki a gyönyörű szabadtéri kerti kiállításokat sem.",
+            "ro": "Admirați bogata colecție de artefacte tracice de la preistorie până în epoca otomană și nu ratați expozițiile frumoase din grădina muzeului.",
+            "en": "Admire the rich collection of Thracian artifacts spanning from prehistoric times to the Ottoman era, and don't miss the beautiful garden displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Rakoczi Müzesi",
+            "hu": "Rakoczi Müzesi",
+            "ro": "Rakoczi Müzesi",
+            "en": "Rakoczi Müzesi"
+          },
+          "coords": [
+            27.50995,
+            40.974119
+          ],
+          "category": "museum",
+          "arrive_at": "13:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Haus des ungarischen Fürsten im Exil mit seinen authentischen Artefakten und kommen Sie früh, um Gruppen zu meiden.",
+            "hu": "Fedezze fel a száműzött magyar fejedelem történelmi házát és hiteles emléktárgyait, és érkezzen korán, hogy elkerülje a nagyobb turistacsoportokat.",
+            "ro": "Explorați casa istorică a principelui maghiar aflat în exil, observând artefactele autentice, și veniți devreme pentru a evita grupurile mari.",
+            "en": "Explore the historic house where the Hungarian prince lived in exile, noting the authentic artifacts, and come early to avoid large tour groups."
+          }
+        },
+        {
+          "name": {
+            "de": "Şehitler Anıtı",
+            "hu": "Şehitler Anıtı",
+            "ro": "Şehitler Anıtı",
+            "en": "Şehitler Anıtı"
+          },
+          "coords": [
+            27.537842,
+            40.98311
+          ],
+          "category": "historical",
+          "arrive_at": "15:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Erweisen Sie an diesem feierlichen Denkmal für gefallene Soldaten mit weitem Blick auf das Marmarameer Ihren Respekt, ideal für ruhige Fotografie.",
+            "hu": "Tisztelegjen az elesett katonák előtt ennél az ünnepélyes emlékműnél, ahonnan pazar kilátás nyílik a Márvány-tengerre, ami ideális a fotózáshoz.",
+            "ro": "Aduceți omagiul la acest monument solemn ce onorează soldații căzuți, cu vederi panoramice la Marea Marmara, ideal pentru fotografii liniștite.",
+            "en": "Pay your respects at this solemn monument honoring fallen soldiers with sweeping views of the Marmara Sea, making it ideal for quiet photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Dereağzı Halk Plajı",
+            "hu": "Dereağzı Halk Plajı",
+            "ro": "Dereağzı Halk Plajı",
+            "en": "Dereağzı Halk Plajı"
+          },
+          "coords": [
+            27.559063,
+            40.980787
+          ],
+          "category": "recreational",
+          "arrive_at": "16:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den Sandstränden dieses öffentlichen Strandes in Zentrumsnähe und bringen Sie Snacks für ein herrliches Picknick am Meer mit.",
+            "hu": "Pihenjen a városközponthoz közeli nyilvános strand homokos partján, és hozzon magával némi harapnivalót egy kellemes tengerparti piknikhez.",
+            "ro": "Relaxați-vă pe țărmurile nisipoase ale acestei plaje publice aproape de centru și aduceți gustări pentru a vă bucura de un picnic pe litoral.",
+            "en": "Relax on the sandy shores of this public beach located close to the city center, and bring some snacks to enjoy a lovely seaside picnic break."
+          }
+        },
+        {
+          "name": {
+            "de": "Değirmenaltı Halk Plajı",
+            "hu": "Değirmenaltı Halk Plajı",
+            "ro": "Değirmenaltı Halk Plajı",
+            "en": "Değirmenaltı Halk Plajı"
+          },
+          "coords": [
+            27.576646,
+            40.984452
+          ],
+          "category": "recreational",
+          "arrive_at": "18:04",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem lebhaften, bei Studenten beliebten Küstenabschnitt und genießen Sie einen Abendspaziergang an der Promenade.",
+            "hu": "Zárja a napot ezen az egyetemisták körében is népszerű, nyüzsgő partszakaszon, és tegyen egy esti sétát a hívogató, kiépített sétányon.",
+            "ro": "Încheiați ziua pe această fâșie de coastă plină de viață, populară printre studenți, și bucurați-vă de o plimbare vibrantă pe promenada primitoare.",
+            "en": "End your day at this lively coastal stretch popular among university students, and enjoy a vibrant evening stroll along the welcoming promenade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag am traditionellen Namık-Kemal-Haus und der Rüstem-Paşa-Moschee. Mittags erleben Sie die reiche Vergangenheit der Stadt durch Besuche im Ethnografischen Museum und im Rakoczi-Haus. Nachmittags fahren Sie entlang der Küste zum Märtyrerdenkmal mit herrlichem Meerblick. Beenden Sie den Tag entspannt an den Stränden von Dereağzı und Değirmenaltı mit einer frischen Meeresbrise.",
+        "hu": "Kezdje kerékpáros napját a hagyományos Namık Kemal Házzal és a Rüstem Pasa Mecset felfedezésével. A dél a város gazdag múltjába kalauzolja az Etnográfiai Múzeum és a történelmi Rákóczi Ház révén. Délután tekerjen a festői tengerparti úton a Mártírok Emlékművéhez, ahonnan pazar kilátás nyílik. Fejezze be a napot a Dereağzı és Değirmenaltı strandokon pihenve, élvezve a tengeri szellőt.",
+        "ro": "Începeți ziua de ciclism explorând Casa tradițională Namık Kemal și frumusețea Moscheii Rüstem Pașa. Prânzul vă poartă prin trecutul bogat al orașului la Muzeul de Etnografie și la Casa istorică Rakoczi. După-amiaza, pedalați de-a lungul coastei spre Monumentul Eroilor pentru vederi panoramice la mare. Încheiați ziua relaxându-vă pe plajele publice Dereağzı și Değirmenaltı.",
+        "en": "Start your cycling day exploring the traditional Namık Kemal House and the architectural beauty of the central Rüstem Paşa Mosque. Midday takes you through the city's rich past with successive visits to the extensive Ethnography Museum and the historic Rakoczi House. In the afternoon, ride along the scenic coastal route to reach the Martyrs' Monument for sweeping sea views. Finish the day unwinding at the Dereağzı and Değirmenaltı public beaches, enjoying the gentle sea breeze."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:13",
+      "total_km": 6.25,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Rakoczi Müzesi",
+            "hu": "Rakoczi Müzesi",
+            "ro": "Rakoczi Müzesi",
+            "en": "Rakoczi Müzesi"
+          },
+          "coords": [
+            27.50995,
+            40.974119
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie das historische Haus des ungarischen Fürsten im Exil mit seinen authentischen Artefakten und kommen Sie früh, um Gruppen zu meiden.",
+            "hu": "Fedezze fel a száműzött magyar fejedelem történelmi házát és hiteles emléktárgyait, és érkezzen korán, hogy elkerülje a nagyobb turistacsoportokat.",
+            "ro": "Explorați casa istorică a principelui maghiar aflat în exil, observând artefactele autentice, și veniți devreme pentru a evita grupurile mari.",
+            "en": "Explore the historic house where the Hungarian prince lived in exile, noting the authentic artifacts, and come early to avoid large tour groups."
+          }
+        },
+        {
+          "name": {
+            "de": "Tekirdağ Arkeoloji ve Etnografya Müzesi",
+            "hu": "Tekirdağ Arkeoloji ve Etnografya Müzesi",
+            "ro": "Tekirdağ Arkeoloji ve Etnografya Müzesi",
+            "en": "Tekirdağ Arkeoloji ve Etnografya Müzesi"
+          },
+          "coords": [
+            27.512678,
+            40.975802
+          ],
+          "category": "museum",
+          "arrive_at": "10:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die reiche Sammlung thrakischer Artefakte von der Vorgeschichte bis zur osmanischen Zeit und verpassen Sie nicht die Gartenausstellung.",
+            "hu": "Csodálja meg a trák leletek gazdag gyűjteményét az őskortól az oszmán korig, és ne hagyja ki a gyönyörű szabadtéri kerti kiállításokat sem.",
+            "ro": "Admirați bogata colecție de artefacte tracice de la preistorie până în epoca otomană și nu ratați expozițiile frumoase din grădina muzeului.",
+            "en": "Admire the rich collection of Thracian artifacts spanning from prehistoric times to the Ottoman era, and don't miss the beautiful garden displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Rüstem Paşa Mosque",
+            "hu": "Rüstem Paşa Mosque",
+            "ro": "Rüstem Paşa Mosque",
+            "en": "Rüstem Paşa Mosque"
+          },
+          "coords": [
+            27.516269,
+            40.977807
+          ],
+          "category": "religious",
+          "arrive_at": "12:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese atemberaubende, von Mimar Sinan entworfene Moschee und nehmen Sie sich einen Moment Zeit für das friedliche Hofambiente.",
+            "hu": "Csodálja meg a legendás Mimar Szinán által tervezett lenyűgöző mecsetkomplexumot, és élvezze a békés belső udvar nyújtotta csendes hangulatot.",
+            "ro": "Admirați acest complex uimitor de moschei proiectat de legendarul Mimar Sinan și luați-vă un moment pentru a vă bucura de ambianța pașnică.",
+            "en": "Marvel at this stunning mosque complex designed by the legendary architect Mimar Sinan, and take a moment to enjoy the peaceful courtyard ambiance."
+          }
+        },
+        {
+          "name": {
+            "de": "Orta Mosque",
+            "hu": "Orta Mosque",
+            "ro": "Orta Mosque",
+            "en": "Orta Mosque"
+          },
+          "coords": [
+            27.514708,
+            40.978218
+          ],
+          "category": "religious",
+          "arrive_at": "13:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Schätzen Sie die feinen Details und ruhige Atmosphäre dieser zentralen Kultstätte, die einen schnellen spirituellen Rückzugsort beim Stadtspaziergang bietet.",
+            "hu": "Értékelje a központi imaház bonyolult részleteit és nyugodt légkörét, amely gyors spirituális menedéket nyújt egy forgalmas városi séta során.",
+            "ro": "Apreciați detaliile complicate și atmosfera calmă a acestui lăcaș de cult central, care oferă un refugiu spiritual rapid în timpul unei plimbări.",
+            "en": "Appreciate the intricate details and calm atmosphere of this central place of worship, which offers a quick spiritual retreat during a busy city walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Namık Kemal Evi",
+            "hu": "Namık Kemal Evi",
+            "ro": "Namık Kemal Evi",
+            "en": "Namık Kemal Evi"
+          },
+          "coords": [
+            27.516718,
+            40.979025
+          ],
+          "category": "museum",
+          "arrive_at": "14:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Besuchen Sie das rekonstruierte Geburtshaus des berühmten türkischen Dichters, um sein patriotisches Erbe und die traditionelle Holzbauweise zu sehen.",
+            "hu": "Látogasson el a híres török költő újjáépített szülőházába, ismerje meg hazafias örökségét, és csodálja meg a hagyományos faház kialakítását.",
+            "ro": "Vizitați casa natală reconstruită a celebrului poet turc pentru a-i înțelege moștenirea patriotică și admirați designul tradițional din lemn.",
+            "en": "Visit the reconstructed birthplace of the famous Turkish poet to understand his patriotic legacy, and check out the traditional wooden house design."
+          }
+        },
+        {
+          "name": {
+            "de": "Şehitler Anıtı",
+            "hu": "Şehitler Anıtı",
+            "ro": "Şehitler Anıtı",
+            "en": "Şehitler Anıtı"
+          },
+          "coords": [
+            27.537842,
+            40.98311
+          ],
+          "category": "historical",
+          "arrive_at": "15:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Erweisen Sie an diesem feierlichen Denkmal für gefallene Soldaten mit weitem Blick auf das Marmarameer Ihren Respekt, ideal für ruhige Fotografie.",
+            "hu": "Tisztelegjen az elesett katonák előtt ennél az ünnepélyes emlékműnél, ahonnan pazar kilátás nyílik a Márvány-tengerre, ami ideális a fotózáshoz.",
+            "ro": "Aduceți omagiul la acest monument solemn ce onorează soldații căzuți, cu vederi panoramice la Marea Marmara, ideal pentru fotografii liniștite.",
+            "en": "Pay your respects at this solemn monument honoring fallen soldiers with sweeping views of the Marmara Sea, making it ideal for quiet photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Dereağzı Halk Plajı",
+            "hu": "Dereağzı Halk Plajı",
+            "ro": "Dereağzı Halk Plajı",
+            "en": "Dereağzı Halk Plajı"
+          },
+          "coords": [
+            27.559063,
+            40.980787
+          ],
+          "category": "recreational",
+          "arrive_at": "17:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den Sandstränden dieses öffentlichen Strandes in Zentrumsnähe und bringen Sie Snacks für ein herrliches Picknick am Meer mit.",
+            "hu": "Pihenjen a városközponthoz közeli nyilvános strand homokos partján, és hozzon magával némi harapnivalót egy kellemes tengerparti piknikhez.",
+            "ro": "Relaxați-vă pe țărmurile nisipoase ale acestei plaje publice aproape de centru și aduceți gustări pentru a vă bucura de un picnic pe litoral.",
+            "en": "Relax on the sandy shores of this public beach located close to the city center, and bring some snacks to enjoy a lovely seaside picnic break."
+          }
+        },
+        {
+          "name": {
+            "de": "Değirmenaltı Halk Plajı",
+            "hu": "Değirmenaltı Halk Plajı",
+            "ro": "Değirmenaltı Halk Plajı",
+            "en": "Değirmenaltı Halk Plajı"
+          },
+          "coords": [
+            27.576646,
+            40.984452
+          ],
+          "category": "recreational",
+          "arrive_at": "18:28",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag an diesem lebhaften, bei Studenten beliebten Küstenabschnitt und genießen Sie einen Abendspaziergang an der Promenade.",
+            "hu": "Zárja a napot ezen az egyetemisták körében is népszerű, nyüzsgő partszakaszon, és tegyen egy esti sétát a hívogató, kiépített sétányon.",
+            "ro": "Încheiați ziua pe această fâșie de coastă plină de viață, populară printre studenți, și bucurați-vă de o plimbare vibrantă pe promenada primitoare.",
+            "en": "End your day at this lively coastal stretch popular among university students, and enjoy a vibrant evening stroll along the welcoming promenade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour mit dem tiefen Erbe im Rakoczi-Museum und dem Archäologischen Museum. Mittags parken Sie in der Nähe der großen Rüstem-Paşa-Moschee und spazieren zur Orta-Moschee und zum historischen Namık-Kemal-Haus. Am Nachmittag bringt Sie eine kurze Fahrt zum Märtyrerdenkmal mit Blick auf das Marmarameer. Ihr Abend klingt entspannt an den Stränden Dereağzı und Değirmenaltı aus.",
+        "hu": "Kezdje autós túráját a Rákóczi Múzeumban és a városi Régészeti Múzeumban őrzött mély örökség megismerésével. Dél körül parkoljon le a Rüstem Pasa Mecset közelében, és sétáljon át az Orta Mecsethez és a Namık Kemal Házhoz. Délután egy rövid autóút a Márvány-tengerre néző Mártírok Emlékművéhez vezet. Az este a tengerparti nyugalom jegyében telik a Dereağzı és Değirmenaltı strandokon.",
+        "ro": "Începeți turul cu mașina absorbind moștenirea de la Muzeul Rakoczi și Muzeul de Etnografie. La prânz, parcați lângă marea Moschee Rüstem Pașa și plimbați-vă până la Moscheea Orta și Casa Namık Kemal. După-amiaza, o scurtă călătorie vă aduce la Monumentul Eroilor, cu vedere la Marea Marmara. Seara se transformă într-o relaxare pe coastă la plajele pline de viață Dereağzı și Değirmenaltı.",
+        "en": "Begin your driving tour by absorbing the deep heritage preserved in the Rakoczi Museum and the city's main Archeology and Ethnography Museum. By midday, park near the grand Rüstem Paşa Mosque and take a brief stroll to the nearby Orta Mosque and the historic Namık Kemal House. During the afternoon, a short drive brings you to the Martyrs' Monument, overlooking the beautiful Marmara Sea. Your evening relaxes into coastal bliss as you visit the Dereağzı and vibrant Değirmenaltı beaches."
+      }
+    }
+  }
+}

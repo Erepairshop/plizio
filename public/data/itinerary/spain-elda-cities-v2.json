@@ -1,0 +1,520 @@
+{
+  "city_id": "spain-elda-cities-v2",
+  "anchor": {
+    "name": "Elda",
+    "coords": [
+      -0.79157,
+      38.47783
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:11",
+      "total_km": 2.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Auditorium der Plaza Castelar",
+            "hu": "Plaza Castelar Auditórium",
+            "ro": "Auditoriul din Plaza Castelar",
+            "en": "Auditorio de la Plaza Castelar"
+          },
+          "coords": [
+            -0.789228,
+            38.478848
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Überprüfen Sie vor Ihrem Besuch den lokalen Veranstaltungskalender, um diesen lebendigen Kulturort voll zu würdigen, und holen Sie sich einen Kaffee in der Nähe.",
+            "hu": "A látogatás előtt ellenőrizze a helyi eseménynaptárt, hogy teljes mértékben értékelni tudja ezt a kulturális központot, és igyon egy kávét a közelben.",
+            "ro": "Verificați programul evenimentelor locale înainte de vizită pentru a aprecia pe deplin acest centru cultural vibrant și savurați o cafea la o terasă din apropiere.",
+            "en": "Check the local event schedule before your morning visit to fully appreciate this vibrant cultural hub, and grab a freshly brewed coffee at a nearby cafe."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Ana",
+            "hu": "Santa Ana Templom",
+            "ro": "Biserica Santa Ana",
+            "en": "Santa Ana Church"
+          },
+          "coords": [
+            -0.795884,
+            38.479174
+          ],
+          "category": "religious",
+          "arrive_at": "09:44",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Treten Sie in diese Pfarrkirche ein, um die wunderschön restaurierten Altarbilder zu bewundern, aber denken Sie aus Respekt an angemessene, bedeckte Kleidung.",
+            "hu": "Lépjen be ebbe a plébániatemplomba, hogy megcsodálja a gyönyörűen restaurált oltárképeket, de a tisztelet jeléül öltözzön visszafogottan.",
+            "ro": "Intrați în această biserică parohială pentru a admira altarele frumos restaurate, dar nu uitați să vă îmbrăcați decent în semn de respect pentru lăcaș.",
+            "en": "Step inside this iconic parish church to admire its beautifully restored altarpieces, but remember to dress modestly out of respect for the religious site."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Elda",
+            "hu": "Elda Vára",
+            "ro": "Castelul din Elda",
+            "en": "Castillo de Elda"
+          },
+          "coords": [
+            -0.797038,
+            38.481071
+          ],
+          "category": "castle",
+          "arrive_at": "10:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Gehen Sie um die alten Festungsmauern herum, um ihre mittelalterliche Bedeutung zu verstehen, und tragen Sie festes Schuhwerk für die unebenen und steilen Wege.",
+            "hu": "Sétáljon körbe az ősi erődfalakon, hogy megértse középkori jelentőségét, és viseljen kényelmes, masszív cipőt az egyenetlen és meredek utakon.",
+            "ro": "Plimbați-vă pe lângă vechile ziduri ale cetății pentru a înțelege importanța sa medievală și purtați încălțăminte solidă pentru potecile inegale și abrupte.",
+            "en": "Walk around the ancient fortress walls to understand its strategic medieval importance, and wear sturdy shoes for navigating the uneven and steep pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Schuhmacherdenkmal",
+            "hu": "Cipész Emlékmű",
+            "ro": "Monumentul Pantofarului",
+            "en": "Monumento al Zapatero"
+          },
+          "coords": [
+            -0.793911,
+            38.475832
+          ],
+          "category": "historical",
+          "arrive_at": "11:58",
+          "stay_min": 15,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Machen Sie ein schnelles Foto mit dieser bronzenen Hommage an die Handwerker der Stadt, die leicht an einer belebten Kreuzung im Stadtzentrum zu finden ist.",
+            "hu": "Készítsen egy gyors fotót a város kézműveseinek emléket állító bronz szoborral, amely a városközpont egyik forgalmas kereszteződésében található.",
+            "ro": "Faceți o fotografie rapidă cu acest omagiu de bronz adus meșterilor orașului, aflat ușor la o intersecție aglomerată chiar din centrul localității.",
+            "en": "Snap a quick photo with this bronze tribute to the city's shoe artisans, easily found at a busy intersection directly in the bustling town center."
+          }
+        },
+        {
+          "name": {
+            "de": "Ethnologisches Museum von Elda",
+            "hu": "Elda Néprajzi Múzeuma",
+            "ro": "Muzeul Etnologic din Elda",
+            "en": "Museo Etnológico de Elda"
+          },
+          "coords": [
+            -0.792646,
+            38.474296
+          ],
+          "category": "museum",
+          "arrive_at": "12:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie das Alltagsleben vergangener Jahrhunderte durch faszinierende Artefakte; es wird jedoch dringend empfohlen, die genauen Öffnungszeiten vorab zu prüfen.",
+            "hu": "Fedezze fel az elmúlt évszázadok mindennapi életét lenyűgöző háztartási tárgyakon keresztül, de erősen ajánlott előre ellenőrizni a pontos nyitvatartást.",
+            "ro": "Explorați viața de zi cu zi din secolele trecute prin artefacte domestice fascinante, deși verificarea prealabilă a orelor exacte de program este recomandată.",
+            "en": "Explore everyday life from centuries past through fascinating domestic artifacts, though checking the exact opening hours in advance is highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Schuhmuseum",
+            "hu": "Cipőmúzeum",
+            "ro": "Muzeul Încălțămintei",
+            "en": "Museo del Calzado"
+          },
+          "coords": [
+            -0.795348,
+            38.473732
+          ],
+          "category": "museum",
+          "arrive_at": "14:01",
+          "stay_min": 130,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Planen Sie mindestens zwei Stunden für die riesigen Schuhsammlungen ein und verpassen Sie keinesfalls die beeindruckende internationale Designerabteilung im Obergeschoss.",
+            "hu": "Szánjon legalább két órát a hatalmas cipőgyűjteményekre, és semmiképpen se hagyja ki a lenyűgöző nemzetközi tervezői részleget a felső emeleten.",
+            "ro": "Alocați cel puțin două ore pentru a vedea vastele colecții de pantofi și nu ratați impresionanta secțiune a designerilor internaționali de la etajul superior.",
+            "en": "Allocate at least two hours to see the vast shoe collections and historic machinery, and definitely don't miss the impressive international designer section."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im kulturellen Zentrum der Plaza Castelar, bevor Sie zur historischen Kirche Santa Ana spazieren. Mittags erreichen Sie das imposante Castillo de Elda, das Einblicke in die mittelalterliche Vergangenheit bietet. Am Nachmittag entdecken Sie das einzigartige industrielle Erbe am Schuhmacherdenkmal und im faszinierenden ethnologischen Museum. Beenden Sie Ihren Tag mit der Erkundung des renommierten Schuhmuseums, das Eldas berühmtestes Handwerk feiert.",
+        "hu": "Kezdje a reggelt a Plaza Castelar kulturális központjában, mielőtt átsétálna a történelmi Santa Ana templomhoz. Délben az impozáns Castillo de Elda várja, amely bepillantást enged a régió középkori múltjába. Délután fedezze fel a város egyedi ipari örökségét a cipész emlékműnél és a lenyűgöző néprajzi múzeumban. Zárja a napot a híres Cipőmúzeum felfedezésével, amely Elda legismertebb mesterségét ünnepli.",
+        "ro": "Începeți dimineața în centrul cultural din Plaza Castelar, înainte de o plimbare plăcută spre biserica istorică Santa Ana. La prânz ajungeți la impunătorul Castillo de Elda, care oferă o privire în trecutul medieval al regiunii. După-amiaza, descoperiți patrimoniul industrial unic la monumentul pantofarului și la fascinantul muzeu etnologic. Încheiați ziua explorând renumitul Muzeu al Încălțămintei, care celebrează meșteșugul din Elda.",
+        "en": "Start your morning at the cultural heart of Plaza Castelar, soaking in the local atmosphere before a pleasant stroll to the historic Santa Ana church. Midday brings you to the imposing Castillo de Elda, offering a glimpse into the region's medieval past. In the afternoon, discover the city's unique industrial heritage at the shoemaker monument and the fascinating ethnological museum. Conclude your day exploring the renowned Footwear Museum."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:34",
+      "total_km": 3.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Stierkampfarena von Elda",
+            "hu": "Elda Bikaviadal-aréna",
+            "ro": "Arena de Tauri din Elda",
+            "en": "Plaza de Toros de Elda"
+          },
+          "coords": [
+            -0.79754,
+            38.474084
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Radeln Sie um die historische Arena herum, um ihre Architektur zu schätzen, beachten Sie jedoch, dass der Zugang zum Innenraum oft für die Öffentlichkeit beschränkt ist.",
+            "hu": "Tekerjen körbe a történelmi aréna körül, hogy értékelje az építészetét, de vegye figyelembe, hogy a belső térbe való bejutás gyakran korlátozott lehet.",
+            "ro": "Pedalați în jurul arenei istorice pentru a-i aprecia arhitectura, dar rețineți că accesul în interior poate fi adesea restricționat pentru publicul larg.",
+            "en": "Cycle around the perimeter of this historic bullring to appreciate its grand architecture, but note that interior access is often restricted for general public viewing."
+          }
+        },
+        {
+          "name": {
+            "de": "Schuhmuseum",
+            "hu": "Cipőmúzeum",
+            "ro": "Muzeul Încălțămintei",
+            "en": "Museo del Calzado"
+          },
+          "coords": [
+            -0.795348,
+            38.473732
+          ],
+          "category": "museum",
+          "arrive_at": "10:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Fahrradständer am Eingang und verbringen Sie genügend Zeit, um die erstaunliche Geschichte der lokalen Schuhindustrie in Ruhe zu erkunden.",
+            "hu": "Használja a bejárat melletti kerékpártárolókat, és töltsön elegendő időt a helyi cipőipar lenyűgöző történetének nyugodt felfedezésével.",
+            "ro": "Folosiți suporturile pentru biciclete de la intrare și petreceți suficient timp explorând în liniște istoria uimitoare a industriei locale de încălțăminte.",
+            "en": "Utilize the bike racks near the entrance and spend ample time exploring the amazing history of the local shoe manufacturing industry at your own pace."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Francisco de Sales",
+            "hu": "San Francisco de Sales Templom",
+            "ro": "Biserica San Francisco de Sales",
+            "en": "Iglesia de San Francisco de Sales"
+          },
+          "coords": [
+            -0.792553,
+            38.470571
+          ],
+          "category": "religious",
+          "arrive_at": "12:14",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihr Fahrrad sicher ab, bevor Sie hineingehen, um die farbenfrohen modernen Buntglasfenster dieser sehr beliebten lokalen Kirche zu bewundern.",
+            "hu": "Biztonságosan zárja le kerékpárját, mielőtt bemegy megcsodálni ennek a szeretett helyi templomnak a színes, modern ólomüveg ablakait.",
+            "ro": "Încuiați-vă bicicleta în siguranță înainte de a intra pentru a admira vitraliile moderne și colorate ale acestei biserici locale foarte iubite.",
+            "en": "Lock your bike securely at the adjacent square before heading in to admire the colorful modern stained glass windows of this beloved local church."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditorium der Plaza Castelar",
+            "hu": "Plaza Castelar Auditórium",
+            "ro": "Auditoriul din Plaza Castelar",
+            "en": "Auditorio de la Plaza Castelar"
+          },
+          "coords": [
+            -0.789228,
+            38.478848
+          ],
+          "category": "cultural",
+          "arrive_at": "13:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Legen Sie hier eine Pause von Ihrer Radtour ein und genießen Sie den offenen Platz, an dem abends oft Open-Air-Konzerte stattfinden.",
+            "hu": "Tartson egy kis szünetet a kerékpártúrából ezen a nyitott téren, amely gyakran ad otthont kellemes esti szabadtéri koncerteknek is.",
+            "ro": "Faceți o pauză de la plimbarea cu bicicleta în această piață deschisă, care găzduiește adesea concerte plăcute în aer liber în timpul serilor.",
+            "en": "Take a refreshing break from your cycling tour here in the open plaza, which frequently hosts lively open-air concerts during the pleasant evenings."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Santa Ana",
+            "hu": "Santa Ana Templom",
+            "ro": "Biserica Santa Ana",
+            "en": "Santa Ana"
+          },
+          "coords": [
+            -0.795884,
+            38.479174
+          ],
+          "category": "religious",
+          "arrive_at": "13:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Parken Sie an der Plaza und werfen Sie einen kurzen Blick in das Innere, um die elegante Architektur dieses religiösen Wahrzeichens zu bewundern.",
+            "hu": "Parkoljon le a téren, és vessen egy pillantást a belső térre, hogy megcsodálhassa e vallási nevezetesség igazán elegáns építészetét.",
+            "ro": "Parcați în piață și aruncați o privire în interior pentru a admira arhitectura elegantă a acestui important punct de reper religios local.",
+            "en": "Park your bicycle briefly at the plaza and take a look inside to appreciate the remarkably elegant architecture of this central religious landmark."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Elda",
+            "hu": "Elda Vára",
+            "ro": "Castelul din Elda",
+            "en": "Castillo de Elda"
+          },
+          "coords": [
+            -0.797038,
+            38.481071
+          ],
+          "category": "castle",
+          "arrive_at": "14:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Schieben Sie Ihr Fahrrad den letzten steilen Abschnitt zur Burg hinauf, um die historischen Ruinen aus nächster Nähe zu inspizieren.",
+            "hu": "Tolja fel kerékpárját az utolsó meredek szakaszon a várhoz, hogy egészen közelről vehesse szemügyre a történelmi romokat.",
+            "ro": "Împingeți bicicleta pe ultima porțiune abruptă spre castel pentru a inspecta îndeaproape și în siguranță aceste ruine istorice impresionante.",
+            "en": "Push your bike up the final steep approach to the castle grounds so you can safely and closely inspect these dramatic historic ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt von Elda",
+            "hu": "Elda Kilátó",
+            "ro": "Punctul de Belvedere din Elda",
+            "en": "Mirador de Elda"
+          },
+          "coords": [
+            -0.809438,
+            38.475732
+          ],
+          "category": "natural",
+          "arrive_at": "15:39",
+          "stay_min": 55,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Radeln Sie die leichte Steigung zu diesem Aussichtspunkt hinauf und bringen Sie Ihre Kamera mit, um den atemberaubenden Blick über das Vinalopó-Tal einzufangen.",
+            "hu": "Tekerjen fel az enyhe emelkedőn ehhez a kilátóhoz, és hozzon fényképezőgépet, hogy megörökítse a Vinalopó-völgy lélegzetelállító panorámáját.",
+            "ro": "Pedalați pe panta ușoară până la acest punct de belvedere și aduceți aparatul foto pentru a surprinde vederea panoramică uluitoare a văii Vinalopó.",
+            "en": "Pedal up the gentle incline to reach this scenic overlook, bringing your camera along to capture breathtaking panoramic views of the entire Vinalopó valley."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour an der großen Plaza de Toros und tauchen Sie in die Traditionen der Stadt ein, bevor Sie zum berühmten Schuhmuseum radeln. Mittags fahren Sie zur charmanten Kirche San Francisco de Sales und machen eine erfrischende Pause an der Plaza Castelar. Nachmittags führen Sie die Wege durch das Stadtzentrum zum monumentalen Castillo de Elda. Lassen Sie den Tag mit einer malerischen Fahrt zum Mirador ausklingen, um den Sonnenuntergang zu genießen.",
+        "hu": "Kezdje kerékpártúráját a lenyűgöző Plaza de Torosnál, majd tekerjen el a híres Cipőmúzeumhoz, hogy megismerje a helyi hagyományokat. Délben kerekezzen a bájos San Francisco de Sales templom felé, és tartson egy frissítő pihenőt a Plaza Castelarnál. Délután az utak a városközponton át a monumentális Castillo de Elda várához vezetnek. Zárja a napot egy festői esti tekeréssel a Miradorhoz, ahonnan csodás panoráma nyílik.",
+        "ro": "Începeți turul cu bicicleta la marea Plaza de Toros, explorând tradițiile orașului înainte de a pedala spre celebrul Muzeu al Încălțămintei. La prânz, îndreptați-vă spre fermecătoarea biserică San Francisco de Sales și faceți o pauză la Plaza Castelar. După-amiaza, traseele vă duc prin centrul orașului la monumentalul Castillo de Elda. Încheiați ziua cu o plimbare pitorească spre Mirador, admirând priveliștile superbe deasupra văii.",
+        "en": "Kick off your cycling tour at the grand Plaza de Toros, diving right into the city's passionate traditions before rolling over to the celebrated Footwear Museum. Midday finds you pedaling towards the charming San Francisco de Sales church and taking a refreshing break at Plaza Castelar. Afternoon trails lead you through the city core to the monumental Castillo de Elda. Wind down with a scenic evening ride to the Mirador, capturing the best sunset views."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:01",
+      "total_km": 8.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kalkofen am Stausee",
+            "hu": "Pantano Mészégető",
+            "ro": "Cuptorul de var de la Pantano",
+            "en": "Calera del Pantano"
+          },
+          "coords": [
+            -0.798334,
+            38.497239
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie abseits der Hauptstraße, um diese historischen Kalköfen aus der Nähe zu inspizieren, die einen Einblick in frühe industrielle Methoden bieten.",
+            "hu": "Parkoljon le a főútról lehajtva, hogy közelről is szemügyre vehesse ezeket a történelmi mészégetőket, amelyek bepillantást nyújtanak a korai iparba.",
+            "ro": "Parcați pe marginea drumului principal pentru a inspecta de aproape aceste cuptoare istorice de var, care oferă o perspectivă asupra metodelor industriale timpurii.",
+            "en": "Park safely off the main road to inspect these historic lime kilns up close, which offer a truly unique glimpse into the area's early industrial methods."
+          }
+        },
+        {
+          "name": {
+            "de": "Wachturm La Torreta",
+            "hu": "La Torreta Őrtorony",
+            "ro": "Turnul de veghe La Torreta",
+            "en": "La Torreta"
+          },
+          "coords": [
+            -0.805402,
+            38.496894
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Fahren Sie vorsichtig auf der Zufahrtsstraße zu dieser alten Wachturmruine, die als stummer Wächter über die wunderschöne historische Landschaft wacht.",
+            "hu": "Vezessen óvatosan a bekötőúton ehhez az ősi őrtoronyromhoz, amely néma őrszemként magasodik a gyönyörű történelmi táj fölé.",
+            "ro": "Conduceți cu atenție pe drumul de acces către această veche ruină a turnului de veghe, care stă ca un santinelă tăcută peste peisajul istoric local.",
+            "en": "Drive carefully on the approach road to this ancient watchtower ruin, which majestically stands as a silent sentinel over the surrounding historic landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Kalkofen La Torreta",
+            "hu": "La Torreta Mészégető",
+            "ro": "Cuptorul de var La Torreta",
+            "en": "Calera de la Torreta"
+          },
+          "coords": [
+            -0.796383,
+            38.495982
+          ],
+          "category": "historical",
+          "arrive_at": "11:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Kombinieren Sie diesen Stopp mit dem nahegelegenen Turm und nutzen Sie den unbefestigten Parkplatz, um die industrielle Vergangenheit der Region zu erkunden.",
+            "hu": "Kombinálja ezt a megállót a közeli toronnyal, és használja a földes parkolót, hogy tovább fedezze a régió izgalmas ipari múltját.",
+            "ro": "Combinați această oprire cu turnul din apropiere și folosiți parcarea neasfaltată pentru a explora mai departe trecutul industrial fascinant al regiunii.",
+            "en": "Combine this quick stop with the nearby tower, using the unpaved parking pull-off to explore even more of the region's fascinating industrial past."
+          }
+        },
+        {
+          "name": {
+            "de": "Ausstellungshalle Vicente Poveda",
+            "hu": "Vicente Poveda Kiállítóterem",
+            "ro": "Sala de expoziții Vicente Poveda",
+            "en": "Sala de exposiciones Vicente Poveda"
+          },
+          "coords": [
+            -0.771662,
+            38.484685
+          ],
+          "category": "museum",
+          "arrive_at": "13:20",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Parkplätze an der Straße, um diese moderne Galerie zu besuchen, die beeindruckende und wechselnde zeitgenössische Kunstausstellungen zeigt.",
+            "hu": "Használja az utcai parkolókat e modern galéria meglátogatásához, amely lenyűgöző és folyamatosan változó kortárs művészeti kiállításokat mutat be.",
+            "ro": "Utilizați parcarea stradală din apropiere pentru a vizita această galerie modernă, care prezintă expoziții de artă contemporană impresionante și în schimbare.",
+            "en": "Utilize the convenient nearby street parking to visit this modern gallery space, which showcases impressive rotating contemporary art exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Städtisches Schwimmbad",
+            "hu": "Városi Uszoda",
+            "ro": "Piscina Municipală",
+            "en": "Piscina Municipal"
+          },
+          "coords": [
+            -0.77458,
+            38.479741
+          ],
+          "category": "recreational",
+          "arrive_at": "15:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Machen Sie einen gemütlichen Spaziergang in den Parkanlagen rund um das städtische Schwimmbad, perfekt, um sich nach der Fahrt die Beine zu vertreten.",
+            "hu": "Tegyen egy kellemes sétát a városi uszodát körülvevő parkosított területeken, amely tökéletes a lábak kinyújtóztatására a hosszas vezetés után.",
+            "ro": "Faceți o plimbare relaxantă prin zonele de parc din jurul complexului piscinei municipale, locul perfect pentru a vă dezmorți picioarele după condus.",
+            "en": "Take a leisurely stroll around the lovely park areas surrounding the municipal pool complex, perfect for stretching your legs after a long drive."
+          }
+        },
+        {
+          "name": {
+            "de": "Schuhmuseum",
+            "hu": "Cipőmúzeum",
+            "ro": "Muzeul Încălțămintei",
+            "en": "Museo del Calzado"
+          },
+          "coords": [
+            -0.795348,
+            38.473732
+          ],
+          "category": "museum",
+          "arrive_at": "16:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Parken Sie auf dem ausgewiesenen Museumsparkplatz und verbringen Sie den Nachmittag damit, den immensen Einfluss von Elda auf das Schuhdesign zu entdecken.",
+            "hu": "Parkoljon a múzeum kijelölt parkolójában, és töltse a délutánt Elda cipőtervezésre gyakorolt óriási hatásának megismerésével és felfedezésével.",
+            "ro": "Parcați în zona desemnată a muzeului și petreceți după-amiaza descoperind impactul imens pe care orașul Elda l-a avut asupra designului de încălțăminte.",
+            "en": "Park comfortably in the designated museum lot and spend your afternoon discovering the immense global impact Elda has had on luxury shoe design."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt von Elda",
+            "hu": "Elda Kilátó",
+            "ro": "Punctul de Belvedere din Elda",
+            "en": "Mirador de Elda"
+          },
+          "coords": [
+            -0.809438,
+            38.475732
+          ],
+          "category": "natural",
+          "arrive_at": "18:06",
+          "stay_min": 55,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahren Sie den gewundenen Weg zu diesem Aussichtspunkt hinauf, um Ihre Reise mit einem spektakulären Panoramablick auf die gesamte Stadt abzuschließen.",
+            "hu": "Kövessen a kanyargós úton ehhez a kilátóhoz, hogy autós utazását egy látványos panorámaképpel zárja az egész völgyre és a városra.",
+            "ro": "Conduceți pe drumul șerpuit până la acest punct de belvedere pentru a vă încheia călătoria cu o priveliște panoramică spectaculoasă asupra întregului oraș.",
+            "en": "Drive up the winding path right to this elevated viewpoint to conclude your road trip with a truly spectacular panoramic view of the entire city below."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Roadtrip mit der Erkundung der nördlichen Außenbezirke an der Calera del Pantano und tauchen Sie in die historischen Überreste ein. Mittags bringt Sie eine kurze Fahrt zur La Torreta und der benachbarten Calera, wo Sie alte architektonische Wahrzeichen bewundern können. Nachmittags fahren Sie zurück in die Stadt, um die Ausstellungshalle Vicente Poveda zu besuchen. Beenden Sie Ihre Reise im Schuhmuseum vor einem letzten Panoramastopp am Mirador.",
+        "hu": "Kezdje autós utazását az északi külvárosban, a Calera del Pantano felfedezésével, amely a helyi történelmi infrastruktúra lenyűgöző maradványa. Délben egy rövid vezetés után a La Torreta és a szomszédos Calera ősi építészeti nevezetességeit csodálhatja meg. Délután térjen vissza a városba, hogy megnézze a Vicente Poveda kiállítótermet és sétáljon egyet a városi medence közelében. Zárja az utazást a Cipőmúzeum megtekintésével, majd a Miradornál.",
+        "ro": "Începeți călătoria explorând periferia nordică la Calera del Pantano, admirând rămășițele fascinante ale infrastructurii istorice locale. La prânz, o scurtă plimbare vă duce la La Torreta și Calera vecină, oferind repere arhitecturale străvechi. După-amiaza vă întoarceți spre oraș pentru a vă bucura de sala de expoziții Vicente Poveda și o scurtă plimbare lângă piscina municipală. Încheiați-vă călătoria la Muzeul Încălțămintei și un popas la Mirador.",
+        "en": "Start your road trip by exploring the northern outskirts at Calera del Pantano, diving into the fascinating remnants of local historic infrastructure. Midday brings a short drive to La Torreta and its neighboring Calera, offering a deep dive into ancient architectural landmarks. Afternoon routes take you back towards the city to enjoy the Vicente Poveda exhibition hall and a quick stroll near the municipal pool. Finish your journey marveling at the Footwear Museum before the Mirador."
+      }
+    }
+  }
+}

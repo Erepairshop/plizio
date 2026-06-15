@@ -1,0 +1,520 @@
+{
+  "city_id": "spain-banyalbufar-cities-v2",
+  "anchor": {
+    "name": "Banyalbufar",
+    "coords": [
+      2.51477,
+      39.68745
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:36",
+      "total_km": 4.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Volta des General",
+            "hu": "Volta des General",
+            "ro": "Volta des General",
+            "en": "Volta des General"
+          },
+          "coords": [
+            2.521432,
+            39.689741
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen historischen Küstenpfad mit herrlichem Meerblick, aber tragen Sie unbedingt feste Wanderschuhe für das unebene Gelände.",
+            "hu": "Fedezze fel ezt a történelmi tengerparti ösvényt, amely lenyűgöző kilátást nyújt, de mindenképpen viseljen masszív túracipőt az egyenetlen terepen.",
+            "ro": "Explorați această cărare de coastă istorică oferind vederi uimitoare la mare, dar asigurați-vă că purtați încălțăminte robustă pentru terenul accidentat.",
+            "en": "Explore this historic coastal trail offering stunning sea views, but be sure to wear sturdy hiking shoes for the uneven rocky terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Penyal de s'Heura",
+            "hu": "Penyal de s'Heura",
+            "ro": "Penyal de s'Heura",
+            "en": "Penyal de s'Heura"
+          },
+          "coords": [
+            2.526412,
+            39.693766
+          ],
+          "category": "natural",
+          "arrive_at": "10:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen schroffen Berggipfel, wo die lokale Flora gedeiht, und bringen Sie Ihre eigene Wasserflasche mit, da es keine Einrichtungen gibt.",
+            "hu": "Fedezze fel ezt a zord természeti csúcsot, ahol a helyi növényvilág virágzik, és hozzon magával kulacsot, mivel a mászás során nincsenek létesítmények.",
+            "ro": "Descoperiți acest vârf natural stâncos unde flora locală prosperă și aduceți propria sticlă cu apă, deoarece nu există facilități pe traseu.",
+            "en": "Discover this rugged natural peak where local flora thrives, and bring your own water bottle as there are no facilities on the steep ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "observatori de ses Planes",
+            "hu": "observatori de ses Planes",
+            "ro": "observatori de ses Planes",
+            "en": "observatori de ses Planes"
+          },
+          "coords": [
+            2.527736,
+            39.694621
+          ],
+          "category": "natural",
+          "arrive_at": "11:52",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die panoramischen Mittelmeerblicke von dieser hervorragenden Aussichtsplattform, und kommen Sie früh, um das beste Morgenlicht einzufangen.",
+            "hu": "Csodálja meg a panorámás mediterrán kilátást erről a kiváló kilátóról, és érkezzen korán, hogy elcsípje a legjobb reggeli fényeket a tömeg nélkül.",
+            "ro": "Admirați priveliștile panoramice mediteraneene de pe această punte de observație, sosind devreme pentru a prinde cea mai bună lumină de dimineață.",
+            "en": "Admire the panoramic Mediterranean vistas from this prime observation deck, arriving early to capture the best morning light without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Collet d'en Morera",
+            "hu": "Collet d'en Morera",
+            "ro": "Collet d'en Morera",
+            "en": "Collet d'en Morera"
+          },
+          "coords": [
+            2.504195,
+            39.684851
+          ],
+          "category": "natural",
+          "arrive_at": "12:50",
+          "stay_min": 75,
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen malerischen Gebirgspass mit seinen Terrassenlandschaften und halten Sie ein stetiges Tempo, um die Küstenbrise zu genießen.",
+            "hu": "Sétáljon végig ezen a festői hegyi hágón, amely teraszos tájairól ismert, és tartson egyenletes tempót, hogy élvezze a frissítő tengerparti szellőt.",
+            "ro": "Plimbați-vă prin această trecătoare montană pitorească, cunoscută pentru peisajele sale terasate, menținând un ritm constant pentru a vă bucura de briză.",
+            "en": "Walk through this picturesque natural mountain pass known for its terraced landscapes, keeping a steady pace to enjoy the refreshing coastal breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "mirador des Rafal",
+            "hu": "mirador des Rafal",
+            "ro": "mirador des Rafal",
+            "en": "mirador des Rafal"
+          },
+          "coords": [
+            2.507227,
+            39.681526
+          ],
+          "category": "natural",
+          "arrive_at": "14:11",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die atemberaubenden, dramatischen Klippen an diesem ruhigen Aussichtspunkt, und nutzen Sie einen Polfilter für tiefblaue Wasserfotos.",
+            "hu": "Gyönyörködjön a lélegzetelállító meredek sziklákban ezen a csendes kilátóponton, és használjon polárszűrőt a kameráján a mélykék vizek kiemeléséhez.",
+            "ro": "Admirați stâncile dramatice uluitoare la acest punct de belvedere liniștit, folosind un filtru de polarizare la cameră pentru a accentua apele albastre.",
+            "en": "Take in the breathtaking dramatic cliff drops at this quiet viewpoint, using a polarizing filter on your camera to enhance the deep blue waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre del Verger",
+            "hu": "Torre del Verger",
+            "ro": "Torre del Verger",
+            "en": "Torre del Verger"
+          },
+          "coords": [
+            2.500032,
+            39.683701
+          ],
+          "category": "natural",
+          "arrive_at": "14:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen ikonischen Wachturm aus dem 16. Jahrhundert über dem Meer und betreten Sie die schmalen Innentreppen zum Dach mit Vorsicht.",
+            "hu": "Látogassa meg ezt a tenger fölé magasodó, ikonikus 16. századi őrtornyot, óvatosan lépkedve a tetőre vezető szűk, belső lépcsőkön.",
+            "ro": "Vizitați acest turn de veghe iconic din secolul al XVI-lea, cocoțat dramatic deasupra mării, pășind cu grijă pe scările interioare înguste spre acoperiș.",
+            "en": "Visit this iconic 16th-century watchtower perched dramatically over the sea, stepping carefully on the narrow internal stairs leading to the top roof."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einem erfrischenden Küstenspaziergang entlang der historischen Volta des General zu den atemberaubenden Höhen von Penyal de s'Heura. Mittags lockt das Observatorium ses Planes mit Panoramablick, bevor es durch charmante Terrassenhänge weitergeht. Nachmittags führt der Weg zu den westlichen Klippen und dem Mirador des Rafal. Der Abend endet perfekt am Torre del Verger, wo die untergehende Sonne die alten Steine und das weite Meer in leuchtende Farben taucht.",
+        "hu": "A reggel egy frissítő tengerparti sétával kezdődik a történelmi Volta des General mentén, amely a Penyal de s'Heura magaslataira vezet. A dél korolláris panorámát kínál a ses Planes kilátóban, majd visszatér a bájos teraszos domboldalakon. A délután lágyan ereszkedik a nyugati sziklák felé, lenyűgöző tengeri kilátást nyújtva a mirador des Rafalról. Az este tökéletesen zárul a Torre del Verger-nél, ahol a lemenő nap ragyogó színekre festi az ősi köveket.",
+        "ro": "Dimineața începe cu o plimbare revigorantă pe coasta istorică Volta des General, ducând spre înălțimile uluitoare de la Penyal de s'Heura. Prânzul oferă recompense panoramice la observatorul ses Planes înainte de a traversa înapoi prin dealurile terasate. După-amiaza coboară blând spre stâncile vestice, oferind priveliști maritime uimitoare la mirador des Rafal. Seara se încheie perfect la Torre del Verger, unde soarele la apus pictează pietrele antice în culori strălucitoare.",
+        "en": "Morning begins with a refreshing coastal walk along the historic Volta des General, leading to the breathtaking heights of Penyal de s'Heura. Midday offers panoramic rewards at the ses Planes observatory before transitioning back through the charming terraced hillsides. Afternoon descends gently toward the western cliffs, providing stunning maritime vistas from mirador des Rafal. Evening concludes perfectly at the iconic Torre del Verger, where the setting sun paints the ancient stones and endless sea in brilliant colors."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:55",
+      "total_km": 6.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Volta des General",
+            "hu": "Volta des General",
+            "ro": "Volta des General",
+            "en": "Volta des General"
+          },
+          "coords": [
+            2.521432,
+            39.689741
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen historischen Küstenpfad mit herrlichem Meerblick, aber tragen Sie unbedingt feste Wanderschuhe für das unebene Gelände.",
+            "hu": "Fedezze fel ezt a történelmi tengerparti ösvényt, amely lenyűgöző kilátást nyújt, de mindenképpen viseljen masszív túracipőt az egyenetlen terepen.",
+            "ro": "Explorați această cărare de coastă istorică oferind vederi uimitoare la mare, dar asigurați-vă că purtați încălțăminte robustă pentru terenul accidentat.",
+            "en": "Explore this historic coastal trail offering stunning sea views, but be sure to wear sturdy hiking shoes for the uneven rocky terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Penyal de s'Heura",
+            "hu": "Penyal de s'Heura",
+            "ro": "Penyal de s'Heura",
+            "en": "Penyal de s'Heura"
+          },
+          "coords": [
+            2.526412,
+            39.693766
+          ],
+          "category": "natural",
+          "arrive_at": "10:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen schroffen Berggipfel, wo die lokale Flora gedeiht, und bringen Sie Ihre eigene Wasserflasche mit, da es keine Einrichtungen gibt.",
+            "hu": "Fedezze fel ezt a zord természeti csúcsot, ahol a helyi növényvilág virágzik, és hozzon magával kulacsot, mivel a mászás során nincsenek létesítmények.",
+            "ro": "Descoperiți acest vârf natural stâncos unde flora locală prosperă și aduceți propria sticlă cu apă, deoarece nu există facilități pe traseu.",
+            "en": "Discover this rugged natural peak where local flora thrives, and bring your own water bottle as there are no facilities on the steep ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "observatori de ses Planes",
+            "hu": "observatori de ses Planes",
+            "ro": "observatori de ses Planes",
+            "en": "observatori de ses Planes"
+          },
+          "coords": [
+            2.527736,
+            39.694621
+          ],
+          "category": "natural",
+          "arrive_at": "11:44",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die panoramischen Mittelmeerblicke von dieser hervorragenden Aussichtsplattform, und kommen Sie früh, um das beste Morgenlicht einzufangen.",
+            "hu": "Csodálja meg a panorámás mediterrán kilátást erről a kiváló kilátóról, és érkezzen korán, hogy elcsípje a legjobb reggeli fényeket a tömeg nélkül.",
+            "ro": "Admirați priveliștile panoramice mediteraneene de pe această punte de observație, sosind devreme pentru a prinde cea mai bună lumină de dimineață.",
+            "en": "Admire the panoramic Mediterranean vistas from this prime observation deck, arriving early to capture the best morning light without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre del Verger",
+            "hu": "Torre del Verger",
+            "ro": "Torre del Verger",
+            "en": "Torre del Verger"
+          },
+          "coords": [
+            2.500032,
+            39.683701
+          ],
+          "category": "natural",
+          "arrive_at": "12:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen ikonischen Wachturm aus dem 16. Jahrhundert über dem Meer und betreten Sie die schmalen Innentreppen zum Dach mit Vorsicht.",
+            "hu": "Látogassa meg ezt a tenger fölé magasodó, ikonikus 16. századi őrtornyot, óvatosan lépkedve a tetőre vezető szűk, belső lépcsőkön.",
+            "ro": "Vizitați acest turn de veghe iconic din secolul al XVI-lea, cocoțat dramatic deasupra mării, pășind cu grijă pe scările interioare înguste spre acoperiș.",
+            "en": "Visit this iconic 16th-century watchtower perched dramatically over the sea, stepping carefully on the narrow internal stairs leading to the top roof."
+          }
+        },
+        {
+          "name": {
+            "de": "penyals des Boixar",
+            "hu": "penyals des Boixar",
+            "ro": "penyals des Boixar",
+            "en": "penyals des Boixar"
+          },
+          "coords": [
+            2.508851,
+            39.673294
+          ],
+          "category": "natural",
+          "arrive_at": "13:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese imposanten Kalksteinfelsen über den Wegen, und bringen Sie ein Fernglas mit, um die vielfältigen, nistenden Vogelarten zu beobachten.",
+            "hu": "Csodálja meg az ösvények fölé magasodó, impozáns mészkő sziklaalakzatokat, és hozzon távcsövet a fészkelő különféle őshonos madárfajok megfigyeléséhez.",
+            "ro": "Minunați-vă de aceste formațiuni stâncoase impunătoare de calcar, aducând binoclul pentru a observa diversele specii de păsări native care cuibăresc.",
+            "en": "Marvel at these imposing limestone rock formations towering over the trails, bringing binoculars to spot the diverse native bird species nesting above."
+          }
+        },
+        {
+          "name": {
+            "de": "Mola de Planícia",
+            "hu": "Mola de Planícia",
+            "ro": "Mola de Planícia",
+            "en": "Mola de Planícia"
+          },
+          "coords": [
+            2.512857,
+            39.668181
+          ],
+          "category": "natural",
+          "arrive_at": "15:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesem markanten Tafelberg mit unvergleichlichem Inselblick, und packen Sie energiereiche Snacks für den anspruchsvollen Endaufstieg ein.",
+            "hu": "Túrázzon el ehhez a kiemelkedő lapos hegycsúcshoz, amely páratlan szigeti kilátást nyújt, és mindenképpen csomagoljon energiadús nassolnivalót.",
+            "ro": "Faceți o drumeție pe acest munte plat impresionant ce oferă vederi insulare de neegalat, asigurându-vă că luați gustări energizante pentru urcarea finală.",
+            "en": "Hike to this prominent flat-topped mountain peak offering unparalleled island views, making sure to pack high-energy snacks for the demanding final push."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen auf dem malerischen Weg Volta des General und gewinnen Sie schnell an Höhe in Richtung des schroffen Gipfels Penyal de s'Heura. Mittags erreichen Sie das Observatorium ses Planes für einen weiten Blick, gefolgt von einer rasanten Abfahrt zum Torre del Verger. Der Nachmittag fordert Ihre Ausdauer auf dem Weg bergauf vorbei an den imposanten penyals des Boixar. Der Abend belohnt Sie an der majestätischen Mola de Planícia mit Blick auf die dunkler werdende Insel.",
+        "hu": "Kezdje a reggelt kerékpározással a festői Volta des General ösvényen, gyorsan emelkedve a zord Penyal de s'Heura csúcs felé. A dél a ses Planes kilátóhoz vezet a lenyűgöző panorámáért, amit egy gyors ereszkedés követ a Torre del Verger felé. A délután kihívást jelent az állóképességnek a penyals des Boixar sziklaalakzatok melletti emelkedőn. Az este megjutalmazza erőfeszítéseit a fenséges Mola de Planícián, ahonnan a csendes ösvényekről belátni a sötétedő szigetet.",
+        "ro": "Începeți dimineața pedalând pe traseul pitoresc Volta des General, câștigând altitudine rapid spre vârful accidentat Penyal de s'Heura. Prânzul vă aduce la observatorul ses Planes pentru priveliști vaste, urmat de o coborâre rapidă spre Torre del Verger. După-amiaza vă provoacă rezistența cu o plimbare la deal pe lângă formațiunile stâncoase penyals des Boixar. Seara vă răsplătește eforturile la maiestuoasa Mola de Planícia, oferind o perspectivă unică asupra peisajului insular.",
+        "en": "Start your morning cycling along the scenic Volta des General path, gaining altitude quickly toward the rugged Penyal de s'Heura peak. Midday brings you to the ses Planes observatory for sweeping views, followed by a swift and exhilarating descent toward the 16th-century Torre del Verger. Afternoon challenges your stamina with an uphill ride past the imposing penyals des Boixar rock formations. Evening rewards your efforts at the majestic Mola de Planícia, where quiet trails overlook the darkening island landscape."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:12",
+      "total_km": 7.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Finca Pública de Planícia",
+            "hu": "Finca Pública de Planícia",
+            "ro": "Finca Pública de Planícia",
+            "en": "Finca Pública de Planícia"
+          },
+          "coords": [
+            2.505719,
+            39.666912
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch dieses geschützte öffentliche Anwesen mit ländlicher Architektur, und holen Sie sich eine kostenlose Wanderkarte am Haupteingang.",
+            "hu": "Barangoljon ezen a védett állami birtokon, amely a hagyományos vidéki építészetet mutatja be, és vegyen fel egy ingyenes térképet a főbejáratnál.",
+            "ro": "Plimbați-vă prin această proprietate publică protejată cu arhitectură rurală tradițională, luând o hartă gratuită de la panoul informativ de la intrare.",
+            "en": "Wander through this preserved public estate showcasing traditional rural architecture, picking up a free trail map at the main entrance information board."
+          }
+        },
+        {
+          "name": {
+            "de": "Mola de Planícia",
+            "hu": "Mola de Planícia",
+            "ro": "Mola de Planícia",
+            "en": "Mola de Planícia"
+          },
+          "coords": [
+            2.512857,
+            39.668181
+          ],
+          "category": "natural",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesem markanten Tafelberg mit unvergleichlichem Inselblick, und packen Sie energiereiche Snacks für den anspruchsvollen Endaufstieg ein.",
+            "hu": "Túrázzon el ehhez a kiemelkedő lapos hegycsúcshoz, amely páratlan szigeti kilátást nyújt, és mindenképpen csomagoljon energiadús nassolnivalót.",
+            "ro": "Faceți o drumeție pe acest munte plat impresionant ce oferă vederi insulare de neegalat, asigurându-vă că luați gustări energizante pentru urcarea finală.",
+            "en": "Hike to this prominent flat-topped mountain peak offering unparalleled island views, making sure to pack high-energy snacks for the demanding final push."
+          }
+        },
+        {
+          "name": {
+            "de": "penyals des Boixar",
+            "hu": "penyals des Boixar",
+            "ro": "penyals des Boixar",
+            "en": "penyals des Boixar"
+          },
+          "coords": [
+            2.508851,
+            39.673294
+          ],
+          "category": "natural",
+          "arrive_at": "11:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese imposanten Kalksteinfelsen über den Wegen, und bringen Sie ein Fernglas mit, um die vielfältigen, nistenden Vogelarten zu beobachten.",
+            "hu": "Csodálja meg az ösvények fölé magasodó, impozáns mészkő sziklaalakzatokat, és hozzon távcsövet a fészkelő különféle őshonos madárfajok megfigyeléséhez.",
+            "ro": "Minunați-vă de aceste formațiuni stâncoase impunătoare de calcar, aducând binoclul pentru a observa diversele specii de păsări native care cuibăresc.",
+            "en": "Marvel at these imposing limestone rock formations towering over the trails, bringing binoculars to spot the diverse native bird species nesting above."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre del Verger",
+            "hu": "Torre del Verger",
+            "ro": "Torre del Verger",
+            "en": "Torre del Verger"
+          },
+          "coords": [
+            2.500032,
+            39.683701
+          ],
+          "category": "natural",
+          "arrive_at": "13:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen ikonischen Wachturm aus dem 16. Jahrhundert über dem Meer und betreten Sie die schmalen Innentreppen zum Dach mit Vorsicht.",
+            "hu": "Látogassa meg ezt a tenger fölé magasodó, ikonikus 16. századi őrtornyot, óvatosan lépkedve a tetőre vezető szűk, belső lépcsőkön.",
+            "ro": "Vizitați acest turn de veghe iconic din secolul al XVI-lea, cocoțat dramatic deasupra mării, pășind cu grijă pe scările interioare înguste spre acoperiș.",
+            "en": "Visit this iconic 16th-century watchtower perched dramatically over the sea, stepping carefully on the narrow internal stairs leading to the top roof."
+          }
+        },
+        {
+          "name": {
+            "de": "Collet d'en Morera",
+            "hu": "Collet d'en Morera",
+            "ro": "Collet d'en Morera",
+            "en": "Collet d'en Morera"
+          },
+          "coords": [
+            2.504195,
+            39.684851
+          ],
+          "category": "natural",
+          "arrive_at": "14:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen malerischen Gebirgspass mit seinen Terrassenlandschaften und halten Sie ein stetiges Tempo, um die Küstenbrise zu genießen.",
+            "hu": "Sétáljon végig ezen a festői hegyi hágón, amely teraszos tájairól ismert, és tartson egyenletes tempót, hogy élvezze a frissítő tengerparti szellőt.",
+            "ro": "Plimbați-vă prin această trecătoare montană pitorească, cunoscută pentru peisajele sale terasate, menținând un ritm constant pentru a vă bucura de briză.",
+            "en": "Walk through this picturesque natural mountain pass known for its terraced landscapes, keeping a steady pace to enjoy the refreshing coastal breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Volta des General",
+            "hu": "Volta des General",
+            "ro": "Volta des General",
+            "en": "Volta des General"
+          },
+          "coords": [
+            2.521432,
+            39.689741
+          ],
+          "category": "natural",
+          "arrive_at": "15:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen historischen Küstenpfad mit herrlichem Meerblick, aber tragen Sie unbedingt feste Wanderschuhe für das unebene Gelände.",
+            "hu": "Fedezze fel ezt a történelmi tengerparti ösvényt, amely lenyűgöző kilátást nyújt, de mindenképpen viseljen masszív túracipőt az egyenetlen terepen.",
+            "ro": "Explorați această cărare de coastă istorică oferind vederi uimitoare la mare, dar asigurați-vă că purtați încălțăminte robustă pentru terenul accidentat.",
+            "en": "Explore this historic coastal trail offering stunning sea views, but be sure to wear sturdy hiking shoes for the uneven rocky terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Penyal de s'Heura",
+            "hu": "Penyal de s'Heura",
+            "ro": "Penyal de s'Heura",
+            "en": "Penyal de s'Heura"
+          },
+          "coords": [
+            2.526412,
+            39.693766
+          ],
+          "category": "natural",
+          "arrive_at": "17:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen schroffen Berggipfel, wo die lokale Flora gedeiht, und bringen Sie Ihre eigene Wasserflasche mit, da es keine Einrichtungen gibt.",
+            "hu": "Fedezze fel ezt a zord természeti csúcsot, ahol a helyi növényvilág virágzik, és hozzon magával kulacsot, mivel a mászás során nincsenek létesítmények.",
+            "ro": "Descoperiți acest vârf natural stâncos unde flora locală prosperă și aduceți propria sticlă cu apă, deoarece nu există facilități pe traseu.",
+            "en": "Discover this rugged natural peak where local flora thrives, and bring your own water bottle as there are no facilities on the steep ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "observatori de ses Planes",
+            "hu": "observatori de ses Planes",
+            "ro": "observatori de ses Planes",
+            "en": "observatori de ses Planes"
+          },
+          "coords": [
+            2.527736,
+            39.694621
+          ],
+          "category": "natural",
+          "arrive_at": "18:17",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die panoramischen Mittelmeerblicke von dieser hervorragenden Aussichtsplattform, und kommen Sie früh, um das beste Morgenlicht einzufangen.",
+            "hu": "Csodálja meg a panorámás mediterrán kilátást erről a kiváló kilátóról, és érkezzen korán, hogy elcsípje a legjobb reggeli fényeket a tömeg nélkül.",
+            "ro": "Admirați priveliștile panoramice mediteraneene de pe această punte de observație, sosind devreme pentru a prinde cea mai bună lumină de dimineață.",
+            "en": "Admire the panoramic Mediterranean vistas from this prime observation deck, arriving early to capture the best morning light without the crowds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre morgendliche Fahrt führt Sie tief in die Finca Pública de Planícia, bevor es weiter zur hoch aufragenden Mola de Planícia geht. Mittags navigieren Sie über die kurvenreichen Bergstraßen zu den majestätischen penyals des Boixar und dem historischen Torre del Verger direkt an der Küste. Am Nachmittag fahren Sie zurück in Richtung Stadt und erkunden die wunderschönen Terrassentäler rund um Collet d'en Morera. Der Abend endet mit einer atemberaubenden Küstenrunde am Observatorium ses Planes.",
+        "hu": "A reggeli autózás mélyen a Finca Pública de Planícia területére visz, ahol a nyugodt vidéki tájak tökéletes kezdést biztosítanak a Mola de Planícia felé. A déli vezetés a kanyargós hegyi utakon a penyals des Boixar és a tengerparti Torre del Verger felé halad. A délutáni utazás visszahoz a város felé, felfedezve a Collet d'en Morera körüli gyönyörű teraszos völgyeket. Az este egy lélegzetelállító parti körúttal zárul, a horizontot figyelve az observatori de ses Planes-ből.",
+        "ro": "Condusul de dimineață vă duce adânc în Finca Pública de Planícia, unde peisajele rurale senine oferă un început perfect înainte de a merge spre Mola de Planícia. La prânz navigați pe drumurile montane curbate spre penyals des Boixar și istoricul Torre del Verger de pe coastă. Croaziera de după-amiază vă aduce înapoi spre oraș, explorând văile terasate din jurul Collet d'en Morera. Seara se termină cu un circuit de coastă uluitor la observatori de ses Planes.",
+        "en": "Your morning drive takes you deep into the Finca Pública de Planícia, where serene rural landscapes provide a perfect start before heading to the towering Mola de Planícia. Midday driving navigates the curving mountain roads to the majestic penyals des Boixar and the historic Torre del Verger right on the coastline. Afternoon cruising brings you back toward town, exploring the beautiful terraced valleys around Collet d'en Morera. Evening finishes with a breathtaking coastal circuit, watching the horizon from observatori de ses Planes."
+      }
+    }
+  }
+}

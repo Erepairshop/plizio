@@ -1,0 +1,451 @@
+{
+  "city_id": "italy-coroglio-cities-v2",
+  "anchor": {
+    "name": "Coroglio",
+    "coords": [
+      14.17532,
+      40.80262
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:35",
+      "total_km": 0.93,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo del Mare",
+            "hu": "Museo del Mare",
+            "ro": "Museo del Mare",
+            "en": "Museo del Mare"
+          },
+          "coords": [
+            14.164556,
+            40.81432
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie Neapels reiche maritime Geschichte durch faszinierende nautische Exponate und kommen Sie früh, um Schulklassen zu meiden.",
+            "hu": "Fedezze fel Nápoly gazdag tengerészeti múltját a lenyűgöző hajózási kiállításokon, és érkezzen korán, hogy elkerülje az iskolai csoportokat.",
+            "ro": "Descoperiți bogata istorie maritimă a orașului Napoli prin exponate nautice fascinante și vizitați devreme pentru a evita grupurile școlare.",
+            "en": "Discover Naples' rich maritime history through fascinating nautical exhibits, and try to visit early to avoid the bustling school groups."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Pasquale Baylon",
+            "hu": "Chiesa di San Pasquale Baylon",
+            "ro": "Chiesa di San Pasquale Baylon",
+            "en": "Chiesa di San Pasquale Baylon"
+          },
+          "coords": [
+            14.16347,
+            40.815375
+          ],
+          "category": "religious",
+          "arrive_at": "10:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ruhige Architektur dieser lokalen Pfarrei und achten Sie auf die kunstvoll geschnitzten Holztüren am Haupteingang.",
+            "hu": "Csodálja meg a helyi plébánia békés építészetét, és szánjon egy pillanatot a főbejárat bonyolultan faragott faajtajainak megfigyelésére.",
+            "ro": "Admirați arhitectura senină a acestei parohii locale și observați ușile din lemn sculptate complex de la intrarea principală.",
+            "en": "Admire the serene architecture of this local parish, and take a moment to notice the intricately carved wooden doors at the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Sant'Anna",
+            "hu": "Chiesa di Sant'Anna",
+            "ro": "Chiesa di Sant'Anna",
+            "en": "Chiesa di Sant'Anna"
+          },
+          "coords": [
+            14.165952,
+            40.816813
+          ],
+          "category": "religious",
+          "arrive_at": "11:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses charmante Heiligtum, um die schönen Altarbilder zu sehen, wobei Sie aus Respekt Ihre Schultern bedeckt halten sollten.",
+            "hu": "Lépjen be ebbe a bájos szentélybe, hogy megnézze a gyönyörű oltárképeket, ügyelve arra, hogy a helyi szokásokhoz híven fedje be vállát.",
+            "ro": "Pășiți în acest sanctuar fermecător pentru a vedea frumoasele piese de altar, asigurându-vă că umerii vă sunt acoperiți din respect.",
+            "en": "Step inside this charming sanctuary to view the beautiful altar pieces, ensuring your shoulders are covered out of respect for local customs."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santa Maria delle Grazie",
+            "hu": "Chiesa di Santa Maria delle Grazie",
+            "ro": "Chiesa di Santa Maria delle Grazie",
+            "en": "Chiesa di Santa Maria delle Grazie"
+          },
+          "coords": [
+            14.164787,
+            40.817304
+          ],
+          "category": "religious",
+          "arrive_at": "12:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erleben Sie die ruhige Atmosphäre dieser historischen Kirche und suchen Sie nach den zarten Fresken in den natürlich beleuchteten Seitenkapellen.",
+            "hu": "Tapasztalja meg a történelmi templom nyugodt légkörét, és keresse meg a természetes fénnyel megvilágított oldalkápolnákban rejlő finom freskókat.",
+            "ro": "Experimentați atmosfera liniștită a acestei biserici istorice și căutați frescele delicate ascunse în capelele laterale luminate natural.",
+            "en": "Experience the tranquil atmosphere of this historic church, and look for the delicate frescoes hidden in the naturally lit side chapels."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa della Santa Croce",
+            "hu": "Chiesa della Santa Croce",
+            "ro": "Chiesa della Santa Croce",
+            "en": "Chiesa della Santa Croce"
+          },
+          "coords": [
+            14.163104,
+            40.818923
+          ],
+          "category": "religious",
+          "arrive_at": "13:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beobachten Sie die markanten strukturellen Details dieses Wahrzeichens der Nachbarschaft und bringen Sie eine Kamera für die beeindruckende Fassade mit.",
+            "hu": "Figyelje meg ennek a környékbeli nevezetességnek a feltűnő szerkezeti részleteit, és hozzon fényképezőgépet, hogy megörökítse a lenyűgöző homlokzatot.",
+            "ro": "Observați detaliile structurale uimitoare ale acestui reper din cartier, aducând un aparat foto pentru a surprinde fațada impresionantă la soare.",
+            "en": "Observe the striking structural details of this neighborhood landmark, bringing a camera to capture the impressive facade in the afternoon sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Edificio I - Teatro",
+            "hu": "Edificio I - Teatro",
+            "ro": "Edificio I - Teatro",
+            "en": "Edificio I - Teatro"
+          },
+          "coords": [
+            14.164057,
+            40.820889
+          ],
+          "category": "cultural",
+          "arrive_at": "13:45",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.23,
+          "tip_5lang": {
+            "de": "Erkunden Sie die eindrucksvollen Überreste dieses antiken Kulturgebäudes und tragen Sie bequeme Schuhe, um sicher auf den unebenen Wegen zu gehen.",
+            "hu": "Fedezze fel ezen ősi kulturális épület sokatmondó maradványait, és viseljen kényelmes cipőt, hogy biztonságosan közlekedhessen a kövezett utakon.",
+            "ro": "Explorați rămășițele evocatoare ale acestei clădiri culturale antice, purtând încălțăminte confortabilă pentru a naviga în siguranță pe cărările pietruite.",
+            "en": "Explore the evocative remnants of this ancient cultural building, wearing comfortable walking shoes to safely navigate the uneven stone pathways."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihren Tag im nördlichen Stadtteil Bagnoli und erkunden Sie die tiefe Verbundenheit der Gegend mit dem Meer. Das Museo del Mare stimmt Sie mit seinen faszinierenden Exponaten zur lokalen Seefahrtsgeschichte perfekt ein.\nMidday: Schlendern Sie durch die charmanten Straßen, in denen Geschichte und Glaube nahtlos ineinander übergehen. Besuchen Sie die ruhige Chiesa di San Pasquale Baylon, bevor Sie die komplexe Schönheit der nahe gelegenen Chiesa di Sant'Anna bewundern.\nAfternoon: Setzen Sie Ihre fußläufige Erkundung von Coroglios spirituellem Herzen fort. Die eleganten Fassaden von Santa Maria delle Grazie und Santa Croce bieten eine ruhige Pause und atemberaubende Architekturdetails in der Nachmittagssonne.\nEvening: Beenden Sie Ihren Rundgang am Edificio I Teatro. Diese antiken strukturellen Überreste vermitteln ein Gefühl der Zeitlosigkeit und bieten ein perfektes, besinnliches Finale für Ihre umfassende Erkundung des kulturellen Erbes.",
+        "hu": "Morning: Kezdje a napot az északi Bagnoli negyedben, felfedezve a környék tengerhez fűződő mély kapcsolatát. A Museo del Mare tökéletes alaphangot ad a helyi tengerészeti történelmet bemutató lenyűgöző kiállításaival.\nMidday: Sétáljon végig a hangulatos utcákon, ahol a történelem és a hit zökkenőmentesen keveredik. Látogassa meg a békés Chiesa di San Pasquale Baylont, mielőtt megcsodálná a közeli Chiesa di Sant'Anna lenyűgöző szépségét.\nAfternoon: Folytassa Coroglio spirituális központjának gyalogos felfedezését. A Santa Maria delle Grazie és a Santa Croce elegáns homlokzatai csendes kikapcsolódást és lenyűgöző, délutáni napsütésben fürdő építészeti részleteket kínálnak.\nEvening: Fejezze be sétáját az Edificio I Teatrónál. Ezek az ősi szerkezeti maradványok az időtlenség érzését keltik, és tökéletes, elmélkedő finálét nyújtanak a környék kulturális örökségének átfogó felfedezéséhez.",
+        "ro": "Morning: Începeți-vă ziua în cartierul nordic Bagnoli, explorând legătura profundă a zonei cu marea. Museo del Mare oferă tonul perfect cu exponatele sale fascinante care detaliază istoria nautică locală și tradițiile maritime.\nMidday: Plimbați-vă pe străzile fermecătoare ale cartierului, unde istoria și credința se împletesc perfect. Vizitați liniștita Chiesa di San Pasquale Baylon înainte de a trece la frumusețea complexă a Chiesa di Sant'Anna din apropiere.\nAfternoon: Continuați explorarea pietonală a inimii spirituale a orașului Coroglio. Fațadele elegante ale Santa Maria delle Grazie și Santa Croce oferă un răgaz liniștit și detalii arhitecturale uimitoare, scăldate în soarele după-amiezii.\nEvening: Încheiați-vă turul la Edificio I Teatro. Aceste rămășițe structurale antice evocă un sentiment de atemporalitate, oferind un final perfect și reflexiv pentru explorarea dumneavoastră cuprinzătoare a patrimoniului cultural.",
+        "en": "Morning: Begin your day in the northern Bagnoli district, exploring the area's deep connection to the sea. The Museo del Mare sets the perfect tone with its fascinating exhibits detailing local nautical history and seafaring traditions.\nMidday: Stroll through the charming neighborhood streets, where history and faith intermingle seamlessly. Visit the tranquil Chiesa di San Pasquale Baylon before moving on to the intricate beauty of the Chiesa di Sant'Anna nearby.\nAfternoon: Continue your pedestrian exploration of Coroglio's spiritual heart. The elegant facades of Santa Maria delle Grazie and Santa Croce offer a quiet respite and stunning architectural details bathed in the afternoon sun.\nEvening: Conclude your walking tour at the Edificio I Teatro. These ancient structural remnants evoke a sense of timelessness, providing a perfect, reflective finale to your comprehensive exploration of the district's cultural heritage."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:40",
+      "total_km": 3.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo del Mare",
+            "hu": "Museo del Mare",
+            "ro": "Museo del Mare",
+            "en": "Museo del Mare"
+          },
+          "coords": [
+            14.164556,
+            40.81432
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie Neapels reiche maritime Geschichte durch faszinierende nautische Exponate und kommen Sie früh, um Schulklassen zu meiden.",
+            "hu": "Fedezze fel Nápoly gazdag tengerészeti múltját a lenyűgöző hajózási kiállításokon, és érkezzen korán, hogy elkerülje az iskolai csoportokat.",
+            "ro": "Descoperiți bogata istorie maritimă a orașului Napoli prin exponate nautice fascinante și vizitați devreme pentru a evita grupurile școlare.",
+            "en": "Discover Naples' rich maritime history through fascinating nautical exhibits, and try to visit early to avoid the bustling school groups."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Maria Santissima Desolata",
+            "hu": "Chiesa di Maria Santissima Desolata",
+            "ro": "Chiesa di Maria Santissima Desolata",
+            "en": "Chiesa di Maria Santissima Desolata"
+          },
+          "coords": [
+            14.167454,
+            40.815483
+          ],
+          "category": "religious",
+          "arrive_at": "10:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie das friedliche Ambiente dieses eleganten Gotteshauses und prüfen Sie vorab den Zeitplan, da die Öffnungszeiten wochentags variieren.",
+            "hu": "Élvezze ezen elegáns istentiszteleti hely békés hangulatát, és előzetesen ellenőrizze a menetrendet, mivel a látogatási idők hétköznap változhatnak.",
+            "ro": "Bucurați-vă de ambianța pașnică a acestui lăcaș de cult elegant și verificați programul local în prealabil, deoarece orele pot varia în timpul săptămânii.",
+            "en": "Enjoy the peaceful ambiance of this elegant house of worship, and check the local schedule beforehand as visiting hours can vary on weekdays."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Nuvole",
+            "hu": "Le Nuvole",
+            "ro": "Le Nuvole",
+            "en": "Le Nuvole"
+          },
+          "coords": [
+            14.173857,
+            40.804155
+          ],
+          "category": "cultural",
+          "arrive_at": "11:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie an diesem lebendigen kulturellen Zentrum in lokale Aufführungen ein und buchen Sie Ihre Tickets frühzeitig für die besten Plätze.",
+            "hu": "Merüljön el a helyi művészeti előadásokban ebben a nyüzsgő kulturális központban, és jó előre foglalja le jegyeit a legjobb helyek biztosításához.",
+            "ro": "Cufundați-vă în spectacolele artistice locale la acest centru cultural vibrant și rezervați-vă biletele din timp pentru a vă asigura cele mai bune locuri.",
+            "en": "Immerse yourself in local artistic performances at this vibrant cultural hub, and book your tickets well in advance to secure the best seats."
+          }
+        },
+        {
+          "name": {
+            "de": "Immacolata a Mezza Costa",
+            "hu": "Immacolata a Mezza Costa",
+            "ro": "Immacolata a Mezza Costa",
+            "en": "Immacolata a Mezza Costa"
+          },
+          "coords": [
+            14.166438,
+            40.795807
+          ],
+          "category": "religious",
+          "arrive_at": "13:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die weite Aussicht von dieser religiösen Stätte am Hang und bringen Sie Wasser mit, da der kurze Anstieg überraschend steil sein kann.",
+            "hu": "Élvezze a domboldalon található vallási helyről nyíló pazar kilátást, és hozzon vizet, mivel a rövid felfelé vezető séta meglepően meredek lehet.",
+            "ro": "Savurați priveliștile panoramice de la acest sit religios pe deal, aducând o sticlă de apă, deoarece scurta plimbare poate fi surprinzător de abruptă.",
+            "en": "Relish the sweeping views from this hillside religious site, bringing a bottle of water as the brief uphill walk can be surprisingly steep."
+          }
+        },
+        {
+          "name": {
+            "de": "Porto Paone",
+            "hu": "Porto Paone",
+            "ro": "Porto Paone",
+            "en": "Porto Paone"
+          },
+          "coords": [
+            14.161107,
+            40.794427
+          ],
+          "category": "landmark",
+          "arrive_at": "13:50",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die Küstenschönheit rund um diesen historischen Naturhafen, wobei Sie respektvollen Abstand zu den Sperrgebieten am Inseleingang halten.",
+            "hu": "Gyönyörködjön e történelmi természetes kikötő körüli tengerparti szépségben, tiszteletteljes távolságot tartva a sziget bejáratánál lévő korlátozott zónáktól.",
+            "ro": "Admirați frumusețea de coastă din jurul acestui port natural istoric, păstrând o distanță respectuoasă față de zonele restricționate de la intrare.",
+            "en": "Take in the coastal beauty around this historic natural harbor, keeping a respectful distance from the restricted areas near the island's entrance."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Schwingen Sie sich aufs Rad und starten Sie am Museo del Mare, um Coroglios maritime Geschichte aufzunehmen, bevor Sie zur friedlichen Chiesa di Maria Santissima Desolata radeln.\nMidday: Genießen Sie eine erfrischende Radtour in Richtung Posillipo. Ihr nächstes Ziel ist Le Nuvole, ein faszinierender Kulturraum, in dem Sie lokale künstlerische Ausdrucksformen und kreative Energie schätzen lernen können.\nAfternoon: Die Küstenbrise leitet Sie hinauf zur Immacolata a Mezza Costa. Diese religiöse Stätte am Hang belohnt die körperliche Anstrengung mit einer ruhigen Atmosphäre und spektakulären Panoramablicken.\nEvening: Rollen Sie am Ende des Tages sanft hinab zum Porto Paone. Der einzigartige Naturhafen an der Insel Nisida bietet einen magischen Sonnenuntergang an der Küste und einen perfekten Abschluss Ihres Radabenteuers.",
+        "hu": "Morning: Pattanjon kerékpárra, és kezdjen a Museo del Maréban, magába szívva Coroglio tengerészeti történelmét, mielőtt egy rövid tekeréssel elérné a Chiesa di Maria Santissima Desolata békés szentélyét.\nMidday: Élvezze a frissítő biciklizést dél felé, Posillipo irányába. A következő úti cél a Le Nuvole, egy izgalmas kulturális tér, ahol megcsodálhatja a helyi művészeti megnyilvánulásokat és a kreatív energiát.\nAfternoon: A parti szellő kíséri, miközben felteker az Immacolata a Mezza Costa felé. Ez a domboldalon fekvő vallási hely lenyűgöző panorámával és nyugodt légkörrel jutalmazza meg a szerény fizikai erőfeszítést.\nEvening: Guruljon le lágyan Porto Paone felé a nap végén. A Nisida szigete melletti egyedülálló természetes kikötő varázslatos tengerparti naplementét kínál, tökéletes befejezést nyújtva aktív kerékpáros kalandjának.",
+        "ro": "Morning: Urcați pe bicicletă și începeți la Museo del Mare, absorbind istoria maritimă a orașului Coroglio înainte de a pedala pe o distanță scurtă până la sanctuarul pașnic al Chiesa di Maria Santissima Desolata.\nMidday: Bucurați-vă de o plimbare răcoritoare cu bicicleta spre sud, spre zona Posillipo. Următoarea destinație este Le Nuvole, un spațiu cultural captivant unde puteți aprecia expresiile artistice locale.\nAfternoon: Briza de coastă vă ghidează în timp ce urcați cu bicicleta spre Immacolata a Mezza Costa. Acest sit religios pe deal răsplătește efortul fizic cu atmosfera sa senină și priveliști panoramice spectaculoase.\nEvening: Coborâți lin spre Porto Paone la sfârșitul zilei. Portul natural unic de lângă insula Nisida oferă un apus de soare magic pe coastă, oferind o concluzie perfectă pentru aventura dumneavoastră activă.",
+        "en": "Morning: Hop on your bike and start at the Museo del Mare, absorbing the maritime history of Coroglio before pedaling a short distance to the peaceful sanctuary of Chiesa di Maria Santissima Desolata.\nMidday: Enjoy a refreshing bike ride southward toward the Posillipo area. Your next destination is Le Nuvole, an engaging cultural space where you can appreciate local artistic expressions and creative energy.\nAfternoon: The coastal breeze guides you as you cycle up to the Immacolata a Mezza Costa. This hillside religious site rewards the modest physical effort with its serene atmosphere and spectacular panoramic views.\nEvening: Coast gently down to Porto Paone as the day ends. The unique natural harbor by the island of Nisida provides a magical coastal sunset, offering a perfect conclusion to your active cycling adventure."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:10",
+      "total_km": 6.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Area Marina Protetta Parco Sommerso di Gaiola",
+            "hu": "Area Marina Protetta Parco Sommerso di Gaiola",
+            "ro": "Area Marina Protetta Parco Sommerso di Gaiola",
+            "en": "Area Marina Protetta Parco Sommerso di Gaiola"
+          },
+          "coords": [
+            14.186731,
+            40.790903
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die versunkenen Ruinen dieses außergewöhnlichen Meeresparks bei einer Glasbodenboot-Tour und denken Sie an biologisch abbaubare Sonnencreme.",
+            "hu": "Fedezze fel e rendkívüli tengeri park víz alatti romjait egy üvegfenekű hajótúrán, és ne felejtsen el biológiailag lebomló fényvédőt csomagolni.",
+            "ro": "Descoperiți ruinele scufundate ale acestui parc marin extraordinar rezervând un tur cu barca cu fund de sticlă și nu uitați crema de soare biodegradabilă.",
+            "en": "Discover the submerged ruins of this extraordinary marine park by booking a glass-bottom boat tour, and remember to pack biodegradable sunscreen."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Denza",
+            "hu": "Teatro Denza",
+            "ro": "Teatro Denza",
+            "en": "Teatro Denza"
+          },
+          "coords": [
+            14.185543,
+            40.800809
+          ],
+          "category": "cultural",
+          "arrive_at": "10:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reichen Theatertraditionen von Posillipo in diesem lokalen Theater und prüfen Sie online den Kalender auf faszinierende Abendausstellungen.",
+            "hu": "Fedezze fel Posillipo gazdag színházi hagyományait ebben a helyi színházban, és nézze meg online naptárjukat a lenyűgöző esti kiállításokért.",
+            "ro": "Descoperiți bogatele tradiții teatrale din Posillipo la acest teatru local, verificând calendarul lor online pentru orice expoziții de seară fascinante.",
+            "en": "Uncover the rich theatrical traditions of Posillipo at this local theater, checking their calendar online for any fascinating evening exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Immacolata a Mezza Costa",
+            "hu": "Immacolata a Mezza Costa",
+            "ro": "Immacolata a Mezza Costa",
+            "en": "Immacolata a Mezza Costa"
+          },
+          "coords": [
+            14.166438,
+            40.795807
+          ],
+          "category": "religious",
+          "arrive_at": "11:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die weite Aussicht von dieser religiösen Stätte am Hang und bringen Sie Wasser mit, da der kurze Anstieg überraschend steil sein kann.",
+            "hu": "Élvezze a domboldalon található vallási helyről nyíló pazar kilátást, és hozzon vizet, mivel a rövid felfelé vezető séta meglepően meredek lehet.",
+            "ro": "Savurați priveliștile panoramice de la acest sit religios pe deal, aducând o sticlă de apă, deoarece scurta plimbare poate fi surprinzător de abruptă.",
+            "en": "Relish the sweeping views from this hillside religious site, bringing a bottle of water as the brief uphill walk can be surprisingly steep."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del Mare",
+            "hu": "Museo del Mare",
+            "ro": "Museo del Mare",
+            "en": "Museo del Mare"
+          },
+          "coords": [
+            14.164556,
+            40.81432
+          ],
+          "category": "museum",
+          "arrive_at": "12:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie Neapels reiche maritime Geschichte durch faszinierende nautische Exponate und kommen Sie früh, um Schulklassen zu meiden.",
+            "hu": "Fedezze fel Nápoly gazdag tengerészeti múltját a lenyűgöző hajózási kiállításokon, és érkezzen korán, hogy elkerülje az iskolai csoportokat.",
+            "ro": "Descoperiți bogata istorie maritimă a orașului Napoli prin exponate nautice fascinante și vizitați devreme pentru a evita grupurile școlare.",
+            "en": "Discover Naples' rich maritime history through fascinating nautical exhibits, and try to visit early to avoid the bustling school groups."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa del Santissimo Salvatore",
+            "hu": "Chiesa del Santissimo Salvatore",
+            "ro": "Chiesa del Santissimo Salvatore",
+            "en": "Chiesa del Santissimo Salvatore"
+          },
+          "coords": [
+            14.168483,
+            40.821377
+          ],
+          "category": "religious",
+          "arrive_at": "14:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Halten Sie zur Besinnung in diesem wunderschön erhaltenen historischen Heiligtum inne und achten Sie besonders auf die kunstvollen Deckendekorationen.",
+            "hu": "Tartsan szünetet a gondolkodásra ebben a gyönyörűen megőrzött történelmi szentélyben, különös figyelmet fordítva a főhajó díszes mennyezeti dekorációira.",
+            "ro": "Faceți o pauză de reflecție în acest sanctuar istoric frumos conservat, acordând o atenție deosebită decorațiunilor ornamentate ale tavanului din naos.",
+            "en": "Pause for reflection in this beautifully preserved historical sanctuary, paying special attention to the ornate ceiling decorations inside the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di San Giuseppe Confessore",
+            "hu": "Chiesa di San Giuseppe Confessore",
+            "ro": "Chiesa di San Giuseppe Confessore",
+            "en": "Chiesa di San Giuseppe Confessore"
+          },
+          "coords": [
+            14.172464,
+            40.821871
+          ],
+          "category": "religious",
+          "arrive_at": "15:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die klassische Eleganz dieser bedeutenden lokalen Kirche und planen Sie Ihren Besuch am späten Nachmittag für das goldene Licht.",
+            "hu": "Csodálja meg e jelentős helyi templom klasszikus eleganciáját, és tervezze látogatását késő délutánra, hogy megtapasztalja a derűs aranyfényt.",
+            "ro": "Minunați-vă de eleganța clasică a acestei biserici locale semnificative, planificându-vă vizita după-amiaza târziu pentru a experimenta lumina aurie.",
+            "en": "Marvel at the classical elegance of this significant local church, planning your visit during the late afternoon to experience the serene golden light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihre Autotour im atemberaubenden Parco Sommerso di Gaiola. Die außergewöhnlichen versunkenen Ruinen vor den kristallklaren Gewässern bieten einen unvergesslichen Start in den Tag.\nMidday: Fahren Sie in das elegante Viertel Posillipo, um das Teatro Denza zu besuchen. Eine kurze Fahrt bringt Sie dann zur Immacolata a Mezza Costa für einen Moment der ruhigen Besinnung und atemberaubende Ausblicke.\nAfternoon: Fahren Sie nach Norden ins Gebiet Bagnoli und parken Sie beim Museo del Mare. Tauchen Sie durch die gut kuratierten Ausstellungen des Museums tief in das nautische Erbe der Region ein.\nEvening: Beenden Sie Ihren Roadtrip mit der Erkundung zweier bedeutender lokaler Kirchen. Besuchen Sie die Chiesa del Santissimo Salvatore, bevor Sie die klassische Schönheit der Chiesa di San Giuseppe Confessore bewundern.",
+        "hu": "Morning: Kezdje autós túráját a lélegzetelállító Parco Sommerso di Gaiolánál. A kristálytiszta vizek hátterében húzódó rendkívüli elsüllyedt romok felejthetetlen kezdetet biztosítanak a napnak.\nMidday: Vezessen az elegáns Posillipo negyedbe, hogy meglátogassa a Teatro Denzát. Egy rövid út után elérkezik az Immacolata a Mezza Costához egy pillanatnyi csendes elmélkedésre és lenyűgöző kilátásra.\nAfternoon: Irány észak felé, a Bagnoli környékére, és parkoljon le a Museo del Mare közelében. Merüljön el a régió mély tengerészeti örökségében a múzeum gondosan összeállított kiállításain keresztül.\nEvening: Fejezze be autós kirándulását két jelentős helyi templom felfedezésével. Látogasson el a Chiesa del Santissimo Salvatore-ba, mielőtt az alkonyati égbolt alatt megcsodálná a Chiesa di San Giuseppe Confessore klasszikus szépségét.",
+        "ro": "Morning: Începeți turul cu mașina la uimitorul Parco Sommerso di Gaiola. Ruinele scufundate extraordinare, așezate pe fundalul apelor cristaline, oferă un început de neuitat pentru ziua dumneavoastră.\nMidday: Conduceți spre cartierul elegant Posillipo pentru a vizita Teatro Denza. O scurtă călătorie vă duce apoi la Immacolata a Mezza Costa pentru un moment de reflecție liniștită și priveliști uimitoare.\nAfternoon: Îndreptați-vă spre nord în zona Bagnoli, parcând lângă Museo del Mare. Scufundați-vă în moștenirea nautică profundă a regiunii prin expozițiile bine organizate și artefactele istorice ale muzeului.\nEvening: Încheiați-vă călătoria explorând două biserici locale semnificative. Vizitați Chiesa del Santissimo Salvatore înainte de a admira frumusețea clasică a Chiesa di San Giuseppe Confessore sub cerul crepuscular.",
+        "en": "Morning: Start your driving tour at the breathtaking Area Marina Protetta Parco Sommerso di Gaiola. The extraordinary submerged ruins set against the crystal-clear waters provide an unforgettable beginning to your day.\nMidday: Drive to the elegant Posillipo district to visit Teatro Denza, soaking in the local cultural scene. A short drive then takes you to Immacolata a Mezza Costa for a moment of quiet reflection and stunning vistas.\nAfternoon: Head north to the Bagnoli area, parking near the Museo del Mare. Dive into the deep nautical heritage of the region through the museum's well-curated exhibitions and historical artifacts.\nEvening: Conclude your road trip by exploring two significant local churches. Visit the Chiesa del Santissimo Salvatore before admiring the classical beauty of Chiesa di San Giuseppe Confessore under the twilight sky."
+      }
+    }
+  }
+}

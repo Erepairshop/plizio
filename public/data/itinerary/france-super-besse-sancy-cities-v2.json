@@ -1,0 +1,474 @@
+{
+  "city_id": "france-super-besse-sancy-cities-v2",
+  "anchor": {
+    "name": "Super-Besse / Sancy",
+    "coords": [
+      2.85107,
+      45.51261
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:54",
+      "total_km": 1.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Luge d'été",
+            "hu": "Luge d'été",
+            "ro": "Luge d'été",
+            "en": "Luge d'été"
+          },
+          "coords": [
+            2.851951,
+            45.513563
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie den Nervenkitzel einer rasanten Abfahrt auf der Sommerrodelbahn, ein Spaß für jedes Alter, den Sie am besten früh morgens ohne Wartezeiten genießen.",
+            "hu": "Élvezze a hegyoldali száguldás izgalmát a nyári bobpályán, amely minden korosztálynak szórakoztató, de érdemes korán érkezni a hosszú sorok elkerülése végett.",
+            "ro": "Experimentați fiorul coborârii rapide pe pârtia de sanie de vară, o activitate distractivă pentru toate vârstele, cel mai bine savurată dimineața devreme.",
+            "en": "Experience the thrill of speeding down the mountain on the summer luge, a fun activity for all ages that is best enjoyed early in the morning to beat the queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Centre ludo sportif: les hermines",
+            "hu": "Centre ludo sportif: les hermines",
+            "ro": "Centre ludo sportif: les hermines",
+            "en": "Centre ludo sportif: les hermines"
+          },
+          "coords": [
+            2.854934,
+            45.510012
+          ],
+          "category": "landmark",
+          "arrive_at": "10:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Entdecken Sie vielfältige Sport- und Freizeitangebote in diesem lebhaften Komplex, der sich ideal für eine Pause eignet, um den Pool oder die Bowlingbahn zu nutzen.",
+            "hu": "Fedezze fel a különféle sport- és szabadidős tevékenységeket ebben a nyüzsgő komplexumban, amely tökéletes egy délelőtti úszáshoz vagy bowlingozáshoz a családdal.",
+            "ro": "Descoperiți diverse sporturi și activități de agrement în acest complex vibrant, perfect pentru o pauză cu familia pentru a vă bucura de piscină sau de bowling.",
+            "en": "Discover various sports and leisure activities in this vibrant complex, perfect for families looking to take a mid-morning break and enjoy the indoor pool or bowling."
+          }
+        },
+        {
+          "name": {
+            "de": "Deval'kart",
+            "hu": "Deval'kart",
+            "ro": "Deval'kart",
+            "en": "Deval'kart"
+          },
+          "coords": [
+            2.852981,
+            45.507441
+          ],
+          "category": "landmark",
+          "arrive_at": "11:42",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Rasen Sie für einen Adrenalinkick in einem unmotorisierten Kart die Pisten hinunter, aber tragen Sie unbedingt festes Schuhwerk und sichern Sie Ihre Wertsachen.",
+            "hu": "Száguldjon le a lejtőkön egy motor nélküli gokarttal egy igazi adrenalinlökésért, de indulás előtt mindenképpen vegyen fel zárt cipőt és tegye el az értékeit.",
+            "ro": "Coborâți pe pârtii într-un kart nemotorizat pentru o doză de adrenalină, dar asigurați-vă că purtați încălțăminte solidă și vă securizați obiectele personale.",
+            "en": "Race down the slopes in a non-motorized kart for an adrenaline rush, but make sure to wear sturdy shoes and secure your personal belongings before starting."
+          }
+        },
+        {
+          "name": {
+            "de": "Super Coaster",
+            "hu": "Super Coaster",
+            "ro": "Super Coaster",
+            "en": "Super Coaster"
+          },
+          "coords": [
+            2.852227,
+            45.505575
+          ],
+          "category": "landmark",
+          "arrive_at": "12:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Fahren Sie mit dieser aufregenden Alpenachterbahn durch den Wald, die atemberaubende Ausblicke bietet, falls Sie während der rasanten Abfahrt die Augen offen halten.",
+            "hu": "Próbálja ki ezt az izgalmas alpesi hullámvasutat, amely a festői erdőn kanyarog át, és lélegzetelállító hegyi kilátást nyújt, ha nyitva tudja tartani a szemét.",
+            "ro": "Plimbați-vă cu acest roller coaster alpin palpitant care șerpuiește prin pădure, oferind priveliști montane uluitoare dacă reușiți să țineți ochii deschiși.",
+            "en": "Ride this exciting alpine coaster that twists through the scenic forest, offering breathtaking mountain views if you can keep your eyes open during the descent."
+          }
+        },
+        {
+          "name": {
+            "de": "Croix de Seignavoux",
+            "hu": "Croix de Seignavoux",
+            "ro": "Croix de Seignavoux",
+            "en": "Croix de Seignavoux"
+          },
+          "coords": [
+            2.841042,
+            45.508908
+          ],
+          "category": "natural",
+          "arrive_at": "13:59",
+          "stay_min": 25,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Bewundern Sie das weite Panorama von diesem historischen Monumentalkreuz aus, ein idealer, ruhiger Ort, um nach einer kurzen Wanderung schöne Fotos zu machen.",
+            "hu": "Csodálja meg a lenyűgöző panorámát ettől a történelmi, monumentális kereszttől, amely ideális csendes hely fényképezéshez egy fárasztóbb séta után.",
+            "ro": "Admirați panoramele ample de la această cruce monumentală istorică, un loc liniștit și ideal pentru a face fotografii după o scurtă drumeție pe traseu.",
+            "en": "Admire the sweeping panoramas from this historic monumental cross, an ideal quiet spot to take panoramic photos and catch your breath after a moderate hike."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt mit einer Fahrt auf der Sommerrodelbahn, gefolgt von Indoor-Spaß im Centre ludo sportif. Mittags gibt es beim Deval'kart noch mehr Adrenalin auf den Pisten. Am Nachmittag erleben Sie die rasante Super Coaster mit großartigen Ausblicken. Wenn der Abend naht, lassen Sie diesen aktiven Tag entspannt an der historischen und malerischen Croix de Seignavoux ausklingen.",
+        "hu": "A reggel egy izgalmas nyári bobozással kezdődik, majd benti szórakozás vár a sportközpontban. A dél egy gokartos ereszkedéssel fokozza az adrenalint a lejtőkön. Délután próbálja ki a Super Coaster-t, ahonnan látványos erdei kilátás nyílik. Ahogy közeledik az este, fejezze be ezt az aktív napot a történelmi és festői Croix de Seignavoux kereszt csendes és megnyugtató környezetében.",
+        "ro": "Dimineața începe cu o cursă pe sania de vară, urmată de distracție la Centre ludo sportif. Prânzul aduce adrenalină în timp ce navigați pe pârtii cu Deval'kart. După-amiaza, încercați Super Coaster pentru priveliști spectaculoase din pădure. Pe măsură ce se apropie seara, încheiați ziua activă relaxându-vă lângă monumentala și pitoreasca cruce istorică Croix de Seignavoux.",
+        "en": "Your morning starts with an exhilarating ride on the summer luge, followed by indoor fun at the lively Centre ludo sportif. Midday brings more adrenaline as you navigate the slopes with Deval'kart. In the afternoon, brave the Super Coaster for spectacular woodland sights. As evening approaches, conclude your active day by unwinding near the historic and scenic Croix de Seignavoux."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:16",
+      "total_km": 7.15,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Centre ludo sportif: les hermines",
+            "hu": "Centre ludo sportif: les hermines",
+            "ro": "Centre ludo sportif: les hermines",
+            "en": "Centre ludo sportif: les hermines"
+          },
+          "coords": [
+            2.854934,
+            45.510012
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie vielfältige Sport- und Freizeitangebote in diesem lebhaften Komplex, der sich ideal für eine Pause eignet, um den Pool oder die Bowlingbahn zu nutzen.",
+            "hu": "Fedezze fel a különféle sport- és szabadidős tevékenységeket ebben a nyüzsgő komplexumban, amely tökéletes egy délelőtti úszáshoz vagy bowlingozáshoz a családdal.",
+            "ro": "Descoperiți diverse sporturi și activități de agrement în acest complex vibrant, perfect pentru o pauză cu familia pentru a vă bucura de piscină sau de bowling.",
+            "en": "Discover various sports and leisure activities in this vibrant complex, perfect for families looking to take a mid-morning break and enjoy the indoor pool or bowling."
+          }
+        },
+        {
+          "name": {
+            "de": "Luge d'été",
+            "hu": "Luge d'été",
+            "ro": "Luge d'été",
+            "en": "Luge d'été"
+          },
+          "coords": [
+            2.851951,
+            45.513563
+          ],
+          "category": "landmark",
+          "arrive_at": "10:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Erleben Sie den Nervenkitzel einer rasanten Abfahrt auf der Sommerrodelbahn, ein Spaß für jedes Alter, den Sie am besten früh morgens ohne Wartezeiten genießen.",
+            "hu": "Élvezze a hegyoldali száguldás izgalmát a nyári bobpályán, amely minden korosztálynak szórakoztató, de érdemes korán érkezni a hosszú sorok elkerülése végett.",
+            "ro": "Experimentați fiorul coborârii rapide pe pârtia de sanie de vară, o activitate distractivă pentru toate vârstele, cel mai bine savurată dimineața devreme.",
+            "en": "Experience the thrill of speeding down the mountain on the summer luge, a fun activity for all ages that is best enjoyed early in the morning to beat the queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Réserve naturelle de la vallée de Chaudefour",
+            "hu": "Réserve naturelle de la vallée de Chaudefour",
+            "ro": "Réserve naturelle de la valea de Chaudefour",
+            "en": "Réserve naturelle de la vallée de Chaudefour"
+          },
+          "coords": [
+            2.849194,
+            45.53337
+          ],
+          "category": "natural",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses unberührte Gletschertal mit seltener Alpenflora, in dem Sie unbedingt ein Fernglas zur Tierbeobachtung auf den Wanderwegen dabeihaben sollten.",
+            "hu": "Fedezze fel ezt az érintetlen, ritka alpesi növényzettel teli gleccservölgyet, ahová érdemes távcsövet hozni a vadon élő állatok megfigyeléséhez az ösvényeken.",
+            "ro": "Explorați această vale glaciară curată, plină de floră alpină rară, fiind esențial să aduceți un binoclu pentru observarea faunei sălbatice de-a lungul traseelor.",
+            "en": "Explore this pristine glacial valley filled with rare alpine flora and majestic peaks, making it essential to bring binoculars for wildlife spotting along the trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Cascade de la Biche",
+            "hu": "Cascade de la Biche",
+            "ro": "Cascade de la Biche",
+            "en": "Cascade de la Biche"
+          },
+          "coords": [
+            2.84268,
+            45.527951
+          ],
+          "category": "natural",
+          "arrive_at": "13:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen malerischen Wasserfall, der über Vulkangestein stürzt, und achten Sie auf dem feuchten und rutschigen Weg in der Umgebung stets auf Ihre Schritte.",
+            "hu": "Csodálja meg ezt a vulkáni sziklákon lezúduló látványos vízesést, de vigyázzon a lépteire, mert a környező, párás ösvény gyakran csúszós és nedves lehet.",
+            "ro": "Admirați această cascadă impresionantă ce cade peste rocile vulcanice, unde cărarea înconjurătoare poate fi alunecoasă, așa că vă recomandăm pași atenți.",
+            "en": "Marvel at this striking waterfall cascading down the rugged volcanic rocks, where the misty surrounding path can be slippery so careful steps are highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Croix de Seignavoux",
+            "hu": "Croix de Seignavoux",
+            "ro": "Croix de Seignavoux",
+            "en": "Croix de Seignavoux"
+          },
+          "coords": [
+            2.841042,
+            45.508908
+          ],
+          "category": "natural",
+          "arrive_at": "14:32",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie das weite Panorama von diesem historischen Monumentalkreuz aus, ein idealer, ruhiger Ort, um nach einer kurzen Wanderung schöne Fotos zu machen.",
+            "hu": "Csodálja meg a lenyűgöző panorámát ettől a történelmi, monumentális kereszttől, amely ideális csendes hely fényképezéshez egy fárasztóbb séta után.",
+            "ro": "Admirați panoramele ample de la această cruce monumentală istorică, un loc liniștit și ideal pentru a face fotografii după o scurtă drumeție pe traseu.",
+            "en": "Admire the sweeping panoramas from this historic monumental cross, an ideal quiet spot to take panoramic photos and catch your breath after a moderate hike."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame de Vassivière",
+            "hu": "Chapelle Notre-Dame de Vassivière",
+            "ro": "Chapelle Notre-Dame de Vassivière",
+            "en": "Chapelle Notre-Dame de Vassivière"
+          },
+          "coords": [
+            2.848619,
+            45.495632
+          ],
+          "category": "religious",
+          "arrive_at": "15:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante historische Kapelle voller lokaler Pilgertraditionen, ein hervorragender, friedlicher Rückzugsort, an dem leises Verhalten geboten ist.",
+            "hu": "Látogasson el ebbe a több évszázados zarándokhagyományokat őrző, bájos történelmi kápolnába, amely kiváló és békés menedéket nyújt a csendet tisztelő utazóknak.",
+            "ro": "Vizitați această capelă istorică fermecătoare cu o tradiție de pelerinaj de secole, un refugiu excelent și pașnic unde trebuie să respectați atmosfera liniștită.",
+            "en": "Visit this charming historic chapel that holds centuries of local pilgrimage traditions, an excellent peaceful retreat where you should respect the quiet atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit Aktivitäten im Sportzentrum, bevor Sie eine kurze Fahrt auf der Sommerrodelbahn genießen. Mittags radeln Sie zum atemberaubenden Naturschutzgebiet im Chaudefour-Tal. Den Nachmittag verbringen Sie am beruhigenden Wasserfall Cascade de la Biche und an der Croix de Seignavoux. Der Abend führt Sie zur heiligen Kapelle Notre-Dame de Vassivière, um zur Ruhe zu kommen.",
+        "hu": "Kezdje a napot a sportközpont programjaival, majd élvezze a gyors nyári bobozást. Délben tekerjen el a Chaudefour-völgy lélegzetelállító természeti rezervátumába. A délutánt a Cascade de la Biche vízesés nyugtató hangjainak és a Croix de Seignavoux panorámájának szentelje. Az este a szent Notre-Dame de Vassivière kápolnához vezeti, hogy elmélyedjen a békés környezetben.",
+        "ro": "Începeți cu activități la centrul sportiv înainte de o tură cu sania de vară. La prânz, pedalați spre rezervația naturală uluitoare a văii Chaudefour. După-amiaza este petrecută ascultând sunetele cascadei de la Biche și admirând panoramele de la Croix de Seignavoux. Seara vă conduce la sacra capelă Notre-Dame de Vassivière pentru a vă bucura de o reflexie liniștită.",
+        "en": "Start with engaging activities at the sports center before enjoying a quick summer luge ride. At midday, cycle towards the breathtaking nature reserve of the Chaudefour valley. Your afternoon is spent listening to the soothing sounds of the Cascade de la Biche and admiring panoramas at Croix de Seignavoux. Evening leads you to the sacred Chapelle Notre-Dame de Vassivière for reflection."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:20",
+      "total_km": 6.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame de Vassivière",
+            "hu": "Chapelle Notre-Dame de Vassivière",
+            "ro": "Chapelle Notre-Dame de Vassivière",
+            "en": "Chapelle Notre-Dame de Vassivière"
+          },
+          "coords": [
+            2.848619,
+            45.495632
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante historische Kapelle voller lokaler Pilgertraditionen, ein hervorragender, friedlicher Rückzugsort, an dem leises Verhalten geboten ist.",
+            "hu": "Látogasson el ebbe a több évszázados zarándokhagyományokat őrző, bájos történelmi kápolnába, amely kiváló és békés menedéket nyújt a csendet tisztelő utazóknak.",
+            "ro": "Vizitați această capelă istorică fermecătoare cu o tradiție de pelerinaj de secole, un refugiu excelent și pașnic unde trebuie să respectați atmosfera liniștită.",
+            "en": "Visit this charming historic chapel that holds centuries of local pilgrimage traditions, an excellent peaceful retreat where you should respect the quiet atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Super Coaster",
+            "hu": "Super Coaster",
+            "ro": "Super Coaster",
+            "en": "Super Coaster"
+          },
+          "coords": [
+            2.852227,
+            45.505575
+          ],
+          "category": "landmark",
+          "arrive_at": "09:52",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Fahren Sie mit dieser aufregenden Alpenachterbahn durch den Wald, die atemberaubende Ausblicke bietet, falls Sie während der rasanten Abfahrt die Augen offen halten.",
+            "hu": "Próbálja ki ezt az izgalmas alpesi hullámvasutat, amely a festői erdőn kanyarog át, és lélegzetelállító hegyi kilátást nyújt, ha nyitva tudja tartani a szemét.",
+            "ro": "Plimbați-vă cu acest roller coaster alpin palpitant care șerpuiește prin pădure, oferind priveliști montane uluitoare dacă reușiți să țineți ochii deschiși.",
+            "en": "Ride this exciting alpine coaster that twists through the scenic forest, offering breathtaking mountain views if you can keep your eyes open during the descent."
+          }
+        },
+        {
+          "name": {
+            "de": "Deval'kart",
+            "hu": "Deval'kart",
+            "ro": "Deval'kart",
+            "en": "Deval'kart"
+          },
+          "coords": [
+            2.852981,
+            45.507441
+          ],
+          "category": "landmark",
+          "arrive_at": "10:53",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Rasen Sie für einen Adrenalinkick in einem unmotorisierten Kart die Pisten hinunter, aber tragen Sie unbedingt festes Schuhwerk und sichern Sie Ihre Wertsachen.",
+            "hu": "Száguldjon le a lejtőkön egy motor nélküli gokarttal egy igazi adrenalinlökésért, de indulás előtt mindenképpen vegyen fel zárt cipőt és tegye el az értékeit.",
+            "ro": "Coborâți pe pârtii într-un kart nemotorizat pentru o doză de adrenalină, dar asigurați-vă că purtați încălțăminte solidă și vă securizați obiectele personale.",
+            "en": "Race down the slopes in a non-motorized kart for an adrenaline rush, but make sure to wear sturdy shoes and secure your personal belongings before starting."
+          }
+        },
+        {
+          "name": {
+            "de": "Luge d'été",
+            "hu": "Luge d'été",
+            "ro": "Luge d'été",
+            "en": "Luge d'été"
+          },
+          "coords": [
+            2.851951,
+            45.513563
+          ],
+          "category": "landmark",
+          "arrive_at": "11:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erleben Sie den Nervenkitzel einer rasanten Abfahrt auf der Sommerrodelbahn, ein Spaß für jedes Alter, den Sie am besten früh morgens ohne Wartezeiten genießen.",
+            "hu": "Élvezze a hegyoldali száguldás izgalmát a nyári bobpályán, amely minden korosztálynak szórakoztató, de érdemes korán érkezni a hosszú sorok elkerülése végett.",
+            "ro": "Experimentați fiorul coborârii rapide pe pârtia de sanie de vară, o activitate distractivă pentru toate vârstele, cel mai bine savurată dimineața devreme.",
+            "en": "Experience the thrill of speeding down the mountain on the summer luge, a fun activity for all ages that is best enjoyed early in the morning to beat the queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Puy Ferrand",
+            "hu": "Puy Ferrand",
+            "ro": "Puy Ferrand",
+            "en": "Puy Ferrand"
+          },
+          "coords": [
+            2.826486,
+            45.524797
+          ],
+          "category": "natural",
+          "arrive_at": "13:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Wandern Sie auf den Gipfel dieses markanten Berges für einen 360-Grad-Blick auf das Sancy-Massiv und packen Sie winddichte Kleidung ein, da es oben sehr stürmisch wird.",
+            "hu": "Másszon fel ennek a kiemelkedő csúcsnak a tetejére, ahonnan fenséges, 360 fokos kilátás nyílik a Sancy-hegységre, de vigyen magával szélálló ruházatot is.",
+            "ro": "Urcați pe vârful acestui munte proeminent pentru o vedere maiestuoasă de 360 de grade a masivului Sancy, luând haine rezistente la vânt, deoarece este foarte rece sus.",
+            "en": "Hike to the summit of this prominent peak for a majestic 360-degree view of the Sancy massif, packing windproof clothing as it gets extremely breezy at the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Cascade de la Biche",
+            "hu": "Cascade de la Biche",
+            "ro": "Cascade de la Biche",
+            "en": "Cascade de la Biche"
+          },
+          "coords": [
+            2.84268,
+            45.527951
+          ],
+          "category": "natural",
+          "arrive_at": "14:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diesen malerischen Wasserfall, der über Vulkangestein stürzt, und achten Sie auf dem feuchten und rutschigen Weg in der Umgebung stets auf Ihre Schritte.",
+            "hu": "Csodálja meg ezt a vulkáni sziklákon lezúduló látványos vízesést, de vigyázzon a lépteire, mert a környező, párás ösvény gyakran csúszós és nedves lehet.",
+            "ro": "Admirați această cascadă impresionantă ce cade peste rocile vulcanice, unde cărarea înconjurătoare poate fi alunecoasă, așa că vă recomandăm pași atenți.",
+            "en": "Marvel at this striking waterfall cascading down the rugged volcanic rocks, where the misty surrounding path can be slippery so careful steps are highly recommended."
+          }
+        },
+        {
+          "name": {
+            "de": "Réserve naturelle de la vallée de Chaudefour",
+            "hu": "Réserve naturelle de la vallée de Chaudefour",
+            "ro": "Réserve naturelle de la valea de Chaudefour",
+            "en": "Réserve naturelle de la vallée de Chaudefour"
+          },
+          "coords": [
+            2.849194,
+            45.53337
+          ],
+          "category": "natural",
+          "arrive_at": "15:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses unberührte Gletschertal mit seltener Alpenflora, in dem Sie unbedingt ein Fernglas zur Tierbeobachtung auf den Wanderwegen dabeihaben sollten.",
+            "hu": "Fedezze fel ezt az érintetlen, ritka alpesi növényzettel teli gleccservölgyet, ahová érdemes távcsövet hozni a vadon élő állatok megfigyeléséhez az ösvényeken.",
+            "ro": "Explorați această vale glaciară curată, plină de floră alpină rară, fiind esențial să aduceți un binoclu pentru observarea faunei sălbatice de-a lungul traseelor.",
+            "en": "Explore this pristine glacial valley filled with rare alpine flora and majestic peaks, making it essential to bring binoculars for wildlife spotting along the trails."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit einem ruhigen Besuch der historischen Kapelle, gefolgt von einer rasanten Fahrt mit dem Super Coaster. Mittags sausen Sie mit dem Deval'kart und der Sommerrodelbahn den Berg hinab. Der Nachmittag bringt Sie zum Puy Ferrand für weite Ausblicke und zur majestätischen Cascade de la Biche. Beenden Sie den Abend umgeben von der friedlichen Schönheit des Chaudefour-Tals.",
+        "hu": "Kezdje egy csendes reggeli látogatással a történelmi kápolnában, majd próbálja ki a Super Coaster-t. Délre a Deval'kart és a nyári bobpálya izgalmai várják. A délután a magasba vezet a Puy Ferrand csúcsára, majd a fenséges Cascade de la Biche vízeséshez. Fejezze be az estét a Chaudefour-völgy természeti rezervátumának nyugalmat árasztó, lenyűgöző és érintetlen szépségében.",
+        "ro": "Începeți cu o vizită matinală la capela istorică, urmată de o cursă plină de adrenalină pe Super Coaster. La prânz, veți coborî pe munte cu un Deval'kart și sania de vară. După-amiaza vă duce la Puy Ferrand pentru priveliști ample, apoi la Cascade de la Biche. Încheiați seara înconjurați de frumusețea senină și liniștită a rezervației naturale din valea Chaudefour.",
+        "en": "Begin with a quiet morning visit to the historic chapel, followed by an adrenaline-pumping ride on the Super Coaster. By midday, you'll race down the mountain on a Deval'kart and the summer luge. The afternoon takes you higher to Puy Ferrand for sweeping views, then to the majestic Cascade de la Biche. Finish your evening surrounded by the serene beauty of the Chaudefour valley nature reserve."
+      }
+    }
+  }
+}

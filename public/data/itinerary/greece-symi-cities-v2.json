@@ -1,0 +1,520 @@
+{
+  "city_id": "greece-symi-cities-v2",
+  "anchor": {
+    "name": "Symi",
+    "coords": [
+      27.834167,
+      36.598889
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:26",
+      "total_km": 4.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "War Memorial",
+            "hu": "Háborús Emlékmű",
+            "ro": "Monumentul Eroilor",
+            "en": "War Memorial"
+          },
+          "coords": [
+            27.836366,
+            36.616514
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das markante, in den Fels gehauene Kriegerdenkmal für die lokalen Helden und bringen Sie eine Kamera für die tolle Hafenkulisse mit.",
+            "hu": "Csodálja meg a helyi hősöknek emléket állító, sziklába vájt háborús emlékművet, és hozzon magával fényképezőgépet a lenyűgöző kikötői háttér miatt.",
+            "ro": "Admirați impresionantul monument al eroilor sculptat în stâncă și aduceți un aparat foto pentru a surprinde fundalul portului.",
+            "en": "Admire the striking War Memorial etched in rock, commemorating local heroes, and bring a camera for the impressive harbor backdrop."
+          }
+        },
+        {
+          "name": {
+            "de": "Noddy Train Endstation",
+            "hu": "Noddy Vonat Végállomás",
+            "ro": "Stația Noddy Train",
+            "en": "Noddy Train terminus"
+          },
+          "coords": [
+            27.835299,
+            36.615837
+          ],
+          "category": "landmark",
+          "arrive_at": "10:32",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Schauen Sie sich den originellen Noddy Train an, der Touren durch das Hafengebiet anbietet, was ihn zu einem perfekten kurzen Fotostopp macht.",
+            "hu": "Nézze meg a mókás Noddy vonatot, amely festői túrákat kínál a kikötőben, és tökéletes egy gyors fotózáshoz, mielőtt tovább sétálna.",
+            "ro": "Priviți trenulețul inedit Noddy care oferă tururi pitorești ale zonei portuare, fiind o oprire perfectă pentru o fotografie rapidă.",
+            "en": "Check out the quirky Noddy Train that offers scenic tours of the port area, making it a perfect quick photo stop before walking further."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Symi",
+            "hu": "Szími Vára",
+            "ro": "Castelul din Symi",
+            "en": "Castle of Symi"
+          },
+          "coords": [
+            27.836964,
+            36.612778
+          ],
+          "category": "landmark",
+          "arrive_at": "11:17",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Steigen Sie zu den Ruinen dieser alten Festung hinauf, um den Panoramablick auf die Ägäis zu genießen, aber tragen Sie feste Schuhe für die unebenen Stufen.",
+            "hu": "Másszon fel ennek az ősi erődnek a romjaihoz a lélegzetelállító égei-tengeri panorámáért, de a masszív cipő viselése ajánlott az egyenetlen lépcsők miatt.",
+            "ro": "Urcați la ruinele acestei cetăți antice pentru priveliști panoramice uluitoare asupra Mării Egee, dar purtați încălțăminte rezistentă pentru treptele inegale.",
+            "en": "Climb up to the ruins of this ancient fortress for breathtaking panoramic views of the Aegean Sea, but wear sturdy shoes for the uneven steps."
+          }
+        },
+        {
+          "name": {
+            "de": "Pontikokastro",
+            "hu": "Pontikokastro",
+            "ro": "Pontikokastro",
+            "en": "Pontikokastro"
+          },
+          "coords": [
+            27.844732,
+            36.616233
+          ],
+          "category": "landmark",
+          "arrive_at": "12:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese antike kreisförmige Grabstruktur, die Symis Geschichte eine mystische Note verleiht, am besten in den kühlen Morgenstunden.",
+            "hu": "Fedezze fel ezt az ősi, kör alakú síremléket, amely misztikus hangulatot kölcsönöz Szími történelmének; a legjobb a hűvösebb reggeli órákban látogatni.",
+            "ro": "Explorați acest mormânt circular antic ce adaugă o notă mistică istoriei din Symi, cel mai bine vizitat în orele mai răcoroase ale dimineții.",
+            "en": "Explore this ancient circular tomb structure that adds a mystical touch to Symi's history, best visited in the cooler morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Bigla",
+            "hu": "Bigla",
+            "ro": "Bigla",
+            "en": "Bigla"
+          },
+          "coords": [
+            27.833129,
+            36.602338
+          ],
+          "category": "natural",
+          "arrive_at": "13:36",
+          "stay_min": 60,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem friedlichen Naturort mit weitem Inselblick, der ein idealer Ort ist, um sich zurückzulehnen und die Nachmittagsbrise zu genießen.",
+            "hu": "Pihenjen meg ezen a békés természeti helyen, ahonnan pazar kilátás nyílik a szigetre, ideális egy kis délutáni lazításhoz a friss szellőben.",
+            "ro": "Relaxați-vă în acest loc natural liniștit, cu priveliști ample asupra insulei, ideal pentru a sta și a vă bucura de briza după-amiezii.",
+            "en": "Relax at this peaceful natural spot offering sweeping island vistas, making it an ideal place to sit back and enjoy the afternoon breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Tsagkrias",
+            "hu": "Tsagkrias",
+            "ro": "Tsagkrias",
+            "en": "Tsagkrias"
+          },
+          "coords": [
+            27.841129,
+            36.592188
+          ],
+          "category": "castle",
+          "arrive_at": "14:56",
+          "stay_min": 90,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die mittelalterlichen Überreste dieser weniger bekannten Burgruine und bringen Sie eigenes Wasser mit, da es keine Einrichtungen gibt.",
+            "hu": "Barangoljon e kevésbé ismert várrom középkori maradványai között, és hozzon magával vizet, mivel a közelben nincsenek létesítmények.",
+            "ro": "Plimbați-vă printre rămășițele medievale ale acestei cetăți mai puțin cunoscute și aduceți propria apă, deoarece nu există facilități în apropiere.",
+            "en": "Wander around the medieval remnants of this lesser-known castle ruin, and bring your own water as there are no facilities nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag am Hafen, bewundern Sie das Kriegerdenkmal und den charmanten Noddy Train. Die Morgensonne taucht die neoklassizistischen Herrenhäuser in ein goldenes Licht.\nSteigen Sie hinauf zum Castle of Symi. Erkunden Sie die Ruinen und genießen Sie den Panoramablick, bevor Sie Ihre Wanderung zur antiken Struktur Pontikokastro fortsetzen.\nAm Nachmittag wandelt sich der Weg von historischen Überresten zu natürlicher Pracht in Richtung Bigla. Der Weg belohnt Sie mit weiten Ausblicken auf die Ägäis.\nBeenden Sie Ihre Wanderung bei Sonnenuntergang an den Ruinen von Tsagkrias. Das wechselnde Licht hebt das Mauerwerk wunderschön hervor und bietet einen friedlichen Abschluss.",
+        "hu": "Kezdje a napot a kikötőben, csodálja meg a háborús emlékművet és a bájos Noddy vonatot. A reggeli napfény arany színbe öltözteti a kikötőt körülölelő neoklasszikus kúriákat.\nSétáljon fel a lépcsőkön a Castle of Symi romjaihoz. Fedezze fel a történelmi falakat és élvezze a panorámát, majd folytassa útját az ősi Pontikokastro építményéhez.\nDélután a séta történelmi emlékekről a Bigla felé vezető természeti szépségekre vált. Az ösvény lenyűgöző kilátással jutalmazza meg az Égei-tengerre és a szigetre.\nFejezze be sétáját a Tsagkrias romjainál naplementekor. A változó fényviszonyok gyönyörűen kiemelik a kőfalakat, békés és elgondolkodtató befejezést nyújtva a napnak.",
+        "ro": "Începeți ziua în port, admirând monumentul eroilor și fermecătorul trenuleț Noddy. Soarele dimineții îmbracă într-o lumină aurie conacele neoclasice de pe marginea apei.\nUrcați treptele spre Castle of Symi. Explorați ruinele și bucurați-vă de priveliștile panoramice înainte de a continua drumeția către structura antică Pontikokastro.\nDupă-amiază, plimbarea trece de la istorie la splendoarea naturală spre Bigla. Poteca vă răsplătește cu priveliști ample asupra Mării Egee și a interiorului insulei.\nÎncheiați drumeția la ruinele Tsagkrias la apusul soarelui. Lumina schimbătoare pune frumos în evidență zidăria din piatră, oferind un final liniștit explorării dumneavoastră.",
+        "en": "Start your day walking through the heart of Symi's port, admiring the monumental rock carvings of the War Memorial and the charming Noddy Train. The morning sun casts a golden glow over the neoclassical mansions.\nAs the day warms up, ascend the hundreds of steps toward the Castle of Symi. Explore its storied ruins and take in panoramic views before continuing to the ancient Pontikokastro.\nIn the afternoon, the walk transitions from historical remnants to natural splendor as you head towards Bigla. The path becomes more rugged but rewards you with sweeping vistas of the Aegean.\nConclude your walking journey at the atmospheric ruins of Tsagkrias as the sun sets. The shifting light beautifully highlights the stonework, providing a peaceful end to your exploration."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 7.35,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Noddy Train Endstation",
+            "hu": "Noddy Vonat Végállomás",
+            "ro": "Stația Noddy Train",
+            "en": "Noddy Train terminus"
+          },
+          "coords": [
+            27.835299,
+            36.615837
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schauen Sie sich den originellen Noddy Train an, der Touren durch das Hafengebiet anbietet, was ihn zu einem perfekten kurzen Fotostopp macht.",
+            "hu": "Nézze meg a mókás Noddy vonatot, amely festői túrákat kínál a kikötőben, és tökéletes egy gyors fotózáshoz, mielőtt tovább sétálna.",
+            "ro": "Priviți trenulețul inedit Noddy care oferă tururi pitorești ale zonei portuare, fiind o oprire perfectă pentru o fotografie rapidă.",
+            "en": "Check out the quirky Noddy Train that offers scenic tours of the port area, making it a perfect quick photo stop before walking further."
+          }
+        },
+        {
+          "name": {
+            "de": "War Memorial",
+            "hu": "Háborús Emlékmű",
+            "ro": "Monumentul Eroilor",
+            "en": "War Memorial"
+          },
+          "coords": [
+            27.836366,
+            36.616514
+          ],
+          "category": "historical",
+          "arrive_at": "09:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie das markante, in den Fels gehauene Kriegerdenkmal für die lokalen Helden und bringen Sie eine Kamera für die tolle Hafenkulisse mit.",
+            "hu": "Csodálja meg a helyi hősöknek emléket állító, sziklába vájt háborús emlékművet, és hozzon magával fényképezőgépet a lenyűgöző kikötői háttér miatt.",
+            "ro": "Admirați impresionantul monument al eroilor sculptat în stâncă și aduceți un aparat foto pentru a surprinde fundalul portului.",
+            "en": "Admire the striking War Memorial etched in rock, commemorating local heroes, and bring a camera for the impressive harbor backdrop."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Symi",
+            "hu": "Szími Vára",
+            "ro": "Castelul din Symi",
+            "en": "Castle of Symi"
+          },
+          "coords": [
+            27.836964,
+            36.612778
+          ],
+          "category": "landmark",
+          "arrive_at": "11:13",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Steigen Sie zu den Ruinen dieser alten Festung hinauf, um den Panoramablick auf die Ägäis zu genießen, aber tragen Sie feste Schuhe für die unebenen Stufen.",
+            "hu": "Másszon fel ennek az ősi erődnek a romjaihoz a lélegzetelállító égei-tengeri panorámáért, de a masszív cipő viselése ajánlott az egyenetlen lépcsők miatt.",
+            "ro": "Urcați la ruinele acestei cetăți antice pentru priveliști panoramice uluitoare asupra Mării Egee, dar purtați încălțăminte rezistentă pentru treptele inegale.",
+            "en": "Climb up to the ruins of this ancient fortress for breathtaking panoramic views of the Aegean Sea, but wear sturdy shoes for the uneven steps."
+          }
+        },
+        {
+          "name": {
+            "de": "Pontikokastro",
+            "hu": "Pontikokastro",
+            "ro": "Pontikokastro",
+            "en": "Pontikokastro"
+          },
+          "coords": [
+            27.844732,
+            36.616233
+          ],
+          "category": "landmark",
+          "arrive_at": "12:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese antike kreisförmige Grabstruktur, die Symis Geschichte eine mystische Note verleiht, am besten in den kühlen Morgenstunden.",
+            "hu": "Fedezze fel ezt az ősi, kör alakú síremléket, amely misztikus hangulatot kölcsönöz Szími történelmének; a legjobb a hűvösebb reggeli órákban látogatni.",
+            "ro": "Explorați acest mormânt circular antic ce adaugă o notă mistică istoriei din Symi, cel mai bine vizitat în orele mai răcoroase ale dimineții.",
+            "en": "Explore this ancient circular tomb structure that adds a mystical touch to Symi's history, best visited in the cooler morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Tsagkrias",
+            "hu": "Tsagkrias",
+            "ro": "Tsagkrias",
+            "en": "Tsagkrias"
+          },
+          "coords": [
+            27.841129,
+            36.592188
+          ],
+          "category": "castle",
+          "arrive_at": "13:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die mittelalterlichen Überreste dieser weniger bekannten Burgruine und bringen Sie eigenes Wasser mit, da es keine Einrichtungen gibt.",
+            "hu": "Barangoljon e kevésbé ismert várrom középkori maradványai között, és hozzon magával vizet, mivel a közelben nincsenek létesítmények.",
+            "ro": "Plimbați-vă printre rămășițele medievale ale acestei cetăți mai puțin cunoscute și aduceți propria apă, deoarece nu există facilități în apropiere.",
+            "en": "Wander around the medieval remnants of this lesser-known castle ruin, and bring your own water as there are no facilities nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Bigla",
+            "hu": "Bigla",
+            "ro": "Bigla",
+            "en": "Bigla"
+          },
+          "coords": [
+            27.833129,
+            36.602338
+          ],
+          "category": "natural",
+          "arrive_at": "14:19",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem friedlichen Naturort mit weitem Inselblick, der ein idealer Ort ist, um sich zurückzulehnen und die Nachmittagsbrise zu genießen.",
+            "hu": "Pihenjen meg ezen a békés természeti helyen, ahonnan pazar kilátás nyílik a szigetre, ideális egy kis délutáni lazításhoz a friss szellőben.",
+            "ro": "Relaxați-vă în acest loc natural liniștit, cu priveliști ample asupra insulei, ideal pentru a sta și a vă bucura de briza după-amiezii.",
+            "en": "Relax at this peaceful natural spot offering sweeping island vistas, making it an ideal place to sit back and enjoy the afternoon breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Michael Roukouniotis",
+            "hu": "Michael Roukouniotis Kolostor",
+            "ro": "Mănăstirea Michael Roukouniotis",
+            "en": "Michael Roukouniotis"
+          },
+          "coords": [
+            27.812889,
+            36.609813
+          ],
+          "category": "landmark",
+          "arrive_at": "15:30",
+          "stay_min": 70,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die markante Architektur und die ruhige Atmosphäre dieses historischen Klosters und nehmen Sie sich Zeit, die beeindruckenden Fresken zu bewundern.",
+            "hu": "Fedezze fel e történelmi kolostor lenyűgöző építészetét és nyugodt légkörét, és szánjon időt a csodálatos belső freskók megtekintésére.",
+            "ro": "Descoperiți arhitectura uimitoare și atmosfera senină a acestei mănăstiri istorice, făcându-vă timp să admirați frescele interioare impresionante.",
+            "en": "Discover the striking architecture and serene atmosphere of this historic monastery, taking time to admire the impressive interior frescoes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am Hafen und machen Sie am urigen Noddy Train sowie am beeindruckenden Kriegerdenkmal Halt. Die kühle Morgenluft erleichtert das Vorankommen.\nRadeln Sie die kurvigen Straßen hinauf zur historischen Burg von Symi und dem antiken Pontikokastro. Die Anstiege sind anspruchsvoll, aber die Aussicht lohnt sich absolut.\nFahren Sie über das raue Gelände Richtung Tsagkrias und Bigla. Diese abgelegenen Orte bieten tiefe Ruhe und unglaubliche Aussichtspunkte über die Topografie der Insel.\nBeenden Sie Ihre Fahrt am abgeschiedenen Kloster Michael Roukouniotis. Genießen Sie die spirituelle Atmosphäre und ruhen Sie Ihre Beine im Innenhof aus, während der Abend anbricht.",
+        "hu": "Kezdje a kerékpártúrát a kikötőben, álljon meg a különleges Noddy vonatnál és a lenyűgöző háborús emlékműnél. A hűvös reggeli levegő megkönnyíti a tekerést.\nTekerjen fel a kanyargós utakon a történelmi Szími Várához és az ősi Pontikokastróhoz. Az emelkedők kihívást jelentenek, de a történelmi intrika és a kilátás megéri az erőfeszítést.\nKerékpározzon a zord terepen Tsagkrias és Bigla felé. Ezek az eldugott helyek mély nyugalmat és hihetetlen kilátópontokat kínálnak a sziget egyedi domborzatára.\nFejezze be útját a félreeső Michael Roukouniotis kolostornál. Élvezze a nyugodt szellemi légkört, és pihentesse lábait az udvaron, miközben leszáll az est.",
+        "ro": "Începeți turul cu bicicleta lângă port, oprindu-vă la gara trenulețului Noddy și la impresionantul Monument al Eroilor. Aerul proaspăt face pedalarea ușoară.\nPedalați pe drumurile șerpuite până la Castelul din Symi și la anticul Pontikokastro. Urcările sunt provocatoare, dar misterul istoric și priveliștile merită efortul.\nMergeți cu bicicleta pe terenul accidentat spre Tsagkrias și Bigla. Aceste locații îndepărtate oferă o liniște profundă și puncte de belvedere incredibile asupra insulei.\nTerminați plimbarea la mănăstirea izolată Michael Roukouniotis. Bucurați-vă de atmosfera spirituală senină și odihniți-vă în curte odată cu lăsarea serii.",
+        "en": "Kick off your cycling tour by the harbor, stopping at the quaint Noddy Train terminus and the impressive War Memorial. The cool morning air makes navigating the waterfront easy.\nPedal up the winding roads to the historic Castle of Symi and the ancient Pontikokastro. The climbs are challenging but the historical intrigue and views make it worth the effort.\nCycle across the rugged terrain towards Tsagkrias and Bigla. These remote locations offer profound tranquility and incredible vantage points over the island's unique topography.\nFinish your ride at the secluded Michael Roukouniotis monastery. Enjoy the serene spiritual atmosphere and rest your legs in the courtyard as evening falls over Symi."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:43",
+      "total_km": 10.55,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "War Memorial",
+            "hu": "Háborús Emlékmű",
+            "ro": "Monumentul Eroilor",
+            "en": "War Memorial"
+          },
+          "coords": [
+            27.836366,
+            36.616514
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das markante, in den Fels gehauene Kriegerdenkmal für die lokalen Helden und bringen Sie eine Kamera für die tolle Hafenkulisse mit.",
+            "hu": "Csodálja meg a helyi hősöknek emléket állító, sziklába vájt háborús emlékművet, és hozzon magával fényképezőgépet a lenyűgöző kikötői háttér miatt.",
+            "ro": "Admirați impresionantul monument al eroilor sculptat în stâncă și aduceți un aparat foto pentru a surprinde fundalul portului.",
+            "en": "Admire the striking War Memorial etched in rock, commemorating local heroes, and bring a camera for the impressive harbor backdrop."
+          }
+        },
+        {
+          "name": {
+            "de": "Burg von Symi",
+            "hu": "Szími Vára",
+            "ro": "Castelul din Symi",
+            "en": "Castle of Symi"
+          },
+          "coords": [
+            27.836964,
+            36.612778
+          ],
+          "category": "landmark",
+          "arrive_at": "10:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Steigen Sie zu den Ruinen dieser alten Festung hinauf, um den Panoramablick auf die Ägäis zu genießen, aber tragen Sie feste Schuhe für die unebenen Stufen.",
+            "hu": "Másszon fel ennek az ősi erődnek a romjaihoz a lélegzetelállító égei-tengeri panorámáért, de a masszív cipő viselése ajánlott az egyenetlen lépcsők miatt.",
+            "ro": "Urcați la ruinele acestei cetăți antice pentru priveliști panoramice uluitoare asupra Mării Egee, dar purtați încălțăminte rezistentă pentru treptele inegale.",
+            "en": "Climb up to the ruins of this ancient fortress for breathtaking panoramic views of the Aegean Sea, but wear sturdy shoes for the uneven steps."
+          }
+        },
+        {
+          "name": {
+            "de": "Pontikokastro",
+            "hu": "Pontikokastro",
+            "ro": "Pontikokastro",
+            "en": "Pontikokastro"
+          },
+          "coords": [
+            27.844732,
+            36.616233
+          ],
+          "category": "landmark",
+          "arrive_at": "11:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese antike kreisförmige Grabstruktur, die Symis Geschichte eine mystische Note verleiht, am besten in den kühlen Morgenstunden.",
+            "hu": "Fedezze fel ezt az ősi, kör alakú síremléket, amely misztikus hangulatot kölcsönöz Szími történelmének; a legjobb a hűvösebb reggeli órákban látogatni.",
+            "ro": "Explorați acest mormânt circular antic ce adaugă o notă mistică istoriei din Symi, cel mai bine vizitat în orele mai răcoroase ale dimineții.",
+            "en": "Explore this ancient circular tomb structure that adds a mystical touch to Symi's history, best visited in the cooler morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Tsagkrias",
+            "hu": "Tsagkrias",
+            "ro": "Tsagkrias",
+            "en": "Tsagkrias"
+          },
+          "coords": [
+            27.841129,
+            36.592188
+          ],
+          "category": "castle",
+          "arrive_at": "12:19",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die mittelalterlichen Überreste dieser weniger bekannten Burgruine und bringen Sie eigenes Wasser mit, da es keine Einrichtungen gibt.",
+            "hu": "Barangoljon e kevésbé ismert várrom középkori maradványai között, és hozzon magával vizet, mivel a közelben nincsenek létesítmények.",
+            "ro": "Plimbați-vă printre rămășițele medievale ale acestei cetăți mai puțin cunoscute și aduceți propria apă, deoarece nu există facilități în apropiere.",
+            "en": "Wander around the medieval remnants of this lesser-known castle ruin, and bring your own water as there are no facilities nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Lapathos Strand",
+            "hu": "Lapathos Strand",
+            "ro": "Plaja Lapathos",
+            "en": "Lapathos beach"
+          },
+          "coords": [
+            27.814058,
+            36.589356
+          ],
+          "category": "recreational",
+          "arrive_at": "13:24",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Schwimmen Sie im kristallklaren Wasser dieses einsamen Strandes, aber denken Sie daran, dass er nur zu Fuß oder per Boot erreichbar ist, also packen Sie leicht.",
+            "hu": "Ússzon egyet ennek az eldugott strandnak a kristálytiszta vizében, de ne feledje, hogy csak gyalog vagy hajóval közelíthető meg, így ne pakoljon túl sok mindent.",
+            "ro": "Înotați în apele cristaline ale acestei plaje izolate, dar rețineți că este accesibilă doar pe jos sau cu barca, așa că luați un bagaj ușor.",
+            "en": "Swim in the crystal-clear waters of this secluded beach, but remember it is only accessible by foot or boat, so pack light."
+          }
+        },
+        {
+          "name": {
+            "de": "Michael Roukouniotis",
+            "hu": "Michael Roukouniotis Kolostor",
+            "ro": "Mănăstirea Michael Roukouniotis",
+            "en": "Michael Roukouniotis"
+          },
+          "coords": [
+            27.812889,
+            36.609813
+          ],
+          "category": "landmark",
+          "arrive_at": "14:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die markante Architektur und die ruhige Atmosphäre dieses historischen Klosters und nehmen Sie sich Zeit, die beeindruckenden Fresken zu bewundern.",
+            "hu": "Fedezze fel e történelmi kolostor lenyűgöző építészetét és nyugodt légkörét, és szánjon időt a csodálatos belső freskók megtekintésére.",
+            "ro": "Descoperiți arhitectura uimitoare și atmosfera senină a acestei mănăstiri istorice, făcându-vă timp să admirați frescele interioare impresionante.",
+            "en": "Discover the striking architecture and serene atmosphere of this historic monastery, taking time to admire the impressive interior frescoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Bigla",
+            "hu": "Bigla",
+            "ro": "Bigla",
+            "en": "Bigla"
+          },
+          "coords": [
+            27.833129,
+            36.602338
+          ],
+          "category": "natural",
+          "arrive_at": "15:13",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem friedlichen Naturort mit weitem Inselblick, der ein idealer Ort ist, um sich zurückzulehnen und die Nachmittagsbrise zu genießen.",
+            "hu": "Pihenjen meg ezen a békés természeti helyen, ahonnan pazar kilátás nyílik a szigetre, ideális egy kis délutáni lazításhoz a friss szellőben.",
+            "ro": "Relaxați-vă în acest loc natural liniștit, cu priveliști ample asupra insulei, ideal pentru a sta și a vă bucura de briza după-amiezii.",
+            "en": "Relax at this peaceful natural spot offering sweeping island vistas, making it an ideal place to sit back and enjoy the afternoon breeze."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre malerische Fahrt am Kriegerdenkmal, bevor Sie zur majestätischen Burg von Symi fahren. Die kurvigen Straßen bieten spektakuläre Ausblicke auf den geschäftigen Hafen.\nFahren Sie weiter hinaus, um Pontikokastro und die Ruinen von Tsagkrias zu besuchen. Mit einem Auto lassen sich die Entfernungen zwischen diesen faszinierenden historischen Stätten leicht überbrücken.\nFahren Sie in Richtung Süden zur Küste, um den abgelegenen Strand Lapathos zu finden. Parken Sie in der Nähe und genießen Sie ein erfrischendes Bad im kristallklaren Wasser.\nWenn der Tag zu Ende geht, fahren Sie zum friedlichen Kloster Michael Roukouniotis und schließlich nach Bigla. Beobachten Sie den Sonnenuntergang von diesem natürlichen Aussichtspunkt.",
+        "hu": "Kezdje a festői autózást a háborús emlékműnél, mielőtt felhajtana a fenséges Szími Várához. A kanyargós utak látványos kilátást nyújtanak a nyüzsgő kikötőre.\nVezessen tovább Pontikokastro és Tsagkrias romjainak meglátogatásához. Autóval könnyedén áthidalhatja a távolságot ezen lenyűgöző történelmi helyszínek között a déli napsütésben.\nIrány dél felé a part, hogy felfedezze az eldugott Lapathos strandot. Parkoljon le a közelben, és élvezze a frissítő fürdőzést a kristálytiszta vízben.\nA nap végéhez közeledve vezessen a nyugodt Michael Roukouniotis kolostorhoz, majd végül a Biglához. Nézze meg a naplementét erről a magaslati természeti kilátópontról.",
+        "ro": "Începeți traseul pitoresc la Monumentul Eroilor, înainte de a conduce spre maiestuosul Castel din Symi. Drumurile șerpuite oferă priveliști spectaculoase asupra portului aglomerat.\nMergeți mai departe pentru a vizita Pontikokastro și ruinele Tsagkrias. Având o mașină, puteți parcurge cu ușurință distanțele dintre aceste situri istorice fascinante.\nÎndreptați-vă spre sud, spre coastă, pentru a găsi plaja izolată Lapathos. Parcați în apropiere și bucurați-vă de o baie răcoritoare în apele cristaline, o evadare perfectă.\nLa sfârșitul zilei, conduceți la liniștita mănăstire Michael Roukouniotis și apoi la Bigla. Admirați apusul de soare din acest punct de belvedere natural pentru a încheia o zi perfectă.",
+        "en": "Begin your scenic drive at the War Memorial, paying respects before driving up to the majestic Castle of Symi. The winding roads offer spectacular views of the bustling harbor below.\nDrive further out to visit Pontikokastro and the ruins of Tsagkrias. Having a car allows you to easily cover the distances between these fascinating historical sites under the midday sun.\nHead south towards the coast to find the secluded Lapathos beach. Park nearby and enjoy a refreshing swim in the crystal-clear waters, a perfect afternoon escape.\nAs the day winds down, drive to the tranquil Michael Roukouniotis monastery and finally to Bigla. Watch the sunset paint the sky from this elevated natural viewpoint to end your day."
+      }
+    }
+  }
+}

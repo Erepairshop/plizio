@@ -1,0 +1,474 @@
+{
+  "city_id": "greece-olympos-cities-v2",
+  "anchor": {
+    "name": "Olympos",
+    "coords": [
+      27.1982,
+      35.7159
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:29",
+      "total_km": 2.32,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Forókli",
+            "hu": "Forókli",
+            "ro": "Forókli",
+            "en": "Forókli"
+          },
+          "coords": [
+            27.201378,
+            35.7128
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den rauen Küstencharme von Forókli, einem malerischen Erholungsort für eine Pause, aber vergessen Sie nicht, festes Schuhwerk für die steinigen Wege mitzubringen.",
+            "hu": "Élvezze Forókli zord tengerparti varázsát, amely tökéletes egy délelőtti pihenőhöz, de mindenképpen viseljen masszív cipőt a sziklás ösvények miatt.",
+            "ro": "Bucurați-vă de farmecul coastei stâncoase la Forókli, locul ideal pentru o pauză relaxantă, dar nu uitați să încălțați pantofi rezistenți pentru potecile abrupte.",
+            "en": "Enjoy the rugged coastal charm of Forókli, a picturesque recreational spot perfect for a mid-morning break, but be sure to wear sturdy shoes for the rocky pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Kámináki",
+            "hu": "Kámináki",
+            "ro": "Kámináki",
+            "en": "Kámináki"
+          },
+          "coords": [
+            27.207153,
+            35.720171
+          ],
+          "category": "recreational",
+          "arrive_at": "10:39",
+          "stay_min": 60,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.96,
+          "tip_5lang": {
+            "de": "Entdecken Sie die friedliche Schönheit von Kámináki, wo sanfte Meeresbrise auf unberührte Natur trifft; ideal, um einen leichten Snack am Wasser zu genießen.",
+            "hu": "Fedezze fel Kámináki békés szépségét, ahol a lágy tengeri szellő érintetlen természettel találkozik, ezért érdemes egy kis harapnivalót hozni a vízparti pihenéshez.",
+            "ro": "Descoperiți frumusețea liniștită de la Kámináki, unde briza mării întâlnește natura pură, așa că aduceți o gustare ușoară pentru a o savura pe malul apei.",
+            "en": "Discover the tranquil beauty of Kámináki, where the gentle sea breeze meets untouched nature, making it ideal to bring a light snack to enjoy by the scenic waterfront."
+          }
+        },
+        {
+          "name": {
+            "de": "Kántri",
+            "hu": "Kántri",
+            "ro": "Kántri",
+            "en": "Kántri"
+          },
+          "coords": [
+            27.210897,
+            35.725625
+          ],
+          "category": "recreational",
+          "arrive_at": "11:49",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.69,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit zum Entspannen in Kántri, einem abgelegenen Naturparadies mit klarem Wasser; kommen Sie früh, um den besten Platz abseits der Mittagshitze zu finden.",
+            "hu": "Pihenjen egy pillanatot a Kántri érintetlen öblében, amely kristálytiszta vizéről ismert, de érkezzen korán, hogy elkerülje a legnagyobb déli hőséget.",
+            "ro": "Relaxați-vă în refugiul natural Kántri, faimos pentru apele sale cristaline, dar asigurați-vă că sosiți devreme pentru a prinde cel mai bun loc ferit de căldura amiezii.",
+            "en": "Take a moment to relax at Kántri, a secluded natural haven boasting clear waters, though arriving early helps you secure the best spot away from the midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Ópsi",
+            "hu": "Ópsi",
+            "ro": "Ópsi",
+            "en": "Ópsi"
+          },
+          "coords": [
+            27.215889,
+            35.726511
+          ],
+          "category": "recreational",
+          "arrive_at": "12:56",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre in Ópsi, einem weniger bekannten Juwel an der Küste, wo die dramatischen Klippen bei weichem Licht atemberaubende Fotomotive bieten.",
+            "hu": "Szívja magába Ópsi békés hangulatát, ezen a kevésbé ismert tengerparti gyöngyszemen, ahol a drámai sziklák lágy fényben tökéletes fotótémát kínálnak.",
+            "ro": "Impregnați-vă de atmosfera liniștită la Ópsi, o bijuterie de coastă mai puțin cunoscută, unde stâncile abrupte oferă oportunități foto excelente la lumina blândă.",
+            "en": "Soak in the peaceful ambiance at Ópsi, a lesser-known coastal gem where the dramatic cliffs offer stunning photo opportunities if you visit when the light is softer."
+          }
+        },
+        {
+          "name": {
+            "de": "Makriá",
+            "hu": "Makriá",
+            "ro": "Makriá",
+            "en": "Makriá"
+          },
+          "coords": [
+            27.21733,
+            35.728014
+          ],
+          "category": "recreational",
+          "arrive_at": "13:59",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Erkundung in Makriá, einem weitläufigen und wunderschönen Küstenstreifen, der sich perfekt für ein erfrischendes Nachmittagsschwimmen eignet.",
+            "hu": "Fejezze be a napot Makriá gyönyörű, hosszan elnyúló partvidékén, amely ideális egy délutáni fürdőzéshez, ezért ne hagyja otthon a fürdőruháját és a naptejet.",
+            "ro": "Încheiați-vă explorarea la Makriá, o zonă de coastă superbă perfectă pentru o baie de după-amiază, așa că nu uitați costumul de baie și o loțiune de protecție solară.",
+            "en": "End your exploration at Makriá, an expansive stretch of beautiful shoreline perfect for an afternoon swim, so don't forget your swimsuit and extra sunscreen."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen in der Nähe von Forókli, genießen Sie die sanfte Meeresbrise und erkunden Sie die rauen Pfade, bevor die Sonne zu intensiv wird.\n\nGegen Mittag schlendern Sie weiter in Richtung Kámináki und Kántri, wo unberührte Erholungsgebiete eine ruhige und schattige Pause bieten.\n\nAm Nachmittag führt Sie der Küstenweg nach Ópsi, einem ruhigen Abschnitt mit dramatischen Klippen, der als friedlicher Rückzugsort dient.\n\nLassen Sie den Tag in Makriá ausklingen und entspannen Sie sich am weitläufigen Ufer, während das Abendlicht sanft über dem Mittelmeer verblasst.",
+        "hu": "Kezdje a reggelt a vibráló Forókli közelében, élvezve a lágy tengeri szellőt, és fedezze fel a zord ösvényeket, mielőtt a nap túl erősen sütne.\n\nA dél közeledtével sétáljon észak felé Kámináki és Kántri irányába, ahol az érintetlen pihenőhelyek nyugodt és árnyékos kikapcsolódást kínálnak.\n\nDélután a parti ösvény Ópsihoz vezet, amelynek drámai sziklái és csendes partszakaszai békés menedékként szolgálnak a forgalmasabb területek elől.\n\nZárja a napot Makriá strandján, lazítson a tágas partvidéken, miközben nézi, ahogy az esti fények lassan elhalványulnak a nyugodt Földközi-tenger felett.",
+        "ro": "Începeți-vă dimineața în apropiere de Forókli, bucurându-vă de briza blândă a mării și explorând traseele stâncoase înainte ca soarele să devină prea puternic.\n\nSpre prânz, plimbați-vă spre nord către Kámináki și Kántri, unde locurile de agrement neatine oferă o pauză senină și umbrită, perfectă pentru relaxare.\n\nDupă-amiaza, poteca de coastă vă conduce spre Ópsi, o întindere liniștită cu stânci dramatice care servește drept refugiu departe de agitație.\n\nÎncheiați ziua relaxându-vă la Makriá, pe țărmul vast, în timp ce priviți cum lumina serii se estompează încet peste apele calme ale Mării Mediterane.",
+        "en": "Start your morning near the vibrant area of Forókli, enjoying the gentle sea breeze and exploring the rugged trails before the sun becomes too intense.\n\nAs midday approaches, stroll northward towards Kámináki and Kántri, where the untouched recreational spots offer a serene and shaded break.\n\nIn the afternoon, let the coastal path guide you to Ópsi, a quiet stretch featuring dramatic cliffs that serve as a peaceful retreat from busier areas.\n\nEnd your day resting at Makriá, unwinding on the expansive shoreline while watching the evening light gently fade over the calm Mediterranean waters."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:18",
+      "total_km": 4.12,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Náti",
+            "hu": "Náti",
+            "ro": "Náti",
+            "en": "Náti"
+          },
+          "coords": [
+            27.190482,
+            35.698509
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Reise an den abgelegenen Ufern von Náti, wo das Rauschen der Wellen für Entspannung sorgt; bringen Sie jedoch Wasser mit, da es kaum Einrichtungen gibt.",
+            "hu": "Kezdje útját Náti eldugott partjainál, ahol a hullámok hangja megadja az alaphangot, de hozzon magával ivóvizet, mivel errefelé nagyon kevés a szolgáltatás.",
+            "ro": "Începeți-vă călătoria pe țărmurile izolate de la Náti, unde sunetul valurilor creează o atmosferă relaxantă, dar aduceți-vă apă deoarece facilitățile lipsesc.",
+            "en": "Begin your journey at the secluded shores of Náti, where the sound of the waves sets a relaxing tone, though you should bring your own water as facilities are sparse."
+          }
+        },
+        {
+          "name": {
+            "de": "Kápi",
+            "hu": "Kápi",
+            "ro": "Kápi",
+            "en": "Kápi"
+          },
+          "coords": [
+            27.199161,
+            35.707378
+          ],
+          "category": "recreational",
+          "arrive_at": "10:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.26,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in Kápi, einem charmanten Erholungsgebiet, umgeben von lokaler Flora; ein fantastischer Ort, um die heimische Vogelwelt in aller Ruhe zu beobachten.",
+            "hu": "Töltődjön fel Kápi bájos, helyi növényzettel övezett pihenőhelyén, amely kiváló lehetőséget nyújt a helyi madárvilág megfigyelésére, ha csendben és türelmesen vár.",
+            "ro": "Destindeți-vă la Kápi, o zonă de agrement fermecătoare înconjurată de flora locală, fiind un loc excelent pentru a observa păsările dacă sunteți liniștit și răbdător.",
+            "en": "Unwind at Kápi, a charming recreational area framed by local flora, making it a fantastic spot to observe local birdlife if you stay quiet and patient."
+          }
+        },
+        {
+          "name": {
+            "de": "Forókli",
+            "hu": "Forókli",
+            "ro": "Forókli",
+            "en": "Forókli"
+          },
+          "coords": [
+            27.201378,
+            35.7128
+          ],
+          "category": "recreational",
+          "arrive_at": "11:36",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.63,
+          "tip_5lang": {
+            "de": "Genießen Sie den rauen Küstencharme von Forókli, einem malerischen Erholungsort für eine Pause, aber vergessen Sie nicht, festes Schuhwerk für die steinigen Wege mitzubringen.",
+            "hu": "Élvezze Forókli zord tengerparti varázsát, amely tökéletes egy délelőtti pihenőhöz, de mindenképpen viseljen masszív cipőt a sziklás ösvények miatt.",
+            "ro": "Bucurați-vă de farmecul coastei stâncoase la Forókli, locul ideal pentru o pauză relaxantă, dar nu uitați să încălțați pantofi rezistenți pentru potecile abrupte.",
+            "en": "Enjoy the rugged coastal charm of Forókli, a picturesque recreational spot perfect for a mid-morning break, but be sure to wear sturdy shoes for the rocky pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Kámináki",
+            "hu": "Kámináki",
+            "ro": "Kámináki",
+            "en": "Kámináki"
+          },
+          "coords": [
+            27.207153,
+            35.720171
+          ],
+          "category": "recreational",
+          "arrive_at": "12:41",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.96,
+          "tip_5lang": {
+            "de": "Entdecken Sie die friedliche Schönheit von Kámináki, wo sanfte Meeresbrise auf unberührte Natur trifft; ideal, um einen leichten Snack am Wasser zu genießen.",
+            "hu": "Fedezze fel Kámináki békés szépségét, ahol a lágy tengeri szellő érintetlen természettel találkozik, ezért érdemes egy kis harapnivalót hozni a vízparti pihenéshez.",
+            "ro": "Descoperiți frumusețea liniștită de la Kámináki, unde briza mării întâlnește natura pură, așa că aduceți o gustare ușoară pentru a o savura pe malul apei.",
+            "en": "Discover the tranquil beauty of Kámináki, where the gentle sea breeze meets untouched nature, making it ideal to bring a light snack to enjoy by the scenic waterfront."
+          }
+        },
+        {
+          "name": {
+            "de": "Makriá",
+            "hu": "Makriá",
+            "ro": "Makriá",
+            "en": "Makriá"
+          },
+          "coords": [
+            27.21733,
+            35.728014
+          ],
+          "category": "recreational",
+          "arrive_at": "13:48",
+          "stay_min": 90,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.27,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Erkundung in Makriá, einem weitläufigen und wunderschönen Küstenstreifen, der sich perfekt für ein erfrischendes Nachmittagsschwimmen eignet.",
+            "hu": "Fejezze be a napot Makriá gyönyörű, hosszan elnyúló partvidékén, amely ideális egy délutáni fürdőzéshez, ezért ne hagyja otthon a fürdőruháját és a naptejet.",
+            "ro": "Încheiați-vă explorarea la Makriá, o zonă de coastă superbă perfectă pentru o baie de după-amiază, așa că nu uitați costumul de baie și o loțiune de protecție solară.",
+            "en": "End your exploration at Makriá, an expansive stretch of beautiful shoreline perfect for an afternoon swim, so don't forget your swimsuit and extra sunscreen."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour in Richtung Süden zu den abgelegenen Ufern von Náti und genießen Sie die ruhigen Straßen und wunderschönen Küstenpanoramen.\n\nGegen Mittag radeln Sie in Richtung Kápi und Forókli, wo Sie die erfrischende Küstenbrise und die unberührte lokale Flora der Landschaft bewundern können.\n\nAm Nachmittag fahren Sie weiter nach Norden zu Kámináki und navigieren auf malerischen Wegen, die versteckte Buchten und bezaubernde Felsen offenbaren.\n\nBeenden Sie Ihre Reise in Makriá, wo Sie endlich absteigen und sich am Meer entspannen können – eine wunderbare Belohnung nach einem aktiven Tag.",
+        "hu": "Kezdje kerékpártúráját dél felé, Náti eldugott partjaihoz tekerve, élvezve a csendes reggeli utakat és a lenyűgöző tengerparti kilátást az út során.\n\nDél körül tekerjen tovább Kápi és Forókli felé, időt szakítva a hűsítő parti szellő és a tájat tarkító érintetlen helyi növényvilág megcsodálására.\n\nDélután haladjon tovább északra Kámináki irányába, azokon a festői ösvényeken navigálva, amelyek rejtett öblöket és bájos sziklaalakzatokat tárnak fel.\n\nFejezze be az utat Makriánál, ahol végül leszállhat a nyeregből, és teljesen ellazulhat a tenger mellett, megjutalmazva magát egy aktív nap után.",
+        "ro": "Începeți turul cu bicicleta îndreptându-vă spre sud, spre țărmurile izolate din Náti, bucurându-vă de drumurile liniștite de dimineață și de peisajele de coastă.\n\nLa prânz, pedalați spre Kápi și Forókli, făcându-vă timp să simțiți briza mării și să admirați flora locală virgină care împodobește peisajul.\n\nDupă-amiaza, continuați spre nord către Kámináki, navigând pe traseele pitorești de coastă care dezvăluie golfuri ascunse și aflorimente stâncoase fermecătoare.\n\nÎncheiați-vă călătoria la Makriá, unde puteți descăleca și vă puteți relaxa complet pe malul mării, recompensându-vă după o zi activă de ciclism.",
+        "en": "Kick off your cycling tour by heading south to the secluded shores of Náti, enjoying the quiet morning roads and beautiful coastal vistas along the way.\n\nBy midday, pedal your way towards Kápi and Forókli, taking time to embrace the coastal breezes and the pristine local flora that dots the landscape.\n\nIn the afternoon, keep moving northwards to Kámináki, navigating the scenic coastal paths that reveal hidden coves and charming rocky outcrops.\n\nConclude your journey at Makriá, where you can finally dismount and relax completely by the sea, rewarding yourself after an active day of cycling."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:14",
+      "total_km": 7.72,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Prophitis Ilias",
+            "hu": "Prophitis Ilias",
+            "ro": "Prophitis Ilias",
+            "en": "Prophitis Ilias"
+          },
+          "coords": [
+            27.175908,
+            35.727927
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Fahren Sie hinauf zum Prophitis Ilias für einen unvergleichlichen Panoramablick über die Insel, aber stellen Sie sicher, dass Ihr Fahrzeug für den steilen Aufstieg bereit ist.",
+            "hu": "Vezessen fel a Prophitis Ilias csúcsára a sziget páratlan panorámájáért, de győződjön meg róla, hogy járműve felkészült a meredek és kanyargós emelkedőre.",
+            "ro": "Urcați la Prophitis Ilias pentru o panoramă de neegalat asupra insulei, dar asigurați-vă că mașina dumneavoastră este pregătită pentru urcușul abrupt și sinuos.",
+            "en": "Climb up to Prophitis Ilias for unparalleled panoramic views over the island, but make sure your vehicle is prepared for the steep and winding ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Náti",
+            "hu": "Náti",
+            "ro": "Náti",
+            "en": "Náti"
+          },
+          "coords": [
+            27.190482,
+            35.698509
+          ],
+          "category": "recreational",
+          "arrive_at": "10:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.51,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Reise an den abgelegenen Ufern von Náti, wo das Rauschen der Wellen für Entspannung sorgt; bringen Sie jedoch Wasser mit, da es kaum Einrichtungen gibt.",
+            "hu": "Kezdje útját Náti eldugott partjainál, ahol a hullámok hangja megadja az alaphangot, de hozzon magával ivóvizet, mivel errefelé nagyon kevés a szolgáltatás.",
+            "ro": "Începeți-vă călătoria pe țărmurile izolate de la Náti, unde sunetul valurilor creează o atmosferă relaxantă, dar aduceți-vă apă deoarece facilitățile lipsesc.",
+            "en": "Begin your journey at the secluded shores of Náti, where the sound of the waves sets a relaxing tone, though you should bring your own water as facilities are sparse."
+          }
+        },
+        {
+          "name": {
+            "de": "Kápi",
+            "hu": "Kápi",
+            "ro": "Kápi",
+            "en": "Kápi"
+          },
+          "coords": [
+            27.199161,
+            35.707378
+          ],
+          "category": "recreational",
+          "arrive_at": "11:36",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.26,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in Kápi, einem charmanten Erholungsgebiet, umgeben von lokaler Flora; ein fantastischer Ort, um die heimische Vogelwelt in aller Ruhe zu beobachten.",
+            "hu": "Töltődjön fel Kápi bájos, helyi növényzettel övezett pihenőhelyén, amely kiváló lehetőséget nyújt a helyi madárvilág megfigyelésére, ha csendben és türelmesen vár.",
+            "ro": "Destindeți-vă la Kápi, o zonă de agrement fermecătoare înconjurată de flora locală, fiind un loc excelent pentru a observa păsările dacă sunteți liniștit și răbdător.",
+            "en": "Unwind at Kápi, a charming recreational area framed by local flora, making it a fantastic spot to observe local birdlife if you stay quiet and patient."
+          }
+        },
+        {
+          "name": {
+            "de": "Forókli",
+            "hu": "Forókli",
+            "ro": "Forókli",
+            "en": "Forókli"
+          },
+          "coords": [
+            27.201378,
+            35.7128
+          ],
+          "category": "recreational",
+          "arrive_at": "12:38",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.63,
+          "tip_5lang": {
+            "de": "Genießen Sie den rauen Küstencharme von Forókli, einem malerischen Erholungsort für eine Pause, aber vergessen Sie nicht, festes Schuhwerk für die steinigen Wege mitzubringen.",
+            "hu": "Élvezze Forókli zord tengerparti varázsát, amely tökéletes egy délelőtti pihenőhöz, de mindenképpen viseljen masszív cipőt a sziklás ösvények miatt.",
+            "ro": "Bucurați-vă de farmecul coastei stâncoase la Forókli, locul ideal pentru o pauză relaxantă, dar nu uitați să încălțați pantofi rezistenți pentru potecile abrupte.",
+            "en": "Enjoy the rugged coastal charm of Forókli, a picturesque recreational spot perfect for a mid-morning break, but be sure to wear sturdy shoes for the rocky pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Kámináki",
+            "hu": "Kámináki",
+            "ro": "Kámináki",
+            "en": "Kámináki"
+          },
+          "coords": [
+            27.207153,
+            35.720171
+          ],
+          "category": "recreational",
+          "arrive_at": "13:40",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.96,
+          "tip_5lang": {
+            "de": "Entdecken Sie die friedliche Schönheit von Kámináki, wo sanfte Meeresbrise auf unberührte Natur trifft; ideal, um einen leichten Snack am Wasser zu genießen.",
+            "hu": "Fedezze fel Kámináki békés szépségét, ahol a lágy tengeri szellő érintetlen természettel találkozik, ezért érdemes egy kis harapnivalót hozni a vízparti pihenéshez.",
+            "ro": "Descoperiți frumusețea liniștită de la Kámináki, unde briza mării întâlnește natura pură, așa că aduceți o gustare ușoară pentru a o savura pe malul apei.",
+            "en": "Discover the tranquil beauty of Kámináki, where the gentle sea breeze meets untouched nature, making it ideal to bring a light snack to enjoy by the scenic waterfront."
+          }
+        },
+        {
+          "name": {
+            "de": "Kántri",
+            "hu": "Kántri",
+            "ro": "Kántri",
+            "en": "Kántri"
+          },
+          "coords": [
+            27.210897,
+            35.725625
+          ],
+          "category": "recreational",
+          "arrive_at": "14:42",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.69,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich Zeit zum Entspannen in Kántri, einem abgelegenen Naturparadies mit klarem Wasser; kommen Sie früh, um den besten Platz abseits der Mittagshitze zu finden.",
+            "hu": "Pihenjen egy pillanatot a Kántri érintetlen öblében, amely kristálytiszta vizéről ismert, de érkezzen korán, hogy elkerülje a legnagyobb déli hőséget.",
+            "ro": "Relaxați-vă în refugiul natural Kántri, faimos pentru apele sale cristaline, dar asigurați-vă că sosiți devreme pentru a prinde cel mai bun loc ferit de căldura amiezii.",
+            "en": "Take a moment to relax at Kántri, a secluded natural haven boasting clear waters, though arriving early helps you secure the best spot away from the midday heat."
+          }
+        },
+        {
+          "name": {
+            "de": "Ópsi",
+            "hu": "Ópsi",
+            "ro": "Ópsi",
+            "en": "Ópsi"
+          },
+          "coords": [
+            27.215889,
+            35.726511
+          ],
+          "category": "recreational",
+          "arrive_at": "15:43",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre in Ópsi, einem weniger bekannten Juwel an der Küste, wo die dramatischen Klippen bei weichem Licht atemberaubende Fotomotive bieten.",
+            "hu": "Szívja magába Ópsi békés hangulatát, ezen a kevésbé ismert tengerparti gyöngyszemen, ahol a drámai sziklák lágy fényben tökéletes fotótémát kínálnak.",
+            "ro": "Impregnați-vă de atmosfera liniștită la Ópsi, o bijuterie de coastă mai puțin cunoscută, unde stâncile abrupte oferă oportunități foto excelente la lumina blândă.",
+            "en": "Soak in the peaceful ambiance at Ópsi, a lesser-known coastal gem where the dramatic cliffs offer stunning photo opportunities if you visit when the light is softer."
+          }
+        },
+        {
+          "name": {
+            "de": "Makriá",
+            "hu": "Makriá",
+            "ro": "Makriá",
+            "en": "Makriá"
+          },
+          "coords": [
+            27.21733,
+            35.728014
+          ],
+          "category": "recreational",
+          "arrive_at": "16:44",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Erkundung in Makriá, einem weitläufigen und wunderschönen Küstenstreifen, der sich perfekt für ein erfrischendes Nachmittagsschwimmen eignet.",
+            "hu": "Fejezze be a napot Makriá gyönyörű, hosszan elnyúló partvidékén, amely ideális egy délutáni fürdőzéshez, ezért ne hagyja otthon a fürdőruháját és a naptejet.",
+            "ro": "Încheiați-vă explorarea la Makriá, o zonă de coastă superbă perfectă pentru o baie de după-amiază, așa că nu uitați costumul de baie și o loțiune de protecție solară.",
+            "en": "End your exploration at Makriá, an expansive stretch of beautiful shoreline perfect for an afternoon swim, so don't forget your swimsuit and extra sunscreen."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour mit der Fahrt auf den Prophitis Ilias und fangen Sie gleich zu Beginn des Tages unglaubliche Panoramablicke über die Insel ein.\n\nFahren Sie mittags entspannt zur Küste hinab, um die ruhigen Gebiete von Náti und Kápi zu erkunden und bequem zwischen den verstreuten Buchten zu wechseln.\n\nAm Nachmittag fahren Sie gemütlich nach Norden durch Forókli und Kámináki und halten in Kántri, um das kristallklare Wasser abseits der Hauptstraßen zu genießen.\n\nGegen Abend beenden Sie Ihre malerische Fahrt in der Nähe von Ópsi und Makriá und entspannen an den weiten Ufern, während Sie den Sonnenuntergang beobachten.",
+        "hu": "Kezdje az autós túrát a Prophitis Ilias természeti magaslataira való felhajtással, hogy már a nap kezdetén lenyűgöző panorámaképeket készíthessen a szigetről.\n\nDélben ereszkedjen le a tengerpartra, hogy felfedezze Náti és Kápi nyugodt területeit, könnyedén váltogatva ezek a gyönyörű, elszórtan elhelyezkedő öblök között.\n\nA délután folyamán kényelmesen csorogjon észak felé Forókli és Kámináki érintésével, megállva Kántrinál, hogy élvezze a főutaktól távol eső kristálytiszta vizeket.\n\nAhogy közeledik az este, fejezze be a festői utazást Ópsi és Makriá közelében, és pihenjen meg a tágas partokon egy lélegzetelállító mediterrán naplemente kíséretében.",
+        "ro": "Începeți turul cu mașina urcând la înălțimile naturale de la Prophitis Ilias, capturând priveliști panoramice incredibile asupra insulei la primele ore.\n\nLa amiază, coborâți lin spre coastă pentru a explora zonele liniștite din Náti și Kápi, sărind cu ușurință între aceste golfuri frumoase și dispersate.\n\nÎn timpul după-amiezii, conduceți spre nord prin Forókli și Kámináki, oprindu-vă la Kántri pentru a vă bucura de apele cristaline departe de drumurile principale.\n\nPe măsură ce se apropie seara, încheiați-vă plimbarea pitorească lângă Ópsi și Makriá, relaxându-vă pe țărmul vast în timp ce priviți un apus mediteranean uluitor.",
+        "en": "Start your driving tour by ascending to the natural heights of Prophitis Ilias, capturing incredible panoramic views of the island right as the day begins.\n\nAt midday, descend smoothly towards the coast to explore the tranquil areas of Náti and Kápi, easily hopping between these beautiful, dispersed coves.\n\nDuring the afternoon, cruise gracefully northwards through Forókli and Kámináki, stopping at Kántri to enjoy the crystalline waters away from the main roads.\n\nAs evening approaches, end your scenic drive near Ópsi and Makriá, unwinding by the expansive shores while watching a breathtaking Mediterranean sunset."
+      }
+    }
+  }
+}

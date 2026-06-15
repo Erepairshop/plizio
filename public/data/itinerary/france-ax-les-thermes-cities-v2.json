@@ -1,0 +1,497 @@
+{
+  "city_id": "france-ax-les-thermes-cities-v2",
+  "anchor": {
+    "name": "Ax-les-Thermes",
+    "coords": [
+      1.838889,
+      42.719444
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:26",
+      "total_km": 1.23,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Saint-Jérôme",
+            "hu": "Chapelle Saint-Jérôme",
+            "ro": "Chapelle Saint-Jérôme",
+            "en": "Chapelle Saint-Jérôme"
+          },
+          "coords": [
+            1.837048,
+            42.719549
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses faszinierende Museum in einer charmanten Kapelle, und prüfen Sie vorab die saisonal wechselnden Öffnungszeiten.",
+            "hu": "Fedezze fel ezt a lenyűgöző múzeumot, amely egy kápolnában kapott helyet, és ne felejtse el előre ellenőrizni a változó nyitvatartási időt.",
+            "ro": "Explorați acest muzeu fascinant găzduit într-o capelă fermecătoare și asigurați-vă că verificați programul sezonier înainte de a vă planifica vizita.",
+            "en": "Explore this fascinating local museum housed in a charming chapel, and be sure to check the opening hours beforehand as they change by season."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Bains du Couloubret",
+            "hu": "Les Bains du Couloubret",
+            "ro": "Les Bains du Couloubret",
+            "en": "Les Bains du Couloubret"
+          },
+          "coords": [
+            1.83921,
+            42.721457
+          ],
+          "category": "recreational",
+          "arrive_at": "10:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entspannen Sie in den Thermalbädern mit römischer Architektur, aber buchen Sie rechtzeitig, um den großen Menschenmassen am Nachmittag auszuweichen.",
+            "hu": "Pihenjen az ókori római építészet által ihletett termálfürdőkben, de foglaljon időpontot előre, hogy elkerülje a délutáni tömeget.",
+            "ro": "Relaxați-vă în aceste băi termale inspirate de arhitectura romană, dar rezervați din timp pentru a evita aglomerația de după-amiază.",
+            "en": "Relax in these rejuvenating thermal baths modeled after ancient Roman architecture, but book your session early to avoid the afternoon crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Vincent",
+            "hu": "Église Saint-Vincent",
+            "ro": "Église Saint-Vincent",
+            "en": "Église Saint-Vincent"
+          },
+          "coords": [
+            1.840238,
+            42.720528
+          ],
+          "category": "religious",
+          "arrive_at": "12:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Buntglasfenster dieser zentralen historischen Kirche, und kommen Sie am frühen Nachmittag, um das schönste Licht zu erleben.",
+            "hu": "Csodálja meg a központi történelmi templom gyönyörű ólomüveg ablakait, és látogasson el kora délután a legszebb belső fényekért.",
+            "ro": "Admirați vitraliile frumoase din interiorul acestei biserici centrale și vizitați la începutul după-amiezii pentru cea mai bună lumină interioară.",
+            "en": "Admire the beautiful stained glass inside this central historic church, and visit during the early afternoon for the most stunning interior lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Etablissement thermal Le Teich",
+            "hu": "Etablissement thermal Le Teich",
+            "ro": "Etablissement thermal Le Teich",
+            "en": "Etablissement thermal Le Teich"
+          },
+          "coords": [
+            1.838435,
+            42.718469
+          ],
+          "category": "recreational",
+          "arrive_at": "12:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Erleben Sie traditionelle Thermalbehandlungen in dieser klassischen Einrichtung, und bringen Sie eine Wasserflasche für die Zeit nach dem Bad mit.",
+            "hu": "Próbálja ki a hagyományos termálkezeléseket ebben a klasszikus létesítményben, és vigyen magával vizespalackot a fürdőzés utáni hidratáláshoz.",
+            "ro": "Experimentați tratamente termale tradiționale în acest stabiliment clasic și aduceți o sticlă de apă pentru a vă hidrata după baia relaxantă.",
+            "en": "Experience traditional thermal treatments in this classic establishment, and bring a refillable water bottle to stay hydrated after your soak."
+          }
+        },
+        {
+          "name": {
+            "de": "Turbine centrale du Teich",
+            "hu": "Turbine centrale du Teich",
+            "ro": "Turbine centrale du Teich",
+            "en": "Turbine centrale du Teich"
+          },
+          "coords": [
+            1.84141,
+            42.718409
+          ],
+          "category": "natural",
+          "arrive_at": "14:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses Stück lokaler Industriegeschichte in der Natur, und tragen Sie feste Schuhe, um die grünen Umgebungen sicher zu erkunden.",
+            "hu": "Csodálja meg a helyi ipari örökség ezen darabját a természetben, és viseljen kényelmes cipőt a környező zöldterületek biztonságos felfedezéséhez.",
+            "ro": "Admirați această moștenire industrială locală în mijlocul naturii și purtați încălțăminte robustă pentru a explora în siguranță zonele verzi.",
+            "en": "Marvel at this piece of local industrial heritage set against nature, and wear sturdy walking shoes to safely explore the surrounding green areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre Dame d'Ax",
+            "hu": "Notre Dame d'Ax",
+            "ro": "Notre Dame d'Ax",
+            "en": "Notre Dame d'Ax"
+          },
+          "coords": [
+            1.838803,
+            42.71656
+          ],
+          "category": "historical",
+          "arrive_at": "15:36",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieses historischen Wahrzeichens, und bringen Sie eine Kamera mit, um die Details aus der Nähe festzuhalten.",
+            "hu": "Élvezze e történelmi nevezetesség nyugodt légkörét, és érdemes fényképezőgépet hozni, hogy megörökítse lenyűgöző építészeti részleteit.",
+            "ro": "Bucurați-vă de atmosfera liniștită a acestui reper istoric și aduceți o cameră pentru a surprinde detaliile arhitecturale impresionante de aproape.",
+            "en": "Take in the serene atmosphere of this historical landmark, and consider bringing a camera to capture its impressive architectural details up close."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "(M) Beginnen Sie Ihren Tag im Museum mit lokaler Geschichte und entdecken Sie das reiche kulturelle Erbe dieses berühmten charmanten Kurortes.\n(MD) Mittags erleben Sie die Bäderkultur im römischen Stil, perfekt um sich zu entspannen, bevor Sie die lokale Architektur weiter erkunden.\n(A) Verbringen Sie den Nachmittag damit, zwischen religiösen Stätten und industriellen Naturwundern im kompakten Stadtzentrum zu flanieren.\n(E) Beenden Sie Ihren Spaziergang an der großen historischen Kathedrale, während der Abend anbricht und eine friedliche Atmosphäre über den Ort legt.",
+        "hu": "(M) Kezdje a napot a helyi történelem megismerésével a múzeumban, és fedezze fel e híres termálváros gazdag kulturális örökségét és múltját.\n(MD) A dél is a fürdőkultúra jegyében telik, tökéletes lehetőséget adva a pihenésre a római stílusú fürdőknél a helyi építészet felfedezése előtt.\n(A) A délutánt az elegáns vallási helyek és az ipari természeti csodák közötti sétával töltheti, amelyek könnyen megközelíthetők a városközpontban.\n(E) Zárja sétáját a lenyűgöző történelmi katedrálisnál, ahogy leszáll az este, átadva magát a város fenséges szépségének és békés hangulatának.",
+        "ro": "(M) Începeți ziua scufundându-vă în istoria locală la muzeu, descoperind bogata moștenire culturală a acestui celebru și pitoresc oraș termal.\n(MD) La prânz, ajungeți în inima culturii balneare, o ocazie perfectă de a vă relaxa la băile în stil roman înainte de a explora arhitectura locală.\n(A) Petreceți după-amiaza plimbându-vă între siturile religioase elegante și minunile industriale naturale din centrul compact al acestui oraș.\n(E) Încheiați plimbarea la impresionanta catedrală istorică pe măsură ce se lasă seara, reflectând asupra frumuseții maiestuoase și atmosferei pașnice.",
+        "en": "(M) Start your day by immersing yourself in local history at the museum, discovering the rich cultural heritage of this famous thermal town.\n(MD) Midday brings you to the heart of the spa culture, offering a perfect opportunity to relax at the Roman-style baths before exploring local architecture.\n(A) Spend the afternoon wandering between elegant religious sites and natural industrial wonders, easily accessible by foot in the compact town center.\n(E) Conclude your stroll at the grand historic cathedral as the evening sets in, allowing you to reflect on the town's majestic beauty and peaceful ambiance."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:38",
+      "total_km": 4.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Notre Dame d'Ax",
+            "hu": "Notre Dame d'Ax",
+            "ro": "Notre Dame d'Ax",
+            "en": "Notre Dame d'Ax"
+          },
+          "coords": [
+            1.838803,
+            42.71656
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die friedliche Atmosphäre dieses historischen Wahrzeichens, und bringen Sie eine Kamera mit, um die Details aus der Nähe festzuhalten.",
+            "hu": "Élvezze e történelmi nevezetesség nyugodt légkörét, és érdemes fényképezőgépet hozni, hogy megörökítse lenyűgöző építészeti részleteit.",
+            "ro": "Bucurați-vă de atmosfera liniștită a acestui reper istoric și aduceți o cameră pentru a surprinde detaliile arhitecturale impresionante de aproape.",
+            "en": "Take in the serene atmosphere of this historical landmark, and consider bringing a camera to capture its impressive architectural details up close."
+          }
+        },
+        {
+          "name": {
+            "de": "Etablissement thermal Le Teich",
+            "hu": "Etablissement thermal Le Teich",
+            "ro": "Etablissement thermal Le Teich",
+            "en": "Etablissement thermal Le Teich"
+          },
+          "coords": [
+            1.838435,
+            42.718469
+          ],
+          "category": "recreational",
+          "arrive_at": "10:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie traditionelle Thermalbehandlungen in dieser klassischen Einrichtung, und bringen Sie eine Wasserflasche für die Zeit nach dem Bad mit.",
+            "hu": "Próbálja ki a hagyományos termálkezeléseket ebben a klasszikus létesítményben, és vigyen magával vizespalackot a fürdőzés utáni hidratáláshoz.",
+            "ro": "Experimentați tratamente termale tradiționale în acest stabiliment clasic și aduceți o sticlă de apă pentru a vă hidrata după baia relaxantă.",
+            "en": "Experience traditional thermal treatments in this classic establishment, and bring a refillable water bottle to stay hydrated after your soak."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Vincent",
+            "hu": "Église Saint-Vincent",
+            "ro": "Église Saint-Vincent",
+            "en": "Église Saint-Vincent"
+          },
+          "coords": [
+            1.840238,
+            42.720528
+          ],
+          "category": "religious",
+          "arrive_at": "11:48",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Buntglasfenster dieser zentralen historischen Kirche, und kommen Sie am frühen Nachmittag, um das schönste Licht zu erleben.",
+            "hu": "Csodálja meg a központi történelmi templom gyönyörű ólomüveg ablakait, és látogasson el kora délután a legszebb belső fényekért.",
+            "ro": "Admirați vitraliile frumoase din interiorul acestei biserici centrale și vizitați la începutul după-amiezii pentru cea mai bună lumină interioară.",
+            "en": "Admire the beautiful stained glass inside this central historic church, and visit during the early afternoon for the most stunning interior lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Barthélemy",
+            "hu": "Église Saint-Barthélemy",
+            "ro": "Église Saint-Barthélemy",
+            "en": "Église Saint-Barthélemy"
+          },
+          "coords": [
+            1.840199,
+            42.73182
+          ],
+          "category": "religious",
+          "arrive_at": "12:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie den ruhigen Charme dieser gut erhaltenen Stätte, und bleiben Sie etwas länger, um den Panoramablick vom Hof aus zu genießen.",
+            "hu": "Fedezze fel e gyönyörűen megőrzött vallási hely csendes varázsát, és maradjon még néhány percet, hogy élvezze az udvarról nyíló panorámát.",
+            "ro": "Descoperiți farmecul liniștit al acestui sit religios frumos conservat și zăboviți pentru a vă bucura de priveliștile panoramice din curtea sa.",
+            "en": "Discover the quiet charm of this beautifully preserved religious site, and stay a few minutes extra to enjoy the panoramic views from its courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Just et Saint-Pasteur",
+            "hu": "Église Saint-Just et Saint-Pasteur",
+            "ro": "Église Saint-Just et Saint-Pasteur",
+            "en": "Église Saint-Just et Saint-Pasteur"
+          },
+          "coords": [
+            1.850095,
+            42.729521
+          ],
+          "category": "religious",
+          "arrive_at": "13:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Treten Sie ein, um die lokale Kunstfertigkeit dieser Kirche zu schätzen, und gehen Sie respektvoll auf dem Gelände spazieren, um die Historie zu spüren.",
+            "hu": "Lépjen be, hogy megcsodálja e festői templom helyi művészeti értékeit, és sétáljon tiszteletteljesen a területen a történelmi jelenlét átéléséhez.",
+            "ro": "Pășiți înăuntru pentru a aprecia arta locală a acestei biserici pitorești și plimbați-vă respectuos pe domeniu pentru a absorbi prezența istorică.",
+            "en": "Step inside to appreciate the local artistry of this quaint church, and walk respectfully around the grounds to fully absorb its historical presence."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Simon et Saint-Jude",
+            "hu": "Église Saint-Simon et Saint-Jude",
+            "ro": "Église Saint-Simon et Saint-Jude",
+            "en": "Église Saint-Simon et Saint-Jude"
+          },
+          "coords": [
+            1.862083,
+            42.720861
+          ],
+          "category": "religious",
+          "arrive_at": "14:08",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Betrachten Sie den einzigartigen Baustil dieser Gemeindekirche, und planen Sie einen morgendlichen Besuch, um das beste Sonnenlicht einzufangen.",
+            "hu": "Tekintse meg a közösségi templom egyedi építészeti stílusát, és tervezzen egy gyors reggeli látogatást, hogy a homlokzatot a legjobb fényben lássa.",
+            "ro": "Priviți stilul arhitectural unic al acestei biserici comunitare și planificați o vizită de dimineață pentru a prinde lumina soarelui pe fațadă.",
+            "en": "View the unique architectural style of this community church, and plan a quick morning visit to capture the best sunlight illuminating the façade."
+          }
+        },
+        {
+          "name": {
+            "de": "Vallée d'Ax",
+            "hu": "Vallée d'Ax",
+            "ro": "Vallée d'Ax",
+            "en": "Vallée d'Ax"
+          },
+          "coords": [
+            1.855655,
+            42.714878
+          ],
+          "category": "natural",
+          "arrive_at": "14:53",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die atemberaubende Landschaft dieses Tals, und packen Sie ein leichtes Picknick ein, das Sie in der wunderschönen Natur genießen.",
+            "hu": "Merüljön el az érintetlen völgy lélegzetelállító tájaiban, és csomagoljon be egy könnyű pikniket, amelyet a csodálatos természeti környezetben költhet el.",
+            "ro": "Lăsați-vă pierduți în peisajele uluitoare ale acestei văi imaculate și pregătiți un picnic ușor pentru a vă bucura de mediul natural incredibil.",
+            "en": "Immerse yourself in the breathtaking landscapes of this pristine valley, and pack a light picnic to enjoy amidst the incredible natural surroundings."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "(M) Radeln Sie zuerst zur historischen Kathedrale und nutzen Sie die ruhigen morgendlichen Straßen, um die klassische Architektur voll zu schätzen.\n(MD) Fahren Sie anschließend zu den Thermalbädern und genießen Sie kurze malerische Fahrten zwischen den historischen Kirchen und den entspannenden Spas.\n(A) Nutzen Sie das Rad, um weitere Strecken zurückzulegen und die äußeren religiösen Wahrzeichen mit der frischen Pyrenäen-Brise zu besichtigen.\n(E) Beenden Sie Ihr Radabenteuer in den atemberaubenden Tälern am Stadtrand, wo die Natur eine spektakuläre Kulisse für die untergehende Sonne bietet.",
+        "hu": "(M) Először tekerjen el a nagyszerű történelmi katedrálishoz, kihasználva a csendes reggeli utcákat a klasszikus építészet teljes élvezetéhez.\n(MD) Ezután haladjon a termálfürdők felé, élvezve a rövid, festői utat a város gyönyörű történelmi templomai és a pihentető fürdők között.\n(A) Használja ki a kerékpárt nagyobb távolságok megtételére, meglátogatva a külső vallási nevezetességeket a Pireneusok friss hegyi levegőjén.\n(E) Fejezze be kerékpáros kalandját a külváros lenyűgöző völgyeiben, ahol a természet látványos hátteret biztosít a lassan lenyugvó napnak.",
+        "ro": "(M) Pedalați mai întâi spre grandioasa catedrală istorică, profitând de străzile liniștite ale dimineții pentru a aprecia pe deplin arhitectura clasică.\n(MD) Îndreptați-vă spre stabilimentele termale, bucurându-vă de scurte plimbări pitorești între bisericile istorice frumoase și spa-urile relaxante.\n(A) Folosiți bicicleta pentru a acoperi eficient mai mult teren, vizitând reperele religioase exterioare în timp ce vă bucurați de briza proaspătă de munte.\n(E) Încheiați aventura pe bicicletă în văile uimitoare de la periferie, unde natura oferă un decor spectaculos pentru soarele la apus.",
+        "en": "(M) Pedal towards the grand historical cathedral first, taking advantage of the quiet morning streets to fully appreciate the classic architecture.\n(MD) Cruise toward the thermal establishments next, enjoying short scenic rides between the city's beautiful historic churches and relaxing spas.\n(A) Use your bike to efficiently cover more ground, visiting the outer religious landmarks while enjoying the fresh mountain breeze of the Pyrenees.\n(E) Wrap up your cycling adventure in the stunning valleys on the outskirts, where nature provides a spectacular backdrop for the setting sun."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:49",
+      "total_km": 7.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Château de Savignac",
+            "hu": "Château de Savignac",
+            "ro": "Château de Savignac",
+            "en": "Château de Savignac"
+          },
+          "coords": [
+            1.816565,
+            42.729502
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die eindrucksvollen Ruinen dieser historischen Burg, und achten Sie auf den unebenen Wegen auf festes Schuhwerk für Ihre Sicherheit.",
+            "hu": "Fedezze fel e történelmi kastély hangulatos romjait, és vigyázzon az egyenetlen ösvényeken, viseljen kényelmes és biztonságos lábbelit.",
+            "ro": "Explorați ruinele evocatoare ale acestui castel istoric și aveți grijă pe cărările denivelate, purtând încălțăminte adecvată pentru siguranță maximă.",
+            "en": "Explore the evocative ruins of this historic castle, and be careful on the uneven paths while wearing sensible footwear for maximum safety."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Volusien",
+            "hu": "Église Saint-Volusien",
+            "ro": "Église Saint-Volusien",
+            "en": "Église Saint-Volusien"
+          },
+          "coords": [
+            1.815509,
+            42.73002
+          ],
+          "category": "religious",
+          "arrive_at": "10:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie das robuste Mauerwerk dieser mittelalterlichen Kirche, und beachten Sie die kunstvollen Schnitzereien rund um den Haupteingang.",
+            "hu": "Csodálja meg e középkori templom robusztus kőfalait, és figyelje meg a főbejárat körüli bonyolult faragásokat, mielőtt csendben belépne.",
+            "ro": "Admirați zidăria robustă a acestei biserici medievale și observați sculpturile complicate din jurul intrării principale înainte de a păși înăuntru.",
+            "en": "Admire the robust stonework of this medieval church setting, and note the intricate carvings around the main entrance before stepping quietly inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Jérôme",
+            "hu": "Chapelle Saint-Jérôme",
+            "ro": "Chapelle Saint-Jérôme",
+            "en": "Chapelle Saint-Jérôme"
+          },
+          "coords": [
+            1.837048,
+            42.719549
+          ],
+          "category": "museum",
+          "arrive_at": "11:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses faszinierende Museum in einer charmanten Kapelle, und prüfen Sie vorab die saisonal wechselnden Öffnungszeiten.",
+            "hu": "Fedezze fel ezt a lenyűgöző múzeumot, amely egy kápolnában kapott helyet, és ne felejtse el előre ellenőrizni a változó nyitvatartási időt.",
+            "ro": "Explorați acest muzeu fascinant găzduit într-o capelă fermecătoare și asigurați-vă că verificați programul sezonier înainte de a vă planifica vizita.",
+            "en": "Explore this fascinating local museum housed in a charming chapel, and be sure to check the opening hours beforehand as they change by season."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Barthélemy",
+            "hu": "Église Saint-Barthélemy",
+            "ro": "Église Saint-Barthélemy",
+            "en": "Église Saint-Barthélemy"
+          },
+          "coords": [
+            1.840199,
+            42.73182
+          ],
+          "category": "religious",
+          "arrive_at": "13:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie den ruhigen Charme dieser gut erhaltenen Stätte, und bleiben Sie etwas länger, um den Panoramablick vom Hof aus zu genießen.",
+            "hu": "Fedezze fel e gyönyörűen megőrzött vallási hely csendes varázsát, és maradjon még néhány percet, hogy élvezze az udvarról nyíló panorámát.",
+            "ro": "Descoperiți farmecul liniștit al acestui sit religios frumos conservat și zăboviți pentru a vă bucura de priveliștile panoramice din curtea sa.",
+            "en": "Discover the quiet charm of this beautifully preserved religious site, and stay a few minutes extra to enjoy the panoramic views from its courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "La cabane du trône",
+            "hu": "La cabane du trône",
+            "ro": "La cabane du trône",
+            "en": "La cabane du trône"
+          },
+          "coords": [
+            1.860237,
+            42.723209
+          ],
+          "category": "natural",
+          "arrive_at": "13:46",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Ruhen Sie sich an diesem idyllischen Ort in der Berglandschaft aus, und sprechen Sie leise, um vielleicht einige der scheuen Wildtiere zu entdecken.",
+            "hu": "Pihenjen meg ezen a hegyvidéki tájon megbúvó idilli természeti helyen, és tartsa halkan a hangját, hogy esetleg megpillantson néhány vadállatot.",
+            "ro": "Odihniți-vă în acest loc natural idilic ascuns în peisajul montan și vorbiți încet pentru a observa poate câteva dintre animalele sălbatice timide.",
+            "en": "Rest at this idyllic natural spot hidden within the mountainous landscape, and keep your voice low to perhaps spot some of the shy local wildlife."
+          }
+        },
+        {
+          "name": {
+            "de": "Vallée d'Orgeix",
+            "hu": "Vallée d'Orgeix",
+            "ro": "Vallée d'Orgeix",
+            "en": "Vallée d'Orgeix"
+          },
+          "coords": [
+            1.863234,
+            42.713409
+          ],
+          "category": "natural",
+          "arrive_at": "15:04",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Wandern Sie auf den friedlichen Wegen dieses malerischen Tals, und nehmen Sie eine physische Karte mit, da der Handyempfang hier unzuverlässig ist.",
+            "hu": "Túrázzon végig e festői völgy békés ösvényein, és vigyen magával egy fizikai térképet, mivel a mobiltelefon vétele itt meglehetősen megbízhatatlan lehet.",
+            "ro": "Faceți o drumeție pe traseele liniștite ale acestei văi pitorești și asigurați-vă că aveți o hartă fizică, deoarece semnalul mobil este slab aici.",
+            "en": "Hike through the peaceful trails of this scenic valley, and ensure you have a physical map since mobile phone reception can be quite unreliable here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "(M) Fahren Sie direkt zu den mittelalterlichen Ruinen und genießen Sie die Freiheit, die Burgen und historischen Kirchen der Region zu erkunden.\n(MD) Fahren Sie am späten Vormittag ins Zentrum zurück, um im Kapellenmuseum in die lokale Geschichte einzutauchen, bevor der Nachmittagsandrang beginnt.\n(A) Machen Sie eine malerische Fahrt zu den äußeren Gemeinden und schätzen Sie die Landschaften sowie die ruhige Majestät der Landkirchen.\n(E) Verbringen Sie die letzten Stunden mit einer Fahrt in die tiefen Täler, parken Sie bei den Naturwundern und genießen Sie den Sonnenuntergang der Berge.",
+        "hu": "(M) Vezessen egyenesen a pompás középkori romokhoz, élvezve a szabadságot a régió kastélyainak és történelmi templomainak felfedezésében.\n(MD) Késő délelőtt térjen vissza a városközpontba, hogy elmélyedjen a helyi történelemben a kápolnamúzeumban, még a délutáni tömeg érkezése előtt.\n(A) Tegyen egy festői autózást a külső egyházközségek felé, értékelve a tájat és a jól karbantartott vidéki templomok csendes fenségességét.\n(E) Töltse utolsó óráit a mély, érintetlen völgyekbe vezető úton, hogy a magas hegyek feletti naplementében gyönyörködhessen a természeti csodáknál.",
+        "ro": "(M) Conduceți direct către ruinele medievale magnifice, bucurându-vă de libertatea de a explora castelele și bisericile istorice ale regiunii.\n(MD) Întoarceți-vă spre centrul orașului la sfârșitul dimineții pentru a pătrunde în istoria locală la muzeul capelei înainte de aglomerația de după-amiază.\n(A) Faceți o plimbare pitorească spre parohiile exterioare, apreciind peisajele și măreția liniștită a bisericilor de țară foarte bine conservate.\n(E) Petreceți ultimele ore conducând prin văile adânci și imaculate, parcând lângă minunile naturale pentru a admira apusul senin peste munți.",
+        "en": "(M) Drive straight out to the magnificent medieval ruins, enjoying the freedom to explore the robust castles and historical churches of the region.\n(MD) Head back toward the city center by late morning to delve into local history at the chapel museum before the afternoon crowds arrive.\n(A) Take a scenic drive to the outer parishes, appreciating the picturesque landscapes and quiet majesty of the well-preserved countryside churches.\n(E) Spend your final hours driving into the deep pristine valleys, parking near natural wonders to soak in the serene sunset over the high mountains."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "mexico-san-jose-del-cabo-cities-v2",
+  "anchor": {
+    "name": "San José del Cabo",
+    "coords": [
+      -109.695603,
+      23.0621
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:13",
+      "total_km": 2.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Corsica",
+            "hu": "Corsica",
+            "ro": "Corsica",
+            "en": "Corsica"
+          },
+          "coords": [
+            -109.695658,
+            23.062625
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie zeitgenössische mexikanische Kunst in dieser Galerie, die nationale Talente präsentiert, und fragen Sie den Kurator nach neuen Ausstellungen.",
+            "hu": "Csodálja meg a kortárs mexikói művészetet ebben az élénk galériában, amely hazai tehetségeket mutat be, és kérdezze a kurátort az új kiállításokról.",
+            "ro": "Admirați arta mexicană contemporană în această galerie vibrantă care prezintă talente naționale și întrebați curatorul despre expozițiile viitoare.",
+            "en": "Admire contemporary Mexican art in this vibrant gallery space, which showcases top national talent, and ask the curator about upcoming regional exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Bruno Pegoretti Gallery",
+            "hu": "Bruno Pegoretti Gallery",
+            "ro": "Bruno Pegoretti Gallery",
+            "en": "Bruno Pegoretti Gallery"
+          },
+          "coords": [
+            -109.696729,
+            23.062504
+          ],
+          "category": "museum",
+          "arrive_at": "10:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem Boutique-Raum eine beeindruckende Sammlung von Skulpturen und einzigartigen Gemälden, am besten in den ruhigen Morgenstunden.",
+            "hu": "Fedezzen fel lenyűgöző szobrokat és egyedi festményeket ebben a butikgalériában, amelyet leginkább a csendes reggeli órákban érdemes meglátogatni.",
+            "ro": "Explorați o colecție uimitoare de sculpturi fine și picturi unice în acest spațiu cochet, asigurându-vă că îl vizitați în orele liniștite ale dimineții.",
+            "en": "Explore a stunning collection of finely crafted sculptures and unique paintings in this boutique space, making sure to visit during the quiet morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Estuary bird lookout",
+            "hu": "Estuary bird lookout",
+            "ro": "Estuary bird lookout",
+            "en": "Estuary bird lookout"
+          },
+          "coords": [
+            -109.691133,
+            23.057045
+          ],
+          "category": "landmark",
+          "arrive_at": "11:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beobachten Sie von dieser friedlichen Plattform aus vielfältige Zugvögel und die lokale Tierwelt in ihrem natürlichen Lebensraum und bringen Sie Ihr Fernglas mit.",
+            "hu": "Figyeljen meg különféle vándormadarakat és helyi vadon élő állatokat a békés kilátóról, és semmiképp se felejtse el magával hozni a távcsövét.",
+            "ro": "Observați diverse păsări migratoare și fauna locală din acest punct de observare liniștit și nu uitați să vă aduceți binoclul pentru a vedea detaliile.",
+            "en": "Spot diverse migratory birds and local wildlife in their lush natural habitat from this peaceful viewing platform, and don't forget to bring your binoculars."
+          }
+        },
+        {
+          "name": {
+            "de": "Cactus sanctuary",
+            "hu": "Cactus sanctuary",
+            "ro": "Cactus sanctuary",
+            "en": "Cactus sanctuary"
+          },
+          "coords": [
+            -109.695838,
+            23.050869
+          ],
+          "category": "museum",
+          "arrive_at": "12:16",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Wandern Sie zwischen seltenen, riesigen Kakteen, die die Biodiversität der Wüste unterstreichen, und tragen Sie bequeme Schuhe für die sandigen Wege.",
+            "hu": "Sétáljon ritka és hatalmas kaktuszok között, amelyek a sivatag biodiverzitását mutatják be, és viseljen kényelmes cipőt a homokos ösvények miatt.",
+            "ro": "Plimbați-vă printre cactuși rari și colosali care evidențiază biodiversitatea unică a deșertului, purtând încălțăminte confortabilă pe potecile nisipoase.",
+            "en": "Wander among an incredible variety of rare and colossal cacti that highlight the desert's unique biodiversity, wearing comfortable shoes for the sandy paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa Hotelera",
+            "hu": "Playa Hotelera",
+            "ro": "Playa Hotelera",
+            "en": "Playa Hotelera"
+          },
+          "coords": [
+            -109.695078,
+            23.043664
+          ],
+          "category": "recreational",
+          "arrive_at": "13:28",
+          "stay_min": 105,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den weiten goldenen Sandstränden dieses Küstenabschnitts mit dramatischen Wellen, aber achten Sie beim Schwimmen auf die starke Strömung.",
+            "hu": "Pihenjen ezen a gyönyörű, hosszú, aranohomokos partszakaszon, ahol a hullámok látványosak, de fürdésnél ügyeljen az erős tengeráramlatokra.",
+            "ro": "Relaxați-vă pe nisipurile aurii ale acestei frumoase porțiuni de coastă unde valurile sunt dramatice, dar fiți atenți la curenții puternici dacă înotați.",
+            "en": "Relax on the expansive golden sands of this beautiful coastal stretch where the waves are dramatic, but be mindful of the strong undertows if you decide to swim."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen umgeben von inspirierender mexikischer Kunst im historischen Galerieviertel. Gegen Mittag spazieren Sie in Richtung Mündung für friedliche Vogelbeobachtung. Der Nachmittag lädt Sie ein, die einzigartige Wüstenflora zu erkunden, bevor Sie sich schließlich an den weitläufigen goldenen Stränden entspannen.",
+        "hu": "Kezdje a reggelt inspiráló mexikói művészettel a történelmi galérianegyedben. Ahogy közeledik a dél, sétáljon a torkolat felé a madarak megfigyelése és az ökológiai felfedezések érdekében. A délután meghívja Önt az egyedülálló sivatagi flóra felfedezésére, mielőtt végül megpihenne a helyi strandok aranyszínű homokján.",
+        "ro": "Începeți dimineața înconjurat de arta mexicană inspiratoare în cartierul istoric al galeriilor. Spre prânz, plimbați-vă spre estuar pentru observarea pașnică a păsărilor. După-amiaza vă invită să explorați flora deșertică unică, înainte de a vă relaxa în cele din urmă pe nisipurile aurii întinse ale plajelor locale.",
+        "en": "Begin your morning surrounded by inspiring Mexican artistry in the historic gallery district. As midday approaches, wander toward the estuary for peaceful bird watching and ecological discovery. The afternoon invites you to explore the unique desert flora before you finally relax on the expansive golden sands of the local beaches."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:42",
+      "total_km": 4.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bruno Pegoretti Gallery",
+            "hu": "Bruno Pegoretti Gallery",
+            "ro": "Bruno Pegoretti Gallery",
+            "en": "Bruno Pegoretti Gallery"
+          },
+          "coords": [
+            -109.696729,
+            23.062504
+          ],
+          "category": "museum",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem Boutique-Raum eine beeindruckende Sammlung von Skulpturen und einzigartigen Gemälden, am besten in den ruhigen Morgenstunden.",
+            "hu": "Fedezzen fel lenyűgöző szobrokat és egyedi festményeket ebben a butikgalériában, amelyet leginkább a csendes reggeli órákban érdemes meglátogatni.",
+            "ro": "Explorați o colecție uimitoare de sculpturi fine și picturi unice în acest spațiu cochet, asigurându-vă că îl vizitați în orele liniștite ale dimineții.",
+            "en": "Explore a stunning collection of finely crafted sculptures and unique paintings in this boutique space, making sure to visit during the quiet morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Corsica",
+            "hu": "Corsica",
+            "ro": "Corsica",
+            "en": "Corsica"
+          },
+          "coords": [
+            -109.695658,
+            23.062625
+          ],
+          "category": "museum",
+          "arrive_at": "10:11",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie zeitgenössische mexikanische Kunst in dieser Galerie, die nationale Talente präsentiert, und fragen Sie den Kurator nach neuen Ausstellungen.",
+            "hu": "Csodálja meg a kortárs mexikói művészetet ebben az élénk galériában, amely hazai tehetségeket mutat be, és kérdezze a kurátort az új kiállításokról.",
+            "ro": "Admirați arta mexicană contemporană în această galerie vibrantă care prezintă talente naționale și întrebați curatorul despre expozițiile viitoare.",
+            "en": "Admire contemporary Mexican art in this vibrant gallery space, which showcases top national talent, and ask the curator about upcoming regional exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Estuary bird lookout",
+            "hu": "Estuary bird lookout",
+            "ro": "Estuary bird lookout",
+            "en": "Estuary bird lookout"
+          },
+          "coords": [
+            -109.691133,
+            23.057045
+          ],
+          "category": "landmark",
+          "arrive_at": "11:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beobachten Sie von dieser friedlichen Plattform aus vielfältige Zugvögel und die lokale Tierwelt in ihrem natürlichen Lebensraum und bringen Sie Ihr Fernglas mit.",
+            "hu": "Figyeljen meg különféle vándormadarakat és helyi vadon élő állatokat a békés kilátóról, és semmiképp se felejtse el magával hozni a távcsövét.",
+            "ro": "Observați diverse păsări migratoare și fauna locală din acest punct de observare liniștit și nu uitați să vă aduceți binoclul pentru a vedea detaliile.",
+            "en": "Spot diverse migratory birds and local wildlife in their lush natural habitat from this peaceful viewing platform, and don't forget to bring your binoculars."
+          }
+        },
+        {
+          "name": {
+            "de": "Wirikuta",
+            "hu": "Wirikuta",
+            "ro": "Wirikuta",
+            "en": "Wirikuta"
+          },
+          "coords": [
+            -109.679203,
+            23.058858
+          ],
+          "category": "landmark",
+          "arrive_at": "12:03",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen faszinierenden botanischen Garten mit Wüstenpflanzen in mystischen Mustern und planen Sie Ihren Besuch für den kühleren Nachmittag.",
+            "hu": "Fedezze fel ezt a lenyűgöző botanikus kerti labirintust, ahol sivatagi növények misztikus mintái találhatók, és időzítse látogatását a hűvösebb délutánra.",
+            "ro": "Descoperiți această grădină botanică fascinantă, cu plante deșertice aranjate în modele mistice, și programați-vă vizita pentru după-amiaza mai răcoroasă.",
+            "en": "Discover this fascinating botanical garden featuring a vast array of desert plants arranged in mystical patterns, and time your visit for the cooler afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Marina Beach",
+            "hu": "Marina Beach",
+            "ro": "Marina Beach",
+            "en": "Marina Beach"
+          },
+          "coords": [
+            -109.672284,
+            23.058254
+          ],
+          "category": "recreational",
+          "arrive_at": "13:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre und beobachten Sie die Boote im Hafen von dieser sandigen Bucht aus, die sich hervorragend für ein Picknick eignet.",
+            "hu": "Élvezze a nyüzsgő hangulatot és figyelje a hajókat a kikötőben ebből a homokos öbölből, amely kiváló helyszín egy nyugodt, napközbeni piknikhez.",
+            "ro": "Bucurați-vă de atmosfera plină de viață și priviți bărcile în port din acest golf nisipos, care oferă un loc excelent pentru un picnic relaxant la prânz.",
+            "en": "Enjoy the lively atmosphere and watch boats sail in and out of the vibrant marina from this sandy cove, which offers a great spot for a relaxed midday picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "liberacion de tortugas",
+            "hu": "liberacion de tortugas",
+            "ro": "liberacion de tortugas",
+            "en": "liberacion de tortugas"
+          },
+          "coords": [
+            -109.685927,
+            23.048299
+          ],
+          "category": "landmark",
+          "arrive_at": "14:32",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Erleben Sie das herzerwärmende und unvergessliche Ereignis, wie kleine Meeresschildkröten zum Ozean wandern, und kommen Sie früh, um einen guten Platz zu finden.",
+            "hu": "Élje át a tengeri teknősök első óceáni útjának szívmelengető és felejthetetlen élményét, de érkezzen korán, hogy biztosítson magának egy jó megfigyelőhelyet.",
+            "ro": "Experimentați evenimentul emoționant în care puii de țestoasă de mare fac prima lor călătorie spre ocean, ajungând devreme pentru un loc bun.",
+            "en": "Experience the heartwarming and unforgettable event of baby sea turtles making their first journey to the ocean, ideally arriving early to secure a good spot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie durch die lebhaften Kunstgalerien im Zentrum, um Ihren kulturellen Morgen in San José zu beginnen. Fahren Sie mittags zur Flussmündung und zu den üppigen botanischen Gärten. Verbringen Sie den Nachmittag in der lebhaften Hafenatmosphäre und erleben Sie abends die magische Freilassung der Meeresschildkröten am Strand.",
+        "hu": "Tekerjen végig a nyüzsgő belvárosi művészeti galériákon, hogy San José kulturális reggelével kezdje a napot. Délre lovagoljon le a torkolathoz és a botanikus kertekhez. Töltse a délutánt az élénk kikötői hangulat élvezetével, amely egy gyönyörű estébe torkollik a varázslatos tengeri teknősök szabadon engedésével a parton.",
+        "ro": "Pedați prin galeriile de artă vibrante din centrul orașului pentru a vă începe dimineața culturală. Până la prânz, mergeți spre estuar și grădinile botanice luxuriante, unde natura este în centrul atenției. Petreceți după-amiaza bucurându-vă de atmosfera plină de viață a portului, culminând cu o seară frumoasă pe plajă.",
+        "en": "Pedal through the vibrant downtown art galleries to start your cultural morning in San José. By noon, ride down to the estuary and the lush botanical gardens where nature takes center stage. Spend your afternoon enjoying the lively marina atmosphere, culminating in a beautiful evening witnessing the magical sea turtle release on the shore."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:44",
+      "total_km": 12.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cerro de las Chivas",
+            "hu": "Cerro de las Chivas",
+            "ro": "Cerro de las Chivas",
+            "en": "Cerro de las Chivas"
+          },
+          "coords": [
+            -109.714679,
+            23.060636
+          ],
+          "category": "natural",
+          "arrive_at": "09:10",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wandern Sie auf diese malerische natürliche Erhebung, um einen Panoramablick auf die Stadt und die Küste zu genießen, und bringen Sie viel Wasser mit.",
+            "hu": "Másszon fel erre a festői természetes magaslatra, hogy élvezze a városra és a partvonalra nyíló panorámát, és vigyen magával elegendő vizet az útra.",
+            "ro": "Urcați pe această altitudine naturală pitorească pentru vederi panoramice ale orașului și ale coastei și aduceți multă apă pentru ascensiunea moderată.",
+            "en": "Hike up this scenic natural elevation for panoramic views of the city and coastline stretching endlessly, and bring plenty of water for the moderate ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Corsica",
+            "hu": "Corsica",
+            "ro": "Corsica",
+            "en": "Corsica"
+          },
+          "coords": [
+            -109.695658,
+            23.062625
+          ],
+          "category": "museum",
+          "arrive_at": "10:15",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie zeitgenössische mexikanische Kunst in dieser Galerie, die nationale Talente präsentiert, und fragen Sie den Kurator nach neuen Ausstellungen.",
+            "hu": "Csodálja meg a kortárs mexikói művészetet ebben az élénk galériában, amely hazai tehetségeket mutat be, és kérdezze a kurátort az új kiállításokról.",
+            "ro": "Admirați arta mexicană contemporană în această galerie vibrantă care prezintă talente naționale și întrebați curatorul despre expozițiile viitoare.",
+            "en": "Admire contemporary Mexican art in this vibrant gallery space, which showcases top national talent, and ask the curator about upcoming regional exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Estuary bird lookout",
+            "hu": "Estuary bird lookout",
+            "ro": "Estuary bird lookout",
+            "en": "Estuary bird lookout"
+          },
+          "coords": [
+            -109.691133,
+            23.057045
+          ],
+          "category": "landmark",
+          "arrive_at": "11:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beobachten Sie von dieser friedlichen Plattform aus vielfältige Zugvögel und die lokale Tierwelt in ihrem natürlichen Lebensraum und bringen Sie Ihr Fernglas mit.",
+            "hu": "Figyeljen meg különféle vándormadarakat és helyi vadon élő állatokat a békés kilátóról, és semmiképp se felejtse el magával hozni a távcsövét.",
+            "ro": "Observați diverse păsări migratoare și fauna locală din acest punct de observare liniștit și nu uitați să vă aduceți binoclul pentru a vedea detaliile.",
+            "en": "Spot diverse migratory birds and local wildlife in their lush natural habitat from this peaceful viewing platform, and don't forget to bring your binoculars."
+          }
+        },
+        {
+          "name": {
+            "de": "Wirikuta",
+            "hu": "Wirikuta",
+            "ro": "Wirikuta",
+            "en": "Wirikuta"
+          },
+          "coords": [
+            -109.679203,
+            23.058858
+          ],
+          "category": "landmark",
+          "arrive_at": "12:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen faszinierenden botanischen Garten mit Wüstenpflanzen in mystischen Mustern und planen Sie Ihren Besuch für den kühleren Nachmittag.",
+            "hu": "Fedezze fel ezt a lenyűgöző botanikus kerti labirintust, ahol sivatagi növények misztikus mintái találhatók, és időzítse látogatását a hűvösebb délutánra.",
+            "ro": "Descoperiți această grădină botanică fascinantă, cu plante deșertice aranjate în modele mistice, și programați-vă vizita pentru după-amiaza mai răcoroasă.",
+            "en": "Discover this fascinating botanical garden featuring a vast array of desert plants arranged in mystical patterns, and time your visit for the cooler afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Fundadores Beach Club",
+            "hu": "Fundadores Beach Club",
+            "ro": "Fundadores Beach Club",
+            "en": "Fundadores Beach Club"
+          },
+          "coords": [
+            -109.644129,
+            23.068527
+          ],
+          "category": "recreational",
+          "arrive_at": "13:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich stilvoll in diesem exklusiven Strandclub mit unberührtem Zugang zum Meer und erstklassigen Annehmlichkeiten. Reservieren Sie vorab!",
+            "hu": "Pihenjen stílusosan ebben az exkluzív strandklubban, amely prémium kényelmet és óceáni hozzáférést kínál, ezért érdemes előre lefoglalni egy napágyat.",
+            "ro": "Relaxați-vă cu stil la acest club exclusivist pe plajă, care oferă acces impecabil la ocean și facilități premium, rezervând un șezlong în avans.",
+            "en": "Unwind in style at this exclusive beachside retreat featuring pristine ocean access and premium amenities, making it worth reserving a sun lounger in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Estuary Beach",
+            "hu": "Estuary Beach",
+            "ro": "Estuary Beach",
+            "en": "Estuary Beach"
+          },
+          "coords": [
+            -109.680161,
+            23.051363
+          ],
+          "category": "recreational",
+          "arrive_at": "14:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem ruhigen Strandabschnitt, wo der Fluss ins Meer mündet, ideal für ruhige Sonnenuntergangsspaziergänge abseits der Touristenmassen.",
+            "hu": "Sétáljon végig ezen a csendes szakaszon, ahol a folyó a tengerbe torkollik, amely tökéletes, nyugodt környezetet biztosít a naplemente megcsodálásához.",
+            "ro": "Plimbați-vă de-a lungul acestei porțiuni liniștite unde râul se întâlnește cu marea, oferind un mediu senin perfect pentru plimbări la apus de soare.",
+            "en": "Stroll along this quiet stretch where the river meets the sea, providing a serene environment perfect for sunset walks away from the bustling tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "liberacion de tortugas",
+            "hu": "liberacion de tortugas",
+            "ro": "liberacion de tortugas",
+            "en": "liberacion de tortugas"
+          },
+          "coords": [
+            -109.685927,
+            23.048299
+          ],
+          "category": "landmark",
+          "arrive_at": "15:34",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erleben Sie das herzerwärmende und unvergessliche Ereignis, wie kleine Meeresschildkröten zum Ozean wandern, und kommen Sie früh, um einen guten Platz zu finden.",
+            "hu": "Élje át a tengeri teknősök első óceáni útjának szívmelengető és felejthetetlen élményét, de érkezzen korán, hogy biztosítson magának egy jó megfigyelőhelyet.",
+            "ro": "Experimentați evenimentul emoționant în care puii de țestoasă de mare fac prima lor călătorie spre ocean, ajungând devreme pentru un loc bun.",
+            "en": "Experience the heartwarming and unforgettable event of baby sea turtles making their first journey to the ocean, ideally arriving early to secure a good spot."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie früh in die Hügel für atemberaubende Panoramablicke, bevor Sie in die geschäftige Kunstszene hinabsteigen. Am Mittag fahren Sie nahtlos am Ästuar vorbei zu den exklusiven Strandclubs. Am späten Nachmittag lassen Sie Ihr Abenteuer an den abgelegenen östlichen Ufern ausklingen, um einen unvergesslichen Sonnenuntergang zu erleben.",
+        "hu": "Hajtson fel a dombokra korán a lélegzetelállító panorámáért, mielőtt leereszkedne a nyüzsgő művészeti életbe. A dél folyamán a torkolat mellett az exkluzív parti klubok felé vezet az út. Késő délután fejezze be kalandját a félreeső keleti partokon, hogy egy felejthetetlen naplementének legyen szemtanúja.",
+        "ro": "Conduceți devreme pe dealurile naturale pentru vederi panoramice uluitoare înainte de a coborî în scena de artă aglomerată a orașului. Prânzul aduce o călătorie fără probleme pe lângă estuar către cluburile exclusiviste de pe coastă. După-amiaza târziu, încheiați-vă aventura pe țărmurile estice izolate pentru un apus de soare de neuitat.",
+        "en": "Drive up to the natural hills early for breathtaking panoramic views before descending into the town’s bustling art scene. Midday brings a seamless journey past the estuary towards the exclusive beach clubs along the coast. In the late afternoon, wind down your adventure on the secluded eastern shores to witness an unforgettable sunset."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-narni-cities-v2",
+  "anchor": {
+    "name": "Narni",
+    "coords": [
+      12.515138,
+      42.519298
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:10",
+      "total_km": 1.35,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di Santa Maria Impensole",
+            "hu": "Chiesa di Santa Maria Impensole",
+            "ro": "Chiesa di Santa Maria Impensole",
+            "en": "Chiesa di Santa Maria Impensole"
+          },
+          "coords": [
+            12.515249,
+            42.520029
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses romanische Juwel, das über antiken Zisternen erbaut wurde, und bewundern Sie die Skulpturen aus dem 8. Jahrhundert.",
+            "hu": "Fedezze fel ezt az ősi ciszternákra épült román stílusú gyöngyszemet, és csodálja meg a 8. századi szobrokat a reggeli fényben.",
+            "ro": "Descoperiți această bijuterie romanică construită peste cisterne antice și nu ratați sculpturile din secolul al VIII-lea în lumina dimineții.",
+            "en": "Discover this Romanesque gem built over ancient cisterns, and don't miss the 8th-century sculptures best viewed in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Narni Sotterranea",
+            "hu": "Narni Sotterranea",
+            "ro": "Narni Sotterranea",
+            "en": "Narni Sotterranea"
+          },
+          "coords": [
+            12.513848,
+            42.520588
+          ],
+          "category": "museum",
+          "arrive_at": "09:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die erschreckende Geschichte der Inquisition in diesen unterirdischen Zellen und buchen Sie Ihre Führung unbedingt im Voraus.",
+            "hu": "Ismerje meg az inkvizíció hátborzongató történetét ezekben a föld alatti cellákban, és mindenképpen foglalja le a tárlatvezetést előre.",
+            "ro": "Descoperiți istoria înfiorătoare a Inchiziției în aceste celule subterane și asigurați-vă că rezervați turul ghidat cu mult timp înainte.",
+            "en": "Uncover the chilling history of the Inquisition in these underground cells, and be sure to book your guided tour well in advance to secure a spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Eroli, Museo della Città",
+            "hu": "Palazzo Eroli, Museo della Città",
+            "ro": "Palazzo Eroli, Museo della Città",
+            "en": "Palazzo Eroli, Museo della Città"
+          },
+          "coords": [
+            12.514553,
+            42.519083
+          ],
+          "category": "museum",
+          "arrive_at": "11:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie Ghirlandaios atemberaubendes Altarbild in diesem aristokratischen Palast und nehmen Sie sich Zeit für die archäologische Abteilung.",
+            "hu": "Csodálja meg Ghirlandaio lenyűgöző oltárképét ebben az arisztokrata palotában, és hagyjon időt a lenyűgöző régészeti részleg felfedezésére is.",
+            "ro": "Admirați altarul impresionant al lui Ghirlandaio în acest palat aristocratic și lăsați-vă timp pentru a explora secțiunea arheologică fascinantă.",
+            "en": "Admire Ghirlandaio’s stunning altarpiece in this grand aristocratic palace, and leave extra time to explore the fascinating archaeological section."
+          }
+        },
+        {
+          "name": {
+            "de": "Cattedrale di San Giovenale",
+            "hu": "Cattedrale di San Giovenale",
+            "ro": "Cattedrale di San Giovenale",
+            "en": "Cattedrale di San Giovenale"
+          },
+          "coords": [
+            12.515515,
+            42.517951
+          ],
+          "category": "religious",
+          "arrive_at": "13:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die aufwendigen Kosmaten-Böden und den Schrein des Schutzpatrons, aber denken Sie an angemessene Kleidung beim Betreten.",
+            "hu": "Csodálja meg a bonyolult kozmata padlót és a védőszent szentélyét, de ne feledjen szerény öltözéket viselni a katedrálisba lépve.",
+            "ro": "Admirați podelele cosmatești și altarul sfântului patron al orașului, dar amintiți-vă să vă îmbrăcați decent când intrați în catedrală.",
+            "en": "Marvel at the intricate Cosmatesque floors and the sacred shrine of Narni's patron saint, but remember to dress modestly when entering the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Sant'Agostino",
+            "hu": "Chiesa di Sant'Agostino",
+            "ro": "Chiesa di Sant'Agostino",
+            "en": "Chiesa di Sant'Agostino"
+          },
+          "coords": [
+            12.516941,
+            42.519802
+          ],
+          "category": "religious",
+          "arrive_at": "14:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Betrachten Sie die atemberaubenden Fresken aus dem 15. Jahrhundert und achten Sie besonders auf die feinen Details an den Kapellendecken.",
+            "hu": "Nézze meg az e falak között őrzött 15. századi freskókat, és vizsgálja meg a kápolna mennyezetét a finom részletek megcsodálásához.",
+            "ro": "Observați frescele uimitoare din secolul al XV-lea și priviți cu atenție tavanele capelelor pentru a aprecia detaliile fine ale picturii.",
+            "en": "Check out the stunning 15th-century frescoes preserved within these walls, and look closely at the chapel ceilings to appreciate the fine details."
+          }
+        },
+        {
+          "name": {
+            "de": "Bridge of Augustus",
+            "hu": "Bridge of Augustus",
+            "ro": "Bridge of Augustus",
+            "en": "Bridge of Augustus"
+          },
+          "coords": [
+            12.514531,
+            42.525043
+          ],
+          "category": "landmark",
+          "arrive_at": "15:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Gehen Sie zum Fluss hinunter, um die massiven Überreste dieser römischen Brücke zu sehen, die ein perfektes Fotomotiv am späten Nachmittag bieten.",
+            "hu": "Sétáljon le a folyóhoz, hogy megnézze e római híd hatalmas maradványait, amely tökéletes hátteret nyújt a késő délutáni fotózáshoz.",
+            "ro": "Coborâți la râu pentru a vedea rămășițele masive ale acestui pod roman, care oferă un fundal perfect pentru fotografii după-amiaza.",
+            "en": "Walk down to the river to see the massive remains of this Roman bridge, which offers a perfect backdrop for photography in the late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens beginnen Sie in Santa Maria Impensole und erkunden dann die Geheimnisse der Narni Sotterranea.\n\nMittags tauchen Sie im Palazzo Eroli in die Kunst ein, bevor Sie die majestätische Cattedrale di San Giovenale bewundern.\n\nNachmittags betrachten Sie die alten Fresken in der Chiesa di Sant'Agostino im schönen Licht.\n\nAbends beenden Sie Ihre Tour bei den Ruinen der Augustusbrücke.",
+        "hu": "Reggel kezdje a Santa Maria Impensolénél, majd fedezze fel a Narni Sotterranea kísérteties föld alatti titkait.\n\nDélben merüljön el a művészetben a Palazzo Eroliban, mielőtt megcsodálná a fenséges Cattedrale di San Giovenalét.\n\nDélután tekintse meg az ősi freskókat a Chiesa di Sant'Agostinóban.\n\nEste fejezze be sétáját az Augustus-híd kolosszális római romjainál.",
+        "ro": "Dimineața începeți la Santa Maria Impensole, apoi explorați secretele subterane uluitoare de la Narni Sotterranea.\n\nLa amiază, admirați arta la Palazzo Eroli înainte de a vizita maiestuoasa Catedrală San Giovenale.\n\nDupă-amiaza, contemplați frescele vechi de la Chiesa di Sant'Agostino în lumina blândă.\n\nSeara, încheiați turul la ruinele colosale ale Podului lui Augustus.",
+        "en": "Morning starts at Santa Maria Impensole, followed by exploring the haunting underground secrets at Narni Sotterranea.\n\nMidday invites you to dive into art at Palazzo Eroli before admiring the majestic Cattedrale di San Giovenale.\n\nAfternoon views of the ancient frescoes at Chiesa di Sant'Agostino are magical.\n\nEvening concludes your walking tour by descending to the colossal ruins of the Bridge of Augustus."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:47",
+      "total_km": 3.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Abbazia di San Cassiano",
+            "hu": "Abbazia di San Cassiano",
+            "ro": "Abbazia di San Cassiano",
+            "en": "Abbazia di San Cassiano"
+          },
+          "coords": [
+            12.508338,
+            42.524079
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick auf Narni von dieser befestigten Benediktinerabtei und tragen Sie feste Schuhe für den leicht unebenen Zugang.",
+            "hu": "Élvezze a Narnira nyíló panorámát ebből az erődített bencés apátságból, és viseljen masszív cipőt a kissé egyenetlen megközelítéshez.",
+            "ro": "Bucurați-vă de vederea panoramică asupra orașului de la această abație benedictină fortificată și purtați încălțăminte rezistentă pentru acces.",
+            "en": "Enjoy panoramic views of Narni from this fortified Benedictine abbey, and wear sturdy shoes for the slightly rugged approach to the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Bridge of Augustus",
+            "hu": "Bridge of Augustus",
+            "ro": "Bridge of Augustus",
+            "en": "Bridge of Augustus"
+          },
+          "coords": [
+            12.514531,
+            42.525043
+          ],
+          "category": "landmark",
+          "arrive_at": "09:53",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Gehen Sie zum Fluss hinunter, um die massiven Überreste dieser römischen Brücke zu sehen, die ein perfektes Fotomotiv am späten Nachmittag bieten.",
+            "hu": "Sétáljon le a folyóhoz, hogy megnézze e római híd hatalmas maradványait, amely tökéletes hátteret nyújt a késő délutáni fotózáshoz.",
+            "ro": "Coborâți la râu pentru a vedea rămășițele masive ale acestui pod roman, care oferă un fundal perfect pentru fotografii după-amiaza.",
+            "en": "Walk down to the river to see the massive remains of this Roman bridge, which offers a perfect backdrop for photography in the late afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Cattedrale di San Giovenale",
+            "hu": "Cattedrale di San Giovenale",
+            "ro": "Cattedrale di San Giovenale",
+            "en": "Cattedrale di San Giovenale"
+          },
+          "coords": [
+            12.515515,
+            42.517951
+          ],
+          "category": "religious",
+          "arrive_at": "10:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die aufwendigen Kosmaten-Böden und den Schrein des Schutzpatrons, aber denken Sie an angemessene Kleidung beim Betreten.",
+            "hu": "Csodálja meg a bonyolult kozmata padlót és a védőszent szentélyét, de ne feledjen szerény öltözéket viselni a katedrálisba lépve.",
+            "ro": "Admirați podelele cosmatești și altarul sfântului patron al orașului, dar amintiți-vă să vă îmbrăcați decent când intrați în catedrală.",
+            "en": "Marvel at the intricate Cosmatesque floors and the sacred shrine of Narni's patron saint, but remember to dress modestly when entering the cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Narni Sotterranea",
+            "hu": "Narni Sotterranea",
+            "ro": "Narni Sotterranea",
+            "en": "Narni Sotterranea"
+          },
+          "coords": [
+            12.513848,
+            42.520588
+          ],
+          "category": "museum",
+          "arrive_at": "11:29",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die erschreckende Geschichte der Inquisition in diesen unterirdischen Zellen und buchen Sie Ihre Führung unbedingt im Voraus.",
+            "hu": "Ismerje meg az inkvizíció hátborzongató történetét ezekben a föld alatti cellákban, és mindenképpen foglalja le a tárlatvezetést előre.",
+            "ro": "Descoperiți istoria înfiorătoare a Inchiziției în aceste celule subterane și asigurați-vă că rezervați turul ghidat cu mult timp înainte.",
+            "en": "Uncover the chilling history of the Inquisition in these underground cells, and be sure to book your guided tour well in advance to secure a spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello di San Girolamo",
+            "hu": "Castello di San Girolamo",
+            "ro": "Castello di San Girolamo",
+            "en": "Castello di San Girolamo"
+          },
+          "coords": [
+            12.523851,
+            42.51836
+          ],
+          "category": "castle",
+          "arrive_at": "13:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese imposante Festung, die einst die Stadt bewachte, und bringen Sie Wasser mit, während Sie die steilen Wege hinaufsteigen.",
+            "hu": "Fedezze fel ezt az impozáns hegyoldali erődítményt, amely egykor a várost őrizte, és vigyen magával vizet a meredek ösvények bejárásához.",
+            "ro": "Explorați această fortăreață impunătoare care păzea odinioară orașul și aduceți apă pentru a vă hidrata în timp ce urcați pe potecile abrupte.",
+            "en": "Explore this imposing hillside fortress that once guarded the city, bringing water to stay hydrated while you navigate the steep pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "SAM - Street Art Museum",
+            "hu": "SAM - Street Art Museum",
+            "ro": "SAM - Street Art Museum",
+            "en": "SAM - Street Art Museum"
+          },
+          "coords": [
+            12.52095,
+            42.514139
+          ],
+          "category": "museum",
+          "arrive_at": "14:37",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Kontrastieren Sie die antike Stadt mit lebendiger Street Art und fragen Sie die Kuratoren nach den verborgenen Geschichten hinter den Wandbildern.",
+            "hu": "Hasonlítsa össze az ősi várost a kortárs utcai művészettel, és kérdezze a kurátorokat a hatalmas falfestmények mögötti rejtett történetekről.",
+            "ro": "Contrastați orașul antic cu arta stradală contemporană și întrebați curatorii despre poveștile ascunse în spatele fiecărei picturi murale.",
+            "en": "Contrast the ancient town with vibrant contemporary street art, and ask the local curators about the hidden stories behind each massive mural."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens radeln Sie zur befestigten Abbazia di San Cassiano für den Panoramablick und besuchen dann die Augustusbrücke.\n\nMittags kehren Sie ins Zentrum zurück für die Cattedrale und eine Führung durch Narni Sotterranea.\n\nNachmittags treten Sie in die Pedale zum Castello di San Girolamo, um mittelalterliche Geschichte zu erkunden.\n\nAbends endet der Tag überraschend modern im Street Art Museum.",
+        "hu": "Reggel tekerjen el az erődített Abbazia di San Cassianóhoz a kilátásért, majd látogassa meg az Augustus-hidat.\n\nDélben térjen vissza a központba a Cattedrale megtekintésére és a Narni Sotterranea bejárására.\n\nDélután pedálozzon fel az impozáns Castello di San Girolamóhoz a középkori történelem felfedezéséhez.\n\nEste a napot egy meglepően modern vizuális élménnyel zárja a Street Art Museumban.",
+        "ro": "Dimineața pedalați spre Abația fortificată San Cassiano pentru priveliști panoramice, apoi vizitați Podul lui Augustus.\n\nLa amiază, întoarceți-vă în centru pentru Catedrală și un tur fascinant la Narni Sotterranea.\n\nDupă-amiaza, urcați la impunătorul Castello di San Girolamo pentru a explora istoria medievală.\n\nSeara, încheiați ziua cu o explozie surprinzătoare de creativitate la Street Art Museum.",
+        "en": "Morning sees you cycling out to the fortified Abbazia di San Cassiano for panoramic views, then visiting the Bridge of Augustus.\n\nMidday has you returning to the center for the Cattedrale and a fascinating tour of Narni Sotterranea.\n\nAfternoon invites you to pedal up to Castello di San Girolamo to explore medieval history.\n\nEvening finishes the day with modern creativity at the Street Art Museum."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:25",
+      "total_km": 4.35,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Eremo di Santa Betta",
+            "hu": "Eremo di Santa Betta",
+            "ro": "Eremo di Santa Betta",
+            "en": "Eremo di Santa Betta"
+          },
+          "coords": [
+            12.498653,
+            42.502977
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Machen Sie in dieser abgelegenen Einsiedelei im Wald eine Zeitreise und verhalten Sie sich ruhig, um die spirituelle Atmosphäre zu respektieren.",
+            "hu": "Lépjen vissza az időben ebben az erdőben megbúvó elszigetelt remeteségben, és maradjon csendben, hogy tiszteletben tartsa a spirituális légkört.",
+            "ro": "Întoarceți-vă în timp la acest schit izolat din pădure și păstrați o atitudine tăcută pentru a respecta atmosfera profund spirituală.",
+            "en": "Step back in time at this secluded hermitage nestled in the woods, and maintain a quiet demeanor to respect the deeply spiritual atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Gole di Narni - Stifone",
+            "hu": "Gole di Narni - Stifone",
+            "ro": "Gole di Narni - Stifone",
+            "en": "Gole di Narni - Stifone"
+          },
+          "coords": [
+            12.506969,
+            42.507056
+          ],
+          "category": "natural",
+          "arrive_at": "10:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang des atemberaubenden türkisfarbenen Wassers der Nera-Schlucht und bringen Sie Insektenschutzmittel für eine angenehme Wanderung mit.",
+            "hu": "Sétáljon a Nera folyó szurdokának lélegzetelállító türkizkék vize mentén, és vigyen magával rovarriasztót a kényelmes természetjáráshoz.",
+            "ro": "Plimbați-vă de-a lungul apelor turcoaz uluitoare ale defileului râului Nera și aduceți repelent pentru insecte pentru o drumeție confortabilă.",
+            "en": "Walk along the breathtaking turquoise waters of the Nera river gorge, and bring insect repellent for a comfortable nature hike near the banks."
+          }
+        },
+        {
+          "name": {
+            "de": "Narni Sotterranea",
+            "hu": "Narni Sotterranea",
+            "ro": "Narni Sotterranea",
+            "en": "Narni Sotterranea"
+          },
+          "coords": [
+            12.513848,
+            42.520588
+          ],
+          "category": "museum",
+          "arrive_at": "11:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie die erschreckende Geschichte der Inquisition in diesen unterirdischen Zellen und buchen Sie Ihre Führung unbedingt im Voraus.",
+            "hu": "Ismerje meg az inkvizíció hátborzongató történetét ezekben a föld alatti cellákban, és mindenképpen foglalja le a tárlatvezetést előre.",
+            "ro": "Descoperiți istoria înfiorătoare a Inchiziției în aceste celule subterane și asigurați-vă că rezervați turul ghidat cu mult timp înainte.",
+            "en": "Uncover the chilling history of the Inquisition in these underground cells, and be sure to book your guided tour well in advance to secure a spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Palazzo Eroli, Museo della Città",
+            "hu": "Palazzo Eroli, Museo della Città",
+            "ro": "Palazzo Eroli, Museo della Città",
+            "en": "Palazzo Eroli, Museo della Città"
+          },
+          "coords": [
+            12.514553,
+            42.519083
+          ],
+          "category": "museum",
+          "arrive_at": "13:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie Ghirlandaios atemberaubendes Altarbild in diesem aristokratischen Palast und nehmen Sie sich Zeit für die archäologische Abteilung.",
+            "hu": "Csodálja meg Ghirlandaio lenyűgöző oltárképét ebben az arisztokrata palotában, és hagyjon időt a lenyűgöző régészeti részleg felfedezésére is.",
+            "ro": "Admirați altarul impresionant al lui Ghirlandaio în acest palat aristocratic și lăsați-vă timp pentru a explora secțiunea arheologică fascinantă.",
+            "en": "Admire Ghirlandaio’s stunning altarpiece in this grand aristocratic palace, and leave extra time to explore the fascinating archaeological section."
+          }
+        },
+        {
+          "name": {
+            "de": "Castello di San Girolamo",
+            "hu": "Castello di San Girolamo",
+            "ro": "Castello di San Girolamo",
+            "en": "Castello di San Girolamo"
+          },
+          "coords": [
+            12.523851,
+            42.51836
+          ],
+          "category": "castle",
+          "arrive_at": "15:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese imposante Festung, die einst die Stadt bewachte, und bringen Sie Wasser mit, während Sie die steilen Wege hinaufsteigen.",
+            "hu": "Fedezze fel ezt az impozáns hegyoldali erődítményt, amely egykor a várost őrizte, és vigyen magával vizet a meredek ösvények bejárásához.",
+            "ro": "Explorați această fortăreață impunătoare care păzea odinioară orașul și aduceți apă pentru a vă hidrata în timp ce urcați pe potecile abrupte.",
+            "en": "Explore this imposing hillside fortress that once guarded the city, bringing water to stay hydrated while you navigate the steep pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Il Bastione",
+            "hu": "Il Bastione",
+            "ro": "Il Bastione",
+            "en": "Il Bastione"
+          },
+          "coords": [
+            12.52443,
+            42.510748
+          ],
+          "category": "historical",
+          "arrive_at": "16:35",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses massive Verteidigungsbauwerk der militärischen Renaissance-Architektur und klettern Sie für einen tollen Talblick nach oben.",
+            "hu": "Csodálja meg ezt a reneszánsz hadmérnöki munkát képviselő hatalmas védművet, és másszon fel a tetejére a lenyűgöző völgyre nyíló kilátásért.",
+            "ro": "Admirați această structură defensivă masivă reprezentând ingineria militară renascentistă și urcați în vârf pentru o vedere impresionantă a văii.",
+            "en": "Marvel at this massive defensive structure representing Renaissance military engineering, and climb to the top for an impressive valley overlook."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens fahren Sie zur Eremo di Santa Betta, bevor Sie an den türkisfarbenen Wassern der Gole di Narni spazieren.\n\nMittags geht es in die Stadt, um die Geheimnisse der Narni Sotterranea und die Kunst des Palazzo Eroli zu entdecken.\n\nNachmittags unternehmen Sie eine kurze Fahrt zu den robusten Hangverteidigungen des Castello di San Girolamo.\n\nAbends beschließen Sie den Trip am Il Bastione mit Blick auf die Landschaft.",
+        "hu": "Reggel vezessen az eldugott Eremo di Santa Bettához, majd barangoljon a Gole di Narni türkizkék vizei mentén.\n\nDélben induljon a városba, hogy felfedezze a Narni Sotterranea rejtélyeit és a Palazzo Eroli művészetét.\n\nDélután tegyen egy rövid utat a Castello di San Girolamo robusztus hegyoldali védműveihez.\n\nEste zárja az utazást az Il Bastione felfedezésével, és élvezze az umbriai tájra nyíló kilátást.",
+        "ro": "Dimineața conduceți spre izolatul Eremo di Santa Betta înainte de a vă plimba pe lângă apele turcoaz de la Gole di Narni.\n\nLa amiază, mergeți în oraș pentru a descoperi misterele de la Narni Sotterranea și arta de la Palazzo Eroli.\n\nDupă-amiaza, faceți o scurtă călătorie până la fortificațiile robuste de pe deal de la Castello di San Girolamo.\n\nSeara, încheiați excursia explorând Il Bastione, bucurându-vă de priveliști superbe la amurg.",
+        "en": "Morning begins with a drive to the secluded Eremo di Santa Betta before wandering along the stunning turquoise waters of Gole di Narni.\n\nMidday takes you into the city to uncover the mysteries of Narni Sotterranea and the art of Palazzo Eroli.\n\nAfternoon invites a short drive up to the robust hillside defenses of Castello di San Girolamo.\n\nEvening concludes your trip exploring Il Bastione, enjoying beautiful twilight views over the Umbrian landscape."
+      }
+    }
+  }
+}

@@ -1,0 +1,543 @@
+{
+  "city_id": "france-le-chateau-d-oleron-cities-v2",
+  "anchor": {
+    "name": "Le Château-d'Oléron",
+    "coords": [
+      -1.19533,
+      45.88661
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:30",
+      "total_km": 2.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus von Le Château-d'Oléron",
+            "hu": "Le Château-d'Oléron Városháza",
+            "ro": "Primăria din Le Château-d'Oléron",
+            "en": "Town Hall of Le Château-d'Oléron"
+          },
+          "coords": [
+            -1.19516,
+            45.885616
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur dieses historischen Rathauses im Zentrum, das die lokale Geschichte prägt, und kommen Sie morgens, wenn das Licht ideal für Fotos ist.",
+            "hu": "Csodálja meg a központban található történelmi városháza klasszikus építészetét, amely meghatározza a helyi történelmet, és érkezzen kora reggel a tökéletes fotók kedvéért.",
+            "ro": "Admirați arhitectura clasică a acestei primării istorice din centru, care definește istoria locală, și veniți dimineața devreme, când lumina este ideală pentru fotografii.",
+            "en": "Admire the classic architecture of this historic town hall in the center, which defines local history, and arrive early in the morning when the lighting is perfect for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Himmelfahrt",
+            "hu": "Nagyboldogasszony-templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of Our Lady of the Assumption"
+          },
+          "coords": [
+            -1.196633,
+            45.888552
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.34,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese charmante Kirche wegen ihrer wunderschönen Buntglasfenster und der friedlichen Atmosphäre, während Sie bei einem Spaziergang die feinen Details beachten.",
+            "hu": "Látogassa meg ezt a bájos templomot a gyönyörű ólomüveg ablakai és a békés légköre miatt, miközben csendben sétálva megfigyeli a finom építészeti részleteket.",
+            "ro": "Vizitați această biserică fermecătoare pentru vitraliile sale superbe și atmosfera pașnică, făcând o plimbare liniștită pentru a observa detaliile arhitecturale fine.",
+            "en": "Visit this charming church for its beautiful stained glass windows and peaceful atmosphere, taking a quiet walk around to observe the fine architectural details carefully."
+          }
+        },
+        {
+          "name": {
+            "de": "Bunte Austernfischerhütten",
+            "hu": "Színes osztrigahalász-kunyhók",
+            "ro": "Cabanele colorate ale pescarilor de stridii",
+            "en": "Colorful oyster farmer huts"
+          },
+          "coords": [
+            -1.194541,
+            45.884196
+          ],
+          "category": "landmark",
+          "arrive_at": "11:23",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.51,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die lebhaften, bunten Hütten, in denen lokale Künstler und Austernzüchter arbeiten, und probieren Sie unbedingt frische Austern in einem der kleinen Stände.",
+            "hu": "Sétáljon végig az élénk, színes kunyhók között, ahol helyi művészek és osztrigatenyésztők dolgoznak, és mindenképpen kóstolja meg a friss osztrigát az egyik kis bódénál.",
+            "ro": "Plimbați-vă printre cabanele vii și colorate unde lucrează artiști locali și cultivatori de stridii, și asigurați-vă că gustați stridii proaspete la unul dintre standuri.",
+            "en": "Stroll through the vibrant, colorful huts where local artists and oyster farmers work, and make sure to taste fresh oysters at one of the small authentic local stands."
+          }
+        },
+        {
+          "name": {
+            "de": "Zitadelle von Château d'Oléron",
+            "hu": "Château d'Oléron fellegvára",
+            "ro": "Citadela Château d'Oléron",
+            "en": "Citadel of Château d'Oléron"
+          },
+          "coords": [
+            -1.189328,
+            45.885009
+          ],
+          "category": "castle",
+          "arrive_at": "11:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.41,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese massive historische Festung, die atemberaubende Ausblicke auf den Ozean bietet, und tragen Sie bequeme Schuhe, da das Gelände oft uneben und weitläufig ist.",
+            "hu": "Fedezze fel ezt a hatalmas történelmi erődítményt, amely lenyűgöző kilátást nyújt az óceánra, és viseljen kényelmes cipőt, mivel a terep gyakran egyenetlen és hatalmas.",
+            "ro": "Explorați această fortăreață istorică masivă care oferă vederi uimitoare asupra oceanului și purtați încălțăminte confortabilă, deoarece terenul este adesea denivelat și vast.",
+            "en": "Explore this massive historic fortress that offers stunning ocean views, and wear comfortable walking shoes as the terrain is often uneven and quite expansive to navigate."
+          }
+        },
+        {
+          "name": {
+            "de": "Abfahrt des kleinen Zuges",
+            "hu": "A kisvonat indulási pontja",
+            "ro": "Punctul de plecare al trenulețului",
+            "en": "Departure of the Little Train"
+          },
+          "coords": [
+            -1.19005,
+            45.884075
+          ],
+          "category": "landmark",
+          "arrive_at": "13:36",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Genießen Sie eine entspannte Fahrt mit dem kleinen Zug, der Ihnen einen perfekten Überblick über die Stadt bietet, und kaufen Sie Ihr Ticket im Voraus, um lange Wartezeiten zu vermeiden.",
+            "hu": "Élvezze a pihentető utazást a kisvonattal, amely tökéletes áttekintést nyújt a városról, és vásárolja meg a jegyét előre, hogy elkerülje a hosszú várakozási időt a főszezonban.",
+            "ro": "Bucurați-vă de o plimbare relaxantă cu trenulețul, care vă oferă o privire de ansamblu perfectă asupra orașului, și cumpărați-vă biletul în avans pentru a evita cozile lungi.",
+            "en": "Enjoy a relaxing ride on the little train, which gives you a perfect overview of the town, and buy your ticket in advance to avoid long waiting times during the peak season."
+          }
+        },
+        {
+          "name": {
+            "de": "Bunte Strandhütten",
+            "hu": "Színes tengerparti kabinok",
+            "ro": "Cabane colorate pe plajă",
+            "en": "Colorful beach cabins"
+          },
+          "coords": [
+            -1.195789,
+            45.890531
+          ],
+          "category": "landmark",
+          "arrive_at": "14:14",
+          "stay_min": 25,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.84,
+          "tip_5lang": {
+            "de": "Entdecken Sie die farbenfrohen Strandhütten, die der Küste einen malerischen Charme verleihen, und nutzen Sie die Gelegenheit für ein Picknick direkt am nahegelegenen Strandbereich.",
+            "hu": "Fedezze fel a tengerpart festői báját adó színes kabinokat, és használja ki a lehetőséget egy kellemes piknikre közvetlenül a közeli homokos strandterületen.",
+            "ro": "Descoperiți cabanele colorate de pe plajă care adaugă un farmec pitoresc coastei și profitați de ocazie pentru un picnic chiar în zona de plajă din apropiere.",
+            "en": "Discover the colorful beach cabins that add a picturesque charm to the coastline, and take the opportunity to enjoy a lovely picnic right on the nearby sandy beach area."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Plage du Mail",
+            "hu": "Plage du Mail tengerpart",
+            "ro": "Plaja Plage du Mail",
+            "en": "Plage du Mail beach"
+          },
+          "coords": [
+            -1.198471,
+            45.893568
+          ],
+          "category": "recreational",
+          "arrive_at": "14:45",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.39,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem ruhigen Sandstrand, der ideal zum Schwimmen und Sonnenbaden ist, und bringen Sie Sonnencreme sowie Wasser mit, da es kaum Schattenplätze gibt.",
+            "hu": "Pihenjen ezen a csendes homokos strandon, amely ideális úszáshoz és napozáshoz, és hozzon magával naptejet, valamint vizet, mivel a területen alig van árnyékos rész.",
+            "ro": "Relaxați-vă pe această plajă liniștită cu nisip, ideală pentru înot și plajă, și aduceți cremă de protecție solară, precum și apă, deoarece locurile umbrite sunt destul de rare.",
+            "en": "Relax on this quiet sandy beach which is ideal for swimming and sunbathing, and bring sunscreen along with plenty of water since shaded spots are quite scarce in the area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen am zentralen Rathaus und der Kirche, wo Sie die historische Atmosphäre des Stadtkerns aufsaugen. Mittags schlendern Sie zu den bunten Austernhütten für einen frischen Snack. Der Nachmittag gehört der gewaltigen Zitadelle und einer Fahrt mit dem kleinen Zug. Abends entspannen Sie an den bunten Strandhütten und am Plage du Mail bei einem Spaziergang im Sand.",
+        "hu": "Kezdje a reggelt a központi városházánál és a templomnál, magába szívva a városközpont történelmi hangulatát. Délben sétáljon el a színes osztrigakunyhókhoz egy friss, tengeri harapnivalóért. A délután a hatalmas fellegváré és egy élvezetes kisvonatozásé. Este pihenjen meg a tengerparti színes kabinoknál és a Plage du Mail strandon egy kellemes, homokos sétával.",
+        "ro": "Începeți dimineața la primăria centrală și la biserică, absorbind atmosfera istorică a centrului orașului. La prânz, plimbați-vă spre cabanele colorate de stridii pentru o gustare proaspătă. După-amiaza aparține citadelei masive și unei plimbări relaxante cu trenulețul. Seara, relaxați-vă la cabanele colorate de pe plajă și la Plage du Mail cu o plimbare pe nisip.",
+        "en": "Start your morning at the central town hall and the church, soaking up the historical atmosphere of the town center. At midday, stroll to the colorful oyster huts for a fresh seafood snack. The afternoon is dedicated to exploring the massive citadel and enjoying a ride on the little train. In the evening, relax by the colorful beach cabins and the Plage du Mail with a walk in the sand."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:10",
+      "total_km": 2.94,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Mühle Picotelle",
+            "hu": "Picotelle szélmalom",
+            "ro": "Moara Picotelle",
+            "en": "Picotelle Windmill"
+          },
+          "coords": [
+            -1.207164,
+            45.886418
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese gut erhaltene historische Windmühle, die ein großartiges Beispiel lokaler Handwerkskunst ist, und spazieren Sie bei Sonnenuntergang um das Gelände herum.",
+            "hu": "Csodálja meg ezt a jól megőrzött történelmi szélmalmot, amely a helyi kézművesség nagyszerű példája, és sétáljon egyet a területen naplemente idején a szép fényekért.",
+            "ro": "Admirați această moară de vânt istorică bine conservată, care este un exemplu excelent de meșteșug local, și faceți o plimbare în jurul sitului la apusul soarelui.",
+            "en": "Admire this well-preserved historic windmill which is a great example of local craftsmanship, and take a stroll around the site during sunset for the most beautiful lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Alte Mühle",
+            "hu": "Régi szélmalom",
+            "ro": "Moara veche",
+            "en": "Old Windmill"
+          },
+          "coords": [
+            -1.203671,
+            45.88683
+          ],
+          "category": "landmark",
+          "arrive_at": "09:36",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die alte Mühle als ein charmantes Relikt der landwirtschaftlichen Vergangenheit der Insel, und kombinieren Sie den Besuch mit einer kurzen Radtour in der Umgebung.",
+            "hu": "Tekintse meg a régi szélmalmot, mint a sziget mezőgazdasági múltjának bájos emlékét, és kösse össze a látogatást egy rövid, kellemes kerékpártúrával a festői környéken.",
+            "ro": "Vizitați vechea moară ca o relicvă fermecătoare a trecutului agricol al insulei, și combinați vizita cu o scurtă plimbare cu bicicleta în zona pitorească din jur.",
+            "en": "Visit the old windmill as a charming relic of the island's agricultural past, and combine your visit with a short, pleasant bike ride in the scenic surrounding countryside."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Himmelfahrt",
+            "hu": "Nagyboldogasszony-templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of Our Lady of the Assumption"
+          },
+          "coords": [
+            -1.196633,
+            45.888552
+          ],
+          "category": "religious",
+          "arrive_at": "10:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.57,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese charmante Kirche wegen ihrer wunderschönen Buntglasfenster und der friedlichen Atmosphäre, während Sie bei einem Spaziergang die feinen Details beachten.",
+            "hu": "Látogassa meg ezt a bájos templomot a gyönyörű ólomüveg ablakai és a békés légköre miatt, miközben csendben sétálva megfigyeli a finom építészeti részleteket.",
+            "ro": "Vizitați această biserică fermecătoare pentru vitraliile sale superbe și atmosfera pașnică, făcând o plimbare liniștită pentru a observa detaliile arhitecturale fine.",
+            "en": "Visit this charming church for its beautiful stained glass windows and peaceful atmosphere, taking a quiet walk around to observe the fine architectural details carefully."
+          }
+        },
+        {
+          "name": {
+            "de": "Bunte Austernfischerhütten",
+            "hu": "Színes osztrigahalász-kunyhók",
+            "ro": "Cabanele colorate ale pescarilor de stridii",
+            "en": "Colorful oyster farmer huts"
+          },
+          "coords": [
+            -1.194541,
+            45.884196
+          ],
+          "category": "landmark",
+          "arrive_at": "10:47",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.51,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die lebhaften, bunten Hütten, in denen lokale Künstler und Austernzüchter arbeiten, und probieren Sie unbedingt frische Austern in einem der kleinen Stände.",
+            "hu": "Sétáljon végig az élénk, színes kunyhók között, ahol helyi művészek és osztrigatenyésztők dolgoznak, és mindenképpen kóstolja meg a friss osztrigát az egyik kis bódénál.",
+            "ro": "Plimbați-vă printre cabanele vii și colorate unde lucrează artiști locali și cultivatori de stridii, și asigurați-vă că gustați stridii proaspete la unul dintre standuri.",
+            "en": "Stroll through the vibrant, colorful huts where local artists and oyster farmers work, and make sure to taste fresh oysters at one of the small authentic local stands."
+          }
+        },
+        {
+          "name": {
+            "de": "Zitadelle von Château d'Oléron",
+            "hu": "Château d'Oléron fellegvára",
+            "ro": "Citadela Château d'Oléron",
+            "en": "Citadel of Château d'Oléron"
+          },
+          "coords": [
+            -1.189328,
+            45.885009
+          ],
+          "category": "castle",
+          "arrive_at": "11:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.41,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese massive historische Festung, die atemberaubende Ausblicke auf den Ozean bietet, und tragen Sie bequeme Schuhe, da das Gelände oft uneben und weitläufig ist.",
+            "hu": "Fedezze fel ezt a hatalmas történelmi erődítményt, amely lenyűgöző kilátást nyújt az óceánra, és viseljen kényelmes cipőt, mivel a terep gyakran egyenetlen és hatalmas.",
+            "ro": "Explorați această fortăreață istorică masivă care oferă vederi uimitoare asupra oceanului și purtați încălțăminte confortabilă, deoarece terenul este adesea denivelat și vast.",
+            "en": "Explore this massive historic fortress that offers stunning ocean views, and wear comfortable walking shoes as the terrain is often uneven and quite expansive to navigate."
+          }
+        },
+        {
+          "name": {
+            "de": "Bunte Strandhütten",
+            "hu": "Színes tengerparti kabinok",
+            "ro": "Cabane colorate pe plajă",
+            "en": "Colorful beach cabins"
+          },
+          "coords": [
+            -1.195789,
+            45.890531
+          ],
+          "category": "landmark",
+          "arrive_at": "12:58",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.79,
+          "tip_5lang": {
+            "de": "Entdecken Sie die farbenfrohen Strandhütten, die der Küste einen malerischen Charme verleihen, und nutzen Sie die Gelegenheit für ein Picknick direkt am nahegelegenen Strandbereich.",
+            "hu": "Fedezze fel a tengerpart festői báját adó színes kabinokat, és használja ki a lehetőséget egy kellemes piknikre közvetlenül a közeli homokos strandterületen.",
+            "ro": "Descoperiți cabanele colorate de pe plajă care adaugă un farmec pitoresc coastei și profitați de ocazie pentru un picnic chiar în zona de plajă din apropiere.",
+            "en": "Discover the colorful beach cabins that add a picturesque charm to the coastline, and take the opportunity to enjoy a lovely picnic right on the nearby sandy beach area."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Plage du Mail",
+            "hu": "Plage du Mail tengerpart",
+            "ro": "Plaja Plage du Mail",
+            "en": "Plage du Mail beach"
+          },
+          "coords": [
+            -1.198471,
+            45.893568
+          ],
+          "category": "recreational",
+          "arrive_at": "13:25",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.39,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem ruhigen Sandstrand, der ideal zum Schwimmen und Sonnenbaden ist, und bringen Sie Sonnencreme sowie Wasser mit, da es kaum Schattenplätze gibt.",
+            "hu": "Pihenjen ezen a csendes homokos strandon, amely ideális úszáshoz és napozáshoz, és hozzon magával naptejet, valamint vizet, mivel a területen alig van árnyékos rész.",
+            "ro": "Relaxați-vă pe această plajă liniștită cu nisip, ideală pentru înot și plajă, și aduceți cremă de protecție solară, precum și apă, deoarece locurile umbrite sunt destul de rare.",
+            "en": "Relax on this quiet sandy beach which is ideal for swimming and sunbathing, and bring sunscreen along with plenty of water since shaded spots are quite scarce in the area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen startet sportlich an den alten Windmühlen, bevor Sie zur zentralen Kirche radeln. Mittags erreichen Sie die malerischen Austernhütten für eine wohlverdiente Pause am Wasser. Am Nachmittag erkunden Sie die imposante Festungsanlage der Zitadelle in Ihrem eigenen Tempo. Zum Tagesabschluss fahren Sie entspannt zu den Strandhütten und lassen den Abend am Plage du Mail ausklingen.",
+        "hu": "A reggel sportosan indul a régi szélmalmoknál, mielőtt a központi templomhoz kerekezne. Délben érje el a festői osztrigakunyhókat egy jól megérdemelt pihenőre a vízparton. Délután fedezze fel a fellegvár impozáns erődítményrendszerét a saját tempójában. A nap végén tekerjen el lazán a tengerparti kabinokhoz, és zárja az estét a Plage du Mail homokos partján.",
+        "ro": "Dimineața începe sportiv la vechile mori de vânt înainte de a pedala spre biserica centrală. La prânz, ajungeți la cabanele pitorești de stridii pentru o pauză binemeritată la malul apei. După-amiaza, explorați fortificația impresionantă a citadelei în propriul ritm. La sfârșitul zilei, mergeți cu bicicleta la cabanele de pe plajă și încheiați seara la Plage du Mail.",
+        "en": "The morning starts actively at the old windmills before you cycle to the central church. At midday, reach the picturesque oyster huts for a well-deserved break by the water. In the afternoon, explore the impressive fortifications of the citadel at your own pace. To end the day, take a relaxing ride to the beach cabins and let the evening fade away at Plage du Mail."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:58",
+      "total_km": 3.14,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Zitadelle von Château d'Oléron",
+            "hu": "Château d'Oléron fellegvára",
+            "ro": "Citadela Château d'Oléron",
+            "en": "Citadel of Château d'Oléron"
+          },
+          "coords": [
+            -1.189328,
+            45.885009
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese massive historische Festung, die atemberaubende Ausblicke auf den Ozean bietet, und tragen Sie bequeme Schuhe, da das Gelände oft uneben und weitläufig ist.",
+            "hu": "Fedezze fel ezt a hatalmas történelmi erődítményt, amely lenyűgöző kilátást nyújt az óceánra, és viseljen kényelmes cipőt, mivel a terep gyakran egyenetlen és hatalmas.",
+            "ro": "Explorați această fortăreață istorică masivă care oferă vederi uimitoare asupra oceanului și purtați încălțăminte confortabilă, deoarece terenul este adesea denivelat și vast.",
+            "en": "Explore this massive historic fortress that offers stunning ocean views, and wear comfortable walking shoes as the terrain is often uneven and quite expansive to navigate."
+          }
+        },
+        {
+          "name": {
+            "de": "Bunte Austernfischerhütten",
+            "hu": "Színes osztrigahalász-kunyhók",
+            "ro": "Cabanele colorate ale pescarilor de stridii",
+            "en": "Colorful oyster farmer huts"
+          },
+          "coords": [
+            -1.194541,
+            45.884196
+          ],
+          "category": "landmark",
+          "arrive_at": "10:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.41,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die lebhaften, bunten Hütten, in denen lokale Künstler und Austernzüchter arbeiten, und probieren Sie unbedingt frische Austern in einem der kleinen Stände.",
+            "hu": "Sétáljon végig az élénk, színes kunyhók között, ahol helyi művészek és osztrigatenyésztők dolgoznak, és mindenképpen kóstolja meg a friss osztrigát az egyik kis bódénál.",
+            "ro": "Plimbați-vă printre cabanele vii și colorate unde lucrează artiști locali și cultivatori de stridii, și asigurați-vă că gustați stridii proaspete la unul dintre standuri.",
+            "en": "Stroll through the vibrant, colorful huts where local artists and oyster farmers work, and make sure to taste fresh oysters at one of the small authentic local stands."
+          }
+        },
+        {
+          "name": {
+            "de": "Rathaus von Le Château-d'Oléron",
+            "hu": "Le Château-d'Oléron Városháza",
+            "ro": "Primăria din Le Château-d'Oléron",
+            "en": "Town Hall of Le Château-d'Oléron"
+          },
+          "coords": [
+            -1.19516,
+            45.885616
+          ],
+          "category": "historical",
+          "arrive_at": "11:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Architektur dieses historischen Rathauses im Zentrum, das die lokale Geschichte prägt, und kommen Sie morgens, wenn das Licht ideal für Fotos ist.",
+            "hu": "Csodálja meg a központban található történelmi városháza klasszikus építészetét, amely meghatározza a helyi történelmet, és érkezzen kora reggel a tökéletes fotók kedvéért.",
+            "ro": "Admirați arhitectura clasică a acestei primării istorice din centru, care definește istoria locală, și veniți dimineața devreme, când lumina este ideală pentru fotografii.",
+            "en": "Admire the classic architecture of this historic town hall in the center, which defines local history, and arrive early in the morning when the lighting is perfect for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Mariä Himmelfahrt",
+            "hu": "Nagyboldogasszony-templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of Our Lady of the Assumption"
+          },
+          "coords": [
+            -1.196633,
+            45.888552
+          ],
+          "category": "religious",
+          "arrive_at": "12:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.34,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese charmante Kirche wegen ihrer wunderschönen Buntglasfenster und der friedlichen Atmosphäre, während Sie bei einem Spaziergang die feinen Details beachten.",
+            "hu": "Látogassa meg ezt a bájos templomot a gyönyörű ólomüveg ablakai és a békés légköre miatt, miközben csendben sétálva megfigyeli a finom építészeti részleteket.",
+            "ro": "Vizitați această biserică fermecătoare pentru vitraliile sale superbe și atmosfera pașnică, făcând o plimbare liniștită pentru a observa detaliile arhitecturale fine.",
+            "en": "Visit this charming church for its beautiful stained glass windows and peaceful atmosphere, taking a quiet walk around to observe the fine architectural details carefully."
+          }
+        },
+        {
+          "name": {
+            "de": "Mühle Picotelle",
+            "hu": "Picotelle szélmalom",
+            "ro": "Moara Picotelle",
+            "en": "Picotelle Windmill"
+          },
+          "coords": [
+            -1.207164,
+            45.886418
+          ],
+          "category": "landmark",
+          "arrive_at": "13:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.84,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese gut erhaltene historische Windmühle, die ein großartiges Beispiel lokaler Handwerkskunst ist, und spazieren Sie bei Sonnenuntergang um das Gelände herum.",
+            "hu": "Csodálja meg ezt a jól megőrzött történelmi szélmalmot, amely a helyi kézművesség nagyszerű példája, és sétáljon egyet a területen naplemente idején a szép fényekért.",
+            "ro": "Admirați această moară de vânt istorică bine conservată, care este un exemplu excelent de meșteșug local, și faceți o plimbare în jurul sitului la apusul soarelui.",
+            "en": "Admire this well-preserved historic windmill which is a great example of local craftsmanship, and take a stroll around the site during sunset for the most beautiful lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Bunte Strandhütten",
+            "hu": "Színes tengerparti kabinok",
+            "ro": "Cabane colorate pe plajă",
+            "en": "Colorful beach cabins"
+          },
+          "coords": [
+            -1.195789,
+            45.890531
+          ],
+          "category": "landmark",
+          "arrive_at": "13:47",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.99,
+          "tip_5lang": {
+            "de": "Entdecken Sie die farbenfrohen Strandhütten, die der Küste einen malerischen Charme verleihen, und nutzen Sie die Gelegenheit für ein Picknick direkt am nahegelegenen Strandbereich.",
+            "hu": "Fedezze fel a tengerpart festői báját adó színes kabinokat, és használja ki a lehetőséget egy kellemes piknikre közvetlenül a közeli homokos strandterületen.",
+            "ro": "Descoperiți cabanele colorate de pe plajă care adaugă un farmec pitoresc coastei și profitați de ocazie pentru un picnic chiar în zona de plajă din apropiere.",
+            "en": "Discover the colorful beach cabins that add a picturesque charm to the coastline, and take the opportunity to enjoy a lovely picnic right on the nearby sandy beach area."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Plage du Mail",
+            "hu": "Plage du Mail tengerpart",
+            "ro": "Plaja Plage du Mail",
+            "en": "Plage du Mail beach"
+          },
+          "coords": [
+            -1.198471,
+            45.893568
+          ],
+          "category": "recreational",
+          "arrive_at": "14:13",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.39,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem ruhigen Sandstrand, der ideal zum Schwimmen und Sonnenbaden ist, und bringen Sie Sonnencreme sowie Wasser mit, da es kaum Schattenplätze gibt.",
+            "hu": "Pihenjen ezen a csendes homokos strandon, amely ideális úszáshoz és napozáshoz, és hozzon magával naptejet, valamint vizet, mivel a területen alig van árnyékos rész.",
+            "ro": "Relaxați-vă pe această plajă liniștită cu nisip, ideală pentru înot și plajă, și aduceți cremă de protecție solară, precum și apă, deoarece locurile umbrite sunt destul de rare.",
+            "en": "Relax on this quiet sandy beach which is ideal for swimming and sunbathing, and bring sunscreen along with plenty of water since shaded spots are quite scarce in the area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag an der gewaltigen Zitadelle und erkunden Sie die umfangreichen Verteidigungsanlagen. Mittags fahren Sie in den Ortskern, um die Kirche, das historische Rathaus und die Austernhütten zu besuchen. Der Nachmittag führt Sie zur charmanten Mühle Picotelle am Rande der Stadt. Abends parken Sie in der Nähe der bunten Strandhütten und genießen den Sonnenuntergang am Plage du Mail.",
+        "hu": "Kezdje a napot a hatalmas fellegvárnál, és fedezze fel a kiterjedt védelmi rendszereket. Délben vezessen a városközpontba, hogy megnézze a templomot, a történelmi városházát és az osztrigakunyhókat. A délután a város szélén található bájos Picotelle szélmalomhoz vezet. Este parkoljon le a színes tengerparti kabinok közelében, és élvezze a naplementét a Plage du Mail strandon.",
+        "ro": "Începeți ziua la citadela masivă și explorați sistemele de apărare extinse. La prânz, conduceți spre centrul orașului pentru a vizita biserica, primăria istorică și cabanele de stridii. După-amiaza vă conduce la fermecătoarea moară Picotelle de la marginea orașului. Seara, parcați lângă cabanele colorate de pe plajă și bucurați-vă de apusul soarelui la Plage du Mail.",
+        "en": "Start your day at the massive citadel and explore the extensive defensive systems. At midday, drive to the town center to visit the church, the historic town hall, and the vibrant oyster huts. The afternoon takes you to the charming Picotelle windmill on the edge of town. In the evening, park near the colorful beach cabins and enjoy the beautiful sunset at Plage du Mail."
+      }
+    }
+  }
+}

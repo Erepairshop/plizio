@@ -1,0 +1,474 @@
+{
+  "city_id": "city-mafra",
+  "anchor": {
+    "name": "Mafra",
+    "coords": [
+      -9.3273,
+      38.9411
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:17",
+      "total_km": 2.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Câmara Municipal de Mafra",
+            "hu": "Câmara Municipal de Mafra",
+            "ro": "Câmara Municipal de Mafra",
+            "en": "Câmara Municipal de Mafra"
+          },
+          "coords": [
+            -9.332011,
+            38.940989
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Architektur des Rathauses, ein Symbol der lokalen Verwaltung, und nutzen Sie den Platz für großartige Fotos im Morgenlicht.",
+            "hu": "Csodálja meg a városháza történelmi építészetét, a helyi közigazgatás szimbólumát, és készítsen nagyszerű fotókat a téren a reggeli fényekben.",
+            "ro": "Admirați arhitectura istorică a primăriei, un simbol al administrației locale, și faceți fotografii excelente în piața centrală la lumina dimineții.",
+            "en": "Admire the historic architecture of the town hall, a symbol of local governance, and step into the nearby square for excellent photos in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditorio Municipal Beatriz Costa",
+            "hu": "Auditorio Municipal Beatriz Costa",
+            "ro": "Auditorio Municipal Beatriz Costa",
+            "en": "Auditorio Municipal Beatriz Costa"
+          },
+          "coords": [
+            -9.328788,
+            38.940111
+          ],
+          "category": "cultural",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie kulturelle Veranstaltungen in diesem modernen, Beatriz Costa gewidmeten Auditorium und fragen Sie an der Kasse nach freien Ausstellungen.",
+            "hu": "Fedezze fel a Beatriz Costa nevét viselő modern nézőtér kulturális eseményeit, és érdeklődjön a jegypénztárnál a foyer ingyenes kiállításairól.",
+            "ro": "Explorați evenimentele culturale de la acest auditoriu modern dedicat lui Beatriz Costa și întrebați la casierie despre expozițiile gratuite din foaier.",
+            "en": "Check out the cultural events hosted at this modern auditorium dedicated to Beatriz Costa, and ask the box office about free exhibitions in the foyer."
+          }
+        },
+        {
+          "name": {
+            "de": "Pelourinho de Mafra",
+            "hu": "Pelourinho de Mafra",
+            "ro": "Pelourinho de Mafra",
+            "en": "Pelourinho de Mafra"
+          },
+          "coords": [
+            -9.333069,
+            38.937888
+          ],
+          "category": "landmark",
+          "arrive_at": "11:22",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Betrachten Sie die kunstvollen Details dieses alten Prangers der historischen Justiz und nehmen Sie sich Zeit für das traditionelle Kopfsteinpflaster.",
+            "hu": "Vizsgálja meg e történelmi igazságszolgáltatást jelképező ősi pellengér finom részleteit, és gyönyörködjön a környező hagyományos macskaköves térben.",
+            "ro": "Examinați detaliile complicate ale acestui stâlp al infamiei, un simbol al justiției istorice, și bucurați-vă de pietruitul tradițional din jur.",
+            "en": "Inspect the intricate details of this ancient pillory, representing historic justice, and take a moment to enjoy the surrounding traditional cobblestones."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja de Santo André",
+            "hu": "Igreja de Santo André",
+            "ro": "Igreja de Santo André",
+            "en": "Igreja de Santo André"
+          },
+          "coords": [
+            -9.337719,
+            38.936491
+          ],
+          "category": "religious",
+          "arrive_at": "11:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betreten Sie diese friedliche Kirche, um ihre schönen Altarbilder zu würdigen, aber denken Sie an angemessene Kleidung und sprechen Sie leise.",
+            "hu": "Lépjen be ebbe a békés vallási helyszínbe a gyönyörű oltárképek megcsodálásához, de ügyeljen a visszafogott öltözködésre és a csendes beszédre.",
+            "ro": "Pășiți în acest lăcaș de cult pașnic pentru a admira altarele sale frumoase, dar amintiți-vă să purtați o ținută decentă și să vorbiți încet.",
+            "en": "Step into this peaceful religious site to appreciate its beautiful altarpieces, but remember to dress modestly and speak quietly during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Nacional da Música",
+            "hu": "Museu Nacional da Música",
+            "ro": "Museu Nacional da Música",
+            "en": "Museu Nacional da Música"
+          },
+          "coords": [
+            -9.326887,
+            38.937484
+          ],
+          "category": "museum",
+          "arrive_at": "12:47",
+          "stay_min": 100,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie eine der bedeutendsten Musikinstrumentensammlungen Europas und achten Sie auf die seltenen, von Stradivari gefertigten Celli.",
+            "hu": "Fedezze fel Európa egyik legjelentősebb hangszergyűjteményét, és mindenképpen keresse meg a ritka, Stradivari által készített csellókat.",
+            "ro": "Explorați una dintre cele mai importante colecții de instrumente muzicale din Europa și căutați violoncelele rare din secolul al XVIII-lea.",
+            "en": "Explore one of Europe's most significant collections of musical instruments, and look out for the rare 18th-century cellos crafted by Stradivari."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardim do Cerco",
+            "hu": "Jardim do Cerco",
+            "ro": "Jardim do Cerco",
+            "en": "Jardim do Cerco"
+          },
+          "coords": [
+            -9.323238,
+            38.937244
+          ],
+          "category": "park",
+          "arrive_at": "14:32",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie in den königlichen Gärten mit barocken Brunnen und bringen Sie ein kleines Picknick mit, um es auf dem gepflegten Rasen zu genießen.",
+            "hu": "Pihenjen meg a gyönyörű barokk szökőkutakkal díszített királyi kertekben, és hozzon magával egy kis pikniket a gondozott pázsit árnyékos részeire.",
+            "ro": "Relaxați-vă în aceste grădini regale cu fântâni baroce și aduceți un mic picnic pentru a-l savura pe peluzele îngrijite de la umbra copacilor.",
+            "en": "Relax in these expansive royal gardens featuring beautiful Baroque fountains, and bring a small picnic to enjoy on the manicured lawns under the shade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im historischen Herzen von Mafra und lassen Sie die Kultur und das prachtvolle Rathaus auf sich wirken. Mittags können Sie lokale Denkmäler und ruhige religiöse Stätten erkunden. Der Nachmittag ist dem faszinierenden Musikmuseum gewidmet, ein Muss für Kulturliebhaber. Lassen Sie den Abend bei einem friedlichen Spaziergang in den weitläufigen königlichen Gärten ausklingen.",
+        "hu": "Kezdje a reggelt Mafra történelmi szívében, a városháza és a helyi kultúra felfedezésével. A déli órákban helyi műemlékek és békés templomok hívogatnak. A délutánt Európa egyik legcsodálatosabb hangszermúzeumában töltheti. Zárja a napot egy nyugodt esti sétával a lenyűgöző királyi kertekben, élvezve a természet közelségét.",
+        "ro": "Începeți dimineața în inima istorică a orașului, admirând primăria și atmosfera culturală. La prânz, explorați monumentele locale și un lăcaș de cult liniștit. După-amiaza este dedicată unuia dintre cele mai magnifice muzee de muzică din Europa. Încheiați-vă seara cu o plimbare pașnică pe aleile frumoaselor grădini regale.",
+        "en": "Begin your morning at the historic heart, taking in the grand town hall and lively cultural vibes. Midday invites you to explore local monuments and serene religious sites. The afternoon is dedicated to the magnificent national music museum, offering profound heritage. Conclude your evening with a peaceful stroll among the fountains of the royal gardens."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:08",
+      "total_km": 5.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Cavalo Livre",
+            "hu": "Cavalo Livre",
+            "ro": "Cavalo Livre",
+            "en": "Cavalo Livre"
+          },
+          "coords": [
+            -9.330354,
+            38.941342
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses markante, der Freiheit gewidmete Reitermonument und besuchen Sie es bei Sonnenuntergang für eine dramatische Silhouette.",
+            "hu": "Tekintse meg ezt a szabadságnak szentelt lenyűgöző lovas emlékművet, és látogasson el naplementekor a drámai fotós sziluettek megörökítéséhez.",
+            "ro": "Priviți acest monument ecvestru impresionant dedicat libertății și încercați să-l vizitați la apus pentru o siluetă fotografică cu adevărat dramatică.",
+            "en": "View this striking equestrian monument dedicated to freedom, and try to visit when the sun sets behind it for a truly dramatic photographic silhouette."
+          }
+        },
+        {
+          "name": {
+            "de": "Pelourinho de Mafra",
+            "hu": "Pelourinho de Mafra",
+            "ro": "Pelourinho de Mafra",
+            "en": "Pelourinho de Mafra"
+          },
+          "coords": [
+            -9.333069,
+            38.937888
+          ],
+          "category": "landmark",
+          "arrive_at": "10:33",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Betrachten Sie die kunstvollen Details dieses alten Prangers der historischen Justiz und nehmen Sie sich Zeit für das traditionelle Kopfsteinpflaster.",
+            "hu": "Vizsgálja meg e történelmi igazságszolgáltatást jelképező ősi pellengér finom részleteit, és gyönyörködjön a környező hagyományos macskaköves térben.",
+            "ro": "Examinați detaliile complicate ale acestui stâlp al infamiei, un simbol al justiției istorice, și bucurați-vă de pietruitul tradițional din jur.",
+            "en": "Inspect the intricate details of this ancient pillory, representing historic justice, and take a moment to enjoy the surrounding traditional cobblestones."
+          }
+        },
+        {
+          "name": {
+            "de": "Jardim do Cerco",
+            "hu": "Jardim do Cerco",
+            "ro": "Jardim do Cerco",
+            "en": "Jardim do Cerco"
+          },
+          "coords": [
+            -9.323238,
+            38.937244
+          ],
+          "category": "park",
+          "arrive_at": "11:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie in den königlichen Gärten mit barocken Brunnen und bringen Sie ein kleines Picknick mit, um es auf dem gepflegten Rasen zu genießen.",
+            "hu": "Pihenjen meg a gyönyörű barokk szökőkutakkal díszített királyi kertekben, és hozzon magával egy kis pikniket a gondozott pázsit árnyékos részeire.",
+            "ro": "Relaxați-vă în aceste grădini regale cu fântâni baroce și aduceți un mic picnic pentru a-l savura pe peluzele îngrijite de la umbra copacilor.",
+            "en": "Relax in these expansive royal gardens featuring beautiful Baroque fountains, and bring a small picnic to enjoy on the manicured lawns under the shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte da Ribeira Alva",
+            "hu": "Forte da Ribeira Alva",
+            "ro": "Forte da Ribeira Alva",
+            "en": "Forte da Ribeira Alva"
+          },
+          "coords": [
+            -9.327451,
+            38.957642
+          ],
+          "category": "historical",
+          "arrive_at": "12:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese gut erhaltene Verteidigungsanlage aus dem Halbinselkrieg und tragen Sie feste Schuhe für das unebene Gelände um das Fort.",
+            "hu": "Fedezze fel ezt a jól megőrzött védelmi építményt a félszigeti háborúból, és viseljen masszív cipőt az erőd körüli egyenetlen terep bejárásához.",
+            "ro": "Descoperiți această structură defensivă din Războiul Peninsular și purtați încălțăminte robustă pentru a naviga pe terenul accidentat din jurul fortului.",
+            "en": "Discover this well-preserved defensive structure from the Peninsular War, and wear sturdy shoes to navigate the uneven terrain surrounding the fort."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte do Samoco",
+            "hu": "Forte do Samoco",
+            "ro": "Forte do Samoco",
+            "en": "Forte do Samoco"
+          },
+          "coords": [
+            -9.322603,
+            38.963576
+          ],
+          "category": "historical",
+          "arrive_at": "13:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Wandern Sie zu dieser militärischen Schanze mit herrlichem Blick auf das Tal und packen Sie eine Windjacke ein, da es auf dem Gipfel sehr windig wird.",
+            "hu": "Túrázzon fel erre a stratégiai katonai sánchoz, ahonnan pazar kilátás nyílik a völgyre, és csomagoljon széldzsekit az erős szél miatt.",
+            "ro": "Urcați spre această redută militară strategică cu vedere panoramică asupra văii și luați o jachetă de vânt, deoarece este briza puternică sus.",
+            "en": "Hike up to this strategic military redoubt offering commanding views of the valley, and pack a windbreaker as it gets very breezy at the summit."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte da Murgeira",
+            "hu": "Forte da Murgeira",
+            "ro": "Forte da Murgeira",
+            "en": "Forte da Murgeira"
+          },
+          "coords": [
+            -9.321103,
+            38.965533
+          ],
+          "category": "historical",
+          "arrive_at": "15:18",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie an dieser wichtigen Befestigung der Linien von Torres Vedras in die Geschichte ein und lesen Sie die Plaketten über die französischen Invasionen.",
+            "hu": "Merüljön el a helyi történelemben a Torres Vedras-vonalak e kulcsfontosságú erődjénél, és olvassa el a francia inváziót bemutató táblákat.",
+            "ro": "Cufundați-vă în istoria locală la această fortificație cheie a Liniilor Torres Vedras și citiți plăcile informative despre invaziile franceze.",
+            "en": "Immerse yourself in local history at this key fortification of the Lines of Torres Vedras, and read the informative plaques detailing the French invasions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Tag, indem Sie die Denkmäler im Zentrum von Mafra bewundern und sich im üppigen Garten entspannen. Gegen Mittag radeln Sie nordwärts zu den rauen Landschaften und Tälern. Verbringen Sie den Nachmittag damit, zwischen den historischen Verteidigungsanlagen zu pendeln. Die Abendsonne wirft lange Schatten über Murgeira und beendet Ihre spannende Fahrt.",
+        "hu": "Kezdje a napot Mafra központjának emlékműveivel, majd pihenjen meg a buja kertekben. Ahogy közeledik a dél, kerékpározzon észak felé, a vadregényesebb tájak felé. A délutánt a történelmi védelmi erődök felfedezésével és a közöttük lévő tekeréssel töltheti. Az esti naplemente hosszú árnyékokat vet Murgeirára, tökéletes lezárásként.",
+        "ro": "Începeți-vă ziua admirând monumentele din centrul Mafrei și relaxându-vă în grădinile verzi. Când se apropie prânzul, pedalați spre nord, spre peisajele accidentate. Petreceți după-amiaza vizitând forturile defensive istorice care au protejat regiunea. Soarele de seară aruncă umbre lungi peste Murgeira, marcând finalul cursei.",
+        "en": "Kick off your day admiring central Mafra's monuments and relaxing in the lush Jardim do Cerco. As midday approaches, pedal northwards to the rugged landscapes. Spend the afternoon hopping between historic defensive forts built against invasions. The evening sun casts long dramatic shadows over Murgeira, ending your ride."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:16",
+      "total_km": 8.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Aldeia Típica de José Franco",
+            "hu": "Aldeia Típica de José Franco",
+            "ro": "Aldeia Típica de José Franco",
+            "en": "Aldeia Típica de José Franco"
+          },
+          "coords": [
+            -9.35279,
+            38.959637
+          ],
+          "category": "family",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch dieses charmante Tondorf, das das traditionelle portugiesische Leben zeigt, und kaufen Sie frisches Brot in der rustikalen Bäckerei.",
+            "hu": "Sétáljon végig ezen a hagyományos portugál életet bemutató agyagfalun, és vásároljon frissen sült kenyeret a helyszíni rusztikus pékségben.",
+            "ro": "Plimbați-vă prin acest fermecător sat în miniatură care prezintă viața portugheză tradițională și cumpărați pâine proaspătă de la brutăria rustică.",
+            "en": "Wander through this charming miniature clay village showcasing traditional Portuguese life, and buy some freshly baked bread from the on-site rustic bakery."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Nacional da Música",
+            "hu": "Museu Nacional da Música",
+            "ro": "Museu Nacional da Música",
+            "en": "Museu Nacional da Música"
+          },
+          "coords": [
+            -9.326887,
+            38.937484
+          ],
+          "category": "museum",
+          "arrive_at": "10:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie eine der bedeutendsten Musikinstrumentensammlungen Europas und achten Sie auf die seltenen, von Stradivari gefertigten Celli.",
+            "hu": "Fedezze fel Európa egyik legjelentősebb hangszergyűjteményét, és mindenképpen keresse meg a ritka, Stradivari által készített csellókat.",
+            "ro": "Explorați una dintre cele mai importante colecții de instrumente muzicale din Europa și căutați violoncelele rare din secolul al XVIII-lea.",
+            "en": "Explore one of Europe's most significant collections of musical instruments, and look out for the rare 18th-century cellos crafted by Stradivari."
+          }
+        },
+        {
+          "name": {
+            "de": "Câmara Municipal de Mafra",
+            "hu": "Câmara Municipal de Mafra",
+            "ro": "Câmara Municipal de Mafra",
+            "en": "Câmara Municipal de Mafra"
+          },
+          "coords": [
+            -9.332011,
+            38.940989
+          ],
+          "category": "historical",
+          "arrive_at": "12:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Architektur des Rathauses, ein Symbol der lokalen Verwaltung, und nutzen Sie den Platz für großartige Fotos im Morgenlicht.",
+            "hu": "Csodálja meg a városháza történelmi építészetét, a helyi közigazgatás szimbólumát, és készítsen nagyszerű fotókat a téren a reggeli fényekben.",
+            "ro": "Admirați arhitectura istorică a primăriei, un simbol al administrației locale, și faceți fotografii excelente în piața centrală la lumina dimineții.",
+            "en": "Admire the historic architecture of the town hall, a symbol of local governance, and step into the nearby square for excellent photos in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte do Juncal",
+            "hu": "Forte do Juncal",
+            "ro": "Forte do Juncal",
+            "en": "Forte do Juncal"
+          },
+          "coords": [
+            -9.309892,
+            38.940407
+          ],
+          "category": "historical",
+          "arrive_at": "13:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die grasbewachsenen Erdwälle dieses historischen Forts und bleiben Sie auf den markierten Wegen, um das empfindliche Gelände zu schützen.",
+            "hu": "Fedezze fel e történelmi erőd füves sáncait, és szigorúan maradjon a kijelölt ösvényeken, hogy megóvja a törékeny és védett régészeti területet.",
+            "ro": "Explorați fortificațiile din pământ acoperite de iarbă și rămâneți pe cărările marcate pentru a proteja acest sit istoric fragil și important.",
+            "en": "Explore the grassy earthworks of this historical fort, part of the legendary defensive lines, and stick to the marked paths to protect the fragile site."
+          }
+        },
+        {
+          "name": {
+            "de": "Forte do Sonivel",
+            "hu": "Forte do Sonivel",
+            "ro": "Forte do Sonivel",
+            "en": "Forte do Sonivel"
+          },
+          "coords": [
+            -9.294305,
+            38.946022
+          ],
+          "category": "historical",
+          "arrive_at": "15:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Stehen Sie, wo Soldaten einst Lissabon gegen Napoleons Armee verteidigten, und bringen Sie ein Fernglas mit, um die weiten Sichtlinien zu würdigen.",
+            "hu": "Álljon ott, ahol egykor Napóleon serege ellen védték Lisszabont, és hozzon távcsövet a dombokon átívelő pazar kilátás teljes kiélvezéséhez.",
+            "ro": "Stați acolo unde soldații au apărat Lisabona împotriva armatei lui Napoleon și aduceți binoclul pentru a aprecia liniile de vizibilitate.",
+            "en": "Stand where soldiers once defended Lisbon against Napoleon's army, and bring binoculars to fully appreciate the extensive sightlines across the hills."
+          }
+        },
+        {
+          "name": {
+            "de": "Tapada Nacional de Mafra",
+            "hu": "Tapada Nacional de Mafra",
+            "ro": "Tapada Nacional de Mafra",
+            "en": "Tapada Nacional de Mafra"
+          },
+          "coords": [
+            -9.296534,
+            38.952877
+          ],
+          "category": "landmark",
+          "arrive_at": "16:31",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Durchstreifen Sie die ehemaligen königlichen Jagdgründe voller Hirsche und Wildschweine und buchen Sie vorab eine geführte Elektrofahrzeug-Tour.",
+            "hu": "Kóboroljon a szarvasokkal és vaddisznókkal teli egykori királyi vadászterületen, és foglaljon előre vezetett elektromos autós túrát a kényelemért.",
+            "ro": "Cutreierați fostele terenuri de vânătoare regale pline de căprioare și mistreți și rezervați în avans un tur cu vehicul electric ghidat.",
+            "en": "Roam the former royal hunting grounds teeming with deer and wild boar, and book a guided electric vehicle tour in advance for a relaxed experience."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie mit dem magischen Miniaturdorf von José Franco, das alle Altersgruppen begeistert. Fahren Sie mittags ins Zentrum, um das musikalische Erbe und die historischen Säle zu bestaunen. Am Nachmittag reisen Sie durch die Geschichte entlang der Forts der Linien von Torres Vedras. Beenden Sie den Tag in der unberührten Schönheit der Tapada Nacional.",
+        "hu": "Kezdje a napot José Franco varázslatos miniatűr falujával, amely minden korosztály kedvence. Délben vezessen a központba a zenei örökség és a történelmi csarnokok megcsodálásához. A délután a Torres Vedras vonal erődítményeinek felfedezésével telik. Fejezze be a túrát a Nemzeti Tapada hatalmas, vad szépségében.",
+        "ro": "Începeți cu satul magic în miniatură al lui José Franco, o atracție pentru toate vârstele. Conduceți spre centru la prânz pentru a admira moștenirea muzicală. După-amiaza vă poartă într-o călătorie prin forturile Liniilor Torres Vedras, bogate în istorie. Finalizați ziua în frumusețea vastă și sălbatică a rezervației Tapada Nacional.",
+        "en": "Start with the magical miniature village of José Franco, a hit with all ages. Drive to the center by midday to marvel at musical heritage and historic halls. The afternoon takes you on a journey through the protective Lines of Torres Vedras forts. Finish your road trip embraced by the vast, wild beauty of the National Tapada."
+      }
+    }
+  }
+}

@@ -1,0 +1,520 @@
+{
+  "city_id": "greece-koroni-cities-v2",
+  "anchor": {
+    "name": "Koroni",
+    "coords": [
+      21.95599,
+      36.79644
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:01",
+      "total_km": 1.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Agios Dimitrios",
+            "hu": "Agios Dimitrios",
+            "ro": "Agios Dimitrios",
+            "en": "Agios Dimitrios"
+          },
+          "coords": [
+            21.957066,
+            36.796826
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Fresken in dieser markanten orthodoxen Kirche und denken Sie daran, Ihre Schultern vor dem Eintreten zu bedecken.",
+            "hu": "Csodálja meg a gyönyörű freskókat ebben a kiemelkedő ortodox templomban, és ne feledkezzen meg a visszafogott öltözködésről, mielőtt belépne.",
+            "ro": "Admirați frescele frumoase din această biserică ortodoxă proeminentă și asigurați-vă că vă acoperiți umerii în semn de respect înainte de a intra.",
+            "en": "Admire the beautiful frescoes inside this prominent orthodox church, and remember to dress modestly by covering your shoulders before you step inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Georgios",
+            "hu": "Agios Georgios",
+            "ro": "Agios Georgios",
+            "en": "Agios Georgios"
+          },
+          "coords": [
+            21.959137,
+            36.79643
+          ],
+          "category": "religious",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Genießen Sie die Ruhe im ruhigen Innenhof dieser malerischen Kapelle und bringen Sie Ihre eigene Flasche Wasser mit, da es keine Geschäfte gibt.",
+            "hu": "Töltsön el egy kis időt a festői kápolna csendes udvarán, és hozzon magával egy üveg vizet, mivel nincsenek kisboltok a közvetlen közelében.",
+            "ro": "Bucurați-vă de liniștea curții acestei capele pitorești și aduceți o sticlă de apă, deoarece nu există mici magazine chiar în imediata apropiere.",
+            "en": "Take a moment in the tranquil courtyard of this picturesque chapel, and bring your own bottle of water since there are no small shops immediately nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Ioanni Prodromou",
+            "hu": "Ioanni Prodromou",
+            "ro": "Ioanni Prodromou",
+            "en": "Ioanni Prodromou"
+          },
+          "coords": [
+            21.961339,
+            36.794402
+          ],
+          "category": "religious",
+          "arrive_at": "10:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die reizvolle Architektur dieser kleinen religiösen Stätte, aber seien Sie auf einige leicht unebene Kopfsteinpflasterwege vorbereitet.",
+            "hu": "Fedezze fel e kis vallási hely bájos, hagyományos építészetét, de készüljön fel az enyhén egyenetlen macskaköves utakra, amelyek ide vezetnek fel.",
+            "ro": "Explorați arhitectura tradițională fermecătoare a acestui mic lăcaș de cult, dar fiți pregătit pentru câteva alei pietruite ușor denivelate la sosire.",
+            "en": "Explore the charming traditional architecture of this small religious site, but be prepared for some slightly uneven cobblestone paths leading up to it."
+          }
+        },
+        {
+          "name": {
+            "de": "Bastion IV",
+            "hu": "IV-es bástya",
+            "ro": "Bastionul IV",
+            "en": "Bastion IV"
+          },
+          "coords": [
+            21.963378,
+            36.793799
+          ],
+          "category": "historical",
+          "arrive_at": "11:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang dieser imposanten Verteidigungsmauern und tragen Sie unbedingt festes Schuhwerk für das etwas unebene historische Gelände hier.",
+            "hu": "Sétáljon végig ezeken az impozáns védőfalakon a fantasztikus kilátásért, és mindenképpen viseljen masszív cipőt a kissé durva történelmi terep miatt.",
+            "ro": "Plimbați-vă de-a lungul acestor ziduri defensive impunătoare și asigurați-vă că purtați încălțăminte solidă pentru terenul istoric destul de accidentat.",
+            "en": "Walk along these imposing defensive walls for a fantastic elevated view, and be sure to wear sturdy walking shoes for the somewhat rough historic terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Blick auf den Zaga-Strand",
+            "hu": "Zaga strand kilátó",
+            "ro": "Punct de belvedere Plaja Zaga",
+            "en": "View at the Zaga Beach"
+          },
+          "coords": [
+            21.961368,
+            36.793489
+          ],
+          "category": "natural",
+          "arrive_at": "12:44",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Blicken Sie von diesem fantastischen Aussichtspunkt über die goldene Küste und kommen Sie, wenn die Sonne hinter Ihnen steht, für die besten Fotos.",
+            "hu": "Tekintsen ki a széles, aranyló partvonalra ebből a lenyűgöző kilátóból, és próbáljon úgy érkezni, hogy a nap ön mögött legyen a legjobb fotókhoz.",
+            "ro": "Admirați coasta aurie spectaculoasă din acest punct de belvedere uimitor și încercați să ajungeți când soarele e în spate pentru cele mai bune poze.",
+            "en": "Gaze out over the sweeping, golden coastline from this stunning vantage point, and try to arrive when the sun is behind you for the absolute best photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Zagka",
+            "hu": "Zagka",
+            "ro": "Zagka",
+            "en": "Zagka"
+          },
+          "coords": [
+            21.956366,
+            36.792221
+          ],
+          "category": "recreational",
+          "arrive_at": "13:16",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem beliebten Strandabschnitt mit klarem Wasser und mieten Sie sich in der Hochsaison am besten schon früh eine Sonnenliege.",
+            "hu": "Pihenjen ezen a rendkívül népszerű, kristálytiszta vizű homokos szakaszon, és fontolja meg a napágy bérlését még a nap elején a főszezon idején.",
+            "ro": "Relaxați-vă pe această întindere de nisip renumită pentru apele limpezi și închiriați un șezlong dimineața devreme în timpul sezonului foarte aglomerat.",
+            "en": "Relax on this incredibly popular stretch of sand known for its clear waters, and consider renting a sunbed early in the day during the busy peak season."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Wir beginnen unseren Rundgang im Zentrum von Koroni bei der charmanten Agios Dimitrios, wo wir das religiöse Erbe kennenlernen. Die nahe Agios Georgios bietet anschließend wunderbare Küstenatmosphäre und sehr ruhige Innenhöfe.\n\nMidday: Die spirituelle Reise endet an der malerischen Ioanni Prodromou Kapelle, bevor wir uns den beeindruckenden Festungsmauern nähern. Die Erkundung der Bastion IV belohnt uns mit Historie und einem bemerkenswerten Meerespanorama.\n\nAfternoon: Nur einen kurzen Spaziergang entfernt bietet der berühmte Aussichtspunkt über den Zaga-Strand die perfekte Gelegenheit, den goldenen Sand zu fotografieren. Die frische Meeresbrise passt wunderbar zum tiefblauen Wasser.\n\nEvening: Unser gemütlicher Tag endet an den entspannenden Ufern von Zagka, wo wir die Füße ins Meer tauchen und in einer Taverne entspannen können. Die untergehende Sonne malt den Himmel in kräftigen Farben und beendet das Abenteuer.",
+        "hu": "Morning: Gyalogtúránkat Koróni szívében, a bájos Agios Dimitrios templomnál kezdjük, ahol azonnal megismerjük a helyi vallási örökséget. A közeli Agios Georgios csodás tengerparti hangulatot és békés udvart kínál a látogatóknak.\n\nMidday: A spirituális utazás a festői Ioanni Prodromou kápolnánál zárul, mielőtt megközelítenénk a lenyűgöző erődítmény falait. A IV-es bástya felfedezése felejthetetlen történelmi élménnyel és figyelemreméltó tengeri panorámával jutalmaz.\n\nAfternoon: Egy rövid sétára innen, a Zaga strandra néző híres kilátó tökéletes fotózási lehetőséget nyújt az aranyló homok megörökítésére. Itt a friss mediterrán szellő csodálatosan kiegészíti az alant elterülő élénkkék vizet.\n\nEvening: Kényelmes napunk a Zagka pihentető partjainál ér véget, ahol megmárthatjuk lábunkat a tengerben, és egy helyi tavernában kapcsolódhatunk ki. A lemenő nap élénk színekre festi az eget, tökéletesen zárva ezt a tengerparti kalandot.",
+        "ro": "Morning: Ne începem turul pietonal în inima orașului Koroni, la fermecătoarea Agios Dimitrios, unde descoperim patrimoniul religios local. Biserica Agios Georgios din apropiere ne oferă o atmosferă minunată de coastă și o curte liniștită.\n\nMidday: Această călătorie spirituală se încheie la micuța capelă Ioanni Prodromou, înainte de a ne apropia de zidurile impresionante ale fortăreței. Explorarea Bastionului IV ne recompensează cu o panoramă maritimă greu de uitat.\n\nAfternoon: La doar câțiva pași distanță, faimosul punct de belvedere asupra plajei Zaga oferă locul perfect pentru fotografii cu nisipul auriu. Aici, briza mediteraneană proaspătă completează splendid apele albastre din zare.\n\nEvening: Ziua noastră relaxantă se încheie pe țărmul plăcut din Zagka, unde ne putem răcori picioarele și ne putem relaxa la o tavernă. Soarele la apus pictează cerul în culori vibrante, încheind o aventură de neuitat.",
+        "en": "Morning: We begin our walking tour in the heart of Koroni at the charming Agios Dimitrios, diving straight into the local religious heritage. The nearby Agios Georgios soon follows, presenting wonderful coastal vibes and peaceful courtyards.\n\nMidday: The spiritual journey concludes at the quaint Ioanni Prodromou chapel before we approach the impressive fortress walls. Exploring Bastion IV rewards us with an unforgettable sense of history and remarkable sea panoramas.\n\nAfternoon: Just a short stroll away, the famous viewpoint looking over Zaga Beach provides the perfect photo opportunity to capture the golden sands. Here, the fresh Mediterranean breeze beautifully complements the vivid blue waters below.\n\nEvening: Our leisurely day wraps up on the relaxing shores of Zagka, where we can dip our toes in the sea and unwind at a local seaside taverna. The setting sun paints the sky in vibrant colors, ending the perfect coastal adventure."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:27",
+      "total_km": 3.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Artaki",
+            "hu": "Artaki",
+            "ro": "Artaki",
+            "en": "Artaki"
+          },
+          "coords": [
+            21.953418,
+            36.7984
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die erfrischende Küstenatmosphäre an diesem schönen Treffpunkt und besuchen Sie die nahe gelegenen Cafés für einen kleinen Snack am Meer.",
+            "hu": "Élvezze a frissítő tengerparti hangulatot ezen a kellemes találkozóhelyen, és nézze meg a közeli kávézókat egy gyors és ízletes tengeri harapnivalóért.",
+            "ro": "Bucurați-vă de atmosfera de coastă revigorantă din acest loc de întâlnire plăcut și vizitați cafenelele locale din apropiere pentru o gustare rapidă.",
+            "en": "Enjoy the refreshing coastal atmosphere at this pleasant gathering spot, and check out the nearby local cafes to grab a quick and tasty seaside snack."
+          }
+        },
+        {
+          "name": {
+            "de": "Agios Dimitrios",
+            "hu": "Agios Dimitrios",
+            "ro": "Agios Dimitrios",
+            "en": "Agios Dimitrios"
+          },
+          "coords": [
+            21.957066,
+            36.796826
+          ],
+          "category": "religious",
+          "arrive_at": "10:27",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Fresken in dieser markanten orthodoxen Kirche und denken Sie daran, Ihre Schultern vor dem Eintreten zu bedecken.",
+            "hu": "Csodálja meg a gyönyörű freskókat ebben a kiemelkedő ortodox templomban, és ne feledkezzen meg a visszafogott öltözködésről, mielőtt belépne.",
+            "ro": "Admirați frescele frumoase din această biserică ortodoxă proeminentă și asigurați-vă că vă acoperiți umerii în semn de respect înainte de a intra.",
+            "en": "Admire the beautiful frescoes inside this prominent orthodox church, and remember to dress modestly by covering your shoulders before you step inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Bastion III",
+            "hu": "III-as bástya",
+            "ro": "Bastionul III",
+            "en": "Bastion III"
+          },
+          "coords": [
+            21.963543,
+            36.794805
+          ],
+          "category": "historical",
+          "arrive_at": "11:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.62,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Ruinen dieses großen Befestigungsabschnitts und behalten Sie kleine Kinder in der Nähe der steilen Kanten im Auge.",
+            "hu": "Fedezze fel a tengerre néző nagy erődítményrész érdekes romjait, és tartsa szemmel a kisgyermekeket a meredek, védtelen széleken sétálva.",
+            "ro": "Descoperiți ruinele intrigante ale acestei secțiuni mari de fortificație și fiți cu ochii pe copiii mici în apropierea marginilor abrupte, nepăzite.",
+            "en": "Discover the intriguing ruins of this large fortification section overlooking the sea, and keep an eye on young children near the steep, unguarded edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Bastion IV",
+            "hu": "IV-es bástya",
+            "ro": "Bastionul IV",
+            "en": "Bastion IV"
+          },
+          "coords": [
+            21.963378,
+            36.793799
+          ],
+          "category": "historical",
+          "arrive_at": "12:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang dieser imposanten Verteidigungsmauern und tragen Sie unbedingt festes Schuhwerk für das etwas unebene historische Gelände hier.",
+            "hu": "Sétáljon végig ezeken az impozáns védőfalakon a fantasztikus kilátásért, és mindenképpen viseljen masszív cipőt a kissé durva történelmi terep miatt.",
+            "ro": "Plimbați-vă de-a lungul acestor ziduri defensive impunătoare și asigurați-vă că purtați încălțăminte solidă pentru terenul istoric destul de accidentat.",
+            "en": "Walk along these imposing defensive walls for a fantastic elevated view, and be sure to wear sturdy walking shoes for the somewhat rough historic terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Blick auf den Zaga-Strand",
+            "hu": "Zaga strand kilátó",
+            "ro": "Punct de belvedere Plaja Zaga",
+            "en": "View at the Zaga Beach"
+          },
+          "coords": [
+            21.961368,
+            36.793489
+          ],
+          "category": "natural",
+          "arrive_at": "13:52",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Blicken Sie von diesem fantastischen Aussichtspunkt über die goldene Küste und kommen Sie, wenn die Sonne hinter Ihnen steht, für die besten Fotos.",
+            "hu": "Tekintsen ki a széles, aranyló partvonalra ebből a lenyűgöző kilátóból, és próbáljon úgy érkezni, hogy a nap ön mögött legyen a legjobb fotókhoz.",
+            "ro": "Admirați coasta aurie spectaculoasă din acest punct de belvedere uimitor și încercați să ajungeți când soarele e în spate pentru cele mai bune poze.",
+            "en": "Gaze out over the sweeping, golden coastline from this stunning vantage point, and try to arrive when the sun is behind you for the absolute best photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Zagka",
+            "hu": "Zagka",
+            "ro": "Zagka",
+            "en": "Zagka"
+          },
+          "coords": [
+            21.956366,
+            36.792221
+          ],
+          "category": "recreational",
+          "arrive_at": "14:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem beliebten Strandabschnitt mit klarem Wasser und mieten Sie sich in der Hochsaison am besten schon früh eine Sonnenliege.",
+            "hu": "Pihenjen ezen a rendkívül népszerű, kristálytiszta vizű homokos szakaszon, és fontolja meg a napágy bérlését még a nap elején a főszezon idején.",
+            "ro": "Relaxați-vă pe această întindere de nisip renumită pentru apele limpezi și închiriați un șezlong dimineața devreme în timpul sezonului foarte aglomerat.",
+            "en": "Relax on this incredibly popular stretch of sand known for its clear waters, and consider renting a sunbed early in the day during the busy peak season."
+          }
+        },
+        {
+          "name": {
+            "de": "Memi",
+            "hu": "Memi",
+            "ro": "Memi",
+            "en": "Memi"
+          },
+          "coords": [
+            21.944266,
+            36.785905
+          ],
+          "category": "recreational",
+          "arrive_at": "15:42",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.28,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Menschenmassen an diesem weitläufigen Strand, aber bringen Sie unbedingt einen eigenen Sonnenschirm mit, da Schatten sehr begrenzt ist.",
+            "hu": "Meneküljön el a nagy tömeg elől ezen a tágas és békés tengerparton, de ne felejtsen el saját napernyőt hozni, mivel a természetes árnyék korlátozott.",
+            "ro": "Evadați de mulțimile mari la această destinație de plajă spațioasă și pașnică, dar asigurați-vă că aduceți propria umbrelă, deoarece umbra este rară.",
+            "en": "Escape the big crowds at this spacious and peaceful beach destination, but remember to bring your own umbrella since natural shade is very limited here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Wir beginnen unsere Tour an der Küste von Artaki mit einer erfrischenden morgendlichen Fahrt und radeln dann hinauf zur Agios Dimitrios. Diese Mischung aus Natur und religiösem Erbe sorgt für ein tolles Tempo an diesem Tag.\n\nMidday: Wir radeln weiter in Richtung der großen Bastionen III und IV, um die historischen Befestigungen zu erkunden. Der herrliche Blick aufs Meer von diesen alten Verteidigungsmauern macht die Fahrt bergauf absolut lohnenswert.\n\nAfternoon: Am Aussichtspunkt über den Zaga-Strand machen wir kurz Halt und fotografieren die Küste, bevor wir bergab rollen. Die Fahrt führt uns direkt zu dem einladenden, goldenen Sandstrand von Zagka, wo wir uns kurz ausruhen.\n\nEvening: Eine wunderschöne letzte Fahrt führt uns zu den ruhigen Ufern von Memi, perfekt zum Entspannen abseits der Massen. Den Sonnenuntergang vom warmen Sand aus zu beobachten, rundet diese landschaftlich reizvolle Radtour ab.",
+        "hu": "Morning: A túrát az Artaki partvidékén kezdjük egy frissítő reggeli tekeréssel, majd felmegyünk az Agios Dimitrios templomhoz. A természeti szépség és a spirituális örökség ezen kombinációja remek alaphangot ad a napunknak.\n\nMidday: Tovább pedálozunk a lenyűgöző III-as és IV-es bástyák felé, hogy elmerüljünk a történelmi erődítmények világában. Az ősi védőfalakról nyíló csodálatos, tengeri kilátás miatt igazán megéri a hegynek felfelé vezető út.\n\nAfternoon: Egy pillanatra megállunk a Zaga strandra néző ikonikus kilátónál, hogy lefotózzuk a lélegzetelállító partvonalat, mielőtt legurulnánk. A sima út egyenesen a Zagka strand hívogató, aranyló homokjához vezet minket.\n\nEvening: Egy gyönyörű utolsó tekerés elvisz minket Memi nyugodt partjaira, ami tökéletes hely a tömegtől távoli kikapcsolódásra. A naplemente látványa a meleg homokon pihenve nagyszerűen zárja ezt a festői biciklis kirándulást.",
+        "ro": "Morning: Pornind de pe coasta din Artaki, ne bucurăm de o plimbare matinală înviorătoare, apoi pedalăm spre biserica Agios Dimitrios. Această combinație de frumusețe naturală și moștenire spirituală stabilește un ritm perfect pentru zi.\n\nMidday: Pedalăm mai departe spre grandioasele Bastioane III și IV, scufundându-ne direct în fortificațiile istorice. Priveliștea uimitoare la mare de pe aceste vechi ziduri defensive face ca urcușul cu bicicleta să merite din plin.\n\nAfternoon: Ne oprim puțin la faimosul punct de belvedere al plajei Zaga, imortalizând coasta spectaculoasă înainte de a coborî. Plimbarea lină ne duce direct pe nisipul auriu și primitor al plajei Zagka pentru o binemeritată odihnă.\n\nEvening: O ultimă cursă frumoasă ne poartă spre țărmurile liniștite din Memi, perfecte pentru relaxare departe de aglomerație. Privind apusul soarelui în timp ce ne odihnim pe nisip, încheiem perfect această călătorie.",
+        "en": "Morning: Starting by the coast at Artaki, we enjoy a refreshing morning ride by the water before cycling up to Agios Dimitrios. This combination of natural beauty and spiritual heritage sets a wonderful pace for the day.\n\nMidday: We pedal further towards the grand Bastion III and Bastion IV, immersing ourselves in the historical fortifications. The stunning elevated sea views from these ancient defensive walls make the uphill ride truly worthwhile.\n\nAfternoon: Taking a moment at the iconic View of Zaga Beach, we capture the breathtaking coastline on camera before cruising downhill. The smooth ride leads us directly to the golden, inviting sands of Zagka beach for some well-deserved rest.\n\nEvening: A beautiful final ride takes us to the tranquil shores of Memi, perfect for winding down away from the crowds. Watching the sunset while resting on the warm sand perfectly concludes this scenic cycling journey around Koroni."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:06",
+      "total_km": 4.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Agia Triada Strand",
+            "hu": "Agia Triada strand",
+            "ro": "Plaja Agia Triada",
+            "en": "Agia Triada Beach"
+          },
+          "coords": [
+            21.937282,
+            36.810294
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen mit einem Bad in den ruhigen Gewässern hier und parken Sie rücksichtsvoll, da die Zufahrtsstraßen ziemlich eng sein können.",
+            "hu": "Kezdje a reggelt úszással a nyugodt, kristálytiszta vizekben, és ügyeljen a megfelelő parkolásra, mivel a hozzáférési utak meglehetősen szűkek lehetnek.",
+            "ro": "Începeți dimineața înotând în apele calme și imaculate și asigurați-vă că parcați cu mult respect, deoarece drumurile de acces sunt destul de înguste.",
+            "en": "Start your morning right by swimming in the calm, pristine waters here, and ensure you park respectfully as the access roads can be quite narrow for cars."
+          }
+        },
+        {
+          "name": {
+            "de": "Lachanou Strand",
+            "hu": "Lachanou strand",
+            "ro": "Plaja Lachanou",
+            "en": "Lachanou Beach"
+          },
+          "coords": [
+            21.940254,
+            36.806197
+          ],
+          "category": "recreational",
+          "arrive_at": "10:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.52,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem ruhigen, einsamen Ufer inmitten der rauen Natur und packen Sie das Nötigste ein, da es hier keine Einrichtungen gibt.",
+            "hu": "Kapcsolódjon ki teljesen ezen a csendes, eldugott partszakaszon a vad természet lágy ölén, és csomagoljon be mindent, mivel nincsenek létesítmények.",
+            "ro": "Relaxați-vă pe acest țărm liniștit, înconjurat de o natură aspră, și aduceți cu voi toate cele necesare, deoarece nu există facilități în apropiere.",
+            "en": "Unwind completely on this quiet, secluded shore surrounded by rugged nature, and pack all your essentials since there are absolutely no facilities nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Artaki",
+            "hu": "Artaki",
+            "ro": "Artaki",
+            "en": "Artaki"
+          },
+          "coords": [
+            21.953418,
+            36.7984
+          ],
+          "category": "recreational",
+          "arrive_at": "11:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.45,
+          "tip_5lang": {
+            "de": "Genießen Sie die erfrischende Küstenatmosphäre an diesem schönen Treffpunkt und besuchen Sie die nahe gelegenen Cafés für einen kleinen Snack am Meer.",
+            "hu": "Élvezze a frissítő tengerparti hangulatot ezen a kellemes találkozóhelyen, és nézze meg a közeli kávézókat egy gyors és ízletes tengeri harapnivalóért.",
+            "ro": "Bucurați-vă de atmosfera de coastă revigorantă din acest loc de întâlnire plăcut și vizitați cafenelele locale din apropiere pentru o gustare rapidă.",
+            "en": "Enjoy the refreshing coastal atmosphere at this pleasant gathering spot, and check out the nearby local cafes to grab a quick and tasty seaside snack."
+          }
+        },
+        {
+          "name": {
+            "de": "Bastion III",
+            "hu": "III-as bástya",
+            "ro": "Bastionul III",
+            "en": "Bastion III"
+          },
+          "coords": [
+            21.963543,
+            36.794805
+          ],
+          "category": "historical",
+          "arrive_at": "13:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.98,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierenden Ruinen dieses großen Befestigungsabschnitts und behalten Sie kleine Kinder in der Nähe der steilen Kanten im Auge.",
+            "hu": "Fedezze fel a tengerre néző nagy erődítményrész érdekes romjait, és tartsa szemmel a kisgyermekeket a meredek, védtelen széleken sétálva.",
+            "ro": "Descoperiți ruinele intrigante ale acestei secțiuni mari de fortificație și fiți cu ochii pe copiii mici în apropierea marginilor abrupte, nepăzite.",
+            "en": "Discover the intriguing ruins of this large fortification section overlooking the sea, and keep an eye on young children near the steep, unguarded edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Ioanni Prodromou",
+            "hu": "Ioanni Prodromou",
+            "ro": "Ioanni Prodromou",
+            "en": "Ioanni Prodromou"
+          },
+          "coords": [
+            21.961339,
+            36.794402
+          ],
+          "category": "religious",
+          "arrive_at": "14:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die reizvolle Architektur dieser kleinen religiösen Stätte, aber seien Sie auf einige leicht unebene Kopfsteinpflasterwege vorbereitet.",
+            "hu": "Fedezze fel e kis vallási hely bájos, hagyományos építészetét, de készüljön fel az enyhén egyenetlen macskaköves utakra, amelyek ide vezetnek fel.",
+            "ro": "Explorați arhitectura tradițională fermecătoare a acestui mic lăcaș de cult, dar fiți pregătit pentru câteva alei pietruite ușor denivelate la sosire.",
+            "en": "Explore the charming traditional architecture of this small religious site, but be prepared for some slightly uneven cobblestone paths leading up to it."
+          }
+        },
+        {
+          "name": {
+            "de": "Zagka",
+            "hu": "Zagka",
+            "ro": "Zagka",
+            "en": "Zagka"
+          },
+          "coords": [
+            21.956366,
+            36.792221
+          ],
+          "category": "recreational",
+          "arrive_at": "15:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.51,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem beliebten Strandabschnitt mit klarem Wasser und mieten Sie sich in der Hochsaison am besten schon früh eine Sonnenliege.",
+            "hu": "Pihenjen ezen a rendkívül népszerű, kristálytiszta vizű homokos szakaszon, és fontolja meg a napágy bérlését még a nap elején a főszezon idején.",
+            "ro": "Relaxați-vă pe această întindere de nisip renumită pentru apele limpezi și închiriați un șezlong dimineața devreme în timpul sezonului foarte aglomerat.",
+            "en": "Relax on this incredibly popular stretch of sand known for its clear waters, and consider renting a sunbed early in the day during the busy peak season."
+          }
+        },
+        {
+          "name": {
+            "de": "Memi",
+            "hu": "Memi",
+            "ro": "Memi",
+            "en": "Memi"
+          },
+          "coords": [
+            21.944266,
+            36.785905
+          ],
+          "category": "recreational",
+          "arrive_at": "16:21",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.28,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Menschenmassen an diesem weitläufigen Strand, aber bringen Sie unbedingt einen eigenen Sonnenschirm mit, da Schatten sehr begrenzt ist.",
+            "hu": "Meneküljön el a nagy tömeg elől ezen a tágas és békés tengerparton, de ne felejtsen el saját napernyőt hozni, mivel a természetes árnyék korlátozott.",
+            "ro": "Evadați de mulțimile mari la această destinație de plajă spațioasă și pașnică, dar asigurați-vă că aduceți propria umbrelă, deoarece umbra este rară.",
+            "en": "Escape the big crowds at this spacious and peaceful beach destination, but remember to bring your own umbrella since natural shade is very limited here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Wir beginnen unseren Roadtrip am ruhigen Strand Agia Triada, bevor wir zum ebenso schönen Strand Lachanou fahren. Diese unberührten, weniger überlaufenen nördlichen Küsten bieten einen perfekten, ruhigen Start in den Tag.\n\nMidday: Auf der Fahrt nach Süden nach Artaki erhaschen wir einen Blick auf das Stadtleben, bevor wir zur historischen Bastion III fahren. Die alten Steine und der weite Meerblick vom Festungsbereich sind unglaublich faszinierend.\n\nAfternoon: Eine kurze Fahrt bringt uns zur charmanten Kapelle Ioanni Prodromou, einem versteckten spirituellen Juwel von Koroni. Danach parken wir in der Nähe von Zagka, um in dem kristallklaren Wasser ausgiebig schwimmen zu gehen.\n\nEvening: Unsere letzte Fahrt führt uns zu dem weitläufigen, entspannten Küstenabschnitt von Memi, wo wir viele Parkplätze finden. Ein lokales Abendessen am Meer rundet diesen unvergesslichen Fahrtag auf der Halbinsel perfekt ab.",
+        "hu": "Morning: Autós utunkat a békés Agia Triada strandon kezdjük, majd rövid utat teszünk a hasonlóan gyönyörű Lachanou strandra. Ezek az érintetlen, kevésbé zsúfolt északi partok tökéletes, nyugodt kezdetet kínálnak a túrához.\n\nMidday: Dél felé, Artaki felé autózva bepillantást nyerhetünk a vibráló városi életbe, mielőtt felhajtunk a történelmi III-as bástyához. Az ősi kövek és a hatalmas tengeri panoráma az erőd területéről könnyen megközelíthető.\n\nAfternoon: Egy gyors ugrás kocsival a bájos Ioanni Prodromou kápolnához visz minket, mely Koróni egyik rejtett gyöngyszeme. Ezután leparkolunk Zagka közelében, hogy néhány órát ússzunk híres, kristálytiszta kék vizében.\n\nEvening: Utolsó utunk a hatalmas, nyugodt Memi strandra vezet, ahol bőséges parkolóhelyet és remek naplementés helyet találunk. Egy finom, helyi tengerparti vacsora tökéletesen megkoronázza ezt a felejthetetlen autós kirándulást.",
+        "ro": "Morning: Începem excursia auto la plaja liniștită Agia Triada, înainte de a conduce scurt spre la fel de frumoasa plajă Lachanou. Aceste țărmuri nordice virgine și mai puțin aglomerate oferă un început perfect și calm pentru noi.\n\nMidday: Conducând spre sud către Artaki, prindem un strop din viața vibrantă a orașului, înainte de a urca la Bastionul istoric III. Pietrele antice și priveliștile vaste asupra mării din zona fortăreței sunt cu adevărat fascinante.\n\nAfternoon: O scurtă călătorie cu mașina ne aduce la fermecătoarea capelă Ioanni Prodromou, o bijuterie spirituală din Koroni. Ulterior, parcăm lângă Zagka pentru a petrece câteva ore înotând în faimoasele sale ape limpezi.\n\nEvening: Ultimul drum ne duce spre întinderea vastă și relaxantă a plajei Memi, unde găsim parcări ample și un loc grozav de apus. Savurând o cină locală pe malul mării aici este un final perfect pentru o zi de neuitat pe peninsulă.",
+        "en": "Morning: We kick off our road trip at the serene Agia Triada Beach before taking a short drive to the equally beautiful Lachanou Beach. These pristine, less crowded northern shores offer a perfect and tranquil start to our coastal exploration.\n\nMidday: Driving south to Artaki gives us a quick glimpse of the vibrant town life before we ascend to the historic Bastion III. The ancient stones and sweeping sea vistas from the fortress area are easily accessible and totally mesmerizing.\n\nAfternoon: A quick hop in the car brings us to the charming Ioanni Prodromou chapel, a hidden spiritual gem of Koroni. Afterwards, we park near Zagka to spend a couple of hours swimming in its famous, crystal-clear blue waters.\n\nEvening: Our final drive takes us to the vast, relaxed expanse of Memi, where we can find ample parking and a great sunset spot. Enjoying a local seaside dinner here perfectly caps off an unforgettable day driving around the peninsula."
+      }
+    }
+  }
+}

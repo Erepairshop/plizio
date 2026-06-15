@@ -1,0 +1,497 @@
+{
+  "city_id": "vihiers",
+  "anchor": {
+    "name": "Vihiers",
+    "coords": [
+      -0.5336,
+      47.1467
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:33",
+      "total_km": 1.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Charles-de-Gaulle-Platz",
+            "hu": "Charles de Gaulle tér",
+            "ro": "Piața Charles de Gaulle",
+            "en": "Charles de Gaulle Square"
+          },
+          "coords": [
+            -0.534927,
+            47.145799
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag auf diesem zentralen Platz, wo Sie das lokale Leben beobachten können, während Sie in einem nahegelegenen Café einen frischen Kaffee genießen.",
+            "hu": "Kezdje a napot ezen a központi téren, ahol megfigyelheti a helyi életet, miközben egy közeli kávézóban elfogyaszt egy csésze finom és friss kávét.",
+            "ro": "Începeți-vă ziua în această piață centrală, unde puteți observa viața locală în timp ce savurați o cafea proaspătă și delicioasă la o cafenea din apropiere.",
+            "en": "Start your day in this central square, where you can observe local life while enjoying a freshly brewed coffee at one of the welcoming nearby cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Nicolas",
+            "hu": "Saint-Nicolas templom",
+            "ro": "Biserica Saint-Nicolas",
+            "en": "Église Saint-Nicolas"
+          },
+          "coords": [
+            -0.53569,
+            47.14409
+          ],
+          "category": "religious",
+          "arrive_at": "09:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur dieser historischen Kirche und achten Sie besonders auf die detaillierten Buntglasfenster im prächtigen Hauptschiff.",
+            "hu": "Csodálja meg ennek a történelmi templomnak a lenyűgöző építészetét, és fordítson különös figyelmet a főhajó részletgazdag, gyönyörű ólomüveg ablakaira.",
+            "ro": "Admirați arhitectura impresionantă a acestei biserici istorice și acordați o atenție deosebită vitraliilor detaliate și colorate din superba navă principală.",
+            "en": "Admire the impressive architecture of this historic church and pay special attention to the wonderfully detailed stained glass windows in the main nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-Jean",
+            "hu": "Saint-Jean kápolna",
+            "ro": "Capela Saint-Jean",
+            "en": "Chapelle Saint-Jean"
+          },
+          "coords": [
+            -0.537183,
+            47.146868
+          ],
+          "category": "religious",
+          "arrive_at": "10:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese kleine, aber feine Kapelle für einen Moment der Ruhe und betrachten Sie die gut erhaltenen steinernen Schnitzereien am historischen Eingang.",
+            "hu": "Látogasson el ebbe a kicsi, de finom kápolnába egy kis nyugalomért, és tekintse meg a nagyon jól megőrzött kőfaragványokat az épület bejáratánál.",
+            "ro": "Vizitați această capelă mică, dar fermecătoare, pentru un moment de liniște și admirați sculpturile în piatră excepțional de bine conservate de la intrare.",
+            "en": "Visit this small but exceptionally charming chapel for a moment of tranquility and closely admire the well-preserved ancient stone carvings at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Maupassant",
+            "hu": "Maupassant kastély",
+            "ro": "Castelul Maupassant",
+            "en": "Maupassant Castle"
+          },
+          "coords": [
+            -0.541129,
+            47.146374
+          ],
+          "category": "historical",
+          "arrive_at": "11:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Burgmauern und die faszinierende Geschichte der Anlage, am besten mit einem Audioguide, um absolut alle versteckten Details zu entdecken.",
+            "hu": "Fedezze fel az ősi várfalakat és az épületegyüttes lenyűgöző történetét, lehetőleg audioguide-dal, hogy minden rejtett, izgalmas történelmi részletet megismerjen.",
+            "ro": "Explorați vechile ziduri ale castelului și istoria fascinantă a complexului, de preferință cu un ghid audio detaliat, pentru a descoperi toate detaliile ascunse.",
+            "en": "Explore the ancient castle walls and the fascinating history of the complex, ideally with a comprehensive audio guide to discover all the hidden historical details."
+          }
+        },
+        {
+          "name": {
+            "de": "Feudale Motte",
+            "hu": "Feudális földvár",
+            "ro": "Movilă feudală",
+            "en": "Feudal Motte"
+          },
+          "coords": [
+            -0.548666,
+            47.139037
+          ],
+          "category": "historical",
+          "arrive_at": "12:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Steigen Sie auf diesen historischen Burghügel, um die Überreste der mittelalterlichen Verteidigungsanlage zu sehen und den weiten Ausblick auf die Umgebung zu genießen.",
+            "hu": "Másszon fel erre a történelmi várdombra, hogy megtekintse a középkori védművek izgalmas maradványait, és élvezze a környékre nyíló lenyűgöző, pazar kilátást.",
+            "ro": "Urcați pe acest deal istoric pentru a vedea rămășițele apărărilor medievale și bucurați-vă din plin de vederea panoramică superbă asupra împrejurimilor pitorești.",
+            "en": "Climb this distinctly historic castle hill to see the remains of the medieval defenses and truly enjoy the sweeping panoramic view of the lovely surrounding area."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt entspannt im Herzen von Vihiers am lebhaften Charles-de-Gaulle-Platz. Von dort aus schlendern wir gemütlich zur majestätischen Kirche Saint-Nicolas, deren Architektur sofort ins Auge fällt.\n\nZur Mittagszeit tauchen wir tiefer in die religiöse Geschichte ein und besuchen die friedliche Kapelle Saint-Jean, ein wunderbarer Ort der inneren Einkehr.\n\nAm Nachmittag widmen wir uns der beeindruckenden Verteidigungsgeschichte mit einem ausgiebigen Besuch des Schlosses Maupassant.\n\nDen Abschluss bildet ein Spaziergang zur historischen feudalen Motte, wo wir die Aussicht genießen und den Tag in aller Ruhe ausklingen lassen.",
+        "hu": "A reggel pihentetően indul Vihiers szívében, a nyüzsgő Charles de Gaulle téren. Innen kényelmesen átsétálunk a fenséges Saint-Nicolas templomhoz, melynek építészete azonnal megragadja a tekintetet.\n\nDélben elmélyülünk a vallási történelemben a békés Saint-Jean kápolna meglátogatásával, amely kiváló hely az elmélyülésre.\n\nDélután a védelmi történelemnek szenteljük magunkat a Maupassant-kastély alapos és rendkívül izgalmas felfedezésével.\n\nA sétát a feudális halomnál zárjuk, ahonnan csodálatos kilátás nyílik a vidékre, megkoronázva ezzel a tartalmas napot.",
+        "ro": "Dimineața începe relaxant în inima orașului Vihiers, în animata Piață Charles de Gaulle. De acolo, ne plimbăm pe îndelete spre maiestuoasa biserică Saint-Nicolas, a cărei arhitectură atrage imediat atenția.\n\nLa prânz, aprofundăm istoria religioasă vizitând capela liniștită Saint-Jean, un loc perfect pentru o clipă de reculegere.\n\nDupă-amiaza este dedicată istoriei defensive cu o explorare amplă a impunătorului Castel Maupassant și a curților sale.\n\nPlimbarea se încheie la movila feudală, unde ne bucurăm de o priveliște minunată și de o atmosferă de neuitat.",
+        "en": "The morning begins relaxingly in the heart of Vihiers at the bustling Charles de Gaulle Square. From there, we stroll leisurely to the majestic Église Saint-Nicolas, whose architecture immediately catches the eye.\n\nAt midday, we delve deeper into religious history by visiting the peaceful Chapelle Saint-Jean, an excellent place for quiet reflection.\n\nThe afternoon is dedicated to defensive history with an extensive and deeply fascinating exploration of the historic Maupassant Castle.\n\nThe walk concludes at the feudal motte, where we enjoy a wonderful panoramic view and bring the day to a very serene close."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:43",
+      "total_km": 6.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Charles-de-Gaulle-Platz",
+            "hu": "Charles de Gaulle tér",
+            "ro": "Piața Charles de Gaulle",
+            "en": "Charles de Gaulle Square"
+          },
+          "coords": [
+            -0.534927,
+            47.145799
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie hier in aller Ruhe Ihre Radtour und überprüfen Sie nochmal Ihre Ausrüstung, bevor Sie in das malerische historische Zentrum eintauchen.",
+            "hu": "Kezdje itt a kerékpártúrát, és még egyszer alaposan ellenőrizze a felszerelését, mielőtt teljesen elmerülne a gyönyörű történelmi központban.",
+            "ro": "Începeți-vă turul cu bicicleta aici și verificați-vă cu atenție echipamentul înainte de a vă scufunda în pitorescul și vibrantul centru istoric.",
+            "en": "Start your pleasant bike tour right here and double-check all your riding equipment before enthusiastically diving into the historical center."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Nicolas",
+            "hu": "Saint-Nicolas templom",
+            "ro": "Biserica Saint-Nicolas",
+            "en": "Église Saint-Nicolas"
+          },
+          "coords": [
+            -0.53569,
+            47.14409
+          ],
+          "category": "religious",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nutzen Sie den bequemen Fahrradständer vor der Kirche und nehmen Sie sich Zeit, die beeindruckenden, kunstvollen Gewölbe im Inneren zu bestaunen.",
+            "hu": "Használja a templom előtti praktikus kerékpártárolót, és szánjon elegendő időt a lenyűgöző, művészi boltívek megcsodálására a nyugodt belső térben.",
+            "ro": "Folosiți parcarea de biciclete din fața bisericii și acordați-vă suficient timp pentru a admira bolțile impresionante și foarte detaliate din interior.",
+            "en": "Use the convenient bike rack in front of the church and take your time to thoroughly marvel at the truly impressive artistic vaults inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Maupassant",
+            "hu": "Maupassant kastély",
+            "ro": "Castelul Maupassant",
+            "en": "Maupassant Castle"
+          },
+          "coords": [
+            -0.541129,
+            47.146374
+          ],
+          "category": "historical",
+          "arrive_at": "10:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Radeln Sie gemütlich zum Schloss, parken Sie Ihr Rad am Eingang und entdecken Sie die massiven, alten Wehrmauern und wehrhaften Türme der historischen Festung.",
+            "hu": "Kényelmesen kerekezzen a kastélyhoz, parkolja le a kerékpárt a bejáratnál, és fedezze fel az erőd masszív, ősi védőfalait és csodálatos tornyait.",
+            "ro": "Pedalați liniștit spre castel, parcați-vă bicicleta la intrare și descoperiți vechile ziduri masive de apărare și turnurile impunătoare ale cetății.",
+            "en": "Cycle leisurely to the castle, safely park your bike at the main entrance, and closely discover the massive ancient defensive walls and towers of the fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Feudale Motte",
+            "hu": "Feudális földvár",
+            "ro": "Movilă feudală",
+            "en": "Feudal Motte"
+          },
+          "coords": [
+            -0.548666,
+            47.139037
+          ],
+          "category": "historical",
+          "arrive_at": "11:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Die kurze Fahrt zur Motte belohnt Sie mit einer spannenden historischen Erdaufschüttung, die Sie am besten zu Fuß umrunden, um den besten Blick zu haben.",
+            "hu": "A rövid út a földvárhoz egy izgalmas történelmi dombbal jutalmazza, amelyet a legjobb szépen, komótosan gyalogosan megkerülni a legszebb kilátásért.",
+            "ro": "Scurta călătorie către movilă vă răsplătește cu un mal istoric fascinant, pe care cel mai bine este să îl ocoliți pe jos pentru cea mai bună vedere.",
+            "en": "The short ride to the motte rewards you with a fascinating historical earthwork, which is best walked around carefully to get the best sweeping views."
+          }
+        },
+        {
+          "name": {
+            "de": "La Cave",
+            "hu": "La Cave",
+            "ro": "La Cave",
+            "en": "La Cave"
+          },
+          "coords": [
+            -0.535284,
+            47.16338
+          ],
+          "category": "landmark",
+          "arrive_at": "13:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Erfrischen Sie sich bei dieser markanten Sehenswürdigkeit und nutzen Sie die wunderbare Gelegenheit, ein paar schöne Fotos von der faszinierenden Architektur zu machen.",
+            "hu": "Frissüljön fel ennél a jellegzetes nevezetességnél, és ragadja meg a kiváló alkalmat, hogy készítsen néhány igazán szép fotót a lenyűgöző építészetről.",
+            "ro": "Reîmprospătați-vă la această atracție izbitoare și profitați de minunata ocazie pentru a face câteva fotografii foarte frumoase ale arhitecturii fascinante.",
+            "en": "Refresh yourself at this striking landmark and take the wonderful opportunity to capture some truly beautiful photos of the highly fascinating architecture."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Pierre",
+            "hu": "Saint-Pierre templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            -0.548172,
+            47.16266
+          ],
+          "category": "religious",
+          "arrive_at": "13:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Eine weitere faszinierende Kirche auf Ihrer Route; achten Sie hier ganz besonders auf die einzigartige Steinmetzarbeit über dem majestätischen Hauptportal.",
+            "hu": "Egy másik lenyűgöző templom az útvonalon; figyeljen itt nagyon különösen a főkapu feletti egyedülálló, aprólékosan kidolgozott kőfaragványokra.",
+            "ro": "O altă biserică fascinantă pe traseul dumneavoastră; acordați o atenție deosebită sculpturilor unice în piatră de deasupra maiestuosului portal principal.",
+            "en": "Another fascinating church on your route; be sure to pay very special attention to the wonderfully unique stonework above the majestic main portal."
+          }
+        },
+        {
+          "name": {
+            "de": "Engelskapelle",
+            "hu": "Angyalok kápolnája",
+            "ro": "Capela Îngerilor",
+            "en": "Chapel of the Angels"
+          },
+          "coords": [
+            -0.551035,
+            47.167925
+          ],
+          "category": "religious",
+          "arrive_at": "14:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour an dieser malerischen Kapelle, die etwas außerhalb liegt und einen perfekten, idyllischen Ort für ein angenehm ruhiges Picknick bietet.",
+            "hu": "Zárja túráját ennél a festői kápolnánál, amely kissé kijjebb található, és tökéletes, nagyon idilli helyszínt biztosít egy kellemes, csendes piknikhez.",
+            "ro": "Încheiați-vă turul la această capelă pitorească, care este puțin în afară și oferă un loc perfect și idilic pentru un picnic foarte liniștit și plăcut.",
+            "en": "End your tour at this highly picturesque chapel, which is located slightly outside and offers a absolutely perfect, idyllic spot for a quiet, relaxing picnic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad erkunden wir Vihiers äußerst flexibel und zügig. Nach einem entspannten Start am Charles-de-Gaulle-Platz und der Besichtigung der Kirche Saint-Nicolas geht es flott zum imposanten Schloss Maupassant.\n\nMittags radeln wir weiter zur historischen feudalen Motte, bevor wir uns auf den landschaftlich schönen Weg Richtung Norden machen.\n\nAm Nachmittag erreichen wir das markante Wahrzeichen La Cave und lassen uns von der Architektur der Kirche Saint-Pierre zutiefst beeindrucken.\n\nDen krönenden Abschluss bildet die ruhig gelegene Engelskapelle, wo wir die entspannte Atmosphäre im weichen Abendlicht voll auskosten.",
+        "hu": "Kerékpárral rugalmasan és gyorsan fedezzük fel Vihiers-t. A Charles de Gaulle téri nyugodt indulás és a Saint-Nicolas templom megtekintése után gyorsan eltekerünk az impozáns Maupassant-kastélyhoz.\n\nDélben tovább tekerünk a történelmi feudális földvárhoz, majd észak felé vesszük az irányt a festői utakon.\n\nDélután elérjük a jellegzetes La Cave nevezetességet, és hagyjuk, hogy a Saint-Pierre templom fenséges építészete igazán lenyűgözzön minket.\n\nA koronát a napra az esti fényben fürdő, csendes Angyalok kápolnája teszi fel, egy tökéletes hely a pihenésre.",
+        "ro": "Cu bicicleta explorăm Vihiers flexibil și rapid. După un început relaxat în Piața Charles de Gaulle și o vizită la biserica Saint-Nicolas, pedalăm rapid spre impunătorul Castel Maupassant.\n\nLa prânz, continuăm spre movila feudală istorică înainte de a ne îndrepta spre nord pe drumuri pitorești.\n\nDupă-amiaza ajungem la impresionanta atracție La Cave și ne lăsăm impresionați de arhitectura deosebită a bisericii Saint-Pierre.\n\nPunctul culminant este liniștita Capelă a Îngerilor, luminată de soarele apusului, un loc perfect pentru a încheia ziua.",
+        "en": "By bike, we explore Vihiers highly flexibly and quickly. After a relaxed start at Charles de Gaulle Square and a visit to the Église Saint-Nicolas, we pedal swiftly to the imposing Maupassant Castle.\n\nAt noon, we cycle further to the historical feudal motte before heading north along some truly picturesque local paths.\n\nIn the afternoon, we reach the striking landmark La Cave and let the glorious architecture of the Église Saint-Pierre deeply impress us.\n\nThe crowning finale is the quietly situated Chapel of the Angels, where we fully enjoy the peaceful atmosphere in the soft evening light."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:14",
+      "total_km": 9.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Charles-de-Gaulle-Platz",
+            "hu": "Charles de Gaulle tér",
+            "ro": "Piața Charles de Gaulle",
+            "en": "Charles de Gaulle Square"
+          },
+          "coords": [
+            -0.534927,
+            47.145799
+          ],
+          "category": "civic",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie bequem in der Nähe des Platzes und beginnen Sie Ihren Tag mit einem Spaziergang um dieses zentrale Wahrzeichen im Herzen der schönen Altstadt.",
+            "hu": "Parkoljon kényelmesen a tér közelében, és kezdje a napot egy kellemes sétával e központi nevezetesség körül, a gyönyörű óváros szívében.",
+            "ro": "Parcați convenabil în apropierea pieței și începeți ziua cu o plimbare plăcută în jurul acestui punct de reper central din inima frumosului oraș vechi.",
+            "en": "Park conveniently near the square and begin your day with a leisurely stroll around this central landmark right in the heart of the beautiful old town."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Maupassant",
+            "hu": "Maupassant kastély",
+            "ro": "Castelul Maupassant",
+            "en": "Maupassant Castle"
+          },
+          "coords": [
+            -0.541129,
+            47.146374
+          ],
+          "category": "historical",
+          "arrive_at": "09:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Das Schloss bietet oft exzellente Parkmöglichkeiten in der Nähe; nehmen Sie sich viel Zeit für die beeindruckenden Verteidigungsanlagen und historischen Höfe.",
+            "hu": "A kastély gyakran kínál kiváló parkolási lehetőséget a közelben; szánjon sok időt a lenyűgöző történelmi védművekre és a fenséges belső udvarokra.",
+            "ro": "Castelul oferă adesea opțiuni excelente de parcare în apropiere; faceți-vă mult timp pentru apărările istorice impresionante și curțile interioare.",
+            "en": "The castle often offers excellent parking options nearby; take plenty of time to fully explore the impressive historical defenses and majestic inner courtyards."
+          }
+        },
+        {
+          "name": {
+            "de": "Feudale Motte",
+            "hu": "Feudális földvár",
+            "ro": "Movilă feudală",
+            "en": "Feudal Motte"
+          },
+          "coords": [
+            -0.548666,
+            47.139037
+          ],
+          "category": "historical",
+          "arrive_at": "11:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Eine kurze Fahrt bringt Sie zu dieser historischen Aufschüttung, wo Sie festes Schuhwerk benötigen, um das unebene, aber überaus spannende Gelände sicher zu erkunden.",
+            "hu": "Egy rövid autóút elviszi ehhez a történelmi földvárhoz, ahol mindenképpen erős cipőre lesz szüksége az egyenetlen, de nagyon izgalmas terep biztonságos felfedezéséhez.",
+            "ro": "O scurtă călătorie cu mașina vă aduce la acest deal istoric, unde veți avea nevoie de încălțăminte robustă pentru a explora în siguranță terenul accidentat, dar palpitant.",
+            "en": "A short drive brings you to this highly historical earthwork, where you will definitely need sturdy shoes to safely explore the somewhat uneven but exciting terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Coudray-Montbault",
+            "hu": "Coudray-Montbault kastély",
+            "ro": "Castelul Coudray-Montbault",
+            "en": "Château du Coudray-Montbault"
+          },
+          "coords": [
+            -0.580366,
+            47.1389
+          ],
+          "category": "historical",
+          "arrive_at": "12:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die landschaftlich reizvolle Anfahrt zu diesem wunderschönen Château und informieren Sie sich am besten vorab über die genauen Führungenszeiten.",
+            "hu": "Élvezze a rendkívül festői utat ehhez a gyönyörű kastélyhoz, és mindenképpen tájékozódjon előzetesen a vezetett túrák pontos időpontjairól a tervezéshez.",
+            "ro": "Bucurați-vă de drumul pitoresc către acest frumos castel și asigurați-vă că vă informați în prealabil despre orele exacte de vizitare cu ghid.",
+            "en": "Enjoy the highly scenic drive to this exceedingly beautiful château and make sure to find out about the exact guided tour times well in advance to plan your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Engelskapelle",
+            "hu": "Angyalok kápolnája",
+            "ro": "Capela Îngerilor",
+            "en": "Chapel of the Angels"
+          },
+          "coords": [
+            -0.551035,
+            47.167925
+          ],
+          "category": "religious",
+          "arrive_at": "13:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Parken Sie etwas außerhalb, um diese charmante historische Kapelle zu besuchen und die tief spirituelle Atmosphäre in der wunderbar ruhigen, grünen Umgebung aufzusaugen.",
+            "hu": "Parkoljon kissé távolabb, hogy meglátogassa ezt a bájos történelmi kápolnát, és magába szívja a mélyen spirituális légkört a csodálatosan csendes, zöld környezetben.",
+            "ro": "Parcați puțin mai departe pentru a vizita această fermecătoare capelă istorică și pentru a absorbi atmosfera profund spirituală în mediul minunat de liniștit și verde.",
+            "en": "Park slightly further away to visit this charming historical chapel and soak up the deeply spiritual atmosphere in the wonderfully quiet, lush green surroundings."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Pierre",
+            "hu": "Saint-Pierre templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Église Saint-Pierre"
+          },
+          "coords": [
+            -0.548172,
+            47.16266
+          ],
+          "category": "religious",
+          "arrive_at": "14:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese bedeutende Kirche mit dem Auto und achten Sie auf die aufwendigen Verzierungen, die von der reichen religiösen Geschichte der Region zeugen.",
+            "hu": "Látogassa meg ezt a jelentős templomot autóval, és figyeljen a rendkívül bonyolult díszítésekre, amelyek a régió gazdag vallási történelméről tanúskodnak.",
+            "ro": "Vizitați această biserică importantă cu mașina și acordați atenție decorațiunilor complicate care stau mărturie a istoriei religioase bogate a întregii regiuni.",
+            "en": "Visit this highly significant church by car and pay very special attention to the intricate exterior decorations that bear witness to the region's rich religious history."
+          }
+        },
+        {
+          "name": {
+            "de": "La Cave",
+            "hu": "La Cave",
+            "ro": "La Cave",
+            "en": "La Cave"
+          },
+          "coords": [
+            -0.535284,
+            47.16338
+          ],
+          "category": "landmark",
+          "arrive_at": "15:19",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag bei diesem faszinierenden Wahrzeichen, wo Sie extrem leicht parken können und noch ein letztes Mal die unvergleichliche Atmosphäre von Vihiers spüren.",
+            "hu": "Zárja a napot ennél a lenyűgöző nevezetességnél, ahol nagyon könnyen parkolhat, és még utoljára átérezheti Vihiers páratlanul egyedi és barátságos hangulatát.",
+            "ro": "Încheiați-vă ziua la acest punct de reper fascinant, unde puteți parca extrem de ușor și puteți simți atmosfera incomparabilă din Vihiers pentru o ultimă oară.",
+            "en": "End your amazing day at this truly fascinating historical landmark, where you can park easily and feel the very incomparable local atmosphere of Vihiers for one last time."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Auto lassen sich die weiter entfernten Schätze von Vihiers absolut mühelos verbinden. Wir starten im Zentrum am Charles-de-Gaulle-Platz und fahren bald darauf zum historischen Schloss Maupassant.\n\nZur Mittagszeit erkunden wir die Motte féodale und machen einen fantastischen Abstecher in die malerische Umgebung zum imposanten Schloss Coudray-Montbault.\n\nDer Nachmittag steht ganz im Zeichen der Spiritualität mit Besuchen der friedlich abgelegenen Engelskapelle und der architektonisch prachtvollen Kirche Saint-Pierre.\n\nDen Abschluss bildet ein kurzer Halt am Wahrzeichen La Cave, bevor die entspannte Heimreise mit vielen neuen Eindrücken im Gepäck ansteht.",
+        "hu": "Autóval könnyedén és nagyon kényelmesen összekapcsolhatjuk Vihiers távolabbi kincseit. A központban, a Charles de Gaulle téren kezdünk, és nem sokkal később a történelmi Maupassant-kastélyhoz hajtunk.\n\nDélben felfedezzük a feudális földvárat, és kitérőt teszünk a festői környezetben fekvő, csodálatos Coudray-Montbault kastélyhoz.\n\nA délután a spiritualitás jegyében telik a békésen félreeső Angyalok kápolnája és a pompás Saint-Pierre templom meglátogatásával.\n\nA napot egy rövid megálló zárja a La Cave nevezetességnél, mielőtt rengeteg csodás új élménnyel gazdagodva végül hazaindulnánk.",
+        "ro": "Cu mașina, comorile mai îndepărtate ale orașului Vihiers pot fi combinate absolut fără efort. Începem în centru, în Piața Charles de Gaulle, și la scurt timp după aceea conducem spre istoricul Castel Maupassant.\n\nLa prânz, explorăm movila feudală și facem un ocol fantastic în împrejurimile pitorești către impunătorul Castel Coudray-Montbault.\n\nDupă-amiaza este dedicată în întregime spiritualității cu vizite la Capela Îngerilor, retrasă și pașnică, și la magnifica biserică Saint-Pierre.\n\nZiua se încheie cu o scurtă oprire la atracția La Cave, înainte de a ne îndrepta spre casă cu multe impresii minunate noi.",
+        "en": "By car, the more distant treasures of Vihiers can be effortlessly and very comfortably combined. We start in the center at Charles de Gaulle Square and shortly after drive to the highly historic Maupassant Castle.\n\nAt noon, we explore the feudal motte and take a fantastic detour into the picturesque rural surroundings to the wonderful Château du Coudray-Montbault.\n\nThe afternoon is fully dedicated to spirituality with highly rewarding visits to the peacefully secluded Chapel of the Angels and the magnificent Église Saint-Pierre.\n\nThe day ends with a short stop at the landmark La Cave before enthusiastically heading home with a multitude of great new impressions."
+      }
+    }
+  }
+}

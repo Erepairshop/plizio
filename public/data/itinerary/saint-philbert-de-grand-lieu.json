@@ -1,0 +1,405 @@
+{
+  "city_id": "saint-philbert-de-grand-lieu",
+  "anchor": {
+    "name": "Saint-Philbert-de-Grand-Lieu",
+    "coords": [
+      -1.64,
+      47.035
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:32",
+      "total_km": 1.45,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Saint-François",
+            "hu": "Chapelle Saint-François",
+            "ro": "Chapelle Saint-François",
+            "en": "Chapelle Saint-François"
+          },
+          "coords": [
+            -1.643539,
+            47.03521
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ruhige historische Architektur dieser bescheidenen Kapelle als perfekten Rückzugsort und besuchen Sie sie früh, um der Mittagssonne zu entgehen.",
+            "hu": "Csodálja meg a szerény kápolna nyugodt történelmi építészetét, amely tökéletes menedék, és látogasson el ide korán, hogy elkerülje a délutáni napsütést.",
+            "ro": "Admirați arhitectura istorică senină a acestei capele modeste, un refugiu perfect, și vizitați-o dimineața devreme pentru a evita soarele după-amiezii.",
+            "en": "Admire the serene historical architecture of this modest chapel, a perfect quiet retreat, and visit early to avoid the afternoon sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle de Lamoricière",
+            "hu": "Chapelle de Lamoricière",
+            "ro": "Chapelle de Lamoricière",
+            "en": "Chapelle de Lamoricière"
+          },
+          "coords": [
+            -1.641807,
+            47.035102
+          ],
+          "category": "religious",
+          "arrive_at": "09:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche lokale Erbe, das sich in diesen alten Mauern verbirgt, und bringen Sie eine Kamera für die markanten Glasmalereien mit.",
+            "hu": "Fedezze fel az ősi falak között megbúvó gazdag helyi örökséget, amely békés hangulatot áraszt, és hozzon fényképezőgépet a lenyűgöző ólomüveg részletekhez.",
+            "ro": "Descoperiți bogatul patrimoniu local ascuns în aceste ziduri antice, ce oferă o atmosferă pașnică, și aduceți un aparat foto pentru detaliile vitraliilor.",
+            "en": "Discover the rich local heritage hidden within these ancient walls, offering a peaceful atmosphere, and bring a camera for the striking stained glass details."
+          }
+        },
+        {
+          "name": {
+            "de": "Site de l'abbatiale - Déas",
+            "hu": "Site de l'abbatiale - Déas",
+            "ro": "Site de l'abbatiale - Déas",
+            "en": "Site de l'abbatiale - Déas"
+          },
+          "coords": [
+            -1.640408,
+            47.038678
+          ],
+          "category": "religious",
+          "arrive_at": "10:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die bemerkenswerte karolingische Abtei, eine der ältesten Frankreichs, und nehmen Sie sich Zeit für einen Spaziergang durch den Kräutergarten.",
+            "hu": "Fedezze fel a figyelemre méltó Karoling-kori apátságot, Franciaország egyik legrégebbi épületét, és szánjon időt a gyógynövénykert bejárására.",
+            "ro": "Explorați remarcabila abație carolingiană, una dintre cele mai vechi din Franța, și faceți o plimbare prin grădina de plante medicinale din curtea pașnică.",
+            "en": "Explore the remarkable Carolingian abbey, one of the oldest in France, and take time to stroll through the medicinal herb garden in the peaceful courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Boulogne Park",
+            "hu": "Boulogne Park",
+            "ro": "Boulogne Park",
+            "en": "Boulogne Park"
+          },
+          "coords": [
+            -1.639315,
+            47.041297
+          ],
+          "category": "park",
+          "arrive_at": "11:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie in dieser weitläufigen grünen Oase mit alten Bäumen, einem idealen Ort für ein Picknick; holen Sie sich frisches Brot von einem Bäcker in der Nähe.",
+            "hu": "Pihenjen meg ebben az öreg fákkal és kanyargós ösvényekkel teli, zöldellő oázisban, amely ideális egy déli piknikhez egy közeli pékségből beszerzett friss kenyérrel.",
+            "ro": "Relaxați-vă în această oază verde plină de copaci bătrâni, un loc ideal pentru un picnic la amiază, așa că luați niște pâine proaspătă de la o brutărie din apropiere.",
+            "en": "Relax in this expansive green oasis filled with mature trees and winding paths, an ideal spot for a midday picnic, so grab fresh bread from a nearby bakery."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand-Lieu Lake",
+            "hu": "Grand-Lieu Lake",
+            "ro": "Grand-Lieu Lake",
+            "en": "Grand-Lieu Lake"
+          },
+          "coords": [
+            -1.64054,
+            47.035915
+          ],
+          "category": "natural",
+          "arrive_at": "12:47",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Artenvielfalt eines der größten Flachlandseen Europas, ein Paradies für Vogelbeobachter, und bringen Sie ein Fernglas für seltene Arten mit.",
+            "hu": "Csodálja meg Európa egyik legnagyobb síkvidéki tavának biodiverzitását, amely a madármegfigyelők paradicsoma, és hozzon távcsövet a ritka fajok felfedezéséhez.",
+            "ro": "Minunați-vă de biodiversitatea unuia dintre cele mai mari lacuri de șes din Europa, un paradis al păsărilor, și aduceți binoclul pentru specii migratoare rare.",
+            "en": "Marvel at the vast biodiversity of one of Europe's largest lowland lakes, a haven for birdwatchers, and bring binoculars for spotting rare migratory species."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung der bescheidenen, aber wunderschönen Kapellen im Zentrum. Am Mittag erreichen Sie die prächtige karolingische Abtei, die jahrhundertelange regionale Geschichte enthüllt. Verbringen Sie den Nachmittag auf den schattigen, friedlichen Wegen des Boulogne-Parks. Beenden Sie den Tag am Grand-Lieu-See.",
+        "hu": "Kezdje a reggelt a városközpont szerény, ám gyönyörű kápolnáinak felfedezésével. Délben a csodálatos Karoling-kori apátság tárja fel évszázadok mély regionális történelmét. Töltse a délutánt a Boulogne park árnyas, békés ösvényein barangolva. Zárja a napot a Grand-Lieu tó nyugodt, elsöprő panorámájával naplemente idején.",
+        "ro": "Începeți dimineața explorând capelele modeste, dar frumoase din centrul orașului. La amiază ajungeți la magnifica abație carolingiană, dezvăluind secole de istorie regională. Petreceți-vă după-amiaza plimbându-vă pe cărările umbrite și liniștite ale Parcului Boulogne. Încheiați ziua cu priveliștile ample și liniștite de la Lacul Grand-Lieu.",
+        "en": "Start your morning exploring the modest yet beautiful chapels in the town center. Midday brings you to the magnificent Carolingian abbey, revealing centuries of profound regional history. Spend your afternoon wandering the shaded, peaceful paths of Boulogne Park. Conclude your day with the tranquil, sweeping views at Grand-Lieu Lake at sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:23",
+      "total_km": 5.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Site de l'abbatiale - Déas",
+            "hu": "Site de l'abbatiale - Déas",
+            "ro": "Site de l'abbatiale - Déas",
+            "en": "Site de l'abbatiale - Déas"
+          },
+          "coords": [
+            -1.640408,
+            47.038678
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die bemerkenswerte karolingische Abtei, eine der ältesten Frankreichs, und nehmen Sie sich Zeit für einen Spaziergang durch den Kräutergarten.",
+            "hu": "Fedezze fel a figyelemre méltó Karoling-kori apátságot, Franciaország egyik legrégebbi épületét, és szánjon időt a gyógynövénykert bejárására.",
+            "ro": "Explorați remarcabila abație carolingiană, una dintre cele mai vechi din Franța, și faceți o plimbare prin grădina de plante medicinale din curtea pașnică.",
+            "en": "Explore the remarkable Carolingian abbey, one of the oldest in France, and take time to stroll through the medicinal herb garden in the peaceful courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-François",
+            "hu": "Chapelle Saint-François",
+            "ro": "Chapelle Saint-François",
+            "en": "Chapelle Saint-François"
+          },
+          "coords": [
+            -1.643539,
+            47.03521
+          ],
+          "category": "religious",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ruhige historische Architektur dieser bescheidenen Kapelle als perfekten Rückzugsort und besuchen Sie sie früh, um der Mittagssonne zu entgehen.",
+            "hu": "Csodálja meg a szerény kápolna nyugodt történelmi építészetét, amely tökéletes menedék, és látogasson el ide korán, hogy elkerülje a délutáni napsütést.",
+            "ro": "Admirați arhitectura istorică senină a acestei capele modeste, un refugiu perfect, și vizitați-o dimineața devreme pentru a evita soarele după-amiezii.",
+            "en": "Admire the serene historical architecture of this modest chapel, a perfect quiet retreat, and visit early to avoid the afternoon sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand-Lieu Lake",
+            "hu": "Grand-Lieu Lake",
+            "ro": "Grand-Lieu Lake",
+            "en": "Grand-Lieu Lake"
+          },
+          "coords": [
+            -1.64054,
+            47.035915
+          ],
+          "category": "natural",
+          "arrive_at": "10:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Artenvielfalt eines der größten Flachlandseen Europas, ein Paradies für Vogelbeobachter, und bringen Sie ein Fernglas für seltene Arten mit.",
+            "hu": "Csodálja meg Európa egyik legnagyobb síkvidéki tavának biodiverzitását, amely a madármegfigyelők paradicsoma, és hozzon távcsövet a ritka fajok felfedezéséhez.",
+            "ro": "Minunați-vă de biodiversitatea unuia dintre cele mai mari lacuri de șes din Europa, un paradis al păsărilor, și aduceți binoclul pentru specii migratoare rare.",
+            "en": "Marvel at the vast biodiversity of one of Europe's largest lowland lakes, a haven for birdwatchers, and bring binoculars for spotting rare migratory species."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Noë",
+            "hu": "Château de la Noë",
+            "ro": "Château de la Noë",
+            "en": "Château de la Noë"
+          },
+          "coords": [
+            -1.661693,
+            47.03124
+          ],
+          "category": "castle",
+          "arrive_at": "11:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Erleben Sie die imposante Architektur dieses historischen Schlosses in üppiger Umgebung, perfekt für einen Nachmittagsspaziergang; tragen Sie bequeme Schuhe.",
+            "hu": "Tekintse meg ennek a buja környezetben fekvő történelmi kastélynak az impozáns építészetét, amely tökéletes egy délutáni sétához, és viseljen kényelmes cipőt.",
+            "ro": "Admirați arhitectura impunătoare a acestui castel istoric situat într-un decor luxuriant, perfect pentru o plimbare de după-amiază, și purtați încălțăminte comodă.",
+            "en": "Witness the imposing architecture of this historical castle set against lush surroundings, perfect for a gentle afternoon walk, and wear comfortable walking shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Jamonnières Castle",
+            "hu": "Jamonnières Castle",
+            "ro": "Jamonnières Castle",
+            "en": "Jamonnières Castle"
+          },
+          "coords": [
+            -1.692365,
+            47.041284
+          ],
+          "category": "historical",
+          "arrive_at": "13:33",
+          "stay_min": 110,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesem wunderschön erhaltenen Anwesen mit eleganten klassischen Elementen und prüfen Sie vor Ihrem Besuch die saisonalen Öffnungszeiten.",
+            "hu": "Lépjen vissza az időben ezen a gyönyörűen megőrzött, elegáns klasszikus elemekkel díszített birtokon, és látogatás előtt ellenőrizze a szezonális nyitvatartást.",
+            "ro": "Întoarceți-vă în timp la acest domeniu frumos conservat cu elemente clasice elegante și asigurați-vă că verificați orarul de funcționare sezonier înainte de vizită.",
+            "en": "Step back in time at this beautifully preserved estate featuring elegant classical elements, and make sure to check the seasonal opening hours before your visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an der historischen Abtei und nehmen Sie die alte Atmosphäre auf. Radeln Sie zu den ruhigen Kapellen, bevor Sie gegen Mittag die Natur des Grand-Lieu-Sees genießen. Fahren Sie nach Süden durch die malerische Landschaft, um das majestätische Château de la Noë zu entdecken. Beenden Sie den Tag am Jamonnières Castle.",
+        "hu": "Kezdje kerékpáros túráját a történelmi apátságnál, magába szívva annak ősi hangulatát. Tekerjen a nyugodt kápolnák felé, majd élvezze a Grand-Lieu tó hatalmas természeti szépségét délben. Lovagoljon dél felé a festői vidéken, hogy felfedezze a fenséges Château de la Noë-t. Fejezze be aktív napját az elegáns Jamonnières kastélyban.",
+        "ro": "Începeți călătoria cu bicicleta la abația istorică, absorbind atmosfera sa veche. Pedalați spre capelele senine înainte de a vă bucura de frumusețea lacului Grand-Lieu la prânz. Mergeți spre sud prin peisajul pitoresc pentru a descoperi maiestuosul Château de la Noë. Încheiați-vă ziua activă explorând elegantul Castel Jamonnières.",
+        "en": "Kick off your cycling journey at the historic abbey, absorbing its ancient atmosphere. Pedal towards the serene chapels before enjoying the vast natural beauty of Grand-Lieu Lake around noon. Ride southwards through the scenic countryside to discover the majestic Château de la Noë. Finish your active day exploring the elegant Jamonnières Castle."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:03",
+      "total_km": 9.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Villa des Bretaudières",
+            "hu": "Villa des Bretaudières",
+            "ro": "Villa des Bretaudières",
+            "en": "Villa des Bretaudières"
+          },
+          "coords": [
+            -1.632628,
+            47.01581
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den einzigartigen regionalen Charme dieser adligen Residenz inmitten malerischer Landschaften und kommen Sie früh, um das Morgenlicht zu erleben.",
+            "hu": "Értékelje e nemesi rezidencia egyedi regionális báját a festői tájak ölelésében, és érkezzen korán, hogy élvezhesse a homlokzaton megcsillanó reggeli fényeket.",
+            "ro": "Apreciați farmecul regional unic al acestei reședințe nobiliare înconjurate de peisaje pitorești și sosiți devreme pentru a vă bucura de lumina dimineții.",
+            "en": "Appreciate the unique regional charm of this noble residence surrounded by scenic landscapes, and plan to arrive early to enjoy the morning light on its facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de la Noë",
+            "hu": "Château de la Noë",
+            "ro": "Château de la Noë",
+            "en": "Château de la Noë"
+          },
+          "coords": [
+            -1.661693,
+            47.03124
+          ],
+          "category": "castle",
+          "arrive_at": "10:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die imposante Architektur dieses historischen Schlosses in üppiger Umgebung, perfekt für einen Nachmittagsspaziergang; tragen Sie bequeme Schuhe.",
+            "hu": "Tekintse meg ennek a buja környezetben fekvő történelmi kastélynak az impozáns építészetét, amely tökéletes egy délutáni sétához, és viseljen kényelmes cipőt.",
+            "ro": "Admirați arhitectura impunătoare a acestui castel istoric situat într-un decor luxuriant, perfect pentru o plimbare de după-amiază, și purtați încălțăminte comodă.",
+            "en": "Witness the imposing architecture of this historical castle set against lush surroundings, perfect for a gentle afternoon walk, and wear comfortable walking shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Jamonnières Castle",
+            "hu": "Jamonnières Castle",
+            "ro": "Jamonnières Castle",
+            "en": "Jamonnières Castle"
+          },
+          "coords": [
+            -1.692365,
+            47.041284
+          ],
+          "category": "historical",
+          "arrive_at": "12:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesem wunderschön erhaltenen Anwesen mit eleganten klassischen Elementen und prüfen Sie vor Ihrem Besuch die saisonalen Öffnungszeiten.",
+            "hu": "Lépjen vissza az időben ezen a gyönyörűen megőrzött, elegáns klasszikus elemekkel díszített birtokon, és látogatás előtt ellenőrizze a szezonális nyitvatartást.",
+            "ro": "Întoarceți-vă în timp la acest domeniu frumos conservat cu elemente clasice elegante și asigurați-vă că verificați orarul de funcționare sezonier înainte de vizită.",
+            "en": "Step back in time at this beautifully preserved estate featuring elegant classical elements, and make sure to check the seasonal opening hours before your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Site de l'abbatiale - Déas",
+            "hu": "Site de l'abbatiale - Déas",
+            "ro": "Site de l'abbatiale - Déas",
+            "en": "Site de l'abbatiale - Déas"
+          },
+          "coords": [
+            -1.640408,
+            47.038678
+          ],
+          "category": "religious",
+          "arrive_at": "13:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die bemerkenswerte karolingische Abtei, eine der ältesten Frankreichs, und nehmen Sie sich Zeit für einen Spaziergang durch den Kräutergarten.",
+            "hu": "Fedezze fel a figyelemre méltó Karoling-kori apátságot, Franciaország egyik legrégebbi épületét, és szánjon időt a gyógynövénykert bejárására.",
+            "ro": "Explorați remarcabila abație carolingiană, una dintre cele mai vechi din Franța, și faceți o plimbare prin grădina de plante medicinale din curtea pașnică.",
+            "en": "Explore the remarkable Carolingian abbey, one of the oldest in France, and take time to stroll through the medicinal herb garden in the peaceful courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Grand-Lieu Lake",
+            "hu": "Grand-Lieu Lake",
+            "ro": "Grand-Lieu Lake",
+            "en": "Grand-Lieu Lake"
+          },
+          "coords": [
+            -1.64054,
+            47.035915
+          ],
+          "category": "natural",
+          "arrive_at": "14:18",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Artenvielfalt eines der größten Flachlandseen Europas, ein Paradies für Vogelbeobachter, und bringen Sie ein Fernglas für seltene Arten mit.",
+            "hu": "Csodálja meg Európa egyik legnagyobb síkvidéki tavának biodiverzitását, amely a madármegfigyelők paradicsoma, és hozzon távcsövet a ritka fajok felfedezéséhez.",
+            "ro": "Minunați-vă de biodiversitatea unuia dintre cele mai mari lacuri de șes din Europa, un paradis al păsărilor, și aduceți binoclul pentru specii migratoare rare.",
+            "en": "Marvel at the vast biodiversity of one of Europe's largest lowland lakes, a haven for birdwatchers, and bring binoculars for spotting rare migratory species."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie in die Außenbezirke, um im Morgenlicht an der malerischen Villa des Bretaudières zu beginnen. Fahren Sie zum Château de la Noë und weiter zum Jamonnières Castle. Kehren Sie am späten Nachmittag in die Stadt zurück, um die berühmte Abtei zu besichtigen. Beenden Sie Ihren Roadtrip am weitläufigen Ufer des Grand-Lieu-Sees.",
+        "hu": "Vezessen a külvárosba, hogy a reggeli fényben a festői Villa des Bretaudières-nél kezdjen. Navigáljon a Château de la Noë felé, majd folytassa útját a Jamonnières kastélyhoz. Késő délután térjen vissza a városba, hogy meglátogassa a híres apátságot. Zárja autós kirándulását a Grand-Lieu tó partján.",
+        "ro": "Conduceți spre periferie pentru a începe dimineața la pitoreasca Villa des Bretaudières. Navigați spre Château de la Noë, apoi continuați către Castelul Jamonnières. Întoarceți-vă în oraș pentru a vizita renumita abație în cursul după-amiezii. Încheiați-vă excursia cu mașina pe malurile întinse ale Lacului Grand-Lieu.",
+        "en": "Drive to the outskirts to begin at the picturesque Villa des Bretaudières in the morning light. Navigate towards Château de la Noë, a testament to local noble heritage, before continuing to Jamonnières Castle. Head back into town to visit the renowned abbey in the late afternoon. End your road trip at the expansive shores of Grand-Lieu Lake."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "bormes-les-mimosas",
+  "anchor": {
+    "name": "Bormes-les-Mimosas",
+    "coords": [
+      6.3431,
+      43.1517
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:40",
+      "total_km": 7.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Trophyme",
+            "hu": "Saint-Trophyme templom",
+            "ro": "Biserica Saint-Trophyme",
+            "en": "Saint-Trophyme Church"
+          },
+          "coords": [
+            6.342383,
+            43.151855
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die romanische Architektur dieser historischen Kirche im Dorfzentrum und nutzen Sie den schattigen Platz nebenan für eine Pause.",
+            "hu": "Csodálja meg a falu központjában álló történelmi templom román stílusú építészetét, és pihenjen egyet a közeli árnyékos téren.",
+            "ro": "Admirați arhitectura romanică a acestei biserici istorice care ancorează satul și căutați piațeta umbrită din apropiere pentru o pauză liniștită.",
+            "en": "Admire the Romanesque architecture of this historic church that anchors the village, and check the shaded square nearby for a quiet rest."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-François-de-Paule",
+            "hu": "Saint-François-de-Paule kápolna",
+            "ro": "Capela Saint-François-de-Paule",
+            "en": "Saint-François-de-Paule Chapel"
+          },
+          "coords": [
+            6.344496,
+            43.151479
+          ],
+          "category": "religious",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Atmosphäre dieser dem Schutzpatron geweihten Kapelle und bringen Sie Ihre Kamera für die malerischen Gassen mit.",
+            "hu": "Fedezze fel a falu védőszentjének szentelt festői kápolna békés hangulatát, és hozzon fényképezőgépet a bájos környező sikátorokhoz.",
+            "ro": "Descoperiți ambianța senină a acestei capele pitorești închinate sfântului patron al satului și aduceți un aparat foto pentru aleile fermecătoare.",
+            "en": "Discover the serene ambiance of this quaint chapel honoring the village's patron saint, and bring a camera for the charming surrounding alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Gonzalez-Park",
+            "hu": "Gonzalez Park",
+            "ro": "Parcul Gonzalez",
+            "en": "Gonzalez Park"
+          },
+          "coords": [
+            6.345174,
+            43.150023
+          ],
+          "category": "natural",
+          "arrive_at": "10:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen außergewöhnlichen botanischen Garten mit seltenen australischen Pflanzen, aber tragen Sie feste Schuhe für die steilen Wege.",
+            "hu": "Fedezze fel ezt a ritka ausztrál növényekkel teli, kivételes botanikus kertet, de viseljen kényelmes cipőt, mivel a teraszos ösvények meredekek.",
+            "ro": "Explorați această grădină botanică excepțională plină de plante australiene rare, dar purtați încălțăminte stabilă deoarece aleile pot fi abrupte.",
+            "en": "Explore this exceptional botanical garden filled with rare Australian plants, but wear sturdy shoes as the terraced paths can be quite steep."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Cabasson",
+            "hu": "Cabasson strand",
+            "ro": "Plaja Cabasson",
+            "en": "Cabasson Beach"
+          },
+          "coords": [
+            6.324926,
+            43.099453
+          ],
+          "category": "natural",
+          "arrive_at": "13:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 92,
+          "hop_from_prev_km": 6.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie am feinen Sandstrand mit herrlichem Blick auf das Fort und kommen Sie früh, um sich einen guten Platz am Wasser zu sichern.",
+            "hu": "Pihenjen ennek a festői strandnak a finom homokján, ahonnan remek kilátás nyílik az erődre, és érkezzen korán a legjobb helyekért.",
+            "ro": "Relaxați-vă pe nisipul fin al acestei plaje pitorești cu vedere la fort și ajungeți devreme pentru a prinde un loc bun aproape de apă.",
+            "en": "Relax on the fine sands of this picturesque beach offering great views of the fort, and arrive early to secure a good spot near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort de Brégançon",
+            "hu": "Fort de Brégançon",
+            "ro": "Fort de Brégançon",
+            "en": "Fort de Brégançon"
+          },
+          "coords": [
+            6.3221,
+            43.0928
+          ],
+          "category": "fortress",
+          "arrive_at": "14:50",
+          "stay_min": 110,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Besichtigen Sie den offiziellen Rückzugsort des französischen Präsidenten auf einer Felseninsel, und buchen Sie Ihre Führung weit im Voraus online.",
+            "hu": "Járja be a francia elnök sziklás szigeten magasodó hivatalos nyaralóját, és ne felejtse el jó előre lefoglalni a vezetett túrát az interneten.",
+            "ro": "Vizitați reședința oficială a președintelui francez situată pe o insulă stâncoasă și nu uitați să rezervați turul ghidat din timp online.",
+            "en": "Tour the official retreat of the French President perched on a rocky islet, and remember to book your guided visit well in advance online."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der Erkundung des historischen Herzens von Bormes-les-Mimosas und seiner Architektur. Am Mittag schlendern Sie durch den Gonzalez-Park und hinunter zur Küste. Verbringen Sie den Nachmittag entspannt am Cabasson-Strand. Beenden Sie Ihren Tag mit einer unvergesslichen Tour durch das majestätische Fort de Brégançon.",
+        "hu": "Kezdje a reggelt Bormes-les-Mimosas történelmi központjának és bájos vallási építészetének felfedezésével. Délben a Gonzalez Parkon keresztül haladjon a tengerpart felé. A délutánt töltse pihenéssel a Cabasson strand finom homokján. Zárja a napot a fenséges Fort de Brégançon felejthetetlen bejárásával a lemenő nap fényében.",
+        "ro": "Începeți dimineața explorând inima istorică a Bormes-les-Mimosas, admirând arhitectura sa religioasă fermecătoare. La prânz, coborâți prin spectaculosul Parc Gonzalez spre coastă. Petreceți după-amiaza relaxându-vă pe nisipurile plajei Cabasson. Încheiați-vă ziua cu un tur memorabil al maiestuosului Fort de Brégançon.",
+        "en": "Start your morning exploring the historic heart of Bormes-les-Mimosas, taking in its charming religious architecture. Midday leads you through the spectacular Gonzalez Park and down towards the coast. Spend the afternoon relaxing on the sands of Cabasson Beach. Conclude your day with a memorable tour of the majestic Fort de Brégançon."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:37",
+      "total_km": 10.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Trophyme",
+            "hu": "Saint-Trophyme templom",
+            "ro": "Biserica Saint-Trophyme",
+            "en": "Saint-Trophyme Church"
+          },
+          "coords": [
+            6.342383,
+            43.151855
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die romanische Architektur dieser historischen Kirche im Dorfzentrum und nutzen Sie den schattigen Platz nebenan für eine Pause.",
+            "hu": "Csodálja meg a falu központjában álló történelmi templom román stílusú építészetét, és pihenjen egyet a közeli árnyékos téren.",
+            "ro": "Admirați arhitectura romanică a acestei biserici istorice care ancorează satul și căutați piațeta umbrită din apropiere pentru o pauză liniștită.",
+            "en": "Admire the Romanesque architecture of this historic church that anchors the village, and check the shaded square nearby for a quiet rest."
+          }
+        },
+        {
+          "name": {
+            "de": "Gonzalez-Park",
+            "hu": "Gonzalez Park",
+            "ro": "Parcul Gonzalez",
+            "en": "Gonzalez Park"
+          },
+          "coords": [
+            6.345174,
+            43.150023
+          ],
+          "category": "natural",
+          "arrive_at": "09:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen außergewöhnlichen botanischen Garten mit seltenen australischen Pflanzen, aber tragen Sie feste Schuhe für die steilen Wege.",
+            "hu": "Fedezze fel ezt a ritka ausztrál növényekkel teli, kivételes botanikus kertet, de viseljen kényelmes cipőt, mivel a teraszos ösvények meredekek.",
+            "ro": "Explorați această grădină botanică excepțională plină de plante australiene rare, dar purtați încălțăminte stabilă deoarece aleile pot fi abrupte.",
+            "en": "Explore this exceptional botanical garden filled with rare Australian plants, but wear sturdy shoes as the terraced paths can be quite steep."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort de Brégançon",
+            "hu": "Fort de Brégançon",
+            "ro": "Fort de Brégançon",
+            "en": "Fort de Brégançon"
+          },
+          "coords": [
+            6.3221,
+            43.0928
+          ],
+          "category": "fortress",
+          "arrive_at": "11:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 6.6,
+          "tip_5lang": {
+            "de": "Besichtigen Sie den offiziellen Rückzugsort des französischen Präsidenten auf einer Felseninsel, und buchen Sie Ihre Führung weit im Voraus online.",
+            "hu": "Járja be a francia elnök sziklás szigeten magasodó hivatalos nyaralóját, és ne felejtse el jó előre lefoglalni a vezetett túrát az interneten.",
+            "ro": "Vizitați reședința oficială a președintelui francez situată pe o insulă stâncoasă și nu uitați să rezervați turul ghidat din timp online.",
+            "en": "Tour the official retreat of the French President perched on a rocky islet, and remember to book your guided visit well in advance online."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Cabasson",
+            "hu": "Cabasson strand",
+            "ro": "Plaja Cabasson",
+            "en": "Cabasson Beach"
+          },
+          "coords": [
+            6.324926,
+            43.099453
+          ],
+          "category": "natural",
+          "arrive_at": "13:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie am feinen Sandstrand mit herrlichem Blick auf das Fort und kommen Sie früh, um sich einen guten Platz am Wasser zu sichern.",
+            "hu": "Pihenjen ennek a festői strandnak a finom homokján, ahonnan remek kilátás nyílik az erődre, és érkezzen korán a legjobb helyekért.",
+            "ro": "Relaxați-vă pe nisipul fin al acestei plaje pitorești cu vedere la fort și ajungeți devreme pentru a prinde un loc bun aproape de apă.",
+            "en": "Relax on the fine sands of this picturesque beach offering great views of the fort, and arrive early to secure a good spot near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Grand Jardin",
+            "hu": "Grand Jardin strand",
+            "ro": "Plaja Grand Jardin",
+            "en": "Plage du Grand Jardin"
+          },
+          "coords": [
+            6.309354,
+            43.108108
+          ],
+          "category": "recreational",
+          "arrive_at": "14:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erholen Sie sich in der ruhigen, naturbelassenen Umgebung dieses verborgenen Küstenjuwels und bringen Sie eigene Snacks mit, da es kaum Kioske gibt.",
+            "hu": "Kapcsolódjon ki e rejtett tengerparti gyöngyszem nyugodt és érintetlen természeti környezetében, de hozzon magával vizet és nasit az útra.",
+            "ro": "Relaxați-vă în cadrul natural liniștit al acestei bijuterii de coastă ascunse, aducându-vă propriile gustări și apă, deoarece facilitățile sunt rare.",
+            "en": "Unwind in the tranquil and preserved natural setting of this hidden coastal gem, bringing your own snacks and water as facilities are sparse."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand l'Estagnol",
+            "hu": "l'Estagnol strand",
+            "ro": "Plaja l'Estagnol",
+            "en": "Plage de l'Estagnol"
+          },
+          "coords": [
+            6.297762,
+            43.109225
+          ],
+          "category": "recreational",
+          "arrive_at": "15:52",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Waten Sie in das flache, lagunenartige türkisfarbene Wasser unter Pinien und nehmen Sie Bargeld für die nahegelegenen Parkplätze mit.",
+            "hu": "Gázoljon a fenyőfákkal övezett, sekély, lagúnaszerű türkizkék vízbe, és tartson magánál készpénzt a közeli parkoló és mosdók használatához.",
+            "ro": "Pășiți în apele turcoaz puțin adânci, mărginite de pini, și asigurați-vă că aveți numerar pentru parcarea umbrită și facilitățile din apropiere.",
+            "en": "Wade into the shallow, lagoon-like turquoise waters framed by pine trees, and carry some cash for the nearby shaded parking and facilities."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Tour im malerischen Dorfzentrum, besuchen Sie die historische Kirche und den Gonzalez-Park. Fahren Sie hinunter zur Küste, um gegen Mittag das große Fort de Brégançon zu erkunden. Der Nachmittag ist dem Strand-Hopping gewidmet, entspannen Sie nacheinander an den Stränden Cabasson, Grand Jardin und l'Estagnol.",
+        "hu": "Kezdje a tekerést a bájos falu központjában, meglátogatva a történelmi templomot és a Gonzalez Parkot. Kerékpározzon le a partra, és fedezze fel a hatalmas Fort de Brégançont. A délutánt a gyönyörű partvonalon való ugrándozásnak szenteljük, pihenjen sorban a Cabasson, a Grand Jardin és az l'Estagnol strandokon.",
+        "ro": "Începeți cursa în centrul fermecător al satului, vizitând biserica și admirând botanica din Parcul Gonzalez. Pedalați spre coastă pentru a explora Fortul de Brégançon la prânz. După-amiaza este dedicată plimbărilor de-a lungul coastei frumoase, relaxându-vă secvențial la plajele Cabasson, Grand Jardin și l'Estagnol.",
+        "en": "Kick off your ride in the charming village center, visiting the historic church before taking in the terraced botany of Gonzalez Park. Cycle down to the coast to explore the grand Fort de Brégançon around midday. The afternoon is dedicated to hopping along the beautiful coastline, unwinding sequentially at Cabasson, Grand Jardin, and l'Estagnol beaches."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:50",
+      "total_km": 12.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Trophyme",
+            "hu": "Saint-Trophyme templom",
+            "ro": "Biserica Saint-Trophyme",
+            "en": "Saint-Trophyme Church"
+          },
+          "coords": [
+            6.342383,
+            43.151855
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die romanische Architektur dieser historischen Kirche im Dorfzentrum und nutzen Sie den schattigen Platz nebenan für eine Pause.",
+            "hu": "Csodálja meg a falu központjában álló történelmi templom román stílusú építészetét, és pihenjen egyet a közeli árnyékos téren.",
+            "ro": "Admirați arhitectura romanică a acestei biserici istorice care ancorează satul și căutați piațeta umbrită din apropiere pentru o pauză liniștită.",
+            "en": "Admire the Romanesque architecture of this historic church that anchors the village, and check the shaded square nearby for a quiet rest."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-François-de-Paule",
+            "hu": "Saint-François-de-Paule kápolna",
+            "ro": "Capela Saint-François-de-Paule",
+            "en": "Saint-François-de-Paule Chapel"
+          },
+          "coords": [
+            6.344496,
+            43.151479
+          ],
+          "category": "religious",
+          "arrive_at": "09:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die ruhige Atmosphäre dieser dem Schutzpatron geweihten Kapelle und bringen Sie Ihre Kamera für die malerischen Gassen mit.",
+            "hu": "Fedezze fel a falu védőszentjének szentelt festői kápolna békés hangulatát, és hozzon fényképezőgépet a bájos környező sikátorokhoz.",
+            "ro": "Descoperiți ambianța senină a acestei capele pitorești închinate sfântului patron al satului și aduceți un aparat foto pentru aleile fermecătoare.",
+            "en": "Discover the serene ambiance of this quaint chapel honoring the village's patron saint, and bring a camera for the charming surrounding alleys."
+          }
+        },
+        {
+          "name": {
+            "de": "Fort de Brégançon",
+            "hu": "Fort de Brégançon",
+            "ro": "Fort de Brégançon",
+            "en": "Fort de Brégançon"
+          },
+          "coords": [
+            6.3221,
+            43.0928
+          ],
+          "category": "fortress",
+          "arrive_at": "10:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie den offiziellen Rückzugsort des französischen Präsidenten auf einer Felseninsel, und buchen Sie Ihre Führung weit im Voraus online.",
+            "hu": "Járja be a francia elnök sziklás szigeten magasodó hivatalos nyaralóját, és ne felejtse el jó előre lefoglalni a vezetett túrát az interneten.",
+            "ro": "Vizitați reședința oficială a președintelui francez situată pe o insulă stâncoasă și nu uitați să rezervați turul ghidat din timp online.",
+            "en": "Tour the official retreat of the French President perched on a rocky islet, and remember to book your guided visit well in advance online."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Cabasson",
+            "hu": "Cabasson strand",
+            "ro": "Plaja Cabasson",
+            "en": "Cabasson Beach"
+          },
+          "coords": [
+            6.324926,
+            43.099453
+          ],
+          "category": "natural",
+          "arrive_at": "12:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie am feinen Sandstrand mit herrlichem Blick auf das Fort und kommen Sie früh, um sich einen guten Platz am Wasser zu sichern.",
+            "hu": "Pihenjen ennek a festői strandnak a finom homokján, ahonnan remek kilátás nyílik az erődre, és érkezzen korán a legjobb helyekért.",
+            "ro": "Relaxați-vă pe nisipul fin al acestei plaje pitorești cu vedere la fort și ajungeți devreme pentru a prinde un loc bun aproape de apă.",
+            "en": "Relax on the fine sands of this picturesque beach offering great views of the fort, and arrive early to secure a good spot near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand l'Estagnol",
+            "hu": "l'Estagnol strand",
+            "ro": "Plaja l'Estagnol",
+            "en": "Plage de l'Estagnol"
+          },
+          "coords": [
+            6.297762,
+            43.109225
+          ],
+          "category": "recreational",
+          "arrive_at": "13:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Waten Sie in das flache, lagunenartige türkisfarbene Wasser unter Pinien und nehmen Sie Bargeld für die nahegelegenen Parkplätze mit.",
+            "hu": "Gázoljon a fenyőfákkal övezett, sekély, lagúnaszerű türkizkék vízbe, és tartson magánál készpénzt a közeli parkoló és mosdók használatához.",
+            "ro": "Pășiți în apele turcoaz puțin adânci, mărginite de pini, și asigurați-vă că aveți numerar pentru parcarea umbrită și facilitățile din apropiere.",
+            "en": "Wade into the shallow, lagoon-like turquoise waters framed by pine trees, and carry some cash for the nearby shaded parking and facilities."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Léoube",
+            "hu": "Léoube strand",
+            "ro": "Plaja Léoube",
+            "en": "Plage de Léoube"
+          },
+          "coords": [
+            6.286783,
+            43.114565
+          ],
+          "category": "recreational",
+          "arrive_at": "14:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie einen friedlichen Nachmittag an diesem wunderschönen weißen Sandstrand neben Weinbergen und tragen Sie reichlich Sonnencreme auf.",
+            "hu": "Töltsön el egy békés délutánt ezen a gyönyörű, szőlőültetvényekkel határolt fehér homokos strandon, és használjon bőségesen naptejet.",
+            "ro": "Bucurați-vă de o după-amiază pașnică pe această fâșie frumoasă de nisip alb, mărginită de podgorii, și aplicați multă cremă de protecție solară.",
+            "en": "Enjoy a peaceful afternoon on this beautiful stretch of white sand bordered by vineyards, and apply plenty of sunscreen against the vivid sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand Pellegrin - Bormes-les-Mimosas",
+            "hu": "Pellegrin strand - Bormes-les-Mimosas",
+            "ro": "Plaja Pellegrin - Bormes-les-Mimosas",
+            "en": "Plage du Pellegrin - Bormes-les-Mimosas"
+          },
+          "coords": [
+            6.274784,
+            43.120371
+          ],
+          "category": "recreational",
+          "arrive_at": "16:05",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Machen Sie einen langen, erholsamen Spaziergang entlang dieser weitläufigen und wilden Küste, aber achten Sie beim Schwimmen auf die felsigen Abschnitte.",
+            "hu": "Tegyen egy hosszú, frissítő sétát ezen a kiterjedt és vad partvonalon, de legyen óvatos a sziklás kiemelkedésekkel, amikor a széleken úszik.",
+            "ro": "Faceți o plimbare lungă și revitalizantă de-a lungul acestei coaste sălbatice, dar fiți atenți la aflorimentele stâncoase când înotați la margini.",
+            "en": "Take a long, revitalizing walk along this extensive and wild coastline, but be cautious of the rocky outcrops when swimming near the edges."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt mit der malerischen Dorfatmosphäre und besuchen Sie die historischen Kapellen. Mittags erreichen Sie das beeindruckende Fort de Brégançon an der Mittelmeerküste. Verbringen Sie den Nachmittag damit, von einem unberührten Strand zum nächsten zu fahren, und beenden Sie Ihren Ausflug am Strand von Pellegrin.",
+        "hu": "Kezdje az utat a falu békés atmoszférájának magába szívásával, történelmi kápolnáinak meglátogatásával. A dél a Földközi-tenger partján drámaian magasodó Fort de Brégançonhoz vezet. A délutánt csodás strandok között autózva töltse el, és zárja ezt a napfényes túrát a vad Pellegrin partszakaszánál.",
+        "ro": "Începeți călătoria absorbind atmosfera pitorească a satului, vizitând capelele și biserica principală. Prânzul vă aduce la impunătorul Fort de Brégançon de pe coasta mediteraneană. Petreceți-vă după-amiaza conducând de la o plajă imaculată la alta, culminând evadarea însorită la nisipurile sălbatice din Pellegrin.",
+        "en": "Begin your drive absorbing the quaint village atmosphere by visiting its historical chapels and main church. Midday brings you to the imposing Fort de Brégançon, perched dramatically on the Mediterranean coast. Spend your afternoon cruising from one pristine beach to another, culminating your sunny coastal escape at the wild sands of Pellegrin."
+      }
+    }
+  }
+}

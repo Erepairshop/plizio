@@ -1,0 +1,474 @@
+{
+  "city_id": "semarang-cities-v2",
+  "anchor": {
+    "name": "Semarang",
+    "coords": [
+      110.4203,
+      -6.9932
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:09",
+      "total_km": 6.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Pasar Widosari kemuning",
+            "hu": "Pasar Widosari kemuning",
+            "ro": "Pasar Widosari kemuning",
+            "en": "Pasar Widosari kemuning"
+          },
+          "coords": [
+            110.425105,
+            -6.984289
+          ],
+          "category": "cultural",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen lebhaften lokalen Markt, um den authentischen täglichen Handel zu erleben, und kaufen Sie am besten morgens frische regionale Snacks.",
+            "hu": "Fedezze fel ezt az élénk helyi piacot, hogy szemtanúja legyen a hiteles mindennapi kereskedelemnek, és vásároljon friss regionális harapnivalókat kora reggel.",
+            "ro": "Explorați această piață locală plină de viață pentru a asista la comerțul zilnic autentic, cumpărând gustări regionale proaspete dimineața devreme.",
+            "en": "Explore this lively local market to witness authentic daily commerce, picking up fresh regional snacks early in the morning for the best selection."
+          }
+        },
+        {
+          "name": {
+            "de": "Relokasi Pasar Johar",
+            "hu": "Relokasi Pasar Johar",
+            "ro": "Relokasi Pasar Johar",
+            "en": "Relokasi Pasar Johar"
+          },
+          "coords": [
+            110.444139,
+            -6.979122
+          ],
+          "category": "cultural",
+          "arrive_at": "10:32",
+          "stay_min": 50,
+          "hop_from_prev_min": 32,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie den lebhaften neuen Standort dieses historischen Marktes, um eine Vielzahl von Textilien zu finden, aber denken Sie daran, höflich zu handeln.",
+            "hu": "Látogasson el ennek a történelmi piacnak az új, nyüzsgő helyszínére a különféle textíliákért, de ne felejtsen el udvariasan alkudni a barátságos árusokkal.",
+            "ro": "Vizitați noua locație vibrantă a acestei piețe istorice pentru o mare varietate de textile, dar nu uitați să negociați politicos cu vânzătorii prietenoși.",
+            "en": "Visit the vibrant relocation site of this historic market to find a huge variety of textiles and goods, but remember to bargain politely with the friendly vendors."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Pusat Perkembangan Islam Jawa Tengah",
+            "hu": "Közép-Jávai Iszlám Fejlődés Múzeuma",
+            "ro": "Muzeul Centrului de Dezvoltare Islamică Java Centrală",
+            "en": "Museum Pusat Perkembangan Islam Jawa Tengah"
+          },
+          "coords": [
+            110.446638,
+            -6.98474
+          ],
+          "category": "museum",
+          "arrive_at": "11:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte der Ausbreitung des Islam in Zentraljava durch faszinierende Artefakte und lesen Sie die detaillierten Ausstellungen genau.",
+            "hu": "Fedezze fel a közép-jávai iszlám terjedésének gazdag történelmét a lenyűgöző műtárgyakon keresztül, és olvassa el a helyi kulturális integrációról szóló részleteket.",
+            "ro": "Descoperiți istoria bogată a răspândirii islamului în Java Centrală prin artefacte fascinante și citiți expozițiile detaliate despre integrarea culturală.",
+            "en": "Discover the rich history of Islamic spread in Central Java through fascinating artifacts, and be sure to read the detailed exhibits highlighting local cultural integration."
+          }
+        },
+        {
+          "name": {
+            "de": "Pasar Satrio Wibowo",
+            "hu": "Pasar Satrio Wibowo",
+            "ro": "Pasar Satrio Wibowo",
+            "en": "Pasar Satrio Wibowo"
+          },
+          "coords": [
+            110.455735,
+            -6.982176
+          ],
+          "category": "cultural",
+          "arrive_at": "13:28",
+          "stay_min": 50,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erleben Sie das bunte Treiben in diesem kulturellen Zentrum des Viertels, probieren Sie einzigartiges javanisches Streetfood und bringen Sie unbedingt kleines Bargeld mit.",
+            "hu": "Tapasztalja meg ennek a környékbeli kulturális központnak a nyüzsgését, ahol megkóstolhatja az egyedi jávai utcai ételeket, ügyelve arra, hogy legyen önnél aprópénz.",
+            "ro": "Experimentați agitația acestui centru cultural de cartier unde puteți gusta mâncare stradală javaneză, asigurându-vă că aveți la voi bancnote mici pentru tranzacții ușoare.",
+            "en": "Experience the hustle and bustle of this neighborhood cultural hub where you can sample unique Javanese street food, ensuring you carry small cash notes for easy transactions."
+          }
+        },
+        {
+          "name": {
+            "de": "Studio Patung & Taman",
+            "hu": "Studio Patung & Taman",
+            "ro": "Studio Patung & Taman",
+            "en": "Studio Patung & Taman"
+          },
+          "coords": [
+            110.454449,
+            -7.006852
+          ],
+          "category": "museum",
+          "arrive_at": "14:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 41,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten lokalen Skulpturen in einer ruhigen Gartenumgebung und nutzen Sie das natürliche Licht am Nachmittag für wunderschöne Fotos.",
+            "hu": "Csodálja meg a lenyűgöző helyi szobrokat egy nyugodt kerti környezetben, kihasználva a délutáni természetes megvilágítást a gyönyörű fényképek készítéséhez.",
+            "ro": "Admirați sculpturile locale impresionante așezate într-un mediu de grădină liniștit, profitând de lumina naturală din timpul după-amiezii pentru fotografii frumoase.",
+            "en": "Admire the striking local sculptures set within a tranquil garden environment, taking advantage of the natural lighting in the afternoon for beautiful photography."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der lokalen Kultur auf dem Markt Widosari kemuning und dem historischen Pasar Johar. Mittags besuchen Sie das Museum Pusat Perkembangan Islam für historische Einblicke. Probieren Sie am Nachmittag authentische Aromen auf dem Pasar Satrio Wibowo. Beenden Sie Ihre Tour im ruhigen Studio Patung & Taman und bewundern Sie die lokalen Skulpturen.",
+        "hu": "Kezdje a reggelt a helyi kultúra elmerülésével a Pasar Widosari kemuningban és a történelmi Pasar Joharban. Délben látogasson el az Iszlám Múzeumba a történelmi betekintésért. Délután kóstolja meg az autentikus ízeket a Pasar Satrio Wibowóban. Zárja gyalogtúráját a nyugodt Studio Patung & Tamanban, megcsodálva annak gyönyörű helyi szobrait.",
+        "ro": "Începeți dimineața imersându-vă în cultura locală la Pasar Widosari kemuning și la istoricul Pasar Johar. La prânz, vizitați Muzeul Centrului Islamic pentru perspective istorice profunde. După-amiaza, gustați arome autentice la Pasar Satrio Wibowo. Încheiați turul la liniștitul Studio Patung & Taman, admirând sculpturile sale locale frumoase.",
+        "en": "Begin your morning immersing in the local culture at Pasar Widosari kemuning and the relocated historical Pasar Johar. Midday brings you to the Museum Pusat Perkembangan Islam for deep historical insights. In the afternoon, sample authentic flavors at Pasar Satrio Wibowo. Conclude your walking tour at the tranquil Studio Patung & Taman, admiring its beautiful local sculptures."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:13",
+      "total_km": 9.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pasar Widosari kemuning",
+            "hu": "Pasar Widosari kemuning",
+            "ro": "Pasar Widosari kemuning",
+            "en": "Pasar Widosari kemuning"
+          },
+          "coords": [
+            110.425105,
+            -6.984289
+          ],
+          "category": "cultural",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen lebhaften lokalen Markt, um den authentischen täglichen Handel zu erleben, und kaufen Sie am besten morgens frische regionale Snacks.",
+            "hu": "Fedezze fel ezt az élénk helyi piacot, hogy szemtanúja legyen a hiteles mindennapi kereskedelemnek, és vásároljon friss regionális harapnivalókat kora reggel.",
+            "ro": "Explorați această piață locală plină de viață pentru a asista la comerțul zilnic autentic, cumpărând gustări regionale proaspete dimineața devreme.",
+            "en": "Explore this lively local market to witness authentic daily commerce, picking up fresh regional snacks early in the morning for the best selection."
+          }
+        },
+        {
+          "name": {
+            "de": "Relokasi Pasar Johar",
+            "hu": "Relokasi Pasar Johar",
+            "ro": "Relokasi Pasar Johar",
+            "en": "Relokasi Pasar Johar"
+          },
+          "coords": [
+            110.444139,
+            -6.979122
+          ],
+          "category": "cultural",
+          "arrive_at": "10:11",
+          "stay_min": 50,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie den lebhaften neuen Standort dieses historischen Marktes, um eine Vielzahl von Textilien zu finden, aber denken Sie daran, höflich zu handeln.",
+            "hu": "Látogasson el ennek a történelmi piacnak az új, nyüzsgő helyszínére a különféle textíliákért, de ne felejtsen el udvariasan alkudni a barátságos árusokkal.",
+            "ro": "Vizitați noua locație vibrantă a acestei piețe istorice pentru o mare varietate de textile, dar nu uitați să negociați politicos cu vânzătorii prietenoși.",
+            "en": "Visit the vibrant relocation site of this historic market to find a huge variety of textiles and goods, but remember to bargain politely with the friendly vendors."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Pusat Perkembangan Islam Jawa Tengah",
+            "hu": "Közép-Jávai Iszlám Fejlődés Múzeuma",
+            "ro": "Muzeul Centrului de Dezvoltare Islamică Java Centrală",
+            "en": "Museum Pusat Perkembangan Islam Jawa Tengah"
+          },
+          "coords": [
+            110.446638,
+            -6.98474
+          ],
+          "category": "museum",
+          "arrive_at": "11:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte der Ausbreitung des Islam in Zentraljava durch faszinierende Artefakte und lesen Sie die detaillierten Ausstellungen genau.",
+            "hu": "Fedezze fel a közép-jávai iszlám terjedésének gazdag történelmét a lenyűgöző műtárgyakon keresztül, és olvassa el a helyi kulturális integrációról szóló részleteket.",
+            "ro": "Descoperiți istoria bogată a răspândirii islamului în Java Centrală prin artefacte fascinante și citiți expozițiile detaliate despre integrarea culturală.",
+            "en": "Discover the rich history of Islamic spread in Central Java through fascinating artifacts, and be sure to read the detailed exhibits highlighting local cultural integration."
+          }
+        },
+        {
+          "name": {
+            "de": "Pasar Satrio Wibowo",
+            "hu": "Pasar Satrio Wibowo",
+            "ro": "Pasar Satrio Wibowo",
+            "en": "Pasar Satrio Wibowo"
+          },
+          "coords": [
+            110.455735,
+            -6.982176
+          ],
+          "category": "cultural",
+          "arrive_at": "12:50",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erleben Sie das bunte Treiben in diesem kulturellen Zentrum des Viertels, probieren Sie einzigartiges javanisches Streetfood und bringen Sie unbedingt kleines Bargeld mit.",
+            "hu": "Tapasztalja meg ennek a környékbeli kulturális központnak a nyüzsgését, ahol megkóstolhatja az egyedi jávai utcai ételeket, ügyelve arra, hogy legyen önnél aprópénz.",
+            "ro": "Experimentați agitația acestui centru cultural de cartier unde puteți gusta mâncare stradală javaneză, asigurându-vă că aveți la voi bancnote mici pentru tranzacții ușoare.",
+            "en": "Experience the hustle and bustle of this neighborhood cultural hub where you can sample unique Javanese street food, ensuring you carry small cash notes for easy transactions."
+          }
+        },
+        {
+          "name": {
+            "de": "Pasar Bangetayu",
+            "hu": "Pasar Bangetayu",
+            "ro": "Pasar Bangetayu",
+            "en": "Pasar Bangetayu"
+          },
+          "coords": [
+            110.476625,
+            -6.981978
+          ],
+          "category": "cultural",
+          "arrive_at": "13:53",
+          "stay_min": 50,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die farbenfrohe Atmosphäre dieses traditionellen Ostmarktes, der für frische Produkte bekannt ist, und achten Sie auf Motorräder in den schmalen Gängen.",
+            "hu": "Merüljön el ennek a friss termékeiről ismert hagyományos keleti piacnak a színes atmoszférájában, és vigyázzon a szűk folyosókon navigáló motorosokra.",
+            "ro": "Cufundați-vă în atmosfera colorată a acestei piețe tradiționale de est cunoscute pentru produsele proaspete și aveți grijă la motocicletele de pe culoarele înguste.",
+            "en": "Immerse yourself in the colorful atmosphere of this traditional eastern market known for its fresh produce, and watch out for motorbikes navigating the narrow aisles."
+          }
+        },
+        {
+          "name": {
+            "de": "Studio Patung & Taman",
+            "hu": "Studio Patung & Taman",
+            "ro": "Studio Patung & Taman",
+            "en": "Studio Patung & Taman"
+          },
+          "coords": [
+            110.454449,
+            -7.006852
+          ],
+          "category": "museum",
+          "arrive_at": "15:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 3.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten lokalen Skulpturen in einer ruhigen Gartenumgebung und nutzen Sie das natürliche Licht am Nachmittag für wunderschöne Fotos.",
+            "hu": "Csodálja meg a lenyűgöző helyi szobrokat egy nyugodt kerti környezetben, kihasználva a délutáni természetes megvilágítást a gyönyörű fényképek készítéséhez.",
+            "ro": "Admirați sculpturile locale impresionante așezate într-un mediu de grădină liniștit, profitând de lumina naturală din timpul după-amiezii pentru fotografii frumoase.",
+            "en": "Admire the striking local sculptures set within a tranquil garden environment, taking advantage of the natural lighting in the afternoon for beautiful photography."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie durch die belebten Gassen von Pasar Widosari und Pasar Johar in einen energiegeladenen Morgen. Mittags ruhen Sie sich im faszinierenden Iszlám Múzeum aus. Ihre Nachmittagsfahrt verbindet kulturelle Zentren wie Pasar Satrio Wibowo und den Markt Bangetayu. Entspannen Sie sich schließlich im Studio Patung & Taman und genießen Sie die Kunst.",
+        "hu": "Kerékpározzon egy energikus reggelbe a Pasar Widosari és a Pasar Johar forgalmas sávjain keresztül. Délben pihenjen meg a lenyűgöző Iszlám Múzeumban. A délutáni túra olyan kulturális központokat köt össze, mint a Satrio Wibowo és a Bangetayu piac. Végül pihenjen meg a Studio Patung & Tamanban, élvezve a művészetet a kertben.",
+        "ro": "Pedalați spre o dimineață energică prin străzile aglomerate din Pasar Widosari și Pasar Johar. La prânz, odihniți-vă la Muzeul Islamic. Plimbarea de după-amiază conectează centre culturale precum Pasar Satrio Wibowo și piața Bangetayu. În cele din urmă, relaxați-vă la Studio Patung & Taman, bucurându-vă de artă într-o grădină.",
+        "en": "Cycle your way to an energetic morning through the busy lanes of Pasar Widosari and Pasar Johar. By midday, rest at the fascinating Museum Pusat Perkembangan Islam. Your afternoon ride connects cultural hubs like Pasar Satrio Wibowo and the eastern Bangetayu market. Finally, relax at Studio Patung & Taman, enjoying art in a calm garden setting as the evening approaches."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:44",
+      "total_km": 15.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Pasar Widosari kemuning",
+            "hu": "Pasar Widosari kemuning",
+            "ro": "Pasar Widosari kemuning",
+            "en": "Pasar Widosari kemuning"
+          },
+          "coords": [
+            110.425105,
+            -6.984289
+          ],
+          "category": "cultural",
+          "arrive_at": "09:10",
+          "stay_min": 50,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen lebhaften lokalen Markt, um den authentischen täglichen Handel zu erleben, und kaufen Sie am besten morgens frische regionale Snacks.",
+            "hu": "Fedezze fel ezt az élénk helyi piacot, hogy szemtanúja legyen a hiteles mindennapi kereskedelemnek, és vásároljon friss regionális harapnivalókat kora reggel.",
+            "ro": "Explorați această piață locală plină de viață pentru a asista la comerțul zilnic autentic, cumpărând gustări regionale proaspete dimineața devreme.",
+            "en": "Explore this lively local market to witness authentic daily commerce, picking up fresh regional snacks early in the morning for the best selection."
+          }
+        },
+        {
+          "name": {
+            "de": "Relokasi Pasar Johar",
+            "hu": "Relokasi Pasar Johar",
+            "ro": "Relokasi Pasar Johar",
+            "en": "Relokasi Pasar Johar"
+          },
+          "coords": [
+            110.444139,
+            -6.979122
+          ],
+          "category": "cultural",
+          "arrive_at": "10:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie den lebhaften neuen Standort dieses historischen Marktes, um eine Vielzahl von Textilien zu finden, aber denken Sie daran, höflich zu handeln.",
+            "hu": "Látogasson el ennek a történelmi piacnak az új, nyüzsgő helyszínére a különféle textíliákért, de ne felejtsen el udvariasan alkudni a barátságos árusokkal.",
+            "ro": "Vizitați noua locație vibrantă a acestei piețe istorice pentru o mare varietate de textile, dar nu uitați să negociați politicos cu vânzătorii prietenoși.",
+            "en": "Visit the vibrant relocation site of this historic market to find a huge variety of textiles and goods, but remember to bargain politely with the friendly vendors."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Pusat Perkembangan Islam Jawa Tengah",
+            "hu": "Közép-Jávai Iszlám Fejlődés Múzeuma",
+            "ro": "Muzeul Centrului de Dezvoltare Islamică Java Centrală",
+            "en": "Museum Pusat Perkembangan Islam Jawa Tengah"
+          },
+          "coords": [
+            110.446638,
+            -6.98474
+          ],
+          "category": "museum",
+          "arrive_at": "10:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte der Ausbreitung des Islam in Zentraljava durch faszinierende Artefakte und lesen Sie die detaillierten Ausstellungen genau.",
+            "hu": "Fedezze fel a közép-jávai iszlám terjedésének gazdag történelmét a lenyűgöző műtárgyakon keresztül, és olvassa el a helyi kulturális integrációról szóló részleteket.",
+            "ro": "Descoperiți istoria bogată a răspândirii islamului în Java Centrală prin artefacte fascinante și citiți expozițiile detaliate despre integrarea culturală.",
+            "en": "Discover the rich history of Islamic spread in Central Java through fascinating artifacts, and be sure to read the detailed exhibits highlighting local cultural integration."
+          }
+        },
+        {
+          "name": {
+            "de": "Studio Patung & Taman",
+            "hu": "Studio Patung & Taman",
+            "ro": "Studio Patung & Taman",
+            "en": "Studio Patung & Taman"
+          },
+          "coords": [
+            110.454449,
+            -7.006852
+          ],
+          "category": "museum",
+          "arrive_at": "12:42",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten lokalen Skulpturen in einer ruhigen Gartenumgebung und nutzen Sie das natürliche Licht am Nachmittag für wunderschöne Fotos.",
+            "hu": "Csodálja meg a lenyűgöző helyi szobrokat egy nyugodt kerti környezetben, kihasználva a délutáni természetes megvilágítást a gyönyörű fényképek készítéséhez.",
+            "ro": "Admirați sculpturile locale impresionante așezate într-un mediu de grădină liniștit, profitând de lumina naturală din timpul după-amiezii pentru fotografii frumoase.",
+            "en": "Admire the striking local sculptures set within a tranquil garden environment, taking advantage of the natural lighting in the afternoon for beautiful photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Pasar Srondol",
+            "hu": "Pasar Srondol",
+            "ro": "Pasar Srondol",
+            "en": "Pasar Srondol"
+          },
+          "coords": [
+            110.413507,
+            -7.05821
+          ],
+          "category": "cultural",
+          "arrive_at": "14:38",
+          "stay_min": 50,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 7.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen belebten Südmarkt mit einer großen Auswahl an Dingen des täglichen Bedarfs, perfekt, um sich mit tropischen Früchten zu stärken.",
+            "hu": "Sétáljon végig ezen a nyüzsgő déli piacon, amely a mindennapi szükségletek széles skáláját kínálja, tökéletes arra, hogy trópusi gyümölcsökkel frissítse fel magát.",
+            "ro": "Plimbați-vă prin această piață sudică plină de viață care oferă o gamă largă de necesități zilnice, perfectă pentru a lua câteva fructe tropicale energizante.",
+            "en": "Stroll through this bustling southern market offering a wide array of daily necessities, perfect for grabbing some tropical fruits to keep you energized."
+          }
+        },
+        {
+          "name": {
+            "de": "Pasar Rasamala",
+            "hu": "Pasar Rasamala",
+            "ro": "Pasar Rasamala",
+            "en": "Pasar Rasamala"
+          },
+          "coords": [
+            110.417124,
+            -7.069831
+          ],
+          "category": "cultural",
+          "arrive_at": "15:31",
+          "stay_min": 50,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Besuchen Sie die vielfältigen Stände auf diesem lebhaften Gemeinschaftsmarkt, der die lokalen Viertel versorgt, ein idealer Ort für authentische javanische Begegnungen.",
+            "hu": "Nézze meg a változatos standokat ezen az élénk közösségi piacon, amely a helyi negyedeket szolgálja ki, így ideális hely a hiteles jávai interakciók megfigyelésére.",
+            "ro": "Descoperiți tarabele diverse la această piață comunitară vibrantă, făcând-o un loc ideal pentru a fi martorul interacțiunilor autentice javaneze din cartier.",
+            "en": "Check out the diverse stalls at this vibrant community market that serves the local neighborhoods, making it an ideal spot to witness authentic Javanese interactions."
+          }
+        },
+        {
+          "name": {
+            "de": "Pasar Damar",
+            "hu": "Pasar Damar",
+            "ro": "Pasar Damar",
+            "en": "Pasar Damar"
+          },
+          "coords": [
+            110.429822,
+            -7.072203
+          ],
+          "category": "cultural",
+          "arrive_at": "16:24",
+          "stay_min": 50,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise an diesem weitläufigen Marktkomplex, wo Sie handgefertigte Souvenirs finden, und belohnen Sie Ihre Erkundung mit einzigartigen Schnäppchen.",
+            "hu": "Zárja utazását ebben a kiterjedt piac-komplexumban, ahol kézműves ajándéktárgyakat találhat, megjutalmazva felfedezését néhány egyedi helyi alkalmi vétellel.",
+            "ro": "Încheiați-vă călătoria la acest complex de piețe expansiv unde puteți găsi suveniruri realizate manual, recompensându-vă explorarea cu chilipiruri locale unice.",
+            "en": "Conclude your trip at this expansive market complex where you can find handcrafted souvenirs and local garments, rewarding your exploration with unique local bargains."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie bequem zu den geschäftigen Morgenmärkten Widosari und Johar, bevor die Hitze ihren Höhepunkt erreicht. Der Mittag bietet einen lehrreichen Rückzugsort im Iszlám Múzeum. Am Nachmittag fahren Sie nach Süden, um das Studio Patung & Taman und den Pasar Srondol zu entdecken. Beenden Sie den Tag auf den Nachbarschaftsmärkten Rasamala und Damar.",
+        "hu": "Vezessen kényelmesen a nyüzsgő Widosari és Johar reggeli piacokhoz, mielőtt a hőség tetőzik. A dél oktatási menedéket kínál az Iszlám Múzeumban. Ahogy a délután kibontakozik, utazzon délre, hogy felfedezze a Studio Patung & Tamant és a Pasar Srondolt. Zárja a napot a Rasamala és a Damar nyüzsgő környékbeli piacainak meglátogatásával.",
+        "ro": "Conduceți confortabil către piețele de dimineață Widosari și Johar înainte ca căldura să atingă maximul. Prânzul oferă o retragere educațională la Muzeul Islamic. Pe măsură ce se desfășoară după-amiaza, călătoriți spre sud pentru a descoperi Studio Patung & Taman și Pasar Srondol. Încheiați ziua vizitând piețele de cartier Rasamala și Damar.",
+        "en": "Drive comfortably to explore the bustling morning markets of Widosari and Johar before the heat peaks. Midday offers an educational retreat at the Museum Pusat Perkembangan Islam. As the afternoon unfolds, journey south to discover the beautiful Studio Patung & Taman and Pasar Srondol. Conclude the day hopping between vibrant neighborhood markets Rasamala and Damar."
+      }
+    }
+  }
+}

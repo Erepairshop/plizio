@@ -1,0 +1,451 @@
+{
+  "city_id": "italy-finale-cities-v2",
+  "anchor": {
+    "name": "Finale",
+    "coords": [
+      14.16224,
+      38.01988
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:43",
+      "total_km": 2.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Teatro Parco Urbano di Finale",
+            "hu": "Teatro Parco Urbano di Finale",
+            "ro": "Teatro Parco Urbano di Finale",
+            "en": "Teatro Parco Urbano di Finale"
+          },
+          "coords": [
+            14.164927,
+            38.017966
+          ],
+          "category": "cultural",
+          "arrive_at": "09:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Freilichtaufführungen und die kulturelle Resonanz dieses modernen Theaterparks am Meer, aber bringen Sie unbedingt einen Sonnenhut für tagsüber mit.",
+            "hu": "Csodálja meg a szabadtéri előadásokat és a tengerparti modern színházpark kulturális varázsát, de nappali látogatáshoz mindenképpen hozzon magával szalmakalapot.",
+            "ro": "Admirați spectacolele în aer liber și rezonanța culturală a acestui parc teatral modern de lângă mare, dar nu uitați să aduceți o pălărie de soare pentru vizitele de zi.",
+            "en": "Admire the open-air performances and cultural resonance of this modern theater park nestled by the sea, but be sure to bring a sun hat for daytime visits."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre del Marchese",
+            "hu": "Torre del Marchese",
+            "ro": "Torre del Marchese",
+            "en": "Torre del Marchese"
+          },
+          "coords": [
+            14.163325,
+            38.020637
+          ],
+          "category": "castle",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieses historischen Küstenwachturms, der vor Piraten schützte, und steigen Sie auf die obere Terrasse für einen unvergleichlichen Panoramablick.",
+            "hu": "Fedezze fel a kalózok ellen védelmet nyújtó történelmi parti őrtorony maradványait, és másszon fel a felső teraszra a páratlan mediterrán panorámáért.",
+            "ro": "Explorați rămășițele acestui turn istoric de coastă care a protejat împotriva piraților și urcați pe terasa superioară pentru vederi mediteraneene panoramice inegalabile.",
+            "en": "Explore the remnants of this historic coastal watchtower that guarded against pirates, and climb to the upper terrace for unparalleled panoramic Mediterranean views."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia allo Scoglio Grande",
+            "hu": "Spiaggia allo Scoglio Grande",
+            "ro": "Spiaggia allo Scoglio Grande",
+            "en": "Spiaggia allo Scoglio Grande"
+          },
+          "coords": [
+            14.164782,
+            38.020368
+          ],
+          "category": "recreational",
+          "arrive_at": "12:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Strand, der von seiner massiven Felsformation vor der Küste geprägt ist, und kommen Sie früh morgens, um den besten Platz zu sichern.",
+            "hu": "Pihenjen ezen a festői strandon, amelyet a hatalmas tengeri sziklaalakzat tesz egyedivé, és érkezzen kora reggel, hogy a legjobb helyet foglalja el a lágy hullámok közelében.",
+            "ro": "Relaxați-vă pe această plajă pitorească definită de formațiunea stâncoasă masivă din larg și ajungeți dimineața devreme pentru a prinde cel mai bun loc lângă valuri.",
+            "en": "Relax on this picturesque beach defined by its massive offshore rock formation, and arrive early in the morning to claim the best spot near the gentle waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia Costa Turchina",
+            "hu": "Spiaggia Costa Turchina",
+            "ro": "Spiaggia Costa Turchina",
+            "en": "Spiaggia Costa Turchina"
+          },
+          "coords": [
+            14.178183,
+            38.019658
+          ],
+          "category": "recreational",
+          "arrive_at": "13:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie das kristallklare, azurblaue Wasser dieses ruhigen Kieselstrandes, der sich perfekt zum Schwimmen eignet, und tragen Sie feste Wasserschuhe für das Ufer.",
+            "hu": "Élvezze a kristálytiszta azúrkék vizet ezen a csendes kavicsos strandon, amely tökéletes az úszáshoz, de viseljen erős vizicipőt a sziklás partvonal kényelmes bejárásához.",
+            "ro": "Bucurați-vă de apele azurii și limpezi ale acestei plaje liniștite cu pietriș, perfectă pentru înot, și purtați încălțăminte de apă rezistentă pentru un confort sporit.",
+            "en": "Enjoy the crystal-clear azure waters of this tranquil pebble beach perfect for swimming, and wear sturdy water shoes to navigate the rocky shoreline comfortably."
+          }
+        },
+        {
+          "name": {
+            "de": "Mulino",
+            "hu": "Mulino",
+            "ro": "Mulino",
+            "en": "Mulino"
+          },
+          "coords": [
+            14.181163,
+            38.019057
+          ],
+          "category": "historical",
+          "arrive_at": "14:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie das faszinierende industrielle Erbe dieser historischen Wassermühle, die einst lokales Getreide verarbeitete, und fragen Sie nach den Mahlmechanismen.",
+            "hu": "Fedezze fel e történelmi vízimalom lenyűgöző ipari örökségét, amely egykor a helyi gabonát dolgozta fel, és kérdezze a helyi vezetőket az egyedi őrlési mechanizmusokról.",
+            "ro": "Descoperiți fascinanta moștenire industrială a acestei mori istorice de apă care odinioară procesa cerealele locale și întrebați ghizii despre mecanismele de măcinare.",
+            "en": "Discover the fascinating industrial heritage of this historic watermill that once processed local grain, and ask the local guides about its unique grinding mechanisms."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im kulturellen Herzen am Teatro Parco Urbano, gefolgt von der historischen Torre del Marchese. Der Mittag bringt Entspannung an der Spiaggia allo Scoglio Grande. Am Nachmittag machen Sie einen Spaziergang zur unberührten Spiaggia Costa Turchina. Beenden Sie Ihren Abend mit der Entdeckung des reichen industriellen Erbes am historischen Mulino.",
+        "hu": "Kezdje a reggelt a Teatro Parco Urbano kulturális szívében, majd látogasson el a történelmi Torre del Marchese-hez. A dél a Spiaggia allo Scoglio Grande lágy hullámainál hoz felüdülést. Délután tegyen egy kényelmes sétát az érintetlen Spiaggia Costa Turchina felé. Zárja az estét a történelmi Mulino gazdag ipari örökségének felfedezésével és nyugodt pillanataival.",
+        "ro": "Începeți dimineața explorând inima culturală la Teatro Parco Urbano, urmată de o vizită istorică la Torre del Marchese. Prânzul aduce relaxare pe Spiaggia allo Scoglio Grande. După-amiaza, faceți o plimbare liniștită către curata Spiaggia Costa Turchina. Încheiați seara descoperind bogata moștenire industrială la istorica moară de apă Mulino.",
+        "en": "Begin your morning exploring the cultural heart at Teatro Parco Urbano, followed by a fascinating historical visit to Torre del Marchese. Midday brings relaxation by the gentle waves of Spiaggia allo Scoglio Grande. In the afternoon, take a leisurely stroll to the pristine Spiaggia Costa Turchina. Conclude your evening discovering the rich industrial heritage at the historical Mulino."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:56",
+      "total_km": 6.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Torre del Marchese",
+            "hu": "Torre del Marchese",
+            "ro": "Torre del Marchese",
+            "en": "Torre del Marchese"
+          },
+          "coords": [
+            14.163325,
+            38.020637
+          ],
+          "category": "castle",
+          "arrive_at": "09:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieses historischen Küstenwachturms, der vor Piraten schützte, und steigen Sie auf die obere Terrasse für einen unvergleichlichen Panoramablick.",
+            "hu": "Fedezze fel a kalózok ellen védelmet nyújtó történelmi parti őrtorony maradványait, és másszon fel a felső teraszra a páratlan mediterrán panorámáért.",
+            "ro": "Explorați rămășițele acestui turn istoric de coastă care a protejat împotriva piraților și urcați pe terasa superioară pentru vederi mediteraneene panoramice inegalabile.",
+            "en": "Explore the remnants of this historic coastal watchtower that guarded against pirates, and climb to the upper terrace for unparalleled panoramic Mediterranean views."
+          }
+        },
+        {
+          "name": {
+            "de": "Caletta Rais Gerbi",
+            "hu": "Caletta Rais Gerbi",
+            "ro": "Caletta Rais Gerbi",
+            "en": "Caletta Rais Gerbi"
+          },
+          "coords": [
+            14.150402,
+            38.026814
+          ],
+          "category": "recreational",
+          "arrive_at": "10:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die intime Atmosphäre dieser versteckten Bucht, die für ihre steilen Klippen bekannt ist, und packen Sie Ihre Schnorchelausrüstung für die Unterwasserwelt ein.",
+            "hu": "Szívja magába a drámai szikláiról ismert rejtett öböl meghitt atmoszféráját, és csomagolja be a sznorkelfelszerelését is az élénk víz alatti tengeri élővilág felfedezéséhez.",
+            "ro": "Bucurați-vă de atmosfera intimă a acestui golf ascuns, renumit pentru stâncile sale dramatice, și aduceți echipamentul de snorkeling pentru a explora viața marină.",
+            "en": "Soak up the intimate atmosphere of this hidden cove renowned for its dramatic cliffs, and pack your snorkeling gear to explore the vibrant underwater marine life."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia Torre Conca",
+            "hu": "Spiaggia Torre Conca",
+            "ro": "Spiaggia Torre Conca",
+            "en": "Spiaggia Torre Conca"
+          },
+          "coords": [
+            14.142551,
+            38.023193
+          ],
+          "category": "recreational",
+          "arrive_at": "12:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die weiten Sandstrände dieses beliebten Küstenjuwels, das von üppigem Grün umgeben ist, und bringen Sie ein Picknick für einen entspannten Nachmittag mit.",
+            "hu": "Tapasztalja meg e népszerű, buja növényzettel határolt parti gyöngyszem hatalmas homokos szakaszait, és hozzon magával pikniket a kényelmes mediterrán délutánhoz.",
+            "ro": "Experimentați întinderile vaste de nisip ale acestei bijuterii de coastă, mărginită de verdeață luxuriantă, și aduceți un picnic pentru o după-amiază relaxantă.",
+            "en": "Experience the vast sandy stretches of this popular coastal gem bordered by lush greenery, and bring a picnic to enjoy a leisurely afternoon under the Mediterranean sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia allo Scoglio Grande",
+            "hu": "Spiaggia allo Scoglio Grande",
+            "ro": "Spiaggia allo Scoglio Grande",
+            "en": "Spiaggia allo Scoglio Grande"
+          },
+          "coords": [
+            14.164782,
+            38.020368
+          ],
+          "category": "recreational",
+          "arrive_at": "13:26",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Strand, der von seiner massiven Felsformation vor der Küste geprägt ist, und kommen Sie früh morgens, um den besten Platz zu sichern.",
+            "hu": "Pihenjen ezen a festői strandon, amelyet a hatalmas tengeri sziklaalakzat tesz egyedivé, és érkezzen kora reggel, hogy a legjobb helyet foglalja el a lágy hullámok közelében.",
+            "ro": "Relaxați-vă pe această plajă pitorească definită de formațiunea stâncoasă masivă din larg și ajungeți dimineața devreme pentru a prinde cel mai bun loc lângă valuri.",
+            "en": "Relax on this picturesque beach defined by its massive offshore rock formation, and arrive early in the morning to claim the best spot near the gentle waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Parco Urbano di Finale",
+            "hu": "Teatro Parco Urbano di Finale",
+            "ro": "Teatro Parco Urbano di Finale",
+            "en": "Teatro Parco Urbano di Finale"
+          },
+          "coords": [
+            14.164927,
+            38.017966
+          ],
+          "category": "cultural",
+          "arrive_at": "14:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Freilichtaufführungen und die kulturelle Resonanz dieses modernen Theaterparks am Meer, aber bringen Sie unbedingt einen Sonnenhut für tagsüber mit.",
+            "hu": "Csodálja meg a szabadtéri előadásokat és a tengerparti modern színházpark kulturális varázsát, de nappali látogatáshoz mindenképpen hozzon magával szalmakalapot.",
+            "ro": "Admirați spectacolele în aer liber și rezonanța culturală a acestui parc teatral modern de lângă mare, dar nu uitați să aduceți o pălărie de soare pentru vizitele de zi.",
+            "en": "Admire the open-air performances and cultural resonance of this modern theater park nestled by the sea, but be sure to bring a sun hat for daytime visits."
+          }
+        },
+        {
+          "name": {
+            "de": "Mulino",
+            "hu": "Mulino",
+            "ro": "Mulino",
+            "en": "Mulino"
+          },
+          "coords": [
+            14.181163,
+            38.019057
+          ],
+          "category": "historical",
+          "arrive_at": "16:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie das faszinierende industrielle Erbe dieser historischen Wassermühle, die einst lokales Getreide verarbeitete, und fragen Sie nach den Mahlmechanismen.",
+            "hu": "Fedezze fel e történelmi vízimalom lenyűgöző ipari örökségét, amely egykor a helyi gabonát dolgozta fel, és kérdezze a helyi vezetőket az egyedi őrlési mechanizmusokról.",
+            "ro": "Descoperiți fascinanta moștenire industrială a acestei mori istorice de apă care odinioară procesa cerealele locale și întrebați ghizii despre mecanismele de măcinare.",
+            "en": "Discover the fascinating industrial heritage of this historic watermill that once processed local grain, and ask the local guides about its unique grinding mechanisms."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie früh zur antiken Torre del Marchese, radeln Sie dann westlich zur atemberaubenden Caletta Rais Gerbi. Gegen Mittag radeln Sie zur Spiaggia Torre Conca für ein Bad. Verbringen Sie Ihren Nachmittag in der Sonne an der Spiaggia allo Scoglio Grande, bevor Sie das Teatro Parco Urbano besuchen. Beenden Sie Ihren aktiven Tag entspannt an der rustikalen Mulino.",
+        "hu": "Korán tekerjen el az ősi Torre del Marchese-hez, majd induljon nyugatra a lenyűgöző Caletta Rais Gerbi felé. Délben látogasson el a Spiaggia Torre Conca strandra egy frissítő úszásra. Töltse a délutánt a Spiaggia allo Scoglio Grande napsütésében, mielőtt megnézné a kulturális Teatro Parco Urbano-t. Zárja ezt az aktív napot a rusztikus és történelmi Mulino közelében.",
+        "ro": "Pedalați devreme spre vechiul Torre del Marchese, apoi mergeți spre vest către superba Caletta Rais Gerbi. La prânz, coborâți spre Spiaggia Torre Conca pentru o înotare revigorantă. Petreceți după-amiaza la soare pe Spiaggia allo Scoglio Grande înainte de a vizita culturalul Teatro Parco Urbano. Terminați ziua activă cu o vizită liniștită la moara rustică Mulino.",
+        "en": "Ride out early to the ancient Torre del Marchese to enjoy morning breezes, then cycle west to the stunning Caletta Rais Gerbi. Around midday, pedal down to Spiaggia Torre Conca for a revitalizing swim. Spend your afternoon soaking up the sun at Spiaggia allo Scoglio Grande before hitting the cultural Teatro Parco Urbano. Finish your active day at the rustic Mulino."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:05",
+      "total_km": 6.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Spiaggia Torre Conca",
+            "hu": "Spiaggia Torre Conca",
+            "ro": "Spiaggia Torre Conca",
+            "en": "Spiaggia Torre Conca"
+          },
+          "coords": [
+            14.142551,
+            38.023193
+          ],
+          "category": "recreational",
+          "arrive_at": "09:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die weiten Sandstrände dieses beliebten Küstenjuwels, das von üppigem Grün umgeben ist, und bringen Sie ein Picknick für einen entspannten Nachmittag mit.",
+            "hu": "Tapasztalja meg e népszerű, buja növényzettel határolt parti gyöngyszem hatalmas homokos szakaszait, és hozzon magával pikniket a kényelmes mediterrán délutánhoz.",
+            "ro": "Experimentați întinderile vaste de nisip ale acestei bijuterii de coastă, mărginită de verdeață luxuriantă, și aduceți un picnic pentru o după-amiază relaxantă.",
+            "en": "Experience the vast sandy stretches of this popular coastal gem bordered by lush greenery, and bring a picnic to enjoy a leisurely afternoon under the Mediterranean sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia Rais Gerbi",
+            "hu": "Spiaggia Rais Gerbi",
+            "ro": "Spiaggia Rais Gerbi",
+            "en": "Spiaggia Rais Gerbi"
+          },
+          "coords": [
+            14.152703,
+            38.025435
+          ],
+          "category": "recreational",
+          "arrive_at": "10:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf den Kieselsteinen dieses wunderschön abgelegenen Strandes unterhalb der Klippen und bleiben Sie bis zum späten Nachmittag für die goldene Stunde.",
+            "hu": "Pihenjen a sziklák alatt megbúvó, gyönyörűen eldugott strand békés kavicsain, és maradjon késő délutánig, hogy megcsodálja a látványos aranyórai tükröződéseket.",
+            "ro": "Relaxați-vă pe pietrișul liniștit al acestei plaje frumos izolate, ascunsă sub stânci, și rămâneți până după-amiaza târziu pentru a surprinde reflexiile orei de aur.",
+            "en": "Unwind on the serene pebbles of this beautifully secluded beach tucked beneath the cliffs, and stay until late afternoon to catch the spectacular golden hour reflections."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre del Marchese",
+            "hu": "Torre del Marchese",
+            "ro": "Torre del Marchese",
+            "en": "Torre del Marchese"
+          },
+          "coords": [
+            14.163325,
+            38.020637
+          ],
+          "category": "castle",
+          "arrive_at": "12:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieses historischen Küstenwachturms, der vor Piraten schützte, und steigen Sie auf die obere Terrasse für einen unvergleichlichen Panoramablick.",
+            "hu": "Fedezze fel a kalózok ellen védelmet nyújtó történelmi parti őrtorony maradványait, és másszon fel a felső teraszra a páratlan mediterrán panorámáért.",
+            "ro": "Explorați rămășițele acestui turn istoric de coastă care a protejat împotriva piraților și urcați pe terasa superioară pentru vederi mediteraneene panoramice inegalabile.",
+            "en": "Explore the remnants of this historic coastal watchtower that guarded against pirates, and climb to the upper terrace for unparalleled panoramic Mediterranean views."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Parco Urbano di Finale",
+            "hu": "Teatro Parco Urbano di Finale",
+            "ro": "Teatro Parco Urbano di Finale",
+            "en": "Teatro Parco Urbano di Finale"
+          },
+          "coords": [
+            14.164927,
+            38.017966
+          ],
+          "category": "cultural",
+          "arrive_at": "13:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Freilichtaufführungen und die kulturelle Resonanz dieses modernen Theaterparks am Meer, aber bringen Sie unbedingt einen Sonnenhut für tagsüber mit.",
+            "hu": "Csodálja meg a szabadtéri előadásokat és a tengerparti modern színházpark kulturális varázsát, de nappali látogatáshoz mindenképpen hozzon magával szalmakalapot.",
+            "ro": "Admirați spectacolele în aer liber și rezonanța culturală a acestui parc teatral modern de lângă mare, dar nu uitați să aduceți o pălărie de soare pentru vizitele de zi.",
+            "en": "Admire the open-air performances and cultural resonance of this modern theater park nestled by the sea, but be sure to bring a sun hat for daytime visits."
+          }
+        },
+        {
+          "name": {
+            "de": "Mulino",
+            "hu": "Mulino",
+            "ro": "Mulino",
+            "en": "Mulino"
+          },
+          "coords": [
+            14.181163,
+            38.019057
+          ],
+          "category": "historical",
+          "arrive_at": "14:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie das faszinierende industrielle Erbe dieser historischen Wassermühle, die einst lokales Getreide verarbeitete, und fragen Sie nach den Mahlmechanismen.",
+            "hu": "Fedezze fel e történelmi vízimalom lenyűgöző ipari örökségét, amely egykor a helyi gabonát dolgozta fel, és kérdezze a helyi vezetőket az egyedi őrlési mechanizmusokról.",
+            "ro": "Descoperiți fascinanta moștenire industrială a acestei mori istorice de apă care odinioară procesa cerealele locale și întrebați ghizii despre mecanismele de măcinare.",
+            "en": "Discover the fascinating industrial heritage of this historic watermill that once processed local grain, and ask the local guides about its unique grinding mechanisms."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia Costa Turchina",
+            "hu": "Spiaggia Costa Turchina",
+            "ro": "Spiaggia Costa Turchina",
+            "en": "Spiaggia Costa Turchina"
+          },
+          "coords": [
+            14.178183,
+            38.019658
+          ],
+          "category": "recreational",
+          "arrive_at": "16:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie das kristallklare, azurblaue Wasser dieses ruhigen Kieselstrandes, der sich perfekt zum Schwimmen eignet, und tragen Sie feste Wasserschuhe für das Ufer.",
+            "hu": "Élvezze a kristálytiszta azúrkék vizet ezen a csendes kavicsos strandon, amely tökéletes az úszáshoz, de viseljen erős vizicipőt a sziklás partvonal kényelmes bejárásához.",
+            "ro": "Bucurați-vă de apele azurii și limpezi ale acestei plaje liniștite cu pietriș, perfectă pentru înot, și purtați încălțăminte de apă rezistentă pentru un confort sporit.",
+            "en": "Enjoy the crystal-clear azure waters of this tranquil pebble beach perfect for swimming, and wear sturdy water shoes to navigate the rocky shoreline comfortably."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie bequem zur Spiaggia Torre Conca für einen erfrischenden Start und setzen Sie Ihre Küstenreise an der Spiaggia Rais Gerbi fort. Ihr Mittagsstopp bietet fantastische Ausblicke von der historischen Torre del Marchese. Nachmittags tauchen Sie im Teatro Parco Urbano in die Kultur ein. Beenden Sie Ihren Tag mit der Erkundung des Mulino und entspannen Sie sich dort.",
+        "hu": "Vezessen kényelmesen a népszerű Spiaggia Torre Conca felé a frissítő reggeli kezdésért, majd folytassa parti útját a Spiaggia Rais Gerbi-nél. A déli megálló hihetetlen kilátást nyújt a történelmi Torre del Marchese-ből. Délután merüljön el a helyi kultúrában a Teatro Parco Urbano-ban. Zárja a napot a Mulino felfedezésével és a Costa Turchina strandjának megcsodálásával.",
+        "ro": "Conduceți ușor către Spiaggia Torre Conca pentru un început revigorant, continuând călătoria de coastă la Spiaggia Rais Gerbi. Oprirea de prânz oferă vederi incredibile de la istoricul Torre del Marchese. După-amiaza, cufundați-vă în cultura locală la Teatro Parco Urbano. Încheiați-vă ziua explorând moara istorică Mulino și relaxându-vă la plaja pitorească Costa Turchina.",
+        "en": "Drive smoothly to the popular Spiaggia Torre Conca for a refreshing morning start, continuing your coastal journey at Spiaggia Rais Gerbi. Your midday stop features incredible views from the historic Torre del Marchese. In the afternoon, immerse yourself in local culture at the nearby Teatro Parco Urbano. Wrap up your day exploring the Mulino and relaxing at Costa Turchina."
+      }
+    }
+  }
+}

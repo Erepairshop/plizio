@@ -1,0 +1,451 @@
+{
+  "city_id": "nezahualcoyotl-cities-v2",
+  "anchor": {
+    "name": "Nezahualcóyotl",
+    "coords": [
+      -99.0181,
+      19.4031
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 5.27,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Centro Cultural \"El Castillito\"",
+            "hu": "Centro Cultural \"El Castillito\"",
+            "ro": "Centro Cultural \"El Castillito\"",
+            "en": "Centro Cultural \"El Castillito\""
+          },
+          "coords": [
+            -99.009774,
+            19.403373
+          ],
+          "category": "cultural",
+          "arrive_at": "09:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die märchenhafte Architektur dieses Kulturzentrums und prüfen Sie unbedingt vorab das aktuelle Programm für Ausstellungen oder Konzerte.",
+            "hu": "Csodálja meg a kulturális központ meseszerű építészetét, és mindenképpen ellenőrizze előre az aktuális kiállítások vagy koncertek programját.",
+            "ro": "Admirați arhitectura de basm a acestui centru cultural și asigurați-vă că verificați în prealabil programul actual pentru expoziții sau concerte.",
+            "en": "Admire the fairytale-like architecture of this cultural center and make sure to check the current program for exhibitions or concerts beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Sor Juana Ines de la Cruz",
+            "hu": "Sor Juana Ines de la Cruz",
+            "ro": "Sor Juana Ines de la Cruz",
+            "en": "Sor Juana Ines de la Cruz"
+          },
+          "coords": [
+            -99.014713,
+            19.405658
+          ],
+          "category": "historical",
+          "arrive_at": "10:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.56,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die berühmte Dichterin an diesem historischen Ort und nehmen Sie sich Zeit, die vielen informativen Schautafeln zu lesen.",
+            "hu": "Tudjon meg többet a híres költőnőről ezen a történelmi helyszínen, és szánjon időt a számos informatív kiállított tábla alapos elolvasására.",
+            "ro": "Aflați mai multe despre faimoasa poetă în acest loc istoric și faceți-vă timp pentru a citi numeroasele panouri informative expuse pentru vizitatori.",
+            "en": "Learn more about the famous poet at this historical site and take your time to carefully read the many informative display boards provided here."
+          }
+        },
+        {
+          "name": {
+            "de": "Marbet",
+            "hu": "Marbet",
+            "ro": "Marbet",
+            "en": "Marbet"
+          },
+          "coords": [
+            -99.016664,
+            19.413906
+          ],
+          "category": "cultural",
+          "arrive_at": "12:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.92,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das kulturelle Leben von Marbet ein und nutzen Sie die Gelegenheit, an einem der lokalen Workshops oder Veranstaltungen teilzunehmen.",
+            "hu": "Merüljön el a Marbet kulturális életében, és ragadja meg a lehetőséget, hogy részt vegyen a számos helyi műhelymunka vagy rendezvény valamelyikén.",
+            "ro": "Cufundați-vă în viața culturală din Marbet și profitați de oportunitatea de a participa la unul dintre atelierele sau evenimentele locale.",
+            "en": "Immerse yourself in the cultural life of Marbet and take the opportunity to participate in one of the many local workshops or events hosted here."
+          }
+        },
+        {
+          "name": {
+            "de": "Auditorio la Salle",
+            "hu": "Auditorio la Salle",
+            "ro": "Auditorio la Salle",
+            "en": "Auditorio la Salle"
+          },
+          "coords": [
+            -99.016317,
+            19.422449
+          ],
+          "category": "cultural",
+          "arrive_at": "14:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Dieses beeindruckende Auditorium bietet großartige Akustik; versuchen Sie, Karten für eine Nachmittagsvorstellung zu bekommen, um es voll zu erleben.",
+            "hu": "Ez a lenyűgöző nézőtér nagyszerű akusztikát kínál; próbáljon meg jegyet szerezni egy délutáni előadásra, hogy teljes mértékben átélhesse az élményt.",
+            "ro": "Acest auditoriu impresionant oferă o acustică excelentă; încercați să obțineți bilete pentru un spectacol de după-amiază pentru a-l experimenta.",
+            "en": "This impressive auditorium offers great acoustics; try to get tickets for an afternoon performance to fully experience the space and its atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "EL PULPO ACUATICO",
+            "hu": "EL PULPO ACUATICO",
+            "ro": "EL PULPO ACUATICO",
+            "en": "EL PULPO ACUATICO"
+          },
+          "coords": [
+            -99.034013,
+            19.402114
+          ],
+          "category": "landmark",
+          "arrive_at": "16:09",
+          "stay_min": 60,
+          "hop_from_prev_min": 43,
+          "hop_from_prev_km": 2.84,
+          "tip_5lang": {
+            "de": "Fotografieren Sie die lustige Oktopus-Struktur dieses Wasserparks und bringen Sie am besten wasserfeste Kleidung mit, wenn Sie sich nähern möchten.",
+            "hu": "Fotózza le a vízipark vicces polip alakú építményét, és a legjobb, ha vízálló ruházatot is hoz magával, ha közelebbről is szeretné megtekinteni.",
+            "ro": "Fotografiați structura amuzantă de caracatiță a acestui parc acvatic și aduceți haine impermeabile dacă doriți să vă apropiați mai mult de apă.",
+            "en": "Photograph the funny octopus structure of this water park and it's best to bring waterproof clothing with you if you want to get closer to it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag mit Kultur im Centro Cultural El Castillito, bevor Sie die nahegelegene historische Stätte erkunden. Mittags führt der Spaziergang nach Marbet, wo Sie sich in die lokale Atmosphäre eintauchen können. Nachmittags erwartet Sie das Auditorio la Salle für weitere kulturelle Einblicke. Der Abend klingt entspannt am Wahrzeichen El Pulpo Acuatico aus.",
+        "hu": "Kezdje a napot kulturális élményekkel az El Castillito központban, majd fedezze fel a közeli történelmi helyszínt. Délben a séta a Marbet negyedbe vezet, ahol elmerülhet a helyi atmoszférában. Délután az Auditorio la Salle várja további érdekességekkel. Az estét lazán, az El Pulpo Acuatico látványosságánál zárhatja.",
+        "ro": "Începeți ziua cu o experiență culturală la Centro Cultural El Castillito, înainte de a explora situl istoric din apropiere. La prânz, plimbarea vă duce la Marbet, unde vă puteți cufunda în atmosfera locală. După-amiaza, Auditorio la Salle vă așteaptă cu perspective noi. Seara se încheie relaxant la reperul El Pulpo Acuatico.",
+        "en": "Start your day with culture at Centro Cultural El Castillito before exploring the nearby historical site. At noon, your walk takes you to Marbet, where you can immerse yourself in the local atmosphere. In the afternoon, Auditorio la Salle awaits with further cultural insights. The evening ends nicely at the El Pulpo Acuatico landmark."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:07",
+      "total_km": 6.89,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parque del pueblo",
+            "hu": "Parque del pueblo",
+            "ro": "Parque del pueblo",
+            "en": "Parque del pueblo"
+          },
+          "coords": [
+            -99.004753,
+            19.394449
+          ],
+          "category": "park",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die grünen Wege dieses Familienparks und nutzen Sie die schattigen Bänke für eine entspannte Pause mit einem kleinen Picknick.",
+            "hu": "Sétáljon a családi park zöld ösvényein, és használja ki az árnyékos padokat egy pihentető szünetre egy finom és kiadós piknik keretében a szabadban.",
+            "ro": "Plimbați-vă pe cărările verzi ale acestui parc familial și folosiți băncile umbrite pentru o pauză relaxantă cu un mic picnic în aer liber.",
+            "en": "Walk through the green paths of this family park and use the shaded benches for a relaxing break with a small picnic during your busy day trip."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Cultural \"El Castillito\"",
+            "hu": "Centro Cultural \"El Castillito\"",
+            "ro": "Centro Cultural \"El Castillito\"",
+            "en": "Centro Cultural \"El Castillito\""
+          },
+          "coords": [
+            -99.009774,
+            19.403373
+          ],
+          "category": "cultural",
+          "arrive_at": "10:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.12,
+          "tip_5lang": {
+            "de": "Bewundern Sie die märchenhafte Architektur dieses Kulturzentrums und prüfen Sie unbedingt vorab das aktuelle Programm für Ausstellungen oder Konzerte.",
+            "hu": "Csodálja meg a kulturális központ meseszerű építészetét, és mindenképpen ellenőrizze előre az aktuális kiállítások vagy koncertek programját.",
+            "ro": "Admirați arhitectura de basm a acestui centru cultural și asigurați-vă că verificați în prealabil programul actual pentru expoziții sau concerte.",
+            "en": "Admire the fairytale-like architecture of this cultural center and make sure to check the current program for exhibitions or concerts beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Sor Juana Ines de la Cruz",
+            "hu": "Sor Juana Ines de la Cruz",
+            "ro": "Sor Juana Ines de la Cruz",
+            "en": "Sor Juana Ines de la Cruz"
+          },
+          "coords": [
+            -99.014713,
+            19.405658
+          ],
+          "category": "historical",
+          "arrive_at": "12:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.56,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über die berühmte Dichterin an diesem historischen Ort und nehmen Sie sich Zeit, die vielen informativen Schautafeln zu lesen.",
+            "hu": "Tudjon meg többet a híres költőnőről ezen a történelmi helyszínen, és szánjon időt a számos informatív kiállított tábla alapos elolvasására.",
+            "ro": "Aflați mai multe despre faimoasa poetă în acest loc istoric și faceți-vă timp pentru a citi numeroasele panouri informative expuse pentru vizitatori.",
+            "en": "Learn more about the famous poet at this historical site and take your time to carefully read the many informative display boards provided here."
+          }
+        },
+        {
+          "name": {
+            "de": "EL PULPO ACUATICO",
+            "hu": "EL PULPO ACUATICO",
+            "ro": "EL PULPO ACUATICO",
+            "en": "EL PULPO ACUATICO"
+          },
+          "coords": [
+            -99.034013,
+            19.402114
+          ],
+          "category": "landmark",
+          "arrive_at": "13:45",
+          "stay_min": 60,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.04,
+          "tip_5lang": {
+            "de": "Fotografieren Sie die lustige Oktopus-Struktur dieses Wasserparks und bringen Sie am besten wasserfeste Kleidung mit, wenn Sie sich nähern möchten.",
+            "hu": "Fotózza le a vízipark vicces polip alakú építményét, és a legjobb, ha vízálló ruházatot is hoz magával, ha közelebbről is szeretné megtekinteni.",
+            "ro": "Fotografiați structura amuzantă de caracatiță a acestui parc acvatic și aduceți haine impermeabile dacă doriți să vă apropiați mai mult de apă.",
+            "en": "Photograph the funny octopus structure of this water park and it's best to bring waterproof clothing with you if you want to get closer to it."
+          }
+        },
+        {
+          "name": {
+            "de": "Irving Alvarez",
+            "hu": "Irving Alvarez",
+            "ro": "Irving Alvarez",
+            "en": "Irving Alvarez"
+          },
+          "coords": [
+            -99.020972,
+            19.387432
+          ],
+          "category": "historical",
+          "arrive_at": "14:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.09,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese historische Stätte zu Ehren von Irving Alvarez und achten Sie auf die vielen kleinen Details in der Gestaltung des Denkmals.",
+            "hu": "Látogassa meg ezt a történelmi helyszínt Irving Alvarez tiszteletére, és figyeljen a műemlék kialakításának számos apró és érdekes részletére.",
+            "ro": "Vizitați acest sit istoric în onoarea lui Irving Alvarez și acordați atenție numeroaselor mici detalii interesante din designul monumentului.",
+            "en": "Visit this historical site in honor of Irving Alvarez and pay attention to the many small details incorporated into the design of the monument."
+          }
+        },
+        {
+          "name": {
+            "de": "Balneario Elba",
+            "hu": "Balneario Elba",
+            "ro": "Balneario Elba",
+            "en": "Balneario Elba"
+          },
+          "coords": [
+            -99.02517,
+            19.378208
+          ],
+          "category": "family",
+          "arrive_at": "16:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.08,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im erfrischenden Wasser dieses beliebten Familienbads und kommen Sie am besten frühzeitig, um sich gute Liegeplätze zu sichern.",
+            "hu": "Pihenjen a népszerű családi fürdő frissítő vizében, és a legjobb, ha korán érkezik, hogy biztosítson magának egy nagyszerű napozóágyat.",
+            "ro": "Relaxați-vă în apele revigorante ale acestei băi familiale populare și ajungeți devreme pentru a vă asigura cele mai bune locuri pe șezlonguri.",
+            "en": "Relax in the refreshing waters of this popular family bath and it is best to arrive early to secure the best loungers for a comfortable stay."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen startet sportlich im weitläufigen Parque del Pueblo mit seinen vielen Grünflächen. Anschließend radeln Sie zu kulturellen und historischen Highlights im Zentrum. Der Nachmittag bietet eine Fahrt zum markanten El Pulpo Acuatico und zum Denkmal Irving Alvarez. Den Tag lassen Sie dann entspannt im Balneario Elba ausklingen.",
+        "hu": "A reggel sportosan indul a tágas Parque del Pueblo zöld területein. Ezután a városközpont kulturális és történelmi látványosságai felé kerekezik. A délután folyamán a jellegzetes El Pulpo Acuatico és az Irving Alvarez emlékmű következik. A napot a Balneario Elba fürdőjében pihenheti ki kellemesen.",
+        "ro": "Dimineața începe sportiv în spațiosul Parque del Pueblo, cu zonele sale verzi. Apoi pedalați spre atracțiile culturale și istorice din centru. După-amiaza vă oferă o plimbare spre impresionantul El Pulpo Acuatico și monumentul Irving Alvarez. Puteți încheia ziua relaxându-vă plăcut la Balneario Elba.",
+        "en": "The morning starts sportily in the spacious Parque del Pueblo with its many green areas. You then cycle to cultural and historical highlights in the center. The afternoon offers a ride to the striking El Pulpo Acuatico and the Irving Alvarez monument. End your day with a relaxing visit to the Balneario Elba."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:48",
+      "total_km": 17.77,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Balneario Elba",
+            "hu": "Balneario Elba",
+            "ro": "Balneario Elba",
+            "en": "Balneario Elba"
+          },
+          "coords": [
+            -99.02517,
+            19.378208
+          ],
+          "category": "family",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im erfrischenden Wasser dieses beliebten Familienbads und kommen Sie am besten frühzeitig, um sich gute Liegeplätze zu sichern.",
+            "hu": "Pihenjen a népszerű családi fürdő frissítő vizében, és a legjobb, ha korán érkezik, hogy biztosítson magának egy nagyszerű napozóágyat.",
+            "ro": "Relaxați-vă în apele revigorante ale acestei băi familiale populare și ajungeți devreme pentru a vă asigura cele mai bune locuri pe șezlonguri.",
+            "en": "Relax in the refreshing waters of this popular family bath and it is best to arrive early to secure the best loungers for a comfortable stay."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque del pueblo",
+            "hu": "Parque del pueblo",
+            "ro": "Parque del pueblo",
+            "en": "Parque del pueblo"
+          },
+          "coords": [
+            -99.004753,
+            19.394449
+          ],
+          "category": "park",
+          "arrive_at": "10:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.77,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die grünen Wege dieses Familienparks und nutzen Sie die schattigen Bänke für eine entspannte Pause mit einem kleinen Picknick.",
+            "hu": "Sétáljon a családi park zöld ösvényein, és használja ki az árnyékos padokat egy pihentető szünetre egy finom és kiadós piknik keretében a szabadban.",
+            "ro": "Plimbați-vă pe cărările verzi ale acestui parc familial și folosiți băncile umbrite pentru o pauză relaxantă cu un mic picnic în aer liber.",
+            "en": "Walk through the green paths of this family park and use the shaded benches for a relaxing break with a small picnic during your busy day trip."
+          }
+        },
+        {
+          "name": {
+            "de": "Centro Cultural \"El Castillito\"",
+            "hu": "Centro Cultural \"El Castillito\"",
+            "ro": "Centro Cultural \"El Castillito\"",
+            "en": "Centro Cultural \"El Castillito\""
+          },
+          "coords": [
+            -99.009774,
+            19.403373
+          ],
+          "category": "cultural",
+          "arrive_at": "11:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.12,
+          "tip_5lang": {
+            "de": "Bewundern Sie die märchenhafte Architektur dieses Kulturzentrums und prüfen Sie unbedingt vorab das aktuelle Programm für Ausstellungen oder Konzerte.",
+            "hu": "Csodálja meg a kulturális központ meseszerű építészetét, és mindenképpen ellenőrizze előre az aktuális kiállítások vagy koncertek programját.",
+            "ro": "Admirați arhitectura de basm a acestui centru cultural și asigurați-vă că verificați în prealabil programul actual pentru expoziții sau concerte.",
+            "en": "Admire the fairytale-like architecture of this cultural center and make sure to check the current program for exhibitions or concerts beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Marbet",
+            "hu": "Marbet",
+            "ro": "Marbet",
+            "en": "Marbet"
+          },
+          "coords": [
+            -99.016664,
+            19.413906
+          ],
+          "category": "cultural",
+          "arrive_at": "13:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.36,
+          "tip_5lang": {
+            "de": "Tauchen Sie in das kulturelle Leben von Marbet ein und nutzen Sie die Gelegenheit, an einem der lokalen Workshops oder Veranstaltungen teilzunehmen.",
+            "hu": "Merüljön el a Marbet kulturális életében, és ragadja meg a lehetőséget, hogy részt vegyen a számos helyi műhelymunka vagy rendezvény valamelyikén.",
+            "ro": "Cufundați-vă în viața culturală din Marbet și profitați de oportunitatea de a participa la unul dintre atelierele sau evenimentele locale.",
+            "en": "Immerse yourself in the cultural life of Marbet and take the opportunity to participate in one of the many local workshops or events hosted here."
+          }
+        },
+        {
+          "name": {
+            "de": "Alberca Portátil",
+            "hu": "Alberca Portátil",
+            "ro": "Alberca Portátil",
+            "en": "Alberca Portátil"
+          },
+          "coords": [
+            -99.085268,
+            19.406472
+          ],
+          "category": "recreational",
+          "arrive_at": "15:06",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 7.15,
+          "tip_5lang": {
+            "de": "Genießen Sie den mobilen Poolspaß in dieser Anlage und bringen Sie Ihr eigenes Handtuch mit, da die Verleihmöglichkeiten oft sehr begrenzt sind.",
+            "hu": "Élvezze a mobil medencés szórakozást ezen a létesítményen, és hozzon magával saját törölközőt, mivel a kölcsönzési lehetőségek gyakran korlátozottak.",
+            "ro": "Bucurați-vă de distracția la piscină în această facilitate și aduceți propriul prosop, deoarece opțiunile de închiriere sunt adesea destul de limitate.",
+            "en": "Enjoy the mobile pool fun at this facility and bring your own towel, as the rental options are often quite limited during the busy peak seasons."
+          }
+        },
+        {
+          "name": {
+            "de": "Baños Puerto Vallarta",
+            "hu": "Baños Puerto Vallarta",
+            "ro": "Baños Puerto Vallarta",
+            "en": "Baños Puerto Vallarta"
+          },
+          "coords": [
+            -99.088821,
+            19.358105
+          ],
+          "category": "recreational",
+          "arrive_at": "16:18",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.37,
+          "tip_5lang": {
+            "de": "Erleben Sie traditionelle Badekultur in diesen Anlagen und fragen Sie das Personal nach den verschiedenen verfügbaren Temperaturbereichen der Becken.",
+            "hu": "Tapasztalja meg a hagyományos fürdőkultúrát ezekben a létesítményekben, és kérdezze meg a személyzetet a medencék különböző hőmérsékleti zónáiról.",
+            "ro": "Experimentați cultura tradițională a băilor în aceste facilități și întrebați personalul despre diferitele zone de temperatură disponibile în piscine.",
+            "en": "Experience traditional bathing culture in these facilities and ask the staff about the different temperature zones available in the various pools."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens bequem zum Balneario Elba und genießen Sie anschließend die Natur im Parque del Pueblo. Mittags bringt Sie das Auto schnell zu den kulturellen Zentren El Castillito und Marbet. Der Nachmittag ist für eine entspannte Fahrt in den Westen der Stadt reserviert. Dort runden Besuche der lokalen Schwimmbäder den Ausflug ab.",
+        "hu": "Reggel kényelmesen utazzon el a Balneario Elba fürdőbe, majd élvezze a természetet a Parque del Pueblo-ban. Délben az autó gyorsan eljuttatja az El Castillito és a Marbet kulturális központokhoz. A délután egy nyugodt autózásé a város nyugati részébe. Ott a helyi uszodák felkeresése teszi teljessé a kirándulást.",
+        "ro": "Conduceți confortabil dimineața la Balneario Elba și apoi bucurați-vă de natură în Parque del Pueblo. La prânz, mașina vă duce rapid la centrele culturale El Castillito și Marbet. După-amiaza este rezervată pentru o plimbare relaxantă spre vestul orașului. Acolo, vizitele la piscinele locale completează perfect excursia.",
+        "en": "Drive comfortably to Balneario Elba in the morning and then enjoy nature in Parque del Pueblo. At noon, the car quickly takes you to the cultural centers of El Castillito and Marbet. The afternoon is reserved for a relaxing drive to the west of the city. There, visits to the local swimming pools round off the trip."
+      }
+    }
+  }
+}

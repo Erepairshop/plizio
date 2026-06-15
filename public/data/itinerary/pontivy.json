@@ -1,0 +1,474 @@
+{
+  "city_id": "pontivy",
+  "anchor": {
+    "name": "Pontivy",
+    "coords": [
+      -2.9628,
+      48.0686
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:51",
+      "total_km": 2.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Château des Rohan",
+            "hu": "Rohan kastély",
+            "ro": "Castelul Rohan",
+            "en": "Château des Rohan"
+          },
+          "coords": [
+            -2.963318,
+            48.070352
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die imposante Festung der Familie Rohan aus dem 15. Jahrhundert mit ihren massiven Zwillingstürmen und spazieren Sie am Wassergraben entlang, um die besten Fotos zu machen.",
+            "hu": "Fedezze fel a Rohan család lenyűgöző, 15. századi erődítményét a hatalmas ikertornyokkal, és sétáljon végig a várárok mentén a legjobb fotókért.",
+            "ro": "Explorați impunătoarea fortăreață din secolul al XV-lea a familiei Rohan cu turnurile sale gemene masive, plimbându-vă de-a lungul șanțului pentru a face cele mai bune fotografii.",
+            "en": "Explore the imposing 15th-century stronghold of the Rohan family with its massive twin towers, taking time to walk the moat path for the best photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Nantes-Brest-Kanal",
+            "hu": "Nantes-Brest csatorna",
+            "ro": "Canalul Nantes-Brest",
+            "en": "Nantes-Brest Canal"
+          },
+          "coords": [
+            -2.966414,
+            48.070171
+          ],
+          "category": "recreational",
+          "arrive_at": "10:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Spaziergang entlang der historischen Treidelpfade dieses technischen Meisterwerks, wo Sie ganz einfach ein kleines Boot mieten können.",
+            "hu": "Élvezze a békés sétát e mérnöki csoda történelmi vontatóútjain, ahol könnyedén bérelhet egy kis csónakot, vagy egyszerűen csak nézheti a zsilipek működését.",
+            "ro": "Bucurați-vă de o plimbare liniștită de-a lungul traseelor istorice ale acestei minuni inginerești, de unde puteți închiria cu ușurință o barcă mică.",
+            "en": "Enjoy a peaceful stroll along the historical towpaths of this engineering marvel, where you can easily rent a small boat or simply watch the locks in action."
+          }
+        },
+        {
+          "name": {
+            "de": "Basilika Notre-Dame-de-Joie",
+            "hu": "Notre-Dame-de-Joie Bazilika",
+            "ro": "Bazilica Notre-Dame-de-Joie",
+            "en": "Basilica of Notre-Dame-de-Joie"
+          },
+          "coords": [
+            -2.966211,
+            48.067417
+          ],
+          "category": "religious",
+          "arrive_at": "12:13",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie den markanten Kontrast zwischen der neugotischen Architektur und dem älteren historischen Zentrum, und achten Sie dabei besonders auf die Buntglasfenster.",
+            "hu": "Csodálja meg a neogótikus építészet és a régebbi történelmi központ közötti feltűnő kontrasztot, és feltétlenül pillantson fel a bonyolult ólomüveg ablakokra.",
+            "ro": "Admirați contrastul izbitor dintre arhitectura neogotică și centrul istoric mai vechi, având grijă să priviți vitraliile complicate.",
+            "en": "Admire the striking contrast between the Neo-Gothic architecture and the older historic center, making sure to look up at the intricate stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Tumulus de Nillizien",
+            "hu": "Nillizien halomsír",
+            "ro": "Tumulul Nillizien",
+            "en": "Tumulus de Nillizien"
+          },
+          "coords": [
+            -2.96831,
+            48.063058
+          ],
+          "category": "historical",
+          "arrive_at": "13:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die alten prähistorischen Wurzeln der Region an diesem faszinierenden Grabhügel, den Sie am besten am Nachmittag bei dramatischem Licht besuchen.",
+            "hu": "Fedezze fel a régió ősi őskori gyökereit ezen a lenyűgöző halomsíron, amelyet a legjobb délután meglátogatni, amikor a fény drámai árnyékokat vet.",
+            "ro": "Descoperiți rădăcinile preistorice antice ale regiunii la acest fascinant tumul funerar, care este cel mai bine vizitat după-amiaza pentru o lumină dramatică.",
+            "en": "Uncover the ancient prehistoric roots of the region at this fascinating burial mound, best visited in the afternoon when the light casts dramatic shadows."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainte-Tréphine",
+            "hu": "Sainte-Tréphine",
+            "ro": "Sainte-Tréphine",
+            "en": "Sainte-Tréphine"
+          },
+          "coords": [
+            -2.98691,
+            48.064393
+          ],
+          "category": "religious",
+          "arrive_at": "14:41",
+          "stay_min": 70,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses verborgene Juwel der lokalen Religionsgeschichte inmitten friedlicher Natur und bringen Sie bequeme Schuhe für die etwas unebenen Wege mit.",
+            "hu": "Fedezze fel a helyi vallástörténet e rejtett gyöngyszemét békés természettel körülvéve, és vigyen magával kényelmes cipőt a kissé egyenetlen ösvényekhez.",
+            "ro": "Descoperiți această bijuterie ascunsă a istoriei religioase locale înconjurată de natură, purtând încălțăminte confortabilă pentru cărările ușor accidentate.",
+            "en": "Discover this hidden gem of local religious history surrounded by peaceful nature, bringing comfortable shoes for the slightly uneven paths leading up to it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am beeindruckenden Château des Rohan und führt Sie in die mittelalterliche bretonische Geschichte ein, gefolgt von einem Spaziergang am Nantes-Brest-Kanal. Mittags erreichen Sie das Zentrum von Pontivy, um die neugotische Basilika zu bewundern. Am Nachmittag reisen Sie am Tumulus de Nillizien in die Antike, bevor der Tag friedlich bei Sainte-Tréphine ausklingt.",
+        "hu": "A reggel a lenyűgöző Château des Rohannál kezdődik, elmerülve a középkori breton történelemben, majd egy kellemes séta következik a Nantes-Brest csatorna mentén. Délben Pontivy szívében megcsodálhatja a neogótikus bazilikát. Délután a Tumulus de Nilliziennél az ókorba repül vissza, az estét pedig a békés Sainte-Tréphine-nél fejezi be.",
+        "ro": "Dimineața începe la impresionantul Château des Rohan, urmată de o plimbare pe malul canalului Nantes-Brest. La prânz ajungeți în inima orașului Pontivy pentru a admira Bazilica neogotică. După-amiaza vă poartă înapoi în timp la Tumulus de Nillizien, iar seara se încheie cu o plimbare liniștită către serena Sainte-Tréphine, oferind un final perfect.",
+        "en": "Morning begins at the impressive Château des Rohan, immersing you in medieval Breton history, followed by a leisurely stroll along the Nantes-Brest Canal. Midday brings you into the heart of Pontivy to admire the Neo-Gothic Basilica. In the afternoon, you will transition to ancient times at the Tumulus de Nillizien. The evening concludes with a quiet walk to the serene Sainte-Tréphine."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:48",
+      "total_km": 3.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Basilika Notre-Dame-de-Joie",
+            "hu": "Notre-Dame-de-Joie Bazilika",
+            "ro": "Bazilica Notre-Dame-de-Joie",
+            "en": "Basilica of Notre-Dame-de-Joie"
+          },
+          "coords": [
+            -2.966211,
+            48.067417
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den markanten Kontrast zwischen der neugotischen Architektur und dem älteren historischen Zentrum, und achten Sie dabei besonders auf die Buntglasfenster.",
+            "hu": "Csodálja meg a neogótikus építészet és a régebbi történelmi központ közötti feltűnő kontrasztot, és feltétlenül pillantson fel a bonyolult ólomüveg ablakokra.",
+            "ro": "Admirați contrastul izbitor dintre arhitectura neogotică și centrul istoric mai vechi, având grijă să priviți vitraliile complicate.",
+            "en": "Admire the striking contrast between the Neo-Gothic architecture and the older historic center, making sure to look up at the intricate stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Château des Rohan",
+            "hu": "Rohan kastély",
+            "ro": "Castelul Rohan",
+            "en": "Château des Rohan"
+          },
+          "coords": [
+            -2.963318,
+            48.070352
+          ],
+          "category": "castle",
+          "arrive_at": "09:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die imposante Festung der Familie Rohan aus dem 15. Jahrhundert mit ihren massiven Zwillingstürmen und spazieren Sie am Wassergraben entlang, um die besten Fotos zu machen.",
+            "hu": "Fedezze fel a Rohan család lenyűgöző, 15. századi erődítményét a hatalmas ikertornyokkal, és sétáljon végig a várárok mentén a legjobb fotókért.",
+            "ro": "Explorați impunătoarea fortăreață din secolul al XV-lea a familiei Rohan cu turnurile sale gemene masive, plimbându-vă de-a lungul șanțului pentru a face cele mai bune fotografii.",
+            "en": "Explore the imposing 15th-century stronghold of the Rohan family with its massive twin towers, taking time to walk the moat path for the best photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Nantes-Brest-Kanal",
+            "hu": "Nantes-Brest csatorna",
+            "ro": "Canalul Nantes-Brest",
+            "en": "Nantes-Brest Canal"
+          },
+          "coords": [
+            -2.966414,
+            48.070171
+          ],
+          "category": "recreational",
+          "arrive_at": "11:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Spaziergang entlang der historischen Treidelpfade dieses technischen Meisterwerks, wo Sie ganz einfach ein kleines Boot mieten können.",
+            "hu": "Élvezze a békés sétát e mérnöki csoda történelmi vontatóútjain, ahol könnyedén bérelhet egy kis csónakot, vagy egyszerűen csak nézheti a zsilipek működését.",
+            "ro": "Bucurați-vă de o plimbare liniștită de-a lungul traseelor istorice ale acestei minuni inginerești, de unde puteți închiria cu ușurință o barcă mică.",
+            "en": "Enjoy a peaceful stroll along the historical towpaths of this engineering marvel, where you can easily rent a small boat or simply watch the locks in action."
+          }
+        },
+        {
+          "name": {
+            "de": "Espace Michel Masson",
+            "hu": "Espace Michel Masson",
+            "ro": "Espace Michel Masson",
+            "en": "Espace Michel Masson"
+          },
+          "coords": [
+            -2.977597,
+            48.07514
+          ],
+          "category": "family",
+          "arrive_at": "12:53",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Machen Sie eine erholsame Pause in diesem familienfreundlichen Erholungsgebiet, das hervorragende Picknickplätze und Freiflächen für Kinder bietet.",
+            "hu": "Tartson egy pihentető szünetet ezen a családbarát rekreációs területen, amely kiváló piknikezőhelyeket és tágas tereket kínál a gyermekek számára.",
+            "ro": "Luați o pauză relaxantă în această zonă de recreere pentru familii, care oferă locuri excelente pentru picnic și spații deschise pentru copii.",
+            "en": "Take a relaxing break at this family-friendly recreational area, which offers excellent picnic spots and open spaces for children to run around safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir du Gros Chêne",
+            "hu": "Gros Chêne udvarház",
+            "ro": "Conacul Gros Chêne",
+            "en": "Manoir du Gros Chêne"
+          },
+          "coords": [
+            -2.980135,
+            48.080661
+          ],
+          "category": "historical",
+          "arrive_at": "13:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Machen Sie in diesem traditionellen bretonischen Herrenhaus eine Reise in die Vergangenheit und erkunden Sie den umliegenden landwirtschaftlichen Campus.",
+            "hu": "Lépjen vissza az időben ebben a hagyományos breton udvarházban, és feltétlenül fedezze fel a környező mezőgazdasági kampuszt is.",
+            "ro": "Întoarceți-vă în timp la acest conac tradițional breton, unde ar trebui să explorați campusul agricol din jur pentru a vedea agricultura modernă alături de patrimoniu.",
+            "en": "Step back in time at this traditional Breton manor house, where you should explore the surrounding agricultural campus to see modern farming alongside heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Fontaine Saint-Mériadec",
+            "hu": "Saint-Mériadec forrás",
+            "ro": "Fântâna Saint-Mériadec",
+            "en": "Fontaine Saint-Mériadec"
+          },
+          "coords": [
+            -2.992682,
+            48.082009
+          ],
+          "category": "park",
+          "arrive_at": "15:21",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erleben Sie die Ruhe dieser heiligen Quelle, die für ihre heilenden Eigenschaften bekannt ist, und waschen Sie sich nach lokaler Tradition kurz die Hände.",
+            "hu": "Tapasztalja meg a gyógyító erejéről híres szent forrás nyugalmát, és szánjon egy pillanatot arra, hogy a helyi hagyományoknak megfelelően megmossa a kezét.",
+            "ro": "Experimentați liniștea acestui izvor sacru renumit pentru proprietățile sale curative și luați-vă un moment pentru a vă spăla pe mâini conform tradiției.",
+            "en": "Experience the tranquility of this sacred spring reputed for its healing properties, and take a moment to wash your hands as local tradition suggests."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Mériadec-de-Stival",
+            "hu": "Saint-Mériadec-de-Stival templom",
+            "ro": "Biserica Saint-Mériadec-de-Stival",
+            "en": "Église Saint-Mériadec-de-Stival"
+          },
+          "coords": [
+            -2.99326,
+            48.085083
+          ],
+          "category": "religious",
+          "arrive_at": "16:38",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Innenfresken dieser historischen Kirche und stellen Sie sicher, dass Sie vor dem späten Nachmittag ankommen.",
+            "hu": "Csodálja meg e történelmi templom gyönyörű belső freskóit, ügyelve arra, hogy még késő délután előtt érkezzen, amikor az épületet általában bezárják.",
+            "ro": "Minunați-vă de frumoasele fresce interioare ale acestei biserici istorice, asigurându-vă că ajungeți înainte de sfârșitul după-amiezii.",
+            "en": "Marvel at the beautiful interior frescoes of this historic church, ensuring you arrive before late afternoon when the building is usually locked for the day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie an der Basilika, bevor Sie zum Château des Rohan und entlang der malerischen Treidelpfade des Kanals radeln. Die Mittagszeit bietet eine Pause im Espace Michel Masson. Am Nachmittag radeln Sie zum Manoir du Gros Chêne und zur friedlichen Fontaine Saint-Mériadec. Der Tag endet mit einer angenehmen Fahrt zur historischen Église Saint-Mériadec.",
+        "hu": "Kezdje a kerékpározást a lenyűgöző bazilikánál, majd tekerjen a Château des Rohanhoz és a csatorna festői vontatóútjaihoz. A dél egy megérdemelt pihenőt kínál az Espace Michel Massonnál. Délután fedezze fel a Manoir du Gros Chêne-t és a Fontaine Saint-Mériadec-et. A nap egy kellemes esti tekeréssel zárul a történelmi Église Saint-Mériadec-hez.",
+        "ro": "Începeți plimbarea la superba Bazilică înainte de a pedala spre Château des Rohan și de-a lungul canalului pitoresc. Prânzul vă oferă o pauză binemeritată la Espace Michel Masson. După-amiaza, mergeți cu bicicleta pentru a explora Manoir du Gros Chêne și liniștita Fontaine Saint-Mériadec. Ziua se încheie cu o plimbare plăcută către biserica istorică Saint-Mériadec.",
+        "en": "Start your ride at the stunning Basilica before pedaling to the monumental Château des Rohan and along the scenic towpaths of the canal. Midday offers a well-deserved break at Espace Michel Masson. In the afternoon, cycle out to explore the Manoir du Gros Chêne and the peaceful Fontaine Saint-Mériadec. The day wraps up with a pleasant twilight ride to the historic Église Saint-Mériadec."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:53",
+      "total_km": 8.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chapelle Notre-Dame de la Houssaye",
+            "hu": "Notre-Dame de la Houssaye kápolna",
+            "ro": "Capela Notre-Dame de la Houssaye",
+            "en": "Chapelle Notre-Dame de la Houssaye"
+          },
+          "coords": [
+            -2.949682,
+            48.046555
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag, indem Sie den bemerkenswerten geschnitzten Altar in dieser idyllischen ländlichen Kapelle fotografieren.",
+            "hu": "Kezdje a napot azzal, hogy lefotózza ennek a festői vidéki kápolnának a figyelemre méltó faragott oltárképét, mielőtt a fővárosba indulna.",
+            "ro": "Începeți-vă ziua fotografiind remarcabilul retablu sculptat din interiorul acestei capele rurale pitorești, înainte de a vă îndrepta spre orașul principal.",
+            "en": "Start your day by photographing the remarkable carved altarpiece inside this quaint countryside chapel before heading into the main city."
+          }
+        },
+        {
+          "name": {
+            "de": "Tumulus de Nillizien",
+            "hu": "Nillizien halomsír",
+            "ro": "Tumulul Nillizien",
+            "en": "Tumulus de Nillizien"
+          },
+          "coords": [
+            -2.96831,
+            48.063058
+          ],
+          "category": "historical",
+          "arrive_at": "09:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die alten prähistorischen Wurzeln der Region an diesem faszinierenden Grabhügel, den Sie am besten am Nachmittag bei dramatischem Licht besuchen.",
+            "hu": "Fedezze fel a régió ősi őskori gyökereit ezen a lenyűgöző halomsíron, amelyet a legjobb délután meglátogatni, amikor a fény drámai árnyékokat vet.",
+            "ro": "Descoperiți rădăcinile preistorice antice ale regiunii la acest fascinant tumul funerar, care este cel mai bine vizitat după-amiaza pentru o lumină dramatică.",
+            "en": "Uncover the ancient prehistoric roots of the region at this fascinating burial mound, best visited in the afternoon when the light casts dramatic shadows."
+          }
+        },
+        {
+          "name": {
+            "de": "Château des Rohan",
+            "hu": "Rohan kastély",
+            "ro": "Castelul Rohan",
+            "en": "Château des Rohan"
+          },
+          "coords": [
+            -2.963318,
+            48.070352
+          ],
+          "category": "castle",
+          "arrive_at": "10:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie die imposante Festung der Familie Rohan aus dem 15. Jahrhundert mit ihren massiven Zwillingstürmen und spazieren Sie am Wassergraben entlang, um die besten Fotos zu machen.",
+            "hu": "Fedezze fel a Rohan család lenyűgöző, 15. századi erődítményét a hatalmas ikertornyokkal, és sétáljon végig a várárok mentén a legjobb fotókért.",
+            "ro": "Explorați impunătoarea fortăreață din secolul al XV-lea a familiei Rohan cu turnurile sale gemene masive, plimbându-vă de-a lungul șanțului pentru a face cele mai bune fotografii.",
+            "en": "Explore the imposing 15th-century stronghold of the Rohan family with its massive twin towers, taking time to walk the moat path for the best photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Manoir du Gros Chêne",
+            "hu": "Gros Chêne udvarház",
+            "ro": "Conacul Gros Chêne",
+            "en": "Manoir du Gros Chêne"
+          },
+          "coords": [
+            -2.980135,
+            48.080661
+          ],
+          "category": "historical",
+          "arrive_at": "12:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Machen Sie in diesem traditionellen bretonischen Herrenhaus eine Reise in die Vergangenheit und erkunden Sie den umliegenden landwirtschaftlichen Campus.",
+            "hu": "Lépjen vissza az időben ebben a hagyományos breton udvarházban, és feltétlenül fedezze fel a környező mezőgazdasági kampuszt is.",
+            "ro": "Întoarceți-vă în timp la acest conac tradițional breton, unde ar trebui să explorați campusul agricol din jur pentru a vedea agricultura modernă alături de patrimoniu.",
+            "en": "Step back in time at this traditional Breton manor house, where you should explore the surrounding agricultural campus to see modern farming alongside heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Mériadec-de-Stival",
+            "hu": "Saint-Mériadec-de-Stival templom",
+            "ro": "Biserica Saint-Mériadec-de-Stival",
+            "en": "Église Saint-Mériadec-de-Stival"
+          },
+          "coords": [
+            -2.99326,
+            48.085083
+          ],
+          "category": "religious",
+          "arrive_at": "13:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Innenfresken dieser historischen Kirche und stellen Sie sicher, dass Sie vor dem späten Nachmittag ankommen.",
+            "hu": "Csodálja meg e történelmi templom gyönyörű belső freskóit, ügyelve arra, hogy még késő délután előtt érkezzen, amikor az épületet általában bezárják.",
+            "ro": "Minunați-vă de frumoasele fresce interioare ale acestei biserici istorice, asigurându-vă că ajungeți înainte de sfârșitul după-amiezii.",
+            "en": "Marvel at the beautiful interior frescoes of this historic church, ensuring you arrive before late afternoon when the building is usually locked for the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Sainte-Tréphine",
+            "hu": "Sainte-Tréphine",
+            "ro": "Sainte-Tréphine",
+            "en": "Sainte-Tréphine"
+          },
+          "coords": [
+            -2.98691,
+            48.064393
+          ],
+          "category": "religious",
+          "arrive_at": "14:43",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses verborgene Juwel der lokalen Religionsgeschichte inmitten friedlicher Natur und bringen Sie bequeme Schuhe für die etwas unebenen Wege mit.",
+            "hu": "Fedezze fel a helyi vallástörténet e rejtett gyöngyszemét békés természettel körülvéve, és vigyen magával kényelmes cipőt a kissé egyenetlen ösvényekhez.",
+            "ro": "Descoperiți această bijuterie ascunsă a istoriei religioase locale înconjurată de natură, purtând încălțăminte confortabilă pentru cărările ușor accidentate.",
+            "en": "Discover this hidden gem of local religious history surrounded by peaceful nature, bringing comfortable shoes for the slightly uneven paths leading up to it."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt an der idyllischen Chapelle Notre-Dame, bevor Sie die antike Geschichte am Tumulus de Nillizien entdecken. Mittags erkunden Sie das prächtige Château des Rohan. Am Nachmittag fahren Sie zum malerischen Manoir du Gros Chêne und zur wunderschön erhaltenen Église Saint-Mériadec, bevor der Abend entspannt in Sainte-Tréphine endet.",
+        "hu": "Autós túrája a Chapelle Notre-Dame de la Houssaye-nél kezdődik, mielőtt felfedezné a Tumulus de Nillizien ókori történelmét. A dél a városközpontban található Château des Rohan felfedezésével telik. Délután kocsikázzon a Manoir du Gros Chêne-hez és az Église Saint-Mériadec-hez, majd fejezze be az estét a Sainte-Tréphine nyugalmában.",
+        "ro": "Turul dvs. cu mașina începe la Chapelle Notre-Dame de la Houssaye înainte de a descoperi istoria la Tumulus de Nillizien. Prânzul este petrecut explorând grandiosul Château des Rohan. După-amiaza, veți conduce spre pitorescul Manoir du Gros Chêne și biserica Saint-Mériadec, încheind seara în liniștea de la Sainte-Tréphine.",
+        "en": "Your driving tour kicks off at the quaint Chapelle Notre-Dame de la Houssaye before uncovering ancient history at the Tumulus de Nillizien. Midday is spent exploring the grand Château des Rohan in the city center. In the afternoon, you'll drive out to the scenic Manoir du Gros Chêne and the beautifully preserved Église Saint-Mériadec, finishing the evening at Sainte-Tréphine."
+      }
+    }
+  }
+}

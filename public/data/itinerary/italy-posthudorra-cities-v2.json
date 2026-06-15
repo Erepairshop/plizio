@@ -1,0 +1,497 @@
+{
+  "city_id": "italy-posthudorra-cities-v2",
+  "anchor": {
+    "name": "Posthudorra",
+    "coords": [
+      8.40133,
+      40.83703
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:11",
+      "total_km": 1.75,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "San Gavino",
+            "hu": "San Gavino",
+            "ro": "San Gavino",
+            "en": "San Gavino"
+          },
+          "coords": [
+            8.400739,
+            40.832146
+          ],
+          "category": "cathedral",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie Sardiniens größte romanische Basilika, um ihre strenge Schönheit zu bewundern, und besuchen Sie unbedingt die Krypta der lokalen Märtyrer.",
+            "hu": "Fedezze fel Szardínia legnagyobb román stílusú bazilikáját, hogy megcsodálhassa szépségét, és mindenképpen nézze meg a helyi vértanúk kriptáját.",
+            "ro": "Explorați cea mai mare bazilică romanică din Sardinia pentru a admira frumusețea ei austeră și asigurați-vă că vizitați cripta unde sunt îngropați martirii locali.",
+            "en": "Explore Sardinia's largest Romanesque basilica to admire its austere beauty, and be sure to check the crypt where local martyrs are buried."
+          }
+        },
+        {
+          "name": {
+            "de": "Via Libro 53 Hypogean Tombs",
+            "hu": "Via Libro 53 Hipogeum Sírkamrák",
+            "ro": "Mormintele Hipogee Via Libro 53",
+            "en": "Via Libro 53 Hypogean Tombs"
+          },
+          "coords": [
+            8.402166,
+            40.837031
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Steigen Sie in diese alten unterirdischen Gräber hinab, um römische Bestattungspraktiken zu entdecken, und tragen Sie bequeme Schuhe, da es eng ist.",
+            "hu": "Ereszkedjen le ezekbe az ősi földalatti sírokba, hogy felfedezze a római temetkezési szokásokat, és viseljen kényelmes cipőt, mivel a hely igen szűk.",
+            "ro": "Coborâți în aceste morminte subterane antice pentru a descoperi practicile funerare romane, având în vedere că spațiul este îngust, deci purtați încălțăminte comodă.",
+            "en": "Descend into these ancient underground tombs to uncover fascinating Roman burial practices, keeping in mind that space is tight so wear comfortable shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo del porto",
+            "hu": "Kikötői Múzeum",
+            "ro": "Muzeul Portului",
+            "en": "Museo del porto"
+          },
+          "coords": [
+            8.399842,
+            40.837907
+          ],
+          "category": "museum",
+          "arrive_at": "11:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche maritime Geschichte von Porto Torres anhand interaktiver Exponate und Schiffsmodelle, am besten vor Mittag, um Schulgruppen zu meiden.",
+            "hu": "Fedezze fel Porto Torres gazdag tengerészeti történelmét interaktív kiállításokon keresztül, és lehetőleg dél előtt érkezzen, hogy elkerülje az iskolás csoportokat.",
+            "ro": "Descoperiți bogata istorie maritimă a Porto Torres prin expoziții interactive și machete de nave, ideal vizitând înainte de prânz pentru a evita grupurile școlare.",
+            "en": "Discover Porto Torres' rich maritime history through interactive exhibits and model ships, ideally visiting before noon to avoid the large school groups."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre del Porto",
+            "hu": "Kikötői Torony",
+            "ro": "Turnul Portului",
+            "en": "Torre del Porto"
+          },
+          "coords": [
+            8.401486,
+            40.839486
+          ],
+          "category": "landmark",
+          "arrive_at": "13:39",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Besteigen Sie diesen mittelalterlichen Wachturm an der Küste für einen Panoramablick auf den Hafen und bringen Sie ein Weitwinkelobjektiv für den Golf von Asinara mit.",
+            "hu": "Mássza meg ezt a középkori tengerparti őrtornyot, ahonnan panorámás kilátás nyílik a nyüzsgő kikötőre, és hozzon nagylátószögű objektívet az Asinara-öböl megörökítéséhez.",
+            "ro": "Urcați în acest turn de veghe medieval pentru o vedere panoramică a portului activ, aducând un obiectiv cu unghi larg pentru a surprinde superbul Golf Asinara.",
+            "en": "Climb this medieval coastal watchtower for panoramic views of the active harbor, bringing a wide-angle lens to capture the sweeping Gulf of Asinara."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Archeologico Nazionale",
+            "hu": "Nemzeti Régészeti Múzeum",
+            "ro": "Muzeul Național de Arheologie",
+            "en": "Museo Archeologico Nazionale"
+          },
+          "coords": [
+            8.396994,
+            40.838332
+          ],
+          "category": "museum",
+          "arrive_at": "14:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie in diesem umfassenden Museum exquisite Artefakte aus dem antiken Turris Libisonis und planen Sie mindestens eine Stunde für die komplizierten Mosaike ein.",
+            "hu": "Tekintse meg az ősi Turris Libisonisból megmentett remek leleteket ebben az átfogó múzeumban, és szánjon legalább egy órát a bonyolult mozaikok megcsodálására.",
+            "ro": "Vizualizați artefacte rafinate salvate din anticul Turris Libisonis în acest muzeu cuprinzător, alocând cel puțin o oră pentru a aprecia mozaicurile complicate.",
+            "en": "View exquisite artifacts salvaged from ancient Turris Libisonis within this comprehensive museum, allocating at least an hour to appreciate the intricate mosaics."
+          }
+        },
+        {
+          "name": {
+            "de": "Area Archeologica di Turris Libisonis",
+            "hu": "Turris Libisonis Régészeti Terület",
+            "ro": "Zona Arheologică Turris Libisonis",
+            "en": "Area Archeologica di Turris Libisonis"
+          },
+          "coords": [
+            8.395606,
+            40.837151
+          ],
+          "category": "historical",
+          "arrive_at": "15:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die weitreichenden Überreste dieser römischen Kolonie, um die antike Stadtplanung zu sehen, am besten am späten Nachmittag für das beste Licht.",
+            "hu": "Sétáljon végig e római kolónia kiterjedt romjain, hogy elképzelje az ősi várostervezést, és látogasson el késő délután a legjobb fényviszonyok érdekében.",
+            "ro": "Plimbați-vă printre rămășițele extinse ale acestei colonii romane pentru a vizualiza urbanismul antic, vizitând după-amiaza târziu pentru cea mai bună lumină.",
+            "en": "Stroll through the extensive remains of this Roman colony to visualize ancient urban planning, visiting late in the afternoon for the best golden-hour lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro di Porto Torres",
+            "hu": "Porto Torres Világítótorony",
+            "ro": "Farul din Porto Torres",
+            "en": "Faro di Porto Torres"
+          },
+          "coords": [
+            8.397258,
+            40.836026
+          ],
+          "category": "landmark",
+          "arrive_at": "17:16",
+          "stay_min": 55,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Rundgang an diesem historischen Leuchtturm, der die Küste schützt, und suchen Sie sich eine Bank, um die abfahrenden Fähren bei Sonnenuntergang zu beobachten.",
+            "hu": "Fejezze be a sétát ennél a partot védő történelmi világítótoronynál, és keressen egy közeli padot, ahol megpihenhet, és nézheti a naplementében induló kompokat.",
+            "ro": "Încheiați turul pietonal la acest far istoric ce protejează coasta, găsind o bancă în apropiere pentru a vă relaxa și a privi feriboturile plecând la apus.",
+            "en": "End your walking tour at this historic lighthouse protecting the coastline, finding a nearby bench to relax and watch the ferries depart at sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen in der prächtigen Basilika San Gavino, einem Meisterwerk romanischer Architektur. Am Mittag tauchen Sie in den Hypogäen der Via Libro 53 in die antike Geschichte ein und besuchen dann das Museo del porto. Am späten Nachmittag können Sie die reiche römische Vergangenheit im archäologischen Museum und den Ruinen erkunden. Den Abend lassen Sie am stimmungsvollen Leuchtturm ausklingen.",
+        "hu": "Kezdje a reggelt a csodálatos San Gavino bazilikában, amely a román építészet remekműve. Délben merüljön el az ókori történelemben a Via Libro 53 hipogeumaiban, majd látogasson el a kikötői múzeumba. Késő délután fedezze fel a gazdag római múltat a régészeti múzeumban és a romoknál. Az estét a hangulatos világítótoronynál fejezze be, figyelve a naplementét a tenger felett.",
+        "ro": "Începeți dimineața la magnifica Bazilică San Gavino, o capodoperă a arhitecturii romanice. La amiază, pătrundeți în istoria antică la hipogeul din Via Libro 53 și vizitați Muzeul Portului. Spre sfârșitul după-amiezii, explorați bogatul trecut roman la muzeul arheologic și la ruinele din apropiere. Încheiați seara relaxându-vă lângă farul atmosferic ce veghează asupra coastei luminate.",
+        "en": "Begin your morning at the magnificent San Gavino Basilica, a true masterpiece of Romanesque architecture. Midday, delve into ancient history at the Via Libro 53 hypogeums and then visit the engaging Museo del porto. By late afternoon, explore the rich Roman past thoroughly at the archaeological museum and the adjacent ruins. Finish your evening relaxing by the atmospheric lighthouse on the coast."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:58",
+      "total_km": 3.77,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Scogliolungo",
+            "hu": "Scogliolungo",
+            "ro": "Scogliolungo",
+            "en": "Scogliolungo"
+          },
+          "coords": [
+            8.408803,
+            40.837946
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Fahrt an diesem beliebten Strand mit seinem langen Riff und genießen Sie die morgendliche Meeresbrise, bevor Sie ins historische Zentrum radeln.",
+            "hu": "Kezdje a kerékpározást ezen a hosszú zátonyáról ismert népszerű helyi strandon, és tartson szünetet a tengeri szellőben, mielőtt a történelmi központba tekerne.",
+            "ro": "Începeți plimbarea pe această plajă populară, distinctă prin reciful său lung, oprindu-vă pentru briza mării înainte de a pedala spre centrul istoric.",
+            "en": "Start your ride at this popular local beach distinguished by its long reef, pausing to feel the morning sea breeze before pedaling into the historic center."
+          }
+        },
+        {
+          "name": {
+            "de": "Andrea Parodi",
+            "hu": "Andrea Parodi",
+            "ro": "Andrea Parodi",
+            "en": "Andrea Parodi"
+          },
+          "coords": [
+            8.404491,
+            40.835369
+          ],
+          "category": "cultural",
+          "arrive_at": "10:28",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Halten Sie am Denkmal des beliebten sardischen Volkssängers, um die lokale Kultur zu verstehen, und schließen Sie Ihr Fahrrad sicher ab, während Sie Fotos machen.",
+            "hu": "Álljon meg a szeretett szárd népdalénekes emlékművénél, hogy megismerje a helyi kultúrát, és fényképezés közben ne felejtse el biztonságosan lezárni a kerékpárját.",
+            "ro": "Opriți-vă la monumentul dedicat iubitului cântăreț folk sard pentru a înțelege cultura locală, amintindu-vă să asigurați bine bicicleta în timp ce faceți poze.",
+            "en": "Stop by the monument dedicated to the beloved Sardinian folk singer to understand local culture, remembering to lock your bike securely while taking photos."
+          }
+        },
+        {
+          "name": {
+            "de": "San Gavino",
+            "hu": "San Gavino",
+            "ro": "San Gavino",
+            "en": "San Gavino"
+          },
+          "coords": [
+            8.400739,
+            40.832146
+          ],
+          "category": "landmark",
+          "arrive_at": "10:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Rad, um Sardiniens größte romanische Basilika zu erkunden und ihre Schönheit zu bewundern, wobei Sie unbedingt die Krypta der Märtyrer besuchen sollten.",
+            "hu": "Parkolja le a kerékpárt, hogy felfedezze Szardínia legnagyobb román bazilikáját, és ne felejtse el tiszteletteljesen meglátogatni a helyi vértanúk kriptáját.",
+            "ro": "Parcați bicicleta pentru a explora cea mai mare bazilică romanică din Sardinia, asigurându-vă că vizitați cu respect cripta martirilor locali.",
+            "en": "Park your bike to explore Sardinia's largest Romanesque basilica and admire its austere beauty, making sure to respectfully visit the crypt of local martyrs."
+          }
+        },
+        {
+          "name": {
+            "de": "Terme Metzke",
+            "hu": "Metzke Fürdő",
+            "ro": "Termele Metzke",
+            "en": "Terme Metzke"
+          },
+          "coords": [
+            8.397685,
+            40.837099
+          ],
+          "category": "historical",
+          "arrive_at": "12:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Ruinen der antiken Thermen, die die römische Ingenieurskunst zeigen, und nehmen Sie Wasser mit, da es um diese historische Stätte kaum Schatten gibt.",
+            "hu": "Csodálja meg a római mérnöki tudást bemutató ősi termálfürdő romjait, és vigyen magával egy palack vizet, mivel a történelmi helyszín környékén kevés az árnyék.",
+            "ro": "Minunați-vă de aceste ruine ale băilor termale antice ce subliniază ingineria romană și luați o sticlă cu apă, deoarece umbra este rară în jurul acestui sit istoric.",
+            "en": "Marvel at these ancient thermal bath ruins highlighting Roman engineering prowess, and carry a water bottle as shade is scarce around this historical site."
+          }
+        },
+        {
+          "name": {
+            "de": "Ponte Romano",
+            "hu": "Római Híd",
+            "ro": "Podul Roman",
+            "en": "Ponte Romano"
+          },
+          "coords": [
+            8.392257,
+            40.836237
+          ],
+          "category": "landmark",
+          "arrive_at": "13:38",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Radeln Sie zur prächtigen Römerbrücke, die einst wichtige Handelswege verband, und steigen Sie ab, um die großen Bögen, die den Fluss überspannen, sicher zu fotografieren.",
+            "hu": "Tekerjen fel a csodálatos római hídhoz, amely egykor fontos kereskedelmi utakat kötött össze, és szálljon le, hogy biztonságosan megörökítse a folyón átívelő boltíveit.",
+            "ro": "Ciclati până la magnificul Pod Roman ce conecta odinioară rute comerciale cruciale, descălecând pentru a fotografia în siguranță arcadele sale grandioase peste râu.",
+            "en": "Cycle up to the magnificent Roman Bridge that once connected crucial trade routes, dismounting to safely capture its grand arches spanning across the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Acquedolci",
+            "hu": "Acquedolci",
+            "ro": "Acquedolci",
+            "en": "Acquedolci"
+          },
+          "coords": [
+            8.413186,
+            40.838925
+          ],
+          "category": "recreational",
+          "arrive_at": "14:13",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.78,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour in diesem friedlichen Erholungsgebiet, das perfekt zum Entspannen ist, und bringen Sie lokale Snacks für ein wohlverdientes Picknick mit.",
+            "hu": "Fejezze be kerékpártúráját ezen a békés pihenőhelyen, amely tökéletes a kikapcsolódásra, és hozzon magával helyi harapnivalókat egy jól megérdemelt piknikhez a fűben.",
+            "ro": "Încheiați-vă călătoria cu bicicleta în această zonă de agrement liniștită perfectă pentru relaxare, aducând gustări locale pentru un picnic binemeritat pe iarbă.",
+            "en": "Conclude your cycling journey in this peaceful recreational area perfect for unwinding, bringing some local snacks for a well-deserved picnic on the grass."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie mit einer erfrischenden Radtour am Strand von Scogliolungo. Am Mittag bewundern Sie das Andrea-Parodi-Denkmal und die friedliche Basilika San Gavino. Der Nachmittag steht im Zeichen der Antike mit Besuchen der faszinierenden Terme Metzke und der majestätischen Römerbrücke. Am Abend radeln Sie gemütlich zum grünen Acquedolci, wo Sie sich nach einem aktiven Tag herrlich entspannen können.",
+        "hu": "Indítsa a napot egy frissítő kerékpározással a Scogliolungo strandon. Délben csodálja meg az Andrea Parodi emlékművet és a békés San Gavino bazilikát. A délután az ókor jegyében telik a lenyűgöző Terme Metzke és a fenséges római híd meglátogatásával. Este kényelmesen tekerjen el a zöldellő Acquedolci parkba, ahol egy aktív és élményekkel teli nap után tökéletesen kikapcsolódhat.",
+        "ro": "Începeți cu o plimbare revigorantă cu bicicleta la plaja Scogliolungo. La prânz, admirați monumentul lui Andrea Parodi și liniștita Bazilică San Gavino. După-amiaza este dedicată antichității, cu vizite la fascinantele Terme Metzke și la maiestuosul Pod Roman. Seara, pedalați încet spre verdele parc Acquedolci, unde vă puteți relaxa complet după o zi activă și plină de descoperiri.",
+        "en": "Kick off your ride with a refreshing breeze at Scogliolungo beach. Midday, pause to admire the Andrea Parodi monument and the peaceful San Gavino Basilica. The afternoon is dedicated to antiquity with visits to the fascinating Terme Metzke and the majestic Roman Bridge. As evening sets in, pedal leisurely toward the lush greenery of Acquedolci, a perfect spot to unwind after an active day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:19",
+      "total_km": 2.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Acquedolci",
+            "hu": "Acquedolci",
+            "ro": "Acquedolci",
+            "en": "Acquedolci"
+          },
+          "coords": [
+            8.413186,
+            40.838925
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Autotour hier, wo reichlich Parkplätze es Ihnen ermöglichen, sich im Grünen die Beine zu vertreten, bevor Sie die belebtere Innenstadt besuchen.",
+            "hu": "Kezdje autós túráját itt, ahol a bőséges parkolóhelyek lehetővé teszik, hogy a zöldövezetben kinyújtóztassa a lábát, mielőtt a zsúfoltabb belvárosi helyszínekre indulna.",
+            "ro": "Începeți turul cu mașina aici, unde parcarea amplă vă permite să vă dezmorțiți picioarele în spațiul verde, prinzând energie înainte de a vizita centrul aglomerat.",
+            "en": "Begin your driving tour here where ample parking lets you stretch your legs in the green space, getting energized before hitting the more crowded downtown sites."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre del Porto",
+            "hu": "Kikötői Torony",
+            "ro": "Turnul Portului",
+            "en": "Torre del Porto"
+          },
+          "coords": [
+            8.401486,
+            40.839486
+          ],
+          "category": "landmark",
+          "arrive_at": "10:29",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fahren Sie zum Yachthafen, um diesen beeindruckenden Wehrturm zu sehen, der den Hafen schützt, und nutzen Sie die ausgewiesenen Touristenparkplätze, um Strafen zu vermeiden.",
+            "hu": "Hajtson a jachtkikötő felé, és nézze meg a kikötőt védő lenyűgöző védőtornyot, és a bírságok elkerülése érdekében használja a kijelölt turistaparkolókat.",
+            "ro": "Conduceți spre port și vedeți acest turn de apărare impresionant, folosind zonele de parcare pentru turiști desemnate în apropiere pentru a evita amenzile.",
+            "en": "Drive toward the marina and check out this impressive defensive tower protecting the harbor, using the designated tourist parking zones nearby to avoid fines."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Archeologico Nazionale",
+            "hu": "Nemzeti Régészeti Múzeum",
+            "ro": "Muzeul Național de Arheologie",
+            "en": "Museo Archeologico Nazionale"
+          },
+          "coords": [
+            8.396994,
+            40.838332
+          ],
+          "category": "museum",
+          "arrive_at": "10:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Parken Sie zentral und treten Sie ein in die antike römische Geschichte in diesem modernen Gebäude. Kaufen Sie ein Kombiticket, um auch die Ruinen zu besuchen.",
+            "hu": "Parkoljon központilag, és lépjen be az ősi római történelem világába ebben a modern épületben, és vegyen kombinált jegyet a szomszédos romok megtekintéséhez is.",
+            "ro": "Parcați central și pășiți în istoria antică romană găzduită în această facilitate modernă, cumpărând un bilet combinat pentru a accesa și ruinele adiacente.",
+            "en": "Park centrally and step into a world of ancient Roman history housed within this modern facility, buying a combined ticket to also access the adjacent ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Area Archeologica di Turris Libisonis",
+            "hu": "Turris Libisonis Régészeti Terület",
+            "ro": "Zona Arheologică Turris Libisonis",
+            "en": "Area Archeologica di Turris Libisonis"
+          },
+          "coords": [
+            8.395606,
+            40.837151
+          ],
+          "category": "historical",
+          "arrive_at": "12:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die bemerkenswert erhaltenen Straßen dieser antiken Stadt, nur wenige Schritte vom Museum entfernt, und tragen Sie einen Sonnenhut, da Schatten fehlt.",
+            "hu": "Sétáljon a múzeumtól mindössze néhány lépésre található ősi város figyelemre méltóan megőrzött utcáin, és viseljen napkalapot, mivel az ásatási területen nincs árnyék.",
+            "ro": "Plimbați-vă pe străzile remarcabil conservate ale acestui oraș antic la câțiva pași de muzeu, purtând o pălărie de soare deoarece sitului îi lipsește umbra naturală.",
+            "en": "Wander through the remarkably preserved streets of this ancient city just steps from the museum, wearing a sunhat as the expansive excavation site lacks natural shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Complesso industriale Ferromin S.a.",
+            "hu": "Ferromin S.a. Ipari Komplexum",
+            "ro": "Complexul Industrial Ferromin S.a.",
+            "en": "Complesso industriale Ferromin S.a."
+          },
+          "coords": [
+            8.391221,
+            40.835434
+          ],
+          "category": "historical",
+          "arrive_at": "14:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.42,
+          "tip_5lang": {
+            "de": "Fahren Sie hinunter, um Sardiniens industrielles Erbe in dieser faszinierenden ehemaligen Bergbauanlage zu erleben. Parken Sie nicht vor den aktiven Werkstoren.",
+            "hu": "Hajtson le, hogy tanúja legyen Szardínia ipari örökségének ezen a lenyűgöző egykori bányászati létesítményen, és ügyeljen arra, hogy ne álljon az aktív ipari kapuk elé.",
+            "ro": "Conduceți pentru a vedea patrimoniul industrial al Sardiniei la această fostă facilitate minieră, asigurându-vă că parcați departe de porțile industriale active.",
+            "en": "Drive down to witness Sardinia's industrial heritage at this fascinating former mining facility, ensuring you park clear of the active industrial gates."
+          }
+        },
+        {
+          "name": {
+            "de": "Batteria antinave di Ponte romano",
+            "hu": "Ponte Romano Hajóelhárító Üteg",
+            "ro": "Bateria Antinavă Ponte Romano",
+            "en": "Batteria antinave di Ponte romano"
+          },
+          "coords": [
+            8.39004,
+            40.835955
+          ],
+          "category": "historical",
+          "arrive_at": "15:29",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit der Erkundung dieser versteckten Schiffsabwehrbatterien aus dem Zweiten Weltkrieg, und bringen Sie eine Taschenlampe für die dunklen Bunker mit.",
+            "hu": "Zárja a napot a második világháborús hajóelhárító ütegek felfedezésével, és hozzon magával zseblámpát, hogy bepillantson a mélyebb, sötét bunkerekbe.",
+            "ro": "Încheiați-vă ziua explorând aceste baterii antinavă ascunse din al Doilea Război Mondial, aducând o lanternă pentru a privi în secțiunile mai adânci și umbrite ale buncărului.",
+            "en": "Conclude your day exploring these hidden World War II anti-ship battery emplacements, bringing a flashlight to peer into the deeper, shadowed bunker sections."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt ganz entspannt im Erholungsgebiet Acquedolci. Am Mittag fahren Sie zum Yachthafen, um den mächtigen Torre del Porto zu bewundern, bevor Sie in das nationale archäologische Museum eintauchen. Nachmittags erkunden Sie die ausgedehnten römischen Ruinen von Turris Libisonis. Den Abend verbringen Sie mit faszinierender Industriegeschichte und militärischen Relikten nahe der Küste.",
+        "hu": "Kezdje autós túráját lazán az Acquedolci pihenőövezetben. Délben hajtson a kikötőhöz, hogy megcsodálja a hatalmas Torre del Porto-t, mielőtt elmerülne a nemzeti régészeti múzeum kincseiben. Délután fedezze fel Turris Libisonis kiterjedt római kori romjait. Az estét a lenyűgöző ipartörténeti és katonai emlékek felfedezésével töltheti a part közelében, egyedülálló hangulatot élvezve.",
+        "ro": "Începeți turul cu mașina relaxant în zona de agrement Acquedolci. La prânz, conduceți la port pentru a admira masivul Torre del Porto înainte de a vizita muzeul național de arheologie. După-amiaza, explorați ruinele romane extinse din Turris Libisonis. Seara o veți petrece descoperind istoria industrială fascinantă și relicvele militare din apropierea coastei.",
+        "en": "Start your driving tour with a relaxing stop at the green Acquedolci recreational area. Midday, head to the marina to admire the massive Torre del Porto before delving into the national archaeological museum. In the afternoon, wander the extensive Roman ruins of Turris Libisonis. Spend your evening uncovering fascinating industrial history and World War II military relics near the coastline."
+      }
+    }
+  }
+}

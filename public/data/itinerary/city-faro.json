@@ -1,0 +1,497 @@
+{
+  "city_id": "city-faro",
+  "anchor": {
+    "name": "Faro",
+    "coords": [
+      -7.9304,
+      37.0193
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "20:57",
+      "total_km": 1.13,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Palacete Guerreirinho",
+            "hu": "Palacete Guerreirinho",
+            "ro": "Palacete Guerreirinho",
+            "en": "Palacete Guerreirinho"
+          },
+          "coords": [
+            -7.938068,
+            37.019469
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur dieses historischen Herrenhauses und kommen Sie früh, um die Fassade in Ruhe zu fotografieren.",
+            "hu": "Csodálja meg ennek a történelmi kastélynak a lenyűgöző építészetét, és érkezzen korán, hogy nyugodtan fotózhassa a homlokzatot.",
+            "ro": "Admirați arhitectura impresionantă a acestui conac istoric și veniți devreme pentru a fotografia fațada în liniște.",
+            "en": "Admire the impressive architecture of this historical manor, and arrive early to photograph the facade in peace."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Marítimo Almirante Ramalho Ortigão",
+            "hu": "Museu Marítimo Almirante Ramalho Ortigão",
+            "ro": "Museu Marítimo Almirante Ramalho Ortigão",
+            "en": "Museu Marítimo Almirante Ramalho Ortigão"
+          },
+          "coords": [
+            -7.937518,
+            37.016373
+          ],
+          "category": "museum",
+          "arrive_at": "10:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Seefahrtsgeschichte von Faro und achten Sie besonders auf die detaillierten Schiffsmodelle in der Haupthalle.",
+            "hu": "Fedezze fel Faro gazdag tengerészeti múltját, és figyeljen a részletgazdag hajómodellekre a főcsarnokban.",
+            "ro": "Descoperiți istoria maritimă bogată a orașului Faro și acordați atenție modelelor detaliate de nave din sala principală.",
+            "en": "Discover Faro's rich maritime history, and pay special attention to the detailed ship models in the main hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu e Igreja da Misericórdia",
+            "hu": "Museu e Igreja da Misericórdia",
+            "ro": "Museu e Igreja da Misericórdia",
+            "en": "Museu e Igreja da Misericórdia"
+          },
+          "coords": [
+            -7.934736,
+            37.015223
+          ],
+          "category": "museum",
+          "arrive_at": "12:19",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Betrachten Sie die kunstvollen Altäre in dieser Kirche und werfen Sie einen Blick auf die sakralen Kunstwerke im angeschlossenen Museum.",
+            "hu": "Tekintse meg a művészi oltárokat ebben a templomban, és vessen egy pillantást a kapcsolódó múzeum szakrális művészeti alkotásaira.",
+            "ro": "Priviți altarele artistice din această biserică și aruncați o privire la operele de artă sacră din muzeul atașat.",
+            "en": "View the artistic altars in this church, and take a look at the sacred artworks in the attached museum."
+          }
+        },
+        {
+          "name": {
+            "de": "Paço Episcopal",
+            "hu": "Paço Episcopal",
+            "ro": "Paço Episcopal",
+            "en": "Paço Episcopal"
+          },
+          "coords": [
+            -7.935016,
+            37.014011
+          ],
+          "category": "castle",
+          "arrive_at": "14:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Erkunden Sie den prächtigen Bischofspalast mit seinen schönen Azulejos, aber prüfen Sie vorab die begrenzten Öffnungszeiten.",
+            "hu": "Fedezze fel a pompás püspöki palotát a gyönyörű azulejo csempékkel, de előtte ellenőrizze a korlátozott nyitvatartást.",
+            "ro": "Explorați magnificul palat episcopal cu frumoasele sale azulejos, dar verificați în prealabil programul limitat de vizitare.",
+            "en": "Explore the magnificent Episcopal Palace with its beautiful azulejos, but check the limited opening hours beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Municipal de Faro",
+            "hu": "Museu Municipal de Faro",
+            "ro": "Museu Municipal de Faro",
+            "en": "Museu Municipal de Faro"
+          },
+          "coords": [
+            -7.933893,
+            37.012951
+          ],
+          "category": "museum",
+          "arrive_at": "15:23",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Geschichte der Algarve ein und verpassen Sie nicht das römische Mosaik des Ozeangottes, das hier ausgestellt ist.",
+            "hu": "Merüljön el Algarve történelmében, és ne hagyja ki az itt kiállított Óceánisten római mozaikját.",
+            "ro": "Cufundați-vă în istoria Algarve și nu ratați mozaicul roman al zeului oceanului expus aici.",
+            "en": "Immerse yourself in the history of the Algarve, and do not miss the Roman mosaic of the Ocean God exhibited here."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro story spot",
+            "hu": "Faro story spot",
+            "ro": "Faro story spot",
+            "en": "Faro story spot"
+          },
+          "coords": [
+            -7.935162,
+            37.0129
+          ],
+          "category": "museum",
+          "arrive_at": "17:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Erleben Sie die interaktiven Ausstellungen zur Stadtgeschichte und nutzen Sie die Multimedia-Displays für ein tieferes Verständnis.",
+            "hu": "Tapasztalja meg az interaktív városi történeti kiállításokat, és használja a multimédiás kijelzőket a mélyebb megértéshez.",
+            "ro": "Experimentați expozițiile interactive despre istoria orașului și folosiți ecranele multimedia pentru o înțelegere mai profundă.",
+            "en": "Experience the interactive city history exhibitions, and use the multimedia displays for a deeper understanding."
+          }
+        },
+        {
+          "name": {
+            "de": "Algarve Life Sciences Center",
+            "hu": "Algarve Life Sciences Center",
+            "ro": "Algarve Life Sciences Center",
+            "en": "Algarve Life Sciences Center"
+          },
+          "coords": [
+            -7.936148,
+            37.013299
+          ],
+          "category": "museum",
+          "arrive_at": "18:47",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Nehmen Sie an den interaktiven wissenschaftlichen Experimenten teil, die ideal für Familien sind, und planen Sie genug Zeit zum Ausprobieren ein.",
+            "hu": "Vegyen részt a családok számára ideális interaktív tudományos kísérletekben, és szánjon elég időt a kipróbálásra.",
+            "ro": "Participați la experimentele științifice interactive, ideale pentru familii, și alocați suficient timp pentru explorare.",
+            "en": "Participate in the interactive scientific experiments, ideal for families, and allow enough time to explore."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am Palacete Guerreirinho, gefolgt von einer tiefen Erkundung der maritimen Geschichte. Mittags bewundern wir sakrale Kunst und die azulejoverzierten Hallen des Bischofspalastes. Am Nachmittag tauchen wir im Museu Municipal in die römische Vergangenheit und die Stadtgeschichte ein. Der Abend endet interaktiv und spannend im Wissenschaftszentrum.",
+        "hu": "A reggel a Palacete Guerreirinho-nál indul, majd a tengerészeti történelem mélyreható felfedezése következik. Délben szakrális művészetet és a Püspöki Palota csempézett termeit csodáljuk meg. Délután a Városi Múzeumban elmerülünk a római múltban és a város történetében. Az este interaktív és izgalmas módon zárul a Tudományos Központban.",
+        "ro": "Dimineața începe la Palacete Guerreirinho, urmată de o explorare a istoriei maritime. La prânz admirăm arta sacră și sălile decorate cu azulejos ale Palatului Episcopal. După-amiaza ne scufundăm în trecutul roman și în istoria orașului la Muzeul Municipal. Seara se încheie interactiv la Centrul de Științe.",
+        "en": "The morning begins at Palacete Guerreirinho, followed by a deep exploration of maritime history. At midday, we admire sacred art and the azulejo-decorated halls of the Episcopal Palace. In the afternoon, we dive into the Roman past and city history at the Municipal Museum. The evening ends interactively at the Science Center."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:28",
+      "total_km": 5.98,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Anfiteateatro da Penha",
+            "hu": "Anfiteateatro da Penha",
+            "ro": "Anfiteateatro da Penha",
+            "en": "Anfiteateatro da Penha"
+          },
+          "coords": [
+            -7.92203,
+            37.028307
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre dieses Freilufttheaters und machen Sie einen Spaziergang durch die angrenzenden Grünanlagen.",
+            "hu": "Élvezze a szabadtéri színház nyugodt atmoszféráját, és tegyen egy sétát a szomszédos zöldterületeken.",
+            "ro": "Bucurați-vă de atmosfera liniștită a acestui teatru în aer liber și faceți o plimbare prin spațiile verzi adiacente.",
+            "en": "Enjoy the peaceful atmosphere of this open-air theater, and take a walk through the adjacent green spaces."
+          }
+        },
+        {
+          "name": {
+            "de": "Palácio Fialho",
+            "hu": "Palácio Fialho",
+            "ro": "Palácio Fialho",
+            "en": "Palácio Fialho"
+          },
+          "coords": [
+            -7.917393,
+            37.019559
+          ],
+          "category": "historical",
+          "arrive_at": "10:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.05,
+          "tip_5lang": {
+            "de": "Bewundern Sie die elegante Fassade dieses historischen Gebäudes und achten Sie auf die kunstvollen architektonischen Details aus dem 19. Jahrhundert.",
+            "hu": "Csodálja meg e történelmi épület elegáns homlokzatát, és figyeljen a 19. századi díszes építészeti részletekre.",
+            "ro": "Admirați fațada elegantă a acestei clădiri istorice și acordați atenție detaliilor arhitecturale ornamentate din secolul al XIX-lea.",
+            "en": "Admire the elegant facade of this historical building, and pay attention to the ornate 19th-century architectural details."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Lethes",
+            "hu": "Teatro Lethes",
+            "ro": "Teatro Lethes",
+            "en": "Teatro Lethes"
+          },
+          "coords": [
+            -7.931733,
+            37.018291
+          ],
+          "category": "cultural",
+          "arrive_at": "12:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.28,
+          "tip_5lang": {
+            "de": "Buchen Sie eine Führung durch dieses prachtvolle Theater, das früher ein Jesuitenkolleg war, um seine verborgenen Geheimnisse zu entdecken.",
+            "hu": "Foglaljon tárlatvezetést ebben a pompás színházban, amely egykor jezsuita kollégium volt, hogy felfedezze rejtett titkait.",
+            "ro": "Rezervați un tur ghidat al acestui teatru magnific, fost colegiu iezuit, pentru a-i descoperi secretele ascunse.",
+            "en": "Book a guided tour of this magnificent theater, formerly a Jesuit college, to discover its hidden secrets."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Regional do Algarve",
+            "hu": "Museu Regional do Algarve",
+            "ro": "Museu Regional do Algarve",
+            "en": "Museu Regional do Algarve"
+          },
+          "coords": [
+            -7.931102,
+            37.016091
+          ],
+          "category": "museum",
+          "arrive_at": "13:24",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entdecken Sie die traditionelle Kultur der Region durch faszinierende volkskundliche Exponate und planen Sie Zeit für den Souvenirshop ein.",
+            "hu": "Fedezze fel a régió hagyományos kultúráját a lenyűgöző néprajzi kiállításokon, és szánjon időt az ajándékboltra is.",
+            "ro": "Descoperiți cultura tradițională a regiunii prin exponate folclorice fascinante și planificați timp pentru magazinul de suveniruri.",
+            "en": "Discover the region's traditional culture through fascinating folklore exhibits, and plan some time for the souvenir shop."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia dos Tesos",
+            "hu": "Praia dos Tesos",
+            "ro": "Praia dos Tesos",
+            "en": "Praia dos Tesos"
+          },
+          "coords": [
+            -7.941509,
+            37.006532
+          ],
+          "category": "recreational",
+          "arrive_at": "15:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem ruhigen Strand abseits der Massen und bringen Sie ein Fernglas zur Vogelbeobachtung in der Lagune mit.",
+            "hu": "Pihenjen ezen a csendes strandon, távol a tömegtől, és hozzon magával távcsövet a lagúnában való madármegfigyeléshez.",
+            "ro": "Relaxați-vă pe această plajă liniștită departe de mulțimi și aduceți binoclu pentru observarea păsărilor în lagună.",
+            "en": "Relax on this quiet beach away from the crowds, and bring binoculars for bird watching in the lagoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro das Figuras",
+            "hu": "Teatro das Figuras",
+            "ro": "Teatro das Figuras",
+            "en": "Teatro das Figuras"
+          },
+          "coords": [
+            -7.944547,
+            37.024985
+          ],
+          "category": "cultural",
+          "arrive_at": "16:38",
+          "stay_min": 110,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erleben Sie zeitgenössische Kunst und Kultur in diesem modernen Theatergebäude und prüfen Sie vorab den aktuellen Spielplan.",
+            "hu": "Tapasztalja meg a kortárs művészetet és kultúrát ebben a modern színházépületben, és ellenőrizze előre az aktuális műsort.",
+            "ro": "Experimentați arta și cultura contemporană în această clădire modernă de teatru și verificați în prealabil programul actual.",
+            "en": "Experience contemporary art and culture in this modern theater building, and check the current schedule beforehand."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir starten sportlich am Anfiteateatro da Penha und radeln dann zum eleganten Palácio Fialho. Gegen Mittag erkunden wir das prachtvolle Teatro Lethes und die reiche Volkskunst im Regionalmuseum. Der Nachmittag bietet eine entspannte Pause an der Praia dos Tesos, umgeben von der Natur der Ria Formosa. Den Tag schließen wir kulturell am modernen Teatro das Figuras ab.",
+        "hu": "Sportosan indulunk az Anfiteateatro da Penha-nál, majd az elegáns Palácio Fialho-hoz tekerünk. Dél körül felfedezzük a pompás Teatro Lethes-t és a Regionális Múzeum gazdag népművészetét. A délután pihentető szünetet kínál a Praia dos Tesos-on, a Ria Formosa természetével övezve. A napot kulturálisan a modern Teatro das Figuras-nál zárjuk.",
+        "ro": "Începem sportiv la Anfiteateatro da Penha și pedalăm spre elegantul Palácio Fialho. Pe la prânz explorăm magnificul Teatro Lethes și arta populară de la Muzeul Regional. După-amiaza oferă o pauză relaxantă la Praia dos Tesos, înconjurați de natura din Ria Formosa. Încheiem ziua cultural la modernul Teatro das Figuras.",
+        "en": "We start sportily at Anfiteateatro da Penha and then cycle to the elegant Palácio Fialho. Around midday, we explore the magnificent Teatro Lethes and the rich folk art in the Regional Museum. The afternoon offers a relaxing break at Praia dos Tesos, surrounded by the nature of Ria Formosa. We end the day culturally at the modern Teatro das Figuras."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:48",
+      "total_km": 5.98,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Palácio Fialho",
+            "hu": "Palácio Fialho",
+            "ro": "Palácio Fialho",
+            "en": "Palácio Fialho"
+          },
+          "coords": [
+            -7.917393,
+            37.019559
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Nutzen Sie die Morgenstunden für Fotos dieses schönen Palastes, bevor der Verkehr zunimmt, und parken Sie in den umliegenden Nebenstraßen.",
+            "hu": "Használja ki a reggeli órákat a palota fotózására, mielőtt a forgalom megnőne, és parkoljon a környező mellékutcákban.",
+            "ro": "Profitați de orele dimineții pentru a fotografia acest frumos palat înainte ca traficul să crească și parcați pe străzile lăturalnice.",
+            "en": "Take advantage of the morning hours to photograph this beautiful palace before traffic increases, and park in the surrounding side streets."
+          }
+        },
+        {
+          "name": {
+            "de": "Anfiteateatro da Penha",
+            "hu": "Anfiteateatro da Penha",
+            "ro": "Anfiteateatro da Penha",
+            "en": "Anfiteateatro da Penha"
+          },
+          "coords": [
+            -7.92203,
+            37.028307
+          ],
+          "category": "cultural",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.05,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen Veranstaltungsort, der für seine hervorragende Akustik bekannt ist, und genießen Sie die Aussicht auf die Stadt.",
+            "hu": "Látogasson el erre a kiváló akusztikájáról ismert rendezvényhelyszínre, és élvezze a városra nyíló kilátást.",
+            "ro": "Vizitați acest loc de evenimente, cunoscut pentru acustica sa excelentă, și bucurați-vă de vederea asupra orașului.",
+            "en": "Visit this venue, known for its excellent acoustics, and enjoy the view over the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Anfiteatro",
+            "hu": "Anfiteatro",
+            "ro": "Anfiteatro",
+            "en": "Anfiteatro"
+          },
+          "coords": [
+            -7.947722,
+            37.026623
+          ],
+          "category": "cultural",
+          "arrive_at": "11:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die moderne Architektur dieses großen Freiluftbereichs, der perfekt für eine kurze Pause und ein Picknick geeignet ist.",
+            "hu": "Fedezze fel ennek a nagy szabadtéri területnek a modern építészetét, amely tökéletes egy rövid pihenőre és egy piknikre.",
+            "ro": "Explorați arhitectura modernă a acestei zone mari în aer liber, perfectă pentru o scurtă pauză și un picnic.",
+            "en": "Explore the modern architecture of this large outdoor area, perfect for a short break and a picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro das Figuras",
+            "hu": "Teatro das Figuras",
+            "ro": "Teatro das Figuras",
+            "en": "Teatro das Figuras"
+          },
+          "coords": [
+            -7.944547,
+            37.024985
+          ],
+          "category": "cultural",
+          "arrive_at": "13:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Bewundern Sie die imposante Struktur des Theaters und nutzen Sie den großen Parkplatz, um die Umgebung bequem zu erkunden.",
+            "hu": "Csodálja meg a színház impozáns szerkezetét, és használja a nagy parkolót a környék kényelmes felfedezéséhez.",
+            "ro": "Admirați structura impunătoare a teatrului și folosiți parcarea mare pentru a explora zona înconjurătoare în mod convenabil.",
+            "en": "Admire the imposing structure of the theater, and use the large parking lot to comfortably explore the surrounding area."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacete Guerreirinho",
+            "hu": "Palacete Guerreirinho",
+            "ro": "Palacete Guerreirinho",
+            "en": "Palacete Guerreirinho"
+          },
+          "coords": [
+            -7.938068,
+            37.019469
+          ],
+          "category": "castle",
+          "arrive_at": "14:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.84,
+          "tip_5lang": {
+            "de": "Betrachten Sie die historischen Details dieses Schlosses, das einst einer prominenten Familie gehörte, und schlendern Sie durch die Gärten.",
+            "hu": "Tekintse meg ennek a kastélynak a történelmi részleteit, amely egykor egy kiemelkedő családé volt, és sétáljon végig a kerteken.",
+            "ro": "Priviți detaliile istorice ale acestui castel, deținut cândva de o familie proeminentă, și plimbați-vă prin grădini.",
+            "en": "Look at the historical details of this castle, once owned by a prominent family, and stroll through the gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia dos Tesos",
+            "hu": "Praia dos Tesos",
+            "ro": "Praia dos Tesos",
+            "en": "Praia dos Tesos"
+          },
+          "coords": [
+            -7.941509,
+            37.006532
+          ],
+          "category": "recreational",
+          "arrive_at": "16:03",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.46,
+          "tip_5lang": {
+            "de": "Genießen Sie den Sonnenuntergang an diesem idyllischen Strandabschnitt und beobachten Sie die einzigartige Tierwelt der Ria Formosa.",
+            "hu": "Élvezze a naplementét ezen az idilli strandszakaszon, és figyelje meg a Ria Formosa egyedülálló vadvilágát.",
+            "ro": "Bucurați-vă de apusul soarelui pe această porțiune idilică de plajă și observați fauna unică a Ria Formosa.",
+            "en": "Enjoy the sunset on this idyllic stretch of beach, and observe the unique wildlife of the Ria Formosa."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unsere Autotour beginnt mit dem historischen Charme des Palácio Fialho. Am Vormittag besuchen wir zwei beeindruckende Amphitheater, die Kultur und Stadtansichten verbinden. Nachmittags bewundern wir das markante Teatro das Figuras und die Architektur des Palacete Guerreirinho. Zum Ausklang fahren wir zur Praia dos Tesos, um den Tag entspannt am Wasser zu beenden.",
+        "hu": "Autós túránk a Palácio Fialho történelmi varázsával indul. Délelőtt két lenyűgöző amfiteátrumot látogatunk meg, amelyek a kultúrát és a városképet ötvözik. Délután megcsodáljuk a Teatro das Figuras-t és a Palacete Guerreirinho építészetét. Zárásként a Praia dos Tesos-hoz hajtunk, hogy a napot pihentetően a vízparton fejezzük be.",
+        "ro": "Turul nostru auto începe cu farmecul istoric al Palácio Fialho. Dimineața vizităm două amfiteatre impresionante care combină cultura și priveliștile orașului. După-amiaza admirăm Teatro das Figuras și arhitectura Palacete Guerreirinho. În încheiere, conducem spre Praia dos Tesos pentru a termina ziua relaxant lângă apă.",
+        "en": "Our car tour begins with the historical charm of Palácio Fialho. In the morning, we visit two impressive amphitheaters that combine culture and city views. In the afternoon, we admire the striking Teatro das Figuras and the architecture of Palacete Guerreirinho. To conclude, we drive to Praia dos Tesos to end the day relaxing by the water."
+      }
+    }
+  }
+}

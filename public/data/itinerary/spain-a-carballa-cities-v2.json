@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-a-carballa-cities-v2",
+  "anchor": {
+    "name": "A Carballa",
+    "coords": [
+      -8.92976,
+      43.21877
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:07",
+      "total_km": 1.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Concello de Cabana de Bergantiños",
+            "hu": "Concello de Cabana de Bergantiños",
+            "ro": "Concello de Cabana de Bergantiños",
+            "en": "Concello de Cabana de Bergantiños"
+          },
+          "coords": [
+            -8.929637,
+            43.219322
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur dieses Rathauses und nutzen Sie die Gelegenheit, an den Aushängen nach aktuellen Kulturveranstaltungen zu suchen.",
+            "hu": "Csodáld meg a helyi önkormányzat modern építészetét, és szánj egy percet a kulturális programokról szóló hirdetmények böngészésére a látogatásod során.",
+            "ro": "Admiră arhitectura modernă a primăriei și verifică avizierele publice pentru a afla despre evenimentele culturale care au loc în timpul șederii tale.",
+            "en": "Admire the modern civic architecture of this local government hub, taking a moment to browse public notices for cultural events during your stay."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Pendón",
+            "hu": "Praia do Pendón",
+            "ro": "Praia do Pendón",
+            "en": "Praia do Pendón"
+          },
+          "coords": [
+            -8.929482,
+            43.221568
+          ],
+          "category": "recreational",
+          "arrive_at": "10:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem ruhigen Mündungsstrand und bringen Sie am besten Wasserschuhe mit, da der weiche Sand fließend in felsige Abschnitte übergeht.",
+            "hu": "Pihenj meg ezen a csendes torkolati strandon, és érdemes vízicipőt hoznod, mivel a homokos részek észrevétlenül olvadnak egybe a sziklás parttal.",
+            "ro": "Relaxează-te pe malurile liniștite ale acestei plaje de estuar și adu-ți încălțăminte de apă, deoarece zonele de nisip se îmbină frumos cu stâncile.",
+            "en": "Relax on the peaceful shores of this quiet estuary beach, and consider bringing water shoes as the sandy stretches seamlessly blend with rugged rocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradoiro das Grelas",
+            "hu": "Miradoiro das Grelas",
+            "ro": "Miradoiro das Grelas",
+            "en": "Miradoiro das Grelas"
+          },
+          "coords": [
+            -8.94061,
+            43.217646
+          ],
+          "category": "natural",
+          "arrive_at": "12:04",
+          "stay_min": 25,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick über die üppige Landschaft von diesem Aussichtspunkt und nutzen Sie ein Fernglas, um die Vögel über der Mündung zu beobachten.",
+            "hu": "Gyönyörködj a buja tájban erről a kilátóról, és hozz magaddal távcsövet, hogy megfigyelhesd a lenti torkolat felett köröző gazdag madárvilágot.",
+            "ro": "Privește peisajul luxuriant de la acest punct de belvedere și folosește un binoclu pentru a observa păsările locale care zboară deasupra estuarului.",
+            "en": "Gaze over the lush landscapes from this scenic viewpoint, bringing binoculars to spot the abundant local birdlife circling the estuary below."
+          }
+        },
+        {
+          "name": {
+            "de": "Capela da Virxe de Fátima de Sinde",
+            "hu": "Capela da Virxe de Fátima de Sinde",
+            "ro": "Capela da Virxe de Fátima de Sinde",
+            "en": "Capela da Virxe de Fátima de Sinde"
+          },
+          "coords": [
+            -8.940118,
+            43.215439
+          ],
+          "category": "religious",
+          "arrive_at": "12:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erleben Sie die friedliche Atmosphäre dieser ländlichen Kapelle und prüfen Sie vorab die Zeiten, da der Innenraum meist nur zu Messen zugänglich ist.",
+            "hu": "Éld át e festői vidéki kápolna békés hangulatát, de előzetesen ellenőrizd a menetrendet, mert a belső tér gyakran csak a misék idején látogatható.",
+            "ro": "Simte atmosfera senină a acestei capele rurale pitorești și verifică programul în prealabil, accesul în interior fiind limitat la orele de slujbă.",
+            "en": "Experience the serene atmosphere of this quaint rural chapel, checking local schedules beforehand as interior access is often limited to mass times."
+          }
+        },
+        {
+          "name": {
+            "de": "Castro",
+            "hu": "Castro",
+            "ro": "Castro",
+            "en": "Castro"
+          },
+          "coords": [
+            -8.940299,
+            43.212665
+          ],
+          "category": "historical",
+          "arrive_at": "13:17",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die alten Grundmauern dieser keltischen Siedlung und tragen Sie festes Schuhwerk, um sicher über die unebenen, historischen Hügel zu gehen.",
+            "hu": "Fedezd fel ennek a kelta településnek az ősi alapjait, és viselj masszív lábbelit, hogy biztonságosan járhasd be a történelmet rejtő egyenetlen dombokat.",
+            "ro": "Explorează ruinele acestei așezări celtice antice, purtând încălțăminte solidă pentru a naviga în siguranță pe movilele ierboase cu istorie milenară.",
+            "en": "Explore the ancient foundations of this Celtic settlement, wearing sturdy footwear to safely navigate the uneven grassy mounds hiding millennia of history."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am örtlichen Verwaltungszentrum und bereiten Sie sich auf eine tiefe Erkundung der Region vor. Kurz darauf erreichen Sie einen ruhigen Sandstrand. \n\n Mittags erwartet Sie ein Anstieg zu einem atemberaubenden Aussichtspunkt, der eine großartige Perspektive bietet. Atmen Sie die frische Meeresluft ein. \n\n Am Nachmittag besuchen Sie eine malerische ländliche Kapelle, bevor Sie bei einer alten Siedlung eine Reise in die Vergangenheit unternehmen. \n\n Wenn der Abend naht, tauchen Sie in die reiche keltische Geschichte des Castros ein. Das schwindende Licht bietet eine magische Kulisse.",
+        "hu": "Kezdd a reggelt a helyi közigazgatási központban, ráhangolódva a régió szívének felfedezésére. Röviddel ezután egy nyugodt, homokos partszakaszhoz érsz. \n\n A dél a lenyűgöző kilátóhoz vezető sétával telik, amely nagyszerű rálátást kínál a tájra. Szánj időt a friss parti levegő mély belélegzésére. \n\n Délután meglátogatsz egy békés vidéki kápolnát, majd visszalépsz az időben egy ősi település maradványainál. \n\n Ahogy közeledik az este, merülj el a castro gazdag kelta történelmében. A halványuló fények varázslatos hátteret biztosítanak történelmi utazásodhoz.",
+        "ro": "Începe-ți dimineața la centrul administrativ local, pregătindu-te pentru a explora inima regiunii. La scurt timp, vei ajunge la un loc de nisip liniștit. \n\n La prânz vei urca spre un punct de belvedere uimitor, care oferă o perspectivă grandioasă a peisajului. Ia-ți timp să respiri aerul proaspăt de coastă. \n\n După-amiază, vei vizita o capelă rurală plină de farmec, înainte de a te întoarce în timp la ruinele unei așezări străvechi. \n\n Odată cu lăsarea serii, cufundă-te în istoria celtică a castrului. Lumina difuză oferă un cadru magic pentru această călătorie istorică.",
+        "en": "Begin your morning at the local administrative center, setting the stage for a deep dive into the region's heart. Shortly after, you will reach a tranquil sandy spot. \n\n Midday brings an uphill walk to a stunning viewpoint, offering a grand perspective of the landscapes. Take your time to breathe in the fresh coastal air. \n\n In the afternoon, you will visit a quiet rural chapel full of charm, before stepping further back in time at an ancient settlement site. \n\n As evening approaches, immerse yourself in the rich Celtic history of the castro. The fading light provides a magical backdrop for this historical journey."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:05",
+      "total_km": 5.25,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Concello de Cabana de Bergantiños",
+            "hu": "Concello de Cabana de Bergantiños",
+            "ro": "Concello de Cabana de Bergantiños",
+            "en": "Concello de Cabana de Bergantiños"
+          },
+          "coords": [
+            -8.929637,
+            43.219322
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die moderne Architektur dieses Rathauses und nutzen Sie die Gelegenheit, an den Aushängen nach aktuellen Kulturveranstaltungen zu suchen.",
+            "hu": "Csodáld meg a helyi önkormányzat modern építészetét, és szánj egy percet a kulturális programokról szóló hirdetmények böngészésére a látogatásod során.",
+            "ro": "Admiră arhitectura modernă a primăriei și verifică avizierele publice pentru a afla despre evenimentele culturale care au loc în timpul șederii tale.",
+            "en": "Admire the modern civic architecture of this local government hub, taking a moment to browse public notices for cultural events during your stay."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Pendón",
+            "hu": "Praia do Pendón",
+            "ro": "Praia do Pendón",
+            "en": "Praia do Pendón"
+          },
+          "coords": [
+            -8.929482,
+            43.221568
+          ],
+          "category": "recreational",
+          "arrive_at": "10:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem ruhigen Mündungsstrand und bringen Sie am besten Wasserschuhe mit, da der weiche Sand fließend in felsige Abschnitte übergeht.",
+            "hu": "Pihenj meg ezen a csendes torkolati strandon, és érdemes vízicipőt hoznod, mivel a homokos részek észrevétlenül olvadnak egybe a sziklás parttal.",
+            "ro": "Relaxează-te pe malurile liniștite ale acestei plaje de estuar și adu-ți încălțăminte de apă, deoarece zonele de nisip se îmbină frumos cu stâncile.",
+            "en": "Relax on the peaceful shores of this quiet estuary beach, and consider bringing water shoes as the sandy stretches seamlessly blend with rugged rocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia do Medio",
+            "hu": "Praia do Medio",
+            "ro": "Praia do Medio",
+            "en": "Praia do Medio"
+          },
+          "coords": [
+            -8.93294,
+            43.229407
+          ],
+          "category": "recreational",
+          "arrive_at": "11:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang entlang dieses Küstenabschnitts und kommen Sie früh, um sich einen guten Platz zu sichern, bevor die Nachmittagsflut kommt.",
+            "hu": "Élvezd a frissítő sétát a partvonal középső szakaszán, és érkezz korán, hogy jó helyet találj a homokban, mielőtt a délutáni dagály megérkezik.",
+            "ro": "Fă o plimbare revigorantă pe această secțiune centrală de coastă și ajunge devreme pentru a prinde un loc bun pe nisip înainte de fluxul de după-amiază.",
+            "en": "Enjoy a refreshing stroll along this central coastline section, arriving early to secure a good spot on the sand before the afternoon tide rolls in."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Barra",
+            "hu": "Praia da Barra",
+            "ro": "Praia da Barra",
+            "en": "Praia da Barra"
+          },
+          "coords": [
+            -8.938073,
+            43.232012
+          ],
+          "category": "recreational",
+          "arrive_at": "13:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang der Sandbank zwischen Fluss und Meer und achten Sie auf die Gezeitenströmungen, wenn Sie im flachen Wasser waten möchten.",
+            "hu": "Sétálj a folyót és a tengert elválasztó homokpadon, és ügyelj az árapály-áramlatokra, ha a sekély vizekben szeretnél hűsölni egy kicsit a melegben.",
+            "ro": "Plimbă-te pe bancul de nisip care desparte râul de mare și urmărește curenții de maree dacă plănuiești să intri în apele puțin adânci.",
+            "en": "Stroll along the protective sandbar dividing the river and sea, keeping an eye on the tidal currents if you plan to wade in the shallow waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradoiro de Monte Branco",
+            "hu": "Miradoiro de Monte Branco",
+            "ro": "Miradoiro de Monte Branco",
+            "en": "Miradoiro de Monte Branco"
+          },
+          "coords": [
+            -8.932379,
+            43.239697
+          ],
+          "category": "natural",
+          "arrive_at": "14:31",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den spektakulären Panoramablick auf die gesamte Flussmündung und packen Sie eine Windjacke ein, da die Meeresbrise hier sehr frisch ist.",
+            "hu": "Csodáld meg a torkolatra nyíló látványos panorámát, és vigyél magaddal széldzsekit, mivel a magasan fekvő partvidéki szél meglehetősen hűvös lehet.",
+            "ro": "Admiră panorama spectaculoasă a întregului estuar și ia-ți o jachetă de vânt, deoarece briza de coastă la această altitudine poate fi destul de rece.",
+            "en": "Marvel at the spectacular panoramic views of the entire estuary, packing a windbreaker as the elevated coastal breezes can be remarkably brisk here."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradoiro das Grelas",
+            "hu": "Miradoiro das Grelas",
+            "ro": "Miradoiro das Grelas",
+            "en": "Miradoiro das Grelas"
+          },
+          "coords": [
+            -8.94061,
+            43.217646
+          ],
+          "category": "natural",
+          "arrive_at": "15:10",
+          "stay_min": 55,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Genießen Sie den Blick über die üppige Landschaft von diesem Aussichtspunkt und nutzen Sie ein Fernglas, um die Vögel über der Mündung zu beobachten.",
+            "hu": "Gyönyörködj a buja tájban erről a kilátóról, és hozz magaddal távcsövet, hogy megfigyelhesd a lenti torkolat felett köröző gazdag madárvilágot.",
+            "ro": "Privește peisajul luxuriant de la acest punct de belvedere și folosește un binoclu pentru a observa păsările locale care zboară deasupra estuarului.",
+            "en": "Gaze over the lush landscapes from this scenic viewpoint, bringing binoculars to spot the abundant local birdlife circling the estuary below."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Radtag im Stadtzentrum, bevor Sie zum ersten schönen Strand hinuntergleiten. Die frische Morgenbrise wird Sie sofort beleben. \n\n Fahren Sie weiter an der Küste entlang, um weitere versteckte Sandstrände zu entdecken, von denen jeder eine einzigartige Verbindung zum Rhythmus der Mündung bietet. \n\n Verbringen Sie den Nachmittag damit, in Richtung des majestätischen Monte Branco zu radeln. Der Panoramablick ist eine wohlverdiente Belohnung für Ihre Mühen. \n\n Beenden Sie Ihre Radtour an einem weiteren malerischen Aussichtspunkt. Beobachten Sie, wie die Sonne hinter dem Horizont versinkt.",
+        "hu": "Indítsd a biciklis napot a városközpontban, mielőtt legurulsz az első gyönyörű strandhoz. A friss reggeli szellő azonnal új energiával tölt fel. \n\n Folytasd az utat a partvonal mentén, hogy további rejtett homokos szakaszokat fedezz fel, amelyek mind egyedi kapcsolatot kínálnak a torkolat ritmusával. \n\n A délutánt a fenséges Monte Branco felé vezető tekeréssel töltsd. A csúcsról nyíló panoráma jól megérdemelt jutalom a felfelé tett erőfeszítésekért. \n\n Fejezd be a túrát egy újabb festői kilátónál. Nézd, ahogy a nap a horizont alá bukik, miközben visszaemlékszel e gyönyörű napra.",
+        "ro": "Începe ziua de ciclism în centrul orașului înainte de a coborî spre prima plajă frumoasă. Briza proaspătă a dimineții te va revigora instantaneu. \n\n Continuă să pedalezi de-a lungul coastei pentru a descoperi mai multe plaje ascunse, fiecare oferind o conexiune unică cu ritmul și valurile estuarului. \n\n Petrece-ți după-amiaza pedalând spre maiestuosul Monte Branco. Priveliștile panoramice de la vârf vor fi o recompensă binemeritată pentru efortul tău. \n\n Încheie turul la un alt punct de belvedere pitoresc. Privește cum soarele apune sub orizont, reflectând asupra unei zile de explorare.",
+        "en": "Kick off your cycling day at the town center before gliding down to the first beautiful beach. The fresh morning breeze will instantly invigorate you. \n\n Continue riding along the coastline to discover more hidden sandy stretches, each offering a unique connection to the estuary's rhythm and calming waves. \n\n Spend the afternoon pedaling toward the majestic Mount Branco. The panoramic views from the top will be a well-earned reward for your uphill efforts. \n\n End your cycling tour at another scenic viewpoint. Watch the sun dip below the horizon as you reflect on a day of natural beauty and active exploration."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:46",
+      "total_km": 8.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Castro de San Fins",
+            "hu": "Castro de San Fins",
+            "ro": "Castro de San Fins",
+            "en": "Castro de San Fins"
+          },
+          "coords": [
+            -8.92152,
+            43.205637
+          ],
+          "category": "historical",
+          "arrive_at": "09:04",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Geheimnisse dieser eisenzeitlichen Überreste und vergessen Sie Ihre Kamera nicht, um die atemberaubende Aussicht auf das Tal festzuhalten.",
+            "hu": "Fedezd fel a vaskori maradványok titkait, és ne felejtsd el magaddal hozni a fényképezőgépedet, hogy megörökítsd a romokat körülölelő lenyűgöző völgyet.",
+            "ro": "Descoperă misterele acestor vestigii antice din Epoca Fierului și adu-ți aparatul foto pentru a surprinde priveliștile superbe ale văii care le înconjoară.",
+            "en": "Uncover the mysteries of these ancient Iron Age remnants, remembering to bring your camera to capture the stunning valley vistas framing the ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Banco de Os Picotiños",
+            "hu": "Banco de Os Picotiños",
+            "ro": "Banco de Os Picotiños",
+            "en": "Banco de Os Picotiños"
+          },
+          "coords": [
+            -8.940966,
+            43.202512
+          ],
+          "category": "natural",
+          "arrive_at": "10:38",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Ruhen Sie sich auf dieser malerischen Bank für einen ruhigen Moment aus und nutzen Sie das dramatische Nachmittagslicht für unvergessliche Reisefotos.",
+            "hu": "Pihenj meg ezen a tökéletes elhelyezkedésű padon egy csendes pillanatra, és használd ki a drámai délutáni fényeket a felejthetetlen utazási fotókhoz.",
+            "ro": "Odihnește-te pe această bancă perfect poziționată pentru un moment de liniște și profită de lumina dramatică a după-amiezii pentru fotografii memorabile.",
+            "en": "Rest on this perfectly positioned scenic bench for a tranquil moment, taking advantage of the dramatic afternoon light for unforgettable travel photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de San Martiño de Canduas",
+            "hu": "Igrexa de San Martiño de Canduas",
+            "ro": "Igrexa de San Martiño de Canduas",
+            "en": "Igrexa de San Martiño de Canduas"
+          },
+          "coords": [
+            -8.957161,
+            43.215158
+          ],
+          "category": "religious",
+          "arrive_at": "11:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Betreten Sie diese historische Pfarrkirche, um ihr klassisches Mauerwerk zu bewundern, und verhalten Sie sich ruhig, da sie aktiv für Gottesdienste genutzt wird.",
+            "hu": "Lépj be ebbe a történelmi plébániatemplomba, hogy megcsodáld a klasszikus kőmunkát, és csendben nézelődj, mivel ma is aktív helyi istentiszteleti hely.",
+            "ro": "Intră în această biserică parohială istorică pentru a-i admira arhitectura din piatră, păstrând liniștea deoarece rămâne un loc activ de cult local.",
+            "en": "Step inside this historic parish church to admire its classic stonework, respectfully lowering your voice as it remains an active place of local worship."
+          }
+        },
+        {
+          "name": {
+            "de": "Pazo de Canduas",
+            "hu": "Pazo de Canduas",
+            "ro": "Pazo de Canduas",
+            "en": "Pazo de Canduas"
+          },
+          "coords": [
+            -8.957113,
+            43.216149
+          ],
+          "category": "historical",
+          "arrive_at": "11:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Betrachten Sie die aristokratische Pracht dieses galizischen Herrenhauses von außen, da das Privatgrundstück Jahrhunderte regionaler Geschichte repräsentiert.",
+            "hu": "Figyeld meg ennek a hagyományos galíciai udvarháznak az arisztokratikus nagyszerűségét kívülről, mivel a magánbirtok az évszázados regionális örökség része.",
+            "ro": "Observă grandoarea aristocratică a acestui conac tradițional galician din exterior, această proprietate privată reprezentând secole de moștenire regională.",
+            "en": "Observe the aristocratic grandeur of this traditional Galician manor from the exterior, as the private property represents centuries of regional heritage."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia das Vacas",
+            "hu": "Praia das Vacas",
+            "ro": "Praia das Vacas",
+            "en": "Praia das Vacas"
+          },
+          "coords": [
+            -8.950609,
+            43.228066
+          ],
+          "category": "recreational",
+          "arrive_at": "13:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses versteckte Küstenjuwel, das für seine friedliche Abgeschiedenheit bekannt ist, und bringen Sie eigene Snacks mit, da es keine Kioske gibt.",
+            "hu": "Fedezd fel ezt a békés elszigeteltségéről ismert rejtett parti gyöngyszemet, és hozz magaddal rágcsálnivalót, mivel a közelben nincsenek kereskedelmi egységek.",
+            "ro": "Descoperă această bijuterie de coastă ascunsă, cunoscută pentru izolarea sa pașnică, aducând propriile gustări deoarece nu există facilități comerciale în apropiere.",
+            "en": "Discover this hidden coastal gem known for its peaceful isolation, bringing your own snacks and water as there are no commercial facilities nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia das Maceiras",
+            "hu": "Praia das Maceiras",
+            "ro": "Praia das Maceiras",
+            "en": "Praia das Maceiras"
+          },
+          "coords": [
+            -8.946817,
+            43.227721
+          ],
+          "category": "recreational",
+          "arrive_at": "14:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Spazieren Sie an dieser von Felsen geschützten Bucht entlang und prüfen Sie vorab den Gezeitenkalender, um Ihre Zeit beim Strandgutsammeln zu maximieren.",
+            "hu": "Sétálj végig ezen a sziklás kiemelkedések által védett, bájos homokos öblön, és előzetesen ellenőrizd az árapály-táblázatot a strandolás maximalizálása érdekében.",
+            "ro": "Plimbă-te pe acest golf pitoresc cu nisip, protejat de stânci, și verifică în prealabil tabelele de maree pentru a-ți maximiza timpul petrecut pe plajă.",
+            "en": "Walk along this compact and charming sandy cove sheltered by rocky outcrops, checking the tide charts beforehand to maximize your beachcombing time."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradoiro de Monte Branco",
+            "hu": "Miradoiro de Monte Branco",
+            "ro": "Miradoiro de Monte Branco",
+            "en": "Miradoiro de Monte Branco"
+          },
+          "coords": [
+            -8.932379,
+            43.239697
+          ],
+          "category": "natural",
+          "arrive_at": "15:51",
+          "stay_min": 55,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie den spektakulären Panoramablick auf die gesamte Flussmündung und packen Sie eine Windjacke ein, da die Meeresbrise hier sehr frisch ist.",
+            "hu": "Csodáld meg a torkolatra nyíló látványos panorámát, és vigyél magaddal széldzsekit, mivel a magasan fekvő partvidéki szél meglehetősen hűvös lehet.",
+            "ro": "Admiră panorama spectaculoasă a întregului estuar și ia-ți o jachetă de vânt, deoarece briza de coastă la această altitudine poate fi destul de rece.",
+            "en": "Marvel at the spectacular panoramic views of the entire estuary, packing a windbreaker as the elevated coastal breezes can be remarkably brisk here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt mit der antiken Geschichte in den Ruinen von San Fins. Fahren Sie von dort zu einer herrlich gelegenen Bank für eine malerische Pause. \n\n Mittags fahren Sie durch das charmante Dorf Canduas. Bewundern Sie die historische Kirche und das traditionelle Herrenhaus, Symbole des tiefen Erbes der Gegend. \n\n Der Nachmittag lädt Sie ein, an den felsigen Küsten entlang zu fahren und zwischen abgelegenen Stränden zu wechseln, wo sanfte Wellen auf unberührte Natur treffen. \n\n Beenden Sie Ihren Roadtrip mit einer Fahrt zum Monte Branco. Erleben Sie den atemberaubenden Sonnenuntergang von diesem herrlichen Aussichtspunkt.",
+        "hu": "Kezdd autós túrádat az ókori történelemmel a San Fins romoknál. Innen vezess egy festői elhelyezkedésű tengerparti padhoz egy gyors, látványos pihenőre. \n\n Ahogy közeledik a dél, hajts át Canduas bájos faluján. Csodáld meg történelmi templomát és hagyományos udvarházát, amelyek a vidék mély örökségét jelképezik. \n\n A délután arra csábít, hogy a sziklás partok mentén cirkálj, eldugott strandok között ugrálva, ahol a hullámok érintetlen, vadregényes tájakkal találkoznak. \n\n Fejezd be az autós utazást a Monte Branco csúcsánál. Tapasztald meg a lélegzetelállító tengerparti naplementét az egyik legmagasabb partmenti kilátópontról.",
+        "ro": "Începe turul cu mașina explorând istoria antică la ruinele San Fins. De acolo, condu spre o bancă de coastă superb poziționată pentru o pauză pitorească. \n\n La prânz, condu prin fermecătorul sat Canduas. Admiră biserica sa istorică și conacul tradițional, simboluri ale moștenirii profunde ale acestei zone. \n\n După-amiaza te invită să te plimbi de-a lungul țărmurilor stâncoase, făcând opriri între plaje izolate unde valurile se întâlnesc cu peisaje sălbatice. \n\n Încheie-ți excursia cu mașina urcând pe Muntele Branco. Experimentează apusul uluitor de pe unul dintre cele mai înalte puncte de observație din zonă.",
+        "en": "Start your driving tour with ancient history at the San Fins ruins. From there, navigate to a delightfully situated coastal bench for a quick scenic pause. \n\n As midday arrives, drive through the charming village of Canduas. Admire its historical church and traditional manor house, symbols of the area's deep heritage. \n\n The afternoon invites you to cruise along the rocky shores, hopping between secluded beaches where the rolling waves meet rugged, unspoiled landscapes. \n\n Conclude your road trip with a drive up to Mount Branco. Experience the breathtaking coastal sunset from one of the highest coastal vantage points around."
+      }
+    }
+  }
+}

@@ -1,0 +1,428 @@
+{
+  "city_id": "ligny-en-barrois",
+  "anchor": {
+    "name": "Ligny-en-Barrois",
+    "coords": [
+      5.3239,
+      48.6886
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:49",
+      "total_km": 3.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Porte de Ville",
+            "hu": "Porte de Ville",
+            "ro": "Porte de Ville",
+            "en": "Porte de Ville"
+          },
+          "coords": [
+            5.320008,
+            48.690239
+          ],
+          "category": "fortress",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das imposante Stadttor Porte de Ville, das einst die Stadt schützte, und achten Sie beim Durchgehen auf die erhaltenen Details.",
+            "hu": "Csodálja meg az impozáns Porte de Ville középkori erődítménykapuját, amely a várost védte, és figyelje meg az építészeti részleteket a sétája során.",
+            "ro": "Admirați impunătoarea Porte de Ville, o poartă de fortăreață medievală care apăra orașul, și observați detaliile arhitecturale păstrate în timp ce treceți.",
+            "en": "Admire the imposing Porte de Ville, a medieval fortress gate that guarded the town, and notice the preserved architectural details as you walk through."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour Valérane",
+            "hu": "Tour Valérane",
+            "ro": "Tour Valérane",
+            "en": "Tour Valérane"
+          },
+          "coords": [
+            5.327194,
+            48.690272
+          ],
+          "category": "historical",
+          "arrive_at": "09:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie den historischen Tour Valérane, um das faszinierende Verteidigungserbe der Region zu entdecken, und tragen Sie bequeme Schuhe für die Stufen.",
+            "hu": "Fedezze fel a történelmi Tour Valérane-t, hogy megismerje a régió lenyűgöző védelmi örökségét, és mindenképpen kényelmes cipőt viseljen az egyenetlen lépcsők miatt.",
+            "ro": "Explorați istoricul Tour Valérane pentru a descoperi fascinanta moștenire defensivă a regiunii, asigurându-vă că purtați încălțăminte comodă pentru trepte.",
+            "en": "Explore the historic Tour Valérane to uncover the fascinating defensive heritage of the region, making sure to wear comfortable shoes for the uneven steps."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-des-Vertus",
+            "hu": "Église Notre-Dame-des-Vertus",
+            "ro": "Église Notre-Dame-des-Vertus",
+            "en": "Église Notre-Dame-des-Vertus"
+          },
+          "coords": [
+            5.322823,
+            48.687757
+          ],
+          "category": "religious",
+          "arrive_at": "10:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Treten Sie in dieses ruhige Heiligtum ein, um die wunderschön gefertigten Buntglasfenster zu bewundern, und nehmen Sie sich einen Moment der Stille im Hauptschiff.",
+            "hu": "Lépjen be ebbe a békés vallási szentélybe, csodálja meg a gyönyörű ólomüveg ablakokat, és töltsön el egy percet csendes elmélkedéssel a főhajóban.",
+            "ro": "Pășiți în acest sanctuar religios liniștit pentru a admira vitraliile frumos lucrate și rezervați-vă un moment de reflecție tăcută în naos.",
+            "en": "Step inside this serene religious sanctuary to admire the beautifully crafted stained glass windows, and take a moment of quiet reflection in the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée militaire pour la paix",
+            "hu": "Musée militaire pour la paix",
+            "ro": "Musée militaire pour la paix",
+            "en": "Musée militaire pour la paix"
+          },
+          "coords": [
+            5.32084,
+            48.686115
+          ],
+          "category": "museum",
+          "arrive_at": "11:42",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie fesselnde Ausstellungen im Militärmuseum für den Frieden und verpassen Sie nicht die interaktiven Displays, die die lokale Geschichte beleuchten.",
+            "hu": "Fedezze fel a békének szentelt katonai múzeum lenyűgöző kiállításait, és ne hagyja ki a helyi történelmet életre keltő interaktív bemutatókat.",
+            "ro": "Descoperiți expoziții captivante la muzeul militar dedicat păcii și nu ratați afișajele interactive care aduc la viață istoria locală a regiunii.",
+            "en": "Discover compelling exhibits at the military museum dedicated to peace, and don't miss the interactive displays that bring the local history to life."
+          }
+        },
+        {
+          "name": {
+            "de": "Canal de la Marne au Rhin",
+            "hu": "Canal de la Marne au Rhin",
+            "ro": "Canal de la Marne au Rhin",
+            "en": "Canal de la Marne au Rhin"
+          },
+          "coords": [
+            5.29465,
+            48.703349
+          ],
+          "category": "natural",
+          "arrive_at": "14:04",
+          "stay_min": 105,
+          "hop_from_prev_min": 42,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Schlendern Sie an den malerischen natürlichen Ufern des Kanals entlang, um die ruhige Aussicht zu genießen, die eine perfekte Kulisse für Reisefotos bietet.",
+            "hu": "Sétáljon a csatorna festői, természetes partján, élvezze a nyugodt vízi kilátást, amely tökéletes hátteret biztosít az emlékezetes utazási fotókhoz.",
+            "ro": "Plimbați-vă de-a lungul malurilor naturale pitorești ale canalului pentru a vă bucura de priveliștile liniștite care oferă un fundal perfect pentru fotografii.",
+            "en": "Stroll along the picturesque natural banks of the canal to enjoy the tranquil water views, which provide the perfect backdrop for memorable travel photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Abenteuer im mittelalterlichen Kern von Ligny-en-Barrois, wo alte Steine und mächtige Türme Geschichten aus einer verteidigungsreichen Vergangenheit flüstern.\n\nGegen Mittag wechseln Sie zu den majestätischen spirituellen Wahrzeichen und faszinierenden lokalen Museen, die tief verwurzelte Traditionen bewahren.\n\nVerbringen Sie den Nachmittag in der umgebenden Natur, folgen Sie den friedlichen Gewässern des lokalen Kanals oder finden Sie einen ruhigen Moment.\n\nBeenden Sie Ihre Reise mit weiten Blicken über das Tal oder genießen Sie die kulturelle Atmosphäre, während die Sonne über dieser charmanten Landschaft untergeht.",
+        "hu": "Kezdje Ligny-en-Barrois-i kalandját a középkori mag felfedezésével, ahol az ősi kövek és a félelmetes tornyok egy védelmi múlt történeteit suttogják.\n\nAhogy közeledik a dél, váltson a város fenséges spirituális nevezetességeire és a lenyűgöző helyi múzeumokra, amelyek megőrzik a mélyen gyökerező hagyományokat.\n\nTöltse a délutánt a környező természet szépségének ölelésében, követve a helyi csatorna békés vizeit, vagy találjon egy csendes pillanatot a fák alatt.\n\nZárja utazását a völgyre nyíló lenyűgöző kilátással vagy élvezze a helyi kulturális hangulatot, ahogy a nap lenyugszik ezen a bájos francia vidéken.",
+        "ro": "Începeți aventura în Ligny-en-Barrois explorând nucleul medieval, unde pietrele antice și turnurile formidabile șoptesc povești ale unui trecut defensiv.\n\nPe măsură ce se apropie amiaza, treceți spre reperele spirituale maiestuoase ale orașului și muzeele locale fascinante care păstrează tradiții adânc înrădăcinate.\n\nPetreceți după-amiaza îmbrățișând frumusețea naturală din jur, urmărind apele pașnice ale canalului local sau găsind un moment liniștit sub copaci.\n\nÎncheiați-vă călătoria admirând priveliștile ample ale văii sau bucurându-vă de vibrațiile culturale locale, pe măsură ce soarele apune peste acest refugiu fermecător.",
+        "en": "Begin your Ligny-en-Barrois adventure by exploring the medieval core, where ancient stones and formidable towers whisper tales of a defensive past.\n\nAs midday approaches, transition towards the town's majestic spiritual landmarks and fascinating local museums that preserve deep-rooted traditions.\n\nSpend your afternoon embracing the surrounding natural beauty, tracing the peaceful waters of the local canal or finding a quiet moment under the trees.\n\nConclude your journey by taking in sweeping valley vistas or enjoying local cultural vibes as the sun sets over this charming French countryside retreat."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:42",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Porte de Ville",
+            "hu": "Porte de Ville",
+            "ro": "Porte de Ville",
+            "en": "Porte de Ville"
+          },
+          "coords": [
+            5.320008,
+            48.690239
+          ],
+          "category": "fortress",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das imposante Stadttor Porte de Ville, das einst die Stadt schützte, und achten Sie beim Durchgehen auf die erhaltenen Details.",
+            "hu": "Csodálja meg az impozáns Porte de Ville középkori erődítménykapuját, amely a várost védte, és figyelje meg az építészeti részleteket a sétája során.",
+            "ro": "Admirați impunătoarea Porte de Ville, o poartă de fortăreață medievală care apăra orașul, și observați detaliile arhitecturale păstrate în timp ce treceți.",
+            "en": "Admire the imposing Porte de Ville, a medieval fortress gate that guarded the town, and notice the preserved architectural details as you walk through."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour Valérane",
+            "hu": "Tour Valérane",
+            "ro": "Tour Valérane",
+            "en": "Tour Valérane"
+          },
+          "coords": [
+            5.327194,
+            48.690272
+          ],
+          "category": "historical",
+          "arrive_at": "09:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie den historischen Tour Valérane, um das faszinierende Verteidigungserbe der Region zu entdecken, und tragen Sie bequeme Schuhe für die Stufen.",
+            "hu": "Fedezze fel a történelmi Tour Valérane-t, hogy megismerje a régió lenyűgöző védelmi örökségét, és mindenképpen kényelmes cipőt viseljen az egyenetlen lépcsők miatt.",
+            "ro": "Explorați istoricul Tour Valérane pentru a descoperi fascinanta moștenire defensivă a regiunii, asigurându-vă că purtați încălțăminte comodă pentru trepte.",
+            "en": "Explore the historic Tour Valérane to uncover the fascinating defensive heritage of the region, making sure to wear comfortable shoes for the uneven steps."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-des-Vertus",
+            "hu": "Église Notre-Dame-des-Vertus",
+            "ro": "Église Notre-Dame-des-Vertus",
+            "en": "Église Notre-Dame-des-Vertus"
+          },
+          "coords": [
+            5.322823,
+            48.687757
+          ],
+          "category": "religious",
+          "arrive_at": "10:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Treten Sie in dieses ruhige Heiligtum ein, um die wunderschön gefertigten Buntglasfenster zu bewundern, und nehmen Sie sich einen Moment der Stille im Hauptschiff.",
+            "hu": "Lépjen be ebbe a békés vallási szentélybe, csodálja meg a gyönyörű ólomüveg ablakokat, és töltsön el egy percet csendes elmélkedéssel a főhajóban.",
+            "ro": "Pășiți în acest sanctuar religios liniștit pentru a admira vitraliile frumos lucrate și rezervați-vă un moment de reflecție tăcută în naos.",
+            "en": "Step inside this serene religious sanctuary to admire the beautifully crafted stained glass windows, and take a moment of quiet reflection in the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Canal de la Marne au Rhin",
+            "hu": "Canal de la Marne au Rhin",
+            "ro": "Canal de la Marne au Rhin",
+            "en": "Canal de la Marne au Rhin"
+          },
+          "coords": [
+            5.29465,
+            48.703349
+          ],
+          "category": "natural",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Schlendern Sie an den malerischen natürlichen Ufern des Kanals entlang, um die ruhige Aussicht zu genießen, die eine perfekte Kulisse für Reisefotos bietet.",
+            "hu": "Sétáljon a csatorna festői, természetes partján, élvezze a nyugodt vízi kilátást, amely tökéletes hátteret biztosít az emlékezetes utazási fotókhoz.",
+            "ro": "Plimbați-vă de-a lungul malurilor naturale pitorești ale canalului pentru a vă bucura de priveliștile liniștite care oferă un fundal perfect pentru fotografii.",
+            "en": "Stroll along the picturesque natural banks of the canal to enjoy the tranquil water views, which provide the perfect backdrop for memorable travel photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Rémi",
+            "hu": "Église Saint-Rémi",
+            "ro": "Église Saint-Rémi",
+            "en": "Église Saint-Rémi"
+          },
+          "coords": [
+            5.299943,
+            48.702389
+          ],
+          "category": "religious",
+          "arrive_at": "13:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese bezaubernde historische Kirche, um ihre zeitlose Architektur und friedliche Atmosphäre zu schätzen, am besten in den ruhigen Nachmittagsstunden.",
+            "hu": "Látogasson el ebbe a bájos történelmi templomba, hogy megcsodálja időtlen építészetét és békés légkörét, amelyet a leginkább kora délután érdemes megtapasztalni.",
+            "ro": "Vizitați această biserică istorică fermecătoare pentru a aprecia arhitectura atemporală și atmosfera pașnică, cel mai bine experimentată după-amiaza devreme.",
+            "en": "Visit this charming historic church to appreciate its timeless architecture and peaceful atmosphere, best experienced during the quiet early afternoon hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvédère de la Vierge Noire",
+            "hu": "Belvédère de la Vierge Noire",
+            "ro": "Belvédère de la Vierge Noire",
+            "en": "Belvédère de la Vierge Noire"
+          },
+          "coords": [
+            5.305748,
+            48.71012
+          ],
+          "category": "natural",
+          "arrive_at": "13:47",
+          "stay_min": 55,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesem atemberaubenden Aussichtspunkt hinauf, um den Panoramablick auf das gesamte Tal zu genießen, und bringen Sie eine leichte Jacke mit.",
+            "hu": "Túrázzon fel ehhez a lenyűgöző természetes kilátóhoz, ahonnan lélegzetelállító panoráma nyílik az egész völgyre, és vigyen magával egy könnyű kabátot.",
+            "ro": "Urcați la acest punct de belvedere natural uimitor pentru vederi panoramice uluitoare ale întregii văi, aducând o jachetă ușoară deoarece sus poate fi vânt.",
+            "en": "Hike up to this stunning natural viewpoint for breathtaking panoramic views of the entire valley, bringing a light jacket as it can get breezy at the top."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Abenteuer im mittelalterlichen Kern von Ligny-en-Barrois, wo alte Steine und mächtige Türme Geschichten aus einer verteidigungsreichen Vergangenheit flüstern.\n\nGegen Mittag wechseln Sie zu den majestätischen spirituellen Wahrzeichen und faszinierenden lokalen Museen, die tief verwurzelte Traditionen bewahren.\n\nVerbringen Sie den Nachmittag in der umgebenden Natur, folgen Sie den friedlichen Gewässern des lokalen Kanals oder finden Sie einen ruhigen Moment.\n\nBeenden Sie Ihre Reise mit weiten Blicken über das Tal oder genießen Sie die kulturelle Atmosphäre, während die Sonne über dieser charmanten Landschaft untergeht.",
+        "hu": "Kezdje Ligny-en-Barrois-i kalandját a középkori mag felfedezésével, ahol az ősi kövek és a félelmetes tornyok egy védelmi múlt történeteit suttogják.\n\nAhogy közeledik a dél, váltson a város fenséges spirituális nevezetességeire és a lenyűgöző helyi múzeumokra, amelyek megőrzik a mélyen gyökerező hagyományokat.\n\nTöltse a délutánt a környező természet szépségének ölelésében, követve a helyi csatorna békés vizeit, vagy találjon egy csendes pillanatot a fák alatt.\n\nZárja utazását a völgyre nyíló lenyűgöző kilátással vagy élvezze a helyi kulturális hangulatot, ahogy a nap lenyugszik ezen a bájos francia vidéken.",
+        "ro": "Începeți aventura în Ligny-en-Barrois explorând nucleul medieval, unde pietrele antice și turnurile formidabile șoptesc povești ale unui trecut defensiv.\n\nPe măsură ce se apropie amiaza, treceți spre reperele spirituale maiestuoase ale orașului și muzeele locale fascinante care păstrează tradiții adânc înrădăcinate.\n\nPetreceți după-amiaza îmbrățișând frumusețea naturală din jur, urmărind apele pașnice ale canalului local sau găsind un moment liniștit sub copaci.\n\nÎncheiați-vă călătoria admirând priveliștile ample ale văii sau bucurându-vă de vibrațiile culturale locale, pe măsură ce soarele apune peste acest refugiu fermecător.",
+        "en": "Begin your Ligny-en-Barrois adventure by exploring the medieval core, where ancient stones and formidable towers whisper tales of a defensive past.\n\nAs midday approaches, transition towards the town's majestic spiritual landmarks and fascinating local museums that preserve deep-rooted traditions.\n\nSpend your afternoon embracing the surrounding natural beauty, tracing the peaceful waters of the local canal or finding a quiet moment under the trees.\n\nConclude your journey by taking in sweeping valley vistas or enjoying local cultural vibes as the sun sets over this charming French countryside retreat."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:28",
+      "total_km": 10.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Musée militaire pour la paix",
+            "hu": "Musée militaire pour la paix",
+            "ro": "Musée militaire pour la paix",
+            "en": "Musée militaire pour la paix"
+          },
+          "coords": [
+            5.32084,
+            48.686115
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie fesselnde Ausstellungen im Militärmuseum für den Frieden und verpassen Sie nicht die interaktiven Displays, die die lokale Geschichte beleuchten.",
+            "hu": "Fedezze fel a békének szentelt katonai múzeum lenyűgöző kiállításait, és ne hagyja ki a helyi történelmet életre keltő interaktív bemutatókat.",
+            "ro": "Descoperiți expoziții captivante la muzeul militar dedicat păcii și nu ratați afișajele interactive care aduc la viață istoria locală a regiunii.",
+            "en": "Discover compelling exhibits at the military museum dedicated to peace, and don't miss the interactive displays that bring the local history to life."
+          }
+        },
+        {
+          "name": {
+            "de": "Tour Valérane",
+            "hu": "Tour Valérane",
+            "ro": "Tour Valérane",
+            "en": "Tour Valérane"
+          },
+          "coords": [
+            5.327194,
+            48.690272
+          ],
+          "category": "historical",
+          "arrive_at": "10:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie den historischen Tour Valérane, um das faszinierende Verteidigungserbe der Region zu entdecken, und tragen Sie bequeme Schuhe für die Stufen.",
+            "hu": "Fedezze fel a történelmi Tour Valérane-t, hogy megismerje a régió lenyűgöző védelmi örökségét, és mindenképpen kényelmes cipőt viseljen az egyenetlen lépcsők miatt.",
+            "ro": "Explorați istoricul Tour Valérane pentru a descoperi fascinanta moștenire defensivă a regiunii, asigurându-vă că purtați încălțăminte comodă pentru trepte.",
+            "en": "Explore the historic Tour Valérane to uncover the fascinating defensive heritage of the region, making sure to wear comfortable shoes for the uneven steps."
+          }
+        },
+        {
+          "name": {
+            "de": "Bistro'Théâtre",
+            "hu": "Bistro'Théâtre",
+            "ro": "Bistro'Théâtre",
+            "en": "Bistro'Théâtre"
+          },
+          "coords": [
+            5.325952,
+            48.661813
+          ],
+          "category": "cultural",
+          "arrive_at": "12:19",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie an diesem lebendigen Ort in die lokale Kulturszene ein und prüfen Sie das Tagesprogramm, um bei einer Erfrischung eine Live-Aufführung zu erleben.",
+            "hu": "Merüljön el a helyi kulturális életben ezen a pezsgő helyszínen, és nézze meg a napi programot, hogy egy frissítő mellett élvezhessen egy élő előadást.",
+            "ro": "Cufundați-vă în scena culturală locală la acest loc vibrant și verificați programul zilnic pentru a prinde o reprezentație live în timp ce savurați o băutură.",
+            "en": "Immerse yourself in the local cultural scene at this vibrant venue, and check their daily schedule to catch a live performance while enjoying a refreshment."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvédère de la Vierge Noire",
+            "hu": "Belvédère de la Vierge Noire",
+            "ro": "Belvédère de la Vierge Noire",
+            "en": "Belvédère de la Vierge Noire"
+          },
+          "coords": [
+            5.305748,
+            48.71012
+          ],
+          "category": "natural",
+          "arrive_at": "13:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.6,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesem atemberaubenden Aussichtspunkt hinauf, um den Panoramablick auf das gesamte Tal zu genießen, und bringen Sie eine leichte Jacke mit.",
+            "hu": "Túrázzon fel ehhez a lenyűgöző természetes kilátóhoz, ahonnan lélegzetelállító panoráma nyílik az egész völgyre, és vigyen magával egy könnyű kabátot.",
+            "ro": "Urcați la acest punct de belvedere natural uimitor pentru vederi panoramice uluitoare ale întregii văi, aducând o jachetă ușoară deoarece sus poate fi vânt.",
+            "en": "Hike up to this stunning natural viewpoint for breathtaking panoramic views of the entire valley, bringing a light jacket as it can get breezy at the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Rémi",
+            "hu": "Église Saint-Rémi",
+            "ro": "Église Saint-Rémi",
+            "en": "Église Saint-Rémi"
+          },
+          "coords": [
+            5.299943,
+            48.702389
+          ],
+          "category": "religious",
+          "arrive_at": "14:18",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese bezaubernde historische Kirche, um ihre zeitlose Architektur und friedliche Atmosphäre zu schätzen, am besten in den ruhigen Nachmittagsstunden.",
+            "hu": "Látogasson el ebbe a bájos történelmi templomba, hogy megcsodálja időtlen építészetét és békés légkörét, amelyet a leginkább kora délután érdemes megtapasztalni.",
+            "ro": "Vizitați această biserică istorică fermecătoare pentru a aprecia arhitectura atemporală și atmosfera pașnică, cel mai bine experimentată după-amiaza devreme.",
+            "en": "Visit this charming historic church to appreciate its timeless architecture and peaceful atmosphere, best experienced during the quiet early afternoon hours."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Abenteuer im mittelalterlichen Kern von Ligny-en-Barrois, wo alte Steine und mächtige Türme Geschichten aus einer verteidigungsreichen Vergangenheit flüstern.\n\nGegen Mittag wechseln Sie zu den majestätischen spirituellen Wahrzeichen und faszinierenden lokalen Museen, die tief verwurzelte Traditionen bewahren.\n\nVerbringen Sie den Nachmittag in der umgebenden Natur, folgen Sie den friedlichen Gewässern des lokalen Kanals oder finden Sie einen ruhigen Moment.\n\nBeenden Sie Ihre Reise mit weiten Blicken über das Tal oder genießen Sie die kulturelle Atmosphäre, während die Sonne über dieser charmanten Landschaft untergeht.",
+        "hu": "Kezdje Ligny-en-Barrois-i kalandját a középkori mag felfedezésével, ahol az ősi kövek és a félelmetes tornyok egy védelmi múlt történeteit suttogják.\n\nAhogy közeledik a dél, váltson a város fenséges spirituális nevezetességeire és a lenyűgöző helyi múzeumokra, amelyek megőrzik a mélyen gyökerező hagyományokat.\n\nTöltse a délutánt a környező természet szépségének ölelésében, követve a helyi csatorna békés vizeit, vagy találjon egy csendes pillanatot a fák alatt.\n\nZárja utazását a völgyre nyíló lenyűgöző kilátással vagy élvezze a helyi kulturális hangulatot, ahogy a nap lenyugszik ezen a bájos francia vidéken.",
+        "ro": "Începeți aventura în Ligny-en-Barrois explorând nucleul medieval, unde pietrele antice și turnurile formidabile șoptesc povești ale unui trecut defensiv.\n\nPe măsură ce se apropie amiaza, treceți spre reperele spirituale maiestuoase ale orașului și muzeele locale fascinante care păstrează tradiții adânc înrădăcinate.\n\nPetreceți după-amiaza îmbrățișând frumusețea naturală din jur, urmărind apele pașnice ale canalului local sau găsind un moment liniștit sub copaci.\n\nÎncheiați-vă călătoria admirând priveliștile ample ale văii sau bucurându-vă de vibrațiile culturale locale, pe măsură ce soarele apune peste acest refugiu fermecător.",
+        "en": "Begin your Ligny-en-Barrois adventure by exploring the medieval core, where ancient stones and formidable towers whisper tales of a defensive past.\n\nAs midday approaches, transition towards the town's majestic spiritual landmarks and fascinating local museums that preserve deep-rooted traditions.\n\nSpend your afternoon embracing the surrounding natural beauty, tracing the peaceful waters of the local canal or finding a quiet moment under the trees.\n\nConclude your journey by taking in sweeping valley vistas or enjoying local cultural vibes as the sun sets over this charming French countryside retreat."
+      }
+    }
+  }
+}

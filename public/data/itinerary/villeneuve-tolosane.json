@@ -1,0 +1,474 @@
+{
+  "city_id": "villeneuve-tolosane",
+  "anchor": {
+    "name": "Villeneuve-Tolosane",
+    "coords": [
+      1.3417,
+      43.5236
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:19",
+      "total_km": 1.58,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Laurent Kirche",
+            "hu": "Saint-Laurent templom",
+            "ro": "Biserica Saint-Laurent",
+            "en": "Saint-Laurent Church"
+          },
+          "coords": [
+            1.341029,
+            43.522617
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische lokale Backsteinarchitektur der St.-Laurentius-Kirche, einem ruhigen religiösen Anker der Stadt, aber verhalten Sie sich ruhig, da sie aktiv genutzt wird.",
+            "hu": "Csodálja meg a Saint-Laurent templom klasszikus helyi téglaépítészetét, a város csendes vallási horgonyát, de látogasson el csendben, mivel a közösség aktívan használja.",
+            "ro": "Admirați arhitectura clasică din cărămidă locală a Bisericii Saint-Laurent, o ancoră religioasă senină a orașului, dar vizitați-o în liniște, deoarece este folosită activ de comunitate.",
+            "en": "Admire the classic local brick architecture of Saint-Laurent Church, a serene religious anchor of the town, but visit quietly as it is actively used by the community."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Villeneuve-Tolosane",
+            "hu": "Villeneuve-Tolosane kastély",
+            "ro": "Castelul Villeneuve-Tolosane",
+            "en": "Villeneuve-Tolosane Castle"
+          },
+          "coords": [
+            1.341007,
+            43.52364
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste des Schlosses Villeneuve-Tolosane, um die feudale Vergangenheit der Gegend zu verstehen, und nehmen Sie sich Zeit für die historischen Gedenktafeln.",
+            "hu": "Fedezze fel a Villeneuve-Tolosane kastély maradványait, hogy megértse a környék feudális múltját, és szánjon időt az egykori védelmi dicsőségét részletező történelmi emléktáblák elolvasására.",
+            "ro": "Explorați rămășițele Castelului Villeneuve-Tolosane pentru a înțelege trecutul feudal al zonei și faceți-vă timp să citiți plăcile istorice care detaliază fosta sa glorie defensivă.",
+            "en": "Explore the remnants of the Villeneuve-Tolosane Castle to understand the area's feudal past, and take time to read the historical plaques detailing its former defensive glory."
+          }
+        },
+        {
+          "name": {
+            "de": "See von Villeneuve-Tolosane",
+            "hu": "Villeneuve-Tolosane tó",
+            "ro": "Lacul Villeneuve-Tolosane",
+            "en": "Villeneuve-Tolosane Lake"
+          },
+          "coords": [
+            1.341007,
+            43.52364
+          ],
+          "category": "natural",
+          "arrive_at": "11:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den ruhigen Gewässern des Sees von Villeneuve-Tolosane, einem perfekten Ort zur Vogelbeobachtung, also bringen Sie Ihre Kamera und eine leichte Jacke mit.",
+            "hu": "Pihenjen a Villeneuve-Tolosane tó nyugodt vize mellett, amely tökéletes hely madármegfigyeléshez és fotózáshoz, ezért hozzon fényképezőgépet és egy könnyű kabátot a szeles délutánra.",
+            "ro": "Relaxați-vă lângă apele calme ale Lacului Villeneuve-Tolosane, un loc perfect pentru observarea păsărilor și fotografie, așa că aduceți camera și o jachetă ușoară pentru după-amiaza răcoroasă.",
+            "en": "Relax by the calm waters of Villeneuve-Tolosane Lake, a perfect spot for birdwatching and photography, so bring your camera and a light jacket for the breezy afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Square St Exupery",
+            "hu": "Square St Exupery",
+            "ro": "Piața St Exupery",
+            "en": "Square St Exupery"
+          },
+          "coords": [
+            1.344865,
+            43.53566
+          ],
+          "category": "family",
+          "arrive_at": "12:47",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.36,
+          "tip_5lang": {
+            "de": "Genießen Sie eine friedliche Pause am Square St Exupery, einer familienfreundlichen Grünfläche mit herrlichem Schatten, ideal, um Snacks mitzubringen und die Kinder spielen zu lassen.",
+            "hu": "Élvezze a békés pihenést a Square St Exupery téren, amely egy családbarát zöldterület szép árnyékkal, így ideális arra, hogy hozzon néhány rágcsálnivalót, és hagyja a gyerekeket játszani.",
+            "ro": "Bucurați-vă de o pauză liniștită la Square St Exupery, un spațiu verde prietenos cu familiile, cu umbră minunată, ideal pentru a aduce câteva gustări și a lăsa copiii să-și consume energia.",
+            "en": "Enjoy a peaceful break at Square St Exupery, a family-friendly green space with lovely shade, making it ideal to bring some snacks and let the kids burn off energy."
+          }
+        },
+        {
+          "name": {
+            "de": "Tourniquet",
+            "hu": "Tourniquet",
+            "ro": "Tourniquet",
+            "en": "Tourniquet"
+          },
+          "coords": [
+            1.345963,
+            43.536105
+          ],
+          "category": "family",
+          "arrive_at": "13:49",
+          "stay_min": 90,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Lassen Sie die Kleinen den lokalen Spielbereich 'Tourniquet' genießen, der sicheren und klassischen Spielplatzspaß bietet, aber bringen Sie Sonnencreme mit, da es hier recht sonnig wird.",
+            "hu": "Hagyja, hogy a kicsik élvezzék a helyi 'Tourniquet' játszóteret, amely biztonságos és klasszikus játszótéri szórakozást kínál, de feltétlenül hozzon naptejet, mivel itt elég napos tud lenni.",
+            "ro": "Lăsați-i pe cei mici să se bucure de zona de joacă Tourniquet, care oferă distracție clasică și sigură, dar asigurați-vă că aduceți cremă de protecție solară, deoarece este destul de însorit.",
+            "en": "Let the little ones enjoy the local Tourniquet play area, which offers safe and classic playground fun, but ensure you bring sunscreen as it gets quite sunny here."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt nahe der historischen St.-Laurentius-Kirche und führt Sie sanft zum alten Schloss. Die Mittagszeit bringt Sie an das malerische Seeufer. Der Nachmittag ist für familienfreundlichen Spaß am lebendigen St. Exupery-Platz reserviert. Die Reise endet spielerisch am lokalen Tourniquet und beschließt einen herrlichen Spaziergang.",
+        "hu": "A nap a történelmi Saint-Laurent templom közelében kezdődik, finoman a régi kastély felé vezetve. A délidő a festői tópartra visz, ahol a természet és az örökség találkozik. A délutánt a nyüzsgő St Exupery téren zajló családbarát szórakozásnak tartjuk fenn. Az utazás játékosan ér véget a helyi Tourniquet-nél, lezárva egy kellemes sétát.",
+        "ro": "Ziua începe lângă biserica istorică Saint-Laurent, ghidându-vă ușor spre vechiul Castel. Miezul zilei vă aduce pe malul pitoresc al lacului. După-amiaza este rezervată distracției în familie în piața vibrantă St Exupery. Călătoria se încheie jucăuș la Tourniquet-ul local, punând capăt unei plimbări încântătoare.",
+        "en": "The day begins near the historic Saint-Laurent Church, guiding you gently toward the ancient Castle. Midday transitions to the scenic lakeside, where nature meets heritage. The afternoon is reserved for family-friendly fun at the vibrant St Exupery square. The journey concludes playfully at the local Tourniquet, ending a delightful walk."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:53",
+      "total_km": 4.99,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Laurent Kirche",
+            "hu": "Saint-Laurent templom",
+            "ro": "Biserica Saint-Laurent",
+            "en": "Saint-Laurent Church"
+          },
+          "coords": [
+            1.341029,
+            43.522617
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische lokale Backsteinarchitektur der St.-Laurentius-Kirche, einem ruhigen religiösen Anker der Stadt, aber verhalten Sie sich ruhig, da sie aktiv genutzt wird.",
+            "hu": "Csodálja meg a Saint-Laurent templom klasszikus helyi téglaépítészetét, a város csendes vallási horgonyát, de látogasson el csendben, mivel a közösség aktívan használja.",
+            "ro": "Admirați arhitectura clasică din cărămidă locală a Bisericii Saint-Laurent, o ancoră religioasă senină a orașului, dar vizitați-o în liniște, deoarece este folosită activ de comunitate.",
+            "en": "Admire the classic local brick architecture of Saint-Laurent Church, a serene religious anchor of the town, but visit quietly as it is actively used by the community."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Villeneuve-Tolosane",
+            "hu": "Villeneuve-Tolosane kastély",
+            "ro": "Castelul Villeneuve-Tolosane",
+            "en": "Villeneuve-Tolosane Castle"
+          },
+          "coords": [
+            1.341007,
+            43.52364
+          ],
+          "category": "historical",
+          "arrive_at": "09:51",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste des Schlosses Villeneuve-Tolosane, um die feudale Vergangenheit der Gegend zu verstehen, und nehmen Sie sich Zeit für die historischen Gedenktafeln.",
+            "hu": "Fedezze fel a Villeneuve-Tolosane kastély maradványait, hogy megértse a környék feudális múltját, és szánjon időt az egykori védelmi dicsőségét részletező történelmi emléktáblák elolvasására.",
+            "ro": "Explorați rămășițele Castelului Villeneuve-Tolosane pentru a înțelege trecutul feudal al zonei și faceți-vă timp să citiți plăcile istorice care detaliază fosta sa glorie defensivă.",
+            "en": "Explore the remnants of the Villeneuve-Tolosane Castle to understand the area's feudal past, and take time to read the historical plaques detailing its former defensive glory."
+          }
+        },
+        {
+          "name": {
+            "de": "See von Villeneuve-Tolosane",
+            "hu": "Villeneuve-Tolosane tó",
+            "ro": "Lacul Villeneuve-Tolosane",
+            "en": "Villeneuve-Tolosane Lake"
+          },
+          "coords": [
+            1.341007,
+            43.52364
+          ],
+          "category": "natural",
+          "arrive_at": "11:11",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den ruhigen Gewässern des Sees von Villeneuve-Tolosane, einem perfekten Ort zur Vogelbeobachtung, also bringen Sie Ihre Kamera und eine leichte Jacke mit.",
+            "hu": "Pihenjen a Villeneuve-Tolosane tó nyugodt vize mellett, amely tökéletes hely madármegfigyeléshez és fotózáshoz, ezért hozzon fényképezőgépet és egy könnyű kabátot a szeles délutánra.",
+            "ro": "Relaxați-vă lângă apele calme ale Lacului Villeneuve-Tolosane, un loc perfect pentru observarea păsărilor și fotografie, așa că aduceți camera și o jachetă ușoară pentru după-amiaza răcoroasă.",
+            "en": "Relax by the calm waters of Villeneuve-Tolosane Lake, a perfect spot for birdwatching and photography, so bring your camera and a light jacket for the breezy afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Cheval à bascule",
+            "hu": "Cheval à bascule",
+            "ro": "Cheval à bascule",
+            "en": "Cheval à bascule"
+          },
+          "coords": [
+            1.354702,
+            43.52005
+          ],
+          "category": "family",
+          "arrive_at": "12:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.17,
+          "tip_5lang": {
+            "de": "Halten Sie am Familienort 'Cheval à bascule' an, um eine charmante Schaukelpferdstruktur zu finden, perfekt für ein schnelles Foto mit Kleinkindern, bevor Sie Ihre Radtour fortsetzen.",
+            "hu": "Álljon meg a 'Cheval à bascule' családi helynél, ahol egy bájos hintaló szerkezet található, amely tökéletes egy gyors fotózáshoz a kisgyermekekkel, mielőtt folytatná kerékpáros útját.",
+            "ro": "Opriți-vă la locul pentru familii Cheval à bascule pentru a găsi o structură fermecătoare de cal balansoar, perfectă pentru o fotografie rapidă cu copiii mici înainte de a continua călătoria cu bicicleta.",
+            "en": "Stop by the Cheval à bascule family spot to find a charming rocking horse structure, perfect for a quick photo op with toddlers before continuing your bicycle journey."
+          }
+        },
+        {
+          "name": {
+            "de": "Saudrune Park",
+            "hu": "Saudrune Park",
+            "ro": "Parcul Saudrune",
+            "en": "Saudrune Park"
+          },
+          "coords": [
+            1.362022,
+            43.525457
+          ],
+          "category": "natural",
+          "arrive_at": "13:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.84,
+          "tip_5lang": {
+            "de": "Wandern Sie entlang der üppigen Pfade des Saudrune-Parks, um die lokale Biodiversität zu erleben, und versuchen Sie, am späten Nachmittag zu kommen, wenn das goldene Licht durch die Bäume fällt.",
+            "hu": "Sétáljon végig a Saudrune Park buja ösvényein, hogy megtapasztalja a helyi biológiai sokféleséget, és próbáljon meg késő délután ellátogatni, amikor az arany fény gyönyörűen átszűrődik a fákon.",
+            "ro": "Plimbați-vă pe potecile luxuriante ale Parcului Saudrune pentru a experimenta biodiversitatea locală și încercați să vizitați la sfârșitul după-amiezii, când lumina aurie se filtrează frumos prin copaci.",
+            "en": "Wander along the lush trails of Saudrune Park to experience the local biodiversity, and try to visit in the late afternoon when the golden light filters beautifully through the trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de Paucheville",
+            "hu": "Lac de Paucheville",
+            "ro": "Lac de Paucheville",
+            "en": "Lac de Paucheville"
+          },
+          "coords": [
+            1.333064,
+            43.509257
+          ],
+          "category": "natural",
+          "arrive_at": "15:08",
+          "stay_min": 105,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 2.86,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Route am weitläufigen Lac de Paucheville, um die ruhige Feuchtgebietsatmosphäre aufzusaugen, und bleiben Sie auf den markierten Wegen, um die empfindliche lokale Flora zu schützen.",
+            "hu": "Fejezze be útját a kiterjedt Lac de Paucheville-nél, hogy magába szívja a nyugodt vizes élőhelyek hangulatát, és maradjon a kijelölt ösvényeken, hogy megvédje az érzékeny helyi növényvilágot.",
+            "ro": "Încheiați-vă traseul la întinsul Lac de Paucheville pentru a vă bucura de atmosfera liniștită a zonelor umede și rămâneți pe potecile marcate pentru a proteja flora locală delicată.",
+            "en": "Finish your route at the expansive Lac de Paucheville to soak in the tranquil wetland atmosphere, and stay on the marked paths to protect the delicate local flora."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Radabenteuer mit der Schönheit der Kirche Saint-Laurent und dem historischen Schloss. Mittags bewundern Sie das ruhige Wasser des lokalen Sees, bevor Sie zu Familienorten radeln. Der Nachmittag bietet eine Fahrt durch die grünen Wege des Saudrune-Parks. Der Abend bricht sanft am Lac de Paucheville ein.",
+        "hu": "Kezdje kerékpáros kalandját a Saint-Laurent templom és a történelmi kastély építészeti szépségével. A délidőt a helyi tó nyugodt vizének csodálására szánjuk. A délután egy kört kínál a Saudrune Park zöld ösvényein. Az este csendesen érkezik a Lac de Paucheville-hez, békés vizes élőhelyi kilátást nyújtva.",
+        "ro": "Începeți-vă aventura cu bicicleta cu frumusețea Bisericii Saint-Laurent și a Castelului istoric. Miezul zilei este petrecut admirând apele senine ale lacului local. După-amiaza oferă o plimbare prin potecile verzi ale Parcului Saudrune. Seara sosește ușor la Lac de Paucheville, oferind priveliști pașnice ale zonelor umede.",
+        "en": "Start your cycling adventure with the architectural beauty of Saint-Laurent Church and the historic Castle. Midday is spent admiring the serene waters of the local lake before pedaling to family spots. The afternoon offers a ride through Saudrune Park's green trails. Evening arrives gently at Lac de Paucheville, offering peaceful wetland views."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 11.32,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Place de la Mairie",
+            "hu": "Place de la Mairie",
+            "ro": "Place de la Mairie",
+            "en": "Place de la Mairie"
+          },
+          "coords": [
+            1.346254,
+            43.58299
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Morgen an der Place de la Mairie, um zu sehen, wie das bürgerliche Herz der Stadt erwacht, und holen Sie sich ein frisches Gebäck aus einer nahegelegenen Bäckerei.",
+            "hu": "Kezdje a reggelt a Place de la Mairie-n, hogy szemtanúja legyen a város polgári szívének ébredésének, és vegyen egy friss péksüteményt egy közeli pékségből, amit a padokon fogyaszthat el.",
+            "ro": "Începeți dimineața în Place de la Mairie pentru a fi martor la trezirea inimii civice a orașului și luați un produs de patiserie proaspăt de la o brutărie din apropiere pentru a-l savura pe o bancă.",
+            "en": "Start your morning at the Place de la Mairie to witness the civic heart of the town waking up, and grab a fresh pastry from a nearby bakery to enjoy on one of the benches."
+          }
+        },
+        {
+          "name": {
+            "de": "Square St Exupery",
+            "hu": "Square St Exupery",
+            "ro": "Piața St Exupery",
+            "en": "Square St Exupery"
+          },
+          "coords": [
+            1.344865,
+            43.53566
+          ],
+          "category": "family",
+          "arrive_at": "09:46",
+          "stay_min": 60,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.2,
+          "tip_5lang": {
+            "de": "Genießen Sie eine friedliche Pause am Square St Exupery, einer familienfreundlichen Grünfläche mit herrlichem Schatten, ideal, um Snacks mitzubringen und die Kinder spielen zu lassen.",
+            "hu": "Élvezze a békés pihenést a Square St Exupery téren, amely egy családbarát zöldterület szép árnyékkal, így ideális arra, hogy hozzon néhány rágcsálnivalót, és hagyja a gyerekeket játszani.",
+            "ro": "Bucurați-vă de o pauză liniștită la Square St Exupery, un spațiu verde prietenos cu familiile, cu umbră minunată, ideal pentru a aduce câteva gustări și a lăsa copiii să-și consume energia.",
+            "en": "Enjoy a peaceful break at Square St Exupery, a family-friendly green space with lovely shade, making it ideal to bring some snacks and let the kids burn off energy."
+          }
+        },
+        {
+          "name": {
+            "de": "Schloss Villeneuve-Tolosane",
+            "hu": "Villeneuve-Tolosane kastély",
+            "ro": "Castelul Villeneuve-Tolosane",
+            "en": "Villeneuve-Tolosane Castle"
+          },
+          "coords": [
+            1.341007,
+            43.52364
+          ],
+          "category": "historical",
+          "arrive_at": "10:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste des Schlosses Villeneuve-Tolosane, um die feudale Vergangenheit der Gegend zu verstehen, und nehmen Sie sich Zeit für die historischen Gedenktafeln.",
+            "hu": "Fedezze fel a Villeneuve-Tolosane kastély maradványait, hogy megértse a környék feudális múltját, és szánjon időt az egykori védelmi dicsőségét részletező történelmi emléktáblák elolvasására.",
+            "ro": "Explorați rămășițele Castelului Villeneuve-Tolosane pentru a înțelege trecutul feudal al zonei și faceți-vă timp să citiți plăcile istorice care detaliază fosta sa glorie defensivă.",
+            "en": "Explore the remnants of the Villeneuve-Tolosane Castle to understand the area's feudal past, and take time to read the historical plaques detailing its former defensive glory."
+          }
+        },
+        {
+          "name": {
+            "de": "See von Villeneuve-Tolosane",
+            "hu": "Villeneuve-Tolosane tó",
+            "ro": "Lacul Villeneuve-Tolosane",
+            "en": "Villeneuve-Tolosane Lake"
+          },
+          "coords": [
+            1.341007,
+            43.52364
+          ],
+          "category": "natural",
+          "arrive_at": "12:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den ruhigen Gewässern des Sees von Villeneuve-Tolosane, einem perfekten Ort zur Vogelbeobachtung, also bringen Sie Ihre Kamera und eine leichte Jacke mit.",
+            "hu": "Pihenjen a Villeneuve-Tolosane tó nyugodt vize mellett, amely tökéletes hely madármegfigyeléshez és fotózáshoz, ezért hozzon fényképezőgépet és egy könnyű kabátot a szeles délutánra.",
+            "ro": "Relaxați-vă lângă apele calme ale Lacului Villeneuve-Tolosane, un loc perfect pentru observarea păsărilor și fotografie, așa că aduceți camera și o jachetă ușoară pentru după-amiaza răcoroasă.",
+            "en": "Relax by the calm waters of Villeneuve-Tolosane Lake, a perfect spot for birdwatching and photography, so bring your camera and a light jacket for the breezy afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Laurent Kirche",
+            "hu": "Saint-Laurent templom",
+            "ro": "Biserica Saint-Laurent",
+            "en": "Saint-Laurent Church"
+          },
+          "coords": [
+            1.341029,
+            43.522617
+          ],
+          "category": "religious",
+          "arrive_at": "13:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische lokale Backsteinarchitektur der St.-Laurentius-Kirche, einem ruhigen religiösen Anker der Stadt, aber verhalten Sie sich ruhig, da sie aktiv genutzt wird.",
+            "hu": "Csodálja meg a Saint-Laurent templom klasszikus helyi téglaépítészetét, a város csendes vallási horgonyát, de látogasson el csendben, mivel a közösség aktívan használja.",
+            "ro": "Admirați arhitectura clasică din cărămidă locală a Bisericii Saint-Laurent, o ancoră religioasă senină a orașului, dar vizitați-o în liniște, deoarece este folosită activ de comunitate.",
+            "en": "Admire the classic local brick architecture of Saint-Laurent Church, a serene religious anchor of the town, but visit quietly as it is actively used by the community."
+          }
+        },
+        {
+          "name": {
+            "de": "Saudrune Park",
+            "hu": "Saudrune Park",
+            "ro": "Parcul Saudrune",
+            "en": "Saudrune Park"
+          },
+          "coords": [
+            1.362022,
+            43.525457
+          ],
+          "category": "natural",
+          "arrive_at": "14:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Wandern Sie entlang der üppigen Pfade des Saudrune-Parks, um die lokale Biodiversität zu erleben, und versuchen Sie, am späten Nachmittag zu kommen, wenn das goldene Licht durch die Bäume fällt.",
+            "hu": "Sétáljon végig a Saudrune Park buja ösvényein, hogy megtapasztalja a helyi biológiai sokféleséget, és próbáljon meg késő délután ellátogatni, amikor az arany fény gyönyörűen átszűrődik a fákon.",
+            "ro": "Plimbați-vă pe potecile luxuriante ale Parcului Saudrune pentru a experimenta biodiversitatea locală și încercați să vizitați la sfârșitul după-amiezii, când lumina aurie se filtrează frumos prin copaci.",
+            "en": "Wander along the lush trails of Saudrune Park to experience the local biodiversity, and try to visit in the late afternoon when the golden light filters beautifully through the trees."
+          }
+        },
+        {
+          "name": {
+            "de": "Lac de Lamartine",
+            "hu": "Lac de Lamartine",
+            "ro": "Lac de Lamartine",
+            "en": "Lac de Lamartine"
+          },
+          "coords": [
+            1.336977,
+            43.506401
+          ],
+          "category": "natural",
+          "arrive_at": "15:30",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Erkunden Sie die weitläufige Wildnis rund um den Lac de Lamartine, wenn sich die Sonne senkt, und halten Sie respektvollen Abstand zur Tierwelt, während Sie die spiegelnden Gewässer genießen.",
+            "hu": "Fedezze fel a Lac de Lamartine körüli kiterjedt vadont, ahogy a nap lemenni kezd, tiszteletteljes távolságot tartva a vadvilágtól, miközben élvezi a tükröződő vizeket.",
+            "ro": "Explorați sălbăticia întinsă din jurul Lacului Lamartine pe măsură ce soarele începe să apună, păstrând o distanță respectuoasă față de fauna sălbatică în timp ce vă bucurați de apele reflectorizante.",
+            "en": "Explore the sprawling wilderness around Lac de Lamartine as the sun begins to lower, keeping a respectful distance from the wildlife while you enjoy the reflective waters."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt im bürgerlichen Herzen an der Place de la Mairie, bevor Sie zur grünen Oase des St. Exupery-Platzes fahren. Der Nachmittag ist reich an Geschichte am Schloss und ruhigen Momenten. Später fahren Sie zum Saudrune-Park. Der Roadtrip endet mit einem spektakulären Sonnenuntergangsblick am weitläufigen Lac de Lamartine.",
+        "hu": "Autóútja a városközpontban, a Place de la Mairie-n kezdődik, mielőtt a St Exupery tér zöld oázisába indulna. A délután gazdag történelemben a kastélynál és nyugodt pillanatokban. Később a Saudrune Parkba vezet az út. Az utazás egy látványos naplementével zárul a kiterjedt Lac de Lamartine-nál.",
+        "ro": "Plimbarea începe în inima civică de la Place de la Mairie înainte de a vă îndrepta spre oaza verde din piața St Exupery. După-amiaza este bogată în istorie la Castel și momente de calm. Mai târziu, veți conduce spre Parcul Saudrune. Excursia se încheie cu un apus spectaculos de soare la întinsul Lac Lamartine.",
+        "en": "Your drive begins in the civic heart at Place de la Mairie before heading to the green oasis of St Exupery square. The afternoon is rich with history at the Castle and calm moments by the adjacent lake and church. Later, you'll drive down to Saudrune Park. The road trip wraps up with a spectacular sunset view at the expansive Lac de Lamartine."
+      }
+    }
+  }
+}

@@ -1,0 +1,612 @@
+{
+  "city_id": "france-treguennec-cities-v2",
+  "anchor": {
+    "name": "Tréguennec",
+    "coords": [
+      -4.33302,
+      47.8906
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "19:18",
+      "total_km": 6.74,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Kapelle Saint-Alour",
+            "hu": "Saint-Alour Kápolna",
+            "ro": "Capela Saint-Alour",
+            "en": "Saint-Alour Chapel"
+          },
+          "coords": [
+            -4.333194,
+            47.890908
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese friedliche bretonische Kapelle im Dorfzentrum, um ihre authentische Architektur zu bewundern, und ruhen Sie sich auf den Steinbänken aus.",
+            "hu": "Látogassa meg ezt a békés breton kápolnát a falu központjában, hogy megcsodálja hiteles építészetét, és pihenjen meg a kinti kőpadokon egy pillanatra.",
+            "ro": "Vizitați această capelă bretonă pașnică din centrul satului pentru a-i admira arhitectura autentică și odihniți-vă o clipă pe băncile de piatră de afară.",
+            "en": "Visit this peaceful Breton chapel in the village center to admire its authentic architecture, and take a moment to rest on the stone benches outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Unserer Lieben Frau des Mitleids",
+            "hu": "Könyörületes Miasszonyunk Templom",
+            "ro": "Biserica Maicii Domnului a Milei",
+            "en": "Church of Our Lady of Pity"
+          },
+          "coords": [
+            -4.323081,
+            47.89507
+          ],
+          "category": "religious",
+          "arrive_at": "10:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.87,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese historische Kirche mit wunderschönen Buntglasfenstern und versuchen Sie anzukommen, wenn das Morgenlicht das komplexe Mauerwerk erhellt.",
+            "hu": "Fedezze fel ezt a történelmi templomot gyönyörű ólomüveg ablakaival, és próbáljon akkor érkezni, amikor a reggeli fény megvilágítja a bonyolult kőfaragásokat.",
+            "ro": "Descoperiți această biserică istorică cu vitralii frumoase și încercați să ajungeți când lumina dimineții luminează zidăria sa complicată de piatră.",
+            "en": "Discover this historic church featuring beautiful stained glass windows, and try to arrive when the morning light illuminates its intricate stonework."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-Évy",
+            "hu": "Saint-Évy Kápolna",
+            "ro": "Capela Saint-Évy",
+            "en": "Saint-Évy Chapel"
+          },
+          "coords": [
+            -4.317707,
+            47.873956
+          ],
+          "category": "religious",
+          "arrive_at": "11:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 36,
+          "hop_from_prev_km": 2.37,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese charmante, von Natur umgebene Kapelle und tragen Sie unbedingt wasserdichte Schuhe, da die umliegenden Wege ziemlich schlammig sein können.",
+            "hu": "Fedezze fel ezt a bájos, természettel körülvett elszigetelt kápolnát, és feltétlenül viseljen vízálló cipőt, mivel a környező ösvények meglehetősen sárosak lehetnek.",
+            "ro": "Explorați această capelă izolată fermecătoare, înconjurată de natură, având grijă să purtați încălțăminte impermeabilă deoarece cărările pot fi noroioase.",
+            "en": "Explore this charming isolated chapel surrounded by nature, making sure to wear waterproof shoes as the surrounding paths can be quite muddy."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-Vio",
+            "hu": "Saint-Vio Kápolna",
+            "ro": "Capela Saint-Vio",
+            "en": "Saint-Vio Chapel"
+          },
+          "coords": [
+            -4.337848,
+            47.872114
+          ],
+          "category": "religious",
+          "arrive_at": "12:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie eine der kleinsten Kapellen der Bretagne an der Bucht und suchen Sie nach dem winzigen heiligen Brunnen, der nur wenige Schritte entfernt versteckt ist.",
+            "hu": "Csodálja meg Bretagne egyik legkisebb kápolnáját az öböl közelében, és keresse meg a fűben mindössze néhány lépésre elrejtett apró szent kutat.",
+            "ro": "Admirați una dintre cele mai mici capele din Bretania lângă golf și căutați micul izvor sfânt ascuns la doar câțiva pași distanță în iarba verde.",
+            "en": "Admire one of the smallest chapels in Brittany standing proudly near the bay, and look for the tiny holy well hidden just a few steps away in the grass."
+          }
+        },
+        {
+          "name": {
+            "de": "Prähistorischer Friedhof Prat-ar-Hastel",
+            "hu": "Prat-ar-Hastel Történelem Előtti Temető",
+            "ro": "Cimitirul Preistoric Prat-ar-Hastel",
+            "en": "Prat-ar-Hastel Prehistoric Cemetery"
+          },
+          "coords": [
+            -4.345544,
+            47.875928
+          ],
+          "category": "historical",
+          "arrive_at": "13:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.71,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen alten prähistorischen Friedhof, um über Jahrtausende menschlicher Geschichte nachzudenken, und lesen Sie vorher die Informationstafeln.",
+            "hu": "Sétáljon végig ezen az ősi történelem előtti temetőn, hogy elgondolkodjon az emberi történelem évezredein, és olvassa el a tájékoztató táblákat a belépés előtt.",
+            "ro": "Plimbați-vă prin acest cimitir preistoric antic pentru a reflecta asupra mileniilor de istorie umană și citiți panourile informative înainte de a păși pe sit.",
+            "en": "Walk through this ancient prehistoric cemetery to reflect on millennia of human history, and read the informational panels before stepping onto the site."
+          }
+        },
+        {
+          "name": {
+            "de": "Bunkerruinen und Betonbrecher (Zweiter Weltkrieg)",
+            "hu": "Második Világháborús Zúzóromok",
+            "ro": "Ruinele Concasorului (Al Doilea Război Mondial)",
+            "en": "WWII Concrete Crusher Ruins"
+          },
+          "coords": [
+            -4.352369,
+            47.874061
+          ],
+          "category": "historical",
+          "arrive_at": "14:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.54,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die imposanten Überreste dieses Betonbrechers aus dem Zweiten Weltkrieg am Strand und kommen Sie bei Ebbe, um die Fundamente sicher zu erkunden.",
+            "hu": "Vizsgálja meg a második világháborús zúzóberendezés impozáns maradványait a tengerparton, és érkezzen apálykor, hogy biztonságosan felfedezze az alapokat.",
+            "ro": "Examinați rămășițele impunătoare ale acestui concasor din Al Doilea Război Mondial de pe plajă și veniți la reflux pentru a explora fundațiile sale masive.",
+            "en": "Examine the imposing remains of this World War II concrete crusher on the beach, and come at low tide to safely explore its massive foundations."
+          }
+        },
+        {
+          "name": {
+            "de": "Bunker-Kasematte (Zweiter Weltkrieg)",
+            "hu": "Második Világháborús Kazamata",
+            "ro": "Cazemată Al Doilea Război Mondial",
+            "en": "WWII Casemate Bunker"
+          },
+          "coords": [
+            -4.35445,
+            47.87587
+          ],
+          "category": "historical",
+          "arrive_at": "16:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Betreten Sie diesen dunklen Bunker aus dem Zweiten Weltkrieg, um die damalige Küstenverteidigung zu verstehen, und bringen Sie eine Taschenlampe mit.",
+            "hu": "Lépjen be ebbe a komor második világháborús bunkerbe, hogy megértse a korszak partvédelemét, és vigyen magával zseblámpát a sötét belső tér felfedezéséhez.",
+            "ro": "Pășiți în această cazemată sumbră din Al Doilea Război Mondial pentru a înțelege apărarea de coastă și aduceți o lanternă pentru interiorul său întunecat.",
+            "en": "Step inside this somber WWII casemate bunker to understand the coastal defenses of the era, bringing a small flashlight to safely navigate its dark interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Kermabec",
+            "hu": "Kermabec Strand",
+            "ro": "Plaja Kermabec",
+            "en": "Kermabec Beach"
+          },
+          "coords": [
+            -4.360475,
+            47.87808
+          ],
+          "category": "recreational",
+          "arrive_at": "17:33",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem weiten Sandstrand mit wilden Wellen und bleiben Sie auf den markierten Wegen, um die empfindlichen Küstendünen zu schützen.",
+            "hu": "Pihenjen ezen a tágas homokos strandon, ahol vad hullámok verik a partot, és maradjon a kijelölt ösvényeken a törékeny part menti dűnék védelme érdekében.",
+            "ro": "Relaxați-vă pe această plajă imensă unde valurile sălbatice se sparg de țărm și rămâneți pe potecile marcate pentru a proteja dunele de coastă fragile.",
+            "en": "Relax on this expansive sandy beach where wild waves crash against the shore, and keep to the marked paths to protect the fragile coastal dunes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Wandertag im Zentrum von Tréguennec und entdecken Sie die reiche sakrale Architektur. Mittags führt Sie der Weg durch malerische Felder zu den abgelegenen Kapellen. Am Nachmittag tauchen Sie in die Geschichte des Zweiten Weltkriegs an der Küste ein. Der Abend klingt mit einem ruhigen Spaziergang am Strand aus, begleitet vom Rauschen des Ozeans.",
+        "hu": "Kezdje a gyalogos napot Tréguennec központjában, felfedezve a gazdag vallási építészetet. Délben az ösvény festői mezőkön át vezet az elszigetelt kápolnákhoz. Délután merüljön el a második világháború történelmében a tengerpart mentén. Az este a tengerparton tett csendes sétával zárul, az óceán nyugtató morajlásának kíséretében.",
+        "ro": "Începeți ziua de drumeție în centrul orașului Tréguennec, descoperind arhitectura religioasă bogată. La prânz, traseul vă poartă pe câmpuri pitorești spre capele izolate. După-amiaza, pătrundeți în istoria celui de-al Doilea Război Mondial de-a lungul coastei. Seara se încheie cu o plimbare liniștită pe plajă, însoțită de sunetul oceanului.",
+        "en": "Begin your walking day in the center of Tréguennec, discovering its rich religious architecture. At midday, the trail leads you through picturesque fields to isolated chapels. In the afternoon, delve into World War II history along the dramatic coastline. The evening concludes with a quiet stroll on the beach, accompanied by the soothing sound of the ocean."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:19",
+      "total_km": 8.16,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Unserer Lieben Frau des Mitleids",
+            "hu": "Könyörületes Miasszonyunk Templom",
+            "ro": "Biserica Maicii Domnului a Milei",
+            "en": "Church of Our Lady of Pity"
+          },
+          "coords": [
+            -4.323081,
+            47.89507
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese historische Kirche mit wunderschönen Buntglasfenstern und versuchen Sie anzukommen, wenn das Morgenlicht das komplexe Mauerwerk erhellt.",
+            "hu": "Fedezze fel ezt a történelmi templomot gyönyörű ólomüveg ablakaival, és próbáljon akkor érkezni, amikor a reggeli fény megvilágítja a bonyolult kőfaragásokat.",
+            "ro": "Descoperiți această biserică istorică cu vitralii frumoase și încercați să ajungeți când lumina dimineții luminează zidăria sa complicată de piatră.",
+            "en": "Discover this historic church featuring beautiful stained glass windows, and try to arrive when the morning light illuminates its intricate stonework."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-Alour",
+            "hu": "Saint-Alour Kápolna",
+            "ro": "Capela Saint-Alour",
+            "en": "Saint-Alour Chapel"
+          },
+          "coords": [
+            -4.333194,
+            47.890908
+          ],
+          "category": "religious",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.87,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese friedliche bretonische Kapelle im Dorfzentrum, um ihre authentische Architektur zu bewundern, und ruhen Sie sich auf den Steinbänken aus.",
+            "hu": "Látogassa meg ezt a békés breton kápolnát a falu központjában, hogy megcsodálja hiteles építészetét, és pihenjen meg a kinti kőpadokon egy pillanatra.",
+            "ro": "Vizitați această capelă bretonă pașnică din centrul satului pentru a-i admira arhitectura autentică și odihniți-vă o clipă pe băncile de piatră de afară.",
+            "en": "Visit this peaceful Breton chapel in the village center to admire its authentic architecture, and take a moment to rest on the stone benches outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-Vio",
+            "hu": "Saint-Vio Kápolna",
+            "ro": "Capela Saint-Vio",
+            "en": "Saint-Vio Chapel"
+          },
+          "coords": [
+            -4.337848,
+            47.872114
+          ],
+          "category": "religious",
+          "arrive_at": "10:46",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie eine der kleinsten Kapellen der Bretagne an der Bucht und suchen Sie nach dem winzigen heiligen Brunnen, der nur wenige Schritte entfernt versteckt ist.",
+            "hu": "Csodálja meg Bretagne egyik legkisebb kápolnáját az öböl közelében, és keresse meg a fűben mindössze néhány lépésre elrejtett apró szent kutat.",
+            "ro": "Admirați una dintre cele mai mici capele din Bretania lângă golf și căutați micul izvor sfânt ascuns la doar câțiva pași distanță în iarba verde.",
+            "en": "Admire one of the smallest chapels in Brittany standing proudly near the bay, and look for the tiny holy well hidden just a few steps away in the grass."
+          }
+        },
+        {
+          "name": {
+            "de": "Prähistorischer Friedhof Prat-ar-Hastel",
+            "hu": "Prat-ar-Hastel Történelem Előtti Temető",
+            "ro": "Cimitirul Preistoric Prat-ar-Hastel",
+            "en": "Prat-ar-Hastel Prehistoric Cemetery"
+          },
+          "coords": [
+            -4.345544,
+            47.875928
+          ],
+          "category": "historical",
+          "arrive_at": "11:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.71,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen alten prähistorischen Friedhof, um über Jahrtausende menschlicher Geschichte nachzudenken, und lesen Sie vorher die Informationstafeln.",
+            "hu": "Sétáljon végig ezen az ősi történelem előtti temetőn, hogy elgondolkodjon az emberi történelem évezredein, és olvassa el a tájékoztató táblákat a belépés előtt.",
+            "ro": "Plimbați-vă prin acest cimitir preistoric antic pentru a reflecta asupra mileniilor de istorie umană și citiți panourile informative înainte de a păși pe sit.",
+            "en": "Walk through this ancient prehistoric cemetery to reflect on millennia of human history, and read the informational panels before stepping onto the site."
+          }
+        },
+        {
+          "name": {
+            "de": "Bunkerruinen und Betonbrecher (Zweiter Weltkrieg)",
+            "hu": "Második Világháborús Zúzóromok",
+            "ro": "Ruinele Concasorului (Al Doilea Război Mondial)",
+            "en": "WWII Concrete Crusher Ruins"
+          },
+          "coords": [
+            -4.352369,
+            47.874061
+          ],
+          "category": "historical",
+          "arrive_at": "12:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.54,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die imposanten Überreste dieses Betonbrechers aus dem Zweiten Weltkrieg am Strand und kommen Sie bei Ebbe, um die Fundamente sicher zu erkunden.",
+            "hu": "Vizsgálja meg a második világháborús zúzóberendezés impozáns maradványait a tengerparton, és érkezzen apálykor, hogy biztonságosan felfedezze az alapokat.",
+            "ro": "Examinați rămășițele impunătoare ale acestui concasor din Al Doilea Război Mondial de pe plajă și veniți la reflux pentru a explora fundațiile sale masive.",
+            "en": "Examine the imposing remains of this World War II concrete crusher on the beach, and come at low tide to safely explore its massive foundations."
+          }
+        },
+        {
+          "name": {
+            "de": "Bunker-Kasematte (Zweiter Weltkrieg)",
+            "hu": "Második Világháborús Kazamata",
+            "ro": "Cazemată Al Doilea Război Mondial",
+            "en": "WWII Casemate Bunker"
+          },
+          "coords": [
+            -4.35445,
+            47.87587
+          ],
+          "category": "historical",
+          "arrive_at": "14:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Betreten Sie diesen dunklen Bunker aus dem Zweiten Weltkrieg, um die damalige Küstenverteidigung zu verstehen, und bringen Sie eine Taschenlampe mit.",
+            "hu": "Lépjen be ebbe a komor második világháborús bunkerbe, hogy megértse a korszak partvédelemét, és vigyen magával zseblámpát a sötét belső tér felfedezéséhez.",
+            "ro": "Pășiți în această cazemată sumbră din Al Doilea Război Mondial pentru a înțelege apărarea de coastă și aduceți o lanternă pentru interiorul său întunecat.",
+            "en": "Step inside this somber WWII casemate bunker to understand the coastal defenses of the era, bringing a small flashlight to safely navigate its dark interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Kermabec",
+            "hu": "Kermabec Strand",
+            "ro": "Plaja Kermabec",
+            "en": "Kermabec Beach"
+          },
+          "coords": [
+            -4.360475,
+            47.87808
+          ],
+          "category": "recreational",
+          "arrive_at": "15:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem weiten Sandstrand mit wilden Wellen und bleiben Sie auf den markierten Wege, um die empfindlichen Küstendünen zu schützen.",
+            "hu": "Pihenjen ezen a tágas homokos strandon, ahol vad hullámok verik a partot, és maradjon a kijelölt ösvényeken a törékeny part menti dűnék védelme érdekében.",
+            "ro": "Relaxați-vă pe această plajă imensă unde valurile sălbatice se sparg de țărm și rămâneți pe potecile marcate pentru a proteja dunele de coastă fragile.",
+            "en": "Relax on this expansive sandy beach where wild waves crash against the shore, and keep to the marked paths to protect the fragile coastal dunes."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-Évy",
+            "hu": "Saint-Évy Kápolna",
+            "ro": "Capela Saint-Évy",
+            "en": "Saint-Évy Chapel"
+          },
+          "coords": [
+            -4.317707,
+            47.873956
+          ],
+          "category": "religious",
+          "arrive_at": "17:09",
+          "stay_min": 70,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.19,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese charmante, von Natur umgebene Kapelle und tragen Sie unbedingt wasserdichte Schuhe, da die umliegenden Wege ziemlich schlammig sein können.",
+            "hu": "Fedezze fel ezt a bájos, természettel körülvett elszigetelt kápolnát, és feltétlenül viseljen vízálló cipőt, mivel a környező ösvények meglehetősen sárosak lehetnek.",
+            "ro": "Explorați această capelă izolată fermecătoare, înconjurată de natură, având grijă să purtați încălțăminte impermeabilă deoarece cărările pot fi noroioase.",
+            "en": "Explore this charming isolated chapel surrounded by nature, making sure to wear waterproof shoes as the surrounding paths can be quite muddy."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour an der wunderschönen Hauptkirche und radeln Sie dann zügig zum historischen Zentrum. Gegen Mittag erreichen Sie die friedlichen Küstenkapellen und antiken Stätten. Der Nachmittag bietet eine faszinierende Erkundung von Bunkeranlagen direkt am Atlantik. Zum Abschluss radeln Sie landeinwärts, während die Sonne langsam hinter den Wellen untergeht.",
+        "hu": "Kezdje a kerékpártúrát a gyönyörű főtemplomnál, majd tekerjen be a történelmi központba. Dél körül eléri a békés parti kápolnákat és ősi helyszíneket. A délután izgalmas felfedezést kínál a közvetlenül az Atlanti-óceán partján fekvő bunkerekben. Végül a szárazföld felé kerekezik, miközben a nap lassan a hullámok mögé bukik.",
+        "ro": "Începeți turul cu bicicleta la biserica principală, apoi pedalați rapid spre centrul istoric. Pe la prânz ajungeți la capelele pașnice de coastă și siturile antice. După-amiaza oferă o explorare fascinantă a buncărelor direct la Atlantic. La final, pedalați spre interiorul uscatului, în timp ce soarele apune încet în spatele valurilor mării.",
+        "en": "Start your cycling tour at the beautiful main church before riding into the historic center. Around noon, you will reach the peaceful coastal chapels and ancient sites. The afternoon offers a fascinating exploration of bunker installations right on the Atlantic. Finally, you cycle inland while the sun slowly sets behind the crashing ocean waves."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 6.77,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Kapelle Saint-Évy",
+            "hu": "Saint-Évy Kápolna",
+            "ro": "Capela Saint-Évy",
+            "en": "Saint-Évy Chapel"
+          },
+          "coords": [
+            -4.317707,
+            47.873956
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese charmante, von Natur umgebene Kapelle und tragen Sie unbedingt wasserdichte Schuhe, da die umliegenden Wege ziemlich schlammig sein können.",
+            "hu": "Fedezze fel ezt a bájos, természettel körülvett elszigetelt kápolnát, és feltétlenül viseljen vízálló cipőt, mivel a környező ösvények meglehetősen sárosak lehetnek.",
+            "ro": "Explorați această capelă izolată fermecătoare, înconjurată de natură, având grijă să purtați încălțăminte impermeabilă deoarece cărările pot fi noroioase.",
+            "en": "Explore this charming isolated chapel surrounded by nature, making sure to wear waterproof shoes as the surrounding paths can be quite muddy."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-Vio",
+            "hu": "Saint-Vio Kápolna",
+            "ro": "Capela Saint-Vio",
+            "en": "Saint-Vio Chapel"
+          },
+          "coords": [
+            -4.337848,
+            47.872114
+          ],
+          "category": "religious",
+          "arrive_at": "09:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie eine der kleinsten Kapellen der Bretagne an der Bucht und suchen Sie nach dem winzigen heiligen Brunnen, der nur wenige Schritte entfernt versteckt ist.",
+            "hu": "Csodálja meg Bretagne egyik legkisebb kápolnáját az öböl közelében, és keresse meg a fűben mindössze néhány lépésre elrejtett apró szent kutat.",
+            "ro": "Admirați una dintre cele mai mici capele din Bretania lângă golf și căutați micul izvor sfânt ascuns la doar câțiva pași distanță în iarba verde.",
+            "en": "Admire one of the smallest chapels in Brittany standing proudly near the bay, and look for the tiny holy well hidden just a few steps away in the grass."
+          }
+        },
+        {
+          "name": {
+            "de": "Prähistorischer Friedhof Prat-ar-Hastel",
+            "hu": "Prat-ar-Hastel Történelem Előtti Temető",
+            "ro": "Cimitirul Preistoric Prat-ar-Hastel",
+            "en": "Prat-ar-Hastel Prehistoric Cemetery"
+          },
+          "coords": [
+            -4.345544,
+            47.875928
+          ],
+          "category": "historical",
+          "arrive_at": "10:35",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.71,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen alten prähistorischen Friedhof, um über Jahrtausende menschlicher Geschichte nachzudenken, und lesen Sie vorher die Informationstafeln.",
+            "hu": "Sétáljon végig ezen az ősi történelem előtti temetőn, hogy elgondolkodjon az emberi történelem évezredein, és olvassa el a tájékoztató táblákat a belépés előtt.",
+            "ro": "Plimbați-vă prin acest cimitir preistoric antic pentru a reflecta asupra mileniilor de istorie umană și citiți panourile informative înainte de a păși pe sit.",
+            "en": "Walk through this ancient prehistoric cemetery to reflect on millennia of human history, and read the informational panels before stepping onto the site."
+          }
+        },
+        {
+          "name": {
+            "de": "Bunkerruinen und Betonbrecher (Zweiter Weltkrieg)",
+            "hu": "Második Világháborús Zúzóromok",
+            "ro": "Ruinele Concasorului (Al Doilea Război Mondial)",
+            "en": "WWII Concrete Crusher Ruins"
+          },
+          "coords": [
+            -4.352369,
+            47.874061
+          ],
+          "category": "historical",
+          "arrive_at": "11:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.54,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die imposanten Überreste dieses Betonbrechers aus dem Zweiten Weltkrieg am Strand und kommen Sie bei Ebbe, um die Fundamente sicher zu erkunden.",
+            "hu": "Vizsgálja meg a második világháborús zúzóberendezés impozáns maradványait a tengerparton, és érkezzen apálykor, hogy biztonságosan felfedezze az alapokat.",
+            "ro": "Examinați rămășițele impunătoare ale acestui concasor din Al Doilea Război Mondial de pe plajă și veniți la reflux pentru a explora fundațiile sale masive.",
+            "en": "Examine the imposing remains of this World War II concrete crusher on the beach, and come at low tide to safely explore its massive foundations."
+          }
+        },
+        {
+          "name": {
+            "de": "Bunker-Kasematte (Zweiter Weltkrieg)",
+            "hu": "Második Világháborús Kazamata",
+            "ro": "Cazemată Al Doilea Război Mondial",
+            "en": "WWII Casemate Bunker"
+          },
+          "coords": [
+            -4.35445,
+            47.87587
+          ],
+          "category": "historical",
+          "arrive_at": "13:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Betreten Sie diesen dunklen Bunker aus dem Zweiten Weltkrieg, um die damalige Küstenverteidigung zu verstehen, und bringen Sie eine Taschenlampe mit.",
+            "hu": "Lépjen be ebbe a komor második világháborús bunkerbe, hogy megértse a korszak partvédelemét, és vigyen magával zseblámpát a sötét belső tér felfedezéséhez.",
+            "ro": "Pășiți în această cazemată sumbră din Al Doilea Război Mondial pentru a înțelege apărarea de coastă și aduceți o lanternă pentru interiorul său întunecat.",
+            "en": "Step inside this somber WWII casemate bunker to understand the coastal defenses of the era, bringing a small flashlight to safely navigate its dark interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Strand von Kermabec",
+            "hu": "Kermabec Strand",
+            "ro": "Plaja Kermabec",
+            "en": "Kermabec Beach"
+          },
+          "coords": [
+            -4.360475,
+            47.87808
+          ],
+          "category": "recreational",
+          "arrive_at": "14:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem weiten Sandstrand mit wilden Wellen und bleiben Sie auf den markierten Wegen, um die empfindlichen Küstendünen zu schützen.",
+            "hu": "Pihenjen ezen a tágas homokos strandon, ahol vad hullámok verik a partot, és maradjon a kijelölt ösvényeken a törékeny part menti dűnék védelme érdekében.",
+            "ro": "Relaxați-vă pe această plajă imensă unde valurile sălbatice se sparg de țărm și rămâneți pe potecile marcate pentru a proteja dunele de coastă fragile.",
+            "en": "Relax on this expansive sandy beach where wild waves crash against the shore, and keep to the marked paths to protect the fragile coastal dunes."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-Alour",
+            "hu": "Saint-Alour Kápolna",
+            "ro": "Capela Saint-Alour",
+            "en": "Saint-Alour Chapel"
+          },
+          "coords": [
+            -4.333194,
+            47.890908
+          ],
+          "category": "religious",
+          "arrive_at": "16:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese friedliche bretonische Kapelle im Dorfzentrum, um ihre authentische Architektur zu bewundern, und ruhen Sie sich auf den Steinbänken aus.",
+            "hu": "Látogassa meg ezt a békés breton kápolnát a falu központjában, hogy megcsodálja hiteles építészetét, és pihenjen meg a kinti kőpadokon egy pillanatra.",
+            "ro": "Vizitați această capelă bretonă pașnică din centrul satului pentru a-i admira arhitectura autentică și odihniți-vă o clipă pe băncile de piatră de afară.",
+            "en": "Visit this peaceful Breton chapel in the village center to admire its authentic architecture, and take a moment to rest on the stone benches outside."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Unserer Lieben Frau des Mitleids",
+            "hu": "Könyörületes Miasszonyunk Templom",
+            "ro": "Biserica Maicii Domnului a Milei",
+            "en": "Church of Our Lady of Pity"
+          },
+          "coords": [
+            -4.323081,
+            47.89507
+          ],
+          "category": "religious",
+          "arrive_at": "16:45",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.87,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese historische Kirche mit wunderschönen Buntglasfenstern und versuchen Sie anzukommen, wenn das Morgenlicht das komplexe Mauerwerk erhellt.",
+            "hu": "Fedezze fel ezt a történelmi templomot gyönyörű ólomüveg ablakaival, és próbáljon akkor érkezni, amikor a reggeli fény megvilágítja a bonyolult kőfaragásokat.",
+            "ro": "Descoperiți această biserică istorică cu vitralii frumoase și încercați să ajungeți când lumina dimineții luminează zidăria sa complicată de piatră.",
+            "en": "Discover this historic church featuring beautiful stained glass windows, and try to arrive when the morning light illuminates its intricate stonework."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt an einer charmanten Waldkapelle, bevor es weiter zu den heiligen Stätten an der Küste geht. Die Mittagszeit ist ideal, um die prähistorischen Gräber und massiven Kriegsruinen zu besichtigen. Am Nachmittag können Sie sich am weiten Strand entspannen und die salzige Brise genießen. Abends fahren Sie zurück ins Dorf, um die erleuchteten Kirchen zu bewundern.",
+        "hu": "Az utazás egy bájos erdei kápolnánál kezdődik, mielőtt a tengerparti szent helyek felé venné az irányt. A délidő ideális az ősi sírok és a hatalmas háborús romok megtekintésére. Délután pihenhet a tágas strandon és élvezheti a sós tengeri szellőt. Este visszavezet az út a faluba, hogy megcsodálhassa a kivilágított történelmi templomokat.",
+        "ro": "Călătoria începe la o capelă fermecătoare de pădure, înainte de a continua spre siturile sfinte de pe coastă. Prânzul este ideal pentru a vizita mormintele antice și ruinele masive de război. După-amiaza, vă puteți relaxa pe plaja întinsă, bucurându-vă de briza sărată. Seara conduceți înapoi în sat pentru a admira bisericile iluminate.",
+        "en": "Your drive begins at a charming woodland chapel before heading to the sacred sites along the coast. Midday is ideal for visiting the prehistoric tombs and massive war ruins. In the afternoon, you can relax on the expansive beach and enjoy the salty sea breeze. In the evening, drive back into the village to admire the beautifully illuminated historic churches."
+      }
+    }
+  }
+}

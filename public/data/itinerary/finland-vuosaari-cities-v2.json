@@ -1,0 +1,451 @@
+{
+  "city_id": "finland-vuosaari-cities-v2",
+  "anchor": {
+    "name": "Vuosaari",
+    "coords": [
+      25.14355,
+      60.20835
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:45",
+      "total_km": 1.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Puotilan kappeli",
+            "hu": "Puotilan kappeli",
+            "ro": "Puotilan kappeli",
+            "en": "Puotilan kappeli"
+          },
+          "coords": [
+            25.105039,
+            60.211388
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die reizvolle Architektur dieser historischen Kapelle, ein friedlicher Rückzugsort, den Sie früh besuchen sollten, um die Stille vor den Gottesdiensten zu genießen.",
+            "hu": "Csodálja meg a történelmi kápolna elbűvölő építészetét, és érkezzen korán, hogy élvezhesse a békés csendet még a helyi istentiszteletek megkezdése előtt ezen a nyugodt helyen.",
+            "ro": "Admirați arhitectura fermecătoare a acestei capele istorice și sosiți devreme pentru a vă bucura de liniștea dimineții înainte să înceapă slujbele religioase locale.",
+            "en": "Admire the charming architecture of this historic chapel, a peaceful spiritual retreat where you should arrive early to enjoy the morning silence before local services begin."
+          }
+        },
+        {
+          "name": {
+            "de": "Puotilan kartano",
+            "hu": "Puotilan kartano",
+            "ro": "Puotilan kartano",
+            "en": "Puotilan kartano"
+          },
+          "coords": [
+            25.107096,
+            60.21185
+          ],
+          "category": "historical",
+          "arrive_at": "09:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses wunderschön erhaltene Herrenhaus der finnischen Aristokratie und prüfen Sie die Café-Zeiten, um ein traditionelles Gebäck im eleganten Innenhof zu genießen.",
+            "hu": "Fedezze fel ezt a gyönyörűen megőrzött, finn arisztokrata történelmet bemutató udvarházat, és nézze meg a kávézó nyitvatartását, hogy megkóstolhasson egy hagyományos süteményt.",
+            "ro": "Explorați acest conac frumos conservat care ilustrează istoria aristocratică finlandeză și verificați orarul cafenelei pentru a savura o prăjitură tradițională în curtea elegantă.",
+            "en": "Explore this beautifully preserved manor house that highlights Finnish aristocratic history, and be sure to check the café hours to enjoy a traditional pastry in its elegant courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Puotilan uimaranta",
+            "hu": "Puotilan uimaranta",
+            "ro": "Puotilan uimaranta",
+            "en": "Puotilan uimaranta"
+          },
+          "coords": [
+            25.109707,
+            60.20925
+          ],
+          "category": "recreational",
+          "arrive_at": "11:19",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie an den Sandstränden dieses beliebten Strandes und bringen Sie ein kleines Handtuch mit, wenn Sie Ihre Füße in das erfrischende Wasser der Ostsee tauchen möchten.",
+            "hu": "Pihenjen e népszerű helyi strand homokos partján, élvezve a tengeri hangulatot, és hozzon magával egy törölközőt, ha szeretné belemártani a lábát a frissítő balti vizekbe.",
+            "ro": "Relaxați-vă pe nisipul acestei plaje populare, bucurându-vă de atmosfera maritimă, și nu uitați să luați un prosop dacă plănuiți să vă răcoriți picioarele în apa mării Baltice.",
+            "en": "Relax on the sandy shores of this popular local beach, taking in the maritime atmosphere, and remember to pack a small towel if you plan to dip your toes in the refreshing Baltic water."
+          }
+        },
+        {
+          "name": {
+            "de": "Vuosaaren silta",
+            "hu": "Vuosaaren silta",
+            "ro": "Vuosaaren silta",
+            "en": "Vuosaaren silta"
+          },
+          "coords": [
+            25.111176,
+            60.207135
+          ],
+          "category": "landmark",
+          "arrive_at": "12:23",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese markante Brücke für einen Panoramablick auf die Bucht und halten Sie Ihre Kamera bereit, um den faszinierenden Kontrast zwischen Wasser und Stadt einzufangen.",
+            "hu": "Sétáljon át az öblöt átívelő feltűnő hídon a lenyűgöző panorámáért, és tartsa készenlétben a fényképezőgépét, hogy megörökítse a víz és a városi környezet lenyűgöző kontrasztját.",
+            "ro": "Traversați acest pod proeminent pentru vederi panoramice asupra golfului și țineți camera pregătită pentru a surprinde contrastul uimitor dintre apă și designul urban.",
+            "en": "Walk across this prominent bridge linking the neighborhoods for panoramic views of the bay, and keep your camera ready to capture the stunning contrast between water and urban design."
+          }
+        },
+        {
+          "name": {
+            "de": "Rastila beach",
+            "hu": "Rastila beach",
+            "ro": "Rastila beach",
+            "en": "Rastila beach"
+          },
+          "coords": [
+            25.115216,
+            60.207457
+          ],
+          "category": "recreational",
+          "arrive_at": "12:52",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre am Rastila-Strand, ideal zum Sonnenbaden oder Bootebeobachten, und nutzen Sie die nahegelegenen Kioske für einen schnellen Snack.",
+            "hu": "Élvezze a Rastila strand nyüzsgő hangulatát, amely tökéletes napozáshoz vagy hajók megfigyeléséhez, és használja a közeli büféket, ha egy gyors harapnivalóra vagy italra vágyik.",
+            "ro": "Bucurați-vă de atmosfera plină de viață de la plaja Rastila, ideală pentru plajă, și folosiți facilitățile din apropiere dacă doriți o gustare rapidă sau o băutură răcoritoare.",
+            "en": "Enjoy the lively atmosphere of Rastila beach, a perfect spot for sunbathing or watching the boats, and use the convenient nearby amenities if you need a quick snack or drink."
+          }
+        },
+        {
+          "name": {
+            "de": "Rastilan kartano",
+            "hu": "Rastilan kartano",
+            "ro": "Rastilan kartano",
+            "en": "Rastilan kartano"
+          },
+          "coords": [
+            25.118242,
+            60.207617
+          ],
+          "category": "historical",
+          "arrive_at": "13:55",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang auf diesem historischen Anwesen in der Natur, wo Sie sich in malerischer Umgebung entspannen und das Restaurant für ein köstliches Essen besuchen können.",
+            "hu": "Fejezze be sétáját ezen a természettel körülvett történelmi birtokon, ahol megpihenhet a festői környezetben, és látogasson el az udvarház éttermébe egy kellemes délutáni étkezésre.",
+            "ro": "Încheiați plimbarea la acest conac istoric înconjurat de natură, unde vă puteți relaxa în decorul pitoresc și vizita restaurantul pentru o masă delicioasă de după-amiază.",
+            "en": "Conclude your walk at this historic estate surrounded by nature, where you can unwind in the picturesque setting and visit the manor's restaurant for a delightful afternoon meal."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt an der ruhigen Kapelle von Puotila, bevor Sie die historischen Säle des Herrenhauses erkunden. Mittags erreichen Sie den lebhaften Strand von Puotila für eine entspannte Pause am Meer. Am Nachmittag überqueren Sie die Vuosaari-Brücke und genießen die Aussicht auf die Küste. Der Abend endet wunderbar am Rastila-Strand und dem nahegelegenen Herrenhaus mit Sonnenuntergang.",
+        "hu": "A reggel a nyugodt Puotila kápolnánál indul, mielőtt felfedezné a Puotila udvarház történelmi termeit. Délben a nyüzsgő Puotila strandon tarthat egy pihentető tengerparti szünetet. Délután átsétál a Vuosaari hídon, ahonnan festői part menti kilátás nyílik. Az este csodálatosan zárul a Rastila strandon és a közeli udvarházban, amely tökéletes pillanatokat kínál a naplementében.",
+        "ro": "Dimineața începe la senina capelă Puotila, înainte de a explora sălile istorice ale conacului Puotila. La prânz ajungeți la vibranta plajă Puotila pentru o pauză la malul mării. După-amiaza, veți traversa podul Vuosaari, bucurându-vă de vederi de coastă pitorești. Seara se încheie frumos la plaja Rastila și la conacul din apropiere, oferind momente perfecte la apusul soarelui.",
+        "en": "Morning begins at the serene Puotila Chapel, setting a tranquil tone before you explore the historic halls of Puotila Manor. Midday brings you to the vibrant Puotila beach for a relaxing seaside break. In the afternoon, you will cross the Vuosaari bridge, enjoying scenic coastal views. The evening wraps up beautifully at Rastila beach and its nearby manor, offering perfect sunset moments."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:57",
+      "total_km": 5.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Vartiokylän linnavuori",
+            "hu": "Vartiokylän linnavuori",
+            "ro": "Vartiokylän linnavuori",
+            "en": "Vartiokylän linnavuori"
+          },
+          "coords": [
+            25.120562,
+            60.220297
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diese alte Wallburg, um historische Ruinen in der Natur zu entdecken, und tragen Sie festes Schuhwerk, um die unebenen Waldwege zum Gipfel sicher zu meistern.",
+            "hu": "Mássza meg ezt az ősi hegyi erődöt, hogy felfedezze a finn természettel egybeolvadó romokat, és viseljen kényelmes cipőt az egyenetlen erdei ösvényeken való biztonságos túrázáshoz.",
+            "ro": "Urcați pe această veche cetate de deal pentru a descoperi ruine istorice și purtați încălțăminte robustă pentru a naviga în siguranță pe potecile forestiere uneori denivelate.",
+            "en": "Climb this ancient hill fort to discover historical ruins blending with Finnish nature, and wear sturdy walking shoes to safely navigate the sometimes uneven forest paths to the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Varjakanpuiston luonnonsuojelualue",
+            "hu": "Varjakanpuiston luonnonsuojelualue",
+            "ro": "Varjakanpuiston luonnonsuojelualue",
+            "en": "Varjakanpuiston luonnonsuojelualue"
+          },
+          "coords": [
+            25.123516,
+            60.220149
+          ],
+          "category": "natural",
+          "arrive_at": "10:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Atmen Sie die frische Luft dieses Naturschutzgebiets ein und bleiben Sie auf den markierten Wegen, um das empfindliche Ökosystem während Ihrer friedlichen Wanderung zu schützen.",
+            "hu": "Szívja magába a friss levegőt ezen a változatos növényvilágú természetvédelmi területen, és maradjon a kijelölt ösvényeken, hogy megóvja a törékeny ökoszisztémát a túra során.",
+            "ro": "Respirați aer curat în această rezervație naturală protejată și rămâneți pe traseele marcate pentru a conserva ecosistemul delicat în timp ce vă bucurați de drumeția liniștită.",
+            "en": "Breathe in the fresh air of this protected nature reserve featuring diverse flora, and stick to the marked trails to preserve the delicate ecosystem while enjoying your peaceful hike."
+          }
+        },
+        {
+          "name": {
+            "de": "Vartiokylänlahti",
+            "hu": "Vartiokylänlahti",
+            "ro": "Vartiokylänlahti",
+            "en": "Vartiokylänlahti"
+          },
+          "coords": [
+            25.109393,
+            60.20761
+          ],
+          "category": "landmark",
+          "arrive_at": "11:54",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die ruhigen Gewässer dieser malerischen Bucht, ein typisches Küstenbild Helsinkis, und nutzen Sie die Bänke am Wasser für eine entspannte Pause am späten Vormittag.",
+            "hu": "Csodálja meg ennek a festői öbölnek a nyugodt vizét, és használja ki a vízparti padokat egy pihentető tízórai szünetre ezen a tipikus helsinki tengerparti szakaszon barangolva.",
+            "ro": "Admirați apele calme ale acestui golf pitoresc, o priveliște de coastă tipică pentru Helsinki, și folosiți băncile de pe mal pentru o pauză relaxantă în mijlocul dimineții.",
+            "en": "Take a moment to admire the calm waters of this picturesque bay, a quintessential Helsinki coastal view, and use the waterfront benches for a relaxing mid-morning break along the route."
+          }
+        },
+        {
+          "name": {
+            "de": "Vuosaaren kesäteatteri",
+            "hu": "Vuosaaren kesäteatteri",
+            "ro": "Vuosaaren kesäteatteri",
+            "en": "Vuosaaren kesäteatteri"
+          },
+          "coords": [
+            25.120106,
+            60.203347
+          ],
+          "category": "cultural",
+          "arrive_at": "12:25",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Erleben Sie lokale Kultur in diesem charmanten Freilufttheater im Wald und prüfen Sie vorab den Spielplan, falls Sie eine Live-Probe oder eine echte Aufführung miterleben können.",
+            "hu": "Tapasztalja meg a helyi kultúrát ebben a fák övezte bájos szabadtéri nyári színházban, és nézze meg előre a műsort, hátha elcsíphet egy élő próbát vagy egy szórakoztató előadást.",
+            "ro": "Experimentați cultura locală la acest teatru de vară în aer liber înconjurat de copaci și verificați programul în prealabil pentru a vedea o repetiție sau un spectacol live.",
+            "en": "Experience local culture at this charming outdoor summer theater surrounded by trees, and check the performance schedule beforehand in case you can catch a live rehearsal or show."
+          }
+        },
+        {
+          "name": {
+            "de": "Rastilanneva",
+            "hu": "Rastilanneva",
+            "ro": "Rastilanneva",
+            "en": "Rastilanneva"
+          },
+          "coords": [
+            25.116343,
+            60.197298
+          ],
+          "category": "natural",
+          "arrive_at": "13:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Gehen Sie über die Holzstege durch diese faszinierende Moorlandschaft, um einzigartige Pflanzen zu sehen, und treten Sie vorsichtig auf, da das Holz nach Regen rutschig sein kann.",
+            "hu": "Sétáljon végig a deszkaösvényeken ezen a lenyűgöző mocsaras területen, és lépkedjen óvatosan, mivel a fapallók a gyakori parti esőzések után kissé csúszóssá és vizesebbé válhatnak.",
+            "ro": "Mergeți pe podețele de lemn prin această mlaștină fascinantă pentru a vedea plante acvatice unice și pășiți cu grijă, deoarece lemnul poate deveni alunecos după ploile de coastă.",
+            "en": "Walk the duckboards across this fascinating bog environment to see unique wetland plants, and tread carefully as the wooden paths can become slippery after the frequent coastal rains."
+          }
+        },
+        {
+          "name": {
+            "de": "Kallahdenniemen sääskenvalkku",
+            "hu": "Kallahdenniemen sääskenvalkku",
+            "ro": "Kallahdenniemen sääskenvalkku",
+            "en": "Kallahdenniemen sääskenvalkku"
+          },
+          "coords": [
+            25.141696,
+            60.192425
+          ],
+          "category": "natural",
+          "arrive_at": "15:12",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour auf dieser ruhigen Küstenwiese, die für Vogelbeobachtung bekannt ist, und bringen Sie ein Fernglas mit, um Zugvögel auf der geschützten Halbinsel zu sehen.",
+            "hu": "Fejezze be kerékpártúráját ezen a csendes parti réten, amely madármegfigyelésről híres, és hozzon távcsövet, hogy megfigyelhesse az ide látogató különleges költöző fajokat.",
+            "ro": "Încheiați-vă plimbarea cu bicicleta explorând această pajiște de coastă excelentă pentru observarea păsărilor și aduceți un binoclu pentru a vedea speciile migratoare din zonă.",
+            "en": "Finish your cycling trip exploring this serene coastal meadow known for incredible birdwatching, and bring binoculars to spot the migratory species that visit this protected peninsula."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt an der alten Wallburg Vartiokylä und tauchen Sie ein in Natur und Geschichte. Mittags fahren Sie durch das üppige Naturschutzgebiet zur atemberaubenden Bucht Vartiokylä. Am Nachmittag genießen Sie Kultur im Sommertheater und erkunden das faszinierende Moor von Rastila. Die Reise endet friedlich auf den geschützten Küstenwiesen von Kallahti, wenn der Abend hereinbricht.",
+        "hu": "Indítsa útját az ősi Vartiokylä hegyi erődnél, elmerülve a történelemben és a természetben. Délben a buja Varjakka természetvédelmi területen át a lenyűgöző Vartiokylä öbölhöz ér. Délután szívjon magába némi kultúrát a nyári színháznál, és fedezze fel a lenyűgöző Rastila mocsarat. Az utazás békésen zárul a védett Kallahti parti réteken, ahogy az este szép lassan leereszkedik a városra.",
+        "ro": "Începeți traseul la vechea cetate de deal Vartiokylä, scufundându-vă în istorie. La prânz, treceți prin rezervația luxuriantă Varjakka spre uimitorul golf Vartiokylä. După-amiaza, asimilați cultură la teatrul de vară și explorați fascinanta mlaștină Rastila. Călătoria se încheie pașnic la pajiștile de coastă protejate Kallahti, pe măsură ce se lasă seara liniștită peste peninsulă.",
+        "en": "Kick off your ride at the ancient Vartiokylä hill fort, diving deep into history and nature. Midday leads you through the lush Varjakka nature reserve to the stunning Vartiokylä bay. In the afternoon, soak in some culture at the summer theater and explore the fascinating Rastila bog. The journey concludes peacefully at the protected Kallahti coastal meadows as evening falls."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:06",
+      "total_km": 5.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Linnavuoren pistiäisniitty",
+            "hu": "Linnavuoren pistiäisniitty",
+            "ro": "Linnavuoren pistiäisniitty",
+            "en": "Linnavuoren pistiäisniitty"
+          },
+          "coords": [
+            25.121183,
+            60.224683
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Tag auf dieser seltenen Insektenwiese, die Einblicke in spezielle Mikro-Ökosysteme bietet, und bleiben Sie am Rand, um die empfindlichen Lebensräume nicht zu stören.",
+            "hu": "Kezdje a napot ezen a ritka rovarréten, amely bepillantást enged a speciális mikro-ökoszisztémákba, és maradjon a peremösvényen, hogy ne zavarja meg a fűben rejtőző élőhelyeket.",
+            "ro": "Începeți ziua la această pajiște rară de insecte care oferă o privire asupra micro-ecosistemelor și rămâneți pe marginea potecii pentru a nu deranja habitatele fragile din iarbă.",
+            "en": "Start your day at this rare insect meadow offering a glimpse into specialized micro-ecosystems, and stay on the perimeter path to avoid disturbing the fragile habitats hidden in the grass."
+          }
+        },
+        {
+          "name": {
+            "de": "Vartiokylän linnavuori",
+            "hu": "Vartiokylän linnavuori",
+            "ro": "Vartiokylän linnavuori",
+            "en": "Vartiokylän linnavuori"
+          },
+          "coords": [
+            25.120562,
+            60.220297
+          ],
+          "category": "historical",
+          "arrive_at": "10:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erklimmen Sie diese alte Wallburg, um historische Ruinen in der Natur zu entdecken, und tragen Sie festes Schuhwerk, um die unebenen Waldwege zum Gipfel sicher zu meistern.",
+            "hu": "Mássza meg ezt az ősi hegyi erődöt, hogy felfedezze a finn természettel egybeolvadó romokat, és viseljen kényelmes cipőt az egyenetlen erdei ösvényeken való biztonságos túrázáshoz.",
+            "ro": "Urcați pe această veche cetate de deal pentru a descoperi ruine istorice și purtați încălțăminte robustă pentru a naviga în siguranță pe potecile forestiere uneori denivelate.",
+            "en": "Climb this ancient hill fort to discover historical ruins blending with Finnish nature, and wear sturdy walking shoes to safely navigate the sometimes uneven forest paths to the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Puotilan kartano",
+            "hu": "Puotilan kartano",
+            "ro": "Puotilan kartano",
+            "en": "Puotilan kartano"
+          },
+          "coords": [
+            25.107096,
+            60.21185
+          ],
+          "category": "historical",
+          "arrive_at": "11:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses wunderschön erhaltene Herrenhaus der finnischen Aristokratie und prüfen Sie die Café-Zeiten, um ein traditionelles Gebäck im eleganten Innenhof zu genießen.",
+            "hu": "Fedezze fel ezt a gyönyörűen megőrzött, finn arisztokrata történelmet bemutató udvarházat, és nézze meg a kávézó nyitvatartását, hogy megkóstolhasson egy hagyományos süteményt.",
+            "ro": "Explorați acest conac frumos conservat care ilustrează istoria aristocratică finlandeză și verificați orarul cafenelei pentru a savura o prăjitură tradițională în curtea elegantă.",
+            "en": "Explore this beautifully preserved manor house that highlights Finnish aristocratic history, and be sure to check the café hours to enjoy a traditional pastry in its elegant courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Rastilan kartano",
+            "hu": "Rastilan kartano",
+            "ro": "Rastilan kartano",
+            "en": "Rastilan kartano"
+          },
+          "coords": [
+            25.118242,
+            60.207617
+          ],
+          "category": "historical",
+          "arrive_at": "13:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang auf diesem historischen Anwesen in der Natur, wo Sie sich in malerischer Umgebung entspannen und das Restaurant für ein köstliches Essen besuchen können.",
+            "hu": "Fejezze be sétáját ezen a természettel körülvett történelmi birtokon, ahol megpihenhet a festői környezetben, és látogasson el az udvarház éttermébe egy kellemes délutáni étkezésre.",
+            "ro": "Încheiați plimbarea la acest conac istoric înconjurat de natură, unde vă puteți relaxa în decorul pitoresc și vizita restaurantul pentru o masă delicioasă de după-amiază.",
+            "en": "Conclude your walk at this historic estate surrounded by nature, where you can unwind in the picturesque setting and visit the manor's restaurant for a delightful afternoon meal."
+          }
+        },
+        {
+          "name": {
+            "de": "Kallahdenniemen uimaranta",
+            "hu": "Kallahdenniemen uimaranta",
+            "ro": "Kallahdenniemen uimaranta",
+            "en": "Kallahdenniemen uimaranta"
+          },
+          "coords": [
+            25.143787,
+            60.186829
+          ],
+          "category": "recreational",
+          "arrive_at": "14:36",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie den herrlichen Sonnenuntergang an diesem wunderschönen Halbinselstrand, und machen Sie einen langsamen Spaziergang im flachen Wasser, um die Umgebung zu würdigen.",
+            "hu": "Élvezze a pompás naplementét ezen a gyönyörű félszigeti strandon, amellyel zárja az utazást, és sétáljon egyet a sekély víz mentén, hogy teljesen átélje a békés környezetet.",
+            "ro": "Bucurați-vă de un apus glorios la această plajă peninsulară frumoasă care marchează sfârșitul călătoriei și plimbați-vă prin apele puțin adânci pentru a aprecia mediul pașnic.",
+            "en": "Enjoy a glorious sunset at this beautiful peninsular beach that marks the end of your journey, and take a slow stroll along the shallow waters to fully appreciate the peaceful surroundings."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit einem Besuch der seltenen Insektenwiese Linnavuori, bevor Sie die nahegelegene historische Wallburg erkunden. Der Mittag ist ideal für einen Besuch des eleganten Herrenhauses Puotila. Fahren Sie am Nachmittag bequem zum charmanten Herrenhaus Rastila für einen weiteren Blick in die aristokratische Vergangenheit. Beenden Sie den Tag entspannt am Strand von Kallahti im Sonnenuntergang.",
+        "hu": "Kezdje egy frissítő látogatással a ritka Linnavuori rovarréten, majd fedezze fel a közeli történelmi hegyi erődöt. A dél ideális az elegáns Puotila udvarház meglátogatására. Délután vezessen a hangulatos Rastila udvarházhoz, hogy újabb bepillantást nyerjen az arisztokrata múltba. Fejezze be a napot a Kallahti strand homokos partján pihenve, miközben a nap lassan lebukik a horizont alá.",
+        "ro": "Începeți cu o vizită la rara pajiște de insecte Linnavuori înainte de a explora fortul istoric din apropiere. Prânzul este perfect pentru a vizita elegantul conac Puotila, unde istoria prinde viață. După-amiaza, conduceți spre fermecătorul conac Rastila pentru o altă privire în trecutul aristocratic. Încheiați-vă ziua relaxându-vă pe nisipul plajei Kallahti în timp ce soarele apune lin.",
+        "en": "Start with a refreshing visit to the rare Linnavuori insect meadow before exploring the nearby historical hill fort. Midday is perfect for visiting the elegant Puotila Manor, where history comes alive. In the afternoon, drive smoothly to the charming Rastila Manor for another glimpse into the aristocratic past. End your day relaxing on the sandy shores of Kallahti beach as the sun sets."
+      }
+    }
+  }
+}

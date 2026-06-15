@@ -1,0 +1,428 @@
+{
+  "city_id": "vouziers",
+  "anchor": {
+    "name": "Vouziers",
+    "coords": [
+      4.7011,
+      49.3981
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:15",
+      "total_km": 3.35,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Place Carnot",
+            "hu": "Place Carnot",
+            "ro": "Place Carnot",
+            "en": "Place Carnot"
+          },
+          "coords": [
+            4.700996,
+            49.397914
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die lebhafte Atmosphäre der Place Carnot, dem historischen Herzen der Stadt, und machen Sie unbedingt Halt in einem lokalen Café für ein frisches Gebäck.",
+            "hu": "Csodálja meg a Place Carnot élénk hangulatát, a város történelmi szívét, és mindenképpen térjen be egy helyi kávézóba egy friss süteményért, mielőtt tovább sétál.",
+            "ro": "Admirați atmosfera vibrantă din Place Carnot, inima istorică a orașului, și asigurați-vă că vă opriți la o cafenea locală pentru o patiserie proaspătă înainte de a continua.",
+            "en": "Admire the vibrant atmosphere of Place Carnot, the historical heart of the city, and make sure to stop by a local café to grab a fresh pastry before continuing your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Maurille",
+            "hu": "Saint-Maurille-templom",
+            "ro": "Biserica Saint-Maurille",
+            "en": "Church of Saint-Maurille"
+          },
+          "coords": [
+            4.704212,
+            49.3974
+          ],
+          "category": "religious",
+          "arrive_at": "09:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das prächtige Renaissanceportal der Kirche Saint-Maurille, ein beeindruckendes Meisterwerk, und kommen Sie früh, um das schöne Morgenlicht zu genießen.",
+            "hu": "Csodálja meg a Saint-Maurille-templom csodálatos reneszánsz portálját, egy lenyűgöző építészeti remekművet, és érkezzen korán, hogy élvezhesse a gyönyörű reggeli fényeket.",
+            "ro": "Minunați-vă de magnificul portal renascentist al Bisericii Saint-Maurille, o capodoperă arhitecturală uimitoare, și sosiți devreme pentru a vă bucura de lumina dimineții.",
+            "en": "Marvel at the magnificent Renaissance portal of the Church of Saint-Maurille, a stunning architectural masterpiece, and arrive early to enjoy the beautiful morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Kino Les Tourelles",
+            "hu": "Les Tourelles mozi",
+            "ro": "Cinematograful Les Tourelles",
+            "en": "Les Tourelles Cinema"
+          },
+          "coords": [
+            4.700805,
+            49.395449
+          ],
+          "category": "museum",
+          "arrive_at": "10:24",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokale Kultur im Kino Les Tourelles, einem ikonischen Art-déco-Gebäude, und überprüfen Sie den Spielplan im Voraus, um einen unabhängigen Film zu sehen.",
+            "hu": "Fedezze fel a helyi kultúrát a Les Tourelles moziban, egy ikonikus Art Deco épületben, és előre ellenőrizze a műsorrendet, hogy elcsíphessen egy érdekes független filmet.",
+            "ro": "Descoperiți cultura locală la cinematograful Les Tourelles, o clădire Art Deco iconică, și verificați programul în avans pentru a viziona un film independent captivant.",
+            "en": "Discover local culture at Les Tourelles Cinema, an iconic Art Deco building that hosts regular screenings, and check the schedule in advance to catch an independent film."
+          }
+        },
+        {
+          "name": {
+            "de": "Grab von Roland Garros",
+            "hu": "Roland Garros sírja",
+            "ro": "Mormântul lui Roland Garros",
+            "en": "Tomb of Roland Garros"
+          },
+          "coords": [
+            4.689443,
+            49.397509
+          ],
+          "category": "historical",
+          "arrive_at": "12:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erweisen Sie am Grab von Roland Garros, dem berühmten Fliegerhelden auf dem Friedhof, die Ehre und suchen Sie nach dem einzigartigen Propellerdenkmal an seinem Grab.",
+            "hu": "Tisztelegjen Roland Garros sírjánál, a híres pilóta hős nyughelyénél a helyi temetőben, és keresse meg a pontos sírját jelző különleges, propeller formájú emlékművet.",
+            "ro": "Aduceți un omagiu la Mormântul lui Roland Garros, celebrul erou aviator din cimitirul local, și căutați monumentul unic în formă de elice care marchează mormântul său.",
+            "en": "Pay your respects at the Tomb of Roland Garros, the famous aviator hero resting in the local cemetery, and look for the unique propeller monument marking his exact grave."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Remi",
+            "hu": "Église Saint-Remi",
+            "ro": "Église Saint-Remi",
+            "en": "Église Saint-Remi"
+          },
+          "coords": [
+            4.700358,
+            49.411902
+          ],
+          "category": "religious",
+          "arrive_at": "14:05",
+          "stay_min": 70,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die ruhige Église Saint-Remi, eine elegante Steinkirche, die eine friedliche Flucht bietet, und nehmen Sie sich einen Moment Zeit für die Buntglasfenster.",
+            "hu": "Fedezze fel a nyugodt Église Saint-Remi elegáns kőtemplomát, amely békés menedéket nyújt, és szánjon egy percet a gyönyörű ólomüveg ablakok részleteinek megcsodálására.",
+            "ro": "Explorați senina Église Saint-Remi, o biserică elegantă din piatră ce oferă o evadare pașnică, și alocați-vă un moment pentru a aprecia superbele vitralii istorice.",
+            "en": "Explore the serene Église Saint-Remi, an elegant stone church offering a peaceful escape from the bustling streets, and take a moment to appreciate the stained glass windows."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt auf dem lebhaften Place Carnot, wo Sie die Atmosphäre aufsaugen können, bevor Sie das Portal der Kirche Saint-Maurille bewundern. Mittags gehen Sie nach Süden zum Kino Les Tourelles. Am Nachmittag denken Sie am Grab des Pioniers Roland Garros über Geschichte nach. Wenn der Abend naht, finden Sie Ruhe in der friedlichen Église Saint-Remi.",
+        "hu": "A reggel a nyüzsgő Place Carnot-n indul, ahol magába szívhatja a helyi hangulatot, majd megcsodálhatja a Saint-Maurille-templom lenyűgöző portálját. Délben dél felé veszi az irányt a Les Tourelles mozihoz. Délután a híres Roland Garros sírjánál merülhet el a történelemben. Az este közeledtével pedig megnyugvást találhat a békés Église Saint-Remi falai között.",
+        "ro": "Dimineața începe în animata Place Carnot, unde vă puteți bucura de atmosfera locală înainte de a admira portalul Bisericii Saint-Maurille. La amiază mergeți spre sud pentru a vedea cinematograful Les Tourelles. După-amiaza, reflectați la istorie la mormântul pionierului Roland Garros. Pe măsură ce se apropie seara, găsiți liniște la serena Église Saint-Remi.",
+        "en": "Your morning starts in the lively Place Carnot, where you can soak in the local atmosphere before admiring the stunning portal of the Church of Saint-Maurille. Midday takes you slightly south to appreciate local arts at Les Tourelles Cinema. In the afternoon, reflect on history at the tomb of aviation pioneer Roland Garros. As evening approaches, find peace at the serene Église Saint-Remi."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:07",
+      "total_km": 4.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Place Carnot",
+            "hu": "Place Carnot",
+            "ro": "Place Carnot",
+            "en": "Place Carnot"
+          },
+          "coords": [
+            4.700996,
+            49.397914
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die lebhafte Atmosphäre der Place Carnot, dem historischen Herzen der Stadt, und machen Sie unbedingt Halt in einem lokalen Café für ein frisches Gebäck.",
+            "hu": "Csodálja meg a Place Carnot élénk hangulatát, a város történelmi szívét, és mindenképpen térjen be egy helyi kávézóba egy friss süteményért, mielőtt tovább sétál.",
+            "ro": "Admirați atmosfera vibrantă din Place Carnot, inima istorică a orașului, și asigurați-vă că vă opriți la o cafenea locală pentru o patiserie proaspătă înainte de a continua.",
+            "en": "Admire the vibrant atmosphere of Place Carnot, the historical heart of the city, and make sure to stop by a local café to grab a fresh pastry before continuing your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Maurille",
+            "hu": "Saint-Maurille-templom",
+            "ro": "Biserica Saint-Maurille",
+            "en": "Church of Saint-Maurille"
+          },
+          "coords": [
+            4.704212,
+            49.3974
+          ],
+          "category": "religious",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das prächtige Renaissanceportal der Kirche Saint-Maurille, ein beeindruckendes Meisterwerk, und kommen Sie früh, um das schöne Morgenlicht zu genießen.",
+            "hu": "Csodálja meg a Saint-Maurille-templom csodálatos reneszánsz portálját, egy lenyűgöző építészeti remekművet, és érkezzen korán, hogy élvezhesse a gyönyörű reggeli fényeket.",
+            "ro": "Minunați-vă de magnificul portal renascentist al Bisericii Saint-Maurille, o capodoperă arhitecturală uimitoare, și sosiți devreme pentru a vă bucura de lumina dimineții.",
+            "en": "Marvel at the magnificent Renaissance portal of the Church of Saint-Maurille, a stunning architectural masterpiece, and arrive early to enjoy the beautiful morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Gloire à la 7 Division d'Infanterie",
+            "hu": "Gloire à la 7 Division d'Infanterie",
+            "ro": "Gloire à la 7 Division d'Infanterie",
+            "en": "Gloire à la 7 Division d'Infanterie"
+          },
+          "coords": [
+            4.727033,
+            49.397224
+          ],
+          "category": "monument",
+          "arrive_at": "10:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Stehen Sie vor dem Denkmal Gloire à la 7 Division d'Infanterie für tapfere Soldaten des Ersten Weltkriegs und lesen Sie die eingravierten Namen, um die Opfer zu ehren.",
+            "hu": "Álljon meg a Gloire à la 7 Division d'Infanterie emlékmű előtt, amely a hős katonáknak állít emléket, és olvassa el a neveket a helyi áldozatok mélyebb megértéséhez.",
+            "ro": "Stați în fața monumentului Gloire à la 7 Division d'Infanterie, ce onorează soldații curajoși, și citiți cu atenție numele înscrise pentru a înțelege sacrificiul local.",
+            "en": "Stand before the monument Gloire à la 7 Division d'Infanterie, which honors brave WWI soldiers, and carefully read the inscribed names to understand the local sacrifice."
+          }
+        },
+        {
+          "name": {
+            "de": "Monument Tchécoslovaques",
+            "hu": "Monument Tchécoslovaques",
+            "ro": "Monument Tchécoslovaques",
+            "en": "Monument Tchécoslovaques"
+          },
+          "coords": [
+            4.728124,
+            49.397077
+          ],
+          "category": "monument",
+          "arrive_at": "11:47",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Monument Tchécoslovaques, eine bewegende Hommage an ausländische Freiwillige, und kombinieren Sie diesen Halt mit dem nahegelegenen Infanteriedenkmal.",
+            "hu": "Látogasson el a Monument Tchécoslovaques-hez, amely a külföldi önkéntesek előtt tiszteleg, és kösse össze ezt a megállót a közeli gyalogsági emlékmű megtekintésével.",
+            "ro": "Vizitați Monumentul Tchécoslovaques, un tribut emoționant adus voluntarilor străini, și combinați această oprire cu memorialul infanteriei din apropiere pentru context.",
+            "en": "Visit the Monument Tchécoslovaques, a poignant tribute to foreign volunteers who fought in the region, and combine this stop with the nearby infantry memorial for context."
+          }
+        },
+        {
+          "name": {
+            "de": "Grab von Roland Garros",
+            "hu": "Roland Garros sírja",
+            "ro": "Mormântul lui Roland Garros",
+            "en": "Tomb of Roland Garros"
+          },
+          "coords": [
+            4.689443,
+            49.397509
+          ],
+          "category": "historical",
+          "arrive_at": "12:17",
+          "stay_min": 110,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Erweisen Sie am Grab von Roland Garros, dem berühmten Fliegerhelden auf dem Friedhof, die Ehre und suchen Sie nach dem einzigartigen Propellerdenkmal an seinem Grab.",
+            "hu": "Tisztelegjen Roland Garros sírjánál, a híres pilóta hős nyughelyénél a helyi temetőben, és keresse meg a pontos sírját jelző különleges, propeller formájú emlékművet.",
+            "ro": "Aduceți un omagiu la Mormântul lui Roland Garros, celebrul erou aviator din cimitirul local, și căutați monumentul unic în formă de elice care marchează mormântul său.",
+            "en": "Pay your respects at the Tomb of Roland Garros, the famous aviator hero resting in the local cemetery, and look for the unique propeller monument marking his exact grave."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour am Place Carnot, bevor Sie zur prächtigen Kirche Saint-Maurille fahren. Mittags radeln Sie zu den Denkmälern für die 7. Infanteriedivision und die tschechoslowakischen Freiwilligen. Verbringen Sie den Nachmittag am Grab von Roland Garros und denken Sie über die Geschichte der Luftfahrt nach. Beenden Sie den Tag mit einer ruhigen Fahrt ins Zentrum.",
+        "hu": "Kezdje a kerékpártúrát a Place Carnot-n, majd tekerjen el a csodálatos Saint-Maurille-templomhoz. Délben látogasson el a 7. gyalogos hadosztály és a csehszlovák önkéntesek katonai emlékműveihez. Töltse a délutánt Roland Garros végső nyughelyénél, a hősies repüléstörténeten merengve. Zárja az aktív napot egy kellemes, belvárosba vezető kerékpározással.",
+        "ro": "Începeți turul cu bicicleta în Place Carnot înainte de a merge la magnifica Biserică Saint-Maurille. La amiază, pedalați spre monumentele militare ce onorează Divizia 7 Infanterie și voluntarii cehoslovaci. Petreceți după-amiaza la mormântul lui Roland Garros, reflectând la istoria aviației. Încheiați ziua activă cu o plimbare ușoară înapoi spre centrul orașului.",
+        "en": "Begin your cycling tour at Place Carnot before riding to the magnificent Church of Saint-Maurille. By midday, pedal out to the powerful military monuments honoring the 7th Infantry Division and Czechoslovak volunteers. Spend your afternoon at the resting place of Roland Garros, reflecting on heroic aviation history. Wrap up your active day with a gentle ride back to the town center."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:44",
+      "total_km": 10.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Place Carnot",
+            "hu": "Place Carnot",
+            "ro": "Place Carnot",
+            "en": "Place Carnot"
+          },
+          "coords": [
+            4.700996,
+            49.397914
+          ],
+          "category": "square",
+          "arrive_at": "09:10",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die lebhafte Atmosphäre der Place Carnot, dem historischen Herzen der Stadt, und machen Sie unbedingt Halt in einem lokalen Café für ein frisches Gebäck.",
+            "hu": "Csodálja meg a Place Carnot élénk hangulatát, a város történelmi szívét, és mindenképpen térjen be egy helyi kávézóba egy friss süteményért, mielőtt tovább sétál.",
+            "ro": "Admirați atmosfera vibrantă din Place Carnot, inima istorică a orașului, și asigurați-vă că vă opriți la o cafenea locală pentru o patiserie proaspătă înainte de a continua.",
+            "en": "Admire the vibrant atmosphere of Place Carnot, the historical heart of the city, and make sure to stop by a local café to grab a fresh pastry before continuing your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Butte de Théline",
+            "hu": "Butte de Théline",
+            "ro": "Butte de Théline",
+            "en": "Butte de Théline"
+          },
+          "coords": [
+            4.667641,
+            49.391806
+          ],
+          "category": "historical",
+          "arrive_at": "09:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Wandern Sie auf die historische Butte de Théline, um Überreste strategischer Kriegspositionen zu erkunden, und tragen Sie festes Schuhwerk für das unebene Gelände.",
+            "hu": "Túrázzon fel a történelmi Butte de Théline-re, hogy felfedezze a stratégiai katonai pozíciók maradványait, és viseljen túracipőt az egyenetlen, füves terep miatt.",
+            "ro": "Urcați pe istorica Butte de Théline pentru a explora rămășițele pozițiilor de război strategice și purtați încălțăminte robustă pentru terenul cu iarbă denivelat.",
+            "en": "Hike up the historical Butte de Théline to explore remnants of strategic wartime positions, and wear sturdy shoes to safely navigate the uneven grassy terrain at the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame",
+            "hu": "Église Notre-Dame",
+            "ro": "Église Notre-Dame",
+            "en": "Église Notre-Dame"
+          },
+          "coords": [
+            4.727089,
+            49.408531
+          ],
+          "category": "religious",
+          "arrive_at": "11:11",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markante Silhouette der Église Notre-Dame mit ihren verschiedenen Architekturstilen und besuchen Sie sie am späten Vormittag für das beste Sonnenlicht.",
+            "hu": "Csodálja meg az Église Notre-Dame feltűnő sziluettjét, amely ötvözi a különböző építészeti stílusokat, és látogasson el késő délelőtt, hogy lássa a napfényes belső teret.",
+            "ro": "Admirați silueta uimitoare a Bisericii Notre-Dame, combinând stiluri arhitecturale distincte, și vizitați târziu dimineața pentru a vedea interiorul iluminat de soare.",
+            "en": "Admire the striking silhouette of Église Notre-Dame, blending distinct architectural styles, and visit during the late morning to see the interior illuminated by sunlight."
+          }
+        },
+        {
+          "name": {
+            "de": "Gloire à la 7 Division d'Infanterie",
+            "hu": "Gloire à la 7 Division d'Infanterie",
+            "ro": "Gloire à la 7 Division d'Infanterie",
+            "en": "Gloire à la 7 Division d'Infanterie"
+          },
+          "coords": [
+            4.727033,
+            49.397224
+          ],
+          "category": "monument",
+          "arrive_at": "11:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Stehen Sie vor dem Denkmal Gloire à la 7 Division d'Infanterie für tapfere Soldaten des Ersten Weltkriegs und lesen Sie die eingravierten Namen, um die Opfer zu ehren.",
+            "hu": "Álljon meg a Gloire à la 7 Division d'Infanterie emlékmű előtt, amely a hős katonáknak állít emléket, és olvassa el a neveket a helyi áldozatok mélyebb megértéséhez.",
+            "ro": "Stați în fața monumentului Gloire à la 7 Division d'Infanterie, ce onorează soldații curajoși, și citiți cu atenție numele înscrise pentru a înțelege sacrificiul local.",
+            "en": "Stand before the monument Gloire à la 7 Division d'Infanterie, which honors brave WWI soldiers, and carefully read the inscribed names to understand the local sacrifice."
+          }
+        },
+        {
+          "name": {
+            "de": "Monument Tchécoslovaques",
+            "hu": "Monument Tchécoslovaques",
+            "ro": "Monument Tchécoslovaques",
+            "en": "Monument Tchécoslovaques"
+          },
+          "coords": [
+            4.728124,
+            49.397077
+          ],
+          "category": "monument",
+          "arrive_at": "13:15",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie das Monument Tchécoslovaques, eine bewegende Hommage an ausländische Freiwillige, und kombinieren Sie diesen Halt mit dem nahegelegenen Infanteriedenkmal.",
+            "hu": "Látogasson el a Monument Tchécoslovaques-hez, amely a külföldi önkéntesek előtt tiszteleg, és kösse össze ezt a megállót a közeli gyalogsági emlékmű megtekintésével.",
+            "ro": "Vizitați Monumentul Tchécoslovaques, un tribut emoționant adus voluntarilor străini, și combinați această oprire cu memorialul infanteriei din apropiere pentru context.",
+            "en": "Visit the Monument Tchécoslovaques, a poignant tribute to foreign volunteers who fought in the region, and combine this stop with the nearby infantry memorial for context."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Maurille",
+            "hu": "Saint-Maurille-templom",
+            "ro": "Biserica Saint-Maurille",
+            "en": "Church of Saint-Maurille"
+          },
+          "coords": [
+            4.704212,
+            49.3974
+          ],
+          "category": "religious",
+          "arrive_at": "13:34",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie das prächtige Renaissanceportal der Kirche Saint-Maurille, ein beeindruckendes Meisterwerk, und kommen Sie früh, um das schöne Morgenlicht zu genießen.",
+            "hu": "Csodálja meg a Saint-Maurille-templom csodálatos reneszánsz portálját, egy lenyűgöző építészeti remekművet, és érkezzen korán, hogy élvezhesse a gyönyörű reggeli fényeket.",
+            "ro": "Minunați-vă de magnificul portal renascentist al Bisericii Saint-Maurille, o capodoperă arhitecturală uimitoare, și sosiți devreme pentru a vă bucura de lumina dimineții.",
+            "en": "Marvel at the magnificent Renaissance portal of the Church of Saint-Maurille, a stunning architectural masterpiece, and arrive early to enjoy the beautiful morning light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zuerst zum Place Carnot für einen Kaffee, dann zur historischen Butte de Théline, um die Höhen zu erkunden. Mittags besuchen Sie die schöne Église Notre-Dame und die nahegelegenen Kriegsdenkmäler der Infanterie und der tschechoslowakischen Truppen. Beenden Sie Ihre Tour an der Kirche Saint-Maurille und genießen Sie ihre Renaissance-Details.",
+        "hu": "Először hajtson a Place Carnot-hoz egy gyors kávéra, majd vegye az irányt a történelmi Butte de Théline felé, hogy felfedezze a festői magaslatokat. Délben látogasson el az Église Notre-Dame-hoz és a közeli katonai emlékművekhez. Fejezze be az autós túrát a lenyűgöző Saint-Maurille-templomnál, megcsodálva annak finoman kidolgozott reneszánsz részleteit.",
+        "ro": "Conduceți spre Place Carnot pentru o cafea, apoi mergeți la istorica Butte de Théline. La amiază vizitați frumoasa Biserică Notre-Dame și memorialele de război din apropiere dedicate infanteriei și forțelor cehoslovace. Încheiați turul la Biserica Saint-Maurille, bucurându-vă de detaliile sale renascentiste.",
+        "en": "Drive first to Place Carnot for a quick coffee, then head out to the historic Butte de Théline to explore the scenic heights. Midday involves visiting the beautiful Église Notre-Dame and the nearby war memorials dedicated to the infantry and Czechoslovak forces. Conclude your driving tour at the stunning Church of Saint-Maurille, soaking in its intricate Renaissance details."
+      }
+    }
+  }
+}

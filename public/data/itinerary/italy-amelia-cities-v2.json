@@ -1,0 +1,543 @@
+{
+  "city_id": "italy-amelia-cities-v2",
+  "anchor": {
+    "name": "Amelia",
+    "coords": [
+      12.411985,
+      42.558862
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:42",
+      "total_km": 1.04,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Porta di Pantanelli",
+            "hu": "Porta di Pantanelli",
+            "ro": "Porta di Pantanelli",
+            "en": "Porta di Pantanelli"
+          },
+          "coords": [
+            12.4147,
+            42.554033
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses historische Stadttor, das Amelia einst vor Invasoren schützte, und achten Sie im Inneren auf die alten Steinmetzzeichen an den Bögen.",
+            "hu": "Csodálja meg ezt a történelmi városkaput, amely egykor védte Ameliát a betolakodóktól, és feltétlenül keresse meg az ősi falazatnyomokat a belső árkádokon.",
+            "ro": "Admirați această poartă istorică a orașului care proteja odinioară Amelia de invadatori și asigurați-vă că verificați arcadele interioare pentru marcaje antice.",
+            "en": "Admire this grand historical city gate which once protected Amelia from invaders, and be sure to check the interior arches for ancient masonry marks."
+          }
+        },
+        {
+          "name": {
+            "de": "Scuderia Traguardo - Museo motoristico d'epoca",
+            "hu": "Scuderia Traguardo - Museo motoristico d'epoca",
+            "ro": "Scuderia Traguardo - Museo motoristico d'epoca",
+            "en": "Scuderia Traguardo - Museo motoristico d'epoca"
+          },
+          "coords": [
+            12.415777,
+            42.553243
+          ],
+          "category": "museum",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses einzigartige Oldtimer-Museum mit klassischen italienischen Autos, aber rufen Sie vorher an, da die Öffnungszeiten sehr unregelmäßig sein können.",
+            "hu": "Fedezze fel ezt a klasszikus olasz autókat bemutató egyedülálló veterán autómúzeumot, de ne felejtsen el előre telefonálni, mert a nyitvatartás elég rendszertelen.",
+            "ro": "Explorați acest muzeu auto vintage unic care expune mașini clasice italiene, dar amintiți-vă să sunați în prealabil, deoarece programul poate fi destul de neregulat.",
+            "en": "Explore this unique vintage motor museum showcasing classic Italian cars, but remember to call ahead as their opening hours can be quite irregular."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Civico Archeologico e Pinacoteca \"Edilberto Rosa\"",
+            "hu": "Museo Civico Archeologico e Pinacoteca \"Edilberto Rosa\"",
+            "ro": "Museo Civico Archeologico e Pinacoteca \"Edilberto Rosa\"",
+            "en": "Museo Civico Archeologico e Pinacoteca \"Edilberto Rosa\""
+          },
+          "coords": [
+            12.417096,
+            42.554212
+          ],
+          "category": "museum",
+          "arrive_at": "12:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die atemberaubende Bronzestatue des Germanicus in diesem reichen archäologischen Museum und holen Sie sich einen Audioguide für tiefere Einblicke.",
+            "hu": "Csodálja meg a Germanicus lenyűgöző bronzszobrát ebben a gazdag régészeti múzeumban, és mindenképpen kérjen audioguide-ot a történelem teljes megértéséhez.",
+            "ro": "Minunați-vă de uimitoarea statuie din bronz a lui Germanicus din acest bogat muzeu arheologic și luați un ghid audio pentru a-i înțelege pe deplin istoria.",
+            "en": "Marvel at the stunning bronze statue of Germanicus housed within this rich archaeological museum, and grab an audio guide to fully understand its history."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Civica",
+            "hu": "Torre Civica",
+            "ro": "Torre Civica",
+            "en": "Torre Civica"
+          },
+          "coords": [
+            12.414547,
+            42.557284
+          ],
+          "category": "historical",
+          "arrive_at": "14:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besteigen Sie den imposanten Bürgerturm, um einen atemberaubenden Panoramablick auf die umbrische Landschaft zu genießen, aber tragen Sie bequeme Schuhe.",
+            "hu": "Mássza meg az impozáns polgári tornyot, hogy élvezze az umbriai vidékre nyíló lélegzetelállító panorámát, de viseljen kényelmes cipőt a meredek lépcsőkhöz.",
+            "ro": "Urcați pe impunătorul turn civic pentru a vă bucura de o vedere panoramică uluitoare a peisajului din Umbria, dar purtați pantofi comozi pentru treptele abrupte.",
+            "en": "Climb the imposing civic tower to enjoy a breathtaking panoramic view of the Umbrian countryside, but wear comfortable shoes for the steep, uneven steps."
+          }
+        },
+        {
+          "name": {
+            "de": "Cisterne Romane",
+            "hu": "Cisterne Romane",
+            "ro": "Cisterne Romane",
+            "en": "Cisterne Romane"
+          },
+          "coords": [
+            12.412177,
+            42.558556
+          ],
+          "category": "landmark",
+          "arrive_at": "15:25",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Steigen Sie in diese erstaunlich gut erhaltenen römischen Zisternen hinab, die die Stadt einst mit Wasser versorgten, und bringen Sie eine leichte Jacke mit.",
+            "hu": "Ereszkedjen le ezekbe a hihetetlenül épen maradt földalatti római ciszternákba, és hozzon magával egy könnyű kabátot, mert lent elég hűvös van a nyári hőségben is.",
+            "ro": "Coborâți în aceste cisterne romane subterane incredibil de bine conservate care alimentau odată orașul cu apă și aduceți o jachetă ușoară, deoarece este răcoare.",
+            "en": "Descend into these incredibly preserved underground Roman cisterns that once supplied water to the city, and bring a light jacket as it gets chilly down there."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Sociale",
+            "hu": "Teatro Sociale",
+            "ro": "Teatro Sociale",
+            "en": "Teatro Sociale"
+          },
+          "coords": [
+            12.410856,
+            42.558329
+          ],
+          "category": "cultural",
+          "arrive_at": "15:52",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Erleben Sie die elegante Akustik dieses seltenen Holztheaters aus dem 18. Jahrhundert und versuchen Sie, im Voraus eine Führung für den Backstage-Bereich zu buchen.",
+            "hu": "Tapasztalja meg ennek a ritka 18. századi fatemplomnak az elegáns akusztikáját, és próbáljon előre vezetett túrát foglalni a csodálatos rejtett kulisszák mögé.",
+            "ro": "Experimentați acustica elegantă a acestui rar teatru din lemn din secolul al XVIII-lea și încercați să rezervați un tur ghidat pentru culisele magnifice ascunse.",
+            "en": "Experience the elegant acoustics of this rare 18th-century wooden theater, and try to book a guided tour in advance to see the magnificent hidden backstage areas."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am historischen Südtor und führt Sie in das Herz der Geschichte von Amelia. Die Mittagszeit ist der Erkundung der großartigen archäologischen Schätze im Stadtmuseum vorbehalten. Am Nachmittag erobern Sie den hoch aufragenden Glockenturm, bevor Sie tief unter die Erde in die römischen Zisternen abtauchen. Der Abend endet elegant im sozialen Theater.",
+        "hu": "A reggel a történelmi déli kapunál kezdődik, bevezetve Amelia szívébe és ókori történelmébe. A délidőt a városi múzeum csodálatos régészeti kincseinek felfedezésére szánjuk. Délután meghódítja a tornyosuló polgári harangtornyot, mielőtt mélyen a hatalmas római ciszternákba ereszkedne. Az este elegánsan a társadalmi színháznál ér véget, ahol megpihenhet.",
+        "ro": "Dimineața începe la poarta istorică de sud, conducându-vă în inima istoriei antice a orașului Amelia. Mijlocul zilei este rezervat explorării comorilor arheologice magnifice din muzeul civic. După-amiaza, veți cuceri turnul clopotniței civice înainte de a vă scufunda adânc sub pământ în vastele cisterne romane. Seara se încheie elegant la teatrul social.",
+        "en": "Morning begins at the historic southern gate, leading you into the heart of Amelia's vintage and ancient history. Midday is reserved for exploring the magnificent archaeological treasures housed in the civic museum. In the afternoon, you will conquer the towering civic bell tower before diving deep underground into the vast Roman cisterns. Evening concludes elegantly at the social theater."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:59",
+      "total_km": 2.08,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Scoglio del Frullano",
+            "hu": "Scoglio del Frullano",
+            "ro": "Scoglio del Frullano",
+            "en": "Scoglio del Frullano"
+          },
+          "coords": [
+            12.412899,
+            42.560581
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie an dieser natürlichen Felsformation mit ruhigem Blick außerhalb der Stadtmauern, die der perfekte Ort für ein Picknick oder für Fotografie ist.",
+            "hu": "Pihenjen ezen a békés természetes sziklaformáción, amely nyugodt kilátást kínál a városfalakon kívülre, tökéletes hely egy csendes reggeli piknikhez vagy fotózáshoz.",
+            "ro": "Relaxați-vă la această formațiune stâncoasă naturală liniștită care oferă vederi senine în afara zidurilor orașului, perfectă pentru un picnic matinal liniștit.",
+            "en": "Relax at this peaceful natural rock formation offering serene views outside the city walls, making it the perfect spot for a quiet morning picnic or photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Sociale",
+            "hu": "Teatro Sociale",
+            "ro": "Teatro Sociale",
+            "en": "Teatro Sociale"
+          },
+          "coords": [
+            12.410856,
+            42.558329
+          ],
+          "category": "cultural",
+          "arrive_at": "10:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die elegante Akustik dieses seltenen Holztheaters aus dem 18. Jahrhundert und versuchen Sie, im Voraus eine Führung für den Backstage-Bereich zu buchen.",
+            "hu": "Tapasztalja meg ennek a ritka 18. századi fatemplomnak az elegáns akusztikáját, és próbáljon előre vezetett túrát foglalni a csodálatos rejtett kulisszák mögé.",
+            "ro": "Experimentați acustica elegantă a acestui rar teatru din lemn din secolul al XVIII-lea și încercați să rezervați un tur ghidat pentru culisele magnifice ascunse.",
+            "en": "Experience the elegant acoustics of this rare 18th-century wooden theater, and try to book a guided tour in advance to see the magnificent hidden backstage areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Cisterne Romane",
+            "hu": "Cisterne Romane",
+            "ro": "Cisterne Romane",
+            "en": "Cisterne Romane"
+          },
+          "coords": [
+            12.412177,
+            42.558556
+          ],
+          "category": "landmark",
+          "arrive_at": "11:48",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Steigen Sie in diese erstaunlich gut erhaltenen römischen Zisternen hinab, die die Stadt einst mit Wasser versorgten, und bringen Sie eine leichte Jacke mit.",
+            "hu": "Ereszkedjen le ezekbe a hihetetlenül épen maradt földalatti római ciszternákba, és hozzon magával egy könnyű kabátot, mert lent elég hűvös van a nyári hőségben is.",
+            "ro": "Coborâți în aceste cisterne romane subterane incredibil de bine conservate care alimentau odată orașul cu apă și aduceți o jachetă ușoară, deoarece este răcoare.",
+            "en": "Descend into these incredibly preserved underground Roman cisterns that once supplied water to the city, and bring a light jacket as it gets chilly down there."
+          }
+        },
+        {
+          "name": {
+            "de": "Sala dello Zodiaco",
+            "hu": "Sala dello Zodiaco",
+            "ro": "Sala dello Zodiaco",
+            "en": "Sala dello Zodiaco"
+          },
+          "coords": [
+            12.413162,
+            42.556542
+          ],
+          "category": "landmark",
+          "arrive_at": "12:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie die lebendigen astrologischen Fresken, die die Decke dieses historischen Saals schmücken, und kommen Sie mittags, wenn das Licht die Kunst erhellt.",
+            "hu": "Csodálja meg a történelmi terem mennyezetét díszítő élénk asztrológiai freskókat, és látogasson el délben, amikor a természetes fény gyönyörűen megvilágítja a művészetet.",
+            "ro": "Admirați frescele astrologice vibrante care împodobesc tavanul acestei săli istorice și vizitați la mijlocul zilei, când lumina naturală luminează frumos arta.",
+            "en": "Admire the vibrant astrological frescoes adorning the ceiling of this historic hall, and visit during mid-day when the natural light beautifully illuminates the art."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo dei mosaici e del vino",
+            "hu": "Museo dei mosaici e del vino",
+            "ro": "Museo dei mosaici e del vino",
+            "en": "Museo dei mosaici e del vino"
+          },
+          "coords": [
+            12.416633,
+            42.555635
+          ],
+          "category": "museum",
+          "arrive_at": "12:42",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem charmanten Museum faszinierende alte Mosaike neben dem reichen Weinerbe der Region und verpassen Sie nicht die Weinprobe am Ende.",
+            "hu": "Fedezze fel a bonyolult ókori mozaikokat és a régió gazdag borkészítési örökségét ebben a bájos múzeumban, és semmiképp se hagyja ki a helyi borkóstolót a végén.",
+            "ro": "Descoperiți mozaicuri antice complicate alături de bogata moștenire a vinificației din regiune în acest muzeu fermecător și nu săriți peste degustarea de vinuri.",
+            "en": "Discover intricate ancient mosaics alongside the region's rich winemaking heritage in this charming museum, and do not skip the local wine tasting at the very end."
+          }
+        },
+        {
+          "name": {
+            "de": "Porta di Pantanelli",
+            "hu": "Porta di Pantanelli",
+            "ro": "Porta di Pantanelli",
+            "en": "Porta di Pantanelli"
+          },
+          "coords": [
+            12.4147,
+            42.554033
+          ],
+          "category": "historical",
+          "arrive_at": "14:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses historische Stadttor, das Amelia einst vor Invasoren schützte, und achten Sie im Inneren auf die alten Steinmetzzeichen an den Bögen.",
+            "hu": "Csodálja meg ezt a történelmi városkaput, amely egykor védte Ameliát a betolakodóktól, és feltétlenül keresse meg az ősi falazatnyomokat a belső árkádokon.",
+            "ro": "Admirați această poartă istorică a orașului care proteja odinioară Amelia de invadatori și asigurați-vă că verificați arcadele interioare pentru marcaje antice.",
+            "en": "Admire this grand historical city gate which once protected Amelia from invaders, and be sure to check the interior arches for ancient masonry marks."
+          }
+        },
+        {
+          "name": {
+            "de": "Lampeggiante Blu",
+            "hu": "Lampeggiante Blu",
+            "ro": "Lampeggiante Blu",
+            "en": "Lampeggiante Blu"
+          },
+          "coords": [
+            12.422007,
+            42.548852
+          ],
+          "category": "museum",
+          "arrive_at": "15:49",
+          "stay_min": 130,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.83,
+          "tip_5lang": {
+            "de": "Untersuchen Sie eine vielseitige Sammlung von Polizei- und Blaulichtern in diesem skurrilen Museum und sprechen Sie mit dem leidenschaftlichen Besitzer.",
+            "hu": "Vizsgálja meg a rendőrségi és sürgősségi járművek lámpáinak eklektikus gyűjteményét ebben a furcsa múzeumban, és beszélgessen a szenvedélyes tulajdonossal.",
+            "ro": "Examinați o colecție eclectică de lumini de poliție și vehicule de urgență în acest muzeu ciudat și discutați cu proprietarul pasionat care împărtășește povești.",
+            "en": "Examine an eclectic collection of police and emergency vehicle lights in this quirky museum, and talk to the passionate owner who happily shares fascinating stories."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour beginnt mit dem ruhigen Naturerlebnis am Scoglio del Frullano, bevor es zum historischen Theater geht. Mittags besuchen Sie die bemerkenswerten römischen Zisternen und den lebendigen Sternzeichensaal. Nachmittags fahren Sie zu faszinierenden Mosaiken, dem Weinmuseum und dem legendären Stadttor. Der Abend endet skurril im einzigartigen Blaulichtmuseum.",
+        "hu": "A kerékpáros utazás a Scoglio del Frullano békés természeti kilátásával kezdődik, mielőtt a történelmi színházhoz indulna. A délidő a figyelemre méltó földalatti római ciszternákon és az élénk állatövi termen keresztül vezet. A délutáni pedálozás lenyűgöző mozaikokhoz, egy helyi bormúzeumhoz és az ikonikus városkapuhoz vezet. Az este a különleges kékfény múzeum meglátogatásával zárul.",
+        "ro": "Călătoria dvs. cu bicicleta începe cu priveliștile naturale senine de la Scoglio del Frullano înainte de a vă îndrepta spre teatrul social. Mijlocul zilei vă poartă prin remarcabilele cisterne romane subterane și vibranta sală a zodiacului. Pedalarea de după-amiază duce la mozaicuri fascinante și poarta orașului. Seara se termină cu o vizită ciudată la muzeul luminii albastre.",
+        "en": "Your cycling journey starts with the serene natural views at Scoglio del Frullano before heading to the historic social theater. Midday takes you through the remarkable subterranean Roman cisterns and the vibrant zodiac hall. Afternoon pedaling leads to fascinating mosaics, a local wine museum, and the iconic city gate. Evening finishes with a quirky visit to the unique blue light museum."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:23",
+      "total_km": 2.39,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Lampeggiante Blu",
+            "hu": "Lampeggiante Blu",
+            "ro": "Lampeggiante Blu",
+            "en": "Lampeggiante Blu"
+          },
+          "coords": [
+            12.422007,
+            42.548852
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Untersuchen Sie eine vielseitige Sammlung von Polizei- und Blaulichtern in diesem skurrilen Museum und sprechen Sie mit dem leidenschaftlichen Besitzer.",
+            "hu": "Vizsgálja meg a rendőrségi és sürgősségi járművek lámpáinak eklektikus gyűjteményét ebben a furcsa múzeumban, és beszélgessen a szenvedélyes tulajdonossal.",
+            "ro": "Examinați o colecție eclectică de lumini de poliție și vehicule de urgență în acest muzeu ciudat și discutați cu proprietarul pasionat care împărtășește povești.",
+            "en": "Examine an eclectic collection of police and emergency vehicle lights in this quirky museum, and talk to the passionate owner who happily shares fascinating stories."
+          }
+        },
+        {
+          "name": {
+            "de": "Monte San Salvatore",
+            "hu": "Monte San Salvatore",
+            "ro": "Monte San Salvatore",
+            "en": "Monte San Salvatore"
+          },
+          "coords": [
+            12.424384,
+            42.552722
+          ],
+          "category": "natural",
+          "arrive_at": "10:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Wandern Sie auf diesen malerischen Berg, um antike Ruinen im üppigen Grün zu erkunden, und bringen Sie viel Wasser mit, da der Weg oft ungeschützt in der Sonne liegt.",
+            "hu": "Mássza meg ezt a festői hegyet, hogy felfedezze a buja növényzettel körülvett ősi romokat, és hozzon magával sok vizet, mivel az ösvényt erősen éri a nyári nap.",
+            "ro": "Urcați pe acest munte pitoresc pentru a explora ruine antice înconjurate de verdeață luxuriantă și aduceți multă apă, deoarece traseul poate fi expus soarelui.",
+            "en": "Hike up this scenic natural mount to explore ancient ruins surrounded by lush greenery, and bring plenty of water as the trail can be quite exposed to the summer sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Scuderia Traguardo - Museo motoristico d'epoca",
+            "hu": "Scuderia Traguardo - Museo motoristico d'epoca",
+            "ro": "Scuderia Traguardo - Museo motoristico d'epoca",
+            "en": "Scuderia Traguardo - Museo motoristico d'epoca"
+          },
+          "coords": [
+            12.415777,
+            42.553243
+          ],
+          "category": "museum",
+          "arrive_at": "12:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses einzigartige Oldtimer-Museum mit klassischen italienischen Autos, aber rufen Sie vorher an, da die Öffnungszeiten sehr unregelmäßig sein können.",
+            "hu": "Fedezze fel ezt a klasszikus olasz autókat bemutató egyedülálló veterán autómúzeumot, de ne felejtsen el előre telefonálni, mert a nyitvatartás elég rendszertelen.",
+            "ro": "Explorați acest muzeu auto vintage unic care expune mașini clasice italiene, dar amintiți-vă să sunați în prealabil, deoarece programul poate fi destul de neregulat.",
+            "en": "Explore this unique vintage motor museum showcasing classic Italian cars, but remember to call ahead as their opening hours can be quite irregular."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Civico Archeologico e Pinacoteca \"Edilberto Rosa\"",
+            "hu": "Museo Civico Archeologico e Pinacoteca \"Edilberto Rosa\"",
+            "ro": "Museo Civico Archeologico e Pinacoteca \"Edilberto Rosa\"",
+            "en": "Museo Civico Archeologico e Pinacoteca \"Edilberto Rosa\""
+          },
+          "coords": [
+            12.417096,
+            42.554212
+          ],
+          "category": "museum",
+          "arrive_at": "13:49",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die atemberaubende Bronzestatue des Germanicus in diesem reichen archäologischen Museum und holen Sie sich einen Audioguide für tiefere Einblicke.",
+            "hu": "Csodálja meg a Germanicus lenyűgöző bronzszobrát ebben a gazdag régészeti múzeumban, és mindenképpen kérjen audioguide-ot a történelem teljes megértéséhez.",
+            "ro": "Minunați-vă de uimitoarea statuie din bronz a lui Germanicus din acest bogat muzeu arheologic și luați un ghid audio pentru a-i înțelege pe deplin istoria.",
+            "en": "Marvel at the stunning bronze statue of Germanicus housed within this rich archaeological museum, and grab an audio guide to fully understand its history."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Civica",
+            "hu": "Torre Civica",
+            "ro": "Torre Civica",
+            "en": "Torre Civica"
+          },
+          "coords": [
+            12.414547,
+            42.557284
+          ],
+          "category": "historical",
+          "arrive_at": "15:30",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besteigen Sie den imposanten Bürgerturm, um einen atemberaubenden Panoramablick auf die umbrische Landschaft zu genießen, aber tragen Sie bequeme Schuhe.",
+            "hu": "Mássza meg az impozáns polgári tornyot, hogy élvezze az umbriai vidékre nyíló lélegzetelállító panorámát, de viseljen kényelmes cipőt a meredek lépcsőkhöz.",
+            "ro": "Urcați pe impunătorul turn civic pentru a vă bucura de o vedere panoramică uluitoare a peisajului din Umbria, dar purtați pantofi comozi pentru treptele abrupte.",
+            "en": "Climb the imposing civic tower to enjoy a breathtaking panoramic view of the Umbrian countryside, but wear comfortable shoes for the steep, uneven steps."
+          }
+        },
+        {
+          "name": {
+            "de": "Cisterne Romane",
+            "hu": "Cisterne Romane",
+            "ro": "Cisterne Romane",
+            "en": "Cisterne Romane"
+          },
+          "coords": [
+            12.412177,
+            42.558556
+          ],
+          "category": "landmark",
+          "arrive_at": "16:51",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Steigen Sie in diese erstaunlich gut erhaltenen römischen Zisternen hinab, die die Stadt einst mit Wasser versorgten, und bringen Sie eine leichte Jacke mit.",
+            "hu": "Ereszkedjen le ezekbe a hihetetlenül épen maradt földalatti római ciszternákba, és hozzon magával egy könnyű kabátot, mert lent elég hűvös van a nyári hőségben is.",
+            "ro": "Coborâți în aceste cisterne romane subterane incredibil de bine conservate care alimentau odată orașul cu apă și aduceți o jachetă ușoară, deoarece este răcoare.",
+            "en": "Descend into these incredibly preserved underground Roman cisterns that once supplied water to the city, and bring a light jacket as it gets chilly down there."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Sociale",
+            "hu": "Teatro Sociale",
+            "ro": "Teatro Sociale",
+            "en": "Teatro Sociale"
+          },
+          "coords": [
+            12.410856,
+            42.558329
+          ],
+          "category": "cultural",
+          "arrive_at": "17:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Erleben Sie die elegante Akustik dieses seltenen Holztheaters aus dem 18. Jahrhundert und versuchen Sie, im Voraus eine Führung für den Backstage-Bereich zu buchen.",
+            "hu": "Tapasztalja meg ennek a ritka 18. századi fatemplomnak az elegáns akusztikáját, és próbáljon előre vezetett túrát foglalni a csodálatos rejtett kulisszák mögé.",
+            "ro": "Experimentați acustica elegantă a acestui rar teatru din lemn din secolul al XVIII-lea și încercați să rezervați un tur ghidat pentru culisele magnifice ascunse.",
+            "en": "Experience the elegant acoustics of this rare 18th-century wooden theater, and try to book a guided tour in advance to see the magnificent hidden backstage areas."
+          }
+        },
+        {
+          "name": {
+            "de": "Scoglio del Frullano",
+            "hu": "Scoglio del Frullano",
+            "ro": "Scoglio del Frullano",
+            "en": "Scoglio del Frullano"
+          },
+          "coords": [
+            12.412899,
+            42.560581
+          ],
+          "category": "natural",
+          "arrive_at": "18:38",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie an dieser natürlichen Felsformation mit ruhigem Blick außerhalb der Stadtmauern, die der perfekte Ort für ein Picknick oder für Fotografie ist.",
+            "hu": "Pihenjen ezen a békés természetes sziklaformáción, amely nyugodt kilátást kínál a városfalakon kívülre, tökéletes hely egy csendes reggeli piknikhez vagy fotózáshoz.",
+            "ro": "Relaxați-vă la această formațiune stâncoasă naturală liniștită care oferă vederi senine în afara zidurilor orașului, perfectă pentru un picnic matinal liniștit.",
+            "en": "Relax at this peaceful natural rock formation offering serene views outside the city walls, making it the perfect spot for a quiet morning picnic or photography."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt außerhalb der Stadt im skurrilen Blaulichtmuseum, bevor Sie hinauf zum Monte San Salvatore fahren. Die Mittagspause verbringen Sie damit, Oldtimer und archäologische Funde im historischen Kern zu bewundern. Am Nachmittag machen Sie einen kurzen Halt am Bürgerturm und den antiken Zisternen. Der Abend klingt wunderbar am Theater und dem malerischen Frullano-Felsen aus.",
+        "hu": "A reggel kicsivel a városon kívül kezdődik a különleges kékfény múzeumban, majd felhajt a Monte San Salvatore gyönyörű természeti ösvényeihez. A délidőt a klasszikus veterán autók és a történelmi magban található nagyszerű régészeti leletek megcsodálásával töltjük. A délután egy gyors megállót tesz lehetővé a polgári toronynál. Az este a színháznál és a festői Frullano sziklánál zárul.",
+        "ro": "Dimineața începe ușor în afara orașului, la muzeul ciudat al luminii albastre, înainte de a conduce spre frumoasele trasee naturale din Monte San Salvatore. Mijlocul zilei este petrecut admirând mașini clasice și descoperiri arheologice în centrul istoric. După-amiaza permite o oprire rapidă la turnul civic. Seara se încheie frumos la teatru și la stânca pitorească Frullano.",
+        "en": "Morning begins slightly out of town at the quirky blue light museum before driving up to the beautiful natural trails of Monte San Salvatore. Midday is spent admiring classic vintage cars and grand archaeological finds in the historic core. Afternoon allows for a quick stop at the civic tower and ancient cisterns. Evening wraps up beautifully at the theater and the scenic Frullano rock."
+      }
+    }
+  }
+}

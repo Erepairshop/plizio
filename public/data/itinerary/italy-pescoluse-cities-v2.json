@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-pescoluse-cities-v2",
+  "anchor": {
+    "name": "Pescoluse",
+    "coords": [
+      18.25458,
+      39.83787
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:36",
+      "total_km": 2.18,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa del Beato Giovanni XXIII",
+            "hu": "Chiesa del Beato Giovanni XXIII",
+            "ro": "Chiesa del Beato Giovanni XXIII",
+            "en": "Chiesa del Beato Giovanni XXIII"
+          },
+          "coords": [
+            18.252804,
+            39.839595
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die modernen architektonischen Linien dieser lokalen Pfarrkirche, bevor Sie Ihre Reise fortsetzen, und überprüfen Sie das Schwarze Brett für Gemeindeereignisse.",
+            "hu": "Csodálja meg e helyi plébániatemplom modern építészeti vonalait utazása folytatása előtt, és pillantson rá a hirdetőtáblára a közösségi eseményekért.",
+            "ro": "Admirați liniile arhitecturale moderne ale acestei biserici parohiale locale înainte de a vă continua călătoria și verificați avizierul pentru evenimente comunitare.",
+            "en": "Admire the modern architectural lines of this local parish church before continuing your journey, and check the bulletin board for community event times."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen Argentina Graziadei",
+            "hu": "Dolmen Argentina Graziadei",
+            "ro": "Dolmen Argentina Graziadei",
+            "en": "Dolmen Argentina Graziadei"
+          },
+          "coords": [
+            18.247342,
+            39.837977
+          ],
+          "category": "historical",
+          "arrive_at": "09:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese faszinierende alte megalithische Struktur, die in der mediterranen Macchia verborgen ist, und tragen Sie unbedingt festes Schuhwerk für den felsigen Weg.",
+            "hu": "Fedezze fel ezt a mediterrán bozótosban rejtőző lenyűgöző ősi megalitikus építményt, és mindenképpen viseljen masszív cipőt a kissé sziklás megközelítéshez.",
+            "ro": "Descoperiți această structură megalitică antică fascinantă ascunsă în tufărișul mediteranean și asigurați-vă că purtați încălțăminte solidă pentru poteca stâncoasă.",
+            "en": "Discover this fascinating ancient megalithic structure hidden in the Mediterranean scrub, and make sure to wear sturdy shoes for the slightly rocky approach."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Maldive del Salento",
+            "hu": "Le Maldive del Salento",
+            "ro": "Le Maldive del Salento",
+            "en": "Le Maldive del Salento"
+          },
+          "coords": [
+            18.244975,
+            39.835428
+          ],
+          "category": "recreational",
+          "arrive_at": "11:23",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.34,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem berühmten Abschnitt mit unberührtem weißen Sand, der tropischen Zielen in nichts nachsteht, aber kommen Sie früh, um sich einen guten Platz zu sichern.",
+            "hu": "Pihenjen ezen a trópusi úti célokkal vetekedő, híres, érintetlen fehér homokos partszakaszon, de érkezzen korán, hogy biztosítson egy remek napernyős helyet.",
+            "ro": "Relaxați-vă pe această fâșie celebră de nisip alb curat, care rivalizează cu destinațiile tropicale, dar sosiți devreme pentru a vă asigura un loc bun sub umbrelă.",
+            "en": "Relax on this famous stretch of pristine white sand that rivals tropical destinations, but arrive early to secure a prime spot with an umbrella."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Cinque Vele",
+            "hu": "Le Cinque Vele",
+            "ro": "Le Cinque Vele",
+            "en": "Le Cinque Vele"
+          },
+          "coords": [
+            18.248787,
+            39.835898
+          ],
+          "category": "recreational",
+          "arrive_at": "12:58",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Genießen Sie den erstklassigen Strandclub-Service in einer üppigen Küstenlandschaft, perfekt für Familien, die Komfort und kristallklares Wasser suchen.",
+            "hu": "Élvezze a prémium strandklub szolgáltatásokat a buja tengerparti környezetben, amely tökéletes a kényelmet és kristálytiszta, sekély vizet kereső családoknak.",
+            "ro": "Bucurați-vă de serviciile premium ale clubului de plajă într-un cadru de coastă luxuriant, perfect pentru familiile care caută confort și ape limpezi puțin adânci.",
+            "en": "Enjoy premium beach club services in a lush coastal setting, making it perfect for families seeking both comfort and crystal-clear shallow waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia di Pescoluse",
+            "hu": "Spiaggia di Pescoluse",
+            "ro": "Spiaggia di Pescoluse",
+            "en": "Spiaggia di Pescoluse"
+          },
+          "coords": [
+            18.254811,
+            39.83571
+          ],
+          "category": "recreational",
+          "arrive_at": "14:36",
+          "stay_min": 120,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.51,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Nachmittag mit einem Spaziergang an diesem weitläufigen, goldenen Sandstrand und bringen Sie Ihr eigenes Handtuch mit, wenn Sie freie Abschnitte bevorzugen.",
+            "hu": "Zárja a délutánt egy sétával ezen a tágas, aranyhomokos tengerparton, és hozzon saját törölközőt, ha a bérelt napágyakkal szemben az ingyenes részeket részesíti előnyben.",
+            "ro": "Încheiați-vă după-amiaza plimbându-vă pe această plajă extinsă de nisip auriu, aducând un prosop dacă preferați secțiunile publice gratuite în loc de șezlonguri.",
+            "en": "End your afternoon strolling along this expansive and golden sandy beach, bringing your own towel if you prefer the free public sections over rented sunbeds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im Stadtzentrum mit der modernen Pfarrkirche, bevor man zum alten Dolmen Argentina Graziadei läuft. Mittags erreichen Sie die Küste und betreten den legendären weißen Sand von Le Maldive del Salento. Der Nachmittag bringt den Wechsel zu Le Cinque Vele für ein erstklassiges Stranderlebnis im klaren Wasser. Der Abend endet mit einem entspannten Spaziergang entlang der Spiaggia di Pescoluse, während die Sonne untergeht.",
+        "hu": "A reggel a központban indul a modern plébániatemplom megtekintésével, majd a történelem előtti Dolmen Argentina Graziadei felé sétálunk. Délben kiérünk a partra, és rálépünk a Le Maldive del Salento legendás fehér homokjára. Délután átváltunk a Le Cinque Vele prémium strandjára a sekély jón vizekben. Az este a Spiaggia di Pescoluse fő strandján tett hosszú, pihentető sétával zárul, miközben a nap lassan leereszkedik.",
+        "ro": "Dimineața începe în centru, cu biserica parohială modernă, înainte de a merge la anticul Dolmen Argentina Graziadei pentru o notă de preistorie. La prânz ajungem pe coastă, pășind pe nisipul alb de la Le Maldive del Salento. După-amiaza aduce o tranziție la Le Cinque Vele pentru o experiență de plajă premium în apele ioniene. Seara se încheie cu o plimbare relaxantă de-a lungul plajei principale Spiaggia di Pescoluse la apus.",
+        "en": "Morning starts in the town center, checking out the modern parish church before walking to the ancient Dolmen Argentina Graziadei for a touch of prehistory. Midday is all about reaching the coastline, stepping onto the legendary white sands of Le Maldive del Salento. Afternoon brings a transition to Le Cinque Vele for a premium beach experience in the shallow, clear Ionian waters. Evening concludes with a long, relaxing stroll along the main Spiaggia di Pescoluse as the sun begins to lower over the horizon."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:44",
+      "total_km": 4.32,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa del Beato Giovanni XXIII",
+            "hu": "Chiesa del Beato Giovanni XXIII",
+            "ro": "Chiesa del Beato Giovanni XXIII",
+            "en": "Chiesa del Beato Giovanni XXIII"
+          },
+          "coords": [
+            18.252804,
+            39.839595
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die modernen architektonischen Linien dieser lokalen Pfarrkirche, bevor Sie Ihre Reise fortsetzen, und überprüfen Sie das Schwarze Brett für Gemeindeereignisse.",
+            "hu": "Csodálja meg e helyi plébániatemplom modern építészeti vonalait utazása folytatása előtt, és pillantson rá a hirdetőtáblára a közösségi eseményekért.",
+            "ro": "Admirați liniile arhitecturale moderne ale acestei biserici parohiale locale înainte de a vă continua călătoria și verificați avizierul pentru evenimente comunitare.",
+            "en": "Admire the modern architectural lines of this local parish church before continuing your journey, and check the bulletin board for community event times."
+          }
+        },
+        {
+          "name": {
+            "de": "Masseria Don Cesare",
+            "hu": "Masseria Don Cesare",
+            "ro": "Masseria Don Cesare",
+            "en": "Masseria Don Cesare"
+          },
+          "coords": [
+            18.235999,
+            39.841779
+          ],
+          "category": "historical",
+          "arrive_at": "09:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.44,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesem historischen, befestigten Bauernhaus, das die ländliche Architektur des Salento zeigt, und achten Sie auf die Trockenmauern.",
+            "hu": "Lépjen vissza az időben ezen a történelmi, erődített parasztházon, amely a vidéki salentói építészetet mutatja be, és figyelje meg a hagyományos szárazkőfalak részleteit.",
+            "ro": "Întoarceți-vă în timp la această fermă istorică fortificată care prezintă arhitectura rurală din Salento și admirați detaliile zidurilor tradiționale din piatră.",
+            "en": "Step back in time at this historic fortified farmhouse that showcases rural Salento architecture, and keep an eye out for traditional dry-stone wall details."
+          }
+        },
+        {
+          "name": {
+            "de": "Apiario Valentini",
+            "hu": "Apiario Valentini",
+            "ro": "Apiario Valentini",
+            "en": "Apiario Valentini"
+          },
+          "coords": [
+            18.234213,
+            39.845569
+          ],
+          "category": "historical",
+          "arrive_at": "11:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Lernen Sie die lokalen Imkereitraditionen an diesem historischen Bienenstand kennen und verpassen Sie nicht die Gelegenheit, authentischen regionalen Honig zu kaufen.",
+            "hu": "Ismerkedjen meg a helyi méhészkedési hagyományokkal ezen a történelmi méhészeten, és ne hagyja ki a lehetőséget, hogy hiteles regionális mézet vásároljon.",
+            "ro": "Aflați despre tradițiile apicole locale la această stupină istorică și nu ratați șansa de a cumpăra miere regională autentică direct de la sursă.",
+            "en": "Learn about local beekeeping traditions at this historical apiary, and don't miss the chance to buy some authentic regional honey directly from the source."
+          }
+        },
+        {
+          "name": {
+            "de": "Necropoli a Tumuli di Salve",
+            "hu": "Necropoli a Tumuli di Salve",
+            "ro": "Necropoli a Tumuli di Salve",
+            "en": "Necropoli a Tumuli di Salve"
+          },
+          "coords": [
+            18.233954,
+            39.846761
+          ],
+          "category": "historical",
+          "arrive_at": "12:42",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese alte Tumulus-Nekropole, um die prähistorischen Wurzeln der Region zu entdecken, und bringen Sie am besten einen Hut mit, da der Schatten begrenzt ist.",
+            "hu": "Fedezze fel ezt az ősi halomsíros nekropoliszt a régió történelem előtti gyökereinek feltárására, és lehetőleg hozzon magával széles karimájú kalapot, mert kevés az árnyék.",
+            "ro": "Explorați această necropolă antică cu tumuli pentru a descoperi rădăcinile preistorice ale regiunii, de preferință aducând o pălărie deoarece umbra este foarte limitată.",
+            "en": "Explore this ancient tumulus necropolis to uncover the prehistoric roots of the region, preferably bringing a wide-brimmed hat as shade is very limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Marirò",
+            "hu": "Lido Marirò",
+            "ro": "Lido Marirò",
+            "en": "Lido Marirò"
+          },
+          "coords": [
+            18.237052,
+            39.835253
+          ],
+          "category": "recreational",
+          "arrive_at": "14:09",
+          "stay_min": 90,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erfrischen Sie sich in dieser lebhaften Strandanlage, die für ihre tollen Cocktails bekannt ist, und machen Sie hier Halt, um ein schnelles Mittagessen zu genießen.",
+            "hu": "Frissüljön fel ebben a nagyszerű koktéljairól és vidám hangulatáról ismert nyüzsgő strandklubban, amely csodálatos megálló egy gyors tengerparti ebéd elfogyasztására.",
+            "ro": "Răcoriți-vă la această unitate de plajă vibrantă cunoscută pentru cocktailurile grozave, fiind o oprire minunată pentru a lua un prânz rapid pe coastă.",
+            "en": "Refresh yourself at this vibrant beach establishment known for its great cocktails and upbeat atmosphere, making it a wonderful stop to grab a quick coastal lunch."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Cinque Vele",
+            "hu": "Le Cinque Vele",
+            "ro": "Le Cinque Vele",
+            "en": "Le Cinque Vele"
+          },
+          "coords": [
+            18.248787,
+            39.835898
+          ],
+          "category": "recreational",
+          "arrive_at": "15:44",
+          "stay_min": 120,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.99,
+          "tip_5lang": {
+            "de": "Genießen Sie den erstklassigen Strandclub-Service in einer üppigen Küstenlandschaft, perfekt für Familien, die Komfort und kristallklares Wasser suchen.",
+            "hu": "Élvezze a prémium strandklub szolgáltatásokat a buja tengerparti környezetben, amely tökéletes a kényelmet és kristálytiszta, sekély vizet kereső családoknak.",
+            "ro": "Bucurați-vă de serviciile premium ale clubului de plajă într-un cadru de coastă luxuriant, perfect pentru familiile care caută confort și ape limpezi puțin adânci.",
+            "en": "Enjoy premium beach club services in a lush coastal setting, making it perfect for families seeking both comfort and crystal-clear shallow waters."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der örtlichen Gemeinde, bevor Sie zur historischen Masseria Don Cesare radeln, um ländliche Architektur zu erleben. Mittags tauchen Sie im Apiario Valentini und der antiken Nekropole weiter in die Vergangenheit ein. Am Nachmittag radeln Sie zum Lido Marirò, um sich mit einem Getränk am Meer abzukühlen. Der Abend endet mit einer gemütlichen Radtour nach Le Cinque Vele, wo Sie die Küstendämmerung genießen.",
+        "hu": "Indítsa a reggelt a helyi templom felfedezésével, mielőtt észak felé kerékpározna a lenyűgöző Masseria Don Cesare történelmi épületeihez. A dél a múltba vezet az Apiario Valentini és az ősi halomsírok felé. Délután váltson tempót, és tekerjen le a Lido Marirò strandjára egy hűsítő italra a nyüzsgő tengerparton. Az este egy lágy kerékpározással köszönt be a Le Cinque Vele felé, magába szívva a tengerparti alkonyt.",
+        "ro": "Începeți dimineața explorând parohia locală înainte de a pedala spre nord până la istorica Masseria Don Cesare. Prânzul vă conduce mai adânc în trecut la Apiario Valentini și la antica necropolă cu tumuli de la Salve. După-amiaza schimbați ritmul pedalând spre Lido Marirò pentru a vă răcori cu o băutură pe litoral. Seara vine cu o plimbare ușoară cu bicicleta la Le Cinque Vele, bucurându-vă de amurgul de pe coastă.",
+        "en": "Start the morning exploring the local parish before cycling slightly north to the impressive historic Masseria Don Cesare for rural architecture. Midday leads you further into the past at the Apiario Valentini and the ancient Necropoli a Tumuli di Salve. Afternoon shifts gears as you pedal down to Lido Marirò to cool off and grab a vibrant seaside drink. Evening arrives with a gentle bike ride to Le Cinque Vele, soaking in the coastal twilight before finishing the day's route."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:39",
+      "total_km": 3.62,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Necropoli a Tumuli di Salve",
+            "hu": "Necropoli a Tumuli di Salve",
+            "ro": "Necropoli a Tumuli di Salve",
+            "en": "Necropoli a Tumuli di Salve"
+          },
+          "coords": [
+            18.233954,
+            39.846761
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese alte Tumulus-Nekropole, um die prähistorischen Wurzeln der Region zu entdecken, und bringen Sie am besten einen Hut mit, da der Schatten begrenzt ist.",
+            "hu": "Fedezze fel ezt az ősi halomsíros nekropoliszt a régió történelem előtti gyökereinek feltárására, és lehetőleg hozzon magával széles karimájú kalapot, mert kevés az árnyék.",
+            "ro": "Explorați această necropolă antică cu tumuli pentru a descoperi rădăcinile preistorice ale regiunii, de preferință aducând o pălărie deoarece umbra este foarte limitată.",
+            "en": "Explore this ancient tumulus necropolis to uncover the prehistoric roots of the region, preferably bringing a wide-brimmed hat as shade is very limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Apiario Valentini",
+            "hu": "Apiario Valentini",
+            "ro": "Apiario Valentini",
+            "en": "Apiario Valentini"
+          },
+          "coords": [
+            18.234213,
+            39.845569
+          ],
+          "category": "historical",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Lernen Sie die lokalen Imkereitraditionen an diesem historischen Bienenstand kennen und verpassen Sie nicht die Gelegenheit, authentischen regionalen Honig zu kaufen.",
+            "hu": "Ismerkedjen meg a helyi méhészkedési hagyományokkal ezen a történelmi méhészeten, és ne hagyja ki a lehetőséget, hogy hiteles regionális mézet vásároljon.",
+            "ro": "Aflați despre tradițiile apicole locale la această stupină istorică și nu ratați șansa de a cumpăra miere regională autentică direct de la sursă.",
+            "en": "Learn about local beekeeping traditions at this historical apiary, and don't miss the chance to buy some authentic regional honey directly from the source."
+          }
+        },
+        {
+          "name": {
+            "de": "Masseria Don Cesare",
+            "hu": "Masseria Don Cesare",
+            "ro": "Masseria Don Cesare",
+            "en": "Masseria Don Cesare"
+          },
+          "coords": [
+            18.235999,
+            39.841779
+          ],
+          "category": "historical",
+          "arrive_at": "11:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise in diesem historischen, befestigten Bauernhaus, das die ländliche Architektur des Salento zeigt, und achten Sie auf die Trockenmauern.",
+            "hu": "Lépjen vissza az időben ezen a történelmi, erődített parasztházon, amely a vidéki salentói építészetet mutatja be, és figyelje meg a hagyományos szárazkőfalak részleteit.",
+            "ro": "Întoarceți-vă în timp la această fermă istorică fortificată care prezintă arhitectura rurală din Salento și admirați detaliile zidurilor tradiționale din piatră.",
+            "en": "Step back in time at this historic fortified farmhouse that showcases rural Salento architecture, and keep an eye out for traditional dry-stone wall details."
+          }
+        },
+        {
+          "name": {
+            "de": "Dolmen Argentina Graziadei",
+            "hu": "Dolmen Argentina Graziadei",
+            "ro": "Dolmen Argentina Graziadei",
+            "en": "Dolmen Argentina Graziadei"
+          },
+          "coords": [
+            18.247342,
+            39.837977
+          ],
+          "category": "historical",
+          "arrive_at": "13:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.05,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese faszinierende alte megalithische Struktur, die in der mediterranen Macchia verborgen ist, und tragen Sie unbedingt festes Schuhwerk für den felsigen Weg.",
+            "hu": "Fedezze fel ezt a mediterrán bozótosban rejtőző lenyűgöző ősi megalitikus építményt, és mindenképpen viseljen masszív cipőt a kissé sziklás megközelítéshez.",
+            "ro": "Descoperiți această structură megalitică antică fascinantă ascunsă în tufărișul mediteranean și asigurați-vă că purtați încălțăminte solidă pentru poteca stâncoasă.",
+            "en": "Discover this fascinating ancient megalithic structure hidden in the Mediterranean scrub, and make sure to wear sturdy shoes for the slightly rocky approach."
+          }
+        },
+        {
+          "name": {
+            "de": "Calòma",
+            "hu": "Calòma",
+            "ro": "Calòma",
+            "en": "Calòma"
+          },
+          "coords": [
+            18.229753,
+            39.835811
+          ],
+          "category": "recreational",
+          "arrive_at": "14:37",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.52,
+          "tip_5lang": {
+            "de": "Lassen Sie sich an diesem wunderschön gestalteten Ort am Meer nieder, wo das Ionische Meer den Himmel berührt, und probieren Sie die frischen Meeresfrüchte.",
+            "hu": "Helyezze magát kényelembe ezen a gyönyörűen kialakított tengerparti helyen, ahol a Jón-tenger vize találkozik az éggel, és kóstolja meg a friss tengeri ételeket.",
+            "ro": "Așezați-vă în acest loc frumos amenajat de pe litoral unde apele ioniene întâlnesc cerul și încercați gustările proaspete cu fructe de mare la chioșc.",
+            "en": "Settle down at this beautifully arranged seaside spot where the Ionian waters meet the sky, and try their freshly prepared seafood snacks at the kiosk."
+          }
+        },
+        {
+          "name": {
+            "de": "Papeete Salentino",
+            "hu": "Papeete Salentino",
+            "ro": "Papeete Salentino",
+            "en": "Papeete Salentino"
+          },
+          "coords": [
+            18.228551,
+            39.835951
+          ],
+          "category": "recreational",
+          "arrive_at": "16:08",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die energiegeladene Atmosphäre dieses bekannten Lidos, der fröhliche Musik bietet und perfekt für ein lebhaftes Stranderlebnis ist.",
+            "hu": "Merüljön el ennek a hullámok melletti vidám zenét kínáló ismert strandnak az energikus hangulatában, amely tökéletes, ha élénk tengerparti élményre vágyik.",
+            "ro": "Cufundați-vă în vibrația plină de energie a acestui lido cunoscut care oferă muzică optimistă pe valuri, perfect dacă sunteți în căutarea unei experiențe pline de viață.",
+            "en": "Immerse yourself in the energetic vibe of this well-known lido that offers upbeat music by the waves, perfect if you are looking for a lively beach experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Seychelles del Salento",
+            "hu": "Seychelles del Salento",
+            "ro": "Seychelles del Salento",
+            "en": "Seychelles del Salento"
+          },
+          "coords": [
+            18.232727,
+            39.835453
+          ],
+          "category": "recreational",
+          "arrive_at": "17:39",
+          "stay_min": 120,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Bewundern Sie das unglaublich klare Wasser, das diesem Strand seinen exotischen Namen gibt, und bringen Sie eine Schnorchelausrüstung mit, um kleine Fische zu beobachten.",
+            "hu": "Csodálja meg az elképesztően tiszta vizet, amely e strand egzotikus nevét adja, és érdemes búvárfelszerelést hozni a part menti apró halak megfigyeléséhez.",
+            "ro": "Minunați-vă de apele incredibil de limpezi care dau acestei plaje numele său exotic și luați în considerare aducerea echipamentului de snorkeling pentru a observa peștii.",
+            "en": "Marvel at the incredibly clear waters that give this beach its exotic name, and consider bringing snorkeling gear to observe the small fish near the shore."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einer Fahrt zur antiken Nekropole und einem kurzen Stopp am historischen Apiario Valentini. Mittags setzen Sie den Kulturpfad an der Masseria Don Cesare fort, gefolgt von den Megalithen des Dolmen Argentina Graziadei. Der Nachmittag bietet pure Entspannung, wenn Sie in der Nähe von Calòma parken und die Atmosphäre im Papeete Salentino erleben. Der Abend klingt an den exotischen Ufern der Seychelles del Salento entspannt aus.",
+        "hu": "A reggel egy lenyűgöző autózással indul az ősi halomsírokhoz és egy rövid megállóval az Apiario Valentini méhészetnél. A dél a kulturális ösvényt folytatja a Masseria Don Cesare, majd a Dolmen Argentina Graziadei impozáns megalitjai felé. A délután a tiszta pihenésbe vált, ahogy leparkol a Calòma közelében, és élvezi a Papeete Salentino hangulatát. Az este elegánsan zárul a Seychelles del Salento egzotikus partjainál a naplementét figyelve.",
+        "ro": "Dimineața începe cu un drum fascinant către necropola antică și o scurtă oprire la istoricul Apiario Valentini. La prânz continuați traseul cultural la Masseria Don Cesare, urmat de megaliții de la Dolmen Argentina Graziadei. După-amiaza trece la relaxare pură, parcând lângă Calòma și experimentând atmosfera plină de viață de la Papeete Salentino. Seara se încheie frumos pe țărmurile exotice din Seychelles del Salento.",
+        "en": "Morning kicks off with a fascinating drive to the ancient Necropoli a Tumuli di Salve and a quick stop at the historical Apiario Valentini. Midday continues the cultural trail at Masseria Don Cesare, followed by the impressive megaliths of Dolmen Argentina Graziadei. Afternoon transitions to pure relaxation as you park near Calòma and experience the lively atmosphere at Papeete Salentino. Evening winds down gracefully on the exotic shores of Seychelles del Salento to watch the colors change over the Ionian Sea."
+      }
+    }
+  }
+}

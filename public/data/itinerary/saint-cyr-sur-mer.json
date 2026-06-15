@@ -1,0 +1,474 @@
+{
+  "city_id": "saint-cyr-sur-mer",
+  "anchor": {
+    "name": "Saint-Cyr-sur-Mer",
+    "coords": [
+      5.7086,
+      43.1836
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:49",
+      "total_km": 3.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Cyr Church",
+            "hu": "Saint-Cyr Church",
+            "ro": "Saint-Cyr Church",
+            "en": "Saint-Cyr Church"
+          },
+          "coords": [
+            5.711242,
+            43.18043
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese charmante provenzalische Kirche mit ihren schönen Fresken, und achten Sie auf die ruhige Atmosphäre für eine kurze Rast.",
+            "hu": "Látogassa meg ezt a bájos provence-i templomot gyönyörű freskóival, és élvezze a csendes légkört egy rövid pihenő erejéig.",
+            "ro": "Vizitați această fermecătoare biserică provensală cu frescele sale frumoase și bucurați-vă de atmosfera liniștită pentru o scurtă odihnă.",
+            "en": "Visit this charming Provençal church with its beautiful frescoes, and enjoy the peaceful atmosphere for a short rest."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Lecques Beach",
+            "hu": "Les Lecques Beach",
+            "ro": "Les Lecques Beach",
+            "en": "Les Lecques Beach"
+          },
+          "coords": [
+            5.70377,
+            43.185393
+          ],
+          "category": "natural",
+          "arrive_at": "10:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem weiten Sandstrand mit klarem Wasser, und bringen Sie Sonnencreme für den ausgedehnten Spaziergang entlang der Promenade mit.",
+            "hu": "Pihenjen ezen a széles homokos strandon, ahol tiszta a víz, és hozzon magával naptejet a sétányon tett hosszú sétához.",
+            "ro": "Relaxați-vă pe această plajă largă cu nisip, cu apă limpede, și aduceți cremă de soare pentru o plimbare lungă pe promenadă.",
+            "en": "Relax on this wide sandy beach with clear water, and bring sunscreen for the extended walk along the pleasant promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Aqualand Saint-Cyr-sur-Mer",
+            "hu": "Aqualand Saint-Cyr-sur-Mer",
+            "ro": "Aqualand Saint-Cyr-sur-Mer",
+            "en": "Aqualand Saint-Cyr-sur-Mer"
+          },
+          "coords": [
+            5.694884,
+            43.18496
+          ],
+          "category": "family",
+          "arrive_at": "11:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erleben Sie spannende Wasserrutschen in diesem Familienpark, und kommen Sie am besten früh, um lange Wartezeiten an den beliebtesten Attraktionen zu vermeiden.",
+            "hu": "Élvezze az izgalmas vízi csúszdákat ebben a családi parkban, és érkezzen korán, hogy elkerülje a hosszú sorban állást a népszerű attrakcióknál.",
+            "ro": "Experimentați toboganele de apă palpitante în acest parc de familie și ajungeți devreme pentru a evita timpii lungi de așteptare la atracțiile populare.",
+            "en": "Experience thrilling water slides in this family park, and arrive early to avoid long wait times at the most popular attractions."
+          }
+        },
+        {
+          "name": {
+            "de": "Tauroentum Museum",
+            "hu": "Tauroentum Museum",
+            "ro": "Tauroentum Museum",
+            "en": "Tauroentum Museum"
+          },
+          "coords": [
+            5.695513,
+            43.171201
+          ],
+          "category": "museum",
+          "arrive_at": "13:06",
+          "stay_min": 100,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie römische Mosaike, die auf den Fundamenten einer alten Villa erbaut wurden, und nehmen Sie sich Zeit für die faszinierenden archäologischen Artefakte.",
+            "hu": "Fedezze fel az egykori villa alapjaira épült római mozaikokat, és szánjon időt a lenyűgöző régészeti leletek alapos tanulmányozására.",
+            "ro": "Descoperiți mozaicurile romane construite pe fundațiile unei vechi vile și luați-vă timp pentru artefactele arheologice fascinante.",
+            "en": "Discover Roman mosaics built on the foundations of an ancient villa, and take your time to appreciate the fascinating archaeological artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "La Madrague Port",
+            "hu": "La Madrague Port",
+            "ro": "La Madrague Port",
+            "en": "La Madrague Port"
+          },
+          "coords": [
+            5.694157,
+            43.167003
+          ],
+          "category": "recreational",
+          "arrive_at": "14:54",
+          "stay_min": 55,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen malerischen kleinen Hafen mit traditionellen Fischerbooten, und probieren Sie frischen Meeresfrüchte-Snacks in den nahegelegenen Cafés.",
+            "hu": "Sétáljon végig ezen a festői kis kikötőn a hagyományos halászhajókkal, és kóstolja meg a friss tenger gyümölcseit a közeli kávézókban.",
+            "ro": "Plimbați-vă prin acest port mic și pitoresc cu bărci de pescuit tradiționale și gustați fructe de mare proaspete la cafenelele din apropiere.",
+            "en": "Stroll through this picturesque small port with traditional fishing boats, and try fresh seafood snacks at the nearby cafes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen an der charmanten Kirche und gehen Sie dann zum weiten Sandstrand. Mittags genießen Sie den Strand und besuchen den aufregenden Wasserpark. Am Nachmittag tauchen Sie im Tauroentum-Museum in die römische Geschichte ein. Beenden Sie den Tag mit einem Spaziergang am malerischen Hafen.",
+        "hu": "Kezdje a reggelt a bájos templomnál, majd induljon a széles homokos strand felé. Délben élvezze a partot, majd látogasson el az izgalmas víziparkba. Délután merüljön el a történelemben a római mozaikokat bemutató múzeumban. Zárja a napot egy pihentető sétával a festői kikötőben.",
+        "ro": "Începeți dimineața la biserica fermecătoare, apoi mergeți spre plaja largă de nisip. La prânz, bucurați-vă de coastă și vizitați parcul acvatic captivant. După-amiaza, descoperiți istoria romană la muzeu, admirând mozaicurile antice. Încheiați ziua cu o plimbare relaxantă în portul pitoresc.",
+        "en": "Start the morning at the charming church, then walk to the expansive sandy beach. Midday, enjoy the coast and visit the exciting water park for family fun. In the afternoon, dive into history at the museum featuring ancient Roman mosaics. End the day with a relaxing stroll at the picturesque port."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:21",
+      "total_km": 4.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Cyr Church",
+            "hu": "Saint-Cyr Church",
+            "ro": "Saint-Cyr Church",
+            "en": "Saint-Cyr Church"
+          },
+          "coords": [
+            5.711242,
+            43.18043
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese charmante provenzalische Kirche mit ihren schönen Fresken, und achten Sie auf die ruhige Atmosphäre für eine kurze Rast.",
+            "hu": "Látogassa meg ezt a bájos provence-i templomot gyönyörű freskóival, és élvezze a csendes légkört egy rövid pihenő erejéig.",
+            "ro": "Vizitați această fermecătoare biserică provensală cu frescele sale frumoase și bucurați-vă de atmosfera liniștită pentru o scurtă odihnă.",
+            "en": "Visit this charming Provençal church with its beautiful frescoes, and enjoy the peaceful atmosphere for a short rest."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Lecques Beach",
+            "hu": "Les Lecques Beach",
+            "ro": "Les Lecques Beach",
+            "en": "Les Lecques Beach"
+          },
+          "coords": [
+            5.70377,
+            43.185393
+          ],
+          "category": "natural",
+          "arrive_at": "09:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem weiten Sandstrand mit klarem Wasser, und bringen Sie Sonnencreme für den ausgedehnten Spaziergang entlang der Promenade mit.",
+            "hu": "Pihenjen ezen a széles homokos strandon, ahol tiszta a víz, és hozzon magával naptejet a sétányon tett hosszú sétához.",
+            "ro": "Relaxați-vă pe această plajă largă cu nisip, cu apă limpede, și aduceți cremă de soare pentru o plimbare lungă pe promenadă.",
+            "en": "Relax on this wide sandy beach with clear water, and bring sunscreen for the extended walk along the pleasant promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscine à vagues",
+            "hu": "Piscine à vagues",
+            "ro": "Piscine à vagues",
+            "en": "Piscine à vagues"
+          },
+          "coords": [
+            5.696109,
+            43.184963
+          ],
+          "category": "family",
+          "arrive_at": "11:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Haben Sie Spaß im Wellenbad für die ganze Familie, und prüfen Sie vorher die Öffnungszeiten, da diese je nach Saison leicht variieren können.",
+            "hu": "Szórakozzon az egész családnak szóló hullámmedencében, és ellenőrizze a nyitvatartást, mivel az évszaktól függően kissé eltérhet.",
+            "ro": "Distrați-vă în piscina cu valuri pentru întreaga familie și verificați orarul în avans, deoarece poate varia ușor în funcție de sezon.",
+            "en": "Have fun in the wave pool for the whole family, and check the opening hours in advance as they can vary slightly depending on the season."
+          }
+        },
+        {
+          "name": {
+            "de": "Tauroentum Museum",
+            "hu": "Tauroentum Museum",
+            "ro": "Tauroentum Museum",
+            "en": "Tauroentum Museum"
+          },
+          "coords": [
+            5.695513,
+            43.171201
+          ],
+          "category": "museum",
+          "arrive_at": "12:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie römische Mosaike, die auf den Fundamenten einer alten Villa erbaut wurden, und nehmen Sie sich Zeit für die faszinierenden archäologischen Artefakte.",
+            "hu": "Fedezze fel az egykori villa alapjaira épült római mozaikokat, és szánjon időt a lenyűgöző régészeti leletek alapos tanulmányozására.",
+            "ro": "Descoperiți mozaicurile romane construite pe fundațiile unei vechi vile și luați-vă timp pentru artefactele arheologice fascinante.",
+            "en": "Discover Roman mosaics built on the foundations of an ancient villa, and take your time to appreciate the fascinating archaeological artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Aquarium La Madrague",
+            "hu": "Aquarium La Madrague",
+            "ro": "Aquarium La Madrague",
+            "en": "Aquarium La Madrague"
+          },
+          "coords": [
+            5.694094,
+            43.165834
+          ],
+          "category": "family",
+          "arrive_at": "14:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die lokale Unterwasserwelt des Mittelmeers in kompakten Becken, und nutzen Sie die Gelegenheit für ein schönes Familienfoto am Eingang.",
+            "hu": "Csodálja meg a Földközi-tenger helyi víz alatti világát a kompakt medencékben, és használja ki a lehetőséget egy szép családi fotóra a bejáratnál.",
+            "ro": "Admirați lumea subacvatică locală a Mării Mediterane în bazine compacte și profitați de ocazie pentru o fotografie de familie la intrare.",
+            "en": "Admire the local underwater world of the Mediterranean in compact tanks, and take the opportunity for a lovely family photo at the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Coastal Path (Sentier du Littoral)",
+            "hu": "Coastal Path (Sentier du Littoral)",
+            "ro": "Coastal Path (Sentier du Littoral)",
+            "en": "Coastal Path (Sentier du Littoral)"
+          },
+          "coords": [
+            5.690317,
+            43.161007
+          ],
+          "category": "natural",
+          "arrive_at": "15:36",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Wandern Sie auf diesem malerischen Pfad mit atemberaubendem Meerblick, und tragen Sie festes Schuhwerk für die teilweise unebenen, felsigen Abschnitte.",
+            "hu": "Túrázzon ezen a festői ösvényen, ahonnan lélegzetelállító kilátás nyílik a tengerre, és viseljen masszív cipőt a néhol egyenetlen, sziklás szakaszokhoz.",
+            "ro": "Drumeție pe acest drum pitoresc cu vedere uimitoare la mare și purtați încălțăminte rezistentă pentru porțiunile parțial inegale și stâncoase.",
+            "en": "Hike along this scenic path with breathtaking ocean views, and wear sturdy footwear for the occasionally uneven, rocky sections."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie vom historischen Zentrum zum wunderschönen Strand, um die Morgensonne zu genießen. Mittags kühlen Sie sich im Wellenbad ab, bevor Sie an der Küste weiterfahren. Am Nachmittag erkunden Sie römische Ruinen im Museum und besuchen das kleine Aquarium. Beenden Sie den Tag am Küstenpfad im Sonnenuntergang.",
+        "hu": "Tekerjen a történelmi központból a gyönyörű strandra, hogy élvezze a reggeli napsütést. Délben hűsöljön a hullámmedencében, mielőtt a parton továbbhaladna. Délután fedezze fel a múzeum római romjait, majd látogasson el az akváriumba. Zárja az aktív napot a parti ösvényen a naplemente fényében.",
+        "ro": "Pedalați din centrul istoric până la plaja frumoasă pentru a vă bucura de soarele dimineții. La prânz, răcoriți-vă în piscina cu valuri înainte de a merge de-a lungul coastei. După-amiaza, explorați ruinele romane la muzeu și vizitați acvariul local. Terminați ziua pe poteca de coastă la apus.",
+        "en": "Pedal from the historic center to the beautiful beach to soak up the morning sun. Midday, cool off in the wave pool before riding further along the scenic coast. In the afternoon, explore Roman ruins at the museum and visit the local aquarium. Finish your active day at the coastal path as the sun sets."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:58",
+      "total_km": 5.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Cyr Church",
+            "hu": "Saint-Cyr Church",
+            "ro": "Saint-Cyr Church",
+            "en": "Saint-Cyr Church"
+          },
+          "coords": [
+            5.711242,
+            43.18043
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese charmante provenzalische Kirche mit ihren schönen Fresken, und achten Sie auf die ruhige Atmosphäre für eine kurze Rast.",
+            "hu": "Látogassa meg ezt a bájos provence-i templomot gyönyörű freskóival, és élvezze a csendes légkört egy rövid pihenő erejéig.",
+            "ro": "Vizitați această fermecătoare biserică provensală cu frescele sale frumoase și bucurați-vă de atmosfera liniștită pentru o scurtă odihnă.",
+            "en": "Visit this charming Provençal church with its beautiful frescoes, and enjoy the peaceful atmosphere for a short rest."
+          }
+        },
+        {
+          "name": {
+            "de": "Aqualand Saint-Cyr-sur-Mer",
+            "hu": "Aqualand Saint-Cyr-sur-Mer",
+            "ro": "Aqualand Saint-Cyr-sur-Mer",
+            "en": "Aqualand Saint-Cyr-sur-Mer"
+          },
+          "coords": [
+            5.694884,
+            43.18496
+          ],
+          "category": "family",
+          "arrive_at": "09:53",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erleben Sie spannende Wasserrutschen in diesem Familienpark, und kommen Sie am besten früh, um lange Wartezeiten an den beliebtesten Attraktionen zu vermeiden.",
+            "hu": "Élvezze az izgalmas vízi csúszdákat ebben a családi parkban, és érkezzen korán, hogy elkerülje a hosszú sorban állást a népszerű attrakcióknál.",
+            "ro": "Experimentați toboganele de apă palpitante în acest parc de familie și ajungeți devreme pentru a evita timpii lungi de așteptare la atracțiile populare.",
+            "en": "Experience thrilling water slides in this family park, and arrive early to avoid long wait times at the most popular attractions."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Lecques Beach",
+            "hu": "Les Lecques Beach",
+            "ro": "Les Lecques Beach",
+            "en": "Les Lecques Beach"
+          },
+          "coords": [
+            5.70377,
+            43.185393
+          ],
+          "category": "natural",
+          "arrive_at": "11:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem weiten Sandstrand mit klarem Wasser, und bringen Sie Sonnencreme für den ausgedehnten Spaziergang entlang der Promenade mit.",
+            "hu": "Pihenjen ezen a széles homokos strandon, ahol tiszta a víz, és hozzon magával naptejet a sétányon tett hosszú sétához.",
+            "ro": "Relaxați-vă pe această plajă largă cu nisip, cu apă limpede, și aduceți cremă de soare pentru o plimbare lungă pe promenadă.",
+            "en": "Relax on this wide sandy beach with clear water, and bring sunscreen for the extended walk along the pleasant promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Mini golf de Saint-Cyr-sur-Mer",
+            "hu": "Mini golf de Saint-Cyr-sur-Mer",
+            "ro": "Mini golf de Saint-Cyr-sur-Mer",
+            "en": "Mini golf de Saint-Cyr-sur-Mer"
+          },
+          "coords": [
+            5.694587,
+            43.173038
+          ],
+          "category": "family",
+          "arrive_at": "12:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Genießen Sie eine entspannte Runde Minigolf unter schattigen Bäumen, und bringen Sie Bargeld mit, da nicht alle kleinen Kioske Kartenzahlung akzeptieren.",
+            "hu": "Élvezze a pihentető minigolfot az árnyas fák alatt, és hozzon magával készpénzt, mivel nem minden kis bódé fogad el kártyát.",
+            "ro": "Bucurați-vă de o rundă relaxantă de minigolf sub copaci umbroși și aduceți numerar, deoarece nu toate chioșcurile mici acceptă plata cu cardul.",
+            "en": "Enjoy a relaxing round of mini golf under shady trees, and bring cash as not all small kiosks may accept card payments."
+          }
+        },
+        {
+          "name": {
+            "de": "Tauroentum Museum",
+            "hu": "Tauroentum Museum",
+            "ro": "Tauroentum Museum",
+            "en": "Tauroentum Museum"
+          },
+          "coords": [
+            5.695513,
+            43.171201
+          ],
+          "category": "museum",
+          "arrive_at": "13:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie römische Mosaike, die auf den Fundamenten einer alten Villa erbaut wurden, und nehmen Sie sich Zeit für die faszinierenden archäologischen Artefakte.",
+            "hu": "Fedezze fel az egykori villa alapjaira épült római mozaikokat, és szánjon időt a lenyűgöző régészeti leletek alapos tanulmányozására.",
+            "ro": "Descoperiți mozaicurile romane construite pe fundațiile unei vechi vile și luați-vă timp pentru artefactele arheologice fascinante.",
+            "en": "Discover Roman mosaics built on the foundations of an ancient villa, and take your time to appreciate the fascinating archaeological artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "La Madrague Port",
+            "hu": "La Madrague Port",
+            "ro": "La Madrague Port",
+            "en": "La Madrague Port"
+          },
+          "coords": [
+            5.694157,
+            43.167003
+          ],
+          "category": "recreational",
+          "arrive_at": "15:36",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch diesen malerischen kleinen Hafen mit traditionellen Fischerbooten, und probieren Sie frischen Meeresfrüchte-Snacks in den nahegelegenen Cafés.",
+            "hu": "Sétáljon végig ezen a festői kis kikötőn a hagyományos halászhajókkal, és kóstolja meg a friss tenger gyümölcseit a közeli kávézókban.",
+            "ro": "Plimbați-vă prin acest port mic și pitoresc cu bărci de pescuit tradiționale și gustați fructe de mare proaspete la cafenelele din apropiere.",
+            "en": "Stroll through this picturesque small port with traditional fishing boats, and try fresh seafood snacks at the nearby cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Coastal Path (Sentier du Littoral)",
+            "hu": "Coastal Path (Sentier du Littoral)",
+            "ro": "Coastal Path (Sentier du Littoral)",
+            "en": "Coastal Path (Sentier du Littoral)"
+          },
+          "coords": [
+            5.690317,
+            43.161007
+          ],
+          "category": "natural",
+          "arrive_at": "16:13",
+          "stay_min": 105,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Wandern Sie auf diesem malerischen Pfad mit atemberaubendem Meerblick, und tragen Sie festes Schuhwerk für die teilweise unebenen, felsigen Abschnitte.",
+            "hu": "Túrázzon ezen a festői ösvényen, ahonnan lélegzetelállító kilátás nyílik a tengerre, és viseljen masszív cipőt a néhol egyenetlen, sziklás szakaszokhoz.",
+            "ro": "Drumeție pe acest drum pitoresc cu vedere uimitoare la mare și purtați încălțăminte rezistentă pentru porțiunile parțial inegale și stâncoase.",
+            "en": "Hike along this scenic path with breathtaking ocean views, and wear sturdy footwear for the occasionally uneven, rocky sections."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens von der örtlichen Kirche zum Wasserpark für einen aktiven Start in den Tag. Mittags machen Sie einen kurzen Spaziergang zum Strand und fahren dann zu einer Runde Minigolf. Am Nachmittag entdecken Sie das römische Erbe im Museum und parken am Hafen. Der Abend endet auf dem Küstenpfad.",
+        "hu": "Reggel autózzon a helyi templomtól a víziparkig egy aktív kezdéshez. Délben tegyen egy rövid sétát a strandon, majd vezessen egy vidám minigolf-partira. Délután fedezze fel a római örökséget a múzeumban, a kikötő közelében parkolva. Az este tökéletes befejezése egy séta a fenséges parti ösvényen.",
+        "ro": "Conduceți dimineața de la biserica locală la parcul acvatic pentru un început activ. La prânz, faceți o scurtă plimbare la plajă și apoi conduceți pentru o rundă de minigolf. După-amiaza, descoperiți moștenirea romană la muzeu și parcați în port. Seara se încheie cu o plimbare pe poteca de coastă.",
+        "en": "Drive in the morning from the local church to the water park for an active start. Midday, take a short walk to the beach for relaxation, then drive to a fun mini golf session. In the afternoon, discover Roman heritage at the museum, parking near the port. Wrap up the evening exploring the coastal path."
+      }
+    }
+  }
+}

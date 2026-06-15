@@ -1,0 +1,520 @@
+{
+  "city_id": "greece-nea-poli-cities-v2",
+  "anchor": {
+    "name": "Nea Poli",
+    "coords": [
+      26.92067,
+      37.69439
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:08",
+      "total_km": 2.45,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Pythagoreion",
+            "hu": "Pythagoreion",
+            "ro": "Pythagoreion",
+            "en": "Pythagoreion"
+          },
+          "coords": [
+            26.931944,
+            37.690746
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die antiken Hafenfundamente dieser UNESCO-Stätte, um ihre historische Bedeutung zu erfassen, und kommen Sie früh wegen der Sonne.",
+            "hu": "Csodálja meg az UNESCO-helyszín ősi kikötői alapjait a történelmi jelentőségének megértéséhez, és érkezzen korán a déli hőség elkerülése végett.",
+            "ro": "Admirați fundațiile portului antic al acestui sit UNESCO pentru a-i înțelege importanța istorică și veniți devreme pentru a evita soarele amiezii.",
+            "en": "Admire the ancient harbor foundations of this UNESCO site to grasp its historical importance, and come early to avoid the harsh midday sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Bad",
+            "hu": "Római fürdő",
+            "ro": "Băile Romane",
+            "en": "Römisches Bad"
+          },
+          "coords": [
+            26.929699,
+            37.690855
+          ],
+          "category": "historical",
+          "arrive_at": "09:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die gut erhaltenen römischen Badehausruinen, um antike Heizsysteme zu sehen, und bringen Sie einen Hut mit, da es kaum Schatten gibt.",
+            "hu": "Fedezze fel a meglepően jó állapotban fennmaradt római fürdő romjait az ősi fűtésrendszerek megtekintéséhez, és hozzon kalapot az árnyék hiánya miatt.",
+            "ro": "Explorați ruinele băilor romane surprinzător de bine conservate pentru a vedea sistemele antice de încălzire, luând o pălărie lipsind umbra.",
+            "en": "Explore the surprisingly well-preserved Roman bathhouse ruins to see ancient heating systems, bringing a hat as there is very little shade around."
+          }
+        },
+        {
+          "name": {
+            "de": "Tunnel des Eupalinos",
+            "hu": "Eupalinosz alagútja",
+            "ro": "Tunelul lui Eupalinos",
+            "en": "Tunnel of Eupalinos"
+          },
+          "coords": [
+            26.930005,
+            37.694593
+          ],
+          "category": "historical",
+          "arrive_at": "10:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Gehen Sie durch diesen unglaublichen Aquädukttunnel aus dem 6. Jahrhundert v. Chr., um antike Ingenieurskunst zu erleben, und tragen Sie feste Schuhe.",
+            "hu": "Sétáljon végig ezen a lenyűgöző Krisztus előtti 6. századi vízvezeték-alagúton az ókori mérnöki zsenialitás megcsodálásához, stabil cipőt viselve.",
+            "ro": "Plimbați-vă prin acest incredibil tunel-apeduct din secolul VI î.Hr. pentru a asista la geniul ingineresc antic, purtând încălțăminte anti-alunecare.",
+            "en": "Walk inside this incredible 6th-century BC aqueduct tunnel to witness ancient engineering genius, making sure to wear sturdy, non-slip shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Antike Agora",
+            "hu": "Ókori Agóra",
+            "ro": "Agora Antică",
+            "en": "Ancient Agora"
+          },
+          "coords": [
+            26.938422,
+            37.690849
+          ],
+          "category": "historical",
+          "arrive_at": "12:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.85,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die verstreuten Säulen des alten Marktplatzes, um sich das antike Leben vorzustellen, und lesen Sie zuerst die Infotafeln.",
+            "hu": "Barangoljon a régi piactér szétszórt oszlopai között, hogy elképzelje az ókori mindennapokat, és először olvassa el a bejáratnál lévő tájékoztatókat.",
+            "ro": "Rătăciți printre coloanele împrăștiate ale vechii piețe pentru a vă imagina viața antică zilnică și citiți mai întâi plăcile informative la intrare.",
+            "en": "Wander through the scattered columns of the old marketplace to imagine daily ancient life, and read the informational plaques at the entrance first."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul Arheologic",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            26.94028,
+            37.691187
+          ],
+          "category": "museum",
+          "arrive_at": "13:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betrachten Sie eine herausragende Sammlung von Artefakten einschließlich der kolossalen Kouros-Statue und beginnen Sie im Erdgeschoss.",
+            "hu": "Tekintse meg a műtárgyak kiemelkedő gyűjteményét, köztük a hatalmas Kourosz-szobrot, és kezdje a földszinten az időrendi elrendezés követéséhez.",
+            "ro": "Vedeți o colecție remarcabilă de artefacte, inclusiv colosala statuie Kouros, și începeți la parter pentru a urma aranjamentul cronologic.",
+            "en": "View an outstanding collection of artifacts including the colossal Kouros statue, and start on the ground floor to follow the chronological layout."
+          }
+        },
+        {
+          "name": {
+            "de": "Turm Lycurgus Logothetis Museum",
+            "hu": "Lycurgus Logothetis Toronymúzeum",
+            "ro": "Muzeul Turnului Lycurgus Logothetis",
+            "en": "Tower Lycurgus Logothetis Museum"
+          },
+          "coords": [
+            26.939724,
+            37.68863
+          ],
+          "category": "museum",
+          "arrive_at": "15:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besteigen Sie diesen historischen Verteidigungsturm für einen Panoramablick auf den Hafen und bringen Sie eine Kamera für die Zinnen mit.",
+            "hu": "Mássza meg ezt a történelmi védőtornyot a kikötőre nyíló panorámáért és a forradalmi történelemért, fényképezőgépet hozva a lenyűgöző bástyákhoz.",
+            "ro": "Urcați în acest turn istoric defensiv pentru priveliști panoramice asupra portului și istorie revoluționară, aducând o cameră pentru metereze.",
+            "en": "Climb this historic defensive tower for panoramic harbor views and revolutionary history, bringing a camera for the stunning defensive battlements."
+          }
+        },
+        {
+          "name": {
+            "de": "Pythagoras-Statue",
+            "hu": "Püthagorasz-szobor",
+            "ro": "Statuia lui Pitagora",
+            "en": "Pythagoras Statue"
+          },
+          "coords": [
+            26.944928,
+            37.689796
+          ],
+          "category": "landmark",
+          "arrive_at": "17:23",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Fotografieren Sie dieses ikonische mathematische Denkmal, das den berühmten lokalen Philosophen feiert, am besten bei perfekten Licht zum Sonnenuntergang.",
+            "hu": "Fényképezze le ezt az ikonikus matematikai emlékművet, amely a híres helyi filozófust ünnepli, időzítve a felvételt a tökéletes naplementi fényekhez.",
+            "ro": "Fotografiați acest monument matematic iconic ce celebrează faimosul filosof local, aliniind fotografia la apus când lumina este absolut perfectă.",
+            "en": "Photograph this iconic mathematical monument celebrating the famous local philosopher, aligning your shot at sunset when the light is absolutely perfect."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am historischen Pythagoreion und genießen Sie die antike Atmosphäre. Mittags erkunden Sie das technische Wunderwerk von Eupalinos und die belebte Agora. Am Nachmittag tauchen Sie in den Museen tief in die lokale Geschichte ein. Der Abend lädt zu einem entspannten Spaziergang zur Pythagoras-Statue am Hafen ein.",
+        "hu": "Kezdje a reggelt a történelmi Pythagoreionnál, magába szívva az ókori hangulatot. Délben fedezze fel Eupalinosz mérnöki csodáját és a nyüzsgő Agórát. Délután merüljön el a helyi történelemben az Archeológiai és a Torony Múzeumban. Este egy pihentető séta várja a híres Püthagorasz-szobornál a festői kikötő mentén.",
+        "ro": "Începeți dimineața la istoricul Pythagoreion, absorbind vibrațiile antice. La prânz explorați minunea inginerească Eupalinos și Agora aglomerată. După-amiaza vă așteaptă o scufundare în istoria locală la Muzeul de Arheologie și Muzeul Turnului. Seara se încheie cu o plimbare relaxantă spre faimoasa statuie a lui Pitagora.",
+        "en": "Start your morning at the historic Pythagoreion, absorbing the ancient vibes. Midday leads you up to the engineering marvel of Eupalinos and the bustling Agora. In the afternoon, immerse yourself in local history at the Archaeological and Tower Museums. Evening brings a relaxing stroll to the iconic Pythagoras Statue by the harbor."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 3.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Eupalinos Tunnelschacht",
+            "hu": "Eupalinosz alagút akna",
+            "ro": "Puțul Tunelului Eupalinos",
+            "en": "Eupalinos Tunnel Shaft"
+          },
+          "coords": [
+            26.925044,
+            37.702995
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Inspizieren Sie die oberen Lüftungs- und Zugangsschächte des Wassertunnelsystems, um seine tiefe Konstruktion zu verstehen, aber treten Sie vorsichtig auf.",
+            "hu": "Vizsgálja meg a vízalagút rendszer felső szellőző- és hozzáférési aknáit a mély építkezés megértéséhez, de lépkedjen nagyon óvatosan a peremek közelében.",
+            "ro": "Inspectați puțurile superioare de ventilație și acces ale tunelului de apă pentru a înțelege construcția sa profundă, dar pășiți cu grijă la margini.",
+            "en": "Inspect the upper ventilation and access shafts of the water tunnel system to understand its deep construction, but step carefully near the edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Theater des Pythagoreion",
+            "hu": "Pythagoreion színháza",
+            "ro": "Teatrul din Pythagoreion",
+            "en": "Theatre of the Pythagoreion"
+          },
+          "coords": [
+            26.935005,
+            37.695237
+          ],
+          "category": "cultural",
+          "arrive_at": "10:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Stellen Sie sich in die Mitte des antiken griechischen Theaters, um die bemerkenswerte Akustik zu testen, und besuchen Sie es am späten Vormittag.",
+            "hu": "Álljon az ókori görög színház közepére a figyelemre méltó akusztika teszteléséhez, és látogasson el késő délelőtt, amikor a helyszín gyönyörűen megvilágított.",
+            "ro": "Stați în centrul teatrului antic grec pentru a testa acustica remarcabilă, vizitând locul spre prânz când site-ul este frumos luminat de soare.",
+            "en": "Stand in the center of the ancient Greek theatre to test the remarkable acoustics, visiting in the late morning when the site is beautifully illuminated."
+          }
+        },
+        {
+          "name": {
+            "de": "Tunnel des Eupalinos",
+            "hu": "Eupalinosz alagútja",
+            "ro": "Tunelul lui Eupalinos",
+            "en": "Tunnel of Eupalinos"
+          },
+          "coords": [
+            26.930005,
+            37.694593
+          ],
+          "category": "historical",
+          "arrive_at": "11:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Gehen Sie durch diesen unglaublichen Aquädukttunnel aus dem 6. Jahrhundert v. Chr., um antike Ingenieurskunst zu erleben, und tragen Sie feste Schuhe.",
+            "hu": "Sétáljon végig ezen a lenyűgöző Krisztus előtti 6. századi vízvezeték-alagúton az ókori mérnöki zsenialitás megcsodálásához, stabil cipőt viselve.",
+            "ro": "Plimbați-vă prin acest incredibil tunel-apeduct din secolul VI î.Hr. pentru a asista la geniul ingineresc antic, purtând încălțăminte anti-alunecare.",
+            "en": "Walk inside this incredible 6th-century BC aqueduct tunnel to witness ancient engineering genius, making sure to wear sturdy, non-slip shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Frühchristlicher Friedhof",
+            "hu": "Ókeresztény temető",
+            "ro": "Cimitirul Creștin Timpuriu",
+            "en": "Early Christian Cemetery"
+          },
+          "coords": [
+            26.927019,
+            37.691746
+          ],
+          "category": "historical",
+          "arrive_at": "13:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie zwischen den ruhigen frühchristlichen Grabstätten, um die religiösen Traditionen zu beobachten, und respektieren Sie die feierliche Atmosphäre.",
+            "hu": "Sétáljon a csendes ókeresztény temetkezési helyek között a vallási hagyományok megfigyeléséhez, tiszteletben tartva az ünnepélyes légkört halk beszéddel.",
+            "ro": "Plimbați-vă printre mormintele creștine timpurii pentru a observa tradițiile religioase, respectând atmosfera solemnă prin menținerea vocilor scăzute.",
+            "en": "Walk among the quiet early Christian burial sites to observe the shifting religious traditions, respecting the solemn atmosphere by keeping voices low."
+          }
+        },
+        {
+          "name": {
+            "de": "Archäologisches Museum",
+            "hu": "Régészeti Múzeum",
+            "ro": "Muzeul Arheologic",
+            "en": "Archaeological Museum"
+          },
+          "coords": [
+            26.94028,
+            37.691187
+          ],
+          "category": "museum",
+          "arrive_at": "14:43",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Betrachten Sie eine herausragende Sammlung von Artefakten einschließlich der kolossalen Kouros-Statue und beginnen Sie im Erdgeschoss.",
+            "hu": "Tekintse meg a műtárgyak kiemelkedő gyűjteményét, köztük a hatalmas Kourosz-szobrot, és kezdje a földszinten az időrendi elrendezés követéséhez.",
+            "ro": "Vedeți o colecție remarcabilă de artefacte, inclusiv colosala statuie Kouros, și începeți la parter pentru a urma aranjamentul cronologic.",
+            "en": "View an outstanding collection of artifacts including the colossal Kouros statue, and start on the ground floor to follow the chronological layout."
+          }
+        },
+        {
+          "name": {
+            "de": "Pythagoras-Statue",
+            "hu": "Püthagorasz-szobor",
+            "ro": "Statuia lui Pitagora",
+            "en": "Pythagoras Statue"
+          },
+          "coords": [
+            26.944928,
+            37.689796
+          ],
+          "category": "landmark",
+          "arrive_at": "16:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Fotografieren Sie dieses ikonische mathematische Denkmal, das den berühmten lokalen Philosophen feiert, am besten bei perfekten Licht zum Sonnenuntergang.",
+            "hu": "Fényképezze le ezt az ikonikus matematikai emlékművet, amely a híres helyi filozófust ünnepli, időzítve a felvételt a tökéletes naplementi fényekhez.",
+            "ro": "Fotografiați acest monument matematic iconic ce celebrează faimosul filosof local, aliniind fotografia la apus când lumina este absolut perfectă.",
+            "en": "Photograph this iconic mathematical monument celebrating the famous local philosopher, aligning your shot at sunset when the light is absolutely perfect."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre morgendliche Fahrt beginnt bei den antiken Tunnelschächten und dem kulturellen Theater. Mittags geht es zum berühmten Eupalinos-Tunnel und dem Friedhof. Am Nachmittag radeln Sie bequem zum Archäologischen Museum für lokale Kontexte. Eine abendliche Radtour führt Sie hinunter zur Pythagoras-Statue am Rand des malerischen Hafens.",
+        "hu": "Reggeli kerékpározása az ókori alagút aknáinál és a kulturális színháznál kezdődik. Délben a híres Eupalinosz-alagút és a történelmi temető felé veszi az irányt. Délután kényelmesen eltekerhet az Archeológiai Múzeumhoz. Az esti biciklizés a festői kikötő szélén álló Püthagorasz-szoborhoz vezet.",
+        "ro": "Cursa de dimineață începe la înălțimile puțurilor antice și la Teatrul cultural. La prânz mergeți spre faimosul tunel Eupalinos și cimitirul istoric. După-amiaza pedalați confortabil către Muzeul Arheologic pentru contextul local bogat. O cursă de seară vă conduce la Statuia lui Pitagora de la marginea portului pitoresc.",
+        "en": "Your morning ride starts at the heights of the ancient tunnel shafts and the cultural Theatre. Midday shifts gears to the renowned Eupalinos Tunnel and historic cemetery. In the afternoon, pedal comfortably to the Archaeological Museum for rich local context. An evening cycle leads you down to the Pythagoras Statue at the edge of the scenic harbor."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:24",
+      "total_km": 4.36,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Antike Sandsteinmine",
+            "hu": "Ősi homokkőbánya",
+            "ro": "Mina Antică de Gresie",
+            "en": "Ancient Sandstone Mine"
+          },
+          "coords": [
+            26.920075,
+            37.703372
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die riesigen ausgegrabenen Felswände, wo antike Baumeister ihr Material bezogen, und tragen Sie geschlossene Schuhe für das unebene Gelände.",
+            "hu": "Csodálja meg a hatalmas feltárt sziklafalakat, ahonnan az ókori építők anyagukat szerezték, zárt cipőt viselve az egyenetlen sziklás terep miatt.",
+            "ro": "Minunați-vă de fețele de stâncă excavate de unde constructorii antici se aprovizionau, purtând pantofi închiși pentru a naviga pe terenul accidentat.",
+            "en": "Marvel at the enormous excavated rock faces where ancient builders sourced their materials, wearing closed shoes to navigate the uneven rocky terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Antike Kalksteinmine Aijades",
+            "hu": "Aijades ősi mészkőbánya",
+            "ro": "Mina antică de calcar Aijades",
+            "en": "Aijades ancient limestone mine"
+          },
+          "coords": [
+            26.918415,
+            37.703861
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entdecken Sie die versteckten unterirdischen Kalksteinbrüche, die für große Tempel genutzt wurden, und packen Sie eine kleine Taschenlampe ein.",
+            "hu": "Fedezze fel a nagy templomokhoz használt rejtett földalatti mészkőbányákat, és vigyen magával egy kis elemlámpát a mélyebben kivájt, árnyékos részekhez.",
+            "ro": "Descoperiți carierele de calcar subterane ascunse folosite pentru temple mărețe, luând o lanternă mică, deoarece zonele sculptate mai adânci sunt întunecate.",
+            "en": "Discover the hidden subterranean limestone quarries used for grand temples, packing a small flashlight as the deeper carved areas can be quite shadowy."
+          }
+        },
+        {
+          "name": {
+            "de": "Eupalinos Tunnelschacht",
+            "hu": "Eupalinosz alagút akna",
+            "ro": "Puțul Tunelului Eupalinos",
+            "en": "Eupalinos Tunnel Shaft"
+          },
+          "coords": [
+            26.925044,
+            37.702995
+          ],
+          "category": "historical",
+          "arrive_at": "11:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Inspizieren Sie die oberen Lüftungs- und Zugangsschächte des Wassertunnelsystems, um seine tiefe Konstruktion zu verstehen, aber treten Sie vorsichtig auf.",
+            "hu": "Vizsgálja meg a vízalagút rendszer felső szellőző- és hozzáférési aknáit a mély építkezés megértéséhez, de lépkedjen nagyon óvatosan a peremek közelében.",
+            "ro": "Inspectați puțurile superioare de ventilație și acces ale tunelului de apă pentru a înțelege construcția sa profundă, dar pășiți cu grijă la margini.",
+            "en": "Inspect the upper ventilation and access shafts of the water tunnel system to understand its deep construction, but step carefully near the edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Theater des Pythagoreion",
+            "hu": "Pythagoreion színháza",
+            "ro": "Teatrul din Pythagoreion",
+            "en": "Theatre of the Pythagoreion"
+          },
+          "coords": [
+            26.935005,
+            37.695237
+          ],
+          "category": "cultural",
+          "arrive_at": "13:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Stellen Sie sich in die Mitte des antiken griechischen Theaters, um die bemerkenswerte Akustik zu testen, und besuchen Sie es am späten Vormittag.",
+            "hu": "Álljon az ókori görög színház közepére a figyelemre méltó akusztika teszteléséhez, és látogasson el késő délelőtt, amikor a helyszín gyönyörűen megvilágított.",
+            "ro": "Stați în centrul teatrului antic grec pentru a testa acustica remarcabilă, vizitând locul spre prânz când site-ul este frumos luminat de soare.",
+            "en": "Stand in the center of the ancient Greek theatre to test the remarkable acoustics, visiting in the late morning when the site is beautifully illuminated."
+          }
+        },
+        {
+          "name": {
+            "de": "Tunnel des Eupalinos",
+            "hu": "Eupalinosz alagútja",
+            "ro": "Tunelul lui Eupalinos",
+            "en": "Tunnel of Eupalinos"
+          },
+          "coords": [
+            26.930005,
+            37.694593
+          ],
+          "category": "historical",
+          "arrive_at": "14:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Gehen Sie durch diesen unglaublichen Aquädukttunnel aus dem 6. Jahrhundert v. Chr., um antike Ingenieurskunst zu erleben, und tragen Sie feste Schuhe.",
+            "hu": "Sétáljon végig ezen a lenyűgöző Krisztus előtti 6. századi vízvezeték-alagúton az ókori mérnöki zsenialitás megcsodálásához, stabil cipőt viselve.",
+            "ro": "Plimbați-vă prin acest incredibil tunel-apeduct din secolul VI î.Hr. pentru a asista la geniul ingineresc antic, purtând încălțăminte anti-alunecare.",
+            "en": "Walk inside this incredible 6th-century BC aqueduct tunnel to witness ancient engineering genius, making sure to wear sturdy, non-slip shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Turm Lycurgus Logothetis Museum",
+            "hu": "Lycurgus Logothetis Toronymúzeum",
+            "ro": "Muzeul Turnului Lycurgus Logothetis",
+            "en": "Tower Lycurgus Logothetis Museum"
+          },
+          "coords": [
+            26.939724,
+            37.68863
+          ],
+          "category": "museum",
+          "arrive_at": "15:57",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Besteigen Sie diesen historischen Verteidigungsturm für einen Panoramablick auf den Hafen und bringen Sie eine Kamera für die Zinnen mit.",
+            "hu": "Mássza meg ezt a történelmi védőtornyot a kikötőre nyíló panorámáért és a forradalmi történelemért, fényképezőgépet hozva a lenyűgöző bástyákhoz.",
+            "ro": "Urcați în acest turn istoric defensiv pentru priveliști panoramice asupra portului și istorie revoluționară, aducând o cameră pentru metereze.",
+            "en": "Climb this historic defensive tower for panoramic harbor views and revolutionary history, bringing a camera for the stunning defensive battlements."
+          }
+        },
+        {
+          "name": {
+            "de": "Pythagorio Strand",
+            "hu": "Pythagorio strand",
+            "ro": "Plaja Pythagorio",
+            "en": "Pythagorio beach"
+          },
+          "coords": [
+            26.929932,
+            37.689109
+          ],
+          "category": "recreational",
+          "arrive_at": "17:39",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.86,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den Kieselstränden nach einem langen Ruinentag und bringen Sie Wasserschuhe für ein viel komfortableres Badeerlebnis mit.",
+            "hu": "Pihenjen a kavicsos parton a hosszú romnéző nap után az Égei-tengeri kilátásért, és hozzon vízicipőt a sokkal kényelmesebb úszásélmény érdekében.",
+            "ro": "Relaxați-vă pe malurile cu pietriș după o zi de ruine pentru a admira marea Egee, aducând încălțăminte de apă pentru o experiență de înot confortabilă.",
+            "en": "Relax on the pebble shores after a long day of ruins to soak up the Aegean Sea views, bringing water shoes for a much more comfortable swimming experience."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zu den faszinierenden antiken Minen und Tunnelschächten, um die Antike zu erkunden. Mittags besuchen Sie das klassische Theater und den beeindruckenden Eupalinos-Tunnel. Verbringen Sie den Nachmittag mit Militärgeschichte im Turm Lycurgus Logothetis. Lassen Sie den Abend bei einem herrlichen Sonnenuntergang am Strand von Pythagorio ausklingen.",
+        "hu": "Vezessen fel a lenyűgöző ókori bányákhoz és alagútaknákhoz, hogy a régiségek felfedezésével kezdje a reggelt. Délben ereszkedjen le a klasszikus színházhoz és a lenyűgöző Eupalinosz-alagúthoz. Töltse a délutánt a hadtörténet megismerésével a Lycurgus Logothetis toronyban. Zárja az estét egy csodálatos naplementével a Pythagorio strandon.",
+        "ro": "Conduceți la minele antice și la puțurile tunelului pentru a începe dimineața explorând antichitatea. La prânz coborâți spre Teatrul clasic și impresionantul tunel Eupalinos. Petreceți după-amiaza scufundându-vă în istoria militară la Turnul Lycurgus Logothetis. Încheiați seara cu un apus superb la plaja Pythagorio.",
+        "en": "Drive up to the fascinating ancient mines and tunnel shafts to start your morning exploring antiquity. Midday brings you down to the classic Theatre and the impressive Eupalinos Tunnel. Spend your afternoon diving into military history at the Tower Lycurgus Logothetis. Wind down your evening with a gorgeous sunset and swim at Pythagorio beach."
+      }
+    }
+  }
+}

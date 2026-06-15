@@ -1,0 +1,543 @@
+{
+  "city_id": "italy-nuova-colmata-cities-v2",
+  "anchor": {
+    "name": "Nuova Colmata",
+    "coords": [
+      14.05515,
+      40.86016
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:38",
+      "total_km": 1.81,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Lido Nereidi",
+            "hu": "Lido Nereidi",
+            "ro": "Lido Nereidi",
+            "en": "Lido Nereidi"
+          },
+          "coords": [
+            14.044818,
+            40.868309
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie die weiten Sandstrände des Lido Nereidi, einen perfekten Ort zum Entspannen am Tyrrhenischen Meer, aber kommen Sie früh, um eine gute Liege zu sichern.",
+            "hu": "Élvezze a Lido Nereidi tágas homokos partját, amely tökéletes hely a Tirrén-tenger melletti pihenésre, de érkezzen korán, hogy jó napágyat szerezzen a vízhez közel.",
+            "ro": "Bucurați-vă de țărmurile nisipoase de la Lido Nereidi, locul perfect pentru relaxare la Marea Tireniană, dar ajungeți devreme pentru a prinde un șezlong bun la mal.",
+            "en": "Enjoy the expansive sandy shores of Lido Nereidi, a perfect spot to relax by the Tyrrhenian Sea, but arrive early to secure a premium sunbed near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Key",
+            "hu": "Key",
+            "ro": "Key",
+            "en": "Key"
+          },
+          "coords": [
+            14.04574,
+            40.862646
+          ],
+          "category": "recreational",
+          "arrive_at": "10:34",
+          "stay_min": 60,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.63,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im Key, einem lebhaften Ort mit hervorragenden Strandeinrichtungen, wo ein vorab gemieteter Sonnenschirm für einen angenehmen Nachmittag sorgt.",
+            "hu": "Kapcsolódjon ki a Key területén, egy kiváló tengerparti szolgáltatásokat nyújtó, nyüzsgő helyen, ahol a napernyő előzetes bérlése kényelmes délutánt biztosít.",
+            "ro": "Relaxați-vă la Key, un loc de recreere vibrant cu facilități excelente pe plajă, unde închirierea din timp a unei umbrele vă asigură o după-amiază confortabilă.",
+            "en": "Unwind at Key, a vibrant recreational spot offering excellent beachfront amenities, where renting a parasol in advance ensures a comfortable and shaded afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Capri Beach",
+            "hu": "Capri Beach",
+            "ro": "Capri Beach",
+            "en": "Capri Beach"
+          },
+          "coords": [
+            14.04622,
+            40.861144
+          ],
+          "category": "recreational",
+          "arrive_at": "11:37",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lebhafte Atmosphäre am Capri Beach mit seiner erfrischenden Meeresbrise und vergessen Sie nicht, reichlich Sonnencreme für einen sicheren Tag einzupacken.",
+            "hu": "Fedezze fel a Capri Beach pezsgő hangulatát a frissítő tengeri szellővel, és ne felejtsen el sok naptejet csomagolni a biztonságos, napfényes élmény érdekében.",
+            "ro": "Descoperiți atmosfera plină de viață de la Capri Beach cu briza sa marină, și nu uitați să luați multă cremă de soare pentru o experiență sigură și însorită.",
+            "en": "Discover the lively atmosphere of Capri Beach with its refreshing sea breeze, and don't forget to pack plenty of sunscreen for a safe, sun-soaked experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Vittoria Beach Club",
+            "hu": "Vittoria Beach Club",
+            "ro": "Vittoria Beach Club",
+            "en": "Vittoria Beach Club"
+          },
+          "coords": [
+            14.046836,
+            40.858799
+          ],
+          "category": "recreational",
+          "arrive_at": "12:41",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Entspannen Sie im Vittoria Beach Club, der für seine unberührte Küste bekannt ist, wo ein schneller lokaler Snack an der Bar Ihren Besuch unvergesslich macht.",
+            "hu": "Pihenjen az érintetlen partvonaláról és remek szolgáltatásairól ismert Vittoria Beach Clubban, ahol egy gyors helyi snack a bárban emlékezetessé teszi a látogatást.",
+            "ro": "Relaxați-vă la Vittoria Beach Club, renumit pentru coasta sa curată și serviciile excelente, unde o gustare locală rapidă la bar va face vizita memorabilă.",
+            "en": "Relax at the Vittoria Beach Club, renowned for its pristine shoreline and great service, where grabbing a quick local snack at the bar makes the visit memorable."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia Libera Licola Mare",
+            "hu": "Spiaggia Libera Licola Mare",
+            "ro": "Spiaggia Libera Licola Mare",
+            "en": "Spiaggia Libera Licola Mare"
+          },
+          "coords": [
+            14.046626,
+            40.854316
+          ],
+          "category": "recreational",
+          "arrive_at": "13:49",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang des öffentlichen Strandes von Licola Mare, um das authentische lokale Küstenleben zu erleben, und bringen Sie unbedingt Ihr eigenes Handtuch mit.",
+            "hu": "Sétáljon végig a Licola Mare nyilvános strandján, hogy megtapasztalja az autentikus helyi tengerparti életet, és mindenképpen vigyen magával saját törölközőt és vizet.",
+            "ro": "Plimbați-vă pe plaja publică Licola Mare pentru a experimenta viața de coastă locală autentică, asigurându-vă că aduceți propriul prosop pentru o ședere confortabilă.",
+            "en": "Stroll along the public beach of Licola Mare to experience authentic local coastal life, making sure to bring your own towel and water for a comfortable stay."
+          }
+        },
+        {
+          "name": {
+            "de": "Foresta di Cuma",
+            "hu": "Foresta di Cuma",
+            "ro": "Foresta di Cuma",
+            "en": "Foresta di Cuma"
+          },
+          "coords": [
+            14.049258,
+            40.85357
+          ],
+          "category": "natural",
+          "arrive_at": "14:53",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Erkunden Sie die ruhige Foresta di Cuma, einen alten mediterranen Wald mit viel Schatten, und tragen Sie feste Wanderschuhe für die natürlichen Pfade.",
+            "hu": "Fedezze fel a csendes Foresta di Cuma ősi mediterrán erdejét, amely kiváló árnyékot nyújt, és viseljen masszív túracipőt a természetes ösvények bejárásához.",
+            "ro": "Explorați liniștita Foresta di Cuma, o pădure mediteraneană antică care oferă umbră excelentă, și purtați pantofi de mers rezistenți pentru a naviga pe traseele ei.",
+            "en": "Explore the tranquil Foresta di Cuma, an ancient Mediterranean woodland offering excellent shade, and wear sturdy walking shoes to navigate its natural trails."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit einer frischen Brise am Lido Nereidi und spazieren Sie die Küste entlang.\n\nMittags passieren Sie lebhafte Strandclubs wie den Capri Beach, ideal für ein Bad.\n\nAm Nachmittag erreichen Sie die öffentlichen Strände von Licola Mare, wo sich die Einheimischen treffen.\n\nBeenden Sie den Tag auf den kühlen, schattigen und alten Pfaden der ruhigen Foresta di Cuma.",
+        "hu": "Kezdje a reggelt a Lido Nereidi frissítő tengerparti szellőjével, majd sétáljon végig a gyönyörű partvonalon.\n\nDélre olyan nyüzsgő strandokat érint, mint a Capri Beach, amely tökéletes egy gyors fürdőzésre.\n\nDélután a Licola Mare nyilvános homokos partjaira ér, ahol a helyiek is pihennek.\n\nA napot a Foresta di Cuma hűvös, árnyékos és ősi ösvényein zárhatja egy csendes erdei sétával.",
+        "ro": "Începeți dimineața cu o briză răcoroasă la Lido Nereidi, plimbându-vă pe coasta frumoasă.\n\nLa amiază, veți trece pe lângă cluburi de plajă vibrante precum Capri Beach, perfecte pentru o baie.\n\nDupă-amiaza vă duce pe nisipurile publice de la Licola Mare, unde se adună localnicii.\n\nÎncheiați ziua relaxându-vă pe cărările răcoroase și umbrite din vechea pădure Foresta di Cuma.",
+        "en": "Start your morning with a refreshing breeze at Lido Nereidi, walking down the beautiful coastline.\n\nBy midday, you'll pass through several vibrant beach clubs like Capri Beach, perfect for a quick refreshing dip.\n\nThe afternoon takes you further down to the public sands of Licola Mare, where locals gather.\n\nEnd your day relaxing in the cool, shaded ancient paths of the Foresta di Cuma."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:11",
+      "total_km": 3.95,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Foresta di Cuma",
+            "hu": "Foresta di Cuma",
+            "ro": "Foresta di Cuma",
+            "en": "Foresta di Cuma"
+          },
+          "coords": [
+            14.049258,
+            40.85357
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die ruhige Foresta di Cuma, einen alten mediterranen Wald mit viel Schatten, und tragen Sie feste Wanderschuhe für die natürlichen Pfade.",
+            "hu": "Fedezze fel a csendes Foresta di Cuma ősi mediterrán erdejét, amely kiváló árnyékot nyújt, és viseljen masszív túracipőt a természetes ösvények bejárásához.",
+            "ro": "Explorați liniștita Foresta di Cuma, o pădure mediteraneană antică care oferă umbră excelentă, și purtați pantofi de mers rezistenți pentru a naviga pe traseele ei.",
+            "en": "Explore the tranquil Foresta di Cuma, an ancient Mediterranean woodland offering excellent shade, and wear sturdy walking shoes to navigate its natural trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco archeologico di Cuma",
+            "hu": "Parco archeologico di Cuma",
+            "ro": "Parco archeologico di Cuma",
+            "en": "Parco archeologico di Cuma"
+          },
+          "coords": [
+            14.054455,
+            40.849331
+          ],
+          "category": "historical",
+          "arrive_at": "10:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.64,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise im Archäologischen Park von Cumae, der ältesten griechischen Kolonie in Italien, wo ein lokaler Führer antike Mythologien enthüllt.",
+            "hu": "Lépjen vissza az időben a cumae-i régészeti parkban, Olaszország legrégebbi görög gyarmatán, ahol a helyi idegenvezető feltárja a lenyűgöző ősi mitológiát.",
+            "ro": "Pășiți înapoi în timp în Parcul Arheologic din Cumae, cea mai veche colonie grecească din Italia, unde un ghid local vă va dezvălui mitologii antice fascinante.",
+            "en": "Step back in time at the Archaeological Park of Cumae, the oldest Greek colony in Italy, where hiring a local guide reveals fascinating ancient mythologies."
+          }
+        },
+        {
+          "name": {
+            "de": "Acropoli di Cuma",
+            "hu": "Acropoli di Cuma",
+            "ro": "Acropoli di Cuma",
+            "en": "Acropoli di Cuma"
+          },
+          "coords": [
+            14.051369,
+            40.849528
+          ],
+          "category": "historical",
+          "arrive_at": "11:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Akropolis von Cumae für atemberaubende Ausblicke und antike Ruinen. Halten Sie eine Wasserflasche bereit, da der Aufstieg in der Sonne steil ist.",
+            "hu": "Mássza meg a cumae-i Akropoliszt, hogy lélegzetelállító kilátásban és ősi romokban gyönyörködjön, és tartson kéznél egy üveg vizet a meredek emelkedő miatt.",
+            "ro": "Urcați pe Acropola din Cumae pentru a vedea priveliști uluitoare și ruine antice, ținând la îndemână o sticlă de apă, deoarece urcarea poate fi destul de abruptă.",
+            "en": "Ascend the Acropolis of Cumae to witness breathtaking views and ancient ruins, keeping a bottle of water handy as the climb can be quite steep in the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Apollo temple",
+            "hu": "Apollo-templom",
+            "ro": "Templul lui Apollo",
+            "en": "Apollo temple"
+          },
+          "coords": [
+            14.053533,
+            40.84855
+          ],
+          "category": "historical",
+          "arrive_at": "13:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Bewundern Sie den historischen Apollo-Tempel, die legendäre Heimat der Sibylle von Cumae, und kommen Sie am frühen Nachmittag für das beste Fotolicht.",
+            "hu": "Csodálja meg a történelmi Apolló-templomot, a cumae-i szibilla legendás otthonát, és látogasson el kora délután, hogy a legjobb fényviszonyokat élvezze a fotózáshoz.",
+            "ro": "Admirați Templul istoric al lui Apollo, casa legendară a Sibilei din Cumae, și vizitați la începutul după-amiezii pentru a vă bucura de cea mai bună lumină.",
+            "en": "Marvel at the historic Temple of Apollo, legendary home of the Cumaean Sibyl, and visit during the early afternoon to enjoy the best lighting for photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Antico Faro ? sul TufoGN",
+            "hu": "Antico Faro ? sul TufoGN",
+            "ro": "Antico Faro ? sul TufoGN",
+            "en": "Antico Faro ? sul TufoGN"
+          },
+          "coords": [
+            14.048666,
+            40.846518
+          ],
+          "category": "historical",
+          "arrive_at": "14:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Untersuchen Sie den Antico Faro sul Tufo, ein faszinierendes historisches Überbleibsel auf den Tuffsteinklippen, wo ein Fernglas einzigartige Ausblicke bietet.",
+            "hu": "Vizsgálja meg az Antico Faro sul Tufo lenyűgöző történelmi maradványát a tufa sziklákon, ahol a távcső használata egyedülálló parti kilátást biztosít.",
+            "ro": "Investigați Antico Faro sul Tufo, o rămășiță istorică fascinantă de pe stâncile de tuf, unde aducerea binoclului oferă puncte de observație unice pe coastă.",
+            "en": "Investigate the intriguing Antico Faro sul Tufo, a fascinating historical remnant on the tuff cliffs, where bringing binoculars offers unique coastal vantage points."
+          }
+        },
+        {
+          "name": {
+            "de": "Arco Felice Vecchio",
+            "hu": "Arco Felice Vecchio",
+            "ro": "Arco Felice Vecchio",
+            "en": "Arco Felice Vecchio"
+          },
+          "coords": [
+            14.065773,
+            40.84579
+          ],
+          "category": "landmark",
+          "arrive_at": "16:01",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.44,
+          "tip_5lang": {
+            "de": "Bewundern Sie den Arco Felice Vecchio, einen monumentalen römischen Backsteinbogen über der antiken Straße, und achten Sie beim Fotografieren auf den Verkehr.",
+            "hu": "Csodálja meg az Arco Felice Vecchio monumentális római téglaívét, amely az ősi utat íveli át, és ügyeljen az elhaladó forgalomra a fotózás során.",
+            "ro": "Admirați Arco Felice Vecchio, un arc de cărămidă roman monumental care se întinde peste drumul antic, și fiți atenți la traficul în trecere când faceți fotografii.",
+            "en": "Admire the Arco Felice Vecchio, a monumental Roman brick archway spanning the ancient road, and be mindful of passing traffic while capturing your photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Anfiteatro di Cuma",
+            "hu": "Anfiteatro di Cuma",
+            "ro": "Anfiteatro di Cuma",
+            "en": "Anfiteatro di Cuma"
+          },
+          "coords": [
+            14.056002,
+            40.841979
+          ],
+          "category": "historical",
+          "arrive_at": "16:21",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.93,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch das teilweise ausgegrabene Amphitheater von Cumae und tragen Sie flache Schuhe, da das Gelände sehr uneben und rau ist.",
+            "hu": "Sétáljon végig Cumae részben feltárt amfiteátrumán, amely a római szórakoztatás mementója, és viseljen lapos cipőt, mivel a terep meglehetősen egyenetlen.",
+            "ro": "Plimbați-vă prin Amfiteatrul din Cumae parțial excavat, un testament al divertismentului roman, și purtați pantofi plați deoarece terenul este destul de accidentat.",
+            "en": "Walk through the partially excavated Amphitheatre of Cumae, a testament to Roman entertainment, and wear flat shoes since the terrain is rugged and uneven."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour in der üppigen Foresta di Cuma und genießen Sie die mediterrane Flora.\n\nGegen Mittag radeln Sie zum weitläufigen Archäologischen Park von Cumae und der antiken Akropolis.\n\nIhr Nachmittag ist voller historischer Wunder, darunter der Apollo-Tempel und die Aussicht vom Antico Faro.\n\nBeenden Sie die Fahrt mit einem Besuch des Amphitheaters im wunderschönen Sonnenuntergang.",
+        "hu": "Indítsa kerékpártúráját a buja Foresta di Cuma erdejében, élvezve a mediterrán növényzetet.\n\nAhogy közeledik a dél, tekerjen a hatalmas cumae-i régészeti park és az ősi Akropolisz felé.\n\nA délután történelmi csodákkal telik, beleértve a legendás Apolló-templomot és a tengerparti kilátást az Antico Faro-tól.\n\nZárja a túrát a fenséges amfiteátrum megtekintésével a gyönyörű naplementében.",
+        "ro": "Începeți turul cu bicicleta în luxurianta Foresta di Cuma, bucurându-vă de flora mediteraneană.\n\nSpre prânz, pedalați către vastul Parc Arheologic din Cumae și antica Acropolă.\n\nDupă-amiaza este plină de minuni istorice, inclusiv legendarul Templu al lui Apollo și priveliștile de la Antico Faro.\n\nÎncheiați cursa vizitând maiestuosul Amfiteatru antic la frumosul apus de soare.",
+        "en": "Kick off your cycling tour in the lush Foresta di Cuma, enjoying the natural Mediterranean flora.\n\nAs midday approaches, pedal towards the vast Archaeological Park of Cumae and the ancient Acropolis.\n\nYour afternoon is filled with historic wonders, including the legendary Temple of Apollo and the coastal views from the Antico Faro.\n\nFinish the ride visiting the majestic Amphitheatre at sunset."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:16",
+      "total_km": 4.85,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Lido Nereidi",
+            "hu": "Lido Nereidi",
+            "ro": "Lido Nereidi",
+            "en": "Lido Nereidi"
+          },
+          "coords": [
+            14.044818,
+            40.868309
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie die weiten Sandstrände des Lido Nereidi, einen perfekten Ort zum Entspannen am Tyrrhenischen Meer, aber kommen Sie früh, um eine gute Liege zu sichern.",
+            "hu": "Élvezze a Lido Nereidi tágas homokos partját, amely tökéletes hely a Tirrén-tenger melletti pihenésre, de érkezzen korán, hogy jó napágyat szerezzen a vízhez közel.",
+            "ro": "Bucurați-vă de țărmurile nisipoase de la Lido Nereidi, locul perfect pentru relaxare la Marea Tireniană, dar ajungeți devreme pentru a prinde un șezlong bun la mal.",
+            "en": "Enjoy the expansive sandy shores of Lido Nereidi, a perfect spot to relax by the Tyrrhenian Sea, but arrive early to secure a premium sunbed near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Foresta di Cuma",
+            "hu": "Foresta di Cuma",
+            "ro": "Foresta di Cuma",
+            "en": "Foresta di Cuma"
+          },
+          "coords": [
+            14.049258,
+            40.85357
+          ],
+          "category": "natural",
+          "arrive_at": "10:29",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.68,
+          "tip_5lang": {
+            "de": "Erkunden Sie die ruhige Foresta di Cuma, einen alten mediterranen Wald mit viel Schatten, und tragen Sie feste Wanderschuhe für die natürlichen Pfade.",
+            "hu": "Fedezze fel a csendes Foresta di Cuma ősi mediterrán erdejét, amely kiváló árnyékot nyújt, és viseljen masszív túracipőt a természetes ösvények bejárásához.",
+            "ro": "Explorați liniștita Foresta di Cuma, o pădure mediteraneană antică care oferă umbră excelentă, și purtați pantofi de mers rezistenți pentru a naviga pe traseele ei.",
+            "en": "Explore the tranquil Foresta di Cuma, an ancient Mediterranean woodland offering excellent shade, and wear sturdy walking shoes to navigate its natural trails."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco archeologico di Cuma",
+            "hu": "Parco archeologico di Cuma",
+            "ro": "Parco archeologico di Cuma",
+            "en": "Parco archeologico di Cuma"
+          },
+          "coords": [
+            14.054455,
+            40.849331
+          ],
+          "category": "historical",
+          "arrive_at": "11:45",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.64,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise im Archäologischen Park von Cumae, der ältesten griechischen Kolonie in Italien, wo ein lokaler Führer antike Mythologien enthüllt.",
+            "hu": "Lépjen vissza az időben a cumae-i régészeti parkban, Olaszország legrégebbi görög gyarmatán, ahol a helyi idegenvezető feltárja a lenyűgöző ősi mitológiát.",
+            "ro": "Pășiți înapoi în timp în Parcul Arheologic din Cumae, cea mai veche colonie grecească din Italia, unde un ghid local vă va dezvălui mitologii antice fascinante.",
+            "en": "Step back in time at the Archaeological Park of Cumae, the oldest Greek colony in Italy, where hiring a local guide reveals fascinating ancient mythologies."
+          }
+        },
+        {
+          "name": {
+            "de": "Acropoli di Cuma",
+            "hu": "Acropoli di Cuma",
+            "ro": "Acropoli di Cuma",
+            "en": "Acropoli di Cuma"
+          },
+          "coords": [
+            14.051369,
+            40.849528
+          ],
+          "category": "historical",
+          "arrive_at": "13:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Akropolis von Cumae für atemberaubende Ausblicke und antike Ruinen. Halten Sie eine Wasserflasche bereit, da der Aufstieg in der Sonne steil ist.",
+            "hu": "Mássza meg a cumae-i Akropoliszt, hogy lélegzetelállító kilátásban és ősi romokban gyönyörködjön, és tartson kéznél egy üveg vizet a meredek emelkedő miatt.",
+            "ro": "Urcați pe Acropola din Cumae pentru a vedea priveliști uluitoare și ruine antice, ținând la îndemână o sticlă de apă, deoarece urcarea poate fi destul de abruptă.",
+            "en": "Ascend the Acropolis of Cumae to witness breathtaking views and ancient ruins, keeping a bottle of water handy as the climb can be quite steep in the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Apollo temple",
+            "hu": "Apollo-templom",
+            "ro": "Templul lui Apollo",
+            "en": "Apollo temple"
+          },
+          "coords": [
+            14.053533,
+            40.84855
+          ],
+          "category": "historical",
+          "arrive_at": "14:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Bewundern Sie den historischen Apollo-Tempel, die legendäre Heimat der Sibylle von Cumae, und kommen Sie am frühen Nachmittag für das beste Fotolicht.",
+            "hu": "Csodálja meg a történelmi Apolló-templomot, a cumae-i szibilla legendás otthonát, és látogasson el kora délután, hogy a legjobb fényviszonyokat élvezze a fotózáshoz.",
+            "ro": "Admirați Templul istoric al lui Apollo, casa legendară a Sibilei din Cumae, și vizitați la începutul după-amiezii pentru a vă bucura de cea mai bună lumină.",
+            "en": "Marvel at the historic Temple of Apollo, legendary home of the Cumaean Sibyl, and visit during the early afternoon to enjoy the best lighting for photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Tempo di Iside",
+            "hu": "Tempo di Iside",
+            "ro": "Tempo di Iside",
+            "en": "Tempo di Iside"
+          },
+          "coords": [
+            14.050023,
+            40.844148
+          ],
+          "category": "historical",
+          "arrive_at": "15:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.57,
+          "tip_5lang": {
+            "de": "Entdecken Sie den Isis-Tempel, um faszinierende ägyptische Einflüsse im alten Rom zu sehen, und nehmen Sie sich Zeit für die informativen Tafeln vor Ort.",
+            "hu": "Fedezze fel az Ízisz-templomot, hogy megismerje a lenyűgöző egyiptomi hatásokat az ókori rómában, és szánjon időt a helyszíni táblák elolvasására.",
+            "ro": "Descoperiți Templul lui Isis pentru a vedea influențe egiptene fascinante în Roma antică, făcându-vă timp să citiți plăcile informative de la fața locului.",
+            "en": "Discover the Temple of Isis to see fascinating Egyptian influences in ancient Roman Campania, taking time to read the on-site plaques for deeper context."
+          }
+        },
+        {
+          "name": {
+            "de": "Anfiteatro di Cuma",
+            "hu": "Anfiteatro di Cuma",
+            "ro": "Anfiteatro di Cuma",
+            "en": "Anfiteatro di Cuma"
+          },
+          "coords": [
+            14.056002,
+            40.841979
+          ],
+          "category": "historical",
+          "arrive_at": "17:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.56,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch das teilweise ausgegrabene Amphitheater von Cumae und tragen Sie flache Schuhe, da das Gelände sehr uneben und rau ist.",
+            "hu": "Sétáljon végig Cumae részben feltárt amfiteátrumán, amely a római szórakoztatás mementója, és viseljen lapos cipőt, mivel a terep meglehetősen egyenetlen.",
+            "ro": "Plimbați-vă prin Amfiteatrul din Cumae parțial excavat, un testament al divertismentului roman, și purtați pantofi plați deoarece terenul este destul de accidentat.",
+            "en": "Walk through the partially excavated Amphitheatre of Cumae, a testament to Roman entertainment, and wear flat shoes since the terrain is rugged and uneven."
+          }
+        },
+        {
+          "name": {
+            "de": "Arco Felice Vecchio",
+            "hu": "Arco Felice Vecchio",
+            "ro": "Arco Felice Vecchio",
+            "en": "Arco Felice Vecchio"
+          },
+          "coords": [
+            14.065773,
+            40.84579
+          ],
+          "category": "landmark",
+          "arrive_at": "18:31",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.93,
+          "tip_5lang": {
+            "de": "Bewundern Sie den Arco Felice Vecchio, einen monumentalen römischen Backsteinbogen über der antiken Straße, und achten Sie beim Fotografieren auf den Verkehr.",
+            "hu": "Csodálja meg az Arco Felice Vecchio monumentális római téglaívét, amely az ősi utat íveli át, és ügyeljen az elhaladó forgalomra a fotózás során.",
+            "ro": "Admirați Arco Felice Vecchio, un arc de cărămidă roman monumental care se întinde peste drumul antic, și fiți atenți la traficul în trecere când faceți fotografii.",
+            "en": "Admire the Arco Felice Vecchio, a monumental Roman brick archway spanning the ancient road, and be mindful of passing traffic while capturing your photos."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Autotag beginnt am Meer am Lido Nereidi, bevor Sie in den alten Schatten der Foresta di Cuma fahren.\n\nDer Mittag ist der Erkundung des Archäologischen Parks und der Akropolis gewidmet.\n\nDer Nachmittag führt zum faszinierenden Isis-Tempel und dem monumentalen Amphitheater, die tiefe historische Einblicke bieten.\n\nBeenden Sie Ihren Roadtrip am beeindruckenden antiken Arco Felice Vecchio.",
+        "hu": "Autós napja a tengerparti Lido Nereidi-nél kezdődik, mielőtt a Foresta di Cuma ősi árnyékába hajtana.\n\nA dél a cumae-i régészeti park és a lenyűgöző Akropolisz romjainak felfedezéséről szól.\n\nA délután az Ízisz-templom és a monumentális amfiteátrum felé veszi az irányt, mély történelmi betekintést nyújtva.\n\nFejezze be az utazást a magasba tornyosuló Arco Felice Vecchio diadalívének megtekintésével.",
+        "ro": "Ziua de condus începe la malul mării la Lido Nereidi înainte de a vă îndrepta spre umbra antică a Foresta di Cuma.\n\nAmiaza este dedicată explorării Parcului Arheologic Cumae și ruinelor Acropolei.\n\nDupă-amiaza trece la fascinantul Templu al lui Isis și la monumentalul Amfiteatru, oferind perspective istorice profunde.\n\nÎncheiați-vă călătoria cu mașina la impresionantul arc Arco Felice Vecchio.",
+        "en": "Your driving day starts by the sea at Lido Nereidi before heading into the ancient shade of Foresta di Cuma.\n\nMidday is dedicated to exploring the sprawling Cumae Archaeological Park and its impressive Acropolis ruins.\n\nThe afternoon shifts to the fascinating Temple of Isis and the monumental Amphitheatre, offering deep historical insights.\n\nConclude your road trip at the towering Arco Felice Vecchio."
+      }
+    }
+  }
+}

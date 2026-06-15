@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-liencres-cities-v2",
+  "anchor": {
+    "name": "Liencres",
+    "coords": [
+      -3.92762,
+      43.46047
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:34",
+      "total_km": 3.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Playa de Portío",
+            "hu": "Playa de Portío",
+            "ro": "Playa de Portío",
+            "en": "Playa de Portío"
+          },
+          "coords": [
+            -3.930135,
+            43.470096
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den geschützten goldenen Sand dieser malerischen Bucht, die perfekt zum Schwimmen ist, aber kommen Sie früh, um einen Parkplatz zu finden.",
+            "hu": "Élvezze e festői öböl védett aranyhomokját, amely tökéletes egy frissítő úszáshoz, de érkezzen korán, hogy biztosan találjon parkolóhelyet a közelben.",
+            "ro": "Bucurați-vă de nisipul auriu protejat al acestui golf pitoresc, perfect pentru o baie revigorantă, dar sosiți devreme pentru a găsi un loc de parcare.",
+            "en": "Enjoy the sheltered golden sands of this picturesque cove which is absolutely perfect for swimming, but be sure to arrive early to secure a parking spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Urros de Liencres",
+            "hu": "Urros de Liencres",
+            "ro": "Urros de Liencres",
+            "en": "Urros de Liencres"
+          },
+          "coords": [
+            -3.926793,
+            43.473911
+          ],
+          "category": "landmark",
+          "arrive_at": "10:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese dramatischen, aus dem Ozean ragenden Felsformationen, die ein geologisches Wunder sind, und bringen Sie unbedingt ein Weitwinkelobjektiv mit.",
+            "hu": "Csodálja meg az óceánból kiemelkedő drámai sziklaalakzatokat, amelyek lenyűgöző geológiai csodák, és ne felejtsen el nagylátószögű objektívet hozni.",
+            "ro": "Admirați aceste formațiuni stâncoase dramatice care se înalță din ocean, reprezentând o minune geologică, și nu uitați să aduceți un obiectiv super-angular.",
+            "en": "Marvel at these dramatic rock formations rising fiercely from the ocean as a true geological wonder, and remember to bring a wide-angle lens for photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Bufón de Liencres",
+            "hu": "Bufón de Liencres",
+            "ro": "Bufón de Liencres",
+            "en": "Bufón de Liencres"
+          },
+          "coords": [
+            -3.924059,
+            43.472391
+          ],
+          "category": "landmark",
+          "arrive_at": "11:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die Kraft der Natur, wenn das Meerwasser durch diese faszinierenden Felsspalten schießt, wobei Sie bei Flut die spektakulärsten Ausblicke haben.",
+            "hu": "Tapasztalja meg a természet erejét, ahogy a tengervíz kilövell ezekből a sziklahasadékokból, de a leglátványosabb élmény érdekében dagálykor látogasson ide.",
+            "ro": "Experimentați forța naturii în timp ce apa mării țâșnește prin aceste crăpături fascinante în stâncă, vizitând la maree înaltă pentru cel mai bun spectacol.",
+            "en": "Experience the raw power of nature as seawater dramatically shoots up through these fascinating rock crevices, visiting during high tide for the best show."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Cerrías",
+            "hu": "Playa de Cerrías",
+            "ro": "Playa de Cerrías",
+            "en": "Playa de Cerrías"
+          },
+          "coords": [
+            -3.936452,
+            43.468884
+          ],
+          "category": "recreational",
+          "arrive_at": "12:04",
+          "stay_min": 60,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem ruhigen, von steilen Klippen umgebenen Strand, der ideal für Ruhesuchende ist, aber packen Sie Wasser ein, da es keine Kioske gibt.",
+            "hu": "Pihenjen ezen a meredek sziklákkal körülvett, csendes strandon, amely ideális a nyugalomra vágyóknak, de hozzon magával ivóvizet, mivel nincsenek büfék.",
+            "ro": "Relaxați-vă pe această plajă liniștită înconjurată de stânci abrupte, ideală pentru căutătorii de liniște, dar luați-vă apă la pachet deoarece nu există chioșcuri.",
+            "en": "Relax on this tranquil and secluded beach completely surrounded by steep cliffs, offering total peace, but pack plenty of water since there are no facilities."
+          }
+        },
+        {
+          "name": {
+            "de": "Costa Quebrada",
+            "hu": "Costa Quebrada",
+            "ro": "Costa Quebrada",
+            "en": "Costa Quebrada"
+          },
+          "coords": [
+            -3.944445,
+            43.468046
+          ],
+          "category": "natural",
+          "arrive_at": "13:16",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Wandern Sie entlang dieser atemberaubend zerklüfteten Küstenlinie, die von jahrtausendelanger Erosion geformt wurde, und tragen Sie unbedingt feste Wanderschuhe.",
+            "hu": "Túrázzon végig ezen a lélegzetelállítóan tagolt, évezredes erózió által formált partvonalon, és mindenképpen viseljen masszív, kényelmes túracipőt.",
+            "ro": "Drumețiți de-a lungul acestei coaste uimitor de accidentate, sculptată de milenii de eroziune, și asigurați-vă că purtați încălțăminte de drumeție robustă.",
+            "en": "Hike along this breathtakingly rugged and dramatically fractured coastline shaped by millennia of erosion, and make sure to wear sturdy hiking boots."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Somocuevas",
+            "hu": "Playa de Somocuevas",
+            "ro": "Playa de Somocuevas",
+            "en": "Playa de Somocuevas"
+          },
+          "coords": [
+            -3.944847,
+            43.46929
+          ],
+          "category": "recreational",
+          "arrive_at": "14:04",
+          "stay_min": 90,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an diesem wunderschönen, windgeschützten FKK-Strand, wo Sie über eine lange Steintreppe sicher hinabsteigen müssen.",
+            "hu": "Fejezze be a sétát ezen a gyönyörű, szélvédett nudista strandon, ahová egy hosszú, de biztonságos kőlépcsőn keresztül tud kényelmesen leereszkedni.",
+            "ro": "Încheiați plimbarea pe această plajă frumoasă de nudiști, ferită de vânt, coborând cu grijă pe o scară lungă de piatră care vă duce direct la nisip.",
+            "en": "Finish your walk at this beautiful and wind-sheltered nudist beach, accessed by carefully descending a long, scenic stone staircase leading down to the sand."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einem erfrischenden Spaziergang zur Playa de Portío, bevor Sie die faszinierenden Felsformationen der Urros de Liencres erreichen.\nGegen Mittag erleben Sie die spektakulären Wasserfontänen des Bufón de Liencres und entspannen an den goldenen Sandstränden der ruhigen Playa de Cerrías.\nAm Nachmittag wandern Sie entlang der dramatischen Klippen der Costa Quebrada, wo sich Ihnen unvergessliche Ausblicke auf das wilde Kantabrische Meer bieten.\nDer Tag endet gemütlich an der windgeschützten Playa de Somocuevas, wo das sanfte Rauschen der Wellen den perfekten Ausklang für diese Küstenwanderung bildet.",
+        "hu": "A reggel egy frissítő sétával indul a Playa de Portío felé, mielőtt megérkezne az Urros de Liencres lenyűgöző, óceánból kiemelkedő sziklaalakzataihoz.\nDélben megtapasztalhatja a Bufón de Liencres látványos vízsugarait, majd megpihenhet a nyugodt Playa de Cerrías varázslatos és védett aranyhomokos partján.\nDélután a Costa Quebrada drámai sziklafalai mentén túrázhat, ahol felejthetetlen, vad és nyers panoráma nyílik a hatalmas Kantábriai-tengerre.\nA nap a szélvédett Playa de Somocuevas strandján ér véget, ahol a tenger hullámainak lágy morajlása tökéletes befejezést nyújt e lenyűgöző parti sétának.",
+        "ro": "Dimineața începe cu o plimbare revigorantă spre Playa de Portío, înainte de a ajunge la fascinantele formațiuni stâncoase din Urros de Liencres.\nLa prânz, experimentați fântânile spectaculoase de apă de la Bufón de Liencres și relaxați-vă pe nisipul auriu al plajei liniștite Playa de Cerrías.\nDupă-amiaza, veți face o drumeție de-a lungul stâncilor dramatice din Costa Quebrada, unde veți avea parte de priveliști de neuitat asupra Mării Cantabrice.\nZiua se încheie confortabil pe plaja adăpostită Playa de Somocuevas, unde sunetul blând al valurilor oferă finalul perfect pentru această plimbare de coastă.",
+        "en": "Your morning begins with a refreshing coastal walk to the scenic Playa de Portío before reaching the dramatic and towering rock formations of Urros de Liencres.\nAround midday, witness the spectacular water spouts at Bufón de Liencres, followed by a relaxing pause on the beautifully sheltered golden sands of Playa de Cerrías.\nIn the afternoon, you will hike along the breathtakingly rugged cliffs of Costa Quebrada, offering truly unforgettable panoramic views of the wild Cantabrian Sea.\nThe day concludes peacefully at the wind-sheltered Playa de Somocuevas, where the gentle sound of the crashing waves provides a perfect end to your coastal journey."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:46",
+      "total_km": 7.2,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Iglesia de la Inmaculada Concepción y San Julián",
+            "hu": "Iglesia de la Inmaculada Concepción y San Julián",
+            "ro": "Iglesia de la Inmaculada Concepción y San Julián",
+            "en": "Iglesia de la Inmaculada Concepción y San Julián"
+          },
+          "coords": [
+            -3.929637,
+            43.445051
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte Eleganz dieser charmanten Pfarrkirche, die das historische Herz der Gemeinde bildet, und achten Sie auf die schönen Holzschnitzereien.",
+            "hu": "Csodálja meg e bájos plébániatemplom egyszerű eleganciáját, amely a közösség történelmi szíve, és figyelje meg a belső tér gyönyörű fafaragásait.",
+            "ro": "Admirați eleganța simplă a acestei biserici parohiale fermecătoare, inima istorică a comunității, și observați cu atenție sculpturile frumoase în lemn.",
+            "en": "Admire the simple elegance of this charming parish church that forms the historical heart of the community, and pay special attention to the beautiful wood carvings."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo de Pedraja",
+            "hu": "Castillo de Pedraja",
+            "ro": "Castillo de Pedraja",
+            "en": "Castillo de Pedraja"
+          },
+          "coords": [
+            -3.929193,
+            43.454773
+          ],
+          "category": "historical",
+          "arrive_at": "09:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Ruinen dieser alten Verteidigungsanlage, die über der Landschaft thront, und nehmen Sie ein Fernglas für die Aussicht mit.",
+            "hu": "Fedezze fel e táj fölé magasodó, ősi védelmi építmény lenyűgöző romjait, és hozzon magával távcsövet, hogy élvezhesse a környező vidék panorámáját.",
+            "ro": "Explorați ruinele fascinante ale acestei vechi fortificații de apărare care domină peisajul și luați un binoclu pentru a admira priveliștile înconjurătoare.",
+            "en": "Explore the fascinating and atmospheric ruins of this ancient defensive structure overlooking the landscape, and bring binoculars to enjoy the sweeping panoramic views."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa del Madero",
+            "hu": "Playa del Madero",
+            "ro": "Playa del Madero",
+            "en": "Playa del Madero"
+          },
+          "coords": [
+            -3.950001,
+            43.463596
+          ],
+          "category": "recreational",
+          "arrive_at": "11:29",
+          "stay_min": 60,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie diesen wilden und unberührten Strandabschnitt, wo die Wellen kraftvoll brechen, und bleiben Sie wegen der Strömungen nah am Uferbereich.",
+            "hu": "Fedezze fel ezt a vad és érintetlen partszakaszt, ahol a hullámok erőteljesen törnek meg, és az erős áramlatok miatt fürdéskor maradjon közel a parthoz.",
+            "ro": "Descoperiți această porțiune de plajă sălbatică și curată, unde valurile se sparg cu putere, și rămâneți aproape de țărm din cauza curenților puternici.",
+            "en": "Discover this beautifully wild and unspoiled stretch of beach where the waves crash powerfully, and stay close to the shore when wading due to strong local currents."
+          }
+        },
+        {
+          "name": {
+            "de": "Bufón del Madero",
+            "hu": "Bufón del Madero",
+            "ro": "Bufón del Madero",
+            "en": "Bufón del Madero"
+          },
+          "coords": [
+            -3.947767,
+            43.465105
+          ],
+          "category": "landmark",
+          "arrive_at": "12:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beobachten Sie das spektakuläre Spritzen des Meerwassers aus den Felsöffnungen dieses Naturphänomens, wobei Sie bei stürmischem Wetter vorsichtig sein sollten.",
+            "hu": "Figyelje meg a tengervíz látványos kilövellését e természeti jelenség sziklaüregéből, de viharos időjárás esetén tartson biztonságos távolságot a szélétől.",
+            "ro": "Priviți stropii spectaculoși de apă de mare ieșind din orificiile stâncoase ale acestui fenomen natural, dar păstrați o distanță sigură pe vreme furtunoasă.",
+            "en": "Watch the spectacular and dramatic spray of seawater bursting from the rocky vents of this natural phenomenon, taking extra care near the edges in stormy weather."
+          }
+        },
+        {
+          "name": {
+            "de": "Costa Quebrada",
+            "hu": "Costa Quebrada",
+            "ro": "Costa Quebrada",
+            "en": "Costa Quebrada"
+          },
+          "coords": [
+            -3.944445,
+            43.468046
+          ],
+          "category": "natural",
+          "arrive_at": "13:14",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Wandern Sie entlang dieser atemberaubend zerklüfteten Küstenlinie, die von jahrtausendelanger Erosion geformt wurde, und tragen Sie unbedingt feste Wanderschuhe.",
+            "hu": "Túrázzon végig ezen a lélegzetelállítóan tagolt, évezredes erózió által formált partvonalon, és mindenképpen viseljen masszív, kényelmes túracipőt.",
+            "ro": "Drumețiți de-a lungul acestei coaste uimitor de accidentate, sculptată de milenii de eroziune, și asigurați-vă că purtați încălțăminte de drumeție robustă.",
+            "en": "Hike along this breathtakingly rugged and dramatically fractured coastline shaped by millennia of erosion, and make sure to wear sturdy hiking boots."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de La Arnía",
+            "hu": "Playa de La Arnía",
+            "ro": "Playa de La Arnía",
+            "en": "Playa de La Arnía"
+          },
+          "coords": [
+            -3.915823,
+            43.474024
+          ],
+          "category": "recreational",
+          "arrive_at": "14:16",
+          "stay_min": 90,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die einzigartigen geologischen Gesteinsschichten dieses Strandes, die wie Drachenrücken wirken, und besuchen Sie ihn am besten bei Ebbe.",
+            "hu": "Csodálja meg e strand egyedülálló geológiai kőzetrétegeit, amelyek sárkányhátra emlékeztetnek, és próbálja meg a látogatást az apály idejére időzíteni.",
+            "ro": "Minunați-vă de straturile geologice unice ale acestei plaje, care arată ca niște spinări de dragon, vizitând de preferință în timpul mareei joase.",
+            "en": "Marvel at the truly unique and striking geological rock layers of this beach that resemble giant dragon backs, ideally timing your visit precisely for low tide."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour im historischen Herzen von Liencres an der Kirche, bevor Sie die geheimnisvollen Ruinen des Castillo de Pedraja erkunden.\nZur Mittagszeit radeln Sie an die Küste, wo die wilde Playa del Madero und die spektakulären Felsspalten des Bufón del Madero auf Sie warten.\nAm Nachmittag folgen Sie der beeindruckenden Costa Quebrada, die mit ihren rauen Klippen und der tosenden Brandung unvergessliche Fotomotive bietet.\nDer Tag klingt an der Playa de La Arnía aus, wo die einzigartigen geologischen Gesteinsschichten im goldenen Licht der Abendsonne besonders magisch wirken.",
+        "hu": "Kerékpártúráját Liencres történelmi szívében, a templomnál kezdi, majd felfedezi a táj fölé magasodó Castillo de Pedraja rejtélyes, ősi romjait.\nDélben a part felé teker, ahol a vad Playa del Madero és a Bufón del Madero lenyűgöző, vízsugarakat kilövellő sziklahasadékai várják Önt.\nDélután a lenyűgöző Costa Quebrada mentén halad, amely zord szikláival és a morajló hullámveréssel felejthetetlen fotótémákat kínál minden utazónak.\nA nap a Playa de La Arnía partján ér véget, ahol a különleges geológiai kőzetrétegek a lemenő nap aranyló fényében varázslatos és drámai látványt nyújtanak.",
+        "ro": "Începeți turul cu bicicleta în inima istorică la biserica din Liencres, înainte de a explora ruinele misterioase ale castelului Castillo de Pedraja.\nLa prânz, pedalați spre coastă, unde vă așteaptă plaja sălbatică Playa del Madero și crăpăturile stâncoase spectaculoase de la Bufón del Madero.\nDupă-amiaza, urmați impresionanta Costa Quebrada, care oferă oportunități foto de neuitat cu stâncile sale aspre și valurile care se sparg zgomotos.\nZiua se încheie la Playa de La Arnía, unde straturile geologice unice arată de-a dreptul magic în lumina aurie a soarelui de seară.",
+        "en": "Start your cycling tour in the historical heart of Liencres at the charming local church before exploring the mysterious, ancient ruins of Castillo de Pedraja.\nAt midday, you will cycle towards the breathtaking coast, where the beautifully wild Playa del Madero and the spectacular vents of Bufón del Madero await.\nIn the afternoon, follow the incredibly impressive Costa Quebrada, offering unforgettable photography opportunities with its rugged cliffs and crashing surf.\nYour active day winds down at Playa de La Arnía, where the unique geological rock layers look absolutely magical when bathed in the golden evening sunlight."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:40",
+      "total_km": 8.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Tómbolo de Covachos",
+            "hu": "Tómbolo de Covachos",
+            "ro": "Tómbolo de Covachos",
+            "en": "Tómbolo de Covachos"
+          },
+          "coords": [
+            -3.90801,
+            43.474182
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erleben Sie diese faszinierende Sandbank, die bei Ebbe eine Insel mit dem Festland verbindet, und überprüfen Sie vorher unbedingt die Gezeitentabellen.",
+            "hu": "Tapasztalja meg ezt a lenyűgöző homokpadot, amely apálykor összeköti a szigetet a szárazfölddel, de előtte feltétlenül ellenőrizze az árapály táblázatokat.",
+            "ro": "Experimentați acest banc de nisip fascinant care conectează o insulă de continent la maree joasă, asigurându-vă că verificați tabelele de maree în prealabil.",
+            "en": "Experience this absolutely fascinating sandbank that magically connects a small island to the mainland at low tide, making sure to check tide tables carefully beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Covachos",
+            "hu": "Playa de Covachos",
+            "ro": "Playa de Covachos",
+            "en": "Playa de Covachos"
+          },
+          "coords": [
+            -3.91132,
+            43.472529
+          ],
+          "category": "recreational",
+          "arrive_at": "10:12",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die kristallklaren Gewässer dieses halbmondförmigen Sandstrandes, der wie ein verstecktes Juwel wirkt, aber Vorsicht vor den steilen Zugangswegen.",
+            "hu": "Élvezze e félhold alakú, rejtett gyöngyszemként tündöklő homokos strand kristálytiszta vizét, de legyen rendkívül óvatos a meredek és csúszós lejárókkal.",
+            "ro": "Bucurați-vă de apele cristaline ale acestei plaje de nisip în formă de semilună, o adevărată bijuterie ascunsă, dar aveți mare grijă la traseul abrupt de acces.",
+            "en": "Enjoy the incredibly crystal-clear turquoise waters of this crescent-shaped sandy beach feeling like a hidden gem, but be cautious on the rather steep access path."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de La Arnía",
+            "hu": "Playa de La Arnía",
+            "ro": "Playa de La Arnía",
+            "en": "Playa de La Arnía"
+          },
+          "coords": [
+            -3.915823,
+            43.474024
+          ],
+          "category": "recreational",
+          "arrive_at": "11:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die einzigartigen geologischen Gesteinsschichten dieses Strandes, die wie Drachenrücken wirken, und besuchen Sie ihn am besten bei Ebbe.",
+            "hu": "Csodálja meg e strand egyedülálló geológiai kőzetrétegeit, amelyek sárkányhátra emlékeztetnek, és próbálja meg a látogatást az apály idejére időzíteni.",
+            "ro": "Minunați-vă de straturile geologice unice ale acestei plaje, care arată ca niște spinări de dragon, vizitând de preferință în timpul mareei joase.",
+            "en": "Marvel at the truly unique and striking geological rock layers of this beach that resemble giant dragon backs, ideally timing your visit precisely for low tide."
+          }
+        },
+        {
+          "name": {
+            "de": "Urros de Liencres",
+            "hu": "Urros de Liencres",
+            "ro": "Urros de Liencres",
+            "en": "Urros de Liencres"
+          },
+          "coords": [
+            -3.926793,
+            43.473911
+          ],
+          "category": "landmark",
+          "arrive_at": "12:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese dramatischen, aus dem Ozean ragenden Felsformationen, die ein geologisches Wunder sind, und bringen Sie unbedingt ein Weitwinkelobjektiv mit.",
+            "hu": "Csodálja meg az óceánból kiemelkedő drámai sziklaalakzatokat, amelyek lenyűgöző geológiai csodák, és ne felejtsen el nagylátószögű objektívet hozni.",
+            "ro": "Admirați aceste formațiuni stâncoase dramatice care se înalță din ocean, reprezentând o minune geologică, și nu uitați să aduceți un obiectiv super-angular.",
+            "en": "Marvel at these dramatic rock formations rising fiercely from the ocean as a true geological wonder, and remember to bring a wide-angle lens for photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Bufón del Madero",
+            "hu": "Bufón del Madero",
+            "ro": "Bufón del Madero",
+            "en": "Bufón del Madero"
+          },
+          "coords": [
+            -3.947767,
+            43.465105
+          ],
+          "category": "landmark",
+          "arrive_at": "13:02",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie das spektakuläre Spritzen des Meerwassers aus den Felsöffnungen dieses Naturphänomens, wobei Sie bei stürmischem Wetter vorsichtig sein sollten.",
+            "hu": "Figyelje meg a tengervíz látványos kilövellését e természeti jelenség sziklaüregéből, de viharos időjárás esetén tartson biztonságos távolságot a szélétől.",
+            "ro": "Priviți stropii spectaculoși de apă de mare ieșind din orificiile stâncoase ale acestui fenomen natural, dar păstrați o distanță sigură pe vreme furtunoasă.",
+            "en": "Watch the spectacular and dramatic spray of seawater bursting from the rocky vents of this natural phenomenon, taking extra care near the edges in stormy weather."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo de Pedraja",
+            "hu": "Castillo de Pedraja",
+            "ro": "Castillo de Pedraja",
+            "en": "Castillo de Pedraja"
+          },
+          "coords": [
+            -3.929193,
+            43.454773
+          ],
+          "category": "historical",
+          "arrive_at": "13:50",
+          "stay_min": 110,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Ruinen dieser alten Verteidigungsanlage, die über der Landschaft thront, und nehmen Sie ein Fernglas für die Aussicht mit.",
+            "hu": "Fedezze fel e táj fölé magasodó, ősi védelmi építmény lenyűgöző romjait, és hozzon magával távcsövet, hogy élvezhesse a környező vidék panorámáját.",
+            "ro": "Explorați ruinele fascinante ale acestei vechi fortificații de apărare care domină peisajul și luați un binoclu pentru a admira priveliștile înconjurătoare.",
+            "en": "Explore the fascinating and atmospheric ruins of this ancient defensive structure overlooking the landscape, and bring binoculars to enjoy the sweeping panoramic views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Tag beginnt mit einer landschaftlich reizvollen Fahrt zum einzigartigen Tómbolo de Covachos und der nahegelegenen, kristallklaren Playa de Covachos.\nGegen Mittag bewundern Sie die geologischen Besonderheiten der Playa de La Arnía und die markanten Meeresfelsen der Urros de Liencres an der Küste.\nAm Nachmittag fahren Sie weiter westlich zum Bufón del Madero, um das Naturschauspiel der zischenden Wasserfontänen bei aufgewühlter See zu beobachten.\nDer Ausflug endet landeinwärts bei den historischen Ruinen des Castillo de Pedraja, von wo aus Sie den Sonnenuntergang über der gesamten Region genießen können.",
+        "hu": "A nap egy festői autózással indul a különleges Tómbolo de Covachos felé, majd megcsodálhatja a közeli Playa de Covachos kristálytiszta vizeit.\nDélben felfedezheti a Playa de La Arnía lenyűgöző geológiai képződményeit, valamint a partvidéket uraló Urros de Liencres markáns tengeri szikláit.\nDélután továbbvezet nyugat felé a Bufón del Maderohoz, hogy megfigyelhesse a természet lenyűgöző játékát, ahogy a víz kilövell a sziklák hasadékaiból.\nA kirándulás a szárazföld belsejében, a Castillo de Pedraja történelmi romjainál ér véget, ahonnan csodálatos naplementét élvezhet az egész régió felett.",
+        "ro": "Ziua începe cu o plimbare pitorească cu mașina până la unicul Tómbolo de Covachos și la plaja alăturată cu ape cristaline, Playa de Covachos.\nLa prânz, veți admira caracteristicile geologice de la Playa de La Arnía și stâncile marine izbitoare de la Urros de Liencres de pe frumoasa coastă.\nDupă-amiaza, conduceți mai spre vest la Bufón del Madero pentru a observa spectacolul natural al fântânilor de apă care țâșnesc pe o mare agitată.\nExcursia se încheie în interiorul țării, la ruinele istorice ale Castillo de Pedraja, de unde vă puteți bucura de apusul de soare peste întreaga regiune.",
+        "en": "Your road trip begins with a highly scenic drive to the unique Tómbolo de Covachos sandbank and the nearby crystal-clear turquoise waters of Playa de Covachos.\nAround midday, marvel at the striking geological features of Playa de La Arnía and the towering, dramatic sea stacks of Urros de Liencres along the coast.\nIn the afternoon, drive further west to Bufón del Madero to witness the breathtaking natural spectacle of seawater fiercely spouting through the rocky vents.\nThe journey ends beautifully inland at the historical ruins of Castillo de Pedraja, where you can enjoy a spectacular sunset over the entire coastal region."
+      }
+    }
+  }
+}

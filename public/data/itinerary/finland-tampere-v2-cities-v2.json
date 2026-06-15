@@ -1,0 +1,474 @@
+{
+  "city_id": "finland-tampere-v2-cities-v2",
+  "anchor": {
+    "name": "Tampere suburbs",
+    "coords": [
+      23.7667,
+      61.5
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "19:11",
+      "total_km": 1.35,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Spionagemuseum",
+            "hu": "Kémmúzeum",
+            "ro": "Muzeul Spionajului",
+            "en": "Spy Museum"
+          },
+          "coords": [
+            23.761019,
+            61.501099
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie internationale Spionagegeheimnisse in diesem faszinierenden Museum, in dem interaktive Ausstellungen die Geschichte lebendig werden lassen, also probieren Sie den Lügendetektortest frühzeitig aus.",
+            "hu": "Fedezze fel a nemzetközi kémkedés titkait ebben a lenyűgöző múzeumban, ahol az interaktív kiállítások életre keltik a történelmet, ezért mindenképpen próbálja ki a hazugságvizsgálót.",
+            "ro": "Descoperiți secretele spionajului internațional în acest muzeu fascinant, unde expozițiile interactive dau viață istoriei, așa că asigurați-vă că încercați detectorul de minciuni.",
+            "en": "Uncover international espionage secrets in this fascinating museum, where engaging interactive displays make history come alive, so be sure to try the lie detector test early."
+          }
+        },
+        {
+          "name": {
+            "de": "Mediamuseo Rupriikki",
+            "hu": "Mediamuseo Rupriikki",
+            "ro": "Mediamuseo Rupriikki",
+            "en": "Mediamuseo Rupriikki"
+          },
+          "coords": [
+            23.760416,
+            61.503021
+          ],
+          "category": "museum",
+          "arrive_at": "10:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Entwicklung der Kommunikationstechnologien, die die modernen Medien geprägt haben, und denken Sie daran, einen Audioguide für tiefere technische Einblicke mitzunehmen.",
+            "hu": "Fedezze fel a modern médiát formáló kommunikációs technológiák fejlődését egy nosztalgikus utazás során, és ne felejtsen el audioguide-ot kérni a mélyebb technikai betekintésekhez.",
+            "ro": "Explorați evoluția tehnologiilor de comunicare care au modelat mass-media modernă, oferind o călătorie nostalgică și nu uitați să luați un ghid audio pentru informații tehnice aprofundate.",
+            "en": "Explore the evolution of communication technologies that shaped modern media, offering a nostalgic journey, and remember to pick up an audio guide for deeper technical insights."
+          }
+        },
+        {
+          "name": {
+            "de": "Mältinrannan talviuintipaikka",
+            "hu": "Mältinrannan talviuintipaikka",
+            "ro": "Mältinrannan talviuintipaikka",
+            "en": "Mältinrannan talviuintipaikka"
+          },
+          "coords": [
+            23.756155,
+            61.504329
+          ],
+          "category": "family",
+          "arrive_at": "12:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erleben Sie die authentische finnische Kultur an diesem berühmten Winterschwimmplatz mit revitalisierenden Saunen, aber bringen Sie Ihr eigenes Handtuch und Sandalen mit.",
+            "hu": "Tapasztalja meg az autentikus finn kultúrát ezen a híres téli úszóhelyen, amely revitalizáló szaunákkal rendelkezik, de hozzon saját törölközőt és szandált a maximális kényelem érdekében.",
+            "ro": "Experimentați cultura finlandeză autentică la acest loc renumit de înot de iarnă cu saune revitalizante, dar aduceți propriul prosop și sandale pentru o experiență mai confortabilă.",
+            "en": "Witness the authentic Finnish culture at this renowned winter swimming spot with revitalizing saunas, but bring your own towel and sandals as rentals can be scarce during peak hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Milavida Museum",
+            "hu": "Milavida Múzeum",
+            "ro": "Muzeul Milavida",
+            "en": "Milavida Museum"
+          },
+          "coords": [
+            23.752486,
+            61.504038
+          ],
+          "category": "museum",
+          "arrive_at": "13:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie den opulenten Lebensstil der Familie Nottbeck in diesem atemberaubenden Palast aus dem 19. Jahrhundert und machen Sie unbedingt Fotos von den eleganten Gartenterrassen.",
+            "hu": "Csodálja meg a Nottbeck család fényűző életmódját ebben a lenyűgöző 19. századi palotában, és mindenképpen készítsen fotókat a városra néző elegáns kerti teraszokról.",
+            "ro": "Admirați stilul de viață opulent al familiei Nottbeck în acest palat uimitor din secolul al XIX-lea și asigurați-vă că faceți fotografii de pe terasele elegante ale grădinii.",
+            "en": "Admire the opulent lifestyle of the Nottbeck family within this stunning 19th-century palace, and make sure to capture photos from the elegant garden terraces overlooking the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Särkänniemi Aquarium",
+            "hu": "Särkänniemi Akvárium",
+            "ro": "Acvariul Särkänniemi",
+            "en": "Särkänniemi Aquarium"
+          },
+          "coords": [
+            23.742617,
+            61.504871
+          ],
+          "category": "family",
+          "arrive_at": "15:44",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem faszinierenden Aquarium in das globale Wasserleben ein und überprüfen Sie den Fütterungsplan am Eingang, um die aktivsten Momente der Tiere zu erleben.",
+            "hu": "Merüljön el a globális vízi életben ebben a lenyűgöző akváriumban, amely a tengeri védelmet tanítja, és ellenőrizze az etetési ütemtervet a bejáratnál a legjobb élmény érdekében.",
+            "ro": "Scufundați-vă în viața acvatică globală la acest acvariu captivant și verificați programul de hrănire la intrare pentru a surprinde cele mai active momente ale vietăților marine.",
+            "en": "Dive into global aquatic life at this engaging aquarium that educates visitors on marine conservation, and check the feeding schedule at the entrance to catch the most active moments."
+          }
+        },
+        {
+          "name": {
+            "de": "Särkänniemi",
+            "hu": "Särkänniemi",
+            "ro": "Särkänniemi",
+            "en": "Särkänniemi"
+          },
+          "coords": [
+            23.744347,
+            61.50503
+          ],
+          "category": "family",
+          "arrive_at": "17:26",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Genießen Sie aufregende Fahrgeschäfte in diesem legendären Vergnügungspark, der die Unterhaltungsszene von Tampere prägt, und kaufen Sie vorab online eine Tageskarte.",
+            "hu": "Élvezze az izgalmas túrákat és a gyönyörű tóra nyíló kilátást ebben az ikonikus vidámparkban, és vásároljon napijegyet online előre, hogy elkerülje a hosszú sorban állást.",
+            "ro": "Bucurați-vă de atracții palpitante în acest parc de distracții emblematic care definește scena de divertisment din Tampere și cumpărați un abonament de o zi online.",
+            "en": "Enjoy thrilling rides and beautiful lake views at this iconic amusement park that defines Tampere's entertainment scene, and purchase a day pass online beforehand to skip the queues."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt im Zentrum der Spionage- und Mediengeschichte von Tampere. Der Mittag bringt eine Erfrischung am See und einen Spaziergang durch den luxuriösen Milavida-Palast. Der Nachmittag widmet sich den Wundern des lokalen Aquariums. Ihr Abend endet mit aufregenden Vergnügungspark-Erlebnissen an den Ufern des wunderschönen Sees.",
+        "hu": "A reggel Tampere kémkedési és médiatörténetének szívében kezdődik. A dél megnyugtató tavi frissülést és a pazar Milavida palota felfedezését hozza el. A délután a helyi akvárium vízi csodáinak mélyére kalauzolja Önt. Az estét a naplemente által megvilágított tó melletti vidámpark izgalmai zárják.",
+        "ro": "Dimineața dvs. începe în inima istoriei spionajului și a presei din Tampere. Amiaza aduce un pivot cultural cu o baie răcoroasă în lac și o plimbare prin somptuosul palat Milavida. După-amiaza vă poartă în adâncurile descoperirilor acvatice la acvariul local. Seara se încheie cu emoțiile parcului de distracții lângă lacul scăldat de apus.",
+        "en": "Your morning begins in the heart of Tampere's espionage and media history. Midday brings a cultural pivot with a refreshing lakeside dip and a stroll through the lavish Milavida palace. The afternoon dives into the deep with aquatic discoveries at the local aquarium. Your evening concludes with vibrant amusement park thrills by the sunset-lit lake."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:19",
+      "total_km": 3.75,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Emil Aaltonen Museum",
+            "hu": "Emil Aaltonen Múzeum",
+            "ro": "Muzeul Emil Aaltonen",
+            "en": "Emil Aaltonen Museum"
+          },
+          "coords": [
+            23.74554,
+            61.492622
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über das bemerkenswerte Leben des Industriellen Emil Aaltonen in seinem wunderschön erhaltenen Zuhause, wo Sie sich Zeit nehmen sollten, seine Kunstsammlung zu betrachten.",
+            "hu": "Ismerje meg Emil Aaltonen gyáriparos figyelemre méltó életét gyönyörűen megőrzött otthonában, ahol feltétlenül szánjon időt a lenyűgöző személyes művészeti gyűjteményének megtekintésére.",
+            "ro": "Aflați despre viața remarcabilă a industriașului Emil Aaltonen în casa sa frumos conservată, unde ar trebui să vă luați timp pentru a inspecta impresionanta sa colecție de artă.",
+            "en": "Learn about the remarkable life of industrialist Emil Aaltonen in his beautifully preserved home, where you should take time to closely inspect his impressive personal art collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Nootti. Museum der finnisch-russischen Beziehungen",
+            "hu": "Nootti. A Finn-Orosz Kapcsolatok Múzeuma",
+            "ro": "Nootti. Muzeul Relațiilor Finno-Ruse",
+            "en": "Nootti. Museum of Finnish-Russian Relations"
+          },
+          "coords": [
+            23.751802,
+            61.495686
+          ],
+          "category": "museum",
+          "arrive_at": "10:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Entdecken Sie die komplexe diplomatische Geschichte zwischen Finnland und Russland anhand kuratierter Exponate und fragen Sie das sachkundige Personal nach den Artefakten des Kalten Krieges.",
+            "hu": "Fedezze fel Finnország és Oroszország összetett diplomáciai történetét, és kérdezze meg a hozzáértő személyzetet a kiállított, kevésbé ismert hidegháborús műtárgyakról.",
+            "ro": "Descoperiți istoria diplomatică complexă dintre Finlanda și Rusia prin expoziții organizate și întrebați personalul informat despre artefactele mai puțin cunoscute din Războiul Rece.",
+            "en": "Discover the complex diplomatic history between Finland and Russia through curated exhibits, and ask the knowledgeable staff about the lesser-known Cold War artifacts on display."
+          }
+        },
+        {
+          "name": {
+            "de": "Spionagemuseum",
+            "hu": "Kémmúzeum",
+            "ro": "Muzeul Spionajului",
+            "en": "Spy Museum"
+          },
+          "coords": [
+            23.761019,
+            61.501099
+          ],
+          "category": "museum",
+          "arrive_at": "12:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Entdecken Sie internationale Spionagegeheimnisse in diesem faszinierenden Museum, in dem interaktive Ausstellungen die Geschichte lebendig werden lassen, also probieren Sie den Lügendetektortest frühzeitig aus.",
+            "hu": "Fedezze fel a nemzetközi kémkedés titkait ebben a lenyűgöző múzeumban, ahol az interaktív kiállítások életre keltik a történelmet, ezért mindenképpen próbálja ki a hazugságvizsgálót.",
+            "ro": "Descoperiți secretele spionajului internațional în acest muzeu fascinant, unde expozițiile interactive dau viață istoriei, așa că asigurați-vă că încercați detectorul de minciuni.",
+            "en": "Uncover international espionage secrets in this fascinating museum, where engaging interactive displays make history come alive, so be sure to try the lie detector test early."
+          }
+        },
+        {
+          "name": {
+            "de": "Milavida Museum",
+            "hu": "Milavida Múzeum",
+            "ro": "Muzeul Milavida",
+            "en": "Milavida Museum"
+          },
+          "coords": [
+            23.752486,
+            61.504038
+          ],
+          "category": "museum",
+          "arrive_at": "14:19",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie den opulenten Lebensstil der Familie Nottbeck in diesem atemberaubenden Palast aus dem 19. Jahrhundert und machen Sie unbedingt Fotos von den eleganten Gartenterrassen.",
+            "hu": "Csodálja meg a Nottbeck család fényűző életmódját ebben a lenyűgöző 19. századi palotában, és mindenképpen készítsen fotókat a városra néző elegáns kerti teraszokról.",
+            "ro": "Admirați stilul de viață opulent al familiei Nottbeck în acest palat uimitor din secolul al XIX-lea și asigurați-vă că faceți fotografii de pe terasele elegante ale grădinii.",
+            "en": "Admire the opulent lifestyle of the Nottbeck family within this stunning 19th-century palace, and make sure to capture photos from the elegant garden terraces overlooking the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Särkänniemi",
+            "hu": "Särkänniemi",
+            "ro": "Särkänniemi",
+            "en": "Särkänniemi"
+          },
+          "coords": [
+            23.744347,
+            61.50503
+          ],
+          "category": "family",
+          "arrive_at": "16:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Genießen Sie aufregende Fahrgeschäfte in diesem legendären Vergnügungspark, der die Unterhaltungsszene von Tampere prägt, und kaufen Sie vorab online eine Tageskarte.",
+            "hu": "Élvezze az izgalmas túrákat és a gyönyörű tóra nyíló kilátást ebben az ikonikus vidámparkban, és vásároljon napijegyet online előre, hogy elkerülje a hosszú sorban állást.",
+            "ro": "Bucurați-vă de atracții palpitante în acest parc de distracții emblematic care definește scena de divertisment din Tampere și cumpărați un abonament de o zi online.",
+            "en": "Enjoy thrilling rides and beautiful lake views at this iconic amusement park that defines Tampere's entertainment scene, and purchase a day pass online beforehand to skip the queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Siilinkarin Majakka",
+            "hu": "Siilinkarin Majakka",
+            "ro": "Siilinkarin Majakka",
+            "en": "Siilinkarin Majakka"
+          },
+          "coords": [
+            23.753917,
+            61.517569
+          ],
+          "category": "landmark",
+          "arrive_at": "17:24",
+          "stay_min": 55,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Machen Sie einen Spaziergang zu diesem ikonischen Leuchtturm, der einen weiten Blick auf den See Näsijärvi bietet, aber kleiden Sie sich winddicht, da die Brise ziemlich kühl sein kann.",
+            "hu": "Tegyen egy sétát ehhez az ikonikus világítótoronyhoz, ahonnan lenyűgöző kilátás nyílik a Näsijärvi-tóra, de öltözzön szélálló rétegekbe, mivel a nyílt vízi szellő meglehetősen hűvös lehet.",
+            "ro": "Faceți o plimbare până la acest far emblematic care oferă vederi panoramice ale lacului Näsijärvi, dar îmbrăcați-vă în straturi rezistente la vânt, deoarece briza poate fi destul de rece.",
+            "en": "Take a walk or boat ride to this iconic lighthouse offering sweeping views of Lake Näsijärvi, but dress in windproof layers as the open water breezes can be quite chilling."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgenfahrten führen Sie durch die Geschichte der Industriepioniere und faszinierende diplomatische Ausstellungen. Mittags radeln Sie in die geheime Welt der Spionage und zu königlichen Palästen. Der Nachmittag ist der lebhaften Atmosphäre des Vergnügungsparks gewidmet. Ihr Abend klingt mit einer malerischen Fahrt zum ruhigen Leuchtturm aus.",
+        "hu": "A reggeli kerékpározás az ipari úttörők történelmén és mélyreható diplomáciai kiállításokon vezet keresztül. A déli tekerés a kémkedés titkos világába és egy királyi palotába visz. A délutánt a helyi vidámpark élénk hangulatának szenteljük. Az este egy festői kerékpározással zárul a csendes világítótoronyhoz.",
+        "ro": "Plimbările de dimineață vă poartă prin istoria pionierilor industriali și expoziții diplomatice profunde. Pedalarea de la prânz vă duce în lumea secretă a spionajului și pe terenurile palatelor regale. După-amiaza este dedicată atmosferei animate din parcul de distracții. Seara se încheie cu o plimbare pitorească spre apele liniștite ale farului.",
+        "en": "Morning rides lead you through industrial pioneer history and profound diplomatic exhibits. Midday pedaling takes you into the secretive world of espionage and regal palace grounds. The afternoon is dedicated to the lively atmosphere of the local amusement park. Your evening winds down with a scenic ride out to the tranquil lighthouse waters."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 5.65,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Emil Aaltonen Museum",
+            "hu": "Emil Aaltonen Múzeum",
+            "ro": "Muzeul Emil Aaltonen",
+            "en": "Emil Aaltonen Museum"
+          },
+          "coords": [
+            23.74554,
+            61.492622
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erfahren Sie mehr über das bemerkenswerte Leben des Industriellen Emil Aaltonen in seinem wunderschön erhaltenen Zuhause, wo Sie sich Zeit nehmen sollten, seine Kunstsammlung zu betrachten.",
+            "hu": "Ismerje meg Emil Aaltonen gyáriparos figyelemre méltó életét gyönyörűen megőrzött otthonában, ahol feltétlenül szánjon időt a lenyűgöző személyes művészeti gyűjteményének megtekintésére.",
+            "ro": "Aflați despre viața remarcabilă a industriașului Emil Aaltonen în casa sa frumos conservată, unde ar trebui să vă luați timp pentru a inspecta impresionanta sa colecție de artă.",
+            "en": "Learn about the remarkable life of industrialist Emil Aaltonen in his beautifully preserved home, where you should take time to closely inspect his impressive personal art collection."
+          }
+        },
+        {
+          "name": {
+            "de": "Spionagemuseum",
+            "hu": "Kémmúzeum",
+            "ro": "Muzeul Spionajului",
+            "en": "Spy Museum"
+          },
+          "coords": [
+            23.761019,
+            61.501099
+          ],
+          "category": "museum",
+          "arrive_at": "10:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie internationale Spionagegeheimnisse in diesem faszinierenden Museum, in dem interaktive Ausstellungen die Geschichte lebendig werden lassen, also probieren Sie den Lügendetektortest frühzeitig aus.",
+            "hu": "Fedezze fel a nemzetközi kémkedés titkait ebben a lenyűgöző múzeumban, ahol az interaktív kiállítások életre keltik a történelmet, ezért mindenképpen próbálja ki a hazugságvizsgálót.",
+            "ro": "Descoperiți secretele spionajului internațional în acest muzeu fascinant, unde expozițiile interactive dau viață istoriei, așa că asigurați-vă că încercați detectorul de minciuni.",
+            "en": "Uncover international espionage secrets in this fascinating museum, where engaging interactive displays make history come alive, so be sure to try the lie detector test early."
+          }
+        },
+        {
+          "name": {
+            "de": "Milavida Museum",
+            "hu": "Milavida Múzeum",
+            "ro": "Muzeul Milavida",
+            "en": "Milavida Museum"
+          },
+          "coords": [
+            23.752486,
+            61.504038
+          ],
+          "category": "museum",
+          "arrive_at": "12:35",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie den opulenten Lebensstil der Familie Nottbeck in diesem atemberaubenden Palast aus dem 19. Jahrhundert und machen Sie unbedingt Fotos von den eleganten Gartenterrassen.",
+            "hu": "Csodálja meg a Nottbeck család fényűző életmódját ebben a lenyűgöző 19. századi palotában, és mindenképpen készítsen fotókat a városra néző elegáns kerti teraszokról.",
+            "ro": "Admirați stilul de viață opulent al familiei Nottbeck în acest palat uimitor din secolul al XIX-lea și asigurați-vă că faceți fotografii de pe terasele elegante ale grădinii.",
+            "en": "Admire the opulent lifestyle of the Nottbeck family within this stunning 19th-century palace, and make sure to capture photos from the elegant garden terraces overlooking the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Särkänniemi",
+            "hu": "Särkänniemi",
+            "ro": "Särkänniemi",
+            "en": "Särkänniemi"
+          },
+          "coords": [
+            23.744347,
+            61.50503
+          ],
+          "category": "family",
+          "arrive_at": "14:17",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Genießen Sie aufregende Fahrgeschäfte in diesem legendären Vergnügungspark, der die Unterhaltungsszene von Tampere prägt, und kaufen Sie vorab online eine Tageskarte.",
+            "hu": "Élvezze az izgalmas túrákat és a gyönyörű tóra nyíló kilátást ebben az ikonikus vidámparkban, és vásároljon napijegyet online előre, hogy elkerülje a hosszú sorban állást.",
+            "ro": "Bucurați-vă de atracții palpitante în acest parc de distracții emblematic care definește scena de divertisment din Tampere și cumpărați un abonament de o zi online.",
+            "en": "Enjoy thrilling rides and beautiful lake views at this iconic amusement park that defines Tampere's entertainment scene, and purchase a day pass online beforehand to skip the queues."
+          }
+        },
+        {
+          "name": {
+            "de": "Poolbereich und Day Spa im Tampereen Kehräämö",
+            "hu": "Medence és nappali fürdő a Tampereen Kehräämöben",
+            "ro": "Zonă de piscină și spa la Tampereen Kehräämö",
+            "en": "Pool area and day spa at Tampereen Kehräämö"
+          },
+          "coords": [
+            23.774028,
+            61.511417
+          ],
+          "category": "family",
+          "arrive_at": "15:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesen luxuriösen historischen Spa-Einrichtungen, die industrielles Erbe mit moderner Entspannung verbinden, und buchen Sie Ihre Massagesitzungen mindestens eine Woche im Voraus.",
+            "hu": "Pihenjen ezekben a luxus történelmi gyógyfürdő-létesítményekben, amelyek ötvözik az ipari örökséget a modern kikapcsolódással, és foglaljon masszázst legalább egy héttel előre.",
+            "ro": "Relaxați-vă în aceste facilități istorice de lux care îmbină moștenirea industrială cu relaxarea modernă și rezervați-vă ședințele de masaj cu cel puțin o săptămână înainte.",
+            "en": "Unwind in these luxurious historical spa facilities that blend industrial heritage with modern relaxation, and book your massage sessions at least a week in advance to guarantee a spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Kaupinojan uimaranta",
+            "hu": "Kaupinojan uimaranta",
+            "ro": "Kaupinojan uimaranta",
+            "en": "Kaupinojan uimaranta"
+          },
+          "coords": [
+            23.802735,
+            61.514345
+          ],
+          "category": "recreational",
+          "arrive_at": "16:55",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erholen Sie sich, indem Sie nach einem heißen traditionellen Saunagang in den erfrischenden See tauchen, und achten Sie darauf, die lokale Ruhe-Etikette auf den Holzstegen zu respektieren.",
+            "hu": "Frissüljön fel a tóba merülve egy forró hagyományos szaunázás után, és ügyeljen arra, hogy tiszteletben tartsa a helyi csendes etikettet a fapados stégeken való hűsölés közben.",
+            "ro": "Întineriți-vă scufundându-vă în lacul răcoros după o sesiune de saună tradițională fierbinte și asigurați-vă că respectați eticheta liniștită locală în timp ce vă relaxați pe docurile de lemn.",
+            "en": "Rejuvenate by diving into the refreshing lake after a hot traditional sauna session, and make sure to respect the local quiet etiquette while cooling down on the wooden docks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt mit einem Einblick in das Erbe lokaler Industrieller und spannenden Spionagegeschichten. Mittags besuchen Sie ein elegantes Palastanwesen und den legendären Vergnügungspark. Der Nachmittag geht in pure Entspannung in einem historischen Day Spa über. Ihr Abend endet wunderschön mit einem Bad bei Sonnenuntergang am örtlichen Strand.",
+        "hu": "Utazása a helyi gyárosok örökségének és izgalmas kémtörténeteknek a felfedezésével kezdődik. A dél egy elegáns palotabirtokra és az ikonikus vidámpark nyüzsgő energiájához vezet. A délután tiszta pihenésbe megy át egy történelmi gyógyfürdőben. Az este egy gyönyörű naplemente úszással ér véget a szeretett helyi strandon.",
+        "ro": "Călătoria dvs. cu mașina începe cu o incursiune în moștenirea industrială locală și povești palpitante de spionaj. Amiaza vă aduce la o proprietate elegantă și la energia parcului de distracții. După-amiaza trece la o relaxare pură la un spa istoric. Seara se încheie minunat cu o baie la apusul soarelui pe plaja locală iubită.",
+        "en": "Your drive begins with a dive into local industrialist legacy and thrilling espionage tales. Midday brings you to an elegant palace estate and the vibrant energy of the iconic amusement park. The afternoon transitions to pure relaxation at a historic industrial day spa. Your evening wraps up beautifully with a sunset swim at the beloved local beach."
+      }
+    }
+  }
+}

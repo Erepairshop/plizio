@@ -1,0 +1,589 @@
+{
+  "city_id": "bangkok-cities-v2",
+  "anchor": {
+    "name": "Bangkok",
+    "coords": [
+      100.5018,
+      13.7563
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:45",
+      "total_km": 1.55,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Wat Mahannapharam Worawihan",
+            "hu": "Wat Mahannapharam Worawihan",
+            "ro": "Wat Mahannapharam Worawihan",
+            "en": "Wat Mahannapharam Worawihan"
+          },
+          "coords": [
+            100.499366,
+            13.754703
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende historische Architektur dieses alten buddhistischen Tempels, der eine wichtige Buddha-Statue beherbergt, und denken Sie daran, sich angemessen zu kleiden.",
+            "hu": "Csodálja meg ennek az ősi buddhista templomnak a lenyűgöző történelmi építészetét, amely egy fontos Buddha-szobrot őriz, és ne felejtsen el szerényen felöltözni a belépés előtt.",
+            "ro": "Admirați arhitectura istorică impresionantă a acestui templu budist antic, care adăpostește o importantă statuie a lui Buddha, și amintiți-vă să vă îmbrăcați modest la intrare.",
+            "en": "Admire the striking historical architecture of this ancient Buddhist temple which houses an important Buddha image, and remember to dress modestly before entering the sacred halls."
+          }
+        },
+        {
+          "name": {
+            "de": "Lang Wat Ratchanatda Community Flea Market",
+            "hu": "Lang Wat Ratchanatda Közösségi Bolhapiac",
+            "ro": "Piața de vechituri Lang Wat Ratchanatda",
+            "en": "Lang Wat Ratchanatda Community Flea Market"
+          },
+          "coords": [
+            100.50182,
+            13.754888
+          ],
+          "category": "cultural",
+          "arrive_at": "09:54",
+          "stay_min": 50,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Stöbern Sie durch eine unglaubliche Vielfalt an traditionellen Amuletten und lokalem Kunsthandwerk, das die thailändische Kultur widerspiegelt, aber seien Sie bereit, höflich zu verhandeln.",
+            "hu": "Böngésszen a hagyományos amulettek és a thai kultúrát tükröző helyi kézműves termékek hihetetlen választékában, de készüljön fel arra, hogy udvariasan alkudozzon az árusokkal.",
+            "ro": "Răsfoiți o varietate incredibilă de amulete tradiționale și obiecte de artizanat locale care reflectă cultura thailandeză, dar fiți pregătiți să negociați prețurile politicos cu vânzătorii.",
+            "en": "Browse through an incredible variety of traditional amulets and local handicrafts that reflect Thai culture, but be prepared to negotiate prices politely with the friendly vendors."
+          }
+        },
+        {
+          "name": {
+            "de": "Loha Prasat",
+            "hu": "Loha Prasat",
+            "ro": "Loha Prasat",
+            "en": "Loha Prasat"
+          },
+          "coords": [
+            100.504207,
+            13.754838
+          ],
+          "category": "tower",
+          "arrive_at": "10:48",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die einzigartigen Metalltürme dieses architektonischen Meisterwerks, die die siebenunddreißig Tugenden zur Erleuchtung darstellen, und steigen Sie für eine tolle Aussicht nach oben.",
+            "hu": "Csodálja meg ennek az építészeti remekműnek az egyedi fémtornyait, amelyek a megvilágosodás felé vezető harminchét erényt képviselik, és másszon fel a felső szintekre a kilátásért.",
+            "ro": "Minunați-vă de turlele metalice unice ale acestei capodopere arhitecturale reprezentând cele treizeci și șapte de virtuți spre iluminare și urcați la nivelurile superioare pentru a vedea orașul.",
+            "en": "Marvel at the unique metal spires of this architectural masterpiece representing the thirty-seven virtues toward enlightenment, and climb to the top levels for a great city view."
+          }
+        },
+        {
+          "name": {
+            "de": "Mahakan Fort",
+            "hu": "Mahakan Erőd",
+            "ro": "Fortul Mahakan",
+            "en": "Mahakan Fort"
+          },
+          "coords": [
+            100.505525,
+            13.755617
+          ],
+          "category": "fortress",
+          "arrive_at": "11:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser historischen weißen Festung, die einst die Altstadt von Bangkok schützte, und spazieren Sie durch den angrenzenden Park, um Teile der alten Mauer zu sehen.",
+            "hu": "Fedezze fel ennek a történelmi fehér erődnek a maradványait, amely egykor Bangkok óvárosát védte, és sétáljon egyet a szomszédos parkban, hogy megnézze az ősi fal egy részét.",
+            "ro": "Explorați rămășițele acestei fortărețe albe istorice care proteja odată orașul vechi Bangkok și faceți o plimbare prin parcul adiacent pentru a vedea secțiuni ale vechiului zid.",
+            "en": "Explore the remnants of this historic white fortress that once protected the old city of Bangkok, and take a moment to walk through the adjacent park to see sections of the ancient wall."
+          }
+        },
+        {
+          "name": {
+            "de": "The Queen's Gallery",
+            "hu": "A Királynő Galériája",
+            "ro": "The Queen's Gallery",
+            "en": "The Queen's Gallery"
+          },
+          "coords": [
+            100.505132,
+            13.756545
+          ],
+          "category": "museum",
+          "arrive_at": "12:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine große Auswahl an atemberaubender zeitgenössischer thailändischer Kunst und wunderschönen Textilien, die von der Königin unterstützt werden, und besuchen Sie den Geschenkeladen.",
+            "hu": "Fedezze fel a királynő által támogatott lenyűgöző kortárs thai művészet és gyönyörű textíliák széles választékát, és látogasson el a földszinten található ajándékboltba egyedi emléktárgyakért.",
+            "ro": "Descoperiți o gamă largă de artă contemporană thailandeză uimitoare și textile tradiționale frumoase susținute de Regină și vizitați magazinul de cadouri de la parter pentru suveniruri unice.",
+            "en": "Discover a wide array of stunning contemporary Thai art and beautiful traditional textiles supported by the Queen, and visit the gift shop on the ground floor for unique souvenirs."
+          }
+        },
+        {
+          "name": {
+            "de": "Ratchadamnoen Art Center",
+            "hu": "Ratchadamnoen Művészeti Központ",
+            "ro": "Centrul de Artă Ratchadamnoen",
+            "en": "Ratchadamnoen Art Center"
+          },
+          "coords": [
+            100.502741,
+            13.756106
+          ],
+          "category": "cultural",
+          "arrive_at": "14:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Genießen Sie die wechselnden Ausstellungen moderner bildender Kunst, die den kreativen Geist lokaler Künstler unterstreichen, und informieren Sie sich vorab online über spezielle Veranstaltungen.",
+            "hu": "Élvezze a modern vizuális művészetek változó kiállításait, amelyek kiemelik a helyi művészek kreatív szellemét, és előzetesen ellenőrizze online az ütemtervüket a különleges események miatt.",
+            "ro": "Bucurați-vă de expozițiile rotative de arte vizuale moderne care evidențiază spiritul creativ al artiștilor locali și verificați programul lor online în prealabil pentru evenimente speciale.",
+            "en": "Enjoy the rotating exhibitions of modern visual arts that highlight the creative spirit of local artists, and check their schedule online beforehand to see what special events are taking place."
+          }
+        },
+        {
+          "name": {
+            "de": "Rattanakosin Exhibition Hall",
+            "hu": "Rattanakosin Kiállítóterem",
+            "ro": "Sala de Expoziții Rattanakosin",
+            "en": "Rattanakosin Exhibition Hall"
+          },
+          "coords": [
+            100.503801,
+            13.755886
+          ],
+          "category": "museum",
+          "arrive_at": "16:04",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch interaktive Multimedia-Ausstellungen in die reiche Geschichte und das kulturelle Erbe der Rattanakosin-Ära ein und planen Sie mindestens zwei Stunden für die Führung ein.",
+            "hu": "Merüljön el a Rattanakosin-korszak gazdag történelmében és kulturális örökségében interaktív multimédiás kijelzőkön keresztül, és szánjon legalább két órát a vezetett túra teljes élvezetére.",
+            "ro": "Cufundați-vă în istoria bogată și moștenirea culturală a erei Rattanakosin prin afișaje multimedia interactive și alocați cel puțin două ore pentru a aprecia pe deplin turul ghidat.",
+            "en": "Immerse yourself in the rich history and cultural heritage of the Rattanakosin era through interactive multimedia displays, and allocate at least two hours to fully appreciate the guided tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Golden Mount",
+            "hu": "Aranyhegy (Golden Mount)",
+            "ro": "Muntele de Aur",
+            "en": "Golden Mount"
+          },
+          "coords": [
+            100.506698,
+            13.753852
+          ],
+          "category": "landmark",
+          "arrive_at": "17:50",
+          "stay_min": 55,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Wendeltreppe zur Spitze dieses heiligen künstlichen Hügels, um atemberaubende Panoramablicke auf Bangkok bei Sonnenuntergang zu genießen, und läuten Sie die Gebetsglocken.",
+            "hu": "Mássza meg a kanyargós lépcsőt ennek a szent mesterséges dombnak a tetejére, hogy lélegzetelállító panorámát élvezhessen naplementekor, és ne felejtse el megkongatni az imaharangokat a jó szerencséért.",
+            "ro": "Urcați scara șerpuită până în vârful acestui deal artificial sacru pentru vederi panoramice uluitoare la apus și amintiți-vă să sunați clopotele de rugăciune de pe potecă pentru noroc.",
+            "en": "Climb the winding staircase to the top of this sacred artificial hill for breathtaking panoramic views of Bangkok at sunset, and remember to ring the prayer bells along the path for good luck."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Wir beginnen unseren Rundgang am eleganten Wat Mahannapharam Worawihan und tauchen in die spirituelle Atmosphäre ein, bevor wir die Schätze des nahegelegenen Flohmarkts erkunden.\nMidday: Am Mittag bewundern wir das architektonische Wunderwerk Loha Prasat, gefolgt von einem historischen Spaziergang durch die Anlagen des Mahakan Forts, um die alten Verteidigungsstrukturen zu sehen.\nAfternoon: Danach tauchen wir in die lokale Kunstszene ein und besuchen The Queen's Gallery sowie das Ratchadamnoen Art Center, die beide traditionelle und zeitgenössische Werke ausstellen.\nEvening: Wir beenden unseren kulturellen Tag in der Rattanakosin Exhibition Hall, bevor wir schließlich den Golden Mount besteigen, um einen unvergesslichen Sonnenuntergang über der Stadt zu erleben.",
+        "hu": "Morning: Sétánkat az elegáns Wat Mahannapharam Worawihan templomnál kezdjük, elmerülve a nyugodt spirituális légkörben, mielőtt felfedezzük a közeli bolhapiac egyedi kincseit és hangulatát.\nMidday: Délben a Loha Prasat építészeti csodájához látogatunk, majd egy történelmi sétát teszünk a Mahakan Erőd területén, hogy megcsodáljuk a város ősi védelmi struktúráinak megmaradt részeit.\nAfternoon: Ezután belevetjük magunkat a helyi művészeti életbe a The Queen's Gallery és a Ratchadamnoen Art Center inspiráló látogatásával, amelyek hagyományos és kortárs műveket egyaránt bemutatnak.\nEvening: Kulturális napunkat a Rattanakosin Kiállítóteremben zárjuk, mielőtt felmásznánk az ikonikus Aranyhegyre, hogy megcsodáljuk a város felett lenyugvó nap varázslatos és felejthetetlen látványát.",
+        "ro": "Morning: Începem turul nostru la elegantul Wat Mahannapharam Worawihan, absorbind atmosfera spirituală senină înainte de a explora descoperirile unice de la piața de vechituri a comunității din apropiere.\nMidday: Amiaza ne duce la minunea arhitecturală Loha Prasat, urmată de o plimbare istorică prin incinta Fortului Mahakan pentru a aprecia structurile defensive antice ale orașului care au rezistat timpului.\nAfternoon: Apoi, ne scufundăm în scena de artă locală cu vizite pline de inspirație la The Queen's Gallery și la Ratchadamnoen Art Center, evidențiind atât expresiile creative tradiționale, cât și pe cele contemporane.\nEvening: Încheiem ziua noastră culturală la Rattanakosin Exhibition Hall înainte de a urca în cele din urmă pe emblematicul Golden Mount pentru a prinde un apus de soare fascinant și de neuitat peste întregul oraș.",
+        "en": "Morning: We begin our walking tour at the elegant Wat Mahannapharam Worawihan, soaking in the serene spiritual atmosphere before exploring the unique finds at the nearby community flea market.\nMidday: The afternoon takes us to the architectural marvel of Loha Prasat, followed by a historical stroll through the grounds of Mahakan Fort to appreciate the city's ancient defensive structures.\nAfternoon: Next, we dive into the local art scene with inspiring visits to The Queen's Gallery and the Ratchadamnoen Art Center, highlighting both traditional and contemporary creative expressions.\nEvening: We conclude our rich cultural day at the Rattanakosin Exhibition Hall before finally ascending the iconic Golden Mount to catch a mesmerizing and unforgettable sunset over the entire city."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:41",
+      "total_km": 2.25,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Wat Parinayok Worawihan",
+            "hu": "Wat Parinayok Worawihan",
+            "ro": "Wat Parinayok Worawihan",
+            "en": "Wat Parinayok Worawihan"
+          },
+          "coords": [
+            100.505678,
+            13.758338
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erleben Sie die ruhige Atmosphäre dieses weniger bekannten Tempels mit seinen aufwendigen Dekorationen und dem friedlichen Innenhof, der einen perfekten Rückzugsort von den belebten Straßen bietet.",
+            "hu": "Tapasztalja meg ennek a kevésbé ismert templomnak a nyugodt légkörét bonyolult díszítéseivel és békés udvarával, amely tökéletes csendes menedéket nyújt a kinti forgalmas utcáktól.",
+            "ro": "Experimentați atmosfera senină a acestui templu mai puțin cunoscut, cu decorațiunile sale complicate și curtea liniștită, oferind o retragere tăcută perfectă de pe străzile aglomerate din exterior.",
+            "en": "Experience the serene atmosphere of this lesser-known temple with its intricate decorations and peaceful courtyard, providing a perfect quiet retreat from the busy city streets outside."
+          }
+        },
+        {
+          "name": {
+            "de": "The Queen's Gallery",
+            "hu": "A Királynő Galériája",
+            "ro": "The Queen's Gallery",
+            "en": "The Queen's Gallery"
+          },
+          "coords": [
+            100.505132,
+            13.756545
+          ],
+          "category": "museum",
+          "arrive_at": "09:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine große Auswahl an atemberaubender zeitgenössischer thailändischer Kunst und wunderschönen Textilien, die von der Königin unterstützt werden, und besuchen Sie den Geschenkeladen.",
+            "hu": "Fedezze fel a királynő által támogatott lenyűgöző kortárs thai művészet és gyönyörű textíliák széles választékát, és látogasson el a földszinten található ajándékboltba egyedi emléktárgyakért.",
+            "ro": "Descoperiți o gamă largă de artă contemporană thailandeză uimitoare și textile tradiționale frumoase susținute de Regină și vizitați magazinul de cadouri de la parter pentru suveniruri unice.",
+            "en": "Discover a wide array of stunning contemporary Thai art and beautiful traditional textiles supported by the Queen, and visit the gift shop on the ground floor for unique souvenirs."
+          }
+        },
+        {
+          "name": {
+            "de": "Phanfa Leelard",
+            "hu": "Phanfa Leelard",
+            "ro": "Phanfa Leelard",
+            "en": "Phanfa Leelard"
+          },
+          "coords": [
+            100.506445,
+            13.755512
+          ],
+          "category": "landmark",
+          "arrive_at": "11:33",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Beobachten Sie das geschäftige Treiben an dieser wichtigen historischen Kreuzung und Brücke, die ältere Viertel verbindet, und die ein faszinierender Ort ist, um lebhafte Fotos des Stadtlebens zu machen.",
+            "hu": "Figyelje meg a nyüzsgő tevékenységet ezen a történelmi csomóponton és az idősebb negyedeket összekötő hídon, amely lenyűgöző helyszín a helyi városi élet élénk fényképeinek elkészítéséhez.",
+            "ro": "Observați activitatea plină de viață de la această importantă intersecție istorică și podul care conectează cartierele vechi, fiind un loc fascinant pentru a surprinde fotografii vibrante.",
+            "en": "Observe the bustling activity at this important historical intersection and bridge connecting older districts, which serves as a fascinating spot to capture vibrant photographs of local urban life."
+          }
+        },
+        {
+          "name": {
+            "de": "Loha Prasat",
+            "hu": "Loha Prasat",
+            "ro": "Loha Prasat",
+            "en": "Loha Prasat"
+          },
+          "coords": [
+            100.504207,
+            13.754838
+          ],
+          "category": "tower",
+          "arrive_at": "12:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die einzigartigen Metalltürme dieses architektonischen Meisterwerks, die die siebenunddreißig Tugenden zur Erleuchtung darstellen, und steigen Sie für eine tolle Aussicht nach oben.",
+            "hu": "Csodálja meg ennek az építészeti remekműnek az egyedi fémtornyait, amelyek a megvilágosodás felé vezető harminchét erényt képviselik, és másszon fel a felső szintekre a kilátásért.",
+            "ro": "Minunați-vă de turlele metalice unice ale acestei capodopere arhitecturale reprezentând cele treizeci și șapte de virtuți spre iluminare și urcați la nivelurile superioare pentru a vedea orașul.",
+            "en": "Marvel at the unique metal spires of this architectural masterpiece representing the thirty-seven virtues toward enlightenment, and climb to the top levels for a great city view."
+          }
+        },
+        {
+          "name": {
+            "de": "Lang Wat Ratchanatda Community Flea Market",
+            "hu": "Lang Wat Ratchanatda Közösségi Bolhapiac",
+            "ro": "Piața de vechituri Lang Wat Ratchanatda",
+            "en": "Lang Wat Ratchanatda Community Flea Market"
+          },
+          "coords": [
+            100.50182,
+            13.754888
+          ],
+          "category": "cultural",
+          "arrive_at": "12:27",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Stöbern Sie durch eine unglaubliche Vielfalt an traditionellen Amuletten und lokalem Kunsthandwerk, das die thailändische Kultur widerspiegelt, aber seien Sie bereit, höflich zu verhandeln.",
+            "hu": "Böngésszen a hagyományos amulettek és a thai kultúrát tükröző helyi kézműves termékek hihetetlen választékában, de készüljön fel arra, hogy udvariasan alkudozzon az árusokkal.",
+            "ro": "Răsfoiți o varietate incredibilă de amulete tradiționale și obiecte de artizanat locale care reflectă cultura thailandeză, dar fiți pregătiți să negociați prețurile politicos cu vânzătorii.",
+            "en": "Browse through an incredible variety of traditional amulets and local handicrafts that reflect Thai culture, but be prepared to negotiate prices politely with the friendly vendors."
+          }
+        },
+        {
+          "name": {
+            "de": "Ratchadamnoen Art Center",
+            "hu": "Ratchadamnoen Művészeti Központ",
+            "ro": "Centrul de Artă Ratchadamnoen",
+            "en": "Ratchadamnoen Art Center"
+          },
+          "coords": [
+            100.502741,
+            13.756106
+          ],
+          "category": "cultural",
+          "arrive_at": "13:18",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Genießen Sie die wechselnden Ausstellungen moderner bildender Kunst, die den kreativen Geist lokaler Künstler unterstreichen, und informieren Sie sich vorab online über spezielle Veranstaltungen.",
+            "hu": "Élvezze a modern vizuális művészetek változó kiállításait, amelyek kiemelik a helyi művészek kreatív szellemét, és előzetesen ellenőrizze online az ütemtervüket a különleges események miatt.",
+            "ro": "Bucurați-vă de expozițiile rotative de arte vizuale moderne care evidențiază spiritul creativ al artiștilor locali și verificați programul lor online în prealabil pentru evenimente speciale.",
+            "en": "Enjoy the rotating exhibitions of modern visual arts that highlight the creative spirit of local artists, and check their schedule online beforehand to see what special events are taking place."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Mahannapharam Worawihan",
+            "hu": "Wat Mahannapharam Worawihan",
+            "ro": "Wat Mahannapharam Worawihan",
+            "en": "Wat Mahannapharam Worawihan"
+          },
+          "coords": [
+            100.499366,
+            13.754703
+          ],
+          "category": "religious",
+          "arrive_at": "15:01",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende historische Architektur dieses alten buddhistischen Tempels, der eine wichtige Buddha-Statue beherbergt, und denken Sie daran, sich angemessen zu kleiden.",
+            "hu": "Csodálja meg ennek az ősi buddhista templomnak a lenyűgöző történelmi építészetét, amely egy fontos Buddha-szobrot őriz, és ne felejtsen el szerényen felöltözni a belépés előtt.",
+            "ro": "Admirați arhitectura istorică impresionantă a acestui templu budist antic, care adăpostește o importantă statuie a lui Buddha, și amintiți-vă să vă îmbrăcați modest la intrare.",
+            "en": "Admire the striking historical architecture of this ancient Buddhist temple which houses an important Buddha image, and remember to dress modestly before entering the sacred halls."
+          }
+        },
+        {
+          "name": {
+            "de": "Golden Mount",
+            "hu": "Aranyhegy (Golden Mount)",
+            "ro": "Muntele de Aur",
+            "en": "Golden Mount"
+          },
+          "coords": [
+            100.506698,
+            13.753852
+          ],
+          "category": "landmark",
+          "arrive_at": "15:46",
+          "stay_min": 55,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.79,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Wendeltreppe zur Spitze dieses heiligen künstlichen Hügels, um atemberaubende Panoramablicke auf Bangkok bei Sonnenuntergang zu genießen, und läuten Sie die Gebetsglocken.",
+            "hu": "Mássza meg a kanyargós lépcsőt ennek a szent mesterséges dombnak a tetejére, hogy lélegzetelállító panorámát élvezhessen naplementekor, és ne felejtse el megkongatni az imaharangokat a jó szerencséért.",
+            "ro": "Urcați scara șerpuită până în vârful acestui deal artificial sacru pentru vederi panoramice uluitoare la apus și amintiți-vă să sunați clopotele de rugăciune de pe potecă pentru noroc.",
+            "en": "Climb the winding staircase to the top of this sacred artificial hill for breathtaking panoramic views of Bangkok at sunset, and remember to ring the prayer bells along the path for good luck."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihre Radtour am friedlichen Wat Parinayok Worawihan und nehmen Sie sich Zeit für die Details, bevor Sie zu den fesselnden Kunstsammlungen in The Queen's Gallery weiterradeln.\nMidday: Radeln Sie zur belebten Kreuzung Phanfa Leelard, parken Sie Ihr Fahrrad, um die Metalltürme des Loha Prasat zu bewundern und auf dem angrenzenden Flohmarkt nach lokalen Schätzen zu suchen.\nAfternoon: Die Fahrt geht weiter mit einem Besuch im dynamischen Ratchadamnoen Art Center, um moderne Ausstellungen zu sehen, gefolgt von einem ruhigen Stopp am Wat Mahannapharam Worawihan.\nEvening: Wir beenden unseren aktiven Tag, indem wir zum majestätischen Golden Mount radeln, die Fahrräder stehen lassen und die Treppen erklimmen, um bei Sonnenuntergang den herrlichen Panoramablick zu genießen.",
+        "hu": "Morning: Kezdje kerékpáros túráját a békés Wat Parinayok Worawihannál, szánjon időt a részletekre, mielőtt átkerekezik a The Queen's Gallery magával ragadó művészeti gyűjteményeinek felfedezésére.\nMidday: Tekerjen el a nyüzsgő Phanfa Leelard kereszteződéshez, majd parkolja le a kerékpárját, hogy megcsodálja a Loha Prasat fémtornyait, és helyi kincsekre vadásszon a szomszédos közösségi bolhapiacon.\nAfternoon: Az utazás a dinamikus Ratchadamnoen Art Center látogatásával folytatódik modern kiállítások megtekintéséhez, amelyet egy nyugodt megálló követ a közeli elegáns Wat Mahannapharam Worawihannál.\nEvening: Aktív napunkat úgy zárjuk, hogy a fenséges Aranyhegy felé pedálozunk, ott hagyjuk a kerékpárokat, hogy megmásszuk a lépcsőket, és a naplemente közben élvezzük a csodálatos panorámát.",
+        "ro": "Morning: Începeți călătoria cu bicicleta la pașnicul Wat Parinayok Worawihan, făcându-vă timp pentru a admira detaliile înainte de a merge să explorați colecțiile de artă de la The Queen's Gallery.\nMidday: Mergeți cu bicicleta până la intersecția aglomerată Phanfa Leelard, apoi parcati bicicleta pentru a admira turlele Loha Prasat și a căuta comori locale la piața de vechituri din apropiere.\nAfternoon: Plimbarea continuă cu o vizită la dinamicul Ratchadamnoen Art Center pentru a vedea expoziții moderne, urmată de o oprire senină la elegantul Wat Mahannapharam Worawihan din apropiere.\nEvening: Încheiem ziua noastră activă pedalând spre baza maiestuosului Golden Mount, lăsând bicicletele pentru a urca treptele și a ne bucura de o vedere panoramică glorioasă la apus.",
+        "en": "Morning: Kick off your cycling journey at the peaceful Wat Parinayok Worawihan, taking time to admire its details before riding over to explore the captivating art collections at The Queen's Gallery.\nMidday: Cycle to the bustling intersection of Phanfa Leelard, then park your bike to marvel at the distinct metal spires of Loha Prasat and hunt for local treasures at the adjacent community flea market.\nAfternoon: The ride continues with a visit to the dynamic Ratchadamnoen Art Center to view modern exhibitions, followed by a serene stop at the elegant Wat Mahannapharam Worawihan nearby.\nEvening: We wrap up our active day by pedaling toward the base of the majestic Golden Mount, leaving the bikes to climb the steps and enjoy a glorious panoramic view as the sun sets."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:37",
+      "total_km": 1.76,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Wat Mahannapharam Worawihan",
+            "hu": "Wat Mahannapharam Worawihan",
+            "ro": "Wat Mahannapharam Worawihan",
+            "en": "Wat Mahannapharam Worawihan"
+          },
+          "coords": [
+            100.499366,
+            13.754703
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende historische Architektur dieses alten buddhistischen Tempels, der eine wichtige Buddha-Statue beherbergt, und denken Sie daran, sich angemessen zu kleiden.",
+            "hu": "Csodálja meg ennek az ősi buddhista templomnak a lenyűgöző történelmi építészetét, amely egy fontos Buddha-szobrot őriz, és ne felejtsen el szerényen felöltözni a belépés előtt.",
+            "ro": "Admirați arhitectura istorică impresionantă a acestui templu budist antic, care adăpostește o importantă statuie a lui Buddha, și amintiți-vă să vă îmbrăcați modest la intrare.",
+            "en": "Admire the striking historical architecture of this ancient Buddhist temple which houses an important Buddha image, and remember to dress modestly before entering the sacred halls."
+          }
+        },
+        {
+          "name": {
+            "de": "Wat Parinayok Worawihan",
+            "hu": "Wat Parinayok Worawihan",
+            "ro": "Wat Parinayok Worawihan",
+            "en": "Wat Parinayok Worawihan"
+          },
+          "coords": [
+            100.505678,
+            13.758338
+          ],
+          "category": "religious",
+          "arrive_at": "09:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.78,
+          "tip_5lang": {
+            "de": "Erleben Sie die ruhige Atmosphäre dieses weniger bekannten Tempels mit seinen aufwendigen Dekorationen und dem friedlichen Innenhof, der einen perfekten Rückzugsort von den belebten Straßen bietet.",
+            "hu": "Tapasztalja meg ennek a kevésbé ismert templomnak a nyugodt légkörét bonyolult díszítéseivel és békés udvarával, amely tökéletes csendes menedéket nyújt a kinti forgalmas utcáktól.",
+            "ro": "Experimentați atmosfera senină a acestui templu mai puțin cunoscut, cu decorațiunile sale complicate și curtea liniștită, oferind o retragere tăcută perfectă de pe străzile aglomerate din exterior.",
+            "en": "Experience the serene atmosphere of this lesser-known temple with its intricate decorations and peaceful courtyard, providing a perfect quiet retreat from the busy city streets outside."
+          }
+        },
+        {
+          "name": {
+            "de": "The Queen's Gallery",
+            "hu": "A Királynő Galériája",
+            "ro": "The Queen's Gallery",
+            "en": "The Queen's Gallery"
+          },
+          "coords": [
+            100.505132,
+            13.756545
+          ],
+          "category": "museum",
+          "arrive_at": "10:33",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine große Auswahl an atemberaubender zeitgenössischer thailändischer Kunst und wunderschönen Textilien, die von der Königin unterstützt werden, und besuchen Sie den Geschenkeladen.",
+            "hu": "Fedezze fel a királynő által támogatott lenyűgöző kortárs thai művészet és gyönyörű textíliák széles választékát, és látogasson el a földszinten található ajándékboltba egyedi emléktárgyakért.",
+            "ro": "Descoperiți o gamă largă de artă contemporană thailandeză uimitoare și textile tradiționale frumoase susținute de Regină și vizitați magazinul de cadouri de la parter pentru suveniruri unice.",
+            "en": "Discover a wide array of stunning contemporary Thai art and beautiful traditional textiles supported by the Queen, and visit the gift shop on the ground floor for unique souvenirs."
+          }
+        },
+        {
+          "name": {
+            "de": "Mahakan Fort",
+            "hu": "Mahakan Erőd",
+            "ro": "Fortul Mahakan",
+            "en": "Mahakan Fort"
+          },
+          "coords": [
+            100.505525,
+            13.755617
+          ],
+          "category": "fortress",
+          "arrive_at": "12:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser historischen weißen Festung, die einst die Altstadt von Bangkok schützte, und spazieren Sie durch den angrenzenden Park, um Teile der alten Mauer zu sehen.",
+            "hu": "Fedezze fel ennek a történelmi fehér erődnek a maradványait, amely egykor Bangkok óvárosát védte, és sétáljon egyet a szomszédos parkban, hogy megnézze az ősi fal egy részét.",
+            "ro": "Explorați rămășițele acestei fortărețe albe istorice care proteja odată orașul vechi Bangkok și faceți o plimbare prin parcul adiacent pentru a vedea secțiuni ale vechiului zid.",
+            "en": "Explore the remnants of this historic white fortress that once protected the old city of Bangkok, and take a moment to walk through the adjacent park to see sections of the ancient wall."
+          }
+        },
+        {
+          "name": {
+            "de": "Loha Prasat",
+            "hu": "Loha Prasat",
+            "ro": "Loha Prasat",
+            "en": "Loha Prasat"
+          },
+          "coords": [
+            100.504207,
+            13.754838
+          ],
+          "category": "tower",
+          "arrive_at": "13:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die einzigartigen Metalltürme dieses architektonischen Meisterwerks, die die siebenunddreißig Tugenden zur Erleuchtung darstellen, und steigen Sie für eine tolle Aussicht nach oben.",
+            "hu": "Csodálja meg ennek az építészeti remekműnek az egyedi fémtornyait, amelyek a megvilágosodás felé vezető harminchét erényt képviselik, és másszon fel a felső szintekre a kilátásért.",
+            "ro": "Minunați-vă de turlele metalice unice ale acestei capodopere arhitecturale reprezentând cele treizeci și șapte de virtuți spre iluminare și urcați la nivelurile superioare pentru a vedea orașul.",
+            "en": "Marvel at the unique metal spires of this architectural masterpiece representing the thirty-seven virtues toward enlightenment, and climb to the top levels for a great city view."
+          }
+        },
+        {
+          "name": {
+            "de": "Rattanakosin Exhibition Hall",
+            "hu": "Rattanakosin Kiállítóterem",
+            "ro": "Sala de Expoziții Rattanakosin",
+            "en": "Rattanakosin Exhibition Hall"
+          },
+          "coords": [
+            100.503801,
+            13.755886
+          ],
+          "category": "museum",
+          "arrive_at": "14:01",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch interaktive Multimedia-Ausstellungen in die reiche Geschichte und das kulturelle Erbe der Rattanakosin-Ära ein und planen Sie mindestens zwei Stunden für die Führung ein.",
+            "hu": "Merüljön el a Rattanakosin-korszak gazdag történelmében és kulturális örökségében interaktív multimédiás kijelzőkön keresztül, és szánjon legalább két órát a vezetett túra teljes élvezetére.",
+            "ro": "Cufundați-vă în istoria bogată și moștenirea culturală a erei Rattanakosin prin afișaje multimedia interactive și alocați cel puțin două ore pentru a aprecia pe deplin turul ghidat.",
+            "en": "Immerse yourself in the rich history and cultural heritage of the Rattanakosin era through interactive multimedia displays, and allocate at least two hours to fully appreciate the guided tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Golden Mount",
+            "hu": "Aranyhegy (Golden Mount)",
+            "ro": "Muntele de Aur",
+            "en": "Golden Mount"
+          },
+          "coords": [
+            100.506698,
+            13.753852
+          ],
+          "category": "landmark",
+          "arrive_at": "15:42",
+          "stay_min": 55,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die Wendeltreppe zur Spitze dieses heiligen künstlichen Hügels, um atemberaubende Panoramablicke auf Bangkok bei Sonnenuntergang zu genießen, und läuten Sie die Gebetsglocken.",
+            "hu": "Mássza meg a kanyargós lépcsőt ennek a szent mesterséges dombnak a tetejére, hogy lélegzetelállító panorámát élvezhessen naplementekor, és ne felejtse el megkongatni az imaharangokat a jó szerencséért.",
+            "ro": "Urcați scara șerpuită până în vârful acestui deal artificial sacru pentru vederi panoramice uluitoare la apus și amintiți-vă să sunați clopotele de rugăciune de pe potecă pentru noroc.",
+            "en": "Climb the winding staircase to the top of this sacred artificial hill for breathtaking panoramic views of Bangkok at sunset, and remember to ring the prayer bells along the path for good luck."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihre bequeme Fahrt mit einem friedlichen Besuch im Wat Mahannapharam Worawihan, gefolgt von einer kurzen Fahrt zum wunderschönen Wat Parinayok Worawihan, um dessen Details zu erkunden.\nMidday: Fahren Sie bequem zur The Queen's Gallery, um exquisite traditionelle Textilien zu bewundern, und halten Sie dann in der Nähe des historischen Mahakan Forts, um entlang der alten Mauern zu spazieren.\nAfternoon: Unsere Reise führt uns zur einzigartigen Architektur des Loha Prasat, nahtlos gefolgt von einem fesselnden und zutiefst lehrreichen kulturellen Erlebnis in der Rattanakosin Exhibition Hall.\nEvening: Wir beenden unsere Route, indem wir zum Golden Mount fahren, wo ein kurzer, aber lohnender Aufstieg spektakuläre, weite Ausblicke auf das im Zwielicht leuchtende Bangkok bietet.",
+        "hu": "Morning: Kezdje kényelmes autós túráját a Wat Mahannapharam Worawihan békés meglátogatásával, majd tegyen egy rövid utat a gyönyű Wat Parinayok Worawihan lenyűgöző részleteinek felfedezéséhez.\nMidday: Vezessen kényelmesen a The Queen's Gallery felé a hagyományos textíliák megcsodálásához, majd álljon meg a történelmi Mahakan Erőd közelében, hogy végigsétáljon ősi és lenyűgöző védőfalain.\nAfternoon: Utazásunk a Loha Prasat egyedi építészetéhez vezet, amelyet egy magával ragadó és mélyen tanulságos kulturális élmény követ a neves Rattanakosin Kiállítóterem falai között.\nEvening: Gondosan összeállított útvonalunkat úgy fejezzük be, hogy elhajtunk az ikonikus Aranyhegy lábához, ahol egy rövid, de hálás mászás látványos kilátást nyújt az alkonyatban ragyogó Bangkokra.",
+        "ro": "Morning: Începeți turul confortabil cu mașina cu o vizită liniștită la Wat Mahannapharam Worawihan, urmată de o scurtă excursie pentru a explora detaliile complexe ale frumosului Wat Parinayok Worawihan.\nMidday: Conduceți confortabil către The Queen's Gallery pentru a aprecia textilele tradiționale, apoi opriți-vă lângă Fortul istoric Mahakan pentru a vă plimba de-a lungul zidurilor sale defensive antice.\nAfternoon: Călătoria ne aduce la arhitectura unică a Loha Prasat, urmată perfect de o experiență culturală captivantă și profund educativă în interiorul renumitei Rattanakosin Exhibition Hall.\nEvening: Ne terminăm traseul conducând la baza emblematicului Golden Mount, unde o urcare scurtă, dar plină de satisfacții, oferă vederi spectaculoase și ample ale Bangkok-ului strălucind în amurg.",
+        "en": "Morning: Start your comfortable driving tour with a peaceful visit to Wat Mahannapharam Worawihan, followed by a short trip to explore the intricate details of the beautiful Wat Parinayok Worawihan.\nMidday: Drive comfortably to The Queen's Gallery to appreciate exquisite traditional textiles, then stop near the historical Mahakan Fort to walk along its ancient and impressive defensive walls.\nAfternoon: Our journey brings us to the unique architecture of Loha Prasat, seamlessly followed by an immersive and deeply educational cultural experience inside the renowned Rattanakosin Exhibition Hall.\nEvening: We finish our carefully curated route by driving to the base of the iconic Golden Mount, where a short but rewarding climb offers spectacular, sweeping views of Bangkok glowing in the twilight."
+      }
+    }
+  }
+}

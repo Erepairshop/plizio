@@ -1,0 +1,451 @@
+{
+  "city_id": "saint-omer",
+  "anchor": {
+    "name": "Saint-Omer",
+    "coords": [
+      2.2608,
+      50.7483
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:57",
+      "total_km": 1.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            2.262667,
+            50.755074
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur dieses Rathauses, erfahren Sie mehr über die lokale Geschichte und kommen Sie früh für das beste Fotolicht.",
+            "hu": "Csodálja meg e lenyűgöző városháza építészeti részleteit, ismerje meg a helyi közigazgatás történelmét, és érkezzen kora reggel a legjobb fotózási fényekért.",
+            "ro": "Admirați arhitectura impresionantă a acestei primării, descoperind istoria guvernării locale, și ajungeți devreme pentru a prinde fațada în lumină bună.",
+            "en": "Admire the striking architecture of this civic center, learning about local governance history, and arrive early to capture its facade in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinen der Abtei Saint-Bertin",
+            "hu": "Saint-Bertin apátság romjai",
+            "ro": "Ruinele Abației Saint-Bertin",
+            "en": "Saint-Bertin Abbey Ruins"
+          },
+          "coords": [
+            2.263892,
+            50.750714
+          ],
+          "category": "monastic",
+          "arrive_at": "10:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die stimmungsvollen Ruinen dieser alten Abtei, um ihre einstigen Ausmaße zu erfassen, und tragen Sie bequeme Schuhe für das unebene Gelände.",
+            "hu": "Sétáljon végig ezen az ősi apátság hangulatos romjain, hogy megértse egykori méreteit, és viseljen kényelmes cipőt a biztonságos felfedezés érdekében.",
+            "ro": "Plimbați-vă prin ruinele pline de atmosferă ale acestei abații pentru a înțelege fosta sa măreție și purtați încălțăminte confortabilă pentru terenul accidentat.",
+            "en": "Wander through the atmospheric ruins of this ancient abbey to grasp its former grand scale, and bring comfortable shoes for exploring the uneven historical terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Hôtel Sandelin",
+            "hu": "Hôtel Sandelin Múzeum",
+            "ro": "Muzeul Hôtel Sandelin",
+            "en": "Hôtel Sandelin Museum"
+          },
+          "coords": [
+            2.25639,
+            50.7497
+          ],
+          "category": "museum",
+          "arrive_at": "11:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie eine umfangreiche Kunst- und Keramiksammlung in diesem Herrenhaus und nehmen Sie sich ausreichend Zeit für die seltenen mittelalterlichen Artefakte.",
+            "hu": "Fedezze fel e csodás kúriában található hatalmas művészeti gyűjteményt, szánjon időt a középkori leletekre, és érdeklődjön az időszaki kiállításokról.",
+            "ro": "Explorați o colecție extinsă de artă și ceramică găzduită într-un conac frumos, acordând timp artefactelor medievale și verificând expozițiile temporare.",
+            "en": "Explore an extensive collection of art and ceramics housed in a beautiful mansion, taking time to appreciate the medieval artifacts and temporary exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Notre-Dame",
+            "hu": "Notre-Dame katedrális",
+            "ro": "Catedrala Notre-Dame",
+            "en": "Notre-Dame Cathedral"
+          },
+          "coords": [
+            2.252778,
+            50.747222
+          ],
+          "category": "religious",
+          "arrive_at": "13:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotischen Details dieser prächtigen Kathedrale, betrachten Sie die astronomische Uhr und denken Sie daran, im Inneren leise zu sprechen.",
+            "hu": "Gyönyörködjön e lenyűgöző katedrális gótikus részleteiben, fedezze fel a csillagászati órát, és ne feledjen tiszteletteljesen, halkan beszélni odabent.",
+            "ro": "Minunați-vă de detaliile gotice ale acestei catedrale magnifice, observând ceasul astronomic istoric, și amintiți-vă să păstrați liniștea din respect.",
+            "en": "Marvel at the intricate Gothic details of this magnificent cathedral, observing the historic astronomical clock, and remember to keep your voice down out of respect."
+          }
+        },
+        {
+          "name": {
+            "de": "Jeu de petit Chevaux",
+            "hu": "Jeu de petit Chevaux",
+            "ro": "Jeu de petit Chevaux",
+            "en": "Jeu de petit Chevaux"
+          },
+          "coords": [
+            2.251688,
+            50.747479
+          ],
+          "category": "family",
+          "arrive_at": "14:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Nehmen Sie an dieser nostalgischen Familienattraktion teil, die Besucher jeden Alters begeistert, und halten Sie etwas Kleingeld für die Teilnahme bereit.",
+            "hu": "Vegyen részt ezen a bájos és nosztalgikus családi attrakción, amely minden korosztályt elbűvöl, és tartson magánál némi aprópénzt a zökkenőmentes játékhoz.",
+            "ro": "Participați la această atracție de familie fermecătoare și nostalgică ce încântă vizitatorii și pregătiți niște mărunțiș pentru a lua parte la jocuri.",
+            "en": "Engage in this charming and nostalgic family attraction that delights visitors of all ages, soaking in local culture, and have loose change ready to participate."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark",
+            "hu": "Városliget",
+            "ro": "Parcul Orașului",
+            "en": "City Park"
+          },
+          "coords": [
+            2.248665,
+            50.747299
+          ],
+          "category": "natural",
+          "arrive_at": "15:12",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in dieser wunderschön angelegten Naturoase direkt in der Stadt und bringen Sie eine kleine Decke für ein schnelles Picknick im Gras mit.",
+            "hu": "Pihenjen meg ebben a gyönyörűen parkosított, városi természetes oázisban, élvezve a virágágyásokat, és hozzon magával egy kis takarót egy rövid piknikhez.",
+            "ro": "Relaxați-vă în această oază naturală frumos amenajată din oraș, bucurându-vă de florile vibrante, și aduceți o pătură mică pentru un picnic în aer liber.",
+            "en": "Relax in this beautifully landscaped natural oasis right in the city, enjoying the vibrant flower beds, and bring a small blanket for a quick relaxing picnic."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie am eleganten Rathaus, um die Stadtgeschichte zu verinnerlichen, und spazieren Sie dann in der frischen Morgenluft zu den alten Abteiruinen.\nMittag: Tauchen Sie im Hôtel Sandelin in Kunst und Geschichte ein und spazieren Sie dann zur majestätischen Kathedrale Notre-Dame.\nNachmittag: Treten Sie hinaus auf die belebten Plätze für nostalgischen Familienspaß beim Jeu de petit Chevaux.\nAbend: Beenden Sie Ihren Rundgang mit einem friedlichen Rückzug in das üppige Grün des Stadtparks, während die Sonne langsam untergeht.",
+        "hu": "Délelőtt: Kezdje a napot az elegáns Városházánál a történelem elnyelésével, majd sétáljon át a lenyűgöző, ősi Saint-Bertin apátság romjaihoz a friss levegőn.\nDél: Merüljön el a művészetekben a Hôtel Sandelin Múzeumban, majd tegyen egy rövid sétát a fenséges Notre-Dame katedrálishoz.\nDélután: Élvezze a játékos családi szórakozást a közeli tereken a Jeu de petit Chevaux-nál, átérezve a belváros lüktetését.\nEste: Zárja a gyalogos túrát egy békés visszavonulással a Városliget buja zöldjébe, megpihenve a naplementében.",
+        "ro": "Dimineața: Începeți la eleganta Primărie pentru a absorbi istoria civică, apoi plimbați-vă pentru a admira vechile ruine ale abației în aerul proaspăt.\nPrânz: Cufundați-vă în artă la Muzeul Hôtel Sandelin, apoi faceți o scurtă plimbare până la maiestuoasa Catedrală Notre-Dame.\nDupă-amiaza: Ieșiți în piețele pline de viață pentru o distracție în familie la atracția Jeu de petit Chevaux.\nSeara: Încheiați turul pietonal cu o retragere pașnică în verdeața luxuriantă a Parcului Orașului, reflectând la descoperirile zilei la apus.",
+        "en": "Morning: Start at the elegant Town Hall to absorb civic history, then stroll over to marvel at the ancient Saint-Bertin abbey ruins in the crisp morning air.\nMidday: Dive into art and history at the Hôtel Sandelin Museum, then take a short walk to the majestic Notre-Dame cathedral to admire its Gothic interiors.\nAfternoon: Step out into the lively nearby squares for some playful family fun at the Jeu de petit Chevaux.\nEvening: Conclude your walking tour with a peaceful retreat into the lush greenery of the City Park, reflecting on the day’s discoveries as the sun sets."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:23",
+      "total_km": 3.35,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            2.262667,
+            50.755074
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur dieses Rathauses, erfahren Sie mehr über die lokale Geschichte und kommen Sie früh für das beste Fotolicht.",
+            "hu": "Csodálja meg e lenyűgöző városháza építészeti részleteit, ismerje meg a helyi közigazgatás történelmét, és érkezzen kora reggel a legjobb fotózási fényekért.",
+            "ro": "Admirați arhitectura impresionantă a acestei primării, descoperind istoria guvernării locale, și ajungeți devreme pentru a prinde fațada în lumină bună.",
+            "en": "Admire the striking architecture of this civic center, learning about local governance history, and arrive early to capture its facade in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Hôtel Sandelin",
+            "hu": "Hôtel Sandelin Múzeum",
+            "ro": "Muzeul Hôtel Sandelin",
+            "en": "Hôtel Sandelin Museum"
+          },
+          "coords": [
+            2.25639,
+            50.7497
+          ],
+          "category": "museum",
+          "arrive_at": "10:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.75,
+          "tip_5lang": {
+            "de": "Erkunden Sie eine umfangreiche Kunst- und Keramiksammlung in diesem Herrenhaus und nehmen Sie sich ausreichend Zeit für die seltenen mittelalterlichen Artefakte.",
+            "hu": "Fedezze fel e csodás kúriában található hatalmas művészeti gyűjteményt, szánjon időt a középkori leletekre, és érdeklődjön az időszaki kiállításokról.",
+            "ro": "Explorați o colecție extinsă de artă și ceramică găzduită într-un conac frumos, acordând timp artefactelor medievale și verificând expozițiile temporare.",
+            "en": "Explore an extensive collection of art and ceramics housed in a beautiful mansion, taking time to appreciate the medieval artifacts and temporary exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Notre-Dame",
+            "hu": "Notre-Dame katedrális",
+            "ro": "Catedrala Notre-Dame",
+            "en": "Notre-Dame Cathedral"
+          },
+          "coords": [
+            2.252778,
+            50.747222
+          ],
+          "category": "religious",
+          "arrive_at": "12:16",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotischen Details dieser prächtigen Kathedrale, betrachten Sie die astronomische Uhr und denken Sie daran, im Inneren leise zu sprechen.",
+            "hu": "Gyönyörködjön e lenyűgöző katedrális gótikus részleteiben, fedezze fel a csillagászati órát, és ne feledjen tiszteletteljesen, halkan beszélni odabent.",
+            "ro": "Minunați-vă de detaliile gotice ale acestei catedrale magnifice, observând ceasul astronomic istoric, și amintiți-vă să păstrați liniștea din respect.",
+            "en": "Marvel at the intricate Gothic details of this magnificent cathedral, observing the historic astronomical clock, and remember to keep your voice down out of respect."
+          }
+        },
+        {
+          "name": {
+            "de": "Stadtpark",
+            "hu": "Városliget",
+            "ro": "Parcul Orașului",
+            "en": "City Park"
+          },
+          "coords": [
+            2.248665,
+            50.747299
+          ],
+          "category": "natural",
+          "arrive_at": "13:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in dieser wunderschön angelegten Naturoase direkt in der Stadt und bringen Sie eine kleine Decke für ein schnelles Picknick im Gras mit.",
+            "hu": "Pihenjen meg ebben a gyönyörűen parkosított, városi természetes oázisban, élvezve a virágágyásokat, és hozzon magával egy kis takarót egy rövid piknikhez.",
+            "ro": "Relaxați-vă în această oază naturală frumos amenajată din oraș, bucurându-vă de florile vibrante, și aduceți o pătură mică pentru un picnic în aer liber.",
+            "en": "Relax in this beautifully landscaped natural oasis right in the city, enjoying the vibrant flower beds, and bring a small blanket for a quick relaxing picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinen der Abtei Saint-Bertin",
+            "hu": "Saint-Bertin apátság romjai",
+            "ro": "Ruinele Abației Saint-Bertin",
+            "en": "Saint-Bertin Abbey Ruins"
+          },
+          "coords": [
+            2.263892,
+            50.750714
+          ],
+          "category": "monastic",
+          "arrive_at": "14:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die stimmungsvollen Ruinen dieser alten Abtei, um ihre einstigen Ausmaße zu erfassen, und tragen Sie bequeme Schuhe für das unebene Gelände.",
+            "hu": "Sétáljon végig ezen az ősi apátság hangulatos romjain, hogy megértse egykori méreteit, és viseljen kényelmes cipőt a biztonságos felfedezés érdekében.",
+            "ro": "Plimbați-vă prin ruinele pline de atmosferă ale acestei abații pentru a înțelege fosta sa măreție și purtați încălțăminte confortabilă pentru terenul accidentat.",
+            "en": "Wander through the atmospheric ruins of this ancient abbey to grasp its former grand scale, and bring comfortable shoes for exploring the uneven historical terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Kanu-Kajak-Club",
+            "hu": "Canoë Kayak Club",
+            "ro": "Clubul de Canoe și Caiac",
+            "en": "Canoe Kayak Club"
+          },
+          "coords": [
+            2.274666,
+            50.747693
+          ],
+          "category": "natural",
+          "arrive_at": "15:38",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Mieten Sie ein Kajak, um die sanften lokalen Wasserwege aus einer neuen Perspektive zu erkunden, und tragen Sie unempfindliche Kleidung gegen Wasserspritzer.",
+            "hu": "Béreljen kajakot, hogy egy frissítő új perspektívából fedezze fel a szelíd helyi vízi utakat, és viseljen olyan ruházatot, amelyet nem sajnál, ha kissé vizes lesz.",
+            "ro": "Închiriați un caiac pentru a explora cursurile de apă locale dintr-o perspectivă nouă și purtați haine de schimb, în caz că vă udați puțin.",
+            "en": "Rent a kayak to explore the gentle local waterways from a refreshing new perspective, embracing the lush aquatic environment in clothes you don't mind getting damp."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie Ihre Radtour, indem Sie die Fassade des Rathauses bewundern, und radeln Sie dann sanft zu den Schätzen des Hôtel Sandelin.\nMittag: Fahren Sie weiter zur hoch aufragenden Kathedrale Notre-Dame, bevor Sie eine erfrischende Pause unter den Bäumen des Stadtparks genießen.\nNachmittag: Fahren Sie zu den monumentalen Ruinen der Abtei Saint-Bertin und bewundern Sie die Größe dieser antiken Stätte.\nAbend: Beenden Sie Ihren aktiven Tag im Kanu-Kajak-Club und tauschen Sie vielleicht das Fahrrad gegen ein Boot, um sanft über das Wasser zu gleiten.",
+        "hu": "Délelőtt: Kezdje kerékpáros útját a Városháza homlokzatának megcsodálásával, majd tekerjen kényelmesen a Hôtel Sandelin Múzeum kincseihez.\nDél: Biciklizzen tovább a magasba törő Notre-Dame katedrálishoz, mielőtt egy frissítő pihenőt tartana a Városliget árnyas fái alatt.\nDélután: Tekerjen a monumentális Saint-Bertin apátság romjai felé, felfedezve a csendes történelmi ösvényeket és az ősi helyszín léptékét.\nEste: Zárja ezt az energikus napot a Canoë Kayak Clubnál, esetleg hajóra cserélve a biciklit egy laza, naplemente előtti evezéshez.",
+        "ro": "Dimineața: Începeți călătoria cu bicicleta admirând fațada Primăriei, apoi pedalați ușor pe străzi pentru a descoperi comorile Muzeului Hôtel Sandelin.\nPrânz: Mergeți spre impresionanta Catedrală Notre-Dame, acordând un moment măreției sale, înainte de a vă bucura de o pauză sub copacii Parcului Orașului.\nDupă-amiaza: Călătoriți spre ruinele abației Saint-Bertin, navigând pe căile istorice și admirând amploarea acestui sit antic.\nSeara: Încheiați ziua energică la Clubul de Caiac, poate schimbând bicicleta pe o barcă pentru a aluneca ușor pe căile navigabile pitorești.",
+        "en": "Morning: Kick off your cycling journey by admiring the Town Hall's facade, then pedal smoothly through the streets to discover the treasures of Hôtel Sandelin Museum.\nMidday: Cycle onwards to the soaring Notre-Dame cathedral, taking a moment to appreciate its grandeur, before enjoying a refreshing break under the trees of the City Park.\nAfternoon: Ride towards the monumental Saint-Bertin abbey ruins, navigating the quiet historical paths and taking in the breathtaking scale of this ancient site.\nEvening: End your energetic day at the Canoe Kayak Club, perhaps swapping your bike for a boat to glide gently along the city's scenic waterways."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:03",
+      "total_km": 6.2,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Rathaus",
+            "hu": "Városháza",
+            "ro": "Primăria",
+            "en": "Town Hall"
+          },
+          "coords": [
+            2.262667,
+            50.755074
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckende Architektur dieses Rathauses, erfahren Sie mehr über die lokale Geschichte und kommen Sie früh für das beste Fotolicht.",
+            "hu": "Csodálja meg e lenyűgöző városháza építészeti részleteit, ismerje meg a helyi közigazgatás történelmét, és érkezzen kora reggel a legjobb fotózási fényekért.",
+            "ro": "Admirați arhitectura impresionantă a acestei primării, descoperind istoria guvernării locale, și ajungeți devreme pentru a prinde fațada în lumină bună.",
+            "en": "Admire the striking architecture of this civic center, learning about local governance history, and arrive early to capture its facade in the morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Kathedrale Notre-Dame",
+            "hu": "Notre-Dame katedrális",
+            "ro": "Catedrala Notre-Dame",
+            "en": "Notre-Dame Cathedral"
+          },
+          "coords": [
+            2.252778,
+            50.747222
+          ],
+          "category": "religious",
+          "arrive_at": "10:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotischen Details dieser prächtigen Kathedrale, betrachten Sie die astronomische Uhr und denken Sie daran, im Inneren leise zu sprechen.",
+            "hu": "Gyönyörködjön e lenyűgöző katedrális gótikus részleteiben, fedezze fel a csillagászati órát, és ne feledjen tiszteletteljesen, halkan beszélni odabent.",
+            "ro": "Minunați-vă de detaliile gotice ale acestei catedrale magnifice, observând ceasul astronomic istoric, și amintiți-vă să păstrați liniștea din respect.",
+            "en": "Marvel at the intricate Gothic details of this magnificent cathedral, observing the historic astronomical clock, and remember to keep your voice down out of respect."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum Hôtel Sandelin",
+            "hu": "Hôtel Sandelin Múzeum",
+            "ro": "Muzeul Hôtel Sandelin",
+            "en": "Hôtel Sandelin Museum"
+          },
+          "coords": [
+            2.25639,
+            50.7497
+          ],
+          "category": "museum",
+          "arrive_at": "11:48",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie eine umfangreiche Kunst- und Keramiksammlung in diesem Herrenhaus und nehmen Sie sich ausreichend Zeit für die seltenen mittelalterlichen Artefakte.",
+            "hu": "Fedezze fel e csodás kúriában található hatalmas művészeti gyűjteményt, szánjon időt a középkori leletekre, és érdeklődjön az időszaki kiállításokról.",
+            "ro": "Explorați o colecție extinsă de artă și ceramică găzduită într-un conac frumos, acordând timp artefactelor medievale și verificând expozițiile temporare.",
+            "en": "Explore an extensive collection of art and ceramics housed in a beautiful mansion, taking time to appreciate the medieval artifacts and temporary exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Ruinen der Abtei Saint-Bertin",
+            "hu": "Saint-Bertin apátság romjai",
+            "ro": "Ruinele Abației Saint-Bertin",
+            "en": "Saint-Bertin Abbey Ruins"
+          },
+          "coords": [
+            2.263892,
+            50.750714
+          ],
+          "category": "monastic",
+          "arrive_at": "13:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die stimmungsvollen Ruinen dieser alten Abtei, um ihre einstigen Ausmaße zu erfassen, und tragen Sie bequeme Schuhe für das unebene Gelände.",
+            "hu": "Sétáljon végig ezen az ősi apátság hangulatos romjain, hogy megértse egykori méreteit, és viseljen kényelmes cipőt a biztonságos felfedezés érdekében.",
+            "ro": "Plimbați-vă prin ruinele pline de atmosferă ale acestei abații pentru a înțelege fosta sa măreție și purtați încălțăminte confortabilă pentru terenul accidentat.",
+            "en": "Wander through the atmospheric ruins of this ancient abbey to grasp its former grand scale, and bring comfortable shoes for exploring the uneven historical terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Audomarois-Sumpfgebiet",
+            "hu": "Audomarois mocsárvidék",
+            "ro": "Mlaștina Audomarois",
+            "en": "Audomarois Marshland"
+          },
+          "coords": [
+            2.232222,
+            50.785278
+          ],
+          "category": "natural",
+          "arrive_at": "14:18",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie das einzigartige Ökosystem dieses weitläufigen Sumpfgebiets bei einer geführten Bootstour und bringen Sie im Sommer unbedingt Mückenspray mit.",
+            "hu": "Fedezze fel e kiterjedt mocsárvidék egyedülálló ökoszisztémáját egy vezetett csónaktúra keretében, és nyáron feltétlenül hozzon magával szúnyogriasztót.",
+            "ro": "Descoperiți ecosistemul unic al acestei rețele de mlaștini într-un tur cu barca, apreciind fauna diversă, și luați la voi un repelent de țânțari vara.",
+            "en": "Discover the unique ecosystem of this expansive marshland network on a guided boat tour, appreciating the diverse wildlife, and carry mosquito repellent in summer."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgen: Beginnen Sie Ihre Autotour am großen Rathaus im Stadtzentrum und navigieren Sie dann einfach zur beeindruckenden Kathedrale Notre-Dame.\nMittag: Fahren Sie hinüber zum Hôtel Sandelin, um in klassische Kunst einzutauchen, und besuchen Sie dann die stimmungsvollen Ruinen der Abtei Saint-Bertin.\nNachmittag: Lassen Sie die Steinstraßen hinter sich und fahren Sie in die weiten Grünflächen des Audomarois-Sumpfgebiets für einen ökologischen Ausflug.\nAbend: Lassen Sie den Tag mit einer ruhigen Bootsfahrt oder einem Spaziergang am Rande der Sümpfe ausklingen und genießen Sie die unberührte Natur.",
+        "hu": "Délelőtt: Kezdje autós útitervét a hatalmas Városházánál a központban, majd guruljon át a közeli Notre-Dame katedrálishoz egy lenyűgöző látogatásra.\nDél: Parkoljon le a Hôtel Sandelin Múzeumnál, hogy elmerüljön a klasszikus művészetekben, majd vezessen át a Saint-Bertin apátság ünnepélyes romjaihoz.\nDélután: Hagyja maga mögött a város köves utcáit, és hajtson ki az Audomarois mocsárvidék hatalmas, zöld kiterjedésébe egy felejthetetlen ökológiai kirándulásra.\nEste: Zárja a napot egy békés csónakázással vagy sétával a mocsarak szélén, magába szívva a régió érintetlen természeti szépségét.",
+        "ro": "Dimineața: Începeți itinerariul auto la grandioasa Primărie din centrul orașului, apoi navigați ușor spre Catedrala Notre-Dame pentru o vizită impresionantă.\nPrânz: Treceți pe la Muzeul Hôtel Sandelin pentru a vă scufunda în arta clasică, apoi conduceți scurt spre ruinele solemne ale abației Saint-Bertin.\nDupă-amiaza: Lăsați în urmă străzile de piatră și conduceți spre întinderile verzi și vaste ale mlaștinii Audomarois pentru o excursie ecologică de neuitat.\nSeara: Încheiați ziua bucurându-vă de o plimbare liniștită cu barca sau de o promenadă la marginea mlaștinilor, absorbind frumusețea naturală curată.",
+        "en": "Morning: Begin your driving itinerary at the grand Town Hall in the town center, then easily navigate to the nearby Notre-Dame cathedral for an awe-inspiring visit.\nMidday: Hop over to the Hôtel Sandelin Museum to immerse yourself in classical art, then drive briefly to the solemn and atmospheric ruins of Saint-Bertin abbey.\nAfternoon: Leave the city's stone streets behind as you drive out to the vast, green expanses of the Audomarois marshland for an unforgettable ecological excursion.\nEvening: Wrap up the day enjoying a tranquil boat ride or a sunset walk at the edge of the marshes, soaking in the pristine natural beauty of the region."
+      }
+    }
+  }
+}

@@ -1,0 +1,520 @@
+{
+  "city_id": "italy-bari-cities-v2",
+  "anchor": {
+    "name": "Barì",
+    "coords": [
+      9.64415,
+      39.84205
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:03",
+      "total_km": 5.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Beata Vergine del Monserrato",
+            "hu": "Beata Vergine del Monserrato",
+            "ro": "Beata Vergine del Monserrato",
+            "en": "Beata Vergine del Monserrato"
+          },
+          "coords": [
+            9.640457,
+            39.842495
+          ],
+          "category": "religious",
+          "arrive_at": "09:05",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beginnen Sie in dieser ruhigen Kirche, um sich zu sammeln, und achten Sie auf die einfachen, aber berührenden Fresken im Innenraum.",
+            "hu": "Kezdje a napot ebben a csendes templomban, hogy ráhangolódjon a hely szellemére, és figyelje meg a megható freskókat.",
+            "ro": "Începeți ziua în această biserică liniștită pentru a vă aduna gândurile și admirați frescele simple, dar emoționante din interior.",
+            "en": "Start your day in this quiet church to center yourself, and be sure to admire the simple yet touching frescoes inside before heading out."
+          }
+        },
+        {
+          "name": {
+            "de": "Domus de Janas Funtana Su Rettori",
+            "hu": "Domus de Janas Funtana Su Rettori",
+            "ro": "Domus de Janas Funtana Su Rettori",
+            "en": "Domus de Janas Funtana Su Rettori"
+          },
+          "coords": [
+            9.625474,
+            39.843289
+          ],
+          "category": "historical",
+          "arrive_at": "10:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Betreten Sie diese faszinierenden Felsengräber aus der Jungsteinzeit und bringen Sie eine Taschenlampe mit, um die dunklen Details zu sehen.",
+            "hu": "Lépjen be ezekbe a lenyűgöző kőkori sziklasírokba, és hozzon magával egy zseblámpát, hogy jobban lássa a sötét részleteket.",
+            "ro": "Intrați în aceste morminte fascinante tăiate în stâncă din epoca neolitică și aduceți o lanternă pentru a observa detaliile întunecate.",
+            "en": "Step into these fascinating Neolithic rock-cut tombs, and bring a small flashlight to properly appreciate the dark interior details."
+          }
+        },
+        {
+          "name": {
+            "de": "Domus de Janas Pirarba",
+            "hu": "Domus de Janas Pirarba",
+            "ro": "Domus de Janas Pirarba",
+            "en": "Domus de Janas Pirarba"
+          },
+          "coords": [
+            9.624401,
+            39.850929
+          ],
+          "category": "historical",
+          "arrive_at": "11:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die sorgfältig gehauenen Wände dieser Feenhäuser, und tragen Sie festes Schuhwerk für den leicht felsigen Zugang.",
+            "hu": "Vizsgálja meg e tündérházak gondosan faragott falait, és viseljen masszív cipőt a kissé sziklás megközelítés miatt.",
+            "ro": "Examinați pereții atent sculptați ai acestor case ale zânelor și purtați încălțăminte solidă pentru accesul ușor stâncos.",
+            "en": "Examine the carefully carved walls of these fairy houses, and make sure to wear sturdy shoes for the slightly rocky approach path."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuraghe Su Crastu",
+            "hu": "Nuraghe Su Crastu",
+            "ro": "Nuraghe Su Crastu",
+            "en": "Nuraghe Su Crastu"
+          },
+          "coords": [
+            9.653919,
+            39.844454
+          ],
+          "category": "historical",
+          "arrive_at": "13:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 39,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die beeindruckenden Zyklopenmauern dieses alten Turms und genießen Sie den atemberaubenden Blick über die Landschaft.",
+            "hu": "Csodálja meg ennek az ősi toronynak a lenyűgöző küklopikus falait, és élvezze a lélegzetelállító kilátást a környékre.",
+            "ro": "Admirați zidurile ciclopice impresionante ale acestui turn antic și bucurați-vă de vederea uluitoare asupra peisajului înconjurător.",
+            "en": "Admire the impressive cyclopean masonry of this ancient tower, and take a moment to enjoy the sweeping views of the landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Domus de janas Pizzu 'e Monti",
+            "hu": "Domus de janas Pizzu 'e Monti",
+            "ro": "Domus de janas Pizzu 'e Monti",
+            "en": "Domus de janas Pizzu 'e Monti"
+          },
+          "coords": [
+            9.661641,
+            39.839695
+          ],
+          "category": "landmark",
+          "arrive_at": "15:18",
+          "stay_min": 45,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Halten Sie die späten Sonnenstrahlen fest, die auf dieses Naturdenkmal fallen, ein idealer Ort für eindrucksvolle Fotografien.",
+            "hu": "Örökítse meg a késő délutáni napsugarakat ezen a természeti emléken, amely ideális helyszín egy lenyűgöző fotóhoz.",
+            "ro": "Captați razele soarelui de după-amiază căzând pe acest monument natural, un loc ideal pentru fotografii spectaculoase.",
+            "en": "Capture the late afternoon sunlight hitting this distinctive natural landmark, making it an ideal spot for spectacular photography."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt im Herzen von Barì mit einem friedlichen Besuch einer historischen Kirche, der einen ruhigen Ton angibt. Bis zum Mittag tauchen Sie in die antiken Geheimnisse Sardiniens ein und erkunden in den Fels gehauene Gräber in rauer Natur. Der Nachmittag führt Sie auf einer schönen Wanderung nach Osten zu monumentalen Nuraghen-Strukturen, die die Landschaft überragen. Sie beenden den Spaziergang an einer markanten Felsformation im perfekten goldenen Licht.",
+        "hu": "A reggel Barì szívében indul egy békés templomlátogatással, amely nyugodt alaphangot ad a napnak. Délre Szardínia ősi rejtélyeibe veti magát, miközben a zord természet ölelésében fekvő sziklasírokat fedezi fel. A délután egy kellemes keleti sétával telik, ahol a tájból kiemelkedő monumentális nuráge építményeket csodálhatja meg. A túrát egy ikonikus sziklaképződmény közelében zárja, amely tökéletes helyszín az aranyóra fényeinek megörökítésére.",
+        "ro": "Dimineața începe în inima orașului Barì cu o vizită pașnică la o biserică istorică, stabilind un ton calm pentru zi. Până la prânz, veți pătrunde în misterele antice ale Sardiniei, explorând morminte săpate în stâncă înconjurate de natură. După-amiaza vă duce într-o drumeție plăcută spre est, pentru a descoperi structuri nuragice monumentale ce domină peisajul. Încheiați plimbarea lângă o formațiune stâncoasă iconică, sub lumina perfectă a apusului.",
+        "en": "Your morning starts in the heart of Barì with a peaceful visit to a historic church, setting a calm tone for the day. By midday, you'll delve into the ancient mysteries of Sardinia, exploring rock-hewn tombs surrounded by rugged nature. The afternoon takes you on a pleasant hike eastwards to discover monumental Nuragic structures towering over the landscape. You conclude the walk near an iconic rock formation, perfect for capturing the golden hour light."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:49",
+      "total_km": 6.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Beata Vergine del Monserrato",
+            "hu": "Beata Vergine del Monserrato",
+            "ro": "Beata Vergine del Monserrato",
+            "en": "Beata Vergine del Monserrato"
+          },
+          "coords": [
+            9.640457,
+            39.842495
+          ],
+          "category": "religious",
+          "arrive_at": "09:02",
+          "stay_min": 50,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die Stille dieses sakralen Ortes, bevor Sie losradeln, und parken Sie Ihr Fahrrad sicher im sichtbaren Vorhof.",
+            "hu": "Élvezze e szent hely csendjét, mielőtt útnak indul, és parkolja le biztonságosan kerékpárját a jól látható előtérben.",
+            "ro": "Bucurați-vă de liniștea acestui loc sacru înainte de a pedala mai departe și parcați bicicleta în curtea interioară vizibilă.",
+            "en": "Enjoy the tranquility of this sacred space before starting your ride, and park your bike securely in the visible front courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuraghe Su Crastu",
+            "hu": "Nuraghe Su Crastu",
+            "ro": "Nuraghe Su Crastu",
+            "en": "Nuraghe Su Crastu"
+          },
+          "coords": [
+            9.653919,
+            39.844454
+          ],
+          "category": "historical",
+          "arrive_at": "09:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Umrunden Sie die Basis dieser steinernen Festung, um die präzise Anordnung der massiven Felsblöcke zu bestaunen.",
+            "hu": "Sétálja körbe ennek a kőerődnek az alapját, hogy megcsodálhassa a masszív sziklatömbök precíz elrendezését.",
+            "ro": "Înconjurați baza acestei fortărețe de piatră pentru a observa dispunerea precisă a blocurilor masive de rocă.",
+            "en": "Walk around the base of this stone fortress to fully appreciate the precise arrangement of its massive rock blocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Domus da janas Sa Iba Manna",
+            "hu": "Domus da janas Sa Iba Manna",
+            "ro": "Domus da janas Sa Iba Manna",
+            "en": "Domus da janas Sa Iba Manna"
+          },
+          "coords": [
+            9.653384,
+            39.856241
+          ],
+          "category": "historical",
+          "arrive_at": "11:26",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses gut versteckte Grab und achten Sie auf die rotockerfarbenen Spuren, die auf antike Rituale hinweisen.",
+            "hu": "Fedezze fel ezt a jól elrejtett sírt, és figyelje meg az ősi rituálékra utaló vörös okker nyomokat.",
+            "ro": "Explorați acest mormânt bine ascuns și căutați urmele de ocru roșu care sugerează vechi ritualuri funerare.",
+            "en": "Explore this well-hidden tomb complex, looking out for faint traces of red ochre that hint at ancient funerary rituals."
+          }
+        },
+        {
+          "name": {
+            "de": "Protonuraghe Baccu Argiolasi",
+            "hu": "Protonuraghe Baccu Argiolasi",
+            "ro": "Protonuraghe Baccu Argiolasi (Remains)",
+            "en": "Protonuraghe Baccu Argiolasi (Remains)"
+          },
+          "coords": [
+            9.66004,
+            39.857169
+          ],
+          "category": "historical",
+          "arrive_at": "12:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Studieren Sie diese noch ältere Form eines Nuraghen, ein sogenannter Protonuraghe, der durch sein archaisches Korridor-Layout besticht.",
+            "hu": "Tanulmányozza ezt a még ősibb formájú nurágét, egy úgynevezett protonurágét, amely lenyűgöző korridoros elrendezéssel bír.",
+            "ro": "Studiați această formă și mai veche de nuraghe, un protonuraghe, remarcabil prin dispunerea sa arhaică cu coridoare.",
+            "en": "Study this even older form of Nuraghe, a protonuraghe, distinguished by its archaic and fascinating corridor layout."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuraghe Moru",
+            "hu": "Nuraghe Moru",
+            "ro": "Nuraghe Moru",
+            "en": "Nuraghe Moru"
+          },
+          "coords": [
+            9.666093,
+            39.848208
+          ],
+          "category": "historical",
+          "arrive_at": "14:15",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Beobachten Sie die wilden Kräuter, die um diese Ruine wachsen, ein perfekter Ort für eine ruhige Rast mit historischem Flair.",
+            "hu": "Figyelje meg a romok körül növő vadvirágokat, ez a hely tökéletes egy nyugodt pihenőre történelmi hangulattal.",
+            "ro": "Observați ierburile sălbatice care cresc în jurul acestei ruine, un loc perfect pentru un popas liniștit plin de istorie.",
+            "en": "Notice the wild herbs growing around this ancient ruin, making it a perfectly atmospheric spot for a quiet rest."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuraghe Niedda Puliga",
+            "hu": "Nuraghe Niedda Puliga",
+            "ro": "Nuraghe Niedda Puliga",
+            "en": "Nuraghe Niedda Puliga"
+          },
+          "coords": [
+            9.669418,
+            39.848693
+          ],
+          "category": "historical",
+          "arrive_at": "15:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Vergleichen Sie die Steinmetztechniken dieses Turms mit den vorherigen, um die architektonische Evolution der Insel zu verstehen.",
+            "hu": "Hasonlítsa össze e torony kőfaragó technikáit a korábbiakkal, hogy megértse a sziget építészeti evolúcióját.",
+            "ro": "Comparați tehnicile de cioplire a pietrei ale acestui turn cu cele anterioare pentru a înțelege evoluția arhitecturală a insulei.",
+            "en": "Compare the stonemasonry techniques of this tower with the earlier ones to truly understand the island's architectural evolution."
+          }
+        },
+        {
+          "name": {
+            "de": "Domus de janas Pizzu 'e Monti",
+            "hu": "Domus de janas Pizzu 'e Monti",
+            "ro": "Domus de janas Pizzu 'e Monti",
+            "en": "Domus de janas Pizzu 'e Monti"
+          },
+          "coords": [
+            9.661641,
+            39.839695
+          ],
+          "category": "landmark",
+          "arrive_at": "17:04",
+          "stay_min": 45,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an diesem Orientierungspunkt ausklingen, wo Sie eine großartige Sicht auf die Routen haben, die Sie heute gefahren sind.",
+            "hu": "Zárja a napot ennél a tájékozódási pontnál, ahonnan nagyszerű rálátása nyílik a ma bejárt kerékpáros útvonalakra.",
+            "ro": "Încheiați ziua la acest punct de reper, unde veți avea o vedere superbă asupra rutelor pe care ați pedalat astăzi.",
+            "en": "Wind down your day at this prominent landmark, which offers a great vantage point over the routes you cycled today."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie vom lokalen Heiligtum los und lassen Sie sich vom Morgenwind wecken, während Sie zu alten Steintürmen fahren. Mittags radeln Sie über ruhige Landwege, um tief verwurzelte prähistorische Grabstätten im Gelände zu entdecken. Die Nachmittagsfahrt ist eine faszinierende Reise durch dicht beieinander liegende Nuraghen-Überreste, die Inselgeschichte erzählen. Sie beenden Ihre Route an einem markanten Wahrzeichen und denken über die historische Reise nach.",
+        "hu": "Induljon a helyi szentélytől, és hagyja, hogy a reggeli szellő felébressze, miközben az ősi kőtornyok felé teker. Délben csendes vidéki utakon biciklizve fedezheti fel a terepbe rejtett őskori temetkezési helyeket. A délutáni tekerés egy lenyűgöző utazás az egymáshoz közeli nuráge romok között, amelyek az ősi szigeti életről mesélnek. Az utat egy feltűnő tájékozódási pontnál fejezi be, visszagondolva a történelmi rétegekre.",
+        "ro": "Porniți de la sanctuarul local, lăsând briza dimineții să vă trezească în timp ce pedalați spre turnurile antice de piatră. La prânz, mergeți pe cărări rurale liniștite pentru a descoperi situri funerare preistorice ascunse în peisaj. Plimbarea de după-amiază este o călătorie fascinantă printre vestigiile nuragice apropiate, fiecare spunând o poveste veche. Terminați traseul la un punct de reper impresionant, reflectând asupra istoriei locului.",
+        "en": "Pedal off from the local sanctuary, letting the morning breeze wake you up as you ride towards ancient stone towers. Midday involves cycling through quiet rural paths to uncover deep-rooted prehistoric burial sites hidden in the terrain. The afternoon ride is a fascinating journey through closely clustered Nuragic remains, each telling a story of ancient island life. You finish your route by a striking landmark, reflecting on the historical layers beneath your wheels."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:23",
+      "total_km": 9.1,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Beata Vergine del Monserrato",
+            "hu": "Beata Vergine del Monserrato",
+            "ro": "Beata Vergine del Monserrato",
+            "en": "Beata Vergine del Monserrato"
+          },
+          "coords": [
+            9.640457,
+            39.842495
+          ],
+          "category": "religious",
+          "arrive_at": "09:01",
+          "stay_min": 50,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Ein kurzer, besinnlicher Stopp am Morgen; Parkplätze finden sich leicht entlang der umliegenden ruhigen Straßen.",
+            "hu": "Egy rövid, elmélyült reggeli megálló; parkolóhelyet könnyen talál a környező csendes utcák mentén.",
+            "ro": "O oprire scurtă și contemplativă dimineața; locurile de parcare se găsesc cu ușurință pe străzile liniștite din jur.",
+            "en": "A short, contemplative morning stop to start the day; street parking is usually easy to find in this quiet area."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuraghe Mattale",
+            "hu": "Nuraghe Mattale",
+            "ro": "Nuraghe Mattale",
+            "en": "Nuraghe Mattale"
+          },
+          "coords": [
+            9.636589,
+            39.824047
+          ],
+          "category": "historical",
+          "arrive_at": "09:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Fahren Sie vorsichtig auf den Schotterwegen und nehmen Sie sich Zeit, die abgelegene Schönheit dieser Ruine zu schätzen.",
+            "hu": "Óvatosan vezessen a kavicsos utakon, és szánjon időt e rom elhagyatott szépségének megcsodálására.",
+            "ro": "Conduceți cu atenție pe drumurile pietruite și luați-vă timp pentru a aprecia frumusețea izolată a acestei ruine.",
+            "en": "Drive carefully on the approaching gravel paths, and take your time to appreciate the isolated beauty of this ruin."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuraghe Puliga",
+            "hu": "Nuraghe Puliga",
+            "ro": "Nuraghe Puliga",
+            "en": "Nuraghe Puliga"
+          },
+          "coords": [
+            9.629945,
+            39.823942
+          ],
+          "category": "historical",
+          "arrive_at": "11:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Diese Stätte bietet hervorragende Einblicke in bronzezeitliche Siedlungen; bringen Sie ein Fernglas für die umliegende Tierwelt mit.",
+            "hu": "Ez a helyszín kiváló bepillantást nyújt a bronzkori településekbe; hozzon távcsövet a környék vadvilágának megfigyeléséhez.",
+            "ro": "Acest sit oferă perspective excelente asupra așezărilor din epoca bronzului; aduceți binoclul pentru a observa fauna.",
+            "en": "This site offers excellent insights into Bronze Age settlements; consider bringing binoculars to spot local wildlife."
+          }
+        },
+        {
+          "name": {
+            "de": "Nuraghe Cea",
+            "hu": "Nuraghe Cea",
+            "ro": "Nuraghe Cea",
+            "en": "Nuraghe Cea"
+          },
+          "coords": [
+            9.621192,
+            39.830478
+          ],
+          "category": "historical",
+          "arrive_at": "12:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Suchen Sie nach der zentralen Kammer dieses Turms, die trotz der vergangenen Jahrtausende bemerkenswert intakt geblieben ist.",
+            "hu": "Keresse meg a torony központi kamráját, amely az elmúlt évezredek ellenére is figyelemre méltóan ép maradt.",
+            "ro": "Căutați camera centrală a acestui turn, care a rămas remarcabil de intactă în ciuda mileniilor trecute.",
+            "en": "Look for the central tholos chamber of this tower, which remains remarkably intact despite the passing millennia."
+          }
+        },
+        {
+          "name": {
+            "de": "Domus de Janas Funtana Su Rettori",
+            "hu": "Domus de Janas Funtana Su Rettori",
+            "ro": "Domus de Janas Funtana Su Rettori",
+            "en": "Domus de Janas Funtana Su Rettori"
+          },
+          "coords": [
+            9.625474,
+            39.843289
+          ],
+          "category": "historical",
+          "arrive_at": "14:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Nach einem kurzen Fußweg vom Auto aus erwartet Sie diese mystische Grabanlage, ideal, um die Stille der Geschichte zu atmen.",
+            "hu": "Az autótól egy rövid sétára várja ez a misztikus síremlék, amely ideális a történelem csendjének megtapasztalására.",
+            "ro": "La o scurtă plimbare de la mașină, vă așteaptă acest complex funerar mistic, ideal pentru a respira liniștea istoriei.",
+            "en": "A short walk from where you park, this mystical burial site is the perfect place to breathe in the silence of history."
+          }
+        },
+        {
+          "name": {
+            "de": "Domus da janas Sa Iba Manna",
+            "hu": "Domus da janas Sa Iba Manna",
+            "ro": "Domus da janas Sa Iba Manna",
+            "en": "Domus da janas Sa Iba Manna"
+          },
+          "coords": [
+            9.653384,
+            39.856241
+          ],
+          "category": "historical",
+          "arrive_at": "15:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Wechseln Sie in die nördliche Zone und bestaunen Sie diese Felsengräber, die durch natürliche Tarnung nahezu unsichtbar sind.",
+            "hu": "Váltson az északi zónára, és csodálja meg ezeket a sziklasírokat, amelyek természetes álcájuk miatt szinte láthatatlanok.",
+            "ro": "Mutați-vă în zona nordică și minunați-vă de aceste morminte tăiate în stâncă, aproape invizibile datorită camuflajului natural.",
+            "en": "Drive to the northern zone to marvel at these rock-cut tombs, rendered almost invisible by their natural rocky camouflage."
+          }
+        },
+        {
+          "name": {
+            "de": "Insediamento Baccu Argiolasi",
+            "hu": "Insediamento Baccu Argiolasi",
+            "ro": "Insediamento Baccu Argiolasi",
+            "en": "Insediamento Baccu Argiolasi"
+          },
+          "coords": [
+            9.660232,
+            39.855746
+          ],
+          "category": "historical",
+          "arrive_at": "16:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die Überreste dieses antiken Dorfes und versuchen Sie, sich das Alltagsleben der Nuraghen-Menschen vorzustellen.",
+            "hu": "Sétáljon végig ennek az ősi falunak a maradványain, és próbálja elképzelni a nurágék korának mindennapi életét.",
+            "ro": "Plimbați-vă printre rămășițele acestui sat antic și încercați să vă imaginați viața de zi cu zi a poporului nuragic.",
+            "en": "Stroll through the remnants of this ancient village, pausing to imagine the everyday life of the Nuragic people who lived here."
+          }
+        },
+        {
+          "name": {
+            "de": "Protonuraghe Baccu Argiolasi (Remains)",
+            "hu": "Protonuraghe Baccu Argiolasi",
+            "ro": "Protonuraghe Baccu Argiolasi",
+            "en": "Protonuraghe Baccu Argiolasi (Remains)"
+          },
+          "coords": [
+            9.66004,
+            39.857169
+          ],
+          "category": "historical",
+          "arrive_at": "18:13",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein krönender Abschluss: Dieser frühe Nuraghe dominiert die Hügelkuppe und verabschiedet Sie mit fantastischen Ausblicken in den Abend.",
+            "hu": "Méltó befejezés: ez a korai nuráge uralja a hegytetőt, és fantasztikus kilátással búcsúztatja Önt az estébe.",
+            "ro": "O încheiere încununată: acest nuraghe timpuriu domină vârful dealului, oferindu-vă vederi fantastice pe măsură ce se lasă seara.",
+            "en": "A crowning finale: this early Nuraghe dominates the hilltop, sending you off into the evening with truly fantastic views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie von der zentralen Kirche los, um die weitläufige südliche Gruppe alter Steinsiedlungen effizient zu erreichen. Der Mittag bietet eine malerische Fahrt zwischen gut erhaltenen Nuraghen und faszinierenden Felsengräbern im Westen. Ihr Nachmittag ist der dichten nördlichen archäologischen Zone gewidmet, wo Sie die Überreste früher Dörfer erkunden. Der Roadtrip endet an einem monumentalen Protonuraghen, der Sie mit einem Panoramablick belohnt.",
+        "hu": "Vezessen ki a központi templomtól, hogy hatékonyan elérje az ősi kőtelepülések kiterjedt déli csoportját. A délidő festői autózást kínál a jól karbantartott nuráge építmények és a nyugati tájat tarkító sziklasírok között. A délutánt a sűrű északi régészeti zónának szenteljük, ahol a korai falvak maradványait fedezheti fel. Az autós túra egy monumentális protonurágénál ér véget, ahonnan csodálatos panoráma tárul a szeme elé.",
+        "ro": "Conduceți de la biserica centrală pentru a ajunge rapid la grupajul sudic de așezări antice din piatră. Prânzul vă oferă o plimbare pitorească între structurile nuragice bine conservate și mormintele fascinante tăiate în stâncă. După-amiaza este dedicată zonei arheologice dense din nord, explorând rămășițele vechilor sate indigene. Călătoria se încheie la un protonuraghe monumental, recompensându-vă cu vederi panoramice.",
+        "en": "Drive out from the central church to efficiently reach the sprawling southern cluster of ancient stone settlements. Midday offers a scenic drive between well-preserved Nuragic structures and fascinating rock-cut tombs dotting the western landscape. Your afternoon is dedicated to the dense northern archaeological zone, exploring the remnants of early indigenous villages. The road trip concludes at a monumental protonuraghe, rewarding you with panoramic views."
+      }
+    }
+  }
+}

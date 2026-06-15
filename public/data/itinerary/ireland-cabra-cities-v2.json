@@ -1,0 +1,474 @@
+{
+  "city_id": "ireland-cabra-cities-v2",
+  "anchor": {
+    "name": "Cabra",
+    "coords": [
+      -6.290789,
+      53.365714
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:01",
+      "total_km": 3.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Broom Bridge",
+            "hu": "Broom Bridge",
+            "ro": "Podul Broom",
+            "en": "Broom Bridge"
+          },
+          "coords": [
+            -6.299928,
+            53.372902
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese historische Kanalbrücke, an der William Rowan Hamilton seine Formel für Quaternionen einritzte, und achten Sie beim Spaziergang auf die Gedenktafel.",
+            "hu": "Fedezze fel ezt a történelmi híd csatornáját, ahol William Rowan Hamilton felírta a kvaterniók képletét, és keresse meg az emléktáblát a vontatóúton sétálva egy tiszta napon.",
+            "ro": "Explorați acest pod istoric unde William Rowan Hamilton a scris formula cuaternionilor și căutați placa comemorativă în timp ce vă plimbați pe poteca pitorească de-a lungul apei.",
+            "en": "Explore this historic canal bridge where William Rowan Hamilton inscribed his fundamental formula for quaternions, and look out for the commemorative plaque while walking the towpath."
+          }
+        },
+        {
+          "name": {
+            "de": "St Peter's",
+            "hu": "Szent Péter-templom",
+            "ro": "Biserica Sf. Petru",
+            "en": "St Peter's"
+          },
+          "coords": [
+            -6.2765,
+            53.360588
+          ],
+          "category": "religious",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die wunderschöne neugotische Architektur und die markanten Buntglasfenster dieser ruhigen Kirche, die einen besinnlichen Moment während eines geschäftigen Morgens bietet.",
+            "hu": "Csodálja meg e békés helyi templom gyönyörű neogótikus építészetét és lenyűgöző ólomüveg ablakait, amely csendes elmélkedést kínál egy sűrű és mozgalmas dublini délelőtt során.",
+            "ro": "Admirați arhitectura neogotică frumoasă și vitraliile impresionante ale acestei biserici liniștite, care oferă un moment de reflecție perfect în timpul unei dimineți aglomerate.",
+            "en": "Marvel at the beautiful neo-Gothic architecture and striking stained glass windows of this peaceful local church, which offers a quiet moment of reflection during a busy morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Blessington Street Basin",
+            "hu": "Blessington Street Basin",
+            "ro": "Blessington Street Basin",
+            "en": "Blessington Street Basin"
+          },
+          "coords": [
+            -6.270856,
+            53.357249
+          ],
+          "category": "park",
+          "arrive_at": "10:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie um dieses verborgene Juwel eines ehemaligen Stausees, heute ein ruhiger ummauerter Park voller Wildtiere, und bringen Sie etwas Futter für die Enten und Schwäne mit.",
+            "hu": "Sétáljon körbe ezen a rejtett gyöngyszemen, az egykori víztározónál, amely ma nyugodt, kőfallal körülvett park, és vigyen magával egy kis magot a kacsák és a hattyúk etetéséhez.",
+            "ro": "Plimbați-vă prin acest fost rezervor ascuns, acum un parc liniștit înconjurat de ziduri plin de animale sălbatice, și aduceți câteva semințe pentru a hrăni rațele și lebedele.",
+            "en": "Stroll around this hidden gem of a former reservoir, now a tranquil walled park full of wildlife, and try to bring some seeds for the ducks and swans that call it their home."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum 14 Henrietta Street",
+            "hu": "14 Henrietta Street múzeum",
+            "ro": "Muzeul 14 Henrietta Street",
+            "en": "14 Henrietta Street museum"
+          },
+          "coords": [
+            -6.270154,
+            53.352349
+          ],
+          "category": "museum",
+          "arrive_at": "12:06",
+          "stay_min": 100,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem bemerkenswerten georgianischen Stadthaus, das zum Mietshaus wurde, in Dublins Sozialgeschichte ein, und buchen Sie Ihre Führung unbedingt weit im Voraus.",
+            "hu": "Merüljön el Dublin társadalomtörténetében ebben a lenyűgöző György-korabeli sorházban, amely egykor bérház volt, és feltétlenül foglalja le jó előre az izgalmas vezetett túrát.",
+            "ro": "Cufundați-vă în istoria socială a orașului Dublin în această casă georgiană remarcabilă devenită locuință socială și asigurați-vă că rezervați turul ghidat cu mult timp înainte.",
+            "en": "Immerse yourself in Dublin's social history inside this remarkable Georgian townhouse that became a tenement, and be sure to book your guided tour well in advance to secure a spot."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Michan's",
+            "hu": "St. Michan's",
+            "ro": "St. Michan's",
+            "en": "St. Michan's"
+          },
+          "coords": [
+            -6.271948,
+            53.349382
+          ],
+          "category": "religious",
+          "arrive_at": "13:51",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Steigen Sie in die faszinierenden Krypten unter dieser historischen Kirche hinab, um Mumien zu sehen, aber bringen Sie eine leichte Jacke mit, da die unterirdischen Gewölbe kühl sind.",
+            "hu": "Ereszkedjen le a történelmi templom lenyűgöző kriptájába, hogy megnézze a természetes módon mumifikálódott maradványokat, de vigyen magával egy könnyű kabátot a hűvös miatt.",
+            "ro": "Coborâți în criptele fascinante de sub această biserică istorică pentru a vedea rămășițele mumificate natural, dar luați o jachetă ușoară deoarece bolțile subterane sunt răcoroase.",
+            "en": "Descend into the fascinating crypts beneath this historic church to see naturally mummified remains, but remember to bring a light jacket as the underground vaults get quite chilly."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihr Abenteuer an der historischen Broom Bridge und gehen Sie dann weiter, um die atemberaubenden neugotischen Details der St. Peter's Church zu bewundern.\n\nMidday: Machen Sie einen ruhigen Spaziergang um das Blessington Street Basin, eine versteckte Oase der Ruhe in der Stadt, perfekt für eine kurze Pause im Grünen.\n\nAfternoon: Reisen Sie im Museum 14 Henrietta Street in die Vergangenheit, um Dublins tiefe Sozialgeschichte zu erkunden und die faszinierenden Geschichten der Familien zu entdecken.\n\nEvening: Beenden Sie Ihren Rundgang in den alten Krypten von St. Michan's, wo die natürlich mumifizierten Überreste einen einzigartig gruseligen, aber unvergesslichen Abschluss bieten.",
+        "hu": "Morning: Kezdje kalandját a történelmi Broom Bridge-nél, megadva a békés alaphangot, mielőtt lesétálna, hogy megcsodálja a Szent Péter-templom lenyűgöző neogótikus részleteit.\n\nMidday: Tegyen egy csendes sétát a Blessington Street Basin körül, amely a nyugalom rejtett oázisa a városban, és tökéletes egy rövid pihenésre a zöldövezet és a vadvilág közepette.\n\nAfternoon: Lépjen vissza az időben a 14 Henrietta Street múzeumban, hogy felfedezze Dublin mély társadalomtörténetét, és megismerje a grúz bérházakban élt családok történeteit.\n\nEvening: Fejezze be gyalogtúráját a St. Michan's ősi kriptáiban, ahol a természetes módon mumifikálódott maradványok egyedülállóan hátborzongató, de felejthetetlen befejezést nyújtanak.",
+        "ro": "Morning: Începeți aventura la istoricul pod Broom, creând o atmosferă liniștită, înainte de a coborî pentru a admira detaliile neogotice uimitoare ale bisericii Sf. Petru.\n\nMidday: Faceți o plimbare liniștită în jurul Blessington Street Basin, o oază de calm ascunsă în oraș, perfectă pentru o scurtă odihnă în mijlocul vegetației și a vieții sălbatice.\n\nAfternoon: Întoarceți-vă în timp la muzeul 14 Henrietta Street pentru a explora istoria socială profundă a Dublinului, descoperind poveștile fascinante ale familiilor din acea epocă.\n\nEvening: Încheiați turul de mers pe jos la criptele antice de la St. Michan's, unde rămășițele mumificate natural oferă un final de zi unic de înfiorător, dar cu adevărat de neuitat.",
+        "en": "Morning: Begin your adventure at the historic Broom Bridge, setting a peaceful tone, before walking down to admire the stunning neo-Gothic details of St Peter's church.\n\nMidday: Take a quiet stroll around the Blessington Street Basin, a hidden oasis of calm in the city, perfect for a short rest amidst the surrounding greenery and wildlife.\n\nAfternoon: Step back in time at the 14 Henrietta Street museum to explore Dublin's deep social history, discovering the fascinating stories of families who lived in these Georgian tenements.\n\nEvening: Conclude your walking tour at the ancient crypts of St. Michan's, where the naturally mummified remains provide a uniquely chilling but unforgettable end to a perfect day."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:12",
+      "total_km": 6.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Broom Bridge",
+            "hu": "Broom Bridge",
+            "ro": "Podul Broom",
+            "en": "Broom Bridge"
+          },
+          "coords": [
+            -6.299928,
+            53.372902
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese historische Kanalbrücke, an der William Rowan Hamilton seine Formel für Quaternionen einritzte, und achten Sie beim Spaziergang auf die Gedenktafel.",
+            "hu": "Fedezze fel ezt a történelmi híd csatornáját, ahol William Rowan Hamilton felírta a kvaterniók képletét, és keresse meg az emléktáblát a vontatóúton sétálva egy tiszta napon.",
+            "ro": "Explorați acest pod istoric unde William Rowan Hamilton a scris formula cuaternionilor și căutați placa comemorativă în timp ce vă plimbați pe poteca pitorească de-a lungul apei.",
+            "en": "Explore this historic canal bridge where William Rowan Hamilton inscribed his fundamental formula for quaternions, and look out for the commemorative plaque while walking the towpath."
+          }
+        },
+        {
+          "name": {
+            "de": "National Botanic Gardens",
+            "hu": "Nemzeti Botanikus Kert",
+            "ro": "Grădinile Botanice Naționale",
+            "en": "National Botanic Gardens"
+          },
+          "coords": [
+            -6.272874,
+            53.372733
+          ],
+          "category": "landmark",
+          "arrive_at": "09:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die wunderschön restaurierten viktorianischen Gewächshäuser und umfangreichen Pflanzensammlungen, und besuchen Sie das Café vor Ort früh, um Menschenmassen zu meiden.",
+            "hu": "Sétáljon végig a gyönyörűen felújított viktoriánus üvegházakban és a hatalmas szabadtéri növénygyűjteményekben, és látogasson el a helyszíni kávézóba korán, hogy elkerülje a tömeget.",
+            "ro": "Plimbați-vă prin serele victoriene rafinat restaurate și colecțiile vaste de plante, și vizitați cafeneaua de la fața locului devreme în zi pentru a evita mulțimile de vizitatori.",
+            "en": "Wander through the exquisitely restored Victorian glasshouses and extensive outdoor plant collections, and visit the on-site café early in the day to grab a coffee before the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Griffith Park",
+            "hu": "Griffith Park",
+            "ro": "Parcul Griffith",
+            "en": "Griffith Park"
+          },
+          "coords": [
+            -6.261713,
+            53.370398
+          ],
+          "category": "park",
+          "arrive_at": "10:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich entlang des sanften Flusses Tolka in diesem wunderschön gepflegten öffentlichen Park, und tragen Sie bequeme Schuhe, um die gewundenen Wege vollständig zu erkunden.",
+            "hu": "Pihenjen meg a Tolka folyó lágy sodrása mellett ebben a gyönyörűen karbantartott nyilvános parkban, és mindenképpen viseljen kényelmes sétacipőt a kanyargós utak felfedezéséhez.",
+            "ro": "Relaxați-vă pe malul râului Tolka în acest parc public frumos întreținut și asigurați-vă că purtați pantofi confortabili de mers pentru a explora pe deplin toate aleile sale șerpuitoare.",
+            "en": "Relax alongside the gentle flow of the River Tolka in this beautifully maintained public park, and make sure to wear comfortable walking shoes to fully explore its meandering paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Dublin Writers Museum",
+            "hu": "Dublin Writers Múzeum",
+            "ro": "Muzeul Scriitorilor din Dublin",
+            "en": "Dublin Writers Museum"
+          },
+          "coords": [
+            -6.26403,
+            53.354418
+          ],
+          "category": "museum",
+          "arrive_at": "12:04",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche literarische Erbe Irlands durch seltene Bücher und persönliche Gegenstände berühmter Autoren, und holen Sie sich einen Audioguide für ein tieferes Verständnis.",
+            "hu": "Fedezze fel Írország gazdag irodalmi örökségét ritka könyveken és híres szerzők személyes tárgyain keresztül, és kérjen egy hasznos audiokalauzt a recepción a mélyebb megértéshez.",
+            "ro": "Descoperiți bogata moștenire literară a Irlandei prin cărți rare și artefacte ale autorilor faimoși și luați un ghid audio de la recepție pentru o înțelegere mai profundă a exponatelor.",
+            "en": "Discover the rich literary heritage of Ireland through rare books and personal artifacts of famous authors, and grab a handy audio guide at the reception for a deeper understanding."
+          }
+        },
+        {
+          "name": {
+            "de": "Mellows Bridge",
+            "hu": "Mellows Bridge",
+            "ro": "Podul Mellows",
+            "en": "Mellows Bridge"
+          },
+          "coords": [
+            -6.280407,
+            53.346412
+          ],
+          "category": "landmark",
+          "arrive_at": "13:52",
+          "stay_min": 15,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Spazieren Sie über die älteste erhaltene Brücke der Liffey, um ihre eleganten Steinbögen zu bewundern, und halten Sie in der Mitte für ein fantastisches Foto der lebhaften Kais inne.",
+            "hu": "Sétáljon át a Liffey folyó legrégebbi fennmaradt hídján, hogy megcsodálja elegáns kőíveit, és álljon meg a közepén egy fantasztikus panorámafotó elkészítéséhez a nyüzsgő dublini rakpartról.",
+            "ro": "Traversați cel mai vechi pod supraviețuitor de pe râul Liffey pentru a admira arcadele sale de piatră elegante și opriți-vă la mijloc pentru o fotografie panoramică a cheiurilor.",
+            "en": "Walk across the oldest surviving bridge on the River Liffey to admire its elegant stone arches, and pause at the center for a fantastic panoramic photo of the lively Dublin quays."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint Patrick's Tower",
+            "hu": "Saint Patrick's Tower",
+            "ro": "Turnul Sf. Patrick",
+            "en": "Saint Patrick's Tower"
+          },
+          "coords": [
+            -6.284071,
+            53.344049
+          ],
+          "category": "landmark",
+          "arrive_at": "14:09",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Betrachten Sie diesen markanten ehemaligen Windmühlenturm, der einst einer riesigen Whiskeybrennerei diente, und kommen Sie an einem klaren Tag, um das Mauerwerk voll zu schätzen.",
+            "hu": "Nézzen fel erre a jellegzetes egykori szélmalomtoronyra, amely egykor egy hatalmas lepárlót szolgált ki, és látogasson el egy tiszta napon, hogy teljesen értékelje a lenyűgöző téglamunkát.",
+            "ro": "Priviți în sus la acest turn distinctiv de moară de vânt care a deservit o distilerie masivă de whisky și vizitați-l într-o zi senină pentru a aprecia zidăria impresionantă de la bază.",
+            "en": "Look up at this distinctive former windmill tower that once served a massive whiskey distillery, and visit on a clear day to fully appreciate the impressive brickwork from the base."
+          }
+        },
+        {
+          "name": {
+            "de": "Sean Heuston Bridge",
+            "hu": "Sean Heuston Bridge",
+            "ro": "Podul Sean Heuston",
+            "en": "Sean Heuston Bridge"
+          },
+          "coords": [
+            -6.291836,
+            53.347413
+          ],
+          "category": "landmark",
+          "arrive_at": "14:27",
+          "stay_min": 45,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die komplizierten gusseisernen Details dieser historischen Brücke über die Liffey, und überqueren Sie sie bei Sonnenuntergang für atemberaubende Reflexionen auf dem Wasser.",
+            "hu": "Csodálja meg a Liffey folyót átívelő történelmi híd bonyolult öntöttvas részleteit, és fontolja meg, hogy naplementekor sétál át rajta a lenyűgöző arany visszatükröződésekért a vízen.",
+            "ro": "Admirați detaliile complicate din fontă ale acestui pod istoric peste râul Liffey și luați în considerare traversarea lui la apus pentru reflexii aurii uimitoare pe apa curgătoare.",
+            "en": "Admire the intricate cast-iron details of this historic bridge spanning the River Liffey, and consider crossing it around sunset for stunning golden reflections on the moving water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Starten Sie Ihre Radtour mit einem kurzen Besuch der berühmten Broom Bridge und radeln Sie dann zu den weitläufigen Gewächshäusern des spektakulären National Botanic Gardens.\n\nMidday: Genießen Sie die erfrischende Brise auf Ihrer Fahrt entlang der Tolka im Griffith Park, und nehmen Sie sich Zeit, um Ihre Beine auszuruhen und die schöne Naturlandschaft zu genießen.\n\nAfternoon: Radeln Sie ins Stadtzentrum, um im Dublin Writers Museum in die Literaturgeschichte einzutauchen, und fahren Sie dann an den eleganten Steinbögen der historischen Mellows Bridge vorbei.\n\nEvening: Beenden Sie Ihre Route, indem Sie den Saint Patrick's Tower betrachten und die Sean Heuston Bridge überqueren, um die letzten goldenen Sonnenstrahlen über der Liffey einzufangen.",
+        "hu": "Morning: Kezdje kerékpáros utazását egy rövid látogatással a híres Broom Bridge-nél, majd pedálozzon a látványos Nemzeti Botanikus Kert hatalmas és lenyűgöző üvegházai felé.\n\nMidday: Élvezze a frissítő szellőt, miközben a Tolka folyó mentén teker a Griffith Parkban, időt szakítva a lábai pihentetésére és a gyönyörűen karbantartott természeti tájak befogadására.\n\nAfternoon: Kerékpározzon be a városközpontba, hogy elmerüljön az irodalomtörténetben a Dublin Writers Múzeumban, majd haladjon el a történelmi Mellows Bridge elegáns kőívei mellett.\n\nEvening: Zárja útvonalát a Saint Patrick's Tower megtekintésével és a Sean Heuston Bridge átkelésével, elkapva a Liffey folyó felett lemenő nap utolsó, varázslatos és aranyló sugarait.",
+        "ro": "Morning: Începeți călătoria cu bicicleta cu o scurtă vizită la faimosul pod Broom, apoi pedalați spre serele vaste ale spectaculoaselor Grădini Botanice Naționale din apropiere.\n\nMidday: Bucurați-vă de briza răcoroasă în timp ce mergeți de-a lungul râului Tolka în parcul Griffith, făcându-vă timp să vă odihniți picioarele și să absorbiți peisajele naturale superbe.\n\nAfternoon: Pedalați spre centrul orașului pentru a vă cufunda în istoria literară la Muzeul Scriitorilor din Dublin, apoi treceți pe lângă arcadele elegante de piatră ale podului Mellows.\n\nEvening: Încheiați traseul vizitând Turnul Sf. Patrick și traversând podul complex Sean Heuston, prinzând ultimele raze aurii ale soarelui la apus peste frumosul râu Liffey.",
+        "en": "Morning: Kick off your cycling journey with a brief visit to the famous Broom Bridge, then pedal towards the sprawling glasshouses of the spectacular National Botanic Gardens.\n\nMidday: Enjoy the refreshing breeze as you ride along the River Tolka in Griffith Park, taking time to rest your legs and soak in the beautifully maintained natural landscapes.\n\nAfternoon: Cycle into the city center to immerse yourself in literary history at the Dublin Writers Museum, then ride past the elegant stone arches of the historic Mellows Bridge.\n\nEvening: Wrap up your route by viewing Saint Patrick's Tower and crossing the intricate Sean Heuston Bridge, catching the last golden rays of the setting sun over the River Liffey."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "13:39",
+      "total_km": 8.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Finglas Swimming Pool",
+            "hu": "Finglas Uszoda",
+            "ro": "Piscina Finglas",
+            "en": "Finglas Swimming Pool"
+          },
+          "coords": [
+            -6.305181,
+            53.390056
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie ein erfrischendes Bad in dieser modernen, bei lokalen Familien beliebten Freizeitanlage, und kommen Sie am Wochenende früh, um sich einen guten Platz im Becken zu sichern.",
+            "hu": "Élvezze a frissítő úszást ebben a modern, a helyi családok körében népszerű szabadidős létesítményben, és próbáljon meg korán érkezni hétvégén, mielőtt a sávok túlzottan zsúfolttá válnak.",
+            "ro": "Bucurați-vă de o baie revigorantă în această facilitate de agrement modernă populară printre familii și încercați să ajungeți devreme în weekend pentru a evita aglomerația pe culoare.",
+            "en": "Enjoy a refreshing swim in this modern recreational facility popular with local families, and try to arrive early on weekends to secure a good spot before the lanes get too crowded."
+          }
+        },
+        {
+          "name": {
+            "de": "National Botanic Gardens",
+            "hu": "Nemzeti Botanikus Kert",
+            "ro": "Grădinile Botanice Naționale",
+            "en": "National Botanic Gardens"
+          },
+          "coords": [
+            -6.272874,
+            53.372733
+          ],
+          "category": "landmark",
+          "arrive_at": "09:31",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.9,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die wunderschön restaurierten viktorianischen Gewächshäuser und umfangreichen Pflanzensammlungen, und besuchen Sie das Café vor Ort früh, um Menschenmassen zu meiden.",
+            "hu": "Sétáljon végig a gyönyörűen felújított viktoriánus üvegházakban és a hatalmas szabadtéri növénygyűjteményekben, és látogasson el a helyszíni kávézóba korán, hogy elkerülje a tömeget.",
+            "ro": "Plimbați-vă prin serele victoriene rafinat restaurate și colecțiile vaste de plante, și vizitați cafeneaua de la fața locului devreme în zi pentru a evita mulțimile de vizitatori.",
+            "en": "Wander through the exquisitely restored Victorian glasshouses and extensive outdoor plant collections, and visit the on-site café early in the day to grab a coffee before the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum 14 Henrietta Street",
+            "hu": "14 Henrietta Street múzeum",
+            "ro": "Muzeul 14 Henrietta Street",
+            "en": "14 Henrietta Street museum"
+          },
+          "coords": [
+            -6.270154,
+            53.352349
+          ],
+          "category": "museum",
+          "arrive_at": "10:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem bemerkenswerten georgianischen Stadthaus, das zum Mietshaus wurde, in Dublins Sozialgeschichte ein, und buchen Sie Ihre Führung unbedingt weit im Voraus.",
+            "hu": "Merüljön el Dublin társadalomtörténetében ebben a lenyűgöző György-korabeli sorházban, amely egykor bérház volt, és feltétlenül foglalja le jó előre az izgalmas vezetett túrát.",
+            "ro": "Cufundați-vă în istoria socială a orașului Dublin în această casă georgiană remarcabilă devenită locuință socială și asigurați-vă că rezervați turul ghidat cu mult timp înainte.",
+            "en": "Immerse yourself in Dublin's social history inside this remarkable Georgian townhouse that became a tenement, and be sure to book your guided tour well in advance to secure a spot."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint Patrick's Tower",
+            "hu": "Saint Patrick's Tower",
+            "ro": "Turnul Sf. Patrick",
+            "en": "Saint Patrick's Tower"
+          },
+          "coords": [
+            -6.284071,
+            53.344049
+          ],
+          "category": "landmark",
+          "arrive_at": "12:19",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Betrachten Sie diesen markanten ehemaligen Windmühlenturm, der einst einer riesigen Whiskeybrennerei diente, und kommen Sie an einem klaren Tag, um das Mauerwerk voll zu schätzen.",
+            "hu": "Nézzen fel erre a jellegzetes egykori szélmalomtoronyra, amely egykor egy hatalmas lepárlót szolgált ki, és látogasson el egy tiszta napon, hogy teljesen értékelje a lenyűgöző téglamunkát.",
+            "ro": "Priviți în sus la acest turn distinctiv de moară de vânt care a deservit o distilerie masivă de whisky și vizitați-l într-o zi senină pentru a aprecia zidăria impresionantă de la bază.",
+            "en": "Look up at this distinctive former windmill tower that once served a massive whiskey distillery, and visit on a clear day to fully appreciate the impressive brickwork from the base."
+          }
+        },
+        {
+          "name": {
+            "de": "Islandbridge",
+            "hu": "Islandbridge",
+            "ro": "Islandbridge",
+            "en": "Islandbridge"
+          },
+          "coords": [
+            -6.308309,
+            53.347221
+          ],
+          "category": "landmark",
+          "arrive_at": "12:38",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Machen Sie einen malerischen Spaziergang durch dieses historische Flussufer, das eine Schlüsselrolle in Dublins Verteidigung spielte, und bringen Sie eine Kamera für die Naturkulisse mit.",
+            "hu": "Tegyen egy festői sétát ezen a történelmi folyóparti területen, amely kulcsszerepet játszott Dublin védelmében, és hozzon magával fényképezőgépet a békés természetes környezet rögzítéséhez.",
+            "ro": "Faceți o plimbare pitorească prin această zonă istorică pe malul râului care a jucat un rol cheie în apărarea Dublinului și aduceți o cameră pentru a surprinde împrejurimile liniștite.",
+            "en": "Take a scenic stroll through this historic riverside area that played a key role in Dublin's defense, and bring a small camera to capture the peaceful natural surroundings of the Liffey."
+          }
+        },
+        {
+          "name": {
+            "de": "Liffey Railway Bridge",
+            "hu": "Liffey Railway Bridge",
+            "ro": "Podul Feroviar Liffey",
+            "en": "Liffey Railway Bridge"
+          },
+          "coords": [
+            -6.304022,
+            53.347437
+          ],
+          "category": "landmark",
+          "arrive_at": "12:54",
+          "stay_min": 45,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Beobachten Sie, wie Züge über diese robuste Industriebrücke rattern, und stellen Sie sich auf den nahe gelegenen Fußgängerweg, um einen großartigen Aussichtspunkt für die Technik zu haben.",
+            "hu": "Nézze, ahogy a vonatok dübörögnek át ezen a masszív ipari hídon a folyón, és álljon meg a közeli sétányon egy nagyszerű kilátóhelyért, hogy értékelje annak nyers mérnöki kialakítását.",
+            "ro": "Urmăriți trenurile trecând zgomotos peste acest pod industrial robust și stați pe calea pietonală din apropiere pentru un punct de belvedere excelent de unde să îi apreciați ingineria.",
+            "en": "Watch the trains rumble across this sturdy industrial bridge traversing the river, and stand on the nearby pedestrian path for a great vantage point to appreciate its raw engineering."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie den Tag mit leichter Erholung im Finglas Swimming Pool, bevor Sie zu den atemberaubenden National Botanic Gardens fahren, um einen friedlichen Spaziergang zu unternehmen.\n\nMidday: Fahren Sie tiefer in die historischen Teile der Stadt, um das Museum 14 Henrietta Street zu besuchen, wo Sie sich in den fesselnden Geschichten von Dublins Vergangenheit verlieren können.\n\nAfternoon: Navigieren Sie zum markanten Saint Patrick's Tower, um seine Industriearchitektur zu bestaunen und die Überreste einer Zeit zu bewundern, als die Whiskeyproduktion florierte.\n\nEvening: Beenden Sie Ihre malerische Fahrt um das historische Viertel Islandbridge und die schweren Stahlkonstruktionen der Liffey Railway Bridge, während sich die Stadt in der Abenddämmerung beruhigt.",
+        "hu": "Morning: Kezdje a napot egy kis könnyű kikapcsolódással a Finglas uszodában, mielőtt átvezetne a lenyűgöző Nemzeti Botanikus Kertbe egy békés és pihentető sétára a növényvilág között.\n\nMidday: Haladjon mélyebbre a város történelmi részeibe, hogy meglátogassa a 14 Henrietta Street múzeumot, ahol könnyedén elveszhet Dublin múltjának lebilincselő és gazdag történeteiben.\n\nAfternoon: Navigáljon a feltűnő Saint Patrick's Tower felé, hogy megcsodálja indusztriális építészetét, és értékelje annak a korszaknak a maradványait, amikor a helyi whiskygyártás dominált.\n\nEvening: Fejezze be festői autózását a történelmi Islandbridge negyed és a Liffey Railway Bridge nehéz acélszerkezetei körül, figyelve, ahogy a város lelassul, ahogy közeledik a szürkület.",
+        "ro": "Morning: Începeți ziua cu puțină recreere ușoară la piscina Finglas, înainte de a conduce către uimitoarele Grădini Botanice Naționale pentru o plimbare liniștită printre floră și vegetație.\n\nMidday: Îndreptați-vă mai adânc în părțile istorice ale orașului pentru a vizita muzeul 14 Henrietta Street, unde vă puteți pierde ușor în poveștile captivante ale trecutului bogat al Dublinului.\n\nAfternoon: Navigați spre impresionantul Turn Sf. Patrick pentru a admira arhitectura sa industrială și rămășițele unei epoci în care producția locală de whisky domina categoric întreaga zonă.\n\nEvening: Încheiați-vă drumul pitoresc în jurul cartierului istoric Islandbridge și a structurilor grele de oțel ale podului feroviar Liffey, urmărind cum orașul încetinește la lăsarea serii.",
+        "en": "Morning: Start the day with some light recreation at the Finglas Swimming Pool, before driving over to the stunning National Botanic Gardens for a peaceful walk among the flora.\n\nMidday: Head deeper into the historical parts of the city to visit the 14 Henrietta Street museum, where you can easily lose yourself in the captivating stories of Dublin's past.\n\nAfternoon: Navigate towards the striking Saint Patrick's Tower to marvel at its industrial architecture, admiring the remnants of an era when local whiskey production dominated the area.\n\nEvening: Conclude your scenic drive around the historic Islandbridge district and the heavy steel structures of the Liffey Railway Bridge, watching the city slow down as dusk approaches."
+      }
+    }
+  }
+}

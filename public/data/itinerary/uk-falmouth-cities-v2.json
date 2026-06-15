@@ -1,0 +1,474 @@
+{
+  "city_id": "uk-falmouth-cities-v2",
+  "anchor": {
+    "name": "Falmouth",
+    "coords": [
+      -5.0667,
+      50.15
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:00",
+      "total_km": 2.32,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Prince of Wales Pier",
+            "hu": "Prince of Wales móló",
+            "ro": "Debarcaderul Prince of Wales",
+            "en": "Prince of Wales Pier"
+          },
+          "coords": [
+            -5.070299,
+            50.156395
+          ],
+          "category": "civic",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihren Tag am Prince of Wales Pier, wo Sie das Treiben im Hafen beobachten können, am besten mit einem warmen Kaffee am frühen Morgen.",
+            "hu": "Kezdje a napot a Prince of Wales mólón, ahonnan remek kilátás nyílik a kikötői nyüzsgésre, érdemes egy kávéval a kézben élvezni a reggelt.",
+            "ro": "Începeți ziua la debarcaderul Prince of Wales, de unde puteți admira activitatea portuară, ideal de vizitat dimineața devreme cu o cafea caldă.",
+            "en": "Start your day at the Prince of Wales Pier to watch the bustling harbor activity, best enjoyed early in the morning with a warm coffee in hand."
+          }
+        },
+        {
+          "name": {
+            "de": "Falmouth Art Gallery",
+            "hu": "Falmouth Művészeti Galéria",
+            "ro": "Galeria de Artă Falmouth",
+            "en": "Falmouth Art Gallery"
+          },
+          "coords": [
+            -5.0724,
+            50.1557
+          ],
+          "category": "cultural",
+          "arrive_at": "09:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Falmouth Art Gallery mit ihrer beeindruckenden Sammlung kornischer Kunstwerke und nutzen Sie die kostenlosen Eintrittszeiten.",
+            "hu": "Látogasson el a Falmouth Művészeti Galériába, amely lenyűgöző korni alkotásokat mutat be; használja ki az ingyenes belépést egy nyugodt nézelődésre.",
+            "ro": "Vizitați Galeria de Artă Falmouth cu impresionanta sa colecție de lucrări cornish și profitați de intrarea liberă pentru un tur relaxant.",
+            "en": "Visit the Falmouth Art Gallery to see its impressive collection of Cornish artworks, taking advantage of the free entry for a peaceful morning stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Jacob's Ladder",
+            "hu": "Jákob lajtorjája",
+            "ro": "Scara lui Jacob",
+            "en": "Jacob's Ladder"
+          },
+          "coords": [
+            -5.070855,
+            50.154842
+          ],
+          "category": "historical",
+          "arrive_at": "11:20",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.14,
+          "tip_5lang": {
+            "de": "Erklimmen Sie die historischen 111 Stufen von Jacob's Ladder für einen großartigen Blick über die Stadt, aber nehmen Sie bequemes Schuhwerk mit.",
+            "hu": "Mássza meg a Jacob's Ladder 111 történelmi lépcsőfokát a nagyszerű városi panorámáért, de mindenképpen kényelmes cipőt viseljen ehhez a kihíváshoz.",
+            "ro": "Urcați cele 111 trepte istorice ale scării Jacob pentru o priveliște minunată asupra orașului, asigurându-vă că purtați încălțăminte confortabilă.",
+            "en": "Climb the historic 111 steps of Jacob's Ladder for a great view over the town, but make sure to wear comfortable shoes for the steep ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Custom House Quay",
+            "hu": "Custom House rakpart",
+            "ro": "Cheiul Custom House",
+            "en": "Custom House Quay"
+          },
+          "coords": [
+            -5.06506,
+            50.1528
+          ],
+          "category": "historical",
+          "arrive_at": "12:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang des Custom House Quay, um die maritime Geschichte zu spüren und frische Meeresfrüchte in den anliegenden Lokalen zu probieren.",
+            "hu": "Sétáljon végig a Custom House rakparton, hogy átérezze a történelmet, és kóstoljon meg friss tengeri ételeket a közeli hangulatos éttermekben.",
+            "ro": "Plimbați-vă de-a lungul Custom House Quay pentru a simți istoria maritimă și încercați fructe de mare proaspete la restaurantele din apropiere.",
+            "en": "Stroll along Custom House Quay to feel the maritime history of Falmouth and be sure to try some fresh seafood at the adjacent local eateries."
+          }
+        },
+        {
+          "name": {
+            "de": "Maritime Museum",
+            "hu": "Tengerészeti Múzeum",
+            "ro": "Muzeul Maritim",
+            "en": "Maritime Museum"
+          },
+          "coords": [
+            -5.062393,
+            50.149537
+          ],
+          "category": "museum",
+          "arrive_at": "14:13",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.41,
+          "tip_5lang": {
+            "de": "Entdecken Sie die interaktiven Ausstellungen im Museum, wobei Sie genügend Zeit für die faszinierende Unterwasser-Aussichtsgalerie einplanen sollten.",
+            "hu": "Fedezze fel a múzeum interaktív kiállításait, és mindenképpen szánjon elég időt a lenyűgöző víz alatti kilátógaléria megtekintésére is.",
+            "ro": "Descoperiți expozițiile interactive de la Muzeul Maritim, alocând suficient timp pentru fascinanta galerie de observație subacvatică de acolo.",
+            "en": "Discover the interactive exhibits at the National Maritime Museum, making sure to allow enough time for the fascinating underwater viewing gallery."
+          }
+        },
+        {
+          "name": {
+            "de": "Pendennis Castle",
+            "hu": "Pendennis kastély",
+            "ro": "Castelul Pendennis",
+            "en": "Pendennis Castle"
+          },
+          "coords": [
+            -5.0471,
+            50.1467
+          ],
+          "category": "fortress",
+          "arrive_at": "16:10",
+          "stay_min": 110,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.13,
+          "tip_5lang": {
+            "de": "Erkunden Sie das majestätische Pendennis Castle, das Heinrich VIII. erbauen ließ, und nehmen Sie an einer Führung teil, um Geheimnisse zu erfahren.",
+            "hu": "Fedezze fel a fenséges Pendennis kastélyt, amelyet VIII. Henrik építtetett, és csatlakozzon egy vezetett túrához az erődítmény megismeréséhez.",
+            "ro": "Explorați maiestuosul Castel Pendennis construit de Henric al VIII-lea și alăturați-vă unui tur ghidat pentru a afla secretele fortăreței.",
+            "en": "Explore the majestic Pendennis Castle built by Henry VIII, and join a guided tour to uncover the deep historical secrets of this coastal fortress."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens erkunden Sie den geschäftigen Prince of Wales Pier.\n\nMittags besuchen Sie die Falmouth Art Gallery und Jacob's Ladder.\n\nNachmittags schlendern Sie am Custom House Quay und besuchen das Maritime Museum.\n\nAbends genießen Sie den Sonnenuntergang am majestätischen Pendennis Castle.",
+        "hu": "Reggel fedezze fel a nyüzsgő Prince of Wales mólót.\n\nDélben látogasson el a Művészeti Galériába és a Jacob's Ladderhez.\n\nDélután sétáljon a rakparton, és tekintse meg a Tengerészeti Múzeumot.\n\nEste élvezze a gyönyörű naplementét a fenséges Pendennis kastélynál.",
+        "ro": "Dimineața explorați debarcaderul animat Prince of Wales.\n\nLa prânz vizitați Galeria de Artă Falmouth și Jacob's Ladder.\n\nDupă-amiaza plimbați-vă pe chei și vizitați Muzeul Maritim Național.\n\nSeara bucurați-vă de un apus superb la maiestuosul Castel Pendennis.",
+        "en": "In the morning, explore the bustling Prince of Wales Pier.\n\nBy midday, visit the Falmouth Art Gallery and the historic Jacob's Ladder.\n\nIn the afternoon, stroll along the quay and visit the National Maritime Museum.\n\nIn the evening, enjoy a stunning sunset at the majestic Pendennis Castle."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:32",
+      "total_km": 4.89,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kimberley Park",
+            "hu": "Kimberley Park",
+            "ro": "Parcul Kimberley",
+            "en": "Kimberley Park"
+          },
+          "coords": [
+            -5.076486,
+            50.153851
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich im wunderschönen Kimberley Park inmitten exotischer Pflanzen, ein perfekter Ort, um mit einem Picknick in den Tag zu starten.",
+            "hu": "Pihenjen a gyönyörű Kimberley Park egzotikus növényei között, amely tökéletes helyszín a nap nyugodt, piknikkel egybekötött indításához.",
+            "ro": "Relaxați-vă în frumosul Parc Kimberley printre plante exotice, un loc perfect pentru a începe ziua în liniște cu un mic picnic revigorant.",
+            "en": "Relax in the beautiful Kimberley Park surrounded by exotic plants, making it a perfect spot to start your day peacefully with a small picnic."
+          }
+        },
+        {
+          "name": {
+            "de": "Falmouth Art Gallery",
+            "hu": "Falmouth Művészeti Galéria",
+            "ro": "Galeria de Artă Falmouth",
+            "en": "Falmouth Art Gallery"
+          },
+          "coords": [
+            -5.0724,
+            50.1557
+          ],
+          "category": "cultural",
+          "arrive_at": "10:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Besuchen Sie die Falmouth Art Gallery mit ihrer beeindruckenden Sammlung kornischer Kunstwerke und nutzen Sie die kostenlosen Eintrittszeiten.",
+            "hu": "Látogasson el a Falmouth Művészeti Galériába, amely lenyűgöző korni alkotásokat mutat be; használja ki az ingyenes belépést egy nyugodt nézelődésre.",
+            "ro": "Vizitați Galeria de Artă Falmouth cu impresionanta sa colecție de lucrări cornish și profitați de intrarea liberă pentru un tur relaxant.",
+            "en": "Visit the Falmouth Art Gallery to see its impressive collection of Cornish artworks, taking advantage of the free entry for a peaceful morning stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Maritime Museum",
+            "hu": "Tengerészeti Múzeum",
+            "ro": "Muzeul Maritim",
+            "en": "Maritime Museum"
+          },
+          "coords": [
+            -5.062393,
+            50.149537
+          ],
+          "category": "museum",
+          "arrive_at": "12:12",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.98,
+          "tip_5lang": {
+            "de": "Entdecken Sie die interaktiven Ausstellungen im Museum, wobei Sie genügend Zeit für die faszinierende Unterwasser-Aussichtsgalerie einplanen sollten.",
+            "hu": "Fedezze fel a múzeum interaktív kiállításait, és mindenképpen szánjon elég időt a lenyűgöző víz alatti kilátógaléria megtekintésére is.",
+            "ro": "Descoperiți expozițiile interactive de la Muzeul Maritim, alocând suficient timp pentru fascinanta galerie de observație subacvatică de acolo.",
+            "en": "Discover the interactive exhibits at the National Maritime Museum, making sure to allow enough time for the fascinating underwater viewing gallery."
+          }
+        },
+        {
+          "name": {
+            "de": "Gyllyngvase Beach",
+            "hu": "Gyllyngvase strand",
+            "ro": "Plaja Gyllyngvase",
+            "en": "Gyllyngvase Beach"
+          },
+          "coords": [
+            -5.068525,
+            50.14407
+          ],
+          "category": "natural",
+          "arrive_at": "13:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.74,
+          "tip_5lang": {
+            "de": "Genießen Sie die feinen Sandstrände von Gyllyngvase Beach und mieten Sie ein Stand-Up-Paddleboard, um die Bucht aktiv vom Wasser aus zu erkunden.",
+            "hu": "Élvezze a Gyllyngvase strand finom homokját, és béreljen egy evezős deszkát, hogy aktívan, a vízről is felfedezhesse a festői öblöt.",
+            "ro": "Bucurați-vă de nisipul fin de la Gyllyngvase Beach și închiriați o placă de paddleboard pentru a explora activ golful pitoresc de pe apă.",
+            "en": "Enjoy the fine sands of Gyllyngvase Beach and rent a stand-up paddleboard to actively explore the picturesque bay from out on the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Swanpool Beach",
+            "hu": "Swanpool strand",
+            "ro": "Plaja Swanpool",
+            "en": "Swanpool Beach"
+          },
+          "coords": [
+            -5.07624,
+            50.1408
+          ],
+          "category": "natural",
+          "arrive_at": "15:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Besuchen Sie Swanpool Beach für eine entspannte Atmosphäre und vergessen Sie nicht, das berühmte lokale Eis zu probieren, während Sie am Wasser sitzen.",
+            "hu": "Látogasson el a Swanpool strandra a nyugodt légkörért, és ne felejtse el megkóstolni a híres helyi fagylaltot, miközben a vízparton pihen.",
+            "ro": "Vizitați Swanpool Beach pentru o atmosferă relaxată și nu uitați să gustați faimoasa înghețată locală în timp ce vă odihniți pe malul mării.",
+            "en": "Visit Swanpool Beach for a relaxed atmosphere and don't forget to try the famous local ice cream while resting comfortably by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Pendennis Castle",
+            "hu": "Pendennis kastély",
+            "ro": "Castelul Pendennis",
+            "en": "Pendennis Castle"
+          },
+          "coords": [
+            -5.0471,
+            50.1467
+          ],
+          "category": "fortress",
+          "arrive_at": "16:42",
+          "stay_min": 110,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.17,
+          "tip_5lang": {
+            "de": "Erkunden Sie das majestätische Pendennis Castle, das Heinrich VIII. erbauen ließ, und nehmen Sie an einer Führung teil, um Geheimnisse zu erfahren.",
+            "hu": "Fedezze fel a fenséges Pendennis kastélyt, amelyet VIII. Henrik építtetett, és csatlakozzon egy vezetett túrához az erődítmény megismeréséhez.",
+            "ro": "Explorați maiestuosul Castel Pendennis construit de Henric al VIII-lea și alăturați-vă unui tur ghidat pentru a afla secretele fortăreței.",
+            "en": "Explore the majestic Pendennis Castle built by Henry VIII, and join a guided tour to uncover the deep historical secrets of this coastal fortress."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens starten Sie idyllisch im schönen Kimberley Park.\n\nMittags bewundern Sie Kunst in der Galerie und besuchen das Maritime Museum.\n\nNachmittags radeln Sie gemütlich zum Gyllyngvase und Swanpool Beach.\n\nAbends fahren Sie zum Pendennis Castle für eine traumhafte Aussicht.",
+        "hu": "Reggel kezdjen a gyönyörű és idilli Kimberley Parkban.\n\nDélben csodálja meg a galéria művészetét és a Tengerészeti Múzeumot.\n\nDélután kényelmesen tekerjen a Gyllyngvase és a Swanpool strandra.\n\nEste kerékpározzon fel a Pendennis kastélyhoz a csodás kilátásért.",
+        "ro": "Dimineața începeți idilic în frumosul Parc Kimberley.\n\nLa prânz admirați arta din galerie și vizitați Muzeul Maritim.\n\nDupă-amiaza pedalați liniștit spre plajele Gyllyngvase și Swanpool.\n\nSeara mergeți la Castelul Pendennis pentru o priveliște de vis.",
+        "en": "In the morning, start your ride idyllically in beautiful Kimberley Park.\n\nBy midday, admire art at the gallery and visit the Maritime Museum.\n\nIn the afternoon, enjoy a leisurely pedal to Gyllyngvase and Swanpool beaches.\n\nIn the evening, cycle up to Pendennis Castle for dreamlike views."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:40",
+      "total_km": 5.61,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Maenporth Beach",
+            "hu": "Maenporth strand",
+            "ro": "Plaja Maenporth",
+            "en": "Maenporth Beach"
+          },
+          "coords": [
+            -5.093713,
+            50.125093
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie den Morgen am ruhigen Maenporth Beach, der sich ideal für einen Spaziergang bei Ebbe eignet, um die versteckten Felsenpools zu erkunden.",
+            "hu": "Kezdje a reggelt a csendes Maenporth strandon, amely apálykor ideális egy sétára a rejtett sziklamedencék és tengeri élőlények felfedezéséhez.",
+            "ro": "Începeți dimineața la liniștita Maenporth Beach, ideală pentru o plimbare la reflux pentru a explora bazinele stâncoase ascunse.",
+            "en": "Start your morning at the quiet Maenporth Beach, which is ideal for a low-tide stroll to explore the hidden rock pools and marine life."
+          }
+        },
+        {
+          "name": {
+            "de": "Swanpool Beach",
+            "hu": "Swanpool strand",
+            "ro": "Plaja Swanpool",
+            "en": "Swanpool Beach"
+          },
+          "coords": [
+            -5.07624,
+            50.1408
+          ],
+          "category": "natural",
+          "arrive_at": "10:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.14,
+          "tip_5lang": {
+            "de": "Besuchen Sie Swanpool Beach für eine entspannte Atmosphäre und vergessen Sie nicht, das berühmte lokale Eis zu probieren, während Sie am Wasser sitzen.",
+            "hu": "Látogasson el a Swanpool strandra a nyugodt légkörért, és ne felejtse el megkóstolni a híres helyi fagylaltot, miközben a vízparton pihen.",
+            "ro": "Vizitați Swanpool Beach pentru o atmosferă relaxată și nu uitați să gustați faimoasa înghețată locală în timp ce vă odihniți pe malul mării.",
+            "en": "Visit Swanpool Beach for a relaxed atmosphere and don't forget to try the famous local ice cream while resting comfortably by the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Gyllyngvase Beach",
+            "hu": "Gyllyngvase strand",
+            "ro": "Plaja Gyllyngvase",
+            "en": "Gyllyngvase Beach"
+          },
+          "coords": [
+            -5.068525,
+            50.14407
+          ],
+          "category": "natural",
+          "arrive_at": "11:47",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Genießen Sie die feinen Sandstrände von Gyllyngvase Beach und mieten Sie ein Stand-Up-Paddleboard, um die Bucht aktiv vom Wasser aus zu erkunden.",
+            "hu": "Élvezze a Gyllyngvase strand finom homokját, és béreljen egy evezős deszkát, hogy aktívan, a vízről is felfedezhesse a festői öblöt.",
+            "ro": "Bucurați-vă de nisipul fin de la Gyllyngvase Beach și închiriați o placă de paddleboard pentru a explora activ golful pitoresc de pe apă.",
+            "en": "Enjoy the fine sands of Gyllyngvase Beach and rent a stand-up paddleboard to actively explore the picturesque bay from out on the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Queen Mary Gardens",
+            "hu": "Queen Mary kertek",
+            "ro": "Grădinile Queen Mary",
+            "en": "Queen Mary Gardens"
+          },
+          "coords": [
+            -5.06948,
+            50.144226
+          ],
+          "category": "natural",
+          "arrive_at": "13:03",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.07,
+          "tip_5lang": {
+            "de": "Bewundern Sie die subtropischen Pflanzen in den Queen Mary Gardens direkt hinter dem Strand, ein wunderbarer Ort für ein schattiges Päuschen.",
+            "hu": "Csodálja meg a szubtrópusi növényeket a strand mögött található Queen Mary kertekben, amely remek árnyékos pihenőhely a déli órákban.",
+            "ro": "Admirați plantele subtropicale din Grădinile Queen Mary aflate în spatele plajei, un loc minunat pentru o pauză la umbră la prânz.",
+            "en": "Admire the subtropical plants in Queen Mary Gardens right behind the beach, offering a wonderful spot for a shaded afternoon rest."
+          }
+        },
+        {
+          "name": {
+            "de": "Pendennis Castle",
+            "hu": "Pendennis kastély",
+            "ro": "Castelul Pendennis",
+            "en": "Pendennis Castle"
+          },
+          "coords": [
+            -5.0471,
+            50.1467
+          ],
+          "category": "fortress",
+          "arrive_at": "14:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.62,
+          "tip_5lang": {
+            "de": "Erkunden Sie das majestätische Pendennis Castle, das Heinrich VIII. erbauen ließ, und nehmen Sie an einer Führung teil, um Geheimnisse zu erfahren.",
+            "hu": "Fedezze fel a fenséges Pendennis kastélyt, amelyet VIII. Henrik építtetett, és csatlakozzon egy vezetett túrához az erődítmény megismeréséhez.",
+            "ro": "Explorați maiestuosul Castel Pendennis construit de Henric al VIII-lea și alăturați-vă unui tur ghidat pentru a afla secretele fortăreței.",
+            "en": "Explore the majestic Pendennis Castle built by Henry VIII, and join a guided tour to uncover the deep historical secrets of this coastal fortress."
+          }
+        },
+        {
+          "name": {
+            "de": "Maritime Museum",
+            "hu": "Tengerészeti Múzeum",
+            "ro": "Muzeul Maritim",
+            "en": "Maritime Museum"
+          },
+          "coords": [
+            -5.062393,
+            50.149537
+          ],
+          "category": "museum",
+          "arrive_at": "15:30",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.13,
+          "tip_5lang": {
+            "de": "Entdecken Sie die interaktiven Ausstellungen im Museum, wobei Sie genügend Zeit für die faszinierende Unterwasser-Aussichtsgalerie einplanen sollten.",
+            "hu": "Fedezze fel a múzeum interaktív kiállításait, és mindenképpen szánjon elég időt a lenyűgöző víz alatti kilátógaléria megtekintésére is.",
+            "ro": "Descoperiți expozițiile interactive de la Muzeul Maritim, alocând suficient timp pentru fascinanta galerie de observație subacvatică de acolo.",
+            "en": "Discover the interactive exhibits at the National Maritime Museum, making sure to allow enough time for the fascinating underwater viewing gallery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens genießen Sie die Ruhe am idyllischen Maenporth Beach.\n\nMittags besuchen Sie Swanpool Beach, Gyllyngvase Beach und Queen Mary Gardens.\n\nNachmittags beeindruckt das imposante Pendennis Castle mit seiner Geschichte.\n\nAbends lassen Sie den Tag entspannt im National Maritime Museum ausklingen.",
+        "hu": "Reggel élvezze a csendet és a nyugalmat a Maenporth strandon.\n\nDélben látogassa meg a Swanpool és Gyllyngvase strandokat, valamint a kerteket.\n\nDélután az impozáns Pendennis kastély nyűgözi le történelmével.\n\nEste a Nemzeti Tengerészeti Múzeumban fejezheti be a napot.",
+        "ro": "Dimineața bucurați-vă de liniștea de la idilica Maenporth Beach.\n\nLa prânz vizitați plajele Swanpool, Gyllyngvase și Grădinile Queen Mary.\n\nDupă-amiaza vizitați impunătorul Castel Pendennis cu istoria sa.\n\nSeara încheiați ziua relaxant la Muzeul Maritim Național.",
+        "en": "In the morning, enjoy the peaceful tranquility at Maenporth Beach.\n\nBy midday, visit Swanpool Beach, Gyllyngvase Beach, and Queen Mary Gardens.\n\nIn the afternoon, explore the imposing Pendennis Castle and its history.\n\nIn the evening, wind down your day at the National Maritime Museum."
+      }
+    }
+  }
+}

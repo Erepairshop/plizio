@@ -1,0 +1,474 @@
+{
+  "city_id": "portugal-ribeira-seca-cities-v2",
+  "anchor": {
+    "name": "Ribeira Seca",
+    "coords": [
+      -25.53399,
+      37.8128
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:25",
+      "total_km": 1.65,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Fontanário Antigo",
+            "hu": "Fontanário Antigo",
+            "ro": "Fontanário Antigo",
+            "en": "Fontanário Antigo"
+          },
+          "coords": [
+            -25.535449,
+            37.816187
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Dieser wunderbar erhaltene historische Brunnen gibt Einblicke in das lokale Leben; bringen Sie eine Flasche mit, um auf Ihrem Spaziergang Wasser abzufüllen.",
+            "hu": "Ez a gyönyörűen megőrzött történelmi kút bepillantást enged a helyi életbe; hozzon magával egy kulacsot, hogy vizet vételezzen a reggeli séta kezdetén.",
+            "ro": "Această fântână istorică frumos conservată oferă o privire în viața locală; aduceți o sticlă reutilizabilă pentru a lua apă în timp ce începeți plimbarea.",
+            "en": "This beautifully preserved historical fountain offers a glimpse into local life; bring a reusable bottle to collect water as you start your morning walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Arquipélago - Centro de Artes Contemporâneas",
+            "hu": "Arquipélago - Centro de Artes Contemporâneas",
+            "ro": "Arquipélago - Centro de Artes Contemporâneas",
+            "en": "Arquipélago - Centro de Artes Contemporâneas"
+          },
+          "coords": [
+            -25.529125,
+            37.818995
+          ],
+          "category": "museum",
+          "arrive_at": "10:39",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Das ehemalige Fabrikgebäude ist heute ein markantes Zentrum für zeitgenössische Kunst; prüfen Sie das Programm vorab online, um Sonderausstellungen zu sehen.",
+            "hu": "Az egykori gyárból kialakított kortárs művészeti központ lenyűgöző kiállításokat kínál; látogatás előtt ellenőrizze az online programot az eseményekért.",
+            "ro": "Fostă fabrică, acest centru impresionant de artă contemporană găzduiește expoziții fascinante; verificați programul online înainte pentru evenimente speciale.",
+            "en": "Once a factory, this striking contemporary art center features fascinating exhibitions, so check their schedule online before visiting to catch special events."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Vivo do Franciscanismo",
+            "hu": "Museu Vivo do Franciscanismo",
+            "ro": "Museu Vivo do Franciscanismo",
+            "en": "Museu Vivo do Franciscanismo"
+          },
+          "coords": [
+            -25.526895,
+            37.819457
+          ],
+          "category": "museum",
+          "arrive_at": "12:22",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche religiöse Geschichte der Azoren in diesem interaktiven Franziskanermuseum; wählen Sie eine Führung, um die Artefakte zu würdigen.",
+            "hu": "Fedezze fel az Azori-szigetek vallási történetét ebben az interaktív ferences múzeumban; érdemes a vezetett túrát választani a műtárgyak megértéséhez.",
+            "ro": "Descoperiți istoria religioasă a Azorelor în acest muzeu franciscan interactiv; optați pentru un tur ghidat pentru a aprecia pe deplin artefactele expuse.",
+            "en": "Discover the rich religious history of the Azores in this interactive Franciscan museum; opt for the guided tour to fully appreciate the intricate artifacts."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu Municipal da Ribeira Grande",
+            "hu": "Museu Municipal da Ribeira Grande",
+            "ro": "Museu Municipal da Ribeira Grande",
+            "en": "Museu Municipal da Ribeira Grande"
+          },
+          "coords": [
+            -25.520098,
+            37.81989
+          ],
+          "category": "museum",
+          "arrive_at": "14:11",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Dieses lokale Museum in einem charmanten Altbau dokumentiert die Entwicklung der Stadt; nehmen Sie sich Zeit für das Erdgeschoss mit traditionellem Handwerk.",
+            "hu": "A hangulatos régi épületben található helyi múzeum a város fejlődését mutatja be; töltsön több időt a földszinten a hagyományos mesterségek megtekintésével.",
+            "ro": "Găzduit într-o clădire veche fermecătoare, acest muzeu local prezintă evoluția orașului; acordați-vă timp la parter pentru a vedea meșteșugurile tradiționale.",
+            "en": "Housed in a charming old building, this local museum chronicles the town's development; take your time on the ground floor to see the traditional crafts."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Ribeiragrandense",
+            "hu": "Teatro Ribeiragrandense",
+            "ro": "Teatro Ribeiragrandense",
+            "en": "Teatro Ribeiragrandense"
+          },
+          "coords": [
+            -25.520717,
+            37.821995
+          ],
+          "category": "cultural",
+          "arrive_at": "15:55",
+          "stay_min": 90,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag an diesem eleganten Kulturzentrum; kommen Sie früh, um die klassische Architektur zu bewundern und in der Nähe einen Kaffee zu trinken.",
+            "hu": "Zárja a napot ebben az elegáns kulturális központban; érkezzen korábban, hogy megcsodálja a klasszikus építészetet és igyon egy kávét a közelben.",
+            "ro": "Încheiați ziua la acest hub cultural elegant care găzduiește diverse spectacole; ajungeți devreme pentru a admira arhitectura și a bea o cafea în apropiere.",
+            "en": "End your day at this elegant cultural hub which hosts various performances; arrive early to admire the classic architecture and grab a coffee nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einem Spaziergang am historischen Fontanário Antigo und taucht in das architektonische Erbe ein. Danach besuchen Sie das Kunstzentrum Arquipélago. Am Mittag erkunden Sie das Museu Vivo do Franciscanismo, wo interaktive Ausstellungen die religiöse Geschichte der Insel beleuchten. Der Nachmittag widmet sich dem Stadtmuseum mit spannenden Einblicken in die lokale Historie. Schließlich endet der Abend entspannt am eleganten Teatro Ribeiragrandense.",
+        "hu": "A reggel egy frissítő sétával indul a történelmi Fontanário Antigónál, azonnal elmerülve a város építészeti örökségében. Ezután az Arquipélago művészeti központ következik. A délidő a Museu Vivo do Franciscanismo kulturális felfedezésével telik. A délután a helyi történelemnek van szentelve a városi múzeumban, amely mély betekintést nyújt a múltba. Az este a Teatro Ribeiragrandense klasszikus épületénél zárul le.",
+        "ro": "Dimineața începe cu o plimbare revigorantă la istoricul Fontanário Antigo, aprofundând patrimoniul arhitectural al orașului, urmată de centrul de artă Arquipélago. La prânz, explorarea continuă la Museu Vivo do Franciscanismo, dezvăluind istoria religioasă a insulei. După-amiaza este dedicată folclorului local la Muzeul Municipal, oferind perspective asupra trecutului din Ribeira Grande. Seara se încheie la elegantul Teatro Ribeiragrandense.",
+        "en": "Morning begins with a refreshing stroll starting at the historic Fontanário Antigo, delving immediately into the town's charming architectural heritage. The route then leads to the impressive Arquipélago arts center. Midday continues with cultural exploration at the Museu Vivo do Franciscanismo, where interactive displays unravel the island’s religious history. The afternoon is dedicated to local lore at the Museu Municipal, offering deep insights into Ribeira Grande's past. Finally, the evening concludes by the Teatro Ribeiragrandense, a classic venue perfect for relaxing after a culturally rich day."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:11",
+      "total_km": 4.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Casamatas de Santa Bárbara",
+            "hu": "Casamatas de Santa Bárbara",
+            "ro": "Casamatas de Santa Bárbara",
+            "en": "Casamatas de Santa Bárbara"
+          },
+          "coords": [
+            -25.541463,
+            37.819323
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Diese historischen Militärbunker bieten atemberaubende Küstenblicke; tragen Sie festes Schuhwerk, da die Wege rund um die Befestigungen uneben sein können.",
+            "hu": "Ezek a történelmi katonai bunkerek lenyűgöző kilátást nyújtanak a partra; viseljen masszív cipőt, mivel az erődítmények körüli ösvények egyenetlenek lehetnek.",
+            "ro": "Aceste buncăre militare istorice oferă vederi uimitoare la coastă; purtați încălțăminte solidă, deoarece cărările din jurul fortificațiilor pot fi denivelate.",
+            "en": "These historic military bunkers offer stunning coastal views; wear sturdy shoes as the surrounding paths can be uneven while exploring the fortifications."
+          }
+        },
+        {
+          "name": {
+            "de": "Arquipélago - Centro de Artes Contemporâneas",
+            "hu": "Arquipélago - Centro de Artes Contemporâneas",
+            "ro": "Arquipélago - Centro de Artes Contemporâneas",
+            "en": "Arquipélago - Centro de Artes Contemporâneas"
+          },
+          "coords": [
+            -25.529125,
+            37.818995
+          ],
+          "category": "museum",
+          "arrive_at": "09:46",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Das ehemalige Fabrikgebäude ist heute ein markantes Zentrum für zeitgenössische Kunst; prüfen Sie das Programm vorab online, um Sonderausstellungen zu sehen.",
+            "hu": "Az egykori gyárból kialakított kortárs művészeti központ lenyűgöző kiállításokat kínál; látogatás előtt ellenőrizze az online programot az eseményekért.",
+            "ro": "Fostă fabrică, acest centru impresionant de artă contemporană găzduiește expoziții fascinante; verificați programul online înainte pentru evenimente speciale.",
+            "en": "Once a factory, this striking contemporary art center features fascinating exhibitions, so check their schedule online before visiting to catch special events."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermida de Santo André",
+            "hu": "Ermida de Santo André",
+            "ro": "Ermida de Santo André",
+            "en": "Ermida de Santo André"
+          },
+          "coords": [
+            -25.521055,
+            37.825842
+          ],
+          "category": "religious",
+          "arrive_at": "11:31",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Diese malerische Kapelle am Hang bietet einen ruhigen Rückzugsort vom Zentrum; treten Sie leise ein und genießen Sie den Panoramablick vom Innenhof.",
+            "hu": "Ez a festői hegyoldali kápolna békés menedéket nyújt a nyüzsgő központtól; lépjen be csendben, és élvezze a panorámás kilátást az udvarról a városra.",
+            "ro": "Această capelă pitorească de pe deal oferă o retragere pașnică din centrul aglomerat; pășiți încet înăuntru și bucurați-vă de priveliștile din curte.",
+            "en": "This quaint hillside chapel provides a peaceful retreat from the bustling center; walk softly inside and enjoy the panoramic town vistas from the courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro do Castelo",
+            "hu": "Miradouro do Castelo",
+            "ro": "Miradouro do Castelo",
+            "en": "Miradouro do Castelo"
+          },
+          "coords": [
+            -25.521627,
+            37.827679
+          ],
+          "category": "viewpoint",
+          "arrive_at": "12:12",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Ein spektakulärer Aussichtspunkt mit weitem Ozeanpanorama; besuchen Sie ihn bei klarem Wetter für die besten Fotos, aber halten Sie Ihren Hut im Wind fest.",
+            "hu": "Látványos természetes kilátó, ahonnan elsöprő óceáni panoráma tárul elénk; tiszta időben látogasson ide a legjobb fotókért, de vigyázzon a szeles idővel.",
+            "ro": "Un punct de belvedere natural spectaculos, cu panorame vaste ale oceanului; vizitați pe vreme senină pentru cele mai bune fotografii, dar atenție la vânt.",
+            "en": "A spectacular natural viewpoint providing sweeping ocean panoramas; visit during clear weather for the best photos, but hold onto your hat in the wind."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradouro do Palheiro",
+            "hu": "Miradouro do Palheiro",
+            "ro": "Miradouro do Palheiro",
+            "en": "Miradouro do Palheiro"
+          },
+          "coords": [
+            -25.520094,
+            37.828492
+          ],
+          "category": "viewpoint",
+          "arrive_at": "12:38",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Nur einen kurzen Sprung entfernt bietet dieser ruhige Aussichtspunkt einzigartige Felsformationen; bringen Sie ein Fernglas mit, um Seevögel zu beobachten.",
+            "hu": "Csak egy rövid ugrás az előző megállótól, ez a csendes kilátó egyedi sziklaalakzatokat kínál; hozzon távcsövet a sziklák mentén bukóbúvárkodó tengeri madarakhoz.",
+            "ro": "La mică distanță, acest punct de belvedere liniștit prezintă formațiuni geologice unice; aduceți binoclul pentru a vedea păsările marine pe stânci.",
+            "en": "Just a short hop from the previous stop, this quiet overlook features unique geological formations; bring binoculars to spot seabirds diving along the cliffs."
+          }
+        },
+        {
+          "name": {
+            "de": "Fábrica de Licores Eduardo Ferreira",
+            "hu": "Fábrica de Licores Eduardo Ferreira",
+            "ro": "Fábrica de Licores Eduardo Ferreira",
+            "en": "Fábrica de Licores Eduardo Ferreira"
+          },
+          "coords": [
+            -25.519377,
+            37.814894
+          ],
+          "category": "landmark",
+          "arrive_at": "13:11",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Probieren Sie die authentischen Aromen der Azoren in dieser Likörfabrik; verpassen Sie nicht den Passionsfruchtlikör, der ein perfektes Souvenir ist.",
+            "hu": "Kóstolja meg az Azori-szigetek autentikus ízeit ebben a történelmi likőrgyárban; ne hagyja ki a maracujalikőrt, amely tökéletes szuvenír lehet hazatéréskor.",
+            "ro": "Gustați aromele autentice ale Azorelor la această fabrică istorică de lichior; nu ratați degustarea lichiorului de fructul pasiunii, un suvenir perfect.",
+            "en": "Taste the authentic flavors of the Azores at this historic liquor factory; don't miss sampling the passionfruit liqueur, which makes a perfect souvenir."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihr Radabenteuer bei den historischen Casamatas de Santa Bárbara, bevor Sie zum dynamischen Kunstzentrum Arquipélago radeln. Gegen Mittag führt die Route sanft hinauf zur friedlichen Ermida de Santo André für eine ruhige Pause. Der Nachmittag bietet spektakuläre Ausblicke an den benachbarten Aussichtspunkten Castelo und Palheiro mit weitem Ozeanpanorama. Die Tour endet am Abend entspannt in der Likörfabrik Eduardo Ferreira.",
+        "hu": "Kezdje kerékpáros kalandját a Casamatas de Santa Bárbaránál, majd tekerjen a dinamikus Arquipélago művészeti központba. Dél közeledtével az útvonal a békés Ermida de Santo André kápolnához emelkedik. A délutánt látványos kilátások töltik ki, miközben a Castelo és Palheiro kilátókhoz kerekezik a panorámáért. Az utazás egy édes estével zárul az Eduardo Ferreira likőrgyárban, amely tökéletes jutalom a nap végén.",
+        "ro": "Începeți aventura pe bicicletă la istoricele Casamatas de Santa Bárbara, pedalând apoi spre centrul de artă Arquipélago. La prânz, traseul urcă ușor spre pașnica Ermida de Santo André, oferind un interludiu liniștit. După-amiaza aduce priveliști spectaculoase de la punctele de belvedere Castelo și Palheiro, cu panorame oceanice unice. Plimbarea se termină dulce seara, cu o vizită la fabrica de lichior Eduardo Ferreira.",
+        "en": "Start your cycling adventure at the historic Casamatas de Santa Bárbara, exploring coastal defenses before pedaling to the dynamic Arquipélago arts center. As midday approaches, the route climbs gently to the peaceful Ermida de Santo André, offering a serene interlude. The afternoon is filled with spectacular sights as you bike to the neighboring viewpoints, Castelo and Palheiro, for panoramic ocean vistas. The ride finishes with a sweet evening at the Eduardo Ferreira liquor factory, a perfect reward."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:53",
+      "total_km": 4.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Aeroporto de Santana",
+            "hu": "Aeroporto de Santana",
+            "ro": "Aeroporto de Santana",
+            "en": "Aeroporto de Santana"
+          },
+          "coords": [
+            -25.556653,
+            37.811263
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Dieser historische ehemalige Flugplatz markiert eine wichtige Ära der Luftfahrt in der Region; beachten Sie die kleine Gedenktafel am Eingang, bevor Sie weiterfahren.",
+            "hu": "Ez a történelmi egykori repülőtér a régió repülésének fontos korszakát jelzi; mielőtt továbbhajtana, tekintse meg a bejárat melletti kis emléktáblát.",
+            "ro": "Acest fost aerodrom istoric marchează o eră importantă a aviației din regiune; vedeți mica placă memorială de la intrare înainte de a conduce mai departe.",
+            "en": "This historical former airfield marks an important era of aviation in the region; check out the small memorial plaque by the entrance before driving on."
+          }
+        },
+        {
+          "name": {
+            "de": "Santana Beach",
+            "hu": "Santana Beach",
+            "ro": "Santana Beach",
+            "en": "Santana Beach"
+          },
+          "coords": [
+            -25.560576,
+            37.814531
+          ],
+          "category": "recreational",
+          "arrive_at": "10:32",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Ein langer, dunkler Vulkanstrand, ideal für einen morgendlichen Spaziergang; die Strömung kann stark sein, daher ist es sicherer, die Wellen vom Ufer aus zu bewundern.",
+            "hu": "A hosszú, sötét vulkáni homokos part ideális egy frissítő reggeli sétához; az áramlatok elég erősek lehetnek, így biztonságosabb a partról csodálni a hullámokat.",
+            "ro": "O întindere lungă de nisip vulcanic întunecat, ideală pentru o plimbare revigorantă; curenții pot fi puternici, așa că admirați valurile în siguranță de pe mal.",
+            "en": "A long stretch of dark volcanic sand ideal for a refreshing morning walk; the currents can be quite strong here, so admire the waves from the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Santa Bárbara Eco-Beach Resort",
+            "hu": "Santa Bárbara Eco-Beach Resort",
+            "ro": "Santa Bárbara Eco-Beach Resort",
+            "en": "Santa Bárbara Eco-Beach Resort"
+          },
+          "coords": [
+            -25.550947,
+            37.814648
+          ],
+          "category": "recreational",
+          "arrive_at": "11:34",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Genießen Sie eine luxuriöse Kaffeepause in diesem schönen Öko-Resort am Wasser; der Loungebereich ist für Besucher geöffnet und ideal für eine kurze Rast.",
+            "hu": "Élvezze a luxus kávészünetet ebben a gyönyörű, vízre néző öko-üdülőhelyen; a társalgó nyitva áll a látogatók előtt, és tökéletes egy gyors feltöltődésre.",
+            "ro": "Bucurați-vă de o pauză de cafea luxoasă la acest complex ecologic frumos; zona de lounge este deschisă vizitatorilor și este perfectă pentru o scurtă relaxare.",
+            "en": "Enjoy a luxurious coffee break at this beautiful eco-resort overlooking the water; the lounge area is open to visitors and perfect for a quick recharge."
+          }
+        },
+        {
+          "name": {
+            "de": "Areal de Santa Barbara",
+            "hu": "Areal de Santa Barbara",
+            "ro": "Areal de Santa Barbara",
+            "en": "Areal de Santa Barbara"
+          },
+          "coords": [
+            -25.548918,
+            37.816583
+          ],
+          "category": "recreational",
+          "arrive_at": "12:35",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Dieser große Strandbereich ist berühmt für exzellente Surfbedingungen und voller Energie; packen Sie eine Windjacke ein, da die Küstenbrisen hier stark sind.",
+            "hu": "A kiváló szörfözési feltételekről híres nagy strand tele van vibráló energiával; csomagoljon széldzsekit, mivel a parti szellő egész évben egyenletes.",
+            "ro": "Faimoasă pentru condițiile excelente de surf, această plajă mare este plină de energie; luați o jachetă de vânt, deoarece briza de coastă este constantă.",
+            "en": "Famous for excellent surfing conditions, this large beach area is full of vibrant energy; pack a windbreaker as the coastal breezes are consistent year-round."
+          }
+        },
+        {
+          "name": {
+            "de": "Casamatas de Santa Bárbara",
+            "hu": "Casamatas de Santa Bárbara",
+            "ro": "Casamatas de Santa Bárbara",
+            "en": "Casamatas de Santa Bárbara"
+          },
+          "coords": [
+            -25.541463,
+            37.819323
+          ],
+          "category": "landmark",
+          "arrive_at": "13:37",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Diese historischen Militärbunker bieten atemberaubende Küstenblicke; tragen Sie festes Schuhwerk, da die Wege rund um die Befestigungen uneben sein können.",
+            "hu": "Ezek a történelmi katonai bunkerek lenyűgöző kilátást nyújtanak a partra; viseljen masszív cipőt, mivel az erődítmények körüli ösvények egyenetlenek lehetnek.",
+            "ro": "Aceste buncăre militare istorice oferă vederi uimitoare la coastă; purtați încălțăminte solidă, deoarece cărările din jurul fortificațiilor pot fi denivelate.",
+            "en": "These historic military bunkers offer stunning coastal views; wear sturdy shoes as the surrounding paths can be uneven while exploring the fortifications."
+          }
+        },
+        {
+          "name": {
+            "de": "Arquipélago - Centro de Artes Contemporâneas",
+            "hu": "Arquipélago - Centro de Artes Contemporâneas",
+            "ro": "Arquipélago - Centro de Artes Contemporâneas",
+            "en": "Arquipélago - Centro de Artes Contemporâneas"
+          },
+          "coords": [
+            -25.529125,
+            37.818995
+          ],
+          "category": "museum",
+          "arrive_at": "14:10",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Das ehemalige Fabrikgebäude ist heute ein markantes Zentrum für zeitgenössische Kunst; prüfen Sie das Programm vorab online, um Sonderausstellungen zu sehen.",
+            "hu": "Az egykori gyárból kialakított kortárs művészeti központ lenyűgöző kiállításokat kínál; látogatás előtt ellenőrizze az online programot az eseményekért.",
+            "ro": "Fostă fabrică, acest centru impresionant de artă contemporană găzduiește expoziții fascinante; verificați programul online înainte pentru evenimente speciale.",
+            "en": "Once a factory, this striking contemporary art center features fascinating exhibitions, so check their schedule online before visiting to catch special events."
+          }
+        },
+        {
+          "name": {
+            "de": "Fábrica de Licores Eduardo Ferreira",
+            "hu": "Fábrica de Licores Eduardo Ferreira",
+            "ro": "Fábrica de Licores Eduardo Ferreira",
+            "en": "Fábrica de Licores Eduardo Ferreira"
+          },
+          "coords": [
+            -25.519377,
+            37.814894
+          ],
+          "category": "landmark",
+          "arrive_at": "15:53",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Probieren Sie die authentischen Aromen der Azoren in dieser Likörfabrik; verpassen Sie nicht den Passionsfruchtlikör, der ein perfektes Souvenir ist.",
+            "hu": "Kóstolja meg az Azori-szigetek autentikus ízeit ebben a történelmi likőrgyárban; ne hagyja ki a maracujalikőrt, amely tökéletes szuvenír lehet hazatéréskor.",
+            "ro": "Gustați aromele autentice ale Azorelor la această fabrică istorică de lichior; nu ratați degustarea lichiorului de fructul pasiunii, un suvenir perfect.",
+            "en": "Taste the authentic flavors of the Azores at this historic liquor factory; don't miss sampling the passionfruit liqueur, which makes a perfect souvenir."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt am historischen Aeroporto de Santana, bevor Sie an der Küste entlang zum dunklen Sandstrand von Santana fahren. Der Mittag bringt eine stilvolle Pause im Öko-Resort und einen Spaziergang am Areal de Santa Barbara. Am Nachmittag verlagert sich der Fokus auf Geschichte und Kultur mit einem Besuch der Küstenbunker und des Kunstzentrums Arquipélago. Beenden Sie die Tour mit einer Verkostung in der Likörfabrik.",
+        "hu": "Autós túrája a történelmi repülőtérnél kezdődik, majd a parton halad a Santana Beach sötét homokja felé. A dél egy elegáns pihenőt hoz az öko-üdülőhelyen, és egy sétát a hatalmas Areal de Santa Barbara strandon. Délután váltson történelemre és kultúrára a parti bunkerek és az elismert Arquipélago művészeti központ meglátogatásával. Zárja a napot egy esti kóstolóval a történelmi Eduardo Ferreira likőrgyárban.",
+        "ro": "Conducerea începe la istoricul Aeroport Santana, urmată de o plimbare de-a lungul coastei spre nisipul întunecat de la Plaja Santana. Prânzul aduce o pauză la complexul ecologic și o plimbare pe zona largă de la Areal de Santa Barbara. După-amiaza, treceți la istorie și cultură vizitând buncărele de coastă și renumitul centru de artă Arquipélago. Încheiați cu o degustare la istorica fabrică de lichior Eduardo Ferreira.",
+        "en": "Your drive begins at the historic Aeroporto de Santana, reflecting on early aviation, before cruising along the coast to the dark sands of Santana Beach. Midday brings a stylish break at the eco-resort and a stroll along the sprawling surf paradise of Areal de Santa Barbara. In the afternoon, shift gears to history and culture by visiting the coastal bunkers and the renowned Arquipélago arts center. Conclude your driving tour with an evening tasting at the historic Eduardo Ferreira liquor factory."
+      }
+    }
+  }
+}

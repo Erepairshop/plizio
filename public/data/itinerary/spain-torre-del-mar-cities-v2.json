@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-torre-del-mar-cities-v2",
+  "anchor": {
+    "name": "Torre del Mar",
+    "coords": [
+      -4.09461,
+      36.74138
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:12",
+      "total_km": 2.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Castillo de Torre del Mar de 1730",
+            "hu": "Castillo de Torre del Mar de 1730",
+            "ro": "Castillo de Torre del Mar de 1730",
+            "en": "Castillo de Torre del Mar de 1730"
+          },
+          "coords": [
+            -4.095721,
+            36.742566
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser Festung aus dem 18. Jahrhundert, die die Küste schützte, aber prüfen Sie vorher die Öffnungszeiten, um nicht vor verschlossenen Toren zu stehen.",
+            "hu": "Fedezze fel ennek a 18. századi tengerparti védőerődnek a maradványait, de előzetesen ellenőrizze a nyitvatartást, hogy elkerülje a zárt kapukat.",
+            "ro": "Explorați rămășițele acestui fort defensiv din secolul al XVIII-lea care proteja coasta, dar verificați în prealabil programul de vizitare pentru a evita porțile închise.",
+            "en": "Explore the remains of this 18th-century defensive fort that protected the coast, but check the visiting hours beforehand to avoid finding the gates closed."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro",
+            "hu": "Faro",
+            "ro": "Faro",
+            "en": "Faro"
+          },
+          "coords": [
+            -4.091077,
+            36.740657
+          ],
+          "category": "historical",
+          "arrive_at": "10:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Struktur dieses historischen Leuchtturms im Landesinneren, der die historische Verschiebung der Küstenlinie zeigt, und machen Sie Fotos im weichen Morgenlicht.",
+            "hu": "Csodálja meg ezt a történelmi szárazföldi világítótornyot, amely megmutatja, hogyan tolódott el a partvonal, és készítsen nagyszerű fotókat a lágyabb reggeli fényben.",
+            "ro": "Admirați structura acestui far istoric din interior care dezvăluie modul în care s-a modificat linia de coastă și faceți fotografii excelente în lumina blândă a dimineții.",
+            "en": "Admire the structure of this historic inland lighthouse which reveals how the coastline has shifted over time, and take photos during the softer morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Antigua Fábrica de Azúcar/Museo del Azúcar",
+            "hu": "Antigua Fábrica de Azúcar/Museo del Azúcar",
+            "ro": "Antigua Fábrica de Azúcar/Museo del Azúcar",
+            "en": "Antigua Fábrica de Azúcar/Museo del Azúcar"
+          },
+          "coords": [
+            -4.088579,
+            36.746791
+          ],
+          "category": "museum",
+          "arrive_at": "12:09",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche industrielle Vergangenheit der Region in dieser ehemaligen, zum Museum umgebauten Zuckerfabrik, wo eine Führung tiefere Einblicke in die Maschinen bietet.",
+            "hu": "Fedezze fel a régió gazdag ipari múltját ebben a múzeummá alakított egykori cukorgyárban, ahol az idegenvezetés foglalása mélyebb betekintést nyújt a gépek működésébe.",
+            "ro": "Descoperiți bogatul trecut industrial al regiunii la această fostă fabrică de zahăr transformată în muzeu, unde rezervarea unui tur ghidat oferă o înțelegere profundă a mașinăriilor.",
+            "en": "Discover the region's rich industrial past at this former sugar factory turned museum, where booking a guided tour offers deeper insights into the machinery."
+          }
+        },
+        {
+          "name": {
+            "de": "Old Factory Tower",
+            "hu": "Old Factory Tower",
+            "ro": "Old Factory Tower",
+            "en": "Old Factory Tower"
+          },
+          "coords": [
+            -4.0843,
+            36.746473
+          ],
+          "category": "historical",
+          "arrive_at": "13:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Blicken Sie zu diesem hoch aufragenden Backsteinschornstein hinauf, der als markantes Denkmal für den Zuckerboom steht, und verbinden Sie den Besuch mit einem Spaziergang im Park.",
+            "hu": "Nézzen fel erre a magasodó tégla kéményre, amely Torre del Mar cukorkorszakának monumentális emléke, és kösse össze a látogatást egy sétával a környező parkban.",
+            "ro": "Priviți în sus spre acest coș de cărămidă falnic care stă ca un monument izbitor al boom-ului zahărului, și combinați vizita cu o plimbare relaxantă prin parcul înconjurător.",
+            "en": "Look up at this towering brick chimney that stands as a stark monument to Torre del Mar's sugar boom, and pair your visit with a walk through the surrounding park."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Torre del Mar",
+            "hu": "Playa de Torre del Mar",
+            "ro": "Playa de Torre del Mar",
+            "en": "Playa de Torre del Mar"
+          },
+          "coords": [
+            -4.088671,
+            36.740397
+          ],
+          "category": "recreational",
+          "arrive_at": "15:27",
+          "stay_min": 105,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie am breiten, dunklen Sandstrand dieses beliebten Stadtstrands mit hervorragenden Einrichtungen, aber kommen Sie früh, um einen Platz nahe der Promenade zu sichern.",
+            "hu": "Pihenjen ennek a népszerű, kiváló felszereltségű városi strandnak a széles, sötét homokján, de érkezzen korán, hogy jó helyet biztosítson magának a sétány közelében.",
+            "ro": "Relaxați-vă pe nisipul larg și închis la culoare al acestei plaje urbane populare cu facilități excelente, dar ajungeți devreme pentru un loc bun lângă promenadă.",
+            "en": "Relax on the wide, dark sands of this popular urban beach with excellent facilities, but arrive early to secure a prime spot near the vibrant promenade."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Geschichte im Castillo de Torre del Mar, bevor Sie zum historischen Faro schlendern, um die alte Küstenlinie zu verstehen. Mittags tauchen Sie im beeindruckenden Zuckerfabrik-Museum tief in das industrielle Erbe der Region ein. Am Nachmittag können Sie den hoch aufragenden alten Fabrikschornstein bewundern, der an den einstigen wirtschaftlichen Boom erinnert. Lassen Sie den Abend bei einem entspannten Spaziergang über den breiten Sand der Playa de Torre del Mar ausklingen.",
+        "hu": "Kezdje a reggelt a múlt megismerésével a Castillo de Torre del Mar-nál, majd sétáljon át a történelmi Faro-hoz, hogy lássa a partvonal változásait. Délben merüljön el a régió ipari örökségében a lenyűgöző Cukorgyár Múzeum meglátogatásával. Délután csodálja meg a magasodó Régi Gyár Kéményét, amely a város virágzó múltjáról tanúskodik. Zárja az estét egy kellemes és pihentető sétával a Playa de Torre del Mar széles homokos partján.",
+        "ro": "Începeți dimineața explorând trecutul la Castillo de Torre del Mar, înainte de a vă plimba spre Farul istoric pentru a vedea evoluția coastei. La prânz, scufundați-vă în moștenirea industrială a regiunii vizitând impresionantul Muzeu al Fabricii de Zahăr. După-amiaza, admirați vechiul turn al fabricii, un monument impunător al trecutului prosper al orașului. Încheiați-vă seara cu o plimbare relaxantă și liniștită pe nisipurile întinse ale Playa de Torre del Mar.",
+        "en": "Start your morning delving into the past at the Castillo de Torre del Mar before strolling to the historic Faro to see how the coastline has evolved over the centuries. At midday, immerse yourself in the industrial legacy of the region by visiting the impressive Sugar Factory Museum. In the afternoon, marvel at the towering Old Factory Tower, a testament to the town's booming past. Wind down your evening with a leisurely and relaxing stroll along the wide sands of Playa de Torre del Mar."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:26",
+      "total_km": 4.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Aquavelis",
+            "hu": "Aquavelis",
+            "ro": "Aquavelis",
+            "en": "Aquavelis"
+          },
+          "coords": [
+            -4.095291,
+            36.752627
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie aufregende Wasserrutschen und Pools in diesem familienfreundlichen Wasserpark, und denken Sie an reichlich Sonnencreme sowie ein Schließfach für Ihre Wertsachen.",
+            "hu": "Élvezze az izgalmas csúszdákat és medencéket ebben a családbarát vízi parkban, és ne felejtsen el sok naptejet hozni, valamint bérelni egy szekrényt az értékeinek.",
+            "ro": "Bucurați-vă de toboganele și piscinele captivante din acest parc acvatic ideal pentru familii, și nu uitați să aduceți multă cremă de protecție solară și să închiriați un dulap.",
+            "en": "Enjoy thrilling water slides and pools at this family-friendly aquatic park, and remember to bring plenty of sunscreen and rent a locker for your valuables."
+          }
+        },
+        {
+          "name": {
+            "de": "Antigua Fábrica de Azúcar/Museo del Azúcar",
+            "hu": "Antigua Fábrica de Azúcar/Museo del Azúcar",
+            "ro": "Antigua Fábrica de Azúcar/Museo del Azúcar",
+            "en": "Antigua Fábrica de Azúcar/Museo del Azúcar"
+          },
+          "coords": [
+            -4.088579,
+            36.746791
+          ],
+          "category": "museum",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche industrielle Vergangenheit der Region in dieser ehemaligen, zum Museum umgebauten Zuckerfabrik, wo eine Führung tiefere Einblicke in die Maschinen bietet.",
+            "hu": "Fedezze fel a régió gazdag ipari múltját ebben a múzeummá alakított egykori cukorgyárban, ahol az idegenvezetés foglalása mélyebb betekintést nyújt a gépek működésébe.",
+            "ro": "Descoperiți bogatul trecut industrial al regiunii la această fostă fabrică de zahăr transformată în muzeu, unde rezervarea unui tur ghidat oferă o înțelegere profundă a mașinăriilor.",
+            "en": "Discover the region's rich industrial past at this former sugar factory turned museum, where booking a guided tour offers deeper insights into the machinery."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro",
+            "hu": "Faro",
+            "ro": "Faro",
+            "en": "Faro"
+          },
+          "coords": [
+            -4.091077,
+            36.740657
+          ],
+          "category": "historical",
+          "arrive_at": "12:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Struktur dieses historischen Leuchtturms im Landesinneren, der die historische Verschiebung der Küstenlinie zeigt, und machen Sie Fotos im weichen Morgenlicht.",
+            "hu": "Csodálja meg ezt a történelmi szárazföldi világítótornyot, amely megmutatja, hogyan tolódott el a partvonal, és készítsen nagyszerű fotókat a lágyabb reggeli fényben.",
+            "ro": "Admirați structura acestui far istoric din interior care dezvăluie modul în care s-a modificat linia de coastă și faceți fotografii excelente în lumina blândă a dimineții.",
+            "en": "Admire the structure of this historic inland lighthouse which reveals how the coastline has shifted over time, and take photos during the softer morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro Torre del Mar",
+            "hu": "Faro Torre del Mar",
+            "ro": "Faro Torre del Mar",
+            "en": "Faro Torre del Mar"
+          },
+          "coords": [
+            -4.096079,
+            36.735019
+          ],
+          "category": "landmark",
+          "arrive_at": "13:39",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die modernen blau-weißen Streifen des aktiven Leuchtturms, der die heutige Küste markiert und sich perfekt für ein schnelles, farbenfrohes Selfie eignet.",
+            "hu": "Csodálja meg az aktív világítótorony modern kék-fehér csíkjait, amely a jelenlegi partvonalat jelöli, és tökéletes egy gyors, színes szelfi elkészítéséhez.",
+            "ro": "Admirați dungile albastre și albe moderne ale farului activ care marchează coasta actuală, fiind oprirea perfectă pentru un selfie rapid și plin de culoare.",
+            "en": "Marvel at the modern blue-and-white stripes of the active lighthouse marking the current coastline, making it a perfect quick stop for a colorful selfie."
+          }
+        },
+        {
+          "name": {
+            "de": "Yacimientos Fenicios",
+            "hu": "Yacimientos Fenicios",
+            "ro": "Yacimientos Fenicios",
+            "en": "Yacimientos Fenicios"
+          },
+          "coords": [
+            -4.114382,
+            36.73531
+          ],
+          "category": "historical",
+          "arrive_at": "14:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Gehen Sie Jahrtausende zurück und erkunden Sie diese antiken phönizischen Siedlungsruinen, wobei festes Schuhwerk wegen des unebenen archäologischen Geländes dringend empfohlen wird.",
+            "hu": "Lépjen vissza évezredeket ezen ősi föníciai településromok felfedezésével, bár a masszív cipő viselése erősen ajánlott az egyenetlen régészeti terep miatt.",
+            "ro": "Întoarceți-vă cu milenii în urmă explorând aceste ruine antice ale unei așezări feniciene, deși purtarea încălțămintei rezistente este foarte recomandată din cauza terenului accidentat.",
+            "en": "Step back millennia by exploring these ancient Phoenician settlement ruins, though wearing sturdy shoes is highly recommended due to the uneven archaeological terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Vigía Manganeta",
+            "hu": "Torre Vigía Manganeta",
+            "ro": "Torre Vigía Manganeta",
+            "en": "Torre Vigía Manganeta"
+          },
+          "coords": [
+            -4.114569,
+            36.732109
+          ],
+          "category": "historical",
+          "arrive_at": "15:36",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betrachten Sie diesen rustikalen Küstenwachturm aus dem 16. Jahrhundert nahe der Flussmündung, und bringen Sie ein Fernglas mit, um die weite Küstenaussicht besser zu genießen.",
+            "hu": "Figyelje meg ezt a folyótorkolat közelében elszigetelten álló rusztikus 16. századi őrtornyot, és hozzon távcsövet a lenyűgöző tengerparti kilátás jobb megtekintéséhez.",
+            "ro": "Observați acest turn de veghe de coastă rustic din secolul al XVI-lea, izolat lângă gura râului, și aduceți binoclu pentru a aprecia mai bine vederile panoramice asupra coastei.",
+            "en": "Observe this rustic 16th-century coastal watchtower standing isolated near the river mouth, and bring binoculars to better appreciate the sweeping coastal views."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour mit erfrischendem Spaß im Aquavelis, bevor Sie zum Zuckerfabrik-Museum radeln, um die lokale Industriegeschichte zu erkunden. Mittags erreichen Sie den alten Faro im Landesinneren, gefolgt von seinem modernen blau-weißen Nachfolger an der Küste. Verbringen Sie den Nachmittag damit, antike Geheimnisse in den phönizischen Ruinen zu lüften. Beenden Sie den Tag mit einer Fahrt im goldenen Licht zum rustikalen Torre Vigía Manganeta.",
+        "hu": "Kezdje kerékpártúráját egy kis frissítő szórakozással az Aquavelis-ben, mielőtt a Cukorgyár Múzeum felé teker, hogy felfedezze az ipari történelmet. Délben elérkezik a régi Faro-hoz, majd a jelenlegi partvonalon álló modern kék-fehér utódjához. Töltse a délutánt az ősi titkok feltárásával a föníciai romoknál. Zárja a napot egy aranyórás biciklizéssel a rusztikus Torre Vigía Manganeta felé, miközben élvezi a tengerparti kilátást.",
+        "ro": "Începeți turul cu bicicleta cu o distracție răcoritoare la Aquavelis, înainte de a pedala spre Muzeul Zahărului pentru a explora istoria industrială. La prânz veți ajunge la vechiul Far din interior, urmat rapid de succesorul său modern de pe coasta actuală. Petreceți după-amiaza descoperind secrete antice la ruinele feniciene. Încheiați ziua cu o plimbare în ora de aur către rusticul Torre Vigía Manganeta, bucurându-vă de priveliști.",
+        "en": "Kick off your cycling tour with some refreshing fun at Aquavelis before pedaling toward the Sugar Factory Museum to explore local industrial history. Midday brings you to the old inland Faro, followed swiftly by its modern blue-and-white successor right on the current coastline. Spend your afternoon uncovering ancient secrets at the Phoenician ruins. End the day with a golden hour ride to the rustic Torre Vigía Manganeta, soaking in the beautiful coastal views."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:29",
+      "total_km": 5.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Necròpolis fenicia de Jardin",
+            "hu": "Necròpolis fenicia de Jardin",
+            "ro": "Necròpolis fenicia de Jardin",
+            "en": "Necròpolis fenicia de Jardin"
+          },
+          "coords": [
+            -4.116888,
+            36.742607
+          ],
+          "category": "historical",
+          "arrive_at": "09:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch eine der wichtigsten phönizischen Nekropolen im westlichen Mittelmeer, und lesen Sie die Informationstafeln aufmerksam, um die antiken Gräber zu verstehen.",
+            "hu": "Sétáljon végig a Földközi-tenger nyugati medencéjének egyik legfontosabb föníciai temetkezési helyén, és olvassa el figyelmesen a táblákat az ősi sírok megértéséhez.",
+            "ro": "Plimbați-vă printr-unul dintre cele mai importante situri funerare feniciene din vestul Mediteranei și citiți cu atenție panourile informative pentru a înțelege mormintele antice.",
+            "en": "Walk through one of the most important Phoenician burial sites in the western Mediterranean, and read the informational panels carefully to understand the ancient tombs."
+          }
+        },
+        {
+          "name": {
+            "de": "Yacimientos Fenicios",
+            "hu": "Yacimientos Fenicios",
+            "ro": "Yacimientos Fenicios",
+            "en": "Yacimientos Fenicios"
+          },
+          "coords": [
+            -4.114382,
+            36.73531
+          ],
+          "category": "historical",
+          "arrive_at": "10:32",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Gehen Sie Jahrtausende zurück und erkunden Sie diese antiken phönizischen Siedlungsruinen, wobei festes Schuhwerk wegen des unebenen archäologischen Geländes dringend empfohlen wird.",
+            "hu": "Lépjen vissza évezredeket ezen ősi föníciai településromok felfedezésével, bár a masszív cipő viselése erősen ajánlott az egyenetlen régészeti terep miatt.",
+            "ro": "Întoarceți-vă cu milenii în urmă explorând aceste ruine antice ale unei așezări feniciene, deși purtarea încălțămintei rezistente este foarte recomandată din cauza terenului accidentat.",
+            "en": "Step back millennia by exploring these ancient Phoenician settlement ruins, though wearing sturdy shoes is highly recommended due to the uneven archaeological terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Vigía Manganeta",
+            "hu": "Torre Vigía Manganeta",
+            "ro": "Torre Vigía Manganeta",
+            "en": "Torre Vigía Manganeta"
+          },
+          "coords": [
+            -4.114569,
+            36.732109
+          ],
+          "category": "historical",
+          "arrive_at": "11:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betrachten Sie diesen rustikalen Küstenwachturm aus dem 16. Jahrhundert nahe der Flussmündung, und bringen Sie ein Fernglas mit, um die weite Küstenaussicht besser zu genießen.",
+            "hu": "Figyelje meg ezt a folyótorkolat közelében elszigetelten álló rusztikus 16. századi őrtornyot, és hozzon távcsövet a lenyűgöző tengerparti kilátás jobb megtekintéséhez.",
+            "ro": "Observați acest turn de veghe de coastă rustic din secolul al XVI-lea, izolat lângă gura râului, și aduceți binoclu pentru a aprecia mai bine vederile panoramice asupra coastei.",
+            "en": "Observe this rustic 16th-century coastal watchtower standing isolated near the river mouth, and bring binoculars to better appreciate the sweeping coastal views."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa naturista de Almayate",
+            "hu": "Playa naturista de Almayate",
+            "ro": "Playa naturista de Almayate",
+            "en": "Playa naturista de Almayate"
+          },
+          "coords": [
+            -4.112294,
+            36.725178
+          ],
+          "category": "recreational",
+          "arrive_at": "13:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erleben Sie absolute Freiheit an diesem weiten, unberührten FKK-Strand hinter landwirtschaftlichen Feldern, aber packen Sie eigenes Essen und Wasser ein, da es kaum Einrichtungen gibt.",
+            "hu": "Tapasztalja meg az abszolút szabadságot ezen a mezőgazdasági területekkel határolt hatalmas nudista strandon, de feltétlenül csomagoljon saját ételt és vizet a kevés szolgáltatás miatt.",
+            "ro": "Experimentați libertatea absolută la această plajă de nudiști vastă și imaculată, mărginită de câmpuri agricole, dar asigurați-vă că luați mâncare și apă, deoarece facilitățile sunt rare.",
+            "en": "Experience absolute freedom at this vast, unspoiled nudist beach backed by agricultural fields, but make sure to pack your own food and water as amenities are scarce."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo de Torre del Mar de 1730",
+            "hu": "Castillo de Torre del Mar de 1730",
+            "ro": "Castillo de Torre del Mar de 1730",
+            "en": "Castillo de Torre del Mar de 1730"
+          },
+          "coords": [
+            -4.095721,
+            36.742566
+          ],
+          "category": "historical",
+          "arrive_at": "14:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser Festung aus dem 18. Jahrhundert, die die Küste schützte, aber prüfen Sie vorher die Öffnungszeiten, um nicht vor verschlossenen Toren zu stehen.",
+            "hu": "Fedezze fel ennek a 18. századi tengerparti védőerődnek a maradványait, de előzetesen ellenőrizze a nyitvatartást, hogy elkerülje a zárt kapukat.",
+            "ro": "Explorați rămășițele acestui fort defensiv din secolul al XVIII-lea care proteja coasta, dar verificați în prealabil programul de vizitare pentru a evita porțile închise.",
+            "en": "Explore the remains of this 18th-century defensive fort that protected the coast, but check the visiting hours beforehand to avoid finding the gates closed."
+          }
+        },
+        {
+          "name": {
+            "de": "Antigua Fábrica de Azúcar/Museo del Azúcar",
+            "hu": "Antigua Fábrica de Azúcar/Museo del Azúcar",
+            "ro": "Antigua Fábrica de Azúcar/Museo del Azúcar",
+            "en": "Antigua Fábrica de Azúcar/Museo del Azúcar"
+          },
+          "coords": [
+            -4.088579,
+            36.746791
+          ],
+          "category": "museum",
+          "arrive_at": "15:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche industrielle Vergangenheit der Region in dieser ehemaligen, zum Museum umgebauten Zuckerfabrik, wo eine Führung tiefere Einblicke in die Maschinen bietet.",
+            "hu": "Fedezze fel a régió gazdag ipari múltját ebben a múzeummá alakított egykori cukorgyárban, ahol az idegenvezetés foglalása mélyebb betekintést nyújt a gépek működésébe.",
+            "ro": "Descoperiți bogatul trecut industrial al regiunii la această fostă fabrică de zahăr transformată în muzeu, unde rezervarea unui tur ghidat oferă o înțelegere profundă a mașinăriilor.",
+            "en": "Discover the region's rich industrial past at this former sugar factory turned museum, where booking a guided tour offers deeper insights into the machinery."
+          }
+        },
+        {
+          "name": {
+            "de": "Old Factory Tower",
+            "hu": "Old Factory Tower",
+            "ro": "Old Factory Tower",
+            "en": "Old Factory Tower"
+          },
+          "coords": [
+            -4.0843,
+            36.746473
+          ],
+          "category": "historical",
+          "arrive_at": "17:39",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Blicken Sie zu diesem hoch aufragenden Backsteinschornstein hinauf, der als markantes Denkmal für den Zuckerboom steht, und verbinden Sie den Besuch mit einem Spaziergang im Park.",
+            "hu": "Nézzen fel erre a magasodó tégla kéményre, amely Torre del Mar cukorkorszakának monumentális emléke, és kösse össze a látogatást egy sétával a környező parkban.",
+            "ro": "Priviți în sus spre acest coș de cărămidă falnic care stă ca un monument izbitor al boom-ului zahărului, și combinați vizita cu o plimbare relaxantă prin parcul înconjurător.",
+            "en": "Look up at this towering brick chimney that stands as a stark monument to Torre del Mar's sugar boom, and pair your visit with a walk through the surrounding park."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zur antiken Necròpolis fenicia de Jardin, um den Tag umgeben von tiefer archäologischer Bedeutung zu beginnen. Mittags verbinden Sie die historischen Punkte mit einem Besuch der Yacimientos Fenicios und des isolierten Torre Vigía Manganeta. Am Nachmittag genießen Sie die Ruhe am weitläufigen Naturstrand Playa naturista de Almayate, bevor Sie zum Castillo zurückkehren. Ihr Abend endet mit dem industriellen Erbe rund um das Zuckermuseum.",
+        "hu": "Vezessen el az ősi Necròpolis fenicia de Jardin-hoz, hogy a napot mély régészeti jelentőségű környezetben kezdje. Délben kösse össze a történelmi pontokat a Yacimientos Fenicios és az elszigetelt Torre Vigía Manganeta meglátogatásával. Délután élvezze a békés kikapcsolódást a Playa naturista de Almayate hatalmas természetes partjain, majd térjen vissza a Castillo-hoz. Az estéje a város ipari örökségének izgalmas felfedezésével zárul a Cukormúzeumnál.",
+        "ro": "Conduceți către antica Necròpolis fenicia de Jardin pentru a vă începe ziua înconjurați de o profundă importanță arheologică. La prânz, faceți legătura istorică vizitând Yacimientos Fenicios și izolatul Torre Vigía Manganeta. După-amiaza, bucurați-vă de o evadare liniștită pe întinderile naturale de la Playa naturista de Almayate înainte de a vedea Castillo. Seara se încheie cu o scufundare fascinantă în moștenirea industrială din zona Muzeului Zahărului.",
+        "en": "Drive to the ancient Necròpolis fenicia de Jardin to start your day surrounded by profound archaeological significance. By midday, connect the historical dots with a visit to the nearby Yacimientos Fenicios and the isolated Torre Vigía Manganeta. In the afternoon, enjoy a tranquil escape at the vast natural stretches of Playa naturista de Almayate before heading back into town to see the Castillo. Your evening concludes with a fascinating dive into the town's industrial legacy at the Sugar Museum area."
+      }
+    }
+  }
+}

@@ -1,0 +1,451 @@
+{
+  "city_id": "me-004-city",
+  "anchor": {
+    "name": "Plav",
+    "coords": [
+      19.945,
+      42.5967
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:00",
+      "total_km": 4.3,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Sultanija",
+            "hu": "Sultanija",
+            "ro": "Sultanija",
+            "en": "Sultanija"
+          },
+          "coords": [
+            19.944151,
+            42.597418
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte dieses beeindruckenden Kulturdenkmals aus der osmanischen Zeit und fotografieren Sie im weichen Morgenlicht.",
+            "hu": "Fedezze fel az oszmán korból származó lenyűgöző kulturális emlékmű gazdag történelmét, és készítsen nagyszerű fotókat a lágy reggeli fényben.",
+            "ro": "Descoperiți istoria bogată a acestui monument cultural impresionant din epoca otomană și asigurați-vă că faceți fotografii în lumina blândă a dimineții.",
+            "en": "Discover the rich history of this impressive cultural monument from the Ottoman era, and make sure to capture photos in the soft morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Redžepagića kula",
+            "hu": "Redžepagića kula",
+            "ro": "Redžepagića kula",
+            "en": "Redžepagića kula"
+          },
+          "coords": [
+            19.945971,
+            42.595716
+          ],
+          "category": "landmark",
+          "arrive_at": "10:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie den ältesten Wehrturm der Stadt, um das lokale Erbe zu verstehen, und achten Sie dabei auf die kunstvollen Holzschnitzereien im obersten Stockwerk.",
+            "hu": "Fedezze fel a város legrégebbi védőtornyát a helyi örökség megismerése érdekében, különös figyelmet fordítva a legfelső emelet bonyolult fafaragásaira.",
+            "ro": "Explorați cel mai vechi turn de apărare din oraș pentru a înțelege patrimoniul local, acordând atenție sculpturilor complicate din lemn de la ultimul etaj.",
+            "en": "Explore the oldest defensive tower in the town to understand the local heritage, paying close attention to the intricate wooden carvings on the top floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Eine alte, vom Blitz getroffene Linde",
+            "hu": "Egy öreg, villámcsapta hársfa",
+            "ro": "Un tei bătrân lovit de un fulger",
+            "en": "An old linden tree hit by a lightning strike"
+          },
+          "coords": [
+            19.941961,
+            42.606478
+          ],
+          "category": "landmark",
+          "arrive_at": "12:01",
+          "stay_min": 15,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser monumentalen, vernarbten Linde, die ein starkes Symbol für die Widerstandskraft der Natur ist und sich perfekt für ein dramatisches Foto eignet.",
+            "hu": "Álljon meg ennél a monumentális, heges hársfánál, amely a természetes ellenálló képesség erőteljes szimbóluma, ideális egy gyors, drámai fotó elkészítéséhez.",
+            "ro": "Opriți-vă la acest tei monumental cicatrizat, care servește ca un simbol puternic al rezistenței naturale, fiind perfect pentru o fotografie rapidă și dramatică.",
+            "en": "Pause at this monumental scarred linden tree which serves as a powerful symbol of natural resilience, perfect for a quick yet dramatic photograph."
+          }
+        },
+        {
+          "name": {
+            "de": "Veliki Skić",
+            "hu": "Veliki Skić",
+            "ro": "Veliki Skić",
+            "en": "Veliki Skić"
+          },
+          "coords": [
+            19.946329,
+            42.608486
+          ],
+          "category": "natural",
+          "arrive_at": "12:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Wandern Sie in dieser wunderschönen Natur, um die frische Bergluft einzuatmen, und tragen Sie feste Schuhe, da das Gelände uneben und felsig sein kann.",
+            "hu": "Túrázzon ezen a gyönyörű természeti helyen, hogy belélegezze a friss hegyi levegőt, és viseljen masszív cipőt, mivel a terep meglehetősen egyenetlen és sziklás lehet.",
+            "ro": "Faceți o drumeție în acest loc natural superb pentru a respira aerul proaspăt de munte, purtând încălțăminte robustă deoarece terenul este destul de accidentat.",
+            "en": "Hike around this beautiful natural spot to breathe in the fresh mountain air, wearing sturdy shoes since the terrain can be quite uneven and rocky."
+          }
+        },
+        {
+          "name": {
+            "de": "Plavsko jezero",
+            "hu": "Plavsko jezero",
+            "ro": "Plavsko jezero",
+            "en": "Plavsko jezero"
+          },
+          "coords": [
+            19.925265,
+            42.594834
+          ],
+          "category": "natural",
+          "arrive_at": "14:15",
+          "stay_min": 105,
+          "hop_from_prev_min": 38,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie am größten Gletschersee des Balkans mit seinen atemberaubenden Bergspiegelungen und mieten Sie ein kleines Boot für ein ruhiges Erlebnis.",
+            "hu": "Pihenjen a Balkán legnagyobb gleccsertava mellett a lélegzetelállító hegyi tükröződésekért, és béreljen egy kis csónakot a nyugodt vizek közeli megtapasztalásához.",
+            "ro": "Relaxați-vă la cel mai mare lac glaciar din Balcani pentru a admira reflexiile munților și închiriați o barcă mică pentru a experimenta apele liniștite.",
+            "en": "Relax by the largest glacial lake in the Balkans to enjoy breathtaking mountain reflections, and rent a small boat to experience the serene waters up close."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung des kulturellen Herzens von Plav und besuchen Sie die historische Sultanija sowie die ikonische Redžepagića kula.\n\nAm Mittag können Sie sich bei einem Spaziergang zur vom Blitz getroffenen Linde und den malerischen Höhen des Veliki Skić die Beine vertreten.\n\nAm Nachmittag steigen Sie zum weitläufigen Plavsko jezero hinab und genießen den Übergang von Bergpfaden zum Talboden.\n\nLassen Sie den Abend an den friedlichen Gewässern des Gletschersees ausklingen und beobachten Sie, wie der Sonnenuntergang lebhafte Farben über die umliegenden Gipfel wirft.",
+        "hu": "Kezdje a reggelt Plav kulturális központjának felfedezésével, látogasson el a történelmi Sultanijához és az ikonikus Redžepagića kulához.\n\nDélben nyújtsa ki a lábait egy kellemes sétával a villámcsapta hársfához és a Veliki Skić festői magaslataihoz.\n\nDélután ereszkedjen le a kiterjedt Plavsko jezero felé, élvezve az átmenetet a hegyi ösvényekről a völgybe.\n\nZárja az estét a gleccsertó békés vizeinél, figyelve a naplementét, amely élénk színekbe öltözteti a környező csúcsokat.",
+        "ro": "Începeți dimineața explorând inima culturală a orașului Plav, vizitând istorica Sultanija și iconica Redžepagića kula.\n\nLa prânz, faceți o plimbare plăcută până la teiul lovit de fulger și pe culmile pitorești de la Veliki Skić.\n\nDupă-amiaza, coborâți spre întinsul Plavsko jezero, bucurându-vă de tranziția de la traseele montane la fundul văii.\n\nÎncheiați-vă seara pe apele pașnice ale lacului glaciar, privind apusul care aruncă culori vibrante peste vârfurile din jur.",
+        "en": "Start your morning exploring the cultural heart of Plav, visiting the historic Sultanija and the iconic Redžepagića kula.\n\nAround midday, stretch your legs with a pleasant walk up to see the lightning-struck linden tree and the scenic heights of Veliki Skić.\n\nIn the afternoon, descend towards the expansive Plavsko jezero, enjoying the transition from mountain trails to the valley floor.\n\nConclude your evening by the peaceful waters of the glacial lake, watching the sunset cast vibrant colors over the surrounding peaks."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:58",
+      "total_km": 8.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sultanija",
+            "hu": "Sultanija",
+            "ro": "Sultanija",
+            "en": "Sultanija"
+          },
+          "coords": [
+            19.944151,
+            42.597418
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte dieses beeindruckenden Kulturdenkmals aus der osmanischen Zeit und fotografieren Sie im weichen Morgenlicht.",
+            "hu": "Fedezze fel az oszmán korból származó lenyűgöző kulturális emlékmű gazdag történelmét, és készítsen nagyszerű fotókat a lágy reggeli fényben.",
+            "ro": "Descoperiți istoria bogată a acestui monument cultural impresionant din epoca otomană și asigurați-vă că faceți fotografii în lumina blândă a dimineții.",
+            "en": "Discover the rich history of this impressive cultural monument from the Ottoman era, and make sure to capture photos in the soft morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Redžepagića kula",
+            "hu": "Redžepagića kula",
+            "ro": "Redžepagića kula",
+            "en": "Redžepagića kula"
+          },
+          "coords": [
+            19.945971,
+            42.595716
+          ],
+          "category": "landmark",
+          "arrive_at": "10:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie den ältesten Wehrturm der Stadt, um das lokale Erbe zu verstehen, und achten Sie dabei auf die kunstvollen Holzschnitzereien im obersten Stockwerk.",
+            "hu": "Fedezze fel a város legrégebbi védőtornyát a helyi örökség megismerése érdekében, különös figyelmet fordítva a legfelső emelet bonyolult fafaragásaira.",
+            "ro": "Explorați cel mai vechi turn de apărare din oraș pentru a înțelege patrimoniul local, acordând atenție sculpturilor complicate din lemn de la ultimul etaj.",
+            "en": "Explore the oldest defensive tower in the town to understand the local heritage, paying close attention to the intricate wooden carvings on the top floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Plavsko jezero",
+            "hu": "Plavsko jezero",
+            "ro": "Plavsko jezero",
+            "en": "Plavsko jezero"
+          },
+          "coords": [
+            19.925265,
+            42.594834
+          ],
+          "category": "natural",
+          "arrive_at": "11:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie am größten Gletschersee des Balkans mit seinen atemberaubenden Bergspiegelungen und mieten Sie ein kleines Boot für ein ruhiges Erlebnis.",
+            "hu": "Pihenjen a Balkán legnagyobb gleccsertava mellett a lélegzetelállító hegyi tükröződésekért, és béreljen egy kis csónakot a nyugodt vizek közeli megtapasztalásához.",
+            "ro": "Relaxați-vă la cel mai mare lac glaciar din Balcani pentru a admira reflexiile munților și închiriați o barcă mică pentru a experimenta apele liniștite.",
+            "en": "Relax by the largest glacial lake in the Balkans to enjoy breathtaking mountain reflections, and rent a small boat to experience the serene waters up close."
+          }
+        },
+        {
+          "name": {
+            "de": "Malo blato",
+            "hu": "Malo blato",
+            "ro": "Malo blato",
+            "en": "Malo blato"
+          },
+          "coords": [
+            19.912934,
+            42.587454
+          ],
+          "category": "natural",
+          "arrive_at": "13:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Beobachten Sie die reiche Artenvielfalt in diesem ruhigen Feuchtgebiet und bringen Sie ein Fernglas mit, um seltene Zugvogelarten leichter entdecken zu können.",
+            "hu": "Figyelje meg a gazdag biodiverzitást ezen a nyugodt vizes élőhelyen egy távcső segítségével, amellyel könnyedén kiszúrhatja a ritka vándormadár fajokat.",
+            "ro": "Observați biodiversitatea bogată din această zonă umedă liniștită, aducând un binoclu care vă va ajuta să observați speciile rare de păsări migratoare.",
+            "en": "Observe the rich biodiversity in this tranquil wetland area by bringing a pair of binoculars, which will help you spot rare migratory bird species."
+          }
+        },
+        {
+          "name": {
+            "de": "Završ",
+            "hu": "Završ",
+            "ro": "Završ",
+            "en": "Završ"
+          },
+          "coords": [
+            19.935353,
+            42.582153
+          ],
+          "category": "natural",
+          "arrive_at": "14:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen ruhigen Moment in diesem malerischen Naturparadies, das von üppigem Grün umgeben ist, und suchen Sie nach versteckten Wanderwegen für tolle Ausblicke.",
+            "hu": "Élvezzen egy csendes pillanatot ezen a festői természeti menedékhelyen, és keresse a rejtett túraútvonalakat, amelyek látványos kilátást nyújtanak a völgyre.",
+            "ro": "Bucurați-vă de un moment de liniște în acest refugiu pitoresc înconjurat de verdeață și căutați potecile ascunse care oferă vederi spectaculoase spre vale.",
+            "en": "Take a quiet moment at this picturesque natural retreat surrounded by lush greenery, keeping an eye out for hidden hiking paths that offer spectacular valley views."
+          }
+        },
+        {
+          "name": {
+            "de": "Veliki Skić",
+            "hu": "Veliki Skić",
+            "ro": "Veliki Skić",
+            "en": "Veliki Skić"
+          },
+          "coords": [
+            19.946329,
+            42.608486
+          ],
+          "category": "natural",
+          "arrive_at": "16:13",
+          "stay_min": 105,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.2,
+          "tip_5lang": {
+            "de": "Wandern Sie in dieser wunderschönen Natur, um die frische Bergluft einzuatmen, und tragen Sie feste Schuhe, da das Gelände uneben und felsig sein kann.",
+            "hu": "Túrázzon ezen a gyönyörű természeti helyen, hogy belélegezze a friss hegyi levegőt, és viseljen masszív cipőt, mivel a terep meglehetősen egyenetlen és sziklás lehet.",
+            "ro": "Faceți o drumeție în acest loc natural superb pentru a respira aerul proaspăt de munte, purtând încălțăminte robustă deoarece terenul este destul de accidentat.",
+            "en": "Hike around this beautiful natural spot to breathe in the fresh mountain air, wearing sturdy shoes since the terrain can be quite uneven and rocky."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour an den historischen Denkmälern im Stadtzentrum und tauchen Sie ein in die reiche Kultur von Plav.\n\nGegen Mittag radeln Sie an die Ufer des Plavsko jezero und weiter nach Malo blato, um die unberührte Natur zu genießen.\n\nAm Nachmittag erkunden Sie die üppige Landschaft von Završ und genießen die friedlichen Ausblicke auf die Umgebung.\n\nBeenden Sie Ihren Tag mit einer Fahrt nach Veliki Skić, wo Sie in der herrlichen Bergluft entspannen und den Sonnenuntergang erleben können.",
+        "hu": "Indítsa kerékpártúráját a városközpont történelmi műemlékeinél, és merüljön el Plav gazdag kultúrájában.\n\nDélben tekerjen el a Plavsko jezero partjára, majd haladjon tovább Malo blato felé, hogy kiélvezze az érintetlen természetet.\n\nDélután fedezze fel Završ buja tájait, és gyönyörködjön a környező vidék békés kilátásában.\n\nZárja a napot egy kellemes úttal Veliki Skić felé, ahol megpihenhet a hegyi levegőn és megnézheti a naplementét.",
+        "ro": "Începeți turul cu bicicleta printre monumentele istorice din centrul orașului și cufundați-vă în bogata cultură din Plav.\n\nSpre prânz, pedalați pe malurile lacului Plavsko și apoi spre Malo blato, bucurându-vă de natura virgină.\n\nÎn timpul după-amiezii, explorați peisajele luxuriante din Završ și bucurați-vă de vederile liniștite din jur.\n\nÎncheiați ziua cu o plimbare până la Veliki Skić, unde vă puteți relaxa în aerul curat de munte și admira apusul.",
+        "en": "Start your bike tour at the historic monuments in the town center, immersing yourself in the rich culture of Plav.\n\nAround midday, pedal along the shores of Plavsko jezero and continue to Malo blato to soak in the untouched nature.\n\nDuring the afternoon, explore the lush landscapes of Završ, taking in the peaceful views of the surrounding area.\n\nEnd your day with a satisfying ride up to Veliki Skić, where you can relax in the crisp mountain air and watch the sunset."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:27",
+      "total_km": 23.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sultanija",
+            "hu": "Sultanija",
+            "ro": "Sultanija",
+            "en": "Sultanija"
+          },
+          "coords": [
+            19.944151,
+            42.597418
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die reiche Geschichte dieses beeindruckenden Kulturdenkmals aus der osmanischen Zeit und fotografieren Sie im weichen Morgenlicht.",
+            "hu": "Fedezze fel az oszmán korból származó lenyűgöző kulturális emlékmű gazdag történelmét, és készítsen nagyszerű fotókat a lágy reggeli fényben.",
+            "ro": "Descoperiți istoria bogată a acestui monument cultural impresionant din epoca otomană și asigurați-vă că faceți fotografii în lumina blândă a dimineții.",
+            "en": "Discover the rich history of this impressive cultural monument from the Ottoman era, and make sure to capture photos in the soft morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Redžepagića kula",
+            "hu": "Redžepagića kula",
+            "ro": "Redžepagića kula",
+            "en": "Redžepagića kula"
+          },
+          "coords": [
+            19.945971,
+            42.595716
+          ],
+          "category": "landmark",
+          "arrive_at": "10:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie den ältesten Wehrturm der Stadt, um das lokale Erbe zu verstehen, und achten Sie dabei auf die kunstvollen Holzschnitzereien im obersten Stockwerk.",
+            "hu": "Fedezze fel a város legrégebbi védőtornyát a helyi örökség megismerése érdekében, különös figyelmet fordítva a legfelső emelet bonyolult fafaragásaira.",
+            "ro": "Explorați cel mai vechi turn de apărare din oraș pentru a înțelege patrimoniul local, acordând atenție sculpturilor complicate din lemn de la ultimul etaj.",
+            "en": "Explore the oldest defensive tower in the town to understand the local heritage, paying close attention to the intricate wooden carvings on the top floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Sv. Trojice",
+            "hu": "Sv. Trojice",
+            "ro": "Sv. Trojice",
+            "en": "Sv. Trojice"
+          },
+          "coords": [
+            19.937623,
+            42.618232
+          ],
+          "category": "religious",
+          "arrive_at": "11:47",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese friedliche religiöse Stätte, um ihre traditionelle Architektur zu bewundern, und kleiden Sie sich bescheiden, um die spirituelle Praxis zu respektieren.",
+            "hu": "Látogasson el erre a békés vallási helyszínre, hogy megcsodálja a hagyományos építészetet, és ne felejtsen el szerényen öltözni, tiszteletben tartva a szokásokat.",
+            "ro": "Vizitați acest loc religios pașnic pentru a-i aprecia arhitectura tradițională, amintindu-vă să vă îmbrăcați modest pentru a respecta practicile spirituale în curs.",
+            "en": "Visit this peaceful religious site to appreciate its traditional architecture, remembering to dress modestly and speak softly to respect the ongoing spiritual practices."
+          }
+        },
+        {
+          "name": {
+            "de": "Visitorsko Jezero",
+            "hu": "Visitorsko Jezero",
+            "ro": "Visitorsko Jezero",
+            "en": "Visitorsko Jezero"
+          },
+          "coords": [
+            19.879734,
+            42.625135
+          ],
+          "category": "natural",
+          "arrive_at": "12:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 5.5,
+          "tip_5lang": {
+            "de": "Erleben Sie die einzigartige schwimmende Insel auf diesem abgelegenen Bergsee, aber packen Sie ausreichend Wasser und Snacks ein, da es keine Einrichtungen gibt.",
+            "hu": "Tapasztalja meg az egyedülálló úszó szigetet ezen a távoli hegyi tavon, és vigyen magával elegendő vizet és rágcsálnivalót, mivel nincsenek turisztikai létesítmények a közelben.",
+            "ro": "Experimentați insula plutitoare unică de pe acest lac de munte îndepărtat, asigurându-vă că aveți suficientă apă și gustări, deoarece nu există facilități.",
+            "en": "Experience the unique floating island on this remote mountain lake, making sure you pack enough water and snacks as there are no tourist facilities nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Plavsko jezero",
+            "hu": "Plavsko jezero",
+            "ro": "Plavsko jezero",
+            "en": "Plavsko jezero"
+          },
+          "coords": [
+            19.925265,
+            42.594834
+          ],
+          "category": "natural",
+          "arrive_at": "14:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.2,
+          "tip_5lang": {
+            "de": "Entspannen Sie am größten Gletschersee des Balkans mit seinen atemberaubenden Bergspiegelungen und mieten Sie ein kleines Boot für ein ruhiges Erlebnis.",
+            "hu": "Pihenjen a Balkán legnagyobb gleccsertava mellett a lélegzetelállító hegyi tükröződésekért, és béreljen egy kis csónakot a nyugodt vizek közeli megtapasztalásához.",
+            "ro": "Relaxați-vă la cel mai mare lac glaciar din Balcani pentru a admira reflexiile munților și închiriați o barcă mică pentru a experimenta apele liniștite.",
+            "en": "Relax by the largest glacial lake in the Balkans to enjoy breathtaking mountain reflections, and rent a small boat to experience the serene waters up close."
+          }
+        },
+        {
+          "name": {
+            "de": "Hridsko Jezero",
+            "hu": "Hridsko Jezero",
+            "ro": "Hridsko Jezero",
+            "en": "Hridsko Jezero"
+          },
+          "coords": [
+            20.034724,
+            42.571645
+          ],
+          "category": "natural",
+          "arrive_at": "15:42",
+          "stay_min": 105,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 10.0,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesem atemberaubenden \"See des Glücks\" inmitten dichter Kiefernwälder und bringen Sie wegen der kühleren alpinen Temperaturen warme Kleidung mit.",
+            "hu": "Túrázzon fel ehhez a sűrű fenyőerdők között megbúvó lenyűgöző magaslati tóhoz, és vigyen magával egy extra réteg ruhát a hűvösebb alpesi hőmérséklet miatt.",
+            "ro": "Urcați până la acest impresionant lac de mare altitudine, ascuns printre păduri dese de pin, aducând haine suplimentare din cauza temperaturilor alpine mai scăzute.",
+            "en": "Hike up to this stunning high-altitude \"Lake of Happiness\" hidden among dense pine forests, bringing an extra layer of clothing due to the cooler alpine temperatures."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag mit einer kurzen, aber faszinierenden Erkundung der historischen Schätze in der Innenstadt von Plav.\n\nFahren Sie am Mittag durch malerische Landschaften hinauf zum abgelegenen Visitorsko Jezero, wo Sie einzigartige schwimmende Inseln erwarten.\n\nAm Nachmittag bietet sich eine Pause am Plavsko jezero an, ideal für eine entspannte Fahrt entlang des beeindruckenden Seeufers.\n\nLassen Sie den Tag mit einer landschaftlich reizvollen Fahrt zum Hridsko Jezero ausklingen und erleben Sie den atemberaubenden Sonnenuntergang in den Alpen.",
+        "hu": "Kezdje a napot Plav belvárosának történelmi kincseinek gyors, de lenyűgöző felfedezésével.\n\nDélben haladjon festői tájakon keresztül a távoli Visitorsko Jezero felé, ahol egyedi úszó szigetek várják.\n\nDélután töltsön el egy kis időt a Plavsko jezero mellett, ami ideális egy pihentető autózáshoz a lenyűgöző tóparton.\n\nZárja a napot egy látványos úttal a Hridsko Jezero magaslatai felé, és tapasztalja meg a lélegzetelállító alpesi naplementét.",
+        "ro": "Începeți ziua cu o explorare rapidă, dar fascinantă, a comorilor istorice din centrul orașului Plav.\n\nLa prânz, conduceți prin peisaje pitorești până la izolatul lac Visitorsko, unde vă așteaptă insule plutitoare unice.\n\nDupă-amiaza, faceți o pauză la Plavsko jezero, un loc ideal pentru o călătorie relaxantă de-a lungul impresionantului țărm.\n\nÎncheiați ziua cu o plimbare spectaculoasă până la Hridsko Jezero și experimentați apusul uluitor în decorul alpin.",
+        "en": "Start your day with a quick but fascinating exploration of the historic treasures in downtown Plav.\n\nAt midday, drive through scenic landscapes up to the remote Visitorsko Jezero, where unique floating islands await.\n\nIn the afternoon, take a relaxing break at Plavsko jezero, which is ideal for a peaceful drive along its impressive shores.\n\nConclude your day with a breathtaking drive up to Hridsko Jezero, experiencing an unforgettable alpine sunset surrounded by pines."
+      }
+    }
+  }
+}

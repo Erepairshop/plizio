@@ -1,0 +1,543 @@
+{
+  "city_id": "france-bretteville-cities-v2",
+  "anchor": {
+    "name": "Bretteville",
+    "coords": [
+      -1.51994,
+      49.65576
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:47",
+      "total_km": 3.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Germain",
+            "hu": "Église Saint-Germain",
+            "ro": "Église Saint-Germain",
+            "en": "Église Saint-Germain"
+          },
+          "coords": [
+            -1.529729,
+            49.653466
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die charmante Église Saint-Germain, ein Symbol des lokalen Erbes, aber prüfen Sie die Tafel draußen für die seltenen Öffnungszeiten.",
+            "hu": "Csodálja meg a bájos Église Saint-Germain templomot, a helyi örökség szimbólumát, de a ritka nyitvatartási időkért ellenőrizze a kinti hirdetőtáblát.",
+            "ro": "Admirați fermecătoarea Église Saint-Germain, un simbol al patrimoniului local, dar verificați panoul exterior pentru rarele ore de vizitare.",
+            "en": "Admire the charming Église Saint-Germain, a symbol of local heritage, but check the notice board outside for occasional interior viewing hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Batterie de Bretteville-bas",
+            "hu": "Batterie de Bretteville-bas",
+            "ro": "Batterie de Bretteville-bas",
+            "en": "Batterie de Bretteville-bas"
+          },
+          "coords": [
+            -1.52694,
+            49.65768
+          ],
+          "category": "fortress",
+          "arrive_at": "09:58",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Küstenverteidigungsruinen der Batterie de Bretteville-bas aus dem Zweiten Weltkrieg und tragen Sie festes Schuhwerk.",
+            "hu": "Fedezze fel a Batterie de Bretteville-bas történelmi második világháborús parti védelmi romjait, és viseljen masszív cipőt az egyenetlen terep miatt.",
+            "ro": "Explorați ruinele apărării de coastă ale Bateriei de Bretteville-bas din Al Doilea Război Mondial și purtați încălțăminte robustă pe terenul accidentat.",
+            "en": "Explore the historic coastal defense ruins of Batterie de Bretteville-bas, an important WWII site, and wear sturdy shoes to navigate the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Bretteville",
+            "hu": "Plage de Bretteville",
+            "ro": "Plage de Bretteville",
+            "en": "Plage de Bretteville"
+          },
+          "coords": [
+            -1.521989,
+            49.656869
+          ],
+          "category": "recreational",
+          "arrive_at": "11:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am friedlichen Plage de Bretteville, ideal für Küstenblicke, aber bringen Sie eine Windjacke mit, da die Meeresbrise stark sein kann.",
+            "hu": "Pihenjen a békés Plage de Bretteville strandon, amely tökéletes a parti sétákhoz, de hozzon széldzsekit, mert a tengeri szél meglehetősen erős lehet.",
+            "ro": "Relaxați-vă pe plaja liniștită din Bretteville, perfectă pentru plimbări pe coastă, dar aduceți o geacă de vânt deoarece briza mării poate fi puternică.",
+            "en": "Relax on the peaceful Plage de Bretteville, perfect for coastal views and gentle walks, but bring a windbreaker as the sea breeze can be quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Batterie annexe de Bretteville Haut",
+            "hu": "Batterie annexe de Bretteville Haut",
+            "ro": "Batterie annexe de Bretteville Haut",
+            "en": "Batterie annexe de Bretteville Haut"
+          },
+          "coords": [
+            -1.534076,
+            49.651856
+          ],
+          "category": "fortress",
+          "arrive_at": "12:54",
+          "stay_min": 80,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die sekundären Bunker der Batterie annexe de Bretteville Haut und nutzen Sie eine kleine Taschenlampe, um das dunkle Innere zu sehen.",
+            "hu": "Fedezze fel a Batterie annexe de Bretteville Haut másodlagos bunkereit, és használjon kis zseblámpát a sötét belső terek biztonságos megtekintéséhez.",
+            "ro": "Descoperiți buncărele secundare ale Batterie annexe de Bretteville Haut, folosind o mică lanternă pentru a vedea în siguranță interioarele întunecate.",
+            "en": "Discover the secondary bunkers of Batterie annexe de Bretteville Haut, highlighting the extensive defensive network, using a small flashlight to see inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Batterie de Bretteville Haut",
+            "hu": "Batterie de Bretteville Haut",
+            "ro": "Batterie de Bretteville Haut",
+            "en": "Batterie de Bretteville Haut"
+          },
+          "coords": [
+            -1.536827,
+            49.652075
+          ],
+          "category": "fortress",
+          "arrive_at": "14:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die beeindruckende Batterie de Bretteville Haut, eine wichtige Artilleriestellung, bleiben Sie aber auf den markierten Wegen.",
+            "hu": "Vizsgálja meg a félelmetes Batterie de Bretteville Haut tüzérségi állást, miközben a kijelölt ösvényeken marad a környező növényzet védelme érdekében.",
+            "ro": "Investigați formidabila Batterie de Bretteville Haut, o poziție de artilerie majoră, rămânând pe traseele marcate pentru a proteja vegetația din jur.",
+            "en": "Investigate the formidable Batterie de Bretteville Haut, a major artillery position, while sticking to marked trails to protect the surrounding vegetation."
+          }
+        },
+        {
+          "name": {
+            "de": "Becquet port",
+            "hu": "Becquet kikötő",
+            "ro": "Portul Becquet",
+            "en": "Becquet port"
+          },
+          "coords": [
+            -1.549978,
+            49.655008
+          ],
+          "category": "landmark",
+          "arrive_at": "15:52",
+          "stay_min": 55,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie um den malerischen Hafen von Becquet, der das normannische maritime Leben widerspiegelt, und kommen Sie früh, um Menschenmassen zu meiden.",
+            "hu": "Sétáljon a festői Becquet kikötőben, amely az autentikus normann tengeri életet tükrözi, és érkezzen kora délután, hogy elkerülje a naplemente tömegét.",
+            "ro": "Plimbați-vă prin pitorescul port Becquet, care reflectă viața maritimă normandă, și vizitați-l devreme după-amiaza pentru a evita aglomerația de la apus.",
+            "en": "Stroll around the picturesque Becquet port, reflecting the authentic Norman maritime life, and visit early in the afternoon to avoid the sunset crowds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt in Bretteville an der charmanten Église Saint-Germain, bevor Sie zur Batterie de Bretteville-bas spazieren, um die historische Küstenverteidigung aus der Nähe zu betrachten.\n\nAm Mittag lockt der weitläufige Sandstrand Plage de Bretteville. Lauschen Sie den Wellen, atmen Sie die salzige Meeresluft ein und genießen Sie eine erholsame Pause an der Küste.\n\nDer Nachmittag konzentriert sich auf die Anhöhen. Entdecken Sie die Geheimnisse des Atlantikwalls, indem Sie die Bunker der Batterie annexe und der Batterie de Bretteville Haut erkunden.\n\nDer Abend endet mit einem Spaziergang zum malerischen Hafen von Becquet. Die authentische maritime Atmosphäre bietet eine ruhige Kulisse, während der Tag an der normannischen Küste sanft ausklingt.",
+        "hu": "A reggel Bretteville szívében, a bájos Église Saint-Germain templomnál kezdődik. Ezután egy rövid sétával felfedezheti a parti védelem történelmét a Batterie de Bretteville-bas romjainál.\n\nA dél a tágas Plage de Bretteville homokjára csábít. Hallgassa a hullámokat, szívja be a sós tengeri levegőt, és élvezze a pihentető szünetet a nyugodt tengerparton.\n\nA délután a magaslatokra fókuszál. Felfedezheti az Atlanti Fal titkait a Batterie annexe és a Batterie de Bretteville Haut egymáshoz kapcsolódó második világháborús bunkereinek bejárásával.\n\nAz este a festői Becquet kikötőbe tett sétával zárul. Az autentikus tengeri atmoszféra derűs hátteret biztosít, miközben a nap lassan nyugovóra tér a tengerpart felett.",
+        "ro": "Dimineața începe în Bretteville la fermecătoarea Église Saint-Germain. Apoi, veți face o scurtă plimbare pentru a descoperi istoria apărării de coastă la ruinele Batterie de Bretteville-bas.\n\nAmiaza vă invită pe nisipurile întinse de la Plage de Bretteville. Ascultați valurile, respirați aerul sărat și bucurați-vă de o pauză reparatoare pe țărmul liniștit al mării.\n\nDupă-amiaza se mută pe înălțimile interioare. Veți descoperi secretele Zidului Atlanticului explorând buncărele conectate ale Batterie annexe și ale principalei Batterie de Bretteville Haut.\n\nSeara se încheie cu o plimbare spre pitorescul port Becquet. Atmosfera maritimă autentică oferă un fundal senin, pe măsură ce ziua se stinge ușor pe coasta Normandiei.",
+        "en": "Morning starts in the heart of Bretteville at the charming Église Saint-Germain, introducing the town's quiet heritage. You'll then take a short stroll to discover the coastal defense history at the Batterie de Bretteville-bas ruins.\n\nMidday invites you to the expansive sands of Plage de Bretteville. Listen to the waves, breathe in the salt air, and enjoy a restorative break on the shore.\n\nAfternoon shifts the focus to the inland heights. You will uncover the secrets of the Atlantic Wall by exploring the connected bunkers of the Batterie annexe and the main Batterie de Bretteville Haut.\n\nEvening concludes with a walk down to the picturesque Becquet port. The authentic maritime atmosphere offers a serene backdrop as the day gently fades over the Normandy coast."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:51",
+      "total_km": 5.5,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Becquet port",
+            "hu": "Becquet kikötő",
+            "ro": "Portul Becquet",
+            "en": "Becquet port"
+          },
+          "coords": [
+            -1.549978,
+            49.655008
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie um den malerischen Hafen von Becquet, der das normannische maritime Leben widerspiegelt, und kommen Sie früh, um Menschenmassen zu meiden.",
+            "hu": "Sétáljon a festői Becquet kikötőben, amely az autentikus normann tengeri életet tükrözi, és érkezzen kora délután, hogy elkerülje a naplemente tömegét.",
+            "ro": "Plimbați-vă prin pitorescul port Becquet, care reflectă viața maritimă normandă, și vizitați-l devreme după-amiaza pentru a evita aglomerația de la apus.",
+            "en": "Stroll around the picturesque Becquet port, reflecting the authentic Norman maritime life, and visit early in the afternoon to avoid the sunset crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Poudrière caverne de Bretteville",
+            "hu": "Poudrière caverne de Bretteville",
+            "ro": "Poudrière caverne de Bretteville",
+            "en": "Poudrière caverne de Bretteville"
+          },
+          "coords": [
+            -1.538727,
+            49.651277
+          ],
+          "category": "fortress",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Reisen Sie in der Poudrière caverne de Bretteville in die Vergangenheit und bringen Sie eine leichte Jacke gegen die feuchte Untergrundkälte mit.",
+            "hu": "Lépjen vissza az időben a Poudrière caverne de Bretteville föld alatti lőporraktárában, ahol egy könnyű kabát hasznos lehet a nedves hideg ellen.",
+            "ro": "Întoarceți-vă în timp la Poudrière caverne de Bretteville, o magazie subterană de pulbere, unde o jachetă ușoară este utilă împotriva umezelii.",
+            "en": "Step back in time at the Poudrière caverne de Bretteville, a well-preserved underground powder magazine, where a light jacket is useful against the dampness."
+          }
+        },
+        {
+          "name": {
+            "de": "Batterie de Bretteville Haut",
+            "hu": "Batterie de Bretteville Haut",
+            "ro": "Batterie de Bretteville Haut",
+            "en": "Batterie de Bretteville Haut"
+          },
+          "coords": [
+            -1.536827,
+            49.652075
+          ],
+          "category": "fortress",
+          "arrive_at": "11:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die beeindruckende Batterie de Bretteville Haut, eine wichtige Artilleriestellung, bleiben Sie aber auf den markierten Wegen.",
+            "hu": "Vizsgálja meg a félelmetes Batterie de Bretteville Haut tüzérségi állást, miközben a kijelölt ösvényeken marad a környező növényzet védelme érdekében.",
+            "ro": "Investigați formidabila Batterie de Bretteville Haut, o poziție de artilerie majoră, rămânând pe traseele marcate pentru a proteja vegetația din jur.",
+            "en": "Investigate the formidable Batterie de Bretteville Haut, a major artillery position, while sticking to marked trails to protect the surrounding vegetation."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Germain",
+            "hu": "Église Saint-Germain",
+            "ro": "Église Saint-Germain",
+            "en": "Église Saint-Germain"
+          },
+          "coords": [
+            -1.529729,
+            49.653466
+          ],
+          "category": "religious",
+          "arrive_at": "12:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die charmante Église Saint-Germain, ein Symbol des lokalen Erbes, aber prüfen Sie die Tafel draußen für die seltenen Öffnungszeiten.",
+            "hu": "Csodálja meg a bájos Église Saint-Germain templomot, a helyi örökség szimbólumát, de a ritka nyitvatartási időkért ellenőrizze a kinti hirdetőtáblát.",
+            "ro": "Admirați fermecătoarea Église Saint-Germain, un simbol al patrimoniului local, dar verificați panoul exterior pentru rarele ore de vizitare.",
+            "en": "Admire the charming Église Saint-Germain, a symbol of local heritage, but check the notice board outside for occasional interior viewing hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Bretteville",
+            "hu": "Plage de Bretteville",
+            "ro": "Plage de Bretteville",
+            "en": "Plage de Bretteville"
+          },
+          "coords": [
+            -1.521989,
+            49.656869
+          ],
+          "category": "recreational",
+          "arrive_at": "13:08",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am friedlichen Plage de Bretteville, ideal für Küstenblicke, aber bringen Sie eine Windjacke mit, da die Meeresbrise stark sein kann.",
+            "hu": "Pihenjen a békés Plage de Bretteville strandon, amely tökéletes a parti sétákhoz, de hozzon széldzsekit, mert a tengeri szél meglehetősen erős lehet.",
+            "ro": "Relaxați-vă pe plaja liniștită din Bretteville, perfectă pentru plimbări pe coastă, dar aduceți o geacă de vânt deoarece briza mării poate fi puternică.",
+            "en": "Relax on the peaceful Plage de Bretteville, perfect for coastal views and gentle walks, but bring a windbreaker as the sea breeze can be quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Allée couverte de Bretteville",
+            "hu": "Allée couverte de Bretteville",
+            "ro": "Allée couverte de Bretteville",
+            "en": "Allée couverte de Bretteville"
+          },
+          "coords": [
+            -1.510045,
+            49.646961
+          ],
+          "category": "historical",
+          "arrive_at": "14:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die alte Allée couverte de Bretteville, ein faszinierendes neolithisches Galeriegrab, und kommen Sie im Morgenlicht für beste Fotos.",
+            "hu": "Csodálja meg az ősi Allée couverte de Bretteville neolitikus galériasírt, és próbáljon a reggeli fényben érkezni a legjobb fényképek elkészítéséhez.",
+            "ro": "Minunați-vă de vechea Allée couverte de Bretteville, un mormânt neolitic fascinant, și încercați să o vizitați în lumina dimineții pentru cele mai bune fotografii.",
+            "en": "Marvel at the ancient Allée couverte de Bretteville, a fascinating Neolithic gallery grave, and try to visit in the morning light for the best photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "La Grande Pierre",
+            "hu": "La Grande Pierre",
+            "ro": "La Grande Pierre",
+            "en": "La Grande Pierre"
+          },
+          "coords": [
+            -1.48906,
+            49.654991
+          ],
+          "category": "historical",
+          "arrive_at": "16:01",
+          "stay_min": 110,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Betrachten Sie die imposante La Grande Pierre, einen beeindruckenden Menhir voller Legenden, und achten Sie darauf, das private Ackerland nicht zu betreten.",
+            "hu": "Bámulja meg az impozáns La Grande Pierre menhírt, a legendákkal övezett állókövet, ügyelve arra, hogy ne zavarja meg a közeli magántermőföldeket.",
+            "ro": "Priviți impunătoarea La Grande Pierre, o piatră verticală impresionantă, plină de legende, având grijă să nu deranjați terenurile agricole private din apropiere.",
+            "en": "Gaze upon the imposing La Grande Pierre, an impressive standing stone steeped in legend, taking care not to disturb the private farmlands nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am authentischen Hafen von Becquet, bevor Sie in die Geschichte des Zweiten Weltkriegs eintauchen und die unterirdische Poudrière caverne de Bretteville besuchen.\n\nMittags erkunden Sie die imposante Batterie de Bretteville Haut, bevor Sie ins Dorfzentrum radeln, um das Erbe der Église Saint-Germain zu bewundern und am Strand zu entspannen.\n\nDer Nachmittag widmet sich der antiken Geschichte. Eine landschaftlich reizvolle Fahrt führt Sie ins Landesinnere zum faszinierenden neolithischen Galeriegrab Allée couverte de Bretteville.\n\nDer Abend führt zum mystischen Endziel: La Grande Pierre. Dieser hoch aufragende Menhir bietet eine legendäre Atmosphäre, um über Ihre ausgedehnte Radtour nachzudenken.",
+        "hu": "A reggel az autentikus Becquet kikötőben indul, mielőtt elmerülne a második világháború történelmében a Poudrière caverne de Bretteville föld alatti lőporraktárának meglátogatásával.\n\nDélben a Batterie de Bretteville Haut impozáns bunkerét fedezi fel, majd a központba kerekezik, hogy megcsodálja az Église Saint-Germain templomot és megpihenjen a tengerparton.\n\nA délután az ókori történelemé. Egy festői kerékpárút vezet a szárazföld belsejébe, ahol a lenyűgöző újkőkori galériasírt, az Allée couverte de Bretteville-t fedezheti fel.\n\nAz este az utolsó, misztikus célponthoz vezet: a La Grande Pierre menhírt. Ez a magasodó állókő legendás atmoszférát kínál a hosszú kerékpáros utazás lezárásaként.",
+        "ro": "Dimineața începe la portul autentic Becquet. La scurt timp după aceea, vă adânciți în istoria celui de-al Doilea Război Mondial vizitând Poudrière caverne de Bretteville subterană.\n\nAmiaza vă găsește explorând impunătoarea Batterie de Bretteville Haut, înainte de a pedala spre centrul satului pentru a admira Église Saint-Germain și a vă odihni la plajă.\n\nDupă-amiaza se schimbă ritmul spre istoria antică. O plimbare pitorească vă duce în interiorul uscatului la fascinantul mormânt neolitic cunoscut sub numele de Allée couverte de Bretteville.\n\nSeara conduce spre destinația mistică finală: La Grande Pierre. Această piatră verticală impunătoare oferă o atmosferă legendară pentru a reflecta asupra călătoriei.",
+        "en": "Morning kicks off at the authentic Becquet port, catching the early maritime activity. Soon after, delve into WWII history by visiting the underground Poudrière caverne de Bretteville.\n\nMidday finds you exploring the imposing Batterie de Bretteville Haut, before cycling down to the village center to admire the heritage of the Église Saint-Germain and resting at the beach.\n\nAfternoon shifts gears to ancient history. A scenic ride takes you inland to the fascinating Neolithic gallery grave known as the Allée couverte de Bretteville.\n\nEvening leads to the final, mystical destination: La Grande Pierre. This towering standing stone offers a quiet, legendary atmosphere to reflect on your extensive cycling journey."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:01",
+      "total_km": 8.6,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Becquet port",
+            "hu": "Becquet kikötő",
+            "ro": "Portul Becquet",
+            "en": "Becquet port"
+          },
+          "coords": [
+            -1.549978,
+            49.655008
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie um den malerischen Hafen von Becquet, der das normannische maritime Leben widerspiegelt, und kommen Sie früh, um Menschenmassen zu meiden.",
+            "hu": "Sétáljon a festői Becquet kikötőben, amely az autentikus normann tengeri életet tükrözi, és érkezzen kora délután, hogy elkerülje a naplemente tömegét.",
+            "ro": "Plimbați-vă prin pitorescul port Becquet, care reflectă viața maritimă normandă, și vizitați-l devreme după-amiaza pentru a evita aglomerația de la apus.",
+            "en": "Stroll around the picturesque Becquet port, reflecting the authentic Norman maritime life, and visit early in the afternoon to avoid the sunset crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Batterie de Bretteville Haut",
+            "hu": "Batterie de Bretteville Haut",
+            "ro": "Batterie de Bretteville Haut",
+            "en": "Batterie de Bretteville Haut"
+          },
+          "coords": [
+            -1.536827,
+            49.652075
+          ],
+          "category": "fortress",
+          "arrive_at": "09:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Untersuchen Sie die beeindruckende Batterie de Bretteville Haut, eine wichtige Artilleriestellung, bleiben Sie aber auf den markierten Wegen.",
+            "hu": "Vizsgálja meg a félelmetes Batterie de Bretteville Haut tüzérségi állást, miközben a kijelölt ösvényeken marad a környező növényzet védelme érdekében.",
+            "ro": "Investigați formidabila Batterie de Bretteville Haut, o poziție de artilerie majoră, rămânând pe traseele marcate pentru a proteja vegetația din jur.",
+            "en": "Investigate the formidable Batterie de Bretteville Haut, a major artillery position, while sticking to marked trails to protect the surrounding vegetation."
+          }
+        },
+        {
+          "name": {
+            "de": "Bonne Vierge Simonet",
+            "hu": "Bonne Vierge Simonet",
+            "ro": "Bonne Vierge Simonet",
+            "en": "Bonne Vierge Simonet"
+          },
+          "coords": [
+            -1.536116,
+            49.639632
+          ],
+          "category": "historical",
+          "arrive_at": "11:01",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Pausieren Sie an der friedlichen Bonne Vierge Simonet, einem kleinen historischen Schrein, der leicht abseits der ländlichen Hauptstraße zugänglich ist.",
+            "hu": "Tartson szünetet a békés Bonne Vierge Simonet kis történelmi szentélyénél, amely könnyen megközelíthető a főbb vidéki út mellett.",
+            "ro": "Faceți o pauză la liniștita Bonne Vierge Simonet, un mic altar istoric care oferă reflecție tăcută, ușor accesibil chiar de la drumul rural principal.",
+            "en": "Pause at the peaceful Bonne Vierge Simonet, a small historical shrine offering quiet reflection, easily accessible just off the main rural road."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Germain",
+            "hu": "Église Saint-Germain",
+            "ro": "Église Saint-Germain",
+            "en": "Église Saint-Germain"
+          },
+          "coords": [
+            -1.529729,
+            49.653466
+          ],
+          "category": "religious",
+          "arrive_at": "12:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die charmante Église Saint-Germain, ein Symbol des lokalen Erbes, aber prüfen Sie die Tafel draußen für die seltenen Öffnungszeiten.",
+            "hu": "Csodálja meg a bájos Église Saint-Germain templomot, a helyi örökség szimbólumát, de a ritka nyitvatartási időkért ellenőrizze a kinti hirdetőtáblát.",
+            "ro": "Admirați fermecătoarea Église Saint-Germain, un simbol al patrimoniului local, dar verificați panoul exterior pentru rarele ore de vizitare.",
+            "en": "Admire the charming Église Saint-Germain, a symbol of local heritage, but check the notice board outside for occasional interior viewing hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Bretteville",
+            "hu": "Plage de Bretteville",
+            "ro": "Plage de Bretteville",
+            "en": "Plage de Bretteville"
+          },
+          "coords": [
+            -1.521989,
+            49.656869
+          ],
+          "category": "recreational",
+          "arrive_at": "13:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich am friedlichen Plage de Bretteville, ideal für Küstenblicke, aber bringen Sie eine Windjacke mit, da die Meeresbrise stark sein kann.",
+            "hu": "Pihenjen a békés Plage de Bretteville strandon, amely tökéletes a parti sétákhoz, de hozzon széldzsekit, mert a tengeri szél meglehetősen erős lehet.",
+            "ro": "Relaxați-vă pe plaja liniștită din Bretteville, perfectă pentru plimbări pe coastă, dar aduceți o geacă de vânt deoarece briza mării poate fi puternică.",
+            "en": "Relax on the peaceful Plage de Bretteville, perfect for coastal views and gentle walks, but bring a windbreaker as the sea breeze can be quite strong."
+          }
+        },
+        {
+          "name": {
+            "de": "Batterie de Bretteville-bas",
+            "hu": "Batterie de Bretteville-bas",
+            "ro": "Batterie de Bretteville-bas",
+            "en": "Batterie de Bretteville-bas"
+          },
+          "coords": [
+            -1.52694,
+            49.65768
+          ],
+          "category": "fortress",
+          "arrive_at": "14:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Küstenverteidigungsruinen der Batterie de Bretteville-bas aus dem Zweiten Weltkrieg und tragen Sie festes Schuhwerk.",
+            "hu": "Fedezze fel a Batterie de Bretteville-bas történelmi második világháborús parti védelmi romjait, és viseljen masszív cipőt az egyenetlen terep miatt.",
+            "ro": "Explorați ruinele apărării de coastă ale Bateriei de Bretteville-bas din Al Doilea Război Mondial și purtați încălțăminte robustă pe terenul accidentat.",
+            "en": "Explore the historic coastal defense ruins of Batterie de Bretteville-bas, an important WWII site, and wear sturdy shoes to navigate the uneven terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Allée couverte de Bretteville",
+            "hu": "Allée couverte de Bretteville",
+            "ro": "Allée couverte de Bretteville",
+            "en": "Allée couverte de Bretteville"
+          },
+          "coords": [
+            -1.510045,
+            49.646961
+          ],
+          "category": "historical",
+          "arrive_at": "15:47",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die alte Allée couverte de Bretteville, ein faszinierendes neolithisches Galeriegrab, und kommen Sie im Morgenlicht für beste Fotos.",
+            "hu": "Csodálja meg az ősi Allée couverte de Bretteville neolitikus galériasírt, és próbáljon a reggeli fényben érkezni a legjobb fényképek elkészítéséhez.",
+            "ro": "Minunați-vă de vechea Allée couverte de Bretteville, un mormânt neolitic fascinant, și încercați să o vizitați în lumina dimineții pentru cele mai bune fotografii.",
+            "en": "Marvel at the ancient Allée couverte de Bretteville, a fascinating Neolithic gallery grave, and try to visit in the morning light for the best photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "La Grande Pierre",
+            "hu": "La Grande Pierre",
+            "ro": "La Grande Pierre",
+            "en": "La Grande Pierre"
+          },
+          "coords": [
+            -1.48906,
+            49.654991
+          ],
+          "category": "historical",
+          "arrive_at": "17:11",
+          "stay_min": 110,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Betrachten Sie die imposante La Grande Pierre, einen beeindruckenden Menhir voller Legenden, und achten Sie darauf, das private Ackerland nicht zu betreten.",
+            "hu": "Bámulja meg az impozáns La Grande Pierre menhírt, a legendákkal övezett állókövet, ügyelve arra, hogy ne zavarja meg a közeli magántermőföldeket.",
+            "ro": "Priviți impunătoarea La Grande Pierre, o piatră verticală impresionantă, plină de legende, având grijă să nu deranjați terenurile agricole private din apropiere.",
+            "en": "Gaze upon the imposing La Grande Pierre, an impressive standing stone steeped in legend, taking care not to disturb the private farmlands nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einem erfrischenden Besuch im Hafen von Becquet, gefolgt von den beeindruckenden Küstenverteidigungsanlagen der Batterie de Bretteville Haut.\n\nAm Mittag wechseln Sie zum lokalen Erbe, halten am Schrein Bonne Vierge Simonet und fahren ins Zentrum zur Église Saint-Germain, um danach am Plage de Bretteville zu entspannen.\n\nDer Nachmittag setzt die historische Erkundung an der Batterie de Bretteville-bas fort, bevor eine kurze Fahrt landeinwärts die Allée couverte de Bretteville enthüllt.\n\nDer Abend endet mit der ehrfurchtgebietenden La Grande Pierre. Genießen Sie die ländliche Landschaft rund um diesen antiken Menhir, während Ihr Roadtrip friedlich ausklingt.",
+        "hu": "A reggel egy frissítő látogatással kezdődik a Becquet kikötőben, amelyet a Batterie de Bretteville Haut lenyűgöző parti védelmi építményei követnek, megalapozva a tartalmas autózást.\n\nDélben a helyi örökségé a főszerep, megállva a Bonne Vierge Simonet szentélynél, majd a központ felé véve az irányt az Église Saint-Germainhez és a Plage de Bretteville parthoz.\n\nA délután a Batterie de Bretteville-bas történelmi felfedezésével folytatódik, majd egy rövid autózás a szárazföld belsejébe feltárja az Allée couverte de Bretteville megalitjait.\n\nAz este a félelmetes La Grande Pierre menhírnél ér véget. Élvezze az ősi állókövet körülvevő békés vidéki tájat, amint a történelmi autós utazása nyugodt véget ér.",
+        "ro": "Dimineața începe cu o vizită la portul Becquet, urmată rapid de structurile de apărare de coastă de la Batterie de Bretteville Haut pentru a începe călătoria cuprinzătoare.\n\nAmiaza trece la patrimoniul local, cu o oprire la altarul Bonne Vierge Simonet înainte de a merge în centrul orașului pentru Église Saint-Germain și Plage de Bretteville.\n\nDupă-amiaza continuă explorarea istorică la Batterie de Bretteville-bas, înainte ca un scurt drum spre interior să dezvăluie trecutul profund la Allée couverte de Bretteville.\n\nSeara se încheie cu impresionanta La Grande Pierre. Bucurați-vă de peisajul rural senin din jurul acestei pietre antice, în timp ce călătoria se încheie liniștit.",
+        "en": "Morning begins with a refreshing visit to Becquet port, followed quickly by the impressive coastal defense structures at Batterie de Bretteville Haut to start your comprehensive drive.\n\nMidday transitions to local heritage, stopping at the quaint Bonne Vierge Simonet shrine before heading to the heart of the town to see Église Saint-Germain and relaxing at Plage de Bretteville.\n\nAfternoon continues the historical exploration at Batterie de Bretteville-bas, before a short drive inland reveals the deep past at the Allée couverte de Bretteville megaliths.\n\nEvening concludes with the awe-inspiring La Grande Pierre. Enjoy the serene rural landscape surrounding this ancient standing stone as your extensive road trip through history comes to a peaceful end."
+      }
+    }
+  }
+}

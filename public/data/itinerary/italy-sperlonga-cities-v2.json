@@ -1,0 +1,520 @@
+{
+  "city_id": "italy-sperlonga-cities-v2",
+  "anchor": {
+    "name": "Sperlonga",
+    "coords": [
+      13.43302,
+      41.25897
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:46",
+      "total_km": 2.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche San Leone",
+            "hu": "San Leone templom",
+            "ro": "Biserica San Leone",
+            "en": "Church of San Leone"
+          },
+          "coords": [
+            13.436735,
+            41.25827
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Diese historische Kirche aus dem 11. Jahrhundert bietet Einblicke in die religiöse Vergangenheit der Stadt, also kommen Sie früh für eine ruhige Atmosphäre.",
+            "hu": "A 11. században épült történelmi templom bepillantást enged a város vallási múltjába, ezért érdemes korán érkezni a békés és csendes légkör érdekében.",
+            "ro": "Construită în secolul al XI-lea, această biserică oferă o privire în trecutul religios al orașului, așa că veniți devreme pentru o atmosferă liniștită.",
+            "en": "Built in the 11th century, this historic church offers a glimpse into Sperlonga's religious past, so be sure to visit early for a very quiet atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Delfingrotte",
+            "hu": "Delfinek barlangja",
+            "ro": "Peștera Delfinilor",
+            "en": "Grotta dei Delfini"
+          },
+          "coords": [
+            13.437109,
+            41.255447
+          ],
+          "category": "recreational",
+          "arrive_at": "09:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Bekannt für ihre wunderschönen Ausblicke, ist diese Küstenhöhle atemberaubend, weshalb Sie feste Schuhe tragen sollten, da die Felsen sehr rutschig sind.",
+            "hu": "A gyönyörű tengerparti kilátásról ismert barlang lenyűgöző, ezért viseljen masszív cipőt, mivel a nedves sziklák meglehetősen csúszósak lehetnek.",
+            "ro": "Cunoscută pentru priveliștile sale, această peșteră de coastă este uimitoare, dar purtați încălțăminte solidă deoarece stâncile pot fi foarte alunecoase.",
+            "en": "Known for its beautiful coastal views, this cave area is stunning, but make sure to wear sturdy shoes as the surrounding rocks can be quite slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Truglia",
+            "hu": "Torre Truglia",
+            "ro": "Torre Truglia",
+            "en": "Torre Truglia"
+          },
+          "coords": [
+            13.434004,
+            41.254486
+          ],
+          "category": "tower",
+          "arrive_at": "11:14",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Dieser ikonische Küstenwachturm bietet die besten Panoramabilder des Meeres, besuchen Sie ihn an einem klaren Tag, um die beste Sicht zu genießen.",
+            "hu": "Ez az ikonikus tengerparti őrtorony nyújtja a legjobb panorámát a tengerre, így mindenképpen egy tiszta napon látogasson el a maximális látótávolságért.",
+            "ro": "Acest turn de coastă iconic oferă cele mai bune fotografii panoramice, așa că încercați să vizitați într-o zi senină pentru o vizibilitate maximă.",
+            "en": "This iconic coastal watchtower provides the best panoramic photos of the sea, so try to visit on a clear day to take advantage of the maximum visibility."
+          }
+        },
+        {
+          "name": {
+            "de": "Blaue Bucht",
+            "hu": "Kék-öböl",
+            "ro": "Golful Albastru",
+            "en": "Baia Azzurra"
+          },
+          "coords": [
+            13.438425,
+            41.255383
+          ],
+          "category": "recreational",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Ein fantastischer Ort zum Entspannen am Wasser. Dieser unberührte Strand hat kristallklare Wellen, bringen Sie also ein Handtuch für die Meeresbrise mit.",
+            "hu": "Fantasztikus hely a vízparti pihenésre, ez az érintetlen strand kristálytiszta hullámokkal csábít, hozzon egy törölközőt és élvezze a tengeri szellőt.",
+            "ro": "Un loc fantastic pentru relaxare la apă, această plajă are valuri cristaline, așa că aduceți un prosop și bucurați-vă de briza răcoroasă a mării.",
+            "en": "A fantastic spot to relax by the water, this pristine beach has crystal-clear waves, so bring a nice towel and enjoy the refreshing coastal sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Tiberiusgrotte",
+            "hu": "Tiberius-barlang Múzeum",
+            "ro": "Muzeul Peșterii lui Tiberius",
+            "en": "Museo grotta di Tiberio"
+          },
+          "coords": [
+            13.448805,
+            41.252854
+          ],
+          "category": "museum",
+          "arrive_at": "13:14",
+          "stay_min": 100,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.91,
+          "tip_5lang": {
+            "de": "Das archäologische Museum beherbergt bemerkenswerte Statuen aus der nahegelegenen Höhle, weshalb Sie das praktische Kombiticket kaufen sollten.",
+            "hu": "A múzeum a közeli barlangban talált figyelemre méltó szobrokat őrzi, ezért érdemes kombinált jegyet vásárolni az ókori villa megtekintéséhez is.",
+            "ro": "Găzduind statui remarcabile găsite în peștera din apropiere, acest muzeu arheologic necesită un bilet combinat pentru a vedea și vila antică.",
+            "en": "Housing remarkable statues found in the nearby cave, this archaeological museum requires a combined ticket if you also want to see the ancient villa."
+          }
+        },
+        {
+          "name": {
+            "de": "Tiberius-Villa",
+            "hu": "Tiberius-villa",
+            "ro": "Vila lui Tiberius",
+            "en": "Villa di Tiberio"
+          },
+          "coords": [
+            13.44941,
+            41.251582
+          ],
+          "category": "historical",
+          "arrive_at": "14:56",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen des Zufluchtsorts von Kaiser Tiberius und vergessen Sie Ihre Kamera nicht, um den spektakulären Grottenpool zu fotografieren.",
+            "hu": "Fedezze fel Tiberius császár tengerparti menedékének drámai romjait, és ne felejtse el a fényképezőgépét a látványos barlangi medence megörökítéséhez.",
+            "ro": "Explorați ruinele dramatice ale refugiului împăratului Tiberius și nu uitați aparatul foto pentru a surprinde spectaculoasa piscină din grotă.",
+            "en": "Explore the dramatic ruins of Emperor Tiberius's seaside retreat, and definitely do not forget your camera to capture the spectacular grotto pool."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens beginnen Sie Ihren Tag in der charmanten Altstadt und erkunden die historische Kirche San Leone, gefolgt von einem entspannten Küstenspaziergang zur malerischen Delfingrotte.\nMittags begeben Sie sich hinauf zum Torre Truglia, um atemberaubende Ausblicke auf das Mittelmeer zu genießen, bevor Sie sich am Sandstrand der Baia Azzurra erholen.\nNachmittags schlendern Sie weiter östlich an der Küste entlang, um in die römische Geschichte im archäologischen Museum einzutauchen.\nAbends beenden Sie Ihren Spaziergang in den majestätischen Ruinen der Tiberius-Villa und beobachten, wie die Sonne über der berühmten Grotte des Kaisers langsam untergeht.",
+        "hu": "Reggel kezdje a napot a hangulatos óvárosban a történelmi San Leone templom felfedezésével, majd sétáljon a tengerparton a festői Delfinek barlangja felé.\nDélben kapaszkodjon fel a Torre Truglia toronyba, ahonnan lélegzetelállító kilátás nyílik a tengerre, majd pihenjen a Baia Azzurra homokos partján.\nDélután sétáljon kelet felé a part mentén, és merüljön el az ókori római történelemben a kiváló régészeti múzeumban a kolosszális szobrok között.\nEste fejezze be sétáját a Tiberius-villa fenséges romjainál, és nézze végig, ahogy a naplemente lágy fényekkel árasztja el a császár híres tengerparti barlangját.",
+        "ro": "Dimineața, începeți ziua în fermecătorul oraș vechi, explorând istorica Biserică San Leone, urmată de o plimbare pe coastă către pitoreasca Peșteră a Delfinilor.\nLa amiază, urcați la Torre Truglia pentru vederi uluitoare asupra Mării Mediterane înainte de a vă relaxa pe țărmurile nisipoase de la Baia Azzurra.\nDupă-amiaza, mergeți spre est de-a lungul coastei pentru a pătrunde în istoria romană la excelentul Muzeu Arheologic, admirând sculpturile colosale.\nSeara, încheiați plimbarea la ruinele maiestuoase ale Vilei lui Tiberius, privind cum soarele coboară peste faimoasa grotă a împăratului și reflectând asupra zilei.",
+        "en": "Morning starts in the charming old town exploring the historical Church of San Leone, followed by a breezy coastal stroll towards the scenic Cave of the Dolphins.\nMidday invites you to head up to Torre Truglia for breathtaking views of the Mediterranean Sea before relaxing on the sandy shores of Baia Azzurra.\nAfternoon involves walking east along the beautiful coastline to delve into ancient Roman history at the excellent archaeological museum.\nEvening concludes your journey at the majestic ruins of the Villa of Tiberius, where you can watch the sunset over the Emperor's famous seaside grotto."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:51",
+      "total_km": 3.75,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Weststrand",
+            "hu": "Nyugati strand",
+            "ro": "Plaja de Vest",
+            "en": "Spiaggia di Ponente"
+          },
+          "coords": [
+            13.41903,
+            41.264163
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an diesem ausgedehnten, familienfreundlichen Strand, wo Sie vor den Mittagsmassen problemlos Liegen für eine morgendliche Pause mieten können.",
+            "hu": "Kezdje a napot ezen a kiterjedt, családbarát strandon, ahol könnyedén bérelhet napágyakat a déli tömeg megérkezése előtt egy kis reggeli pihenéshez.",
+            "ro": "Începeți ziua pe această plajă extinsă, ideală pentru familii, unde puteți închiria șezlonguri cu ușurință înainte de sosirea aglomerației de la prânz.",
+            "en": "Start your day on this expansive, family-friendly beach where you can easily rent sunbeds before the midday crowds arrive for a morning break."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Leone",
+            "hu": "San Leone templom",
+            "ro": "Biserica San Leone",
+            "en": "Church of San Leone"
+          },
+          "coords": [
+            13.436735,
+            41.25827
+          ],
+          "category": "historical",
+          "arrive_at": "10:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Diese historische Kirche aus dem 11. Jahrhundert bietet Einblicke in die religiöse Vergangenheit der Stadt, also kommen Sie früh für eine ruhige Atmosphäre.",
+            "hu": "A 11. században épült történelmi templom bepillantást enged a város vallási múltjába, ezért érdemes korán érkezni a békés és csendes légkör érdekében.",
+            "ro": "Construită în secolul al XI-lea, această biserică oferă o privire în trecutul religios al orașului, așa că veniți devreme pentru o atmosferă liniștită.",
+            "en": "Built in the 11th century, this historic church offers a glimpse into Sperlonga's religious past, so be sure to visit early for a very quiet atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Truglia",
+            "hu": "Torre Truglia",
+            "ro": "Torre Truglia",
+            "en": "Torre Truglia"
+          },
+          "coords": [
+            13.434004,
+            41.254486
+          ],
+          "category": "tower",
+          "arrive_at": "11:16",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Dieser ikonische Küstenwachturm bietet die besten Panoramabilder des Meeres, besuchen Sie ihn an einem klaren Tag, um die beste Sicht zu genießen.",
+            "hu": "Ez az ikonikus tengerparti őrtorony nyújtja a legjobb panorámát a tengerre, így mindenképpen egy tiszta napon látogasson el a maximális látótávolságért.",
+            "ro": "Acest turn de coastă iconic oferă cele mai bune fotografii panoramice, așa că încercați să vizitați într-o zi senină pentru o vizibilitate maximă.",
+            "en": "This iconic coastal watchtower provides the best panoramic photos of the sea, so try to visit on a clear day to take advantage of the maximum visibility."
+          }
+        },
+        {
+          "name": {
+            "de": "Oststrand",
+            "hu": "Keleti strand",
+            "ro": "Plaja de Est",
+            "en": "Spiaggia di Levante"
+          },
+          "coords": [
+            13.441076,
+            41.254209
+          ],
+          "category": "recreational",
+          "arrive_at": "11:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Der perfekte goldene Sand dieses Strandes lädt zu einem langen Spaziergang ein, aber sichern Sie Ihr Fahrrad an den ausgewiesenen Plätzen in der Nähe.",
+            "hu": "A tökéletes aranyhomok hosszú sétára hívogat ezen a strandon, de kerékpárját a közelben kijelölt biztonságos helyeken rögzítse.",
+            "ro": "Nisipul auriu perfect al acestei plaje invită la o plimbare lungă, dar asigurați-vă că legați bicicleta în zonele desemnate din apropiere.",
+            "en": "The perfect golden sand of this beach invites you for a long walk, but make sure to secure your bicycle at the designated spots nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Tiberiusgrotte",
+            "hu": "Tiberius-barlang Múzeum",
+            "ro": "Muzeul Peșterii lui Tiberius",
+            "en": "Museo grotta di Tiberio"
+          },
+          "coords": [
+            13.448805,
+            41.252854
+          ],
+          "category": "museum",
+          "arrive_at": "13:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Das archäologische Museum beherbergt bemerkenswerte Statuen aus der nahegelegenen Höhle, weshalb Sie das praktische Kombiticket kaufen sollten.",
+            "hu": "A múzeum a közeli barlangban talált figyelemre méltó szobrokat őrzi, ezért érdemes kombinált jegyet vásárolni az ókori villa megtekintéséhez is.",
+            "ro": "Găzduind statui remarcabile găsite în peștera din apropiere, acest muzeu arheologic necesită un bilet combinat pentru a vedea și vila antică.",
+            "en": "Housing remarkable statues found in the nearby cave, this archaeological museum requires a combined ticket if you also want to see the ancient villa."
+          }
+        },
+        {
+          "name": {
+            "de": "Tiberius-Villa",
+            "hu": "Tiberius-villa",
+            "ro": "Vila lui Tiberius",
+            "en": "Villa di Tiberio"
+          },
+          "coords": [
+            13.44941,
+            41.251582
+          ],
+          "category": "historical",
+          "arrive_at": "14:43",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen des Zufluchtsorts von Kaiser Tiberius und vergessen Sie Ihre Kamera nicht, um den spektakulären Grottenpool zu fotografieren.",
+            "hu": "Fedezze fel Tiberius császár tengerparti menedékének drámai romjait, és ne felejtse el a fényképezőgépét a látványos barlangi medence megörökítéséhez.",
+            "ro": "Explorați ruinele dramatice ale refugiului împăratului Tiberius și nu uitați aparatul foto pentru a surprinde spectaculoasa piscină din grotă.",
+            "en": "Explore the dramatic ruins of Emperor Tiberius's seaside retreat, and definitely do not forget your camera to capture the spectacular grotto pool."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Chimera",
+            "hu": "Lido Chimera",
+            "ro": "Lido Chimera",
+            "en": "Lido Chimera"
+          },
+          "coords": [
+            13.453994,
+            41.248133
+          ],
+          "category": "recreational",
+          "arrive_at": "16:06",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Gönnen Sie sich einen ruhigen Abend in diesem eleganten Strandclub, wo Sie ein kaltes Getränk mit Blick auf die ruhigen Wellen genießen können.",
+            "hu": "Kényeztesse magát egy nyugodt estével ebben az elegáns strandklubban, ahol egy hideg italt kortyolgatva élvezheti a csendes hullámok látványát.",
+            "ro": "Răsfățați-vă cu o seară liniștită la acest club elegant pe plajă, unde puteți savura o băutură rece admirând valurile liniștite.",
+            "en": "Treat yourself to a quiet evening at this elegant beach club, where you can enjoy a cold drink while overlooking the calm, rolling waves."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens fahren Sie mit dem Rad entlang des weitläufigen Weststrands, um die frische Seeluft zu spüren, bevor Sie in das historische Zentrum eintauchen.\nMittags erklimmen Sie den Torre Truglia für unvergessliche Ausblicke und setzen dann Ihre Fahrt zum Oststrand für eine entspannte Pause fort.\nNachmittags radeln Sie gemütlich zu den faszinierenden Ausgrabungen der Tiberius-Villa und ihrem angeschlossenen archäologischen Museum.\nAbends beenden Sie Ihre Tour am Lido Chimera am östlichen Rand, wo Sie sich in herrlicher Atmosphäre vom Rhythmus des Tages erholen.",
+        "hu": "Reggel biciklizzen végig a tágas nyugati strandon, hogy magába szívja a friss tengeri levegőt, mielőtt a történelmi központ felé venné az irányt.\nDélben mássza meg a Torre Truglia tornyot a felejthetetlen kilátásért, majd folytassa útját a keleti strand felé egy kis pihenésre.\nDélután kényelmesen tekerjen el a Tiberius-villa lenyűgöző ásatásaihoz és a hozzá tartozó régészeti múzeum kincseihez.\nEste a keleti szélén fekvő Lido Chimera strandon fejezze be a túrát, ahol csodálatos hangulatban pihenheti ki a nap ritmusát.",
+        "ro": "Dimineața, pedalați de-a lungul întinsei Plaje de Vest pentru a simți aerul proaspăt al mării înainte de a explora centrul istoric.\nLa amiază, urcați la Torre Truglia pentru priveliști de neuitat și apoi continuați călătoria spre Plaja de Est pentru o pauză relaxantă.\nDupă-amiaza, mergeți pe bicicletă către săpăturile fascinante ale Vilei lui Tiberius și muzeul arheologic alăturat.\nSeara, terminați turul la Lido Chimera pe marginea estică, unde vă puteți recupera după ritmul zilei într-o atmosferă minunată.",
+        "en": "Morning begins with a refreshing ride along the expansive West Beach to feel the sea air before you dive into the heart of the historical center.\nMidday leads you up to Torre Truglia for unforgettable coastal views, followed by a pedal over to the East Beach for a relaxing midday break.\nAfternoon features a leisurely cycle to the fascinating ancient excavations of the Villa of Tiberius and its attached archaeological museum.\nEvening wraps up your bike tour at Lido Chimera on the eastern edge, where you can recover from the day's rhythm in a wonderful seaside atmosphere."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:53",
+      "total_km": 7.75,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Villa Prato",
+            "hu": "Villa Prato",
+            "ro": "Villa Prato",
+            "en": "Villa Prato"
+          },
+          "coords": [
+            13.42403,
+            41.271981
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Diese antike römische Ruine liegt etwas abseits, aber das Parken in der Nähe ist einfach, also nehmen Sie sich Zeit, die alten Strukturen zu erkunden.",
+            "hu": "Ez az ókori római rom kissé kiesik a központból, de a parkolás a közelben egyszerű, így szánjon időt a régi építmények felfedezésére.",
+            "ro": "Această ruină antică romană este puțin mai departe, dar parcarea în apropiere este ușoară, așa că fă-ți timp să explorezi structurile vechi.",
+            "en": "This ancient Roman ruin is a bit out of the way, but parking nearby is straightforward, so take your time exploring the old architectural structures."
+          }
+        },
+        {
+          "name": {
+            "de": "Das Segelschiff",
+            "hu": "A Vitorlás",
+            "ro": "Corabia",
+            "en": "il veliero"
+          },
+          "coords": [
+            13.401294,
+            41.271787
+          ],
+          "category": "recreational",
+          "arrive_at": "10:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten westlichen Ausblick an diesem entspannten Küstenabschnitt, an dem die kühle Meeresbrise besonders am Vormittag sehr angenehm ist.",
+            "hu": "Élvezze a széles nyugati kilátást ezen a nyugodt partszakaszon, ahol a hűvös tengeri szellő különösen a délelőtti órákban nagyon kellemes.",
+            "ro": "Bucurați-vă de priveliștea vestică largă pe această porțiune de coastă relaxantă, unde briza răcoroasă este foarte plăcută dimineața.",
+            "en": "Enjoy the wide western vistas on this relaxing stretch of coast, where the cool sea breeze is incredibly pleasant, especially during the morning hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche San Leone",
+            "hu": "San Leone templom",
+            "ro": "Biserica San Leone",
+            "en": "Church of San Leone"
+          },
+          "coords": [
+            13.436735,
+            41.25827
+          ],
+          "category": "historical",
+          "arrive_at": "11:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.3,
+          "tip_5lang": {
+            "de": "Diese historische Kirche aus dem 11. Jahrhundert bietet Einblicke in die religiöse Vergangenheit der Stadt, also kommen Sie früh für eine ruhige Atmosphäre.",
+            "hu": "A 11. században épült történelmi templom bepillantást enged a város vallási múltjába, ezért érdemes korán érkezni a békés és csendes légkör érdekében.",
+            "ro": "Construită în secolul al XI-lea, această biserică oferă o privire în trecutul religios al orașului, așa că veniți devreme pentru o atmosferă liniștită.",
+            "en": "Built in the 11th century, this historic church offers a glimpse into Sperlonga's religious past, so be sure to visit early for a very quiet atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Truglia",
+            "hu": "Torre Truglia",
+            "ro": "Torre Truglia",
+            "en": "Torre Truglia"
+          },
+          "coords": [
+            13.434004,
+            41.254486
+          ],
+          "category": "tower",
+          "arrive_at": "12:37",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Dieser ikonische Küstenwachturm bietet die besten Panoramabilder des Meeres, besuchen Sie ihn an einem klaren Tag, um die beste Sicht zu genießen.",
+            "hu": "Ez az ikonikus tengerparti őrtorony nyújtja a legjobb panorámát a tengerre, így mindenképpen egy tiszta napon látogasson el a maximális látótávolságért.",
+            "ro": "Acest turn de coastă iconic oferă cele mai bune fotografii panoramice, așa că încercați să vizitați într-o zi senină pentru o vizibilitate maximă.",
+            "en": "This iconic coastal watchtower provides the best panoramic photos of the sea, so try to visit on a clear day to take advantage of the maximum visibility."
+          }
+        },
+        {
+          "name": {
+            "de": "Museum der Tiberiusgrotte",
+            "hu": "Tiberius-barlang Múzeum",
+            "ro": "Muzeul Peșterii lui Tiberius",
+            "en": "Museo grotta di Tiberio"
+          },
+          "coords": [
+            13.448805,
+            41.252854
+          ],
+          "category": "museum",
+          "arrive_at": "13:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Das archäologische Museum beherbergt bemerkenswerte Statuen aus der nahegelegenen Höhle, weshalb Sie das praktische Kombiticket kaufen sollten.",
+            "hu": "A múzeum a közeli barlangban talált figyelemre méltó szobrokat őrzi, ezért érdemes kombinált jegyet vásárolni az ókori villa megtekintéséhez is.",
+            "ro": "Găzduind statui remarcabile găsite în peștera din apropiere, acest muzeu arheologic necesită un bilet combinat pentru a vedea și vila antică.",
+            "en": "Housing remarkable statues found in the nearby cave, this archaeological museum requires a combined ticket if you also want to see the ancient villa."
+          }
+        },
+        {
+          "name": {
+            "de": "Tiberius-Villa",
+            "hu": "Tiberius-villa",
+            "ro": "Vila lui Tiberius",
+            "en": "Villa di Tiberio"
+          },
+          "coords": [
+            13.44941,
+            41.251582
+          ],
+          "category": "historical",
+          "arrive_at": "14:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Ruinen des Zufluchtsorts von Kaiser Tiberius und vergessen Sie Ihre Kamera nicht, um den spektakulären Grottenpool zu fotografieren.",
+            "hu": "Fedezze fel Tiberius császár tengerparti menedékének drámai romjait, és ne felejtse el a fényképezőgépét a látványos barlangi medence megörökítéséhez.",
+            "ro": "Explorați ruinele dramatice ale refugiului împăratului Tiberius și nu uitați aparatul foto pentru a surprinde spectaculoasa piscină din grotă.",
+            "en": "Explore the dramatic ruins of Emperor Tiberius's seaside retreat, and definitely do not forget your camera to capture the spectacular grotto pool."
+          }
+        },
+        {
+          "name": {
+            "de": "Anthropoohagus Bucht",
+            "hu": "Anthropoohagus-öböl",
+            "ro": "Golful Anthropoohagus",
+            "en": "Anthropoohagus"
+          },
+          "coords": [
+            13.456991,
+            41.246494
+          ],
+          "category": "recreational",
+          "arrive_at": "16:08",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Ein etwas rauerer und naturbelassener Küstenabschnitt im Osten, der perfekt für ein ruhiges abendliches Picknick abseits des städtischen Trubels ist.",
+            "hu": "Kissé zordabb és természetesebb partszakasz keleten, amely tökéletes egy csendes esti piknikhez távol a városi nyüzsgéstől és forgatagtól.",
+            "ro": "O porțiune de coastă mai aspră și naturală la est, care este perfectă pentru un picnic de seară liniștit departe de agitația orașului.",
+            "en": "A slightly more rugged and natural stretch of coast to the east that is absolutely perfect for a quiet evening picnic away from the urban bustle."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens nutzen Sie die Flexibilität Ihres Autos, um die abgelegenen Ruinen der Villa Prato zu erkunden, gefolgt von einer Brise am Strand von il veliero im fernen Westen.\nMittags fahren Sie ins Zentrum, parken das Auto und erkunden die historische Altstadt rund um die Kirche San Leone und den herrlichen Aussichtspunkt Torre Truglia.\nNachmittags steuern Sie den großen Parkplatz des Museums an, um die beeindruckende Tiberius-Villa und die dazugehörigen Höhlenskulpturen zu besichtigen.\nAbends fahren Sie weiter an die östliche Küste zum naturnahen Anthropoohagus, wo Sie bei Meeresrauschen den erlebnisreichen Tag entspannt ausklingen lassen.",
+        "hu": "Reggel használja ki autója nyújtotta szabadságot, és fedezze fel a távoli Villa Prato romjait, majd élvezze a tengerparti szellőt a messzi nyugaton fekvő il veliero strandján.\nDélben hajtson a központba, parkoljon le, és járja be a történelmi óvárost a San Leone templom környékén és a csodálatos Torre Truglia kilátónál.\nDélután vegye az irányt a múzeum nagy parkolója felé, hogy megcsodálja a lenyűgöző Tiberius-villát és a hozzá tartozó barlangi szobrokat.\nEste autózzon tovább a keleti partra a természetközeli Anthropoohagus felé, ahol a tenger zúgása mellett pihenheti ki a nap élményeit.",
+        "ro": "Dimineața, profitați de mașina dumneavoastră pentru a explora ruinele îndepărtate de la Villa Prato, urmate de briza mării de la plaja il veliero din vestul îndepărtat.\nLa amiază, conduceți spre centru, parcați mașina și explorați orașul vechi istoric din jurul Bisericii San Leone și magnificul punct de belvedere Torre Truglia.\nDupă-amiaza, mergeți la parcarea mare a muzeului pentru a vizita impresionanta Vilă a lui Tiberius și sculpturile din peștera asociată.\nSeara, mergeți mai departe spre coasta de est la naturalul Anthropoohagus, unde vă puteți încheia ziua relaxant, ascultând sunetul mării.",
+        "en": "Morning takes advantage of your car to explore the distant ruins of Villa Prato before catching a refreshing coastal breeze at the far western il veliero beach.\nMidday brings you into the center where you can park and explore the historic old town around the Church of San Leone and the magnificent Torre Truglia viewpoint.\nAfternoon features a quick drive to the museum's large parking area to deeply explore the impressive Villa of Tiberius and its associated cave sculptures.\nEvening concludes with a short scenic drive further east to the rugged Anthropoohagus coast, allowing you to wind down the day listening to the crashing waves."
+      }
+    }
+  }
+}

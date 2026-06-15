@@ -1,0 +1,474 @@
+{
+  "city_id": "greece-schinoussa-cities-v2",
+  "anchor": {
+    "name": "Schinoussa",
+    "coords": [
+      25.517778,
+      36.870278
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:48",
+      "total_km": 3.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Tsigouri beach",
+            "hu": "Tsigouri beach",
+            "ro": "Tsigouri beach",
+            "en": "Tsigouri beach"
+          },
+          "coords": [
+            25.516958,
+            36.864682
+          ],
+          "category": "recreational",
+          "arrive_at": "09:10",
+          "stay_min": 85,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie den feinen Sand und das klare Wasser dieses beliebten Strandes, aber bringen Sie eigenen Schatten mit, da Sonnenschirme rar sind.",
+            "hu": "Élvezze a finom homokot és a kristálytiszta vizet ezen a népszerű strandon, de hozzon magával napernyőt, mivel az árnyék korlátozott.",
+            "ro": "Bucurați-vă de nisipul fin și apele limpezi ale acestei plaje populare, dar aduceți-vă propria umbrelă, deoarece umbra naturală este limitată.",
+            "en": "Enjoy the fine sand and crystal-clear waters of this popular beach, but remember to bring your own umbrella as natural shade is quite limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Portokali",
+            "hu": "Portokali",
+            "ro": "Portokali",
+            "en": "Portokali"
+          },
+          "coords": [
+            25.520103,
+            36.862199
+          ],
+          "category": "recreational",
+          "arrive_at": "10:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese kleine, versteckte Bucht mit ihrem leuchtend türkisfarbenen Wasser, perfekt für ein ruhiges Schwimmen am frühen Vormittag.",
+            "hu": "Fedezze fel ezt az apró, rejtett öblöt ragyogó türkizkék vizével, amely tökéletes egy csendes, kora délelőtti frissítő úszáshoz a melegben.",
+            "ro": "Descoperiți acest mic golf ascuns, cu ape turcoaz strălucitoare, perfect pentru o baie liniștită și relaxantă în timpul dimineții calde.",
+            "en": "Discover this tiny, hidden cove with its bright turquoise waters, making it an absolutely perfect spot for a quiet, early morning swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Livadi",
+            "hu": "Livadi",
+            "ro": "Livadi",
+            "en": "Livadi"
+          },
+          "coords": [
+            25.524246,
+            36.861656
+          ],
+          "category": "recreational",
+          "arrive_at": "12:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie am weitläufigen Strand von Livadi, wo sanfte Wellen und goldener Sand Familien anlocken; packen Sie unbedingt Snacks ein.",
+            "hu": "Pihenjen Livadi tágas strandján, ahol a finom hullámok és az aranyhomok vonzza a családokat; mindenképpen csomagoljon be harapnivalót.",
+            "ro": "Relaxați-vă pe plaja spațioasă din Livadi, unde valurile blânde atrag familiile; asigurați-vă că luați cu dumneavoastră gustări și apă.",
+            "en": "Relax on the spacious shores of Livadi beach, where gentle waves and golden sand attract families; make sure to pack plenty of snacks."
+          }
+        },
+        {
+          "name": {
+            "de": "Phountana",
+            "hu": "Phountana",
+            "ro": "Phountana",
+            "en": "Phountana"
+          },
+          "coords": [
+            25.531388,
+            36.870172
+          ],
+          "category": "recreational",
+          "arrive_at": "13:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die unberührte Natur dieser abgelegenen Bucht, wo das kristallklare Wasser zum Schnorcheln fernab der großen Touristenmassen einlädt.",
+            "hu": "Csodálja meg ezen eldugott öböl érintetlen természetét, ahol a kristálytiszta víz kiváló búvárkodási lehetőséget kínál a tömegektől távol.",
+            "ro": "Admirați natura neatinsă a acestui golf retras, unde apele cristaline invită la snorkeling departe de mulțimile mari de turiști zgomotoși.",
+            "en": "Admire the pristine nature of this secluded bay, where the crystal-clear water offers fantastic snorkeling far away from the usual crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Pori beach",
+            "hu": "Pori beach",
+            "ro": "Pori beach",
+            "en": "Pori beach"
+          },
+          "coords": [
+            25.53849,
+            36.864796
+          ],
+          "category": "landmark",
+          "arrive_at": "15:03",
+          "stay_min": 105,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an diesem malerischen Küstenabschnitt ausklingen und genießen Sie die friedliche Atmosphäre bei einem schönen Abendspaziergang.",
+            "hu": "Zárja a napot ezen a festői partszakaszon, és élvezze a békés, nyugodt légkört egy kellemes, pihentető kora esti tengerparti séta során.",
+            "ro": "Încheiați ziua pe această porțiune pitorească de coastă și bucurați-vă de atmosfera pașnică în timpul unei plimbări relaxante de seară.",
+            "en": "End your day at this picturesque stretch of coastline and soak in the incredibly peaceful atmosphere during a beautiful early evening stroll."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag am lebhaften Tsigouri-Strand in der Nähe der Stadt. Mittags geht es weiter über Portokali zum breiten Strand von Livadi. Der Nachmittag gehört den ruhigeren Buchten, beginnend mit der malerischen Phountana. Beenden Sie die Tour entspannt am Pori, wo das Meer im Abendlicht glitzert.",
+        "hu": "Kezdje a napot a város melletti nyüzsgő Tsigouri strandon. Délben folytassa útját Portokalin keresztül a széles Livadi partra. A délután a csendesebb öblöké, kezdve a festői Phountanával. Zárja a túrát nyugodtan Pori tengerpartján, ahol a tenger az esti fényben csillog.",
+        "ro": "Începeți ziua la plaja animată Tsigouri de lângă oraș. La prânz continuați prin Portokali până la plaja largă Livadi. După-amiaza aparține golfurilor mai liniștite, începând cu pitoreasca Phountana. Încheiați turul relaxat la Pori, unde marea strălucește în lumina serii.",
+        "en": "Start your day at the lively Tsigouri beach near the main town. By midday, make your way past the tiny Portokali to the broad sands of Livadi. The afternoon belongs to quieter coves, beginning with the highly picturesque Phountana. End your walking tour relaxing at Pori as the evening light shimmers on the water."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:39",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Tsigouri beach",
+            "hu": "Tsigouri beach",
+            "ro": "Tsigouri beach",
+            "en": "Tsigouri beach"
+          },
+          "coords": [
+            25.516958,
+            36.864682
+          ],
+          "category": "recreational",
+          "arrive_at": "09:04",
+          "stay_min": 85,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie den feinen Sand und das klare Wasser dieses beliebten Strandes, aber bringen Sie eigenen Schatten mit, da Sonnenschirme rar sind.",
+            "hu": "Élvezze a finom homokot és a kristálytiszta vizet ezen a népszerű strandon, de hozzon magával napernyőt, mivel az árnyék korlátozott.",
+            "ro": "Bucurați-vă de nisipul fin și apele limpezi ale acestei plaje populare, dar aduceți-vă propria umbrelă, deoarece umbra naturală este limitată.",
+            "en": "Enjoy the fine sand and crystal-clear waters of this popular beach, but remember to bring your own umbrella as natural shade is quite limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Portokali",
+            "hu": "Portokali",
+            "ro": "Portokali",
+            "en": "Portokali"
+          },
+          "coords": [
+            25.520103,
+            36.862199
+          ],
+          "category": "recreational",
+          "arrive_at": "10:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese kleine, versteckte Bucht mit ihrem leuchtend türkisfarbenen Wasser, perfekt für ein ruhiges Schwimmen am frühen Vormittag.",
+            "hu": "Fedezze fel ezt az apró, rejtett öblöt ragyogó türkizkék vizével, amely tökéletes egy csendes, kora délelőtti frissítő úszáshoz a melegben.",
+            "ro": "Descoperiți acest mic golf ascuns, cu ape turcoaz strălucitoare, perfect pentru o baie liniștită și relaxantă în timpul dimineții calde.",
+            "en": "Discover this tiny, hidden cove with its bright turquoise waters, making it an absolutely perfect spot for a quiet, early morning swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Livadi",
+            "hu": "Livadi",
+            "ro": "Livadi",
+            "en": "Livadi"
+          },
+          "coords": [
+            25.524246,
+            36.861656
+          ],
+          "category": "recreational",
+          "arrive_at": "11:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie am weitläufigen Strand von Livadi, wo sanfte Wellen und goldener Sand Familien anlocken; packen Sie unbedingt Snacks ein.",
+            "hu": "Pihenjen Livadi tágas strandján, ahol a finom hullámok és az aranyhomok vonzza a családokat; mindenképpen csomagoljon be harapnivalót.",
+            "ro": "Relaxați-vă pe plaja spațioasă din Livadi, unde valurile blânde atrag familiile; asigurați-vă că luați cu dumneavoastră gustări și apă.",
+            "en": "Relax on the spacious shores of Livadi beach, where gentle waves and golden sand attract families; make sure to pack plenty of snacks."
+          }
+        },
+        {
+          "name": {
+            "de": "Paralia Lioliou",
+            "hu": "Paralia Lioliou",
+            "ro": "Paralia Lioliou",
+            "en": "Paralia Lioliou"
+          },
+          "coords": [
+            25.537362,
+            36.857048
+          ],
+          "category": "recreational",
+          "arrive_at": "13:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Die flachen, warmen Gewässer dieses Strandes machen ihn ideal für Kinder, also kommen Sie früh, um sich die besten Plätze direkt am Wasser zu sichern.",
+            "hu": "Ennek a strandnak a sekély, meleg vize ideális gyermekek számára, ezért érkezzen korán, hogy biztosítsa a legjobb helyeket a vízparton.",
+            "ro": "Apele puțin adânci și calde ale acestei plaje sunt ideale pentru copii, așa că ajungeți devreme pentru a prinde cele mai bune locuri pe mal.",
+            "en": "The shallow, warm waters of this lovely beach make it highly ideal for children, so arrive early to secure the best spots right by the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Phountana",
+            "hu": "Phountana",
+            "ro": "Phountana",
+            "en": "Phountana"
+          },
+          "coords": [
+            25.531388,
+            36.870172
+          ],
+          "category": "recreational",
+          "arrive_at": "14:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die unberührte Natur dieser abgelegenen Bucht, wo das kristallklare Wasser zum Schnorcheln fernab der großen Touristenmassen einlädt.",
+            "hu": "Csodálja meg ezen eldugott öböl érintetlen természetét, ahol a kristálytiszta víz kiváló búvárkodási lehetőséget kínál a tömegektől távol.",
+            "ro": "Admirați natura neatinsă a acestui golf retras, unde apele cristaline invită la snorkeling departe de mulțimile mari de turiști zgomotoși.",
+            "en": "Admire the pristine nature of this secluded bay, where the crystal-clear water offers fantastic snorkeling far away from the usual crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Psili Ammos",
+            "hu": "Psili Ammos",
+            "ro": "Psili Ammos",
+            "en": "Psili Ammos"
+          },
+          "coords": [
+            25.527633,
+            36.880014
+          ],
+          "category": "recreational",
+          "arrive_at": "15:54",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die feinen Sanddünen, die dem Strand seinen Namen geben, und bleiben Sie für den atemberaubenden Sonnenuntergang über der Ägäis.",
+            "hu": "Tapasztalja meg a finom homokdűnéket, amelyekről a strand a nevét kapta, és maradjon a lélegzetelállító égei-tengeri naplemente látványára.",
+            "ro": "Experimentați dunele de nisip fin care dau numele plajei și rămâneți pentru un apus uluitor peste Marea Egee în serile calde de vară.",
+            "en": "Experience the fine sand dunes that give the beach its name, and make sure to stay to watch the breathtaking sunset over the Aegean Sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Radtour startet am beliebten Tsigouri und führt Sie rasch zu den Stränden Portokali und Livadi. Gegen Mittag radeln Sie entspannt zum flachen Wasser von Paralia Lioliou. Nachmittags erwartet Sie die unberührte Natur in Phountana. Der krönende Abschluss ist der feine Sand von Psili Ammos im Abendrot.",
+        "hu": "A kerékpártúra a népszerű Tsigouritól indul, és hamar eléri Portokali és Livadi strandjait. Dél körül tekerjen el a Paralia Lioliou sekély vizéhez. Délután Phountana érintetlen természete várja. A nap fénypontja a Psili Ammos finom homokja lesz az alkonyati fényekben pompázva.",
+        "ro": "Turul cu bicicleta începe la popularul Tsigouri și vă duce rapid la plajele Portokali și Livadi. În jurul prânzului, pedalați spre apele puțin adânci de la Paralia Lioliou. După-amiaza vă așteaptă natura neatinsă la Phountana. Punctul culminant este nisipul fin de la Psili Ammos în amurg.",
+        "en": "Your bike tour kicks off at the popular Tsigouri before quickly rolling to Portokali and Livadi beaches. Around midday, pedal to the shallow, family-friendly waters of Paralia Lioliou. Unspoiled nature awaits at Phountana in the afternoon. The grand finale is the fine sand of Psili Ammos under the setting sun."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "18:42",
+      "total_km": 7.7,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Gerolimnionas",
+            "hu": "Gerolimnionas",
+            "ro": "Gerolimnionas",
+            "en": "Gerolimnionas"
+          },
+          "coords": [
+            25.512737,
+            36.885736
+          ],
+          "category": "recreational",
+          "arrive_at": "09:04",
+          "stay_min": 85,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese zerklüftete, versteckte Bucht, die wegen ihrer dramatischen Felsen beliebt ist; tragen Sie unbedingt feste Wasserschuhe.",
+            "hu": "Fedezze fel ezt a zord, rejtett öblöt, amely drámai szikláiról ismert; a biztonságos felfedezés érdekében feltétlenül viseljen vízi cipőt.",
+            "ro": "Descoperiți acest golf accidentat și ascuns, faimos pentru stâncile sale dramatice; asigurați-vă că purtați pantofi de apă rezistenți la pietre.",
+            "en": "Discover this rugged, hidden bay that is widely known for its dramatic rocks; be sure to wear sturdy water shoes for safe exploration here."
+          }
+        },
+        {
+          "name": {
+            "de": "Phukio",
+            "hu": "Phukio",
+            "ro": "Phukio",
+            "en": "Phukio"
+          },
+          "coords": [
+            25.526419,
+            36.885782
+          ],
+          "category": "recreational",
+          "arrive_at": "10:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Entfliehen Sie dem Trubel an diesem abgelegenen Naturstrand, der sich perfekt zum Lesen eines Buches im Rauschen der sanften Meereswellen eignet.",
+            "hu": "Meneküljön el a nyüzsgés elől ezen a félreeső természetes strandon, amely tökéletes egy jó könyv olvasásához a lágy tengeri hullámok hangjára.",
+            "ro": "Scăpați de agitație pe această plajă naturală izolată, care este perfectă pentru a citi o carte în sunetul blând al valurilor mării cristaline.",
+            "en": "Escape the hustle and bustle at this totally secluded natural beach, which is simply perfect for reading a good book to the sound of gentle waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Psili Ammos",
+            "hu": "Psili Ammos",
+            "ro": "Psili Ammos",
+            "en": "Psili Ammos"
+          },
+          "coords": [
+            25.527633,
+            36.880014
+          ],
+          "category": "recreational",
+          "arrive_at": "11:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erleben Sie die feinen Sanddünen, die dem Strand seinen Namen geben, und bleiben Sie für den atemberaubenden Sonnenuntergang über der Ägäis.",
+            "hu": "Tapasztalja meg a finom homokdűnéket, amelyekről a strand a nevét kapta, és maradjon a lélegzetelállító égei-tengeri naplemente látványára.",
+            "ro": "Experimentați dunele de nisip fin care dau numele plajei și rămâneți pentru un apus uluitor peste Marea Egee în serile calde de vară.",
+            "en": "Experience the fine sand dunes that give the beach its name, and make sure to stay to watch the breathtaking sunset over the Aegean Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Phountana",
+            "hu": "Phountana",
+            "ro": "Phountana",
+            "en": "Phountana"
+          },
+          "coords": [
+            25.531388,
+            36.870172
+          ],
+          "category": "recreational",
+          "arrive_at": "13:05",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die unberührte Natur dieser abgelegenen Bucht, wo das kristallklare Wasser zum Schnorcheln fernab der großen Touristenmassen einlädt.",
+            "hu": "Csodálja meg ezen eldugott öböl érintetlen természetét, ahol a kristálytiszta víz kiváló búvárkodási lehetőséget kínál a tömegektől távol.",
+            "ro": "Admirați natura neatinsă a acestui golf retras, unde apele cristaline invită la snorkeling departe de mulțimile mari de turiști zgomotoși.",
+            "en": "Admire the pristine nature of this secluded bay, where the crystal-clear water offers fantastic snorkeling far away from the usual crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Pori beach",
+            "hu": "Pori beach",
+            "ro": "Pori beach",
+            "en": "Pori beach"
+          },
+          "coords": [
+            25.53849,
+            36.864796
+          ],
+          "category": "landmark",
+          "arrive_at": "14:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an diesem malerischen Küstenabschnitt ausklingen und genießen Sie die friedliche Atmosphäre bei einem schönen Abendspaziergang.",
+            "hu": "Zárja a napot ezen a festői partszakaszon, és élvezze a békés, nyugodt légkört egy kellemes, pihentető kora esti tengerparti séta során.",
+            "ro": "Încheiați ziua pe această porțiune pitorească de coastă și bucurați-vă de atmosfera pașnică în timpul unei plimbări relaxante de seară.",
+            "en": "End your day at this picturesque stretch of coastline and soak in the incredibly peaceful atmosphere during a beautiful early evening stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Paralia Lioliou",
+            "hu": "Paralia Lioliou",
+            "ro": "Paralia Lioliou",
+            "en": "Paralia Lioliou"
+          },
+          "coords": [
+            25.537362,
+            36.857048
+          ],
+          "category": "recreational",
+          "arrive_at": "15:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Die flachen, warmen Gewässer dieses Strandes machen ihn ideal für Kinder, also kommen Sie früh, um sich die besten Plätze direkt am Wasser zu sichern.",
+            "hu": "Ennek a strandnak a sekély, meleg vize ideális gyermekek számára, ezért érkezzen korán, hogy biztosítsa a legjobb helyeket a vízparton.",
+            "ro": "Apele puțin adânci și calde ale acestei plaje sunt ideale pentru copii, așa că ajungeți devreme pentru a prinde cele mai bune locuri pe mal.",
+            "en": "The shallow, warm waters of this lovely beach make it highly ideal for children, so arrive early to secure the best spots right by the shore."
+          }
+        },
+        {
+          "name": {
+            "de": "Livadi",
+            "hu": "Livadi",
+            "ro": "Livadi",
+            "en": "Livadi"
+          },
+          "coords": [
+            25.524246,
+            36.861656
+          ],
+          "category": "recreational",
+          "arrive_at": "16:57",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie am weitläufigen Strand von Livadi, wo sanfte Wellen und goldener Sand Familien anlocken; packen Sie unbedingt Snacks ein.",
+            "hu": "Pihenjen Livadi tágas strandján, ahol a finom hullámok és az aranyhomok vonzza a családokat; mindenképpen csomagoljon be harapnivalót.",
+            "ro": "Relaxați-vă pe plaja spațioasă din Livadi, unde valurile blânde atrag familiile; asigurați-vă că luați cu dumneavoastră gustări și apă.",
+            "en": "Relax on the spacious shores of Livadi beach, where gentle waves and golden sand attract families; make sure to pack plenty of snacks."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Nutzen Sie das Auto für abgelegene Juwelen wie Gerolimnionas und das ruhige Phukio am Morgen. Mittags lockt der feine Sand von Psili Ammos, gefolgt von der idyllischen Phountana. Am späten Nachmittag erkunden Sie Pori und Paralia Lioliou. Den Tag lassen Sie am weiten Strand von Livadi wunderbar ausklingen.",
+        "hu": "Használja az autót a távoli gyöngyszemek, mint Gerolimnionas és a csendes Phukio felfedezésére reggel. Délben a Psili Ammos finom homokja hívogat, majd Phountana következik. Késő délután fedezze fel Porit és Paralia Lioliout. A napot végül Livadi széles strandján zárhatja pihentetően.",
+        "ro": "Folosiți mașina pentru a vizita bijuterii izolate precum Gerolimnionas și liniștitul Phukio dimineața. La prânz, nisipul fin de la Psili Ammos vă atrage, urmat de Phountana. După-amiaza târziu explorați Pori și Paralia Lioliou. Ziua se încheie minunat pe plaja largă și primitoare de la Livadi.",
+        "en": "Take advantage of the car to reach remote gems like Gerolimnionas and quiet Phukio in the early morning. Midday brings the fine sand dunes of Psili Ammos, followed closely by idyllic Phountana. In the late afternoon, explore Pori and Paralia Lioliou. Finish your island road trip lounging on the broad sands of Livadi."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-bisceglie-cities-v2",
+  "anchor": {
+    "name": "Bisceglie",
+    "coords": [
+      16.50191,
+      41.24078
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:52",
+      "total_km": 0.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo Civico di Bisceglie",
+            "hu": "Bisceglie Városi Múzeum",
+            "ro": "Muzeul Civic din Bisceglie",
+            "en": "Civic Museum of Bisceglie"
+          },
+          "coords": [
+            16.50285,
+            41.241039
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem historischen Museum archäologische Funde aus der Region, und informieren Sie sich am besten vorab über die Öffnungszeiten.",
+            "hu": "Fedezze fel a helyi régészeti leleteket ebben a régió múltját bemutató múzeumban, de indulás előtt mindenképpen ellenőrizze a nyitvatartási időt.",
+            "ro": "Descoperiți descoperiri arheologice locale în acest muzeu istoric care prezintă trecutul regiunii și verificați programul de vizitare în prealabil.",
+            "en": "Discover local archaeological finds in this historic museum that chronicles the region's past, and be sure to check the opening hours beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santa Maria di Passavia",
+            "hu": "Santa Maria di Passavia templom",
+            "ro": "Biserica Santa Maria di Passavia",
+            "en": "Church of Santa Maria di Passavia"
+          },
+          "coords": [
+            16.502214,
+            41.239516
+          ],
+          "category": "religious",
+          "arrive_at": "10:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne Architektur dieser historischen Kirche, die lokale religiöse Traditionen widerspiegelt, aber kleiden Sie sich dezent.",
+            "hu": "Csodálja meg a helyi vallási hagyományokat tükröző történelmi templom gyönyörű építészetét, de ne feledkezzen meg a szerény öltözködésről a látogatás során.",
+            "ro": "Admirați arhitectura frumoasă a acestei biserici istorice care reflectă tradițiile locale, dar asigurați-vă că purtați o ținută decentă la intrare.",
+            "en": "Admire the beautiful architecture of this historic church which reflects local religious traditions, but remember to dress modestly for your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santa Margherita",
+            "hu": "Santa Margherita templom",
+            "ro": "Biserica Santa Margherita",
+            "en": "Church of Santa Margherita"
+          },
+          "coords": [
+            16.504548,
+            41.239795
+          ],
+          "category": "religious",
+          "arrive_at": "11:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Treten Sie in diese reizvolle Steinkirche ein, um den echten apulischen romanischen Stil zu erleben, am besten am frühen Morgen für ruhige Fotos.",
+            "hu": "Lépjen be ebbe a bájos kőtemplomba, hogy megtapasztalja az autentikus apuliai román stílust, amelyet a kora reggeli csendes fotózáshoz ajánlunk.",
+            "ro": "Intrați în această fermecătoare biserică de piatră pentru a admira stilul romanic apulian, fiind ideal de vizitat dimineața devreme pentru fotografii.",
+            "en": "Step inside this charming stone church to experience authentic Apulian Romanesque style, best visited in the early morning for quiet photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Sant'Adoeno",
+            "hu": "Sant'Adoeno templom",
+            "ro": "Biserica Sant'Adoeno",
+            "en": "Church of Sant'Adoeno"
+          },
+          "coords": [
+            16.504525,
+            41.240852
+          ],
+          "category": "religious",
+          "arrive_at": "12:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Erkunden Sie den einzigartigen Grundriss dieser alten, einem weniger bekannten Heiligen geweihten Pfarrkirche, und achten Sie auf das geschnitzte Hauptportal.",
+            "hu": "Fedezze fel a kevésbé ismert szentnek szentelt ősi plébániatemplom egyedi elrendezését, és feltétlenül vegye szemügyre a gyönyörűen faragott főportált.",
+            "ro": "Explorați structura unică a acestei vechi parohii închinate unui sfânt mai puțin cunoscut, acordând atenție deosebită portalului principal frumos sculptat.",
+            "en": "Explore the unique layout of this ancient parish church dedicated to a lesser-known saint, keeping an eye out for the beautifully carved main portal."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa del Purgatorio",
+            "hu": "Purgatórium templom",
+            "ro": "Biserica Purgatoriului",
+            "en": "Church of Purgatory"
+          },
+          "coords": [
+            16.505676,
+            41.240674
+          ],
+          "category": "religious",
+          "arrive_at": "12:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Beachten Sie die Totenkopfmotive an der Fassade dieser faszinierenden Kirche im Herzen der Fußgängerzone, die sich dem Jenseits widmet.",
+            "hu": "Figyelje meg a túlvilágra összpontosító, lenyűgöző templom homlokzatát díszítő koponyamotívumokat, amely közvetlenül a sétálóutca szívében található.",
+            "ro": "Observați motivele cu cranii de pe fațada acestei fascinante biserici dedicate vieții de apoi, situată chiar în inima zonei pietonale liniștite.",
+            "en": "Notice the skull motifs adorning the facade of this fascinating church centered on the afterlife, located right in the heart of the pedestrian zone."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Diocesano",
+            "hu": "Egyházmegyei Múzeum",
+            "ro": "Muzeul Diocesan",
+            "en": "Diocesan Museum"
+          },
+          "coords": [
+            16.503787,
+            41.242267
+          ],
+          "category": "museum",
+          "arrive_at": "13:42",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Betrachten Sie religiöse Kunstwerke und wertvolle Reliquien zur spirituellen Geschichte der Diözese, und fragen Sie nach wechselnden Ausstellungen.",
+            "hu": "Tekintse meg a vallási műalkotásokat és értékes ereklyéket, amelyek az egyházmegye spirituális történetét mutatják be, és érdeklődjön az időszakos kiállításokról.",
+            "ro": "Vizionați opere de artă religioasă și relicve prețioase ce reflectă istoria spirituală a eparhiei și întrebați la recepție despre expozițiile temporare.",
+            "en": "View religious artworks and precious relics that map the spiritual history of the diocese, and ask the front desk about any temporary exhibitions."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit Ausstellungen im Museo Civico, gefolgt von der ruhigen Passavia-Kirche. Mittags erkunden Sie das Design von Santa Margherita und Sant'Adoeno. Nachmittags besuchen Sie Purgatorio und das Museo Diocesano. Der Abend lädt zu einem entspannten Spaziergang in der Altstadt ein.",
+        "hu": "A reggel a Museo Civico kiállításaival indul, majd a csendes Passavia templom következik. Délben a Santa Margherita és a Sant'Adoeno dizájnját csodálhatjuk meg. Délután a Purgatorio és a Diocesano gyűjteményeket fedezzük fel. Az este egy pihentető sétára csábít a hangulatos óvárosban.",
+        "ro": "Dimineața începe cu expozițiile de la Museo Civico, urmată de biserica liniștită Passavia. La prânz admirăm designul bisericilor Santa Margherita și Sant'Adoeno. După-amiaza explorăm Purgatorio și colecțiile Muzeului Diocesan. Seara vă invită la o plimbare relaxantă în orașul vechi plin de farmec.",
+        "en": "Morning begins at Museo Civico's cultural exhibits, then the peaceful Passavia church. Midday brings Santa Margherita and Sant'Adoeno's intricate designs. Afternoon explores the fascinating Purgatorio and Diocesano collections. Evening invites a relaxing stroll in the ambient old town."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:16",
+      "total_km": 2.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo Civico di Bisceglie",
+            "hu": "Bisceglie Városi Múzeum",
+            "ro": "Muzeul Civic din Bisceglie",
+            "en": "Civic Museum of Bisceglie"
+          },
+          "coords": [
+            16.50285,
+            41.241039
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie in diesem historischen Museum archäologische Funde aus der Region, und informieren Sie sich am besten vorab über die Öffnungszeiten.",
+            "hu": "Fedezze fel a helyi régészeti leleteket ebben a régió múltját bemutató múzeumban, de indulás előtt mindenképpen ellenőrizze a nyitvatartási időt.",
+            "ro": "Descoperiți descoperiri arheologice locale în acest muzeu istoric care prezintă trecutul regiunii și verificați programul de vizitare în prealabil.",
+            "en": "Discover local archaeological finds in this historic museum that chronicles the region's past, and be sure to check the opening hours beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Sant'Adoeno",
+            "hu": "Sant'Adoeno templom",
+            "ro": "Biserica Sant'Adoeno",
+            "en": "Church of Sant'Adoeno"
+          },
+          "coords": [
+            16.504525,
+            41.240852
+          ],
+          "category": "religious",
+          "arrive_at": "10:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie den einzigartigen Grundriss dieser alten, einem weniger bekannten Heiligen geweihten Pfarrkirche, und achten Sie auf das geschnitzte Hauptportal.",
+            "hu": "Fedezze fel a kevésbé ismert szentnek szentelt ősi plébániatemplom egyedi elrendezését, és feltétlenül vegye szemügyre a gyönyörűen faragott főportált.",
+            "ro": "Explorați structura unică a acestei vechi parohii închinate unui sfânt mai puțin cunoscut, acordând atenție deosebită portalului principal frumos sculptat.",
+            "en": "Explore the unique layout of this ancient parish church dedicated to a lesser-known saint, keeping an eye out for the beautifully carved main portal."
+          }
+        },
+        {
+          "name": {
+            "de": "La Conchiglia",
+            "hu": "La Conchiglia",
+            "ro": "La Conchiglia",
+            "en": "La Conchiglia"
+          },
+          "coords": [
+            16.508204,
+            41.244018
+          ],
+          "category": "recreational",
+          "arrive_at": "11:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem malerischen Küstenort, der sich perfekt für eine Nachmittagspause eignet, und genießen Sie ein Gelato im nahen Café.",
+            "hu": "Pihenjen meg ezen a festői tengerparti szakaszon, amely tökéletes egy délutáni szünethez, ahol egy közeli kávézóban frissítő fagylaltot is fogyaszthat.",
+            "ro": "Relaxați-vă pe acest mal pitoresc al mării, perfect pentru o pauză de după-amiază, unde veți găsi cu ușurință o cafenea apropiată pentru o înghețată.",
+            "en": "Relax along this picturesque coastal spot perfect for an afternoon break, where you can easily find a nearby cafe to grab a refreshing gelato."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido La Salata",
+            "hu": "Lido La Salata",
+            "ro": "Lido La Salata",
+            "en": "Lido La Salata"
+          },
+          "coords": [
+            16.495416,
+            41.250103
+          ],
+          "category": "recreational",
+          "arrive_at": "12:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die Meeresbrise und das klare Wasser in diesem beliebten Strandclub, kommen Sie frühzeitig, um in den Sommermonaten eine Liege zu ergattern.",
+            "hu": "Élvezze a tengeri szellőt és a tiszta vizet ezen a népszerű helyi strandon, és érkezzen korán, hogy a meleg nyári hónapokban jó napágyat foglalhasson.",
+            "ro": "Bucurați-vă de briza mării și de apa limpede la acest club de plajă popular, dar ajungeți devreme pentru a vă asigura un șezlong bun în lunile de vară.",
+            "en": "Enjoy the sea breeze and the clear waters at this popular local beach club, arriving early to secure a good sunbed during the warm summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Tuka",
+            "hu": "Tuka",
+            "ro": "Tuka",
+            "en": "Tuka"
+          },
+          "coords": [
+            16.496402,
+            41.250016
+          ],
+          "category": "recreational",
+          "arrive_at": "14:12",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.08,
+          "tip_5lang": {
+            "de": "Machen Sie einen gemütlichen Spaziergang in dieser lebhaften Küstengegend, die für ihre entspannte Atmosphäre bekannt ist und sich ideal für einen Drink eignet.",
+            "hu": "Tegyen egy kényelmes sétát ebben a laza hangulatáról ismert, nyüzsgő tengerparti övezetben, amely kiváló hely egy hűsítő ital elfogyasztásához.",
+            "ro": "Faceți o plimbare relaxantă în această zonă de coastă vibrantă, recunoscută pentru atmosfera liniștită, ideală pentru a savura o băutură rece pe înserat.",
+            "en": "Take a leisurely stroll near this vibrant coastal area known for its relaxed atmosphere, a great place to sit back with a cool drink as the sun lowers."
+          }
+        },
+        {
+          "name": {
+            "de": "Mare Blù",
+            "hu": "Mare Blù",
+            "ro": "Mare Blù",
+            "en": "Mare Blù"
+          },
+          "coords": [
+            16.487834,
+            41.250061
+          ],
+          "category": "recreational",
+          "arrive_at": "15:31",
+          "stay_min": 105,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Tanken Sie die mediterrane Sonne an diesem malerischen Küstenstreifen mit herrlich blauer Aussicht, und bringen Sie Badeschuhe für den steinigen Einstieg mit.",
+            "hu": "Szívja magába a mediterrán napsütést ezen a festői, gyönyörű kék panorámát kínáló partszakaszon, és hozzon magával vizicipőt a kissé sziklás bejárathoz.",
+            "ro": "Bucurați-vă de soarele mediteranean pe acest tronson pitoresc de coastă cu peisaje albastre superbe, purtând încălțăminte de apă pentru accesul stâncos.",
+            "en": "Soak up the Mediterranean sun at this scenic shoreline stretch that offers beautiful blue vistas, bringing water shoes for the slightly rocky entry."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie zum Museo Civico und Sant'Adoeno, um mit Geschichte zu starten. Mittags fahren Sie zur Küste für eine Pause bei La Conchiglia. Nachmittags geht es an der Küste weiter zum Lido La Salata und Tuka. Beenden Sie den Abend am Mare Blù und beobachten Sie die Wellen beim apulischen Sonnenuntergang.",
+        "hu": "Tekerjen a Museo Civicohoz és a Sant'Adoenohoz, hogy történelemmel kezdje a napot. Délben irány a part egy kis szünetre a La Conchiglia-nál. Délután haladjon tovább a part mentén a nyüzsgő Lido La Salatához és a Tukához. Fejezze be az estét a Mare Blùnál, a gyönyörű apuliai naplementét nézve.",
+        "ro": "Pedalați spre Museo Civico și Sant'Adoeno pentru un început istoric. La prânz, mergeți spre coastă pentru o pauză la La Conchiglia. După-amiaza continuați pe țărm spre plinul de viață Lido La Salata și Tuka. Terminați seara la Mare Blù, admirând valurile sub apusul superb de soare din Apulia.",
+        "en": "Pedal to Museo Civico and Sant'Adoeno to start your day with history. Midday, ride to the coast for a well-deserved break at La Conchiglia. Afternoon continues along the shoreline to the lively Lido La Salata and Tuka. Finish the evening at Mare Blù, watching waves under the beautiful Apulian sunset."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 3.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Chiesa di San Silvestro",
+            "hu": "San Silvestro templom",
+            "ro": "Biserica San Silvestro",
+            "en": "Church of San Silvestro"
+          },
+          "coords": [
+            16.497392,
+            41.233621
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Reise an dieser alten religiösen Stätte, die für ihre historische Bedeutung bekannt ist, und verhalten Sie sich während der Gottesdienste ruhig.",
+            "hu": "Kezdje útját ezen a történelmi jelentőségéről híres ősi vallási helyszínen, de ügyeljen arra, hogy csendesen közlekedjen, ha éppen szertartás zajlik.",
+            "ro": "Începeți călătoria la acest vechi sit religios renumit pentru importanța sa istorică, asigurându-vă că păstrați liniștea în cazul desfășurării unei slujbe.",
+            "en": "Start your journey at this ancient religious site renowned for its historical significance, making sure to walk quietly if a service is taking place."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Diocesano",
+            "hu": "Egyházmegyei Múzeum",
+            "ro": "Muzeul Diocesan",
+            "en": "Diocesan Museum"
+          },
+          "coords": [
+            16.503787,
+            41.242267
+          ],
+          "category": "museum",
+          "arrive_at": "09:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Betrachten Sie religiöse Kunstwerke und wertvolle Reliquien zur spirituellen Geschichte der Diözese, und fragen Sie nach wechselnden Ausstellungen.",
+            "hu": "Tekintse meg a vallási műalkotásokat és értékes ereklyéket, amelyek az egyházmegye spirituális történetét mutatják be, és érdeklődjön az időszakos kiállításokról.",
+            "ro": "Vizionați opere de artă religioasă și relicve prețioase ce reflectă istoria spirituală a eparhiei și întrebați la recepție despre expozițiile temporare.",
+            "en": "View religious artworks and precious relics that map the spiritual history of the diocese, and ask the front desk about any temporary exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "La Conchiglia",
+            "hu": "La Conchiglia",
+            "ro": "La Conchiglia",
+            "en": "La Conchiglia"
+          },
+          "coords": [
+            16.508204,
+            41.244018
+          ],
+          "category": "recreational",
+          "arrive_at": "11:34",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem malerischen Küstenort, der sich perfekt für eine Nachmittagspause eignet, und genießen Sie ein Gelato im nahen Café.",
+            "hu": "Pihenjen meg ezen a festői tengerparti szakaszon, amely tökéletes egy délutáni szünethez, ahol egy közeli kávézóban frissítő fagylaltot is fogyaszthat.",
+            "ro": "Relaxați-vă pe acest mal pitoresc al mării, perfect pentru o pauză de după-amiază, unde veți găsi cu ușurință o cafenea apropiată pentru o înghețată.",
+            "en": "Relax along this picturesque coastal spot perfect for an afternoon break, where you can easily find a nearby cafe to grab a refreshing gelato."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido La Salata",
+            "hu": "Lido La Salata",
+            "ro": "Lido La Salata",
+            "en": "Lido La Salata"
+          },
+          "coords": [
+            16.495416,
+            41.250103
+          ],
+          "category": "recreational",
+          "arrive_at": "12:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die Meeresbrise und das klare Wasser in diesem beliebten Strandclub, kommen Sie frühzeitig, um in den Sommermonaten eine Liege zu ergattern.",
+            "hu": "Élvezze a tengeri szellőt és a tiszta vizet ezen a népszerű helyi strandon, és érkezzen korán, hogy a meleg nyári hónapokban jó napágyat foglalhasson.",
+            "ro": "Bucurați-vă de briza mării și de apa limpede la acest club de plajă popular, dar ajungeți devreme pentru a vă asigura un șezlong bun în lunile de vară.",
+            "en": "Enjoy the sea breeze and the clear waters at this popular local beach club, arriving early to secure a good sunbed during the warm summer months."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia La Testa",
+            "hu": "Spiaggia La Testa",
+            "ro": "Spiaggia La Testa",
+            "en": "Spiaggia La Testa"
+          },
+          "coords": [
+            16.483502,
+            41.253936
+          ],
+          "category": "recreational",
+          "arrive_at": "14:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an den Kiesstränden dieses ruhigen Strandes mit hervorragenden Badebedingungen, aber packen Sie Snacks ein, da es kaum Einrichtungen gibt.",
+            "hu": "Kapcsolódjon ki ezen a csendes kavicsos strandon, amely kiváló úszási lehetőséget kínál, de vigyen magával harapnivalót, mert kevés a szolgáltatás.",
+            "ro": "Relaxați-vă pe malurile cu pietriș ale acestei plaje liniștite care oferă condiții excelente de înot, dar aduceți gustări deoarece facilitățile sunt limitate.",
+            "en": "Unwind on the pebbled shores of this quiet beach which provides excellent swimming conditions, but remember there are limited facilities so pack snacks."
+          }
+        },
+        {
+          "name": {
+            "de": "Golden Cliff",
+            "hu": "Arany Szikla",
+            "ro": "Golden Cliff",
+            "en": "Golden Cliff"
+          },
+          "coords": [
+            16.48298,
+            41.255041
+          ],
+          "category": "recreational",
+          "arrive_at": "15:25",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an den beeindruckenden natürlichen Felsformationen mit weitem Blick aufs Meer ausklingen, ein perfekter, romantischer Ort für den Sonnenuntergang.",
+            "hu": "Zárja a napot a lenyűgöző természetes sziklaalakzatok és a hatalmas tengeri panoráma megcsodálásával, amely tökéletes és romantikus hely a naplemente megtekintéséhez.",
+            "ro": "Încheiați ziua admirând formațiunile stâncoase naturale uimitoare și priveliștile vaste asupra oceanului, un loc perfect și romantic pentru a privi apusul soarelui.",
+            "en": "Conclude your day admiring the stunning natural rock formations and sweeping ocean views, a perfect and romantic spot to watch the sun dip below the horizon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zum alten San Silvestro, dann zu den Schätzen des Diocesano. Mittags erleben Sie den Charme von La Conchiglia. Der Nachmittag bietet Entspannung am klaren Wasser des Lido La Salata und der Spiaggia La Testa. Beenden Sie den Tag am Golden Cliff mit Felsformationen und Meerblick.",
+        "hu": "Vezessen az ősi San Silvestróhoz, majd fedezze fel a Diocesano kincseit. Délben a La Conchiglia tengerparti varázsa várja. A délután a Lido La Salata és a Spiaggia La Testa tiszta vizénél telik. Zárja a napot a Golden Cliff drámai sziklaalakzatainál és hatalmas óceáni kilátásánál.",
+        "ro": "Conduceți la vechiul San Silvestro, apoi explorați comorile Diocesano. La prânz ajungeți la farmecul de coastă al La Conchiglia. După-amiaza vă relaxați la apele limpezi de la Lido La Salata și Spiaggia La Testa. Încheiați ziua perfect la Golden Cliff pentru formațiuni stâncoase și vederi oceanice.",
+        "en": "Drive to ancient San Silvestro, then explore Diocesano's treasures. Midday brings you to the coastal charm of La Conchiglia. Afternoon means relaxing by the clear waters of Lido La Salata and Spiaggia La Testa. End the day perfectly at Golden Cliff for dramatic rock formations and sweeping ocean views."
+      }
+    }
+  }
+}

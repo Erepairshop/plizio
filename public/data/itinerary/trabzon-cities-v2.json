@@ -1,0 +1,451 @@
+{
+  "city_id": "trabzon-cities-v2",
+  "anchor": {
+    "name": "Trabzon",
+    "coords": [
+      39.7167,
+      41.0
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "19:10",
+      "total_km": 1.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Trabzon Ortahisar History Museum",
+            "hu": "Trabzon Ortahisar Történeti Múzeum",
+            "ro": "Muzeul de Istorie Trabzon Ortahisar",
+            "en": "Trabzon Ortahisar History Museum"
+          },
+          "coords": [
+            39.721144,
+            41.004977
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die tief verwurzelte Vergangenheit der Stadt anhand lokaler Artefakte und beginnen Sie im obersten Stockwerk, wo die chronologischen Ausstellungen morgens ruhiger sind.",
+            "hu": "Fedezze fel a város mélyen gyökerező múltját a gazdag helyi leleteken keresztül, és kezdje a legfelső emeleten, ahol a kronológiai kiállítások reggelente kevésbé zsúfoltak.",
+            "ro": "Explorați trecutul orașului prin artefacte locale și asigurați-vă că începeți la ultimul etaj, unde expozițiile cronologice sunt mult mai libere în primele ore ale dimineții.",
+            "en": "Explore the deep-rooted past of the city through rich local artifacts, and be sure to start on the top floor where the chronological exhibits are less crowded in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Trabzon Literature Museum",
+            "hu": "Trabzon Irodalmi Múzeum",
+            "ro": "Muzeul de Literatură din Trabzon",
+            "en": "Trabzon Literature Museum"
+          },
+          "coords": [
+            39.718766,
+            41.004533
+          ],
+          "category": "museum",
+          "arrive_at": "10:53",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie das literarische Erbe der Region anhand von Originalmanuskripten und bringen Sie ein Notizbuch mit, da die ruhigen Leseecken einen perfekten Ort zum Nachdenken bieten.",
+            "hu": "Fedezze fel a régió irodalmi örökségét az eredeti kéziratok megtekintésével, és hozzon magával egy kis jegyzetfüzetet, mivel a csendes olvasósarkok tökéletes helyet kínálnak.",
+            "ro": "Descoperiți moștenirea literară a regiunii vizualizând manuscrise originale și aduceți un mic caiet, deoarece colțurile liniștite de lectură oferă un spațiu perfect.",
+            "en": "Discover the literary heritage of the region by viewing original manuscripts, and bring a small notebook as the quiet reading nooks provide a perfect space for reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Zaganos Pasha Tower",
+            "hu": "Zaganos pasa torony",
+            "ro": "Turnul Zaganos Pasha",
+            "en": "Zaganos Pasha Tower"
+          },
+          "coords": [
+            39.71687,
+            41.004552
+          ],
+          "category": "castle",
+          "arrive_at": "12:36",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Bewundern Sie die robuste Architektur dieser historischen Festung mit toller Aussicht und tragen Sie festes Schuhwerk, um die unebenen Steinstufen nach oben sicher zu bewältigen.",
+            "hu": "Csodálja meg a történelmi erődítmény robusztus építészetét, amely kiváló kilátást nyújt, és viseljen masszív cipőt a felvezető egyenetlen kőlépcsők biztonságos leküzdéséhez.",
+            "ro": "Admirați arhitectura robustă a acestei fortificații istorice care oferă priveliști excelente și purtați încălțăminte adecvată pentru a urca în siguranță treptele denivelate.",
+            "en": "Admire the robust architecture of this historic fortification which offers excellent views, and wear sturdy shoes to safely navigate the uneven stone steps leading to the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Multi-Purpose Hall (St. John's Church)",
+            "hu": "Szent János-templom",
+            "ro": "Biserica Sf. Ioan",
+            "en": "Multi-Purpose Hall (St. John's Church)"
+          },
+          "coords": [
+            39.715027,
+            41.007871
+          ],
+          "category": "cultural",
+          "arrive_at": "14:02",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die erhaltenen Fresken dieser alten Kirche, die als Kulturraum dient, und prüfen Sie das Schild draußen auf spontane Abendkonzerte in diesem akustischen Wunder.",
+            "hu": "Csodálja meg ennek a kulturális térré alakított régi templomnak a freskóit, és nézze meg a kinti hirdetőtáblát az ezen akusztikai csodában tartott esti koncertek miatt.",
+            "ro": "Minunați-vă de frescele conservate ale acestei biserici devenite spațiu cultural și verificați panoul pentru concertele de seară susținute în această minune acustică.",
+            "en": "Marvel at the preserved frescoes of this ancient church turned cultural space, and check the notice board outside for impromptu evening concerts held in this acoustic marvel."
+          }
+        },
+        {
+          "name": {
+            "de": "Trabzon Museum",
+            "hu": "Trabzon Múzeum",
+            "ro": "Muzeul Trabzon",
+            "en": "Trabzon Museum"
+          },
+          "coords": [
+            39.726552,
+            41.00501
+          ],
+          "category": "museum",
+          "arrive_at": "15:17",
+          "stay_min": 100,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Betreten Sie diese elegante Villa, um faszinierende archäologische Funde aus byzantinischer Zeit zu sehen, und bewundern Sie die aufwendigen Holzarbeiten an der Haupttreppe.",
+            "hu": "Lépjen be ebbe az elegáns kúriába, ahol lenyűgöző bizánci régészeti leleteket láthat, és szánjon egy percet a főlépcső bonyolult famunkáinak megcsodálására a séta során.",
+            "ro": "Intrați în acest conac elegant pentru a vedea descoperiri arheologice fascinante din era bizantină și acordați un moment pentru a admira lemnăria complexă a scării principale.",
+            "en": "Step into this elegant mansion to view fascinating archaeological finds from the Byzantine era, and take a moment to admire the intricate woodwork on the main staircase."
+          }
+        },
+        {
+          "name": {
+            "de": "Trabzon City Museum",
+            "hu": "Trabzon Városi Múzeum",
+            "ro": "Muzeul Orașului Trabzon",
+            "en": "Trabzon City Museum"
+          },
+          "coords": [
+            39.728054,
+            41.005964
+          ],
+          "category": "museum",
+          "arrive_at": "17:00",
+          "stay_min": 130,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch interaktive Dioramen in den Alltag und die Traditionen des alten Trabzon ein und nehmen Sie sich Zeit für den Audioguide, der den Ausstellungen Kontext verleiht.",
+            "hu": "Merüljön el a régi Trabzon mindennapi életében és hagyományaiban az interaktív diorámák segítségével, és szánjon időt az audióguide-ra, amely színes kontextust ad a látottakhoz.",
+            "ro": "Cufundați-vă în viața de zi cu zi și tradițiile vechiului Trabzon prin diorame interactive și rezervați timp pentru ghidul audio care oferă un context colorat expozițiilor.",
+            "en": "Immerse yourself in the daily life and traditions of old Trabzon through interactive dioramas, and save time for the audio guide which provides colorful context to the displays."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie im Herzen von Trabzon im Ortahisar History Museum und entdecken Sie die Wurzeln der Region, bevor Sie zum Literaturmuseum gehen.\nMidday: Wandern Sie zum Zaganos Pasha Tower für atemberaubende Ausblicke und besuchen Sie die Johanneskirche, um das kulturelle Erbe zu bewundern.\nAfternoon: Tauchen Sie im Trabzon Museum tiefer in die Vergangenheit ein, wo Artefakte die Epochen der Stadt präsentieren.\nEvening: Schließen Sie mit einer Erkundung des Trabzon City Museum ab und nehmen Sie die Alltagstraditionen auf, bevor Sie zu Abend essen.",
+        "hu": "Morning: Kezdje a napot Trabzon szívében az Ortahisar Történeti Múzeumban, majd fedezze fel a közeli Irodalmi Múzeumot a régió gyökereinek megismeréséhez.\nMidday: Sétáljon el a lenyűgöző Zaganos pasa toronyhoz, majd látogasson el a Szent János-templomba, hogy megcsodálja kulturális örökségét.\nAfternoon: Merüljön el a múltban a Trabzon Múzeumban, ahol a bizánci leletek a város aranykorát mutatják be.\nEvening: Zárja a napot a Trabzon Városi Múzeum felfedezésével, magába szívva a pezsgő mindennapi hagyományokat egy kellemes vacsora előtt.",
+        "ro": "Morning: Începeți în inima orașului Trabzon la Muzeul de Istorie Ortahisar, descoperind rădăcinile regiunii înainte de a merge la Muzeul de Literatură.\nMidday: Plimbați-vă până la Turnul Zaganos Pasha pentru priveliști uluitoare, urmat de o vizită la Biserica Sf. Ioan pentru a-i admira moștenirea culturală.\nAfternoon: Aprofundați trecutul la Muzeul Trabzon, unde artefactele prezintă cu mândrie epocile de aur ale orașului.\nEvening: Încheiați cu o explorare a Muzeului Orașului Trabzon, absorbind tradițiile vibrante ale vieții de zi cu zi înainte de cină.",
+        "en": "Morning: Start in the heart of Trabzon at the Ortahisar History Museum, discovering the region's roots before heading to the nearby Literature Museum.\nMidday: Wander to the impressive Zaganos Pasha Tower for breathtaking views, followed by a visit to the multi-purpose St. John's Church to admire its cultural heritage.\nAfternoon: Delve deeper into the past at the Trabzon Museum, where Byzantine artifacts showcase the city's golden eras.\nEvening: Conclude with a relaxed exploration of the Trabzon City Museum, absorbing the vibrant daily life traditions before enjoying dinner nearby."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:38",
+      "total_km": 3.88,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ayasofya Plajı",
+            "hu": "Ayasofya Plajı",
+            "ro": "Ayasofya Plajı",
+            "en": "Ayasofya Plajı"
+          },
+          "coords": [
+            39.698193,
+            41.006883
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen erfrischenden Morgenspaziergang entlang der Küste, wo das lokale Leben auf das Meer trifft, und trinken Sie einen frisch gebrühten Tee von den Händlern.",
+            "hu": "Élvezze a frissítő reggeli sétát a tengerpart mentén, ahol a helyi élet találkozik a tengerrel, és igyon egy frissen főzött teát a közeli árusoktól, miközben a hullámokat nézi.",
+            "ro": "Bucurați-vă de o plimbare răcoritoare dimineața de-a lungul coastei, unde viața locală se întâlnește cu marea, și luați un ceai proaspăt pentru a-l savura privind valurile.",
+            "en": "Enjoy a refreshing morning walk along the coastline where local life meets the sea, and grab a freshly brewed tea from the nearby vendors to sip as you watch the gentle waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Trabzon Zaman Tüneli",
+            "hu": "Trabzon Időalagút",
+            "ro": "Tunelul Timpului Trabzon",
+            "en": "Trabzon Zaman Tüneli"
+          },
+          "coords": [
+            39.708475,
+            41.004149
+          ],
+          "category": "museum",
+          "arrive_at": "10:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Gehen Sie durch dieses einzigartige Zeittunnel-Museum, um die dramatische Geschichte der Stadt zu erleben, und halten Sie an den digitalen Bildschirmen für englische Untertitel.",
+            "hu": "Sétáljon át ezen az egyedülálló időalagút-múzeumon, hogy megtapasztalja a város drámai történetét, és álljon meg a digitális képernyőknél a részletes angol feliratok elolvasásához.",
+            "ro": "Plimbați-vă prin acest muzeu unic al tunelului timpului pentru a experimenta istoria orașului și opriți-vă la ecranele digitale la jumătatea drumului pentru subtitrările englezești.",
+            "en": "Walk through this unique time tunnel museum to experience the dramatic history of the city, and pause at the digital screens halfway through to read the detailed English captions."
+          }
+        },
+        {
+          "name": {
+            "de": "Zaganos Pasha Tower",
+            "hu": "Zaganos pasa torony",
+            "ro": "Turnul Zaganos Pasha",
+            "en": "Zaganos Pasha Tower"
+          },
+          "coords": [
+            39.71687,
+            41.004552
+          ],
+          "category": "castle",
+          "arrive_at": "12:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die robuste Architektur dieser historischen Festung mit toller Aussicht und tragen Sie festes Schuhwerk, um die unebenen Steinstufen nach oben sicher zu bewältigen.",
+            "hu": "Csodálja meg a történelmi erődítmény robusztus építészetét, amely kiváló kilátást nyújt, és viseljen masszív cipőt a felvezető egyenetlen kőlépcsők biztonságos leküzdéséhez.",
+            "ro": "Admirați arhitectura robustă a acestei fortificații istorice care oferă priveliști excelente și purtați încălțăminte adecvată pentru a urca în siguranță treptele denivelate.",
+            "en": "Admire the robust architecture of this historic fortification which offers excellent views, and wear sturdy shoes to safely navigate the uneven stone steps leading to the top."
+          }
+        },
+        {
+          "name": {
+            "de": "Trabzon City Museum",
+            "hu": "Trabzon Városi Múzeum",
+            "ro": "Muzeul Orașului Trabzon",
+            "en": "Trabzon City Museum"
+          },
+          "coords": [
+            39.728054,
+            41.005964
+          ],
+          "category": "museum",
+          "arrive_at": "13:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch interaktive Dioramen in den Alltag und die Traditionen des alten Trabzon ein und nehmen Sie sich Zeit für den Audioguide, der den Ausstellungen Kontext verleiht.",
+            "hu": "Merüljön el a régi Trabzon mindennapi életében és hagyományaiban az interaktív diorámák segítségével, és szánjon időt az audióguide-ra, amely színes kontextust ad a látottakhoz.",
+            "ro": "Cufundați-vă în viața de zi cu zi și tradițiile vechiului Trabzon prin diorame interactive și rezervați timp pentru ghidul audio care oferă un context colorat expozițiilor.",
+            "en": "Immerse yourself in the daily life and traditions of old Trabzon through interactive dioramas, and save time for the audio guide which provides colorful context to the displays."
+          }
+        },
+        {
+          "name": {
+            "de": "Nemlioğlu Konağı",
+            "hu": "Nemlioğlu Konağı",
+            "ro": "Nemlioğlu Konağı",
+            "en": "Nemlioğlu Konağı"
+          },
+          "coords": [
+            39.728057,
+            41.00168
+          ],
+          "category": "historical",
+          "arrive_at": "15:23",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Fotografieren Sie die wunderschöne osmanische Architektur dieser historischen Residenz und besuchen Sie sie am späten Nachmittag, um das Licht auf der Holzfassade einzufangen.",
+            "hu": "Fényképezze le ennek a történelmi rezidenciának a gyönyörű oszmán építészetét, és látogasson el késő délután, hogy megörökítse az arany óra fényét, ami a fa homlokzaton tükröződik.",
+            "ro": "Fotografiați frumoasa arhitectură otomană a acestei reședințe istorice și vizitați după-amiaza târziu pentru a surprinde lumina orei de aur reflectată pe fațada din lemn.",
+            "en": "Photograph the beautiful Ottoman architecture of this historic residence, and visit during the late afternoon to capture the golden hour light reflecting off its wooden facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Guzelhisar Castle",
+            "hu": "Guzelhisar vára",
+            "ro": "Castelul Guzelhisar",
+            "en": "Guzelhisar Castle"
+          },
+          "coords": [
+            39.734673,
+            41.007758
+          ],
+          "category": "castle",
+          "arrive_at": "16:48",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.86,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit der Erkundung der antiken Ruinen dieser erhöhten Festung und bringen Sie ein Weitwinkelobjektiv mit, um den atemberaubenden Sonnenuntergang einzufangen.",
+            "hu": "Zárja a napot ennek a magaslati erődnek az ősi romjainak felfedezésével, és hozzon magával nagylátószögű objektívet, hogy megörökítse a lenyűgöző panorámás naplementét a tengeren.",
+            "ro": "Încheiați-vă ziua explorând ruinele antice ale acestei fortărețe înalte și aduceți un obiectiv cu unghi larg pentru a surprinde priveliștile panoramice uimitoare la apusul soarelui.",
+            "en": "Conclude your day exploring the ancient ruins of this elevated fortress, and bring a wide-angle lens to capture the stunning panoramic sunset views over the entire Black Sea coast."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie mit einer erfrischenden Radtour am Ayasofya Plajı, bevor Sie in die interaktiven Ausstellungen im Trabzon Zaman Tüneli eintauchen.\nMidday: Radeln Sie zum historischen Zaganos Pasha Tower, bewundern Sie die Festungsanlagen und machen Sie eine wohlverdiente Mittagspause.\nAfternoon: Fahren Sie weiter ins Zentrum, erkunden Sie das Trabzon City Museum und bestaunen Sie die traditionelle Architektur des Nemlioğlu Konağı.\nEvening: Beenden Sie Ihren aktiven Tag mit einem Anstieg zum Guzelhisar Castle, wo Sie den atemberaubenden Sonnenuntergang über dem Schwarzen Meer beobachten.",
+        "hu": "Morning: Kezdje a napot egy frissítő kerékpározással az Ayasofya Plajı mellett, majd merüljön el az interaktív Trabzon Zaman Tüneli kiállításaiban.\nMidday: Tekerjen el a történelmi Zaganos pasa toronyhoz, csodálja meg a hatalmas erődítményeket, és tartson egy jól megérdemelt ebédszünetet a közelben.\nAfternoon: Folytassa útját a városközpont felé, fedezze fel a Trabzon Városi Múzeumot, és csodálja meg a hagyományos Nemlioğlu Konağı szépségét.\nEvening: Fejezze be aktív napját egy kellemes emelkedővel a Guzelhisar várba, ahol végignézheti a felejthetetlen naplementét a Fekete-tenger partja felett.",
+        "ro": "Morning: Începeți cu o plimbare revigorantă cu bicicleta pe lângă Ayasofya Plajı, înainte de a vă scufunda în expozițiile interactive de la Trabzon Zaman Tüneli.\nMidday: Pedalați până la istoricul Turn Zaganos Pasha, admirând fortificațiile magnifice și oprindu-vă pentru un prânz pitoresc bine meritat.\nAfternoon: Continuați spre centrul orașului, explorând Muzeul Orașului Trabzon și admirând minunatul și tradiționalul Nemlioğlu Konağı.\nEvening: Terminați-vă ziua activă cu o urcare către Castelul Guzelhisar, unde puteți urmări fabulosul apus de soare peste coasta Mării Negre.",
+        "en": "Morning: Begin with a refreshing bike ride past Ayasofya Plajı, feeling the sea breeze before diving into the interactive exhibits at the Trabzon Zaman Tüneli.\nMidday: Pedal your way to the historic Zaganos Pasha Tower, taking in the magnificent fortifications and pausing for a well-deserved scenic lunch.\nAfternoon: Continue cycling towards the city center, exploring the rich exhibits at the Trabzon City Museum and marveling at the traditional Nemlioğlu Konağı.\nEvening: Finish your active day with a steady climb to Guzelhisar Castle, where you can watch the sunset over the beautiful Black Sea coastline."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:13",
+      "total_km": 4.87,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Ataturk Pavilion Museum",
+            "hu": "Atatürk Pavilon Múzeum",
+            "ro": "Muzeul Pavilion Ataturk",
+            "en": "Ataturk Pavilion Museum"
+          },
+          "coords": [
+            39.697482,
+            40.979784
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die üppigen Gärten rund um diese ikonische weiße Villa, in der einst Atatürk residierte, und kommen Sie pünktlich zur Öffnung, um die Räume ruhig zu genießen.",
+            "hu": "Sétáljon az ikonikus fehér kúriát körülvevő buja kertekben, ahol egykor Atatürk is megszállt, és érkezzen pontosan nyitásra, hogy a tömeg nélkül élvezhesse a történelmi szobákat.",
+            "ro": "Plimbați-vă prin grădinile luxuriante care înconjoară acest conac alb iconic, unde a stat Atatürk, și ajungeți fix la deschidere pentru a vă bucura de camerele istorice în liniște.",
+            "en": "Wander through the lush gardens surrounding this iconic white mansion where Ataturk once stayed, and arrive right at opening time to enjoy the historic rooms without the crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Trabzon Aquarium",
+            "hu": "Trabzon Akvárium",
+            "ro": "Acvariul Trabzon",
+            "en": "Trabzon Aquarium"
+          },
+          "coords": [
+            39.717717,
+            41.000605
+          ],
+          "category": "family",
+          "arrive_at": "10:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die Meeresbiologie ein, indem Sie durch den Unterwassertunnel gehen, und prüfen Sie den Fütterungsplan am Eingang, um die lebhaften Hai-Interaktionen nicht zu verpassen.",
+            "hu": "Merüljön el a tengerbiológiában a lenyűgöző víz alatti alagútban sétálva, és ellenőrizze az etetési ütemtervet a bejáratnál, hogy biztosan ne maradjon le az élénk cápákról.",
+            "ro": "Scufundați-vă în biologia marină trecând prin tunelul subacvatic captivant și verificați programul de hrănire la intrare pentru a vă asigura că nu ratați interacțiunile cu rechinii.",
+            "en": "Dive into marine biology by walking through the immersive underwater tunnel, and check the feeding schedule at the entrance to ensure you do not miss the lively shark interactions."
+          }
+        },
+        {
+          "name": {
+            "de": "Trabzon Museum",
+            "hu": "Trabzon Múzeum",
+            "ro": "Muzeul Trabzon",
+            "en": "Trabzon Museum"
+          },
+          "coords": [
+            39.726552,
+            41.00501
+          ],
+          "category": "museum",
+          "arrive_at": "12:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.88,
+          "tip_5lang": {
+            "de": "Betreten Sie diese elegante Villa, um faszinierende archäologische Funde aus byzantinischer Zeit zu sehen, und bewundern Sie die aufwendigen Holzarbeiten an der Haupttreppe.",
+            "hu": "Lépjen be ebbe az elegáns kúriába, ahol lenyűgöző bizánci régészeti leleteket láthat, és szánjon egy percet a főlépcső bonyolult famunkáinak megcsodálására a séta során.",
+            "ro": "Intrați în acest conac elegant pentru a vedea descoperiri arheologice fascinante din era bizantină și acordați un moment pentru a admira lemnăria complexă a scării principale.",
+            "en": "Step into this elegant mansion to view fascinating archaeological finds from the Byzantine era, and take a moment to admire the intricate woodwork on the main staircase."
+          }
+        },
+        {
+          "name": {
+            "de": "Alacahan",
+            "hu": "Alacahan",
+            "ro": "Alacahan",
+            "en": "Alacahan"
+          },
+          "coords": [
+            39.724595,
+            41.007871
+          ],
+          "category": "cultural",
+          "arrive_at": "14:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Stöbern Sie in dieser restaurierten historischen Karawanserei durch traditionelle Handwerkskunst und Textilien und kommen Sie mit den lokalen Kunsthandwerkern ins Gespräch.",
+            "hu": "Böngésszen a hagyományos kézműves termékek és textíliák között ebben a felújított történelmi karavánszerájban, és beszélgessen a helyi kézművesekkel, akik szívesen mesélnek munkájukról.",
+            "ro": "Răsfoiți meșteșugurile și textilele tradiționale din acest caravanserai istoric restaurat și interacționați cu artizanii locali care sunt bucuroși să își explice tehnicile de țesut.",
+            "en": "Browse the traditional crafts and textiles in this restored historic caravanserai, and engage with the local artisans who are often happy to explain their intricate weaving techniques."
+          }
+        },
+        {
+          "name": {
+            "de": "Guzelhisar Castle",
+            "hu": "Guzelhisar vára",
+            "ro": "Castelul Guzelhisar",
+            "en": "Guzelhisar Castle"
+          },
+          "coords": [
+            39.734673,
+            41.007758
+          ],
+          "category": "castle",
+          "arrive_at": "15:23",
+          "stay_min": 110,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.84,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag mit der Erkundung der antiken Ruinen dieser erhöhten Festung und bringen Sie ein Weitwinkelobjektiv mit, um den atemberaubenden Sonnenuntergang einzufangen.",
+            "hu": "Zárja a napot ennek a magaslati erődnek az ősi romjainak felfedezésével, és hozzon magával nagylátószögű objektívet, hogy megörökítse a lenyűgöző panorámás naplementét a tengeren.",
+            "ro": "Încheiați-vă ziua explorând ruinele antice ale acestei fortărețe înalte și aduceți un obiectiv cu unghi larg pentru a surprinde priveliștile panoramice uimitoare la apusul soarelui.",
+            "en": "Conclude your day exploring the ancient ruins of this elevated fortress, and bring a wide-angle lens to capture the stunning panoramic sunset views over the entire Black Sea coast."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Fahren Sie zum ruhigen Ataturk Pavilion Museum und genießen Sie die elegante Architektur und die üppigen Gärten im friedlichen Morgenlicht, bevor die Massen ankommen.\nMidday: Fahren Sie in Richtung Küste zum Trabzon Aquarium für einen Tauchgang in die Meereswelt und fahren Sie dann kurz zum zentralen Trabzon Museum.\nAfternoon: Verbringen Sie den Nachmittag damit, die Artefakte zu bestaunen, bevor Sie zum lebhaften Alacahan fahren, um traditionelles Kunsthandwerk zu entdecken.\nEvening: Fahren Sie zum majestätischen Guzelhisar Castle, um die weiten Panoramablicke einzufangen, während die Sonne langsam über der schönen Stadt untergeht.",
+        "hu": "Morning: Vezessen el a csendes Atatürk Pavilon Múzeumhoz, élvezve az elegáns építészetet és a buja kerteket a békés reggeli fényben, még a nagy tömeg megérkezése előtt.\nMidday: Irány a partvidék a Trabzon Akvárium meglátogatásához, majd tegyen egy rövid utat a központi Trabzon Múzeum lenyűgöző tárlatainak megtekintéséhez.\nAfternoon: Töltse a délutánt a múzeum leleteinek megcsodálásával, mielőtt az életteli Alacahanba hajtana, hogy helyi hagyományos kézműves termékeket böngésszen.\nEvening: Hajtson fel a fenséges Guzelhisar várba egy felejthetetlen estéért, megörökítve az elsöprő panorámát, ahogy a nap lassan lenyugszik a város felett.",
+        "ro": "Morning: Conduceți la liniștitul Muzeu Pavilion Ataturk, bucurându-vă de arhitectura elegantă și de grădinile luxuriante în lumina pașnică a dimineții.\nMidday: Îndreptați-vă spre coastă pentru a vizita Acvariul din Trabzon pentru o scufundare în viața marină, apoi mergeți cu mașina până la Muzeul central Trabzon.\nAfternoon: Petreceți după-amiaza admirând artefactele din muzeu înainte de a conduce spre vibrantul Alacahan pentru a răsfoi meșteșugurile tradiționale locale.\nEvening: Conduceți până la maiestuosul Castel Guzelhisar pentru o seară absolut de neuitat, captând priveliștile panoramice vaste în timp ce soarele apune lin.",
+        "en": "Morning: Drive to the tranquil Ataturk Pavilion Museum, enjoying the elegant architecture and lush gardens in the peaceful morning light before the crowds arrive.\nMidday: Head towards the coast to visit the Trabzon Aquarium for a fun dive into marine life, then take a short drive to the central Trabzon Museum.\nAfternoon: Spend the afternoon marveling at the artifacts in the museum before driving to the vibrant Alacahan to browse traditional local crafts and textiles.\nEvening: Drive up to the majestic Guzelhisar Castle for an unforgettable evening, capturing the sweeping panoramic views as the sun slowly sets over the city."
+      }
+    }
+  }
+}

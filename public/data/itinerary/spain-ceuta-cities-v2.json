@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-ceuta-cities-v2",
+  "anchor": {
+    "name": "Ceuta",
+    "coords": [
+      -5.3,
+      35.886667
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:55",
+      "total_km": 1.34,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parador La Muralla",
+            "hu": "Parador La Muralla",
+            "ro": "Parador La Muralla",
+            "en": "Parador La Muralla"
+          },
+          "coords": [
+            -5.317789,
+            35.887984
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an den alten Stadtmauern, deren historische Gewölbe Sie beeindrucken werden, am besten bei einem morgendlichen Kaffee auf der Terrasse.",
+            "hu": "Kezdje a napot az ősi városfalaknál, melyek történelmi boltívei lenyűgözőek, és igyon meg egy reggeli kávét a szálloda panorámás teraszán.",
+            "ro": "Începeți ziua la vechile ziduri ale orașului, ale căror bolți istorice vă vor impresiona, savurând o cafea de dimineață pe terasa cu panoramă.",
+            "en": "Start your day at the ancient city walls, whose historical vaults will impress you, ideally by enjoying a morning coffee on the panoramic terrace."
+          }
+        },
+        {
+          "name": {
+            "de": "Catedral de la Asunción",
+            "hu": "Catedral de la Asunción",
+            "ro": "Catedral de la Asunción",
+            "en": "Catedral de la Asunción"
+          },
+          "coords": [
+            -5.316582,
+            35.8878
+          ],
+          "category": "religious",
+          "arrive_at": "09:37",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtige Architektur dieser zentralen Kathedrale, die auf einer alten Moschee erbaut wurde, und achten Sie auf die kunstvollen Deckengemälde.",
+            "hu": "Csodálja meg ennek a központi katedrálisnak a csodás építészetét, amely egy régi mecsetre épült, és mindenképpen figyelje meg a díszes mennyezeti freskókat.",
+            "ro": "Admirați arhitectura magnifică a acestei catedrale centrale, construită pe locul unei vechi moschei, și acordați o atenție deosebită picturilor de pe tavan.",
+            "en": "Admire the magnificent architecture of this central cathedral, built over an old mosque, and make sure to pay attention to the ornate ceiling paintings."
+          }
+        },
+        {
+          "name": {
+            "de": "Santuario de Santa María de África",
+            "hu": "Santuario de Santa María de África",
+            "ro": "Santuario de Santa María de África",
+            "en": "Santuario de Santa María de África"
+          },
+          "coords": [
+            -5.316509,
+            35.888845
+          ],
+          "category": "religious",
+          "arrive_at": "10:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses spirituelle Heiligtum, um die Statue der Schutzpatronin von Ceuta zu sehen, aber prüfen Sie vorher die Öffnungszeiten für Besucher.",
+            "hu": "Látogasson el ebbe a spirituális szentélybe, hogy megtekintse Ceuta védőszentjének szobrát, de előtte feltétlenül ellenőrizze a pontos nyitvatartási időt.",
+            "ro": "Vizitați acest sanctuar spiritual pentru a vedea statuia sfintei protectoare a orașului Ceuta, dar verificați orarul de vizitare înainte de a merge.",
+            "en": "Visit this spiritual sanctuary to see the statue of Ceuta's patron saint, but remember to check the exact visiting hours before your arrival."
+          }
+        },
+        {
+          "name": {
+            "de": "Late Roman Basilica of Ceuta",
+            "hu": "Late Roman Basilica of Ceuta",
+            "ro": "Late Roman Basilica of Ceuta",
+            "en": "Late Roman Basilica of Ceuta"
+          },
+          "coords": [
+            -5.314,
+            35.887831
+          ],
+          "category": "museum",
+          "arrive_at": "11:38",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem faszinierenden Museum in die römische Vergangenheit ein und nutzen Sie den bereitgestellten Audioguide für tiefere historische Einblicke.",
+            "hu": "Merüljön el a római múltban ebben a lenyűgöző múzeumban, és használja a rendelkezésre álló audioguide-ot a mélyebb történelmi összefüggések megértéséhez.",
+            "ro": "Pătrundeți în trecutul roman în acest muzeu fascinant și folosiți ghidul audio pus la dispoziție pentru a obține informații istorice mult mai detaliate.",
+            "en": "Delve into the Roman past at this fascinating museum, and use the provided audio guide to gain deeper historical insights into the ancient ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Marítimo del Mediterráneo",
+            "hu": "Parque Marítimo del Mediterráneo",
+            "ro": "Parque Marítimo del Mediterráneo",
+            "en": "Parque Marítimo del Mediterráneo"
+          },
+          "coords": [
+            -5.309374,
+            35.889865
+          ],
+          "category": "recreational",
+          "arrive_at": "13:25",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.47,
+          "tip_5lang": {
+            "de": "Entspannen Sie in dieser von César Manrique entworfenen Oase mit Meerwasserpools, wo Sie sich am Nachmittag auf den kostenpflichtigen Sonnenliegen ausruhen können.",
+            "hu": "Pihenjen ebben a César Manrique által tervezett tengervizes medencés oázisban, ahol délután kényelmesen megpihenhet a fizetős napozóágyakon.",
+            "ro": "Relaxați-vă în această oază cu piscine cu apă sărată concepută de César Manrique, unde vă puteți odihni după-amiaza pe șezlongurile cu plată.",
+            "en": "Relax in this oasis with seawater pools designed by César Manrique, where you can easily rest in the afternoon by renting one of the sun loungers."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de los Remedios",
+            "hu": "Iglesia de los Remedios",
+            "ro": "Iglesia de los Remedios",
+            "en": "Iglesia de los Remedios"
+          },
+          "coords": [
+            -5.305981,
+            35.888374
+          ],
+          "category": "religious",
+          "arrive_at": "14:45",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Rundgang an dieser wunderschönen Kirche im Stadtzentrum, die für ihre ruhige Atmosphäre bekannt ist und sich ideal für eine letzte Besinnung eignet.",
+            "hu": "Fejezze be sétáját ennél a gyönyörű belvárosi templomnál, amely csendes atmoszférájáról ismert, és ideális helyszín a nap végi elmélyüléshez.",
+            "ro": "Încheiați turul la această frumoasă biserică din centrul orașului, cunoscută pentru atmosfera sa liniștită, fiind locul ideal pentru o ultimă reflecție.",
+            "en": "Conclude your walk at this beautiful downtown church, known for its tranquil atmosphere, making it the ideal spot for a final moment of peaceful reflection."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt an den historischen Mauern und führt Sie durch die Gassen zur beeindruckenden Kathedrale. Am Mittag tauchen Sie im archäologischen Museum tief in die römische Geschichte ein. Der Nachmittag bietet pure Entspannung in den wunderschönen Meerwasserpools des maritimen Parks. Ein ruhiger Moment in der Iglesia de los Remedios schließt den spannenden Tag im Zentrum von Ceuta ab.",
+        "hu": "A reggel a történelmi falaknál kezdődik, és az utcákon át a lenyűgöző katedrálishoz vezet. Délben a régészeti múzeumban mélyülhet el a római történelemben. A délután tiszta pihenést kínál a tengerészeti park gyönyörű tengervizes medencéiben. Egy csendes pillanat a Los Remedios templomban zárja ezt az izgalmas napot Ceuta központjában.",
+        "ro": "Dimineața începe la zidurile istorice și vă poartă prin străduțe spre impresionanta catedrală. La prânz, pătrundeți adânc în istoria romană în muzeul arheologic. După-amiaza vă oferă o relaxare pură în frumoasele piscine cu apă sărată ale parcului maritim. Un moment de liniște la Iglesia de los Remedios încheie această zi plină de viață în centrul orașului Ceuta.",
+        "en": "The morning begins at the historic walls and leads you through the alleys to the impressive cathedral. At noon, you dive deep into Roman history within the archaeological museum. The afternoon offers pure relaxation in the beautiful seawater pools of the maritime park. A quiet moment at the Iglesia de los Remedios perfectly concludes this exciting day in central Ceuta."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:10",
+      "total_km": 4.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Jardines de la Hipica",
+            "hu": "Jardines de la Hipica",
+            "ro": "Jardines de la Hipica",
+            "en": "Jardines de la Hipica"
+          },
+          "coords": [
+            -5.327677,
+            35.894322
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Radeln Sie durch diese weitläufigen Gärten, die einen erfrischenden Start in den Tag bieten, und bleiben Sie auf den markierten Wegen, um die lokale Flora zu schonen.",
+            "hu": "Biciklizzen át ezeken a tágas kerteken, amelyek frissítő kezdést kínálnak a napnak, és maradjon a kijelölt utakon a helyi növényvilág védelme érdekében.",
+            "ro": "Biciclați prin aceste grădini spațioase care oferă un început revigorant de zi și rămâneți pe potecile marcate pentru a proteja flora locală delicată.",
+            "en": "Cycle through these spacious gardens which offer a refreshing start to your day, and be sure to stay on the marked paths to protect the local flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Muley El-Mehdi Mosque",
+            "hu": "Muley El-Mehdi Mosque",
+            "ro": "Muley El-Mehdi Mosque",
+            "en": "Muley El-Mehdi Mosque"
+          },
+          "coords": [
+            -5.324694,
+            35.885413
+          ],
+          "category": "religious",
+          "arrive_at": "10:15",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die andalusisch-maurische Architektur dieser bedeutenden Moschee von außen, da der Zutritt für Nicht-Muslime oft stark eingeschränkt ist.",
+            "hu": "Csodálja meg ennek a jelentős mecsetnek az andalúz-mór építészetét kívülről, mivel a nem muszlimok számára a belépés általában szigorúan korlátozott.",
+            "ro": "Admirați arhitectura andaluzo-maurică a acestei moschei importante din exterior, deoarece accesul pentru non-musulmani este adesea foarte restricționat.",
+            "en": "Admire the Andalusian-Moorish architecture of this significant mosque from the outside, as entry for non-Muslims is often strictly restricted."
+          }
+        },
+        {
+          "name": {
+            "de": "Catedral de la Asunción",
+            "hu": "Catedral de la Asunción",
+            "ro": "Catedral de la Asunción",
+            "en": "Catedral de la Asunción"
+          },
+          "coords": [
+            -5.316582,
+            35.8878
+          ],
+          "category": "religious",
+          "arrive_at": "10:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtige Architektur dieser zentralen Kathedrale, die auf einer alten Moschee erbaut wurde, und achten Sie auf die kunstvollen Deckengemälde.",
+            "hu": "Csodálja meg ennek a központi katedrálisnak a csodás építészetét, amely egy régi mecsetre épült, és mindenképpen figyelje meg a díszes mennyezeti freskókat.",
+            "ro": "Admirați arhitectura magnifică a acestei catedrale centrale, construită pe locul unei vechi moschei, și acordați o atenție deosebită picturilor de pe tavan.",
+            "en": "Admire the magnificent architecture of this central cathedral, built over an old mosque, and make sure to pay attention to the ornate ceiling paintings."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque Marítimo del Mediterráneo",
+            "hu": "Parque Marítimo del Mediterráneo",
+            "ro": "Parque Marítimo del Mediterráneo",
+            "en": "Parque Marítimo del Mediterráneo"
+          },
+          "coords": [
+            -5.309374,
+            35.889865
+          ],
+          "category": "recreational",
+          "arrive_at": "12:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entspannen Sie in dieser von César Manrique entworfenen Oase mit Meerwasserpools, wo Sie sich am Nachmittag auf den kostenpflichtigen Sonnenliegen ausruhen können.",
+            "hu": "Pihenjen ebben a César Manrique által tervezett tengervizes medencés oázisban, ahol délután kényelmesen megpihenhet a fizetős napozóágyakon.",
+            "ro": "Relaxați-vă în această oază cu piscine cu apă sărată concepută de César Manrique, unde vă puteți odihni după-amiaza pe șezlongurile cu plată.",
+            "en": "Relax in this oasis with seawater pools designed by César Manrique, where you can easily rest in the afternoon by renting one of the sun loungers."
+          }
+        },
+        {
+          "name": {
+            "de": "Parroquia De San Francisco",
+            "hu": "Parroquia De San Francisco",
+            "ro": "Parroquia De San Francisco",
+            "en": "Parroquia De San Francisco"
+          },
+          "coords": [
+            -5.308763,
+            35.887069
+          ],
+          "category": "religious",
+          "arrive_at": "13:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diese historische Pfarrei mit ihrer eleganten Fassade, in der Sie während der ruhigen Mittagsstunden angenehme Kühle und Stille finden.",
+            "hu": "Tekintse meg ezt a történelmi plébániát elegáns homlokzatával, ahol a csendes déli órákban kellemes hűvösre és nyugalomra találhat.",
+            "ro": "Vizitați această parohie istorică cu fațada sa elegantă, unde veți găsi răcoare și liniște plăcută în timpul orelor liniștite ale amiezii de vară.",
+            "en": "Visit this historic parish with its elegant facade, where you will easily find pleasant coolness and silence during the quiet midday hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento al Llano Amarillo",
+            "hu": "Monumento al Llano Amarillo",
+            "ro": "Monumento al Llano Amarillo",
+            "en": "Monumento al Llano Amarillo"
+          },
+          "coords": [
+            -5.295721,
+            35.901738
+          ],
+          "category": "historical",
+          "arrive_at": "14:25",
+          "stay_min": 45,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses umstrittene historische Denkmal am Fuße des Monte Hacho und lesen Sie vorab etwas über den Spanischen Bürgerkrieg, um den Kontext zu verstehen.",
+            "hu": "Tekintse meg ezt a vitatott történelmi emlékművet a Monte Hacho lábánál, és előzetesen olvasson a spanyol polgárháborúról a kontextus megértéséhez.",
+            "ro": "Priviți acest monument istoric controversat de la poalele Muntelui Hacho și citiți în prealabil despre Războiul Civil Spaniol pentru a înțelege contextul.",
+            "en": "View this controversial historical monument at the foot of Monte Hacho, and read up on the Spanish Civil War beforehand to fully understand its context."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Mit dem Fahrrad starten Sie erfrischt in den weitläufigen Gärten im Westen. Zur Mittagszeit erreichen Sie nach einem Stopp an der Moschee das pulsierende Zentrum mit seiner prachtvollen Kathedrale. Am Nachmittag radeln Sie gemütlich zum maritimen Park für eine erholsame Pause am Wasser. Den Abschluss bildet eine kurze Fahrt zum Fuß des Berges, wo Geschichte lebendig wird.",
+        "hu": "Kerékpárral frissen indul a nap a nyugati tágas kertekben. Délben a mecsetnél tett megálló után eléri a nyüzsgő központot annak pompás katedrálisával. Délután kényelmesen elteker a tengerészeti parkba egy pihentető szünetre a vízparton. A napot egy rövid kerékpározás zárja a hegy lábához, ahol szinte megelevenedik a történelem.",
+        "ro": "Pe bicicletă, începeți ziua revigorați în grădinile spațioase din vest. La amiază, după o oprire la moschee, ajungeți în centrul vibrant cu magnifica sa catedrală. După-amiaza pedalați pe îndelete spre parcul maritim pentru o pauză relaxantă la malul mării. Turul se încheie cu o scurtă plimbare la baza muntelui, unde istoria prinde viață.",
+        "en": "By bike, you start refreshed in the spacious western gardens. At lunchtime, after a stop at the mosque, you reach the vibrant center with its magnificent cathedral. In the afternoon, you cycle comfortably to the maritime park for a relaxing break by the water. The day concludes with a short ride to the base of the mountain, where history truly comes alive."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:29",
+      "total_km": 4.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parador La Muralla",
+            "hu": "Parador La Muralla",
+            "ro": "Parador La Muralla",
+            "en": "Parador La Muralla"
+          },
+          "coords": [
+            -5.317789,
+            35.887984
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Tag an den alten Stadtmauern, deren historische Gewölbe Sie beeindrucken werden, am besten bei einem morgendlichen Kaffee auf der Terrasse.",
+            "hu": "Kezdje a napot az ősi városfalaknál, melyek történelmi boltívei lenyűgözőek, és igyon meg egy reggeli kávét a szálloda panorámás teraszán.",
+            "ro": "Începeți ziua la vechile ziduri ale orașului, ale căror bolți istorice vă vor impresiona, savurând o cafea de dimineață pe terasa cu panoramă.",
+            "en": "Start your day at the ancient city walls, whose historical vaults will impress you, ideally by enjoying a morning coffee on the panoramic terrace."
+          }
+        },
+        {
+          "name": {
+            "de": "Late Roman Basilica of Ceuta",
+            "hu": "Late Roman Basilica of Ceuta",
+            "ro": "Late Roman Basilica of Ceuta",
+            "en": "Late Roman Basilica of Ceuta"
+          },
+          "coords": [
+            -5.314,
+            35.887831
+          ],
+          "category": "museum",
+          "arrive_at": "09:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem faszinierenden Museum in die römische Vergangenheit ein und nutzen Sie den bereitgestellten Audioguide für tiefere historische Einblicke.",
+            "hu": "Merüljön el a római múltban ebben a lenyűgöző múzeumban, és használja a rendelkezésre álló audioguide-ot a mélyebb történelmi összefüggések megértéséhez.",
+            "ro": "Pătrundeți în trecutul roman în acest muzeu fascinant și folosiți ghidul audio pus la dispoziție pentru a obține informații istorice mult mai detaliate.",
+            "en": "Delve into the Roman past at this fascinating museum, and use the provided audio guide to gain deeper historical insights into the ancient ruins."
+          }
+        },
+        {
+          "name": {
+            "de": "Ermita de San Antonio",
+            "hu": "Ermita de San Antonio",
+            "ro": "Ermita de San Antonio",
+            "en": "Ermita de San Antonio"
+          },
+          "coords": [
+            -5.29384,
+            35.899645
+          ],
+          "category": "religious",
+          "arrive_at": "11:21",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Genießen Sie von dieser charmanten Einsiedelei aus den ersten großartigen Panoramablick auf die Straße von Gibraltar und parken Sie direkt auf dem kleinen Vorplatz.",
+            "hu": "Élvezze az első nagyszerű panorámát a Gibraltári-szorosra ebből a bájos remetelakból, és parkoljon le kényelmesen közvetlenül a kis előtéren.",
+            "ro": "Bucurați-vă de prima panoramă magnifică a Strâmtorii Gibraltar de la acest schit fermecător și parcați-vă mașina direct pe mica piațetă din față.",
+            "en": "Enjoy the first magnificent panoramic view of the Strait of Gibraltar from this charming hermitage, and conveniently park right in the small front square."
+          }
+        },
+        {
+          "name": {
+            "de": "Fortaleza del Hacho",
+            "hu": "Fortaleza del Hacho",
+            "ro": "Fortaleza del Hacho",
+            "en": "Fortaleza del Hacho"
+          },
+          "coords": [
+            -5.291318,
+            35.896052
+          ],
+          "category": "castle",
+          "arrive_at": "12:02",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die massiven Festungsmauern, die einst die Halbinsel verteidigten, und tragen Sie windfeste Kleidung, da es auf dem Hügel oft sehr böig ist.",
+            "hu": "Fedezze fel a masszív erődítmény falait, amelyek egykor a félszigetet védték, és viseljen szélálló ruházatot, mivel a dombon gyakran nagyon szeles az idő.",
+            "ro": "Explorați zidurile masive ale cetății care apărau cândva peninsula și purtați haine rezistente la vânt, deoarece pe deal este adesea foarte vântos.",
+            "en": "Explore the massive fortress walls that once defended the peninsula, and make sure to wear windproof clothing as it is often very gusty on the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Monte Hacho",
+            "hu": "Monte Hacho",
+            "ro": "Monte Hacho",
+            "en": "Monte Hacho"
+          },
+          "coords": [
+            -5.286742,
+            35.896925
+          ],
+          "category": "natural",
+          "arrive_at": "13:23",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Fahren Sie weiter auf diesen legendären Berg, einen der Säulen des Herkules, und halten Sie Ihre Kamera bereit für spektakuläre Fotos der beiden Kontinente.",
+            "hu": "Vezessen tovább erre a legendás hegyre, Herkules egyik oszlopára, és tartsa készenlétben a fényképezőgépét a két kontinens látványos fotózásához.",
+            "ro": "Conduceți mai departe spre acest munte legendar, unul dintre Stâlpii lui Hercule, și pregătiți camera pentru fotografii spectaculoase cu cele două continente.",
+            "en": "Drive further up this legendary mountain, known as one of the Pillars of Hercules, and keep your camera ready for spectacular photos of both continents."
+          }
+        },
+        {
+          "name": {
+            "de": "Castillo del Desnarigado",
+            "hu": "Castillo del Desnarigado",
+            "ro": "Castillo del Desnarigado",
+            "en": "Castillo del Desnarigado"
+          },
+          "coords": [
+            -5.281071,
+            35.894677
+          ],
+          "category": "castle",
+          "arrive_at": "14:39",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihre Tour an dieser dramatischen Küstenburg ab, die heute ein kleines Militärmuseum beherbergt, in dem Sie die maritime Geschichte der Stadt entdecken.",
+            "hu": "Zárja túráját ennél a drámai tengerparti kastélynál, amely ma egy kis hadtörténeti múzeumnak ad otthont, ahol felfedezheti a város tengerészeti múltját.",
+            "ro": "Încheiați-vă turul la acest castel de coastă impresionant, care găzduiește acum un mic muzeu militar unde puteți descoperi istoria maritimă a orașului.",
+            "en": "Conclude your tour at this dramatic coastal castle, which now houses a small military museum where you can discover the maritime history of the city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt entspannt im Zentrum und gibt Ihnen Zeit für die römischen Ruinen. Mittags fahren Sie hinauf auf den Monte Hacho zur charmanten Einsiedelei. Der Nachmittag steht im Zeichen der großen Festung und der legendären Aussicht auf zwei Kontinente. Schließlich erreichen Sie am späten Nachmittag die dramatisch gelegene Küstenburg im Osten.",
+        "hu": "Autós túrája kényelmesen indul a központban, időt hagyva a római romok felfedezésére. Délben felhajt a Monte Hachóra, a bájos remetelakhoz. A délután a hatalmas erődítmény és a két kontinensre nyíló legendás kilátás jegyében telik. Végül késő délután eléri a drámai fekvésű keleti tengerparti kastélyt.",
+        "ro": "Turul cu mașina începe relaxant în centru, oferindu-vă timp pentru ruinele romane. La prânz, conduceți pe Monte Hacho către fermecătorul schit. După-amiaza este dedicată marii fortărețe și priveliștilor legendare asupra celor două continente. În cele din urmă, ajungeți după-amiaza târziu la impresionantul castel de coastă din est.",
+        "en": "Your car tour starts relaxed in the center, giving you time for the Roman ruins. At midday, you drive up Monte Hacho to visit the charming hermitage. The afternoon is dedicated to exploring the grand fortress and enjoying legendary views of two continents. Finally, you reach the dramatically situated coastal castle in the east in the late afternoon."
+      }
+    }
+  }
+}

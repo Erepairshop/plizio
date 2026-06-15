@@ -1,0 +1,520 @@
+{
+  "city_id": "croatia-zubovici-cities-v2",
+  "anchor": {
+    "name": "Zubovići",
+    "coords": [
+      14.9814,
+      44.5234
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:10",
+      "total_km": 5.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaža Velika Luka",
+            "hu": "Plaža Velika Luka",
+            "ro": "Plaža Velika Luka",
+            "en": "Plaža Velika Luka"
+          },
+          "coords": [
+            14.984345,
+            44.534506
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese abgelegene Kieselbucht mit kristallklarem Wasser, das ideal zum Schnorcheln ist, und vergessen Sie Ihre Badeschuhe nicht.",
+            "hu": "Fedezze fel ezt az eldugott, kavicsos öblöt, amelynek kristálytiszta vize ideális a sznorkelezéshez, így mindenképp vigyen magával úszócipőt.",
+            "ro": "Descoperiți acest golf izolat cu pietriș și ape cristaline, perfecte pentru snorkeling, așa că nu uitați să luați la voi încălțăminte de apă.",
+            "en": "Discover this secluded pebbly cove that offers pristine waters perfect for snorkeling, so remember to pack your underwater camera and swim shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaža Plat",
+            "hu": "Plaža Plat",
+            "ro": "Plaža Plat",
+            "en": "Plaža Plat"
+          },
+          "coords": [
+            14.987484,
+            44.520582
+          ],
+          "category": "recreational",
+          "arrive_at": "10:49",
+          "stay_min": 60,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.57,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem familienfreundlichen Strand mit weichem Sand und flachem Zugang; ein frühes Eintreffen sichert Ihnen einen Sonnenschirm.",
+            "hu": "Pihenjen ezen a családbarát, finom homokos, lassan mélyülő vizű strandon, de érdemes korán érkezni, hogy biztosan jusson napernyő a családnak.",
+            "ro": "Relaxați-vă pe această plajă prietenoasă cu familiile, cu nisip fin și intrare lină, unde este indicat să ajungeți devreme pentru o umbrelă.",
+            "en": "Relax at this family-friendly beach featuring soft sands and shallow entry, making it highly recommended to arrive early to secure a parasol."
+          }
+        },
+        {
+          "name": {
+            "de": "Kruna",
+            "hu": "Kruna",
+            "ro": "Kruna",
+            "en": "Kruna"
+          },
+          "coords": [
+            15.012423,
+            44.514246
+          ],
+          "category": "natural",
+          "arrive_at": "12:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 31,
+          "hop_from_prev_km": 2.08,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten Felsformationen und Klippen von Pags mondähnlicher Landschaft, wofür festes Schuhwerk unbedingt zu empfehlen ist.",
+            "hu": "Csodálja meg a Pag sziget holdbéli tájára jellemző drámai sziklaalakzatokat, és a biztonságos felfedezéshez viseljen masszív túracipőt.",
+            "ro": "Admirați formațiunile stâncoase și stâncile dramatice specifice peisajului selenar al insulei Pag, asigurându-vă că purtați încălțăminte de drumeție.",
+            "en": "Admire the striking rock formations and dramatic cliffs characteristic of Pag's moon-like landscape, ensuring you wear sturdy hiking footwear."
+          }
+        },
+        {
+          "name": {
+            "de": "Luka Metajna",
+            "hu": "Luka Metajna",
+            "ro": "Luka Metajna",
+            "en": "Luka Metajna"
+          },
+          "coords": [
+            15.005543,
+            44.508458
+          ],
+          "category": "natural",
+          "arrive_at": "13:13",
+          "stay_min": 60,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.87,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem malerischen Naturhafen entlang, wo lokale Fischerboote auf den Wellen schaukeln, was ein tolles Fotomotiv bietet.",
+            "hu": "Sétáljon végig ezen a bájos természetes kikötőn, ahol a helyi halászhajók ringatóznak a hullámokon, tökéletes hátteret nyújtva a fotózáshoz.",
+            "ro": "Plimbați-vă prin acest port natural fermecător, unde bărcile pescarilor se leagănă pe valuri, oferind un fundal excelent pentru fotografii.",
+            "en": "Stroll around this charming natural harbor where local fishing boats bob on the waves, providing an excellent backdrop for afternoon photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Ustashe Concentration Camp",
+            "hu": "Ustashe Koncentrációs Tábor",
+            "ro": "Lagărul de Concentrare Ustashe",
+            "en": "Ustashe Concentration Camp"
+          },
+          "coords": [
+            15.01114,
+            44.509165
+          ],
+          "category": "historical",
+          "arrive_at": "14:20",
+          "stay_min": 110,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Erweisen Sie dieser ernsten historischen Stätte nahe Slana Ihren Respekt und bewahren Sie während Ihres Besuchs eine ruhige und würdige Haltung.",
+            "hu": "Rójja le kegyeletét ezen a komor történelmi emlékhelyen Slana közelében, és a látogatás során végig tartson tiszteletteljes, csendes viselkedést.",
+            "ro": "Prezentați-vă respectul la acest sit istoric solemn de lângă Slana, reflectând asupra trecutului său tragic, și mențineți o atitudine tăcută.",
+            "en": "Pay your respects at this solemn historical site near Slana, reflecting on its tragic past, and maintain a quiet demeanor during your visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag auf der Insel Pag beginnt mit der abgelegenen Schönheit nördlicher Strände und einem herrlichen morgendlichen Bad. Mittags wechseln Sie in die mondähnliche Felslandschaft und entdecken traumhafte Panoramabuchten. Der Nachmittag ist der Erkundung charmanter Naturhäfen und markanter Klippen gewidmet. Am Abend runden ernste historische Reflexionen diese vielfältige Inselreise würdig ab.",
+        "hu": "A Pag szigeti nap az északi strandok eldugott szépségével és egy frissítő reggeli úszással indul. A dél a sziklás, holdbéli tájaké és az elképesztő panorámájú, érintetlen öblöké. A délutánt a hangulatos helyi kikötők és drámai sziklaalakzatok felfedezésének szenteljük. Estefelé a komor történelmi emlékhelyek megtekintése teszi teljessé a sokszínű, lenyűgöző szigeti utazást.",
+        "ro": "Ziua pe insula Pag începe cu frumusețea izolată a plajelor nordice, perfecte pentru înotul matinal. La amiază peisajul se schimbă în terenuri stâncoase selenare și golfuri panoramice uimitoare. După-amiaza este dedicată explorării porturilor locale fermecătoare și formațiunilor stâncoase dramatice. Spre seară, reflecțiile istorice solemne completează această călătorie diversă și profundă.",
+        "en": "Your day on Pag Island starts with the secluded beauty of northern beaches, offering pristine morning swims. Midday brings a shift towards rocky, moon-like terrains and stunning panoramic bays where nature thrives. The afternoon is dedicated to exploring the charming local harbors and dramatic cliff formations. As evening approaches, solemn historical reflections complete an enriching, diverse island journey."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:57",
+      "total_km": 9.68,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Plaža Velika Luka",
+            "hu": "Plaža Velika Luka",
+            "ro": "Plaža Velika Luka",
+            "en": "Plaža Velika Luka"
+          },
+          "coords": [
+            14.984345,
+            44.534506
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese abgelegene Kieselbucht mit kristallklarem Wasser, das ideal zum Schnorcheln ist, und vergessen Sie Ihre Badeschuhe nicht.",
+            "hu": "Fedezze fel ezt az eldugott, kavicsos öblöt, amelynek kristálytiszta vize ideális a sznorkelezéshez, így mindenképp vigyen magával úszócipőt.",
+            "ro": "Descoperiți acest golf izolat cu pietriș și ape cristaline, perfecte pentru snorkeling, așa că nu uitați să luați la voi încălțăminte de apă.",
+            "en": "Discover this secluded pebbly cove that offers pristine waters perfect for snorkeling, so remember to pack your underwater camera and swim shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Čista",
+            "hu": "Čista",
+            "ro": "Čista",
+            "en": "Čista"
+          },
+          "coords": [
+            14.946689,
+            44.520735
+          ],
+          "category": "recreational",
+          "arrive_at": "10:43",
+          "stay_min": 60,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 3.38,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Kieselstrand mit seinem herrlichen azurblauen Wasser und holen Sie sich eine Erfrischung in der saisonalen Strandbar.",
+            "hu": "Élvezze a finom kavicsos, azúrkék vizű lenyűgöző tengerpart hatalmas kiterjedését, és igyon valami frissítőt a közeli szezonális strandi bárban.",
+            "ro": "Bucurați-vă de întinderea vastă a acestei plaje uimitoare cu pietriș fin și ape azurii, luând o băutură răcoritoare la barul sezonier din apropiere.",
+            "en": "Enjoy the vast expanse of this stunning beach known for its fine shingle and azure waters, and grab a refreshment at the nearby seasonal bar."
+          }
+        },
+        {
+          "name": {
+            "de": "Bay Bok",
+            "hu": "Bay Bok",
+            "ro": "Bay Bok",
+            "en": "Bay Bok"
+          },
+          "coords": [
+            14.948511,
+            44.518456
+          ],
+          "category": "recreational",
+          "arrive_at": "11:44",
+          "stay_min": 45,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen in dieser ruhigen, von schroffen Klippen umrahmten Bucht; bringen Sie jedoch eigene Snacks und Wasser mit hierher.",
+            "hu": "Meneküljön el a tömeg elől ebbe a zord sziklákkal övezett békés öbölbe, de hozzon magával saját harapnivalót és vizet, mivel nincs infrastruktúra.",
+            "ro": "Scăpați de aglomerație în acest golf liniștit înconjurat de teren accidentat, aducându-vă propriile gustări și apă, deoarece nu există facilități.",
+            "en": "Escape the crowds at this tranquil bay framed by rugged terrain, bringing your own snacks and water as facilities are practically non-existent."
+          }
+        },
+        {
+          "name": {
+            "de": "Sveti Duh",
+            "hu": "Sveti Duh",
+            "ro": "Sveti Duh",
+            "en": "Sveti Duh"
+          },
+          "coords": [
+            14.957664,
+            44.515184
+          ],
+          "category": "recreational",
+          "arrive_at": "12:33",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.78,
+          "tip_5lang": {
+            "de": "Erleben Sie die unberührte Natur an diesem weitläufigen Sand- und Kieselstrand, wo das Campen beliebt ist; achten Sie auf aufgestellte Zelte.",
+            "hu": "Tapasztalja meg az érintetlen természetet ezen a homokos és kavicsos strandon, amely népszerű a kempingezők körében, így figyeljen a sátrakra.",
+            "ro": "Experimentați natura virgină la această plajă unde se îmbină nisipul și pietrișul, un loc popular de campare, deci fiți atenți la corturi.",
+            "en": "Experience pristine nature with a blend of sand and gravel at this expansive beach, where camping is popular, so be mindful of the pitched tents."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaža Plat",
+            "hu": "Plaža Plat",
+            "ro": "Plaža Plat",
+            "en": "Plaža Plat"
+          },
+          "coords": [
+            14.987484,
+            44.520582
+          ],
+          "category": "recreational",
+          "arrive_at": "13:46",
+          "stay_min": 60,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.43,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem familienfreundlichen Strand mit weichem Sand und flachem Zugang; ein frühes Eintreffen sichert Ihnen einen Sonnenschirm.",
+            "hu": "Pihenjen ezen a családbarát, finom homokos, lassan mélyülő vizű strandon, de érdemes korán érkezni, hogy biztosan jusson napernyő a családnak.",
+            "ro": "Relaxați-vă pe această plajă prietenoasă cu familiile, cu nisip fin și intrare lină, unde este indicat să ajungeți devreme pentru o umbrelă.",
+            "en": "Relax at this family-friendly beach featuring soft sands and shallow entry, making it highly recommended to arrive early to secure a parasol."
+          }
+        },
+        {
+          "name": {
+            "de": "Luka Metajna",
+            "hu": "Luka Metajna",
+            "ro": "Luka Metajna",
+            "en": "Luka Metajna"
+          },
+          "coords": [
+            15.005543,
+            44.508458
+          ],
+          "category": "natural",
+          "arrive_at": "14:57",
+          "stay_min": 45,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.95,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem malerischen Naturhafen entlang, wo lokale Fischerboote auf den Wellen schaukeln, was ein tolles Fotomotiv bietet.",
+            "hu": "Sétáljon végig ezen a bájos természetes kikötőn, ahol a helyi halászhajók ringatóznak a hullámokon, tökéletes hátteret nyújtva a fotózáshoz.",
+            "ro": "Plimbați-vă prin acest port natural fermecător, unde bărcile pescarilor se leagănă pe valuri, oferind un fundal excelent pentru fotografii.",
+            "en": "Stroll around this charming natural harbor where local fishing boats bob on the waves, providing an excellent backdrop for afternoon photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Kruna",
+            "hu": "Kruna",
+            "ro": "Kruna",
+            "en": "Kruna"
+          },
+          "coords": [
+            15.012423,
+            44.514246
+          ],
+          "category": "natural",
+          "arrive_at": "15:47",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.87,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten Felsformationen und Klippen von Pags mondähnlicher Landschaft, wofür festes Schuhwerk unbedingt zu empfehlen ist.",
+            "hu": "Csodálja meg a Pag sziget holdbéli tájára jellemző drámai sziklaalakzatokat, és a biztonságos felfedezéshez viseljen masszív túracipőt.",
+            "ro": "Admirați formațiunile stâncoase și stâncile dramatice specifice peisajului selenar al insulei Pag, asigurându-vă că purtați încălțăminte de drumeție.",
+            "en": "Admire the striking rock formations and dramatic cliffs characteristic of Pag's moon-like landscape, ensuring you wear sturdy hiking footwear."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag auf der Insel Pag beginnt mit der abgelegenen Schönheit nördlicher Strände und einem herrlichen morgendlichen Bad. Mittags wechseln Sie in die mondähnliche Felslandschaft und entdecken traumhafte Panoramabuchten. Der Nachmittag ist der Erkundung charmanter Naturhäfen und markanter Klippen gewidmet. Am Abend runden ernste historische Reflexionen diese vielfältige Inselreise würdig ab.",
+        "hu": "A Pag szigeti nap az északi strandok eldugott szépségével és egy frissítő reggeli úszással indul. A dél a sziklás, holdbéli tájaké és az elképesztő panorámájú, érintetlen öblöké. A délutánt a hangulatos helyi kikötők és drámai sziklaalakzatok felfedezésének szenteljük. Estefelé a komor történelmi emlékhelyek megtekintése teszi teljessé a sokszínű, lenyűgöző szigeti utazást.",
+        "ro": "Ziua pe insula Pag începe cu frumusețea izolată a plajelor nordice, perfecte pentru înotul matinal. La amiază peisajul se schimbă în terenuri stâncoase selenare și golfuri panoramice uimitoare. După-amiaza este dedicată explorării porturilor locale fermecătoare și formațiunilor stâncoase dramatice. Spre seară, reflecțiile istorice solemne completează această călătorie diversă și profundă.",
+        "en": "Your day on Pag Island starts with the secluded beauty of northern beaches, offering pristine morning swims. Midday brings a shift towards rocky, moon-like terrains and stunning panoramic bays where nature thrives. The afternoon is dedicated to exploring the charming local harbors and dramatic cliff formations. As evening approaches, solemn historical reflections complete an enriching, diverse island journey."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:44",
+      "total_km": 9.05,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Čista",
+            "hu": "Čista",
+            "ro": "Čista",
+            "en": "Čista"
+          },
+          "coords": [
+            14.946689,
+            44.520735
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie den weiten Kieselstrand mit seinem herrlichen azurblauen Wasser und holen Sie sich eine Erfrischung in der saisonalen Strandbar.",
+            "hu": "Élvezze a finom kavicsos, azúrkék vizű lenyűgöző tengerpart hatalmas kiterjedését, és igyon valami frissítőt a közeli szezonális strandi bárban.",
+            "ro": "Bucurați-vă de întinderea vastă a acestei plaje uimitoare cu pietriș fin și ape azurii, luând o băutură răcoritoare la barul sezonier din apropiere.",
+            "en": "Enjoy the vast expanse of this stunning beach known for its fine shingle and azure waters, and grab a refreshment at the nearby seasonal bar."
+          }
+        },
+        {
+          "name": {
+            "de": "Bay Bok",
+            "hu": "Bay Bok",
+            "ro": "Bay Bok",
+            "en": "Bay Bok"
+          },
+          "coords": [
+            14.948511,
+            44.518456
+          ],
+          "category": "recreational",
+          "arrive_at": "10:26",
+          "stay_min": 45,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen in dieser ruhigen, von schroffen Klippen umrahmten Bucht; bringen Sie jedoch eigene Snacks und Wasser mit hierher.",
+            "hu": "Meneküljön el a tömeg elől ebbe a zord sziklákkal övezett békés öbölbe, de hozzon magával saját harapnivalót és vizet, mivel nincs infrastruktúra.",
+            "ro": "Scăpați de aglomerație în acest golf liniștit înconjurat de teren accidentat, aducându-vă propriile gustări și apă, deoarece nu există facilități.",
+            "en": "Escape the crowds at this tranquil bay framed by rugged terrain, bringing your own snacks and water as facilities are practically non-existent."
+          }
+        },
+        {
+          "name": {
+            "de": "Sveti Duh",
+            "hu": "Sveti Duh",
+            "ro": "Sveti Duh",
+            "en": "Sveti Duh"
+          },
+          "coords": [
+            14.957664,
+            44.515184
+          ],
+          "category": "recreational",
+          "arrive_at": "11:13",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.78,
+          "tip_5lang": {
+            "de": "Erleben Sie die unberührte Natur an diesem weitläufigen Sand- und Kieselstrand, wo das Campen beliebt ist; achten Sie auf aufgestellte Zelte.",
+            "hu": "Tapasztalja meg az érintetlen természetet ezen a homokos és kavicsos strandon, amely népszerű a kempingezők körében, így figyeljen a sátrakra.",
+            "ro": "Experimentați natura virgină la această plajă unde se îmbină nisipul și pietrișul, un loc popular de campare, deci fiți atenți la corturi.",
+            "en": "Experience pristine nature with a blend of sand and gravel at this expansive beach, where camping is popular, so be mindful of the pitched tents."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaža Velika Luka",
+            "hu": "Plaža Velika Luka",
+            "ro": "Plaža Velika Luka",
+            "en": "Plaža Velika Luka"
+          },
+          "coords": [
+            14.984345,
+            44.534506
+          ],
+          "category": "recreational",
+          "arrive_at": "12:19",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese abgelegene Kieselbucht mit kristallklarem Wasser, das ideal zum Schnorcheln ist, und vergessen Sie Ihre Badeschuhe nicht.",
+            "hu": "Fedezze fel ezt az eldugott, kavicsos öblöt, amelynek kristálytiszta vize ideális a sznorkelezéshez, így mindenképp vigyen magával úszócipőt.",
+            "ro": "Descoperiți acest golf izolat cu pietriș și ape cristaline, perfecte pentru snorkeling, așa că nu uitați să luați la voi încălțăminte de apă.",
+            "en": "Discover this secluded pebbly cove that offers pristine waters perfect for snorkeling, so remember to pack your underwater camera and swim shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaža Plat",
+            "hu": "Plaža Plat",
+            "ro": "Plaža Plat",
+            "en": "Plaža Plat"
+          },
+          "coords": [
+            14.987484,
+            44.520582
+          ],
+          "category": "recreational",
+          "arrive_at": "13:22",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.57,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem familienfreundlichen Strand mit weichem Sand und flachem Zugang; ein frühes Eintreffen sichert Ihnen einen Sonnenschirm.",
+            "hu": "Pihenjen ezen a családbarát, finom homokos, lassan mélyülő vizű strandon, de érdemes korán érkezni, hogy biztosan jusson napernyő a családnak.",
+            "ro": "Relaxați-vă pe această plajă prietenoasă cu familiile, cu nisip fin și intrare lină, unde este indicat să ajungeți devreme pentru o umbrelă.",
+            "en": "Relax at this family-friendly beach featuring soft sands and shallow entry, making it highly recommended to arrive early to secure a parasol."
+          }
+        },
+        {
+          "name": {
+            "de": "Kruna",
+            "hu": "Kruna",
+            "ro": "Kruna",
+            "en": "Kruna"
+          },
+          "coords": [
+            15.012423,
+            44.514246
+          ],
+          "category": "natural",
+          "arrive_at": "14:26",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.08,
+          "tip_5lang": {
+            "de": "Bewundern Sie die markanten Felsformationen und Klippen von Pags mondähnlicher Landschaft, wofür festes Schuhwerk unbedingt zu empfehlen ist.",
+            "hu": "Csodálja meg a Pag sziget holdbéli tájára jellemző drámai sziklaalakzatokat, és a biztonságos felfedezéshez viseljen masszív túracipőt.",
+            "ro": "Admirați formațiunile stâncoase și stâncile dramatice specifice peisajului selenar al insulei Pag, asigurându-vă că purtați încălțăminte de drumeție.",
+            "en": "Admire the striking rock formations and dramatic cliffs characteristic of Pag's moon-like landscape, ensuring you wear sturdy hiking footwear."
+          }
+        },
+        {
+          "name": {
+            "de": "Luka Metajna",
+            "hu": "Luka Metajna",
+            "ro": "Luka Metajna",
+            "en": "Luka Metajna"
+          },
+          "coords": [
+            15.005543,
+            44.508458
+          ],
+          "category": "natural",
+          "arrive_at": "15:08",
+          "stay_min": 45,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.87,
+          "tip_5lang": {
+            "de": "Spazieren Sie an diesem malerischen Naturhafen entlang, wo lokale Fischerboote auf den Wellen schaukeln, was ein tolles Fotomotiv bietet.",
+            "hu": "Sétáljon végig ezen a bájos természetes kikötőn, ahol a helyi halászhajók ringatóznak a hullámokon, tökéletes hátteret nyújtva a fotózáshoz.",
+            "ro": "Plimbați-vă prin acest port natural fermecător, unde bărcile pescarilor se leagănă pe valuri, oferind un fundal excelent pentru fotografii.",
+            "en": "Stroll around this charming natural harbor where local fishing boats bob on the waves, providing an excellent backdrop for afternoon photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Ustashe Concentration Camp",
+            "hu": "Ustashe Koncentrációs Tábor",
+            "ro": "Lagărul de Concentrare Ustashe",
+            "en": "Ustashe Concentration Camp"
+          },
+          "coords": [
+            15.01114,
+            44.509165
+          ],
+          "category": "historical",
+          "arrive_at": "15:54",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Erweisen Sie dieser ernsten historischen Stätte nahe Slana Ihren Respekt und bewahren Sie während Ihres Besuchs eine ruhige und würdige Haltung.",
+            "hu": "Rójja le kegyeletét ezen a komor történelmi emlékhelyen Slana közelében, és a látogatás során végig tartson tiszteletteljes, csendes viselkedést.",
+            "ro": "Prezentați-vă respectul la acest sit istoric solemn de lângă Slana, reflectând asupra trecutului său tragic, și mențineți o atitudine tăcută.",
+            "en": "Pay your respects at this solemn historical site near Slana, reflecting on its tragic past, and maintain a quiet demeanor during your visit."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag auf der Insel Pag beginnt mit der abgelegenen Schönheit nördlicher Strände und einem herrlichen morgendlichen Bad. Mittags wechseln Sie in die mondähnliche Felslandschaft und entdecken traumhafte Panoramabuchten. Der Nachmittag ist der Erkundung charmanter Naturhäfen und markanter Klippen gewidmet. Am Abend runden ernste historische Reflexionen diese vielfältige Inselreise würdig ab.",
+        "hu": "A Pag szigeti nap az északi strandok eldugott szépségével és egy frissítő reggeli úszással indul. A dél a sziklás, holdbéli tájaké és az elképesztő panorámájú, érintetlen öblöké. A délutánt a hangulatos helyi kikötők és drámai sziklaalakzatok felfedezésének szenteljük. Estefelé a komor történelmi emlékhelyek megtekintése teszi teljessé a sokszínű, lenyűgöző szigeti utazást.",
+        "ro": "Ziua pe insula Pag începe cu frumusețea izolată a plajelor nordice, perfecte pentru înotul matinal. La amiază peisajul se schimbă în terenuri stâncoase selenare și golfuri panoramice uimitoare. După-amiaza este dedicată explorării porturilor locale fermecătoare și formațiunilor stâncoase dramatice. Spre seară, reflecțiile istorice solemne completează această călătorie diversă și profundă.",
+        "en": "Your day on Pag Island starts with the secluded beauty of northern beaches, offering pristine morning swims. Midday brings a shift towards rocky, moon-like terrains and stunning panoramic bays where nature thrives. The afternoon is dedicated to exploring the charming local harbors and dramatic cliff formations. As evening approaches, solemn historical reflections complete an enriching, diverse island journey."
+      }
+    }
+  }
+}

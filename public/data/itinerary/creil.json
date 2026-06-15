@@ -1,0 +1,451 @@
+{
+  "city_id": "creil",
+  "anchor": {
+    "name": "Creil",
+    "coords": [
+      2.4828,
+      49.2578
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:07",
+      "total_km": 1.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Espace Matisse",
+            "hu": "Espace Matisse",
+            "ro": "Espace Matisse",
+            "en": "Espace Matisse"
+          },
+          "coords": [
+            2.485361,
+            49.260337
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Setzen Sie sich mit der lokalen Kreativität in diesem dynamischen Kulturraum auseinander, der regionale Künstler präsentiert, und prüfen Sie das Veranstaltungsprogramm.",
+            "hu": "Ismerkedjen meg a helyi kreativitással ezen a regionális művészeket bemutató dinamikus kulturális téren, és ellenőrizze a közösségi táblát az esti eseményekért.",
+            "ro": "Interacționați cu creativitatea locală în acest spațiu cultural dinamic care prezintă artiști regionali și verificați panoul comunității pentru eventuale evenimente.",
+            "en": "Engage with local creativity at this dynamic cultural space showcasing regional artists, and check the community board for any evening workshops or upcoming events."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Médard",
+            "hu": "Saint-Médard templom",
+            "ro": "Biserica Saint-Médard",
+            "en": "Saint-Médard Church"
+          },
+          "coords": [
+            2.476682,
+            49.259127
+          ],
+          "category": "religious",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.64,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne gotische Architektur und die atemberaubenden Buntglasfenster dieser historischen Kirche, die man am besten im Morgenlicht besucht.",
+            "hu": "Csodálja meg e történelmi templom gyönyörű gótikus építészetét és lenyűgöző ólomüveg ablakait, amelyeket a legjobb a reggeli fényben fotózni és felfedezni.",
+            "ro": "Admirați frumoasa arhitectură gotică și vitraliile uimitoare ale acestei biserici istorice, care este cel mai bine vizitată în lumina dimineții pentru fotografii perfecte.",
+            "en": "Admire the beautiful Gothic architecture and stunning stained glass windows of this historic church, which is best visited in the morning light for perfect photos."
+          }
+        },
+        {
+          "name": {
+            "de": "La Faïencerie",
+            "hu": "La Faïencerie",
+            "ro": "La Faïencerie",
+            "en": "La Faïencerie"
+          },
+          "coords": [
+            2.473308,
+            49.259267
+          ],
+          "category": "cultural",
+          "arrive_at": "11:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebendige lokale Kultur, indem Sie sich die zeitgenössischen Kunstinstallationen ansehen, und besuchen Sie das angrenzende Café für eine Erfrischung.",
+            "hu": "Tapasztalja meg a pezsgő helyi kultúrát a kortárs művészeti installációk megtekintésével, és térjen be a szomszédos kávézóba egy gyors frissítőre a látogatás után.",
+            "ro": "Experimentați cultura locală vibrantă vizionând instalațiile de artă contemporană de aici și opriți-vă la cafeneaua adiacentă pentru o scurtă reîmprospătare.",
+            "en": "Experience the vibrant local culture by viewing the contemporary art installations here, and stop by the adjacent café for a quick refreshment after your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Gallé-Juillet",
+            "hu": "Gallé-Juillet Múzeum",
+            "ro": "Muzeul Gallé-Juillet",
+            "en": "Gallé-Juillet Museum"
+          },
+          "coords": [
+            2.47234,
+            49.2609
+          ],
+          "category": "museum",
+          "arrive_at": "12:37",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Entdecken Sie den Alltag im 19. Jahrhundert anhand einer reichen Keramiksammlung und vergessen Sie nicht, die Wechselausstellungen im Obergeschoss zu besuchen.",
+            "hu": "Fedezze fel a 19. századi mindennapi életet a gazdag kerámiagyűjteményen keresztül, és feltétlenül tekintse meg az emeleti időszaki kiállításokat a túra végén.",
+            "ro": "Descoperiți viața de zi cu zi din secolul al XIX-lea printr-o bogată colecție de ceramică și nu uitați să explorați expozițiile temporare de la etajul superior.",
+            "en": "Discover everyday life in the 19th century through a rich collection of ceramics and decorative arts, and be sure to check the temporary exhibitions on the upper floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Île Saint-Maurice",
+            "hu": "Saint-Maurice sziget",
+            "ro": "Insula Saint-Maurice",
+            "en": "Saint-Maurice Island"
+          },
+          "coords": [
+            2.468727,
+            49.258927
+          ],
+          "category": "natural",
+          "arrive_at": "14:22",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Machen Sie einen gemütlichen Spaziergang am Flussufer, um die heimische Tierwelt und historische Mühlenruinen zu beobachten, und bringen Sie ein Picknick mit.",
+            "hu": "Tegyen egy kényelmes sétát a folyóparton, hogy megfigyelje a helyi vadvilágot és a történelmi malomromokat, és hozzon magával egy kis pikniket a délutánra.",
+            "ro": "Faceți o plimbare relaxantă pe malul râului pentru a observa fauna locală și ruinele morii istorice, și aduceți un mic picnic pentru a vă bucura de după-amiaza.",
+            "en": "Take a leisurely walk along the riverbanks to observe local wildlife and historic mill ruins, and bring a small picnic to enjoy the tranquil late afternoon atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit lokaler Kreativität im Espace Matisse, gefolgt von einem angenehmen Spaziergang in das historische Herz von Creil. Mittags erreichen Sie die beeindruckende Kirche Saint-Médard und das moderne Zentrum La Faïencerie. Am Nachmittag tauchen Sie im Musée Gallé-Juillet tief in die reiche Keramikgeschichte ein. Der Abend klingt entspannt auf der Île Saint-Maurice am Ufer der Oise aus.",
+        "hu": "A reggel a helyi kreativitás felfedezésével indul az Espace Matisse-ban, majd egy kellemes séta következik Creil történelmi szívébe. Délben a lenyűgöző Saint-Médard templom és a La Faïencerie kortárs központja ötvözi a múltat és a jelent. Délután merüljön el a helyi történelemben a Gallé-Juillet Múzeum gazdag kerámiagyűjteményében. Az estét a Saint-Maurice szigeten töltheti békés nyugalomban.",
+        "ro": "Dimineața începe cu creativitate locală la Espace Matisse, urmată de o plimbare plăcută spre inima istorică a orașului Creil. La prânz veți ajunge la impresionanta Biserică Saint-Médard și la centrul contemporan La Faïencerie. După-amiaza, pătrundeți în istoria locală explorând colecțiile bogate de ceramică de la Muzeul Gallé-Juillet. Seara se așterne relaxant pe Insula Saint-Maurice.",
+        "en": "Morning begins with a dose of local creativity at Espace Matisse, followed by a pleasant stroll to the historic heart of Creil. Midday brings you to the impressive Saint-Médard Church and the contemporary hub of La Faïencerie, blending past and present. In the afternoon, dive deep into local history at the Gallé-Juillet Museum's rich ceramic collections. Evening settles in on Saint-Maurice Island."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:12",
+      "total_km": 2.84,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Château de Vaux",
+            "hu": "Château de Vaux",
+            "ro": "Château de Vaux",
+            "en": "Château de Vaux"
+          },
+          "coords": [
+            2.490112,
+            49.264296
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die gut erhaltenen Ruinen und das elegante Gelände dieses faszinierenden historischen Schlosses und nehmen Sie sich Zeit für einen Rundgang.",
+            "hu": "Fedezze fel e lenyűgöző történelmi kastély jól megőrzött romjait és elegáns területét, és szánjon időt a körbejárásra a legjobb építészeti kilátásokért.",
+            "ro": "Explorați ruinele bine conservate și terenurile elegante ale acestui castel istoric fascinant, făcându-vă timp să vă plimbați pentru cele mai bune priveliști.",
+            "en": "Explore the well-preserved ruins and elegant grounds of this fascinating historic castle, taking time to walk around the perimeter for the best architectural views."
+          }
+        },
+        {
+          "name": {
+            "de": "Espace Matisse",
+            "hu": "Espace Matisse",
+            "ro": "Espace Matisse",
+            "en": "Espace Matisse"
+          },
+          "coords": [
+            2.485361,
+            49.260337
+          ],
+          "category": "cultural",
+          "arrive_at": "10:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Setzen Sie sich mit der lokalen Kreativität in diesem dynamischen Kulturraum auseinander, der regionale Künstler präsentiert, und prüfen Sie das Veranstaltungsprogramm.",
+            "hu": "Ismerkedjen meg a helyi kreativitással ezen a regionális művészeket bemutató dinamikus kulturális téren, és ellenőrizze a közösségi táblát az esti eseményekért.",
+            "ro": "Interacționați cu creativitatea locală în acest spațiu cultural dinamic care prezintă artiști regionali și verificați panoul comunității pentru eventuale evenimente.",
+            "en": "Engage with local creativity at this dynamic cultural space showcasing regional artists, and check the community board for any evening workshops or upcoming events."
+          }
+        },
+        {
+          "name": {
+            "de": "Protestantischer Tempel",
+            "hu": "Protestáns Templom",
+            "ro": "Templul Protestant",
+            "en": "Temple"
+          },
+          "coords": [
+            2.477128,
+            49.25291
+          ],
+          "category": "religious",
+          "arrive_at": "11:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.01,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, aber markante Architektur dieses protestantischen Tempels und achten Sie auf die subtilen historischen Details an der Fassade.",
+            "hu": "Csodálja meg ennek a protestáns templomnak az egyszerű, mégis feltűnő építészetét, és figyelje meg a homlokzat finom történelmi részleteit a folyó felé menet.",
+            "ro": "Admirați arhitectura simplă, dar izbitoare a acestui templu protestant, observând detaliile istorice subtile de pe fațadă înainte de a vă îndrepta spre râu.",
+            "en": "Admire the simple yet striking architecture of this Protestant temple, noting the subtle historical details on the facade before heading to the nearby river."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Joseph-Ouvrier",
+            "hu": "Saint-Joseph-Ouvrier templom",
+            "ro": "Biserica Saint-Joseph-Ouvrier",
+            "en": "Église Saint-Joseph-Ouvrier"
+          },
+          "coords": [
+            2.473617,
+            49.253619
+          ],
+          "category": "religious",
+          "arrive_at": "12:36",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment der ruhigen Besinnung in dieser modernen Kirche, die für ihren besonderen architektonischen Stil bekannt ist und einen friedlichen Halt bietet.",
+            "hu": "Szánjon egy percet a csendes elmélkedésre ebben a modern, jellegzetes építészeti stílusáról ismert templomban, amely békés megállót kínál a városon átívelő túrán.",
+            "ro": "Luați-vă un moment de reflecție liniștită în această biserică modernă cunoscută pentru stilul său arhitectural distinct, o oprire pașnică în călătoria dumneavoastră.",
+            "en": "Take a moment of quiet reflection in this modern church known for its distinct architectural style, making it a peaceful stop on your journey through the city."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Médard",
+            "hu": "Saint-Médard templom",
+            "ro": "Biserica Saint-Médard",
+            "en": "Saint-Médard Church"
+          },
+          "coords": [
+            2.476682,
+            49.259127
+          ],
+          "category": "religious",
+          "arrive_at": "13:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne gotische Architektur und die atemberaubenden Buntglasfenster dieser historischen Kirche, die man am besten im Morgenlicht besucht.",
+            "hu": "Csodálja meg e történelmi templom gyönyörű gótikus építészetét és lenyűgöző ólomüveg ablakait, amelyeket a legjobb a reggeli fényben fotózni és felfedezni.",
+            "ro": "Admirați frumoasa arhitectură gotică și vitraliile uimitoare ale acestei biserici istorice, care este cel mai bine vizitată în lumina dimineții pentru fotografii perfecte.",
+            "en": "Admire the beautiful Gothic architecture and stunning stained glass windows of this historic church, which is best visited in the morning light for perfect photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Gallé-Juillet",
+            "hu": "Gallé-Juillet Múzeum",
+            "ro": "Muzeul Gallé-Juillet",
+            "en": "Gallé-Juillet Museum"
+          },
+          "coords": [
+            2.47234,
+            49.2609
+          ],
+          "category": "museum",
+          "arrive_at": "14:02",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Entdecken Sie den Alltag im 19. Jahrhundert anhand einer reichen Keramiksammlung und vergessen Sie nicht, die Wechselausstellungen im Obergeschoss zu besuchen.",
+            "hu": "Fedezze fel a 19. századi mindennapi életet a gazdag kerámiagyűjteményen keresztül, és feltétlenül tekintse meg az emeleti időszaki kiállításokat a túra végén.",
+            "ro": "Descoperiți viața de zi cu zi din secolul al XIX-lea printr-o bogată colecție de ceramică și nu uitați să explorați expozițiile temporare de la etajul superior.",
+            "en": "Discover everyday life in the 19th century through a rich collection of ceramics and decorative arts, and be sure to check the temporary exhibitions on the upper floor."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Fahrradabenteuer beginnt am eleganten Château de Vaux, dessen architektonische Schönheit Sie im Morgenlicht genießen können. Mittags radeln Sie durch kulturelle und religiöse Wahrzeichen wie das Espace Matisse, den Tempel und die Église Saint-Joseph. Der Nachmittag bringt Sie zur gotischen Pracht der Kirche Saint-Médard im Zentrum. Zum Abend hin beenden Sie Ihre Tour im Musée Gallé-Juillet.",
+        "hu": "Kerékpáros kalandja az elegáns Château de Vaux-nál kezdődik, ahol a reggeli fényben csodálhatja meg az építészeti szépségeket. A déli tekerés összeköti Creil kulturális és vallási nevezetességeit, érintve az Espace Matisse-t, a Templomot és a modern Église Saint-Joseph-ot. Délután a központban található Saint-Médard templom gótikus pompájához érkezik, majd a Gallé-Juillet Múzeumban zárja a napot.",
+        "ro": "Aventura pe bicicletă începe la elegantul Château de Vaux, admirând frumusețea sa arhitecturală în lumina dimineții. Traseul de prânz vă conectează prin reperele culturale și religioase, trecând pe la Espace Matisse, Templu și moderna Église Saint-Joseph. După-amiaza vă aduce la splendoarea gotică a Bisericii Saint-Médard. Odată cu lăsarea serii, explorați colecțiile de la Muzeul Gallé-Juillet.",
+        "en": "Your cycling adventure kicks off at the elegant Château de Vaux, taking in its architectural beauty in the morning light. Midday rides connect you through Creil's cultural and religious landmarks, passing the Espace Matisse, the Temple, and the modern Église Saint-Joseph-Ouvrier. Afternoon brings you to the Gothic splendor of Saint-Médard Church, concluding at the rich Gallé-Juillet Museum."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:33",
+      "total_km": 9.26,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parc de la Faïencerie",
+            "hu": "Faïencerie Park",
+            "ro": "Parcul Faïencerie",
+            "en": "Faïencerie Park"
+          },
+          "coords": [
+            2.467894,
+            49.329031
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen entspannenden Spaziergang durch diese weitläufige Grünfläche abseits des Stadtzentrums, ein idealer Ort für einen friedlichen Morgen.",
+            "hu": "Tegyen egy pihentető sétát ezen a tágas, városközponttól távol eső zöldterületen, amely ideális hely egy békés reggeli sétához a tömeg érkezése előtt.",
+            "ro": "Bucurați-vă de o plimbare relaxantă prin acest spațiu verde expansiv departe de centrul orașului, fiind un loc ideal pentru o dimineață liniștită.",
+            "en": "Enjoy a relaxing stroll through this expansive green space away from the city center, making it an ideal spot for a peaceful morning walk before the crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Château de Vaux",
+            "hu": "Château de Vaux",
+            "ro": "Château de Vaux",
+            "en": "Château de Vaux"
+          },
+          "coords": [
+            2.490112,
+            49.264296
+          ],
+          "category": "castle",
+          "arrive_at": "10:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 7.37,
+          "tip_5lang": {
+            "de": "Erkunden Sie die gut erhaltenen Ruinen und das elegante Gelände dieses faszinierenden historischen Schlosses und nehmen Sie sich Zeit für einen Rundgang.",
+            "hu": "Fedezze fel e lenyűgöző történelmi kastély jól megőrzött romjait és elegáns területét, és szánjon időt a körbejárásra a legjobb építészeti kilátásokért.",
+            "ro": "Explorați ruinele bine conservate și terenurile elegante ale acestui castel istoric fascinant, făcându-vă timp să vă plimbați pentru cele mai bune priveliști.",
+            "en": "Explore the well-preserved ruins and elegant grounds of this fascinating historic castle, taking time to walk around the perimeter for the best architectural views."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Médard",
+            "hu": "Saint-Médard templom",
+            "ro": "Biserica Saint-Médard",
+            "en": "Saint-Médard Church"
+          },
+          "coords": [
+            2.476682,
+            49.259127
+          ],
+          "category": "religious",
+          "arrive_at": "12:04",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.13,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschöne gotische Architektur und die atemberaubenden Buntglasfenster dieser historischen Kirche, die man am besten im Morgenlicht besucht.",
+            "hu": "Csodálja meg e történelmi templom gyönyörű gótikus építészetét és lenyűgöző ólomüveg ablakait, amelyeket a legjobb a reggeli fényben fotózni és felfedezni.",
+            "ro": "Admirați frumoasa arhitectură gotică și vitraliile uimitoare ale acestei biserici istorice, care este cel mai bine vizitată în lumina dimineții pentru fotografii perfecte.",
+            "en": "Admire the beautiful Gothic architecture and stunning stained glass windows of this historic church, which is best visited in the morning light for perfect photos."
+          }
+        },
+        {
+          "name": {
+            "de": "La Faïencerie",
+            "hu": "La Faïencerie",
+            "ro": "La Faïencerie",
+            "en": "La Faïencerie"
+          },
+          "coords": [
+            2.473308,
+            49.259267
+          ],
+          "category": "cultural",
+          "arrive_at": "12:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebendige lokale Kultur, indem Sie sich die zeitgenössischen Kunstinstallationen ansehen, und besuchen Sie das angrenzende Café für eine Erfrischung.",
+            "hu": "Tapasztalja meg a pezsgő helyi kultúrát a kortárs művészeti installációk megtekintésével, és térjen be a szomszédos kávézóba egy gyors frissítőre a látogatás után.",
+            "ro": "Experimentați cultura locală vibrantă vizionând instalațiile de artă contemporană de aici și opriți-vă la cafeneaua adiacentă pentru o scurtă reîmprospătare.",
+            "en": "Experience the vibrant local culture by viewing the contemporary art installations here, and stop by the adjacent café for a quick refreshment after your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Musée Gallé-Juillet",
+            "hu": "Gallé-Juillet Múzeum",
+            "ro": "Muzeul Gallé-Juillet",
+            "en": "Gallé-Juillet Museum"
+          },
+          "coords": [
+            2.47234,
+            49.2609
+          ],
+          "category": "museum",
+          "arrive_at": "14:03",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.19,
+          "tip_5lang": {
+            "de": "Entdecken Sie den Alltag im 19. Jahrhundert anhand einer reichen Keramiksammlung und vergessen Sie nicht, die Wechselausstellungen im Obergeschoss zu besuchen.",
+            "hu": "Fedezze fel a 19. századi mindennapi életet a gazdag kerámiagyűjteményen keresztül, és feltétlenül tekintse meg az emeleti időszaki kiállításokat a túra végén.",
+            "ro": "Descoperiți viața de zi cu zi din secolul al XIX-lea printr-o bogată colecție de ceramică și nu uitați să explorați expozițiile temporare de la etajul superior.",
+            "en": "Discover everyday life in the 19th century through a rich collection of ceramics and decorative arts, and be sure to check the temporary exhibitions on the upper floor."
+          }
+        },
+        {
+          "name": {
+            "de": "Île Saint-Maurice",
+            "hu": "Saint-Maurice sziget",
+            "ro": "Insula Saint-Maurice",
+            "en": "Saint-Maurice Island"
+          },
+          "coords": [
+            2.468727,
+            49.258927
+          ],
+          "category": "natural",
+          "arrive_at": "15:48",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Machen Sie einen gemütlichen Spaziergang am Flussufer, um die heimische Tierwelt und historische Mühlenruinen zu beobachten, und bringen Sie ein Picknick mit.",
+            "hu": "Tegyen egy kényelmes sétát a folyóparton, hogy megfigyelje a helyi vadvilágot és a történelmi malomromokat, és hozzon magával egy kis pikniket a délutánra.",
+            "ro": "Faceți o plimbare relaxantă pe malul râului pentru a observa fauna locală și ruinele morii istorice, și aduceți un mic picnic pentru a vă bucura de după-amiaza.",
+            "en": "Take a leisurely walk along the riverbanks to observe local wildlife and historic mill ruins, and bring a small picnic to enjoy the tranquil late afternoon atmosphere."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit einem erfrischenden Morgenspaziergang im weitläufigen Parc de la Faïencerie am nördlichen Stadtrand. Fahren Sie mittags nach Süden, um das Château de Vaux und die historische Kirche Saint-Médard im Zentrum zu erkunden. Parken Sie nachmittags Ihr Auto, um die Ausstellungen der La Faïencerie und das Musée Gallé-Juillet bequem zu Fuß zu besuchen. Der Tag endet auf der üppigen Île Saint-Maurice.",
+        "hu": "Kezdje a napot egy frissítő reggeli sétával a város északi szélén fekvő tágas Faïencerie Parkban. Délben hajtson délre, hogy felfedezze a Château de Vaux tekintélyes romjait és a gyönyörű történelmi Saint-Médard templomot a központban. Délután parkolja le autóját, hogy kényelmesen gyalogoljon a La Faïencerie és a Gallé-Juillet Múzeum között. A napot egy festői esti séta zárja a buja Saint-Maurice szigeten.",
+        "ro": "Începeți cu o plimbare revigorantă de dimineață în imensul Parc Faïencerie de la marginea nordică a orașului. La prânz, conduceți spre sud pentru a explora ruinele impunătoare ale Château de Vaux și frumoasa Biserică Saint-Médard din centru. După-amiaza, parcați mașina pentru a merge pe jos între expozițiile de la La Faïencerie și Muzeul Gallé-Juillet. Ziua se încheie pe frumoasa Insulă Saint-Maurice.",
+        "en": "Start with a refreshing morning walk in the expansive Faïencerie Park on the northern edge of town. By midday, drive south to explore the stately ruins of Château de Vaux and the beautiful historic Saint-Médard Church in the center. In the afternoon, park your car to comfortably hop between the dynamic cultural exhibitions at La Faïencerie and the Gallé-Juillet Museum. The day concludes on the lush Saint-Maurice Island."
+      }
+    }
+  }
+}

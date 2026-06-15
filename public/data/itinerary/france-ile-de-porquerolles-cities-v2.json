@@ -1,0 +1,474 @@
+{
+  "city_id": "france-ile-de-porquerolles-cities-v2",
+  "anchor": {
+    "name": "Île de Porquerolles",
+    "coords": [
+      6.216667,
+      43
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:12",
+      "total_km": 1.68,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Sainte-Anne",
+            "hu": "Église Sainte-Anne",
+            "ro": "Église Sainte-Anne",
+            "en": "Église Sainte-Anne"
+          },
+          "coords": [
+            6.204019,
+            43.000271
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, aber schöne Architektur dieser friedlichen Dorfkirche und werfen Sie einen Blick auf das schwarze Brett für lokale Veranstaltungen, bevor Sie eintreten.",
+            "hu": "Csodálja meg ennek a békés falusi templomnak az egyszerű, de gyönyörű építészetét, és belépés előtt mindenképpen nézze meg a hirdetőtáblát a helyi eseményekért.",
+            "ro": "Admirați arhitectura simplă, dar frumoasă a acestei biserici de sat liniștite și asigurați-vă că verificați panoul informativ pentru evenimentele locale înainte de a intra.",
+            "en": "Admire the simple yet beautiful architecture of this peaceful village church, and be sure to check the notice board for local community events before stepping inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage des Porquerollais",
+            "hu": "Plage des Porquerollais",
+            "ro": "Plage des Porquerollais",
+            "en": "Plage des Porquerollais"
+          },
+          "coords": [
+            6.205378,
+            43.002722
+          ],
+          "category": "recreational",
+          "arrive_at": "09:55",
+          "stay_min": 60,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie das kristallklare Wasser an diesem leicht zugänglichen Strand, aber kommen Sie früh am Morgen, um sich einen guten Platz am Wasser zu sichern.",
+            "hu": "Élvezze a kristálytiszta vizet ezen a könnyen megközelíthető strandon, de érkezzen kora reggel, hogy jó helyet biztosítson magának a vízparton.",
+            "ro": "Bucurați-vă de apele cristaline la această plajă ușor accesibilă, dar ajungeți devreme dimineața pentru a vă asigura un loc bun lângă marginea apei.",
+            "en": "Enjoy the crystal-clear waters at this easily accessible beach, but arrive early in the morning to secure a good spot near the water's edge."
+          }
+        },
+        {
+          "name": {
+            "de": "Château Sainte-Agathe",
+            "hu": "Château Sainte-Agathe",
+            "ro": "Château Sainte-Agathe",
+            "en": "Château Sainte-Agathe"
+          },
+          "coords": [
+            6.20628,
+            42.99983
+          ],
+          "category": "fortress",
+          "arrive_at": "11:00",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.33,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Stadtmauern dieser beeindruckenden Festung aus dem 16. Jahrhundert, um einen Panoramablick auf die Insel zu genießen, und tragen Sie bequeme Schuhe für den steilen Aufstieg.",
+            "hu": "Fedezze fel ennek a lenyűgöző 16. századi erődnek a történelmi sáncait a szigetre nyíló panorámáért, és viseljen kényelmes cipőt a meredek mászáshoz.",
+            "ro": "Explorați meterezele istorice ale acestei cetăți impresionante din secolul al XVI-lea pentru vederi panoramice ale insulei și purtați pantofi confortabili pentru urcarea abruptă.",
+            "en": "Explore the historic ramparts of this impressive 16th-century fortress for panoramic views of the island, and wear comfortable shoes for the steep climb up."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Moulin du Bonheur",
+            "hu": "Le Moulin du Bonheur",
+            "ro": "Le Moulin du Bonheur",
+            "en": "Le Moulin du Bonheur"
+          },
+          "coords": [
+            6.207543,
+            42.99795
+          ],
+          "category": "landmark",
+          "arrive_at": "12:24",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto von dieser charmanten, traditionell restaurierten provenzalischen Windmühle und versuchen Sie, sie zu besuchen, wenn die Segel an besonderen Kulturerbetagen entfaltet sind.",
+            "hu": "Készítsen egy fotót erről a bájos, hagyományosan felújított provence-i szélmalomról, és próbálja meg akkor meglátogatni, amikor a vitorlák ki vannak bontva az örökség napjain.",
+            "ro": "Faceți o fotografie cu această moară de vânt provensală fermecătoare, restaurată tradițional, și încercați să o vizitați când pânzele sunt desfășurate în timpul zilelor speciale de patrimoniu.",
+            "en": "Snap a photo of this charming, traditionally restored Provençal windmill, and try to visit when the sails are unfurled during special heritage days."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Carmignac",
+            "hu": "Villa Carmignac",
+            "ro": "Villa Carmignac",
+            "en": "Villa Carmignac"
+          },
+          "coords": [
+            6.211956,
+            42.99941
+          ],
+          "category": "museum",
+          "arrive_at": "12:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem atemberaubenden unterirdischen Museum in zeitgenössische Kunst ein, aber denken Sie daran, Ihre Tickets rechtzeitig zu buchen, da die täglichen Eintritte streng limitiert sind.",
+            "hu": "Merüljön el a kortárs művészetben ebben a lenyűgöző földalatti múzeumban, de ne felejtse el jó előre lefoglalni a jegyeit, mivel a napi belépések száma szigorúan korlátozott.",
+            "ro": "Cufundați-vă în arta contemporană la acest muzeu subteran uimitor, dar nu uitați să vă rezervați biletele cu mult timp înainte, deoarece intrările zilnice sunt strict limitate.",
+            "en": "Immerse yourself in contemporary art at this stunning underground museum, but remember to book your tickets well in advance as daily entries are strictly limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Première Courtade",
+            "hu": "Première Courtade",
+            "ro": "Première Courtade",
+            "en": "Première Courtade"
+          },
+          "coords": [
+            6.2119,
+            43.003346
+          ],
+          "category": "recreational",
+          "arrive_at": "14:42",
+          "stay_min": 90,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.43,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich auf dem weißen Sand des größten Strandes der Insel, umgeben von Eukalyptusbäumen, und packen Sie ein Picknick ein, da es keine Essensstände direkt am Sand gibt.",
+            "hu": "Pihenjen a sziget legnagyobb strandjának fehér homokján, eukaliptuszfákkal körülvéve, és csomagoljon pikniket, mivel nincsenek ételárusító bódék közvetlenül a homokon.",
+            "ro": "Relaxați-vă pe nisipul alb al celei mai mari plaje a insulei, înconjurată de eucalipți, și împachetați un picnic, deoarece nu există tarabe cu mâncare direct pe nisip.",
+            "en": "Relax on the white sands of the island's largest beach, surrounded by eucalyptus trees, and pack a picnic since there are no food stalls directly on the sand."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt im friedlichen Herzen des Dorfes an der örtlichen Kirche, bevor Sie einen kurzen, erfrischenden Spaziergang hinunter zum nahe gelegenen unberührten Strand unternehmen. Die Mittagszeit lädt Sie ein, zur historischen Festung aus dem 16. Jahrhundert hinaufzusteigen, die einen weiten Blick bietet, gefolgt von einem Besuch der charmanten alten Windmühle. Am Nachmittag tauchen Sie in einem atemberaubenden unterirdischen Museum in erstklassige zeitgenössische Kunst ein. Den Abend verbringen Sie am besten entspannt auf dem weißen Sand des größten Strandes der Insel.",
+        "hu": "A reggel a falu békés szívében, a helyi templomnál kezdődik, mielőtt egy rövid, frissítő sétát tenne a közeli érintetlen strandhoz. A délidő hívogat, hogy felmásszon a történelmi 16. századi erődbe, amely lenyűgöző kilátást nyújt, majd meglátogassa a bájos régi szélmalmot. Délután merüljön el a világszínvonalú kortárs művészetben egy lenyűgöző földalatti múzeumban. Az estét a legjobb a sziget legnagyobb strandjának fehér homokján pihenve tölteni, figyelve, ahogy a naplemente színei elhalványulnak a nyugodt viz felett.",
+        "ro": "Dimineața începe în inima pașnică a satului, la biserica locală, înainte de a face o scurtă plimbare răcoritoare până la plaja imaculată din apropiere. Amiaza vă invită să urcați la cetatea istorică din secolul al XVI-lea, care oferă vederi panoramice, urmată de o vizită la vechea moară de vânt fermecătoare. După-amiaza, cufundați-vă în arta contemporană de talie mondială la un muzeu subteran uimitor. Seara se petrece cel mai bine relaxându-vă pe nisipul alb al celei mai mari plaje a insulei, privind culorile apusului.",
+        "en": "Morning begins in the peaceful heart of the village at the local church, before taking a short, refreshing stroll down to the nearby pristine beach. Midday invites you to climb up to the historic 16th-century fortress, offering sweeping views, followed by a visit to the charming old windmill. In the afternoon, immerse yourself in world-class contemporary art at a stunning underground museum. Evening is best spent relaxing on the white sands of the island's largest beach, watching the sunset colors fade over the tranquil Mediterranean waters."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:24",
+      "total_km": 5.91,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Sainte-Anne",
+            "hu": "Église Sainte-Anne",
+            "ro": "Église Sainte-Anne",
+            "en": "Église Sainte-Anne"
+          },
+          "coords": [
+            6.204019,
+            43.000271
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, aber schöne Architektur dieser friedlichen Dorfkirche und werfen Sie einen Blick auf das schwarze Brett für lokale Veranstaltungen, bevor Sie eintreten.",
+            "hu": "Csodálja meg ennek a békés falusi templomnak az egyszerű, de gyönyörű építészetét, és belépés előtt mindenképpen nézze meg a hirdetőtáblát a helyi eseményekért.",
+            "ro": "Admirați arhitectura simplă, dar frumoasă a acestei biserici de sat liniștite și asigurați-vă că verificați panoul informativ pentru evenimentele locale înainte de a intra.",
+            "en": "Admire the simple yet beautiful architecture of this peaceful village church, and be sure to check the notice board for local community events before stepping inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Carmignac",
+            "hu": "Villa Carmignac",
+            "ro": "Villa Carmignac",
+            "en": "Villa Carmignac"
+          },
+          "coords": [
+            6.211956,
+            42.99941
+          ],
+          "category": "museum",
+          "arrive_at": "09:54",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem atemberaubenden unterirdischen Museum in zeitgenössische Kunst ein, aber denken Sie daran, Ihre Tickets rechtzeitig zu buchen, da die täglichen Eintritte streng limitiert sind.",
+            "hu": "Merüljön el a kortárs művészetben ebben a lenyűgöző földalatti múzeumban, de ne felejtse el jó előre lefoglalni a jegyeit, mivel a napi belépések száma szigorúan korlátozott.",
+            "ro": "Cufundați-vă în arta contemporană la acest muzeu subteran uimitor, dar nu uitați să vă rezervați biletele cu mult timp înainte, deoarece intrările zilnice sunt strict limitate.",
+            "en": "Immerse yourself in contemporary art at this stunning underground museum, but remember to book your tickets well in advance as daily entries are strictly limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Phare de Porquerolles",
+            "hu": "Phare de Porquerolles",
+            "ro": "Phare de Porquerolles",
+            "en": "Phare de Porquerolles"
+          },
+          "coords": [
+            6.206344,
+            42.983478
+          ],
+          "category": "landmark",
+          "arrive_at": "11:44",
+          "stay_min": 25,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.82,
+          "tip_5lang": {
+            "de": "Betrachten Sie die zerklüftete Südküste vom Fuß dieses hoch aufragenden Leuchtturms aus und halten Sie beim Fotografieren der dramatischen Wellen einen sicheren Abstand zu den Klippenrändern.",
+            "hu": "Gyönyörködjön a zord déli partvidékben e tornyosuló világítótorony tövéből, és tartson biztonságos távolságot a sziklák szélétől, miközben a drámai hullámokat fotózza.",
+            "ro": "Admirați coasta sudică accidentată de la baza acestui far falnic și păstrați o distanță sigură de marginile stâncilor în timp ce fotografiați valurile dramatice.",
+            "en": "Take in the rugged southern coastline from the base of this towering lighthouse, and keep a safe distance from the cliff edges while photographing the dramatic waves."
+          }
+        },
+        {
+          "name": {
+            "de": "Calanque de l'indienne",
+            "hu": "Calanque de l'indienne",
+            "ro": "Calanque de l'indienne",
+            "en": "Calanque de l'indienne"
+          },
+          "coords": [
+            6.208355,
+            42.985785
+          ],
+          "category": "natural",
+          "arrive_at": "12:11",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die raue Schönheit dieser versteckten Bucht mit ihren steilen Felsklippen und bringen Sie viel Trinkwasser mit, da der Abstieg der mediterranen Sonne ziemlich ausgesetzt ist.",
+            "hu": "Fedezze fel ennek a meredek sziklás szirtekkel rendelkező, rejtett öbölnek a nyers szépségét, és vigyen magával sok ivóvizet, mivel a lefelé vezető túra eléggé ki van téve a mediterrán napnak.",
+            "ro": "Descoperiți frumusețea brută a acestui golf ascuns cu stâncile sale abrupte și aduceți multă apă de băut, deoarece drumeția în jos este destul de expusă la soarele mediteranean.",
+            "en": "Discover the raw beauty of this hidden inlet with its steep rocky cliffs, and bring plenty of drinking water as the hike down is quite exposed to the Mediterranean sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Le Moulin du Bonheur",
+            "hu": "Le Moulin du Bonheur",
+            "ro": "Le Moulin du Bonheur",
+            "en": "Le Moulin du Bonheur"
+          },
+          "coords": [
+            6.207543,
+            42.99795
+          ],
+          "category": "landmark",
+          "arrive_at": "13:19",
+          "stay_min": 25,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.34,
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto von dieser charmanten, traditionell restaurierten provenzalischen Windmühle und versuchen Sie, sie zu besuchen, wenn die Segel an besonderen Kulturerbetagen entfaltet sind.",
+            "hu": "Készítsen egy fotót erről a bájos, hagyományosan felújított provence-i szélmalomról, és próbálja meg akkor meglátogatni, amikor a vitorlák ki vannak bontva az örökség napjain.",
+            "ro": "Faceți o fotografie cu această moară de vânt provensală fermecătoare, restaurată tradițional, și încercați să o vizitați când pânzele sunt desfășurate în timpul zilelor speciale de patrimoniu.",
+            "en": "Snap a photo of this charming, traditionally restored Provençal windmill, and try to visit when the sails are unfurled during special heritage days."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage d'Argent",
+            "hu": "Plage d'Argent",
+            "ro": "Plage d'Argent",
+            "en": "Plage d'Argent"
+          },
+          "coords": [
+            6.187249,
+            43.004556
+          ],
+          "category": "recreational",
+          "arrive_at": "13:54",
+          "stay_min": 90,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem berühmten Silbersandstrand mit flachem, unberührtem Wasser und nutzen Sie das Strandrestaurant, wenn Sie Ihr Mittagessen nicht selbst tragen möchten.",
+            "hu": "Kapcsolódjon ki ezen a híres, ezüsthomokos strandon, amelynek sekély, érintetlen vize van, és használja ki a tengerparti éttermet, ha nem szeretné a saját ebédjét cipelni.",
+            "ro": "Relaxați-vă la această faimoasă plajă cu nisip argintiu, cu ape puțin adânci și imaculate, și profitați de restaurantul de pe malul mării dacă preferați să nu vă aduceți propriul prânz.",
+            "en": "Unwind at this famous silver-sand beach with shallow, pristine waters, and take advantage of the beachfront restaurant if you prefer not to carry your own lunch."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihr Fahrradabenteuer im Dorfzentrum und brechen Sie früh auf, um die renommierte Stiftung für zeitgenössische Kunst inmitten der Kiefern zu erkunden. Die Mittagszeit bringt eine malerische Fahrt nach Süden zum hoch aufragenden Leuchtturm der Insel und den dramatischen, felsigen Calanques. Am Nachmittag radeln Sie landeinwärts zurück, um die ikonische restaurierte Windmühle zu bewundern, ein Symbol des Inselerbes. Der Abend belohnt Ihre Bemühungen mit einer gemütlichen Fahrt zu einem berühmten Silbersandstrand.",
+        "hu": "Kezdje kerékpáros kalandját a falu központjában, és induljon korán, hogy felfedezze a fenyőfák között megbúvó neves kortárs művészeti alapítványt. A délidő egy festői utazást hoz délre a sziget tornyosuló világítótornyához és a drámai, sziklás öblökhöz. Délután pedálozzon vissza a szárazföld belsejébe, hogy megcsodálja az ikonikus, felújított szélmalmot, amely a sziget örökségének szimbóluma. Az este egy kényelmes kerékpározással jutalmazza meg erőfeszítéseit egy híres ezüsthomokos strandhoz.",
+        "ro": "Începeți aventura cu bicicleta în centrul satului, pornind devreme pentru a explora renumita fundație de artă contemporană situată printre pini. Amiaza aduce o plimbare pitorească spre sud până la farul falnic al insulei și calancile stâncoase dramatice. După-amiaza, pedalați înapoi spre interior pentru a admira emblematica moară de vânt restaurată, un simbol al patrimoniului insulei. Seara vă răsplătește eforturile cu o plimbare pe îndelete până la o plajă faimoasă cu nisip argintiu, perfectă pentru a înota.",
+        "en": "Start your biking adventure in the village center, setting off early to explore the renowned contemporary art foundation set amongst the pine trees. Midday brings a scenic ride southward to the island's towering lighthouse and the dramatic, rocky calanques offering spectacular cliffside views. In the afternoon, pedal back inland to admire the iconic restored windmill, a symbol of the island's heritage. The evening rewards your efforts with a leisurely cycle to a famous silver-sand beach, perfect for a twilight swim."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:12",
+      "total_km": 4.71,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Piscine du Langoustier",
+            "hu": "Piscine du Langoustier",
+            "ro": "Piscine du Langoustier",
+            "en": "Piscine du Langoustier"
+          },
+          "coords": [
+            6.173858,
+            42.999934
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Schwimmen Sie in diesem natürlichen, klaren, vom Meer gebildeten Pool an der Westspitze der Insel und tragen Sie Wasserschuhe, um Ihre Füße vor den scharfen Felsen in den Untiefen zu schützen.",
+            "hu": "Ússzon ebben a természetes, tiszta, tenger által kialakított medencében a sziget nyugati csücskén, és viseljen vízi cipőt, hogy megvédje a lábát a sekély vízben lévő éles szikláktól.",
+            "ro": "Înotați în această piscină naturală, limpede, formată de mare la extremitatea vestică a insulei, și purtați încălțăminte de apă pentru a vă proteja picioarele de stâncile ascuțite din apele puțin adânci.",
+            "en": "Swim in this natural, clear pool formed by the sea on the island's western tip, and wear water shoes to protect your feet from the sharp rocks in the shallows."
+          }
+        },
+        {
+          "name": {
+            "de": "La Vigie",
+            "hu": "La Vigie",
+            "ro": "La Vigie",
+            "en": "La Vigie"
+          },
+          "coords": [
+            6.188333,
+            42.99404
+          ],
+          "category": "historical",
+          "arrive_at": "10:13",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.34,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die historische Bedeutung dieses alten Beobachtungspostens, der die Küste bewachte, und bringen Sie ein Fernglas mit, um entfernte Segelboote am Horizont zu entdecken.",
+            "hu": "Csodálja meg ennek az ősi megfigyelőállomásnak a történelmi jelentőségét, amely a partot őrizte, és hozzon magával távcsövet, hogy kiszúrja a horizonton áthaladó távoli vitorlásokat.",
+            "ro": "Minunați-vă de importanța istorică a acestui vechi post de observație care păzea coasta și aduceți binoclu pentru a observa bărcile cu pânze îndepărtate care traversează orizontul.",
+            "en": "Marvel at the historical significance of this ancient lookout post that guarded the coast, and bring binoculars to spot distant sailboats crossing the horizon."
+          }
+        },
+        {
+          "name": {
+            "de": "Château Sainte-Agathe",
+            "hu": "Château Sainte-Agathe",
+            "ro": "Château Sainte-Agathe",
+            "en": "Château Sainte-Agathe"
+          },
+          "coords": [
+            6.20628,
+            42.99983
+          ],
+          "category": "fortress",
+          "arrive_at": "11:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.59,
+          "tip_5lang": {
+            "de": "Erkunden Sie die historischen Stadtmauern dieser beeindruckenden Festung aus dem 16. Jahrhundert, um einen Panoramablick auf die Insel zu genießen, und tragen Sie bequeme Schuhe für den steilen Aufstieg.",
+            "hu": "Fedezze fel ennek a lenyűgöző 16. századi erődnek a történelmi sáncait a szigetre nyíló panorámáért, és viseljen kényelmes cipőt a meredek mászáshoz.",
+            "ro": "Explorați meterezele istorice ale acestei cetăți impresionante din secolul al XVI-lea pentru vederi panoramice ale insulei și purtați pantofi confortabili pentru urcarea abruptă.",
+            "en": "Explore the historic ramparts of this impressive 16th-century fortress for panoramic views of the island, and wear comfortable shoes for the steep climb up."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa Carmignac",
+            "hu": "Villa Carmignac",
+            "ro": "Villa Carmignac",
+            "en": "Villa Carmignac"
+          },
+          "coords": [
+            6.211956,
+            42.99941
+          ],
+          "category": "museum",
+          "arrive_at": "12:58",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.46,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem atemberaubenden unterirdischen Museum in zeitgenössische Kunst ein, aber denken Sie daran, Ihre Tickets rechtzeitig zu buchen, da die täglichen Eintritte streng limitiert sind.",
+            "hu": "Merüljön el a kortárs művészetben ebben a lenyűgöző földalatti múzeumban, de ne felejtse el jó előre lefoglalni a jegyeit, mivel a napi belépések száma szigorúan korlátozott.",
+            "ro": "Cufundați-vă în arta contemporană la acest muzeu subteran uimitor, dar nu uitați să vă rezervați biletele cu mult timp înainte, deoarece intrările zilnice sunt strict limitate.",
+            "en": "Immerse yourself in contemporary art at this stunning underground museum, but remember to book your tickets well in advance as daily entries are strictly limited."
+          }
+        },
+        {
+          "name": {
+            "de": "Est de la Grand Cale",
+            "hu": "Est de la Grand Cale",
+            "ro": "Est de la Grand Cale",
+            "en": "Est de la Grand Cale"
+          },
+          "coords": [
+            6.215011,
+            42.991165
+          ],
+          "category": "natural",
+          "arrive_at": "14:41",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.94,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen wilden östlichen Abschnitt der Küste, der durch dramatische Felsformationen gekennzeichnet ist, und bleiben Sie auf den markierten Wegen, um die empfindliche lokale Flora zu schützen.",
+            "hu": "Fedezze fel a partvidék ezt a vad, drámai sziklaalakzatokkal jellemezhető keleti szakaszát, és maradjon a kijelölt ösvényeken a törékeny helyi növényvilág védelme érdekében.",
+            "ro": "Explorați această secțiune estică sălbatică a coastei, caracterizată prin formațiuni stâncoase dramatice, și rămâneți pe traseele marcate pentru a proteja flora locală fragilă.",
+            "en": "Explore this wild eastern section of the coastline, characterized by dramatic rock formations, and stick to the marked trails to protect the fragile local flora."
+          }
+        },
+        {
+          "name": {
+            "de": "Calanque de l'Oustaou de Diéu",
+            "hu": "Calanque de l'Oustaou de Diéu",
+            "ro": "Calanque de l'Oustaou de Diéu",
+            "en": "Calanque de l'Oustaou de Diéu"
+          },
+          "coords": [
+            6.219435,
+            42.992251
+          ],
+          "category": "recreational",
+          "arrive_at": "15:42",
+          "stay_min": 90,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Genießen Sie die isolierte Schönheit dieser legendären Tiefwasserbucht, die historisch als „Haus Gottes“ bekannt ist, und packen Sie Schnorchelausrüstung ein, um die reiche Unterwasserwelt zu erkunden.",
+            "hu": "Szívja magába e legendás, mély vizű öböl, a történelmileg „Isten házaként” ismert hely elszigetelt szépségét, és csomagoljon sznorkelfelszerelést a gazdag víz alatti élővilág felfedezéséhez.",
+            "ro": "Bucurați-vă de frumusețea izolată a acestui golf legendar cu ape adânci, cunoscut istoric drept „Casa lui Dumnezeu”, și împachetați echipament de snorkeling pentru a explora viața marină bogată de sub apă.",
+            "en": "Soak in the isolated beauty of this legendary deep-water cove, historically known as the 'House of God', and pack snorkeling gear to explore the rich marine life underwater."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt an der abgelegenen Westspitze der Insel, wo Sie ein natürliches Meerwasserschwimmbecken entdecken, bevor Sie zu einem historischen Küstenaussichtspunkt fahren. Navigieren Sie gegen Mittag zurück in Richtung Dorf, um die majestätische Festung zu erkunden, die einen atemberaubenden Blick über die Landschaften der Insel bietet. Der Nachmittag geht über in kulturelle Entdeckungen in einer unterirdischen Kunstvilla. Wenn der Abend naht, fahren Sie zu den rauen südlichen Buchten und finden Ruhe an einem legendären Tiefwassereinlass.",
+        "hu": "Utazása a sziget távoli nyugati csücskén kezdődik, ahol egy természetes tengeri medencét fedez fel, mielőtt egy történelmi tengerparti kilátóhoz hajtana. Délben navigáljon vissza a falu felé, hogy felfedezze a fenséges erődöt, amely lenyűgöző kilátást nyújt a sziget védett tájaira. A délután kulturális felfedezésbe megy át egy elismert földalatti művészeti villában, amely zökkenőmentesen beleolvad a természetbe. Ahogy közeledik az este, hajózzon a zord déli öblökhöz, és találjon nyugalmat egy legendás mély vizű beömlőnél.",
+        "ro": "Călătoria dumneavoastră începe la extremitatea vestică izolată a insulei, descoperind o piscină naturală de mare înainte de a naviga către un punct istoric de observare a coastei. Până la amiază, navigați înapoi spre sat pentru a explora cetatea maiestuoasă care oferă o vedere impunătoare asupra peisajelor protejate ale insulei. După-amiaza trece la descoperirea culturală la o vilă de artă subterană estimată. Pe măsură ce se apropie seara, faceți o croazieră spre golfurile sudice accidentate, găsind liniște la o intrare legendară.",
+        "en": "Your drive begins at the remote western tip of the island, discovering a natural sea pool before cruising to a historic coastal lookout point. By midday, navigate back toward the village to explore the majestic fortress that offers a commanding view over the island's protected landscapes. Afternoon transitions to cultural discovery at an esteemed underground art villa, seamlessly blending with nature. As evening approaches, cruise to the rugged southern coves, finding tranquility at a legendary deep-water inlet as the sun dips below the horizon."
+      }
+    }
+  }
+}

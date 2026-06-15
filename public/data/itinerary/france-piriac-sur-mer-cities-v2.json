@@ -1,0 +1,520 @@
+{
+  "city_id": "france-piriac-sur-mer-cities-v2",
+  "anchor": {
+    "name": "Piriac-sur-Mer",
+    "coords": [
+      -2.54792,
+      47.38053
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "13:25",
+      "total_km": 2.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Pierre-es-Liens",
+            "hu": "Saint-Pierre-es-Liens",
+            "ro": "Saint-Pierre-es-Liens",
+            "en": "Saint-Pierre-es-Liens"
+          },
+          "coords": [
+            -2.546071,
+            47.380921
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne Architektur dieser örtlichen Pfarrkirche, die das maritime Erbe widerspiegelt, aber prüfen Sie vorab die Gottesdienstzeiten.",
+            "hu": "Csodálja meg a helyi plébániatemplom gyönyörű, tengerészeti örökséget tükröző építészetét, de belépés előtt ellenőrizze a misék időpontját.",
+            "ro": "Admirați arhitectura frumoasă a acestei biserici parohiale locale care reflectă moștenirea maritimă, dar verificați programul slujbelor înainte de a intra.",
+            "en": "Admire the beautiful architecture of this local parish church, which reflects the town's maritime heritage, but check the mass schedule before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Michel",
+            "hu": "Saint-Michel",
+            "ro": "Saint-Michel",
+            "en": "Saint-Michel"
+          },
+          "coords": [
+            -2.550291,
+            47.380029
+          ],
+          "category": "recreational",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Küstenort, der für seine friedliche Atmosphäre bekannt ist, ideal für ein schnelles morgendliches Foto der Bucht.",
+            "hu": "Pihenjen ezen a festői tengerparti helyen, amely békés hangulatáról ismert, és ideális egy gyors reggeli fénykép készítéséhez az öbölről.",
+            "ro": "Relaxați-vă în acest loc pitoresc de coastă cunoscut pentru atmosfera sa pașnică, ideal pentru a face o fotografie rapidă de dimineață a golfului.",
+            "en": "Relax at this scenic coastal spot known for its peaceful atmosphere and fresh ocean breeze, ideal for taking a quick morning photograph of the bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Port Lorec",
+            "hu": "Plage de Port Lorec",
+            "ro": "Plage de Port Lorec",
+            "en": "Plage de Port Lorec"
+          },
+          "coords": [
+            -2.548148,
+            47.368506
+          ],
+          "category": "recreational",
+          "arrive_at": "10:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den goldenen Sand dieses charmanten kleinen Strandes, der geschütztes Schwimmen bietet, also bringen Sie Ihr Handtuch und Wasserschuhe mit.",
+            "hu": "Élvezze a varázslatos kis strand aranyhomokját, amely védett fürdőzést kínál, ezért hozzon magával törölközőt és vízicipőt a sziklás részekhez.",
+            "ro": "Bucurați-vă de nisipul auriu al acestei plaje fermecătoare care oferă un loc ferit pentru înot, așa că aduceți prosopul și încălțămintea de apă.",
+            "en": "Enjoy the golden sands of this charming little beach that offers sheltered swimming, so bring your towel and water shoes for the rocky edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Tombeau d'Almonzor",
+            "hu": "Tombeau d'Almonzor",
+            "ro": "Tombeau d'Almonzor",
+            "en": "Tombeau d'Almonzor"
+          },
+          "coords": [
+            -2.552299,
+            47.368819
+          ],
+          "category": "landmark",
+          "arrive_at": "11:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses faszinierende historische Wahrzeichen voller lokaler Folklore über einen tragischen Schiffbruch, am besten bei Ebbe zu besuchen.",
+            "hu": "Fedezze fel ezt az izgalmas, egy tragikus hajótörés helyi folklórjába burkolózó történelmi nevezetességet, amelyet legjobb apálykor meglátogatni.",
+            "ro": "Descoperiți acest reper istoric intrigant învăluit în folclorul local despre un naufragiu tragic, cel mai bine vizitat în timpul mareei joase.",
+            "en": "Discover this intriguing historical landmark shrouded in local folklore about a tragic shipwreck, best visited during low tide to explore the rocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Grand Lanroué",
+            "hu": "Plage du Grand Lanroué",
+            "ro": "Plage du Grand Lanroué",
+            "en": "Plage du Grand Lanroué"
+          },
+          "coords": [
+            -2.544904,
+            47.367311
+          ],
+          "category": "recreational",
+          "arrive_at": "12:15",
+          "stay_min": 70,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang dieses weitläufigen Strandes, der sich perfekt für Familienpicknicks eignet, und packen Sie eine Windjacke für die Nachmittagsbrise ein.",
+            "hu": "Sétáljon végig ezen a tágas szabadidős strandon, amely tökéletes családi piknikekhez, és csomagoljon egy széldzsekit a délutáni szél ellen.",
+            "ro": "Plimbați-vă de-a lungul acestei plaje expansive perfectă pentru picnicuri în familie, și puneți în bagaj o jachetă de vânt pentru briza de după-amiază.",
+            "en": "Walk along this expansive recreational beach perfect for family picnics and sandcastle building, and pack a windbreaker for the afternoon breeze."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung des historischen Pfarrzentrums, bevor Sie in Saint-Michel die Küstenluft einatmen. Mittags schlendern Sie hinunter zu den Sandstränden von Port Lorec für eine Pause. Verbringen Sie den Nachmittag damit, die Legende des Almonzor-Grabes an der zerklüfteten Küste zu entdecken. Beenden Sie den Spaziergang entspannt am Grand Lanroué bis zum Sonnenuntergang.",
+        "hu": "Kezdje a reggelt a történelmi plébániaközpont felfedezésével, majd szívja be a friss tengerparti levegőt a Saint-Michelnél. Délben sétáljon le Port Lorec homokos partjaihoz egy frissítő óceáni szünetre. Töltse a délutánt az Almonzor-sír lenyűgöző legendájának felfedezésével a part mentén. A sétát a Grand Lanroué hatalmas homokjában pihenve zárja egészen napnyugtáig.",
+        "ro": "Începeți dimineața explorând centrul istoric parohial înainte de a respira aerul proaspăt de coastă la Saint-Michel. La prânz, coborâți spre țărmurile de nisip de la Port Lorec pentru o pauză. Petreceți după-amiaza descoperind legenda fascinantă a mormântului Almonzor de-a lungul coastei accidentate. Încheiați plimbarea relaxându-vă pe nisipurile vaste de la Grand Lanroué până la apus.",
+        "en": "Start your morning exploring the historic parish heart before breathing in the fresh coastal air at Saint-Michel. By midday, wander down towards the sandy shores of Port Lorec for a refreshing ocean pause. Spend your afternoon uncovering the fascinating legend of the Almonzor tomb along the rugged coastline. Conclude the walk by relaxing on the vast sands of Grand Lanroué until sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:21",
+      "total_km": 6.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Pierre-es-Liens",
+            "hu": "Saint-Pierre-es-Liens",
+            "ro": "Saint-Pierre-es-Liens",
+            "en": "Saint-Pierre-es-Liens"
+          },
+          "coords": [
+            -2.546071,
+            47.380921
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne Architektur dieser örtlichen Pfarrkirche, die das maritime Erbe widerspiegelt, aber prüfen Sie vorab die Gottesdienstzeiten.",
+            "hu": "Csodálja meg a helyi plébániatemplom gyönyörű, tengerészeti örökséget tükröző építészetét, de belépés előtt ellenőrizze a misék időpontját.",
+            "ro": "Admirați arhitectura frumoasă a acestei biserici parohiale locale care reflectă moștenirea maritimă, dar verificați programul slujbelor înainte de a intra.",
+            "en": "Admire the beautiful architecture of this local parish church, which reflects the town's maritime heritage, but check the mass schedule before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Michel",
+            "hu": "Saint-Michel",
+            "ro": "Saint-Michel",
+            "en": "Saint-Michel"
+          },
+          "coords": [
+            -2.550291,
+            47.380029
+          ],
+          "category": "recreational",
+          "arrive_at": "09:52",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Küstenort, der für seine friedliche Atmosphäre bekannt ist, ideal für ein schnelles morgendliches Foto der Bucht.",
+            "hu": "Pihenjen ezen a festői tengerparti helyen, amely békés hangulatáról ismert, és ideális egy gyors reggeli fénykép készítéséhez az öbölről.",
+            "ro": "Relaxați-vă în acest loc pitoresc de coastă cunoscut pentru atmosfera sa pașnică, ideal pentru a face o fotografie rapidă de dimineață a golfului.",
+            "en": "Relax at this scenic coastal spot known for its peaceful atmosphere and fresh ocean breeze, ideal for taking a quick morning photograph of the bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Tombeau d'Almonzor",
+            "hu": "Tombeau d'Almonzor",
+            "ro": "Tombeau d'Almonzor",
+            "en": "Tombeau d'Almonzor"
+          },
+          "coords": [
+            -2.552299,
+            47.368819
+          ],
+          "category": "landmark",
+          "arrive_at": "10:39",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses faszinierende historische Wahrzeichen voller lokaler Folklore über einen tragischen Schiffbruch, am besten bei Ebbe zu besuchen.",
+            "hu": "Fedezze fel ezt az izgalmas, egy tragikus hajótörés helyi folklórjába burkolózó történelmi nevezetességet, amelyet legjobb apálykor meglátogatni.",
+            "ro": "Descoperiți acest reper istoric intrigant învăluit în folclorul local despre un naufragiu tragic, cel mai bine vizitat în timpul mareei joase.",
+            "en": "Discover this intriguing historical landmark shrouded in local folklore about a tragic shipwreck, best visited during low tide to explore the rocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Port Lorec",
+            "hu": "Plage de Port Lorec",
+            "ro": "Plage de Port Lorec",
+            "en": "Plage de Port Lorec"
+          },
+          "coords": [
+            -2.548148,
+            47.368506
+          ],
+          "category": "recreational",
+          "arrive_at": "11:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den goldenen Sand dieses charmanten kleinen Strandes, der geschütztes Schwimmen bietet, also bringen Sie Ihr Handtuch und Wasserschuhe mit.",
+            "hu": "Élvezze a varázslatos kis strand aranyhomokját, amely védett fürdőzést kínál, ezért hozzon magával törölközőt és vízicipőt a sziklás részekhez.",
+            "ro": "Bucurați-vă de nisipul auriu al acestei plaje fermecătoare care oferă un loc ferit pentru înot, așa că aduceți prosopul și încălțămintea de apă.",
+            "en": "Enjoy the golden sands of this charming little beach that offers sheltered swimming, so bring your towel and water shoes for the rocky edges."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du petit Lanroué",
+            "hu": "Plage du petit Lanroué",
+            "ro": "Plage du petit Lanroué",
+            "en": "Plage du petit Lanroué"
+          },
+          "coords": [
+            -2.54276,
+            47.366236
+          ],
+          "category": "recreational",
+          "arrive_at": "11:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entfliehen Sie den Massen in dieser kleineren Bucht mit intimem Meerblick, wo Sie an der Flutlinie nach wunderschönen Muscheln suchen sollten.",
+            "hu": "Meneküljön el a tömeg elől ezen a kisebb öbölben, amely meghitt kilátást nyújt az óceánra, és ahol érdemes gyönyörű kagylókat keresni a vízparton.",
+            "ro": "Scăpați de aglomerație în acest golf mai mic, care oferă vederi intime la ocean, unde ar trebui cu siguranță să căutați scoici frumoase pe țărm.",
+            "en": "Escape the crowds at this smaller adjacent cove providing intimate ocean views, where you should definitely look for beautiful seashells along the tide line."
+          }
+        },
+        {
+          "name": {
+            "de": "Cartes du Diable",
+            "hu": "Cartes du Diable",
+            "ro": "Cartes du Diable",
+            "en": "Cartes du Diable"
+          },
+          "coords": [
+            -2.522698,
+            47.367326
+          ],
+          "category": "historical",
+          "arrive_at": "12:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese legendären Felsformationen, die wie vom Ozean verstreute Spielkarten aussehen, aber achten Sie auf die rutschigen, algenbedeckten Steine.",
+            "hu": "Csodálja meg ezeket az óceán által faragott, szétszórt játékkártyákra emlékeztető legendás sziklaalakzatokat, de óvatosan lépkedjen a csúszós köveken.",
+            "ro": "Minunați-vă de aceste formațiuni stâncoase legendare asemănătoare cu cărți de joc sculptate de ocean, dar pășiți cu grijă pe pietrele alunecoase.",
+            "en": "Marvel at these legendary rock formations resembling scattered playing cards carved by the ocean, but tread carefully on the slippery algae-covered stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Porh-Er-Stêr",
+            "hu": "Plage de Porh-Er-Stêr",
+            "ro": "Plage de Porh-Er-Stêr",
+            "en": "Plage de Porh-Er-Stêr"
+          },
+          "coords": [
+            -2.525092,
+            47.390156
+          ],
+          "category": "recreational",
+          "arrive_at": "14:11",
+          "stay_min": 70,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Genießen Sie die raue Küstenschönheit dieses unberührten Strandes mit fantastischem Panoramablick, und kommen Sie früh, um sich einen guten Platz zu sichern.",
+            "hu": "Élvezze ezen érintetlen strand zord tengerparti szépségét és fantasztikus panorámáját, és érkezzen korán, hogy jó helyet találjon a nyári csúcsnapokon.",
+            "ro": "Admirați frumusețea de coastă a acestei plaje imaculate, oferind vederi panoramice fantastice, și ajungeți devreme pentru un loc bun în zilele de vară.",
+            "en": "Take in the rugged coastal beauty of this pristine beach offering fantastic panoramic views, and arrive early to claim a good spot during peak summer days."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie durch den Morgen, beginnend an der zentralen Kirche bis zum Panoramablick am Saint-Michel. Mittags erreichen Sie das faszinierende Almonzor-Grab, gefolgt von Pausen in Port Lorec und Petit Lanroué. Im Laufe des Nachmittags radeln Sie zu den mysteriösen Felsformationen Cartes du Diable. Lassen Sie Ihr Radabenteuer ausklingen, während Sie die Wellen in Porh-Er-Stêr beobachten.",
+        "hu": "Kerékpározzon a reggeli órákban a központi templomtól indulva, és élvezze a panorámát a Saint-Michelnél. A dél a lenyűgöző Almonzor-sírhoz vezet, majd Port Lorec strandjainál pihenhet. Délután tekerjen el a titokzatos Cartes du Diable sziklaalakzatokhoz, hogy felfedezze a természet csodáit. A kerékpáros kalandot a Porh-Er-Stêr hullámainak megfigyelésével zárja le.",
+        "ro": "Pedați dimineața începând de la biserica centrală și admirând vederile panoramice de la Saint-Michel. Prânzul vă aduce la fascinantul mormânt Almonzor, urmat de pauze pe plajele Port Lorec și petit Lanroué. Pe parcursul după-amiezii, pedalați spre misterioasele formațiuni stâncoase Cartes du Diable. Încheiați-vă aventura cu bicicleta urmărind valurile la Porh-Er-Stêr.",
+        "en": "Pedal through the morning starting at the charming central church and taking in the panoramic views at Saint-Michel. Midday brings you to the intriguing Almonzor tomb, followed by peaceful breaks at Port Lorec and petit Lanroué beaches. As the afternoon unfolds, cycle to the mysterious Cartes du Diable rock formations. Wind down your cycling adventure watching the waves at Porh-Er-Stêr."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:54",
+      "total_km": 7.6,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Pierre-es-Liens",
+            "hu": "Saint-Pierre-es-Liens",
+            "ro": "Saint-Pierre-es-Liens",
+            "en": "Saint-Pierre-es-Liens"
+          },
+          "coords": [
+            -2.546071,
+            47.380921
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schöne Architektur dieser örtlichen Pfarrkirche, die das maritime Erbe widerspiegelt, aber prüfen Sie vorab die Gottesdienstzeiten.",
+            "hu": "Csodálja meg a helyi plébániatemplom gyönyörű, tengerészeti örökséget tükröző építészetét, de belépés előtt ellenőrizze a misék időpontját.",
+            "ro": "Admirați arhitectura frumoasă a acestei biserici parohiale locale care reflectă moștenirea maritimă, dar verificați programul slujbelor înainte de a intra.",
+            "en": "Admire the beautiful architecture of this local parish church, which reflects the town's maritime heritage, but check the mass schedule before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Michel",
+            "hu": "Saint-Michel",
+            "ro": "Saint-Michel",
+            "en": "Saint-Michel"
+          },
+          "coords": [
+            -2.550291,
+            47.380029
+          ],
+          "category": "recreational",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem malerischen Küstenort, der für seine friedliche Atmosphäre bekannt ist, ideal für ein schnelles morgendliches Foto der Bucht.",
+            "hu": "Pihenjen ezen a festői tengerparti helyen, amely békés hangulatáról ismert, és ideális egy gyors reggeli fénykép készítéséhez az öbölről.",
+            "ro": "Relaxați-vă în acest loc pitoresc de coastă cunoscut pentru atmosfera sa pașnică, ideal pentru a face o fotografie rapidă de dimineață a golfului.",
+            "en": "Relax at this scenic coastal spot known for its peaceful atmosphere and fresh ocean breeze, ideal for taking a quick morning photograph of the bay."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Port au Loup",
+            "hu": "Plage de Port au Loup",
+            "ro": "Plage de Port au Loup",
+            "en": "Plage de Port au Loup"
+          },
+          "coords": [
+            -2.527933,
+            47.387692
+          ],
+          "category": "recreational",
+          "arrive_at": "10:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Beobachten Sie die sanften Wellen an diesem ruhigen Ort nördlich des Zentrums, was ihn zu einem wunderbaren Stopp macht, um ein Buch zu lesen.",
+            "hu": "Nézze a lágy hullámok törését ezen a nyugodt helyen, kissé északra a központtól, amely csodálatos megálló egy könyv olvasásához a tengerparton.",
+            "ro": "Priviți valurile blânde la acest loc liniștit la nord de centru, transformându-l într-o oprire minunată pentru a vă așeza și a citi o carte.",
+            "en": "Watch the gentle waves crash at this tranquil spot slightly north of the center, making it a wonderful stop to lay down your mat and read a book."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Porh-Er-Stêr",
+            "hu": "Plage de Porh-Er-Stêr",
+            "ro": "Plage de Porh-Er-Stêr",
+            "en": "Plage de Porh-Er-Stêr"
+          },
+          "coords": [
+            -2.525092,
+            47.390156
+          ],
+          "category": "recreational",
+          "arrive_at": "11:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Genießen Sie die raue Küstenschönheit dieses unberührten Strandes mit fantastischem Panoramablick, und kommen Sie früh, um sich einen guten Platz zu sichern.",
+            "hu": "Élvezze ezen érintetlen strand zord tengerparti szépségét és fantasztikus panorámáját, és érkezzen korán, hogy jó helyet találjon a nyári csúcsnapokon.",
+            "ro": "Admirați frumusețea de coastă a acestei plaje imaculate, oferind vederi panoramice fantastice, și ajungeți devreme pentru un loc bun în zilele de vară.",
+            "en": "Take in the rugged coastal beauty of this pristine beach offering fantastic panoramic views, and arrive early to claim a good spot during peak summer days."
+          }
+        },
+        {
+          "name": {
+            "de": "Cartes du Diable",
+            "hu": "Cartes du Diable",
+            "ro": "Cartes du Diable",
+            "en": "Cartes du Diable"
+          },
+          "coords": [
+            -2.522698,
+            47.367326
+          ],
+          "category": "historical",
+          "arrive_at": "12:10",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese legendären Felsformationen, die wie vom Ozean verstreute Spielkarten aussehen, aber achten Sie auf die rutschigen, algenbedeckten Steine.",
+            "hu": "Csodálja meg ezeket az óceán által faragott, szétszórt játékkártyákra emlékeztető legendás sziklaalakzatokat, de óvatosan lépkedjen a csúszós köveken.",
+            "ro": "Minunați-vă de aceste formațiuni stâncoase legendare asemănătoare cu cărți de joc sculptate de ocean, dar pășiți cu grijă pe pietrele alunecoase.",
+            "en": "Marvel at these legendary rock formations resembling scattered playing cards carved by the ocean, but tread carefully on the slippery algae-covered stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage du Grand Lanroué",
+            "hu": "Plage du Grand Lanroué",
+            "ro": "Plage du Grand Lanroué",
+            "en": "Plage du Grand Lanroué"
+          },
+          "coords": [
+            -2.544904,
+            47.367311
+          ],
+          "category": "recreational",
+          "arrive_at": "13:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang dieses weitläufigen Strandes, der sich perfekt für Familienpicknicks eignet, und packen Sie eine Windjacke für die Nachmittagsbrise ein.",
+            "hu": "Sétáljon végig ezen a tágas szabadidős strandon, amely tökéletes családi piknikekhez, és csomagoljon egy széldzsekit a délutáni szél ellen.",
+            "ro": "Plimbați-vă de-a lungul acestei plaje expansive perfectă pentru picnicuri în familie, și puneți în bagaj o jachetă de vânt pentru briza de după-amiază.",
+            "en": "Walk along this expansive recreational beach perfect for family picnics and sandcastle building, and pack a windbreaker for the afternoon breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Tombeau d'Almonzor",
+            "hu": "Tombeau d'Almonzor",
+            "ro": "Tombeau d'Almonzor",
+            "en": "Tombeau d'Almonzor"
+          },
+          "coords": [
+            -2.552299,
+            47.368819
+          ],
+          "category": "landmark",
+          "arrive_at": "14:14",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses faszinierende historische Wahrzeichen voller lokaler Folklore über einen tragischen Schiffbruch, am besten bei Ebbe zu besuchen.",
+            "hu": "Fedezze fel ezt az izgalmas, egy tragikus hajótörés helyi folklórjába burkolózó történelmi nevezetességet, amelyet legjobb apálykor meglátogatni.",
+            "ro": "Descoperiți acest reper istoric intrigant învăluit în folclorul local despre un naufragiu tragic, cel mai bine vizitat în timpul mareei joase.",
+            "en": "Discover this intriguing historical landmark shrouded in local folklore about a tragic shipwreck, best visited during low tide to explore the rocks."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Port Lorec",
+            "hu": "Plage de Port Lorec",
+            "ro": "Plage de Port Lorec",
+            "en": "Plage de Port Lorec"
+          },
+          "coords": [
+            -2.548148,
+            47.368506
+          ],
+          "category": "recreational",
+          "arrive_at": "14:44",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie den goldenen Sand dieses charmanten kleinen Strandes, der geschütztes Schwimmen bietet, also bringen Sie Ihr Handtuch und Wasserschuhe mit.",
+            "hu": "Élvezze a varázslatos kis strand aranyhomokját, amely védett fürdőzést kínál, ezért hozzon magával törölközőt és vízicipőt a sziklás részekhez.",
+            "ro": "Bucurați-vă de nisipul auriu al acestei plaje fermecătoare care oferă un loc ferit pentru înot, așa că aduceți prosopul și încălțămintea de apă.",
+            "en": "Enjoy the golden sands of this charming little beach that offers sheltered swimming, so bring your towel and water shoes for the rocky edges."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie früh ins Zentrum, um die klassische Architektur zu bewundern, bevor Sie den Küstenort Saint-Michel besuchen. Die Mittagsetappe verbindet Sie problemlos mit den nördlichen Sandstränden wie Port au Loup. Ihr Nachmittag ist der Erkundung der sagenhaften Felsen Cartes du Diable und des großen Strandes Grand Lanroué gewidmet. Beenden Sie Ihren Roadtrip am Port Lorec.",
+        "hu": "Vezessen a központba korán, hogy megcsodálja a klasszikus építészetet, mielőtt meglátogatná a Saint-Michel csendes partjait. A déli utazás könnyedén összeköti az északi homokos menedékeket, mint a Port au Loup. A délutánt a legendás Cartes du Diable szikláinak és a kiterjedt Grand Lanroué strandnak szentelheti. Fejezze be autós kirándulását Port Lorec partjánál.",
+        "ro": "Conduceți spre centru devreme pentru a admira arhitectura clasică înainte de a vizita refugiul de coastă Saint-Michel. Călătoria de la prânz vă conectează ușor la oazele de nisip din nord, cum ar fi Port au Loup. După-amiaza este dedicată explorării stâncilor legendare Cartes du Diable și a plajei întinse Grand Lanroué. Încheiați călătoria cu mașina bucurându-vă de Port Lorec.",
+        "en": "Drive into the town center early to admire the classic parish architecture before visiting the pleasant coastal retreat of Saint-Michel. The midday drive links you easily to the northern sandy havens like Port au Loup and Porh-Er-Stêr. Your afternoon is dedicated to exploring the legendary Cartes du Diable rocks and the expansive Grand Lanroué beach. End your road trip at Port Lorec."
+      }
+    }
+  }
+}

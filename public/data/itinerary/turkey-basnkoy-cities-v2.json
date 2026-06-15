@@ -1,0 +1,520 @@
+{
+  "city_id": "turkey-basnkoy-cities-v2",
+  "anchor": {
+    "name": "Basınköy",
+    "coords": [
+      28.78043,
+      40.9797
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:12",
+      "total_km": 3.48,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Atatürk Forest",
+            "hu": "Atatürk Forest",
+            "ro": "Atatürk Forest",
+            "en": "Atatürk Forest"
+          },
+          "coords": [
+            28.786705,
+            40.978488
+          ],
+          "category": "park",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entfliehen Sie dem städtischen Trubel in diesem üppigen Wald, indem Sie auf den Wegen spazieren und im Sommer an Mückenschutzmittel denken.",
+            "hu": "Meneküljön el a városi nyüzsgés elől ebbe a buja erdőbe az árnyékos ösvényeken sétálva, és nyáron feltétlenül vigyen magával szúnyogriasztót.",
+            "ro": "Evadați din agitația urbană în această pădure verde plimbându-vă pe traseele umbrite și asigurați-vă că aduceți repelent de țânțari vara.",
+            "en": "Escape the urban bustle in this lush green woodland by walking along its shaded trails, making sure to bring mosquito repellent in the summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Florya Atatürk Deniz Köşkü",
+            "hu": "Florya Atatürk Deniz Köşkü",
+            "ro": "Florya Atatürk Deniz Köşkü",
+            "en": "Florya Atatürk Deniz Köşkü"
+          },
+          "coords": [
+            28.782544,
+            40.972636
+          ],
+          "category": "museum",
+          "arrive_at": "10:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.74,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Architektur der ehemaligen Sommerresidenz von Atatürk, deren restaurierte Innenräume unbedingt sehenswert sind.",
+            "hu": "Fedezze fel Atatürk egykori nyári rezidenciájának lenyűgöző építészetét, ahol a felújított belső terek megtekintése egyenesen kötelező program.",
+            "ro": "Descoperiți arhitectura fascinantă a fostei reședințe de vară a lui Atatürk, unde explorarea interiorului restaurat este absolut obligatorie.",
+            "en": "Discover the fascinating marine-style architecture of Atatürk's former summer residence, where exploring the restored interior is a must."
+          }
+        },
+        {
+          "name": {
+            "de": "Florya Güneș Beach",
+            "hu": "Florya Güneș Beach",
+            "ro": "Florya Güneș Beach",
+            "en": "Florya Güneș Beach"
+          },
+          "coords": [
+            28.786952,
+            40.971681
+          ],
+          "category": "recreational",
+          "arrive_at": "12:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Genießen Sie die Sonne an diesem Strand, an dem Atatürk schwamm, der saubere Einrichtungen und einen Blick auf das Marmarameer bietet.",
+            "hu": "Élvezze a napsütést ezen a történelmi strandon, ahol egykor Atatürk is úszott, és amely tiszta létesítményeket és csodás kilátást kínál a tengerre.",
+            "ro": "Bucurați-vă de soare pe această plajă unde a înotat Atatürk, oferind facilități curate și o vedere minunată asupra Mării Marmara.",
+            "en": "Soak up the sun at this historically significant beach where Atatürk used to swim, offering clean facilities and a wonderful view of the Marmara."
+          }
+        },
+        {
+          "name": {
+            "de": "Menekşe Beach",
+            "hu": "Menekşe Beach",
+            "ro": "Menekşe Beach",
+            "en": "Menekşe Beach"
+          },
+          "coords": [
+            28.771907,
+            40.978683
+          ],
+          "category": "recreational",
+          "arrive_at": "13:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 1.46,
+          "tip_5lang": {
+            "de": "Genießen Sie einen erfrischenden Spaziergang an den Sandstränden dieses Strandes, aber kommen Sie am Wochenende früh, um einen Platz zu finden.",
+            "hu": "Élvezze a frissítő sétát ennek a helyi strandnak a homokos partján, de hétvégén érkezzen korán, hogy jó helyet biztosítson magának a víznél.",
+            "ro": "Bucurați-vă de o plimbare revigorantă pe țărmul nisipos al acestei plaje locale, dar sosiți devreme în weekend pentru a prinde un loc bun.",
+            "en": "Enjoy a refreshing stroll along the sandy shores of this local beach, but arrive early on weekends to secure a good spot near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Menekşe Plajı Sahil Parkı Önü",
+            "hu": "Menekşe Plajı Sahil Parkı Önü",
+            "ro": "Menekşe Plajı Sahil Parkı Önü",
+            "en": "Menekşe Plajı Sahil Parkı Önü"
+          },
+          "coords": [
+            28.761478,
+            40.980407
+          ],
+          "category": "recreational",
+          "arrive_at": "15:27",
+          "stay_min": 105,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem malerischen Küstenpark, der ideal für Picknicks ist, und vergessen Sie Ihre Kamera nicht für tolle Sonnenuntergänge.",
+            "hu": "Pihenjen meg ebben a festői parti parkban, amely tökéletes családi piknikekhez, és ne felejtse otthon a fényképezőgépét a gyönyörű naplementékhez.",
+            "ro": "Relaxați-vă în acest parc de coastă pitoresc, perfect pentru un picnic în familie, și aduceți un aparat foto pentru a surprinde apusul.",
+            "en": "Relax in this scenic coastal park area perfect for family picnics, and don't forget to bring your camera for lovely sunset views over the sea."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung der ruhigen Pfade des Waldes und atmen Sie die frische Küstenluft ein. Mittags besichtigen Sie einen historischen Pavillon am Wasser, der maritime Eleganz ausstrahlt. Verbringen Sie den Nachmittag am historischen Strand und entspannen Sie sich. Zum Abschluss können Sie im nahegelegenen Landschaftspark einen atemberaubenden Sonnenuntergang bewundern.",
+        "hu": "Kezdje a reggelt a helyi erdő nyugodt ösvényeinek felfedezésével, beszívva a friss parti levegőt. Délben látogasson el egy történelmi tengerparti pavilonba, amely eleganciát sugároz. A délutánt töltse a közeli történelmi strand lágy hullámai melletti pihenéssel. Végül fejezze be a sétát egy gyönyörű parkban, ahol megcsodálhatja a lenyűgöző naplementét a tenger felett.",
+        "ro": "Începeți dimineața explorând traseele liniștite ale pădurii locale, respirând aerul proaspăt de coastă. La prânz, vizitați un pavilion istoric fascinant, care prezintă o eleganță maritimă impresionantă. Petreceți după-amiaza relaxându-vă la plaja istorică din apropiere. La final, încheiați plimbarea într-un parc pitoresc, admirând un apus de soare spectaculos deasupra Mării Marmara.",
+        "en": "Start your morning exploring the tranquil trails of the local woodland, breathing in the fresh coastal air. By midday, journey to a fascinating historic waterfront pavilion showcasing maritime elegance. Spend your afternoon relaxing by the soft waves at the nearby historical beach. Finally, conclude your walk at a beautiful scenic park facing the horizon to witness a stunning sunset over the Marmara."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:08",
+      "total_km": 9.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Cennet Kültür Merkezi",
+            "hu": "Cennet Kültür Merkezi",
+            "ro": "Cennet Kültür Merkezi",
+            "en": "Cennet Kültür Merkezi"
+          },
+          "coords": [
+            28.783317,
+            40.992106
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Überprüfen Sie das Programm dieses Kulturzentrums, bevor Sie es besuchen, da Sie vielleicht eine großartige Kunstausstellung sehen können.",
+            "hu": "Látogatás előtt ellenőrizze ennek a kulturális központnak a programját, mert könnyen elcsíphet egy fantasztikus helyi művészeti kiállítást.",
+            "ro": "Verificați programul acestui centru cultural vibrant înainte de vizită, deoarece ați putea prinde o expoziție de artă sau o piesă de teatru.",
+            "en": "Check the schedule at this vibrant cultural center before visiting, as you might catch a fantastic local art exhibition or a community theater play."
+          }
+        },
+        {
+          "name": {
+            "de": "Fatih Camii, Küçükçekmece",
+            "hu": "Fatih Camii, Küçükçekmece",
+            "ro": "Fatih Camii, Küçükçekmece",
+            "en": "Fatih Camii, Küçükçekmece"
+          },
+          "coords": [
+            28.770619,
+            40.991541
+          ],
+          "category": "religious",
+          "arrive_at": "10:06",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.07,
+          "tip_5lang": {
+            "de": "Bewundern Sie das elegante Minarett und den ruhigen Innenhof dieser Moschee, wobei Sie bei Ihrem Besuch die lokalen Gebetszeiten beachten sollten.",
+            "hu": "Csodálja meg a környékbeli mecset elegáns minaretjét és békés udvarát, és ügyeljen a helyi imaidőkre a tiszteletteljes látogatás során.",
+            "ro": "Admirați minaretul elegant și curtea liniștită a acestei moschei de cartier, având grijă să respectați orele locale de rugăciune în timpul vizitei.",
+            "en": "Admire the elegant minaret and peaceful courtyard of this neighborhood mosque, taking a moment to respect local prayer times during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Atatürk Forest",
+            "hu": "Atatürk Forest",
+            "ro": "Atatürk Forest",
+            "en": "Atatürk Forest"
+          },
+          "coords": [
+            28.786705,
+            40.978488
+          ],
+          "category": "park",
+          "arrive_at": "10:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 1.96,
+          "tip_5lang": {
+            "de": "Entfliehen Sie dem städtischen Trubel in diesem üppigen Wald, indem Sie auf den Wegen spazieren und im Sommer an Mückenschutzmittel denken.",
+            "hu": "Meneküljön el a városi nyüzsgés elől ebbe a buja erdőbe az árnyékos ösvényeken sétálva, és nyáron feltétlenül vigyen magával szúnyogriasztót.",
+            "ro": "Evadați din agitația urbană în această pădure verde plimbându-vă pe traseele umbrite și asigurați-vă că aduceți repelent de țânțari vara.",
+            "en": "Escape the urban bustle in this lush green woodland by walking along its shaded trails, making sure to bring mosquito repellent in the summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Menekşe Beach",
+            "hu": "Menekşe Beach",
+            "ro": "Menekşe Beach",
+            "en": "Menekşe Beach"
+          },
+          "coords": [
+            28.771907,
+            40.978683
+          ],
+          "category": "recreational",
+          "arrive_at": "12:19",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.25,
+          "tip_5lang": {
+            "de": "Genießen Sie einen erfrischenden Spaziergang an den Sandstränden dieses Strandes, aber kommen Sie am Wochenende früh, um einen Platz zu finden.",
+            "hu": "Élvezze a frissítő sétát ennek a helyi strandnak a homokos partján, de hétvégén érkezzen korán, hogy jó helyet biztosítson magának a víznél.",
+            "ro": "Bucurați-vă de o plimbare revigorantă pe țărmul nisipos al acestei plaje locale, dar sosiți devreme în weekend pentru a prinde un loc bun.",
+            "en": "Enjoy a refreshing stroll along the sandy shores of this local beach, but arrive early on weekends to secure a good spot near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Florya Atatürk Deniz Köşkü",
+            "hu": "Florya Atatürk Deniz Köşkü",
+            "ro": "Florya Atatürk Deniz Köşkü",
+            "en": "Florya Atatürk Deniz Köşkü"
+          },
+          "coords": [
+            28.782544,
+            40.972636
+          ],
+          "category": "museum",
+          "arrive_at": "13:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Architektur der ehemaligen Sommerresidenz von Atatürk, deren restaurierte Innenräume unbedingt sehenswert sind.",
+            "hu": "Fedezze fel Atatürk egykori nyári rezidenciájának lenyűgöző építészetét, ahol a felújított belső terek megtekintése egyenesen kötelező program.",
+            "ro": "Descoperiți arhitectura fascinantă a fostei reședințe de vară a lui Atatürk, unde explorarea interiorului restaurat este absolut obligatorie.",
+            "en": "Discover the fascinating marine-style architecture of Atatürk's former summer residence, where exploring the restored interior is a must."
+          }
+        },
+        {
+          "name": {
+            "de": "Istanbul Aquarium",
+            "hu": "Istanbul Aquarium",
+            "ro": "Istanbul Aquarium",
+            "en": "Istanbul Aquarium"
+          },
+          "coords": [
+            28.800021,
+            40.964185
+          ],
+          "category": "recreational",
+          "arrive_at": "15:30",
+          "stay_min": 100,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.75,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die thematischen Zonen der globalen Meeresökosysteme und nehmen Sie sich Zeit, um die Fütterung der Rochen zu beobachten.",
+            "hu": "Csodálja meg a globális tengeri ökoszisztémákat bemutató tematikus zónákat, és hagyjon elég időt az óriás ráják etetésének megfigyelésére.",
+            "ro": "Minunați-vă de zonele tematice impresionante ce detaliază ecosisteme marine globale și păstrați timp pentru a observa hrănirea pisicilor de mare.",
+            "en": "Marvel at the impressive thematic zones detailing various global marine ecosystems, and save enough time to observe the gentle giant rays feeding."
+          }
+        },
+        {
+          "name": {
+            "de": "Atatürk Havalimanı Millet Bahçesi",
+            "hu": "Atatürk Havalimanı Millet Bahçesi",
+            "ro": "Atatürk Havalimanı Millet Bahçesi",
+            "en": "Atatürk Havalimanı Millet Bahçesi"
+          },
+          "coords": [
+            28.808158,
+            40.984118
+          ],
+          "category": "park",
+          "arrive_at": "17:23",
+          "stay_min": 105,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.32,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen weitläufigen neuen Park auf einer ehemaligen Landebahn, der sich perfekt für einen ausgiebigen Nachmittagsspaziergang eignet.",
+            "hu": "Fedezze fel ezt a volt repülőtéri kifutópályán épült hatalmas közparkot, amely tökéletes egy hosszú délutáni sétához vagy egy biciklizéshez.",
+            "ro": "Explorați această grădină publică întinsă construită pe o fostă pistă de aeroport, perfectă pentru o plimbare de după-amiază sau o tură cu bicicleta.",
+            "en": "Explore this sprawling new public garden built on a former airport runway, which is perfect for an extensive afternoon walk or a long bicycle ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag in einem Kulturzentrum, bevor Sie zu einer eleganten lokalen Moschee radeln. Setzen Sie Ihren Morgen auf den schattigen Wegen des üppigen Waldreservats fort. Nach dem Mittagessen fahren Sie an der Küste entlang und erkunden ein historisches Herrenhaus und das große Aquarium. Lassen Sie den Abend bei einer Fahrt durch den riesigen Park auf dem alten Flughafengelände ausklingen.",
+        "hu": "Kezdje a napot egy élénk kulturális központban, mielőtt elsétálna a közeli elegáns mecsethez. Folytassa a délelőttöt a helyi erdőrezervátum árnyékos ösvényein tekerve. Ebéd után lovagoljon végig a parton, fedezzen fel egy történelmi tengeri kúriát és egy világszínvonalú akváriumot. Az estét egy hatalmas, régi repülőtéren épült parkban tett kerékpározással zárhatja le.",
+        "ro": "Începeți ziua la un centru cultural animat, apoi pedalați spre o moschee elegantă din vecinătate. Continuați dimineața pe aleile umbrite ale rezervației forestiere luxuriante locale. După prânz, mergeți de-a lungul coastei, explorând un conac maritim istoric și un acvariu de talie mondială. Încheiați seara cu o plimbare printr-un parc uriaș construit pe o veche pistă de aeroport.",
+        "en": "Kick off your day with a visit to a lively cultural hub before cycling to an elegant nearby local mosque. Continue your morning navigating the shaded pathways of the lush local forest reserve. After lunch, ride along the coast to enjoy the sea breeze, exploring a historic marine mansion and a world-class aquarium. Wind down your evening cycling through a massive new park built on an old airport runway."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:22",
+      "total_km": 10.95,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Abdüsselam Camii",
+            "hu": "Abdüsselam Camii",
+            "ro": "Abdüsselam Camii",
+            "en": "Abdüsselam Camii"
+          },
+          "coords": [
+            28.772509,
+            40.99194
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Erleben Sie die friedliche Atmosphäre und die schönen Fliesenarbeiten dieser Stätte und denken Sie daran, sich angemessen zu kleiden.",
+            "hu": "Tapasztalja meg a vallási helyszín nyugodt légkörét és gyönyörű csempéit, és ne feledjen szerény öltözéket viselni, mielőtt belépne a térbe.",
+            "ro": "Experimentați atmosfera senină și mozaicurile frumoase ale acestui sit religios istoric, amintindu-vă să vă îmbrăcați decent înainte de a intra.",
+            "en": "Experience the serene atmosphere and beautiful tile work of this historical religious site, remembering to dress modestly before stepping inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Fatih Camii, Küçükçekmece",
+            "hu": "Fatih Camii, Küçükçekmece",
+            "ro": "Fatih Camii, Küçükçekmece",
+            "en": "Fatih Camii, Küçükçekmece"
+          },
+          "coords": [
+            28.770619,
+            40.991541
+          ],
+          "category": "religious",
+          "arrive_at": "09:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Bewundern Sie das elegante Minarett und den ruhigen Innenhof dieser Moschee, wobei Sie bei Ihrem Besuch die lokalen Gebetszeiten beachten sollten.",
+            "hu": "Csodálja meg a környékbeli mecset elegáns minaretjét és békés udvarát, és ügyeljen a helyi imaidőkre a tiszteletteljes látogatás során.",
+            "ro": "Admirați minaretul elegant și curtea liniștită a acestei moschei de cartier, având grijă să respectați orele locale de rugăciune în timpul vizitei.",
+            "en": "Admire the elegant minaret and peaceful courtyard of this neighborhood mosque, taking a moment to respect local prayer times during your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Cennet Kültür Merkezi",
+            "hu": "Cennet Kültür Merkezi",
+            "ro": "Cennet Kültür Merkezi",
+            "en": "Cennet Kültür Merkezi"
+          },
+          "coords": [
+            28.783317,
+            40.992106
+          ],
+          "category": "cultural",
+          "arrive_at": "10:34",
+          "stay_min": 50,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.07,
+          "tip_5lang": {
+            "de": "Überprüfen Sie das Programm dieses Kulturzentrums, bevor Sie es besuchen, da Sie vielleicht eine großartige Kunstausstellung sehen können.",
+            "hu": "Látogatás előtt ellenőrizze ennek a kulturális központnak a programját, mert könnyen elcsíphet egy fantasztikus helyi művészeti kiállítást.",
+            "ro": "Verificați programul acestui centru cultural vibrant înainte de vizită, deoarece ați putea prinde o expoziție de artă sau o piesă de teatru.",
+            "en": "Check the schedule at this vibrant cultural center before visiting, as you might catch a fantastic local art exhibition or a community theater play."
+          }
+        },
+        {
+          "name": {
+            "de": "Atatürk Forest",
+            "hu": "Atatürk Forest",
+            "ro": "Atatürk Forest",
+            "en": "Atatürk Forest"
+          },
+          "coords": [
+            28.786705,
+            40.978488
+          ],
+          "category": "park",
+          "arrive_at": "11:28",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.54,
+          "tip_5lang": {
+            "de": "Entfliehen Sie dem städtischen Trubel in diesem üppigen Wald, indem Sie auf den Wegen spazieren und im Sommer an Mückenschutzmittel denken.",
+            "hu": "Meneküljön el a városi nyüzsgés elől ebbe a buja erdőbe az árnyékos ösvényeken sétálva, és nyáron feltétlenül vigyen magával szúnyogriasztót.",
+            "ro": "Evadați din agitația urbană în această pădure verde plimbându-vă pe traseele umbrite și asigurați-vă că aduceți repelent de țânțari vara.",
+            "en": "Escape the urban bustle in this lush green woodland by walking along its shaded trails, making sure to bring mosquito repellent in the summer."
+          }
+        },
+        {
+          "name": {
+            "de": "Menekşe Plajı Sahil Parkı Önü",
+            "hu": "Menekşe Plajı Sahil Parkı Önü",
+            "ro": "Menekşe Plajı Sahil Parkı Önü",
+            "en": "Menekşe Plajı Sahil Parkı Önü"
+          },
+          "coords": [
+            28.761478,
+            40.980407
+          ],
+          "category": "recreational",
+          "arrive_at": "12:48",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.14,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem malerischen Küstenpark, der ideal für Picknicks ist, und vergessen Sie Ihre Kamera nicht für tolle Sonnenuntergänge.",
+            "hu": "Pihenjen meg ebben a festői parti parkban, amely tökéletes családi piknikekhez, és ne felejtse otthon a fényképezőgépét a gyönyörű naplementékhez.",
+            "ro": "Relaxați-vă în acest parc de coastă pitoresc, perfect pentru un picnic în familie, și aduceți un aparat foto pentru a surprinde apusul.",
+            "en": "Relax in this scenic coastal park area perfect for family picnics, and don't forget to bring your camera for lovely sunset views over the sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Florya Atatürk Deniz Köşkü",
+            "hu": "Florya Atatürk Deniz Köşkü",
+            "ro": "Florya Atatürk Deniz Köşkü",
+            "en": "Florya Atatürk Deniz Köşkü"
+          },
+          "coords": [
+            28.782544,
+            40.972636
+          ],
+          "category": "museum",
+          "arrive_at": "14:08",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.97,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Architektur der ehemaligen Sommerresidenz von Atatürk, deren restaurierte Innenräume unbedingt sehenswert sind.",
+            "hu": "Fedezze fel Atatürk egykori nyári rezidenciájának lenyűgöző építészetét, ahol a felújított belső terek megtekintése egyenesen kötelező program.",
+            "ro": "Descoperiți arhitectura fascinantă a fostei reședințe de vară a lui Atatürk, unde explorarea interiorului restaurat este absolut obligatorie.",
+            "en": "Discover the fascinating marine-style architecture of Atatürk's former summer residence, where exploring the restored interior is a must."
+          }
+        },
+        {
+          "name": {
+            "de": "Istanbul Aquarium",
+            "hu": "Istanbul Aquarium",
+            "ro": "Istanbul Aquarium",
+            "en": "Istanbul Aquarium"
+          },
+          "coords": [
+            28.800021,
+            40.964185
+          ],
+          "category": "recreational",
+          "arrive_at": "15:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.75,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die thematischen Zonen der globalen Meeresökosysteme und nehmen Sie sich Zeit, um die Fütterung der Rochen zu beobachten.",
+            "hu": "Csodálja meg a globális tengeri ökoszisztémákat bemutató tematikus zónákat, és hagyjon elég időt az óriás ráják etetésének megfigyelésére.",
+            "ro": "Minunați-vă de zonele tematice impresionante ce detaliază ecosisteme marine globale și păstrați timp pentru a observa hrănirea pisicilor de mare.",
+            "en": "Marvel at the impressive thematic zones detailing various global marine ecosystems, and save enough time to observe the gentle giant rays feeding."
+          }
+        },
+        {
+          "name": {
+            "de": "Atatürk Havalimanı Millet Bahçesi",
+            "hu": "Atatürk Havalimanı Millet Bahçesi",
+            "ro": "Atatürk Havalimanı Millet Bahçesi",
+            "en": "Atatürk Havalimanı Millet Bahçesi"
+          },
+          "coords": [
+            28.808158,
+            40.984118
+          ],
+          "category": "park",
+          "arrive_at": "17:37",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.32,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen weitläufigen neuen Park auf einer ehemaligen Landebahn, der sich perfekt für einen ausgiebigen Nachmittagsspaziergang eignet.",
+            "hu": "Fedezze fel ezt a volt repülőtéri kifutópályán épült hatalmas közparkot, amely tökéletes egy hosszú délutáni sétához vagy egy biciklizéshez.",
+            "ro": "Explorați această grădină publică întinsă construită pe o fostă pistă de aeroport, perfectă pentru o plimbare de după-amiază sau o tură cu bicicleta.",
+            "en": "Explore this sprawling new public garden built on a former airport runway, which is perfect for an extensive afternoon walk or a long bicycle ride."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie ins Zentrum, um historische Moscheen und ein modernes Kulturzentrum zu entdecken. Navigieren Sie dann zum Stadtwald für einen erfrischenden Spaziergang am Vormittag. Am Nachmittag fahren Sie an die Küste und besuchen wunderschöne Strände, eine historische Residenz und ein berühmtes Aquarium. Parken Sie schließlich bei den neuen großen öffentlichen Gärten für einen epischen Abend.",
+        "hu": "Autózzon a kerület szívébe, hogy felfedezzen történelmi mecseteket és egy nyüzsgő modern kulturális központot. Navigáljon a városi erdő felé egy frissítő délelőtti sétára a fák között. Délután ereszkedjen le a partra, meglátogatva a strandokat, egy történelmi rezidenciát és egy híres akváriumot. Végül parkoljon le az új, hatalmas közparknál, hogy egy igazán lenyűgöző estét töltsön el.",
+        "ro": "Conduceți în inima cartierului pentru a descoperi moschei istorice și un centru cultural modern vibrant. Îndreptați-vă spre pădurea urbană pentru o plimbare revigorantă printre copaci dimineața. După-amiaza, coborâți pe coastă vizitând plaje frumoase, o reședință istorică și un acvariu renumit. La final, parcați lângă noile grădini publice uriașe pentru o seară de neuitat.",
+        "en": "Drive into the heart of the district to discover historic neighborhood mosques and a bustling modern cultural center. Navigate effortlessly toward the urban forest for a refreshing mid-morning stroll among the trees. In the afternoon, cruise down to the coastline, visiting beautiful beaches, a historic maritime residence, and a famous aquarium. Finally, park near the massive new public gardens for an epic evening."
+      }
+    }
+  }
+}

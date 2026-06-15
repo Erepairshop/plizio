@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-alcala-la-real-cities-v2",
+  "anchor": {
+    "name": "Alcalá la Real",
+    "coords": [
+      -3.929449,
+      37.459791
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:20",
+      "total_km": 1.17,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Pilar de los Alamos",
+            "hu": "Pilar de los Alamos",
+            "ro": "Pilar de los Alamos",
+            "en": "Pilar de los Alamos"
+          },
+          "coords": [
+            -3.922413,
+            37.462556
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen Renaissance-Brunnen, der einst als Hauptwasserquelle diente, und bringen Sie eine nachfüllbare Flasche mit, um während der Besichtigung hydriert zu bleiben.",
+            "hu": "Csodálja meg ezt a reneszánsz kutat, amely egykor a város fő vízforrása volt, és hozzon magával egy újratölthető palackot, hogy hidratált maradjon a kőfaragások megfigyelése közben.",
+            "ro": "Admirați această fântână renascentistă, odinioară principala sursă de apă a orașului, și aduceți o sticlă reutilizabilă pentru a vă menține hidratat observând detaliile sculptate.",
+            "en": "Admire this Renaissance fountain, which once served as the town's main water source, and bring a refillable bottle to stay hydrated while observing its intricate stonework."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacio de los Fernández de Moya",
+            "hu": "Palacio de los Fernández de Moya",
+            "ro": "Palacio de los Fernández de Moya",
+            "en": "Palacio de los Fernández de Moya"
+          },
+          "coords": [
+            -3.922941,
+            37.464282
+          ],
+          "category": "historical",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen historischen Palast mit seiner andalusischen Architektur, achten Sie auf sein Wappen und genießen Sie danach einen Kaffee an einem nahegelegenen Platz.",
+            "hu": "Fedezze fel ezt a gyönyörű andalúz építészetű történelmi palotát, és figyelje meg a nemesi címerét, mielőtt meginna egy kávét egy közeli téren.",
+            "ro": "Explorați acest palat istoric cu arhitectură andaluză, observând blazonul său nobiliar înainte de a savura o cafea într-o piață din apropiere.",
+            "en": "Explore this historic palace featuring beautiful Andalusian architecture, taking note of its noble coat of arms before enjoying a coffee at a nearby plaza."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de Consolación",
+            "hu": "Iglesia de Consolación",
+            "ro": "Iglesia de Consolación",
+            "en": "Iglesia de Consolación"
+          },
+          "coords": [
+            -3.924373,
+            37.464888
+          ],
+          "category": "religious",
+          "arrive_at": "11:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese große Kirche, die für ihr beeindruckendes Altarbild bekannt ist, und denken Sie daran, sich bescheiden zu kleiden und leise zu sein.",
+            "hu": "Látogasson el ebbe a lenyűgöző oltárképéről ismert nagyszerű templomba, de ne feledjen szerényen öltözködni és halkan beszélni a misék idején.",
+            "ro": "Vizitați această biserică grandioasă cunoscută pentru altarul său impresionant și atmosfera senină, amintindu-vă să vă îmbrăcați modest și să păstrați liniștea.",
+            "en": "Visit this grand church known for its impressive altarpiece and serene atmosphere, but remember to dress modestly and keep your voice down during service hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Pineda",
+            "hu": "Casa Pineda",
+            "ro": "Casa Pineda",
+            "en": "Casa Pineda"
+          },
+          "coords": [
+            -3.927259,
+            37.463411
+          ],
+          "category": "historical",
+          "arrive_at": "12:41",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie den Charme dieses traditionellen Herrenhauses, das einen Einblick in das aristokratische Leben bietet, und achten Sie auf die fein gearbeiteten Holzbalkone.",
+            "hu": "Fedezze fel ennek a hagyományos kastélynak a varázsát, amely bepillantást enged az arisztokrata életbe, és figyelje meg az utcára néző finom kidolgozású faerkélyeket.",
+            "ro": "Descoperiți farmecul acestei case impunătoare tradiționale care oferă o privire în viața aristocratică și căutați balcoanele din lemn fin lucrate care dau spre stradă.",
+            "en": "Discover the charm of this traditional stately home, which offers a glimpse into aristocratic life, and look out for the finely crafted wooden balconies facing the street."
+          }
+        },
+        {
+          "name": {
+            "de": "Antiguo Convento de San Francisco",
+            "hu": "Antiguo Convento de San Francisco",
+            "ro": "Antiguo Convento de San Francisco",
+            "en": "Antiguo Convento de San Francisco"
+          },
+          "coords": [
+            -3.929492,
+            37.462789
+          ],
+          "category": "historical",
+          "arrive_at": "14:05",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Gehen Sie durch die Ruinen dieses alten Klosters, das Geschichten der Religionsgeschichte erzählt, und tragen Sie feste Schuhe, um die unebenen Steinwege sicher zu begehen.",
+            "hu": "Sétáljon végig ennek az ősi kolostornak a romjain, amely vallástörténeti meséket őriz, és viseljen masszív cipőt, hogy biztonságosan haladjon az egyenetlen kőutakon.",
+            "ro": "Plimbați-vă prin ruinele acestui vechi mănăstiri care spune povești de istorie religioasă, purtând încălțăminte rezistentă pentru a naviga în siguranță pe cărările de piatră.",
+            "en": "Walk through the ruins of this ancient convent that tells stories of religious history, wearing sturdy shoes to navigate the somewhat uneven ancient stone paths safely."
+          }
+        },
+        {
+          "name": {
+            "de": "Fortaleza de la Mota",
+            "hu": "Fortaleza de la Mota",
+            "ro": "Fortaleza de la Mota",
+            "en": "Fortaleza de la Mota"
+          },
+          "coords": [
+            -3.929884,
+            37.460064
+          ],
+          "category": "historical",
+          "arrive_at": "15:30",
+          "stay_min": 110,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Steigen Sie zu dieser prächtigen maurischen Festung mit Panoramablick auf die Olivenhaine hinauf und besuchen Sie sie am späten Nachmittag für das beste Licht.",
+            "hu": "Másszon fel ehhez a csodálatos mór erődhöz, ahonnan panorámás kilátás nyílik az olajfaligetekre, és próbálja meg késő délután meglátogatni a lenyűgöző arany órai fényekért.",
+            "ro": "Urcați la această magnifică fortăreață maură care oferă vederi panoramice ale plantațiilor de măslini și încercați să o vizitați după-amiaza târziu pentru lumina aurie.",
+            "en": "Climb up to this magnificent Moorish fortress offering panoramic views of the olive groves, and try to visit in the late afternoon to catch the stunning golden hour light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Rundgang am monumentalen Pilar de los Alamos und genießen Sie das historische Ambiente der Stadt. Mittags geht es vorbei an prächtigen Palastfassaden zur friedlichen Iglesia de Consolación. Entdecken Sie am Nachmittag Adelshäuser und Klosterruinen in der Unterstadt. Der Tag gipfelt in einem triumphalen Aufstieg zur majestätischen Fortaleza de la Mota.",
+        "hu": "Kezdje a gyalogos túrát a monumentális Pilar de los Alamosnál, és élvezze a város történelmi hangulatát. Délben haladjon el a Fernández de Moya nagyszerű palota homlokzatai mellett a békés Consolación templom felé. Délután fedezze fel az alsóváros nemesi házait és történelmi kolostorromjait. A nap a fenséges Fortaleza de la Mota diadalmas megmászásával csúcsosodik ki.",
+        "ro": "Începeți turul pietonal la monumentala Pilar de los Alamos, bucurându-vă de ambianța istorică a orașului. La prânz veți trece pe lângă fațade de palate către pașnica Iglesia de Consolación. După-amiaza, descoperiți case nobiliare și ruine de mănăstiri în orașul de jos. Ziua culminează cu o ascensiune triumfală la maiestuoasa Fortaleza de la Mota, o experiență inegalabilă.",
+        "en": "Begin your walking tour at the monumental Pilar de los Alamos, soaking in the town's historical ambiance. Midday brings you past grand palatial facades like Fernández de Moya toward the peaceful Iglesia de Consolación. In the afternoon, discover noble homes and historic convent ruins in the lower town. The day culminates with a triumphant ascent to the majestic Fortaleza de la Mota."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:10",
+      "total_km": 2.36,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Convento de Capuchinos",
+            "hu": "Convento de Capuchinos",
+            "ro": "Convento de Capuchinos",
+            "en": "Convento de Capuchinos"
+          },
+          "coords": [
+            -3.921449,
+            37.460793
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, aber schöne Fassade dieses ehemaligen Klosters und ruhen Sie sich einen Moment in den schattigen Bereichen der angrenzenden Gärten aus.",
+            "hu": "Csodálja meg ennek az egykori kolostornak a szigorú, mégis gyönyörű homlokzatát, és pihenjen egy pillanatot a szomszédos kertek árnyékos részein.",
+            "ro": "Admirați fațada austeră, dar frumoasă a acestei foste mănăstiri, care reflectă simplitatea franciscană, și odihniți-vă puțin în zonele umbrite ale grădinilor adiacente.",
+            "en": "Admire the austere yet beautiful facade of this former convent, which reflects Franciscan simplicity, and take a moment to rest in the shaded areas of the adjacent gardens."
+          }
+        },
+        {
+          "name": {
+            "de": "Mirador de la Cruz del Rayo",
+            "hu": "Mirador de la Cruz del Rayo",
+            "ro": "Mirador de la Cruz del Rayo",
+            "en": "Mirador de la Cruz del Rayo"
+          },
+          "coords": [
+            -3.915192,
+            37.460846
+          ],
+          "category": "natural",
+          "arrive_at": "09:43",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem hohen Aussichtspunkt den atemberaubenden Blick über die andalusischen Hügel und bringen Sie Ihre Kamera für unvergessliche Landschaftsfotos mit.",
+            "hu": "Élvezze a lélegzetelállító kilátást az andalúz dombokra ebből a magaslati pontból, és feltétlenül hozzon magával fényképezőgépet felejthetetlen tájképek készítéséhez.",
+            "ro": "Bucurați-vă de priveliștile uluitoare asupra dealurilor andaluze de la acest punct de belvedere și asigurați-vă că aduceți camera pentru fotografii de peisaj de neuitat.",
+            "en": "Take in the breathtaking sweeping views over the Andalusian hills from this high vantage point, and make sure to bring your camera for unforgettable landscape photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Pilar de los Alamos",
+            "hu": "Pilar de los Alamos",
+            "ro": "Pilar de los Alamos",
+            "en": "Pilar de los Alamos"
+          },
+          "coords": [
+            -3.922413,
+            37.462556
+          ],
+          "category": "historical",
+          "arrive_at": "10:12",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Bewundern Sie diesen Renaissance-Brunnen, der einst als Hauptwasserquelle diente, und bringen Sie eine nachfüllbare Flasche mit, um während der Besichtigung hydriert zu bleiben.",
+            "hu": "Csodálja meg ezt a reneszánsz kutat, amely egykor a város fő vízforrása volt, és hozzon magával egy újratölthető palackot, hogy hidratált maradjon a kőfaragások megfigyelése közben.",
+            "ro": "Admirați această fântână renascentistă, odinioară principala sursă de apă a orașului, și aduceți o sticlă reutilizabilă pentru a vă menține hidratat observând detaliile sculptate.",
+            "en": "Admire this Renaissance fountain, which once served as the town's main water source, and bring a refillable bottle to stay hydrated while observing its intricate stonework."
+          }
+        },
+        {
+          "name": {
+            "de": "Casas de Enfrente",
+            "hu": "Casas de Enfrente",
+            "ro": "Casas de Enfrente",
+            "en": "Casas de Enfrente"
+          },
+          "coords": [
+            -3.924357,
+            37.463826
+          ],
+          "category": "landmark",
+          "arrive_at": "11:34",
+          "stay_min": 30,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Schlendern Sie an diesen charakteristischen historischen Häusern vorbei, die die lokale Architektur perfekt zeigen, und achten Sie auf die schmiedeeisernen Details der Fenster.",
+            "hu": "Sétáljon el ezek mellett a jellegzetes történelmi házak mellett, amelyek tökéletesen bemutatják a helyi építészetet, és szánjon időt az ablakok kovácsoltvas részleteinek megfigyelésére.",
+            "ro": "Plimbați-vă pe lângă aceste case istorice caracteristice care prezintă perfect arhitectura vernaculară locală, făcându-vă timp să observați detaliile din fier forjat ale ferestrelor.",
+            "en": "Stroll past these characteristic historical houses that perfectly showcase local vernacular architecture, taking time to notice the wrought-iron details on their windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Palacete de la Hilandera",
+            "hu": "Palacete de la Hilandera",
+            "ro": "Palacete de la Hilandera",
+            "en": "Palacete de la Hilandera"
+          },
+          "coords": [
+            -3.925305,
+            37.464657
+          ],
+          "category": "museum",
+          "arrive_at": "12:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem gut erhaltenen Museum in die reiche Textilgeschichte ein und achten Sie auf die interaktiven Web-Displays, um das alte Handwerk besser zu verstehen.",
+            "hu": "Merüljön el a gazdag helyi textiltörténelemben ebben a jól megőrzött múzeumkúriában, és keresse az interaktív szövési bemutatókat az ősi mesterség jobb megértéséhez.",
+            "ro": "Pătrundeți în istoria bogată a textilelor locale în acest conac-muzeu bine conservat și căutați exponatele interactive de țesut pentru a înțelege mai bine meșteșugul antic.",
+            "en": "Delve into the rich local textile history inside this well-preserved museum mansion, and look for the interactive weaving displays to better understand the ancient craft."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre de la cárcel",
+            "hu": "Torre de la cárcel",
+            "ro": "Torre de la cárcel",
+            "en": "Torre de la cárcel"
+          },
+          "coords": [
+            -3.929252,
+            37.459075
+          ],
+          "category": "landmark",
+          "arrive_at": "13:49",
+          "stay_min": 30,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Betrachten Sie die imposante Struktur dieses ehemaligen Gefängnisturms, der seit Jahrhunderten über die Stadt wacht, und lesen Sie die Informationstafeln, um mehr zu erfahren.",
+            "hu": "Figyelje meg ennek az egykori börtöntoronynak az impozáns szerkezetét, amely évszázadok óta őrzi a várost, és olvassa el a táblákat a változatos felhasználásáról.",
+            "ro": "Observați structura impunătoare a acestui fost turn-închisoare care a vegheat asupra orașului timp de secole și citiți plăcile informative pentru a afla despre utilizarile sale.",
+            "en": "Observe the imposing structure of this former prison tower that has watched over the city for centuries, and read the informational plaques to learn about its varied uses."
+          }
+        },
+        {
+          "name": {
+            "de": "Fortaleza de la Mota",
+            "hu": "Fortaleza de la Mota",
+            "ro": "Fortaleza de la Mota",
+            "en": "Fortaleza de la Mota"
+          },
+          "coords": [
+            -3.929884,
+            37.460064
+          ],
+          "category": "historical",
+          "arrive_at": "14:20",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.12,
+          "tip_5lang": {
+            "de": "Steigen Sie zu dieser prächtigen maurischen Festung mit Panoramablick auf die Olivenhaine hinauf und besuchen Sie sie am späten Nachmittag für das beste Licht.",
+            "hu": "Másszon fel ehhez a csodálatos mór erődhöz, ahonnan panorámás kilátás nyílik az olajfaligetekre, és próbálja meg késő délután meglátogatni a lenyűgöző arany órai fényekért.",
+            "ro": "Urcați la această magnifică fortăreață maură care oferă vederi panoramice ale plantațiilor de măslini și încercați să o vizitați după-amiaza târziu pentru lumina aurie.",
+            "en": "Climb up to this magnificent Moorish fortress offering panoramic views of the olive groves, and try to visit in the late afternoon to catch the stunning golden hour light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour am Convento de Capuchinos, bevor Sie zum spektakulären Mirador de la Cruz del Rayo radeln. Mittags erkunden Sie den charmanten historischen Kern und halten am Pilar de los Alamos. Tauchen Sie nach dem Mittagessen im Palacete in die Textilgeschichte ein. Die Abendfahrten enden über den alten Gefängnisturm bis zur gewaltigen Festung.",
+        "hu": "Indítsa kerékpáros útját a békés Convento de Capuchinosnál, majd tekerjen fel a Mirador de la Cruz del Rayo kilátóhoz. Délben fedezze fel a bájos történelmi központot, megállva a Pilar de los Alamosnál. Ebéd után merüljön el a textiltörténelemben a Palacetében. Az esti túra a régi börtöntornyon keresztül a hatalmas erődhöz vezet, csodás kilátással.",
+        "ro": "Începeți călătoria cu bicicleta la seninul Convento de Capuchinos înainte de a pedala până la spectaculosul Mirador de la Cruz del Rayo. La prânz explorați centrul istoric fermecător, cu opriri la Pilar de los Alamos. După prânz, pătrundeți în istoria textilelor la Palacete. Cursele de seară se încheie trecând prin vechiul turn al închisorii până la fortăreață.",
+        "en": "Kick off your cycling journey at the serene Convento de Capuchinos before pedaling up to the spectacular Mirador de la Cruz del Rayo. Midday involves exploring the town's charming historic core, stopping by the Pilar de los Alamos and unique local mansions. After lunch, delve into textile history at the Palacete. Evening rides conclude via the old prison tower up to the fortress."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:15",
+      "total_km": 1.7,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Beeldhouwwerk rotsen",
+            "hu": "Beeldhouwwerk rotsen",
+            "ro": "Beeldhouwwerk rotsen",
+            "en": "Beeldhouwwerk rotsen"
+          },
+          "coords": [
+            -3.923364,
+            37.473021
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese faszinierenden Felsenskulpturen, die Natur und Kunst verbinden, und tragen Sie bequeme Wanderschuhe, um das unebene Gelände leicht zu überqueren.",
+            "hu": "Fedezze fel ezeket a lenyűgöző sziklaszobrokat, amelyek ötvözik a természetet és a művészetet a szabadban, és viseljen kényelmes cipőt az egyenetlen terep bejárásához.",
+            "ro": "Explorați aceste sculpturi fascinante în stâncă ce îmbină natura și arta în aer liber și purtați încălțăminte confortabilă pentru a traversa ușor terenul accidentat din jur.",
+            "en": "Explore these fascinating rock sculptures blending nature and art in an outdoor setting, and wear comfortable walking shoes to traverse the uneven terrain around them easily."
+          }
+        },
+        {
+          "name": {
+            "de": "Iglesia de Consolación",
+            "hu": "Iglesia de Consolación",
+            "ro": "Iglesia de Consolación",
+            "en": "Iglesia de Consolación"
+          },
+          "coords": [
+            -3.924373,
+            37.464888
+          ],
+          "category": "religious",
+          "arrive_at": "09:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese große Kirche, die für ihr beeindruckendes Altarbild bekannt ist, und denken Sie daran, sich bescheiden zu kleiden und leise zu sein.",
+            "hu": "Látogasson el ebbe a lenyűgöző oltárképéről ismert nagyszerű templomba, de ne feledjen szerényen öltözködni és halkan beszélni a misék idején.",
+            "ro": "Vizitați această biserică grandioasă cunoscută pentru altarul său impresionant și atmosfera senină, amintindu-vă să vă îmbrăcați modest și să păstrați liniștea.",
+            "en": "Visit this grand church known for its impressive altarpiece and serene atmosphere, but remember to dress modestly and keep your voice down during service hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo de la Religiosidad Popular",
+            "hu": "Museo de la Religiosidad Popular",
+            "ro": "Museo de la Religiosidad Popular",
+            "en": "Museo de la Religiosidad Popular"
+          },
+          "coords": [
+            -3.927422,
+            37.461567
+          ],
+          "category": "museum",
+          "arrive_at": "10:23",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Tauchen Sie durch umfangreiche Artefaktsammlungen in die tiefen religiösen Traditionen der Region ein und planen Sie mindestens eine Stunde für die detaillierten Exponate ein.",
+            "hu": "Merüljön el a régió mély vallási hagyományaiban kiterjedt műtárgygyűjteményeken keresztül, és szánjon legalább egy órát a részletes kiállítások teljes értékelésére.",
+            "ro": "Cufundați-vă în profunde tradiții religioase ale regiunii prin colecții extinse de artefacte și alocați cel puțin o oră pentru a aprecia pe deplin exponatele detaliate.",
+            "en": "Immerse yourself in the profound religious traditions of the region through extensive artifact collections, and allocate at least an hour to fully appreciate the detailed exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Antiguo Convento de la Trinidad",
+            "hu": "Antiguo Convento de la Trinidad",
+            "ro": "Antiguo Convento de la Trinidad",
+            "en": "Antiguo Convento de la Trinidad"
+          },
+          "coords": [
+            -3.928351,
+            37.46175
+          ],
+          "category": "historical",
+          "arrive_at": "12:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die klassische Anlage dieses historischen Klosterkomplexes mit einem schönen Kreuzgang und versuchen Sie, früh am Tag zu kommen, wenn es ruhig ist.",
+            "hu": "Csodálja meg ennek a történelmi kolostorkomplexumnak a klasszikus elrendezését, amelynek gyönyörű kerengője van, és próbáljon meg korán érkezni, amikor az udvarok csendesek.",
+            "ro": "Admirați aspectul clasic al acestui complex monahal istoric ce are o mănăstire frumoasă și încercați să vizitați dimineața devreme când curțile interioare sunt liniștite.",
+            "en": "Admire the classic layout of this historical convent complex which features a beautiful cloister, and try to visit early in the day when the courtyards are tranquil and quiet."
+          }
+        },
+        {
+          "name": {
+            "de": "Fortaleza de la Mota",
+            "hu": "Fortaleza de la Mota",
+            "ro": "Fortaleza de la Mota",
+            "en": "Fortaleza de la Mota"
+          },
+          "coords": [
+            -3.929884,
+            37.460064
+          ],
+          "category": "historical",
+          "arrive_at": "13:25",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Steigen Sie zu dieser prächtigen maurischen Festung mit Panoramablick auf die Olivenhaine hinauf und besuchen Sie sie am späten Nachmittag für das beste Licht.",
+            "hu": "Másszon fel ehhez a csodálatos mór erődhöz, ahonnan panorámás kilátás nyílik az olajfaligetekre, és próbálja meg késő délután meglátogatni a lenyűgöző arany órai fényekért.",
+            "ro": "Urcați la această magnifică fortăreață maură care oferă vederi panoramice ale plantațiilor de măslini și încercați să o vizitați după-amiaza târziu pentru lumina aurie.",
+            "en": "Climb up to this magnificent Moorish fortress offering panoramic views of the olive groves, and try to visit in the late afternoon to catch the stunning golden hour light."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Autotour am Stadtrand mit den faszinierenden Felsskulpturen Beeldhouwwerk rotsen. Fahren Sie mittags in die Stadt, um die Iglesia de Consolación zu bewundern und das Museo de la Religiosidad Popular zu erkunden. Der Nachmittag konzentriert sich auf das architektonische Erbe im alten Kloster. Beenden Sie den Tag an der ikonischen Fortaleza de la Mota.",
+        "hu": "Kezdje autós túráját a külvárosban a lenyűgöző Beeldhouwwerk rotsen sziklaszobrokkal. Délben induljon a városba, hogy megcsodálja a Consolación templomot és felfedezze a Vallásosság Múzeumát. A délután a grandiózus építészeti örökségre összpontosít, áthaladva a régi kolostoron. Zárja a napot az ikonikus Fortaleza de la Motánál, élvezve a pazar látványt.",
+        "ro": "Începeți turul cu mașina la periferie cu fascinantele sculpturi în stâncă Beeldhouwwerk rotsen. La prânz, mergeți în oraș pentru a admira Iglesia de Consolación și a explora Museo de la Religiosidad Popular. După-amiaza se concentrează pe moștenirea arhitecturală grandioasă, vizitând vechea mănăstire. Încheiați la emblematica Fortaleza de la Mota.",
+        "en": "Start your driving tour at the outskirts with the fascinating Beeldhouwwerk rotsen rock sculptures. By midday, head into the town to admire the Iglesia de Consolación and explore the Museo de la Religiosidad Popular. The afternoon focuses on the grand architectural heritage, transitioning through the Antiguo Convento de la Trinidad. End at the iconic Fortaleza de la Mota."
+      }
+    }
+  }
+}

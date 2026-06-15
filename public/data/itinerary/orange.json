@@ -1,0 +1,428 @@
+{
+  "city_id": "orange",
+  "anchor": {
+    "name": "Orange",
+    "coords": [
+      4.8089,
+      44.1375
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:06",
+      "total_km": 0.91,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Triumphal Arch of Orange",
+            "hu": "Triumphal Arch of Orange",
+            "ro": "Triumphal Arch of Orange",
+            "en": "Triumphal Arch of Orange"
+          },
+          "coords": [
+            4.804807,
+            44.142171
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses unglaublich gut erhaltene römische Monument an der antiken Via Agrippa und achten Sie auf die maritimen Reliefs, bevor der morgendliche Andrang beginnt.",
+            "hu": "Csodálja meg ezt a lenyűgöző épségben fennmaradt római emlékművet az ősi Via Agrippán, és figyelje meg a részletes tengeri domborműveket, mielőtt a reggeli tömeg megérkezne.",
+            "ro": "Admirați acest monument roman incredibil de bine conservat de pe antica Via Agrippa, acordând atenție detaliilor navale înainte să apară aglomerația matinală.",
+            "en": "Admire this incredibly preserved Roman monument on the ancient Via Agrippa, paying special attention to the detailed naval reliefs before the morning crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Hôtel de Ville",
+            "hu": "Hôtel de Ville",
+            "ro": "Hôtel de Ville",
+            "en": "Hôtel de Ville"
+          },
+          "coords": [
+            4.806921,
+            44.138056
+          ],
+          "category": "civic",
+          "arrive_at": "09:32",
+          "stay_min": 25,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Beachten Sie die elegante Fassade des Rathauses am Hauptplatz und nehmen Sie sich kurz Zeit, um den wunderschönen Uhrturm in der Nähe des Brunnens zu fotografieren.",
+            "hu": "Figyelje meg a városháza elegáns homlokzatát, amely uralja a főteret, és szánjon egy percet a gyönyörű óratorony lefotózására a kút mellől.",
+            "ro": "Observați fațada elegantă a primăriei care domină piața principală și luați-vă un moment pentru a fotografia frumosul turn cu ceas de lângă fântână.",
+            "en": "Notice the elegant facade of the town hall dominating the main square, and take a quick moment to photograph the beautiful clock tower while standing near the fountain."
+          }
+        },
+        {
+          "name": {
+            "de": "Notre-Dame-de-Nazareth Cathedral",
+            "hu": "Notre-Dame-de-Nazareth Cathedral",
+            "ro": "Notre-Dame-de-Nazareth Cathedral",
+            "en": "Notre-Dame-de-Nazareth Cathedral"
+          },
+          "coords": [
+            4.807384,
+            44.13805
+          ],
+          "category": "religious",
+          "arrive_at": "09:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.04,
+          "tip_5lang": {
+            "de": "Betreten Sie dieses historische Gotteshaus, um das beeindruckende Kirchenschiff und die wunderschönen Fresken zu sehen, aber sprechen Sie leise, da oft Morgenmessen stattfinden.",
+            "hu": "Lépjen be ebbe a történelmi szentélybe, hogy megcsodálja a lenyűgöző főhajót és a freskókat, de ne feledjen halkan beszélni a gyakori reggeli misék miatt.",
+            "ro": "Pășiți în acest lăcaș de cult istoric pentru a vedea naosul impresionant și frescele frumoase, dar vorbiți încet, deoarece aici au loc adesea slujbe matinale.",
+            "en": "Step inside this historic place of worship to see the impressive nave and beautiful frescoes, but remember to keep your voice down as morning services often take place here."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Eutrope Hill",
+            "hu": "Saint-Eutrope Hill",
+            "ro": "Saint-Eutrope Hill",
+            "en": "Saint-Eutrope Hill"
+          },
+          "coords": [
+            4.807506,
+            44.138136
+          ],
+          "category": "natural",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.02,
+          "tip_5lang": {
+            "de": "Wandern Sie auf diese grüne Anhöhe für einen spektakulären Panoramablick auf die Stadt und das römische Theater und tragen Sie unbedingt bequeme Schuhe für den Aufstieg.",
+            "hu": "Sétáljon fel ezen a zöldellő dombon, hogy lenyűgöző panoráma nyíljon a városra és a római színházra, de mindenképpen viseljen kényelmes cipőt a meredek szakaszok miatt.",
+            "ro": "Urcați pe această colină verde pentru o vedere panoramică spectaculoasă asupra orașului și a teatrului roman, asigurându-vă că purtați încălțăminte confortabilă pentru pantă.",
+            "en": "Hike up this green natural space for a spectacular panoramic view of the entire city and the Roman theatre, making sure to wear comfortable walking shoes for the steep ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Roman Theatre of Orange",
+            "hu": "Roman Theatre of Orange",
+            "ro": "Roman Theatre of Orange",
+            "en": "Roman Theatre of Orange"
+          },
+          "coords": [
+            4.808895,
+            44.135754
+          ],
+          "category": "historical",
+          "arrive_at": "12:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Stehen Sie ehrfürchtig vor einer der am besten erhaltenen römischen Bühnenwände Europas und steigen Sie auf die oberen Ränge, um die perfekte antike Akustik zu erleben.",
+            "hu": "Álljon lenyűgözve Európa egyik legjobb állapotban fennmaradt római színpadfala előtt, és másszon fel a felső sorokba, hogy teljes mértékben értékelhesse a tökéletes akusztikát.",
+            "ro": "Rămâneți uimit în fața unuia dintre cei mai bine păstrați pereți de scenă romani din Europa și urcați pe treptele superioare pentru a aprecia acustica antică perfectă.",
+            "en": "Stand in awe before one of the best-preserved Roman stage walls in all of Europe, and try climbing to the upper tiers to fully appreciate the perfect ancient acoustics."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Florent Church",
+            "hu": "Saint-Florent Church",
+            "ro": "Saint-Florent Church",
+            "en": "Saint-Florent Church"
+          },
+          "coords": [
+            4.809497,
+            44.136369
+          ],
+          "category": "religious",
+          "arrive_at": "13:56",
+          "stay_min": 70,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.09,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Rundgang an dieser charmanten Kirche mit ihrer ruhigeren, intimeren Atmosphäre und genießen Sie die friedliche Stimmung, bevor Sie das Zentrum verlassen.",
+            "hu": "Zárja a gyalogtúrát ennél a bájos templomnál, amely csendesebb, intimebb légkört kínál, és szánjon egy békés percet a kőfaragások megcsodálására a központ elhagyása előtt.",
+            "ro": "Încheiați-vă turul pietonal la această biserică fermecătoare, care oferă o atmosferă mai liniștită, admirând lucrările în piatră înainte de a părăsi centrul orașului.",
+            "en": "Conclude your walking tour at this charming church that offers a quieter, more intimate atmosphere, taking a peaceful moment to admire the stonework before leaving the center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Morgen beginnt am monumentalen Triumphbogen und führt Sie durch charmante Straßen zum eleganten Hôtel de Ville. Mittags schlendern Sie an der Kathedrale vorbei und erklimmen den Saint-Eutrope-Hügel für atemberaubende Ausblicke. Der Nachmittag ist dem spektakulären römischen Theater gewidmet und endet ruhig an der Kirche Saint-Florent.",
+        "hu": "A reggel a monumentális Diadalívnél kezdődik, amely a hangulatos utcákon át az elegáns Városházához vezet. Délben elsétál a fenséges katedrális mellett, és megmássza a Saint-Eutrope dombot. A délutánt a látványos római színháznak szenteljük, majd a napot csendesen a Saint-Florent templomnál zárjuk.",
+        "ro": "Dimineața începe la monumentalul Arc de Triumf, conducându-vă prin străzile fermecătoare către elegantul Hôtel de Ville. La prânz, veți trece pe lângă măreața Catedrală și veți urca pe colina Saint-Eutrope. După-amiaza este dedicată spectaculosului Teatru Roman, încheind ziua în liniște la biserica Saint-Florent.",
+        "en": "Your morning starts at the monumental Triumphal Arch, leading you through the charming streets to the elegant Hôtel de Ville. By midday, you'll wander past the majestic Cathedral and hike up Saint-Eutrope Hill for breathtaking views. The afternoon is dedicated to the spectacular Roman Theatre, ending the day quietly at Saint-Florent Church."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:38",
+      "total_km": 2.34,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Triumphal Arch of Orange",
+            "hu": "Triumphal Arch of Orange",
+            "ro": "Triumphal Arch of Orange",
+            "en": "Triumphal Arch of Orange"
+          },
+          "coords": [
+            4.804807,
+            44.142171
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses unglaublich gut erhaltene römische Monument an der antiken Via Agrippa und achten Sie auf die maritimen Reliefs, bevor der morgendliche Andrang beginnt.",
+            "hu": "Csodálja meg ezt a lenyűgöző épségben fennmaradt római emlékművet az ősi Via Agrippán, és figyelje meg a részletes tengeri domborműveket, mielőtt a reggeli tömeg megérkezne.",
+            "ro": "Admirați acest monument roman incredibil de bine conservat de pe antica Via Agrippa, acordând atenție detaliilor navale înainte să apară aglomerația matinală.",
+            "en": "Admire this incredibly preserved Roman monument on the ancient Via Agrippa, paying special attention to the detailed naval reliefs before the morning crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Municipal Theatre",
+            "hu": "Municipal Theatre",
+            "ro": "Municipal Theatre",
+            "en": "Municipal Theatre"
+          },
+          "coords": [
+            4.805758,
+            44.134963
+          ],
+          "category": "cultural",
+          "arrive_at": "09:29",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.81,
+          "tip_5lang": {
+            "de": "Bewundern Sie die atemberaubende Architektur dieses lokalen Kulturzentrums und versuchen Sie, ein Programm an der Kasse zu ergattern, um mögliche Abendvorstellungen zu sehen.",
+            "hu": "Tekintse meg ennek a helyi kulturális központnak a lenyűgöző építészetét, és kérjen egy műsorfüzetet a jegypénztárnál, hogy tájékozódjon az esti előadásokról.",
+            "ro": "Admirați arhitectura uluitoare a acestui centru cultural local și încercați să luați un program de la casa de bilete pentru a vedea dacă există spectacole interesante seara.",
+            "en": "Check out the stunning architecture of this local cultural hub, and try to grab a schedule from the box office to see if there are any interesting evening performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Roman Theatre of Orange",
+            "hu": "Roman Theatre of Orange",
+            "ro": "Roman Theatre of Orange",
+            "en": "Roman Theatre of Orange"
+          },
+          "coords": [
+            4.808895,
+            44.135754
+          ],
+          "category": "historical",
+          "arrive_at": "10:11",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Stehen Sie ehrfürchtig vor einer der am besten erhaltenen römischen Bühnenwände Europas und steigen Sie auf die oberen Ränge, um die perfekte antike Akustik zu erleben.",
+            "hu": "Álljon lenyűgözve Európa egyik legjobb állapotban fennmaradt római színpadfala előtt, és másszon fel a felső sorokba, hogy teljes mértékben értékelhesse a tökéletes akusztikát.",
+            "ro": "Rămâneți uimit în fața unuia dintre cei mai bine păstrați pereți de scenă romani din Europa și urcați pe treptele superioare pentru a aprecia acustica antică perfectă.",
+            "en": "Stand in awe before one of the best-preserved Roman stage walls in all of Europe, and try climbing to the upper tiers to fully appreciate the perfect ancient acoustics."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Eutrope Hill",
+            "hu": "Saint-Eutrope Hill",
+            "ro": "Saint-Eutrope Hill",
+            "en": "Saint-Eutrope Hill"
+          },
+          "coords": [
+            4.807506,
+            44.138136
+          ],
+          "category": "natural",
+          "arrive_at": "11:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Wandern Sie auf diese grüne Anhöhe für einen spektakulären Panoramablick auf die Stadt und das römische Theater und tragen Sie unbedingt bequeme Schuhe für den Aufstieg.",
+            "hu": "Sétáljon fel ezen a zöldellő dombon, hogy lenyűgöző panoráma nyíljon a városra és a római színházra, de mindenképpen viseljen kényelmes cipőt a meredek szakaszok miatt.",
+            "ro": "Urcați pe această colină verde pentru o vedere panoramică spectaculoasă asupra orașului și a teatrului roman, asigurându-vă că purtați încălțăminte confortabilă pentru pantă.",
+            "en": "Hike up this green natural space for a spectacular panoramic view of the entire city and the Roman theatre, making sure to wear comfortable walking shoes for the steep ascent."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscine L'attente",
+            "hu": "Piscine L'attente",
+            "ro": "Piscine L'attente",
+            "en": "Piscine L'attente"
+          },
+          "coords": [
+            4.796418,
+            44.134422
+          ],
+          "category": "family",
+          "arrive_at": "12:53",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.98,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem familienfreundlichen Schwimmbad und bringen Sie Ihr eigenes Handtuch und eine Badekappe mit, um die örtlichen Vorschriften zu erfüllen.",
+            "hu": "Pihenjen és hűsöljön ebben a családbarát uszodában, de hozzon magával saját törölközőt és úszósapkát, hogy megfeleljen a helyi medenceszabályzatnak.",
+            "ro": "Relaxați-vă și răcoriți-vă la această piscină potrivită pentru familii, aducându-vă propriul prosop și cască de înot pentru a respecta regulamentele locale în timpul pauzei.",
+            "en": "Relax and cool off at this family-friendly swimming facility, bringing your own towel and swimming cap to comply with local pool regulations while enjoying a refreshing break."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am majestätischen Triumphbogen, bevor Sie zum lebhaften Stadttheater radeln. Gegen Mittag erreichen Sie das römische Theater und fahren weiter zum grünen Saint-Eutrope-Hügel. Der Nachmittag bringt eine entspannte Fahrt zur Piscine L'attente, wo Sie sich ausruhen können.",
+        "hu": "Kezdje kerékpártúráját a fenséges Diadalívnél, majd guruljon le a pezsgő Városi Színházhoz. Dél körül eléri az ikonikus római színházat, majd továbbteker a buja Saint-Eutrope domb felé. A délután egy pihentető utazást tartogat a Piscine L'attente felé, ahol kikapcsolódhat.",
+        "ro": "Începeți-vă turul cu bicicleta la mărețul Arc de Triumf înainte de a pedala către vibrantul Teatru Municipal. În jurul prânzului, veți ajunge la emblematicul Teatru Roman, continuând spre luxurianta colină Saint-Eutrope. După-amiaza aduce o plimbare relaxantă spre Piscine L'attente, unde vă puteți relaxa.",
+        "en": "Kick off your cycling tour at the majestic Triumphal Arch before cruising down to the vibrant Municipal Theatre. Around noon, you will reach the iconic Roman Theatre, pedaling onward to the lush Saint-Eutrope Hill. The afternoon brings a relaxing ride towards Piscine L'attente, where you can unwind and reflect on the day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:09",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Triumphal Arch of Orange",
+            "hu": "Triumphal Arch of Orange",
+            "ro": "Triumphal Arch of Orange",
+            "en": "Triumphal Arch of Orange"
+          },
+          "coords": [
+            4.804807,
+            44.142171
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses unglaublich gut erhaltene römische Monument an der antiken Via Agrippa und achten Sie auf die maritimen Reliefs, bevor der morgendliche Andrang beginnt.",
+            "hu": "Csodálja meg ezt a lenyűgöző épségben fennmaradt római emlékművet az ősi Via Agrippán, és figyelje meg a részletes tengeri domborműveket, mielőtt a reggeli tömeg megérkezne.",
+            "ro": "Admirați acest monument roman incredibil de bine conservat de pe antica Via Agrippa, acordând atenție detaliilor navale înainte să apară aglomerația matinală.",
+            "en": "Admire this incredibly preserved Roman monument on the ancient Via Agrippa, paying special attention to the detailed naval reliefs before the morning crowds arrive."
+          }
+        },
+        {
+          "name": {
+            "de": "Roman Theatre of Orange",
+            "hu": "Roman Theatre of Orange",
+            "ro": "Roman Theatre of Orange",
+            "en": "Roman Theatre of Orange"
+          },
+          "coords": [
+            4.808895,
+            44.135754
+          ],
+          "category": "historical",
+          "arrive_at": "09:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.78,
+          "tip_5lang": {
+            "de": "Stehen Sie ehrfürchtig vor einer der am besten erhaltenen römischen Bühnenwände Europas und steigen Sie auf die oberen Ränge, um die perfekte antike Akustik zu erleben.",
+            "hu": "Álljon lenyűgözve Európa egyik legjobb állapotban fennmaradt római színpadfala előtt, és másszon fel a felső sorokba, hogy teljes mértékben értékelhesse a tökéletes akusztikát.",
+            "ro": "Rămâneți uimit în fața unuia dintre cei mai bine păstrați pereți de scenă romani din Europa și urcați pe treptele superioare pentru a aprecia acustica antică perfectă.",
+            "en": "Stand in awe before one of the best-preserved Roman stage walls in all of Europe, and try climbing to the upper tiers to fully appreciate the perfect ancient acoustics."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Florent Church",
+            "hu": "Saint-Florent Church",
+            "ro": "Saint-Florent Church",
+            "en": "Saint-Florent Church"
+          },
+          "coords": [
+            4.809497,
+            44.136369
+          ],
+          "category": "religious",
+          "arrive_at": "10:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.09,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Rundgang an dieser charmanten Kirche mit ihrer ruhigeren, intimeren Atmosphäre und genießen Sie die friedliche Stimmung, bevor Sie das Zentrum verlassen.",
+            "hu": "Zárja a gyalogtúrát ennél a bájos templomnál, amely csendesebb, intimebb légkört kínál, és szánjon egy békés percet a kőfaragások megcsodálására a központ elhagyása előtt.",
+            "ro": "Încheiați-vă turul pietonal la această biserică fermecătoare, care oferă o atmosferă mai liniștită, admirând lucrările în piatră înainte de a părăsi centrul orașului.",
+            "en": "Conclude your walking tour at this charming church that offers a quieter, more intimate atmosphere, taking a peaceful moment to admire the stonework before leaving the center."
+          }
+        },
+        {
+          "name": {
+            "de": "Piscine L'attente",
+            "hu": "Piscine L'attente",
+            "ro": "Piscine L'attente",
+            "en": "Piscine L'attente"
+          },
+          "coords": [
+            4.796418,
+            44.134422
+          ],
+          "category": "family",
+          "arrive_at": "11:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.07,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in diesem familienfreundlichen Schwimmbad und bringen Sie Ihr eigenes Handtuch und eine Badekappe mit, um die örtlichen Vorschriften zu erfüllen.",
+            "hu": "Pihenjen és hűsöljön ebben a családbarát uszodában, de hozzon magával saját törölközőt és úszósapkát, hogy megfeleljen a helyi medenceszabályzatnak.",
+            "ro": "Relaxați-vă și răcoriți-vă la această piscină potrivită pentru familii, aducându-vă propriul prosop și cască de înot pentru a respecta regulamentele locale în timpul pauzei.",
+            "en": "Relax and cool off at this family-friendly swimming facility, bringing your own towel and swimming cap to comply with local pool regulations while enjoying a refreshing break."
+          }
+        },
+        {
+          "name": {
+            "de": "aliya star",
+            "hu": "aliya star",
+            "ro": "aliya star",
+            "en": "aliya star"
+          },
+          "coords": [
+            4.827909,
+            44.130346
+          ],
+          "category": "family",
+          "arrive_at": "12:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.56,
+          "tip_5lang": {
+            "de": "Besuchen Sie diesen einzigartigen lokalen Erholungsort zum Abschluss Ihrer Autotour und nehmen Sie sich genug Zeit für die Familienaktivitäten vor der Rückfahrt.",
+            "hu": "Látogasson el erre az egyedülálló helyi rekreációs helyszínre az autós túra lezárásaként, és szánjon elegendő időt a családi tevékenységekre a visszaindulás előtt.",
+            "ro": "Vizitați acest loc de recreere local unic pentru a vă încheia turul cu mașina, asigurându-vă că aveți suficient timp pentru a vă bucura de activitățile de familie.",
+            "en": "Visit this unique local recreational spot to end your driving tour, ensuring you have enough time to enjoy the family activities and spacious surroundings before heading back."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie zuerst zum historischen Triumphbogen und bewundern Sie das antike Stadttor. Mittags parken Sie in der Nähe des kolossalen römischen Theaters und erkunden die Kirche Saint-Florent zu Fuß. Am Nachmittag fahren Sie zur Piscine L'attente und beenden Ihren Roadtrip im aliya star.",
+        "hu": "Először hajtson a történelmi Diadalívhez, és csodálja meg a város ősi kapuját. Délben parkoljon le a kolosszális római színház közelében, és fedezze fel a Saint-Florent templomot. Délután a Piscine L'attente felé veszi az irányt, és az autós utazást az aliya star családi élményeivel zárja.",
+        "ro": "Conduceți mai întâi la istoricul Arc de Triumf, admirând poarta antică a orașului. La prânz, parcați lângă colosalul Teatru Roman și explorați biserica Saint-Florent. După-amiaza, vă veți îndrepta spre Piscine L'attente pentru timp liber, încheind excursia la aliya star.",
+        "en": "Drive first to the historic Triumphal Arch, admiring the ancient gateway to the city. By midday, park near the colossal Roman Theatre and explore the nearby Saint-Florent Church on foot. In the afternoon, you will head further out to Piscine L'attente for some leisure time, ending your road trip with family fun at aliya star."
+      }
+    }
+  }
+}

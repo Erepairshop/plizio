@@ -1,0 +1,474 @@
+{
+  "city_id": "poland-miedzyzdroje-cities-v2",
+  "anchor": {
+    "name": "Międzyzdroje",
+    "coords": [
+      14.450556,
+      53.926944
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "12:55",
+      "total_km": 1.22,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kościół Świętego Piotra",
+            "hu": "Kościół Świętego Piotra",
+            "ro": "Kościół Świętego Piotra",
+            "en": "Kościół Świętego Piotra"
+          },
+          "coords": [
+            14.453913,
+            53.929914
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neugotische Architektur dieser friedlichen historischen Kirche, und achten Sie auf die Buntglasfenster, die morgens am schönsten sind.",
+            "hu": "Csodálja meg ennek a békés, történelmi templomnak a neogótikus építészetét, és figyelje meg a reggeli fényben legszebben ragyogó színes üvegablakokat.",
+            "ro": "Admirați arhitectura neogotică a acestei biserici istorice pașnice și observați vitraliile care sunt cel mai bine luminate de razele soarelui de dimineață.",
+            "en": "Admire the neo-Gothic architecture of this peaceful historical church, and take a moment to notice the stained glass windows best viewed in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Papugarnia",
+            "hu": "Papugarnia",
+            "ro": "Papugarnia",
+            "en": "Papugarnia"
+          },
+          "coords": [
+            14.449023,
+            53.928778
+          ],
+          "category": "landmark",
+          "arrive_at": "09:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.34,
+          "tip_5lang": {
+            "de": "Erleben Sie farbenprächtige tropische Vögel in diesem Papageienhaus, und tragen Sie einen Hut, da die Tiere gerne direkt auf dem Kopf der Gäste landen.",
+            "hu": "Élvezze a szabadon repkedő, élénk trópusi madarakat ebben a papagájházban, és viseljen sapkát vagy egyszerű ruhát, mert szívesen a fejére szállnak.",
+            "ro": "Descoperiți păsările tropicale colorate zburând liber în această casă de papagali și purtați o pălărie, deoarece uneori aterizează direct pe vizitatori.",
+            "en": "Experience vibrant tropical birds flying freely in this enclosed parrot house, and wear a hat or plain clothes as they might land directly on your head."
+          }
+        },
+        {
+          "name": {
+            "de": "Wetterturm",
+            "hu": "Meteorológiai tornyocska",
+            "ro": "Turnuleț meteorologic",
+            "en": "Wieżyczka meteorologiczna"
+          },
+          "coords": [
+            14.446627,
+            53.930935
+          ],
+          "category": "landmark",
+          "arrive_at": "10:40",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.28,
+          "tip_5lang": {
+            "de": "Betrachten Sie diesen klassischen meteorologischen Turm mit Wettergeschichte, und untersuchen Sie die antiken Instrumente, wenn der Park nicht so voll ist.",
+            "hu": "Figyelje meg ezt a klasszikus meteorológiai tornyocskát a helyi időjárás történetével, és vizsgálja meg az antik műszereket egy csendesebb időszakban.",
+            "ro": "Observați acest turnuleț meteorologic clasic cu istorie locală și examinați instrumentele sale antice îndeaproape atunci când parcul este mai puțin aglomerat.",
+            "en": "Observe this classic meteorological turret that captures local weather history, and examine its antique instruments up close when the park is less crowded."
+          }
+        },
+        {
+          "name": {
+            "de": "Pomnik Jana Machulskiego - Henryka Kwinto",
+            "hu": "Pomnik Jana Machulskiego - Henryka Kwinto",
+            "ro": "Pomnik Jana Machulskiego - Henryka Kwinto",
+            "en": "Pomnik Jana Machulskiego - Henryka Kwinto"
+          },
+          "coords": [
+            14.449665,
+            53.932153
+          ],
+          "category": "landmark",
+          "arrive_at": "11:24",
+          "stay_min": 15,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Machen Sie ein Foto mit dieser berühmten Bronzestatue einer polnischen Filmfigur, und posieren Sie daneben für eine unvergessliche Urlaubserinnerung.",
+            "hu": "Készítsen egy fotót ezzel a híres bronzszoborral, amely egy lengyel filmkaraktert ábrázol, és vegye fel az ő pózát egy igazán emlékezetes nyaralási képhez.",
+            "ro": "Faceți o fotografie cu această statuie faimoasă a unui personaj de film polonez și încercați să-i copiați poza pentru o amintire de vacanță amuzantă.",
+            "en": "Snap a photo with this famous bronze statue honoring a beloved Polish film character, and try matching his pose for a memorable and fun vacation picture."
+          }
+        },
+        {
+          "name": {
+            "de": "Seebrücke Międzyzdroje",
+            "hu": "Międzyzdroje móló",
+            "ro": "Digul din Międzyzdroje",
+            "en": "Międzyzdroje Pier"
+          },
+          "coords": [
+            14.444316,
+            53.933071
+          ],
+          "category": "landmark",
+          "arrive_at": "11:45",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.36,
+          "tip_5lang": {
+            "de": "Spazieren Sie über dieses ikonische Holzbauwerk mit Panoramablick auf die Ostsee, und kommen Sie bei Sonnenuntergang für das beste Licht mit Windjacke.",
+            "hu": "Sétáljon végig ezen az ikonikus fapilléren a balti panorámáért, és érkezzen naplementekor egy meleg szélkabáttal a legjobb fotók készítéséhez.",
+            "ro": "Plimbați-vă pe această structură emblematică din lemn cu vedere panoramică la Marea Baltică și vizitați-o la apus cu o geacă pentru cele mai bune poze.",
+            "en": "Walk along this iconic wooden structure offering panoramic Baltic Sea views, and visit during sunset for the best lighting while wearing a windbreaker."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen in der friedlichen neugotischen St. Peter Kirche. Mittags können Sie bunte tropische Vögel in der Papugarnia beobachten und den historischen Wetterturm besichtigen. Am Nachmittag bietet die Statue von Henryk Kwinto ein schönes Fotomotiv. Beenden Sie Ihren Spaziergang mit einem atemberaubenden Abendspaziergang auf der Seebrücke und genießen Sie den Sonnenuntergang.",
+        "hu": "Kezdje a reggelt a békés neogótikus Szent Péter-templom felfedezésével. Délben ismerkedjen meg a Papugarnia színes madaraival, és tekintse meg a történelmi meteorológiai tornyocskát. Délután készítsen egy játékos képet Henryk Kwinto szobrával. Zárja a sétát egy lenyűgöző esti andalgással a Międzyzdroje mólón, élvezve a Balti-tenger felejthetetlen naplementéjét és az esti tengeri levegőt.",
+        "ro": "Începeți dimineața descoperind interioarele neogotice pașnice ale Bisericii Sf. Petru. La prânz, interacționați cu păsările tropicale colorate la Papugarnia și inspectați turnulețul meteorologic istoric. După-amiaza, faceți o poză jucăușă cu statuia lui Henryk Kwinto. Încheiați plimbarea bucurându-vă de o seară uimitoare de-a lungul digului din Międzyzdroje și admirând un apus uimitor.",
+        "en": "Start your morning discovering the peaceful neo-Gothic interiors of St. Peter's Church. By midday, engage with the colorful tropical birds at the Papugarnia and inspect the historic meteorological turret. In the afternoon, snap a playful picture with the Henryk Kwinto statue. Conclude the walk by enjoying a stunning evening stroll along the Międzyzdroje Pier, taking in the beautiful Baltic sunset."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:42",
+      "total_km": 9.25,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Leśnogóra",
+            "hu": "Leśnogóra",
+            "ro": "Leśnogóra",
+            "en": "Leśnogóra"
+          },
+          "coords": [
+            14.454754,
+            53.909259
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wandern Sie diesen bewaldeten Hügel hinauf und tauchen Sie in die Flora ein, aber bringen Sie feste Wanderschuhe mit, da die Wege rutschig sein können.",
+            "hu": "Túrázzon fel erre a buja, erdős dombra a helyi növényvilág felfedezéséhez, és hozzon magával masszív túracipőt, mivel az ösvények csúszósak lehetnek.",
+            "ro": "Urcați pe acest deal împădurit cu floră locală deosebită și luați cu voi încălțăminte robustă de drumeție, deoarece potecile pot fi destul de alunecoase.",
+            "en": "Trek up this lush forested hill offering deep immersion into local flora, and bring sturdy hiking boots since the trails can be slippery after spring rain."
+          }
+        },
+        {
+          "name": {
+            "de": "Kościół Świętego Piotra",
+            "hu": "Kościół Świętego Piotra",
+            "ro": "Kościół Świętego Piotra",
+            "en": "Kościół Świętego Piotra"
+          },
+          "coords": [
+            14.453913,
+            53.929914
+          ],
+          "category": "religious",
+          "arrive_at": "10:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.29,
+          "tip_5lang": {
+            "de": "Bewundern Sie die neugotische Architektur dieser friedlichen historischen Kirche, und achten Sie auf die Buntglasfenster, die morgens am schönsten sind.",
+            "hu": "Csodálja meg ennek a békés, történelmi templomnak a neogótikus építészetét, és figyelje meg a reggeli fényben legszebben ragyogó színes üvegablakokat.",
+            "ro": "Admirați arhitectura neogotică a acestei biserici istorice pașnice și observați vitraliile care sunt cel mai bine luminate de razele soarelui de dimineață.",
+            "en": "Admire the neo-Gothic architecture of this peaceful historical church, and take a moment to notice the stained glass windows best viewed in the morning."
+          }
+        },
+        {
+          "name": {
+            "de": "Seebrücke Międzyzdroje",
+            "hu": "Międzyzdroje móló",
+            "ro": "Digul din Międzyzdroje",
+            "en": "Międzyzdroje Pier"
+          },
+          "coords": [
+            14.444316,
+            53.933071
+          ],
+          "category": "landmark",
+          "arrive_at": "11:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.71,
+          "tip_5lang": {
+            "de": "Spazieren Sie über dieses ikonische Holzbauwerk mit Panoramablick auf die Ostsee, und kommen Sie bei Sonnenuntergang für das beste Licht mit Windjacke.",
+            "hu": "Sétáljon végig ezen az ikonikus fapilléren a balti panorámáért, és érkezzen naplementekor egy meleg szélkabáttal a legjobb fotók készítéséhez.",
+            "ro": "Plimbați-vă pe această structură emblematică din lemn cu vedere panoramică la Marea Baltică și vizitați-o la apus cu o geacă pentru cele mai bune poze.",
+            "en": "Walk along this iconic wooden structure offering panoramic Baltic Sea views, and visit during sunset for the best lighting while wearing a windbreaker."
+          }
+        },
+        {
+          "name": {
+            "de": "Baterie Artylerii Stałej",
+            "hu": "Baterie Artylerii Stałej",
+            "ro": "Baterie Artylerii Stałej",
+            "en": "Baterie Artylerii Stałej"
+          },
+          "coords": [
+            14.467958,
+            53.942544
+          ],
+          "category": "landmark",
+          "arrive_at": "12:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.85,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historischen Artilleriebatterien im dichten Wald, und nehmen Sie eine Taschenlampe mit, um die dunklen Teile der alten Bunker zu sehen.",
+            "hu": "Fedezze fel ezeket a sűrű erdőben megbúvó történelmi tüzérségi ütegeket, és hozzon zseblámpát a régi bunkerek sötétebb részeinek biztonságos bejárásához.",
+            "ro": "Explorați aceste baterii de artilerie istorice ascunse în pădurea deasă și aduceți o lanternă pentru a naviga în siguranță prin secțiunile întunecate.",
+            "en": "Explore these historical artillery batteries hidden in the dense forest, and carry a flashlight to safely navigate the darker sections of the old bunkers."
+          }
+        },
+        {
+          "name": {
+            "de": "Biała Góra",
+            "hu": "Biała Góra",
+            "ro": "Biała Góra",
+            "en": "Biała Góra"
+          },
+          "coords": [
+            14.473723,
+            53.944005
+          ],
+          "category": "natural",
+          "arrive_at": "12:55",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Wandern Sie auf den Weißen Berg für weitreichende Küstenpanoramen, und packen Sie reichlich Trinkwasser ein, da es auf dem Gipfel keine Einrichtungen gibt.",
+            "hu": "Másszon fel a Fehér-hegyre a lenyűgöző tengerparti panorámáért, és vigyen magával bőséges ivóvizet, mivel a csúcson nincsenek kiépített létesítmények.",
+            "ro": "Urcați pe Muntele Alb pentru a vă bucura de panorame de coastă spectaculoase și luați suficientă apă de băut, deoarece nu există facilități pe vârf.",
+            "en": "Hike up the pristine White Mountain to enjoy sweeping coastal panoramas, and pack plenty of drinking water as there are no facilities available at the peak."
+          }
+        },
+        {
+          "name": {
+            "de": "The Greifswalder oie Lighthouse",
+            "hu": "The Greifswalder oie Lighthouse",
+            "ro": "The Greifswalder oie Lighthouse",
+            "en": "The Greifswalder oie Lighthouse"
+          },
+          "coords": [
+            14.434109,
+            53.915673
+          ],
+          "category": "landmark",
+          "arrive_at": "14:32",
+          "stay_min": 70,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses Leuchtturmmodell zur regionalen maritimen Sicherheit, und lesen Sie die Informationstafeln, um mehr über die Ostseenavigation zu lernen.",
+            "hu": "Fedezze fel ezt a regionális tengeri biztonságot bemutató világítótorony-modellt, és olvassa el az információs táblákat a balti navigáció történetéről.",
+            "ro": "Descoperiți acest model de far care detaliază siguranța maritimă regională și citiți cu atenție panourile informative pentru a învăța despre navigație.",
+            "en": "Discover this fascinating lighthouse model detailing regional maritime safety, and check the information boards carefully to learn about Baltic navigation."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens für frische Luft in die tiefen Wälder von Leśnogóra. Mittags kehren Sie in die Stadt zurück, um die Kirche zu bewundern und auf der Seebrücke spazieren zu gehen. Am Nachmittag erkunden Sie die historischen Küstenbatterien, bevor Sie den Weißen Berg erklimmen. Schließlich radeln Sie zum Leuchtturmmodell, um Ihren sportlichen maritimen Tag an der Ostsee abzurunden.",
+        "hu": "Reggel tekerjen a Leśnogóra sűrű erdejébe egy frissítő kezdésért. Dél körül térjen vissza a városba a Szent Péter-templomhoz, majd tegyen egy sétát a mólón. Délután látogasson el a történelmi parti tüzérségi ütegekhez, mielőtt megmászná a Fehér-hegyet. Végül kerekezzen el a Greifswald világítótorony modelljéhez, és zárja le ezt az aktív, élményekkel teli tengerparti kerékpáros napot.",
+        "ro": "Pedalați în pădurile dese din Leśnogóra dimineața devreme pentru un aer proaspăt. La prânz, întoarceți-vă în oraș pentru a admira biserica și pentru o plimbare pitorească pe dig. După-amiaza, aventurați-vă la bateriile istorice de artilerie înainte de a urca pe Muntele Alb. În cele din urmă, mergeți cu bicicleta spre modelul farului pentru a vă încheia această zi maritimă foarte activă.",
+        "en": "Pedal into the deep woods of Leśnogóra first thing in the morning for fresh air. Around midday, return to town to admire St. Peter's Church and take a scenic walk on the Międzyzdroje Pier. In the afternoon, venture out to the historic coastal artillery batteries before climbing the White Mountain. Finally, cycle towards the Greifswalder Oie Lighthouse model to wrap up your active maritime day."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:05",
+      "total_km": 10.45,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "FKK-Strand",
+            "hu": "Naturista strand",
+            "ro": "Plaja de nudiști",
+            "en": "Naturist beach"
+          },
+          "coords": [
+            14.400276,
+            53.917671
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem FKK-Strand, der für feinen Sand bekannt ist, und respektieren Sie die örtliche Etikette, während Sie die friedliche Brise genießen.",
+            "hu": "Pihenjen ezen a kijelölt naturista strandon, amely finom homokjáról híres, és tartsa be a helyi etikettet, miközben élvezi a békés tengeri szellőt.",
+            "ro": "Relaxați-vă pe această plajă de nudiști cunoscută pentru nisipul fin și amintiți-vă să respectați eticheta locală în timp ce vă bucurați de briza mării.",
+            "en": "Relax at this designated naturist beach known for its soft sand and privacy, and remember to respect local etiquette while enjoying the peaceful sea breeze."
+          }
+        },
+        {
+          "name": {
+            "de": "Suchogórz",
+            "hu": "Suchogórz",
+            "ro": "Suchogórz",
+            "en": "Suchogórz"
+          },
+          "coords": [
+            14.443453,
+            53.909822
+          ],
+          "category": "natural",
+          "arrive_at": "10:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 2.91,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die ruhigen Naturpfade von Suchogórz für tiefe Erholung, und tragen Sie Insektenschutzmittel auf, um Mückenstiche am Nachmittag zu meiden.",
+            "hu": "Barangoljon a Suchogórz csendes természeti ösvényein, és mindenképpen használjon rovarriasztót, hogy elkerülje a szúnyogcsípéseket a melegebb napokon.",
+            "ro": "Plimbați-vă pe potecile liniștite din Suchogórz care oferă o liniște profundă și aplicați un repelent împotriva insectelor pentru a evita țânțarii.",
+            "en": "Wander through the quiet nature trails of Suchogórz offering deep tranquility, and apply insect repellent to avoid mosquito bites during the warm afternoons."
+          }
+        },
+        {
+          "name": {
+            "de": "Leśnogóra",
+            "hu": "Leśnogóra",
+            "ro": "Leśnogóra",
+            "en": "Leśnogóra"
+          },
+          "coords": [
+            14.454754,
+            53.909259
+          ],
+          "category": "natural",
+          "arrive_at": "11:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.73,
+          "tip_5lang": {
+            "de": "Wandern Sie diesen bewaldeten Hügel hinauf und tauchen Sie in die Flora ein, aber bringen Sie feste Wanderschuhe mit, da die Wege rutschig sein können.",
+            "hu": "Túrázzon fel erre a buja, erdős dombra a helyi növényvilág felfedezéséhez, és hozzon magával masszív túracipőt, mivel az ösvények csúszósak lehetnek.",
+            "ro": "Urcați pe acest deal împădurit cu floră locală deosebită și luați cu voi încălțăminte robustă de drumeție, deoarece potecile pot fi destul de alunecoase.",
+            "en": "Trek up this lush forested hill offering deep immersion into local flora, and bring sturdy hiking boots since the trails can be slippery after spring rain."
+          }
+        },
+        {
+          "name": {
+            "de": "Papugarnia",
+            "hu": "Papugarnia",
+            "ro": "Papugarnia",
+            "en": "Papugarnia"
+          },
+          "coords": [
+            14.449023,
+            53.928778
+          ],
+          "category": "landmark",
+          "arrive_at": "13:09",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Erleben Sie farbenprächtige tropische Vögel in diesem Papageienhaus, und tragen Sie einen Hut, da die Tiere gerne direkt auf dem Kopf der Gäste landen.",
+            "hu": "Élvezze a szabadon repkedő, élénk trópusi madarakat ebben a papagájházban, és viseljen sapkát vagy egyszerű ruhát, mert szívesen a fejére szállnak.",
+            "ro": "Descoperiți păsările tropicale colorate zburând liber în această casă de papagali și purtați o pălărie, deoarece uneori aterizează direct pe vizitatori.",
+            "en": "Experience vibrant tropical birds flying freely in this enclosed parrot house, and wear a hat or plain clothes as they might land directly on your head."
+          }
+        },
+        {
+          "name": {
+            "de": "Baterie Artylerii Stałej",
+            "hu": "Baterie Artylerii Stałej",
+            "ro": "Baterie Artylerii Stałej",
+            "en": "Baterie Artylerii Stałej"
+          },
+          "coords": [
+            14.467958,
+            53.942544
+          ],
+          "category": "landmark",
+          "arrive_at": "13:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.96,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese historischen Artilleriebatterien im dichten Wald, und nehmen Sie eine Taschenlampe mit, um die dunklen Teile der alten Bunker zu sehen.",
+            "hu": "Fedezze fel ezeket a sűrű erdőben megbúvó történelmi tüzérségi ütegeket, és hozzon zseblámpát a régi bunkerek sötétebb részeinek biztonságos bejárásához.",
+            "ro": "Explorați aceste baterii de artilerie istorice ascunse în pădurea deasă și aduceți o lanternă pentru a naviga în siguranță prin secțiunile întunecate.",
+            "en": "Explore these historical artillery batteries hidden in the dense forest, and carry a flashlight to safely navigate the darker sections of the old bunkers."
+          }
+        },
+        {
+          "name": {
+            "de": "Biała Góra",
+            "hu": "Biała Góra",
+            "ro": "Biała Góra",
+            "en": "Biała Góra"
+          },
+          "coords": [
+            14.473723,
+            53.944005
+          ],
+          "category": "natural",
+          "arrive_at": "14:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Wandern Sie auf den Weißen Berg für weitreichende Küstenpanoramen, und packen Sie reichlich Trinkwasser ein, da es auf dem Gipfel keine Einrichtungen gibt.",
+            "hu": "Másszon fel a Fehér-hegyre a lenyűgöző tengerparti panorámáért, és vigyen magával bőséges ivóvizet, mivel a csúcson nincsenek kiépített létesítmények.",
+            "ro": "Urcați pe Muntele Alb pentru a vă bucura de panorame de coastă spectaculoase și luați suficientă apă de băut, deoarece nu există facilități pe vârf.",
+            "en": "Hike up the pristine White Mountain to enjoy sweeping coastal panoramas, and pack plenty of drinking water as there are no facilities available at the peak."
+          }
+        },
+        {
+          "name": {
+            "de": "Seebrücke Międzyzdroje",
+            "hu": "Międzyzdroje móló",
+            "ro": "Digul din Międzyzdroje",
+            "en": "Międzyzdroje Pier"
+          },
+          "coords": [
+            14.444316,
+            53.933071
+          ],
+          "category": "landmark",
+          "arrive_at": "15:55",
+          "stay_min": 70,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.25,
+          "tip_5lang": {
+            "de": "Spazieren Sie über dieses ikonische Holzbauwerk mit Panoramablick auf die Ostsee, und kommen Sie bei Sonnenuntergang für das beste Licht mit Windjacke.",
+            "hu": "Sétáljon végig ezen az ikonikus fapilléren a balti panorámáért, és érkezzen naplementekor egy meleg szélkabáttal a legjobb fotók készítéséhez.",
+            "ro": "Plimbați-vă pe această structură emblematică din lemn cu vedere panoramică la Marea Baltică și vizitați-o la apus cu o geacă pentru cele mai bune poze.",
+            "en": "Walk along this iconic wooden structure offering panoramic Baltic Sea views, and visit during sunset for the best lighting while wearing a windbreaker."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie früh zum ausgewiesenen FKK-Strand, um an den morgendlichen Wellen zu entspannen. Mittags erkunden Sie die ruhigen Naturpfade von Suchogórz und Leśnogóra. Am Nachmittag besuchen Sie die bunte Papugarnia und die versteckten historischen Artilleriebatterien. Beenden Sie den Tag mit einer kurzen Wanderung auf den Weißen Berg und einem Spaziergang über die weitläufige Seebrücke.",
+        "hu": "Autózzon ki korán a naturista strandra, hogy a reggeli hullámok mellett pihenjen. Dél körül fedezze fel a Suchogórz és Leśnogóra csendes ösvényeit. Délután térjen vissza a városhatárba, látogasson el a színes Papugarniába és a rejtett történelmi tüzérségi ütegekhez. Zárja a napot a Fehér-hegy megmászásával, majd egy naplementés sétával a hangulatos mólón, ahonnan csodás kilátás nyílik.",
+        "ro": "Conduceți devreme spre plaja de nudiști pentru a vă relaxa lângă valurile liniștite. La prânz, explorați traseele naturale din Suchogórz și Leśnogóra. După-amiaza, vizitați Papugarnia și bateriile de artilerie istorice ascunse. Încheiați cu o scurtă drumeție pe Muntele Alb, înainte de o plimbare minunată la apus de soare de-a lungul spectaculosului dig al orașului pitoresc Międzyzdroje.",
+        "en": "Drive out early to the designated naturist beach to relax by the serene morning waves. By midday, explore the tranquil nature trails of Suchogórz and Leśnogóra. Head back toward the city limits in the afternoon to visit the colorful Papugarnia and the hidden historic artillery batteries. Finish up with a short hike up White Mountain before a sunset stroll down the expansive Międzyzdroje Pier."
+      }
+    }
+  }
+}

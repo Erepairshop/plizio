@@ -1,0 +1,428 @@
+{
+  "city_id": "greece-kastellorizo-cities-v2",
+  "anchor": {
+    "name": "Kastellorizo",
+    "coords": [
+      29.583333,
+      36.15
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:22",
+      "total_km": 1.4,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Palia Agora",
+            "hu": "Palia Agora",
+            "ro": "Palia Agora",
+            "en": "Palia Agora"
+          },
+          "coords": [
+            29.591571,
+            36.148775
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie das lebendige Herz der Insel an diesem historischen Marktplatz, wo Sie sich am besten in ein Café setzen, um den Inselalltag zu beobachten.",
+            "hu": "Fedezze fel a sziget nyüzsgő szívét ezen a történelmi piactéren, ahol érdemes beülni egy helyi kávézóba, és megfigyelni Kastellorizo mindennapi életét.",
+            "ro": "Descoperiți inima vibrantă a insulei în această piață istorică, unde merită să vă așezați la o cafenea pentru a observa ritmul zilnic al Kastellorizo-ului.",
+            "en": "Discover the vibrant heart of the island at this historic market square, where you should sit at a local cafe to observe the daily rhythms of Kastellorizo."
+          }
+        },
+        {
+          "name": {
+            "de": "Mouseio Griphon",
+            "hu": "Mouseio Griphon",
+            "ro": "Mouseio Griphon",
+            "en": "Mouseio Griphon"
+          },
+          "coords": [
+            29.593662,
+            36.147628
+          ],
+          "category": "museum",
+          "arrive_at": "09:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende lokale Geschichte und Folklore in diesem kleinen Museum, aber prüfen Sie vorab die Öffnungszeiten, da diese variieren können.",
+            "hu": "Ismerje meg a lenyűgöző helyi történelmet és folklórt ebben a kis múzeumban, de mindenképpen ellenőrizze előre a változó nyitvatartási időt.",
+            "ro": "Descoperiți istoria și folclorul local fascinant în acest mic muzeu, dar asigurați-vă că verificați programul de funcționare, deoarece acesta variază.",
+            "en": "Uncover the fascinating local history and folklore within this small museum, but be sure to check the opening hours in advance as they vary."
+          }
+        },
+        {
+          "name": {
+            "de": "Osmanische Moschee - Historische Sammlung",
+            "hu": "Oszmán Mecset - Történelmi Gyűjtemény",
+            "ro": "Moscheea Otomană - Colecția Istorică",
+            "en": "Ottoman Mosque - Historical Collection of Kastelloriz"
+          },
+          "coords": [
+            29.593169,
+            36.15154
+          ],
+          "category": "museum",
+          "arrive_at": "11:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses restaurierten osmanischen Bauwerks, das heute ein spannendes Archiv der kulturellen Entwicklung der Insel beherbergt.",
+            "hu": "Csodálja meg e felújított oszmán épület építészetét, amely ma a sziget kulturális fejlődésének izgalmas archívumának ad otthont.",
+            "ro": "Admirați arhitectura acestei clădiri otomane restaurate, care găzduiește acum o arhivă fascinantă a dezvoltării culturale a insulei.",
+            "en": "Admire the architecture of this restored Ottoman structure, which today houses a fascinating archive of the island's cultural evolution."
+          }
+        },
+        {
+          "name": {
+            "de": "Kastellorizo Burg",
+            "hu": "Kastellorizo Vára",
+            "ro": "Castelul Kastellorizo",
+            "en": "Kastellorizo Castle"
+          },
+          "coords": [
+            29.595109,
+            36.150678
+          ],
+          "category": "castle",
+          "arrive_at": "13:09",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Steigen Sie die Steinstufen zu dieser mittelalterlichen Festung hinauf und halten Sie Ihre Kamera bereit, um den atemberaubenden Blick auf den Hafen einzufangen.",
+            "hu": "Másszon fel a kőlépcsőkön ehhez a középkori erődhöz, és tartsa készenlétben a fényképezőgépét, hogy megörökítse a kikötőre nyíló lélegzetelállító kilátást.",
+            "ro": "Urcați treptele de piatră până la această fortăreață medievală și pregătiți-vă aparatul foto pentru a surprinde vederea uluitoare asupra portului.",
+            "en": "Climb the stone steps to this medieval fortress and keep your camera ready to capture the breathtaking, sweeping view of the vibrant harbor below."
+          }
+        },
+        {
+          "name": {
+            "de": "Mandraki",
+            "hu": "Mandraki",
+            "ro": "Mandraki",
+            "en": "Mandraki"
+          },
+          "coords": [
+            29.598602,
+            36.147411
+          ],
+          "category": "recreational",
+          "arrive_at": "14:37",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie entlang dieses malerischen Hafengebiets abseits der Haupttouristenströme und genießen Sie die friedliche Stimmung am ruhigen Wasser.",
+            "hu": "Sétáljon végig ezen a festői, a fő turistahadaktól távolabb eső kikötői területen, és élvezze a csendes vízpart békés hangulatát.",
+            "ro": "Plimbați-vă de-a lungul acestei zone portuare pitorești, departe de mulțimile principale, și bucurați-vă de atmosfera pașnică de pe malul apei liniștite.",
+            "en": "Stroll along this picturesque harbor area away from the main crowds, enjoying the peaceful atmosphere and the gentle lapping of the calm waters."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der lokalen Atmosphäre am alten Marktplatz, bevor Sie im nahegelegenen Museum in die reiche Folklore eintauchen. Am Mittag erreichen Sie die markante osmanische Moschee, die von der vielschichtigen Geschichte zeugt. Nachmittags wandern Sie zu den beeindruckenden Burgruinen hinauf, um die spektakuläre Aussicht auf den Hafen zu genießen. Beenden Sie den Abend mit einem Spaziergang nach Mandraki, wo Sie am ruhigen Wasser entspannen können.",
+        "hu": "Kezdje a reggelt a helyi hangulat magába szívásával a régi piactéren, mielőtt elmerülne a gazdag folklórban a közeli múzeumban. A dél a lenyűgöző oszmán mecsethez vezet, amely a sziget sokrétű kulturális történelmének állít emléket. Délután sétáljon fel a várromokhoz, ahonnan látványos kilátás nyílik a színes kikötőre. Az estét egy kellemes sétával zárja Mandraki felé, ahol a csendes vizek partján lazíthat.",
+        "ro": "Începeți dimineața absorbind atmosfera locală din vechea piață înainte de a explora folclorul bogat la muzeul din apropiere. La prânz veți ajunge la uimitoarea moschee otomană, o mărturie a istoriei culturale complexe a insulei. După-amiaza, urcați la ruinele impresionante ale castelului pentru vederi spectaculoase asupra portului colorat. Încheiați seara cu o plimbare relaxantă spre Mandraki, unde vă puteți destinde pe malul apei liniștite.",
+        "en": "Start your morning absorbing the local atmosphere at the old market square before diving into the rich folklore at the nearby museum. Midday brings you to the striking Ottoman Mosque, standing as a testament to the island's layered cultural history. In the afternoon, wander up to the impressive castle ruins for spectacular views over the colorful harbor. Conclude your evening with a leisurely stroll down to Mandraki, where you can unwind by the calm waters."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:17",
+      "total_km": 4.0,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Palaiokastro von Kastellorizo",
+            "hu": "Kastellorizo Palaiokastro",
+            "ro": "Palaiokastro din Kastellorizo",
+            "en": "Palaiokastro of Kastellorizo"
+          },
+          "coords": [
+            29.576835,
+            36.148171
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Tour an diesen uralten Ruinen mit robusten Schuhen, um die historischen Mauern und das weite Meerespanorama sicher zu erkunden.",
+            "hu": "Kezdje a túrát ezeknél az ősi romoknál strapabíró cipőben, hogy biztonságosan felfedezhesse a történelmi falakat és a tágas tengeri panorámát.",
+            "ro": "Începeți turul la aceste ruine antice purtând încălțăminte robustă pentru a explora în siguranță zidurile istorice și panorama vastă a mării.",
+            "en": "Begin your ride at these ancient ruins wearing sturdy shoes to safely explore the historic walls and take in the expansive, panoramic sea views."
+          }
+        },
+        {
+          "name": {
+            "de": "St. George vom Berg",
+            "hu": "Hegyi Szent György",
+            "ro": "Sf. Gheorghe de pe Munte",
+            "en": "St. George of the Mountain"
+          },
+          "coords": [
+            29.591038,
+            36.140968
+          ],
+          "category": "religious",
+          "arrive_at": "10:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Radeln Sie zu diesem friedlichen religiösen Ort hinauf, wo Sie Respekt zeigen sollten, während Sie die unglaubliche spirituelle Atmosphäre auf sich wirken lassen.",
+            "hu": "Tekerjen fel ehhez a békés vallási helyhez, ahol érdemes tiszteletet mutatni, miközben magába szívja a hihetetlen spirituális légkört.",
+            "ro": "Pedalați până la acest loc religios pașnic, unde ar trebui să arătați respect în timp ce absorbiți atmosfera spirituală incredibilă.",
+            "en": "Pedal up to this peaceful religious site where you should maintain a respectful demeanor while soaking in the incredible, secluded spiritual atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Osmanische Moschee - Historische Sammlung",
+            "hu": "Oszmán Mecset - Történelmi Gyűjtemény",
+            "ro": "Moscheea Otomană - Colecția Istorică",
+            "en": "Ottoman Mosque - Historical Collection of Kastelloriz"
+          },
+          "coords": [
+            29.593169,
+            36.15154
+          ],
+          "category": "museum",
+          "arrive_at": "11:25",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Fahren Sie hinab ins Zentrum, um dieses markante osmanische Gebäude zu besuchen und alles über die reiche multikulturelle Vergangenheit zu erfahren.",
+            "hu": "Guruljon le a központba, hogy meglátogassa ezt a jellegzetes oszmán épületet, és mindent megtudjon a gazdag multikulturális múltról.",
+            "ro": "Coborâți spre centru pentru a vizita această clădire otomană distinctivă și a afla totul despre trecutul multicultural bogat al insulei.",
+            "en": "Cruise down to the center to visit this distinctive Ottoman building and learn everything about the island's rich multicultural past."
+          }
+        },
+        {
+          "name": {
+            "de": "Kastellorizo Burg",
+            "hu": "Kastellorizo Vára",
+            "ro": "Castelul Kastellorizo",
+            "en": "Kastellorizo Castle"
+          },
+          "coords": [
+            29.595109,
+            36.150678
+          ],
+          "category": "castle",
+          "arrive_at": "13:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Lassen Sie das Rad kurz stehen und erklimmen Sie die Burgruine für einen unvergleichlichen Ausblick auf das tiefblaue Ägäische Meer.",
+            "hu": "Hagyja lenn a kerékpárt egy rövid időre, és mássza meg a várromot, ahonnan páratlan kilátás nyílik a mélykék Égei-tengerre.",
+            "ro": "Lăsați bicicleta pentru scurt timp și urcați la ruinele castelului pentru o vedere de neegalat asupra Mării Egee de un albastru intens.",
+            "en": "Leave your bike briefly and climb up to the castle ruins for an unparalleled, breathtaking view of the deep blue Aegean Sea."
+          }
+        },
+        {
+          "name": {
+            "de": "Plakes Kalksteinstrand",
+            "hu": "Plakes Mészkő Strand",
+            "ro": "Plaja de calcar Plakes",
+            "en": "Plakes limestone Beach"
+          },
+          "coords": [
+            29.597706,
+            36.160272
+          ],
+          "category": "recreational",
+          "arrive_at": "14:32",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Beenden Sie den Tag an diesen einzigartigen Felsplatten, aber nehmen Sie Schwimmschuhe mit, um sicher ins kristallklare Wasser zu gelangen.",
+            "hu": "Zárja a napot ezeknél az egyedülálló sziklalemezeknél, de vigyen magával úszócipőt, hogy biztonságosan bejuthasson a kristálytiszta vízbe.",
+            "ro": "Încheiați ziua la aceste plăci de stâncă unice, dar aduceți încălțăminte de apă pentru a intra în siguranță în apa cristalină.",
+            "en": "Finish your day at these unique rock slabs, making sure to bring water shoes so you can safely slip into the crystal-clear waters."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihren Radtag am alten Palaiokastro mit Morgenbrise und Meeresblick. Gegen Mittag radeln Sie zum ruhigen St. George of the Mountain, der einen spirituellen Rückzugsort bietet. Der Nachmittag lädt Sie in das Herz der Siedlung ein, um die osmanische Moschee und die mittelalterliche Burg zu erkunden. Abends fahren Sie zu den einzigartigen Kalksteinplatten des Plakes-Strandes hinab, um einen erfrischenden Sonnenuntergang zu genießen.",
+        "hu": "Kezdje a kerékpáros napot az ősi Palaiokastrónál, élvezve a reggeli szellőt és a tengeri kilátást. Dél felé tekerjen fel a békés Hegyi Szent Györgyhöz, amely egy csendes spirituális menedék. A délután a település szívébe invitálja, hogy felfedezze az oszmán mecsetet és a középkori várat. Estefelé guruljon le a Plakes strand egyedülálló mészkőlemezeihez egy frissítő tengerparti naplementére.",
+        "ro": "Începeți ziua de ciclism la vechiul Palaiokastro, cu briza dimineții și vederi panoramice la mare. La prânz, pedalați spre liniștitul Sf. Gheorghe de pe Munte pentru o retragere spirituală tăcută. După-amiaza vă invită în inima așezării pentru a explora moscheea otomană și castelul medieval. Seara, coborâți spre plăcile unice de calcar ale plajei Plakes pentru un apus revigorant pe litoral.",
+        "en": "Kick off your cycling day at the ancient Palaiokastro, enjoying morning breezes and panoramic views of the sea. By midday, pedal up to the serene St. George of the Mountain, offering a quiet spiritual retreat. The afternoon invites you into the heart of the settlement to explore the Ottoman Mosque and the medieval castle. As evening approaches, cruise down to the unique limestone slabs of Plakes Beach for a refreshing seaside sunset."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:29",
+      "total_km": 3.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Palaiokastro von Kastellorizo",
+            "hu": "Kastellorizo Palaiokastro",
+            "ro": "Palaiokastro din Kastellorizo",
+            "en": "Palaiokastro of Kastellorizo"
+          },
+          "coords": [
+            29.576835,
+            36.148171
+          ],
+          "category": "castle",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Parken Sie vorsichtig in der Nähe und betreten Sie die antiken Steinruinen, um die faszinierende Geschichte der ersten Inselsiedler zu spüren.",
+            "hu": "Parkoljon le óvatosan a közelben, és lépjen be az ősi kőromok közé, hogy érezze az első szigetlakók lenyűgöző történelmét.",
+            "ro": "Parcați cu atenție în apropiere și pășiți printre ruinele antice de piatră pentru a simți istoria fascinantă a primilor coloniști.",
+            "en": "Park carefully nearby and step into these ancient stone ruins to truly feel the fascinating history of the island's earliest settlers."
+          }
+        },
+        {
+          "name": {
+            "de": "St. George vom Berg",
+            "hu": "Hegyi Szent György",
+            "ro": "Sf. Gheorghe de pe Munte",
+            "en": "St. George of the Mountain"
+          },
+          "coords": [
+            29.591038,
+            36.140968
+          ],
+          "category": "religious",
+          "arrive_at": "10:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Fahren Sie das steile Gelände hinauf zu diesem abgeschiedenen Kloster, wo Sie unbedingte Stille bewahren sollten, um die Andacht nicht zu stören.",
+            "hu": "Vezessen fel a meredek terepen ehhez az eldugott kolostorhoz, ahol feltétlenül őrizze meg a csendet, hogy ne zavarja az áhítatot.",
+            "ro": "Conduceți pe terenul abrupt până la această mănăstire retrasă, unde trebuie să păstrați liniștea pentru a nu deranja devotamentul.",
+            "en": "Drive up the rugged terrain to this secluded monastery, where you must maintain absolute silence out of respect for the devotional atmosphere."
+          }
+        },
+        {
+          "name": {
+            "de": "Palia Agora",
+            "hu": "Palia Agora",
+            "ro": "Palia Agora",
+            "en": "Palia Agora"
+          },
+          "coords": [
+            29.591571,
+            36.148775
+          ],
+          "category": "landmark",
+          "arrive_at": "11:15",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Stoppen Sie in der Nähe des alten Marktes und werfen Sie einen Blick auf die Architektur, die den ursprünglichen Geist von Kastellorizo verkörpert.",
+            "hu": "Álljon meg a régi piac közelében, és vessen egy pillantást az építészetre, amely Kastellorizo eredeti szellemét testesíti meg.",
+            "ro": "Opriți-vă lângă piața veche și admirați arhitectura care întruchipează spiritul original al Kastellorizo-ului.",
+            "en": "Stop briefly near the old market area to admire the traditional architecture that perfectly embodies the original spirit of Kastellorizo."
+          }
+        },
+        {
+          "name": {
+            "de": "Osmanische Moschee - Historische Sammlung",
+            "hu": "Oszmán Mecset - Történelmi Gyűjtemény",
+            "ro": "Moscheea Otomană - Colecția Istorică",
+            "en": "Ottoman Mosque - Historical Collection of Kastelloriz"
+          },
+          "coords": [
+            29.593169,
+            36.15154
+          ],
+          "category": "museum",
+          "arrive_at": "11:41",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses Museum am Hafen, das Artefakte aus mehreren Epochen ausstellt, und nehmen Sie sich Zeit für die detaillierten Beschilderungen.",
+            "hu": "Látogasson el a kikötőben található múzeumba, amely több korszakból is bemutat leleteket, és szánjon időt a részletes ismertetőkre.",
+            "ro": "Vizitați acest muzeu din port care expune artefacte din mai multe epoci și acordați-vă timp pentru a citi explicațiile detaliate.",
+            "en": "Visit this harbor-side museum displaying artifacts from multiple eras, taking your time to read the highly detailed and informative placards."
+          }
+        },
+        {
+          "name": {
+            "de": "Kastellorizo Burg",
+            "hu": "Kastellorizo Vára",
+            "ro": "Castelul Kastellorizo",
+            "en": "Kastellorizo Castle"
+          },
+          "coords": [
+            29.595109,
+            36.150678
+          ],
+          "category": "castle",
+          "arrive_at": "13:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Gehen Sie von Ihrem Parkplatz aus zu den Burgruinen hinauf, um zu sehen, wo einst die Ritter wachten, und fotografieren Sie die bunten Häuser von oben.",
+            "hu": "Sétáljon fel a parkolóból a várromokhoz, hogy lássa, hol őrködtek egykor a lovagok, és fényképezze le fentről a színes házakat.",
+            "ro": "Mergeți din parcare până la ruinele castelului pentru a vedea unde stăteau odată cavalerii și fotografiați casele colorate de sus.",
+            "en": "Walk up to the ruins from your parking spot to see where knights once kept watch, taking photos of the vibrant, colorful houses below."
+          }
+        },
+        {
+          "name": {
+            "de": "Paralia Agiou Georgiou",
+            "hu": "Paralia Agiou Georgiou",
+            "ro": "Paralia Agiou Georgiou",
+            "en": "Paralia Agiou Georgiou"
+          },
+          "coords": [
+            29.602497,
+            36.149654
+          ],
+          "category": "recreational",
+          "arrive_at": "14:44",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto stehen und genießen Sie den späten Nachmittag an diesem einladenden Küstenstreifen, ideal für ein erfrischendes Bad im warmen Mittelmeer.",
+            "hu": "Hagyja az autót, és élvezze a késő délutánt ezen a hívogató partszakaszon, amely ideális egy frissítő csobbanásra a meleg Földközi-tengerben.",
+            "ro": "Lăsați mașina și bucurați-vă de sfârșitul după-amiezii pe această porțiune de coastă primitoare, ideală pentru o baie răcoritoare în Mediterana caldă.",
+            "en": "Leave the car behind and enjoy the late afternoon at this inviting coastal stretch, perfect for a refreshing swim in the warm Mediterranean."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt an den beeindruckenden Palaiokastro-Ruinen, wo alte Mauern auf das Morgenlicht treffen. Gegen Mittag fahren Sie durch das raue Inselgelände zum friedlichen St. George of the Mountain und hinab zur historischen Agora. Am Nachmittag parken Sie in Hafennähe, besuchen die osmanische Moschee und erkunden die mächtige Burg. Beenden Sie den Tag mit einer Fahrt nach Paralia Agiou Georgiou, dem perfekten Ort zum Entspannen am Abend.",
+        "hu": "Kezdje az autózást a lenyűgöző Palaiokastro romoknál, ahol az ősi falak találkoznak a reggeli fénnyel. Délben a sziget zord terepén át a békés Hegyi Szent Györgyhöz, majd le a történelmi Agorához vezet az út. Délután parkoljon le a kikötő közelében, látogassa meg az oszmán mecsetet, és fedezze fel a tekintélyes várat. Zárja a napot egy úttal a Paralia Agiou Georgiou felé, amely tökéletes hely az esti kikapcsolódásra.",
+        "ro": "Începeți plimbarea cu mașina la impresionantele ruine Palaiokastro, unde zidurile antice întâlnesc lumina dimineții. La prânz, conduceți prin terenul accidentat până la pașnicul Sf. Gheorghe de pe Munte și jos la istorica Agora. După-amiaza, parcați lângă port, vizitați moscheea otomană și explorați falnicul castel. Încheiați ziua conducând spre Paralia Agiou Georgiou, locul perfect pentru a vă relaxa seara.",
+        "en": "Begin your drive at the impressive Palaiokastro ruins, where ancient walls meet the morning light. Midday takes you through the island's rugged terrain to the peaceful St. George of the Mountain and down to the historic Agora. In the afternoon, park near the harbor to visit the Ottoman Mosque and explore the commanding Kastellorizo Castle. Finish your day driving towards Paralia Agiou Georgiou, a perfect spot to unwind as the evening settles over the Mediterranean."
+      }
+    }
+  }
+}

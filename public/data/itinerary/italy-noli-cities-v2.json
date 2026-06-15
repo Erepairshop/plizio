@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-noli-cities-v2",
+  "anchor": {
+    "name": "Noli",
+    "coords": [
+      8.41615,
+      44.205692
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:59",
+      "total_km": 3.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Bagni Hilton",
+            "hu": "Bagni Hilton",
+            "ro": "Bagni Hilton",
+            "en": "Bagni Hilton"
+          },
+          "coords": [
+            8.417981,
+            44.207721
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre dieses zentralen Strandes, ideal für ein morgendliches Bad, also kommen Sie früh, um die besten Liegen zu sichern.",
+            "hu": "Élvezze a pezsgő hangulatot ezen a központi strandon, amely tökéletes egy reggeli csobbanáshoz, ezért érkezzen korán a legjobb napágyakért.",
+            "ro": "Bucurați-vă de atmosfera vibrantă a acestei plaje centrale, perfectă pentru o baie matinală, așa că ajungeți devreme pentru cele mai bune șezlonguri.",
+            "en": "Enjoy the vibrant atmosphere of this lively beach spot near the center, perfect for a quick morning dip, so arrive early to secure the best front-row sunbeds."
+          }
+        },
+        {
+          "name": {
+            "de": "Poseidon",
+            "hu": "Poseidon",
+            "ro": "Poseidon",
+            "en": "Poseidon"
+          },
+          "coords": [
+            8.416012,
+            44.22215
+          ],
+          "category": "recreational",
+          "arrive_at": "09:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 24,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem ruhigen Küstenabschnitt, wo die sanften Wellen Erholung bieten, und bringen Sie Ihre eigene Schnorchelausrüstung mit.",
+            "hu": "Pihenjen a nyugodt vizek mentén ezen a békés partszakaszon, és mindenképpen hozzon magával búvárfelszerelést a tiszta sekély vizek felfedezéséhez.",
+            "ro": "Relaxați-vă lângă apele calme pe această porțiune de coastă senină, unde valurile blânde oferă un refugiu liniștit, și aduceți-vă echipamentul de snorkeling.",
+            "en": "Relax by the calm waters at this serene coastal stretch, where the gentle waves offer a peaceful retreat, and bring your own snorkeling gear to explore the clear shallows."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Colombo",
+            "hu": "Bagni Colombo",
+            "ro": "Bagni Colombo",
+            "en": "Bagni Colombo"
+          },
+          "coords": [
+            8.418176,
+            44.225195
+          ],
+          "category": "recreational",
+          "arrive_at": "11:20",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Sonnen Sie sich in dieser gut ausgestatteten Strandanlage, die für ihren exzellenten Service bekannt ist, und probieren Sie die frischen Meeresfrüchte im Café.",
+            "hu": "Élvezze a napsütést ezen a kiválóan felszerelt, remek szolgáltatásairól ismert strandon, és ne hagyja ki a friss helyi tengeri herkentyűket a kávézójukban.",
+            "ro": "Bucurați-vă de soare la această plajă bine echipată, cunoscută pentru serviciile excelente, și nu ratați fructele de mare proaspete de la cafeneaua lor.",
+            "en": "Soak up the sun at this well-equipped beach facility known for its excellent service, making it a great midday stop, and don't miss the fresh local seafood at their café."
+          }
+        },
+        {
+          "name": {
+            "de": "Samoa Beach",
+            "hu": "Samoa Beach",
+            "ro": "Samoa Beach",
+            "en": "Samoa Beach"
+          },
+          "coords": [
+            8.430374,
+            44.234489
+          ],
+          "category": "recreational",
+          "arrive_at": "12:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Erleben Sie das tropische Flair dieser einzigartig benannten Sandbucht mit ihrer üppigen Umgebung und mieten Sie ein Stand-Up-Paddleboard für das klare Wasser.",
+            "hu": "Tapasztalja meg ennek az egyedi nevű homokos öbölnek a trópusi hangulatát, és érdemes evezős deszkát bérelni, hogy teljes mértékben kiélvezze a kristálytiszta vizet.",
+            "ro": "Experimentați atmosfera tropicală a acestui golf de nisip cu împrejurimi luxuriante și luați în considerare închirierea unei plăci de paddleboard pentru apa cristalină.",
+            "en": "Experience the tropical vibe of this uniquely named sandy cove with its lush surroundings, and consider renting a paddleboard to fully enjoy the crystal-clear waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Il Cantinone Mare",
+            "hu": "Bagni Il Cantinone Mare",
+            "ro": "Bagni Il Cantinone Mare",
+            "en": "Bagni Il Cantinone Mare"
+          },
+          "coords": [
+            8.431598,
+            44.235062
+          ],
+          "category": "recreational",
+          "arrive_at": "14:14",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an diesem malerischen Küstenwinkel mit atemberaubendem Sonnenuntergangsblick ausklingen und holen Sie sich einen erfrischenden Cocktail.",
+            "hu": "Zárja a napot ezen a festői tengerparti zugban, ahonnan lenyűgöző a naplemente, és igyon egy frissítő koktélt a közeli bárban a teljes kikapcsolódáshoz.",
+            "ro": "Încheiați ziua în acest colț pitoresc de coastă, care se mândrește cu priveliști uimitoare la apus, și luați un cocktail răcoritor de la barul din apropiere.",
+            "en": "Wind down your day at this picturesque coastal nook that boasts stunning sunset views, and grab a refreshing cocktail from the nearby bar to complete your relaxation."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihren Tag an den lebhaften Ufern von Noli, atmen Sie die frische Meeresluft ein und spüren Sie die sanfte Morgensonne.\nMidday: Wenn die Sonne höher steigt, spazieren Sie entlang der malerischen Küste und tauchen Ihre Zehen in das klare blaue Wasser des Mittelmeers.\nAfternoon: Setzen Sie Ihren gemütlichen Spaziergang zu den nördlichen Buchten fort und genießen Sie die harmonische Mischung aus goldenem Sand und Strandleben.\nEvening: Beenden Sie Ihren Spaziergang bei Sonnenuntergang über den ruhigen Wellen und genießen Sie einen Moment der Stille am Wasser.",
+        "hu": "Morning: Kezdje a napot Noli nyüzsgő partjainál, szívja be a friss tengeri levegőt a központi strandklubokban, és érezze a lágy reggeli napsütést.\nMidday: Ahogy a nap magasabbra hág, sétáljon végig a festői partvonalon, és mártsa lábát a tiszta kék Földközi-tenger vizébe.\nAfternoon: Folytassa ráérős sétáját az északi öblök felé, élvezve az aranyhomok és a nyüzsgő helyi strandélet zökkenőmentes keveredését.\nEvening: Zárja a sétát, ahogy a nap lenyugszik a békés hullámok felett, és élvezze a csendes pillanatot a vízparton, mielőtt visszatérne a városba.",
+        "ro": "Morning: Începeți-vă ziua pe malurile pline de viață din Noli, respirând aerul proaspăt de mare și simțind soarele blând al dimineții pe plajele centrale.\nMidday: Pe măsură ce soarele urcă, plimbați-vă de-a lungul coastei pitorești, scufundându-vă degetele de la picioare în apele albastre ale Mediteranei.\nAfternoon: Continuați plimbarea liniștită către golfurile din nord, bucurându-vă de amestecul perfect de nisip auriu și viață de plajă vibrantă.\nEvening: Încheiați-vă plimbarea la apus, peste valurile senine, savurând un moment de liniște pe malul apei înainte de a vă întoarce în oraș.",
+        "en": "Morning: Start your day by the lively shores of Noli, breathing in the fresh sea air at the central beach clubs and feeling the gentle morning sun.\nMidday: As the sun climbs higher, transition along the scenic coastline, dipping your toes in the clear blue Mediterranean waters.\nAfternoon: Continue your leisurely stroll towards the northern coves, enjoying the seamless blend of golden sand and vibrant local beach life.\nEvening: Conclude your walk as the sun sets over the serene waves, enjoying a tranquil moment at the water's edge before heading back into town."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:53",
+      "total_km": 6.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Bagni Liliana",
+            "hu": "Bagni Liliana",
+            "ro": "Bagni Liliana",
+            "en": "Bagni Liliana"
+          },
+          "coords": [
+            8.389952,
+            44.181284
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Reise an dieser ruhigen, familienfreundlichen Strandoase, die für ihren weichen Sand bekannt ist, und bringen Sie ein gutes Buch mit.",
+            "hu": "Kezdje tengerparti utazását ezen a nyugodt és családbarát strand-oázison, ezért egy jó könyv magával hozatala igazán tökéletessé teszi a reggelt.",
+            "ro": "Începeți-vă călătoria pe litoral la această oază liniștită de plajă potrivită pentru familii și aduceți o carte bună pentru a face dimineața cu adevărat perfectă.",
+            "en": "Start your seaside journey at this tranquil and family-friendly beach oasis, renowned for its soft sand, so bringing a good book will make your morning truly perfect."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni gallo",
+            "hu": "Bagni gallo",
+            "ro": "Bagni gallo",
+            "en": "Bagni gallo"
+          },
+          "coords": [
+            8.399144,
+            44.181356
+          ],
+          "category": "recreational",
+          "arrive_at": "09:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Entdecken Sie den authentischen Charme dieses traditionellen italienischen Strandclubs, wo sich Einheimische treffen, und probieren Sie das hausgemachte Gelato.",
+            "hu": "Fedezze fel ennek a hagyományos olasz strandklubnak a varázsát, ahol a helyiek gyülekeznek, és mindenképpen kóstolja meg a sétányon árusított házi fagylaltot.",
+            "ro": "Descoperiți farmecul autentic al acestui club tradițional de plajă italian, unde se adună localnicii, și asigurați-vă că încercați gelato de casă vândută pe promenadă.",
+            "en": "Discover the authentic charm of this traditional Italian beach club where locals gather, and make sure to try the homemade gelato sold by vendors along the promenade."
+          }
+        },
+        {
+          "name": {
+            "de": "Beach rock",
+            "hu": "Beach rock",
+            "ro": "Beach rock",
+            "en": "Beach rock"
+          },
+          "coords": [
+            8.407454,
+            44.185431
+          ],
+          "category": "recreational",
+          "arrive_at": "10:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden geologischen Formationen an dieser einzigartigen Felsküste, die tolle Fotomotive bietet, aber tragen Sie feste Wasserschuhe.",
+            "hu": "Fedezze fel a lenyűgöző geológiai képződményeket ezen az egyedi sziklás parton, amely hihetetlen fotótémákat kínál, de viseljen erős vizicipőt a biztonság érdekében.",
+            "ro": "Explorați formațiunile geologice fascinante de pe acest țărm stâncos unic, care oferă oportunități foto incredibile, dar purtați pantofi de apă rezistenți.",
+            "en": "Explore the fascinating geological formations at this unique rocky shoreline, which provides incredible photo opportunities, but wear sturdy water shoes for safety."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Hilton",
+            "hu": "Bagni Hilton",
+            "ro": "Bagni Hilton",
+            "en": "Bagni Hilton"
+          },
+          "coords": [
+            8.417981,
+            44.207721
+          ],
+          "category": "recreational",
+          "arrive_at": "12:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre dieses zentralen Strandes, ideal für ein morgendliches Bad, also kommen Sie früh, um die besten Liegen zu sichern.",
+            "hu": "Élvezze a pezsgő hangulatot ezen a központi strandon, amely tökéletes egy reggeli csobbanáshoz, ezért érkezzen korán a legjobb napágyakért.",
+            "ro": "Bucurați-vă de atmosfera vibrantă a acestei plaje centrale, perfectă pentru o baie matinală, așa că ajungeți devreme pentru cele mai bune șezlonguri.",
+            "en": "Enjoy the vibrant atmosphere of this lively beach spot near the center, perfect for a quick morning dip, so arrive early to secure the best front-row sunbeds."
+          }
+        },
+        {
+          "name": {
+            "de": "Poseidon",
+            "hu": "Poseidon",
+            "ro": "Poseidon",
+            "en": "Poseidon"
+          },
+          "coords": [
+            8.416012,
+            44.22215
+          ],
+          "category": "recreational",
+          "arrive_at": "13:51",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem ruhigen Küstenabschnitt, wo die sanften Wellen Erholung bieten, und bringen Sie Ihre eigene Schnorchelausrüstung mit.",
+            "hu": "Pihenjen a nyugodt vizek mentén ezen a békés partszakaszon, és mindenképpen hozzon magával búvárfelszerelést a tiszta sekély vizek felfedezéséhez.",
+            "ro": "Relaxați-vă lângă apele calme pe această porțiune de coastă senină, unde valurile blânde oferă un refugiu liniștit, și aduceți-vă echipamentul de snorkeling.",
+            "en": "Relax by the calm waters at this serene coastal stretch, where the gentle waves offer a peaceful retreat, and bring your own snorkeling gear to explore the clear shallows."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Colombo",
+            "hu": "Bagni Colombo",
+            "ro": "Bagni Colombo",
+            "en": "Bagni Colombo"
+          },
+          "coords": [
+            8.418176,
+            44.225195
+          ],
+          "category": "recreational",
+          "arrive_at": "15:08",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Sonnen Sie sich in dieser gut ausgestatteten Strandanlage, die für ihren exzellenten Service bekannt ist, und probieren Sie die frischen Meeresfrüchte im Café.",
+            "hu": "Élvezze a napsütést ezen a kiválóan felszerelt, remek szolgáltatásairól ismert strandon, és ne hagyja ki a friss helyi tengeri herkentyűket a kávézójukban.",
+            "ro": "Bucurați-vă de soare la această plajă bine echipată, cunoscută pentru serviciile excelente, și nu ratați fructele de mare proaspete de la cafeneaua lor.",
+            "en": "Soak up the sun at this well-equipped beach facility known for its excellent service, making it a great midday stop, and don't miss the fresh local seafood at their café."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihr Fahrradabenteuer an den friedlichen südlichen Abschnitten der Küste von Noli und genießen Sie die kühle Morgenbrise am Ufer.\nMidday: Fahren Sie an faszinierenden Felsvorsprüngen und lebhaften Strandgemeinden vorbei und machen Sie Pausen, um den Meerblick zu genießen.\nAfternoon: Navigieren Sie in Richtung der belebten zentralen Strände, wo die lebhafte Atmosphäre die perfekte Kulisse für Ihre Küstenfahrt bietet.\nEvening: Beenden Sie Ihre Reise, wenn sich der Himmel golden färbt, und ruhen Sie sich am Wasser aus, um den beruhigenden Klang der Flut zu schätzen.",
+        "hu": "Morning: Indítsa kerékpáros kalandját Noli partvidékének békés déli szakaszain, élvezve a hűvös reggeli szellőt, miközben a parton teker.\nMidday: Cirkáljon el a lenyűgöző sziklás kiemelkedések és a nyüzsgő strandközösségek mellett, gyakori szüneteket tartva, hogy gyönyörködjön a tengeri kilátásban.\nAfternoon: Haladjon a forgalmas központi strandok felé, ahol a nyüzsgő légkör tökéletes hátteret biztosít a tengerparti utazáshoz.\nEvening: Fejezze be az utat, amikor az ég arany színűvé válik, a víz közelében pihentetve kerékpárját, hogy értékelje a szelíd dagály nyugtató hangját.",
+        "ro": "Morning: Începeți aventura pe bicicletă în zonele pașnice din sudul coastei Noli, bucurându-vă de briza răcoroasă a dimineții în timp ce pedalați.\nMidday: Treceți pe lângă aflorimente stâncoase fascinante și comunități vibrante de plajă, luând pauze frecvente pentru a admira priveliștile uimitoare.\nAfternoon: Îndreptați-vă spre plajele centrale aglomerate, unde atmosfera plină de viață oferă un fundal perfect pentru plimbarea pe coastă.\nEvening: Încheiați-vă călătoria când cerul devine auriu, odihnindu-vă bicicleta lângă apă pentru a aprecia pe deplin sunetul calm al mareei blânde.",
+        "en": "Morning: Kick off your cycling adventure at the peaceful southern stretches of Noli's coast, enjoying the cool morning breeze as you pedal along the shore.\nMidday: Cruise past fascinating rocky outcrops and vibrant beach communities, taking frequent breaks to soak in the stunning sea views.\nAfternoon: Navigate your way towards the bustling central beaches, where the lively atmosphere provides a perfect backdrop for your coastal ride.\nEvening: Wrap up your journey as the sky turns golden, resting your bike near the water to fully appreciate the calming sound of the gentle tide."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:53",
+      "total_km": 8.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Bagni Liliana",
+            "hu": "Bagni Liliana",
+            "ro": "Bagni Liliana",
+            "en": "Bagni Liliana"
+          },
+          "coords": [
+            8.389952,
+            44.181284
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Reise an dieser ruhigen, familienfreundlichen Strandoase, die für ihren weichen Sand bekannt ist, und bringen Sie ein gutes Buch mit.",
+            "hu": "Kezdje tengerparti utazását ezen a nyugodt és családbarát strand-oázison, ezért egy jó könyv magával hozatala igazán tökéletessé teszi a reggelt.",
+            "ro": "Începeți-vă călătoria pe litoral la această oază liniștită de plajă potrivită pentru familii și aduceți o carte bună pentru a face dimineața cu adevărat perfectă.",
+            "en": "Start your seaside journey at this tranquil and family-friendly beach oasis, renowned for its soft sand, so bringing a good book will make your morning truly perfect."
+          }
+        },
+        {
+          "name": {
+            "de": "Beach rock",
+            "hu": "Beach rock",
+            "ro": "Beach rock",
+            "en": "Beach rock"
+          },
+          "coords": [
+            8.407454,
+            44.185431
+          ],
+          "category": "recreational",
+          "arrive_at": "09:38",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden geologischen Formationen an dieser einzigartigen Felsküste, die tolle Fotomotive bietet, aber tragen Sie feste Wasserschuhe.",
+            "hu": "Fedezze fel a lenyűgöző geológiai képződményeket ezen az egyedi sziklás parton, amely hihetetlen fotótémákat kínál, de viseljen erős vizicipőt a biztonság érdekében.",
+            "ro": "Explorați formațiunile geologice fascinante de pe acest țărm stâncos unic, care oferă oportunități foto incredibile, dar purtați pantofi de apă rezistenți.",
+            "en": "Explore the fascinating geological formations at this unique rocky shoreline, which provides incredible photo opportunities, but wear sturdy water shoes for safety."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Hilton",
+            "hu": "Bagni Hilton",
+            "ro": "Bagni Hilton",
+            "en": "Bagni Hilton"
+          },
+          "coords": [
+            8.417981,
+            44.207721
+          ],
+          "category": "recreational",
+          "arrive_at": "10:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre dieses zentralen Strandes, ideal für ein morgendliches Bad, also kommen Sie früh, um die besten Liegen zu sichern.",
+            "hu": "Élvezze a pezsgő hangulatot ezen a központi strandon, amely tökéletes egy reggeli csobbanáshoz, ezért érkezzen korán a legjobb napágyakért.",
+            "ro": "Bucurați-vă de atmosfera vibrantă a acestei plaje centrale, perfectă pentru o baie matinală, așa că ajungeți devreme pentru cele mai bune șezlonguri.",
+            "en": "Enjoy the vibrant atmosphere of this lively beach spot near the center, perfect for a quick morning dip, so arrive early to secure the best front-row sunbeds."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Colombo",
+            "hu": "Bagni Colombo",
+            "ro": "Bagni Colombo",
+            "en": "Bagni Colombo"
+          },
+          "coords": [
+            8.418176,
+            44.225195
+          ],
+          "category": "recreational",
+          "arrive_at": "12:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Sonnen Sie sich in dieser gut ausgestatteten Strandanlage, die für ihren exzellenten Service bekannt ist, und probieren Sie die frischen Meeresfrüchte im Café.",
+            "hu": "Élvezze a napsütést ezen a kiválóan felszerelt, remek szolgáltatásairól ismert strandon, és ne hagyja ki a friss helyi tengeri herkentyűket a kávézójukban.",
+            "ro": "Bucurați-vă de soare la această plajă bine echipată, cunoscută pentru serviciile excelente, și nu ratați fructele de mare proaspete de la cafeneaua lor.",
+            "en": "Soak up the sun at this well-equipped beach facility known for its excellent service, making it a great midday stop, and don't miss the fresh local seafood at their café."
+          }
+        },
+        {
+          "name": {
+            "de": "Samoa Beach",
+            "hu": "Samoa Beach",
+            "ro": "Samoa Beach",
+            "en": "Samoa Beach"
+          },
+          "coords": [
+            8.430374,
+            44.234489
+          ],
+          "category": "recreational",
+          "arrive_at": "13:36",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Erleben Sie das tropische Flair dieser einzigartig benannten Sandbucht mit ihrer üppigen Umgebung und mieten Sie ein Stand-Up-Paddleboard für das klare Wasser.",
+            "hu": "Tapasztalja meg ennek az egyedi nevű homokos öbölnek a trópusi hangulatát, és érdemes evezős deszkát bérelni, hogy teljes mértékben kiélvezze a kristálytiszta vizet.",
+            "ro": "Experimentați atmosfera tropicală a acestui golf de nisip cu împrejurimi luxuriante și luați în considerare închirierea unei plăci de paddleboard pentru apa cristalină.",
+            "en": "Experience the tropical vibe of this uniquely named sandy cove with its lush surroundings, and consider renting a paddleboard to fully enjoy the crystal-clear waters."
+          }
+        },
+        {
+          "name": {
+            "de": "Bagni Velazzurra",
+            "hu": "Bagni Velazzurra",
+            "ro": "Bagni Velazzurra",
+            "en": "Bagni Velazzurra"
+          },
+          "coords": [
+            8.433631,
+            44.235974
+          ],
+          "category": "recreational",
+          "arrive_at": "14:52",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die energetische Atmosphäre dieses lebhaften Strandclubs mit Wassersportangebot, und es wird empfohlen, Aktivitäten in der Hochsaison im Voraus zu buchen.",
+            "hu": "Élvezze a vízi sportokat kínáló nyüzsgő strandklub energikus hangulatát, és főszezonban kifejezetten ajánlott a tevékenységeket előre lefoglalni.",
+            "ro": "Bucurați-vă de atmosfera plină de energie a acestui club de plajă vibrant, cu sporturi nautice, și este foarte recomandat să rezervați activitățile în avans.",
+            "en": "Enjoy the energetic atmosphere of this vibrant beach club featuring water sports, and it is highly recommended to book your activities in advance during peak season."
+          }
+        },
+        {
+          "name": {
+            "de": "Villaggio del Sole",
+            "hu": "Villaggio del Sole",
+            "ro": "Villaggio del Sole",
+            "en": "Villaggio del Sole"
+          },
+          "coords": [
+            8.438547,
+            44.237725
+          ],
+          "category": "recreational",
+          "arrive_at": "16:08",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Reise in diesem weitläufigen Ferienresort mit umfassenden Annehmlichkeiten, wo ein langsamer Abendspaziergang entlang der beleuchteten Wege magisch ist.",
+            "hu": "Zárja utazását ebben a kiterjedt, átfogó kényelmi szolgáltatásokat nyújtó üdülőövezetben, ahol egy lassú esti séta a kivilágított ösvényeken egyszerűen varázslatos.",
+            "ro": "Încheiați-vă călătoria la acest complex de vacanță extins, cu facilități complete, unde o plimbare lentă de seară pe cărările iluminate este pur și simplu magică.",
+            "en": "Conclude your trip at this expansive holiday resort area with comprehensive amenities, where taking a slow evening walk along the illuminated paths is simply magical."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morning: Beginnen Sie Ihre malerische Küstenfahrt an den südlichen Sandstränden und genießen Sie den Komfort, die wunderschönen Orte früh zu erreichen.\nMidday: Reisen Sie mühelos zwischen den besten Stränden und Felsküsten der Region und finden Sie hervorragende Orte zum Parken und Schwimmen.\nAfternoon: Fahren Sie auf der malerischen Straße nach Norden und machen Sie an lebhaften Strandclubs und versteckten Buchten Halt, ganz ohne lange Fußwege.\nEvening: Beenden Sie Ihren Roadtrip in einem erstklassigen Resort, wo Sie den Sonnenuntergang am Horizont in einem luxuriösen Küstendorf beobachten können.",
+        "hu": "Morning: Kezdje festői parti autózását a déli homokos menedékekről, élvezve a kényelmet, hogy a gyönyörű tengerparti helyeket kora reggel elérheti.\nMidday: Utazzon könnyedén a régió legjobb strandjai és sziklás partjai között, kiváló parkolóhelyeket és fürdőzési lehetőségeket találva a frissítő tengerben.\nAfternoon: Utazzon észak felé a festői úton, megállva a nyüzsgő strandklubokban és rejtett öblökben, a hosszú séták fáradalmai nélkül.\nEvening: Fejezze be autós utazását egy prémium üdülőövezetben, és nézze a naplementét a horizonton egy fényűző tengerparti falu kényelméből.",
+        "ro": "Morning: Începeți-vă călătoria pitorească pe coastă din refugiile sudice cu nisip, bucurându-vă de confortul de a ajunge devreme la locurile frumoase de pe litoral.\nMidday: Călătoriți fără efort între cele mai bune plaje și țărmuri stâncoase ale regiunii, găsind locuri excelente pentru a parca și a vă scufunda în mare.\nAfternoon: Călătoriți spre nord de-a lungul drumului pitoresc, oprindu-vă la cluburi de plajă pline de viață și golfuri ascunse, fără a vă obosi cu plimbări lungi.\nEvening: Încheiați călătoria cu mașina într-o zonă de stațiune de top, privind apusul de la orizont din confortul unui sat luxos de pe litoral.",
+        "en": "Morning: Start your scenic coastal drive from the southern sandy havens, enjoying the convenience of reaching beautiful seaside spots early in the day.\nMidday: Travel effortlessly between the region's best beaches and rocky shores, finding excellent spots to park and dive into the refreshing sea.\nAfternoon: Journey northwards along the picturesque road, stopping at lively beach clubs and hidden coves without the hassle of long walks.\nEvening: Conclude your road trip at a premier resort area, watching the sunset over the horizon from the comfort of a luxurious seaside village setting."
+      }
+    }
+  }
+}

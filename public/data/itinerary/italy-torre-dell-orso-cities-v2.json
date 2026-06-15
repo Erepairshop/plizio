@@ -1,0 +1,474 @@
+{
+  "city_id": "italy-torre-dell-orso-cities-v2",
+  "anchor": {
+    "name": "Torre dell'Orso",
+    "coords": [
+      18.42757,
+      40.27529
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:26",
+      "total_km": 1.1,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Torre dell'Orso",
+            "hu": "Torre dell'Orso",
+            "ro": "Torre dell'Orso",
+            "en": "Torre dell'Orso"
+          },
+          "coords": [
+            18.430146,
+            40.274506
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie den Wachturm aus dem 16. Jahrhundert an der Küste und machen Sie im Morgenlicht tolle Fotos, bevor die Mittagshitze einsetzt.",
+            "hu": "Csodálja meg a 16. századi őrtornyot a tengerparton, és készítsen lenyűgöző fotókat a reggeli fényben, mielőtt a déli hőség beköszöntene.",
+            "ro": "Admirați turnul de veghe din secolul al XVI-lea de pe coastă și faceți fotografii uimitoare în lumina dimineții, înainte de arșița amiezii.",
+            "en": "Admire the 16th-century watchtower guarding the coastline and capture stunning photos in the morning light before the midday heat arrives."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido L'Orsetta",
+            "hu": "Lido L'Orsetta",
+            "ro": "Lido L'Orsetta",
+            "en": "Lido L'Orsetta"
+          },
+          "coords": [
+            18.429647,
+            40.273137
+          ],
+          "category": "recreational",
+          "arrive_at": "10:32",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem wunderschönen Sandstrand, wo das flache, kristallklare Wasser ideale Bedingungen für ein frühes Bad bietet.",
+            "hu": "Pihenjen az öböl gyönyörű homokos partszakaszán, ahol a sekély, kristálytiszta víz ideális helyszínt biztosít egy frissítő kora reggeli úszáshoz.",
+            "ro": "Relaxați-vă pe această plajă frumoasă de nisip, unde apele puțin adânci și cristaline o fac un loc ideal pentru o baie revigorantă de dimineață.",
+            "en": "Relax on this beautiful sandy stretch of the bay, where the shallow, crystal-clear waters make it an ideal spot for a refreshing early swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Baia d'Oriente",
+            "hu": "Baia d'Oriente",
+            "ro": "Baia d'Oriente",
+            "en": "Baia d'Oriente"
+          },
+          "coords": [
+            18.430489,
+            40.272104
+          ],
+          "category": "recreational",
+          "arrive_at": "11:49",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre dieses beliebten Freizeitbereichs, der perfekt mit Sonnenliegen und Schirmen für eine Pause ausgestattet ist.",
+            "hu": "Élvezze a népszerű rekreációs terület élénk hangulatát, amely tökéletesen felszerelt napozóágyakkal és napernyőkkel a kényelmes pihenéshez.",
+            "ro": "Bucurați-vă de atmosfera vibrantă a acestei zone de agrement, perfect echipată cu șezlonguri și umbrele pentru o pauză confortabilă după-amiaza.",
+            "en": "Enjoy the vibrant atmosphere of this popular recreational area, perfectly equipped with sunbeds and umbrellas for a comfortable afternoon pause."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido La Sorgente",
+            "hu": "Lido La Sorgente",
+            "ro": "Lido La Sorgente",
+            "en": "Lido La Sorgente"
+          },
+          "coords": [
+            18.432612,
+            40.269969
+          ],
+          "category": "recreational",
+          "arrive_at": "13:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Entdecken Sie die frischen Quellen, die hier ins Meer fließen, aber reservieren Sie Ihre Sonnenliegen in diesem einzigartigen Strandclub im Voraus.",
+            "hu": "Fedezze fel a tengerbe ömlő friss forrásokat ezen az egyedülálló, frissítő strandon, de gondoskodjon róla, hogy jó előre lefoglalja a napágyát.",
+            "ro": "Descoperiți izvoarele dulci care se varsă în mare la acest club de plajă răcoritor, dar asigurați-vă că rezervați șezlongurile cu mult timp înainte.",
+            "en": "Discover the fresh springs flowing into the sea at this uniquely refreshing beach club, but make sure to book your sun loungers well in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Panorama sulla Due Sorelle",
+            "hu": "Panorama sulla Due Sorelle",
+            "ro": "Panorama sulla Due Sorelle",
+            "en": "Panorama sulla Due Sorelle"
+          },
+          "coords": [
+            18.436849,
+            40.268808
+          ],
+          "category": "natural",
+          "arrive_at": "14:31",
+          "stay_min": 55,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem Aussichtspunkt auf den Klippen den atemberaubenden Blick auf die ikonischen Zwillingsfelsen, besonders bei tief stehender Sonne.",
+            "hu": "Gyönyörködjön az ikonikus ikersziklákra nyíló lélegzetelállító kilátásban erről a sziklaparti kilátóról, amely különösen varázslatos a lemenő napfényben.",
+            "ro": "Admirați vederea uluitoare a stâncilor gemene emblematice de pe acest punct de belvedere, care este deosebit de magic pe măsură ce soarele apune.",
+            "en": "Take in the breathtaking view of the iconic twin sea stacks from this clifftop vantage point, which is especially magical as the sun begins to lower."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am historischen Wachturm von Torre dell'Orso mit einem Blick in die Vergangenheit. Mittags liegt der Fokus auf den Sandbuchten und Entspannung am Lido L'Orsetta und Baia d'Oriente. Den Nachmittag verbringen Sie am Lido La Sorgente, um die Meeresbrise zu genießen. Der Abend gipfelt am Aussichtspunkt der Klippen, wo die Felsen der Due Sorelle sanft leuchten.",
+        "hu": "A reggel Torre dell'Orso történelmi őrtornyánál kezdődik, bepillantást engedve a régió múltjába. A dél a homokos öblökre fókuszál, pihenve a Lido L'Orsetta és Baia d'Oriente partjainál. A délutánt a tengerpart mentén sétálva töltjük, elérve a Lido La Sorgente hűsítő frissességét. Az este a sziklafalon lévő kilátónál csúcsosodik ki, ahonnan a Due Sorelle sziklák láthatók.",
+        "ro": "Dimineața începe la turnul de veghe istoric din Torre dell'Orso. La prânz, accentul se mută pe golfurile cu nisip fin, relaxându-vă la Lido L'Orsetta și Baia d'Oriente. După-amiaza vă plimbați de-a lungul coastei spre Lido La Sorgente pentru brize marine răcoritoare. Seara culminează la panorama de pe stânci, privind stâncile gemene Due Sorelle cum strălucesc în asfințit.",
+        "en": "Morning begins at the historic watchtower of Torre dell'Orso, offering a glimpse into the region's past. Midday shifts focus to the pristine sandy bays, relaxing at Lido L'Orsetta and Baia d'Oriente. Afternoon is spent moving along the coast towards Lido La Sorgente for refreshing sea breezes. Evening culminates at the clifftop panorama, watching the Due Sorelle stacks glow."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:51",
+      "total_km": 3.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Poetry Cave",
+            "hu": "Poetry Cave",
+            "ro": "Poetry Cave",
+            "en": "Poetry Cave"
+          },
+          "coords": [
+            18.429787,
+            40.285758
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses spektakuläre, in den Kalkstein gehauene Naturschwimmbecken und kommen Sie früh, um den Menschenmassen zu entgehen.",
+            "hu": "Csodálja meg ezt a mészkősziklába vájt látványos természetes medencét, és érkezzen korán, hogy elkerülje a tömeget a békés és varázslatos élményért.",
+            "ro": "Minunați-vă de această piscină naturală spectaculoasă săpată în calcar și ajungeți devreme pentru a evita aglomerația și a vă bucura de liniște.",
+            "en": "Marvel at this spectacular natural pool carved into the limestone rock, and arrive early to beat the crowds for a peaceful and magical experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Area archeologica di Roca Vecchia",
+            "hu": "Area archeologica di Roca Vecchia",
+            "ro": "Area archeologica di Roca Vecchia",
+            "en": "Area archeologica di Roca Vecchia"
+          },
+          "coords": [
+            18.426409,
+            40.287275
+          ],
+          "category": "historical",
+          "arrive_at": "10:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Machen Sie eine Zeitreise zwischen den faszinierenden Ruinen der Bronzezeit und dem Mittelalter, bringen Sie aber bequeme Wanderschuhe mit.",
+            "hu": "Lépjen vissza az időben a bronzkori és középkori romok között, és hozzon magával kényelmes cipőt a zord, sziklás tengerparti terep bejárásához.",
+            "ro": "Pășiți înapoi în timp printre ruinele epocii bronzului și medievale, purtând pantofi confortabili pentru a naviga pe terenul stâncos de coastă.",
+            "en": "Step back in time among the fascinating Bronze Age and medieval ruins, bringing comfortable walking shoes to navigate the rugged coastal terrain."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre Roca Vecchia",
+            "hu": "Torre Roca Vecchia",
+            "ro": "Torre Roca Vecchia",
+            "en": "Torre Roca Vecchia"
+          },
+          "coords": [
+            18.427787,
+            40.288415
+          ],
+          "category": "historical",
+          "arrive_at": "11:48",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser historischen Verteidigungsanlage mit Blick auf die Adria, die großartige Möglichkeiten für Panoramafotos bietet.",
+            "hu": "Fedezze fel az Adriára néző történelmi védelmi építmény maradványait, amely nagyszerű lehetőségeket kínál a lenyűgöző panorámaképek készítéséhez.",
+            "ro": "Explorați rămășițele acestei structuri defensive istorice cu vedere la Marea Adriatică, oferind oportunități excelente de fotografie panoramică.",
+            "en": "Explore the remnants of this historic defensive structure overlooking the Adriatic, offering great panoramic photography opportunities along the coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre dell'Orso",
+            "hu": "Torre dell'Orso",
+            "ro": "Torre dell'Orso",
+            "en": "Torre dell'Orso"
+          },
+          "coords": [
+            18.430146,
+            40.274506
+          ],
+          "category": "historical",
+          "arrive_at": "13:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.55,
+          "tip_5lang": {
+            "de": "Bewundern Sie den Wachturm aus dem 16. Jahrhundert an der Küste und machen Sie im Morgenlicht tolle Fotos, bevor die Mittagshitze einsetzt.",
+            "hu": "Csodálja meg a 16. századi őrtornyot a tengerparton, és készítsen lenyűgöző fotókat a reggeli fényben, mielőtt a déli hőség beköszöntene.",
+            "ro": "Admirați turnul de veghe din secolul al XVI-lea de pe coastă și faceți fotografii uimitoare în lumina dimineții, înainte de arșița amiezii.",
+            "en": "Admire the 16th-century watchtower guarding the coastline and capture stunning photos in the morning light before the midday heat arrives."
+          }
+        },
+        {
+          "name": {
+            "de": "Cala Marin",
+            "hu": "Cala Marin",
+            "ro": "Cala Marin",
+            "en": "Cala Marin"
+          },
+          "coords": [
+            18.434285,
+            40.2691
+          ],
+          "category": "recreational",
+          "arrive_at": "14:40",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in dieser malerischen, geschützten Bucht mit kristallklarem Wasser, die ein fantastischer Ort zum Schnorcheln und Sonnenbaden ist.",
+            "hu": "Pihenjen meg ebben a festői, védett öbölben a kristálytiszta vízzel, amely fantasztikus megálló sznorkelezéshez vagy egyszerűen csak napozáshoz.",
+            "ro": "Relaxați-vă în acest golf pitoresc și adăpostit cu ape cristaline, făcându-l o oprire fantastică pentru snorkeling sau pur și simplu pentru plajă.",
+            "en": "Unwind in this picturesque, sheltered cove with its crystal-clear water, making it a fantastic stop for snorkeling or simply soaking up the sun."
+          }
+        },
+        {
+          "name": {
+            "de": "Panorama sulla Due Sorelle",
+            "hu": "Panorama sulla Due Sorelle",
+            "ro": "Panorama sulla Due Sorelle",
+            "en": "Panorama sulla Due Sorelle"
+          },
+          "coords": [
+            18.436849,
+            40.268808
+          ],
+          "category": "natural",
+          "arrive_at": "15:56",
+          "stay_min": 55,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem Aussichtspunkt auf den Klippen den atemberaubenden Blick auf die ikonischen Zwillingsfelsen, besonders bei tief stehender Sonne.",
+            "hu": "Gyönyörködjön az ikonikus ikersziklákra nyíló lélegzetelállító kilátásban erről a sziklaparti kilátóról, amely különösen varázslatos a lemenő napfényben.",
+            "ro": "Admirați vederea uluitoare a stâncilor gemene emblematice de pe acest punct de belvedere, care este deosebit de magic pe măsură ce soarele apune.",
+            "en": "Take in the breathtaking view of the iconic twin sea stacks from this clifftop vantage point, which is especially magical as the sun begins to lower."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie mit der Poesie-Höhle und radeln Sie früh los, um das kristallklare Wasser zu genießen. Tauchen Sie mittags in die antiken Ruinen und den Wachturm von Roca Vecchia ein. Die Nachmittagsfahrt führt Sie in Richtung Süden zum lebhaften Zentrum von Torre dell'Orso und Cala Marin. Beenden Sie den Tag mit dem Blick auf das majestätische Panorama der Due Sorelle.",
+        "hu": "Kezdje a lenyűgöző Költészet Barlangjával, kerékpározva a kristálytiszta vizekhez kora reggel. Délben merüljön el Roca Vecchia ősi romjaiban és történelmi őrtornyában. A délutáni tekerés délre visz, Torre dell'Orso vibráló tengerparti szívébe és a Cala Marin öbölhöz. Zárja a napot a fenséges Due Sorelle panoráma megfigyelésével, ahogy a lemenő nap megfesti a sziklákat.",
+        "ro": "Începeți cu Peștera Poeziei, pedalând devreme pentru a vă bucura de apele cristaline. La prânz, pătrundeți în ruinele antice și turnul de veghe de la Roca Vecchia. Călătoria de după-amiază vă duce spre sud, spre inima vibrantă de coastă din Torre dell'Orso și Cala Marin. Încheiați ziua observând panorama maiestuoasă Due Sorelle în timp ce soarele la apus colorează stâncile.",
+        "en": "Start with the breathtaking Poetry Cave, cycling to enjoy its crystal waters early on. By midday, delve into the ancient ruins and watchtower at Roca Vecchia, full of history. The afternoon ride takes you south to the vibrant coastal heart of Torre dell'Orso and Cala Marin. Finish the day observing the majestic Due Sorelle panorama as the setting sun paints the cliffs."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:55",
+      "total_km": 4.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Torre Roca Vecchia",
+            "hu": "Torre Roca Vecchia",
+            "ro": "Torre Roca Vecchia",
+            "en": "Torre Roca Vecchia"
+          },
+          "coords": [
+            18.427787,
+            40.288415
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Überreste dieser historischen Verteidigungsanlage mit Blick auf die Adria, die großartige Möglichkeiten für Panoramafotos bietet.",
+            "hu": "Fedezze fel az Adriára néző történelmi védelmi építmény maradványait, amely nagyszerű lehetőségeket kínál a lenyűgöző panorámaképek készítéséhez.",
+            "ro": "Explorați rămășițele acestei structuri defensive istorice cu vedere la Marea Adriatică, oferind oportunități excelente de fotografie panoramică.",
+            "en": "Explore the remnants of this historic defensive structure overlooking the Adriatic, offering great panoramic photography opportunities along the coast."
+          }
+        },
+        {
+          "name": {
+            "de": "Poetry Cave",
+            "hu": "Poetry Cave",
+            "ro": "Poetry Cave",
+            "en": "Poetry Cave"
+          },
+          "coords": [
+            18.429787,
+            40.285758
+          ],
+          "category": "natural",
+          "arrive_at": "10:31",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie dieses spektakuläre, in den Kalkstein gehauene Naturschwimmbecken und kommen Sie früh, um den Menschenmassen zu entgehen.",
+            "hu": "Csodálja meg ezt a mészkősziklába vájt látványos természetes medencét, és érkezzen korán, hogy elkerülje a tömeget a békés és varázslatos élményért.",
+            "ro": "Minunați-vă de această piscină naturală spectaculoasă săpată în calcar și ajungeți devreme pentru a evita aglomerația și a vă bucura de liniște.",
+            "en": "Marvel at this spectacular natural pool carved into the limestone rock, and arrive early to beat the crowds for a peaceful and magical experience."
+          }
+        },
+        {
+          "name": {
+            "de": "Torre dell'Orso",
+            "hu": "Torre dell'Orso",
+            "ro": "Torre dell'Orso",
+            "en": "Torre dell'Orso"
+          },
+          "coords": [
+            18.430146,
+            40.274506
+          ],
+          "category": "historical",
+          "arrive_at": "11:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie den Wachturm aus dem 16. Jahrhundert an der Küste und machen Sie im Morgenlicht tolle Fotos, bevor die Mittagshitze einsetzt.",
+            "hu": "Csodálja meg a 16. századi őrtornyot a tengerparton, és készítsen lenyűgöző fotókat a reggeli fényben, mielőtt a déli hőség beköszöntene.",
+            "ro": "Admirați turnul de veghe din secolul al XVI-lea de pe coastă și faceți fotografii uimitoare în lumina dimineții, înainte de arșița amiezii.",
+            "en": "Admire the 16th-century watchtower guarding the coastline and capture stunning photos in the morning light before the midday heat arrives."
+          }
+        },
+        {
+          "name": {
+            "de": "Panorama sulla Due Sorelle",
+            "hu": "Panorama sulla Due Sorelle",
+            "ro": "Panorama sulla Due Sorelle",
+            "en": "Panorama sulla Due Sorelle"
+          },
+          "coords": [
+            18.436849,
+            40.268808
+          ],
+          "category": "natural",
+          "arrive_at": "13:11",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Genießen Sie von diesem Aussichtspunkt auf den Klippen den atemberaubenden Blick auf die ikonischen Zwillingsfelsen, besonders bei tief stehender Sonne.",
+            "hu": "Gyönyörködjön az ikonikus ikersziklákra nyíló lélegzetelállító kilátásban erről a sziklaparti kilátóról, amely különösen varázslatos a lemenő napfényben.",
+            "ro": "Admirați vederea uluitoare a stâncilor gemene emblematice de pe acest punct de belvedere, care este deosebit de magic pe măsură ce soarele apune.",
+            "en": "Take in the breathtaking view of the iconic twin sea stacks from this clifftop vantage point, which is especially magical as the sun begins to lower."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotta dell'Acqua Dolce",
+            "hu": "Grotta dell'Acqua Dolce",
+            "ro": "Grotta dell'Acqua Dolce",
+            "en": "Grotta dell'Acqua Dolce"
+          },
+          "coords": [
+            18.442674,
+            40.263898
+          ],
+          "category": "landmark",
+          "arrive_at": "13:38",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese versteckte Küstenhöhle, die nach ihren Süßwasserquellen benannt ist, und achten Sie auf die einzigartigen Felsformationen.",
+            "hu": "Fedezze fel ezt az édesvizű forrásairól elnevezett rejtett tengerparti barlangot, és figyelje meg a tenger által formált egyedi sziklaalakzatokat.",
+            "ro": "Descoperiți această peșteră de coastă ascunsă numită după izvoarele sale de apă dulce, admirând formațiunile stâncoase unice modelate de mare.",
+            "en": "Discover this hidden coastal cave named for its fresh water springs, keeping an eye out for the unique rock formations shaped by the sea over time."
+          }
+        },
+        {
+          "name": {
+            "de": "Grotta Renzu Beddu",
+            "hu": "Grotta Renzu Beddu",
+            "ro": "Grotta Renzu Beddu",
+            "en": "Grotta Renzu Beddu"
+          },
+          "coords": [
+            18.443695,
+            40.260718
+          ],
+          "category": "landmark",
+          "arrive_at": "13:54",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Blicken Sie in dieses markante, von den Wellen geformte Wahrzeichen, halten Sie jedoch beim Fotografieren einen sicheren Abstand zu den Klippen.",
+            "hu": "Tekintse meg ezt a hullámok által faragott lenyűgöző nevezetességet, de fényképezés közben tartson biztonságos távolságot a törékeny sziklaszélétől.",
+            "ro": "Priviți în acest reper izbitor sculptat de valurile necruțătoare, dar mențineți o distanță sigură de marginile fragile ale stâncii la fotografiere.",
+            "en": "Peer into this striking landmark carved by the relentless waves, but maintain a safe distance from the fragile cliff edges while taking photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Faraglioni",
+            "hu": "Faraglioni",
+            "ro": "Faraglioni",
+            "en": "Faraglioni"
+          },
+          "coords": [
+            18.443279,
+            40.257242
+          ],
+          "category": "natural",
+          "arrive_at": "14:10",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Bestaunen Sie diese hoch aufragenden Felsen, die majestätisch aus dem türkisfarbenen Wasser ragen, und beenden Sie Ihre Tour mit diesem Ausblick.",
+            "hu": "Csodálja meg a türkizkék vízből fenségesen kiemelkedő tornyosuló tengeri sziklákat, és zárja túráját Puglia egyik legikonikusabb kilátásával.",
+            "ro": "Minunați-vă de aceste stânci marine falnice care se înalță din apele turcoaz, încheind turul cu una dintre cele mai emblematice priveliști din Apulia.",
+            "en": "Marvel at these towering sea stacks emerging majestically from the turquoise waters, concluding your tour with one of Apulia's most iconic vistas."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Fahrt beginnt mit der Erkundung der Befestigungsanlagen von Torre Roca Vecchia. Mittags erreichen Sie das weltberühmte Naturschwimmbecken der Poesie-Höhle und danach Torre dell'Orso. Der Nachmittag eignet sich für malerische Stopps an der schroffen Südküste, um Höhlen zu entdecken. Die Reise endet an den Faraglioni-Felsen, die im klaren blauen Meer aufragen.",
+        "hu": "Az autózás a Torre Roca Vecchia történelmi erődítményeinek felfedezésével kezdődik. Délben a világhírű Költészet Barlangja természetes medencéjéhez érünk, majd Torre dell'Orso fő tornyához. A délután tökéletes a zord déli partvidék festői megállóihoz, lenyűgöző barlangokat figyelve. Az utazás a tiszta kék tengerben magasodó Faraglioni szikláknál ér véget.",
+        "ro": "Conducerea începe prin explorarea fortificațiilor istorice din Torre Roca Vecchia. Prânzul vă aduce la faimoasa piscină naturală a Peșterii Poeziei, urmată de Torre dell'Orso. După-amiaza este perfectă pentru opriri pitorești de-a lungul coastei stâncoase de sud, descoperind peșteri dramatice. Călătoria se termină la stâncile impunătoare Faraglioni din marea limpede.",
+        "en": "The drive begins exploring the historic fortifications of Torre Roca Vecchia. Midday brings you to the world-famous natural swimming pool of the Poetry Cave, followed by the main tower of Torre dell'Orso. Afternoon is perfect for scenic stops along the rugged southern coast, spotting dramatic caves. The journey ends at the towering Faraglioni rocks standing in the clear blue sea."
+      }
+    }
+  }
+}

@@ -1,0 +1,520 @@
+{
+  "city_id": "italy-puntone-di-scarlino-cities-v2",
+  "anchor": {
+    "name": "Puntone di Scarlino",
+    "coords": [
+      10.7908,
+      42.8893
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:02",
+      "total_km": 1.43,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "MAPS",
+            "hu": "MAPS",
+            "ro": "MAPS",
+            "en": "MAPS"
+          },
+          "coords": [
+            10.790525,
+            42.890473
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie im faszinierenden MAPS-Museum das lokale Bergbauerbe und fragen Sie die freundlichen Führer nach den interaktiven Exponaten.",
+            "hu": "Fedezze fel a lenyűgöző MAPS múzeumban a helyi bányászati örökséget, és feltétlenül kérdezze meg a vezetőket az interaktív kiállításokról.",
+            "ro": "Explorați fascinantul muzeu MAPS pentru a descoperi patrimoniul minier local și asigurați-vă că întrebați ghizii despre exponatele interactive.",
+            "en": "Explore the fascinating MAPS museum to uncover the local mining heritage, and be sure to ask the guides about the interactive exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa romana",
+            "hu": "Villa romana",
+            "ro": "Villa romana",
+            "en": "Villa romana"
+          },
+          "coords": [
+            10.786965,
+            42.895794
+          ],
+          "category": "historical",
+          "arrive_at": "10:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gut erhaltenen Ruinen der römischen Villa, um das antike Küstenleben zu verstehen, und bringen Sie einen Hut mit, da es kaum Schatten gibt.",
+            "hu": "Csodálja meg a római villa jól megőrzött romjait az ősi part menti élet megértéséhez, és hozzon magával kalapot, mivel kevés az árnyék a helyszínen.",
+            "ro": "Admirați ruinele bine conservate ale Vilei Romane pentru a înțelege viața de coastă antică, aducând o pălărie deoarece există puțină umbră aici.",
+            "en": "Admire the well-preserved ruins of the Roman Villa to understand ancient coastal life, bringing a hat since there is little shade around the site."
+          }
+        },
+        {
+          "name": {
+            "de": "spiaggia cani",
+            "hu": "spiaggia cani",
+            "ro": "spiaggia cani",
+            "en": "spiaggia cani"
+          },
+          "coords": [
+            10.784041,
+            42.895386
+          ],
+          "category": "recreational",
+          "arrive_at": "12:24",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre an diesem hundefreundlichen Strand, der perfekt für Tierliebhaber ist, und kommen Sie früh, um einen guten Platz zu finden.",
+            "hu": "Élvezze a nyüzsgő hangulatot ezen a kutyabarát strandon, amely tökéletes az állatbarátoknak, és érkezzen korán, hogy kényelmes helyet találjon.",
+            "ro": "Bucurați-vă de atmosfera plină de viață la această plajă prietenoasă cu câinii, perfectă pentru iubitorii de animale, sosind devreme pentru un loc bun.",
+            "en": "Enjoy a lively atmosphere at this dog-friendly beach which is perfect for pet lovers, arriving early to secure a comfortable spot near the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Puntone Beach",
+            "hu": "Puntone Beach",
+            "ro": "Puntone Beach",
+            "en": "Puntone Beach"
+          },
+          "coords": [
+            10.783304,
+            42.896571
+          ],
+          "category": "recreational",
+          "arrive_at": "13:41",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Entspannen Sie am weichen Sandstrand von Puntone Beach, wo sanfte Wellen für Ruhe sorgen, aber denken Sie daran, Ihre eigene Sonnencreme und Wasser mitzubringen.",
+            "hu": "Pihenjen a Puntone Beach puha homokján, ahol a lágy hullámok békés menedéket nyújtanak, de ne felejtsen el saját naptejet és hideg vizet hozni.",
+            "ro": "Relaxați-vă pe nisipul moale de la Puntone Beach unde valurile blânde oferă o evadare senină, dar nu uitați să vă aduceți propria cremă de soare.",
+            "en": "Relax on the soft sands of Puntone Beach where the gentle waves provide a serene escape, but remember to pack your own sunscreen and cold water."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia Darsena",
+            "hu": "Spiaggia Darsena",
+            "ro": "Spiaggia Darsena",
+            "en": "Spiaggia Darsena"
+          },
+          "coords": [
+            10.782185,
+            42.898243
+          ],
+          "category": "recreational",
+          "arrive_at": "14:59",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang der Spiaggia Darsena, um Boote am Yachthafen zu beobachten, und halten Sie Ausschau nach Cafés, die exzellente Meeresfrüchte anbieten.",
+            "hu": "Sétáljon a Spiaggia Darsena mentén, hogy megfigyelje a festői kikötőben sikló hajókat, és keressen egy közeli kávézót, amely kiváló tengeri falatokat kínál.",
+            "ro": "Plimbați-vă de-a lungul Spiaggia Darsena pentru a privi bărcile din portul pitoresc, căutând cafenelele din apropiere care oferă gustări marine excelente.",
+            "en": "Stroll along Spiaggia Darsena to watch boats gliding by the scenic marina, keeping an eye out for nearby cafes offering excellent seafood snacks."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Acquatico Splash",
+            "hu": "Parco Acquatico Splash",
+            "ro": "Parco Acquatico Splash",
+            "en": "Parco Acquatico Splash"
+          },
+          "coords": [
+            10.780168,
+            42.897725
+          ],
+          "category": "recreational",
+          "arrive_at": "16:17",
+          "stay_min": 105,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich im Parco Acquatico Splash ab, der aufregende Rutschen für die Familie bietet, und mieten Sie ein Schließfach, um Ihre Wertsachen sicher aufzubewahren.",
+            "hu": "Hűsöljön a Parco Acquatico Splash víziparkban, amely izgalmas csúszdákat kínál az egész családnak, és béreljen szekrényt az értéktárgyak biztonságos megőrzéséhez.",
+            "ro": "Răcoriți-vă la Parco Acquatico Splash, care oferă tobogane palpitante pentru familie, și luați în considerare închirierea unui dulap pentru obiectele de valoare.",
+            "en": "Cool off at Parco Acquatico Splash which offers thrilling slides for the whole family, and consider renting a locker to keep your valuables completely safe."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen mit der Erkundung der lokalen Geschichte im MAPS-Museum, bevor Sie die antiken Ruinen der römischen Villa bewundern. Die Mittagszeit ist ideal für Entspannung an der Küste, zuerst am hundefreundlichen Strand und dann im weichen Sand von Puntone Beach. Genießen Sie am Nachmittag einen malerischen Spaziergang entlang der Spiaggia Darsena am Yachthafen. Beenden Sie den Tag mit rasanten Rutschen im Parco Acquatico Splash.",
+        "hu": "Kezdje a reggelt a helyi történelem felfedezésével a MAPS múzeumban, majd csodálja meg a közeli római villa ősi romjait. A dél tökéletes a tengerparti pihenésre, először a nyüzsgő kutyabarát strandon, majd a Puntone Beach puha homokján. Délután élvezze a festői sétát a Spiaggia Darsena mentén a kikötőben. Zárja aktív napját izgalmas csúszdákkal és családi szórakozással a Parco Acquatico Splash víziparkban.",
+        "ro": "Începeți dimineața explorând istoria locală la muzeul MAPS, înainte de a admira ruinele antice ale Vilei Romane din apropiere. Amiaza este perfectă pentru relaxare pe coastă, vizitând mai întâi plaja pentru câini și apoi nisipul de la Puntone Beach. După-amiaza, bucurați-vă de o plimbare pitorească de-a lungul Spiaggia Darsena, lângă portul de agrement. Încheiați ziua activă cu tobogane palpitante la Parco Acquatico Splash.",
+        "en": "Start your morning exploring the local history at the MAPS museum before marveling at the ancient ruins of the nearby Roman Villa. Midday is perfect for coastal relaxation, first visiting the vibrant dog-friendly beach and then settling on the soft sands of Puntone Beach. In the afternoon, enjoy a picturesque stroll along Spiaggia Darsena by the marina. Conclude your active day with thrilling slides and family fun at Parco Acquatico Splash."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "19:18",
+      "total_km": 3.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Parco Nazionale Colline Metallifere",
+            "hu": "Parco Nazionale Colline Metallifere",
+            "ro": "Parco Nazionale Colline Metallifere",
+            "en": "Parco Nazionale Colline Metallifere"
+          },
+          "coords": [
+            10.777708,
+            42.87998
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die rauen Landschaften der metallhaltigen Hügel, um die Geologie der Toskana zu schätzen, und tragen Sie unbedingt feste Wanderschuhe.",
+            "hu": "Túrázzon a Fémtartalmú-dombság zord tájain, hogy megcsodálja Toszkána változatos geológiáját, és feltétlenül viseljen masszív túracipőt.",
+            "ro": "Faceți drumeții prin peisajele accidentate ale Dealurilor Metalifere pentru a aprecia geologia Toscanei, asigurându-vă că purtați încălțăminte de mers robustă.",
+            "en": "Hike through the rugged landscapes of the Metalliferous Hills to appreciate Tuscany's diverse geology, making sure to wear sturdy walking shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Il tasso scatenato",
+            "hu": "Il tasso scatenato",
+            "ro": "Il tasso scatenato",
+            "en": "Il tasso scatenato"
+          },
+          "coords": [
+            10.786487,
+            42.882836
+          ],
+          "category": "recreational",
+          "arrive_at": "10:30",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erleben Sie ein aktives Abenteuer im Kletterpark Il Tasso Scatenato, um Ihre Fähigkeiten zu testen, und buchen Sie Ihren Gurt in der Hochsaison im Voraus.",
+            "hu": "Éljen át egy aktív kalandot az Il Tasso Scatenato kalandparkban, hogy próbára tegye mászótudását, és főszezonban jó előre foglalja le a beülőt.",
+            "ro": "Aveți o aventură activă la parcul Il Tasso Scatenato pentru a vă testa abilitățile de cățărare și rezervați-vă hamul cu mult timp înainte în sezonul de vârf.",
+            "en": "Have an active adventure at Il Tasso Scatenato adventure park to challenge your climbing skills, and book your climbing harness well in advance during peak season."
+          }
+        },
+        {
+          "name": {
+            "de": "MAPS",
+            "hu": "MAPS",
+            "ro": "MAPS",
+            "en": "MAPS"
+          },
+          "coords": [
+            10.790525,
+            42.890473
+          ],
+          "category": "museum",
+          "arrive_at": "11:50",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entdecken Sie im faszinierenden MAPS-Museum das lokale Bergbauerbe und fragen Sie die freundlichen Führer nach den interaktiven Exponaten.",
+            "hu": "Fedezze fel a lenyűgöző MAPS múzeumban a helyi bányászati örökséget, és feltétlenül kérdezze meg a vezetőket az interaktív kiállításokról.",
+            "ro": "Explorați fascinantul muzeu MAPS pentru a descoperi patrimoniul minier local și asigurați-vă că întrebați ghizii despre exponatele interactive.",
+            "en": "Explore the fascinating MAPS museum to uncover the local mining heritage, and be sure to ask the guides about the interactive exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa romana",
+            "hu": "Villa romana",
+            "ro": "Villa romana",
+            "en": "Villa romana"
+          },
+          "coords": [
+            10.786965,
+            42.895794
+          ],
+          "category": "historical",
+          "arrive_at": "13:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gut erhaltenen Ruinen der römischen Villa, um das antike Küstenleben zu verstehen, und bringen Sie einen Hut mit, da es kaum Schatten gibt.",
+            "hu": "Csodálja meg a római villa jól megőrzött romjait az ősi part menti élet megértéséhez, és hozzon magával kalapot, mivel kevés az árnyék a helyszínen.",
+            "ro": "Admirați ruinele bine conservate ale Vilei Romane pentru a înțelege viața de coastă antică, aducând o pălărie deoarece există puțină umbră aici.",
+            "en": "Admire the well-preserved ruins of the Roman Villa to understand ancient coastal life, bringing a hat since there is little shade around the site."
+          }
+        },
+        {
+          "name": {
+            "de": "Puntone Beach",
+            "hu": "Puntone Beach",
+            "ro": "Puntone Beach",
+            "en": "Puntone Beach"
+          },
+          "coords": [
+            10.783304,
+            42.896571
+          ],
+          "category": "recreational",
+          "arrive_at": "14:56",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entspannen Sie am weichen Sandstrand von Puntone Beach, wo sanfte Wellen für Ruhe sorgen, aber denken Sie daran, Ihre eigene Sonnencreme und Wasser mitzubringen.",
+            "hu": "Pihenjen a Puntone Beach puha homokján, ahol a lágy hullámok békés menedéket nyújtanak, de ne felejtsen el saját naptejet és hideg vizet hozni.",
+            "ro": "Relaxați-vă pe nisipul moale de la Puntone Beach unde valurile blânde oferă o evadare senină, dar nu uitați să vă aduceți propria cremă de soare.",
+            "en": "Relax on the soft sands of Puntone Beach where the gentle waves provide a serene escape, but remember to pack your own sunscreen and cold water."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Acquatico Splash",
+            "hu": "Parco Acquatico Splash",
+            "ro": "Parco Acquatico Splash",
+            "en": "Parco Acquatico Splash"
+          },
+          "coords": [
+            10.780168,
+            42.897725
+          ],
+          "category": "recreational",
+          "arrive_at": "16:13",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich im Parco Acquatico Splash ab, der aufregende Rutschen für die Familie bietet, und mieten Sie ein Schließfach, um Ihre Wertsachen sicher aufzubewahren.",
+            "hu": "Hűsöljön a Parco Acquatico Splash víziparkban, amely izgalmas csúszdákat kínál az egész családnak, és béreljen szekrényt az értéktárgyak biztonságos megőrzéséhez.",
+            "ro": "Răcoriți-vă la Parco Acquatico Splash, care oferă tobogane palpitante pentru familie, și luați în considerare închirierea unui dulap pentru obiectele de valoare.",
+            "en": "Cool off at Parco Acquatico Splash which offers thrilling slides for the whole family, and consider renting a locker to keep your valuables completely safe."
+          }
+        },
+        {
+          "name": {
+            "de": "Mamai Beach",
+            "hu": "Mamai Beach",
+            "ro": "Mamai Beach",
+            "en": "Mamai Beach"
+          },
+          "coords": [
+            10.776615,
+            42.905911
+          ],
+          "category": "recreational",
+          "arrive_at": "17:33",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag am Mamai Beach, um einen atemberaubenden Sonnenuntergang zu genießen, und holen Sie sich einen erfrischenden Cocktail an der Strandbar.",
+            "hu": "Fejezze be a napot a Mamai Beachen, hogy gyönyörködjön a lenyűgöző tengerparti naplementében, és kérjen egy frissítő koktélt a stílusos tengerparti bárban.",
+            "ro": "Încheiați-vă ziua la Mamai Beach pentru a vă bucura de un apus de soare uimitor pe coastă, luând un cocktail răcoritor de la barul elegant de pe plajă.",
+            "en": "End your day at Mamai Beach to soak up a stunning coastal sunset, grabbing a refreshing cocktail from the stylish beach bar right on the sand."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour mitten in der Natur im Nationalpark Colline Metallifere. Fordern Sie sich mittags im Abenteuerpark Il Tasso Scatenato heraus, bevor Sie im MAPS-Museum in das Bergbauerbe eintauchen. Der Nachmittag führt Sie in der römischen Villa in die Vergangenheit, gefolgt von einer Fahrt zum Puntone Beach. Beenden Sie den Tag mit Spaß im Wasserpark und einem Sonnenuntergang am Mamai Beach.",
+        "hu": "Kezdje kerékpártúráját a természet lágy ölén, a Fémtartalmú-dombság Nemzeti Parkban. Délben tegye próbára magát az Il Tasso Scatenato kalandparkban, mielőtt elmerülne a bányászati örökségben a MAPS múzeumban. A délután visszaviszi az időben a római villához, amelyet egy szellős utazás követ a pihentető Puntone Beachre. Zárja a napot a Splash víziparkban és egy csodás naplementével a Mamai Beachen.",
+        "ro": "Începeți turul cu bicicleta scufundat în natură la Parcul Național Colline Metallifere. La prânz, testați-vă abilitățile la parcul de aventură Il Tasso Scatenato înainte de a explora patrimoniul minier la muzeul MAPS. După-amiaza vă poartă înapoi în timp la Vila Romană, urmată de o plimbare către relaxanta Puntone Beach. Terminați cu distracție la parcul acvatic și un apus superb la Mamai Beach.",
+        "en": "Kick off your cycling tour immersed in nature at the Metalliferous Hills National Park. By midday, challenge yourself at the Il Tasso Scatenato adventure park before delving into the region's mining heritage at the MAPS museum. The afternoon takes you back in time at the Roman Villa, followed by a breezy ride to the relaxing Puntone Beach. Finish with fun at the Splash Water Park and a beautiful sunset at Mamai Beach."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "19:05",
+      "total_km": 3.93,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Mamai Beach",
+            "hu": "Mamai Beach",
+            "ro": "Mamai Beach",
+            "en": "Mamai Beach"
+          },
+          "coords": [
+            10.776615,
+            42.905911
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Tag am Mamai Beach, um einen atemberaubenden Sonnenuntergang zu genießen, und holen Sie sich einen erfrischenden Cocktail an der Strandbar.",
+            "hu": "Fejezze be a napot a Mamai Beachen, hogy gyönyörködjön a lenyűgöző tengerparti naplementében, és kérjen egy frissítő koktélt a stílusos tengerparti bárban.",
+            "ro": "Încheiați-vă ziua la Mamai Beach pentru a vă bucura de un apus de soare uimitor pe coastă, luând un cocktail răcoritor de la barul elegant de pe plajă.",
+            "en": "End your day at Mamai Beach to soak up a stunning coastal sunset, grabbing a refreshing cocktail from the stylish beach bar right on the sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Acquatico Splash",
+            "hu": "Parco Acquatico Splash",
+            "ro": "Parco Acquatico Splash",
+            "en": "Parco Acquatico Splash"
+          },
+          "coords": [
+            10.780168,
+            42.897725
+          ],
+          "category": "recreational",
+          "arrive_at": "10:27",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.95,
+          "tip_5lang": {
+            "de": "Kühlen Sie sich im Parco Acquatico Splash ab, der aufregende Rutschen für die Familie bietet, und mieten Sie ein Schließfach, um Ihre Wertsachen sicher aufzubewahren.",
+            "hu": "Hűsöljön a Parco Acquatico Splash víziparkban, amely izgalmas csúszdákat kínál az egész családnak, és béreljen szekrényt az értéktárgyak biztonságos megőrzéséhez.",
+            "ro": "Răcoriți-vă la Parco Acquatico Splash, care oferă tobogane palpitante pentru familie, și luați în considerare închirierea unui dulap pentru obiectele de valoare.",
+            "en": "Cool off at Parco Acquatico Splash which offers thrilling slides for the whole family, and consider renting a locker to keep your valuables completely safe."
+          }
+        },
+        {
+          "name": {
+            "de": "Spiaggia Darsena",
+            "hu": "Spiaggia Darsena",
+            "ro": "Spiaggia Darsena",
+            "en": "Spiaggia Darsena"
+          },
+          "coords": [
+            10.782185,
+            42.898243
+          ],
+          "category": "recreational",
+          "arrive_at": "11:43",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Schlendern Sie entlang der Spiaggia Darsena, um Boote am Yachthafen zu beobachten, und halten Sie Ausschau nach Cafés, die exzellente Meeresfrüchte anbieten.",
+            "hu": "Sétáljon a Spiaggia Darsena mentén, hogy megfigyelje a festői kikötőben sikló hajókat, és keressen egy közeli kávézót, amely kiváló tengeri falatokat kínál.",
+            "ro": "Plimbați-vă de-a lungul Spiaggia Darsena pentru a privi bărcile din portul pitoresc, căutând cafenelele din apropiere care oferă gustări marine excelente.",
+            "en": "Stroll along Spiaggia Darsena to watch boats gliding by the scenic marina, keeping an eye out for nearby cafes offering excellent seafood snacks."
+          }
+        },
+        {
+          "name": {
+            "de": "Villa romana",
+            "hu": "Villa romana",
+            "ro": "Villa romana",
+            "en": "Villa romana"
+          },
+          "coords": [
+            10.786965,
+            42.895794
+          ],
+          "category": "historical",
+          "arrive_at": "12:59",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gut erhaltenen Ruinen der römischen Villa, um das antike Küstenleben zu verstehen, und bringen Sie einen Hut mit, da es kaum Schatten gibt.",
+            "hu": "Csodálja meg a római villa jól megőrzött romjait az ősi part menti élet megértéséhez, és hozzon magával kalapot, mivel kevés az árnyék a helyszínen.",
+            "ro": "Admirați ruinele bine conservate ale Vilei Romane pentru a înțelege viața de coastă antică, aducând o pălărie deoarece există puțină umbră aici.",
+            "en": "Admire the well-preserved ruins of the Roman Villa to understand ancient coastal life, bringing a hat since there is little shade around the site."
+          }
+        },
+        {
+          "name": {
+            "de": "MAPS",
+            "hu": "MAPS",
+            "ro": "MAPS",
+            "en": "MAPS"
+          },
+          "coords": [
+            10.790525,
+            42.890473
+          ],
+          "category": "museum",
+          "arrive_at": "14:21",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.65,
+          "tip_5lang": {
+            "de": "Entdecken Sie im faszinierenden MAPS-Museum das lokale Bergbauerbe und fragen Sie die freundlichen Führer nach den interaktiven Exponaten.",
+            "hu": "Fedezze fel a lenyűgöző MAPS múzeumban a helyi bányászati örökséget, és feltétlenül kérdezze meg a vezetőket az interaktív kiállításokról.",
+            "ro": "Explorați fascinantul muzeu MAPS pentru a descoperi patrimoniul minier local și asigurați-vă că întrebați ghizii despre exponatele interactive.",
+            "en": "Explore the fascinating MAPS museum to uncover the local mining heritage, and be sure to ask the guides about the interactive exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Il tasso scatenato",
+            "hu": "Il tasso scatenato",
+            "ro": "Il tasso scatenato",
+            "en": "Il tasso scatenato"
+          },
+          "coords": [
+            10.786487,
+            42.882836
+          ],
+          "category": "recreational",
+          "arrive_at": "16:03",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Erleben Sie ein aktives Abenteuer im Kletterpark Il Tasso Scatenato, um Ihre Fähigkeiten zu testen, und buchen Sie Ihren Gurt in der Hochsaison im Voraus.",
+            "hu": "Éljen át egy aktív kalandot az Il Tasso Scatenato kalandparkban, hogy próbára tegye mászótudását, és főszezonban jó előre foglalja le a beülőt.",
+            "ro": "Aveți o aventură activă la parcul Il Tasso Scatenato pentru a vă testa abilitățile de cățărare și rezervați-vă hamul cu mult timp înainte în sezonul de vârf.",
+            "en": "Have an active adventure at Il Tasso Scatenato adventure park to challenge your climbing skills, and book your climbing harness well in advance during peak season."
+          }
+        },
+        {
+          "name": {
+            "de": "Parco Nazionale Colline Metallifere",
+            "hu": "Parco Nazionale Colline Metallifere",
+            "ro": "Parco Nazionale Colline Metallifere",
+            "en": "Parco Nazionale Colline Metallifere"
+          },
+          "coords": [
+            10.777708,
+            42.87998
+          ],
+          "category": "natural",
+          "arrive_at": "17:20",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Wandern Sie durch die rauen Landschaften der metallhaltigen Hügel, um die Geologie der Toskana zu schätzen, und tragen Sie unbedingt feste Wanderschuhe.",
+            "hu": "Túrázzon a Fémtartalmú-dombság zord tájain, hogy megcsodálja Toszkána változatos geológiáját, és feltétlenül viseljen masszív túracipőt.",
+            "ro": "Faceți drumeții prin peisajele accidentate ale Dealurilor Metalifere pentru a aprecia geologia Toscanei, asigurându-vă că purtați încălțăminte de mers robustă.",
+            "en": "Hike through the rugged landscapes of the Metalliferous Hills to appreciate Tuscany's diverse geology, making sure to wear sturdy walking shoes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre malerische Fahrt und genießen Sie die Morgensonne am stilvollen Mamai Beach. Der Mittag bietet Wasserspaß im Parco Acquatico Splash, gefolgt von einem ruhigen Spaziergang entlang der Spiaggia Darsena. Entdecken Sie am Nachmittag die antiken Ruinen der römischen Villa und die Geschichte im MAPS-Museum. Lassen Sie den Tag mit Klettern im Il Tasso Scatenato und einem Spaziergang im Nationalpark ausklingen.",
+        "hu": "Kezdje autós utazását a reggeli napsütés élvezetével az elegáns Mamai Beachen. A dél vízi izgalmakat kínál a Parco Acquatico Splashben, amelyet egy békés séta követ a hajókkal teli Spiaggia Darsena mentén. Délután fedezze fel az ősi romokat a római villánál és a helyi történelmet a MAPS múzeumban. Zárja a napot mászással az Il Tasso Scatenatoban és egy békés sétával a Colline Metallifere Parkban.",
+        "ro": "Începeți plimbarea pitorească bucurându-vă de soarele dimineții la eleganta Mamai Beach. Amiaza oferă emoții acvatice la Parco Acquatico Splash, urmate de o plimbare liniștită de-a lungul Spiaggia Darsena. După-amiaza, descoperiți ruinele antice la Vila Romană și istoria locală la muzeul MAPS. Încheiați ziua cu cățărări la Il Tasso Scatenato și o plimbare pașnică în Parcul Național Colline Metallifere.",
+        "en": "Begin your scenic drive by soaking up the morning sun at the stylish Mamai Beach. Midday offers aquatic thrills at Parco Acquatico Splash followed by a peaceful stroll along the boat-filled Spiaggia Darsena. In the afternoon, discover ancient ruins at the Roman Villa and uncover local history at the MAPS museum. Cap off the day with some climbing at Il Tasso Scatenato and a peaceful walk in the Colline Metallifere Park."
+      }
+    }
+  }
+}

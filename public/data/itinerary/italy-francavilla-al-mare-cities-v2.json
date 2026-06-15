@@ -1,0 +1,543 @@
+{
+  "city_id": "italy-francavilla-al-mare-cities-v2",
+  "anchor": {
+    "name": "Francavilla al Mare",
+    "coords": [
+      14.29148,
+      42.4168
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:51",
+      "total_km": 0.96,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Croce Chiesa S. Lucia",
+            "hu": "Croce Chiesa S. Lucia",
+            "ro": "Croce Chiesa S. Lucia",
+            "en": "Croce Chiesa S. Lucia"
+          },
+          "coords": [
+            14.292701,
+            42.415189
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie das alte Steinkreuz dieser historischen Kirche, ein Symbol des lokalen Erbes, und bringen Sie eine Kamera für die schönen Details im Morgenlicht mit.",
+            "hu": "Csodálja meg a történelmi templom ősi kőkeresztjét, amely a helyi örökség szimbóluma, és hozzon magával fényképezőgépet a reggeli fényben pompázó részletekhez.",
+            "ro": "Admirați vechea cruce de piatră a acestei biserici istorice, un simbol al moștenirii locale, și aduceți un aparat foto pentru detaliile frumoase în lumina dimineții.",
+            "en": "Admire the ancient stone cross of this historic church, a symbol of local heritage, and bring a camera to capture the beautiful details shining in the soft morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Navale Masci",
+            "hu": "Museo Navale Masci",
+            "ro": "Museo Navale Masci",
+            "en": "Museo Navale Masci"
+          },
+          "coords": [
+            14.29104,
+            42.417191
+          ],
+          "category": "museum",
+          "arrive_at": "10:34",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende maritime Artefakte in diesem Marinemuseum, das die tiefe Verbindung der Stadt zum Meer zeigt, und nehmen Sie an einer Führung teil.",
+            "hu": "Fedezze fel a lenyűgöző tengerészeti leleteket ebben a múzeumban, amely a város tengerhez fűződő mély kapcsolatát mutatja be, és csatlakozzon egy idegenvezetéshez.",
+            "ro": "Descoperiți artefacte maritime fascinante în acest muzeu naval, care arată legătura profundă a orașului cu marea, și asigurați-vă că vă alăturați unui tur ghidat.",
+            "en": "Discover fascinating maritime artifacts in this naval museum that showcases the city's deep connection to the sea, and be sure to join a guided tour for deeper insights."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santa Maria Maggiore",
+            "hu": "Chiesa di Santa Maria Maggiore",
+            "ro": "Chiesa di Santa Maria Maggiore",
+            "en": "Chiesa di Santa Maria Maggiore"
+          },
+          "coords": [
+            14.290756,
+            42.418501
+          ],
+          "category": "religious",
+          "arrive_at": "12:17",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erleben Sie die spirituelle Atmosphäre dieser majestätischen Hauptkirche mit ihrer beeindruckenden Architektur, und kleiden Sie sich respektvoll für den Besuch im Inneren.",
+            "hu": "Tapasztalja meg ennek a fenséges főtemplomnak a spirituális légkörét és lenyűgöző építészetét, és mindenképpen öltözzön tisztelettudóan a belső tér látogatásához.",
+            "ro": "Experimentați atmosfera spirituală a acestei biserici maiestuoase cu arhitectura sa impresionantă și asigurați-vă că vă îmbrăcați respectuos pentru vizita interioară.",
+            "en": "Experience the spiritual atmosphere of this majestic main church with its impressive architecture, and be sure to dress respectfully to comfortably explore the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Michetti",
+            "hu": "Museo Michetti",
+            "ro": "Museo Michetti",
+            "en": "Museo Michetti"
+          },
+          "coords": [
+            14.292764,
+            42.4181
+          ],
+          "category": "museum",
+          "arrive_at": "13:00",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Meisterwerke des lokalen Künstlers Francesco Paolo Michetti in dieser eleganten Galerie, und kaufen Sie Ihr Ticket vorab, um Wartezeiten zu vermeiden.",
+            "hu": "Csodálja meg Francesco Paolo Michetti helyi művész remekműveit ebben az elegáns galériában, és vásárolja meg előre a jegyét, hogy elkerülje a hosszú várakozási időt.",
+            "ro": "Minunați-vă de capodoperele artistului local Francesco Paolo Michetti în această galerie elegantă și cumpărați-vă biletul în avans pentru a evita timpii lungi de așteptare.",
+            "en": "Marvel at the masterpieces of local artist Francesco Paolo Michetti in this elegant gallery, and purchase your ticket in advance to smoothly skip any waiting lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Elica",
+            "hu": "Elica",
+            "ro": "Elica",
+            "en": "Elica"
+          },
+          "coords": [
+            14.292637,
+            42.420539
+          ],
+          "category": "historical",
+          "arrive_at": "14:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Besichtigen Sie dieses markante Propeller-Denkmal, das eine wichtige historische Bedeutung für die Region hat, und lesen Sie die nahe gelegenen informativen Plaketten.",
+            "hu": "Tekintse meg ezt a feltűnő propeller-emlékművet, amely fontos történelmi jelentőséggel bír a régió számára, és szánjon időt a közeli tájékoztató táblák elolvasására.",
+            "ro": "Vizitați acest monument impresionant sub formă de elice, cu o importanță istorică majoră pentru regiune, și acordați-vă timp pentru a citi plăcile informative din apropiere.",
+            "en": "Visit this striking propeller monument, which holds important historical significance for the region, and take a moment to read the informative plaques located nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Serenella",
+            "hu": "Lido Serenella",
+            "ro": "Lido Serenella",
+            "en": "Lido Serenella"
+          },
+          "coords": [
+            14.291493,
+            42.421026
+          ],
+          "category": "recreational",
+          "arrive_at": "16:06",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem gepflegten Strandabschnitt mit goldenem Sand, ideal für einen späten Nachmittag, und mieten Sie einen Liegestuhl für maximalen Komfort.",
+            "hu": "Pihenjen ezen a jól karbantartott, aranyszínű homokos strandon, amely ideális a késő délutáni órákban, és béreljen napozóágyat a maximális kényelem és kikapcsolódás érdekében.",
+            "ro": "Relaxați-vă pe această plajă bine întreținută, cu nisip auriu, ideală pentru o după-amiază târzie, și închiriați un șezlong pentru confort și relaxare maximă pe mal.",
+            "en": "Relax on this well-maintained stretch of beach with golden sand, ideal for a late afternoon rest, and rent a sun lounger to ensure maximum comfort by the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen im historischen Herzen von Francavilla al Mare, wo Sie die Croce Chiesa S. Lucia und das Marinemuseum entdecken. Mittags besuchen Sie die majestätische Chiesa di Santa Maria Maggiore und die Kunstwerke im Museo Michetti. Verbringen Sie den Nachmittag damit, das beeindruckende Elica-Denkmal zu bewundern. Lassen Sie den Tag am Strand von Lido Serenella ausklingen.",
+        "hu": "Kezdje a reggelt Francavilla al Mare történelmi szívében, fedezze fel a Croce Chiesa S. Luciát és a Tengerészeti Múzeumot. Délben látogasson el a fenséges Santa Maria Maggiore templomba és a Museo Michetti művészeti csodáihoz. A délutánt az Elica emlékmű megcsodálásával töltheti. A napot a Lido Serenella finom hullámai mellett pihenve zárhatja.",
+        "ro": "Începeți dimineața explorând inima istorică a orașului Francavilla al Mare, descoperind Croce Chiesa S. Lucia și Muzeul Naval. La prânz, vizitați biserica Santa Maria Maggiore și minunile artistice de la Museo Michetti. Petreceți după-amiaza admirând impresionantul monument Elica. Încheiați ziua relaxându-vă la valurile blânde de la Lido Serenella.",
+        "en": "Start your morning exploring the historic heart of Francavilla al Mare, discovering the ancient Croce Chiesa S. Lucia and the maritime heritage at the Naval Museum. Midday brings you to the majestic Chiesa di Santa Maria Maggiore and the artistic wonders of Museo Michetti. Spend your afternoon admiring the striking Elica monument. Conclude your day relaxing by the gentle waves at Lido Serenella."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:55",
+      "total_km": 3.62,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Belvedere Settiventi",
+            "hu": "Belvedere Settiventi",
+            "ro": "Belvedere Settiventi",
+            "en": "Belvedere Settiventi"
+          },
+          "coords": [
+            14.306573,
+            42.406198
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf die Küste von diesem natürlichen Aussichtspunkt, und bringen Sie ein Fernglas mit, um die Schiffe am Horizont zu sehen.",
+            "hu": "Élvezze a lélegzetelállító panorámát a tengerpartra erről a természetes kilátópontról, és hozzon magával távcsövet, hogy megfigyelhesse a horizonton lévő hajókat.",
+            "ro": "Bucurați-vă de vederea panoramică uluitoare a coastei de la acest punct de belvedere natural și aduceți binoclu pentru a observa navele de pe orizontul mării.",
+            "en": "Enjoy the breathtaking panoramic view of the coastline from this natural viewpoint, and bring a pair of binoculars to easily spot the ships passing on the horizon."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Michetti",
+            "hu": "Museo Michetti",
+            "ro": "Museo Michetti",
+            "en": "Museo Michetti"
+          },
+          "coords": [
+            14.292764,
+            42.4181
+          ],
+          "category": "museum",
+          "arrive_at": "09:44",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.73,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Meisterwerke des lokalen Künstlers Francesco Paolo Michetti in dieser eleganten Galerie, und kaufen Sie Ihr Ticket vorab, um Wartezeiten zu vermeiden.",
+            "hu": "Csodálja meg Francesco Paolo Michetti helyi művész remekműveit ebben az elegáns galériában, és vásárolja meg előre a jegyét, hogy elkerülje a hosszú várakozási időt.",
+            "ro": "Minunați-vă de capodoperele artistului local Francesco Paolo Michetti în această galerie elegantă și cumpărați-vă biletul în avans pentru a evita timpii lungi de așteptare.",
+            "en": "Marvel at the masterpieces of local artist Francesco Paolo Michetti in this elegant gallery, and purchase your ticket in advance to smoothly skip any waiting lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Chiesa di Santa Maria Maggiore",
+            "hu": "Chiesa di Santa Maria Maggiore",
+            "ro": "Chiesa di Santa Maria Maggiore",
+            "en": "Chiesa di Santa Maria Maggiore"
+          },
+          "coords": [
+            14.290756,
+            42.418501
+          ],
+          "category": "religious",
+          "arrive_at": "11:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Erleben Sie die spirituelle Atmosphäre dieser majestätischen Hauptkirche mit ihrer beeindruckenden Architektur, und kleiden Sie sich respektvoll für den Besuch im Inneren.",
+            "hu": "Tapasztalja meg ennek a fenséges főtemplomnak a spirituális légkörét és lenyűgöző építészetét, és mindenképpen öltözzön tisztelettudóan a belső tér látogatásához.",
+            "ro": "Experimentați atmosfera spirituală a acestei biserici maiestuoase cu arhitectura sa impresionantă și asigurați-vă că vă îmbrăcați respectuos pentru vizita interioară.",
+            "en": "Experience the spiritual atmosphere of this majestic main church with its impressive architecture, and be sure to dress respectfully to comfortably explore the interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Elica",
+            "hu": "Elica",
+            "ro": "Elica",
+            "en": "Elica"
+          },
+          "coords": [
+            14.292637,
+            42.420539
+          ],
+          "category": "historical",
+          "arrive_at": "12:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.27,
+          "tip_5lang": {
+            "de": "Besichtigen Sie dieses markante Propeller-Denkmal, das eine wichtige historische Bedeutung für die Region hat, und lesen Sie die nahe gelegenen informativen Plaketten.",
+            "hu": "Tekintse meg ezt a feltűnő propeller-emlékművet, amely fontos történelmi jelentőséggel bír a régió számára, és szánjon időt a közeli tájékoztató táblák elolvasására.",
+            "ro": "Vizitați acest monument impresionant sub formă de elice, cu o importanță istorică majoră pentru regiune, și acordați-vă timp pentru a citi plăcile informative din apropiere.",
+            "en": "Visit this striking propeller monument, which holds important historical significance for the region, and take a moment to read the informative plaques located nearby."
+          }
+        },
+        {
+          "name": {
+            "de": "Ai Caduti del Mare",
+            "hu": "Ai Caduti del Mare",
+            "ro": "Ai Caduti del Mare",
+            "en": "Ai Caduti del Mare"
+          },
+          "coords": [
+            14.289017,
+            42.422522
+          ],
+          "category": "historical",
+          "arrive_at": "13:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.37,
+          "tip_5lang": {
+            "de": "Ehren Sie die Gefallenen der See an diesem feierlichen und berührenden Denkmal in der Nähe des Wassers, und besuchen Sie es am besten bei einem ruhigen Spaziergang.",
+            "hu": "Tisztelgés a tenger áldozatai előtt ennél az ünnepélyes és megható emlékműnél, amely a víz közelében található, és a legjobb egy csendes délutáni séta keretében felkeresni.",
+            "ro": "Onorați eroii mării la acest monument solemn și emoționant situat aproape de apă și vizitați-l cel mai bine în timpul unei scurte și liniștite plimbări de după-amiază.",
+            "en": "Pay your respects to the fallen of the sea at this solemn and touching monument near the water, ideally visited during a quiet stroll to fully appreciate the peaceful setting."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Sirenetta",
+            "hu": "Lido Sirenetta",
+            "ro": "Lido Sirenetta",
+            "en": "Lido Sirenetta"
+          },
+          "coords": [
+            14.281369,
+            42.427586
+          ],
+          "category": "recreational",
+          "arrive_at": "14:54",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.84,
+          "tip_5lang": {
+            "de": "Verbringen Sie entspannte Stunden an diesem lebhaften Strand mit tollen Annehmlichkeiten, und probieren Sie unbedingt ein Gelato in einem der nahegelegenen Kioske.",
+            "hu": "Töltsön el néhány pihentető órát ezen a nyüzsgő, nagyszerű kényelmi szolgáltatásokat nyújtó strandon, és mindenképpen kóstoljon meg egy finom fagylaltot a közeli kioszkokban.",
+            "ro": "Petreceți ore relaxante pe această plajă plină de viață, cu facilități excelente, și asigurați-vă că savurați un gelato delicios la unul dintre chioșcurile din apropiere.",
+            "en": "Spend a few relaxing hours at this lively beach area equipped with great amenities, and make sure to try a delicious local gelato from one of the nearby kiosks."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Luna Rossa",
+            "hu": "Lido Luna Rossa",
+            "ro": "Lido Luna Rossa",
+            "en": "Lido Luna Rossa"
+          },
+          "coords": [
+            14.279128,
+            42.42899
+          ],
+          "category": "recreational",
+          "arrive_at": "16:10",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.24,
+          "tip_5lang": {
+            "de": "Lassen Sie den Tag an diesem fantastischen Strandclub mit entspannter Atmosphäre ausklingen, und reservieren Sie einen Tisch für einen abendlichen Aperitif am Meer.",
+            "hu": "Zárja a napot ebben a fantasztikus strandklubban, amely nyugodt légkörrel várja, és foglaljon asztalt egy esti aperitifre, miközben a tenger hullámait hallgatja.",
+            "ro": "Încheiați-vă ziua la acest club de plajă fantastic, cu o atmosferă relaxată, și rezervați o masă pentru un aperitiv de seară, ascultând valurile liniștitoare ale mării.",
+            "en": "Conclude your day at this fantastic beach club known for its relaxed atmosphere, and book a table for an evening aperitif while listening to the soothing sound of the waves."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour mit atemberaubenden Ausblicken vom Belvedere Settiventi, bevor Sie zum Museo Michetti radeln. Mittags besuchen Sie die wunderschöne Chiesa di Santa Maria Maggiore und das Elica-Denkmal. Am Nachmittag radeln Sie zum berührenden Ai Caduti del Mare. Beenden Sie Ihren aktiven Tag am Strand und genießen Sie die lebhafte Atmosphäre im Lido Luna Rossa.",
+        "hu": "Kezdje kerékpártúráját a Belvedere Settiventi lélegzetelállító kilátásával, mielőtt a Museo Michetti felé tekerne. A délidő tökéletes a Santa Maria Maggiore templom és az Elica emlékmű meglátogatására. Délután pedálozzon a megható Ai Caduti del Mare felé. Fejezze be aktív napját a strandon, élvezve a nyüzsgő hangulatot a Lido Luna Rossánál.",
+        "ro": "Începeți turul cu bicicleta cu vederi uluitoare de la Belvedere Settiventi înainte de a merge la Museo Michetti. Prânzul este perfect pentru a vizita frumoasa biserică Santa Maria Maggiore și monumentul Elica. După-amiaza, pedalați spre emoționantul Ai Caduti del Mare. Terminați-vă ziua activă pe plajă, bucurându-vă de atmosfera plină de viață de la Lido Luna Rossa.",
+        "en": "Kick off your cycling tour with breathtaking views from Belvedere Settiventi before riding to the artistic Museo Michetti. Midday is perfect for visiting the beautiful Chiesa di Santa Maria Maggiore and the Elica monument. In the afternoon, pedal towards the touching Ai Caduti del Mare to honor maritime heroes. Finish your active day at the beach, enjoying the lively atmosphere at Lido Luna Rossa."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "20:01",
+      "total_km": 4.15,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Belvedere Settiventi",
+            "hu": "Belvedere Settiventi",
+            "ro": "Belvedere Settiventi",
+            "en": "Belvedere Settiventi"
+          },
+          "coords": [
+            14.306573,
+            42.406198
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie den atemberaubenden Panoramablick auf die Küste von diesem natürlichen Aussichtspunkt, und bringen Sie ein Fernglas mit, um die Schiffe am Horizont zu sehen.",
+            "hu": "Élvezze a lélegzetelállító panorámát a tengerpartra erről a természetes kilátópontról, és hozzon magával távcsövet, hogy megfigyelhesse a horizonton lévő hajókat.",
+            "ro": "Bucurați-vă de vederea panoramică uluitoare a coastei de la acest punct de belvedere natural și aduceți binoclu pentru a observa navele de pe orizontul mării.",
+            "en": "Enjoy the breathtaking panoramic view of the coastline from this natural viewpoint, and bring a pair of binoculars to easily spot the ships passing on the horizon."
+          }
+        },
+        {
+          "name": {
+            "de": "Croce Chiesa S. Lucia",
+            "hu": "Croce Chiesa S. Lucia",
+            "ro": "Croce Chiesa S. Lucia",
+            "en": "Croce Chiesa S. Lucia"
+          },
+          "coords": [
+            14.292701,
+            42.415189
+          ],
+          "category": "historical",
+          "arrive_at": "09:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.51,
+          "tip_5lang": {
+            "de": "Bewundern Sie das alte Steinkreuz dieser historischen Kirche, ein Symbol des lokalen Erbes, und bringen Sie eine Kamera für die schönen Details im Morgenlicht mit.",
+            "hu": "Csodálja meg a történelmi templom ősi kőkeresztjét, amely a helyi örökség szimbóluma, és hozzon magával fényképezőgépet a reggeli fényben pompázó részletekhez.",
+            "ro": "Admirați vechea cruce de piatră a acestei biserici istorice, un simbol al moștenirii locale, și aduceți un aparat foto pentru detaliile frumoase în lumina dimineții.",
+            "en": "Admire the ancient stone cross of this historic church, a symbol of local heritage, and bring a camera to capture the beautiful details shining in the soft morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Navale Masci",
+            "hu": "Museo Navale Masci",
+            "ro": "Museo Navale Masci",
+            "en": "Museo Navale Masci"
+          },
+          "coords": [
+            14.29104,
+            42.417191
+          ],
+          "category": "museum",
+          "arrive_at": "10:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Entdecken Sie faszinierende maritime Artefakte in diesem Marinemuseum, das die tiefe Verbindung der Stadt zum Meer zeigt, und nehmen Sie an einer Führung teil.",
+            "hu": "Fedezze fel a lenyűgöző tengerészeti leleteket ebben a múzeumban, amely a város tengerhez fűződő mély kapcsolatát mutatja be, és csatlakozzon egy idegenvezetéshez.",
+            "ro": "Descoperiți artefacte maritime fascinante în acest muzeu naval, care arată legătura profundă a orașului cu marea, și asigurați-vă că vă alăturați unui tur ghidat.",
+            "en": "Discover fascinating maritime artifacts in this naval museum that showcases the city's deep connection to the sea, and be sure to join a guided tour for deeper insights."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Michetti",
+            "hu": "Museo Michetti",
+            "ro": "Museo Michetti",
+            "en": "Museo Michetti"
+          },
+          "coords": [
+            14.292764,
+            42.4181
+          ],
+          "category": "museum",
+          "arrive_at": "12:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Meisterwerke des lokalen Künstlers Francesco Paolo Michetti in dieser eleganten Galerie, und kaufen Sie Ihr Ticket vorab, um Wartezeiten zu vermeiden.",
+            "hu": "Csodálja meg Francesco Paolo Michetti helyi művész remekműveit ebben az elegáns galériában, és vásárolja meg előre a jegyét, hogy elkerülje a hosszú várakozási időt.",
+            "ro": "Minunați-vă de capodoperele artistului local Francesco Paolo Michetti în această galerie elegantă și cumpărați-vă biletul în avans pentru a evita timpii lungi de așteptare.",
+            "en": "Marvel at the masterpieces of local artist Francesco Paolo Michetti in this elegant gallery, and purchase your ticket in advance to smoothly skip any waiting lines."
+          }
+        },
+        {
+          "name": {
+            "de": "Ai Caduti del Mare",
+            "hu": "Ai Caduti del Mare",
+            "ro": "Ai Caduti del Mare",
+            "en": "Ai Caduti del Mare"
+          },
+          "coords": [
+            14.289017,
+            42.422522
+          ],
+          "category": "historical",
+          "arrive_at": "14:21",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.58,
+          "tip_5lang": {
+            "de": "Ehren Sie die Gefallenen der See an diesem feierlichen und berührenden Denkmal in der Nähe des Wassers, und besuchen Sie es am besten bei einem ruhigen Spaziergang.",
+            "hu": "Tisztelgés a tenger áldozatai előtt ennél az ünnepélyes és megható emlékműnél, amely a víz közelében található, és a legjobb egy csendes délutáni séta keretében felkeresni.",
+            "ro": "Onorați eroii mării la acest monument solemn și emoționant situat aproape de apă și vizitați-l cel mai bine în timpul unei scurte și liniștite plimbări de după-amiază.",
+            "en": "Pay your respects to the fallen of the sea at this solemn and touching monument near the water, ideally visited during a quiet stroll to fully appreciate the peaceful setting."
+          }
+        },
+        {
+          "name": {
+            "de": "Lido Asteria",
+            "hu": "Lido Asteria",
+            "ro": "Lido Asteria",
+            "en": "Lido Asteria"
+          },
+          "coords": [
+            14.277887,
+            42.429572
+          ],
+          "category": "recreational",
+          "arrive_at": "15:44",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in das erfrischende Wasser an diesem beliebten Strandabschnitt der Einheimischen, und nutzen Sie die sauberen Duschkabinen nach dem Schwimmen.",
+            "hu": "Merüljön el a frissítő vízben ezen a helyiek által kedvelt, népszerű strandszakaszon, és úszás után bátran használja a tiszta és jól karbantartott zuhanykabinokat.",
+            "ro": "Scufundați-vă în apa revigorantă de la această plajă populară printre localnici și profitați de cabinele de duș curate și bine întreținute după sesiunea de înot.",
+            "en": "Dive into the refreshing water at this popular beach stretch favored by locals, and make use of the clean and well-maintained shower cabins right after your swim."
+          }
+        },
+        {
+          "name": {
+            "de": "Phi Park Hotel Alcione",
+            "hu": "Phi Park Hotel Alcione",
+            "ro": "Phi Park Hotel Alcione",
+            "en": "Phi Park Hotel Alcione"
+          },
+          "coords": [
+            14.275299,
+            42.430872
+          ],
+          "category": "recreational",
+          "arrive_at": "17:00",
+          "stay_min": 75,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Genießen Sie die luxuriöse Freizeitumgebung rund um dieses bekannte Hotel, wo wunderschöne Pools zum Entspannen einladen, und buchen Sie eine Tageskarte für den Spa.",
+            "hu": "Élvezze a fényűző szabadidős környezetet e jól ismert szálloda körül, ahol gyönyörű medencék csábítanak pihenésre, és váltson napijegyet a helyi wellness-részlegbe.",
+            "ro": "Bucurați-vă de mediul de agrement luxos din jurul acestui hotel renumit, unde piscinele frumoase vă invită la relaxare, și cumpărați un bilet de o zi pentru spa.",
+            "en": "Enjoy the luxurious recreational environment around this well-known hotel, where beautiful pools invite you to relax, and purchase a day pass to access the premium spa facilities."
+          }
+        },
+        {
+          "name": {
+            "de": "La Murena",
+            "hu": "La Murena",
+            "ro": "La Murena",
+            "en": "La Murena"
+          },
+          "coords": [
+            14.273572,
+            42.431861
+          ],
+          "category": "recreational",
+          "arrive_at": "18:16",
+          "stay_min": 105,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.18,
+          "tip_5lang": {
+            "de": "Spüren Sie die lebhafte Küstenstimmung in diesem hervorragenden Freizeit- und Strandbereich, und kommen Sie früh am Abend an, um die besten Plätze für den Sonnenuntergang zu ergattern.",
+            "hu": "Érezze a tengerpart élénk hangulatát ezen a kiváló szabadidős és strandterületen, és érkezzen kora este, hogy biztosítsa a legjobb helyeket a naplemente megtekintéséhez.",
+            "ro": "Simțiți atmosfera plină de viață a coastei în această zonă excelentă de agrement și plajă, și ajungeți devreme seara pentru a prinde cele mai bune locuri la apusul soarelui.",
+            "en": "Feel the lively coastal vibe at this excellent recreational and beach area, and make sure to arrive early in the evening to secure the best spots for watching the sunset."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt beim panoramischen Belvedere Settiventi und fahren Sie dann zur historischen Croce Chiesa S. Lucia und zum Marinemuseum. Tauchen Sie mittags im Museo Michetti in die Kunst ein und besuchen Sie das Denkmal Ai Caduti del Mare. Am Nachmittag cruisen Sie an der Küste entlang zum Lido Asteria und Phi Park Hotel. Genießen Sie abends die Stimmung im La Murena.",
+        "hu": "Kezdje az autózást a panorámás Belvedere Settiventinél, majd fedezze fel a történelmi Croce Chiesa S. Luciát és a Tengerészeti Múzeumot. Délben merüljön el a művészetben a Museo Michettiben, és tisztelegjen az Ai Caduti del Mare emlékműnél. Délután hajtson végig a tengerparton, és pihenjen a Lido Asteriában. Estefelé élvezze a La Murena pezsgő hangulatát.",
+        "ro": "Începeți călătoria cu panoramicul Belvedere Settiventi, apoi descoperiți istorica Croce Chiesa S. Lucia și Muzeul Naval. La prânz, cufundați-vă în artă la Museo Michetti și vizitați monumentul Ai Caduti del Mare. După-amiaza, conduceți de-a lungul coastei pentru a vă relaxa la Lido Asteria și la Hotelul Phi Park. Spre seară, bucurați-vă de atmosfera vibrantă de la La Murena.",
+        "en": "Begin your drive with the panoramic Belvedere Settiventi, then head down to discover the historic Croce Chiesa S. Lucia and Naval Museum. By midday, immerse yourself in art at Museo Michetti and pay respects at the Ai Caduti del Mare monument. In the afternoon, cruise along the coast to relax at Lido Asteria and Phi Park Hotel. As evening sets in, enjoy the vibrant sunset vibe at La Murena."
+      }
+    }
+  }
+}

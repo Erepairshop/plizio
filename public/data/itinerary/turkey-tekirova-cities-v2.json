@@ -1,0 +1,474 @@
+{
+  "city_id": "turkey-tekirova-cities-v2",
+  "anchor": {
+    "name": "Tekirova",
+    "coords": [
+      30.52615,
+      36.49962
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:13",
+      "total_km": 6.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Amphitheater",
+            "hu": "Amfiteátrum",
+            "ro": "Amfiteatru",
+            "en": "Amphitheatre"
+          },
+          "coords": [
+            30.527041,
+            36.501712
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie den antiken Charme dieses Amphitheaters, wo sich historische Echos mit der Küste vereinen, und kommen Sie früh, um die besten Fotomotive ohne Menschenmassen zu finden.",
+            "hu": "Fedezze fel ezen amfiteátrum ókori varázsát, ahol a történelmi visszhangok tengerparti kilátással párosulnak, és érkezzen korán, hogy tömeg nélkül készíthessen remek fotókat.",
+            "ro": "Descoperiți farmecul antic al acestui amfiteatru unde ecourile istorice întâlnesc priveliștea coastei și ajungeți devreme pentru a prinde cel mai bun unghi fotografic fără aglomerație.",
+            "en": "Discover the ancient charm of this amphitheatre where historical echoes meet scenic coastal views, and arrive early to secure a good photo spot before the crowds gather."
+          }
+        },
+        {
+          "name": {
+            "de": "Konzertbereich im Freien",
+            "hu": "Szabadtéri koncertkert",
+            "ro": "Grădina deschisă pentru concerte",
+            "en": "Open garden concert area"
+          },
+          "coords": [
+            30.523332,
+            36.486231
+          ],
+          "category": "cultural",
+          "arrive_at": "10:37",
+          "stay_min": 60,
+          "hop_from_prev_min": 27,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre dieses offenen Gartens, der regelmäßig lokale Kulturveranstaltungen beherbergt, und prüfen Sie den Zeitplan für abendliche Live-Auftritte.",
+            "hu": "Élvezze a nyitott kert vibráló hangulatát, amely rendszeresen ad otthont helyi kulturális eseményeknek, és érdemes előre ellenőrizni a programot egy esti élő előadásért.",
+            "ro": "Bucurați-vă de atmosfera vibrantă a acestei grădini deschise care găzduiește constant evenimente culturale locale și verificați programul în avans pentru a prinde un spectacol live.",
+            "en": "Enjoy the vibrant atmosphere of this open garden space which regularly hosts local cultural events, and check the schedule beforehand to catch a live evening performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Tierpark",
+            "hu": "Állatkert",
+            "ro": "Parcul Zoologic",
+            "en": "Zoo Park"
+          },
+          "coords": [
+            30.518622,
+            36.483532
+          ],
+          "category": "recreational",
+          "arrive_at": "11:45",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen familienfreundlichen Tierpark, der eine friedliche grüne Oase bietet, und bringen Sie unbedingt Wasser mit, da schattige Ruheplätze nachmittags selten sind.",
+            "hu": "Sétáljon végig ezen a családbarát állatkerten, amely békés zöld menedéket kínál, és hozzon magával vizet, mivel a délutáni órákban az árnyékos pihenőhelyek ritkábbak lehetnek.",
+            "ro": "Plimbați-vă prin acest parc zoologic ideal pentru familii, care oferă o evadare verde liniștită, și aduceți o sticlă de apă deoarece locurile umbrite sunt destul de rare după-amiaza.",
+            "en": "Stroll through this family-friendly zoo park that offers a peaceful green escape with various animals, and bring a bottle of water as shaded resting spots can be sparse in the afternoon."
+          }
+        },
+        {
+          "name": {
+            "de": "Kleopatra-Strand",
+            "hu": "Kleopátra-strand",
+            "ro": "Plaja Kleopatra",
+            "en": "Kleopatra Beach"
+          },
+          "coords": [
+            30.517318,
+            36.479955
+          ],
+          "category": "recreational",
+          "arrive_at": "13:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sand des Kleopatra-Strandes, wo kristallklares Wasser zum Schwimmen einlädt, und packen Sie Badeschuhe ein, um das kieselige Ufer bequem zu meistern.",
+            "hu": "Pihenjen a Kleopátra-strand aranyló homokján, ahol a kristálytiszta víz frissítő úszásra csábít, és vigyen magával vizicipőt a kavicsos partszakasz kényelmesebb felfedezéséhez.",
+            "ro": "Relaxați-vă pe nisipul auriu al plajei Kleopatra, unde apele cristaline vă invită la o baie răcoritoare, și luați-vă încălțăminte de apă pentru a naviga confortabil țărmul cu pietriș.",
+            "en": "Relax on the golden sands of Kleopatra Beach where crystal-clear waters invite you for a refreshing swim, and pack a pair of water shoes to comfortably navigate the pebbly shoreline."
+          }
+        },
+        {
+          "name": {
+            "de": "Antike Ruinen",
+            "hu": "Ókori romok",
+            "ro": "Ruine antice",
+            "en": "Ruins"
+          },
+          "coords": [
+            30.516713,
+            36.517068
+          ],
+          "category": "historical",
+          "arrive_at": "15:23",
+          "stay_min": 110,
+          "hop_from_prev_min": 62,
+          "hop_from_prev_km": 4.1,
+          "tip_5lang": {
+            "de": "Wandern Sie durch diese faszinierenden antiken Ruinen, die die Geschichte des lykischen Erbes erzählen, und tragen Sie feste Schuhe, da das Gelände uneben und steinig ist.",
+            "hu": "Barangoljon a lenyűgöző ókori romok között, amelyek a régió gazdag lükiai örökségéről mesélnek, és viseljen masszív túracipőt az egyenetlen és köves terep miatt.",
+            "ro": "Plimbați-vă printre aceste fascinante ruine antice care spun povestea moștenirii liciene a regiunii și purtați încălțăminte rezistentă, deoarece terenul este accidentat și pietros.",
+            "en": "Wander among these fascinating ancient ruins that tell the story of the region's rich Lycian heritage, and wear sturdy walking shoes as the terrain is uneven and scattered with loose stones."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Morgen am antiken Amphitheater und genießen Sie die ruhige Küstenatmosphäre. Mittags schlendern Sie entspannt durch den offenen Gartenbereich und den lokalen Tierpark. Der Nachmittag lädt Sie an den unberührten Sand des Kleopatra-Strandes zum Schwimmen ein. Beenden Sie Ihren Tag mit einer Wanderung zu den faszinierenden antiken Ruinen, während die Sonne untergeht.",
+        "hu": "Kezdje a reggelt az ókori amfiteátrumban, magába szívva a békés tengerparti hangulatot. Délben tegyen egy pihentető sétát a nyitott koncertkertben és a helyi állatkertben. A délután a Kleopátra-strand érintetlen homokjára hívogat egy frissítő úszásra. Zárja a napot a lenyűgöző ókori romok felfedezésével, miközben a nap lassan lebukik a Földközi-tenger horizontján.",
+        "ro": "Începeți dimineața explorând vechiul amfiteatru, bucurându-vă de atmosfera senină a coastei. La amiază, faceți o plimbare relaxantă prin zona grădinii deschise și parcul zoologic local. După-amiaza vă invită pe nisipurile imaculate ale plajei Kleopatra pentru o baie răcoritoare. Încheiați ziua urcând spre ruinele antice fascinante, în timp ce soarele apune peste Marea Mediterană.",
+        "en": "Start your morning exploring the ancient Amphitheatre, soaking in the serene coastal atmosphere. By midday, make your way to the open garden area and the local zoo for a relaxing stroll. The afternoon invites you to the pristine sands of Kleopatra Beach for a refreshing swim. Conclude your day hiking up to the fascinating ancient ruins as the sun begins to set over the Mediterranean."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:28",
+      "total_km": 8.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Amphitheater",
+            "hu": "Amfiteátrum",
+            "ro": "Amfiteatru",
+            "en": "Amphitheatre"
+          },
+          "coords": [
+            30.527041,
+            36.501712
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie den antiken Charme dieses Amphitheaters, wo sich historische Echos mit der Küste vereinen, und kommen Sie früh, um die besten Fotomotive ohne Menschenmassen zu finden.",
+            "hu": "Fedezze fel ezen amfiteátrum ókori varázsát, ahol a történelmi visszhangok tengerparti kilátással párosulnak, és érkezzen korán, hogy tömeg nélkül készíthessen remek fotókat.",
+            "ro": "Descoperiți farmecul antic al acestui amfiteatru unde ecourile istorice întâlnesc priveliștea coastei și ajungeți devreme pentru a prinde cel mai bun unghi fotografic fără aglomerație.",
+            "en": "Discover the ancient charm of this amphitheatre where historical echoes meet scenic coastal views, and arrive early to secure a good photo spot before the crowds gather."
+          }
+        },
+        {
+          "name": {
+            "de": "Rixy-Amphitheater",
+            "hu": "Rixy Amfiteátrum",
+            "ro": "Amfiteatrul Rixy",
+            "en": "Rixy Amphitheatre"
+          },
+          "coords": [
+            30.536218,
+            36.51007
+          ],
+          "category": "cultural",
+          "arrive_at": "10:17",
+          "stay_min": 60,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Unterhaltung im Rixy-Amphitheater, das für Familienshows konzipiert ist, und kommen Sie ein paar Minuten vor Beginn, um sich einen bequemen Platz zu sichern.",
+            "hu": "Tapasztalja meg a pezsgő szórakozást a főleg családi műsorokra tervezett Rixy amfiteátrumban, és érkezzen néhány perccel a kezdés előtt, hogy kényelmes ülőhelyet találjon.",
+            "ro": "Experimentați divertismentul plin de viață la Amfiteatrul Rixy creat în principal pentru spectacole de familie și ajungeți cu câteva minute mai devreme pentru a vă asigura un loc confortabil.",
+            "en": "Experience the lively entertainment at the Rixy Amphitheatre designed mainly for family shows, and arrive a few minutes before the designated start time to secure a comfortable seat."
+          }
+        },
+        {
+          "name": {
+            "de": "Antike Ruinen",
+            "hu": "Ókori romok",
+            "ro": "Ruine antice",
+            "en": "Ruins"
+          },
+          "coords": [
+            30.516713,
+            36.517068
+          ],
+          "category": "historical",
+          "arrive_at": "11:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Wandern Sie durch diese faszinierenden antiken Ruinen, die die Geschichte des lykischen Erbes erzählen, und tragen Sie feste Schuhe, da das Gelände uneben und steinig ist.",
+            "hu": "Barangoljon a lenyűgöző ókori romok között, amelyek a régió gazdag lükiai örökségéről mesélnek, és viseljen masszív túracipőt az egyenetlen és köves terep miatt.",
+            "ro": "Plimbați-vă printre aceste fascinante ruine antice care spun povestea moștenirii liciene a regiunii și purtați încălțăminte rezistentă, deoarece terenul este accidentat și pietros.",
+            "en": "Wander among these fascinating ancient ruins that tell the story of the region's rich Lycian heritage, and wear sturdy walking shoes as the terrain is uneven and scattered with loose stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Takhtaly",
+            "hu": "Takhtaly kilátópont",
+            "ro": "Punct de belvedere Takhtaly",
+            "en": "View of Tahtali and the road"
+          },
+          "coords": [
+            30.499739,
+            36.503372
+          ],
+          "category": "natural",
+          "arrive_at": "12:58",
+          "stay_min": 25,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den atemberaubenden Panoramablick auf den Berg Tahtali sowie die Passstraße, und bringen Sie ein Fernglas mit, um die dramatische Berglandschaft im Detail zu sehen.",
+            "hu": "Csodálja meg a Tahtali-hegyre és a kanyargós hegyi útra nyíló lélegzetelállító panorámát, és vigyen magával távcsövet a drámai magasságú táj részletesebb felfedezéséhez.",
+            "ro": "Minunați-vă de priveliștea panoramică uluitoare a Muntelui Tahtali și a drumului șerpuit, și aduceți un binoclu pentru a aprecia pe deplin peisajul dramatic și înălțimile impresionante.",
+            "en": "Marvel at the breathtaking panoramic view of Mount Tahtali and the winding mountain road, and bring a zoom lens or binoculars to fully appreciate the dramatic elevated landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Konzertbereich im Freien",
+            "hu": "Szabadtéri koncertkert",
+            "ro": "Grădina deschisă pentru concerte",
+            "en": "Open garden concert area"
+          },
+          "coords": [
+            30.523332,
+            36.486231
+          ],
+          "category": "cultural",
+          "arrive_at": "13:38",
+          "stay_min": 60,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre dieses offenen Gartens, der regelmäßig lokale Kulturveranstaltungen beherbergt, und prüfen Sie den Zeitplan für abendliche Live-Auftritte.",
+            "hu": "Élvezze a nyitott kert vibráló hangulatát, amely rendszeresen ad otthont helyi kulturális eseményeknek, és érdemes előre ellenőrizni a programot egy esti élő előadásért.",
+            "ro": "Bucurați-vă de atmosfera vibrantă a acestei grădini deschise care găzduiește constant evenimente culturale locale și verificați programul în avans pentru a prinde un spectacol live.",
+            "en": "Enjoy the vibrant atmosphere of this open garden space which regularly hosts local cultural events, and check the schedule beforehand to catch a live evening performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kleopatra-Strand",
+            "hu": "Kleopátra-strand",
+            "ro": "Plaja Kleopatra",
+            "en": "Kleopatra Beach"
+          },
+          "coords": [
+            30.517318,
+            36.479955
+          ],
+          "category": "recreational",
+          "arrive_at": "14:43",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sand des Kleopatra-Strandes, wo kristallklares Wasser zum Schwimmen einlädt, und packen Sie Badeschuhe ein, um das kieselige Ufer bequem zu meistern.",
+            "hu": "Pihenjen a Kleopátra-strand aranyló homokján, ahol a kristálytiszta víz frissítő úszásra csábít, és vigyen magával vizicipőt a kavicsos partszakasz kényelmesebb felfedezéséhez.",
+            "ro": "Relaxați-vă pe nisipul auriu al plajei Kleopatra, unde apele cristaline vă invită la o baie răcoritoare, și luați-vă încălțăminte de apă pentru a naviga confortabil țărmul cu pietriș.",
+            "en": "Relax on the golden sands of Kleopatra Beach where crystal-clear waters invite you for a refreshing swim, and pack a pair of water shoes to comfortably navigate the pebbly shoreline."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour am zentralen Amphitheater, bevor Sie zum Rixy-Unterhaltungskomplex aufbrechen. Gegen Mittag radeln Sie zu den antiken Ruinen, um die Geschichte zu entdecken. Nachdem Sie den Bergblick vom Takhtaly-Aussichtspunkt genossen haben, rollen Sie zum offenen Garten hinab. Beenden Sie Ihren aktiven Tag entspannt am atemberaubenden Kleopatra-Strand.",
+        "hu": "Indítsa kerékpáros túráját a központi amfiteátrumtól, mielőtt a Rixy szórakoztató komplexum felé venné az irányt. Délben tekerjen az ókori romokhoz, majd élvezze a Takhtaly hegyi kilátást. Délután guruljon le a nyitott kertbe, hogy magába szívja a kultúrát. Zárja aktív napját a lenyűgöző Kleopátra-strand hűsítő vizének partján pihenve.",
+        "ro": "Începeți turul cu bicicleta la amfiteatrul central înainte de a vă îndrepta spre complexul Rixy. La amiază, pedalați spre ruinele antice, iar apoi admirați peisajele montane dramatice de la punctul de belvedere Takhtaly. După-amiaza, coborâți spre grădina deschisă. Încheiați-vă ziua activă relaxându-vă lângă apele liniștitoare ale uimitoarei plaje Kleopatra.",
+        "en": "Kick off your cycling tour at the central Amphitheatre before heading to the Rixy entertainment complex. As midday approaches, pedal towards the ancient ruins to uncover local history. After taking in the dramatic mountain views from the Takhtaly viewpoint, cruise down to the open garden. End your active day relaxing by the calming waters of the stunning Kleopatra Beach."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 9.3,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Amphitheater",
+            "hu": "Amfiteátrum",
+            "ro": "Amfiteatru",
+            "en": "Amphitheatre"
+          },
+          "coords": [
+            30.527041,
+            36.501712
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 70,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie den antiken Charme dieses Amphitheaters, wo sich historische Echos mit der Küste vereinen, und kommen Sie früh, um die besten Fotomotive ohne Menschenmassen zu finden.",
+            "hu": "Fedezze fel ezen amfiteátrum ókori varázsát, ahol a történelmi visszhangok tengerparti kilátással párosulnak, és érkezzen korán, hogy tömeg nélkül készíthessen remek fotókat.",
+            "ro": "Descoperiți farmecul antic al acestui amfiteatru unde ecourile istorice întâlnesc priveliștea coastei și ajungeți devreme pentru a prinde cel mai bun unghi fotografic fără aglomerație.",
+            "en": "Discover the ancient charm of this amphitheatre where historical echoes meet scenic coastal views, and arrive early to secure a good photo spot before the crowds gather."
+          }
+        },
+        {
+          "name": {
+            "de": "Amfiteatr",
+            "hu": "Amfiteatr",
+            "ro": "Amfiteatr",
+            "en": "Amfiteatr"
+          },
+          "coords": [
+            30.538173,
+            36.507457
+          ],
+          "category": "cultural",
+          "arrive_at": "10:13",
+          "stay_min": 60,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Nehmen Sie sich einen Moment Zeit, um die moderne Konstruktion dieses Resort-Amphitheaters zu bewundern, und besuchen Sie es am späten Nachmittag für perfektes Fotolicht.",
+            "hu": "Szánjon egy percet e modern, üdülőközponti stílusú amfiteátrum megcsodálására, és látogasson el ide késő délután, amikor a fényviszonyok tökéletesek az építészeti fotózáshoz.",
+            "ro": "Admirați construcția modernă a acestui amfiteatru în stil resort și vizitați-l spre sfârșitul după-amiezii, când lumina este absolut perfectă pentru fotografia de arhitectură.",
+            "en": "Take a moment to admire the modern construction of this resort-style amphitheatre setting, and visit during the late afternoon when the lighting is perfect for architectural photography."
+          }
+        },
+        {
+          "name": {
+            "de": "Rixy-Amphitheater",
+            "hu": "Rixy Amfiteátrum",
+            "ro": "Amfiteatrul Rixy",
+            "en": "Rixy Amphitheatre"
+          },
+          "coords": [
+            30.536218,
+            36.51007
+          ],
+          "category": "cultural",
+          "arrive_at": "11:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Unterhaltung im Rixy-Amphitheater, das für Familienshows konzipiert ist, und kommen Sie ein paar Minuten vor Beginn, um sich einen bequemen Platz zu sichern.",
+            "hu": "Tapasztalja meg a pezsgő szórakozást a főleg családi műsorokra tervezett Rixy amfiteátrumban, és érkezzen néhány perccel a kezdés előtt, hogy kényelmes ülőhelyet találjon.",
+            "ro": "Experimentați divertismentul plin de viață la Amfiteatrul Rixy creat în principal pentru spectacole de familie și ajungeți cu câteva minute mai devreme pentru a vă asigura un loc confortabil.",
+            "en": "Experience the lively entertainment at the Rixy Amphitheatre designed mainly for family shows, and arrive a few minutes before the designated start time to secure a comfortable seat."
+          }
+        },
+        {
+          "name": {
+            "de": "Antike Ruinen",
+            "hu": "Ókori romok",
+            "ro": "Ruine antice",
+            "en": "Ruins"
+          },
+          "coords": [
+            30.516713,
+            36.517068
+          ],
+          "category": "historical",
+          "arrive_at": "12:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.9,
+          "tip_5lang": {
+            "de": "Wandern Sie durch diese faszinierenden antiken Ruinen, die die Geschichte des lykischen Erbes erzählen, und tragen Sie feste Schuhe, da das Gelände uneben und steinig ist.",
+            "hu": "Barangoljon a lenyűgöző ókori romok között, amelyek a régió gazdag lükiai örökségéről mesélnek, és viseljen masszív túracipőt az egyenetlen és köves terep miatt.",
+            "ro": "Plimbați-vă printre aceste fascinante ruine antice care spun povestea moștenirii liciene a regiunii și purtați încălțăminte rezistentă, deoarece terenul este accidentat și pietros.",
+            "en": "Wander among these fascinating ancient ruins that tell the story of the region's rich Lycian heritage, and wear sturdy walking shoes as the terrain is uneven and scattered with loose stones."
+          }
+        },
+        {
+          "name": {
+            "de": "Aussichtspunkt Takhtaly",
+            "hu": "Takhtaly kilátópont",
+            "ro": "Punct de belvedere Takhtaly",
+            "en": "View of Tahtali and the road"
+          },
+          "coords": [
+            30.499739,
+            36.503372
+          ],
+          "category": "natural",
+          "arrive_at": "13:43",
+          "stay_min": 25,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Bestaunen Sie den atemberaubenden Panoramablick auf den Berg Tahtali sowie die Passstraße, und bringen Sie ein Fernglas mit, um die dramatische Berglandschaft im Detail zu sehen.",
+            "hu": "Csodálja meg a Tahtali-hegyre és a kanyargós hegyi útra nyíló lélegzetelállító panorámát, és vigyen magával távcsövet a drámai magasságú táj részletesebb felfedezéséhez.",
+            "ro": "Minunați-vă de priveliștea panoramică uluitoare a Muntelui Tahtali și a drumului șerpuit, și aduceți un binoclu pentru a aprecia pe deplin peisajul dramatic și înălțimile impresionante.",
+            "en": "Marvel at the breathtaking panoramic view of Mount Tahtali and the winding mountain road, and bring a zoom lens or binoculars to fully appreciate the dramatic elevated landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Konzertbereich im Freien",
+            "hu": "Szabadtéri koncertkert",
+            "ro": "Grădina deschisă pentru concerte",
+            "en": "Open garden concert area"
+          },
+          "coords": [
+            30.523332,
+            36.486231
+          ],
+          "category": "cultural",
+          "arrive_at": "14:14",
+          "stay_min": 60,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Genießen Sie die lebhafte Atmosphäre dieses offenen Gartens, der regelmäßig lokale Kulturveranstaltungen beherbergt, und prüfen Sie den Zeitplan für abendliche Live-Auftritte.",
+            "hu": "Élvezze a nyitott kert vibráló hangulatát, amely rendszeresen ad otthont helyi kulturális eseményeknek, és érdemes előre ellenőrizni a programot egy esti élő előadásért.",
+            "ro": "Bucurați-vă de atmosfera vibrantă a acestei grădini deschise care găzduiește constant evenimente culturale locale și verificați programul în avans pentru a prinde un spectacol live.",
+            "en": "Enjoy the vibrant atmosphere of this open garden space which regularly hosts local cultural events, and check the schedule beforehand to catch a live evening performance."
+          }
+        },
+        {
+          "name": {
+            "de": "Kleopatra-Strand",
+            "hu": "Kleopátra-strand",
+            "ro": "Plaja Kleopatra",
+            "en": "Kleopatra Beach"
+          },
+          "coords": [
+            30.517318,
+            36.479955
+          ],
+          "category": "recreational",
+          "arrive_at": "15:16",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Entspannen Sie am goldenen Sand des Kleopatra-Strandes, wo kristallklares Wasser zum Schwimmen einlädt, und packen Sie Badeschuhe ein, um das kieselige Ufer bequem zu meistern.",
+            "hu": "Pihenjen a Kleopátra-strand aranyló homokján, ahol a kristálytiszta víz frissítő úszásra csábít, és vigyen magával vizicipőt a kavicsos partszakasz kényelmesebb felfedezéséhez.",
+            "ro": "Relaxați-vă pe nisipul auriu al plajei Kleopatra, unde apele cristaline vă invită la o baie răcoritoare, și luați-vă încălțăminte de apă pentru a naviga confortabil țărmul cu pietriș.",
+            "en": "Relax on the golden sands of Kleopatra Beach where crystal-clear waters invite you for a refreshing swim, and pack a pair of water shoes to comfortably navigate the pebbly shoreline."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt mit der Erkundung der drei lokalen Amphitheater und bewundern Sie alte Wurzeln sowie moderne Bühnen. Mittags fahren Sie zu den historischen Ruinen abseits der Touristenpfade. Genießen Sie nachmittags die weite Aussicht vom Takhtaly-Aussichtspunkt und einen kulturellen Stopp im Garten. Beenden Sie die Tour an den wunderschönen Ufern des Kleopatra-Strandes.",
+        "hu": "Kezdje autós túráját a helyi amfiteátrumok hármasának felfedezésével, megcsodálva az ókori és a modern üdülőközponti színpadokat egyaránt. Délben barangoljon a történelmi romoknál, majd hajtson fel a Takhtaly kilátóhoz a fenséges délutáni panorámáért. Egy rövid kulturális kerti megálló után zárja a napot a gyönyörű Kleopátra-strand finom homokján lazítva.",
+        "ro": "Începeți turul cu mașina explorând triada de amfiteatre locale, admirând atât rădăcinile antice, cât și scenele moderne. La amiază, îndreptați-vă spre ruinele istorice, apoi conduceți până la punctul de belvedere Takhtaly pentru peisaje superbe. După o oprire culturală la grădina deschisă, încheiați-vă plimbarea relaxându-vă pe malurile superbe ale plajei Kleopatra.",
+        "en": "Begin your driving tour by exploring the triad of local amphitheatres, admiring both ancient roots and modern resort stages. Midday takes you off the beaten path to wander the historic ruins. Drive up to the Takhtaly viewpoint for sweeping afternoon vistas, followed by a cultural stop at the open garden. Finish your scenic drive unwinding on the beautiful shores of Kleopatra Beach."
+      }
+    }
+  }
+}

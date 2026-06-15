@@ -1,0 +1,497 @@
+{
+  "city_id": "ambon-cities-v2",
+  "anchor": {
+    "name": "Ambon",
+    "coords": [
+      128.183,
+      -3.655
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:19",
+      "total_km": 4.5,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Masjid",
+            "hu": "Masjid",
+            "ro": "Masjid",
+            "en": "Masjid"
+          },
+          "coords": [
+            128.191616,
+            -3.651208
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieser zentralen Moschee, die Ambons islamisches Erbe widerspiegelt, aber denken Sie daran, sich bescheiden zu kleiden und die Schuhe auszuziehen.",
+            "hu": "Csodálja meg a központi mecset lenyűgöző építészetét, amely az amboni iszlám örökséget tükrözi, de ne feledjen szerényen öltözködni és belépés előtt levenni a cipőjét.",
+            "ro": "Admirați arhitectura impresionantă a acestei moschei centrale, reflectând moștenirea islamică din Ambon, dar amintiți-vă să vă îmbrăcați decent și să vă descălțați la intrare.",
+            "en": "Admire the impressive architecture of this central mosque, reflecting Ambon's Islamic heritage, but remember to dress modestly and remove your shoes before entering the prayer hall."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Al Huda",
+            "hu": "Masjid Al Huda",
+            "ro": "Masjid Al Huda",
+            "en": "Masjid Al Huda"
+          },
+          "coords": [
+            128.176579,
+            -3.661254
+          ],
+          "category": "religious",
+          "arrive_at": "10:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 30,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erleben Sie die lebhafte Gemeindeatmosphäre in dieser Moschee, einem Symbol des lokalen Glaubens, und besuchen Sie sie außerhalb der Gebetszeiten, um den Hof zu genießen.",
+            "hu": "Tapasztalja meg a helyi közösség élénk hangulatát ebben a mecsetben, a helyi hit szimbólumában, és próbáljon az imaidőkön kívül érkezni, hogy élvezhesse a békés udvart.",
+            "ro": "Experimentați atmosfera vibrantă a comunității la această moschee de cartier și încercați să o vizitați în afara orelor de rugăciune pentru a vă bucura de curtea sa pașnică.",
+            "en": "Experience the vibrant community atmosphere at this neighborhood mosque, a symbol of local faith, and try to visit outside prayer times to fully appreciate its peaceful courtyard."
+          }
+        },
+        {
+          "name": {
+            "de": "Swalayan Planet",
+            "hu": "Swalayan Planet",
+            "ro": "Swalayan Planet",
+            "en": "Swalayan Planet"
+          },
+          "coords": [
+            128.165883,
+            -3.665176
+          ],
+          "category": "cultural",
+          "arrive_at": "11:20",
+          "stay_min": 50,
+          "hop_from_prev_min": 20,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie diesen lebhaften Supermarkt, um authentische ambonesische Snacks zu entdecken, und kaufen Sie sich etwas erfrischendes Wasser für den Rest Ihres Spaziergangs.",
+            "hu": "Fedezze fel ezt a nyüzsgő helyi szupermarketet, hogy megismerje az autentikus amboni rágcsálnivalókat, és vegyen egy kis frissítő vizet a séta további részére.",
+            "ro": "Explorați acest supermarket local animat pentru a descoperi gustări autentice din Ambon și cumpărați niște apă îmbuteliată răcoritoare pentru restul turului dumneavoastră pietonal.",
+            "en": "Explore this lively local supermarket to discover authentic Ambonese snacks and everyday cultural life, and grab some refreshing bottled water for the rest of your walking tour."
+          }
+        },
+        {
+          "name": {
+            "de": "GPM Pniel - Wayame",
+            "hu": "GPM Pniel - Wayame",
+            "ro": "GPM Pniel - Wayame",
+            "en": "GPM Pniel - Wayame"
+          },
+          "coords": [
+            128.164659,
+            -3.664903
+          ],
+          "category": "religious",
+          "arrive_at": "12:12",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Betrachten Sie das koloniale Design dieser protestantischen Kirche, die als Eckpfeiler der Gemeinde Wayame dient, und nehmen Sie sich einen Moment Zeit für etwas innere Ruhe.",
+            "hu": "Figyelje meg ennek a Wayame közösség sarokköveként szolgáló protestáns templomnak a gyarmati ihletésű dizájnját, és töltsön el egy csendes percet a padsorokban ülve.",
+            "ro": "Observați designul cu influențe coloniale al acestei biserici protestante, piatră de temelie pentru comunitatea Wayame, luându-vă un moment pentru a sta liniștit în bănci.",
+            "en": "Observe the distinctive colonial-influenced design of this Protestant church that serves as a cornerstone for the Wayame community, taking a moment to sit quietly in the pews."
+          }
+        },
+        {
+          "name": {
+            "de": "Irene",
+            "hu": "Irene",
+            "ro": "Irene",
+            "en": "Irene"
+          },
+          "coords": [
+            128.154716,
+            -3.666178
+          ],
+          "category": "religious",
+          "arrive_at": "13:09",
+          "stay_min": 70,
+          "hop_from_prev_min": 17,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Spaziergang an dieser wunderschön strukturierten Kirche und kommen Sie sonntags früh, wenn Sie den harmonischen einheimischen Chor singen hören möchten.",
+            "hu": "Zárja sétáját ennél a gyönyörű szerkezetű templomnál, amely barátságos gyülekezetéről ismert, és érkezzen korán vasárnap, ha hallani szeretné a harmonikus helyi kórust.",
+            "ro": "Încheiați-vă plimbarea la această biserică frumos structurată și luați în considerare să ajungeți devreme duminica dacă doriți să ascultați corul local plin de armonie.",
+            "en": "Conclude your walk at this beautifully structured church known for its welcoming congregation, and consider arriving early on a Sunday if you wish to hear the harmonious local choir."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen an der markanten Moschee nahe der Bucht und tauchen Sie in das islamische Erbe ein. Mittags spazieren Sie zur Masjid Al Huda und einem belebten lokalen Markt. Am Nachmittag widmen Sie sich dem christlichen Erbe an der GPM Pniel Kirche. Der Abend bricht herein, während Sie an der ruhigen Irene-Kirche über die religiöse Harmonie Ambons nachdenken.",
+        "hu": "Kezdje a reggelt az öbölnél lévő lenyűgöző mecsetnél, elmerülve a helyi iszlám örökségben. A délben nyüzsgő utcákon át a Masjid Al Huda és egy élettel teli piac felé vezet. Délután a keresztény emlékeket fedezi fel a GPM Pniel templomnál. Az este leszálltával Ambon vallási harmóniáján elmélkedhet a békés Irene templom megnyugtató csendjében.",
+        "ro": "Începeți dimineața explorând impresionanta Moschee de lângă golf. La prânz, mergeți prin străzile pline de viață către Masjid Al Huda și o piață locală pentru a vă răcori. După-amiaza, treceți la moștenirea creștină de la biserica GPM Pniel din Wayame. Seara cade în timp ce reflectați la armonia religioasă din Ambon la liniștita biserică Irene.",
+        "en": "Begin your morning exploring the striking Masjid near the bay, immersing yourself in the local Islamic heritage. Midday takes you through bustling streets to Masjid Al Huda and a lively local market for refreshments. In the afternoon, shift to the Christian heritage at GPM Pniel - Wayame. Evening falls as you reflect on the diverse religious harmony of Ambon at the serene Irene church."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:28",
+      "total_km": 10.6,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Irene",
+            "hu": "Irene",
+            "ro": "Irene",
+            "en": "Irene"
+          },
+          "coords": [
+            128.154716,
+            -3.666178
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Fahrt an dieser historisch bedeutsamen Kirche und überprüfen Sie hier Ihre Fahrradgänge, bevor Sie in den dichteren Stadtverkehr von Ambon fahren.",
+            "hu": "Kezdje a kerékpározást ennél a történelmileg jelentős templomnál, és feltétlenül ellenőrizze a kerékpár sebességváltóját, mielőtt bevetné magát a sűrű városi forgalomba.",
+            "ro": "Începeți plimbarea la această biserică semnificativă istoric și verificați vitezele bicicletei aici înainte de a vă îndrepta către traficul mai dens al orașului.",
+            "en": "Start your ride at this historically significant church, appreciating its solid architecture, and check your bike gears here before heading into the denser city traffic."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Al Huda",
+            "hu": "Masjid Al Huda",
+            "ro": "Masjid Al Huda",
+            "en": "Masjid Al Huda"
+          },
+          "coords": [
+            128.176579,
+            -3.661254
+          ],
+          "category": "religious",
+          "arrive_at": "10:03",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Unterbrechen Sie Ihre Radtour, um das pulsierende tägliche Leben rund um diese lebhafte Moschee zu genießen, und sichern Sie Ihr Fahrrad am Haupttor.",
+            "hu": "Tartson egy kis szünetet a tekerésben, hogy magába szívja a mecset körüli pezsgő mindennapi életet, és zárja le a kerékpárt a főkapu közelében.",
+            "ro": "Faceți o pauză de la pedalat pentru a admira viața de zi cu zi vibrantă din jurul acestei moschei și asigurați-vă bicicleta lângă poarta principală.",
+            "en": "Pause your cycling to take in the vibrant daily life surrounding this bustling community mosque, and secure your bike near the main gate while you briefly explore."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid",
+            "hu": "Masjid",
+            "ro": "Masjid",
+            "en": "Masjid"
+          },
+          "coords": [
+            128.191616,
+            -3.651208
+          ],
+          "category": "religious",
+          "arrive_at": "10:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Erhabenheit der zentralen Moschee der Stadt, und nehmen Sie sich Zeit, ihre prächtige Kuppel vom angrenzenden Fußgängerweg aus zu fotografieren.",
+            "hu": "Csodálja meg a város központi mecsetjének pompáját, és szánjon időt arra, hogy a szomszédos sétányról biztonságosan lefotózza annak csodálatos kupoláját.",
+            "ro": "Minunați-vă de măreția moscheii centrale a orașului, un far al credinței, făcându-vă timp să fotografiați domul său magnific de pe calea pietonală alăturată.",
+            "en": "Marvel at the grandeur of the city's central mosque, a beacon of faith, taking time to photograph its magnificent dome from the safety of the adjacent pedestrian path."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Waiheru",
+            "hu": "Masjid Waiheru",
+            "ro": "Masjid Waiheru",
+            "en": "Masjid Waiheru"
+          },
+          "coords": [
+            128.216142,
+            -3.630328
+          ],
+          "category": "religious",
+          "arrive_at": "11:53",
+          "stay_min": 40,
+          "hop_from_prev_min": 19,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Machen Sie eine malerische Fahrt zu dieser modernen Moschee an der Straße und genießen Sie eine kurze Pause im Schatten der nahe gelegenen Bäume.",
+            "hu": "Tegyen egy festői utat ez a modern mecset felé, amely stratégiai elhelyezkedéséről ismert, és élvezze az árnyékos pihenést a közeli fák alatt.",
+            "ro": "Bucurați-vă de o plimbare pitorească spre această moschee modernă, vizibilă de pe drum, și odihniți-vă la umbra copacilor din apropiere înainte de a continua.",
+            "en": "Take a scenic ride towards this modern mosque, notable for its strategic position along the road, and enjoy a quick shaded rest under the nearby trees before continuing."
+          }
+        },
+        {
+          "name": {
+            "de": "Indomaret Waiheru",
+            "hu": "Indomaret Waiheru",
+            "ro": "Indomaret Waiheru",
+            "en": "Indomaret Waiheru"
+          },
+          "coords": [
+            128.223299,
+            -3.627566
+          ],
+          "category": "cultural",
+          "arrive_at": "12:38",
+          "stay_min": 50,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Decken Sie sich in diesem kulturellen Zentrum des modernen Einzelhandels mit Energy-Drinks und Snacks ein, um genug Flüssigkeit für den Endspurt zu haben.",
+            "hu": "Tankoljon fel energiaitalokból és helyi rágcsálnivalókból ebben a modern kiskereskedelmi csomópontban, hogy elegendő folyadékkal rendelkezzen az utolsó szakaszra.",
+            "ro": "Aprovizionați-vă cu băuturi energizante și gustări la acest centru convenabil de retail modern, asigurându-vă că aveți suficientă hidratare pentru final.",
+            "en": "Stock up on essential energy drinks and local snacks at this highly convenient cultural hub of modern retail, ensuring you have enough hydration for the final stretch."
+          }
+        },
+        {
+          "name": {
+            "de": "Gereja Nania",
+            "hu": "Gereja Nania",
+            "ro": "Gereja Nania",
+            "en": "Gereja Nania"
+          },
+          "coords": [
+            128.233516,
+            -3.627344
+          ],
+          "category": "religious",
+          "arrive_at": "13:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Schätzen Sie die friedliche, robuste Struktur dieser protestantischen Kirche, die ein tiefes Gefühl lokaler Widerstandsfähigkeit vermittelt, ideal für ruhige Momente.",
+            "hu": "Értékelje ennek a helyi protestáns templomnak a békés, masszív szerkezetét, amely a közösségi összetartás mély érzését nyújtja, tökéletes az elmélkedésre.",
+            "ro": "Apreciați structura pașnică a acestei biserici protestante locale care oferă un sentiment profund de rezistență comunitară, perfectă pentru reflecție.",
+            "en": "Appreciate the peaceful, sturdy structure of this local Protestant church which offers a deep sense of community resilience, perfect for a quiet moment of reflection."
+          }
+        },
+        {
+          "name": {
+            "de": "Gereja Negeri Lama",
+            "hu": "Gereja Negeri Lama",
+            "ro": "Gereja Negeri Lama",
+            "en": "Gereja Negeri Lama"
+          },
+          "coords": [
+            128.239724,
+            -3.629945
+          ],
+          "category": "religious",
+          "arrive_at": "14:18",
+          "stay_min": 70,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Radtour an dieser historischen 'Old Country'-Kirche, einem Zeugnis für Ambons christliche Wurzeln, und unterhalten Sie sich mit den Einheimischen.",
+            "hu": "Fejezze be a kerékpáros utat ennél a történelmi templomnál, amely Ambon keresztény gyökereinek bizonyítéka, és beszélgessen a kint időző barátságos helyiekkel.",
+            "ro": "Încheiați-vă călătoria cu bicicleta la această biserică istorică, o dovadă a rădăcinilor creștine ale orașului Ambon, și discutați cu localnicii prietenoși.",
+            "en": "Conclude your biking journey at this historical 'Old Country' church, a testament to Ambon's enduring Christian roots, and chat with friendly locals lingering outside."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Fahrradabenteuer beginnt im Südwesten an der Irene-Kirche. Sie radeln in Richtung der belebten Moscheen der Stadt. Mittags erreichen Sie die zentrale Moschee, das spirituelle Herz Ambons. Die Nachmittagsfahrt führt Sie die Küste hinauf zum Waiheru-Viertel. Ihre Reise endet mit der Erkundung historischer protestantischer Kirchen, während der Abend naht.",
+        "hu": "Kerékpáros kalandja délnyugaton, az Irene templomnál kezdődik, ahonnan a város nyüzsgő mecsetjei felé teker. Délben eléri a lenyűgöző központi mecsetet, Ambon spirituális szívét. A délutáni út a parton felfelé, a Waiheru negyedbe vezet frissítőkért. Az utazás történelmi protestáns templomok felfedezésével zárul a kora esti órákban.",
+        "ro": "Aventura dumneavoastră cu bicicleta începe în sud-vest la biserica Irene, pedalând spre moscheile animate ale orașului. Până la prânz veți ajunge la Marea Moschee centrală. Călătoria de după-amiază vă duce de-a lungul coastei către cartierul Waiheru pentru o mică pauză. Călătoria se încheie explorând biserici protestante istorice la lăsarea serii.",
+        "en": "Your biking adventure begins in the southwest at the Irene church, pedaling through the morning air toward the city's bustling mosques. By midday, you'll reach the grand central Masjid, the spiritual heart of Ambon. The afternoon ride takes you up the coast to the Waiheru district for refreshments and striking views. Your journey winds down by exploring historic Protestant churches as evening approaches."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:12",
+      "total_km": 24.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Beteshda",
+            "hu": "Beteshda",
+            "ro": "Beteshda",
+            "en": "Beteshda"
+          },
+          "coords": [
+            128.127343,
+            -3.682726
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihre Autotour an dieser bezaubernden Kirche, beachten Sie die Holzarbeiten und parken Sie vorsichtig, da die Hauptstraße hier sehr belebt sein kann.",
+            "hu": "Kezdje autós túráját ennél a bájos útszéli templomnál, figyelve a fafaragásokra, és parkoljon óvatosan a padkán, mivel a főút itt meglehetősen forgalmas lehet.",
+            "ro": "Începeți turul cu mașina la această biserică fermecătoare, remarcând detaliile din lemn, și parcați cu grijă, deoarece drumul principal poate fi destul de aglomerat.",
+            "en": "Begin your driving tour at this charming roadside church, noting its intricate woodwork, and park carefully on the shoulder as the main road here can be quite busy."
+          }
+        },
+        {
+          "name": {
+            "de": "Gedung Serba Guna",
+            "hu": "Gedung Serba Guna",
+            "ro": "Gedung Serba Guna",
+            "en": "Gedung Serba Guna"
+          },
+          "coords": [
+            128.152272,
+            -3.712996
+          ],
+          "category": "museum",
+          "arrive_at": "09:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses Museum, das Ambons facettenreiche Geschichte präsentiert, und nehmen Sie sich Zeit für die Ausstellungen, da ausreichend Parkplätze vorhanden sind.",
+            "hu": "Fedezze fel ezt a sokoldalú múzeumot, amely Ambon sokrétű történelmét mutatja be, és szánjon időt a kulturális kiállításokra, mivel bőséges parkolóhely áll rendelkezésre.",
+            "ro": "Explorați acest spațiu muzeal versatil care prezintă istoria complexă a orașului Ambon și vizitați exponatele culturale fără grabă, existând parcare suficientă.",
+            "en": "Explore this versatile museum space showcasing Ambon's multifaceted history, and take your time browsing the cultural exhibits since there is ample parking available."
+          }
+        },
+        {
+          "name": {
+            "de": "Gereja Amahusu",
+            "hu": "Gereja Amahusu",
+            "ro": "Gereja Amahusu",
+            "en": "Gereja Amahusu"
+          },
+          "coords": [
+            128.145798,
+            -3.725506
+          ],
+          "category": "religious",
+          "arrive_at": "11:42",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Küstenaussicht von dieser malerischen Kirche auf einem Hügel, und fahren Sie langsam hinauf, da die Zufahrtsstraße schmal und etwas steil ist.",
+            "hu": "Csodálja meg a tengerparti kilátást ebből a festői dombtetőn álló templomból, és hajtson fel lassan, mivel a felvezető út keskeny és kissé meredek.",
+            "ro": "Admirați priveliștile de coastă de la această biserică pitorească de pe deal și conduceți încet la urcare, deoarece drumul de acces este îngust și ușor abrupt.",
+            "en": "Admire the coastal views from this picturesque hilltop church which serves as a spiritual retreat, and drive up slowly as the access road is narrow and slightly steep."
+          }
+        },
+        {
+          "name": {
+            "de": "Gereja Petra",
+            "hu": "Gereja Petra",
+            "ro": "Gereja Petra",
+            "en": "Gereja Petra"
+          },
+          "coords": [
+            128.205459,
+            -3.692147
+          ],
+          "category": "religious",
+          "arrive_at": "12:38",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 7.5,
+          "tip_5lang": {
+            "de": "Halten Sie an dieser modernen Gemeindehalle an, die für ihre lebendige Jugendgemeinschaft bekannt ist, und betrachten Sie die wunderschön gefertigten Buntglasfenster.",
+            "hu": "Álljon meg ennél a modern gyülekezeti teremnél, amely élénk ifjúsági közösségéről ismert, és fontolja meg, hogy belépjen a gyönyörű ólomüveg ablakok megtekintéséhez.",
+            "ro": "Opriți-vă la această sală de congregație modernă cunoscută pentru tinerii ei și luați în considerare să intrați pentru a vedea vitraliile frumos lucrate.",
+            "en": "Stop by this modern congregation hall known for its vibrant youth community, and consider stepping inside to view the beautifully crafted stained glass windows."
+          }
+        },
+        {
+          "name": {
+            "de": "Gereja Bukit Doa",
+            "hu": "Gereja Bukit Doa",
+            "ro": "Gereja Bukit Doa",
+            "en": "Gereja Bukit Doa"
+          },
+          "coords": [
+            128.205609,
+            -3.698725
+          ],
+          "category": "religious",
+          "arrive_at": "13:20",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Erleben Sie tiefe Ruhe in diesem Heiligtum auf dem 'Berg des Gebets', einem hervorragenden Ort für Panoramafotos; ziehen Sie beim Parken die Handbremse an.",
+            "hu": "Tapasztalja meg a mély nyugalmat ezen az 'Imádság Hegyén' lévő szentélyben, amely kiváló hely a panorámafotózáshoz; parkoláskor húzza be teljesen a kéziféket.",
+            "ro": "Experimentați liniștea profundă la acest sanctuar de pe 'Dealul Rugăciunii', un loc excelent pentru fotografii panoramice, asigurându-vă că frâna de mână este trasă.",
+            "en": "Experience profound tranquility at this 'Hill of Prayer' sanctuary, an excellent spot for panoramic photography, ensuring your handbrake is fully engaged when parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Masjid Waiheru",
+            "hu": "Masjid Waiheru",
+            "ro": "Masjid Waiheru",
+            "en": "Masjid Waiheru"
+          },
+          "coords": [
+            128.216142,
+            -3.630328
+          ],
+          "category": "religious",
+          "arrive_at": "14:16",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 7.6,
+          "tip_5lang": {
+            "de": "Beobachten Sie die markanten Minarette dieser nördlichen Moschee, die das Nachmittagslicht einfangen, und nutzen Sie den großen Parkplatz für ein stressfreies Wenden.",
+            "hu": "Figyelje meg ennek az északi mecsetnek a lenyűgöző minaretjeit, amelyek gyönyörűen megfogják a délutáni fényeket, és használja a nagy szomszédos telket az autós forduláshoz.",
+            "ro": "Observați minaretele impresionante ale acestei moschei nordice, care surprind frumos lumina după-amiezii, și utilizați parcarea mare alăturată pentru a întoarce fără stres.",
+            "en": "Observe the striking minarets of this northern mosque that beautifully catch the afternoon light, and utilize the large adjacent lot for a stress-free vehicle turn-around."
+          }
+        },
+        {
+          "name": {
+            "de": "Gereja Negeri Lama",
+            "hu": "Gereja Negeri Lama",
+            "ro": "Gereja Negeri Lama",
+            "en": "Gereja Negeri Lama"
+          },
+          "coords": [
+            128.239724,
+            -3.629945
+          ],
+          "category": "religious",
+          "arrive_at": "15:02",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre ausgedehnte Fahrt an dieser bedeutenden historischen Kirche, und genießen Sie die feierliche Abendstimmung, bevor Sie ins Zentrum zurückkehren.",
+            "hu": "Fejezze be kiterjedt autózását ennél a jelentős örökségvédelmi templomnál, magába szívva az ünnepélyes alkonyati hangulatot, mielőtt visszatérne a városközpontba.",
+            "ro": "Terminați-vă călătoria la această biserică de patrimoniu semnificativă, absorbind atmosfera solemnă a amurgului, înainte de a vă întoarce pe autostradă spre centrul orașului.",
+            "en": "Finish your extensive drive at this significant heritage church, absorbing the solemn twilight atmosphere, before heading back onto the main highway towards the city center."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Autotour im Süden bei Beteshda und fahren Sie reibungslos zu den historischen Artefakten im Gedung Serba Guna Museum. Mittags fahren Sie in die Hügel und genießen den Blick von Gereja Amahusu und Gereja Bukit Doa. Am Nachmittag überqueren Sie die nördlichen Bezirke, um die beeindruckende Masjid Waiheru zu sehen. Wenn der Abend naht, beenden Sie Ihre große Runde an der historischen Gereja Negeri Lama.",
+        "hu": "Kezdje autós túráját délen, a Beteshda templomnál, majd haladjon a Gedung Serba Guna történelmi kiállításai felé. Délben feljut a dombok közé, ahonnan pazar kilátás nyílik a Gereja Amahusu és a Gereja Bukit Doa környékéről. Délután az északi kerületekbe hajt, hogy megcsodálja a lenyűgöző Masjid Waiheru mecsetet. Ahogy leszáll az este, a gazdag örökségű Gereja Negeri Lama-nál fejezi be a körutat.",
+        "ro": "Începeți turul cu mașina în sud, la Beteshda, îndreptându-vă spre artefactele istorice de la Gedung Serba Guna. La prânz veți urca pe dealuri, admirând priveliștile de la Gereja Amahusu și senina Gereja Bukit Doa. După-amiaza, veți traversa districtele nordice pentru a vedea impresionanta Masjid Waiheru. Odată cu lăsarea serii, finalizați-vă circuitul la istorica Gereja Negeri Lama.",
+        "en": "Kick off your driving tour in the south at Beteshda, moving smoothly toward the historical artifacts at Gedung Serba Guna. Midday brings you up into the hills, catching sweeping coastal views from Gereja Amahusu and the serene Gereja Bukit Doa. In the afternoon, you will cross over to the northern districts to witness the impressive Masjid Waiheru. As evening arrives, complete your grand circuit at the heritage-rich Gereja Negeri Lama."
+      }
+    }
+  }
+}

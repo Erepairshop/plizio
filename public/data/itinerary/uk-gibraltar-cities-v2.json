@@ -1,0 +1,451 @@
+{
+  "city_id": "uk-gibraltar-cities-v2",
+  "anchor": {
+    "name": "Gibraltar",
+    "coords": [
+      -5.35,
+      36.14
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:55",
+      "total_km": 3.6,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Maurische Burg",
+            "hu": "Mór Kastély",
+            "ro": "Castelul Maur",
+            "en": "Moorish Castle"
+          },
+          "coords": [
+            -5.35,
+            36.14389
+          ],
+          "category": "fortress",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese Festung aus dem 11. Jahrhundert, um Gibraltars islamisches Erbe zu entdecken, aber kommen Sie früh, um die Mittagshitze zu meiden.",
+            "hu": "Fedezze fel ezt a 11. századi erődöt, hogy megismerje Gibraltár iszlám örökségét, de érkezzen korán, hogy elkerülje a déli hőséget a bástyákon.",
+            "ro": "Explorați această fortăreață din secolul al XI-lea pentru a descoperi moștenirea islamică, dar veniți devreme pentru a evita căldura de pe metereze.",
+            "en": "Explore this 11th-century fortress to uncover Gibraltar's Islamic heritage, but arrive early to avoid the midday heat on the exposed ramparts."
+          }
+        },
+        {
+          "name": {
+            "de": "Great Siege Tunnels",
+            "hu": "Nagy Ostromalagutak",
+            "ro": "Tunelurile Marelui Asediu",
+            "en": "Great Siege Tunnels"
+          },
+          "coords": [
+            -5.345047,
+            36.145153
+          ],
+          "category": "historical",
+          "arrive_at": "10:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die beeindruckenden, im 18. Jahrhundert von Hand gegrabenen Verteidigungsstollen und bringen Sie eine leichte Jacke mit.",
+            "hu": "Sétáljon végig ezeken a lenyűgöző, 18. században kézzel vájt védelmi alagutakon, és hozzon magával egy könnyű kabátot a hűvös miatt.",
+            "ro": "Plimbați-vă prin aceste galerii defensive impresionante săpate manual în secolul al XVIII-lea și aduceți o jachetă, deoarece poate fi destul de răcoare.",
+            "en": "Walk through these impressive defensive galleries carved by hand in the 18th century, and bring a light jacket as the tunnels can be quite chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Skywalk Gibraltar",
+            "hu": "Skywalk Gibraltar",
+            "ro": "Skywalk Gibraltar",
+            "en": "Skywalk Gibraltar"
+          },
+          "coords": [
+            -5.348556,
+            36.132142
+          ],
+          "category": "recreational",
+          "arrive_at": "12:22",
+          "stay_min": 25,
+          "hop_from_prev_min": 23,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Betreten Sie diese gläserne Aussichtsplattform für einen atemberaubenden Blick auf drei Länder und halten Sie Ihre Wertsachen im Wind gut fest.",
+            "hu": "Lépjen erre az üvegaljú kilátóteraszra, ahonnan lélegzetelállító kilátás nyílik három országra, és ügyeljen a személyes tárgyaira a szélben.",
+            "ro": "Pășiți pe această platformă de sticlă pentru o vedere panoramică uluitoare a trei țări și aveți grijă să vă țineți bine lucrurile personale.",
+            "en": "Step onto this glass-bottomed viewing platform for thrilling panoramic views of three countries, and make sure to hold tightly onto your belongings."
+          }
+        },
+        {
+          "name": {
+            "de": "St. Michael's Höhle",
+            "hu": "Szent Mihály-barlang",
+            "ro": "Peștera Sfântului Mihail",
+            "en": "St. Michael's Cave"
+          },
+          "coords": [
+            -5.346458,
+            36.125889
+          ],
+          "category": "natural",
+          "arrive_at": "12:58",
+          "stay_min": 75,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie die spektakulären, farbig beleuchteten Kalksteinformationen in dieser uralten Höhle und tragen Sie feste Schuhe für die feuchten Stufen.",
+            "hu": "Csodálja meg a látványos, színes fényekkel megvilágított mészkőformációkat ebben az ősi barlangban, és viseljen stabil cipőt a nedves lépcsők miatt.",
+            "ro": "Admirați spectaculoasele formațiuni de calcar iluminate colorat din interiorul acestei peșteri străvechi și purtați încălțăminte robustă.",
+            "en": "Marvel at the spectacular limestone formations illuminated by colorful lights inside this ancient natural cave, and wear sturdy shoes for the damp steps."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten Gibraltar",
+            "hu": "Gibraltár Botanikus Kert",
+            "ro": "Grădinile Botanice din Gibraltar",
+            "en": "Gibraltar Botanic Gardens"
+          },
+          "coords": [
+            -5.3511,
+            36.1313
+          ],
+          "category": "natural",
+          "arrive_at": "14:25",
+          "stay_min": 90,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in dieser subtropischen Oase mit exotischen Pflanzen und versteckten Denkmälern, ideal für einen ruhigen Nachmittagsspaziergang.",
+            "hu": "Pihenjen meg ebben a buja, szubtrópusi oázisban, amely egzotikus növényekkel és rejtett emlékművekkel várja, tökéletes egy békés délutáni sétához.",
+            "ro": "Relaxați-vă în această oază subtropicală luxuriantă cu plante exotice și monumente ascunse, perfectă pentru o plimbare liniștită de după-amiază.",
+            "en": "Relax in this lush subtropical oasis featuring exotic plants and hidden monuments, perfect for a peaceful afternoon stroll away from the busy streets."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt am imposanten Moorish Castle, um in Gibraltars mittelalterliche Vergangenheit einzutauchen. Mittags führen Sie die Great Siege Tunnels zum gläsernen Skywalk. Der Nachmittag bringt Sie tief in die spektakulären Formationen von St. Michael's Cave. Ihr Abend klingt mit einem ruhigen Spaziergang durch die üppigen und lebhaften Botanischen Gärten sanft aus.",
+        "hu": "A reggel az impozáns Mór Kastélynál kezdődik, ahol elmerülhet Gibraltár középkori múltjában. Délben a történelmi Nagy Ostromalagutakon át az izgalmas üvegaljú Skywalkhoz ér. A délután elkalauzolja a Szent Mihály-barlang látványos képződményeinek mélyére. Az este egy békés és kellemes sétával zárul a buja és élettel teli Botanikus Kertben.",
+        "ro": "Dimineața începe la impunătorul Castel Maur, explorând trecutul medieval. La prânz veți merge prin Tunelurile Marelui Asediu către spectaculosul Skywalk cu podea de sticlă. După-amiaza vă poartă adânc în formațiunile uimitoare din Peștera Sfântului Mihail. Seara se încheie liniștit cu o plimbare relaxantă prin Grădinile Botanice luxuriante.",
+        "en": "The morning begins at the imposing Moorish Castle, delving into Gibraltar's medieval past. Midday leads you through the historic Great Siege Tunnels to the thrilling glass-bottomed Skywalk. The afternoon takes you deep into the spectacular formations of St. Michael's Cave. Your evening winds down gently with a tranquil stroll through the lush and vibrant Botanic Gardens."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:27",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Forbes' Steinbruch",
+            "hu": "Forbes-kőfejtő",
+            "ro": "Cariera Forbes",
+            "en": "Forbes' Quarry"
+          },
+          "coords": [
+            -5.345936,
+            36.146681
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie den Ort, an dem 1848 ein alter Neandertaler-Schädel entdeckt wurde, was einen Wendepunkt in der menschlichen Geschichte markiert.",
+            "hu": "Látogasson el arra a helyre, ahol 1848-ban egy neandervölgyi koponyát találtak, amely az emberiség történelmének fontos mérföldköve volt.",
+            "ro": "Vizitați locul unde a fost descoperit un craniu de Neanderthal în 1848, marcând un moment crucial în istoria omenirii.",
+            "en": "Visit the site where an ancient Neanderthal skull was discovered in 1848, marking a pivotal moment in human history, though access is mostly external."
+          }
+        },
+        {
+          "name": {
+            "de": "Maurische Burg",
+            "hu": "Mór Kastély",
+            "ro": "Castelul Maur",
+            "en": "Moorish Castle"
+          },
+          "coords": [
+            -5.35,
+            36.14389
+          ],
+          "category": "fortress",
+          "arrive_at": "10:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese Festung aus dem 11. Jahrhundert, um Gibraltars islamisches Erbe zu entdecken, aber kommen Sie früh, um die Mittagshitze zu meiden.",
+            "hu": "Fedezze fel ezt a 11. századi erődöt, hogy megismerje Gibraltár iszlám örökségét, de érkezzen korán, hogy elkerülje a déli hőséget a bástyákon.",
+            "ro": "Explorați această fortăreață din secolul al XI-lea pentru a descoperi moștenirea islamică, dar veniți devreme pentru a evita căldura de pe metereze.",
+            "en": "Explore this 11th-century fortress to uncover Gibraltar's Islamic heritage, but arrive early to avoid the midday heat on the exposed ramparts."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanischer Garten Gibraltar",
+            "hu": "Gibraltár Botanikus Kert",
+            "ro": "Grădinile Botanice din Gibraltar",
+            "en": "Gibraltar Botanic Gardens"
+          },
+          "coords": [
+            -5.3511,
+            36.1313
+          ],
+          "category": "natural",
+          "arrive_at": "12:01",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich in dieser subtropischen Oase mit exotischen Pflanzen und versteckten Denkmälern, ideal für einen ruhigen Nachmittagsspaziergang.",
+            "hu": "Pihenjen meg ebben a buja, szubtrópusi oázisban, amely egzotikus növényekkel és rejtett emlékművekkel várja, tökéletes egy békés délutáni sétához.",
+            "ro": "Relaxați-vă în această oază subtropicală luxuriantă cu plante exotice și monumente ascunse, perfectă pentru o plimbare liniștită de după-amiază.",
+            "en": "Relax in this lush subtropical oasis featuring exotic plants and hidden monuments, perfect for a peaceful afternoon stroll away from the busy streets."
+          }
+        },
+        {
+          "name": {
+            "de": "100-Tonnen-Kanone",
+            "hu": "100 Tonnás Ágyú",
+            "ro": "Tunul de 100 de Tone",
+            "en": "100 Ton Gun"
+          },
+          "coords": [
+            -5.354067,
+            36.122682
+          ],
+          "category": "historical",
+          "arrive_at": "13:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses riesige viktorianische Artilleriegeschütz, das militärische Ingenieurskunst zeigt, und lesen Sie die detaillierten Infotafeln.",
+            "hu": "Fedezze fel ezt a hatalmas viktoriánus kori tüzérségi löveget, amely hihetetlen hadmérnöki munkát mutat be, és olvassa el az információs táblákat.",
+            "ro": "Descoperiți această piesă masivă de artilerie din epoca victoriană și alocați-vă timp pentru a citi panourile informative detaliate de la fața locului.",
+            "en": "Discover this massive Victorian-era artillery piece showcasing incredible military engineering, and take time to read the detailed info panels on site."
+          }
+        },
+        {
+          "name": {
+            "de": "Ibrahim-al-Ibrahim Mosque",
+            "hu": "Ibrahim-al-Ibrahim Mosque",
+            "ro": "Ibrahim-al-Ibrahim Mosque",
+            "en": "Ibrahim-al-Ibrahim Mosque"
+          },
+          "coords": [
+            -5.345556,
+            36.111944
+          ],
+          "category": "religious",
+          "arrive_at": "14:50",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie die atemberaubende Architektur dieser südlichsten Moschee Europas, ein Geschenk Saudi-Arabiens, und kleiden Sie sich angemessen.",
+            "hu": "Csodálja meg a lenyűgöző építészetét ennek az Európa legdélibb pontján fekvő mecsetnek, és ügyeljen a visszafogott öltözködésre belépés előtt.",
+            "ro": "Admirați arhitectura uimitoare a acestei frumoase moschei din sudul Europei, donată de Arabia Saudită, amintindu-vă să vă îmbrăcați decent.",
+            "en": "Admire the stunning architecture of this beautiful southernmost mosque in Europe, gifted by Saudi Arabia, remembering to dress modestly before entering."
+          }
+        },
+        {
+          "name": {
+            "de": "Europa Point",
+            "hu": "Europa Point",
+            "ro": "Europa Point",
+            "en": "Europa Point"
+          },
+          "coords": [
+            -5.34626,
+            36.10961
+          ],
+          "category": "recreational",
+          "arrive_at": "15:32",
+          "stay_min": 55,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Stehen Sie an der Südspitze der Halbinsel, um einen freien Blick auf die nordafrikanische Küste zu genießen, aber halten Sie Ihren Hut im starken Wind fest.",
+            "hu": "Álljon meg a félsziget legdélibb csücskén, hogy élvezze az észak-afrikai partvidékre nyíló zavartalan kilátást, de vigyázzon az erős szélre.",
+            "ro": "Stați în extremitatea sudică a peninsulei pentru a vă bucura de o vedere neobstrucționată asupra coastei Africii de Nord, dar feriți-vă de vântul puternic.",
+            "en": "Stand at the southernmost tip of the peninsula to enjoy unobstructed views of the North African coastline, but hold your hat in the strong coastal winds."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Fahrt beginnt bei Forbes' Quarry und führt dann hinauf zum Moorish Castle. Der Mittag bietet eine erfrischende Abfahrt zu den wunderschönen Botanischen Gärten. Der Nachmittag widmet sich der Marinegeschichte beim Besuch des kolossalen 100 Ton Gun. Der Abend endet mit einer Fahrt zur eleganten Moschee und den windgepeitschten Ausblicken am Europa Point.",
+        "hu": "A kerékpározás a Forbes-kőfejtőnél kezdődik, majd felkapaszkodik a Mór Kastélyhoz. A dél egy frissítő ereszkedést kínál a gyönyörű Botanikus Kert felé. A délután a haditengerészeti történelemé a kolosszális 100 tonnás ágyú meglátogatásával. Az estét az elegáns mecset és az Europa Point szélfútta panorámája zárja.",
+        "ro": "Plimbarea începe la Cariera Forbes, urmată de o urcare către Castelul Maur. Prânzul oferă o coborâre răcoritoare către frumoasele Grădini Botanice. După-amiaza trece la istoria navală cu o vizită la colosalul Tun de 100 de Tone. Seara se încheie pedalând spre eleganta Moschee și priveliștile uimitoare de la Europa Point.",
+        "en": "Your ride starts at Forbes' Quarry, discovering early human history, followed by a climb to the Moorish Castle. Midday offers a refreshing descent to the beautiful Botanic Gardens. The afternoon shifts to naval history with a visit to the colossal 100 Ton Gun. The evening concludes by cycling to the elegant Mosque and the windswept vistas of Europa Point."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:10",
+      "total_km": 10.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Playa de Levante",
+            "hu": "Playa de Levante",
+            "ro": "Playa de Levante",
+            "en": "Playa de Levante"
+          },
+          "coords": [
+            -5.336702,
+            36.170007
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Morgenspaziergang an diesem weitläufigen Sandstrand nahe der Landebahn, der einzigartige Ausblicke auf startende Flugzeuge bietet.",
+            "hu": "Élvezze a reggeli sétát ezen a tágas homokos strandon a repülőtér kifutópályája közelében, amely egyedülálló kilátást nyújt a felszálló gépekre.",
+            "ro": "Bucurați-vă de o plimbare matinală de-a lungul acestei plaje spațioase cu nisip din apropierea pistei, oferind vederi unice ale avioanelor ce decolează.",
+            "en": "Enjoy a morning walk along this spacious sandy beach near the airport runway, offering unique views of planes taking off alongside the Mediterranean."
+          }
+        },
+        {
+          "name": {
+            "de": "Great Siege Tunnels",
+            "hu": "Nagy Ostromalagutak",
+            "ro": "Tunelurile Marelui Asediu",
+            "en": "Great Siege Tunnels"
+          },
+          "coords": [
+            -5.345047,
+            36.145153
+          ],
+          "category": "historical",
+          "arrive_at": "10:34",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 3.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch die beeindruckenden, im 18. Jahrhundert von Hand gegrabenen Verteidigungsstollen und bringen Sie eine leichte Jacke mit.",
+            "hu": "Sétáljon végig ezeken a lenyűgöző, 18. században kézzel vájt védelmi alagutakon, és hozzon magával egy könnyű kabátot a hűvös miatt.",
+            "ro": "Plimbați-vă prin aceste galerii defensive impresionante săpate manual în secolul al XVIII-lea și aduceți o jachetă, deoarece poate fi destul de răcoare.",
+            "en": "Walk through these impressive defensive galleries carved by hand in the 18th century, and bring a light jacket as the tunnels can be quite chilly."
+          }
+        },
+        {
+          "name": {
+            "de": "Felsen von Gibraltar",
+            "hu": "Gibraltár Sziklája",
+            "ro": "Stânca Gibraltarului",
+            "en": "Rock of Gibraltar"
+          },
+          "coords": [
+            -5.343056,
+            36.125833
+          ],
+          "category": "natural",
+          "arrive_at": "12:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Besteigen Sie diesen markanten Kalksteinfelsen für unvergleichliche Ausblicke und Begegnungen mit den berühmten Berberaffen, ohne Essen zu zeigen.",
+            "hu": "Mássza meg ezt az ikonikus mészkősziklát a páratlan kilátásért és a híres berber makákókkal való találkozásért, miközben elrejti az ételeit.",
+            "ro": "Urcați pe acest promontoriu emblematic de calcar pentru vederi de neegalat și întâlniri cu celebrii macaci berberi, ținând mâncarea bine ascunsă.",
+            "en": "Ascend this iconic monolithic limestone promontory for unparalleled views and encounters with the famous Barbary macaques, keeping food safely hidden."
+          }
+        },
+        {
+          "name": {
+            "de": "Gorham-Höhlenkomplex",
+            "hu": "Gorham-barlangrendszer",
+            "ro": "Complexul de Peșteri Gorham",
+            "en": "Gorham's Cave Complex"
+          },
+          "coords": [
+            -5.341944,
+            36.1225
+          ],
+          "category": "historical",
+          "arrive_at": "13:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Betrachten Sie diese UNESCO-Welterbestätte von der Aussichtsplattform aus, um mehr über ihre Neandertaler-Bewohner zu erfahren; bringen Sie ein Fernglas mit.",
+            "hu": "Tekintse meg ezt az UNESCO Világörökség részét képező tengeri barlangot a kilátóteraszról, és hozzon magával távcsövet a jobb megfigyeléshez.",
+            "ro": "Vizualizați acest complex de peșteri marine din patrimoniul UNESCO de pe puntea de observație și aduceți binoclu pentru o privire mai detaliată.",
+            "en": "View this UNESCO World Heritage sea cave site from the observation deck to learn about its Neanderthal inhabitants, bringing binoculars for a closer look."
+          }
+        },
+        {
+          "name": {
+            "de": "Europa Point",
+            "hu": "Europa Point",
+            "ro": "Europa Point",
+            "en": "Europa Point"
+          },
+          "coords": [
+            -5.34626,
+            36.10961
+          ],
+          "category": "recreational",
+          "arrive_at": "14:48",
+          "stay_min": 25,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Stehen Sie an der Südspitze der Halbinsel, um einen freien Blick auf die nordafrikanische Küste zu genießen, aber halten Sie Ihren Hut im starken Wind fest.",
+            "hu": "Álljon meg a félsziget legdélibb csücskén, hogy élvezze az észak-afrikai partvidékre nyíló zavartalan kilátást, de vigyázzon az erős szélre.",
+            "ro": "Stați în extremitatea sudică a peninsulei pentru a vă bucura de o vedere neobstrucționată asupra coastei Africii de Nord, dar feriți-vă de vântul puternic.",
+            "en": "Stand at the southernmost tip of the peninsula to enjoy unobstructed views of the North African coastline, but hold your hat in the strong coastal winds."
+          }
+        },
+        {
+          "name": {
+            "de": "100-Tonnen-Kanone",
+            "hu": "100 Tonnás Ágyú",
+            "ro": "Tunul de 100 de Tone",
+            "en": "100 Ton Gun"
+          },
+          "coords": [
+            -5.354067,
+            36.122682
+          ],
+          "category": "historical",
+          "arrive_at": "15:20",
+          "stay_min": 110,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie dieses riesige viktorianische Artilleriegeschütz, das militärische Ingenieurskunst zeigt, und lesen Sie die detaillierten Infotafeln.",
+            "hu": "Fedezze fel ezt a hatalmas viktoriánus kori tüzérségi löveget, amely hihetetlen hadmérnöki munkát mutat be, és olvassa el az információs táblákat.",
+            "ro": "Descoperiți această piesă masivă de artilerie din epoca victoriană și alocați-vă timp pentru a citi panourile informative detaliate de la fața locului.",
+            "en": "Discover this massive Victorian-era artillery piece showcasing incredible military engineering, and take time to read the detailed info panels on site."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Fahrt an der Playa de Levante für einen morgendlichen Blick aufs Meer. Mittags fahren Sie hoch hinauf, um die Great Siege Tunnels und den markanten Felsen von Gibraltar zu erkunden. Der Nachmittag offenbart die antiken Geheimnisse des Gorham's Cave Complex. Die Reise endet am Rande Europas am Europa Point und dem historischen 100 Ton Gun.",
+        "hu": "Kezdje az utat a Playa de Levante-n egy kora reggeli tengerparti kilátással. Délben magasan a hegyekbe visz az út, hogy felfedezze a Nagy Ostromalagutakat és a híres Sziklát. A délután feltárja a Gorham-barlangrendszer ősi titkait a kilátópontról. Az utazás Európa peremén, az Europa Pointnál és a történelmi 100 tonnás ágyúnál ér véget.",
+        "ro": "Începeți plimbarea cu mașina la Playa de Levante pentru o vedere matinală la mare. Prânzul vă duce sus pe munte pentru a explora Tunelurile Marelui Asediu și emblematica Stâncă a Gibraltarului. După-amiaza dezvăluie secretele antice ale Peșterii Gorham. Călătoria se încheie la marginea Europei, la Europa Point, și la istoricul Tun de 100 de Tone.",
+        "en": "Start your drive at Playa de Levante for an early morning seaside view. Midday takes you high up the mountain to explore the Great Siege Tunnels and the iconic Rock of Gibraltar. The afternoon reveals the ancient secrets of Gorham's Cave Complex from its scenic overlook. The journey concludes at the edge of Europe at Europa Point and the historic 100 Ton Gun."
+      }
+    }
+  }
+}

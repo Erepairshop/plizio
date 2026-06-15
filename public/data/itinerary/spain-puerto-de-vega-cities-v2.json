@@ -1,0 +1,497 @@
+{
+  "city_id": "spain-puerto-de-vega-cities-v2",
+  "anchor": {
+    "name": "Puerto de Vega",
+    "coords": [
+      -6.64753,
+      43.56401
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:29",
+      "total_km": 1.25,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Museo Etnográfico Juan Pérez Villamil",
+            "hu": "Museo Etnográfico Juan Pérez Villamil",
+            "ro": "Museo Etnográfico Juan Pérez Villamil",
+            "en": "Museo Etnográfico Juan Pérez Villamil"
+          },
+          "coords": [
+            -6.646876,
+            43.563268
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die maritime und ländliche Geschichte der Region in diesem charmanten Museum und prüfen Sie vorher die Öffnungszeiten, da diese saisonal variieren.",
+            "hu": "Fedezze fel a régió tengerészeti és vidéki történelmét ebben a bájos múzeumban, és mindenképpen ellenőrizze előzetesen a szezonálisan változó nyitvatartást.",
+            "ro": "Explorați istoria maritimă și rurală a regiunii în acest muzeu fermecător și asigurați-vă că verificați programul în prealabil, deoarece se modifică sezonier.",
+            "en": "Explore the maritime and rural history of the region in this charming museum, and be sure to check the opening hours beforehand as they change seasonally."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de Méndez Vigo (Casa Samuel)",
+            "hu": "Casa de Méndez Vigo (Casa Samuel)",
+            "ro": "Casa de Méndez Vigo (Casa Samuel)",
+            "en": "Casa de Méndez Vigo (Casa Samuel)"
+          },
+          "coords": [
+            -6.645441,
+            43.563818
+          ],
+          "category": "historical",
+          "arrive_at": "10:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle Architektur dieses historischen Herrenhauses und nehmen Sie sich Zeit, die feinen Details der Fassade vom Kopfsteinpflaster aus zu betrachten.",
+            "hu": "Csodálja meg ennek a történelmi kastélynak a hagyományos építészetét, és szánjon időt a homlokzat bonyolult részleteinek megfigyelésére a macskaköves utcáról.",
+            "ro": "Admirați arhitectura tradițională a acestui conac istoric, făcându-vă timp să observați detaliile complicate ale fațadei de pe strada pietruită.",
+            "en": "Admire the traditional architecture of this historic mansion, taking time to notice the intricate details of its facade from the cobblestone street below."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Casino de Puerto de Vega",
+            "hu": "Teatro Casino de Puerto de Vega",
+            "ro": "Teatro Casino de Puerto de Vega",
+            "en": "Teatro Casino de Puerto de Vega"
+          },
+          "coords": [
+            -6.648254,
+            43.562492
+          ],
+          "category": "cultural",
+          "arrive_at": "12:16",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Erleben Sie das lokale kulturelle Zentrum in diesem historischen Casino-Theater, wo ein Blick an das Schwarze Brett auf interessante Veranstaltungen hinweisen kann.",
+            "hu": "Tapasztalja meg a helyi kulturális központot ebben a történelmi kaszinószínházban, ahol a hirdetőtáblára pillantva érdekes közelgő közösségi eseményeket fedezhet fel.",
+            "ro": "Experimentați centrul cultural local la acest teatru cazinou istoric, unde verificarea avizierului vă poate dezvălui un eveniment comunitar interesant viitor.",
+            "en": "Experience the local cultural hub at this historic casino theater, where checking the local bulletin board might reveal an interesting upcoming community event."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Ochoa",
+            "hu": "Casa Ochoa",
+            "ro": "Casa Ochoa",
+            "en": "Casa Ochoa"
+          },
+          "coords": [
+            -6.650186,
+            43.563127
+          ],
+          "category": "historical",
+          "arrive_at": "13:38",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Betrachten Sie die Pracht dieses bedeutenden historischen Wohnsitzes und versuchen Sie, im Morgenlicht für die besten Fotos der beeindruckenden Steinstruktur zu kommen.",
+            "hu": "Figyelje meg ennek a kiemelkedő történelmi rezidenciának a nagyszerűségét, és próbáljon a reggeli fényben érkezni, hogy a legjobb fotókat készíthesse az impozáns kőszerkezetről.",
+            "ro": "Observați măreția acestei reședințe istorice proeminente și încercați să vizitați în lumina dimineții pentru a obține cele mai bune fotografii ale structurii sale impresionante din piatră.",
+            "en": "Observe the grandeur of this prominent historic residence, and try to visit in the morning light for the best photographs of its impressive stone structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a Jovellanos",
+            "hu": "Monumento a Jovellanos",
+            "ro": "Monumento a Jovellanos",
+            "en": "Monumento a Jovellanos"
+          },
+          "coords": [
+            -6.648992,
+            43.565789
+          ],
+          "category": "historical",
+          "arrive_at": "15:03",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zollen Sie dem Denkmal für die berühmte Figur der Aufklärung, die hier starb, Respekt und genießen Sie die ruhige Atmosphäre der kleinen umgebenden Plaza.",
+            "hu": "Tisztelegjen az itt elhunyt híres felvilágosodás kori személyiségnek emléket állító emlékműnél, és élvezze a kis környező tér nyugodt hangulatát.",
+            "ro": "Aduceți un omagiu la monumentul dedicat faimoasei figuri a Iluminismului care a murit aici și bucurați-vă de atmosfera liniștită a micii piețe înconjurătoare.",
+            "en": "Pay respects at the monument dedicated to the famous Enlightenment figure who died here, and enjoy the tranquil atmosphere of the small surrounding plaza."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento ballenero",
+            "hu": "Monumento ballenero",
+            "ro": "Monumento ballenero",
+            "en": "Monumento ballenero"
+          },
+          "coords": [
+            -6.646534,
+            43.565526
+          ],
+          "category": "historical",
+          "arrive_at": "15:21",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erfahren Sie an diesem markanten Küstendenkmal mehr über die Walfangvergangenheit der Stadt, das auch einen tollen Aussichtspunkt bietet, um die Wellen an den Mauern brechen zu sehen.",
+            "hu": "Ismerje meg a város bálnavadász múltját ennél a lenyűgöző tengerparti emlékműnél, amely kiváló kilátópontot nyújt a tengerfalnak csapódó hullámok megfigyelésére.",
+            "ro": "Aflați despre trecutul balenier al orașului la acest monument de coastă izbitor, care oferă un punct de observație excelent pentru a privi valurile spărgându-se de ziduri.",
+            "en": "Learn about the town's whaling past at this striking coastal monument, which offers a great vantage point for watching the waves crash against the sea walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de Las Tuervas",
+            "hu": "Casa de Las Tuervas",
+            "ro": "Casa de Las Tuervas",
+            "en": "Casa de Las Tuervas"
+          },
+          "coords": [
+            -6.644298,
+            43.565299
+          ],
+          "category": "historical",
+          "arrive_at": "15:39",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie ein weiteres schönes Beispiel lokaler herrschaftlicher Architektur und beachten Sie die gut erhaltenen Strukturelemente, die das reiche maritime Erbe widerspiegeln.",
+            "hu": "Fedezzen fel egy újabb gyönyörű példát a helyi kastélyépítészetre, megfigyelve a jól megőrzött szerkezeti elemeket, amelyek a régió gazdag tengerészeti örökségét tükrözik.",
+            "ro": "Descoperiți un alt exemplu frumos de arhitectură locală impunătoare, observând elementele structurale bine conservate care reflectă bogata moștenire maritimă a regiunii.",
+            "en": "Discover another beautiful example of local stately architecture, noting the well-preserved structural elements that reflect the region's wealthy maritime heritage."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Beginnen Sie mit der Erkundung der Wurzeln der Stadt im ethnografischen Museum und in der Casa de Méndez Vigo.\nMittags: Gehen Sie weiter zum Casino-Theater und zur Casa Ochoa und genießen Sie das historische Flair der Straßen.\nNachmittags: Zollen Sie am Hafenrand Jovellanos und der Walfanggeschichte der Stadt Tribut.\nAbends: Beenden Sie Ihren Spaziergang an der eleganten Casa de Las Tuervas bei Sonnenuntergang.",
+        "hu": "Reggel: Kezdje a város gyökereinek felfedezését a néprajzi múzeumban és a Casa de Méndez Vigóban.\nDélben: Sétáljon tovább a Kaszinószínház és a Casa Ochoa felé, élvezve az utcák történelmi hangulatát.\nDélután: Tisztelegjen Jovellanos és a bálnavadász múlt emléke előtt a kikötő szélén.\nEste: Fejezze be a sétát az elegáns Casa de Las Tuervas-nál, ahogy a nap lassan lenyugszik.",
+        "ro": "Dimineața: Începeți explorând rădăcinile orașului la muzeul etnografic și la grandioasa Casa de Méndez Vigo.\nPrânz: Continuați spre Teatrul Cazinou și Casa Ochoa, bucurându-vă de atmosfera istorică a străzilor.\nDupă-amiaza: Aduceți un omagiu lui Jovellanos și istoriei baleniere a orașului la marginea portului.\nSeara: Terminați plimbarea la eleganta Casa de Las Tuervas la apusul soarelui.",
+        "en": "Morning: Start by exploring the town's roots at the ethnographic museum and the grand Casa de Méndez Vigo.\nMidday: Move on to the Casino Theater and Casa Ochoa, taking in the historical vibe of the streets.\nAfternoon: Pay tribute to Jovellanos and the town's whaling history at the port's edge.\nEvening: Finish your stroll at the elegant Casa de Las Tuervas as the sun sets."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:50",
+      "total_km": 3.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Monumento al III Marqués de Santa Cruz de Marcenado, D. Alvaro Navia Osorio y Vigil",
+            "hu": "Monumento al III Marqués de Santa Cruz de Marcenado, D. Alvaro Navia Osorio y Vigil",
+            "ro": "Monumento al III Marqués de Santa Cruz de Marcenado, D. Alvaro Navia Osorio y Vigil",
+            "en": "Monumento al III Marqués de Santa Cruz de Marcenado, D. Alvaro Navia Osorio y Vigil"
+          },
+          "coords": [
+            -6.641761,
+            43.56269
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese wichtige historische Ehrung in der Nähe des Ortseingangs, die einen hervorragenden Ausgangspunkt bietet, um die lokalen Adelsgeschlechter zu verstehen.",
+            "hu": "Látogasson el ehhez a fontos történelmi emlékműhöz a város bejáratánál, amely kiváló kiindulópont a helyi nemesi vérvonalak megismeréséhez.",
+            "ro": "Vizitați acest important omagiu istoric din apropierea intrării în oraș, care oferă un punct de plecare excelent pentru înțelegerea neamurilor nobiliare locale.",
+            "en": "Visit this important historical tribute near the town entrance, which provides an excellent starting point for understanding the local noble lineages."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatro Casino de Puerto de Vega",
+            "hu": "Teatro Casino de Puerto de Vega",
+            "ro": "Teatro Casino de Puerto de Vega",
+            "en": "Teatro Casino de Puerto de Vega"
+          },
+          "coords": [
+            -6.648254,
+            43.562492
+          ],
+          "category": "cultural",
+          "arrive_at": "09:28",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erleben Sie das lokale kulturelle Zentrum in diesem historischen Casino-Theater, wo ein Blick an das Schwarze Brett auf interessante Veranstaltungen hinweisen kann.",
+            "hu": "Tapasztalja meg a helyi kulturális központot ebben a történelmi kaszinószínházban, ahol a hirdetőtáblára pillantva érdekes közelgő közösségi eseményeket fedezhet fel.",
+            "ro": "Experimentați centrul cultural local la acest teatru cazinou istoric, unde verificarea avizierului vă poate dezvălui un eveniment comunitar interesant viitor.",
+            "en": "Experience the local cultural hub at this historic casino theater, where checking the local bulletin board might reveal an interesting upcoming community event."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Ochoa",
+            "hu": "Casa Ochoa",
+            "ro": "Casa Ochoa",
+            "en": "Casa Ochoa"
+          },
+          "coords": [
+            -6.650186,
+            43.563127
+          ],
+          "category": "historical",
+          "arrive_at": "10:49",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betrachten Sie die Pracht dieses bedeutenden historischen Wohnsitzes und versuchen Sie, im Morgenlicht für die besten Fotos der beeindruckenden Steinstruktur zu kommen.",
+            "hu": "Figyelje meg ennek a kiemelkedő történelmi rezidenciának a nagyszerűségét, és próbáljon a reggeli fényben érkezni, hogy a legjobb fotókat készíthesse az impozáns kőszerkezetről.",
+            "ro": "Observați măreția acestei reședințe istorice proeminente și încercați să vizitați în lumina dimineții pentru a obține cele mai bune fotografii ale structurii sale impresionante din piatră.",
+            "en": "Observe the grandeur of this prominent historic residence, and try to visit in the morning light for the best photographs of its impressive stone structure."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a Jovellanos",
+            "hu": "Monumento a Jovellanos",
+            "ro": "Monumento a Jovellanos",
+            "en": "Monumento a Jovellanos"
+          },
+          "coords": [
+            -6.648992,
+            43.565789
+          ],
+          "category": "historical",
+          "arrive_at": "12:11",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Zollen Sie dem Denkmal für die berühmte Figur der Aufklärung, die hier starb, Respekt und genießen Sie die ruhige Atmosphäre der kleinen umgebenden Plaza.",
+            "hu": "Tisztelegjen az itt elhunyt híres felvilágosodás kori személyiségnek emléket állító emlékműnél, és élvezze a kis környező tér nyugodt hangulatát.",
+            "ro": "Aduceți un omagiu la monumentul dedicat faimoasei figuri a Iluminismului care a murit aici și bucurați-vă de atmosfera liniștită a micii piețe înconjurătoare.",
+            "en": "Pay respects at the monument dedicated to the famous Enlightenment figure who died here, and enjoy the tranquil atmosphere of the small surrounding plaza."
+          }
+        },
+        {
+          "name": {
+            "de": "\"Playa\" La Losera",
+            "hu": "\"Playa\" La Losera",
+            "ro": "\"Playa\" La Losera",
+            "en": "\"Playa\" La Losera"
+          },
+          "coords": [
+            -6.65663,
+            43.565887
+          ],
+          "category": "landmark",
+          "arrive_at": "12:29",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Genießen Sie den rauen Küstenblick von diesem felsigen Aussichtspunkt und tragen Sie festes Schuhwerk, wenn Sie den unebenen Weg zum Wasser vorsichtig erkunden möchten.",
+            "hu": "Élvezze a zord tengerparti kilátást erről a sziklás tájékozódási pontról, és viseljen masszív cipőt, ha óvatosan szeretné felfedezni a vízhez vezető egyenetlen ösvényt.",
+            "ro": "Bucurați-vă de priveliștile aspre ale coastei din acest punct de reper stâncos, purtând încălțăminte rezistentă dacă plănuiți să explorați cu atenție poteca denivelată spre apă.",
+            "en": "Take in the rugged coastal views from this rocky landmark spot, wearing sturdy shoes if you plan to carefully explore the uneven path down to the water."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Frexulfe",
+            "hu": "Playa de Frexulfe",
+            "ro": "Playa de Frexulfe",
+            "en": "Playa de Frexulfe"
+          },
+          "coords": [
+            -6.676471,
+            43.559517
+          ],
+          "category": "recreational",
+          "arrive_at": "13:05",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2,
+          "tip_5lang": {
+            "de": "Entspannen Sie am weitläufigen Strand dieses wunderschönen Naturstrandes und bringen Sie eigene Snacks und Wasser mit, da die Einrichtungen hier begrenzt sind.",
+            "hu": "Pihenjen ezen a gyönyörű, hatalmas homokos természetes strandon, és hozzon magával saját rágcsálnivalót és vizet, mivel a létesítmények ezen a védett területen korlátozottak.",
+            "ro": "Relaxați-vă pe nisipurile întinse ale acestei frumoase plaje naturale, aducând cu voi propriile gustări și apă, deoarece facilitățile în această zonă protejată sunt limitate.",
+            "en": "Relax on the expansive sands of this beautiful natural beach, bringing along your own snacks and water as facilities in this protected area are limited."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Starten Sie am Denkmal des Marquis, bevor Sie zum historischen Casino-Theater radeln.\nMittags: Gleiten Sie an der majestätischen Casa Ochoa und dem Jovellanos-Denkmal vorbei.\nNachmittags: Fahren Sie zum felsigen Aussichtspunkt La Losera für dramatische Küstenpanoramen.\nAbends: Beenden Sie Ihre Tour am Strand von Frexulfe und genießen Sie den weiten Sand vor Einbruch der Dunkelheit.",
+        "hu": "Reggel: Kezdjen a Márki emlékművénél, mielőtt a történelmi kaszinószínházhoz pedálozna.\nDélben: Guruljon el a fenséges Casa Ochoa és a Jovellanos-emlékmű mellett a város szívében.\nDélután: Irány a La Losera sziklás kilátópontja, ahonnan drámai tengerparti panoráma nyílik.\nEste: Fejezze be az utat a Frexulfe strandon, élvezve a hatalmas homokos területet szürkület előtt.",
+        "ro": "Dimineața: Începeți cu monumentul Marchizului înainte de a pedala spre teatrul cazinou istoric.\nPrânz: Treceți pe lângă maiestuoasa Casa Ochoa și monumentul lui Jovellanos din inima orașului.\nDupă-amiaza: Mergeți la punctul de belvedere stâncos de la La Losera pentru panorame de coastă dramatice.\nSeara: Încheiați cursa la plaja Frexulfe, bucurându-vă de nisipurile deschise înainte de lăsarea întunericului.",
+        "en": "Morning: Kick off with the Marquis' monument before pedaling to the historic casino theater.\nMidday: Glide past the majestic Casa Ochoa and the Jovellanos monument in the heart of town.\nAfternoon: Head to the rocky viewpoint of La Losera for dramatic coastal panoramas.\nEvening: End your ride at Frexulfe Beach, enjoying the wide open sands before dusk."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:50",
+      "total_km": 3.9,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Monumento al III Marqués de Santa Cruz de Marcenado, D. Alvaro Navia Osorio y Vigil",
+            "hu": "Monumento al III Marqués de Santa Cruz de Marcenado, D. Alvaro Navia Osorio y Vigil",
+            "ro": "Monumento al III Marqués de Santa Cruz de Marcenado, D. Alvaro Navia Osorio y Vigil",
+            "en": "Monumento al III Marqués de Santa Cruz de Marcenado, D. Alvaro Navia Osorio y Vigil"
+          },
+          "coords": [
+            -6.641761,
+            43.56269
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese wichtige historische Ehrung in der Nähe des Ortseingangs, die einen hervorragenden Ausgangspunkt bietet, um die lokalen Adelsgeschlechter zu verstehen.",
+            "hu": "Látogasson el ehhez a fontos történelmi emlékműhöz a város bejáratánál, amely kiváló kiindulópont a helyi nemesi vérvonalak megismeréséhez.",
+            "ro": "Vizitați acest important omagiu istoric din apropierea intrării în oraș, care oferă un punct de plecare excelent pentru înțelegerea neamurilor nobiliare locale.",
+            "en": "Visit this important historical tribute near the town entrance, which provides an excellent starting point for understanding the local noble lineages."
+          }
+        },
+        {
+          "name": {
+            "de": "Museo Etnográfico Juan Pérez Villamil",
+            "hu": "Museo Etnográfico Juan Pérez Villamil",
+            "ro": "Museo Etnográfico Juan Pérez Villamil",
+            "en": "Museo Etnográfico Juan Pérez Villamil"
+          },
+          "coords": [
+            -6.646876,
+            43.563268
+          ],
+          "category": "museum",
+          "arrive_at": "09:26",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entdecken Sie die maritime und ländliche Geschichte der Region in diesem charmanten Museum und prüfen Sie vorher die Öffnungszeiten, da diese saisonal variieren.",
+            "hu": "Fedezze fel a régió tengerészeti és vidéki történelmét ebben a bájos múzeumban, és mindenképpen ellenőrizze előzetesen a szezonálisan változó nyitvatartást.",
+            "ro": "Explorați istoria maritimă și rurală a regiunii în acest muzeu fermecător și asigurați-vă că verificați programul în prealabil, deoarece se modifică sezonier.",
+            "en": "Explore the maritime and rural history of the region in this charming museum, and be sure to check the opening hours beforehand as they change seasonally."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa de Méndez Vigo (Casa Samuel)",
+            "hu": "Casa de Méndez Vigo (Casa Samuel)",
+            "ro": "Casa de Méndez Vigo (Casa Samuel)",
+            "en": "Casa de Méndez Vigo (Casa Samuel)"
+          },
+          "coords": [
+            -6.645441,
+            43.563818
+          ],
+          "category": "historical",
+          "arrive_at": "11:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle Architektur dieses historischen Herrenhauses und nehmen Sie sich Zeit, die feinen Details der Fassade vom Kopfsteinpflaster aus zu betrachten.",
+            "hu": "Csodálja meg ennek a történelmi kastélynak a hagyományos építészetét, és szánjon időt a homlokzat bonyolult részleteinek megfigyelésére a macskaköves utcáról.",
+            "ro": "Admirați arhitectura tradițională a acestui conac istoric, făcându-vă timp să observați detaliile complicate ale fațadei de pe strada pietruită.",
+            "en": "Admire the traditional architecture of this historic mansion, taking time to notice the intricate details of its facade from the cobblestone street below."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento a Jovellanos",
+            "hu": "Monumento a Jovellanos",
+            "ro": "Monumento a Jovellanos",
+            "en": "Monumento a Jovellanos"
+          },
+          "coords": [
+            -6.648992,
+            43.565789
+          ],
+          "category": "historical",
+          "arrive_at": "12:28",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Zollen Sie dem Denkmal für die berühmte Figur der Aufklärung, die hier starb, Respekt und genießen Sie die ruhige Atmosphäre der kleinen umgebenden Plaza.",
+            "hu": "Tisztelegjen az itt elhunyt híres felvilágosodás kori személyiségnek emléket állító emlékműnél, és élvezze a kis környező tér nyugodt hangulatát.",
+            "ro": "Aduceți un omagiu la monumentul dedicat faimoasei figuri a Iluminismului care a murit aici și bucurați-vă de atmosfera liniștită a micii piețe înconjurătoare.",
+            "en": "Pay respects at the monument dedicated to the famous Enlightenment figure who died here, and enjoy the tranquil atmosphere of the small surrounding plaza."
+          }
+        },
+        {
+          "name": {
+            "de": "Monumento ballenero",
+            "hu": "Monumento ballenero",
+            "ro": "Monumento ballenero",
+            "en": "Monumento ballenero"
+          },
+          "coords": [
+            -6.646534,
+            43.565526
+          ],
+          "category": "historical",
+          "arrive_at": "12:44",
+          "stay_min": 15,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erfahren Sie an diesem markanten Küstendenkmal mehr über die Walfangvergangenheit der Stadt, das auch einen tollen Aussichtspunkt bietet, um die Wellen an den Mauern brechen zu sehen.",
+            "hu": "Ismerje meg a város bálnavadász múltját ennél a lenyűgöző tengerparti emlékműnél, amely kiváló kilátópontot nyújt a tengerfalnak csapódó hullámok megfigyelésére.",
+            "ro": "Aflați despre trecutul balenier al orașului la acest monument de coastă izbitor, care oferă un punct de observație excelent pentru a privi valurile spărgându-se de ziduri.",
+            "en": "Learn about the town's whaling past at this striking coastal monument, which offers a great vantage point for watching the waves crash against the sea walls."
+          }
+        },
+        {
+          "name": {
+            "de": "Playa de Frexulfe",
+            "hu": "Playa de Frexulfe",
+            "ro": "Playa de Frexulfe",
+            "en": "Playa de Frexulfe"
+          },
+          "coords": [
+            -6.676471,
+            43.559517
+          ],
+          "category": "recreational",
+          "arrive_at": "13:05",
+          "stay_min": 105,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie am weitläufigen Strand dieses wunderschönen Naturstrandes und bringen Sie eigene Snacks und Wasser mit, da die Einrichtungen hier begrenzt sind.",
+            "hu": "Pihenjen ezen a gyönyörű, hatalmas homokos természetes strandon, és hozzon magával saját rágcsálnivalót és vizet, mivel a létesítmények ezen a védett területen korlátozottak.",
+            "ro": "Relaxați-vă pe nisipurile întinse ale acestei frumoase plaje naturale, aducând cu voi propriile gustări și apă, deoarece facilitățile în această zonă protejată sunt limitate.",
+            "en": "Relax on the expansive sands of this beautiful natural beach, bringing along your own snacks and water as facilities in this protected area are limited."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Morgens: Beginnen Sie am Denkmal des Marquis und parken Sie, um das ethnografische Museum zu erkunden.\nMittags: Fahren Sie in die Nähe des Hafens, um die Casa de Méndez Vigo und das Jovellanos-Denkmal zu bewundern.\nNachmittags: Besuchen Sie das markante Walfangdenkmal, um die historische maritime Bedeutung der Region zu erfassen.\nAbends: Fahren Sie ein kurzes Stück nach Westen zum Strand von Frexulfe, um die Wellen in der Natur zu beobachten.",
+        "hu": "Reggel: Kezdjen a Márki emlékműve közelében, majd parkoljon le, hogy felfedezze a néprajzi múzeumot.\nDélben: Vezessen a kikötő közelébe, hogy megcsodálja a Casa de Méndez Vigót és a Jovellanos-emlékművet.\nDélután: Látogasson el a bálnavadász emlékműhöz, hogy megértse a régió történelmi tengerészeti jelentőségét.\nEste: Tegyen egy rövid utat nyugat felé a Frexulfe strandra, hogy érintetlen természeti környezetben nézze a hullámokat.",
+        "ro": "Dimineața: Începeți lângă monumentul Marchizului, apoi parcați pentru a explora muzeul etnografic local.\nPrânz: Conduceți spre port pentru a admira Casa de Méndez Vigo și monumentul apropiat al lui Jovellanos.\nDupă-amiaza: Vizitați monumentul balenier pentru a înțelege importanța maritimă istorică a regiunii.\nSeara: Faceți o scurtă plimbare spre vest, la plaja Frexulfe, pentru a privi valurile într-un cadru natural imaculat.",
+        "en": "Morning: Start near the Marquis' monument before parking to explore the local ethnographic museum.\nMidday: Drive near the harbor to admire Casa de Méndez Vigo and the nearby monument to Jovellanos.\nAfternoon: Visit the striking whaling monument to grasp the region's historic maritime importance.\nEvening: Take a short drive west to Frexulfe Beach to watch the waves in a pristine natural setting."
+      }
+    }
+  }
+}

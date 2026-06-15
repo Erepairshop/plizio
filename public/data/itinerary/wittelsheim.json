@@ -1,0 +1,520 @@
+{
+  "city_id": "wittelsheim",
+  "anchor": {
+    "name": "Wittelsheim",
+    "coords": [
+      7.2375,
+      47.8053
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:19",
+      "total_km": 4.25,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Saint-Michel Church",
+            "hu": "Saint-Michel Church",
+            "ro": "Saint-Michel Church",
+            "en": "Saint-Michel Church"
+          },
+          "coords": [
+            7.241681,
+            47.809658
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtigen Buntglasfenster dieser zentralen Kirche für einen Moment der Besinnung, da das Morgenlicht die Architektur perfekt erhellt.",
+            "hu": "Csodálja meg a központi templom gyönyörű ólomüveg ablakait egy csendes pillanat erejéig, mivel a reggeli fény tökéletesen megvilágítja az épületet.",
+            "ro": "Admirați vitraliile magnifice ale acestei biserici centrale și bucurați-vă de un moment de liniște, deoarece lumina dimineții luminează perfect nava.",
+            "en": "Admire the beautiful stained glass windows of this central church and find a quiet moment of reflection, as morning light perfectly illuminates the nave."
+          }
+        },
+        {
+          "name": {
+            "de": "Wittelsheim Municipal Park",
+            "hu": "Wittelsheim Municipal Park",
+            "ro": "Wittelsheim Municipal Park",
+            "en": "Wittelsheim Municipal Park"
+          },
+          "coords": [
+            7.23745,
+            47.806985
+          ],
+          "category": "recreational",
+          "arrive_at": "09:57",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Spazieren Sie auf den schattigen Wegen dieser grünen Oase, um die Flora zu genießen, und bringen Sie Snacks für ein Picknick auf dem gepflegten Rasen mit.",
+            "hu": "Sétáljon végig e zöld oázis árnyékos ösvényein a helyi növényvilág felfedezéséhez, és hozzon magával harapnivalót egy békés piknikhez a pázsiton.",
+            "ro": "Plimbați-vă pe aleile umbrite ale acestei oaze verzi pentru a aprecia flora locală și aduceți câteva gustări pentru un picnic liniștit pe iarbă.",
+            "en": "Stroll along the shaded pathways of this green oasis to appreciate the local flora, and bring some snacks to enjoy a peaceful picnic on the lawns."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Jean-Bosco",
+            "hu": "Chapelle Saint-Jean-Bosco",
+            "ro": "Chapelle Saint-Jean-Bosco",
+            "en": "Chapelle Saint-Jean-Bosco"
+          },
+          "coords": [
+            7.231316,
+            47.800215
+          ],
+          "category": "religious",
+          "arrive_at": "11:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die intime Atmosphäre dieser charmanten kleinen Kapelle und achten Sie auf die äußeren Details mit typisch regionalen Steinarbeiten.",
+            "hu": "Fedezze fel e bájos kis kápolna meghitt atmoszféráját, és mindenképpen figyelje meg a regionális kőművesmunkákat bemutató külső részleteket.",
+            "ro": "Descoperiți atmosfera intimă a acestei mici capele fermecătoare și asigurați-vă că priviți detaliile exterioare cu piatră regională distinctă.",
+            "en": "Discover the intimate atmosphere of this charming small chapel, and make sure to check the exterior details which feature distinct regional stonework."
+          }
+        },
+        {
+          "name": {
+            "de": "Carreau Joseph-Else",
+            "hu": "Carreau Joseph-Else",
+            "ro": "Carreau Joseph-Else",
+            "en": "Carreau Joseph-Else"
+          },
+          "coords": [
+            7.231607,
+            47.780312
+          ],
+          "category": "historical",
+          "arrive_at": "12:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 33,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese erhaltene Bergbauanlage, um Wittelsheims Vergangenheit zu verstehen, und tragen Sie bequeme Schuhe für das unebene Gelände.",
+            "hu": "Fedezze fel ezt a megőrzött bányászati helyszínt a város múltjának megértéséhez, és viseljen kényelmes cipőt, mivel a történelmi terület burkolatlan.",
+            "ro": "Explorați acest sit minier conservat pentru a înțelege trecutul industrial al orașului și purtați încălțăminte comodă pe terenurile neasfaltate.",
+            "en": "Explore this preserved mining site to understand Wittelsheim's industrial past, and wear comfortable shoes as the historical grounds are partly unpaved."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-du-Rosaire",
+            "hu": "Église Notre-Dame-du-Rosaire",
+            "ro": "Église Notre-Dame-du-Rosaire",
+            "en": "Église Notre-Dame-du-Rosaire"
+          },
+          "coords": [
+            7.223511,
+            47.785132
+          ],
+          "category": "religious",
+          "arrive_at": "14:09",
+          "stay_min": 70,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihren Besuch an dieser stilvollen Kirche, deren beeindruckende Fassade am besten im warmen Licht des späten Nachmittags fotografiert wird.",
+            "hu": "Zárja látogatását ennél az egyedi templomnál, amelynek lenyűgöző homlokzatát a késő délutáni meleg fényben a legjobb lefotózni a környéken.",
+            "ro": "Încheiați vizita la această biserică distinctivă, oferind o fațadă impresionantă ce este cel mai bine fotografiată în lumina caldă a după-amiezii.",
+            "en": "Conclude your visit at this distinctively styled church, offering an impressive facade best captured in the warm light of the late afternoon."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie im Stadtzentrum mit einem friedlichen Besuch der Saint-Michel Church. Ein erfrischender Spaziergang durch den üppigen Municipal Park weckt die Lebensgeister.\n\nEntdecken Sie am Mittag die stille Chapelle Saint-Jean-Bosco, bevor Sie nach Süden in das ehemalige Industrieherz der Stadt aufbrechen.\n\nVerbringen Sie den Nachmittag am Carreau Joseph-Else und lernen Sie das Bergbauerbe kennen, das Wittelsheim über Generationen geprägt hat.\n\nBeenden Sie Ihren Spaziergang an der Église Notre-Dame-du-Rosaire, wo Sie die späte Nachmittagssonne genießen können, bevor Sie ein herzhaftes elsässisches Abendessen einnehmen.",
+        "hu": "Kezdje a napot a városközpontban a Saint-Michel Church békés meglátogatásával. Ezután tegyen egy frissítő sétát a Municipal Park buja ösvényein.\n\nKora délután fedezze fel a csendes Chapelle Saint-Jean-Bosco-t, mielőtt dél felé indulna a város történelmi ipari szívébe.\n\nTöltse a délutánt a Carreau Joseph-Else-nél, ahol megismerheti azt a bányászati örökséget, amely generációkon át meghatározta Wittelsheimot.\n\nFejezze be sétáját az Église Notre-Dame-du-Rosaire-nél, magába szívva a késő délutáni napsütést, mielőtt egy kiadós elzászi vacsorát fogyasztana a közelben.",
+        "ro": "Începeți în centrul orașului cu o vizită pașnică la Saint-Michel Church. Apoi, bucurați-vă de o plimbare revigorantă prin aleile luxuriante ale Municipal Park.\n\nDescoperiți liniștita Chapelle Saint-Jean-Bosco la amiază, înainte de a vă îndrepta spre sud către inima industrială istorică a orașului.\n\nPetreceți după-amiaza la Carreau Joseph-Else, învățând despre moștenirea minieră care a definit orașul Wittelsheim timp de generații.\n\nÎncheiați plimbarea la Église Notre-Dame-du-Rosaire, bucurându-vă de soarele târziu al după-amiezii înainte de a lua o cină tradițională alsaciană.",
+        "en": "Start in the city center with a peaceful visit to Saint-Michel Church. Then, enjoy a refreshing walk through the lush pathways of the Municipal Park.\n\nDiscover the quiet Chapelle Saint-Jean-Bosco during midday before heading south towards the historical industrial heart of the city.\n\nSpend your afternoon at Carreau Joseph-Else, learning about the mining heritage that defined Wittelsheim for generations.\n\nFinish your walk at Église Notre-Dame-du-Rosaire, soaking in the late afternoon sun before grabbing a hearty Alsatian dinner nearby."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:45",
+      "total_km": 8.0,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Découverte de la potasse d'Alsace",
+            "hu": "Découverte de la potasse d'Alsace",
+            "ro": "Découverte de la potasse d'Alsace",
+            "en": "Découverte de la potasse d'Alsace"
+          },
+          "coords": [
+            7.258006,
+            47.786558
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Tauchen Sie ein in die Geschichte des Kalibergbaus, der die Region prägte, und beachten Sie die Infotafeln zu den Abbauverfahren.",
+            "hu": "Merüljön el a káliumbányászat történetében, amely az egész régiót formálta, és keresse a kitermelési technikákat elmagyarázó táblákat.",
+            "ro": "Cufundați-vă în povestea exploatării potasiului care a modelat regiunea și căutați panourile ce explică tehnicile complexe de extracție.",
+            "en": "Immerse yourself in the story of potash mining that shaped the region, and look for the detailed boards explaining complex extraction techniques."
+          }
+        },
+        {
+          "name": {
+            "de": "Église du Christ-Roi",
+            "hu": "Église du Christ-Roi",
+            "ro": "Église du Christ-Roi",
+            "en": "Église du Christ-Roi"
+          },
+          "coords": [
+            7.2526,
+            47.786058
+          ],
+          "category": "religious",
+          "arrive_at": "10:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Betreten Sie diesen modernen Sakralbau, um seine architektonischen Kontraste zu bewundern, die eine völlig einzigartige Akustik schaffen.",
+            "hu": "Lépjen be ebbe a modern vallási épületbe az építészeti kontrasztok értékeléséhez, amely egyedülálló akusztikai környezetet teremt a belső térben.",
+            "ro": "Pășiți în această structură modernă pentru a-i aprecia contrastele arhitecturale care creează un mediu acustic interior cu totul unic.",
+            "en": "Step inside this modern religious structure to appreciate its stark architectural contrasts, creating a truly unique acoustic environment."
+          }
+        },
+        {
+          "name": {
+            "de": "Carreau Joseph-Else",
+            "hu": "Carreau Joseph-Else",
+            "ro": "Carreau Joseph-Else",
+            "en": "Carreau Joseph-Else"
+          },
+          "coords": [
+            7.231607,
+            47.780312
+          ],
+          "category": "historical",
+          "arrive_at": "11:22",
+          "stay_min": 80,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Erkunden Sie die Bergbauanlage, um Wittelsheims industrielle Vergangenheit zu verstehen, und sichern Sie Ihr Fahrrad am Haupteingang.",
+            "hu": "Fedezze fel a bányászati helyszínt Wittelsheim ipari múltjának megértéséhez, és a nyugodt séta érdekében zárja le kerékpárját a főbejáratnál.",
+            "ro": "Explorați acest sit minier pentru a înțelege trecutul industrial al orașului și asigurați-vă bicicleta în siguranță la intrarea principală.",
+            "en": "Explore this preserved mining site to understand Wittelsheim's rich industrial past, and be sure to safely lock your bike near the main entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Jean-Bosco",
+            "hu": "Chapelle Saint-Jean-Bosco",
+            "ro": "Chapelle Saint-Jean-Bosco",
+            "en": "Chapelle Saint-Jean-Bosco"
+          },
+          "coords": [
+            7.231316,
+            47.800215
+          ],
+          "category": "religious",
+          "arrive_at": "12:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie die intime Atmosphäre dieser Kapelle, die lokale Hingabe offenbart, und nutzen Sie den ruhigen Vorplatz für eine kurze Radpause.",
+            "hu": "Fedezze fel e kis kápolna meghitt atmoszféráját, és használja ki a csendes előteret egy rövid pihenőre a kerékpározás közben.",
+            "ro": "Descoperiți atmosfera intimă a acestei capele fermecătoare și folosiți curtea liniștită pentru o scurtă pauză de la pedalat.",
+            "en": "Discover the intimate atmosphere of this charming small chapel, and use its quiet front area for a quick break from cycling."
+          }
+        },
+        {
+          "name": {
+            "de": "Wittelsheim Municipal Park",
+            "hu": "Wittelsheim Municipal Park",
+            "ro": "Wittelsheim Municipal Park",
+            "en": "Wittelsheim Municipal Park"
+          },
+          "coords": [
+            7.23745,
+            47.806985
+          ],
+          "category": "recreational",
+          "arrive_at": "13:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Radeln Sie durch die schattigen Wege dieser grünen Oase und bringen Sie Snacks für ein friedliches Picknick auf den gepflegten Rasenflächen mit.",
+            "hu": "Tekerjen át e zöld oázis árnyékos ösvényein, és hozzon magával némi harapnivalót egy békés piknikhez a gondozott pázsiton.",
+            "ro": "Pedalați pe aleile umbrite ale acestei oaze verzi și aduceți câteva gustări pentru un picnic liniștit pe peluzele excelent întreținute.",
+            "en": "Cycle through the shaded pathways of this green oasis, and bring some snacks to enjoy a peaceful picnic on the well-maintained lawns."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Michel Church",
+            "hu": "Saint-Michel Church",
+            "ro": "Saint-Michel Church",
+            "en": "Saint-Michel Church"
+          },
+          "coords": [
+            7.241681,
+            47.809658
+          ],
+          "category": "religious",
+          "arrive_at": "14:57",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Bewundern Sie die prächtigen Buntglasfenster dieser zentralen Kirche, die ein perfektes architektonisches Highlight auf Ihrer Stadttour bietet.",
+            "hu": "Csodálja meg a központi templom gyönyörű ólomüveg ablakait, amely tökéletes építészeti fénypontot nyújt a városi kerékpártúrán.",
+            "ro": "Admirați vitraliile magnifice ale acestei biserici centrale, care oferă un punct de atracție arhitectural perfect în turul dumneavoastră.",
+            "en": "Admire the beautiful stained glass windows of this central church, which provides a perfect architectural highlight on your cycling tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Place du Chaperon Rouge",
+            "hu": "Place du Chaperon Rouge",
+            "ro": "Place du Chaperon Rouge",
+            "en": "Place du Chaperon Rouge"
+          },
+          "coords": [
+            7.266805,
+            47.823554
+          ],
+          "category": "family",
+          "arrive_at": "15:50",
+          "stay_min": 55,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Machen Sie eine Pause auf diesem Platz, der Märchen ehrt, und holen Sie sich einen Kaffee, während Sie sich vom Radfahren erholen.",
+            "hu": "Tartson pihentető szünetet ezen a meséket idéző téren, és igyon egy kávét a közelben, miközben kipiheni a kerékpározás fáradalmait.",
+            "ro": "Luați o pauză în această piață dedicată poveștilor și cumpărați o cafea din apropiere în timp ce vă relaxați după o zi activă.",
+            "en": "Take a relaxing break at this square honoring classic fairy tales, and grab a coffee nearby while unwinding from your active cycling day."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie morgens nach Süden, um die reiche Geschichte bei Découverte de la potasse d'Alsace zu entdecken und die moderne Église du Christ-Roi zu bewundern.\n\nFahren Sie mittags zum Carreau Joseph-Else für ein historisches Erlebnis und lenken Sie dann in Richtung Zentrum zur Chapelle Saint-Jean-Bosco.\n\nAm Nachmittag radeln Sie gemütlich durch den Municipal Park und halten an der Saint-Michel Church, um deren Architektur zu würdigen.\n\nBeenden Sie Ihre Radtour im Norden an der Place du Chaperon Rouge, einem märchenhaften Ort, der sich perfekt zum Entspannen nach einem aktiven Tag eignet.",
+        "hu": "Tekerjen délre a reggeli órákban a Découverte de la potasse d'Alsace történelmének felfedezéséhez és az Église du Christ-Roi megcsodálásához.\n\nDélben látogasson el a Carreau Joseph-Else lenyűgöző komplexumához, majd induljon a központ felé a csendes Chapelle Saint-Jean-Bosco irányába.\n\nDélután kerekezzen át a pihentető Municipal Parkon, és álljon meg a Saint-Michel Church épületénél egy kis kulturális feltöltődésre.\n\nZárja a kerékpártúrát északon a Place du Chaperon Rouge-nál, amely egy varázslatos és tökéletes helyszín az aktív nap levezetésére.",
+        "ro": "Pedalați spre sud dimineața pentru a descoperi istoria bogată la Découverte de la potasse d'Alsace și a admira arhitectura Église du Christ-Roi.\n\nMergeți la prânz la Carreau Joseph-Else pentru o experiență istorică captivantă, apoi îndreptați-vă spre centru pentru a vedea Chapelle Saint-Jean-Bosco.\n\nDupă-amiaza, pedalați prin relaxantul Municipal Park și opriți-vă la Saint-Michel Church pentru a-i aprecia vitraliile și detaliile.\n\nÎncheiați-vă plimbarea în nord la Place du Chaperon Rouge, un loc magic perfect pentru a vă relaxa după o zi activă pe bicicletă.",
+        "en": "Pedal south in the morning to uncover the rich history at Découverte de la potasse d'Alsace and admire the architecture of Église du Christ-Roi.\n\nRide to Carreau Joseph-Else during midday for an immersive historical experience, then head towards the center to see Chapelle Saint-Jean-Bosco.\n\nCycle through the relaxing Municipal Park in the afternoon and stop by Saint-Michel Church to appreciate its beautiful stained glass.\n\nConclude your ride in the north at Place du Chaperon Rouge, a whimsical spot perfect for unwinding after an active day of cycling."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:09",
+      "total_km": 11.75,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Gall",
+            "hu": "Église Saint-Gall",
+            "ro": "Église Saint-Gall",
+            "en": "Église Saint-Gall"
+          },
+          "coords": [
+            7.250196,
+            47.825517
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die historische Bedeutung und solide Struktur dieser nördlichen Kirche, deren Altar ein tiefes Gefühl lokaler Kontinuität vermittelt.",
+            "hu": "Csodálja meg az északi templom jelentőségét, ahol a gyönyörűen megőrzött oltár a helyi folytonosság mély érzését nyújtja minden látogatónak.",
+            "ro": "Admirați semnificația istorică și structura solidă a acestei biserici, unde altarul conservat oferă un sentiment profund de continuitate.",
+            "en": "Marvel at the historical significance and solid structure of this northern church, where the preserved altar provides a deep sense of continuity."
+          }
+        },
+        {
+          "name": {
+            "de": "Place du Chaperon Rouge",
+            "hu": "Place du Chaperon Rouge",
+            "ro": "Place du Chaperon Rouge",
+            "en": "Place du Chaperon Rouge"
+          },
+          "coords": [
+            7.266805,
+            47.823554
+          ],
+          "category": "family",
+          "arrive_at": "09:53",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Machen Sie eine kurze Pause auf diesem märchenhaften Platz und nutzen Sie die nahegelegenen Straßen für ein einfaches Parken des Autos.",
+            "hu": "Tartson egy rövid szünetet ezen a meséket idéző téren, és használja ki a közeli utcákat az autó kényelmes és ingyenes leparkolására.",
+            "ro": "Faceți o scurtă pauză în această piață de basm și profitați de străzile din apropiere pentru o parcare ușoară și rapidă a mașinii.",
+            "en": "Take a quick break at this fairy-tale themed square, and utilize the nearby residential streets for easy and convenient car parking."
+          }
+        },
+        {
+          "name": {
+            "de": "Saint-Michel Church",
+            "hu": "Saint-Michel Church",
+            "ro": "Saint-Michel Church",
+            "en": "Saint-Michel Church"
+          },
+          "coords": [
+            7.241681,
+            47.809658
+          ],
+          "category": "religious",
+          "arrive_at": "10:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.4,
+          "tip_5lang": {
+            "de": "Lassen Sie das Auto stehen und bewundern Sie die prächtigen Buntglasfenster dieser zentralen Kirche, die das Morgenlicht perfekt einfangen.",
+            "hu": "Hagyja hátra az autót, és csodálja meg a központi templom ólomüveg ablakait, amelyek tökéletesen befogadják a délelőtti napfényt.",
+            "ro": "Lăsați mașina și admirați vitraliile magnifice ale acestei biserici centrale, care captează perfect lumina dimineții târzii.",
+            "en": "Leave the car parked nearby to admire the beautiful stained glass windows of this central church, perfectly capturing the late morning light."
+          }
+        },
+        {
+          "name": {
+            "de": "Wittelsheim Municipal Park",
+            "hu": "Wittelsheim Municipal Park",
+            "ro": "Wittelsheim Municipal Park",
+            "en": "Wittelsheim Municipal Park"
+          },
+          "coords": [
+            7.23745,
+            47.806985
+          ],
+          "category": "recreational",
+          "arrive_at": "11:06",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Genießen Sie einen Spaziergang auf den schattigen Wegen und holen Sie Ihr Picknickzeug aus dem Kofferraum für eine Pause auf dem Rasen.",
+            "hu": "Élvezze a sétát az árnyékos ösvényeken, és vegye elő a piknikfelszerelést a csomagtartóból egy kellemes pihenőhöz a gondozott pázsiton.",
+            "ro": "Bucurați-vă de o plimbare pe aleile umbrite și luați coșul de picnic din portbagaj pentru o pauză relaxantă pe peluzele verzi.",
+            "en": "Enjoy a stroll along the shaded pathways and grab your picnic supplies from the trunk for a relaxing break on the well-maintained lawns."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Jean-Bosco",
+            "hu": "Chapelle Saint-Jean-Bosco",
+            "ro": "Chapelle Saint-Jean-Bosco",
+            "en": "Chapelle Saint-Jean-Bosco"
+          },
+          "coords": [
+            7.231316,
+            47.800215
+          ],
+          "category": "religious",
+          "arrive_at": "12:23",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die intime Atmosphäre dieser kleinen Kapelle und beachten Sie die steinernen Details, bevor Sie weiter in den Süden fahren.",
+            "hu": "Fedezze fel e kis kápolna meghitt atmoszféráját, és figyelje meg a kőből készült részleteket, mielőtt autóval továbbhaladna dél felé.",
+            "ro": "Descoperiți atmosfera intimă a acestei mici capele și observați detaliile din piatră înainte de a conduce mai departe spre sud.",
+            "en": "Discover the intimate atmosphere of this small chapel and notice the regional stone details before driving further into the southern district."
+          }
+        },
+        {
+          "name": {
+            "de": "Carreau Joseph-Else",
+            "hu": "Carreau Joseph-Else",
+            "ro": "Carreau Joseph-Else",
+            "en": "Carreau Joseph-Else"
+          },
+          "coords": [
+            7.231607,
+            47.780312
+          ],
+          "category": "historical",
+          "arrive_at": "13:08",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Nutzen Sie den großen Parkplatz der Bergbauanlage, um Wittelsheims industrielle Vergangenheit in aller Ruhe und mit bequemen Schuhen zu erkunden.",
+            "hu": "Használja a bányászati helyszín tágas parkolóját, hogy kényelmes cipőben, nyugodtan felfedezhesse Wittelsheim lenyűgöző ipari múltját.",
+            "ro": "Folosiți parcarea mare a sitului minier pentru a explora trecutul industrial al orașului în liniște, purtând încălțăminte confortabilă.",
+            "en": "Utilize the large parking area at the mining site to comfortably explore Wittelsheim's industrial past on foot at your own pace."
+          }
+        },
+        {
+          "name": {
+            "de": "Découverte de la potasse d'Alsace",
+            "hu": "Découverte de la potasse d'Alsace",
+            "ro": "Découverte de la potasse d'Alsace",
+            "en": "Découverte de la potasse d'Alsace"
+          },
+          "coords": [
+            7.258006,
+            47.786558
+          ],
+          "category": "historical",
+          "arrive_at": "14:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Fahren Sie eine kurze Strecke weiter, um mehr über die Geschichte des Kalibergbaus und die komplexen Abbauverfahren der Region zu erfahren.",
+            "hu": "Vezessen tovább egy rövid szakaszon, hogy még többet megtudjon a káliumbányászat történetéről és a régió bonyolult kitermelési eljárásairól.",
+            "ro": "Conduceți o distanță scurtă pentru a afla mai multe despre istoria exploatării potasiului și metodele complexe de extracție din regiune.",
+            "en": "Drive a short distance further to learn deeply about the history of potash mining and the complex extraction methods shaping the region."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame-du-Rosaire",
+            "hu": "Église Notre-Dame-du-Rosaire",
+            "ro": "Église Notre-Dame-du-Rosaire",
+            "en": "Église Notre-Dame-du-Rosaire"
+          },
+          "coords": [
+            7.223511,
+            47.785132
+          ],
+          "category": "religious",
+          "arrive_at": "15:59",
+          "stay_min": 70,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.6,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Autotour an dieser stilvollen Kirche, deren beeindruckende Fassade im späten Nachmittagslicht wunderbar zur Geltung kommt.",
+            "hu": "Zárja autós túráját ennél a különleges stílusú templomnál, amelynek homlokzata csodálatosan mutat a késő délutáni napfényben.",
+            "ro": "Încheiați-vă turul auto la această biserică elegantă, a cărei fațadă impresionantă iese în evidență minunat în lumina după-amiezii târzii.",
+            "en": "End your car tour at this stylish church, whose impressive architectural facade is beautifully highlighted in the late afternoon sun."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie am Morgen zur nördlichen Église Saint-Gall und zur Place du Chaperon Rouge, um die ruhigeren Wohnviertel zu erkunden.\n\nFahren Sie zur Mittagszeit in die Innenstadt zur Saint-Michel Church, gefolgt von einem Spaziergang im Municipal Park und einem Halt an der Chapelle Saint-Jean-Bosco.\n\nNavigieren Sie nachmittags nach Süden, um am Carreau Joseph-Else und der Découverte de la potasse tief in Wittelsheims Wurzeln einzutauchen.\n\nBeenden Sie Ihre Tour an der Église Notre-Dame-du-Rosaire. Parken Sie in der Nähe und genießen Sie die Abendstimmung in dieser historischen elsässischen Stadt.",
+        "hu": "Reggel vezessen az északi Église Saint-Gall és a Place du Chaperon Rouge felé, felfedezve a település csendesebb lakónegyedeit.\n\nDélben látogasson el a központban a Saint-Michel Church-höz, sétáljon egyet a Municipal Parkban, majd álljon meg a bájos Chapelle Saint-Jean-Bosco-nál.\n\nDélután navigáljon délre, hogy a Carreau Joseph-Else és a Découverte de la potasse d'Alsace bejárásával elmerüljön Wittelsheim gyökereiben.\n\nFejezze be a túrát az Église Notre-Dame-du-Rosaire-nél. Parkoljon le a közelben, és élvezze az esti hangulatot ebben a történelmi elzászi városban.",
+        "ro": "Conduceți dimineața către Église Saint-Gall și Place du Chaperon Rouge din nord, explorând cartierele rezidențiale mai liniștite.\n\nMergeți în centru la amiază pentru a vizita Saint-Michel Church, urmată de o plimbare în Municipal Park și o oprire la Chapelle Saint-Jean-Bosco.\n\nNavigați spre sud după-amiaza pentru a vă scufunda adânc în rădăcinile industriale la Carreau Joseph-Else și Découverte de la potasse d'Alsace.\n\nTerminați-vă turul la Église Notre-Dame-du-Rosaire. Parcați mașina în apropiere și bucurați-vă de atmosfera de seară în acest oraș alsacian.",
+        "en": "Drive in the morning to the northern Église Saint-Gall and Place du Chaperon Rouge, actively exploring the quieter residential neighborhoods.\n\nHead downtown midday to visit Saint-Michel Church, followed by a pleasant stroll in the Municipal Park and a quick stop at Chapelle Saint-Jean-Bosco.\n\nNavigate south in the afternoon to dive deep into Wittelsheim's roots at Carreau Joseph-Else and the fascinating Découverte de la potasse d'Alsace.\n\nFinish your driving tour at Église Notre-Dame-du-Rosaire. Park nearby and enjoy the relaxing evening atmosphere in this historically rich Alsatian town."
+      }
+    }
+  }
+}

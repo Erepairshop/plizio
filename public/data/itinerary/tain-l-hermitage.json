@@ -1,0 +1,566 @@
+{
+  "city_id": "tain-l-hermitage",
+  "anchor": {
+    "name": "Tain-l'Hermitage",
+    "coords": [
+      4.8425,
+      45.0706
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "17:11",
+      "total_km": 2.71,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Valrhona Cité du Chocolat",
+            "hu": "Valrhona Cité du Chocolat",
+            "ro": "Valrhona Cité du Chocolat",
+            "en": "Valrhona Cité du Chocolat"
+          },
+          "coords": [
+            4.843375,
+            45.068568
+          ],
+          "category": "culinary",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Kunst der Schokoladenherstellung in interaktiven Ausstellungen und besuchen Sie die Boutique frühzeitig für exklusive Sorten.",
+            "hu": "Fedezze fel a csokoládékészítés művészetét interaktív kiállításokon és kóstolókon, és érdemes korán érkezni a butik exkluzív ízeinek megkóstolásához.",
+            "ro": "Descoperiți arta fabricării ciocolatei prin expoziții interactive și degustări, și vizitați magazinul devreme pentru a găsi arome cu adevărat exclusive.",
+            "en": "Discover the art of chocolate-making through interactive exhibits and tastings, and be sure to visit the boutique for exclusive flavors early in the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame",
+            "hu": "Église Notre-Dame",
+            "ro": "Église Notre-Dame",
+            "en": "Église Notre-Dame"
+          },
+          "coords": [
+            4.838527,
+            45.069389
+          ],
+          "category": "religious",
+          "arrive_at": "10:56",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Buntglasfenster dieser zentralen Kirche, wobei der Eintritt frei ist, aber respektvolle Stille von den Besuchern erwartet wird.",
+            "hu": "Csodálja meg e központi templom gyönyörű ólomüveg ablakait és nyugodt légkörét, szem előtt tartva, hogy a belépés ingyenes, de csendet várnak el.",
+            "ro": "Admirați vitraliile frumoase și atmosfera senină a acestei biserici centrale, reținând că intrarea este gratuită, dar se impune o liniște respectuoasă.",
+            "en": "Admire the beautiful stained glass and serene atmosphere of this central church, keeping in mind that entry is free but respectful silence is required."
+          }
+        },
+        {
+          "name": {
+            "de": "Marc Seguin Footbridge",
+            "hu": "Marc Seguin Footbridge",
+            "ro": "Marc Seguin Footbridge",
+            "en": "Marc Seguin Footbridge"
+          },
+          "coords": [
+            4.835685,
+            45.06946
+          ],
+          "category": "historical",
+          "arrive_at": "11:39",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese historische Hängebrücke über die Rhône für fantastische Ausblicke auf die Weinberge und tragen Sie bequeme Schuhe für den windigen Spaziergang.",
+            "hu": "Keljen át ezen a történelmi függőhídon a Rhône folyó felett a szőlőültetvények csodás kilátásáért, és viseljen kényelmes cipőt a szeles sétához.",
+            "ro": "Traversați acest pod suspendat istoric peste râul Rhône pentru vederi fantastice asupra podgoriilor și purtați încălțăminte comodă pentru plimbarea vântoasă.",
+            "en": "Cross this historic suspension bridge spanning the Rhône river for fantastic views of the vineyards, and wear comfortable shoes for the slightly breezy walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Autel du Taurobole",
+            "hu": "Autel du Taurobole",
+            "ro": "Autel du Taurobole",
+            "en": "Autel du Taurobole"
+          },
+          "coords": [
+            4.836945,
+            45.071614
+          ],
+          "category": "landmark",
+          "arrive_at": "13:03",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.26,
+          "tip_5lang": {
+            "de": "Betrachten Sie diesen faszinierenden römischen Opferaltar, der die antike Geschichte der Region widerspiegelt und sich auf einem ruhigen Platz befindet.",
+            "hu": "Vizsgálja meg ezt a lenyűgöző római áldozati oltárt, amely a régió ősi történelmét tükrözi, és egy csendes téren található, ideális egy fotószünetre.",
+            "ro": "Examinați acest fascinant altar roman de sacrificiu care reflectă istoria antică a regiunii, situat într-o piață liniștită perfectă pentru o scurtă pauză foto.",
+            "en": "Examine this fascinating Roman sacrificial altar which reflects the ancient history of the region, located in a quiet square perfect for a brief photo stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison M. Chapoutier",
+            "hu": "Maison M. Chapoutier",
+            "ro": "Maison M. Chapoutier",
+            "en": "Maison M. Chapoutier"
+          },
+          "coords": [
+            4.839504,
+            45.071039
+          ],
+          "category": "culinary",
+          "arrive_at": "13:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Erleben Sie erstklassige Weinproben auf diesem legendären Weingut der Hermitage-Weine, und buchen Sie Ihren Termin im Voraus, um Wartezeiten zu vermeiden.",
+            "hu": "Vegyen részt egy világszínvonalú borkóstolón ezen a legendás Hermitage borokat gyártó birtokon, és a várakozás elkerülése érdekében foglaljon előre időpontot.",
+            "ro": "Experimentați o degustare de vinuri de clasă mondială la această proprietate legendară, și rezervați-vă din timp locul pentru a evita așteptarea nedorită.",
+            "en": "Experience world-class wine tasting at this legendary estate producing famous Hermitage wines, and book your tasting slot in advance to avoid waiting."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Christophe",
+            "hu": "Chapelle Saint-Christophe",
+            "ro": "Chapelle Saint-Christophe",
+            "en": "Chapelle Saint-Christophe"
+          },
+          "coords": [
+            4.836482,
+            45.078562
+          ],
+          "category": "religious",
+          "arrive_at": "15:24",
+          "stay_min": 40,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 0.86,
+          "tip_5lang": {
+            "de": "Steigen Sie zu dieser malerischen Kapelle auf dem von Weinbergen umgebenen Hügel hinauf und bringen Sie unbedingt eine Flasche Wasser für den steilen Aufstieg mit.",
+            "hu": "Másszon fel ehhez az ikonikus hegytetőn álló kápolnához a teraszos szőlők között egy lélegzetelállító panorámáért, és hozzon magával egy üveg vizet a túrához.",
+            "ro": "Urcați la această capelă iconică de pe deal, înconjurată de podgorii terasate, pentru o panoramă uluitoare, asigurându-vă că aveți apă pentru drumeția abruptă.",
+            "en": "Climb up to this iconic hilltop chapel surrounded by terraced vineyards for a breathtaking panorama, making sure to bring a bottle of water for the steep hike."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvédère de Pierre-Aiguille",
+            "hu": "Belvédère de Pierre-Aiguille",
+            "ro": "Belvédère de Pierre-Aiguille",
+            "en": "Belvédère de Pierre-Aiguille"
+          },
+          "coords": [
+            4.837322,
+            45.085631
+          ],
+          "category": "natural",
+          "arrive_at": "16:16",
+          "stay_min": 55,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 0.78,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die weite Landschaft der Rhône-Schleife von diesem erhöhten natürlichen Aussichtspunkt, idealerweise am späten Nachmittag für das beste Licht.",
+            "hu": "Csodálja meg a Rhône folyó kanyarulatának lenyűgöző táját erről a természetes kilátóról, amelyet ideális esetben késő délután érdemes felkeresni a szép fények miatt.",
+            "ro": "Admirați peisajul vast al curburii râului Rhône de la acest punct de belvedere natural, fiind ideal să-l vizitați după-amiaza târziu pentru cea mai bună lumină.",
+            "en": "Marvel at the sweeping landscape of the Rhône bend from this elevated natural viewpoint, ideally visiting late in the afternoon for the most stunning lighting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt mit einem Eintauchen in die Schokoladenkunst, gefolgt von der ruhigen Église Notre-Dame. Mittags bewundern Sie die Rhône von der Marc Seguin Brücke und römische Relikte. Der Nachmittag bietet eine Weinprobe im Maison M. Chapoutier. Abends belohnt Sie eine Wanderung zur Chapelle Saint-Christophe und zum Aussichtspunkt mit herrlichen Ausblicken.",
+        "hu": "A reggel a csokoládékészítés rejtelmeivel és a békés Église Notre-Dame megtekintésével indul. Délben a Rhône folyót csodálhatja meg a Marc Seguin hídról, majd ősi római emlékeket talál. A délután egy prémium borkóstoló a Maison M. Chapoutier-nél. Az estét a Chapelle Saint-Christophe-hoz tett túra és a lenyűgöző naplementés panoráma teszi felejthetetlenné.",
+        "ro": "Dimineața începe cu o imersiune în arta ciocolatei înainte de o plimbare spre senina Église Notre-Dame. La amiază admirați Rhône-ul de pe podul Marc Seguin și descoperiți relicve romane. După-amiaza vă aduce o degustare de vinuri la Maison M. Chapoutier. Seara vă răsplătește cu o drumeție la capela Saint-Christophe și un apus panoramic de neuitat.",
+        "en": "Morning begins with a sensory immersion into chocolate making before a stroll to the serene Église Notre-Dame. Midday is spent admiring the Rhône from the historic Marc Seguin Footbridge and finding ancient Roman relics. Afternoon features a premium wine tasting at Maison M. Chapoutier. Evening rewards you with a sunset hike to the iconic Chapelle Saint-Christophe and sweeping viewpoints."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:30",
+      "total_km": 3.8,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "M.J.C.",
+            "hu": "M.J.C.",
+            "ro": "M.J.C.",
+            "en": "M.J.C."
+          },
+          "coords": [
+            4.855851,
+            45.07038
+          ],
+          "category": "cultural",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die lokalen kulturellen Ausstellungen in diesem Gemeindezentrum, wobei ein Blick auf das Online-Programm im Voraus die besten Veranstaltungen sichert.",
+            "hu": "Tekintse meg a helyi kulturális kiállításokat és eseményeket ebben a közösségi központban, ahol az online menetrend előzetes ellenőrzése garantálja a legjobb műsorokat.",
+            "ro": "Descoperiți expozițiile și evenimentele culturale locale găzduite la acest centru comunitar, unde verificarea programului online vă garantează cele mai bune spectacole.",
+            "en": "Check out the local cultural exhibitions and events hosted at this community center, where checking their online schedule beforehand guarantees you catch the best shows."
+          }
+        },
+        {
+          "name": {
+            "de": "Valrhona Cité du Chocolat",
+            "hu": "Valrhona Cité du Chocolat",
+            "ro": "Valrhona Cité du Chocolat",
+            "en": "Valrhona Cité du Chocolat"
+          },
+          "coords": [
+            4.843375,
+            45.068568
+          ],
+          "category": "culinary",
+          "arrive_at": "09:55",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Kunst der Schokoladenherstellung in interaktiven Ausstellungen und besuchen Sie die Boutique frühzeitig für exklusive Sorten.",
+            "hu": "Fedezze fel a csokoládékészítés művészetét interaktív kiállításokon és kóstolókon, és érdemes korán érkezni a butik exkluzív ízeinek megkóstolásához.",
+            "ro": "Descoperiți arta fabricării ciocolatei prin expoziții interactive și degustări, și vizitați magazinul devreme pentru a găsi arome cu adevărat exclusive.",
+            "en": "Discover the art of chocolate-making through interactive exhibits and tastings, and be sure to visit the boutique for exclusive flavors early in the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Notre-Dame",
+            "hu": "Église Notre-Dame",
+            "ro": "Église Notre-Dame",
+            "en": "Église Notre-Dame"
+          },
+          "coords": [
+            4.838527,
+            45.069389
+          ],
+          "category": "religious",
+          "arrive_at": "11:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.38,
+          "tip_5lang": {
+            "de": "Bewundern Sie die wunderschönen Buntglasfenster dieser zentralen Kirche, wobei der Eintritt frei ist, aber respektvolle Stille von den Besuchern erwartet wird.",
+            "hu": "Csodálja meg e központi templom gyönyörű ólomüveg ablakait és nyugodt légkörét, szem előtt tartva, hogy a belépés ingyenes, de csendet várnak el.",
+            "ro": "Admirați vitraliile frumoase și atmosfera senină a acestei biserici centrale, reținând că intrarea este gratuită, dar se impune o liniște respectuoasă.",
+            "en": "Admire the beautiful stained glass and serene atmosphere of this central church, keeping in mind that entry is free but respectful silence is required."
+          }
+        },
+        {
+          "name": {
+            "de": "Marc Seguin Footbridge",
+            "hu": "Marc Seguin Footbridge",
+            "ro": "Marc Seguin Footbridge",
+            "en": "Marc Seguin Footbridge"
+          },
+          "coords": [
+            4.835685,
+            45.06946
+          ],
+          "category": "historical",
+          "arrive_at": "12:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.22,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese historische Hängebrücke über die Rhône für fantastische Ausblicke auf die Weinberge und tragen Sie bequeme Schuhe für den windigen Spaziergang.",
+            "hu": "Keljen át ezen a történelmi függőhídon a Rhône folyó felett a szőlőültetvények csodás kilátásáért, és viseljen kényelmes cipőt a szeles sétához.",
+            "ro": "Traversați acest pod suspendat istoric peste râul Rhône pentru vederi fantastice asupra podgoriilor și purtați încălțăminte comodă pentru plimbarea vântoasă.",
+            "en": "Cross this historic suspension bridge spanning the Rhône river for fantastic views of the vineyards, and wear comfortable shoes for the slightly breezy walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Wine and Ride Tain",
+            "hu": "Wine and Ride Tain",
+            "ro": "Wine and Ride Tain",
+            "en": "Wine and Ride Tain"
+          },
+          "coords": [
+            4.840052,
+            45.072116
+          ],
+          "category": "landmark",
+          "arrive_at": "13:40",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Mieten Sie ein E-Bike oder einen Segway, um die steilen Weinbergswege mühelos zu erkunden, und fragen Sie das Personal nach einer Karte der schönsten Routen.",
+            "hu": "Béreljen e-bike-ot vagy segway-t a meredek szőlőhegyi ösvények könnyed felfedezéséhez, és kérjen a személyzettől egy térképet a legfestőibb útvonalakról.",
+            "ro": "Închiriați o bicicletă electrică sau un segway pentru a explora fără efort traseele abrupte, și cereți personalului o hartă personalizată a celor mai pitorești rute.",
+            "en": "Rent an electric bike or segway to effortlessly explore the steep vineyard trails, and ask the friendly staff for a custom map of the most scenic vineyard routes."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison M. Chapoutier",
+            "hu": "Maison M. Chapoutier",
+            "ro": "Maison M. Chapoutier",
+            "en": "Maison M. Chapoutier"
+          },
+          "coords": [
+            4.839504,
+            45.071039
+          ],
+          "category": "culinary",
+          "arrive_at": "14:06",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.11,
+          "tip_5lang": {
+            "de": "Erleben Sie erstklassige Weinproben auf diesem legendären Weingut der Hermitage-Weine, und buchen Sie Ihren Termin im Voraus, um Wartezeiten zu vermeiden.",
+            "hu": "Vegyen részt egy világszínvonalú borkóstolón ezen a legendás Hermitage borokat gyártó birtokon, és a várakozás elkerülése érdekében foglaljon előre időpontot.",
+            "ro": "Experimentați o degustare de vinuri de clasă mondială la această proprietate legendară, și rezervați-vă din timp locul pentru a evita așteptarea nedorită.",
+            "en": "Experience world-class wine tasting at this legendary estate producing famous Hermitage wines, and book your tasting slot in advance to avoid waiting."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Christophe",
+            "hu": "Chapelle Saint-Christophe",
+            "ro": "Chapelle Saint-Christophe",
+            "en": "Chapelle Saint-Christophe"
+          },
+          "coords": [
+            4.836482,
+            45.078562
+          ],
+          "category": "religious",
+          "arrive_at": "15:51",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.86,
+          "tip_5lang": {
+            "de": "Steigen Sie zu dieser malerischen Kapelle auf dem von Weinbergen umgebenen Hügel hinauf und bringen Sie unbedingt eine Flasche Wasser für den steilen Aufstieg mit.",
+            "hu": "Másszon fel ehhez az ikonikus hegytetőn álló kápolnához a teraszos szőlők között egy lélegzetelállító panorámáért, és hozzon magával egy üveg vizet a túrához.",
+            "ro": "Urcați la această capelă iconică de pe deal, înconjurată de podgorii terasate, pentru o panoramă uluitoare, asigurându-vă că aveți apă pentru drumeția abruptă.",
+            "en": "Climb up to this iconic hilltop chapel surrounded by terraced vineyards for a breathtaking panorama, making sure to bring a bottle of water for the steep hike."
+          }
+        },
+        {
+          "name": {
+            "de": "Belvédère de Pierre-Aiguille",
+            "hu": "Belvédère de Pierre-Aiguille",
+            "ro": "Belvédère de Pierre-Aiguille",
+            "en": "Belvédère de Pierre-Aiguille"
+          },
+          "coords": [
+            4.837322,
+            45.085631
+          ],
+          "category": "natural",
+          "arrive_at": "16:35",
+          "stay_min": 55,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.78,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die weite Landschaft der Rhône-Schleife von diesem erhöhten natürlichen Aussichtspunkt, idealerweise am späten Nachmittag für das beste Licht.",
+            "hu": "Csodálja meg a Rhône folyó kanyarulatának lenyűgöző táját erről a természetes kilátóról, amelyet ideális esetben késő délután érdemes felkeresni a szép fények miatt.",
+            "ro": "Admirați peisajul vast al curburii râului Rhône de la acest punct de belvedere natural, fiind ideal să-l vizitați după-amiaza târziu pentru cea mai bună lumină.",
+            "en": "Marvel at the sweeping landscape of the Rhône bend from this elevated natural viewpoint, ideally visiting late in the afternoon for the most stunning lighting."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Radtag beginnt am lebendigen M.J.C. Kulturzentrum, bevor Sie zur Cité du Chocolat fahren. Mittags radeln Sie an der Notre-Dame vorbei zur Marc Seguin Brücke. Der Nachmittag ermöglicht eine Fahrt zu Wine and Ride und eine edle Weinprobe bei Chapoutier. Abends fahren Sie malerisch bergauf zur Kapelle und genießen die atemberaubende Natur am Aussichtspunkt.",
+        "hu": "A kerékpáros nap az M.J.C. központnál kezdődik, majd a híres Csokoládé Városába gurul. Délben a csendes Notre-Dame mellett elhaladva a szeles Marc Seguin hídhoz érkezik. A délután egy könnyed tekerés a Wine and Ride felé, majd borkóstoló a Chapoutier-nél. Az este egy festői felfelé tartó utat kínál a dombtetőn lévő kápolnához és a természetes kilátóhoz.",
+        "ro": "Ziua pe bicicletă începe la centrul cultural M.J.C. înainte de a pedala spre faimoasa Cité du Chocolat. La amiază treceți pe lângă Notre-Dame spre podul aerisit Marc Seguin. După-amiaza permite o plimbare spre Wine and Ride și o degustare elegantă la Maison Chapoutier. Seara urcați pitoresc spre capela de pe deal pentru un punct de belvedere natural uluitor.",
+        "en": "Your cycling day starts at the vibrant M.J.C. cultural hub before riding to the famous Cité du Chocolat. Midday brings you past the tranquil Notre-Dame to the breezy Marc Seguin Footbridge. Afternoon allows effortless cruising to Wine and Ride and an elegant tasting at Maison M. Chapoutier. Evening involves a scenic uphill ride to the hilltop chapel and a breathtaking nature belvedere."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:23",
+      "total_km": 3.03,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Belvédère de Pierre-Aiguille",
+            "hu": "Belvédère de Pierre-Aiguille",
+            "ro": "Belvédère de Pierre-Aiguille",
+            "en": "Belvédère de Pierre-Aiguille"
+          },
+          "coords": [
+            4.837322,
+            45.085631
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die weite Landschaft der Rhône-Schleife von diesem erhöhten natürlichen Aussichtspunkt, idealerweise am späten Nachmittag für das beste Licht.",
+            "hu": "Csodálja meg a Rhône folyó kanyarulatának lenyűgöző táját erről a természetes kilátóról, amelyet ideális esetben késő délután érdemes felkeresni a szép fények miatt.",
+            "ro": "Admirați peisajul vast al curburii râului Rhône de la acest punct de belvedere natural, fiind ideal să-l vizitați după-amiaza târziu pentru cea mai bună lumină.",
+            "en": "Marvel at the sweeping landscape of the Rhône bend from this elevated natural viewpoint, ideally visiting late in the afternoon for the most stunning lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Chapelle Saint-Christophe",
+            "hu": "Chapelle Saint-Christophe",
+            "ro": "Chapelle Saint-Christophe",
+            "en": "Chapelle Saint-Christophe"
+          },
+          "coords": [
+            4.836482,
+            45.078562
+          ],
+          "category": "religious",
+          "arrive_at": "09:37",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.78,
+          "tip_5lang": {
+            "de": "Steigen Sie zu dieser malerischen Kapelle auf dem von Weinbergen umgebenen Hügel hinauf und bringen Sie unbedingt eine Flasche Wasser für den steilen Aufstieg mit.",
+            "hu": "Másszon fel ehhez az ikonikus hegytetőn álló kápolnához a teraszos szőlők között egy lélegzetelállító panorámáért, és hozzon magával egy üveg vizet a túrához.",
+            "ro": "Urcați la această capelă iconică de pe deal, înconjurată de podgorii terasate, pentru o panoramă uluitoare, asigurându-vă că aveți apă pentru drumeția abruptă.",
+            "en": "Climb up to this iconic hilltop chapel surrounded by terraced vineyards for a breathtaking panorama, making sure to bring a bottle of water for the steep hike."
+          }
+        },
+        {
+          "name": {
+            "de": "Autel du Taurobole",
+            "hu": "Autel du Taurobole",
+            "ro": "Autel du Taurobole",
+            "en": "Autel du Taurobole"
+          },
+          "coords": [
+            4.836945,
+            45.071614
+          ],
+          "category": "landmark",
+          "arrive_at": "10:19",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.82,
+          "tip_5lang": {
+            "de": "Betrachten Sie diesen faszinierenden römischen Opferaltar, der die antike Geschichte der Region widerspiegelt und sich auf einem ruhigen Platz befindet.",
+            "hu": "Vizsgálja meg ezt a lenyűgöző római áldozati oltárt, amely a régió ősi történelmét tükrözi, és egy csendes téren található, ideális egy fotószünetre.",
+            "ro": "Examinați acest fascinant altar roman de sacrificiu care reflectă istoria antică a regiunii, situat într-o piață liniștită perfectă pentru o scurtă pauză foto.",
+            "en": "Examine this fascinating Roman sacrificial altar which reflects the ancient history of the region, located in a quiet square perfect for a brief photo stop."
+          }
+        },
+        {
+          "name": {
+            "de": "Maison M. Chapoutier",
+            "hu": "Maison M. Chapoutier",
+            "ro": "Maison M. Chapoutier",
+            "en": "Maison M. Chapoutier"
+          },
+          "coords": [
+            4.839504,
+            45.071039
+          ],
+          "category": "culinary",
+          "arrive_at": "10:45",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Erleben Sie erstklassige Weinproben auf diesem legendären Weingut der Hermitage-Weine, und buchen Sie Ihren Termin im Voraus, um Wartezeiten zu vermeiden.",
+            "hu": "Vegyen részt egy világszínvonalú borkóstolón ezen a legendás Hermitage borokat gyártó birtokon, és a várakozás elkerülése érdekében foglaljon előre időpontot.",
+            "ro": "Experimentați o degustare de vinuri de clasă mondială la această proprietate legendară, și rezervați-vă din timp locul pentru a evita așteptarea nedorită.",
+            "en": "Experience world-class wine tasting at this legendary estate producing famous Hermitage wines, and book your tasting slot in advance to avoid waiting."
+          }
+        },
+        {
+          "name": {
+            "de": "Wine and Ride Tain",
+            "hu": "Wine and Ride Tain",
+            "ro": "Wine and Ride Tain",
+            "en": "Wine and Ride Tain"
+          },
+          "coords": [
+            4.840052,
+            45.072116
+          ],
+          "category": "landmark",
+          "arrive_at": "12:26",
+          "stay_min": 25,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.13,
+          "tip_5lang": {
+            "de": "Mieten Sie ein E-Bike oder einen Segway, um die steilen Weinbergswege mühelos zu erkunden, und fragen Sie das Personal nach einer Karte der schönsten Routen.",
+            "hu": "Béreljen e-bike-ot vagy segway-t a meredek szőlőhegyi ösvények könnyed felfedezéséhez, és kérjen a személyzettől egy térképet a legfestőibb útvonalakról.",
+            "ro": "Închiriați o bicicletă electrică sau un segway pentru a explora fără efort traseele abrupte, și cereți personalului o hartă personalizată a celor mai pitorești rute.",
+            "en": "Rent an electric bike or segway to effortlessly explore the steep vineyard trails, and ask the friendly staff for a custom map of the most scenic vineyard routes."
+          }
+        },
+        {
+          "name": {
+            "de": "Valrhona Cité du Chocolat",
+            "hu": "Valrhona Cité du Chocolat",
+            "ro": "Valrhona Cité du Chocolat",
+            "en": "Valrhona Cité du Chocolat"
+          },
+          "coords": [
+            4.843375,
+            45.068568
+          ],
+          "category": "culinary",
+          "arrive_at": "12:52",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.48,
+          "tip_5lang": {
+            "de": "Entdecken Sie die Kunst der Schokoladenherstellung in interaktiven Ausstellungen und besuchen Sie die Boutique frühzeitig für exklusive Sorten.",
+            "hu": "Fedezze fel a csokoládékészítés művészetét interaktív kiállításokon és kóstolókon, és érdemes korán érkezni a butik exkluzív ízeinek megkóstolásához.",
+            "ro": "Descoperiți arta fabricării ciocolatei prin expoziții interactive și degustări, și vizitați magazinul devreme pentru a găsi arome cu adevărat exclusive.",
+            "en": "Discover the art of chocolate-making through interactive exhibits and tastings, and be sure to visit the boutique for exclusive flavors early in the day."
+          }
+        },
+        {
+          "name": {
+            "de": "Marc Seguin Footbridge",
+            "hu": "Marc Seguin Footbridge",
+            "ro": "Marc Seguin Footbridge",
+            "en": "Marc Seguin Footbridge"
+          },
+          "coords": [
+            4.835685,
+            45.06946
+          ],
+          "category": "historical",
+          "arrive_at": "14:33",
+          "stay_min": 110,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.61,
+          "tip_5lang": {
+            "de": "Überqueren Sie diese historische Hängebrücke über die Rhône für fantastische Ausblicke auf die Weinberge und tragen Sie bequeme Schuhe für den windigen Spaziergang.",
+            "hu": "Keljen át ezen a történelmi függőhídon a Rhône folyó felett a szőlőültetvények csodás kilátásáért, és viseljen kényelmes cipőt a szeles sétához.",
+            "ro": "Traversați acest pod suspendat istoric peste râul Rhône pentru vederi fantastice asupra podgoriilor și purtați încălțăminte comodă pentru plimbarea vântoasă.",
+            "en": "Cross this historic suspension bridge spanning the Rhône river for fantastic views of the vineyards, and wear comfortable shoes for the slightly breezy walk."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie den Morgen mit Panoramablicken vom Belvédère de Pierre-Aiguille und der historischen Chapelle Saint-Christophe. Mittags fahren Sie in die Stadt zum Autel du Taurobole und genießen Weine bei Chapoutier. Der Nachmittag bietet einen Halt bei Wine and Ride und eine spannende Schokoladentour. Der Abend endet mit einem Sonnenuntergangsspaziergang an der Flussbrücke.",
+        "hu": "Kezdje a reggelt a Belvédère de Pierre-Aiguille és a történelmi Chapelle Saint-Christophe kápolna panorámájával. Délben ereszkedjen le a városba a Taurobole oltárhoz, majd kóstoljon borokat a Chapoutier-nél. A délután egy megállót kínál a Wine and Ride-nál és egy csokoládétúrát. Az este egy naplementés sétával zárul a folyón átívelő függőhídnál.",
+        "ro": "Începeți dimineața cu vederi panoramice de la Belvédère de Pierre-Aiguille și istorica capelă Saint-Christophe. La amiază coborâți în oraș pentru a vedea Autel du Taurobole și a savura vinuri la Maison Chapoutier. După-amiaza include o oprire la Wine and Ride și un tur al ciocolatei. Seara se încheie cu o plimbare la apus pe podul peste râu.",
+        "en": "Kickstart your morning with panoramic vistas from the Belvédère de Pierre-Aiguille and the historical hilltop Chapelle Saint-Christophe. Midday brings you down into the town to inspect the ancient Autel du Taurobole and savor wines at Maison M. Chapoutier. Afternoon features a smooth stop at Wine and Ride and an immersive chocolate tour. Evening ends with a sunset stroll by the river bridge."
+      }
+    }
+  }
+}

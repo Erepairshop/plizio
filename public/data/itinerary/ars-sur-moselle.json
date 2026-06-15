@@ -1,0 +1,474 @@
+{
+  "city_id": "ars-sur-moselle",
+  "anchor": {
+    "name": "Ars-sur-Moselle",
+    "coords": [
+      6.0742,
+      49.0781
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "15:13",
+      "total_km": 3.9,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Kapelle Saint-Roch",
+            "hu": "Saint-Roch kápolna",
+            "ro": "Capela Saint-Roch",
+            "en": "Saint-Roch Chapel"
+          },
+          "coords": [
+            6.070458,
+            49.078806
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die reizvolle Architektur dieser historischen Kapelle, die dem Heiligen Rochus gewidmet ist, und genießen Sie hier einen Moment der Stille.",
+            "hu": "Csodálja meg a Szent Rókusnak szentelt kápolna bájos építészetét, amely békés menedéket nyújt a sétálók számára egy csendes reggeli pihenéshez.",
+            "ro": "Admirați arhitectura fermecătoare a acestei capele istorice închinate Sfântului Rochus, un loc perfect pentru a vă bucura de un moment de liniște dimineața.",
+            "en": "Admire the charming architecture of this historic chapel dedicated to Saint Roch, a serene spot where you can pause for a quiet moment during your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Martin",
+            "hu": "Saint-Martin templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            6.079034,
+            49.077642
+          ],
+          "category": "religious",
+          "arrive_at": "09:59",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese beeindruckende Kirche mit ihren bemerkenswerten Buntglasfenstern und prüfen Sie am Eingang die Aushänge auf mögliche Chorauftritte.",
+            "hu": "Fedezze fel ezt a lenyűgöző templomot és csodálatos ólomüveg ablakait, de előtte érdemes ellenőrizni a helyi kórusfellépések és események időpontjait is.",
+            "ro": "Explorați această biserică uimitoare cu vitralii remarcabile și verificați programul local pentru a prinde un eventual concert de cor în timpul vizitei.",
+            "en": "Explore this stunning religious site featuring remarkable stained glass windows, and be sure to check the local schedule for any upcoming choir performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Aquädukt Gorze-Metz",
+            "hu": "Gorze-Metz római vízvezeték",
+            "ro": "Apeductul roman Gorze-Metz",
+            "en": "Gorze-Metz Roman Aqueduct"
+          },
+          "coords": [
+            6.070107,
+            49.068574
+          ],
+          "category": "historical",
+          "arrive_at": "10:57",
+          "stay_min": 80,
+          "hop_from_prev_min": 18,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Überreste dieser antiken römischen Ingenieurskunst im Tal und bringen Sie Ihre Kamera mit, um die majestätischen Steinbögen festzuhalten.",
+            "hu": "Ámuljon el az ősi római mérnöki munka völgyön átívelő maradványain, és mindenképpen hozzon fényképezőgépet a fenséges kőívek lenyűgöző megörökítéséhez.",
+            "ro": "Minunați-vă de rămășițele acestei capodopere inginerești romane care traversează valea și nu uitați aparatul foto pentru a surprinde arcadele maiestuoase.",
+            "en": "Marvel at the monumental remains of this ancient Roman engineering feat spanning the valley, bringing your camera to capture the majestic stone arches."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-André",
+            "hu": "Saint-André templom",
+            "ro": "Biserica Saint-André",
+            "en": "Saint-André Church"
+          },
+          "coords": [
+            6.07516,
+            49.058484
+          ],
+          "category": "religious",
+          "arrive_at": "12:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche Erbe dieser einladenden Pfarrkirche, die für ihre friedliche Atmosphäre bekannt ist – ideal für eine kurze, besinnliche Pause.",
+            "hu": "Ismerje meg ennek a barátságos plébániatemplomnak a gazdag örökségét és békés hangulatát, amely tökéletes egy rövid elmélkedéshez a kulturális túrán.",
+            "ro": "Descoperiți moștenirea bogată a acestei biserici parohiale primitoare, renumită pentru ambianța sa pașnică, perfectă pentru o scurtă pauză de reflecție.",
+            "en": "Discover the rich heritage of this welcoming parish church known for its peaceful ambiance, perfect for a short reflective pause on your cultural tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Park Espace Marie et Mathias",
+            "hu": "Espace Marie et Mathias park",
+            "ro": "Parcul Espace Marie et Mathias",
+            "en": "Espace Marie et Mathias Park"
+          },
+          "coords": [
+            6.06177,
+            49.058568
+          ],
+          "category": "park",
+          "arrive_at": "13:28",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem wunderschön angelegten Park der Erinnerung und des Friedens und bringen Sie ein Picknick mit, um die gepflegten Wege zu genießen.",
+            "hu": "Pihenjen meg ebben a gyönyörűen parkosított, emlékezésnek és békének szentelt parkban, ahová érdemes piknikkosarat hozni a zöldellő környezet élvezetéhez.",
+            "ro": "Relaxați-vă în acest parc frumos amenajat dedicat memoriei și păcii, aducând un mic coș de picnic pentru a vă bucura pe deplin de verdeața luxuriantă.",
+            "en": "Relax in this beautifully landscaped park dedicated to memory and peace, bringing a small picnic to enjoy the lush greenery and well-maintained pathways."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen ruhig an der Chapelle Saint-Roch. Mittags lockt die Église Saint-Martin, gefolgt vom imposanten römischen Aquädukt. Am Nachmittag entdecken Sie das Erbe der Église Saint-André. Lassen Sie den Tag mit einem entspannten Nachmittagsspaziergang im Espace Marie et Mathias friedlich ausklingen.",
+        "hu": "Kezdje a reggelt a bájos Chapelle Saint-Roch csendes meglátogatásával. Délben a Saint-Martin templom, majd a lenyűgöző római vízvezeték következik. Délután fedezze fel az Église Saint-André történelmi falait. A napot az Espace Marie et Mathias park békés, délutáni sétájával érdemes lezárni.",
+        "ro": "Începeți dimineața cu o vizită liniștită la Chapelle Saint-Roch. La prânz, admirați vitraliile Bisericii Saint-Martin, urmate de impresionantul apeduct roman. După-amiaza este dedicată Bisericii Saint-André. Încheiați ziua cu o plimbare relaxantă în liniștitul Espace Marie et Mathias.",
+        "en": "Start your morning with a quiet visit to the charming Chapelle Saint-Roch, setting a serene tone. Midday reveals the impressive stained glass of Saint-Martin Church, followed by the towering Gorze-Metz Roman Aqueduct. Spend the afternoon exploring the historic Église Saint-André nearby. Conclude your day with a relaxing stroll and a late picnic in the peaceful Espace Marie et Mathias."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "15:25",
+      "total_km": 5.7,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Rémy",
+            "hu": "Saint-Rémy templom",
+            "ro": "Biserica Saint-Rémy",
+            "en": "Saint-Rémy Church"
+          },
+          "coords": [
+            6.079828,
+            49.094191
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante Dorfkirche im Norden, um die traditionelle Steinfassade zu bewundern, und kommen Sie früh, um das beste Licht zu nutzen.",
+            "hu": "Látogasson el ebbe a bájos északi falusi templomba, hogy megcsodálja a hagyományos kőhomlokzatot, és érkezzen kora reggel a legjobb fényviszonyokért.",
+            "ro": "Vizitați această biserică fermecătoare pentru a-i aprecia fațada tradițională din piatră și încercați să ajungeți devreme pentru cea mai bună lumină.",
+            "en": "Visit this charming northern village church to appreciate its traditional stone facade, and try to arrive early in the morning for the best natural lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Kapelle Saint-Roch",
+            "hu": "Saint-Roch kápolna",
+            "ro": "Capela Saint-Roch",
+            "en": "Saint-Roch Chapel"
+          },
+          "coords": [
+            6.070458,
+            49.078806
+          ],
+          "category": "religious",
+          "arrive_at": "10:00",
+          "stay_min": 40,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 1.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die reizvolle Architektur dieser historischen Kapelle, die dem Heiligen Rochus gewidmet ist, und genießen Sie hier einen Moment der Stille.",
+            "hu": "Csodálja meg a Szent Rókusnak szentelt kápolna bájos építészetét, amely békés menedéket nyújt a sétálók számára egy csendes reggeli pihenéshez.",
+            "ro": "Admirați arhitectura fermecătoare a acestei capele istorice închinate Sfântului Rochus, un loc perfect pentru a vă bucura de un moment de liniște dimineața.",
+            "en": "Admire the charming architecture of this historic chapel dedicated to Saint Roch, a serene spot where you can pause for a quiet moment during your walk."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Martin",
+            "hu": "Saint-Martin templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            6.079034,
+            49.077642
+          ],
+          "category": "religious",
+          "arrive_at": "10:43",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese beeindruckende Kirche mit ihren bemerkenswerten Buntglasfenstern und prüfen Sie am Eingang die Aushänge auf mögliche Chorauftritte.",
+            "hu": "Fedezze fel ezt a lenyűgöző templomot és csodálatos ólomüveg ablakait, de előtte érdemes ellenőrizni a helyi kórusfellépések és események időpontjait is.",
+            "ro": "Explorați această biserică uimitoare cu vitralii remarcabile și verificați programul local pentru a prinde un eventual concert de cor în timpul vizitei.",
+            "en": "Explore this stunning religious site featuring remarkable stained glass windows, and be sure to check the local schedule for any upcoming choir performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Aquädukt Gorze-Metz",
+            "hu": "Gorze-Metz római vízvezeték",
+            "ro": "Apeductul roman Gorze-Metz",
+            "en": "Gorze-Metz Roman Aqueduct"
+          },
+          "coords": [
+            6.070107,
+            49.068574
+          ],
+          "category": "historical",
+          "arrive_at": "11:29",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Überreste dieser antiken römischen Ingenieurskunst im Tal und bringen Sie Ihre Kamera mit, um die majestätischen Steinbögen festzuhalten.",
+            "hu": "Ámuljon el az ősi római mérnöki munka völgyön átívelő maradványain, és mindenképpen hozzon fényképezőgépet a fenséges kőívek lenyűgöző megörökítéséhez.",
+            "ro": "Minunați-vă de rămășițele acestei capodopere inginerești romane care traversează valea și nu uitați aparatul foto pentru a surprinde arcadele maiestuoase.",
+            "en": "Marvel at the monumental remains of this ancient Roman engineering feat spanning the valley, bringing your camera to capture the majestic stone arches."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-André",
+            "hu": "Saint-André templom",
+            "ro": "Biserica Saint-André",
+            "en": "Saint-André Church"
+          },
+          "coords": [
+            6.07516,
+            49.058484
+          ],
+          "category": "religious",
+          "arrive_at": "12:55",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entdecken Sie das reiche Erbe dieser einladenden Pfarrkirche, die für ihre friedliche Atmosphäre bekannt ist – ideal für eine kurze, besinnliche Pause.",
+            "hu": "Ismerje meg ennek a barátságos plébániatemplomnak a gazdag örökségét és békés hangulatát, amely tökéletes egy rövid elmélkedéshez a kulturális túrán.",
+            "ro": "Descoperiți moștenirea bogată a acestei biserici parohiale primitoare, renumită pentru ambianța sa pașnică, perfectă pentru o scurtă pauză de reflecție.",
+            "en": "Discover the rich heritage of this welcoming parish church known for its peaceful ambiance, perfect for a short reflective pause on your cultural tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Park Espace Marie et Mathias",
+            "hu": "Espace Marie et Mathias park",
+            "ro": "Parcul Espace Marie et Mathias",
+            "en": "Espace Marie et Mathias Park"
+          },
+          "coords": [
+            6.06177,
+            49.058568
+          ],
+          "category": "park",
+          "arrive_at": "13:40",
+          "stay_min": 105,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem wunderschön angelegten Park der Erinnerung und des Friedens und bringen Sie ein Picknick mit, um die gepflegten Wege zu genießen.",
+            "hu": "Pihenjen meg ebben a gyönyörűen parkosított, emlékezésnek és békének szentelt parkban, ahová érdemes piknikkosarat hozni a zöldellő környezet élvezetéhez.",
+            "ro": "Relaxați-vă în acest parc frumos amenajat dedicat memoriei și păcii, aducând un mic coș de picnic pentru a vă bucura pe deplin de verdeața luxuriantă.",
+            "en": "Relax in this beautifully landscaped park dedicated to memory and peace, bringing a small picnic to enjoy the lush greenery and well-maintained pathways."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Radtour im Norden an der Église Saint-Rémy. Mittags radeln Sie vorbei an der Chapelle Saint-Roch zur Kirche Saint-Martin und zum beeindruckenden römischen Aquädukt. Nachmittags geht es zur Église Saint-André. Ihre Tour endet mit entspannter Ruhe im grünen Espace Marie et Mathias.",
+        "hu": "Kezdje a kerékpártúrát északon, az Église Saint-Rémy templomnál. Délben a Chapelle Saint-Roch és a Saint-Martin templom, majd az ókori római vízvezeték várja. Délután tekerjen délre a barátságos Église Saint-André felé. Utazása a zöldellő Espace Marie et Mathias park nyugalmával zárul.",
+        "ro": "Începeți turul cu bicicleta la Biserica Saint-Rémy din nord. La prânz, treceți pe lângă Chapelle Saint-Roch spre Biserica Saint-Martin și apeductul roman. După-amiaza pedalați spre primitoarea Biserică Saint-André. Călătoria se încheie liniștit în verdeața parcului Espace Marie et Mathias.",
+        "en": "Kick off your cycling tour up north at the traditional Église Saint-Rémy before heading back down. Midday brings you past Chapelle Saint-Roch to the stunning Saint-Martin Church and the grand Roman Aqueduct. Afternoon riding takes you south towards the welcoming Église Saint-André. Your journey wraps up with a tranquil unwinding amid the lush greenery of Espace Marie et Mathias."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:09",
+      "total_km": 10.4,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Kirche Saint-Rémy",
+            "hu": "Saint-Rémy templom",
+            "ro": "Biserica Saint-Rémy",
+            "en": "Saint-Rémy Church"
+          },
+          "coords": [
+            6.079828,
+            49.094191
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese charmante Dorfkirche im Norden, um die traditionelle Steinfassade zu bewundern, und kommen Sie früh, um das beste Licht zu nutzen.",
+            "hu": "Látogasson el ebbe a bájos északi falusi templomba, hogy megcsodálja a hagyományos kőhomlokzatot, és érkezzen kora reggel a legjobb fényviszonyokért.",
+            "ro": "Vizitați această biserică fermecătoare pentru a-i aprecia fațada tradițională din piatră și încercați să ajungeți devreme pentru cea mai bună lumină.",
+            "en": "Visit this charming northern village church to appreciate its traditional stone facade, and try to arrive early in the morning for the best natural lighting."
+          }
+        },
+        {
+          "name": {
+            "de": "Kirche Saint-Martin",
+            "hu": "Saint-Martin templom",
+            "ro": "Biserica Saint-Martin",
+            "en": "Saint-Martin Church"
+          },
+          "coords": [
+            6.079034,
+            49.077642
+          ],
+          "category": "religious",
+          "arrive_at": "09:54",
+          "stay_min": 40,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese beeindruckende Kirche mit ihren bemerkenswerten Buntglasfenstern und prüfen Sie am Eingang die Aushänge auf mögliche Chorauftritte.",
+            "hu": "Fedezze fel ezt a lenyűgöző templomot és csodálatos ólomüveg ablakait, de előtte érdemes ellenőrizni a helyi kórusfellépések és események időpontjait is.",
+            "ro": "Explorați această biserică uimitoare cu vitralii remarcabile și verificați programul local pentru a prinde un eventual concert de cor în timpul vizitei.",
+            "en": "Explore this stunning religious site featuring remarkable stained glass windows, and be sure to check the local schedule for any upcoming choir performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Römisches Aquädukt Gorze-Metz",
+            "hu": "Gorze-Metz római vízvezeték",
+            "ro": "Apeductul roman Gorze-Metz",
+            "en": "Gorze-Metz Roman Aqueduct"
+          },
+          "coords": [
+            6.070107,
+            49.068574
+          ],
+          "category": "historical",
+          "arrive_at": "10:37",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die Überreste dieser antiken römischen Ingenieurskunst im Tal und bringen Sie Ihre Kamera mit, um die majestätischen Steinbögen festzuhalten.",
+            "hu": "Ámuljon el az ősi római mérnöki munka völgyön átívelő maradványain, és mindenképpen hozzon fényképezőgépet a fenséges kőívek lenyűgöző megörökítéséhez.",
+            "ro": "Minunați-vă de rămășițele acestei capodopere inginerești romane care traversează valea și nu uitați aparatul foto pentru a surprinde arcadele maiestuoase.",
+            "en": "Marvel at the monumental remains of this ancient Roman engineering feat spanning the valley, bringing your camera to capture the majestic stone arches."
+          }
+        },
+        {
+          "name": {
+            "de": "Park Espace Marie et Mathias",
+            "hu": "Espace Marie et Mathias park",
+            "ro": "Parcul Espace Marie et Mathias",
+            "en": "Espace Marie et Mathias Park"
+          },
+          "coords": [
+            6.06177,
+            49.058568
+          ],
+          "category": "park",
+          "arrive_at": "12:02",
+          "stay_min": 75,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem wunderschön angelegten Park der Erinnerung und des Friedens und bringen Sie ein Picknick mit, um die gepflegten Wege zu genießen.",
+            "hu": "Pihenjen meg ebben a gyönyörűen parkosított, emlékezésnek és békének szentelt parkban, ahová érdemes piknikkosarat hozni a zöldellő környezet élvezetéhez.",
+            "ro": "Relaxați-vă în acest parc frumos amenajat dedicat memoriei și păcii, aducând un mic coș de picnic pentru a vă bucura pe deplin de verdeața luxuriantă.",
+            "en": "Relax in this beautifully landscaped park dedicated to memory and peace, bringing a small picnic to enjoy the lush greenery and well-maintained pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Mariä-Himmelfahrt-Kirche",
+            "hu": "Nagyboldogasszony-templom",
+            "ro": "Biserica Adormirea Maicii Domnului",
+            "en": "Church of the Assumption"
+          },
+          "coords": [
+            6.059457,
+            49.055921
+          ],
+          "category": "religious",
+          "arrive_at": "13:18",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Treten Sie in dieses anmutig gestaltete Heiligtum ein, um den historischen Altar zu bewundern, und kleiden Sie sich respektvoll für diesen aktiven Ort.",
+            "hu": "Lépjen be ebbe a kecses kialakítású szentélybe, hogy megcsodálja a történelmi oltárt, és ügyeljen a tisztelettudó öltözködésre az aktív hitélet miatt.",
+            "ro": "Pășiți în acest sanctuar religios proiectat cu grație pentru a-i admira altarul istoric, asigurându-vă că vă îmbrăcați respectuos în acest loc activ.",
+            "en": "Step inside this gracefully designed religious sanctuary to admire its historic altar, making sure to dress respectfully as it remains an active community site."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Acrobates",
+            "hu": "Les Acrobates",
+            "ro": "Les Acrobates",
+            "en": "Les Acrobates"
+          },
+          "coords": [
+            6.099053,
+            49.080409
+          ],
+          "category": "family",
+          "arrive_at": "14:07",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.2,
+          "tip_5lang": {
+            "de": "Gönnen Sie der Familie Spaß auf diesem lebhaften Indoor-Spielplatz, wo bequeme Socken erforderlich sind, damit die Kinder sicher klettern können.",
+            "hu": "Lepje meg a családot egy vidám programmal ebben a nyüzsgő beltéri játszóházban, ahol kényelmes zokni viselése kötelező a gyerekek számára a mászáshoz.",
+            "ro": "Răsfățați familia cu o sesiune plină de distracție la acest loc de joacă interior, unde șosetele confortabile sunt obligatorii pentru cei mici.",
+            "en": "Treat the family to a fun-filled session at this lively indoor playground, where wearing comfortable socks is required for the children to enjoy the structures."
+          }
+        },
+        {
+          "name": {
+            "de": "Air Jump Metz",
+            "hu": "Air Jump Metz",
+            "ro": "Air Jump Metz",
+            "en": "Air Jump Metz"
+          },
+          "coords": [
+            6.107388,
+            49.077719
+          ],
+          "category": "family",
+          "arrive_at": "15:24",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Powern Sie sich in diesem riesigen Trampolinpark aus, der für alle Altersgruppen geeignet ist, und buchen Sie online im Voraus, um Wartezeiten zu vermeiden.",
+            "hu": "Vezesse le az energiáit ebben a minden korosztály számára megfelelő trambulinparkban, de mindenképpen foglaljon időpontot online a sorban állás elkerülésére.",
+            "ro": "Consumați-vă energia în acest parc masiv de trambuline potrivit pentru toate vârstele și rezervați biletul online în avans pentru a evita cozile.",
+            "en": "Bounce your energy away at this massive trampoline park suitable for all ages, and book your jumping slot online in advance to avoid waiting in line."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie morgens zur Église Saint-Rémy, um das schöne Licht zu genießen. Mittags erkunden Sie die Kirche Saint-Martin und die atemberaubenden Ruinen des römischen Aquädukts. Nachmittags besuchen Sie den Espace Marie et Mathias und die nahegelegene Kirche. Der Nachmittag bietet dann Action pur bei Les Acrobates und Air Jump Metz.",
+        "hu": "Autózzon az északi Église Saint-Rémy templomhoz a szép reggeli fényekért. Délben fedezze fel a Saint-Martin templomot és a lélegzetelállító római vízvezeték romjait. Délután látogasson el az Espace Marie et Mathias parkba és a közeli templomba. A késő délután pedig izgalmas családi programokat kínál a trambulinparkokban.",
+        "ro": "Conduceți la Biserica Saint-Rémy dimineața pentru cea mai bună lumină. La prânz, explorați Biserica Saint-Martin și ruinele uluitoare ale apeductului roman. După-amiaza, vizitați Espace Marie et Mathias și biserica din apropiere. După-amiaza târziu schimbă complet ritmul, cu distracție în familie la Les Acrobates și Air Jump Metz.",
+        "en": "Drive to the northern Église Saint-Rémy to start your day with lovely morning light. Midday involves exploring the town's core at Saint-Martin Church, followed by the breathtaking Roman Aqueduct ruins. In the afternoon, visit the Espace Marie et Mathias and the nearby church for quiet reflection. The later part of the day shifts gear completely with family fun at Les Acrobates and Air Jump Metz."
+      }
+    }
+  }
+}

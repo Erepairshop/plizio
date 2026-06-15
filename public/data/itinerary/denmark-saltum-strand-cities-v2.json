@@ -1,0 +1,474 @@
+{
+  "city_id": "denmark-saltum-strand-cities-v2",
+  "anchor": {
+    "name": "Saltum Strand",
+    "coords": [
+      9.692354,
+      57.282372
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "18:51",
+      "total_km": 2.1,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saltum Kirke",
+            "hu": "Saltum Kirke",
+            "ro": "Saltum Kirke",
+            "en": "Saltum Kirke"
+          },
+          "coords": [
+            9.695455,
+            57.282008
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, aber würdevolle Architektur dieser alten Kirche, während Sie die ruhige Atmosphäre genießen und den historischen Friedhof erkunden.",
+            "hu": "Csodálja meg a régi templom letisztult, méltóságteljes építészetét, miközben elmerül a békés hangulatban és felfedezi a történelmi temetőt.",
+            "ro": "Admirați arhitectura simplă, dar demnă a acestei vechi biserici, în timp ce vă bucurați de atmosfera pașnică și explorați cimitirul istoric.",
+            "en": "Admire the simple but dignified architecture of this old church while enjoying the peaceful atmosphere and exploring the historic cemetery."
+          }
+        },
+        {
+          "name": {
+            "de": "Tinghøj",
+            "hu": "Tinghøj",
+            "ro": "Tinghøj",
+            "en": "Tinghøj"
+          },
+          "coords": [
+            9.693366,
+            57.285367
+          ],
+          "category": "historical",
+          "arrive_at": "09:56",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besteigen Sie diesen bemerkenswerten historischen Grabhügel, um mehr über die Vorgeschichte der Region zu erfahren und die herrliche Aussicht auf die umliegende Landschaft zu genießen.",
+            "hu": "Mássza meg ezt a figyelemre méltó történelmi sírhalmot, hogy többet tudjon meg a régió őstörténetéről, és élvezze a környező tájra nyíló csodálatos kilátást.",
+            "ro": "Urcați pe acest remarcabil tumul funerar istoric pentru a afla mai multe despre preistoria regiunii și pentru a vă bucura de priveliștile minunate ale peisajului înconjurător.",
+            "en": "Climb this remarkable historic burial mound to learn more about the region's prehistory and enjoy the magnificent views of the surrounding landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Danmarks mindste museum der aldrig har åben",
+            "hu": "Danmarks mindste museum der aldrig har åben",
+            "ro": "Danmarks mindste museum der aldrig har åben",
+            "en": "Danmarks mindste museum der aldrig har åben"
+          },
+          "coords": [
+            9.699192,
+            57.275937
+          ],
+          "category": "museum",
+          "arrive_at": "11:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Schmunzeln Sie über das Konzept von Dänemarks kleinstem Museum, das nie geöffnet hat, und machen Sie ein Erinnerungsfoto von dieser kuriosen und charmanten lokalen Sehenswürdigkeit.",
+            "hu": "Mosolyogjon Dánia legkisebb, sosem nyitva tartó múzeumának koncepcióján, és készítsen egy emlékezetes fotót erről a furcsa és bájos helyi látványosságról.",
+            "ro": "Zâmbiți la conceptul celui mai mic muzeu din Danemarca, care nu este niciodată deschis, și faceți o fotografie suvenir a acestei atracții locale curioase și fermecătoare.",
+            "en": "Chuckle at the concept of Denmark's smallest museum that is never open, and snap a souvenir photo of this quirky and charming local attraction."
+          }
+        },
+        {
+          "name": {
+            "de": "Galleri Omegalfa",
+            "hu": "Galleri Omegalfa",
+            "ro": "Galleri Omegalfa",
+            "en": "Galleri Omegalfa"
+          },
+          "coords": [
+            9.698345,
+            57.274542
+          ],
+          "category": "museum",
+          "arrive_at": "13:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Entdecken Sie in dieser einzigartigen Galerie faszinierende zeitgenössische Kunstwerke und nehmen Sie sich Zeit, um die kreativen Details in einem ruhigen Umfeld zu betrachten.",
+            "hu": "Fedezze fel a lenyűgöző kortárs műalkotásokat ebben az egyedülálló galériában, és szánjon időt arra, hogy nyugodt környezetben megvizsgálja a kreatív részleteket.",
+            "ro": "Descoperiți opere de artă contemporană fascinante în această galerie unică și luați-vă timp pentru a privi detaliile creative într-un mediu liniștit.",
+            "en": "Discover fascinating contemporary artworks in this unique gallery, taking your time to view the creative details in a tranquil environment."
+          }
+        },
+        {
+          "name": {
+            "de": "Galleri",
+            "hu": "Galleri",
+            "ro": "Galleri",
+            "en": "Galleri"
+          },
+          "coords": [
+            9.697537,
+            57.272106
+          ],
+          "category": "museum",
+          "arrive_at": "14:59",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von den wechselnden Ausstellungen lokaler Künstler inspirieren und stöbern Sie nach einem handgemachten Souvenir als Erinnerung an Ihren Besuch.",
+            "hu": "Merítsen ihletet a helyi művészek változó kiállításaiból, és keressen egy kézzel készített szuvenírt látogatásának emlékére.",
+            "ro": "Lăsați-vă inspirați de expozițiile în schimbare ale artiștilor locali și căutați un suvenir realizat manual pentru a vă aminti de vizita dumneavoastră.",
+            "en": "Be inspired by the changing exhibitions of local artists and browse for a handmade souvenir to remember your visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Egnssamlingen",
+            "hu": "Egnssamlingen",
+            "ro": "Egnssamlingen",
+            "en": "Egnssamlingen"
+          },
+          "coords": [
+            9.696425,
+            57.271834
+          ],
+          "category": "museum",
+          "arrive_at": "16:41",
+          "stay_min": 130,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem heimatgeschichtlichen Museum in das ländliche Leben vergangener Jahrhunderte ein und beachten Sie besonders die gut erhaltenen landwirtschaftlichen Werkzeuge.",
+            "hu": "Merüljön el az elmúlt évszázadok vidéki életében ebben a helytörténeti múzeumban, és különösen figyeljen a jól megőrzött mezőgazdasági eszközökre.",
+            "ro": "Cufundați-vă în viața rurală din secolele trecute în acest muzeu de istorie locală și acordați o atenție deosebită instrumentelor agricole bine conservate.",
+            "en": "Immerse yourself in the rural life of past centuries at this local history museum, paying particular attention to the well-preserved agricultural tools."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Spaziergang beginnt an der schlichten Saltum Kirke, die eine friedliche Atmosphäre am Morgen bietet. Danach geht es weiter zum Tinghøj, einem spannenden Zeugnis der frühen jütländischen Geschichte mit einem weiten Ausblick. Mittags führt die Route zum kuriosen \"kleinsten Museum, das nie geöffnet hat\", was für ein Schmunzeln sorgt. Am Nachmittag erkunden Sie dann die kreativen Galerien Omegalfa und Galleri im Ort. Den Abschluss bildet die Egnssamlingen, wo Sie tief in die Landkultur eintauchen können.",
+        "hu": "A séta az egyszerű Saltum Kirke-nél kezdődik, amely békés kora reggeli hangulatot áraszt. Ezután a Tinghøj felé vesszük az irányt, amely a korai jütlandi történelem izgalmas emléke nagyszerű kilátással. Délben az útvonal a furcsa \"legkisebb múzeumhoz, amely soha nincs nyitva\" vezet, amely mosolyt csal az arcra. Délután felfedezheti az Omegalfa és a Galleri kreatív művészeti galériákat a városban. A napot az Egnssamlingenben zárjuk, ahol elmerülhetünk a helyi mezőgazdasági kultúrában.",
+        "ro": "Plimbarea începe la simpla Biserică Saltum, care oferă o atmosferă liniștită de dimineață. Apoi ne îndreptăm către Tinghøj, o dovadă incitantă a istoriei timpurii a Iutlandei cu vederi minunate. La prânz, traseul duce la curiosul „cel mai mic muzeu care nu este niciodată deschis”, aducând un zâmbet pe față. După-amiaza, veți explora galeriile de artă creative Omegalfa și Galleri din oraș. Turul se încheie la Egnssamlingen, unde vă puteți scufunda adânc în cultura agricolă locală.",
+        "en": "The walk begins at the simple Saltum Kirke, which offers a peaceful early morning atmosphere. Afterwards, head to Tinghøj, an exciting testament to early Jutlandic history with great views. At noon, the route leads to the quirky \"smallest museum that is never open\", guaranteed to bring a smile to your face. In the afternoon, you will explore the creative art spaces Omegalfa and Galleri in town. The tour concludes at the Egnssamlingen, where you can immerse yourself deeply in local agricultural culture."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:36",
+      "total_km": 5.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Saltum Kirke",
+            "hu": "Saltum Kirke",
+            "ro": "Saltum Kirke",
+            "en": "Saltum Kirke"
+          },
+          "coords": [
+            9.695455,
+            57.282008
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, aber würdevolle Architektur dieser alten Kirche, während Sie die ruhige Atmosphäre genießen und den historischen Friedhof erkunden.",
+            "hu": "Csodálja meg a régi templom letisztult, méltóságteljes építészetét, miközben elmerül a békés hangulatban és felfedezi a történelmi temetőt.",
+            "ro": "Admirați arhitectura simplă, dar demnă a acestei vechi biserici, în timp ce vă bucurați de atmosfera pașnică și explorați cimitirul istoric.",
+            "en": "Admire the simple but dignified architecture of this old church while enjoying the peaceful atmosphere and exploring the historic cemetery."
+          }
+        },
+        {
+          "name": {
+            "de": "Tinghøj",
+            "hu": "Tinghøj",
+            "ro": "Tinghøj",
+            "en": "Tinghøj"
+          },
+          "coords": [
+            9.693366,
+            57.285367
+          ],
+          "category": "historical",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besteigen Sie diesen bemerkenswerten historischen Grabhügel, um mehr über die Vorgeschichte der Region zu erfahren und die herrliche Aussicht auf die umliegende Landschaft zu genießen.",
+            "hu": "Mássza meg ezt a figyelemre méltó történelmi sírhalmot, hogy többet tudjon meg a régió őstörténetéről, és élvezze a környező tájra nyíló csodálatos kilátást.",
+            "ro": "Urcați pe acest remarcabil tumul funerar istoric pentru a afla mai multe despre preistoria regiunii și pentru a vă bucura de priveliștile minunate ale peisajului înconjurător.",
+            "en": "Climb this remarkable historic burial mound to learn more about the region's prehistory and enjoy the magnificent views of the surrounding landscape."
+          }
+        },
+        {
+          "name": {
+            "de": "Bette Tølhøj",
+            "hu": "Bette Tølhøj",
+            "ro": "Bette Tølhøj",
+            "en": "Bette Tølhøj"
+          },
+          "coords": [
+            9.662811,
+            57.296316
+          ],
+          "category": "historical",
+          "arrive_at": "11:24",
+          "stay_min": 80,
+          "hop_from_prev_min": 12,
+          "hop_from_prev_km": 2.2,
+          "tip_5lang": {
+            "de": "Spüren Sie die mystische Atmosphäre an diesem uralten Hügelgrab, das tief in die dänische Bronzezeit zurückreicht und einen perfekten Ort für eine kurze Rast bietet.",
+            "hu": "Érezze a misztikus atmoszférát ennél az ősi sírhalomnál, amely mélyen a dán bronzkorba nyúlik vissza, és tökéletes helyszínt biztosít egy rövid pihenőhöz.",
+            "ro": "Simțiți atmosfera mistică la acest mormânt antic, care datează din epoca bronzului danez și oferă un loc perfect pentru o scurtă odihnă.",
+            "en": "Feel the mystical atmosphere at this ancient burial mound, which dates deep into the Danish Bronze Age and provides a perfect spot for a short rest."
+          }
+        },
+        {
+          "name": {
+            "de": "Bondagerhøj",
+            "hu": "Bondagerhøj",
+            "ro": "Bondagerhøj",
+            "en": "Bondagerhøj"
+          },
+          "coords": [
+            9.660191,
+            57.293954
+          ],
+          "category": "historical",
+          "arrive_at": "12:46",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Erkunden Sie die faszinierenden Formationen dieses historischen Denkmals und bringen Sie gutes Schuhwerk mit, um die unebenen Pfade rund um den Hügel sicher zu bewältigen.",
+            "hu": "Fedezze fel e történelmi emlékmű lenyűgöző formációit, és hozzon magával megfelelő lábbelit, hogy biztonságosan navigáljon a domb körüli egyenetlen ösvényeken.",
+            "ro": "Explorați formațiunile fascinante ale acestui monument istoric și aduceți încălțăminte bună pentru a naviga în siguranță pe potecile inegale din jurul dealului.",
+            "en": "Explore the fascinating formations of this historical monument and bring good footwear to safely navigate the uneven paths around the hill."
+          }
+        },
+        {
+          "name": {
+            "de": "Guldager Høje",
+            "hu": "Guldager Høje",
+            "ro": "Guldager Høje",
+            "en": "Guldager Høje"
+          },
+          "coords": [
+            9.660714,
+            57.292321
+          ],
+          "category": "historical",
+          "arrive_at": "14:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese eindrucksvolle Ansammlung prähistorischer Grabhügel und versuchen Sie, die Anordnung der Gräber im Kontext der frühen Siedlungsgeschichte zu verstehen.",
+            "hu": "Csodálja meg az őskori sírhalmok lenyűgöző gyűjteményét, és próbálja megérteni a sírok elrendezését a korai településtörténet kontextusában.",
+            "ro": "Admirați această colecție impresionantă de tumuli preistorici și încercați să înțelegeți aspectul mormintelor în contextul istoriei așezărilor timpurii.",
+            "en": "Admire this impressive collection of prehistoric burial mounds and try to understand the layout of the graves in the context of early settlement history."
+          }
+        },
+        {
+          "name": {
+            "de": "Guldgraveriet",
+            "hu": "Guldgraveriet",
+            "ro": "Guldgraveriet",
+            "en": "Guldgraveriet"
+          },
+          "coords": [
+            9.658015,
+            57.269848
+          ],
+          "category": "landmark",
+          "arrive_at": "15:41",
+          "stay_min": 55,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Verbringen Sie eine vergnügliche Zeit an diesem Wahrzeichen der lokalen Freizeitkultur und probieren Sie selbst, ob Sie das verborgene \"Gold\" im Sand finden können.",
+            "hu": "Töltsön el egy vidám időt a helyi szabadidős kultúra ezen nevezetességénél, és próbálja ki maga is, hogy megtalálja-e az elrejtett \"aranyat\" a homokban.",
+            "ro": "Petreceți un timp distractiv la acest punct de reper al culturii de agrement locale și încercați singur dacă puteți găsi „aurul” ascuns în nisip.",
+            "en": "Spend a fun time at this landmark of local leisure culture and try for yourself whether you can find the hidden \"gold\" in the sand."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Am Morgen starten Sie mit dem Fahrrad an der Saltum Kirke, bevor Sie den nahegelegenen Tinghøj für eine erste historische Perspektive erklimmen. Gegen Mittag radeln Sie entspannt in Richtung Westen zum faszinierenden Bette Tølhøj, der Sie in die Bronzezeit zurückversetzt. Der Nachmittag steht im Zeichen weiterer eindrucksvoller Grabhügel wie dem Bondagerhøj und den massiven Guldager Høje. Die Radtour endet mit etwas Spaß beim Guldgraveriet, bevor es am späten Nachmittag zurück geht.",
+        "hu": "Reggel a Saltum Kirke-nél indítjuk a kerékpártúrát, mielőtt megmásznánk a közeli Tinghøj-t az első történelmi élményért. Dél körül nyugodtan nyugat felé tekerünk a lenyűgöző Bette Tølhøj-hez, amely visszarepít a bronzkorba. A délutánt további lenyűgöző sírhalmoknak, például a Bondagerhøj-nek és a masszív Guldager Høje-nek szenteljük. A kerékpártúra egy kis szórakozással zárul a Guldgraverietnél a késő délutáni visszatérés előtt.",
+        "ro": "Dimineața începeți turul cu bicicleta la Biserica Saltum înainte de a urca pe Tinghøj-ul din apropiere pentru o primă perspectivă istorică. Pe la prânz veți pedala liniștit spre vest până la fascinantul Bette Tølhøj, care vă duce înapoi în epoca bronzului. După-amiaza este dedicată altor tumuli impresionante, cum ar fi Bondagerhøj și masivul Guldager Høje. Turul cu bicicleta se încheie cu puțină distracție la Guldgraveriet înainte de a vă întoarce târziu după-amiaza.",
+        "en": "Start your morning bike ride at Saltum Kirke before climbing the nearby Tinghøj for a first historical perspective. Around noon, casually cycle west to the fascinating Bette Tølhøj, which transports you back to the Bronze Age. The afternoon is dedicated to other impressive burial mounds such as Bondagerhøj and the massive Guldager Høje. The bike tour ends with some fun at Guldgraveriet before you head back in the late afternoon."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "16:46",
+      "total_km": 10.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Guldgraveriet",
+            "hu": "Guldgraveriet",
+            "ro": "Guldgraveriet",
+            "en": "Guldgraveriet"
+          },
+          "coords": [
+            9.658015,
+            57.269848
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 35,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Verbringen Sie eine vergnügliche Zeit an diesem Wahrzeichen der lokalen Freizeitkultur und probieren Sie selbst, ob Sie das verborgene \"Gold\" im Sand finden können.",
+            "hu": "Töltsön el egy vidám időt a helyi szabadidős kultúra ezen nevezetességénél, és próbálja ki maga is, hogy megtalálja-e az elrejtett \"aranyat\" a homokban.",
+            "ro": "Petreceți un timp distractiv la acest punct de reper al culturii de agrement locale și încercați singur dacă puteți găsi „aurul” ascuns în nisip.",
+            "en": "Spend a fun time at this landmark of local leisure culture and try for yourself whether you can find the hidden \"gold\" in the sand."
+          }
+        },
+        {
+          "name": {
+            "de": "Guldager Høje",
+            "hu": "Guldager Høje",
+            "ro": "Guldager Høje",
+            "en": "Guldager Høje"
+          },
+          "coords": [
+            9.660714,
+            57.292321
+          ],
+          "category": "historical",
+          "arrive_at": "09:40",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese eindrucksvolle Ansammlung prähistorischer Grabhügel und versuchen Sie, die Anordnung der Gräber im Kontext der frühen Siedlungsgeschichte zu verstehen.",
+            "hu": "Csodálja meg az őskori sírhalmok lenyűgöző gyűjteményét, és próbálja megérteni a sírok elrendezését a korai településtörténet kontextusában.",
+            "ro": "Admirați această colecție impresionantă de tumuli preistorici și încercați să înțelegeți aspectul mormintelor în contextul istoriei așezărilor timpurii.",
+            "en": "Admire this impressive collection of prehistoric burial mounds and try to understand the layout of the graves in the context of early settlement history."
+          }
+        },
+        {
+          "name": {
+            "de": "Egnssamlingen",
+            "hu": "Egnssamlingen",
+            "ro": "Egnssamlingen",
+            "en": "Egnssamlingen"
+          },
+          "coords": [
+            9.696425,
+            57.271834
+          ],
+          "category": "museum",
+          "arrive_at": "11:07",
+          "stay_min": 100,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 3.5,
+          "tip_5lang": {
+            "de": "Tauchen Sie in diesem heimatgeschichtlichen Museum in das ländliche Leben vergangener Jahrhunderte ein und beachten Sie besonders die gut erhaltenen landwirtschaftlichen Werkzeuge.",
+            "hu": "Merüljön el az elmúlt évszázadok vidéki életében ebben a helytörténeti múzeumban, és különösen figyeljen a jól megőrzött mezőgazdasági eszközökre.",
+            "ro": "Cufundați-vă în viața rurală din secolele trecute în acest muzeu de istorie locală și acordați o atenție deosebită instrumentelor agricole bine conservate.",
+            "en": "Immerse yourself in the rural life of past centuries at this local history museum, paying particular attention to the well-preserved agricultural tools."
+          }
+        },
+        {
+          "name": {
+            "de": "Saltum Kirke",
+            "hu": "Saltum Kirke",
+            "ro": "Saltum Kirke",
+            "en": "Saltum Kirke"
+          },
+          "coords": [
+            9.695455,
+            57.282008
+          ],
+          "category": "religious",
+          "arrive_at": "12:49",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, aber würdevolle Architektur dieser alten Kirche, während Sie die ruhige Atmosphäre genießen und den historischen Friedhof erkunden.",
+            "hu": "Csodálja meg a régi templom letisztult, méltóságteljes építészetét, miközben elmerül a békés hangulatban és felfedezi a történelmi temetőt.",
+            "ro": "Admirați arhitectura simplă, dar demnă a acestei vechi biserici, în timp ce vă bucurați de atmosfera pașnică și explorați cimitirul istoric.",
+            "en": "Admire the simple but dignified architecture of this old church while enjoying the peaceful atmosphere and exploring the historic cemetery."
+          }
+        },
+        {
+          "name": {
+            "de": "Tykhøj",
+            "hu": "Tykhøj",
+            "ro": "Tykhøj",
+            "en": "Tykhøj"
+          },
+          "coords": [
+            9.729261,
+            57.279788
+          ],
+          "category": "historical",
+          "arrive_at": "13:33",
+          "stay_min": 80,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesem etwas abgelegeneren Hügelgrab im Osten der Gemeinde und genießen Sie die ungestörte Ruhe abseits der typischen Touristenpfade.",
+            "hu": "Túrázzon el ehhez a kissé távolabbi sírhalomhoz a település keleti részén, és élvezze a zavartalan békét a tipikus turistaútvonalaktól távol.",
+            "ro": "Faceți o drumeție către acest mormânt ceva mai îndepărtat din estul municipiului și bucurați-vă de liniștea netulburată, departe de rutele turistice tipice.",
+            "en": "Hike to this somewhat more remote burial mound in the east of the municipality and enjoy the undisturbed peace away from typical tourist routes."
+          }
+        },
+        {
+          "name": {
+            "de": "Blæshøj",
+            "hu": "Blæshøj",
+            "ro": "Blæshøj",
+            "en": "Blæshøj"
+          },
+          "coords": [
+            9.710716,
+            57.28577
+          ],
+          "category": "historical",
+          "arrive_at": "14:56",
+          "stay_min": 110,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Schließen Sie Ihre Erkundungstour an diesem windumtosten Hügel ab und lassen Sie bei einem Panoramablick über Nordjütland die historischen Eindrücke des Tages Revue passieren.",
+            "hu": "Fejezze be felfedező körútját ezen a szélfútta dombon, és tekintse át a nap történelmi benyomásait, miközben az észak-jütlandi panorámában gyönyörködik.",
+            "ro": "Încheiați-vă turul de explorare pe acest deal bătut de vânt și revizuiți impresiile istorice ale zilei în timp ce vă bucurați de o priveliște panoramică asupra Iutlandei de Nord.",
+            "en": "Conclude your exploration tour at this windswept hill and review the day's historical impressions while enjoying a panoramic view over North Jutland."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Die Fahrt beginnt aktiv am Guldgraveriet, gefolgt von einem Besuch der majestätischen Guldager Høje am Vormittag. Mittags führt die Tour ins Zentrum von Saltum, wo die Egnssamlingen einen umfassenden Einblick in das ländliche Erbe der Region gewährt. Am Nachmittag besichtigen Sie die spirituelle Ruhe der Saltum Kirke und fahren dann gemütlich weiter zum östlich gelegenen Tykhøj. Der Tag endet spektakulär am windigen Blæshøj, von wo aus Sie einen unvergesslichen Panoramablick genießen.",
+        "hu": "Az autós túra aktívan indul a Guldgraverietnél, majd délelőtt meglátogatjuk a fenséges Guldager Høje-t. Délben a túra Saltum központjába vezet, ahol az Egnssamlingen átfogó betekintést nyújt a régió vidéki örökségébe. Délután meglátogatja a Saltum Kirke spirituális nyugalmát, majd kényelmesen továbbutazik a keletre fekvő Tykhøj-hez. A nap látványosan ér véget a szeles Blæshøj-n, ahonnan felejthetetlen panorámában gyönyörködhet.",
+        "ro": "Plimbarea începe activ la Guldgraveriet, urmată de o vizită la maiestuosul Guldager Høje dimineața. La prânz, turul duce în centrul orașului Saltum, unde Egnssamlingen oferă o perspectivă cuprinzătoare asupra moștenirii rurale a regiunii. După-amiaza, vizitați liniștea spirituală a Bisericii Saltum și apoi conduceți confortabil până la Tykhøj, în est. Ziua se termină spectaculos pe vântul Blæshøj, de unde vă puteți bucura de o vedere panoramică de neuitat.",
+        "en": "The drive begins actively at Guldgraveriet, followed by a morning visit to the majestic Guldager Høje. At noon, the tour heads into the center of Saltum, where the Egnssamlingen provides a comprehensive insight into the region's rural heritage. In the afternoon, visit the spiritual tranquility of Saltum Kirke and then drive comfortably to Tykhøj in the east. The day ends spectacularly on the windy Blæshøj, from where you can enjoy an unforgettable panoramic view."
+      }
+    }
+  }
+}

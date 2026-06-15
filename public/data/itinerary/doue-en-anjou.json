@@ -1,0 +1,566 @@
+{
+  "city_id": "doue-en-anjou",
+  "anchor": {
+    "name": "Doué-en-Anjou",
+    "coords": [
+      -0.2744,
+      47.1939
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:43",
+      "total_km": 2.1,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Szent Péter-templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            -0.275572,
+            47.194507
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotische Architektur dieser zentralen Kirche und achten Sie besonders auf die kunstvollen Buntglasfenster, bevor Sie Ihren Rundgang am Morgen starten.",
+            "hu": "Csodálja meg a központi fekvésű templom lenyűgöző gótikus építészetét, és figyelje meg a részletgazdag ólomüveg ablakokat, mielőtt elindulna a város felfedezésére.",
+            "ro": "Admirați arhitectura gotică a acestei biserici centrale și acordați o atenție deosebită vitraliilor detaliate, un punct perfect de plecare pentru turul dumneavoastră.",
+            "en": "Admire the Gothic architecture of this central church and pay special attention to the intricate stained glass windows as a perfect starting point for your morning tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Arènes",
+            "hu": "Les Arènes",
+            "ro": "Les Arènes",
+            "en": "Les Arènes"
+          },
+          "coords": [
+            -0.26935,
+            47.19066
+          ],
+          "category": "landmark",
+          "arrive_at": "09:59",
+          "stay_min": 30,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses ungewöhnliche, in den Stein gehauene Amphitheater, das einst als Festplatz diente, und tragen Sie bequeme Schuhe für die unebenen antiken Stufen.",
+            "hu": "Fedezze fel ezt a sziklába vájt, egykor ünnepi helyszínként szolgáló különleges amfiteátrumot, és viseljen kényelmes cipőt az egyenetlen, ősi kőlépcsők miatt.",
+            "ro": "Explorați acest amfiteatru neobișnuit sculptat în stâncă, folosit cândva pentru festivaluri locale, și purtați încălțăminte comodă pentru treptele antice inegale.",
+            "en": "Explore this unusual amphitheater carved directly into the rock, once used for local festivals, and be sure to wear comfortable shoes for the uneven, ancient steps."
+          }
+        },
+        {
+          "name": {
+            "de": "Troglodytenhäuser",
+            "hu": "Troglodita házak",
+            "ro": "Case Troglodite",
+            "en": "Troglodyte Houses"
+          },
+          "coords": [
+            -0.264114,
+            47.191695
+          ],
+          "category": "landmark",
+          "arrive_at": "10:35",
+          "stay_min": 40,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Treten Sie in diese historischen Höhlenwohnungen ein, um das faszinierende unterirdische Leben der Region zu verstehen, und nehmen Sie sich Zeit für die kleinen Details.",
+            "hu": "Lépjen be ezekbe a történelmi barlanglakásokba, hogy megértse a régió lenyűgöző földalatti életmódját, és szánjon időt az egyedi, faragott részletek megfigyelésére.",
+            "ro": "Pășiți în aceste locuințe rupestre istorice pentru a înțelege fascinanta viață subterană a regiunii și luați-vă timp pentru a observa detaliile sculptate manual.",
+            "en": "Step into these historical cave dwellings to understand the fascinating underground lifestyle of the region, taking your time to observe the unique hand-carved details."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Perrières",
+            "hu": "Les Perrières",
+            "ro": "Les Perrières",
+            "en": "Les Perrières"
+          },
+          "coords": [
+            -0.263304,
+            47.189965
+          ],
+          "category": "historical",
+          "arrive_at": "11:18",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Steigen Sie hinab in die riesigen, kathedralenartigen Kalksteingewölbe dieser alten Steinbrüche und bringen Sie eine leichte Jacke mit, da es unter Tage recht kühl ist.",
+            "hu": "Ereszkedjen le ezen ősi kőbányák hatalmas, katedrálisszerű mészkőboltozatai közé, és hozzon magával egy könnyű kabátot, mivel a föld alatt egész évben meglehetősen hűvös van.",
+            "ro": "Coborâți în bolțile uriașe, asemănătoare unor catedrale, ale acestor cariere antice de calcar și aduceți o jachetă ușoară, deoarece temperaturile subterane sunt scăzute.",
+            "en": "Descend into the massive, cathedral-like limestone vaults of these ancient underground quarries, and bring a light jacket as temperatures remain quite cool down below."
+          }
+        },
+        {
+          "name": {
+            "de": "Mystère des Faluns",
+            "hu": "Mystère des Faluns",
+            "ro": "Mystère des Faluns",
+            "en": "Mystère des Faluns"
+          },
+          "coords": [
+            -0.261186,
+            47.190613
+          ],
+          "category": "cultural",
+          "arrive_at": "12:40",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.1,
+          "tip_5lang": {
+            "de": "Erleben Sie in diesen Höhlen eine magische Licht- und Tonshow über die Meeresvergangenheit der Region, wobei Sie für die beste Akustik in der Mitte der Gewölbe stehen sollten.",
+            "hu": "Élvezze a régió tengeri múltját bemutató varázslatos fény- és hangjátékot ezekben a barlangokban, és a legjobb akusztikai élményért álljon a boltozatok közepére.",
+            "ro": "Experimentați un spectacol magic de lumini și sunet despre trecutul marin al regiunii în aceste peșteri, stând în centrul bolților pentru a vă bucura de cea mai bună acustică.",
+            "en": "Experience a magical light and sound show about the region's marine past inside these caves, standing in the center of the main vaults to get the very best acoustics."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Maurice",
+            "hu": "Szent Móric-templom",
+            "ro": "Biserica Saint-Maurice",
+            "en": "Saint-Maurice Church"
+          },
+          "coords": [
+            -0.261628,
+            47.186159
+          ],
+          "category": "religious",
+          "arrive_at": "14:28",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die Überreste dieser charmanten, von der Zeit gezeichneten Kirche, die eine ruhige Atmosphäre für eine kurze historische Verschnaufpause im Freien bietet.",
+            "hu": "Látogassa meg ennek az idő által kikezdett, bájos kis templomnak a romjait, amely csendes, békés légkört biztosít egy rövid történelmi pihenőhöz a szabad ég alatt.",
+            "ro": "Vizitați rămășițele acestei biserici fermecătoare, marcată de timp, care oferă o atmosferă liniștită pentru un scurt moment de reflecție istorică în aer liber.",
+            "en": "Visit the remains of this charming, time-worn church, which provides a wonderfully quiet and peaceful atmosphere for a short historical breather out in the open air."
+          }
+        },
+        {
+          "name": {
+            "de": "Troglodytes et Sarcophages",
+            "hu": "Trogloditák és Szarkofágok",
+            "ro": "Troglodiți și Sarcofage",
+            "en": "Troglodytes and Sarcophagi"
+          },
+          "coords": [
+            -0.258565,
+            47.18443
+          ],
+          "category": "landmark",
+          "arrive_at": "15:13",
+          "stay_min": 90,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckende antike Sarkophag-Fabrik in den Höhlen und nutzen Sie die geführten Touren, um mehr über die handwerklichen Techniken des Mittelalters zu erfahren.",
+            "hu": "Fedezze fel a barlangokban található lenyűgöző ősi szarkofágkészítő műhelyt, és csatlakozzon egy vezetett túrához, hogy többet tudjon meg a középkori kőfaragási technikákról.",
+            "ro": "Descoperiți impresionanta fabrică antică de sarcofage ascunsă în peșteri și profitați de tururile ghidate pentru a afla mai multe despre tehnicile medievale de cioplire.",
+            "en": "Discover the impressive ancient sarcophagus factory hidden within the caves, and take advantage of the guided tours to learn more about medieval stone-carving techniques."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Doué-en-Anjou beginnt im Stadtzentrum mit der eleganten Église Saint-Pierre, bevor Sie sich auf den Weg machen, um die einzigartige Geologie der Region zu entdecken.\n\nAm späten Vormittag tauchen Sie in die faszinierende Welt der Höhlenbewohner ein. Von den ungewöhnlichen Arènes bis zu den authentischen Troglodytenhäusern offenbart sich das Erbe des Tuffsteins.\n\nDer Nachmittag ist den beeindruckenden unterirdischen Welten gewidmet. Sie durchqueren die gigantischen Gewölbe von Les Perrières und erleben im Mystère des Faluns eine magische Zeitreise.\n\nZum Abschluss erkunden Sie historische Sarkophag-Werkstätten, wo die stummen Zeugen vergangener Epochen diesen unvergesslichen Ausflug in die Unterwelt perfekt abrunden.",
+        "hu": "A Doué-en-Anjou-i napja a városközpontban, az elegáns Église Saint-Pierre templomnál kezdődik, mielőtt elindulna felfedezni a régió egyedülálló, kőbe vájt geológiai kincseit.\n\nA késő délelőtt folyamán elmerülhet a barlanglakók lenyűgöző világában. A különleges Arènes-től a hiteles troglodita házakig minden a tufakő gazdag örökségéről mesél.\n\nA délutánt a lenyűgöző földalatti világoknak szenteljük. Bejárja a Les Perrières gigantikus mészkőboltozatait, majd a Mystère des Faluns varázslatos fényjátékában tehet időutazást.\n\nA nap végén ősi szarkofágműhelyeket fedezhet fel, ahol a letűnt korok néma tanúi tökéletesen zárják ezt a felejthetetlen, földalatti kirándulást.",
+        "ro": "Ziua dumneavoastră în Doué-en-Anjou începe în centrul orașului la eleganta Église Saint-Pierre, înainte de a porni să descoperiți geologia unică, sculptată în piatră a regiunii.\n\nSpre sfârșitul dimineții, vă scufundați în lumea fascinantă a locuitorilor peșterilor. De la neobișnuitele Arènes la casele troglodite autentice, moștenirea tufului calcaros se dezvăluie.\n\nDupă-amiaza este dedicată lumilor subterane impresionante. Veți traversa bolțile gigantice de la Les Perrières și veți trăi o călătorie magică în timp prin Mystère des Faluns.\n\nLa finalul zilei, explorați ateliere antice de sarcofage, unde martorii tăcuți ai epocilor trecute completează perfect această excursie subterană de neuitat.",
+        "en": "Your day in Doué-en-Anjou begins in the city center at the elegant Église Saint-Pierre, before setting off to discover the unique, stone-carved geological treasures of the region.\n\nBy late morning, you will dive deeply into the fascinating world of cave dwellers. From the highly unusual Arènes to authentic troglodyte houses, the heritage of tuffeau stone is fully revealed.\n\nThe afternoon is entirely dedicated to the impressive underground worlds. You will traverse the gigantic vaults of Les Perrières and experience a magical journey through time at Mystère des Faluns.\n\nAs the day concludes, explore ancient sarcophagus workshops, where the silent witnesses of past eras perfectly round off this unforgettable trip into the subterranean."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:18",
+      "total_km": 6.2,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Szent Péter-templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            -0.275572,
+            47.194507
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotische Architektur dieser zentralen Kirche und achten Sie besonders auf die kunstvollen Buntglasfenster, bevor Sie Ihren Rundgang am Morgen starten.",
+            "hu": "Csodálja meg a központi fekvésű templom lenyűgöző gótikus építészetét, és figyelje meg a részletgazdag ólomüveg ablakokat, mielőtt elindulna a város felfedezésére.",
+            "ro": "Admirați arhitectura gotică a acestei biserici centrale și acordați o atenție deosebită vitraliilor detaliate, un punct perfect de plecare pentru turul dumneavoastră.",
+            "en": "Admire the Gothic architecture of this central church and pay special attention to the intricate stained glass windows as a perfect starting point for your morning tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Arènes",
+            "hu": "Les Arènes",
+            "ro": "Les Arènes",
+            "en": "Les Arènes"
+          },
+          "coords": [
+            -0.26935,
+            47.19066
+          ],
+          "category": "landmark",
+          "arrive_at": "09:53",
+          "stay_min": 30,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses ungewöhnliche, in den Stein gehauene Amphitheater, das einst als Festplatz diente, und tragen Sie bequeme Schuhe für die unebenen antiken Stufen.",
+            "hu": "Fedezze fel ezt a sziklába vájt, egykor ünnepi helyszínként szolgáló különleges amfiteátrumot, és viseljen kényelmes cipőt az egyenetlen, ősi kőlépcsők miatt.",
+            "ro": "Explorați acest amfiteatru neobișnuit sculptat în stâncă, folosit cândva pentru festivaluri locale, și purtați încălțăminte comodă pentru treptele antice inegale.",
+            "en": "Explore this unusual amphitheater carved directly into the rock, once used for local festivals, and be sure to wear comfortable shoes for the uneven, ancient steps."
+          }
+        },
+        {
+          "name": {
+            "de": "Troglodytenhäuser",
+            "hu": "Troglodita házak",
+            "ro": "Case Troglodite",
+            "en": "Troglodyte Houses"
+          },
+          "coords": [
+            -0.264114,
+            47.191695
+          ],
+          "category": "landmark",
+          "arrive_at": "10:25",
+          "stay_min": 40,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Treten Sie in diese historischen Höhlenwohnungen ein, um das faszinierende unterirdische Leben der Region zu verstehen, und nehmen Sie sich Zeit für die kleinen Details.",
+            "hu": "Lépjen be ezekbe a történelmi barlanglakásokba, hogy megértse a régió lenyűgöző földalatti életmódját, és szánjon időt az egyedi, faragott részletek megfigyelésére.",
+            "ro": "Pășiți în aceste locuințe rupestre istorice pentru a înțelege fascinanta viață subterană a regiunii și luați-vă timp pentru a observa detaliile sculptate manual.",
+            "en": "Step into these historical cave dwellings to understand the fascinating underground lifestyle of the region, taking your time to observe the unique hand-carved details."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Perrières",
+            "hu": "Les Perrières",
+            "ro": "Les Perrières",
+            "en": "Les Perrières"
+          },
+          "coords": [
+            -0.263304,
+            47.189965
+          ],
+          "category": "historical",
+          "arrive_at": "11:06",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Steigen Sie hinab in die riesigen, kathedralenartigen Kalksteingewölbe dieser alten Steinbrüche und bringen Sie eine leichte Jacke mit, da es unter Tage recht kühl ist.",
+            "hu": "Ereszkedjen le ezen ősi kőbányák hatalmas, katedrálisszerű mészkőboltozatai közé, és hozzon magával egy könnyű kabátot, mivel a föld alatt egész évben meglehetősen hűvös van.",
+            "ro": "Coborâți în bolțile uriașe, asemănătoare unor catedrale, ale acestor cariere antice de calcar și aduceți o jachetă ușoară, deoarece temperaturile subterane sunt scăzute.",
+            "en": "Descend into the massive, cathedral-like limestone vaults of these ancient underground quarries, and bring a light jacket as temperatures remain quite cool down below."
+          }
+        },
+        {
+          "name": {
+            "de": "Mystère des Faluns",
+            "hu": "Mystère des Faluns",
+            "ro": "Mystère des Faluns",
+            "en": "Mystère des Faluns"
+          },
+          "coords": [
+            -0.261186,
+            47.190613
+          ],
+          "category": "cultural",
+          "arrive_at": "12:27",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie in diesen Höhlen eine magische Licht- und Tonshow über die Meeresvergangenheit der Region, wobei Sie für die beste Akustik in der Mitte der Gewölbe stehen sollten.",
+            "hu": "Élvezze a régió tengeri múltját bemutató varázslatos fény- és hangjátékot ezekben a barlangokban, és a legjobb akusztikai élményért álljon a boltozatok közepére.",
+            "ro": "Experimentați un spectacol magic de lumini și sunet despre trecutul marin al regiunii în aceste peșteri, stând în centrul bolților pentru a vă bucura de cea mai bună acustică.",
+            "en": "Experience a magical light and sound show about the region's marine past inside these caves, standing in the center of the main vaults to get the very best acoustics."
+          }
+        },
+        {
+          "name": {
+            "de": "Troglodytes et Sarcophages",
+            "hu": "Trogloditák és Szarkofágok",
+            "ro": "Troglodiți și Sarcofage",
+            "en": "Troglodytes and Sarcophagi"
+          },
+          "coords": [
+            -0.258565,
+            47.18443
+          ],
+          "category": "landmark",
+          "arrive_at": "14:11",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckende antike Sarkophag-Fabrik in den Höhlen und nutzen Sie die geführten Touren, um mehr über die handwerklichen Techniken des Mittelalters zu erfahren.",
+            "hu": "Fedezze fel a barlangokban található lenyűgöző ősi szarkofágkészítő műhelyt, és csatlakozzon egy vezetett túrához, hogy többet tudjon meg a középkori kőfaragási technikákról.",
+            "ro": "Descoperiți impresionanta fabrică antică de sarcofage ascunsă în peșteri și profitați de tururile ghidate pentru a afla mai multe despre tehnicile medievale de cioplire.",
+            "en": "Discover the impressive ancient sarcophagus factory hidden within the caves, and take advantage of the guided tours to learn more about medieval stone-carving techniques."
+          }
+        },
+        {
+          "name": {
+            "de": "Rosengärten",
+            "hu": "Rózsa ösvények",
+            "ro": "Grădinile de Trandafiri",
+            "en": "Rose Gardens"
+          },
+          "coords": [
+            -0.31217,
+            47.18656
+          ],
+          "category": "recreational",
+          "arrive_at": "15:33",
+          "stay_min": 105,
+          "hop_from_prev_min": 22,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie entspannt durch diesen herrlichen Park mit Tausenden von duftenden Rosen, und besuchen Sie unbedingt den kleinen Laden für lokale, auf Rosen basierende Produkte.",
+            "hu": "Sétáljon egyet ebben a több ezer illatos rózsával teli, gyönyörű parkban, és mindenképpen térjen be a kis boltba, ahol különleges helyi rózsaalapú termékeket vásárolhat.",
+            "ro": "Plimbați-vă relaxat prin acest parc minunat, plin de mii de trandafiri parfumați, și asigurați-vă că vizitați micul magazin pentru a cumpăra produse locale pe bază de trandafiri.",
+            "en": "Take a relaxing stroll through this magnificent park filled with thousands of fragrant roses, and be sure to visit the small shop to buy unique local rose-based products."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Doué-en-Anjou beginnt im Stadtzentrum mit der eleganten Église Saint-Pierre, bevor Sie sich auf den Weg machen, um die einzigartige Geologie der Region zu entdecken.\n\nAm späten Vormittag tauchen Sie in die faszinierende Welt der Höhlenbewohner ein. Von den ungewöhnlichen Arènes bis zu den authentischen Troglodytenhäusern offenbart sich das Erbe des Tuffsteins.\n\nDer Nachmittag ist den beeindruckenden unterirdischen Welten gewidmet. Sie durchqueren die gigantischen Gewölbe von Les Perrières und erleben im Mystère des Faluns eine magische Zeitreise.\n\nZum Abschluss radeln Sie zu den weitläufigen Rosengärten, wo der sanfte Duft tausender Blüten diesen unvergesslichen Ausflug perfekt abrundet.",
+        "hu": "A Doué-en-Anjou-i napja a városközpontban, az elegáns Église Saint-Pierre templomnál kezdődik, mielőtt elindulna felfedezni a régió egyedülálló, kőbe vájt geológiai kincseit.\n\nA késő délelőtt folyamán elmerülhet a barlanglakók lenyűgöző világában. A különleges Arènes-től a hiteles troglodita házakig minden a tufakő gazdag örökségéről mesél.\n\nA délutánt a lenyűgöző földalatti világoknak szenteljük. Bejárja a Les Perrières gigantikus mészkőboltozatait, majd a Mystère des Faluns varázslatos fényjátékában tehet időutazást.\n\nA nap végén elkerekezik a hatalmas rózsakertekbe, ahol a virágok finom illata tökéletesen zárja ezt a felejthetetlen kirándulást.",
+        "ro": "Ziua dumneavoastră în Doué-en-Anjou începe în centrul orașului la eleganta Église Saint-Pierre, înainte de a porni să descoperiți geologia unică, sculptată în piatră a regiunii.\n\nSpre sfârșitul dimineții, vă scufundați în lumea fascinantă a locuitorilor peșterilor. De la neobișnuitele Arènes la casele troglodite autentice, moștenirea tufului calcaros se dezvăluie pas cu pas.\n\nDupă-amiaza este dedicată lumilor subterane impresionante. Veți traversa bolțile gigantice de la Les Perrières și veți trăi o călătorie magică în timp prin Mystère des Faluns.\n\nLa finalul zilei, pedalați spre grădinile întinse de trandafiri, unde parfumul delicat al florilor completează perfect această excursie de neuitat.",
+        "en": "Your day in Doué-en-Anjou begins in the city center at the elegant Église Saint-Pierre, before setting off to discover the unique, stone-carved geological treasures of the region.\n\nBy late morning, you will dive deeply into the fascinating world of cave dwellers. From the highly unusual Arènes to authentic troglodyte houses, the heritage of tuffeau stone is fully revealed.\n\nThe afternoon is entirely dedicated to the impressive underground worlds. You will traverse the gigantic vaults of Les Perrières and experience a magical journey through time at Mystère des Faluns.\n\nAs the day concludes, cycle out to the expansive rose gardens, where the gentle fragrance of thousands of blooms perfectly rounds off this unforgettable trip."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:41",
+      "total_km": 6.5,
+      "stop_count": 8,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Saint-Pierre",
+            "hu": "Szent Péter-templom",
+            "ro": "Biserica Saint-Pierre",
+            "en": "Saint-Pierre Church"
+          },
+          "coords": [
+            -0.275572,
+            47.194507
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die gotische Architektur dieser zentralen Kirche und achten Sie besonders auf die kunstvollen Buntglasfenster, bevor Sie Ihren Rundgang am Morgen starten.",
+            "hu": "Csodálja meg a központi fekvésű templom lenyűgöző gótikus építészetét, és figyelje meg a részletgazdag ólomüveg ablakokat, mielőtt elindulna a város felfedezésére.",
+            "ro": "Admirați arhitectura gotică a acestei biserici centrale și acordați o atenție deosebită vitraliilor detaliate, un punct perfect de plecare pentru turul dumneavoastră.",
+            "en": "Admire the Gothic architecture of this central church and pay special attention to the intricate stained glass windows as a perfect starting point for your morning tour."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Arènes",
+            "hu": "Les Arènes",
+            "ro": "Les Arènes",
+            "en": "Les Arènes"
+          },
+          "coords": [
+            -0.26935,
+            47.19066
+          ],
+          "category": "landmark",
+          "arrive_at": "09:51",
+          "stay_min": 30,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses ungewöhnliche, in den Stein gehauene Amphitheater, das einst als Festplatz diente, und tragen Sie bequeme Schuhe für die unebenen antiken Stufen.",
+            "hu": "Fedezze fel ezt a sziklába vájt, egykor ünnepi helyszínként szolgáló különleges amfiteátrumot, és viseljen kényelmes cipőt az egyenetlen, ősi kőlépcsők miatt.",
+            "ro": "Explorați acest amfiteatru neobișnuit sculptat în stâncă, folosit cândva pentru festivaluri locale, și purtați încălțăminte comodă pentru treptele antice inegale.",
+            "en": "Explore this unusual amphitheater carved directly into the rock, once used for local festivals, and be sure to wear comfortable shoes for the uneven, ancient steps."
+          }
+        },
+        {
+          "name": {
+            "de": "Troglodytenhäuser",
+            "hu": "Troglodita házak",
+            "ro": "Case Troglodite",
+            "en": "Troglodyte Houses"
+          },
+          "coords": [
+            -0.264114,
+            47.191695
+          ],
+          "category": "landmark",
+          "arrive_at": "10:22",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Treten Sie in diese historischen Höhlenwohnungen ein, um das faszinierende unterirdische Leben der Region zu verstehen, und nehmen Sie sich Zeit für die kleinen Details.",
+            "hu": "Lépjen be ezekbe a történelmi barlanglakásokba, hogy megértse a régió lenyűgöző földalatti életmódját, és szánjon időt az egyedi, faragott részletek megfigyelésére.",
+            "ro": "Pășiți în aceste locuințe rupestre istorice pentru a înțelege fascinanta viață subterană a regiunii și luați-vă timp pentru a observa detaliile sculptate manual.",
+            "en": "Step into these historical cave dwellings to understand the fascinating underground lifestyle of the region, taking your time to observe the unique hand-carved details."
+          }
+        },
+        {
+          "name": {
+            "de": "Les Perrières",
+            "hu": "Les Perrières",
+            "ro": "Les Perrières",
+            "en": "Les Perrières"
+          },
+          "coords": [
+            -0.263304,
+            47.189965
+          ],
+          "category": "historical",
+          "arrive_at": "11:03",
+          "stay_min": 80,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Steigen Sie hinab in die riesigen, kathedralenartigen Kalksteingewölbe dieser alten Steinbrüche und bringen Sie eine leichte Jacke mit, da es unter Tage recht kühl ist.",
+            "hu": "Ereszkedjen le ezen ősi kőbányák hatalmas, katedrálisszerű mészkőboltozatai közé, és hozzon magával egy könnyű kabátot, mivel a föld alatt egész évben meglehetősen hűvös van.",
+            "ro": "Coborâți în bolțile uriașe, asemănătoare unor catedrale, ale acestor cariere antice de calcar și aduceți o jachetă ușoară, deoarece temperaturile subterane sunt scăzute.",
+            "en": "Descend into the massive, cathedral-like limestone vaults of these ancient underground quarries, and bring a light jacket as temperatures remain quite cool down below."
+          }
+        },
+        {
+          "name": {
+            "de": "Mystère des Faluns",
+            "hu": "Mystère des Faluns",
+            "ro": "Mystère des Faluns",
+            "en": "Mystère des Faluns"
+          },
+          "coords": [
+            -0.261186,
+            47.190613
+          ],
+          "category": "cultural",
+          "arrive_at": "12:24",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Erleben Sie in diesen Höhlen eine magische Licht- und Tonshow über die Meeresvergangenheit der Region, wobei Sie für die beste Akustik in der Mitte der Gewölbe stehen sollten.",
+            "hu": "Élvezze a régió tengeri múltját bemutató varázslatos fény- és hangjátékot ezekben a barlangokban, és a legjobb akusztikai élményért álljon a boltozatok közepére.",
+            "ro": "Experimentați un spectacol magic de lumini și sunet despre trecutul marin al regiunii în aceste peșteri, stând în centrul bolților pentru a vă bucura de cea mai bună acustică.",
+            "en": "Experience a magical light and sound show about the region's marine past inside these caves, standing in the center of the main vaults to get the very best acoustics."
+          }
+        },
+        {
+          "name": {
+            "de": "Troglodytes et Sarcophages",
+            "hu": "Trogloditák és Szarkofágok",
+            "ro": "Troglodiți și Sarcofage",
+            "en": "Troglodytes and Sarcophagi"
+          },
+          "coords": [
+            -0.258565,
+            47.18443
+          ],
+          "category": "landmark",
+          "arrive_at": "14:06",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entdecken Sie die beeindruckende antike Sarkophag-Fabrik in den Höhlen und nutzen Sie die geführten Touren, um mehr über die handwerklichen Techniken des Mittelalters zu erfahren.",
+            "hu": "Fedezze fel a barlangokban található lenyűgöző ősi szarkofágkészítő műhelyt, és csatlakozzon egy vezetett túrához, hogy többet tudjon meg a középkori kőfaragási technikákról.",
+            "ro": "Descoperiți impresionanta fabrică antică de sarcofage ascunsă în peșteri și profitați de tururile ghidate pentru a afla mai multe despre tehnicile medievale de cioplire.",
+            "en": "Discover the impressive ancient sarcophagus factory hidden within the caves, and take advantage of the guided tours to learn more about medieval stone-carving techniques."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Saint-Maurice",
+            "hu": "Szent Móric-templom",
+            "ro": "Biserica Saint-Maurice",
+            "en": "Saint-Maurice Church"
+          },
+          "coords": [
+            -0.261628,
+            47.186159
+          ],
+          "category": "religious",
+          "arrive_at": "15:07",
+          "stay_min": 40,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Besichtigen Sie die Überreste dieser charmanten, von der Zeit gezeichneten Kirche, die eine ruhige Atmosphäre für eine kurze historische Verschnaufpause im Freien bietet.",
+            "hu": "Látogassa meg ennek az idő által kikezdett, bájos kis templomnak a romjait, amely csendes, békés légkört biztosít egy rövid történelmi pihenőhöz a szabad ég alatt.",
+            "ro": "Vizitați rămășițele acestei biserici fermecătoare, marcată de timp, care oferă o atmosferă liniștită pentru un scurt moment de reflecție istorică în aer liber.",
+            "en": "Visit the remains of this charming, time-worn church, which provides a wonderfully quiet and peaceful atmosphere for a short historical breather out in the open air."
+          }
+        },
+        {
+          "name": {
+            "de": "Rosengärten",
+            "hu": "Rózsa ösvények",
+            "ro": "Grădinile de Trandafiri",
+            "en": "Rose Gardens"
+          },
+          "coords": [
+            -0.31217,
+            47.18656
+          ],
+          "category": "recreational",
+          "arrive_at": "15:56",
+          "stay_min": 105,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 4.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie entspannt durch diesen herrlichen Park mit Tausenden von duftenden Rosen, und besuchen Sie unbedingt den kleinen Laden für lokale, auf Rosen basierende Produkte.",
+            "hu": "Sétáljon egyet ebben a több ezer illatos rózsával teli, gyönyörű parkban, és mindenképpen térjen be a kis boltba, ahol különleges helyi rózsaalapú termékeket vásárolhat.",
+            "ro": "Plimbați-vă relaxat prin acest parc minunat, plin de mii de trandafiri parfumați, și asigurați-vă că vizitați micul magazin pentru a cumpăra produse locale pe bază de trandafiri.",
+            "en": "Take a relaxing stroll through this magnificent park filled with thousands of fragrant roses, and be sure to visit the small shop to buy unique local rose-based products."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihr Tag in Doué-en-Anjou beginnt im Stadtzentrum mit der eleganten Église Saint-Pierre, bevor Sie sich auf den Weg machen, um die einzigartige Geologie der Region zu entdecken.\n\nAm späten Vormittag tauchen Sie in die faszinierende Welt der Höhlenbewohner ein. Von den ungewöhnlichen Arènes bis zu den authentischen Troglodytenhäusern offenbart sich das Erbe des Tuffsteins.\n\nDer Nachmittag ist den beeindruckenden unterirdischen Welten gewidmet. Sie durchqueren die gigantischen Gewölbe von Les Perrières und erleben im Mystère des Faluns eine magische Zeitreise.\n\nZum Abschluss fahren Sie hinaus zu den weiten Rosengärten, wo der sanfte Duft tausender Blüten diesen unvergesslichen Ausflug perfekt abrundet.",
+        "hu": "A Doué-en-Anjou-i napja a városközpontban, az elegáns Église Saint-Pierre templomnál kezdődik, mielőtt elindulna felfedezni a régió egyedülálló, kőbe vájt geológiai kincseit.\n\nA késő délelőtt folyamán elmerülhet a barlanglakók lenyűgöző világában. A különleges Arènes-től a hiteles troglodita házakig minden a tufakő gazdag örökségéről mesél.\n\nA délutánt a lenyűgöző földalatti világoknak szenteljük. Bejárja a Les Perrières gigantikus mészkőboltozatait, majd a Mystère des Faluns varázslatos fényjátékában tehet időutazást.\n\nA nap végén autóba ül, és felfedezi a hatalmas rózsakerteket, ahol a virágok finom illata tökéletesen zárja ezt a felejthetetlen kirándulást.",
+        "ro": "Ziua dumneavoastră în Doué-en-Anjou începe în centrul orașului la eleganta Église Saint-Pierre, înainte de a porni să descoperiți geologia unică, sculptată în piatră a regiunii.\n\nSpre sfârșitul dimineții, vă scufundați în lumea fascinantă a locuitorilor peșterilor. De la neobișnuitele Arènes la casele troglodite autentice, moștenirea tufului calcaros se dezvăluie pas cu pas.\n\nDupă-amiaza este dedicată lumilor subterane impresionante. Veți traversa bolțile gigantice de la Les Perrières și veți trăi o călătorie magică în timp prin Mystère des Faluns.\n\nLa finalul zilei, conduceți spre grădinile întinse de trandafiri, unde parfumul delicat al florilor completează perfect această excursie de neuitat.",
+        "en": "Your day in Doué-en-Anjou begins in the city center at the elegant Église Saint-Pierre, before setting off to discover the unique, stone-carved geological treasures of the region.\n\nBy late morning, you will dive deeply into the fascinating world of cave dwellers. From the highly unusual Arènes to authentic troglodyte houses, the heritage of tuffeau stone is fully revealed.\n\nThe afternoon is entirely dedicated to the impressive underground worlds. You will traverse the gigantic vaults of Les Perrières and experience a magical journey through time at Mystère des Faluns.\n\nAs the day concludes, drive out to the expansive rose gardens, where the gentle fragrance of thousands of blooms perfectly rounds off this unforgettable trip."
+      }
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "city_id": "city-coimbra",
+  "anchor": {
+    "name": "Coimbra",
+    "coords": [
+      -8.4103,
+      40.2033
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "16:35",
+      "total_km": 1.88,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Igreja de Santa Cruz",
+            "hu": "Igreja de Santa Cruz",
+            "ro": "Igreja de Santa Cruz",
+            "en": "Igreja de Santa Cruz"
+          },
+          "coords": [
+            -8.428736,
+            40.21093
+          ],
+          "category": "religious",
+          "arrive_at": "09:10",
+          "stay_min": 40,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die königlichen Gräber in der Igreja de Santa Cruz, einem Meisterwerk der Renaissance, und besuchen Sie das Café daneben für eine Kaffeepause.",
+            "hu": "Csodálja meg a királyi sírokat az Igreja de Santa Cruz reneszánsz mesterművében, és ugorjon be egy kávéra a közvetlenül mellette található történelmi kávézóba.",
+            "ro": "Admirați mormintele regale din Igreja de Santa Cruz, o capodoperă a Renașterii, și faceți o pauză la cafeneaua istorică aflată chiar lângă intrarea principală.",
+            "en": "Admire the royal tombs inside the Igreja de Santa Cruz, a Renaissance masterpiece, and take a quick coffee break at the historic café right next to the entrance."
+          }
+        },
+        {
+          "name": {
+            "de": "Palácio Sub-Ripas",
+            "hu": "Palácio Sub-Ripas",
+            "ro": "Palácio Sub-Ripas",
+            "en": "Palácio Sub-Ripas"
+          },
+          "coords": [
+            -8.42838,
+            40.209434
+          ],
+          "category": "castle",
+          "arrive_at": "09:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.17,
+          "tip_5lang": {
+            "de": "Betrachten Sie die kunstvollen manuelinischen Portale dieses Palastes aus dem 16. Jahrhundert, der am besten im sanften Morgenlicht fotografiert werden sollte.",
+            "hu": "Figyelje meg a 16. századi palota lenyűgöző Mánuel-stílusú portáljait, amelyeket a kora délelőtti lágy fényekben a legérdemesebb lencsevégre kapni sétája során.",
+            "ro": "Observați portalurile manueline detaliate ale acestui palat din secolul al XVI-lea, pe care este recomandat să îl fotografiați în lumina blândă a dimineții.",
+            "en": "Observe the intricate Manueline portals of this 16th-century palace, which is best photographed in the soft morning light before the narrow streets get crowded."
+          }
+        },
+        {
+          "name": {
+            "de": "Sé Velha de Coimbra",
+            "hu": "Sé Velha de Coimbra",
+            "ro": "Sé Velha de Coimbra",
+            "en": "Sé Velha de Coimbra"
+          },
+          "coords": [
+            -8.426994,
+            40.208774
+          ],
+          "category": "religious",
+          "arrive_at": "11:15",
+          "stay_min": 75,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Erkunden Sie die festungsartige romanische Architektur der Sé Velha und achten Sie besonders auf die feinen Details des beeindruckenden gotischen Kreuzgangs.",
+            "hu": "Fedezze fel a Sé Velha erődszerű román építészetét, és szánjon időt a lenyűgöző gótikus kerengő finoman kidolgozott, részletgazdag oszlopfőinek megtekintésére.",
+            "ro": "Explorați arhitectura romanică asemănătoare unei fortărețe a Sé Velha și acordați o atenție deosebită detaliilor fine sculptate în impresionantele sale cloistre gotice.",
+            "en": "Explore the fortress-like Romanesque architecture of the Sé Velha, paying special attention to the fine sculptural details within its impressive Gothic cloisters."
+          }
+        },
+        {
+          "name": {
+            "de": "Capela de São Miguel",
+            "hu": "Capela de São Miguel",
+            "ro": "Capela de São Miguel",
+            "en": "Capela de São Miguel"
+          },
+          "coords": [
+            -8.426461,
+            40.207415
+          ],
+          "category": "religious",
+          "arrive_at": "12:33",
+          "stay_min": 40,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.16,
+          "tip_5lang": {
+            "de": "Lassen Sie sich von den bunten Azulejo-Fliesen und der barocken Orgel dieser Universitätskapelle verzaubern, für die Sie vorab online Tickets reservieren sollten.",
+            "hu": "Hagyja, hogy elvarázsolják az egyetemi kápolna színes azulejo csempéi és barokk orgonája, de a bejutáshoz mindenképpen foglaljon jegyet előre az interneten.",
+            "ro": "Lăsați-vă fermecați de plăcile azulejo colorate și de orga barocă a acestei capele universitare, pentru care este recomandat să vă rezervați biletele online din timp.",
+            "en": "Be enchanted by the vibrant azulejo tiles and the grand Baroque organ of this university chapel, making sure to reserve your entry tickets online well in advance."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanical Garden of the University of Coimbra",
+            "hu": "Botanical Garden of the University of Coimbra",
+            "ro": "Botanical Garden of the University of Coimbra",
+            "en": "Botanical Garden of the University of Coimbra"
+          },
+          "coords": [
+            -8.423517,
+            40.20353
+          ],
+          "category": "park",
+          "arrive_at": "13:21",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Schlendern Sie durch die exotischen Pflanzensammlungen dieses historischen botanischen Gartens, der an heißen Nachmittagen wunderbar kühlende Schattenplätze bietet.",
+            "hu": "Sétáljon végig a történelmi botanikus kert egzotikus növénygyűjteményein, amely a forró délutánokon kellemesen hűsítő, árnyékos pihenőhelyeket kínál a látogatóknak.",
+            "ro": "Plimbați-vă printre colecțiile de plante exotice ale acestei grădini botanice istorice, care oferă locuri umbrite perfecte pentru relaxare în după-amiezile fierbinți.",
+            "en": "Stroll through the exotic plant collections of this historic botanical garden, which provides wonderfully refreshing and shaded resting spots on hot afternoons."
+          }
+        },
+        {
+          "name": {
+            "de": "Aqueduto de São Sebastião",
+            "hu": "Aqueduto de São Sebastião",
+            "ro": "Aqueduto de São Sebastião",
+            "en": "Aqueduto de São Sebastião"
+          },
+          "coords": [
+            -8.420686,
+            40.206843
+          ],
+          "category": "landmark",
+          "arrive_at": "14:28",
+          "stay_min": 15,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Verfolgen Sie die eleganten Bögen dieses römisch inspirierten Aquädukts aus dem 16. Jahrhundert, das die perfekte Kulisse für Ihre Urlaubsfotos vor dem Park bietet.",
+            "hu": "Kövesse végig a 16. századi, római ihletésű vízvezeték elegáns boltíveit, amely tökéletes történelmi hátteret biztosít a park előtt készített nyaralási fotókhoz.",
+            "ro": "Urmăriți arcele elegante ale acestui apeduct din secolul al XVI-lea, inspirat din arhitectura romană, care oferă un fundal perfect pentru fotografiile de vacanță.",
+            "en": "Follow the elegant arches of this 16th-century Roman-inspired aqueduct, which seamlessly blends into the urban landscape and offers a great backdrop for photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Parque de Santa Cruz",
+            "hu": "Parque de Santa Cruz",
+            "ro": "Parque de Santa Cruz",
+            "en": "Parque de Santa Cruz"
+          },
+          "coords": [
+            -8.416954,
+            40.209687
+          ],
+          "category": "park",
+          "arrive_at": "14:50",
+          "stay_min": 105,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.45,
+          "tip_5lang": {
+            "de": "Entspannen Sie in diesem terrassenförmig angelegten Stadtpark mit seinem barocken Garten, wo Sie den Tag auf einer ruhigen Bank mit Blick auf die Stadt ausklingen lassen können.",
+            "hu": "Pihenjen meg ebben a teraszos kialakítású városi parkban és annak barokk kertjében, ahol a napot egy csendes padon ülve, a városi panorámában gyönyörködve zárhatja.",
+            "ro": "Relaxați-vă în acest parc urban terasat cu o superbă grădină barocă, unde vă puteți încheia ziua pe o bancă liniștită, admirând priveliștea deasupra orașului.",
+            "en": "Relax in this terraced urban park featuring a lovely Baroque garden, where you can perfectly end your day sitting on a quiet bench while overlooking the lower city."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen in der belebten Unterstadt bei der Igreja de Santa Cruz. Mittags erkunden Sie die engen, gewundenen Gassen rund um die alte Kathedrale und die Universität. Der Nachmittag gehört dem kühlen Schatten des historischen botanischen Gartens. Den Abend lassen Sie entspannt im terrassierten Parque de Santa Cruz mit Blick über Coimbra ausklingen.",
+        "hu": "Kezdje a reggelt az alsóváros nyüzsgésében, a történelmi Igreja de Santa Cruz közelében. Délben fedezze fel a régi katedrális és az egyetem körüli kanyargós utcákat. A délutánt a történelmi botanikus kert hűsítő árnyékában töltheti. Az estét a teraszos Parque de Santa Cruz parkban zárhatja, ahonnan csodás kilátás nyílik Coimbra városára.",
+        "ro": "Începeți dimineața în orașul de jos, vizitând istorica Igreja de Santa Cruz. La prânz, explorați străduțele întortocheate din jurul vechii catedrale și ale universității. După-amiaza este dedicată umbrei răcoroase a grădinii botanice istorice. Încheiați seara relaxându-vă în Parque de Santa Cruz, admirând priveliștea minunată asupra orașului Coimbra.",
+        "en": "Start your morning in the vibrant lower town at the historic Igreja de Santa Cruz. Midday is perfect for exploring the winding medieval streets around the old cathedral and university. Spend your afternoon enjoying the cool shade of the botanical garden. Conclude your evening relaxing in the terraced Parque de Santa Cruz, overlooking the beautiful city."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:15",
+      "total_km": 3.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Ponte Pedonal Pedro e Inês",
+            "hu": "Ponte Pedonal Pedro e Inês",
+            "ro": "Ponte Pedonal Pedro e Inês",
+            "en": "Ponte Pedonal Pedro e Inês"
+          },
+          "coords": [
+            -8.427117,
+            40.201132
+          ],
+          "category": "landmark",
+          "arrive_at": "09:10",
+          "stay_min": 15,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Radeln Sie über diese farbenfrohe und moderne Fußgängerbrücke, die in der Mitte einen tollen Aussichtspunkt auf den Mondego-Fluss für eine kurze Pause bietet.",
+            "hu": "Tekerjen át ezen a színpompás és modern gyalogos hídon, amelynek középső részén egy kiváló kilátópont található, ahonnan csodás kilátás nyílik a Mondego folyóra.",
+            "ro": "Pedalați pe acest pod pietonal modern și colorat, care oferă la mijlocul său un punct de belvedere excelent asupra râului Mondego pentru o scurtă pauză de poze.",
+            "en": "Cycle across this colorful and modern pedestrian bridge, which features a cleverly designed middle viewing platform that is perfect for a quick pause over the river."
+          }
+        },
+        {
+          "name": {
+            "de": "Botanical Garden of the University of Coimbra",
+            "hu": "Botanical Garden of the University of Coimbra",
+            "ro": "Botanical Garden of the University of Coimbra",
+            "en": "Botanical Garden of the University of Coimbra"
+          },
+          "coords": [
+            -8.423517,
+            40.20353
+          ],
+          "category": "park",
+          "arrive_at": "09:27",
+          "stay_min": 60,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Schieben Sie Ihr Fahrrad durch die Hauptalleen dieses botanischen Gartens, um die jahrhundertealten Bäume zu bewundern und sich im Schatten der Natur zu erholen.",
+            "hu": "Tolja végig kerékpárját a botanikus kert fő sétányain, hogy megcsodálja az évszázados fákat, és egy kicsit megpihenjen a természet hűsítő árnyékában a tekerés után.",
+            "ro": "Plimbați-vă pe lângă bicicletă pe aleile principale ale grădinii botanice pentru a admira copacii seculari și a vă odihni în umbra naturii după efortul depus.",
+            "en": "Walk your bike along the main avenues of this vast botanical garden to admire the centuries-old trees and enjoy a well-deserved rest in the natural shade."
+          }
+        },
+        {
+          "name": {
+            "de": "Penedo da Saudade",
+            "hu": "Penedo da Saudade",
+            "ro": "Penedo da Saudade",
+            "en": "Penedo da Saudade"
+          },
+          "coords": [
+            -8.414659,
+            40.205123
+          ],
+          "category": "landmark",
+          "arrive_at": "10:31",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.78,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick von diesem romantischen Aussichtspunkt, der mit Gedichten auf Steintafeln verziert ist und einen sicheren Abstellplatz fürs Rad bietet.",
+            "hu": "Élvezze a panorámát erről a kőtáblákba vésett versekkel díszített, romantikus kilátópontról, ahol biztonságosan és kényelmesen leparkolhatja a kerékpárját is.",
+            "ro": "Bucurați-vă de panorama de la acest punct de belvedere romantic decorat cu poezii pe plăci de piatră, unde veți găsi un loc sigur pentru a vă parca bicicleta.",
+            "en": "Enjoy the panoramic views from this romantic vantage point adorned with poems carved in stone, which also conveniently provides a safe spot to park your bicycle."
+          }
+        },
+        {
+          "name": {
+            "de": "Aqueduto de São Sebastião",
+            "hu": "Aqueduto de São Sebastião",
+            "ro": "Aqueduto de São Sebastião",
+            "en": "Aqueduto de São Sebastião"
+          },
+          "coords": [
+            -8.420686,
+            40.206843
+          ],
+          "category": "landmark",
+          "arrive_at": "10:59",
+          "stay_min": 15,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.55,
+          "tip_5lang": {
+            "de": "Fahren Sie am historischen Aquädukt vorbei, dessen majestätische Struktur den Weg ins Stadtzentrum markiert und sich ideal als Orientierungspunkt auf Ihrer Route eignet.",
+            "hu": "Tekerjen el a történelmi vízvezeték mellett, amelynek fenséges szerkezete a városközpontba vezető utat jelöli, és kiváló tájékozódási pontként szolgál a túrán.",
+            "ro": "Treceți cu bicicleta pe lângă apeductul istoric, a cărui structură maiestuoasă marchează drumul spre centrul orașului și servește drept punct de orientare ideal.",
+            "en": "Ride past the historical aqueduct, whose majestic structure marks the pathway into the city center and serves as a highly visible orientation point on your route."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja de Santa Cruz",
+            "hu": "Igreja de Santa Cruz",
+            "ro": "Igreja de Santa Cruz",
+            "en": "Igreja de Santa Cruz"
+          },
+          "coords": [
+            -8.428736,
+            40.21093
+          ],
+          "category": "religious",
+          "arrive_at": "11:19",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.82,
+          "tip_5lang": {
+            "de": "Besuchen Sie das historische Kloster und binden Sie Ihr Fahrrad am nahegelegenen Platz an, um in Ruhe die reich verzierten manuelinischen Kreuzgänge zu besichtigen.",
+            "hu": "Látogasson el a történelmi kolostorba, és zárja le kerékpárját a közeli téren, hogy nyugodtan, sietség nélkül fedezhesse fel a gazdagon díszített kerengőket.",
+            "ro": "Vizitați mănăstirea istorică și legați-vă bicicleta în piața din apropiere pentru a explora în liniște faimoasele și bogat decoratele sale cloistre manueline.",
+            "en": "Visit the historic monastery and lock your bike securely in the nearby square so you can take your time exploring its richly decorated Manueline cloisters inside."
+          }
+        },
+        {
+          "name": {
+            "de": "Mosteiro de Santa Clara-a-Velha",
+            "hu": "Mosteiro de Santa Clara-a-Velha",
+            "ro": "Mosteiro de Santa Clara-a-Velha",
+            "en": "Mosteiro de Santa Clara-a-Velha"
+          },
+          "coords": [
+            -8.432716,
+            40.201946
+          ],
+          "category": "museum",
+          "arrive_at": "12:05",
+          "stay_min": 130,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.05,
+          "tip_5lang": {
+            "de": "Entdecken Sie die teilweise überfluteten gotischen Ruinen dieses Klosters am Flussufer, das über exzellente Radwege direkt aus der Innenstadt erreichbar ist.",
+            "hu": "Fedezze fel a folyóparti kolostor részben víz alá került gótikus romjait, amely a belvárosból kiválóan kiépített kerékpárutakon keresztül is könnyedén megközelíthető.",
+            "ro": "Descoperiți ruinele gotice parțial inundate ale acestei mănăstiri de pe malul râului, accesibilă foarte ușor din centrul orașului prin piste de biciclete excelente.",
+            "en": "Discover the partially flooded Gothic ruins of this riverside monastery, which is exceptionally easy to reach from the city center via dedicated bicycle paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie morgens mit einer frischen Brise auf der bunten Fußgängerbrücke über den Mondego. Mittags erradeln Sie sich die grünen Oasen des botanischen Gartens und den poetischen Aussichtspunkt Penedo da Saudade. Nachmittags rollen Sie gemütlich an historischen Aquädukten vorbei in die Altstadt. Der Abend klingt bei den beeindruckenden Ruinen von Santa Clara aus.",
+        "hu": "Indítsa a reggelt egy frissítő tekeréssel a Mondego folyó felett átívelő színes gyalogos hídon. Délben fedezze fel a botanikus kert zöld oázisát és a romantikus Penedo da Saudade kilátót. Délután guruljon el a történelmi vízvezetékek mellett egyenesen az óvárosba. Az estét a folyóparti Santa Clara kolostor lenyűgöző romjainál fejezheti be.",
+        "ro": "Începeți dimineața cu o briză proaspătă pe podul pietonal colorat peste râul Mondego. La prânz, pedalați spre oaza verde a grădinii botanice și punctul de belvedere Penedo da Saudade. După-amiaza, treceți pe lângă apeductul istoric direct în centrul vechi. Seara se încheie liniștit la ruinele impresionante ale mănăstirii Santa Clara.",
+        "en": "Kick off your morning with a fresh breeze on the colorful pedestrian bridge over the Mondego. By midday, cycle up to the botanical garden's green oasis and the poetic Penedo da Saudade viewpoint. In the afternoon, cruise past the historic aqueduct into the old town. Wind down your evening exploring the impressive riverside ruins of Santa Clara."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:13",
+      "total_km": 7.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Mata Nacional do Choupal",
+            "hu": "Mata Nacional do Choupal",
+            "ro": "Mata Nacional do Choupal",
+            "en": "Mata Nacional do Choupal"
+          },
+          "coords": [
+            -8.454245,
+            40.220092
+          ],
+          "category": "park",
+          "arrive_at": "09:10",
+          "stay_min": 75,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0,
+          "tip_5lang": {
+            "de": "Starten Sie Ihren Tag mit einem Spaziergang in diesem weitläufigen Pappelwald, der über reichlich Parkplätze am Eingang verfügt und perfekt für Naturliebhaber ist.",
+            "hu": "Kezdje a napot egy frissítő sétával ebben a kiterjedt nyárfaerdőben, amely a bejáratnál bőséges parkolóhellyel rendelkezik, így tökéletes választás autósoknak.",
+            "ro": "Începeți ziua cu o plimbare în această vastă pădure de plopi, care dispune de o parcare generoasă la intrare și este absolut perfectă pentru iubitorii de natură.",
+            "en": "Start your day with a refreshing walk in this extensive poplar forest, which offers plenty of convenient parking right at the entrance for an easy morning arrival."
+          }
+        },
+        {
+          "name": {
+            "de": "Mosteiro de Santa Clara-a-Velha",
+            "hu": "Mosteiro de Santa Clara-a-Velha",
+            "ro": "Mosteiro de Santa Clara-a-Velha",
+            "en": "Mosteiro de Santa Clara-a-Velha"
+          },
+          "coords": [
+            -8.432716,
+            40.201946
+          ],
+          "category": "museum",
+          "arrive_at": "10:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.7,
+          "tip_5lang": {
+            "de": "Nutzen Sie den nahegelegenen Besucherparkplatz, um dieses faszinierende, vom Fluss Mondego gezeichnete Kloster in aller Ruhe und ohne Zeitdruck zu besichtigen.",
+            "hu": "Használja a közeli látogatói parkolót, hogy kényelmesen, sietség nélkül tekinthessék meg ezt a lenyűgöző, a Mondego folyó áradásai által formált történelmi kolostort.",
+            "ro": "Folosiți parcarea pentru vizitatori din apropiere pentru a vizita în liniște această mănăstire fascinantă, a cărei istorie a fost marcată de inundațiile râului Mondego.",
+            "en": "Make use of the nearby visitor parking lot to explore this fascinating and historically significant monastery, uniquely shaped by the floods of the Mondego river."
+          }
+        },
+        {
+          "name": {
+            "de": "Sé Velha de Coimbra",
+            "hu": "Sé Velha de Coimbra",
+            "ro": "Sé Velha de Coimbra",
+            "en": "Sé Velha de Coimbra"
+          },
+          "coords": [
+            -8.426994,
+            40.208774
+          ],
+          "category": "religious",
+          "arrive_at": "12:14",
+          "stay_min": 75,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Parken Sie Ihr Auto außerhalb der engsten Gassen und gehen Sie das letzte Stück zu Fuß, um die massiven Mauern dieser alten romanischen Kathedrale zu bewundern.",
+            "hu": "Parkolja le autóját a legszűkebb sikátorokon kívül, és tegye meg az utolsó szakaszt gyalogosan, hogy teljes valójában megcsodálhassa a régi román katedrális falait.",
+            "ro": "Parcați mașina în afara străduțelor înguste și parcurgeți ultima parte pe jos pentru a putea admira cu adevărat zidurile masive ale acestei vechi catedrale romanice.",
+            "en": "Park your car slightly outside the narrowest medieval alleys and walk the final stretch to fully appreciate the massive, imposing walls of this old Romanesque cathedral."
+          }
+        },
+        {
+          "name": {
+            "de": "Igreja de Santo António dos Olivais",
+            "hu": "Igreja de Santo António dos Olivais",
+            "ro": "Igreja de Santo António dos Olivais",
+            "en": "Igreja de Santo António dos Olivais"
+          },
+          "coords": [
+            -8.403812,
+            40.218075
+          ],
+          "category": "religious",
+          "arrive_at": "13:34",
+          "stay_min": 40,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Fahren Sie hinauf zu dieser etwas abgelegeneren Kirche, wo Sie problemlos parken und die wunderschöne monumentale Treppe abseits der großen Touristenmassen genießen können.",
+            "hu": "Autózzon fel ehhez a kicsit távolabbi templomhoz, ahol könnyedén tud parkolni, és a nagy turistatömegektől távol csodálhatja meg a gyönyörű monumentális lépcsősort.",
+            "ro": "Conduceți până la această biserică mai retrasă, unde puteți parca ușor și vă puteți bucura de superba scară monumentală departe de aglomerația turistică obișnuită.",
+            "en": "Drive up to this slightly secluded church where parking is easy, allowing you to enjoy its beautiful monumental staircase far away from the usual tourist crowds."
+          }
+        },
+        {
+          "name": {
+            "de": "Penedo da Saudade",
+            "hu": "Penedo da Saudade",
+            "ro": "Penedo da Saudade",
+            "en": "Penedo da Saudade"
+          },
+          "coords": [
+            -8.414659,
+            40.205123
+          ],
+          "category": "landmark",
+          "arrive_at": "14:18",
+          "stay_min": 55,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 1.7,
+          "tip_5lang": {
+            "de": "Beenden Sie Ihre Tour an diesem poetischen Ort mit herrlichem Blick auf die Stadt, an dem Sie in den umliegenden ruhigen Wohnstraßen stets einen Parkplatz finden.",
+            "hu": "Zárja a körútját ezen a költői szépségű helyen, ahonnan csodás kilátás nyílik a városra, és ahol a környező csendes lakóutcákban mindig talál majd szabad parkolóhelyet.",
+            "ro": "Încheiați-vă turul în acest loc plin de poezie cu o vedere minunată asupra orașului, unde veți găsi mereu un loc de parcare pe străzile rezidențiale liniștite din jur.",
+            "en": "End your driving tour at this poetic spot offering marvelous city views, knowing that you can always find a free parking space in the quiet residential streets nearby."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Der Morgen beginnt ruhig mit einem Waldspaziergang im weitläufigen Choupal-Park. Mittags fahren Sie über den Fluss, um die geschichtsträchtigen Ruinen von Santa Clara und die imposante alte Kathedrale zu besichtigen. Nachmittags steuern Sie die etwas höher gelegene, friedliche Kirche Santo António an. Abends genießen Sie das Lichtermeer vom Penedo da Saudade.",
+        "hu": "A reggel nyugodtan indul a kiterjedt Choupal park erdős ösvényein. Délben keljen át a folyón, hogy megtekintse Santa Clara történelmi romjait és az impozáns régi katedrálist. Délután autózzon fel a békés és magasabban fekvő Santo António templomhoz. Este csodálja meg a kivilágított város panorámáját a Penedo da Saudade kilátópontról.",
+        "ro": "Dimineața începe liniștit cu o plimbare prin pădurea vastului parc Choupal. La prânz, traversați râul pentru a vizita ruinele istorice ale mănăstirii Santa Clara și vechea catedrală impunătoare. După-amiaza, conduceți spre biserica pașnică Santo António, situată pe colină. Seara, admirați luminile orașului de la punctul de belvedere Penedo da Saudade.",
+        "en": "Your morning starts peacefully with a forest walk in the expansive Choupal park. Midday, drive across the river to visit the historic Santa Clara ruins and the imposing old cathedral. In the afternoon, navigate up to the peaceful and elevated Santo António church. Enjoy the evening by taking in the illuminated city views from Penedo da Saudade."
+      }
+    }
+  }
+}

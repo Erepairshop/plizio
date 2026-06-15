@@ -1,0 +1,451 @@
+{
+  "city_id": "france-saint-florent-cities-v2",
+  "anchor": {
+    "name": "Saint-Florent",
+    "coords": [
+      9.3025,
+      42.68129
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:38",
+      "total_km": 3.21,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Sainte-Anne",
+            "hu": "Église Sainte-Anne",
+            "ro": "Église Sainte-Anne",
+            "en": "Église Sainte-Anne"
+          },
+          "coords": [
+            9.299968,
+            42.681401
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, aber elegante Fassade dieser Kirche aus dem 18. Jahrhundert und genießen Sie einen ruhigen Moment abseits des Trubels.",
+            "hu": "Csodálja meg a 18. századi templom egyszerű, de elegáns homlokzatát, és töltsön el egy csendes pillanatot a nyüzsgő tér felfedezése előtt.",
+            "ro": "Admirați fațada simplă, dar elegantă a acestei biserici din secolul al XVIII-lea, bucurându-vă de un moment de liniște înainte de a explora piața.",
+            "en": "Admire the simple yet elegant facade of this 18th-century church, taking a quiet moment inside before exploring the bustling adjacent square."
+          }
+        },
+        {
+          "name": {
+            "de": "Citadelle de Saint-Florent",
+            "hu": "Citadelle de Saint-Florent",
+            "ro": "Citadelle de Saint-Florent",
+            "en": "Citadelle de Saint-Florent"
+          },
+          "coords": [
+            9.301551,
+            42.682892
+          ],
+          "category": "castle",
+          "arrive_at": "09:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Erkunden Sie die genuesische Festung mit weitem Blick auf den Hafen und tragen Sie bequeme Schuhe, um die steilen, gepflasterten Wege sicher zu meistern.",
+            "hu": "Fedezze fel ezt a történelmi genovai erődöt, ahonnan lenyűgöző kilátás nyílik a kikötőre, és viseljen kényelmes cipőt a meredek macskaköves utakon.",
+            "ro": "Explorați această fortăreață genoveză cu vederi panoramice asupra portului, purtând încălțăminte comodă pentru a naviga pe aleile pietruite și abrupte.",
+            "en": "Explore this historic Genoese fortress offering sweeping views of the harbor, and wear comfortable shoes to navigate the charmingly steep, cobbled paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Tourelle de Tignosu",
+            "hu": "Tourelle de Tignosu",
+            "ro": "Tourelle de Tignosu",
+            "en": "Tourelle de Tignosu"
+          },
+          "coords": [
+            9.294127,
+            42.682424
+          ],
+          "category": "landmark",
+          "arrive_at": "11:22",
+          "stay_min": 15,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Fotografieren Sie dieses markante Seezeichen, das Schiffe sicher in die Bucht führt, am besten zur goldenen Stunde für besonders spektakuläre Lichteffekte.",
+            "hu": "Fényképezze le ezt a feltűnő tengerészeti jelzőt, amely biztonságosan vezeti a hajókat az öbölbe; a legszebb fényeket az aranyórában csípheti el.",
+            "ro": "Fotografiați acest marcaj maritim izbitor care ghidează navele în golf, ideal de vizitat la ora de aur pentru efecte de iluminare cu adevărat spectaculoase.",
+            "en": "Photograph this striking maritime marker that guides ships safely into the bay, best viewed during golden hour for truly spectacular lighting effects."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sainte-Marie",
+            "hu": "Église Sainte-Marie",
+            "ro": "Église Sainte-Marie",
+            "en": "Église Sainte-Marie"
+          },
+          "coords": [
+            9.311067,
+            42.679913
+          ],
+          "category": "religious",
+          "arrive_at": "11:58",
+          "stay_min": 40,
+          "hop_from_prev_min": 21,
+          "hop_from_prev_km": 1.4,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese bemerkenswerte mittelalterliche Kathedrale im pisanischen Stil mit ihrer großartigen Akustik, aber prüfen Sie vorher die Öffnungszeiten.",
+            "hu": "Látogasson el ebbe a figyelemreméltó, pisai stílusú középkori katedrálisba, amely lenyűgöző akusztikájáról ismert, de előbb ellenőrizze a nyitvatartást.",
+            "ro": "Vizitați această catedrală medievală remarcabilă în stil pisan, faimoasă pentru acustica sa uimitoare, dar asigurați-vă că verificați programul de vizitare.",
+            "en": "Visit this remarkable medieval Pisan-style cathedral renowned for its stunning acoustics and ancient relics, making sure to check the varied opening hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Tettola",
+            "hu": "Plage de Tettola",
+            "ro": "Plage de Tettola",
+            "en": "Plage de Tettola"
+          },
+          "coords": [
+            9.312912,
+            42.688794
+          ],
+          "category": "recreational",
+          "arrive_at": "12:53",
+          "stay_min": 105,
+          "hop_from_prev_min": 15,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem malerischen Kieselstrand, wo klares Wasser zu einem erfrischenden Bad einlädt; packen Sie unbedingt Ihre Badeschuhe ein.",
+            "hu": "Pihenjen ezen a festői kavicsos strandon, ahol a tiszta, sekély víz frissítő úszásra csábít, ezért mindenképpen vigyen magával megfelelő vízicipőt.",
+            "ro": "Relaxați-vă pe această plajă pitorească cu pietriș, unde apele clare vă invită la o baie răcoritoare, așa că nu uitați să luați încălțăminte de apă.",
+            "en": "Relax on this picturesque pebble beach where clear, shallow waters invite you for a refreshing swim, so don't forget to pack your favorite water shoes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit der Erkundung des malerischen Kerns rund um die Église Sainte-Anne. Mittags erklimmen Sie die genuesische Citadelle mit Blick auf den Yachthafen und spazieren zur Tourelle. Der Nachmittag führt zu den alten Steinen der Église Sainte-Marie. Beenden Sie den Tag entspannt am schimmernden Wasser des Plage de Tettola.",
+        "hu": "Kezdje a reggelt az Église Sainte-Anne környékének felfedezésével. Délben másszon fel a genovai Citadelle-hez a kikötői panorámáért, majd sétáljon el a Tourelle-hez. A délután az Église Sainte-Marie ősi köveihez vezet. Zárja a napot egy kellemes pihenéssel és kavicskacsázással a festői Plage de Tettola kristálytiszta vizénél.",
+        "ro": "Începeți dimineața explorând inima pitorească a orașului în jurul Église Sainte-Anne. La prânz, urcați la Citadelle pentru vederi uimitoare și plimbați-vă spre Tourelle. După-amiaza vă poartă spre pietrele antice de la Église Sainte-Marie. Încheiați ziua relaxându-vă lângă apele strălucitoare ale Plage de Tettola.",
+        "en": "Start your morning exploring the quaint core of Saint-Florent around Église Sainte-Anne. Midday brings a climb to the Genoese Citadelle for stunning marina views and a stroll past the maritime Tourelle. Afternoon leads you to the ancient stones of Église Sainte-Marie. Conclude the day skipping stones and relaxing by the shimmering waters of Plage de Tettola."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "16:41",
+      "total_km": 6.68,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Église Sainte-Anne",
+            "hu": "Église Sainte-Anne",
+            "ro": "Église Sainte-Anne",
+            "en": "Église Sainte-Anne"
+          },
+          "coords": [
+            9.299968,
+            42.681401
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die schlichte, aber elegante Fassade dieser Kirche aus dem 18. Jahrhundert und genießen Sie einen ruhigen Moment abseits des Trubels.",
+            "hu": "Csodálja meg a 18. századi templom egyszerű, de elegáns homlokzatát, és töltsön el egy csendes pillanatot a nyüzsgő tér felfedezése előtt.",
+            "ro": "Admirați fațada simplă, dar elegantă a acestei biserici din secolul al XVIII-lea, bucurându-vă de un moment de liniște înainte de a explora piața.",
+            "en": "Admire the simple yet elegant facade of this 18th-century church, taking a quiet moment inside before exploring the bustling adjacent square."
+          }
+        },
+        {
+          "name": {
+            "de": "Citadelle de Saint-Florent",
+            "hu": "Citadelle de Saint-Florent",
+            "ro": "Citadelle de Saint-Florent",
+            "en": "Citadelle de Saint-Florent"
+          },
+          "coords": [
+            9.301551,
+            42.682892
+          ],
+          "category": "castle",
+          "arrive_at": "09:52",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.21,
+          "tip_5lang": {
+            "de": "Erkunden Sie die genuesische Festung mit weitem Blick auf den Hafen und tragen Sie bequeme Schuhe, um die steilen, gepflasterten Wege sicher zu meistern.",
+            "hu": "Fedezze fel ezt a történelmi genovai erődöt, ahonnan lenyűgöző kilátás nyílik a kikötőre, és viseljen kényelmes cipőt a meredek macskaköves utakon.",
+            "ro": "Explorați această fortăreață genoveză cu vederi panoramice asupra portului, purtând încălțăminte comodă pentru a naviga pe aleile pietruite și abrupte.",
+            "en": "Explore this historic Genoese fortress offering sweeping views of the harbor, and wear comfortable shoes to navigate the charmingly steep, cobbled paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de Tettola",
+            "hu": "Plage de Tettola",
+            "ro": "Plage de Tettola",
+            "en": "Plage de Tettola"
+          },
+          "coords": [
+            9.312912,
+            42.688794
+          ],
+          "category": "recreational",
+          "arrive_at": "11:18",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie sich an diesem malerischen Kieselstrand, wo klares Wasser zu einem erfrischenden Bad einlädt; packen Sie unbedingt Ihre Badeschuhe ein.",
+            "hu": "Pihenjen ezen a festői kavicsos strandon, ahol a tiszta, sekély víz frissítő úszásra csábít, ezért mindenképpen vigyen magával megfelelő vízicipőt.",
+            "ro": "Relaxați-vă pe această plajă pitorească cu pietriș, unde apele clare vă invită la o baie răcoritoare, așa că nu uitați să luați încălțăminte de apă.",
+            "en": "Relax on this picturesque pebble beach where clear, shallow waters invite you for a refreshing swim, so don't forget to pack your favorite water shoes."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage d'Olzo",
+            "hu": "Plage d'Olzo",
+            "ro": "Plage d'Olzo",
+            "en": "Plage d'Olzo"
+          },
+          "coords": [
+            9.322583,
+            42.696556
+          ],
+          "category": "recreational",
+          "arrive_at": "12:39",
+          "stay_min": 75,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 1.17,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre dieses Sandstrandes etwas außerhalb des Zentrums, und bringen Sie eigenen Sonnenschutz mit, da Schatten rar ist.",
+            "hu": "Élvezze a központtól kissé távolabb eső homokos strand nyugodt légkörét, és hozzon magával saját napernyőt, mivel a természetes árnyék meglehetősen ritka.",
+            "ro": "Bucurați-vă de atmosfera liniștită a acestei plaje cu nisip aflată în afara centrului aglomerat și aduceți o umbrelă, deoarece umbra naturală este rară.",
+            "en": "Enjoy the tranquil atmosphere of this sandy retreat nestled slightly outside the busy center, and bring your own shade as natural cover is quite sparse."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sainte-Marie",
+            "hu": "Église Sainte-Marie",
+            "ro": "Église Sainte-Marie",
+            "en": "Église Sainte-Marie"
+          },
+          "coords": [
+            9.311067,
+            42.679913
+          ],
+          "category": "religious",
+          "arrive_at": "14:05",
+          "stay_min": 40,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese bemerkenswerte mittelalterliche Kathedrale im pisanischen Stil mit ihrer großartigen Akustik, aber prüfen Sie vorher die Öffnungszeiten.",
+            "hu": "Látogasson el ebbe a figyelemreméltó, pisai stílusú középkori katedrálisba, amely lenyűgöző akusztikájáról ismert, de előbb ellenőrizze a nyitvatartást.",
+            "ro": "Vizitați această catedrală medievală remarcabilă în stil pisan, faimoasă pentru acustica sa uimitoare, dar asigurați-vă că verificați programul de vizitare.",
+            "en": "Visit this remarkable medieval Pisan-style cathedral renowned for its stunning acoustics and ancient relics, making sure to check the varied opening hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Roya",
+            "hu": "Plage de la Roya",
+            "ro": "Plage de la Roya",
+            "en": "Plage de la Roya"
+          },
+          "coords": [
+            9.286134,
+            42.675206
+          ],
+          "category": "recreational",
+          "arrive_at": "14:56",
+          "stay_min": 105,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem weitläufigen Sandstrand, der ideal für Wassersport ist, und kommen Sie früh, um einen guten Platz in der Nähe der Cafés zu ergattern.",
+            "hu": "Kapcsolódjon ki ezen a finom homokos, családbarát strandon, és érkezzen korán, hogy a nyüzsgő kávézók közelében találjon egy igazán kényelmes helyet.",
+            "ro": "Relaxați-vă pe această plajă extinsă cu nisip fin, perfectă pentru sporturi nautice, ajungând devreme pentru a prinde un loc bun lângă cafenelele animate.",
+            "en": "Unwind on this expansive, fine-sand beach perfect for family activities and water sports, arriving early to secure a prime spot near the lively cafes."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihre Radtour an der Église Sainte-Anne, bevor Sie die Steigung zur Citadelle bezwingen. Mittags radeln Sie zum Kieselstrand Plage de Tettola und zum ruhigen Sand des Plage d'Olzo. Entdecken Sie nachmittags die historische Église Sainte-Marie. Schließen Sie den Tag mit einer malerischen Fahrt in den Sonnenuntergang am Plage de la Roya ab.",
+        "hu": "Indítsa kerékpártúráját az Église Sainte-Anne-nál, majd tekerjen fel a történelmi Citadelle-hez. Délben élvezze a Plage de Tettola és a csendes Plage d'Olzo strandjait. Délután fedezze fel az Église Sainte-Marie lenyűgöző középkori épületét. Zárja a programot egy hangulatos naplemente-nézéssel a homokos Plage de la Roya partján.",
+        "ro": "Începeți turul cu bicicleta la Église Sainte-Anne înainte de a urca spre Citadelle. La prânz, pedalați spre pietrișul răcoritor de la Plage de Tettola și nisipul liniștit de la Plage d'Olzo. După-amiaza, descoperiți istorica Église Sainte-Marie. Încheiați cu o plimbare pitorească la apus și relaxare la întinsa Plage de la Roya.",
+        "en": "Kick off your cycling tour at Église Sainte-Anne before conquering the slight incline to the Citadelle. Midday allows a brisk ride to the refreshing pebbles of Plage de Tettola and the quiet sands of Plage d'Olzo. In the afternoon, discover the historical Église Sainte-Marie. Wrap up with a scenic sunset ride and relaxation at the expansive Plage de la Roya."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "15:20",
+      "total_km": 6.3,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Phare de Fornali",
+            "hu": "Phare de Fornali",
+            "ro": "Phare de Fornali",
+            "en": "Phare de Fornali"
+          },
+          "coords": [
+            9.279551,
+            42.688799
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 25,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Wandern Sie zu diesem malerischen Leuchtturm mit rauen Küstenpanoramen und bringen Sie ausreichend Wasser mit, da es auf dem Weg keine Einrichtungen gibt.",
+            "hu": "Túrázzon el ehhez a festői világítótoronyhoz, ahonnan zord tengerparti panoráma nyílik, és vigyen magával bőségesen vizet a kiépítetlen ösvényre.",
+            "ro": "Faceți o drumeție către acest far pitoresc ce oferă panorame de coastă sălbatice și luați multă apă cu dumneavoastră, deoarece traseul nu are facilități.",
+            "en": "Hike out to this picturesque lighthouse offering rugged coastal panoramas, and make sure to bring plenty of water as there are no facilities on the trail."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage de la Roya",
+            "hu": "Plage de la Roya",
+            "ro": "Plage de la Roya",
+            "en": "Plage de la Roya"
+          },
+          "coords": [
+            9.286134,
+            42.675206
+          ],
+          "category": "recreational",
+          "arrive_at": "09:33",
+          "stay_min": 75,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem weitläufigen Sandstrand, der ideal für Wassersport ist, und kommen Sie früh, um einen guten Platz in der Nähe der Cafés zu ergattern.",
+            "hu": "Kapcsolódjon ki ezen a finom homokos, családbarát strandon, és érkezzen korán, hogy a nyüzsgő kávézók közelében találjon egy igazán kényelmes helyet.",
+            "ro": "Relaxați-vă pe această plajă extinsă cu nisip fin, perfectă pentru sporturi nautice, ajungând devreme pentru a prinde un loc bun lângă cafenelele animate.",
+            "en": "Unwind on this expansive, fine-sand beach perfect for family activities and water sports, arriving early to secure a prime spot near the lively cafes."
+          }
+        },
+        {
+          "name": {
+            "de": "Tourelle de Tignosu",
+            "hu": "Tourelle de Tignosu",
+            "ro": "Tourelle de Tignosu",
+            "en": "Tourelle de Tignosu"
+          },
+          "coords": [
+            9.294127,
+            42.682424
+          ],
+          "category": "landmark",
+          "arrive_at": "10:55",
+          "stay_min": 15,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Fotografieren Sie dieses markante Seezeichen, das Schiffe sicher in die Bucht führt, am besten zur goldenen Stunde für besonders spektakuläre Lichteffekte.",
+            "hu": "Fényképezze le ezt a feltűnő tengerészeti jelzőt, amely biztonságosan vezeti a hajókat az öbölbe; a legszebb fényeket az aranyórában csípheti el.",
+            "ro": "Fotografiați acest marcaj maritim izbitor care ghidează navele în golf, ideal de vizitat la ora de aur pentru efecte de iluminare cu adevărat spectaculoase.",
+            "en": "Photograph this striking maritime marker that guides ships safely into the bay, best viewed during golden hour for truly spectacular lighting effects."
+          }
+        },
+        {
+          "name": {
+            "de": "Citadelle de Saint-Florent",
+            "hu": "Citadelle de Saint-Florent",
+            "ro": "Citadelle de Saint-Florent",
+            "en": "Citadelle de Saint-Florent"
+          },
+          "coords": [
+            9.301551,
+            42.682892
+          ],
+          "category": "castle",
+          "arrive_at": "11:17",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die genuesische Festung mit weitem Blick auf den Hafen und tragen Sie bequeme Schuhe, um die steilen, gepflasterten Wege sicher zu meistern.",
+            "hu": "Fedezze fel ezt a történelmi genovai erődöt, ahonnan lenyűgöző kilátás nyílik a kikötőre, és viseljen kényelmes cipőt a meredek macskaköves utakon.",
+            "ro": "Explorați această fortăreață genoveză cu vederi panoramice asupra portului, purtând încălțăminte comodă pentru a naviga pe aleile pietruite și abrupte.",
+            "en": "Explore this historic Genoese fortress offering sweeping views of the harbor, and wear comfortable shoes to navigate the charmingly steep, cobbled paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Église Sainte-Marie",
+            "hu": "Église Sainte-Marie",
+            "ro": "Église Sainte-Marie",
+            "en": "Église Sainte-Marie"
+          },
+          "coords": [
+            9.311067,
+            42.679913
+          ],
+          "category": "religious",
+          "arrive_at": "12:45",
+          "stay_min": 40,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Besuchen Sie diese bemerkenswerte mittelalterliche Kathedrale im pisanischen Stil mit ihrer großartigen Akustik, aber prüfen Sie vorher die Öffnungszeiten.",
+            "hu": "Látogasson el ebbe a figyelemreméltó, pisai stílusú középkori katedrálisba, amely lenyűgöző akusztikájáról ismert, de előbb ellenőrizze a nyitvatartást.",
+            "ro": "Vizitați această catedrală medievală remarcabilă în stil pisan, faimoasă pentru acustica sa uimitoare, dar asigurați-vă că verificați programul de vizitare.",
+            "en": "Visit this remarkable medieval Pisan-style cathedral renowned for its stunning acoustics and ancient relics, making sure to check the varied opening hours."
+          }
+        },
+        {
+          "name": {
+            "de": "Plage d'Olzo",
+            "hu": "Plage d'Olzo",
+            "ro": "Plage d'Olzo",
+            "en": "Plage d'Olzo"
+          },
+          "coords": [
+            9.322583,
+            42.696556
+          ],
+          "category": "recreational",
+          "arrive_at": "13:35",
+          "stay_min": 105,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 2.1,
+          "tip_5lang": {
+            "de": "Genießen Sie die ruhige Atmosphäre dieses Sandstrandes etwas außerhalb des Zentrums, und bringen Sie eigenen Sonnenschutz mit, da Schatten rar ist.",
+            "hu": "Élvezze a központtól kissé távolabb eső homokos strand nyugodt légkörét, és hozzon magával saját napernyőt, mivel a természetes árnyék meglehetősen ritka.",
+            "ro": "Bucurați-vă de atmosfera liniștită a acestei plaje cu nisip aflată în afara centrului aglomerat și aduceți o umbrelă, deoarece umbra naturală este rară.",
+            "en": "Enjoy the tranquil atmosphere of this sandy retreat nestled slightly outside the busy center, and bring your own shade as natural cover is quite sparse."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Fahren Sie früh zum abgelegenen Phare de Fornali für dramatische Küstenausblicke. Mittags genießen Sie die Sonne am Plage de la Roya, bevor Sie die Tourelle besichtigen und zur majestätischen Citadelle hinauffahren. Der Nachmittag ist der Église Sainte-Marie gewidmet. Der Tag endet mit einer ruhigen Fahrt zum Plage d'Olzo für den Sonnenuntergang.",
+        "hu": "Autózzon ki korán a elszigetelt Phare de Fornali világítótoronyhoz a drámai parti kilátásért. Délben süttesse magát a Plage de la Roya homokján, mielőtt megnézi a Tourelle-t és felhajt a Citadelle-hez. A délutánt az Église Sainte-Marie ősi akusztikájának szentelje. A nap a csendes Plage d'Olzo strandjánál, egy békés naplementével ér véget.",
+        "ro": "Conduceți devreme spre izolatul Phare de Fornali pentru vederi de coastă dramatice. La prânz, bucurați-vă de soare la Plage de la Roya, înainte de a vizita Tourelle și a urca la majestuoasa Citadelle. După-amiaza este dedicată acusticii medievale de la Église Sainte-Marie. Ziua se încheie la Plage d'Olzo pentru un apus liniștit.",
+        "en": "Drive out early to the isolated Phare de Fornali for dramatic coastal views. Midday finds you soaking up the sun at Plage de la Roya before checking out the Tourelle and ascending to the majestic Citadelle. Afternoon is devoted to the medieval acoustics of Église Sainte-Marie. The day ends with a peaceful drive to Plage d'Olzo for a quiet sunset."
+      }
+    }
+  }
+}

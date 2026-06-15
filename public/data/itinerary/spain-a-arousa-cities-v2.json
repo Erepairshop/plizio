@@ -1,0 +1,474 @@
+{
+  "city_id": "spain-a-arousa-cities-v2",
+  "anchor": {
+    "name": "A Arousa",
+    "coords": [
+      -8.87357,
+      42.56383
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:17",
+      "total_km": 2.8,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Concello da Illa de Arousa",
+            "hu": "Concello da Illa de Arousa",
+            "ro": "Concello da Illa de Arousa",
+            "en": "Concello da Illa de Arousa"
+          },
+          "coords": [
+            -8.873888,
+            42.563843
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historische Zentrum, das die kulturelle Bedeutung der Insel widerspiegelt, und besuchen Sie das Informationszentrum früh für beste Tipps.",
+            "hu": "Fedezze fel ezt a történelmi központot, amely a sziget kulturális jelentőségét tükrözi, és látogasson el az információs irodába a legjobb tippekért.",
+            "ro": "Explorați acest centru istoric care reflectă importanța culturală a insulei și vizitați biroul de informații devreme pentru cele mai bune recomandări turistice.",
+            "en": "Explore this historical center that reflects the island's cultural significance, and be sure to visit the information desk early for the best local tips."
+          }
+        },
+        {
+          "name": {
+            "de": "Igrexa de San Xián da Illa de Arousa",
+            "hu": "Igrexa de San Xián da Illa de Arousa",
+            "ro": "Igrexa de San Xián da Illa de Arousa",
+            "en": "Igrexa de San Xián da Illa de Arousa"
+          },
+          "coords": [
+            -8.867444,
+            42.561062
+          ],
+          "category": "religious",
+          "arrive_at": "10:39",
+          "stay_min": 40,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle Architektur dieser wichtigen lokalen Kirche und achten Sie auf die einzigartigen maritimen Details im ruhigen Innenraum.",
+            "hu": "Csodálja meg e fontos helyi templom hagyományos építészetét, és figyelje meg a csendes belső tér egyedi, tengerészeti ihletésű díszítőelemeit.",
+            "ro": "Admirați arhitectura tradițională a acestei importante biserici locale și observați detaliile maritime unice în interiorul său liniștit și primitor.",
+            "en": "Admire the traditional architecture of this important local church, and pay attention to the unique maritime-inspired details in its quiet, peaceful interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradoiro do Con do Forno",
+            "hu": "Miradoiro do Con do Forno",
+            "ro": "Miradoiro do Con do Forno",
+            "en": "Miradoiro do Con do Forno"
+          },
+          "coords": [
+            -8.879701,
+            42.565686
+          ],
+          "category": "natural",
+          "arrive_at": "11:35",
+          "stay_min": 25,
+          "hop_from_prev_min": 16,
+          "hop_from_prev_km": 1.1,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick über die Ría von diesem höchsten Punkt aus, bringen Sie unbedingt eine Kamera mit und kommen Sie bei klarem Himmel hierher.",
+            "hu": "Élvezze a panorámás kilátást a Ríára erről a legmagasabb pontról, mindenképpen hozzon fényképezőgépet, és lehetőleg tiszta égbolt idején látogasson el ide.",
+            "ro": "Bucurați-vă de vederea panoramică asupra Ría de la acest punct înalt, asigurați-vă că aduceți un aparat foto și vizitați când cerul este complet senin.",
+            "en": "Enjoy the panoramic views over the Ría from this highest point, make sure to bring a camera, and try to visit when the sky is completely clear for best photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Praia da Area da Secada",
+            "hu": "Praia da Area da Secada",
+            "ro": "Praia da Area da Secada",
+            "en": "Praia da Area da Secada"
+          },
+          "coords": [
+            -8.887045,
+            42.567922
+          ],
+          "category": "recreational",
+          "arrive_at": "12:09",
+          "stay_min": 75,
+          "hop_from_prev_min": 9,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Entspannen Sie an diesem von Kiefernwäldern umgebenen unberührten Strand und nutzen Sie den Holzsteg für einen bequemen und sandfreien Spaziergang.",
+            "hu": "Pihenjen ezen az érintetlen, fenyvesekkel körülvett strandon, és használja a kényelmes fa sétányt egy kellemes, homokmentes tengerparti sétához.",
+            "ro": "Relaxați-vă pe această plajă curată înconjurată de păduri de pini și folosiți promenada de lemn pentru o plimbare confortabilă și fără nisip pe pantofi.",
+            "en": "Relax on this pristine beach surrounded by beautiful pine forests, and use the convenient wooden boardwalk for a comfortable, sand-free coastal stroll."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro da Punta Cabalo",
+            "hu": "Faro da Punta Cabalo",
+            "ro": "Faro da Punta Cabalo",
+            "en": "Faro da Punta Cabalo"
+          },
+          "coords": [
+            -8.883995,
+            42.572424
+          ],
+          "category": "landmark",
+          "arrive_at": "13:32",
+          "stay_min": 45,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diesen charmanten, auf Felsen erbauten Leuchtturm, der einen Hauch von Seefahrtsgeschichte bietet, und achten Sie auf rutschige Steine.",
+            "hu": "Tekintse meg ezt a sziklákra épült bájos világítótornyot, amely a tengerészeti történelem egy darabját kínálja, de vigyázzon a csúszós és nedves kövekkel.",
+            "ro": "Vizitați acest far fermecător construit pe stânci, care oferă o bucată din istoria maritimă, dar aveți mare grijă la pietrele umede și alunecoase.",
+            "en": "Visit this charming lighthouse built on the rocks offering a slice of maritime history, and watch your step as the uneven stones can be quite slippery."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Am Morgen spazieren wir entspannt in das Herz von A Illa de Arousa und bewundern die alten Straßen sowie die lokale Kirche. Mittags steigen wir zum höchsten Punkt der Insel auf, um die fantastische Aussicht über die galicische Küste zu genießen. Der Nachmittag steht im Zeichen purer Entspannung am unberührten Strand. Den Tag beenden wir mit dem sanften Rauschen der Wellen am alten Leuchtturm.",
+        "hu": "Reggel nyugodtan besétálunk A Illa de Arousa szívébe, ahol megcsodáljuk az ősi utcákat és a helyi templomot. Délben felmászunk a sziget legmagasabb pontjára, hogy élvezzük a galíciai tengerpartra nyíló fantasztikus kilátást. A délután a tiszta strandon való teljes kikapcsolódásról szól. A napot az öreg világítótoronynál, a hullámok lágy morajlását hallgatva fejezzük be.",
+        "ro": "Dimineața ne plimbăm relaxați spre inima A Illa de Arousa, admirând străzile vechi și biserica locală. La prânz urcăm în cel mai înalt punct al insulei pentru a ne bucura de vederea fantastică asupra coastei. După-amiaza este dedicată relaxării pure pe plaja cu nisip fin. Ne încheiem ziua ascultând sunetul blând al valurilor la vechiul far pitoresc de pe stânci.",
+        "en": "In the morning, we take a relaxed stroll into the heart of A Illa de Arousa, admiring the old streets and the local church. At midday, we climb to the island's highest point to enjoy the fantastic view over the Galician coast. The afternoon is dedicated to pure relaxation on the pristine beach. We end our day listening to the gentle sound of the waves at the old picturesque lighthouse."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "14:22",
+      "total_km": 4.8,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Igrexa de San Xián da Illa de Arousa",
+            "hu": "Igrexa de San Xián da Illa de Arousa",
+            "ro": "Igrexa de San Xián da Illa de Arousa",
+            "en": "Igrexa de San Xián da Illa de Arousa"
+          },
+          "coords": [
+            -8.867444,
+            42.561062
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die traditionelle Architektur dieser wichtigen lokalen Kirche und achten Sie auf die einzigartigen maritimen Details im ruhigen Innenraum.",
+            "hu": "Csodálja meg e fontos helyi templom hagyományos építészetét, és figyelje meg a csendes belső tér egyedi, tengerészeti ihletésű díszítőelemeit.",
+            "ro": "Admirați arhitectura tradițională a acestei importante biserici locale și observați detaliile maritime unice în interiorul său liniștit și primitor.",
+            "en": "Admire the traditional architecture of this important local church, and pay attention to the unique maritime-inspired details in its quiet, peaceful interior."
+          }
+        },
+        {
+          "name": {
+            "de": "Concello da Illa de Arousa",
+            "hu": "Concello da Illa de Arousa",
+            "ro": "Concello da Illa de Arousa",
+            "en": "Concello da Illa de Arousa"
+          },
+          "coords": [
+            -8.873888,
+            42.563843
+          ],
+          "category": "historical",
+          "arrive_at": "09:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historische Zentrum, das die kulturelle Bedeutung der Insel widerspiegelt, und besuchen Sie das Informationszentrum früh für beste Tipps.",
+            "hu": "Fedezze fel ezt a történelmi központot, amely a sziget kulturális jelentőségét tükrözi, és látogasson el az információs irodába a legjobb tippekért.",
+            "ro": "Explorați acest centru istoric care reflectă importanța culturală a insulei și vizitați biroul de informații devreme pentru cele mai bune recomandări turistice.",
+            "en": "Explore this historical center that reflects the island's cultural significance, and be sure to visit the information desk early for the best local tips."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradoiro do Con do Forno",
+            "hu": "Miradoiro do Con do Forno",
+            "ro": "Miradoiro do Con do Forno",
+            "en": "Miradoiro do Con do Forno"
+          },
+          "coords": [
+            -8.879701,
+            42.565686
+          ],
+          "category": "natural",
+          "arrive_at": "11:17",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick über die Ría von diesem höchsten Punkt aus, bringen Sie unbedingt eine Kamera mit und kommen Sie bei klarem Himmel hierher.",
+            "hu": "Élvezze a panorámás kilátást a Ríára erről a legmagasabb pontról, mindenképpen hozzon fényképezőgépet, és lehetőleg tiszta égbolt idején látogasson el ide.",
+            "ro": "Bucurați-vă de vederea panoramică asupra Ría de la acest punct înalt, asigurați-vă că aduceți un aparat foto și vizitați când cerul este complet senin.",
+            "en": "Enjoy the panoramic views over the Ría from this highest point, make sure to bring a camera, and try to visit when the sky is completely clear for best photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro da Punta Cabalo",
+            "hu": "Faro da Punta Cabalo",
+            "ro": "Faro da Punta Cabalo",
+            "en": "Faro da Punta Cabalo"
+          },
+          "coords": [
+            -8.883995,
+            42.572424
+          ],
+          "category": "landmark",
+          "arrive_at": "11:47",
+          "stay_min": 15,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diesen charmanten, auf Felsen erbauten Leuchtturm, der einen Hauch von Seefahrtsgeschichte bietet, und achten Sie auf rutschige Steine.",
+            "hu": "Tekintse meg ezt a sziklákra épült bájos világítótornyot, amely a tengerészeti történelem egy darabját kínálja, de vigyázzon a csúszós és nedves kövekkel.",
+            "ro": "Vizitați acest far fermecător construit pe stânci, care oferă o bucată din istoria maritimă, dar aveți mare grijă la pietrele umede și alunecoase.",
+            "en": "Visit this charming lighthouse built on the rocks offering a slice of maritime history, and watch your step as the uneven stones can be quite slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "Lugar Funerario da Praia dos Bufos",
+            "hu": "Lugar Funerario da Praia dos Bufos",
+            "ro": "Lugar Funerario da Praia dos Bufos",
+            "en": "Lugar Funerario da Praia dos Bufos"
+          },
+          "coords": [
+            -8.881007,
+            42.572183
+          ],
+          "category": "historical",
+          "arrive_at": "12:04",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie diese faszinierende antike Grabstätte, die frühe menschliche Siedlungen offenbart, und tragen Sie festes Schuhwerk für den unebenen Weg.",
+            "hu": "Fedezze fel ezt a lenyűgöző ősi temetkezési helyet, amely korai emberi településeket tár fel, és viseljen zárt cipőt a kissé egyenetlen erdei ösvény miatt.",
+            "ro": "Descoperiți acest loc de înmormântare antic fascinant, care dezvăluie așezările umane timpurii, și purtați încălțăminte solidă pentru poteca denivelată.",
+            "en": "Discover this fascinating ancient burial site that reveals early human settlements, and be sure to wear sturdy shoes for the slightly uneven coastal path."
+          }
+        },
+        {
+          "name": {
+            "de": "Ría de Arousa",
+            "hu": "Ría de Arousa",
+            "ro": "Ría de Arousa",
+            "en": "Ría de Arousa"
+          },
+          "coords": [
+            -8.892796,
+            42.55272
+          ],
+          "category": "landmark",
+          "arrive_at": "13:37",
+          "stay_min": 45,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Erleben Sie das pulsierende Herz der galicischen Meeresfrüchteindustrie bei diesem Wahrzeichen und beobachten Sie die traditionellen Muschelflöße im Wasser.",
+            "hu": "Tapasztalja meg a galíciai tengergyümölcse-ipar lüktető szívét ennél a nevezetességnél, és figyelje meg a vízen ringatózó hagyományos kagylótenyésztő tutajokat.",
+            "ro": "Experimentați inima vibrantă a industriei de fructe de mare din Galiția la acest reper și urmăriți plutele tradiționale de midii care plutesc pe apă.",
+            "en": "Experience the vibrant heart of the Galician seafood industry at this major landmark, and look out for the traditional floating mussel rafts on the water."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Unsere Radtour beginnt an der spirituellen Kirche und führt uns zügig ins Zentrum, um in die Geschichte einzutauchen. Mittags radeln wir hinauf zum Aussichtspunkt, bevor wir den Charme des Leuchtturms erleben. Nachmittags erkunden wir geheimnisvolle antike Grabstätten, die von Kiefern umgeben sind. Gegen Abend erreichen wir die Ría, wo wir die Seele baumeln lassen.",
+        "hu": "Kerékpártúránk a spirituális templomnál kezdődik, majd gyorsan a központba tekerünk a történelembe merülve. Délben felkerekezünk a kilátóhoz, mielőtt megtapasztaljuk a világítótorony báját. Délután felfedezzük a fenyőkkel körülvett titokzatos, ősi temetkezési helyeket. Kora este megérkezünk a Ríához, ahol végre lazíthatunk és élvezhetjük a csodás kilátást.",
+        "ro": "Turul nostru pe bicicletă începe la biserica spirituală și ne duce rapid în centru pentru a pătrunde în istorie. La prânz pedalăm până la punctul de belvedere înainte de a simți farmecul farului. După-amiaza explorăm cimitire antice misterioase, înconjurate de pini. Spre seară ajungem la Ría, unde ne putem relaxa și admira apusul frumos peste ape.",
+        "en": "Our bike tour begins at the spiritual church and takes us quickly into the center to delve into local history. At midday, we cycle up to the viewpoint before experiencing the charm of the coastal lighthouse. In the afternoon, we explore mysterious ancient burial sites surrounded by pine trees. Towards evening, we arrive at the Ría, where we can relax and take in the beautiful scenery."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "14:57",
+      "total_km": 4.9,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Praia do Vao",
+            "hu": "Praia do Vao",
+            "ro": "Praia do Vao",
+            "en": "Praia do Vao"
+          },
+          "coords": [
+            -8.859609,
+            42.546997
+          ],
+          "category": "recreational",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Beginnen Sie Ihren Besuch an diesem zugänglichen Strand direkt an der Brücke und nutzen Sie die nahe gelegenen Parkplätze für einen einfachen Zugang.",
+            "hu": "Kezdje látogatását ezen a híres, híd melletti könnyen megközelíthető strandon, és használja a közeli, kényelmes parkolókat a gyors és egyszerű bejutáshoz.",
+            "ro": "Începeți vizita pe această plajă accesibilă situată chiar lângă pod și profitați de locurile de parcare din apropiere pentru un acces rapid și ușor.",
+            "en": "Start your visit at this accessible beach located right by the bridge, and take full advantage of the nearby parking spots for a quick and easy access."
+          }
+        },
+        {
+          "name": {
+            "de": "Xacemento da Punta de Riasón",
+            "hu": "Xacemento da Punta de Riasón",
+            "ro": "Xacemento da Punta de Riasón",
+            "en": "Xacemento da Punta de Riasón"
+          },
+          "coords": [
+            -8.862756,
+            42.553178
+          ],
+          "category": "historical",
+          "arrive_at": "10:27",
+          "stay_min": 80,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Erkunden Sie diese römische archäologische Stätte, die alte Salzungsmethoden zeigt, und lesen Sie vorher die Informationstafeln für mehr Kontext.",
+            "hu": "Fedezze fel ezt a római kori régészeti lelőhelyet, amely ősi sózási módszereket mutat be, és olvassa el a táblákat a történelmi kontextus megértéséhez.",
+            "ro": "Explorați acest sit arheologic roman care prezintă metode antice de sărare a peștelui și citiți panourile informative pentru un context istoric mai bun.",
+            "en": "Explore this Roman archaeological site showcasing ancient fish salting methods, and read the on-site information panels for much better historical context."
+          }
+        },
+        {
+          "name": {
+            "de": "Muíño de Vento dos Pedrouzos",
+            "hu": "Muíño de Vento dos Pedrouzos",
+            "ro": "Muíño de Vento dos Pedrouzos",
+            "en": "Muíño de Vento dos Pedrouzos"
+          },
+          "coords": [
+            -8.869601,
+            42.550118
+          ],
+          "category": "landmark",
+          "arrive_at": "11:49",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Bewundern Sie diese seltene Überreste einer historischen Windmühle in der Region und besichtigen Sie sie während des Tageslichts für die besten Fotos.",
+            "hu": "Csodálja meg ennek a ritka történelmi szélmalomnak a maradványait a régióban, és feltétlenül nappali fénynél látogassa meg a legjobb minőségű fotókért.",
+            "ro": "Admirați rămășițele rare ale acestei mori de vânt istorice din regiune și asigurați-vă că o vizitați în timpul zilei pentru a face cele mai bune fotografii.",
+            "en": "Admire the rare remains of this historical windmill in the coastal region, and make sure to visit during bright daylight hours for the best possible photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Concello da Illa de Arousa",
+            "hu": "Concello da Illa de Arousa",
+            "ro": "Concello da Illa de Arousa",
+            "en": "Concello da Illa de Arousa"
+          },
+          "coords": [
+            -8.873888,
+            42.563843
+          ],
+          "category": "historical",
+          "arrive_at": "12:07",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses historische Zentrum, das die kulturelle Bedeutung der Insel widerspiegelt, und besuchen Sie das Informationszentrum früh für beste Tipps.",
+            "hu": "Fedezze fel ezt a történelmi központot, amely a sziget kulturális jelentőségét tükrözi, és látogasson el az információs irodába a legjobb tippekért.",
+            "ro": "Explorați acest centru istoric care reflectă importanța culturală a insulei și vizitați biroul de informații devreme pentru cele mai bune recomandări turistice.",
+            "en": "Explore this historical center that reflects the island's cultural significance, and be sure to visit the information desk early for the best local tips."
+          }
+        },
+        {
+          "name": {
+            "de": "Miradoiro do Con do Forno",
+            "hu": "Miradoiro do Con do Forno",
+            "ro": "Miradoiro do Con do Forno",
+            "en": "Miradoiro do Con do Forno"
+          },
+          "coords": [
+            -8.879701,
+            42.565686
+          ],
+          "category": "natural",
+          "arrive_at": "13:29",
+          "stay_min": 25,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.7,
+          "tip_5lang": {
+            "de": "Genießen Sie den Panoramablick über die Ría von diesem höchsten Punkt aus, bringen Sie unbedingt eine Kamera mit und kommen Sie bei klarem Himmel hierher.",
+            "hu": "Élvezze a panorámás kilátást a Ríára erről a legmagasabb pontról, mindenképpen hozzon fényképezőgépet, és lehetőleg tiszta égbolt idején látogasson el ide.",
+            "ro": "Bucurați-vă de vederea panoramică asupra Ría de la acest punct înalt, asigurați-vă că aduceți un aparat foto și vizitați când cerul este complet senin.",
+            "en": "Enjoy the panoramic views over the Ría from this highest point, make sure to bring a camera, and try to visit when the sky is completely clear for best photos."
+          }
+        },
+        {
+          "name": {
+            "de": "Faro da Punta Cabalo",
+            "hu": "Faro da Punta Cabalo",
+            "ro": "Faro da Punta Cabalo",
+            "en": "Faro da Punta Cabalo"
+          },
+          "coords": [
+            -8.883995,
+            42.572424
+          ],
+          "category": "landmark",
+          "arrive_at": "13:56",
+          "stay_min": 15,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diesen charmanten, auf Felsen erbauten Leuchtturm, der einen Hauch von Seefahrtsgeschichte bietet, und achten Sie auf rutschige Steine.",
+            "hu": "Tekintse meg ezt a sziklákra épült bájos világítótornyot, amely a tengerészeti történelem egy darabját kínálja, de vigyázzon a csúszós és nedves kövekkel.",
+            "ro": "Vizitați acest far fermecător construit pe stânci, care oferă o bucată din istoria maritimă, dar aveți mare grijă la pietrele umede și alunecoase.",
+            "en": "Visit this charming lighthouse built on the rocks offering a slice of maritime history, and watch your step as the uneven stones can be quite slippery."
+          }
+        },
+        {
+          "name": {
+            "de": "O Con Redondo",
+            "hu": "O Con Redondo",
+            "ro": "O Con Redondo",
+            "en": "O Con Redondo"
+          },
+          "coords": [
+            -8.882438,
+            42.572164
+          ],
+          "category": "landmark",
+          "arrive_at": "14:12",
+          "stay_min": 45,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.2,
+          "tip_5lang": {
+            "de": "Betrachten Sie diese markante, abgerundete Felsformation in der Nähe des Leuchtturms und bleiben Sie wegen der starken Wellen auf sicherer Entfernung.",
+            "hu": "Tekintse meg ezt a feltűnő, lekerekített sziklaképződményt a világítótorony közelében, de a kiszámíthatatlan, erős hullámok miatt maradjon biztonságos távolságban.",
+            "ro": "Priviți această formațiune stâncoasă rotunjită, situată lângă far, și mențineți o distanță sigură din cauza valurilor puternice care se sparg de mal.",
+            "en": "View this striking rounded rock formation located right near the lighthouse, and keep a safe distance from the edge due to occasionally strong crashing waves."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Wir starten mit dem Auto direkt am Strand bei der Brücke und fahren dann weiter zu römischen Ruinen. Die Mittagspause verbringen wir mit der Besichtigung der Windmühle und dem historischen Zentrum. Am Nachmittag bringt uns eine kurze Fahrt hinauf zum Aussichtspunkt mit weitem Blick. Der Abend gehört der wilden Küste, wenn wir am Leuchtturm und dem markanten runden Felsen stehen.",
+        "hu": "Autóval indulunk közvetlenül a híd melletti strandnál, majd továbbhajtunk a római kori romokhoz. Az ebédszünetet a szélmalom és a történelmi központ meglátogatásával töltjük. Délután egy rövid út visz fel a széles kilátást nyújtó kilátóhoz. Az este a vad partvidéké, amikor a világítótoronynál és a lenyűgöző kerek sziklánál állunk, hallgatva az óceánt.",
+        "ro": "Pornim cu mașina direct pe plaja de lângă pod și apoi mergem mai departe spre ruinele romane antice. Petrecem pauza de prânz vizitând moara de vânt și centrul istoric pitoresc. După-amiaza, o scurtă plimbare ne duce la punctul de belvedere cu o vedere largă. Seara aparține coastei sălbatice, când stăm lângă farul frumos și formațiunea stâncoasă rotundă izbitoare.",
+        "en": "We start by car right at the beach near the bridge and then drive further to explore the ancient Roman ruins. We spend our lunch break visiting the classic windmill and the vibrant historical center. In the afternoon, a short drive takes us up to the viewpoint offering sweeping views. The evening belongs to the wild coast as we stand by the lighthouse and the striking rounded rock formation."
+      }
+    }
+  }
+}

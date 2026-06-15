@@ -1,0 +1,451 @@
+{
+  "city_id": "martigues",
+  "anchor": {
+    "name": "Martigues",
+    "coords": [
+      5.0475,
+      43.4053
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "14:54",
+      "total_km": 1.55,
+      "stop_count": 5,
+      "stops": [
+        {
+          "name": {
+            "de": "Miroir aux Oiseaux",
+            "hu": "Miroir aux Oiseaux",
+            "ro": "Miroir aux Oiseaux",
+            "en": "Miroir aux Oiseaux"
+          },
+          "coords": [
+            5.054887,
+            43.405228
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die farbenfrohen Fassaden an diesem historischen Fischerkanal, der unzählige Maler inspirierte, und kommen Sie früh für das beste Licht.",
+            "hu": "Csodálja meg a történelmi halászcsatornát övező színes homlokzatokat, amelyek számtalan festőt ihlettek, és érkezzen korán a legjobb fényviszonyokért.",
+            "ro": "Admirați fațadele colorate care mărginesc acest canal istoric al pescarilor, ce a inspirat nenumărați pictori, și veniți devreme pentru lumina ideală.",
+            "en": "Admire the colorful facades framing this historic fisherman's canal, which inspired countless renowned painters, and arrive early to catch the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Muzeul Ziem",
+            "hu": "Muzeul Ziem",
+            "ro": "Muzeul Ziem",
+            "en": "Muzeul Ziem"
+          },
+          "coords": [
+            5.054167,
+            43.408611
+          ],
+          "category": "museum",
+          "arrive_at": "10:36",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine beeindruckende Kunstsammlung mit lokalen Landschaften von Ziem und Zeitgenossen, aber prüfen Sie vorab den Plan der Sonderausstellungen.",
+            "hu": "Fedezze fel Ziem és kortársai helyi tájakat bemutató lenyűgöző képzőművészeti gyűjteményét, és előtte ellenőrizze az időszaki kiállítások menetrendjét.",
+            "ro": "Descoperiți o colecție impresionantă de arte frumoase cu peisaje locale de Ziem și contemporanii săi, și verificați programul expozițiilor temporare.",
+            "en": "Discover an impressive collection of fine arts showcasing local landscapes by Ziem and his contemporaries, and check the temporary exhibit schedule beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatrul Salins",
+            "hu": "Teatrul Salins",
+            "ro": "Teatrul Salins",
+            "en": "Teatrul Salins"
+          },
+          "coords": [
+            5.051308,
+            43.407167
+          ],
+          "category": "cultural",
+          "arrive_at": "12:20",
+          "stay_min": 25,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Bestaunen Sie die moderne Architektur dieses Zentrums für darstellende Kunst und versuchen Sie, Tickets für eine Abendvorstellung als perfekten Abschluss zu buchen.",
+            "hu": "Csodálja meg ennek a nyüzsgő előadóművészeti központnak a modern építészetét, és próbáljon meg jegyet foglalni egy esti előadásra a teljes élményért.",
+            "ro": "Minunați-vă de arhitectura modernă a acestui centru vibrant de arte ale spectacolului și încercați să rezervați bilete pentru un spectacol de seară excepțional.",
+            "en": "Marvel at the modern architecture of this vibrant performing arts center, and try to book tickets for an evening show to complete your cultural visit."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaja Ferrières",
+            "hu": "Plaja Ferrières",
+            "ro": "Plaja Ferrières",
+            "en": "Plaja Ferrières"
+          },
+          "coords": [
+            5.04654,
+            43.40484
+          ],
+          "category": "recreational",
+          "arrive_at": "12:53",
+          "stay_min": 60,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Entspannen Sie am weichen Sandstrand dieses charmanten Stadtstrandes direkt am Étang de Berre und bringen Sie unbedingt ein Handtuch für ein erfrischendes Bad mit.",
+            "hu": "Pihenjen a varázslatos városi strand homokos partján, közvetlenül az Étang de Berre mellett, és hozzon törölközőt egy frissítő délutáni fürdőzéshez a vízben.",
+            "ro": "Relaxați-vă pe nisipul acestei plaje fermecătoare chiar pe Étang de Berre și nu uitați să aduceți un prosop pentru o baie răcoritoare în după-amiezile însorite.",
+            "en": "Relax on the sandy shores of this charming city beach right on the Étang de Berre, and make sure to bring a towel to enjoy a refreshing swim on sunny afternoons."
+          }
+        },
+        {
+          "name": {
+            "de": "Viaductul Caronte",
+            "hu": "Viaductul Caronte",
+            "ro": "Viaductul Caronte",
+            "en": "Viaductul Caronte"
+          },
+          "coords": [
+            5.04227,
+            43.402342
+          ],
+          "category": "civic",
+          "arrive_at": "13:59",
+          "stay_min": 55,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Betrachten Sie diese monumentale Eisenbahnbrücke über den Seekanal mit fantastischen industriellen Aussichten, die sich besonders gut von den nahen Fußwegen bieten.",
+            "hu": "Figyelje meg a tengeri csatornát átszelő monumentális vasúti hidat, amely fantasztikus ipari kilátást nyújt, különösen a közeli kényelmes sétányokról nézve.",
+            "ro": "Observați acest pod feroviar monumental care traversează canalul maritim, oferind priveliști industriale fantastice, mai ales de pe potecile pietonale din jur.",
+            "en": "Observe this monumental railway bridge traversing the maritime canal, offering fantastic industrial views that are especially striking from the nearby pedestrian paths."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Morgen mit den malerischen Spiegelungen am Miroir aux Oiseaux. Der Mittag bringt künstlerische Inspiration im Muzeul Ziem und moderne Architektur am Teatrul Salins. Am Nachmittag entspannen Sie am Strand von Ferrières. Abends bewundern Sie das gewaltige Viaductul Caronte.",
+        "hu": "Kezdje a reggelt a Miroir aux Oiseaux festői tükröződéseinek megcsodálásával. A dél művészi ihletet hoz a Muzeul Ziemben, majd a Teatrul Salins következik. Délután pihenjen a Plaja Ferrières homokján. Kora este csodálja meg a grandiózus Viaductul Caronte építményét.",
+        "ro": "Începeți dimineața admirând reflexiile pitorești de la Miroir aux Oiseaux. Prânzul aduce inspirație artistică la Muzeul Ziem, urmată de Teatrul Salins. După-amiaza, relaxați-vă pe nisipurile de la Plaja Ferrières. Odată cu lăsarea serii, priviți grandiosul Viaductul Caronte.",
+        "en": "Begin your morning admiring the picturesque reflections at the Miroir aux Oiseaux. Midday brings artistic inspiration at the Muzeul Ziem followed by striking modern views at Teatrul Salins. In the afternoon, relax on the sands of Plaja Ferrières. As evening falls, gaze at the grand Viaductul Caronte."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "17:01",
+      "total_km": 6.5,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Miroir aux Oiseaux",
+            "hu": "Miroir aux Oiseaux",
+            "ro": "Miroir aux Oiseaux",
+            "en": "Miroir aux Oiseaux"
+          },
+          "coords": [
+            5.054887,
+            43.405228
+          ],
+          "category": "historical",
+          "arrive_at": "09:00",
+          "stay_min": 90,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die farbenfrohen Fassaden an diesem historischen Fischerkanal, der unzählige Maler inspirierte, und kommen Sie früh für das beste Licht.",
+            "hu": "Csodálja meg a történelmi halászcsatornát övező színes homlokzatokat, amelyek számtalan festőt ihlettek, és érkezzen korán a legjobb fényviszonyokért.",
+            "ro": "Admirați fațadele colorate care mărginesc acest canal istoric al pescarilor, ce a inspirat nenumărați pictori, și veniți devreme pentru lumina ideală.",
+            "en": "Admire the colorful facades framing this historic fisherman's canal, which inspired countless renowned painters, and arrive early to catch the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Muzeul Ziem",
+            "hu": "Muzeul Ziem",
+            "ro": "Muzeul Ziem",
+            "en": "Muzeul Ziem"
+          },
+          "coords": [
+            5.054167,
+            43.408611
+          ],
+          "category": "museum",
+          "arrive_at": "10:32",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine beeindruckende Kunstsammlung mit lokalen Landschaften von Ziem und Zeitgenossen, aber prüfen Sie vorab den Plan der Sonderausstellungen.",
+            "hu": "Fedezze fel Ziem és kortársai helyi tájakat bemutató lenyűgöző képzőművészeti gyűjteményét, és előtte ellenőrizze az időszaki kiállítások menetrendjét.",
+            "ro": "Descoperiți o colecție impresionantă de arte frumoase cu peisaje locale de Ziem și contemporanii săi, și verificați programul expozițiilor temporare.",
+            "en": "Discover an impressive collection of fine arts showcasing local landscapes by Ziem and his contemporaries, and check the temporary exhibit schedule beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaja Ferrières",
+            "hu": "Plaja Ferrières",
+            "ro": "Plaja Ferrières",
+            "en": "Plaja Ferrières"
+          },
+          "coords": [
+            5.04654,
+            43.40484
+          ],
+          "category": "recreational",
+          "arrive_at": "12:16",
+          "stay_min": 60,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.8,
+          "tip_5lang": {
+            "de": "Entspannen Sie am weichen Sandstrand dieses charmanten Stadtstrandes direkt am Étang de Berre und bringen Sie unbedingt ein Handtuch für ein erfrischendes Bad mit.",
+            "hu": "Pihenjen a varázslatos városi strand homokos partján, közvetlenül az Étang de Berre mellett, és hozzon törölközőt egy frissítő délutáni fürdőzéshez a vízben.",
+            "ro": "Relaxați-vă pe nisipul acestei plaje fermecătoare chiar pe Étang de Berre și nu uitați să aduceți un prosop pentru o baie răcoritoare în după-amiezile însorite.",
+            "en": "Relax on the sandy shores of this charming city beach right on the Étang de Berre, and make sure to bring a towel to enjoy a refreshing swim on sunny afternoons."
+          }
+        },
+        {
+          "name": {
+            "de": "Viaductul Caronte",
+            "hu": "Viaductul Caronte",
+            "ro": "Viaductul Caronte",
+            "en": "Viaductul Caronte"
+          },
+          "coords": [
+            5.04227,
+            43.402342
+          ],
+          "category": "civic",
+          "arrive_at": "13:19",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Betrachten Sie diese monumentale Eisenbahnbrücke über den Seekanal mit fantastischen industriellen Aussichten, die sich besonders gut von den nahen Fußwegen bieten.",
+            "hu": "Figyelje meg a tengeri csatornát átszelő monumentális vasúti hidat, amely fantasztikus ipari kilátást nyújt, különösen a közeli kényelmes sétányokról nézve.",
+            "ro": "Observați acest pod feroviar monumental care traversează canalul maritim, oferind priveliști industriale fantastice, mai ales de pe potecile pietonale din jur.",
+            "en": "Observe this monumental railway bridge traversing the maritime canal, offering fantastic industrial views that are especially striking from the nearby pedestrian paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Canalul de Caronte",
+            "hu": "Canalul de Caronte",
+            "ro": "Canalul de Caronte",
+            "en": "Canalul de Caronte"
+          },
+          "coords": [
+            5.013528,
+            43.402487
+          ],
+          "category": "natural",
+          "arrive_at": "13:57",
+          "stay_min": 60,
+          "hop_from_prev_min": 13,
+          "hop_from_prev_km": 2.3,
+          "tip_5lang": {
+            "de": "Schlendern Sie an der belebten Wasserstraße entlang, die Meer und Lagune verbindet, und beobachten Sie in Ruhe die großen Schiffe an den beeindruckenden Drehbrücken.",
+            "hu": "Sétáljon végig a tengert a lagúnával összekötő nyüzsgő tengeri vízi úton, és figyelje meg a lenyűgöző forgóhidakon áthaladó hatalmas és bámulatos teherszállító hajókat.",
+            "ro": "Plimbați-vă de-a lungul aglomeratei căi navigabile maritime și urmăriți navele masive care trec prin impresionantul sistem de poduri rotative din inima orașului.",
+            "en": "Stroll along the bustling maritime waterway connecting the sea to the lagoon, and take time to watch the massive ships passing through the impressive swing bridges."
+          }
+        },
+        {
+          "name": {
+            "de": "Fortul de Bouc",
+            "hu": "Fortul de Bouc",
+            "ro": "Fortul de Bouc",
+            "en": "Fortul de Bouc"
+          },
+          "coords": [
+            4.9859,
+            43.3936
+          ],
+          "category": "fortress",
+          "arrive_at": "15:11",
+          "stay_min": 110,
+          "hop_from_prev_min": 14,
+          "hop_from_prev_km": 2.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie die massiven Verteidigungsmauern dieser historischen Festung an der Kanaleinfahrt, aber tragen Sie unbedingt bequeme Schuhe für die unebenen Wege.",
+            "hu": "Fedezze fel a csatorna bejáratát őrző történelmi tengerparti erőd masszív védőfalait, de a biztonság kedvéért viseljen kényelmes cipőt az egyenetlen ösvények miatt.",
+            "ro": "Explorați zidurile defensive robuste ale acestei fortărețe istorice care păzește intrarea canalului, purtând încălțăminte foarte comodă pentru potecile inegale.",
+            "en": "Explore the sturdy defensive walls of this historic seaside fortress guarding the canal entrance, but be sure to wear comfortable shoes for the uneven pathways."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Radeln Sie an den bunten Booten des Miroir aux Oiseaux vorbei ins Muzeul Ziem. Gegen Mittag fahren Sie zur Plaja Ferrières für eine Pause und gleiten dann unter dem Viaductul Caronte hindurch. Der Nachmittag führt am Canalul de Caronte entlang zum historischen Fortul de Bouc.",
+        "hu": "Kerékpározzon el a Miroir aux Oiseaux színes csónakjai mellett, és fedezze fel a Muzeul Ziemet. Délben tekerjen le a Plaja Ferrières-hez egy napsütéses pihenőre, majd guruljon át a Viaductul Caronte alatt. A délután a Canalul de Caronte mentén a történelmi Fortul de Bouc-hoz vezet.",
+        "ro": "Pedalați pe lângă bărcile colorate de la Miroir aux Oiseaux și explorați Muzeul Ziem. La prânz, coborâți spre Plaja Ferrières pentru o pauză însorită, apoi treceți pe sub Viaductul Caronte. După-amiaza vă poartă de-a lungul Canalului de Caronte până la Fortul de Bouc.",
+        "en": "Cycle past the colorful boats of the Miroir aux Oiseaux and explore fine arts at Muzeul Ziem. Around midday, pedal down to Plaja Ferrières for a sunny break, then glide under the massive Viaductul Caronte. The afternoon leads you along the Canalul de Caronte to the historic Fortul de Bouc."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:15",
+      "total_km": 14.0,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Parcul Figuerolles",
+            "hu": "Parcul Figuerolles",
+            "ro": "Parcul Figuerolles",
+            "en": "Parcul Figuerolles"
+          },
+          "coords": [
+            5.04798,
+            43.430323
+          ],
+          "category": "natural",
+          "arrive_at": "09:00",
+          "stay_min": 85,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Spazieren Sie durch diesen weitläufigen mediterranen Park mit Pinien und Tierfarmen, der ein idealer Ort für einen ruhigen Morgenspaziergang mit der Familie ist.",
+            "hu": "Sétáljon ezen a fenyőfákkal és állatfarmokkal teli hatalmas mediterrán parkon, amely tökéletesen ideális hely egy békés reggeli sétához az egész családdal együtt.",
+            "ro": "Plimbați-vă prin acest parc mediteranean vast, plin de pini și ferme de animale, care reprezintă un loc ideal pentru o plimbare liniștită de dimineață cu familia.",
+            "en": "Wander through this expansive Mediterranean park filled with pine trees and animal farms, which serves as an ideal spot for a peaceful morning walk with the family."
+          }
+        },
+        {
+          "name": {
+            "de": "Miroir aux Oiseaux",
+            "hu": "Miroir aux Oiseaux",
+            "ro": "Miroir aux Oiseaux",
+            "en": "Miroir aux Oiseaux"
+          },
+          "coords": [
+            5.054887,
+            43.405228
+          ],
+          "category": "historical",
+          "arrive_at": "10:31",
+          "stay_min": 80,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 2.8,
+          "tip_5lang": {
+            "de": "Bewundern Sie die farbenfrohen Fassaden an diesem historischen Fischerkanal, der unzählige Maler inspirierte, und kommen Sie früh für das beste Licht.",
+            "hu": "Csodálja meg a történelmi halászcsatornát övező színes homlokzatokat, amelyek számtalan festőt ihlettek, és érkezzen korán a legjobb fényviszonyokért.",
+            "ro": "Admirați fațadele colorate care mărginesc acest canal istoric al pescarilor, ce a inspirat nenumărați pictori, și veniți devreme pentru lumina ideală.",
+            "en": "Admire the colorful facades framing this historic fisherman's canal, which inspired countless renowned painters, and arrive early to catch the best light."
+          }
+        },
+        {
+          "name": {
+            "de": "Muzeul Ziem",
+            "hu": "Muzeul Ziem",
+            "ro": "Muzeul Ziem",
+            "en": "Muzeul Ziem"
+          },
+          "coords": [
+            5.054167,
+            43.408611
+          ],
+          "category": "museum",
+          "arrive_at": "11:56",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Entdecken Sie eine beeindruckende Kunstsammlung mit lokalen Landschaften von Ziem und Zeitgenossen, aber prüfen Sie vorab den Plan der Sonderausstellungen.",
+            "hu": "Fedezze fel Ziem és kortársai helyi tájakat bemutató lenyűgöző képzőművészeti gyűjteményét, és előtte ellenőrizze az időszaki kiállítások menetrendjét.",
+            "ro": "Descoperiți o colecție impresionantă de arte frumoase cu peisaje locale de Ziem și contemporanii săi, și verificați programul expozițiilor temporare.",
+            "en": "Discover an impressive collection of fine arts showcasing local landscapes by Ziem and his contemporaries, and check the temporary exhibit schedule beforehand."
+          }
+        },
+        {
+          "name": {
+            "de": "Viaductul Caronte",
+            "hu": "Viaductul Caronte",
+            "ro": "Viaductul Caronte",
+            "en": "Viaductul Caronte"
+          },
+          "coords": [
+            5.04227,
+            43.402342
+          ],
+          "category": "civic",
+          "arrive_at": "13:39",
+          "stay_min": 25,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Betrachten Sie diese monumentale Eisenbahnbrücke über den Seekanal mit fantastischen industriellen Aussichten, die sich besonders gut von den nahen Fußwegen bieten.",
+            "hu": "Figyelje meg a tengeri csatornát átszelő monumentális vasúti hidat, amely fantasztikus ipari kilátást nyújt, különösen a közeli kényelmes sétányokról nézve.",
+            "ro": "Observați acest pod feroviar monumental care traversează canalul maritim, oferind priveliști industriale fantastice, mai ales de pe potecile pietonale din jur.",
+            "en": "Observe this monumental railway bridge traversing the maritime canal, offering fantastic industrial views that are especially striking from the nearby pedestrian paths."
+          }
+        },
+        {
+          "name": {
+            "de": "Fortul de Bouc",
+            "hu": "Fortul de Bouc",
+            "ro": "Fortul de Bouc",
+            "en": "Fortul de Bouc"
+          },
+          "coords": [
+            4.9859,
+            43.3936
+          ],
+          "category": "fortress",
+          "arrive_at": "14:14",
+          "stay_min": 80,
+          "hop_from_prev_min": 10,
+          "hop_from_prev_km": 4.6,
+          "tip_5lang": {
+            "de": "Erkunden Sie die massiven Verteidigungsmauern dieser historischen Festung an der Kanaleinfahrt, aber tragen Sie unbedingt bequeme Schuhe für die unebenen Wege.",
+            "hu": "Fedezze fel a csatorna bejáratát őrző történelmi tengerparti erőd masszív védőfalait, de a biztonság kedvéért viseljen kényelmes cipőt az egyenetlen ösvények miatt.",
+            "ro": "Explorați zidurile defensive robuste ale acestei fortărețe istorice care păzește intrarea canalului, purtând încălțăminte foarte comodă pentru potecile inegale.",
+            "en": "Explore the sturdy defensive walls of this historic seaside fortress guarding the canal entrance, but be sure to wear comfortable shoes for the uneven pathways."
+          }
+        },
+        {
+          "name": {
+            "de": "Plaja Ferrières",
+            "hu": "Plaja Ferrières",
+            "ro": "Plaja Ferrières",
+            "en": "Plaja Ferrières"
+          },
+          "coords": [
+            5.04654,
+            43.40484
+          ],
+          "category": "recreational",
+          "arrive_at": "15:45",
+          "stay_min": 90,
+          "hop_from_prev_min": 11,
+          "hop_from_prev_km": 5.0,
+          "tip_5lang": {
+            "de": "Entspannen Sie am weichen Sandstrand dieses charmanten Stadtstrandes direkt am Étang de Berre und bringen Sie unbedingt ein Handtuch für ein erfrischendes Bad mit.",
+            "hu": "Pihenjen a varázslatos városi strand homokos partján, közvetlenül az Étang de Berre mellett, és hozzon törölközőt egy frissítő délutáni fürdőzéshez a vízben.",
+            "ro": "Relaxați-vă pe nisipul acestei plaje fermecătoare chiar pe Étang de Berre și nu uitați să aduceți un prosop pentru o baie răcoritoare în după-amiezile însorite.",
+            "en": "Relax on the sandy shores of this charming city beach right on the Étang de Berre, and make sure to bring a towel to enjoy a refreshing swim on sunny afternoons."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie den Tag im Parcul Figuerolles, bevor Sie zum Miroir aux Oiseaux ins Zentrum fahren. Mittags erwarten Sie die Kunst im Muzeul Ziem und das gewaltige Viaductul Caronte. Der Nachmittag endet mit der Erkundung des Fortul de Bouc und Entspannung an der Plaja Ferrières.",
+        "hu": "Kezdje a napot a Parcul Figuerolles-ben, mielőtt Martigues szívébe vezetne a Miroir aux Oiseaux-hoz. A dél a Muzeul Ziem művészetét és a Viaductul Caronte-t tartogatja. A délután a tengerparti Fortul de Bouc felfedezésével és a Plaja Ferrières partján való pihenéssel zárul.",
+        "ro": "Începeți ziua în Parcul Figuerolles, înainte de a conduce spre centrul orașului la Miroir aux Oiseaux. Prânzul include Muzeul Ziem și impunătorul Viaductul Caronte. După-amiaza se încheie explorând Fortul de Bouc de pe coastă și relaxându-vă la Plaja Ferrières.",
+        "en": "Start the day with a refreshing walk in Parcul Figuerolles before driving to the heart of Martigues for the Miroir aux Oiseaux. Midday features the art at Muzeul Ziem and the towering Viaductul Caronte. Your afternoon wraps up exploring the coastal Fortul de Bouc and relaxing at Plaja Ferrières."
+      }
+    }
+  }
+}

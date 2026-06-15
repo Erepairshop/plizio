@@ -1,0 +1,497 @@
+{
+  "city_id": "spain-sant-cugat-del-valles-cities-v2",
+  "anchor": {
+    "name": "Sant Cugat del Vallès",
+    "coords": [
+      2.08611,
+      41.47063
+    ]
+  },
+  "modes": {
+    "walk": {
+      "mode": "walk",
+      "speed_kmh": 4,
+      "start": "09:00",
+      "end_estimate": "20:57",
+      "total_km": 1.8,
+      "stop_count": 7,
+      "stops": [
+        {
+          "name": {
+            "de": "Mercat de Sant Pere",
+            "hu": "Mercat de Sant Pere",
+            "ro": "Mercat de Sant Pere",
+            "en": "Mercat de Sant Pere"
+          },
+          "coords": [
+            2.082055,
+            41.472811
+          ],
+          "category": "landmark",
+          "arrive_at": "09:00",
+          "stay_min": 60,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die lebhafte Atmosphäre dieses historischen Marktes, entdecken Sie frische regionale Zutaten und probieren Sie lokale Spezialitäten direkt an den bunten Ständen.",
+            "hu": "Csodálja meg e történelmi piac nyüzsgő hangulatát, fedezze fel a legfrissebb regionális alapanyagokat, és kóstolja meg a helyi specialitásokat közvetlenül a barátságos árusoktól.",
+            "ro": "Admirați atmosfera vibrantă a acestei piețe istorice, descoperiți cele mai proaspete ingrediente regionale și degustați specialitățile locale direct de la vânzătorii primitori.",
+            "en": "Admire the vibrant atmosphere of this historic market, discover the freshest regional ingredients, and make sure to taste the local specialties straight from the welcoming vendors."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu de Sant Cugat",
+            "hu": "Museu de Sant Cugat",
+            "ro": "Museu de Sant Cugat",
+            "en": "Museu de Sant Cugat"
+          },
+          "coords": [
+            2.084908,
+            41.473886
+          ],
+          "category": "museum",
+          "arrive_at": "10:05",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.3,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte dieses beeindruckenden mittelalterlichen Klosters und achten Sie auf die detaillierten romanischen Kapitelle im friedlichen Kreuzgang.",
+            "hu": "Fedezze fel e lenyűgöző középkori kolostor történetét, és fordítson különös figyelmet a békés kerengőt gyönyörűen díszítő részletgazdag román stílusú oszlopfőkre.",
+            "ro": "Descoperiți istoria fascinantă a acestei impresionante mănăstiri medievale și acordați o atenție deosebită capiteliilor romanice detaliate care împodobesc frumos claustrul pașnic.",
+            "en": "Discover the fascinating history of this impressive medieval monastery and pay special attention to the detailed Romanesque capitals that beautifully adorn the peaceful cloister."
+          }
+        },
+        {
+          "name": {
+            "de": "Sala Rusiñol",
+            "hu": "Sala Rusiñol",
+            "ro": "Sala Rusiñol",
+            "en": "Sala Rusiñol"
+          },
+          "coords": [
+            2.084093,
+            41.472896
+          ],
+          "category": "museum",
+          "arrive_at": "11:47",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 0.15,
+          "tip_5lang": {
+            "de": "Genießen Sie die intime Atmosphäre dieser eleganten Kunstgalerie und nehmen Sie sich Zeit für die faszinierenden Wechselausstellungen herausragender zeitgenössischer Katalanen.",
+            "hu": "Élvezze ezen elegáns művészeti galéria meghitt hangulatát, és szánjon időt a kiemelkedő kortárs katalán festők lenyűgöző és folyamatosan változó kiállításainak megtekintésére.",
+            "ro": "Bucurați-vă de atmosfera intimă a acestei elegante galerii de artă și luați-vă timp pentru a aprecia expozițiile în schimbare ale remarcabililor pictori catalani contemporani.",
+            "en": "Enjoy the intimate atmosphere of this elegant art gallery and take your time to truly appreciate the constantly changing exhibitions featuring outstanding contemporary Catalan painters."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu del còmic i la il·lustració",
+            "hu": "Museu del còmic i la il·lustració",
+            "ro": "Museu del còmic i la il·lustració",
+            "en": "Museu del còmic i la il·lustració"
+          },
+          "coords": [
+            2.082116,
+            41.474397
+          ],
+          "category": "museum",
+          "arrive_at": "13:31",
+          "stay_min": 100,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 0.25,
+          "tip_5lang": {
+            "de": "Tauchen Sie in die farbenfrohe Welt der spanischen Comics ein und bringen Sie genügend Zeit mit, um die seltenen Originalzeichnungen und faszinierenden Illustrationen zu studieren.",
+            "hu": "Merüljön el a spanyol képregények rendkívül színes világában, és hagyjon elegendő időt a ritka eredeti rajzok és a lenyűgöző illusztrációk alapos és részletes tanulmányozására.",
+            "ro": "Cufundați-vă în lumea extrem de colorată a benzilor desenate spaniole și asigurați-vă că aveți suficient timp pentru a studia desenele originale și ilustrațiile fascinante.",
+            "en": "Immerse yourself in the highly colorful world of Spanish comics and make sure to bring enough time to study the original vintage drawings and fascinating illustrations closely."
+          }
+        },
+        {
+          "name": {
+            "de": "Teatre de la Unió",
+            "hu": "Teatre de la Unió",
+            "ro": "Teatre de la Unió",
+            "en": "Teatre de la Unió"
+          },
+          "coords": [
+            2.080279,
+            41.471689
+          ],
+          "category": "cultural",
+          "arrive_at": "15:16",
+          "stay_min": 100,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Bewundern Sie die Architektur dieses kulturellen Zentrums, das historische und moderne Elemente verbindet, und werfen Sie einen Blick auf das Programm für Abendvorstellungen.",
+            "hu": "Csodálja meg a történelmi és modern elemeket ötvöző élénk kulturális központ építészetét, és mindenképpen tekintse meg a lenyűgöző esti előadások mindig aktuális programját.",
+            "ro": "Admirați arhitectura uimitoare a acestui centru cultural, care îmbină elemente istorice și moderne, și asigurați-vă că verificați programul pentru spectacole de seară captivante.",
+            "en": "Admire the stunning architecture of this vibrant cultural center, blending historic and modern elements, and be sure to check the schedule for captivating evening performances."
+          }
+        },
+        {
+          "name": {
+            "de": "Centre Grau-Garriga d'Art Tèxtil Contemporani",
+            "hu": "Centre Grau-Garriga d'Art Tèxtil Contemporani",
+            "ro": "Centre Grau-Garriga d'Art Tèxtil Contemporani",
+            "en": "Centre Grau-Garriga d'Art Tèxtil Contemporani"
+          },
+          "coords": [
+            2.082432,
+            41.468717
+          ],
+          "category": "museum",
+          "arrive_at": "17:02",
+          "stay_min": 100,
+          "hop_from_prev_min": 6,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Erleben Sie die einzigartige Textilkunst von Grau-Garriga und achten Sie auf die überaus komplexen Webtechniken, die in diesen atemberaubend farbenfrohen Exponaten gezeigt werden.",
+            "hu": "Tapasztalja meg Grau-Garriga rendkívül egyedi textilművészetét, és figyelje meg a lenyűgözően színes kiállítási tárgyakon bemutatott, rendkívül bonyolult és különleges szövési technikákat.",
+            "ro": "Experimentați arta textilă unică a lui Grau-Garriga și acordați o atenție deosebită tehnicilor complexe de țesut prezentate în aceste exponate uimitor de colorate și vibrante.",
+            "en": "Experience the highly unique and innovative textile art of Grau-Garriga and pay close attention to the complex weaving techniques showcased in these stunningly colorful exhibits."
+          }
+        },
+        {
+          "name": {
+            "de": "Centre d'Art Maristany",
+            "hu": "Centre d'Art Maristany",
+            "ro": "Centre d'Art Maristany",
+            "en": "Centre d'Art Maristany"
+          },
+          "coords": [
+            2.079126,
+            41.467482
+          ],
+          "category": "cultural",
+          "arrive_at": "18:47",
+          "stay_min": 130,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.35,
+          "tip_5lang": {
+            "de": "Besuchen Sie dieses dynamische Zentrum für zeitgenössische Kunst, das innovative lokale Künstler fördert und seine Besucher immer wieder mit aufregenden neuen Formaten überrascht.",
+            "hu": "Látogasson el a kortárs művészet e dinamikus és modern központjába, amely innovatív helyi művészeket támogat, és folyamatosan izgalmas, új kiállítási formátumokkal lep meg.",
+            "ro": "Vizitați acest centru dinamic și modern de artă contemporană care promovează continuu artiști locali inovatori și surprinde constant vizitatorii cu noi formate de expoziții.",
+            "en": "Visit this dynamic and modern center for contemporary art that continuously promotes innovative local artists and constantly surprises visitors with exciting new exhibition formats."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Beginnen Sie Ihren Tag im Herzen der Stadt, wo der lebendige Markt die Sinne weckt. Die engen Gassen führen Sie tief in das mittelalterliche Flair rund um das beeindruckende Kloster von Sant Cugat.\n\nAm Mittag steht Kunst auf dem Programm. Die zahlreichen kleinen Museen und Galerien der Stadt bieten einen wunderbaren Einblick in die katalanische Kulturszene und die lokale Geschichte.\n\nDer Nachmittag ist geprägt von Textilkunst und zeitgenössischen Ausstellungen. Schlendern Sie entspannt von einem Kulturzentrum zum nächsten und lassen Sie sich von den Innovationen inspirieren.\n\nLassen Sie den Abend in den stimmungsvollen Straßen des Zentrums ausklingen. Die historischen Gebäude erstrahlen in sanftem Licht und bilden die perfekte Kulisse für das kulturelle Leben der Stadt.",
+        "hu": "Kezdje a napot a város szívében, ahol az élénk piac ébreszti az érzékeket. A szűk utcák mélyen Sant Cugat lenyűgöző kolostora körüli középkori hangulatba vezetnek.\n\nDélben a művészet áll a középpontban. A város számos kis múzeuma és galériája csodálatos bepillantást nyújt a katalán kulturális színtérbe és a helyi történelembe.\n\nA délutánt a textilművészet és a kortárs kiállítások jellemzik. Sétáljon kényelmesen egyik kulturális központból a másikba, és hagyja, hogy inspirálják az innovációk.\n\nZárja az estét a központ hangulatos utcáin. A történelmi épületek lágy fényben ragyognak, és tökéletes hátteret biztosítanak a város pezsgő kulturális életének.",
+        "ro": "Începeți-vă ziua în inima orașului, unde piața vibrantă trezește simțurile. Străzile înguste vă conduc adânc în atmosfera medievală din jurul impresionantei mănăstiri din Sant Cugat.\n\nLa prânz, arta este în centrul atenției. Numeroasele mici muzee și galerii ale orașului oferă o privire minunată asupra scenei culturale catalane și a istoriei locale.\n\nDupă-amiaza este caracterizată de arta textilă și expoziții contemporane. Plimbați-vă relaxat de la un centru cultural la altul și lăsați-vă inspirat de inovații.\n\nÎncheiați seara pe străzile pline de atmosferă ale centrului. Clădirile istorice strălucesc într-o lumină blândă și formează fundalul perfect pentru viața culturală a orașului.",
+        "en": "Start your day in the heart of the city, where the vibrant market awakens the senses. The narrow streets lead you deep into the medieval flair surrounding the impressive monastery of Sant Cugat.\n\nAt midday, art is the main focus. The city's numerous small museums and galleries offer a wonderful glimpse into the Catalan cultural scene and fascinating local history.\n\nThe afternoon is characterized by textile art and contemporary exhibitions. Stroll comfortably from one cultural center to the next and let yourself be inspired by the innovations.\n\nEnd the evening in the atmospheric streets of the center. The historic buildings shine in a soft light and form the perfect backdrop for the city's vibrant cultural life."
+      }
+    },
+    "bike": {
+      "mode": "bike",
+      "speed_kmh": 11,
+      "start": "09:00",
+      "end_estimate": "18:40",
+      "total_km": 5.4,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Museu de Sant Cugat",
+            "hu": "Museu de Sant Cugat",
+            "ro": "Museu de Sant Cugat",
+            "en": "Museu de Sant Cugat"
+          },
+          "coords": [
+            2.084908,
+            41.473886
+          ],
+          "category": "museum",
+          "arrive_at": "09:00",
+          "stay_min": 110,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte dieses beeindruckenden mittelalterlichen Klosters und achten Sie auf die detaillierten romanischen Kapitelle im friedlichen Kreuzgang.",
+            "hu": "Fedezze fel e lenyűgöző középkori kolostor történetét, és fordítson különös figyelmet a békés kerengőt gyönyörűen díszítő részletgazdag román stílusú oszlopfőkre.",
+            "ro": "Descoperiți istoria fascinantă a acestei impresionante mănăstiri medievale și acordați o atenție deosebită capiteliilor romanice detaliate care împodobesc frumos claustrul pașnic.",
+            "en": "Discover the fascinating history of this impressive medieval monastery and pay special attention to the detailed Romanesque capitals that beautifully adorn the peaceful cloister."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont de Can Vernet",
+            "hu": "Pont de Can Vernet",
+            "ro": "Pont de Can Vernet",
+            "en": "Pont de Can Vernet"
+          },
+          "coords": [
+            2.076711,
+            41.478149
+          ],
+          "category": "historical",
+          "arrive_at": "10:55",
+          "stay_min": 80,
+          "hop_from_prev_min": 5,
+          "hop_from_prev_km": 0.9,
+          "tip_5lang": {
+            "de": "Spazieren Sie über dieses historisch bemerkenswerte gotische Aquädukt und nutzen Sie das sanfte, klare Morgenlicht, um wirklich exzellente Architekturfotografien aufzunehmen.",
+            "hu": "Sétáljon át ezen a történelmi és rendkívül jól megőrzött gótikus vízvezetéken, és használja ki a lágy reggeli fényt a kiváló és egyedi építészeti fotók készítéséhez.",
+            "ro": "Plimbați-vă peste acest apeduct gotic istoric și remarcabil conservat și profitați de lumina blândă a dimineții pentru a realiza fotografii arhitecturale cu adevărat excelente.",
+            "en": "Walk across this historic and remarkably preserved Gothic aqueduct and take full advantage of the soft morning light for capturing truly excellent architectural photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Turó de Can Mates",
+            "hu": "Turó de Can Mates",
+            "ro": "Turó de Can Mates",
+            "en": "Turó de Can Mates"
+          },
+          "coords": [
+            2.063413,
+            41.475749
+          ],
+          "category": "natural",
+          "arrive_at": "12:22",
+          "stay_min": 75,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Genießen Sie die spektakuläre Aussicht aus diesem weitläufigen Naturpark und bringen Sie ein Picknick mit, um sich auf den saftig grünen Hügeln wunderbar entspannen zu können.",
+            "hu": "Élvezze a lenyűgöző és széles kilátást ebből a tágas természeti parkból, és fontolja meg egy kis piknik hozatalát, hogy kényelmesen pihenhessen a buja zöld domboldalakon.",
+            "ro": "Bucurați-vă de priveliștile ample și spectaculoase din acest parc natural extins și aduceți un mic picnic pentru a vă relaxa confortabil pe dealurile verzi și primitoare.",
+            "en": "Enjoy the sweeping and spectacular views from this expansive natural park and consider bringing a small picnic to relax comfortably on the lush, inviting green hillsides."
+          }
+        },
+        {
+          "name": {
+            "de": "Al vent",
+            "hu": "Al vent",
+            "ro": "Al vent",
+            "en": "Al vent"
+          },
+          "coords": [
+            2.077503,
+            41.469541
+          ],
+          "category": "historical",
+          "arrive_at": "13:44",
+          "stay_min": 80,
+          "hop_from_prev_min": 7,
+          "hop_from_prev_km": 1.3,
+          "tip_5lang": {
+            "de": "Betrachten Sie dieses markante Denkmal aus nächster Nähe und erfahren Sie mehr über seine tiefgreifende Bedeutung als dauerhaftes Symbol der lokalen Freiheit und Widerstandskraft.",
+            "hu": "Tekintse meg közelről ezt a feltűnő és rendkívül szimbolikus emlékművet, és szánjon egy pillanatot arra, hogy többet megtudjon a helyi szabadság és ellenállás fontosságáról.",
+            "ro": "Observați îndeaproape acest monument izbitor și extrem de simbolic și acordați-vă un moment pentru a afla mai multe despre semnificația sa profundă pentru libertatea locală.",
+            "en": "Observe this striking and highly symbolic monument up close and take a moment to learn more about its profound significance as a lasting symbol of local freedom and resilience."
+          }
+        },
+        {
+          "name": {
+            "de": "Casa Aymat",
+            "hu": "Casa Aymat",
+            "ro": "Casa Aymat",
+            "en": "Casa Aymat"
+          },
+          "coords": [
+            2.077429,
+            41.465091
+          ],
+          "category": "cultural",
+          "arrive_at": "15:07",
+          "stay_min": 100,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 0.5,
+          "tip_5lang": {
+            "de": "Erkunden Sie dieses faszinierende und einzigartige Museum der Teppichkunst und achten Sie auf die historischen Webstühle, die die reiche industrielle Vergangenheit der Stadt zeigen.",
+            "hu": "Fedezze fel a szőnyegművészet e lenyűgöző és egyedülálló múzeumát, és figyelje meg a történelmi mechanikus szövőszékeket, amelyek a város gazdag ipari múltját mutatják be.",
+            "ro": "Explorați acest fascinant și unic muzeu al artei covoarelor și observați războaiele mecanice istorice care prezintă minunat trecutul industrial bogat și vibrant al orașului.",
+            "en": "Explore this fascinating and unique museum of tapestry art and note the historic mechanical looms that wonderfully showcase the city's rich and vibrant industrial past."
+          }
+        },
+        {
+          "name": {
+            "de": "Europa Sport Centre",
+            "hu": "Europa Sport Centre",
+            "ro": "Europa Sport Centre",
+            "en": "Europa Sport Centre"
+          },
+          "coords": [
+            2.093863,
+            41.469102
+          ],
+          "category": "recreational",
+          "arrive_at": "16:55",
+          "stay_min": 105,
+          "hop_from_prev_min": 8,
+          "hop_from_prev_km": 1.5,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihren Tag in dieser außergewöhnlich modernen Sportanlage ausklingen, die hervorragende und gut zugängliche Möglichkeiten für eine schnelle abendliche Trainingseinheit bietet.",
+            "hu": "Zárja aktív napját pihenéssel ebben a kivételesen modern sportlétesítményben, amely kiváló és könnyen hozzáférhető lehetőségeket kínál egy gyors, esti frissítő edzéshez.",
+            "ro": "Încheiați-vă ziua activă relaxându-vă în acest centru sportiv excepțional de modern, care oferă oportunități excelente pentru o sesiune de antrenament rapidă și revigorantă.",
+            "en": "End your active day relaxing in this exceptionally modern sports facility, which offers excellent and highly accessible opportunities for a quick, refreshing evening workout session."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Starten Sie Ihre Fahrradtour am monumentalen Kloster und spüren Sie den Atem der Geschichte. Eine kurze Fahrt bringt Sie zu historischen Brücken, die noch aus der Gotik stammen.\n\nZur Mittagszeit geht es hinauf in die Natur. Der weite Blick über die hügelige Landschaft Kataloniens bietet den idealen Ort für eine kleine Pause vom städtischen Treiben.\n\nAm Nachmittag radeln Sie gemütlich zu den kulturellen Schätzen und Denkmälern der Stadt. Die gut ausgebauten Wege machen das Entdecken von historischen Villen und Museen zum Vergnügen.\n\nDer Abend bietet sich für sportliche Entspannung an. In den Randgebieten der Stadt finden Sie moderne Anlagen, um den ereignisreichen Tag aktiv und doch erholsam ausklingen zu lassen.",
+        "hu": "Kezdje kerékpártúráját a monumentális kolostornál, és érezze a történelem leheletét. Egy rövid út történelmi hidakhoz vezet, amelyek a gótikus időkből származnak.\n\nDélben irány a természet. A Katalónia dombos tájára nyíló széles kilátás ideális helyet kínál egy kis szünetre a városi forgatagból.\n\nDélután kényelmesen kerékpározzon a város kulturális kincseihez és emlékműveihez. A jól kiépített utak élvezetessé teszik a történelmi villák és múzeumok felfedezését.\n\nAz este sportos kikapcsolódást kínál. A város peremvidékén modern létesítményeket talál, ahol aktívan, mégis pihentetően zárhatja az eseménydús napot.",
+        "ro": "Începeți turul cu bicicleta la mănăstirea monumentală și simțiți respirația istoriei. O scurtă plimbare vă duce la poduri istorice care datează din perioada gotică.\n\nLa prânz, mergeți sus în natură. Priveliștea amplă asupra peisajului deluros al Cataloniei oferă locul ideal pentru o scurtă pauză de la agitația orașului.\n\nDupă-amiaza, pedalați confortabil către comorile culturale și monumentele orașului. Căile bine întreținute fac din descoperirea vilelor și muzeelor istorice o adevărată plăcere.\n\nSeara este perfectă pentru relaxare sportivă. La periferia orașului veți găsi facilități moderne pentru a încheia ziua plină de evenimente într-un mod activ, dar odihnitor.",
+        "en": "Start your bike tour at the monumental monastery and feel the breath of history. A short ride takes you to historic bridges that date back to the elegant Gothic period.\n\nAt midday, head up into nature. The wide view over the hilly landscape of Catalonia offers the ideal place for a short break from the urban hustle and bustle.\n\nIn the afternoon, cycle comfortably to the cultural treasures and monuments of the city. The well-maintained paths make discovering historic villas and museums an absolute pleasure.\n\nThe evening is perfect for sporty relaxation. On the outskirts of the city, you will find modern facilities to end the eventful day in an active yet restful manner."
+      }
+    },
+    "car": {
+      "mode": "car",
+      "speed_kmh": 28,
+      "start": "09:00",
+      "end_estimate": "17:42",
+      "total_km": 5.6,
+      "stop_count": 6,
+      "stops": [
+        {
+          "name": {
+            "de": "Sant Cebrià de Valldoreix",
+            "hu": "Sant Cebrià de Valldoreix",
+            "ro": "Sant Cebrià de Valldoreix",
+            "en": "Sant Cebrià de Valldoreix"
+          },
+          "coords": [
+            2.067345,
+            41.45828
+          ],
+          "category": "religious",
+          "arrive_at": "09:00",
+          "stay_min": 50,
+          "hop_from_prev_min": 0,
+          "hop_from_prev_km": 0.0,
+          "tip_5lang": {
+            "de": "Bewundern Sie die friedliche Stille dieser wunderschönen alten Kirche und achten Sie auf die unglaublich gut erhaltenen romanischen Architekturelemente an der charmanten Außenfassade.",
+            "hu": "Csodálja meg e gyönyörű régi templom mély, békés csendjét, és figyelje meg a hihetetlenül jól megőrzött román építészeti elemeket, amelyek a bájos külső homlokzatot díszítik.",
+            "ro": "Admirați liniștea profundă și pașnică a acestei biserici vechi și observați elementele arhitecturale romanice incredibil de bine conservate de pe fațada sa exterioară fermecătoare.",
+            "en": "Admire the deeply peaceful silence of this beautiful old church and note the incredibly well-preserved Romanesque architectural elements displayed on its charming exterior facade."
+          }
+        },
+        {
+          "name": {
+            "de": "Nau Cultural",
+            "hu": "Nau Cultural",
+            "ro": "Nau Cultural",
+            "en": "Nau Cultural"
+          },
+          "coords": [
+            2.062826,
+            41.458261
+          ],
+          "category": "cultural",
+          "arrive_at": "09:51",
+          "stay_min": 100,
+          "hop_from_prev_min": 1,
+          "hop_from_prev_km": 0.4,
+          "tip_5lang": {
+            "de": "Besichtigen Sie diesen innovativ umfunktionierten industriellen Raum, der heute als äußerst lebhaftes Zentrum für kreative Workshops und fesselnde lokale Ausstellungen dient.",
+            "hu": "Járja be ezt az innovatívan átalakított ipari teret, amely ma hihetetlenül élénk és energikus központként szolgál kreatív workshopok és vonzó helyi közösségi kiállítások számára.",
+            "ro": "Vizitați acest spațiu industrial reprofilat inovator, care acum servește ca un centru extrem de vibrant pentru ateliere creative și expoziții de artă ale comunității locale.",
+            "en": "Tour this innovatively repurposed industrial space, which now serves as a highly vibrant and energetic hub for creative workshops and engaging local community art exhibitions."
+          }
+        },
+        {
+          "name": {
+            "de": "Turó de Can Mates",
+            "hu": "Turó de Can Mates",
+            "ro": "Turó de Can Mates",
+            "en": "Turó de Can Mates"
+          },
+          "coords": [
+            2.063413,
+            41.475749
+          ],
+          "category": "natural",
+          "arrive_at": "11:35",
+          "stay_min": 75,
+          "hop_from_prev_min": 4,
+          "hop_from_prev_km": 2.0,
+          "tip_5lang": {
+            "de": "Genießen Sie die spektakuläre Aussicht aus diesem weitläufigen Naturpark und bringen Sie ein Picknick mit, um sich auf den saftig grünen Hügeln wunderbar entspannen zu können.",
+            "hu": "Élvezze a lenyűgöző és széles kilátást ebből a tágas természeti parkból, és fontolja meg egy kis piknik hozatalát, hogy kényelmesen pihenhessen a buja zöld domboldalakon.",
+            "ro": "Bucurați-vă de priveliștile ample și spectaculoase din acest parc natural extins și aduceți un mic picnic pentru a vă relaxa confortabil pe dealurile verzi și primitoare.",
+            "en": "Enjoy the sweeping and spectacular views from this expansive natural park and consider bringing a small picnic to relax comfortably on the lush, inviting green hillsides."
+          }
+        },
+        {
+          "name": {
+            "de": "Pont de Can Vernet",
+            "hu": "Pont de Can Vernet",
+            "ro": "Pont de Can Vernet",
+            "en": "Pont de Can Vernet"
+          },
+          "coords": [
+            2.076711,
+            41.478149
+          ],
+          "category": "historical",
+          "arrive_at": "12:53",
+          "stay_min": 80,
+          "hop_from_prev_min": 3,
+          "hop_from_prev_km": 1.2,
+          "tip_5lang": {
+            "de": "Spazieren Sie über dieses historisch bemerkenswerte gotische Aquädukt und nutzen Sie das sanfte, klare Morgenlicht, um wirklich exzellente Architekturfotografien aufzunehmen.",
+            "hu": "Sétáljon át ezen a történelmi és rendkívül jól megőrzött gótikus vízvezetéken, és használja ki a lágy reggeli fényt a kiváló és egyedi építészeti fotók készítéséhez.",
+            "ro": "Plimbați-vă peste acest apeduct gotic istoric și remarcabil conservat și profitați de lumina blândă a dimineții pentru a realiza fotografii arhitecturale cu adevărat excelente.",
+            "en": "Walk across this historic and remarkably preserved Gothic aqueduct and take full advantage of the soft morning light for capturing truly excellent architectural photographs."
+          }
+        },
+        {
+          "name": {
+            "de": "Museu de Sant Cugat",
+            "hu": "Museu de Sant Cugat",
+            "ro": "Museu de Sant Cugat",
+            "en": "Museu de Sant Cugat"
+          },
+          "coords": [
+            2.084908,
+            41.473886
+          ],
+          "category": "museum",
+          "arrive_at": "14:15",
+          "stay_min": 100,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Entdecken Sie die faszinierende Geschichte dieses beeindruckenden mittelalterlichen Klosters und achten Sie auf die detaillierten romanischen Kapitelle im friedlichen Kreuzgang.",
+            "hu": "Fedezze fel e lenyűgöző középkori kolostor történetét, és fordítson különös figyelmet a békés kerengőt gyönyörűen díszítő részletgazdag román stílusú oszlopfőkre.",
+            "ro": "Descoperiți istoria fascinantă a acestei impresionante mănăstiri medievale și acordați o atenție deosebită capiteliilor romanice detaliate care împodobesc frumos claustrul pașnic.",
+            "en": "Discover the fascinating history of this impressive medieval monastery and pay special attention to the detailed Romanesque capitals that beautifully adorn the peaceful cloister."
+          }
+        },
+        {
+          "name": {
+            "de": "Europa Sport Centre",
+            "hu": "Europa Sport Centre",
+            "ro": "Europa Sport Centre",
+            "en": "Europa Sport Centre"
+          },
+          "coords": [
+            2.093863,
+            41.469102
+          ],
+          "category": "recreational",
+          "arrive_at": "15:57",
+          "stay_min": 105,
+          "hop_from_prev_min": 2,
+          "hop_from_prev_km": 1.0,
+          "tip_5lang": {
+            "de": "Lassen Sie Ihren Tag in dieser außergewöhnlich modernen Sportanlage ausklingen, die hervorragende und gut zugängliche Möglichkeiten für eine schnelle abendliche Trainingseinheit bietet.",
+            "hu": "Zárja aktív napját pihenéssel ebben a kivételesen modern sportlétesítményben, amely kiváló és könnyen hozzáférhető lehetőségeket kínál egy gyors, esti frissítő edzéshez.",
+            "ro": "Încheiați-vă ziua activă relaxându-vă în acest centru sportiv excepțional de modern, care oferă oportunități excelente pentru o sesiune de antrenament rapidă și revigorantă.",
+            "en": "End your active day relaxing in this exceptionally modern sports facility, which offers excellent and highly accessible opportunities for a quick, refreshing evening workout session."
+          }
+        }
+      ],
+      "narrative_4lang": {
+        "de": "Ihre Autotour beginnt entspannt in den ruhigen Außenbezirken, wo versteckte alte Kirchen und kreative Industrieräume auf Ihre Entdeckung warten.\n\nAm Mittag fahren Sie hinauf zu den grünen Hügeln der Stadt. Die kurzen Distanzen mit dem Auto erlauben es, historische Aquädukte und weite Ausblicke mühelos miteinander zu verbinden.\n\nDer Nachmittag ist ganz der reichen Geschichte im Zentrum gewidmet. Bewundern Sie das berühmte Kloster und tauchen Sie ein in die tief verwurzelte Tradition der Region.\n\nZum Abschluss des Tages steuern Sie die modernen Freizeitgebiete an. Hier können Sie abseits des Trubels entspannen und die architektonische Vielfalt der Vororte genießen.",
+        "hu": "Autós túrája nyugodtan kezdődik a csendes külvárosokban, ahol rejtett régi templomok és kreatív ipari terek várják a felfedezést.\n\nDélben a város zöld dombjai felé veszi az irányt. Az autóval megtett rövid távolságok lehetővé teszik a történelmi vízvezetékek és a széles kilátások könnyed összekapcsolását.\n\nA délutánt teljesen a központ gazdag történelmének szenteljük. Csodálja meg a híres kolostort, és merüljön el a régió mélyen gyökerező hagyományaiban.\n\nA nap végén a modern szabadidős területek felé veszi az irányt. Itt a nyüzsgéstől távol pihenhet, és élvezheti a külvárosok építészeti sokszínűségét.",
+        "ro": "Turul dumneavoastră cu mașina începe relaxat în suburbiile liniștite, unde biserici vechi ascunse și spații industriale creative așteaptă să fie descoperite.\n\nLa prânz, conduceți până la dealurile verzi ale orașului. Distanțele scurte cu mașina fac posibilă combinarea fără efort a apeductelor istorice cu priveliștile ample.\n\nDupă-amiaza este dedicată în întregime istoriei bogate a centrului. Admirați faimoasa mănăstire și cufundați-vă în tradiția adânc înrădăcinată a regiunii.\n\nLa sfârșitul zilei, vă îndreptați spre zonele moderne de agrement. Aici vă puteți relaxa departe de agitație și vă puteți bucura de diversitatea arhitecturală a suburbiilor.",
+        "en": "Your car tour begins relaxed in the quiet suburbs, where hidden old churches and creative industrial spaces await your exciting discovery.\n\nAt midday, drive up to the green hills of the city. The short distances by car make it possible to effortlessly combine historic aqueducts and sweeping panoramic views.\n\nThe afternoon is entirely dedicated to the rich history of the center. Admire the famous monastery and immerse yourself in the deep-rooted tradition of the region.\n\nAt the end of the day, head to the modern recreational areas. Here you can relax away from the hustle and bustle and enjoy the architectural diversity of the suburbs."
+      }
+    }
+  }
+}
